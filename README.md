@@ -1,4 +1,7 @@
-#Google Play Certified Android devices
+# Google Play Certified Android devices
+
+Last sync is 17.04.2018
+
 https://support.google.com/googleplay/answer/1727131?hl=en
 
 |Retail Branding|Marketing Name|Device|Model|
