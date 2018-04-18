@@ -5,8 +5,11 @@ csv2md devices.csv > README.md
 today=$(date +%d.%m.%Y)
 cat << EOF >> head
 # Google Play Certified Android devices
+
 Last sync is $today
+
 https://support.google.com/googleplay/answer/1727131?hl=en
+
 EOF
 cat head README.md > temp && mv temp README.md
 sudo date -s '+2 hour'
