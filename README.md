@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 25.04.2018
+Last sync is 26.04.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2537,6 +2537,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Danew | Dslide 1013QC | Dslide1013QC_v2 | Dslide1013QC_v2 |
 | Danew | Dslide 714 | Dslide714_v2 | Dslide714_v2 |
 | Danew | Dslide1014 | Dslide1014 | Dslide1014 |
+| Danew | Dslide1016 | Dslide1016 | Dslide1016 |
 | Danew | Dslide714 | Dslide714 | Dslide714 |
 | Danew | Dslide971DC | Dslide971DC | Dslide971DC |
 | Danew | Konnect 504 | Konnect_504 | Konnect_504 |
@@ -3447,6 +3448,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | General Mobile | Etab5 | Etab5 | Etab5 |
 | General Mobile | GM 6 d | GM6_d_sprout | GM 6 d |
 | General Mobile | GM 6 s | GM6_s_sprout | GM 6 |
+| General Mobile | GM 6 s | GM6_s_sprout | GM6 |
 | General Mobile | GM5 Plus | gm5plus_s_sprout | GM 5 Plus |
 | General Mobile | GM5 Plus Turkcell | gm5plustkc_s_sprout | GM 5 Plus |
 | General Mobile | GM5 Plus d | gm5plus_sprout | GM 5 Plus d |
@@ -9604,12 +9606,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | MachSpeed (Apollo Brands) | TrioStealth-7 | TrioStealth-7 | TrioStealth-7 |
 | Mad Catz | M.O.J.O. | mojo | Mad Catz M.O.J.O. |
 | Majestic | TAB 611 3G | TAB_611_3G | TAB 611 3G |
+| Making Life Simple | MLS iQ1452aN | iQ1452aN | iQ1452aN |
 | Making Life Simple | iQ1012N | iQ1012N | iQ1012N |
+| Making Life Simple | iQ1019 | IQ1019N | IQ1019N |
 | Making Life Simple | iQ1805N | iQ1805N | iQ1805N |
 | Making Life Simple | iQ9013_4N | iQ9013_4N | iQ9013_4N |
 | Making Life Simple | iQE200 | iQE200 | iQE200 |
 | Making Life Simple | iQGW516 | iQGW516 | iQGW516 |
 | Making Life Simple | iQS300 | iQS300 | iQS300 |
+| Making Life Simple | iQT800 | iQT800 | iQT800 |
 | Making Life Simple | iQW503 | iQW503 | iQW503 |
 | Making Life Simple | iQW553N | iQW553N | iQW553N |
 | Making Life Simple | iQW603 | iQW603 | iQW603 |
@@ -11805,6 +11810,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Plaisio | Coral II | CoralII | Turbo-X Coral II |
 | Plaisio | Earth | Earth | Earth |
 | Plaisio | Earth 7.0\' 3G | Earth3G | Earth 7.0\'3G |
+| Plaisio | Fire | Fire | Fire |
 | Plaisio | G320 | G320 | G320 |
 | Plaisio | Hive V 3G | mg978 | Hive V 3G |
 | Plaisio | Hive V 3G | mr978 | Hive V 3G |
@@ -15491,6 +15497,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Symphony | i60 | i60 | i60 |
 | Symphony | i90 | i90 | i90 |
 | Symphony | roarV95 | roarV95 | roarV95 |
+| Symphony | roar_V150 | roar_V150 | roar_V150 |
 | T-Mobile | Telekom_Puls | T-Tab | Telekom Puls |
 | TA71CA5_JP | JP SA COUTO, S.A. _MG070A2T | TA71CA5_1 | TA71CA5 |
 | TAG Heuer | Connected | glacier | TAG Heuer |
@@ -16588,6 +16595,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Techpad | M6 Plus | M6Plus | M6Plus |
 | Techpad | TECHPAD X5 | F518 | Techpad X5 |
 | Techpad | TechPad | TechPad_916 | 916 |
+| Techpad | TechPad 10Y | TechPad_10Y | TechPad_10Y |
 | Techpad | TechPad_10x | TechPad_10x | TechPad_10x |
 | Techpad | TechPad_10xx | TechPad_10xx | TechPad_10xx |
 | Techpad | TechPad_3Gx | TechPad_3Gx | TechPad_3Gx |
@@ -17594,6 +17602,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Wiko | WIM Lite | T6901AC | WIM Lite |
 | Wiko | WIM Lite | p6901 | WIM Lite |
 | Wiko | W_C800 | W_C800 | W_C800 |
+| Wiko | W_K300 | W_K300 | W_K300 |
+| Wiko | W_K400 | W_K400 | W_K400 |
 | Wiko | W_K600 | W_K600 | W_K600 |
 | Wiko | W_P130 | W_P130 | W_P130 |
 | Wileyfox | Spark | porridge | Wileyfox Spark |
@@ -17629,6 +17639,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Woxter | Woxter_N90 | Woxter_N90 | Woxter_N90 |
 | X-TIGI | V21 | X-TIGI_V21 | X-TIGI_V21 |
 | X-TIGI | V3+ | X-TIGI_V3_Plus | X-TIGI_V3+ |
+| X-TIGI | X-TIGI_V13 | X-TIGI_V13 | X-TIGI_V13 |
 | X-TIGI | X-TIGI_V33 | X-TIGI_V33 | X-TIGI_V33 |
 | X-TIGI | X_TIGI_A1 | X_TIGI_A1 | X_TIGI_A1 |
 | X-TIGI | X_TIGI_A1Plus | X_TIGI_A1Plus | X_TIGI_A1Plus |
