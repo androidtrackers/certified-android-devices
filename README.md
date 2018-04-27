@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 26.04.2018
+Last sync is 27.04.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -322,6 +322,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Aikun | RX300 | X300 | X300 |
 | Aikun | Solely Tab S7 | HV1A | S7 |
 | Aikun | Solely Tab S8 | HV1A | S8 |
+| Aimson | Q88 | Q88 | Q88 |
 | Airtab | AT8-N | AT8-N | AT8-N |
 | Airtel | SH960S-AT | ganesa | SH960S-AT |
 | Aiuto | AT1001 | AT1001 | AT1001 |
@@ -1378,6 +1379,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | BMobile | AX822 | Bmobile_AX822 | AX822 |
 | BMobile | AX822 | Bmobile_AX822A | AX822 |
 | BMobile | AX823 | Bmobile_AX823 | AX823 |
+| BMobile | AX823 | Bmobile_AX823a | AX823 |
 | BMobile | AX825 | Bmobile_AX825 | AX825 |
 | BMobile | AX920 | Bmobile_AX920 | AX920 |
 | BMobile | AX921 | Bmobile_AX921 | AX921 |
@@ -2179,6 +2181,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Condor | PGN612 | PGN612 | PGN612 |
 | Condor | PHQ525 | PHQ525 | PHQ525 |
 | Condor | Plume L1 | SP622 | Plume L1 |
+| Condor | Plume L1 Plus | Plume_L1_Plus | Plume L1 Plus |
+| Condor | Plume L3 | Plume_L3 | Plume L3 |
 | Condor | Plume P4 Plus | PGN527 | PGN527 |
 | Condor | Plume P6 Pro LTE | PGN528 | PGN528 |
 | Condor | Plume P8 Lite | PGN610 | PGN610 |
@@ -2649,6 +2653,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Digma | DIGMA HIT Q500 3G HT5035PG | HT5035PG | HIT Q500 3G HT5035PG |
 | Digma | DIGMA LINX A453 3G LT4038PG | LT4038PG | LINX A453 3G LT4038PG |
 | Digma | DIGMA LINX B510 3G LT5037MG | LT5037MG | LINX B510 3G LT5037MG |
+| Digma | DIGMA Optima 1026N 3G TT1192PG | TT1192PG | Optima 1026N 3G TT1192PG |
 | Digma | DIGMA Optima 7017N 3G TS7177MG | TS7177MG | Optima 7017N 3G TS7177MG |
 | Digma | DIGMA Optima Prime 3 3G TS7131MG | TS7131MG | Optima_Prime_3_3G_TS7131MG |
 | Digma | DIGMA Optima Prime 4 3G TT7174PG | TT7174PG | Optima Prime 4 3G TT7174PG |
@@ -2846,6 +2851,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | EXO S.A. | wave-i007w | wave-i007w | wave-i007w |
 | Echo Mobiles | ECHO_HOLI | HOLI | ECHO_HOLI |
 | Echo Mobiles | HORIZON | HORIZON | HORIZON |
+| Echo Mobiles | HORIZON LITE | ECHO_HORIZON_LITE | ECHO_HORIZON_LITE |
 | Echo Mobiles | LOOK | LOOK | LOOK |
 | Echo Mobiles | Moon | MOON | MOON |
 | Echo Mobiles | SURF | SURF | SURF |
@@ -3373,6 +3379,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Fujitsu | arrows Tab M01T | M01T | M01T |
 | Funai Electric |  | smdkv210 | ALM-001J |
 | Fusion5 | Fusion5 | W104Plus | W104Plus |
+| Fusion5 | Fusion5_108 | Fusion5_108 | Fusion5_108 |
 | Future Mobile Technology | B-52 | 176HS1050232 | 176HS1050232 |
 | Future Mobile Technology | DRONE | FMT-NM7108-01 | FMT-NM7108-01 |
 | Future Mobile Technology | Dual 8 | FMT-NT8A42-01 | FMT-NT8A42-01 |
@@ -3391,6 +3398,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | G-TiDE | FANS7 | FANS7 | G-TiDE FANS7 |
 | G53 | TA71CA3 | TA71CA3_1 | TA71CA3 |
 | GD Classbook | TA80CA1 | TA80CA1_2 | TA80CA1 |
+| GIGI | U1 | GIGI_U1 | GIGI_U1 |
 | GSmart | Akta A4 | Akta_A4 | Akta_A4 |
 | GSmart | Aku A1 | Aku_A1 | GSmart Aku A1 |
 | GSmart | Alto A2 | Alto_A2 | GSmart Alto A2 |
@@ -3511,6 +3519,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Gigabyte | mexico | Lanix | iliumPAD |
 | Gigaset | GS160 | GS160 | Gigaset GS160 |
 | Gigaset | GS170 | GS170 | Gigaset GS170 |
+| Gigaset | GS185 | GS185 | GS185 |
 | Gigaset | Gigaset GS170 | GS170 | Gigaset GS170 |
 | Gigaset | Gigaset GS270 | Gigaset_GS270 | GS270 |
 | Gigaset | Gigaset GS270 plus | Gigaset_GS270_plus | GS270 plus |
@@ -5175,6 +5184,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | l691 | msm8226 | HS-L691 |
 | Hisense | l830 | HS8937QC | Hisense L830 |
 | Hisense | l830 | HS8937QC | STARXTREM 6 |
+| Hisense | laoshan | laoshan | HAT4KDTV |
 | Hisense | lt971 | LT971 | LT971 |
 | Hisense | u972 | HS7731SP | U972 |
 | Hisense | vision2_1 | vision2_1 | vision2_1 |
@@ -5254,6 +5264,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hotwav | Magic 8 | Magic_8 | Magic 8 |
 | Hotwav | Magic Q8 | Magic_Q8 | Magic Q8 |
 | Hotwav | Magic Q8 Plus | Magic_Q8_Plus | Magic Q8 Plus |
+| Hotwav | Magic_5_Plus | Magic_5_Plus | Magic 5 Plus |
 | Hotwav | Symbol M1 | Symbol_M1 | Symbol M1 |
 | How | 1001-G | 1001-G | 1001-G |
 | How | HT-704 | HT704 | HT-704 |
@@ -6566,6 +6577,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hyundai | Eternity W42 | W25042L | W25042L |
 | Hyundai | Eternity W44 | W25544L | W25544L |
 | Hyundai | HDT-7433H | HDT-7433H | HDT-7433H |
+| Hyundai | HDT-7433X | HDT-7433X | HDT-7433X |
 | Hyundai | HT0702W08 | HT0702W08 | HT0702W08 |
 | Hyundai | HY1-5085 | HY1_5085 | HY1-5085 |
 | Hyundai | Hyundai Koral 10W | HT1002W16 | HT1002W16 |
@@ -7240,7 +7252,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Klipad | KL600 | KLIPAD_KL600 | KLIPAD_KL600 |
 | Klipad | KL600B | KLIPAD_KL600B | KL600B |
 | Klipad | KLIPAD_A1040M | A1040M | A1040M |
+| Klipad | KLIPAD_KL4888 | KL4888 | KL4888 |
 | Klipad | KLIPAD_SMART_D71 | KLIPAD_SMART_D71 | KLIPAD_SMART_D71 |
+| Klipad | KLIPAD_SMART_I746 | KLIPAD_SMART_I746 | KLIPAD_SMART_I746 |
+| Klipad | KL_6888 | KL_6888 | KL_6888 |
 | Klipad | PRO_I746 | KLIPAD_PRO_I746 | KLIPAD_PRO_I746 |
 | Klipad | SMART_D791 | KLIPAD_SMART_D791 | KLIPAD_SMART_D791 |
 | Klipad | SMART_I745 | KLIPAD_SMART_I745 | KLIPAD_SMART_I745 |
@@ -8563,6 +8578,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LINSAY | F-7HD2CORE / F-7HD4CORE / F-10HD2CORE /F-10XHD4CORE | F-7HD2CORE | LINSAY F-7HD2CORE/F-7HD4CORE/F-10HD2CORE/F-10XHD4CORE |
 | LT Electronics | LT_C2100 | LT_C2100 | LT_C2100 |
 | LT Electronics | LT_C2200 | LT_C2200 | LT C2200 |
+| LT Electronics | LT_C3300 | LT_C3300 | LT_C3300 |
 | LT Electronics | LT_S9_NOTE | LT_S9_NOTE | LT_S9_NOTE |
 | LUVO | 001 | luvo_001 | Luvo 001 |
 | LUVO | 001L | LUVO-001L | LUVO 001L |
@@ -9611,8 +9627,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Making Life Simple | iQ1019 | IQ1019N | IQ1019N |
 | Making Life Simple | iQ1805N | iQ1805N | iQ1805N |
 | Making Life Simple | iQ9013_4N | iQ9013_4N | iQ9013_4N |
+| Making Life Simple | iQD700 | iQD700 | iQD700 |
 | Making Life Simple | iQE200 | iQE200 | iQE200 |
 | Making Life Simple | iQGW516 | iQGW516 | iQGW516 |
+| Making Life Simple | iQM960 | iQM960 | iQM960 |
+| Making Life Simple | iQR704 | iQR704 | iQR704 |
 | Making Life Simple | iQS300 | iQS300 | iQS300 |
 | Making Life Simple | iQT800 | iQT800 | iQT800 |
 | Making Life Simple | iQW503 | iQW503 | iQW503 |
@@ -12316,6 +12335,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Qilive | Q9S55IN4G | Q9S55IN4G | Q9S55IN4G |
 | Qilive | W55 | W55 | W55 |
 | Qpad | XL PLUS | t591_hwd_q19_hiya_we | XL PLUS |
+| Qtouch | Q01A | Q01A | Q01A |
+| Qtouch | Q05A | Q05A | Q05A |
 | Quanta |  | Nirvana_Tablet | Nirvana_Tablet |
 | Quanta |  | infinity_g | INFINITY G NK2 |
 | Quanta |  | nk1 | IGS-1000 |
@@ -14824,6 +14845,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sky Devices | SKY 5.0LM | SKY_50LM | SKY 5.0LM |
 | Sky Devices | SKY 5.0Pro II | SKY_50Pro_II | SKY 5.0Pro II |
 | Sky Devices | SKY 55M | SKY_55M | SKY 55M |
+| Sky Devices | SKY_Pro_III | SKY_Pro_III | SKY_Pro_III |
 | SkyLife | UHD2 | IC1110 | IC1110 |
 | SkyLife | skylife LTE TV | DMTS17SS | DMT_1621 |
 | Skyworth | Asia | globe_ap | globe |
@@ -14890,6 +14912,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sony |  | ST26i | ST26i |
 | Sony |  | nbx02 | Sony Tablet P |
 | Sony | BRAVIA 2015 | SVP-DTV15 | BRAVIA 2015 |
+| Sony | BRAVIA 2K GB ATV3 | BRAVIA_ATV3_2K | BRAVIA 2K GB ATV3 |
 | Sony | BRAVIA 4K 2015 | SVP-DTV15 | BRAVIA 2015 |
 | Sony | BRAVIA 4K 2015 | SVP-DTV15 | BRAVIA 4K 2015 |
 | Sony | BRAVIA 4K GB | BRAVIA_ATV2 | BRAVIA 4K GB |
@@ -16596,6 +16619,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Techpad | TECHPAD X5 | F518 | Techpad X5 |
 | Techpad | TechPad | TechPad_916 | 916 |
 | Techpad | TechPad 10Y | TechPad_10Y | TechPad_10Y |
+| Techpad | TechPad 9x | TechPad_9x | TechPad_9x |
 | Techpad | TechPad_10x | TechPad_10x | TechPad_10x |
 | Techpad | TechPad_10xx | TechPad_10xx | TechPad_10xx |
 | Techpad | TechPad_3Gx | TechPad_3Gx | TechPad_3Gx |
@@ -16942,6 +16966,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Turbonet | TN500A1 | TN500A1 | TN500A1 |
 | Turbonet | TN500A2 | TN500A2 | TN500A2 |
 | Turbonet | TurboTab E1 | TN800A1 | TN800A1 |
+| Turbopad | TurboX | TurboX_Ray | TurboX_Ray |
 | Turbopad | Turbopad1016 | Turbopad1016 | Turbopad1016 |
 | Turk Telekom | E4 | 722T | E4 |
 | UNILORIN | UNI10IN | UNI10IN | UNI10IN |
@@ -17211,6 +17236,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Visual Land | Prestige Prime10SE | Prime10SE | Prime10SE |
 | Visual Land | Prestige Prime11E | Prime11E | Prime11E |
 | Vitsmo | Zero Spin | Zero_Spin | Zero_Spin |
+| Vivax | FUN S20 | FUN_S20 | FUN_S20 |
 | Vivax | VIVAX_Fly_V1 | VIVAX_Fly_V1 | VIVAX_Fly_V1 |
 | Vivo | 1601 | 1601 | vivo 1601 |
 | Vivo | 1601 | 1601 | vivo 1713 |
@@ -17643,6 +17669,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | X-TIGI | X-TIGI_V33 | X-TIGI_V33 | X-TIGI_V33 |
 | X-TIGI | X_TIGI_A1 | X_TIGI_A1 | X_TIGI_A1 |
 | X-TIGI | X_TIGI_A1Plus | X_TIGI_A1Plus | X_TIGI_A1Plus |
+| X-View | PROTON_AMBER_HD | Proton_Amber_HD | Proton_Amber_HD |
 | Xcell | Enia | Xcell_Enia | Enia |
 | Xcell | Zoom | Xcell_Zoom | Zoom |
 | Xiaomi | China | braveheart | MiTV |
@@ -19299,7 +19326,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iVOOMi | i1s | i1s | i1s |
 | intelkom | meanIT_C1 | meanIT_C1 | meanIT_C1 |
 | intelkom | meanIT_C2 | meanIT_C2 | meanIT_C2 |
-| mytel | M9502 | M9501 | M9501 |
+| mytel | M9501 | M9501 | M9501 |
 | mytel | M9502 | M9502 | M9502 |
 | mytel | M9503 | M9503 | M9503 |
 | mytel | M9602 | M9602 | M9602 |
