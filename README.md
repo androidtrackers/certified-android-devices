@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 27.04.2018
+Last sync is 28.04.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3948,6 +3948,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | HTC | Desire 10 pro | htc_a56dj_pro_dugl | HTC_D10i |
 | HTC | Desire 10 pro | htc_a56dj_pro_uhl | HTC 2PYA3 |
 | HTC | Desire 10 pro | htc_a56dj_pro_uhl | HTC Desire 10 pro |
+| HTC | Desire 12 | htc_breeze_dugl | HTC 2Q5V1 |
+| HTC | Desire 12 | htc_breeze_dugl | HTC Desire 12 |
+| HTC | Desire 12 | htc_breeze_ul | HTC 2Q5V200 |
+| HTC | Desire 12 | htc_breeze_ul | HTC Desire 12 (2Q5V200) |
 | HTC | Desire 200 | gtou | HTC Desire 200 |
 | HTC | Desire 200 | gtou | HTC_Desire_200 |
 | HTC | Desire 210 dual sim | htc_v0_dug | HTC Desire 210 dual sim |
@@ -4471,6 +4475,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | HTC | Wildfire S A515c | marvelc | HTC-PG762 |
 | HTC | Wildfire S A515c | marvelc | USCCADR6230US |
 | HTC | X2-HT | htc_ocla1_sprout | X2-HT |
+| HTC | breeze | htc_breeze_dugl | HTC 2Q5V1 |
+| HTC | breeze | htc_breeze_dugl | HTC Desire 12 |
 | HTC | desire 400 dual sim | cp2dug | HTC Desire 400 dual sim |
 | HTC | desire 608t | cp3dtg | HTC 608t |
 | HTC | desire 610 | htc_a3qhdul | HTC Desire 610 |
@@ -5262,6 +5268,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hotwav | Magic 5 | Magic_5 | Magic 5 |
 | Hotwav | Magic 6 | Magic_6 | Magic 6 |
 | Hotwav | Magic 8 | Magic_8 | Magic 8 |
+| Hotwav | Magic 9 | Magic_9 | Magic 9 |
 | Hotwav | Magic Q8 | Magic_Q8 | Magic Q8 |
 | Hotwav | Magic Q8 Plus | Magic_Q8_Plus | Magic Q8 Plus |
 | Hotwav | Magic_5_Plus | Magic_5_Plus | Magic 5 Plus |
@@ -6664,6 +6671,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Infinix | HOT 4 PRO | X556 | Infinix_X556_LTE |
 | Infinix | HOT 4 Pro | Infinix-X5511-13M | Infinix HOT 4 Pro |
 | Infinix | HOT 4 Pro | X556 | Infinix HOT 4 Pro |
+| Infinix | HOT 6 | Infinix-X606B | Infinix X606B |
 | Infinix | HOT 6 Pro | Infinix-X608 | Infinix X608 |
 | Infinix | HOT NOTE | Infinix-X551 | Infinix-X551 |
 | Infinix | HOT S3 | Infinix-X573 | Infinix X573 |
@@ -7027,6 +7035,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Itel | S11 | S11 | itel S11 |
 | Itel | S11 Plus | S11Plus | itel S11 Plus |
 | Itel | S11 Plus | S11Plus | itel S11Plus |
+| Itel | S11X | itel-S11X | itel S11X |
 | Itel | S12 | itel-S12 | itel S12 |
 | Itel | S21 | itel-S21 | itel S21 |
 | Itel | S31 | S31 | itel S31 |
@@ -9664,6 +9673,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Maxwest | Nitro 4N LTE | Nitro_4N_LTE | Nitro 4N LTE |
 | Maxwest | Nitro 55N | Nitro_55N | Nitro 55N |
 | Maxwest | Nitro 5N | Nitro_5N | Nitro_5N |
+| Maxwest | Ranger 5 | Ranger_5 | Ranger_5 |
 | MeanIT | C4 | C4 | C4 |
 | MeanIT | meanIT C80C81 | meanIT_C80C81 | meanIT_C80C81 |
 | MeanIT | meanIT_C10C11 | meanIT_C10C11 | meanIT_C10C11 |
@@ -10550,6 +10560,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Motorola | moto e5 plus | ahannah | moto e5 plus |
 | Motorola | moto e5 plus | hannah | Moto E |
 | Motorola | moto e5 plus | hannah | moto e5 plus |
+| Motorola | moto e5 plus | hannah | moto e5 supra |
 | Motorola | moto e5 plus | rhannah | Moto E |
 | Motorola | moto e5 plus | rhannah | moto e5 plus |
 | Motorola | moto g(6) | ali | XT1925-10 |
@@ -11547,7 +11558,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Panasonic | FZ-N1 | FZ-N1VUCCL | FZ-N1 |
 | Panasonic | FZ-N1 | FZ-N1VUCF | FZ-N1 |
 | Panasonic | FZ-N1 | FZ-N1VUF | FZ-N1 |
-| Panasonic | FZ-N1VUCL | FZ-N1VUCL | FZ-N1 |
 | Panasonic | FZ-X1 | FZ-X1 | FZ-X1 |
 | Panasonic | FZ-X1 | FZ-X1VU | FZ-X1 |
 | Panasonic | FZ-X1 | FZ-X1VUC | FZ-X1 |
@@ -12337,6 +12347,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Qpad | XL PLUS | t591_hwd_q19_hiya_we | XL PLUS |
 | Qtouch | Q01A | Q01A | Q01A |
 | Qtouch | Q05A | Q05A | Q05A |
+| Qtouch | QS701 | QS701 | QS701 |
+| Qtouch | QS702 | QTOUCH-QS702 | QS702 |
 | Quanta |  | Nirvana_Tablet | Nirvana_Tablet |
 | Quanta |  | infinity_g | INFINITY G NK2 |
 | Quanta |  | nk1 | IGS-1000 |
@@ -15462,6 +15474,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Stylus | Sumo SP5201G LTE | Sumo_SP5201G_LTE | Sumo_SP5201G_LTE |
 | Stylus | Sumo_XL_SP5501G_LTE | Sumo_XL_SP5501G_LTE | Sumo_XL_SP5501G_LTE |
 | Stylus | Symbol SP4002G | Symbol_SP4002G | Symbol_SP4002G |
+| Stylus | Wintech | WIN4 | WIN4 |
 | Sugar | SUGAR C11 | v12bns | SUGAR C11 |
 | Sugar | SUGAR Y12 | p101bs | SUGAR Y12 |
 | Sugar | Sugar | s9121 | SUGAR |
@@ -17057,6 +17070,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vernee | X1 | X1_PRO | X1 |
 | Verssed | FW8977-ED | FW8977-ED | FW8977-ED |
 | Vertex | BLK3D | BLK3D | BLK3D |
+| Vertex | CS24 | CS24 | CS24 |
 | Vertex | CS28 | CS28 | CS28 |
 | Vertex | EF | EF | EF |
 | Vertex | EO | EO | EO |
@@ -17669,6 +17683,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | X-TIGI | X-TIGI_V33 | X-TIGI_V33 | X-TIGI_V33 |
 | X-TIGI | X_TIGI_A1 | X_TIGI_A1 | X_TIGI_A1 |
 | X-TIGI | X_TIGI_A1Plus | X_TIGI_A1Plus | X_TIGI_A1Plus |
+| X-View | AMBER_KIDS | AMBER_KIDS | AMBER_KIDS |
 | X-View | PROTON_AMBER_HD | Proton_Amber_HD | Proton_Amber_HD |
 | Xcell | Enia | Xcell_Enia | Enia |
 | Xcell | Zoom | Xcell_Zoom | Zoom |
