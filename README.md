@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 28.04.2018
+Last sync is 29.04.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2473,6 +2473,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DBM Maroc | Speed X2 | Speed-X2 | Speed-X2 |
 | DEA Factory | KTAB | KTAB | KTAB |
 | DEXP | B350 | B350 | B350 |
+| DEXP | BS250 | BS250 | BS250 |
 | DEXP | DEXP B145 | B145 | B145 |
 | DEXP | DEXP G150 | G150 | G150 |
 | DEXP | DEXP Ixion M850 | M850 | Ixion M850 |
@@ -2668,6 +2669,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Digma | DIGMA Plane 1551S 4G PS1164ML | PS1164ML | Plane_1551S_4G_PS1164ML |
 | Digma | DIGMA Plane 1553M 4G PS1166ML | PS1166ML | Plane_1553M_4G_PS1166ML |
 | Digma | DIGMA Plane 1559 4G PS1173PL | PS1173PL | Plane_1559_4G_PS1173PL |
+| Digma | DIGMA Plane 1570N 3G PS1185MG | PS1185MG | Plane 1570N 3G PS1185MG |
 | Digma | DIGMA Plane 1713T 3G PT1138MG | PT1138MG | Plane 1713T 3G PT1138MG |
 | Digma | DIGMA Plane 1715T 4G PT1139PL | PT1139PL | Plane 1715T 4G PT1139PL |
 | Digma | DIGMA Plane 7006 4G PS7041PL | PS7041PL | Plane_7006_4G_PS7041PL |
