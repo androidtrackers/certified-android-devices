@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 01.05.2018
+Last sync is 02.05.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1786,6 +1786,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blu | Vivo_X_WW | V0230WW | Vivo X |
 | Bluboo | D1 | BLUBOO_D1 | D1 |
 | Bluboo | D1_Pro | D1_Pro | D1_Pro |
+| Bluboo | D2 Pro | D2_Pro | D2_Pro |
 | Bluboo | D5 | D5 | D5 |
 | Bluboo | D5 Pro | D5_Pro | D5 Pro |
 | Bluboo | S1a | S1a | S1a |
@@ -2762,6 +2763,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Dopo | DPM7827 | RCT6773W22 | DPM7827 |
 | Dopo | EM63 Tablet | EM63 | EM63 |
 | Dopo | GS-918 | GS_918 | GS-918 |
+| Doppio | Doppio SL548 | Doppio_SL548 | SL548 |
 | Doppio | Doppio_SL505 | Doppio_SL505 | SL505 |
 | Doppio | SG402 | SG402 | SG402 |
 | Doppio | SG504 | SG504 | SG504 |
@@ -3721,6 +3723,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Google | Chromebook | jerry_cheets | Rockchip RK3288 Chromebook |
 | Google | Chromebook | mighty_cheets | RK3288 Chrome OS Device |
 | Google | Chromebook | mighty_cheets | Rockchip RK3288 Chromebook |
+| Google | Chromebook | reef_cheets | ASUS Chromebook C213NA |
 | Google | Chromebook | reef_cheets | Intel Apollo Lake Chromebook |
 | Google | Chromebook | reef_cheets | reef |
 | Google | Chromebook | relm_cheets | Braswell Chrome OS Device |
@@ -3740,6 +3743,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Gplus | F53 | GPLUS_F53 | GPLUS F53 |
 | Gplus | F68+ | F68 | F68+ |
 | Gplus | FW6950 | GPLUS_FW6950 | GPLUS_FW6950 |
+| Gplus | GPLUS_A2_Plus | GPLUS_A2_Plus | GPLUS_A2_Plus |
 | Gplus | S9701 | GPLUS_S9701 | GPLUS_S9701 |
 | Gradiente | iphone C600 | GBC_bravo | iphone C600 |
 | Gradiente | iphone C600 | bravo | iphone C600 |
@@ -3763,6 +3767,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Gtel | A770_SL8_Pro | A770_SL8_Pro | A770_SL8_Pro |
 | Gtel | A770_XL7 | A770_XL7 | A770_XL7 |
 | Gtel | Gtel X6mini | Gtel_X6mini | Gtel X6mini |
+| Gtel | Gtel X6plus | Gtel_X6plus | Gtel X6plus |
 | Gtel | Gtel X6pro | Gtel_X6pro | Gtel X6pro |
 | Gtel | Gtel X6s | Gtel_X6s | Gtel X6s |
 | Gtel | Gtel_Vivo3 | Gtel_Vivo3 | Gtel_Vivo3 |
@@ -6609,6 +6614,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hyundai | Ultra Storm | Ultra_Storm | Ultra Storm |
 | Hyundai | Ultra Style | Ultra_Style | Ultra Style |
 | Hyundai | Ultra Sync | Ultra_Sync | Ultra Sync |
+| Hyundai | Ultra Trend | Ultra_Trend | Ultra Trend |
 | Hyundai | Ultra Vision | Ultra_Vision | Ultra Vision |
 | Hyundai | Ultra Vision Plus | Ultra_Vision_Plus | Ultra_Vision_Plus |
 | Hyundai | e501 | e501 | e501 |
@@ -8591,6 +8597,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LT Electronics | LT_C2200 | LT_C2200 | LT C2200 |
 | LT Electronics | LT_C3300 | LT_C3300 | LT_C3300 |
 | LT Electronics | LT_S9_NOTE | LT_S9_NOTE | LT_S9_NOTE |
+| LT Electronics | LT_X5 | LT_X5 | LT_X5 |
 | LUVO | 001 | luvo_001 | Luvo 001 |
 | LUVO | 001L | LUVO-001L | LUVO 001L |
 | LUXYA | MID704DC Tablet / Bitmore Tab770 | MY7317P | MID704DC |
@@ -9540,6 +9547,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Logicom | Volt-R | Volt-R | Volt-R |
 | Logitech | Revue | ka | Revue |
 | Louis Vuitton | Tambour Horizon | sundial | Tambour |
+| Lucentel | Siren_1 | Siren_1 | Siren_1 |
 | Lumigon | T2 | msm7630_fw8911 | T2 |
 | Lumigon | T2 HD | T2HD | T2HD |
 | Lumigon | T3 | Lumigon_T3 | Lumigon_T3 |
@@ -10554,6 +10562,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Motorola | XOOM 2 | pasteur | MZ617 |
 | Motorola | XT605 | umts_jorian | XT605 |
 | Motorola | XT627 | umts_irock | XT627 |
+| Motorola | moto e(5) play | james | moto e5 play |
 | Motorola | moto e(5) plus | rhannah | Moto E |
 | Motorola | moto e(5) plus | rhannah | moto e5 plus |
 | Motorola | moto e5 play | rjames_f | Moto E |
@@ -11021,6 +11030,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nokia | Nokia 6.1 | PL2_sprout | Nokia 6.1 |
 | Nokia | Nokia 7 | C1N | TA-1041 |
 | Nokia | Nokia 7 plus | B2N | Nokia 7 plus |
+| Nokia | Nokia 7 plus | B2N_sprout | Nokia 7 plus |
 | Nokia | Nokia 8 | NB1 | TA-1004 |
 | Nokia | Nokia 8 | NB1 | TA-1012 |
 | Nokia | Nokia 8 | NB1 | TA-1052 |
@@ -11527,6 +11537,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Panasonic | Elite 12 v3 | Elitev3_12 | Elitev3 |
 | Panasonic | Elite 12 v3.1 | elitev3a_cam | Elite v3a with camera |
 | Panasonic | Elite 16 | Elite16 | Elite |
+| Panasonic | Elite 16 v2 | Elite16 | Elite |
 | Panasonic | Elite 18 | Elite18 | Elite |
 | Panasonic | Elite13 v3 | Elitev3_13 | Elitev3 |
 | Panasonic | Elitev3a | elitev3a | Elite v3a |
@@ -12695,6 +12706,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy A5(2017) | a5y17ltelgt | SM-A520L |
 | Samsung | Galaxy A5(2017) | a5y17lteskt | SM-A520S |
 | Samsung | Galaxy A5x(2016) | a5xeltextc | SM-A510Y |
+| Samsung | Galaxy A6 | a6lte | SM-A600FN |
+| Samsung | Galaxy A6+ | a6plte | SM-A605G |
 | Samsung | Galaxy A7 | a73g | SM-A700H |
 | Samsung | Galaxy A7 | a7alte | SM-A700F |
 | Samsung | Galaxy A7 | a7lte | SM-A700FD |
@@ -17336,6 +17349,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vivo | vivo X20 | PD1709 | vivo PD1709 |
 | Vivo | vivo X20 | PD1709 | vivo X20A |
 | Vivo | vivo X20Plus | PD1710 | vivo PD1710 |
+| Vivo | vivo X20Plus | PD1710 | vivo X20Plus A |
 | Vivo | vivo X20Plus UD | PD1721 | vivo PD1721 |
 | Vivo | vivo X20Plus UD | PD1721 | vivo X20Plus UD |
 | Vivo | vivo X21A | PD1728 | vivo X21A |
@@ -17521,6 +17535,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | WeTek | Play | Play | Play |
 | WeTek | WeTek | wh220 | Air |
 | Weimei | WEIMEI NEON2 | WEIMEI_NEON2 | WEIMEI_NEON2 |
+| Weimei | weplus 3 | weplus_3 | weplus_3 |
 | Welgate | WA-U420D | WA-U420D | WA-U420D |
 | Wenu | Kate | Wenu | Kate |
 | Wigor | V2 | V2 | V2 |
