@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 02.05.2018
+Last sync is 03.05.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -84,6 +84,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Accent | Pearl A4 PLUS | PEARL_A4_PLUS | PEARL A4 PLUS |
 | Accent | Pearl_A4 | Pearl_A4 | Pearl A4 |
 | Accent | SPEED S8 | SPEED_S8 | SPEED_S8 |
+| Acegame S.A. | PROTON_JADE_2_PRO | PROTON_JADE_2_PRO | PROTON_JADE_2_PRO |
 | Acer |  | C6 | Acer E320 |
 | Acer |  | C6 | Acer E320-orange |
 | Acer |  | C7 | E330 |
@@ -272,6 +273,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Admiral Overseas Corporation | A2472PW4T | G3SMNTA24 | G3SMNTA24 |
 | Admiral Overseas Corporation | A7 | A7 | A7 |
 | Admiral Overseas Corporation | C7 | C7 | C7 |
+| Admiral Overseas Corporation | Fire | Fire | Fire |
 | Admiral Overseas Corporation | O7 | O7 | O7 |
 | Admiral Overseas Corporation | One | One | One |
 | Advan digital | 5041 | ADVAN_5041 | 5041 |
@@ -1144,7 +1146,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Asus | ZenFone Live Plus (ZB553KL) | ASUS_X00LD_2 | ASUS_X00LDB |
 | Asus | ZenFone Live Plus (ZB553KL) | ASUS_X00LD_3 | ASUS_X00LDA |
 | Asus | ZenFone Live Plus (ZB553KL) | ASUS_X00LD_3 | ZB553KL |
+| Asus | ZenFone Max M1 (ZB555KL) | ASUS_X00P_1 | ASUS_X00PD |
+| Asus | ZenFone Max M1 (ZB555KL) | ASUS_X00P_1 | ZB555KL |
 | Asus | ZenFone Max M1 (ZB555KL) | ASUS_X00P_2 | ASUS_X00PD |
+| Asus | ZenFone Max M1 (ZB555KL) | ASUS_X00P_3 | ASUS_X00PD |
 | Asus | ZenFone Max Plus M1 (ZB570TL) | ASUS_X018_1 | ASUS_X018D |
 | Asus | ZenFone Max Plus M1 (ZB570TL) | ASUS_X018_2 | ASUS_X018D |
 | Asus | ZenFone Max Plus M1 (ZB570TL) | ASUS_X018_4 | ASUS_X018D |
@@ -2487,6 +2492,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DEXP | DEXP_B160 | B160 | B160 |
 | DEXP | DNS_DEXP XL150 Project | XL150 | XL150 |
 | DEXP | Dexp Ursus P210 | P210 | P210 |
+| DEXP | Dexp Ursus P380 | P380 | P380 |
 | DEXP | Dexp Ursus S170i | S170i | S170i |
 | DEXP | EL450 | EL450 | Ixion EL450 |
 | DEXP | ERA | G155 | G155 |
@@ -9607,6 +9613,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | MG series | Any 303 | TR10CD2_2 | TR10CD2 |
 | MG series | Any 303 | TR10CD2_3 | TR10CD2 |
 | MJS | T2702 | T2702 | T2702 |
+| MOVI | Movi Projector Phone | Movi | Movi Projector Phone |
 | MOVIC | Dual | Dual | Dual |
 | MOVIC | MOVIC-W2 | MOVIC-W2 | MOVIC-W2 |
 | MPman | MPDC1006 | MPDC1006 | MPDC1006 |
@@ -9641,7 +9648,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | MachSpeed (Apollo Brands) | TrioStealth-7 | TrioStealth-7 | TrioStealth-7 |
 | Mad Catz | M.O.J.O. | mojo | Mad Catz M.O.J.O. |
 | Majestic | TAB 611 3G | TAB_611_3G | TAB 611 3G |
+| Making Life Simple | Brace | iQM801 | iQM801 |
 | Making Life Simple | MLS iQ1452aN | iQ1452aN | iQ1452aN |
+| Making Life Simple | Stage | iQM1001 | iQM1001 |
 | Making Life Simple | iQ1012N | iQ1012N | iQ1012N |
 | Making Life Simple | iQ1019 | IQ1019N | IQ1019N |
 | Making Life Simple | iQ1805N | iQ1805N | iQ1805N |
@@ -9798,6 +9807,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Meitu | V4 | V4 | Meitu V4 |
 | Meitu | V4s | V4s | Meitu V4s |
 | Meitu | Victoria | Victoria | MP1602 |
+| Meizu | E3 | MeizuE3 | MEIZU E3 |
 | Meizu | M15 | M15 | M15 |
 | Meizu | M6 | meizu_M6 | M6 |
 | Meizu | M6 | meizu_M6 | MEIZU M6 |
@@ -11236,6 +11246,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oppo | CPH1727 | CPH1727 | CPH1727 |
 | Oppo | CPH1729 | CPH1729 | CPH1729 |
 | Oppo | CPH1801 | CPH1801 | CPH1801 |
+| Oppo | CPH1807 | CPH1807 | CPH1807 |
 | Oppo | CPH1819 | CPH1819 | CPH1819 |
 | Oppo | CPH1821 | CPH1821 | CPH1821 |
 | Oppo | CPH1827 | CPH1827 | CPH1827 |
@@ -11455,6 +11466,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oukitel | U22 | U22 | U22 |
 | Oukitel | U7 Max | U7_Max | U7 Max |
 | Oukitel | U7 Plus | U7_Plus | U7 Plus |
+| Oukitel | WP5000 | WP5000 | WP5000 |
 | Overmax | Livecore7032 | Livecore7032 | Livecore7032 |
 | OwnMobile | FUN VALUE 4G | FUNVALUE4G | FUN VALUE 4G |
 | OwnMobile | OWN Smart \xc3\x962 | SMART_O2 | SMART_O2 |
@@ -11571,6 +11583,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Panasonic | FZ-N1 | FZ-N1VUCCL | FZ-N1 |
 | Panasonic | FZ-N1 | FZ-N1VUCF | FZ-N1 |
 | Panasonic | FZ-N1 | FZ-N1VUF | FZ-N1 |
+| Panasonic | FZ-N1F | FZ-N1F | FZ-N1 |
 | Panasonic | FZ-X1 | FZ-X1 | FZ-X1 |
 | Panasonic | FZ-X1 | FZ-X1VU | FZ-X1 |
 | Panasonic | FZ-X1 | FZ-X1VUC | FZ-X1 |
@@ -12060,6 +12073,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Positivo BGH | BGH Y710 kids | Y700 | Positivo BGH Y710 KIDS |
 | Positivo BGH | M840 | M840 | Positivo BGH M840 |
 | Positivo BGH | Positivo BGH +Simple | C805 | Positivo BGH +Simple |
+| Positivo BGH | W750 | W750 | Positivo BGH W750 |
 | Positivo BGH | Y1000 | Y1000 | Y1000 |
 | Positivo BGH | Y1010 | Y1010 | Positivo BGH Y1010 |
 | Positivo BGH | Ypy | T701_AR | L701 TV |
@@ -12373,6 +12387,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Quanta | True Beyond 4G | al7 | TRUE BEYOND 4G |
 | Quanta | VSD220 | VSD220 | VSD220 |
 | Quantum | FLY | Q7 | Quantum Fly |
+| Quantum | Fit | QF73 | Quantum Fit |
 | Quantum | Go | Q1 | Quantum Go |
 | Quantum | Go | Q2 | Quantum Go |
 | Quantum | Go 2 | Q19 | GO 2 |
@@ -12707,6 +12722,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy A5(2017) | a5y17lteskt | SM-A520S |
 | Samsung | Galaxy A5x(2016) | a5xeltextc | SM-A510Y |
 | Samsung | Galaxy A6 | a6lte | SM-A600FN |
+| Samsung | Galaxy A6 | a6lte | SM-A600G |
 | Samsung | Galaxy A6+ | a6plte | SM-A605G |
 | Samsung | Galaxy A7 | a73g | SM-A700H |
 | Samsung | Galaxy A7 | a7alte | SM-A700F |
@@ -13996,6 +14012,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy S8+ | dream2qltechn | SM-G9550 |
 | Samsung | Galaxy S8+ | dream2qltesq | SM-G955U |
 | Samsung | Galaxy S8+ | dream2qlteue | SM-G955U1 |
+| Samsung | Galaxy S9 | SC-02K | SC-02K |
+| Samsung | Galaxy S9 | SCV38 | SCV38 |
 | Samsung | Galaxy S9 | starlte | SM-G960F |
 | Samsung | Galaxy S9 | starlteks | SM-G960N |
 | Samsung | Galaxy S9 | starqltechn | SM-G9600 |
@@ -14003,6 +14021,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy S9 | starqltecs | SM-G960W |
 | Samsung | Galaxy S9 | starqltesq | SM-G960U |
 | Samsung | Galaxy S9 | starqlteue | SM-G960U1 |
+| Samsung | Galaxy S9+ | SC-03K | SC-03K |
+| Samsung | Galaxy S9+ | SCV39 | SCV39 |
 | Samsung | Galaxy S9+ | star2lte | SM-G965F |
 | Samsung | Galaxy S9+ | star2lteks | SM-G965N |
 | Samsung | Galaxy S9+ | star2qltechn | SM-G9650 |
@@ -17345,6 +17365,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vivo | vivo 1721 | PD1709F_EX | vivo 1721 |
 | Vivo | vivo 1723 | 1723 | vivo 1723 |
 | Vivo | vivo 1724 | 1724 | vivo 1724 |
+| Vivo | vivo 1725 | 1725 | vivo 1725 |
 | Vivo | vivo 1727 | 1727 | vivo 1727 |
 | Vivo | vivo X20 | PD1709 | vivo PD1709 |
 | Vivo | vivo X20 | PD1709 | vivo X20A |
