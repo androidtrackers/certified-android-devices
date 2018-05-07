@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 06.05.2018
+Last sync is 07.05.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -73,6 +73,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | AV | AV10 | RCT6203W46 | AV10 |
 | AV | AV7 | RCT6773W22 | AV7 |
 | AVH San Luis S.A. | ActionKids3.0 | ActionKids3_0 | ActionKids3.0 |
+| AVH San Luis S.A. | ExcerG5.6 | ExcerG5_6 | ExcerG5.6 |
 | AVH San Luis S.A. | Vortech3.0 | Vortech3_0 | Vortech3.0 |
 | AXXA | AXXA S45 | AXXA_S45 | AXXA_S45 |
 | AZBox | AZDroid | AZDroid | AZDroid |
@@ -1666,6 +1667,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blu | Dash 4.5 | D730 | Dash 4.5 |
 | Blu | Dash G | Dash_G | Dash G |
 | Blu | Dash L3 | D931 | Dash L3 |
+| Blu | Dash L4 | D131 | Dash L4 |
 | Blu | Dash L4 LTE | D0050 | Dash L4 LTE |
 | Blu | Dash L4X | D0040UU | Dash L4X |
 | Blu | Dash L5 LTE | D0090WW | Dash L5 LTE |
@@ -2594,6 +2596,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Dell | Venue 8 | Venue8 | Venue8 3840 LTE |
 | Dell | Venue 8 | yellowtail | Venue 8 3830 |
 | Dell | Venue 8 | yellowtail | Venue 8 HSPA+ |
+| Delm | D1018 | D1018 | D1018 |
 | Delm | D718 | D718 | D718 |
 | Denso Wave | BHT-1600 | BHT1600 | BHT1600 |
 | Denso Wave | BHT-1700BWB-A7 | BHT-1700BWB-1-A7 | BHT-1700BWB-1-A7 |
@@ -3715,6 +3718,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | GoClever | QUANTUM_700S/QUANTUM 700S | QUANTUM_700S | QUANTUM_700S |
 | GoClever | Quantum 500 STEEL | FQ_500R | Quantum_500_STEEL |
 | GoClever | TQ700/QUANTUM 700/TAB | TQ700 | TQ700 |
+| Gonna | Zebra | Zebra | Zebra |
 | Goo | g08 | v12dn | View Prime |
 | Google | Android Wear | bluegill | Alberto |
 | Google | Android Wear | bluegill | EA Connected |
@@ -6685,6 +6689,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Infinix | HOT 4 PRO | X556 | Infinix_X556_LTE |
 | Infinix | HOT 4 Pro | Infinix-X5511-13M | Infinix HOT 4 Pro |
 | Infinix | HOT 4 Pro | X556 | Infinix HOT 4 Pro |
+| Infinix | HOT 6 | Infinix-X606 | Infinix X606 |
 | Infinix | HOT 6 | Infinix-X606B | Infinix X606B |
 | Infinix | HOT 6 Pro | Infinix-X608 | Infinix X608 |
 | Infinix | HOT NOTE | Infinix-X551 | Infinix-X551 |
@@ -7026,10 +7031,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Itel | A12 | itel_A12 | itel A12 |
 | Itel | A13 | itel_A13 | itel A13 |
 | Itel | A13 Plus | itel-A13Plus | itel A13Plus |
+| Itel | A15 | itel-A15 | itel A15 |
 | Itel | A20 | itel-A20 | itel A20 |
 | Itel | A21 | itel_A21 | itel A21 |
 | Itel | A31 | itel_A31 | itel A31 |
 | Itel | A31 Plus | itel-A31Plus | itel A31Plus |
+| Itel | A32F | itel-A32F | itel A32F |
 | Itel | A40 | itel-A40 | itel A40 |
 | Itel | A41 | itel_A41 | itel A41 |
 | Itel | A41 Plus | itel_A41Plus | itel A41 Plus |
@@ -9584,6 +9591,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lyf | WATER F1 | LS-5505 | LS-5505 |
 | M-Horse | M-HORSE | Pure1 | Pure1 |
 | M-Horse | Pure 2 | Pure-2 | Pure 2 |
+| M-Horse | Pure 3 | Pure_3 | Pure 3 |
 | M4tel | M4 B1 | M4_B1 | M4_B1 |
 | M4tel | M4 B2 | M4_B2 | M4_B2 |
 | M4tel | M4 B3 | M4_B3 | M4_B3 |
@@ -9652,7 +9660,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Making Life Simple | MLS iQ1452aN | iQ1452aN | iQ1452aN |
 | Making Life Simple | Stage | iQM1001 | iQM1001 |
 | Making Life Simple | iQ1012N | iQ1012N | iQ1012N |
-| Making Life Simple | iQ1019 | IQ1019N | IQ1019N |
+| Making Life Simple | iQ1019N | IQ1019N | IQ1019N |
 | Making Life Simple | iQ1805N | iQ1805N | iQ1805N |
 | Making Life Simple | iQ9013_4N | iQ9013_4N | iQ9013_4N |
 | Making Life Simple | iQD700 | iQD700 | iQD700 |
@@ -9681,6 +9689,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Masstel | Tab7LTE | Masstel_Tab7LTE | Masstel_Tab7LTE |
 | Maxcom | MS453 | MS453 | MS453 |
 | Maxcom | MS457 | MS457 | MS457 |
+| Maxcom | MS457PLUS | MS457PLUS | MS457PLUS |
 | Maxcom | MS459 | MS459 | MS459 |
 | Maxcom | MS514 | MS514 | MS514 |
 | Maxcom | MS553 | MS553 | MS553 |
@@ -10978,6 +10987,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Netgear | NeoTVPrime | NeoTV | GTV100 |
 | New Balance | Run IQ | shasta | NB RunIQ |
 | Newsday | Newsday_N2+ | Newsday_N2_ | Newsday_N2+ |
+| Newsday | U5 | GIGI_U5 | U5 |
 | Nexian | journey one | Mi438S_sprout | Mi438S |
 | Next Learning | Nexttab N3 | N3 | N3 |
 | Next Technologies | GO7BSC | GO7BSC | GO7BSC |
@@ -11037,6 +11047,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nokia | Nokia 6 | PLE | TA-1025 |
 | Nokia | Nokia 6 | PLE | TA-1033 |
 | Nokia | Nokia 6 | PLE | TA-1039 |
+| Nokia | Nokia 6.1 | PL2 | Nokia 6.1 |
 | Nokia | Nokia 6.1 | PL2_sprout | Nokia 6.1 |
 | Nokia | Nokia 7 | C1N | TA-1041 |
 | Nokia | Nokia 7 plus | B2N | Nokia 7 plus |
@@ -11932,6 +11943,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Polaroid | MID4X10 | RCT6203W46 | MID4X10 |
 | Polaroid | MIDB1048PHE | MIDB1048PHE | MIDB1048PHE |
 | Polaroid | MIDI109PDE | MIDI109PDE | MIDI109PDE |
+| Polaroid | MIDI163PDE | MIDI163PDE | MIDI163PDE |
 | Polaroid | MIDI70WPDE | MIDI70WPDE | MIDI70WPDE |
 | Polaroid | P10/Q10/PTAB1040/PTAB1041 | pq10-Polaroid | P10/Q10/PTAB1040/PTAB1041 |
 | Polaroid | P1000 | P1000 | P1000 |
@@ -13081,6 +13093,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Grand Prime | grandprimevelte | SM-G531F |
 | Samsung | Galaxy Grand Prime | grandprimevelteltn | SM-G531M |
 | Samsung | Galaxy Grand Prime | grandprimeveltezt | SM-G531Y |
+| Samsung | Galaxy Grand Prime Plus | grandpplte | SM-G532F |
+| Samsung | Galaxy Grand Prime Plus | grandpplte | SM-G532G |
+| Samsung | Galaxy Grand Prime Plus | grandppltedtv | SM-G532MT |
 | Samsung | Galaxy Grand Prime Pro | j2y18lte | SM-J250F |
 | Samsung | Galaxy Grand duos | baffin | GT-I9082i |
 | Samsung | Galaxy Grand-Max | grandmaxltekx | SM-G720N0 |
@@ -14497,9 +14512,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Garda | gardaltetmo | SGH-T399 |
 | Samsung | Gear Live | sprat | Gear Live |
 | Samsung | Gem | SCH-I100 | SCH-I100 |
-| Samsung | Grand Prime Plus | grandpplte | SM-G532F |
-| Samsung | Grand Prime Plus | grandpplte | SM-G532G |
-| Samsung | Grand Prime Plus | grandppltedtv | SM-G532MT |
 | Samsung | Hennessy | hennessy3gduosctc | SCH-W789 |
 | Samsung | Homesync | spcwifi | GT-B9150 |
 | Samsung | Homesync | spcwifiany | GT-B9150 |
@@ -14880,6 +14892,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sky Devices | ELITE 5T | Elite_5T_GT | Elite 5T |
 | Sky Devices | ELITE 5T | Elite_5T_SV | Elite 5T |
 | Sky Devices | ELITE T57 | Elite_T57_GT | Elite T57 |
+| Sky Devices | Elite 5T | Elite_5T_GT | Elite 5T |
 | Sky Devices | Elite A55 | Elite_A55 | Elite_A55 |
 | Sky Devices | Fuego 4.0T | Fuego_4_0T_EC | Fuego 4.0T |
 | Sky Devices | PLATINUM 4.0 | Platinum_40 | Platinum 4.0 |
@@ -17414,6 +17427,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vodafone | Smart ultra 6 | P839V55 | Vodafone Smart ultra 6 |
 | Vodafone | Smart ultra 7 | VFD700 | Maxis VFD700 |
 | Vodafone | Smart ultra 7 | VFD700 | VFD 700 |
+| Vodafone | Smart_N9_Lite | VFD620 | VFD 620 |
 | Vodafone | Smart_Tab_3G | Vodafone_Smart_Tab_3G | Vodafone Smart Tab 3G |
 | Vodafone | Smart_Tab_4G | Vodafone_Smart_Tab_4G | Vodafone Smart Tab 4G |
 | Vodafone | Tab Prime 7 | VFD1400 | VFD 1400 |
@@ -17516,11 +17530,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Walton | Primo F8 | Primo_F8 | Primo F8 |
 | Walton | Primo G8 | Primo_G8 | Primo G8 |
 | Walton | Primo GF6 | Primo_GF6 | Primo GF6 |
+| Walton | Primo GF7 | Primo_GF7 | Primo GF7 |
 | Walton | Primo GH5 | WBW5615WA | Primo GH5 |
 | Walton | Primo GH5 mini | Primo_GH5_mini | Primo GH5 mini |
 | Walton | Primo GH7 | Primo_GH7 | Primo GH7 |
 | Walton | Primo GM2 | Primo_GM2 | Primo GM2 |
 | Walton | Primo GM2 Plus | Primo_GM2_Plus | Primo GM2 Plus |
+| Walton | Primo GM3 | Primo_GM3 | Primo GM3 |
 | Walton | Primo H6+ | Primo_H6_Plus | Primo H6 Plus |
 | Walton | Primo H7 | Primo_H7 | Primo H7 |
 | Walton | Primo HM4 | Primo_HM4 | Primo HM4 |
@@ -17550,6 +17566,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Walton | Primo ZX2 mini | Primo_ZX2_mini | Primo ZX2 mini |
 | Walton | Primo ZX3 | Primo_ZX3 | Primo ZX3 |
 | Walton | Primo_RM3 | Primo_RM3 | Primo RM3 |
+| Walton | Primo\xc2\xa0S6\xc2\xa0Dual | Primo_S6_Dual | Primo S6 Dual |
 | We (BD) | L7 | L7 | L7 |
 | We (BD) | T1 | WE_T1 | T1 |
 | We (BD) | WE B3 | WE_B3 | WE B3 |
@@ -17721,6 +17738,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | X-TIGI | X-TIGI_V33 | X-TIGI_V33 | X-TIGI_V33 |
 | X-TIGI | X_TIGI_A1 | X_TIGI_A1 | X_TIGI_A1 |
 | X-TIGI | X_TIGI_A1Plus | X_TIGI_A1Plus | X_TIGI_A1Plus |
+| X-TIGI | X_TIGI_A2 | X_TIGI_A2 | X_TIGI_A2 |
 | X-View | AMBER_KIDS | AMBER_KIDS | AMBER_KIDS |
 | X-View | PROTON_AMBER_HD | Proton_Amber_HD | Proton_Amber_HD |
 | Xcell | Enia | Xcell_Enia | Enia |
@@ -19267,6 +19285,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | bq | Aquaris U2 Lite | yamchalite | Aquaris U2 Lite |
 | bq | Aquaris V | nappa | Aquaris V |
 | bq | Aquaris V Plus | raditz | Aquaris V Plus |
+| bq | Aquaris Vs | nappa_s | Aquaris VS |
 | bq | Aquaris Vs Plus | raditz_s | Aquaris VS Plus |
 | bq | Aquaris X | bardock | Aquaris X |
 | bq | Aquaris X Pro | bardock-pro | Aquaris X Pro |
