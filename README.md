@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 07.05.2018
+Last sync is 08.05.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1147,10 +1147,17 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Asus | ZenFone Live Plus (ZB553KL) | ASUS_X00LD_2 | ASUS_X00LDB |
 | Asus | ZenFone Live Plus (ZB553KL) | ASUS_X00LD_3 | ASUS_X00LDA |
 | Asus | ZenFone Live Plus (ZB553KL) | ASUS_X00LD_3 | ZB553KL |
+| Asus | ZenFone Max (ZC550KL) | ASUS_Z010 | ASUS_Z010D |
+| Asus | ZenFone Max (ZC550KL) | ASUS_Z010 | ASUS_Z010DA |
+| Asus | ZenFone Max (ZC550KL) | ASUS_Z010 | ASUS_Z010DB |
+| Asus | ZenFone Max (ZC550KL) | ASUS_Z010_2 | ASUS_Z010DD |
+| Asus | ZenFone Max (ZC550KL) | ASUS_Z010_CD | ASUS_Z010D |
+| Asus | ZenFone Max (ZC550KL) | ASUS_Z010_CD | ASUS_Z010DA |
 | Asus | ZenFone Max M1 (ZB555KL) | ASUS_X00P_1 | ASUS_X00PD |
 | Asus | ZenFone Max M1 (ZB555KL) | ASUS_X00P_1 | ZB555KL |
 | Asus | ZenFone Max M1 (ZB555KL) | ASUS_X00P_2 | ASUS_X00PD |
 | Asus | ZenFone Max M1 (ZB555KL) | ASUS_X00P_3 | ASUS_X00PD |
+| Asus | ZenFone Max M1 (ZB555KL) | ASUS_X00P_3 | ZB555KL |
 | Asus | ZenFone Max Plus M1 (ZB570TL) | ASUS_X018_1 | ASUS_X018D |
 | Asus | ZenFone Max Plus M1 (ZB570TL) | ASUS_X018_2 | ASUS_X018D |
 | Asus | ZenFone Max Plus M1 (ZB570TL) | ASUS_X018_4 | ASUS_X018D |
@@ -1219,13 +1226,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Asus | Zenfone 4V (V520KL) | ASUS_A006 | ASUS_A006 |
 | Asus | Zenfone Go (ASUS_X00BD) | ASUS_X00BD_1 | ASUS_X00BD |
 | Asus | Zenfone Go (T500) | ASUS_X003 | ASUS_X003 |
-| Asus | Zenfone MAX | ASUS_X00P_3 | ZB555KL |
-| Asus | Zenfone MAX | ASUS_Z010 | ASUS_Z010DA |
-| Asus | Zenfone MAX | ASUS_Z010 | ASUS_Z010DB |
-| Asus | Zenfone MAX | ASUS_Z010_CD | ASUS_Z010D |
-| Asus | Zenfone MAX | ASUS_Z010_CD | ASUS_Z010DA |
-| Asus | Zenfone MAX (ZC550KL) | ASUS_Z010 | ASUS_Z010D |
-| Asus | Zenfone Max | ASUS_Z010_2 | ASUS_Z010DD |
 | Asus | Zenpad 8.0 (Z380C) | P022_1 | P022 |
 | Asus | Zenpad 8.0 (Z380C) | P022_2 | P022 |
 | Asus | \xe9\xa3\x9b\xe9\xa6\xac (T500KLC) | ASUS_X003 | ASUS_X003 |
@@ -1336,6 +1336,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Azumi | T7 3G | T7_3G | Azumi_T7_3G |
 | BGH S.A. | BGH Joy 303 | BGH_Joy_303 | BGH Joy 303 |
 | BKAV | B2017 | B2017 | B2017 |
+| BKAV | B2017 | B2017 | Bphone B2017 |
 | BKAV | Bphone | Bphone | Bphone B1111 |
 | BKAV | Bphone | Bphone | Bphone B1112 |
 | BKAV | Bphone | Bphone | Bphone B1114 |
