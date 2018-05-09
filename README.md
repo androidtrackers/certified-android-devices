@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 08.05.2018
+Last sync is 09.05.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -488,6 +488,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Alphascan | SAT2242 WorkTab | ADP_WW | G2SMNT |
 | Altice | ALTICE S60 | S60 | S60 |
 | Altice | ALTICE S70 | S70 | S70 |
+| Altice | S31 | S31 | Altice_S31 |
 | Altice | S31 | S31 | S31 |
 | Altice | S41 | HS6737MT | S41 |
 | Altice | S51 | HS6737MT | S51 |
@@ -2016,6 +2017,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Cherry Mobile | Flare A5 | Cherry_X740 | Cherry_X740 |
 | Cherry Mobile | Flare HD 3 | Flare_HD_3 | Flare HD 3 |
 | Cherry Mobile | Flare HD Max | Flare_HD_MAX | Flare_HD_MAX |
+| Cherry Mobile | Flare J2 Lite | Flare_J2_Lite | Flare_J2_Lite |
 | Cherry Mobile | Flare J2 Mini | Flare_J2_Mini | Flare J2 Mini |
 | Cherry Mobile | Flare J2S | Flare_J2S | Flare J2S |
 | Cherry Mobile | Flare J3 | FlareJ3 | FlareJ3 |
@@ -3079,6 +3081,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Explay | Winner 7 | T4729 | Winner7 |
 | Explay | Winner 8 | T4730 | Winner8 |
 | Express Gifts Limited | R726 | R726 | R726 |
+| Extrem | Rock_X11 | ROCK_X11 | ROCK_X11 |
 | F2 Mobile | F2 F80s_plus | F80s_plus | F80s_plus |
 | F2 Mobile | F2_LT5216 | LT5216 | LT5216 |
 | F2 Mobile | LT16 | LT16 | LT16 |
@@ -5292,6 +5295,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hotwav | Magic_5_Plus | Magic_5_Plus | Magic 5 Plus |
 | Hotwav | Symbol M1 | Symbol_M1 | Symbol M1 |
 | How | 1001-G | 1001-G | 1001-G |
+| How | 705-G | 705-G | 705-G |
 | How | HT-704 | HT704 | HT-704 |
 | How | HT-704plus | HT704plus | HT-704plus |
 | How | HT-705 | HT705 | HT-705 |
@@ -8314,6 +8318,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LGL22 | g2 | LGL22 |
 | LGE | LML413DL | cv3 | LM-X410(FG) |
 | LGE | LML413DL | cv3 | LM-X410.F |
+| LGE | LML413DL | cv3 | LM-X410.FGN |
 | LGE | LML413DL | cv3 | LML413DL |
 | LGE | Marquee | L-07C | L-07C |
 | LGE | Marquee | LG855 | LG-LG855 |
@@ -9548,6 +9553,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Logicom | M bot tab 70 | M_BOT_TAB_70 | M BOT TAB 70 |
 | Logicom | M_ bot_ 52 | M_bot_52 | M bot 52 |
 | Logicom | POWER bot | POWERBOT | POWER BOT |
+| Logicom | Playtab 10 | LOGICOM_PLAYTAB_10 | LOGICOM_PLAYTAB_10 |
 | Logicom | S1052 | S1052 | S1052 |
 | Logicom | S450 | S450 | S450 |
 | Logicom | S504 | S504 | Connect 5 |
@@ -11264,6 +11270,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oppo | CPH1827 | CPH1827 | CPH1827 |
 | Oppo | CPH1831 | CPH1831 | CPH1831 |
 | Oppo | CPH1835 | CPH1835 | CPH1835 |
+| Oppo | CPH1859 | CPH1859 | CPH1859 |
+| Oppo | CPH1861 | CPH1861 | CPH1861 |
 | Oppo | F1f | F1f | F1f |
 | Oppo | F1f | F1f | F1fw |
 | Oppo | F1f | F1f | F1w |
@@ -16764,6 +16772,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | PhonePad 7 II | PP7E-DLA1 | TECNO PP7E-DLA1 |
 | Tecno | PhonePad 7 II | PP7E-DLA1 | TECNO PP7E-SLA1 |
 | Tecno | Pouvoir 1 | TECNO-LA6 | TECNO LA6 |
+| Tecno | Pouvoir 2 | TECNO-LA7 | TECNO LA7 |
 | Tecno | R6 | TECNO-R6 | TECNO R6 |
 | Tecno | R6 | TECNO-R6 | TECNO R6S |
 | Tecno | S1 | TECNO-S1 | TECNO S1 |
