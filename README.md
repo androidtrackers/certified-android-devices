@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 09.05.2018
+Last sync is 10.05.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1895,7 +1895,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | CZ Electronics | MX16 | Mint_Diamond | MX16 |
 | CZ Electronics | Mint_Iris | Mint_Iris | M7L_Sapphire |
 | CZ Electronics | Mint_Jane | Mint_Jane | M5E01 |
-| Caldero | Skyworth | grape | HPA02 |
 | Camelus | L10 | TR-10HBT | L10 |
 | Camelus | L7 | TR-7U | L7 |
 | Camfone | CamPad P7 | CamPad_P7 | CamPad_P7 |
@@ -2636,6 +2635,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DigiLand | DL8006 | DL8006 | DL8006 |
 | DigiLand | DL9002 | DL9002 | DL9002 |
 | DigiLand | KTAB17 | KTAB17 | KTAB17 |
+| DigiLand | MID1008_Digiland | mid1008 | DL1008M |
 | DigiLand | NBDVDTAB9 | NBDVDTAB9 | NBDVDTAB9 |
 | DigiLand | NS-P16AT08 | mid8005 | NS-P16AT08 |
 | DigiLand | NS-P16AT785HD | MID7802RA | NS-P16AT785HD |
@@ -2880,6 +2880,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Eks Mobility | X4U+ | X4UPlus | X4UPlus |
 | Electroland Ghana | NASCO_Allure | NASCO_Allure | NASCO_Allure |
 | Element | USA & CANADA | Tiger838 | TU43GDX |
+| Elephone | Elephone S8 | S8 | S8 |
 | Elephone | P8 3D | P8_3D | P8_3D |
 | Elephone | P8 Max | P8_Max | P8_Max |
 | Elephone | U | Elephone_U | U |
@@ -3536,6 +3537,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Gigabyte | mexico | Lanix | iliumPAD |
 | Gigaset | GS160 | GS160 | Gigaset GS160 |
 | Gigaset | GS170 | GS170 | Gigaset GS170 |
+| Gigaset | GS180 | GS180 | GS180 |
 | Gigaset | GS185 | GS185 | GS185 |
 | Gigaset | Gigaset GS170 | GS170 | Gigaset GS170 |
 | Gigaset | Gigaset GS270 | Gigaset_GS270 | GS270 |
@@ -9823,6 +9825,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Meitu | V4 | V4 | Meitu V4 |
 | Meitu | V4s | V4s | Meitu V4s |
 | Meitu | Victoria | Victoria | MP1602 |
+| Meizu | 15 | 15 | 15 |
 | Meizu | E3 | MeizuE3 | MEIZU E3 |
 | Meizu | M15 | M15 | M15 |
 | Meizu | M6 | meizu_M6 | M6 |
@@ -10110,7 +10113,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Miophone | Mio Phone | MioPhone2016 | Mio Phone 2016 |
 | Miophone | Mio Phone | MioPhone2017 | MioPhone2017 |
 | Mirage | 43T | MI-JI-43T | MI-JI-43T |
+| Mirage | 44T | MI-JI-44T | MI-JI-44T |
 | Mirage | 62S | 62S | 62S |
+| Mirage | 64T | MI-JI-64T | MI-JI-64T |
 | Mirage | 82S | MI-CH-82S | MI-CH-82S |
 | Mirage | MI-SO-81T | MI-SO-81T | MI-SO-81T |
 | Mito | A10 | A10_sprout | MITO A10 |
@@ -10627,10 +10632,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Moveby | LINNEX | LX50 | LX50 |
 | Movic | MOVIC_W5 | MOVIC_W5 | MOVIC-W5 |
 | Moviltelco Trade | A58B | A58B | A58B |
+| Moviltelco Trade | mtt L452 | L452 | L452 |
 | Moviltelco Trade | mtt L509 | L509 | MTT_L509 |
 | Moxee Technologies | X10 | X10 | X10 |
 | Moxee Technologies | X100 | X100 | X100 |
 | Mpman | PH604 | PH604 | PH604 |
+| Multilaser | Discovery | Discovery | Discovery |
+| Multilaser | Kidpad-3G | Kidpad-3G | Kidpad-3G |
 | Multilaser | M10A | M10A | M10A |
 | Multilaser | M10A-Lite | M10A-Lite | M10A-Lite |
 | Multilaser | M7-3G PLUS | ML-JI-M7_3G_PLUS | ML-JI-M7_3G_PLUS |
@@ -10707,6 +10715,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Myphone | Iron 2 | IRON_2_EN | IRON_2 |
 | Myphone | Iron 2 | IRON_2_OPM | IRON_2 |
 | Myphone | My phone PRIME PLUS | Prime_Plus_EN | Prime_Plus |
+| Myphone | NB106M | NB106M | NB106M |
 | Myphone | NB754 | NB754 | NB754 |
 | Myphone | NB961 | NB961 | NB961 |
 | Myphone | Q-Smart_III | myPhone_Q-Smart_III | myPhone_Q-Smart_III |
@@ -10766,6 +10775,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | NASCO | Magic | Magic | Magic |
 | NASCO | Power Plus | Power_Plus | Power Plus |
 | NASCO | Power Plus Pro | PowerPlusPro | Power Plus Pro |
+| NASCO | SNAP PRO | SNAP_PRO | SNAP_PRO |
 | NAXA | NID-7011 | NID-7011 | NID-7011 |
 | NAXA | NID_7010 | NID_7010 | NID_7010 |
 | NEC | 101T \xe3\x80\x80MEDIAS | NEC-101 | NEC-101T |
@@ -10885,6 +10895,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | NOA Mobile | Forte_se | Forte_se | Forte_se |
 | NOA Mobile | Hummer | Hummer | Hummer |
 | NOA Mobile | N8 | NOA_N8 | NOA_N8 |
+| NOA Mobile | NextSE | NextSE | NextSE |
 | NOA Mobile | SPRINT 4G | SPRINT4G | SPRINT4G |
 | NOA Mobile | SparkSE | SparkSE | SparkSE |
 | NVIDIA | SHIELD Android TV | foster | SHIELD Android TV |
@@ -10979,6 +10990,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Neffos | Neffos Y6 | Y6 | Neffos Y6 |
 | Neffos | Neffos Y7 | Y7 | Neffos Y7 |
 | Neffos | TP703A | C5a | Neffos C5a |
+| Neffos | TP704A | C5s | Neffos C5s |
+| Neffos | TP704A | Y5_Lite | Neffos Y5 Lite |
 | Neffos | X1 Lite | X1_Lite | Neffos X1 Lite |
 | Neffos | Y5 | Y5 | Neffos Y5 |
 | Neffos | Y50 | Y50 | Neffos Y50 |
@@ -12742,8 +12755,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy A5(2017) | a5y17ltelgt | SM-A520L |
 | Samsung | Galaxy A5(2017) | a5y17lteskt | SM-A520S |
 | Samsung | Galaxy A5x(2016) | a5xeltextc | SM-A510Y |
+| Samsung | Galaxy A6 | a6lte | SM-A600F |
 | Samsung | Galaxy A6 | a6lte | SM-A600FN |
 | Samsung | Galaxy A6 | a6lte | SM-A600G |
+| Samsung | Galaxy A6 | a6lte | SM-A600GN |
 | Samsung | Galaxy A6+ | a6plte | SM-A605G |
 | Samsung | Galaxy A7 | a73g | SM-A700H |
 | Samsung | Galaxy A7 | a7alte | SM-A700F |
@@ -15533,6 +15548,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Stylus | Symbol SP4002G | Symbol_SP4002G | Symbol_SP4002G |
 | Stylus | Wintech | WIN4 | WIN4 |
 | Sugar | SUGAR C11 | v12bns | SUGAR C11 |
+| Sugar | SUGAR S11 | i9071ae | SUGAR S11 |
 | Sugar | SUGAR Y12 | p101bs | SUGAR Y12 |
 | Sugar | Sugar | s9121 | SUGAR |
 | Sumitomo Electric Industries | ST4173 | ST4173 | ST4173 |
@@ -16671,6 +16687,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tambo | TA-2 | TA-2 | TA-2 |
 | Tambo | TA-3 | TA-3 | TA-3 |
 | Tambo | TA-4 | TA-4 | TA-4 |
+| Tanoshi | TTBKB10-01 | TTBKB10-01 | Tanoshi 2-in-1 |
 | Tech 4u | Force | t592_otd_tech_4u_we | Force |
 | Tech 4u | I8 | I8 | I8 |
 | Tech 4u | S8 Pro | S8_Pro | S8_Pro |
