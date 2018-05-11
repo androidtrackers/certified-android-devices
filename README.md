@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 10.05.2018
+Last sync is 11.05.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1445,6 +1445,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | BQru | BQ-5702 | BQru_5702 | BQ-5702 |
 | BQru | BQ-6000L Aurora | BQru-6000L | BQ-6000L |
 | BQru | BQ-6001 L | BQru-6001L | BQ-6001L |
+| BQru | BQ-6015L Universe | BQru-6015L | BQ-6015L |
 | BQru | BQ-7022G | BQru-7022 | BQ-7022 |
 | BQru | BQ-7081G | BQru-7081 | BQru-7081 |
 | BQru | BQ-7084G | BQru-7084G | BQ-7084G |
@@ -2498,6 +2499,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DEXP | Dexp Ursus P210 | P210 | P210 |
 | DEXP | Dexp Ursus P380 | P380 | P380 |
 | DEXP | Dexp Ursus S170i | S170i | S170i |
+| DEXP | Dexp Ursus S270 | S270 | S270 |
 | DEXP | EL450 | EL450 | Ixion EL450 |
 | DEXP | ERA | G155 | G155 |
 | DEXP | ERA | MS550 | MS550 |
@@ -7136,6 +7138,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Jimo | S5006 | S5006 | S5006 |
 | Jinga | Jinga Joy | JI55A_189BW | Joy |
 | Jinga | JoyPRO | JI55B_189BW | JoyPRO |
+| Jinga | Optim 4G | Optim4G | Optim4G |
 | Jinga | Pass | Pass | Pass |
 | Jinga | SmartPRO | JI55_216M | SmartPRO |
 | Jinga | Start 3G | Start3G | Start3G |
@@ -9665,6 +9668,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | MachSpeed (Apollo Brands) | TrioStealth-7 | TrioStealth-7 | TrioStealth-7 |
 | Mad Catz | M.O.J.O. | mojo | Mad Catz M.O.J.O. |
 | Majestic | TAB 611 3G | TAB_611_3G | TAB 611 3G |
+| Majestic | TAB_711_4G | TAB_711_4G | TAB 711 4G |
 | Making Life Simple | Brace | iQM801 | iQM801 |
 | Making Life Simple | MLS iQ1452aN | iQ1452aN | iQ1452aN |
 | Making Life Simple | Stage | iQM1001 | iQM1001 |
@@ -11094,6 +11098,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nomi | Nomi i6030 | i6030 | Nomi i6030 |
 | Nomi | Nomi_i5730 | Nomi_i5730 | Nomi_i5730 |
 | Nomi | ULTRA3 3G | Nomi_C101012 | Nomi_C101012 |
+| Nomi | ULTRA3 LTE | Nomi_C101030 | Nomi_C101030 |
 | Nomi | ULTRA3 LTE PRO | Nomi_C101040 | Nomi_C101040 |
 | Nomi | i5012 | i5012 | i5012 |
 | Nomu | M8 | M8 | M8 |
@@ -14858,6 +14863,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp | SHARP AQUOS S2 Plus | SAT | FS8008 |
 | Sharp | SHARP AQUOS S2 Plus | SAT | FS8016 |
 | Sharp | SHARP AQUOS S3 | HH1 | FS8032 |
+| Sharp | SHARP AQUOS S3 | SD1 | FS8015 |
 | Sharp | SHARP AQUOS V1mini | SG1 | FS8018 |
 | Sharp | SHARP R1S | SK3 | FS8028 |
 | Sharp | SHARP TBC | SI3 | FS8025 |
@@ -17047,6 +17053,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | True | SMART_MAX_4.0_PLUS | P909 | SMART_MAX_4.0_PLUS |
 | Tunisie Telecom | Star Trail by TT | startrail3_tt | StarTrail TT |
 | Turbokids | Princess | Princess | Princess |
+| Turbokids | Turbokids-TMNT | Turbokids_TMNT | Turbokids-TMNT |
 | Turbokids | TurbokidsP | TurbokidsP | TurbokidsP |
 | Turbonet | ADR1776 | ADR1776 | ADR1776 |
 | Turbonet | TN451A1 | TN451A1 | TN451A1 |
@@ -17583,6 +17590,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Walton | Primo RH3 | Primo_RH3 | Primo RH3 |
 | Walton | Primo RM2 mini | WBW5616WA | Primo RM2 mini |
 | Walton | Primo RX5 | Primo_RX5 | Primo RX5 |
+| Walton | Primo RX6 | Primo_RX6 | Primo RX6 |
 | Walton | Primo S5 | Primo_S5 | Primo_S5 |
 | Walton | Primo S6 | Primo_S6 | Primo S6 |
 | Walton | Primo S6 infinity | Primo_S6_infinity | Primo S6 infinity |
@@ -19352,6 +19360,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iBall | iBall Slide Imprint 4G | Imprint_4G | iBall_Slide_Imprint_4G |
 | iBall | iBall Slide Nimble 4GF | Slide_Nimble_4GF | iBall_Slide_Nimble_4GF |
 | iBall | iBall Slide Snap 4G2 | Snap_4G2 | Snap_4G2 |
+| iBall | iBall Slide Twinkle i5 | Twinkle_i5 | Twinkle_i5 |
+| iBall | iBall Slide Wings 4GP | Slide_Wings_4GP | iBall_Slide_Wings_4GP |
+| iBall | iBallSlide_Wings | iBallSlide_Wings | Wings |
 | iCraig | CLP288 | ICRAIG_CLP288 | ICRAIG_CLP288 |
 | iCraig | CLP293 | CLP293 | CLP293 |
 | iCraig | CLP_291 | ICRAIG_CLP_291 | ICRAIG_CLP291 |
@@ -19423,6 +19434,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iVOOMi | V5 | V5 | V5 |
 | iVOOMi | i1 | i1 | i1 |
 | iVOOMi | i1s | i1s | i1s |
+| iVOOMi | i2 | i2 | i2 |
 | intelkom | meanIT_C1 | meanIT_C1 | meanIT_C1 |
 | intelkom | meanIT_C2 | meanIT_C2 | meanIT_C2 |
 | mytel | M9501 | M9501 | M9501 |
