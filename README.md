@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 11.05.2018
+Last sync is 12.05.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6846,6 +6846,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Infocus | Vision 3 Lite | BU2 | IF9008 |
 | Infocus | Vision 3 Pro | AY2 | IF9029 |
 | Infocus | XT-50IP600 | XT_50IP600 | XT_50IP600 |
+| Ingenico | AXIUM D7 | axium | IngenicoAxium |
 | Ingenico | Moby-M70 | Moby-M70 | IMS-M70-V02 |
 | Inhon | E30 | E30 | E30 |
 | Inhon | L35 | L35 | L35 |
@@ -7011,6 +7012,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Irbis | TZ831 | TZ831 | TZ831 |
 | Irbis | TZ841 | TZ841 | TZ841 |
 | Irbis | TZ855 | TZ855 | TZ855 |
+| Irbis | TZ856 | TZ856 | TZ856 |
 | Irbis | TZ872 | TZ872 | TZ872 |
 | Irbis | TZ874 | TZ874 | TZ874 |
 | Irbis | TZ877 | TZ877 | TZ877 |
@@ -7232,6 +7234,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | KT Tech |  | s330 | KM-S330 |
 | KT Tech | EV-S100 | s100 | EV-S100 |
 | KT Tech | TAKE SUIT | e100 | KM-E100 |
+| KTV | PureKTV | DV8219 | PureKTV |
 | Kalley | ELEMENT_PRO | ELEMENT_PRO | ELEMENT_PRO |
 | Kalley | Klic | SA | K4-02 4G |
 | Kapsys | SmartVision2 | r889 | KAP11000 |
@@ -16703,6 +16706,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Technicolor | Euskaltel | dci765ekt | cooper |
 | Technicolor | LMT viedtelev\xc4\xabzijas iek\xc4\x81rta | dwt765lmt | skipper |
 | Technicolor | NETBOX | uiw4030dnm | pearl |
+| Technicolor | NETBOX | uiw4030dnm | uiw4030dnm |
 | Technicolor | Shortcut | dwt765ltt | Shortcut |
 | Technicolor | Tv Hub | uzx8020chm | Tv Hub |
 | Technicolor | Wind | uzw4030wnh | Wind |
