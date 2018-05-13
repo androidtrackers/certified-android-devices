@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 12.05.2018
+Last sync is 13.05.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7945,6 +7945,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG G6 | lucye | LGM-G600S |
 | LGE | LG G6 | lucye | LGUS997 |
 | LGE | LG G6 | lucye | VS988 |
+| LGE | LG G7 ThinQ | judyln | LM-G710N |
 | LGE | LG GRACE\xe2\x84\xa2 LTE | lv517 | LGL59BL |
 | LGE | LG Gentle | cfm | LG-F660L |
 | LGE | LG Gpad X 10.1 | t1lte | LG-V930 |
