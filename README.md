@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 15.05.2018
+Last sync is 16.05.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -335,6 +335,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Aiwa | Z9 PLUS | AIWA_Z9_PLUS | Z9 PLUS |
 | Alba | ALBA 7 TABLET | ac70plv6 | ALBA 7 TABLET |
 | Alba | Alba 4G Plus | ac57crs | Alba 4G Plus |
+| Alba | Alba 6 | ac60crs | Alba 6 |
 | Alba | Alba_8in | Alba_8in | Alba_8in |
 | Alcor | Alcor | Access_Q784C | Access_Q784C |
 | Alcor | Alcor | Zest_Q108I | Zest_Q108I |
@@ -342,6 +343,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Aligator | S5065 | ALIGATORS5065 | ALIGATOR S5065 |
 | AllCall | AllCall_Madrid | AllCall_Madrid | AllCall_Madrid |
 | AllCall | MIX2 | MIX2 | MIX2 |
+| AllCall | Tab_1_3G | Tab_1_3G | Tab_1_3G |
+| AllCall | Tab_2_3G | Tab_2_3G | Tab_2_3G |
 | AllView | A5 Easy | A5_Easy | A5_Easy |
 | AllView | A5 Easy | A5_Easy | A5_Easy_TM |
 | AllView | A5 Lite | A5_Lite | A5_Lite |
@@ -783,6 +786,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Archos | Archos 116 Neon | ac116ne | Archos 116 Neon |
 | Archos | Archos 156 Oxygen | ac156ox | Archos 156 Oxygen |
 | Archos | Archos 50c Platinum | ac80cplv3 | ALBA 8 TABLET |
+| Archos | Archos 70 Oxygen | ac70oxv2 | Archos 70 Oxygen |
 | Archos | Archos 70 platinum | ac70plv5 | Archos 70 Platinum |
 | Archos | Archos 70d Titanium | ac70dti | Archos 70d Titanium |
 | Archos | Archos 79b Neon | ac79bnev2 | Archos 79b Neon |
@@ -810,6 +814,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Archos | Archos Core 50P | ac50crp | Archos Core 50P |
 | Archos | Archos Core 55 4G | ac55cr4g | Archos Core 55 4G |
 | Archos | Archos Core 55P | ac55crp | Archos Core 55P |
+| Archos | Archos Core 55S | ac55crs | Archos Core 55S |
 | Archos | Archos Core 57S | ac57crs | Archos Core 57S |
 | Archos | Archos Core 60S | ac60crs | Archos Core 60S |
 | Archos | Archos Core 70 3G | ac70cr3g | Archos Core 70 3G |
@@ -893,6 +898,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ark | Benefit M8 | Benefit_M8 | Benefit_M8 |
 | Ark | Benefit_Note 1 | Benefit_Note_1 | Benefit_Note_1 |
 | Ark | Impulse P2 | Impulse_P2 | Impulse_P2 |
+| Ark | Wizard 1 | Wizard_1 | Wizard_1 |
 | Artel | Artel U5 | U5 | U5 |
 | Artel | U3 | U3 | U3 |
 | Ascom Wireless Solutions | Ascom Myco 2 Cellular | ACBB | SH1 |
@@ -2448,6 +2454,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Covia | CP-L45s | CP-L45s | CP-L45s |
 | Covia | g06+ | g06 | g06 |
 | Crema | CREMA0810T | crema0810t | CREMA0810T |
+| Croatian Telecom | KSTB6044 | KSTB6044 | KSTB6044 |
 | Crosscall | Action-X3 | HS8937QC | ACTION-X3 |
 | Crosscall | Action-X3 | HS8937QC | Action-X3 |
 | Crosscall | Action-X3 | HS8937QC | Action-X3 Pro |
@@ -2462,6 +2469,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Cubot | CUBOT MAGIC | CUBOT_MAGIC | CUBOT MAGIC |
 | Cubot | CUBOT MAGIC | CUBOT_R9 | CUBOT R9 |
 | Cubot | CUBOT NOTE Plus | CUBOT_NOTE_Plus | CUBOT NOTE Plus |
+| Cubot | CUBOT R11 | CUBOT_R11 | CUBOT R11 |
 | Cubot | CUBOT X18 | CUBOT_X18 | CUBOT X18 |
 | Cubot | DINOSAUR | x5623_h6013_cubot | CUBOT DINOSAUR |
 | Cubot | ECHO | CUBOT_ECHO | CUBOT ECHO |
@@ -3112,6 +3120,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Fero | A5500 | A5500 | A5500 |
 | Fero | FERO ROYALE Y2 | Royale_Y2 | Royale Y2 |
 | Fero | POWER 3 | Power_3 | Power 3 |
+| Fero | Royale A1 | Royale_A1 | Royale A1 |
 | Fero | Royale X2 | Royale_X2 | Royale_X2 |
 | Fero | Royale Y2 Lite | Royale_Y2_Lite | Royale Y2 Lite |
 | Figi | FIGI Fone | Fone | Fone |
@@ -3977,6 +3986,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | HTC | Desire 12 | htc_breeze_dugl | HTC Desire 12 |
 | HTC | Desire 12 | htc_breeze_ul | HTC 2Q5V200 |
 | HTC | Desire 12 | htc_breeze_ul | HTC Desire 12 (2Q5V200) |
+| HTC | Desire 12+ | htc_brepdugl | HTC 2Q5W1 |
+| HTC | Desire 12+ | htc_brepdugl | HTC 2Q5W2 |
+| HTC | Desire 12+ | htc_brepdugl | HTC Desire 12+ |
+| HTC | Desire 12+ | htc_brepdugl | HTC ZQ5W10000 |
 | HTC | Desire 200 | gtou | HTC Desire 200 |
 | HTC | Desire 200 | gtou | HTC_Desire_200 |
 | HTC | Desire 210 dual sim | htc_v0_dug | HTC Desire 210 dual sim |
@@ -4765,6 +4778,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | AGM  X2 | HS8976QC | X2 SE |
 | Hisense | AGM  X2 | HS8976QC | X2_SE |
 | Hisense | AGM A7 | HS8909QC | AGM A7 |
+| Hisense | AGM X1 | HS8952QC | AGM X1 |
 | Hisense | AJM X2 | HS8976QC | AGM X2 |
 | Hisense | Andromax-c | AD686G | Andromax-c |
 | Hisense | C-4 | C_4 | C-4 |
@@ -4871,14 +4885,17 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | H910 | HS8929QC | Hisense H910 |
 | Hisense | H910 | HS8939QC | Hisense H910 |
 | Hisense | H910-F01 | HS8939QC | Hisense H910 |
+| Hisense | HITV300C | HS8937QC | HITV300C |
 | Hisense | HLTE100M | HS9850SC | HLTE100M |
 | Hisense | HLTE200M | HS8917QC | HLTE200M |
 | Hisense | HLTE200T | HS8917QC | HLTE200T |
+| Hisense | HLTE212T | HS8917QC | HLTE212T |
 | Hisense | HLTE300E_ 02 | HS8937QC | HLTE300E |
 | Hisense | HLTE300E_ 02 | HS8937QC | HLTE300E_02 |
 | Hisense | HLTE300E_ 02 | HS8937QC | Hisense Infinity H11 |
 | Hisense | HLTE300T | HS8937QC | HLTE300T |
 | Hisense | HLTE500T | HSSDM630QC | HLTE500T |
+| Hisense | HLTE501N | HSSDM660QC | HLTE501N |
 | Hisense | HS- G610 | HS8916QC | HS-G610 |
 | Hisense | HS- L682 | HS8916QC | HS-L682 |
 | Hisense | HS-E600M | E600M | HS-E600M |
@@ -4954,7 +4971,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | HS-X8C | x8c | HS-X8C |
 | Hisense | HS-X8T | X8T | HS-X8T |
 | Hisense | HS-X8U | x8u | HS-X8U |
+| Hisense | Hisense  E7  Pro | HS6739MT | Hisense E7 Pro |
+| Hisense | Hisense  F17  Pro | HS6739MT | Hisense F17 Pro |
+| Hisense | Hisense  F23  PLUS | HS6739MT | Hisense F23 PLUS |
 | Hisense | Hisense  Hi  2 | HS6737MT | Hisense Hi 2 |
+| Hisense | Hisense  Infinity  F17 | HS6739MT | Hisense Infinity F17 |
 | Hisense | Hisense E76MINIM | HS8937QC | Hisense E76MINIM |
 | Hisense | Hisense E77 | HS8937QC | Hisense E77 |
 | Hisense | Hisense F17 | HS6580MT | Hisense F17 |
@@ -4963,6 +4984,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | Hisense F8 MINI | HSSC9850 | Hisense F8 MINI |
 | Hisense | Hisense M36 | HS8909QC | Hisense M36 |
 | Hisense | Hisense P1 | HS8953QC | Hisense P1 |
+| Hisense | Hisense T17 | HS6580MT | Hisense T17 |
 | Hisense | Hisense T5 | HS6737MT | Hisense T5 |
 | Hisense | Hisense T5 Pro | HS6737MT | Hisense T5 Pro |
 | Hisense | I300T | I300T | Hisense I300T |
@@ -7172,6 +7194,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | K-Touch | L5 | L5 | L5 |
 | K-Touch | L930i | L930i | K-Touch L930i |
 | K-Touch | M2s | M2s | K-Touch M2s |
+| K-Touch | Pace 2 | Pace_2 | Pace 2 |
+| K-Touch | Pace 2 Lite | Pace_2_Lite | Pace 2 Lite |
 | K-Touch | Touch 2C | Touch2c | K-Touch Tou ch 2c |
 | KAAN | A1 | KAAN_A1 | KAAN_A1 |
 | KAAN | KAAN_N2 | KAAN_N2 | KAAN_N2 |
@@ -8203,6 +8227,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG Q6 | mhn | LGM-X600K |
 | LGE | LG Q6 | mhn | LGM-X600L |
 | LGE | LG Q6 | mhn | LGM-X600S |
+| LGE | LG Q7 | mcv5a | LM-Q610.FGN |
 | LGE | LG RAY | d2 | LG-X190 |
 | LGE | LG Rebel | e1q | LGL43AL |
 | LGE | LG Rebel | e1q | LGL44VL |
@@ -15525,6 +15550,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Starlight | I STAR PLUS | I_STAR_PLUS | I_STAR_PLUS |
 | Starlight | Madrid | Madrid | Madrid |
 | Starlight | STAR_MIX | STAR_MIX | STAR_MIX |
+| Starlight | Starplus 7 | STARPLUS7 | STARPLUS7 |
 | Starlight | UMI_G | UMI_G | UMI_G |
 | Storex | eZee\'Tab7Q11-M | Tab7Q11 | Tab7Q11 |
 | Storex | eZeeTab10D12-S | eZeeTab10D12-S | eZeeTab10D12-S |
@@ -15934,6 +15960,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | A846L | Alto5TF | A846L |
 | TCT (Alcatel) | A851L | Viper_gsm | Alcatel 7030L |
 | TCT (Alcatel) | A851L | Viper_gsm | Alcatel A851L |
+| TCT (Alcatel) | ALCATEL 1T 10 | U3A_10_WIFI | 8082 |
 | TCT (Alcatel) | ALCATEL 3C | A3A_XL_3G | 5026A |
 | TCT (Alcatel) | ALCATEL 3C | A3A_XL_3G | 5026D |
 | TCT (Alcatel) | ALCATEL 3C | A3A_XL_3G | 5026J |
@@ -16212,6 +16239,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Alcatel 3 | A3A | 5052D_RU |
 | TCT (Alcatel) | Alcatel 3 | A3A | 5052Y |
 | TCT (Alcatel) | Alcatel 3L | A3A_LITE | 5034D |
+| TCT (Alcatel) | Alcatel 3L | A3A_LITE | 5034D_RU |
 | TCT (Alcatel) | Alcatel 3V | A3A_XL_4G | 5099A |
 | TCT (Alcatel) | Alcatel 3V | A3A_XL_4G | 5099D |
 | TCT (Alcatel) | Alcatel 3V | A3A_XL_4G | 5099D_RU |
@@ -16223,6 +16251,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Alcatel 3X | A3A_PLUS | 5058J |
 | TCT (Alcatel) | Alcatel 3X | A3A_PLUS | 5058T |
 | TCT (Alcatel) | Alcatel 3X | A3A_PLUS | 5058Y |
+| TCT (Alcatel) | Alcatel 3X | A3A_PLUS | 5158A |
 | TCT (Alcatel) | Alcatel 5 | A5A_INFINI | 5086A |
 | TCT (Alcatel) | Alcatel 5 | A5A_INFINI | 5086D |
 | TCT (Alcatel) | Alcatel 5 | A5A_INFINI | 5086Y |
@@ -17857,6 +17886,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Xiaomi | MiBOX_mini | forrestgump | MiBOX_mini |
 | Xiaomi | MiTV2 | entrapment | MiTV2 |
 | Xiaomi | Redmi | HM2013023 | 2013023 |
+| Xiaomi | Redmi  S2 | ysl | Redmi S2 |
 | Xiaomi | Redmi 3 | ido | Redmi 3 |
 | Xiaomi | Redmi 3 | ido | ido |
 | Xiaomi | Redmi 3S | land | Redmi 3S |
@@ -19459,6 +19489,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | sencor | SENCOR_10_1Q102 | SENCOR_10_1Q102 | SENCOR_10_1Q102 |
 | sugar_aums | QPOINT | QPI-1 | QPI-1 |
 | teXet | TM-4510 | TM-4510 | TM-4510 |
+| teXet | TM-5071 | TM_5071 | TM-5071 |
 | teXet | TM-5073 | TM-5073 | TM-5073 |
 | teXet | TM-5201 | TM-5201 | TM-5201 |
 | teXet | Texet TM-5571 | tm5571 | TM-5571 |
