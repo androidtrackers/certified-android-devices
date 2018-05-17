@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 16.05.2018
+Last sync is 17.05.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1449,6 +1449,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | BQru | BQ-5594 Strike Power Max | BQru_5594 | BQ-5594 |
 | BQru | BQ-5700L Space X | BQru-5700L | BQ-5700L |
 | BQru | BQ-5702 | BQru_5702 | BQ-5702 |
+| BQru | BQ-5707G Next Music | BQru-5707G | BQ-5707G |
 | BQru | BQ-6000L Aurora | BQru-6000L | BQ-6000L |
 | BQru | BQ-6001 L | BQru-6001L | BQ-6001L |
 | BQru | BQ-6015L Universe | BQru-6015L | BQ-6015L |
@@ -5912,6 +5913,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | Honor 9 | HWSTF | STF-AL10 |
 | Huawei | Honor 9 | HWSTF | STF-L09 |
 | Huawei | Honor 9 | HWSTF | STF-TL10 |
+| Huawei | Honor 9 Lite | HWLLD-H | LLD-L21 |
+| Huawei | Honor 9 Lite | HWLLD-H | LLD-L31 |
 | Huawei | Honor Box | m321 | M321 |
 | Huawei | Honor Box Pro | hwHiTV-M1 | HiTV-M1 |
 | Huawei | Honor Box voice | HWM311 | M311 |
@@ -7698,6 +7701,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | G3 Stylus | b2lssn | LG-D693n |
 | LGE | G3 Vigor | jagc | LGLS885 |
 | LGE | G3 Vigor | jagnm | LG-D725 |
+| LGE | G7 ThinQ | judyln | LG-G710 |
 | LGE | GA7800 | eden | LG Android TV V4 |
 | LGE | GPAD 7.0 LTE | e7lte | VK410 |
 | LGE | Gentle | cf | LG-F580L |
@@ -7969,6 +7973,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG G6 | lucye | LGM-G600S |
 | LGE | LG G6 | lucye | LGUS997 |
 | LGE | LG G6 | lucye | VS988 |
+| LGE | LG G7 ThinQ | judyln | LM-G710 |
 | LGE | LG G7 ThinQ | judyln | LM-G710N |
 | LGE | LG GRACE\xe2\x84\xa2 LTE | lv517 | LGL59BL |
 | LGE | LG Gentle | cfm | LG-F660L |
@@ -8034,6 +8039,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG K8(2018) | cv1 | LM-X210 |
 | LGE | LG K8(2018) | cv1 | LM-X210(G) |
 | LGE | LG K8(2018) | cv1 | LM-X212(G) |
+| LGE | LG K8(2018) | cv1 | LML211BL |
 | LGE | LG K9 | cv109 | LM-X210 |
 | LGE | LG L39C | l4ii_cdma | LGL39C |
 | LGE | LG LEON\xe2\x84\xa2 LTE | c50 | LG-H345 |
@@ -11197,6 +11203,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | OnePlus | One | A0001 | A0001 |
 | OnePlus | One | A0001 | One |
 | OnePlus | OnePlus | OnePlus | ONE E1003 |
+| OnePlus | OnePlus 6 | OnePlus6 | ONEPLUS A6003 |
 | OnePlus | OnePlus2 | OnePlus2 | ONE A2003 |
 | OnePlus | OnePlus3 | OnePlus3 | ONEPLUS A3000 |
 | OnePlus | OnePlus3T | OnePlus3T | ONEPLUS A3000 |
@@ -11550,6 +11557,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | PCD Argentina | PCD509 | PCD509 | PCD509 |
 | PCD Argentina | PH5003 | PH5003 | PH5003 |
 | PCD Argentina | PL5003 | PL5003 | PL5003 |
+| PLDT | Smart Page 8 Pro | Smart_Page_8_Pro | Smart_Page_8_Pro |
 | POC | POC2 | CBL7509MM | POC2 |
 | POPTEL | P9000 MAX | P9000_MAX | P9000_MAX |
 | Packard Bell | PB1009 | PB1009 | PB1009 |
@@ -11582,6 +11590,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Panasonic | ELUGA I3 Mega | Eluga_I3_Mega | ELUGA I3 Mega |
 | Panasonic | ELUGA I4 | ELUGA_I4 | ELUGA I4 |
 | Panasonic | ELUGA I5 | ELUGA_I5 | ELUGA_I5 |
+| Panasonic | ELUGA I7 | ELUGA_I7 | ELUGA I7 |
 | Panasonic | ELUGA I9 | ELUGA_I9 | Eluga I9 |
 | Panasonic | ELUGA L 4G | ELUGA_L_4G | Panasonic ELUGA L 4G |
 | Panasonic | ELUGA P | P-03E | P-03E |
@@ -12793,6 +12802,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy A6 | a6lte | SM-A600FN |
 | Samsung | Galaxy A6 | a6lte | SM-A600G |
 | Samsung | Galaxy A6 | a6lte | SM-A600GN |
+| Samsung | Galaxy A6 Plus | a6plte | SM-A605F |
+| Samsung | Galaxy A6 Plus | a6plte | SM-A605FN |
+| Samsung | Galaxy A6 Plus | a6plte | SM-A605GN |
 | Samsung | Galaxy A6+ | a6plte | SM-A605G |
 | Samsung | Galaxy A7 | a73g | SM-A700H |
 | Samsung | Galaxy A7 | a7alte | SM-A700F |
@@ -13271,6 +13283,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J3(2017) | j3y17ltelgt | SM-J330L |
 | Samsung | Galaxy J3(2017) | j3y17qltecmcc | SM-J3300 |
 | Samsung | Galaxy J3(2017) | j3y17qltecmcc | SM-J3308 |
+| Samsung | Galaxy J4 | j4lte | SM-J400F |
+| Samsung | Galaxy J4 | j4lte | SM-J400M |
 | Samsung | Galaxy J5 | j53g | SM-J500H |
 | Samsung | Galaxy J5 | j5lte | SM-J5007 |
 | Samsung | Galaxy J5 | j5lte | SM-J500F |
@@ -19392,6 +19406,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iBRIT | IBRIT_I7 | i7 | IBRIT_I7 |
 | iBRIT | Speed_Pro_Plus | SF56 | SF56 |
 | iBRIT | iBRIT SpeedX | SpeedX | SpeedX |
+| iBall | iBall | iBall_Slide_Dazzle_i7 | iBall Slide Dazzle i7 |
 | iBall | iBall Slide Imprint 4G | Imprint_4G | iBall_Slide_Imprint_4G |
 | iBall | iBall Slide Nimble 4GF | Slide_Nimble_4GF | iBall_Slide_Nimble_4GF |
 | iBall | iBall Slide Snap 4G2 | Snap_4G2 | Snap_4G2 |
