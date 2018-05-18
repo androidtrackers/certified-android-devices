@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 17.05.2018
+Last sync is 18.05.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3492,6 +3492,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | General Mobile | GM5 Plus d | gm5plus_sprout | GM 5 Plus d |
 | General Mobile | GM8 | GM8_d_sprout | GM 8 d |
 | General Mobile | GM8 | GM8_sprout | GM 8 |
+| General Mobile | GM8 Go | GM8_go | GM8 go |
+| General Mobile | GM8 Go | GM8_go_sc | GM8 go |
 | General Mobile | General Mobile 5 d | gm5_sprout | GM 5 d |
 | GeneralMobile | E-Tab10 | blue_eye | E-Tab10 |
 | Geniatech | Enjoy TV Quad-Core Box | ATV581 | Enjoy TV Quad-Core Box |
@@ -5819,6 +5821,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | HUAWEI MediaPad M3 Lite | HWCPN-Q | CPN-W09 |
 | Huawei | HUAWEI MediaPad M3 Lite 10 wp | HWHDN-H | HDN-L09 |
 | Huawei | HUAWEI MediaPad M3 Lite 10 wp | HWHDN-H | HDN-W09 |
+| Huawei | HUAWEI MediaPad M5 | HWCMR09 | CMR-W09 |
+| Huawei | HUAWEI MediaPad M5 | HWSHT | SHT-W09 |
 | Huawei | HUAWEI MediaPad T3 10 | HWAGS-Q | AGS-L03 |
 | Huawei | HUAWEI MediaPad T3 10 | HWAGS-Q | AGS-L09 |
 | Huawei | HUAWEI MediaPad T3 10 | HWAGS-Q | AGS-W09 |
@@ -10141,6 +10145,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Mint | M4 | M4 | M4 |
 | Mint | M4CR2 | Mint_Clover_Plus | Mint Clover+ |
 | Mint | M5 | MINT-M5 | M5 |
+| Mint | M55LD | Mint_fire | Mint_M55LD |
 | Mint | MINT Pandora | MINT_Pandora | MINT Pandora |
 | Mint | MINT_Pearl_plus | MINT_Pearl_plus | Pearl+_M5PD |
 | Mint | Pearl_Neo | Pearl_Neo | Pearl_Neo |
@@ -10575,6 +10580,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Motorola | Moto Z (2) Play | albus | XT1710-02 |
 | Motorola | Moto Z (2) Play | albus | XT1710-08 |
 | Motorola | Moto Z (2) Play | albus | XT1710-11 |
+| Motorola | Moto Z (3) Play | beckham | Moto Z3 Play |
 | Motorola | Moto Z Droid | griffin | XT1650 |
 | Motorola | Moto Z Play | addison | XT1563 |
 | Motorola | Moto Z Play | addison | XT1635-02 |
@@ -10632,6 +10638,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Motorola | XOOM 2 | pasteur | MZ617 |
 | Motorola | XT605 | umts_jorian | XT605 |
 | Motorola | XT627 | umts_irock | XT627 |
+| Motorola | moto e(5) cruise | james | moto e5 cruise |
 | Motorola | moto e(5) play | james | moto e5 play |
 | Motorola | moto e(5) plus | rhannah | Moto E |
 | Motorola | moto e(5) plus | rhannah | moto e5 plus |
@@ -13319,6 +13326,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J5(2017) | j5y17ltektt | SM-J530K |
 | Samsung | Galaxy J5(2017) | j5y17ltelgt | SM-J530L |
 | Samsung | Galaxy J5(2017) | j5y17lteskt | SM-J530S |
+| Samsung | Galaxy J6 | j6lte | SM-J600F |
+| Samsung | Galaxy J6 | j6lte | SM-J600G |
 | Samsung | Galaxy J7 | j75ltektt | SM-J700K |
 | Samsung | Galaxy J7 | j7e3g | SM-J700H |
 | Samsung | Galaxy J7 | j7elte | SM-J700F |
@@ -14639,6 +14648,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sanyo | CEH1 | CEH1 | CEH1 |
 | Sanyo | CER2 | CER2 | CER2 |
 | Sanyo | CER3 | CER3 | CER3 |
+| Sasktel | SaskTel maxTV Stream | HMB2213PW22WA | HMB2213PW22WA |
 | Schok | freedom turbo | SFT5216 | freedom turbo |
 | Schok | mini_SM7216 | SM7216 | SM7216 |
 | Seatel | L4 | L4 | L4 |
@@ -14672,6 +14682,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp |  | msm7627_surf | SH8118U |
 | Sharp | 306SH | SG306SH | 306SH |
 | Sharp | 401SH | SG401SH | 401SH |
+| Sharp | 4T-C50AG1T | LCD_50FOCAG1T | LCD_50FOCAG1T |
 | Sharp | 507SH | eve_sprout | 507SH |
 | Sharp | A01SH | A01SH | A01SH |
 | Sharp | A1 | TSL | FS8002 |
@@ -15231,9 +15242,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sony | Xperia XZ1 | SOV36 | SOV36 |
 | Sony | Xperia XZ1 Compact | G8441 | G8441 |
 | Sony | Xperia XZ1 Compact | SO-02K | SO-02K |
+| Sony | Xperia XZ2 | 702SO | 702SO |
 | Sony | Xperia XZ2 | H8216 | H8216 |
 | Sony | Xperia XZ2 | H8266 | H8266 |
+| Sony | Xperia XZ2 | H8276 | H8276 |
 | Sony | Xperia XZ2 | H8296 | H8296 |
+| Sony | Xperia XZ2 | SO-03K | SO-03K |
+| Sony | Xperia XZ2 | SOV37 | SOV37 |
 | Sony | Xperia XZ2 Compact | H8314 | H8314 |
 | Sony | Xperia XZ2 Compact | H8324 | H8324 |
 | Sony | Xperia XZs | 602SO | 602SO |
@@ -17451,6 +17466,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vivo | Y79A | PD1708 | vivo PD1708 |
 | Vivo | Y79A | PD1708 | vivo Y79A |
 | Vivo | Y937 | PD1503 | vivo Y937 |
+| Vivo | vivo  X21i  A | PD1801 | vivo X21i A |
 | Vivo | vivo  Y85A | PD1730 | vivo Y85A |
 | Vivo | vivo 1611 | 1611 | vivo 1611 |
 | Vivo | vivo 1714 | 1714 | vivo 1714 |
@@ -17480,6 +17496,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vivo | vivo Y69A | PD1705 | vivo Y69A |
 | Vivo | vivo Y71A | PD1731 | vivo Y71A |
 | Vivo | vivo Y75A | PD1718 | vivo Y75A |
+| Vivo | vivo Y83A | PD1803 | vivo Y83A |
 | Viwa | LIGHT ONE | VIWA_LIGHT_ONE | LIGHT ONE |
 | Viwa | LIGHT PLUS | VIWA_LIGHT_PLUS | LIGHT PLUS |
 | Viwa | M4 | M4 | M4 |
