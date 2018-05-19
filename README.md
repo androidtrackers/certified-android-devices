@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 18.05.2018
+Last sync is 19.05.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2558,6 +2558,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DL | i-Player_KIDS | Tablet_DL_3910 | Tablet_DL_3910 |
 | DNA | DNA TV-hubi | dctiw384 | DNA Android TV |
 | DO Mobile | Mate1 | Mate1 | DO_S1 |
+| Daehap | DH-B301K | DH-B301K | DH-B301K |
 | Danew | DSlide 710 | Dslide710 | Dslide710 |
 | Danew | DSlide 750 | Danew_DSlide750 | DSlide750 |
 | Danew | Dslide 1013 | DSlide1013 | DSlide 1013 |
@@ -5643,7 +5644,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | ECO | HWLUA-U6582 | HUAWEI LUA-U23 |
 | Huawei | ES8100 | hwes8100 | ES8100 |
 | Huawei | ES8500 | hwes8500 | HuaweiES8500 |
-| Huawei | FIG-LA1 | HWFIG-H | FIG-LA1 |
 | Huawei | FIG-LX1 | HWFIG-H | FIG-LX1 |
 | Huawei | FRD-L02 | HWFRD | FRD-L02 |
 | Huawei | Fusion 2 | hwu8665 | Huawei-U8665 |
@@ -5827,6 +5827,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | HUAWEI MediaPad T3 10 | HWAGS-Q | AGS-L09 |
 | Huawei | HUAWEI MediaPad T3 10 | HWAGS-Q | AGS-W09 |
 | Huawei | HUAWEI MediaPad T3 7 | HWBG2 | BG2-U03 |
+| Huawei | HUAWEI P smart | HWFIG-H | FIG-LA1 |
 | Huawei | HUAWEI P smart | HWFIG-H | FIG-LX2 |
 | Huawei | HUAWEI P smart | HWFIG-H | FIG-LX3 |
 | Huawei | HUAWEI P9 lite mini | HWSLA-Q | SLA-L02 |
@@ -7705,7 +7706,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | G3 Stylus | b2lssn | LG-D693n |
 | LGE | G3 Vigor | jagc | LGLS885 |
 | LGE | G3 Vigor | jagnm | LG-D725 |
-| LGE | G7 ThinQ | judyln | LG-G710 |
 | LGE | GA7800 | eden | LG Android TV V4 |
 | LGE | GPAD 7.0 LTE | e7lte | VK410 |
 | LGE | Gentle | cf | LG-F580L |
@@ -7977,6 +7977,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG G6 | lucye | LGM-G600S |
 | LGE | LG G6 | lucye | LGUS997 |
 | LGE | LG G6 | lucye | VS988 |
+| LGE | LG G7 ThinQ | judyln | LG-G710 |
 | LGE | LG G7 ThinQ | judyln | LM-G710 |
 | LGE | LG G7 ThinQ | judyln | LM-G710N |
 | LGE | LG GRACE\xe2\x84\xa2 LTE | lv517 | LGL59BL |
@@ -8237,6 +8238,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG Q6 | mhn | LGM-X600K |
 | LGE | LG Q6 | mhn | LGM-X600L |
 | LGE | LG Q6 | mhn | LGM-X600S |
+| LGE | LG Q7 | mcv5a | LM-Q610.FG |
 | LGE | LG Q7 | mcv5a | LM-Q610.FGN |
 | LGE | LG RAY | d2 | LG-X190 |
 | LGE | LG Rebel | e1q | LGL43AL |
@@ -10169,6 +10171,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Mito | A880 | A880 | MITO A880 |
 | Mito | MITO A17 | MITO_A17 | MITO A17 |
 | Mito | MITO A39 | A39 | mito A39 |
+| Mito | MITO T8 | MITO_T8 | MITO T8 |
 | Mito | MITO_A19_1GB | MITO_A19_1GB | MITO_A19_1GB |
 | Mito | MITO_A19_2GB | MITO_A19_2GB | MITO_A19_2GB |
 | Mito | T5091A | MITO_A16 | MITO A16 |
@@ -10764,6 +10767,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Myphone | NB106M | NB106M | NB106M |
 | Myphone | NB754 | NB754 | NB754 |
 | Myphone | NB961 | NB961 | NB961 |
+| Myphone | Pocket18X9 LTE | Pocket_18x9_LTE | Pocket_18x9_LTE |
 | Myphone | Q-Smart_III | myPhone_Q-Smart_III | myPhone_Q-Smart_III |
 | Myphone | SmartView_7_3G | SmartView_7_3G | SmartView_7_3G |
 | Myphone | SmartView_8 | SmartView_8_LTE | SmartView_8_LTE |
@@ -10821,6 +10825,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | NASCO | Magic | Magic | Magic |
 | NASCO | Power Plus | Power_Plus | Power Plus |
 | NASCO | Power Plus Pro | PowerPlusPro | Power Plus Pro |
+| NASCO | SNAP | SNAP | SNAP |
 | NASCO | SNAP PRO | SNAP_PRO | SNAP_PRO |
 | NAXA | NID-7011 | NID-7011 | NID-7011 |
 | NAXA | NID_7010 | NID_7010 | NID_7010 |
