@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 19.05.2018
+Last sync is 20.05.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17071,6 +17071,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Toshiba | Mozart | Mozart | Mozart |
 | Toshiba | STB10 | TOSPASB | TOSPASB |
 | Toshiba | Thrive 7 | tostab04 | AT1S0 |
+| Toshiba | Toshiba Chromebook 2 (2015 Edition) | gandof_cheets | Toshiba Chromebook 2 (2015 Edition) |
 | Toshiba | tt300/tt301/tt302 | Mozart | Mozart |
 | Toughshield | R200 | R200 | R200 |
 | Toughshield | T700_TABLET | T700_TABLET | T700 |
