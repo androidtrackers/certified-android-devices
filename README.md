@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 21.05.2018
+Last sync is 22.05.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2735,6 +2735,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ditecma | M1092R | M1092R | M1092R |
 | Ditecma | M1092Rv4 | M1092Rv4 | M1092Rv4 |
 | Ditigron | i-Buddie | TR10CD1_11 | TR10CD1 |
+| Docomo | F-04K | F04K | F-04K |
 | Docomo | Japan | TT01 | TT01 |
 | Docomo | MEDIAS TAB UL N-08D | N-08D | N-08D |
 | Docomo | d-01J | d-01J | d-01J |
@@ -7634,6 +7635,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | F70 | f70 | LGL31L |
 | LGE | Fortune | lv1 | LG-M153 |
 | LGE | Fortune | lv1 | LG-M154 |
+| LGE | Fortune 2 | cv1 | LM-X210CM |
+| LGE | Fortune 2 | cv1 | LM-X210CMR |
 | LGE | G PAD\xe2\x85\xa2 10.1 | th10 | LG-X760 |
 | LGE | G PAD\xe2\x85\xa2 10.1 | th10 | LG-X760E |
 | LGE | G PAD\xe2\x85\xa2 10.1 | th10 | LG-X760W |
@@ -7706,6 +7709,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | G3 Stylus | b2lssn | LG-D693n |
 | LGE | G3 Vigor | jagc | LGLS885 |
 | LGE | G3 Vigor | jagnm | LG-D725 |
+| LGE | G6Fit | lucye | LM-Q850K |
+| LGE | G6Fit | lucye | LM-Q850L |
+| LGE | G6Fit | lucye | LM-Q850S |
 | LGE | GA7800 | eden | LG Android TV V4 |
 | LGE | GPAD 7.0 LTE | e7lte | VK410 |
 | LGE | Gentle | cf | LG-F580L |
@@ -8006,6 +8012,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG K10 LTE | m253 | LG-K430 |
 | LGE | LG K10 LTE | m253n | LG-K430 |
 | LGE | LG K10 Power | mlv7 | LG-M320 |
+| LGE | LG K11 | mcv3 | LM-X410(FN) |
+| LGE | LG K11 | mcv3 | LM-X410.F |
+| LGE | LG K11 | mcv3 | LM-X410.FN |
+| LGE | LG K11+ | mcv3 | LM-X410.F |
+| LGE | LG K11+ | mcv3 | LM-X410.FN |
 | LGE | LG K20 | lv517n | LG-M255 |
 | LGE | LG K20 Plus | lv517 | LG-TP260 |
 | LGE | LG K20 Plus | lv517 | LGMP260 |
@@ -8045,6 +8056,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG K8(2018) | cv1 | LM-X210(G) |
 | LGE | LG K8(2018) | cv1 | LM-X212(G) |
 | LGE | LG K8(2018) | cv1 | LML211BL |
+| LGE | LG K8+(2018) | mcv150 | LM-X210 |
 | LGE | LG K9 | cv109 | LM-X210 |
 | LGE | LG L39C | l4ii_cdma | LGL39C |
 | LGE | LG LEON\xe2\x84\xa2 LTE | c50 | LG-H345 |
@@ -8285,6 +8297,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG Tribute 5 | m1 | LGLS675 |
 | LGE | LG Tribute Dynasty | mcv150 | LG-SP200 |
 | LGE | LG U | bbg | LG-F820L |
+| LGE | LG V35 ThinQ | judyp | LM-V350 |
+| LGE | LG V35 ThinQ | judyp | LM-V350N |
 | LGE | LG Venice | u0_cdma | LG-LG730 |
 | LGE | LG Viper 4G LTE | cayman | LG-LS840 |
 | LGE | LG Volt | my70ds | LG-H422 |
@@ -8319,6 +8333,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG X cam | k7n | LG-K580Y |
 | LGE | LG X charge | lv7 | LG-M322 |
 | LGE | LG X charge | lv7 | LG-M327 |
+| LGE | LG X charge | mlv7 | LG-M320 |
+| LGE | LG X charge | mlv7 | LM-X510(FG) |
 | LGE | LG X max | mk6m | LG-K240 |
 | LGE | LG X power | k6p | LG-K210 |
 | LGE | LG X power | k6p | LG-K212 |
@@ -8336,6 +8352,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG X screen | k5 | LGS02 |
 | LGE | LG X screen | k5n | LG-K500 |
 | LGE | LG X screen | k5n | LG-K500n |
+| LGE | LG X2 | cv109 | LM-X210K |
+| LGE | LG X2 | cv109 | LM-X210L |
+| LGE | LG X2 | cv109 | LM-X210S |
 | LGE | LG X300 | lv3n | LGM-K120K |
 | LGE | LG X300 | lv3n | LGM-K120L |
 | LGE | LG X300 | lv3n | LGM-K120S |
@@ -8348,10 +8367,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG X400 | mlv5n | LGM-X401L |
 | LGE | LG X400 | mlv5n | LGM-X401S |
 | LGE | LG X5 | mk6m | LG-F770S |
+| LGE | LG X5 | mlv7n | LM-X510L |
 | LGE | LG X500 | mlv7n | LG-M320 |
 | LGE | LG X500 | mlv7n | LGM-X320K |
 | LGE | LG X500 | mlv7n | LGM-X320L |
 | LGE | LG X500 | mlv7n | LGM-X320S |
+| LGE | LG X500 | mlv7n | LM-X510K |
+| LGE | LG X500 | mlv7n | LM-X510S |
 | LGE | LG ZONE | d2 | LG-X180g |
 | LGE | LG Zero | c100 | LG-H650 |
 | LGE | LG optimus it L-05D | l_dcm | L-05D |
@@ -10170,6 +10192,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Mito | A67 | A67 | Mito A67 |
 | Mito | A880 | A880 | MITO A880 |
 | Mito | MITO A17 | MITO_A17 | MITO A17 |
+| Mito | MITO A21 | A21 | MITO A21 |
 | Mito | MITO A39 | A39 | mito A39 |
 | Mito | MITO T8 | MITO_T8 | MITO T8 |
 | Mito | MITO_A19_1GB | MITO_A19_1GB | MITO_A19_1GB |
@@ -10589,6 +10612,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Motorola | Moto Z Play | addison | XT1635-02 |
 | Motorola | Moto Z Play | addison | XT1635-03 |
 | Motorola | Moto Z Play Droid | addison | XT1635-01 |
+| Motorola | Moto Z(2) Play | albus | Moto Z2 Play |
 | Motorola | Motoluxe | XT611 | XT611 |
 | Motorola | Motoluxe | XT615 | XT615 |
 | Motorola | Motoluxe | XT682 | XT682 |
@@ -11154,6 +11178,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nous | NS5002 | NS5002 | NS5002 |
 | Nous | NS5502 | NS5502 | NS5502 |
 | Nous | Optimum | NS5008 | NS5008 |
+| Now E | Now E | hk101 | hk101 |
 | NuAns | NEO [Reloaded] | NEO2 | NEO [Reloaded] |
 | Nubia | NX401 | NX40X | NX401 |
 | Nubia | NX501 | NX501 | NX501 |
@@ -12101,6 +12126,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Positivo | Twist Max | S540 | Twist Max |
 | Positivo | Twist Metal | S530 | Twist Metal |
 | Positivo | Twist Mini | S430B | Twist Mini |
+| Positivo | Twist Mini | S431 | Twist Mini |
 | Positivo | Twist XL | S555 | Twist XL |
 | Positivo | Union US2070 | US2070 | Positivo US2070 |
 | Positivo | X400 | X400 | X400 |
@@ -12485,6 +12511,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Quantum | MUV 3G | Q3C | MUV 3G |
 | Quantum | MUV PRO | Q5 | Quantum MUV PRO |
 | Quantum | MUV UP | Q13 | Quantum MUV UP |
+| Quantum | Mini | S431 | Quantum Mini |
 | Quantum | Muv | Q3 | MUV |
 | Quantum | Muv | Q3 | Quantum MUV |
 | Quantum | QSPT-1952 | QF3A | QT-195W-aa2 |
@@ -16819,6 +16846,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | DroiPad 8\xe2\x85\xa1 | DP8D | DP8D |
 | Tecno | Droipad10 | DP10A | DP10A |
 | Tecno | Droipad10 | DP10A | TECNO DP10A |
+| Tecno | F1 | TECNO-F1 | TECNO F1 |
 | Tecno | F2 | TECNO-F2 | TECNO F2 |
 | Tecno | H5S | up09_tecno_h5s | TECNO H5S |
 | Tecno | H7S | qp16_tecno_h7s | H7S |
