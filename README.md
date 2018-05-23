@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 22.05.2018
+Last sync is 23.05.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1795,12 +1795,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blu | Vivo ONE | V0270WW | Vivo ONE |
 | Blu | Vivo S | V0160WW | Vivo S |
 | Blu | Vivo X | V0230WW | Vivo X |
+| Blu | Vivo X WW | V0230WW | Vivo X |
 | Blu | Vivo XL3 | V0250WW | Vivo XL3 |
 | Blu | Vivo XL3 Plus | V0210WW | Vivo XL3 Plus |
 | Blu | Vivo_8L_UU | V0190UU | Vivo 8L |
 | Blu | Vivo_8_LL | V0150LL | Vivo 8 |
 | Blu | Vivo_One_Plus | V0290WW | Vivo One Plus |
-| Blu | Vivo_X_WW | V0230WW | Vivo X |
 | Bluboo | D1 | BLUBOO_D1 | D1 |
 | Bluboo | D1_Pro | D1_Pro | D1_Pro |
 | Bluboo | D2 Pro | D2_Pro | D2_Pro |
@@ -2163,6 +2163,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Condor | Allure  M1 | Allure_M1 | Allure M1 |
 | Condor | Allure A55 Plus | PGN613 | PGN613 |
 | Condor | Allure M1 Plus | Allure_M1_Plus | Allure M1 Plus |
+| Condor | Allure M3 | Allure_M3 | Allure M3 |
 | Condor | C1+ | C1Plus | C1+ |
 | Condor | C6+ | PGN_508 | PGN-508 |
 | Condor | C7 | PGN_506 | PGN-506 |
@@ -2865,6 +2866,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ECS | TR10RS1 | TR10RS1_19 | TR10RS1 |
 | ECS | TR10RS1 | TR10RS1_2 | TR10RS1 |
 | ECS | TU10MK | TU10MK_3 | TU10MK |
+| EKO | EKO OMEGA LTE Q60 | EKO_OMEGA_LTE_Q60 | EKO OMEGA LTE Q60 |
 | EKO | EKO OMEGA Q55 | EKO_OMEGA_Q55 | EKO OMEGA Q55 |
 | EKO | EKO Star LTE G60 | EKO_Star_LTE_G60 | EKO Star LTE G60 |
 | ENTITY | GDENTMY7317 | GDENTMY7317 | GDENTMY7317 |
@@ -2900,6 +2902,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Elephone | U_Pro | U_Pro | U_Pro |
 | Elevate | LUNA G60 | G60 | LUNA G60 |
 | Elevate | LUNA V55 | V55 | LUNA V55 |
+| Elevate | LUNA V57 | V57 | LUNA V57 |
 | Elevate | R50A | R50A | R50A |
 | Elevate | V55C | V55C | V55C |
 | Ematic | Cubby | SproutChannelCubby | SproutChannelCubby |
@@ -3802,6 +3805,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Gtel | Gtel X6plus | Gtel_X6plus | Gtel X6plus |
 | Gtel | Gtel X6pro | Gtel_X6pro | Gtel X6pro |
 | Gtel | Gtel X6s | Gtel_X6s | Gtel X6s |
+| Gtel | Gtel X7plus | Gtel_X7plus | Gtel X7plus |
 | Gtel | Gtel_Vivo3 | Gtel_Vivo3 | Gtel_Vivo3 |
 | Gtel | Gtel_X5mini | Gtel_X5mini | Gtel_X5mini |
 | Gtel | Gtel_X5s | Gtel_X5s | Gtel_X5s |
@@ -5868,6 +5872,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | Hol-U19 | HWHol-U | Hol-U19 |
 | Huawei | Honor 10 | HWCOL | COL-AL00 |
 | Huawei | Honor 10 | HWCOL | COL-AL10 |
+| Huawei | Honor 10 | HWCOL | COL-L29 |
 | Huawei | Honor 10 | HWCOL | COL-TL10 |
 | Huawei | Honor 4A | hnSCC-Q | SCC-U21 |
 | Huawei | Honor 4A | hnSCL-Q | SCL-AL00 |
@@ -6099,6 +6104,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | P20 | HWEML | EML-L09 |
 | Huawei | P20 | HWEML | EML-L29 |
 | Huawei | P20 | HWEML | EML-TL00 |
+| Huawei | P20 Pro | HW-01K | HW-01K |
 | Huawei | P20 Pro | HWCLT | CLT-AL00 |
 | Huawei | P20 Pro | HWCLT | CLT-AL01 |
 | Huawei | P20 Pro | HWCLT | CLT-L04 |
@@ -6973,21 +6979,21 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Intex | Cloud style 4G | Intex_Cloud_Style_4G | Intex_Cloud_Style_4G |
 | Intex | Cloud_Q11_4G | Cloud_Q11_4G | Cloud Q11 4G |
 | Intex | Cloud_Q11_4G | Cloud_Q11_4G | Cloud_Q11_4G |
-| Intex | ELYT DUAL | INTEX_ELYT_DUAL | INTEX ELYT DUAL |
 | Intex | ELYT E1 | INTEX_ELYT_E1 | INTEX ELYT E1 |
 | Intex | ELYT E6 | INTEX_ELYT_E6 | INTEX ELYT E6 |
 | Intex | ELYT E7 | INTEX_ELYT_E7 | INTEX ELYT E7 |
 | Intex | Elite E1 | Intex_Elite_E1 | Intex Elite E1 |
+| Intex | INDIE 15 | AQUA_LIONS_X1 | INTEX AQUA LIONS X1 |
 | Intex | INTEX  AQUA Lions T1 | AQUA_LIONS_T1 | INTEX AQUA LIONS T1 |
 | Intex | INTEX AQUA AMAZE+ | INTEX_AQUA_AMAZE_PLUS | INTEX AQUA AMAZE+ |
-| Intex | INTEX AQUA LIONS X1 | AQUA_LIONS_X1 | INTEX AQUA LIONS X1 |
-| Intex | INTEX AQUA LIONS X1+ | AQUA_LIONS_X1_PLUS | INTEX AQUA LIONS X1+ |
 | Intex | INTEX AQUA NOTE 5.5 | AQUA_NOTE_5_5 | INTEX AQUA NOTE 5.5 |
 | Intex | INTEX AQUA S1 | INTEX_AQUA_S1 | INTEX AQUA S1 |
 | Intex | INTEX AQUA STYLE 3 | INTEX_AQUA_STYLE_3 | INTEX AQUA STYLE 3 |
 | Intex | INTEX Aqua Selfie | INTEX_AQUA_SELFIE | INTEX AQUA SELFIE |
 | Intex | INTEX_AQUA_S3 | INTEX_AQUA_S3 | INTEX AQUA S3 |
 | Intex | Intex Aqua FulVU e5 | AQUA_FulVU_e5 | INTEX AQUA FulVU e5 |
+| Intex | STAARi 10 | AQUA_LIONS_X1_PLUS | INTEX AQUA LIONS X1+ |
+| Intex | T1 Plus | INTEX_ELYT_DUAL | INTEX ELYT DUAL |
 | Intex | i1 | INTEX_i1 | INTEX i1 |
 | Invens | Diamond | Diamond | Diamond |
 | Invens | Eager | Eager | Eager |
@@ -9741,7 +9747,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Making Life Simple | iQ9013_4N | iQ9013_4N | iQ9013_4N |
 | Making Life Simple | iQD700 | iQD700 | iQD700 |
 | Making Life Simple | iQE200 | iQE200 | iQE200 |
+| Making Life Simple | iQF 200 | iQF200 | iQF 200 |
 | Making Life Simple | iQGW516 | iQGW516 | iQGW516 |
+| Making Life Simple | iQK700 | iQK700 | iQK700 |
 | Making Life Simple | iQM960 | iQM960 | iQM960 |
 | Making Life Simple | iQR704 | iQR704 | iQR704 |
 | Making Life Simple | iQS300 | iQS300 | iQS300 |
@@ -9883,6 +9891,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | MegaFon | MS4B | Viper_LTE | MS4B |
 | MegaFon | MT3A | MT3A | MT3A |
 | Megahouse | CP-D403 | CP-D403 | CP-D403 |
+| Meiigoo | S8 | MEIIGOO_S8 | S8 |
 | Meitu | M4 | M4 | Meitu M4 |
 | Meitu | M6 | M6 | MP1503 |
 | Meitu | M8s | MayaS | MP1709 |
@@ -9893,6 +9902,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Meitu | V4s | V4s | Meitu V4s |
 | Meitu | Victoria | Victoria | MP1602 |
 | Meizu | 15 | 15 | 15 |
+| Meizu | 15 Lite | 15Lite | 15 Lite |
+| Meizu | 15 Plus | 15Plus | 15 Plus |
 | Meizu | E3 | MeizuE3 | MEIZU E3 |
 | Meizu | M15 | M15 | M15 |
 | Meizu | M6 | meizu_M6 | M6 |
@@ -10242,6 +10253,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Mobicell | Trendy Plus | TRENDY_PLUS | TRENDY PLUS |
 | Mobicell | U2 | U2 | U2 |
 | Mobicell | V1 | V1 | V1 |
+| Mobicell | V2 LTE | V2_LTE | V2 LTE |
+| Mobicell | VEGA | VEGA | VEGA |
 | Mobicell | ZEN | ZEN | ZEN |
 | Mobicell | ZOOM | ZOOM | ZOOM |
 | MobiiStar | LAI YUNA 1 | LAI_YUNA_1 | mobiistar LAI YUNA 1 |
@@ -10251,6 +10264,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | MobiiStar | LAI Zumbo S 2017 | Zumbo_S_2017 | Zumbo_S_2017 |
 | MobiiStar | LAI Zumbo S 2017 Lite | Zumbo_S_2017_Lite | Zumbo_S_2017_Lite |
 | MobiiStar | PRIME X MAX 2018 | PRIME_X_MAX_2018 | PRIME X MAX 2018 |
+| MobiiStar | S3 Dual | S3_Dual | S3 Dual |
 | MobiiStar | XQ Dual | XQ_Dual | XQ Dual |
 | MobiiStar | ZORO 4G | mobiistar_ZORO_4G | mobiistar_ZORO_4G |
 | MobiiStar | ZORO 5 | ZORO_5 | mobiistar ZORO 5 |
@@ -10606,13 +10620,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Motorola | Moto Z (2) Play | albus | XT1710-02 |
 | Motorola | Moto Z (2) Play | albus | XT1710-08 |
 | Motorola | Moto Z (2) Play | albus | XT1710-11 |
-| Motorola | Moto Z (3) Play | beckham | Moto Z3 Play |
 | Motorola | Moto Z Droid | griffin | XT1650 |
 | Motorola | Moto Z Play | addison | XT1563 |
 | Motorola | Moto Z Play | addison | XT1635-02 |
 | Motorola | Moto Z Play | addison | XT1635-03 |
 | Motorola | Moto Z Play Droid | addison | XT1635-01 |
-| Motorola | Moto Z(2) Play | albus | Moto Z2 Play |
 | Motorola | Motoluxe | XT611 | XT611 |
 | Motorola | Motoluxe | XT615 | XT615 |
 | Motorola | Motoluxe | XT682 | XT682 |
@@ -11152,6 +11164,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nokia | Nokia 8 | NB1 | TA-1052 |
 | Nokia | Nokia 8 Sirocco | A1N | Nokia 8 Sirocco |
 | Nokia | Nokia 8 Sirocco | A1N_sprout | Nokia 8 Sirocco |
+| Nokia | Nokia X6 | DRG | Nokia X6 |
 | Nomi | CORSA 3 LTE | Nomi_C070030 | Nomi_C070030 |
 | Nomi | Corsa 3 3G | Nomi_C070012 | Nomi_C070012 |
 | Nomi | I5032 | Nomi_i5032 | i5032 |
@@ -11174,6 +11187,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nomi | i5012 | i5012 | i5012 |
 | Nomu | M8 | M8 | M8 |
 | Nomu | S10 | S10 | S10 |
+| Nomu | S50 Pro | S50_Pro | S50_Pro |
 | Nous | Fabulous | NS5005 | NS5005 |
 | Nous | NS5002 | NS5002 | NS5002 |
 | Nous | NS5502 | NS5502 | NS5502 |
@@ -17217,6 +17231,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | VIBE Z | K910 | kitonw | Lenovo K910 |
 | VSN | V.35 | up11_h1_vsn | V.35 |
 | VT | MB300 | MB300 | SmartTV |
+| Vava | V1 | V1 | V1 |
+| Vava | V1 Plus | V1_Plus | V1 Plus |
 | Vava | V2 | V2 | V2 |
 | Vava | XP3 | XP3 | XP3 |
 | Vaxcare | VAX114 | VAX114 | VAX114 |
@@ -17543,6 +17559,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vizmo | VIZ070TAB711 | VIZ070TAB711 | VIZ070TAB711 |
 | Vizmo | VIZ101TAB711 | VIZ101TAB711 | VIZ101TAB711 |
 | Vkworld | Mix3 | Mix3 | Mix3 |
+| Vkworld | Mix_Plus | Mix_Plus | Mix_Plus |
+| Vkworld | S8 | vkworld_S8 | S8 |
 | Vodafone | 785 | Vodafone_785 | Vodafone 785 |
 | Vodafone | 895 | VF-895N | VF-895N |
 | Vodafone | Smart N8 | VFD610 | VFD 610 |
