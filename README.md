@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 23.05.2018
+Last sync is 24.05.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4505,6 +4505,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | HTC | U11 | htc_ocnwhl | HTC U11 |
 | HTC | U11 Life | htc_ocluhljapan | HTC U11 Life |
 | HTC | U11 Life | htc_ocluhljapan | HTC U11 life |
+| HTC | U12+ | htc_imedugl | HTC 2Q551 |
+| HTC | U12+ | htc_imedugl | HTC 2Q551+ |
+| HTC | U12+ | htc_imedugl | HTC 2Q55100 |
+| HTC | U12+ | htc_imedugl | HTC U12+ |
+| HTC | U12+ | htc_imeuhl | HTC 2Q552 |
+| HTC | U12+ | htc_imeuhl | HTC U12+ |
 | HTC | Velocity 4G | holiday | HTC PH39100 |
 | HTC | Velocity 4G | holiday | HTC Raider X710e |
 | HTC | Velocity 4G | holiday | HTC Velocity 4G |
@@ -5826,8 +5832,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | HUAWEI MediaPad M3 Lite | HWCPN-Q | CPN-W09 |
 | Huawei | HUAWEI MediaPad M3 Lite 10 wp | HWHDN-H | HDN-L09 |
 | Huawei | HUAWEI MediaPad M3 Lite 10 wp | HWHDN-H | HDN-W09 |
+| Huawei | HUAWEI MediaPad M5 | HWCMR09 | CMR-AL09 |
 | Huawei | HUAWEI MediaPad M5 | HWCMR09 | CMR-W09 |
+| Huawei | HUAWEI MediaPad M5 | HWSHT | SHT-AL09 |
 | Huawei | HUAWEI MediaPad M5 | HWSHT | SHT-W09 |
+| Huawei | HUAWEI MediaPad M5 Pro | HWCMR | CMR-AL19 |
+| Huawei | HUAWEI MediaPad M5 Pro | HWCMR | CMR-W19 |
 | Huawei | HUAWEI MediaPad T3 10 | HWAGS-Q | AGS-L03 |
 | Huawei | HUAWEI MediaPad T3 10 | HWAGS-Q | AGS-L09 |
 | Huawei | HUAWEI MediaPad T3 10 | HWAGS-Q | AGS-W09 |
@@ -5835,6 +5845,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | HUAWEI P smart | HWFIG-H | FIG-LA1 |
 | Huawei | HUAWEI P smart | HWFIG-H | FIG-LX2 |
 | Huawei | HUAWEI P smart | HWFIG-H | FIG-LX3 |
+| Huawei | HUAWEI P20 Lite | HWANE | ANE-LX2J |
 | Huawei | HUAWEI P9 lite mini | HWSLA-Q | SLA-L02 |
 | Huawei | HUAWEI P9 lite mini | HWSLA-Q | SLA-L22 |
 | Huawei | HUAWEI Y3 2017 | HWCRO-L6737M | CRO-L02 |
@@ -6084,6 +6095,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | MediaPad X1 7.0 | hw7d501l | X1 7.0 |
 | Huawei | MediaPad Youth | hws7701w | MediaPad 7 Youth |
 | Huawei | MediaPad7 | hws7601w | MediaPad 7 Vogue |
+| Huawei | MediaQ M380 | HWM380 | M380-10 |
 | Huawei | Nexus 6P | angler | Nexus 6P |
 | Huawei | P10 | HWVTR | VTR-AL00 |
 | Huawei | P10 | HWVTR | VTR-L09 |
@@ -6509,6 +6521,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xbaG9\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88 | HWVNS-H | HUAWEI VNS-TL00 |
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbf C5 | HWMON-Q | MON-AL19 |
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbf C5 | HWMON-Q | MON-AL19B |
+| Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbf C5 | HWMON-Q | MON-W19 |
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbfT3 8\xe8\xa1\x8c\xe4\xb8\x9a\xe4\xb8\x93\xe4\xba\xab\xe7\x89\x88 | HWBZK-Q | BZK-L00 |
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbfT3 8\xe8\xa1\x8c\xe4\xb8\x9a\xe4\xb8\x93\xe4\xba\xab\xe7\x89\x88 | HWBZK-Q | BZK-W00 |
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe6\x8f\xbd\xe9\x98\x85M2\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x887.0 | hwple703l | PLE-701L |
@@ -6586,6 +6599,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa96 | HWMYA-L6737 | MYA-AL10 |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa96 | HWMYA-L6737 | MYA-TL10 |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa96A | HWDLI-Q | DLI-AL10 |
+| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa97 | HWDUA-M | DUA-AL00 |
+| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa97 | HWDUA-M | DUA-TL00 |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa97X | HWBND-H | BND-AL00 |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa97X | HWBND-H | BND-AL10 |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa97X | HWBND-H | BND-TL10 |
@@ -8590,6 +8605,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | Q8 | anna | LG-H970 |
 | LGE | Q8 | anna | LGM-X800K |
 | LGE | Q8 | anna | LGM-X800L |
+| LGE | QStylus Plus | mcv7a | LM-Q710.FGN |
 | LGE | Qua phone PX | JSG | LGV33 |
 | LGE | Qua tab PX | b3 | LGT31 |
 | LGE | Qua tab PZ | b5 | LGT32 |
@@ -13337,6 +13353,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J3(2017) | j3y17qltecmcc | SM-J3300 |
 | Samsung | Galaxy J3(2017) | j3y17qltecmcc | SM-J3308 |
 | Samsung | Galaxy J4 | j4lte | SM-J400F |
+| Samsung | Galaxy J4 | j4lte | SM-J400G |
 | Samsung | Galaxy J4 | j4lte | SM-J400M |
 | Samsung | Galaxy J5 | j53g | SM-J500H |
 | Samsung | Galaxy J5 | j5lte | SM-J5007 |
@@ -13373,6 +13390,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J5(2017) | j5y17ltelgt | SM-J530L |
 | Samsung | Galaxy J5(2017) | j5y17lteskt | SM-J530S |
 | Samsung | Galaxy J6 | j6lte | SM-J600F |
+| Samsung | Galaxy J6 | j6lte | SM-J600FN |
 | Samsung | Galaxy J6 | j6lte | SM-J600G |
 | Samsung | Galaxy J7 | j75ltektt | SM-J700K |
 | Samsung | Galaxy J7 | j7e3g | SM-J700H |
@@ -15925,6 +15943,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | 6055K | idol4 | 6055K |
 | TCT (Alcatel) | 6055P | idol4 | 6055P |
 | TCT (Alcatel) | 6060X | simba6_global | 6060X |
+| TCT (Alcatel) | 6062W | A70AXLTMO | 6062W |
 | TCT (Alcatel) | 7040N | Yaris5TMO | 7040N |
 | TCT (Alcatel) | 7040R | Yaris5TMO | 7040R |
 | TCT (Alcatel) | 7040T | Yaris5TMO | 7040T |
@@ -16862,6 +16881,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | Droipad10 | DP10A | TECNO DP10A |
 | Tecno | F1 | TECNO-F1 | TECNO F1 |
 | Tecno | F2 | TECNO-F2 | TECNO F2 |
+| Tecno | F2LTE | TECNO-F2LTE | TECNO F2LTE |
 | Tecno | H5S | up09_tecno_h5s | TECNO H5S |
 | Tecno | H7S | qp16_tecno_h7s | H7S |
 | Tecno | J5 | TECNO-J5 | TECNO-J5 |
@@ -17670,6 +17690,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vulcan | Vulcan VR5533 | VR5533 | VR5533 |
 | Vulcan | Vulcan VR6031 | VR6031 | VR6031 |
 | Vulcan | Vulcan VR6032 | VR6032 | VR6032 |
+| W&O | X6 | X6 | X6 |
 | W.e. | WETAB700DG | WETAB700DG | WETAB700DG |
 | W.e. | WeTab1004B | WeTab1004B | WeTab1004B |
 | Wacom | Cintiq Companion Hybrid 13HD | CintiqCompanionHybrid13HD | Cintiq Companion Hybrid 13HD |
