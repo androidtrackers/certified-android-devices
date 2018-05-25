@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 24.05.2018
+Last sync is 25.05.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -357,6 +357,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | AllView | A7 Lite | A7_Lite | A7_Lite |
 | AllView | A8 Lite | A8_Lite | A8_Lite |
 | AllView | A8 Lite TM | A8_Lite | A8_Lite_TM |
+| AllView | A9  Plus | A9_Plus | A9_Plus |
 | AllView | A9 Lite | A9_Lite | A9_Lite |
 | AllView | AX4 Nano Plus | AX4Nano_plus | AX4Nano_plus |
 | AllView | AX501Q | AX501Q | AX501Q |
@@ -2088,6 +2089,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Clarmin | B8 | B8 | B8 |
 | Clarmin | B8Lite | B8Lite | B8Lite |
 | Clarmin | B8plus | B8plus | B8plus |
+| Clarmin | CLARMIN C1 | CLARMIN_C1 | CLARMIN C1 |
 | Clementoni | Clempad 4.4 Basic Special | Clempad2_special | Clempad2_special |
 | Clementoni | Clempad 4.4 Plus | Clempad2_plus | Clempad2_plus |
 | Clementoni | Clempad 4.4 XL | Clempad2_XL | Clempad2_XL |
@@ -2473,6 +2475,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Cubot | CUBOT NOTE Plus | CUBOT_NOTE_Plus | CUBOT NOTE Plus |
 | Cubot | CUBOT R11 | CUBOT_R11 | CUBOT R11 |
 | Cubot | CUBOT X18 | CUBOT_X18 | CUBOT X18 |
+| Cubot | CUBOT_POWER | CUBOT_POWER | CUBOT_POWER |
 | Cubot | DINOSAUR | x5623_h6013_cubot | CUBOT DINOSAUR |
 | Cubot | ECHO | CUBOT_ECHO | CUBOT ECHO |
 | Cubot | MANITO | CUBOT_MANITO | CUBOT_MANITO |
@@ -2736,6 +2739,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ditecma | M1092R | M1092R | M1092R |
 | Ditecma | M1092Rv4 | M1092Rv4 | M1092Rv4 |
 | Ditigron | i-Buddie | TR10CD1_11 | TR10CD1 |
+| Docomo | F-03H | F03H | F-03H |
 | Docomo | F-04K | F04K | F-04K |
 | Docomo | Japan | TT01 | TT01 |
 | Docomo | MEDIAS TAB UL N-08D | N-08D | N-08D |
@@ -5818,6 +5822,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | H882L | hwh882l | H882L |
 | Huawei | H891L | hwH891L | HUAWEI H891L |
 | Huawei | H892L | hwH892L | HUAWEI H892L |
+| Huawei | HAUWEI Y5 Lite 2018 | HWCAG-L6737M | CAG-L22 |
 | Huawei | HONOR 4X | hwChe2 | Che2-L12 |
 | Huawei | HUAWEI GR5 2017 | HWBLN-H | BLL-L21 |
 | Huawei | HUAWEI GR5 2017 | HWBLN-H | BLL-L22 |
@@ -5852,10 +5857,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | HUAWEI Y3 2017 | HWCRO-L6737M | CRO-L22 |
 | Huawei | HUAWEI Y3 2017 | HWCRO-L6737M | HUAWEI CRO-L02 |
 | Huawei | HUAWEI Y3 2017 | HWCRO-L6737M | HUAWEI CRO-L22 |
+| Huawei | HUAWEI Y3 2018 | HWCAG-L6737M | CAG-L02 |
+| Huawei | HUAWEI Y3 2018 | HWCAG-L6737M | CAG-L22 |
 | Huawei | HUAWEI Y5 lite 2017 | HWCRO-L6737M | CRO-L03 |
 | Huawei | HUAWEI Y5 lite 2017 | HWCRO-L6737M | CRO-L23 |
 | Huawei | HUAWEI Y5 lite 2017 | HWCRO-L6737M | HUAWEI CRO-L03 |
 | Huawei | HUAWEI Y5 lite 2017 | HWCRO-L6737M | HUAWEI CRO-L23 |
+| Huawei | HUAWEI Y5 lite 2018 | HWCAG-L6737M | CAG-L03 |
+| Huawei | HUAWEI Y5 lite 2018 | HWCAG-L6737M | CAG-L23 |
 | Huawei | HUAWEI Y6 2017 | HWMYA-L6737 | MYA-L11 |
 | Huawei | HUAWEI Y6 2018 | HWATU-QG | ATU-L11 |
 | Huawei | HUAWEI Y6 2018 | HWATU-QG | ATU-L21 |
@@ -6995,10 +7004,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Intex | Cloud_Q11_4G | Cloud_Q11_4G | Cloud Q11 4G |
 | Intex | Cloud_Q11_4G | Cloud_Q11_4G | Cloud_Q11_4G |
 | Intex | ELYT E1 | INTEX_ELYT_E1 | INTEX ELYT E1 |
-| Intex | ELYT E6 | INTEX_ELYT_E6 | INTEX ELYT E6 |
 | Intex | ELYT E7 | INTEX_ELYT_E7 | INTEX ELYT E7 |
 | Intex | Elite E1 | Intex_Elite_E1 | Intex Elite E1 |
 | Intex | INDIE 15 | AQUA_LIONS_X1 | INTEX AQUA LIONS X1 |
+| Intex | INDIE 5 | INTEX_AQUA_LIONS_3 | INTEX AQUA LIONS 3 |
 | Intex | INTEX  AQUA Lions T1 | AQUA_LIONS_T1 | INTEX AQUA LIONS T1 |
 | Intex | INTEX AQUA AMAZE+ | INTEX_AQUA_AMAZE_PLUS | INTEX AQUA AMAZE+ |
 | Intex | INTEX AQUA NOTE 5.5 | AQUA_NOTE_5_5 | INTEX AQUA NOTE 5.5 |
@@ -7008,6 +7017,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Intex | INTEX_AQUA_S3 | INTEX_AQUA_S3 | INTEX AQUA S3 |
 | Intex | Intex Aqua FulVU e5 | AQUA_FulVU_e5 | INTEX AQUA FulVU e5 |
 | Intex | STAARi 10 | AQUA_LIONS_X1_PLUS | INTEX AQUA LIONS X1+ |
+| Intex | STAARi 12 | INTEX_ELYT_E6 | INTEX ELYT E6 |
 | Intex | T1 Plus | INTEX_ELYT_DUAL | INTEX ELYT DUAL |
 | Intex | i1 | INTEX_i1 | INTEX i1 |
 | Invens | Diamond | Diamond | Diamond |
@@ -7278,6 +7288,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | KDDI | Power Up Unit | C02BB1 | C02BB1 |
 | KDDI | STW2000 | H02ST1 | STW2000 |
 | KDDI | SmartTV Box | C01AS | SMARTTVBOX |
+| KEMPLER STRAUSS | KEMPLER_8_PLUS | KEMPLER_8_PLUS | KEMPLER_8_PLUS |
 | KOOLNEE | K1 | KOOLNEE_K1 | K1 |
 | KOOOK | C600 | GBC_bravo | C600 |
 | KT Tech |  | s120 | KM-S120 |
@@ -10820,6 +10831,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Myphone | NB754 | NB754 | NB754 |
 | Myphone | NB961 | NB961 | NB961 |
 | Myphone | Pocket18X9 LTE | Pocket_18x9_LTE | Pocket_18x9_LTE |
+| Myphone | Prime 18x9 | Prime_18x9 | Prime_18x9 |
 | Myphone | Q-Smart_III | myPhone_Q-Smart_III | myPhone_Q-Smart_III |
 | Myphone | SmartView_7_3G | SmartView_7_3G | SmartView_7_3G |
 | Myphone | SmartView_8 | SmartView_8_LTE | SmartView_8_LTE |
@@ -13330,6 +13342,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J3 Pro | j3xproltechn | SM-J3110 |
 | Samsung | Galaxy J3 Pro | j3xproltectc | SM-J3119 |
 | Samsung | Galaxy J3 Pro | j3y17lte | SM-J330G |
+| Samsung | Galaxy J3 Top | j3toplteatt | SM-J337A |
 | Samsung | Galaxy J3(2016) | j3ltekx | SM-J320N0 |
 | Samsung | Galaxy J3(2016) | j3ltetfnvzw | SM-S320VL |
 | Samsung | Galaxy J3(2016) | j3ltetw | SM-J320Y |
@@ -17711,6 +17724,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Walton | Primo GM3 | Primo_GM3 | Primo GM3 |
 | Walton | Primo H6+ | Primo_H6_Plus | Primo H6 Plus |
 | Walton | Primo H7 | Primo_H7 | Primo H7 |
+| Walton | Primo H7s | Primo_H7s | Primo H7s |
 | Walton | Primo HM4 | Primo_HM4 | Primo HM4 |
 | Walton | Primo HM4+ | Primo_HM4_PLUS | Primo HM4+ |
 | Walton | Primo HM4i | Primo_HM4i | Primo HM4i |
