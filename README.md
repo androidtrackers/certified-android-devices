@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 25.05.2018
+Last sync is 26.05.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2038,6 +2038,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Cherry Mobile | Flare P1 Lite | Flare_P1_Lite | Flare_P1_Lite |
 | Cherry Mobile | Flare P1 Mini | Flare_P1_Mini | Flare_P1_Mini |
 | Cherry Mobile | Flare P1 Plus | Flare_P1_Plus | Flare P1 Plus |
+| Cherry Mobile | Flare P3 | Flare_P3 | Flare_P3 |
+| Cherry Mobile | Flare P3 lite | Flare_P3_lite | Flare_P3_lite |
 | Cherry Mobile | Flare S5 | Flare_S5 | Flare S5 |
 | Cherry Mobile | Flare S5 Lite DTV | FlareS5LiteDTV | FlareS5LiteDTV |
 | Cherry Mobile | Flare S5 Max | FLARE_S5_MAX | FLARE S5 MAX |
@@ -5937,6 +5939,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | Honor 8 | HWFRD | FRD-L09 |
 | Huawei | Honor 8 | HWFRD | FRD-L14 |
 | Huawei | Honor 8 | HWFRD | FRD-L19 |
+| Huawei | Honor 8 | HWFRD | FRD-L24 |
 | Huawei | Honor 8 | HWFRD | FRD-TL00 |
 | Huawei | Honor 8 Pro | HWDUK | DUK-L09 |
 | Huawei | Honor 8 Smart | HWVNS-H | VEN-L22 |
@@ -6784,6 +6787,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Infinix | NOTE 4 | Infinix-X572 | Infinix X572-LTE |
 | Infinix | NOTE 4 Pro | Infinix-X571 | Infinix X571 |
 | Infinix | NOTE 4 Pro | Infinix-X571 | Infinix X571-LTE |
+| Infinix | Note 5 | Infinix-X604_sprout | Infinix X604 |
+| Infinix | Note 5 | Infinix-X604_sprout | Infinix X604B |
 | Infinix | RACE Blot2 | Infinix_X454 | Infinix X454 |
 | Infinix | RACE Bolt 3 | X455 | Infinix X455 |
 | Infinix | S2 | Infinix-X522 | Infinix S2 |
@@ -8018,6 +8023,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG G7 ThinQ | judyln | LG-G710 |
 | LGE | LG G7 ThinQ | judyln | LM-G710 |
 | LGE | LG G7 ThinQ | judyln | LM-G710N |
+| LGE | LG G7 ThinQ | judyln | LM-G710VM |
 | LGE | LG GRACE\xe2\x84\xa2 LTE | lv517 | LGL59BL |
 | LGE | LG Gentle | cfm | LG-F660L |
 | LGE | LG Gpad X 10.1 | t1lte | LG-V930 |
@@ -10198,6 +10204,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Microtech | e-tab_style_rev.3 | e-tab_style_REV3 | e-tab_style_REV3 |
 | MiiA | MT-733G | MT-733G | MT-733G |
 | MiiA | MiiA | TA10CA1_2 | TA10CA1 |
+| Mikona | MFHD_BT1067QC16IPS2 | MFHD_BT1067QC16IPS2 | MFHD_BT1067QC16IPS2 |
 | Mikona | MIKONA | MSW_BT767QC8TN | MSW_BT767QC8TN |
 | Mint | Clover | M4CR | M4CR |
 | Mint | Clover | M4CR | M4CRD |
@@ -11585,6 +11592,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Orange | Rise 50 | Rise50 | Rise50 |
 | Orange | Rise30 | Pixi3-4 | Orange-Rise30 |
 | Orange | Rise31 | Pixi4-4 | Orange-Rise31 |
+| Orange | Rise31 | Pixi4-4 | Orange-Rise34 |
 | Orange | Rise32 | Orange-Rise32 | Orange Rise32 |
 | Orange | Rise51 | PIXI4_5_4G | Orange-Rise51 |
 | Orange | Rise51 | PIXI4_5_4G | Orange-Rise51B |
@@ -16345,6 +16353,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Alcatel 3 | A3A | 5052D |
 | TCT (Alcatel) | Alcatel 3 | A3A | 5052D_RU |
 | TCT (Alcatel) | Alcatel 3 | A3A | 5052Y |
+| TCT (Alcatel) | Alcatel 3 | Dive_73 | Orange Dive 73 |
 | TCT (Alcatel) | Alcatel 3L | A3A_LITE | 5034D |
 | TCT (Alcatel) | Alcatel 3L | A3A_LITE | 5034D_RU |
 | TCT (Alcatel) | Alcatel 3V | A3A_XL_4G | 5099A |
@@ -16362,6 +16371,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Alcatel 5 | A5A_INFINI | 5086A |
 | TCT (Alcatel) | Alcatel 5 | A5A_INFINI | 5086D |
 | TCT (Alcatel) | Alcatel 5 | A5A_INFINI | 5086Y |
+| TCT (Alcatel) | Alcatel 5 | A5A_INFINI | 5186A |
 | TCT (Alcatel) | Alcatel Raven LTE | BUZZ6T4GTFUMTS | A574BL |
 | TCT (Alcatel) | Alcatel one touch 985 | one_touch_985A_gsm | ALCATEL_one_touch_985 |
 | TCT (Alcatel) | Alcatel9007T | Pixi3_7_4G | Alcatel9007T |
@@ -16951,6 +16961,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | SA6 | TECNO-SA6 | TECNO SA6 |
 | Tecno | SA6 | TECNO-SA6 | TECNO SA6S |
 | Tecno | SPARK | TECNO-K7 | TECNO K7 |
+| Tecno | SPARK 2 | TECNO-KA7-GO | TECNO KA7 |
 | Tecno | SPARK CM | TECNO-KA9 | TECNO KA9 |
 | Tecno | SPARK Plus | TECNO-K9 | TECNO K9 |
 | Tecno | SPARK Pro | TECNO-K8 | TECNO K8 |
@@ -17560,7 +17571,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vivo | vivo 1723 | 1723 | vivo 1723 |
 | Vivo | vivo 1724 | 1724 | vivo 1724 |
 | Vivo | vivo 1725 | 1725 | vivo 1725 |
+| Vivo | vivo 1726 | 1726 | vivo 1726 |
 | Vivo | vivo 1727 | 1727 | vivo 1727 |
+| Vivo | vivo 1802 | 1802 | vivo 1802 |
 | Vivo | vivo X20 | PD1709 | vivo PD1709 |
 | Vivo | vivo X20 | PD1709 | vivo X20A |
 | Vivo | vivo X20Plus | PD1710 | vivo PD1710 |
