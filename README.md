@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 28.05.2018
+Last sync is 29.05.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4511,6 +4511,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | HTC | U11 | htc_ocnwhl | HTC U11 |
 | HTC | U11 Life | htc_ocluhljapan | HTC U11 Life |
 | HTC | U11 Life | htc_ocluhljapan | HTC U11 life |
+| HTC | U12 + | htc_imedtwl | HTC 2Q55300 |
 | HTC | U12+ | htc_imedugl | HTC 2Q551 |
 | HTC | U12+ | htc_imedugl | HTC 2Q551+ |
 | HTC | U12+ | htc_imedugl | HTC 2Q55100 |
@@ -5277,6 +5278,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Honda | NSX | koelsch | MY15ADA |
 | Honda | Pilot | koelsch | MY15ADA |
 | Honda | Ridgeline | koelsch | MY15ADA |
+| Honda | S660 | koelsch | MY19ADA |
 | Honda | Spirior | koelsch | MY15ADA |
 | Honda | Unit Assy AVN | h16 | SiRFSoC Android |
 | Honeywell | 70eL00 | dblack | Dolphin 70e Black |
@@ -10156,6 +10158,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Micromax | Evok Power | Q4260 | Micromax Q4260 |
 | Micromax | MAD | A94 | Micromax A94 |
 | Micromax | MIcromax Bharat 4 | Q440 | Micromax Q440 |
+| Micromax | Micromax Bharat 2 Plus | Q402Plus | Micromax Q402+ |
 | Micromax | Micromax Bharat 2 Plus | Q402Plus | Micromax Q402Plus |
 | Micromax | Micromax C1 | C1 | Micromax C1 |
 | Micromax | Micromax C2A | C2A | Micromax C2A |
@@ -12935,6 +12938,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy A8+(2018) | jackpot2lte | SM-A730X |
 | Samsung | Galaxy A9 Pro | a9xproltechn | SM-A9100 |
 | Samsung | Galaxy A9 Pro | a9xproltesea | SM-A910F |
+| Samsung | Galaxy A9 Star Lite | a6pltechn | SM-A6050 |
+| Samsung | Galaxy A9 Star Lite | a6pltechn | SM-A605XC |
+| Samsung | Galaxy A9 Star Lite | a6pltecmcc | SM-A6058 |
 | Samsung | Galaxy A9(2016) | a9xltechn | SM-A9000 |
 | Samsung | Galaxy Ace | GT-S5830 | GT-S5830 |
 | Samsung | Galaxy Ace | GT-S5830B | GT-S5830B |
