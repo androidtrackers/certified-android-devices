@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 29.05.2018
+Last sync is 30.05.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2742,7 +2742,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ditecma | M1092Rv4 | M1092Rv4 | M1092Rv4 |
 | Ditigron | i-Buddie | TR10CD1_11 | TR10CD1 |
 | Docomo | F-03H | F03H | F-03H |
+| Docomo | F-03K | F03K | F-03K |
 | Docomo | F-04K | F04K | F-04K |
+| Docomo | F-05J | F05J | F-05J |
 | Docomo | Japan | TT01 | TT01 |
 | Docomo | MEDIAS TAB UL N-08D | N-08D | N-08D |
 | Docomo | d-01J | d-01J | d-01J |
@@ -5828,12 +5830,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | H892L | hwH892L | HUAWEI H892L |
 | Huawei | HAUWEI Y5 Lite 2018 | HWCAG-L6737M | CAG-L22 |
 | Huawei | HONOR 4X | hwChe2 | Che2-L12 |
+| Huawei | HUAWEI G Elite Plus | HWSLA-Q | SLA-L03 |
 | Huawei | HUAWEI GR5 2017 | HWBLN-H | BLL-L21 |
 | Huawei | HUAWEI GR5 2017 | HWBLN-H | BLL-L22 |
 | Huawei | HUAWEI GR5 2017 | HWBLN-H | HUAWEI BLL-L21 |
 | Huawei | HUAWEI GR5 2017 | HWBLN-H | HUAWEI BLL-L22 |
 | Huawei | HUAWEI Mate 9 lite | HWBLN-H | BLL-L23 |
 | Huawei | HUAWEI Mate 9 lite | HWBLN-H | HUAWEI BLL-L23 |
+| Huawei | HUAWEI Mate SE | HWBND-H | BND-L34 |
 | Huawei | HUAWEI MediaPad M3 Lite | HWCPN-Q | 701HW |
 | Huawei | HUAWEI MediaPad M3 Lite | HWCPN-Q | 702HW |
 | Huawei | HUAWEI MediaPad M3 Lite | HWCPN-Q | CPN-AL00 |
@@ -5857,6 +5861,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | HUAWEI P20 Lite | HWANE | ANE-LX2J |
 | Huawei | HUAWEI P9 lite mini | HWSLA-Q | SLA-L02 |
 | Huawei | HUAWEI P9 lite mini | HWSLA-Q | SLA-L22 |
+| Huawei | HUAWEI P9 lite mini | HWSLA-Q | SLA-L23 |
 | Huawei | HUAWEI Y3 2017 | HWCRO-L6737M | CRO-L02 |
 | Huawei | HUAWEI Y3 2017 | HWCRO-L6737M | CRO-L22 |
 | Huawei | HUAWEI Y3 2017 | HWCRO-L6737M | HUAWEI CRO-L02 |
@@ -5932,6 +5937,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | Honor 7C | HWLND-Q | LND-TL40 |
 | Huawei | Honor 7X | HWBND-H | BND-L21 |
 | Huawei | Honor 7X | HWBND-H | BND-L24 |
+| Huawei | Honor 7X | HWBND-H | BND-L31 |
 | Huawei | Honor 7i | HWATH | ATH-AL00 |
 | Huawei | Honor 7i | HWATH | ATH-CL00 |
 | Huawei | Honor 8 | HWFRD | FRD-AL00 |
@@ -7219,6 +7225,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Jivi | Prime P300 | Prime_P300 | Prime P300 |
 | Jivi | Prime P444 | Prime_P444 | Prime P444 |
 | Jivi | Prime P4442 | Prime_P4442 | Prime P4442 |
+| Jivi | Revolution TnT3 | Revolution_TnT3 | Revolution TnT3 |
 | Jooyon | J110A | J110A | J110A |
 | Just5 | CF8 | CF8 | CF8 |
 | Just5 | COSMO L707 | COSMO_L707 | COSMO_L707 |
@@ -11642,6 +11649,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | PC Smart | PCSGOB10MVA-A | PCSGOB10MVA-A | PCSGOB10MVA-A |
 | PC Smart | PCSGOB10SF-A | PCSGOB10SF-A | PCSGOB10SF-A |
 | PC Smart | PTSGOB8 | PTSGOB8 | PC_Smart_PTSGOB8 |
+| PCBOX | Curi_Lite_PCB-T103 | mid1008 | PCB-T103 CURI LITE |
 | PCD Argentina | 610 | 610 | 610 |
 | PCD Argentina | PCD508 | PCD508 | PCD508 |
 | PCD Argentina | PCD509 | PCD509 | PCD509 |
@@ -12006,8 +12014,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Philips | Xenium V377 | Philips_V377 | Philips V377 |
 | Phone Max | Rocky 2 | Rocky_2 | Rocky 2 |
 | Phone Max | Rocky_1 | Rocky_1 | Rocky_1 |
+| Pioneer | AV Receiver | AVH_W4400NEX | Jupiter |
 | Pioneer | B.PRO\xe3\x82\xab\xe3\x83\xbc\xe3\x83\x8a\xe3\x83\x93 | AVIC_BX500 | jupiter |
 | Pioneer | B.PRO\xe3\x82\xab\xe3\x83\xbc\xe3\x83\x8a\xe3\x83\x93 | AVIC_BZ500 | jupiter |
+| Pioneer | Car Navigation | AVIC_W6400NEX | Jupiter |
+| Pioneer | Car Navigation | AVIC_W8400NEX | Jupiter |
+| Pioneer | Car Navigation | AVIC_Z710DAB | Jupiter |
+| Pioneer | Car Navigation | AVIC_Z910DAB | Jupiter |
 | Pioneer | CyberNavi | AVIC_CE900 | jupiter |
 | Pioneer | CyberNavi | AVIC_CE901 | jupiter |
 | Pioneer | CyberNavi | AVIC_CL900 | jupiter |
@@ -12489,6 +12502,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | QMobile | Q Infinity | Q_Infinity | Q Infinity |
 | QMobile | Q Infinity B | Q_Infinity_B | QMobile Q Infinity B |
 | QMobile | Q Infinity C | Q_Infinity_C | QMobile Q Infinity C |
+| QMobile | Q Infinity D | Q_Infinity_D | QMobile Q Infinity D |
 | QMobile | Q Infinity E | Q_Infinity_E | QMobile Q Infinity E |
 | QMobile | Q Infinity E Lite | Q_Infinity_E_Lite | QMobile Q Infinity E Lite |
 | QMobile | QMobile S15 | S15 | QMobile S15 |
@@ -17773,6 +17787,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Walton | Primo ZX3 | Primo_ZX3 | Primo ZX3 |
 | Walton | Primo_RM3 | Primo_RM3 | Primo RM3 |
 | Walton | Primo\xc2\xa0S6\xc2\xa0Dual | Primo_S6_Dual | Primo S6 Dual |
+| Wave 8 Red Nougat | WV8R-N | WV8R_N | WV8R_N |
 | We (BD) | L7 | L7 | L7 |
 | We (BD) | T1 | WE_T1 | T1 |
 | We (BD) | WE B3 | WE_B3 | WE B3 |
@@ -18042,6 +18057,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Xiaomi | Redmi Note 4 | mido | Redmi Note 4 |
 | Xiaomi | Redmi Note 4 | mido | Redmi Note 4X |
 | Xiaomi | Redmi Note 4 | nikel | Redmi Note 4 |
+| Xiaomi | Redmi Note 5 | whyred | Redmi Note 5 |
 | Xiaomi | Redmi Note 5 Pro | whyred | Redmi Note 5 |
 | Xiaomi | Redmi Note 5 Pro | whyred | Redmi Note 5 Pro |
 | Xiaomi | Redmi Note 5A | ugg | Redmi Note 5A |
@@ -19498,6 +19514,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | bq | Aquaris X Pro | bardock-pro | Aquaris X Pro |
 | bq | Aquaris X5 | Aquaris_X5 | Aquaris X5 |
 | bq | Aquaris X5 Plus | Aquaris_X5_Plus | Aquaris X5 Plus |
+| bq | BQ-5515L | BQru-5515L | BQ-5515L |
 | bq | Edison 3 | Edison_3 | Edison 3 |
 | bq | Edison 3 3G | Edison_3_3G | Edison 3 3G |
 | bq | Edison_3_mini | Edison_3_mini | Edison 3 mini |
