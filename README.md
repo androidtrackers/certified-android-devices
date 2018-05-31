@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 30.05.2018
+Last sync is 31.05.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3773,6 +3773,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Google | Chromebook | relm_cheets | Intel Braswell Chromebook |
 | Google | Chromebook | wizpig_cheets | Intel Braswell Chromebook |
 | Google | Chromebook Pixel (2015) | samus_cheets | Google Chromebook Pixel (2015) |
+| Google | Chromebox | fizz_cheets | fizz |
 | Google | Emulator | generic_x86 | Android SDK built for x86 |
 | Google | Galaxy S4 Google Play edition | jgedlte | GT-I9505G |
 | Google | Pixel | sailfish | Pixel |
@@ -7302,6 +7303,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | KDDI | Power Up Unit | C02BB1 | C02BB1 |
 | KDDI | STW2000 | H02ST1 | STW2000 |
 | KDDI | SmartTV Box | C01AS | SMARTTVBOX |
+| KEMPLER STRAUSS | KEMPLER TV | KEMPLER_TV | KEMPLER_TV |
 | KEMPLER STRAUSS | KEMPLER_8_PLUS | KEMPLER_8_PLUS | KEMPLER_8_PLUS |
 | KOOLNEE | K1 | KOOLNEE_K1 | K1 |
 | KOOOK | C600 | GBC_bravo | C600 |
@@ -8382,6 +8384,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG X charge | lv7 | LG-M327 |
 | LGE | LG X charge | mlv7 | LG-M320 |
 | LGE | LG X charge | mlv7 | LM-X510(FG) |
+| LGE | LG X charge | mlv7 | LM-X510.FG |
 | LGE | LG X max | mk6m | LG-K240 |
 | LGE | LG X power | k6p | LG-K210 |
 | LGE | LG X power | k6p | LG-K212 |
@@ -13444,6 +13447,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J7 Neo | j7velte | SM-J701F |
 | Samsung | Galaxy J7 Neo | j7velte | SM-J701M |
 | Samsung | Galaxy J7 Neo | j7velte | SM-J701MT |
+| Samsung | Galaxy J7 Neo2 | j7toplteskt | SM-J737S |
 | Samsung | Galaxy J7 Pop | j7popelteaio | SAMSUNG-SM-J727AZ |
 | Samsung | Galaxy J7 Pop | j7popelteatt | SAMSUNG-SM-J727A |
 | Samsung | Galaxy J7 Pop | j7popeltetfntmo | SM-S737TL |
@@ -16971,6 +16975,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | Pouvoir 2 | TECNO-LA7 | TECNO LA7 |
 | Tecno | R6 | TECNO-R6 | TECNO R6 |
 | Tecno | R6 | TECNO-R6 | TECNO R6S |
+| Tecno | RA6 | TECNO-RA6 | TECNO RA6S |
 | Tecno | S1 | TECNO-S1 | TECNO S1 |
 | Tecno | S1 | TECNO-S1 | TECNO S1M |
 | Tecno | S1 Pro | TECNO-S1-Pro | TECNO S1 Pro |
@@ -17791,6 +17796,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | We (BD) | L7 | L7 | L7 |
 | We (BD) | T1 | WE_T1 | T1 |
 | We (BD) | WE B3 | WE_B3 | WE B3 |
+| We (BD) | WE V4 | WE_V4 | WE V4 |
 | WeTek | Play | Play | Play |
 | WeTek | WeTek | wh220 | Air |
 | Weimei | WEIMEI NEON2 | WEIMEI_NEON2 | WEIMEI_NEON2 |
