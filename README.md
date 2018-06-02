@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 01.06.2018
+Last sync is 02.06.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1912,6 +1912,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Camelus | L7 | TR-7U | L7 |
 | Camfone | CamPad P7 | CamPad_P7 | CamPad_P7 |
 | Camfone | Hero H7 Plus | Hero_H7_Plus | Hero_H7_Plus |
+| Camfone | Hero H9 | Hero_H9 | Hero_H9 |
 | Camfone | Hero X | Hero_X | Hero X |
 | Camfone | Hero_SX | Hero_SX | Hero SX |
 | Canal Digital | OnePlace | canal_sat_bcm | S70CDS |
@@ -2583,6 +2584,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Danew | Dslide1016 | Dslide1016 | Dslide1016 |
 | Danew | Dslide714 | Dslide714 | Dslide714 |
 | Danew | Dslide971DC | Dslide971DC | Dslide971DC |
+| Danew | Konnect 402 | Konnect402 | Konnect402 |
 | Danew | Konnect 504 | Konnect_504 | Konnect_504 |
 | Danew | Konnect 510 colors | Konnect_510 | Konnect_510_colors |
 | Danew | Konnect 560 Cin\xc3\xa9pix | Konnect_560 | Konnect_560 |
@@ -4278,6 +4280,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | HTC | HTC U11 EYEs | htc_haydtwl | HTC 2Q4R300 |
 | HTC | HTC U11 EYEs | htc_haydtwl | HTC 2Q4R400 |
 | HTC | HTC U11 EYEs | htc_haydugl | HTC 2Q4R1 |
+| HTC | HTC U11 EYEs | htc_haydugl | HTC 2Q4R100 |
 | HTC | HTC U11 EYEs | htc_haydugl | HTC U11 EYEs |
 | HTC | HTC U11 life | htc_ocla1_sprout | HTC U11 life |
 | HTC | HTC U11 life | htc_oclul | HTC U11 Life |
@@ -6501,6 +6504,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | honor 6C Pro | HWJMM | JMM-L22 |
 | Huawei | honor 6x | HWBLN-H | BLN-L21 |
 | Huawei | honor 6x | HWBLN-H | BLN-L22 |
+| Huawei | huawei nova 2 | HWPIC | HWV31 |
 | Huawei | hw204HW | hw204HW | 204HW |
 | Huawei | m881 | hwm881 | HUAWEI M881 |
 | Huawei | nova | HWCAN | HUAWEI CAN-L01 |
@@ -9760,6 +9764,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | MAZE | Alpha_X | Alpha_X | Alpha_X |
 | MAZE | Comet | Comet | Comet |
 | MDC Store | Grand | Grand | Grand |
+| MDC Store | MDC GrandPro | MDC_Grand_Pro | Grand Pro |
+| MDC Store | Nova | Nova | Nova |
 | MDC Store | Optima | Optima | Optima |
 | MDC Store | Prime_S | Prime_S | Prime_S |
 | MG Series | Any 302 | TR10CS2_3 | TR10CS2 |
@@ -14898,6 +14904,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp | AQUOS R compact 701SH | SG701SH | 701SH |
 | Sharp | AQUOS R compact SH-M06 | SH-M06 | SH-M06 |
 | Sharp | AQUOS R compact SHV41 | JWT | SHV41 |
+| Sharp | AQUOS R2 | SG706SH | 706SH |
+| Sharp | AQUOS R2 SH-03K | SH-03K | SH-03K |
+| Sharp | AQUOS R2 SHV42 | LYV | SHV42 |
 | Sharp | AQUOS SERIE SHL25 | SHL25 | SHL25 |
 | Sharp | AQUOS SERIE SHV32 | SHV32 | SHV32 |
 | Sharp | AQUOS SERIE SHV34 | SHV34 | SHV34 |
@@ -17017,6 +17026,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | S1E Pro | TECNO-S1-Pro | TECNO S1E Pro |
 | Tecno | S6 | TECNO-S6S | TECNO S6 |
 | Tecno | S6S | TECNO-S6S | TECNO S6S |
+| Tecno | SA1 Pro | TECNO-SA1S-PRO | TECNO SA1S Pro |
 | Tecno | SA6 | TECNO-SA6 | TECNO SA6 |
 | Tecno | SA6 | TECNO-SA6 | TECNO SA6S |
 | Tecno | SPARK | TECNO-K7 | TECNO K7 |
@@ -17374,6 +17384,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vertex | EO | EO | EO |
 | Vertex | ET | ET | ET |
 | Vertex | Impress Action | Impress_Action | Impress_Action |
+| Vertex | Impress Click (3G) | IMPRESS_CLICK | IMPRESS CLICK |
 | Vertex | Impress Dune | Impress_Dune | Impress_Dune |
 | Vertex | Impress Eagle | Impress_Eagle | Impress_Eagle |
 | Vertex | Impress Fortune | Impress_Fortune | Impress_Fortune |
@@ -17384,6 +17395,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vertex | Impress Lion (4G) | Impress_Lion_4G | Impress_Lion_4G |
 | Vertex | Impress Lotus | Impress_Lotus | Impress_Lotus |
 | Vertex | Impress Luck | Impress_Luck | Impress_Luck |
+| Vertex | Impress Play (4G) | Impress_Play | Impress_Play |
 | Vertex | Impress Ra (4G) | Impress_Ra | Impress_Ra |
 | Vertex | Impress Razor | Impress_Razor | Impress_Razor |
 | Vertex | Impress Saturn | Impress_Saturn | Impress_Saturn |
@@ -17392,6 +17404,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vertex | Impress Tiger | Tiger | Tiger |
 | Vertex | Impress Tor | Impress_Tor | Impress_Tor |
 | Vertex | Impress_Bear | Impress_Bear | Impress_Bear |
+| Vertex | Impress_Disco | Impress_Disco | Impress Disco |
+| Vertex | Impress_Frost | Impress_Frost | Impress_Frost |
 | Vertex | Impress_Lagune | Impress_Lagune | Impress_Lagune |
 | Vertex | Impress_Wolf | Impress_Wolf | Impress_Wolf |
 | Vertex | Lion_Dual | Lion_Dual | Lion_Dual |
@@ -17937,6 +17951,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Wiko | TOMMY2 | V3931AC | TOMMY2 |
 | Wiko | TOMMY2 | V3933AC | TOMMY2 |
 | Wiko | Tommy2 Plus | v3941 | Tommy2 Plus |
+| Wiko | Tommy3 | W_C201 | Tommy3 |
 | Wiko | U FEEL | P6601AE | U FEEL |
 | Wiko | U FEEL | P6609BC | U FEEL |
 | Wiko | U FEEL | P6609BCD | U FEEL |
@@ -17952,6 +17967,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Wiko | VIEW | v12dnlite | View |
 | Wiko | VIEW | v12enlite | View |
 | Wiko | View | v12bnlite | View |
+| Wiko | View Max | W_P200 | View Max |
 | Wiko | View Prime | v12bn | View Prime |
 | Wiko | View XL | v11cnlite | View XL |
 | Wiko | WAX | s8515 | WAX |
@@ -17961,11 +17977,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Wiko | WIM | i9051 | WIM |
 | Wiko | WIM Lite | T6901AC | WIM Lite |
 | Wiko | WIM Lite | p6901 | WIM Lite |
+| Wiko | W_C200SN | W_C200SN | W_C200SN |
 | Wiko | W_C800 | W_C800 | W_C800 |
 | Wiko | W_K300 | W_K300 | W_K300 |
 | Wiko | W_K400 | W_K400 | W_K400 |
 | Wiko | W_K600 | W_K600 | W_K600 |
 | Wiko | W_P130 | W_P130 | W_P130 |
+| Wiko | W_P200 | W_P200 | W_P200 |
+| Wiko | W_P200CM | W_P200CM | View Max |
+| Wiko | W_P200CM | W_P200CM | W_P200CM |
 | Wileyfox | Spark | porridge | Wileyfox Spark |
 | Wileyfox | Spark | porridge | Wileyfox Spark + |
 | Wileyfox | Spark | porridgek3 | Wileyfox Spark X |
@@ -19590,6 +19610,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iBRIT | IBRIT_I7 | i7 | IBRIT_I7 |
 | iBRIT | Speed_Pro_Plus | SF56 | SF56 |
 | iBRIT | iBRIT SpeedX | SpeedX | SpeedX |
+| iBall | iBall | iBall_Slide_Brace_XJ | iBall Slide Brace XJ |
 | iBall | iBall | iBall_Slide_Dazzle_i7 | iBall Slide Dazzle i7 |
 | iBall | iBall Slide Imprint 4G | Imprint_4G | iBall_Slide_Imprint_4G |
 | iBall | iBall Slide Nimble 4GF | Slide_Nimble_4GF | iBall_Slide_Nimble_4GF |
