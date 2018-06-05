@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 04.06.2018
+Last sync is 05.06.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2761,6 +2761,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Docomo | MEDIAS TAB UL N-08D | N-08D | N-08D |
 | Docomo | d-01J | d-01J | d-01J |
 | Docomo | d-01K | d-01K | d-01K |
+| Docomo | d-02K | d-02K | d-02K |
 | Doogee | BL12000 | Selfie | BL12000 |
 | Doogee | BL12000 PRO | t758_dg_a67t_n | BL12000 PRO |
 | Doogee | BL5000 | BL5000 | BL5000 |
@@ -3854,6 +3855,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | HP | 8 | Fir | HP 8 |
 | HP | 8 G2 | maple | HP 8 G2 |
 | HP | Bonsai 10 HD | bonsai10 | HP Slate 10 HD |
+| HP | Chromebook x2 | soraka_cheets | soraka |
 | HP | Chromebook x360 11 G1 EE | snappy_cheets | HP Chromebook x360 11 G1 EE |
 | HP | HP Chromebook 11 G5 / 11-vxxx | setzer_cheets | HP Chromebook 11 G5 / HP Chromebook 11-vxxx |
 | HP | HP Chromebook 13 G1 | chell_cheets | HP Chromebook 13 G1 |
@@ -5910,6 +5912,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | HUAWEI nova 2 Plus | HWBAC | BAC-L21 |
 | Huawei | HUAWEI nova 2 Plus | HWBAC | BAC-L22 |
 | Huawei | HUAWEI nova 2 lite | HWLDN-Q | LDN-LX2 |
+| Huawei | HUAWEI nova lite for Y!mobile | HWPRA-H | 608HW |
 | Huawei | HUWEI MediaPad T3 | HWKobe-Q | KOB-L09 |
 | Huawei | HUWEI MediaPad T3 | HWKobe-Q | KOB-W09 |
 | Huawei | HW-03E | HW-03E | HW-03E |
@@ -11221,10 +11224,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nokia | Nokia 3 | NE1 | TA-1028 |
 | Nokia | Nokia 3 | NE1 | TA-1032 |
 | Nokia | Nokia 3 | NE1 | TA-1038 |
+| Nokia | Nokia 3.1 | ES2N_sprout | Nokia 3.1 |
+| Nokia | Nokia 3.1 | ES2_sprout | Nokia 3.1 |
 | Nokia | Nokia 5 | ND1 | TA-1024 |
 | Nokia | Nokia 5 | ND1 | TA-1027 |
 | Nokia | Nokia 5 | ND1 | TA-1044 |
 | Nokia | Nokia 5 | ND1 | TA-1053 |
+| Nokia | Nokia 5.1 | CO2_sprout | Nokia 5.1 |
 | Nokia | Nokia 6 | D1C | TA-1000 |
 | Nokia | Nokia 6 | D1C | TA-1003 |
 | Nokia | Nokia 6 | PL2 | TA-1054 |
