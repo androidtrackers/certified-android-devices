@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 05.06.2018
+Last sync is 06.06.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4272,6 +4272,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | HTC | G1 | dream | HTC Dream |
 | HTC | G2 | vision | HTC Vision |
 | HTC | G2 | vision | T-Mobile G2 |
+| HTC | HTC 10 evo | htc_acawhl | HTC 10 evo |
 | HTC | HTC Desire 610 | htc_a3ul | HTC Desire 610 |
 | HTC | HTC Desire 628 dual sim | htc_v36bml_dugl | HTC 2PVG2 |
 | HTC | HTC Desire 628 dual sim | htc_v36bml_dugl | HTC Desire 628 dual sim |
@@ -6607,6 +6608,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | \xe8\x8d\xa3\xe8\x80\x808\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88 | HWPRA-H | PRA-AL00 |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x808\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88 | HWPRA-H | PRA-AL00X |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x808\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88 | HWPRA-H | PRA-TL10 |
+| Huawei | \xe8\x8d\xa3\xe8\x80\x809i | HWLLD-H2 | LLD-AL20 |
+| Huawei | \xe8\x8d\xa3\xe8\x80\x809i | HWLLD-H2 | LLD-AL30 |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x809\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88 | HWLLD-H | LLD-AL00 |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x809\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88 | HWLLD-H | LLD-AL10 |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x809\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88 | HWLLD-H | LLD-TL10 |
@@ -9621,6 +9624,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Logic Instrument | Fieldbook K80 | lifbk80 | Logic Instrument Fieldbook K80 |
 | Logic Instrument | Logic Instrument Fieldbook KS80 | lifbks80 | Logic Instrument Fieldbook KS80 |
 | Logic Mobility | LOGIC_L5D | LOGIC_L5D | LOGIC_L5D |
+| Logic Mobility | T7_plus | T7_plus | T7_plus |
 | Logic Mobility | UNONU_L55D | UNONU_L55D | UNONU_L55D |
 | Logic Mobility | X4 Plus | X4 | Logic X4 Plus |
 | Logic Mobility | X5A | LOGIC_X5A | LOGIC X5A |
@@ -10877,6 +10881,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Myphone | HAMMER BOLT | Hammer_Bolt | Bolt |
 | Myphone | Hammer AXE M LTE | AXE_M_LTE_OPM | HAMMER_AXE_M_LTE |
 | Myphone | Hammer Blade | Hammer_Blade | Blade |
+| Myphone | Hammer Iron 3 LTE | Hammer_Iron_3_LTE | Hammer_Iron_3_LTE |
 | Myphone | Iron 2 | IRON_2_EN | IRON_2 |
 | Myphone | Iron 2 | IRON_2_OPM | IRON_2 |
 | Myphone | My phone PRIME PLUS | Prime_Plus_EN | Prime_Plus |
@@ -10924,6 +10929,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Myphone | myT3 DTV | myT3_DTV | myT3 DTV |
 | Myphone | myT5 DTV | myT5_DTV | myT5 DTV |
 | Myphone | myX1 | MY807 | MY807 |
+| Myphone | myX8 | myX8 | myX8 |
 | Myphone | neocore_E1R1 | neocore_E1R1 | neocore_E1R1 |
 | Myria | 3G MY8300 | 3G_MY8300 | 3G |
 | Myria | Classic MY8301 | Classic_MY8301 | Classic |
@@ -11290,6 +11296,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nuu | N4L | N4L | N4L |
 | Nuu | N5L | N5L | N5L |
 | Nuu | NUU G3 | N5702L | N5702L |
+| Nuu | NUU M4X_PRO | S5701L | S5701L |
 | Nuu | NUU_A2 | S4001W | S4001W |
 | Nuu | X4 | X4 | X4 |
 | Nuu | X5 | NUU_X5 | NUU_X5 |
@@ -11680,6 +11687,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oukitel | U7 Plus | U7_Plus | U7 Plus |
 | Oukitel | WP5000 | WP5000 | WP5000 |
 | Overmax | Livecore7032 | Livecore7032 | Livecore7032 |
+| OwnMobile | Entel PCS Telecomunicaciones S.A. | OWN_FUN_7 | OWN FUN 7 |
 | OwnMobile | FUN VALUE 4G | FUNVALUE4G | FUN VALUE 4G |
 | OwnMobile | OWN Smart \xc3\x962 | SMART_O2 | SMART_O2 |
 | OwnMobile | OWN_FUN_6 | OWN_FUN_6 | OWN FUN 6 |
@@ -16949,6 +16957,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | C9 | TECNO-C9 | TECNO-C9 |
 | Tecno | C9S | TECNO-C9 | TECNO-C9S |
 | Tecno | CAMON CM | TECNO-CA6 | TECNO CA6 |
+| Tecno | CAMON I Ace | TECNO-IN1 | TECNO IN1 |
 | Tecno | CAMON X | TECNO-CA7 | TECNO CA7 |
 | Tecno | CAMON X Pro | TECNO-CA8 | TECNO CA8 |
 | Tecno | CAMON X Pro | TECNO-CA8 | TECNO CA8S |
@@ -17291,6 +17300,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Turbonet | TN500A1 | TN500A1 | TN500A1 |
 | Turbonet | TN500A2 | TN500A2 | TN500A2 |
 | Turbonet | TurboTab E1 | TN800A1 | TN800A1 |
+| Turbopad | S5 | S5 | S5 |
 | Turbopad | TurboX | TurboX_Ray | TurboX_Ray |
 | Turbopad | Turbopad1016 | Turbopad1016 | Turbopad1016 |
 | Turk Telekom | E4 | 722T | E4 |
@@ -17534,6 +17544,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vgo Tel | Venture V8 | VentureV8 | Venture V8 |
 | Vgo Tel | i Smart | i_Smart | i_Smart |
 | Vida | VIDA - i512 | i512 | VIDA_i512 |
+| Viettel | V8802 | V8802 | V8802 |
 | ViewSonic |  | ViewPad_IR10Q | IR10Q |
 | ViewSonic |  | ViewPad_IR8Q | IR8Q |
 | ViewSonic |  | v350 | ViewSonic-V350 |
@@ -17854,6 +17865,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | We (BD) | L7 | L7 | L7 |
 | We (BD) | T1 | WE_T1 | T1 |
 | We (BD) | WE B3 | WE_B3 | WE B3 |
+| We (BD) | WE R4 | WE_R4 | WE R4 |
 | We (BD) | WE V4 | WE_V4 | WE V4 |
 | WeTek | Play | Play | Play |
 | WeTek | WeTek | wh220 | Air |
