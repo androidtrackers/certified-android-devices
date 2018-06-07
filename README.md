@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 06.06.2018
+Last sync is 07.06.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1664,6 +1664,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blu | Advance_5_2 | A230Q | Advance 5.2 |
 | Blu | Advance_A7 | A210 | Advance A7 |
 | Blu | Advance\xc2\xa0A5\xc2\xa0Plus\xc2\xa0LTE | A0031WW | Advance A5 Plus LTE |
+| Blu | BLU Grand M3 | G0070WW | Grand M3 |
 | Blu | BLU S1 | S0320WW | BLU_S1 |
 | Blu | BLU STUDIO J8 LTE | Studio_J8_LTE | Studio J8 LTE |
 | Blu | BLU_STUDIO_G2 | BLU_STUDIO_G2 | BLU STUDIO G2 |
@@ -1950,6 +1951,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Cat | B15Q | CatB15Q | B15Q |
 | Cat | Cat S31 | CatS31 | S31 |
 | Cat | Cat S41 | CatS41 | S41 |
+| Cat | Cat S61 | CatS61 | S61 |
 | Cat | CatS50c | CatS50c | S50c |
 | Cat | S30 | CatS30 | S30 |
 | Cat | S40 | CatS40 | S40 |
@@ -5984,6 +5986,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | Honor Box voice | HWM311 | M311 |
 | Huawei | Honor Magic | HWNTS | HUAWEI NTS-AL00 |
 | Huawei | Honor Magic | HWNTS | NTS-AL00 |
+| Huawei | Honor Play | HWCOR | COR-AL00 |
+| Huawei | Honor Play | HWCOR | COR-AL10 |
+| Huawei | Honor Play | HWCOR | COR-TL10 |
 | Huawei | Honor V10 | HWBKL | BKL-AL00 |
 | Huawei | Honor V10 | HWBKL | BKL-AL20 |
 | Huawei | Honor V10 | HWBKL | BKL-TL10 |
@@ -6746,7 +6751,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ICL-KME CS OJSC | TR10CD1 | TR10CD1_7 | TR10CD1 |
 | IDEA | i4901 | i4901 | i4901 |
 | IMO(In My Opinion) | IMO Q | IMO_Q | IMO Q |
-| INOI | INOI_6_LITE | INOI_6_Lite | INOI_6_Lite |
 | INQ Mobile |  | camden | Camden |
 | INQ Mobile |  | camden | INQ Cloud Touch |
 | INQ Mobile |  | camden | INQ Cloud Touch -parrot |
@@ -6830,6 +6834,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Infinix | S2 | Infinix-X522 | Infinix S2 |
 | Infinix | S2 | Infinix-X522 | Infinix S2 Pro |
 | Infinix | SURF 2 | INFINIX_X511 | Infinix X511 |
+| Infinix | Smart 2 | Infinix-X5515 | Infinix X5515 |
+| Infinix | Smart 2 | Infinix-X5515F | Infinix X5515F |
+| Infinix | Smart 2 Pro | Infinix-X5514 | Infinix X5514D |
 | Infinix | X405 | up09_infinix_x405_gms | Infinix X405 |
 | Infinix | X505 | X505 | Infinix X505 |
 | Infinix | X521 | Infinix-X521 | Infinix HOT S |
@@ -10790,6 +10797,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Motorola | moto g(6) plus | evert_nt | moto g(6) plus |
 | Motorola | moto g6 play | jeter | Moto G Play |
 | Motorola | moto g6 play | jeter | moto g(6) play |
+| Motorola | moto z3 play | beckham | Moto Z3 Play |
 | Motorola Solutions | LEX F10 | LEXF10 | LEX F10 |
 | Motorola Solutions | LEX L10g | lexl10g | LEX L10g |
 | Motorola Solutions | LEX L10ig | lexl10ig | LEX L10ig |
@@ -10888,6 +10896,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Myphone | NB106M | NB106M | NB106M |
 | Myphone | NB754 | NB754 | NB754 |
 | Myphone | NB961 | NB961 | NB961 |
+| Myphone | Pocket 18X9 | myPhone_Pocket_18x9 | myPhone_Pocket_18x9 |
 | Myphone | Pocket18X9 LTE | Pocket_18x9_LTE | Pocket_18x9_LTE |
 | Myphone | Prime 18x9 | Prime_18x9 | Prime_18x9 |
 | Myphone | Q-Smart_III | myPhone_Q-Smart_III | myPhone_Q-Smart_III |
@@ -17865,6 +17874,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | We (BD) | L7 | L7 | L7 |
 | We (BD) | T1 | WE_T1 | T1 |
 | We (BD) | WE B3 | WE_B3 | WE B3 |
+| We (BD) | WE L9 | WE_L9 | WE L9 |
 | We (BD) | WE R4 | WE_R4 | WE R4 |
 | We (BD) | WE V4 | WE_V4 | WE V4 |
 | WeTek | Play | Play | Play |
@@ -19594,6 +19604,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | bq | Aquaris Vs Plus | raditz_s | Aquaris VS Plus |
 | bq | Aquaris X | bardock | Aquaris X |
 | bq | Aquaris X Pro | bardock-pro | Aquaris X Pro |
+| bq | Aquaris X2 | zangya_sprout | Aquaris X2 |
 | bq | Aquaris X5 | Aquaris_X5 | Aquaris X5 |
 | bq | Aquaris X5 Plus | Aquaris_X5_Plus | Aquaris X5 Plus |
 | bq | BQ-5515L | BQru-5515L | BQ-5515L |
