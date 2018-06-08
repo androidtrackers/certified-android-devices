@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 07.06.2018
+Last sync is 08.06.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3779,6 +3779,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Google | Chromebook | coral_cheets | coral |
 | Google | Chromebook | edgar_cheets | Chromebook 14 (CB3-431) |
 | Google | Chromebook | hana_cheets | Lenovo N23 Yoga/Flex 11 Chromebook |
+| Google | Chromebook | hana_cheets | Mediatek MTK8173 Chromebook |
 | Google | Chromebook | jerry_cheets | RK3288 Chrome OS Device |
 | Google | Chromebook | jerry_cheets | Rockchip RK3288 Chromebook |
 | Google | Chromebook | mighty_cheets | RK3288 Chrome OS Device |
@@ -6836,6 +6837,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Infinix | SURF 2 | INFINIX_X511 | Infinix X511 |
 | Infinix | Smart 2 | Infinix-X5515 | Infinix X5515 |
 | Infinix | Smart 2 | Infinix-X5515F | Infinix X5515F |
+| Infinix | Smart 2 | Infinix-X5515I | Infinix X5515I |
 | Infinix | Smart 2 Pro | Infinix-X5514 | Infinix X5514D |
 | Infinix | X405 | up09_infinix_x405_gms | Infinix X405 |
 | Infinix | X505 | X505 | Infinix X505 |
@@ -7169,6 +7171,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Itel | P11 | itel_P11 | itel P11 |
 | Itel | P12 | itel_P12 | itel P12 |
 | Itel | P31 | itel-P31 | itel P31 |
+| Itel | P32 | itel-P32 | itel P32 |
 | Itel | P41 | itel_P41 | itel P41 |
 | Itel | P51 | P51 | itel P51 |
 | Itel | Prime 4 | itel_Prime4 | itel Prime 4 |
@@ -8473,6 +8476,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LML413DL | cv3 | LM-X410.F |
 | LGE | LML413DL | cv3 | LM-X410.FGN |
 | LGE | LML413DL | cv3 | LML413DL |
+| LGE | LML413DL | cv3 | LML414DL |
 | LGE | Marquee | L-07C | L-07C |
 | LGE | Marquee | LG855 | LG-LG855 |
 | LGE | Marquee | LS855 | LG-LS855 |
@@ -8669,6 +8673,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | Q8 | anna | LG-H970 |
 | LGE | Q8 | anna | LGM-X800K |
 | LGE | Q8 | anna | LGM-X800L |
+| LGE | QStylus Plus | mcv7a | LM-Q710.FG |
 | LGE | QStylus Plus | mcv7a | LM-Q710.FGN |
 | LGE | Qua phone PX | JSG | LGV33 |
 | LGE | Qua tab PX | b3 | LGT31 |
@@ -8793,6 +8798,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lanix | ILIUM PAD I8 | Ilium_Padi8v3 | ilium PAD i8 v3 |
 | Lanix | ILIUM S670 | Ilium_S670 | ILIUM S670 |
 | Lanix | ILIUM X110 | ILIUM_X110 | ILIUM X110 |
+| Lanix | Ilium Alpha 3 | Ilium_Alpha_3 | Ilium Alpha 3 |
 | Lanix | Ilium L1050 | Ilium_L1050 | Ilium L1050 |
 | Lanix | Ilium L1100 | ILIUM_L1100 | ILIUM L1100 |
 | Lanix | Ilium L1120 | Ilium_L1120 | Ilium L1120 |
@@ -8809,7 +8815,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lanix | Ilium LT520 | Ilium_LT520 | Ilium LT520 |
 | Lanix | Ilium M1 | Ilium_M1 | Ilium M1 |
 | Lanix | Ilium M3 | Ilium_M3 | Ilium M3 |
+| Lanix | Ilium M5 | Ilium_M5 | Ilium M5 |
 | Lanix | Ilium M7 | Ilium_M7 | Ilium M7 |
+| Lanix | Ilium M9 | Ilium_M9 | Ilium M9 |
 | Lanix | Ilium PAD i7 | ILIUM_PADi7 | Ilium PAD i7 |
 | Lanix | Ilium PAD i7 v2 | ILIUM_PADi7V2 | Ilium PAD i7 v2 |
 | Lanix | Ilium Pad L8X | Ilium_Pad_L8X | Ilium Pad L8X |
@@ -9928,6 +9936,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Medion | LIFETAB E10320 | LIFETAB_E10320 | LIFETAB_E10320 |
 | Medion | LIFETAB E10320 | LIFETAB_E10320 | MICROSTAR_E10319 |
 | Medion | LIFETAB E1041X | E1041X | E1041X |
+| Medion | LIFETAB E1060X | E1060X | E1060X |
 | Medion | LIFETAB E723X | LIFETAB_E723X | LIFETAB_E723X |
 | Medion | LIFETAB E7313 | LIFETAB_E7313 | LIFETAB_E7313 |
 | Medion | LIFETAB E7316 | LIFETAB_E7316 | LIFETAB_E7316 |
@@ -10012,6 +10021,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Memorex | MTAB-08530A | MTAB-08530A | MTAB-08530A |
 | Memorex | MTAB-09541AB | MTAB-09541AB | MTAB-09541AB |
 | Mgt electric | Lumyai | Lumyai | Lumyai |
+| Mgt electric | M2 | M2 | M2 |
 | Mgt electric | MGT_T4 | T4 | T4 |
 | Mgt electric | Super | Super | Super |
 | Micromax | A110 | s9081 | Micromax A110 |
@@ -10600,6 +10610,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Motorola | Moto E (5) | nora_8917 | Moto E |
 | Motorola | Moto E (5) | nora_8917 | moto e5 |
 | Motorola | Moto E (5) | nora_8917_n | Moto E |
+| Motorola | Moto E (5) | nora_8917_n | moto e5 |
 | Motorola | Moto E with 4G LTE (2nd Gen) | surnia_cdma | MotoE2 |
 | Motorola | Moto E with 4G LTE (2nd Gen) | surnia_cdma | MotoE2(4G-LTE) |
 | Motorola | Moto E with 4G LTE (2nd Gen) | surnia_cdma | XT1526 |
@@ -15107,6 +15118,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp | SoftBank AQUOS PHONE Xx 203SH | SBM203SH | SBM203SH |
 | Sharp | Star Wars mobile | SW001SH | SW001SH |
 | Sharp | X1 | nasa_sprout | X1 |
+| Sharp | X4 | vespa_sprout | X4-SH |
 | Sharp | XLED-xxSU580A, XLED-xxZQ580A, XLED-xxMY5200A, XLED-xxTX5200A | lcd_xxcae5a_e | LCD-xxCAE5A-E |
 | Sharp | Yahoo! Phone SoftBank 009SH Y | SBM009SHY | SBM009SHY |
 | Sharp | Z2 | TSP | FS8002 |
@@ -15171,6 +15183,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Skyworth | Asia | globe_ap | globe |
 | Skyworth | Europe | globe_eu | globe |
 | Skyworth | North America | globe_na | globe |
+| Skyworth | Skyworth | grape | HPA02 |
 | Skyworth | South America | globe_sa | globe |
 | Smailo | Smailo 2GO | Smailo_2GO | Smailo_2GO |
 | Smart | Advance Pro | Advance_Pro | Advance Pro |
