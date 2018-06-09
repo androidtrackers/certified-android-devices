@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 08.06.2018
+Last sync is 09.06.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7226,6 +7226,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Itel | itel A40 | itel-A40 | itel A40 |
 | Itel | itel A41 | itel_A41 | itel A41 |
 | Itel | itel A42 Plus | itel-A42Plus | itel A42 Plus |
+| Itel | itel A45 | itel-A45 | itel A45 |
 | Itel | itel P41 | itel_P41 | itel P41 |
 | Itel | itel Prime 4 | itel_Prime4 | itel Prime 4 |
 | Itel | itel S12 | itel-S12 | itel S12 |
@@ -8474,6 +8475,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LGL22 | g2 | LGL22 |
 | LGE | LML413DL | cv3 | LM-X410(FG) |
 | LGE | LML413DL | cv3 | LM-X410.F |
+| LGE | LML413DL | cv3 | LM-X410.FG |
 | LGE | LML413DL | cv3 | LM-X410.FGN |
 | LGE | LML413DL | cv3 | LML413DL |
 | LGE | LML413DL | cv3 | LML414DL |
@@ -9834,6 +9836,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Majestic | TAB 611 3G | TAB_611_3G | TAB 611 3G |
 | Majestic | TAB_711_4G | TAB_711_4G | TAB 711 4G |
 | Making Life Simple | Brace | iQM801 | iQM801 |
+| Making Life Simple | MLS Novel 3G | iQ181011N | iQ181011N |
 | Making Life Simple | MLS iQ1452aN | iQ1452aN | iQ1452aN |
 | Making Life Simple | Stage | iQM1001 | iQM1001 |
 | Making Life Simple | iQ1012N | iQ1012N | iQ1012N |
@@ -15440,6 +15443,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sony | Xperia XZ2 | SOV37 | SOV37 |
 | Sony | Xperia XZ2 Compact | H8314 | H8314 |
 | Sony | Xperia XZ2 Compact | H8324 | H8324 |
+| Sony | Xperia XZ2 Compact | SO-05K | SO-05K |
 | Sony | Xperia XZs | 602SO | 602SO |
 | Sony | Xperia XZs | G8231 | G8231 |
 | Sony | Xperia XZs | G8232 | G8232 |
