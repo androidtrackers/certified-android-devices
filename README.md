@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 10.06.2018
+Last sync is 11.06.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8857,6 +8857,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lark | PHABLET 7 | PHABLET7 | PHABLET 7 |
 | Lark | Ultimate X4 10.1 3G IPS | UltimateX41013GIPS | Ultimate X4 10.1 3G IPS |
 | Lark | Ultimate X4 8s 3G | UltimateX48s3G | Ultimate X4 8s 3G |
+| Laser | MID-1090IPS | MID-1090IPS | MID-1090IPS |
 | Laser | MID-787 | MID-787 | MID-787 |
 | Lava | A1 | LAVAA1 | LAVAA1 |
 | Lava | A3 | LAVA_A3 | LAVA_A3 |
