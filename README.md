@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 11.06.2018
+Last sync is 12.06.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1583,6 +1583,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Bittium | Mx Smart | adakite_sm | Mx Smart |
 | Bittium | Tough Mobile | granite | Bittium Tough Mobile |
 | BlackBerry | Aurora | bbc100 | BBC100-1 |
+| BlackBerry | BlackBerry KEY2 | bbf100 | BBF100-1 |
+| BlackBerry | BlackBerry KEY2 | bbf100 | BBF100-2 |
+| BlackBerry | BlackBerry KEY2 | bbf100 | BBF100-4 |
+| BlackBerry | BlackBerry KEY2 | bbf100 | BBF100-6 |
 | BlackBerry | BlackBerry KEYone | bbb100 | BBB100-7 |
 | BlackBerry | BlackBerry MOTION | bbd100 | BBD100-1 |
 | BlackBerry | BlackBerry MOTION | bbd100 | BBD100-2 |
@@ -7155,15 +7159,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Itel | A13 | itel_A13 | itel A13 |
 | Itel | A13 Plus | itel-A13Plus | itel A13Plus |
 | Itel | A15 | itel-A15 | itel A15 |
-| Itel | A20 | itel-A20 | itel A20 |
 | Itel | A21 | itel_A21 | itel A21 |
-| Itel | A31 | itel_A31 | itel A31 |
 | Itel | A31 Plus | itel-A31Plus | itel A31Plus |
 | Itel | A32F | itel-A32F | itel A32F |
-| Itel | A40 | itel-A40 | itel A40 |
 | Itel | A41 | itel_A41 | itel A41 |
 | Itel | A41 Plus | itel_A41Plus | itel A41 Plus |
-| Itel | A42 Plus | itel-A42Plus | itel A42 Plus |
 | Itel | A43 | itel-A43 | itel A43 |
 | Itel | A44 | itel-A44 | itel A44 |
 | Itel | A44 Pro | itel-A44-Pro | itel A44 Pro |
@@ -7172,20 +7172,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Itel | P12 | itel_P12 | itel P12 |
 | Itel | P31 | itel-P31 | itel P31 |
 | Itel | P32 | itel-P32 | itel P32 |
-| Itel | P41 | itel_P41 | itel P41 |
 | Itel | P51 | P51 | itel P51 |
 | Itel | Prime 4 | itel_Prime4 | itel Prime 4 |
-| Itel | Prime II | itel_it1702 | itel it1702 |
-| Itel | Prime III | itel_it1703 | itel it1703 |
 | Itel | S11 | S11 | itel S11 |
 | Itel | S11 Plus | S11Plus | itel S11 Plus |
 | Itel | S11 Plus | S11Plus | itel S11Plus |
 | Itel | S11X | itel-S11X | itel S11X |
-| Itel | S12 | itel-S12 | itel S12 |
 | Itel | S21 | itel-S21 | itel S21 |
 | Itel | S31 | S31 | itel S31 |
 | Itel | S32 | itel-S32 | itel S32 |
-| Itel | S32LTE | itel-S32LTE | itel S32LTE |
 | Itel | S41 | itel_S41 | itel S41 |
 | Itel | S42 | itel-S42 | itel S42 |
 | Itel | it1355 | itel_it1355 | itel it1355 |
@@ -7221,6 +7216,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Itel | it1655S | itel_it1655S | itel it1655S |
 | Itel | it1702 | itel_it1702 | itel it1702 |
 | Itel | it1703 | itel_it1703 | itel it1703 |
+| Itel | itel A11 | itel_A11 | itel A11 |
 | Itel | itel A20 | itel-A20 | itel A20 |
 | Itel | itel A31 | itel_A31 | itel A31 |
 | Itel | itel A40 | itel-A40 | itel A40 |
@@ -10787,6 +10783,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Motorola | moto e(5) play | james | moto e5 play |
 | Motorola | moto e(5) plus | rhannah | Moto E |
 | Motorola | moto e(5) plus | rhannah | moto e5 plus |
+| Motorola | moto e5 | nora_8917_n | moto e5 |
 | Motorola | moto e5 play | rjames_f | Moto E |
 | Motorola | moto e5 play | rjames_f | moto e5 play |
 | Motorola | moto e5 plus | ahannah | Moto E |
@@ -12990,6 +12987,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy A6 Plus | a6plte | SM-A605F |
 | Samsung | Galaxy A6 Plus | a6plte | SM-A605FN |
 | Samsung | Galaxy A6 Plus | a6plte | SM-A605GN |
+| Samsung | Galaxy A6+ | a6plte | SM-A605FN |
 | Samsung | Galaxy A6+ | a6plte | SM-A605G |
 | Samsung | Galaxy A7 | a73g | SM-A700H |
 | Samsung | Galaxy A7 | a7alte | SM-A700F |
@@ -13449,7 +13447,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J3 Pro | j3xproltechn | SM-J3110 |
 | Samsung | Galaxy J3 Pro | j3xproltectc | SM-J3119 |
 | Samsung | Galaxy J3 Pro | j3y17lte | SM-J330G |
-| Samsung | Galaxy J3 Top | j3topeltespr | SM-J337P |
 | Samsung | Galaxy J3 Top | j3toplteatt | SM-J337A |
 | Samsung | Galaxy J3 Top | j3topltetmo | SM-J337T |
 | Samsung | Galaxy J3(2016) | j3ltekx | SM-J320N0 |
@@ -13542,6 +13539,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J7 Prime | on7xelte | SM-G610M |
 | Samsung | Galaxy J7 Prime | on7xelte | SM-G610Y |
 | Samsung | Galaxy J7 Prime | on7xltechn | SM-G6100 |
+| Samsung | Galaxy J7 Prime2 | on7xreflte | SM-G611M |
+| Samsung | Galaxy J7 Prime2 | on7xreflte | SM-G611MT |
 | Samsung | Galaxy J7 Prime2 | on7xreflteins | SM-G611FF |
 | Samsung | Galaxy J7 Pro | j7y17lte | SM-J730G |
 | Samsung | Galaxy J7 Pro | j7y17lte | SM-J730GM |
@@ -13858,8 +13857,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy On7(2016) | on7xeltelgt | SM-G610L |
 | Samsung | Galaxy On7(2016) | on7xelteskt | SM-G610S |
 | Samsung | Galaxy On7(2016) | on7xltechn | SM-G6100 |
-| Samsung | Galaxy On7(2018) | on7xreflte | SM-G611M |
-| Samsung | Galaxy On7(2018) | on7xreflte | SM-G611MT |
 | Samsung | Galaxy On8 | j7xlte | SM-J710FN |
 | Samsung | Galaxy Player | YP-GB70 | YP-GB70 |
 | Samsung | Galaxy Player 3.6 | YP-GS1 | YP-GS1 |
@@ -14447,7 +14444,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A 9.7 | gt5note10wifi | SM-P550 |
 | Samsung | Galaxy Tab A 9.7 | gt5note10wifichn | SM-P550 |
 | Samsung | Galaxy Tab A S 8.0 | gt58ltebmc | SM-T357W |
-| Samsung | Galaxy Tab A2 8.0 | gta2slte | SM-T385 |
 | Samsung | Galaxy Tab A2 8.0 | gta2slte | SM-T385M |
 | Samsung | Galaxy Tab A2 8.0 | gta2sltechn | SM-T385C |
 | Samsung | Galaxy Tab A2 8.0 | gta2swifichn | SM-T380C |
@@ -14977,6 +14973,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp | AQUOS sense lite (SH-M05) | SH-M05 | SH-M05 |
 | Sharp | AQUOS \xe3\x82\xb1\xe3\x83\xbc\xe3\x82\xbf\xe3\x82\xa4 SH-06G | SH-06G | SH-06G |
 | Sharp | Android One S1 | kaleido_sprout | S1 |
+| Sharp | B10 | SH-A01 | SH-A01 |
 | Sharp | BASIO2 SHV36 | SHV36 | SHV36 |
 | Sharp | C1 | MS1 | FS8001 |
 | Sharp | DM009SH | DM009SH | DM009SH |
@@ -15093,7 +15090,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp | SH-03H | SH-03H | SH-03H |
 | Sharp | SH-05E | SH05E | SH-05E |
 | Sharp | SH-06D NERV | SH06DNERV | SH-06DNERV |
-| Sharp | SH-A01 | SH-A01 | SH-A01 |
 | Sharp | SH-H01 | VZJ | SH-H01 |
 | Sharp | SH-M04 | SH-M04 | SH-M04 |
 | Sharp | SH80F | SH80F | SH80F |
@@ -16129,6 +16125,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | 9030G | POP4-10_4G | 9030G |
 | TCT (Alcatel) | 9030Q | POP4-10_4G | 9030Q |
 | TCT (Alcatel) | 9203A | Pixi5-7_3G | 9203A |
+| TCT (Alcatel) | A1 Smart N9 | VFD720 | VFD 720 |
 | TCT (Alcatel) | A3 | mickey6 | 5046A |
 | TCT (Alcatel) | A3 | mickey6 | 5046D |
 | TCT (Alcatel) | A3 | mickey6 | 5046I |
@@ -16992,7 +16989,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | CAMON iSky | TECNO-IN2 | TECNO IN2 |
 | Tecno | COMAN CM | TECNO-CA6 | TECNO CA6S |
 | Tecno | Camon CX | TECNO-CX | TECNO Camon CX |
-| Tecno | Camon CX | TECNO-CX | TECNO Camon CXS |
 | Tecno | Camon CX Air | TECNO-CX-Air | TECNO CX Air |
 | Tecno | Camon CXS | TECNO-CX | TECNO Camon CXS |
 | Tecno | Camon I | TECNO-IN5 | TECNO IN5 |
@@ -17005,7 +17001,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | DroiPad 7C Pro | DP7CPRO | DP7CPRO |
 | Tecno | DroiPad 7D | TECNO-P701 | TECNO P701 |
 | Tecno | DroiPad 7D LTE | TECNO-P702 | TECNO P702A |
-| Tecno | DroiPad 7D LTE | TECNO-P702 | TECNO P702AS |
 | Tecno | DroiPad 7D ProLTE | TECNO-P702 | TECNO P702 |
 | Tecno | DroiPad 7D ProLTE | TECNO-P702 | TECNO P702A |
 | Tecno | DroiPad 8\xe2\x85\xa1 | DP8D | DP8D |
@@ -17022,10 +17017,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | L5 | TECNO-L5 | TECNO-L5 |
 | Tecno | L8 | TECNO-L8 | TECNO-L8 |
 | Tecno | L8 Lite | L8Lite | TECNO L8 Lite |
-| Tecno | L8 Plus | TECNO-L8 | TECNO-L8Plus |
 | Tecno | L8Plus | TECNO-L8 | TECNO-L8Plus |
 | Tecno | L9 | TECNO-L9 | TECNO L9 |
-| Tecno | L9 Plus | TECNO-L9Plus | TECNO L9 Plus |
 | Tecno | L9Plus | TECNO-L9Plus | TECNO L9 Plus |
 | Tecno | M3 | up11_tecno_m3s | TECNO M3S |
 | Tecno | M6S | g335_b1 | TECNO-M6S |
@@ -17059,7 +17052,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | Pouvoir 1 | TECNO-LA6 | TECNO LA6 |
 | Tecno | Pouvoir 2 | TECNO-LA7 | TECNO LA7 |
 | Tecno | R6 | TECNO-R6 | TECNO R6 |
-| Tecno | R6 | TECNO-R6 | TECNO R6S |
 | Tecno | RA6 | TECNO-RA6 | TECNO RA6S |
 | Tecno | S1 | TECNO-S1 | TECNO S1 |
 | Tecno | S1 | TECNO-S1 | TECNO S1M |
@@ -17068,6 +17060,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | S1E Pro | TECNO-S1-Pro | TECNO S1E Pro |
 | Tecno | S6 | TECNO-S6S | TECNO S6 |
 | Tecno | S6S | TECNO-S6S | TECNO S6S |
+| Tecno | S6s | TECNO-S6S | TECNO S6S |
 | Tecno | SA1 Pro | TECNO-SA1S-PRO | TECNO SA1S Pro |
 | Tecno | SA6 | TECNO-SA6 | TECNO SA6 |
 | Tecno | SA6 | TECNO-SA6 | TECNO SA6S |
@@ -17083,7 +17076,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | TECNO P904 | TECNO-P904 | TECNO P904 |
 | Tecno | TECNO R6S | TECNO-R6 | TECNO R6S |
 | Tecno | TECNO S1 Lite | TECNO-S1Lite | TECNO S1 Lite |
-| Tecno | TECNO S6S | TECNO-S6S | TECNO S6S |
 | Tecno | TECNO W5 | TECNO-W5 | TECNO-W5 |
 | Tecno | TECNO WX4 Pro S | TECNO-WX4-Pro | TECNO WX4 Pro S |
 | Tecno | TECNO-Y2 | TECNO-Y2 | TECNO-Y2 |
@@ -17098,7 +17090,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | W5 | TECNO-W5 | TECNO-W5 |
 | Tecno | W5 Lite | W5Lite | TECNO W5 Lite |
 | Tecno | WX3 | TECNO-WX3 | TECNO WX3 |
-| Tecno | WX3 LTE | TECNO-WX3LTE | TECNO WX3LTE |
+| Tecno | WX3 FLTE | TECNO-WX3FLTE | TECNO WX3F LTE |
 | Tecno | WX3F LTE | TECNO-WX3FLTE | TECNO WX3F LTE |
 | Tecno | WX3LTE | TECNO-WX3LTE | TECNO WX3LTE |
 | Tecno | WX3P | TECNO-WX3P | TECNO WX3P |
@@ -17114,7 +17106,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | Y6 | TECNO-Y6 | TECNO-Y6 |
 | Tecno | i3 | TECNO-i3 | TECNO i3 |
 | Tecno | i3 Pro | TECNO-i3-Pro | TECNO i3 Pro |
-| Tecno | i3 Pro | TECNO-i5-Pro | TECNO i5 Pro |
 | Tecno | i3-Pro | TECNO-i3-Pro | TECNO i3 Pro |
 | Tecno | i5 | TECNO-i5 | TECNO i5 |
 | Tecno | i5-Pro | TECNO-i5-Pro | TECNO i5 Pro |
