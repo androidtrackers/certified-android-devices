@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 12.06.2018
+Last sync is 13.06.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2675,6 +2675,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DigiLand | NS-P16AT08 | mid8005 | NS-P16AT08 |
 | DigiLand | NS-P16AT785HD | MID7802RA | NS-P16AT785HD |
 | Digicel | GO Onyx | GO_Onyx | GO Onyx |
+| Digicom | Tribe | Tribe | Digicom Tribe |
 | Digilite | TA70CA1 | TA70CA1 | TA70CA1 |
 | Digilite | TA70CA2 | TA70CA2_1 | TA70CA2 |
 | Digilite | TA70CA3 | TA70CA3_1 | TA70CA3 |
@@ -2922,6 +2923,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Eks Mobility | X4U+ | X4UPlus | X4UPlus |
 | Electroland Ghana | NASCO_Allure | NASCO_Allure | NASCO_Allure |
 | Element | USA & CANADA | Tiger838 | TU43GDX |
+| Elephone | A4 | A4 | A4 |
 | Elephone | Elephone S8 | S8 | S8 |
 | Elephone | P8 3D | P8_3D | P8_3D |
 | Elephone | P8 Max | P8_Max | P8_Max |
@@ -5264,6 +5266,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | VIDAA_TV | Hi3751 | VIDAA_TV |
 | Hisense | VIDAA_TV | Hi3751v551 | VIDAA_TV |
 | Hisense | VIDAA_TV | Hi3751v620 | VIDAA_TV |
+| Hisense | VIDAA_TV | Hi3751v811 | VIDAA_TV |
 | Hisense | VIDAA_TV | MSD6A348 | VIDAA_TV |
 | Hisense | VIDAA_TV | MSD6A648 | VIDAA_TV |
 | Hisense | VIDAA_TV | MSD6A828 | VIDAA_TV |
@@ -8140,6 +8143,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG K8(2018) | cv1 | LM-X210(G) |
 | LGE | LG K8(2018) | cv1 | LM-X212(G) |
 | LGE | LG K8(2018) | cv1 | LML211BL |
+| LGE | LG K8(2018) | cv1 | LML212VL |
 | LGE | LG K8+(2018) | mcv150 | LM-X210 |
 | LGE | LG K9 | cv109 | LM-X210 |
 | LGE | LG L39C | l4ii_cdma | LGL39C |
@@ -8359,6 +8363,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG Stylo 3 Plus | sf340n | LG-M470F |
 | LGE | LG Stylo 3 Plus | sf340n | LG-TP450 |
 | LGE | LG Stylo 3 Plus | sf340n | LGMP450 |
+| LGE | LG Stylo 4 | cv7a | LM-Q710(FGN) |
+| LGE | LG Stylo 4 | cv7a | LM-Q710.FG |
+| LGE | LG Stylo 4 | cv7a | LML713DL |
 | LGE | LG Stylo3 | sf317 | LG-M430 |
 | LGE | LG Stylo3 | sf317 | LGL83BL |
 | LGE | LG Stylo3 | sf317 | LGL84VL |
@@ -8671,6 +8678,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | Q8 | anna | LG-H970 |
 | LGE | Q8 | anna | LGM-X800K |
 | LGE | Q8 | anna | LGM-X800L |
+| LGE | Q8+ | cv7an | LM-Q815L |
+| LGE | Q8+ | cv7an | LM-Q815S |
 | LGE | QStylus Plus | mcv7a | LM-Q710.FG |
 | LGE | QStylus Plus | mcv7a | LM-Q710.FGN |
 | LGE | Qua phone PX | JSG | LGV33 |
@@ -8976,6 +8985,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Leagoo | M9 | M9 | M9 |
 | Leagoo | M9 Pro | M9_Pro | M9 Pro |
 | Leagoo | Power 5 | Power_5 | Power 5 |
+| Leagoo | S9 | S9 | S9 |
 | Leagoo | T5 | T5 | T5 |
 | Leagoo | Z7 | Z7 | Z7 |
 | Lechpol | LIVE 4 KM0438 | LIVE4_KM0438 | LIVE4_KM0438 |
@@ -12528,6 +12538,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Proscan | PLT9650G | PLT9650G | PLT9650G |
 | Proscan | PLT9774G | PLT9774G | PLT9774G |
 | Proscan | PLT9999G | PLT9999G | PLT9999G |
+| Proscan | SLTDVD9220_C | SLTDVD9220-C | SLTDVD9220-C |
 | Protab | PTBPT5QCB7 | PTBPT5QCB7 | PTBPT5QCB7 |
 | QLA | C600 | GBC_bravo | C600 |
 | QMobile | A1 | QMobile_Noir_A1 | Noir A1 |
@@ -12761,6 +12772,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ruio | S4 | RUIO_S4 | RUIO_S4 |
 | S-tell | M555i | M555i | M555i |
 | S-tell | M578 | M578 | M578 |
+| S-tell | M580 | M580 | M580 |
 | S-tell | M655 | M655 | M655 |
 | S-tell | P750i | P750i | P750i |
 | S-tell | P771 | S-TELL | P771 |
@@ -13539,6 +13551,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J7 Prime | on7xelte | SM-G610M |
 | Samsung | Galaxy J7 Prime | on7xelte | SM-G610Y |
 | Samsung | Galaxy J7 Prime | on7xltechn | SM-G6100 |
+| Samsung | Galaxy J7 Prime2 | on7xreflte | SM-G611F |
 | Samsung | Galaxy J7 Prime2 | on7xreflte | SM-G611M |
 | Samsung | Galaxy J7 Prime2 | on7xreflte | SM-G611MT |
 | Samsung | Galaxy J7 Prime2 | on7xreflteins | SM-G611FF |
@@ -13848,7 +13861,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy On7 | o7lte | SM-G600FY |
 | Samsung | Galaxy On7 | o7ltechn | SM-G6000 |
 | Samsung | Galaxy On7 | on7elte | SM-G600F |
-| Samsung | Galaxy On7 Prime | on7xreflte | SM-G611F |
 | Samsung | Galaxy On7 Pro | o7prolte | SM-G600FY |
 | Samsung | Galaxy On7 Refresh | on7xrefltektt | SM-G611K |
 | Samsung | Galaxy On7 Refresh | on7xrefltelgt | SM-G611L |
@@ -15151,6 +15163,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Singtech | Infinity_I_Mix | Infinity_I_Mix | Infinity_I_Mix |
 | Singtech | Q3 | Q3 | Q3 |
 | Singtech | Q7 | Q7 | Q7 |
+| Singtech | S2 Pro | S2_Pro | S2 Pro |
 | Singtech | i-Tab Mini 3 | iTab | i-Tab Mini 3 |
 | Siragon | SP-5000 | SP-5000 | Siragon SP-5000 |
 | Sirin | LABS SOLARIN | solarin | SOLARIN |
@@ -17360,6 +17373,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Umax | VisionBook P55 X2 LTE | VisionBook_P55_X2_LTE | VisionBook P55 X2 LTE |
 | Umax | VisionBook10Q | VB_10Q_Plus | VB_10Q_Plus |
 | Umax | VisionBook_P55_LTE_Pro | VisionBook_P55_LTE_Pro | VisionBook P55 LTE Pro |
+| Umidigi | S2PRO | S2_PRO | S2_PRO |
 | Umix | Lite L | UMIX_LITE_L | UMIX LITE L |
 | Umix | Lite M | UMIX_LITE_M | UMIX LITE M |
 | Umix | Lite XL | UMIX_LITE_XL | UMIX LITE XL |
@@ -18106,6 +18120,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Xiaomi | MI MAX | helium | MI MAX |
 | Xiaomi | MI MAX | hydrogen | MI MAX |
 | Xiaomi | MI MAX 2 | oxygen | MI MAX 2 |
+| Xiaomi | MI MIX 2S | polaris | Mi MIX 2S |
 | Xiaomi | MI NOTE LTE | virgo | MI NOTE LTE |
 | Xiaomi | MI NOTE Pro | leo | MI NOTE Pro |
 | Xiaomi | MI Note 3 | jason | Mi Note 3 |
@@ -18165,6 +18180,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Xiaomi | Redmi Note 5A | ugg | Redmi Y1 |
 | Xiaomi | Redmi Note 5A | ugglite | Redmi Note 5A |
 | Xiaomi | Redmi Pro | omega | Redmi Pro |
+| Xiaomi | Redmi S2 | ysl | Redmi S2 |
 | Xiaomi | TELEBEE | once | MIBOX3 |
 | Xolo | Era 2X 2GB | XE2X | Era 2X |
 | Xolo | Era 2X 3GB | XE2X3GB | Era 2X 3GB |
@@ -19728,6 +19744,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iVOOMi | i1 | i1 | i1 |
 | iVOOMi | i1s | i1s | i1s |
 | iVOOMi | i2 | i2 | i2 |
+| iVOOMi | i2 Lite | i2_Lite | i2_Lite |
 | intelkom | meanIT_C1 | meanIT_C1 | meanIT_C1 |
 | intelkom | meanIT_C2 | meanIT_C2 | meanIT_C2 |
 | mytel | M9501 | M9501 | M9501 |
