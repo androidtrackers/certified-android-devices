@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 13.06.2018
+Last sync is 14.06.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1131,6 +1131,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Asus | ZenFone 5 Lite (ZC600KL) | ASUS_X017D_2 | ASUS_X017DA |
 | Asus | ZenFone 5 Lite (ZC600KL) | ASUS_X017D_2 | ZC600KL |
 | Asus | ZenFone 5 Selfie (ZC600KL) | ASUS_X017D_1 | ASUS_X017D |
+| Asus | ZenFone 5Z (ZS620KL) | ASUS_Z01R_1 | ASUS_Z01RD |
 | Asus | ZenFone 6 | ASUS_T00G | ASUS_T00G |
 | Asus | ZenFone 6 (A600CG) | ASUS_T00G | ASUS_T00G |
 | Asus | ZenFone 6 (A601CG) | ASUS_Z002 | ASUS_Z002 |
@@ -3161,6 +3162,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Figi | FIGI Fone | Fone | Fone |
 | Figi | FIGI Ftwo | Ftwo | Ftwo |
 | Figi | FIGI Gone | Gone | Gone |
+| Figi | Mone | Mone | Mone |
 | Figo | ATRIUM II F55L2 | F55L2 | ATRIUM II F55L2 |
 | Figo | CENTRIC S50G | S50G | CENTRIC S50G |
 | Finggo | FWSP-S1000 | FWSP-S1000-HW | FWSP-S1000 |
@@ -5296,6 +5298,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | lt971 | LT971 | LT971 |
 | Hisense | u972 | HS7731SP | U972 |
 | Hisense | vision2_1 | vision2_1 | vision2_1 |
+| Hiya | 5-0 | 5_0 | 5-0 |
 | Hoffmann | X Max | X-Max | X-Max |
 | Hon Hai Precision Industry Co., Ltd. |  | EP10_wifi | PocketBook A10 |
 | Hon Hai Precision Industry Co., Ltd. |  | EP5A_wifi | PocketBook A7 |
@@ -6759,6 +6762,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ICL-KME CS OJSC | TR10CD1 | TR10CD1_7 | TR10CD1 |
 | IDEA | i4901 | i4901 | i4901 |
 | IMO(In My Opinion) | IMO Q | IMO_Q | IMO Q |
+| INOI | INOI 3 LITE | INOI_3_LITE | INOI_3_LITE |
+| INOI | INOI_2 | INOI_2 | INOI_2 |
+| INOI | INOI_2_LITE | INOI_2_LITE | INOI_2_LITE |
+| INOI | INOI_3_LITE | INOI_3_LITE | INOI_3_LITE |
 | INQ Mobile |  | camden | Camden |
 | INQ Mobile |  | camden | INQ Cloud Touch |
 | INQ Mobile |  | camden | INQ Cloud Touch -parrot |
@@ -7406,6 +7413,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Kiano | Elegance 5.5 Pro | Elegance_5_5_Pro | Elegance_5_5_Pro |
 | Kiano | Slim_Tab_8 | Slim_Tab_8 | Slim_Tab_8 |
 | Kimfly | E1 | E1 | E1 |
+| Kioto | MID1021 | MID1021 | MID1021 |
 | Klipad | 7588AN | tulip-d9003 | 7588AN |
 | Klipad | 7588AN | tulip-d9003 | KL3838 |
 | Klipad | KL300 | KL300 | KL300 |
@@ -9618,6 +9626,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lephone | lephone P1 | lephoneP1 | lephoneP1 |
 | Lephone | lephone W10 | lephone_W10 | lephone_W10 |
 | Lexia Mobile | S1 | S1 | S1 |
+| Lexia Mobile | S2 | S2 | S2 |
 | Lexibook | Fluo | MFC145FR1 | MFC145FR1 |
 | Lexibook | Fluo XL | MFC191FR2 | MFC191FR2 |
 | Lexibook | Fluo XL Premium Edition | MFC510FR1 | MFC510FR1 |
@@ -11253,6 +11262,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Noblex | Go Urban | N503 | N503 |
 | Noblex | NBX-T1014N | TA10CA2 | TA10CA2 |
 | Noblex | NBX-T7014 | E270BSA | NBX-T7014 |
+| Noblex | T7A6INC | T7A6INC | T7A6INC |
 | Noblex | T7A6N | Tablet | T7A6N |
 | Nokia | N1 | Nokia_N1 | N1 |
 | Nokia | Nokia 1 | FRT | Nokia 1 |
@@ -17685,6 +17695,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vivo | Y79A | PD1708 | vivo PD1708 |
 | Vivo | Y79A | PD1708 | vivo Y79A |
 | Vivo | Y937 | PD1503 | vivo Y937 |
+| Vivo | Z1 | PD1730C | vivo Z1 |
 | Vivo | vivo  X21i  A | PD1801 | vivo X21i A |
 | Vivo | vivo  Y85A | PD1730 | vivo Y85A |
 | Vivo | vivo 1611 | 1611 | vivo 1611 |
@@ -18117,6 +18128,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Xiaomi | MI 5X | tiffany | MI 5X |
 | Xiaomi | MI 5s Plus | natrium | MI 5s Plus |
 | Xiaomi | MI 6X | wayne | MI 6X |
+| Xiaomi | MI 8 | dipper | MI 8 |
 | Xiaomi | MI MAX | helium | MI MAX |
 | Xiaomi | MI MAX | hydrogen | MI MAX |
 | Xiaomi | MI MAX 2 | oxygen | MI MAX 2 |
