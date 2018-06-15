@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 14.06.2018
+Last sync is 15.06.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -282,6 +282,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Advan digital | 5060 | ADVAN_5060 | 5060 |
 | Advan digital | 5061 | ADVAN_5061 | 5061 |
 | Advan digital | A8 | ADVAN_A8 | A8 |
+| Advan digital | ADVAN S50 4G | ADVAN_i5G | i5G |
 | Advan digital | E1C | ADVAN_E1C_3G | E1C_3G |
 | Advan digital | E1C NXT | ADVAN_E1C_NXT | S7D |
 | Advan digital | G1 | G1 | G1 |
@@ -1107,6 +1108,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Asus | ZenFone 4 (ZE554KL) | ASUS_Z01KDA | ASUS_Z01KS |
 | Asus | ZenFone 4 (ZE554KL) | ASUS_Z01KD_1 | ASUS_Z01KDA |
 | Asus | ZenFone 4 (ZE554KL) | ASUS_Z01KD_2 | ASUS_Z01KD |
+| Asus | ZenFone 4 (ZE554KL) | ASUS_Z01KD_3 | ASUS_Z01KD |
 | Asus | ZenFone 4 Max (ZC520KL) | ASUS_X00HD_1 | ASUS_X00HD |
 | Asus | ZenFone 4 Max (ZC520KL) | ASUS_X00HD_2 | ASUS_X00HD |
 | Asus | ZenFone 4 Max (ZC520KL) | ASUS_X00HD_4 | ASUS_X00HD |
@@ -1127,17 +1129,19 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Asus | ZenFone 5 (A501CG) | ASUS_T00J1 | ASUS_T00J |
 | Asus | ZenFone 5 (A502CG) | ASUS_T00K | ASUS_T00K |
 | Asus | ZenFone 5 (ZE620KL) | ASUS_X00QD | ASUS_X00QD |
+| Asus | ZenFone 5 (ZE620KL) | ASUS_X00QD | ASUS_X00QSA |
+| Asus | ZenFone 5 (ZE620KL) | ASUS_X00QD | ZE620KL |
 | Asus | ZenFone 5 LTE (A500KL) | ASUS_T00P | ASUS_T00P |
+| Asus | ZenFone 5 Lite (ZC600KL) | ASUS_X017D_1 | ASUS_X017D |
 | Asus | ZenFone 5 Lite (ZC600KL) | ASUS_X017D_2 | ASUS_X017DA |
 | Asus | ZenFone 5 Lite (ZC600KL) | ASUS_X017D_2 | ZC600KL |
-| Asus | ZenFone 5 Selfie (ZC600KL) | ASUS_X017D_1 | ASUS_X017D |
 | Asus | ZenFone 5Z (ZS620KL) | ASUS_Z01R_1 | ASUS_Z01RD |
+| Asus | ZenFone 5Z (ZS620KL) | ASUS_Z01R_1 | ZS620KL |
 | Asus | ZenFone 6 | ASUS_T00G | ASUS_T00G |
 | Asus | ZenFone 6 (A600CG) | ASUS_T00G | ASUS_T00G |
 | Asus | ZenFone 6 (A601CG) | ASUS_Z002 | ASUS_Z002 |
 | Asus | ZenFone AR | ASUS_A002_1 | ASUS_A002A |
 | Asus | ZenFone AR (ZS571KL) | ASUS_A002 | ASUS_A002 |
-| Asus | ZenFone Ares | ASUS_A002_2 | ASUS_A002 |
 | Asus | ZenFone Ares (ZS572KL) | ASUS_A002_2 | ASUS_A002 |
 | Asus | ZenFone C (ZC451CG) | ASUS_Z007 | ASUS_Z007 |
 | Asus | ZenFone Go (ZB450KL) | ASUS_X009D_2 | ASUS_X009DB |
@@ -1155,6 +1159,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Asus | ZenFone Go (ZC451TG) | ASUS_Z00SD | ASUS_Z00SD |
 | Asus | ZenFone Go (ZC500TG) | ASUS_Z00VD | ASUS_Z00VD |
 | Asus | ZenFone Live (ZB501KL) | ASUS_A007 | ASUS_A007 |
+| Asus | ZenFone Live L1 (ZA550KL) | ASUS_X00R_2 | ASUS_X00RD |
+| Asus | ZenFone Live L1 (ZA550KL) | ASUS_X00R_2 | ZA550KL |
 | Asus | ZenFone Live Plus (ZB553KL) | ASUS_X00LD_2 | ASUS_X00LDB |
 | Asus | ZenFone Live Plus (ZB553KL) | ASUS_X00LD_3 | ASUS_X00LDA |
 | Asus | ZenFone Live Plus (ZB553KL) | ASUS_X00LD_3 | ZB553KL |
@@ -1176,6 +1182,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Asus | ZenFone Selfie (ZD551KL) | ASUS_Z00U_1 | ASUS_Z00UD |
 | Asus | ZenFone Selfie (ZD551KL) | ASUS_Z00U_1 | ASUS_Z00UDA |
 | Asus | ZenFone Selfie (ZD551KL) | ASUS_Z00U_2 | ASUS_Z00UD |
+| Asus | ZenFone V | ASUS_A006 | ASUS_A006 |
 | Asus | ZenFone V Live | ASUS_A009 | ASUS_A009 |
 | Asus | ZenFone Zoom (ZX551ML) | Z00X | ASUS_Z00XS |
 | Asus | ZenFone Zoom (ZX551ML) | Z00X | ASUS_Z00XSA |
@@ -1183,9 +1190,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Asus | ZenFone Zoom (ZX551ML) | Z00X_1 | ASUS_Z00XS |
 | Asus | ZenFone Zoom (ZX551ML) | Z00X_1 | ASUS_Z00XSA |
 | Asus | ZenFone Zoom (ZX551ML) | Z00X_2 | ASUS_Z00XS |
-| Asus | ZenFone4 (ZE554KL) | ASUS_Z01KD_3 | ASUS_Z01KD |
-| Asus | ZenFone5 (ZE620KL) | ASUS_X00QD | ASUS_X00QSA |
-| Asus | ZenFone5 (ZE620KL) | ASUS_X00QD | ZE620KL |
 | Asus | ZenPad 10 (Z300C) | P023_1 | P023 |
 | Asus | ZenPad 10 (Z300C) | P023_2 | P023 |
 | Asus | ZenPad 10 (Z300CG) | P021 | P021 |
@@ -1234,11 +1238,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Asus | ZenWatch 3 | swift | ASUS ZenWatch 3 |
 | Asus | Zenbo | ASUS_ZENBO | Zenbo |
 | Asus | Zenbo Qrobot | ASUS_ZENBO | Zenbo |
-| Asus | Zenfone 4V (V520KL) | ASUS_A006 | ASUS_A006 |
 | Asus | Zenfone Go (ASUS_X00BD) | ASUS_X00BD_1 | ASUS_X00BD |
 | Asus | Zenfone Go (T500) | ASUS_X003 | ASUS_X003 |
-| Asus | Zenfone Live L1 | ASUS_X00R_2 | ASUS_X00RD |
-| Asus | Zenfone Live L1 | ASUS_X00R_2 | ZA550KL |
 | Asus | Zenpad 8.0 (Z380C) | P022_1 | P022 |
 | Asus | Zenpad 8.0 (Z380C) | P022_2 | P022 |
 | Asus | \xe9\xa3\x9b\xe9\xa6\xac (T500KLC) | ASUS_X003 | ASUS_X003 |
@@ -3033,8 +3034,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Eten | ET660 | ETEN | ET660 |
 | Etuline | ETL-S4521 | u939e_2 | ETL-S4521 |
 | Etuline | ETL-S5042 | u970_4 | ETL-S5042 |
+| EuroLeague | DTP9503 | DTP9503 | DTP9503 |
 | EuroLeague | I7a | Euroleague | EuroleaguePhone |
-| EuroLeague | Westem Europe | DTP9503 | DTP9503 |
 | Evercoss | A75 MAX | A75_MAX | A75 MAX |
 | Evercoss | A75B | EVERCOSS_A75B | A75B |
 | Evercoss | AT8B | AT8B | AT8B |
@@ -5926,6 +5927,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | HUAWEI nova 2 Plus | HWBAC | BAC-L21 |
 | Huawei | HUAWEI nova 2 Plus | HWBAC | BAC-L22 |
 | Huawei | HUAWEI nova 2 lite | HWLDN-Q | LDN-LX2 |
+| Huawei | HUAWEI nova lite 2 | HWFIG-H | 704HW |
 | Huawei | HUAWEI nova lite for Y!mobile | HWPRA-H | 608HW |
 | Huawei | HUWEI MediaPad T3 | HWKobe-Q | KOB-L09 |
 | Huawei | HUWEI MediaPad T3 | HWKobe-Q | KOB-W09 |
@@ -8910,6 +8912,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lava | R1 | LAVA_R1 | LAVA_R1 |
 | Lava | R1LITE | R1_Lite | R1_Lite |
 | Lava | R2 | R2 | R2 |
+| Lava | R3 | R3 | R3 |
 | Lava | T71 | T71 | T71 |
 | Lava | V2 3GB | V23GB | V23GB |
 | Lava | V2s | V2s | V2s |
@@ -9650,6 +9653,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LinkNet | SH960C-LN | SH960C-LN | SH960C-LN |
 | LinkNet | ST950I-LN | ST950I-LN | ST950I-LN |
 | LinkNet | Smart Box HD | SH940C-LN | SH940C-LN |
+| LinkNet | X1 Prime | DCN88_72604_LN | DCN88_72604_LN |
 | Listo | WEBPAD1002 | Listo | WEBPAD1002 |
 | Logic Instrument | FieldBook E1 | FieldBook_E1 | FieldBook_E1 |
 | Logic Instrument | Fieldbook F1 | lifbf1 | Logic Instrument Fieldbook F1 |
@@ -13008,9 +13012,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy A6 | a6lte | SM-A600GN |
 | Samsung | Galaxy A6 Plus | a6plte | SM-A605F |
 | Samsung | Galaxy A6 Plus | a6plte | SM-A605FN |
-| Samsung | Galaxy A6 Plus | a6plte | SM-A605GN |
+| Samsung | Galaxy A6 Plus | a6pltechn | SM-A6050 |
 | Samsung | Galaxy A6+ | a6plte | SM-A605FN |
 | Samsung | Galaxy A6+ | a6plte | SM-A605G |
+| Samsung | Galaxy A6+ | a6plte | SM-A605GN |
 | Samsung | Galaxy A7 | a73g | SM-A700H |
 | Samsung | Galaxy A7 | a7alte | SM-A700F |
 | Samsung | Galaxy A7 | a7lte | SM-A700FD |
@@ -13040,6 +13045,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy A8 | a8hplte | SM-A800IZ |
 | Samsung | Galaxy A8 | a8ltechn | SM-A8000 |
 | Samsung | Galaxy A8 | a8ltechn | SM-A800X |
+| Samsung | Galaxy A8 Star | astarqltechn | SM-G8850 |
 | Samsung | Galaxy A8(2016) | a8xelte | SM-A810F |
 | Samsung | Galaxy A8(2016) | a8xelte | SM-A810YZ |
 | Samsung | Galaxy A8(2016) | a8xelteskt | SM-A810S |
@@ -13443,14 +13449,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J2 (2018) | j2y18lte | SM-J250F |
 | Samsung | Galaxy J2 Prime | grandpplte | SM-G532G |
 | Samsung | Galaxy J2 Prime | grandpplte | SM-G532M |
+| Samsung | Galaxy J2 Pro | j2y18lte | SM-J250G |
 | Samsung | Galaxy J2(2016) | j2xlte | SM-J210F |
 | Samsung | Galaxy J2(2016) | j2xlteins | SM-J210F |
 | Samsung | Galaxy J2(2018) | j2y18lte | SM-J250M |
-| Samsung | Galaxy J2(2018) Ph Sepco | j2y18lte | SM-J250G |
 | Samsung | Galaxy J3 | j3ltectc | SM-J3109 |
 | Samsung | Galaxy J3 | j3ltespr | SM-J320P |
 | Samsung | Galaxy J3 | j3popelteue | SM-J327U |
 | Samsung | Galaxy J3 | j3x3g | SM-J320H |
+| Samsung | Galaxy J3 Achieve | j3topeltespr | SM-J337P |
 | Samsung | Galaxy J3 Pop | j3popelteaio | SAMSUNG-SM-J326AZ |
 | Samsung | Galaxy J3 Pop | j3popelteaio | SAMSUNG-SM-J327AZ |
 | Samsung | Galaxy J3 Pop | j3popelteatt | SAMSUNG-SM-J327A |
@@ -13469,6 +13476,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J3 Pro | j3xproltechn | SM-J3110 |
 | Samsung | Galaxy J3 Pro | j3xproltectc | SM-J3119 |
 | Samsung | Galaxy J3 Pro | j3y17lte | SM-J330G |
+| Samsung | Galaxy J3 Top | j3toplteaio | SM-J336AZ |
+| Samsung | Galaxy J3 Top | j3toplteaio | SM-J337AZ |
 | Samsung | Galaxy J3 Top | j3toplteatt | SM-J337A |
 | Samsung | Galaxy J3 Top | j3topltetmo | SM-J337T |
 | Samsung | Galaxy J3(2016) | j3ltekx | SM-J320N0 |
@@ -13533,6 +13542,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J6 | j6lte | SM-J600F |
 | Samsung | Galaxy J6 | j6lte | SM-J600FN |
 | Samsung | Galaxy J6 | j6lte | SM-J600G |
+| Samsung | Galaxy J6 | j6lte | SM-J600GF |
 | Samsung | Galaxy J6 | j6lte | SM-J600GT |
 | Samsung | Galaxy J7 | j75ltektt | SM-J700K |
 | Samsung | Galaxy J7 | j7e3g | SM-J700H |
@@ -14349,6 +14359,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Stellar | jaspervzw | SCH-I200PP |
 | Samsung | Galaxy Stratosphere2 | aegis2vzw | SCH-I415 |
 | Samsung | Galaxy Style Duos | aruba3gduosctc | SCH-I829 |
+| Samsung | Galaxy TAB Active2 | gtactive2lteue | SM-T397U |
 | Samsung | Galaxy TAB3 Lite | goyairis3g | SM-T116IR |
 | Samsung | Galaxy Tab | GT-P1000 | GT-P1000 |
 | Samsung | Galaxy Tab | GT-P1000L | GT-P1000L |
@@ -14414,6 +14425,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab 8.9 | SHV-E140L | SHV-E140L |
 | Samsung | Galaxy Tab 8.9 | SHV-E140S | SHV-E140S |
 | Samsung | Galaxy Tab 8.9 | SHW-M305W | SHW-M305W |
+| Samsung | Galaxy Tab A | gt5note8ltechn | SM-P355C |
+| Samsung | Galaxy Tab A (2016) | gtaxlltechn | SM-T585C |
+| Samsung | Galaxy Tab A (2016) | gtaxlwifichn | SM-T580 |
 | Samsung | Galaxy Tab A (2017) | gta2slte | SM-T385 |
 | Samsung | Galaxy Tab A (2017) | gta2sltektt | SM-T385K |
 | Samsung | Galaxy Tab A (2017) | gta2sltelgt | SM-T385L |
@@ -14423,11 +14437,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A 10.1 | gtaxllte | SM-T585 |
 | Samsung | Galaxy Tab A 10.1 | gtaxllte | SM-T585M |
 | Samsung | Galaxy Tab A 10.1 | gtaxllte | SM-T587 |
-| Samsung | Galaxy Tab A 10.1 | gtaxlltechn | SM-T585C |
 | Samsung | Galaxy Tab A 10.1 | gtaxlltekx | SM-T585N0 |
 | Samsung | Galaxy Tab A 10.1 | gtaxlwifi | SM-T580 |
 | Samsung | Galaxy Tab A 10.1 | gtaxlwifi | SM-T580X |
-| Samsung | Galaxy Tab A 10.1 | gtaxlwifichn | SM-T580 |
 | Samsung | Galaxy Tab A 10.1 | gtaxlwifichn | SM-T580X |
 | Samsung | Galaxy Tab A 10.1(2016) | gtanotexllte | SM-P585 |
 | Samsung | Galaxy Tab A 10.1(2016) | gtanotexllte | SM-P585Y |
@@ -14446,7 +14458,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A 8.0 | gt58wifichn | SM-T350X |
 | Samsung | Galaxy Tab A 8.0 | gt5note8lte | SM-P355 |
 | Samsung | Galaxy Tab A 8.0 | gt5note8lte | SM-P355M |
-| Samsung | Galaxy Tab A 8.0 | gt5note8ltechn | SM-P355C |
 | Samsung | Galaxy Tab A 8.0 | gt5note8ltechn | SM-P355Y |
 | Samsung | Galaxy Tab A 8.0 | gt5note8wifi | SM-P350 |
 | Samsung | Galaxy Tab A 8.0 | gt5note8wifichn | SM-P350 |
@@ -14993,6 +15004,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp | AQUOS sense SHV40 | KXU | SHV40 |
 | Sharp | AQUOS sense basic | SG702SH | 702SH |
 | Sharp | AQUOS sense lite (SH-M05) | SH-M05 | SH-M05 |
+| Sharp | AQUOS sense plus (SH-M07) | SH-M07 | SH-M07 |
 | Sharp | AQUOS \xe3\x82\xb1\xe3\x83\xbc\xe3\x82\xbf\xe3\x82\xa4 SH-06G | SH-06G | SH-06G |
 | Sharp | Android One S1 | kaleido_sprout | S1 |
 | Sharp | B10 | SH-A01 | SH-A01 |
@@ -16843,6 +16855,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | TCL J928 | Prius | TCL J928 |
 | TCT (Alcatel) | TCL J929L | Diablo_LTE | TCL-J929L |
 | TCT (Alcatel) | TCL J938M | RIO55_LTE | TCL J938M |
+| TCT (Alcatel) | TCL LX | U50A_PLUS_TF | A502DL |
 | TCT (Alcatel) | TCL M2M | CROSS2 | TCL M2M |
 | TCT (Alcatel) | TCL M2U | CROSS2 | TCL M2U |
 | TCT (Alcatel) | TCL P301C | Cooper_40 | TCL P301C |
@@ -17905,6 +17918,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Walton | Primo_RM3 | Primo_RM3 | Primo RM3 |
 | Walton | Primo\xc2\xa0S6\xc2\xa0Dual | Primo_S6_Dual | Primo S6 Dual |
 | Wave 8 Red Nougat | WV8R-N | WV8R_N | WV8R_N |
+| We (BD) | F1 | F1 | F1 |
 | We (BD) | L7 | L7 | L7 |
 | We (BD) | T1 | WE_T1 | T1 |
 | We (BD) | WE B3 | WE_B3 | WE B3 |
@@ -19791,5 +19805,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | xTouch | A4 | XTOUCH_A4 | A4 |
 | xTouch | E4 | E4 | E4 |
 | xTouch | X10 | X10 | X10 |
+| xTouch | XBOT_SENIOR | XBot_Senior | XBot_Senior |
 | xTouch | XTOUCH X | XTouch_X | XTouch X |
 | xTouch | XTOUCH X10 | XTOUCH_X10 | XTOUCH X10 |
