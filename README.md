@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 15.06.2018
+Last sync is 16.06.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3171,6 +3171,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | FirstNationalBank | FNB | SP5045V | SP5045V |
 | Flash | Ivory | Ivory | Ivory |
 | Flash | Live | Live | Live |
+| Flnet | BANDOTT Sandwich | ba201 | ba201 |
 | Flnet | BandOTT | ba101 | ba101 |
 | Fluo | F | F | F |
 | Fluo | F Plus | F_Plus | F_Plus |
@@ -5894,6 +5895,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | HUAWEI P smart | HWFIG-H | FIG-LX2 |
 | Huawei | HUAWEI P smart | HWFIG-H | FIG-LX3 |
 | Huawei | HUAWEI P20 Lite | HWANE | ANE-LX2J |
+| Huawei | HUAWEI P20 Lite | HWANE | HWV32 |
 | Huawei | HUAWEI P9 lite mini | HWSLA-Q | SLA-L02 |
 | Huawei | HUAWEI P9 lite mini | HWSLA-Q | SLA-L22 |
 | Huawei | HUAWEI P9 lite mini | HWSLA-Q | SLA-L23 |
@@ -5903,6 +5905,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | HUAWEI Y3 2017 | HWCRO-L6737M | HUAWEI CRO-L22 |
 | Huawei | HUAWEI Y3 2018 | HWCAG-L6737M | CAG-L02 |
 | Huawei | HUAWEI Y3 2018 | HWCAG-L6737M | CAG-L22 |
+| Huawei | HUAWEI Y5 2018 | HWDRA-M | DRA-L01 |
+| Huawei | HUAWEI Y5 2018 | HWDRA-M | DRA-L21 |
+| Huawei | HUAWEI Y5 2018 | HWDRA-M | DRA-LX2 |
+| Huawei | HUAWEI Y5 Prime 2018 | HWDRA-M | DRA-LX2 |
 | Huawei | HUAWEI Y5 lite 2017 | HWCRO-L6737M | CRO-L03 |
 | Huawei | HUAWEI Y5 lite 2017 | HWCRO-L6737M | CRO-L23 |
 | Huawei | HUAWEI Y5 lite 2017 | HWCRO-L6737M | HUAWEI CRO-L03 |
@@ -5966,12 +5972,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | Honor 7A | HWAUM-Q | AUM-L29 |
 | Huawei | Honor 7A | HWAUM-Q | AUM-TL00 |
 | Huawei | Honor 7A | HWAUM-Q | AUM-TL20 |
+| Huawei | Honor 7A | HWDUA-M | DUA-L22 |
 | Huawei | Honor 7C | HWAUM-Q | AUM-L41 |
 | Huawei | Honor 7C | HWLND-Q | LND-AL30 |
 | Huawei | Honor 7C | HWLND-Q | LND-AL40 |
 | Huawei | Honor 7C | HWLND-Q | LND-L29 |
 | Huawei | Honor 7C | HWLND-Q | LND-TL30 |
 | Huawei | Honor 7C | HWLND-Q | LND-TL40 |
+| Huawei | Honor 7S | HWDUA-M | DUA-AL00 |
+| Huawei | Honor 7S | HWDUA-M | DUA-L22 |
+| Huawei | Honor 7S | HWDUA-M | DUA-LX3 |
 | Huawei | Honor 7X | HWBND-H | BND-L21 |
 | Huawei | Honor 7X | HWBND-H | BND-L24 |
 | Huawei | Honor 7X | HWBND-H | BND-L31 |
@@ -11744,6 +11754,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | PC Smart | PCSGOB10SF-A | PCSGOB10SF-A | PCSGOB10SF-A |
 | PC Smart | PTSGOB8 | PTSGOB8 | PC_Smart_PTSGOB8 |
 | PCBOX | Curi_Lite_PCB-T103 | mid1008 | PCB-T103 CURI LITE |
+| PCBOX | Kova-PCB-T730 | Kova-PCB-T730 | Kova-PCB-T730 |
 | PCD Argentina | 610 | 610 | 610 |
 | PCD Argentina | PCD508 | PCD508 | PCD508 |
 | PCD Argentina | PCD509 | PCD509 | PCD509 |
@@ -18143,6 +18154,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Xiaomi | MI 5s Plus | natrium | MI 5s Plus |
 | Xiaomi | MI 6X | wayne | MI 6X |
 | Xiaomi | MI 8 | dipper | MI 8 |
+| Xiaomi | MI 8 SE | sirius | MI 8 SE |
+| Xiaomi | MI 8 SE | sirius | sirius |
 | Xiaomi | MI MAX | helium | MI MAX |
 | Xiaomi | MI MAX | hydrogen | MI MAX |
 | Xiaomi | MI MAX 2 | oxygen | MI MAX 2 |
