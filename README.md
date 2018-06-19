@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 18.06.2018
+Last sync is 19.06.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3248,6 +3248,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Fly | Knockout | Knockout | FS524 |
 | Fly | Life Compact | Life_Compact | Compact |
 | Fly | Life Mega | Life_Mega | Mega |
+| Fly | Life Vista | Life_Vista | Vista |
 | Fly | Memory Plus | Memory_Plus | FS528 |
 | Fly | Nimbus 10 | Nimbus_10 | FS512 |
 | Fly | Nimbus 11 | Nimbus_11 | FS455 |
@@ -12360,6 +12361,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Positivo BGH | BGH Y700 | Y700 | Positivo BGH Y700 |
 | Positivo BGH | BGH Y710 kids | Y700 | Positivo BGH Y710 KIDS |
 | Positivo BGH | M840 | M840 | Positivo BGH M840 |
+| Positivo BGH | P718TAB | P718TAB | Positivo BGH P718TAB |
 | Positivo BGH | Positivo BGH +Simple | C805 | Positivo BGH +Simple |
 | Positivo BGH | W750 | W750 | Positivo BGH W750 |
 | Positivo BGH | Y1000 | Y1000 | Y1000 |
