@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 19.06.2018
+Last sync is 20.06.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -144,6 +144,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Acer | Chromebook 15 CB515-1HT/1H | sand_cheets | sand |
 | Acer | Chromebook R11 (C738T) | cyan_cheets | Acer Chromebook R11 |
 | Acer | Chromebook R11 (C738T) | cyan_cheets | Acer Chromebook R11 (CB5-132T / C738T) |
+| Acer | Chromebook Tab 10 | scarlet_cheets | scarlet |
 | Acer | CloudMobile S500 | a9 | S500 |
 | Acer | DA220HQL | DA220HQL | DA220HQL |
 | Acer | DA221HQL | da1 | DA221HQL |
@@ -1658,6 +1659,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blaupunkt | Blaupunkt SL 02 | Blaupunkt_SL_02 | Blaupunkt SL 02 |
 | Blaupunkt | Blaupunkt SL 04 | Blaupunkt_SL_04 | Blaupunkt SL 04 |
 | Blaupunkt | Blaupunkt SM 01 | Blaupunkt_SM_01 | Blaupunkt SM 01 |
+| Blaupunkt | Discovery_A10_302 | Discovery_A10_302 | Discovery_A10_302 |
 | Blaupunkt | Endeavour101 | Blaupunkt | Endeavour101 |
 | Blaupunkt | SLplus02 | SLplus02 | SLplus02 |
 | Blu | ADVANCE 4.0 L2 | BLU_ADVANCE_4_0_L2 | BLU ADVANCE 4.0 L2 |
@@ -5882,10 +5884,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | HUAWEI MediaPad M3 Lite | HWCPN-Q | CPN-W09 |
 | Huawei | HUAWEI MediaPad M3 Lite 10 wp | HWHDN-H | HDN-L09 |
 | Huawei | HUAWEI MediaPad M3 Lite 10 wp | HWHDN-H | HDN-W09 |
-| Huawei | HUAWEI MediaPad M5 | HWCMR09 | CMR-AL09 |
-| Huawei | HUAWEI MediaPad M5 | HWCMR09 | CMR-W09 |
-| Huawei | HUAWEI MediaPad M5 | HWSHT | SHT-AL09 |
-| Huawei | HUAWEI MediaPad M5 | HWSHT | SHT-W09 |
+| Huawei | HUAWEI MediaPad M5 10.8" | HWCMR09 | CMR-AL09 |
+| Huawei | HUAWEI MediaPad M5 10.8" | HWCMR09 | CMR-W09 |
+| Huawei | HUAWEI MediaPad M5 8.4" | HWSHT | SHT-AL09 |
+| Huawei | HUAWEI MediaPad M5 8.4" | HWSHT | SHT-W09 |
 | Huawei | HUAWEI MediaPad M5 Pro | HWCMR | CMR-AL19 |
 | Huawei | HUAWEI MediaPad M5 Pro | HWCMR | CMR-W19 |
 | Huawei | HUAWEI MediaPad T3 10 | HWAGS-Q | AGS-L03 |
@@ -5909,6 +5911,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | HUAWEI Y5 2018 | HWDRA-M | DRA-L01 |
 | Huawei | HUAWEI Y5 2018 | HWDRA-M | DRA-L21 |
 | Huawei | HUAWEI Y5 2018 | HWDRA-M | DRA-LX2 |
+| Huawei | HUAWEI Y5 2018 | HWDRA-MG | DRA-LX3 |
 | Huawei | HUAWEI Y5 Prime 2018 | HWDRA-M | DRA-LX2 |
 | Huawei | HUAWEI Y5 lite 2017 | HWCRO-L6737M | CRO-L03 |
 | Huawei | HUAWEI Y5 lite 2017 | HWCRO-L6737M | CRO-L23 |
@@ -6800,6 +6803,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | IView | SupraPad i785Q | anchor | i785Q |
 | Ice Phone | Mini | ice_phone_mini | Ice-Phone Mini |
 | Icon | Portal_10i | Portal_10i | NTMC17 |
+| Ikon | IK-7108 | IK-7108 | IK-7108 |
 | IkuMobile | I3 | I3 | IKU i3 |
 | IkuMobile | IKU_i1 | IKU_i1 | i1 |
 | IkuMobile | K2 | IKU_K2 | K2 |
@@ -7842,6 +7846,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | L Fino | l70pds | LG-D295 |
 | LGE | L Fino | l70pn | LG-D290 |
 | LGE | L-01F | g2 | L-01F |
+| LGE | L-03K | L-03K | L-03K |
 | LGE | L20 | luv20ds | LG-D105 |
 | LGE | L20 | luv20ss | LG-D100 |
 | LGE | L20 | luv20ss | LG-D100AR |
@@ -11726,6 +11731,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oukitel | K10000 Mix | K10000_Mix | K10000 Mix |
 | Oukitel | K10000 Pro | K10000_Pro | K10000 Pro |
 | Oukitel | K10000_Max | K10000_Max | K10000 Max |
+| Oukitel | K5 | K5 | K5 |
 | Oukitel | K5000 | K5000 | K5000 |
 | Oukitel | K6 | K6 | K6 |
 | Oukitel | K6000 Plus | K6000_Plus | K6000 Plus |
@@ -13058,6 +13064,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy A8 | a8hplte | SM-A800IZ |
 | Samsung | Galaxy A8 | a8ltechn | SM-A8000 |
 | Samsung | Galaxy A8 | a8ltechn | SM-A800X |
+| Samsung | Galaxy A8 Star | astarqlte | SM-G885F |
+| Samsung | Galaxy A8 Star | astarqlte | SM-G885Y |
 | Samsung | Galaxy A8 Star | astarqltechn | SM-G8850 |
 | Samsung | Galaxy A8(2016) | a8xelte | SM-A810F |
 | Samsung | Galaxy A8(2016) | a8xelte | SM-A810YZ |
@@ -13489,10 +13497,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J3 Pro | j3xproltechn | SM-J3110 |
 | Samsung | Galaxy J3 Pro | j3xproltectc | SM-J3119 |
 | Samsung | Galaxy J3 Pro | j3y17lte | SM-J330G |
+| Samsung | Galaxy J3 Star | j3topltetmo | SM-J337T |
 | Samsung | Galaxy J3 Top | j3toplteaio | SM-J336AZ |
 | Samsung | Galaxy J3 Top | j3toplteaio | SM-J337AZ |
 | Samsung | Galaxy J3 Top | j3toplteatt | SM-J337A |
-| Samsung | Galaxy J3 Top | j3topltetmo | SM-J337T |
 | Samsung | Galaxy J3(2016) | j3ltekx | SM-J320N0 |
 | Samsung | Galaxy J3(2016) | j3ltetfnvzw | SM-S320VL |
 | Samsung | Galaxy J3(2016) | j3ltetw | SM-J320Y |
@@ -13555,7 +13563,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J6 | j6lte | SM-J600F |
 | Samsung | Galaxy J6 | j6lte | SM-J600FN |
 | Samsung | Galaxy J6 | j6lte | SM-J600G |
-| Samsung | Galaxy J6 | j6lte | SM-J600GF |
 | Samsung | Galaxy J6 | j6lte | SM-J600GT |
 | Samsung | Galaxy J7 | j75ltektt | SM-J700K |
 | Samsung | Galaxy J7 | j7e3g | SM-J700H |
@@ -13891,6 +13898,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy On5(2016) | on5xfltechn | SM-G5528 |
 | Samsung | Galaxy On5(2016) | on5xlltechn | SM-G5510 |
 | Samsung | Galaxy On5(2016) | on5xltechn | SM-G5700 |
+| Samsung | Galaxy On6 | j6lte | SM-J600GF |
 | Samsung | Galaxy On7 | o7lte | SM-G600FY |
 | Samsung | Galaxy On7 | o7ltechn | SM-G6000 |
 | Samsung | Galaxy On7 | on7elte | SM-G600F |
@@ -14212,17 +14220,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy S5 K Sport | kltesprsports | SM-G860P |
 | Samsung | Galaxy S5 LTE-A | kccat6 | SM-G901F |
 | Samsung | Galaxy S5 Mini | kmini3g | SM-G800H |
-| Samsung | Galaxy S5 Mini | kminilte | SM-G800F |
-| Samsung | Galaxy S5 Mini | kminilte | SM-G800Y |
 | Samsung | Galaxy S5 Mini | kminilteusc | SM-G800R4 |
 | Samsung | Galaxy S5 Neo | s5neolte | SM-G903F |
 | Samsung | Galaxy S5 Neo | s5neolte | SM-G903M |
 | Samsung | Galaxy S5 Neo | s5neoltecan | SM-G903W |
 | Samsung | Galaxy S5 mini | kmini3g | SM-G800HQ |
+| Samsung | Galaxy S5 mini | kminilte | SM-G800F |
 | Samsung | Galaxy S5 mini | kminilte | SM-G800M |
+| Samsung | Galaxy S5 mini | kminilte | SM-G800Y |
 | Samsung | Galaxy S5 mini | kminilteatt | SAMSUNG-SM-G800A |
 | Samsung | Galaxy S5 mini | kminiwifi | SM-G800X |
-| Samsung | Galaxy S5 mini LTE | kminilte | SM-G800Y |
 | Samsung | Galaxy S6 | SC-05G | SC-05G |
 | Samsung | Galaxy S6 | zeroflte | SM-G920F |
 | Samsung | Galaxy S6 | zeroflte | SM-G920I |
@@ -14372,6 +14379,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Stellar | jaspervzw | SCH-I200PP |
 | Samsung | Galaxy Stratosphere2 | aegis2vzw | SCH-I415 |
 | Samsung | Galaxy Style Duos | aruba3gduosctc | SCH-I829 |
+| Samsung | Galaxy S\xe8\xbd\xbb\xe5\xa5\xa2\xe7\x89\x88 | dreamliteqltechn | SM-G8750 |
 | Samsung | Galaxy TAB Active2 | gtactive2lteue | SM-T397U |
 | Samsung | Galaxy TAB3 Lite | goyairis3g | SM-T116IR |
 | Samsung | Galaxy Tab | GT-P1000 | GT-P1000 |
@@ -14442,6 +14450,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A (2016) | gtaxlltechn | SM-T585C |
 | Samsung | Galaxy Tab A (2016) | gtaxlwifichn | SM-T580 |
 | Samsung | Galaxy Tab A (2017) | gta2slte | SM-T385 |
+| Samsung | Galaxy Tab A (2017) | gta2sltechn | SM-T385C |
 | Samsung | Galaxy Tab A (2017) | gta2sltektt | SM-T385K |
 | Samsung | Galaxy Tab A (2017) | gta2sltelgt | SM-T385L |
 | Samsung | Galaxy Tab A (2017) | gta2slteskt | SM-T385S |
@@ -16925,6 +16934,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | TCL_U980 | TCL_U980 | TCL_U980 |
 | TCT (Alcatel) | TCL_Xess_P17AA | Xess | TCL Xess P17AA |
 | TCT (Alcatel) | TCL_Xess_P17AA_OS | Xess | TCL Xess P17AA |
+| TCT (Alcatel) | TETRA | U50A_ATT | 5041C |
 | TCT (Alcatel) | Telenor_Smart | one_touch_985_gsm | Telenor_Smart |
 | TCT (Alcatel) | Telenor_Smart_Mini | SOUL4 | Telenor Smart Mini |
 | TCT (Alcatel) | U3 | U3_3G | 4049D |
@@ -17736,6 +17746,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vivo | vivo 1726 | 1726 | vivo 1726 |
 | Vivo | vivo 1727 | 1727 | vivo 1727 |
 | Vivo | vivo 1802 | 1802 | vivo 1802 |
+| Vivo | vivo NEX A | PD1806 | vivo NEX A |
 | Vivo | vivo X20 | PD1709 | vivo PD1709 |
 | Vivo | vivo X20 | PD1709 | vivo X20A |
 | Vivo | vivo X20Plus | PD1710 | vivo PD1710 |
