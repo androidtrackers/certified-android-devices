@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 21.06.2018
+Last sync is 22.06.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1165,6 +1165,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Asus | ZenFone Live (ZB501KL) | ASUS_A007 | ASUS_A007 |
 | Asus | ZenFone Live L1 (ZA550KL) | ASUS_X00R_2 | ASUS_X00RD |
 | Asus | ZenFone Live L1 (ZA550KL) | ASUS_X00R_2 | ZA550KL |
+| Asus | ZenFone Live L1 (ZA550KL) | ASUS_X00R_3 | ASUS_X00RD |
+| Asus | ZenFone Live L1 (ZA550KL) | ASUS_X00R_3 | ZA550KL |
 | Asus | ZenFone Live Plus (ZB553KL) | ASUS_X00LD_2 | ASUS_X00LDB |
 | Asus | ZenFone Live Plus (ZB553KL) | ASUS_X00LD_3 | ASUS_X00LDA |
 | Asus | ZenFone Live Plus (ZB553KL) | ASUS_X00LD_3 | ZB553KL |
@@ -2046,6 +2048,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Cherry Mobile | FB100 | FB100 | FB100 |
 | Cherry Mobile | Flare 5 | X630 | Flare_5 |
 | Cherry Mobile | Flare A1 | FlareA1 | FlareA1 |
+| Cherry Mobile | Flare A2 Lite | Flare_A2_Lite | Flare_A2_Lite |
 | Cherry Mobile | Flare A5 | Cherry_X740 | Cherry_X740 |
 | Cherry Mobile | Flare HD 3 | Flare_HD_3 | Flare HD 3 |
 | Cherry Mobile | Flare HD 4 | Flare_HD_4 | Flare_HD_4 |
@@ -2935,6 +2938,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Edcon | Platiunm vp.2 | VerssedVP2 | Verssed VP2 |
 | Edcon | VERSSED platinum vp.2.1 | VERSSEDvp2-1 | VERSSED vp2.1 |
 | Edcon | Verssed Platinum VP3.0 | VERSSED_Vp3 | VERSSED vp3 |
+| Ekotek | Sonata | Sonata | Sonata |
 | Eks Mobility | X4U+ | X4UPlus | X4UPlus |
 | Electroland Ghana | NASCO_Allure | NASCO_Allure | NASCO_Allure |
 | Element | USA & CANADA | Tiger838 | TU43GDX |
@@ -5395,6 +5399,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hotwav | Magic Q8 Plus | Magic_Q8_Plus | Magic Q8 Plus |
 | Hotwav | Magic_5_Plus | Magic_5_Plus | Magic 5 Plus |
 | Hotwav | Symbol M1 | Symbol_M1 | Symbol M1 |
+| Hotwav | Symbol X | Symbol_X | Symbol X |
 | How | 1001-G | 1001-G | 1001-G |
 | How | 705-G | 705-G | 705-G |
 | How | HT-704 | HT704 | HT-704 |
@@ -7101,6 +7106,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Intex | ELYT E7 | INTEX_ELYT_E7 | INTEX ELYT E7 |
 | Intex | Elite E1 | Intex_Elite_E1 | Intex Elite E1 |
 | Intex | INDIE 15 | AQUA_LIONS_X1 | INTEX AQUA LIONS X1 |
+| Intex | INDIE 15 | AQUA_LIONS_X1 | INTEX IM0418ND |
 | Intex | INDIE 5 | INTEX_AQUA_LIONS_3 | INTEX AQUA LIONS 3 |
 | Intex | INTEX  AQUA Lions T1 | AQUA_LIONS_T1 | INTEX AQUA LIONS T1 |
 | Intex | INTEX AQUA AMAZE+ | INTEX_AQUA_AMAZE_PLUS | INTEX AQUA AMAZE+ |
@@ -14043,6 +14049,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy S Vibrant | SGH-T959 | SGH-T959 |
 | Samsung | Galaxy S Vibrant | SGH-T959D | SGH-T959D |
 | Samsung | Galaxy S duos | kyleichn | GT-S7566 |
+| Samsung | Galaxy S \xe8\xbd\xbb\xe5\xa5\xa2\xe7\x89\x88 | dreamliteqltechn | SM-G8750 |
 | Samsung | Galaxy S2 | GT-I9100 | GT-I9100 |
 | Samsung | Galaxy S2 | GT-I9100M | GT-I9100M |
 | Samsung | Galaxy S2 | GT-I9100P | GT-I9100P |
@@ -14351,6 +14358,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy S7 Edge | hero2qlteusc | SM-G935R4 |
 | Samsung | Galaxy S7 Edge | hero2qltevzw | SM-G935V |
 | Samsung | Galaxy S7 edge | hero2lte | SM-G935F |
+| Samsung | Galaxy S7 edge | hero2qltechn | SM-G9350 |
 | Samsung | Galaxy S8 | SC-02J | SC-02J |
 | Samsung | Galaxy S8 | SCV36 | SCV36 |
 | Samsung | Galaxy S8 | dreamlte | SM-G950F |
@@ -14404,7 +14412,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Stellar | jaspervzw | SCH-I200PP |
 | Samsung | Galaxy Stratosphere2 | aegis2vzw | SCH-I415 |
 | Samsung | Galaxy Style Duos | aruba3gduosctc | SCH-I829 |
-| Samsung | Galaxy S\xe8\xbd\xbb\xe5\xa5\xa2\xe7\x89\x88 | dreamliteqltechn | SM-G8750 |
 | Samsung | Galaxy TAB Active2 | gtactive2lteue | SM-T397U |
 | Samsung | Galaxy TAB3 Lite | goyairis3g | SM-T116IR |
 | Samsung | Galaxy Tab | GT-P1000 | GT-P1000 |
@@ -14471,9 +14478,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab 8.9 | SHV-E140L | SHV-E140L |
 | Samsung | Galaxy Tab 8.9 | SHV-E140S | SHV-E140S |
 | Samsung | Galaxy Tab 8.9 | SHW-M305W | SHW-M305W |
+| Samsung | Galaxy Tab A | gt510lte | SM-T555 |
+| Samsung | Galaxy Tab A | gt510wifi | SM-T550 |
+| Samsung | Galaxy Tab A | gt5note10wifi | SM-P550 |
 | Samsung | Galaxy Tab A | gt5note8ltechn | SM-P355C |
+| Samsung | Galaxy Tab A (2016) | gtaxllte | SM-T585 |
 | Samsung | Galaxy Tab A (2016) | gtaxlltechn | SM-T585C |
+| Samsung | Galaxy Tab A (2016) | gtaxlwifi | SM-T580 |
 | Samsung | Galaxy Tab A (2016) | gtaxlwifichn | SM-T580 |
+| Samsung | Galaxy Tab A (2016) with S Pen | gtanotexlwifikx | SM-P580 |
 | Samsung | Galaxy Tab A (2017) | gta2slte | SM-T385 |
 | Samsung | Galaxy Tab A (2017) | gta2sltechn | SM-T385C |
 | Samsung | Galaxy Tab A (2017) | gta2sltektt | SM-T385K |
@@ -14481,11 +14494,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A (2017) | gta2slteskt | SM-T385S |
 | Samsung | Galaxy Tab A (2017) | gta2swifi | SM-T380 |
 | Samsung | Galaxy Tab A 10.1 | gtanotexlwifikx | SM-P580 |
-| Samsung | Galaxy Tab A 10.1 | gtaxllte | SM-T585 |
 | Samsung | Galaxy Tab A 10.1 | gtaxllte | SM-T585M |
 | Samsung | Galaxy Tab A 10.1 | gtaxllte | SM-T587 |
 | Samsung | Galaxy Tab A 10.1 | gtaxlltekx | SM-T585N0 |
-| Samsung | Galaxy Tab A 10.1 | gtaxlwifi | SM-T580 |
 | Samsung | Galaxy Tab A 10.1 | gtaxlwifi | SM-T580X |
 | Samsung | Galaxy Tab A 10.1 | gtaxlwifichn | SM-T580X |
 | Samsung | Galaxy Tab A 10.1(2016) | gtanotexllte | SM-P585 |
@@ -14508,9 +14519,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A 8.0 | gt5note8ltechn | SM-P355Y |
 | Samsung | Galaxy Tab A 8.0 | gt5note8wifi | SM-P350 |
 | Samsung | Galaxy Tab A 8.0 | gt5note8wifichn | SM-P350 |
-| Samsung | Galaxy Tab A 9.7 | gt510lte | SM-T555 |
 | Samsung | Galaxy Tab A 9.7 | gt510ltechn | SM-T555C |
-| Samsung | Galaxy Tab A 9.7 | gt510wifi | SM-T550 |
 | Samsung | Galaxy Tab A 9.7 | gt510wifi | SM-T550X |
 | Samsung | Galaxy Tab A 9.7 | gt510wifichn | SM-T550 |
 | Samsung | Galaxy Tab A 9.7 | gt510wifichn | SM-T550X |
