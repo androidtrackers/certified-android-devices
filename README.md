@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 22.06.2018
+Last sync is 23.06.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -262,6 +262,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Acer | Tab 7 | td070va1 | TD070VA1 |
 | Acer | Z110 | Z1 | Z110 |
 | Acer | Z120 | Z2 | Z120 |
+| Aceson | R726 | R726 | R726 |
 | Adart | ALIGATOR RX510 | RX510 | ALIGATOR RX510 |
 | Adart | ALIGATOR S4080 Duo | ALIGATOR_S4080 | ALIGATOR S4080 |
 | Adart | ALIGATOR S4082 Duo | S4082Duo | S4082 Duo |
@@ -1503,6 +1504,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | BYD | X910 | X910 | XOLO X910 |
 | BYD | Zippers | Zippers | Vexia Zippers |
 | Bang & Olufsen | BeoVision | bno_MT5593Uplus_EU | QM153E |
+| Bangho | Bangho_AERO7 | Bangho_AERO7 | Bangho_AERO7 |
 | Barel | Cavion Solid 4.5 | Cavion_Solid_4_5 | Cavion_Solid_4_5 |
 | Barnes and Noble | HD | hummingbird | BNTV400 |
 | Barnes and Noble | HD+ | ovation | BNTV600 |
@@ -2964,6 +2966,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ematic | EGQ180 | EGQ180 | EGQ180 |
 | Ematic | EGQ223 | EGQ223 | EGQ223 |
 | Ematic | EGQ235SK | EGQ235SK | EGQ235SK |
+| Ematic | EGQ236BD | EGQ236BD | EGQ236BD |
 | Ematic | EGQ307 | EGQ307 | EGQ307 |
 | Ematic | EGQ327M | EGQ327M | EGQ327M |
 | Ematic | EGQ337 | EGQ337 | EGQ337 |
@@ -7450,6 +7453,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Kiano | Slim_Tab_8 | Slim_Tab_8 | Slim_Tab_8 |
 | Kimfly | E1 | E1 | E1 |
 | Kioto | MID1021 | MID1021 | MID1021 |
+| Kioto | MID1028 | MID1028 | MID1028 |
 | Klipad | 7588AN | tulip-d9003 | 7588AN |
 | Klipad | 7588AN | tulip-d9003 | KL3838 |
 | Klipad | KL300 | KL300 | KL300 |
@@ -14303,7 +14307,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy S6 Edge | zeroltetmo | SM-G925T |
 | Samsung | Galaxy S6 Edge | zerolteusc | SM-G925R4 |
 | Samsung | Galaxy S6 Edge | zeroltevzw | SM-G925V |
-| Samsung | Galaxy S6 Edge+ | zenlte | SM-G9287 |
 | Samsung | Galaxy S6 Edge+ | zenlte | SM-G9287C |
 | Samsung | Galaxy S6 Edge+ | zenlte | SM-G928C |
 | Samsung | Galaxy S6 Edge+ | zenlte | SM-G928F |
@@ -14321,6 +14324,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy S6 Edge+ | zenltetmo | SM-G928T |
 | Samsung | Galaxy S6 Edge+ | zenlteusc | SM-G928R4 |
 | Samsung | Galaxy S6 Edge+ | zenltevzw | SM-G928V |
+| Samsung | Galaxy S6 edge+ | zenlte | SM-G9287 |
 | Samsung | Galaxy S7 | herolte | SM-G930F |
 | Samsung | Galaxy S7 | herolte | SM-G930X |
 | Samsung | Galaxy S7 | heroltebmc | SM-G930W8 |
@@ -14347,17 +14351,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy S7 Edge | hero2lte | SM-G935X |
 | Samsung | Galaxy S7 Edge | hero2ltebmc | SM-G935W8 |
 | Samsung | Galaxy S7 Edge | hero2ltektt | SM-G935K |
-| Samsung | Galaxy S7 Edge | hero2ltelgt | SM-G935L |
 | Samsung | Galaxy S7 Edge | hero2lteskt | SM-G935S |
 | Samsung | Galaxy S7 Edge | hero2qlteatt | SAMSUNG-SM-G935A |
 | Samsung | Galaxy S7 Edge | hero2qltecctvzw | SM-G935VC |
-| Samsung | Galaxy S7 Edge | hero2qltechn | SM-G9350 |
 | Samsung | Galaxy S7 Edge | hero2qltespr | SM-G935P |
 | Samsung | Galaxy S7 Edge | hero2qltetmo | SM-G935T |
 | Samsung | Galaxy S7 Edge | hero2qlteue | SM-G935U |
 | Samsung | Galaxy S7 Edge | hero2qlteusc | SM-G935R4 |
 | Samsung | Galaxy S7 Edge | hero2qltevzw | SM-G935V |
 | Samsung | Galaxy S7 edge | hero2lte | SM-G935F |
+| Samsung | Galaxy S7 edge | hero2ltelgt | SM-G935L |
 | Samsung | Galaxy S7 edge | hero2qltechn | SM-G9350 |
 | Samsung | Galaxy S8 | SC-02J | SC-02J |
 | Samsung | Galaxy S8 | SCV36 | SCV36 |
@@ -14579,6 +14582,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab S 8.4 | klimtlte | SM-T705Y |
 | Samsung | Galaxy Tab S 8.4 | klimtltevzw | SM-T707V |
 | Samsung | Galaxy Tab S 8.4 | klimtwifi | SM-T700 |
+| Samsung | Galaxy Tab S2 | gts28vewifichn | SM-T713 |
 | Samsung | Galaxy Tab S2 8.0 | gts210lte | SM-T815 |
 | Samsung | Galaxy Tab S2 8.0 | gts28lte | SM-T715 |
 | Samsung | Galaxy Tab S2 8.0 | gts28lte | SM-T715Y |
@@ -14588,7 +14592,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab S2 8.0 | gts28velte | SM-T719Y |
 | Samsung | Galaxy Tab S2 8.0 | gts28veltechn | SM-T719C |
 | Samsung | Galaxy Tab S2 8.0 | gts28vewifi | SM-T713 |
-| Samsung | Galaxy Tab S2 8.0 | gts28vewifichn | SM-T713 |
 | Samsung | Galaxy Tab S2 8.0 | gts28wifi | SM-T710 |
 | Samsung | Galaxy Tab S2 8.0 | gts28wifi | SM-T710X |
 | Samsung | Galaxy Tab S2 8.0 | gts28wifichn | SM-T710 |
@@ -15936,11 +15939,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Symphony | V120 | V120 | V120 |
 | Symphony | V130 | V130 | V130 |
 | Symphony | V34 | V34 | V34 |
+| Symphony | V44 | V44 | V44 |
 | Symphony | V47 | V47 | V47 |
 | Symphony | V65 | V65 | V65 |
 | Symphony | V75 | V75 | V75 |
 | Symphony | V75m | V75m | V75m |
 | Symphony | V85 | V85 | V85 |
+| Symphony | V96 | V96 | V96 |
 | Symphony | Z10 | Z10 | SYMPHONY Z10 |
 | Symphony | ZVII | ZVII | ZVII |
 | Symphony | ZVIII | ZVIII | ZVIII |
@@ -17540,6 +17545,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vertex | Impress_Lagune | Impress_Lagune | Impress_Lagune |
 | Vertex | Impress_Wolf | Impress_Wolf | Impress_Wolf |
 | Vertex | Lion_Dual | Lion_Dual | Lion_Dual |
+| Vertex | S1 | GlocalMe_S1 | G1701 |
 | Vertex | Tab_4G_10_1 | Tab_4G_10-1 | Tab 4G 10-1 |
 | Vertex | Tab_4G_8-1 | Tab_4G_8-1 | Tab 4G 8-1 |
 | Vertex | Vertex Tab 3G 7-1 | Tab_3G_7_1 | Tab_3G_7-1 |
