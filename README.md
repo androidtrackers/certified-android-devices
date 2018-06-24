@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 23.06.2018
+Last sync is 24.06.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9417,6 +9417,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lenovo | Lenovo S820 | S820 | Lenovo S820 |
 | Lenovo | Lenovo TAB | TB-8803F | Lenovo TB-8803F |
 | Lenovo | Lenovo TAB 7 | TB-7504F | Lenovo TB-7504F |
+| Lenovo | Lenovo TAB 7 | TB-7504F | PC-TE507JAW |
 | Lenovo | Lenovo TAB 7 | TB-7504N | Lenovo TB-7504N |
 | Lenovo | Lenovo TAB 7 | TB-7504X | Lenovo TB-7504X |
 | Lenovo | Lenovo TAB4 | 701LV | 701LV |
