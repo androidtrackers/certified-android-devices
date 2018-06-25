@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 24.06.2018
+Last sync is 25.06.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2488,6 +2488,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Coppernic | C-One | C-One_v2 | C-One |
 | Coppernic | C-One | C-One_v2_NFC | C-One |
 | Coppernic | C-eight | C-eight | C-eight |
+| Coppernic | C-eight | TN800A1 | TN800A1 |
 | Coppernic | C-five | C-five | C-five |
 | Coppernic | C-five | C-five-WIFI | C-five |
 | Covia | CP-J55a | x5090_rh_j9_covia | CP-J55a |
