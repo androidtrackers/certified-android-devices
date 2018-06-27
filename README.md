@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 26.06.2018
+Last sync is 27.06.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -166,6 +166,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Acer | Iconia One 10 | corona | B3-A20B |
 | Acer | Iconia One 7 | G1-725 | G1-725 |
 | Acer | Iconia One 7 | acer_Vulcan | B1-7A0 |
+| Acer | Iconia One 7 | acer_barricadewifi | B1-790 |
 | Acer | Iconia One 7 | vespa | B1-730HD |
 | Acer | Iconia One 7 | vespa2 | B1-750 |
 | Acer | Iconia One 7 | vespatn | B1-730 |
@@ -2058,6 +2059,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Cherry Mobile | Flare HD 3 | Flare_HD_3 | Flare HD 3 |
 | Cherry Mobile | Flare HD 4 | Flare_HD_4 | Flare_HD_4 |
 | Cherry Mobile | Flare HD Max | Flare_HD_MAX | Flare_HD_MAX |
+| Cherry Mobile | Flare J2 2018 | Flare_J2_2018 | Flare_J2_2018 |
 | Cherry Mobile | Flare J2 Lite | Flare_J2_Lite | Flare_J2_Lite |
 | Cherry Mobile | Flare J2 Mini | Flare_J2_Mini | Flare J2 Mini |
 | Cherry Mobile | Flare J2S | Flare_J2S | Flare J2S |
@@ -7098,6 +7100,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Intex | Aqua Aura 2GB | Aqua_Aura_2GB | Aqua Aura 2GB |
 | Intex | Aqua Jewel 2 | INTEX_AQUA_JEWEL_2 | INTEX AQUA JEWEL 2 |
 | Intex | Aqua Lions 2 | INTEX_AQUA_LIONS_2 | INTEX AQUA LIONS 2 |
+| Intex | Aqua Lions 3 | INTEX_AQUA_LIONS_3 | IM0318ND |
 | Intex | Aqua Lions 3 | INTEX_AQUA_LIONS_3 | INTEX AQUA LIONS 3 |
 | Intex | Aqua Power 4G | Intex_Aqua_Power_4G | Aqua Power 4G |
 | Intex | Aqua Power IV | INTEX_AQUA_POWER_IV | INTEX AQUA POWER IV |
@@ -7126,6 +7129,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Intex | INTEX Aqua Selfie | INTEX_AQUA_SELFIE | INTEX AQUA SELFIE |
 | Intex | INTEX_AQUA_S3 | INTEX_AQUA_S3 | INTEX AQUA S3 |
 | Intex | Intex Aqua FulVU e5 | AQUA_FulVU_e5 | INTEX AQUA FulVU e5 |
+| Intex | Intex Aqua FulVU e5 | AQUA_FulVU_e5 | INTEX IP0518ND |
 | Intex | STAARi 10 | AQUA_LIONS_X1_PLUS | INTEX AQUA LIONS X1+ |
 | Intex | STAARi 12 | INTEX_ELYT_E6 | INTEX ELYT E6 |
 | Intex | T1 Plus | INTEX_ELYT_DUAL | INTEX ELYT DUAL |
@@ -8429,6 +8433,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG Stylo 3 Plus | sf340n | LGMP450 |
 | LGE | LG Stylo 4 | cv7a | LM-Q710(FGN) |
 | LGE | LG Stylo 4 | cv7a | LM-Q710.FG |
+| LGE | LG Stylo 4 | cv7a | LM-Q710.FGN |
 | LGE | LG Stylo 4 | cv7a | LML713DL |
 | LGE | LG Stylo3 | sf317 | LG-M430 |
 | LGE | LG Stylo3 | sf317 | LGL83BL |
@@ -13070,6 +13075,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy A5 | a5ultelgt | SM-A500L |
 | Samsung | Galaxy A5 | a5ulteskt | SM-A500F1 |
 | Samsung | Galaxy A5 | a5ulteskt | SM-A500S |
+| Samsung | Galaxy A5 (2016) | a5xeltextc | SM-A510Y |
 | Samsung | Galaxy A5(2016) | a5xelte | SM-A510F |
 | Samsung | Galaxy A5(2016) | a5xelte | SM-A510M |
 | Samsung | Galaxy A5(2016) | a5xelte | SM-A510X |
@@ -13088,7 +13094,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy A5(2017) | a5y17ltektt | SM-A520K |
 | Samsung | Galaxy A5(2017) | a5y17ltelgt | SM-A520L |
 | Samsung | Galaxy A5(2017) | a5y17lteskt | SM-A520S |
-| Samsung | Galaxy A5x(2016) | a5xeltextc | SM-A510Y |
 | Samsung | Galaxy A6 | a6lte | SM-A600F |
 | Samsung | Galaxy A6 | a6lte | SM-A600FN |
 | Samsung | Galaxy A6 | a6lte | SM-A600G |
@@ -13542,6 +13547,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J3 | j3ltespr | SM-J320P |
 | Samsung | Galaxy J3 | j3popelteue | SM-J327U |
 | Samsung | Galaxy J3 | j3x3g | SM-J320H |
+| Samsung | Galaxy J3 | j3y17qltecmcc | SM-J3300 |
+| Samsung | Galaxy J3 | j3y17qltecmcc | SM-J3308 |
 | Samsung | Galaxy J3 Achieve | j3topeltespr | SM-J337P |
 | Samsung | Galaxy J3 Pop | j3popelteaio | SAMSUNG-SM-J326AZ |
 | Samsung | Galaxy J3 Pop | j3popelteaio | SAMSUNG-SM-J327AZ |
@@ -13585,8 +13592,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J3(2017) | j3y17lte | SM-J330FN |
 | Samsung | Galaxy J3(2017) | j3y17ltekx | SM-J330N |
 | Samsung | Galaxy J3(2017) | j3y17ltelgt | SM-J330L |
-| Samsung | Galaxy J3(2017) | j3y17qltecmcc | SM-J3300 |
-| Samsung | Galaxy J3(2017) | j3y17qltecmcc | SM-J3308 |
 | Samsung | Galaxy J4 | j4lte | SM-J400F |
 | Samsung | Galaxy J4 | j4lte | SM-J400G |
 | Samsung | Galaxy J4 | j4lte | SM-J400M |
@@ -13598,6 +13603,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J5 | j5ltechn | SM-J5008 |
 | Samsung | Galaxy J5 | j5ltekx | SM-J500N0 |
 | Samsung | Galaxy J5 | j5nlte | SM-J500FN |
+| Samsung | Galaxy J5 | j5y17lte | SM-J530F |
 | Samsung | Galaxy J5 | j5y17lte | SM-J530FM |
 | Samsung | Galaxy J5 | j5ylte | SM-J500Y |
 | Samsung | Galaxy J5 Prime | on5xelte | SM-G570F |
@@ -13618,7 +13624,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J5(2016) | j5xnltektt | SM-J510K |
 | Samsung | Galaxy J5(2016) | j5xnltelgt | SM-J510L |
 | Samsung | Galaxy J5(2016) | j5xnlteskt | SM-J510S |
-| Samsung | Galaxy J5(2017) | j5y17lte | SM-J530F |
 | Samsung | Galaxy J5(2017) | j5y17lte | SM-J530G |
 | Samsung | Galaxy J5(2017) | j5y17lte | SM-J530GM |
 | Samsung | Galaxy J5(2017) | j5y17ltektt | SM-J530K |
@@ -13633,6 +13638,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J7 | j7elte | SM-J700F |
 | Samsung | Galaxy J7 | j7elte | SM-J700M |
 | Samsung | Galaxy J7 | j7ltechn | SM-J7008 |
+| Samsung | Galaxy J7 | j7y17lte | SM-J730F |
+| Samsung | Galaxy J7 | j7y17lte | SM-J730FM |
 | Samsung | Galaxy J7 Duo | j7duolte | SM-J720F |
 | Samsung | Galaxy J7 Duo | j7duolte | SM-J720M |
 | Samsung | Galaxy J7 Max | j7maxlte | SM-G615F |
@@ -13671,8 +13678,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J7(2016) | j7xeltecmcc | SM-J7108 |
 | Samsung | Galaxy J7(2016) | j7xeltektt | SM-J710K |
 | Samsung | Galaxy J7(2016) | j7xltectc | SM-J7109 |
-| Samsung | Galaxy J7(2017) | j7y17lte | SM-J730F |
-| Samsung | Galaxy J7(2017) | j7y17lte | SM-J730FM |
 | Samsung | Galaxy J7(2017) | j7y17lte | SM-J730G |
 | Samsung | Galaxy J7(2017) | j7y17lte | SM-J730GM |
 | Samsung | Galaxy J7(2017) | j7y17ltektt | SM-J730K |
@@ -14611,13 +14616,19 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab S 8.4 | klimtlte | SM-T705Y |
 | Samsung | Galaxy Tab S 8.4 | klimtltevzw | SM-T707V |
 | Samsung | Galaxy Tab S 8.4 | klimtwifi | SM-T700 |
+| Samsung | Galaxy Tab S2 | gts210lte | SM-T815 |
+| Samsung | Galaxy Tab S2 | gts210velte | SM-T819 |
+| Samsung | Galaxy Tab S2 | gts210vewifi | SM-T813 |
+| Samsung | Galaxy Tab S2 | gts210wifi | SM-T810 |
+| Samsung | Galaxy Tab S2 | gts28lte | SM-T715 |
+| Samsung | Galaxy Tab S2 | gts28velte | SM-T719 |
+| Samsung | Galaxy Tab S2 | gts28veltechn | SM-T719C |
+| Samsung | Galaxy Tab S2 | gts28vewifi | SM-T713 |
 | Samsung | Galaxy Tab S2 | gts28vewifichn | SM-T713 |
-| Samsung | Galaxy Tab S2 8.0 | gts210lte | SM-T815 |
-| Samsung | Galaxy Tab S2 8.0 | gts28lte | SM-T715 |
+| Samsung | Galaxy Tab S2 | gts28wifi | SM-T710 |
 | Samsung | Galaxy Tab S2 8.0 | gts28lte | SM-T715Y |
 | Samsung | Galaxy Tab S2 8.0 | gts28ltechn | SM-T715C |
 | Samsung | Galaxy Tab S2 8.0 | gts28ltekx | SM-T715N0 |
-| Samsung | Galaxy Tab S2 8.0 | gts28velte | SM-T719 |
 | Samsung | Galaxy Tab S2 8.0 | gts28velte | SM-T719Y |
 | Samsung | Galaxy Tab S2 8.0 | gts28veltechn | SM-T719C |
 | Samsung | Galaxy Tab S2 8.0 | gts28vewifi | SM-T713 |
@@ -14635,7 +14646,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab S2 9.7 | gts210lteusc | SM-T817R4 |
 | Samsung | Galaxy Tab S2 9.7 | gts210ltevzw | SM-T817V |
 | Samsung | Galaxy Tab S2 9.7 | gts210velte | SM-T818 |
-| Samsung | Galaxy Tab S2 9.7 | gts210velte | SM-T819 |
 | Samsung | Galaxy Tab S2 9.7 | gts210velte | SM-T819Y |
 | Samsung | Galaxy Tab S2 9.7 | gts210velteatt | SAMSUNG-SM-T818A |
 | Samsung | Galaxy Tab S2 9.7 | gts210veltecan | SM-T818W |
