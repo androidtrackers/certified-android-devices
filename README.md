@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 27.06.2018
+Last sync is 28.06.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1576,6 +1576,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | BenQ | T55 | T55 | T55 |
 | Benesse | TAB-A03-BR | TAB-A03-BR | TAB-A03-BR |
 | Benesse | TAB-A03-BS | TAB-A03-BS | TAB-A03-BS |
+| Beneve | M755 | M755 | M755 |
 | Bentley | Tab | sdis1 | BENTLEY ENTERTAINMENT TABLET |
 | Best Buy | Transformer Pad (TF103C) | K010 | K010 |
 | Bigben | BB8252 | Bigben-TAB | BB8252 |
@@ -6833,6 +6834,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Icon | Portal_10i | Portal_10i | NTMC17 |
 | Ikimobile | KF45 | KF45 | KF45 |
 | Ikon | IK-7108 | IK-7108 | IK-7108 |
+| Ikon | IK-787 | IK-787 | IK-787 |
 | IkuMobile | I3 | I3 | IKU i3 |
 | IkuMobile | IKU_i1 | IKU_i1 | i1 |
 | IkuMobile | K2 | IKU_K2 | K2 |
@@ -9693,6 +9695,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lephone | Lephone W8 | lephone_W8 | lephone_W8 |
 | Lephone | lephone P1 | lephoneP1 | lephoneP1 |
 | Lephone | lephone W10 | lephone_W10 | lephone_W10 |
+| Lephone | lephone W15 | lephone_W15 | lephone_W15 |
+| Lephone | lephone W21 | lephone_W21 | lephone_W21 |
+| Lephone | lephone W7 | lephone_W7 | lephone_W7 |
+| Lephone | lephone W7 | lephone_W7s | lephone_W7 |
 | Lexia Mobile | S1 | S1 | S1 |
 | Lexia Mobile | S2 | S2 | S2 |
 | Lexibook | Fluo | MFC145FR1 | MFC145FR1 |
@@ -13611,6 +13617,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J5 Prime | on5xelte | SM-G570Y |
 | Samsung | Galaxy J5 Prime | on5xelteins | SM-G570F |
 | Samsung | Galaxy J5 Prime | on5xltechn | SM-G5700 |
+| Samsung | Galaxy J5 Pro | j5y17lte | SM-J530G |
+| Samsung | Galaxy J5 Pro | j5y17lte | SM-J530GM |
 | Samsung | Galaxy J5 Pro | j5y17ltedx | SM-J530Y |
 | Samsung | Galaxy J5 Pro | j5y17ltextc | SM-J530YM |
 | Samsung | Galaxy J5(2016) | j5x3g | SM-J510H |
@@ -13624,8 +13632,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J5(2016) | j5xnltektt | SM-J510K |
 | Samsung | Galaxy J5(2016) | j5xnltelgt | SM-J510L |
 | Samsung | Galaxy J5(2016) | j5xnlteskt | SM-J510S |
-| Samsung | Galaxy J5(2017) | j5y17lte | SM-J530G |
-| Samsung | Galaxy J5(2017) | j5y17lte | SM-J530GM |
 | Samsung | Galaxy J5(2017) | j5y17ltektt | SM-J530K |
 | Samsung | Galaxy J5(2017) | j5y17ltelgt | SM-J530L |
 | Samsung | Galaxy J5(2017) | j5y17lteskt | SM-J530S |
@@ -14622,6 +14628,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab S2 | gts210wifi | SM-T810 |
 | Samsung | Galaxy Tab S2 | gts28lte | SM-T715 |
 | Samsung | Galaxy Tab S2 | gts28velte | SM-T719 |
+| Samsung | Galaxy Tab S2 | gts28velte | SM-T719Y |
 | Samsung | Galaxy Tab S2 | gts28veltechn | SM-T719C |
 | Samsung | Galaxy Tab S2 | gts28vewifi | SM-T713 |
 | Samsung | Galaxy Tab S2 | gts28vewifichn | SM-T713 |
@@ -14629,7 +14636,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab S2 8.0 | gts28lte | SM-T715Y |
 | Samsung | Galaxy Tab S2 8.0 | gts28ltechn | SM-T715C |
 | Samsung | Galaxy Tab S2 8.0 | gts28ltekx | SM-T715N0 |
-| Samsung | Galaxy Tab S2 8.0 | gts28velte | SM-T719Y |
 | Samsung | Galaxy Tab S2 8.0 | gts28veltechn | SM-T719C |
 | Samsung | Galaxy Tab S2 8.0 | gts28vewifi | SM-T713 |
 | Samsung | Galaxy Tab S2 8.0 | gts28wifi | SM-T710 |
@@ -16586,6 +16592,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033O |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033T |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033X |
+| TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | Alcatel T 5033T |
 | TCT (Alcatel) | Alcatel 1C | U5A_PLUS_3G | 5009A |
 | TCT (Alcatel) | Alcatel 1C | U5A_PLUS_3G | 5009D |
 | TCT (Alcatel) | Alcatel 1C | U5A_PLUS_3G | 5009D_RU |
@@ -17873,6 +17880,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vkworld | Mix3 | Mix3 | Mix3 |
 | Vkworld | Mix_Plus | Mix_Plus | Mix_Plus |
 | Vkworld | S8 | vkworld_S8 | S8 |
+| Vmobile | A10_Y | A10_Y | A10_Y |
 | Vodafone | 785 | Vodafone_785 | Vodafone 785 |
 | Vodafone | 895 | VF-895N | VF-895N |
 | Vodafone | Smart N8 | VFD610 | VFD 610 |
@@ -18206,6 +18214,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Wistron | W1011A | w1011a | W1011A |
 | Wizz | DV-PTB1080 | DV-PTB1080 | DV-PTB1080 |
 | Woongjin | WoongjinThinkbig | BP-1001 | BP-1001 |
+| Wopad | Wopad-Kids7Q | Wopad-Kids7Q | Wopad-Kids7Q |
 | Woxter | Woxter | Woxter_N70 | Woxter_N70 |
 | Woxter | Woxter_N100 | Woxter_N100 | Woxter_N100 |
 | Woxter | Woxter_N200 | Woxter_N200 | Woxter_N200 |
@@ -19783,6 +19792,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | bq | Edison 3 3G | Edison_3_3G | Edison 3 3G |
 | bq | Edison_3_mini | Edison_3_mini | Edison 3 mini |
 | bq | M8 | Aquaris_M8 | Aquaris M8 |
+| dazen | dazen 6A | dazen_6A | dazen 6A |
 | duraMOBI | DK66 | DK66 | DK66 |
 | i-Buddie | TA10CA1 | TA10CA1 | TA10CA1 |
 | i-Buddie | TA10CA2 | TA10CA2 | TA10CA2 |
@@ -19832,6 +19842,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iCraig | CMP823 | CMP823 | CMP823 |
 | iCraig | CMP826 | CMP826 | CMP826 |
 | iCraig | CMP828 | CMP828 | CMP828 |
+| iCraig | CMP834 | CMP834 | CMP834 |
 | iCraig | CMP_771 | ICRAIG_CMP_771 | ICRAIG_CMP771 |
 | iCraig | CMP_773 | ICRAIG_CMP_773 | ICRAIG_CMP773 |
 | iDea USA | CT8 | CT8 | CT8 |
@@ -19915,6 +19926,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | teXet | TM-5201 | TM-5201 | TM-5201 |
 | teXet | Texet TM-5571 | tm5571 | TM-5571 |
 | teXet | Texet TM-5581 | tm5581 | TM-5581 |
+| techBITE | Flix  TV  Box | DV8219 | Flix TV Box |
 | tecmobile | OmnisOne | OmnisOne | Omnis One |
 | ucall | EASY1 | EASY1 | EASY1 |
 | videocon | Delite 11 | V503630 | V503630 |
@@ -19928,3 +19940,4 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | xTouch | XBOT_SENIOR | XBot_Senior | XBot_Senior |
 | xTouch | XTOUCH X | XTouch_X | XTouch X |
 | xTouch | XTOUCH X10 | XTOUCH_X10 | XTOUCH X10 |
+| zyrex | ZT 216 | ZT_216 | ZT 216 |
