@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 28.06.2018
+Last sync is 29.06.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -20,6 +20,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | 7mobile | KAMBA | KAMBA | KAMBA |
 | 7mobile | SWEGUE | SWEGUE | SWEGUE |
 | A.O.I. ELECTRONICS FACTORY | A.O.I. | TR10CS1_11 | TR10CS1 |
+| A1 | A1 Smart N9 | VFD720 | VFD 720 |
 | AG Mobile | AG BOOST 2 | BOOST2 | E4010 |
 | AG Mobile | AG Flair | AG_Flair | Flair |
 | AG Mobile | AG Go Tab Access 2 | AG_Go_Tab_Access_2 | AG_Go_Tab_Access_2 |
@@ -1590,6 +1591,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Bitel | B9502 | B9502 | B9502 |
 | Bitel | B9504 | B9504 | B9504 |
 | Bitel | B9505 | 4G_Smart_Phone_B9505 | B9505 |
+| Bitel | BPRO | BPRO | BPRO |
 | Bitel | M50 | M50 | M50 |
 | Bitel | Pro 9 | PRO9 | PRO9 |
 | Bitmore | GTAB700 | GTAB700 | NID_7010 |
@@ -11041,6 +11043,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Myphone | myA1 | MY801 | MY801 |
 | Myphone | myA10 | myA10 | myA10 |
 | Myphone | myA11 | MYA11 | MYA11 |
+| Myphone | myA13 | MYA13 | MYA13 |
 | Myphone | myA2 | MY802 | MY802 |
 | Myphone | myA3 | MY803 | MY803 |
 | Myphone | myA5 | MY805 | MY805 |
@@ -16268,7 +16271,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | 9030G | POP4-10_4G | 9030G |
 | TCT (Alcatel) | 9030Q | POP4-10_4G | 9030Q |
 | TCT (Alcatel) | 9203A | Pixi5-7_3G | 9203A |
-| TCT (Alcatel) | A1 Smart N9 | VFD720 | VFD 720 |
 | TCT (Alcatel) | A3 | mickey6 | 5046A |
 | TCT (Alcatel) | A3 | mickey6 | 5046D |
 | TCT (Alcatel) | A3 | mickey6 | 5046I |
