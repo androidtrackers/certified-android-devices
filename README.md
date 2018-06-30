@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 29.06.2018
+Last sync is 30.06.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -493,6 +493,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | AllView | X4 Soul Style | X4_Soul_Style | X4_Soul_Style |
 | AllView | X4 Soul Vision | X4_Soul_Vision | X4_Soul_Vision |
 | AllView | X4 Soul Xtreme | X4_Soul_Xtreme | X4_Soul_Xtreme |
+| AllView | X5 Soul Pro | X5_Soul_Pro | X5_Soul_Pro |
 | Allducube | T1001 | T1001 | T1001 |
 | Allfine | M721 | 86S | M721 |
 | Allfine | PC1038Q | fine10_Joy | PC1038Q |
@@ -1153,6 +1154,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Asus | ZenFone AR (ZS571KL) | ASUS_A002 | ASUS_A002 |
 | Asus | ZenFone Ares (ZS572KL) | ASUS_A002_2 | ASUS_A002 |
 | Asus | ZenFone C (ZC451CG) | ASUS_Z007 | ASUS_Z007 |
+| Asus | ZenFone Go (T500) | ASUS_X003 | ASUS_X003 |
 | Asus | ZenFone Go (ZB450KL) | ASUS_X009D_2 | ASUS_X009DB |
 | Asus | ZenFone Go (ZB452KG) | ASUS_X014D_1 | ASUS_X014D |
 | Asus | ZenFone Go (ZB452KG) | ASUS_X014D_2 | ASUS_X014D |
@@ -1251,7 +1253,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Asus | Zenbo | ASUS_ZENBO | Zenbo |
 | Asus | Zenbo Qrobot | ASUS_ZENBO | Zenbo |
 | Asus | Zenfone Go (ASUS_X00BD) | ASUS_X00BD_1 | ASUS_X00BD |
-| Asus | Zenfone Go (T500) | ASUS_X003 | ASUS_X003 |
 | Asus | Zenfone Max Pro(M1) | ASUS_X00T_3 | ASUS_X00TD |
 | Asus | Zenfone Max Pro(M1) | ASUS_X00T_4 | ASUS_X00TD |
 | Asus | Zenpad 8.0 (Z380C) | P022_1 | P022 |
@@ -1463,6 +1464,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | BQru | BQ-5508L | BQru-5508L | BQ-5508L |
 | BQru | BQ-5510 Strike Power Max 4G | BQru_5510 | BQru-5510 |
 | BQru | BQ-5511L | BQru_5511L | BQ-5511L |
+| BQru | BQ-5512L STRIKE FORWARD | BQru-5512L | BQ-5512L |
 | BQru | BQ-5521 STRIKE POWER MAX | BQru-5521 | BQru-5521 |
 | BQru | BQ-5522\xc2\xa0Next | BQru-5522 | BQ-5522 |
 | BQru | BQ-5590 Spring | BQru_5590 | BQru_5590 |
@@ -2544,6 +2546,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DBM Maroc | Pearl A2 | PEARL_A2 | PEARL_A2 |
 | DBM Maroc | Speed X2 | Speed-X2 | Speed-X2 |
 | DEA Factory | KTAB | KTAB | KTAB |
+| DEXP | AS160 | AS160 | AS160 |
 | DEXP | B350 | B350 | B350 |
 | DEXP | BS250 | BS250 | BS250 |
 | DEXP | DEXP B145 | B145 | B145 |
@@ -2610,6 +2613,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DL | i-Player_KIDS | Tablet_DL_3910 | Tablet_DL_3910 |
 | DNA | DNA TV-hubi | dctiw384 | DNA Android TV |
 | DO Mobile | Mate1 | Mate1 | DO_S1 |
+| DO Mobile | Mate1 | Mate1 | Mate1 |
 | Daehap | DH-B301K | DH-B301K | DH-B301K |
 | Danew | DSlide 710 | Dslide710 | Dslide710 |
 | Danew | DSlide 750 | Danew_DSlide750 | DSlide750 |
@@ -2928,6 +2932,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | EKO | EKO OMEGA Q55 | EKO_OMEGA_Q55 | EKO OMEGA Q55 |
 | EKO | EKO Star LTE G60 | EKO_Star_LTE_G60 | EKO Star LTE G60 |
 | ENTITY | GDENTMY7317 | GDENTMY7317 | GDENTMY7317 |
+| EPIKONE | K400 | K400 | K400 |
+| EPIKONE | K502 | K502 | K502 |
 | ESI Enterprises | CKT3 | CKT3 | CKT3 |
 | ESI Enterprises | DT101Bv51 | DT101Bv51 | DT101Bv51 |
 | ESI Enterprises | DT7v51B | DT7v51B | DT7v51B |
@@ -3494,6 +3500,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Future Mobile Technology | Viper | 175FT1050241 | 175FT1050241 |
 | Future Mobile Technology | netsurferDUAL 7 | FMT-NM7116-01 | FMT-NM7116-01 |
 | G Y P NEW TREE SA | VIEWPAD M10M | M10M | VIEWPAD M10M |
+| G-TOUCH | Stella X | Stella_X | Stella X |
 | G-TiDE | FANS7 | FANS7 | G-TiDE FANS7 |
 | G53 | TA71CA3 | TA71CA3_1 | TA71CA3 |
 | GD Classbook | TA80CA1 | TA80CA1_2 | TA80CA1 |
@@ -3618,6 +3625,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Gigabyte | W5510 | W5510 | W5510 |
 | Gigabyte | W6360 | W6360 | W6360 |
 | Gigabyte | mexico | Lanix | iliumPAD |
+| Gigaset | GS100 | GS100 | GS100 |
 | Gigaset | GS160 | GS160 | Gigaset GS160 |
 | Gigaset | GS170 | GS170 | Gigaset GS170 |
 | Gigaset | GS180 | GS180 | GS180 |
@@ -5403,6 +5411,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Honeywell | EdA50 | eda50-211 | EDA50 |
 | Hot Pepper | H5 | H5 | H5 |
 | Hotwav | HOT 6 | HOT_6 | HOT 6 |
+| Hotwav | M5i | M5i | M5i |
 | Hotwav | Magic 13 | Magic_13 | Magic 13 |
 | Hotwav | Magic 5 | Magic_5 | Magic 5 |
 | Hotwav | Magic 6 | Magic_6 | Magic 6 |
@@ -8510,6 +8519,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG X power | mk6p55 | LGLS755 |
 | LGE | LG X power | mk6pn | LG-K220 |
 | LGE | LG X power2 | lv7 | LG-M320G |
+| LGE | LG X power2 | lv7 | LM-X510WM |
 | LGE | LG X screen | k5 | LG-F650K |
 | LGE | LG X screen | k5 | LG-F650L |
 | LGE | LG X screen | k5 | LG-F650S |
@@ -8753,7 +8763,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | Q8 | anna | LGM-X800L |
 | LGE | Q8+ | cv7an | LM-Q815L |
 | LGE | Q8+ | cv7an | LM-Q815S |
-| LGE | QStylus Plus | mcv7a | LM-Q710.FG |
+| LGE | QStylus | mcv7a | LM-Q710.FG |
+| LGE | QStylus | mcv7a | LM-Q710.FGN |
 | LGE | QStylus Plus | mcv7a | LM-Q710.FGN |
 | LGE | Qua phone PX | JSG | LGV33 |
 | LGE | Qua tab PX | b3 | LGT31 |
@@ -8919,6 +8930,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lanix | Ilium_S130 | Ilium_S130 | Ilium S130 |
 | Lanix | Ilium_S130 | Ilium_S130 | Ilium_S130 |
 | Lanix | Ilium_S520 | Ilium_S520 | ILIUM S520 |
+| Lanix | LANIX_PAD_E7 | ILIUM_PADE7V11 | LANIX_PAD_E7 |
 | Lanix | Llium L910 | Ilium_L910 | Ilium L910 |
 | Lanix | X100 | ILIUM_X100 | ILIUM_X100 |
 | Lanix | X400 | Ilium_X400 | ILIUM X400 |
@@ -10412,6 +10424,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Mobell | S40 | S40 | S40 |
 | Mobicell | 4U | 4U | 4U |
 | Mobicell | ARC | ARC | ARC |
+| Mobicell | ASTRO | ASTRO | ASTRO |
 | Mobicell | Air | Mobicel_Air | Air |
 | Mobicell | BERRY | BERRY | BERRY |
 | Mobicell | CHERRY | CHERRY | CHERRY |
@@ -10472,6 +10485,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | MobiiStar | ZUMBO S2 | mobiistar_Zumbo_S2 | mobiistar Zumbo S2 |
 | MobiiStar | ZUMBO_S2_Dual | ZUMBO_S2_Dual | mobiistar ZUMBO S2 Dual |
 | MobiiStar | mobiistar | CQ | CQ |
+| MobiiStar | mobiistar C1 | mobiistar_C1 | mobiistar C1 |
 | MobiiStar | mobiistar E Selfie | mobiistar_E_Selfie | mobiistar E Selfie |
 | MobiiStar | mobiistar E1 | mobiistar_E1 | mobiistar E1 |
 | MobileTeleSystem | MTC SMART Surf 4G | MTC_SMART_Surf_4G | MTC_SMART_Surf_4G |
@@ -12696,6 +12710,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | QMobile | Q Infinity | Q_Infinity | Q Infinity |
 | QMobile | Q Infinity B | Q_Infinity_B | QMobile Q Infinity B |
 | QMobile | Q Infinity C | Q_Infinity_C | QMobile Q Infinity C |
+| QMobile | Q Infinity Cinema | Q_Infinity_Cinema | QMobile_Q_Infinity_Cinema |
 | QMobile | Q Infinity D | Q_Infinity_D | QMobile Q Infinity D |
 | QMobile | Q Infinity E | Q_Infinity_E | QMobile Q Infinity E |
 | QMobile | Q Infinity E Lite | Q_Infinity_E_Lite | QMobile Q Infinity E Lite |
@@ -13107,6 +13122,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy A6 | a6lte | SM-A600FN |
 | Samsung | Galaxy A6 | a6lte | SM-A600G |
 | Samsung | Galaxy A6 | a6lte | SM-A600GN |
+| Samsung | Galaxy A6 | a6lteks | SM-A600N |
 | Samsung | Galaxy A6 Plus | a6plte | SM-A605F |
 | Samsung | Galaxy A6 Plus | a6plte | SM-A605FN |
 | Samsung | Galaxy A6 Plus | a6pltechn | SM-A6050 |
@@ -13555,6 +13571,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J3 | j3ltectc | SM-J3109 |
 | Samsung | Galaxy J3 | j3ltespr | SM-J320P |
 | Samsung | Galaxy J3 | j3popelteue | SM-J327U |
+| Samsung | Galaxy J3 | j3topeltevzw | SM-J337VPP |
 | Samsung | Galaxy J3 | j3x3g | SM-J320H |
 | Samsung | Galaxy J3 | j3y17qltecmcc | SM-J3300 |
 | Samsung | Galaxy J3 | j3y17qltecmcc | SM-J3308 |
@@ -13642,6 +13659,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J6 | j6lte | SM-J600FN |
 | Samsung | Galaxy J6 | j6lte | SM-J600G |
 | Samsung | Galaxy J6 | j6lte | SM-J600GT |
+| Samsung | Galaxy J6 | j6ltekx | SM-J600N |
 | Samsung | Galaxy J7 | j75ltektt | SM-J700K |
 | Samsung | Galaxy J7 | j7e3g | SM-J700H |
 | Samsung | Galaxy J7 | j7elte | SM-J700F |
@@ -13677,6 +13695,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J7 Prime2 | on7xreflteins | SM-G611FF |
 | Samsung | Galaxy J7 Pro | j7y17lte | SM-J730G |
 | Samsung | Galaxy J7 Pro | j7y17lte | SM-J730GM |
+| Samsung | Galaxy J7 Star | j7topltetmo | SM-J737T |
 | Samsung | Galaxy J7(2015) | j7ltespr | SM-J700P |
 | Samsung | Galaxy J7(2016) | j7eltemtr | SM-J700T1 |
 | Samsung | Galaxy J7(2016) | j7eltetmo | SM-J700T |
@@ -13691,6 +13710,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J7(2017) | j7y17lte | SM-J730GM |
 | Samsung | Galaxy J7(2017) | j7y17ltektt | SM-J730K |
 | Samsung | Galaxy J7+ | jadelte | SM-C710F |
+| Samsung | Galaxy Jean | a6pltektt | SM-A605K |
 | Samsung | Galaxy K | SHW-M130K | SHW-M130K |
 | Samsung | Galaxy K Zoom | m2a3g | SM-C111 |
 | Samsung | Galaxy K Zoom | m2a3g | SM-C111M |
@@ -15911,6 +15931,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Starlight | I STAR PLUS | I_STAR_PLUS | I_STAR_PLUS |
 | Starlight | Madrid | Madrid | Madrid |
 | Starlight | STAR_MIX | STAR_MIX | STAR_MIX |
+| Starlight | Star_Plus | Star_Plus | Star_Plus |
 | Starlight | Starplus 7 | STARPLUS7 | STARPLUS7 |
 | Starlight | UMI_G | UMI_G | UMI_G |
 | Storex | eZee\'Tab7Q11-M | Tab7Q11 | Tab7Q11 |
@@ -15949,6 +15970,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sugar | SUGAR C12 | SUGAR_C12 | SUGAR C12 |
 | Sugar | SUGAR S11 | i9071ae | SUGAR S11 |
 | Sugar | SUGAR Y12 | p101bs | SUGAR Y12 |
+| Sugar | SUGAR Y12s | SUGAR_Y12s | SUGAR Y12s |
 | Sugar | Sugar | s9121 | SUGAR |
 | Sumitomo Electric Industries | ST4173 | ST4173 | ST4173 |
 | Sumitomo Electric Networks |  | dhe1100 | Hikari-iFrame/WDPF-703SE |
@@ -17849,6 +17871,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vivo | vivo 1802 | 1802 | vivo 1802 |
 | Vivo | vivo 1808 | 1808 | vivo 1808 |
 | Vivo | vivo NEX A | PD1806 | vivo NEX A |
+| Vivo | vivo NEX S | PD1805 | vivo NEX S |
 | Vivo | vivo X20 | PD1709 | vivo PD1709 |
 | Vivo | vivo X20 | PD1709 | vivo X20A |
 | Vivo | vivo X20Plus | PD1710 | vivo PD1710 |
@@ -17883,6 +17906,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vkworld | Mix_Plus | Mix_Plus | Mix_Plus |
 | Vkworld | S8 | vkworld_S8 | S8 |
 | Vmobile | A10_Y | A10_Y | A10_Y |
+| Vmobile | A13 | A13 | A13 |
 | Vodafone | 785 | Vodafone_785 | Vodafone 785 |
 | Vodafone | 895 | VF-895N | VF-895N |
 | Vodafone | Smart N8 | VFD610 | VFD 610 |
@@ -19940,6 +19964,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | xTouch | E4 | E4 | E4 |
 | xTouch | X10 | X10 | X10 |
 | xTouch | XBOT_SENIOR | XBot_Senior | XBot_Senior |
+| xTouch | XBot Junior | XBot_Junior | XBot Junior |
 | xTouch | XTOUCH X | XTouch_X | XTouch X |
 | xTouch | XTOUCH X10 | XTOUCH_X10 | XTOUCH X10 |
 | zyrex | ZT 216 | ZT_216 | ZT 216 |
