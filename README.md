@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 30.06.2018
+Last sync is 01.07.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12635,6 +12635,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Prime | O9 | PRIME_O9 | O9 |
 | Prime | X6_Pro | X6_Pro | X6_Pro |
 | Primux | Primux_ioxphone | Primux_ioxphone | Primux_ioxphone |
+| Prixton | T7014Q_Plus | T7014Q_Plus | T7014Q_Plus |
 | Professional Mobile | Pro V5 | Pro_V5 | Pro V5 |
 | Proline | H10885M | H10885M | H10885M |
 | Proline | H7835M | H7835M | H7835M |
