@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 01.07.2018
+Last sync is 02.07.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1173,6 +1173,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Asus | ZenFone Live L1 (ZA550KL) | ASUS_X00R_2 | ASUS_X00RD |
 | Asus | ZenFone Live L1 (ZA550KL) | ASUS_X00R_2 | ZA550KL |
 | Asus | ZenFone Live L1 (ZA550KL) | ASUS_X00R_3 | ASUS_X00RD |
+| Asus | ZenFone Live L1 (ZA550KL) | ASUS_X00R_3 | G552KL |
 | Asus | ZenFone Live L1 (ZA550KL) | ASUS_X00R_3 | ZA550KL |
 | Asus | ZenFone Live Plus (ZB553KL) | ASUS_X00LD_2 | ASUS_X00LDB |
 | Asus | ZenFone Live Plus (ZB553KL) | ASUS_X00LD_3 | ASUS_X00LDA |
