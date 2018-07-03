@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 02.07.2018
+Last sync is 03.07.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3322,7 +3322,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Fossil | Q Wander / Q Marshal / Q Founder 2.0 / Bradshaw / Dylan | gar | Bradshaw |
 | Fossil | Q Wander / Q Marshal / Q Founder 2.0 / Bradshaw / Dylan | gar | Q Marshal |
 | Fossil | Q Wander / Q Marshal / Q Founder 2.0 / Bradshaw / Dylan | gar | Q Wander |
+| Fossil | Wear | firefish | AX Connected |
 | Fossil | Wear | mullet | Vapor |
+| Fossil | Wear | ray | EA Connected |
 | Fossil | Wear OS | mullet | Vapor |
 | Four Mobile | S710 Ruby | S710_Ruby | S710 Ruby |
 | Four Mobile | Sapphire | S750 | Sapphire |
@@ -3822,6 +3824,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Goo | g08 | v12dn | View Prime |
 | Google | Android Wear | bluegill | Alberto |
 | Google | Android Wear | bluegill | EA Connected |
+| Google | Android Wear | bluegill | Grayson |
 | Google | Android Wear | glowlight | GUESS Connect |
 | Google | Android Wear | shiner | Riley Touch |
 | Google | Android Wear | shiner | Riley Touchscreen |
@@ -3860,6 +3863,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Gradiente | iphone C600 | GBC_bravo | iphone C600 |
 | Gradiente | iphone C600 | bravo | iphone C600 |
 | Greatwall | T709GW | T709GW | Great Wall T709 |
+| Greatwall | W710 | W710 | W710 |
 | Grundig | GTB1030 | TA10CA2 | TA10CA2 |
 | Grundig | GTB1050 | GTB1050 | GTB 1050 |
 | Grundig | GTB850 | GTB850 | GTB 850 |
@@ -3895,6 +3899,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | HOMTOM | S7 | S7 | S7 |
 | HOMTOM | S8 | S8 | S8 |
 | HOMTOM | S9 Plus | S9_Plus | S9_Plus |
+| HOMTOM | S99 | S99 | S99 |
 | HOMTOM | Z8 | Z8 | Z8 |
 | HP | 10 | spruce | HP 10 |
 | HP | 10 Plus | torsa | HP 10 Plus |
@@ -7316,6 +7321,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | JP Sacouto | mymaga CLASS Plus 2 | MG101A4T | mymaga CLASS Plus 2 |
 | JVC |  | gener | RY-AP1 |
 | JVC | DM65UXR\\DM65USR\\DM85UXR | mstarnapoli_atsc | DM65UXR |
+| JVC | JVC J20 | Cunda | J20 |
 | JabrBox | H460 | H460 | H460 |
 | JabrBox | H460B01 | H460 | H460 |
 | JabrBox | S502 | S502 | S502 |
@@ -8449,6 +8455,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG Stylo 4 | cv7a | LM-Q710.FG |
 | LGE | LG Stylo 4 | cv7a | LM-Q710.FGN |
 | LGE | LG Stylo 4 | cv7a | LML713DL |
+| LGE | LG Stylo 4 | mcv7a | LG-Q710AL |
 | LGE | LG Stylo3 | sf317 | LG-M430 |
 | LGE | LG Stylo3 | sf317 | LGL83BL |
 | LGE | LG Stylo3 | sf317 | LGL84VL |
@@ -8762,8 +8769,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | Q8 | anna | LG-H970 |
 | LGE | Q8 | anna | LGM-X800K |
 | LGE | Q8 | anna | LGM-X800L |
-| LGE | Q8+ | cv7an | LM-Q815L |
-| LGE | Q8+ | cv7an | LM-Q815S |
+| LGE | Q8 | cv7an | LM-Q815L |
+| LGE | Q8 | cv7an | LM-Q815S |
 | LGE | QStylus | mcv7a | LM-Q710.FG |
 | LGE | QStylus | mcv7a | LM-Q710.FGN |
 | LGE | QStylus Plus | mcv7a | LM-Q710.FGN |
@@ -9907,6 +9914,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | MJS | T2702 | T2702 | T2702 |
 | MOVI | Movi Projector Phone | Movi | Movi Projector Phone |
 | MOVIC | Dual | Dual | Dual |
+| MOVIC | F5003 | F5003 | F5003 |
 | MOVIC | MOVIC-W2 | MOVIC-W2 | MOVIC-W2 |
 | MPman | MPDC1006 | MPDC1006 | MPDC1006 |
 | MPman | MPDC706 | MPDC706 | MPDC706 |
@@ -10489,6 +10497,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | MobiiStar | mobiistar C1 | mobiistar_C1 | mobiistar C1 |
 | MobiiStar | mobiistar E Selfie | mobiistar_E_Selfie | mobiistar E Selfie |
 | MobiiStar | mobiistar E1 | mobiistar_E1 | mobiistar E1 |
+| MobiiStar | mobiistar E1 Selfie | E1_Selfie | E1 Selfie |
 | MobileTeleSystem | MTC SMART Surf 4G | MTC_SMART_Surf_4G | MTC_SMART_Surf_4G |
 | MobileTeleSystem | SMART Race2 4G | SMART_Race2_4G | SMART_Race2_4G |
 | MobileTeleSystem | SMART Start 2 | MTC_SMART_Start_2 | MTC_SMART_Start_2 |
@@ -12306,6 +12315,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Polaroid | Cosmo P5s | P5046A | P5046A |
 | Polaroid | Cosmo Z | P5047A | P5047A |
 | Polaroid | Cosmo Z2 | PSPCZ20A0 | PSPCZ20A0 |
+| Polaroid | Cosmo Z2 Plus | PSPCM20A0 | PSPCM20A0 |
 | Polaroid | Infinite | MID1324 | MID 1324 |
 | Polaroid | K7 | PTAB782 | K7/PTAB782 |
 | Polaroid | L9 | L9 | L9 |
@@ -12716,6 +12726,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | QMobile | Q Infinity D | Q_Infinity_D | QMobile Q Infinity D |
 | QMobile | Q Infinity E | Q_Infinity_E | QMobile Q Infinity E |
 | QMobile | Q Infinity E Lite | Q_Infinity_E_Lite | QMobile Q Infinity E Lite |
+| QMobile | Q Infinity Prime | Q_Infinity_Prime | QMobile Q Infinity Prime |
 | QMobile | QMobile S15 | S15 | QMobile S15 |
 | QMobile | QNote | QMobile_QNote | QMobile QNote |
 | QMobile | Qmobile S8 Plus | QMobile_S8_Plus | S8 Plus |
@@ -13126,7 +13137,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy A6 | a6lte | SM-A600GN |
 | Samsung | Galaxy A6 | a6lteks | SM-A600N |
 | Samsung | Galaxy A6 Plus | a6plte | SM-A605F |
-| Samsung | Galaxy A6 Plus | a6plte | SM-A605FN |
 | Samsung | Galaxy A6 Plus | a6pltechn | SM-A6050 |
 | Samsung | Galaxy A6+ | a6plte | SM-A605FN |
 | Samsung | Galaxy A6+ | a6plte | SM-A605G |
@@ -13174,6 +13184,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy A8+(2018) | jackpot2lte | SM-A730X |
 | Samsung | Galaxy A9 Pro | a9xproltechn | SM-A9100 |
 | Samsung | Galaxy A9 Pro | a9xproltesea | SM-A910F |
+| Samsung | Galaxy A9 Star | astarqltechn | SM-G8850 |
 | Samsung | Galaxy A9 Star Lite | a6pltechn | SM-A6050 |
 | Samsung | Galaxy A9 Star Lite | a6pltechn | SM-A605XC |
 | Samsung | Galaxy A9 Star Lite | a6pltecmcc | SM-A6058 |
@@ -13675,7 +13686,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J7 Neo | j7velte | SM-J701F |
 | Samsung | Galaxy J7 Neo | j7velte | SM-J701M |
 | Samsung | Galaxy J7 Neo | j7velte | SM-J701MT |
-| Samsung | Galaxy J7 Neo2 | j7toplteskt | SM-J737S |
 | Samsung | Galaxy J7 Pop | j7popelteaio | SAMSUNG-SM-J727AZ |
 | Samsung | Galaxy J7 Pop | j7popelteatt | SAMSUNG-SM-J727A |
 | Samsung | Galaxy J7 Pop | j7popeltetfntmo | SM-S737TL |
@@ -13712,6 +13722,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J7(2017) | j7y17lte | SM-J730GM |
 | Samsung | Galaxy J7(2017) | j7y17ltektt | SM-J730K |
 | Samsung | Galaxy J7+ | jadelte | SM-C710F |
+| Samsung | Galaxy J8 | j8y18lte | SM-J810F |
+| Samsung | Galaxy J8 | j8y18lte | SM-J810M |
+| Samsung | Galaxy J8 | j8y18lte | SM-J810Y |
 | Samsung | Galaxy Jean | a6pltektt | SM-A605K |
 | Samsung | Galaxy K | SHW-M130K | SHW-M130K |
 | Samsung | Galaxy K Zoom | m2a3g | SM-C111 |
@@ -14011,6 +14024,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy On7(2016) | on7xelteskt | SM-G610S |
 | Samsung | Galaxy On7(2016) | on7xltechn | SM-G6100 |
 | Samsung | Galaxy On8 | j7xlte | SM-J710FN |
+| Samsung | Galaxy On8 | j8y18lte | SM-J810GF |
 | Samsung | Galaxy Player | YP-GB70 | YP-GB70 |
 | Samsung | Galaxy Player 3.6 | YP-GS1 | YP-GS1 |
 | Samsung | Galaxy Player 4 | YP-GB1 | YP-GB1 |
@@ -14562,6 +14576,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A (2017) | gta2slteskt | SM-T385S |
 | Samsung | Galaxy Tab A (2017) | gta2swifi | SM-T380 |
 | Samsung | Galaxy Tab A 10.1 | gtanotexlwifikx | SM-P580 |
+| Samsung | Galaxy Tab A 10.1 | gtaxladwifikx | SM-T583 |
 | Samsung | Galaxy Tab A 10.1 | gtaxllte | SM-T585M |
 | Samsung | Galaxy Tab A 10.1 | gtaxllte | SM-T587 |
 | Samsung | Galaxy Tab A 10.1 | gtaxlltekx | SM-T585N0 |
@@ -14661,7 +14676,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab S2 8.0 | gts28lte | SM-T715Y |
 | Samsung | Galaxy Tab S2 8.0 | gts28ltechn | SM-T715C |
 | Samsung | Galaxy Tab S2 8.0 | gts28ltekx | SM-T715N0 |
-| Samsung | Galaxy Tab S2 8.0 | gts28veltechn | SM-T719C |
 | Samsung | Galaxy Tab S2 8.0 | gts28vewifi | SM-T713 |
 | Samsung | Galaxy Tab S2 8.0 | gts28wifi | SM-T710 |
 | Samsung | Galaxy Tab S2 8.0 | gts28wifi | SM-T710X |
@@ -14754,6 +14768,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab4 10.1 | matissewifi | SM-T530X |
 | Samsung | Galaxy Tab4 10.1 | matissewifikx | SM-T530 |
 | Samsung | Galaxy Tab4 10.1 | matissewifiue | SM-T530NU |
+| Samsung | Galaxy Tab4 7 | degasy18wifichn | SM-T230NZ |
 | Samsung | Galaxy Tab4 7.0 | 403SC | 403SC |
 | Samsung | Galaxy Tab4 7.0 | degas2wifi | SM-T230NW |
 | Samsung | Galaxy Tab4 7.0 | degas2wifibmwchn | SM-T230NW |
@@ -14869,6 +14884,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy W | q7lteskt | SM-T255S |
 | Samsung | Galaxy Wide | on7nlteskt | SM-G600S |
 | Samsung | Galaxy Wide2 | j7popelteskt | SM-J727S |
+| Samsung | Galaxy Wide3 | j7toplteskt | SM-J737S |
 | Samsung | Galaxy Win | delos3gcmcc | GT-I8558 |
 | Samsung | Galaxy Win | delos3gduosctc | SCH-I869 |
 | Samsung | Galaxy Win | delos3geur | GT-I8552 |
@@ -15027,6 +15043,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp |  | msm7627_surf | SH8118U |
 | Sharp | 306SH | SG306SH | 306SH |
 | Sharp | 401SH | SG401SH | 401SH |
+| Sharp | 4T-C**AM1 | tcsu2uj | AQUOS-TVJ18 |
 | Sharp | 4T-C50AG1T | LCD_50FOCAG1T | LCD_50FOCAG1T |
 | Sharp | 507SH | eve_sprout | 507SH |
 | Sharp | A01SH | A01SH | A01SH |
