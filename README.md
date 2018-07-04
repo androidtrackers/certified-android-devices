@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 03.07.2018
+Last sync is 04.07.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -286,6 +286,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Advan digital | 5060 | ADVAN_5060 | 5060 |
 | Advan digital | 5061 | ADVAN_5061 | 5061 |
 | Advan digital | A8 | ADVAN_A8 | A8 |
+| Advan digital | ADVAN G2 plus | ADVAN_5701 | 5701 |
 | Advan digital | ADVAN S50 4G | ADVAN_i5G | i5G |
 | Advan digital | E1C | ADVAN_E1C_3G | E1C_3G |
 | Advan digital | E1C NXT | ADVAN_E1C_NXT | S7D |
@@ -2055,6 +2056,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Channel Master | Stream+ | dwt765cha | CM-7600 |
 | Chemist Warehouse | JR-MB603 | JR_MB603 | JR_MB603 |
 | Cherry Mobile | Cherry W900 LTE | al7 | W900 LTE |
+| Cherry Mobile | Desire R6 Lite | Desire_R6_Lite | Desire_R6_Lite |
 | Cherry Mobile | Desire R7 Lite | Desire_R7_Lite | Desire R7 Lite |
 | Cherry Mobile | Desire R8 Lite | Desire_R8_Lite | Desire R8 Lite |
 | Cherry Mobile | FB100 | FB100 | FB100 |
@@ -2110,6 +2112,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Cherry Mobile | Rover 2 | Cherry_Rover_2 | Rover_2 |
 | Cherry Mobile | Selfie Two | Selfie_Two | Selfie_Two |
 | Cherry Mobile | Spin Max | H650 | Spin Max |
+| Cherry Mobile | Spin Max 2 | Spin_Max_2 | Spin Max 2 |
 | Cherry Mobile | Superion Radar Duluxe | Radar_Deluxe | Superion Radar Deluxe |
 | Cherry Mobile | Touch HD | Touch_HD | Cherry_Mobile_Touch_HD |
 | Cherry Mobile | ZP785 | ZP785 | ZP785 |
@@ -2525,6 +2528,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Cubot | CUBOT NOTE Plus | CUBOT_NOTE_Plus | CUBOT NOTE Plus |
 | Cubot | CUBOT R11 | CUBOT_R11 | CUBOT R11 |
 | Cubot | CUBOT X18 | CUBOT_X18 | CUBOT X18 |
+| Cubot | CUBOT_J3_PRO | CUBOT_J3_PRO | CUBOT J3 PRO |
 | Cubot | CUBOT_NOVA | CUBOT_NOVA | CUBOT_NOVA |
 | Cubot | CUBOT_POWER | CUBOT_POWER | CUBOT_POWER |
 | Cubot | DINOSAUR | x5623_h6013_cubot | CUBOT DINOSAUR |
@@ -2876,6 +2880,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Doro | Doro 8035 | DSB0170 | Doro 8035 |
 | Doro | Doro 8040 | DSB0090 | Doro 8040 |
 | Doro | Doro 8042 | DSB0110 | Doro 8042 |
+| Doro | Doro 824 | 825A | Doro 824 |
 | Doro | Liberto 810 | Liberto810 | Doro Liberto 810 |
 | Doro | Liberto 810 | Liberto810 | Doro Liberto 810-orange |
 | Doro | Liberto 810 | Liberto810_S12 | Doro Liberto 810 |
@@ -6884,6 +6889,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Infinix | HOT 4 Pro | X556 | Infinix HOT 4 Pro |
 | Infinix | HOT 6 | Infinix-X606 | Infinix X606 |
 | Infinix | HOT 6 | Infinix-X606B | Infinix X606B |
+| Infinix | HOT 6 | Infinix-X606C | Infinix X606C |
+| Infinix | HOT 6 | Infinix-X606D | Infinix X606D |
 | Infinix | HOT 6 Pro | Infinix-X608 | Infinix X608 |
 | Infinix | HOT NOTE | Infinix-X551 | Infinix-X551 |
 | Infinix | HOT S3 | Infinix-X573 | Infinix X573 |
@@ -7038,6 +7045,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Infocus | Vision 3 Pro | AY2 | IF9029 |
 | Infocus | XT-50IP600 | XT_50IP600 | XT_50IP600 |
 | Ingenico | AXIUM D7 | axium | IngenicoAxium |
+| Ingenico | Moby-M100 | Moby-M100 | Moby-M100 |
 | Ingenico | Moby-M70 | Moby-M70 | IMS-M70-V02 |
 | Inhon | E30 | E30 | E30 |
 | Inhon | L35 | L35 | L35 |
@@ -7152,6 +7160,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Intex | STAARi 10 | AQUA_LIONS_X1_PLUS | INTEX AQUA LIONS X1+ |
 | Intex | STAARi 12 | INTEX_ELYT_E6 | INTEX ELYT E6 |
 | Intex | T1 Plus | INTEX_ELYT_DUAL | INTEX ELYT DUAL |
+| Intex | T1 Plus | INTEX_ELYT_DUAL | INTEX IM0118ND |
 | Intex | i1 | INTEX_i1 | INTEX i1 |
 | Invens | Diamond | Diamond | Diamond |
 | Invens | Eager | Eager | Eager |
@@ -7249,6 +7258,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Itel | A44 | itel-A44 | itel A44 |
 | Itel | A44 Pro | itel-A44-Pro | itel A44 Pro |
 | Itel | A51 | itel_A51 | itel A51 |
+| Itel | A62 | itel-A62 | itel A62 |
+| Itel | F311 | Spice-F311 | Spice F311 |
 | Itel | P11 | itel_P11 | itel P11 |
 | Itel | P12 | itel_P12 | itel P12 |
 | Itel | P31 | itel-P31 | itel P31 |
@@ -7476,6 +7487,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Kempler Strauss | KEMPLER_X | KEMPLER_X | KEMPLER_X |
 | Kenbo | E111 | E111 | E111 |
 | Kenbo | E121 | E121 | E121 |
+| Kenbo | K6 | K6 | K6 |
 | Kenbo | O51 | O51 | O51 |
 | Kennex | MD7053G | MD7053G | MD7053G |
 | Kenwood | KWSA80K | XP8800 | KWSA80K |
@@ -12233,6 +12245,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Pioneer | Car Navigation | AVIC_W6400NEX | Jupiter |
 | Pioneer | Car Navigation | AVIC_W8400NEX | Jupiter |
 | Pioneer | Car Navigation | AVIC_Z710DAB | Jupiter |
+| Pioneer | Car Navigation | AVIC_Z710DAB_C | Jupiter |
+| Pioneer | Car Navigation | AVIC_Z810DAB_C | Jupiter |
 | Pioneer | Car Navigation | AVIC_Z910DAB | Jupiter |
 | Pioneer | CyberNavi | AVIC_CE900 | jupiter |
 | Pioneer | CyberNavi | AVIC_CE901 | jupiter |
@@ -12879,6 +12893,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Reeder | P10SE | P10SE | P10SE |
 | Reeder | P9C | P9C | P9C |
 | Reeder | T8 | reeder_T8 | reeder_T8 |
+| Reeder | Turkcell_T_Tablet | Turkcell_T_Tablet | Turkcell_T_Tablet |
 | Reeder | reeder P12 | P12 | P12 |
 | Rego | Chocolate | chocolate | Rego |
 | Reliance | FL7008 | FL7008 | FL7008 |
@@ -13718,11 +13733,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J7(2016) | j7xeltecmcc | SM-J7108 |
 | Samsung | Galaxy J7(2016) | j7xeltektt | SM-J710K |
 | Samsung | Galaxy J7(2016) | j7xltectc | SM-J7109 |
-| Samsung | Galaxy J7(2017) | j7y17lte | SM-J730G |
-| Samsung | Galaxy J7(2017) | j7y17lte | SM-J730GM |
 | Samsung | Galaxy J7(2017) | j7y17ltektt | SM-J730K |
 | Samsung | Galaxy J7+ | jadelte | SM-C710F |
 | Samsung | Galaxy J8 | j8y18lte | SM-J810F |
+| Samsung | Galaxy J8 | j8y18lte | SM-J810G |
 | Samsung | Galaxy J8 | j8y18lte | SM-J810M |
 | Samsung | Galaxy J8 | j8y18lte | SM-J810Y |
 | Samsung | Galaxy Jean | a6pltektt | SM-A605K |
@@ -14570,6 +14584,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A (2016) | gtaxlwifichn | SM-T580 |
 | Samsung | Galaxy Tab A (2016) with S Pen | gtanotexlwifikx | SM-P580 |
 | Samsung | Galaxy Tab A (2017) | gta2slte | SM-T385 |
+| Samsung | Galaxy Tab A (2017) | gta2slte | SM-T385M |
 | Samsung | Galaxy Tab A (2017) | gta2sltechn | SM-T385C |
 | Samsung | Galaxy Tab A (2017) | gta2sltektt | SM-T385K |
 | Samsung | Galaxy Tab A (2017) | gta2sltelgt | SM-T385L |
@@ -14616,7 +14631,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A 9.7 | gt5note10wifi | SM-P550 |
 | Samsung | Galaxy Tab A 9.7 | gt5note10wifichn | SM-P550 |
 | Samsung | Galaxy Tab A S 8.0 | gt58ltebmc | SM-T357W |
-| Samsung | Galaxy Tab A2 8.0 | gta2slte | SM-T385M |
 | Samsung | Galaxy Tab A2 8.0 | gta2swifichn | SM-T380C |
 | Samsung | Galaxy Tab Active2 | gtactive2lte | SM-T395 |
 | Samsung | Galaxy Tab Active2 | gtactive2ltechn | SM-T395C |
@@ -14768,7 +14782,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab4 10.1 | matissewifi | SM-T530X |
 | Samsung | Galaxy Tab4 10.1 | matissewifikx | SM-T530 |
 | Samsung | Galaxy Tab4 10.1 | matissewifiue | SM-T530NU |
-| Samsung | Galaxy Tab4 7 | degasy18wifichn | SM-T230NZ |
+| Samsung | Galaxy Tab4 7 | degasy18wifi | SM-T230NZ |
 | Samsung | Galaxy Tab4 7.0 | 403SC | 403SC |
 | Samsung | Galaxy Tab4 7.0 | degas2wifi | SM-T230NW |
 | Samsung | Galaxy Tab4 7.0 | degas2wifibmwchn | SM-T230NW |
@@ -15041,6 +15055,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp |  | SH8288U | SH8288U |
 | Sharp |  | SH8298U | SH8298U |
 | Sharp |  | msm7627_surf | SH8118U |
+| Sharp | 2T-C32ACSA, 2T-C32ACMA, 2T-C32ACTA, 2T-C32ACZA | Lcd_32sfinf380a | LCD_32SFINF380A |
 | Sharp | 306SH | SG306SH | 306SH |
 | Sharp | 401SH | SG401SH | 401SH |
 | Sharp | 4T-C**AM1 | tcsu2uj | AQUOS-TVJ18 |
@@ -15213,6 +15228,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp | LCD-40SF465A | Lcd_40foc465a | LCD_40FOC465A |
 | Sharp | LCD-40SF466A, LCD-40TX3000A, LCD-40MX3000A, LCD-40DS3000A, LCD-40X508A | Lcd_40foc466a | LCD_40FOC466A |
 | Sharp | LCD-40SF468A | Lcd_40foc468a | LCD_40FOC468A |
+| Sharp | LCD-40SF480A | Lcd_xxsffoc480a | LCD_xxSFFOC480A |
 | Sharp | LCD-40X418H1A, LCD-40X418H2A, LCD-40X418H3A | LCD_40X418FOCH1A | LCD_40X418FOCH1A |
 | Sharp | LCD-45SF460A | Lcd_45foc46a | LCD_45FOC46A |
 | Sharp | LCD-45SF470A | cv6a648_base | LCD_xxSFFOC470A |
@@ -15299,6 +15315,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp | Star Wars mobile | SW001SH | SW001SH |
 | Sharp | X1 | nasa_sprout | X1 |
 | Sharp | X4 | vespa_sprout | X4-SH |
+| Sharp | XLED-50SU583A | Lcd_xxfoc580a2 | LCD_xxFOC580A2 |
+| Sharp | XLED-65SU583A | Lcd_xxfoc580a1 | LCD_xxFOC580A1 |
 | Sharp | XLED-xxSU580A, XLED-xxZQ580A, XLED-xxMY5200A, XLED-xxTX5200A | lcd_xxcae5a_e | LCD-xxCAE5A-E |
 | Sharp | Yahoo! Phone SoftBank 009SH Y | SBM009SHY | SBM009SHY |
 | Sharp | Z2 | TSP | FS8002 |
@@ -16028,6 +16046,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Symphony | V110 | V110 | V110 |
 | Symphony | V120 | V120 | V120 |
 | Symphony | V130 | V130 | V130 |
+| Symphony | V140 | V140 | V140 |
 | Symphony | V34 | V34 | V34 |
 | Symphony | V44 | V44 | V44 |
 | Symphony | V47 | V47 | V47 |
@@ -16035,6 +16054,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Symphony | V75 | V75 | V75 |
 | Symphony | V75m | V75m | V75m |
 | Symphony | V85 | V85 | V85 |
+| Symphony | V92 | V92 | V92 |
 | Symphony | V96 | V96 | V96 |
 | Symphony | Z10 | Z10 | SYMPHONY Z10 |
 | Symphony | ZVII | ZVII | ZVII |
@@ -17235,6 +17255,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | PHANTOM-Z-mini | PTM-Z-mini | PTM-Z-mini |
 | Tecno | PHANTOM5 | TECNO-PHANTOM5 | TECNO-PHANTOM5 |
 | Tecno | POP 1 Pro | TECNO-F3-13M | TECNO F3 |
+| Tecno | POP 1s | TECNO-F4 | TECNO F4 |
 | Tecno | POP1 | TECNO-F3 | TECNO F3 |
 | Tecno | Phantom6 | Phantom6 | Phantom6 |
 | Tecno | Phantom6 plus | Phantom6-Plus | Phantom6-Plus |
@@ -17640,7 +17661,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vertex | Impress_Bear | Impress_Bear | Impress_Bear |
 | Vertex | Impress_Disco | Impress_Disco | Impress Disco |
 | Vertex | Impress_Frost | Impress_Frost | Impress_Frost |
+| Vertex | Impress_Game | Impress_Game | Impress_Game |
 | Vertex | Impress_Lagune | Impress_Lagune | Impress_Lagune |
+| Vertex | Impress_New | Impress_New | Impress_New |
 | Vertex | Impress_Wolf | Impress_Wolf | Impress_Wolf |
 | Vertex | Lion_Dual | Lion_Dual | Lion_Dual |
 | Vertex | S1 | GlocalMe_S1 | G1701 |
@@ -17875,6 +17898,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vivo | Y937 | PD1503 | vivo Y937 |
 | Vivo | Z1 | PD1730C | vivo Z1 |
 | Vivo | vivo  X21i  A | PD1801 | vivo X21i A |
+| Vivo | vivo  Y75s | PD1708C | vivo Y75s |
 | Vivo | vivo  Y85A | PD1730 | vivo Y85A |
 | Vivo | vivo 1611 | 1611 | vivo 1611 |
 | Vivo | vivo 1714 | 1714 | vivo 1714 |
@@ -18197,6 +18221,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Wiko | TOMMY2 | V3931AC | TOMMY2 |
 | Wiko | TOMMY2 | V3933AC | TOMMY2 |
 | Wiko | Tommy2 Plus | v3941 | Tommy2 Plus |
+| Wiko | Tommy3 | W_C200SN | Tommy3 |
 | Wiko | Tommy3 | W_C201 | Tommy3 |
 | Wiko | U FEEL | P6601AE | U FEEL |
 | Wiko | U FEEL | P6609BC | U FEEL |
