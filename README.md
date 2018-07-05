@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 04.07.2018
+Last sync is 05.07.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1636,6 +1636,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blackfox | BMM541D | BMM541D | BMM541D |
 | Blackfox | BMM542D | BMM542D | BMM542D |
 | Blackfox | BMM_533D | BMM_533D | BMM_533D |
+| Blackview | A20 | A20 | A20 |
 | Blackview | A5 | A5 | A5 |
 | Blackview | A7 | A7 | A7 |
 | Blackview | A7PRO | A7Pro | A7Pro |
@@ -1941,6 +1942,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Camelus | L10 | TR-10HBT | L10 |
 | Camelus | L7 | TR-7U | L7 |
 | Camfone | CamPad P7 | CamPad_P7 | CamPad_P7 |
+| Camfone | Hero 11 | Hero_11 | Hero 11 |
 | Camfone | Hero H7 Plus | Hero_H7_Plus | Hero_H7_Plus |
 | Camfone | Hero H9 | Hero_H9 | Hero_H9 |
 | Camfone | Hero X | Hero_X | Hero X |
@@ -2631,6 +2633,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Danew | Dslide971DC | Dslide971DC | Dslide971DC |
 | Danew | Konnect 402 | Konnect402 | Konnect402 |
 | Danew | Konnect 504 | Konnect_504 | Konnect_504 |
+| Danew | Konnect 506 | Konnect506 | Konnect506 |
 | Danew | Konnect 510 colors | Konnect_510 | Konnect_510_colors |
 | Danew | Konnect 560 Cin\xc3\xa9pix | Konnect_560 | Konnect_560 |
 | Danew | Surnaturel_R500 | Surnaturel_R500 | Surnaturel_R500 |
@@ -2827,6 +2830,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Doogee | X30 | X30 | X30 |
 | Doogee | X5  MAX | X5max | X5max |
 | Doogee | X5 max pro | X5max_PRO | X5max_PRO |
+| Doogee | X50 | X50 | X50 |
+| Doogee | X50L | X50L | X50L |
 | Doogee | X53 | X53 | X53 |
 | Doogee | X55 | X55 | X55 |
 | Doogee | X60L | t596_dg_d5506_x60l | X60L |
@@ -3012,6 +3017,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Emerson | EM9 | EM9 | EM9 |
 | Emtec | F400 | f400 | f400 |
 | Emtec | Gaming Android Gem Box | F500 | Gem Box F500 |
+| Energizer | EnergyE500 | EnergyE500 | EnergyE500 |
 | Energizer | H550S | HARDCASEH550S | HARDCASEH550S |
 | Energizer | HARDCASEH500S | HARDCASEH500S | HARDCASEH500S |
 | Energizer | PowerMaxP550S | PowerMaxP550S | P550S |
@@ -14016,11 +14022,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy On Nxt | on7xelte | SM-G610F |
 | Samsung | Galaxy On5 | o5lte | SM-G550FY |
 | Samsung | Galaxy On5 | o5ltechn | SM-G5500 |
-| Samsung | Galaxy On5 | o5prolte | SM-G550FY |
 | Samsung | Galaxy On5 | on5ltemtr | SM-G550T1 |
 | Samsung | Galaxy On5 | on5ltetfntmo | SM-S550TL |
 | Samsung | Galaxy On5 | on5ltetmo | SM-G550T |
 | Samsung | Galaxy On5 | on5ltetmo | SM-G550T2 |
+| Samsung | Galaxy On5 Pro | o5prolte | SM-G550FY |
 | Samsung | Galaxy On5(2016) | on5xfltechn | SM-G5520 |
 | Samsung | Galaxy On5(2016) | on5xfltechn | SM-G5528 |
 | Samsung | Galaxy On5(2016) | on5xlltechn | SM-G5510 |
@@ -14393,7 +14399,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy S6 Edge | zeroltebmc | SM-G925W8 |
 | Samsung | Galaxy S6 Edge | zeroltechn | SM-G9250 |
 | Samsung | Galaxy S6 Edge | zeroltektt | SM-G925K |
-| Samsung | Galaxy S6 Edge | zeroltelgt | SM-G925L |
 | Samsung | Galaxy S6 Edge | zeroltelra | SM-G925R6 |
 | Samsung | Galaxy S6 Edge | zerolteskt | SM-G925S |
 | Samsung | Galaxy S6 Edge | zeroltespr | SM-G925P |
@@ -14402,7 +14407,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy S6 Edge | zeroltevzw | SM-G925V |
 | Samsung | Galaxy S6 Edge+ | zenlte | SM-G9287C |
 | Samsung | Galaxy S6 Edge+ | zenlte | SM-G928C |
-| Samsung | Galaxy S6 Edge+ | zenlte | SM-G928F |
 | Samsung | Galaxy S6 Edge+ | zenlte | SM-G928G |
 | Samsung | Galaxy S6 Edge+ | zenlte | SM-G928I |
 | Samsung | Galaxy S6 Edge+ | zenlte | SM-G928X |
@@ -14417,7 +14421,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy S6 Edge+ | zenltetmo | SM-G928T |
 | Samsung | Galaxy S6 Edge+ | zenlteusc | SM-G928R4 |
 | Samsung | Galaxy S6 Edge+ | zenltevzw | SM-G928V |
+| Samsung | Galaxy S6 edge | zeroltelgt | SM-G925L |
 | Samsung | Galaxy S6 edge+ | zenlte | SM-G9287 |
+| Samsung | Galaxy S6 edge+ | zenlte | SM-G928F |
 | Samsung | Galaxy S7 | herolte | SM-G930F |
 | Samsung | Galaxy S7 | herolte | SM-G930X |
 | Samsung | Galaxy S7 | heroltebmc | SM-G930W8 |
@@ -14449,12 +14455,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy S7 Edge | hero2qltecctvzw | SM-G935VC |
 | Samsung | Galaxy S7 Edge | hero2qltespr | SM-G935P |
 | Samsung | Galaxy S7 Edge | hero2qltetmo | SM-G935T |
-| Samsung | Galaxy S7 Edge | hero2qlteue | SM-G935U |
 | Samsung | Galaxy S7 Edge | hero2qlteusc | SM-G935R4 |
 | Samsung | Galaxy S7 Edge | hero2qltevzw | SM-G935V |
 | Samsung | Galaxy S7 edge | hero2lte | SM-G935F |
 | Samsung | Galaxy S7 edge | hero2ltelgt | SM-G935L |
 | Samsung | Galaxy S7 edge | hero2qltechn | SM-G9350 |
+| Samsung | Galaxy S7 edge | hero2qlteue | SM-G935U |
 | Samsung | Galaxy S8 | SC-02J | SC-02J |
 | Samsung | Galaxy S8 | SCV36 | SCV36 |
 | Samsung | Galaxy S8 | dreamlte | SM-G950F |
@@ -14577,6 +14583,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A | gt510lte | SM-T555 |
 | Samsung | Galaxy Tab A | gt510wifi | SM-T550 |
 | Samsung | Galaxy Tab A | gt5note10wifi | SM-P550 |
+| Samsung | Galaxy Tab A | gt5note8lte | SM-P355M |
 | Samsung | Galaxy Tab A | gt5note8ltechn | SM-P355C |
 | Samsung | Galaxy Tab A (2016) | gtaxllte | SM-T585 |
 | Samsung | Galaxy Tab A (2016) | gtaxlltechn | SM-T585C |
@@ -14613,7 +14620,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A 8.0 | gt58wifichn | SM-T350 |
 | Samsung | Galaxy Tab A 8.0 | gt58wifichn | SM-T350X |
 | Samsung | Galaxy Tab A 8.0 | gt5note8lte | SM-P355 |
-| Samsung | Galaxy Tab A 8.0 | gt5note8lte | SM-P355M |
 | Samsung | Galaxy Tab A 8.0 | gt5note8ltechn | SM-P355Y |
 | Samsung | Galaxy Tab A 8.0 | gt5note8wifi | SM-P350 |
 | Samsung | Galaxy Tab A 8.0 | gt5note8wifichn | SM-P350 |
@@ -15887,6 +15893,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sourcing Creation | ST1003S | T1882R | Smart_TAB_1003s |
 | Sourcing Creation | Smart TAB 1005 | M16Q1C | SmartTab1005 |
 | Sourcing Creation | Smart Tab 1004XS | SmartTab_1004_XS | SmartTab_1004_XS |
+| Sourcing Creation | Smart Tab 1006 | M16Q1A | SmartTab1006 |
 | Sourcing Creation | Smart\' Tab 1006 | M16Q1A | SmartTab1006 |
 | Sourcing Creation | SmartTab_8004 | T814 | SmartTab_8004 |
 | Sourcing Creation | Web\'Pad_1002_02 | Webpad_1002_02 | Webpad_1002_02 |
@@ -17949,6 +17956,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vkworld | Mix_Plus | Mix_Plus | Mix_Plus |
 | Vkworld | S8 | vkworld_S8 | S8 |
 | Vmobile | A10_Y | A10_Y | A10_Y |
+| Vmobile | A11_Y | A11_Y | A11_Y |
 | Vmobile | A13 | A13 | A13 |
 | Vodafone | 785 | Vodafone_785 | Vodafone 785 |
 | Vodafone | 895 | VF-895N | VF-895N |
