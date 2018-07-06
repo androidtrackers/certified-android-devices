@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 05.07.2018
+Last sync is 06.07.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1644,6 +1644,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blackview | A9 Pro | A9_Pro | A9_Pro |
 | Blackview | BV4000 | BV4000 | BV4000 |
 | Blackview | BV4000Pro_RU | BV4000Pro | BV4000Pro-RU |
+| Blackview | BV5800PRO | BV5800_PRO | BV5800 PRO |
 | Blackview | BV6000 | Blackview | BV6000 |
 | Blackview | BV6000 | SOLID_4G1 | SOLID_4G1 |
 | Blackview | BV6000S_RU | BV6000S_RU | BV6000S_RU |
@@ -2978,6 +2979,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Elephone | U | Elephone_U | U |
 | Elephone | U_Pro | U_Pro | U_Pro |
 | Elevate | LUNA G60 | G60 | LUNA G60 |
+| Elevate | LUNA G60X | G60X | LUNA G60X |
 | Elevate | LUNA V55 | V55 | LUNA V55 |
 | Elevate | LUNA V57 | V57 | LUNA V57 |
 | Elevate | R50A | R50A | R50A |
@@ -3214,6 +3216,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Figi | Mone | Mone | Mone |
 | Figo | ATRIUM II F55L2 | F55L2 | ATRIUM II F55L2 |
 | Figo | CENTRIC S50G | S50G | CENTRIC S50G |
+| Filih | FX4423 | FX4423 | FX4423 |
 | Finggo | FWSP-S1000 | FWSP-S1000-HW | FWSP-S1000 |
 | Finggo | FWTA-T1000 | FWTA-T1000 | FWTA-T1000 |
 | FirstNationalBank | FNB | SP5045V | SP5045V |
@@ -6071,6 +6074,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | Honor Magic | HWNTS | NTS-AL00 |
 | Huawei | Honor Play | HWCOR | COR-AL00 |
 | Huawei | Honor Play | HWCOR | COR-AL10 |
+| Huawei | Honor Play | HWCOR | COR-L29 |
 | Huawei | Honor Play | HWCOR | COR-TL10 |
 | Huawei | Honor V10 | HWBKL | BKL-AL00 |
 | Huawei | Honor V10 | HWBKL | BKL-AL20 |
@@ -7164,6 +7168,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Intex | Intex Aqua FulVU e5 | AQUA_FulVU_e5 | INTEX AQUA FulVU e5 |
 | Intex | Intex Aqua FulVU e5 | AQUA_FulVU_e5 | INTEX IP0518ND |
 | Intex | STAARi 10 | AQUA_LIONS_X1_PLUS | INTEX AQUA LIONS X1+ |
+| Intex | STAARi 10 | AQUA_LIONS_X1_PLUS | INTEX IP0218ND |
 | Intex | STAARi 12 | INTEX_ELYT_E6 | INTEX ELYT E6 |
 | Intex | T1 Plus | INTEX_ELYT_DUAL | INTEX ELYT DUAL |
 | Intex | T1 Plus | INTEX_ELYT_DUAL | INTEX IM0118ND |
@@ -7248,6 +7253,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Iris | VOX  Energy | VOX_Energy | VOX Energy |
 | Iris | VOX  STEEL Plus | VOX_STEEL_Plus | VOX STEEL Plus |
 | Iris | VOX  STEEL Plus | VOX_STEEL_Plus_V2 | VOX STEEL Plus |
+| Iris | Vox_5S | Vox_5S | Vox_5S |
 | Isafe | IS520.1 | IS520_1 | IS520_1 |
 | Itel | A11 | itel_A11 | itel A11 |
 | Itel | A12 | itel_A12 | itel A12 |
@@ -7268,6 +7274,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Itel | F311 | Spice-F311 | Spice F311 |
 | Itel | P11 | itel_P11 | itel P11 |
 | Itel | P12 | itel_P12 | itel P12 |
+| Itel | P13 | itel-P13 | itel P13 |
 | Itel | P31 | itel-P31 | itel P31 |
 | Itel | P32 | itel-P32 | itel P32 |
 | Itel | P51 | P51 | itel P51 |
@@ -7568,6 +7575,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Kyocera | 404KC | 404KC | 404KC |
 | Kyocera | 503KC | 503KC | 503KC |
 | Kyocera | 602KC | 602KC | 602KC |
+| Kyocera | 704KC | 704KC | 704KC |
 | Kyocera | Android One S2 | S2_sprout | S2 |
 | Kyocera | BASIO | KYV32 | KYV32 |
 | Kyocera | BASIO 3 | KYV43 | KYV43 |
@@ -10504,6 +10512,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | MobiiStar | PRIME X MAX 2018 | PRIME_X_MAX_2018 | PRIME X MAX 2018 |
 | MobiiStar | S3 Dual | S3_Dual | S3 Dual |
 | MobiiStar | X1 Dual | X1_Dual | X1 Dual |
+| MobiiStar | X1 Selfie | X1_Selfie | X1 Selfie |
 | MobiiStar | XQ Dual | XQ_Dual | XQ Dual |
 | MobiiStar | ZORO 4G | mobiistar_ZORO_4G | mobiistar_ZORO_4G |
 | MobiiStar | ZORO 5 | ZORO_5 | mobiistar ZORO 5 |
@@ -11338,6 +11347,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Neffos | TP703A | C5a | Neffos C5a |
 | Neffos | TP704A | C5s | Neffos C5s |
 | Neffos | TP704A | Y5_Lite | Neffos Y5 Lite |
+| Neffos | TP705 | C7A | Neffos_C7A |
 | Neffos | X1 Lite | X1_Lite | Neffos X1 Lite |
 | Neffos | Y5 | Y5 | Neffos Y5 |
 | Neffos | Y50 | Y50 | Neffos Y50 |
@@ -11405,6 +11415,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nokia | Nokia 3 | NE1 | TA-1038 |
 | Nokia | Nokia 3.1 | ES2N_sprout | Nokia 3.1 |
 | Nokia | Nokia 3.1 | ES2_sprout | Nokia 3.1 |
+| Nokia | Nokia 5 | CO2N_sprout | Nokia 5.1 |
 | Nokia | Nokia 5 | ND1 | TA-1024 |
 | Nokia | Nokia 5 | ND1 | TA-1027 |
 | Nokia | Nokia 5 | ND1 | TA-1044 |
@@ -11417,6 +11428,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nokia | Nokia 6 | PLE | TA-1025 |
 | Nokia | Nokia 6 | PLE | TA-1033 |
 | Nokia | Nokia 6 | PLE | TA-1039 |
+| Nokia | Nokia 6 Plus | DRG_sprout | Nokia 6.1 Plus |
 | Nokia | Nokia 6.1 | PL2 | Nokia 6.1 |
 | Nokia | Nokia 6.1 | PL2_sprout | Nokia 6.1 |
 | Nokia | Nokia 7 | C1N | TA-1041 |
@@ -13194,6 +13206,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy A8 Star | astarqlte | SM-G885F |
 | Samsung | Galaxy A8 Star | astarqlte | SM-G885Y |
 | Samsung | Galaxy A8 Star | astarqltechn | SM-G8850 |
+| Samsung | Galaxy A8 Star | astarqlteskt | SM-G885S |
 | Samsung | Galaxy A8(2016) | a8xelte | SM-A810F |
 | Samsung | Galaxy A8(2016) | a8xelte | SM-A810YZ |
 | Samsung | Galaxy A8(2016) | a8xelteskt | SM-A810S |
@@ -14391,7 +14404,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy S6 Edge | 404SC | 404SC |
 | Samsung | Galaxy S6 Edge | SC-04G | SC-04G |
 | Samsung | Galaxy S6 Edge | SCV31 | SCV31 |
-| Samsung | Galaxy S6 Edge | zerolte | SM-G925F |
 | Samsung | Galaxy S6 Edge | zerolte | SM-G925I |
 | Samsung | Galaxy S6 Edge | zerolte | SM-G925X |
 | Samsung | Galaxy S6 Edge | zerolteacg | SM-G925R7 |
@@ -14421,6 +14433,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy S6 Edge+ | zenltetmo | SM-G928T |
 | Samsung | Galaxy S6 Edge+ | zenlteusc | SM-G928R4 |
 | Samsung | Galaxy S6 Edge+ | zenltevzw | SM-G928V |
+| Samsung | Galaxy S6 edge | zerolte | SM-G925F |
 | Samsung | Galaxy S6 edge | zeroltelgt | SM-G925L |
 | Samsung | Galaxy S6 edge+ | zenlte | SM-G9287 |
 | Samsung | Galaxy S6 edge+ | zenlte | SM-G928F |
@@ -14582,6 +14595,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab 8.9 | SHW-M305W | SHW-M305W |
 | Samsung | Galaxy Tab A | gt510lte | SM-T555 |
 | Samsung | Galaxy Tab A | gt510wifi | SM-T550 |
+| Samsung | Galaxy Tab A | gt5note10lte | SM-P555M |
 | Samsung | Galaxy Tab A | gt5note10wifi | SM-P550 |
 | Samsung | Galaxy Tab A | gt5note8lte | SM-P355M |
 | Samsung | Galaxy Tab A | gt5note8ltechn | SM-P355C |
@@ -14628,7 +14642,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A 9.7 | gt510wifichn | SM-T550 |
 | Samsung | Galaxy Tab A 9.7 | gt510wifichn | SM-T550X |
 | Samsung | Galaxy Tab A 9.7 | gt5note10lte | SM-P555 |
-| Samsung | Galaxy Tab A 9.7 | gt5note10lte | SM-P555M |
 | Samsung | Galaxy Tab A 9.7 | gt5note10ltechn | SM-P555C |
 | Samsung | Galaxy Tab A 9.7 | gt5note10ltehktw | SM-P555Y |
 | Samsung | Galaxy Tab A 9.7 | gt5note10ltektt | SM-P555K |
@@ -14996,6 +15009,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Rugby Smart | SGH-I847 | SAMSUNG-SGH-I847 |
 | Samsung | SM G9298 | venenoltechn | SM-G9298 |
 | Samsung | SM-G9198 | philippeltechn | SM-G9198 |
+| Samsung | SM-T230NZ | degasy18wifichn | SM-T230NZ |
 | Samsung | SM-W2018 | kellyltechn | SM-W2018 |
 | Samsung | SM-W2018 | kellyltechn | SM-W2018X |
 | Samsung | Sidekick | SGH-T839 | SGH-T839 |
@@ -17534,6 +17548,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | True | SMART_Champ_4inch | SMART_Champ_4inch | SMART Champ 4.0 |
 | True | SMART_MAX_4.0_PLUS | P909 | SMART_MAX_4.0_PLUS |
 | TuCEL | TC504B | TC504B | TC504B |
+| TuCEL | TL554B | TL554B | TL554B |
 | Tunisie Telecom | Star Trail by TT | startrail3_tt | StarTrail TT |
 | Turbokids | Princess | Princess | Princess |
 | Turbokids | Turbokids-TMNT | Turbokids_TMNT | Turbokids-TMNT |
@@ -17831,6 +17846,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Visual Land | Prestige Prime11E | Prime11E | Prime11E |
 | Vitsmo | Zero Spin | Zero_Spin | Zero_Spin |
 | Viumee | EV6 ELITE | EV6_ELITE | EV6 ELITE |
+| Viumee | SMART EV5 | SMART_EV5 | SMART_EV5 |
 | Vivax | FUN S20 | FUN_S20 | FUN_S20 |
 | Vivax | Point X502 | Point_X502 | Point X502 |
 | Vivax | VIVAX_Fly_V1 | VIVAX_Fly_V1 | VIVAX_Fly_V1 |
@@ -18308,6 +18324,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | X-View | PROTON_AMBER_HD | Proton_Amber_HD | Proton_Amber_HD |
 | Xcell | Enia | Xcell_Enia | Enia |
 | Xcell | Zoom | Xcell_Zoom | Zoom |
+| Xgody | X24_EU | X24_EU | X24_EU |
 | Xiaomi | China | braveheart | MiTV |
 | Xiaomi | HM 1SC | armani | HM 1AC |
 | Xiaomi | HM 1SC | armani | HM 1S |
