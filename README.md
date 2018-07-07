@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 06.07.2018
+Last sync is 07.07.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2556,6 +2556,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DEA Factory | KTAB | KTAB | KTAB |
 | DEXP | AS160 | AS160 | AS160 |
 | DEXP | B350 | B350 | B350 |
+| DEXP | B450 | B450 | B450 |
 | DEXP | BS250 | BS250 | BS250 |
 | DEXP | DEXP B145 | B145 | B145 |
 | DEXP | DEXP G150 | G150 | G150 |
@@ -7158,6 +7159,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Intex | INDIE 15 | AQUA_LIONS_X1 | INTEX AQUA LIONS X1 |
 | Intex | INDIE 15 | AQUA_LIONS_X1 | INTEX IM0418ND |
 | Intex | INDIE 5 | INTEX_AQUA_LIONS_3 | INTEX AQUA LIONS 3 |
+| Intex | INFIE 33 | AQUA_FulVU_e5 | INTEX AQUA FulVU e5 |
+| Intex | INFIE 33 | AQUA_FulVU_e5 | INTEX IP0518ND |
 | Intex | INTEX  AQUA Lions T1 | AQUA_LIONS_T1 | INTEX AQUA LIONS T1 |
 | Intex | INTEX AQUA AMAZE+ | INTEX_AQUA_AMAZE_PLUS | INTEX AQUA AMAZE+ |
 | Intex | INTEX AQUA NOTE 5.5 | AQUA_NOTE_5_5 | INTEX AQUA NOTE 5.5 |
@@ -7165,8 +7168,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Intex | INTEX AQUA STYLE 3 | INTEX_AQUA_STYLE_3 | INTEX AQUA STYLE 3 |
 | Intex | INTEX Aqua Selfie | INTEX_AQUA_SELFIE | INTEX AQUA SELFIE |
 | Intex | INTEX_AQUA_S3 | INTEX_AQUA_S3 | INTEX AQUA S3 |
-| Intex | Intex Aqua FulVU e5 | AQUA_FulVU_e5 | INTEX AQUA FulVU e5 |
-| Intex | Intex Aqua FulVU e5 | AQUA_FulVU_e5 | INTEX IP0518ND |
 | Intex | STAARi 10 | AQUA_LIONS_X1_PLUS | INTEX AQUA LIONS X1+ |
 | Intex | STAARi 10 | AQUA_LIONS_X1_PLUS | INTEX IP0218ND |
 | Intex | STAARi 12 | INTEX_ELYT_E6 | INTEX ELYT E6 |
@@ -10428,6 +10429,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Mint | M55LD | Mint_fire | Mint_M55LD |
 | Mint | MINT Pandora | MINT_Pandora | MINT Pandora |
 | Mint | MINT_Pearl_plus | MINT_Pearl_plus | Pearl+_M5PD |
+| Mint | Mint Leo | Mint_Leo | Mint Leo |
+| Mint | Mint VirGo | Mint_VirGo | Mint VirGo |
 | Mint | Pearl_Neo | Pearl_Neo | Pearl_Neo |
 | Mintt | A1 | A1 | A1 |
 | Mintt | M1 | M1 | M1 |
@@ -11650,12 +11653,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oppo | CPH1727 | CPH1727 | CPH1727 |
 | Oppo | CPH1729 | CPH1729 | CPH1729 |
 | Oppo | CPH1801 | CPH1801 | CPH1801 |
+| Oppo | CPH1803 | CPH1803 | CPH1803 |
 | Oppo | CPH1807 | CPH1807 | CPH1807 |
 | Oppo | CPH1819 | CPH1819 | CPH1819 |
 | Oppo | CPH1821 | CPH1821 | CPH1821 |
 | Oppo | CPH1827 | CPH1827 | CPH1827 |
 | Oppo | CPH1831 | CPH1831 | CPH1831 |
 | Oppo | CPH1835 | CPH1835 | CPH1835 |
+| Oppo | CPH1837 | CPH1837 | CPH1837 |
 | Oppo | CPH1859 | CPH1859 | CPH1859 |
 | Oppo | CPH1861 | CPH1861 | CPH1861 |
 | Oppo | F1f | F1f | F1f |
@@ -13612,9 +13617,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J2 Prime | grandpplte | SM-G532G |
 | Samsung | Galaxy J2 Prime | grandpplte | SM-G532M |
 | Samsung | Galaxy J2 Pro | j2y18lte | SM-J250G |
+| Samsung | Galaxy J2 Pro | j2y18lte | SM-J250M |
 | Samsung | Galaxy J2(2016) | j2xlte | SM-J210F |
 | Samsung | Galaxy J2(2016) | j2xlteins | SM-J210F |
-| Samsung | Galaxy J2(2018) | j2y18lte | SM-J250M |
 | Samsung | Galaxy J3 | j3ltectc | SM-J3109 |
 | Samsung | Galaxy J3 | j3ltespr | SM-J320P |
 | Samsung | Galaxy J3 | j3popelteue | SM-J327U |
@@ -13742,6 +13747,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J7 Pro | j7y17lte | SM-J730G |
 | Samsung | Galaxy J7 Pro | j7y17lte | SM-J730GM |
 | Samsung | Galaxy J7 Star | j7topltetmo | SM-J737T |
+| Samsung | Galaxy J7 V | j7topeltevzw | SM-J737V |
+| Samsung | Galaxy J7 V | j7topeltevzw | SM-J737VPP |
 | Samsung | Galaxy J7(2015) | j7ltespr | SM-J700P |
 | Samsung | Galaxy J7(2016) | j7eltemtr | SM-J700T1 |
 | Samsung | Galaxy J7(2016) | j7eltetmo | SM-J700T |
