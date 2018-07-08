@@ -12,7 +12,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 
 EOF
 cat head README.md > temp && mv temp README.md
-sudo date -s '+2 hour'
 git config --global user.email "$gitmail"; git config --global user.name "$gituser"
-git add README.md; git commit -m "$(date +%d.%m.%Y)"; git log
+git add README.md; git commit -m "$(date +%d.%m.%Y)"
 git push -q https://$GIT_OAUTH_TOKEN_XFU@github.com/yshalsager/certified-android-devices.git HEAD:master
