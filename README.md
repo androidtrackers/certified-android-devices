@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 09.07.2018
+Last sync is 10.07.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4097,6 +4097,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | HTC | Desire 12+ | htc_brepdugl | HTC 2Q5W2 |
 | HTC | Desire 12+ | htc_brepdugl | HTC Desire 12+ |
 | HTC | Desire 12+ | htc_brepdugl | HTC ZQ5W10000 |
+| HTC | Desire 12+ | htc_brepuhl | HTC Desire 12+ |
 | HTC | Desire 200 | gtou | HTC Desire 200 |
 | HTC | Desire 200 | gtou | HTC_Desire_200 |
 | HTC | Desire 210 dual sim | htc_v0_dug | HTC Desire 210 dual sim |
@@ -4612,6 +4613,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | HTC | U12+ | htc_imedugl | HTC U12+ |
 | HTC | U12+ | htc_imeuhl | HTC 2Q552 |
 | HTC | U12+ | htc_imeuhl | HTC U12+ |
+| HTC | U12+ | htc_imeuhljp | HTC U12+ |
 | HTC | Velocity 4G | holiday | HTC PH39100 |
 | HTC | Velocity 4G | holiday | HTC Raider X710e |
 | HTC | Velocity 4G | holiday | HTC Velocity 4G |
@@ -8440,6 +8442,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG Phoenix 2 | m1v | LG-K371 |
 | LGE | LG Phoenix 4 | cv1 | LM-X210APM |
 | LGE | LG Power | y50c | LGL22C |
+| LGE | LG Premier Pro | cv3 | LM-X410(FG) |
+| LGE | LG Premier Pro | cv3 | LM-X410.F |
+| LGE | LG Premier Pro | cv3 | LM-X410.FG |
+| LGE | LG Premier Pro | cv3 | LM-X410.FGN |
+| LGE | LG Premier Pro | cv3 | LML413DL |
+| LGE | LG Premier Pro | cv3 | LML414DL |
 | LGE | LG Prime II | v10 | LG-X170fTV |
 | LGE | LG Prime II | v10 | LG-X170g |
 | LGE | LG Prime Plus 4G | mc90ds | LG-H522 |
@@ -8594,12 +8602,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG-E985T | gvarfhd | LG-E985 |
 | LGE | LG-E985T | gvarfhd | LG-E985T |
 | LGE | LGL22 | g2 | LGL22 |
-| LGE | LML413DL | cv3 | LM-X410(FG) |
-| LGE | LML413DL | cv3 | LM-X410.F |
-| LGE | LML413DL | cv3 | LM-X410.FG |
-| LGE | LML413DL | cv3 | LM-X410.FGN |
-| LGE | LML413DL | cv3 | LML413DL |
-| LGE | LML413DL | cv3 | LML414DL |
 | LGE | Marquee | L-07C | L-07C |
 | LGE | Marquee | LG855 | LG-LG855 |
 | LGE | Marquee | LS855 | LG-LS855 |
@@ -9930,6 +9932,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | MDC Store | Grand | Grand | Grand |
 | MDC Store | MDC GrandPro | MDC_Grand_Pro | Grand Pro |
 | MDC Store | Nova | Nova | Nova |
+| MDC Store | Nova Pro | Nova_Pro | Nova Pro |
 | MDC Store | Optima | Optima | Optima |
 | MDC Store | Prime_S | Prime_S | Prime_S |
 | MG Series | Any 302 | TR10CS2_3 | TR10CS2 |
@@ -11250,6 +11253,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | NOA Mobile | Forte_se | Forte_se | Forte_se |
 | NOA Mobile | Hummer | Hummer | Hummer |
 | NOA Mobile | N1 | N1 | N1 |
+| NOA Mobile | N7 | NOA_N7 | N7 |
 | NOA Mobile | N8 | NOA_N8 | NOA_N8 |
 | NOA Mobile | NextSE | NextSE | NextSE |
 | NOA Mobile | SPRINT 4G | SPRINT4G | SPRINT4G |
@@ -11867,6 +11871,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oukitel | K5000 | K5000 | K5000 |
 | Oukitel | K6 | K6 | K6 |
 | Oukitel | K6000 Plus | K6000_Plus | K6000 Plus |
+| Oukitel | K7 | OUKITEL_K7 | K7 |
 | Oukitel | K8000 | K8000 | K8000 |
 | Oukitel | MIX 2 | MIX_2 | MIX 2 |
 | Oukitel | OK6000 PLUS | OK6000_Plus | OK6000 Plus |
@@ -13009,6 +13014,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | STF Mobile | NATIVO | NATIVO | NATIVO |
 | STF Mobile | Origins Pro | Origins_Pro | Origins Pro |
 | STF Mobile | STF-BLOCK | Block | Block |
+| STG Telecom | STG A1 | STG_A1 | STG A1 |
+| STG Telecom | STG A1 Pro | STG_A1_Pro | STG A1 Pro |
+| STG Telecom | STG X1 | STG_X1 | STG X1 |
 | STIP | MS9 | MS9 | MS9 |
 | STK(Santok) | Hero X | STK_Hero_X | STK_Hero_X |
 | STK(Santok) | STK Ace Plus | Ace_Plus | STK Ace Plus |
@@ -13717,6 +13725,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J7 | j7elte | SM-J700F |
 | Samsung | Galaxy J7 | j7elte | SM-J700M |
 | Samsung | Galaxy J7 | j7ltechn | SM-J7008 |
+| Samsung | Galaxy J7 | j7topeltevzw | SM-J737VPP |
 | Samsung | Galaxy J7 | j7y17lte | SM-J730F |
 | Samsung | Galaxy J7 | j7y17lte | SM-J730FM |
 | Samsung | Galaxy J7 Duo | j7duolte | SM-J720F |
@@ -13748,7 +13757,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J7 Pro | j7y17lte | SM-J730GM |
 | Samsung | Galaxy J7 Star | j7topltetmo | SM-J737T |
 | Samsung | Galaxy J7 V | j7topeltevzw | SM-J737V |
-| Samsung | Galaxy J7 V | j7topeltevzw | SM-J737VPP |
 | Samsung | Galaxy J7(2015) | j7ltespr | SM-J700P |
 | Samsung | Galaxy J7(2016) | j7eltemtr | SM-J700T1 |
 | Samsung | Galaxy J7(2016) | j7eltetmo | SM-J700T |
@@ -14444,6 +14452,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy S6 edge | zeroltelgt | SM-G925L |
 | Samsung | Galaxy S6 edge+ | zenlte | SM-G9287 |
 | Samsung | Galaxy S6 edge+ | zenlte | SM-G928F |
+| Samsung | Galaxy S6 edge+ | zenlte | SM-G928G |
 | Samsung | Galaxy S7 | herolte | SM-G930F |
 | Samsung | Galaxy S7 | herolte | SM-G930X |
 | Samsung | Galaxy S7 | heroltebmc | SM-G930W8 |
@@ -15332,6 +15341,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp | SHARP R1S | SK3 | FS8028 |
 | Sharp | SHARP TBC | SI3 | FS8025 |
 | Sharp | Sharp A Click | AH3 | IF9003 |
+| Sharp | Sharp HH6 | HH6_sprout | FS8032 |
 | Sharp | Sharp Pi | AG3 | IF9007 |
 | Sharp | Sharp R1 | SE3_TH | FS8014 |
 | Sharp | Sharp R1 | SE3_VN | FS8014 |
