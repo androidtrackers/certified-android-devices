@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 10.07.2018
+Last sync is 11.07.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -162,6 +162,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Acer | GT-810 | rolex | GT-810 |
 | Acer | I110 | I1 | I110 |
 | Acer | Icona One 7 | vespa | B1-730HD |
+| Acer | Iconia One 10 | acer_Colnago | B3-A50 |
 | Acer | Iconia One 10 | acer_jetfirelte | B3-A32 |
 | Acer | Iconia One 10 | corona | B3-A20 |
 | Acer | Iconia One 10 | corona | B3-A20B |
@@ -318,6 +319,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Advan digital | i5C | i5C | i5C |
 | Advan digital | i5C plus | ADVAN_i5C_Plus | 5058 |
 | Advan digital | i5D | ADVAN_i5D | i5D |
+| Advan digital | i6A | ADVAN_5501 | 5501 |
 | Advan digital | i7 | ADVAN_i7 | i7 |
 | Advan digital | i7A | ADVAN_i7A | i7A |
 | Advan digital | i7U | ADVAN_i_Lite | i7U |
@@ -341,6 +343,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Aiwa | AW790 | AW790 | AW790 |
 | Aiwa | Z9 | AIWA_Z9 | Z9 |
 | Aiwa | Z9 PLUS | AIWA_Z9_PLUS | Z9 PLUS |
+| Akari | AX-115ATV | DV8035 | AX-115ATV |
+| Akari | AX-117ATV | DV8219 | AX-117ATV |
 | Alba | ALBA 7 TABLET | ac70plv6 | ALBA 7 TABLET |
 | Alba | Alba 4G Plus | ac57crs | Alba 4G Plus |
 | Alba | Alba 6 | ac60crs | Alba 6 |
@@ -5102,6 +5106,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | Hisense F17 | HS6580MT | Hisense Infinity E7 |
 | Hisense | Hisense F24 | HS6737MT | Hisense F24 |
 | Hisense | Hisense F8 MINI | HSSC9850 | Hisense F8 MINI |
+| Hisense | Hisense H20 | HSSDM636QC | HLTE510T |
 | Hisense | Hisense M36 | HS8909QC | Hisense M36 |
 | Hisense | Hisense P1 | HS8953QC | Hisense P1 |
 | Hisense | Hisense T17 | HS6580MT | Hisense T17 |
@@ -7285,6 +7290,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Itel | S11 | S11 | itel S11 |
 | Itel | S11 Plus | S11Plus | itel S11 Plus |
 | Itel | S11 Plus | S11Plus | itel S11Plus |
+| Itel | S11 Pro | itel-S11-Pro | itel S11 Pro |
 | Itel | S11X | itel-S11X | itel S11X |
 | Itel | S21 | itel-S21 | itel S21 |
 | Itel | S31 | S31 | itel S31 |
@@ -9450,6 +9456,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lenovo | K5 | A6020l37 | Lenovo A6020l37 |
 | Lenovo | K5 Note | A7020a40 | Lenovo A7020a40 |
 | Lenovo | K5 Note | A7020a48 | Lenovo A7020a48 |
+| Lenovo | K5 Note | austin2018 | Lenovo L38012 |
 | Lenovo | K5 Note | k52_e78 | Lenovo K52e78 |
 | Lenovo | K5 Note | k52_t58 | Lenovo K52t58 |
 | Lenovo | K5 Plus | A6020a46 | Lenovo A6020a46 |
@@ -9481,6 +9488,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lenovo | Lenovo | PB1-770P | Lenovo PB1-770P |
 | Lenovo | Lenovo A3300 | A3300-GV | LenovoA3300-GV |
 | Lenovo | Lenovo A3300 | A3300-HV | LenovoA3300-HV |
+| Lenovo | Lenovo A5 | L18011 | L18011 |
 | Lenovo | Lenovo K8 | brady_f | Lenovo K |
 | Lenovo | Lenovo K8 | brady_f | Lenovo K8 |
 | Lenovo | Lenovo K8 Note | manning | Lenovo K8 Note |
@@ -9509,6 +9517,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lenovo | Lenovo X2-CU/VIBE X2 | X2-CU | Lenovo X2-CU |
 | Lenovo | Lenovo YOGA A12 | YOGA-A12 | Lenovo YB-Q501L |
 | Lenovo | LenovoTAB2 A7-30DC | A7-30HC | Lenovo TAB 2 A7-30DC |
+| Lenovo | LenovoTB-7104F | TB7104F | Lenovo TB-7104F |
 | Lenovo | LenovoTB-8304F | TB-8304F | Lenovo TB-8304F |
 | Lenovo | LenovoTB-8704V | TB-8704V | TB-8704V |
 | Lenovo | LenovoTB-X304F/Lenovo TAB4 | X304F | Lenovo TB-X304F |
@@ -9736,6 +9745,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lenovo | Z2 | z2r | Lenovo Z2 |
 | Lenovo | Z2 | z2t | Lenovo Z2 |
 | Lenovo | Z2w | z2w | Lenovo Z2w |
+| Lenovo | Z5 | jd2018 | Lenovo L78011 |
 | Lenovo | Z90/VIBE Shot | zoom_fdd | Lenovo Z90 |
 | Lenovo | Z90/VIBE Shot | zoom_fdd | Lenovo Z90-7 |
 | Lenovo | Z90/VIBE Shot | zoom_tdd | Lenovo Z90-3 |
@@ -12922,6 +12932,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Reeder | P9C | P9C | P9C |
 | Reeder | T8 | reeder_T8 | reeder_T8 |
 | Reeder | Turkcell_T_Tablet | Turkcell_T_Tablet | Turkcell_T_Tablet |
+| Reeder | reeder M10 Plus | reeder_M10_Plus | reeder_M10 Plus |
+| Reeder | reeder M7 | reeder_M7_Go | reeder_M7_Go |
+| Reeder | reeder M8 Plus | reeder_M8_Plus | reeder_M8 Plus |
 | Reeder | reeder P12 | P12 | P12 |
 | Rego | Chocolate | chocolate | Rego |
 | Reliance | FL7008 | FL7008 | FL7008 |
@@ -13749,7 +13762,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J7 Prime | on7xelte | SM-G610M |
 | Samsung | Galaxy J7 Prime | on7xelte | SM-G610Y |
 | Samsung | Galaxy J7 Prime | on7xltechn | SM-G6100 |
-| Samsung | Galaxy J7 Prime2 | on7xreflte | SM-G611F |
 | Samsung | Galaxy J7 Prime2 | on7xreflte | SM-G611M |
 | Samsung | Galaxy J7 Prime2 | on7xreflte | SM-G611MT |
 | Samsung | Galaxy J7 Prime2 | on7xreflteins | SM-G611FF |
@@ -14063,6 +14075,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy On7 | o7lte | SM-G600FY |
 | Samsung | Galaxy On7 | o7ltechn | SM-G6000 |
 | Samsung | Galaxy On7 | on7elte | SM-G600F |
+| Samsung | Galaxy On7 Prime | on7xreflte | SM-G611F |
 | Samsung | Galaxy On7 Pro | o7prolte | SM-G600FY |
 | Samsung | Galaxy On7 Refresh | on7xrefltektt | SM-G611K |
 | Samsung | Galaxy On7 Refresh | on7xrefltelgt | SM-G611L |
@@ -15365,6 +15378,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp | \xe3\x83\xad\xe3\x83\x9c\xe3\x83\x9b\xe3\x83\xb3 | SR02MW | SR02MW |
 | Sharp | \xe3\x83\xad\xe3\x83\x9c\xe3\x83\x9b\xe3\x83\xb3 | SRX002 | SRX002 |
 | Shelby | ZA555 | ZA555 | ZA555 |
+| Shenzhen Jiuzhou | DTP9710 | DTP9710 | DTP9710 |
 | SiAL | Bic camera | Si01BB | Si01BB |
 | SiAL | Si01BE | Si01BE | Si01BE |
 | Sico | Nile X | Nile_X | Nile X |
