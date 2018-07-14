@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 13.07.2018
+Last sync is 14.07.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9871,6 +9871,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Logicom | L_IXIR_TAB_1047HD | L_IXIR_TAB_1047HD | L_IXIR_TAB_1047HD |
 | Logicom | La Tab 106 | LaTab106 | La Tab 106 |
 | Logicom | La Tab Full HD | La_Tab_Full_HD | La Tab Full HD |
+| Logicom | Le Lift | LeLift | Le Lift |
 | Logicom | Le Starter L | Le_Starter_L | Le Starter L |
 | Logicom | LiteTab760 | LiteTab760 | LiteTab760 |
 | Logicom | Logikids | Logikids_2 | Logikids_2 |
@@ -11926,6 +11927,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oysters | T72HMs 3G | T72HM3G | T72HMs_3G |
 | PC Smart | PCSGOB10MVA-A | PCSGOB10MVA-A | PCSGOB10MVA-A |
 | PC Smart | PCSGOB10SF-A | PCSGOB10SF-A | PCSGOB10SF-A |
+| PC Smart | PCSMART | PCSGOB10MVA_A | PCSGOB10MVA_A |
 | PC Smart | PTSGOB8 | PTSGOB8 | PC_Smart_PTSGOB8 |
 | PCBOX | Curi_Lite_PCB-T103 | mid1008 | PCB-T103 CURI LITE |
 | PCBOX | Kova-PCB-T730 | Kova-PCB-T730 | Kova-PCB-T730 |
@@ -12948,6 +12950,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Realtime | RS405 | RS405 | RS405 |
 | Reeder | A8i Q2 | A8i-Q2 | A8i-Q2 |
 | Reeder | M7 Plus | reeder_M7Plus | M7Plus |
+| Reeder | M8S | reeder_M8S | reeder_M8S |
 | Reeder | P10 | P10 | P10 |
 | Reeder | P10S | P10S | P10S |
 | Reeder | P10SE | P10SE | P10SE |
@@ -13671,6 +13674,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J3 | j3y17qltecmcc | SM-J3300 |
 | Samsung | Galaxy J3 | j3y17qltecmcc | SM-J3308 |
 | Samsung | Galaxy J3 Achieve | j3topeltespr | SM-J337P |
+| Samsung | Galaxy J3 Emerge | j3popltespr | SM-J327P |
 | Samsung | Galaxy J3 Pop | j3popelteaio | SAMSUNG-SM-J326AZ |
 | Samsung | Galaxy J3 Pop | j3popelteaio | SAMSUNG-SM-J327AZ |
 | Samsung | Galaxy J3 Pop | j3popelteatt | SAMSUNG-SM-J327A |
@@ -13678,7 +13682,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J3 Pop | j3popeltetfntmo | SM-S337TL |
 | Samsung | Galaxy J3 Pop | j3poplteacg | SM-J327R7 |
 | Samsung | Galaxy J3 Pop | j3popltelra | SM-J327R6 |
-| Samsung | Galaxy J3 Pop | j3popltespr | SM-J327P |
 | Samsung | Galaxy J3 Pop | j3popltetfnvzw | SM-S327VL |
 | Samsung | Galaxy J3 Pop | j3poplteusc | SM-J327R4 |
 | Samsung | Galaxy J3 Pop | j3popltevzw | SM-J327V |
@@ -13789,7 +13792,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J7 Prime2 | on7xreflteins | SM-G611FF |
 | Samsung | Galaxy J7 Pro | j7y17lte | SM-J730G |
 | Samsung | Galaxy J7 Pro | j7y17lte | SM-J730GM |
+| Samsung | Galaxy J7 Refine | j7topeltespr | SM-J737P |
 | Samsung | Galaxy J7 Star | j7topltetmo | SM-J737T |
+| Samsung | Galaxy J7 Top | j7toplteatt | SM-J737A |
 | Samsung | Galaxy J7 V | j7topeltevzw | SM-J737V |
 | Samsung | Galaxy J7(2015) | j7ltespr | SM-J700P |
 | Samsung | Galaxy J7(2016) | j7eltemtr | SM-J700T1 |
@@ -14748,6 +14753,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab S 8.4 | klimtwifi | SM-T700 |
 | Samsung | Galaxy Tab S2 | gts210lte | SM-T815 |
 | Samsung | Galaxy Tab S2 | gts210velte | SM-T819 |
+| Samsung | Galaxy Tab S2 | gts210veltechn | SM-T819C |
 | Samsung | Galaxy Tab S2 | gts210vewifi | SM-T813 |
 | Samsung | Galaxy Tab S2 | gts210wifi | SM-T810 |
 | Samsung | Galaxy Tab S2 | gts28lte | SM-T715 |
@@ -15713,6 +15719,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sony | Xperia XZ2 Compact | H8314 | H8314 |
 | Sony | Xperia XZ2 Compact | H8324 | H8324 |
 | Sony | Xperia XZ2 Compact | SO-05K | SO-05K |
+| Sony | Xperia XZ2 Premium | H8116 | H8116 |
+| Sony | Xperia XZ2 Premium | H8166 | H8166 |
+| Sony | Xperia XZ2 Premium | SO-04K | SO-04K |
 | Sony | Xperia XZs | 602SO | 602SO |
 | Sony | Xperia XZs | G8231 | G8231 |
 | Sony | Xperia XZs | G8232 | G8232 |
@@ -17649,6 +17658,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ulefone | S8 Pro | S8_Pro | S8_Pro |
 | Ulefone | S8_ | S8 | Ulefone S8 |
 | Ulefone | S8_Pro | S8_pro1 | S8_Pro |
+| Ulefone | S9_Pro | S9_Pro | S9_Pro |
 | Ulefone | T1 | Ulefone_T1 | T1 |
 | Umax | UMAX | visionbook_P55_LTE | visionbook P55 LTE |
 | Umax | VisionBook P50 Plus LTE | P50Plus_LTE | VisionBook_P50Plus_LTE |
@@ -17710,8 +17720,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vernee | X1 | X1_PRO | X1 |
 | Verssed | FW8977-ED | FW8977-ED | FW8977-ED |
 | Vertex | BLK3D | BLK3D | BLK3D |
+| Vertex | Baccara | Baccara | Baccara |
 | Vertex | CS24 | CS24 | CS24 |
 | Vertex | CS28 | CS28 | CS28 |
+| Vertex | Calypso | Calypso | Impress_Calypso |
 | Vertex | EF | EF | EF |
 | Vertex | EO | EO | EO |
 | Vertex | ET | ET | ET |
@@ -17737,9 +17749,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vertex | Impress Tor | Impress_Tor | Impress_Tor |
 | Vertex | Impress_Bear | Impress_Bear | Impress_Bear |
 | Vertex | Impress_Disco | Impress_Disco | Impress Disco |
+| Vertex | Impress_Energy | Impress_Energy | Impress_Energy |
 | Vertex | Impress_Frost | Impress_Frost | Impress_Frost |
 | Vertex | Impress_Game | Impress_Game | Impress_Game |
 | Vertex | Impress_Lagune | Impress_Lagune | Impress_Lagune |
+| Vertex | Impress_Nero | Impress_Nero | Impress_Nero |
 | Vertex | Impress_New | Impress_New | Impress_New |
 | Vertex | Impress_Pear | Impress_Pear | Impress_Pear |
 | Vertex | Impress_Wolf | Impress_Wolf | Impress_Wolf |
@@ -18477,6 +18491,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Xiaomi | Redmi 5 Plus | vince | Redmi 5 Plus |
 | Xiaomi | Redmi 5 Plus | vince | Redmi Note 5 |
 | Xiaomi | Redmi 5A | riva | Redmi 5A |
+| Xiaomi | Redmi 6 | cereus | Redmi 6 |
+| Xiaomi | Redmi 6A | cactus | Redmi 6A |
+| Xiaomi | Redmi 6Pro | sakura | Redmi 6 Pro |
 | Xiaomi | Redmi Note 3 | hennessy | Redmi Note 3 |
 | Xiaomi | Redmi Note 3 | kate | Redmi Note 3 |
 | Xiaomi | Redmi Note 3 | kenzo | Redmi Note 3 |
@@ -18498,6 +18515,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Xolo | XOLO ERA 2V | Era_2V | Era 2V |
 | Xolo | XOLO ERA 3X | Era_3X | era3x |
 | Xolo | era1X | era1X | era1X |
+| Xplore Technologies | M6 | M6 | M6 |
 | Xplore Technologies | RangerX | iX101T1 | iX101T1 |
 | Xplore Technologies | RangerX | iX101T1_2G | iX101T1-2G |
 | Xplore Technologies | XSLATE_D10 | XSLATE_D10 | iX101B1 |
