@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 16.07.2018
+Last sync is 17.07.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2020,6 +2020,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Cell_C | Titan | Titan | Titan |
 | Cell_C | WIZ | Wiz | Wiz |
 | Cell_C | deluxe | Cell_C | Deluxe |
+| Cellacom | M432 | M432 | M432 |
+| Cellacom | M531 | M531 | M531 |
 | Cello | T1045PN | T1045PN | T1045PN |
 | Cellon | A27 | C8680 | A27 |
 | Cellon | A5801 | C8680 | A5801 |
@@ -2601,6 +2603,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DEXP | N280 | N280 | N280 |
 | DEXP | P280 | P280 | P280 |
 | DEXP | S190 | S190 | S190 |
+| DEXP | S290 | S290 | S290 |
 | DEXP | XL155 | XL155 | Ixion XL155 |
 | DEXP | Z150 | Z150 | Z150 |
 | DEXP | Z155 | Z155 | Z155 |
@@ -3912,6 +3915,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Gtel | Gtel X6pro | Gtel_X6pro | Gtel X6pro |
 | Gtel | Gtel X6s | Gtel_X6s | Gtel X6s |
 | Gtel | Gtel X7plus | Gtel_X7plus | Gtel X7plus |
+| Gtel | Gtel X7pro | Gtel_X7pro | Gtel X7pro |
 | Gtel | Gtel_Vivo3 | Gtel_Vivo3 | Gtel_Vivo3 |
 | Gtel | Gtel_X5mini | Gtel_X5mini | Gtel_X5mini |
 | Gtel | Gtel_X5s | Gtel_X5s | Gtel_X5s |
@@ -5374,6 +5378,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | u972 | HS7731SP | U972 |
 | Hisense | vision2_1 | vision2_1 | vision2_1 |
 | Hiya | 5-0 | 5_0 | 5-0 |
+| Hiya | 5.5 | HIYA5_5 | 5.5 |
 | Hoffmann | X Max | X-Max | X-Max |
 | Hon Hai Precision Industry Co., Ltd. |  | EP10_wifi | PocketBook A10 |
 | Hon Hai Precision Industry Co., Ltd. |  | EP5A_wifi | PocketBook A7 |
@@ -5445,6 +5450,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Honeywell | EdA50 | eda50-211 | EDA50 |
 | Hot Pepper | H5 | H5 | H5 |
 | Hotwav | HOT 6 | HOT_6 | HOT 6 |
+| Hotwav | M5 | M5 | M5 |
 | Hotwav | M5i | M5i | M5i |
 | Hotwav | Magic 13 | Magic_13 | Magic 13 |
 | Hotwav | Magic 5 | Magic_5 | Magic 5 |
@@ -7074,6 +7080,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Infocus | XT-50IP600 | XT_50IP600 | XT_50IP600 |
 | Ingenico | AXIUM D7 | axium | IngenicoAxium |
 | Ingenico | Moby-M100 | Moby-M100 | Moby-M100 |
+| Ingenico | Moby-M120 | Moby-M120 | Moby-M120 |
 | Ingenico | Moby-M70 | Moby-M70 | IMS-M70-V02 |
 | Inhon | E30 | E30 | E30 |
 | Inhon | L35 | L35 | L35 |
@@ -8474,6 +8481,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG Q6 | mhn | LGM-X600K |
 | LGE | LG Q6 | mhn | LGM-X600L |
 | LGE | LG Q6 | mhn | LGM-X600S |
+| LGE | LG Q7 | cv5a | LM-Q610(FGN) |
 | LGE | LG Q7 | mcv5a | LM-Q610.FG |
 | LGE | LG Q7 | mcv5a | LM-Q610.FGN |
 | LGE | LG Q7+ | cv5an | LM-Q725K |
@@ -10055,6 +10063,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Maxwest | Nitro 4N LTE | Nitro_4N_LTE | Nitro 4N LTE |
 | Maxwest | Nitro 55N | Nitro_55N | Nitro 55N |
 | Maxwest | Nitro 5N | Nitro_5N | Nitro_5N |
+| Maxwest | Nitro_4s_LTE | Nitro_4s_LTE | Nitro 4s LTE |
 | Maxwest | Ranger 5 | Ranger_5 | Ranger_5 |
 | MeanIT | C4 | C4 | C4 |
 | MeanIT | meanIT C80C81 | meanIT_C80C81 | meanIT_C80C81 |
@@ -10490,6 +10499,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Mobell | Mobell S50 | Mobell_S50 | Mobell S50 |
 | Mobell | NOVA P3 | NOVA_P3 | NOVA P3 |
 | Mobell | S40 | S40 | S40 |
+| Mobell | S60 | mobell_S60 | S60 |
 | Mobicell | 4U | 4U | 4U |
 | Mobicell | ARC | ARC | ARC |
 | Mobicell | ASTRO | ASTRO | ASTRO |
@@ -11548,6 +11558,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | OTK | BM57 lite | BM57_lite | BM57_lite |
 | OTOT | E1 | EOS | OTOT_E1 |
 | OTOT | H10 | H10 | H10 |
+| OTOT | S7 | S7 | S7 |
 | OTOT | S8 | S8 | S8 |
 | OTOT | V350 | V350 | V350 |
 | OYYU | T11 | OYYUT11 | OYYUT11 |
@@ -12880,6 +12891,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Quantum | Muv | Q3 | MUV |
 | Quantum | Muv | Q3 | Quantum MUV |
 | Quantum | QSPT-1952 | QF3A | QT-195W-aa2 |
+| Quantum | Quantum FIT | S511 | Quantum Fit |
 | Quantum | Sky | QX1 | Sky |
 | Quantum | Twist Neo | S501 | twist neo |
 | Quantum | V | QX2 | Quantum V |
@@ -13044,6 +13056,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | SPC Mobile | X1 | SPC_X1 | X1 |
 | STF Mobile | AERIAL | STFAERIAL | AERIAL |
 | STF Mobile | AERIAL PLUS | AERIAL | AERIAL PLUS |
+| STF Mobile | AURA | AURA | AURA |
 | STF Mobile | DUO | DUO | DUO |
 | STF Mobile | Fractal | Fractal | Fractal |
 | STF Mobile | HK-914581 | HK-914581 | HK-914581 |
@@ -13137,6 +13150,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Chromebook 3 | celes_cheets | Samsung Chromebook 3 |
 | Samsung | Chromebook Plus | kevin_cheets | Samsung Chromebook Plus |
 | Samsung | Chromebook Plus | kevin_cheets | kevin |
+| Samsung | Chromebook Plus (V2) | nautilus_cheets | nautilus |
 | Samsung | Chromebook Pro | caroline_cheets | Samsung Chromebook Pro |
 | Samsung | Chromebook Pro | caroline_cheets | caroline |
 | Samsung | Conquer | SPH-D600 | SPH-D600 |
@@ -15110,6 +15124,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Seeken | SG2 | SG2 | SG2 |
 | Seeken | SG3 | Seeken_SG3 | SG3 |
 | Seemahale Telecoms | ST5000 | ST5000 | ST5000 |
+| Selfix | SELFIX_ES732_EXPERIUS | EXPERIUS | SELFIX_ES732_EXPERIUS |
 | Senseit | A109 | SENSEIT_A109 | SENSEIT_A109 |
 | Senseit | L301 | SENSEIT-L301 | SENSEIT L301 |
 | Senseit | SENSEIT T250 | SENSEIT_T250 | SENSEIT T250 |
@@ -15456,6 +15471,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sky Devices | SKY 5.0Pro II | SKY_50Pro_II | SKY 5.0Pro II |
 | Sky Devices | SKY 55M | SKY_55M | SKY 55M |
 | Sky Devices | SKY_Pro_III | SKY_Pro_III | SKY_Pro_III |
+| Sky Devices | pro selfie | PRO_SELFIE | PRO_SELFIE |
 | SkyLife | UHD2 | IC1110 | IC1110 |
 | SkyLife | skylife LTE TV | DMTS17SS | DMT_1621 |
 | Skyworth | Asia | globe_ap | globe |
@@ -16075,6 +16091,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Stylo | STYLOF1 | STYLOF1 | STYLO F1 |
 | Stylo | STYLO_S61 | STYLO_S61 | STYLO SM61 MAGIC+ |
 | Stylo | STYLO_S61 | STYLO_S61 | STYLO SV61 VECTOR+ |
+| Stylo | Ultra | Ultra | Ultra |
 | Stylo | VS5502 | VS5502 | VS5502 |
 | Stylus | AT703 | AT703 | AT703 |
 | Stylus | Comet_SP5002G | Comet_SP5002G | Comet_SP5002G |
@@ -16158,6 +16175,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TAG Heuer | Connected Modular 41 | spectralite | TAG Heuer |
 | TAG Heuer | Connected Modular 45 | anthracite | TAG Heuer |
 | TAG Heuer | Connected Modular 45 (China) | anthracite | TAG Heuer |
+| TCL | Alcatel 3 | A3A | 5152D |
 | TCL | L55E6700UDS | movo_la | movo_la |
 | TCL | LE50UHDE5692G | movo | movo |
 | TCL | Percee TV | tcl_sa | Percee TV |
@@ -16738,6 +16756,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033O |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033T |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033X |
+| TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033Y |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | Alcatel T 5033T |
 | TCT (Alcatel) | Alcatel 1C | U5A_PLUS_3G | 5009A |
 | TCT (Alcatel) | Alcatel 1C | U5A_PLUS_3G | 5009D |
@@ -16751,6 +16770,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Alcatel 1X | U5A_PLUS_4G | 5059T |
 | TCT (Alcatel) | Alcatel 1X | U5A_PLUS_4G | 5059X |
 | TCT (Alcatel) | Alcatel 1X | U5A_PLUS_4G | 5059Y |
+| TCT (Alcatel) | Alcatel 1X | U5A_PLUS_4G | 5159A |
+| TCT (Alcatel) | Alcatel 1X | U5A_PLUS_4G | 5159J |
 | TCT (Alcatel) | Alcatel 3 | A3A | 5052A |
 | TCT (Alcatel) | Alcatel 3 | A3A | 5052D |
 | TCT (Alcatel) | Alcatel 3 | A3A | 5052D_RU |
@@ -16774,6 +16795,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Alcatel 5 | A5A_INFINI | 5086D |
 | TCT (Alcatel) | Alcatel 5 | A5A_INFINI | 5086Y |
 | TCT (Alcatel) | Alcatel 5 | A5A_INFINI | 5186A |
+| TCT (Alcatel) | Alcatel 5V | A5X | 5060A |
+| TCT (Alcatel) | Alcatel 5V | A5X | 5060D_RU |
+| TCT (Alcatel) | Alcatel 5X | A5X | 5060D |
 | TCT (Alcatel) | Alcatel Raven LTE | BUZZ6T4GTFUMTS | A574BL |
 | TCT (Alcatel) | Alcatel one touch 985 | one_touch_985A_gsm | ALCATEL_one_touch_985 |
 | TCT (Alcatel) | Alcatel9007T | Pixi3_7_4G | Alcatel9007T |
@@ -17350,6 +17374,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | PhonePad 7 II | PP7E-DLA1 | TECNO PP7E-SLA1 |
 | Tecno | Pouvoir 1 | TECNO-LA6 | TECNO LA6 |
 | Tecno | Pouvoir 2 | TECNO-LA7 | TECNO LA7 |
+| Tecno | Pouvoir 2 Pro | TECNO-LA7-13M | TECNO LA7 Pro |
 | Tecno | R6 | TECNO-R6 | TECNO R6 |
 | Tecno | RA6 | TECNO-RA6 | TECNO RA6S |
 | Tecno | S1 | TECNO-S1 | TECNO S1 |
@@ -18165,12 +18190,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Walton | Primo EF7 | Primo_EF7 | Primo EF7 |
 | Walton | Primo F7s | Primo_F7s | Primo F7s |
 | Walton | Primo F8 | Primo_F8 | Primo F8 |
+| Walton | Primo F8s | Primo_F8s | Primo F8s |
 | Walton | Primo G8 | Primo_G8 | Primo G8 |
 | Walton | Primo GF6 | Primo_GF6 | Primo GF6 |
 | Walton | Primo GF7 | Primo_GF7 | Primo GF7 |
 | Walton | Primo GH5 | WBW5615WA | Primo GH5 |
 | Walton | Primo GH5 mini | Primo_GH5_mini | Primo GH5 mini |
 | Walton | Primo GH7 | Primo_GH7 | Primo GH7 |
+| Walton | Primo GH7i | Primo_GH7i | Primo GH7i |
 | Walton | Primo GM2 | Primo_GM2 | Primo GM2 |
 | Walton | Primo GM2 Plus | Primo_GM2_Plus | Primo GM2 Plus |
 | Walton | Primo GM3 | Primo_GM3 | Primo GM3 |
@@ -18389,6 +18416,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | X-TIGI | V21 | X-TIGI_V21 | X-TIGI_V21 |
 | X-TIGI | V3+ | X-TIGI_V3_Plus | X-TIGI_V3+ |
 | X-TIGI | X-TIGI_JOY7_MAX | X-TIGI_JOY7_MAX | X-TIGI_JOY7_MAX |
+| X-TIGI | X-TIGI_V11 | X-TIGI_V11 | X-TIGI_V11 |
 | X-TIGI | X-TIGI_V13 | X-TIGI_V13 | X-TIGI_V13 |
 | X-TIGI | X-TIGI_V33 | X-TIGI_V33 | X-TIGI_V33 |
 | X-TIGI | X_TIGI_A1 | X_TIGI_A1 | X_TIGI_A1 |
