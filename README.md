@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 17.07.2018
+Last sync is 18.07.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -69,6 +69,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | AOpen | RK3288 Mini Chromebox | fievel_cheets | AOpen Chromebox Mini |
 | ASTCA | AA 787 S | SURGE_AA_787_S | AA 787 S |
 | AT&T | 9020A | tint8_att | 9020A |
+| AT&T | QS5509A | QS5509QL | QS5509A |
 | AURII | AURII_AMUSE_4G | AURII_AMUSE_4G | AURII_AMUSE_4G |
 | AURII | AURII_FAME | AURII_FAME | AURII_FAME |
 | AV | AV10 | RCT6203W46 | AV10 |
@@ -1968,6 +1969,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Casio | Smart Outdoor Watch WSD-F10 | koi | CASIO WSD-F10 |
 | Casio | WSD-F20 | ayu | CASIO WSD-F20 |
 | Casio | WSD-F20 | ayu | CASIO WSD-F20S |
+| Casper | CASPER_L10_4_5G | CASPER_L10_4_5G | CASPER_L10_4.5G |
 | Casper | TA80CA2 | TA80CA2_1 | TA80CA2 |
 | Casper | VIA A2 | CASPER_VIA_A2 | CASPER_VIA_A2 |
 | Casper | VIA G1 | CASPER_VIA_G1 | CASPER_VIA_G1 |
@@ -2529,6 +2531,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Crosscall | Action-X3 | HS8937QC | Action-X3 Pro |
 | Crosscall | Action-X3 | HS8937QCs | ACTION-X3 |
 | Crosscall | Action-X3 | HS8937QCs | Action-X3 |
+| Crosscall | Core- X3 | HS8917QC | Core-X3 |
 | Crosscall | ODYSSEY | ODYSSEY3G | ODYSSEY |
 | Crosscall | TREKKER- X3 | HS8952QC | TREKKER-X3 |
 | Crosscall | TREKKER-M1 CORE | HS8909QC | TREKKER-M1 CORE |
@@ -5028,6 +5031,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | HLTE300E_ 02 | HS8937QC | HLTE300E_02 |
 | Hisense | HLTE300E_ 02 | HS8937QC | Hisense Infinity H11 |
 | Hisense | HLTE300T | HS8937QC | HLTE300T |
+| Hisense | HLTE310M | HSSDM450QC | HLTE310M |
+| Hisense | HLTE310T | HSSDM450QC | HLTE310T |
 | Hisense | HLTE500T | HSSDM630QC | HLTE500T |
 | Hisense | HLTE501N | HSSDM660QC | HLTE501N |
 | Hisense | HS- G610 | HS8916QC | HS-G610 |
@@ -5110,6 +5115,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | Hisense  F23  PLUS | HS6739MT | Hisense F23 PLUS |
 | Hisense | Hisense  Hi  2 | HS6737MT | Hisense Hi 2 |
 | Hisense | Hisense  Infinity  F17 | HS6739MT | Hisense Infinity F17 |
+| Hisense | Hisense  Infinity  H12 | HSSDM450QC | Hisense Infinity H12 |
 | Hisense | Hisense E76MINIM | HS8937QC | Hisense E76MINIM |
 | Hisense | Hisense E77 | HS8937QC | Hisense E77 |
 | Hisense | Hisense F17 | HS6580MT | Hisense F17 |
@@ -13710,6 +13716,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J3 Top | j3toplteaio | SM-J336AZ |
 | Samsung | Galaxy J3 Top | j3toplteaio | SM-J337AZ |
 | Samsung | Galaxy J3 Top | j3toplteatt | SM-J337A |
+| Samsung | Galaxy J3 V | j3topeltevzw | SM-J337V |
 | Samsung | Galaxy J3(2016) | j3ltekx | SM-J320N0 |
 | Samsung | Galaxy J3(2016) | j3ltetfnvzw | SM-S320VL |
 | Samsung | Galaxy J3(2016) | j3ltetw | SM-J320Y |
@@ -15121,6 +15128,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Seatel | T8 | seatel_T8 | Seatel T8 |
 | Seatel | V8A | Seatel_V8A | Seatel V8A |
 | Seatel | V8E | Seatel_V8E | Seatel V8E |
+| SecQre | ATV HD Stick | SEI100 | ATV HD Stick |
 | Seeken | SG2 | SG2 | SG2 |
 | Seeken | SG3 | Seeken_SG3 | SG3 |
 | Seemahale Telecoms | ST5000 | ST5000 | ST5000 |
@@ -15417,6 +15425,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp | lcd_xxbel7a_c | lcd_xxbel7a_c | LCD-xxBEL7A-C |
 | Sharp | z3 | VN3N | FS8009 |
 | Sharp | \xe3\x82\xb7\xe3\x83\xb3\xe3\x83\x97\xe3\x83\xab\xe3\x82\xb9\xe3\x83\x9e\xe3\x83\x9b\xef\xbc\x93 | SG509SH | 509SH |
+| Sharp | \xe3\x82\xb7\xe3\x83\xb3\xe3\x83\x97\xe3\x83\xab\xe3\x82\xb9\xe3\x83\x9e\xe3\x83\x9b\xef\xbc\x94 | SG704SH | 704SH |
 | Sharp | \xe3\x83\xad\xe3\x83\x9c\xe3\x83\x9b\xe3\x83\xb3 | SR01MW | SR01MW |
 | Sharp | \xe3\x83\xad\xe3\x83\x9c\xe3\x83\x9b\xe3\x83\xb3 | SR02MW | SR02MW |
 | Sharp | \xe3\x83\xad\xe3\x83\x9c\xe3\x83\x9b\xe3\x83\xb3 | SRX002 | SRX002 |
@@ -16086,6 +16095,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sts-tottori | JR-500 | JR-500 | JR-500 |
 | Sts-tottori | JR-P2000 | JR-P2000 | JR-P2000 |
 | Sts-tottori | TAB-A03 | TAB-A03 | TAB-A03-SD |
+| Stylo | Luna | Luna | Luna |
 | Stylo | S551 | STYLO_S551 | STYLO S551 |
 | Stylo | STYLO MAX | Stylo_Max | MAX |
 | Stylo | STYLOF1 | STYLOF1 | STYLO F1 |
@@ -17512,6 +17522,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Thomson | TEO7RK | TEO7RK | TEO7RK |
 | Thomson | TLink 455 | TLINK455 | TLINK455 |
 | Thuraya | Thuraya X5-Touch | X5-Touch | Thuraya X5-Touch |
+| Tigers | TIS_001 | TIS_001 | TIS_001 |
 | Tiitan | T54 | T54 | T54 |
 | Time2 | TIME2 | TP1060J | TP1060J |
 | Time2 | TIME2 | TP860P | TP860B |
@@ -18030,6 +18041,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vivo | vivo 1726 | 1726 | vivo 1726 |
 | Vivo | vivo 1727 | 1727 | vivo 1727 |
 | Vivo | vivo 1802 | 1802 | vivo 1802 |
+| Vivo | vivo 1805 | 1805 | vivo 1805 |
 | Vivo | vivo 1808 | 1808 | vivo 1808 |
 | Vivo | vivo NEX A | PD1806 | vivo NEX A |
 | Vivo | vivo NEX S | PD1805 | vivo NEX S |
