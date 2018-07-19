@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 18.07.2018
+Last sync is 19.07.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6652,6 +6652,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | nova 2i | HWRNE | RNE-L22 |
 | Huawei | nova 2s | HWHWI | HWI-AL00 |
 | Huawei | nova 2s | HWHWI | HWI-TL00 |
+| Huawei | nova 3 | HWPAR | PAR-AL00 |
+| Huawei | nova 3 | HWPAR | PAR-TL00 |
 | Huawei | nova 3e | HWANE | ANE-AL00 |
 | Huawei | nova 3e | HWANE | ANE-TL00 |
 | Huawei | nova lite | HWPRA-H | PRA-LX2 |
@@ -13290,6 +13292,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy A9 Pro | a9xproltechn | SM-A9100 |
 | Samsung | Galaxy A9 Pro | a9xproltesea | SM-A910F |
 | Samsung | Galaxy A9 Star | astarqltechn | SM-G8850 |
+| Samsung | Galaxy A9 Star | astarqltecmcc | SM-G8858 |
 | Samsung | Galaxy A9 Star Lite | a6pltechn | SM-A6050 |
 | Samsung | Galaxy A9 Star Lite | a6pltechn | SM-A605XC |
 | Samsung | Galaxy A9 Star Lite | a6pltecmcc | SM-A6058 |
@@ -15339,6 +15342,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp | LCD-45X518H1A | cv6a648_base | LCD-45FOC518H1A |
 | Sharp | LCD-50MY4000A/TX4000A/50SU470A | Lcd_50foc4000a | LCD_50FOC4000A |
 | Sharp | LCD-60SU470A | cv6a648_4K_base | LCD_xxSUFOC470A |
+| Sharp | LCD-60SU471A | Lcd_xxsufoc471a | LCD_xxSUFOC471A |
 | Sharp | LCD-60SU475A | Lcd_xxsufoc475a | LCD_xxSUFOC475A |
 | Sharp | LCD-60X518H1A | cv6a648_4K_base | LCD-60FOC518H1A |
 | Sharp | LCD-LX460A | lx460a | LCD-LX460A |
@@ -15416,8 +15420,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp | Star Wars mobile | SW001SH | SW001SH |
 | Sharp | X1 | nasa_sprout | X1 |
 | Sharp | X4 | vespa_sprout | X4-SH |
+| Sharp | XLED-40Z4808A | Lcd_xxffoczq48a | LCD_xxFFOCZQ48A |
+| Sharp | XLED-50SU480A | Lcd_50sufoc480a | LCD_50SUFOC480A |
 | Sharp | XLED-50SU583A | Lcd_xxfoc580a2 | LCD_xxFOC580A2 |
+| Sharp | XLED-50Z4808A | Lcd_50ufoczq48a | LCD_50UFOCZQ48A |
+| Sharp | XLED-60SU485A | Lcd_60sufoc485a | LCD_60SUFOC485A |
+| Sharp | XLED-65SU480A | Lcd_xxsufoc480a | LCD_xxSUFOC480A |
 | Sharp | XLED-65SU583A | Lcd_xxfoc580a1 | LCD_xxFOC580A1 |
+| Sharp | XLED-65Z4808A | Lcd_xxufoczq48a | LCD_xxUFOCZQ48A |
 | Sharp | XLED-xxSU580A, XLED-xxZQ580A, XLED-xxMY5200A, XLED-xxTX5200A | lcd_xxcae5a_e | LCD-xxCAE5A-E |
 | Sharp | Yahoo! Phone SoftBank 009SH Y | SBM009SHY | SBM009SHY |
 | Sharp | Z2 | TSP | FS8002 |
@@ -17767,6 +17777,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vertex | Impress Click (3G) | IMPRESS_CLICK | IMPRESS CLICK |
 | Vertex | Impress Dune | Impress_Dune | Impress_Dune |
 | Vertex | Impress Eagle | Impress_Eagle | Impress_Eagle |
+| Vertex | Impress Eclipse (4G) | IMPRESS_ECLIPSE | IMPRESS ECLIPSE |
 | Vertex | Impress Fortune | Impress_Fortune | Impress_Fortune |
 | Vertex | Impress Grip | Grip | Impress_Grip |
 | Vertex | Impress Groove | Impress_Groove | Impress_Groove |
@@ -17783,6 +17794,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vertex | Impress Sun | Sun | Sun |
 | Vertex | Impress Tiger | Tiger | Tiger |
 | Vertex | Impress Tor | Impress_Tor | Impress_Tor |
+| Vertex | Impress Vega (4G) | Impress_Vega | Impress_Vega |
 | Vertex | Impress_Bear | Impress_Bear | Impress_Bear |
 | Vertex | Impress_Disco | Impress_Disco | Impress Disco |
 | Vertex | Impress_Energy | Impress_Energy | Impress_Energy |
