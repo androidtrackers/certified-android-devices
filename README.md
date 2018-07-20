@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 19.07.2018
+Last sync is 20.07.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6653,7 +6653,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | nova 2s | HWHWI | HWI-AL00 |
 | Huawei | nova 2s | HWHWI | HWI-TL00 |
 | Huawei | nova 3 | HWPAR | PAR-AL00 |
+| Huawei | nova 3 | HWPAR | PAR-LX1 |
+| Huawei | nova 3 | HWPAR | PAR-LX1M |
+| Huawei | nova 3 | HWPAR | PAR-LX9 |
 | Huawei | nova 3 | HWPAR | PAR-TL00 |
+| Huawei | nova 3 | HWPAR | PAR-TL20 |
 | Huawei | nova 3e | HWANE | ANE-AL00 |
 | Huawei | nova 3e | HWANE | ANE-TL00 |
 | Huawei | nova lite | HWPRA-H | PRA-LX2 |
@@ -13097,6 +13101,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | STK(Santok) | Sync 5z | STK_Sync_5z | STK Sync 5z |
 | STK(Santok) | Transporter 1 | STK_Transporter_1 | STK_Transporter_1 |
 | SUPERSONIC | SC_4317BT | SC_4317BT | SC_4317BT |
+| SUPERSONIC | TAB7091 | TAB7091 | TAB7091 |
 | Safaricom | SFCSTB2LITE | SFCSTB2LITE | SFCSTB2LITE |
 | Saltillo | CF10 | CF10 | CF10 |
 | Samsung |  | GT-I5510M | GT-I5510M |
@@ -13782,6 +13787,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J6 | j6lte | SM-J600G |
 | Samsung | Galaxy J6 | j6lte | SM-J600GT |
 | Samsung | Galaxy J6 | j6ltekx | SM-J600N |
+| Samsung | Galaxy J6 | j6ltelgt | SM-J600L |
 | Samsung | Galaxy J7 | j75ltektt | SM-J700K |
 | Samsung | Galaxy J7 | j7e3g | SM-J700H |
 | Samsung | Galaxy J7 | j7elte | SM-J700F |
@@ -15088,7 +15094,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Roy VE DTV | royssvedtv | GT-S6293T |
 | Samsung | Roy VE DTV | royvedtv | GT-S6293T |
 | Samsung | Rugby Smart | SGH-I847 | SAMSUNG-SGH-I847 |
-| Samsung | SM G9298 | venenoltechn | SM-G9298 |
 | Samsung | SM-G9198 | philippeltechn | SM-G9198 |
 | Samsung | SM-T230NZ | degasy18wifichn | SM-T230NZ |
 | Samsung | SM-W2018 | kellyltechn | SM-W2018 |
@@ -15103,6 +15108,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | W2016 | royceltectc | SM-W2016 |
 | Samsung | W2017 | veyronltectc | SM-W2017 |
 | Samsung | olleh | ik1 | SMT-E5015 |
+| Samsung | \xe9\xa2\x86\xe4\xb8\x96\xe6\x97\x97\xe8\x88\xb08 | venenoltechn | SM-G9298 |
 | Sanaeko | FX9 | SANAEKO | FX9 |
 | Sansei | TS10A1 | TS10A1 | TS10A1 |
 | Sansei | TS7A1 | TS7A1 | TS7A1 |
@@ -17303,6 +17309,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Technicolor | NETBOX | uiw4030dnm | uiw4030dnm |
 | Technicolor | Shortcut | dwt765ltt | Shortcut |
 | Technicolor | Tv Hub | uzx8020chm | Tv Hub |
+| Technicolor | Wind | uzw4030wnh | WIND |
 | Technicolor | Wind | uzw4030wnh | Wind |
 | Techpad | M5Plus | M5Plus | M5Plus |
 | Techpad | M6 | M6 | M6 |
@@ -17396,6 +17403,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | Pouvoir 2 | TECNO-LA7 | TECNO LA7 |
 | Tecno | Pouvoir 2 Pro | TECNO-LA7-13M | TECNO LA7 Pro |
 | Tecno | R6 | TECNO-R6 | TECNO R6 |
+| Tecno | RA6 | TECNO-RA6 | TECNO RA6 |
 | Tecno | RA6 | TECNO-RA6 | TECNO RA6S |
 | Tecno | S1 | TECNO-S1 | TECNO S1 |
 | Tecno | S1 | TECNO-S1 | TECNO S1M |
