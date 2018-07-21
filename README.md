@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 20.07.2018
+Last sync is 21.07.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -83,6 +83,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | AZPEN | A920 | wing-ibt | A920 |
 | Aamra WE | E2 | E2 | WE E2 |
 | Abocom | A08SM | A08 | A08S |
+| Accent | CAMELEON C5 | CAMELEON_C5 | CAMELEON C5 |
 | Accent | FAST7 3G | FAST7_3G | FAST7 3G |
 | Accent | Pearl A4 PLUS | PEARL_A4_PLUS | PEARL A4 PLUS |
 | Accent | Pearl_A4 | Pearl_A4 | Pearl A4 |
@@ -1588,6 +1589,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Benesse | TAB-A03-BS | TAB-A03-BS | TAB-A03-BS |
 | Beneve | M755 | M755 | M755 |
 | Bentley | Tab | sdis1 | BENTLEY ENTERTAINMENT TABLET |
+| Bertoli | B20X | B20X | B20X |
 | Best Buy | Transformer Pad (TF103C) | K010 | K010 |
 | Bigben | BB8252 | Bigben-TAB | BB8252 |
 | Bigben | GAMETAB-ONE | GAMETAB-ONE | GAMETAB-ONE |
@@ -1803,6 +1805,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blu | Studio G Mini | S210 | Studio G Mini |
 | Blu | Studio G2 HD | Studio_G2_HD | Studio G2 HD |
 | Blu | Studio G3 | S770P | Studio G3 |
+| Blu | Studio G4 | S870Q | Studio G4 |
 | Blu | Studio J1 | Studio_J1 | Advance A4 |
 | Blu | Studio J1 | Studio_J1 | Studio J1 |
 | Blu | Studio J2 | Studio_J2 | Advance A5 |
@@ -2024,6 +2027,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Cell_C | deluxe | Cell_C | Deluxe |
 | Cellacom | M432 | M432 | M432 |
 | Cellacom | M531 | M531 | M531 |
+| Cellacom | S51_lite | S51_lite | S51_lite |
 | Cello | T1045PN | T1045PN | T1045PN |
 | Cellon | A27 | C8680 | A27 |
 | Cellon | A5801 | C8680 | A5801 |
@@ -3537,6 +3541,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | G-TOUCH | Stella X | Stella_X | Stella X |
 | G-TiDE | FANS7 | FANS7 | G-TiDE FANS7 |
 | G53 | TA71CA3 | TA71CA3_1 | TA71CA3 |
+| G7 Mobiles | G7S54P3CR | G7S54P3CR | G7S54P3CR |
 | GD Classbook | TA80CA1 | TA80CA1_2 | TA80CA1 |
 | GIGI | U1 | GIGI_U1 | GIGI_U1 |
 | GSmart | Akta A4 | Akta_A4 | Akta_A4 |
@@ -6660,6 +6665,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | nova 3 | HWPAR | PAR-TL20 |
 | Huawei | nova 3e | HWANE | ANE-AL00 |
 | Huawei | nova 3e | HWANE | ANE-TL00 |
+| Huawei | nova 3i | HWINE | INE-AL00 |
+| Huawei | nova 3i | HWINE | INE-TL00 |
 | Huawei | nova lite | HWPRA-H | PRA-LX2 |
 | Huawei | nova lite | HWPRA-H | PRA-LX3 |
 | Huawei | nova plus | HWMLA | HUAWEI MLA-L01 |
@@ -6912,6 +6919,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ilike | X5_PRO | X5_PRO | X5_PRO |
 | ImageMobile | Ipanema | C001 | C001 |
 | ImageMobile | Rio | Rio | B001 |
+| Imi Tech | M88 | M88 | M88 |
 | Impecca | ET7050D | ET7050D | ET7050D |
 | Inet-Tablet | D711HC_PG | D711HC_PG | D711HC_PG |
 | Inet-Tablet | D7911L3BC_OGS | D7911L3BC_OGS | D7911L3BC_OGS |
@@ -9099,6 +9107,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lava | Z25 | Z25 | Z25 |
 | Lava | Z50 | Z50 | Z50 |
 | Lava | Z60 | Z60 | Z60 |
+| Lava | Z61 | Z61 | Z61 |
 | Lava | Z70 | Z70 | Z70 |
 | Lava | Z80 | Z80 | Z80 |
 | Lava | Z90 | Z90 | Z90 |
@@ -10061,6 +10070,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Masstel | Tab7LTE | Masstel_Tab7LTE | Masstel_Tab7LTE |
 | Maxcom | MS453 | MS453 | MS453 |
 | Maxcom | MS457 | MS457 | MS457 |
+| Maxcom | MS457Orange | MS457Orange | MS457Orange |
 | Maxcom | MS457PLUS | MS457PLUS | MS457PLUS |
 | Maxcom | MS459 | MS459 | MS459 |
 | Maxcom | MS514 | MS514 | MS514 |
@@ -10204,6 +10214,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Meizu | M6s | MeizuM6s | Meizu M6s |
 | Meizu | M6s | MeizumbluS6 | Meizu mblu S6 |
 | Meizu | M712C | M712C | M712C |
+| Meizu | M8c | MeizuM8c | Meizu M8c |
 | Meizu | Meizu S6 | MeizuS6 | M712C |
 | Meizu | Meizu S6 | MeizuS6 | Meizu S6 |
 | Meizu | PRO 7 | PRO7H | PRO 7-H |
@@ -10580,6 +10591,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | MobiiStar | mobiistar E Selfie | mobiistar_E_Selfie | mobiistar E Selfie |
 | MobiiStar | mobiistar E1 | mobiistar_E1 | mobiistar E1 |
 | MobiiStar | mobiistar E1 Selfie | E1_Selfie | E1 Selfie |
+| MobiiStar | mobiistar X | mobiistar_X | mobiistar X |
 | MobileTeleSystem | MTC SMART Surf 4G | MTC_SMART_Surf_4G | MTC_SMART_Surf_4G |
 | MobileTeleSystem | SMART Race2 4G | SMART_Race2_4G | SMART_Race2_4G |
 | MobileTeleSystem | SMART Start 2 | MTC_SMART_Start_2 | MTC_SMART_Start_2 |
@@ -15491,6 +15503,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sky Devices | PLATINUM 5.0M | Platinum_5_0M | Platinum_5.0M |
 | Sky Devices | PLATINUM A5 | Platinum_A5 | Platinum_A5 |
 | Sky Devices | PLATINUM A57 | Platinum_A57_OP | Platinum A57 |
+| Sky Devices | PLATINUM B5 | Platinum_B5 | Platinum_B5 |
 | Sky Devices | PLATINUM M4 | Platinum_M4_SV | Platinum M4 |
 | Sky Devices | SKY 5.0LM | SKY_50LM | SKY 5.0LM |
 | Sky Devices | SKY 5.0Pro II | SKY_50Pro_II | SKY 5.0Pro II |
@@ -18098,6 +18111,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vkworld | Mix3 | Mix3 | Mix3 |
 | Vkworld | Mix_Plus | Mix_Plus | Mix_Plus |
 | Vkworld | S8 | vkworld_S8 | S8 |
+| Vkworld | VK7000 | VK7000 | VK7000 |
 | Vmobile | A10_Y | A10_Y | A10_Y |
 | Vmobile | A11_Y | A11_Y | A11_Y |
 | Vmobile | A13 | A13 | A13 |
@@ -18444,6 +18458,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Woxter | Woxter_N100 | Woxter_N100 | Woxter_N100 |
 | Woxter | Woxter_N200 | Woxter_N200 | Woxter_N200 |
 | Woxter | Woxter_N90 | Woxter_N90 | Woxter_N90 |
+| X-TIGI | JOY7_Mate | JOY7_Mate | X_TIGI_JOY7_Mate |
 | X-TIGI | JOY7_TV | JOY7_TV | X_TIGI_JOY7_TV |
 | X-TIGI | V21 | X-TIGI_V21 | X-TIGI_V21 |
 | X-TIGI | V3+ | X-TIGI_V3_Plus | X-TIGI_V3+ |
@@ -19896,6 +19911,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | tmn smart a15 | atlas40 | tmn smart a15 |
 | ZTE | tmn smart a60 | kiska | tmn smart a60 |
 | ZTE | tmn smart a7 | sailboat | tmn smart a7 |
+| Zatec | ZPLAY1_2018 | Zatec_Zplay | ZPLAY1_2018 |
 | Zebex | Z-2252 | Z-2252 | Z-2252 |
 | Zebra | CC5000 | concierge | CCHUB1 |
 | Zebra | ET5X | ET50E | ET5X |
@@ -20022,6 +20038,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | bq | Aquaris X5 | Aquaris_X5 | Aquaris X5 |
 | bq | Aquaris X5 Plus | Aquaris_X5_Plus | Aquaris X5 Plus |
 | bq | BQ-5515L | BQru-5515L | BQ-5515L |
+| bq | BQ-5516L TWIN | BQru-5516L | BQ-5516L |
 | bq | Edison 3 | Edison_3 | Edison 3 |
 | bq | Edison 3 3G | Edison_3_3G | Edison 3 3G |
 | bq | Edison_3_mini | Edison_3_mini | Edison 3 mini |
