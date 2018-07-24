@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 23.07.2018
+Last sync is 24.07.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3521,6 +3521,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Fujitsu | arrows M04 PREMIUM | M04P | arrowsM04-PREMIUM |
 | Fujitsu | arrows Tab M01T | M01T | M01T |
 | Funai Electric |  | smdkv210 | ALM-001J |
+| Fusion5 | Fusion5 | Fusion5_F104B | Fusion5_F104B |
 | Fusion5 | Fusion5 | W104Plus | W104Plus |
 | Fusion5 | Fusion5_108 | Fusion5_108 | Fusion5_108 |
 | Future Mobile Technology | B-52 | 176HS1050232 | 176HS1050232 |
@@ -8948,6 +8949,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LT Electronics | LT_C2100 | LT_C2100 | LT_C2100 |
 | LT Electronics | LT_C2200 | LT_C2200 | LT C2200 |
 | LT Electronics | LT_C3300 | LT_C3300 | LT_C3300 |
+| LT Electronics | LT_S10_Lite | LT_S10_Lite | LT_S10_Lite |
 | LT Electronics | LT_S9_NOTE | LT_S9_NOTE | LT_S9_NOTE |
 | LT Electronics | LT_X5 | LT_X5 | LT_X5 |
 | LUVO | 001 | luvo_001 | Luvo 001 |
@@ -9996,6 +9998,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | MG series | Any 303 | TR10CD2_2 | TR10CD2 |
 | MG series | Any 303 | TR10CD2_3 | TR10CD2 |
 | MJS | T2702 | T2702 | T2702 |
+| MLAB | MB4 WIFI | MB4_WIFI | MB4 WIFI |
 | MOVI | Movi Projector Phone | Movi | Movi Projector Phone |
 | MOVIC | Dual | Dual | Dual |
 | MOVIC | F5003 | F5003 | F5003 |
@@ -12977,6 +12980,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | RCA | Voyager Pro | RCT6873W42M_F7 | RCT6873W42M_F7 |
 | RCA | XLD Series | XLDRCAV1 | XLDRCAV1 |
 | REACH | Q882 | Q882 | Q882 |
+| RED | HydrogenONE | HydrogenONE | H1A1000 |
 | Rainbow | WIKO | s5501 | RAINBOW |
 | Ratel | Cell | Cell | CELL |
 | Rayan | AM_TAB_7_03 | AMAA703 | AMA_A703 |
@@ -17324,6 +17328,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Technicolor | Tv Hub | uzx8020chm | Tv Hub |
 | Technicolor | Wind | uzw4030wnh | WIND |
 | Technicolor | Wind | uzw4030wnh | Wind |
+| Techpad | 816 | 816 | 816 |
 | Techpad | M5Plus | M5Plus | M5Plus |
 | Techpad | M6 | M6 | M6 |
 | Techpad | M6 Plus | M6Plus | M6Plus |
@@ -17403,6 +17408,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | PHANTOM5 | TECNO-PHANTOM5 | TECNO-PHANTOM5 |
 | Tecno | POP 1 Pro | TECNO-F3-13M | TECNO F3 |
 | Tecno | POP 1s | TECNO-F4 | TECNO F4 |
+| Tecno | POP 1s Pro | TECNO-F4Pro | TECNO F4 Pro |
 | Tecno | POP1 | TECNO-F3 | TECNO F3 |
 | Tecno | Phantom6 | Phantom6 | Phantom6 |
 | Tecno | Phantom6 plus | Phantom6-Plus | Phantom6-Plus |
@@ -17807,6 +17813,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vertex | Impress Lion (4G) | Impress_Lion_4G | Impress_Lion_4G |
 | Vertex | Impress Lotus | Impress_Lotus | Impress_Lotus |
 | Vertex | Impress Luck | Impress_Luck | Impress_Luck |
+| Vertex | Impress Phonic | Impress_Phonic | Impress_Phonic |
 | Vertex | Impress Play (4G) | Impress_Play | Impress_Play |
 | Vertex | Impress Ra (4G) | Impress_Ra | Impress_Ra |
 | Vertex | Impress Razor | Impress_Razor | Impress_Razor |
@@ -18518,6 +18525,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Xiaomi | MI MAX | helium | MI MAX |
 | Xiaomi | MI MAX | hydrogen | MI MAX |
 | Xiaomi | MI MAX 2 | oxygen | MI MAX 2 |
+| Xiaomi | MI MAX 3 | nitrogen | MI MAX 3 |
 | Xiaomi | MI MIX 2S | polaris | Mi MIX 2S |
 | Xiaomi | MI NOTE LTE | virgo | MI NOTE LTE |
 | Xiaomi | MI NOTE Pro | leo | MI NOTE Pro |
@@ -19950,6 +19958,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Zeki | Zeki TBQG884 | TBQG884 | TBQG884 |
 | Zen | ADMIRE CURVE NEO | ZEN_ADMIRE_CURVE_NEO | ADMIRE_CURVE_NEO |
 | Zen | ADMIRE SHINE | ADMIRE_SHINE | ADMIRE SHINE |
+| Zen | Admire Blaze | ZEN_ADMIRE_BLAZE | Admire Blaze |
 | Zen | ZEN ADMIRE NEO PLUS | ZEN_ADMIRE_NEO_PLUS | ADMIRE NEO+ |
 | Zen | ZEN ADMIRE UNITY | ZEN_ADMIRE_UNITY | ADMIRE_UNITY |
 | Zen | ZEN_ADMIRE_INFINITY | ZEN_ADMIRE_INFINITY | ADMIRE_INFINITY |
