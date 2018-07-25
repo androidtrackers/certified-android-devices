@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 24.07.2018
+Last sync is 25.07.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1711,6 +1711,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blu | C5 LTE | C0010UU | C5 LTE |
 | Blu | C5X | C0000UU | C5X |
 | Blu | C5X | C0010LL | C5X |
+| Blu | C6 | C031P | C6 |
 | Blu | DASH L2 | BLU_DASH_L2 | BLU DASH L2 |
 | Blu | DASH M2 | BLU_DASH_M2 | BLU DASH M2 |
 | Blu | DASH X LTE | DASH_X_LTE | BLU DASH X LTE |
@@ -2651,6 +2652,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Danew | Dslide714 | Dslide714 | Dslide714 |
 | Danew | Dslide971DC | Dslide971DC | Dslide971DC |
 | Danew | Konnect 402 | Konnect402 | Konnect402 |
+| Danew | Konnect 502 | Konnect_502 | Konnect_502 |
 | Danew | Konnect 504 | Konnect_504 | Konnect_504 |
 | Danew | Konnect 506 | Konnect506 | Konnect506 |
 | Danew | Konnect 510 colors | Konnect_510 | Konnect_510_colors |
@@ -3247,6 +3249,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Flnet | BandOTT | ba101 | ba101 |
 | Fluo | F | F | F |
 | Fluo | F Plus | F_Plus | F_Plus |
+| Fluo | Fluo | S504050 | S504050 |
 | Fly | 5_S | 5_S | 5S |
 | Fly | Champ | Champ | FS529 |
 | Fly | Cirrus 11 | Cirrus_11 | FS517 |
@@ -3846,8 +3849,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Gionee | X1S | GIONEE_SWW1627 | X1S |
 | Go Mobile | GO Onyx | GO_Onyx_LTE | GO Onyx LTE |
 | Go Mobile | GO Onyx HD | Go_Onyx_HD | Go Onyx HD |
+| Go Mobile | GO Onyx mini | GO_Onyx_mini | GO Onyx mini |
 | Go Mobile | GO1004 | GO1004 | GO1004 |
 | Go Mobile | GO1402S | GO1402S | GO1402S |
+| Go Mobile | GO1452 | GO1452 | GO1452 |
 | GoClever | INSIGNIA 550i | INSIGNIA_550i | INSIGNIA_550i |
 | GoClever | QUANTUM 1010N | QUANTUM_1010N | QUANTUM_1010N |
 | GoClever | QUANTUM 400 LITE | QUANTUM_400_LITE | QUANTUM_400_LITE |
@@ -3857,6 +3862,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | GoClever | TQ700/QUANTUM 700/TAB | TQ700 | TQ700 |
 | Gobox | T2 | T2 | T2 |
 | Gol Mobile | TEAM_7_3G | TEAM_7_3G | TEAM_7_3G |
+| Gome | GOME_C7_Note | GOME_C7_Note | GOME_C7_Note |
 | Gonna | Zebra | Zebra | Zebra |
 | Goo | g08 | v12dn | View Prime |
 | Google | Android Wear | bluegill | Alberto |
@@ -5980,6 +5986,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | HUAWEI MediaPad M5 8.4" | HWSHT | SHT-W09 |
 | Huawei | HUAWEI MediaPad M5 Pro | HWCMR | CMR-AL19 |
 | Huawei | HUAWEI MediaPad M5 Pro | HWCMR | CMR-W19 |
+| Huawei | HUAWEI MediaPad M5 lite | HWBAH2 | BAH2-L09 |
+| Huawei | HUAWEI MediaPad M5 lite | HWBAH2 | BAH2-W19 |
 | Huawei | HUAWEI MediaPad T3 10 | HWAGS-Q | AGS-L03 |
 | Huawei | HUAWEI MediaPad T3 10 | HWAGS-Q | AGS-L09 |
 | Huawei | HUAWEI MediaPad T3 10 | HWAGS-Q | AGS-W09 |
@@ -7290,6 +7298,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Irbis | TZ967 | TZ967 | TZ967 |
 | Irbis | TZ968 | TZ968 | TZ968 |
 | Irbis | TZ969 | TZ969 | TZ969 |
+| Iris | IS2PLUS | IS2PLUS | IS2PLUS |
 | Iris | IS2S | IS2S | IS2S |
 | Iris | IS2_Plus | IS2_Plus | IS2_Plus |
 | Iris | NEXT P | NEXT_P | NEXT_P |
@@ -7299,6 +7308,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Iris | VOX  Energy | VOX_Energy | VOX Energy |
 | Iris | VOX  STEEL Plus | VOX_STEEL_Plus | VOX STEEL Plus |
 | Iris | VOX  STEEL Plus | VOX_STEEL_Plus_V2 | VOX STEEL Plus |
+| Iris | VOX POP plus | VOX_POP_plus | VOX POP plus |
 | Iris | Vox_5S | Vox_5S | Vox_5S |
 | Isafe | IS520.1 | IS520_1 | IS520_1 |
 | Itel | A11 | itel_A11 | itel A11 |
@@ -10014,6 +10024,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | MTC | Vodafone Smart mini | Vodafone_875 | MTC 970H |
 | MTN Group | 5982C3 | MTN-TBW5982C3 | MTN-TBW5982C3 |
 | MTN Group | 8978P | MTN-8978P | MTN-8978P |
+| MTN Group | K919 | K919 | K919 |
 | MTN Group | MTN Sm@rt L840 | MTN-L840 | MTN Sm@rt L840 |
 | MTN Group | MTN Sm@rt L860 | MTN-L860 | MTN Sm@rt L860 |
 | MTN Group | MTN Sm@rt L860 | MTN-L860 | MTN-L860 |
@@ -11090,6 +11101,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Multilaser | Ms5 | MTL-MS5 | MS5 |
 | Multilaser | Ms6 | MS6 | MS6 |
 | My Go | GoTab GBT10 | GBT10 | GoTab_GBT10 |
+| MyFon | S5 | S5 | S5 |
 | MyPhone (PL) | C-Smart pix | C-Smart_pix_JMP | C-Smart_pix |
 | MyPhone (PL) | Cube LTE | CUBE_LTE_PLAY | CUBE_LTE |
 | MyPhone (PL) | Fun_LTE | Fun_LTE | myPhone Fun LTE |
@@ -11499,9 +11511,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nokia | Nokia 6 | PLE | TA-1025 |
 | Nokia | Nokia 6 | PLE | TA-1033 |
 | Nokia | Nokia 6 | PLE | TA-1039 |
-| Nokia | Nokia 6 Plus | DRG_sprout | Nokia 6.1 Plus |
 | Nokia | Nokia 6.1 | PL2 | Nokia 6.1 |
 | Nokia | Nokia 6.1 | PL2_sprout | Nokia 6.1 |
+| Nokia | Nokia 6.1 Plus | DRG_sprout | Nokia 6.1 Plus |
 | Nokia | Nokia 7 | C1N | TA-1041 |
 | Nokia | Nokia 7 plus | B2N | Nokia 7 plus |
 | Nokia | Nokia 7 plus | B2N_sprout | Nokia 7 plus |
@@ -16109,6 +16121,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Starlight | I STAR PLUS | I_STAR_PLUS | I_STAR_PLUS |
 | Starlight | Madrid | Madrid | Madrid |
 | Starlight | STAR_MIX | STAR_MIX | STAR_MIX |
+| Starlight | Safari | Safari | Safari |
 | Starlight | Star_Plus | Star_Plus | Star_Plus |
 | Starlight | Starplus 7 | STARPLUS7 | STARPLUS7 |
 | Starlight | UMI_G | UMI_G | UMI_G |
@@ -17569,6 +17582,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Timovi | Infinit Lite 2 | Timovi_Infinit_Lite_2 | Infinit_Lite_2 |
 | Timovi | Infinit MX Pro | Infinit_MX_Pro | Infinit MX Pro |
 | Timovi | Insignia Delta 2 | Insignia_Delta_2 | Insignia Delta 2 |
+| Timovi | Timovi | Insignia_Delta_2 | Insignia Delta 2 |
 | Timovi | Timovi Infinit MX | Timovi_Infinit_MX | Infinit MX |
 | Timovi | Timovi Infinit X CAM | Timovi_Infinit_X_CAM | Infinit_X_CAM |
 | Timovi | Timovi_Vision_PRO | Timovi_Vision_PRO | Vision_PRO |
@@ -17719,12 +17733,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ubiquiti | UVP-X | grizzlies_telefi4xp | UVP-X |
 | Ulefone | Armor 2 | Armor_2 | Armor_2 |
 | Ulefone | Armor 2S | Armor_2S | Armor_2S |
+| Ulefone | Armor X | Armor_X | Armor_X |
 | Ulefone | MIX | t816_gq_ulefone | MIX |
 | Ulefone | MIX S | t815_gq_ulefone | MIX_S |
 | Ulefone | MIX_2 | MIX_2 | MIX_2 |
 | Ulefone | Power 2 | Power_2 | Power_2 |
 | Ulefone | Power 3 | Power_3 | Power_3 |
 | Ulefone | Power 3S | Power_3S | Power 3S |
+| Ulefone | Power 5 | Power_5 | Power_5 |
 | Ulefone | S7 | t662_gq_n1616_we | Ulefone S7 |
 | Ulefone | S7 | t662_gq_ulefone | Ulefone S7 |
 | Ulefone | S8 | S8 | Ulefone S8 |
@@ -17733,6 +17749,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ulefone | S8_Pro | S8_pro1 | S8_Pro |
 | Ulefone | S9_Pro | S9_Pro | S9_Pro |
 | Ulefone | T1 | Ulefone_T1 | T1 |
+| Ulefone | Ulefone_X | Ulefone_X | Ulefone_X |
 | Umax | UMAX | visionbook_P55_LTE | visionbook P55 LTE |
 | Umax | VisionBook P50 Plus LTE | P50Plus_LTE | VisionBook_P50Plus_LTE |
 | Umax | VisionBook P55 X2 LTE | VisionBook_P55_X2_LTE | VisionBook P55 X2 LTE |
@@ -17952,6 +17969,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vgo Tel | Ocean9L | Ocean9L | Ocean9L |
 | Vgo Tel | VENTURE V12 | Venture_V12 | Venture V12 |
 | Vgo Tel | Venture V8 | VentureV8 | Venture V8 |
+| Vgo Tel | VentureV10 | VentureV10 | VentureV10 |
 | Vgo Tel | i Smart | i_Smart | i_Smart |
 | Vida | VIDA - i512 | i512 | VIDA_i512 |
 | Viettel | V8802 | V8802 | V8802 |
@@ -18931,6 +18949,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | BLADE A521 | P809F10 | BLADE A521 |
 | ZTE | BLADE A521 | P809F10 | ZTE BLADE A521 |
 | ZTE | BLADE A530 | P639F10 | BLADE A530 |
+| ZTE | BLADE A530 | P639F10L | BLADE A530 |
 | ZTE | BLADE A6 | P840F13 | BLADE A6 |
 | ZTE | BLADE A6 MAX | P809F15 | BLADE A6 MAX |
 | ZTE | BLADE A601 | ZTE_BLADE_A601 | ZTE BLADE A601 |
@@ -18955,6 +18974,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | BLADE L5 PLUS | P680A20 | ZTE BLADE L5 PLUS |
 | ZTE | BLADE L7 | P731F10 | BLADE L7 |
 | ZTE | BLADE L7 | P731F10 | ZTE BLADE L7 |
+| ZTE | BLADE L7A | P731F12 | BLADE L7A |
 | ZTE | BLADE V0710 | ZTE_BLADE_V0710 | ZTE BLADE V0710 |
 | ZTE | BLADE V0720 | ZTE_BLADE_V0720 | ZTE BLADE V0720 |
 | ZTE | BLADE V0730 | ZTE_BLADE_V0730 | ZTE BLADE V0730 |
@@ -18972,6 +18992,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | BLADE V8 SE | ZTE_BLADE_V0820 | BLADE V8 SE |
 | ZTE | BLADE V8 mini | ZTE_BLADE_V0850 | BLADE V8 mini |
 | ZTE | BLADE V8Q | P817F01 | BLADE V8Q |
+| ZTE | BLADE V9 VITA | P840F03 | BLADE V9 VITA |
 | ZTE | BOLTON | bolton | N9560 |
 | ZTE | BV0701 | P653N11 | ZTE BV0701 |
 | ZTE | BV0701 | P653N11 | ZTE V0721 |
@@ -19146,6 +19167,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | Blade Vec 4G | msm8226 | ZTE Blade Vec 4G |
 | ZTE | Blade Vec Pro | P692S20_M92 | ZTE Blade Vec Pro |
 | ZTE | Blade X Max | stollen | Z983 |
+| ZTE | Blade X2 Max | Z6400 | Z6400C |
 | ZTE | Bland A610 | ZTE_BLADE_A610 | ZTE BLADE A610 |
 | ZTE | Bland A610 | ZTE_BLADE_A610 | ZTE Blade A610 |
 | ZTE | Bolton | florist | Z986DL |
@@ -19411,6 +19433,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | NX591J | NX591J | NX591J |
 | ZTE | NX597J | NX597J | NX597J |
 | ZTE | NX601J | NX601J | NX601J |
+| ZTE | NX612J | NX612J | NX612J |
 | ZTE | NX907J | NX907J | NX907J |
 | ZTE | OWN FUN 5(4G) | VFD511 | OWN FUN 5(4G) |
 | ZTE | OWN One Plus | ZTE_Blade_V580 | OWN One Plus |
@@ -19821,6 +19844,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | Z836F | guardian | Z836F |
 | ZTE | Z837VL | breaker | Z837VL |
 | ZTE | Z839 | sweet | Z839 |
+| ZTE | Z839V | sweet | Z839V |
 | ZTE | Z850 | sif | Z850 |
 | ZTE | Z861BL | benz | Z861BL |
 | ZTE | Z862VL | captain | Z862VL |
@@ -19858,10 +19882,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | ZTE A0616 | P637S15 | ZTE A0616 |
 | ZTE | ZTE A0620 | P840S13 | ZTE A0620 |
 | ZTE | ZTE A0622 | P817S13 | ZTE A0622 |
+| ZTE | ZTE A2017G | ailsa_ii | ZTE A2017G |
 | ZTE | ZTE A2018 | candice | ZTE A2018 |
 | ZTE | ZTE A520S | P809S10 | ZTE A520S |
+| ZTE | ZTE A530 | P639T10 | ZTE A530 |
+| ZTE | ZTE A606 | P639S10 | ZTE A606 |
 | ZTE | ZTE AVID 4 | calbee | Z855 |
 | ZTE | ZTE BLADE A0605 | P809F15 | ZTE BLADE A0605 |
+| ZTE | ZTE BLADE A0605 | P809F15 | ZTE BLADE A6 MAX |
 | ZTE | ZTE BLADE A0620 | P840F12 | ZTE BLADE A0620 |
 | ZTE | ZTE BLADE A0621 | P840F13 | ZTE BLADE A0621 |
 | ZTE | ZTE BLADE A0622 | P809F12 | ZTE BLADE A0622 |
@@ -19872,6 +19900,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | ZTE BLADE A520 | P637F10 | ZTE BLADE A520 |
 | ZTE | ZTE BLADE A520C | P809F10 | ZTE BLADE A520C |
 | ZTE | ZTE BLADE A521 | P809F10 | ZTE BLADE A521 |
+| ZTE | ZTE BLADE A530 | P639F10 | ZTE BLADE A530 |
 | ZTE | ZTE BLADE A6 | P840F13 | ZTE BLADE A6 |
 | ZTE | ZTE BLADE A602 | P637F02 | ZTE BLADE A602 |
 | ZTE | ZTE BLADE A610 | ZTE_BLADE_A610 | ZTE BLADE A610 |
@@ -19881,6 +19910,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | ZTE BLADE L111 | ZTE_BLADE_L110 | ZTE BLADE L110 |
 | ZTE | ZTE BLADE L111 | ZTE_BLADE_L110 | ZTE BLADE L111 |
 | ZTE | ZTE BLADE L7 | P731F10 | ZTE BLADE L7 |
+| ZTE | ZTE BLADE L7A | P731F12 | ZTE BLADE L7A |
+| ZTE | ZTE BLADE L8 | P731F12 | ZTE BLADE L8 |
 | ZTE | ZTE BLADE V0710 | ZTE_BLADE_V0710 | ZTE BLADE V0710 |
 | ZTE | ZTE BLADE V0720 | ZTE_BLADE_V0720 | ZTE BLADE V0720 |
 | ZTE | ZTE BLADE V0800 | ZTE_BLADE_V0800 | ZTE BLADE V0800 |
@@ -19889,7 +19920,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | ZTE BLADE V0850 | ZTE_BLADE_V0850 | ZTE BLADE V0850 |
 | ZTE | ZTE BLADE V0900 | P450F10 | ZTE BLADE V0900 |
 | ZTE | ZTE BLADE V0900 | P450F10 | ZTE BLADE V9 |
+| ZTE | ZTE BLADE V0920 | P840F03 | ZTE BLADE V0920 |
 | ZTE | ZTE BLADE V7 PLUS | P653A11 | ZTE BLADE V7 PLUS |
+| ZTE | ZTE BLADE V9 | P450F10 | ZTE BLADE V9 |
 | ZTE | ZTE BLade Zmax | crocus | Z982 |
 | ZTE | ZTE BV0870 | P840V71 | ZTE BV0870 |
 | ZTE | ZTE Blade A522 | P817E53 | ZTE Blade A522 |
@@ -19897,11 +19930,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | ZTE Blade L5 | P172A40 | ZTE Blade L5 |
 | ZTE | ZTE Blade V770 | P852F52 | ZTE Blade V770 |
 | ZTE | ZTE Blade V8 Arc | P840V80 | ZTE Blade V8 Arc |
+| ZTE | ZTE Blade V9 | P450S10 | ZTE V0900 |
 | ZTE | ZTE C2017 | alice | ZTE C2017 |
 | ZTE | ZTE Fanfare 3 | kelly | Z852 |
 | ZTE | ZTE Overture 3 | jeff | Z851 |
 | ZTE | ZTE Tempo X | grayjoylite | N9137 |
 | ZTE | ZTE V0840 | P817S01 | ZTE V0840 |
+| ZTE | ZTE V0920 | P840S03 | ZTE V0920 |
+| ZTE | ZTE V890 | sdm660_64 | ZTE V890 |
 | ZTE | ZTE ZFive C LTE | msm8909 | Z558VL |
 | ZTE | ZTU31 | P852F52 | ZTU31 |
 | ZTE | ZXY-ZTE_N8010 | N8010_YM | ZXY-ZTE_N8010 |
@@ -20012,6 +20048,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | alter | MIG | MIG | MIG |
 | aoson | M753 | M753 | M753 |
 | aoson | R103 | R103 | R103 |
+| aoson | aoson | M815 | M815 |
 | bq | Aquaris A4.5 | Aquaris_A45_sprout | Aquaris A4.5 |
 | bq | Aquaris A4.5 | Aquaris_A45_sprout | Aquaris_A4.5 |
 | bq | Aquaris E10 | Aquaris_E10 | Aquaris E10 |
