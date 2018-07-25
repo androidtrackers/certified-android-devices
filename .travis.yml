@@ -4,5 +4,6 @@ node_js:
   - "node"
 
 script:
+  - wget -q https://github.com/fabianonline/telegram.sh/raw/master/telegram && chmod +x telegram
   - chmod +x sync.sh
   - ./sync.sh
