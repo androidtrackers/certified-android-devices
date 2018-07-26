@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 25.07.2018
+Last sync is 26.07.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1651,7 +1651,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blackview | A9 Pro | A9_Pro | A9_Pro |
 | Blackview | BV4000 | BV4000 | BV4000 |
 | Blackview | BV4000Pro_RU | BV4000Pro | BV4000Pro-RU |
+| Blackview | BV5800 | BV5800 | BV5800 |
 | Blackview | BV5800PRO | BV5800_PRO | BV5800 PRO |
+| Blackview | BV5800PRO_RU | BV5800Pro_RU | BV5800Pro_RU |
+| Blackview | BV5800_RU | BV5800_RU | BV5800_RU |
 | Blackview | BV6000 | Blackview | BV6000 |
 | Blackview | BV6000 | SOLID_4G1 | SOLID_4G1 |
 | Blackview | BV6000S_RU | BV6000S_RU | BV6000S_RU |
@@ -1959,6 +1962,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Camfone | Hero X | Hero_X | Hero X |
 | Camfone | Hero_SX | Hero_SX | Hero SX |
 | Camfone | Honey Y1 | Honey_Y1 | Honey Y1 |
+| Camfone | Mega 10 | Mega_10 | Mega 10 |
 | Canal Digital | OnePlace | canal_sat_bcm | S70CDS |
 | Candor | PHS-601 | phs601 | PHS-601 |
 | Captiva | CAPTIVA Pad 10 3G Plus | Pad_10_3G_Plus | Captiva Pad 10 3G Plus |
@@ -2978,6 +2982,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ESI Enterprises | Monster M7 Tablet | MONSTERM7 | M7 |
 | ESI Enterprises | Trinity T101 | Trinity_T101 | Trinity T101 |
 | ESI Enterprises | Trinity T900 | Trinity_T900 | Trinity T900 |
+| EXO S.A. | Wave i007Kids | Wave_i007Kids | Wave i007Kids |
 | EXO S.A. | wave-i007w | wave-i007w | wave-i007w |
 | Echo Mobiles | ECHO_HOLI | HOLI | ECHO_HOLI |
 | Echo Mobiles | HORIZON | HORIZON | HORIZON |
@@ -5395,6 +5400,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | lt971 | LT971 | LT971 |
 | Hisense | u972 | HS7731SP | U972 |
 | Hisense | vision2_1 | vision2_1 | vision2_1 |
+| Hiya | 5-0 | 5-0 | 5-0 |
 | Hiya | 5-0 | 5_0 | 5-0 |
 | Hiya | 5.5 | HIYA5_5 | 5.5 |
 | Hoffmann | X Max | X-Max | X-Max |
@@ -6916,6 +6922,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | IView | SupraPad i785Q | anchor | i785Q |
 | Ice Phone | Mini | ice_phone_mini | Ice-Phone Mini |
 | Icon | Portal_10i | Portal_10i | NTMC17 |
+| Ikimobile | GO4.5S | GO4_5S | GO4.5S |
 | Ikimobile | KF45 | KF45 | KF45 |
 | Ikon | IK-7108 | IK-7108 | IK-7108 |
 | Ikon | IK-787 | IK-787 | IK-787 |
@@ -9169,6 +9176,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Leagoo | KIICAA POWER | KIICAA_POWER | KIICAA POWER |
 | Leagoo | M9 | M9 | M9 |
 | Leagoo | M9 Pro | M9_Pro | M9 Pro |
+| Leagoo | P1 | P1 | P1 |
 | Leagoo | Power 5 | Power_5 | Power 5 |
 | Leagoo | S9 | S9 | S9 |
 | Leagoo | T5 | T5 | T5 |
@@ -9801,6 +9809,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lenovo | Z2 | z2t | Lenovo Z2 |
 | Lenovo | Z2w | z2w | Lenovo Z2w |
 | Lenovo | Z5 | jd2018 | Lenovo L78011 |
+| Lenovo | Z5 | jd2018_cmcc | Lenovo L78011 |
 | Lenovo | Z90/VIBE Shot | zoom_fdd | Lenovo Z90 |
 | Lenovo | Z90/VIBE Shot | zoom_fdd | Lenovo Z90-7 |
 | Lenovo | Z90/VIBE Shot | zoom_tdd | Lenovo Z90-3 |
@@ -10079,6 +10088,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Masstel | Masstel Juno S6 | Masstel_Juno_S6 | Masstel_Juno_S6 |
 | Masstel | Masstel Tab7 | 3G_Tablet_PC | Masstel Tab7 |
 | Masstel | Masstel Tab8 | Masstel_Tab8 | Masstel Tab8 |
+| Masstel | Masstel_Juno_Q3 | Masstel_Juno_Q3 | Masstel_Juno_Q3 |
 | Masstel | Masstel_Tab10 | Masstel_Tab10 | Masstel Tab10 |
 | Masstel | N535 | Masstel_N535 | Masstel N535 |
 | Masstel | Tab7LTE | Masstel_Tab7LTE | Masstel_Tab7LTE |
@@ -11445,6 +11455,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Neostra | ViewPad 7A | ViewPad-Kids-7A | ViewPad-Kids-7A |
 | Netgear | NeoTVPrime | NeoTV | GTV100 |
 | New Balance | Run IQ | shasta | NB RunIQ |
+| Newsday | E1 | Newsday_E1 | Newsday_E1 |
 | Newsday | Newsday_N2+ | Newsday_N2_ | Newsday_N2+ |
 | Newsday | U5 | GIGI_U5 | U5 |
 | Nexian | journey one | Mi438S_sprout | Mi438S |
@@ -12435,6 +12446,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Polaroid | A7X_PTAB735X | PTAB735X | A7X_PTAB735X |
 | Polaroid | A7_PTAB735 | A7_PTAB735 | HS-7DTB39 |
 | Polaroid | A9x/PTAB935x | A9xPTAB935x | A9x/PTAB935x |
+| Polaroid | BDL5048 | BDL5048 | BDL5048PR001 |
 | Polaroid | Cosmo L | P5026A | P5026A |
 | Polaroid | Cosmo P5s | P5046A | P5046A |
 | Polaroid | Cosmo Z | P5047A | P5047A |
@@ -18325,6 +18337,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Wiko | BIRDY | BIRDY | BIRDY |
 | Wiko | BLOOM | s4700 | BLOOM |
 | Wiko | Barry | s7811 | BARRY |
+| Wiko | C210AE | C210AE | C210AE |
 | Wiko | C800 | W_C800S | W_C800S |
 | Wiko | C860 | W_C860 | W_C860 |
 | Wiko | CINK SLIM 2 | s8074 | CINK SLIM 2 |
@@ -18570,6 +18583,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Xiaomi | Mi 5s | capricorn | MI 5s |
 | Xiaomi | Mi A1 | tissot_sprout | MI A1 |
 | Xiaomi | Mi A1 | tissot_sprout | Mi A1 |
+| Xiaomi | Mi A2 Lite | daisy_sprout | Mi A2 Lite |
 | Xiaomi | Mi Box | once | MIBOX3 |
 | Xiaomi | Mi Note | virgo | MI NOTE LTE |
 | Xiaomi | Mi Note2 | scorpio | Mi Note 2 |
@@ -19902,6 +19916,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | ZTE BLADE A521 | P809F10 | ZTE BLADE A521 |
 | ZTE | ZTE BLADE A530 | P639F10 | ZTE BLADE A530 |
 | ZTE | ZTE BLADE A6 | P840F13 | ZTE BLADE A6 |
+| ZTE | ZTE BLADE A6 MAX | P809F15 | ZTE BLADE A6 MAX |
 | ZTE | ZTE BLADE A602 | P637F02 | ZTE BLADE A602 |
 | ZTE | ZTE BLADE A610 | ZTE_BLADE_A610 | ZTE BLADE A610 |
 | ZTE | ZTE BLADE A612 | P635F50 | ZTE BLADE A612 |
