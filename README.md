@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 26.07.2018
+Last sync is 27.07.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1894,6 +1894,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Brightstar | M8046IU | M8047IU | M8047IU |
 | British Telecom | BT Home SmartPhone III | BT_Home_SmartPhone_III | E81 |
 | British Telecom | HomeSmartphone d800 | d800 | BT Home SmartPhone S II |
+| Brondi | 620SZ | G223_JH | Brondi 620 SZ |
 | Brondi | 730 4G HD | Brondi_730_4G_HD | Brondi_730_4G_HD |
 | Brown | Brown2 | I9080_PH1 | brown 2 |
 | Brown | brown tab1 | brown_tab1 | brown tab1 |
@@ -3910,6 +3911,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Gplus | S9701 | GPLUS_S9701 | GPLUS_S9701 |
 | Gradiente | iphone C600 | GBC_bravo | iphone C600 |
 | Gradiente | iphone C600 | bravo | iphone C600 |
+| Greatwall | K701 | K701 | K701 |
 | Greatwall | T709GW | T709GW | Great Wall T709 |
 | Greatwall | W710 | W710 | W710 |
 | Grundig | GTB1030 | TA10CA2 | TA10CA2 |
@@ -9178,8 +9180,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Leagoo | M9 Pro | M9_Pro | M9 Pro |
 | Leagoo | P1 | P1 | P1 |
 | Leagoo | Power 5 | Power_5 | Power 5 |
+| Leagoo | S8 | S8 | S8 |
 | Leagoo | S9 | S9 | S9 |
 | Leagoo | T5 | T5 | T5 |
+| Leagoo | T5c | T5c | T5c |
 | Leagoo | T8s | T8s | T8s |
 | Leagoo | XRover | XRover | XRover |
 | Leagoo | Z7 | Z7 | Z7 |
@@ -11612,6 +11616,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | OTOT | S8 | S8 | S8 |
 | OTOT | V350 | V350 | V350 |
 | OYYU | T11 | OYYUT11 | OYYUT11 |
+| OYYU | T7Pro | T7Pro | T7Pro |
 | Oale | P1 | P1 | P1 |
 | Obi | MV1 | yam | OBI MV1 |
 | Obi | MV1 | yam | Obi MV1 |
@@ -12964,6 +12969,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | RCA | 7 Voyager | RCT6873W42 | RCT6873W42 |
 | RCA | 7 Voyager II | RCT6773W22B | RCT6773W22B |
 | RCA | 7 Voyager II | RCT6773W22BM | RCT6773W22BM |
+| RCA | 7 Voyager III | RCT6973W43MD | RCT6973W43MD |
 | RCA | Atlas 10 | RCT6703W12 | RCT6703W12 |
 | RCA | BNT-710 | BNT-710 | BNT-710 |
 | RCA | DAA730R / RCA DAA738R | MD7081 | DAA730R |
@@ -13005,6 +13011,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | RCA | XLD Series | XLDRCAV1 | XLDRCAV1 |
 | REACH | Q882 | Q882 | Q882 |
 | RED | HydrogenONE | HydrogenONE | H1A1000 |
+| RT Project | Wide | Wide | Wide |
 | Rainbow | WIKO | s5501 | RAINBOW |
 | Ratel | Cell | Cell | CELL |
 | Rayan | AM_TAB_7_03 | AMAA703 | AMA_A703 |
@@ -16146,6 +16153,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Stream | B2mini | B2mini | B2mini |
 | Stream | B2s | B2s | B2s |
 | Stream | B3Pro | B3Pro | B3Pro |
+| Stream | B3S | B3S | B3S |
 | Stream | FIXION | HS8937QC | FIXION |
 | Stream | Iron Pro | IRON_Pro | IRON Pro |
 | Stream | PERLA | PERLA | PERLA |
@@ -16863,6 +16871,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Alcatel 5 | A5A_INFINI | 5086D |
 | TCT (Alcatel) | Alcatel 5 | A5A_INFINI | 5086Y |
 | TCT (Alcatel) | Alcatel 5 | A5A_INFINI | 5186A |
+| TCT (Alcatel) | Alcatel 5 | A5A_INFINI | 5186D |
 | TCT (Alcatel) | Alcatel 5V | A5X | 5060A |
 | TCT (Alcatel) | Alcatel 5V | A5X | 5060D_RU |
 | TCT (Alcatel) | Alcatel 5X | A5X | 5060D |
@@ -18583,6 +18592,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Xiaomi | Mi 5s | capricorn | MI 5s |
 | Xiaomi | Mi A1 | tissot_sprout | MI A1 |
 | Xiaomi | Mi A1 | tissot_sprout | Mi A1 |
+| Xiaomi | Mi A2 | jasmine_sprout | Mi A2 |
 | Xiaomi | Mi A2 Lite | daisy_sprout | Mi A2 Lite |
 | Xiaomi | Mi Box | once | MIBOX3 |
 | Xiaomi | Mi Note | virgo | MI NOTE LTE |
@@ -20131,6 +20141,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iBRIT | IBRIT_I5 | i5 | IBRIT_I5 |
 | iBRIT | IBRIT_I7 | i7 | IBRIT_I7 |
 | iBRIT | Speed_Pro_Plus | SF56 | SF56 |
+| iBRIT | Z2Lite | Z2Lite | Z2Lite |
 | iBRIT | iBRIT SpeedX | SpeedX | SpeedX |
 | iBall | iBall | iBall_Slide_Brace_XJ | iBall Slide Brace XJ |
 | iBall | iBall | iBall_Slide_Dazzle_i7 | iBall Slide Dazzle i7 |
