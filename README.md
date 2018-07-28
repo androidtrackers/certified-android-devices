@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 27.07.2018
+Last sync is 28.07.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -89,6 +89,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Accent | Pearl_A4 | Pearl_A4 | Pearl A4 |
 | Accent | SPEED S8 | SPEED_S8 | SPEED_S8 |
 | Acegame S.A. | PROTON_JADE_2_PRO | PROTON_JADE_2_PRO | PROTON_JADE_2_PRO |
+| Acegame S.A. | SAPPHIRE_HDLT | SAPPHIRE_HDLT | SAPPHIRE_HDLT |
 | Acer |  | C6 | Acer E320 |
 | Acer |  | C6 | Acer E320-orange |
 | Acer |  | C7 | E330 |
@@ -508,6 +509,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Alphascan | SAT2242 WorkTab | ADP_WW | G2SMNT |
 | Altice | ALTICE S60 | S60 | S60 |
 | Altice | ALTICE S70 | S70 | S70 |
+| Altice | AlTICE S11 | S11 | S11 |
 | Altice | S31 | S31 | Altice_S31 |
 | Altice | S31 | S31 | S31 |
 | Altice | S41 | HS6737MT | S41 |
@@ -1598,6 +1600,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Binatone | Smart 63 | SMART63 | SMART63 |
 | Binatone | Smart 66 | SMART66 | SMART66 |
 | Bitel | B8416 | B8416 | B8416 |
+| Bitel | B8506 | B8506 | B8506 |
 | Bitel | B9401 | B9401 | B9401 |
 | Bitel | B9502 | B9502 | B9502 |
 | Bitel | B9504 | B9504 | B9504 |
@@ -3941,6 +3944,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Gtel | Gtel_Vivo3 | Gtel_Vivo3 | Gtel_Vivo3 |
 | Gtel | Gtel_X5mini | Gtel_X5mini | Gtel_X5mini |
 | Gtel | Gtel_X5s | Gtel_X5s | Gtel_X5s |
+| Gtel | Infinity 7 Pro | Infinity7Pro | Infinity 7 Pro |
 | Gtel | X5 | Gtel_X5 | Gtel X5 |
 | Gtel | X5plus | Gtel_X5plus | Gtel X5plus |
 | HKC | A79 Tablet | EM62 | A79 |
@@ -10022,6 +10026,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | MG series | Any 303 | TR10CD2_3 | TR10CD2 |
 | MJS | T2702 | T2702 | T2702 |
 | MLAB | MB4 WIFI | MB4_WIFI | MB4 WIFI |
+| MLS Innovation | PTB7QSG_3G | iQE200 | iQE200 |
 | MOVI | Movi Projector Phone | Movi | Movi Projector Phone |
 | MOVIC | Dual | Dual | Dual |
 | MOVIC | F5003 | F5003 | F5003 |
@@ -10620,6 +10625,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | MobiiStar | mobiistar E1 | mobiistar_E1 | mobiistar E1 |
 | MobiiStar | mobiistar E1 Selfie | E1_Selfie | E1 Selfie |
 | MobiiStar | mobiistar X | mobiistar_X | mobiistar X |
+| Mobile Initiative | ETHOS | ETHOS | ETHOS |
 | MobileTeleSystem | MTC SMART Surf 4G | MTC_SMART_Surf_4G | MTC_SMART_Surf_4G |
 | MobileTeleSystem | SMART Race2 4G | SMART_Race2_4G | SMART_Race2_4G |
 | MobileTeleSystem | SMART Start 2 | MTC_SMART_Start_2 | MTC_SMART_Start_2 |
@@ -11987,6 +11993,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | OwnMobile | OWN Smart \xc3\x962 | SMART_O2 | SMART_O2 |
 | OwnMobile | OWN_FUN_6 | OWN_FUN_6 | OWN FUN 6 |
 | OwnMobile | SMART 8 | Smart8 | Smart8 |
+| OwnMobile | SMART 9 | OWN_SMART_9 | OWN SMART 9 |
 | OwnMobile | Smart 9 Pro | Smart_9_Pro | Smart 9 Pro |
 | OwnMobile | Smart Plus Lte | SMART_PLUS_LTE | SMART PLUS LTE |
 | Oysters | T72HM3G | T72HM3G | T72HM3G |
@@ -15548,9 +15555,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | SkyLife | UHD2 | IC1110 | IC1110 |
 | SkyLife | skylife LTE TV | DMTS17SS | DMT_1621 |
 | Skyworth | Asia | globe_ap | globe |
+| Skyworth | Asia | open_fhd_ap | open_fhd |
 | Skyworth | Europe | globe_eu | globe |
 | Skyworth | North America | globe_na | globe |
 | Skyworth | Skyworth | grape | HPA02 |
+| Skyworth | South Africa | open_fhd_sa | open_fhd |
 | Skyworth | South America | globe_sa | globe |
 | Smailo | Smailo 2GO | Smailo_2GO | Smailo_2GO |
 | Smart | Advance Pro | Advance_Pro | Advance Pro |
@@ -17342,6 +17351,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TaiwanMobile | Amazing X3 | TX3 | Amazing X3 |
 | TaiwanMobile | Amazing_A32 | Amazing_A32 | Amazing_A32 |
 | TaiwanMobile | Amazing_A35 | Amazing_A35 | Amazing_A35 |
+| TaiwanMobile | Amazing_A55 | Amazing_A55 | Amazing_A55 |
 | Takara | MID 107 | MID107 | MID107 |
 | Takara | MID210 | MID210 | MID210 |
 | Tambo | TA-2 | TA-2 | TA-2 |
@@ -19813,6 +19823,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | V9S | V9S | myPadP4 |
 | ZTE | VERGATARIO 5 | ZTE_BLADE_L110 | VERGATARIO 5 |
 | ZTE | VERGATARIO5PLUS | ZTE_BLADE_L110 | VERGATARIO5PLUS |
+| ZTE | VFD 820 | VFD820 | VFD 820 |
 | ZTE | Vesta | proline | Z965 |
 | ZTE | Vip Racer III | atlas40 | Vip Racer III |
 | ZTE | Vodafone Smart Chat | turies | Vodafone Smart Chat |
