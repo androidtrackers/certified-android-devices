@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 28.07.2018
+Last sync is 29.07.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3218,6 +3218,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | F2 Mobile | LT18 | LT18 | LT18 |
 | FBC | M24IS810 | MX24 | TDA02 |
 | FBC | M24IS820 | fst01ms | M24IS820 |
+| FIREFLY MOBILE | AURII_AMUSE_3G | AURII_AMUSE_3G | AURII_AMUSE_3G |
 | FPT Trading | A15 | A15_01 | A15 |
 | FPT Trading | FPT S68 4G | FPT_S68_4G | FPT S68 4G |
 | FPT Trading | FPT X10 | X10 | FPT_X10 |
@@ -17345,6 +17346,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TSUNAMi | Tablet Tsunami TSTA080D1 | MG080D1T | MG080D1T |
 | TUNTUN English | DREAM PAD | delight | ITP-R408W |
 | TUPAD | TU7_58212_18222 | TU7_58212 | TU7_18222 |
+| TWOE | 2E E450A 2018 | E450A2018 | 2E E450 2018 |
 | TaiwanMobile | A5C | A5C | A5C |
 | TaiwanMobile | A6S | A6S | A6S |
 | TaiwanMobile | Amazing A8 | D78 | Amazing A8 |
