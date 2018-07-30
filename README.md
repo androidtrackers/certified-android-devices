@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 29.07.2018
+Last sync is 30.07.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1596,6 +1596,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Bigben | BB8252 | Bigben-TAB | BB8252 |
 | Bigben | GAMETAB-ONE | GAMETAB-ONE | GAMETAB-ONE |
 | Billion | Billion Capture+ | rimoB | Capture+ |
+| Billow | X703 | X703 | X703 |
 | Binatone | SMART64 | SMART64 | SMART64 |
 | Binatone | Smart 63 | SMART63 | SMART63 |
 | Binatone | Smart 66 | SMART66 | SMART66 |
@@ -2951,6 +2952,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | E-Boda | Eclipse G400M | Eclipse_G400M | Eclipse_G400M |
 | E-Boda | Eclipse G500HD | E-Boda_Eclipse_G500HD | Eclipse G500HD |
 | E-Boda | Eclipse G500M | Eclipse_G500M | Eclipse_G500M |
+| E-Tel | Q25 | Q25 | Q25 |
 | EBN | NEBUPOS3 | UY3A | NEBUPOS3 |
 | ECS | RealPad MA7BX2 | RealPad_MA7BX2_1 | RealPad MA7BX2 |
 | ECS | TC69CA2 | TC69CA2_1 | TC69CA2 |
