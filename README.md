@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 30.07.2018
+Last sync is 31.07.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1683,6 +1683,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blackview | Business_4_G1 | Business_4_G1 | Business_4_G1 |
 | Blackview | E7S | E7s | E7s |
 | Blackview | P10000 Pro | P10000_Pro | P10000 Pro |
+| Blackview | P10000 Pro | P10000_Pro | P10000_Pro |
 | Blackview | P2 Lite | P2Lite | P2Lite |
 | Blackview | P6000 | P6000 | P6000 |
 | Blackview | S6 | S6 | S6 |
@@ -6914,6 +6915,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | INQ Mobile |  | camden | INQ Cloud Touch |
 | INQ Mobile |  | camden | INQ Cloud Touch -parrot |
 | INQ Mobile |  | msm7627_surf | INQ Mayfair (EU) |
+| ION ELECTRONICS | Gravity | Gravity | Gravity |
 | ION ELECTRONICS | Kids | Kids | Kids |
 | IPRODA | T1144 | T1144 | T1144 |
 | IUNI | N1 | IUNI_N1 | IUNI N1 |
@@ -9180,6 +9182,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LeTV | Super TV X3-55 Pro | L553AN_US | X3-55 Pro |
 | LeTV | uMax85 | DemeterDV | uMax85 |
 | LeTV | x600 | x600 | X600 |
+| Leader Phone | Alphatel_T1 | Alphatel_T1 | Alphatel_T1 |
 | Leader Phone | INFINITY light | LP_INFINITY_light | INFINITY_light |
 | Leagoo | KIICAA MIX | KIICAA_MIX | KIICAA MIX |
 | Leagoo | KIICAA POWER | KIICAA_POWER | KIICAA POWER |
@@ -13121,6 +13124,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | SPC Mobile | L53 | L53 | L53 |
 | SPC Mobile | L54 | L54 | L54 |
 | SPC Mobile | L60 | SPC_L60 | L60 |
+| SPC Mobile | LAIKA | LAIKA | LAIKA |
 | SPC Mobile | S19 | S19 | S19 |
 | SPC Mobile | X1 | SPC_X1 | X1 |
 | STF Mobile | AERIAL | STFAERIAL | AERIAL |
@@ -17150,6 +17154,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Pixo 7 | PIXO7 | I212 |
 | TCT (Alcatel) | Pixo 7 | PIXO7 | I213 |
 | TCT (Alcatel) | Pop4 | POP455C | Pop4 |
+| TCT (Alcatel) | Rise_54 | Rise_54 | Orange Rise 54 |
 | TCT (Alcatel) | S4035_4G | Pop355 | S4035_4G |
 | TCT (Alcatel) | SHINE LITE | shine_lite | 5080D |
 | TCT (Alcatel) | SHINE LITE | shine_lite | 5080X |
@@ -18345,6 +18350,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | We (BD) | L7 | L7 | L7 |
 | We (BD) | T1 | WE_T1 | T1 |
 | We (BD) | WE B3 | WE_B3 | WE B3 |
+| We (BD) | WE F20 | WE_F20 | WE F20 |
 | We (BD) | WE L9 | WE_L9 | WE L9 |
 | We (BD) | WE R4 | WE_R4 | WE R4 |
 | We (BD) | WE V4 | WE_V4 | WE V4 |
