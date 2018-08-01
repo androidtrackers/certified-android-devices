@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 31.07.2018
+Last sync is 01.08.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -85,6 +85,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Abocom | A08SM | A08 | A08S |
 | Accent | CAMELEON C5 | CAMELEON_C5 | CAMELEON C5 |
 | Accent | FAST7 3G | FAST7_3G | FAST7 3G |
+| Accent | PEARL A6 | PEARL_A6 | PEARL A6 |
 | Accent | Pearl A4 PLUS | PEARL_A4_PLUS | PEARL A4 PLUS |
 | Accent | Pearl_A4 | Pearl_A4 | Pearl A4 |
 | Accent | SPEED S8 | SPEED_S8 | SPEED_S8 |
@@ -166,6 +167,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Acer | I110 | I1 | I110 |
 | Acer | Icona One 7 | vespa | B1-730HD |
 | Acer | Iconia One 10 | acer_Colnago | B3-A50 |
+| Acer | Iconia One 10 | acer_ColnagoFHD | B3-A50FHD |
 | Acer | Iconia One 10 | acer_jetfirelte | B3-A32 |
 | Acer | Iconia One 10 | corona | B3-A20 |
 | Acer | Iconia One 10 | corona | B3-A20B |
@@ -1526,6 +1528,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Barnes and Noble | HD+ | ovation | BNTV600 |
 | Barnes and Noble | NOOK\xc2\xae HD | hummingbird | BNTV400 |
 | Barnes and Noble | NOOK\xc2\xae HD+ | ovation | BNTV600 |
+| Barnes and Noble | Nook Tablet 7\xe2\x80\x9d | st16c7bnn | BNTV450 |
 | Becrypt | Convex 430 | granite | Becrypt Convex 430 |
 | Becrypt | Convex 430 | granite | Becrypt Indigo 430 |
 | Beeline | Beeline\xc2\xa0Pro 4 | Beeline_Pro_4 | Beeline Pro 4 |
@@ -2585,6 +2588,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DEXP | B350 | B350 | B350 |
 | DEXP | B450 | B450 | B450 |
 | DEXP | BS250 | BS250 | BS250 |
+| DEXP | BS650 | BS650 | BS650 |
 | DEXP | DEXP B145 | B145 | B145 |
 | DEXP | DEXP G150 | G150 | G150 |
 | DEXP | DEXP Ixion M850 | M850 | Ixion M850 |
@@ -2990,6 +2994,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ESI Enterprises | Trinity T101 | Trinity_T101 | Trinity T101 |
 | ESI Enterprises | Trinity T900 | Trinity_T900 | Trinity T900 |
 | EXO S.A. | Wave i007Kids | Wave_i007Kids | Wave i007Kids |
+| EXO S.A. | Wave i007T | Wave_i007T | Wave i007T |
 | EXO S.A. | wave-i007w | wave-i007w | wave-i007w |
 | Echo Mobiles | ECHO_HOLI | HOLI | ECHO_HOLI |
 | Echo Mobiles | HORIZON | HORIZON | HORIZON |
@@ -3150,6 +3155,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Evercoss | U50C | U50C | U50C |
 | Evercoss | U55 | U55 | U55 |
 | Evercoss | U6 | EVERCOSS_U6 | U6 |
+| Evercoss | U6 PRIME | EVERCOSS_U6_PRIME | U6 PRIME |
 | Evercoss | U60 | EVERCOSS_U60 | U60 |
 | Evercoss | U60A | EVERCOSS_U60A | U60A |
 | Evercoss | U6A | EVERCOSS_U6A | U6A |
@@ -3250,6 +3256,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Figi | FIGI Ftwo | Ftwo | Ftwo |
 | Figi | FIGI Gone | Gone | Gone |
 | Figi | Mone | Mone | Mone |
+| Figi | Mtwo | Mtwo | Mtwo |
 | Figo | ATRIUM II F55L2 | F55L2 | ATRIUM II F55L2 |
 | Figo | CENTRIC S50G | S50G | CENTRIC S50G |
 | Filih | FX4423 | FX4423 | FX4423 |
@@ -3603,6 +3610,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Gasei S.A. | SENSE701 | SENSE701 | SENSE701 |
 | Gasei S.A. | SENSE704G | SENSE704G | SENSE704G |
 | Geanee | FXC-5A | FXC-5A | FXC-5A |
+| Gear Mobile | GM7 | GM7 | GM7 |
 | Geecoo | G1 | G1 | G1 |
 | Geecoo | G2 | G2 | G2 |
 | Geecoo | G3 | G3 | G3 |
@@ -5155,6 +5163,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | Hisense T17 | HS6580MT | Hisense T17 |
 | Hisense | Hisense T5 | HS6737MT | Hisense T5 |
 | Hisense | Hisense T5 Pro | HS6737MT | Hisense T5 Pro |
+| Hisense | Hisense U965 | HS6580MT | Hisense U965 |
 | Hisense | I300T | I300T | Hisense I300T |
 | Hisense | I56D2G | HS8929QC | Andromax I56D2G |
 | Hisense | I630U | I630U | Hisense I630U |
@@ -6818,6 +6827,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | \xe9\xba\xa6\xe8\x8a\x925 | HWMLA | HUAWEI MLA-AL10 |
 | Huawei | \xe9\xba\xa6\xe8\x8a\x925 | HWMLA | MLA-AL00 |
 | Huawei | \xe9\xba\xa6\xe8\x8a\x925 | HWMLA | MLA-AL10 |
+| HumaxDigital | Descodificador Orange TV | b604tnw | Descodificador Orange TV |
 | Hurricane | Ace | Ace | Ace |
 | Hurricane | Air | Air | Air |
 | Hurricane | Archer | Archer | Archer |
@@ -6834,6 +6844,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hurricane | Flame | Flame | Flame |
 | Hurricane | Flex | Flex | Flex |
 | Hurricane | Flint | Flint | Flint |
+| Hurricane | Fuel | Fuel | Fuel |
 | Hurricane | Fuse | Fuse | Fuse |
 | Hurricane | Galaxy | Galaxy | Galaxy |
 | Hurricane | Giga | HURRICANE_GIGA | HURRICANE_GIGA |
@@ -6846,6 +6857,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hurricane | Rush | Hurricane | Rush |
 | Hurricane | S43 | S43 | S43 |
 | Hurricane | SWIRL | Swirl | Swirl |
+| Hurricane | Splash | Splash | Splash |
 | Hurricane | Sprint | Sprint | Sprint |
 | Hurricane | Surge | Surge | Surge |
 | Hurricane | Ultra | Ultra | Ultra |
@@ -7253,6 +7265,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Inverse Net | EP172PR | EP172PR | EP172PR |
 | Ipro | Kylin 5.5 | Kylin_55 | Kylin 5.5 |
 | Ipro | Kylin_5.0S | Kylin_5_0S | Kylin_5.0S |
+| Ipro | MEGA | MEGA2 | MEGA2 |
 | Ipro | PHOENIX 5.0 | PHOENIX_50 | PHOENIX 5.0 |
 | Ipro | Phonenix50S | Phonenix50S | Phonenix50S |
 | Ipro | WIN | WIN | WIN |
@@ -7358,6 +7371,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Itel | S11 Plus | S11Plus | itel S11Plus |
 | Itel | S11 Pro | itel-S11-Pro | itel S11 Pro |
 | Itel | S11X | itel-S11X | itel S11X |
+| Itel | S13 | itel-S13 | itel S13 |
 | Itel | S21 | itel-S21 | itel S21 |
 | Itel | S31 | S31 | itel S31 |
 | Itel | S32 | itel-S32 | itel S32 |
@@ -9184,6 +9198,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LeTV | x600 | x600 | X600 |
 | Leader Phone | Alphatel_T1 | Alphatel_T1 | Alphatel_T1 |
 | Leader Phone | INFINITY light | LP_INFINITY_light | INFINITY_light |
+| Leader Phone | LP_Spectrum_S2 | LP_Spectrum_S2 | LP_Spectrum_S2 |
 | Leagoo | KIICAA MIX | KIICAA_MIX | KIICAA MIX |
 | Leagoo | KIICAA POWER | KIICAA_POWER | KIICAA POWER |
 | Leagoo | M9 | M9 | M9 |
@@ -10036,6 +10051,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | MOVI | Movi Projector Phone | Movi | Movi Projector Phone |
 | MOVIC | Dual | Dual | Dual |
 | MOVIC | F5003 | F5003 | F5003 |
+| MOVIC | K4 | K4 | K4 |
 | MOVIC | MOVIC-W2 | MOVIC-W2 | MOVIC-W2 |
 | MPman | MPDC1006 | MPDC1006 | MPDC1006 |
 | MPman | MPDC706 | MPDC706 | MPDC706 |
@@ -10608,6 +10624,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Mobicell | VEGA | VEGA | VEGA |
 | Mobicell | ZEN | ZEN | ZEN |
 | Mobicell | ZOOM | ZOOM | ZOOM |
+| MobiiStar | C1 Lite | C1_Lite | C1 Lite |
 | MobiiStar | LAI YUNA 1 | LAI_YUNA_1 | mobiistar LAI YUNA 1 |
 | MobiiStar | LAI Z1 4G | LAI_Z1_4G | mobiistar LAI Z1 4G |
 | MobiiStar | LAI Z2 | mobiistar_LAI_Z2 | mobiistar_LAI_Z2 |
@@ -11043,6 +11060,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Motorola | moto e(5) plus | rhannah | Moto E |
 | Motorola | moto e(5) plus | rhannah | moto e5 plus |
 | Motorola | moto e5 | nora_8917_n | moto e5 |
+| Motorola | moto e5 play | james | moto e5 play |
 | Motorola | moto e5 play | rjames_f | Moto E |
 | Motorola | moto e5 play | rjames_f | moto e5 play |
 | Motorola | moto e5 plus | ahannah | Moto E |
@@ -11471,6 +11489,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Neostra | ViewPad 7A | ViewPad-Kids-7A | ViewPad-Kids-7A |
 | Netgear | NeoTVPrime | NeoTV | GTV100 |
 | New Balance | Run IQ | shasta | NB RunIQ |
+| Newsday | A2 | Newsday_A2 | Newsday_A2 |
 | Newsday | E1 | Newsday_E1 | Newsday_E1 |
 | Newsday | Newsday_N2+ | Newsday_N2_ | Newsday_N2+ |
 | Newsday | U5 | GIGI_U5 | U5 |
@@ -11644,6 +11663,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Olivetti | OP110 | OP110 | OP110 |
 | Ollee | T07TR1W | T07TR1W | T07TR1W |
 | Ollee | XT080 | XT080 | XT080 |
+| OneClick | C2 Pro | C2_pro | C2 pro |
 | OnePlus | 2 | OnePlus2 | ONE A2003 |
 | OnePlus | 3 | OnePlus3 | ONEPLUS A3000 |
 | OnePlus | One | A0001 | A0001 |
@@ -11980,6 +12000,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oukitel | K6 | K6 | K6 |
 | Oukitel | K6000 Plus | K6000_Plus | K6000 Plus |
 | Oukitel | K7 | OUKITEL_K7 | K7 |
+| Oukitel | K8 | K8 | K8 |
 | Oukitel | K8000 | K8000 | K8000 |
 | Oukitel | MIX 2 | MIX_2 | MIX 2 |
 | Oukitel | OK6000 PLUS | OK6000_Plus | OK6000 Plus |
@@ -12928,6 +12949,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | QMobile | i8i PRO | i8i_PRO | QMobile i8i PRO |
 | QOOQ | QOOQV3 | QOOQ | QOOQ |
 | Qilive | Q.3778 | Q3778 | Q.3778 |
+| Qilive | Q10S55IN4G | Q10S55IN4G | Q10S55IN4G |
 | Qilive | Q10S5IN4G | Q10S5IN4G | Q10S5IN4G |
 | Qilive | Q9S55IN4G | Q9S55IN4G | Q9S55IN4G |
 | Qilive | W55 | W55 | W55 |
@@ -13161,6 +13183,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | STK(Santok) | Sync 5e | STK_Sync_5e | STK_Sync_5e |
 | STK(Santok) | Sync 5z | STK_Sync_5z | STK Sync 5z |
 | STK(Santok) | Transporter 1 | STK_Transporter_1 | STK_Transporter_1 |
+| SUPERSONIC | SC-774KT | SC-774KT | SC-774KT |
 | SUPERSONIC | SC_4317BT | SC_4317BT | SC_4317BT |
 | SUPERSONIC | TAB7091 | TAB7091 | TAB7091 |
 | Safaricom | SFCSTB2LITE | SFCSTB2LITE | SFCSTB2LITE |
@@ -13680,7 +13703,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Grand Prime | grandprimevelteltn | SM-G531M |
 | Samsung | Galaxy Grand Prime | grandprimeveltezt | SM-G531Y |
 | Samsung | Galaxy Grand Prime Plus | grandpplte | SM-G532F |
-| Samsung | Galaxy Grand Prime Plus | grandpplte | SM-G532G |
 | Samsung | Galaxy Grand Prime Plus | grandppltedtv | SM-G532MT |
 | Samsung | Galaxy Grand Prime Pro | j2y18lte | SM-J250F |
 | Samsung | Galaxy Grand duos | baffin | GT-I9082i |
@@ -13854,6 +13876,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J7 | j7elte | SM-J700F |
 | Samsung | Galaxy J7 | j7elte | SM-J700M |
 | Samsung | Galaxy J7 | j7ltechn | SM-J7008 |
+| Samsung | Galaxy J7 | j7poplteusc | SM-J727R4 |
 | Samsung | Galaxy J7 | j7topeltevzw | SM-J737VPP |
 | Samsung | Galaxy J7 | j7y17lte | SM-J730F |
 | Samsung | Galaxy J7 | j7y17lte | SM-J730FM |
@@ -13868,7 +13891,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J7 Pop | j7popeltetfntmo | SM-S737TL |
 | Samsung | Galaxy J7 Pop | j7popelteue | SM-J727U |
 | Samsung | Galaxy J7 Pop | j7popltespr | SM-J727P |
-| Samsung | Galaxy J7 Pop | j7poplteusc | SM-J727R4 |
 | Samsung | Galaxy J7 Pop | j7popltevzw | SM-J727V |
 | Samsung | Galaxy J7 Pop | j7popltevzw | SM-J727VPP |
 | Samsung | Galaxy J7 Pop | j7popqltetfnvzw | SM-S727VL |
@@ -15220,6 +15242,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Senwa | Telcel S6000 | Telcel_S6000 | S6000 |
 | Senwa | Telcel_LS50 | Telcel_LS50 | LS50 |
 | Senwa | Telcel_LS55 | Telcel_LS55 | LS55 |
+| Servicom IT | Smart Class | Smart_Class | Smart Class |
 | Sharp |  | SH7218T | SH7218T |
 | Sharp |  | SH8268U | SH8268U |
 | Sharp |  | SH8288U | SH8288U |
@@ -16095,7 +16118,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Southern Telecom | M10 | ST1009 | M10 |
 | Southern Telecom | M10 | ST1009 | M10/Q1010 |
 | Southern Telecom | M11H/Q1100 | M11H | M11H/Q1100 |
-| Southern Telecom | Nook Tablet 7\xe2\x80\x9d | st16c7bnn | BNTV450 |
 | Southern Telecom | P709/P716 | P709 | P709/P716 |
 | Southern Telecom | P7100 | P7100 | P7100 |
 | Southern Telecom | P909 | P909 | P909 |
@@ -16184,6 +16206,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Stylo | STYLO_S61 | STYLO_S61 | STYLO SM61 MAGIC+ |
 | Stylo | STYLO_S61 | STYLO_S61 | STYLO SV61 VECTOR+ |
 | Stylo | Ultra | Ultra | Ultra |
+| Stylo | V | V | V |
 | Stylo | VS5502 | VS5502 | VS5502 |
 | Stylus | AT703 | AT703 | AT703 |
 | Stylus | Comet_SP5002G | Comet_SP5002G | Comet_SP5002G |
@@ -16207,6 +16230,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Supraim | AYCON | AYCON | AYCON |
 | Supraim | SN10 | SN10 | SN10 |
 | Surtab | SURTAB | SURTAB_74G | SURTAB_74G |
+| Sweam | S55E | Senwa_S55E | S55E |
 | Sweam | Sweam | sweam | sweam |
 | Swipe | Elite 4G | Elite_4G | Elite 4G |
 | Swipe | Elite Dual | EliteDual | EliteDual |
@@ -18072,6 +18096,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vivo | V3Max A | PD1523 | vivo PD1523A |
 | Vivo | V5Plus | V5Plus | vivo V5Plus |
 | Vivo | V9 | 1727ID | vivo 1727 |
+| Vivo | V9 6GB | 1723CF | vivo 1723 |
 | Vivo | X5 | X5 | vivo X5 |
 | Vivo | X5M | PD1401CL | vivo X5M |
 | Vivo | X5Max | X5Max | vivo X5Max |
@@ -18162,6 +18187,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vivo | vivo Y71A | PD1731 | vivo Y71A |
 | Vivo | vivo Y75A | PD1718 | vivo Y75A |
 | Vivo | vivo Y83A | PD1803 | vivo Y83A |
+| Vivo | vivo Z1i | PD1730D | vivo Y89 |
+| Vivo | vivo Z1i | PD1730D | vivo Z1i |
 | Viwa | LIGHT ONE | VIWA_LIGHT_ONE | LIGHT ONE |
 | Viwa | LIGHT PLUS | VIWA_LIGHT_PLUS | LIGHT PLUS |
 | Viwa | M4 | M4 | M4 |
@@ -18268,6 +18295,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vonino | jax_S | Jax_S | Jax_S |
 | Vortex | Beat 8 | BEAT8 | BEAT 8 |
 | Vortex | V50LTE | V50LTE | V50LTE |
+| Voto | VOTO V2 | VOTO_V2 | VOTO V2 |
+| Voto | VOTO V2i` | VOTO_V2i | VOTO V2i |
 | Voto | VOTO V3 | VOTO_V3 | VOTO V3 |
 | Vsun | MARS  Touch | MARS_TOUCH | MARS TOUCH |
 | Vsun | MARS Nocam | MARS_NOCAM | MARS NOCAM |
@@ -19405,6 +19434,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | N9120 | elden | ZTE N9120 |
 | ZTE | N9130 | speed | N9130 |
 | ZTE | N9132 | cinco | N9132 |
+| ZTE | N9137 | msm8909go | N9137 |
 | ZTE | N9180 | N9180 | N9180 |
 | ZTE | N918St | N918St | BGH Joy Smart AXS II |
 | ZTE | N918St | N918St | BGH Joy Smart AXS II D |
@@ -19833,6 +19863,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | V9S | V9S | myPadP4 |
 | ZTE | VERGATARIO 5 | ZTE_BLADE_L110 | VERGATARIO 5 |
 | ZTE | VERGATARIO5PLUS | ZTE_BLADE_L110 | VERGATARIO5PLUS |
+| ZTE | VFD 520 | VFD520 | VFD 520 |
 | ZTE | VFD 820 | VFD820 | VFD 820 |
 | ZTE | Vesta | proline | Z965 |
 | ZTE | Vip Racer III | atlas40 | Vip Racer III |
