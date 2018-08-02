@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 01.08.2018
+Last sync is 02.08.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -89,6 +89,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Accent | Pearl A4 PLUS | PEARL_A4_PLUS | PEARL A4 PLUS |
 | Accent | Pearl_A4 | Pearl_A4 | Pearl A4 |
 | Accent | SPEED S8 | SPEED_S8 | SPEED_S8 |
+| Acegame S.A. | One_Mundial | One_Mundial | One_Mundial |
 | Acegame S.A. | PROTON_JADE_2_PRO | PROTON_JADE_2_PRO | PROTON_JADE_2_PRO |
 | Acegame S.A. | SAPPHIRE_HDLT | SAPPHIRE_HDLT | SAPPHIRE_HDLT |
 | Acer |  | C6 | Acer E320 |
@@ -1339,6 +1340,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Avoca | STB8098 | STB8098 | STB8098 |
 | Avoca | STB9097 | STB9097 | STB9097 |
 | Avvio | Avvio A400 | Avvio_A400 | Avvio_A400 |
+| Avvio | Avvio PRO450 | Avvio_PRO450 | Avvio_Pro450 |
 | Avvio | Avvio PRO450 | Avvio_Pro450 | Avvio_Pro450 |
 | Avvio | Avvio PRO550 | Avvio_Pro550 | Avvio_Pro550 |
 | Avvio | Avvio Platinum A50 | Avvio_A50 | Avvio_A50 |
@@ -2225,6 +2227,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ColorsMobile | P45 | Colors_P45 | Colors P45 |
 | ColorsMobile | P50_Plus | Colors_P50_Plus | Colors P50 Plus |
 | ColorsMobile | P65 | Colors_P65 | Colors P65 |
+| ColorsMobile | PRIDE 5E | P60 | P60 |
 | ColorsMobile | S1 | Colors_S1 | Colors S1 |
 | ColorsMobile | S11 | Colors_S11 | Colors S11 |
 | ColorsMobile | S9 | Colors_S9 | Colors S9 |
@@ -3265,6 +3268,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | FirstNationalBank | FNB | SP5045V | SP5045V |
 | Flash | Ivory | Ivory | Ivory |
 | Flash | Live | Live | Live |
+| Flnet | BANDOTT | ba101 | ba101 |
 | Flnet | BANDOTT Sandwich | ba201 | ba201 |
 | Flnet | BandOTT | ba101 | ba101 |
 | Fluo | F | F | F |
@@ -3956,6 +3960,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Gtel | Gtel_Vivo3 | Gtel_Vivo3 | Gtel_Vivo3 |
 | Gtel | Gtel_X5mini | Gtel_X5mini | Gtel_X5mini |
 | Gtel | Gtel_X5s | Gtel_X5s | Gtel_X5s |
+| Gtel | Infinity 7 Plus | Infinity7Plus | Infinity 7 Plus |
 | Gtel | Infinity 7 Pro | Infinity7Pro | Infinity 7 Pro |
 | Gtel | X5 | Gtel_X5 | Gtel X5 |
 | Gtel | X5plus | Gtel_X5plus | Gtel X5plus |
@@ -9204,6 +9209,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Leagoo | M9 | M9 | M9 |
 | Leagoo | M9 Pro | M9_Pro | M9 Pro |
 | Leagoo | P1 | P1 | P1 |
+| Leagoo | P1 Pro | P1_Pro | P1 Pro |
 | Leagoo | Power 5 | Power_5 | Power 5 |
 | Leagoo | S8 | S8 | S8 |
 | Leagoo | S9 | S9 | S9 |
@@ -10571,6 +10577,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Mito | MITO A21 | A21 | MITO A21 |
 | Mito | MITO A39 | A39 | mito A39 |
 | Mito | MITO T8 | MITO_T8 | MITO T8 |
+| Mito | MITO T85 | T85 | MITO T85 |
 | Mito | MITO_A19_1GB | MITO_A19_1GB | MITO_A19_1GB |
 | Mito | MITO_A19_2GB | MITO_A19_2GB | MITO_A19_2GB |
 | Mito | T5091A | MITO_A16 | MITO A16 |
@@ -11130,6 +11137,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Multilaser | MS45S | MS45S | MS45S |
 | Multilaser | MS45S | MS45S_A6 | MS45S_A6 |
 | Multilaser | MS50 | MS50 | MS50 |
+| Multilaser | MS50G | ML-TI-MS50G | MS50G |
 | Multilaser | MS50L | MS50L | MS50L |
 | Multilaser | MS50L 4G | MS50L_4G | MS50L_4G |
 | Multilaser | MS50M | MS50M | MS50M |
@@ -11176,6 +11184,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Myphone | CITY XL | myPhone_CityXL | myPhone CityXL |
 | Myphone | CUBE | myphone_cube | myPhone Cube |
 | Myphone | Fun 18x9 | FUN_18x9 | FUN_18x9 |
+| Myphone | Fun 6 Lite | Fun6Lite | myPhone_Fun6Lite |
 | Myphone | Fusion5_F803B | Fusion5_F803B | Fusion5_F803B |
 | Myphone | HAMMER BOLT | Hammer_Bolt | Bolt |
 | Myphone | Hammer AXE M LTE | AXE_M_LTE_OPM | HAMMER_AXE_M_LTE |
@@ -11233,6 +11242,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Myphone | myT5 DTV | myT5_DTV | myT5 DTV |
 | Myphone | myX1 | MY807 | MY807 |
 | Myphone | myX2 | myX2 | myX2 |
+| Myphone | myX3 | MYX3 | MYX3 |
 | Myphone | myX8 | myX8 | myX8 |
 | Myphone | neocore_E1R1 | neocore_E1R1 | neocore_E1R1 |
 | Myria | 3G MY8300 | 3G_MY8300 | 3G |
@@ -12040,6 +12050,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | PLDT | Smart Page 8 Pro | Smart_Page_8_Pro | Smart_Page_8_Pro |
 | POC | POC2 | CBL7509MM | POC2 |
 | POPTEL | P9000 MAX | P9000_MAX | P9000_MAX |
+| POPTEL | POPTEL P10 | P10 | P10 |
 | Packard Bell | PB1009 | PB1009 | PB1009 |
 | Packard Bell | T1000 | T1000 | T1000 |
 | Panasonic |  | H580VT_A | JT-H580VT |
@@ -13016,6 +13027,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | RCA | RCA RCT6213W23 | RCT6213W23 | RCT6213W23 |
 | RCA | RCA RCT6213W24 | RCT6213W24 | RCT6213W24 |
 | RCA | RCA RCT6703W13 | RCT6703W13 | RCT6703W13 |
+| RCA | RCA RCT6B03W12 | RCT6B03W12 | RCT6B03W12 |
 | RCA | RCA RCT6B83W12 | RCT6B83W12 | RCT6B83W12 |
 | RCA | RCA RCT6S03W12 | RCT6S03W12 | RCT6S03W12 |
 | RCA | RCA RCT6S03W14 | RCT6S03W14 | RCT6S03W14 |
@@ -13041,6 +13053,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | RCA | RCT6873W42M | RCT6873W42M | RCT6873W42M |
 | RCA | RCT6973W43 | RCT6973W43 | RCT6973W43 |
 | RCA | RCT6973W43M | RCT6973W43M | RCT6973W43M |
+| RCA | RCT6973W43R | RCT6973W43R | RCT6973W43R |
 | RCA | RLTP5573 | RLTP5573 | RLTP5573 |
 | RCA | Voyager Pro | RCT6873W42M_F7 | RCT6873W42M_F7 |
 | RCA | XLD Series | XLDRCAV1 | XLDRCAV1 |
@@ -16807,6 +16820,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | ALCATEL ONETOUCH PIXI 4 (4) | Pixi4-4 | 4034X |
 | TCT (Alcatel) | ALCATEL ONETOUCH PIXI 4 (4) | Pixi4-4 | Alcatel_4034F |
 | TCT (Alcatel) | ALCATEL ONETOUCH PIXI 4 (4) | Pixi4-4 | DIGICEL DL 1 lite |
+| TCT (Alcatel) | ALCATEL ONETOUCH PIXI 4 (4) | Pixi4-4 | Orange Rise 34 |
 | TCT (Alcatel) | ALCATEL ONETOUCH PIXI\xe2\x84\xa2 3 (4.5) | PIXI3_45_4G | 5017O |
 | TCT (Alcatel) | ALCATEL ONETOUCH POP 3 (5) | PIXI3-5 | 5015A |
 | TCT (Alcatel) | ALCATEL ONETOUCH POP 3 (5) | PIXI3-5 | 5015D |
@@ -17849,6 +17863,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Venus | V5Plus | V5_Plus | V5_Plus |
 | Venus | V5Plus Lite | V5_Plus_Lite | V5_Plus_Lite |
 | Venus | V5_Plus_ | V5_Plus_ | V5_Plus_ |
+| Venus | Venus V6 | Samos | Venus V6 |
 | VerD | E1 | E1 | E1 |
 | Verizon Wireless | Ellipsis 10 | QTAIR7 | QTAIR7 |
 | Verizon Wireless | Ellipsis 7 | QMV7A | QMV7A |
@@ -18015,6 +18030,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vestel | V_TAB_7030 | V_TAB_7030 | V_TAB_7030 |
 | Vestel | Venus E2 Plus | Ada | Venus E2 Plus |
 | Vestel | Venus E3 | Riga | Venus E3 |
+| Vestel | Venus Go | AdaGo | Venus GO |
 | Vestel | Venus V3 5020 | Arya | Venus_V3_5020 |
 | Vestel | Venus V3 5030 | Dyno | Venus_V3_5030 |
 | Vestel | Venus V3 5040 | Venus_V3_5040 | Venus_V3_5040 |
@@ -18298,6 +18314,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Voto | VOTO V2 | VOTO_V2 | VOTO V2 |
 | Voto | VOTO V2i` | VOTO_V2i | VOTO V2i |
 | Voto | VOTO V3 | VOTO_V3 | VOTO V3 |
+| Voto | Voto V5X | VOTO_V5X | VOTO V5X |
 | Vsun | MARS  Touch | MARS_TOUCH | MARS TOUCH |
 | Vsun | MARS Nocam | MARS_NOCAM | MARS NOCAM |
 | Vsun | MARS Note | MARS_NOTE | MARS NOTE |
@@ -20119,6 +20136,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Zuum | MAGNO | ZUUM_MAGNO | MAGNO |
 | Zuum | MAGNO | ZUUM_MAGNO-S | MAGNO-S |
 | Zuum | ONIX | ONIX | ONIX |
+| Zuum | STELLAR | STELLAR | STELLAR |
 | Zuum | ULTRA Z | Ultra_Z | ULTRA Z |
 | Zuum | ZUUM AKUS | AKUS | AKUS |
 | Zuum | ZUUM MAGNO PLUS | MAGNO_PLUS | MAGNO PLUS |
