@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 02.08.2018
+Last sync is 03.08.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -513,6 +513,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Altice | ALTICE S60 | S60 | S60 |
 | Altice | ALTICE S70 | S70 | S70 |
 | Altice | AlTICE S11 | S11 | S11 |
+| Altice | Altice S21 | STARNAUTE4 | STARNAUTE4 |
 | Altice | S31 | S31 | Altice_S31 |
 | Altice | S31 | S31 | S31 |
 | Altice | S41 | HS6737MT | S41 |
@@ -923,6 +924,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ark | Wizard 1 | Wizard_1 | Wizard_1 |
 | Artel | Artel U5 | U5 | U5 |
 | Artel | U3 | U3 | U3 |
+| Artel | U3 4G | U3_4G | U3_4G |
 | Artel | U4 | U4 | U4 |
 | Ascom Wireless Solutions | Ascom Myco 2 Cellular | ACBB | SH1 |
 | Ascom Wireless Solutions | Ascom Myco 2 WiFi | ABBB | SH1 |
@@ -3649,6 +3651,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Getac | Z710 | z710 | Getac Z710 |
 | Getac | ZX70 | zx70 | ZX70 |
 | Getac | ZX70 | zx70 | zx70 |
+| Ghia | GHIA_VECTOR_3G | GHIA_VECTOR_3G | GHIA_VECTOR_3G |
 | Ghia | GTKIDS7R | GTKIDS7R | GTKIDS7R |
 | Ghia | GTKIDS7V | GTKIDS7V | GTKIDS7V |
 | Ghia | ZEUS 3G | N2 | GHIA_ZEUS_3G |
@@ -6143,6 +6146,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | Honor Box voice | HWM311 | M311 |
 | Huawei | Honor Magic | HWNTS | HUAWEI NTS-AL00 |
 | Huawei | Honor Magic | HWNTS | NTS-AL00 |
+| Huawei | Honor Note10 | HWRVL | RVL-AL09 |
 | Huawei | Honor Play | HWCOR | COR-AL00 |
 | Huawei | Honor Play | HWCOR | COR-AL10 |
 | Huawei | Honor Play | HWCOR | COR-L29 |
@@ -9023,6 +9027,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lanix | ILIUM X110 | ILIUM_X110 | ILIUM X110 |
 | Lanix | ILIUM_PADE7 | ILIUM_PADE7V10 | ILIUM_PADE7 |
 | Lanix | Ilium Alpha 3 | Ilium_Alpha_3 | Ilium Alpha 3 |
+| Lanix | Ilium Alpha 9 | Ilium_Alpha_9 | Ilium Alpha 9 |
 | Lanix | Ilium L1050 | Ilium_L1050 | Ilium L1050 |
 | Lanix | Ilium L1100 | ILIUM_L1100 | ILIUM L1100 |
 | Lanix | Ilium L1120 | Ilium_L1120 | Ilium L1120 |
@@ -11142,6 +11147,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Multilaser | MS50L 4G | MS50L_4G | MS50L_4G |
 | Multilaser | MS50M | MS50M | MS50M |
 | Multilaser | MS50S | MS50S | MS50S |
+| Multilaser | MS50X | ML-TI-MS50X | MS50X |
 | Multilaser | MS50_4G | MS50_4G | MS50_4G |
 | Multilaser | MS55 | MS55 | MS55 |
 | Multilaser | MS55M | MS55M | MS55M |
@@ -11200,6 +11206,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Myphone | Pocket 18X9 | myPhone_Pocket_18x9 | myPhone_Pocket_18x9 |
 | Myphone | Pocket18X9 LTE | Pocket_18x9_LTE | Pocket_18x9_LTE |
 | Myphone | Prime 18x9 | Prime_18x9 | Prime_18x9 |
+| Myphone | Prime 18x9 LTE | Prime_18x9_LTE | Prime_18x9_LTE |
 | Myphone | Q-Smart_III | myPhone_Q-Smart_III | myPhone_Q-Smart_III |
 | Myphone | SmartView_7_3G | SmartView_7_3G | SmartView_7_3G |
 | Myphone | SmartView_8 | SmartView_8_LTE | SmartView_8_LTE |
@@ -12963,6 +12970,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Qilive | Q10S55IN4G | Q10S55IN4G | Q10S55IN4G |
 | Qilive | Q10S5IN4G | Q10S5IN4G | Q10S5IN4G |
 | Qilive | Q9S55IN4G | Q9S55IN4G | Q9S55IN4G |
+| Qilive | Q9T7IN4G | Q9T7IN4G | Q9T7IN4G |
 | Qilive | W55 | W55 | W55 |
 | Qpad | XL PLUS | t591_hwd_q19_hiya_we | XL PLUS |
 | Qtouch | Q01A | Q01A | Q01A |
@@ -13820,6 +13828,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J3 Top | j3toplteaio | SM-J336AZ |
 | Samsung | Galaxy J3 Top | j3toplteaio | SM-J337AZ |
 | Samsung | Galaxy J3 Top | j3toplteatt | SM-J337A |
+| Samsung | Galaxy J3 Top | j3topltetfntmo | SM-S357BL |
 | Samsung | Galaxy J3 V | j3topeltevzw | SM-J337V |
 | Samsung | Galaxy J3(2016) | j3ltekx | SM-J320N0 |
 | Samsung | Galaxy J3(2016) | j3ltetfnvzw | SM-S320VL |
@@ -16213,6 +16222,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sts-tottori | JR-P2000 | JR-P2000 | JR-P2000 |
 | Sts-tottori | TAB-A03 | TAB-A03 | TAB-A03-SD |
 | Stylo | Luna | Luna | Luna |
+| Stylo | Onyx | Onyx | Onyx |
 | Stylo | S551 | STYLO_S551 | STYLO S551 |
 | Stylo | STYLO MAX | Stylo_Max | MAX |
 | Stylo | STYLOF1 | STYLOF1 | STYLO F1 |
@@ -18434,6 +18444,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Wiko | HIGHWAY PURE | l9010 | HIGHWAY PURE |
 | Wiko | HIGHWAY SIGNS | s4750 | HIGHWAY SIGNS |
 | Wiko | HIGHWAY STAR | l5560ae | HIGHWAY STAR |
+| Wiko | Harry2 | W-V600 | W-V600 |
 | Wiko | IGGY | s7521 | Cynus F4 |
 | Wiko | IGGY | s7521 | Golf |
 | Wiko | IGGY | s7521 | IGGY |
@@ -19082,6 +19093,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | BLADE V8 SE | ZTE_BLADE_V0820 | BLADE V8 SE |
 | ZTE | BLADE V8 mini | ZTE_BLADE_V0850 | BLADE V8 mini |
 | ZTE | BLADE V8Q | P817F01 | BLADE V8Q |
+| ZTE | BLADE V9 | P450L10 | BLADE V9 |
 | ZTE | BLADE V9 VITA | P840F03 | BLADE V9 VITA |
 | ZTE | BOLTON | bolton | N9560 |
 | ZTE | BV0701 | P653N11 | ZTE BV0701 |
