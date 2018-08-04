@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 03.08.2018
+Last sync is 04.08.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1156,8 +1156,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Asus | ZenFone 5 Lite (ZC600KL) | ASUS_X017D_1 | ASUS_X017D |
 | Asus | ZenFone 5 Lite (ZC600KL) | ASUS_X017D_2 | ASUS_X017DA |
 | Asus | ZenFone 5 Lite (ZC600KL) | ASUS_X017D_2 | ZC600KL |
-| Asus | ZenFone 5Z (ZS620KL) | ASUS_Z01R_1 | ASUS_Z01RD |
 | Asus | ZenFone 5Z (ZS620KL) | ASUS_Z01R_1 | ZS620KL |
+| Asus | ZenFone 5Z (ZS620KL/ZS621KL) | ASUS_Z01R_1 | ASUS_Z01RD |
 | Asus | ZenFone 6 | ASUS_T00G | ASUS_T00G |
 | Asus | ZenFone 6 (A600CG) | ASUS_T00G | ASUS_T00G |
 | Asus | ZenFone 6 (A601CG) | ASUS_Z002 | ASUS_Z002 |
@@ -9217,6 +9217,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Leagoo | P1 Pro | P1_Pro | P1 Pro |
 | Leagoo | Power 5 | Power_5 | Power 5 |
 | Leagoo | S8 | S8 | S8 |
+| Leagoo | S8 Pro | S8Pro | S8 Pro |
 | Leagoo | S9 | S9 | S9 |
 | Leagoo | T5 | T5 | T5 |
 | Leagoo | T5c | T5c | T5c |
@@ -10101,6 +10102,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Making Life Simple | Brace | iQM801 | iQM801 |
 | Making Life Simple | MLS Novel 3G | iQ181011N | iQ181011N |
 | Making Life Simple | MLS iQ1452aN | iQ1452aN | iQ1452aN |
+| Making Life Simple | MLS_iQT800 | iQT800 | iQT800 |
 | Making Life Simple | Stage | iQM1001 | iQM1001 |
 | Making Life Simple | iQ1012N | iQ1012N | iQ1012N |
 | Making Life Simple | iQ1019N | IQ1019N | IQ1019N |
@@ -10114,7 +10116,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Making Life Simple | iQM960 | iQM960 | iQM960 |
 | Making Life Simple | iQR704 | iQR704 | iQR704 |
 | Making Life Simple | iQS300 | iQS300 | iQS300 |
-| Making Life Simple | iQT800 | iQT800 | iQT800 |
 | Making Life Simple | iQW503 | iQW503 | iQW503 |
 | Making Life Simple | iQW553N | iQW553N | iQW553N |
 | Making Life Simple | iQW603 | iQW603 | iQW603 |
@@ -11015,6 +11016,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Motorola | Moto Z Play | addison | XT1635-02 |
 | Motorola | Moto Z Play | addison | XT1635-03 |
 | Motorola | Moto Z Play Droid | addison | XT1635-01 |
+| Motorola | Moto Z(3) | messi | Moto Z (2) |
+| Motorola | Moto Z(3) | messi | moto z3 |
 | Motorola | Motoluxe | XT611 | XT611 |
 | Motorola | Motoluxe | XT615 | XT615 |
 | Motorola | Motoluxe | XT682 | XT682 |
@@ -14802,6 +14805,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A (2017) | gta2sltelgt | SM-T385L |
 | Samsung | Galaxy Tab A (2017) | gta2slteskt | SM-T385S |
 | Samsung | Galaxy Tab A (2017) | gta2swifi | SM-T380 |
+| Samsung | Galaxy Tab A (2018, 10.5) | gta2xllte | SM-T595 |
+| Samsung | Galaxy Tab A (2018, 10.5) | gta2xlwifi | SM-T590 |
 | Samsung | Galaxy Tab A 10.1 | gtanotexlwifikx | SM-P580 |
 | Samsung | Galaxy Tab A 10.1 | gtaxladwifikx | SM-T583 |
 | Samsung | Galaxy Tab A 10.1 | gtaxllte | SM-T585M |
@@ -14935,6 +14940,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab S3 | gts3lwifi | SM-T820 |
 | Samsung | Galaxy Tab S3 | gts3lwifi | SM-T820X |
 | Samsung | Galaxy Tab S3 | gts3lwifichn | SM-T820 |
+| Samsung | Galaxy Tab S4 | gts4llte | SM-T835 |
+| Samsung | Galaxy Tab S4 | gts4lltevzw | SM-T837V |
+| Samsung | Galaxy Tab S4 | gts4lwifi | SM-T830 |
 | Samsung | Galaxy Tab2 10.1 | espresso10att | SAMSUNG-SGH-I497 |
 | Samsung | Galaxy Tab2 10.1 | espresso10can | SGH-I497 |
 | Samsung | Galaxy Tab2 10.1 | espresso10rf | GT-P5100 |
@@ -15872,6 +15880,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sony | Xperia XZ2 Premium | H8116 | H8116 |
 | Sony | Xperia XZ2 Premium | H8166 | H8166 |
 | Sony | Xperia XZ2 Premium | SO-04K | SO-04K |
+| Sony | Xperia XZ2 Premium | SOV38 | SOV38 |
 | Sony | Xperia XZs | 602SO | 602SO |
 | Sony | Xperia XZs | G8231 | G8231 |
 | Sony | Xperia XZs | G8232 | G8232 |
@@ -17911,6 +17920,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vertex | Impress Dune | Impress_Dune | Impress_Dune |
 | Vertex | Impress Eagle | Impress_Eagle | Impress_Eagle |
 | Vertex | Impress Eclipse (4G) | IMPRESS_ECLIPSE | IMPRESS ECLIPSE |
+| Vertex | Impress Fire | Impress_Fire | Impress_Fire |
 | Vertex | Impress Fortune | Impress_Fortune | Impress_Fortune |
 | Vertex | Impress Grip | Grip | Impress_Grip |
 | Vertex | Impress Groove | Impress_Groove | Impress_Groove |
@@ -17930,6 +17940,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vertex | Impress Tor | Impress_Tor | Impress_Tor |
 | Vertex | Impress Vega (4G) | Impress_Vega | Impress_Vega |
 | Vertex | Impress_Bear | Impress_Bear | Impress_Bear |
+| Vertex | Impress_Blade | Impress_Blade | Impress_Blade |
 | Vertex | Impress_Disco | Impress_Disco | Impress Disco |
 | Vertex | Impress_Energy | Impress_Energy | Impress_Energy |
 | Vertex | Impress_Frost | Impress_Frost | Impress_Frost |
