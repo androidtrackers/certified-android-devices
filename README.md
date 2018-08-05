@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 04.08.2018
+Last sync is 05.08.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17394,6 +17394,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | one_touch_D920_ALIQ | one_touch_D920 | one touch D920 |
 | TCT (Alcatel) | onetouch_P689L | POLO55 | onetouch_P689L |
 | TCT (Alcatel) | tbd | Mickey6TFUMTS | A576BL |
+| TCT (Alcatel) | tbd | U50A_PLUS_ATT | Alcatel_5059R |
 | TCT (Alcatel) | tmn smarta8 | ONE_TOUCH_991D_gsm | moche smart a8 |
 | TCT (Alcatel) | tmn smarta8 | ONE_TOUCH_991D_gsm | tmn smart a8 |
 | TG&Co. | TG-L800S | PHX | TG-L800S |
