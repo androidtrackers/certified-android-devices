@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 06.08.2018
+Last sync is 07.08.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -347,6 +347,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Aiuto | AT1001 | AT1001 | AT1001 |
 | Aiuto | AT701 | AT701 | AT701 |
 | Aiwa | AW790 | AW790 | AW790 |
+| Aiwa | AWM501 | AWM501 | AWM501 |
 | Aiwa | Z9 | AIWA_Z9 | Z9 |
 | Aiwa | Z9 PLUS | AIWA_Z9_PLUS | Z9 PLUS |
 | Akari | AX-115ATV | DV8035 | AX-115ATV |
@@ -1298,12 +1299,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Auchan | Q7S5IN4GP | Q7S5IN4GP | Q7S5IN4GP |
 | Auchan | Q7T10INP | Q7T10INP | Q7T10INP |
 | Auchan | Q7T7INK | Q7T7INK | Q7T7INK |
+| Auchan | Q7T9INK | Q7T9INK | Q7T9INK |
 | Auchan | Q8S55IN4G | Q8S55IN4G | Q8S55IN4G |
 | Auchan | Q8S55IN4G2 | Q8S55IN4G2 | Q8S55IN4G2 |
+| Auchan | Q8S5IN4GP | Q8S5IN4GP | Q8S5IN4GP |
 | Auchan | Q8S6IN4G | Q8S6IN4G | Q8S6IN4G |
 | Auchan | Q8T10IN | Q8T10IN | Q8T10IN |
 | Auchan | Q8T7IN | Q8T7IN | Q8T7IN |
 | Auchan | Q8T7IN4G | Q8T7IN4G | Q8T7IN4G |
+| Auchan | Q9S5IN4G | Q9S5IN4G | Q9S5IN4G |
+| Auchan | Q9S5IN4G2 | Q9S5IN4G2 | Q9S5IN4G2 |
 | Auchan | QILIVE | Q4T10INK | Q4T10INK |
 | Auchan | S3T10IN | S3T10IN | S3T10IN |
 | Auchan | S3T10IN3G | S3T10IN3G | S3T10IN3G |
@@ -1481,6 +1486,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | BQru | BQ-5510 Strike Power Max 4G | BQru_5510 | BQru-5510 |
 | BQru | BQ-5511L | BQru_5511L | BQ-5511L |
 | BQru | BQ-5512L STRIKE FORWARD | BQru-5512L | BQ-5512L |
+| BQru | BQ-5517L TWIN PRO | BQru-5517L | BQ-5517L |
 | BQru | BQ-5521 STRIKE POWER MAX | BQru-5521 | BQru-5521 |
 | BQru | BQ-5522\xc2\xa0Next | BQru-5522 | BQ-5522 |
 | BQru | BQ-5590 Spring | BQru_5590 | BQru_5590 |
@@ -1856,6 +1862,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blu | Vivo S | V0160WW | Vivo S |
 | Blu | Vivo X | V0230WW | Vivo X |
 | Blu | Vivo X WW | V0230WW | Vivo X |
+| Blu | Vivo XI | V0330WW | Vivo XI |
 | Blu | Vivo XI+ | V0310WW | Vivo XI+ |
 | Blu | Vivo XL3 | V0250WW | Vivo XL3 |
 | Blu | Vivo XL3 Plus | V0210WW | Vivo XL3 Plus |
@@ -7260,6 +7267,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Intex | INTEX AQUA STYLE 3 | INTEX_AQUA_STYLE_3 | INTEX AQUA STYLE 3 |
 | Intex | INTEX Aqua Selfie | INTEX_AQUA_SELFIE | INTEX AQUA SELFIE |
 | Intex | INTEX_AQUA_S3 | INTEX_AQUA_S3 | INTEX AQUA S3 |
+| Intex | IV0318ND | IV0318ND | IV0318ND |
 | Intex | STAARi 10 | AQUA_LIONS_X1_PLUS | INTEX AQUA LIONS X1+ |
 | Intex | STAARi 10 | AQUA_LIONS_X1_PLUS | INTEX IP0218ND |
 | Intex | STAARi 12 | INTEX_ELYT_E6 | INTEX ELYT E6 |
@@ -7617,6 +7625,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Klipad | KL300 | KL300 | KL300 |
 | Klipad | KL450 | KL450 | KL450 |
 | Klipad | KL456LD | KL456LD | KL456LD |
+| Klipad | KL4890 | KL4890 | KL4890 |
 | Klipad | KL600 | KLIPAD_KL600 | KLIPAD_KL600 |
 | Klipad | KL600B | KLIPAD_KL600B | KL600B |
 | Klipad | KLIPAD_A1040M | A1040M | A1040M |
@@ -10657,6 +10666,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | MobiiStar | ZUMBO_S2_Dual | ZUMBO_S2_Dual | mobiistar ZUMBO S2 Dual |
 | MobiiStar | mobiistar | CQ | CQ |
 | MobiiStar | mobiistar C1 | mobiistar_C1 | mobiistar C1 |
+| MobiiStar | mobiistar C2 | mobiistar_C2 | mobiistar C2 |
 | MobiiStar | mobiistar E Selfie | mobiistar_E_Selfie | mobiistar E Selfie |
 | MobiiStar | mobiistar E1 | mobiistar_E1 | mobiistar E1 |
 | MobiiStar | mobiistar E1 Selfie | E1_Selfie | E1 Selfie |
@@ -11391,6 +11401,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | NGM Italia SRL | Smart5.5Plus | Smart55Plus | Smart5.5Plus32GB |
 | NGM Italia SRL | Smart5Plus | Smart5Plus | Smart5Plus |
 | NOA Mobile | Forte_se | Forte_se | Forte_se |
+| NOA Mobile | Fresh 4G | Fresh_4G | Fresh_4G |
 | NOA Mobile | Hummer | Hummer | Hummer |
 | NOA Mobile | N1 | N1 | N1 |
 | NOA Mobile | N7 | NOA_N7 | N7 |
@@ -12973,7 +12984,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Qilive | Q10S55IN4G | Q10S55IN4G | Q10S55IN4G |
 | Qilive | Q10S5IN4G | Q10S5IN4G | Q10S5IN4G |
 | Qilive | Q9S55IN4G | Q9S55IN4G | Q9S55IN4G |
+| Qilive | Q9T10IN4G | Q9T10IN4G | Q9T10IN4G |
 | Qilive | Q9T7IN4G | Q9T7IN4G | Q9T7IN4G |
+| Qilive | Q9T9IN | Q9T9IN | Q9T9IN |
 | Qilive | W55 | W55 | W55 |
 | Qpad | XL PLUS | t591_hwd_q19_hiya_we | XL PLUS |
 | Qtouch | Q01A | Q01A | Q01A |
@@ -13013,6 +13026,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Quantum | You E | QY77 | Quantum You E |
 | Quantum | You L | Q11 | You L |
 | Quantum | i9i | QMobile_i9i | QMobile I9i |
+| Quickline | Quickline UHD Box | dciw387 | M387_QL |
 | RCA | 10 Viking II | RCT6603W47M7 | RCT6603W47M7 |
 | RCA | 10 Viking II Pro | RCT6603W87M7 | RCT6603W87M7 |
 | RCA | 10 Viking Pro | RCT6303W87DK | RCT6303W87DK |
@@ -13809,7 +13823,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J3 | j3y17qltecmcc | SM-J3300 |
 | Samsung | Galaxy J3 | j3y17qltecmcc | SM-J3308 |
 | Samsung | Galaxy J3 Achieve | j3topeltespr | SM-J337P |
+| Samsung | Galaxy J3 Eclipse | j3popltevzw | SM-J327V |
 | Samsung | Galaxy J3 Emerge | j3popltespr | SM-J327P |
+| Samsung | Galaxy J3 Mission | j3popltevzw | SM-J327VPP |
 | Samsung | Galaxy J3 Pop | j3popelteaio | SAMSUNG-SM-J326AZ |
 | Samsung | Galaxy J3 Pop | j3popelteaio | SAMSUNG-SM-J327AZ |
 | Samsung | Galaxy J3 Pop | j3popelteatt | SAMSUNG-SM-J327A |
@@ -13819,8 +13835,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J3 Pop | j3popltelra | SM-J327R6 |
 | Samsung | Galaxy J3 Pop | j3popltetfnvzw | SM-S327VL |
 | Samsung | Galaxy J3 Pop | j3poplteusc | SM-J327R4 |
-| Samsung | Galaxy J3 Pop | j3popltevzw | SM-J327V |
-| Samsung | Galaxy J3 Pop | j3popltevzw | SM-J327VPP |
 | Samsung | Galaxy J3 Prime | j3popeltemtr | SM-J327T1 |
 | Samsung | Galaxy J3 Prime | j3popeltetmo | SM-J327T |
 | Samsung | Galaxy J3 Pro | j3xpro6mltechn | SM-J3119S |
@@ -13902,6 +13916,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J7 | j7elte | SM-J700M |
 | Samsung | Galaxy J7 | j7ltechn | SM-J7008 |
 | Samsung | Galaxy J7 | j7poplteusc | SM-J727R4 |
+| Samsung | Galaxy J7 | j7popltevzw | SM-J727VPP |
 | Samsung | Galaxy J7 | j7topeltevzw | SM-J737VPP |
 | Samsung | Galaxy J7 | j7y17lte | SM-J730F |
 | Samsung | Galaxy J7 | j7y17lte | SM-J730FM |
@@ -13911,13 +13926,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J7 Neo | j7velte | SM-J701F |
 | Samsung | Galaxy J7 Neo | j7velte | SM-J701M |
 | Samsung | Galaxy J7 Neo | j7velte | SM-J701MT |
+| Samsung | Galaxy J7 Perx | j7popltespr | SM-J727P |
 | Samsung | Galaxy J7 Pop | j7popelteaio | SAMSUNG-SM-J727AZ |
 | Samsung | Galaxy J7 Pop | j7popelteatt | SAMSUNG-SM-J727A |
 | Samsung | Galaxy J7 Pop | j7popeltetfntmo | SM-S737TL |
 | Samsung | Galaxy J7 Pop | j7popelteue | SM-J727U |
-| Samsung | Galaxy J7 Pop | j7popltespr | SM-J727P |
-| Samsung | Galaxy J7 Pop | j7popltevzw | SM-J727V |
-| Samsung | Galaxy J7 Pop | j7popltevzw | SM-J727VPP |
 | Samsung | Galaxy J7 Pop | j7popqltetfnvzw | SM-S727VL |
 | Samsung | Galaxy J7 Prime | j7popeltemtr | SM-J727T1 |
 | Samsung | Galaxy J7 Prime | j7popeltetmo | SM-J727T |
@@ -13933,6 +13946,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J7 Refine | j7topeltespr | SM-J737P |
 | Samsung | Galaxy J7 Star | j7topltetmo | SM-J737T |
 | Samsung | Galaxy J7 Top | j7toplteatt | SM-J737A |
+| Samsung | Galaxy J7 V | j7popltevzw | SM-J727V |
 | Samsung | Galaxy J7 V | j7topeltevzw | SM-J737V |
 | Samsung | Galaxy J7(2015) | j7ltespr | SM-J700P |
 | Samsung | Galaxy J7(2016) | j7eltemtr | SM-J700T1 |
@@ -16901,6 +16915,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | ATEL ONE TOUCH 995 | one_touch_995_gsm | ALCATEL_one_touch_995 |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033A |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033D |
+| TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033D_RU |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033J |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033O |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033T |
@@ -17291,6 +17306,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | TCL J928 | Prius | TCL J928 |
 | TCT (Alcatel) | TCL J929L | Diablo_LTE | TCL-J929L |
 | TCT (Alcatel) | TCL J938M | RIO55_LTE | TCL J938M |
+| TCT (Alcatel) | TCL L5 | U3A_PLUS_4G | 5133A |
 | TCT (Alcatel) | TCL LX | U50A_PLUS_TF | A502DL |
 | TCT (Alcatel) | TCL M2M | CROSS2 | TCL M2M |
 | TCT (Alcatel) | TCL M2U | CROSS2 | TCL M2U |
@@ -17465,6 +17481,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | CAMON X Pro | TECNO-CA8 | TECNO CA8S |
 | Tecno | CAMON iClick | TECNO-IN6 | TECNO IN6 |
 | Tecno | CAMON iSky | TECNO-IN2 | TECNO IN2 |
+| Tecno | CAMON iSky2 | TECNO-IN1-Pro | TECNO IN1 Pro |
 | Tecno | COMAN CM | TECNO-CA6 | TECNO CA6S |
 | Tecno | Camon CX | TECNO-CX | TECNO Camon CX |
 | Tecno | Camon CX Air | TECNO-CX-Air | TECNO CX Air |
@@ -17549,6 +17566,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | SA6 | TECNO-SA6 | TECNO SA6S |
 | Tecno | SPARK | TECNO-K7 | TECNO K7 |
 | Tecno | SPARK 2 | TECNO-KA7-GO | TECNO KA7 |
+| Tecno | SPARK 2 | TECNO-KA7-O | TECNO KA7O |
 | Tecno | SPARK CM | TECNO-KA9 | TECNO KA9 |
 | Tecno | SPARK Plus | TECNO-K9 | TECNO K9 |
 | Tecno | SPARK Pro | TECNO-K8 | TECNO K8 |
@@ -17880,6 +17898,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vava | XP3 | XP3 | XP3 |
 | Vaxcare | VAX114 | VAX114 | VAX114 |
 | Venturer | i7 | RCT6773W22 | i7 |
+| Venus | V5 | V5 | V5 |
 | Venus | V5Plus | V5_Plus | V5_Plus |
 | Venus | V5Plus Lite | V5_Plus_Lite | V5_Plus_Lite |
 | Venus | V5_Plus_ | V5_Plus_ | V5_Plus_ |
@@ -18202,6 +18221,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vivo | vivo 1726 | 1726 | vivo 1726 |
 | Vivo | vivo 1727 | 1727 | vivo 1727 |
 | Vivo | vivo 1802 | 1802 | vivo 1802 |
+| Vivo | vivo 1803 | 1803 | vivo 1803 |
 | Vivo | vivo 1805 | 1805 | vivo 1805 |
 | Vivo | vivo 1808 | 1808 | vivo 1808 |
 | Vivo | vivo NEX A | PD1806 | vivo NEX A |
