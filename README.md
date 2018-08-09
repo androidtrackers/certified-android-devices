@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 08.08.2018
+Last sync is 09.08.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2628,6 +2628,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DEXP | ES750 | ES750 | ES750 |
 | DEXP | ES850 | ES850 | Ixion ES850 |
 | DEXP | G250 | G250 | G250 |
+| DEXP | G255 | G255 | G255 |
 | DEXP | GL255 | GL255 | GL255 |
 | DEXP | Ixion M355 | M355 | Ixion M355 |
 | DEXP | Ixion ML350 | ML350 | Ixion ML350 |
@@ -3588,6 +3589,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Future Mobile Technology | netsurferDUAL 7 | FMT-NM7116-01 | FMT-NM7116-01 |
 | G Y P NEW TREE SA | VIEWPAD M10M | M10M | VIEWPAD M10M |
 | G-TOUCH | Stella X | Stella_X | Stella X |
+| G-TiDE | EXTREME X9 | EXTREME_X9 | EXTREME X9 |
 | G-TiDE | FANS7 | FANS7 | G-TiDE FANS7 |
 | G53 | TA71CA3 | TA71CA3_1 | TA71CA3 |
 | G7 Mobiles | G7S54P3CR | G7S54P3CR | G7S54P3CR |
@@ -7628,6 +7630,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Kimfly | E1 | E1 | E1 |
 | Kioto | MID1021 | MID1021 | MID1021 |
 | Kioto | MID1028 | MID1028 | MID1028 |
+| Kiowa | A5_CRISTAL | A5_CRISTAL | A5_CRISTAL |
 | Klipad | 7588AN | tulip-d9003 | 7588AN |
 | Klipad | 7588AN | tulip-d9003 | KL3838 |
 | Klipad | KL300 | KL300 | KL300 |
@@ -9199,9 +9202,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lava | iris565 | iris565 | iris565 |
 | Lava | iris60 | iris60 | iris60 |
 | Lava | iris605 | iris605 | iris605 |
+| Lava | iris65 | iris65 | iris65 |
 | Lava | iris702 | iris702 | iris702 |
 | Lava | iris80 | iris80 | iris80 |
 | Lava | iris870 | iris870 | iris870 |
+| Lava | iris88_go | iris88_go | iris88_go |
 | Lazer | MD1005 Tablet | MD1005 | MD1005 |
 | Lazer | MID9526CM | MID9526CM | S952 |
 | Lazer | MW-7615P | MW-7615P | MW-7615P |
@@ -10086,6 +10091,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | MOVIC | F5003 | F5003 | F5003 |
 | MOVIC | K4 | K4 | K4 |
 | MOVIC | MOVIC-W2 | MOVIC-W2 | MOVIC-W2 |
+| MOVIC | S5501 | S5501 | S5501 |
 | MPman | MPDC1006 | MPDC1006 | MPDC1006 |
 | MPman | MPDC706 | MPDC706 | MPDC706 |
 | MSI | Primo73 | N71J | Primo73 |
@@ -10294,6 +10300,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Meizu | 15 | 15 | 15 |
 | Meizu | 15 Lite | 15Lite | 15 Lite |
 | Meizu | 15 Plus | 15Plus | 15 Plus |
+| Meizu | 16th | 16th | 16th |
+| Meizu | 16th Plus | 16thPlus | 16th Plus |
 | Meizu | E3 | MeizuE3 | MEIZU E3 |
 | Meizu | M15 | M15 | M15 |
 | Meizu | M6 | meizu_M6 | M6 |
@@ -11650,6 +11658,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nuu | A3 | NUU_A3 | NUU_A3 |
 | Nuu | A3L | NUU_A3L | NUU_A3L |
 | Nuu | A4L | N5001L | N5001L |
+| Nuu | G1 | N5704LA | N5704L |
+| Nuu | G2 | S6001LE | S6001L |
 | Nuu | M2 | NUU_M2 | NUU_M2 |
 | Nuu | M3 | NUU_M3 | NUU_M3 |
 | Nuu | N4L | N4L | N4L |
@@ -12189,6 +12199,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Panasonic | FZ-B2D | fz_b2d | FZ-B2D |
 | Panasonic | FZ-N1 | FZ-N1 | FZ-N1 |
 | Panasonic | FZ-N1 | FZ-N1CL | FZ-N1 |
+| Panasonic | FZ-N1 | FZ-N1EVU | FZ-N1 |
 | Panasonic | FZ-N1 | FZ-N1F | FZ-N1 |
 | Panasonic | FZ-N1 | FZ-N1VU | FZ-N1 |
 | Panasonic | FZ-N1 | FZ-N1VUC | FZ-N1 |
@@ -13212,6 +13223,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | STF Mobile | AERIAL | STFAERIAL | AERIAL |
 | STF Mobile | AERIAL PLUS | AERIAL | AERIAL PLUS |
 | STF Mobile | AURA | AURA | AURA |
+| STF Mobile | AURA PLUS | AURA_PLUS | AURA PLUS |
 | STF Mobile | BLOCK_GO | BLOCK_GO | BLOCK GO |
 | STF Mobile | DUO | DUO | DUO |
 | STF Mobile | Fractal | Fractal | Fractal |
@@ -13245,6 +13257,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | STK(Santok) | Sync 5z | STK_Sync_5z | STK Sync 5z |
 | STK(Santok) | Transporter 1 | STK_Transporter_1 | STK_Transporter_1 |
 | SUPERSONIC | SC-774KT | SC-774KT | SC-774KT |
+| SUPERSONIC | SC4009DL | SC4009DL | SC-4009DL |
 | SUPERSONIC | SC_4317BT | SC_4317BT | SC_4317BT |
 | SUPERSONIC | TAB7091 | TAB7091 | TAB7091 |
 | Safaricom | SFCSTB2LITE | SFCSTB2LITE | SFCSTB2LITE |
@@ -13832,6 +13845,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J2 | j2ltedtv | SM-J200BT |
 | Samsung | Galaxy J2 | j2y18lte | SM-J250Y |
 | Samsung | Galaxy J2 (2018) | j2y18lte | SM-J250F |
+| Samsung | Galaxy J2 Core | j2corelte | SM-J260G |
 | Samsung | Galaxy J2 Prime | grandpplte | SM-G532G |
 | Samsung | Galaxy J2 Prime | grandpplte | SM-G532M |
 | Samsung | Galaxy J2 Pro | j2y18lte | SM-J250G |
@@ -13969,6 +13983,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J7 Refine | j7topeltespr | SM-J737P |
 | Samsung | Galaxy J7 Star | j7topltetmo | SM-J737T |
 | Samsung | Galaxy J7 Top | j7toplteatt | SM-J737A |
+| Samsung | Galaxy J7 Top | j7topltetfntmo | SM-S757BL |
 | Samsung | Galaxy J7 V | j7popltevzw | SM-J727V |
 | Samsung | Galaxy J7 V | j7topeltevzw | SM-J737V |
 | Samsung | Galaxy J7(2015) | j7ltespr | SM-J700P |
@@ -14883,6 +14898,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A 9.7 | gt5note10wifi | SM-P550 |
 | Samsung | Galaxy Tab A 9.7 | gt5note10wifichn | SM-P550 |
 | Samsung | Galaxy Tab A S 8.0 | gt58ltebmc | SM-T357W |
+| Samsung | Galaxy Tab A(2018) 10.5 | gta2xllte | SM-T595 |
 | Samsung | Galaxy Tab A2 8.0 | gta2swifichn | SM-T380C |
 | Samsung | Galaxy Tab Active2 | gtactive2lte | SM-T395 |
 | Samsung | Galaxy Tab Active2 | gtactive2ltechn | SM-T395C |
@@ -17451,6 +17467,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TUNTUN English | DREAM PAD | delight | ITP-R408W |
 | TUPAD | TU7_58212_18222 | TU7_58212 | TU7_18222 |
 | TWOE | 2E E450A 2018 | E450A2018 | 2E E450 2018 |
+| TabletKiosk | TK80 | TK80 | TK80 |
 | TaiwanMobile | A5C | A5C | A5C |
 | TaiwanMobile | A6S | A6S | A6S |
 | TaiwanMobile | Amazing A8 | D78 | Amazing A8 |
@@ -17905,6 +17922,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Uneone | SD50 | SD50 | SD50 |
 | Uneone | SD55 | UNEONE_SD55 | SD55 |
 | Uneone | SD80 | SD80 | SD80 |
+| Unihertz | Atom | Atom | Atom |
 | Unnecto | U4560 | U4560 | U4560 |
 | Usha Shriram | RA_1_GENIUS_STAR | RA_1_GENIUS_STAR | RA_1_GENIUS_STAR |
 | Utopia | UH0342  UHTABLET10.1INCH | UH0342 | UH0342 |
@@ -18116,6 +18134,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vgo Tel | VentureV10 | VentureV10 | VentureV10 |
 | Vgo Tel | i Smart | i_Smart | i_Smart |
 | Vida | VIDA - i512 | i512 | VIDA_i512 |
+| Vida | VIDA_i450 | VIDA_i450 | VIDA_i450 |
 | Viettel | V8802 | V8802 | V8802 |
 | ViewSonic |  | ViewPad_IR10Q | IR10Q |
 | ViewSonic |  | ViewPad_IR8Q | IR8Q |
@@ -18590,6 +18609,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Wiko | View Max | W_P200 | View Max |
 | Wiko | View Prime | v12bn | View Prime |
 | Wiko | View XL | v11cnlite | View XL |
+| Wiko | View2 Go | W-P220 | View2 Go |
 | Wiko | WAX | s8515 | WAX |
 | Wiko | WC300 | WC300 | WC300 |
 | Wiko | WC300SN | WC300SN | WC300SN |
