@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 09.08.2018
+Last sync is 10.08.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6759,6 +6759,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbf C5 | HWMON-Q | MON-AL19 |
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbf C5 | HWMON-Q | MON-AL19B |
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbf C5 | HWMON-Q | MON-W19 |
+| Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbf M5 \xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88 | HWBAH2 | BAH2-AL00 |
+| Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbf M5 \xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88 | HWBAH2 | BAH2-AL10 |
+| Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbf M5 \xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88 | HWBAH2 | BAH2-W09 |
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbfT3 8\xe8\xa1\x8c\xe4\xb8\x9a\xe4\xb8\x93\xe4\xba\xab\xe7\x89\x88 | HWBZK-Q | BZK-L00 |
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbfT3 8\xe8\xa1\x8c\xe4\xb8\x9a\xe4\xb8\x93\xe4\xba\xab\xe7\x89\x88 | HWBZK-Q | BZK-W00 |
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe6\x8f\xbd\xe9\x98\x85M2\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x887.0 | hwple703l | PLE-701L |
@@ -16283,6 +16286,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sts-tottori | JR-500 | JR-500 | JR-500 |
 | Sts-tottori | JR-P2000 | JR-P2000 | JR-P2000 |
 | Sts-tottori | TAB-A03 | TAB-A03 | TAB-A03-SD |
+| Stylo | Destiny | Destiny | Destiny |
 | Stylo | Luna | Luna | Luna |
 | Stylo | Onyx | Onyx | Onyx |
 | Stylo | S551 | STYLO_S551 | STYLO S551 |
@@ -20274,6 +20278,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | bq | M8 | Aquaris_M8 | Aquaris M8 |
 | dazen | dazen 6A | dazen_6A | dazen 6A |
 | duraMOBI | DK66 | DK66 | DK66 |
+| eBox | EBoxTv | diw387eb | EboxTV |
 | i-Buddie | TA10CA1 | TA10CA1 | TA10CA1 |
 | i-Buddie | TA10CA2 | TA10CA2 | TA10CA2 |
 | i-Buddie | TA10CA3 | TA10CA3 | TA10CA3 |
