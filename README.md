@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 10.08.2018
+Last sync is 11.08.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1694,6 +1694,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blackview | BV9000-RU | BV9000-RU | BV9000-RU |
 | Blackview | BV9000-RU | BV9000Pro-RU | BV9000Pro-RU |
 | Blackview | Blackview A10 | A10 | A10 |
+| Blackview | Blackview A20 Pro | A20Pro | A20Pro |
 | Blackview | Blackview BV4000 | BV4000 | BV4000 |
 | Blackview | Blackview BV4000Pro | BV4000Pro | BV4000Pro |
 | Blackview | Blackview P2 | P2 | P2 |
@@ -11171,6 +11172,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Multilaser | ML-SO-M7_3G_PLUS | ML-SO-M7_3G_PLUS | ML-SO-M7_3G_PLUS |
 | Multilaser | ML-SO-MLX1 | ML-SO-MLX1 | ML-SO-MLX1 |
 | Multilaser | MLX8 | MLX8 | MLX8 |
+| Multilaser | MS40G | ML-TI-MS40G | MS40G |
 | Multilaser | MS40S | MS40S | MS40S |
 | Multilaser | MS40s | MS40S | MS40S |
 | Multilaser | MS45 | MS45 | MS45 |
@@ -11272,6 +11274,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Myphone | myA1 | MY801 | MY801 |
 | Myphone | myA10 | myA10 | myA10 |
 | Myphone | myA11 | MYA11 | MYA11 |
+| Myphone | myA12 | myA12 | myA12 |
 | Myphone | myA13 | MYA13 | MYA13 |
 | Myphone | myA2 | MY802 | MY802 |
 | Myphone | myA3 | MY803 | MY803 |
@@ -12028,6 +12031,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Orange | Dive_70 | Dive_70 | SCL-L01 |
 | Orange | Five | OrangeFive | OrangeFive |
 | Orange | Luno | Luno | Luno |
+| Orange | MouveTab7WIFI | MouveTab7WIFI | MouveTab7WIFI |
 | Orange | NOS Roya | Alto45 | NOS Roya |
 | Orange | Neva 80 | Orange_Neva_80 | Orange Neva 80 |
 | Orange | Nura | M812 | Orange Nura |
@@ -14278,6 +14282,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Note8 | greatqltecmcc | SM-N9508 |
 | Samsung | Galaxy Note8 | greatqltecs | SM-N950W |
 | Samsung | Galaxy Note8 | greatqlteue | SM-N950U1 |
+| Samsung | Galaxy Note9 | crownlte | SM-N960F |
+| Samsung | Galaxy Note9 | crownlteks | SM-N960N |
+| Samsung | Galaxy Note9 | crownqltechn | SM-N9600 |
+| Samsung | Galaxy Note9 | crownqltecs | SM-N960W |
+| Samsung | Galaxy Note9 | crownqltesq | SM-N960U |
+| Samsung | Galaxy Note9 | crownqlteue | SM-N960U1 |
 | Samsung | Galaxy On Max | j7maxlte | SM-G615FU |
 | Samsung | Galaxy On Nxt | on7xelte | SM-G610F |
 | Samsung | Galaxy On5 | o5lte | SM-G550FY |
@@ -14871,6 +14881,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A 10.1 | gtaxlwifichn | SM-T580X |
 | Samsung | Galaxy Tab A 10.1(2016) | gtanotexllte | SM-P585 |
 | Samsung | Galaxy Tab A 10.1(2016) | gtanotexllte | SM-P585Y |
+| Samsung | Galaxy Tab A 10.5(2018) | gta2xllte | SM-T595 |
 | Samsung | Galaxy Tab A 7.0 | gtexslte | SM-T285 |
 | Samsung | Galaxy Tab A 7.0 | gtexslte | SM-T285M |
 | Samsung | Galaxy Tab A 7.0 | gtexslte | SM-T287 |
@@ -14901,7 +14912,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A 9.7 | gt5note10wifi | SM-P550 |
 | Samsung | Galaxy Tab A 9.7 | gt5note10wifichn | SM-P550 |
 | Samsung | Galaxy Tab A S 8.0 | gt58ltebmc | SM-T357W |
-| Samsung | Galaxy Tab A(2018) 10.5 | gta2xllte | SM-T595 |
 | Samsung | Galaxy Tab A2 8.0 | gta2swifichn | SM-T380C |
 | Samsung | Galaxy Tab Active2 | gtactive2lte | SM-T395 |
 | Samsung | Galaxy Tab Active2 | gtactive2ltechn | SM-T395C |
@@ -15279,6 +15289,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | olleh | ik1 | SMT-E5015 |
 | Samsung | \xe9\xa2\x86\xe4\xb8\x96\xe6\x97\x97\xe8\x88\xb08 | venenoltechn | SM-G9298 |
 | Sanaeko | FX9 | SANAEKO | FX9 |
+| Sankey | TAB7A3G05 | TAB7A3G05 | TAB7A3G05 |
 | Sansei | TS10A1 | TS10A1 | TS10A1 |
 | Sansei | TS7A1 | TS7A1 | TS7A1 |
 | Sansui | ETAB M9021G | ETAB_M9021G | ETAB_M9021G |
@@ -15622,6 +15633,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sico | Nile X | Nile_X | Nile X |
 | Sico | PLUS2 | Plus2 | Plus2 |
 | Sico | PLUS2 4G | Plus2_4G | Plus2 4G |
+| Sico | Sico Topaz | Topaz | SICO Topaz |
 | Sico SmartPhone | SSR1-5-8M | GBC_bravo | SSR1-5-8M |
 | Sico SmartPhone | SSR1-5-8M | GBC_bravo | sico pro |
 | Sigma Mobile | X-TREME PQ24 | X-treme_PQ24 | X-treme_PQ24 |
@@ -15902,6 +15914,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sony | Xperia XA2 | H3133 | H3133 |
 | Sony | Xperia XA2 | H4113 | H4113 |
 | Sony | Xperia XA2 | H4133 | H4133 |
+| Sony | Xperia XA2 Plus | H3413 | H3413 |
+| Sony | Xperia XA2 Plus | H4413 | H4413 |
+| Sony | Xperia XA2 Plus | H4493 | H4493 |
 | Sony | Xperia XA2 Ultra | H3213 | H3213 |
 | Sony | Xperia XA2 Ultra | H3223 | H3223 |
 | Sony | Xperia XA2 Ultra | H4213 | H4213 |
@@ -17969,6 +17984,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vernee | Thor E | Thor_E | Thor E |
 | Vernee | Thor Plus | Thor_Plus | Thor Plus |
 | Vernee | V1 | V1 | V1 |
+| Vernee | V2 Pro | V2_Pro | V2 Pro |
 | Vernee | X1 | X1 | X1 |
 | Vernee | X1 | X1_PRO | X1 |
 | Verssed | FW8977-ED | FW8977-ED | FW8977-ED |
@@ -18664,6 +18680,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Woxter | Woxter_N90 | Woxter_N90 | Woxter_N90 |
 | X-TIGI | JOY7_Mate | JOY7_Mate | X_TIGI_JOY7_Mate |
 | X-TIGI | JOY7_TV | JOY7_TV | X_TIGI_JOY7_TV |
+| X-TIGI | V18 | X_TIGI_V18 | X_TIGI_V18 |
 | X-TIGI | V21 | X-TIGI_V21 | X-TIGI_V21 |
 | X-TIGI | V3+ | X-TIGI_V3_Plus | X-TIGI_V3+ |
 | X-TIGI | X-TIGI_JOY7_MAX | X-TIGI_JOY7_MAX | X-TIGI_JOY7_MAX |
@@ -20176,6 +20193,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Zeki | TBQC1063B | TBQC1063B | TBQC1063 |
 | Zeki | TBQG1084 | TBQG1084 | TBQG1084 |
 | Zeki | TBQG774 | TBQG774 | TBQG774 |
+| Zeki | TBQG838 | TBQG838 | TBQG838 |
 | Zeki | TBQG855 | TBQG855 | TBQG855 |
 | Zeki | Zeki TBQG884 | TBQG884 | TBQG884 |
 | Zen | ADMIRE CURVE NEO | ZEN_ADMIRE_CURVE_NEO | ADMIRE_CURVE_NEO |
