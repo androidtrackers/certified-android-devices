@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 11.08.2018
+Last sync is 12.08.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1846,6 +1846,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blu | Studio One | BLU_STUDIO_ONE | BLU STUDIO ONE |
 | Blu | Studio Pro | S750 | Studio Pro |
 | Blu | Studio Selfie LTE | BLU_STUDIO_SELFIE_LTE | BLU STUDIO SELFIE LTE |
+| Blu | Studio View | S810 | Studio View |
 | Blu | Studio View XL | S790Q | Studio View XL |
 | Blu | Studio X Mini | BLU_STUDIO_X_MINI | BLU STUDIO X MINI |
 | Blu | Studio_J8M | S0450WW | Studio J8M |
