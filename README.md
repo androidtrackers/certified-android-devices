@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 12.08.2018
+Last sync is 13.08.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11602,11 +11602,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nokia | Nokia 3 | NE1 | TA-1038 |
 | Nokia | Nokia 3.1 | ES2N_sprout | Nokia 3.1 |
 | Nokia | Nokia 3.1 | ES2_sprout | Nokia 3.1 |
-| Nokia | Nokia 5 | CO2N_sprout | Nokia 5.1 |
 | Nokia | Nokia 5 | ND1 | TA-1024 |
 | Nokia | Nokia 5 | ND1 | TA-1027 |
 | Nokia | Nokia 5 | ND1 | TA-1044 |
 | Nokia | Nokia 5 | ND1 | TA-1053 |
+| Nokia | Nokia 5.1 | CO2N_sprout | Nokia 5.1 |
 | Nokia | Nokia 5.1 | CO2_sprout | Nokia 5.1 |
 | Nokia | Nokia 6 | D1C | TA-1000 |
 | Nokia | Nokia 6 | D1C | TA-1003 |
