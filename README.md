@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 13.08.2018
+Last sync is 14.08.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3406,8 +3406,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Fossil | Wear | bluegill | EA Connected |
 | Fossil | Wear | bluegill | Grayson |
 | Fossil | Wear | firefish | AX Connected |
+| Fossil | Wear | firefish | Vapor 2 |
 | Fossil | Wear | mullet | Vapor |
 | Fossil | Wear | ray | EA Connected |
+| Fossil | Wear | ray | Q Venture HR |
 | Fossil | Wear | shiner | Riley Touch |
 | Fossil | Wear | shiner | Riley Touchscreen |
 | Fossil | Wear | shiner | Sofie |
@@ -7388,6 +7390,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Itel | A44 | itel-A44 | itel A44 |
 | Itel | A44 Pro | itel-A44-Pro | itel A44 Pro |
 | Itel | A51 | itel_A51 | itel A51 |
+| Itel | A52B | itel-A52B | itel A52B |
 | Itel | A62 | itel-A62 | itel A62 |
 | Itel | F311 | Spice-F311 | Spice F311 |
 | Itel | P11 | itel_P11 | itel P11 |
@@ -10312,10 +10315,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Meizu | M6 | meizu_M6 | M6 |
 | Meizu | M6 | meizu_M6 | MEIZU M6 |
 | Meizu | M6 Note | M6Note | M6 Note |
+| Meizu | M6T | MeizuM6T | M6T |
 | Meizu | M6s | MeizuM6s | Meizu M6s |
 | Meizu | M6s | MeizumbluS6 | Meizu mblu S6 |
 | Meizu | M712C | M712C | M712C |
 | Meizu | M8c | MeizuM8c | Meizu M8c |
+| Meizu | Meizu 6T | Meizu6T | Meizu 6T |
 | Meizu | Meizu S6 | MeizuS6 | M712C |
 | Meizu | Meizu S6 | MeizuS6 | Meizu S6 |
 | Meizu | PRO 7 | PRO7H | PRO 7-H |
@@ -11114,6 +11119,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Motorola | moto e5 play | rjames_f | Moto E |
 | Motorola | moto e5 play | rjames_f | moto e5 play |
 | Motorola | moto e5 plus | ahannah | Moto E |
+| Motorola | moto e5 plus | ahannah | XT1924-9 |
 | Motorola | moto e5 plus | ahannah | moto e5 plus |
 | Motorola | moto e5 plus | hannah | Moto E |
 | Motorola | moto e5 plus | hannah | moto e5 plus |
@@ -13058,14 +13064,17 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Quantum | Muv | Q3 | Quantum MUV |
 | Quantum | QSPT-1952 | QF3A | QT-195W-aa2 |
 | Quantum | Quantum FIT | S511 | Quantum Fit |
+| Quantum | Quantum M | QM83 | Quantum M |
 | Quantum | Sky | QX1 | Sky |
 | Quantum | Twist Neo | S501 | twist neo |
 | Quantum | V | QX2 | Quantum V |
 | Quantum | You | Q17 | Quantum You |
 | Quantum | You | Q17 | You |
+| Quantum | You 2 | QE83 | Quantum You 2 |
 | Quantum | You E | QY77 | Quantum You E |
 | Quantum | You L | Q11 | You L |
 | Quantum | i9i | QMobile_i9i | QMobile I9i |
+| Quatro | Quatro 10 | Quatro_10 | Quatro 10 |
 | Quatro | Quatro_8 | Quatro_8 | Quatro 8 |
 | Quickline | Quickline UHD Box | dciw387 | M387_QL |
 | RCA | 10 Viking II | RCT6603W47M7 | RCT6603W47M7 |
@@ -17729,6 +17738,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tesco | W032I_C3 | w032i_c3 | W032I_C3 |
 | Tesco | hudl 2 | HTF8A4 | Hudl 2 |
 | Tesla | M8.1 3G | TTM813G | TTM813G |
+| Tesla | Smartphone 3.4 | Tesla_SP3_4 | Tesla_SP3_4 |
 | Tesla | Tablet_L7_1 | Tablet_L7_1 | Tesla L7.1 |
 | Tesla | Tesla Smartphone 3.3 | Tesla_SP3_3 | Tesla_SP3.3 |
 | Tesla | Tesla Smartphone 6.3 | Tesla_SP6_3 | Tesla_SP6.3 |
@@ -17999,6 +18009,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vertex | ET | ET | ET |
 | Vertex | Impress Action | Impress_Action | Impress_Action |
 | Vertex | Impress Click (3G) | IMPRESS_CLICK | IMPRESS CLICK |
+| Vertex | Impress Cube | Impress_Cube | Impress_Cube |
 | Vertex | Impress Dune | Impress_Dune | Impress_Dune |
 | Vertex | Impress Eagle | Impress_Eagle | Impress_Eagle |
 | Vertex | Impress Eclipse (4G) | IMPRESS_ECLIPSE | IMPRESS ECLIPSE |
