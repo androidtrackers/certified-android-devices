@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 14.08.2018
+Last sync is 15.08.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1638,6 +1638,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | BlackBerry | BlackBerry KEY2 | bbf100 | BBF100-2 |
 | BlackBerry | BlackBerry KEY2 | bbf100 | BBF100-4 |
 | BlackBerry | BlackBerry KEY2 | bbf100 | BBF100-6 |
+| BlackBerry | BlackBerry KEY2 | bbf100 | BBF100-8 |
+| BlackBerry | BlackBerry KEY2 | bbf100 | BBF100-9 |
 | BlackBerry | BlackBerry KEYone | bbb100 | BBB100-7 |
 | BlackBerry | BlackBerry MOTION | bbd100 | BBD100-1 |
 | BlackBerry | BlackBerry MOTION | bbd100 | BBD100-2 |
@@ -2265,6 +2267,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Condor | A9 | PGN_507 | PGN-507 |
 | Condor | Allure  M1 | Allure_M1 | Allure M1 |
 | Condor | Allure A55 Plus | PGN613 | PGN613 |
+| Condor | Allure M1 | Allure_M1 | Allure M1 |
 | Condor | Allure M1 Plus | Allure_M1_Plus | Allure M1 Plus |
 | Condor | Allure M3 | Allure_M3 | Allure M3 |
 | Condor | Allure M3 Lite | Allure_M3_Lite | Allure M3 Lite |
@@ -6188,6 +6191,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | Honor3 | hwhn3-u01 | HUAWEI HN3-U01 |
 | Huawei | Huawei Ascend XT2\xe2\x84\xa2 | HWH1711-Q | H1711 |
 | Huawei | Huawei Elate\xe2\x84\xa2 | HWH1711-Q | H1711z |
+| Huawei | Huawei MediaPad T5 | HWAGS2 | AGS2-L09 |
 | Huawei | Huawei Nova 2 | HWPIC | PIC-LX9 |
 | Huawei | IDEOS | U8150 | Comet |
 | Huawei | IDEOS | U8150 | Ideos |
@@ -7396,6 +7400,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Itel | P11 | itel_P11 | itel P11 |
 | Itel | P12 | itel_P12 | itel P12 |
 | Itel | P13 | itel-P13 | itel P13 |
+| Itel | P13 Plus | itel-P13-Plus | itel P13 Plus |
 | Itel | P31 | itel-P31 | itel P31 |
 | Itel | P32 | itel-P32 | itel P32 |
 | Itel | P51 | P51 | itel P51 |
@@ -9642,12 +9647,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lenovo | Lenovo TAB4 | 701LV | 701LV |
 | Lenovo | Lenovo TAB4 | 702LV | 702LV |
 | Lenovo | Lenovo TB-8304F1 | TB-8304F1 | Lenovo TB-8304F1 |
+| Lenovo | Lenovo TB-X104F | X104F | Lenovo TB-X104F |
 | Lenovo | Lenovo TB-X504F | X504F | Lenovo TB-X504F |
 | Lenovo | Lenovo Tab 7 Essential | 7304I | Lenovo TB-7304I |
 | Lenovo | Lenovo Tab 7 Essential | TB-7304I | Lenovo TB-7304I |
 | Lenovo | Lenovo Tab 7 Essential | TB-7304N | Lenovo TB-7304N |
 | Lenovo | Lenovo Tab 7 Essential | TB-7304X | Lenovo TB-7304X |
-| Lenovo | Lenovo Tab E10 | X104F | Lenovo TB-X104F |
 | Lenovo | Lenovo Tab E7 | TB7104F | Lenovo TB-7104F |
 | Lenovo | Lenovo Tab4 10 Plus | X704A | TB-X704A |
 | Lenovo | Lenovo X2-CU/VIBE X2 | X2-CU | Lenovo X2-CU |
@@ -15626,6 +15631,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp | XLED-65SU583A | Lcd_xxfoc580a1 | LCD_xxFOC580A1 |
 | Sharp | XLED-65Z4808A | Lcd_xxufoczq48a | LCD_xxUFOCZQ48A |
 | Sharp | XLED-xxSU580A, XLED-xxZQ580A, XLED-xxMY5200A, XLED-xxTX5200A | lcd_xxcae5a_e | LCD-xxCAE5A-E |
+| Sharp | XLED-xxSU680A;XLED-xxMY6200A;XLED-xxTX6200A;XLED-xxZ6808A | lcd_xxdem6a_b | LCD-xxDEM6A-B |
 | Sharp | Yahoo! Phone SoftBank 009SH Y | SBM009SHY | SBM009SHY |
 | Sharp | Z2 | TSP | FS8002 |
 | Sharp | Z3 | VN3N | FS8009 |
@@ -15685,9 +15691,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sky Devices | PLATINUM A57 | Platinum_A57_OP | Platinum A57 |
 | Sky Devices | PLATINUM B5 | Platinum_B5 | Platinum_B5 |
 | Sky Devices | PLATINUM M4 | Platinum_M4_SV | Platinum M4 |
+| Sky Devices | Platinum M5 | Platinum_M5 | Platinum_M5 |
 | Sky Devices | SKY 5.0LM | SKY_50LM | SKY 5.0LM |
 | Sky Devices | SKY 5.0Pro II | SKY_50Pro_II | SKY 5.0Pro II |
 | Sky Devices | SKY 55M | SKY_55M | SKY 55M |
+| Sky Devices | SKY VISION1 | SKYVISION | SKYVISION |
 | Sky Devices | SKY_Pro_III | SKY_Pro_III | SKY_Pro_III |
 | Sky Devices | pro selfie | PRO_SELFIE | PRO_SELFIE |
 | SkyLife | UHD2 | IC1110 | IC1110 |
@@ -16257,6 +16265,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Spectralink | PIVOT 8741/8753 | thor_6dq | 8741 |
 | Spectralink | PIVOT 8741/8753 | thor_6dq | 8742 |
 | Spectralink | PIVOT 8741/8753 | thor_6dq | 8753 |
+| Spectralink | Versity | Versity | Versity 9540 |
+| Spectralink | Versity | Versity | Versity 9553 |
+| Spectralink | Versity | Versity | Versity 9640 |
+| Spectralink | Versity | Versity | Versity 9653 |
 | Speedmind | Pr6145 | Pr6145 | Pr6145 |
 | Spice | Dream Uno | Mi-498_sprout | Spice Mi-498 |
 | Spice | Dream Uno | Mi-498_sprout | Spice Mi-498H |
@@ -16286,6 +16298,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | StarMobile | UP Prime | UP_Prime | UP Prime |
 | StarMobile | UP Selfie | UP_Selfie | UP_Selfie |
 | StarMobile | UP Xtreme | UP_Xtreme | UP_Xtreme |
+| Starlight | C_Note | C_Note | C_Note |
 | Starlight | Future | Future | Future |
 | Starlight | I STAR PLUS | I_STAR_PLUS | I_STAR_PLUS |
 | Starlight | Madrid | Madrid | Madrid |
@@ -17571,6 +17584,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | Droipad10 | DP10A | DP10A |
 | Tecno | Droipad10 | DP10A | TECNO DP10A |
 | Tecno | F1 | TECNO-F1 | TECNO F1 |
+| Tecno | F1 | TECNO-F1-PRO | TECNO F1 |
 | Tecno | F2 | TECNO-F2 | TECNO F2 |
 | Tecno | F2LTE | TECNO-F2LTE | TECNO F2LTE |
 | Tecno | H5S | up09_tecno_h5s | TECNO H5S |
@@ -17753,6 +17767,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Thomson | Friendly TH101 | Friendly_TH101 | Friendly_TH101 |
 | Thomson | PRIMO7 Tablet | PRIMO7 | PRIMO7 |
 | Thomson | PRIMO8 Tablet | AMLMY8306P | PRIMO8 |
+| Thomson | TCL  Percee TV | tcl_eu | PANASONIC TV |
 | Thomson | TCL  Percee TV | tcl_eu | Percee TV |
 | Thomson | TEO10 | TEO10 | SPTEO10BK16 |
 | Thomson | TEO7RK | TEO7RK | TEO7RK |
@@ -18340,6 +18355,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vmobile | A10_Y | A10_Y | A10_Y |
 | Vmobile | A11_Y | A11_Y | A11_Y |
 | Vmobile | A13 | A13 | A13 |
+| Vmobile | A13_Y | A13_Y | A13_Y |
 | Vodafone | 785 | Vodafone_785 | Vodafone 785 |
 | Vodafone | 895 | VF-895N | VF-895N |
 | Vodafone | Smart N8 | VFD610 | VFD 610 |
@@ -18523,6 +18539,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Weimei | weplus 3 | weplus_3 | weplus_3 |
 | Welgate | WA-U420D | WA-U420D | WA-U420D |
 | Wenu | Kate | Wenu | Kate |
+| Wieppo | Wieppo S6 | t596_jw_wieppo | Wieppo S6 |
 | Wigor | V2 | V2 | V2 |
 | Wigor | V3 | V3 | V3 |
 | Wiko | B-KOOL | V2502AN01D | B-KOOL |
