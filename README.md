@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 15.08.2018
+Last sync is 16.08.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5358,6 +5358,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | MEDION E4001 | E4001 | MEDION E4001 |
 | Hisense | MEDION X4701 | x4701 | MEDION X4701 |
 | Hisense | Oysters Pacific 800 | x4701ae | Oysters Pacific 800 |
+| Hisense | PX10 | PX10 | PX10 |
 | Hisense | PX1900 | atm7039c | PX1900 |
 | Hisense | PX1900ES | atm7039c | PX7 |
 | Hisense | PX2000 | hisensepx2000 | PX2000 |
@@ -20221,6 +20222,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Zeki | TBDV986 | TBDV986 | TBDV986 |
 | Zeki | TBQC1063B | TBQC1063B | TBQC1063 |
 | Zeki | TBQG1084 | TBQG1084 | TBQG1084 |
+| Zeki | TBQG738 | TBQG738 | TBQG738 |
 | Zeki | TBQG774 | TBQG774 | TBQG774 |
 | Zeki | TBQG838 | TBQG838 | TBQG838 |
 | Zeki | TBQG855 | TBQG855 | TBQG855 |
