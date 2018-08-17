@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 16.08.2018
+Last sync is 17.08.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12,6 +12,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | 10.or | D | 10or_D | D |
 | 10.or | E | E | E |
 | 10.or | G | G | G |
+| 3Go | GT10K3IPS | GT10K3IPS | GT10K3IPS |
 | 3Q | OC1020A | OC1020A | OC1020A |
 | 4good | 4GOOD Light B100 | 4GOOD_Light_B100 | Light B100 |
 | 4good | A103 | 4GOOD_Light_A103 | Light A103 |
@@ -1925,6 +1926,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Brondi | 730 4G HD | Brondi_730_4G_HD | Brondi_730_4G_HD |
 | Brown | Brown2 | I9080_PH1 | brown 2 |
 | Brown | brown tab1 | brown_tab1 | brown tab1 |
+| Bubblegum | Bubblegum | Bubblegum | Bubblegum |
 | Bullitt Group | Cat S60 | CatS60 | S60 |
 | Bullitt Group | CatS31 | CatS31 | S31 |
 | Bullitt Group | S30 | CatS30 | S30 |
@@ -17969,6 +17971,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Uneone | SD55 | UNEONE_SD55 | SD55 |
 | Uneone | SD80 | SD80 | SD80 |
 | Unihertz | Atom | Atom | Atom |
+| United Cloud | KSTB6020 | KSTB6020 | KSTB6020 |
 | Unnecto | U4560 | U4560 | U4560 |
 | Usha Shriram | RA_1_GENIUS_STAR | RA_1_GENIUS_STAR | RA_1_GENIUS_STAR |
 | Utopia | UH0342  UHTABLET10.1INCH | UH0342 | UH0342 |
