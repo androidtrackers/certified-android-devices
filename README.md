@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 17.08.2018
+Last sync is 18.08.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9091,6 +9091,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lanix | Ilium X110 | ILIUM_X110 | Ilium X110 |
 | Lanix | Ilium X120 | Ilium_X120 | Ilium X120 |
 | Lanix | Ilium X120B | Ilium_X120B | Ilium X120B |
+| Lanix | Ilium X120C | X120C | X120C |
 | Lanix | Ilium X200 | Ilium_X200 | Ilium X200 |
 | Lanix | Ilium X210 | Ilium_X210 | Ilium X210 |
 | Lanix | Ilium X220 | Ilium_X220 | Ilium X220 |
@@ -11065,6 +11066,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Motorola | Moto Z Play | addison | XT1635-03 |
 | Motorola | Moto Z Play Droid | addison | XT1635-01 |
 | Motorola | Moto Z(3) | messi | Moto Z (2) |
+| Motorola | Moto Z(3) | messi | XT1929-15 |
 | Motorola | Moto Z(3) | messi | moto z3 |
 | Motorola | Motoluxe | XT611 | XT611 |
 | Motorola | Motoluxe | XT615 | XT615 |
@@ -11118,12 +11120,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Motorola | XOOM 2 | pasteur | MZ617 |
 | Motorola | XT605 | umts_jorian | XT605 |
 | Motorola | XT627 | umts_irock | XT627 |
+| Motorola | moto P30 NOTE | chef | XT1942-1 |
 | Motorola | moto e(5) cruise | james | moto e5 cruise |
 | Motorola | moto e(5) play | james | moto e5 play |
 | Motorola | moto e(5) plus | rhannah | Moto E |
 | Motorola | moto e(5) plus | rhannah | moto e5 plus |
 | Motorola | moto e5 | nora_8917_n | moto e5 |
 | Motorola | moto e5 play | james | moto e5 play |
+| Motorola | moto e5 play | pettyl | Moto E |
+| Motorola | moto e5 play | pettyl | moto e5 play |
 | Motorola | moto e5 play | rjames_f | Moto E |
 | Motorola | moto e5 play | rjames_f | moto e5 play |
 | Motorola | moto e5 plus | ahannah | Moto E |
@@ -12787,6 +12792,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Prestigio | Multiphone 5508 DUO | PSP5508DUO | PSP5508DUO |
 | Prestigio | Muze A3 | PSP3452DUO | PSP3452DUO |
 | Prestigio | PGPS7795 | PMT3057_3G | PGPS7795 |
+| Prestigio | PMT1177_ 4G | LS70A6L | PMT1177_4G |
 | Prestigio | PMT3008_Wi | PMT3008_Wi_C | PMT3008_Wi_C |
 | Prestigio | PMT3011_3G | PMT3011_3G | PMT3011_3G |
 | Prestigio | PMT3021_3G | PMT3011_3G | PMT3021_3G |
@@ -12798,8 +12804,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Prestigio | PMT3087_3G | PMT3057_3G | PMT3087_3G |
 | Prestigio | PMT3101_4G | CF10A1L | PMT3101_4G |
 | Prestigio | PMT3137_3G | JP70A1W | PMT3137_3G |
+| Prestigio | PMT3151_3G | WT10A1G | PMT3151_3G |
 | Prestigio | PMT3157_3G | LS70A5G | PMT3157_3G |
 | Prestigio | PMT3157_4G | LS70A6L | PMT3157_4G |
+| Prestigio | PMT3161_3G | WT10A1G | PMT3161_3G |
+| Prestigio | PMT3171_3G | WT10A1G | PMT3171_3G |
 | Prestigio | PMT3177_3G | PMT3177_3G | PMT3177_3G |
 | Prestigio | PMT3201_4G | CF10A1L | PMT3201_4G |
 | Prestigio | PMT3208_3G | PN80A03G | PMT3208_3G |
@@ -12810,9 +12819,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Prestigio | PMT3351_3G | PN10A01G | PMT3351_3G |
 | Prestigio | PMT3418_4G | LS80A4L | PMT3418_4G |
 | Prestigio | PMT3437_3G | JP70A1W | PMT3437_3G |
+| Prestigio | PMT3437_4G | LS70A6L | PMT3437_4G |
 | Prestigio | PMT3507_4G | WT70A1L | PMT3507_4G |
+| Prestigio | PMT3537_4G | LS70A6L | PMT3537_4G |
 | Prestigio | PMT3607_4G | WT70A1L | PMT3607_4G |
 | Prestigio | PMT3608_4G | LS80A1L | PMT3608_4G |
+| Prestigio | PMT3637_4G | LS70A6L | PMT3637_4G |
 | Prestigio | PMT3677_Wi | PMT3677 | PMT3677_Wi |
 | Prestigio | PMT3718_3G | CF80A2G | PMT3718_3G |
 | Prestigio | PMT3767_3G | PMT3777_3G | PMT3767_3G |
