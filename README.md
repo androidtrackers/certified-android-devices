@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 20.08.2018
+Last sync is 21.08.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1448,6 +1448,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | BMobile | AX921 | Bmobile_AX921 | Bmobile_AX921 |
 | BMobile | AX922 | Bmobile_AX922 | AX922 |
 | BMobile | AX950 | Bmobile_AX950 | AX950 |
+| BMobile | Bmobile AX683 | Bmobile_AX683 | AX683 |
 | BQru | 5060 | BQru-5060 | BQru-5060 |
 | BQru | 5701L Slim | BQru-5701L | BQ-5701L |
 | BQru | BQ 5503 NICE 2 | BQru_5503 | BQru-5503 |
@@ -3919,6 +3920,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | GoClever | Quantum 500 STEEL | FQ_500R | Quantum_500_STEEL |
 | GoClever | TQ700/QUANTUM 700/TAB | TQ700 | TQ700 |
 | Gobox | T2 | T2 | T2 |
+| Gol Mobile | F3Prime | F3Prime | F3Prime |
 | Gol Mobile | TEAM_7_3G | TEAM_7_3G | TEAM_7_3G |
 | Gome | GOME_C7_Note | GOME_C7_Note | GOME_C7_Note |
 | Gonna | Zebra | Zebra | Zebra |
@@ -6167,6 +6169,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | Honor 9 | HWSTF | STF-TL10 |
 | Huawei | Honor 9 Lite | HWLLD-H | LLD-L21 |
 | Huawei | Honor 9 Lite | HWLLD-H | LLD-L31 |
+| Huawei | Honor 9N | HWLLD-H2 | LLD-AL20 |
 | Huawei | Honor Box | m321 | M321 |
 | Huawei | Honor Box Pro | hwHiTV-M1 | HiTV-M1 |
 | Huawei | Honor Box voice | HWM311 | M311 |
@@ -6736,6 +6739,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | nova 3e | HWANE | ANE-AL00 |
 | Huawei | nova 3e | HWANE | ANE-TL00 |
 | Huawei | nova 3i | HWINE | INE-AL00 |
+| Huawei | nova 3i | HWINE | INE-LX1 |
+| Huawei | nova 3i | HWINE | INE-LX2 |
 | Huawei | nova 3i | HWINE | INE-TL00 |
 | Huawei | nova lite | HWPRA-H | PRA-LX2 |
 | Huawei | nova lite | HWPRA-H | PRA-LX3 |
@@ -7582,6 +7587,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | KOOLNEE | RAINBOW | RAINBOW | RAINBOW |
 | KOOOK | C600 | GBC_bravo | C600 |
 | KRIP | K5 | K5 | K5 |
+| KRIP | KRIP_K4 | KRIP_K4 | KRIP_K4 |
 | KT Tech |  | s120 | KM-S120 |
 | KT Tech |  | s200 | KM-S200 |
 | KT Tech |  | s220 | KM-S220 |
@@ -9100,6 +9106,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lanix | Ilium X510 | Ilium_X510 | Ilium X510 |
 | Lanix | Ilium X520 | Ilium_X520 | Ilium X520 |
 | Lanix | Ilium X710 | Ilium_X710 | Ilium X710 |
+| Lanix | Ilium_Alpha7 | Ilium_Alpha7 | Ilium Alpha 7 |
 | Lanix | Ilium_L1100 | Ilium_L1100 | ILIUM L1100 |
 | Lanix | Ilium_S130 | Ilium_S130 | Ilium S130 |
 | Lanix | Ilium_S130 | Ilium_S130 | Ilium_S130 |
@@ -9107,7 +9114,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lanix | LANIX_PAD_E7 | ILIUM_PADE7V11 | LANIX_PAD_E7 |
 | Lanix | Llium L910 | Ilium_L910 | Ilium L910 |
 | Lanix | X100 | ILIUM_X100 | ILIUM_X100 |
+| Lanix | X230 | X230 | X230 |
 | Lanix | X400 | Ilium_X400 | ILIUM X400 |
+| Lanix | X530 | X530 | X530 |
 | Lanix | ilium  PAD  E9 | ILium_PADE9 | ilium PAD E9 |
 | Lanix | ilium PAD E7 | ILIUM_PADE7 | ilium PAD E7 |
 | Lanix | ilium PAD E8 | ILIUM_PADE8 | ilium PAD E8 |
@@ -20368,11 +20377,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iBRIT | IBRIT_I5 | i5 | IBRIT_I5 |
 | iBRIT | IBRIT_I7 | i7 | IBRIT_I7 |
 | iBRIT | Speed_Pro_Plus | SF56 | SF56 |
+| iBRIT | Z2 | Z2 | Z2 |
 | iBRIT | Z2Lite | Z2Lite | Z2Lite |
+| iBRIT | i2 | i2 | i2 |
 | iBRIT | iBRIT SpeedX | SpeedX | SpeedX |
 | iBall | iBall | iBall_Slide_Brace_XJ | iBall Slide Brace XJ |
 | iBall | iBall | iBall_Slide_Dazzle_i7 | iBall Slide Dazzle i7 |
 | iBall | iBall Slide Imprint 4G | Imprint_4G | iBall_Slide_Imprint_4G |
+| iBall | iBall Slide Iris Drishti 4G | Iris_Drishti_4G | iBall_Slide_Iris_Drishti_4G |
 | iBall | iBall Slide Nimble 4GF | Slide_Nimble_4GF | iBall_Slide_Nimble_4GF |
 | iBall | iBall Slide Snap 4G2 | Snap_4G2 | Snap_4G2 |
 | iBall | iBall Slide Twinkle i5 | Twinkle_i5 | Twinkle_i5 |
