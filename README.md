@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 21.08.2018
+Last sync is 22.08.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1917,6 +1917,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Bouygues Telecom | Bs 451 | Bs_451 | Bs 451 |
 | Brandcode | L1Fa | L1Fa | L1Fa |
 | Bravis | NB753 | NB753 | NB753 |
+| Bravis | NB76 | NB76 | NB76 |
 | Bravis | X500 | BRAVIS_X500 | BRAVIS X500 |
 | Bravis | bravis_A506 | bravis_A506 | bravis_A506 |
 | Brighton | MAL-FWTVTB | MAL-FWTVTB | MAL-FWTVTB |
@@ -9667,6 +9668,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lenovo | Lenovo Tab 7 Essential | TB-7304N | Lenovo TB-7304N |
 | Lenovo | Lenovo Tab 7 Essential | TB-7304X | Lenovo TB-7304X |
 | Lenovo | Lenovo Tab E7 | TB7104F | Lenovo TB-7104F |
+| Lenovo | Lenovo Tab M10 | X605F | Lenovo TB-X605F |
 | Lenovo | Lenovo Tab4 10 Plus | X704A | TB-X704A |
 | Lenovo | Lenovo X2-CU/VIBE X2 | X2-CU | Lenovo X2-CU |
 | Lenovo | Lenovo YOGA A12 | YOGA-A12 | Lenovo YB-Q501L |
@@ -10966,6 +10968,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Motorola | Moto E with 4G LTE (2nd Gen) | surnia_uds | MotoE2(4G-LTE) |
 | Motorola | Moto E with 4G LTE (2nd Gen) | surnia_udstv | MotoE2(4G-LTE) |
 | Motorola | Moto E with 4G LTE (2nd Gen) | surnia_umts | MotoE2(4G-LTE) |
+| Motorola | Moto E3 | taidos_row | XT1700 |
+| Motorola | Moto E3 Power | taido_row | XT1706 |
 | Motorola | Moto E4 | perry_f | Moto E (4) |
 | Motorola | Moto G (1st Gen) | falcon_cdma | XT1028 |
 | Motorola | Moto G (1st Gen) | falcon_cdma | XT1031 |
@@ -11180,6 +11184,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Moviltelco Trade | mtt L509 | L509 | MTT_L509 |
 | Moxee Technologies | X10 | X10 | X10 |
 | Moxee Technologies | X100 | X100 | X100 |
+| Mpgio | LEGEND_R | LEGEND_R | LEGEND_R |
 | Mpman | PH604 | PH604 | PH604 |
 | Multilaser | Discovery | Discovery | Discovery |
 | Multilaser | Kidpad-3G | Kidpad-3G | Kidpad-3G |
@@ -11624,6 +11629,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nokia | N1 | Nokia_N1 | N1 |
 | Nokia | Nokia 1 | FRT | Nokia 1 |
 | Nokia | Nokia 2 | E1M | Nokia 2 |
+| Nokia | Nokia 2.1 | E2M | Nokia 2.1 |
 | Nokia | Nokia 3 | NE1 | TA-1020 |
 | Nokia | Nokia 3 | NE1 | TA-1028 |
 | Nokia | Nokia 3 | NE1 | TA-1032 |
@@ -11654,6 +11660,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nokia | Nokia 8 | NB1 | TA-1052 |
 | Nokia | Nokia 8 Sirocco | A1N | Nokia 8 Sirocco |
 | Nokia | Nokia 8 Sirocco | A1N_sprout | Nokia 8 Sirocco |
+| Nokia | Nokia X5 | PDA | Nokia X5 |
 | Nokia | Nokia X6 | DRG | Nokia X6 |
 | Nomi | CORSA 3 LTE | Nomi_C070030 | Nomi_C070030 |
 | Nomi | Corsa 3 3G | Nomi_C070012 | Nomi_C070012 |
@@ -12188,6 +12195,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Panasonic | ELUGA V | P-06D | P-06D |
 | Panasonic | ELUGA WE | ELUGA_WE | Panasonic ELUGA WE |
 | Panasonic | ELUGA X | P-02E | P-02E |
+| Panasonic | ELUGA X1 | ELUGA_X1 | ELUGA X1 |
 | Panasonic | ELUGA dL1 | pana2_4v | Panasonic_dL1 |
 | Panasonic | EX00C | EX00C | EX00C |
 | Panasonic | EX01C | EX01C | EX01C |
@@ -18054,6 +18062,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vertex | Impress Eagle | Impress_Eagle | Impress_Eagle |
 | Vertex | Impress Eclipse (4G) | IMPRESS_ECLIPSE | IMPRESS ECLIPSE |
 | Vertex | Impress Fire | Impress_Fire | Impress_Fire |
+| Vertex | Impress Forest | Impress_Forest | Impress_Forest |
 | Vertex | Impress Fortune | Impress_Fortune | Impress_Fortune |
 | Vertex | Impress Grip | Grip | Impress_Grip |
 | Vertex | Impress Groove | Impress_Groove | Impress_Groove |
@@ -18074,6 +18083,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vertex | Impress Vega (4G) | Impress_Vega | Impress_Vega |
 | Vertex | Impress_Bear | Impress_Bear | Impress_Bear |
 | Vertex | Impress_Blade | Impress_Blade | Impress_Blade |
+| Vertex | Impress_City | Impress_City | Impress_City |
 | Vertex | Impress_Disco | Impress_Disco | Impress Disco |
 | Vertex | Impress_Energy | Impress_Energy | Impress_Energy |
 | Vertex | Impress_Frost | Impress_Frost | Impress_Frost |
@@ -18774,6 +18784,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Xiaomi | HM NOTE 1W | lcsh92_wet_jb9 | HM NOTE 1W |
 | Xiaomi | HM Note 2 | hermes | Redmi Note 2 |
 | Xiaomi | Hong Mi | HM2013022 | 2013022 |
+| Xiaomi | MI  8  Explorer  Edition | ursa | MI 8 Explorer Edition |
 | Xiaomi | MI 2 | aries | MI 2 |
 | Xiaomi | MI 2 | aries | MI 2S |
 | Xiaomi | MI 2A | taurus | MI 2A |
