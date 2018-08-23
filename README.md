@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 22.08.2018
+Last sync is 23.08.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -508,6 +508,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | AllView | X4 Soul Style | X4_Soul_Style | X4_Soul_Style |
 | AllView | X4 Soul Vision | X4_Soul_Vision | X4_Soul_Vision |
 | AllView | X4 Soul Xtreme | X4_Soul_Xtreme | X4_Soul_Xtreme |
+| AllView | X5 Soul Mini | X5_Soul_Mini | X5_Soul_Mini |
 | AllView | X5 Soul Pro | X5_Soul_Pro | X5_Soul_Pro |
 | Allducube | T1001 | T1001 | T1001 |
 | Allfine | M721 | 86S | M721 |
@@ -2656,6 +2657,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DEXP | Z150 | Z150 | Z150 |
 | DEXP | Z155 | Z155 | Z155 |
 | DEXP | Z255 | Z255 | Z255 |
+| DEXP | Z355 | Z355 | Z355 |
 | DEXP | lxion MS255 | MS255 | Ixion MS255 |
 | DIFRNCE | DIT702201 | DIT702201 | NID_7010 |
 | DL | 3406 | G02DL | Tablet DL 3406 |
@@ -3041,11 +3043,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Electroland Ghana | NASCO_Allure | NASCO_Allure | NASCO_Allure |
 | Element | USA & CANADA | Tiger838 | TU43GDX |
 | Elephone | A4 | A4 | A4 |
+| Elephone | A4_Pro | A4_Pro | A4_Pro |
 | Elephone | Elephone S8 | S8 | S8 |
 | Elephone | P8 3D | P8_3D | P8_3D |
 | Elephone | P8 Max | P8_Max | P8_Max |
 | Elephone | U | Elephone_U | U |
 | Elephone | U_Pro | U_Pro | U_Pro |
+| Elevate | G55_LITE | G55_LITE | G55 LITE |
 | Elevate | LUNA G60 | G60 | LUNA G60 |
 | Elevate | LUNA G60X | G60X | LUNA G60X |
 | Elevate | LUNA V55 | V55 | LUNA V55 |
@@ -3175,6 +3179,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Evercoss | S50 | EVERCOSS_S50 | S50 |
 | Evercoss | S55A | S55A | S55A |
 | Evercoss | S55B | S55B | S55B |
+| Evercoss | S57 | S57 | S57 |
 | Evercoss | U50 | U50 | U50 |
 | Evercoss | U50A | U50A | U50A |
 | Evercoss | U50A MAX | U50A_MAX | U50A MAX |
@@ -3421,6 +3426,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Fossil | Wear | shiner | Riley Touchscreen |
 | Fossil | Wear | shiner | Sofie |
 | Fossil | Wear OS | mullet | Vapor |
+| Four Mobile | S62_Eco_3 | S62_Eco_3 | S62_Eco_3 |
 | Four Mobile | S710 Ruby | S710_Ruby | S710 Ruby |
 | Four Mobile | Sapphire | S750 | Sapphire |
 | Four Mobile | Thunder | S350 | Thunder |
@@ -3684,6 +3690,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Getac | ZX70 | zx70 | ZX70 |
 | Getac | ZX70 | zx70 | zx70 |
 | Ghia | GHIA_VECTOR_3G | GHIA_VECTOR_3G | GHIA_VECTOR_3G |
+| Ghia | GTABPND | GTABPND | GTABPND |
 | Ghia | GTKIDS7R | GTKIDS7R | GTKIDS7R |
 | Ghia | GTKIDS7V | GTKIDS7V | GTKIDS7V |
 | Ghia | ZEUS 3G | N2 | GHIA_ZEUS_3G |
@@ -5500,6 +5507,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Honeywell | CN75E | CN75E | CX75 NCF |
 | Honeywell | CN75E | CN75E | CX75 QC0 |
 | Honeywell | CN75E | CN75E | CX75 QCF |
+| Honeywell | CN80 | CN80-L0-C | CN80 |
+| Honeywell | CN80 | CN80-L0-N | CN80 |
+| Honeywell | CN80 | CN80-L1-C | CN80 |
+| Honeywell | CN80 | CN80-L1-N | CN80 |
+| Honeywell | CT40 | CT40-L0-C | CT40 |
+| Honeywell | CT40 | CT40-L1-C | CT40 |
 | Honeywell | CT50 | CT50L0N-CS12S | CT50 |
 | Honeywell | CT50 | CT50L0N-CS15S | CT50 |
 | Honeywell | CT50 | CT50L0N-CS16S | CT50 |
@@ -7395,6 +7408,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Itel | A15 | itel-A15 | itel A15 |
 | Itel | A21 | itel_A21 | itel A21 |
 | Itel | A22 | itel-A22 | itel A22 |
+| Itel | A22 Pro | itel-A22-Pro | itel A22 Pro |
 | Itel | A31 Plus | itel-A31Plus | itel A31Plus |
 | Itel | A32F | itel-A32F | itel A32F |
 | Itel | A41 | itel_A41 | itel A41 |
@@ -10322,6 +10336,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Meitu | Maya | Maya | MP1603 |
 | Meitu | Meitu T8s | VictoriaS | MP1701 |
 | Meitu | Meitu V6 | Vivian | MP1605 |
+| Meitu | Tiffany | Tiffany | MP1718 |
 | Meitu | V4 | V4 | Meitu V4 |
 | Meitu | V4s | V4s | Meitu V4s |
 | Meitu | Victoria | Victoria | MP1602 |
@@ -10600,6 +10615,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Micromax | Yunique 2 Plus | YU5012 | YU5012 |
 | Micromax | Yuphoria | YUPHORIA | YU5010 |
 | Micromax | Yutopia | YUTOPIA | YU5050 |
+| Microtech | Microtech_e-tab_Style | Microtech_etabStyle | Microtech_etabStyle |
 | Microtech | e-tab_style_rev.3 | e-tab_style_REV3 | e-tab_style_REV3 |
 | MiiA | MT-733G | MT-733G | MT-733G |
 | MiiA | MiiA | TA10CA1_2 | TA10CA1 |
@@ -11182,6 +11198,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Moviltelco Trade | A58B | A58B | A58B |
 | Moviltelco Trade | mtt L452 | L452 | L452 |
 | Moviltelco Trade | mtt L509 | L509 | MTT_L509 |
+| Movitel | M8414 | Movitel_M8414 | M8414 |
 | Moxee Technologies | X10 | X10 | X10 |
 | Moxee Technologies | X100 | X100 | X100 |
 | Mpgio | LEGEND_R | LEGEND_R | LEGEND_R |
@@ -11553,6 +11570,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Neffos | C5L | QC601 | TP601C |
 | Neffos | C5L | QC601 | TP601E |
 | Neffos | Neffos C7 | C7 | Neffos C7 |
+| Neffos | Neffos C9 | C9 | Neffos_C9 |
 | Neffos | Neffos C9A | C9A | Neffos_C9A |
 | Neffos | Neffos N1 | N1 | Neffos N1 |
 | Neffos | Neffos X1 | X1 | Neffos X1 |
@@ -12810,6 +12828,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Prestigio | Muze A3 | PSP3452DUO | PSP3452DUO |
 | Prestigio | PGPS7795 | PMT3057_3G | PGPS7795 |
 | Prestigio | PMT1177_ 4G | LS70A6L | PMT1177_4G |
+| Prestigio | PMT1177_3G | LS70A5G | PMT1177_3G |
 | Prestigio | PMT3008_Wi | PMT3008_Wi_C | PMT3008_Wi_C |
 | Prestigio | PMT3011_3G | PMT3011_3G | PMT3011_3G |
 | Prestigio | PMT3021_3G | PMT3011_3G | PMT3021_3G |
@@ -12833,8 +12852,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Prestigio | PMT3277_3G | PMT3277_3G | PMT3277_3G |
 | Prestigio | PMT3287_3G | PMT3287_3G | PMT3287_3G |
 | Prestigio | PMT3301_4G | CF10A1L | PMT3301_4G |
+| Prestigio | PMT3317_3G | LS70A5G | PMT3317_3G |
+| Prestigio | PMT3327_3G | LS70A5G | PMT3327_3G |
 | Prestigio | PMT3351_3G | PN10A01G | PMT3351_3G |
 | Prestigio | PMT3418_4G | LS80A4L | PMT3418_4G |
+| Prestigio | PMT3427_3G | LS70A5G | PMT3427_3G |
 | Prestigio | PMT3437_3G | JP70A1W | PMT3437_3G |
 | Prestigio | PMT3437_4G | LS70A6L | PMT3437_4G |
 | Prestigio | PMT3507_4G | WT70A1L | PMT3507_4G |
@@ -18911,6 +18933,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Yezz | EPIC_T | EPIC_T | EPIC T |
 | Yota Devices | C9660 | yotaphone | C9660 |
 | Yota Devices | YotaPhone2 | yotaphone2 | YD201 |
+| Yuho | O2 PRO | YUHO_O2_PRO | YUHO_O2_PRO |
 | Yuho | Y2 | YUHO_Y2 | YUHO_Y2 |
 | Yuho | Y2_PRO | YUHO_Y2_PRO | YUHO_Y2_PRO |
 | Yuho | YUHO_O1 | YUHO_O1 | YUHO_O1 |
