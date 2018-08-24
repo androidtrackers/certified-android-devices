@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 23.08.2018
+Last sync is 24.08.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3261,6 +3261,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | FBC | M24IS810 | MX24 | TDA02 |
 | FBC | M24IS820 | fst01ms | M24IS820 |
 | FIREFLY MOBILE | AURII_AMUSE_3G | AURII_AMUSE_3G | AURII_AMUSE_3G |
+| FIREFLY MOBILE | INTENSE_XT | INTENSE_XT | INTENSE_XT |
 | FPT Trading | A15 | A15_01 | A15 |
 | FPT Trading | FPT S68 4G | FPT_S68_4G | FPT S68 4G |
 | FPT Trading | FPT X10 | X10 | FPT_X10 |
@@ -6938,6 +6939,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hyundai | Eternity G27 | G24027K | G24027K |
 | Hyundai | Eternity W42 | W25042L | W25042L |
 | Hyundai | Eternity W44 | W25544L | W25544L |
+| Hyundai | Eternity_G25 | Eternity_G25 | Eternity_G25 |
 | Hyundai | HDT-7433H | HDT-7433H | HDT-7433H |
 | Hyundai | HDT-7433X | HDT-7433X | HDT-7433X |
 | Hyundai | HT0702W08 | HT0702W08 | HT0702W08 |
@@ -7053,7 +7055,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Infinix | HOT5 Lite | X557 | Infinix HOT 4 |
 | Infinix | Hot 4 Pro | Infinix-X5511-13M | Infinix HOT 4 Pro |
 | Infinix | Infinix | Infinix_X510_sprout | Infinix X510 |
+| Infinix | Infinix Note 5 | Infinix-X604_sprout | Infinix X604 |
+| Infinix | Infinix Note 5 | Infinix-X604_sprout | Infinix X604B |
 | Infinix | Infinix X5010 | Infinix-X5010 | Infinix X5010 |
+| Infinix | Infinix X510 | Infinix_X510_sprout | Infinix X510 |
 | Infinix | Infinix X559 | Infinix-X559 | Infinix X559 |
 | Infinix | Infinix X571 | Infinix-X571 | Infinix X571 |
 | Infinix | Infinix X572 | Infinix-X572 | Infinix X572 |
@@ -7065,8 +7070,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Infinix | NOTE 4 | Infinix-X572 | Infinix X572-LTE |
 | Infinix | NOTE 4 Pro | Infinix-X571 | Infinix X571 |
 | Infinix | NOTE 4 Pro | Infinix-X571 | Infinix X571-LTE |
-| Infinix | Note 5 | Infinix-X604_sprout | Infinix X604 |
-| Infinix | Note 5 | Infinix-X604_sprout | Infinix X604B |
 | Infinix | RACE Blot2 | Infinix_X454 | Infinix X454 |
 | Infinix | RACE Bolt 3 | X455 | Infinix X455 |
 | Infinix | S2 | Infinix-X522 | Infinix S2 |
@@ -11497,8 +11500,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | NVIDIA | TegraNote | tegranote7c | Tegra Note 7 |
 | NYX Mobile | A1 | NYX_A1 | NYX_A1 |
 | NYX Mobile | BLINK | BLiNK | BLiNK |
-| NYX Mobile | C450 | C450 | C450 |
-| NYX Mobile | C500 | C500 | C500 |
 | NYX Mobile | Click | Click | Click |
 | NYX Mobile | FIT | FIT | FIT |
 | NYX Mobile | GLAM | GLAM | GLAM |
@@ -11660,6 +11661,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nokia | Nokia 5 | ND1 | TA-1053 |
 | Nokia | Nokia 5.1 | CO2N_sprout | Nokia 5.1 |
 | Nokia | Nokia 5.1 | CO2_sprout | Nokia 5.1 |
+| Nokia | Nokia 5.1 Plus | PDA_sprout | Nokia 5.1 Plus |
 | Nokia | Nokia 6 | D1C | TA-1000 |
 | Nokia | Nokia 6 | D1C | TA-1003 |
 | Nokia | Nokia 6 | PL2 | TA-1054 |
@@ -13921,7 +13923,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J2 | j2ltedtv | SM-J200BT |
 | Samsung | Galaxy J2 | j2y18lte | SM-J250Y |
 | Samsung | Galaxy J2 (2018) | j2y18lte | SM-J250F |
+| Samsung | Galaxy J2 Core | j2corelte | SM-J260F |
 | Samsung | Galaxy J2 Core | j2corelte | SM-J260G |
+| Samsung | Galaxy J2 Core | j2corelte | SM-J260M |
+| Samsung | Galaxy J2 Core | j2corelte | SM-J260Y |
 | Samsung | Galaxy J2 Prime | grandpplte | SM-G532G |
 | Samsung | Galaxy J2 Prime | grandpplte | SM-G532M |
 | Samsung | Galaxy J2 Pro | j2y18lte | SM-J250G |
@@ -13932,6 +13937,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J3 | j3ltespr | SM-J320P |
 | Samsung | Galaxy J3 | j3popelteue | SM-J327U |
 | Samsung | Galaxy J3 | j3topeltevzw | SM-J337VPP |
+| Samsung | Galaxy J3 | j3toplteue | SM-J337U |
 | Samsung | Galaxy J3 | j3x3g | SM-J320H |
 | Samsung | Galaxy J3 | j3y17qltecmcc | SM-J3300 |
 | Samsung | Galaxy J3 | j3y17qltecmcc | SM-J3308 |
@@ -13939,6 +13945,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J3 Eclipse | j3popltevzw | SM-J327V |
 | Samsung | Galaxy J3 Emerge | j3popltespr | SM-J327P |
 | Samsung | Galaxy J3 Mission | j3popltevzw | SM-J327VPP |
+| Samsung | Galaxy J3 Orbit | j3topeltetfnvzw | SM-S367VL |
 | Samsung | Galaxy J3 Pop | j3popelteaio | SAMSUNG-SM-J326AZ |
 | Samsung | Galaxy J3 Pop | j3popelteaio | SAMSUNG-SM-J327AZ |
 | Samsung | Galaxy J3 Pop | j3popelteatt | SAMSUNG-SM-J327A |
@@ -14028,11 +14035,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J7 | j7elte | SM-J700F |
 | Samsung | Galaxy J7 | j7elte | SM-J700M |
 | Samsung | Galaxy J7 | j7ltechn | SM-J7008 |
+| Samsung | Galaxy J7 | j7popelteue | SM-J727U |
 | Samsung | Galaxy J7 | j7poplteusc | SM-J727R4 |
 | Samsung | Galaxy J7 | j7popltevzw | SM-J727VPP |
 | Samsung | Galaxy J7 | j7topeltevzw | SM-J737VPP |
 | Samsung | Galaxy J7 | j7y17lte | SM-J730F |
 | Samsung | Galaxy J7 | j7y17lte | SM-J730FM |
+| Samsung | Galaxy J7 Aura | j7topelteusc | SM-J737R4 |
+| Samsung | Galaxy J7 Crown | j7topeltetfnvzw | SM-S767VL |
 | Samsung | Galaxy J7 Duo | j7duolte | SM-J720F |
 | Samsung | Galaxy J7 Duo | j7duolte | SM-J720M |
 | Samsung | Galaxy J7 Max | j7maxlte | SM-G615F |
@@ -14042,8 +14052,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J7 Perx | j7popltespr | SM-J727P |
 | Samsung | Galaxy J7 Pop | j7popelteaio | SAMSUNG-SM-J727AZ |
 | Samsung | Galaxy J7 Pop | j7popelteatt | SAMSUNG-SM-J727A |
-| Samsung | Galaxy J7 Pop | j7popeltetfntmo | SM-S737TL |
-| Samsung | Galaxy J7 Pop | j7popelteue | SM-J727U |
 | Samsung | Galaxy J7 Pop | j7popqltetfnvzw | SM-S727VL |
 | Samsung | Galaxy J7 Prime | j7popeltemtr | SM-J727T1 |
 | Samsung | Galaxy J7 Prime | j7popeltetmo | SM-J727T |
@@ -14057,6 +14065,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J7 Pro | j7y17lte | SM-J730G |
 | Samsung | Galaxy J7 Pro | j7y17lte | SM-J730GM |
 | Samsung | Galaxy J7 Refine | j7topeltespr | SM-J737P |
+| Samsung | Galaxy J7 Sky Pro | j7popeltetfntmo | SM-S737TL |
 | Samsung | Galaxy J7 Star | j7topltetmo | SM-J737T |
 | Samsung | Galaxy J7 Top | j7toplteatt | SM-J737A |
 | Samsung | Galaxy J7 Top | j7topltetfntmo | SM-S757BL |
@@ -14950,6 +14959,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A 10.1 | gtaxlwifichn | SM-T580X |
 | Samsung | Galaxy Tab A 10.1(2016) | gtanotexllte | SM-P585 |
 | Samsung | Galaxy Tab A 10.1(2016) | gtanotexllte | SM-P585Y |
+| Samsung | Galaxy Tab A 10.5 | gta2xllte | SM-T595 |
 | Samsung | Galaxy Tab A 10.5(2018) | gta2xllte | SM-T595 |
 | Samsung | Galaxy Tab A 7.0 | gtexslte | SM-T285 |
 | Samsung | Galaxy Tab A 7.0 | gtexslte | SM-T285M |
@@ -14981,6 +14991,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A 9.7 | gt5note10wifi | SM-P550 |
 | Samsung | Galaxy Tab A 9.7 | gt5note10wifichn | SM-P550 |
 | Samsung | Galaxy Tab A S 8.0 | gt58ltebmc | SM-T357W |
+| Samsung | Galaxy Tab A(10.5) | gta2xllte | SM-T597 |
+| Samsung | Galaxy Tab A(10.5) | gta2xlltekx | SM-T595N |
 | Samsung | Galaxy Tab A2 8.0 | gta2swifichn | SM-T380C |
 | Samsung | Galaxy Tab Active2 | gtactive2lte | SM-T395 |
 | Samsung | Galaxy Tab Active2 | gtactive2ltechn | SM-T395C |
@@ -15076,6 +15088,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab S3 | gts3lwifi | SM-T820X |
 | Samsung | Galaxy Tab S3 | gts3lwifichn | SM-T820 |
 | Samsung | Galaxy Tab S4 | gts4llte | SM-T835 |
+| Samsung | Galaxy Tab S4 | gts4llte | SM-T837 |
+| Samsung | Galaxy Tab S4 | gts4lltekx | SM-T835N |
+| Samsung | Galaxy Tab S4 | gts4lltespr | SM-T837P |
 | Samsung | Galaxy Tab S4 | gts4lltevzw | SM-T837V |
 | Samsung | Galaxy Tab S4 | gts4lwifi | SM-T830 |
 | Samsung | Galaxy Tab2 10.1 | espresso10att | SAMSUNG-SGH-I497 |
@@ -15380,6 +15395,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sanyo | CER2 | CER2 | CER2 |
 | Sanyo | CER3 | CER3 | CER3 |
 | Sasktel | SaskTel maxTV Stream | HMB2213PW22WA | HMB2213PW22WA |
+| Schok | FreedomTurboXL | SFT57216 | FreedomTurboXL |
 | Schok | freedom turbo | SFT5216 | freedom turbo |
 | Schok | mini_SM7216 | SM7216 | SM7216 |
 | Seatel | L4 | L4 | L4 |
@@ -20285,6 +20301,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Zeki | TBQG838 | TBQG838 | TBQG838 |
 | Zeki | TBQG855 | TBQG855 | TBQG855 |
 | Zeki | Zeki TBQG884 | TBQG884 | TBQG884 |
+| Zelumobile | C450 | C450 | C450 |
+| Zelumobile | C500 | C500 | C500 |
 | Zen | ADMIRE CURVE NEO | ZEN_ADMIRE_CURVE_NEO | ADMIRE_CURVE_NEO |
 | Zen | ADMIRE SHINE | ADMIRE_SHINE | ADMIRE SHINE |
 | Zen | Admire Blaze | ZEN_ADMIRE_BLAZE | Admire Blaze |
