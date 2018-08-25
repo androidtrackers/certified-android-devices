@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 24.08.2018
+Last sync is 25.08.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1847,6 +1847,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blu | Studio J8 | Studio_J8 | Studio J8 |
 | Blu | Studio M5 Plus LTE | S0390WW | Studio M5 Plus LTE |
 | Blu | Studio M6 | S730 | Studio M6 |
+| Blu | Studio Mega | S910Q | Studio Mega |
 | Blu | Studio Mega | Studio_Mega | Studio Mega |
 | Blu | Studio One | BLU_STUDIO_ONE | BLU STUDIO ONE |
 | Blu | Studio Pro | S750 | Studio Pro |
@@ -11599,6 +11600,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Neostra | ViewPad 7A | ViewPad-Kids-7A | ViewPad-Kids-7A |
 | Netgear | NeoTVPrime | NeoTV | GTV100 |
 | New Balance | Run IQ | shasta | NB RunIQ |
+| Newsday | A1 | Newsday_A1 | Newsday_A1 |
 | Newsday | A2 | Newsday_A2 | Newsday_A2 |
 | Newsday | E1 | Newsday_E1 | Newsday_E1 |
 | Newsday | Newsday_N2+ | Newsday_N2_ | Newsday_N2+ |
@@ -11697,6 +11699,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nomi | Nomi i5511 | Nomi_i5511 | Nomi_i5511 |
 | Nomi | Nomi i5532 | Nomi_i5532 | i5532 |
 | Nomi | Nomi i6030 | i6030 | Nomi i6030 |
+| Nomi | Nomi_Corsa4 3G | Nomi_C070014 | Nomi_C070014 |
+| Nomi | Nomi_Libra4 3G | Nomi_C080014 | Nomi_C080014 |
 | Nomi | Nomi_i5730 | Nomi_i5730 | Nomi_i5730 |
 | Nomi | ULTRA3 3G | Nomi_C101012 | Nomi_C101012 |
 | Nomi | ULTRA3 LTE | Nomi_C101030 | Nomi_C101030 |
@@ -12140,6 +12144,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oukitel | U7 Plus | U7_Plus | U7 Plus |
 | Oukitel | WP5000 | WP5000 | WP5000 |
 | Overmax | Livecore7032 | Livecore7032 | Livecore7032 |
+| Overmax | OV-Qualcore-1023-3G | OV-Qualcore-1023-3G | OV-Qualcore-1023-3G |
 | OwnMobile | Entel PCS Telecomunicaciones S.A. | OWN_FUN_7 | OWN FUN 7 |
 | OwnMobile | FUN VALUE 4G | FUNVALUE4G | FUN VALUE 4G |
 | OwnMobile | OWN Smart \xc3\x962 | SMART_O2 | SMART_O2 |
@@ -12783,6 +12788,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Premio | P530 | P530 | P530 |
 | Premio | P540 | P540 | P540 |
 | Premio | PREMIO P450 | P450 | P450 |
+| Premio | Premio P420 | Premio_P420 | Premio P420 |
 | Premio | Premio P610 | Premio_P610 | P610 |
 | Premio | Premio P620 | Premio_P620 | P620 |
 | Prestige | 7G | Prestige-7G | Prestige 7G |
@@ -14991,6 +14997,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A 9.7 | gt5note10wifi | SM-P550 |
 | Samsung | Galaxy Tab A 9.7 | gt5note10wifichn | SM-P550 |
 | Samsung | Galaxy Tab A S 8.0 | gt58ltebmc | SM-T357W |
+| Samsung | Galaxy Tab A \xe2\x91\xa5 with S Pen | gtanotexlwifichn | SM-P583 |
 | Samsung | Galaxy Tab A(10.5) | gta2xllte | SM-T597 |
 | Samsung | Galaxy Tab A(10.5) | gta2xlltekx | SM-T595N |
 | Samsung | Galaxy Tab A2 8.0 | gta2swifichn | SM-T380C |
@@ -15191,7 +15198,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy TabA Plus 10.1 | gtanotexllte | SM-P587 |
 | Samsung | Galaxy TabA Plus 10.1 | gtanotexlltechn | SM-P588C |
 | Samsung | Galaxy TabA Plus 10.1 | gtanotexlltekx | SM-P585N0 |
-| Samsung | Galaxy TabA Plus 10.1 | gtanotexlwifichn | SM-P583 |
 | Samsung | Galaxy TabA Plus 10.1 | gtaxlqltespr | SM-T587P |
 | Samsung | Galaxy TabA Plus10.1 | gtanotexlwifikx | SM-P580X |
 | Samsung | Galaxy TabE 8.0 | gtesltektt | SM-T378K |
@@ -15281,6 +15287,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Win Pro | wilcoxctc | SM-G3819D |
 | Samsung | Galaxy Win Pro | wilcoxds | SM-G3812 |
 | Samsung | Galaxy Win2 | coreprimeltedtv | SM-G360BT |
+| Samsung | Galaxy XCover4 | xcover4lte | SM-G390F |
 | Samsung | Galaxy Xcover | GT-S5690 | GT-S5690 |
 | Samsung | Galaxy Xcover | GT-S5690L | GT-S5690L |
 | Samsung | Galaxy Xcover | GT-S5690M | GT-S5690M |
@@ -15289,7 +15296,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Xcover2 | skomer | GT-S7710L |
 | Samsung | Galaxy Xcover3 | xcover3lte | SM-G388F |
 | Samsung | Galaxy Xcover3 | xcover3velte | SM-G389F |
-| Samsung | Galaxy Xcover4 | xcover4lte | SM-G390F |
 | Samsung | Galaxy Xcover4 | xcover4lte | SM-G390Y |
 | Samsung | Galaxy Xcover4 | xcover4ltecan | SM-G390W |
 | Samsung | Galaxy Y | GT-S5360 | GT-S5360 |
@@ -18038,7 +18044,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Uneone | SD55 | UNEONE_SD55 | SD55 |
 | Uneone | SD80 | SD80 | SD80 |
 | Unihertz | Atom | Atom | Atom |
-| United Cloud | KSTB6020 | KSTB6020 | KSTB6020 |
+| United Group | KSTB6020 | KSTB6020 | KSTB6020 |
 | Unnecto | U4560 | U4560 | U4560 |
 | Usha Shriram | RA_1_GENIUS_STAR | RA_1_GENIUS_STAR | RA_1_GENIUS_STAR |
 | Utopia | UH0342  UHTABLET10.1INCH | UH0342 | UH0342 |
@@ -19741,6 +19747,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | NX612J | NX612J | NX612J |
 | ZTE | NX907J | NX907J | NX907J |
 | ZTE | OWN FUN 5(4G) | VFD511 | OWN FUN 5(4G) |
+| ZTE | OWN FUN 5(4G) | VFD511 | ZTE BLADE A321 |
 | ZTE | OWN One Plus | ZTE_Blade_V580 | OWN One Plus |
 | ZTE | Optimus Barcelona | blade2 | Optimus Barcelona |
 | ZTE | Orange Hi 4G | Orange_Hi_4G | Orange Hi 4G |
@@ -20435,6 +20442,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iBRIT | iBRIT SpeedX | SpeedX | SpeedX |
 | iBall | iBall | iBall_Slide_Brace_XJ | iBall Slide Brace XJ |
 | iBall | iBall | iBall_Slide_Dazzle_i7 | iBall Slide Dazzle i7 |
+| iBall | iBall Slide Gorgeo 4GL | Gorgeo_4GL | Gorgeo_4GL |
 | iBall | iBall Slide Imprint 4G | Imprint_4G | iBall_Slide_Imprint_4G |
 | iBall | iBall Slide Iris Drishti 4G | Iris_Drishti_4G | iBall_Slide_Iris_Drishti_4G |
 | iBall | iBall Slide Nimble 4GF | Slide_Nimble_4GF | iBall_Slide_Nimble_4GF |
