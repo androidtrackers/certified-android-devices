@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 25.08.2018
+Last sync is 26.08.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -330,6 +330,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Advan digital | i7 | ADVAN_i7 | i7 |
 | Advan digital | i7A | ADVAN_i7A | i7A |
 | Advan digital | i7U | ADVAN_i_Lite | i7U |
+| Advance | HL4736 | HL4736 | HL4736 |
 | Advance | HL5576 | HL5576 | HL5576 |
 | Advance | Pr5747 | Pr5747 | Pr5747 |
 | Advance | Pr6146 | Pr6146 | Pr6146 |
@@ -1963,6 +1964,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | CCC | AirStick 4K | ts302 | AirStick 4K |
 | CCC | LifeStick | ts201 | LifeStick |
 | CCC | TSUTAYA Stick | ts201 | TStick |
+| CCIT | Xedition | Xedition | Xedition |
 | CG Mobile | Blaze  G | Blaze_G | Blaze G |
 | CG Mobile | Blaze N | Blaze_N | Blaze N |
 | CG Mobile | EON Blaze Pro | CG_EON_Blaze_Pro | CG_EON_Blaze_Pro |
@@ -2684,6 +2686,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DNA | DNA TV-hubi | dctiw384 | DNA Android TV |
 | DO Mobile | Mate1 | Mate1 | DO_S1 |
 | DO Mobile | Mate1 | Mate1 | Mate1 |
+| DTC products | S30 | S30 | S30 |
 | Daehap | DH-B301K | DH-B301K | DH-B301K |
 | Danew | DSlide 710 | Dslide710 | Dslide710 |
 | Danew | DSlide 750 | Danew_DSlide750 | DSlide750 |
@@ -2783,6 +2786,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DigiLand | NS-P16AT08 | mid8005 | NS-P16AT08 |
 | DigiLand | NS-P16AT785HD | MID7802RA | NS-P16AT785HD |
 | Digicel | GO Onyx | GO_Onyx | GO Onyx |
+| Digicom | Digicom_A7_LTE | Digicom_A7_LTE | Digicom_A7_LTE |
 | Digicom | Tribe | Tribe | Digicom Tribe |
 | Digilite | TA70CA1 | TA70CA1 | TA70CA1 |
 | Digilite | TA70CA2 | TA70CA2_1 | TA70CA2 |
@@ -2861,6 +2865,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Digma | VOX_S509_3G | VS5032PG | VOX S509 3G VS5032PG |
 | Dingding | X10 | X10 | X10 |
 | Dingding | X11 | X11 | X11 |
+| Dingding | X11S | X11S | X11S |
 | Dish | AirTV Player | uiw4010ech | AirTV Player |
 | Dish | EVOLVE | dish_cable_bcm | SH960C-DS |
 | Disney Frozen | BMF00001 | BMF00001 | Frozen |
@@ -13197,6 +13202,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | RCA | RCT6973W43M | RCT6973W43M | RCT6973W43M |
 | RCA | RCT6973W43R | RCT6973W43R | RCT6973W43R |
 | RCA | RLTP5573 | RLTP5573 | RLTP5573 |
+| RCA | Voyager | RCT6873W42BMF8 | RCT6873W42BMF8 |
 | RCA | Voyager Pro | RCT6873W42M_F7 | RCT6873W42M_F7 |
 | RCA | XLD Series | XLDRCAV1 | XLDRCAV1 |
 | REACH | Q882 | Q882 | Q882 |
@@ -15776,6 +15782,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sky Devices | pro selfie | PRO_SELFIE | PRO_SELFIE |
 | SkyLife | UHD2 | IC1110 | IC1110 |
 | SkyLife | skylife LTE TV | DMTS17SS | DMT_1621 |
+| Skyview | M5 | M5 | M5 |
 | Skyworth | Asia | globe_ap | globe |
 | Skyworth | Asia | open_fhd_ap | open_fhd |
 | Skyworth | Europe | globe_eu | globe |
@@ -15797,6 +15804,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Smartab | ST7150 | ST7150 | ST7150 |
 | Smartab | STJR700 | STJR700 | STJR700 |
 | Smartab | STJR76 | STJR76 | STJR76 |
+| Smartec | MiCA | MiCA | MiCA |
 | Smartex | SMARTEX_M512 | M512 | M512 |
 | Smartfren | A16C3H | A16C3H | Andromax A16C3H |
 | Smartfren | A26C4H | A26C4H | Andromax A26C4H |
