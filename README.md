@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 27.08.2018
+Last sync is 28.08.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1728,6 +1728,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blu | ADVANCE 5.0 HD | Advance_5_0_HD | Advance 5.0 HD |
 | Blu | Advance 4.0M | Advance_4_0M | Advance 4.0M |
 | Blu | Advance 4.0M | Advance_4_0M | Studio M4 |
+| Blu | Advance 5.2 | A290Q | Advance 5.2 |
 | Blu | Advance A5 LTE | A0010WW | Advance A5 LTE |
 | Blu | Advance A6 | A190 | Advance A6 |
 | Blu | Advance_5_2 | A230Q | Advance 5.2 |
@@ -3429,6 +3430,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Fossil | Wear | mullet | Vapor |
 | Fossil | Wear | ray | EA Connected |
 | Fossil | Wear | ray | Q Venture HR |
+| Fossil | Wear | ray | Runway |
 | Fossil | Wear | shiner | Riley Touch |
 | Fossil | Wear | shiner | Riley Touchscreen |
 | Fossil | Wear | shiner | Sofie |
@@ -5111,6 +5113,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | HLTE100M | HS9850SC | HLTE100M |
 | Hisense | HLTE200M | HS8917QC | HLTE200M |
 | Hisense | HLTE200T | HS8917QC | HLTE200T |
+| Hisense | HLTE210T | HS8937QC | HLTE210T |
 | Hisense | HLTE212T | HS8917QC | HLTE212T |
 | Hisense | HLTE300E_ 02 | HS8937QC | HLTE300E |
 | Hisense | HLTE300E_ 02 | HS8937QC | HLTE300E_02 |
@@ -5120,6 +5123,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | HLTE310T | HSSDM450QC | HLTE310T |
 | Hisense | HLTE500T | HSSDM630QC | HLTE500T |
 | Hisense | HLTE501N | HSSDM660QC | HLTE501N |
+| Hisense | HLTE510M | HSSDM636QC | HLTE510M |
 | Hisense | HS- G610 | HS8916QC | HS-G610 |
 | Hisense | HS- L682 | HS8916QC | HS-L682 |
 | Hisense | HS-E600M | E600M | HS-E600M |
@@ -5206,6 +5210,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | Hisense F17 | HS6580MT | Hisense F17 |
 | Hisense | Hisense F17 | HS6580MT | Hisense Infinity E7 |
 | Hisense | Hisense F24 | HS6737MT | Hisense F24 |
+| Hisense | Hisense F28M | HS8937QC | HLTE210M |
 | Hisense | Hisense F8 MINI | HSSC9850 | Hisense F8 MINI |
 | Hisense | Hisense H20 | HSSDM636QC | HLTE510T |
 | Hisense | Hisense M36 | HS8909QC | Hisense M36 |
@@ -5213,6 +5218,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | Hisense T17 | HS6580MT | Hisense T17 |
 | Hisense | Hisense T5 | HS6737MT | Hisense T5 |
 | Hisense | Hisense T5 Pro | HS6737MT | Hisense T5 Pro |
+| Hisense | Hisense T965 | HS6580MT | Hisense T965 |
 | Hisense | Hisense U965 | HS6580MT | Hisense U965 |
 | Hisense | I300T | I300T | Hisense I300T |
 | Hisense | I56D2G | HS8929QC | Andromax I56D2G |
@@ -5549,6 +5555,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Honeywell | EDA70 | eda70-3 | EDA70 |
 | Honeywell | EdA50 | eda50-211 | EDA50 |
 | Hot Pepper | H5 | H5 | H5 |
+| Hotwav | Cosmos | Cosmos | Cosmos |
 | Hotwav | HOT 6 | HOT_6 | HOT 6 |
 | Hotwav | M5 | M5 | M5 |
 | Hotwav | M5i | M5i | M5i |
@@ -7055,6 +7062,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Infinix | HOT S3 | Infinix-X573 | Infinix X573 |
 | Infinix | HOT S3 | Infinix-X573 | Infinix X573S |
 | Infinix | HOT S3 | Infinix-X573B | Infinix X573B |
+| Infinix | HOT S3X | Infinix-X622 | Infinix X622 |
 | Infinix | HOT5 | Infinix-X559C | Infinix X559C |
 | Infinix | HOT5 | Infinix-X559C | Infinix X559F |
 | Infinix | HOT5 Lite | Infinix-X559 | Infinix X559 |
@@ -14990,6 +14998,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A 8.0 | gt5note8ltechn | SM-P355Y |
 | Samsung | Galaxy Tab A 8.0 | gt5note8wifi | SM-P350 |
 | Samsung | Galaxy Tab A 8.0 | gt5note8wifichn | SM-P350 |
+| Samsung | Galaxy Tab A 8.0 | gtasliteltevzw | SM-T387V |
 | Samsung | Galaxy Tab A 9.7 | gt510ltechn | SM-T555C |
 | Samsung | Galaxy Tab A 9.7 | gt510wifi | SM-T550X |
 | Samsung | Galaxy Tab A 9.7 | gt510wifichn | SM-T550 |
@@ -18019,6 +18028,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ulefone | Armor 2 | Armor_2 | Armor_2 |
 | Ulefone | Armor 2S | Armor_2S | Armor_2S |
 | Ulefone | Armor X | Armor_X | Armor_X |
+| Ulefone | Armor_5 | Ulefone_Armor_5 | Ulefone_Armor_5 |
 | Ulefone | MIX | t816_gq_ulefone | MIX |
 | Ulefone | MIX S | t815_gq_ulefone | MIX_S |
 | Ulefone | MIX_2 | MIX_2 | MIX_2 |
@@ -18052,6 +18062,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Uneone | SD55 | UNEONE_SD55 | SD55 |
 | Uneone | SD80 | SD80 | SD80 |
 | Unihertz | Atom | Atom | Atom |
+| Unistrong | UT30 | UT30 | UT30 |
 | United Group | KSTB6020 | KSTB6020 | KSTB6020 |
 | Unnecto | U4560 | U4560 | U4560 |
 | Usha Shriram | RA_1_GENIUS_STAR | RA_1_GENIUS_STAR | RA_1_GENIUS_STAR |
@@ -18320,6 +18331,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vivo | PD1612 | PD1612 | vivo PD1612 |
 | Vivo | PD1612 | PD1612 | vivo Y67 |
 | Vivo | V1 | V1 | vivo V1 |
+| Vivo | V1732A | PD1732 | V1732A |
 | Vivo | V1Max | Y37 | vivo Y37 |
 | Vivo | V3 | PD1524 | vivo V3 |
 | Vivo | V3 | V3 | vivo V3 |
@@ -18440,6 +18452,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vkworld | S8 | vkworld_S8 | S8 |
 | Vkworld | VK7000 | VK7000 | VK7000 |
 | Vmobile | A10_Y | A10_Y | A10_Y |
+| Vmobile | A11_N | A11_N | A11_N |
 | Vmobile | A11_Y | A11_Y | A11_Y |
 | Vmobile | A13 | A13 | A13 |
 | Vmobile | A13_Y | A13_Y | A13_Y |
@@ -18836,6 +18849,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Xiaomi | HM NOTE 1W | lcsh92_wet_jb9 | HM NOTE 1W |
 | Xiaomi | HM Note 2 | hermes | Redmi Note 2 |
 | Xiaomi | Hong Mi | HM2013022 | 2013022 |
+| Xiaomi | Hongmi 6 | cereus | Redmi 6 |
+| Xiaomi | Hongmi 6A | cactus | Redmi 6A |
 | Xiaomi | MI  8  Explorer  Edition | ursa | MI 8 Explorer Edition |
 | Xiaomi | MI 2 | aries | MI 2 |
 | Xiaomi | MI 2 | aries | MI 2S |
@@ -18894,6 +18909,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Xiaomi | MiBOX3S | queenchristina | MiBOX3S |
 | Xiaomi | MiBOX_mini | forrestgump | MiBOX_mini |
 | Xiaomi | MiTV2 | entrapment | MiTV2 |
+| Xiaomi | POCO F1 | beryllium | POCOPHONE F1 |
 | Xiaomi | Redmi | HM2013023 | 2013023 |
 | Xiaomi | Redmi  S2 | ysl | Redmi S2 |
 | Xiaomi | Redmi 3 | ido | Redmi 3 |
@@ -20204,6 +20220,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | ZTE A0616 | P637S15 | ZTE A0616 |
 | ZTE | ZTE A0620 | P840S13 | ZTE A0620 |
 | ZTE | ZTE A0622 | P817S13 | ZTE A0622 |
+| ZTE | ZTE A0722 | P840S18 | ZTE A0722 |
 | ZTE | ZTE A2017G | ailsa_ii | ZTE A2017G |
 | ZTE | ZTE A2018 | candice | ZTE A2018 |
 | ZTE | ZTE A520S | P809S10 | ZTE A520S |
@@ -20458,6 +20475,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iBall | iBall Slide Twinkle i5 | Twinkle_i5 | Twinkle_i5 |
 | iBall | iBall Slide Wings 4GP | Slide_Wings_4GP | iBall_Slide_Wings_4GP |
 | iBall | iBallSlide_Wings | iBallSlide_Wings | Wings |
+| iBall | iBall_Slide_Skye_03 | Slide_Skye_03 | Slide_Skye_03 |
 | iCraig | CLP288 | ICRAIG_CLP288 | ICRAIG_CLP288 |
 | iCraig | CLP293 | CLP293 | CLP293 |
 | iCraig | CLP_291 | ICRAIG_CLP_291 | ICRAIG_CLP291 |
