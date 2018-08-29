@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 28.08.2018
+Last sync is 29.08.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -808,6 +808,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Archos | Archos 101 Platinum 3G | ac101pl3gv2 | Archos 101 Platinum 3G |
 | Archos | Archos 101b Oxygen | ac101boxv2 | Archos 101b Oxygen |
 | Archos | Archos 101b Oxygen | ac101boxv3 | Archos 101b Oxygen |
+| Archos | Archos 101b Xenon | ac101bxev3 | Archos 101b Xenon |
 | Archos | Archos 101b Xenon | ac101bxev3 | Archos 101b Xenon v3 |
 | Archos | Archos 101c Helium | ac101che | Archos 101c Helium |
 | Archos | Archos 101c Platinum | ac101cplv3 | Archos 101c Platinum |
@@ -1920,6 +1921,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Bouygues Telecom | Bbox Miami | HMB4213H | BouygtelTV |
 | Bouygues Telecom | Bs 451 | Bs_451 | Bs 451 |
 | Brandcode | L1Fa | L1Fa | L1Fa |
+| Bravis | NB108 | NB108 | NB108 |
 | Bravis | NB753 | NB753 | NB753 |
 | Bravis | NB76 | NB76 | NB76 |
 | Bravis | X500 | BRAVIS_X500 | BRAVIS X500 |
@@ -2762,6 +2764,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Denver Electronics | SDQ_52004L | SDQ_52004L | SDQ_52004L |
 | Denver Electronics | TAQ-10 | TAQ10 | TAQ-10 |
 | Denver Electronics | TAQ-102 | TAQ102 | TAQ-102 |
+| Denver Electronics | TAQ_10G | TAQ_10G | TAQ_10G |
 | Dialog Blaze | 5701A | 5701A | 5701A |
 | Dialog Blaze | M50E-1A | M50E-1A | M50E-1A |
 | DigiLand | Compumax Blue | mid1016_ma | Compumax Blue |
@@ -2989,6 +2992,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Dtac | dtacPhoneT3 | dtacPhoneT3 | dtacPhoneT3 |
 | Dtac | dtac_Phone_S2 | dtacPhoneS2 | dtac_Phone_S2 |
 | Dunns | Dunns Slinger | DunnsSlinger | Dunns Slinger |
+| Dunns | ETAB_M9041G | ETAB_M9041G | ETAB_M9041G |
 | Dunns | Smarty II | Smarty_II | Smarty_II |
 | E-Boda | Eclipse G400M | Eclipse_G400M | Eclipse_G400M |
 | E-Boda | Eclipse G500HD | E-Boda_Eclipse_G500HD | Eclipse G500HD |
@@ -3101,6 +3105,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Energizer | EnergyE500 | EnergyE500 | EnergyE500 |
 | Energizer | H550S | HARDCASEH550S | HARDCASEH550S |
 | Energizer | HARDCASEH500S | HARDCASEH500S | HARDCASEH500S |
+| Energizer | PowerMaxP490 | PowerMaxP490 | PowerMaxP490 |
 | Energizer | PowerMaxP550S | PowerMaxP550S | P550S |
 | Energizer | PowerMaxP600S | PowerMaxP600S | PowerMaxP600S |
 | Energizer | S550 | S550 | S550 |
@@ -3699,6 +3704,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Getac | ZX70 | zx70 | ZX70 |
 | Getac | ZX70 | zx70 | zx70 |
 | Ghia | GHIA_VECTOR_3G | GHIA_VECTOR_3G | GHIA_VECTOR_3G |
+| Ghia | GTABKIDS | GTABKIDS | GTABKIDS |
 | Ghia | GTABPND | GTABPND | GTABPND |
 | Ghia | GTKIDS7R | GTKIDS7R | GTKIDS7R |
 | Ghia | GTKIDS7V | GTKIDS7V | GTKIDS7V |
@@ -4908,6 +4914,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | HighScreen | PowerRageEvo | PowerRageEvo | Power Rage Evo |
 | HighScreen | Prime L | PrimeL | Prime L |
 | HighScreen | Tasty | Tasty | Tasty |
+| Hiking | HK-MH501 | HK-MH501 | HK-MH501 |
 | Himax | M21 | M21 | M21 |
 | Hipstreet | 785TB4 | 785TB4 | 785TB4 |
 | Hipstreet | 7DTB25 | 7DTB25 | 7DTB25 |
@@ -5213,6 +5220,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | Hisense F28M | HS8937QC | HLTE210M |
 | Hisense | Hisense F8 MINI | HSSC9850 | Hisense F8 MINI |
 | Hisense | Hisense H20 | HSSDM636QC | HLTE510T |
+| Hisense | Hisense Infinity H12 Pro | HSSDM636QC | Hisense Infinity H12 Pro |
 | Hisense | Hisense M36 | HS8909QC | Hisense M36 |
 | Hisense | Hisense P1 | HS8953QC | Hisense P1 |
 | Hisense | Hisense T17 | HS6580MT | Hisense T17 |
@@ -12281,6 +12289,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Panasonic | FZ-B2D | fz_b2d | FZ-B2D |
 | Panasonic | FZ-N1 | FZ-N1 | FZ-N1 |
 | Panasonic | FZ-N1 | FZ-N1CL | FZ-N1 |
+| Panasonic | FZ-N1 | FZ-N1E | FZ-N1 |
 | Panasonic | FZ-N1 | FZ-N1EVU | FZ-N1 |
 | Panasonic | FZ-N1 | FZ-N1F | FZ-N1 |
 | Panasonic | FZ-N1 | FZ-N1VU | FZ-N1 |
@@ -13263,6 +13272,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ruggear | RG760 | RG760 | RG760 |
 | Ruio | RUIO i7c Tablet | i7c | i7c |
 | Ruio | Ruio_S5Plus | Ruio_S5Plus | Ruio_S5Plus |
+| Ruio | Ruio_i7Plus | i7Plus | i7Plus |
 | Ruio | S4 | RUIO_S4 | RUIO_S4 |
 | S-tell | M555i | M555i | M555i |
 | S-tell | M578 | M578 | M578 |
@@ -15691,8 +15701,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp | SH825wi | SH825Wi | SH825Wi |
 | Sharp | SHARP A2 Lite | SJ3 | FS8026 |
 | Sharp | SHARP A2 Mini | HQ3 | IF9009 |
-| Sharp | SHARP AQUOS C10 | SH-Z01 | SH-Z01 |
 | Sharp | SHARP AQUOS D10 | SH-D01 | SH-D01 |
+| Sharp | SHARP AQUOS S2 | SH-Z01 | SH-Z01 |
 | Sharp | SHARP AQUOS S2 | SS2 | FS8010 |
 | Sharp | SHARP AQUOS S2 Plus | SAT | FS8008 |
 | Sharp | SHARP AQUOS S2 Plus | SAT | FS8016 |
@@ -15717,7 +15727,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp | XLED-50SU480A | Lcd_50sufoc480a | LCD_50SUFOC480A |
 | Sharp | XLED-50SU583A | Lcd_xxfoc580a2 | LCD_xxFOC580A2 |
 | Sharp | XLED-50Z4808A | Lcd_50ufoczq48a | LCD_50UFOCZQ48A |
-| Sharp | XLED-60SU485A | Lcd_60sufoc485a | LCD_60SUFOC485A |
+| Sharp | XLED-60SU485A, XLED-70SU480A | Lcd_60sufoc485a | LCD_60SUFOC485A |
 | Sharp | XLED-65SU480A | Lcd_xxsufoc480a | LCD_xxSUFOC480A |
 | Sharp | XLED-65SU583A | Lcd_xxfoc580a1 | LCD_xxFOC580A1 |
 | Sharp | XLED-65Z4808A | Lcd_xxufoczq48a | LCD_xxUFOCZQ48A |
@@ -16457,6 +16467,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Swipe | Elite VR | Elite_VR | Elite_VR |
 | Swipe | Razor | Swipe_Razor | Razor |
 | Swipe | Strike | Swipe_Strike | Strike |
+| SwissMobility | Z72 | Z72 | Z72 |
 | Swisstone | swisstone SD 510 | SD5103G | swisstone SD 510 |
 | Swisstone | swisstone SD 530 | SD5304G | swisstone SD 530 |
 | Symphony | H300 | H300 | H300 |
@@ -18740,6 +18751,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Wiko | Tommy2 Plus | v3941 | Tommy2 Plus |
 | Wiko | Tommy3 | W_C200SN | Tommy3 |
 | Wiko | Tommy3 | W_C201 | Tommy3 |
+| Wiko | Tommy3 Plus | W-V600 | W-V600 |
 | Wiko | U FEEL | P6601AE | U FEEL |
 | Wiko | U FEEL | P6609BC | U FEEL |
 | Wiko | U FEEL | P6609BCD | U FEEL |
@@ -18759,6 +18771,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Wiko | View Prime | v12bn | View Prime |
 | Wiko | View XL | v11cnlite | View XL |
 | Wiko | View2 Go | W-P220 | View2 Go |
+| Wiko | View2 Plus | W-P210 | View2 Plus |
 | Wiko | WAX | s8515 | WAX |
 | Wiko | WC300 | WC300 | WC300 |
 | Wiko | WC300SN | WC300SN | WC300SN |
@@ -18951,6 +18964,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Xplore Technologies | M6 | M6 | M6 |
 | Xplore Technologies | RangerX | iX101T1 | iX101T1 |
 | Xplore Technologies | RangerX | iX101T1_2G | iX101T1-2G |
+| Xplore Technologies | XP8105 | XP8105 | XP8105 |
 | Xplore Technologies | XSLATE_D10 | XSLATE_D10 | iX101B1 |
 | Xplore Technologies | XSLATE_D10 | XSLATE_D10 | iX101D1 |
 | Xplore Technologies | XSLATE_D10 | XSLATE_D10 | iX101D1-FIOS |
