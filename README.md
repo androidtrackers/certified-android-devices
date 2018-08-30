@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 29.08.2018
+Last sync is 30.08.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1921,6 +1921,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Bouygues Telecom | Bbox Miami | HMB4213H | BouygtelTV |
 | Bouygues Telecom | Bs 451 | Bs_451 | Bs 451 |
 | Brandcode | L1Fa | L1Fa | L1Fa |
+| Bravis | N1_550_Cruiser | N1_550_Cruiser | N1_550_Cruiser |
 | Bravis | NB108 | NB108 | NB108 |
 | Bravis | NB753 | NB753 | NB753 |
 | Bravis | NB76 | NB76 | NB76 |
@@ -2764,7 +2765,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Denver Electronics | SDQ_52004L | SDQ_52004L | SDQ_52004L |
 | Denver Electronics | TAQ-10 | TAQ10 | TAQ-10 |
 | Denver Electronics | TAQ-102 | TAQ102 | TAQ-102 |
+| Denver Electronics | TAQ-90 | TAQ90 | TAQ-90 |
 | Denver Electronics | TAQ_10G | TAQ_10G | TAQ_10G |
+| Denver Electronics | TIQ-102 | TIQ102 | TIQ-102 |
 | Dialog Blaze | 5701A | 5701A | 5701A |
 | Dialog Blaze | M50E-1A | M50E-1A | M50E-1A |
 | DigiLand | Compumax Blue | mid1016_ma | Compumax Blue |
@@ -3152,6 +3155,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ergo | ERGO B500 | B500 | ERGO B500 First |
 | Ergo | ERGO B501 | B501 | B501 |
 | Ergo | ERGO_A556 | ERGO_A556 | ERGO_A556 |
+| Ergo | V540_Level | V540_Level | V540_Level |
+| Ergo | V550_Vision | V550_Vision | V550_Vision |
+| Ergo | V570_BIG_BEN | V570_BIG_BEN | V570_BIG_BEN |
 | Essential Products | PH-1 | mata | PH-1 |
 | EssentielB | Black Diamond | bird77_a_cu_ics2 | Essentielb-Black Diamond |
 | EssentielB | Pyxis | pyxis_boulanger | Essentielb-Pixis |
@@ -3301,6 +3307,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Figi | FIGI Fone | Fone | Fone |
 | Figi | FIGI Ftwo | Ftwo | Ftwo |
 | Figi | FIGI Gone | Gone | Gone |
+| Figi | Hola | Hola | Hola |
 | Figi | Mone | Mone | Mone |
 | Figi | Mtwo | Mtwo | Mtwo |
 | Figo | ATRIUM II F55L2 | F55L2 | ATRIUM II F55L2 |
@@ -3945,6 +3952,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Gobox | T2 | T2 | T2 |
 | Gol Mobile | F3Prime | F3Prime | F3Prime |
 | Gol Mobile | TEAM_7_3G | TEAM_7_3G | TEAM_7_3G |
+| Gome | GOME C7 Note mini | GOME_C7_Note_Mini | GOME_C7_Note |
 | Gome | GOME_C7_Note | GOME_C7_Note | GOME_C7_Note |
 | Gonna | Zebra | Zebra | Zebra |
 | Goo | g08 | v12dn | View Prime |
@@ -10701,6 +10709,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Mobicell | Candy | Candy | Candy |
 | Mobicell | DANDY | DANDY | DANDY |
 | Mobicell | ECHO | ECHO | ECHO |
+| Mobicell | EGO | EGO | EGO |
 | Mobicell | FEVER | FEVER | FEVER |
 | Mobicell | FRIO | FRIO | FRIO |
 | Mobicell | HERO X | HERO_X | HERO_X |
@@ -10721,12 +10730,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Mobicell | PURE_PLUS | PURE_PLUS | PURE PLUS |
 | Mobicell | R3 | R3 | R3 |
 | Mobicell | R4 | R4 | R4 |
+| Mobicell | R9_LITE | R9_LITE | R9 LITE |
 | Mobicell | REBEL | REBEL | REBEL |
 | Mobicell | RUSH | RUSH | RUSH |
 | Mobicell | Retro | Retro | Retro |
 | Mobicell | SHIFT | SHIFT | SHIFT |
 | Mobicell | SWITCH | SWITCH | SWITCH |
+| Mobicell | SWITCH1 | SWITCH1 | SWITCH1 |
 | Mobicell | Samba | Samba | Samba |
+| Mobicell | TRENDY_LITE | TRENDY_LITE | TRENDY_LITE |
 | Mobicell | TRIP | TRIP | TRIP |
 | Mobicell | Trendy | TREDNY | TREDNY |
 | Mobicell | Trendy | TRENDY | TRENDY |
@@ -10735,6 +10747,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Mobicell | V1 | V1 | V1 |
 | Mobicell | V2 LTE | V2_LTE | V2 LTE |
 | Mobicell | VEGA | VEGA | VEGA |
+| Mobicell | X4 | X4 | X4 |
 | Mobicell | ZEN | ZEN | ZEN |
 | Mobicell | ZOOM | ZOOM | ZOOM |
 | MobiiStar | C1 Lite | C1_Lite | C1 Lite |
@@ -11804,6 +11817,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ollee | T07TR1W | T07TR1W | T07TR1W |
 | Ollee | XT080 | XT080 | XT080 |
 | OneClick | C2 Pro | C2_pro | C2 pro |
+| OneClick | X1 | X1 | X1 |
 | OnePlus | 2 | OnePlus2 | ONE A2003 |
 | OnePlus | 3 | OnePlus3 | ONEPLUS A3000 |
 | OnePlus | One | A0001 | A0001 |
@@ -12678,6 +12692,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Polaroid | PSPCK20NA | PSPCK20NA | PSPCK20NA |
 | Polaroid | PSPCK21NA | PSPCK21NA | PSPCK21NA |
 | Polaroid | PSPCL20A0 | PSPCL20A0 | PSPCL20A0 |
+| Polaroid | PSPTD21NA | PSPTD21NA | PSPTD21NA |
 | Polaroid | PTAB1051-PTAB1055 | RCT6203W46 | PTAB1051_PTAB1055 |
 | Polaroid | PTAB751 | STJR76 | PTAB751 |
 | Polaroid | Phantom 5 | Phantom5 | PRO5023 |
@@ -12988,6 +13003,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Prime | O9 | PRIME_O9 | O9 |
 | Prime | X6_Pro | X6_Pro | X6_Pro |
 | Primux | Primux_ioxphone | Primux_ioxphone | Primux_ioxphone |
+| Prince Mobile | PC9 | PC9 | PC9 |
 | Prixton | T1700Q | T1700Q | T1700Q |
 | Prixton | T7014Q_Plus | T7014Q_Plus | T7014Q_Plus |
 | Professional Mobile | Pro V5 | Pro_V5 | Pro V5 |
@@ -14979,6 +14995,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A (2017) | gta2slteskt | SM-T385S |
 | Samsung | Galaxy Tab A (2017) | gta2swifi | SM-T380 |
 | Samsung | Galaxy Tab A (2018, 10.5) | gta2xllte | SM-T595 |
+| Samsung | Galaxy Tab A (2018, 10.5) | gta2xlltechn | SM-T595C |
 | Samsung | Galaxy Tab A (2018, 10.5) | gta2xlwifi | SM-T590 |
 | Samsung | Galaxy Tab A 10.1 | gtanotexlwifikx | SM-P580 |
 | Samsung | Galaxy Tab A 10.1 | gtaxladwifikx | SM-T583 |
@@ -15121,6 +15138,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab S3 | gts3lwifichn | SM-T820 |
 | Samsung | Galaxy Tab S4 | gts4llte | SM-T835 |
 | Samsung | Galaxy Tab S4 | gts4llte | SM-T837 |
+| Samsung | Galaxy Tab S4 | gts4lltechn | SM-T835C |
 | Samsung | Galaxy Tab S4 | gts4lltekx | SM-T835N |
 | Samsung | Galaxy Tab S4 | gts4lltespr | SM-T837P |
 | Samsung | Galaxy Tab S4 | gts4lltevzw | SM-T837V |
@@ -15701,8 +15719,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp | SH825wi | SH825Wi | SH825Wi |
 | Sharp | SHARP A2 Lite | SJ3 | FS8026 |
 | Sharp | SHARP A2 Mini | HQ3 | IF9009 |
+| Sharp | SHARP AQUOS C10 | SH-Z01 | SH-Z01 |
 | Sharp | SHARP AQUOS D10 | SH-D01 | SH-D01 |
-| Sharp | SHARP AQUOS S2 | SH-Z01 | SH-Z01 |
 | Sharp | SHARP AQUOS S2 | SS2 | FS8010 |
 | Sharp | SHARP AQUOS S2 Plus | SAT | FS8008 |
 | Sharp | SHARP AQUOS S2 Plus | SAT | FS8016 |
@@ -15750,6 +15768,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sico | Nile X | Nile_X | Nile X |
 | Sico | PLUS2 | Plus2 | Plus2 |
 | Sico | PLUS2 4G | Plus2_4G | Plus2 4G |
+| Sico | Plus3_4G | Plus3_4G | Plus3_4G |
 | Sico | Sico Topaz | Topaz | SICO Topaz |
 | Sico SmartPhone | SSR1-5-8M | GBC_bravo | SSR1-5-8M |
 | Sico SmartPhone | SSR1-5-8M | GBC_bravo | sico pro |
@@ -17629,6 +17648,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tanoshi | TTBKB10-01 | TTBKB10-01 | Tanoshi 2-in-1 |
 | Tech 4u | Force | t592_otd_tech_4u_we | Force |
 | Tech 4u | I8 | I8 | I8 |
+| Tech 4u | Prix | Prix | Prix |
 | Tech 4u | S8 Pro | S8_Pro | S8_Pro |
 | Tech 4u | Tech4U S8 | S8 | S8 |
 | Technicolor |  | omap4_WT3 | T-Hub2 |
@@ -18161,6 +18181,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vertex | Impress_Disco | Impress_Disco | Impress Disco |
 | Vertex | Impress_Energy | Impress_Energy | Impress_Energy |
 | Vertex | Impress_Frost | Impress_Frost | Impress_Frost |
+| Vertex | Impress_Funk | Impress_Funk | Impress_Funk |
 | Vertex | Impress_Game | Impress_Game | Impress_Game |
 | Vertex | Impress_Lagune | Impress_Lagune | Impress_Lagune |
 | Vertex | Impress_Nero | Impress_Nero | Impress_Nero |
@@ -18467,6 +18488,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vmobile | A11_Y | A11_Y | A11_Y |
 | Vmobile | A13 | A13 | A13 |
 | Vmobile | A13_Y | A13_Y | A13_Y |
+| Vmobile | A15 | A15 | A15 |
 | Vodafone | 785 | Vodafone_785 | Vodafone 785 |
 | Vodafone | 895 | VF-895N | VF-895N |
 | Vodafone | Smart N8 | VFD610 | VFD 610 |
@@ -18751,7 +18773,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Wiko | Tommy2 Plus | v3941 | Tommy2 Plus |
 | Wiko | Tommy3 | W_C200SN | Tommy3 |
 | Wiko | Tommy3 | W_C201 | Tommy3 |
-| Wiko | Tommy3 Plus | W-V600 | W-V600 |
 | Wiko | U FEEL | P6601AE | U FEEL |
 | Wiko | U FEEL | P6609BC | U FEEL |
 | Wiko | U FEEL | P6609BCD | U FEEL |
@@ -18771,7 +18792,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Wiko | View Prime | v12bn | View Prime |
 | Wiko | View XL | v11cnlite | View XL |
 | Wiko | View2 Go | W-P220 | View2 Go |
-| Wiko | View2 Plus | W-P210 | View2 Plus |
 | Wiko | WAX | s8515 | WAX |
 | Wiko | WC300 | WC300 | WC300 |
 | Wiko | WC300SN | WC300SN | WC300SN |
