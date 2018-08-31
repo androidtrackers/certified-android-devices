@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 30.08.2018
+Last sync is 31.08.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3310,6 +3310,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Figi | Hola | Hola | Hola |
 | Figi | Mone | Mone | Mone |
 | Figi | Mtwo | Mtwo | Mtwo |
+| Figi | Nopal | Nopal | Nopal |
 | Figo | ATRIUM II F55L2 | F55L2 | ATRIUM II F55L2 |
 | Figo | CENTRIC S50G | S50G | CENTRIC S50G |
 | Filih | FX4423 | FX4423 | FX4423 |
@@ -10704,6 +10705,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Mobicell | ASTRO | ASTRO | ASTRO |
 | Mobicell | Air | Mobicel_Air | Air |
 | Mobicell | BERRY | BERRY | BERRY |
+| Mobicell | BERRY1 | BERRY1 | BERRY1 |
 | Mobicell | CHERRY | CHERRY | CHERRY |
 | Mobicell | COSMO | COSMO | COSMO |
 | Mobicell | Candy | Candy | Candy |
@@ -10738,14 +10740,17 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Mobicell | SWITCH | SWITCH | SWITCH |
 | Mobicell | SWITCH1 | SWITCH1 | SWITCH1 |
 | Mobicell | Samba | Samba | Samba |
+| Mobicell | TANGO_LITE | TANGO_LITE | TANGO_LITE |
 | Mobicell | TRENDY_LITE | TRENDY_LITE | TRENDY_LITE |
 | Mobicell | TRIP | TRIP | TRIP |
 | Mobicell | Trendy | TREDNY | TREDNY |
 | Mobicell | Trendy | TRENDY | TRENDY |
 | Mobicell | Trendy Plus | TRENDY_PLUS | TRENDY PLUS |
 | Mobicell | U2 | U2 | U2 |
+| Mobicell | ULTRA | ULTRA | ULTRA |
 | Mobicell | V1 | V1 | V1 |
 | Mobicell | V2 LTE | V2_LTE | V2 LTE |
+| Mobicell | V4 | V4 | V4 |
 | Mobicell | VEGA | VEGA | VEGA |
 | Mobicell | X4 | X4 | X4 |
 | Mobicell | ZEN | ZEN | ZEN |
@@ -11942,6 +11947,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oppo | CPH1803 | CPH1803 | CPH1803 |
 | Oppo | CPH1803RU | CPH1803 | CPH1803 |
 | Oppo | CPH1807 | CPH1807 | CPH1807 |
+| Oppo | CPH1809 | CPH1809 | CPH1809 |
+| Oppo | CPH1809RU | CPH1809 | CPH1809 |
 | Oppo | CPH1819 | CPH1819 | CPH1819 |
 | Oppo | CPH1821 | CPH1821 | CPH1821 |
 | Oppo | CPH1827 | CPH1827 | CPH1827 |
@@ -11950,6 +11957,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oppo | CPH1835 | CPH1835 | CPH1835 |
 | Oppo | CPH1837 | CPH1837 | CPH1837 |
 | Oppo | CPH1851 | CPH1851 | CPH1851 |
+| Oppo | CPH1853 | CPH1853 | CPH1853 |
+| Oppo | CPH1853RU | CPH1853 | CPH1853 |
 | Oppo | CPH1859 | CPH1859 | CPH1859 |
 | Oppo | CPH1861 | CPH1861 | CPH1861 |
 | Oppo | CPH1871 | CPH1871 | CPH1871 |
@@ -12094,6 +12103,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oppo | R9st | R9s | OPPO R9st |
 | Oppo | R9t | R9 | OPPO R9t |
 | Oppo | R9tm | R9 | OPPO R9tm |
+| Oppo | RMX1805 | RMX1805 | RMX1805 |
+| Oppo | RMX1809 | RMX1809 | RMX1809 |
 | Oppo | U3 | U3 | U3 |
 | Oppo | U707 | U707 | U707 |
 | Oppo | U707T | U707T | U707T |
@@ -13992,6 +14003,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J3 Emerge | j3popltespr | SM-J327P |
 | Samsung | Galaxy J3 Mission | j3popltevzw | SM-J327VPP |
 | Samsung | Galaxy J3 Orbit | j3topeltetfnvzw | SM-S367VL |
+| Samsung | Galaxy J3 Orbit | j3topltetfntmo | SM-S357BL |
 | Samsung | Galaxy J3 Pop | j3popelteaio | SAMSUNG-SM-J326AZ |
 | Samsung | Galaxy J3 Pop | j3popelteaio | SAMSUNG-SM-J327AZ |
 | Samsung | Galaxy J3 Pop | j3popelteatt | SAMSUNG-SM-J327A |
@@ -14011,7 +14023,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J3 Top | j3toplteaio | SM-J336AZ |
 | Samsung | Galaxy J3 Top | j3toplteaio | SM-J337AZ |
 | Samsung | Galaxy J3 Top | j3toplteatt | SM-J337A |
-| Samsung | Galaxy J3 Top | j3topltetfntmo | SM-S357BL |
 | Samsung | Galaxy J3 V | j3topeltevzw | SM-J337V |
 | Samsung | Galaxy J3(2016) | j3ltekx | SM-J320N0 |
 | Samsung | Galaxy J3(2016) | j3ltetfnvzw | SM-S320VL |
@@ -14089,6 +14100,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J7 | j7y17lte | SM-J730FM |
 | Samsung | Galaxy J7 Aura | j7topelteusc | SM-J737R4 |
 | Samsung | Galaxy J7 Crown | j7topeltetfnvzw | SM-S767VL |
+| Samsung | Galaxy J7 Crown | j7topltetfntmo | SM-S757BL |
 | Samsung | Galaxy J7 Duo | j7duolte | SM-J720F |
 | Samsung | Galaxy J7 Duo | j7duolte | SM-J720M |
 | Samsung | Galaxy J7 Max | j7maxlte | SM-G615F |
@@ -14114,7 +14126,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J7 Sky Pro | j7popeltetfntmo | SM-S737TL |
 | Samsung | Galaxy J7 Star | j7topltetmo | SM-J737T |
 | Samsung | Galaxy J7 Top | j7toplteatt | SM-J737A |
-| Samsung | Galaxy J7 Top | j7topltetfntmo | SM-S757BL |
 | Samsung | Galaxy J7 V | j7popltevzw | SM-J727V |
 | Samsung | Galaxy J7 V | j7topeltevzw | SM-J737V |
 | Samsung | Galaxy J7(2015) | j7ltespr | SM-J700P |
@@ -17126,6 +17137,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033X |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033Y |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | Alcatel T 5033T |
+| TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | Optus X Start |
 | TCT (Alcatel) | Alcatel 1C | U5A_PLUS_3G | 5009A |
 | TCT (Alcatel) | Alcatel 1C | U5A_PLUS_3G | 5009D |
 | TCT (Alcatel) | Alcatel 1C | U5A_PLUS_3G | 5009D_RU |
