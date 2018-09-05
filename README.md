@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 04.09.2018
+Last sync is 05.09.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1290,6 +1290,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Auchan | LI12210IN | LI12210IN | LI12210IN |
 | Auchan | LI902T9IN | LI902T9IN | LI902T9IN |
 | Auchan | Q.4514 | Q4514 | Q4514 |
+| Auchan | Q10S53IN4G | Q10S53IN4G | Q10S53IN4G |
 | Auchan | Q4S6IN4G | Q4S6IN4G | Q4S6IN4G |
 | Auchan | Q4T10IN | Q4T10IN | Q4T10IN |
 | Auchan | Q4T7IN | Q4T7IN | Q4T7IN |
@@ -1929,6 +1930,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Bravis | NB108 | NB108 | NB108 |
 | Bravis | NB753 | NB753 | NB753 |
 | Bravis | NB76 | NB76 | NB76 |
+| Bravis | NB851 | NB851 | NB851 |
 | Bravis | X500 | BRAVIS_X500 | BRAVIS X500 |
 | Bravis | bravis_A506 | bravis_A506 | bravis_A506 |
 | Brighton | MAL-FWTVTB | MAL-FWTVTB | MAL-FWTVTB |
@@ -3156,6 +3158,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Envizen Digital | V100MD | V100MD | V100MD |
 | Envizen Digital | V917G | GK-MID9022 | V917G |
 | Envizen Digital | VMD1029 | VMD1029 | VMD1029 |
+| Ergo | B502 Basic | B502_Basic | B502 Basic |
 | Ergo | ERGO B500 | B500 | ERGO B500 First |
 | Ergo | ERGO B501 | B501 | B501 |
 | Ergo | ERGO_A556 | ERGO_A556 | ERGO_A556 |
@@ -5015,6 +5018,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense |  | t958 | HS-T958 |
 | Hisense |  | t960 | HS-T960 |
 | Hisense | 55H6SG | Vision | Vision |
+| Hisense | 700T | HSSDM660QC | HLTE700T |
 | Hisense | A2 | HS8937QC | Hisense A2 |
 | Hisense | A2M | HS8953QC | Hisense A2M |
 | Hisense | A2T | HS8953QC | Hisense A2T |
@@ -5240,6 +5244,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | Hisense T5 | HS6737MT | Hisense T5 |
 | Hisense | Hisense T5 Pro | HS6737MT | Hisense T5 Pro |
 | Hisense | Hisense T965 | HS6580MT | Hisense T965 |
+| Hisense | Hisense U965 | HS6580MT | Hisense Hi 1 PRO |
 | Hisense | Hisense U965 | HS6580MT | Hisense U965 |
 | Hisense | I300T | I300T | Hisense I300T |
 | Hisense | I56D2G | HS8929QC | Andromax I56D2G |
@@ -6407,6 +6412,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | P20 | HWEML | EML-TL00 |
 | Huawei | P20 Pro | HW-01K | HW-01K |
 | Huawei | P20 Pro | HWCLT | CLT-AL00 |
+| Huawei | P20 Pro | HWCLT | CLT-AL00l |
 | Huawei | P20 Pro | HWCLT | CLT-AL01 |
 | Huawei | P20 Pro | HWCLT | CLT-L04 |
 | Huawei | P20 Pro | HWCLT | CLT-L09 |
@@ -7707,6 +7713,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Kimfly | E1 | E1 | E1 |
 | Kioto | MID1021 | MID1021 | MID1021 |
 | Kioto | MID1028 | MID1028 | MID1028 |
+| Kioto | MID1036 | MID1036 | MID1036 |
 | Kiowa | A5_CRISTAL | A5_CRISTAL | A5_CRISTAL |
 | Klipad | 7588AN | tulip-d9003 | 7588AN |
 | Klipad | 7588AN | tulip-d9003 | KL3838 |
@@ -7743,6 +7750,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Konrow | LINK55 | LINK55 | LINK55 |
 | Konrow | MUST | MUST | MUST |
 | Konrow | Primo | PRIMO | PRIMO |
+| Konrow | SKY LITE | KONROW_SKY_LITE | SKY LITE |
 | Konrow | Sky | Sky | Sky |
 | Konrow | Smartfive | KONROW_Smartfive | Smartfive |
 | Krono | SKY | SKY | SKY |
@@ -8657,6 +8665,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG Q7+ | cv5an | LM-Q725K |
 | LGE | LG Q7+ | cv5an | LM-Q725L |
 | LGE | LG Q7+ | cv5an | LM-Q725S |
+| LGE | LG Q7+ | cv5an | LM-Q727K |
+| LGE | LG Q7+ | cv5an | LM-Q727L |
+| LGE | LG Q7+ | cv5an | LM-Q727S |
 | LGE | LG RAY | d2 | LG-X190 |
 | LGE | LG Rebel | e1q | LGL43AL |
 | LGE | LG Rebel | e1q | LGL44VL |
@@ -11234,6 +11245,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Motorola | moto g6 play | jeter | Moto G Play |
 | Motorola | moto g6 play | jeter | moto g(6) play |
 | Motorola | moto z3 play | beckham | Moto Z3 Play |
+| Motorola | motorola one | deen_sprout | motorola one |
 | Motorola Solutions | LEX F10 | LEXF10 | LEX F10 |
 | Motorola Solutions | LEX L10g | lexl10g | LEX L10g |
 | Motorola Solutions | LEX L10ig | lexl10ig | LEX L10ig |
@@ -13186,6 +13198,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Quantum | Muv | Q3 | Quantum MUV |
 | Quantum | QSPT-1952 | QF3A | QT-195W-aa2 |
 | Quantum | Quantum FIT | S511 | Quantum Fit |
+| Quantum | Quantum Lio + | QC84 | LIO+ |
 | Quantum | Quantum M | QM83 | Quantum M |
 | Quantum | Sky | QX1 | Sky |
 | Quantum | Twist Neo | S501 | twist neo |
@@ -15011,6 +15024,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A (2017) | gta2sltelgt | SM-T385L |
 | Samsung | Galaxy Tab A (2017) | gta2slteskt | SM-T385S |
 | Samsung | Galaxy Tab A (2017) | gta2swifi | SM-T380 |
+| Samsung | Galaxy Tab A (2017) | gta2swifichn | SM-T380C |
 | Samsung | Galaxy Tab A (2018, 10.5) | gta2xllte | SM-T595 |
 | Samsung | Galaxy Tab A (2018, 10.5) | gta2xlltechn | SM-T595C |
 | Samsung | Galaxy Tab A (2018, 10.5) | gta2xlwifi | SM-T590 |
@@ -15059,7 +15073,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A \xe2\x91\xa5 with S Pen | gtanotexlwifichn | SM-P583 |
 | Samsung | Galaxy Tab A(10.5) | gta2xllte | SM-T597 |
 | Samsung | Galaxy Tab A(10.5) | gta2xlltekx | SM-T595N |
-| Samsung | Galaxy Tab A2 8.0 | gta2swifichn | SM-T380C |
 | Samsung | Galaxy Tab Active2 | gtactive2lte | SM-T395 |
 | Samsung | Galaxy Tab Active2 | gtactive2ltechn | SM-T395C |
 | Samsung | Galaxy Tab Active2 | gtactive2ltekx | SM-T395N |
@@ -16433,6 +16446,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sprint | AQT82 | NKSA_AQT82 | AQT82 |
 | Sprint | HTC Bolt | htc_acawhl | 2PYB2 |
 | Sprint | Slate 8 Tablet | NKS_AQT80 | AQT80 |
+| StarHub | Android TV Set-Top Box | KM_SH368AT | KM_SH368AT |
 | StarMobile | UP Groove | UP_Groove | UP_Groove |
 | StarMobile | UP Prime | UP_Prime | UP Prime |
 | StarMobile | UP Selfie | UP_Selfie | UP_Selfie |
@@ -18983,6 +18997,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Xiaomi | Redmi 5 Plus | vince | Redmi Note 5 |
 | Xiaomi | Redmi 5A | riva | Redmi 5A |
 | Xiaomi | Redmi 6 | cereus | Redmi 6 |
+| Xiaomi | Redmi 6 Pro | sakura_india | Redmi 6 Pro |
 | Xiaomi | Redmi 6A | cactus | Redmi 6A |
 | Xiaomi | Redmi 6Pro | sakura | Redmi 6 Pro |
 | Xiaomi | Redmi Note 3 | hennessy | Redmi Note 3 |
