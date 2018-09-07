@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 06.09.2018
+Last sync is 07.09.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -526,6 +526,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Altice | S31 | S31 | S31 |
 | Altice | S41 | HS6737MT | S41 |
 | Altice | S51 | HS6737MT | S51 |
+| Altice | S61 | S61 | S61 |
 | Altice | STARACTIVE | STARACTIVE | STARACTIVE |
 | Altice | STARNAUTE 4 | STARNAUTE4 | STARNAUTE4 |
 | Altice | STARNAUTE3 | STARNAUTE3 | STARNAUTE 3 |
@@ -1642,12 +1643,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Bittium | Mx Smart | adakite_sm | Mx Smart |
 | Bittium | Tough Mobile | granite | Bittium Tough Mobile |
 | BlackBerry | Aurora | bbc100 | BBC100-1 |
+| BlackBerry | BlackBerry Evolve | bbg100 | BBG100-1 |
 | BlackBerry | BlackBerry KEY2 | bbf100 | BBF100-1 |
 | BlackBerry | BlackBerry KEY2 | bbf100 | BBF100-2 |
 | BlackBerry | BlackBerry KEY2 | bbf100 | BBF100-4 |
 | BlackBerry | BlackBerry KEY2 | bbf100 | BBF100-6 |
 | BlackBerry | BlackBerry KEY2 | bbf100 | BBF100-8 |
 | BlackBerry | BlackBerry KEY2 | bbf100 | BBF100-9 |
+| BlackBerry | BlackBerry KEY2 LE | bbe100 | BBE100-5 |
 | BlackBerry | BlackBerry KEYone | bbb100 | BBB100-7 |
 | BlackBerry | BlackBerry MOTION | bbd100 | BBD100-1 |
 | BlackBerry | BlackBerry MOTION | bbd100 | BBD100-2 |
@@ -1727,6 +1730,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blaupunkt | Discovery_A10_302 | Discovery_A10_302 | Discovery_A10_302 |
 | Blaupunkt | Endeavour101 | Blaupunkt | Endeavour101 |
 | Blaupunkt | SLplus02 | SLplus02 | SLplus02 |
+| Blu | A250 | A250 | A250 |
 | Blu | ADVANCE 4.0 L2 | BLU_ADVANCE_4_0_L2 | BLU ADVANCE 4.0 L2 |
 | Blu | ADVANCE 4.0 L3 | Advance_4_0_L3 | Advance 4.0 L3 |
 | Blu | ADVANCE 5.0 HD | Advance_5_0_HD | Advance 5.0 HD |
@@ -2776,6 +2780,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Denver Electronics | TIQ-102 | TIQ102 | TIQ-102 |
 | Dialog Blaze | 5701A | 5701A | 5701A |
 | Dialog Blaze | M50E-1A | M50E-1A | M50E-1A |
+| Diamond | Luxuary-X | Luxuary-X | Luxuary-X |
 | DigiLand | Compumax Blue | mid1016_ma | Compumax Blue |
 | DigiLand | CompumaxBlue | mid1024_e | Compumax_Blue_6030-805-0001 |
 | DigiLand | DL1001 | DL1001 | DL1001 |
@@ -3700,6 +3705,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | General Mobile | GM 6 d | GM6_d_sprout | GM 6 d |
 | General Mobile | GM 6 s | GM6_s_sprout | GM 6 |
 | General Mobile | GM 6 s | GM6_s_sprout | GM6 |
+| General Mobile | GM 8 | GM8_sprout | GM 8 |
+| General Mobile | GM 8 d | GM8_d_sprout | GM 8 d |
 | General Mobile | GM5 Plus | gm5plus_s_sprout | GM 5 Plus |
 | General Mobile | GM5 Plus Turkcell | gm5plustkc_s_sprout | GM 5 Plus |
 | General Mobile | GM5 Plus d | gm5plus_sprout | GM 5 Plus d |
@@ -3960,6 +3967,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Gobox | T2 | T2 | T2 |
 | Gol Mobile | F3Prime | F3Prime | F3Prime |
 | Gol Mobile | TEAM_7_3G | TEAM_7_3G | TEAM_7_3G |
+| Gome | GOME C7 | GOME_C7 | GOME_2018X07A |
 | Gome | GOME C7 Note mini | GOME_C7_Note_Mini | GOME_C7_Note |
 | Gome | GOME_C7_Note | GOME_C7_Note | GOME_C7_Note |
 | Gonna | Zebra | Zebra | Zebra |
@@ -5224,6 +5232,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | HS-X8T | X8T | HS-X8T |
 | Hisense | HS-X8U | x8u | HS-X8U |
 | Hisense | Hisense  E7  Pro | HS6739MT | Hisense E7 Pro |
+| Hisense | Hisense  E7  Pro | HS6739MT | Hisense F17 Pro |
 | Hisense | Hisense  F17  Pro | HS6739MT | Hisense F17 Pro |
 | Hisense | Hisense  F23  PLUS | HS6739MT | Hisense F23 PLUS |
 | Hisense | Hisense  Hi  2 | HS6737MT | Hisense Hi 2 |
@@ -6864,6 +6873,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab8 Plus | HWFLA-H | FLA-TL10 |
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab8e | HWATU-QC | ATU-AL10 |
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab8e | HWATU-QC | ATU-TL10 |
+| Huawei | \xe8\x8d\xa3\xe8\x80\x80 8X | HWJSN-H | JSN-AL00 |
+| Huawei | \xe8\x8d\xa3\xe8\x80\x80 8X | HWJSN-H | JSN-TL00 |
+| Huawei | \xe8\x8d\xa3\xe8\x80\x80 8X | HWJSN-HM | JSN-AL00a |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x80 V9 play | HWJMM-Q | JMM-AL00 |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x80 V9 play | HWJMM-Q | JMM-AL10 |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x80 V9 play | HWJMM-Q | JMM-TL00 |
@@ -6874,6 +6886,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | \xe8\x8d\xa3\xe8\x80\x805X | HNKIW-Q | KIW-CL00 |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x805X | HNKIW-Q | KIW-TL00 |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x805X | HNKIW-Q | KIW-UL00 |
+| Huawei | \xe8\x8d\xa3\xe8\x80\x808X Max | HWARE-Q | ARE-AL00 |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x808\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88 | HWPRA-H | PRA-AL00 |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x808\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88 | HWPRA-H | PRA-AL00X |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x808\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88 | HWPRA-H | PRA-TL10 |
@@ -7638,6 +7651,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | KD Interactive | Kurio7S | C13000A | Kurio7S |
 | KD Interactive | TAB3-Premium-XTREME3 | Pixi4-7_WIFI_KD | 01016 |
 | KD Interactive | TAB3-Premium-XTREME3 | Pixi4-7_WIFI_KD | 01516 |
+| KD Interactive | TabXL-Smart-Smart2in1-Tab10 | U3A_10_WIFI_KD | 02018 |
 | KDDI | CablePlus STB | C02AS | C02AS |
 | KDDI | Power Up Unit | C02BB1 | C02BB1 |
 | KDDI | STW2000 | H02ST1 | STW2000 |
@@ -10081,6 +10095,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Logicom | La Tab 106 | LaTab106 | La Tab 106 |
 | Logicom | La Tab Full HD | La_Tab_Full_HD | La Tab Full HD |
 | Logicom | Le Lift | LeLift | Le Lift |
+| Logicom | Le Must | LeMust | Le Must |
 | Logicom | Le Starter L | Le_Starter_L | Le Starter L |
 | Logicom | LiteTab760 | LiteTab760 | LiteTab760 |
 | Logicom | Logikids | Logikids_2 | Logikids_2 |
@@ -10109,6 +10124,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Logicom | VRBOT552 | VRBOT552 | VR BOT 552 |
 | Logicom | VRBOT552PLUS | VRBOT552PLUS | VR BOT 552 PLUS |
 | Logicom | Volt-R | Volt-R | Volt-R |
+| Logicom | le Moov | LeMoov | LeMoov |
 | Logitech | Revue | ka | Revue |
 | Louis Vuitton | Tambour Horizon | sundial | Tambour |
 | Lucentel | Siren_1 | Siren_1 | Siren_1 |
@@ -12285,6 +12301,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Panasonic | ELUGA WE | ELUGA_WE | Panasonic ELUGA WE |
 | Panasonic | ELUGA X | P-02E | P-02E |
 | Panasonic | ELUGA X1 | ELUGA_X1 | ELUGA X1 |
+| Panasonic | ELUGA Y Pro | ELUGA_Y_Pro | ELUGA_Y_Pro |
 | Panasonic | ELUGA dL1 | pana2_4v | Panasonic_dL1 |
 | Panasonic | EX00C | EX00C | EX00C |
 | Panasonic | EX01C | EX01C | EX01C |
@@ -12557,6 +12574,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Philips | Philips S338 | S338 | Philips S338 |
 | Philips | Philips S359 | S359 | Philips S359 |
 | Philips | Philips S369 | S369 | Philips S369 |
+| Philips | Philips S562Z | S562Z | Philips S562Z |
 | Philips | Philips V787 | Philips_Xenium_V787 | Philips Xenium V787 |
 | Philips | Philips X596 | X596 | Philips X596 |
 | Philips | Philips X598 | Philips_X598 | Philips X598 |
@@ -13559,8 +13577,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy A6 | a6lte | SM-A600G |
 | Samsung | Galaxy A6 | a6lte | SM-A600GN |
 | Samsung | Galaxy A6 | a6lteks | SM-A600N |
-| Samsung | Galaxy A6 Plus | a6plte | SM-A605F |
 | Samsung | Galaxy A6 Plus | a6pltechn | SM-A6050 |
+| Samsung | Galaxy A6+ | a6plte | SM-A605F |
 | Samsung | Galaxy A6+ | a6plte | SM-A605FN |
 | Samsung | Galaxy A6+ | a6plte | SM-A605G |
 | Samsung | Galaxy A6+ | a6plte | SM-A605GN |
@@ -15028,6 +15046,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A (2018, 10.5) | gta2xllte | SM-T595 |
 | Samsung | Galaxy Tab A (2018, 10.5) | gta2xlltechn | SM-T595C |
 | Samsung | Galaxy Tab A (2018, 10.5) | gta2xlwifi | SM-T590 |
+| Samsung | Galaxy Tab A (2018, 10.5) | gta2xlwifichn | SM-T590 |
 | Samsung | Galaxy Tab A 10.1 | gtanotexlwifikx | SM-P580 |
 | Samsung | Galaxy Tab A 10.1 | gtaxladwifikx | SM-T583 |
 | Samsung | Galaxy Tab A 10.1 | gtaxllte | SM-T585M |
@@ -15069,6 +15088,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A 9.7 | gt5note10lteskt | SM-P555S |
 | Samsung | Galaxy Tab A 9.7 | gt5note10wifi | SM-P550 |
 | Samsung | Galaxy Tab A 9.7 | gt5note10wifichn | SM-P550 |
+| Samsung | Galaxy Tab A Lite | gtasliteltespr | SM-T387P |
 | Samsung | Galaxy Tab A S 8.0 | gt58ltebmc | SM-T357W |
 | Samsung | Galaxy Tab A \xe2\x91\xa5 with S Pen | gtanotexlwifichn | SM-P583 |
 | Samsung | Galaxy Tab A(10.5) | gta2xllte | SM-T597 |
@@ -15173,6 +15193,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab S4 | gts4lltespr | SM-T837P |
 | Samsung | Galaxy Tab S4 | gts4lltevzw | SM-T837V |
 | Samsung | Galaxy Tab S4 | gts4lwifi | SM-T830 |
+| Samsung | Galaxy Tab S4 | gts4lwifichn | SM-T830 |
 | Samsung | Galaxy Tab2 10.1 | espresso10att | SAMSUNG-SGH-I497 |
 | Samsung | Galaxy Tab2 10.1 | espresso10can | SGH-I497 |
 | Samsung | Galaxy Tab2 10.1 | espresso10rf | GT-P5100 |
@@ -15510,6 +15531,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp |  | SH8298U | SH8298U |
 | Sharp |  | msm7627_surf | SH8118U |
 | Sharp | 2T-C32ACSA, 2T-C32ACMA, 2T-C32ACTA, 2T-C32ACZA | Lcd_32sfinf380a | LCD_32SFINF380A |
+| Sharp | 2T-C40ACxA; 2T-C45ACxA; 2T-C45ADxA | Lcd_xxsffocca_c | LCD_xxSFFOCCA_C |
 | Sharp | 306SH | SG306SH | 306SH |
 | Sharp | 401SH | SG401SH | 401SH |
 | Sharp | 4T-C**AM1 | tcsu2uj | AQUOS-TVJ18 |
@@ -15924,6 +15946,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sony | BRAVIA 4K 2015 | SVP-DTV15 | BRAVIA 4K 2015 |
 | Sony | BRAVIA 4K GB | BRAVIA_ATV2 | BRAVIA 4K GB |
 | Sony | BRAVIA 4K GB ATV3 | BRAVIA_ATV3_4K | BRAVIA 4K GB ATV3 |
+| Sony | BRAVIA 4K UR1 | BRAVIA_UR1_4K | BRAVIA 4K UR1 |
 | Sony | BRAVIA Smart Stick | NSZGU1 | NSZ-GU1 |
 | Sony | Ericsson Live with Walkman | WT19a | WT19a |
 | Sony | Ericsson Live with Walkman | WT19i | WT19i |
@@ -17930,6 +17953,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Thomson | TCL  Percee TV | tcl_eu | SANYO TV |
 | Thomson | TEO10 | TEO10 | SPTEO10BK16 |
 | Thomson | TEO7RK | TEO7RK | TEO7RK |
+| Thomson | THOMSON_TEO10S | TEO10S | TEO10S |
 | Thomson | TLink 455 | TLINK455 | TLINK455 |
 | Thuraya | Thuraya X5-Touch | X5-Touch | Thuraya X5-Touch |
 | Tigers | TIS_001 | TIS_001 | TIS_001 |
@@ -20296,6 +20320,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | ZTE A0620 | P840S13 | ZTE A0620 |
 | ZTE | ZTE A0622 | P817S13 | ZTE A0622 |
 | ZTE | ZTE A0722 | P840S18 | ZTE A0722 |
+| ZTE | ZTE A2017 | msm8996 | ZTE A2017 |
 | ZTE | ZTE A2017G | ailsa_ii | ZTE A2017G |
 | ZTE | ZTE A2018 | candice | ZTE A2018 |
 | ZTE | ZTE A520S | P809S10 | ZTE A520S |
