@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 10.09.2018
+Last sync is 11.09.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3582,6 +3582,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Fujitsu | ARROWS mu F-07D | f11apo | F-074 |
 | Fujitsu | ARROWS mu F-07D | f11apo | F-07D |
 | Fujitsu | ARROWS mu F-07D | f11apo | FJJB091 |
+| Fujitsu | AceReal One | AceReal0100 | AceReal0100 |
 | Fujitsu | Disney Mobile on docomo F-07E | F07E | F-07E |
 | Fujitsu | Disney Mobile on docomo F-08D | blaze | F-08D |
 | Fujitsu | F-01F | F01F | F-01F |
@@ -15029,7 +15030,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab 4 8.0 | milletwifi | SM-T330X |
 | Samsung | Galaxy Tab 4 8.0 | milletwifikx | SM-T330 |
 | Samsung | Galaxy Tab 4 Active | rubenslte | SM-T365 |
-| Samsung | Galaxy Tab 4 Active | rubenslte | SM-T365Y |
 | Samsung | Galaxy Tab 7.0 | SPH-P100 | SPH-P100 |
 | Samsung | Galaxy Tab 7.0 Plus | GT-P6200 | GT-P6200 |
 | Samsung | Galaxy Tab 7.0 Plus | GT-P6200L | GT-P6200L |
@@ -15127,6 +15127,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A \xe2\x91\xa5 with S Pen | gtanotexlwifichn | SM-P583 |
 | Samsung | Galaxy Tab A(10.5) | gta2xllte | SM-T597 |
 | Samsung | Galaxy Tab A(10.5) | gta2xlltekx | SM-T595N |
+| Samsung | Galaxy Tab Active | rubenslte | SM-T365Y |
 | Samsung | Galaxy Tab Active2 | gtactive2lte | SM-T395 |
 | Samsung | Galaxy Tab Active2 | gtactive2ltechn | SM-T395C |
 | Samsung | Galaxy Tab Active2 | gtactive2ltekx | SM-T395N |
@@ -16579,6 +16580,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Swipe | Elite VR | Elite_VR | Elite_VR |
 | Swipe | Razor | Swipe_Razor | Razor |
 | Swipe | Strike | Swipe_Strike | Strike |
+| SwissMobility | Z7 | Z7 | Z7 |
 | SwissMobility | Z72 | Z72 | Z72 |
 | Swisstone | swisstone SD 510 | SD5103G | swisstone SD 510 |
 | Swisstone | swisstone SD 530 | SD5304G | swisstone SD 530 |
@@ -18276,6 +18278,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vertex | Impress Tiger | Tiger | Tiger |
 | Vertex | Impress Tor | Impress_Tor | Impress_Tor |
 | Vertex | Impress Vega (4G) | Impress_Vega | Impress_Vega |
+| Vertex | Impress Win | Impress_Win | Impress_Win |
 | Vertex | Impress_Bear | Impress_Bear | Impress_Bear |
 | Vertex | Impress_Blade | Impress_Blade | Impress_Blade |
 | Vertex | Impress_City | Impress_City | Impress_City |
@@ -18465,6 +18468,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vivo | PD1612 | PD1612 | vivo Y67 |
 | Vivo | V1 | V1 | vivo V1 |
 | Vivo | V1732A | PD1732 | V1732A |
+| Vivo | V1809A | PD1809 | V1809A |
 | Vivo | V1Max | Y37 | vivo Y37 |
 | Vivo | V3 | PD1524 | vivo V3 |
 | Vivo | V3 | V3 | vivo V3 |
@@ -18631,6 +18635,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vodafone | Vodafone Smart E8 | VFD513 | VFD 513 |
 | Vodafone | Vodafone Smart E9 | VFD527 | VFD 527 |
 | Vodafone | Vodafone Smart N9 | VFD720 | VFD 720 |
+| Vodafone | Vodafone Smart X9 | VFD820 | VFD 820 |
 | Vodafone | Vodafone Smart mini | Vodafone_875 | Vodafone 875 |
 | Vodafone | Vodafone Smart mini 7 ve | U3_3G | VFD 310 |
 | Vodafone | Vodafone Smart mini 7 ve dual | U3_3G | VFD 311 |
@@ -20268,7 +20273,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | VERGATARIO 5 | ZTE_BLADE_L110 | VERGATARIO 5 |
 | ZTE | VERGATARIO5PLUS | ZTE_BLADE_L110 | VERGATARIO5PLUS |
 | ZTE | VFD 520 | VFD520 | VFD 520 |
-| ZTE | VFD 820 | VFD820 | VFD 820 |
 | ZTE | Vesta | proline | Z965 |
 | ZTE | Vip Racer III | atlas40 | Vip Racer III |
 | ZTE | Vodafone Smart Chat | turies | Vodafone Smart Chat |
