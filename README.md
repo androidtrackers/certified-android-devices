@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 11.09.2018
+Last sync is 12.09.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1052,6 +1052,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Asus | PadFone mini | ASUS_T00E | ASUS_T00E |
 | Asus | R Series Tablet (R1001MFL) | ASUS_P00L_M2 | P00L |
 | Asus | R Series Tablet (R1001ML) | ASUS_P00L_M1 | P00L |
+| Asus | ROG Phone | ASUS_Z01QD_1 | ASUS_Z01QD |
 | Asus | RTC-700A | RTC-tablet | RTC-tablet |
 | Asus | T101TA | T10xTA | T10xTA |
 | Asus | TF700T | TF700T | ASUS Pad TF700T |
@@ -1653,6 +1654,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | BlackBerry | BlackBerry KEY2 | bbf100 | BBF100-6 |
 | BlackBerry | BlackBerry KEY2 | bbf100 | BBF100-8 |
 | BlackBerry | BlackBerry KEY2 | bbf100 | BBF100-9 |
+| BlackBerry | BlackBerry KEY2 LE | bbe100 | BBE100-4 |
 | BlackBerry | BlackBerry KEY2 LE | bbe100 | BBE100-5 |
 | BlackBerry | BlackBerry KEYone | bbb100 | BBB100-7 |
 | BlackBerry | BlackBerry MOTION | bbd100 | BBD100-1 |
@@ -2176,6 +2178,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Cherry Mobile | Flare S6 Power | Cherry_S6_Power | FLARE S6 POWER |
 | Cherry Mobile | Flare S6 Selfie | Cherry_Selfie | Flare S6 Selfie |
 | Cherry Mobile | Flare X | Flare_X | Flare_X_V2 |
+| Cherry Mobile | Flare Y3 | FlareY3 | Flare_Y3 |
 | Cherry Mobile | Flare_J3_Lite | Flare_J3_Lite | Flare_J3_Lite |
 | Cherry Mobile | Flare_S6_Lite | Flare_S6_Lite | Flare_S6_Lite |
 | Cherry Mobile | H220 | ctih220_sprout | H220 |
@@ -11288,6 +11291,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Motorola | moto g(6) plus | evert_nt | moto g(6) plus |
 | Motorola | moto g6 play | jeter | Moto G Play |
 | Motorola | moto g6 play | jeter | moto g(6) play |
+| Motorola | moto p30 play | deen | XT1941-2 |
 | Motorola | moto z3 play | beckham | Moto Z3 Play |
 | Motorola | motorola one | deen_sprout | motorola one |
 | Motorola Solutions | LEX F10 | LEXF10 | LEX F10 |
@@ -12060,6 +12064,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oppo | PAFT00 | PAFT00 | PAFT00 |
 | Oppo | PAHM00 | PAHM00 | PAHM00 |
 | Oppo | PBAT00 | PBAT00 | PBAT00 |
+| Oppo | PBBM00 | PBBM00 | PBBM00 |
+| Oppo | PBBT00 | PBBT00 | PBBT00 |
+| Oppo | PBCM10 | PBCM10 | PBCM10 |
+| Oppo | PBCM30 | PBCM30 | PBCM30 |
+| Oppo | PBCT10 | PBCT10 | PBCT10 |
+| Oppo | PBEM00 | PBEM00 | PBEM00 |
+| Oppo | PBET00 | PBET00 | PBET00 |
 | Oppo | R1001 | OPPO72_13076 | R1001 |
 | Oppo | R1001 | R1001 | R1001 |
 | Oppo | R1011 | R1011 | R1011 |
@@ -15569,7 +15580,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp | 2T-C40ACxA; 2T-C45ACxA; 2T-C45ADxA | Lcd_xxsffocca_c | LCD_xxSFFOCCA_C |
 | Sharp | 306SH | SG306SH | 306SH |
 | Sharp | 401SH | SG401SH | 401SH |
-| Sharp | 4T-C**AM1 | tcsu2uj | AQUOS-TVJ18 |
+| Sharp | 4T-C**AM1/AN1/AL1, 8T-C**AX1/AW1 | tcsu2uj | AQUOS-TVJ18 |
 | Sharp | 4T-C50AG1T | LCD_50FOCAG1T | LCD_50FOCAG1T |
 | Sharp | 507SH | eve_sprout | 507SH |
 | Sharp | A01SH | A01SH | A01SH |
@@ -15785,6 +15796,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp | PN-B501/PN-B401 | PN_B_series_w | PN_B_series |
 | Sharp | PN-M501/PN-M401 | PN_M_series | PN_M_series |
 | Sharp | PN-M501/PN-M401 | PN_M_series_w | PN_M_series |
+| Sharp | PN-ZC02 | PN_ZC02 | PN-ZC02 |
 | Sharp | Q-pot.Phone SH-04D | SH04D | SH-04D |
 | Sharp | RW107 | RW107 | RW107 |
 | Sharp | RZ-E302 | rk3188_10P_A | RZ-E302 |
@@ -17746,6 +17758,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tech 4u | Force | t592_otd_tech_4u_we | Force |
 | Tech 4u | I8 | I8 | I8 |
 | Tech 4u | Prix | Prix | Prix |
+| Tech 4u | Rocket | Rocket | Rocket |
 | Tech 4u | S8 Pro | S8_Pro | S8_Pro |
 | Tech 4u | Tech4U S8 | S8 | S8 |
 | Technicolor |  | omap4_WT3 | T-Hub2 |
@@ -18076,6 +18089,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Toshiba | Thrive 7 | tostab04 | AT1S0 |
 | Toshiba | Toshiba Chromebook 2 (2015 Edition) | gandof_cheets | Toshiba Chromebook 2 (2015 Edition) |
 | Toshiba | tt300/tt301/tt302 | Mozart | Mozart |
+| Touch plus | 770N | 770N | 770N |
 | Toughshield | R200 | R200 | R200 |
 | Toughshield | T700_TABLET | T700_TABLET | T700 |
 | Trekstor | SurfTab ST70204-3 | TREKM7100KLD | SurfTab ST70204-3 |
@@ -18177,6 +18191,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ulefone | S8_Pro | S8_pro1 | S8_Pro |
 | Ulefone | S9_Pro | S9_Pro | S9_Pro |
 | Ulefone | T1 | Ulefone_T1 | T1 |
+| Ulefone | Ulefone_S7 | Ulefone_S7 | Ulefone S7 |
 | Ulefone | Ulefone_X | Ulefone_X | Ulefone_X |
 | Umax | UMAX | visionbook_P55_LTE | visionbook P55 LTE |
 | Umax | VisionBook P50 Plus LTE | P50Plus_LTE | VisionBook_P50Plus_LTE |
@@ -20607,6 +20622,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iBRIT | Alpha | AF51 | AF51 |
 | iBRIT | IBRIT_I5 | i5 | IBRIT_I5 |
 | iBRIT | IBRIT_I7 | i7 | IBRIT_I7 |
+| iBRIT | MAX7 | MAX7 | MAX7 |
 | iBRIT | Speed_Pro_Plus | SF56 | SF56 |
 | iBRIT | Z2 | Z2 | Z2 |
 | iBRIT | Z2Lite | Z2Lite | Z2Lite |
