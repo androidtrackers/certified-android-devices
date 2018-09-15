@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 14.09.2018
+Last sync is 15.09.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1750,6 +1750,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blu | Advance 5.2 | A290Q | Advance 5.2 |
 | Blu | Advance A5 LTE | A0010WW | Advance A5 LTE |
 | Blu | Advance A6 | A190 | Advance A6 |
+| Blu | Advance L4 | A350A | Advance L4 |
 | Blu | Advance_5_2 | A230Q | Advance 5.2 |
 | Blu | Advance_A7 | A210 | Advance A7 |
 | Blu | Advance\xc2\xa0A5\xc2\xa0Plus\xc2\xa0LTE | A0031WW | Advance A5 Plus LTE |
@@ -2230,6 +2231,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Clarmin | B8Lite | B8Lite | B8Lite |
 | Clarmin | B8plus | B8plus | B8plus |
 | Clarmin | CLARMIN C1 | CLARMIN_C1 | CLARMIN C1 |
+| Clementoni | CLEMPAD_2018 | CLEMPAD_2018 | CLEMPAD_2018 |
 | Clementoni | Clempad 4.4 Basic Special | Clempad2_special | Clempad2_special |
 | Clementoni | Clempad 4.4 Plus | Clempad2_plus | Clempad2_plus |
 | Clementoni | Clempad 4.4 XL | Clempad2_XL | Clempad2_XL |
@@ -2244,6 +2246,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Clementoni | Clempad_7_S | Clempad_7_S | Clempad_7_S |
 | Clementoni | Clemphone | ClemPhone | ClemPhone |
 | Clementoni | Clemphone 7.0 | ClemPhone_7 | ClemPhone_7 |
+| Clementoni | MFC_2018 | MFC_2018 | MFC_2018 |
+| Clementoni | MFC_8 | MFC_8 | MFC_8 |
 | Clementoni | My First Clempad 6.0 | MFC_6 | MFC_6 |
 | Clementoni | My First Clempad 7 | MFC_7 | MFC_7 |
 | Clementoni | My First Clempad HR | MFC_HR | MFC_HR |
@@ -7114,6 +7118,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ImageMobile | Rio | Rio | B001 |
 | Imi Tech | M88 | M88 | M88 |
 | Impecca | ET7050D | ET7050D | ET7050D |
+| Inco | Bloom4 | Bloom4 | Bloom4 |
 | Inet-Tablet | D711HC_PG | D711HC_PG | D711HC_PG |
 | Inet-Tablet | D7911L3BC_OGS | D7911L3BC_OGS | D7911L3BC_OGS |
 | Infinity | 10.1-v2 | Infinity-101-v2 | Infinity-10.1-v2 |
@@ -7165,6 +7170,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Infinix | NOTE 4 | Infinix-X572 | Infinix X572-LTE |
 | Infinix | NOTE 4 Pro | Infinix-X571 | Infinix X571 |
 | Infinix | NOTE 4 Pro | Infinix-X571 | Infinix X571-LTE |
+| Infinix | NOTE 5 Stylus | Infinix-X605_sprout | Infinix X605 |
 | Infinix | RACE Blot2 | Infinix_X454 | Infinix X454 |
 | Infinix | RACE Bolt 3 | X455 | Infinix X455 |
 | Infinix | S2 | Infinix-X522 | Infinix S2 |
@@ -11450,6 +11456,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Myphone | myA11 | MYA11 | MYA11 |
 | Myphone | myA12 | myA12 | myA12 |
 | Myphone | myA13 | MYA13 | MYA13 |
+| Myphone | myA16 | myA16 | myA16 |
 | Myphone | myA2 | MY802 | MY802 |
 | Myphone | myA3 | MY803 | MY803 |
 | Myphone | myA5 | MY805 | MY805 |
@@ -15086,6 +15093,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab 8.9 | SHW-M305W | SHW-M305W |
 | Samsung | Galaxy Tab A | gt510lte | SM-T555 |
 | Samsung | Galaxy Tab A | gt510wifi | SM-T550 |
+| Samsung | Galaxy Tab A | gt58ltechn | SM-T355C |
 | Samsung | Galaxy Tab A | gt5note10lte | SM-P555M |
 | Samsung | Galaxy Tab A | gt5note10wifi | SM-P550 |
 | Samsung | Galaxy Tab A | gt5note8lte | SM-P355M |
@@ -15094,6 +15102,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A (2016) | gtaxlltechn | SM-T585C |
 | Samsung | Galaxy Tab A (2016) | gtaxlwifi | SM-T580 |
 | Samsung | Galaxy Tab A (2016) | gtaxlwifichn | SM-T580 |
+| Samsung | Galaxy Tab A (2016) with S Pen | gtanotexlltekx | SM-P585N0 |
 | Samsung | Galaxy Tab A (2016) with S Pen | gtanotexlwifikx | SM-P580 |
 | Samsung | Galaxy Tab A (2017) | gta2slte | SM-T385 |
 | Samsung | Galaxy Tab A (2017) | gta2slte | SM-T385M |
@@ -15125,7 +15134,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A 7.0 | gtexswifi | SM-T280 |
 | Samsung | Galaxy Tab A 8.0 | gt58lte | SM-T355 |
 | Samsung | Galaxy Tab A 8.0 | gt58lte | SM-T355Y |
-| Samsung | Galaxy Tab A 8.0 | gt58ltechn | SM-T355C |
 | Samsung | Galaxy Tab A 8.0 | gt58ltetmo | SM-T357T |
 | Samsung | Galaxy Tab A 8.0 | gt58wifi | SM-T350 |
 | Samsung | Galaxy Tab A 8.0 | gt58wifi | SM-T350X |
@@ -15353,7 +15361,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy TabA Plus 10.1 | gtanotexllte | SM-P585M |
 | Samsung | Galaxy TabA Plus 10.1 | gtanotexllte | SM-P587 |
 | Samsung | Galaxy TabA Plus 10.1 | gtanotexlltechn | SM-P588C |
-| Samsung | Galaxy TabA Plus 10.1 | gtanotexlltekx | SM-P585N0 |
 | Samsung | Galaxy TabA Plus 10.1 | gtaxlqltespr | SM-T587P |
 | Samsung | Galaxy TabA Plus10.1 | gtanotexlwifikx | SM-P580X |
 | Samsung | Galaxy TabE 8.0 | gtesltektt | SM-T378K |
@@ -16533,6 +16540,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sprint | HTC Bolt | htc_acawhl | 2PYB2 |
 | Sprint | Slate 8 Tablet | NKS_AQT80 | AQT80 |
 | StarHub | Android TV Set-Top Box | KM_SH368AT | KM_SH368AT |
+| StarMobile | PLAY Click LTE | PLAY_Click_LTE | PLAY Click LTE |
 | StarMobile | UP Groove | UP_Groove | UP_Groove |
 | StarMobile | UP Prime | UP_Prime | UP Prime |
 | StarMobile | UP Selfie | UP_Selfie | UP_Selfie |
@@ -18857,6 +18865,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Wiko | JIMMY | s4300ae | JIMMY |
 | Wiko | K-KOOL | T2800AN | K-KOOL |
 | Wiko | K-KOOL | V2800AN | K-KOOL |
+| Wiko | K300S | W_K300S | W_K300S |
 | Wiko | KENNY | V3913BN22I | KENNY |
 | Wiko | KENNY | v3913 | KENNY |
 | Wiko | KITE | l4020 | KITE |
