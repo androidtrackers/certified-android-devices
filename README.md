@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 15.09.2018
+Last sync is 16.09.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1409,6 +1409,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | BKAV | Bphone | Bphone | Bphone B1114 |
 | BKAV | Bphone | Bphone | Bphone B1115 |
 | BKAV | Bphone | Bphone | Bphone B1116 |
+| BLECK | BE_et | BE_et | BE_et |
 | BLECK | BE_se | BE_se | BE_se |
 | BLECK | ELEMENT | ELEMENT | ELEMENT |
 | BMobile | AX1010 | Bmobile_AX1010 | AX1010 |
@@ -7426,6 +7427,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Invens | F2 | F2 | F2 |
 | Invens | Fighter | Fighter | Fighter |
 | Inverse Net | EP172PR | EP172PR | EP172PR |
+| Ipro | Jade7s | Jade7s | Jade7s |
 | Ipro | Kylin 5.5 | Kylin_55 | Kylin 5.5 |
 | Ipro | Kylin_5.0S | Kylin_5_0S | Kylin_5.0S |
 | Ipro | MEGA | MEGA2 | MEGA2 |
@@ -19083,6 +19085,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Xiaomi | MIX 2S | polaris | MIX 2S |
 | Xiaomi | MIX 2S | polaris | Mi MIX 2S |
 | Xiaomi | Mi 3 | pisces | MI 3 |
+| Xiaomi | Mi 4 PRO | dangalUHD | MiTV-AXSO2 |
+| Xiaomi | Mi 4A PRO | dangalFHD | MiTV-AXSO1 |
+| Xiaomi | Mi 4C PRO | dangal | MiTV-AXSO0 |
 | Xiaomi | Mi 4c | libra | Mi-4c |
 | Xiaomi | Mi 4i | ferrari | Mi 4i |
 | Xiaomi | Mi 5 | gemini | MI 5 |
