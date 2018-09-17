@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 16.09.2018
+Last sync is 17.09.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10144,6 +10144,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Logicom | L_IXIR_TAB_1047HD | L_IXIR_TAB_1047HD | L_IXIR_TAB_1047HD |
 | Logicom | La Tab 106 | LaTab106 | La Tab 106 |
 | Logicom | La Tab Full HD | La_Tab_Full_HD | La Tab Full HD |
+| Logicom | Le Hop | Logicom_LeHop | Le Hop |
 | Logicom | Le Lift | LeLift | Le Lift |
 | Logicom | Le Must | LeMust | Le Must |
 | Logicom | Le Starter L | Le_Starter_L | Le Starter L |
@@ -18229,6 +18230,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Umax | VisionBook_P55_LTE_Pro | VisionBook_P55_LTE_Pro | VisionBook P55 LTE Pro |
 | Umidigi | S2PRO | S2_PRO | S2_PRO |
 | Umidigi | Z2 | Z2 | Z2 |
+| Umidigi | Z2 Pro | Z2_PRO | Z2_PRO |
 | Umix | Lite L | UMIX_LITE_L | UMIX LITE L |
 | Umix | Lite M | UMIX_LITE_M | UMIX LITE M |
 | Umix | Lite XL | UMIX_LITE_XL | UMIX LITE XL |
