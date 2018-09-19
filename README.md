@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 18.09.2018
+Last sync is 19.09.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1370,6 +1370,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Avvio | Avvio PRO450 | Avvio_Pro450 | Avvio_Pro450 |
 | Avvio | Avvio PRO550 | Avvio_Pro550 | Avvio_Pro550 |
 | Avvio | Avvio Platinum A50 | Avvio_A50 | Avvio_A50 |
+| Avvio | Mint_M353 | Mint_M353 | Mint_M353 |
 | Axioo | Axioo AX4 | Axioo_AX4 | Axioo_AX4 |
 | Azumi | A40 Style Plus | A40_Style_Plus | A40_Style_Plus |
 | Azumi | A40C | A40C | A40C |
@@ -1398,9 +1399,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Azumi | IRO_A4_Q_Pro | IRO_A4_Q_PRO | Azumi_IRO_A4_Q_PRO |
 | Azumi | IRO_A55_Q_Pro | IRO_A55_Q_Pro | Azumi IRO A55 Q Pro |
 | Azumi | IRO_A6_Q | IRO_A6_Q | IRO A6 Q |
+| Azumi | K5QL | Azumi_K5QL | Azumi K5QL |
 | Azumi | KINZO A55 OLi | KINZO_A55_OLi | Azumi_KINZO_A55_OLi |
 | Azumi | KINZO A55QL | KINZO_A55_OLi_CL | Azumi_KINZO_A55_OLi |
 | Azumi | KINZO ICHI A5 QL | KINZO_ichi_A5_QL_NA | KINZO_ichi_A5_QL |
+| Azumi | Speed 4 | Azumi_Speed_4 | Azumi Speed 4 |
+| Azumi | Speed 5 | Azumi_Speed_5B | Azumi Speed 5 |
 | Azumi | Speed 55 | Speed_55 | Speed_55 |
 | Azumi | T7 3G | T7_3G | Azumi_T7_3G |
 | BGH S.A. | BGH Joy 303 | BGH_Joy_303 | BGH Joy 303 |
@@ -1435,6 +1439,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | BMobile | AX1071 | Bmobile_AX1071 | AX1071 |
 | BMobile | AX1072 | Bmobile_AX1072 | AX1072 |
 | BMobile | AX1073 | Bmobile_AX1073 | AX1073 |
+| BMobile | AX1074 | Bmobile_AX1074 | AX1074 |
 | BMobile | AX1075 | Bmobile_AX1075 | AX1075 |
 | BMobile | AX1085 | Bmobile_AX1085 | AX1085 |
 | BMobile | AX1091 | Bmobile_AX1091 | AX1091 |
@@ -1693,6 +1698,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blackfox | BMM541D | BMM541D | BMM541D |
 | Blackfox | BMM542D | BMM542D | BMM542D |
 | Blackfox | BMM_533D | BMM_533D | BMM_533D |
+| Blacksonic | BS9 | BS9 | BS9 |
 | Blackview | A20 | A20 | A20 |
 | Blackview | A5 | A5 | A5 |
 | Blackview | A7 | A7 | A7 |
@@ -1884,6 +1890,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blu | Studio M6 | S730 | Studio M6 |
 | Blu | Studio Mega | S910Q | Studio Mega |
 | Blu | Studio Mega | Studio_Mega | Studio Mega |
+| Blu | Studio Mega LTE | S0470WW | Studio Mega LTE |
 | Blu | Studio One | BLU_STUDIO_ONE | BLU STUDIO ONE |
 | Blu | Studio Pro | S750 | Studio Pro |
 | Blu | Studio Selfie LTE | BLU_STUDIO_SELFIE_LTE | BLU STUDIO SELFIE LTE |
@@ -2678,12 +2685,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DBM Maroc | Speed X2 | Speed-X2 | Speed-X2 |
 | DEA Factory | KTAB | KTAB | KTAB |
 | DEXP | AS160 | AS160 | AS160 |
+| DEXP | B140 | B140 | B140 |
 | DEXP | B155 | B155 | B155 |
 | DEXP | B350 | B350 | B350 |
 | DEXP | B450 | B450 | B450 |
 | DEXP | BS250 | BS250 | BS250 |
 | DEXP | BS650 | BS650 | BS650 |
 | DEXP | DEXP B145 | B145 | B145 |
+| DEXP | DEXP B255 | B255 | B255 |
 | DEXP | DEXP G150 | G150 | G150 |
 | DEXP | DEXP Ixion M850 | M850 | Ixion M850 |
 | DEXP | DEXP Ixion X150 | Ixion_X150 | Ixion X150 |
@@ -2768,6 +2777,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Danew | Dslide971DC | Dslide971DC | Dslide971DC |
 | Danew | Konnect 402 | Konnect402 | Konnect402 |
 | Danew | Konnect 502 | Konnect_502 | Konnect_502 |
+| Danew | Konnect 503 | Konnect503 | Konnect503 |
 | Danew | Konnect 504 | Konnect_504 | Konnect_504 |
 | Danew | Konnect 506 | Konnect506 | Konnect506 |
 | Danew | Konnect 510 colors | Konnect_510 | Konnect_510_colors |
@@ -2882,18 +2892,29 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Digma | DIGMA CITI 1508 4G CS1114ML | CS1114ML | CITI_1508_4G_CS1114ML |
 | Digma | DIGMA CITI 1532 3G CS1144MG | CS1144MG | CITI 1532 3G CS1144MG |
 | Digma | DIGMA CITI 1544 3G CS1154MG | CS1154MG | CITI_1544_3G_CS1154MG |
+| Digma | DIGMA CITI 1576 3G CS1194MG | CS1194MG | CITI 1576 3G CS1194MG |
+| Digma | DIGMA CITI 1577 3G CS1195MG | CS1195MG | CITI 1577 3G CS1195MG |
 | Digma | DIGMA CITI 7507 4G CS7113PL | CS7113PL | CITI_7507_4G_CS7113PL |
 | Digma | DIGMA CITI 7543 3G CS7153MG | CS7153MG | CITI_7543_3G_CS7153MG |
+| Digma | DIGMA CITI 7575 3G CS7193MG | CS7193MG | CITI 7575 3G CS7193MG |
 | Digma | DIGMA CITI 8527 4G CS8139ML | CS8139ML | CITI_8527_4G_CS8139ML |
 | Digma | DIGMA CITI 8531 3G CS8143MG | CS8143MG | CITI 8531 3G CS8143MG |
 | Digma | DIGMA CITI 8542 4G CS8152ML | CS8152ML | CITI_8542_4G_CS8152ML |
 | Digma | DIGMA HIT Q401 3G HT4039PG | HT4039PG | HIT Q401 3G HT4039PG |
 | Digma | DIGMA HIT Q500 3G HT5035PG | HT5035PG | HIT Q500 3G HT5035PG |
 | Digma | DIGMA LINX A453 3G LT4038PG | LT4038PG | LINX A453 3G LT4038PG |
+| Digma | DIGMA LINX ATOM 3G LT4049PG | LT4049PG | LINX ATOM 3G LT4049PG |
 | Digma | DIGMA LINX B510 3G LT5037MG | LT5037MG | LINX B510 3G LT5037MG |
+| Digma | DIGMA LINX RAGE 4G LS5040PL | LS5040PL | LINX RAGE 4G LS5040PL |
+| Digma | DIGMA LINX TRIX 4G LS5041PL | LS5041PL | LINX TRIX 4G LS5041PL |
 | Digma | DIGMA Optima 1022N 3G TS1184MG | TS1184MG | Optima 1022N 3G TS1184MG |
+| Digma | DIGMA Optima 1023N 3G TS1186MG | TS1186MG | Optima 1023N 3G TS1186MG |
+| Digma | DIGMA Optima 1024N 4G TT1188PL | TT1188PL | Optima 1024N 4G TT1188PL |
+| Digma | DIGMA Optima 1025N 4G TS1190ML | TS1190ML | Optima 1025N 4G TS1190ML |
 | Digma | DIGMA Optima 1026N 3G TT1192PG | TT1192PG | Optima 1026N 3G TT1192PG |
+| Digma | DIGMA Optima 7016N 3G TS7175MG | TS7175MG | Optima 7016N 3G TS7175MG |
 | Digma | DIGMA Optima 7017N 3G TS7177MG | TS7177MG | Optima 7017N 3G TS7177MG |
+| Digma | DIGMA Optima 7018N 4G TS7179ML | TS7179ML | Optima 7018N 4G TS7179ML |
 | Digma | DIGMA Optima Prime 3 3G TS7131MG | TS7131MG | Optima_Prime_3_3G_TS7131MG |
 | Digma | DIGMA Optima Prime 4 3G TT7174PG | TT7174PG | Optima Prime 4 3G TT7174PG |
 | Digma | DIGMA Plane 1523 3G PS1135MG | PS1135MG | Plane_1523_3G_PS1135MG |
@@ -2908,6 +2929,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Digma | DIGMA Plane 1553M 4G PS1166ML | PS1166ML | Plane_1553M_4G_PS1166ML |
 | Digma | DIGMA Plane 1559 4G PS1173PL | PS1173PL | Plane_1559_4G_PS1173PL |
 | Digma | DIGMA Plane 1570N 3G PS1185MG | PS1185MG | Plane 1570N 3G PS1185MG |
+| Digma | DIGMA Plane 1572N 3G PS1187MG | PS1187MG | Plane 1572N 3G PS1187MG |
 | Digma | DIGMA Plane 1713T 3G PT1138MG | PT1138MG | Plane 1713T 3G PT1138MG |
 | Digma | DIGMA Plane 1715T 4G PT1139PL | PT1139PL | Plane 1715T 4G PT1139PL |
 | Digma | DIGMA Plane 7006 4G PS7041PL | PS7041PL | Plane_7006_4G_PS7041PL |
@@ -2917,24 +2939,35 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Digma | DIGMA Plane 7552M 3G PS7165MG | PS7165MG | Plane_7552M_3G_PS7165MG |
 | Digma | DIGMA Plane 7556 3G PS7170MG | PS7170MG | Plane_7556_3G_PS7170MG |
 | Digma | DIGMA Plane 7557 4G PS7171PL | PS7171PL | Plane_7557_4G_PS7171PL |
+| Digma | DIGMA Plane 7561N 3G PS7176MG | PS7176MG | Plane 7561N 3G PS7176MG |
 | Digma | DIGMA Plane 7563N 4G PS7178ML | PS7178ML | Plane 7563N 4G PS7178ML |
+| Digma | DIGMA Plane 7565N 3G PS7180PG | PS7180PG | Plane 7565N 3G PS7180PG |
 | Digma | DIGMA Plane 7574S 4G PS7191PL | PS7191PL | Plane 7574S 4G PS7191PL |
+| Digma | DIGMA Plane 8021N 4G PS8183ML | PS8183ML | Plane 8021N 4G PS8183ML |
 | Digma | DIGMA Plane 8540E 4G PS8156ML | PS8156ML | Plane_8540E_4G_PS8156ML |
 | Digma | DIGMA Plane 8558 4G PS8172PL | PS8172PL | Plane_8558_4G_PS8172PL |
+| Digma | DIGMA Plane 8566N 3G PS8181MG | PS8181MG | Plane 8566N 3G PS8181MG |
 | Digma | DIGMA Plane 9634 3G PS9146MG | PS9146MG | Plane_9634_3G_PS9146MG |
 | Digma | DIGMA Plane 9654M 3G PS9167PG | PS9167PG | Plane_9654M_3G_PS9167PG |
+| Digma | DIGMA VOX E502 4G VS5036PL | VS5036PL | VOX E502 4G VS5036PL |
 | Digma | DIGMA VOX Flash 4G VS5015ML | VS5015ML | VOX Flash 4G VS5015ML |
 | Digma | DIGMA VOX G450 3G VS4001PG | VS4001PG | VOX G450 3G VS4001PG |
 | Digma | DIGMA VOX G501 4G VS5033ML | VS5033ML | VOX_G501_4G_VS5033ML |
 | Digma | DIGMA VOX S513 4G VS5035ML | VS5035ML | VOX_S513_4G_VS5035ML |
 | Digma | Digma LINX Alfa 3G LT4047MG | LT4047MG | LINX ALFA 3G LT4047MG |
+| Digma | Digma Optima Prime 5 3G TS7198PG | TS7198PG | Optima Prime 5 3G TS7198PG |
+| Digma | Digma Plane 1584S 3G PS1201PG | PS1201PG | Plane 1584S 3G PS1201PG |
 | Digma | LINX A452 3G | LT4030PG | LINX A452 3G LT4030PG |
+| Digma | Optima_8019N_4G | TS8182ML | Optima 8019N 4G TS8182ML |
+| Digma | PS8163PL | PS8163PL | Plane 8550S 4G PS8163PL |
 | Digma | Plane 7012M 3G PS7082MG | PS7082MG | Plane_7012M_3G_PS7082MG |
 | Digma | Plane 7546S 3G | PS7158PG | Plane_7546S_3G_PS7158PG |
 | Digma | Plane 7547S 3G | PS7159PG | Plane_7547S_3G_PS7159PG |
+| Digma | Plane 7547S 3G PS7159PG | PS7159PG | Plane 7547S 3G PS7159PG |
 | Digma | Plane 8522 3G PS8135MG | PS8135MG | Plane_8522_3G_PS8135MG |
 | Digma | Plane 8536E 3G PS8148MG | PS8148MG | Plane_8536E_3G_PS8148MG |
 | Digma | Plane 8555M 4G PS8168ML | PS8168ML | Plane 8555M 4G PS8168ML |
+| Digma | Plane_1573N_4G/ | PS1189ML | Plane 1573N 4G PS1189ML |
 | Digma | Plane_7548S_4G_PS7160PL | PS7160PL | Plane_7548S_4G_PS7160PL |
 | Digma | Plane_8548S_3G | PS8161PG | Plane_8548S_3G_PS8161PG |
 | Digma | Plane_8549S_4G | PS8162PL | Plane_8549S_4G_PS8162PL |
@@ -4045,6 +4078,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | GoClever | TQ700/QUANTUM 700/TAB | TQ700 | TQ700 |
 | Gobox | T2 | T2 | T2 |
 | Gol Mobile | F3Prime | F3Prime | F3Prime |
+| Gol Mobile | F9 | F9 | F9 |
 | Gol Mobile | TEAM_7_3G | TEAM_7_3G | TEAM_7_3G |
 | Gome | GOME C7 | GOME_C7 | GOME_2018X07A |
 | Gome | GOME C7 Note mini | GOME_C7_Note_Mini | GOME_C7_Note |
@@ -4144,6 +4178,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | HP | 8 | Fir | HP 8 |
 | HP | 8 G2 | maple | HP 8 G2 |
 | HP | Bonsai 10 HD | bonsai10 | HP Slate 10 HD |
+| HP | Chromebook x2 | soraka_cheets | HP Chromebook x2 |
 | HP | Chromebook x2 | soraka_cheets | soraka |
 | HP | Chromebook x360 11 G1 EE | snappy_cheets | HP Chromebook x360 11 G1 EE |
 | HP | HP Chromebook 11 G5 / 11-vxxx | setzer_cheets | HP Chromebook 11 G5 / HP Chromebook 11-vxxx |
@@ -4563,6 +4598,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | HTC | G2 | vision | HTC Vision |
 | HTC | G2 | vision | T-Mobile G2 |
 | HTC | HTC 10 evo | htc_acawhl | HTC 10 evo |
+| HTC | HTC 2Q6E1 | htc_imldugl | HTC 2Q6E1 |
+| HTC | HTC 2Q6E1 | htc_imldugl | HTC U12 life |
 | HTC | HTC Desire 610 | htc_a3ul | HTC Desire 610 |
 | HTC | HTC Desire 628 dual sim | htc_v36bml_dugl | HTC 2PVG2 |
 | HTC | HTC Desire 628 dual sim | htc_v36bml_dugl | HTC Desire 628 dual sim |
@@ -5534,6 +5571,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | SoundTab MA-327 | rk3028a | Hisense SoundTab MA-327 |
 | Hisense | T963 | HS7331CSC | Hisense T963 |
 | Hisense | TV | hisense_gx1200v | hisense_gx1200v |
+| Hisense | Trekker- X4 | HSSDM660QC | Trekker-X4 |
 | Hisense | U601S | HS7731CSP | Hisense U601S |
 | Hisense | U601S  Pro | HS7731CSP | U601S Pro |
 | Hisense | U602 | HS6580MT | HS-U602 |
@@ -5677,6 +5715,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hotwav | M5 | M5 | M5 |
 | Hotwav | M5 Plus | M5_Plus | M5 Plus |
 | Hotwav | M5i | M5i | M5i |
+| Hotwav | Magic 11 | Magic_11 | Magic 11 |
 | Hotwav | Magic 13 | Magic_13 | Magic 13 |
 | Hotwav | Magic 5 | Magic_5 | Magic 5 |
 | Hotwav | Magic 6 | Magic_6 | Magic 6 |
@@ -7130,6 +7169,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | INOI | INOI 5 Pro | INOI_5_Pro | INOI_5_Pro |
 | INOI | INOI_2 | INOI_2 | INOI_2 |
 | INOI | INOI_2_LITE | INOI_2_LITE | INOI_2_LITE |
+| INOI | INOI_3 | INOI_3 | INOI_3 |
 | INOI | INOI_3_LITE | INOI_3_LITE | INOI_3_LITE |
 | INOI | INOI_3_POWER | INOI_3_POWER | INOI_3_POWER |
 | INOI | INOI_6 | INOI_6 | INOI_6 |
@@ -7512,6 +7552,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Irbis | SP550 | SP550 | SP550 |
 | Irbis | SP551 | SP551 | SP551 |
 | Irbis | SP552 | SP552 | SP552 |
+| Irbis | SP554 | SP554 | SP554 |
 | Irbis | TZ150 | TZ150 | TZ150 |
 | Irbis | TZ165 | TZ165 | TZ165 |
 | Irbis | TZ177 | TZ177 | TZ177 |
@@ -9423,6 +9464,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lava | iris30 | iris30 | iris30 |
 | Lava | iris40 | iris40 | iris40 |
 | Lava | iris50 | iris50 | iris50 |
+| Lava | iris51 | iris51 | iris51 |
 | Lava | iris512 | iris512 | iris512 |
 | Lava | iris515 | iris515 | iris515 |
 | Lava | iris53 | iris53 | iris53 |
@@ -10216,18 +10258,24 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Logicom | L-ite_Tab1060 | LiteTab1060 | L-ite_Tab1060 |
 | Logicom | L351 | L-EMENT351 | L-EMENT351 |
 | Logicom | L743 | L-EMENT743 | L-EMENT743 |
+| Logicom | LA_TAB_LINK71 | LA_TAB_LINK71 | LOGICOM_LA_TAB_LINK_71 |
 | Logicom | LEMENT TAB 740 | LEMENTTAB740 | L-EMENT 740 |
 | Logicom | LEMENTTAB1042 | LEMENTTAB1042 | L-EMENT_TAB1042 |
 | Logicom | LEMENTTAB901 | LEMENTTAB901 | LEMENT_TAB901 |
 | Logicom | LIXIR1044 | LIXIR1044 | LIXIR1044 |
 | Logicom | L_IXIR_TAB_1047HD | L_IXIR_TAB_1047HD | L_IXIR_TAB_1047HD |
+| Logicom | La Tab 105 | La_Tab_105 | La Tab 105 |
 | Logicom | La Tab 106 | LaTab106 | La Tab 106 |
 | Logicom | La Tab 107 HD | La_Tab_107 | La Tab 107 |
+| Logicom | La Tab 72 | La_Tab_72 | La Tab 72 |
 | Logicom | La Tab Full HD | La_Tab_Full_HD | La Tab Full HD |
+| Logicom | Le HELLO | Le_Hello | Le_Hello |
 | Logicom | Le Hop | Logicom_LeHop | Le Hop |
 | Logicom | Le Lift | LeLift | Le Lift |
 | Logicom | Le Must | LeMust | Le Must |
+| Logicom | Le Smooth | Le_Smooth | Le Smooth |
 | Logicom | Le Starter L | Le_Starter_L | Le Starter L |
+| Logicom | Le UP | LeUp | Le Up |
 | Logicom | LiteTab760 | LiteTab760 | LiteTab760 |
 | Logicom | Logikids | Logikids_2 | Logikids_2 |
 | Logicom | Logikids 3 | Logikids_3 | Logikids_3 |
@@ -10830,6 +10878,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Mint | M4CR2 | Mint_Clover_Plus | Mint Clover+ |
 | Mint | M5 | MINT-M5 | M5 |
 | Mint | M55LD | Mint_fire | Mint_M55LD |
+| Mint | MINT M341 | Mint_M341 | M341 |
+| Mint | MINT M341 | Mint_M341 | Mint_M341 |
 | Mint | MINT Pandora | MINT_Pandora | MINT Pandora |
 | Mint | MINT_Pearl_plus | MINT_Pearl_plus | Pearl+_M5PD |
 | Mint | Mint Fusion | Mint_Fusion | Mint Fusion |
@@ -12409,8 +12459,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | PCD Argentina | 610 | 610 | 610 |
 | PCD Argentina | PCD508 | PCD508 | PCD508 |
 | PCD Argentina | PCD509 | PCD509 | PCD509 |
+| PCD Argentina | PH4003 | PH4003 | PH4003 |
 | PCD Argentina | PH5003 | PH5003 | PH5003 |
+| PCD Argentina | PL4002 | PL4002 | PL4002 |
 | PCD Argentina | PL5003 | PL5003 | PL5003 |
+| PCD Argentina | PL5505 | PL5505 | PL5505 |
 | PCD Argentina | PL570 | PL570 | PL570 |
 | PLDT | Smart Page 8 Pro | Smart_Page_8_Pro | Smart_Page_8_Pro |
 | POC | POC2 | CBL7509MM | POC2 |
@@ -12434,6 +12487,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Panasonic | AX600C | AX600C | AX600C |
 | Panasonic | Altus 18 | Altus18 | Altus 18 |
 | Panasonic | Altus 24 | Altus24 | Altus 24 |
+| Panasonic | Altus 32 | Altus32 | Altus 32 |
 | Panasonic | Boukenkun-reciever | VW_RCBKK1 | VW_RCBKK1 |
 | Panasonic | EB-4063-X | EB-4063-X | EB-4063-X |
 | Panasonic | ELUGA | pana2_4o | dL1 |
@@ -12530,6 +12584,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Panasonic | FZ-X1 | FZ-X1VU | FZ-X1 |
 | Panasonic | FZ-X1 | FZ-X1VUC | FZ-X1 |
 | Panasonic | HDPSEB v2 | HDPSEBv2 | HD PSEB v2 |
+| Panasonic | HDPSEB v3 | HDPSEBv3 | HD PSEB v3 |
+| Panasonic | HDPSEB v4 | HDPSEBv4 | HD PSEB v4 |
 | Panasonic | IPSC 4 | ipsc4 | IPSC4 |
 | Panasonic | JT-B1 | B1 | JT-B1 |
 | Panasonic | KX-PRXA10 | KX-PRXA10 | Panasonic KX-PRXA10 |
@@ -12887,6 +12943,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Polaroid | MIDI109PDE | MIDI109PDE | MIDI109PDE |
 | Polaroid | MIDI163PDE | MIDI163PDE | MIDI163PDE |
 | Polaroid | MIDI70WPDE | MIDI70WPDE | MIDI70WPDE |
+| Polaroid | MIDS185PR | MIDS185PR | MIDS185PR |
 | Polaroid | P10/Q10/PTAB1040/PTAB1041 | pq10-Polaroid | P10/Q10/PTAB1040/PTAB1041 |
 | Polaroid | P1000 | P1000 | P1000 |
 | Polaroid | P1001 | P1001 | P1001 |
@@ -13470,7 +13527,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ratel | Cell | Cell | CELL |
 | Rayan | AM_TAB_7_03 | AMAA703 | AMA_A703 |
 | Razer | Forge TV | pearlyn | Forge |
-| Razer | Phone 2 | aura | Phone 2 |
 | Razer | Razer Phone | cheryl | Phone |
 | Razer | Razer phone | cheryl_ckh | Phone |
 | Realtime | RS405 | RS405 | RS405 |
@@ -13562,6 +13618,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | SMT_TSC | BLAZE X500 | BLAZE_X500 | BLAZE_X500 |
 | SOSMART | T5 | SOSMART_T5 | SOSMART_T5 |
 | SPC Mobile | GRAVITY3G | GRAVITY3G | GRAVITY 3G |
+| SPC Mobile | GRAVITY_ PRO | GRAVITY_PRO | GRAVITY PRO |
 | SPC Mobile | L50 | SPC_L50 | L50 |
 | SPC Mobile | L51 BLITZ | L51 | L51 |
 | SPC Mobile | L51 PRO | L51_Pro | L51 Pro |
@@ -13679,6 +13736,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Chromebook 3 | celes_cheets | Samsung Chromebook 3 |
 | Samsung | Chromebook Plus | kevin_cheets | Samsung Chromebook Plus |
 | Samsung | Chromebook Plus | kevin_cheets | kevin |
+| Samsung | Chromebook Plus (V2) | nautilus_cheets | Samsung Chromebook Plus (V2) |
 | Samsung | Chromebook Plus (V2) | nautilus_cheets | nautilus |
 | Samsung | Chromebook Pro | caroline_cheets | Samsung Chromebook Pro |
 | Samsung | Chromebook Pro | caroline_cheets | caroline |
@@ -14217,6 +14275,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J3 | j3ltectc | SM-J3109 |
 | Samsung | Galaxy J3 | j3ltespr | SM-J320P |
 | Samsung | Galaxy J3 | j3popelteue | SM-J327U |
+| Samsung | Galaxy J3 | j3poplteusc | SM-J327R4 |
 | Samsung | Galaxy J3 | j3topeltevzw | SM-J337VPP |
 | Samsung | Galaxy J3 | j3toplteue | SM-J337U |
 | Samsung | Galaxy J3 | j3x3g | SM-J320H |
@@ -14236,7 +14295,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J3 Pop | j3poplteacg | SM-J327R7 |
 | Samsung | Galaxy J3 Pop | j3popltelra | SM-J327R6 |
 | Samsung | Galaxy J3 Pop | j3popltetfnvzw | SM-S327VL |
-| Samsung | Galaxy J3 Pop | j3poplteusc | SM-J327R4 |
 | Samsung | Galaxy J3 Prime | j3popeltemtr | SM-J327T1 |
 | Samsung | Galaxy J3 Prime | j3popeltetmo | SM-J327T |
 | Samsung | Galaxy J3 Pro | j3xproltechn | SM-J3110 |
@@ -15726,6 +15784,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp | 401SH | SG401SH | 401SH |
 | Sharp | 4T-C**AM1/AN1/AL1, 8T-C**AX1/AW1 | tcsu2uj | AQUOS-TVJ18 |
 | Sharp | 4T-C50AG1T | LCD_50FOCAG1T | LCD_50FOCAG1T |
+| Sharp | 4T-C60AL1H,4T-C70AL1H | lc_xxeos5h | LC-xxEOS5H |
+| Sharp | 4T-C60ANAA,4T-C70ANAA,4T-C60ASAA,4T-C70ASAA | lcd_xxgae7a | LCD-xxGAE7A |
 | Sharp | 507SH | eve_sprout | 507SH |
 | Sharp | A01SH | A01SH | A01SH |
 | Sharp | A1 | TSL | FS8002 |
@@ -16705,6 +16765,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Stylo | STYLOF1 | STYLOF1 | STYLO F1 |
 | Stylo | STYLO_S61 | STYLO_S61 | STYLO SM61 MAGIC+ |
 | Stylo | STYLO_S61 | STYLO_S61 | STYLO SV61 VECTOR+ |
+| Stylo | TAB2 | TAB2 | TAB2 |
 | Stylo | Ultra | Ultra | Ultra |
 | Stylo | V | V | V |
 | Stylo | VS5502 | VS5502 | VS5502 |
@@ -17687,6 +17748,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Pixo 7 | PIXO7 | I212 |
 | TCT (Alcatel) | Pixo 7 | PIXO7 | I213 |
 | TCT (Alcatel) | Pop4 | POP455C | Pop4 |
+| TCT (Alcatel) | REVVL_2_PLUS_6062Z | A70AXLTMO | REVVL 2 PLUS |
 | TCT (Alcatel) | Rise_54 | Rise_54 | Orange Rise 54 |
 | TCT (Alcatel) | S4035_4G | Pop355 | S4035_4G |
 | TCT (Alcatel) | SHINE LITE | shine_lite | 5080D |
@@ -17941,6 +18003,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | C9 | TECNO-C9 | TECNO-C9 |
 | Tecno | C9S | TECNO-C9 | TECNO-C9S |
 | Tecno | CAMON 11 | TECNO-CF7 | TECNO CF7 |
+| Tecno | CAMON 11 | TECNO-CF7 | TECNO CF7S |
 | Tecno | CAMON CM | TECNO-CA6 | TECNO CA6 |
 | Tecno | CAMON I Ace | TECNO-IN1 | TECNO IN1 |
 | Tecno | CAMON X | TECNO-CA7 | TECNO CA7 |
@@ -18333,6 +18396,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ulefone | Armor 2 | Armor_2 | Armor_2 |
 | Ulefone | Armor 2S | Armor_2S | Armor_2S |
 | Ulefone | Armor X | Armor_X | Armor_X |
+| Ulefone | Armor_3 | Armor_3 | Armor_3 |
 | Ulefone | Armor_5 | Ulefone_Armor_5 | Ulefone_Armor_5 |
 | Ulefone | MIX | t816_gq_ulefone | MIX |
 | Ulefone | MIX S | t815_gq_ulefone | MIX_S |
@@ -18408,6 +18472,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Verizon Wireless | Ellipsis 8 HD | QTASUN1 | QTASUN2 |
 | Verizon Wireless | Ellipsis \xc2\xae 10 HD | QTAXIA1 | QTAXIA1 |
 | Verizon Wireless | Gizmo Tab | QTASUN2 | QTASUN2 |
+| Verizon Wireless | Gizo Tab | QTASUN2 | QTASUN2 |
 | Verizon Wireless | QTAQZ3KID | QTAQZ3KID | QTAQZ3KID |
 | Verizon Wireless | Wear24 | dorado | Wear24 |
 | Verizon Wireless | ZenPad Z8 | P008 | P008 |
@@ -18817,6 +18882,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vodafone | Vodafone Smart E8 | VFD512 | VFD 512 |
 | Vodafone | Vodafone Smart E8 | VFD513 | VFD 513 |
 | Vodafone | Vodafone Smart E9 | VFD527 | VFD 527 |
+| Vodafone | Vodafone Smart E9 | VFD528 | VFD 528 |
+| Vodafone | Vodafone Smart E9 | VFD529 | VFD 529 |
 | Vodafone | Vodafone Smart N9 | VFD720 | VFD 720 |
 | Vodafone | Vodafone Smart X9 | VFD820 | VFD 820 |
 | Vodafone | Vodafone Smart mini | Vodafone_875 | Vodafone 875 |
@@ -18894,6 +18961,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vulcan | Vulcan VR5533 | VR5533 | VR5533 |
 | Vulcan | Vulcan VR6031 | VR6031 | VR6031 |
 | Vulcan | Vulcan VR6032 | VR6032 | VR6032 |
+| W&O | Max 7 | MAX_7 | MAX 7 |
+| W&O | Max 7i | MAX_7i | MAX 7i |
 | W&O | X6 | X6 | X6 |
 | W.e. | WETAB700DG | WETAB700DG | WETAB700DG |
 | W.e. | WeTab1004B | WeTab1004B | WeTab1004B |
@@ -20916,6 +20985,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | pendo | PNDPP44QC7 | PNDPP44QC7 | PNDPP44QC7 |
 | sencor | 7Q105 | SENCOR_7Q105 | SENCOR_7Q105 |
 | sencor | P5504 | P5504 | P5504 |
+| sencor | P5700 | P5700 | P5700 |
 | sencor | SENCOR_10_1Q102 | SENCOR_10_1Q102 | SENCOR_10_1Q102 |
 | sugar_aums | QPOINT | QPI-1 | QPI-1 |
 | teXet | TM-4510 | TM-4510 | TM-4510 |
@@ -20941,3 +21011,4 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | xTouch | XTOUCH X | XTouch_X | XTouch X |
 | xTouch | XTOUCH X10 | XTOUCH_X10 | XTOUCH X10 |
 | zyrex | ZT 216 | ZT_216 | ZT 216 |
+| zyrex | Zyrex  ZA833 | ZA833 | ZA833 |
