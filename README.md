@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 19.09.2018
+Last sync is 20.09.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1355,6 +1355,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Audi AG | Audi Tab CN | sdis1 | Audi tablet |
 | Audi AG | Audi tablet | sdis1 | Audi tablet |
 | Audi AG | RSE-III | RSEIII | RSEIII |
+| Audi AG | SDIS1 | sdis1 | Audi tablet |
 | Audiovox | T752 Tablet | AD7L | T752 |
 | Audiovox | T852 Tablet | MID30801 | T852 |
 | Avaya | Vantage | K175 | Avaya Vantage |
@@ -1439,6 +1440,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | BMobile | AX1071 | Bmobile_AX1071 | AX1071 |
 | BMobile | AX1072 | Bmobile_AX1072 | AX1072 |
 | BMobile | AX1073 | Bmobile_AX1073 | AX1073 |
+| BMobile | AX1073+ | Bmobile_AX1073Plus | AX1073+ |
 | BMobile | AX1074 | Bmobile_AX1074 | AX1074 |
 | BMobile | AX1075 | Bmobile_AX1075 | AX1075 |
 | BMobile | AX1085 | Bmobile_AX1085 | AX1085 |
@@ -1634,6 +1636,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Benesse | TAB-A03-BR | TAB-A03-BR | TAB-A03-BR |
 | Benesse | TAB-A03-BS | TAB-A03-BS | TAB-A03-BS |
 | Beneve | M755 | M755 | M755 |
+| Bentley | SDIS1 | sdis1 | BENTLEY ENTERTAINMENT TABLET |
 | Bentley | Tab | sdis1 | BENTLEY ENTERTAINMENT TABLET |
 | Bertoli | B20X | B20X | B20X |
 | Best Buy | Transformer Pad (TF103C) | K010 | K010 |
@@ -2894,6 +2897,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Digma | DIGMA CITI 1544 3G CS1154MG | CS1154MG | CITI_1544_3G_CS1154MG |
 | Digma | DIGMA CITI 1576 3G CS1194MG | CS1194MG | CITI 1576 3G CS1194MG |
 | Digma | DIGMA CITI 1577 3G CS1195MG | CS1195MG | CITI 1577 3G CS1195MG |
+| Digma | DIGMA CITI 1578 4G CS1196ML | CS1196ML | CITI 1578 4G CS1196ML |
 | Digma | DIGMA CITI 7507 4G CS7113PL | CS7113PL | CITI_7507_4G_CS7113PL |
 | Digma | DIGMA CITI 7543 3G CS7153MG | CS7153MG | CITI_7543_3G_CS7153MG |
 | Digma | DIGMA CITI 7575 3G CS7193MG | CS7193MG | CITI 7575 3G CS7193MG |
@@ -2905,6 +2909,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Digma | DIGMA LINX A453 3G LT4038PG | LT4038PG | LINX A453 3G LT4038PG |
 | Digma | DIGMA LINX ATOM 3G LT4049PG | LT4049PG | LINX ATOM 3G LT4049PG |
 | Digma | DIGMA LINX B510 3G LT5037MG | LT5037MG | LINX B510 3G LT5037MG |
+| Digma | DIGMA LINX Joy 3G LT5048MG | LT5048MG | LINX JOY 3G LT5048MG |
 | Digma | DIGMA LINX RAGE 4G LS5040PL | LS5040PL | LINX RAGE 4G LS5040PL |
 | Digma | DIGMA LINX TRIX 4G LS5041PL | LS5041PL | LINX TRIX 4G LS5041PL |
 | Digma | DIGMA Optima 1022N 3G TS1184MG | TS1184MG | Optima 1022N 3G TS1184MG |
@@ -3836,6 +3841,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Getac | ZX70 | zx70 | ZX70 |
 | Getac | ZX70 | zx70 | zx70 |
 | Ghia | GHIA_VECTOR_3G | GHIA_VECTOR_3G | GHIA_VECTOR_3G |
+| Ghia | GTAB718 | GTAB718 | GTAB718 |
 | Ghia | GTABKIDS | GTABKIDS | GTABKIDS |
 | Ghia | GTABPND | GTABPND | GTABPND |
 | Ghia | GTKIDS7R | GTKIDS7R | GTKIDS7R |
@@ -5725,6 +5731,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hotwav | Magic Q8 Plus | Magic_Q8_Plus | Magic Q8 Plus |
 | Hotwav | Magic_5_Plus | Magic_5_Plus | Magic 5 Plus |
 | Hotwav | Symbol M1 | Symbol_M1 | Symbol M1 |
+| Hotwav | Symbol M1Plus | Symbol_M1_Plus | Symbol M1 Plus |
 | Hotwav | Symbol X | Symbol_X | Symbol X |
 | How | 1001-G | 1001-G | 1001-G |
 | How | 705-G | 705-G | 705-G |
@@ -7626,6 +7633,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Itel | A52B | itel-A52B | itel A52B |
 | Itel | A62 | itel-A62 | itel A62 |
 | Itel | F311 | Spice-F311 | Spice F311 |
+| Itel | ITELL_K4700Q | ITELL_K4700Q | ITELL K4700Q |
 | Itel | P11 | itel_P11 | itel P11 |
 | Itel | P12 | itel_P12 | itel P12 |
 | Itel | P13 | itel-P13 | itel P13 |
@@ -7706,6 +7714,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | JabrBox | H460 | H460 | H460 |
 | JabrBox | H460B01 | H460 | H460 |
 | JabrBox | S502 | S502 | S502 |
+| Janam | XG200 | XG200 | XG200 |
 | Janam | XM75 | XM75 | XM75 |
 | Janam | XT100 | XT100 | XT100 |
 | Janam | XT2 | XT2 | XT2 |
@@ -7823,6 +7832,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | KT Tech | EV-S100 | s100 | EV-S100 |
 | KT Tech | TAKE SUIT | e100 | KM-E100 |
 | KTV | PureKTV | DV8219 | PureKTV |
+| Kalley | Black | Black | Black |
 | Kalley | ELEMENT PLUS | ELEMENT_PLUS | ELEMENT PLUS |
 | Kalley | ELEMENT_PRO | ELEMENT_PRO | ELEMENT_PRO |
 | Kalley | Gold Pro | GOLD_PRO | GOLD_PRO |
@@ -11514,6 +11524,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Multilaser | Ms5 | MTL-MS5 | MS5 |
 | Multilaser | Ms6 | MS6 | MS6 |
 | My Go | GoTab GBT10 | GBT10 | GoTab_GBT10 |
+| MyFon | F3 | F3 | F3 |
 | MyFon | S2 | S2 | S2 |
 | MyFon | S5 | S5 | S5 |
 | MyPhone (PL) | C-Smart pix | C-Smart_pix_JMP | C-Smart_pix |
@@ -11970,6 +11981,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nomi | Nomi i5511 | Nomi_i5511 | Nomi_i5511 |
 | Nomi | Nomi i5532 | Nomi_i5532 | i5532 |
 | Nomi | Nomi i6030 | i6030 | Nomi i6030 |
+| Nomi | Nomi_Corsa 4 light 3G | Nomi_C070014L | Nomi_C070014L |
 | Nomi | Nomi_Corsa4 3G | Nomi_C070014 | Nomi_C070014 |
 | Nomi | Nomi_Libra4 3G | Nomi_C080014 | Nomi_C080014 |
 | Nomi | Nomi_i5730 | Nomi_i5730 | Nomi_i5730 |
@@ -12032,6 +12044,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | OKWU | PI Plus | PI_Plus | PI Plus |
 | OTHO | T3 | T3 | T3 |
 | OTK | BM57 lite | BM57_lite | BM57_lite |
+| OTOT | B10 | B10 | B10 |
 | OTOT | E1 | EOS | OTOT_E1 |
 | OTOT | H10 | H10 | H10 |
 | OTOT | S7 | S7 | S7 |
@@ -12418,6 +12431,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oukitel | K10000 Mix | K10000_Mix | K10000 Mix |
 | Oukitel | K10000 Pro | K10000_Pro | K10000 Pro |
 | Oukitel | K10000_Max | K10000_Max | K10000 Max |
+| Oukitel | K3 | K3 | K3 |
 | Oukitel | K5 | K5 | K5 |
 | Oukitel | K5000 | K5000 | K5000 |
 | Oukitel | K6 | K6 | K6 |
@@ -12543,6 +12557,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Panasonic | Elite 16 | Elite16 | Elite |
 | Panasonic | Elite 16 v2 | Elite16 | Elite |
 | Panasonic | Elite 18 | Elite18 | Elite |
+| Panasonic | Elite 22 | elitev3p22 | Elite v3p22 |
 | Panasonic | Elite13 v3 | Elitev3_13 | Elitev3 |
 | Panasonic | Elitev3a | elitev3a | Elite v3a |
 | Panasonic | Eluga A2 | Eluga_A2 | Eluga_A2 |
@@ -13617,7 +13632,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | SMT_SN | CRUSH X565 | CRUSH_X565 | CRUSH_X565 |
 | SMT_TSC | BLAZE X500 | BLAZE_X500 | BLAZE_X500 |
 | SOSMART | T5 | SOSMART_T5 | SOSMART_T5 |
+| SPC Mobile | Blink_10_1 | Blink_10_1 | Blink 10.1 |
+| SPC Mobile | FLOW_7 | FLOW_7 | FLOW 7 |
 | SPC Mobile | GRAVITY3G | GRAVITY3G | GRAVITY 3G |
+| SPC Mobile | GRAVITY4G | GRAVITY4G | GRAVITY 4G |
 | SPC Mobile | GRAVITY_ PRO | GRAVITY_PRO | GRAVITY PRO |
 | SPC Mobile | L50 | SPC_L50 | L50 |
 | SPC Mobile | L51 BLITZ | L51 | L51 |
@@ -13632,6 +13650,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | SPC Mobile | LAIKA | LAIKA | LAIKA |
 | SPC Mobile | S19 | S19 | S19 |
 | SPC Mobile | X1 | SPC_X1 | X1 |
+| SPC Mobile | heaven_10_1 | heaven-10_1 | HEAVEN 10.1 |
 | STF Mobile | AERIAL | STFAERIAL | AERIAL |
 | STF Mobile | AERIAL PLUS | AERIAL | AERIAL PLUS |
 | STF Mobile | AURA | AURA | AURA |
@@ -14275,6 +14294,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J3 | j3ltectc | SM-J3109 |
 | Samsung | Galaxy J3 | j3ltespr | SM-J320P |
 | Samsung | Galaxy J3 | j3popelteue | SM-J327U |
+| Samsung | Galaxy J3 | j3poplteacg | SM-J327R7 |
+| Samsung | Galaxy J3 | j3popltelra | SM-J327R6 |
 | Samsung | Galaxy J3 | j3poplteusc | SM-J327R4 |
 | Samsung | Galaxy J3 | j3topeltevzw | SM-J337VPP |
 | Samsung | Galaxy J3 | j3toplteue | SM-J337U |
@@ -14292,8 +14313,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J3 Pop | j3popelteatt | SAMSUNG-SM-J327A |
 | Samsung | Galaxy J3 Pop | j3popeltecan | SM-J327W |
 | Samsung | Galaxy J3 Pop | j3popeltetfntmo | SM-S337TL |
-| Samsung | Galaxy J3 Pop | j3poplteacg | SM-J327R7 |
-| Samsung | Galaxy J3 Pop | j3popltelra | SM-J327R6 |
 | Samsung | Galaxy J3 Pop | j3popltetfnvzw | SM-S327VL |
 | Samsung | Galaxy J3 Prime | j3popeltemtr | SM-J327T1 |
 | Samsung | Galaxy J3 Prime | j3popeltetmo | SM-J327T |
@@ -15280,6 +15299,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A (2016) | gtaxlltechn | SM-T585C |
 | Samsung | Galaxy Tab A (2016) | gtaxlwifi | SM-T580 |
 | Samsung | Galaxy Tab A (2016) | gtaxlwifichn | SM-T580 |
+| Samsung | Galaxy Tab A (2016) with S Pen | gtanotexllte | SM-P585M |
 | Samsung | Galaxy Tab A (2016) with S Pen | gtanotexlltekx | SM-P585N0 |
 | Samsung | Galaxy Tab A (2016) with S Pen | gtanotexlwifichn | SM-P583 |
 | Samsung | Galaxy Tab A (2016) with S Pen | gtanotexlwifikx | SM-P580 |
@@ -15536,7 +15556,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab4 Active | rubenswifi | SM-T360 |
 | Samsung | Galaxy Tab4 Active | rubenswifichn | SM-T360 |
 | Samsung | Galaxy Tab4 Nook 10.1 | matissewifiopenbnn | SM-T530NU |
-| Samsung | Galaxy TabA Plus 10.1 | gtanotexllte | SM-P585M |
 | Samsung | Galaxy TabA Plus 10.1 | gtanotexllte | SM-P587 |
 | Samsung | Galaxy TabA Plus 10.1 | gtanotexlltechn | SM-P588C |
 | Samsung | Galaxy TabA Plus 10.1 | gtaxlqltespr | SM-T587P |
@@ -20797,6 +20816,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Zuum | ONIX | ONIX | ONIX |
 | Zuum | ONIX S | ONIX_S | ONIX S |
 | Zuum | STELLAR | STELLAR | STELLAR |
+| Zuum | STELLAR MINI | STELLAR_MINI | STELLAR MINI |
+| Zuum | STELLAR Z | STELLAR_Z | STELLAR Z |
 | Zuum | ULTRA Z | Ultra_Z | ULTRA Z |
 | Zuum | ZUUM AKUS | AKUS | AKUS |
 | Zuum | ZUUM MAGNO PLUS | MAGNO_PLUS | MAGNO PLUS |
@@ -20926,6 +20947,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iLa Mobile | S1 | S1 | S1 |
 | iLa Mobile | iLA Silk | iLA_Silk | iLA_Silk |
 | iLa Mobile | iLA-X | iLA-X | iLA-X |
+| iLife | ITELL K4700 | ITELL_K4700 | ITELL K4700 |
+| iLife | ITELL_K3500N | ITELL_K3500N | ITELL_K3500N |
 | iNFONE | infone X | infone_X | infone X |
 | iNO Mobile | S9 | iNO_S9 | iNO S9 |
 | iNanny | NC1000 | NC1000 | NC1000 |
