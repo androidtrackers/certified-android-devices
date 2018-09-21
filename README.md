@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 20.09.2018
+Last sync is 21.09.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -336,6 +336,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Advance | HL4736 | HL4736 | HL4736 |
 | Advance | HL5576 | HL5576 | HL5576 |
 | Advance | HL5585 | HL5585 | HL5585 |
+| Advance | HL5677 | HL5677 | HL5677 |
 | Advance | Pr5747 | Pr5747 | Pr5747 |
 | Advance | Pr6146 | Pr6146 | Pr6146 |
 | Advance | Pr6150 | Pr6150 | Pr6150 |
@@ -367,6 +368,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Alcor | Alcor | Access_Q784C | Access_Q784C |
 | Alcor | Alcor | Zest_Q108I | Zest_Q108I |
 | Alcor | Alcor | Zest_Q708I | Zest_Q708I |
+| Aligator | ALIGATOR S5070 | ALIGATOR_S5070 | ALIGATOR S5070 |
 | Aligator | RX700 | RX700 | RX700 |
 | Aligator | S5065 | ALIGATORS5065 | ALIGATOR S5065 |
 | AllCall | AllCall_Madrid | AllCall_Madrid | AllCall_Madrid |
@@ -934,6 +936,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ark | Benefit M503 | Benefit_M503 | Benefit_M503 |
 | Ark | Benefit M505 | Benefit_M505 | Benefit_M505 |
 | Ark | Benefit M8 | Benefit_M8 | Benefit_M8 |
+| Ark | Benefit S505 | Benefit_S505 | Benefit_S505 |
 | Ark | Benefit_Note 1 | Benefit_Note_1 | Benefit_Note_1 |
 | Ark | Impulse P2 | Impulse_P2 | Impulse_P2 |
 | Ark | Wizard 1 | Wizard_1 | Wizard_1 |
@@ -1470,6 +1473,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | BMobile | AX921 | Bmobile_AX921 | AX921 |
 | BMobile | AX921 | Bmobile_AX921 | Bmobile_AX921 |
 | BMobile | AX922 | Bmobile_AX922 | AX922 |
+| BMobile | AX925 | Bmobile_AX925 | AX925 |
 | BMobile | AX950 | Bmobile_AX950 | AX950 |
 | BMobile | Bmobile AX683 | Bmobile_AX683 | AX683 |
 | BMobile | FUN 4 | Bmobile_FUN_4_2018 | FUN 4 2018 |
@@ -1566,7 +1570,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | BYD | Zippers | Zippers | Vexia Zippers |
 | Bang & Olufsen | BeoVision | bno_MT5593Uplus_EU | QM153E |
 | Bangho | Bangho_AERO7 | Bangho_AERO7 | Bangho_AERO7 |
+| Barel | Base_7_2_Quad | Base_7_2_Quad | Cavion Base 7.2 Quad |
 | Barel | Cavion Solid 4.5 | Cavion_Solid_4_5 | Cavion_Solid_4_5 |
+| Barel | WP-N1 | WP1-N | WP1-N |
 | Barnes and Noble | HD | hummingbird | BNTV400 |
 | Barnes and Noble | HD+ | ovation | BNTV600 |
 | Barnes and Noble | NOOK\xc2\xae HD | hummingbird | BNTV400 |
@@ -2293,6 +2299,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Click | Tab 7" | I7043G | I7043G |
 | ClickN Kids | ClickN Kids | g04e | CK07T |
 | Clicktabds | F19 | F19 | F19 |
+| CloudFone | CloudFone Excite Prime 2 | Excite_Prime_2 | Excite Prime 2 |
 | CloudFone | CloudFone Next Infinity Plus | Next_Infinity_Plus | Next Infinity Plus |
 | CloudFone | CloudFone Next Infinity Pro | Next_Infinity_Pro | Next Infinity Pro |
 | CloudFone | CloudFone Thrill Boost 3 | Thrill_Boost_3 | Thrill Boost 3 |
@@ -2789,6 +2796,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Danew | konnect 601 | Konnect_601 | Konnect_601 |
 | Datalogic | Datalogic MEMOR 10 | dl35 | MEMOR 10 |
 | Datsun | D5000 | D5000 | D5000 |
+| Datsun | D6000 | D6000 | D6000 |
 | Datsun | Datsun_D5500 | D5500 | DATSUN_D5500 |
 | Ddm | ANDY 5EI | AM5E3I047 | ANDY 5EI |
 | Dell |  | Dell_Grappa | Dell Aero |
@@ -2850,6 +2858,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Dialog Blaze | 5701A | 5701A | 5701A |
 | Dialog Blaze | M50E-1A | M50E-1A | M50E-1A |
 | Diamond | Luxuary-X | Luxuary-X | Luxuary-X |
+| Diamond | PSPCL30A0 | PSPCL30A0 | PSPCL30A0 |
 | DigiLand | Compumax Blue | mid1016_ma | Compumax Blue |
 | DigiLand | CompumaxBlue | mid1024_e | Compumax_Blue_6030-805-0001 |
 | DigiLand | DL1001 | DL1001 | DL1001 |
@@ -2873,6 +2882,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DigiLand | NBDVDTAB9 | NBDVDTAB9 | NBDVDTAB9 |
 | DigiLand | NS-P16AT08 | mid8005 | NS-P16AT08 |
 | DigiLand | NS-P16AT785HD | MID7802RA | NS-P16AT785HD |
+| DigiLand | TP1_N | TP1_N | TP1_N |
 | Digicel | GO Onyx | GO_Onyx | GO Onyx |
 | Digicom | Digicom_A7_LTE | Digicom_A7_LTE | Digicom_A7_LTE |
 | Digicom | Digicom_DTOK | Digicom_DTOK | Digicom DTOK |
@@ -3224,6 +3234,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Emtec | Gaming Android Gem Box | F500 | Gem Box F500 |
 | Energizer | EnergyE500 | EnergyE500 | EnergyE500 |
 | Energizer | EnergyE500S_EU | EnergyE500S_EU | EnergyE500S_EU |
+| Energizer | EnergyE500S_US | EnergyE500S_US | EnergyE500S_US |
 | Energizer | H550S | HARDCASEH550S | HARDCASEH550S |
 | Energizer | HARDCASEH500S | HARDCASEH500S | HARDCASEH500S |
 | Energizer | PowerMaxP490 | PowerMaxP490 | PowerMaxP490 |
@@ -3438,6 +3449,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Figo | ATRIUM II F55L2 | F55L2 | ATRIUM II F55L2 |
 | Figo | CENTRIC S50G | S50G | CENTRIC S50G |
 | Figo | M50L | M50L | M50L |
+| Figo | Ultra J8 | UltraJ8 | UltraJ8 |
 | Filih | FX4423 | FX4423 | FX4423 |
 | Finggo | FWSP-S1000 | FWSP-S1000-HW | FWSP-S1000 |
 | Finggo | FWTA-T1000 | FWTA-T1000 | FWTA-T1000 |
@@ -5734,6 +5746,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hotwav | Symbol M1Plus | Symbol_M1_Plus | Symbol M1 Plus |
 | Hotwav | Symbol X | Symbol_X | Symbol X |
 | How | 1001-G | 1001-G | 1001-G |
+| How | 1001_G | 1001-G_Go | 1001-G Go |
 | How | 705-G | 705-G | 705-G |
 | How | 705-G Go | 705-G_Go | 705-G Go |
 | How | HT-704 | HT704 | HT-704 |
@@ -7282,6 +7295,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Infinix | Smart 2 | Infinix-X5515 | Infinix X5515 |
 | Infinix | Smart 2 | Infinix-X5515F | Infinix X5515F |
 | Infinix | Smart 2 | Infinix-X5515I | Infinix X5515I |
+| Infinix | Smart 2 HD | Infinix-X609 | Infinix X609 |
+| Infinix | Smart 2 HD | Infinix-X609B | Infinix X609B |
 | Infinix | Smart 2 Pro | Infinix-X5514 | Infinix X5514D |
 | Infinix | X405 | up09_infinix_x405_gms | Infinix X405 |
 | Infinix | X505 | X505 | Infinix X505 |
@@ -7687,7 +7702,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Itel | it1702 | itel_it1702 | itel it1702 |
 | Itel | it1703 | itel_it1703 | itel it1703 |
 | Itel | itel A11 | itel_A11 | itel A11 |
+| Itel | itel A14 | itel-A14 | itel A14 |
+| Itel | itel A16 | itel-A16 | itel A16 |
 | Itel | itel A20 | itel-A20 | itel A20 |
+| Itel | itel A23 | itel-A23 | itel A23 |
 | Itel | itel A31 | itel_A31 | itel A31 |
 | Itel | itel A40 | itel-A40 | itel A40 |
 | Itel | itel A41 | itel_A41 | itel A41 |
@@ -10601,10 +10619,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Meizu | 15 | 15 | 15 |
 | Meizu | 15 Lite | 15Lite | 15 Lite |
 | Meizu | 15 Plus | 15Plus | 15 Plus |
+| Meizu | 16 X | 16X | 16 X |
 | Meizu | 16th | 16th | 16th |
 | Meizu | 16th Plus | 16thPlus | 16th Plus |
 | Meizu | E3 | MeizuE3 | MEIZU E3 |
 | Meizu | M15 | M15 | M15 |
+| Meizu | M1813 | M1813 | M1813 |
+| Meizu | M1816 | M1816 | M1816 |
 | Meizu | M6 | meizu_M6 | M6 |
 | Meizu | M6 | meizu_M6 | MEIZU M6 |
 | Meizu | M6 Note | M6Note | M6 Note |
@@ -10926,6 +10947,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Mobell | NOVA P3 | NOVA_P3 | NOVA P3 |
 | Mobell | S40 | S40 | S40 |
 | Mobell | S41 | S41 | S41 |
+| Mobell | S51 | S51 | S51 |
 | Mobell | S60 | mobell_S60 | S60 |
 | Mobicell | 4U | 4U | 4U |
 | Mobicell | ARC | ARC | ARC |
@@ -13551,6 +13573,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Reeder | P10 | P10 | P10 |
 | Reeder | P10S | P10S | P10S |
 | Reeder | P10SE | P10SE | P10SE |
+| Reeder | P12 Curve | P12Curve | P12Curve |
 | Reeder | P13_Black | P13_Black | P13_Black |
 | Reeder | P9C | P9C | P9C |
 | Reeder | T8 | reeder_T8 | reeder_T8 |
@@ -13559,6 +13582,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Reeder | reeder M7 | reeder_M7_Go | reeder_M7_Go |
 | Reeder | reeder M8 Plus | reeder_M8_Plus | reeder_M8 Plus |
 | Reeder | reeder P12 | P12 | P12 |
+| Reeder | reeder P12S | P12S | P12S |
 | Rego | Chocolate | chocolate | Rego |
 | Reliance | FL7008 | FL7008 | FL7008 |
 | Reliance | LS-4008 | LS-4008 | LS-4008 |
@@ -16091,6 +16115,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sico | PLUS2 | Plus2 | Plus2 |
 | Sico | PLUS2 4G | Plus2_4G | Plus2 4G |
 | Sico | Plus3_4G | Plus3_4G | Plus3_4G |
+| Sico | SICO Mega2 | sp9832a_2h11 | Sico Mega2 |
+| Sico | Sico Express 3 | SICO_Express3 | Express3 |
+| Sico | Sico Sapphire | Sapphire | Sapphire |
 | Sico | Sico Topaz | Topaz | SICO Topaz |
 | Sico SmartPhone | SSR1-5-8M | GBC_bravo | SSR1-5-8M |
 | Sico SmartPhone | SSR1-5-8M | GBC_bravo | sico pro |
@@ -16110,6 +16137,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Singtech | Q3 | Q3 | Q3 |
 | Singtech | Q7 | Q7 | Q7 |
 | Singtech | S2 Pro | S2_Pro | S2 Pro |
+| Singtech | Z500 | Z500 | Z500 |
 | Singtech | i-Tab Mini 3 | iTab | i-Tab Mini 3 |
 | Siragon | SP-5000 | SP-5000 | Siragon SP-5000 |
 | Sirin | LABS SOLARIN | solarin | SOLARIN |
@@ -16128,9 +16156,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sky Devices | Fuego 4.0T | Fuego_4_0T_EC | Fuego 4.0T |
 | Sky Devices | PLATINUM 4.0 | Platinum_40 | Platinum 4.0 |
 | Sky Devices | PLATINUM 4.0 | Platinum_4_0 | Platinum 4.0 |
+| Sky Devices | PLATINUM 4.0 | Platinum_4_0_CD | Platinum 4.0 |
 | Sky Devices | PLATINUM 4.0+ | Platinum_4_0Plus | Platinum_4_0Plus |
 | Sky Devices | PLATINUM 5.0M | Platinum_5_0M | Platinum_5.0M |
 | Sky Devices | PLATINUM A5 | Platinum_A5 | Platinum_A5 |
+| Sky Devices | PLATINUM A55 | Platinum_A55 | Platinum_A55 |
 | Sky Devices | PLATINUM A57 | Platinum_A57_OP | Platinum A57 |
 | Sky Devices | PLATINUM B5 | Platinum_B5 | Platinum_B5 |
 | Sky Devices | PLATINUM M4 | Platinum_M4_SV | Platinum M4 |
@@ -18031,6 +18061,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | CAMON i 2 | TECNO-ID5a | TECNO ID5a |
 | Tecno | CAMON i 2X | TECNO-ID5b | TECNO ID5b |
 | Tecno | CAMON i2 | TECNO-ID5 | TECNO ID5 |
+| Tecno | CAMON iAIR 2+ | TECNO-ID3k | TECNO ID3k |
 | Tecno | CAMON iCLICK 2 | TECNO-ID6 | TECNO ID6 |
 | Tecno | CAMON iClick | TECNO-IN6 | TECNO IN6 |
 | Tecno | CAMON iSky | TECNO-IN2 | TECNO IN2 |
@@ -18240,6 +18271,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Thomson | Friendly TH101 | Friendly_TH101 | Friendly_TH101 |
 | Thomson | PRIMO7 Tablet | PRIMO7 | PRIMO7 |
 | Thomson | PRIMO8 Tablet | AMLMY8306P | PRIMO8 |
+| Thomson | TCL  Percee TV | tcl_eu | BPL TV |
 | Thomson | TCL  Percee TV | tcl_eu | MICROMAX TV |
 | Thomson | TCL  Percee TV | tcl_eu | PANASONIC TV |
 | Thomson | TCL  Percee TV | tcl_eu | Percee TV |
@@ -18434,6 +18466,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ulefone | S8_Pro | S8_pro1 | S8_Pro |
 | Ulefone | S9_Pro | S9_Pro | S9_Pro |
 | Ulefone | T1 | Ulefone_T1 | T1 |
+| Ulefone | Ulefone_S1 | Ulefone_S1 | Ulefone_S1 |
 | Ulefone | Ulefone_S7 | Ulefone_S7 | Ulefone S7 |
 | Ulefone | Ulefone_X | Ulefone_X | Ulefone_X |
 | Umax | UMAX | visionbook_P55_LTE | visionbook P55 LTE |
