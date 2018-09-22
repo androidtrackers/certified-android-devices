@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 21.09.2018
+Last sync is 22.09.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -369,10 +369,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Alcor | Alcor | Zest_Q108I | Zest_Q108I |
 | Alcor | Alcor | Zest_Q708I | Zest_Q708I |
 | Aligator | ALIGATOR S5070 | ALIGATOR_S5070 | ALIGATOR S5070 |
+| Aligator | RX460 | RX460 | RX460 |
 | Aligator | RX700 | RX700 | RX700 |
 | Aligator | S5065 | ALIGATORS5065 | ALIGATOR S5065 |
 | AllCall | AllCall_Madrid | AllCall_Madrid | AllCall_Madrid |
 | AllCall | AllCall_S1 | AllCall_S1 | AllCall_S1 |
+| AllCall | AllCall_S1_X | AllCall_S1_X | AllCall_S1_X |
 | AllCall | MIX2 | MIX2 | MIX2 |
 | AllCall | Tab_1_3G | Tab_1_3G | Tab_1_3G |
 | AllCall | Tab_2_3G | Tab_2_3G | Tab_2_3G |
@@ -2222,6 +2224,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Cherry Mobile | Flare X | Flare_X | Flare_X_V2 |
 | Cherry Mobile | Flare Y3 | FlareY3 | Flare_Y3 |
 | Cherry Mobile | Flare Y3 mini | Flare_Y3_mini | Flare Y3 mini |
+| Cherry Mobile | Flare Y6 | Flare_Y6 | Flare Y6 |
 | Cherry Mobile | Flare_J3_Lite | Flare_J3_Lite | Flare_J3_Lite |
 | Cherry Mobile | Flare_S6_Lite | Flare_S6_Lite | Flare_S6_Lite |
 | Cherry Mobile | Flare_S7_Prime | Flare_S7_Prime | Flare_S7_Prime |
@@ -3166,6 +3169,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | EXO S.A. | wave-i007w | wave-i007w | wave-i007w |
 | Echo Mobiles | ECHO_HOLI | HOLI | ECHO_HOLI |
 | Echo Mobiles | FEELING | FEELING | FEELING |
+| Echo Mobiles | FUSION | ECHO_FUSION | ECHO_FUSION |
 | Echo Mobiles | HORIZON | HORIZON | HORIZON |
 | Echo Mobiles | HORIZON LITE | ECHO_HORIZON_LITE | ECHO_HORIZON_LITE |
 | Echo Mobiles | LOOK | LOOK | LOOK |
@@ -7158,6 +7162,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hyundai | L502 | Hyundai_L502 | L502 |
 | Hyundai | L575 | L575 | L575 |
 | Hyundai | Seoul 9 | Seoul_9 | Seoul 9 |
+| Hyundai | Seoul X | Seoul_X | Seoul X |
 | Hyundai | Seoul_S8 | Seoul_S8 | Seoul S8 |
 | Hyundai | Ultra Active | Ultra_Active | Ultra Active |
 | Hyundai | Ultra Charm | Ultra_Charm | Ultra Charm |
@@ -7235,6 +7240,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Imi Tech | M88 | M88 | M88 |
 | Impecca | ET7050D | ET7050D | ET7050D |
 | Inco | Bloom4 | Bloom4 | Bloom4 |
+| Inco | INCO | HORIZON | HORIZON |
 | Inet-Tablet | D711HC_PG | D711HC_PG | D711HC_PG |
 | Inet-Tablet | D7911L3BC_OGS | D7911L3BC_OGS | D7911L3BC_OGS |
 | Infinity | 10.1-v2 | Infinity-101-v2 | Infinity-10.1-v2 |
@@ -13322,6 +13328,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Professional Mobile | Pro V5 | Pro_V5 | Pro V5 |
 | Proline | H10885M | H10885M | H10885M |
 | Proline | H7835M | H7835M | H7835M |
+| Proline | H7885M | H7885M | H7885M |
 | Proline | Proline FalconXL | Proline_FalconXL | Proline_FalconXL |
 | Proscan | PLT1065G | PLT1065G | PLT1065G |
 | Proscan | PLT1077G(1GB/8GB) | PLT1077G | PLT1077G |
@@ -13859,6 +13866,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy A5(2017) | a5y17ltektt | SM-A520K |
 | Samsung | Galaxy A5(2017) | a5y17ltelgt | SM-A520L |
 | Samsung | Galaxy A5(2017) | a5y17lteskt | SM-A520S |
+| Samsung | Galaxy A6 | a6elteatt | SM-A600A |
 | Samsung | Galaxy A6 | a6eltespr | SM-A600P |
 | Samsung | Galaxy A6 | a6lte | SM-A600F |
 | Samsung | Galaxy A6 | a6lte | SM-A600FN |
@@ -15380,6 +15388,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A 9.7 | gt5note10wifi | SM-P550 |
 | Samsung | Galaxy Tab A 9.7 | gt5note10wifichn | SM-P550 |
 | Samsung | Galaxy Tab A Lite | gtasliteltespr | SM-T387P |
+| Samsung | Galaxy Tab A Lite | gtasliteltetmo | SM-T387T |
 | Samsung | Galaxy Tab A S 8.0 | gt58ltebmc | SM-T357W |
 | Samsung | Galaxy Tab A(10.5) | gta2xllte | SM-T597 |
 | Samsung | Galaxy Tab A(10.5) | gta2xlltekx | SM-T595N |
@@ -18016,6 +18025,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tambo | TA-3 | TA-3 | TA-3 |
 | Tambo | TA-4 | TA-4 | TA-4 |
 | Tanoshi | TTBKB10-01 | TTBKB10-01 | Tanoshi 2-in-1 |
+| Tech 4u | Fire | Fire | Fire |
 | Tech 4u | Force | t592_otd_tech_4u_we | Force |
 | Tech 4u | I8 | I8 | I8 |
 | Tech 4u | Prix | Prix | Prix |
@@ -18067,6 +18077,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | CAMON iSky | TECNO-IN2 | TECNO IN2 |
 | Tecno | CAMON iSky2 | TECNO-IN1-Pro | TECNO IN1 Pro |
 | Tecno | COMAN CM | TECNO-CA6 | TECNO CA6S |
+| Tecno | Camon C9 | TECNO-C9 | TECNO-C9 |
 | Tecno | Camon CX | TECNO-CX | TECNO Camon CX |
 | Tecno | Camon CX Air | TECNO-CX-Air | TECNO CX Air |
 | Tecno | Camon CXS | TECNO-CX | TECNO Camon CXS |
@@ -18711,8 +18722,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vgo Tel | Venture V8 | VentureV8 | Venture V8 |
 | Vgo Tel | VentureV10 | VentureV10 | VentureV10 |
 | Vgo Tel | i Smart | i_Smart | i_Smart |
+| Vida | V401 | VIDA_V401 | VIDA-V401 |
 | Vida | VIDA - i512 | i512 | VIDA_i512 |
 | Vida | VIDA_i450 | VIDA_i450 | VIDA_i450 |
+| Vida | i401 | VIDA-i401 | VIDA-i401 |
 | Viettel | V8802 | V8802 | V8802 |
 | ViewSonic |  | ViewPad_IR10Q | IR10Q |
 | ViewSonic |  | ViewPad_IR8Q | IR8Q |
@@ -19086,7 +19099,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Welgate | WA-U420D | WA-U420D | WA-U420D |
 | Wenu | Kate | Wenu | Kate |
 | Wexler | WLT710M | WLT710M | WLT710M |
+| Wieppo | Wieppo E1 | Wieppo_E1 | Wieppo E1 |
+| Wieppo | Wieppo S5 | Wieppo_S5 | Wieppo S5 |
 | Wieppo | Wieppo S6 | t596_jw_wieppo | Wieppo S6 |
+| Wieppo | Wieppo S8 | Wieppo_S8 | Wieppo S8 |
 | Wigor | V2 | V2 | V2 |
 | Wigor | V3 | V3 | V3 |
 | Wiko | B-KOOL | V2502AN01D | B-KOOL |
@@ -20825,6 +20841,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ziox | Duopix F9 Pro | Duopix_F9_Pro | Duopix F9 Pro |
 | Ziox | Duopix R1 | Duopix_R1 | Duopix R1 |
 | Zoji | Z9 | Z9 | Z9 |
+| Zonda | AWM533 | AWM533 | AWM533 |
 | Zopo | L63 | INHOh_L63 | L63 |
 | Zopo | P5000 | P5000 | P5000 |
 | Zopo | PRO1 | Benten_PRO1 | PRO1 |
