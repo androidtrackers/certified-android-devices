@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 22.09.2018
+Last sync is 23.09.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9511,6 +9511,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lava | iris80 | iris80 | iris80 |
 | Lava | iris870 | iris870 | iris870 |
 | Lava | iris88_go | iris88_go | iris88_go |
+| Lava | iris88_lite | iris88_lite | iris88_lite |
 | Lazer | MD1005 Tablet | MD1005 | MD1005 |
 | Lazer | MID9526CM | MID9526CM | S952 |
 | Lazer | MW-7615P | MW-7615P | MW-7615P |
