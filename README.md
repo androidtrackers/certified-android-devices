@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 23.09.2018
+Last sync is 24.09.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -958,6 +958,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Aspera | JAZZ | Jazz | Jazz |
 | Astak | NEOS | Wenu | NEOS |
 | Astro | Genesis_S8 | Astro_Genesis_S8 | Genesis_S8 |
+| Astro | Nova_Phab_M9 | Nova_Phab_M9 | Nova_Phab_M9 |
 | Astro Queo | A712 | A712 | A712 |
 | AstroQueo | polaris_wifionly | polaris-wifionly | A912 |
 | Asus |  | EP71 | ME171 |
@@ -12076,6 +12077,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | OTOT | B10 | B10 | B10 |
 | OTOT | E1 | EOS | OTOT_E1 |
 | OTOT | H10 | H10 | H10 |
+| OTOT | PS8 | PS8 | PS8 |
 | OTOT | S7 | S7 | S7 |
 | OTOT | S8 | S8 | S8 |
 | OTOT | V350 | V350 | V350 |
@@ -16191,6 +16193,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Skyworth | Skyworth | grape | HPA02 |
 | Skyworth | South Africa | open_fhd_sa | open_fhd |
 | Skyworth | South America | globe_sa | globe |
+| Smadl | SMADL | Matri2 | Matri2 |
 | Smailo | Smailo 2GO | Smailo_2GO | Smailo_2GO |
 | Smart | Advance Pro | Advance_Pro | Advance Pro |
 | Smart | Coral 4 | Coral_4 | Coral 4 |
