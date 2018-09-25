@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 24.09.2018
+Last sync is 25.09.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -340,6 +340,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Advance | Pr5747 | Pr5747 | Pr5747 |
 | Advance | Pr6146 | Pr6146 | Pr6146 |
 | Advance | Pr6150 | Pr6150 | Pr6150 |
+| Advance | Tr4986 | Tablet_adv_v1 | ADVANCE |
 | Advantage | I101MTK | I101MTK | I101MTK |
 | Aelion | i8 | Aelion_i8 | i8 |
 | Affix | T737 | AFFIX_T737 | AFFIX T737 |
@@ -544,6 +545,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Altice | SX41 | HS6737MT | SX41 |
 | Altice | Staractive | STARACTIVE | STARACTIVE |
 | Altice | T10 | T10 | T10 |
+| Altron | GI-530 | GI-530 | GI-530 |
 | Amgoo | AM350 | AM350 | AM350 |
 | Amgoo | AM402 | AM402 | AM402 |
 | Amgoo | AM410 | AM410 | AM410 |
@@ -2329,6 +2331,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | CloudMinds | A1-901 | A1-901 | A1-901 |
 | Clout | X425 Shavit | X425_Shavit | X425 Shavit |
 | Clout | X428 Astute | X428_Astute | X428 Astute |
+| Cobalt | SM5 | Cobalt_SM_5 | Cobalt_SM_5 |
+| Cobalt | SM55 | Cobalt_SM_55 | Cobalt_SM_55 |
+| Cobalt | SM6 | Cobalt_SM_6 | Cobalt_SM_6 |
 | Code | CR4900 | cr4900 | CR4900 |
 | CoinComputers | TF10EA2 | TF10EA2_5 | TF10EA2 |
 | ColorsMobile | P45 | Colors_P45 | Colors P45 |
@@ -2669,6 +2674,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Crosscall | TREKKER-M1 CORE | HS8909QC | TREKKER-M1 CORE |
 | Crosscall | Trekker- M1 | HS8916QC | Trekker-M1 |
 | Cspire | FT7 | FT7_tw | Android Tablet FT7 |
+| Cubot | CUBOT CHEETAH 2 | CUBOT_CHEETAH_2 | CUBOT CHEETAH 2 |
 | Cubot | CUBOT H3 | CUBOT_H3 | CUBOT H3 |
 | Cubot | CUBOT MAGIC | CUBOT_MAGIC | CUBOT MAGIC |
 | Cubot | CUBOT MAGIC | CUBOT_R9 | CUBOT R9 |
@@ -2712,6 +2718,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DEXP | DEXP Ixion X150 | Ixion_X150 | Ixion X150 |
 | DEXP | DEXP Ixion_ES1050 | ES1050 | DEXP_ES1050 |
 | DEXP | DEXP P170 | P170 | P170 |
+| DEXP | DEXP S110 | S110 | S110 |
 | DEXP | DEXP Ursus N169 | N169 | N169 |
 | DEXP | DEXP Ursus P310 | P310 | P310 |
 | DEXP | DEXP Ursus S169 | S169 | S169 |
@@ -2768,6 +2775,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DL | Mobi Tab | Tablet_DL_2810 | Tablet_DL_2810 |
 | DL | Mobi Tab | Tablet_DL_2811 | Tablet_DL_2811 |
 | DL | Sabich\xc3\xb5es | Tablet_DL_3722 | Tablet_DL_3722 |
+| DL | Smartphone DL Horizon Selfie | DL_Horizon_Selfie | DL_Horizon_Selfie |
 | DL | TabF\xc3\xa1cil | Tablet_DL_2820 | Tablet_DL_2820 |
 | DL | TabKids Plus | TabKids_Plus | Tablet DL 3411 |
 | DL | TabPhone 710 pro | Tablet_DL_3421 | Tablet DL 3421 |
@@ -3183,6 +3191,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Edcon | VERSSED platinum vp.2.1 | VERSSEDvp2-1 | VERSSED vp2.1 |
 | Edcon | Verssed Platinum VP3.0 | VERSSED_Vp3 | VERSSED vp3 |
 | Ekotek | Sonata | Sonata | Sonata |
+| Eks Mobility | S45U | S45U | EKS S45U |
+| Eks Mobility | S5LS | S5LS | S5LS |
+| Eks Mobility | S5US | S5US | S5US |
 | Eks Mobility | X4U+ | X4UPlus | X4UPlus |
 | Electroland Ghana | NASCO_Allure | NASCO_Allure | NASCO_Allure |
 | Element | USA & CANADA | Tiger838 | TU43GDX |
@@ -5060,6 +5071,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Helio | S10 | S10 | S10 |
 | Helio | S2 | WBL7519SY | S2 |
 | Helio | S25 | HelioS25 | S25 |
+| Hercls | HERCLS A15 | A15 | A15 |
 | Hercls | HERCLS L925 | L925 | L925 |
 | HighScreen | Bay | Bay | Bay |
 | HighScreen | Easy Power | Easy-Power | Easy-Power |
@@ -11571,6 +11583,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | MyPhone (PL) | myPhone | Q_Smart_BE | Q_Smart_BE |
 | MyPhone (PL) | myPhone C-Smart Glam | C-Smart_Glam_JMP | C-Smart_Glam |
 | MyPhone (PL) | myPhone C-Smart IIIS | C_Smart_IIIS | C-Smart IIIS |
+| MyPhone (PL) | myPhone City | myPhone_City | City |
 | MyPhone (PL) | myPhone Fun 5 | FUN5_OPM | FUN5 |
 | MyPhone (PL) | myPhone HAMMER ENERGY | HAMMER_ENERGY_PLAY | HAMMER_ENERGY |
 | MyPhone (PL) | myPhone Hammer Energy | Hammer_Energy | Hammer Energy |
@@ -12673,6 +12686,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Panasonic | Panasonic P90 3G | Panasonic_P90_3G | Panasonic P90 3G |
 | Panasonic | Panasonic P95 | P95 | Panasonic P95 |
 | Panasonic | Panasonic T70 | T70 | Panasonic T70 |
+| Panasonic | RSE1708 | RSE1708 | RSE1708 |
 | Panasonic | SDU | SDU | 9 inch SDU |
 | Panasonic | SDU | SDU | SDU |
 | Panasonic | SM17 | SM17 | Smart Monitor 17 |
@@ -13002,12 +13016,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Polaroid | P900 | P900 | P900/Q900 |
 | Polaroid | P901 | P901 | P901 |
 | Polaroid | PMID7102DC | PMID7102DC | PMID7102DC |
+| Polaroid | POCMTV000 | POCMTV000 | POCMTV000 |
+| Polaroid | POMDTB002 | POMDTB002 | POMDTB002 |
 | Polaroid | PRO5023PW | up06_h25_polaroid | PRO5023PW |
 | Polaroid | PRO5043 | PRO5043 | PRO5043 |
 | Polaroid | PRO5044PEE01 | Polaroid_PRO5044PEE01 | PRO5044PEE01 |
 | Polaroid | PRO5544PEE01 | PRO5544PEE01 | PRO5544PEE01 |
 | Polaroid | PRO5548PR010.191 | PRO5548PR010 | PRO5548PR010 |
 | Polaroid | PRO5584PHE01 | PRO5584PHE01 | PRO5584PHE01 |
+| Polaroid | PRO6048 | PRO6048 | PRO6048PR001 |
 | Polaroid | PSPCK20NA | PSPCK20NA | PSPCK20NA |
 | Polaroid | PSPCK21NA | PSPCK21NA | PSPCK21NA |
 | Polaroid | PSPCL20A0 | PSPCL20A0 | PSPCL20A0 |
@@ -13586,6 +13603,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Reeder | P12 Curve | P12Curve | P12Curve |
 | Reeder | P13_Black | P13_Black | P13_Black |
 | Reeder | P9C | P9C | P9C |
+| Reeder | Preo P3 | Preo_P3 | Preo P3 |
 | Reeder | T8 | reeder_T8 | reeder_T8 |
 | Reeder | Turkcell_T_Tablet | Turkcell_T_Tablet | Turkcell_T_Tablet |
 | Reeder | reeder M10 Plus | reeder_M10_Plus | reeder_M10 Plus |
@@ -13611,6 +13629,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Rinno | R520 | R520 | R520 |
 | Rinno | R550 | R550 | R550 |
 | Rockcel | Quartzo UP | Quartzo_UP | Quartzo UP |
+| Rockcel | Quartzo Up | Quartzo_up | Quartzo_up |
+| Rockcel | Quartzo_4G | Quartzo_4G | Quartzo_4G |
 | Royaltek | FGAD | FGAD | FGAD |
 | Ruggear | CP250 | cp250_gts | cp250_gts |
 | Ruggear | DEWALT MD501 | md501 | DeWalt MD501 |
@@ -16123,8 +16143,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Shenzhen Jiuzhou | DTP9710 | DTP9710 | DTP9710 |
 | SiAL | Bic camera | Si01BB | Si01BB |
 | SiAL | Si01BE | Si01BE | Si01BE |
+| Sico | Diamond 2 | Diamond_2 | Diamond 2 |
 | Sico | Nile X | Nile_X | Nile X |
 | Sico | PLUS2 | Plus2 | Plus2 |
+| Sico | PLUS2 | Plus2 | SICO_Plus2 |
 | Sico | PLUS2 4G | Plus2_4G | Plus2 4G |
 | Sico | Plus3_4G | Plus3_4G | Plus3_4G |
 | Sico | SICO Mega2 | sp9832a_2h11 | Sico Mega2 |
@@ -16176,6 +16198,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sky Devices | PLATINUM A57 | Platinum_A57_OP | Platinum A57 |
 | Sky Devices | PLATINUM B5 | Platinum_B5 | Platinum_B5 |
 | Sky Devices | PLATINUM M4 | Platinum_M4_SV | Platinum M4 |
+| Sky Devices | PLATINUM VIEW | PLATINUMVIEW | PLATINUMVIEW |
 | Sky Devices | Platinum M5 | Platinum_M5 | Platinum_M5 |
 | Sky Devices | SKY 5.0LM | SKY_50LM | SKY 5.0LM |
 | Sky Devices | SKY 5.0Pro II | SKY_50Pro_II | SKY 5.0Pro II |
@@ -19018,6 +19041,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vulcan | TA10TA2 | TA10TA2_1 | TA10TA2 |
 | Vulcan | TA71CA1 | TA71CA1 | TA71CA1 |
 | Vulcan | TA71CA2 | TA71CA2_1 | TA71CA2 |
+| Vulcan | TEMPO R14 | VR5014 | VR5014 |
 | Vulcan | TEMPO S11 | VS4011 | VS4011 |
 | Vulcan | TEMPO S12 | VS5012 | VS5012 |
 | Vulcan | TEMPO S13 | VS5513 | VS5513 |
