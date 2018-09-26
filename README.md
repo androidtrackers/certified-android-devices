@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 25.09.2018
+Last sync is 26.09.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -371,6 +371,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Alcor | Alcor | Zest_Q708I | Zest_Q708I |
 | Aligator | ALIGATOR S5070 | ALIGATOR_S5070 | ALIGATOR S5070 |
 | Aligator | RX460 | RX460 | RX460 |
+| Aligator | RX600 | RX600 | RX600 |
 | Aligator | RX700 | RX700 | RX700 |
 | Aligator | S5065 | ALIGATORS5065 | ALIGATOR S5065 |
 | AllCall | AllCall_Madrid | AllCall_Madrid | AllCall_Madrid |
@@ -860,6 +861,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Archos | Archos Core 55P | ac55crp | Archos Core 55P |
 | Archos | Archos Core 55S | ac55crs | Archos Core 55S |
 | Archos | Archos Core 57S | ac57crs | Archos Core 57S |
+| Archos | Archos Core 57S Ultra | ac57crsultra | Archos Core 57S Ultra |
 | Archos | Archos Core 60S | ac60crs | Archos Core 60S |
 | Archos | Archos Core 70 3G | ac70cr3g | Archos Core 70 3G |
 | Archos | Archos Core 70 3G | ac70cr3gv2 | Archos Core 70 3G |
@@ -1370,6 +1372,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Avaya | Vantage | K175 | K175 |
 | Avaya | Vantage | Vantage | Avaya Vantage |
 | Avaya | Vantage | Vantage | K165 |
+| Avion | m2 | Avion_M2 | M2 |
 | Avoca | STB7012 | STB7012 | STB7012 |
 | Avoca | STB7013 | AVOCA | STB7013 |
 | Avoca | STB8098 | STB8098 | STB8098 |
@@ -1682,6 +1685,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | BlackBerry | BlackBerry KEY2 | bbf100 | BBF100-6 |
 | BlackBerry | BlackBerry KEY2 | bbf100 | BBF100-8 |
 | BlackBerry | BlackBerry KEY2 | bbf100 | BBF100-9 |
+| BlackBerry | BlackBerry KEY2 LE | bbe100 | BBE100-1 |
+| BlackBerry | BlackBerry KEY2 LE | bbe100 | BBE100-2 |
 | BlackBerry | BlackBerry KEY2 LE | bbe100 | BBE100-4 |
 | BlackBerry | BlackBerry KEY2 LE | bbe100 | BBE100-5 |
 | BlackBerry | BlackBerry KEYone | bbb100 | BBB100-7 |
@@ -2847,6 +2852,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Dell | Venue 8 | yellowtail | Venue 8 HSPA+ |
 | Delm | D1018 | D1018 | D1018 |
 | Delm | D718 | D718 | D718 |
+| Denali | DT0702W08 | DT0702W08 | DT0702W08 |
+| Denali | DT0704K08 | DT0704K08 | DT0704K08 |
 | Denso Wave | BHT-1600 | BHT1600 | BHT1600 |
 | Denso Wave | BHT-1700BWB-A7 | BHT-1700BWB-1-A7 | BHT-1700BWB-1-A7 |
 | Denso Wave | BHT-1700QLWB-A7-P | BHT-1700QLWB-P-A7 | BHT-1700QLWB-P-A7 |
@@ -3763,6 +3770,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Fujitsu | arrows M04 PREMIUM | M04P | arrowsM04-PREMIUM |
 | Fujitsu | arrows Tab M01T | M01T | M01T |
 | Funai Electric |  | smdkv210 | ALM-001J |
+| Funai Electric | POE-SMB400-FN1 | daitou | POE-SMB400-FN1 |
 | Fusion5 | Fusion5 | Fusion5_F104B | Fusion5_F104B |
 | Fusion5 | Fusion5 | W104Plus | W104Plus |
 | Fusion5 | Fusion5_108 | Fusion5_108 | Fusion5_108 |
@@ -5668,6 +5676,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | vision2_1 | vision2_1 | vision2_1 |
 | Hiya | 5-0 | 5-0 | 5-0 |
 | Hiya | 5-0 | 5_0 | 5-0 |
+| Hiya | 5.5 | 5_5 | 5.5 |
 | Hiya | 5.5 | HIYA5_5 | 5.5 |
 | Hoffmann | X Max | X-Max | X-Max |
 | Hon Hai Precision Industry Co., Ltd. |  | EP10_wifi | PocketBook A10 |
@@ -7166,6 +7175,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hyundai | HDT-7433H | HDT-7433H | HDT-7433H |
 | Hyundai | HDT-7433X | HDT-7433X | HDT-7433X |
 | Hyundai | HT0702W08 | HT0702W08 | HT0702W08 |
+| Hyundai | HT0703W08 | HT0703W08 | HT0703W08 |
 | Hyundai | HY1-5085 | HY1_5085 | HY1-5085 |
 | Hyundai | Hyundai Koral 10W | HT1002W16 | HT1002W16 |
 | Hyundai | Hyundai Koral 10X | HT1003X16 | HT1003X16 |
@@ -7682,6 +7692,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Itel | S11 Pro | itel-S11-Pro | itel S11 Pro |
 | Itel | S11X | itel-S11X | itel S11X |
 | Itel | S13 | itel-S13 | itel S13 |
+| Itel | S13 | itel-S13Pro | itel S13 Pro |
 | Itel | S21 | itel-S21 | itel S21 |
 | Itel | S31 | S31 | itel S31 |
 | Itel | S32 | itel-S32 | itel S32 |
@@ -7859,6 +7870,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | KOOLNEE | RAINBOW | RAINBOW | RAINBOW |
 | KOOOK | C600 | GBC_bravo | C600 |
 | KRIP | K5 | K5 | K5 |
+| KRIP | K6 | K6 | K6 |
 | KRIP | KRIP_K4 | KRIP_K4 | KRIP_K4 |
 | KT Tech |  | s120 | KM-S120 |
 | KT Tech |  | s200 | KM-S200 |
@@ -12676,6 +12688,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Panasonic | P9 | P9 | P9 |
 | Panasonic | P91 | P91 | P91 |
 | Panasonic | P99 | Panasonic_P99 | Panasonic P99 |
+| Panasonic | POE-SMB400-PS1 | kadoma | POE-SMB400-PS1 |
 | Panasonic | Panasonic P100 | P100 | P100 |
 | Panasonic | Panasonic P100 | P100 | Panasonic P100 |
 | Panasonic | Panasonic P101 | P101 | P101 |
@@ -12924,6 +12937,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Pioneer | XDP-100R | Fu_Zin_32 | XDP-100R |
 | Pioneer | XDP-300R | Fu_Zin2R_32 | XDP-300R |
 | Pixela | KSTB5043 | KSTB5043 | KSTB5043 |
+| Pixela | PIX-SMB400 | tennouji | PIX-SMB400 |
 | Plaisio | A2 | Turbo-X_A2 | Turbo-X_A2 |
 | Plaisio | Aqua | Aqua | Aqua |
 | Plaisio | Calltab 7\xe2\x80\x9d | Calltab7inch | Calltab7inch |
@@ -13601,6 +13615,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Reeder | P10S | P10S | P10S |
 | Reeder | P10SE | P10SE | P10SE |
 | Reeder | P12 Curve | P12Curve | P12Curve |
+| Reeder | P13 | P13 | P13 |
 | Reeder | P13_Black | P13_Black | P13_Black |
 | Reeder | P9C | P9C | P9C |
 | Reeder | Preo P3 | Preo_P3 | Preo P3 |
@@ -13639,6 +13654,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ruggear | RG730 | rg730 | RugGear RG730 |
 | Ruggear | RG740B | RG740B | RG740B |
 | Ruggear | RG760 | RG760 | RG760 |
+| Ruggear | RG910 | RG910 | RG910 |
 | Ruio | RUIO i7c Tablet | i7c | i7c |
 | Ruio | Ruio_S5Plus | Ruio_S5Plus | Ruio_S5Plus |
 | Ruio | Ruio_i7Plus | i7Plus | i7Plus |
@@ -16171,6 +16187,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Singtech | Q3 | Q3 | Q3 |
 | Singtech | Q7 | Q7 | Q7 |
 | Singtech | S2 Pro | S2_Pro | S2 Pro |
+| Singtech | SAPPHIRE H51 | H51 | H51 |
 | Singtech | Z500 | Z500 | Z500 |
 | Singtech | i-Tab Mini 3 | iTab | i-Tab Mini 3 |
 | Siragon | SP-5000 | SP-5000 | Siragon SP-5000 |
@@ -16818,6 +16835,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Starlight | I STAR PLUS | I_STAR_PLUS | I_STAR_PLUS |
 | Starlight | I_Star_Plus | I_Star_Plus | I_Star_Plus |
 | Starlight | Madrid | Madrid | Madrid |
+| Starlight | RIO STAR | RIO_STAR | RIO STAR |
 | Starlight | STAR_MIX | STAR_MIX | STAR_MIX |
 | Starlight | Safari | Safari | Safari |
 | Starlight | Star_Plus | Star_Plus | Star_Plus |
@@ -18090,6 +18108,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | C9S | TECNO-C9 | TECNO-C9S |
 | Tecno | CAMON 11 | TECNO-CF7 | TECNO CF7 |
 | Tecno | CAMON 11 | TECNO-CF7 | TECNO CF7S |
+| Tecno | CAMON C7 | TECNO-C7 | TECNO-C7 |
 | Tecno | CAMON CM | TECNO-CA6 | TECNO CA6 |
 | Tecno | CAMON I Ace | TECNO-IN1 | TECNO IN1 |
 | Tecno | CAMON X | TECNO-CA7 | TECNO CA7 |
@@ -18530,6 +18549,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Unistrong | UT30 | UT30 | UT30 |
 | United Group | KSTB6020 | KSTB6020 | KSTB6020 |
 | Unnecto | U4560 | U4560 | U4560 |
+| Uphone | SPURT R3 | SPURT_R3 | SPURT R3 |
 | Usha Shriram | RA_1_GENIUS_STAR | RA_1_GENIUS_STAR | RA_1_GENIUS_STAR |
 | Utopia | UH0342  UHTABLET10.1INCH | UH0342 | UH0342 |
 | V7 | Zyro | zyro | V7 Zyro |
