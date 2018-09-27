@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 26.09.2018
+Last sync is 27.09.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -337,6 +337,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Advance | HL5576 | HL5576 | HL5576 |
 | Advance | HL5585 | HL5585 | HL5585 |
 | Advance | HL5677 | HL5677 | HL5677 |
+| Advance | HL6256 | HL6256 | HL6256 |
 | Advance | Pr5747 | Pr5747 | Pr5747 |
 | Advance | Pr6146 | Pr6146 | Pr6146 |
 | Advance | Pr6150 | Pr6150 | Pr6150 |
@@ -1822,6 +1823,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blu | Dash XL | Dash_XL | Dash XL |
 | Blu | Dash XL | Dash_XL | Studio M5 Plus |
 | Blu | Dash_L3 | Dash_L3 | Dash L3 |
+| Blu | E100 | E_100 | E100 |
 | Blu | ENERGY  XL | BLU_ENERGY_XL | ENERGY XL |
 | Blu | ENERGY DIAMOND | BLU_ENERGY_DIAMOND | BLU ENERGY DIAMOND |
 | Blu | ENERGY DIAMOND MINI | ENERGY_DIAMOND_MINI | ENERGY_DIAMOND_MINI |
@@ -2665,6 +2667,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Covia | CP-J55a | x5090_rh_j9_covia | CP-J55a |
 | Covia | CP-J55aW | CP_J55aW | CP-J55aW |
 | Covia | CP-L45s | CP-L45s | CP-L45s |
+| Covia | CP-W5s | CP-W5s | CP-W5s |
 | Covia | g06+ | g06 | g06 |
 | Crema | CREMA0810T | crema0810t | CREMA0810T |
 | Croatian Telecom | KSTB6044 | KSTB6044 | KSTB6044 |
@@ -2868,6 +2871,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Denso Wave | BHT-1800QWBG-2-A7 | BHT-1800QWBG-2-A7 | BHT-1800QWBG-2-A7 |
 | Denso Wave | BHT-1800QWBG-3-A7 | BHT-1800QWBG-3-A7 | BHT-1800QWBG-3-A7 |
 | Denver Electronics | SDQ-55034L | SDQ-55034L | SDQ-55034L |
+| Denver Electronics | SDQ-55044L | SDQ-55044L | SDQ-55044L |
 | Denver Electronics | SDQ_52004L | SDQ_52004L | SDQ_52004L |
 | Denver Electronics | TAQ-10 | TAQ10 | TAQ-10 |
 | Denver Electronics | TAQ-102 | TAQ102 | TAQ-102 |
@@ -3202,6 +3206,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Eks Mobility | S5LS | S5LS | S5LS |
 | Eks Mobility | S5US | S5US | S5US |
 | Eks Mobility | X4U+ | X4UPlus | X4UPlus |
+| Elecost | QuadTab E10.1 | QuadTab_E101 | QuadTab E10.1 |
 | Electroland Ghana | NASCO_Allure | NASCO_Allure | NASCO_Allure |
 | Element | USA & CANADA | Tiger838 | TU43GDX |
 | Elephone | A4 | A4 | A4 |
@@ -4201,6 +4206,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Guess | Wear | glowlight | GUESS Connect |
 | HKC | A79 Tablet | EM62 | A79 |
 | HKT | eye3 | UY3-PCW | eye3 |
+| HOMTOM | C2 | C2 | C2 |
 | HOMTOM | HT70 | HT70 | HT70 |
 | HOMTOM | S16 | S16 | S16 |
 | HOMTOM | S7 | S7 | S7 |
@@ -7263,6 +7269,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Imi Tech | M88 | M88 | M88 |
 | Impecca | ET7050D | ET7050D | ET7050D |
 | Inco | Bloom4 | Bloom4 | Bloom4 |
+| Inco | Flex-3 | Flex-3 | Flex-3 |
 | Inco | INCO | HORIZON | HORIZON |
 | Inet-Tablet | D711HC_PG | D711HC_PG | D711HC_PG |
 | Inet-Tablet | D7911L3BC_OGS | D7911L3BC_OGS | D7911L3BC_OGS |
@@ -7572,6 +7579,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Invens | F1 | F1 | F1 |
 | Invens | F2 | F2 | F2 |
 | Invens | Fighter | Fighter | Fighter |
+| Inverse Net | EP172BZ | EP172BZ | EP172BZ |
 | Inverse Net | EP172PR | EP172PR | EP172PR |
 | Ipro | Jade7s | Jade7s | Jade7s |
 | Ipro | Kylin 5.0 | Kylin_50 | Kylin 5.0 |
@@ -7604,6 +7612,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Irbis | SP551 | SP551 | SP551 |
 | Irbis | SP552 | SP552 | SP552 |
 | Irbis | SP554 | SP554 | SP554 |
+| Irbis | SP571 | SP571 | SP571 |
 | Irbis | TZ150 | TZ150 | TZ150 |
 | Irbis | TZ165 | TZ165 | TZ165 |
 | Irbis | TZ177 | TZ177 | TZ177 |
@@ -7809,6 +7818,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | K-Touch | M2s | M2s | K-Touch M2s |
 | K-Touch | Pace 2 | Pace_2 | Pace 2 |
 | K-Touch | Pace 2 Lite | Pace_2_Lite | Pace 2 Lite |
+| K-Touch | TB85 | TB85 | TB85 |
 | K-Touch | Touch 2C | Touch2c | K-Touch Tou ch 2c |
 | KAAN | A1 | KAAN_A1 | KAAN_A1 |
 | KAAN | KAAN_N2 | KAAN_N2 | KAAN_N2 |
@@ -7872,6 +7882,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | KRIP | K5 | K5 | K5 |
 | KRIP | K6 | K6 | K6 |
 | KRIP | KRIP_K4 | KRIP_K4 | KRIP_K4 |
+| KRIP | KRIP_K55 | KRIP_K55 | KRIP_K55 |
 | KT Tech |  | s120 | KM-S120 |
 | KT Tech |  | s200 | KM-S200 |
 | KT Tech |  | s220 | KM-S220 |
@@ -11538,6 +11549,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Multilaser | M10A | M10A | M10A |
 | Multilaser | M10A-Lite | M10A-Lite | M10A-Lite |
 | Multilaser | M7-3G PLUS | ML-JI-M7_3G_PLUS | ML-JI-M7_3G_PLUS |
+| Multilaser | M7-3G PLUS | ML-JI21-M7-3G-PLUS | M7-3G-PLUS |
 | Multilaser | M7-3G PLUS | ML-WI-M7_3G_PLUS | ML-WI-M7_3G_PLUS |
 | Multilaser | M7-4G | ML-JI-M7-4G | ML-JI-M7-4G |
 | Multilaser | M7I-3G | M7I-3G | M7I-3G |
@@ -12103,6 +12115,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | OTOT | E1 | EOS | OTOT_E1 |
 | OTOT | H10 | H10 | H10 |
 | OTOT | PS8 | PS8 | PS8 |
+| OTOT | S11 | S11 | S11 |
 | OTOT | S7 | S7 | S7 |
 | OTOT | S8 | S8 | S8 |
 | OTOT | V350 | V350 | V350 |
@@ -13042,6 +13055,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Polaroid | PSPCK20NA | PSPCK20NA | PSPCK20NA |
 | Polaroid | PSPCK21NA | PSPCK21NA | PSPCK21NA |
 | Polaroid | PSPCL20A0 | PSPCL20A0 | PSPCL20A0 |
+| Polaroid | PSPCL30A0 | PSPCL30A0 | PSPCL30A0 |
 | Polaroid | PSPTD21NA | PSPTD21NA | PSPTD21NA |
 | Polaroid | PTAB1051-PTAB1055 | RCT6203W46 | PTAB1051_PTAB1055 |
 | Polaroid | PTAB751 | STJR76 | PTAB751 |
@@ -13604,6 +13618,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Rainbow | WIKO | s5501 | RAINBOW |
 | Ratel | Cell | Cell | CELL |
 | Rayan | AM_TAB_7_03 | AMAA703 | AMA_A703 |
+| Raylandz | PHOENIX_N1 | PHOENIX_N1 | PHOENIX N1 |
 | Razer | Forge TV | pearlyn | Forge |
 | Razer | Razer Phone | cheryl | Phone |
 | Razer | Razer phone | cheryl_ckh | Phone |
@@ -14358,10 +14373,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J2 Core | j2corelte | SM-J260Y |
 | Samsung | Galaxy J2 Prime | grandpplte | SM-G532G |
 | Samsung | Galaxy J2 Prime | grandpplte | SM-G532M |
+| Samsung | Galaxy J2 Pro | j2xlteins | SM-J210F |
 | Samsung | Galaxy J2 Pro | j2y18lte | SM-J250G |
 | Samsung | Galaxy J2 Pro | j2y18lte | SM-J250M |
 | Samsung | Galaxy J2(2016) | j2xlte | SM-J210F |
-| Samsung | Galaxy J2(2016) | j2xlteins | SM-J210F |
 | Samsung | Galaxy J3 | j3ltectc | SM-J3109 |
 | Samsung | Galaxy J3 | j3ltespr | SM-J320P |
 | Samsung | Galaxy J3 | j3popelteue | SM-J327U |
@@ -19323,6 +19338,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Woxter | Woxter_N90 | Woxter_N90 | Woxter_N90 |
 | X-TIGI | JOY7_Mate | JOY7_Mate | X_TIGI_JOY7_Mate |
 | X-TIGI | JOY7_TV | JOY7_TV | X_TIGI_JOY7_TV |
+| X-TIGI | Kids7_Pro | Kids7_Pro | Kids7 Pro |
 | X-TIGI | V18 | X_TIGI_V18 | X_TIGI_V18 |
 | X-TIGI | V21 | X-TIGI_V21 | X-TIGI_V21 |
 | X-TIGI | V3+ | X-TIGI_V3_Plus | X-TIGI_V3+ |
@@ -20998,6 +21014,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iBRIT | i2 | i2 | i2 |
 | iBRIT | iBRIT SpeedX | SpeedX | SpeedX |
 | iBall | Slide_Dazzle_3500 | Slide_Dazzle_3500 | Slide_Dazzle_3500 |
+| iBall | Slide_Elan_3x32 | Slide_Elan_3x32 | iBall_Slide_Elan_3x32 |
 | iBall | iBall | iBall_Slide_Brace_XJ | iBall Slide Brace XJ |
 | iBall | iBall | iBall_Slide_Dazzle_i7 | iBall Slide Dazzle i7 |
 | iBall | iBall Slide Gorgeo 4GL | Gorgeo_4GL | Gorgeo_4GL |
