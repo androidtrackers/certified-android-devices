@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 27.09.2018
+Last sync is 28.09.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1428,6 +1428,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | BKAV | Bphone | Bphone | Bphone B1114 |
 | BKAV | Bphone | Bphone | Bphone B1115 |
 | BKAV | Bphone | Bphone | Bphone B1116 |
+| BLECK | BE dg | BE_dg | BE_dg |
 | BLECK | BE_et | BE_et | BE_et |
 | BLECK | BE_se | BE_se | BE_se |
 | BLECK | ELEMENT | ELEMENT | ELEMENT |
@@ -2681,6 +2682,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Crosscall | TREKKER- X3 | HS8952QC | TREKKER-X3 |
 | Crosscall | TREKKER-M1 CORE | HS8909QC | TREKKER-M1 CORE |
 | Crosscall | Trekker- M1 | HS8916QC | Trekker-M1 |
+| Crosscall | Trekker- X4 | HSSDM660QC | Trekker-X4 |
 | Cspire | FT7 | FT7_tw | Android Tablet FT7 |
 | Cubot | CUBOT CHEETAH 2 | CUBOT_CHEETAH_2 | CUBOT CHEETAH 2 |
 | Cubot | CUBOT H3 | CUBOT_H3 | CUBOT H3 |
@@ -2704,6 +2706,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Cyrus | CS22 | CS22 | CS22 |
 | Cyrus | CS24 | CS24 | CS24 |
 | Cyrus | CS40 | CS40 | CS40 |
+| D-Tech | LM-01 | LM_01 | LM-01 |
 | DBM Maroc | ACCENT SURF 1000 | SURF1000 | SURF1000 |
 | DBM Maroc | Accent Speed Y2 | Speed-Y2 | Speed-Y2 |
 | DBM Maroc | Accent Speed Y3 | Speed-Y3 | Speed-Y3 |
@@ -2931,6 +2934,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Digma | DIGMA CITI 1576 3G CS1194MG | CS1194MG | CITI 1576 3G CS1194MG |
 | Digma | DIGMA CITI 1577 3G CS1195MG | CS1195MG | CITI 1577 3G CS1195MG |
 | Digma | DIGMA CITI 1578 4G CS1196ML | CS1196ML | CITI 1578 4G CS1196ML |
+| Digma | DIGMA CITI 3000 4G CS3001ML | CS3001ML | CITI 3000 4G CS3001ML |
 | Digma | DIGMA CITI 7507 4G CS7113PL | CS7113PL | CITI_7507_4G_CS7113PL |
 | Digma | DIGMA CITI 7543 3G CS7153MG | CS7153MG | CITI_7543_3G_CS7153MG |
 | Digma | DIGMA CITI 7575 3G CS7193MG | CS7193MG | CITI 7575 3G CS7193MG |
@@ -5620,7 +5624,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | SoundTab MA-327 | rk3028a | Hisense SoundTab MA-327 |
 | Hisense | T963 | HS7331CSC | Hisense T963 |
 | Hisense | TV | hisense_gx1200v | hisense_gx1200v |
-| Hisense | Trekker- X4 | HSSDM660QC | Trekker-X4 |
 | Hisense | U601S | HS7731CSP | Hisense U601S |
 | Hisense | U601S  Pro | HS7731CSP | U601S Pro |
 | Hisense | U602 | HS6580MT | HS-U602 |
@@ -8618,6 +8621,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG G6 | lucye | LG-H870I |
 | LGE | LG G6 | lucye | LG-H870S |
 | LGE | LG G6 | lucye | LG-H871 |
+| LGE | LG G6 | lucye | LG-H871S |
 | LGE | LG G6 | lucye | LG-H872 |
 | LGE | LG G6 | lucye | LG-H872PR |
 | LGE | LG G6 | lucye | LG-H873 |
@@ -8999,6 +9003,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG X charge | lv7 | LG-M322 |
 | LGE | LG X charge | lv7 | LG-M327 |
 | LGE | LG X charge | mlv7 | LG-M320 |
+| LGE | LG X charge | mlv7 | LG-US601 |
 | LGE | LG X charge | mlv7 | LM-X510(FG) |
 | LGE | LG X charge | mlv7 | LM-X510.FG |
 | LGE | LG X max | mk6m | LG-K240 |
@@ -13117,7 +13122,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Positivo | Twist Metal | S530 | Twist Metal |
 | Positivo | Twist Metal 32G | S531 | Twist Metal 32GB |
 | Positivo | Twist Mini | S430B | Twist Mini |
-| Positivo | Twist Mini | S431 | Twist Mini |
+| Positivo | Twist Mini (2018) | S431 | Twist Mini |
 | Positivo | Twist XL | S555 | Twist XL |
 | Positivo | Union US2070 | US2070 | Positivo US2070 |
 | Positivo | X400 | X400 | X400 |
@@ -14397,9 +14402,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J3 Pop | j3popelteaio | SAMSUNG-SM-J326AZ |
 | Samsung | Galaxy J3 Pop | j3popelteaio | SAMSUNG-SM-J327AZ |
 | Samsung | Galaxy J3 Pop | j3popelteatt | SAMSUNG-SM-J327A |
-| Samsung | Galaxy J3 Pop | j3popeltecan | SM-J327W |
 | Samsung | Galaxy J3 Pop | j3popeltetfntmo | SM-S337TL |
 | Samsung | Galaxy J3 Pop | j3popltetfnvzw | SM-S327VL |
+| Samsung | Galaxy J3 Prime | j3popeltecan | SM-J327W |
 | Samsung | Galaxy J3 Prime | j3popeltemtr | SM-J327T1 |
 | Samsung | Galaxy J3 Prime | j3popeltetmo | SM-J327T |
 | Samsung | Galaxy J3 Pro | j3xproltechn | SM-J3110 |
@@ -16951,6 +16956,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Symphony | V34 | V34 | V34 |
 | Symphony | V44 | V44 | V44 |
 | Symphony | V47 | V47 | V47 |
+| Symphony | V48 | V48 | V48 |
 | Symphony | V65 | V65 | V65 |
 | Symphony | V75 | V75 | V75 |
 | Symphony | V75m | V75m | V75m |
@@ -18268,6 +18274,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | i5 | TECNO-i5 | TECNO i5 |
 | Tecno | i5-Pro | TECNO-i5-Pro | TECNO i5 Pro |
 | Tecno | i7 | TECNO-i7 | TECNO i7 |
+| Teesso | X2 | X2 | X2 |
 | Teknosa | Preo P2 | Preo_P2 | Preo_P2 |
 | Tekwind | A10A | A10A | A10A |
 | Tekwind | Clide A10B | A10B | A10B |
@@ -19437,6 +19444,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Xiaomi | Mi A2 | jasmine_sprout | Mi A2 |
 | Xiaomi | Mi A2 Lite | daisy_sprout | Mi A2 Lite |
 | Xiaomi | Mi Box | once | MIBOX3 |
+| Xiaomi | Mi Laser Projector 150" | anglee | MiProjA1 |
 | Xiaomi | Mi Note | virgo | MI NOTE LTE |
 | Xiaomi | Mi Note2 | scorpio | Mi Note 2 |
 | Xiaomi | MiBOX1S | casablanca | MiBOX1S |
