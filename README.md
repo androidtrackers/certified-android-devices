@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 28.09.2018
+Last sync is 29.09.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -406,6 +406,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | AllView | E3 Sign | E3_Sign | E3_Sign |
 | AllView | E4 | E4 | E4 |
 | AllView | E4 Lite | E4_Lite | E4_Lite |
+| AllView | P10_Style | P10_Style | P10_Style |
 | AllView | P4 Pro | P4_Pro | P4_Pro |
 | AllView | P4 Quad | P4_Quad | P4_Quad |
 | AllView | P4 eMagic | P4_eMagic | P4_eMagic |
@@ -1416,6 +1417,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Azumi | KINZO A55 OLi | KINZO_A55_OLi | Azumi_KINZO_A55_OLi |
 | Azumi | KINZO A55QL | KINZO_A55_OLi_CL | Azumi_KINZO_A55_OLi |
 | Azumi | KINZO ICHI A5 QL | KINZO_ichi_A5_QL_NA | KINZO_ichi_A5_QL |
+| Azumi | Nobu A55 | NOBU_A55 | Azumi NOBU A55 |
 | Azumi | Speed 4 | Azumi_Speed_4 | Azumi Speed 4 |
 | Azumi | Speed 5 | Azumi_Speed_5B | Azumi Speed 5 |
 | Azumi | Speed 55 | Speed_55 | Speed_55 |
@@ -2207,6 +2209,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Cherry Mobile | Flare J3 | H680 | Flare_J3 |
 | Cherry Mobile | Flare J3 Plus | FlareJ3Plus | FlareJ3Plus |
 | Cherry Mobile | Flare J3 Plus | H620 | Flare_J3_Plus |
+| Cherry Mobile | Flare J6 | Flare_J6 | Flare J6 |
 | Cherry Mobile | Flare J6 mini | Flare_J6_mini | Flare_J6_mini |
 | Cherry Mobile | Flare J7 | Flare_J7 | Flare J7 |
 | Cherry Mobile | Flare Lite 3S | Flare_Lite_3S | Flare_Lite_3S |
@@ -3317,6 +3320,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ergo | B505_Unit_4G | B505_Unit_4G | B505_Unit_4G |
 | Ergo | ERGO B500 | B500 | ERGO B500 First |
 | Ergo | ERGO B501 | B501 | B501 |
+| Ergo | ERGO V551 Aura | V551_Aura | V551 Aura |
 | Ergo | ERGO_A556 | ERGO_A556 | ERGO_A556 |
 | Ergo | V540_Level | V540_Level | V540_Level |
 | Ergo | V550_Vision | V550_Vision | V550_Vision |
@@ -7073,6 +7077,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | \xe8\x8d\xa3\xe8\x80\x805X | HNKIW-Q | KIW-TL00 |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x805X | HNKIW-Q | KIW-UL00 |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x808X Max | HWARE-Q | ARE-AL00 |
+| Huawei | \xe8\x8d\xa3\xe8\x80\x808X Max | HWARE-Q | ARE-TL00 |
+| Huawei | \xe8\x8d\xa3\xe8\x80\x808X Max | HWARE-QC | ARE-AL10 |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x808\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88 | HWPRA-H | PRA-AL00 |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x808\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88 | HWPRA-H | PRA-AL00X |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x808\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88 | HWPRA-H | PRA-TL10 |
@@ -7993,6 +7999,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Kogan | Kogan Agora 8 Plus | Agora_8_Plus | Agora 8 Plus |
 | Komu | K22 | K22 | K22 |
 | Konrow | KONROW | KONROW_701X | KONROW_701X |
+| Konrow | KTAB_1003 | KTAB_1003 | KTAB_1003 |
 | Konrow | LINK55 | LINK55 | LINK55 |
 | Konrow | MUST | MUST | MUST |
 | Konrow | Primo | PRIMO | PRIMO |
@@ -12046,6 +12053,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nomi | Nomi C080010 | Nomi_C080010_Libra2 | Nomi C080010 Libra2 |
 | Nomi | Nomi C101010 | Nomi_C101010_Ultra2 | C101010 Ultra2 |
 | Nomi | Nomi i5001 | Nomi_i5001 | Nomi_i5001 |
+| Nomi | Nomi i5001 Plus | Nomi_i5001 | Nomi_i5001 |
 | Nomi | Nomi i5013 | i5013 | i5013 |
 | Nomi | Nomi i5050 | i5050 | i5050 |
 | Nomi | Nomi i5071 | Nomi_i5071 | Nomi i5071 |
@@ -13623,6 +13631,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Rainbow | WIKO | s5501 | RAINBOW |
 | Ratel | Cell | Cell | CELL |
 | Rayan | AM_TAB_7_03 | AMAA703 | AMA_A703 |
+| Rayan | P20 PLUS | RAYLAN_P20_Plus | P20 PLUS |
+| Raylandz | H1 PLUS | PHOENIX_H1PLUS | PHOENIX_H1PLUS |
 | Raylandz | PHOENIX_N1 | PHOENIX_N1 | PHOENIX N1 |
 | Razer | Forge TV | pearlyn | Forge |
 | Razer | Razer Phone | cheryl | Phone |
@@ -13755,6 +13765,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | STF Mobile | NATIVO | NATIVO | NATIVO |
 | STF Mobile | Origins Pro | Origins_Pro | Origins Pro |
 | STF Mobile | ST-922081 | ST-922081 | ST-922081 |
+| STF Mobile | ST-922098 | ST-922098 | ST-922098 |
 | STF Mobile | STF-BLOCK | Block | Block |
 | STG Telecom | STG A1 | STG_A1 | STG A1 |
 | STG Telecom | STG A1 Pro | STG_A1_Pro | STG A1 Pro |
@@ -18087,6 +18098,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TaiwanMobile | Amazing_A55 | Amazing_A55 | Amazing_A55 |
 | Takara | MID 107 | MID107 | MID107 |
 | Takara | MID210 | MID210 | MID210 |
+| Tambo | TA-1 | TA-1 | TA-1 |
 | Tambo | TA-2 | TA-2 | TA-2 |
 | Tambo | TA-3 | TA-3 | TA-3 |
 | Tambo | TA-4 | TA-4 | TA-4 |
@@ -19406,8 +19418,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Xiaomi | MI 5s Plus | natrium | MI 5s Plus |
 | Xiaomi | MI 6X | wayne | MI 6X |
 | Xiaomi | MI 8 | dipper | MI 8 |
+| Xiaomi | MI 8 Lite | platina | MI 8 Lite |
+| Xiaomi | MI 8 Lite | platina | Platina |
 | Xiaomi | MI 8 SE | sirius | MI 8 SE |
 | Xiaomi | MI 8 SE | sirius | sirius |
+| Xiaomi | MI 8 UD | equuleus | MI 8 Pro |
+| Xiaomi | MI 8 UD | equuleus | MI 8 UD |
+| Xiaomi | MI 8 UD | equuleus | equuleus |
 | Xiaomi | MI MAX | helium | MI MAX |
 | Xiaomi | MI MAX | hydrogen | MI MAX |
 | Xiaomi | MI MAX 2 | oxygen | MI MAX 2 |
@@ -21071,6 +21088,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iLa Mobile | iLA Silk | iLA_Silk | iLA_Silk |
 | iLa Mobile | iLA-X | iLA-X | iLA-X |
 | iLife | ITELL K4700 | ITELL_K4700 | ITELL K4700 |
+| iLife | ITELL_K3102N | ITELL_K3102N | ITELL_K3102N |
 | iLife | ITELL_K3500N | ITELL_K3500N | ITELL_K3500N |
 | iNFONE | infone X | infone_X | infone X |
 | iNO Mobile | S9 | iNO_S9 | iNO S9 |
