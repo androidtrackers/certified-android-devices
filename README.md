@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 29.09.2018
+Last sync is 30.09.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1391,6 +1391,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Azumi | A50 Style Plus | A50_Style_Plus | A50_Style_Plus |
 | Azumi | A50LT | A50LT | A50LT |
 | Azumi | AX5 | AX5 | Azumi AX5 |
+| Azumi | AZUMI KIREI A5D | KIREI_A5_D | Azumi KIREI A5 D |
 | Azumi | AZUMI_Daburu_A55O | Daburu_A55O | Azumi_Daburu_A55O |
 | Azumi | Azumi_Extend_Akaru_55_QL | Extend_Akaru_55_QL | Azumi Extend Akaru 55 QL |
 | Azumi | Azumi_KIREI_A45_D | KIREI_A45_D | Azumi_KIREI_A45_D |
@@ -1721,6 +1722,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blackfox | BMM541D | BMM541D | BMM541D |
 | Blackfox | BMM542D | BMM542D | BMM542D |
 | Blackfox | BMM_533D | BMM_533D | BMM_533D |
+| Blacksonic | BS7-BUTTERFLY | BS7-BUTTERFLY | BS7-BUTTERFLY |
+| Blacksonic | BS7-KIDS | BS7-KIDS | BS7-KIDS |
 | Blacksonic | BS9 | BS9 | BS9 |
 | Blackview | A20 | A20 | A20 |
 | Blackview | A5 | A5 | A5 |
@@ -2189,6 +2192,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Chemist Warehouse | JR-MB603 | JR_MB603 | JR_MB603 |
 | Cherry Mobile | Cherry W900 LTE | al7 | W900 LTE |
 | Cherry Mobile | Desire R6 Lite | Desire_R6_Lite | Desire_R6_Lite |
+| Cherry Mobile | Desire R6 Plus | Desire_R6_plus | Desire R6 plus |
 | Cherry Mobile | Desire R7 Lite | Desire_R7_Lite | Desire R7 Lite |
 | Cherry Mobile | Desire R8 Lite | Desire_R8_Lite | Desire R8 Lite |
 | Cherry Mobile | FB100 | FB100 | FB100 |
@@ -2878,6 +2882,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Denso Wave | BHT-1800QWBG-3-A7 | BHT-1800QWBG-3-A7 | BHT-1800QWBG-3-A7 |
 | Denver Electronics | SDQ-55034L | SDQ-55034L | SDQ-55034L |
 | Denver Electronics | SDQ-55044L | SDQ-55044L | SDQ-55044L |
+| Denver Electronics | SDQ-57004L | SDQ-57004L | SDQ-57004L |
 | Denver Electronics | SDQ_52004L | SDQ_52004L | SDQ_52004L |
 | Denver Electronics | TAQ-10 | TAQ10 | TAQ-10 |
 | Denver Electronics | TAQ-102 | TAQ102 | TAQ-102 |
@@ -10441,6 +10446,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | MAZE | Alpha | Alpha | Alpha |
 | MAZE | Alpha_X | Alpha_X | Alpha_X |
 | MAZE | Comet | Comet | Comet |
+| MAZE | SSB-408E | SSB-408E | SSB-408E |
+| MAZE | SSB-508E | SSB-508E | SSB-508E |
 | MDC Store | Grand | Grand | Grand |
 | MDC Store | MDC GrandPro | MDC_Grand_Pro | Grand Pro |
 | MDC Store | Nova | Nova | Nova |
@@ -13017,6 +13024,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | PointMobile | PM66 | pm66 | PM66 |
 | PointMobile | PM70 | pm70 | PM70 |
 | PointMobile | PM80 | pm80 | PM80 |
+| PointMobile | pm70 | pm70 | PM70 |
 | Polar | M600 | pike | Polar M600 |
 | Polaris | Condroid_X7 | polaris-Condroid_X7 | Condroid_X7 |
 | Polaroid | A/S10 | wing-AS10 | A/S10 |
@@ -13390,6 +13398,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Proline | H10885M | H10885M | H10885M |
 | Proline | H7835M | H7835M | H7835M |
 | Proline | H7885M | H7885M | H7885M |
+| Proline | M504 | M504 | M504 |
 | Proline | Proline FalconXL | Proline_FalconXL | Proline_FalconXL |
 | Proscan | PLT1065G | PLT1065G | PLT1065G |
 | Proscan | PLT1077G(1GB/8GB) | PLT1077G | PLT1077G |
@@ -16925,6 +16934,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sugar | Sugar | s9121 | SUGAR |
 | Sumitomo Electric Industries | ST4173 | ST4173 | ST4173 |
 | Sumitomo Electric Networks |  | dhe1100 | Hikari-iFrame/WDPF-703SE |
+| Supertab | S7G | S7G | S7G |
 | Supraim | AQ21 | AQ21 | AQ21 |
 | Supraim | AYCON | AYCON | AYCON |
 | Supraim | SN10 | SN10 | SN10 |
@@ -18548,6 +18558,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ulefone | Power 3S | Power_3S | Power 3S |
 | Ulefone | Power 3S | Power_3S | Power_3S |
 | Ulefone | Power 5 | Power_5 | Power_5 |
+| Ulefone | Power 5S | Power_5S | Power_5S |
 | Ulefone | S10_Pro | S10_Pro | S10_Pro |
 | Ulefone | S7 | t662_gq_n1616_we | Ulefone S7 |
 | Ulefone | S7 | t662_gq_ulefone | Ulefone S7 |
@@ -21023,6 +21034,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | i-Buddie | TR10CS1 | TR10CS1_2 | TR10CS1 |
 | i-Buddie | TR10CS1_P | TR10CS1 | TR10CS1 |
 | i-Mobile | A956 | A956 | A956 |
+| i-Mobile | HP-01A | HP-01A | HP-01A |
 | i-Mobile | IQ II | imobileiq2_sprout | i-mobile IQ II |
 | i-Mobile | IQX KEN | IQX_KEN | IQX KEN |
 | i-Mobile | Y1 | Y1 | i-mobile Y1 |
