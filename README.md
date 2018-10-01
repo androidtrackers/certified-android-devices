@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 30.09.2018
+Last sync is 01.10.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2191,6 +2191,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Channel Master | Stream+ | dwt765cha | CM-7600 |
 | Chemist Warehouse | JR-MB603 | JR_MB603 | JR_MB603 |
 | Cherry Mobile | Cherry W900 LTE | al7 | W900 LTE |
+| Cherry Mobile | Desire R6 | Desire_R6 | Desire R6 |
 | Cherry Mobile | Desire R6 Lite | Desire_R6_Lite | Desire_R6_Lite |
 | Cherry Mobile | Desire R6 Plus | Desire_R6_plus | Desire R6 plus |
 | Cherry Mobile | Desire R7 Lite | Desire_R7_Lite | Desire R7 Lite |
@@ -7681,6 +7682,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Iris | VOX POP plus | VOX_POP_plus | VOX POP plus |
 | Iris | Vox_5S | Vox_5S | Vox_5S |
 | Isafe | IS520.1 | IS520_1 | IS520_1 |
+| Isafe | IS910.1 | IS910_1 | IS910_1 |
 | Itel | A11 | itel_A11 | itel A11 |
 | Itel | A12 | itel_A12 | itel A12 |
 | Itel | A13 | itel_A13 | itel A13 |
@@ -10006,6 +10008,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lenovo | Lenovo Tab 7 Essential | TB-7304X | Lenovo TB-7304X |
 | Lenovo | Lenovo Tab E7 | TB7104F | Lenovo TB-7104F |
 | Lenovo | Lenovo Tab M10 | X605F | Lenovo TB-X605F |
+| Lenovo | Lenovo Tab M10 | X605L | Lenovo TB-X605L |
 | Lenovo | Lenovo Tab4 10 Plus | X704A | TB-X704A |
 | Lenovo | Lenovo X2-CU/VIBE X2 | X2-CU | Lenovo X2-CU |
 | Lenovo | Lenovo YOGA A12 | YOGA-A12 | Lenovo YB-Q501L |
@@ -11693,6 +11696,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Myphone | myA11 | MYA11 | MYA11 |
 | Myphone | myA12 | myA12 | myA12 |
 | Myphone | myA13 | MYA13 | MYA13 |
+| Myphone | myA15 | myA15 | myA15 |
 | Myphone | myA16 | myA16 | myA16 |
 | Myphone | myA2 | MY802 | MY802 |
 | Myphone | myA3 | MY803 | MY803 |
@@ -18062,6 +18066,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | X50D | X50D | X50D |
 | TCT (Alcatel) | Xess mini | Xess-mini | TCL Xess miniC15BA |
 | TCT (Alcatel) | Xess-mini | Xess-mini | TCL Xess C15BA |
+| TCT (Alcatel) | alcatel 1X | Edison | 5008A |
+| TCT (Alcatel) | alcatel 1X | Edison | 5008D |
+| TCT (Alcatel) | alcatel 1X | Edison | 5008T |
+| TCT (Alcatel) | alcatel 1X | Edison | 5008Y |
+| TCT (Alcatel) | alcatel 1X | Edison | 5008Y_RU |
 | TCT (Alcatel) | alcatel PIXI 4 (5.5) | PIXI4_55_3G | 5012D |
 | TCT (Alcatel) | alcatel PIXI 4 (5.5) | PIXI4_55_3G | 5012F |
 | TCT (Alcatel) | alcatel PIXI 4 (5.5) | PIXI4_55_3G | 5012G |
