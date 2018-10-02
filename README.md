@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 01.10.2018
+Last sync is 02.10.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3593,6 +3593,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Fly | Nimbus 9 | Nimbus_9 | Nimbus 9 |
 | Fly | Nimbus3 | Nimbus3 | FS501 |
 | Fly | Phoenix 2 | IQ4410i | Phoenix 2 |
+| Fly | Photo Pro | Photo_Pro | Photo Pro |
 | Fly | Power Plus 1 | Power_Plus_1 | FS521 |
 | Fly | Power Plus 2 | Power_Plus_2 | FS526 |
 | Fly | Power Plus 3 | PowerPlus3 | Power Plus 3 |
@@ -3877,6 +3878,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | General Mobile | GM 6 s | GM6_s_sprout | GM6 |
 | General Mobile | GM 8 | GM8_sprout | GM 8 |
 | General Mobile | GM 8 d | GM8_d_sprout | GM 8 d |
+| General Mobile | GM 9 Pro | GM9PRO_d_sprout | GM 9 Pro d |
+| General Mobile | GM 9 Pro | GM9PRO_sprout | GM 9 Pro |
 | General Mobile | GM5 Plus | gm5plus_s_sprout | GM 5 Plus |
 | General Mobile | GM5 Plus Turkcell | gm5plustkc_s_sprout | GM 5 Plus |
 | General Mobile | GM5 Plus d | gm5plus_sprout | GM 5 Plus d |
@@ -11613,6 +11616,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Multilaser | Ms6 | MS6 | MS6 |
 | My Go | GoTab GBT10 | GBT10 | GoTab_GBT10 |
 | MyFon | F3 | F3 | F3 |
+| MyFon | F6 | F6 | F6 |
 | MyFon | S2 | S2 | S2 |
 | MyFon | S5 | S5 | S5 |
 | MyPhone (PL) | C-Smart pix | C-Smart_pix_JMP | C-Smart_pix |
