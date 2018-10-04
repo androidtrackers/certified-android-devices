@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 03.10.2018
+Last sync is 04.10.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -526,6 +526,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | AllView | X5 Soul Mini | X5_Soul_Mini | X5_Soul_Mini |
 | AllView | X5 Soul Pro | X5_Soul_Pro | X5_Soul_Pro |
 | AllView | X5_Soul | X5_Soul | X5_Soul |
+| AllView | X5_Soul_Style | X5_Soul_Style | X5_Soul_Style |
 | Allducube | T1001 | T1001 | T1001 |
 | Allfine | M721 | 86S | M721 |
 | Allfine | PC1038Q | fine10_Joy | PC1038Q |
@@ -548,6 +549,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Altice | SX41 | HS6737MT | SX41 |
 | Altice | Staractive | STARACTIVE | STARACTIVE |
 | Altice | T10 | T10 | T10 |
+| Altron | GI-420 | GI-420 | GI-420 |
 | Altron | GI-530 | GI-530 | GI-530 |
 | Amgoo | AM350 | AM350 | AM350 |
 | Amgoo | AM402 | AM402 | AM402 |
@@ -1528,6 +1530,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | BQru | BQ-5206L Balance | BQru-5206L | BQ-5206L |
 | BQru | BQ-5209L | BQru-5209L | BQ-5209L |
 | BQru | BQ-5211 | BQru-5211 | BQ-5211 |
+| BQru | BQ-5300G | BQru-5300G | BQ-5300G |
 | BQru | BQ-5301 | BQru-5301 | BQ-5301 |
 | BQru | BQ-5340 Choice | BQru-5340 | BQ-5340 |
 | BQru | BQ-5500L Advance | BQru-5500L | BQ-5500L |
@@ -2742,6 +2745,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DEXP | B155 | B155 | B155 |
 | DEXP | B350 | B350 | B350 |
 | DEXP | B450 | B450 | B450 |
+| DEXP | BL150 | BL150 | BL150 |
 | DEXP | BL250 | BL250 | BL250 |
 | DEXP | BS155 | BS155 | BS155 |
 | DEXP | BS250 | BS250 | BS250 |
@@ -2791,6 +2795,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DEXP | P380i | P380i | P380i |
 | DEXP | S190 | S190 | S190 |
 | DEXP | S290 | S290 | S290 |
+| DEXP | S370 | S370 | S370 |
 | DEXP | T155 | T155 | T155 |
 | DEXP | XL155 | XL155 | Ixion XL155 |
 | DEXP | Z150 | Z150 | Z150 |
@@ -4238,6 +4243,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Gtel | Gtel X6s | Gtel_X6s | Gtel X6s |
 | Gtel | Gtel X7plus | Gtel_X7plus | Gtel X7plus |
 | Gtel | Gtel X7pro | Gtel_X7pro | Gtel X7pro |
+| Gtel | Gtel X7s | Gtel_X7s | Gtel X7s |
 | Gtel | Gtel_Vivo3 | Gtel_Vivo3 | Gtel_Vivo3 |
 | Gtel | Gtel_X5mini | Gtel_X5mini | Gtel_X5mini |
 | Gtel | Gtel_X5s | Gtel_X5s | Gtel_X5s |
@@ -7298,6 +7304,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | IView | SupraPad i785Q | anchor | i785Q |
 | Ice Phone | Mini | ice_phone_mini | Ice-Phone Mini |
 | Icon | Portal_10i | Portal_10i | NTMC17 |
+| Ikimobile | BLESSPLUS | BLESSPLUS | BLESSPLUS |
 | Ikimobile | GO4.5S | GO4_5S | GO4.5S |
 | Ikimobile | KF45 | KF45 | KF45 |
 | Ikon | IK-7108 | IK-7108 | IK-7108 |
@@ -8001,6 +8008,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Kimfly | KIMFLY ES | ES | ES |
 | Kimfly | Kimfly MC | MC | MC |
 | Kimfly | MX | MX | MX |
+| Kingcomm | C500 | C500 | Kingcomm C500 |
 | Kioto | MID1021 | MID1021 | MID1021 |
 | Kioto | MID1028 | MID1028 | MID1028 |
 | Kioto | MID1036 | MID1036 | MID1036 |
@@ -11908,6 +11916,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | NVIDIA | TegraNote | tegranote | TegraNote-Premium |
 | NVIDIA | TegraNote | tegranote7c | Tegra Note 7 |
 | NYX Mobile | A1 | NYX_A1 | NYX_A1 |
+| NYX Mobile | B1 | B1 | B1 |
 | NYX Mobile | BLINK | BLiNK | BLiNK |
 | NYX Mobile | Click | Click | Click |
 | NYX Mobile | FIT | FIT | FIT |
@@ -13802,6 +13811,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | SPC Mobile | L52X | SPC_L52X | L52X |
 | SPC Mobile | L53 | L53 | L53 |
 | SPC Mobile | L54 | L54 | L54 |
+| SPC Mobile | L60 | L60 | L60 |
 | SPC Mobile | L60 | SPC_L60 | L60 |
 | SPC Mobile | L60 Pro | L60_Pro | L60 Pro |
 | SPC Mobile | LAIKA | LAIKA | LAIKA |
@@ -16363,6 +16373,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Snopow | M10 | M10 | M10 |
 | Soda | E1 | soda_CSW1702 | soda E1 |
 | Soda | FIRE | soda_CSW1803 | soda FIRE |
+| Soda | s2 | soda_CSW1802 | soda S2 |
 | Soda | soda | soda_SW17W16 | soda S1 |
 | Solone | E1457 | E1457 | E1457 |
 | Solone | W1450 | W1450 | W1450 |
@@ -17052,6 +17063,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Symphony | i90 | i90 | i90 |
 | Symphony | roarV95 | roarV95 | roarV95 |
 | Symphony | roar_V150 | roar_V150 | roar_V150 |
+| T-Mobile | REVVL 2 PLUS | A70AXLTMO | REVVL 2 PLUS |
 | T-Mobile | Telekom_Puls | T-Tab | Telekom Puls |
 | TA71CA5_JP | JP SA COUTO, S.A. _MG070A2T | TA71CA5_1 | TA71CA5 |
 | TAG Heuer | Connected | glacier | TAG Heuer |
@@ -17948,7 +17960,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Pixo 7 | PIXO7 | I212 |
 | TCT (Alcatel) | Pixo 7 | PIXO7 | I213 |
 | TCT (Alcatel) | Pop4 | POP455C | Pop4 |
-| TCT (Alcatel) | REVVL_2_PLUS_6062Z | A70AXLTMO | REVVL 2 PLUS |
 | TCT (Alcatel) | Rise_54 | Rise_54 | Orange Rise 54 |
 | TCT (Alcatel) | S4035_4G | Pop355 | S4035_4G |
 | TCT (Alcatel) | SHINE LITE | shine_lite | 5080D |
