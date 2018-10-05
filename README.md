@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 04.10.2018
+Last sync is 05.10.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -126,6 +126,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Acer | Acer Chromebook 11 (C740) | paine_cheets | Acer Chromebook 11 (C740) |
 | Acer | Acer Chromebook R13 | elm_cheets | Acer Chromebook R13 (CB5-312T) |
 | Acer | Acer Holo360 | acer_c01 | C01 |
+| Acer | Acer One 7 4G | Acer_One_7_4G | Acer One 7 4G |
 | Acer | Aspire A3 | aa3-600 | AA3-600 |
 | Acer | B1-710 | B1-710 | B1-710 |
 | Acer | B1-711 | B1-711 | B1-711 |
@@ -3639,6 +3640,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Fly | Tornado One | IQ4511_Octa | IQ4511 Octa |
 | Fly | Tornado One | IQ4511_Octa | IQ4511 TR |
 | Fone Haus | Blaze | Blaze | Blaze |
+| Fone Haus | Bolt | Bolt | Bolt |
 | Fossil | Q Founder | grant | Q Founder |
 | Fossil | Q Wander / Q Marshal / Q Founder 2.0 / Bradshaw / Dylan | gar | Bradshaw |
 | Fossil | Q Wander / Q Marshal / Q Founder 2.0 / Bradshaw / Dylan | gar | Q Marshal |
@@ -11740,6 +11742,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Myphone | myA1 | MY801 | MY801 |
 | Myphone | myA10 | myA10 | myA10 |
 | Myphone | myA11 | MYA11 | MYA11 |
+| Myphone | myA11i | myA11i | myA11i |
 | Myphone | myA12 | myA12 | myA12 |
 | Myphone | myA13 | MYA13 | MYA13 |
 | Myphone | myA15 | myA15 | myA15 |
@@ -11948,6 +11951,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Navcity | NAVCITY NP-752 | NP_752 | NP-752 |
 | Navcity | NAVCITY NP-852 | NP-852 | NP-852 |
 | Navcity | NAVCITY NP-855 | NP_855 | NP-855 |
+| Navcity | NP-752GO | NP-752Go | NP-752Go |
 | Navcity | NT-1714 | NT1714 | NT-1714 |
 | Navitel | Navitel T700 3G Navi | NAVITEL_T700_3G_NAVI | NAVITEL T700 3G NAVI |
 | Navitel | T500 3G | T500_3G | T500 3G |
@@ -18702,6 +18706,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Verizon Wireless | QTAQZ3KID | QTAQZ3KID | QTAQZ3KID |
 | Verizon Wireless | Wear24 | dorado | Wear24 |
 | Verizon Wireless | ZenPad Z8 | P008 | P008 |
+| Vernee | Active | V1 | V1 |
 | Vernee | M5 | vernee_M5 | vernee_M5 |
 | Vernee | M6 | M6 | M6 |
 | Vernee | MIX 2 | M2 | M2 |
@@ -18709,7 +18714,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vernee | T3 Pro | T3_Pro | T3 Pro |
 | Vernee | Thor E | Thor_E | Thor E |
 | Vernee | Thor Plus | Thor_Plus | Thor Plus |
-| Vernee | V1 | V1 | V1 |
 | Vernee | V2 Pro | V2_Pro | V2 Pro |
 | Vernee | X1 | X1 | X1 |
 | Vernee | X1 | X1_PRO | X1 |
