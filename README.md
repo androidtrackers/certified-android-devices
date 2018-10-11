@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 10.10.2018
+Last sync is 11.10.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -959,6 +959,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Artel | U3 | U3 | U3 |
 | Artel | U3 4G | U3_4G | U3_4G |
 | Artel | U4 | U4 | U4 |
+| Artizlee | Artizlee S9 | Artizlee_S9 | Artizlee_S9 |
 | Asanzo | S3 Plus | ASANZO_S3_PLUS | ASANZO_S3_PLUS |
 | Ascom Wireless Solutions | Ascom Myco 2 Cellular | ACBB | SH1 |
 | Ascom Wireless Solutions | Ascom Myco 2 WiFi | ABBB | SH1 |
@@ -1503,7 +1504,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | BMobile | AX922 | Bmobile_AX922 | AX922 |
 | BMobile | AX925 | Bmobile_AX925 | AX925 |
 | BMobile | AX950 | Bmobile_AX950 | AX950 |
+| BMobile | AX951 | Bmobile_AX951 | AX951 |
 | BMobile | Bmobile AX683 | Bmobile_AX683 | AX683 |
+| BMobile | Bmoblie AX683 | Bmobile_AX683_MV04 | AX683 |
 | BMobile | FUN 4 | Bmobile_FUN_4_2018 | FUN 4 2018 |
 | BQru | 5060 | BQru-5060 | BQru-5060 |
 | BQru | 5701L Slim | BQru-5701L | BQ-5701L |
@@ -2848,6 +2851,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DNA | DNA TV-hubi | dctiw384 | DNA Android TV |
 | DO Mobile | Mate1 | Mate1 | DO_S1 |
 | DO Mobile | Mate1 | Mate1 | Mate1 |
+| DTC products | S10 | S10 | S10 |
 | DTC products | S30 | S30 | S30 |
 | Daehap | DH-B301K | DH-B301K | DH-B301K |
 | Danew | DSlide 710 | Dslide710 | Dslide710 |
@@ -2927,6 +2931,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Denver Electronics | SDQ-55034L | SDQ-55034L | SDQ-55034L |
 | Denver Electronics | SDQ-55044L | SDQ-55044L | SDQ-55044L |
 | Denver Electronics | SDQ-57004L | SDQ-57004L | SDQ-57004L |
+| Denver Electronics | SDQ_52001G | SDQ_52001G | SDQ_52001G |
 | Denver Electronics | SDQ_52004L | SDQ_52004L | SDQ_52004L |
 | Denver Electronics | TAQ-10 | TAQ10 | TAQ-10 |
 | Denver Electronics | TAQ-102 | TAQ102 | TAQ-102 |
@@ -3210,6 +3215,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | E-Boda | Eclipse G500M | Eclipse_G500M | Eclipse_G500M |
 | E-TACHI | A8_SMART | A8_SMART | A8_SMART |
 | E-Tel | Q25 | Q25 | Q25 |
+| E-Tel | Q30 | Q30 | Q30 |
 | E-Tel | i240 | i240 | E-tel i240 |
 | EBN | NEBUPOS3 | UY3A | NEBUPOS3 |
 | ECS | RealPad MA7BX2 | RealPad_MA7BX2_1 | RealPad MA7BX2 |
@@ -5061,6 +5067,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Haier | D2-751G | d2PAD | D2-751G |
 | Haier | D2-927G | D2-927G | D2-927G |
 | Haier | D2-961G | D2-961G | D2-961G |
+| Haier | Elegance E7 | E7 | E7 |
 | Haier | Fast | HM-G551-FL | Beeline Fast |
 | Haier | G21 | HM-G303-W | G21 |
 | Haier | G30 | G30 | G30 |
@@ -6398,6 +6405,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | HUAWEI Y5 2018 | HWDRA-M | DRA-LX2 |
 | Huawei | HUAWEI Y5 2018 | HWDRA-MG | DRA-LX3 |
 | Huawei | HUAWEI Y5 Prime 2018 | HWDRA-M | DRA-LX2 |
+| Huawei | HUAWEI Y5 lite | HWDRA-MG | DRA-LX5 |
 | Huawei | HUAWEI Y5 lite 2017 | HWCRO-L6737M | CRO-L03 |
 | Huawei | HUAWEI Y5 lite 2017 | HWCRO-L6737M | CRO-L23 |
 | Huawei | HUAWEI Y5 lite 2017 | HWCRO-L6737M | HUAWEI CRO-L03 |
@@ -7352,6 +7360,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | IkuMobile | K2 | IKU_K2 | K2 |
 | IkuMobile | K3 | K3 | IKU K3 |
 | IkuMobile | T1 | T1 | iKU T1 |
+| Ilike | P3 | P3 | P3 |
 | Ilike | X3_PRO_SLIM | X3_PRO_SLIM | X3 PRO SLIM |
 | Ilike | X5_PRO | X5_PRO | X5_PRO |
 | ImageMobile | Ipanema | C001 | C001 |
@@ -7994,6 +8003,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Kalley | Gold Pro | GOLD_PRO | GOLD_PRO |
 | Kalley | K-BOOK73G | K_BOOK73G | K-BOOK73G |
 | Kalley | Klic | SA | K4-02 4G |
+| Kalley | Silver P5 | P5 | P5 |
 | Kanji | KJ_AC05 | KJAC05 | KJ_AC05 |
 | Kapsys | SmartVision2 | r889 | KAP11000 |
 | Karbonn | A1 Indian | A1_Indian | A1 Indian |
@@ -10463,6 +10473,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Logicom | LiteTab760 | LiteTab760 | LiteTab760 |
 | Logicom | Logikids | Logikids_2 | Logikids_2 |
 | Logicom | Logikids 3 | Logikids_3 | Logikids_3 |
+| Logicom | Logikids 4 | logikids4 | logikids4 |
 | Logicom | M bot 51 | Mbot51 | M bot 51 |
 | Logicom | M bot 54 | M_bot_54 | M bot 54 |
 | Logicom | M bot 551 | M_BOT_551 | M BOT 551 |
@@ -13718,6 +13729,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | RCA | 7 Voyager II | RCT6773W22BM | RCT6773W22BM |
 | RCA | 7 Voyager III | RCT6973W43MD | RCT6973W43MD |
 | RCA | Atlas 10 | RCT6703W12 | RCT6703W12 |
+| RCA | Atlas 10 | RCT6B03W13 | RCT6B03W13 |
 | RCA | BNT-710 | BNT-710 | BNT-710 |
 | RCA | DAA730R / RCA DAA738R | MD7081 | DAA730R |
 | RCA | DAA730R / RCA DAA738R | MD7081 | DAA738R |
@@ -14101,6 +14113,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy A7 | a7ltektt | SM-A700K |
 | Samsung | Galaxy A7 | a7ltelgt | SM-A700L |
 | Samsung | Galaxy A7 | a7lteskt | SM-A700S |
+| Samsung | Galaxy A7 (2018) | a7y18lte | SM-A750F |
+| Samsung | Galaxy A7 (2018) | a7y18lte | SM-A750FN |
 | Samsung | Galaxy A7(2016) | a7xelte | SM-A710F |
 | Samsung | Galaxy A7(2016) | a7xelte | SM-A710M |
 | Samsung | Galaxy A7(2016) | a7xelte | SM-A710X |
@@ -14596,6 +14610,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J4 | j4lte | SM-J400F |
 | Samsung | Galaxy J4 | j4lte | SM-J400G |
 | Samsung | Galaxy J4 | j4lte | SM-J400M |
+| Samsung | Galaxy J4+ | j4primelte | SM-J415F |
+| Samsung | Galaxy J4+ | j4primelte | SM-J415FN |
+| Samsung | Galaxy J4+ | j4primelte | SM-J415G |
+| Samsung | Galaxy J4+ | j4primelte | SM-J415GN |
 | Samsung | Galaxy J5 | j53g | SM-J500H |
 | Samsung | Galaxy J5 | j5lte | SM-J5007 |
 | Samsung | Galaxy J5 | j5lte | SM-J500F |
@@ -14636,6 +14654,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J6 | j6lte | SM-J600GT |
 | Samsung | Galaxy J6 | j6ltekx | SM-J600N |
 | Samsung | Galaxy J6 | j6ltelgt | SM-J600L |
+| Samsung | Galaxy J6+ | j6primelte | SM-J610F |
+| Samsung | Galaxy J6+ | j6primelte | SM-J610FN |
+| Samsung | Galaxy J6+ | j6primelte | SM-J610G |
 | Samsung | Galaxy J7 | j75ltektt | SM-J700K |
 | Samsung | Galaxy J7 | j7e3g | SM-J700H |
 | Samsung | Galaxy J7 | j7elte | SM-J700F |
@@ -17317,6 +17338,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | 5056U | POP455C | 5056U |
 | TCT (Alcatel) | 5056W | POP455C | 5056W |
 | TCT (Alcatel) | 5056X | POP455C | 5056X |
+| TCT (Alcatel) | 5059Z | U50APLUSTMO | 5059Z |
 | TCT (Alcatel) | 5065A | Pop35 | 5065A |
 | TCT (Alcatel) | 5065D | Pop35 | 5065D |
 | TCT (Alcatel) | 5065N | Pop35 | 5065N |
@@ -18455,6 +18477,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | i5 | TECNO-i5 | TECNO i5 |
 | Tecno | i5-Pro | TECNO-i5-Pro | TECNO i5 Pro |
 | Tecno | i7 | TECNO-i7 | TECNO i7 |
+| Teeno | TEENO S9 | TEENO_S9 | TEENO_S9 |
 | Teesso | X2 | X2 | X2 |
 | Teknosa | Preo P2 | Preo_P2 | Preo_P2 |
 | Tekwind | A10A | A10A | A10A |
@@ -18542,6 +18565,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Thomson | THOMSON_TEO10S | TEO10S | TEO10S |
 | Thomson | TLink 455 | TLINK455 | TLINK455 |
 | Thuraya | Thuraya X5-Touch | X5-Touch | Thuraya X5-Touch |
+| Tigers | TIS001 | TIS001 | TIS001 |
 | Tigers | TIS001A | TIS001A | TIS001A |
 | Tigers | TIS_001 | TIS_001 | TIS_001 |
 | Tiitan | T54 | T54 | T54 |
@@ -19022,6 +19046,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Visual Land | Prestige Prime10SE | Prime10SE | Prime10SE |
 | Visual Land | Prestige Prime11E | Prime11E | Prime11E |
 | Vitsmo | Zero Spin | Zero_Spin | Zero_Spin |
+| Viumee | EV5 X | EV5_X | EV5 X |
 | Viumee | EV6 ELITE | EV6_ELITE | EV6 ELITE |
 | Viumee | SMART EV5 | SMART_EV5 | SMART_EV5 |
 | Vivax | FUN S20 | FUN_S20 | FUN_S20 |
