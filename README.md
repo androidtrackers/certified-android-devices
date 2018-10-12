@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 11.10.2018
+Last sync is 12.10.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1741,6 +1741,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blackfox | BMM541D | BMM541D | BMM541D |
 | Blackfox | BMM542D | BMM542D | BMM542D |
 | Blackfox | BMM_533D | BMM_533D | BMM_533D |
+| Blackshark | Shark | shark | SKR-H0 |
 | Blacksonic | BS7 | BS7 | BS7 |
 | Blacksonic | BS7-3G | BS7-3G | BS7-3G |
 | Blacksonic | BS7-BUTTERFLY | BS7-BUTTERFLY | BS7-BUTTERFLY |
@@ -2735,6 +2736,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Cubot | CUBOT NOTE Plus | CUBOT_NOTE_Plus | CUBOT NOTE Plus |
 | Cubot | CUBOT R11 | CUBOT_R11 | CUBOT R11 |
 | Cubot | CUBOT X18 | CUBOT_X18 | CUBOT X18 |
+| Cubot | CUBOT_A5 | CUBOT_A5 | CUBOT A5 |
 | Cubot | CUBOT_J3_PRO | CUBOT_J3_PRO | CUBOT J3 PRO |
 | Cubot | CUBOT_NOVA | CUBOT_NOVA | CUBOT_NOVA |
 | Cubot | CUBOT_POWER | CUBOT_POWER | CUBOT_POWER |
@@ -3130,6 +3132,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Doogee | X6pro | x5602_fxkj_k20 | X6pro |
 | Doogee | X7 | s6061_dg_a50_m | X7 |
 | Doogee | X7Pro | x6069_dg_a50_37m65 | X7pro |
+| Doogee | X80 | X80 | X80 |
 | Doogee | X9 Mini | X9_Mini | X9 Mini |
 | Doogee | X9 Mini | t530_dg_a54 | X9 Mini |
 | Doogee | X9 Pro | X9pro | X9pro |
@@ -3323,6 +3326,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ematic | FunTab 3 | Funtab3 | FunTabPlay |
 | Ematic | FunTab 3 | Funtab3 | Funtab3 |
 | Ematic | GTB103B | Stealth_GTB103M | GTB103M |
+| Ematic | Jetstream AGT418 | DV8235 | Jetstream AGT418 |
 | Ematic | PBS Kids PlayPad | PBSKD12 | PBSKD12 |
 | Ematic | Sprout Channel Cubby | Cubby | SproutChannelCubby |
 | Ematic | USA | Jetstream | AGT418 |
@@ -3926,6 +3930,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Geanee | FXC-5A | FXC-5A | FXC-5A |
 | Gear Mobile | GM7 | GM7 | GM7 |
 | Geecoo | G1 | G1 | G1 |
+| Geecoo | G1_3g | G1_3g | G1_3g |
 | Geecoo | G2 | G2 | G2 |
 | Geecoo | G3 | G3 | G3 |
 | Geecoo | G4 | G4 | G4 |
@@ -6427,6 +6432,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | HUAWEI Y9 2018 | HWFLA-H | FLA-LX1 |
 | Huawei | HUAWEI Y9 2018 | HWFLA-H | FLA-LX2 |
 | Huawei | HUAWEI Y9 2018 | HWFLA-H | FLA-LX3 |
+| Huawei | HUAWEI Y9 2019 | HWJKM-H | JKM-LX1 |
 | Huawei | HUAWEI nova 2 Plus | HWBAC | BAC-L21 |
 | Huawei | HUAWEI nova 2 Plus | HWBAC | BAC-L22 |
 | Huawei | HUAWEI nova 2 lite | HWLDN-Q | LDN-LX2 |
@@ -7209,6 +7215,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa97X | HWBND-H | BND-AL00 |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa97X | HWBND-H | BND-AL10 |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa97X | HWBND-H | BND-TL10 |
+| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa98C | HWBKK-Q | BKK-AL00 |
+| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa98C | HWBKK-Q | BKK-AL10 |
+| Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa98C | HWBKK-Q | BKK-TL00 |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa9\xe5\xb9\xb3\xe6\x9d\xbf2 9.6 | HWBZA-Q | BZA-L00 |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa9\xe5\xb9\xb3\xe6\x9d\xbf2 9.6 | HWBZA-Q | BZA-W00 |
 | Huawei | \xe9\xba\xa6\xe8\x8a\x924 | hwRIO-AL00 | HUAWEI RIO-AL00 |
@@ -9435,6 +9444,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | V30 | joan | VS996 |
 | LGE | V30+ | L-01K | L-01K |
 | LGE | V30+ | joan | LGV35 |
+| LGE | V40 ThinQ | judypn | LM-V405 |
+| LGE | V40 ThinQ | judypn | LM-V409N |
 | LGE | VU3 | vu3 | LG-F300K |
 | LGE | VU3 | vu3 | LG-F300L |
 | LGE | VU3 | vu3 | LG-F300S |
@@ -9680,6 +9691,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Le Pan | TC1010 | FG6A-LP | Le Pan TC1010 |
 | Le Pan | TC1020 | FG6Q | Le Pan TC1020 |
 | Le Pan | TC802A | UY8 | Le Pan TC802A |
+| LeBest | S1 | S1 | S1 |
 | LeTV | Le 2 | le_s2 | Le X520 |
 | LeTV | Le 2 | le_s2_ww | Le X526 |
 | LeTV | Le 2 | le_s2_ww | Le X527 |
@@ -10110,6 +10122,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lenovo | Lenovo Tab 7 Essential | TB-7304N | Lenovo TB-7304N |
 | Lenovo | Lenovo Tab 7 Essential | TB-7304X | Lenovo TB-7304X |
 | Lenovo | Lenovo Tab E7 | TB7104F | Lenovo TB-7104F |
+| Lenovo | Lenovo Tab E7 | TB7104I | Lenovo TB-7104I |
 | Lenovo | Lenovo Tab M10 | X605F | Lenovo TB-X605F |
 | Lenovo | Lenovo Tab M10 | X605L | Lenovo TB-X605L |
 | Lenovo | Lenovo Tab4 10 Plus | X704A | TB-X704A |
@@ -12640,6 +12653,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Orange | idol S | Diablo_LTE | Orange Niva |
 | Orbic | R370H | R370H | R370L |
 | Orbic | Wonder | RC555L | RC555L |
+| Oukitel | C10 | C10 | C10 |
 | Oukitel | C6 Pro | C6_Pro | C6 Pro |
 | Oukitel | C8 | C8 | C8 |
 | Oukitel | C8 4G | C8_4G | C8 4G |
@@ -13373,6 +13387,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Prestigio | MULTIPAD WIZE 3331 3G | PN10A01G | PMT3331_3G |
 | Prestigio | MULTIPAD WIZE 3341 3G | PN10A01G | PMT3341_3G |
 | Prestigio | MULTIPAD WIZE 3787 3G | PMT3777_3G | PMT3787_3G |
+| Prestigio | MUZE V3 | TL49B4L | PSP3495DUO |
 | Prestigio | MultiPad Thunder 7.0i | g01p | PMT3377_Wi |
 | Prestigio | MultiPad Wize 3009 | PMT3009_Wi_C | PMT3009_Wi_C |
 | Prestigio | MultiPad Wize 3017 | PMT3017_WI | PMT3017_WI |
@@ -13946,6 +13961,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | STK(Santok) | Transporter 1 | STK_Transporter_1 | STK_Transporter_1 |
 | SUPERSONIC | SC-774KT | SC-774KT | SC-774KT |
 | SUPERSONIC | SC4009DL | SC4009DL | SC-4009DL |
+| SUPERSONIC | SC_1010JBBT | SC_1010JBBT | SC_1010JBBT |
 | SUPERSONIC | SC_4317BT | SC_4317BT | SC_4317BT |
 | SUPERSONIC | TAB7091 | TAB7091 | TAB7091 |
 | Safaricom | NEON LITE | NEON_LITE | NEON LITE |
@@ -15600,7 +15616,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A 10.1(2016) | gtanotexllte | SM-P585 |
 | Samsung | Galaxy Tab A 10.1(2016) | gtanotexllte | SM-P585Y |
 | Samsung | Galaxy Tab A 10.5 | gta2xllte | SM-T595 |
-| Samsung | Galaxy Tab A 10.5(2018) | gta2xllte | SM-T595 |
 | Samsung | Galaxy Tab A 7.0 | gtexslte | SM-T285 |
 | Samsung | Galaxy Tab A 7.0 | gtexslte | SM-T285M |
 | Samsung | Galaxy Tab A 7.0 | gtexslte | SM-T287 |
@@ -16440,6 +16455,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Skyworth | South Africa | open_fhd_sa | open_fhd |
 | Skyworth | South America | globe_sa | globe |
 | Smadl | SMADL | Matri2 | Matri2 |
+| Smadl | X7 | X7 | X7 |
 | Smailo | Smailo 2GO | Smailo_2GO | Smailo_2GO |
 | Smart | Advance Pro | Advance_Pro | Advance Pro |
 | Smart | Coral 4 | Coral_4 | Coral 4 |
@@ -17178,11 +17194,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TAG Heuer | Connected Modular 41 | spectralite | TAG Heuer |
 | TAG Heuer | Connected Modular 45 | anthracite | TAG Heuer |
 | TAG Heuer | Connected Modular 45 (China) | anthracite | TAG Heuer |
-| TCL | Alcatel 3 | A3A | 5152D |
 | TCL | L55E6700UDS | movo_la | movo_la |
 | TCL | LE50UHDE5692G | movo | movo |
 | TCL | Percee TV | tcl_sa | Percee TV |
 | TCL | South America | tcl | Percee TV |
+| TCL | TCL C5 | A3A | 5152D |
 | TCT (Alcatel) |  | A556C | A556C |
 | TCT (Alcatel) |  | A919_gsm | TCL A919 |
 | TCT (Alcatel) |  | ASB-D_T918 | ASB-D T918 |
@@ -17777,8 +17793,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Alcatel 1X | U5A_PLUS_4G | 5059T |
 | TCT (Alcatel) | Alcatel 1X | U5A_PLUS_4G | 5059X |
 | TCT (Alcatel) | Alcatel 1X | U5A_PLUS_4G | 5059Y |
-| TCT (Alcatel) | Alcatel 1X | U5A_PLUS_4G | 5159A |
-| TCT (Alcatel) | Alcatel 1X | U5A_PLUS_4G | 5159J |
 | TCT (Alcatel) | Alcatel 3 | A3A | 5052A |
 | TCT (Alcatel) | Alcatel 3 | A3A | 5052D |
 | TCT (Alcatel) | Alcatel 3 | A3A | 5052D_RU |
@@ -17797,11 +17811,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Alcatel 3X | A3A_PLUS | 5058J |
 | TCT (Alcatel) | Alcatel 3X | A3A_PLUS | 5058T |
 | TCT (Alcatel) | Alcatel 3X | A3A_PLUS | 5058Y |
-| TCT (Alcatel) | Alcatel 3X | A3A_PLUS | 5158A |
 | TCT (Alcatel) | Alcatel 5 | A5A_INFINI | 5086A |
 | TCT (Alcatel) | Alcatel 5 | A5A_INFINI | 5086D |
 | TCT (Alcatel) | Alcatel 5 | A5A_INFINI | 5086Y |
-| TCT (Alcatel) | Alcatel 5 | A5A_INFINI | 5186A |
 | TCT (Alcatel) | Alcatel 5 | A5A_INFINI | 5186D |
 | TCT (Alcatel) | Alcatel 5V | A5X | 5060A |
 | TCT (Alcatel) | Alcatel 5V | A5X | 5060D_RU |
@@ -18117,6 +18129,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | TCL A988 | one_touch_993D_gsm | ALCATEL ONE TOUCH 993D |
 | TCT (Alcatel) | TCL A988 | one_touch_993_gsm | ALCATEL ONE TOUCH 993 |
 | TCT (Alcatel) | TCL A988 | one_touch_993_gsm | MTC_968 |
+| TCT (Alcatel) | TCL C7 | A3A_PLUS | 5158A |
 | TCT (Alcatel) | TCL C995 | TCL_C995_cdma | TCL C995 |
 | TCT (Alcatel) | TCL D35 | SOUL35 | TCL D35 |
 | TCT (Alcatel) | TCL D40 DUAL | D40 | TCL D40 DUAL |
@@ -18150,6 +18163,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | TCL J929L | Diablo_LTE | TCL-J929L |
 | TCT (Alcatel) | TCL J938M | RIO55_LTE | TCL J938M |
 | TCT (Alcatel) | TCL L5 | U3A_PLUS_4G | 5133A |
+| TCT (Alcatel) | TCL L9 | U5A_PLUS_4G | 5159A |
+| TCT (Alcatel) | TCL L9 | U5A_PLUS_4G | 5159J |
 | TCT (Alcatel) | TCL LX | U50A_PLUS_TF | A502DL |
 | TCT (Alcatel) | TCL M2M | CROSS2 | TCL M2M |
 | TCT (Alcatel) | TCL M2U | CROSS2 | TCL M2U |
@@ -18189,6 +18204,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | TCL S960 | DIABLOXPLUS | TCL S960 |
 | TCT (Alcatel) | TCL S960T | DIABLOXPLUS | TCL S960T |
 | TCT (Alcatel) | TCL T500L | evoque_cn | TCL T500L |
+| TCT (Alcatel) | TCL T7 | A5A_INFINI | 5186A |
 | TCT (Alcatel) | TCL Y900 | Scribe5HD_GSM | TCL Y900 |
 | TCT (Alcatel) | TCL Y910 | SCRIBEPRO | TCL Y910 |
 | TCT (Alcatel) | TCL Y910T | SCRIBEPRO | TCL Y910T |
@@ -21071,7 +21087,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | tmn smart a15 | atlas40 | tmn smart a15 |
 | ZTE | tmn smart a60 | kiska | tmn smart a60 |
 | ZTE | tmn smart a7 | sailboat | tmn smart a7 |
+| Zatec | ZATEC_Play_series | ZATEC_Play | Play |
 | Zatec | ZPLAY1_2018 | Zatec_Zplay | ZPLAY1_2018 |
+| Zatec | Zpower_Plus | Zpower_Plus | Zpower_Plus |
 | Zebex | Z-2252 | Z-2252 | Z-2252 |
 | Zebra | CC5000 | concierge | CCHUB1 |
 | Zebra | ET5X | ET50E | ET5X |
@@ -21116,6 +21134,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Zen | ADMIRE CURVE NEO | ZEN_ADMIRE_CURVE_NEO | ADMIRE_CURVE_NEO |
 | Zen | ADMIRE SHINE | ADMIRE_SHINE | ADMIRE SHINE |
 | Zen | Admire Blaze | ZEN_ADMIRE_BLAZE | Admire Blaze |
+| Zen | Admire Infinity Neo | ADMIRE_INFINITY_NEO | ADMIRE_INFINITY_NEO |
 | Zen | Blaze | CIN_INFINITY_BLAZE | CINEMAX_INFINITY_BLAZE |
 | Zen | Cinemax Infinity + | CIN_INFINITY_PLUS | CINEMAX INFINITY+ |
 | Zen | ZEN ADMIRE NEO PLUS | ZEN_ADMIRE_NEO_PLUS | ADMIRE NEO+ |
