@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 12.10.2018
+Last sync is 13.10.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1979,6 +1979,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Bluboo | D2 Pro | D2_Pro | D2_Pro |
 | Bluboo | D5 | D5 | D5 |
 | Bluboo | D5 Pro | D5_Pro | D5 Pro |
+| Bluboo | D6 Lite | D6Lite | D6 Lite |
 | Bluboo | D6 Pro | D6Pro | D6 Pro |
 | Bluboo | R2 Pro | BLUBOO_R2_Pro | R2 Pro |
 | Bluboo | S1a | S1a | S1a |
@@ -2855,6 +2856,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DO Mobile | Mate1 | Mate1 | Mate1 |
 | DTC products | S10 | S10 | S10 |
 | DTC products | S30 | S30 | S30 |
+| DTV (Thai) | P3 | Digital_Life_P3 | P3 |
 | Daehap | DH-B301K | DH-B301K | DH-B301K |
 | Danew | DSlide 710 | Dslide710 | Dslide710 |
 | Danew | DSlide 750 | Danew_DSlide750 | DSlide750 |
@@ -3242,9 +3244,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | EKO | EKO OMEGA LTE Q60 | EKO_OMEGA_LTE_Q60 | EKO OMEGA LTE Q60 |
 | EKO | EKO OMEGA Q55 | EKO_OMEGA_Q55 | EKO OMEGA Q55 |
 | EKO | EKO Star LTE G60 | EKO_Star_LTE_G60 | EKO Star LTE G60 |
+| ENIE | E4Pro | E4Pro | E4Pro |
 | ENIE | EH3 | EH3 | EH3 |
 | ENTITY | GDENTMY7317 | GDENTMY7317 | GDENTMY7317 |
 | EPIKONE | K400 | K400 | K400 |
+| EPIKONE | K500 | K500 | K500 |
 | EPIKONE | K502 | K502 | K502 |
 | EPIKONE | RS550 | RS550 | RS550 |
 | EPIKONE | X500 | X500 | X500 |
@@ -6377,11 +6381,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | HUAWEI MediaPad M3 Lite 10 wp | HWHDN-H | HDN-L09 |
 | Huawei | HUAWEI MediaPad M3 Lite 10 wp | HWHDN-H | HDN-W09 |
 | Huawei | HUAWEI MediaPad M5 10.8 | HWCMR09 | CMR-AL09 |
-| Huawei | HUAWEI MediaPad M5 10.8" | HWCMR09 | CMR-AL09 |
-| Huawei | HUAWEI MediaPad M5 10.8" | HWCMR09 | CMR-W09 |
+| Huawei | HUAWEI MediaPad M5 10.8 | HWCMR09 | CMR-W09 |
 | Huawei | HUAWEI MediaPad M5 8.4 | HWSHT | SHT-AL09 |
-| Huawei | HUAWEI MediaPad M5 8.4" | HWSHT | SHT-AL09 |
-| Huawei | HUAWEI MediaPad M5 8.4" | HWSHT | SHT-W09 |
+| Huawei | HUAWEI MediaPad M5 8.4 | HWSHT | SHT-W09 |
 | Huawei | HUAWEI MediaPad M5 Pro | HWCMR | CMR-AL19 |
 | Huawei | HUAWEI MediaPad M5 Pro | HWCMR | CMR-W19 |
 | Huawei | HUAWEI MediaPad M5 lite | HWBAH2 | BAH2-L09 |
@@ -12647,6 +12649,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Orange | Rise51 | PIXI4_5_4G | Orange-Rise51 |
 | Orange | Rise51 | PIXI4_5_4G | Orange-Rise51B |
 | Orange | Rise52 | BUZZ6T4G | Orange-Rise52 |
+| Orange | Rise_54 | Rise_54 | Orange Rise 54 |
 | Orange | Roya | Alto45 | Orange Roya |
 | Orange | Sego | Orange_Sego | Orange Sego |
 | Orange | Zilo | Orange_Zilo | Zilo |
@@ -13797,6 +13800,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Raylandz | P5000 | P5000 | P5000 |
 | Raylandz | PHOENIX_N1 | PHOENIX_N1 | PHOENIX N1 |
 | Razer | Forge TV | pearlyn | Forge |
+| Razer | Phone 2 | aura | Phone 2 |
+| Razer | Phone 2 | bolt | Phone 2 |
+| Razer | Phone 2 | linus | Phone 2 |
 | Razer | Razer Phone | cheryl | Phone |
 | Razer | Razer phone | cheryl_ckh | Phone |
 | Realtime | RS405 | RS405 | RS405 |
@@ -15604,6 +15610,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A (2017) | gta2swifichn | SM-T380C |
 | Samsung | Galaxy Tab A (2018, 10.5) | gta2xllte | SM-T595 |
 | Samsung | Galaxy Tab A (2018, 10.5) | gta2xlltechn | SM-T595C |
+| Samsung | Galaxy Tab A (2018, 10.5) | gta2xlltekx | SM-T595N |
 | Samsung | Galaxy Tab A (2018, 10.5) | gta2xlwifi | SM-T590 |
 | Samsung | Galaxy Tab A (2018, 10.5) | gta2xlwifichn | SM-T590 |
 | Samsung | Galaxy Tab A 10.1 | gtanotexlwifikx | SM-P580 |
@@ -15649,7 +15656,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A Lite | gtasliteltetmo | SM-T387T |
 | Samsung | Galaxy Tab A S 8.0 | gt58ltebmc | SM-T357W |
 | Samsung | Galaxy Tab A(10.5) | gta2xllte | SM-T597 |
-| Samsung | Galaxy Tab A(10.5) | gta2xlltekx | SM-T595N |
 | Samsung | Galaxy Tab Active | rubenslte | SM-T365Y |
 | Samsung | Galaxy Tab Active2 | gtactive2lte | SM-T395 |
 | Samsung | Galaxy Tab Active2 | gtactive2ltechn | SM-T395C |
@@ -18081,7 +18087,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Pixo 7 | PIXO7 | I212 |
 | TCT (Alcatel) | Pixo 7 | PIXO7 | I213 |
 | TCT (Alcatel) | Pop4 | POP455C | Pop4 |
-| TCT (Alcatel) | Rise_54 | Rise_54 | Orange Rise 54 |
 | TCT (Alcatel) | S4035_4G | Pop355 | S4035_4G |
 | TCT (Alcatel) | SHINE LITE | shine_lite | 5080D |
 | TCT (Alcatel) | SHINE LITE | shine_lite | 5080X |
@@ -18254,10 +18259,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Xess mini | Xess-mini | TCL Xess miniC15BA |
 | TCT (Alcatel) | Xess-mini | Xess-mini | TCL Xess C15BA |
 | TCT (Alcatel) | alcatel 1X | Edison | 5008A |
-| TCT (Alcatel) | alcatel 1X | Edison | 5008D |
 | TCT (Alcatel) | alcatel 1X | Edison | 5008T |
 | TCT (Alcatel) | alcatel 1X | Edison | 5008Y |
 | TCT (Alcatel) | alcatel 1X | Edison | 5008Y_RU |
+| TCT (Alcatel) | alcatel 1X/TCL 1X | Edison | 5008D |
 | TCT (Alcatel) | alcatel PIXI 4 (5.5) | PIXI4_55_3G | 5012D |
 | TCT (Alcatel) | alcatel PIXI 4 (5.5) | PIXI4_55_3G | 5012F |
 | TCT (Alcatel) | alcatel PIXI 4 (5.5) | PIXI4_55_3G | 5012G |
@@ -18774,6 +18779,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ulefone | Ulefone_S1 | Ulefone_S1 | Ulefone_S1 |
 | Ulefone | Ulefone_S7 | Ulefone_S7 | Ulefone S7 |
 | Ulefone | Ulefone_X | Ulefone_X | Ulefone_X |
+| Umax | 7Qa_3G | 7Qa_3G | 7Qa_3G |
 | Umax | UMAX | visionbook_P55_LTE | visionbook P55 LTE |
 | Umax | VisionBook P50 Plus LTE | P50Plus_LTE | VisionBook_P50Plus_LTE |
 | Umax | VisionBook P55 X2 LTE | VisionBook_P55_X2_LTE | VisionBook P55 X2 LTE |
