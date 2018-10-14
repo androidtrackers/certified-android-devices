@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 13.10.2018
+Last sync is 14.10.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10706,6 +10706,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Mecer | TEI11011 | TEI11011MST | TEI11011MST |
 | Mecer | TF10EA2 | TF10EA2_11 | TF10EA2 |
 | Mecer | TF10MK1 | TF10MK1_2 | TF10MK1 |
+| Mediacom | 7BY | 7BY | 7BY |
 | Mediacom | G5M | M-PPxG5M | M-PPxG5M |
 | Mediacom | M-PPAG4 | M-PPAG4 | M-PPAG4 |
 | Mediacom | M-PPxG4P | G4P | M-PPxG4P |
