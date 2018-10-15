@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 14.10.2018
+Last sync is 15.10.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3063,6 +3063,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Digma | Digma Optima Prime 5 3G TS7198PG | TS7198PG | Optima Prime 5 3G TS7198PG |
 | Digma | Digma Plane 1584S 3G PS1201PG | PS1201PG | Plane 1584S 3G PS1201PG |
 | Digma | Digma Plane 7580S 4G PS7192PL | PS7192PL | Plane 7580S 4G PS7192PL |
+| Digma | Digma Plane 8580 4G PS8199ML | PS8199ML | Plane 8580 4G PS8199ML |
 | Digma | Digma Platina 1579M 4G NS1800ML | NS1800ML | Platina 1579M 4G NS1800ML |
 | Digma | LINX A452 3G | LT4030PG | LINX A452 3G LT4030PG |
 | Digma | Optima_8019N_4G | TS8182ML | Optima 8019N 4G TS8182ML |
