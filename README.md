@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 15.10.2018
+Last sync is 16.10.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1218,6 +1218,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Asus | ZenFone Go (ZB690KG) | ASUS_L001_2 | ASUS_L001 |
 | Asus | ZenFone Go (ZC451TG) | ASUS_Z00SD | ASUS_Z00SD |
 | Asus | ZenFone Go (ZC500TG) | ASUS_Z00VD | ASUS_Z00VD |
+| Asus | ZenFone Lite L1 (ZA551KL) | ASUS_X00R_5 | ASUS_X00RD |
 | Asus | ZenFone Live (ZB501KL) | ASUS_A007 | ASUS_A007 |
 | Asus | ZenFone Live L1 (ZA550KL) | ASUS_X00R_1 | ASUS_X00RD |
 | Asus | ZenFone Live L1 (ZA550KL) | ASUS_X00R_2 | ASUS_X00RD |
@@ -1764,6 +1765,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blackview | BV6000S_RU | BV6000S_RU | BV6000S_RU |
 | Blackview | BV6000_RU | BV6000_RU | BV6000_RU |
 | Blackview | BV6000s | BV6000S | BV6000S |
+| Blackview | BV6800Pro | BV6800Pro | BV6800Pro |
 | Blackview | BV7000 | BV7000 | BV7000 |
 | Blackview | BV7000 Pro | BV7000_Pro | BV7000 Pro |
 | Blackview | BV7000Pro_RU | BV7000_Pro | BV7000 Pro |
@@ -5006,6 +5008,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | HTC | U11 Life | htc_ocluhljapan | HTC U11 Life |
 | HTC | U11 Life | htc_ocluhljapan | HTC U11 life |
 | HTC | U12 + | htc_imedtwl | HTC 2Q55300 |
+| HTC | U12 Life | htc_imldugl | HTC 2Q6E1 |
+| HTC | U12 Life | htc_imldugl | HTC U12 life |
 | HTC | U12+ | htc_imedugl | HTC 2Q551 |
 | HTC | U12+ | htc_imedugl | HTC 2Q551+ |
 | HTC | U12+ | htc_imedugl | HTC 2Q55100 |
@@ -6436,6 +6440,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | HUAWEI Y9 2018 | HWFLA-H | FLA-LX2 |
 | Huawei | HUAWEI Y9 2018 | HWFLA-H | FLA-LX3 |
 | Huawei | HUAWEI Y9 2019 | HWJKM-H | JKM-LX1 |
+| Huawei | HUAWEI Y9 2019 | HWJKM-H | JKM-LX2 |
+| Huawei | HUAWEI Y9 2019 | HWJKM-H | JKM-LX3 |
 | Huawei | HUAWEI nova 2 Plus | HWBAC | BAC-L21 |
 | Huawei | HUAWEI nova 2 Plus | HWBAC | BAC-L22 |
 | Huawei | HUAWEI nova 2 lite | HWLDN-Q | LDN-LX2 |
@@ -7132,6 +7138,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe6\x8f\xbd\xe9\x98\x85M2\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x887.0 | hwple703l | PLE-703L |
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab 8e \xe9\x9d\x92\xe6\x98\xa5 | HWDRA-M | DRA-AL00 |
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab 8e \xe9\x9d\x92\xe6\x98\xa5 | HWDRA-M | DRA-TL00 |
+| Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab MAX | HWARS-Q | ARS-AL00 |
+| Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab MAX | HWARS-Q | ARS-TL00 |
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab6 | HWNCE-L6750 | NCE-AL00 |
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab6 | HWNCE-L6750 | NCE-AL10 |
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab6 | HWNCE-L6750 | NCE-TL10 |
@@ -7156,6 +7164,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab8 Plus | HWFLA-H | FLA-TL10 |
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab8e | HWATU-QC | ATU-AL10 |
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab8e | HWATU-QC | ATU-TL10 |
+| Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab9 Plus | HWJKM-H | JKM-AL00 |
+| Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab9 Plus | HWJKM-H | JKM-TL00 |
+| Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab9 Plus | HWJKM-HM | JKM-AL00a |
+| Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab9 Plus | HWJKM-HM | JKM-AL00b |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x80 8X | HWJSN-H | JSN-AL00 |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x80 8X | HWJSN-H | JSN-TL00 |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x80 8X | HWJSN-HM | JSN-AL00a |
@@ -7335,6 +7347,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | INOI | INOI_3 | INOI_3 | INOI_3 |
 | INOI | INOI_3_LITE | INOI_3_LITE | INOI_3_LITE |
 | INOI | INOI_3_POWER | INOI_3_POWER | INOI_3_POWER |
+| INOI | INOI_5i_Lite | INOI_5i_Lite | INOI_5i_Lite |
 | INOI | INOI_6 | INOI_6 | INOI_6 |
 | INOI | INOI_6_LITE | INOI_6_Lite | INOI_6_Lite |
 | INOI | INOI_7_LITE | INOI_7_LITE | INOI_7_LITE |
@@ -8761,6 +8774,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG G7 ThinQ | judyln | LM-G710 |
 | LGE | LG G7 ThinQ | judyln | LM-G710N |
 | LGE | LG G7 ThinQ | judyln | LM-G710VM |
+| LGE | LG G7 fit | falcon | LM-Q850 |
 | LGE | LG GRACE\xe2\x84\xa2 LTE | lv517 | LGL59BL |
 | LGE | LG Gentle | cfm | LG-F660L |
 | LGE | LG Gpad X 10.1 | t1lte | LG-V930 |
@@ -11080,6 +11094,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Micromax | Vdeo 4 | Q4251 | Micromax Q4251 |
 | Micromax | Vdeo 5 | Q4220 | Micromax Q4220 |
 | Micromax | Xpress 2 | E313 | Micromax E313 |
+| Micromax | YU ACE | YU5014 | YU5014 |
 | Micromax | YUNIQUE | YUNIQUE | YU4711 |
 | Micromax | YUREKA S | YUREKA2 | YU5200 |
 | Micromax | YUREKA S | YUREKA2 | YU5551 |
@@ -11282,6 +11297,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Monster | M10 | M10 | M10 |
 | Monsterpad | Monsterpad7 | Monsterpad7 | Monsterpad7 |
 | Montblanc | SUMMIT | lionfish | MB SUMMIT |
+| Montblanc | SUMMIT | triton | SUMMIT |
 | Montblanc | Summit | lionfish | MB SUMMIT |
 | Most Computers | Revo You | RevoYou | RevoYou |
 | Motorola |  | A853 | Milestone |
@@ -11675,6 +11691,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Motorola | moto p30 play | deen | XT1941-2 |
 | Motorola | moto z3 play | beckham | Moto Z3 Play |
 | Motorola | motorola one | deen_sprout | motorola one |
+| Motorola | motorola one power | chef_sprout | moto x4 |
+| Motorola | motorola one power | chef_sprout | motorola one power |
 | Motorola Solutions | LEX F10 | LEXF10 | LEX F10 |
 | Motorola Solutions | LEX L10g | lexl10g | LEX L10g |
 | Motorola Solutions | LEX L10ig | lexl10ig | LEX L10ig |
@@ -12196,6 +12214,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nokia | Nokia 8 Sirocco | A1N_sprout | Nokia 8 Sirocco |
 | Nokia | Nokia X5 | PDA | Nokia X5 |
 | Nokia | Nokia X6 | DRG | Nokia X6 |
+| Nokia | Nokia X7 | PNX | Nokia X7 |
 | Nomi | CORSA 3 LTE | Nomi_C070030 | Nomi_C070030 |
 | Nomi | Corsa 3 3G | Nomi_C070012 | Nomi_C070012 |
 | Nomi | I5032 | Nomi_i5032 | i5032 |
@@ -12599,8 +12618,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oppo | R9st | R9s | OPPO R9st |
 | Oppo | R9t | R9 | OPPO R9t |
 | Oppo | R9tm | R9 | OPPO R9tm |
+| Oppo | RMX1801 | RMX1801 | RMX1801 |
+| Oppo | RMX1803 | RMX1803 | RMX1803 |
 | Oppo | RMX1805 | RMX1805 | RMX1805 |
+| Oppo | RMX1807 | RMX1807 | RMX1807 |
 | Oppo | RMX1809 | RMX1809 | RMX1809 |
+| Oppo | RMX1811 | RMX1811 | RMX1811 |
 | Oppo | U3 | U3 | U3 |
 | Oppo | U707 | U707 | U707 |
 | Oppo | U707T | U707T | U707T |
@@ -12834,6 +12857,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Panasonic | FZ-N1 | FZ-N1VUCF | FZ-N1 |
 | Panasonic | FZ-N1 | FZ-N1VUF | FZ-N1 |
 | Panasonic | FZ-N1F | FZ-N1F | FZ-N1 |
+| Panasonic | FZ-N1VU | FZ-N1VU | FZ-N1 |
 | Panasonic | FZ-X1 | FZ-X1 | FZ-X1 |
 | Panasonic | FZ-X1 | FZ-X1VU | FZ-X1 |
 | Panasonic | FZ-X1 | FZ-X1VUC | FZ-X1 |
@@ -13472,6 +13496,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Prestigio | PMT7287C3G | PMT7287C3G | PMT7287C3G |
 | Prestigio | PMT7287_3G | PMT7287_3G | PMT7287_3G |
 | Prestigio | PMT7787_3G | PMT7787_3G | PMT7787_3G |
+| Prestigio | PMT7788_4G | CF80A5L | PMT7788_4G |
 | Prestigio | PSP3403DUO | GF40B1G | PSP3403DUO |
 | Prestigio | PSP3404DUO | PSP3404DUO | PSP3404DUO |
 | Prestigio | PSP3405DUO | PSP3405DUO | PSP3405DUO |
@@ -13645,6 +13670,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | QMobile | S8 | QMobile_S8 | S8 |
 | QMobile | S8_Lite | QMobile_S8_Lite | S8_Lite |
 | QMobile | S9 | S9 | S9 |
+| QMobile | Smart_Power | Smart_Power | QMobile Smart Power |
 | QMobile | V100 | QTab_V100 | V100 |
 | QMobile | V2 2018 | V2_2018 | V2 2018 |
 | QMobile | V200 | QTab_V200 | V200 |
@@ -14139,6 +14165,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy A7 | a7lteskt | SM-A700S |
 | Samsung | Galaxy A7 (2018) | a7y18lte | SM-A750F |
 | Samsung | Galaxy A7 (2018) | a7y18lte | SM-A750FN |
+| Samsung | Galaxy A7 (2018) | a7y18lte | SM-A750GN |
 | Samsung | Galaxy A7(2016) | a7xelte | SM-A710F |
 | Samsung | Galaxy A7(2016) | a7xelte | SM-A710M |
 | Samsung | Galaxy A7(2016) | a7xelte | SM-A710X |
@@ -14572,6 +14599,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J2 Prime | grandpplte | SM-G532G |
 | Samsung | Galaxy J2 Prime | grandpplte | SM-G532M |
 | Samsung | Galaxy J2 Pro | j2xlteins | SM-J210F |
+| Samsung | Galaxy J2 Pro | j2y18lte | SM-J250F |
 | Samsung | Galaxy J2 Pro | j2y18lte | SM-J250G |
 | Samsung | Galaxy J2 Pro | j2y18lte | SM-J250M |
 | Samsung | Galaxy J2(2016) | j2xlte | SM-J210F |
@@ -17202,11 +17230,17 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TAG Heuer | Connected Modular 41 | spectralite | TAG Heuer |
 | TAG Heuer | Connected Modular 45 | anthracite | TAG Heuer |
 | TAG Heuer | Connected Modular 45 (China) | anthracite | TAG Heuer |
+| TCL | 1X | Edison | 5008D |
 | TCL | L55E6700UDS | movo_la | movo_la |
 | TCL | LE50UHDE5692G | movo | movo |
 | TCL | Percee TV | tcl_sa | Percee TV |
 | TCL | South America | tcl | Percee TV |
 | TCL | TCL C5 | A3A | 5152D |
+| TCL | TCL C7 | A3A_PLUS | 5158A |
+| TCL | TCL L5 | U3A_PLUS_4G | 5133A |
+| TCL | TCL L9 | U5A_PLUS_4G | 5159A |
+| TCL | TCL L9 | U5A_PLUS_4G | 5159J |
+| TCL | TCL T7 | A5A_INFINI | 5186A |
 | TCT (Alcatel) |  | A556C | A556C |
 | TCT (Alcatel) |  | A919_gsm | TCL A919 |
 | TCT (Alcatel) |  | ASB-D_T918 | ASB-D T918 |
@@ -18136,7 +18170,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | TCL A988 | one_touch_993D_gsm | ALCATEL ONE TOUCH 993D |
 | TCT (Alcatel) | TCL A988 | one_touch_993_gsm | ALCATEL ONE TOUCH 993 |
 | TCT (Alcatel) | TCL A988 | one_touch_993_gsm | MTC_968 |
-| TCT (Alcatel) | TCL C7 | A3A_PLUS | 5158A |
 | TCT (Alcatel) | TCL C995 | TCL_C995_cdma | TCL C995 |
 | TCT (Alcatel) | TCL D35 | SOUL35 | TCL D35 |
 | TCT (Alcatel) | TCL D40 DUAL | D40 | TCL D40 DUAL |
@@ -18169,9 +18202,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | TCL J928 | Prius | TCL J928 |
 | TCT (Alcatel) | TCL J929L | Diablo_LTE | TCL-J929L |
 | TCT (Alcatel) | TCL J938M | RIO55_LTE | TCL J938M |
-| TCT (Alcatel) | TCL L5 | U3A_PLUS_4G | 5133A |
-| TCT (Alcatel) | TCL L9 | U5A_PLUS_4G | 5159A |
-| TCT (Alcatel) | TCL L9 | U5A_PLUS_4G | 5159J |
 | TCT (Alcatel) | TCL LX | U50A_PLUS_TF | A502DL |
 | TCT (Alcatel) | TCL M2M | CROSS2 | TCL M2M |
 | TCT (Alcatel) | TCL M2U | CROSS2 | TCL M2U |
@@ -18211,7 +18241,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | TCL S960 | DIABLOXPLUS | TCL S960 |
 | TCT (Alcatel) | TCL S960T | DIABLOXPLUS | TCL S960T |
 | TCT (Alcatel) | TCL T500L | evoque_cn | TCL T500L |
-| TCT (Alcatel) | TCL T7 | A5A_INFINI | 5186A |
 | TCT (Alcatel) | TCL Y900 | Scribe5HD_GSM | TCL Y900 |
 | TCT (Alcatel) | TCL Y910 | SCRIBEPRO | TCL Y910 |
 | TCT (Alcatel) | TCL Y910T | SCRIBEPRO | TCL Y910T |
@@ -18262,9 +18291,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Xess-mini | Xess-mini | TCL Xess C15BA |
 | TCT (Alcatel) | alcatel 1X | Edison | 5008A |
 | TCT (Alcatel) | alcatel 1X | Edison | 5008T |
+| TCT (Alcatel) | alcatel 1X | Edison | 5008U |
 | TCT (Alcatel) | alcatel 1X | Edison | 5008Y |
 | TCT (Alcatel) | alcatel 1X | Edison | 5008Y_RU |
-| TCT (Alcatel) | alcatel 1X/TCL 1X | Edison | 5008D |
 | TCT (Alcatel) | alcatel PIXI 4 (5.5) | PIXI4_55_3G | 5012D |
 | TCT (Alcatel) | alcatel PIXI 4 (5.5) | PIXI4_55_3G | 5012F |
 | TCT (Alcatel) | alcatel PIXI 4 (5.5) | PIXI4_55_3G | 5012G |
@@ -18316,6 +18345,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tambo | TA-3 | TA-3 | TA-3 |
 | Tambo | TA-4 | TA-4 | TA-4 |
 | Tanoshi | TTBKB10-01 | TTBKB10-01 | Tanoshi 2-in-1 |
+| Tech 4u | Aqua | Aqua | Aqua |
 | Tech 4u | Fire | Fire | Fire |
 | Tech 4u | Force | t592_otd_tech_4u_we | Force |
 | Tech 4u | I8 | I8 | I8 |
@@ -18691,6 +18721,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Trimble Navigation | MM50 | EE773X_4G | TDC100_4G |
 | Trimble Navigation | MM50 | EE773X_WiFi | MobileMapper50_WiFi |
 | Trimble Navigation | MM50 | EE773X_WiFi | TDC100_WiFi |
+| Trimble Navigation | Normad 5 | pdog | Nomad 5 |
 | Trimble Navigation | PeopleNet ConnectedTablet | MS5 | MS5 |
 | Trimble Navigation | TD-520 | td520 | TD520 |
 | Trimble Navigation | TDC100_WiFi | EE773X_WiFi | MobileMapper50_WiFi |
@@ -18702,6 +18733,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Trimble Navigation | TDI 600 | ulmo_pro | Rugged Tablet |
 | Trimble Navigation | TDI 600 | ulmo_pro | TDI 600 |
 | Trimble Navigation | Trimble ConnectedTablet | MS5 | MS5 |
+| Trimble Navigation | U503 | pdog | Nomad 5 |
 | Trio | 7.85 | astar-y3 | TRIO-7.85 |
 | Trio | 7.85 vQ | Trio-785-vQ | Trio 7.85 vQ |
 | Trio | AXS 3G | Trio_AXS_3G | Trio AXS 3G |
@@ -19151,6 +19183,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vivo | Y937 | PD1503 | vivo Y937 |
 | Vivo | Y97 | PD1813 | V1813A |
 | Vivo | Z1 | PD1730C | vivo Z1 |
+| Vivo | Z3i | PD1813C | V1813A |
 | Vivo | vivo  X21i  A | PD1801 | vivo X21i A |
 | Vivo | vivo  Y75s | PD1708C | vivo Y75s |
 | Vivo | vivo  Y85A | PD1730 | vivo Y85A |
@@ -21173,6 +21206,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ziox | Duopix R1 | Duopix_R1 | Duopix R1 |
 | Zoji | Z9 | Z9 | Z9 |
 | Zonda | AWM533 | AWM533 | AWM533 |
+| Zoom | Z101G | Z101G | Z101G |
 | Zopo | L63 | INHOh_L63 | L63 |
 | Zopo | P5000 | P5000 | P5000 |
 | Zopo | PRO1 | Benten_PRO1 | PRO1 |
