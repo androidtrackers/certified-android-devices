@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 16.10.2018
+Last sync is 17.10.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1485,6 +1485,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | BMobile | AX681 | Bmobile_AX681A | AX681 |
 | BMobile | AX683 | Bmobile_AX683 | AX683 |
 | BMobile | AX684 | Bmobile_AX684 | AX684 |
+| BMobile | AX684A | Bmobile_AX684A | AX684 |
 | BMobile | AX685 | Bmobile_AX685 | AX685 |
 | BMobile | AX685 | Bmobile_AX685 | Bmobile_AX685 |
 | BMobile | AX686 | Bmobile_AX686 | AX686 |
@@ -1556,6 +1557,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | BQru | BQ-5511L | BQru_5511L | BQ-5511L |
 | BQru | BQ-5512L STRIKE FORWARD | BQru-5512L | BQ-5512L |
 | BQru | BQ-5517L TWIN PRO | BQru-5517L | BQ-5517L |
+| BQru | BQ-5520L Silk | BQru-5520L | BQ-5520L |
 | BQru | BQ-5521 STRIKE POWER MAX | BQru-5521 | BQru-5521 |
 | BQru | BQ-5522\xc2\xa0Next | BQru-5522 | BQ-5522 |
 | BQru | BQ-5590 Spring | BQru_5590 | BQru_5590 |
@@ -6373,6 +6375,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | HUAWEI GR5 2017 | HWBLN-H | BLL-L22 |
 | Huawei | HUAWEI GR5 2017 | HWBLN-H | HUAWEI BLL-L21 |
 | Huawei | HUAWEI GR5 2017 | HWBLN-H | HUAWEI BLL-L22 |
+| Huawei | HUAWEI Mate 20 Pro | HWLYA | LYA-L29 |
 | Huawei | HUAWEI Mate 20 lite | HWSNE | SNE-LX1 |
 | Huawei | HUAWEI Mate 9 lite | HWBLN-H | BLL-L23 |
 | Huawei | HUAWEI Mate 9 lite | HWBLN-H | HUAWEI BLL-L23 |
@@ -6599,6 +6602,19 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | Mate 10 lite | HWRNE | RNE-L03 |
 | Huawei | Mate 10 lite | HWRNE | RNE-L21 |
 | Huawei | Mate 10 lite | HWRNE | RNE-L23 |
+| Huawei | Mate 20 | HWHMA | HMA-AL00 |
+| Huawei | Mate 20 | HWHMA | HMA-L09 |
+| Huawei | Mate 20 | HWHMA | HMA-L29 |
+| Huawei | Mate 20 | HWHMA | HMA-TL00 |
+| Huawei | Mate 20 Pro | HWLYA | LYA-AL00 |
+| Huawei | Mate 20 Pro | HWLYA | LYA-AL00P |
+| Huawei | Mate 20 Pro | HWLYA | LYA-AL10 |
+| Huawei | Mate 20 Pro | HWLYA | LYA-L09 |
+| Huawei | Mate 20 Pro | HWLYA | LYA-L29 |
+| Huawei | Mate 20 Pro | HWLYA | LYA-TL00 |
+| Huawei | Mate 20 X | HWEVR | EVR-AL00 |
+| Huawei | Mate 20 X | HWEVR | EVR-L29 |
+| Huawei | Mate 20 X | HWEVR | EVR-TL00 |
 | Huawei | Mate 20 lite | HWSNE | SNE-LX1 |
 | Huawei | Mate 20 lite | HWSNE | SNE-LX2 |
 | Huawei | Mate 20 lite | HWSNE | SNE-LX3 |
@@ -7602,6 +7618,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Innjoo | Max 4 Pro | Max_4_Pro | Max 4 Pro |
 | Innjoo | Max3 LTE | Max3_LTE | Max3_LTE |
 | Innjoo | VISION LTE | VISION_LTE | VISION LTE |
+| Inovacel | INOVACEL S24 | S24 | S24 |
 | Insignia | FLEX 8\xe2\x80\x99\xe2\x80\x99 LTE Android Tablet | ns_15t8lte | NS-15T8LTE |
 | Insignia | Flex 10.1 | ns_14t004 | NS-14T004 |
 | Insignia | Flex 8" | ns_15at08 | NS-15AT08 |
@@ -7914,6 +7931,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Jinga | JoyPRO | JI55B_189BW | JoyPRO |
 | Jinga | Optim 4G | Optim4G | Optim4G |
 | Jinga | Pass | Pass | Pass |
+| Jinga | Pass Plus | JI55AG_189ID | PassPlus |
 | Jinga | SmartPRO | JI55_216M | SmartPRO |
 | Jinga | Start 3G | Start3G | Start3G |
 | Jinga | Touch 4G | Touch4G | Touch4G |
@@ -9047,10 +9065,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG Q6 | mhn | LGM-X600K |
 | LGE | LG Q6 | mhn | LGM-X600L |
 | LGE | LG Q6 | mhn | LGM-X600S |
-| LGE | LG Q7 | cv5a | LM-Q610(FGN) |
 | LGE | LG Q7 | mcv5a | LM-Q610.FG |
 | LGE | LG Q7 | mcv5a | LM-Q610.FGN |
 | LGE | LG Q7 | mcv5a | LM-Q617.FGN |
+| LGE | LG Q7+ | cv5a | LM-Q610(FGN) |
 | LGE | LG Q7+ | cv5an | LM-Q725K |
 | LGE | LG Q7+ | cv5an | LM-Q725L |
 | LGE | LG Q7+ | cv5an | LM-Q725S |
@@ -10192,6 +10210,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lenovo | PB2 plus | PB2-670M1 | Lenovo PB2-670M1 |
 | Lenovo | PB2-650Y | PB2 | Lenovo PB2-650Y |
 | Lenovo | PC-TE410JAW | PC-TE410JAW | PC-TE410JAW |
+| Lenovo | PC-TE410JAW | PC-TE510JAW | PC-TE510JAW |
 | Lenovo | PC-TE510HAW | X704F | PC-TE510HAW |
 | Lenovo | PHAB 2 | PB2 | Lenovo PB2-650N |
 | Lenovo | PHAB 2 Plus | PB2-670N | Lenovo PB2-670N |
@@ -10880,6 +10899,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Micromax | A89 | A89 | A89 |
 | Micromax | A91 | A91 | A91 |
 | Micromax | A91 | A91 | Micromax A91 |
+| Micromax | B5 Pro | B5_Pro | Micromax B5 Pro |
 | Micromax | BOLT | A068 | A068 |
 | Micromax | BOLT | A069 | Micromax A069 |
 | Micromax | BOLT | A24 | Micromax A24 |
@@ -12072,6 +12092,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Navon | Predator 10 | Predator_10 | Predator 10 |
 | Navon | Predator 3G | Predator_3G | Predator 3G |
 | Navon | S450 | S450 | S450 |
+| Navon | SKY | Sky | Sky |
 | Navon | Superme_Max | Superme_Max | Superme_Max |
 | Navon | Supreme Chief | Supreme_Chief | Supreme Chief |
 | Navon | Supreme Fine | Supreme_Fine | Supreme_Fine |
@@ -12858,6 +12879,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Panasonic | FZ-N1 | FZ-N1VUF | FZ-N1 |
 | Panasonic | FZ-N1F | FZ-N1F | FZ-N1 |
 | Panasonic | FZ-N1VU | FZ-N1VU | FZ-N1 |
+| Panasonic | FZ-T1 | FZ-T1VUN | FZ-T1 |
 | Panasonic | FZ-X1 | FZ-X1 | FZ-X1 |
 | Panasonic | FZ-X1 | FZ-X1VU | FZ-X1 |
 | Panasonic | FZ-X1 | FZ-X1VUC | FZ-X1 |
@@ -13825,6 +13847,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ratel | Cell | Cell | CELL |
 | Rayan | AM_TAB_7_03 | AMAA703 | AMA_A703 |
 | Raylandz | H1 PLUS | PHOENIX_H1PLUS | PHOENIX_H1PLUS |
+| Raylandz | P20 PLUS | RAYLAN_P20_Plus | P20 PLUS |
 | Raylandz | P5000 | P5000 | P5000 |
 | Raylandz | PHOENIX_N1 | PHOENIX_N1 | PHOENIX N1 |
 | Razer | Forge TV | pearlyn | Forge |
@@ -14185,7 +14208,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy A8 | a8hplte | SM-A800IZ |
 | Samsung | Galaxy A8 | a8ltechn | SM-A8000 |
 | Samsung | Galaxy A8 | a8ltechn | SM-A800X |
-| Samsung | Galaxy A8 (2018) | SC-02L | SC-02L |
 | Samsung | Galaxy A8 Star | astarqlte | SM-G885F |
 | Samsung | Galaxy A8 Star | astarqlte | SM-G885Y |
 | Samsung | Galaxy A8 Star | astarqltechn | SM-G8850 |
@@ -14444,6 +14466,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Fame | nevisw | GT-S6812C |
 | Samsung | Galaxy Fame Lite Duos | nevisw | GT-S6792L |
 | Samsung | Galaxy Feel | SC-04J | SC-04J |
+| Samsung | Galaxy Feel2 | SC-02L | SC-02L |
 | Samsung | Galaxy Fit | GT-S5670 | GT-S5670 |
 | Samsung | Galaxy Fit | GT-S5670B | GT-S5670B |
 | Samsung | Galaxy Fit | GT-S5670L | GT-S5670L |
@@ -17233,6 +17256,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCL | 1X | Edison | 5008D |
 | TCL | L55E6700UDS | movo_la | movo_la |
 | TCL | LE50UHDE5692G | movo | movo |
+| TCL | Percee TV | tcl_eu | BPL TV |
+| TCL | Percee TV | tcl_eu | MICROMAX TV |
+| TCL | Percee TV | tcl_eu | PANASONIC TV |
+| TCL | Percee TV | tcl_eu | Percee TV |
+| TCL | Percee TV | tcl_eu | SANYO TV |
 | TCL | Percee TV | tcl_sa | Percee TV |
 | TCL | South America | tcl | Percee TV |
 | TCL | TCL C5 | A3A | 5152D |
@@ -18608,11 +18636,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Thomson | Friendly TH101 | Friendly_TH101 | Friendly_TH101 |
 | Thomson | PRIMO7 Tablet | PRIMO7 | PRIMO7 |
 | Thomson | PRIMO8 Tablet | AMLMY8306P | PRIMO8 |
-| Thomson | TCL  Percee TV | tcl_eu | BPL TV |
-| Thomson | TCL  Percee TV | tcl_eu | MICROMAX TV |
-| Thomson | TCL  Percee TV | tcl_eu | PANASONIC TV |
-| Thomson | TCL  Percee TV | tcl_eu | Percee TV |
-| Thomson | TCL  Percee TV | tcl_eu | SANYO TV |
 | Thomson | TEO10 | TEO10 | SPTEO10BK16 |
 | Thomson | TEO7RK | TEO7RK | TEO7RK |
 | Thomson | THOMSON_TEO10S | TEO10S | TEO10S |
