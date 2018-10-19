@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 18.10.2018
+Last sync is 19.10.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1322,6 +1322,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Asus | \xe9\xa3\x9b\xe9\xa6\xac 5000 (T551TLC) | ASUS_X005 | ASUS_X005 |
 | Asus | \xe9\xa3\x9b\xe9\xa6\xac2 Plus (T550KLC) | ASUS_X550 | ASUS_X550 |
 | AtGames-zooti | ZOOTI PAD ZT-701 | ZT-701 | ZT-701 |
+| Atria Convergence Technologies | ACT | B860H_V1 | B860H |
 | Attila | Magic_1 | Magic_1 | Magic_1 |
 | Auchan | AUCHAN | Q7T9INK | Q7T9INK |
 | Auchan | LI12210IN | LI12210IN | LI12210IN |
@@ -2227,6 +2228,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Channel Master | Stream+ | dwt765cha | CM-7600 |
 | Chemist Warehouse | JR-MB603 | JR_MB603 | JR_MB603 |
 | Cherry Mobile | Cherry W900 LTE | al7 | W900 LTE |
+| Cherry Mobile | DOH01 | DOH01 | DOH01 |
 | Cherry Mobile | Desire R6 | Desire_R6 | Desire R6 |
 | Cherry Mobile | Desire R6 Lite | Desire_R6_Lite | Desire_R6_Lite |
 | Cherry Mobile | Desire R6 Plus | Desire_R6_plus | Desire R6 plus |
@@ -2713,7 +2715,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Coppernic | C-One | C-One_v2 | C-One |
 | Coppernic | C-One | C-One_v2_NFC | C-One |
 | Coppernic | C-eight | C-eight | C-eight |
-| Coppernic | C-eight | TN800A1 | TN800A1 |
 | Coppernic | C-five | C-five | C-five |
 | Coppernic | C-five | C-five-WIFI | C-five |
 | Covia | CP-J55a | x5090_rh_j9_covia | CP-J55a |
@@ -3093,6 +3094,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Dingding | X11S | X11S | X11S |
 | Dish | AirTV Player | uiw4010ech | AirTV Player |
 | Dish | EVOLVE | dish_cable_bcm | SH960C-DS |
+| DishTV-NZ | SV10 | HiCast | SV10 |
 | Disney Frozen | BMF00001 | BMF00001 | Frozen |
 | Disney Frozen | DYF00001 | DYF00001 | DYF00001 |
 | Ditecma | M1092R | M1092R | M1092R |
@@ -3111,6 +3113,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Docomo | d-01J | d-01J | d-01J |
 | Docomo | d-01K | d-01K | d-01K |
 | Docomo | d-02K | d-02K | d-02K |
+| Dolamee | D8 | DV8235 | D8 |
 | Doogee | BL12000 | Selfie | BL12000 |
 | Doogee | BL12000 PRO | t758_dg_a67t_n | BL12000 PRO |
 | Doogee | BL5000 | BL5000 | BL5000 |
@@ -3535,6 +3538,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | FPT Trading | FPT X10 | X10 | FPT_X10 |
 | FPT Trading | FPT X3 | FPT_X3 | FPT X3 |
 | FPT Trading | FPT X9 | X9 | FPT_X9 |
+| FPT Trading | FPT_X50 | FPT_X50 | FPT X50 |
 | FPT Trading | X50 | FPT_X50 | FPT X50 |
 | FaceVsion | OC1020A | OC1020A | FV-FG6 |
 | Facime | FLEET_7 | FLEET_7 | FLEET_7 |
@@ -5190,6 +5194,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Harris | 12131-1000 | msm8660_cougar | Harris 12131-1000 |
 | Harris | LMC-1000 | granite | LMC-1000 |
 | Harris | RF-3590-RT | msm8660_cougar | Harris 12131-1000 |
+| Hathway | OTH-100 | SEI103 | OTH-100 |
 | Haus | HAUS JS408 | HAUS_JS408 | HAUS JS408 |
 | Haus | JS550 | JS550 | JS550 |
 | Helio | S10 | S10 | S10 |
@@ -5516,6 +5521,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | Hisense  F23  PLUS | HS6739MT | Hisense F23 PLUS |
 | Hisense | Hisense  Hi  2 | HS6737MT | Hisense Hi 2 |
 | Hisense | Hisense  Infinity  F17 | HS6739MT | Hisense Infinity F17 |
+| Hisense | Hisense  Infinity  H12 | HSSDM450QC | Hisense H12 |
 | Hisense | Hisense  Infinity  H12 | HSSDM450QC | Hisense Infinity H12 |
 | Hisense | Hisense E76MINIM | HS8937QC | Hisense E76MINIM |
 | Hisense | Hisense E77 | HS8937QC | Hisense E77 |
@@ -5871,6 +5877,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Honeywell | EDA70 | eda70-3 | EDA70 |
 | Honeywell | EdA50 | eda50-211 | EDA50 |
 | Hot Pepper | H5 | H5 | H5 |
+| Hot Pepper | VLE5 | VLE5 | VLE5 |
 | Hotwav | Cosmos | Cosmos | Cosmos |
 | Hotwav | HOT 6 | HOT_6 | HOT 6 |
 | Hotwav | M5 | M5 | M5 |
@@ -7306,6 +7313,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hurricane | Vortex | C9 | HURRICANE VORTEX |
 | Hurricane | Vulcan | Vulcan | Vulcan |
 | Hurricane | Wave | Hurricane | Wave |
+| Hykker | Smart Box Android TV | DV8038 | Smart Box Android TV |
 | Hyundai | A25563L | A25563L | A25563L |
 | Hyundai | A26062L | A26062L | A26062L |
 | Hyundai | A26062k | A26062K | A26062K |
@@ -7594,6 +7602,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Infocus | M812A | VN2 | InFocus M812A |
 | Infocus | M812i | V2I | InFocus M812i |
 | Infocus | MADA | A62_mini | IF9035 |
+| Infocus | MEGA 3 | BX2 | LE5039 |
 | Infocus | NewTab F1 | f1 | NewTab F1 |
 | Infocus | Smart503 | MC2 | Smart503 |
 | Infocus | T3000 | P7M | T3000 |
@@ -7643,6 +7652,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Insignia | NS-P16AT08 | mid8005 | NS-P16AT08 |
 | Insignia | NS-P16AT10 | NS-P16AT10 | NS-P16AT10 |
 | Inspire Mobile | IMP-R01W | IMP-R01W | IMP-R01W |
+| Inspur | start.ca IPBS9510 | S905 | start.ca IPBS9510 |
 | Intel |  | SP-A20i | SP-A20i |
 | Intel |  | blackbay | Xolo_X900 |
 | Intel |  | noonhill | AZ210A |
@@ -7816,6 +7826,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Iris | VOX  Energy | VOX_Energy | VOX Energy |
 | Iris | VOX  STEEL Plus | VOX_STEEL_Plus | VOX STEEL Plus |
 | Iris | VOX  STEEL Plus | VOX_STEEL_Plus_V2 | VOX STEEL Plus |
+| Iris | VOX Alpha Plus | VOX_Alpha_Plus | VOX Alpha Plus |
 | Iris | VOX POP Pro | VOX_POP_Pro | VOX POP Pro |
 | Iris | VOX POP plus | VOX_POP_plus | VOX POP plus |
 | Iris | Vox_5S | Vox_5S | Vox_5S |
@@ -10708,6 +10719,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Masstel | N535 | Masstel_N535 | Masstel N535 |
 | Masstel | Tab7LTE | Masstel_Tab7LTE | Masstel_Tab7LTE |
 | Masstel | Tab7Plus | Tab7Plus | Tab7Plus |
+| MauritiusTelcom | HE2704 | MTIPTVBox | HE2704 |
 | Maxcom | MS453 | MS453 | MS453 |
 | Maxcom | MS457 | MS457 | MS457 |
 | Maxcom | MS457Orange | MS457Orange | MS457Orange |
@@ -10748,6 +10760,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Mecer | TEI11011 | TEI11011MST | TEI11011MST |
 | Mecer | TF10EA2 | TF10EA2_11 | TF10EA2 |
 | Mecer | TF10MK1 | TF10MK1_2 | TF10MK1 |
+| Mecool | KM8 | KM8 | KM8 |
 | Mediacom | 7BY | 7BY | 7BY |
 | Mediacom | G5M | M-PPxG5M | M-PPxG5M |
 | Mediacom | M-PPAG4 | M-PPAG4 | M-PPAG4 |
@@ -11792,6 +11805,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Multilaser | Ms5 | MTL-MS5 | MS5 |
 | Multilaser | Ms6 | MS6 | MS6 |
 | My Go | GoTab GBT10 | GBT10 | GoTab_GBT10 |
+| MyBox | MBIF-H533 | DV8020 | MBIF-H533 |
 | MyFon | F3 | F3 | F3 |
 | MyFon | F6 | F6 | F6 |
 | MyFon | S2 | S2 | S2 |
@@ -13235,7 +13249,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | PointMobile | PM66 | pm66 | PM66 |
 | PointMobile | PM70 | pm70 | PM70 |
 | PointMobile | PM80 | pm80 | PM80 |
-| PointMobile | pm70 | pm70 | PM70 |
 | Polar | M600 | pike | Polar M600 |
 | Polaris | Condroid_X7 | polaris-Condroid_X7 | Condroid_X7 |
 | Polaroid | A/S10 | wing-AS10 | A/S10 |
@@ -13523,6 +13536,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Prestigio | PMT5287_4G | PMT5287_4G | PMT5287_4G |
 | Prestigio | PMT5487_3G | PMT5487_3G | PMT5487_3G |
 | Prestigio | PMT5587_Wi | AML8726-MXS | PMT5587_Wi |
+| Prestigio | PMT5588_4G | CF80A5L | PMT5588_4G |
 | Prestigio | PMT5718_4G | CF80A5L | PMT5718_4G |
 | Prestigio | PMT5777_3G | PMT5777_3G | PMT5777_3G |
 | Prestigio | PMT5877C | PMT5877C | PMT5877C |
@@ -15663,6 +15677,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A (2016) | gtaxlltechn | SM-T585C |
 | Samsung | Galaxy Tab A (2016) | gtaxlwifi | SM-T580 |
 | Samsung | Galaxy Tab A (2016) | gtaxlwifichn | SM-T580 |
+| Samsung | Galaxy Tab A (2016) with S Pen | gtanotexllte | SM-P585 |
 | Samsung | Galaxy Tab A (2016) with S Pen | gtanotexllte | SM-P585M |
 | Samsung | Galaxy Tab A (2016) with S Pen | gtanotexlltechn | SM-P588C |
 | Samsung | Galaxy Tab A (2016) with S Pen | gtanotexlltekx | SM-P585N0 |
@@ -15688,7 +15703,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A 10.1 | gtaxlltekx | SM-T585N0 |
 | Samsung | Galaxy Tab A 10.1 | gtaxlwifi | SM-T580X |
 | Samsung | Galaxy Tab A 10.1 | gtaxlwifichn | SM-T580X |
-| Samsung | Galaxy Tab A 10.1(2016) | gtanotexllte | SM-P585 |
 | Samsung | Galaxy Tab A 10.1(2016) | gtanotexllte | SM-P585Y |
 | Samsung | Galaxy Tab A 10.5 | gta2xllte | SM-T595 |
 | Samsung | Galaxy Tab A 7.0 | gtexslte | SM-T285 |
@@ -16528,6 +16542,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Skyworth | Skyworth | grape | HPA02 |
 | Skyworth | South Africa | open_fhd_sa | open_fhd |
 | Skyworth | South America | globe_sa | globe |
+| SledovaniTV | DV8220 | DV8220 | DV8220 |
 | Smadl | SMADL | Matri2 | Matri2 |
 | Smadl | X7 | X7 | X7 |
 | Smailo | Smailo 2GO | Smailo_2GO | Smailo_2GO |
@@ -17271,7 +17286,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TAG Heuer | Connected Modular 41 | spectralite | TAG Heuer |
 | TAG Heuer | Connected Modular 45 | anthracite | TAG Heuer |
 | TAG Heuer | Connected Modular 45 (China) | anthracite | TAG Heuer |
-| TCL | 1X | Edison | 5008D |
 | TCL | L55E6700UDS | movo_la | movo_la |
 | TCL | LE50UHDE5692G | movo | movo |
 | TCL | Percee TV | tcl_eu | BPL TV |
@@ -17881,6 +17895,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Alcatel 1X | U5A_PLUS_4G | 5059T |
 | TCT (Alcatel) | Alcatel 1X | U5A_PLUS_4G | 5059X |
 | TCT (Alcatel) | Alcatel 1X | U5A_PLUS_4G | 5059Y |
+| TCT (Alcatel) | Alcatel 1X | U5A_PLUS_4G | HEYOU3 |
 | TCT (Alcatel) | Alcatel 3 | A3A | 5052A |
 | TCT (Alcatel) | Alcatel 3 | A3A | 5052D |
 | TCT (Alcatel) | Alcatel 3 | A3A | 5052D_RU |
@@ -18336,6 +18351,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Xess mini | Xess-mini | TCL Xess miniC15BA |
 | TCT (Alcatel) | Xess-mini | Xess-mini | TCL Xess C15BA |
 | TCT (Alcatel) | alcatel 1X | Edison | 5008A |
+| TCT (Alcatel) | alcatel 1X | Edison | 5008D |
 | TCT (Alcatel) | alcatel 1X | Edison | 5008T |
 | TCT (Alcatel) | alcatel 1X | Edison | 5008U |
 | TCT (Alcatel) | alcatel 1X | Edison | 5008Y |
@@ -18373,6 +18389,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TSUNAMi | Tablet Tsunami TSTA080D1 | MG080D1T | MG080D1T |
 | TUNTUN English | DREAM PAD | delight | ITP-R408W |
 | TUPAD | TU7_58212_18222 | TU7_58212 | TU7_18222 |
+| TVUp | Mediacenter 6G 4K | SEI300T | Mediacenter 6G 4K |
 | TWOE | 2E E450A 2018 | E450A2018 | 2E E450 2018 |
 | TWOE | F534L | F534L | F534L |
 | TWOE | F572L | F572L | F572L |
@@ -18763,7 +18780,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Trimble Navigation | MM50 | EE773X_4G | TDC100_4G |
 | Trimble Navigation | MM50 | EE773X_WiFi | MobileMapper50_WiFi |
 | Trimble Navigation | MM50 | EE773X_WiFi | TDC100_WiFi |
-| Trimble Navigation | Normad 5 | pdog | Nomad 5 |
+| Trimble Navigation | Nomad 5 | pdog | Nomad 5 |
 | Trimble Navigation | PeopleNet ConnectedTablet | MS5 | MS5 |
 | Trimble Navigation | TD-520 | td520 | TD520 |
 | Trimble Navigation | TDC100_WiFi | EE773X_WiFi | MobileMapper50_WiFi |
@@ -19451,6 +19468,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Walton | Primo R4 | Primo_R4 | Primo R4 |
 | Walton | Primo R4 Plus | Primo_R4_Plus | Primo R4 Plus |
 | Walton | Primo R5 | Primo_R5 | Primo R5 |
+| Walton | Primo R5 Plus | Primo_R5_Plus | Primo R5 Plus |
 | Walton | Primo RH3 | Primo_RH3 | Primo RH3 |
 | Walton | Primo RM2 mini | WBW5616WA | Primo RM2 mini |
 | Walton | Primo RX5 | Primo_RX5 | Primo RX5 |
