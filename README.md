@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 19.10.2018
+Last sync is 20.10.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2107,6 +2107,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Camfone | Hero H7 Plus | Hero_H7_Plus | Hero_H7_Plus |
 | Camfone | Hero H9 | Hero_H9 | Hero_H9 |
 | Camfone | Hero X | Hero_X | Hero X |
+| Camfone | Hero_H5+ | Hero_H5_Plus | Hero_H5+ |
 | Camfone | Hero_SX | Hero_SX | Hero SX |
 | Camfone | Honey Y1 | Honey_Y1 | Honey Y1 |
 | Camfone | Mega 10 | Mega_10 | Mega 10 |
@@ -9612,6 +9613,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lanix | Llium L910 | Ilium_L910 | Ilium L910 |
 | Lanix | X100 | ILIUM_X100 | ILIUM_X100 |
 | Lanix | X230 | X230 | X230 |
+| Lanix | X230A | X230A | X230A |
 | Lanix | X400 | Ilium_X400 | ILIUM X400 |
 | Lanix | X530 | X530 | X530 |
 | Lanix | ilium  PAD  E9 | ILium_PADE9 | ilium PAD E9 |
@@ -10531,6 +10533,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Logicom | La Tab 107 HD | La_Tab_107 | La Tab 107 |
 | Logicom | La Tab 72 | La_Tab_72 | La Tab 72 |
 | Logicom | La Tab Full HD | La_Tab_Full_HD | La Tab Full HD |
+| Logicom | LaTab109HD | LaTab109HD | La Tab 109 HD |
 | Logicom | Le HELLO | Le_Hello | Le_Hello |
 | Logicom | Le Hop | Logicom_LeHop | Le Hop |
 | Logicom | Le Lift | LeLift | Le Lift |
@@ -11167,6 +11170,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Mint | Mint VirGo | Mint_VirGo | Mint VirGo |
 | Mint | Pearl_Neo | Pearl_Neo | Pearl_Neo |
 | Mintt | A1 | A1 | A1 |
+| Mintt | Coolmintt P2 | Coolmintt_P2 | Coolmintt_P2 |
 | Mintt | M1 | M1 | M1 |
 | Mintt | Ultramintt R1 | Ultramintt_R1 | Ultramintt R1 |
 | Mio Tab | MioTab | MioTab2016 | MioTab 2016 |
@@ -11274,6 +11278,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | MobiiStar | ZUMBO_S2_Dual | ZUMBO_S2_Dual | mobiistar ZUMBO S2 Dual |
 | MobiiStar | mobiistar | CQ | CQ |
 | MobiiStar | mobiistar C1 | mobiistar_C1 | mobiistar C1 |
+| MobiiStar | mobiistar C1 Shine | mobiistar_C1_Shine | mobiistar C1 Shine |
 | MobiiStar | mobiistar C2 | mobiistar_C2 | mobiistar C2 |
 | MobiiStar | mobiistar E Selfie | mobiistar_E_Selfie | mobiistar E Selfie |
 | MobiiStar | mobiistar E1 | mobiistar_E1 | mobiistar E1 |
@@ -12731,6 +12736,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Orbic | R370H | R370H | R370L |
 | Orbic | Wonder | RC555L | RC555L |
 | Oukitel | C10 | C10 | C10 |
+| Oukitel | C11 Pro | C11_Pro | C11_Pro |
+| Oukitel | C12 Pro | C12_Pro | C12 Pro |
 | Oukitel | C6 Pro | C6_Pro | C6 Pro |
 | Oukitel | C8 | C8 | C8 |
 | Oukitel | C8 4G | C8_4G | C8 4G |
@@ -12763,10 +12770,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Overmax | Livecore7032 | Livecore7032 | Livecore7032 |
 | Overmax | OV-Qualcore-1023-3G | OV-Qualcore-1023-3G | OV-Qualcore-1023-3G |
 | Overmax | OV10273G | OV10273G | OV10273G |
-| OwnMobile | Entel PCS Telecomunicaciones S.A. | OWN_FUN_7 | OWN FUN 7 |
+| OwnMobile | FUN 6 | OWN_FUN_6 | OWN FUN 6 |
+| OwnMobile | FUN 7 | OWN_FUN_7 | OWN FUN 7 |
 | OwnMobile | FUN VALUE 4G | FUNVALUE4G | FUN VALUE 4G |
 | OwnMobile | OWN Smart \xc3\x962 | SMART_O2 | SMART_O2 |
-| OwnMobile | OWN_FUN_6 | OWN_FUN_6 | OWN FUN 6 |
 | OwnMobile | SMART 8 | Smart8 | Smart8 |
 | OwnMobile | SMART 9 | OWN_SMART_9 | OWN SMART 9 |
 | OwnMobile | Smart 9 Pro | Smart_9_Pro | Smart 9 Pro |
@@ -18792,7 +18799,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Trimble Navigation | TDI 600 | ulmo_pro | Rugged Tablet |
 | Trimble Navigation | TDI 600 | ulmo_pro | TDI 600 |
 | Trimble Navigation | Trimble ConnectedTablet | MS5 | MS5 |
-| Trimble Navigation | U503 | pdog | Nomad 5 |
 | Trio | 7.85 | astar-y3 | TRIO-7.85 |
 | Trio | 7.85 vQ | Trio-785-vQ | Trio 7.85 vQ |
 | Trio | AXS 3G | Trio_AXS_3G | Trio AXS 3G |
@@ -19869,6 +19875,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Yota Devices | C9660 | yotaphone | C9660 |
 | Yota Devices | YotaPhone2 | yotaphone2 | YD201 |
 | Yuho | O2 PRO | YUHO_O2_PRO | YUHO_O2_PRO |
+| Yuho | Y1 ACE | YUHO_Y1_ACE | YUHO_Y1_ACE |
 | Yuho | Y1 PRO | YUHO_Y1_PRO | YUHO_Y1_PRO |
 | Yuho | Y2 | YUHO_Y2 | YUHO_Y2 |
 | Yuho | Y2_PRO | YUHO_Y2_PRO | YUHO_Y2_PRO |
