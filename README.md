@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 20.10.2018
+Last sync is 21.10.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5803,6 +5803,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hiya | 5.5 | 5_5 | 5.5 |
 | Hiya | 5.5 | HIYA5_5 | 5.5 |
 | Hoffmann | X Max | X-Max | X-Max |
+| Hometech | HT_7RT Tablet PC | HT_7RT | HT_7RT |
 | Hon Hai Precision Industry Co., Ltd. |  | EP10_wifi | PocketBook A10 |
 | Hon Hai Precision Industry Co., Ltd. |  | EP5A_wifi | PocketBook A7 |
 | Hon Hai Precision Industry Co., Ltd. | Germany | S9714 | LIFETAB_S9714 |
@@ -7604,6 +7605,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Infocus | M812i | V2I | InFocus M812i |
 | Infocus | MADA | A62_mini | IF9035 |
 | Infocus | MEGA 3 | BX2 | LE5039 |
+| Infocus | Mega 3B | BW2 | LE0139I |
 | Infocus | NewTab F1 | f1 | NewTab F1 |
 | Infocus | Smart503 | MC2 | Smart503 |
 | Infocus | T3000 | P7M | T3000 |
