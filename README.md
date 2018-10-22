@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 21.10.2018
+Last sync is 22.10.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -978,6 +978,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Astro | Nova_Phab_M9 | Nova_Phab_M9 | Nova_Phab_M9 |
 | Astro Queo | A712 | A712 | A712 |
 | AstroQueo | polaris_wifionly | polaris-wifionly | A912 |
+| Astro_Tab | A750 | A750 | A750 |
 | Asus |  | EP71 | ME171 |
 | Asus |  | TF300T | ASUS Transformer Pad TF300T |
 | Asus |  | a10 | Asus A10 |
