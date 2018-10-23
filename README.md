@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 22.10.2018
+Last sync is 23.10.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -828,6 +828,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Archos | Alba 8 | ac80cplv2 | Alba 8" |
 | Archos | Alba 8\'\' | ac80cplv2_16G | Alba 8" |
 | Archos | ArcBook | a101db | Archos 101 DB |
+| Archos | Archos | ac101aswf | Archos Access 101 Wifi |
 | Archos | Archos 101 Platinum 3G | ac101pl3g | Archos 101 Platinium 3G |
 | Archos | Archos 101 Platinum 3G | ac101pl3gv2 | Archos 101 Platinum 3G |
 | Archos | Archos 101b Oxygen | ac101boxv2 | Archos 101b Oxygen |
@@ -857,6 +858,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Archos | Archos Access 50 Color 3G | ac50asclr3g | Archos Access 50 Color 3G |
 | Archos | Archos Access 50 Color 4G | ac50asclr4g | Archos Access 50 Color 4G |
 | Archos | Archos Access 55 3G | ac55as3g | Archos Access 55 3G |
+| Archos | Archos Access 57 4G | ac57as4g | Archos Access 57 4G |
 | Archos | Archos Access 70 3G | ac70as3g | Archos Access 70 3G |
 | Archos | Archos Core 101 3G | ac101cr3g | Archos Core 101 3G |
 | Archos | Archos Core 101 3G | ac101cr3gv2 | Archos Core 101 3G |
@@ -2025,6 +2027,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Brandt | BSTAR | BSTAR | BSTAR |
 | Brandt | BSTAR+ | BSTAR_PLUS | BSTAR+ |
 | Bravis | A510_Jeans_4G | A510_Jeans_4G | A510_Jeans_4G |
+| Bravis | A512 Harmony Pro | A512_Harmony_Pro | A512 Harmony Pro |
 | Bravis | N1-570 Space | N1-570-Space | N1-570 Space |
 | Bravis | N1_550_Cruiser | N1_550_Cruiser | N1_550_Cruiser |
 | Bravis | NB108 | NB108 | NB108 |
@@ -2818,6 +2821,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DEXP | Ixion P350 | P350 | Ixion P350 |
 | DEXP | L110 | L110 | L110 |
 | DEXP | L170 | L170 | L170 |
+| DEXP | L180 | L180 | L180 |
 | DEXP | M340 | M340 | Ixion M340 |
 | DEXP | M545 | M545 | Ixion M545 |
 | DEXP | M750 | M750 | Ixion M750 |
@@ -3585,6 +3589,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Flnet | BandOTT | ba101 | ba101 |
 | Fluo | F | F | F |
 | Fluo | F Plus | F_Plus | F_Plus |
+| Fluo | F2 | F2 | F2 |
 | Fluo | Fluo | S504050 | S504050 |
 | Fly | 5_S | 5_S | 5S |
 | Fly | Champ | Champ | FS529 |
@@ -5196,6 +5201,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Harris | 12131-1000 | msm8660_cougar | Harris 12131-1000 |
 | Harris | LMC-1000 | granite | LMC-1000 |
 | Harris | RF-3590-RT | msm8660_cougar | Harris 12131-1000 |
+| Hatch | 101S | 101S | Hatch_101S |
 | Hathway | OTH-100 | SEI103 | OTH-100 |
 | Haus | HAUS JS408 | HAUS_JS408 | HAUS JS408 |
 | Haus | JS550 | JS550 | JS550 |
@@ -12239,6 +12245,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nokia | Nokia 3 | NE1 | TA-1038 |
 | Nokia | Nokia 3.1 | ES2N_sprout | Nokia 3.1 |
 | Nokia | Nokia 3.1 | ES2_sprout | Nokia 3.1 |
+| Nokia | Nokia 3.1 Plus | ROON_sprout | Nokia 3.1 Plus |
+| Nokia | Nokia 3.1 Plus | ROO_sprout | Nokia 3.1 Plus |
 | Nokia | Nokia 5 | ND1 | TA-1024 |
 | Nokia | Nokia 5 | ND1 | TA-1027 |
 | Nokia | Nokia 5 | ND1 | TA-1044 |
@@ -13556,6 +13564,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Prestigio | PMT7177_3G | PMT7177_3G | PMT7177_3G |
 | Prestigio | PMT7287C3G | PMT7287C3G | PMT7287C3G |
 | Prestigio | PMT7287_3G | PMT7287_3G | PMT7287_3G |
+| Prestigio | PMT7781_4G_D_CIS | LS10A8L | PMT7781_4G |
 | Prestigio | PMT7787_3G | PMT7787_3G | PMT7787_3G |
 | Prestigio | PMT7788_4G | CF80A5L | PMT7788_4G |
 | Prestigio | PSP3403DUO | GF40B1G | PSP3403DUO |
@@ -15689,6 +15698,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A (2016) | gtaxlwifichn | SM-T580 |
 | Samsung | Galaxy Tab A (2016) with S Pen | gtanotexllte | SM-P585 |
 | Samsung | Galaxy Tab A (2016) with S Pen | gtanotexllte | SM-P585M |
+| Samsung | Galaxy Tab A (2016) with S Pen | gtanotexllte | SM-P585Y |
 | Samsung | Galaxy Tab A (2016) with S Pen | gtanotexlltechn | SM-P588C |
 | Samsung | Galaxy Tab A (2016) with S Pen | gtanotexlltekx | SM-P585N0 |
 | Samsung | Galaxy Tab A (2016) with S Pen | gtanotexlwifichn | SM-P583 |
@@ -15713,7 +15723,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A 10.1 | gtaxlltekx | SM-T585N0 |
 | Samsung | Galaxy Tab A 10.1 | gtaxlwifi | SM-T580X |
 | Samsung | Galaxy Tab A 10.1 | gtaxlwifichn | SM-T580X |
-| Samsung | Galaxy Tab A 10.1(2016) | gtanotexllte | SM-P585Y |
 | Samsung | Galaxy Tab A 10.5 | gta2xllte | SM-T595 |
 | Samsung | Galaxy Tab A 7.0 | gtexslte | SM-T285 |
 | Samsung | Galaxy Tab A 7.0 | gtexslte | SM-T285M |
@@ -16501,6 +16510,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Silver line | SL729 | SL729 | SL729 |
 | Simbans | PicassoTab | PicassoTab | PicassoTab |
 | Simbans | TangoTab | TangoTab | TangoTab |
+| SimiMobile | S507 | S507 | S507 |
 | Singtech | Infinity_I1 | Infinity_I1 | Infinity_I1 |
 | Singtech | Infinity_I_Mix | Infinity_I_Mix | Infinity_I_Mix |
 | Singtech | Q3 | Q3 | Q3 |
@@ -19418,6 +19428,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vsun | MARS Note | MARS_NOTE | MARS NOTE |
 | Vsun | MERCURY Tough | MERCURY_Tough | MERCURY Tough |
 | Vsun | SATURN Selfie | SATURN_SELFIE | SATURN SELFIE |
+| Vue Micro | Vue81V | Vue81V | 81V |
 | Vulcan | Pulse 7 | VT0701A08 | VT0701A08 |
 | Vulcan | Pulse 7S | VT0702A16 | VT0702A16 |
 | Vulcan | TA10TA2 | TA10TA2_1 | TA10TA2 |
