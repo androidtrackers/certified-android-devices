@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 23.10.2018
+Last sync is 24.10.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -383,6 +383,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | AllCall | MIX2 | MIX2 | MIX2 |
 | AllCall | Tab_1_3G | Tab_1_3G | Tab_1_3G |
 | AllCall | Tab_2_3G | Tab_2_3G | Tab_2_3G |
+| AllView | A10 Plus | A10_Plus | A10_Plus |
 | AllView | A5 Easy | A5_Easy | A5_Easy |
 | AllView | A5 Easy | A5_Easy | A5_Easy_TM |
 | AllView | A5 Lite | A5_Lite | A5_Lite |
@@ -1456,6 +1457,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | BLECK | BE_et | BE_et | BE_et |
 | BLECK | BE_se | BE_se | BE_se |
 | BLECK | ELEMENT | ELEMENT | ELEMENT |
+| BMPRO | BMPRO7DI | BMPRO7DI | BMPRO7DI |
 | BMobile | AX1010 | Bmobile_AX1010 | AX1010 |
 | BMobile | AX1010 | Bmobile_AX1010 | Bmobile AX1010 |
 | BMobile | AX1015 | Bmobile_AX1015 | AX1015 |
@@ -2006,6 +2008,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Bluebird | SF550 | SF550 | SF550 |
 | Bluebird | ST080 | ST080 | ST080 |
 | Bluedot | BNT-700K | BNT-700K | BNT-700K |
+| Bluedot | BNT-801W | BNT_801W | BNT-801W |
 | Booken | Cybook Tablet | cybtt10_bk | Cybook-Tablet |
 | Boost | Cabana | Cabana | Cabana |
 | Boost | Cabana | Cabana_D001 | Cabana |
@@ -3103,6 +3106,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DishTV-NZ | SV10 | HiCast | SV10 |
 | Disney Frozen | BMF00001 | BMF00001 | Frozen |
 | Disney Frozen | DYF00001 | DYF00001 | DYF00001 |
+| Disney Frozen | FROZEN | FROZEN | FROZEN |
+| Disney Frozen | MARVEL | MARVEL | MARVEL |
+| Disney Frozen | PRINCESS | PRINCESS | PRINCESS |
 | Ditecma | M1092R | M1092R | M1092R |
 | Ditecma | M1092Rv4 | M1092Rv4 | M1092Rv4 |
 | Ditigron | i-Buddie | TR10CD1_11 | TR10CD1 |
@@ -6402,7 +6408,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | HUAWEI Mate 9 lite | HWBLN-H | BLL-L23 |
 | Huawei | HUAWEI Mate 9 lite | HWBLN-H | HUAWEI BLL-L23 |
 | Huawei | HUAWEI Mate SE | HWBND-H | BND-L34 |
-| Huawei | HUAWEI MedaiPad M5 10.8 | HWCMR09 | CMR-W09 |
 | Huawei | HUAWEI MediaPad M3 Lite | HWCPN-Q | 701HW |
 | Huawei | HUAWEI MediaPad M3 Lite | HWCPN-Q | 702HW |
 | Huawei | HUAWEI MediaPad M3 Lite | HWCPN-Q | CPN-AL00 |
@@ -7388,6 +7393,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | INOI | INOI_3 | INOI_3 | INOI_3 |
 | INOI | INOI_3_LITE | INOI_3_LITE | INOI_3_LITE |
 | INOI | INOI_3_POWER | INOI_3_POWER | INOI_3_POWER |
+| INOI | INOI_5X | INOI_5X | INOI_5X |
 | INOI | INOI_5i_Lite | INOI_5i_Lite | INOI_5i_Lite |
 | INOI | INOI_6 | INOI_6 | INOI_6 |
 | INOI | INOI_6_LITE | INOI_6_Lite | INOI_6_Lite |
@@ -8544,6 +8550,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | G6Fit | lucye | LM-Q850K |
 | LGE | G6Fit | lucye | LM-Q850L |
 | LGE | G6Fit | lucye | LM-Q850S |
+| LGE | G7 One | phoenix_sprout | LM-Q910 |
 | LGE | GA7800 | eden | LG Android TV V4 |
 | LGE | GPAD 7.0 LTE | e7lte | VK410 |
 | LGE | Gentle | cf | LG-F580L |
@@ -10193,6 +10200,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lenovo | Lenovo Tab4 10 Plus | X704A | TB-X704A |
 | Lenovo | Lenovo X2-CU/VIBE X2 | X2-CU | Lenovo X2-CU |
 | Lenovo | Lenovo YOGA A12 | YOGA-A12 | Lenovo YB-Q501L |
+| Lenovo | Lenovo tab M10 | X605M | Lenovo TB-X605M |
 | Lenovo | Lenovo tab P10 | X705F | Lenovo TB-X705F |
 | Lenovo | LenovoTAB2 A7-30DC | A7-30HC | Lenovo TAB 2 A7-30DC |
 | Lenovo | LenovoTB-7104I | TB7104I | Lenovo TB-7104I |
@@ -10774,6 +10782,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Mecer | TF10MK1 | TF10MK1_2 | TF10MK1 |
 | Mecool | KM8 | KM8 | KM8 |
 | Mediacom | 7BY | 7BY | 7BY |
+| Mediacom | 8AY | 8AY | 8AY |
 | Mediacom | G5M | M-PPxG5M | M-PPxG5M |
 | Mediacom | M-PPAG4 | M-PPAG4 | M-PPAG4 |
 | Mediacom | M-PPxG4P | G4P | M-PPxG4P |
@@ -11096,6 +11105,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Micromax | Canvas Xpress | A99 | Micromax A99 |
 | Micromax | Canvas Xpress 2 | E314 | Micromax E314 |
 | Micromax | Canvas Xpress 4g | Q413 | Micromax Q413 |
+| Micromax | Canvas fashion 3g | Q3502 | Micromax Q3502 |
 | Micromax | Canvas tab | P290 | Micromax P290 |
 | Micromax | Canvas tab | P470 | P470 |
 | Micromax | Canvas tab | P666 | Micromax P666 |
@@ -11216,6 +11226,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Mobicell | ASTRO | ASTRO | ASTRO |
 | Mobicell | Air | Mobicel_Air | Air |
 | Mobicell | BERRY | BERRY | BERRY |
+| Mobicell | BERRY PLUS | BERRY_PLUS | BERRY_PLUS |
 | Mobicell | BERRY1 | BERRY1 | BERRY1 |
 | Mobicell | CHERRY | CHERRY | CHERRY |
 | Mobicell | COSMO | COSMO | COSMO |
@@ -11814,6 +11825,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Multilaser | MS60F | MS60F | MS60F |
 | Multilaser | MS60F Plus | MS60F_PLUS | MS60F_PLUS |
 | Multilaser | MS60X | ML-TI0A-MS60X | MS60X |
+| Multilaser | MS60Z | ML-TI0B-MS60Z | MS60Z |
 | Multilaser | MS70 | MS70 | MS70 |
 | Multilaser | MS80 | ML-TI-MS80 | ML-TI-MS80 |
 | Multilaser | Ms5 | MTL-MS5 | MS5 |
@@ -13108,6 +13120,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Philips | 4K & Full HD Slim LED TV powered by Android\xe2\x84\xa2 | philips_MT5593FHT_EU | QM152E |
 | Philips | 4K & Full HD Slim LED TV powered by Android\xe2\x84\xa2 | philips_MT5593HT_LT | QM152E |
 | Philips | 4K LED TV powered by Android | PH7M_EU_5596 | TPM171E |
+| Philips | 4K OLED TV powered by Android | PH7M_LT_5596 | TPM171E |
 | Philips | 4K Razor Slim LED TV powered by Android TV\xe2\x84\xa2 | MT5593Uplus | QM151E |
 | Philips | 4K Razor Slim OLED TV powered by Android TV | QM16XE_UB | QM161E |
 | Philips | 4K UHD Razor Slim LED TV powered by Android\xe2\x84\xa2 | QV151E | QV151E |
@@ -13215,11 +13228,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Pixela | KSTB5043 | KSTB5043 | KSTB5043 |
 | Pixela | PIX-SMB400 | tennouji | PIX-SMB400 |
 | Plaisio | A2 | Turbo-X_A2 | Turbo-X_A2 |
+| Plaisio | A4 | A4 | A4 |
 | Plaisio | Aqua | Aqua | Aqua |
 | Plaisio | Calltab 7\xe2\x80\x9d | Calltab7inch | Calltab7inch |
 | Plaisio | Calltab2GB10.1" | Calltab2GB10 | Calltab2GB10 |
 | Plaisio | CalltabII 10.1 | E1031H2C | Calltab10.1 |
 | Plaisio | Coral II | CoralII | Turbo-X Coral II |
+| Plaisio | E4 | E4 | E4 |
 | Plaisio | Earth | Earth | Earth |
 | Plaisio | Earth 7.0\' 3G | Earth3G | Earth 7.0\'3G |
 | Plaisio | Fire | Fire | Fire |
@@ -14237,6 +14252,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy A7 (2018) | a7y18lte | SM-A750F |
 | Samsung | Galaxy A7 (2018) | a7y18lte | SM-A750FN |
 | Samsung | Galaxy A7 (2018) | a7y18lte | SM-A750GN |
+| Samsung | Galaxy A7 (2018) | a7y18lteks | SM-A750N |
 | Samsung | Galaxy A7(2016) | a7xelte | SM-A710F |
 | Samsung | Galaxy A7(2016) | a7xelte | SM-A710M |
 | Samsung | Galaxy A7(2016) | a7xelte | SM-A710X |
@@ -15753,10 +15769,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A 9.7 | gt5note10lteskt | SM-P555S |
 | Samsung | Galaxy Tab A 9.7 | gt5note10wifi | SM-P550 |
 | Samsung | Galaxy Tab A 9.7 | gt5note10wifichn | SM-P550 |
+| Samsung | Galaxy Tab A Lite | gtaslitelteatt | SM-T387AA |
 | Samsung | Galaxy Tab A Lite | gtasliteltespr | SM-T387P |
 | Samsung | Galaxy Tab A Lite | gtasliteltetmo | SM-T387T |
 | Samsung | Galaxy Tab A S 8.0 | gt58ltebmc | SM-T357W |
 | Samsung | Galaxy Tab A(10.5) | gta2xllte | SM-T597 |
+| Samsung | Galaxy Tab A(2018, 10.5) | gta2xlltespr | SM-T597P |
 | Samsung | Galaxy Tab Active | rubenslte | SM-T365Y |
 | Samsung | Galaxy Tab Active2 | gtactive2lte | SM-T395 |
 | Samsung | Galaxy Tab Active2 | gtactive2ltechn | SM-T395C |
@@ -18778,6 +18796,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Toshiba | Thrive 7 | tostab04 | AT1S0 |
 | Toshiba | Toshiba Chromebook 2 (2015 Edition) | gandof_cheets | Toshiba Chromebook 2 (2015 Edition) |
 | Toshiba | tt300/tt301/tt302 | Mozart | Mozart |
+| Touch plus | 770G | 770G | 770G |
 | Touch plus | 770N | 770N | 770N |
 | Touch plus | AS1000 | AS1000 | AS1000 |
 | Toughshield | R200 | R200 | R200 |
@@ -18959,6 +18978,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vernee | M6 | M6 | M6 |
 | Vernee | MIX 2 | M2 | M2 |
 | Vernee | MIX 2 | M2_PRO | M2 |
+| Vernee | T3 | T3 | T3 |
 | Vernee | T3 Pro | T3_Pro | T3 Pro |
 | Vernee | Thor E | Thor_E | Thor E |
 | Vernee | Thor Plus | Thor_Plus | Thor Plus |
@@ -19748,6 +19768,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Xiaomi | Hongmi 6 | cereus | Redmi 6 |
 | Xiaomi | Hongmi 6A | cactus | Redmi 6A |
 | Xiaomi | MI  8  Explorer  Edition | ursa | MI 8 Explorer Edition |
+| Xiaomi | MI  MAX  3 | nitrogen | MI MAX 3 |
 | Xiaomi | MI 2 | aries | MI 2 |
 | Xiaomi | MI 2 | aries | MI 2S |
 | Xiaomi | MI 2A | taurus | MI 2A |
@@ -21211,6 +21232,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | tmn smart a7 | sailboat | tmn smart a7 |
 | Zatec | ZATEC_Play_series | ZATEC_Play | Play |
 | Zatec | ZPLAY1_2018 | Zatec_Zplay | ZPLAY1_2018 |
+| Zatec | Zpower_2018 | ZATEC_Zpower_2018 | Zpower_2018 |
 | Zatec | Zpower_Plus | Zpower_Plus | Zpower_Plus |
 | Zebex | Z-2252 | Z-2252 | Z-2252 |
 | Zebra | CC5000 | concierge | CCHUB1 |
