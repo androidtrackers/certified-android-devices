@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 24.10.2018
+Last sync is 25.10.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -81,6 +81,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | AVH San Luis S.A. | ExcerG5.6 | ExcerG5_6 | ExcerG5.6 |
 | AVH San Luis S.A. | Vortech3.0 | Vortech3_0 | Vortech3.0 |
 | AXXA | AXXA S45 | AXXA_S45 | AXXA_S45 |
+| AXXA | PRO | PRO | PRO |
 | AZBox | AZDroid | AZDroid | AZDroid |
 | AZPEN | A720 | wing-inet | A720 |
 | AZPEN | A920 | wing-ibt | A920 |
@@ -877,6 +878,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Archos | Archos Core 60S | ac60crs | Archos Core 60S |
 | Archos | Archos Core 70 3G | ac70cr3g | Archos Core 70 3G |
 | Archos | Archos Core 70 3G | ac70cr3gv2 | Archos Core 70 3G |
+| Archos | Archos Hello 7 | ac70hello | Archos Hello 7 |
 | Archos | Archos Saphir 50X | ac50sax | Archos Saphir 50X |
 | Archos | Archos Sense 101X | ac101xse | Archos Sense 101 X |
 | Archos | Archos Sense 47 X | ac47xse | Archos Sense 47 X |
@@ -2137,6 +2139,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Casper | CASPER_L10_4_5G | CASPER_L10_4_5G | CASPER_L10_4.5G |
 | Casper | TA80CA2 | TA80CA2_1 | TA80CA2 |
 | Casper | VIA A2 | CASPER_VIA_A2 | CASPER_VIA_A2 |
+| Casper | VIA A3 Plus | VIA_A3_Plus | VIA_A3_Plus |
 | Casper | VIA G1 | CASPER_VIA_G1 | CASPER_VIA_G1 |
 | Casper | VIA G1 Plus | CASPER_VIA_G1_Plus | CASPER_VIA_G1_Plus |
 | Casper | VIA M3 | CASPER_VIA_M3 | CASPER_VIA_M3 |
@@ -4050,6 +4053,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Gigaset | GS170 | GS170 | Gigaset GS170 |
 | Gigaset | GS180 | GS180 | GS180 |
 | Gigaset | GS185 | GS185 | GS185 |
+| Gigaset | GS80 | GS80 | GS80 |
 | Gigaset | Gigaset GS170 | GS170 | Gigaset GS170 |
 | Gigaset | Gigaset GS270 | Gigaset_GS270 | GS270 |
 | Gigaset | Gigaset GS270 plus | Gigaset_GS270_plus | GS270 plus |
@@ -7394,6 +7398,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | INOI | INOI_3_LITE | INOI_3_LITE | INOI_3_LITE |
 | INOI | INOI_3_POWER | INOI_3_POWER | INOI_3_POWER |
 | INOI | INOI_5X | INOI_5X | INOI_5X |
+| INOI | INOI_5X_Lite | INOI_5X_Lite | INOI_5X_Lite |
 | INOI | INOI_5i_Lite | INOI_5i_Lite | INOI_5i_Lite |
 | INOI | INOI_6 | INOI_6 | INOI_6 |
 | INOI | INOI_6_LITE | INOI_6_Lite | INOI_6_Lite |
@@ -7443,6 +7448,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Inco | Bloom4 | Bloom4 | Bloom4 |
 | Inco | Flex-3 | Flex-3 | Flex-3 |
 | Inco | INCO | HORIZON | HORIZON |
+| Inco | MINI | MINI | MINI |
 | Inet-Tablet | D711HC_PG | D711HC_PG | D711HC_PG |
 | Inet-Tablet | D7911L3BC_OGS | D7911L3BC_OGS | D7911L3BC_OGS |
 | Infinity | 10.1-v2 | Infinity-101-v2 | Infinity-10.1-v2 |
@@ -10202,6 +10208,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lenovo | Lenovo YOGA A12 | YOGA-A12 | Lenovo YB-Q501L |
 | Lenovo | Lenovo tab M10 | X605M | Lenovo TB-X605M |
 | Lenovo | Lenovo tab P10 | X705F | Lenovo TB-X705F |
+| Lenovo | Lenovo tab P10 | X705M | Lenovo TB-X705M |
 | Lenovo | LenovoTAB2 A7-30DC | A7-30HC | Lenovo TAB 2 A7-30DC |
 | Lenovo | LenovoTB-7104I | TB7104I | Lenovo TB-7104I |
 | Lenovo | LenovoTB-8304F | TB-8304F | Lenovo TB-8304F |
@@ -12544,6 +12551,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oppo | CPH1861 | CPH1861 | CPH1861 |
 | Oppo | CPH1871 | CPH1871 | CPH1871 |
 | Oppo | CPH1875 | CPH1875 | CPH1875 |
+| Oppo | CPH1879 | CPH1879 | CPH1879 |
 | Oppo | CPH1881 | CPH1881 | CPH1881 |
 | Oppo | CPH1893 | CPH1893 | CPH1893 |
 | Oppo | CPH1893RU | CPH1893 | CPH1893 |
@@ -12938,6 +12946,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Panasonic | FZ-N1 | FZ-N1VUF | FZ-N1 |
 | Panasonic | FZ-N1F | FZ-N1F | FZ-N1 |
 | Panasonic | FZ-N1VU | FZ-N1VU | FZ-N1 |
+| Panasonic | FZ-T1 | FZ-T1VU | FZ-T1 |
 | Panasonic | FZ-T1 | FZ-T1VUN | FZ-T1 |
 | Panasonic | FZ-X1 | FZ-X1 | FZ-X1 |
 | Panasonic | FZ-X1 | FZ-X1VU | FZ-X1 |
@@ -13464,6 +13473,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Positivo BGH | Ypy | T701_AR | L701 TV |
 | Positivo BGH | Ypy | YPY_L700 | Positivo BGH Ypy L700 |
 | Positivo BGH | Ypy Kids | YPY_L700 | Positivo BGH Ypy L700 Kids |
+| Premio | 186HS1050531 | 186HS1050531 | 186HS1050531 |
 | Premio | Axe | HMR5510 | Axe |
 | Premio | P490 | P490 | P490 |
 | Premio | P520 | P520 | P520 |
@@ -13479,6 +13489,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Prestige | ELITE8Q | ELITE8Q | ELITE8Q |
 | Prestige | ELITE8QS | Elite8QS | Elite8QS |
 | Prestige | ELITE9Q | ELITE9Q | ELITE9Q |
+| Prestige | PMT5778_4G | CF80A5L | PMT5778_4G |
 | Prestige | PRO10D | PRO10D | PRO10D |
 | Prestige | PRO7DS | PRO7DS | PRO7DS |
 | Prestige | PRO8D | PRO8D | PRO8D |
@@ -15154,10 +15165,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy On7 | o7ltechn | SM-G6000 |
 | Samsung | Galaxy On7 | on7elte | SM-G600F |
 | Samsung | Galaxy On7 Prime | on7xreflte | SM-G611F |
+| Samsung | Galaxy On7 Prime | on7xreflteskt | SM-G611S |
 | Samsung | Galaxy On7 Pro | o7prolte | SM-G600FY |
 | Samsung | Galaxy On7 Refresh | on7xrefltektt | SM-G611K |
 | Samsung | Galaxy On7 Refresh | on7xrefltelgt | SM-G611L |
-| Samsung | Galaxy On7 Refresh | on7xreflteskt | SM-G611S |
 | Samsung | Galaxy On7(2016) | on7xeltektt | SM-G610K |
 | Samsung | Galaxy On7(2016) | on7xeltelgt | SM-G610L |
 | Samsung | Galaxy On7(2016) | on7xelteskt | SM-G610S |
