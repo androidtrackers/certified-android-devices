@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 25.10.2018
+Last sync is 26.10.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -984,6 +984,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Astro Queo | A712 | A712 | A712 |
 | AstroQueo | polaris_wifionly | polaris-wifionly | A912 |
 | Astro_Tab | A750 | A750 | A750 |
+| Astro_Tab | G10 | G10 | G10 |
 | Asus |  | EP71 | ME171 |
 | Asus |  | TF300T | ASUS Transformer Pad TF300T |
 | Asus |  | a10 | Asus A10 |
@@ -2436,6 +2437,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Condor | Allure A55 Plus | PGN613 | PGN613 |
 | Condor | Allure M1 | Allure_M1 | Allure M1 |
 | Condor | Allure M1 Plus | Allure_M1_Plus | Allure M1 Plus |
+| Condor | Allure M2 | Allure_M2 | Allure M2 |
 | Condor | Allure M3 | Allure_M3 | Allure M3 |
 | Condor | Allure M3 Lite | Allure_M3_Lite | Allure M3 Lite |
 | Condor | Allure M3 lite | Allure_M3_Lite | Allure M3 Lite |
@@ -3585,6 +3587,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Figi | Nopal | Nopal | Nopal |
 | Figo | ATRIUM II F55L2 | F55L2 | ATRIUM II F55L2 |
 | Figo | CENTRIC S50G | S50G | CENTRIC S50G |
+| Figo | F40G2 | F40G2 | F40G2 |
 | Figo | M50L | M50L | M50L |
 | Figo | Ultra J8 | UltraJ8 | UltraJ8 |
 | Filih | FX4423 | FX4423 | FX4423 |
@@ -7983,6 +7986,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Jivi | Prime P4442 | Prime_P4442 | Prime P4442 |
 | Jivi | Revolution TnT3 | Revolution_TnT3 | Revolution TnT3 |
 | Jivi | Xtreme XT309 | Xtreme_XT309 | Xtreme XT309 |
+| Jivi | Xtreme XT309 Plus | Xtreme_XT309_Plus | Xtreme XT309 Plus |
 | Jooyon | J110A | J110A | J110A |
 | Just5 | CF8 | CF8 | CF8 |
 | Just5 | COSMO L707 | COSMO_L707 | COSMO_L707 |
@@ -14048,6 +14052,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | SPC Mobile | LAIKA | LAIKA | LAIKA |
 | SPC Mobile | S19 | S19 | S19 |
 | SPC Mobile | X1 | SPC_X1 | X1 |
+| SPC Mobile | X3 | SPC_X3 | X3 |
 | SPC Mobile | heaven_10_1 | heaven-10_1 | HEAVEN 10.1 |
 | STF Mobile | AERIAL | STFAERIAL | AERIAL |
 | STF Mobile | AERIAL PLUS | AERIAL | AERIAL PLUS |
@@ -14073,6 +14078,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | STK(Santok) | Hero X | STK_Hero_X | STK_Hero_X |
 | STK(Santok) | STK Ace Plus | Ace_Plus | STK Ace Plus |
 | STK(Santok) | STK Ace Plus | STK_Ace_Plus | STK Ace Plus |
+| STK(Santok) | STK EVO | STK_EVO | STK EVO |
 | STK(Santok) | STK EVO | STK_EVO_US | STK EVO |
 | STK(Santok) | STK Hero Lite | Hero_Lite | STK Hero Lite |
 | STK(Santok) | STK Hero Lite | STK_Hero_Lite | STK Hero Lite |
@@ -16548,6 +16554,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Singtech | SAPPHIRE H51 | H51 | H51 |
 | Singtech | Z500 | Z500 | Z500 |
 | Singtech | i-Tab Mini 3 | iTab | i-Tab Mini 3 |
+| Sintel | SINTEL-X1 | SINTEL_X1 | SINTEL-X1 |
 | Siragon | SP-5000 | SP-5000 | Siragon SP-5000 |
 | Sirin | LABS SOLARIN | solarin | SOLARIN |
 | Sirin | LABS SOLARIN | solarin | Solarin |
@@ -18458,6 +18465,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tambo | TA-4 | TA-4 | TA-4 |
 | Tanoshi | TTBKB10-01 | TTBKB10-01 | Tanoshi 2-in-1 |
 | Tech 4u | Aqua | Aqua | Aqua |
+| Tech 4u | Earth | Earth | Earth |
 | Tech 4u | Fire | Fire | Fire |
 | Tech 4u | Force | t592_otd_tech_4u_we | Force |
 | Tech 4u | I8 | I8 | I8 |
@@ -18857,6 +18865,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | True | SMART 4G M1 Plus | SMART_4G_M1_Plus | SMART 4G M1 Plus |
 | True | SMART 4G Octa 5.5 | M636T | SMART 4G Octa 5.5 |
 | True | SMART 4G P1 | SMART_4G_P1 | SMART 4G P1 |
+| True | SMART 4G P1 Prime | SMART_4G_P1_PRIME | SMART 4G P1 Prime |
 | True | SMART TAB 4G M1 | SMART_TAB_4G_M1 | SMART TAB 4G M1 |
 | True | SMART_4G_GEN_C_5.5 | SMART_4G_GEN_C_5_5 | SMART 4G GEN C 5.5 |
 | True | SMART_Champ_4inch | SMART_Champ_4inch | SMART Champ 4.0 |
@@ -21288,6 +21297,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Zelumobile | C500 | C500 | C500 |
 | Zen | ADMIRE CURVE NEO | ZEN_ADMIRE_CURVE_NEO | ADMIRE_CURVE_NEO |
 | Zen | ADMIRE SHINE | ADMIRE_SHINE | ADMIRE SHINE |
+| Zen | Admire Beat | ZEN_ADMIRE_BEAT | ADMIRE_BEAT |
 | Zen | Admire Blaze | ZEN_ADMIRE_BLAZE | Admire Blaze |
 | Zen | Admire Infinity Neo | ADMIRE_INFINITY_NEO | ADMIRE_INFINITY_NEO |
 | Zen | Blaze | CIN_INFINITY_BLAZE | CINEMAX_INFINITY_BLAZE |
@@ -21486,6 +21496,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iLife | ITELL K4700 | ITELL_K4700 | ITELL K4700 |
 | iLife | ITELL_K3102N | ITELL_K3102N | ITELL_K3102N |
 | iLife | ITELL_K3500N | ITELL_K3500N | ITELL_K3500N |
+| iNFONE | INFONE XE | INFONE_XE | INFONE XE |
 | iNFONE | infone X | infone_X | infone X |
 | iNO Mobile | S9 | iNO_S9 | iNO S9 |
 | iNanny | NC1000 | NC1000 | NC1000 |
