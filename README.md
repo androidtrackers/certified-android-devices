@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 26.10.2018
+Last sync is 27.10.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -91,6 +91,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Abocom | A08SM | A08 | A08S |
 | Accent | CAMELEON C5 | CAMELEON_C5 | CAMELEON C5 |
 | Accent | FAST7 3G | FAST7_3G | FAST7 3G |
+| Accent | PEARL A4 Lite | PEARL_A4_Lite | PEARL A4 Lite |
 | Accent | PEARL A6 | PEARL_A6 | PEARL A6 |
 | Accent | Pearl A4 PLUS | PEARL_A4_PLUS | PEARL A4 PLUS |
 | Accent | Pearl_A4 | Pearl_A4 | Pearl A4 |
@@ -1817,6 +1818,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blaupunkt | Blaupunkt_SM_02 | Blaupunkt_SM_02 | Blaupunkt_SM_02 |
 | Blaupunkt | Discovery_A10_302 | Discovery_A10_302 | Discovery_A10_302 |
 | Blaupunkt | Endeavour101 | Blaupunkt | Endeavour101 |
+| Blaupunkt | SL05 | SL05 | SL05 |
 | Blaupunkt | SLplus02 | SLplus02 | SLplus02 |
 | Blu | A200 | A200 | A200 |
 | Blu | A250 | A250 | A250 |
@@ -3127,6 +3129,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Docomo | F-05J | F05J | F-05J |
 | Docomo | Japan | TT01 | TT01 |
 | Docomo | MEDIAS TAB UL N-08D | N-08D | N-08D |
+| Docomo | P-01K | P-01K | P-01K |
 | Docomo | d-01J | d-01J | d-01J |
 | Docomo | d-01K | d-01K | d-01K |
 | Docomo | d-02K | d-02K | d-02K |
@@ -3415,6 +3418,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Envizen Digital | V917G | GK-MID9022 | V917G |
 | Envizen Digital | VMD1029 | VMD1029 | VMD1029 |
 | Ergo | B502 Basic | B502_Basic | B502 Basic |
+| Ergo | B504_Unit | B504_Unit | B504_Unit |
 | Ergo | B505_Unit_4G | B505_Unit_4G | B505_Unit_4G |
 | Ergo | ERGO B500 | B500 | ERGO B500 First |
 | Ergo | ERGO B501 | B501 | B501 |
@@ -7432,6 +7436,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Icon | Portal_10i | Portal_10i | NTMC17 |
 | Ikimobile | BLESSPLUS | BLESSPLUS | BLESSPLUS |
 | Ikimobile | GO4.5S | GO4_5S | GO4.5S |
+| Ikimobile | GO5_55 | GO5_55 | GO5_55 |
 | Ikimobile | KF45 | KF45 | KF45 |
 | Ikon | IK-7108 | IK-7108 | IK-7108 |
 | Ikon | IK-787 | IK-787 | IK-787 |
@@ -10905,6 +10910,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Meizu | M15 | M15 | M15 |
 | Meizu | M1813 | M1813 | M1813 |
 | Meizu | M1816 | M1816 | M1816 |
+| Meizu | M1822 | M1822 | M1822 |
+| Meizu | M1852 | M1852 | M1852 |
 | Meizu | M6 | meizu_M6 | M6 |
 | Meizu | M6 | meizu_M6 | MEIZU M6 |
 | Meizu | M6 Note | M6Note | M6 Note |
@@ -10920,6 +10927,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Meizu | PRO 7 | PRO7S | PRO 7 |
 | Meizu | PRO 7 | PRO7S | PRO 7-S |
 | Meizu | PRO 7 Plus | PRO7Plus | PRO 7 Plus |
+| Meizu | meizu C9 | meizuC9 | meizu C9 |
+| Meizu | meizu X8 | X8 | meizu X8 |
 | Memorex | MTAB-07530A | MTAB-07530A | MTAB-07530A |
 | Memorex | MTAB-0753AK | MTAB-07535AK | MTAB-07535AK |
 | Memorex | MTAB-08530A | MTAB-08530A | MTAB-08530A |
@@ -13983,6 +13992,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ruggear | RG730 | rg730 | RugGear RG730 |
 | Ruggear | RG740B | RG740B | RG740B |
 | Ruggear | RG760 | RG760 | RG760 |
+| Ruggear | RG850 | RG850 | RG850 |
 | Ruggear | RG910 | RG910 | RG910 |
 | Ruio | RUIO i7c Tablet | i7c | i7c |
 | Ruio | Ruio_S5Plus | Ruio_S5Plus | Ruio_S5Plus |
@@ -14245,7 +14255,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy A5(2017) | a5y17ltelgt | SM-A520L |
 | Samsung | Galaxy A5(2017) | a5y17lteskt | SM-A520S |
 | Samsung | Galaxy A6 | a6elteatt | SM-A600A |
+| Samsung | Galaxy A6 | a6eltemtr | SM-A600T1 |
 | Samsung | Galaxy A6 | a6eltespr | SM-A600P |
+| Samsung | Galaxy A6 | a6eltetmo | SM-A600T |
 | Samsung | Galaxy A6 | a6lte | SM-A600F |
 | Samsung | Galaxy A6 | a6lte | SM-A600FN |
 | Samsung | Galaxy A6 | a6lte | SM-A600G |
@@ -14719,6 +14731,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J3 | j3y17qltecmcc | SM-J3300 |
 | Samsung | Galaxy J3 | j3y17qltecmcc | SM-J3308 |
 | Samsung | Galaxy J3 Achieve | j3topeltespr | SM-J337P |
+| Samsung | Galaxy J3 Aura | j3topelteusc | SM-J337R4 |
 | Samsung | Galaxy J3 Eclipse | j3popltevzw | SM-J327V |
 | Samsung | Galaxy J3 Emerge | j3popltespr | SM-J327P |
 | Samsung | Galaxy J3 Mission | j3popltevzw | SM-J327VPP |
@@ -14738,7 +14751,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J3 Pro \xe5\xa2\x9e\xe5\xbc\xba\xe7\x89\x88 | j3xpro6mltechn | SM-J3119S |
 | Samsung | Galaxy J3 Star | j3topltetmo | SM-J337T |
 | Samsung | Galaxy J3 Top | j3topelteacg | SM-J337R7 |
-| Samsung | Galaxy J3 Top | j3topelteusc | SM-J337R4 |
 | Samsung | Galaxy J3 Top | j3toplteaio | SM-J336AZ |
 | Samsung | Galaxy J3 Top | j3toplteaio | SM-J337AZ |
 | Samsung | Galaxy J3 V | j3topeltevzw | SM-J337V |
@@ -16872,6 +16884,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sony | Xperia XZ3 | H8416 | H8416 |
 | Sony | Xperia XZ3 | H9436 | H9436 |
 | Sony | Xperia XZ3 | H9493 | H9493 |
+| Sony | Xperia XZ3 | SO-01L | SO-01L |
 | Sony | Xperia XZs | 602SO | 602SO |
 | Sony | Xperia XZs | G8231 | G8231 |
 | Sony | Xperia XZs | G8232 | G8232 |
@@ -19834,6 +19847,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Xiaomi | MIX 2 | chiron | Mi MIX 2 |
 | Xiaomi | MIX 2S | polaris | MIX 2S |
 | Xiaomi | MIX 2S | polaris | Mi MIX 2S |
+| Xiaomi | MIX 3 | perseus | MIX 3 |
+| Xiaomi | MIX 3 | perseus | Mi MIX 3 |
 | Xiaomi | Mi 3 | pisces | MI 3 |
 | Xiaomi | Mi 4 PRO | dangalUHD | MiTV-AXSO2 |
 | Xiaomi | Mi 4A PRO | dangalFHD | MiTV-AXSO1 |
