@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 27.10.2018
+Last sync is 28.10.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -385,6 +385,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | AllCall | MIX2 | MIX2 | MIX2 |
 | AllCall | Tab_1_3G | Tab_1_3G | Tab_1_3G |
 | AllCall | Tab_2_3G | Tab_2_3G | Tab_2_3G |
+| AllView | A10 Lite | A10_Lite | A10_Lite |
 | AllView | A10 Plus | A10_Plus | A10_Plus |
 | AllView | A5 Easy | A5_Easy | A5_Easy |
 | AllView | A5 Easy | A5_Easy | A5_Easy_TM |
@@ -18749,6 +18750,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Thuraya | Thuraya X5-Touch | X5-Touch | Thuraya X5-Touch |
 | Tigers | TIS001 | TIS001 | TIS001 |
 | Tigers | TIS001A | TIS001A | TIS001A |
+| Tigers | TIS001B | TIS001B | TIS001B |
 | Tigers | TIS_001 | TIS_001 | TIS_001 |
 | Tiitan | T54 | T54 | T54 |
 | Time2 | TIME2 | TP1060J | TP1060J |
