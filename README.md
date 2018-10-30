@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 29.10.2018
+Last sync is 30.10.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1543,6 +1543,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | BQru | BQ-5008L Brave | BQru-5008L | BQ-5008L |
 | BQru | BQ-5009L | BQru_5009L | BQ-5009L |
 | BQru | BQ-5012L | BQru_5012L | BQ-5012L |
+| BQru | BQ-5015L FIRST | BQru-5015L | BQ-5015L |
 | BQru | BQ-5033 Shark | BQru_5033 | BQru-5033 |
 | BQru | BQ-5035 Velvet | BQru-5035 | BQru-5035 |
 | BQru | BQ-5044 Strike LTE | BQru-5044 | BQru-5044 |
@@ -1792,6 +1793,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blackview | BV9000-F | BV9000-F | BV9000-F |
 | Blackview | BV9000-RU | BV9000-RU | BV9000-RU |
 | Blackview | BV9000-RU | BV9000Pro-RU | BV9000Pro-RU |
+| Blackview | BV9600Pro | Blackview | BV9600Pro |
 | Blackview | Blackview A10 | A10 | A10 |
 | Blackview | Blackview A20 Pro | A20Pro | A20Pro |
 | Blackview | Blackview A30 | A30 | A30 |
@@ -2890,6 +2892,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Danew | Dslide1016 | Dslide1016 | Dslide1016 |
 | Danew | Dslide714 | Dslide714 | Dslide714 |
 | Danew | Dslide971DC | Dslide971DC | Dslide971DC |
+| Danew | G27 | G27 | G27 |
 | Danew | Konnect 402 | Konnect402 | Konnect402 |
 | Danew | Konnect 502 | Konnect_502 | Konnect_502 |
 | Danew | Konnect 503 | Konnect503 | Konnect503 |
@@ -4006,6 +4009,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Getac | Z710 | z710 | Getac Z710 |
 | Getac | ZX70 | zx70 | ZX70 |
 | Getac | ZX70 | zx70 | zx70 |
+| Getnord | LYNX | LYNX | LYNX |
 | Ghia | GHIA_VECTOR_3G | GHIA_VECTOR_3G | GHIA_VECTOR_3G |
 | Ghia | GTAB718 | GTAB718 | GTAB718 |
 | Ghia | GTABKIDS | GTABKIDS | GTABKIDS |
@@ -7398,6 +7402,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | IMO(In My Opinion) | IMO Q | IMO_Q | IMO Q |
 | IMO(In My Opinion) | IMO Q2 Plus | IMO_Q2_Plus | IMO Q2 Plus |
 | IMO(In My Opinion) | IMO Q3 Plus | IMO_Q3_Plus | IMO Q3 Plus |
+| IMO(In My Opinion) | IMO S2 | S2 | IMO S2 |
 | INOI | INOI 3 LITE | INOI_3_LITE | INOI_3_LITE |
 | INOI | INOI 5 Pro | INOI_5_Pro | INOI_5_Pro |
 | INOI | INOI_2 | INOI_2 | INOI_2 |
@@ -11795,6 +11800,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Moviltelco Trade | KIREI A5Q PLUS | Azumi_KIREI_A5Q_PLUS | KIREI A5Q PLUS |
 | Moviltelco Trade | mtt L452 | L452 | L452 |
 | Moviltelco Trade | mtt L509 | L509 | MTT_L509 |
+| Moviltelco Trade S.L | A58B | A58B | A58B |
 | Movitel | M8414 | Movitel_M8414 | M8414 |
 | Movitel | M8601 | Movitel_M8601 | M8601 |
 | Moxee Technologies | X10 | X10 | X10 |
@@ -12428,6 +12434,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | OnePlus | One | A0001 | One |
 | OnePlus | OnePlus | OnePlus | ONE E1003 |
 | OnePlus | OnePlus 6 | OnePlus6 | ONEPLUS A6003 |
+| OnePlus | OnePlus 6T | OnePlus6T | ONEPLUS A6013 |
+| OnePlus | OnePlus 6T | OnePlus6TSingle | ONEPLUS A6013 |
 | OnePlus | OnePlus2 | OnePlus2 | ONE A2003 |
 | OnePlus | OnePlus3 | OnePlus3 | ONEPLUS A3000 |
 | OnePlus | OnePlus3T | OnePlus3T | ONEPLUS A3000 |
@@ -13597,6 +13605,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Prestigio | PMT5588_4G | CF80A5L | PMT5588_4G |
 | Prestigio | PMT5718_4G | CF80A5L | PMT5718_4G |
 | Prestigio | PMT5777_3G | PMT5777_3G | PMT5777_3G |
+| Prestigio | PMT5791_4G | LS10A8L | PMT5791_4G |
 | Prestigio | PMT5877C | PMT5877C | PMT5877C |
 | Prestigio | PMT5887_3G | PMT5887_3G | PMT5887_3G |
 | Prestigio | PMT7008_4G | PMT7008_4G | PMT7008_4G |
@@ -15740,11 +15749,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A (10.5") | gta2xlltevzw | SM-T597V |
 | Samsung | Galaxy Tab A (2016) | gtaxllte | SM-T585 |
 | Samsung | Galaxy Tab A (2016) | gtaxlltechn | SM-T585C |
+| Samsung | Galaxy Tab A (2016) | gtaxlltekx | SM-T585N0 |
 | Samsung | Galaxy Tab A (2016) | gtaxlwifi | SM-T580 |
 | Samsung | Galaxy Tab A (2016) | gtaxlwifichn | SM-T580 |
 | Samsung | Galaxy Tab A (2016) with S Pen | gtanotexllte | SM-P585 |
 | Samsung | Galaxy Tab A (2016) with S Pen | gtanotexllte | SM-P585M |
 | Samsung | Galaxy Tab A (2016) with S Pen | gtanotexllte | SM-P585Y |
+| Samsung | Galaxy Tab A (2016) with S Pen | gtanotexllte | SM-P587 |
 | Samsung | Galaxy Tab A (2016) with S Pen | gtanotexlltechn | SM-P588C |
 | Samsung | Galaxy Tab A (2016) with S Pen | gtanotexlltekx | SM-P585N0 |
 | Samsung | Galaxy Tab A (2016) with S Pen | gtanotexlwifichn | SM-P583 |
@@ -15766,7 +15777,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A 10.1 | gtaxladwifikx | SM-T583 |
 | Samsung | Galaxy Tab A 10.1 | gtaxllte | SM-T585M |
 | Samsung | Galaxy Tab A 10.1 | gtaxllte | SM-T587 |
-| Samsung | Galaxy Tab A 10.1 | gtaxlltekx | SM-T585N0 |
 | Samsung | Galaxy Tab A 10.1 | gtaxlwifi | SM-T580X |
 | Samsung | Galaxy Tab A 10.1 | gtaxlwifichn | SM-T580X |
 | Samsung | Galaxy Tab A 10.5 | gta2xllte | SM-T595 |
@@ -16003,7 +16013,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab4 Active | rubenswifi | SM-T360 |
 | Samsung | Galaxy Tab4 Active | rubenswifichn | SM-T360 |
 | Samsung | Galaxy Tab4 Nook 10.1 | matissewifiopenbnn | SM-T530NU |
-| Samsung | Galaxy TabA Plus 10.1 | gtanotexllte | SM-P587 |
 | Samsung | Galaxy TabA Plus10.1 | gtanotexlwifikx | SM-P580X |
 | Samsung | Galaxy TabE 8.0 | gtesltektt | SM-T378K |
 | Samsung | Galaxy TabE 8.0 | gtesltelgt | SM-T378L |
@@ -16242,6 +16251,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp |  | SH8288U | SH8288U |
 | Sharp |  | SH8298U | SH8298U |
 | Sharp |  | msm7627_surf | SH8118U |
+| Sharp | 2T-C12AF | taurus_2tcxxaf | 2T-C12AF |
+| Sharp | 2T-C12AP | taurus_2tcxxap | 2T-C12AP |
+| Sharp | 2T-C16AP | taurus_2tcfxxap | 2T-C16AP |
 | Sharp | 2T-C32ACSA, 2T-C32ACMA, 2T-C32ACTA, 2T-C32ACZA | Lcd_32sfinf380a | LCD_32SFINF380A |
 | Sharp | 2T-C40ACxA; 2T-C45ACxA; 2T-C45ADxA | Lcd_xxsffocca_c | LCD_xxSFFOCCA_C |
 | Sharp | 306SH | SG306SH | 306SH |
@@ -19235,6 +19247,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Visual Land | Prestige Prime10SE | Prime10SE | Prime10SE |
 | Visual Land | Prestige Prime11E | Prime11E | Prime11E |
 | Vitsmo | Zero Spin | Zero_Spin | Zero_Spin |
+| Viumee | EV5 | EV5 | EV5 |
 | Viumee | EV5 X | EV5_X | EV5 X |
 | Viumee | EV6 ELITE | EV6_ELITE | EV6 ELITE |
 | Viumee | SMART EV5 | SMART_EV5 | SMART_EV5 |
@@ -21501,6 +21514,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iGet | SMART_G81 | SMART_G81 | SMART_G81 |
 | iGet | SMART_G81H | SMART_G81H | SMART_G81H |
 | iGet | SMART_L102 | iGET_SMART_L102 | SMART_L102 |
+| iHunt | Alien X | Alien_X | Alien_X |
 | iHunt | Like 4U | Like_4U | Like_4U |
 | iLa Mobile | D1 | D1 | D1 |
 | iLa Mobile | ILA C1 | ILA_C1 | ILA C1 |
@@ -21513,6 +21527,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iLife | ITELL K4700 | ITELL_K4700 | ITELL K4700 |
 | iLife | ITELL_K3102N | ITELL_K3102N | ITELL_K3102N |
 | iLife | ITELL_K3500N | ITELL_K3500N | ITELL_K3500N |
+| iMuz | muPADT7 | muPADT7 | muPADT7 |
 | iNFONE | INFONE XE | INFONE_XE | INFONE XE |
 | iNFONE | infone X | infone_X | infone X |
 | iNO Mobile | S9 | iNO_S9 | iNO S9 |
@@ -21546,6 +21561,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iRulu | X77 | X77 | X77 |
 | iRulu | Y57 | iRULU_Y57 | Y57 |
 | iRulu | iRULU_G36 | iRULU_G36 | G36 |
+| iSWAG | ALPHA | Alpha | Alpha |
 | iVOOMi | Me 1 | Me_1 | iV 505 |
 | iVOOMi | Me 1+ | Me_1_plus | Me 1+ |
 | iVOOMi | Me 2 | Me_2 | Me 2 |
