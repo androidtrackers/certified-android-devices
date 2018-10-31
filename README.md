@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 30.10.2018
+Last sync is 31.10.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13,6 +13,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | 10.or | E | E | E |
 | 10.or | G | G | G |
 | 3Go | GT10K3IPS | GT10K3IPS | GT10K3IPS |
+| 3Go | GT7007EQC | GT7007EQC | GT7007EQC |
 | 3Q | OC1020A | OC1020A | OC1020A |
 | 4good | 4GOOD Light B100 | 4GOOD_Light_B100 | Light B100 |
 | 4good | A103 | 4GOOD_Light_A103 | Light A103 |
@@ -84,6 +85,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | AXXA | PRO | PRO | PRO |
 | AZBox | AZDroid | AZDroid | AZDroid |
 | AZPEN | A720 | wing-inet | A720 |
+| AZPEN | A780 | A780 | A780 |
 | AZPEN | A920 | wing-ibt | A920 |
 | Aamra WE | A10 | A10 | WE A10 |
 | Aamra WE | A50 | A50 | WE A50 |
@@ -1388,6 +1390,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Auchan | S6S4IN3G | S6S4IN3G | S6S4IN3G |
 | Auchan | S6S55IN3G | S6S55IN3G | S6S55IN3G |
 | Auchan | S6S5IN3G | S6S5IN3G | S6S5IN3G |
+| Auchan | S6S6IN3G | S6S6IN3G | S6S6IN3G |
 | Auchan | Selecline X35T | X35T | X35T |
 | Auchan | Selecline-854599 | 854599 | Selecline-854599 |
 | Auchan | Smartphone 5" Q.4094 | ac50bhe | Q.4094 |
@@ -2037,6 +2040,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Brandcode | L1Fa | L1Fa | L1Fa |
 | Brandt | BSTAR | BSTAR | BSTAR |
 | Brandt | BSTAR+ | BSTAR_PLUS | BSTAR+ |
+| Bravis | A509_Jeans | A509_Jeans | A509_Jeans |
 | Bravis | A510_Jeans_4G | A510_Jeans_4G | A510_Jeans_4G |
 | Bravis | A512 Harmony Pro | A512_Harmony_Pro | A512 Harmony Pro |
 | Bravis | N1-570 Space | N1-570-Space | N1-570 Space |
@@ -2316,6 +2320,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Cherry Mobile | Omega HD3 | H110 | Omega HD 3 |
 | Cherry Mobile | Omega Icon 2 | Omega_Icon_2 | Omega Icon 2 |
 | Cherry Mobile | Omega Lite 3C | Omega_Lite_3C | Omega_Lite_3C |
+| Cherry Mobile | Omega Lite 3s | Omega_Lite_3s | Omega Lite 3s |
 | Cherry Mobile | Omega Lite 4 | omega_lite_4 | omega_lite_4 |
 | Cherry Mobile | One | H940_sprout | H940 |
 | Cherry Mobile | Rover 2 | Cherry_Rover_2 | Rover_2 |
@@ -3112,6 +3117,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Dingding | X10 | X10 | X10 |
 | Dingding | X11 | X11 | X11 |
 | Dingding | X11S | X11S | X11S |
+| Dingding | X12 | X12 | X12 |
 | Dish | AirTV Player | uiw4010ech | AirTV Player |
 | Dish | EVOLVE | dish_cable_bcm | SH960C-DS |
 | DishTV-NZ | SV10 | HiCast | SV10 |
@@ -3274,6 +3280,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ECS | TR10RS1 | TR10RS1_19 | TR10RS1 |
 | ECS | TR10RS1 | TR10RS1_2 | TR10RS1 |
 | ECS | TU10MK | TU10MK_3 | TU10MK |
+| EKINOX | E6 | E6 | E6 |
+| EKINOX | E8_Ultra | E8_Ultra | E8_Ultra |
 | EKO | EKO OMEGA LTE Q60 | EKO_OMEGA_LTE_Q60 | EKO OMEGA LTE Q60 |
 | EKO | EKO OMEGA Q55 | EKO_OMEGA_Q55 | EKO OMEGA Q55 |
 | EKO | EKO Star LTE G60 | EKO_Star_LTE_G60 | EKO Star LTE G60 |
@@ -8076,6 +8084,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | KDDI | Power Up Unit | C02BB1 | C02BB1 |
 | KDDI | STW2000 | H02ST1 | STW2000 |
 | KDDI | SmartTV Box | C01AS | SMARTTVBOX |
+| KEMPLER STRAUSS | KEMPLER 9 | KEMPLER_9 | KEMPLER_9 |
 | KEMPLER STRAUSS | KEMPLER TV | KEMPLER_TV | KEMPLER_TV |
 | KEMPLER STRAUSS | KEMPLER_8_PLUS | KEMPLER_8_PLUS | KEMPLER_8_PLUS |
 | KONKA | SP9 | SP9 | SP9 |
@@ -10159,6 +10168,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lenovo | K5 Note | k52_e78 | Lenovo K52e78 |
 | Lenovo | K5 Note | k52_t58 | Lenovo K52t58 |
 | Lenovo | K5 Plus | A6020a46 | Lenovo A6020a46 |
+| Lenovo | K5 S | K5S | Lenovo L38031 |
 | Lenovo | K50 | K50-t5 | Lenovo K50-t5 |
 | Lenovo | K50 | aio_3m_otfp | Lenovo K50-t3s |
 | Lenovo | K50-T5 | aio_otfp_m | Lenovo K50-t5 |
@@ -10166,6 +10176,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lenovo | K520 | seoul | Lenovo S680 |
 | Lenovo | K52t38 | k52_t38 | Lenovo K52t38 |
 | Lenovo | K52t38 | k52_t38 | Lenovo k52t38 |
+| Lenovo | K5X | kunlun | Lenovo L38041 |
 | Lenovo | K800 | K800 | Lenovo K800 |
 | Lenovo | K80M | K80M | Lenovo K80M |
 | Lenovo | K860 | stuttgart | Lenovo K860 |
@@ -10189,16 +10200,19 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lenovo | Lenovo A3300 | A3300-GV | LenovoA3300-GV |
 | Lenovo | Lenovo A3300 | A3300-HV | LenovoA3300-HV |
 | Lenovo | Lenovo A5 | L18011 | L18011 |
+| Lenovo | Lenovo A5 | L18021 | Lenovo L18021 |
 | Lenovo | Lenovo K8 | brady_f | Lenovo K |
 | Lenovo | Lenovo K8 | brady_f | Lenovo K8 |
 | Lenovo | Lenovo K8 Note | manning | Lenovo K8 Note |
 | Lenovo | Lenovo K8 Note | manning | XT1902-3 |
 | Lenovo | Lenovo K8 Plus | marino_f | Lenovo K |
 | Lenovo | Lenovo K8 Plus | marino_f | Lenovo K8 Plus |
+| Lenovo | Lenovo K9 | K9 | Lenovo L38043 |
 | Lenovo | Lenovo Mirage Solo | vega | VR-1541F |
 | Lenovo | Lenovo N Series Chromebook | reks_cheets | Braswell Chrome OS Device |
 | Lenovo | Lenovo N Series Chromebook | reks_cheets | Lenovo Intel Braswell Chromebook |
 | Lenovo | Lenovo N300 | Lindos2 | Lenovo N300 |
+| Lenovo | Lenovo S5 Pro | sprout | Lenovo L58041 |
 | Lenovo | Lenovo S820 | S820 | Lenovo S820 |
 | Lenovo | Lenovo TAB | TB-8803F | Lenovo TB-8803F |
 | Lenovo | Lenovo TAB 7 | TB-7504F | Lenovo TB-7504F |
@@ -10681,6 +10695,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | MJS | T2702 | T2702 | T2702 |
 | MLAB | MB4 WIFI | MB4_WIFI | MB4 WIFI |
 | MLS Innovation | PTB7QSG_3G | iQE200 | iQE200 |
+| MLS Innovation | iQ1568 | iQ1568 | iQ1568 |
 | MLS Innovation | iQ8011 | iQ8011 | iQ8011 |
 | MOVI | Movi Projector Phone | Movi | Movi Projector Phone |
 | MOVIC | Dual | Dual | Dual |
@@ -10769,6 +10784,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Maxcom | MS459 | MS459 | MS459 |
 | Maxcom | MS514 | MS514 | MS514 |
 | Maxcom | MS553 | MS553 | MS553 |
+| Maxcom | RS-401 | RS_401 | RS-401 |
 | Maximus | Noir X | Noir_X | Noir X |
 | Maximus | P2 | P2 | P2 |
 | Maxis | NeXT M2 | VFD610 | VFD 610 |
@@ -10803,6 +10819,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Mecer | TF10EA2 | TF10EA2_11 | TF10EA2 |
 | Mecer | TF10MK1 | TF10MK1_2 | TF10MK1 |
 | Mecool | KM8 | KM8 | KM8 |
+| Mediacom | 1AY | 1AY | 1AY |
+| Mediacom | 1BY | 1BY | 1BY |
 | Mediacom | 7BY | 7BY | 7BY |
 | Mediacom | 8AY | 8AY | 8AY |
 | Mediacom | G5M | M-PPxG5M | M-PPxG5M |
@@ -11781,6 +11799,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Motorola | moto g(6) plus | evert_nt | moto g(6) plus |
 | Motorola | moto g6 play | jeter | Moto G Play |
 | Motorola | moto g6 play | jeter | moto g(6) play |
+| Motorola | moto p30 | robusta | XT1943-1 |
 | Motorola | moto p30 play | deen | XT1941-2 |
 | Motorola | moto z3 play | beckham | Moto Z3 Play |
 | Motorola | motorola one | deen_sprout | motorola one |
@@ -12337,6 +12356,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nomi | Nomi_Corsa 4 light 3G | Nomi_C070014L | Nomi_C070014L |
 | Nomi | Nomi_Corsa4 3G | Nomi_C070014 | Nomi_C070014 |
 | Nomi | Nomi_Libra4 3G | Nomi_C080014 | Nomi_C080014 |
+| Nomi | Nomi_i5710 | Nomi_i5710 | Nomi_i5710 |
 | Nomi | Nomi_i5730 | Nomi_i5730 | Nomi_i5730 |
 | Nomi | ULTRA3 3G | Nomi_C101012 | Nomi_C101012 |
 | Nomi | ULTRA3 LTE | Nomi_C101030 | Nomi_C101030 |
@@ -13828,6 +13848,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | QOOQ | QOOQV3 | QOOQ | QOOQ |
 | Qilive | Q.3778 | Q3778 | Q.3778 |
 | Qilive | Q10S55IN4G | Q10S55IN4G | Q10S55IN4G |
+| Qilive | Q10S55IN4G2 | Q10S55IN4G2 | Q10S55IN4G2 |
 | Qilive | Q10S5IN4G | Q10S5IN4G | Q10S5IN4G |
 | Qilive | Q9S55IN4G | Q9S55IN4G | Q9S55IN4G |
 | Qilive | Q9T10IN4G | Q9T10IN4G | Q9T10IN4G |
@@ -17295,6 +17316,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sugar | Sugar | s9121 | SUGAR |
 | Sumitomo Electric Industries | ST4173 | ST4173 | ST4173 |
 | Sumitomo Electric Networks |  | dhe1100 | Hikari-iFrame/WDPF-703SE |
+| Sunstech | TAB781 | TAB781 | TAB781 |
 | Supertab | K7_KIDS | K7_KIDS | K7 Kids |
 | Supertab | S7G | S7G | S7G |
 | Supraim | AQ21 | AQ21 | AQ21 |
@@ -18384,6 +18406,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | TCL S960 | DIABLOXPLUS | TCL S960 |
 | TCT (Alcatel) | TCL S960T | DIABLOXPLUS | TCL S960T |
 | TCT (Alcatel) | TCL T500L | evoque_cn | TCL T500L |
+| TCT (Alcatel) | TCL XL2 | EDISON_TF | A503DL |
 | TCT (Alcatel) | TCL Y900 | Scribe5HD_GSM | TCL Y900 |
 | TCT (Alcatel) | TCL Y910 | SCRIBEPRO | TCL Y910 |
 | TCT (Alcatel) | TCL Y910T | SCRIBEPRO | TCL Y910T |
@@ -18531,6 +18554,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | C9S | TECNO-C9 | TECNO-C9S |
 | Tecno | CAMON 11 | TECNO-CF7 | TECNO CF7 |
 | Tecno | CAMON 11 | TECNO-CF7 | TECNO CF7S |
+| Tecno | CAMON 11 Pro | TECNO-CF8 | TECNO CF8 |
 | Tecno | CAMON C7 | TECNO-C7 | TECNO-C7 |
 | Tecno | CAMON CM | TECNO-CA6 | TECNO CA6 |
 | Tecno | CAMON I Ace | TECNO-IN1 | TECNO IN1 |
@@ -18615,6 +18639,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | Pouvoir 2 | TECNO-LA7 | TECNO LA7 |
 | Tecno | Pouvoir 2 Pro | TECNO-LA7-13M | TECNO LA7 Pro |
 | Tecno | R6 | TECNO-R6 | TECNO R6 |
+| Tecno | R6+ | TECNO-RA6 | TECNO RA6 |
 | Tecno | RA6 | TECNO-RA6 | TECNO RA6 |
 | Tecno | RA6 | TECNO-RA6 | TECNO RA6S |
 | Tecno | S1 | TECNO-S1 | TECNO S1 |
@@ -18773,6 +18798,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Timovi | Infinit Lite 2 | Timovi_Infinit_Lite_2 | Infinit_Lite_2 |
 | Timovi | Infinit MX Pro | Infinit_MX_Pro | Infinit MX Pro |
 | Timovi | Insignia Delta 2 | Insignia_Delta_2 | Insignia Delta 2 |
+| Timovi | Insignia_Lab | Insignia_Lab | Insignia_Lab |
 | Timovi | Timovi | Insignia_Delta_2 | Insignia Delta 2 |
 | Timovi | Timovi Infinit MX | Timovi_Infinit_MX | Infinit MX |
 | Timovi | Timovi Infinit X CAM | Timovi_Infinit_X_CAM | Infinit_X_CAM |
@@ -18998,6 +19024,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vava | X2 | X2 | X2 |
 | Vava | XP3 | XP3 | XP3 |
 | Vaxcare | VAX114 | VAX114 | VAX114 |
+| Vega | Vega Q7128 | Vega_Q7128 | Vega Q7128 |
 | Venturer | i7 | RCT6773W22 | i7 |
 | Venus | V5 | V5 | V5 |
 | Venus | V5Plus | V5_Plus | V5_Plus |
@@ -19249,6 +19276,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vitsmo | Zero Spin | Zero_Spin | Zero_Spin |
 | Viumee | EV5 | EV5 | EV5 |
 | Viumee | EV5 X | EV5_X | EV5 X |
+| Viumee | EV6 | EV6 | EV6 |
 | Viumee | EV6 ELITE | EV6_ELITE | EV6 ELITE |
 | Viumee | SMART EV5 | SMART_EV5 | SMART_EV5 |
 | Vivax | FUN S20 | FUN_S20 | FUN_S20 |
@@ -19265,6 +19293,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vivo | V1 | V1 | vivo V1 |
 | Vivo | V1732A | PD1732 | V1732A |
 | Vivo | V1809A | PD1809 | V1809A |
+| Vivo | V1814A | PD1814 | V1814A |
 | Vivo | V1Max | Y37 | vivo Y37 |
 | Vivo | V3 | PD1524 | vivo V3 |
 | Vivo | V3 | V3 | vivo V3 |
@@ -19749,6 +19778,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Wink | Glory_SE | Wink_Glory_SE | Wink Glory SE |
 | Wink | Share SE | Wink_Share_SE | Wink_Share_SE |
 | Wink | World SE | Wink_World_SE | Wink World SE |
+| Winmax | PolarH4 | PolarH4 | PolarH4 |
 | Winmax | TIGER X7 | TIGER_X7 | TIGER X7 |
 | Winmax | Tiger X4 | TIGER_X4 | TIGER X4 |
 | Winmax | Tiger_X10 | TIGER_X10 | TIGER_X10 |
@@ -21471,6 +21501,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iBRIT | Z2Lite | Z2Lite | Z2Lite |
 | iBRIT | i2 | i2 | i2 |
 | iBRIT | iBRIT SpeedX | SpeedX | SpeedX |
+| iBall | Avid | Avid | Avid |
 | iBall | Slide_Dazzle_3500 | Slide_Dazzle_3500 | Slide_Dazzle_3500 |
 | iBall | Slide_Elan_3x32 | Slide_Elan_3x32 | iBall_Slide_Elan_3x32 |
 | iBall | Slide_Elan_4G2_Plus | Slide_Elan_4G2_Plus | iBall_Slide_Elan_4G2_Plus |
@@ -21516,6 +21547,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iGet | SMART_L102 | iGET_SMART_L102 | SMART_L102 |
 | iHunt | Alien X | Alien_X | Alien_X |
 | iHunt | Like 4U | Like_4U | Like_4U |
+| iHunt | TITAN P11000 PRO | TITAN_P11000_PRO | TITAN_P11000_PRO |
 | iLa Mobile | D1 | D1 | D1 |
 | iLa Mobile | ILA C1 | ILA_C1 | ILA C1 |
 | iLa Mobile | ILA R1 | ILA_R1 | ILA R1 |
