@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 02.11.2018
+Last sync is 03.11.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -348,6 +348,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Advance | Pr5747 | Pr5747 | Pr5747 |
 | Advance | Pr6146 | Pr6146 | Pr6146 |
 | Advance | Pr6150 | Pr6150 | Pr6150 |
+| Advance | Tr3946 | Tr3946 | Tr3946 |
 | Advance | Tr4986 | Tablet_adv_v1 | ADVANCE |
 | Advantage | I101MTK | I101MTK | I101MTK |
 | Aelion | i8 | Aelion_i8 | i8 |
@@ -1401,6 +1402,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Audi AG | SDIS1 | sdis1 | Audi tablet |
 | Audiovox | T752 Tablet | AD7L | T752 |
 | Audiovox | T852 Tablet | MID30801 | T852 |
+| Auris | TB-701 | TB-701 | TB-701 |
 | Avaya | Vantage | K175 | Avaya Vantage |
 | Avaya | Vantage | K175 | K175 |
 | Avaya | Vantage | Vantage | Avaya Vantage |
@@ -1466,6 +1468,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | BLECK | BE_et | BE_et | BE_et |
 | BLECK | BE_se | BE_se | BE_se |
 | BLECK | ELEMENT | ELEMENT | ELEMENT |
+| BLOW | BlackTAB7 | BlackTAB7 | BlackTAB7 |
 | BMPRO | BMPRO7DI | BMPRO7DI | BMPRO7DI |
 | BMobile | AX1010 | Bmobile_AX1010 | AX1010 |
 | BMobile | AX1010 | Bmobile_AX1010 | Bmobile AX1010 |
@@ -2136,6 +2139,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Candor | PHS-601 | phs601 | PHS-601 |
 | Canguro | M75TG | M75TG | M75TG |
 | Captiva | CAPTIVA Pad 10 3G Plus | Pad_10_3G_Plus | Captiva Pad 10 3G Plus |
+| Captiva | Pad 10 2-in-1 | Pad_10_2_in_1 | Pad_10_2_in_1 |
 | Captiva | Pad 10 3G pLUS | Pad_10_3G_Plus | Captiva Pad 10 3G Plus |
 | CarePad | C101 | C101 | C101 |
 | Carrefour | CT1000 | Carrefour | CT1000 |
@@ -2789,6 +2793,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Cyrus | CS22 | CS22 | CS22 |
 | Cyrus | CS24 | CS24 | CS24 |
 | Cyrus | CS40 | CS40 | CS40 |
+| D-Tech | H70_G | H70_G | H70_G |
 | D-Tech | LM-01 | LM_01 | LM-01 |
 | DBM Maroc | ACCENT SURF 1000 | SURF1000 | SURF1000 |
 | DBM Maroc | Accent Speed Y2 | Speed-Y2 | Speed-Y2 |
@@ -2803,6 +2808,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DEXP | AS260 | AS260 | AS260 |
 | DEXP | B140 | B140 | B140 |
 | DEXP | B155 | B155 | B155 |
+| DEXP | B245 | B245 | B245 |
 | DEXP | B350 | B350 | B350 |
 | DEXP | B450 | B450 | B450 |
 | DEXP | BL150 | BL150 | BL150 |
@@ -3122,6 +3128,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Digma | VOX FIRE 4G VS5037PL | VS5037PL | VOX FIRE 4G VS5037PL |
 | Digma | VOX_S508_3G | VS5031PG | VOX S508 3G VS5031PG |
 | Digma | VOX_S509_3G | VS5032PG | VOX S509 3G VS5032PG |
+| Dinax | DX_TA7001 | DX_TA7001 | DX_TA7001 |
+| Dinax | DX_TASL83 | DX_TASL83 | DX_TASL83 |
 | Dingding | X10 | X10 | X10 |
 | Dingding | X11 | X11 | X11 |
 | Dingding | X11S | X11S | X11S |
@@ -3812,6 +3820,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Foxconn | vizio VP700 | S1U | VP700 |
 | Foxconn | vizio VP800 | FCN | VP800 |
 | Foxtel | Foxtel Now box | dwt765fxt | Foxtel Now box |
+| Free Vision | FR-CK718 | FR-CK718 | FR-CK718 |
 | Freebit | A55J | arima6735_65u_l1 | TONE m15 |
 | Freebit | Tone m15 | TONE_m15 | TONE m15 |
 | Freebox | Mini 4K | fbx6lc | Freebox Player Mini |
@@ -4028,6 +4037,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Getac | ZX70 | zx70 | ZX70 |
 | Getac | ZX70 | zx70 | zx70 |
 | Getnord | LYNX | LYNX | LYNX |
+| Ghia | GHIA_AXIS7P | GHIA_AXIS7P | GHIA_AXIS7P |
 | Ghia | GHIA_VECTOR_3G | GHIA_VECTOR_3G | GHIA_VECTOR_3G |
 | Ghia | GTAB718 | GTAB718 | GTAB718 |
 | Ghia | GTABKIDS | GTABKIDS | GTABKIDS |
@@ -4282,6 +4292,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Gol Mobile | F3Prime | F3Prime | F3Prime |
 | Gol Mobile | F9 | F9 | F9 |
 | Gol Mobile | TEAM_7_3G | TEAM_7_3G | TEAM_7_3G |
+| Goldmaster | BENGAL_6 | BENGAL_6 | BENGAL_6 |
 | Gome | GOME C7 | GOME_C7 | GOME_2018X07A |
 | Gome | GOME C7 Note mini | GOME_C7_Note_Mini | GOME_C7_Note |
 | Gome | GOME_C7_Note | GOME_C7_Note | GOME_C7_Note |
@@ -5853,6 +5864,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hiya | 5.5 | 5_5 | 5.5 |
 | Hiya | 5.5 | HIYA5_5 | 5.5 |
 | Hoffmann | X Max | X-Max | X-Max |
+| Hoffmann | X_Prime | X_Prime | HOFFMANN X-Prime |
 | Hometech | HT_7RT Tablet PC | HT_7RT | HT_7RT |
 | Hon Hai Precision Industry Co., Ltd. |  | EP10_wifi | PocketBook A10 |
 | Hon Hai Precision Industry Co., Ltd. |  | EP5A_wifi | PocketBook A7 |
@@ -8132,6 +8144,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Kalley | Klic | SA | K4-02 4G |
 | Kalley | Silver P5 | P5 | P5 |
 | Kanji | KJ_AC05 | KJAC05 | KJ_AC05 |
+| Kanji | KJ_YUBI | KJ_YUBI | KJ_YUBI |
 | Kapsys | SmartVision2 | r889 | KAP11000 |
 | Karbonn | A1 Indian | A1_Indian | A1 Indian |
 | Karbonn | A40 Indian | A40_Indian | A40 Indian |
@@ -9619,6 +9632,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Laiq | STARTRAIL 8 | STARTRAIL | STARTRAIL 8 |
 | Lamborghini | SDIS1 | sdis1 | Lamborghini tablet |
 | Land Rover | Explore | LRExplore | Land Rover Explore |
+| Landbyte | Lt6248 | Lt6248 | Lt6248 |
 | Lanix | Alpha_950 | Alpha_950 | Alpha 950 |
 | Lanix | Alpha_950XL | Alpha_950XL | Alpha 950XL |
 | Lanix | ILIUM L1000 | Ilium_L1000 | ILIUM L1000 |
@@ -10499,6 +10513,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lenovo | ideatv S52 | ideatv_S52 | ideatv S52 |
 | Lenovo | ideatvK82 60LX750A  52LX750A  46LX750A  60LX850A  70LX850A 80LX850A | ideatv_K82 | ideatv K82 |
 | Lenovo | \xe5\xb0\x8f\xe6\x96\xb0\xe5\xb9\xb3\xe6\x9d\xbf | X804F | Lenovo TB-X804F |
+| Leotec | LEOTEC | LETAB731 | LETAB731 |
 | Lephone | Lephone W8 | lephone_W8 | lephone_W8 |
 | Lephone | lephone P1 | lephoneP1 | lephoneP1 |
 | Lephone | lephone P5 | lephone_P5 | lephone P5 |
@@ -10716,6 +10731,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | MG series | Any 303 | TR10CD2_3 | TR10CD2 |
 | MJS | T2702 | T2702 | T2702 |
 | MLAB | MB4 WIFI | MB4_WIFI | MB4 WIFI |
+| MLAB | MB4_3G | MB4_3G | MB4_3G |
 | MLS Innovation | PTB7QSG_3G | iQE200 | iQE200 |
 | MLS Innovation | iQ1568 | iQ1568 | iQ1568 |
 | MLS Innovation | iQ8011 | iQ8011 | iQ8011 |
@@ -10785,6 +10801,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Malata | UV350 | UV350 | UV350 |
 | Mango | Mango_S5 | Mango_S5 | Mango S5 |
 | Manta | MSP4507 | MSP4507 | MSP4507 |
+| Mantra | MFSTAB | MFSTAB | MFSTAB |
+| Mantra | MFSTAB_74G | MFSTAB_74G | MFSTAB_74G |
 | Marshall | London | KB-1501 | London |
 | Masstel | Juno_Q6 | Masstel_Juno_Q6 | Juno Q6 |
 | Masstel | LT52 | Masstel_LT52 | Masstel LT52 |
@@ -12443,6 +12461,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ODYS | XELIO_HD10 | XELIO_HD10 | XELIO_HD10 |
 | ODYS | \xc2\xa0FALCON_10_PLUS_3G | FALCON_10_PLUS_3G | FALCON_10_PLUS_3G |
 | OKWU | PI Plus | PI_Plus | PI Plus |
+| OTHO | T1 | T1 | T1 |
 | OTHO | T3 | T3 | T3 |
 | OTK | BM57 lite | BM57_lite | BM57_lite |
 | OTOT | B10 | B10 | B10 |
@@ -13540,6 +13559,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Positivo BGH | Ypy | T701_AR | L701 TV |
 | Positivo BGH | Ypy | YPY_L700 | Positivo BGH Ypy L700 |
 | Positivo BGH | Ypy Kids | YPY_L700 | Positivo BGH Ypy L700 Kids |
+| Premio | 185FT5050231 | 185FT5050231 | 185FT5050231 |
 | Premio | 186HS1050531 | 186HS1050531 | 186HS1050531 |
 | Premio | Axe | HMR5510 | Axe |
 | Premio | P490 | P490 | P490 |
@@ -13577,6 +13597,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Prestigio | MULTIPAD WIZE 3331 3G | PN10A01G | PMT3331_3G |
 | Prestigio | MULTIPAD WIZE 3341 3G | PN10A01G | PMT3341_3G |
 | Prestigio | MULTIPAD WIZE 3787 3G | PMT3777_3G | PMT3787_3G |
+| Prestigio | MUZE U3 LTE | BW50B1L | PSP3515DUO |
 | Prestigio | MUZE V3 | TL49B4L | PSP3495DUO |
 | Prestigio | MultiPad Thunder 7.0i | g01p | PMT3377_Wi |
 | Prestigio | MultiPad Wize 3009 | PMT3009_Wi_C | PMT3009_Wi_C |
@@ -14001,6 +14022,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Razer | Razer Phone | cheryl | Phone |
 | Razer | Razer phone | cheryl_ckh | Phone |
 | Realtime | RS405 | RS405 | RS405 |
+| Rectron | MX702M1 | MX702M1 | MX702M1 |
 | Reeder | A8i Q2 | A8i-Q2 | A8i-Q2 |
 | Reeder | M7 Plus | reeder_M7Plus | M7Plus |
 | Reeder | M8S | reeder_M8S | reeder_M8S |
@@ -14069,6 +14091,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | SED Wireless | GPH-650R | SPH_650R | GPH-650R |
 | SELECLINE | MID7526CM | MID7526CM | NID_7010 |
 | SELECLINE | MID_9526CM | MID_9526CM | S952 |
+| SERVO | P20 | P20 | P20 |
 | SFR | G8800 | stb_dvb_sfr | SFR-G8800 |
 | SFR | STARADDICT 4 | staraddict4 | STARADDICT 4 |
 | SFR | STARXTREM3 | STARXTREM3 | STARXTREM3 |
@@ -16943,10 +16966,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sony | Xperia XZ2 Premium | H8166 | H8166 |
 | Sony | Xperia XZ2 Premium | SO-04K | SO-04K |
 | Sony | Xperia XZ2 Premium | SOV38 | SOV38 |
+| Sony | Xperia XZ3 | 801SO | 801SO |
 | Sony | Xperia XZ3 | H8416 | H8416 |
 | Sony | Xperia XZ3 | H9436 | H9436 |
 | Sony | Xperia XZ3 | H9493 | H9493 |
 | Sony | Xperia XZ3 | SO-01L | SO-01L |
+| Sony | Xperia XZ3 | SOV39 | SOV39 |
 | Sony | Xperia XZs | 602SO | 602SO |
 | Sony | Xperia XZs | G8231 | G8231 |
 | Sony | Xperia XZs | G8232 | G8232 |
@@ -19850,6 +19875,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | X-TIGI | X_TIGI_A1 | X_TIGI_A1 | X_TIGI_A1 |
 | X-TIGI | X_TIGI_A1Plus | X_TIGI_A1Plus | X_TIGI_A1Plus |
 | X-TIGI | X_TIGI_A2 | X_TIGI_A2 | X_TIGI_A2 |
+| X-TIGI | X_TIGI_V16 | X_TIGI_V16 | X_TIGI_V16 |
 | X-View | AMBER_KIDS | AMBER_KIDS | AMBER_KIDS |
 | X-View | PROTON_AMBER_HD | Proton_Amber_HD | Proton_Amber_HD |
 | XL Axiata | XL Home Pow | STI6xxx | STI6030 |
@@ -21540,9 +21566,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iBRIT | i2 | i2 | i2 |
 | iBRIT | iBRIT SpeedX | SpeedX | SpeedX |
 | iBall | Avid | Avid | Avid |
+| iBall | Blaze_V4 | Blaze_V4 | Blaze_V4 |
+| iBall | Nova_4G | Nova_4G | Nova_4G |
 | iBall | Slide_Dazzle_3500 | Slide_Dazzle_3500 | Slide_Dazzle_3500 |
 | iBall | Slide_Elan_3x32 | Slide_Elan_3x32 | iBall_Slide_Elan_3x32 |
 | iBall | Slide_Elan_4G2_Plus | Slide_Elan_4G2_Plus | iBall_Slide_Elan_4G2_Plus |
+| iBall | Spirit_X2 | Spirit_X2 | Spirit_X2 |
 | iBall | iBall | iBall_Slide_Brace_XJ | iBall Slide Brace XJ |
 | iBall | iBall | iBall_Slide_Dazzle_i7 | iBall Slide Dazzle i7 |
 | iBall | iBall Slide Gorgeo 4GL | Gorgeo_4GL | Gorgeo_4GL |
