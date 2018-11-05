@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 04.11.2018
+Last sync is 05.11.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7178,6 +7178,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | nova 2s | HWHWI | HWI-AL00 |
 | Huawei | nova 2s | HWHWI | HWI-TL00 |
 | Huawei | nova 3 | HWPAR | PAR-AL00 |
+| Huawei | nova 3 | HWPAR | PAR-L21 |
+| Huawei | nova 3 | HWPAR | PAR-L29 |
 | Huawei | nova 3 | HWPAR | PAR-LX1 |
 | Huawei | nova 3 | HWPAR | PAR-LX1M |
 | Huawei | nova 3 | HWPAR | PAR-LX9 |
@@ -17414,6 +17416,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Symphony | V120 | V120 | V120 |
 | Symphony | V130 | V130 | V130 |
 | Symphony | V140 | V140 | V140 |
+| Symphony | V155 | V155 | V155 |
 | Symphony | V34 | V34 | V34 |
 | Symphony | V44 | V44 | V44 |
 | Symphony | V47 | V47 | V47 |
