@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 05.11.2018
+Last sync is 06.11.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -23,6 +23,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | 7mobile | SWEGUE | SWEGUE | SWEGUE |
 | A.O.I. ELECTRONICS FACTORY | A.O.I. | TR10CS1_11 | TR10CS1 |
 | A1 | A1 Smart N9 | VFD720 | VFD 720 |
+| ACE France | URBAN 1 | URBAN_1 | URBAN 1 |
 | AG Mobile | AG BOOST 2 | BOOST2 | E4010 |
 | AG Mobile | AG Flair | AG_Flair | Flair |
 | AG Mobile | AG Go Tab Access 2 | AG_Go_Tab_Access_2 | AG_Go_Tab_Access_2 |
@@ -1402,6 +1403,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Audi AG | SDIS1 | sdis1 | Audi tablet |
 | Audiovox | T752 Tablet | AD7L | T752 |
 | Audiovox | T852 Tablet | MID30801 | T852 |
+| Aura | Smart_Landline_AC7 | SMART_LL_AC7 | Smart Landline AC7 Tablet |
 | Auris | TB-701 | TB-701 | TB-701 |
 | Avaya | Vantage | K175 | Avaya Vantage |
 | Avaya | Vantage | K175 | K175 |
@@ -2056,6 +2058,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Bravis | NB851 | NB851 | NB851 |
 | Bravis | X500 | BRAVIS_X500 | BRAVIS X500 |
 | Bravis | bravis_A506 | bravis_A506 | bravis_A506 |
+| Bravva | Impress_Aero | Impress_Aero | Impress_Aero |
 | Brighton | MAL-FWTVTB | MAL-FWTVTB | MAL-FWTVTB |
 | Brightstar | M8046IU | M8047IU | M8047IU |
 | British Telecom | BT Home SmartPhone III | BT_Home_SmartPhone_III | E81 |
@@ -2419,6 +2422,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | CloudFone | Thrill View | Thrill_View | Thrill View |
 | CloudFone | ThrillBoost2Plus | ThrillBoost2Plus | Thrill Boost 2 Plus |
 | CloudMinds | A1-901 | A1-901 | A1-901 |
+| Clout | Hind 5.1 | Hind_5_1 | Hind 5.1 |
 | Clout | X425 Shavit | X425_Shavit | X425 Shavit |
 | Clout | X428 Astute | X428_Astute | X428 Astute |
 | Cobalt | SM5 | Cobalt_SM_5 | Cobalt_SM_5 |
@@ -3319,6 +3323,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ESI Enterprises | Monster M7 Tablet | MONSTERM7 | M7 |
 | ESI Enterprises | Trinity T101 | Trinity_T101 | Trinity T101 |
 | ESI Enterprises | Trinity T900 | Trinity_T900 | Trinity T900 |
+| EXCEED | EX10S4 | EX10S4 | EX10S4 |
+| EXCEED | EX7S4 | EX7S4 | EX7S4 |
 | EXO S.A. | Wave i007Kids | Wave_i007Kids | Wave i007Kids |
 | EXO S.A. | Wave i007T | Wave_i007T | Wave i007T |
 | EXO S.A. | wave-i007w | wave-i007w | wave-i007w |
@@ -3361,6 +3367,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Elevate | LUNA V57 | V57 | LUNA V57 |
 | Elevate | R50A | R50A | R50A |
 | Elevate | V55C | V55C | V55C |
+| Elong Mobile | Y50 | Y50 | Y50 |
 | Ematic | Cubby | SproutChannelCubby | SproutChannelCubby |
 | Ematic | EBM104JB | EBM104JB | EBM104JB |
 | Ematic | EGD078 | EGD078 | EGD078 |
@@ -6604,6 +6611,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | Honor Box voice | HWM311 | M311 |
 | Huawei | Honor Magic | HWNTS | HUAWEI NTS-AL00 |
 | Huawei | Honor Magic | HWNTS | NTS-AL00 |
+| Huawei | Honor Magic 2 | HWTNY | TNY-AL00 |
+| Huawei | Honor Magic 2 | HWTNY | TNY-TL00 |
 | Huawei | Honor Note10 | HWRVL | RVL-AL09 |
 | Huawei | Honor Play | HWCOR | COR-AL00 |
 | Huawei | Honor Play | HWCOR | COR-AL10 |
@@ -7370,7 +7379,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hurricane | Ridge | Ridge | Ridge |
 | Hurricane | Rush | Hurricane | Rush |
 | Hurricane | S43 | S43 | S43 |
+| Hurricane | SAGE | SAGE | SAGE |
 | Hurricane | SWIRL | Swirl | Swirl |
+| Hurricane | Slam | Slam | Slam |
 | Hurricane | Splash | Splash | Splash |
 | Hurricane | Sprint | Sprint | Sprint |
 | Hurricane | Surge | Surge | Surge |
@@ -7442,6 +7453,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | IMO(In My Opinion) | IMO Q2 Plus | IMO_Q2_Plus | IMO Q2 Plus |
 | IMO(In My Opinion) | IMO Q3 Plus | IMO_Q3_Plus | IMO Q3 Plus |
 | IMO(In My Opinion) | IMO S2 | S2 | IMO S2 |
+| INOI | INOI 1 Lite | INOI_1_Lite | INOI_1_Lite |
 | INOI | INOI 3 LITE | INOI_3_LITE | INOI_3_LITE |
 | INOI | INOI 5 Pro | INOI_5_Pro | INOI_5_Pro |
 | INOI | INOI_2 | INOI_2 | INOI_2 |
@@ -8026,6 +8038,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Jinga | Jinga Joy | JI55A_189BW | Joy |
 | Jinga | JoyPRO | JI55B_189BW | JoyPRO |
 | Jinga | Optim 4G | Optim4G | Optim4G |
+| Jinga | Optim4G | Optim4G | Optim4G |
 | Jinga | Pass | Pass | Pass |
 | Jinga | Pass Plus | JI55AG_189ID | PassPlus |
 | Jinga | SmartPRO | JI55_216M | SmartPRO |
@@ -10269,6 +10282,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lenovo | Lenovo Tab E7 | TB7104I | Lenovo TB-7104I |
 | Lenovo | Lenovo Tab M10 | X605F | Lenovo TB-X605F |
 | Lenovo | Lenovo Tab M10 | X605L | Lenovo TB-X605L |
+| Lenovo | Lenovo Tab M10 | X705L | Lenovo TB-X705L |
 | Lenovo | Lenovo Tab4 10 Plus | X704A | TB-X704A |
 | Lenovo | Lenovo X2-CU/VIBE X2 | X2-CU | Lenovo X2-CU |
 | Lenovo | Lenovo YOGA A12 | YOGA-A12 | Lenovo YB-Q501L |
@@ -10957,6 +10971,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | MegaFon | MT3A | MT3A | MT3A |
 | Megahouse | CP-D403 | CP-D403 | CP-D403 |
 | Meiigoo | S8 | MEIIGOO_S8 | S8 |
+| Meiigoo | S9 | S9 | S9 |
 | Meitu | M4 | M4 | Meitu M4 |
 | Meitu | M6 | M6 | MP1503 |
 | Meitu | M8s | MayaS | MP1709 |
@@ -13035,6 +13050,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Panasonic | FZ-N1 | FZ-N1VUF | FZ-N1 |
 | Panasonic | FZ-N1F | FZ-N1F | FZ-N1 |
 | Panasonic | FZ-N1VU | FZ-N1VU | FZ-N1 |
+| Panasonic | FZ-T1 | FZ-T1AN | FZ-T1 |
 | Panasonic | FZ-T1 | FZ-T1VUN | FZ-T1 |
 | Panasonic | FZ-X1 | FZ-X1 | FZ-X1 |
 | Panasonic | FZ-X1 | FZ-X1VU | FZ-X1 |
@@ -15266,9 +15282,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy On7 | o7ltechn | SM-G6000 |
 | Samsung | Galaxy On7 | on7elte | SM-G600F |
 | Samsung | Galaxy On7 Prime | on7xreflte | SM-G611F |
+| Samsung | Galaxy On7 Prime | on7xrefltektt | SM-G611K |
 | Samsung | Galaxy On7 Prime | on7xreflteskt | SM-G611S |
 | Samsung | Galaxy On7 Pro | o7prolte | SM-G600FY |
-| Samsung | Galaxy On7 Refresh | on7xrefltektt | SM-G611K |
 | Samsung | Galaxy On7 Refresh | on7xrefltelgt | SM-G611L |
 | Samsung | Galaxy On7(2016) | on7xeltektt | SM-G610K |
 | Samsung | Galaxy On7(2016) | on7xeltelgt | SM-G610L |
@@ -16266,6 +16282,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | W2017 | veyronltectc | SM-W2017 |
 | Samsung | olleh | ik1 | SMT-E5015 |
 | Samsung | \xe9\xa2\x86\xe4\xb8\x96\xe6\x97\x97\xe8\x88\xb08 | venenoltechn | SM-G9298 |
+| Samtech | T3G_04 | T3G_04 | T3G_04 |
 | Sanaeko | FX9 | SANAEKO | FX9 |
 | Sankey | TAB7A3G05 | TAB7A3G05 | TAB7A3G05 |
 | Sansei | TS10A1 | TS10A1 | TS10A1 |
@@ -20346,6 +20363,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | BLADE A110 | ZTE_BLADE_A110 | BLADE A110 |
 | ZTE | BLADE A110 | ZTE_BLADE_A110 | ZTE BLADE A110 |
 | ZTE | BLADE A112 | P635A60 | ZTE BLADE A112 |
+| ZTE | BLADE A3 | P809F40 | BLADE A3 |
 | ZTE | BLADE A310 | P809A50 | Blade A310 |
 | ZTE | BLADE A310 | P809A50 | ZTE BLADE A310 |
 | ZTE | BLADE A320 | P809F20 | BLADE A320 |
@@ -21301,6 +21319,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | ZTE A0722 | P840S18 | ZTE A0722 |
 | ZTE | ZTE A2017 | msm8996 | ZTE A2017 |
 | ZTE | ZTE A2017G | ailsa_ii | ZTE A2017G |
+| ZTE | ZTE A2017U | ailsa_ii | ZTE A2017U |
 | ZTE | ZTE A2018 | candice | ZTE A2018 |
 | ZTE | ZTE A2019 Pro | P845A02 | ZTE A2019 Pro |
 | ZTE | ZTE A2019G Pro | P845A01 | ZTE A2019G Pro |
@@ -21347,6 +21366,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | ZTE BLADE V9 VITA | P840F03 | ZTE BLADE V9 VITA |
 | ZTE | ZTE BLade Zmax | crocus | Z982 |
 | ZTE | ZTE BV0870 | P840V71 | ZTE BV0870 |
+| ZTE | ZTE Blade A0722 | P817F18 | ZTE Blade A0722 |
 | ZTE | ZTE Blade A522 | P817E53 | ZTE Blade A522 |
 | ZTE | ZTE Blade L110 | ZTE_BLADE_L110 | ZTE Blade L110 |
 | ZTE | ZTE Blade L5 | P172A40 | ZTE Blade L5 |
