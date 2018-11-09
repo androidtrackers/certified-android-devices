@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 08.11.2018
+Last sync is 09.11.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1238,7 +1238,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Asus | ZenFone Go (ZB690KG) | ASUS_L001_2 | ASUS_L001 |
 | Asus | ZenFone Go (ZC451TG) | ASUS_Z00SD | ASUS_Z00SD |
 | Asus | ZenFone Go (ZC500TG) | ASUS_Z00VD | ASUS_Z00VD |
-| Asus | ZenFone Lite L1 (ZA551KL) | ASUS_X00R_5 | ASUS_X00RD |
+| Asus | ZenFone Lite L1 (ZA551KL) / ZenFone Live L1 (ZA550KL) | ASUS_X00R_5 | ASUS_X00RD |
 | Asus | ZenFone Live (ZB501KL) | ASUS_A007 | ASUS_A007 |
 | Asus | ZenFone Live L1 (ZA550KL) | ASUS_X00R_1 | ASUS_X00RD |
 | Asus | ZenFone Live L1 (ZA550KL) | ASUS_X00R_2 | ASUS_X00RD |
@@ -2274,6 +2274,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Cherry Mobile | FB100 | FB100 | FB100 |
 | Cherry Mobile | Flare 5 | X630 | Flare_5 |
 | Cherry Mobile | Flare A1 | FlareA1 | FlareA1 |
+| Cherry Mobile | Flare A2 | Flare_A2 | Flare_A2 |
 | Cherry Mobile | Flare A2 Lite | Flare_A2_Lite | Flare_A2_Lite |
 | Cherry Mobile | Flare A5 | Cherry_X740 | Cherry_X740 |
 | Cherry Mobile | Flare HD 3 | Flare_HD_3 | Flare HD 3 |
@@ -2911,6 +2912,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DL | YZU_DS53 | Smartphone_YZU_DS53 | Smartphone_YZU_DS53 |
 | DL | i-Player_KIDS | Tablet_DL_3910 | Tablet_DL_3910 |
 | DNA | DNA TV-hubi | dctiw384 | DNA Android TV |
+| DO Mobile | DO_Mate2 | Mate2 | Mate2 |
 | DO Mobile | Mate1 | Mate1 | DO_S1 |
 | DO Mobile | Mate1 | Mate1 | Mate1 |
 | DTC products | S10 | S10 | S10 |
@@ -3147,6 +3149,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Digma | VOX_S509_3G | VS5032PG | VOX S509 3G VS5032PG |
 | Dinax | DX_TA7001 | DX_TA7001 | DX_TA7001 |
 | Dinax | DX_TASL83 | DX_TASL83 | DX_TASL83 |
+| Dinax | DX_TA_7001 | DX_TA_7001 | DX_TA_7001 |
+| Dinax | DX_TA_SL83 | DX_TA_SL83 | DX_TA_SL83 |
 | Dingding | X10 | X10 | X10 |
 | Dingding | X11 | X11 | X11 |
 | Dingding | X11S | X11S | X11S |
@@ -3369,6 +3373,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Elephone | A4 | A4 | A4 |
 | Elephone | A4_Pro | A4_Pro | A4_Pro |
 | Elephone | Elephone S8 | S8 | S8 |
+| Elephone | P11 | P11 | P11 |
 | Elephone | P8 3D | P8_3D | P8_3D |
 | Elephone | P8 Max | P8_Max | P8_Max |
 | Elephone | Soldier | Soldier | Soldier |
@@ -3769,6 +3774,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Fly | Tornado One | IQ4511_Octa | IQ4511 TR |
 | Fone Haus | Blaze | Blaze | Blaze |
 | Fone Haus | Bolt | Bolt | Bolt |
+| Fossil | Fossil Sport | darter | Q Sport 41 |
 | Fossil | Q Founder | grant | Q Founder |
 | Fossil | Q Wander / Q Marshal / Q Founder 2.0 / Bradshaw / Dylan | gar | Bradshaw |
 | Fossil | Q Wander / Q Marshal / Q Founder 2.0 / Bradshaw / Dylan | gar | Q Marshal |
@@ -8180,7 +8186,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Kalley | Klic | SA | K4-02 4G |
 | Kalley | Silver P5 | P5 | P5 |
 | Kanji | KJ_AC05 | KJAC05 | KJ_AC05 |
+| Kanji | KJ_ALFARK | KJ_ALFARK | KJ_ALFARK |
+| Kanji | KJ_OB03 | KJ_OB03 | KJ_OB03 |
 | Kanji | KJ_YUBI | KJ_YUBI | KJ_YUBI |
+| Kanji | KJ_YU_BI | KJ_YU_BI | KJ_YU_BI |
 | Kapsys | SmartVision2 | r889 | KAP11000 |
 | Karbonn | A1 Indian | A1_Indian | A1 Indian |
 | Karbonn | A40 Indian | A40_Indian | A40 Indian |
@@ -8279,6 +8288,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Kodak | SP4 | SP4 | SP4 |
 | Kogan | Agora 6 Plus | Kogan_Agora_6Plus | Kogan Agora 6Plus |
 | Kogan | Kogan Agora 8 Plus | Agora_8_Plus | Agora 8 Plus |
+| Kogan | Kogan Agora 9 | Kogan_Agora_9 | Kogan Agora 9 |
 | Komu | K22 | K22 | K22 |
 | Konrow | KONROW | KONROW_701X | KONROW_701X |
 | Konrow | KTAB_1003 | KTAB_1003 | KTAB_1003 |
@@ -17366,6 +17376,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Starlight | Star_Plus | Star_Plus | Star_Plus |
 | Starlight | Starplus 7 | STARPLUS7 | STARPLUS7 |
 | Starlight | UMI_G | UMI_G | UMI_G |
+| Starlight | star_plus_plus | star_plus_plus | star_plus_plus |
 | Storex | eZee\'Tab7Q11-M | Tab7Q11 | Tab7Q11 |
 | Storex | eZeeTab10D12-S | eZeeTab10D12-S | eZeeTab10D12-S |
 | Storex | eZeeTab7D15-M | eZeeTab7D15-M | eZeeTab7D15-M |
@@ -17499,6 +17510,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCL | C9 | A3A_XL_4G | 5199I |
 | TCL | L55E6700UDS | movo_la | movo_la |
 | TCL | LE50UHDE5692G | movo | movo |
+| TCL | LT10 | U3A_10_WIFI | 8182 |
+| TCL | LT7 | U3A_7_WIFI | 8167 |
 | TCL | Percee TV | tcl_eu | BPL TV |
 | TCL | Percee TV | tcl_eu | MICROMAX TV |
 | TCL | Percee TV | tcl_eu | PANASONIC TV |
@@ -20114,6 +20127,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Yezz | 5E | 5E | 5E |
 | Yezz | 5E4 | 5E4 | 5E4 |
 | Yezz | 5EQ | 5EQ | 5EQ |
+| Yezz | E400A | E400A | E400A |
 | Yezz | EPIC_T | EPIC_T | EPIC T |
 | Yota Devices | C9660 | yotaphone | C9660 |
 | Yota Devices | YotaPhone2 | yotaphone2 | YD201 |
@@ -21521,6 +21535,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ziox | Duopix R1 | Duopix_R1 | Duopix R1 |
 | Zoji | Z9 | Z9 | Z9 |
 | Zonda | AWM533 | AWM533 | AWM533 |
+| Zoom | LitePro | LitePro | LitePro |
 | Zoom | Z101G | Z101G | Z101G |
 | Zopo | L63 | INHOh_L63 | L63 |
 | Zopo | P5000 | P5000 | P5000 |
@@ -21730,6 +21745,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iRulu | Y57 | iRULU_Y57 | Y57 |
 | iRulu | iRULU_G36 | iRULU_G36 | G36 |
 | iSWAG | ALPHA | Alpha | Alpha |
+| iTab XPLUS | iTab_XPLUS_10_1 | iTab_XPLUS_10_1 | iTab_XPLUS_10_1 |
 | iVOOMi | Me 1 | Me_1 | iV 505 |
 | iVOOMi | Me 1+ | Me_1_plus | Me 1+ |
 | iVOOMi | Me 2 | Me_2 | Me 2 |
