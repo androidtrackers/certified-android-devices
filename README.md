@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 12.11.2018
+Last sync is 13.11.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -94,6 +94,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Aamra WE | A50 | A50 | WE A50 |
 | Aamra WE | E2 | E2 | WE E2 |
 | Abocom | A08SM | A08 | A08S |
+| Accent | C5 | C5 | C5 |
 | Accent | CAMELEON C5 | CAMELEON_C5 | CAMELEON C5 |
 | Accent | FAST7 3G | FAST7_3G | FAST7 3G |
 | Accent | PEARL A4 Lite | PEARL_A4_Lite | PEARL A4 Lite |
@@ -842,6 +843,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Archos | Archos | ac101aswf | Archos Access 101 Wifi |
 | Archos | Archos | ac101hello | Archos Hello 10 |
 | Archos | Archos | ac57as3g | Archos Access 57 3G |
+| Archos | Archos 101 Oxygen 4G | ac101ox4g | Archos 101 Oxygen 4G |
 | Archos | Archos 101 Platinum 3G | ac101pl3g | Archos 101 Platinium 3G |
 | Archos | Archos 101 Platinum 3G | ac101pl3gv2 | Archos 101 Platinum 3G |
 | Archos | Archos 101b Oxygen | ac101boxv2 | Archos 101b Oxygen |
@@ -3330,10 +3332,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ENIE | EH3 | EH3 | EH3 |
 | ENTITY | GDENTMY7317 | GDENTMY7317 | GDENTMY7317 |
 | EPIKONE | K400 | K400 | K400 |
+| EPIKONE | K405 | K405 | K405 |
 | EPIKONE | K500 | K500 | K500 |
 | EPIKONE | K501 | K501 | K501 |
 | EPIKONE | K502 | K502 | K502 |
 | EPIKONE | RS550 | RS550 | RS550 |
+| EPIKONE | T700 | T700 | T700 |
 | EPIKONE | X500 | X500 | X500 |
 | ESI Enterprises | CKT3 | CKT3 | CKT3 |
 | ESI Enterprises | DT101Bv51 | DT101Bv51 | DT101Bv51 |
@@ -3355,6 +3359,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Echo Mobiles | HORIZON | HORIZON | HORIZON |
 | Echo Mobiles | HORIZON LITE | ECHO_HORIZON_LITE | ECHO_HORIZON_LITE |
 | Echo Mobiles | LOOK | LOOK | LOOK |
+| Echo Mobiles | MODELABS MOBILES | HORIZON_M | HORIZON_M |
 | Echo Mobiles | Moon | MOON | MOON |
 | Echo Mobiles | SURF | SURF | SURF |
 | Echo Mobiles | Stellar 4G | Stellar_4G | Stellar 4G |
@@ -3624,6 +3629,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Facime | FLEET_7 | FLEET_7 | FLEET_7 |
 | Fairphone | FP2 | FP2 | FP2 |
 | Famous Fones | Famous_5 | Famous_5 | Famous 5 |
+| Famous Fones | Famous_5Plus | Famous_5Plus | Famous 5Plus |
 | Fantec | FANTEC M200H | M200H | M200H |
 | Fantec | FANTEC M300H | M300H | FAN-M300H |
 | FarEasTone | Smart 403 | msm8226 | Smart 403 |
@@ -3766,6 +3772,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Fly | Power Plus FHD | Power_Plus_FHD | FS554 |
 | Fly | Power Plus XXL | Power_Plus_XXL | FS530 |
 | Fly | Selfie 1 | Selfie_1 | FS520 |
+| Fly | Slimline | Slimline | Slimline |
 | Fly | Stratus | Stratus_6 | FS407 |
 | Fly | Stratus 1 | Stratus1 | FS401 |
 | Fly | Stratus 3 | Stratus_3 | FS404 |
@@ -5897,7 +5904,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | vision2_1 | vision2_1 | vision2_1 |
 | Hiya | 5-0 | 5-0 | 5-0 |
 | Hiya | 5-0 | 5_0 | 5-0 |
-| Hiya | 5.5 | 5_5 | 5.5 |
 | Hiya | 5.5 | HIYA5_5 | 5.5 |
 | Hoffmann | X Max | X-Max | X-Max |
 | Hoffmann | X-Ultra | X_Ultra | X_Ultra |
@@ -6004,6 +6010,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | How | HT-704 | HT704 | HT-704 |
 | How | HT-704plus | HT704plus | HT-704plus |
 | How | HT-705 | HT705 | HT-705 |
+| How | HT-705_Go | HT-705_Go | HT-705 Go |
 | How | HT704-G | 704-G | 704-G |
 | How | kids 3g | sp7731c_1h10 | kids 3g |
 | Huawei |  | C8600 | C8600 |
@@ -8060,6 +8067,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Janam | XT100 | XM75 | XM75 |
 | Janam | XT100 | XT100 | XT100 |
 | Janam | XT2 | XT2 | XT2 |
+| JapanTaxi | IRIS ITAB05 | IRIS_ITAB05 | IRIS_ITAB05 |
 | Jenesis | JT10-81B | JT10-81B | JT10-81B |
 | Jesy | J9S | J9S | J9S |
 | Jide | Remix Mini | rm1g | Remix Mini |
@@ -8076,11 +8084,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Jinga | Start 3G | Start3G | Start3G |
 | Jinga | Touch 4G | Touch4G | Touch4G |
 | Jivi | Energy E12 | Energy_E12 | Energy E12 |
+| Jivi | Opus S3 | Opus_S3 | Opus S3 |
 | Jivi | Prime P30 | Prime_P30 | Prime P30 |
 | Jivi | Prime P300 | Prime_P300 | Prime P300 |
 | Jivi | Prime P444 | Prime_P444 | Prime P444 |
 | Jivi | Prime P4442 | Prime_P4442 | Prime P4442 |
 | Jivi | Revolution TnT3 | Revolution_TnT3 | Revolution TnT3 |
+| Jivi | Xtreme  XT84 | Xtreme_XT84 | Xtreme XT84 |
 | Jivi | Xtreme XT309 | Xtreme_XT309 | Xtreme XT309 |
 | Jivi | Xtreme XT309 Plus | Xtreme_XT309_Plus | Xtreme XT309 Plus |
 | Jooyon | J110A | J110A | J110A |
@@ -9843,6 +9853,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lava | Z25 | Z25 | Z25 |
 | Lava | Z50 | Z50 | Z50 |
 | Lava | Z60 | Z60 | Z60 |
+| Lava | Z60S | Z60s | Z60s |
 | Lava | Z60s | Z60s | Z60s |
 | Lava | Z61 | Z61 | Z61 |
 | Lava | Z61_2GB | Z61_2GB | Z61_2GB |
@@ -9901,6 +9912,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Leader Phone | LP_Spectrum_S2 | LP_Spectrum_S2 | LP_Spectrum_S2 |
 | Leagoo | KIICAA MIX | KIICAA_MIX | KIICAA MIX |
 | Leagoo | KIICAA POWER | KIICAA_POWER | KIICAA POWER |
+| Leagoo | M11 | M11 | M11 |
 | Leagoo | M9 | M9 | M9 |
 | Leagoo | M9 Pro | M9_Pro | M9 Pro |
 | Leagoo | M9A Pro | M9A_Pro | M9A Pro |
@@ -10991,6 +11003,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Medion | P1050X | P1050X | P1050X |
 | Medion | P1060X | P1060X | P1060X |
 | Medion | P1060X | P1060X | X1060X |
+| Medion | P1061X | P1061X | P1061X |
 | Medion | P4501 | P4501 | P4501 |
 | Medion | P5004 | P5004 | MEDION P5004 |
 | Medion | P5005 | P5005 | MEDION P5005 |
@@ -10998,6 +11011,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Medion | P73035 | P72035 | P72035 |
 | Medion | P850X | P850X | P850X |
 | Medion | P851X | P851X | P851X |
+| Medion | P852X | P852X | P852X |
 | Medion | S1035X | S1035X | S1035X |
 | Medion | S5004 | S5004 | MEDION S5004 |
 | Medion | S5504 | B5531 | B5531 |
@@ -11696,6 +11710,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Motorola | Moto E (5) | nora_8917 | moto e5 |
 | Motorola | Moto E (5) | nora_8917_n | Moto E |
 | Motorola | Moto E (5) | nora_8917_n | moto e5 |
+| Motorola | Moto E (5) Play | rjames_f | moto e5 play |
 | Motorola | Moto E with 4G LTE (2nd Gen) | surnia_cdma | MotoE2 |
 | Motorola | Moto E with 4G LTE (2nd Gen) | surnia_cdma | MotoE2(4G-LTE) |
 | Motorola | Moto E with 4G LTE (2nd Gen) | surnia_cdma | XT1526 |
@@ -12499,6 +12514,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nuu | M3 | NUU_M3 | NUU_M3 |
 | Nuu | N4L | N4L | N4L |
 | Nuu | N5L | N5L | N5L |
+| Nuu | NUU A3 | N5001WA | A3 |
 | Nuu | NUU G3 | N5702L | N5702L |
 | Nuu | NUU M4X_PRO | S5701L | S5701L |
 | Nuu | NUU_A2 | S4001W | S4001W |
@@ -12543,6 +12559,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | OYYU | T7Pro | T7Pro | T7Pro |
 | Oale | Apex2 | Apex2 | Apex2 |
 | Oale | P1 | P1 | P1 |
+| Oale | P2 | P2 | P2 |
 | Obi | MV1 | yam | OBI MV1 |
 | Obi | MV1 | yam | Obi MV1 |
 | Obi | OBJ SJ1.5 | SJ1-5 | SJ1-5 |
@@ -12566,13 +12583,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | OnePlus | One | A0001 | One |
 | OnePlus | OnePlus | OnePlus | ONE E1003 |
 | OnePlus | OnePlus 6 | OnePlus6 | ONEPLUS A6003 |
-| OnePlus | OnePlus 6T | OnePlus6T | ONEPLUS A6013 |
-| OnePlus | OnePlus 6T | OnePlus6TSingle | ONEPLUS A6013 |
 | OnePlus | OnePlus2 | OnePlus2 | ONE A2003 |
 | OnePlus | OnePlus3 | OnePlus3 | ONEPLUS A3000 |
 | OnePlus | OnePlus3T | OnePlus3T | ONEPLUS A3000 |
 | OnePlus | OnePlus5 | OnePlus5 | ONEPLUS A5000 |
 | OnePlus | OnePlus5T | OnePlus5T | ONEPLUS A5010 |
+| OnePlus | OnePlus6T | OnePlus6T | ONEPLUS A6013 |
+| OnePlus | OnePlus6T | OnePlus6TSingle | ONEPLUS A6013 |
 | OnePlus | X | OnePlus | ONE E1003 |
 | Onix | AT101-1118 | AT101-1118 | AT101-1118 |
 | Onkyo | DP-CMX1 | Gravity_128 | DP-CMX1 |
@@ -13641,6 +13658,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Premio | Premio P420 | Premio_P420 | Premio P420 |
 | Premio | Premio P610 | Premio_P610 | P610 |
 | Premio | Premio P620 | Premio_P620 | P620 |
+| Premio | X1 | 186HS2080531 | 186HS2080531 |
 | Prestige | 7G | Prestige-7G | Prestige 7G |
 | Prestige | ELITE10Q | Elite10Q | Elite10Q |
 | Prestige | ELITE7Q | Elite7Q | Elite7Q |
@@ -13741,6 +13759,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Prestigio | PMT5587_Wi | AML8726-MXS | PMT5587_Wi |
 | Prestigio | PMT5588_4G | CF80A5L | PMT5588_4G |
 | Prestigio | PMT5718_4G | CF80A5L | PMT5718_4G |
+| Prestigio | PMT5771_4G | LS10A8L | PMT5771_4G |
 | Prestigio | PMT5777_3G | PMT5777_3G | PMT5777_3G |
 | Prestigio | PMT5791_4G | LS10A8L | PMT5791_4G |
 | Prestigio | PMT5877C | PMT5877C | PMT5877C |
@@ -14233,6 +14252,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | STF Mobile | Joy Pro | Joy_Pro | Joy Pro |
 | STF Mobile | NATIVO | NATIVO | NATIVO |
 | STF Mobile | Origins Pro | Origins_Pro | Origins Pro |
+| STF Mobile | ST-919975 | ST-919975 | ST-919975 |
 | STF Mobile | ST-922081 | ST-922081 | ST-922081 |
 | STF Mobile | ST-922098 | ST-922098 | ST-922098 |
 | STF Mobile | STF-BLOCK | Block | Block |
@@ -14862,8 +14882,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy J2 | j2lte | SM-J200M |
 | Samsung | Galaxy J2 | j2lte | SM-J200Y |
 | Samsung | Galaxy J2 | j2ltedtv | SM-J200BT |
+| Samsung | Galaxy J2 | j2y18lte | SM-J250F |
 | Samsung | Galaxy J2 | j2y18lte | SM-J250Y |
-| Samsung | Galaxy J2 (2018) | j2y18lte | SM-J250F |
 | Samsung | Galaxy J2 Core | j2corelte | SM-J260F |
 | Samsung | Galaxy J2 Core | j2corelte | SM-J260G |
 | Samsung | Galaxy J2 Core | j2corelte | SM-J260M |
@@ -16515,6 +16535,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp | AQUOS sense basic | SG702SH | 702SH |
 | Sharp | AQUOS sense lite (SH-M05) | SH-M05 | SH-M05 |
 | Sharp | AQUOS sense plus (SH-M07) | SH-M07 | SH-M07 |
+| Sharp | AQUOS sense2 SHV43 | MZW | SHV43 |
 | Sharp | AQUOS \xe3\x82\xb1\xe3\x83\xbc\xe3\x82\xbf\xe3\x82\xa4 SH-06G | SH-06G | SH-06G |
 | Sharp | Android One S1 | kaleido_sprout | S1 |
 | Sharp | B10 | SH-A01 | SH-A01 |
@@ -18649,6 +18670,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tambo | TA-2 | TA-2 | TA-2 |
 | Tambo | TA-3 | TA-3 | TA-3 |
 | Tambo | TA-4 | TA-4 | TA-4 |
+| Tambo | TA-55_Power | TA-55_Power | TA-55_Power |
 | Tanoshi | TTBKB10-01 | TTBKB10-01 | Tanoshi 2-in-1 |
 | Tech 4u | Aqua | Aqua | Aqua |
 | Tech 4u | Earth | Earth | Earth |
@@ -19239,6 +19261,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vertex | Impress Tor | Impress_Tor | Impress_Tor |
 | Vertex | Impress Vega (4G) | Impress_Vega | Impress_Vega |
 | Vertex | Impress Win | Impress_Win | Impress_Win |
+| Vertex | Impress_Astra4G | Impress_Astra4G | Impress_Astra4G |
 | Vertex | Impress_Bear | Impress_Bear | Impress_Bear |
 | Vertex | Impress_Blade | Impress_Blade | Impress_Blade |
 | Vertex | Impress_City | Impress_City | Impress_City |
@@ -19252,6 +19275,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vertex | Impress_Nero | Impress_Nero | Impress_Nero |
 | Vertex | Impress_New | Impress_New | Impress_New |
 | Vertex | Impress_Pear | Impress_Pear | Impress_Pear |
+| Vertex | Impress_Pluto | Impress_Pluto | Impress_Pluto |
+| Vertex | Impress_Rosso | Impress_Rosso | Impress_Rosso |
+| Vertex | Impress_Sunset4G | Impress_Sunset4G | Impress_Sunset4G |
+| Vertex | Impress_Vira | Impress_Vira | Impress_Vira |
 | Vertex | Impress_Wolf | Impress_Wolf | Impress_Wolf |
 | Vertex | Lion_Dual | Lion_Dual | Lion_Dual |
 | Vertex | S1 | GlocalMe_S1 | G1701 |
@@ -20079,6 +20106,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Xiaomi | MiTV2 | entrapment | MiTV2 |
 | Xiaomi | POCO F1 | beryllium | POCOPHONE F1 |
 | Xiaomi | Redmi | HM2013023 | 2013023 |
+| Xiaomi | Redmi  Note  6  Pro | tulip | Redmi Note 6 Pro |
 | Xiaomi | Redmi  S2 | ysl | Redmi S2 |
 | Xiaomi | Redmi 3 | ido | Redmi 3 |
 | Xiaomi | Redmi 3 | ido | ido |
@@ -21731,8 +21759,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iLife | ITELL K4700 | ITELL_K4700 | ITELL K4700 |
 | iLife | ITELL_K3102N | ITELL_K3102N | ITELL_K3102N |
 | iLife | ITELL_K3500N | ITELL_K3500N | ITELL_K3500N |
+| iMuz | RA10 | RA10 | RA10 |
 | iMuz | muPADT7 | muPADT7 | muPADT7 |
 | iNFONE | INFONE XE | INFONE_XE | INFONE XE |
+| iNFONE | X_RAINBOW | X_RAINBOW | X_RAINBOW |
 | iNFONE | infone X | infone_X | infone X |
 | iNO Mobile | S9 | iNO_S9 | iNO S9 |
 | iNanny | NC1000 | NC1000 | NC1000 |
@@ -21803,6 +21833,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | teXet | TM-4510 | TM-4510 | TM-4510 |
 | teXet | TM-5071 | TM_5071 | TM-5071 |
 | teXet | TM-5073 | TM-5073 | TM-5073 |
+| teXet | TM-5075 | TM-5075 | TM-5075 |
 | teXet | TM-5077 | TM-5077 | TM-5077 |
 | teXet | TM-5201 | TM-5201 | TM-5201 |
 | teXet | Texet TM-5571 | tm5571 | TM-5571 |
