@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 14.11.2018
+Last sync is 15.11.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1641,6 +1641,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Barel | Base_7_2_Quad | Base_7_2_Quad | Cavion Base 7.2 Quad |
 | Barel | Cavion Solid 4.5 | Cavion_Solid_4_5 | Cavion_Solid_4_5 |
 | Barel | WP-N1 | WP1-N | WP1-N |
+| Barnes and Noble | BNTV460 | st18c7bnn | BNTV460 |
+| Barnes and Noble | BNTV650 | st18c10bnn | BNTV650 |
 | Barnes and Noble | HD | hummingbird | BNTV400 |
 | Barnes and Noble | HD+ | ovation | BNTV600 |
 | Barnes and Noble | NOOK\xc2\xae HD | hummingbird | BNTV400 |
@@ -3626,7 +3628,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | FBC | M24IS810 | MX24 | TDA02 |
 | FBC | M24IS820 | fst01ms | M24IS820 |
 | FIREFLY MOBILE | AURII_AMUSE_3G | AURII_AMUSE_3G | AURII_AMUSE_3G |
+| FIREFLY MOBILE | FIREFLY MOBILE | AURII_XCITE | AURII_XCITE |
 | FIREFLY MOBILE | INTENSE_XT | INTENSE_XT | INTENSE_XT |
+| FIREFLY MOBILE | SECRET_XR | SECRET_XR | SECRET_XR |
+| FIREFLY MOBILE | VIVID_PRO | VIVID_PRO | VIVID_PRO |
 | FPT Trading | A15 | A15_01 | A15 |
 | FPT Trading | FPT S68 4G | FPT_S68_4G | FPT S68 4G |
 | FPT Trading | FPT X10 | X10 | FPT_X10 |
@@ -4048,6 +4053,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Gasei S.A. | SENSE701 | SENSE701 | SENSE701 |
 | Gasei S.A. | SENSE704G | SENSE704G | SENSE704G |
 | Geanee | FXC-5A | FXC-5A | FXC-5A |
+| Geant | GEANT T1 | GEANT_T1 | T1 |
 | Gear Mobile | Feel_7013N | Feel_7013N | Feel_7013N |
 | Gear Mobile | GM7 | GM7 | GM7 |
 | Geecoo | G1 | G1 | G1 |
@@ -6000,6 +6006,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hot Pepper | H5 | H5 | H5 |
 | Hot Pepper | VLE5 | VLE5 | VLE5 |
 | Hotwav | Cosmos | Cosmos | Cosmos |
+| Hotwav | Cosmos_U | Cosmos_U | Cosmos U |
 | Hotwav | HOT 6 | HOT_6 | HOT 6 |
 | Hotwav | M5 | M5 | M5 |
 | Hotwav | M5 Plus | M5_Plus | M5 Plus |
@@ -7568,6 +7575,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Impecca | ET7050D | ET7050D | ET7050D |
 | Inco | Bloom4 | Bloom4 | Bloom4 |
 | Inco | Flex-3 | Flex-3 | Flex-3 |
+| Inco | Horizon | HORIZON | HORIZON |
 | Inco | MINI | MINI | MINI |
 | Inet-Tablet | D711HC_PG | D711HC_PG | D711HC_PG |
 | Inet-Tablet | D7911L3BC_OGS | D7911L3BC_OGS | D7911L3BC_OGS |
@@ -7891,6 +7899,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ipro | Kylin50i | Kylin50i | Kylin50i |
 | Ipro | Kylin_5.0S | Kylin_5_0S | Kylin_5.0S |
 | Ipro | MEGA | MEGA2 | MEGA2 |
+| Ipro | Mega7 | MEGA7 | MEGA7 |
 | Ipro | PHOENIX 5.0 | PHOENIX_50 | PHOENIX 5.0 |
 | Ipro | Phonenix50S | Phonenix50S | Phonenix50S |
 | Ipro | WIN | WIN | WIN |
@@ -8084,6 +8093,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Janam | XT100 | XT100 | XT100 |
 | Janam | XT2 | XT2 | XT2 |
 | JapanTaxi | IRIS ITAB05 | IRIS_ITAB05 | IRIS_ITAB05 |
+| Jenesis | JT07-81B | JT07-81B | JT07-81B |
 | Jenesis | JT10-81B | JT10-81B | JT10-81B |
 | Jesy | J9S | J9S | J9S |
 | Jide | Remix Mini | rm1g | Remix Mini |
@@ -10920,7 +10930,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Maxcom | MS514 | MS514 | MS514 |
 | Maxcom | MS553 | MS553 | MS553 |
 | Maxcom | RS-401 | RS_401 | RS-401 |
+| Maximus | D7 | D7 | D7 |
 | Maximus | Noir X | Noir_X | Noir X |
+| Maximus | P1 | MAXIMUS_P1 | P1 |
 | Maximus | P2 | P2 | P2 |
 | Maximus | P3 | P3 | P3 |
 | Maxis | NeXT M2 | VFD610 | VFD 610 |
@@ -11092,6 +11104,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Meizu | PRO 7 | PRO7S | PRO 7-S |
 | Meizu | PRO 7 Plus | PRO7Plus | PRO 7 Plus |
 | Meizu | meizu C9 | meizuC9 | meizu C9 |
+| Meizu | meizu C9 pro | meizuC9pro | meizu C9 pro |
 | Meizu | meizu X8 | X8 | meizu X8 |
 | Memorex | MTAB-07530A | MTAB-07530A | MTAB-07530A |
 | Memorex | MTAB-0753AK | MTAB-07535AK | MTAB-07535AK |
@@ -12363,6 +12376,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Neffos | C5L | QC601 | TP601E |
 | Neffos | Neffos C7 | C7 | Neffos C7 |
 | Neffos | Neffos C7 | C7 | Neffos_C7 |
+| Neffos | Neffos C7 | Y7 | Neffos_Y7 |
 | Neffos | Neffos C9 | C9 | Neffos_C9 |
 | Neffos | Neffos C9A | C9A | Neffos_C9A |
 | Neffos | Neffos N1 | N1 | Neffos N1 |
@@ -12962,6 +12976,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Orbic | Wonder | RC555L | RC555L |
 | Oukitel | C10 | C10 | C10 |
 | Oukitel | C11 Pro | C11_Pro | C11_Pro |
+| Oukitel | C12 Plus | C12_Plus | C12 Plus |
 | Oukitel | C12 Pro | C12_Pro | C12 Pro |
 | Oukitel | C6 Pro | C6_Pro | C6 Pro |
 | Oukitel | C8 | C8 | C8 |
@@ -13024,6 +13039,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | PCD Argentina | PL570 | PL570 | PL570 |
 | PLDT | Smart Page 8 Pro | Smart_Page_8_Pro | Smart_Page_8_Pro |
 | POC | POC2 | CBL7509MM | POC2 |
+| POPTEL | P60 | P60 | P60 |
 | POPTEL | P8 | P8 | P8 |
 | POPTEL | P9000 MAX | P9000_MAX | P9000_MAX |
 | POPTEL | POPTEL P10 | P10 | P10 |
@@ -13554,6 +13570,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Polytron | POLYTRON R2509 | POLYTRON_R2509 | POLYTRON R2509 |
 | Polytron | POLYTRON R2509SE | POLYTRON_R2509SE | POLYTRON R2509SE |
 | Polytron | POLYTRON R250A | POLYTRON_R250A | POLYTRON R250A |
+| Polytron | PRIME T8 | POLYTRON_R255B | R255B |
 | Porsche | Porsche | sdis1 | Porsche Rear Seat Entertainment |
 | Porsche | Rear  Seat  Entertainment | sdis1 | Porsche Rear Seat Entertainment |
 | Porsche | SDIS1 | sdis1 | Porsche Rear Seat Entertainment |
@@ -15964,7 +15981,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A (2018, 10.5) | gta2xlltekx | SM-T595N |
 | Samsung | Galaxy Tab A (2018, 10.5) | gta2xlwifi | SM-T590 |
 | Samsung | Galaxy Tab A (2018, 10.5) | gta2xlwifichn | SM-T590 |
-| Samsung | Galaxy Tab A 10.1 | gtanotexlwifikx | SM-P580 |
 | Samsung | Galaxy Tab A 10.1 | gtaxladwifikx | SM-T583 |
 | Samsung | Galaxy Tab A 10.1 | gtaxllte | SM-T585M |
 | Samsung | Galaxy Tab A 10.1 | gtaxllte | SM-T587 |
@@ -16560,6 +16576,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp | AQUOS sense lite (SH-M05) | SH-M05 | SH-M05 |
 | Sharp | AQUOS sense plus (SH-M07) | SH-M07 | SH-M07 |
 | Sharp | AQUOS sense2 SHV43 | MZW | SHV43 |
+| Sharp | AQUOS sense2 SHV43 | MZW-u | SHV43-u |
 | Sharp | AQUOS \xe3\x82\xb1\xe3\x83\xbc\xe3\x82\xbf\xe3\x82\xa4 SH-06G | SH-06G | SH-06G |
 | Sharp | Android One S1 | kaleido_sprout | S1 |
 | Sharp | B10 | SH-A01 | SH-A01 |
@@ -16834,6 +16851,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Smartab | STJR700 | STJR700 | STJR700 |
 | Smartab | STJR76 | STJR76 | STJR76 |
 | Smartec | MiCA | MiCA | MiCA |
+| Smartex | M700 | M700 | M700 |
 | Smartex | SMARTEX_M512 | M512 | M512 |
 | Smartfren | A16C3H | A16C3H | Andromax A16C3H |
 | Smartfren | A26C4H | A26C4H | Andromax A26C4H |
@@ -18977,6 +18995,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tigers | TIS001 | TIS001 | TIS001 |
 | Tigers | TIS001A | TIS001A | TIS001A |
 | Tigers | TIS001B | TIS001B | TIS001B |
+| Tigers | TIS001C | TIS001C | TIS001C |
 | Tigers | TIS_001 | TIS_001 | TIS_001 |
 | Tiitan | T54 | T54 | T54 |
 | Time2 | TIME2 | TP1060J | TP1060J |
@@ -19999,6 +20018,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Wistron | DW-21(A) | DA-21 | DW-21(A) |
 | Wistron | W1011A | w1011a | W1011A |
 | Wizphone | WP003 | WP003 | WP003 |
+| Wizphone | WP005 | WP005 | WP005 |
 | Wizz | DV-PTB1080 | DV-PTB1080 | DV-PTB1080 |
 | Woongjin | WoongjinThinkbig | BP-1001 | BP-1001 |
 | Wopad | Wopad-Kids7Q | Wopad-Kids7Q | Wopad-Kids7Q |
