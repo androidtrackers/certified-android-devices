@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 16.11.2018
+Last sync is 17.11.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1282,6 +1282,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Asus | ZenFone Max Pro (M1) | ASUS_X00T_6 | ASUS_X00TDB |
 | Asus | ZenFone Max Pro (M1) | ASUS_X00T_6 | ZB602KL |
 | Asus | ZenFone Max Pro (M1) | ASUS_X00T_8 | ASUS_X00TDB |
+| Asus | ZenFone Max Pro (M2) | ASUS_X01BD_1 | ZB631KL |
 | Asus | ZenFone Selfie (ZD551KL) | ASUS_Z00U_1 | ASUS_Z00UD |
 | Asus | ZenFone Selfie (ZD551KL) | ASUS_Z00U_1 | ASUS_Z00UDA |
 | Asus | ZenFone Selfie (ZD551KL) | ASUS_Z00U_2 | ASUS_Z00UD |
@@ -2101,6 +2102,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Bush | BUSH SPIRA B3 10 TABLET | ac101boxv3 | BUSH SPIRA B3 10 TABLET |
 | Bush | BUSH SPIRA B3 8 TABLET | ac80oxv2 | BUSH SPIRA B3 8 TABLET |
 | Bush | BUSH SPIRA B5.5 POWER | ac55crp | BUSH SPIRA B5.5 POWER |
+| Bush | Bush10Nou | Bush10Nou | Bush10Nou |
 | Bush | MyTablet 79 | ac79bu | BUSH 7.85 TABLET |
 | Bush | SPIRA B3 5 | ac50co | BUSH SPIRA B3 5 |
 | Bush | SPIRA B4 5 | ac50fhe | BUSH SPIRA B4 5 |
@@ -3179,6 +3181,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Dingding | X12 | X12 | X12 |
 | Dish | AirTV Player | uiw4010ech | AirTV Player |
 | Dish | EVOLVE | dish_cable_bcm | SH960C-DS |
+| Dish | SV10 | HiCast | SV10 |
 | DishTV-NZ | SV10 | HiCast | SV10 |
 | Disney Frozen | BMF00001 | BMF00001 | Frozen |
 | Disney Frozen | DYF00001 | DYF00001 | DYF00001 |
@@ -3675,6 +3678,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Fero | Royale A1 | Royale_A1 | Royale A1 |
 | Fero | Royale X2 | Royale_X2 | Royale_X2 |
 | Fero | Royale Y2 Lite | Royale_Y2_Lite | Royale Y2 Lite |
+| Fiesta Duo | iX | iX | iX |
 | Figi | FIGI Fone | Fone | Fone |
 | Figi | FIGI Ftwo | Ftwo | Ftwo |
 | Figi | FIGI Gone | Gone | Gone |
@@ -7445,6 +7449,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hurricane | Galaxy | Galaxy | Galaxy |
 | Hurricane | Giga | HURRICANE_GIGA | HURRICANE_GIGA |
 | Hurricane | Glaze | Glaze | Glaze |
+| Hurricane | Hurricane_IGNITE | Hurricane_IGNITE | Hurricane_IGNITE |
 | Hurricane | INFINITY | INFINITY | INFINITY |
 | Hurricane | Icon | Icon | Icon |
 | Hurricane | LINK | LINK | LINK |
@@ -8368,6 +8373,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Kruger&Matz | FLOW | Kruger_Matz_FLOW | FLOW |
 | Kruger&Matz | FLOW 5 | FLOW_5 | FLOW_5 |
 | Kruger&Matz | FLOW 5+ | FLOW5PLUS | FLOW5PLUS |
+| Kruger&Matz | FLOW6 | FLOW6 | FLOW6 |
 | Kruger&Matz | FLOW6Lite | FLOW6Lite | FLOW6Lite |
 | Kruger&Matz | FLOW6S | FLOW6S | FLOW6S |
 | Kruger&Matz | KM1066 | EAGLE_1066 | KM1066 |
@@ -8416,6 +8422,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Kyocera | DuraForce PRO | E6820_3GB | KYOCERA-E6820 |
 | Kyocera | DuraForce PRO | E6830 | E6830 |
 | Kyocera | DuraForce PRO | E6833 | E6833 |
+| Kyocera | DuraForce PRO 2 with Sapphire shield | E6910 | E6910 |
 | Kyocera | DuraForce PRO with Sapphire Shield | E6810 | E6810 |
 | Kyocera | DuraForce PRO with Sapphire Shield | E6810_3GB | E6810 |
 | Kyocera | DuraForce XD | E6790 | KYOCERA-E6790 |
@@ -10940,6 +10947,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Masstel | N535 | Masstel_N535 | Masstel N535 |
 | Masstel | Tab7LTE | Masstel_Tab7LTE | Masstel_Tab7LTE |
 | Masstel | Tab7Plus | Tab7Plus | Tab7Plus |
+| Masstel | Tab8plus | Tab8Plus | Tab8Plus |
 | MauritiusTelcom | HE2704 | MTIPTVBox | HE2704 |
 | Maxcom | MS453 | MS453 | MS453 |
 | Maxcom | MS457 | MS457 | MS457 |
@@ -13028,6 +13036,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oukitel | U18 | U18 | U18 |
 | Oukitel | U20_Plus | U20_Plus | U20_Plus |
 | Oukitel | U22 | U22 | U22 |
+| Oukitel | U23 | U23 | U23 |
 | Oukitel | U7 Max | U7_Max | U7 Max |
 | Oukitel | U7 Plus | U7_Plus | U7 Plus |
 | Oukitel | WP2 | WP2 | WP2 |
@@ -13596,6 +13605,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Polytron | POLYTRON R2509 | POLYTRON_R2509 | POLYTRON R2509 |
 | Polytron | POLYTRON R2509SE | POLYTRON_R2509SE | POLYTRON R2509SE |
 | Polytron | POLYTRON R250A | POLYTRON_R250A | POLYTRON R250A |
+| Polytron | PRIME A8 | POLYTRON_A552 | A552 |
 | Polytron | PRIME T8 | POLYTRON_R255B | R255B |
 | Porsche | Porsche | sdis1 | Porsche Rear Seat Entertainment |
 | Porsche | Rear  Seat  Entertainment | sdis1 | Porsche Rear Seat Entertainment |
