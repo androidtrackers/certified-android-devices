@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 17.11.2018
+Last sync is 18.11.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1829,6 +1829,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blackview | Blackview BV4000 | BV4000 | BV4000 |
 | Blackview | Blackview BV4000Pro | BV4000Pro | BV4000Pro |
 | Blackview | Blackview BV9500 | BV9500 | BV9500 |
+| Blackview | Blackview BV9500-RU | BV9500-RU | BV9500-RU |
 | Blackview | Blackview BV9500Pro | BV9500Pro | BV9500Pro |
 | Blackview | Blackview P2 | P2 | P2 |
 | Blackview | Business_4_G1 | Business_4_G1 | Business_4_G1 |
