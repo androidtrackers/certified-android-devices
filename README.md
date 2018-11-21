@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 20.11.2018
+Last sync is 21.11.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2833,6 +2833,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Cubot | NOTE S | CUBOT_NOTE_S | CUBOT_NOTE_S |
 | Cubot | RAINBOW 2 | RAINBOW_2 | RAINBOW 2 |
 | Cubot | Rainbow | RAINBOW | RAINBOW |
+| Cutepad | Tab_4_M7078 | Tab_4_M7078 | Tab_4_M7078 |
 | Cyrus | CM17 | CM17 | CM17 |
 | Cyrus | CS22 | CS22 | CS22 |
 | Cyrus | CS24 | CS24 | CS24 |
@@ -6725,7 +6726,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | Honor3 | hwhn3-u01 | HUAWEI HN3-U01 |
 | Huawei | Huawei Ascend XT2\xe2\x84\xa2 | HWH1711-Q | H1711 |
 | Huawei | Huawei Elate\xe2\x84\xa2 | HWH1711-Q | H1711z |
+| Huawei | Huawei MediaPad T5 | HWAGS2 | AGS2-L03 |
 | Huawei | Huawei MediaPad T5 | HWAGS2 | AGS2-L09 |
+| Huawei | Huawei MediaPad T5 | HWAGS2 | AGS2-W19 |
 | Huawei | Huawei Nova 2 | HWPIC | PIC-LX9 |
 | Huawei | IDEOS | U8150 | Comet |
 | Huawei | IDEOS | U8150 | Ideos |
@@ -7362,6 +7365,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab9 Plus | HWJKM-H | JKM-TL00 |
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab9 Plus | HWJKM-HM | JKM-AL00a |
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab9 Plus | HWJKM-HM | JKM-AL00b |
+| Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab\xe5\xb9\xb3\xe6\x9d\xbf | HWAGS2 | AGS2-AL00 |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x80 8X | HWJSN-H | JSN-AL00 |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x80 8X | HWJSN-H | JSN-TL00 |
 | Huawei | \xe8\x8d\xa3\xe8\x80\x80 8X | HWJSN-HM | JSN-AL00a |
@@ -10689,6 +10693,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LinkNet | Smart Box HD | SH940C-LN | SH940C-LN |
 | LinkNet | X1 Prime | DCN88_72604_LN | DCN88_72604_LN |
 | Listo | WEBPAD1002 | Listo | WEBPAD1002 |
+| LiteTEL | X20 | X20 | X20 |
 | Logic Instrument | FieldBook E1 | FieldBook_E1 | FieldBook_E1 |
 | Logic Instrument | Fieldbook F1 | lifbf1 | Logic Instrument Fieldbook F1 |
 | Logic Instrument | Fieldbook F53 | lifbf53 | Logic Instrument Fieldbook F53 |
@@ -16547,6 +16552,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp | 4T-C**AM1/AN1/AL1, 8T-C**AX1/AW1 | tcsu2uj | AQUOS-TVJ18 |
 | Sharp | 4T-C50AG1T | LCD_50FOCAG1T | LCD_50FOCAG1T |
 | Sharp | 4T-C60AL1H,4T-C70AL1H | lc_xxeos5h | LC-xxEOS5H |
+| Sharp | 4T-C60AM1H,4T-C70AM1H | lc_xxdem6h | LC-xxDEM6H |
 | Sharp | 4T-C60ANAA,4T-C70ANAA,4T-C60ASAA,4T-C70ASAA | lcd_xxgae7a | LCD-xxGAE7A |
 | Sharp | 507SH | eve_sprout | 507SH |
 | Sharp | A01SH | A01SH | A01SH |
@@ -19598,6 +19604,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vivo | V1809A | PD1809 | V1809A |
 | Vivo | V1814A | PD1814 | V1814A |
 | Vivo | V1816A | PD1816 | V1816A |
+| Vivo | V1818A | PD1818 | V1818A |
 | Vivo | V1Max | Y37 | vivo Y37 |
 | Vivo | V3 | PD1524 | vivo V3 |
 | Vivo | V3 | V3 | vivo V3 |
@@ -19682,8 +19689,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vivo | vivo 1805 | 1805 | vivo 1805 |
 | Vivo | vivo 1806 | 1806 | vivo 1806 |
 | Vivo | vivo 1807 | 1807 | vivo 1807 |
+| Vivo | vivo 1807 | 1807N | vivo 1807 |
 | Vivo | vivo 1808 | 1808 | vivo 1808 |
 | Vivo | vivo 1811 | 1811 | vivo 1811 |
+| Vivo | vivo 1812 | 1812 | vivo 1812 |
 | Vivo | vivo 1817 | 1817 | vivo 1817 |
 | Vivo | vivo NEX A | PD1806 | vivo NEX A |
 | Vivo | vivo NEX S | PD1805 | vivo NEX S |
