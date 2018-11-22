@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 21.11.2018
+Last sync is 22.11.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4468,6 +4468,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | HOMTOM | C2 | C2 | C2 |
 | HOMTOM | H1 | H1 | H1 |
 | HOMTOM | H3 | H3 | H3 |
+| HOMTOM | H5 | H5 | H5 |
 | HOMTOM | HT70 | HT70 | HT70 |
 | HOMTOM | S16 | S16 | S16 |
 | HOMTOM | S7 | S7 | S7 |
@@ -12084,6 +12085,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Multilaser | MS60Z | ML-TI0B-MS60Z | MS60Z |
 | Multilaser | MS70 | MS70 | MS70 |
 | Multilaser | MS80 | ML-TI-MS80 | ML-TI-MS80 |
+| Multilaser | MS80X | ML-TI0D-MS80X | MS80X |
 | Multilaser | Ms5 | MTL-MS5 | MS5 |
 | Multilaser | Ms6 | MS6 | MS6 |
 | My Go | GoTab GBT10 | GBT10 | GoTab_GBT10 |
@@ -14214,6 +14216,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | RCA | XLD Series | XLDRCAV1 | XLDRCAV1 |
 | REACH | Q882 | Q882 | Q882 |
 | RED | HydrogenONE | HydrogenONE | H1A1000 |
+| ROKiT | IO Light | Chinchilla | IO Light |
 | ROKiT | IO Pro | Emu | IO Pro |
 | RT Project | Wide | Wide | Wide |
 | Rainbow | WIKO | s5501 | RAINBOW |
@@ -15316,6 +15319,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Note Fan Edition | gracerltelgt | SM-N935L |
 | Samsung | Galaxy Note Fan Edition | gracerlteskt | SM-N935S |
 | Samsung | Galaxy Note II | t0lteatt | SAMSUNG-SGH-I317 |
+| Samsung | Galaxy Note Pro | v1awifi | SM-P900 |
 | Samsung | Galaxy Note Pro 12.2 | v1a3g | SM-P901 |
 | Samsung | Galaxy Note Pro 12.2 | v1awifi | SM-P900 |
 | Samsung | Galaxy Note Pro 12.2 | v1awifikx | SM-P900 |
@@ -19530,6 +19534,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vestel | Venus_V3_5040_2GB | Venus_V3_5045 | Venus_V3_5040_2GB |
 | Vestel | Venus_V4 | V4 | Venus_V4 |
 | Vestel | Vestel Z20 | Cunda | Venus Z20 |
+| Vestel | Vestel_5000_2gb | Leo_2GB | Vestel_5000_2gb |
 | Vestel | venus_v3_5010 | DynoLight | Venus_V3_5010 |
 | Vgo Tel | OCEAN 6 | VGOTEL_OCEAN_6 | Ocean 6 |
 | Vgo Tel | Ocean 8 | Ocean_8 | Ocean_8 |
@@ -20662,6 +20667,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | BLADE L7 | P731F10 | BLADE L7 |
 | ZTE | BLADE L7 | P731F10 | ZTE BLADE L7 |
 | ZTE | BLADE L7A | P731F12 | BLADE L7A |
+| ZTE | BLADE V Ultra | P840T22 | BLADE V Ultra |
 | ZTE | BLADE V0710 | ZTE_BLADE_V0710 | ZTE BLADE V0710 |
 | ZTE | BLADE V0720 | ZTE_BLADE_V0720 | ZTE BLADE V0720 |
 | ZTE | BLADE V0730 | ZTE_BLADE_V0730 | ZTE BLADE V0730 |
@@ -21286,6 +21292,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | T911 | P839F30 | ZTE T911 |
 | ZTE | T912 | P839F30 | ZTE T912 |
 | ZTE | T920 | ZTE_T920 | ZTE T920 |
+| ZTE | TE BLADE B125 | P809F01 | ZTE BLADE B125 |
 | ZTE | TQ150 | QB7211 | TQ150 |
 | ZTE | TURKCELL T40 | TURKCELL-T40 | TURKCELL T40 |
 | ZTE | TURKCELL T50 | msm8226 | TURKCELL T50 |
@@ -21483,6 +21490,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | Vesta | proline | Z965 |
 | ZTE | Vip Racer III | atlas40 | Vip Racer III |
 | ZTE | Vodafone Smart Chat | turies | Vodafone Smart Chat |
+| ZTE | Vodafone Smart X9 | VFD822 | VFD 822 |
 | ZTE | Vodafone Smart ultra 6 | msm8916_32 | Vodafone Smart ultra 6 |
 | ZTE | Warp 7 | beam | N9519 |
 | ZTE | X500 | X500 | X500 |
@@ -21589,6 +21597,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | ZTE BLADE A0620 | P840F12 | ZTE BLADE A0620 |
 | ZTE | ZTE BLADE A0621 | P840F13 | ZTE BLADE A0621 |
 | ZTE | ZTE BLADE A0622 | P809F12 | ZTE BLADE A0622 |
+| ZTE | ZTE BLADE A125 | P809F01 | ZTE BLADE A125 |
 | ZTE | ZTE BLADE A320 | P809F20 | ZTE BLADE A320 |
 | ZTE | ZTE BLADE A321 | VFD511 | ZTE BLADE A321 |
 | ZTE | ZTE BLADE A330 | P809F30 | ZTE BLADE A330 |
@@ -21625,6 +21634,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ZTE | ZTE BV0870 | P840V71 | ZTE BV0870 |
 | ZTE | ZTE Blade A0722 | P817F18 | ZTE Blade A0722 |
 | ZTE | ZTE Blade A522 | P817E53 | ZTE Blade A522 |
+| ZTE | ZTE Blade A531 | P932F10 | ZTE Blade A531 |
 | ZTE | ZTE Blade L110 | ZTE_BLADE_L110 | ZTE Blade L110 |
 | ZTE | ZTE Blade L5 | P172A40 | ZTE Blade L5 |
 | ZTE | ZTE Blade V770 | P852F52 | ZTE Blade V770 |
@@ -21764,10 +21774,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Zuum | ONIX S | ONIX_S | ONIX S |
 | Zuum | STELLAR | STELLAR | STELLAR |
 | Zuum | STELLAR MINI | STELLAR_MINI | STELLAR MINI |
+| Zuum | STELLAR PLUS | STELLAR_PLUS | STELLAR PLUS |
 | Zuum | STELLAR Z | STELLAR_Z | STELLAR Z |
 | Zuum | ULTRA Z | Ultra_Z | ULTRA Z |
 | Zuum | ZUUM AKUS | AKUS | AKUS |
 | Zuum | ZUUM MAGNO PLUS | MAGNO_PLUS | MAGNO PLUS |
+| afriphone | smart_S5 | smart_S5 | smart_S5 |
 | alter | MIG | MIG | MIG |
 | aoson | M753 | M753 | M753 |
 | aoson | R103 | R103 | R103 |
