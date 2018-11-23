@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 22.11.2018
+Last sync is 23.11.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2288,6 +2288,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Centric | G1 | CM4331 | G1 |
 | CenturyLink | PureTV | ctl_iptv_mrvl | CTLPlayer |
 | CenturyLink | PureTV | ctl_iptv_mrvl | S60CLI |
+| Changhong | GIU6060 | GIU6060 | GIU6060 |
 | Channel Master | Stream+ | dwt765cha | CM-7600 |
 | Chemist Warehouse | JR-MB603 | JR_MB603 | JR_MB603 |
 | Cherry Mobile | Cherry W900 LTE | al7 | W900 LTE |
@@ -3362,6 +3363,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ENIE | E4Pro | E4Pro | E4Pro |
 | ENIE | E6 | E6 | E6 |
 | ENIE | EH3 | EH3 | EH3 |
+| ENIE | ENIE_E2 | ENIE_E2 | ENIE_E2 |
 | ENTITY | GDENTMY7317 | GDENTMY7317 | GDENTMY7317 |
 | EPIKONE | K400 | K400 | K400 |
 | EPIKONE | K405 | K405 | K405 |
@@ -7503,6 +7505,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hyundai | E435 Plus | E435_Plus | E435 Plus |
 | Hyundai | E456GO | E465GO | E465GO |
 | Hyundai | E503F | E503F | E503F |
+| Hyundai | E601F | E601F | E601F |
 | Hyundai | Eternity A24 | A25024L | A25024L |
 | Hyundai | Eternity G22 | G25022K | G25022K |
 | Hyundai | Eternity G23 | G25523K | G25523K |
@@ -7527,6 +7530,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hyundai | L502 | Hyundai_L502 | L502 |
 | Hyundai | L503F | L503F | L503F |
 | Hyundai | L575 | L575 | L575 |
+| Hyundai | L601F | L601F | L601F |
 | Hyundai | Seoul 9 | Seoul_9 | Seoul 9 |
 | Hyundai | Seoul X | Seoul_X | Seoul X |
 | Hyundai | Seoul_S8 | Seoul_S8 | Seoul S8 |
@@ -9310,6 +9314,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG Q7+ | cv5an | LM-Q727K |
 | LGE | LG Q7+ | cv5an | LM-Q727L |
 | LGE | LG Q7+ | cv5an | LM-Q727S |
+| LGE | LG Q9 | falcon | LM-Q925K |
 | LGE | LG Q9 | falcon | LM-Q925L |
 | LGE | LG Q9 | falcon | LM-Q925S |
 | LGE | LG RAY | d2 | LG-X190 |
@@ -9945,6 +9950,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lava | iris30 | iris30 | iris30 |
 | Lava | iris40 | iris40 | iris40 |
 | Lava | iris50 | iris50 | iris50 |
+| Lava | iris50c | iris50c | iris50 |
 | Lava | iris51 | iris51 | iris51 |
 | Lava | iris512 | iris512 | iris512 |
 | Lava | iris515 | iris515 | iris515 |
@@ -10399,6 +10405,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lenovo | Lenovo TAB 7 | TB-7504X | Lenovo TB-7504X |
 | Lenovo | Lenovo TAB4 | 701LV | 701LV |
 | Lenovo | Lenovo TAB4 | 702LV | 702LV |
+| Lenovo | Lenovo TAB4 | X304F | Lenovo TB-X304F |
 | Lenovo | Lenovo TB-8304F1 | TB-8304F1 | Lenovo TB-8304F1 |
 | Lenovo | Lenovo TB-X104F | X104F | Lenovo TB-X104F |
 | Lenovo | Lenovo TB-X504F | X504F | Lenovo TB-X504F |
@@ -10951,6 +10958,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Making Life Simple | iQW603 | iQW603 | iQW603 |
 | Malata | UV350 | UV350 | UV350 |
 | Mango | Mango_S5 | Mango_S5 | Mango S5 |
+| Mango | Mango_SQ7 | Mango_SQ7 | Mango_SQ7 |
 | Manta | MSP4507 | MSP4507 | MSP4507 |
 | Mantra | MFSTAB | MFSTAB | MFSTAB |
 | Mantra | MFSTAB_74G | MFSTAB_74G | MFSTAB_74G |
@@ -11397,6 +11405,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Micromax | Selfie 3 | Q348 | Micromax Q348 |
 | Micromax | Sliver 5 | Q450 | Micromax Q450 |
 | Micromax | Spark  4G(2017) | Q409 | Micromax Q409 |
+| Micromax | Spark 4g | Q4002 | Micromax Q4002 |
 | Micromax | UNITE | A092 | Micromax A092 |
 | Micromax | Unite 3 | Q379 | Micromax Q379 |
 | Micromax | Unite2 | A106 | Micromax A106 |
@@ -12186,6 +12195,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Myphone | myA7 DTV | myA7_DTV | myA7 DTV |
 | Myphone | myA8 DTV | myA8_DTV | myA8 DTV |
 | Myphone | myA9_DTV | myA9_DTV | myA9 DTV |
+| Myphone | myNX1 | myNX1 | myNX1 |
 | Myphone | myPhone | Hammer_Active2_LTE | Hammer_Active2_LTE |
 | Myphone | myPhone  Q-Smart III Plus | Q-Smart_III_Plus | Q-Smart_III_Plus |
 | Myphone | myT3 DTV | myT3_DTV | myT3 DTV |
@@ -13585,6 +13595,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Polaroid | A7_PTAB735 | A7_PTAB735 | HS-7DTB39 |
 | Polaroid | A9x/PTAB935x | A9xPTAB935x | A9x/PTAB935x |
 | Polaroid | BDL5048 | BDL5048 | BDL5048PR001 |
+| Polaroid | BDLT107 | BDLT107 | BDLT107 |
 | Polaroid | Cosmo L | P5026A | P5026A |
 | Polaroid | Cosmo P5s | P5046A | P5046A |
 | Polaroid | Cosmo Z | P5047A | P5047A |
@@ -17551,6 +17562,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Storex | eZee\xe2\x80\x99Tab7D14-S | STOREX7526 | NID_7010 |
 | Strawberry | ST9009 | ST9009 | ST9009 |
 | Stream | B1 | B1 | B1 |
+| Stream | B1s | B1s | B1s |
 | Stream | B2mini | B2mini | B2mini |
 | Stream | B2s | B2s | B2s |
 | Stream | B3Pro | B3Pro | B3Pro |
@@ -21973,6 +21985,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iVOOMi | i1s | i1s | i1s |
 | iVOOMi | i2 | i2 | i2 |
 | iVOOMi | i2 Lite | i2_Lite | i2_Lite |
+| iYOU | iYOU_M1 | iYOU_M1 | iYOU_M1 |
 | intelkom | meanIT_C1 | meanIT_C1 | meanIT_C1 |
 | intelkom | meanIT_C2 | meanIT_C2 | meanIT_C2 |
 | mytel | M9501 | M9501 | M9501 |
