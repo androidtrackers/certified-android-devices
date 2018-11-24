@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 23.11.2018
+Last sync is 24.11.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2892,6 +2892,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DEXP | G255 | G255 | G255 |
 | DEXP | G355 | G355 | G355 |
 | DEXP | GL255 | GL255 | GL255 |
+| DEXP | GL355 | GL355 | GL355 |
 | DEXP | H170 | H170 | H170 |
 | DEXP | Ixion M355 | M355 | Ixion M355 |
 | DEXP | Ixion ML350 | ML350 | Ixion ML350 |
@@ -7448,6 +7449,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | \xe9\xba\xa6\xe8\x8a\x925 | HWMLA | MLA-AL10 |
 | HumaxDigital | Descodificador Orange TV | b604tnw | Descodificador Orange TV |
 | HumaxDigital | H5_DLIVE | h5mini | H5_DLIVE |
+| HumaxDigital | VISION W1 | vision | VISION W1 |
 | Hurricane | Ace | Ace | Ace |
 | Hurricane | Air | Air | Air |
 | Hurricane | Archer | Archer | Archer |
@@ -8247,6 +8249,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | KEMPLER STRAUSS | KEMPLER 9 | KEMPLER_9 | KEMPLER_9 |
 | KEMPLER STRAUSS | KEMPLER TV | KEMPLER_TV | KEMPLER_TV |
 | KEMPLER STRAUSS | KEMPLER_8_PLUS | KEMPLER_8_PLUS | KEMPLER_8_PLUS |
+| KONKA | RE1 | RE1 | RE1 |
 | KONKA | SE1 | SE1 | SE1 |
 | KONKA | SP3 | SP3 | SP3 |
 | KONKA | SP9 | SP9 | SP9 |
@@ -9949,6 +9952,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lava | iris atom 3 | A3 | A3 |
 | Lava | iris30 | iris30 | iris30 |
 | Lava | iris40 | iris40 | iris40 |
+| Lava | iris42 | iris42 | iris42 |
 | Lava | iris50 | iris50 | iris50 |
 | Lava | iris50c | iris50c | iris50 |
 | Lava | iris51 | iris51 | iris51 |
@@ -10975,6 +10979,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Masstel | Masstel_Juno_Q3 | Masstel_Juno_Q3 | Masstel_Juno_Q3 |
 | Masstel | Masstel_Juno_Q5 | Masstel_Juno_Q5 | Masstel_Juno_Q5 |
 | Masstel | Masstel_Tab10 | Masstel_Tab10 | Masstel Tab10 |
+| Masstel | Masstel_X6 | Masstel_X6 | Masstel X6 |
 | Masstel | N535 | Masstel_N535 | Masstel N535 |
 | Masstel | Tab7LTE | Masstel_Tab7LTE | Masstel_Tab7LTE |
 | Masstel | Tab7Plus | Tab7Plus | Tab7Plus |
@@ -11447,6 +11452,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Mint | Mint VirGo | Mint_VirGo | Mint VirGo |
 | Mint | Pearl_Neo | Pearl_Neo | Pearl_Neo |
 | Mintt | A1 | A1 | A1 |
+| Mintt | CoolMinttM2 | CoolMinttM2 | CoolMinttM2 |
 | Mintt | Coolmintt P2 | Coolmintt_P2 | Coolmintt_P2 |
 | Mintt | M1 | M1 | M1 |
 | Mintt | Ultramintt R1 | Ultramintt_R1 | Ultramintt R1 |
@@ -11538,6 +11544,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Mobicell | ZEN | ZEN | ZEN |
 | Mobicell | ZOOM | ZOOM | ZOOM |
 | MobiiStar | C1 Lite | C1_Lite | C1 Lite |
+| MobiiStar | C1 Power | mobiistar_C1_Power | mobiistar C1 Power |
 | MobiiStar | LAI YUNA 1 | LAI_YUNA_1 | mobiistar LAI YUNA 1 |
 | MobiiStar | LAI Z1 4G | LAI_Z1_4G | mobiistar LAI Z1 4G |
 | MobiiStar | LAI Z2 | mobiistar_LAI_Z2 | mobiistar_LAI_Z2 |
@@ -14344,6 +14351,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | SK Telesys | WA966 | u966e_2 | WA966 |
 | SK Telesys | WA978 | u978e_1 | WA978 |
 | SK Telesys | icube-830 | icube-830 | icube-830 |
+| SMT_LW | CRUSH X565 | CRUSH_X565 | CRUSH_X565 |
 | SMT_LW | X450 | X450 | X450-Locked to Life Wireless |
 | SMT_SN | CRUSH X565 | CRUSH_X565 | CRUSH_X565 |
 | SMT_TSC | BLAZE X500 | BLAZE_X500 | BLAZE_X500 |
@@ -16893,7 +16901,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Siragon | SP-5000 | SP-5000 | Siragon SP-5000 |
 | Sirin | LABS SOLARIN | solarin | SOLARIN |
 | Sirin | LABS SOLARIN | solarin | Solarin |
-| Sky Devices | Asia | open_fhd_ap | open_fhd |
 | Sky Devices | ELITE 4.0S | Elite_4_0S_GT_Tigo | Elite_4.0S |
 | Sky Devices | ELITE 4.0S | Elite_4_0S_HN_Tigo | Elite_4.0S |
 | Sky Devices | ELITE 45T | Elite_45T_GT | Elite 45T |
@@ -16924,15 +16931,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sky Devices | SKY 55M | SKY_55M | SKY 55M |
 | Sky Devices | SKY VISION1 | SKYVISION | SKYVISION |
 | Sky Devices | SKY_Pro_III | SKY_Pro_III | SKY_Pro_III |
-| Sky Devices | South Africa | open_fhd_sa | open_fhd |
 | Sky Devices | pro selfie | PRO_SELFIE | PRO_SELFIE |
 | SkyLife | UHD2 | IC1110 | IC1110 |
 | SkyLife | skylife LTE TV | DMTS17SS | DMT_1621 |
 | Skyview | M5 | M5 | M5 |
 | Skyworth | Asia | globe_ap | globe |
+| Skyworth | Asia | open_fhd_ap | open_fhd |
 | Skyworth | Europe | globe_eu | globe |
 | Skyworth | North America | globe_na | globe |
 | Skyworth | Skyworth | grape | HPA02 |
+| Skyworth | South Africa | open_fhd_sa | open_fhd |
 | Skyworth | South America | globe_sa | globe |
 | SledovaniTV | DV8220 | DV8220 | DV8220 |
 | Smadl | SMADL | Matri2 | Matri2 |
@@ -17681,6 +17689,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Symphony | i90 | i90 | i90 |
 | Symphony | roarV95 | roarV95 | roarV95 |
 | Symphony | roar_V150 | roar_V150 | roar_V150 |
+| T-Mobile | REVVL 2 | A30ATMO | REVVL 2 |
+| T-Mobile | REVVL 2 | A30ATMO | REVVL_2_5052W |
 | T-Mobile | REVVL 2 PLUS | A70AXLTMO | REVVL 2 PLUS |
 | T-Mobile | Telekom_Puls | T-Tab | Telekom Puls |
 | TA71CA5_JP | JP SA COUTO, S.A. _MG070A2T | TA71CA5_1 | TA71CA5 |
@@ -21754,6 +21764,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ziox | Duopix F9 | Duopix_F9 | Duopix F9 |
 | Ziox | Duopix F9 Pro | Duopix_F9_Pro | Duopix F9 Pro |
 | Ziox | Duopix R1 | Duopix_R1 | Duopix R1 |
+| Ziox | Duotel_R2 | Duotel_R2 | Duotel_R2 |
 | Zoji | Z11 | Z11 | Z11 |
 | Zoji | Z9 | Z9 | Z9 |
 | Zonda | AWM533 | AWM533 | AWM533 |
