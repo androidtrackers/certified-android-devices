@@ -32,7 +32,7 @@ cat changes | while read line; do
 	name=$(echo $line | cut -d '|' -f3)
 	device=$(echo $line | cut -d '|' -f4)
 	model=$(echo $line | cut -d '|' -f5)
-	./telegram -t $bottoken -c @CertifiedAndroidDevices -M "New certified device added!
+	python telegram.py -t $bottoken -c @CertifiedAndroidDevices -M "New certified device added!
 	Brand:*$brand*
 	Name:*$name*
 	Codename:*$device*
