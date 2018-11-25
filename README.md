@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 24.11.2018
+Last sync is 25.11.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -19627,6 +19627,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vivo | PD1612 | PD1612 | vivo PD1612 |
 | Vivo | PD1612 | PD1612 | vivo Y67 |
 | Vivo | V1 | V1 | vivo V1 |
+| Vivo | V1731CA | PD1731C | V1731CA |
 | Vivo | V1732A | PD1732 | V1732A |
 | Vivo | V1809A | PD1809 | V1809A |
 | Vivo | V1814A | PD1814 | V1814A |
