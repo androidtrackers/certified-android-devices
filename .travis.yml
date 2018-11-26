@@ -12,6 +12,7 @@ before_install:
    fi
 
 script:
+  - pip install requests
   - wget -q https://github.com/yshalsager/telegram.py/raw/master/telegram.py
   - chmod +x sync.sh
   - ./sync.sh
