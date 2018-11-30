@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 29.11.2018
+Last sync is 30.11.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -370,6 +370,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Aiwa | AW790 | AW790 | AW790 |
 | Aiwa | AWM501 | AWM501 | AWM501 |
 | Aiwa | AWM509 | AWM509 | AWM509 |
+| Aiwa | Aiwa | KSTB6043 | KSTB6043 |
 | Aiwa | Z9 | AIWA_Z9 | Z9 |
 | Aiwa | Z9 PLUS | AIWA_Z9_PLUS | Z9 PLUS |
 | Akari | AX-115ATV | DV8035 | AX-115ATV |
@@ -1437,6 +1438,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Avvio | Avvio PRO550 | Avvio_Pro550 | Avvio_Pro550 |
 | Avvio | Avvio Platinum A50 | Avvio_A50 | Avvio_A50 |
 | Avvio | Mint_M353 | Mint_M353 | Mint_M353 |
+| Avvio | Q503 | Avvio_Q503 | Avvio_Q503 |
 | Axioo | Axioo AX4 | Axioo_AX4 | Axioo_AX4 |
 | Azumi | A4 | A4 | Azumi A4 |
 | Azumi | A40 Style Plus | A40_Style_Plus | A40_Style_Plus |
@@ -1474,6 +1476,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Azumi | KINZO A55QL | KINZO_A55_OLi_CL | Azumi_KINZO_A55_OLi |
 | Azumi | KINZO ICHI A5 QL | KINZO_ichi_A5_QL_NA | KINZO_ichi_A5_QL |
 | Azumi | KIREI A5Q PLUS | Azumi_KIREI_A5Q_PLUS_AC11 | KIREI A5Q PLUS |
+| Azumi | NOBU A55 | NOBU_A55_AC01 | Azumi NOBU A55 |
 | Azumi | Nobu A55 | NOBU_A55 | Azumi NOBU A55 |
 | Azumi | Speed 4 | Azumi_Speed_4 | Azumi Speed 4 |
 | Azumi | Speed 5 | Azumi_Speed_5B | Azumi Speed 5 |
@@ -2174,6 +2177,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Camfone | Hero H7 Plus | Hero_H7_Plus | Hero_H7_Plus |
 | Camfone | Hero H9 | Hero_H9 | Hero_H9 |
 | Camfone | Hero X | Hero_X | Hero X |
+| Camfone | Hero_13 | Hero_13 | Hero_13 |
 | Camfone | Hero_H5+ | Hero_H5_Plus | Hero_H5+ |
 | Camfone | Hero_SX | Hero_SX | Hero SX |
 | Camfone | Honey Y1 | Honey_Y1 | Honey Y1 |
@@ -2391,6 +2395,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | China Mobile | A3 | M651G | M651G |
 | China Mobile | A5 | M654G | M654G |
 | China Mobile | n1 max | m823_cmcc | M823 |
+| Chuwi | CHUWI | Hi9Air | Hi9Air |
 | Chuwi | Hi9 | Hi9 | Hi9 |
 | Cipherlab | RK25 | RK25 | RK25 |
 | Cipherlab | RK25WO | RK25WO | RK25WO |
@@ -3171,10 +3176,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Digma | Digma LINX Alfa 3G LT4047MG | LT4047MG | LINX ALFA 3G LT4047MG |
 | Digma | Digma Optima Prime 5 3G TS7198PG | TS7198PG | Optima Prime 5 3G TS7198PG |
 | Digma | Digma Plane 1584S 3G PS1201PG | PS1201PG | Plane 1584S 3G PS1201PG |
+| Digma | Digma Plane 1585S 4G PS1502PL | PS1202PL | Plane 1585S 4G PS1202PL |
 | Digma | Digma Plane 7580S 4G PS7192PL | PS7192PL | Plane 7580S 4G PS7192PL |
 | Digma | Digma Plane 8580 4G PS8199ML | PS8199ML | Plane 8580 4G PS8199ML |
 | Digma | Digma Platina 1579M 4G NS1800ML | NS1800ML | Platina 1579M 4G NS1800ML |
+| Digma | HIT Q500 3G HT5035PG | HT5035PG | HIT Q500 3G HT5035PG |
 | Digma | LINX A452 3G | LT4030PG | LINX A452 3G LT4030PG |
+| Digma | Linx X1 PRO 3G LS4051MG | LS4051MG | Linx X1 PRO 3G LS4051MG |
 | Digma | Optima_8019N_4G | TS8182ML | Optima 8019N 4G TS8182ML |
 | Digma | PS8163PL | PS8163PL | Plane 8550S 4G PS8163PL |
 | Digma | Plane 7012M 3G PS7082MG | PS7082MG | Plane_7012M_3G_PS7082MG |
@@ -3766,6 +3774,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Fly | FS402 | Stratus_2 | FS402 |
 | Fly | FS451 | Nimbus1 | FS451 |
 | Fly | FS502 | Cirrus_1 | FS502 |
+| Fly | Fly View Max | ViewMax | View Max |
 | Fly | Flylife Connect 10.1 | Flylife_Connect_101_3G_2 | Flylife Connect 10.1 3G 2 |
 | Fly | Flylife Connect 7 3G 2 | Flylife7 | Flylife Connect 7 3G 2 |
 | Fly | Flylife Connect 7.85 3G 2 | Flylife | Flylife Connect 7.85 3G 2 |
@@ -4924,8 +4933,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | HTC | G2 | vision | HTC Vision |
 | HTC | G2 | vision | T-Mobile G2 |
 | HTC | HTC 10 evo | htc_acawhl | HTC 10 evo |
-| HTC | HTC 2Q6E1 | htc_imldugl | HTC 2Q6E1 |
-| HTC | HTC 2Q6E1 | htc_imldugl | HTC U12 life |
 | HTC | HTC Desire 610 | htc_a3ul | HTC Desire 610 |
 | HTC | HTC Desire 628 dual sim | htc_v36bml_dugl | HTC 2PVG2 |
 | HTC | HTC Desire 628 dual sim | htc_v36bml_dugl | HTC Desire 628 dual sim |
@@ -4944,6 +4951,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | HTC | HTC U11+ | htc_ocmdtwl | HTC 2Q4D200 |
 | HTC | HTC U11+ | htc_ocmdugl | HTC U11 plus |
 | HTC | HTC U11+ | htc_ocmdugl | HTC_2Q4D100 |
+| HTC | HTC U12 life | htc_imldugl | HTC 2Q6E1 |
+| HTC | HTC U12 life | htc_imldugl | HTC U12 life |
 | HTC | HTC6435LVW | dlx | HTC6435LVW |
 | HTC | HTC909d | dlpdwg | HTC 919d |
 | HTC | HTCDesire612VZW | htc_a3qhdcl | HTC331ZLVW |
@@ -8043,6 +8052,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Iris | NEXT P | NEXT_P | NEXT_P |
 | Iris | NEXT P+ | NEXT_P_PLUS | NEXT P+ |
 | Iris | NEXT U | NEXT_U | NEXT U |
+| Iris | Next_P_PRO | Next_P_PRO | Next_P_PRO |
 | Iris | VOX  4s | VOX_4s | VOX 4s |
 | Iris | VOX  Energy | VOX_Energy | VOX Energy |
 | Iris | VOX  STEEL Plus | VOX_STEEL_Plus | VOX STEEL Plus |
@@ -8351,6 +8361,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Kenbo | O51 | O51 | O51 |
 | Kennex | MD7053G | MD7053G | MD7053G |
 | Kenwood | KWSA80K | XP8800 | KWSA80K |
+| Kenxinda | Y30 | Y30 | Y30 |
 | Ketablet | Ketablet | TR10CS1_6 | TR10CS1 |
 | Kiano | ELEGANCE 6 | ELEGANCE_6 | ELEGANCE 6 |
 | Kiano | Elegance 4.0 black | Elegance_4_0_black | Elegance_4_0_black |
@@ -9912,8 +9923,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lava | Era 4G | era_4G | era_4G |
 | Lava | Flair P3 | P3 | P3 |
 | Lava | Flair S1 | S1 | S1 |
+| Lava | IRIS88 | iris88 | iris88 |
+| Lava | IRIS88S | iris88s | iris88s |
 | Lava | Iris 505 | iris505 | iris505 |
 | Lava | Iris820 | iris820 | iris820 |
+| Lava | Iris90 | iris90 | iris90 |
 | Lava | P7 | P7 | P7 |
 | Lava | P7 Plus | P7plus | P7plus |
 | Lava | P7plus | P7plus | P7plus |
@@ -9990,6 +10004,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lava | iris80 | iris80 | iris80 |
 | Lava | iris821 | iris821 | iris821 |
 | Lava | iris870 | iris870 | iris870 |
+| Lava | iris880 | iris880 | iris880 |
 | Lava | iris88_go | iris88_go | iris88_go |
 | Lava | iris88_lite | iris88_lite | iris88_lite |
 | Lazer | MD1005 Tablet | MD1005 | MD1005 |
@@ -10392,6 +10407,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lenovo | K80M | K80M | Lenovo K80M |
 | Lenovo | K860 | stuttgart | Lenovo K860 |
 | Lenovo | K860i | K860i | Lenovo K860i |
+| Lenovo | K9 | K9 | Lenovo L38043 |
 | Lenovo | K900 | K900 | Lenovo K900 |
 | Lenovo | K900 | K900_ROW | Lenovo K900_ROW |
 | Lenovo | K910 | kiton | Lenovo K910 |
@@ -11035,6 +11051,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Maxwest | Nitro 5N | Nitro_5N | Nitro_5N |
 | Maxwest | Nitro_4s_LTE | Nitro_4s_LTE | Nitro 4s LTE |
 | Maxwest | Nitro_5X | Nitro_5X | Nitro_5X |
+| Maxwest | Nitro_Phablet_9s | Nitro_Phablet_9s | Nitro_Phablet_9s |
 | Maxwest | Ranger 5 | Ranger_5 | Ranger_5 |
 | MeanIT | C4 | C4 | C4 |
 | MeanIT | meanIT C80C81 | meanIT_C80C81 | meanIT_C80C81 |
@@ -11195,6 +11212,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Meizu | PRO 7 Plus | PRO7Plus | PRO 7 Plus |
 | Meizu | meizu C9 | meizuC9 | meizu C9 |
 | Meizu | meizu C9 pro | meizuC9pro | meizu C9 pro |
+| Meizu | meizu M8 | meizuM8 | meizu M8 |
 | Meizu | meizu X8 | X8 | meizu X8 |
 | Meizu | meizu note8 | meizunote8 | meizu note8 |
 | Memorex | MTAB-07530A | MTAB-07530A | MTAB-07530A |
@@ -12702,6 +12720,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oale | Apex3 | Apex3 | Apex3 |
 | Oale | P1 | P1 | P1 |
 | Oale | P2 | P2 | P2 |
+| Oale | P3 | P3 | P3 |
 | Obi | MV1 | yam | OBI MV1 |
 | Obi | MV1 | yam | Obi MV1 |
 | Obi | OBJ SJ1.5 | SJ1-5 | SJ1-5 |
@@ -14343,6 +14362,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ruio | Ruio_S5Plus | Ruio_S5Plus | Ruio_S5Plus |
 | Ruio | Ruio_i7Plus | i7Plus | i7Plus |
 | Ruio | S4 | RUIO_S4 | RUIO_S4 |
+| Runbo | F1Plus | F1Plus | F1Plus |
 | S-tell | M555i | M555i | M555i |
 | S-tell | M578 | M578 | M578 |
 | S-tell | M580 | M580 | M580 |
@@ -16591,6 +16611,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Senwa | LS55M | Senwa_LS55M | LS55M |
 | Senwa | LS5718 | Senwa_LS5718 | LS5718 |
 | Senwa | LS5U | Senwa_LS5U | LS5U |
+| Senwa | S40E_Claro_CO | S40E_Claro_CO | S40E |
 | Senwa | S45 | Senwa_S45 | S45 |
 | Senwa | S50 | Senwa_S50 | S50 |
 | Senwa | Telcel S6000 | Telcel_S6000 | S6000 |
@@ -16929,6 +16950,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Simbans | PicassoTab | PicassoTab | PicassoTab |
 | Simbans | TangoTab | TangoTab | TangoTab |
 | SimiMobile | S507 | S507 | S507 |
+| Singtech | H1s | H1s | H1s |
 | Singtech | Infinity_I1 | Infinity_I1 | Infinity_I1 |
 | Singtech | Infinity_I_Mix | Infinity_I_Mix | Infinity_I_Mix |
 | Singtech | Q3 | Q3 | Q3 |
@@ -17600,6 +17622,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Starlight | STAR PRO | STAR_PRO | STAR PRO |
 | Starlight | STAR_MIX | STAR_MIX | STAR_MIX |
 | Starlight | Safari | Safari | Safari |
+| Starlight | Star Two | star_two | star_two |
 | Starlight | Star_Plus | Star_Plus | Star_Plus |
 | Starlight | Starplus 7 | STARPLUS7 | STARPLUS7 |
 | Starlight | UMI_G | UMI_G | UMI_G |
@@ -18378,6 +18401,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Alcatel 5V | A5X | 5060A |
 | TCT (Alcatel) | Alcatel 5V | A5X | 5060D_RU |
 | TCT (Alcatel) | Alcatel 5X | A5X | 5060D |
+| TCT (Alcatel) | Alcatel 5X | A5X | 5060J |
 | TCT (Alcatel) | Alcatel Raven LTE | BUZZ6T4GTFUMTS | A574BL |
 | TCT (Alcatel) | Alcatel one touch 985 | one_touch_985A_gsm | ALCATEL_one_touch_985 |
 | TCT (Alcatel) | Alcatel9007T | Pixi3_7_4G | Alcatel9007T |
@@ -18902,6 +18926,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Techpad | TechPad_3Gx | TechPad_3Gx | TechPad_3Gx |
 | Techpad | TechPad_716 | TechPad_716 | 716 |
 | Techpad | TechPad_i700 | Techpad_i700 | Techpad_i700 |
+| Techsonic | TECHR720W | TECHR720W | TECHR720W |
 | Tecno | A7S | TECNO-A7S | TECNO-A7S |
 | Tecno | C5 | TECNO-C5 | TECNO-C5 |
 | Tecno | C7 | TECNO-C7 | TECNO-C7 |
@@ -19440,6 +19465,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vertex | ET | ET | ET |
 | Vertex | Impress Action | Impress_Action | Impress_Action |
 | Vertex | Impress Click (3G) | IMPRESS_CLICK | IMPRESS CLICK |
+| Vertex | Impress Click NFC | Impress_Click_NFC | Impress Click NFC |
 | Vertex | Impress Cube | Impress_Cube | Impress_Cube |
 | Vertex | Impress Dune | Impress_Dune | Impress_Dune |
 | Vertex | Impress Eagle | Impress_Eagle | Impress_Eagle |
@@ -19449,6 +19475,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vertex | Impress Fortune | Impress_Fortune | Impress_Fortune |
 | Vertex | Impress Grip | Grip | Impress_Grip |
 | Vertex | Impress Groove | Impress_Groove | Impress_Groove |
+| Vertex | Impress Life | Impress_Life | Impress_Life |
 | Vertex | Impress Lightning | Impress_Lightning | Impress_Lightning |
 | Vertex | Impress Lion (3G) | Impress_Lion_3G | Impress_Lion_3G |
 | Vertex | Impress Lion (4G) | Impress_Lion_4G | Impress_Lion_4G |
@@ -19466,11 +19493,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vertex | Impress Tor | Impress_Tor | Impress_Tor |
 | Vertex | Impress Vega (4G) | Impress_Vega | Impress_Vega |
 | Vertex | Impress Win | Impress_Win | Impress_Win |
+| Vertex | Impress_Aqua | Impress_Aqua | Impress_Aqua |
 | Vertex | Impress_Astra4G | Impress_Astra4G | Impress_Astra4G |
 | Vertex | Impress_Bear | Impress_Bear | Impress_Bear |
 | Vertex | Impress_Blade | Impress_Blade | Impress_Blade |
 | Vertex | Impress_City | Impress_City | Impress_City |
 | Vertex | Impress_Disco | Impress_Disco | Impress Disco |
+| Vertex | Impress_Eagle_4G | Impress_Eagle4G | Impress_Eagle4G |
 | Vertex | Impress_Energy | Impress_Energy | Impress_Energy |
 | Vertex | Impress_Flash | Impress_Flash | Impress_Flash |
 | Vertex | Impress_Frost | Impress_Frost | Impress_Frost |
@@ -19485,7 +19514,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vertex | Impress_Sunset4G | Impress_Sunset4G | Impress_Sunset4G |
 | Vertex | Impress_Vira | Impress_Vira | Impress_Vira |
 | Vertex | Impress_Wolf | Impress_Wolf | Impress_Wolf |
+| Vertex | Impress_Zeon3G | Impress_Zeon3G | Impress_Zeon3G |
+| Vertex | Impress_Zeon4G | Impress_Zeon4G | Impress_Zeon4G |
 | Vertex | Lion_Dual | Lion_Dual | Lion_Dual |
+| Vertex | Luck | Luck | Luck |
 | Vertex | S1 | GlocalMe_S1 | G1701 |
 | Vertex | Tab_4G_10_1 | Tab_4G_10-1 | Tab 4G 10-1 |
 | Vertex | Tab_4G_8-1 | Tab_4G_8-1 | Tab 4G 8-1 |
