@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 01.12.2018
+Last sync is 02.12.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5372,6 +5372,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Haier | W860 | W860 | W860 |
 | Haier | haier lesure L7 | Haier_Leisure_L7 | HM-N700-FL |
 | Haier | i50 | i50 | Haier_i50 |
+| Hamlet | XZPAD412LTE | XZPAD412LTE | XZPAD412LTE |
 | Handheld Group | Algiz RT7 | algizRT7 | Algiz RT7 |
 | Handheld Group | HandHeld NAUTIZ X2 | NAUTIZ_X2 | NAUTIZ_X2 |
 | Handheld Group | Nautiz_X2 | NAUTIZ_X2 | NAUTIZ_X2 |
