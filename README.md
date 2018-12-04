@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 03.12.2018
+Last sync is 04.12.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -75,6 +75,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ASTCA | AA 787 S | SURGE_AA_787_S | AA 787 S |
 | ASTON | IDEA | IDEA | IDEA |
 | AT&T | 9020A | tint8_att | 9020A |
+| AT&T | AT&T TV | c71kw200 | AT&T TV |
+| AT&T | AT&T TV | c71kw200 | c71kw200 |
 | AT&T | QS5509A | QS5509QL | QS5509A |
 | ATM (Brazil) | R5Plus | R5Plus | R5Plus |
 | AURII | AURII_AMUSE_4G | AURII_AMUSE_4G | AURII_AMUSE_4G |
@@ -387,6 +389,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Alcor | Alcor | Access_Q784C | Access_Q784C |
 | Alcor | Alcor | Zest_Q108I | Zest_Q108I |
 | Alcor | Alcor | Zest_Q708I | Zest_Q708I |
+| Alcor | Comet_O118LR | Comet_O118LR | Comet_O118LR |
 | Aligator | ALIGATOR S5070 | ALIGATOR_S5070 | ALIGATOR S5070 |
 | Aligator | RX460 | RX460 | RX460 |
 | Aligator | RX600 | RX600 | RX600 |
@@ -2007,6 +2010,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blu | Studio M6 | S730 | Studio M6 |
 | Blu | Studio Mega | S910Q | Studio Mega |
 | Blu | Studio Mega | Studio_Mega | Studio Mega |
+| Blu | Studio Mega LTE | S0460WW | Studio Mega LTE |
 | Blu | Studio Mega LTE | S0470WW | Studio Mega LTE |
 | Blu | Studio One | BLU_STUDIO_ONE | BLU STUDIO ONE |
 | Blu | Studio Pro | S750 | Studio Pro |
@@ -2034,6 +2038,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blu | Vivo X | V0230WW | Vivo X |
 | Blu | Vivo X WW | V0230WW | Vivo X |
 | Blu | Vivo XI | V0330WW | Vivo XI |
+| Blu | Vivo XI+ | V0310WW | Vivo XI PLUS |
 | Blu | Vivo XI+ | V0310WW | Vivo XI+ |
 | Blu | Vivo XL3 | V0250WW | Vivo XL3 |
 | Blu | Vivo XL3 Plus | V0210WW | Vivo XL3 Plus |
@@ -2088,6 +2093,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Bouygues Telecom | Bbox Miami | HMB4213H | BouygtelTV |
 | Bouygues Telecom | Bs 451 | Bs_451 | Bs 451 |
 | Brandcode | L1Fa | L1Fa | L1Fa |
+| Brandcode | L1f-pluss | L1f_pluss | L1f-pluss |
 | Brandt | BPRIME | BPRIME | BPRIME |
 | Brandt | BSTAR | BSTAR | BSTAR |
 | Brandt | BSTAR+ | BSTAR_PLUS | BSTAR+ |
@@ -3345,6 +3351,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Dragontouch | Y88X Plus | Y88X_A | Y88X_A |
 | Dragontouch | Y88X Plus | Y88X_PLUS | Y88X Plus |
 | Dragontouch | Y88X Plus | Y88X_PLUS | Y88X_PLUS |
+| Dragontouch | Y88X__PLUS | Y88X__PLUS | Y88X__PLUS |
 | Dreamax | DMX-ST7A | DMX-ST7A | DMX-ST7A |
 | Dtac | Phone M2 | dtacPhoneM2 | dtacPhoneM2 |
 | Dtac | Phone S2 | dtacPhoneS2 | dtac_Phone_S2 |
@@ -3387,6 +3394,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | EKINOX | E6 | E6 | E6 |
 | EKINOX | E8_Ultra | E8_Ultra | E8_Ultra |
 | EKINOX | K5 | K5 | K5 |
+| EKO | Ara 5.7 A5719 | A5719 | Ara 5.7 A5719 |
 | EKO | EKO OMEGA LTE Q60 | EKO_OMEGA_LTE_Q60 | EKO OMEGA LTE Q60 |
 | EKO | EKO OMEGA Q55 | EKO_OMEGA_Q55 | EKO OMEGA Q55 |
 | EKO | EKO Star LTE G60 | EKO_Star_LTE_G60 | EKO Star LTE G60 |
@@ -3878,6 +3886,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Fossil | Wear | ray | EA Connected |
 | Fossil | Wear | ray | Q Venture HR |
 | Fossil | Wear | ray | Runway |
+| Fossil | Wear | ray | scallop |
 | Fossil | Wear | shiner | Riley Touch |
 | Fossil | Wear | shiner | Riley Touchscreen |
 | Fossil | Wear | shiner | Sofie |
@@ -6094,6 +6103,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hotwav | Symbol | Symbol | Symbol |
 | Hotwav | Symbol M1 | Symbol_M1 | Symbol M1 |
 | Hotwav | Symbol M1Plus | Symbol_M1_Plus | Symbol M1 Plus |
+| Hotwav | Symbol Max | Symbol_Max | Symbol Max |
 | Hotwav | Symbol X | Symbol_X | Symbol X |
 | How | 1001-G | 1001-G | 1001-G |
 | How | 1001_G | 1001-G_Go | 1001-G Go |
@@ -7617,6 +7627,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | INOI | INOI_5X_Lite | INOI_5X_Lite | INOI_5X_Lite |
 | INOI | INOI_5i | INOI_5i | INOI_5i |
 | INOI | INOI_5i_Lite | INOI_5i_Lite | INOI_5i_Lite |
+| INOI | INOI_5i_Pro | INOI_5i_Pro | INOI_5i_Pro |
 | INOI | INOI_6 | INOI_6 | INOI_6 |
 | INOI | INOI_6_LITE | INOI_6_Lite | INOI_6_Lite |
 | INOI | INOI_7_LITE | INOI_7_LITE | INOI_7_LITE |
@@ -7772,6 +7783,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Infinix | X600 | INFINIX-X600-5M | INFINIX-X600 |
 | Infinix | X600 | INFINIX-X600-5M | Infinix-X600 |
 | Infinix | X600 | INFINIX-X600-H533-5M | Infinix-X600-LTE |
+| Infinix | X605 NOTE 5 Stylus | Infinix-X605_sprout | Infinix X605 |
 | Infinix | Zero 2 | Infinix_X509 | Infinix X509 |
 | Infinix | Zero 4 | X555 | Infinix Zero 4 |
 | Infinix | Zero 4 Plus | X602 | Infinix Zero 4 Plus |
@@ -9914,6 +9926,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lark | Ultimate X4 8s 3G | UltimateX48s3G | Ultimate X4 8s 3G |
 | Laser | MID-1090IPS | MID-1090IPS | MID-1090IPS |
 | Laser | MID-787 | MID-787 | MID-787 |
+| Laser | MID-787V8 | MID-787V8 | MID-787V8 |
 | Lava | A1 | LAVAA1 | LAVAA1 |
 | Lava | A3 | LAVA_A3 | LAVA_A3 |
 | Lava | A3_mini | A3_mini | A3_mini |
@@ -11284,6 +11297,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Micromax | BOLT | Q338 | Micromax Q338 |
 | Micromax | Bharat 4 | Q440Plus | Micromax Q440Plus |
 | Micromax | Bharat 5 | Bharat_5 | Micromax Bharat 5 |
+| Micromax | Bharat 5 Infinity Edition | Q4204 | Micromax Q4204 |
 | Micromax | Bharat 5 Plus | Bharat_5_Plus | Micromax Bharat 5 Plus |
 | Micromax | Bharat Go | Q437 | Micromax Q437 |
 | Micromax | Bhart 5 PRO | Bharat_5_Pro | B5Pro |
@@ -11325,6 +11339,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Micromax | Bolt | S302 | Micromax S302 |
 | Micromax | Bolt Juice | Q3551 | Micromax Q3551 |
 | Micromax | Bolt Pace | Q402 | Micromax Q402 |
+| Micromax | Bolt Prime 3G | Q306 | Micromax Q306 |
 | Micromax | Bolt Q3301 | Q3301 | Micromax Q3301 |
 | Micromax | Bolt Selfie | Q424 | Micromax Q424 |
 | Micromax | Bolt Supreme 4 | Q352 | Micromax Q352 |
@@ -11365,6 +11380,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Micromax | Canvas Doodle4 | Q391 | Micromax Q391 |
 | Micromax | Canvas Evok | E483 | Micromax E483 |
 | Micromax | Canvas FIRE4G | Q411 | Micromax Q411 |
+| Micromax | Canvas Fashion 3G | Q3502 | Micromax Q3502 |
 | Micromax | Canvas Fire | A093 | Micromax A093 |
 | Micromax | Canvas Fire | A104 | Micromax A104 |
 | Micromax | Canvas Fire 4G | Q462 | Micromax Q462 |
@@ -11479,6 +11495,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Micromax | Sliver 5 | Q450 | Micromax Q450 |
 | Micromax | Spark  4G(2017) | Q409 | Micromax Q409 |
 | Micromax | Spark 4g | Q4002 | Micromax Q4002 |
+| Micromax | Spark Go | Q409A | Micromax Q409A |
 | Micromax | UNITE | A092 | Micromax A092 |
 | Micromax | Unite 3 | Q379 | Micromax Q379 |
 | Micromax | Unite2 | A106 | Micromax A106 |
@@ -13760,6 +13777,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Positivo | OCTA | OCTA | OCTA |
 | Positivo | One | S420 | Positivo One |
 | Positivo | One | S420 | S420 |
+| Positivo | Positivo Ypy 10 STA | YPY10STA | YPY10STA |
+| Positivo | Positivo Ypy 10FTA | YPY10FTA | YPY10FTA |
 | Positivo | S380 | S380 | S380 |
 | Positivo | S430 Positivo Twist Mini | S430 | S430 Positivo Twist Mini |
 | Positivo | S440 | S440 | S440 |
@@ -16217,6 +16236,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab Active2 | gtactive2ltekx | SM-T395N |
 | Samsung | Galaxy Tab Active2 | gtactive2lteue | SM-T397U |
 | Samsung | Galaxy Tab Active2 | gtactive2wifi | SM-T390 |
+| Samsung | Galaxy Tab E | gtel3g | SM-T561M |
+| Samsung | Galaxy Tab E | gtelwifi | SM-T560 |
 | Samsung | Galaxy Tab E 8.0 | gteslteatt | SAMSUNG-SM-T377A |
 | Samsung | Galaxy Tab E 8.0 | gtesltebmc | SM-T377W |
 | Samsung | Galaxy Tab E 8.0 | gtesltelgt | SM-T375L |
@@ -16227,7 +16248,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab E 8.0 | gtesqltespr | SM-T377P |
 | Samsung | Galaxy Tab E 8.0 | gtesqlteusc | SM-T377R4 |
 | Samsung | Galaxy Tab E 9.6 | gtel3g | SM-T561 |
-| Samsung | Galaxy Tab E 9.6 | gtel3g | SM-T561M |
 | Samsung | Galaxy Tab E 9.6 | gtel3g | SM-T561Y |
 | Samsung | Galaxy Tab E 9.6 | gtel3g | SM-T562 |
 | Samsung | Galaxy Tab E 9.6 | gtelltevzw | SM-T567V |
@@ -17734,6 +17754,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | SwissMobility | B4 | B4SWM | B4 |
 | SwissMobility | Z7 | Z7 | Z7 |
 | SwissMobility | Z72 | Z72 | Z72 |
+| SwissMobility | Z9 | Z9 | Z9 |
 | Swisstone | swisstone SD 510 | SD5103G | swisstone SD 510 |
 | Swisstone | swisstone SD 530 | SD5304G | swisstone SD 530 |
 | Symphony | H300 | H300 | H300 |
@@ -18391,6 +18412,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033D_RU |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033J |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033O |
+| TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033S |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033T |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033X |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033Y |
@@ -18947,6 +18969,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Techpad | M5Plus | M5Plus | M5Plus |
 | Techpad | M6 | M6 | M6 |
 | Techpad | M6 Plus | M6Plus | M6Plus |
+| Techpad | S6 | S6 | S6 |
 | Techpad | TECHPAD X5 | F518 | Techpad X5 |
 | Techpad | TechPad | TechPad_916 | 916 |
 | Techpad | TechPad 10Y | TechPad_10Y | TechPad_10Y |
@@ -19753,6 +19776,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vivo | V5Plus | V5Plus | vivo V5Plus |
 | Vivo | V9 | 1727ID | vivo 1727 |
 | Vivo | V9 6GB | 1723CF | vivo 1723 |
+| Vivo | V9 Pro | 1851 | vivo 1851 |
 | Vivo | X5 | X5 | vivo X5 |
 | Vivo | X5M | PD1401CL | vivo X5M |
 | Vivo | X5Max | X5Max | vivo X5Max |
@@ -20477,6 +20501,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Yuho | YUHO_O1 | YUHO_O1_LITE | YUHO_O1_LITE |
 | Yuho | YUHO_Vast | YUHO_Vast | YUHO_Vast |
 | Yuho | YUHO_Vast_Plus | YUHO_Vast_Plus | YUHO_Vast_Plus |
+| Yuho | YUHO_Y3_PRO | YUHO_Y3_PRO | YUHO_Y3_PRO |
 | ZTE |  | BUL_P726G | ZTE-RACER |
 | ZTE |  | D930 | D930 |
 | ZTE |  | Grand-S | ZTE Grand S |
@@ -22121,6 +22146,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | mytel | Mytel M9601 | Mytel_M9601 | M9601 |
 | neutab | K1S | K1S | K1S |
 | neutab | i7 | i7 | i7 |
+| noDROPOUT | T25 | T25 | T25 |
 | novo | Bonvi Prime | t596_novo_37m35 | Bonvi Prime |
 | novo | Bonvi Pro | t596_dp_n_37m35 | Bonvi Pro |
 | pendo | PNDPP44QC10 | PNDPP44QC10 | PNDPP44QC10 |
