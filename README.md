@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 04.12.2018
+Last sync is 05.12.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1551,6 +1551,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | BMobile | AX823 | Bmobile_AX823 | AX823 |
 | BMobile | AX823 | Bmobile_AX823a | AX823 |
 | BMobile | AX825 | Bmobile_AX825 | AX825 |
+| BMobile | AX830 | Bmobile_AX830 | AX830 |
 | BMobile | AX920 | Bmobile_AX920 | AX920 |
 | BMobile | AX921 | Bmobile_AX921 | AX921 |
 | BMobile | AX921 | Bmobile_AX921 | Bmobile_AX921 |
@@ -13881,6 +13882,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Premio | 185FT5050231 | 185FT5050231 | 185FT5050231 |
 | Premio | 186HS1050232 | 186HS1050232 | 186HS1050232 |
 | Premio | 186HS1050531 | 186HS1050531 | 186HS1050531 |
+| Premio | 187HT1020331 | 187HT1020331 | P710 |
 | Premio | Axe | HMR5510 | Axe |
 | Premio | P490 | P490 | P490 |
 | Premio | P520 | P520 | P520 |
@@ -17012,6 +17014,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Singtech | i-Tab Mini 3 | iTab | i-Tab Mini 3 |
 | Sintel | SINTEL-X1 | SINTEL_X1 | SINTEL-X1 |
 | Siragon | SP-5000 | SP-5000 | Siragon SP-5000 |
+| Siragon | SP-7100 | SP-7100 | SP-7100 |
 | Sirin | LABS SOLARIN | solarin | SOLARIN |
 | Sirin | LABS SOLARIN | solarin | Solarin |
 | Sky Devices | ELITE 4.0S | Elite_4_0S_GT_Tigo | Elite_4.0S |
@@ -17693,6 +17696,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Stream | HT16 | HT16 | HT16 |
 | Stream | Iron Pro | IRON_Pro | IRON Pro |
 | Stream | PERLA | PERLA | PERLA |
+| Stream | S7 | MIRROR | S7 |
 | Stream | SHARK | SHARK | SHARK |
 | Sts-tottori | JR-500 | JR-500 | JR-500 |
 | Sts-tottori | JR-P2000 | JR-P2000 | JR-P2000 |
@@ -17752,6 +17756,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Swipe | Razor | Swipe_Razor | Razor |
 | Swipe | Strike | Swipe_Strike | Strike |
 | SwissMobility | B4 | B4SWM | B4 |
+| SwissMobility | M9 | M9 | M9 |
 | SwissMobility | Z7 | Z7 | Z7 |
 | SwissMobility | Z72 | Z72 | Z72 |
 | SwissMobility | Z9 | Z9 | Z9 |
@@ -18145,6 +18150,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | A851L | Viper_gsm | Alcatel 7030L |
 | TCT (Alcatel) | A851L | Viper_gsm | Alcatel A851L |
 | TCT (Alcatel) | ALCATEL 1T 10 | U3A_10_WIFI | 8082 |
+| TCT (Alcatel) | ALCATEL 1T 7 3G | U3A_7_3G | 9009G |
 | TCT (Alcatel) | ALCATEL 3C | A3A_XL_3G | 5026A |
 | TCT (Alcatel) | ALCATEL 3C | A3A_XL_3G | 5026D |
 | TCT (Alcatel) | ALCATEL 3C | A3A_XL_3G | 5026J |
@@ -18438,6 +18444,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Alcatel 3 | Dive_73 | Orange Dive 73 |
 | TCT (Alcatel) | Alcatel 3L | A3A_LITE | 5034D |
 | TCT (Alcatel) | Alcatel 3L | A3A_LITE | 5034D_RU |
+| TCT (Alcatel) | Alcatel 3T 8 | A3A_8_4G | 9027F |
+| TCT (Alcatel) | Alcatel 3T 8 | A3A_8_4G | 9027Q |
+| TCT (Alcatel) | Alcatel 3T 8 | A3A_8_4G | 9027T |
+| TCT (Alcatel) | Alcatel 3T 8 | A3A_8_4G | 9027X |
 | TCT (Alcatel) | Alcatel 3V | A3A_XL_4G | 5099A |
 | TCT (Alcatel) | Alcatel 3V | A3A_XL_4G | 5099D |
 | TCT (Alcatel) | Alcatel 3V | A3A_XL_4G | 5099D_RU |
@@ -19254,6 +19264,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tiwell | AS-501 | AS_501 | AS_501 |
 | Tiwell | AS-502 | t662_dh4_tiwell | AS-502 |
 | Tiwell | AS-503 | t662_gq_tiwell | AS-503 |
+| Tiwell | AS_401L | AS_401L | AS_401L |
 | Tobii DynaVox | T10+ | T10plus | T10+ |
 | Tobii DynaVox | T7 | T7 | T7 |
 | Tokio | Phablet_III | Phablet_III | Phablet III |
