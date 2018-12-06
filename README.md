@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 05.12.2018
+Last sync is 06.12.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1552,6 +1552,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | BMobile | AX823 | Bmobile_AX823a | AX823 |
 | BMobile | AX825 | Bmobile_AX825 | AX825 |
 | BMobile | AX830 | Bmobile_AX830 | AX830 |
+| BMobile | AX905 | Bmobile_AX905 | AX905 |
 | BMobile | AX920 | Bmobile_AX920 | AX920 |
 | BMobile | AX921 | Bmobile_AX921 | AX921 |
 | BMobile | AX921 | Bmobile_AX921 | Bmobile_AX921 |
@@ -2349,6 +2350,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Cherry Mobile | Flare J5 Mini | Flare_J5_Mini | Flare J5 Mini |
 | Cherry Mobile | Flare J5s | Flare_J5s | Flare J5s |
 | Cherry Mobile | Flare J6 | Flare_J6 | Flare J6 |
+| Cherry Mobile | Flare J6 Plus | Flare_J6_Plus | Flare J6 Plus |
 | Cherry Mobile | Flare J6 mini | Flare_J6_mini | Flare_J6_mini |
 | Cherry Mobile | Flare J7 | Flare_J7 | Flare J7 |
 | Cherry Mobile | Flare Lite 3S | Flare_Lite_3S | Flare_Lite_3S |
@@ -3757,6 +3759,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Fluo | F Plus | F_Plus | F_Plus |
 | Fluo | F2 | F2 | F2 |
 | Fluo | Fluo | S504050 | S504050 |
+| Fluo | N | N | N |
 | Fluo | S554020 | S554020 | S554020 |
 | Fluo | X2_Max | X2_Max | X2 Max |
 | Fly | 5_S | 5_S | 5S |
@@ -8460,6 +8463,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Kruger&Matz | EAGLE 701 | EAGLE_KM0701_1 | KM0701_1 |
 | Kruger&Matz | EAGLE 804 | EAGLE_KM0804_1 | KM0804_1 |
 | Kruger&Matz | EAGLE 805 | EAGLE_KM0805_1 | KM0805_1 |
+| Kruger&Matz | EAGLE_1068 | EAGLE_1068 | EAGLE_1068 |
 | Kruger&Matz | FLOW | Kruger_Matz_FLOW | FLOW |
 | Kruger&Matz | FLOW 5 | FLOW_5 | FLOW_5 |
 | Kruger&Matz | FLOW 5+ | FLOW5PLUS | FLOW5PLUS |
@@ -14678,6 +14682,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy A6 | a6eltemtr | SM-A600T1 |
 | Samsung | Galaxy A6 | a6eltespr | SM-A600P |
 | Samsung | Galaxy A6 | a6eltetmo | SM-A600T |
+| Samsung | Galaxy A6 | a6elteue | SM-A600U |
 | Samsung | Galaxy A6 | a6lte | SM-A600F |
 | Samsung | Galaxy A6 | a6lte | SM-A600FN |
 | Samsung | Galaxy A6 | a6lte | SM-A600G |
@@ -19260,6 +19265,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tinhvan | TA80TA1 | TA80TA1_1 | TA80TA1 |
 | Tinmo | K1 | K1 | K1 |
 | Tinp | HaTV | DV8330-C | HaTV |
+| Tinp | Play TV | DV8219 | Play TV |
 | Tiwell | AP-115G | AP-115G | AP-115G |
 | Tiwell | AS-501 | AS_501 | AS_501 |
 | Tiwell | AS-502 | t662_dh4_tiwell | AS-502 |
@@ -19440,6 +19446,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ulefone | Ulefone_S7 | Ulefone_S7 | Ulefone S7 |
 | Ulefone | Ulefone_X | Ulefone_X | Ulefone_X |
 | Umax | 7Qa_3G | 7Qa_3G | 7Qa_3G |
+| Umax | U452TL | U452TL | U452TL |
 | Umax | UMAX | visionbook_P55_LTE | visionbook P55 LTE |
 | Umax | VisionBook P50 Plus LTE | P50Plus_LTE | VisionBook_P50Plus_LTE |
 | Umax | VisionBook P55 X2 LTE | VisionBook_P55_X2_LTE | VisionBook P55 X2 LTE |
