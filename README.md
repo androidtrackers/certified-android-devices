@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 06.12.2018
+Last sync is 07.12.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -346,6 +346,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Advan digital | i7 | ADVAN_i7 | i7 |
 | Advan digital | i7A | ADVAN_i7A | i7A |
 | Advan digital | i7U | ADVAN_i_Lite | i7U |
+| Advance | ADVANCE | SP4871 | SP4871 |
 | Advance | HL4736 | HL4736 | HL4736 |
 | Advance | HL5576 | HL5576 | HL5576 |
 | Advance | HL5585 | HL5585 | HL5585 |
@@ -2032,6 +2033,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blu | VIVO 5 | BLU_VIVO_5 | VIVO 5 |
 | Blu | VIVO 5R | BLU_Vivo_5R | Vivo 5R |
 | Blu | VIVO 6 | BLU_Vivo_6 | Vivo 6 |
+| Blu | VIVO GO | V0390WW | VIVO GO |
 | Blu | VIVO XL | BLU_VIVO_XL | VIVO XL |
 | Blu | Vivo 5 Mini | Vivo_5_Mini | Vivo 5 Mini |
 | Blu | Vivo 8 | V0150UU | Vivo 8 |
@@ -4944,6 +4946,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | HTC | EVO 4G LTE | jewel | EVO |
 | HTC | EVO LTE 4G | jewel | EVO |
 | HTC | EVO Shift 4G | speedy | PG06100 |
+| HTC | EXODUS 1 | htc_exodugl | EXODUS 1 |
+| HTC | EXODUS 1 | htc_exouhl | EXODUS 1 |
 | HTC | Evo 4G | supersonic | PC36100 |
 | HTC | Explorer A310e | pico | HTC Explorer |
 | HTC | Explorer A310e | pico | HTC Explorer A310b |
@@ -9439,6 +9443,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG Tribute 2\xe2\x84\xa2 | c50 | LGLS665 |
 | LGE | LG Tribute 5 | m1 | LGLS675 |
 | LGE | LG Tribute Dynasty | mcv150 | LG-SP200 |
+| LGE | LG Tribute Empire | mcv1s | LM-X220PM |
 | LGE | LG U | bbg | LG-F820L |
 | LGE | LG V35 ThinQ | judyp | LM-V350 |
 | LGE | LG V35 ThinQ | judyp | LM-V350N |
@@ -9730,6 +9735,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | Q8 | cv7an | LM-Q815K |
 | LGE | Q8 | cv7an | LM-Q815L |
 | LGE | Q8 | cv7an | LM-Q815S |
+| LGE | QStylus | cv7a | LM-Q710XM |
 | LGE | QStylus | mcv7a | LM-Q710.FG |
 | LGE | QStylus | mcv7a | LM-Q710.FGN |
 | LGE | QStylus Plus | mcv7a | LM-Q710.FGN |
@@ -11545,6 +11551,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Mintt | CoolMinttM2 | CoolMinttM2 | CoolMinttM2 |
 | Mintt | Coolmintt P2 | Coolmintt_P2 | Coolmintt_P2 |
 | Mintt | M1 | M1 | M1 |
+| Mintt | UltraMinttX2 | UltraMinttX2 | UltraMinttX2 |
 | Mintt | Ultramintt R1 | Ultramintt_R1 | Ultramintt R1 |
 | Mio Tab | MioTab | MioTab2016 | MioTab 2016 |
 | Mio Tab | MioTab2017 | MioTab2017 | MioTab2017 |
@@ -14120,6 +14127,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Proscan | PLT9999G | PLT9999G | PLT9999G |
 | Proscan | SLTDVD9220_C | SLTDVD9220-C | SLTDVD9220-C |
 | Protab | PTBPT5QCB7 | PTBPT5QCB7 | PTBPT5QCB7 |
+| QFX USA | TLW-100 | PhonePad | TLW-100 |
 | QLA | C600 | GBC_bravo | C600 |
 | QMobile | A1 | QMobile_Noir_A1 | Noir A1 |
 | QMobile | A1 lite | Noir_A1_lite | Noir A1 lite |
@@ -16799,6 +16807,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp | AQUOS sense basic | SG702SH | 702SH |
 | Sharp | AQUOS sense lite (SH-M05) | SH-M05 | SH-M05 |
 | Sharp | AQUOS sense plus (SH-M07) | SH-M07 | SH-M07 |
+| Sharp | AQUOS sense2 SH-01L | SH-01L | SH-01L |
 | Sharp | AQUOS sense2 SHV43 | MZW | SHV43 |
 | Sharp | AQUOS sense2 SHV43 | MZW-u | SHV43-u |
 | Sharp | AQUOS \xe3\x82\xb1\xe3\x83\xbc\xe3\x82\xbf\xe3\x82\xa4 SH-06G | SH-06G | SH-06G |
@@ -19526,6 +19535,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vernee | Thor E | Thor_E | Thor E |
 | Vernee | Thor Plus | Thor_Plus | Thor Plus |
 | Vernee | V2 Pro | V2_Pro | V2 Pro |
+| Vernee | V3 | V3 | V3 |
 | Vernee | X1 | X1 | X1 |
 | Vernee | X1 | X1_PRO | X1 |
 | Verssed | FW8977-ED | FW8977-ED | FW8977-ED |
