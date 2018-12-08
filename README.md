@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 07.12.2018
+Last sync is 08.12.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3417,6 +3417,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | EPIKONE | RS550 | RS550 | RS550 |
 | EPIKONE | T700 | T700 | T700 |
 | EPIKONE | X500 | X500 | X500 |
+| EPIKONE | X572 | X572 | X572 |
 | ESI Enterprises | CKT3 | CKT3 | CKT3 |
 | ESI Enterprises | DT101Bv51 | DT101Bv51 | DT101Bv51 |
 | ESI Enterprises | DT7v51B | DT7v51B | DT7v51B |
@@ -5411,6 +5412,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Helio | S25 | HelioS25 | S25 |
 | Hercls | HERCLS A15 | A15 | A15 |
 | Hercls | HERCLS L925 | L925 | L925 |
+| Hi TFG | Crusader | Crusader | Crusader |
+| Hi TFG | Spitfire | Spitfire | Spitfire |
 | HighScreen | Bay | Bay | Bay |
 | HighScreen | Easy Power | Easy-Power | Easy-Power |
 | HighScreen | Easy Power Pro | Easy-Power-Pro | Easy-Power-Pro |
@@ -7722,7 +7725,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Infinix | HOT5 Lite | Infinix-X559 | Infinix X559 |
 | Infinix | HOT5 Lite | X557 | Infinix HOT 4 |
 | Infinix | Hot 4 Pro | Infinix-X5511-13M | Infinix HOT 4 Pro |
-| Infinix | Infinix | Infinix_X510_sprout | Infinix X510 |
 | Infinix | Infinix HOT 6X | Infinix-X623 | Infinix X623 |
 | Infinix | Infinix HOT 6X | Infinix-X623 | Infinix X623B |
 | Infinix | Infinix Note 5 | Infinix-X604_sprout | Infinix X604 |
@@ -10789,6 +10791,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LinkNet | X1 Prime | DCN88_72604_LN | DCN88_72604_LN |
 | Listo | WEBPAD1002 | Listo | WEBPAD1002 |
 | LiteTEL | X20 | X20 | X20 |
+| LiteTEL | X30 | X30 | X30 |
 | Logic Instrument | FieldBook E1 | FieldBook_E1 | FieldBook_E1 |
 | Logic Instrument | Fieldbook F1 | lifbf1 | Logic Instrument Fieldbook F1 |
 | Logic Instrument | Fieldbook F53 | lifbf53 | Logic Instrument Fieldbook F53 |
@@ -11002,6 +11005,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | MTN Group | 5982C3 | MTN-TBW5982C3 | MTN-TBW5982C3 |
 | MTN Group | 8978P | MTN-8978P | MTN-8978P |
 | MTN Group | K919 | K919 | K919 |
+| MTN Group | KaChocolate | KaChocolate | KaChocolate |
 | MTN Group | MTN Sm@rt L840 | MTN-L840 | MTN Sm@rt L840 |
 | MTN Group | MTN Sm@rt L860 | MTN-L860 | MTN Sm@rt L860 |
 | MTN Group | MTN Sm@rt L860 | MTN-L860 | MTN-L860 |
@@ -11551,6 +11555,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Mintt | CoolMinttM2 | CoolMinttM2 | CoolMinttM2 |
 | Mintt | Coolmintt P2 | Coolmintt_P2 | Coolmintt_P2 |
 | Mintt | M1 | M1 | M1 |
+| Mintt | Mintt_Tab_T1 | Mintt_Tab_T1 | Mintt_Tab_T1 |
 | Mintt | UltraMinttX2 | UltraMinttX2 | UltraMinttX2 |
 | Mintt | Ultramintt R1 | Ultramintt_R1 | Ultramintt R1 |
 | Mio Tab | MioTab | MioTab2016 | MioTab 2016 |
@@ -12747,6 +12752,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nuvision | TM800A730M | TM800AM | TM800A730M |
 | Nuvision | TM800A740M | TM800AM | TM800A740M |
 | O\'NICE | O\'NICE I-TOUCH M1 | ONICE_I-TOUCH_M1 | i-touch M1 |
+| OASYS | OAS_9301 | OAS_9301 | OAS_9301 |
 | OASYS | TEG9300 | TEG9300 | TEG9300 |
 | ODYS | GOAL_10_PLUS_3G | GOAL_10_PLUS_3G | GOAL_10_PLUS_3G |
 | ODYS | MAVEN_X10_HD_LTE | MAVEN_X10_HD_LTE | MAVEN_X10_HD_LTE |
@@ -13641,6 +13647,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Pioneer | XDP-100R | Fu_Zin_32 | XDP-100R |
 | Pioneer | XDP-300R | Fu_Zin2R_32 | XDP-300R |
 | Pitney Bowes | SendPro C Series | TitanX2 | CSD-TXT2 |
+| Pixela | 4K SmartTuner | tennouji | PIX-SMB400 |
 | Pixela | KSTB5043 | KSTB5043 | KSTB5043 |
 | Pixela | PIX-SMB400 | tennouji | PIX-SMB400 |
 | Pixela | PIX_VP100 | kyobashi | PIX-VP100 |
@@ -13881,6 +13888,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Positivo BGH | BGH Y400 | Y400 | Y400 |
 | Positivo BGH | BGH Y700 | Y700 | Positivo BGH Y700 |
 | Positivo BGH | BGH Y710 kids | Y700 | Positivo BGH Y710 KIDS |
+| Positivo BGH | G1101T | MJA1031 | G1101T |
 | Positivo BGH | M840 | M840 | Positivo BGH M840 |
 | Positivo BGH | P718TAB | P718TAB | Positivo BGH P718TAB |
 | Positivo BGH | Positivo BGH +Simple | C805 | Positivo BGH +Simple |
@@ -17691,6 +17699,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Starlight | STAR_MIX | STAR_MIX | STAR_MIX |
 | Starlight | Safari | Safari | Safari |
 | Starlight | Star Two | star_two | star_two |
+| Starlight | Star-Plus7 | Star-Plus7 | Star-Plus7 |
 | Starlight | Star_Plus | Star_Plus | Star_Plus |
 | Starlight | Starplus 7 | STARPLUS7 | STARPLUS7 |
 | Starlight | UMI_G | UMI_G | UMI_G |
@@ -17844,9 +17853,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCL | Percee TV | tcl_eu | Percee TV |
 | TCL | Percee TV | tcl_eu | SANYO TV |
 | TCL | Percee TV | tcl_sa | Percee TV |
+| TCL | Smartphone | A5A_INFINI | 5086D |
+| TCL | Smartphone | A5A_INFINI | 5186D |
 | TCL | South America | tcl | Percee TV |
-| TCL | TCL | A5A_INFINI | 5086D |
-| TCL | TCL | A5A_INFINI | 5186D |
 | TCL | TCL C5 | A3A | 5152D |
 | TCL | TCL C7 | A3A_PLUS | 5158A |
 | TCL | TCL L5 | U3A_PLUS_4G | 5133A |
@@ -19200,6 +19209,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Telemor | T8408 | Telemor_T8408 | T8408 |
 | Telemor | T9501 | T9501 | T9501 |
 | Telemor | Telemor T9502 | T9502 | Telemor T9502 |
+| Telenor | Elite57 | Elite57 | Elite57 |
 | Telenor | Infinity K | Infinity_K | Infinity_K |
 | Telenor | Infinity a2 | b3680 | Infinity_a2 |
 | Telenor | Infinity e2 | i6379 | Infinity_e2 |
@@ -20337,6 +20347,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | X-TIGI | X-TIGI_V15 | X-TIGI_V15 | X-TIGI_V15 |
 | X-TIGI | X-TIGI_V18 Pro | X-TIGI_V18_Pro | X-TIGI_V18 Pro |
 | X-TIGI | X-TIGI_V33 | X-TIGI_V33 | X-TIGI_V33 |
+| X-TIGI | X-TIGI_V5 | X-TIGI_V5 | X-TIGI_V5 |
 | X-TIGI | X_TIGI_A1 | X_TIGI_A1 | X_TIGI_A1 |
 | X-TIGI | X_TIGI_A1Plus | X_TIGI_A1Plus | X_TIGI_A1Plus |
 | X-TIGI | X_TIGI_A2 | X_TIGI_A2 | X_TIGI_A2 |
