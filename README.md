@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 10.12.2018
+Last sync is 11.12.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1282,6 +1282,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Asus | ZenFone Max M1 (ZB555KL) | ASUS_X00P_6 | ASUS_X00PD |
 | Asus | ZenFone Max M1 (ZB555KL) | ASUS_X00P_8 | ASUS_X00PD |
 | Asus | ZenFone Max M1 (ZB555KL) | ASUS_X00P_8 | ZB555KL |
+| Asus | ZenFone Max M2 (ZB632KL/ZB633KL) | ASUS_X01A_1 | ASUS_X01AD |
+| Asus | ZenFone Max M2 (ZB632KL/ZB633KL) | ASUS_X01A_1 | ZB633KL |
 | Asus | ZenFone Max Plus M1 (ZB570TL) | ASUS_X018_1 | ASUS_X018D |
 | Asus | ZenFone Max Plus M1 (ZB570TL) | ASUS_X018_2 | ASUS_X018D |
 | Asus | ZenFone Max Plus M1 (ZB570TL) | ASUS_X018_4 | ASUS_X018D |
@@ -4455,6 +4457,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Google | Chromebook Pixel (2015) | samus_cheets | Google Chromebook Pixel (2015) |
 | Google | Chromebox | fizz_cheets | fizz |
 | Google | Emulator | generic_x86 | Android SDK built for x86 |
+| Google | Emulator | generic_x86_64 | Android SDK built for x86_64 |
 | Google | Galaxy S4 Google Play edition | jgedlte | GT-I9505G |
 | Google | Pixel | sailfish | Pixel |
 | Google | Pixel 2 | walleye | Pixel 2 |
@@ -10911,6 +10914,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lumigon | T2 | msm7630_fw8911 | T2 |
 | Lumigon | T2 HD | T2HD | T2HD |
 | Lumigon | T3 | Lumigon_T3 | Lumigon_T3 |
+| Lumitel | L9503 | L9503 | L9503 |
 | Lyf | LS-4004 | LS-4004 | LS-4004 |
 | Lyf | LS-4006 | LS-4006 | LYF_LS-4006 |
 | Lyf | LS-4503 | LS-4503 | LS-4503 |
@@ -12136,6 +12140,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Motorola Solutions | LEX F10 | LEXF10 | LEX F10 |
 | Motorola Solutions | LEX L10g | lexl10g | LEX L10g |
 | Motorola Solutions | LEX L10ig | lexl10ig | LEX L10ig |
+| Motorola Solutions | LEX L11 | lexl11g_64 | LEX L11 |
 | Motorola Solutions | TC55 | TC55 | TC55 |
 | Motorola Solutions | TC55CH | TC55CH | TC55CH |
 | Movado | Boss Touch / TH 24/7 YOU | weever | BOSS Touch |
@@ -13171,6 +13176,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Orbic | Wonder | RC555L | RC555L |
 | Oukitel | C10 | C10 | C10 |
 | Oukitel | C11 Pro | C11_Pro | C11_Pro |
+| Oukitel | C11 S | C11_S | C11_S |
 | Oukitel | C12 Plus | C12_Plus | C12 Plus |
 | Oukitel | C12 Pro | C12_Pro | C12 Pro |
 | Oukitel | C6 Pro | C6_Pro | C6 Pro |
@@ -16301,6 +16307,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab S 8.4 | klimtwifi | SM-T700 |
 | Samsung | Galaxy Tab S2 | gts210lte | SM-T815 |
 | Samsung | Galaxy Tab S2 | gts210lte | SM-T815C |
+| Samsung | Galaxy Tab S2 | gts210lte | SM-T815Y |
 | Samsung | Galaxy Tab S2 | gts210velte | SM-T819 |
 | Samsung | Galaxy Tab S2 | gts210veltechn | SM-T819C |
 | Samsung | Galaxy Tab S2 | gts210vewifi | SM-T813 |
@@ -16319,7 +16326,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab S2 8.0 | gts28wifi | SM-T710 |
 | Samsung | Galaxy Tab S2 8.0 | gts28wifi | SM-T710X |
 | Samsung | Galaxy Tab S2 8.0 | gts28wifichn | SM-T710 |
-| Samsung | Galaxy Tab S2 9.7 | gts210lte | SM-T815Y |
 | Samsung | Galaxy Tab S2 9.7 | gts210lte | SM-T817 |
 | Samsung | Galaxy Tab S2 9.7 | gts210lteatt | SAMSUNG-SM-T817A |
 | Samsung | Galaxy Tab S2 9.7 | gts210ltecan | SM-T817W |
