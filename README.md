@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 13.12.2018
+Last sync is 14.12.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2558,6 +2558,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Condor | Griffe G5 Plus | PAM524 | PAM524 |
 | Condor | Griffe T1 | Griffe_T1 | SP413 |
 | Condor | Griffe T3 | SP414 | Griffe T3 |
+| Condor | Griffe T4 | SP531 | SP531 |
 | Condor | Griffe T6 | Griffe_T6 | Griffe T6 |
 | Condor | HS-U939 | u939e_6 | HS-U939 |
 | Condor | PGN404 | PGN404 | PGN404 |
@@ -2894,6 +2895,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DBM Maroc | Pearl A2 | PEARL_A2 | PEARL_A2 |
 | DBM Maroc | Speed X2 | Speed-X2 | Speed-X2 |
 | DEA Factory | KTAB | KTAB | KTAB |
+| DEXP | A150 | A150 | A150 |
 | DEXP | AL140 | AL140 | AL140 |
 | DEXP | AS160 | AS160 | AS160 |
 | DEXP | AS260 | AS260 | AS260 |
@@ -2901,6 +2903,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DEXP | B155 | B155 | B155 |
 | DEXP | B245 | B245 | B245 |
 | DEXP | B350 | B350 | B350 |
+| DEXP | B355 | B355 | B355 |
 | DEXP | B450 | B450 | B450 |
 | DEXP | BL150 | BL150 | BL150 |
 | DEXP | BL250 | BL250 | BL250 |
@@ -2915,6 +2918,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DEXP | DEXP Ixion X150 | Ixion_X150 | Ixion X150 |
 | DEXP | DEXP Ixion_ES1050 | ES1050 | DEXP_ES1050 |
 | DEXP | DEXP M110 | M110 | M110 |
+| DEXP | DEXP M210 | M210 | M210 |
 | DEXP | DEXP P170 | P170 | P170 |
 | DEXP | DEXP S110 | S110 | S110 |
 | DEXP | DEXP Ursus N169 | N169 | N169 |
@@ -3018,6 +3022,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Danew | Surnaturel_R500 | Surnaturel_R500 | Surnaturel_R500 |
 | Danew | konnect 601 | Konnect_601 | Konnect_601 |
 | Datalogic | Datalogic MEMOR 10 | dl35 | MEMOR 10 |
+| Datalogic | MEMOR 1 | M1_HANDHELD | Memor 1 |
 | Datamini | K508101 | K508101 | K508101 |
 | Datsun | D5000 | D5000 | D5000 |
 | Datsun | D6000 | D6000 | D6000 |
@@ -6091,6 +6096,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Honeywell | CN80 | CN80-L0-N | CN80 |
 | Honeywell | CN80 | CN80-L1-C | CN80 |
 | Honeywell | CN80 | CN80-L1-N | CN80 |
+| Honeywell | CN85 | CN85-L1-C | CN85 |
 | Honeywell | CT40 | CT40-L0-C | CT40 |
 | Honeywell | CT40 | CT40-L1-C | CT40 |
 | Honeywell | CT50 | CT50L0N-CS12S | CT50 |
@@ -6118,9 +6124,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Honeywell | EDA50K | eda50k-0 | EDA50K |
 | Honeywell | EDA50K | eda50k-1 | EDA50K |
 | Honeywell | EDA50K | eda50k-1 | Glory EDA50K |
+| Honeywell | EDA51 | EDA51-0 | EDA51 |
+| Honeywell | EDA51 | EDA51-1 | EDA51 |
 | Honeywell | EDA70 | eda70-0 | EDA70 |
 | Honeywell | EDA70 | eda70-3 | EDA70 |
 | Honeywell | EdA50 | eda50-211 | EDA50 |
+| Honeywell | VM1A | VM1A-L0-N | VM1A |
+| Honeywell | VM1A | VM1A-L0-P | VM1A |
 | Hoozo | MR7863 | MR7863 | MR7863 |
 | Hot Pepper | H5 | H5 | H5 |
 | Hot Pepper | VLE5 | VLE5 | VLE5 |
@@ -8483,6 +8493,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Kogan | Agora 6 Plus | Kogan_Agora_6Plus | Kogan Agora 6Plus |
 | Kogan | Kogan Agora 8 Plus | Agora_8_Plus | Agora 8 Plus |
 | Kogan | Kogan Agora 9 | Kogan_Agora_9 | Kogan Agora 9 |
+| Kogan | Kogan Agora XS | Kogan_Agora_XS | Agora XS |
 | Komu | K22 | K22 | K22 |
 | Konrow | CITY | CITY | CITY |
 | Konrow | KONROW | KONROW_701X | KONROW_701X |
@@ -12939,6 +12950,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oppo | A59st | A59 | OPPO A59st |
 | Oppo | A59t | A59 | OPPO A59t |
 | Oppo | A59tm | A59 | OPPO A59tm |
+| Oppo | A7 | CPH1901 | CPH1901 |
+| Oppo | A7 | CPH1905 | CPH1905 |
 | Oppo | A7 | PBFM00 | PBFM00 |
 | Oppo | A7 | PBFT00 | PBFT00 |
 | Oppo | A73 | A73 | OPPO A73 |
@@ -12958,7 +12971,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oppo | A83 | A83 | OPPO A83 |
 | Oppo | A83t | A83t | OPPO A83t |
 | Oppo | AX7 | CPH1903 | CPH1903 |
-| Oppo | AX7 | CPH1905 | CPH1905 |
 | Oppo | CHP1705 | CPH1705 | CPH1705fw |
 | Oppo | CPH1605 | CPH1605 | CPH1605 |
 | Oppo | CPH1605 | CPH1605 | OPPO CPH1605 |
@@ -13046,7 +13058,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oppo | R15x | PBCM10 | PBCM10 |
 | Oppo | R15x | PBCT10 | PBCT10 |
 | Oppo | R17 | CPH1879 | CPH1879 |
-| Oppo | R17 | CPH1901 | CPH1901 |
 | Oppo | R17 | PBEM00 | PBEM00 |
 | Oppo | R17 | PBET00 | PBET00 |
 | Oppo | R17 Pro | CPH1877 | CPH1877 |
@@ -17109,7 +17120,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sky Devices | ELITE T57 | Elite_T57_GT | Elite T57 |
 | Sky Devices | Elite 5T | Elite_5T_GT | Elite 5T |
 | Sky Devices | Elite A55 | Elite_A55 | Elite_A55 |
+| Sky Devices | Elite M45 | Elite_M45 | Elite M45 |
 | Sky Devices | Elite M5Plus | Elite_M5Plus | Elite M5Plus |
+| Sky Devices | Elite M5Plus | Elite_M5Plus_SAL | Elite M5Plus |
 | Sky Devices | Fuego 4.0T | Fuego_4_0T_EC | Fuego 4.0T |
 | Sky Devices | PLATINUM 4.0 | Platinum_40 | Platinum 4.0 |
 | Sky Devices | PLATINUM 4.0 | Platinum_4_0 | Platinum 4.0 |
@@ -17753,6 +17766,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Starlight | C_Note | C_Note | C_Note |
 | Starlight | Future | Future | Future |
 | Starlight | I STAR PLUS | I_STAR_PLUS | I_STAR_PLUS |
+| Starlight | I star two | I_star_two | I star two |
 | Starlight | I_Star_Plus | I_Star_Plus | I_Star_Plus |
 | Starlight | Madrid | Madrid | Madrid |
 | Starlight | RIO STAR | RIO_STAR | RIO STAR |
@@ -19245,6 +19259,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | i7 | TECNO-i7 | TECNO i7 |
 | Teeno | TEENO S9 | TEENO_S9 | TEENO_S9 |
 | Teesso | X2 | X2 | X2 |
+| Teesso | X3 | Teesso_X3 | Teesso X3 |
 | Teknosa | Preo P2 | Preo_P2 | Preo_P2 |
 | Tekwind | A10A | A10A | A10A |
 | Tekwind | Clide A10B | A10B | A10B |
@@ -19342,6 +19357,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Timmy | M40_plus | M40_plus | M40_plus |
 | Timmy | M40_pro | M40_pro | M40_pro |
 | Timmy | M68_Plus | M68_Plus | M68_Plus |
+| Timor Telecom | V500 | V500 | V500 |
 | Timovi | Epix | Epix | Epix |
 | Timovi | Infinit Lite 2 | Timovi_Infinit_Lite_2 | Infinit_Lite_2 |
 | Timovi | Infinit MX Pro | Infinit_MX_Pro | Infinit MX Pro |
@@ -19675,6 +19691,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vertex | Impress_Funk | Impress_Funk | Impress_Funk |
 | Vertex | Impress_Game | Impress_Game | Impress_Game |
 | Vertex | Impress_Lagune | Impress_Lagune | Impress_Lagune |
+| Vertex | Impress_Luck4G_NFC | Impress_Luck4G_NFC | Impress_Luck4G_NFC |
 | Vertex | Impress_Nero | Impress_Nero | Impress_Nero |
 | Vertex | Impress_New | Impress_New | Impress_New |
 | Vertex | Impress_Pear | Impress_Pear | Impress_Pear |
@@ -20419,6 +20436,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | X-TIGI | V28 | V28 | X-TIGI_V28 |
 | X-TIGI | V3+ | X-TIGI_V3_Plus | X-TIGI_V3+ |
 | X-TIGI | X-TIGI P16 | Photo_P16 | X_TIGI_Photo P16 |
+| X-TIGI | X-TIGI V19 | X_TIGI_V19 | X_TIGI_V19 |
 | X-TIGI | X-TIGI_JOY7_MAX | X-TIGI_JOY7_MAX | X-TIGI_JOY7_MAX |
 | X-TIGI | X-TIGI_V11 | X-TIGI_V11 | X-TIGI_V11 |
 | X-TIGI | X-TIGI_V13 | X-TIGI_V13 | X-TIGI_V13 |
@@ -20429,6 +20447,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | X-TIGI | X_TIGI_A1 | X_TIGI_A1 | X_TIGI_A1 |
 | X-TIGI | X_TIGI_A1Plus | X_TIGI_A1Plus | X_TIGI_A1Plus |
 | X-TIGI | X_TIGI_A2 | X_TIGI_A2 | X_TIGI_A2 |
+| X-TIGI | X_TIGI_Photo P20 | X_TIGI_Photo_P20 | X_TIGI_Photo P20 |
 | X-TIGI | X_TIGI_V16 | X_TIGI_V16 | X_TIGI_V16 |
 | X-View | AMBER_KIDS | AMBER_KIDS | AMBER_KIDS |
 | X-View | PROTON_AMBER_HD | Proton_Amber_HD | Proton_Amber_HD |
