@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 14.12.2018
+Last sync is 15.12.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -26,6 +26,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ACE France | BUZZ_1_Lite | BUZZ_1_Lite | BUZZ 1 Lite |
 | ACE France | BUZZ_1_Plus | BUZZ_1_Plus | BUZZ 1 Plus |
 | ACE France | URBAN 1 | URBAN_1 | URBAN 1 |
+| ACT | ACT4K1007 | IPBox | ACT4K1007 |
 | AG Mobile | AG BOOST 2 | BOOST2 | E4010 |
 | AG Mobile | AG Flair | AG_Flair | Flair |
 | AG Mobile | AG Go Tab Access 2 | AG_Go_Tab_Access_2 | AG_Go_Tab_Access_2 |
@@ -1776,6 +1777,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Bittium | Air-Lynx ALS14000 | granite | Bittium Tough Mobile |
 | Bittium | Mx Smart | adakite_sm | Mx Smart |
 | Bittium | Tough Mobile | granite | Bittium Tough Mobile |
+| Black Bear | B6_Note_X | B6_Note_X | B6 Note X |
 | BlackBerry | Aurora | bbc100 | BBC100-1 |
 | BlackBerry | BlackBerry Evolve | bbg100 | BBG100-1 |
 | BlackBerry | BlackBerry KEY2 | bbf100 | BBF100-1 |
@@ -2110,6 +2112,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Bouygues Telecom | Bs 451 | Bs_451 | Bs 451 |
 | Brandcode | L1Fa | L1Fa | L1Fa |
 | Brandcode | L1f-pluss | L1f_pluss | L1f-pluss |
+| Brandcode | L5F_pro | L5F_pro | L5F_pro |
 | Brandt | BPRIME | BPRIME | BPRIME |
 | Brandt | BSTAR | BSTAR | BSTAR |
 | Brandt | BSTAR+ | BSTAR_PLUS | BSTAR+ |
@@ -3023,6 +3026,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Danew | konnect 601 | Konnect_601 | Konnect_601 |
 | Datalogic | Datalogic MEMOR 10 | dl35 | MEMOR 10 |
 | Datalogic | MEMOR 1 | M1_HANDHELD | Memor 1 |
+| Datalogic | MEMOR 1 | M1_PISTOL | Memor 1 |
 | Datamini | K508101 | K508101 | K508101 |
 | Datsun | D5000 | D5000 | D5000 |
 | Datsun | D6000 | D6000 | D6000 |
@@ -6098,6 +6102,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Honeywell | CN80 | CN80-L1-N | CN80 |
 | Honeywell | CN85 | CN85-L1-C | CN85 |
 | Honeywell | CT40 | CT40-L0-C | CT40 |
+| Honeywell | CT40 | CT40-L0-CA | CT40 |
 | Honeywell | CT40 | CT40-L1-C | CT40 |
 | Honeywell | CT50 | CT50L0N-CS12S | CT50 |
 | Honeywell | CT50 | CT50L0N-CS15S | CT50 |
@@ -7603,6 +7608,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hyundai | A25563L | A25563L | A25563L |
 | Hyundai | A26062L | A26062L | A26062L |
 | Hyundai | A26062k | A26062K | A26062K |
+| Hyundai | Blade_C6 | Blade_C6 | Blade_C6 |
+| Hyundai | Blade_C7 | Blade_C7 | Blade_C7 |
 | Hyundai | CAR AVN SYSTEM | koecn | TCC893X_EVM |
 | Hyundai | E435 Plus | E435_Plus | E435 Plus |
 | Hyundai | E456GO | E465GO | E465GO |
@@ -8089,6 +8096,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Irbis | TZ183 | TZ183 | TZ183 |
 | Irbis | TZ184 | TZ184 | TZ184 |
 | Irbis | TZ195 | TZ195 | TZ195 |
+| Irbis | TZ197 | TZ197 | TZ197 |
 | Irbis | TZ55 | TZ55 | TZ55 |
 | Irbis | TZ714 | TZ714 | TZ714 |
 | Irbis | TZ716 | TZ716 | TZ716 |
@@ -8114,6 +8122,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Irbis | TZ885 | TZ885 | TZ885 |
 | Irbis | TZ890 | TZ890 | TZ890 |
 | Irbis | TZ892 | TZ892 | TZ892 |
+| Irbis | TZ897 | TZ897 | TZ897 |
 | Irbis | TZ960 | TZ960 | TZ960 |
 | Irbis | TZ961 | TZ961 | TZ961 |
 | Irbis | TZ962 | TZ962 | TZ962 |
@@ -16884,6 +16893,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp | AQUOS sense2 SH-01L | SH-01L | SH-01L |
 | Sharp | AQUOS sense2 SHV43 | MZW | SHV43 |
 | Sharp | AQUOS sense2 SHV43 | MZW-u | SHV43-u |
+| Sharp | AQUOS zero | SG801SH | 801SH |
 | Sharp | AQUOS \xe3\x82\xb1\xe3\x83\xbc\xe3\x82\xbf\xe3\x82\xa4 SH-06G | SH-06G | SH-06G |
 | Sharp | Android One S1 | kaleido_sprout | S1 |
 | Sharp | B10 | SH-A01 | SH-A01 |
@@ -16998,6 +17008,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp | RW107 | RW107 | RW107 |
 | Sharp | RZ-E302 | rk3188_10P_A | RZ-E302 |
 | Sharp | S3 | rome_sprout | S3-SH |
+| Sharp | S5 | zeon_sprout | S5-SH |
 | Sharp | SBM204SH | SBM204SH | SBM204SH |
 | Sharp | SC-S01 | scallop | SC-S01 |
 | Sharp | SH-01E Vivienne Westwood | SH01EVW | SH-01EVW |
@@ -22123,6 +22134,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | bq | Edison 3 | Edison_3 | Edison 3 |
 | bq | Edison 3 3G | Edison_3_3G | Edison 3 3G |
 | bq | Edison_3_mini | Edison_3_mini | Edison 3 mini |
+| bq | Joy 1 | PQ4001 | Joy 1 |
 | bq | M8 | Aquaris_M8 | Aquaris M8 |
 | dazen | dazen 6A | dazen_6A | dazen 6A |
 | dazen | dazen 6E | dazen_6E | dazen 6E |
