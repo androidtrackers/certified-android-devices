@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 15.12.2018
+Last sync is 16.12.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2033,6 +2033,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blu | Studio Pro | S750 | Studio Pro |
 | Blu | Studio Selfie LTE | BLU_STUDIO_SELFIE_LTE | BLU STUDIO SELFIE LTE |
 | Blu | Studio View | S810 | Studio View |
+| Blu | Studio View | S812P | Studio View |
 | Blu | Studio View XL | S790Q | Studio View XL |
 | Blu | Studio X Mini | BLU_STUDIO_X_MINI | BLU STUDIO X MINI |
 | Blu | Studio_J8M | S0450WW | Studio J8M |
@@ -19893,6 +19894,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vivax | Point_X2 | Point_X2 | Point_X2 |
 | Vivax | TPC_8043G | TPC_8043G | TPC_8043G |
 | Vivax | VIVAX_Fly_V1 | VIVAX_Fly_V1 | VIVAX_Fly_V1 |
+| Vivax | VIVAX_PRO3 | VIVAX_PRO3 | VIVAX_PRO3 |
 | Vivo | 1601 | 1601 | vivo 1601 |
 | Vivo | 1601 | 1601 | vivo 1713 |
 | Vivo | 1609 | 1609 | vivo 1609 |
@@ -22166,6 +22168,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iBRIT | Alpha_Plus | Alpha_Plus | Alpha_Plus |
 | iBRIT | IBRIT_I5 | i5 | IBRIT_I5 |
 | iBRIT | IBRIT_I7 | i7 | IBRIT_I7 |
+| iBRIT | IBRIT_POWER6 | iBRIT_POWER6 | iBRIT_POWER6 |
 | iBRIT | MAX7 | MAX7 | MAX7 |
 | iBRIT | Speed_Pro_Plus | SF56 | SF56 |
 | iBRIT | XL | XL | XL |
@@ -22223,6 +22226,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iGet | SMART_L102 | iGET_SMART_L102 | SMART_L102 |
 | iHunt | Alien X | Alien_X | Alien_X |
 | iHunt | Like 4U | Like_4U | Like_4U |
+| iHunt | S10_Tank_2019 | S10_Tank_2019 | S10_Tank_2019 |
+| iHunt | S60_Discovery_2019 | S60_Discovery_2019 | S60_Discovery_2019 |
 | iHunt | TITAN P11000 PRO | TITAN_P11000_PRO | TITAN_P11000_PRO |
 | iHunt | TitanP6000 | TitanP6000 | TitanP6000 |
 | iLa Mobile | D1 | D1 | D1 |
