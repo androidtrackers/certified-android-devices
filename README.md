@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 16.12.2018
+Last sync is 17.12.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13013,6 +13013,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oppo | CPH1861 | CPH1861 | CPH1861 |
 | Oppo | CPH1893 | CPH1893 | CPH1893 |
 | Oppo | CPH1893RU | CPH1893 | CPH1893 |
+| Oppo | CPH1903 | CPH1903 | CPH1903 |
 | Oppo | F1f | F1f | F1f |
 | Oppo | F1f | F1f | F1fw |
 | Oppo | F1f | F1f | F1w |
@@ -19828,6 +19829,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vestel | Venus V3 5580 | Orsa | Venus_V3_5580 |
 | Vestel | Venus V5 | Teos | Venus V5 |
 | Vestel | Venus Z10 | Reys | Venus Z10 |
+| Vestel | Venus Z30 | Troia | Venus Z30 |
 | Vestel | Venus_V3_5040_2GB | Venus_V3_5045 | Venus_V3_5040_2GB |
 | Vestel | Venus_V4 | V4 | Venus_V4 |
 | Vestel | Vestel Z20 | Cunda | Venus Z20 |
