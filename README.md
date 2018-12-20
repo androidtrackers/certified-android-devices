@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 19.12.2018
+Last sync is 20.12.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -441,6 +441,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | AllView | E3 Sign | E3_Sign | E3_Sign |
 | AllView | E4 | E4 | E4 |
 | AllView | E4 Lite | E4_Lite | E4_Lite |
+| AllView | P10 Life | P10_Life | P10_Life |
+| AllView | P10 Pro | P10_Pro | P10_Pro |
 | AllView | P10_Style | P10_Style | P10_Style |
 | AllView | P4 Pro | P4_Pro | P4_Pro |
 | AllView | P4 Quad | P4_Quad | P4_Quad |
@@ -1830,6 +1832,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blackfox | BMM543D | BMM543D | BMM543D |
 | Blackfox | BMM_533D | BMM_533D | BMM_533D |
 | Blackshark | Shark | shark | SKR-H0 |
+| Blackshark | Shark 1S | bullhead | AWM-A0 |
 | Blacksonic | BS7 | BS7 | BS7 |
 | Blacksonic | BS7-3G | BS7-3G | BS7-3G |
 | Blacksonic | BS7-BUTTERFLY | BS7-BUTTERFLY | BS7-BUTTERFLY |
@@ -2124,6 +2127,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Brandcode | L1Fa | L1Fa | L1Fa |
 | Brandcode | L1f-pluss | L1f_pluss | L1f-pluss |
 | Brandcode | L5F_pro | L5F_pro | L5F_pro |
+| Brandt | B-ONE | B-ONE | B-ONE |
 | Brandt | BPRIME | BPRIME | BPRIME |
 | Brandt | BSTAR | BSTAR | BSTAR |
 | Brandt | BSTAR+ | BSTAR_PLUS | BSTAR+ |
@@ -2149,6 +2153,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Brondi | 730 4G HD | Brondi_730_4G_HD | Brondi_730_4G_HD |
 | Brown | Brown2 | I9080_PH1 | brown 2 |
 | Brown | brown tab1 | brown_tab1 | brown tab1 |
+| Bubblegum | B1Teen | B1Teen | B1Teen |
 | Bubblegum | Bubblegum | Bubblegum | Bubblegum |
 | Bullitt Group | Cat S60 | CatS60 | S60 |
 | Bullitt Group | CatS31 | CatS31 | S31 |
@@ -3116,6 +3121,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Denver Electronics | TAQ_10G | TAQ_10G | TAQ_10G |
 | Denver Electronics | TIQ-102 | TIQ102 | TIQ-102 |
 | Denver Electronics | TIQ-104 | TIQ104 | TIQ-104 |
+| DiMora Mobile | InnoV8_PRO | InnoV8_PRO | InnoV8_PRO |
 | Dialog Blaze | 5701A | 5701A | 5701A |
 | Dialog Blaze | Dialog_Blaze_Mini | Dialog_Blaze_Mini | Dialog_Blaze_Mini |
 | Dialog Blaze | M50E-1A | M50E-1A | M50E-1A |
@@ -4585,6 +4591,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | HOMTOM | S8 | S8 | S8 |
 | HOMTOM | S9 Plus | S9_Plus | S9_Plus |
 | HOMTOM | S99 | S99 | S99 |
+| HOMTOM | S99i | S99i | S99i |
 | HOMTOM | Z8 | Z8 | Z8 |
 | HP | 10 | spruce | HP 10 |
 | HP | 10 Plus | torsa | HP 10 Plus |
@@ -5452,6 +5459,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hamlet | XZPAD412LTE | XZPAD412LTE | XZPAD412LTE |
 | Handheld Group | Algiz RT7 | algizRT7 | Algiz RT7 |
 | Handheld Group | HandHeld NAUTIZ X2 | NAUTIZ_X2 | NAUTIZ_X2 |
+| Handheld Group | NAUTIZ X6 | NAUTIZ_X6 | NAUTIZ_X6 |
 | Handheld Group | Nautiz_X2 | NAUTIZ_X2 | NAUTIZ_X2 |
 | Handheld Group | Nautiz_X9 | Nautiz_X9 | Nautiz_X9 |
 | HannSpree | HSG1279 | HANNSpad | HSG1279 |
@@ -5489,6 +5497,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | HighScreen | Power Ice EVO | PowerIceEvo | Power Ice Evo |
 | HighScreen | Power Rage | PowerRage | Power Rage |
 | HighScreen | PowerFiveMax2 | PowerFiveMax2 | PowerFiveMax2 |
+| HighScreen | PowerFiveMaxLite | PowerFiveMaxLite | PowerFiveMaxLite |
 | HighScreen | PowerIceMax | PowerIceMax | Power Ice Max |
 | HighScreen | PowerRageEvo | PowerRageEvo | Power Rage Evo |
 | HighScreen | Prime L | PrimeL | Prime L |
@@ -7723,6 +7732,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | INQ Mobile |  | camden | INQ Cloud Touch |
 | INQ Mobile |  | camden | INQ Cloud Touch -parrot |
 | INQ Mobile |  | msm7627_surf | INQ Mayfair (EU) |
+| INSYS | IH8-S559 | IH8-S559 | IH8-S559 |
 | ION ELECTRONICS | Gravity | Gravity | Gravity |
 | ION ELECTRONICS | Kids | Kids | Kids |
 | ION ELECTRONICS | Orbit | Orbit | Orbit |
@@ -11033,6 +11043,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | M-Horse | Pure 3 | Pure_3 | Pure 3 |
 | M-tech | Eros Power | EROS_Power | EROS Power |
 | M-tech | Eros_Star | Eros_Star | Eros_Star |
+| M3 Mobile | M3 SM15N | M3SM15N | M3SM15N |
+| M3 Mobile | M3 SM15X | M3SM15X | M3SM15X |
 | M4tel | M4 B1 | M4_B1 | M4_B1 |
 | M4tel | M4 B2 | M4_B2 | M4_B2 |
 | M4tel | M4 B3 | M4_B3 | M4_B3 |
@@ -13356,8 +13368,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | PT mobile | P10 | P10 | P10 |
 | Packard Bell | PB1009 | PB1009 | PB1009 |
 | Packard Bell | T1000 | T1000 | T1000 |
-| Palm | Palm | Pepito | PVG100 |
-| Palm | Palm | Pepito | PVG100E |
+| Palm | PVG100 | Pepito | PVG100 |
+| Palm | PVG100E | Pepito | PVG100E |
 | Panasonic |  | H580VT_A | JT-H580VT |
 | Panasonic |  | H581VT_A | JT-H581VT |
 | Panasonic |  | P-08D | P-08D |
@@ -13819,6 +13831,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Point Mobile | PM66 | pm66 | PM66 |
 | Point Mobile | PM70 | pm70 | PM70 |
 | Point Mobile | PM80 | pm80 | PM80 |
+| Pokini | K6 | K6 | K6 |
 | Polar | M600 | pike | Polar M600 |
 | Polaris | Condroid_X7 | polaris-Condroid_X7 | Condroid_X7 |
 | Polaroid | A/S10 | wing-AS10 | A/S10 |
@@ -14016,6 +14029,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Premio | 186FT1080231 | 186FT1080231 | 186FT1080231 |
 | Premio | 186HS1050232 | 186HS1050232 | 186HS1050232 |
 | Premio | 186HS1050531 | 186HS1050531 | 186HS1050531 |
+| Premio | 186HS1080233 | 186HS1080233 | P570 |
 | Premio | 187HT1020331 | 187HT1020331 | P710 |
 | Premio | Axe | HMR5510 | Axe |
 | Premio | P490 | P490 | P490 |
@@ -14356,6 +14370,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | QMobile | i8i PRO | i8i_PRO | QMobile i8i PRO |
 | QMobile | i8i_Pro_\xe2\x85\xa1 | i8i_Pro_II | QMobile i8i Pro II |
 | QOOQ | QOOQV3 | QOOQ | QOOQ |
+| QUBO | MINERVA | MINERVA | MINERVA |
 | Qilive | Q.3778 | Q3778 | Q.3778 |
 | Qilive | Q10S55IN4G | Q10S55IN4G | Q10S55IN4G |
 | Qilive | Q10S55IN4G2 | Q10S55IN4G2 | Q10S55IN4G2 |
@@ -14476,6 +14491,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ROKiT | IO Light | Chinchilla | IO Light |
 | ROKiT | IO Pro | Emu | IO Pro |
 | RT Project | Wide | Wide | Wide |
+| Radger | IMP-F01K | IMP-F01K | IMP-F01K |
 | Rainbow | WIKO | s5501 | RAINBOW |
 | Ratel | Cell | Cell | CELL |
 | Rayan | AM_TAB_7_03 | AMAA703 | AMA_A703 |
@@ -18611,6 +18627,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Alcatel 3 | Dive_73 | Orange Dive 73 |
 | TCT (Alcatel) | Alcatel 3L | A3A_LITE | 5034D |
 | TCT (Alcatel) | Alcatel 3L | A3A_LITE | 5034D_RU |
+| TCT (Alcatel) | Alcatel 3L | A3A_LITE | HEYOU5 |
 | TCT (Alcatel) | Alcatel 3T 8 | A3A_8_4G | 9027F |
 | TCT (Alcatel) | Alcatel 3T 8 | A3A_8_4G | 9027Q |
 | TCT (Alcatel) | Alcatel 3T 8 | A3A_8_4G | 9027T |
@@ -19626,6 +19643,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Umax | VisionBook P55 X2 LTE | VisionBook_P55_X2_LTE | VisionBook P55 X2 LTE |
 | Umax | VisionBook10Q | VB_10Q_Plus | VB_10Q_Plus |
 | Umax | VisionBook_P55_LTE_Pro | VisionBook_P55_LTE_Pro | VisionBook P55 LTE Pro |
+| Umidigi | A3 | A3 | A3 |
+| Umidigi | A3_Pro | A3_Pro | A3_Pro |
 | Umidigi | One | One | One |
 | Umidigi | One Pro | One_Pro | One Pro |
 | Umidigi | S2PRO | S2_PRO | S2_PRO |
@@ -19644,6 +19663,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Unihertz | Atom | Atom | Atom |
 | Unistrong | UT12 | UT12 | UT12 |
 | Unistrong | UT30 | UT30 | UT30 |
+| Unitech | EA500Plus | EA500Plus | EA500Plus |
 | United Group | KSTB6020 | KSTB6020 | KSTB6020 |
 | Unnecto | U4560 | U4560 | U4560 |
 | Unnion Technologies | UNSP7 | UNSP7 | UNSP7 |
@@ -22159,6 +22179,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | aoson | R103 | R103 | R103 |
 | aoson | aoson | M815 | M815 |
 | bq | Active 1 | PQ6001 | Active 1 |
+| bq | Active 1 + | PQ6002 | Active 1+ |
 | bq | Aquaris A4.5 | Aquaris_A45_sprout | Aquaris A4.5 |
 | bq | Aquaris A4.5 | Aquaris_A45_sprout | Aquaris_A4.5 |
 | bq | Aquaris C | jeice | Aquaris C |
@@ -22236,6 +22257,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iBRIT | IBRIT_POWER6 | iBRIT_POWER6 | iBRIT_POWER6 |
 | iBRIT | MAX7 | MAX7 | MAX7 |
 | iBRIT | Speed_Pro_Plus | SF56 | SF56 |
+| iBRIT | VEGA | VEGA | VEGA |
 | iBRIT | XL | XL | XL |
 | iBRIT | Z2 | Z2 | Z2 |
 | iBRIT | Z2Lite | Z2Lite | Z2Lite |
