@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 20.12.2018
+Last sync is 21.12.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -170,6 +170,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Acer | Chromebook 15 (CB3-532) | banon_cheets | Acer Chromebook 15 (CB3-532) |
 | Acer | Chromebook 15 (CB5-571) | yuna_cheets | Acer Chromebook 15 (C910 / CB5-571) |
 | Acer | Chromebook 15 (CB5-571) | yuna_cheets | Acer Chromebook 15 (CB5-571) |
+| Acer | Chromebook 15 CB515-1HT/1H | sand_cheets | Chromebook 15 (CB515 - 1HT / 1H) |
 | Acer | Chromebook 15 CB515-1HT/1H | sand_cheets | Chromebook 15 CB515-1HT/1H |
 | Acer | Chromebook 15 CB515-1HT/1H | sand_cheets | sand |
 | Acer | Chromebook R11 (C738T) | cyan_cheets | Acer Chromebook R11 |
@@ -411,6 +412,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | AllCall | AllCall_S1 | AllCall_S1 | AllCall_S1 |
 | AllCall | AllCall_S1_X | AllCall_S1_X | AllCall_S1_X |
 | AllCall | MIX2 | MIX2 | MIX2 |
+| AllCall | S5500 | S5500 | S5500 |
 | AllCall | Tab_1_3G | Tab_1_3G | Tab_1_3G |
 | AllCall | Tab_2_3G | Tab_2_3G | Tab_2_3G |
 | AllView | A10 Lite | A10_Lite | A10_Lite |
@@ -1847,6 +1849,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blackview | A9 Pro | A9_Pro | A9_Pro |
 | Blackview | BV4000 | BV4000 | BV4000 |
 | Blackview | BV4000Pro_RU | BV4000Pro | BV4000Pro-RU |
+| Blackview | BV5500 | BV5500 | BV5500 |
 | Blackview | BV5800 | BV5800 | BV5800 |
 | Blackview | BV5800PRO | BV5800_PRO | BV5800 PRO |
 | Blackview | BV5800PRO_RU | BV5800Pro_RU | BV5800Pro_RU |
@@ -2065,6 +2068,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blu | Vivo 5 Mini | Vivo_5_Mini | Vivo 5 Mini |
 | Blu | Vivo 8 | V0150UU | Vivo 8 |
 | Blu | Vivo ONE | V0270WW | Vivo ONE |
+| Blu | Vivo One Plus 2019 | V0370WW | Vivo One Plus 2019 |
 | Blu | Vivo S | V0160WW | Vivo S |
 | Blu | Vivo X | V0230WW | Vivo X |
 | Blu | Vivo X WW | V0230WW | Vivo X |
@@ -2350,6 +2354,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | CenturyLink | PureTV | ctl_iptv_mrvl | CTLPlayer |
 | CenturyLink | PureTV | ctl_iptv_mrvl | S60CLI |
 | Changhong | GIU6060 | GIU6060 | GIU6060 |
+| Changhong | GIU6860 | GIU6860 | GIU6860 |
 | Channel Master | Stream+ | dwt765cha | CM-7600 |
 | Chemist Warehouse | JR-MB603 | JR_MB603 | JR_MB603 |
 | Cherry Mobile | Cherry W900 LTE | al7 | W900 LTE |
@@ -3093,6 +3098,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Dell | Venue 8 | yellowtail | Venue 8 HSPA+ |
 | Delm | D1018 | D1018 | D1018 |
 | Delm | D718 | D718 | D718 |
+| Den Networks | GL7220 | GK7661C | GL7220 |
 | Denali | DT0702W08 | DT0702W08 | DT0702W08 |
 | Denali | DT0704K08 | DT0704K08 | DT0704K08 |
 | Denali | ETAB3 | DT0706W08 | ETAB3 |
@@ -9009,6 +9015,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | LG AKA | aka | LG-H788TR |
 | LGE | LG AKA | aka | LG-H788n |
 | LGE | LG Aristo | lv3 | LGMS210 |
+| LGE | LG Aristo 3 | cv1s | LM-X220 |
 | LGE | LG Bello II | v10 | LG-X150 |
 | LGE | LG Bello II | v10 | LG-X155 |
 | LGE | LG Bello II | v10 | LG-X165g |
@@ -9833,6 +9840,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | LGE | Q8 | cv7an | LM-Q815K |
 | LGE | Q8 | cv7an | LM-Q815L |
 | LGE | Q8 | cv7an | LM-Q815S |
+| LGE | QStylus | cv7a | 801LG |
 | LGE | QStylus | cv7a | LM-Q710XM |
 | LGE | QStylus | mcv7a | LM-Q710.FG |
 | LGE | QStylus | mcv7a | LM-Q710.FGN |
@@ -12160,6 +12168,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Motorola | Motoroi | sholest | Milestone XT720 |
 | Motorola | Motoroi | sholest | Motorola XT720 |
 | Motorola | Motoroi | sholest | XT720 |
+| Motorola | Motorola one | deen_sprout | motorola one |
 | Motorola | Motosmart | XT389 | XT389 |
 | Motorola | Motosmart | XT390 | XT390 |
 | Motorola | Motosmart | argonmini_umts | XT389 |
@@ -12240,7 +12249,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Motorola | moto p30 | robusta | XT1943-1 |
 | Motorola | moto p30 play | deen | XT1941-2 |
 | Motorola | moto z3 play | beckham | Moto Z3 Play |
-| Motorola | motorola one | deen_sprout | motorola one |
 | Motorola | motorola one power | chef_sprout | moto x4 |
 | Motorola | motorola one power | chef_sprout | motorola one power |
 | Motorola Solutions | LEX F10 | LEXF10 | LEX F10 |
@@ -13293,6 +13301,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oukitel | C11 | C11 | C11 |
 | Oukitel | C11 Pro | C11_Pro | C11_Pro |
 | Oukitel | C11 S | C11_S | C11_S |
+| Oukitel | C12 | C12 | C12 |
 | Oukitel | C12 Plus | C12_Plus | C12 Plus |
 | Oukitel | C12 Pro | C12_Pro | C12 Pro |
 | Oukitel | C6 Pro | C6_Pro | C6 Pro |
@@ -15672,7 +15681,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Note3 Neo | hllte | SM-N7505L |
 | Samsung | Galaxy Note3 Neo | hllte | SM-N7507 |
 | Samsung | Galaxy Note4 | tre3caltektt | SM-N916K |
-| Samsung | Galaxy Note4 | tre3calteskt | SM-N916S |
 | Samsung | Galaxy Note4 | tre3g | SM-N910H |
 | Samsung | Galaxy Note4 | trelte | SM-N910C |
 | Samsung | Galaxy Note4 | treltektt | SM-N910K |
@@ -15697,6 +15705,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Note4 | trlteusc | SM-N910R4 |
 | Samsung | Galaxy Note4 | trltevzw | SM-N910V |
 | Samsung | Galaxy Note4 S-LTE | tre3caltelgt | SM-N916L |
+| Samsung | Galaxy Note4 S-LTE | tre3calteskt | SM-N916S |
 | Samsung | Galaxy Note5 | noblelte | SM-N9208 |
 | Samsung | Galaxy Note5 | noblelte | SM-N920C |
 | Samsung | Galaxy Note5 | noblelte | SM-N920F |
@@ -17174,6 +17183,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Simbans | TangoTab8 | TangoTab8 | TangoTab8 |
 | SimiMobile | S507 | S507 | S507 |
 | Singtech | H1s | H1s | H1s |
+| Singtech | H2 | Singtech_H2 | H2 |
 | Singtech | Infinity_I1 | Infinity_I1 | Infinity_I1 |
 | Singtech | Infinity_I_Mix | Infinity_I_Mix | Infinity_I_Mix |
 | Singtech | Q3 | Q3 | Q3 |
@@ -17234,6 +17244,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | SledovaniTV | DV8220 | DV8220 | DV8220 |
 | Smadl | SMADL | Matri2 | Matri2 |
 | Smailo | Smailo 2GO | Smailo_2GO | Smailo_2GO |
+| Smart | ATV | tcl_eu | ATV |
 | Smart | Advance Pro | Advance_Pro | Advance Pro |
 | Smart | Coral 4 | Coral_4 | Coral 4 |
 | Smart | FW503KH | FW503KH | FW503KH |
@@ -17857,6 +17868,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Starlight | Star_Plus | Star_Plus | Star_Plus |
 | Starlight | Starplus 7 | STARPLUS7 | STARPLUS7 |
 | Starlight | UMI_G | UMI_G | UMI_G |
+| Starlight | star_phone_x | star_phone_x | star_phone_x |
 | Starlight | star_plus_plus | star_plus_plus | star_plus_plus |
 | Storex | eZee\'Tab7Q11-M | Tab7Q11 | Tab7Q11 |
 | Storex | eZeeTab10D12-S | eZeeTab10D12-S | eZeeTab10D12-S |
@@ -20226,6 +20238,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Voto | VOTO V2 | VOTO_V2 | VOTO V2 |
 | Voto | VOTO V2i` | VOTO_V2i | VOTO V2i |
 | Voto | VOTO V3 | VOTO_V3 | VOTO V3 |
+| Voto | VX | VX | VX |
 | Voto | Voto V5X | VOTO_V5X | VOTO V5X |
 | Vsun | MARS  Touch | MARS_TOUCH | MARS TOUCH |
 | Vsun | MARS Nocam | MARS_NOCAM | MARS NOCAM |
@@ -20578,6 +20591,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Xiaomi | Hongmi 6 | cereus | Redmi 6 |
 | Xiaomi | Hongmi 6A | cactus | Redmi 6A |
 | Xiaomi | MI  8  Explorer  Edition | ursa | MI 8 Explorer Edition |
+| Xiaomi | MI  8  Pro | equuleus | MI 8 Pro |
 | Xiaomi | MI  MAX  3 | nitrogen | MI MAX 3 |
 | Xiaomi | MI 2 | aries | MI 2 |
 | Xiaomi | MI 2 | aries | MI 2S |
@@ -20732,6 +20746,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Yuho | YUHO_O1 | YUHO_O1_LITE | YUHO_O1_LITE |
 | Yuho | YUHO_Vast | YUHO_Vast | YUHO_Vast |
 | Yuho | YUHO_Vast_Plus | YUHO_Vast_Plus | YUHO_Vast_Plus |
+| Yuho | YUHO_Y1_STAR | YUHO_Y1_STAR | YUHO_Y1_STAR |
 | Yuho | YUHO_Y3_PRO | YUHO_Y3_PRO | YUHO_Y3_PRO |
 | ZTE |  | BUL_P726G | ZTE-RACER |
 | ZTE |  | D930 | D930 |
