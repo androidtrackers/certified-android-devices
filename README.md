@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 22.12.2018
+Last sync is 23.12.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10969,6 +10969,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Logicom | L-EMENT551 | L-EMENT551 | L-EMENT551 |
 | Logicom | L-EMENTTAB1042 | LEMENTTAB1042BTK | L-EMENT_TAB1042BTK |
 | Logicom | L-EMENT_TAB1040_BT | generic | L-EMENT_TAB1040_BT |
+| Logicom | L-EMENT_TAB1043 | LEMENTTAB1043 | L-EMENT_TAB1043 |
 | Logicom | L-ITE 400M | L-ITE400M | L-ITE 400M |
 | Logicom | L-ITE 502 PLUS | L-ITE502PLUS | L-ITE 502 PLUS |
 | Logicom | L-ITE 504 HD | L-ITE504HD | L-ITE 504 HD |
