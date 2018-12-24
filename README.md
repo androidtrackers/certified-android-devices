@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 23.12.2018
+Last sync is 24.12.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1797,6 +1797,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Bittium | Air-Lynx ALS14000 | granite | Bittium Tough Mobile |
 | Bittium | Mx Smart | adakite_sm | Mx Smart |
 | Bittium | Tough Mobile | granite | Bittium Tough Mobile |
+| Black Bear | B6 Master | B6_Master | B6 Master |
 | Black Bear | B6_Note_X | B6_Note_X | B6 Note X |
 | BlackBerry | Aurora | bbc100 | BBC100-1 |
 | BlackBerry | BlackBerry Evolve | bbg100 | BBG100-1 |
@@ -20741,6 +20742,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Xolo | Era 2X 2GB | XE2X | Era 2X |
 | Xolo | Era 2X 3GB | XE2X3GB | Era 2X 3GB |
 | Xolo | Era3 | Era_3 | Era 3 |
+| Xolo | Era_4X_2GB | Era_4X_2GB | Era_4X_2GB |
 | Xolo | XOLO ERA 2V | Era_2V | Era 2V |
 | Xolo | XOLO ERA 3X | Era_3X | era3x |
 | Xolo | era1X | era1X | era1X |
