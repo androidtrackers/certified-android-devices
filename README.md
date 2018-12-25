@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 24.12.2018
+Last sync is 25.12.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -401,6 +401,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Alba | Alba7Nou | Alba7Nou | Alba7Nou |
 | Alba | Alba8Nou | Alba8Nou | Alba8Nou |
 | Alba | Alba_8in | Alba_8in | Alba_8in |
+| Alco | Alco S9 | Alco_S9 | Alco_S9 |
 | Alco | Voyager Pro | RCT6873W42BMF8KC | RCT6873W42BMF8KC |
 | Alcor | Alcor | Access_Q784C | Access_Q784C |
 | Alcor | Alcor | Zest_Q108I | Zest_Q108I |
@@ -1281,7 +1282,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Asus | ZenFone Go (ZB690KG) | ASUS_L001_2 | ASUS_L001 |
 | Asus | ZenFone Go (ZC451TG) | ASUS_Z00SD | ASUS_Z00SD |
 | Asus | ZenFone Go (ZC500TG) | ASUS_Z00VD | ASUS_Z00VD |
-| Asus | ZenFone Lite L1 (ZA551KL) / ZenFone Live L1 (ZA550KL) | ASUS_X00R_5 | ASUS_X00RD |
+| Asus | ZenFone Lite L1 (ZA551KL) / ZenFone Live L1/L2 (ZA550KL) | ASUS_X00R_5 | ASUS_X00RD |
 | Asus | ZenFone Live (ZB501KL) | ASUS_A007 | ASUS_A007 |
 | Asus | ZenFone Live L1 (ZA550KL) | ASUS_X00R_1 | ASUS_X00RD |
 | Asus | ZenFone Live L1 (ZA550KL) | ASUS_X00R_2 | ASUS_X00RD |
@@ -1461,6 +1462,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Avaya | Vantage | K175 | K175 |
 | Avaya | Vantage | Vantage | Avaya Vantage |
 | Avaya | Vantage | Vantage | K165 |
+| Avion | Avion A10 | Avion_A10 | Avion A10 |
+| Avion | Avion A10 Pro | Avion_A10_Pro | Avion A10 Pro |
 | Avion | m2 | Avion_M2 | M2 |
 | Avoca | STB7012 | STB7012 | STB7012 |
 | Avoca | STB7013 | AVOCA | STB7013 |
@@ -2236,6 +2239,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Camfone | Hero 12 | Hero_12 | Hero 12 |
 | Camfone | Hero H7 Plus | Hero_H7_Plus | Hero_H7_Plus |
 | Camfone | Hero H9 | Hero_H9 | Hero_H9 |
+| Camfone | Hero SE3 Max | Hero_SE3_Max | Hero SE3 Max |
 | Camfone | Hero X | Hero_X | Hero X |
 | Camfone | Hero_13 | Hero_13 | Hero_13 |
 | Camfone | Hero_H5+ | Hero_H5_Plus | Hero_H5+ |
@@ -2558,11 +2562,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ColorsMobile | S9 | Colors_S9 | Colors S9 |
 | Comio | AD7003 | AD7003 | AD7003 |
 | Comio | COMIO C1 | ComioC1 | COMIO C1 |
+| Comio | COMIO C1 Pro | ComioC1Pro | Comio C1 Pro |
 | Comio | COMIO C2 | ComioC2 | COMIO C2 |
 | Comio | COMIO C2 Lite | ComioC2Lite | Comio C2 Lite |
 | Comio | COMIO P1 | ComioP1 | COMIO P1 |
 | Comio | COMIO S1 | ComioS1 | COMIO S1 |
 | Comio | COMIO S1 Lite | ComioS1Lite | COMIO S1 Lite |
+| Comio | COMIO X1 | ComioX1 | Comio X1 |
 | Compal |  | CA22 | COSMO DUO |
 | Compal |  | CAP5 | A600 |
 | Compal |  | CAP6 | A600 |
@@ -2596,6 +2602,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Condor | Griffe T5 | Griffe_T5 | Griffe T5 |
 | Condor | Griffe T6 | Griffe_T6 | Griffe T6 |
 | Condor | Griffe T7 | Griffe_T7 | Griffe T7 |
+| Condor | Griffe_T5 | Griffe_T5 | Griffe T5 |
 | Condor | HS-U939 | u939e_6 | HS-U939 |
 | Condor | PGN404 | PGN404 | PGN404 |
 | Condor | PGN409 | PGN409 | PGN409 |
@@ -4607,6 +4614,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | HKC | A79 Tablet | EM62 | A79 |
 | HKT | eye3 | UY3-PCW | eye3 |
 | HOMTOM | C2 | C2 | C2 |
+| HOMTOM | C8 | C8 | C8 |
 | HOMTOM | H1 | H1 | H1 |
 | HOMTOM | H3 | H3 | H3 |
 | HOMTOM | H5 | H5 | H5 |
@@ -5528,6 +5536,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | HighScreen | PowerRageEvo | PowerRageEvo | Power Rage Evo |
 | HighScreen | Prime L | PrimeL | Prime L |
 | HighScreen | Tasty | Tasty | Tasty |
+| Hiking | HIKING_A18 | HIKING_A18 | HIKING_A18 |
 | Hiking | HK-MH501 | HK-MH501 | HK-MH501 |
 | Himax | M21 | M21 | M21 |
 | Hipstreet | 785TB4 | 785TB4 | 785TB4 |
@@ -6113,6 +6122,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | vision2_1 | vision2_1 | vision2_1 |
 | Hiya | 5-0 | 5-0 | 5-0 |
 | Hiya | 5-0 | 5_0 | 5-0 |
+| Hiya | 5-0 | HIYA_5_0 | 5-0 |
 | Hiya | 5.5 | 5_5 | 5.5 |
 | Hiya | 5.5 | HIYA5_5 | 5.5 |
 | Hoffmann | X Max | X-Max | X-Max |
@@ -8177,6 +8187,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Irbis | TZ742 | TZ742 | TZ742 |
 | Irbis | TZ762 | TZ762 | TZ762 |
 | Irbis | TZ771 | TZ771 | TZ771 |
+| Irbis | TZ772 | TZ772 | TZ772 |
 | Irbis | TZ777 | TZ777 | TZ777 |
 | Irbis | TZ781 | TZ781 | TZ781 |
 | Irbis | TZ794 | TZ794 | TZ794 |
@@ -8444,6 +8455,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | KONKA | SP3 | SP3 | SP3 |
 | KONKA | SP9 | SP9 | SP9 |
 | KOOLNEE | K1 | KOOLNEE_K1 | K1 |
+| KOOLNEE | K1 Trio | K1_Trio | K1 Trio |
 | KOOLNEE | K3 | K3 | K3 |
 | KOOLNEE | RAINBOW | RAINBOW | RAINBOW |
 | KOOOK | C600 | GBC_bravo | C600 |
@@ -8602,6 +8614,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Kruger&Matz | KM1067 | EAGLE_1067 | KM1067 |
 | Kruger&Matz | LIVE 5 | LIVE_5 | Kr\xc3\xbcger&Matz _LIVE5_KM0450 |
 | Kruger&Matz | LIVE 5 PLUS | LIVE_5_PLUS | LIVE 5 PLUS |
+| Kruger&Matz | LIVE 7 | LIVE_7 | LIVE 7 |
+| Kruger&Matz | LIVE 7S | LIVE_7S | LIVE 7S |
 | Kruger&Matz | LIVE_6plus | LIVE_6plus | LIVE_6plus |
 | Kruger&Matz | MOVE 7 | MOVE_7 | MOVE_7 |
 | Kruger&Matz | MOVE8 | MOVE_8 | MOVE_8 |
@@ -11071,6 +11085,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lyf | WATER F1 | LS-5505 | LS-5505 |
 | M-Horse | M-HORSE | Pure1 | Pure1 |
 | M-Horse | M1 | M1 | M1 |
+| M-Horse | M2S | M2S | M2S |
+| M-Horse | M3 | M3 | M3 |
 | M-Horse | Pure 2 | Pure-2 | Pure 2 |
 | M-Horse | Pure 3 | Pure_3 | Pure 3 |
 | M-tech | Eros Power | EROS_Power | EROS Power |
@@ -13347,6 +13363,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oukitel | K6 | K6 | K6 |
 | Oukitel | K6000 Plus | K6000_Plus | K6000 Plus |
 | Oukitel | K7 | OUKITEL_K7 | K7 |
+| Oukitel | K7 Power | K7_Power | K7 Power |
 | Oukitel | K8 | K8 | K8 |
 | Oukitel | K8000 | K8000 | K8000 |
 | Oukitel | MIX 2 | MIX_2 | MIX 2 |
@@ -14408,6 +14425,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | QMobile | i8i PRO | i8i_PRO | QMobile i8i PRO |
 | QMobile | i8i_Pro_\xe2\x85\xa1 | i8i_Pro_II | QMobile i8i Pro II |
 | QOOQ | QOOQV3 | QOOQ | QOOQ |
+| QUBO | Hermes | Hermes | Hermes |
 | QUBO | MINERVA | MINERVA | MINERVA |
 | Qilive | Q.3778 | Q3778 | Q.3778 |
 | Qilive | Q10S55IN4G | Q10S55IN4G | Q10S55IN4G |
@@ -17275,7 +17293,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | SledovaniTV | DV8220 | DV8220 | DV8220 |
 | Smadl | SMADL | Matri2 | Matri2 |
 | Smailo | Smailo 2GO | Smailo_2GO | Smailo_2GO |
-| Smart | ATV | tcl_eu | ATV |
 | Smart | Advance Pro | Advance_Pro | Advance Pro |
 | Smart | Coral 4 | Coral_4 | Coral 4 |
 | Smart | FW503KH | FW503KH | FW503KH |
@@ -18047,6 +18064,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TAG Heuer | Connected Modular 41 | spectralite | TAG Heuer |
 | TAG Heuer | Connected Modular 45 | anthracite | TAG Heuer |
 | TAG Heuer | Connected Modular 45 (China) | anthracite | TAG Heuer |
+| TCL | ATV | tcl_eu | ATV |
 | TCL | C9 | A3A_XL_4G | 5199I |
 | TCL | L55E6700UDS | movo_la | movo_la |
 | TCL | LE50UHDE5692G | movo | movo |
@@ -19773,7 +19791,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vernee | Thor E | Thor_E | Thor E |
 | Vernee | Thor Plus | Thor_Plus | Thor Plus |
 | Vernee | V2 Pro | V2_Pro | V2 Pro |
-| Vernee | V3 | V3 | V3 |
 | Vernee | X1 | X1 | X1 |
 | Vernee | X1 | X1_PRO | X1 |
 | Verssed | FW8977-ED | FW8977-ED | FW8977-ED |
@@ -22370,6 +22387,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iGet | SMART_G81H | SMART_G81H | SMART_G81H |
 | iGet | SMART_L102 | iGET_SMART_L102 | SMART_L102 |
 | iHunt | Alien X | Alien_X | Alien_X |
+| iHunt | Alien X Lite | Alien_X_Lite | Alien X Lite |
 | iHunt | Alien_X_ApeX | Alien_X_ApeX | Alien_X_ApeX |
 | iHunt | Like 4U | Like_4U | Like_4U |
 | iHunt | S10_Tank_2019 | S10_Tank_2019 | S10_Tank_2019 |
@@ -22397,6 +22415,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iNanny | NC1000 | NC1000 | NC1000 |
 | iNew | P20 | P20 | P20 |
 | iNew | P30 | P30 | P30 |
+| iPlus | iPlus1 | iPlus1 | iPlus1 |
 | iQandT | G3 | G3 | G3 |
 | iReplace | Frog One | FrogOne | FrogOne |
 | iRiver |  | smdkc110 | ILT-MX100 |
@@ -22443,6 +22462,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iYOU | iYOU_M1 | iYOU_M1 | iYOU_M1 |
 | intelkom | meanIT_C1 | meanIT_C1 | meanIT_C1 |
 | intelkom | meanIT_C2 | meanIT_C2 | meanIT_C2 |
+| koobee | F2 | koobee_F2 | F2 |
+| koobee | F2_Plus | koobee_F2_Plus | F2_Plus |
+| koobee | S12 | koobee_S12 | S12 |
 | mytel | M9501 | M9501 | M9501 |
 | mytel | M9502 | M9502 | M9502 |
 | mytel | M9503 | M9503 | M9503 |
