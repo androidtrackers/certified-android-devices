@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 25.12.2018
+Last sync is 26.12.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2115,6 +2115,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Bluebird | RT080 | RT080 | RT080 |
 | Bluebird | SF550 | SF550 | SF550 |
 | Bluebird | ST080 | ST080 | ST080 |
+| Bluedigit | RAVOZ R4 | RAVOZ_R4 | RAVOZ R4 |
+| Bluedigit | RAVOZ R7 | RAVOZ_R7 | RAVOZ R7 |
 | Bluedigit | RAVOZ R8 | RAVOZ_R8 | RAVOZ R8 |
 | Bluedigit | RAVOZ_R9 | RAVOZ_R9 | RAVOZ R9 |
 | Bluedot | BNT-700K | BNT-700K | BNT-700K |
@@ -3724,6 +3726,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Evolveo | EVOLVEO StrongPhone G4 | EVOLVEOG4 | EVOLVEO StrongPhone G4 |
 | Evolveo | EVOLVEO StrongPhone G8 | EVOLVEOG8 | EVOLVEO StrongPhone G8 |
 | Evolveo | StrongPhone Q9 | StrongPhoneQ9 | StrongPhoneQ9 |
+| Evoo | EV-A-101-1 | EV-A-101-1 | EV-A-101-1 |
+| Evoo | EV-A-81-7-1 | EV-A-81-7-1 | EV-A-81-7-1 |
+| Evoo | EV-A-81-8-1 | EV-A-81-8-1 | EV-A-81-8-1 |
 | Exertis | SMB-H8009 | SMB-H8009 | SMB-H8009 |
 | Explay | 4Game | 4Game | 4Game |
 | Explay | ATV | ATV | ATV |
@@ -3845,6 +3850,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Fluo | N | S574020S | N |
 | Fluo | S554020 | S554020 | S554020 |
 | Fluo | S574010S | S574010S | S574010S |
+| Fluo | X2 Max | S624010S | X2 Max |
 | Fluo | X2_Max | X2_Max | X2 Max |
 | Fly | 5_S | 5_S | 5S |
 | Fly | Champ | Champ | FS529 |
@@ -4610,6 +4616,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Gtel | X5 | Gtel_X5 | Gtel X5 |
 | Gtel | X5plus | Gtel_X5plus | Gtel X5plus |
 | Guess | Wear | glowlight | GUESS Connect |
+| Guophone | X3 | X3 | X3 |
+| Guophone | XP9800 | Guophone_XP9800 | XP9800 |
 | HDC S.A. | T700B | T700B | T700B |
 | HKC | A79 Tablet | EM62 | A79 |
 | HKT | eye3 | UY3-PCW | eye3 |
@@ -10156,6 +10164,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lava | Z10 | LAVA_Z10 | Z10 |
 | Lava | Z25 | Z25 | Z25 |
 | Lava | Z50 | Z50 | Z50 |
+| Lava | Z50_Pro | Z50_Pro | Z50_Pro |
 | Lava | Z60 | Z60 | Z60 |
 | Lava | Z60S | Z60s | Z60s |
 | Lava | Z60s | Z60s | Z60s |
@@ -10901,6 +10910,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lephone | S104G | S104G | S104G |
 | Lephone | lephone P1 | lephoneP1 | lephoneP1 |
 | Lephone | lephone P5 | lephone_P5 | lephone P5 |
+| Lephone | lephone P5 | lephone_P5B | lephone P5 |
 | Lephone | lephone W10 | lephone_W10 | lephone_W10 |
 | Lephone | lephone W15 | lephone_W15 | lephone_W15 |
 | Lephone | lephone W21 | lephone_W21 | lephone_W21 |
@@ -11087,6 +11097,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | M-Horse | M1 | M1 | M1 |
 | M-Horse | M2S | M2S | M2S |
 | M-Horse | M3 | M3 | M3 |
+| M-Horse | P1 | P1 | P1 |
 | M-Horse | Pure 2 | Pure-2 | Pure 2 |
 | M-Horse | Pure 3 | Pure_3 | Pure 3 |
 | M-tech | Eros Power | EROS_Power | EROS Power |
@@ -12625,9 +12636,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | NOA Mobile | Fresh 4G | Fresh_4G | Fresh_4G |
 | NOA Mobile | Hummer | Hummer | Hummer |
 | NOA Mobile | N1 | N1 | N1 |
+| NOA Mobile | N10 | NOA_N10 | N10 |
+| NOA Mobile | N20 | NOA_N20 | N20 |
 | NOA Mobile | N7 | NOA_N7 | N7 |
 | NOA Mobile | N8 | NOA_N8 | NOA_N8 |
 | NOA Mobile | NextSE | NextSE | NextSE |
+| NOA Mobile | P1 | NOA_P1 | P1 |
 | NOA Mobile | SPRINT 4G | SPRINT4G | SPRINT4G |
 | NOA Mobile | SparkSE | SparkSE | SparkSE |
 | NVIDIA | SHIELD Android TV | foster | SHIELD Android TV |
@@ -13380,6 +13394,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oukitel | U25 Pro | U25_Pro | U25_Pro |
 | Oukitel | U7 Max | U7_Max | U7 Max |
 | Oukitel | U7 Plus | U7_Plus | U7 Plus |
+| Oukitel | WP1 | OUKITEL_WP1 | WP1 |
 | Oukitel | WP2 | WP2 | WP2 |
 | Oukitel | WP5000 | WP5000 | WP5000 |
 | Overmax | Livecore7032 | Livecore7032 | Livecore7032 |
@@ -14095,6 +14110,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Premio | Premio P420 | Premio_P420 | Premio P420 |
 | Premio | Premio P610 | Premio_P610 | P610 |
 | Premio | Premio P620 | Premio_P620 | P620 |
+| Premio | Premio_P451 | Premio_P451 | Premio P451 |
 | Premio | X1 | 186HS2080531 | 186HS2080531 |
 | Prestige | 7G | Prestige-7G | Prestige 7G |
 | Prestige | ELITE10Q | Elite10Q | Elite10Q |
@@ -14717,6 +14733,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | STF Mobile | aura ULTRA | aura_ULTRA | aura ULTRA |
 | STG Telecom | STG A1 | STG_A1 | STG A1 |
 | STG Telecom | STG A1 Pro | STG_A1_Pro | STG A1 Pro |
+| STG Telecom | STG S1 | STG_S1 | STG S1 |
 | STG Telecom | STG X1 | STG_X1 | STG X1 |
 | STIP | MS9 | MS9 | MS9 |
 | STK(Santok) | Hero X | STK_Hero_X | STK_Hero_X |
@@ -16913,6 +16930,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp | ADS1 | ADS1 | SHARP-ADS1 |
 | Sharp | AN-NP40 | an_np40 | AN-NP40 |
 | Sharp | AQUOS 4T/8T-C**AL1X/AL2X/AX1X | tcth2ux | AQUOS-TVX18 |
+| Sharp | AQUOS 8T-**AX1T | tcth2ut | AQUOS-TVT18 |
 | Sharp | AQUOS CRYSTAL 2 | SG403SH | 403SH |
 | Sharp | AQUOS CRYSTAL X | SG402SH | 402SH |
 | Sharp | AQUOS Compact SH-02H | SH-02H | SH-02H |
@@ -20191,6 +20209,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vkworld | Mix3 | Mix3 | Mix3 |
 | Vkworld | Mix_Plus | Mix_Plus | Mix_Plus |
 | Vkworld | S8 | vkworld_S8 | S8 |
+| Vkworld | S8Lite | S8Lite | S8Lite |
 | Vkworld | S9 | S9 | S9 |
 | Vkworld | VK7000 | VK7000 | VK7000 |
 | Vmobile | A10_Y | A10_Y | A10_Y |
@@ -20386,6 +20405,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Walton | Primo_RM3 | Primo_RM3 | Primo RM3 |
 | Walton | Primo\xc2\xa0S6\xc2\xa0Dual | Primo_S6_Dual | Primo S6 Dual |
 | Walton | Walton Primo X5 | Primo_X5 | Walton Primo X5 |
+| Wave 8 | WV8TV | WV8TV | WV8TV |
 | Wave 8 Red Nougat | WV8R-N | WV8R_N | WV8R_N |
 | We (BD) | F1 | F1 | F1 |
 | We (BD) | L7 | L7 | L7 |
@@ -22214,6 +22234,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Zoji | Z33 | Z33 | Z33 |
 | Zoji | Z9 | Z9 | Z9 |
 | Zonda | AWM533 | AWM533 | AWM533 |
+| Zong 4G | Z1 | Z1 | Z1 |
 | Zoom | LitePro | LitePro | LitePro |
 | Zoom | Social | SOCIAL | SOCIAL |
 | Zoom | Z101G | Z101G | Z101G |
@@ -22221,6 +22242,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Zopo | P5000 | P5000 | P5000 |
 | Zopo | PRO1 | Benten_PRO1 | PRO1 |
 | Zopo | Z5000 | Z5000 | Z5000 |
+| Zopo | ZOPO Flash X3 | ZOPO_Flash_X3 | ZOPO Flash X3 |
 | Zpad | ZpadX7 | ZpadX7 | ZpadX7 |
 | Zpad | Zpad_X7 | Zpad_X7 | Zpad X7 |
 | Zuk | Lenovo Z2 Plus | z2_plus_hw | ZUK Z2132 |
@@ -22330,6 +22352,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iBRIT | IBRIT_I5 | i5 | IBRIT_I5 |
 | iBRIT | IBRIT_I7 | i7 | IBRIT_I7 |
 | iBRIT | IBRIT_POWER6 | iBRIT_POWER6 | iBRIT_POWER6 |
+| iBRIT | M4 | M4 | M4 |
 | iBRIT | MAX7 | MAX7 | MAX7 |
 | iBRIT | Speed_Pro_Plus | SF56 | SF56 |
 | iBRIT | VEGA | VEGA | VEGA |
@@ -22462,6 +22485,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iYOU | iYOU_M1 | iYOU_M1 | iYOU_M1 |
 | intelkom | meanIT_C1 | meanIT_C1 | meanIT_C1 |
 | intelkom | meanIT_C2 | meanIT_C2 | meanIT_C2 |
+| ioutdoor | Polar3 | Polar3 | Polar3 |
 | koobee | F2 | koobee_F2 | F2 |
 | koobee | F2_Plus | koobee_F2_Plus | F2_Plus |
 | koobee | S12 | koobee_S12 | S12 |
