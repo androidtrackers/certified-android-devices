@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 28.12.2018
+Last sync is 29.12.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -573,9 +573,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | AllView | X5 Soul Pro | X5_Soul_Pro | X5_Soul_Pro |
 | AllView | X5_Soul | X5_Soul | X5_Soul |
 | AllView | X5_Soul_Style | X5_Soul_Style | X5_Soul_Style |
+| Alldocube | U1005 | U1005 | U1005 |
+| Alldocube | U1005E | U1005E | U1005E |
 | Allducube | T1001 | T1001 | T1001 |
-| Allducube | U1005 | U1005 | U1005 |
-| Allducube | U1005E | U1005E | U1005E |
 | Allfine | M721 | 86S | M721 |
 | Allfine | PC1038Q | fine10_Joy | PC1038Q |
 | Allouette | PSY7020SKD | PSY7020SKD | PSY7020SKD |
@@ -1324,6 +1324,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Asus | ZenFone Max Pro (M1) | ASUS_X00T_8 | ASUS_X00TDB |
 | Asus | ZenFone Max Pro M2 (ZB630KL/ZB631KL) | ASUS_X01BD_1 | ASUS_X01BDA |
 | Asus | ZenFone Max Pro M2 (ZB630KL/ZB631KL) | ASUS_X01BD_1 | ZB631KL |
+| Asus | ZenFone Max Pro M2 (ZB630KL/ZB631KL) | ASUS_X01BD_2 | ASUS_X01BDA |
 | Asus | ZenFone Selfie (ZD551KL) | ASUS_Z00U_1 | ASUS_Z00UD |
 | Asus | ZenFone Selfie (ZD551KL) | ASUS_Z00U_1 | ASUS_Z00UDA |
 | Asus | ZenFone Selfie (ZD551KL) | ASUS_Z00U_2 | ASUS_Z00UD |
@@ -1481,6 +1482,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Axioo | Axioo AX4 | Axioo_AX4 | Axioo_AX4 |
 | Axxa Mobile | GEM | GEM | GEM |
 | Azumi | A4 | A4 | Azumi A4 |
+| Azumi | A4 | A4_AC25 | Azumi A4 |
 | Azumi | A40 Style Plus | A40_Style_Plus | A40_Style_Plus |
 | Azumi | A40C | A40C | A40C |
 | Azumi | A50 Style Plus | A50_Style_Plus | A50_Style_Plus |
@@ -2079,6 +2081,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Blu | VIVO 5R | BLU_Vivo_5R | Vivo 5R |
 | Blu | VIVO 6 | BLU_Vivo_6 | Vivo 6 |
 | Blu | VIVO GO | V0390WW | VIVO GO |
+| Blu | VIVO VI+ | V0310WW | Vivo XI+ |
 | Blu | VIVO XL | BLU_VIVO_XL | VIVO XL |
 | Blu | Vivo 5 Mini | Vivo_5_Mini | Vivo 5 Mini |
 | Blu | Vivo 8 | V0150UU | Vivo 8 |
@@ -2219,6 +2222,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | CG Mobile | OMEGA 8 | CG_Omega_8 | Omega 8 |
 | CG Mobile | Omega6 | OMEGA6 | CG_OMEGA6 |
 | CGV (France) | Ultimate T8 | Ultimate_T8 | CGV_Ultimate T8 |
+| CHCNAV | LT700 | LT700 | LT700 |
 | CHN TELECOM | CHN-UCAN MJ | lefhd | CHN-UCAN MJ |
 | CJHelloVision | CJ680CL | cj680cl | GX-CJ680CL |
 | CJHelloVision | Hello TV Smart | SX930C_CJ | SX930C_CJ |
@@ -2918,6 +2922,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Crosscall | Trekker- M1 | HS8916QC | Trekker-M1 |
 | Crosscall | Trekker- X4 | HSSDM660QC | Trekker-X4 |
 | Cspire | FT7 | FT7_tw | Android Tablet FT7 |
+| Ctroniq | K9 | K9 | K9 |
 | Cubot | CUBOT CHEETAH 2 | CUBOT_CHEETAH_2 | CUBOT CHEETAH 2 |
 | Cubot | CUBOT H3 | CUBOT_H3 | CUBOT H3 |
 | Cubot | CUBOT MAGIC | CUBOT_MAGIC | CUBOT MAGIC |
@@ -3459,6 +3464,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | E-Boda | Eclipse G500HD | E-Boda_Eclipse_G500HD | Eclipse G500HD |
 | E-Boda | Eclipse G500M | Eclipse_G500M | Eclipse_G500M |
 | E-TACHI | A8_SMART | A8_SMART | A8_SMART |
+| E-Tel | E-tel_i250 | E-tel_i250 | E-tel_i250 |
 | E-Tel | Q25 | Q25 | Q25 |
 | E-Tel | Q30 | Q30 | Q30 |
 | E-Tel | i240 | i240 | E-tel i240 |
@@ -4194,6 +4200,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | GEOFOX | GEOFOX_MID743 | GEOFOX_MID743 | GEOFOX_MID743 |
 | GIGI | U1 | GIGI_U1 | GIGI_U1 |
 | GIRASOLE | X9 | X9 | X9 |
+| GRID Communications (SG) | GS6100 | GRID_GS6100 | GS6100 |
 | GSmart | Akta A4 | Akta_A4 | Akta_A4 |
 | GSmart | Aku A1 | Aku_A1 | GSmart Aku A1 |
 | GSmart | Alto A2 | Alto_A2 | GSmart Alto A2 |
@@ -7873,6 +7880,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Infinix | Hot 4 Pro | Infinix-X5511-13M | Infinix HOT 4 Pro |
 | Infinix | Infinix HOT 6X | Infinix-X623 | Infinix X623 |
 | Infinix | Infinix HOT 6X | Infinix-X623 | Infinix X623B |
+| Infinix | Infinix NOTE 5 | Infinix-X604_sprout | Infinix X604 |
+| Infinix | Infinix NOTE 5 | Infinix-X604_sprout | Infinix X604B |
+| Infinix | Infinix NOTE 5 Stylus | Infinix-X605_sprout | Infinix X605 |
 | Infinix | Infinix Note 5 | Infinix-X604_sprout | Infinix X604 |
 | Infinix | Infinix Note 5 | Infinix-X604_sprout | Infinix X604B |
 | Infinix | Infinix X5010 | Infinix-X5010 | Infinix X5010 |
@@ -7888,9 +7898,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Infinix | NOTE 4 | Infinix-X572 | Infinix X572-LTE |
 | Infinix | NOTE 4 Pro | Infinix-X571 | Infinix X571 |
 | Infinix | NOTE 4 Pro | Infinix-X571 | Infinix X571-LTE |
-| Infinix | NOTE 5 | Infinix-X604_sprout | Infinix X604 |
-| Infinix | NOTE 5 | Infinix-X604_sprout | Infinix X604B |
-| Infinix | NOTE 5 Stylus | Infinix-X605_sprout | Infinix X605 |
 | Infinix | RACE Blot2 | Infinix_X454 | Infinix X454 |
 | Infinix | RACE Bolt 3 | X455 | Infinix X455 |
 | Infinix | S2 | Infinix-X522 | Infinix S2 |
@@ -7939,7 +7946,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Infinix | X600 | INFINIX-X600-5M | INFINIX-X600 |
 | Infinix | X600 | INFINIX-X600-5M | Infinix-X600 |
 | Infinix | X600 | INFINIX-X600-H533-5M | Infinix-X600-LTE |
-| Infinix | X605 NOTE 5 Stylus | Infinix-X605_sprout | Infinix X605 |
 | Infinix | Zero 2 | Infinix_X509 | Infinix X509 |
 | Infinix | Zero 4 | X555 | Infinix Zero 4 |
 | Infinix | Zero 4 Plus | X602 | Infinix Zero 4 Plus |
@@ -10081,6 +10087,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lanix | Ilium_S130 | Ilium_S130 | Ilium S130 |
 | Lanix | Ilium_S130 | Ilium_S130 | Ilium_S130 |
 | Lanix | Ilium_S520 | Ilium_S520 | ILIUM S520 |
+| Lanix | L530 | L530 | L530 |
 | Lanix | LANIX_PAD_E7 | ILIUM_PADE7V11 | LANIX_PAD_E7 |
 | Lanix | Llium L910 | Ilium_L910 | Ilium L910 |
 | Lanix | X100 | ILIUM_X100 | ILIUM_X100 |
@@ -10195,6 +10202,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lava | Z81 | Z81 | Z81 |
 | Lava | Z90 | Z90 | Z90 |
 | Lava | Z91 | Z91 | Z91 |
+| Lava | Z92 | Z92 | Z92 |
+| Lava | ZX | ZX | ZX |
 | Lava | iris 821 | iris821 | iris821 |
 | Lava | iris 880 | iris880 | iris880 |
 | Lava | iris Fuel F2 | IFF2 | Fuel F2 |
@@ -12994,6 +13003,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oale | P1 | P1 | P1 |
 | Oale | P2 | P2 | P2 |
 | Oale | P3 | P3 | P3 |
+| Oale | P5 | P5 | P5 |
 | Obi | MV1 | yam | OBI MV1 |
 | Obi | MV1 | yam | Obi MV1 |
 | Obi | OBJ SJ1.5 | SJ1-5 | SJ1-5 |
@@ -13749,6 +13759,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Pegatron | chagall | chagall | E-Tab 4G |
 | Pegatron | chagall | chagall | chagall |
 | Pendo | Pendo | PNDP70M7BLK | PNDP70M7BLK |
+| Penta | ETBA0552 | PENTA_83AAQ2 | PENTA_83AAQ2 |
+| Penta | ETBA0692 | PENTA_73AAQ1 | PENTA_73AAQ1 |
 | Performance | PR7RKTNF | PR7RKTNF | PR7RKTNF |
 | Philco | PTB7PAP_ PTB7PAB _ PTB7PAR | PTB7PA | PTB7PAP_PTB7PAB_PTB7PAR |
 | Philco | PTB7QSG_3G | PTB7QSG_3G | PTB7QSG_3G |
@@ -14552,6 +14564,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | RCA | Mercury 7 | CT9973W43M | CT9973W43M |
 | RCA | Pro10 Edition II | RCT6203W46L | RCT6203W46L |
 | RCA | Pro12 | RCT6223W87 | RCT6223W87 |
+| RCA | RCA DRP2091 | DRP2091 | DRP2091 |
 | RCA | RCA RCT6213W22 | RCT6213W22 | RCT6213W22 |
 | RCA | RCA RCT6213W23 | RCT6213W23 | RCT6213W23 |
 | RCA | RCA RCT6213W24 | RCT6213W24 | RCT6213W24 |
@@ -16462,7 +16475,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A (2018, 10.5) | gta2xlltekx | SM-T595N |
 | Samsung | Galaxy Tab A (2018, 10.5) | gta2xlwifi | SM-T590 |
 | Samsung | Galaxy Tab A (2018, 10.5) | gta2xlwifichn | SM-T590 |
-| Samsung | Galaxy Tab A 10.1 | gtaxladwifikx | SM-T583 |
 | Samsung | Galaxy Tab A 10.1 | gtaxllte | SM-T585M |
 | Samsung | Galaxy Tab A 10.1 | gtaxllte | SM-T587 |
 | Samsung | Galaxy Tab A 10.1 | gtaxlwifi | SM-T580X |
@@ -16508,6 +16520,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab Active2 | gtactive2ltekx | SM-T395N |
 | Samsung | Galaxy Tab Active2 | gtactive2lteue | SM-T397U |
 | Samsung | Galaxy Tab Active2 | gtactive2wifi | SM-T390 |
+| Samsung | Galaxy Tab Advanced2 | gtaxladwifikx | SM-T583 |
 | Samsung | Galaxy Tab E | gtel3g | SM-T561M |
 | Samsung | Galaxy Tab E | gtelwifi | SM-T560 |
 | Samsung | Galaxy Tab E 8.0 | gteslteatt | SAMSUNG-SM-T377A |
@@ -16854,6 +16867,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Infuse | SGH-I997 | SAMSUNG-SGH-I997 |
 | Samsung | Infuse | SGH-I997R | SAMSUNG-SGH-I997R |
 | Samsung | J1 Mini Prime | j1minivelte | SM-J106F |
+| Samsung | J2 Core | j2corepltemtr | SM-J260T1 |
 | Samsung | Moment | SPH-M900 | SPH-M900 |
 | Samsung | Montblanc | montblanc3gctc | SM-W2014 |
 | Samsung | Nexus 10 | manta | Nexus 10 |
@@ -19418,6 +19432,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | SPARK | TECNO-K7 | TECNO K7 |
 | Tecno | SPARK 2 | TECNO-KA7-GO | TECNO KA7 |
 | Tecno | SPARK 2 | TECNO-KA7-O | TECNO KA7O |
+| Tecno | SPARK 2 YOUTH | TECNO-LB6 | TECNO LB6 |
 | Tecno | SPARK CM | TECNO-KA9 | TECNO KA9 |
 | Tecno | SPARK Plus | TECNO-K9 | TECNO K9 |
 | Tecno | SPARK Pro | TECNO-K8 | TECNO K8 |
@@ -19808,6 +19823,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Unonu | X4G | X4G | UNONU X4G |
 | Unonu | X4G | X4G | X4G |
 | Uphone | SPURT R3 | SPURT_R3 | SPURT R3 |
+| Urovo | i6310 | i6310 | i6310 |
 | Usha Shriram | RA_1_GENIUS_STAR | RA_1_GENIUS_STAR | RA_1_GENIUS_STAR |
 | Utopia | UH0342  UHTABLET10.1INCH | UH0342 | UH0342 |
 | V7 | Zyro | zyro | V7 Zyro |
@@ -20852,6 +20868,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Xplore Technologies | XSLATE_D10 | XSLATE_D10 | iX101D1-FIOS |
 | Xtratech | X739Q | bnd8163_tb_n | X739Q |
 | Xwave | Xpad | Xpad | Xpad_M9_3G |
+| YSFEN | B9000 | B9000 | B9000 |
 | YU | YUNICORN | YUNICORN | YU5530 |
 | YU | YUNIQUE | YU4711 | YU4711 |
 | YU | YUPHORIA | YUPHORIA | YU5010 |
@@ -22589,6 +22606,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | techBITE | Flix  TV  Box | DV8219 | Flix TV Box |
 | tecmobile | OmnisOne | OmnisOne | Omnis One |
 | ucall | EASY1 | EASY1 | EASY1 |
+| unitel | U901 | U901 | U901 |
 | videocon | Delite 11 | V503630 | V503630 |
 | videocon | Krypton 22+ | V505024 | V505024 |
 | videocon | Metal Pro 1 | V505820 | V505820 |
