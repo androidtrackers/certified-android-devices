@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 29.12.2018
+Last sync is 30.12.2018
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -376,6 +376,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Advantage Air | PIC8GS8 | PIC8GS8 | PIC8GS8 |
 | Aelion | i8 | Aelion_i8 | i8 |
 | Affix | T737 | AFFIX_T737 | AFFIX T737 |
+| AfriOne | moxie | moxie | moxie |
 | Aikun | EDSTAR LC-TS08A | LC-TS08A | LC-TS08A |
 | Aikun | EDSTAR LC-TS08S | LC-TS08S | LC-TS08S |
 | Aikun | RX300 | X300 | X300 |
@@ -3160,6 +3161,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Denver Electronics | TIQ-102 | TIQ102 | TIQ-102 |
 | Denver Electronics | TIQ-104 | TIQ104 | TIQ-104 |
 | DiMora Mobile | Adrenalin Pro | Adrenalin_Pro | Adrenalin Pro |
+| DiMora Mobile | InnoV8 | InnoV8 | InnoV8 |
 | DiMora Mobile | InnoV8_PRO | InnoV8_PRO | InnoV8_PRO |
 | Dialog Blaze | 5701A | 5701A | 5701A |
 | Dialog Blaze | Dialog_Blaze_Mini | Dialog_Blaze_Mini | Dialog_Blaze_Mini |
@@ -3209,6 +3211,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Digitron | i-Buddie | TR10CD1_10 | TR10CD1 |
 | Digitron | i_Buddie | TR10CS1_12 | TR10CS1 |
 | Digix | TAB-740_G | TAB-740_G | TAB-740_G |
+| Digma | CS7113PL | CS7113PL | CITI 7507 4G CS7113PL |
 | Digma | DIGMA CITI 1508 4G CS1114ML | CS1114ML | CITI_1508_4G_CS1114ML |
 | Digma | DIGMA CITI 1532 3G CS1144MG | CS1144MG | CITI 1532 3G CS1144MG |
 | Digma | DIGMA CITI 1544 3G CS1154MG | CS1154MG | CITI_1544_3G_CS1154MG |
@@ -5660,6 +5663,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | AGM  X2 | HS8976QC | X2_SE |
 | Hisense | AGM A7 | HS8909QC | AGM A7 |
 | Hisense | AGM X1 | HS8952QC | AGM X1 |
+| Hisense | AGM X3 | HSSDM845QC | AGM X3 |
 | Hisense | AJM X2 | HS8976QC | AGM X2 |
 | Hisense | Andromax-c | AD686G | Andromax-c |
 | Hisense | C-4 | C_4 | C-4 |
@@ -6748,6 +6752,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | H892L | hwH892L | HUAWEI H892L |
 | Huawei | HAUWEI Y5 Lite 2018 | HWCAG-L6737M | CAG-L22 |
 | Huawei | HONOR 4X | hwChe2 | Che2-L12 |
+| Huawei | HONOR V20 | HWPCT | PCT-AL10 |
+| Huawei | HONOR V20 | HWPCT | PCT-TL10 |
+| Huawei | HONOR View20 | HWPCT | PCT-L29 |
 | Huawei | HUAWEI G Elite Plus | HWSLA-Q | SLA-L03 |
 | Huawei | HUAWEI GR5 2017 | HWBLN-H | BLL-L21 |
 | Huawei | HUAWEI GR5 2017 | HWBLN-H | BLL-L22 |
@@ -8274,6 +8281,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Itel | A41 Plus | itel_A41Plus | itel A41 Plus |
 | Itel | A43 | itel-A43 | itel A43 |
 | Itel | A44 | itel-A44 | itel A44 |
+| Itel | A44 Air | itel-L5502 | itel L5502 |
 | Itel | A44 Pro | itel-A44-Pro | itel A44 Pro |
 | Itel | A51 | itel_A51 | itel A51 |
 | Itel | A52B | itel-A52B | itel A52B |
@@ -8335,9 +8343,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Itel | it1703 | itel_it1703 | itel it1703 |
 | Itel | itel A11 | itel_A11 | itel A11 |
 | Itel | itel A14 | itel-A14 | itel A14 |
+| Itel | itel A14S | itel-A14S | itel A14S |
 | Itel | itel A16 | itel-A16 | itel A16 |
 | Itel | itel A20 | itel-A20 | itel A20 |
 | Itel | itel A23 | itel-A23 | itel A23 |
+| Itel | itel A23 | itel-A23F | itel A23 |
 | Itel | itel A31 | itel_A31 | itel A31 |
 | Itel | itel A40 | itel-A40 | itel A40 |
 | Itel | itel A41 | itel_A41 | itel A41 |
@@ -8348,6 +8358,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Itel | itel Prime 4 | itel_Prime4 | itel Prime 4 |
 | Itel | itel S12 | itel-S12 | itel S12 |
 | Itel | itel S32LTE | itel-S32LTE | itel S32LTE |
+| Itel | itel W5503 | itel-W5503 | itel W5503 |
 | Itworks | TM705 | TM705 | NID_7010 |
 | JLab | PRO-7 | polaris-p1gms | JLab PRO-7 |
 | JP Sacouto | Flag Mill v2 | MG101A2T_BT | Flag Mill v2 |
@@ -8584,6 +8595,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Kioto | MID1036 | MID1036 | MID1036 |
 | Kiowa | A5_CRISTAL | A5_CRISTAL | A5_CRISTAL |
 | Kiowa | S5_CRISTAL | S5_CRISTAL | S5_CRISTAL |
+| Kiowa | X4 Plus | X4_Plus | X4_Plus |
 | Kiowa | X4_CRISTAL | X4_CRISTAL | X4_CRISTAL |
 | Klipad | 7588AN | tulip-d9003 | 7588AN |
 | Klipad | 7588AN | tulip-d9003 | KL3838 |
@@ -13004,6 +13016,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oale | P2 | P2 | P2 |
 | Oale | P3 | P3 | P3 |
 | Oale | P5 | P5 | P5 |
+| Oale | P6 | P6 | P6 |
 | Obi | MV1 | yam | OBI MV1 |
 | Obi | MV1 | yam | Obi MV1 |
 | Obi | OBJ SJ1.5 | SJ1-5 | SJ1-5 |
@@ -13472,6 +13485,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | POPTEL | P8 | P8 | P8 |
 | POPTEL | P9000 MAX | P9000_MAX | P9000_MAX |
 | POPTEL | POPTEL P10 | P10 | P10 |
+| POPTEL | V9 | V9 | V9 |
 | PS_Mobile | neo | neo | neo |
 | PT mobile | P10 | P10 | P10 |
 | Packard Bell | PB1009 | PB1009 | PB1009 |
@@ -19240,6 +19254,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | tbd | U50A_PLUS_ATT | Alcatel_5059R |
 | TCT (Alcatel) | tmn smarta8 | ONE_TOUCH_991D_gsm | moche smart a8 |
 | TCT (Alcatel) | tmn smarta8 | ONE_TOUCH_991D_gsm | tmn smart a8 |
+| TERRA | GPAD702 | GPAD702 | GPAD702 |
 | TG&Co. | TG-L800S | PHX | TG-L800S |
 | TG&Co. | TG-L900S | JGR | TG-L900S |
 | THL | Knight 2 | Knight_2 | Knight 2 |
@@ -19445,6 +19460,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | TECNO P904 | TECNO-P904 | TECNO P904 |
 | Tecno | TECNO R6S | TECNO-R6 | TECNO R6S |
 | Tecno | TECNO S1 Lite | TECNO-S1Lite | TECNO S1 Lite |
+| Tecno | TECNO SA2S | TECNO-SA2S | TECNO SA2S |
+| Tecno | TECNO SA7S | TECNO-SA7S | TECNO SA7S |
 | Tecno | TECNO W5 | TECNO-W5 | TECNO-W5 |
 | Tecno | TECNO WX4 Pro S | TECNO-WX4-Pro | TECNO WX4 Pro S |
 | Tecno | TECNO-W5 | TECNO-W5 | TECNO-W5 |
@@ -20489,6 +20506,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | We (BD) | WE L9 | WE_L9 | WE L9 |
 | We (BD) | WE R4 | WE_R4 | WE R4 |
 | We (BD) | WE V4 | WE_V4 | WE V4 |
+| We (BD) | WE V5 | V5 | V5 |
 | WeTek | Play | Play | Play |
 | WeTek | WeTek | wh220 | Air |
 | Weimei | WEIMEI NEON2 | WEIMEI_NEON2 | WEIMEI_NEON2 |
@@ -22339,6 +22357,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Zuum | COVET mini | Covet_Mini | COVET mini |
 | Zuum | GRANT | GRANT | GRANT |
 | Zuum | Gravity | Gravity | Gravity |
+| Zuum | Hidra Plus | Hidra_Plus | Hidra Plus |
 | Zuum | LIMIT | LIMIT | LIMIT |
 | Zuum | MAGNO | ZUUM_MAGNO | MAGNO |
 | Zuum | MAGNO | ZUUM_MAGNO-S | MAGNO-S |
