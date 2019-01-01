@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 31.12.2018
+Last sync is 01.01.2019
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1500,6 +1500,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Azumi | Azumi_Speed_Pro_55 | Speed_Pro_55 | Azumi_Speed_Pro_55 |
 | Azumi | DOSHI A55 QL | Azumi_DOSHI_A55_QL | Azumi_DOSHI_A55_QL |
 | Azumi | EXTEND 55 QL | EXTEND_55_QL | EXTEND 55 QL |
+| Azumi | IKU A55 | Azumi_IKU_A55 | Azumi IKU A55 |
 | Azumi | IRO A4Q | IRO_A4_Q | Azumi_IRO_A4_Q |
 | Azumi | IRO A4Q | IRO_A4_Q_AF | Azumi_IRO_A4_Q |
 | Azumi | IRO A5 QL | IRO_A5_QL | Azumi_IRO_A5_QL |
@@ -10160,6 +10161,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lava | Iris820 | iris820 | iris820 |
 | Lava | Iris90 | iris90 | iris90 |
 | Lava | LE9810 | LE9810 | LAVA LE9810 |
+| Lava | LE9820 | LE9820 | LAVA LE9820 |
 | Lava | P7 | P7 | P7 |
 | Lava | P7 Plus | P7plus | P7plus |
 | Lava | P7plus | P7plus | P7plus |
