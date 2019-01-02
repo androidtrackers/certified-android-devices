@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 01.01.2019
+Last sync is 02.01.2019
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -364,6 +364,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Advance | HL5576 | HL5576 | HL5576 |
 | Advance | HL5585 | HL5585 | HL5585 |
 | Advance | HL5677 | HL5677 | HL5677 |
+| Advance | HL6077 | HL6077 | HL6077 |
 | Advance | HL6248 | HL6248 | HL6248 |
 | Advance | HL6256 | HL6256 | HL6256 |
 | Advance | Pr5747 | Pr5747 | Pr5747 |
