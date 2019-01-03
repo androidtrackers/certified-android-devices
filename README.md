@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 02.01.2019
+Last sync is 03.01.2019
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -35,6 +35,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | AG Mobile | AG Ultra2 | AG_Ultra2 | Ultra 2 |
 | AG Mobile | AGM  H1 | HSSDM450QC | AGM H1 |
 | AG Mobile | AGM A9 | HSSDM450QC | AGM A9 |
+| AG Mobile | AGM X3 | HSSDM845QC | AGM X3 |
+| AG Mobile | AGM X3 | T91EUE1 | AGM X3 |
 | AG Mobile | AG_Go-Tab_Access | md789hwag | AG Go-Tab Access |
 | AG Mobile | AG_Tab_7_0 | AG_Tab_7_0 | AG_Tab_7_0 |
 | AG Mobile | Boost | Boost | Boost |
@@ -419,6 +421,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | AllCall | AllCall_S1 | AllCall_S1 | AllCall_S1 |
 | AllCall | AllCall_S1_X | AllCall_S1_X | AllCall_S1_X |
 | AllCall | MIX2 | MIX2 | MIX2 |
+| AllCall | Rio_X | Rio_X | Rio_X |
 | AllCall | S5500 | S5500 | S5500 |
 | AllCall | Tab_1_3G | Tab_1_3G | Tab_1_3G |
 | AllCall | Tab_2_3G | Tab_2_3G | Tab_2_3G |
@@ -1349,8 +1352,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Asus | ZenPad 10 (Z301MF) | ASUS_P028_2 | P028 |
 | Asus | ZenPad 10 (Z301MFL) | ASUS_P00L_2 | P00L |
 | Asus | ZenPad 10 (Z301ML) | ASUS_P00L_1 | P00L |
-| Asus | ZenPad 3 8.0 | P008_1 | P008 |
 | Asus | ZenPad 3 8.0 | P008_2 | P008 |
+| Asus | ZenPad 3 8.0 (Z581KL) | P008_1 | P008 |
 | Asus | ZenPad 3S 10 (Z500M) | P027 | P027 |
 | Asus | ZenPad 3S 10 LTE (Z500KL) | ASUS_P00I | ASUS_P00I |
 | Asus | ZenPad 7.0 (Z370C) | P01W | P01W |
@@ -2619,6 +2622,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Condor | Griffe T6 | Griffe_T6 | Griffe T6 |
 | Condor | Griffe T7 | Griffe_T7 | Griffe T7 |
 | Condor | Griffe_T5 | Griffe_T5 | Griffe T5 |
+| Condor | Griffe_T7 | Griffe_T7 | Griffe T7 |
 | Condor | HS-U939 | u939e_6 | HS-U939 |
 | Condor | PGN404 | PGN404 | PGN404 |
 | Condor | PGN409 | PGN409 | PGN409 |
@@ -3165,6 +3169,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | DiMora Mobile | Adrenalin Pro | Adrenalin_Pro | Adrenalin Pro |
 | DiMora Mobile | InnoV8 | InnoV8 | InnoV8 |
 | DiMora Mobile | InnoV8_PRO | InnoV8_PRO | InnoV8_PRO |
+| Dialog | SEI103DL | SEI103 | SEI103DL |
 | Dialog Blaze | 5701A | 5701A | 5701A |
 | Dialog Blaze | Dialog_Blaze_Mini | Dialog_Blaze_Mini | Dialog_Blaze_Mini |
 | Dialog Blaze | M50E-1A | M50E-1A | M50E-1A |
@@ -3321,6 +3326,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Dish | AirTV Player | uiw4010ech | AirTV Player |
 | Dish | EVOLVE | dish_cable_bcm | SH960C-DS |
 | Dish | SV10 | HiCast | SV10 |
+| DishTV (IN) | D-805XATV HD | SEI110 | D-805XATV HD |
 | DishTV-NZ | SV10 | HiCast | SV10 |
 | Disney Frozen | BMF00001 | BMF00001 | Frozen |
 | Disney Frozen | DC_COMICS | DC_COMICS | DC_COMICS |
@@ -3574,6 +3580,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Elevate | R50A | R50A | R50A |
 | Elevate | V55C | V55C | V55C |
 | Elong Mobile | Y50 | Y50 | Y50 |
+| Elsys | ETRI10 | SEI103 | ETRI01 |
 | Ematic | Cubby | SproutChannelCubby | SproutChannelCubby |
 | Ematic | EBM104JB | EBM104JB | EBM104JB |
 | Ematic | EGD078 | EGD078 | EGD078 |
@@ -4203,6 +4210,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | G7 Mobiles | G7S54P3CR | G7S54P3CR | G7S54P3CR |
 | GD Classbook | TA80CA1 | TA80CA1_2 | TA80CA1 |
 | GEOFOX | GEOFOX_MID743 | GEOFOX_MID743 | GEOFOX_MID743 |
+| GFive | Gpad701 | Gpad701 | Gpad701 |
 | GIGI | U1 | GIGI_U1 | GIGI_U1 |
 | GIRASOLE | X9 | X9 | X9 |
 | GRID Communications (SG) | GS6100 | GRID_GS6100 | GS6100 |
@@ -5665,7 +5673,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | AGM  X2 | HS8976QC | X2_SE |
 | Hisense | AGM A7 | HS8909QC | AGM A7 |
 | Hisense | AGM X1 | HS8952QC | AGM X1 |
-| Hisense | AGM X3 | HSSDM845QC | AGM X3 |
 | Hisense | AJM X2 | HS8976QC | AGM X2 |
 | Hisense | Andromax-c | AD686G | Andromax-c |
 | Hisense | C-4 | C_4 | C-4 |
@@ -10255,6 +10262,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Le Pan | TC1010 | FG6A-LP | Le Pan TC1010 |
 | Le Pan | TC1020 | FG6Q | Le Pan TC1020 |
 | Le Pan | TC802A | UY8 | Le Pan TC802A |
+| LeBest | A1 | A1 | A1 |
 | LeBest | S1 | S1 | S1 |
 | LeTV | Le 2 | le_s2 | Le X520 |
 | LeTV | Le 2 | le_s2_ww | Le X526 |
@@ -10953,6 +10961,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lephone | Lephone W8 | lephone_W8 | lephone_W8 |
 | Lephone | S104G | S104G | S104G |
 | Lephone | lephone P1 | lephoneP1 | lephoneP1 |
+| Lephone | lephone P2 | lephone_P2B | lephone P2 |
 | Lephone | lephone P5 | lephone_P5 | lephone P5 |
 | Lephone | lephone P5 | lephone_P5B | lephone P5 |
 | Lephone | lephone W10 | lephone_W10 | lephone_W10 |
@@ -11770,6 +11779,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Mintt | UltraMinttS2 | UltraMinttS2 | UltraMinttS2 |
 | Mintt | UltraMinttX2 | UltraMinttX2 | UltraMinttX2 |
 | Mintt | Ultramintt R1 | Ultramintt_R1 | Ultramintt R1 |
+| Mio Tab | MI86 | MI86 | MI86 |
 | Mio Tab | MioTab | MioTab2016 | MioTab 2016 |
 | Mio Tab | MioTab2017 | MioTab2017 | MioTab2017 |
 | Miophone | Mio Phone | MioPhone2016 | Mio Phone 2016 |
@@ -12866,6 +12876,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nokia | N1 | Nokia_N1 | N1 |
 | Nokia | Nokia 1 | FRT | Nokia 1 |
 | Nokia | Nokia 2 | E1M | Nokia 2 |
+| Nokia | Nokia 2 V | EVW | Nokia 2 V |
 | Nokia | Nokia 2.1 | E2M | Nokia 2.1 |
 | Nokia | Nokia 3 | NE1 | TA-1020 |
 | Nokia | Nokia 3 | NE1 | TA-1028 |
@@ -13801,6 +13812,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Philips | HMP8100/93 | HMP8100_ATV_93 | HMP8100_ATV_93 |
 | Philips | HMP8100/98 | HMP8100_ATV | HMP8100_ATV_INT |
 | Philips | PHILIPS | TLE722G | TLE722G |
+| Philips | PHILIPS TV | cocina | PHILIPS TV |
 | Philips | PHP-S221C4AFD | MMD_WW | G3SMNTS22 |
 | Philips | PHP-S231C4AFD | G3SMNTS23 | G3SMNTS23 |
 | Philips | PI2000 | PI2000 | PI2000 |
@@ -14169,6 +14181,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Premio | Premio P610 | Premio_P610 | P610 |
 | Premio | Premio P620 | Premio_P620 | P620 |
 | Premio | Premio_P451 | Premio_P451 | Premio P451 |
+| Premio | S40 | S40 | S40 |
 | Premio | X1 | 186HS2080531 | 186HS2080531 |
 | Prestige | 7G | Prestige-7G | Prestige 7G |
 | Prestige | ELITE10Q | Elite10Q | Elite10Q |
@@ -14701,6 +14714,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ruio | Ruio_S5Plus | Ruio_S5Plus | Ruio_S5Plus |
 | Ruio | Ruio_i7Plus | i7Plus | i7Plus |
 | Ruio | S4 | RUIO_S4 | RUIO_S4 |
+| Rumie | RT-1708 | RT-1708 | RT-1708 |
 | Runbo | F1Plus | F1Plus | F1Plus |
 | S-tell | M555i | M555i | M555i |
 | S-tell | M578 | M578 | M578 |
@@ -16531,6 +16545,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A Lite | gtasliteltevzw | SM-T387VK |
 | Samsung | Galaxy Tab A S 8.0 | gt58ltebmc | SM-T357W |
 | Samsung | Galaxy Tab A(10.5) | gta2xllte | SM-T597 |
+| Samsung | Galaxy Tab A8 | gtaslitelteusc | SM-T387R4 |
 | Samsung | Galaxy Tab Active | rubenslte | SM-T365Y |
 | Samsung | Galaxy Tab Active2 | gtactive2lte | SM-T395 |
 | Samsung | Galaxy Tab Active2 | gtactive2ltechn | SM-T395C |
@@ -19586,6 +19601,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Thomson | PRIMO7 Tablet | PRIMO7 | PRIMO7 |
 | Thomson | PRIMO8 Tablet | AMLMY8306P | PRIMO8 |
 | Thomson | TEO10 | TEO10 | SPTEO10BK16 |
+| Thomson | TEO13P | TEO13P | TEO13P |
 | Thomson | TEO7RK | TEO7RK | TEO7RK |
 | Thomson | THOMSON_TEO10S | TEO10S | TEO10S |
 | Thomson | TLink 455 | TLINK455 | TLINK455 |
@@ -19850,6 +19866,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | VAIO | VA-10J | VA-10J | JCI VA-10J |
 | VAIO | VPA051 | VPA051 | VPA051 |
 | VALTECH | TAB7Q804VAL | TAB7Q804VAL | TAB7Q804VAL |
+| VBox | XTi | DTP9539 | XTi |
 | VENSTAR | VENSTAR2050 | VENSTAR2050 | VENSTAR2050 |
 | VIBE Z | K910 | kitonw | Lenovo K910 |
 | VSN | V.35 | up11_h1_vsn | V.35 |
@@ -20082,6 +20099,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vestel | Vestel Z20 | Cunda | Venus Z20 |
 | Vestel | Vestel_5000_2gb | Leo_2GB | Vestel_5000_2gb |
 | Vestel | venus_v3_5010 | DynoLight | Venus_V3_5010 |
+| Vexia | NicatabletV3 | NicatabletV3 | NicatabletV3 |
 | Vgo Tel | OCEAN 6 | VGOTEL_OCEAN_6 | Ocean 6 |
 | Vgo Tel | Ocean 8 | Ocean_8 | Ocean_8 |
 | Vgo Tel | Ocean 9 | Ocean_9 | Ocean_9 |
@@ -20256,6 +20274,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vivo | vivo 1808 | 1808 | vivo 1808 |
 | Vivo | vivo 1811 | 1811 | vivo 1811 |
 | Vivo | vivo 1812 | 1812 | vivo 1812 |
+| Vivo | vivo 1813 | 1813 | vivo 1813 |
+| Vivo | vivo 1814 | 1814 | vivo 1814 |
+| Vivo | vivo 1815 | 1815 | vivo 1815 |
+| Vivo | vivo 1816 | 1816 | vivo 1816 |
 | Vivo | vivo 1817 | 1817 | vivo 1817 |
 | Vivo | vivo NEX A | PD1806 | vivo NEX A |
 | Vivo | vivo NEX S | PD1805 | vivo NEX S |
