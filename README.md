@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 03.01.2019
+Last sync is 04.01.2019
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -446,6 +446,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | AllView | AX4 Nano Plus | AX4Nano_plus | AX4Nano_plus |
 | AllView | AX501Q | AX501Q | AX501Q |
 | AllView | AX502 | AX502 | AX502 |
+| AllView | AX503 | AX503 | AX503 |
 | AllView | C6 Duo | C6_Duo | C6_Duo |
 | AllView | C6 Quad 4G | C6_Quad_4G | C6Quad_4G |
 | AllView | E2 Jump | ALLVIEW_E2_Jump | E2_Jump |
@@ -1309,12 +1310,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Asus | ZenFone Max M1 (ZB555KL) | ASUS_X00P_1 | ASUS_X00PD |
 | Asus | ZenFone Max M1 (ZB555KL) | ASUS_X00P_1 | ZB555KL |
 | Asus | ZenFone Max M1 (ZB555KL) | ASUS_X00P_2 | ASUS_X00PD |
-| Asus | ZenFone Max M1 (ZB555KL) | ASUS_X00P_3 | ASUS_X00PD |
 | Asus | ZenFone Max M1 (ZB555KL) | ASUS_X00P_3 | ZB555KL |
 | Asus | ZenFone Max M1 (ZB555KL) | ASUS_X00P_4 | ASUS_X00PD |
 | Asus | ZenFone Max M1 (ZB555KL) | ASUS_X00P_6 | ASUS_X00PD |
 | Asus | ZenFone Max M1 (ZB555KL) | ASUS_X00P_8 | ASUS_X00PD |
 | Asus | ZenFone Max M1 (ZB555KL) | ASUS_X00P_8 | ZB555KL |
+| Asus | ZenFone Max M1/M2 (ZB555KL) | ASUS_X00P_3 | ASUS_X00PD |
 | Asus | ZenFone Max M2 (ZB632KL/ZB633KL) | ASUS_X01A_1 | ASUS_X01AD |
 | Asus | ZenFone Max M2 (ZB632KL/ZB633KL) | ASUS_X01A_1 | ZB633KL |
 | Asus | ZenFone Max Plus M1 (ZB570TL) | ASUS_X018_1 | ASUS_X018D |
@@ -3101,6 +3102,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Datsun | Datsun_D5001 | Datsun_D5001 | Datsun_D5001 |
 | Datsun | Datsun_D5500 | D5500 | DATSUN_D5500 |
 | Ddm | ANDY 5EI | AM5E3I047 | ANDY 5EI |
+| DeWALT | DeWalt md501 | md501 | md501 |
 | Dell |  | Dell_Grappa | Dell Aero |
 | Dell |  | Dell_Grappa | Mini_3iG |
 | Dell |  | Streak10Pro | Dell Streak 10 Pro |
@@ -3505,6 +3507,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | EKO | EKO OMEGA LTE Q60 | EKO_OMEGA_LTE_Q60 | EKO OMEGA LTE Q60 |
 | EKO | EKO OMEGA Q55 | EKO_OMEGA_Q55 | EKO OMEGA Q55 |
 | EKO | EKO Star LTE G60 | EKO_Star_LTE_G60 | EKO Star LTE G60 |
+| EKO | Star 4.0 G40 | Star_4_0_G40 | Star 4.0 G40 |
 | ENIE | E4Pro | E4Pro | E4Pro |
 | ENIE | E6 | E6 | E6 |
 | ENIE | EH3 | EH3 | EH3 |
@@ -4562,6 +4565,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Gol Mobile | TEAM_7_3G | TEAM_7_3G | TEAM_7_3G |
 | Gol Mobile | Team_7 | Team_7 | Team 7.0 |
 | Goldmaster | BENGAL_6 | BENGAL_6 | BENGAL_6 |
+| Goldmaster | F_4 | F_4 | F_4 |
 | Gome | GOME C7 | GOME_C7 | GOME_2018X07A |
 | Gome | GOME C7 Note mini | GOME_C7_Note_Mini | GOME_C7_Note |
 | Gome | GOME_C7_Note | GOME_C7_Note | GOME_C7_Note |
@@ -7477,6 +7481,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | honor 6C Pro | HWJMM | JMM-L22 |
 | Huawei | honor 6x | HWBLN-H | BLN-L21 |
 | Huawei | honor 6x | HWBLN-H | BLN-L22 |
+| Huawei | honor 8C | HWBKK-Q | BKK-AL10 |
+| Huawei | honor 8C | HWBKK-Q | BKK-L21 |
+| Huawei | honor 8C | HWBKK-Q | BKK-L22 |
+| Huawei | honor 8C | HWBKK-Q | BKK-LX2 |
 | Huawei | huawei nova 2 | HWPIC | HWV31 |
 | Huawei | hw204HW | hw204HW | 204HW |
 | Huawei | m881 | hwm881 | HUAWEI M881 |
@@ -7586,6 +7594,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab8 Plus | HWFLA-H | FLA-TL10 |
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab8e | HWATU-QC | ATU-AL10 |
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab8e | HWATU-QC | ATU-TL10 |
+| Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab9 | HWDUB-Q | DUB-AL00 |
+| Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab9 | HWDUB-Q | DUB-AL20 |
+| Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab9 | HWDUB-Q | DUB-TL00 |
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab9 Plus | HWJKM-H | JKM-AL00 |
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab9 Plus | HWJKM-H | JKM-TL00 |
 | Huawei | \xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab9 Plus | HWJKM-HM | JKM-AL00a |
@@ -11344,6 +11355,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Mecer | TF10EA2 | TF10EA2_11 | TF10EA2 |
 | Mecer | TF10MK1 | TF10MK1_2 | TF10MK1 |
 | Mecool | KM8 | KM8 | KM8 |
+| Mediacom | 10edge | 10edge | 10edge |
 | Mediacom | 1AY | 1AY | 1AY |
 | Mediacom | 1BY | 1BY | 1BY |
 | Mediacom | 7BY | 7BY | 7BY |
@@ -12382,8 +12394,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Moxee Technologies | X10 | X10 | X10 |
 | Moxee Technologies | X100 | X100 | X100 |
 | Mpgio | ATHENA_A10 | ATHENA_A10 | ATHENA_A10 |
+| Mpgio | LEGEND_NEW7 | LEGEND_NEW7 | LEGEND_NEW7 |
 | Mpgio | LEGEND_R | LEGEND_R | LEGEND_R |
 | Mpgio | LEGEND_R_PLUS | LEGEND_R_PLUS | LEGEND_R_PLUS |
+| Mpgio | MPGIO_8 | MPGIO_8 | MPGIO_8 |
 | Mpman | MPQC10 | MPQC10 | MPQC10 |
 | Mpman | PH604 | PH604 | PH604 |
 | Multilaser | Discovery | Discovery | Discovery |
@@ -12825,6 +12839,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | New Balance | Run IQ | shasta | NB RunIQ |
 | Newland | NLS-MT6550-AM | NLS-MT6550-AM | NLS-MT65 |
 | Newland | NLS-MT6552-GL | NLS-MT6552-GL | NLS-MT65 |
+| Newland | NLS-MT6552-RU | NLS-MT6552-RU | NLS-MT65 |
 | Newsday | A1 | Newsday_A1 | Newsday_A1 |
 | Newsday | A2 | Newsday_A2 | Newsday_A2 |
 | Newsday | E1 | Newsday_E1 | Newsday_E1 |
@@ -13789,6 +13804,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Pendo | Pendo | PNDP70M7BLK | PNDP70M7BLK |
 | Penta | ETBA0552 | PENTA_83AAQ2 | PENTA_83AAQ2 |
 | Penta | ETBA0692 | PENTA_73AAQ1 | PENTA_73AAQ1 |
+| Penta | PENTA_73AAQ1 | ETBA0604 | PENTA_73AAQ1 |
 | Performance | PR7RKTNF | PR7RKTNF | PR7RKTNF |
 | Philco | PTB7PAP_ PTB7PAB _ PTB7PAR | PTB7PA | PTB7PAP_PTB7PAB_PTB7PAR |
 | Philco | PTB7QSG_3G | PTB7QSG_3G | PTB7QSG_3G |
@@ -14709,6 +14725,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ruggear | RG760 | RG760 | RG760 |
 | Ruggear | RG850 | RG850 | RG850 |
 | Ruggear | RG910 | RG910 | RG910 |
+| Ruggear | RugGear rg730 | rg730 | rg730 |
 | Ruio | RUIO i7c Tablet | i7c | i7c |
 | Ruio | Ruio_S4 Plus | S4Plus | S4Plus |
 | Ruio | Ruio_S5Plus | Ruio_S5Plus | Ruio_S5Plus |
@@ -16542,7 +16559,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A 9.7 | gt5note10wifichn | SM-P550 |
 | Samsung | Galaxy Tab A Lite | gtaslitelteatt | SM-T387AA |
 | Samsung | Galaxy Tab A Lite | gtasliteltespr | SM-T387P |
-| Samsung | Galaxy Tab A Lite | gtasliteltevzw | SM-T387VK |
 | Samsung | Galaxy Tab A S 8.0 | gt58ltebmc | SM-T357W |
 | Samsung | Galaxy Tab A(10.5) | gta2xllte | SM-T597 |
 | Samsung | Galaxy Tab A8 | gtaslitelteusc | SM-T387R4 |
@@ -16891,6 +16907,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Garda | gardaltetmo | SGH-T399 |
 | Samsung | Gear Live | sprat | Gear Live |
 | Samsung | Gem | SCH-I100 | SCH-I100 |
+| Samsung | Gizmo Tablet | gtasliteltevzw | SM-T387VK |
 | Samsung | Hennessy | hennessy3gduosctc | SCH-W789 |
 | Samsung | Homesync | spcwifi | GT-B9150 |
 | Samsung | Homesync | spcwifiany | GT-B9150 |
@@ -17411,6 +17428,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Smartab | STJR700 | STJR700 | STJR700 |
 | Smartab | STJR76 | STJR76 | STJR76 |
 | Smartec | MiCA | MiCA | MiCA |
+| Smartec | SmartabS4 | SmartabS4 | SmartabS4 |
 | Smartex | M700 | M700 | M700 |
 | Smartex | P600 | P600 | P600 |
 | Smartex | SMARTEX_M512 | M512 | M512 |
@@ -18774,6 +18792,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033Y |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | Alcatel T 5033T |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | Optus X Start |
+| TCT (Alcatel) | Alcatel 1C | Curie | 5003D |
 | TCT (Alcatel) | Alcatel 1C | U5A_PLUS_3G | 5009A |
 | TCT (Alcatel) | Alcatel 1C | U5A_PLUS_3G | 5009D |
 | TCT (Alcatel) | Alcatel 1C | U5A_PLUS_3G | 5009D_RU |
@@ -19711,6 +19730,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Trekstor | SurfTab xintron i 7.0 | st70408_4_coho | st70408_4 |
 | Trekstor | SurfTab xintron i 7.0 | st70408_4_coho | st70408_4_coho |
 | Trekstor | TFMTKAW01232 | TFMTKAW01232 | TFMTKAW01232 |
+| Trekstor | Trekstor Surftab B10 | THMTKAW01232 | Trekstor Surftab B10 |
 | Trekstor | tolino tab 7 | tolino7 | tolino tab 7 |
 | Trekstor | tolino tab 8 | tolino8 | tolino tab 8 |
 | Trekstor | tolino tab 8.9 | tolino89 | tolino tab 8.9 |
@@ -20897,6 +20917,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Xolo | Era 2X 2GB | XE2X | Era 2X |
 | Xolo | Era 2X 3GB | XE2X3GB | Era 2X 3GB |
 | Xolo | Era3 | Era_3 | Era 3 |
+| Xolo | Era_4X | Era_4X | Era_4X |
 | Xolo | Era_4X_2GB | Era_4X_2GB | Era_4X_2GB |
 | Xolo | XOLO ERA 2V | Era_2V | Era 2V |
 | Xolo | XOLO ERA 3X | Era_3X | era3x |
