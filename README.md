@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 04.01.2019
+Last sync is 05.01.2019
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1786,6 +1786,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Bentley | Tab | sdis1 | BENTLEY ENTERTAINMENT TABLET |
 | Bertoli | B20X | B20X | B20X |
 | Best Buy | Transformer Pad (TF103C) | K010 | K010 |
+| Beyond | MAX4 | MAX4 | MAX4 |
 | Bigben | BB8252 | Bigben-TAB | BB8252 |
 | Bigben | GAMETAB-ONE | GAMETAB-ONE | GAMETAB-ONE |
 | Billion | Billion Capture+ | rimoB | Capture+ |
@@ -2483,10 +2484,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | China Mobile | n1 max | m823_cmcc | M823 |
 | Chuwi | CHUWI | Hi9Air | Hi9Air |
 | Chuwi | Hi9 | Hi9 | Hi9 |
+| Cipherlab | Hera51 | Hera51 | Hera51 |
 | Cipherlab | RK25 | RK25 | RK25 |
 | Cipherlab | RK25WO | RK25WO | RK25WO |
 | Cipherlab | RS30 | Mercury | CipherLab RS30 |
 | Cipherlab | RS31 | RS31 | RS31 |
+| Cipherlab | RS51_HS | RS51_HS | RS51_HS |
 | Cipherlab | Saturn | RS50 | RS50 |
 | Cisco | CP-DX650 | CP-DX650 | CP-DX650 |
 | Cisco | DX70 | CP-DX70 | CP-DX70 |
@@ -2683,6 +2686,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Connectce | Connect Core 6 | Connect_Core_6 | CP6001A |
 | Connex | CTAB-1044 | CTAB-1044 | CTAB-1044 |
 | Conquest | S11 | conquest-S11 | S11 |
+| Contixo | K4 | K4 | K4 |
+| Contixo | LA703R | LA703R | LA703R |
 | Coolpad |  | 7019_msm7627a | Coolpad 7019 |
 | Coolpad |  | 7560U | Nivo |
 | Coolpad |  | 801E | 801E |
@@ -3508,6 +3513,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | EKO | EKO OMEGA Q55 | EKO_OMEGA_Q55 | EKO OMEGA Q55 |
 | EKO | EKO Star LTE G60 | EKO_Star_LTE_G60 | EKO Star LTE G60 |
 | EKO | Star 4.0 G40 | Star_4_0_G40 | Star 4.0 G40 |
+| EKO | Star 5.0 G50 | Star_5_0_G50 | Star 5.0 G50 |
 | ENIE | E4Pro | E4Pro | E4Pro |
 | ENIE | E6 | E6 | E6 |
 | ENIE | EH3 | EH3 | EH3 |
@@ -5390,8 +5396,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | HTC | Wildfire S A515c | marvelc | HTC-PG762 |
 | HTC | Wildfire S A515c | marvelc | USCCADR6230US |
 | HTC | X2-HT | htc_ocla1_sprout | X2-HT |
-| HTC | breeze | htc_breeze_dugl | HTC 2Q5V1 |
-| HTC | breeze | htc_breeze_dugl | HTC Desire 12 |
 | HTC | desire 400 dual sim | cp2dug | HTC Desire 400 dual sim |
 | HTC | desire 608t | cp3dtg | HTC 608t |
 | HTC | desire 610 | htc_a3qhdul | HTC Desire 610 |
@@ -11167,6 +11171,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | M-Horse | Pure 3 | Pure_3 | Pure 3 |
 | M-tech | Eros Power | EROS_Power | EROS Power |
 | M-tech | Eros_Star | Eros_Star | Eros_Star |
+| M-tech | Shine | Shine | Shine |
 | M3 Mobile | M3 SM15N | M3SM15N | M3SM15N |
 | M3 Mobile | M3 SM15X | M3SM15X | M3SM15X |
 | M3 Mobile | M3-SL10 | M3-SL10 | M3-SL10 |
@@ -11337,6 +11342,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Maxwest | Ranger 5 | Ranger_5 | Ranger_5 |
 | MeanIT | C4 | C4 | C4 |
 | MeanIT | meanIT C80C81 | meanIT_C80C81 | meanIT_C80C81 |
+| MeanIT | meanIT-X10 | meanIT-X10 | meanIT X10 |
 | MeanIT | meanIT_C10C11 | meanIT_C10C11 | meanIT_C10C11 |
 | MeanIT | meanIT_K7 | meanIT_K7 | meanIT_K7 |
 | MeanIT | meanIT_X6 | meanIT_X6 | meanIT_X6 |
@@ -13961,6 +13967,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Plaisio | Turbox_A3 | Turbox_A3 | Turbox_A3 |
 | Plaisio | Turbox_S3 | Turbox_S3 | Turbox_S3 |
 | Plaisio | lamda | Turbo-X_lamda | Turbo-X lamda |
+| Plum | Z621 | Z621 | Z621 |
+| Plum | Z711 | Z711 | PLUM Z711 |
 | Plus4 | Q-Touch | Q-Touch | Q-Touch |
 | Plusone | FREETEL Priori3S | FTU152A | FTU152A |
 | Plusone | FREETEL SAMURAI KIWAMI 2 | SAMURAI_KIWAMI2 | FTJ162B |
@@ -14198,6 +14206,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Premio | Premio P620 | Premio_P620 | P620 |
 | Premio | Premio_P451 | Premio_P451 | Premio P451 |
 | Premio | S40 | S40 | S40 |
+| Premio | S71 | S71 | S71 |
 | Premio | X1 | 186HS2080531 | 186HS2080531 |
 | Prestige | 7G | Prestige-7G | Prestige 7G |
 | Prestige | ELITE10Q | Elite10Q | Elite10Q |
@@ -18783,13 +18792,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | ATEL ONE TOUCH 995 | one_touch_995_gsm | ALCATEL_one_touch_995 |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033A |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033D |
+| TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033D_EEA |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033D_RU |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033J |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033O |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033S |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033T |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033X |
+| TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033X_EEA |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033Y |
+| TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | 5033Y_EEA |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | Alcatel T 5033T |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | Optus X Start |
 | TCT (Alcatel) | Alcatel 1C | Curie | 5003D |
@@ -18808,10 +18820,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Alcatel 1X | U5A_PLUS_4G | HEYOU3 |
 | TCT (Alcatel) | Alcatel 3 | A3A | 5052A |
 | TCT (Alcatel) | Alcatel 3 | A3A | 5052D |
+| TCT (Alcatel) | Alcatel 3 | A3A | 5052D_EEA |
 | TCT (Alcatel) | Alcatel 3 | A3A | 5052D_RU |
 | TCT (Alcatel) | Alcatel 3 | A3A | 5052Y |
+| TCT (Alcatel) | Alcatel 3 | A3A | 5052Y_EEA |
 | TCT (Alcatel) | Alcatel 3 | Dive_73 | Orange Dive 73 |
 | TCT (Alcatel) | Alcatel 3L | A3A_LITE | 5034D |
+| TCT (Alcatel) | Alcatel 3L | A3A_LITE | 5034D_EEA |
 | TCT (Alcatel) | Alcatel 3L | A3A_LITE | 5034D_RU |
 | TCT (Alcatel) | Alcatel 3L | A3A_LITE | HEYOU5 |
 | TCT (Alcatel) | Alcatel 3T 8 | A3A_8_4G | 9027F |
@@ -18834,6 +18849,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Alcatel 5V | A5X | 5060A |
 | TCT (Alcatel) | Alcatel 5V | A5X | 5060D_RU |
 | TCT (Alcatel) | Alcatel 5X | A5X | 5060D |
+| TCT (Alcatel) | Alcatel 5X | A5X | 5060D_EEA |
 | TCT (Alcatel) | Alcatel 5X | A5X | 5060J |
 | TCT (Alcatel) | Alcatel Raven LTE | BUZZ6T4GTFUMTS | A574BL |
 | TCT (Alcatel) | Alcatel one touch 985 | one_touch_985A_gsm | ALCATEL_one_touch_985 |
@@ -19267,6 +19283,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Xess-mini | Xess-mini | TCL Xess C15BA |
 | TCT (Alcatel) | alcatel 1X | Edison | 5008A |
 | TCT (Alcatel) | alcatel 1X | Edison | 5008D |
+| TCT (Alcatel) | alcatel 1X | Edison | 5008D_EEA |
 | TCT (Alcatel) | alcatel 1X | Edison | 5008T |
 | TCT (Alcatel) | alcatel 1X | Edison | 5008U |
 | TCT (Alcatel) | alcatel 1X | Edison | 5008Y |
@@ -20445,6 +20462,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vortex | SYNQ | SYNQ | SYNQ |
 | Vortex | Sync | Sync | Sync |
 | Vortex | V50LTE | V50LTE | V50LTE |
+| Voto | V9 | VOTO_V9 | V9 |
 | Voto | VOTO V2 | VOTO_V2 | VOTO V2 |
 | Voto | VOTO V2i` | VOTO_V2i | VOTO V2i |
 | Voto | VOTO V3 | VOTO_V3 | VOTO V3 |
@@ -22407,11 +22425,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Zuum | LIMIT | LIMIT | LIMIT |
 | Zuum | MAGNO | ZUUM_MAGNO | MAGNO |
 | Zuum | MAGNO | ZUUM_MAGNO-S | MAGNO-S |
+| Zuum | MAGNO C | MAGNO_C | MAGNO C |
 | Zuum | ONIX | ONIX | ONIX |
 | Zuum | ONIX S | ONIX_S | ONIX S |
 | Zuum | STELLAR | STELLAR | STELLAR |
 | Zuum | STELLAR MINI | STELLAR_MINI | STELLAR MINI |
 | Zuum | STELLAR PLUS | STELLAR_PLUS | STELLAR PLUS |
+| Zuum | STELLAR PRO | STELLAR_PRO | STELLAR PRO |
 | Zuum | STELLAR Z | STELLAR_Z | STELLAR Z |
 | Zuum | ULTRA Z | Ultra_Z | ULTRA Z |
 | Zuum | ZUUM AKUS | AKUS | AKUS |
@@ -22562,6 +22582,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iHunt | S10_Tank_2019 | S10_Tank_2019 | S10_Tank_2019 |
 | iHunt | S60_Discovery_2019 | S60_Discovery_2019 | S60_Discovery_2019 |
 | iHunt | TITAN P11000 PRO | TITAN_P11000_PRO | TITAN_P11000_PRO |
+| iHunt | Tian_P3000 | Tian_P3000 | Tian_P3000 |
 | iHunt | Tian_P7000 | Tian_P7000 | Tian_P7000 |
 | iHunt | TitanP6000 | TitanP6000 | TitanP6000 |
 | iHunt | iHunt S90 Apex | S90_Apex | S90_Apex |
