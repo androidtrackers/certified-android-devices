@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 05.01.2019
+Last sync is 06.01.2019
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14791,6 +14791,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | SMT_SN | CRUSH X565 | CRUSH_X565 | CRUSH_X565 |
 | SMT_TSC | BLAZE X500 | BLAZE_X500 | BLAZE_X500 |
 | SMT_TSC | CRUSH_X565 | CRUSH_X565 | CRUSH_X565 |
+| SOLO | Inspire_U5 | Inspire_U5 | Inspire_U5 |
 | SOSMART | T5 | SOSMART_T5 | SOSMART_T5 |
 | SPC Mobile | Blink_10_1 | Blink_10_1 | Blink 10.1 |
 | SPC Mobile | FLOW_7 | FLOW_7 | FLOW 7 |
@@ -20790,6 +20791,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | X-TIGI | X_TIGI_A2 | X_TIGI_A2 | X_TIGI_A2 |
 | X-TIGI | X_TIGI_Photo P20 | X_TIGI_Photo_P20 | X_TIGI_Photo P20 |
 | X-TIGI | X_TIGI_V16 | X_TIGI_V16 | X_TIGI_V16 |
+| X-TIGI | X_TIGI_V16_LTE | X_TIGI_V16_LTE | X_TIGI_V16_LTE |
 | X-View | AMBER_KIDS | AMBER_KIDS | AMBER_KIDS |
 | X-View | PROTON_AMBER_HD | Proton_Amber_HD | Proton_Amber_HD |
 | XL Axiata | XL Home Pow | STI6xxx | STI6030 |
