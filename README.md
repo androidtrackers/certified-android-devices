@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 07.01.2019
+Last sync is 08.01.2019
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1584,6 +1584,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | BMobile | AX685 | Bmobile_AX685 | AX685 |
 | BMobile | AX685 | Bmobile_AX685 | Bmobile_AX685 |
 | BMobile | AX686 | Bmobile_AX686 | AX686 |
+| BMobile | AX686A | Bmobile_AX686A | AX686A |
+| BMobile | AX687 | Bmobile_AX687 | AX687 |
 | BMobile | AX700 | Bmobile | AX7OO |
 | BMobile | AX751 | Bmobile_AX751 | AX751 |
 | BMobile | AX810 | Bmobile | Bmobile_AX810 |
@@ -2258,6 +2260,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Camfone | Hero 12 | Hero_12 | Hero 12 |
 | Camfone | Hero H7 Plus | Hero_H7_Plus | Hero_H7_Plus |
 | Camfone | Hero H9 | Hero_H9 | Hero_H9 |
+| Camfone | Hero SE2 | Hero_SE2 | Hero_SE2 |
 | Camfone | Hero SE3 Max | Hero_SE3_Max | Hero SE3 Max |
 | Camfone | Hero X | Hero_X | Hero X |
 | Camfone | Hero_13 | Hero_13 | Hero_13 |
@@ -3096,7 +3099,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Danew | Konnect 506 | Konnect506 | Konnect506 |
 | Danew | Konnect 510 colors | Konnect_510 | Konnect_510_colors |
 | Danew | Konnect 560 Cin\xc3\xa9pix | Konnect_560 | Konnect_560 |
+| Danew | Konnect 602 | Konnect602 | Konnect602 |
 | Danew | Surnaturel_R500 | Surnaturel_R500 | Surnaturel_R500 |
+| Danew | TRACE ONE | T_ONE | T_ONE |
 | Danew | konnect 601 | Konnect_601 | Konnect_601 |
 | Datalogic | Datalogic MEMOR 10 | dl35 | MEMOR 10 |
 | Datalogic | MEMOR 1 | M1_HANDHELD | Memor 1 |
@@ -3847,6 +3852,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | FarEasTone | Smart501 | Smart501 | Smart501 |
 | FarEasTone | Smart503 | MC2 | Smart503 |
 | FarEasTone | Smart601 | Smart601 | Smart601 |
+| Fero | A4001 Plus 2019 | A4001_Plus_2019 | Fero A4001 Plus 2019 |
 | Fero | A5000 | A5000 | A5000 |
 | Fero | A5003 | A5003 | A5003 |
 | Fero | A5003 | A5003_512 | A5003 |
@@ -4202,6 +4208,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Future Mobile Technology | FMT-NM7054-01 | FMT-NM7054-01 | FMT-NM7054-01 |
 | Future Mobile Technology | FMT-NM7054-03 | FMT-NM7054-03 | FMT-NM7054-03 |
 | Future Mobile Technology | FMT-NM7058-03 | FMT-NM7058-03 | FMT-NM7058-03 |
+| Future Mobile Technology | FXT113R | FXT113R | FXT113R |
 | Future Mobile Technology | Falcon | 176HS1050531 | 176HS1050531 |
 | Future Mobile Technology | Flash | FMT-NM7058-02 | FMT-NM7058-02 |
 | Future Mobile Technology | Netsurfer STORM | 16M4HI105024 | 16M4HI105024 |
@@ -7773,6 +7780,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hyundai | L501 | L501 | L501 |
 | Hyundai | L502 | Hyundai_L502 | L502 |
 | Hyundai | L503F | L503F | L503F |
+| Hyundai | L503F Plus | L503F_Plus | L503F Plus |
 | Hyundai | L575 | L575 | L575 |
 | Hyundai | L601F | L601F | L601F |
 | Hyundai | Seoul 9 | Seoul_9 | Seoul 9 |
@@ -8215,6 +8223,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Irbis | IRBIS TZ752 | TZ752 | TZ752 |
 | Irbis | IRBIS TZ753 | TZ753 | TZ753 |
 | Irbis | SP401 | SP401 | SP401 |
+| Irbis | SP402 | SP402 | SP402 |
 | Irbis | SP453 | SP453 | SP453 |
 | Irbis | SP454 | SP454 | SP454 |
 | Irbis | SP455 | SP455 | SP455 |
@@ -8407,6 +8416,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | JapanTaxi | IRIS ITAB05 | IRIS_ITAB05 | IRIS_ITAB05 |
 | Jenesis | JT07-81B | JT07-81B | JT07-81B |
 | Jenesis | JT10-81B | JT10-81B | JT10-81B |
+| Jesy | J11 | J11 | J11 |
 | Jesy | J9S | J9S | J9S |
 | Jide | Remix Mini | rm1g | Remix Mini |
 | Jimi | KN C4 | JIMI_KNC4 | JIMI_KNC4 |
@@ -8414,12 +8424,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Jimo | S5006 | S5006 | S5006 |
 | Jinga | Jinga Joy | JI55A_189BW | Joy |
 | Jinga | JoyPRO | JI55B_189BW | JoyPRO |
+| Jinga | Neon | Neon | Neon |
 | Jinga | Optim 4G | Optim4G | Optim4G |
 | Jinga | Optim4G | Optim4G | Optim4G |
 | Jinga | Pass | Pass | Pass |
 | Jinga | Pass Plus | JI55AG_189ID | PassPlus |
 | Jinga | Picasso Note | PicassoNote | PicassoNote |
 | Jinga | SmartPRO | JI55_216M | SmartPRO |
+| Jinga | Start | JI50AG2_169HP | Start |
 | Jinga | Start 3G | Start3G | Start3G |
 | Jinga | Touch 4G | Touch4G | Touch4G |
 | Jivi | Energy E12 | Energy_E12 | Energy E12 |
@@ -8520,6 +8532,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | KONKA | SE1 | SE1 | SE1 |
 | KONKA | SP3 | SP3 | SP3 |
 | KONKA | SP9 | SP9 | SP9 |
+| KONKA | TE1011 | TE1011 | TE1011 |
 | KOOLNEE | K1 | KOOLNEE_K1 | K1 |
 | KOOLNEE | K1 Trio | K1_Trio | K1 Trio |
 | KOOLNEE | K3 | K3 | K3 |
@@ -8538,6 +8551,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | KT Tech | EV-S100 | s100 | EV-S100 |
 | KT Tech | TAKE SUIT | e100 | KM-E100 |
 | KTV | PureKTV | DV8219 | PureKTV |
+| Kalley | BLACK_PRO | BLACK_PRO | BLACK_PRO |
 | Kalley | Black | Black | Black |
 | Kalley | ELEMENT MAX | ELEMENT_MAX | ELEMENT MAX |
 | Kalley | ELEMENT PLUS | ELEMENT_PLUS | ELEMENT PLUS |
@@ -8595,11 +8609,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Kempler Strauss | KEMPLER_X | KEMPLER_X | KEMPLER_X |
 | Kenbo | E111 | E111 | E111 |
 | Kenbo | E121 | E121 | E121 |
+| Kenbo | E61Pro | E61Pro | E61Pro |
 | Kenbo | K6 | K6 | K6 |
 | Kenbo | K7 | K7 | K7 |
 | Kenbo | O51 | O51 | O51 |
 | Kennex | MD7053G | MD7053G | MD7053G |
 | Kenwood | KWSA80K | XP8800 | KWSA80K |
+| Kenxinda | K20M | K20M | K20M |
 | Kenxinda | Y30 | Y30 | Y30 |
 | Ketablet | Ketablet | TR10CS1_6 | TR10CS1 |
 | Kiano | ELEGANCE 6 | ELEGANCE_6 | ELEGANCE 6 |
@@ -11216,6 +11232,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | MLAB | MB4 WIFI | MB4_WIFI | MB4 WIFI |
 | MLAB | MB4_3G | MB4_3G | MB4_3G |
 | MLAB | MB5 WIFI | MB5_WIFI | MB5 WIFI |
+| MLS Innovation | IQS805 | iQS805 | iQS805 |
 | MLS Innovation | PTB7QSG_3G | iQE200 | iQE200 |
 | MLS Innovation | iQ1568 | iQ1568 | iQ1568 |
 | MLS Innovation | iQ8011 | iQ8011 | iQ8011 |
@@ -11829,6 +11846,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Mobell | S41 | S41 | S41 |
 | Mobell | S51 | S51 | S51 |
 | Mobell | S60 | mobell_S60 | S60 |
+| Mobell | S61 | S61 | S61 |
 | MobiOcean | MOT102 | MOT102 | MOT102 |
 | Mobicell | 4U | 4U | 4U |
 | Mobicell | ARC | ARC | ARC |
@@ -12782,6 +12800,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Navon | Platinum 10 3G | Platinum_10_3G_V2 | Platinum_10_3G_V2 |
 | Navon | Predator 10 | Predator_10 | Predator 10 |
 | Navon | Predator 3G | Predator_3G | Predator 3G |
+| Navon | Pure Micro | Pure_Micro | Pure Micro |
 | Navon | S450 | S450 | S450 |
 | Navon | SKY | Sky | Sky |
 | Navon | Spirit | Spirit | Spirit |
@@ -12988,6 +13007,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nuu | A3L | NUU_A3L | NUU_A3L |
 | Nuu | A4L | N5001L | N5001L |
 | Nuu | A5L | N5501LA | N5501L |
+| Nuu | A5L+ | N5501LE | N5501L |
 | Nuu | A6L-C | A6L-C | A6L-C |
 | Nuu | G1 | N5704LA | N5704L |
 | Nuu | G2 | S6001LE | S6001L |
@@ -13035,6 +13055,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | OTHO | T3 | T3 | T3 |
 | OTK | BM57 lite | BM57_lite | BM57_lite |
 | OTOT | B10 | B10 | B10 |
+| OTOT | B11 | B11 | B11 |
 | OTOT | E1 | EOS | OTOT_E1 |
 | OTOT | H10 | H10 | H10 |
 | OTOT | PS8 | PS8 | PS8 |
@@ -13050,6 +13071,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oale | P1 | P1 | P1 |
 | Oale | P2 | P2 | P2 |
 | Oale | P3 | P3 | P3 |
+| Oale | P4 | P4 | P4 |
 | Oale | P5 | P5 | P5 |
 | Oale | P6 | P6 | P6 |
 | Obi | MV1 | yam | OBI MV1 |
@@ -17373,6 +17395,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sintel | SINTEL-X1 | SINTEL_X1 | SINTEL-X1 |
 | Siragon | SP-5000 | SP-5000 | Siragon SP-5000 |
 | Siragon | SP-7100 | SP-7100 | SP-7100 |
+| Sirin | FINNEY PHONE | SR00300-W | FINNEY U1 |
 | Sirin | LABS SOLARIN | solarin | SOLARIN |
 | Sirin | LABS SOLARIN | solarin | Solarin |
 | Sky Devices | ELITE 4.0S | Elite_4_0S_GT_Tigo | Elite_4.0S |
@@ -17423,6 +17446,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | SledovaniTV | DV8220 | DV8220 | DV8220 |
 | Smadl | SMADL | Matri2 | Matri2 |
 | Smailo | Smailo 2GO | Smailo_2GO | Smailo_2GO |
+| Smart | ATV device | tcl_eu | ATV |
 | Smart | Advance Pro | Advance_Pro | Advance Pro |
 | Smart | Coral 4 | Coral_4 | Coral 4 |
 | Smart | FW503KH | FW503KH | FW503KH |
@@ -17430,6 +17454,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Smart | Max | Max | Max |
 | Smart | Notrino | Notrino | Notrino |
 | Smart | Slide Lite | Slide_Lite | Slide Lite |
+| SmartPad | SM181301 | SM181301 | SM181301 |
 | SmartPad | Smartpad-V10 | Smartpad-V10 | Smartpad-V10 |
 | Smartab | SRF79 | SRF79 | SRF79 |
 | Smartab | ST1009X | ST1009X | ST1009X |
@@ -18196,7 +18221,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TAG Heuer | Connected Modular 41 | spectralite | TAG Heuer |
 | TAG Heuer | Connected Modular 45 | anthracite | TAG Heuer |
 | TAG Heuer | Connected Modular 45 (China) | anthracite | TAG Heuer |
-| TCL | ATV device | tcl_eu | ATV |
 | TCL | C9 | A3A_XL_4G | 5199I |
 | TCL | L55E6700UDS | movo_la | movo_la |
 | TCL | LE50UHDE5692G | movo | movo |
@@ -19310,6 +19334,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | tmn smarta8 | ONE_TOUCH_991D_gsm | moche smart a8 |
 | TCT (Alcatel) | tmn smarta8 | ONE_TOUCH_991D_gsm | tmn smart a8 |
 | TERRA | GPAD702 | GPAD702 | GPAD702 |
+| TERRA | TERRA PAD 101 | TERRA_PAD_101 | TERRA_PAD_101 |
 | TG&Co. | TG-L800S | PHX | TG-L800S |
 | TG&Co. | TG-L900S | JGR | TG-L900S |
 | THL | Knight 2 | Knight_2 | Knight 2 |
@@ -19807,6 +19832,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Turbonet | TN500A1 | TN500A1 | TN500A1 |
 | Turbonet | TN500A2 | TN500A2 | TN500A2 |
 | Turbonet | TurboTab E1 | TN800A1 | TN800A1 |
+| Turbopad | Mercury | Mercury | Mercury |
 | Turbopad | S5 | S5 | S5 |
 | Turbopad | TurboX | TurboX_Ray | TurboX_Ray |
 | Turbopad | Turbopad1016 | Turbopad1016 | Turbopad1016 |
@@ -19836,6 +19862,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ulefone | Armor X2 | Armor_X2 | Armor_X2 |
 | Ulefone | Armor_3 | Armor_3 | Armor_3 |
 | Ulefone | Armor_5 | Ulefone_Armor_5 | Ulefone_Armor_5 |
+| Ulefone | Armor_6S | Armor_6S | Armor_6S |
 | Ulefone | Armor_X2 | Armor_X2 | Armor_X2 |
 | Ulefone | MIX | t816_gq_ulefone | MIX |
 | Ulefone | MIX S | t815_gq_ulefone | MIX_S |
@@ -19846,6 +19873,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ulefone | Power 3S | Power_3S | Power_3S |
 | Ulefone | Power 5 | Power_5 | Power_5 |
 | Ulefone | Power 5S | Power_5S | Power_5S |
+| Ulefone | Power_3L | Power_3L | Power_3L |
+| Ulefone | Power_3L_EEA | Power_3L_EEA | Power_3L |
 | Ulefone | S10_Pro | S10_Pro | S10_Pro |
 | Ulefone | S7 | t662_gq_n1616_we | Ulefone S7 |
 | Ulefone | S7 | t662_gq_ulefone | Ulefone S7 |
@@ -19855,6 +19884,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ulefone | S8_Pro | S8_pro1 | S8_Pro |
 | Ulefone | S9_Pro | S9_Pro | S9_Pro |
 | Ulefone | T1 | Ulefone_T1 | T1 |
+| Ulefone | T2 | T2 | T2 |
 | Ulefone | Ulefone_S1 | Ulefone_S1 | Ulefone_S1 |
 | Ulefone | Ulefone_S7 | Ulefone_S7 | Ulefone S7 |
 | Ulefone | Ulefone_X | Ulefone_X | Ulefone_X |
@@ -20370,6 +20400,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vmobile | A15 | A15 | A15 |
 | Vodafone | 785 | Vodafone_785 | Vodafone 785 |
 | Vodafone | 895 | VF-895N | VF-895N |
+| Vodafone | GigaTV Net | diw362 | GigaTV |
 | Vodafone | Smart N8 | VFD610 | VFD 610 |
 | Vodafone | Smart Tab 4 | Vodafone_Smart_Tab_4 | Vodafone Smart Tab 4 |
 | Vodafone | Smart Tab N8 | VFD1300 | VFD 1300 |
@@ -20584,6 +20615,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Wieppo | Wieppo S8 | Wieppo_S8 | Wieppo S8 |
 | Wigor | V2 | V2 | V2 |
 | Wigor | V3 | V3 | V3 |
+| Wigor | V5 | V5 | V5 |
 | Wiko | B-KOOL | V2502AN01D | B-KOOL |
 | Wiko | BIRDY | BIRDY | BIRDY |
 | Wiko | BLOOM | s4700 | BLOOM |
@@ -20967,6 +20999,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | YU | Yureka Black | YU5040 | YU5040 |
 | YU | Yureka Black | YU5041 | YU5041 |
 | YU | Yureka Note | YU6000 | YU 6000 |
+| Yandex | Amber | Amber | YNDX-000SB |
 | Yekani | T3A  Trend | T3A_Trend | Trend |
 | Yes | Altitude 2 | M651G_MY | M651G_MY |
 | Yes | M631Y | M631Y | M631Y |
