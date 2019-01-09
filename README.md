@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 08.01.2019
+Last sync is 09.01.2019
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11147,6 +11147,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Logicom | Volt-R | Volt-R | Volt-R |
 | Logicom | le Moov | LeMoov | LeMoov |
 | Logitech | Revue | ka | Revue |
+| Louis Vuitton | Tambour Horizon | ling | Tambour |
 | Louis Vuitton | Tambour Horizon | sundial | Tambour |
 | Lucentel | Siren_1 | Siren_1 | Siren_1 |
 | Lumigon | T2 | msm7630_fw8911 | T2 |
@@ -13073,6 +13074,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Oale | P3 | P3 | P3 |
 | Oale | P4 | P4 | P4 |
 | Oale | P5 | P5 | P5 |
+| Oale | P5S | P5S | P5S |
 | Oale | P6 | P6 | P6 |
 | Obi | MV1 | yam | OBI MV1 |
 | Obi | MV1 | yam | Obi MV1 |
@@ -13991,6 +13993,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Plaisio | lamda | Turbo-X_lamda | Turbo-X lamda |
 | Plum | Z621 | Z621 | Z621 |
 | Plum | Z711 | Z711 | PLUM Z711 |
+| Plum | Z712 | Z712 | PLUM Z712 |
 | Plus4 | Q-Touch | Q-Touch | Q-Touch |
 | Plusone | FREETEL Priori3S | FTU152A | FTU152A |
 | Plusone | FREETEL SAMURAI KIWAMI 2 | SAMURAI_KIWAMI2 | FTJ162B |
@@ -14068,6 +14071,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Polaroid | PRO5044PEE01 | Polaroid_PRO5044PEE01 | PRO5044PEE01 |
 | Polaroid | PRO5544PEE01 | PRO5544PEE01 | PRO5544PEE01 |
 | Polaroid | PRO5548PR010.191 | PRO5548PR010 | PRO5548PR010 |
+| Polaroid | PRO5584PGE01 | PRO5584PGE01 | PRO5584PGE01 |
 | Polaroid | PRO5584PHE01 | PRO5584PHE01 | PRO5584PHE01 |
 | Polaroid | PRO6048 | PRO6048 | PRO6048PR001 |
 | Polaroid | PSPCK20NA | PSPCK20NA | PSPCK20NA |
@@ -17168,6 +17172,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp | AQUOS sense2 SHV43 | MZW | SHV43 |
 | Sharp | AQUOS sense2 SHV43 | MZW-u | SHV43-u |
 | Sharp | AQUOS zero | SG801SH | 801SH |
+| Sharp | AQUOS zero | SH-Z10 | SH-Z10 |
 | Sharp | AQUOS \xe3\x82\xb1\xe3\x83\xbc\xe3\x82\xbf\xe3\x82\xa4 SH-06G | SH-06G | SH-06G |
 | Sharp | Android One S1 | kaleido_sprout | S1 |
 | Sharp | B10 | SH-A01 | SH-A01 |
@@ -17455,6 +17460,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Smart | Notrino | Notrino | Notrino |
 | Smart | Slide Lite | Slide_Lite | Slide Lite |
 | SmartPad | SM181301 | SM181301 | SM181301 |
+| SmartPad | Smartpad V7 | Smartpad-V7 | Smartpad-V7 |
 | SmartPad | Smartpad-V10 | Smartpad-V10 | Smartpad-V10 |
 | Smartab | SRF79 | SRF79 | SRF79 |
 | Smartab | ST1009X | ST1009X | ST1009X |
@@ -18830,6 +18836,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | Alcatel T 5033T |
 | TCT (Alcatel) | Alcatel 1 | U3A_PLUS_4G | Optus X Start |
 | TCT (Alcatel) | Alcatel 1C | Curie | 5003D |
+| TCT (Alcatel) | Alcatel 1C | Curie | 5003D_EEA |
 | TCT (Alcatel) | Alcatel 1C | U5A_PLUS_3G | 5009A |
 | TCT (Alcatel) | Alcatel 1C | U5A_PLUS_3G | 5009D |
 | TCT (Alcatel) | Alcatel 1C | U5A_PLUS_3G | 5009D_RU |
@@ -19352,6 +19359,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TUPAD | TU7_58212_18222 | TU7_58212 | TU7_18222 |
 | TVUp | Mediacenter 6G 4K | SEI300T | Mediacenter 6G 4K |
 | TWOE | 2E E450A 2018 | E450A2018 | 2E E450 2018 |
+| TWOE | E500A_2019 | E500A_2019 | E500A_2019 |
 | TWOE | F534L | F534L | F534L |
 | TWOE | F572L | F572L | F572L |
 | TabletKiosk | TK80 | TK80 | TK80 |
@@ -20490,6 +20498,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vonino | Zun X A6 | Zun_X | Zun X |
 | Vonino | Zun XS | Zun_XS | Zun XS |
 | Vonino | jax_S | Jax_S | Jax_S |
+| Vorago | PAD-7 | PAD-7 | PAD-7 |
 | Vortex | Beat 8 | BEAT8 | BEAT 8 |
 | Vortex | SYNQ | SYNQ | SYNQ |
 | Vortex | Sync | Sync | Sync |
