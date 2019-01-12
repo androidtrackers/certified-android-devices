@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 11.01.2019
+Last sync is 12.01.2019
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -402,6 +402,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Aiwa | AW790 | AW790 | AW790 |
 | Aiwa | AWM501 | AWM501 | AWM501 |
 | Aiwa | AWM509 | AWM509 | AWM509 |
+| Aiwa | AWM539 | AWM539 | AWM539 |
+| Aiwa | AWM580 | AWM580 | AWM580 |
 | Aiwa | AWM999 | AWM999 | AWM999 |
 | Aiwa | Aiwa | KSTB6043 | KSTB6043 |
 | Aiwa | Z9 | AIWA_Z9 | Z9 |
@@ -1555,6 +1557,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | BKAV | Bphone | Bphone | Bphone B1115 |
 | BKAV | Bphone | Bphone | Bphone B1116 |
 | BLECK | BE dg | BE_dg | BE_dg |
+| BLECK | BE fr | BE_fr | BE_fr |
 | BLECK | BE_et | BE_et | BE_et |
 | BLECK | BE_se | BE_se | BE_se |
 | BLECK | ELEMENT | ELEMENT | ELEMENT |
@@ -2180,6 +2183,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Boost | StrikaPlay | StrikaPlay | StrikaPlay |
 | Boost | X4503 | X4503 | X4503 |
 | Borqs | Falcon | falcon | falcon |
+| Bouygues Telecom | Bbox Brooklyn 4K | HMB9213NW | Bouygtel4K |
 | Bouygues Telecom | Bbox Miami | HMB4213H | BouygtelTV |
 | Bouygues Telecom | Bs 451 | Bs_451 | Bs 451 |
 | Brandcode | L1Fa | L1Fa | L1Fa |
@@ -2614,6 +2618,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | ColorsMobile | P65 | Colors_P65 | Colors P65 |
 | ColorsMobile | PRIDE 5E | P60 | P60 |
 | ColorsMobile | Pride 5C | P52_Pride5C | P52_Pride5C |
+| ColorsMobile | Pride_1A | Pride_1A | Pride_1A |
 | ColorsMobile | S1 | Colors_S1 | Colors S1 |
 | ColorsMobile | S11 | Colors_S11 | Colors S11 |
 | ColorsMobile | S9 | Colors_S9 | Colors S9 |
@@ -3000,6 +3005,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Cyrus | CS22 | CS22 | CS22 |
 | Cyrus | CS24 | CS24 | CS24 |
 | Cyrus | CS40 | CS40 | CS40 |
+| D-Tech | D5L | D5-L | D5-L |
 | D-Tech | H70_G | H70_G | H70_G |
 | D-Tech | LM-01 | LM_01 | LM-01 |
 | DBM Maroc | ACCENT SURF 1000 | SURF1000 | SURF1000 |
@@ -3893,6 +3899,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Fairphone | FP2 | FP2 | FP2 |
 | Famous Fones | Famous_5 | Famous_5 | Famous 5 |
 | Famous Fones | Famous_5Plus | Famous_5Plus | Famous 5Plus |
+| Famous Fones | Fonos-O1 | Fonos-O1 | Fonos-O1 |
 | Fantec | FANTEC M200H | M200H | M200H |
 | Fantec | FANTEC M300H | M300H | FAN-M300H |
 | FarEasTone | Smart 403 | msm8226 | Smart 403 |
@@ -7941,6 +7948,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Inco | Horizon + | Horizon | Horizon + |
 | Inco | Horizon_S | Horizon_S | Horizon_S |
 | Inco | MINI | MINI | MINI |
+| Inco | Rouge1 | Rouge1 | Rouge1 |
 | Inet-Tablet | D711HC_PG | D711HC_PG | D711HC_PG |
 | Inet-Tablet | D7911L3BC_OGS | D7911L3BC_OGS | D7911L3BC_OGS |
 | Infinity | 10.1-v2 | Infinity-101-v2 | Infinity-10.1-v2 |
@@ -8382,6 +8390,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Itel | A62 | itel-A62 | itel A62 |
 | Itel | F311 | Spice-F311 | Spice F311 |
 | Itel | ITELL_K4700Q | ITELL_K4700Q | ITELL K4700Q |
+| Itel | ITELMOBILE GP10X2019 | GP10X2019 | GP10X2019 |
 | Itel | P11 | itel_P11 | itel P11 |
 | Itel | P12 | itel_P12 | itel P12 |
 | Itel | P13 | itel-P13 | itel P13 |
@@ -10866,7 +10875,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lenovo | PB2 plus | PB2-670M | Lenovo PB2-670M |
 | Lenovo | PB2 plus | PB2-670M1 | Lenovo PB2-670M1 |
 | Lenovo | PB2-650Y | PB2 | Lenovo PB2-650Y |
-| Lenovo | PC-TE410JAW | PC-TE410JAW | PC-TE410JAW |
 | Lenovo | PC-TE410JAW | PC-TE510JAW | PC-TE510JAW |
 | Lenovo | PC-TE510HAW | X704F | PC-TE510HAW |
 | Lenovo | PHAB 2 | PB2 | Lenovo PB2-650N |
@@ -11285,6 +11293,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | M4tel | M4 SS4457-R | M4-SS4457-R | M4-SS4457-R |
 | M4tel | M4 SS4458 | TOUCHPLUS02A-S17A | M4 SS4458 |
 | M4tel | M4 SS4458-R | M4-SS4458-R | M4-SS4458-R |
+| M4tel | R2 Plus | R2_Plus | R2_Plus |
 | MAZE | Alpha | Alpha | Alpha |
 | MAZE | Alpha_X | Alpha_X | Alpha_X |
 | MAZE | Comet | Comet | Comet |
@@ -11437,6 +11446,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Maxwest | Nitro_5X | Nitro_5X | Nitro_5X |
 | Maxwest | Nitro_Phablet_9s | Nitro_Phablet_9s | Nitro_Phablet_9s |
 | Maxwest | Ranger 5 | Ranger_5 | Ranger_5 |
+| Maxwest | TAB-9G | TAB-9G | TAB-9G |
 | MeanIT | C4 | C4 | C4 |
 | MeanIT | meanIT C80C81 | meanIT_C80C81 | meanIT_C80C81 |
 | MeanIT | meanIT-X10 | meanIT-X10 | meanIT X10 |
@@ -11811,6 +11821,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Micromax | Evok Dual Note | E4817 | Micromax E4817 |
 | Micromax | Evok Note | E453 | Micromax E453 |
 | Micromax | Evok Power | Q4260 | Micromax Q4260 |
+| Micromax | Infinity N Series N12 | N8301 | N8301 |
 | Micromax | MAD | A94 | Micromax A94 |
 | Micromax | MIcromax Bharat 4 | Q440 | Micromax Q440 |
 | Micromax | Micromax Bharat 2 Plus | Q402Plus | Micromax Q402+ |
@@ -12660,6 +12671,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Myphone | myNX1 | myNX1 | myNX1 |
 | Myphone | myPhone | Hammer_Active2_LTE | Hammer_Active2_LTE |
 | Myphone | myPhone  Q-Smart III Plus | Q-Smart_III_Plus | Q-Smart_III_Plus |
+| Myphone | myPhone FUN7 LTE | myPhone_Fun_7_LTE | myPhone_Fun_7_LTE |
 | Myphone | myPhone_Pocket_2 | myPhone_Pocket_2 | Pocket_2 |
 | Myphone | myT3 DTV | myT3_DTV | myT3 DTV |
 | Myphone | myT5 DTV | myT5_DTV | myT5 DTV |
@@ -12775,6 +12787,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | NEC | PC-508T1W | 508T1W | PC-TS508T1W |
 | NEC | PC-708T1W | 708T1W | PC-TS708T1W |
 | NEC | PC-TE307N1W | PC-TE307N1W | PC-TE307N1W |
+| NEC | PC-TE410JAW | PC-TE410JAW | PC-TE410JAW |
 | NEC | PC-TE508HAW | PC-TE508HAW | PC-TE508HAW |
 | NEC | PC-TE510N1B | LaVieTab | LaVieTab PC-TE510N1B |
 | NESO | N810 i7 | N810_i7_1 | N810 i7 |
@@ -13051,6 +13064,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nomi | Nomi C070011 | Nomi_C070011 | Nomi C070011 |
 | Nomi | Nomi C080010 | Nomi_C080010_Libra2 | Nomi C080010 Libra2 |
 | Nomi | Nomi C101010 | Nomi_C101010_Ultra2 | C101010 Ultra2 |
+| Nomi | Nomi Ultra4 3G | Nomi_C101014 | Nomi_C101014 |
 | Nomi | Nomi i5001 | Nomi_i5001 | Nomi_i5001 |
 | Nomi | Nomi i5001 Plus | Nomi_i5001 | Nomi_i5001 |
 | Nomi | Nomi i5013 | i5013 | i5013 |
@@ -13065,7 +13079,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nomi | Nomi_C101044 | Nomi_C101044 | Nomi_C101044 |
 | Nomi | Nomi_Corsa 4 light 3G | Nomi_C070014L | Nomi_C070014L |
 | Nomi | Nomi_Corsa4 3G | Nomi_C070014 | Nomi_C070014 |
+| Nomi | Nomi_Corsa4 LTE Pro | Nomi_C070044 | Nomi_C070044 |
 | Nomi | Nomi_Libra4 3G | Nomi_C080014 | Nomi_C080014 |
+| Nomi | Nomi_Libra4 LTE | Nomi_C080034 | Nomi_C080034 |
 | Nomi | Nomi_i5710 | Nomi_i5710 | Nomi_i5710 |
 | Nomi | Nomi_i5730 | Nomi_i5730 | Nomi_i5730 |
 | Nomi | ULTRA3 3G | Nomi_C101012 | Nomi_C101012 |
@@ -13750,6 +13766,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Panasonic | FZ-N1 | FZ-N1VUCCL | FZ-N1 |
 | Panasonic | FZ-N1 | FZ-N1VUCF | FZ-N1 |
 | Panasonic | FZ-N1 | FZ-N1VUF | FZ-N1 |
+| Panasonic | FZ-N1E | FZ-N1E | FZ-N1 |
 | Panasonic | FZ-N1F | FZ-N1F | FZ-N1 |
 | Panasonic | FZ-N1VU | FZ-N1VU | FZ-N1 |
 | Panasonic | FZ-T1 | FZ-T1AN | FZ-T1 |
@@ -14950,6 +14967,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | SPC Mobile | L60 | L60 | L60 |
 | SPC Mobile | L60 | SPC_L60 | L60 |
 | SPC Mobile | L60 Pro | L60_Pro | L60 Pro |
+| SPC Mobile | L60 Turbo | L60_Turbo | L60 Turbo |
 | SPC Mobile | LAIKA | LAIKA | LAIKA |
 | SPC Mobile | Lightyear | Lightyear | Lightyear |
 | SPC Mobile | S19 | S19 | S19 |
@@ -16681,6 +16699,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A 7.0 | gtexslte | SM-T287 |
 | Samsung | Galaxy Tab A 7.0 | gtexslteswa | SM-T285YD |
 | Samsung | Galaxy Tab A 7.0 | gtexswifi | SM-T280 |
+| Samsung | Galaxy Tab A 8 | gtasliteltespr | SM-T387P |
 | Samsung | Galaxy Tab A 8 | gtasliteltetmo | SM-T387T |
 | Samsung | Galaxy Tab A 8.0 | gt58lte | SM-T355 |
 | Samsung | Galaxy Tab A 8.0 | gt58lte | SM-T355Y |
@@ -16707,7 +16726,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Samsung | Galaxy Tab A 9.7 | gt5note10wifi | SM-P550 |
 | Samsung | Galaxy Tab A 9.7 | gt5note10wifichn | SM-P550 |
 | Samsung | Galaxy Tab A Lite | gtaslitelteatt | SM-T387AA |
-| Samsung | Galaxy Tab A Lite | gtasliteltespr | SM-T387P |
 | Samsung | Galaxy Tab A S 8.0 | gt58ltebmc | SM-T357W |
 | Samsung | Galaxy Tab A(10.5) | gta2xllte | SM-T597 |
 | Samsung | Galaxy Tab A8 | gtaslitelteusc | SM-T387R4 |
@@ -17531,6 +17549,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sky Devices | Elite M45 | Elite_M45 | Elite M45 |
 | Sky Devices | Elite M5Plus | Elite_M5Plus | Elite M5Plus |
 | Sky Devices | Elite M5Plus | Elite_M5Plus_SAL | Elite M5Plus |
+| Sky Devices | Elite T45 | Elite_T45 | Elite T45 |
 | Sky Devices | Fuego 4.0T | Fuego_4_0T_EC | Fuego 4.0T |
 | Sky Devices | PLATINUM 4.0 | Platinum_40 | Platinum 4.0 |
 | Sky Devices | PLATINUM 4.0 | Platinum_4_0 | Platinum 4.0 |
@@ -17545,6 +17564,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sky Devices | PLATINUM D5 | Platinum_D5_CA | Platinum D5 |
 | Sky Devices | PLATINUM M4 | Platinum_M4_SV | Platinum M4 |
 | Sky Devices | PLATINUM VIEW | PLATINUMVIEW | PLATINUMVIEW |
+| Sky Devices | PLATINUM_E5 | Platinum_E5 | Platinum_E5 |
 | Sky Devices | Platinum M5 | Platinum_M5 | Platinum_M5 |
 | Sky Devices | SKY 5.0LM | SKY_50LM | SKY 5.0LM |
 | Sky Devices | SKY 5.0Pro II | SKY_50Pro_II | SKY 5.0Pro II |
@@ -19792,6 +19812,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Thomson | TEO10 | TEO10 | SPTEO10BK16 |
 | Thomson | TEO13P | TEO13P | TEO13P |
 | Thomson | TEO7RK | TEO7RK | TEO7RK |
+| Thomson | THOMSON SEREA500 | L35_A | THOMSON SEREA500 |
 | Thomson | THOMSON_TEO10S | TEO10S | TEO10S |
 | Thomson | TLink 455 | TLINK455 | TLINK455 |
 | Thuraya | Thuraya X5-Touch | X5-Touch | Thuraya X5-Touch |
@@ -20918,6 +20939,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Winmax | TIGER X7 | TIGER_X7 | TIGER X7 |
 | Winmax | Tiger X4 | TIGER_X4 | TIGER X4 |
 | Winmax | Tiger_X10 | TIGER_X10 | TIGER_X10 |
+| Winmax | X50 | X50 | X50 |
 | Wintec | T730 | T730 | Clear |
 | Wintec | T730 | T730 | T730 |
 | Wintec | T750 | T750 | Clear |
