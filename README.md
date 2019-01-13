@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 12.01.2019
+Last sync is 13.01.2019
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3233,6 +3233,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Dialog Blaze | 5701A | 5701A | 5701A |
 | Dialog Blaze | Dialog_Blaze_Mini | Dialog_Blaze_Mini | Dialog_Blaze_Mini |
 | Dialog Blaze | M50E-1A | M50E-1A | M50E-1A |
+| Diamond | DIB100 | DIB100 | DIB100 |
 | Diamond | Luxuary-X | Luxuary-X | Luxuary-X |
 | Diamond | PSPCL30A0 | PSPCL30A0 | PSPCL30A0 |
 | DigiLand | Compumax Blue | mid1016_ma | Compumax Blue |
