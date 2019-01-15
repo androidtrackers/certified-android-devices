@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 14.01.2019
+Last sync is 15.01.2019
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -39,7 +39,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | AG Mobile | AG Ultra2 | AG_Ultra2 | Ultra 2 |
 | AG Mobile | AGM  H1 | HSSDM450QC | AGM H1 |
 | AG Mobile | AGM A9 | HSSDM450QC | AGM A9 |
-| AG Mobile | AGM X3 | HSSDM845QC | AGM X3 |
 | AG Mobile | AGM X3 | T91EUE1 | AGM X3 |
 | AG Mobile | AG_Go-Tab_Access | md789hwag | AG Go-Tab Access |
 | AG Mobile | AG_Tab_7_0 | AG_Tab_7_0 | AG_Tab_7_0 |
@@ -102,6 +101,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | AVH San Luis S.A. | Vortech3.0 | Vortech3_0 | Vortech3.0 |
 | AVH San Luis S.A. | Vortech_3_0 | Vortech_3_0 | Vortech 3.0 |
 | AXXA | AXXA S45 | AXXA_S45 | AXXA_S45 |
+| AXXA | AXXA S71 | AXXA_S71 | AXXA S71 |
 | AXXA | PRO | PRO | PRO |
 | AZBox | AZDroid | AZDroid | AZDroid |
 | AZPEN | A720 | wing-inet | A720 |
@@ -114,6 +114,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Accent | C5 | C5 | C5 |
 | Accent | CAMELEON C5 | CAMELEON_C5 | CAMELEON C5 |
 | Accent | FAST7 3G | FAST7_3G | FAST7 3G |
+| Accent | FAST73G | FAST73G | FAST73G |
 | Accent | PEARL A4 Lite | PEARL_A4_Lite | PEARL A4 Lite |
 | Accent | PEARL A6 | PEARL_A6 | PEARL A6 |
 | Accent | Pearl A4 PLUS | PEARL_A4_PLUS | PEARL A4 PLUS |
@@ -377,6 +378,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Advance | HL6248 | HL6248 | HL6248 |
 | Advance | HL6256 | HL6256 | HL6256 |
 | Advance | HL6577 | HL6577 | HL6577 |
+| Advance | HL7257 | HL7257 | HL7257 |
 | Advance | Pr5747 | Pr5747 | Pr5747 |
 | Advance | Pr6146 | Pr6146 | Pr6146 |
 | Advance | Pr6150 | Pr6150 | Pr6150 |
@@ -403,6 +405,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Aiwa | AWM501 | AWM501 | AWM501 |
 | Aiwa | AWM509 | AWM509 | AWM509 |
 | Aiwa | AWM539 | AWM539 | AWM539 |
+| Aiwa | AWM561 | AWM561 | AWM561 |
 | Aiwa | AWM580 | AWM580 | AWM580 |
 | Aiwa | AWM999 | AWM999 | AWM999 |
 | Aiwa | Aiwa | KSTB6043 | KSTB6043 |
@@ -2451,6 +2454,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Cherry Mobile | Flare J2S | Flare_J2S | Flare J2S |
 | Cherry Mobile | Flare J3 | FlareJ3 | FlareJ3 |
 | Cherry Mobile | Flare J3 | H680 | Flare_J3 |
+| Cherry Mobile | Flare J3 2019 | Flare_J3_2019 | Flare J3 2019 |
 | Cherry Mobile | Flare J3 Max | Flare_J3_Max | Flare J3 Max |
 | Cherry Mobile | Flare J3 Plus | FlareJ3Plus | FlareJ3Plus |
 | Cherry Mobile | Flare J3 Plus | H620 | Flare_J3_Plus |
@@ -2641,6 +2645,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Compal |  | penguin | AX 8.6 |
 | Compal | TANK 4.5 | ka09 | TANK 4.5 |
 | Compaq | CT101 | fireball | CT101 |
+| Concord | Plus-7_C777 | Plus-7_C777 | Plus-7_C777 |
+| Concord | Plus-9_C778 | Plus-9_C778 | Plus-9_C778 |
 | Concord | SmartPad-3G_C-708 | SmartPad_3G | SmartPad-3G_C-708 |
 | Condor | A9 | PGN_507 | PGN-507 |
 | Condor | Allure  M1 | Allure_M1 | Allure M1 |
@@ -3234,6 +3240,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Dialog Blaze | Dialog_Blaze_Mini | Dialog_Blaze_Mini | Dialog_Blaze_Mini |
 | Dialog Blaze | M50E-1A | M50E-1A | M50E-1A |
 | Diamond | DIB100 | DIB100 | DIB100 |
+| Diamond | DIM100 | DIM100 | DIM100 |
 | Diamond | Luxuary-X | Luxuary-X | Luxuary-X |
 | Diamond | PSPCL30A0 | PSPCL30A0 | PSPCL30A0 |
 | DigiLand | Compumax Blue | mid1016_ma | Compumax Blue |
@@ -3775,6 +3782,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Evercoss | M50A MAX | EVERCOSS_M50A_MAX | M50A MAX |
 | Evercoss | M53 | M53 | M53 |
 | Evercoss | M55A | M55A | M55A |
+| Evercoss | M55C | M55C | M55C |
 | Evercoss | M70 | M70 | M70 |
 | Evercoss | One X | A65_sprout | EVERCOSS A65 |
 | Evercoss | R40K | R40K | R40K |
@@ -3887,6 +3895,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | FIREFLY MOBILE | Inspire_4G | INSPIRE_4G | INSPIRE_4G |
 | FIREFLY MOBILE | SECRET_XR | SECRET_XR | SECRET_XR |
 | FIREFLY MOBILE | VIVID_PRO | VIVID_PRO | VIVID_PRO |
+| FOXXD | MIRO | L590A | L590A |
 | FPT Trading | A15 | A15_01 | A15 |
 | FPT Trading | FPT S68 4G | FPT_S68_4G | FPT S68 4G |
 | FPT Trading | FPT X10 | X10 | FPT_X10 |
@@ -8324,6 +8333,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Irbis | TZ725 | TZ725 | TZ725 |
 | Irbis | TZ726 | TZ726 | TZ726 |
 | Irbis | TZ742 | TZ742 | TZ742 |
+| Irbis | TZ754 | TZ754 | TZ754 |
+| Irbis | TZ757 | TZ757 | TZ757 |
 | Irbis | TZ762 | TZ762 | TZ762 |
 | Irbis | TZ771 | TZ771 | TZ771 |
 | Irbis | TZ772 | TZ772 | TZ772 |
@@ -8476,6 +8487,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | JVC |  | gener | RY-AP1 |
 | JVC | DM65UXR\\DM65USR\\DM85UXR | mstarnapoli_atsc | DM65UXR |
 | JVC | JVC J20 | Cunda | J20 |
+| JVL (Australia) | JVL070TAB812BLK | JVL070TAB812BLK | JVL070TAB812BLK |
 | JabrBox | H460 | H460 | H460 |
 | JabrBox | H460B01 | H460 | H460 |
 | JabrBox | S502 | S502 | S502 |
@@ -8609,6 +8621,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | KONKA | SP3 | SP3 | SP3 |
 | KONKA | SP9 | SP9 | SP9 |
 | KONKA | TE1011 | TE1011 | TE1011 |
+| KONKA | TP701 | TP701 | TP701 |
 | KOOLNEE | K1 | KOOLNEE_K1 | K1 |
 | KOOLNEE | K1 Trio | K1_Trio | K1 Trio |
 | KOOLNEE | K3 | K3 | K3 |
@@ -8693,6 +8706,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Kennex | MD7053G | MD7053G | MD7053G |
 | Kenwood | KWSA80K | XP8800 | KWSA80K |
 | Kenxinda | K20M | K20M | K20M |
+| Kenxinda | T50 | T50 | T50 |
+| Kenxinda | T50Y | T50Y | T50Y |
+| Kenxinda | T55 | T55 | T55 |
 | Kenxinda | Y30 | Y30 | Y30 |
 | Ketablet | Ketablet | TR10CS1_6 | TR10CS1 |
 | Kiano | ELEGANCE 6 | ELEGANCE_6 | ELEGANCE 6 |
@@ -8717,12 +8733,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Klipad | 7588AN | tulip-d9003 | 7588AN |
 | Klipad | 7588AN | tulip-d9003 | KL3838 |
 | Klipad | KL300 | KL300 | KL300 |
+| Klipad | KL3889 | KL3889 | KL3889 |
 | Klipad | KL450 | KL450 | KL450 |
 | Klipad | KL456LD | KL456LD | KL456LD |
 | Klipad | KL4890 | KL4890 | KL4890 |
 | Klipad | KL600 | KLIPAD_KL600 | KLIPAD_KL600 |
 | Klipad | KL600B | KLIPAD_KL600B | KL600B |
 | Klipad | KL7590 | KL7590 | KL7590 |
+| Klipad | KL7591 | KL7591 | KL7591 |
+| Klipad | KL7599 | KL7599 | KL7599 |
 | Klipad | KLI750 | KLI750 | KL I750 |
 | Klipad | KLIPAD_A1040M | A1040M | A1040M |
 | Klipad | KLIPAD_KL4888 | KL4888 | KL4888 |
@@ -10876,7 +10895,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lenovo | PB2 plus | PB2-670M | Lenovo PB2-670M |
 | Lenovo | PB2 plus | PB2-670M1 | Lenovo PB2-670M1 |
 | Lenovo | PB2-650Y | PB2 | Lenovo PB2-650Y |
-| Lenovo | PC-TE410JAW | PC-TE510JAW | PC-TE510JAW |
 | Lenovo | PC-TE510HAW | X704F | PC-TE510HAW |
 | Lenovo | PHAB 2 | PB2 | Lenovo PB2-650N |
 | Lenovo | PHAB 2 Plus | PB2-670N | Lenovo PB2-670N |
@@ -12790,6 +12808,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | NEC | PC-TE307N1W | PC-TE307N1W | PC-TE307N1W |
 | NEC | PC-TE410JAW | PC-TE410JAW | PC-TE410JAW |
 | NEC | PC-TE508HAW | PC-TE508HAW | PC-TE508HAW |
+| NEC | PC-TE510JAW | PC-TE510JAW | PC-TE510JAW |
 | NEC | PC-TE510N1B | LaVieTab | LaVieTab PC-TE510N1B |
 | NESO | N810 i7 | N810_i7_1 | N810 i7 |
 | NGM Italia SRL | Danamic Now | DynamicNow | Now |
@@ -13092,6 +13111,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nomi | i5014 | i5014 | i5014 |
 | Nomu | M8 | M8 | M8 |
 | Nomu | S10 | S10 | S10 |
+| Nomu | S40 | S40 | S40 |
 | Nomu | S40+ | S40 | S40E |
 | Nomu | S50 Pro | S50_Pro | S50_Pro |
 | Nomu | T20 | T20 | T20 |
@@ -13114,6 +13134,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Nuu | A5L | N5501LA | N5501L |
 | Nuu | A5L+ | N5501LE | N5501L |
 | Nuu | A6L-C | A6L-C | A6L-C |
+| Nuu | A6L-G | A6L-G | A6L-G |
 | Nuu | G1 | N5704LA | N5704L |
 | Nuu | G2 | S6001LE | S6001L |
 | Nuu | M2 | NUU_M2 | NUU_M2 |
@@ -14617,6 +14638,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | QMobile | LT680 | QMobile_LT680 | LT680 |
 | QMobile | LT700 | GBL7325QM | LT700 |
 | QMobile | LT700 PRO | LT700_PRO | LT700 PRO |
+| QMobile | LT900 | LT900 | QMobile LT900 |
 | QMobile | M350 Pro | M350_Pro | M350 Pro |
 | QMobile | M6 | BBL7551QM | M6 |
 | QMobile | M6 Lite | M6_Lite | M6 Lite |
@@ -14683,6 +14705,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | QMobile | i6 Metal One | i6_Metal_ONE_new | QMobile i6 Metal ONE |
 | QMobile | i7i PRO | i7i_PRO | QMobile i7i PRO |
 | QMobile | i8i | i8i | QMobile i8i |
+| QMobile | i8i 2019 | i8i_2019 | QMobile i8i 2019 |
 | QMobile | i8i PRO | i8i_PRO | QMobile i8i PRO |
 | QMobile | i8i_Pro_\xe2\x85\xa1 | i8i_Pro_II | QMobile i8i Pro II |
 | QOOQ | QOOQV3 | QOOQ | QOOQ |
@@ -14767,6 +14790,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | RCA | Mercury 7 | CT9973W43M | CT9973W43M |
 | RCA | Pro10 Edition II | RCT6203W46L | RCT6203W46L |
 | RCA | Pro12 | RCT6223W87 | RCT6223W87 |
+| RCA | RC7T3G19 | RC7T3G19 | RC7T3G19 |
 | RCA | RCA DRP2091 | DRP2091 | DRP2091 |
 | RCA | RCA RCT6213W22 | RCT6213W22 | RCT6213W22 |
 | RCA | RCA RCT6213W23 | RCT6213W23 | RCT6213W23 |
@@ -17268,6 +17292,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Sharp | AQUOS R2 | SG706SH | 706SH |
 | Sharp | AQUOS R2 SH-03K | SH-03K | SH-03K |
 | Sharp | AQUOS R2 SHV42 | LYV | SHV42 |
+| Sharp | AQUOS R2 compact 803SH | SG803SH | 803SH |
 | Sharp | AQUOS SERIE SHL25 | SHL25 | SHL25 |
 | Sharp | AQUOS SERIE SHV32 | SHV32 | SHV32 |
 | Sharp | AQUOS SERIE SHV34 | SHV34 | SHV34 |
@@ -18343,6 +18368,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Symphony | V85 | V85 | V85 |
 | Symphony | V92 | V92 | V92 |
 | Symphony | V96 | V96 | V96 |
+| Symphony | V97 | V97 | V97 |
 | Symphony | Z10 | Z10 | SYMPHONY Z10 |
 | Symphony | ZVII | ZVII | ZVII |
 | Symphony | ZVIII | ZVIII | ZVIII |
@@ -20768,6 +20794,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Weimei | weplus 3 | weplus_3 | weplus_3 |
 | Welgate | WA-U420D | WA-U420D | WA-U420D |
 | Wenu | Kate | Wenu | Kate |
+| Westinghouse | W7T3G19 | W7T3G19 | W7T3G19 |
 | Wexler | WLT710M | WLT710M | WLT710M |
 | Wieppo | Wieppo E1 | Wieppo_E1 | Wieppo E1 |
 | Wieppo | Wieppo S5 | Wieppo_S5 | Wieppo S5 |
