@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 15.01.2019
+Last sync is 16.01.2019
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -595,6 +595,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | AllView | X5 Soul Pro | X5_Soul_Pro | X5_Soul_Pro |
 | AllView | X5_Soul | X5_Soul | X5_Soul |
 | AllView | X5_Soul_Style | X5_Soul_Style | X5_Soul_Style |
+| Alldocube | T1001 | T1001 | T1001 |
 | Alldocube | U1005 | U1005 | U1005 |
 | Alldocube | U1005E | U1005E | U1005E |
 | Allducube | T1001 | T1001 | T1001 |
@@ -1639,6 +1640,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | BQru | BQ-1045G | BQru-1045 | BQ-1045 |
 | BQru | BQ-1056L | BQru_1056L | BQru-1056L |
 | BQru | BQ-1057L | BQru_1057L | BQru-1057L |
+| BQru | BQ-1085L | BQru-1085L | BQ-1085L |
 | BQru | BQ-4028UP! | BQru-4028 | BQru-4028 |
 | BQru | BQ-4072 Strike Mini | BQru_4072 | BQru-4072 |
 | BQru | BQ-4077 | BQru-4077 | BQ-4077 |
@@ -2346,6 +2348,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Cat | Cat S41 | CatS41 | S41 |
 | Cat | Cat S48c | CatS48c | S48c |
 | Cat | Cat S61 | CatS61 | S61 |
+| Cat | Cat S61B | CatS61 | S61B |
 | Cat | CatS50c | CatS50c | S50c |
 | Cat | S30 | CatS30 | S30 |
 | Cat | S40 | CatS40 | S40 |
@@ -2437,6 +2440,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Cherry Mobile | Desire R7 Lite | Desire_R7_Lite | Desire R7 Lite |
 | Cherry Mobile | Desire R8 Lite | Desire_R8_Lite | Desire R8 Lite |
 | Cherry Mobile | FB100 | FB100 | FB100 |
+| Cherry Mobile | FLARE S6 Lite | Flare_S6_Lite | Flare_S6_Lite |
 | Cherry Mobile | Flare 5 | X630 | Flare_5 |
 | Cherry Mobile | Flare A1 | FlareA1 | FlareA1 |
 | Cherry Mobile | Flare A2 | Flare_A2 | Flare_A2 |
@@ -2466,6 +2470,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Cherry Mobile | Flare J6 mini | Flare_J6_mini | Flare_J6_mini |
 | Cherry Mobile | Flare J6S | Flare_J6s | Flare_J6s |
 | Cherry Mobile | Flare J7 | Flare_J7 | Flare J7 |
+| Cherry Mobile | Flare J8 | Flare_J8 | Flare J8 |
 | Cherry Mobile | Flare Lite 3S | Flare_Lite_3S | Flare_Lite_3S |
 | Cherry Mobile | Flare P1 | Flare_P1 | Flare P1 |
 | Cherry Mobile | Flare P1 Lite | Flare_P1_Lite | Flare_P1_Lite |
@@ -2511,6 +2516,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Cherry Mobile | Omega Lite 3C | Omega_Lite_3C | Omega_Lite_3C |
 | Cherry Mobile | Omega Lite 3s | Omega_Lite_3s | Omega Lite 3s |
 | Cherry Mobile | Omega Lite 4 | omega_lite_4 | omega_lite_4 |
+| Cherry Mobile | Omega Lite 4s | Omega_Lite_4s | Omega Lite 4s |
 | Cherry Mobile | One | H940_sprout | H940 |
 | Cherry Mobile | Rover 2 | Cherry_Rover_2 | Rover_2 |
 | Cherry Mobile | Selfie Two | Selfie_Two | Selfie_Two |
@@ -6886,6 +6892,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | HUAWEI P smart | HWFIG-H | FIG-LA1 |
 | Huawei | HUAWEI P smart | HWFIG-H | FIG-LX2 |
 | Huawei | HUAWEI P smart | HWFIG-H | FIG-LX3 |
+| Huawei | HUAWEI P smart 2019 | HWPOT-H | POT-LX1 |
+| Huawei | HUAWEI P smart 2019 | HWPOT-H | POT-LX1AF |
+| Huawei | HUAWEI P smart 2019 | HWPOT-H | POT-LX3 |
 | Huawei | HUAWEI P20 Lite | HWANE | ANE-LX2J |
 | Huawei | HUAWEI P20 Lite | HWANE | HWV32 |
 | Huawei | HUAWEI P9 lite mini | HWSLA-Q | SLA-L02 |
@@ -6921,7 +6930,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | HUAWEI Y7 2018 | HWLDN-Q | LDN-L01 |
 | Huawei | HUAWEI Y7 2018 | HWLDN-Q | LDN-L21 |
 | Huawei | HUAWEI Y7 2018 | HWLDN-Q | LDN-LX3 |
+| Huawei | HUAWEI Y7 2019 | HWDUB-Q | DUB-LX3 |
 | Huawei | HUAWEI Y7 Prime 2018 | HWLDN-Q | LDN-L21 |
+| Huawei | HUAWEI Y7 Pro 2019 | HWDUB-Q | DUB-LX2 |
 | Huawei | HUAWEI Y9 2018 | HWFLA-H | FLA-LX1 |
 | Huawei | HUAWEI Y9 2018 | HWFLA-H | FLA-LX2 |
 | Huawei | HUAWEI Y9 2018 | HWFLA-H | FLA-LX3 |
@@ -7556,6 +7567,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Huawei | d-01H | d-01H | d-01H |
 | Huawei | d-02H | d-02H | d-02H |
 | Huawei | eH811 | hweH811 | eH811 |
+| Huawei | honor 10 Lite | HWHRY-H | HRY-LX1 |
+| Huawei | honor 10 Lite | HWHRY-H | HRY-LX1MEB |
+| Huawei | honor 10 Lite | HWHRY-H | HRY-LX2 |
+| Huawei | honor 10 Lite | HWHRY-HF | HRY-AL00 |
 | Huawei | honor 5X | HNKIW-Q | KIW-L22 |
 | Huawei | honor 5X | HNKIW-Q | KIW-L23 |
 | Huawei | honor 5X | HNKIW-Q | KIW-L24 |
@@ -7959,10 +7974,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Inco | Horizon_S | Horizon_S | Horizon_S |
 | Inco | MINI | MINI | MINI |
 | Inco | Rouge1 | Rouge1 | Rouge1 |
+| Inco | eco_s | eco_s | eco_s |
 | Inet-Tablet | D711HC_PG | D711HC_PG | D711HC_PG |
 | Inet-Tablet | D7911L3BC_OGS | D7911L3BC_OGS | D7911L3BC_OGS |
 | Infinity | 10.1-v2 | Infinity-101-v2 | Infinity-10.1-v2 |
 | Infinity | 10.1-v3 | Infinity_101_v3 | Infinity-10.1-v3 |
+| Infinity | Infinity | Infinity | Infinity |
 | Infinix | HOT 2 | Infinix_X510 | Infinix X510 |
 | Infinix | HOT 3 | INFINIX-X554 | Infinix HOT 3 Pro |
 | Infinix | HOT 3 | INFINIX-X554 | Infinix-X554 |
@@ -10809,6 +10826,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Lenovo | Lenovo A3300 | A3300-HV | LenovoA3300-HV |
 | Lenovo | Lenovo A5 | L18011 | L18011 |
 | Lenovo | Lenovo A5 | L18021 | Lenovo L18021 |
+| Lenovo | Lenovo A5s | A5s | Lenovo L18081 |
 | Lenovo | Lenovo K8 | brady_f | Lenovo K |
 | Lenovo | Lenovo K8 | brady_f | Lenovo K8 |
 | Lenovo | Lenovo K8 Note | manning | Lenovo K8 Note |
@@ -11319,6 +11337,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | MAZE | SSB-408E | SSB-408E | SSB-408E |
 | MAZE | SSB-508E | SSB-508E | SSB-508E |
 | MDC Store | Grand | Grand | Grand |
+| MDC Store | M100 | M100 | M100 |
 | MDC Store | M200 | M200 | M200 |
 | MDC Store | MDC GrandPro | MDC_Grand_Pro | Grand Pro |
 | MDC Store | MDC M5 | M5 | MDC M5 |
@@ -13675,6 +13694,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | POPTEL | V9 | V9 | V9 |
 | PS_Mobile | neo | neo | neo |
 | PT mobile | P10 | P10 | P10 |
+| Packard Bell | A4000 | A4000 | A4000 |
+| Packard Bell | A5000 | A5000 | A5000 |
+| Packard Bell | A5700 | A5700 | A5700 |
+| Packard Bell | M10400 | M10400 | M10400 |
+| Packard Bell | M10500 | M10500 | M10500 |
+| Packard Bell | M11550 | M11550 | M11550 |
+| Packard Bell | M7500 | M7500 | M7500 |
+| Packard Bell | M7600-D | M7600-D | M7600-D |
 | Packard Bell | PB1009 | PB1009 | PB1009 |
 | Packard Bell | T1000 | T1000 | T1000 |
 | Palm | PVG100 | Pepito | PVG100 |
@@ -14728,6 +14755,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Qtouch | QS702 | QTOUCH-QS702 | QS702 |
 | Qtouch | Qtouch_Q81 | Qtouch_Q81 | Qtouch_Q81 |
 | Qtouch | Qtouch_Q85 | Qtouch_Q85 | Qtouch_Q85 |
+| Qtouch | Qtouch_Q88 | Qtouch_Q88 | Qtouch_Q88 |
 | Quanta |  | Nirvana_Tablet | Nirvana_Tablet |
 | Quanta |  | infinity_g | INFINITY G NK2 |
 | Quanta |  | nk1 | IGS-1000 |
@@ -17627,6 +17655,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Smartab | ST1009X | ST1009X | ST1009X |
 | Smartab | ST700 | ST700 | ST700 |
 | Smartab | ST7150 | ST7150 | ST7150 |
+| Smartab | ST8200 | ST8200 | ST8200 |
 | Smartab | STJR700 | STJR700 | STJR700 |
 | Smartab | STJR76 | STJR76 | STJR76 |
 | Smartec | MiCA | MiCA | MiCA |
@@ -18269,6 +18298,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Stylo | Luna | Luna | Luna |
 | Stylo | Onyx | Onyx | Onyx |
 | Stylo | S53_STARK | S53_STARK | S53_STARK |
+| Stylo | S54 Zen | CPE91 | CPE91 |
 | Stylo | S55 Nova | S55_Nova | S55 Nova |
 | Stylo | S551 | STYLO_S551 | STYLO S551 |
 | Stylo | S61_JAZZ | S61_JAZZ | S61 JAZZ |
@@ -19022,10 +19052,19 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | TCT (Alcatel) | Alcatel 3 | A3A | 5052Y |
 | TCT (Alcatel) | Alcatel 3 | A3A | 5052Y_EEA |
 | TCT (Alcatel) | Alcatel 3 | Dive_73 | Orange Dive 73 |
+| TCT (Alcatel) | Alcatel 3 | Gauss | 5053D_EEA |
+| TCT (Alcatel) | Alcatel 3 | Gauss | 5053K |
+| TCT (Alcatel) | Alcatel 3 | Gauss | 5053K_EEA |
+| TCT (Alcatel) | Alcatel 3 | Gauss | 5053Y |
+| TCT (Alcatel) | Alcatel 3 | Gauss | 5053Y_EEA |
 | TCT (Alcatel) | Alcatel 3L | A3A_LITE | 5034D |
 | TCT (Alcatel) | Alcatel 3L | A3A_LITE | 5034D_EEA |
 | TCT (Alcatel) | Alcatel 3L | A3A_LITE | 5034D_RU |
 | TCT (Alcatel) | Alcatel 3L | A3A_LITE | HEYOU5 |
+| TCT (Alcatel) | Alcatel 3L | Benz | 5039D |
+| TCT (Alcatel) | Alcatel 3L | Benz | 5039D_EEA |
+| TCT (Alcatel) | Alcatel 3L | Benz | 5039U |
+| TCT (Alcatel) | Alcatel 3L | Benz | 5039Y_RU |
 | TCT (Alcatel) | Alcatel 3T 8 | A3A_8_4G | 9027F |
 | TCT (Alcatel) | Alcatel 3T 8 | A3A_8_4G | 9027Q |
 | TCT (Alcatel) | Alcatel 3T 8 | A3A_8_4G | 9027T |
@@ -19995,6 +20034,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | True | SMART_4G_GEN_C_5.5 | SMART_4G_GEN_C_5_5 | SMART 4G GEN C 5.5 |
 | True | SMART_Champ_4inch | SMART_Champ_4inch | SMART Champ 4.0 |
 | True | SMART_MAX_4.0_PLUS | P909 | SMART_MAX_4.0_PLUS |
+| True | TrueID TV | TV_A01 | STI6030_TRUE_TV_A01 |
 | TuCEL | TC504B | TC504B | TC504B |
 | TuCEL | TL554B | TL554B | TL554B |
 | Tunisie Telecom | Star Trail by TT | startrail3_tt | StarTrail TT |
@@ -20162,6 +20202,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Vernee | V3 | V3 | V3 |
 | Vernee | X1 | X1 | X1 |
 | Vernee | X1 | X1_PRO | X1 |
+| Vernee | note | note | note |
 | Verssed | FW8977-ED | FW8977-ED | FW8977-ED |
 | Vertex | BLK3D | BLK3D | BLK3D |
 | Vertex | Baccara | Baccara | Baccara |
@@ -22884,6 +22925,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | iVOOMi | i2 | i2 | i2 |
 | iVOOMi | i2 Lite | i2_Lite | i2_Lite |
 | iYOU | iYOU_M1 | iYOU_M1 | iYOU_M1 |
+| imose | BAM-II | BAM-II | BAM-II |
 | intelkom | meanIT_C1 | meanIT_C1 | meanIT_C1 |
 | intelkom | meanIT_C2 | meanIT_C2 | meanIT_C2 |
 | ioutdoor | Polar3 | Polar3 | Polar3 |
