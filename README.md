@@ -1,6 +1,6 @@
 # Google Play Certified Android devices
 
-Last sync is 18.01.2019
+Last sync is 19.01.2019
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -382,6 +382,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Advance | Pr5747 | Pr5747 | Pr5747 |
 | Advance | Pr6146 | Pr6146 | Pr6146 |
 | Advance | Pr6150 | Pr6150 | Pr6150 |
+| Advance | TR4986 | Tablet_adv_v1 | ADVANCE |
 | Advance | Tr3946 | Tr3946 | Tr3946 |
 | Advance | Tr4986 | Tablet_adv_v1 | ADVANCE |
 | Advance | Tr4986 | Tr4986 | Tr4986 |
@@ -428,6 +429,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Alcor | Comet_O118LR | Comet_O118LR | Comet_O118LR |
 | Aldo Mobile | S12 | S12 | S12 |
 | Aligator | ALIGATOR S5070 | ALIGATOR_S5070 | ALIGATOR S5070 |
+| Aligator | ALIGATOR S6000 | ALIGATOR_S6000 | ALIGATOR S6000 |
 | Aligator | Aligator S5066 | Aligator_S5066 | Aligator_S5066 |
 | Aligator | RX460 | RX460 | RX460 |
 | Aligator | RX600 | RX600 | RX600 |
@@ -2178,6 +2180,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Bluedigit | RAVOZ_R9 | RAVOZ_R9 | RAVOZ R9 |
 | Bluedot | BNT-700K | BNT-700K | BNT-700K |
 | Bluedot | BNT-801W | BNT_801W | BNT-801W |
+| Bluedot | Masayuki Arai \xe6\x96\xb0\xe4\xba\x95\xe5\xb0\x86\xe4\xb9\x8b | BNT_1012W | BNT-1012 |
 | Bluesky | BSS45 | BSS45 | BSS45 |
 | Bluesky | BSS50 | BSS50 | BSS50 |
 | Bmobility | Benji | Benji | Benji |
@@ -6028,6 +6031,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Hisense | Hisense T5 | HS6737MT | Hisense T5 |
 | Hisense | Hisense T5 Pro | HS6737MT | Hisense T5 Pro |
 | Hisense | Hisense T965 | HS6580MT | Hisense T965 |
+| Hisense | Hisense U964 | HS7731ESP | Hisense U964 |
 | Hisense | Hisense U965 | HS6580MT | Hisense Hi 1 PRO |
 | Hisense | Hisense U965 | HS6580MT | Hisense U965 |
 | Hisense | I300T | I300T | Hisense I300T |
@@ -8348,6 +8352,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Ipro | Mega7 | MEGA7 | MEGA7 |
 | Ipro | PHOENIX 5.0 | PHOENIX_50 | PHOENIX 5.0 |
 | Ipro | Phonenix50S | Phonenix50S | Phonenix50S |
+| Ipro | Pro8S | Pro8S | Pro8S |
 | Ipro | WIN | WIN | WIN |
 | Ipro | XPLAY | XPLAY | XPLAY |
 | Irbis | IRBIS TZ175 | TZ175 | TZ175 |
@@ -8517,6 +8522,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Itel | itel A14 | itel-A14 | itel A14 |
 | Itel | itel A14S | itel-A14S | itel A14S |
 | Itel | itel A16 | itel-A16 | itel A16 |
+| Itel | itel A16 Plus | itel-A16-Plus | itel A16 Plus |
+| Itel | itel A16 Plus | itel-A16-Plus-BD | itel A16 Plus |
 | Itel | itel A20 | itel-A20 | itel A20 |
 | Itel | itel A23 | itel-A23 | itel A23 |
 | Itel | itel A23 | itel-A23F | itel A23 |
@@ -12593,6 +12600,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Movic | MOVIC_W5 | MOVIC_W5 | MOVIC-W5 |
 | Moviltelco Trade | A58B | A58B | A58B |
 | Moviltelco Trade | KIREI A5Q PLUS | Azumi_KIREI_A5Q_PLUS | KIREI A5Q PLUS |
+| Moviltelco Trade | L506 | L506 | L506 |
 | Moviltelco Trade | mtt L452 | L452 | L452 |
 | Moviltelco Trade | mtt L509 | L509 | MTT_L509 |
 | Moviltelco Trade S.L | A58B | A58B | A58B |
@@ -13010,6 +13018,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Navon | Vision_Tab_7 | Vision_Tab_7 | Vision_Tab_7 |
 | Navon | iQ7 2018 | iQ7_2018 | iQ7_2018 |
 | Naxa | NID-1020 | NID_1020 | NID-1020 |
+| Naxa | NID-7020 | NID_7020 | NID-7020 |
 | Naxa | NID1009 | NID1009 | NID-1009 |
 | Naxa | NID7019 | NID7019 | NID-7019 |
 | Naxa | NID9009 | NID9009 | NID-9009 |
@@ -13781,6 +13790,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Panasonic | Altus 18 | Altus18 | Altus 18 |
 | Panasonic | Altus 24 | Altus24 | Altus 24 |
 | Panasonic | Altus 32 | Altus32 | Altus 32 |
+| Panasonic | Asia | globe_ap | PanasonicTV |
 | Panasonic | Boukenkun-reciever | VW_RCBKK1 | VW_RCBKK1 |
 | Panasonic | EB-4063-X | EB-4063-X | EB-4063-X |
 | Panasonic | ELUGA | pana2_4o | dL1 |
@@ -15038,6 +15048,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | SED Wireless | GPH-650R | SPH_650R | GPH-650R |
 | SELECLINE | MID7526CM | MID7526CM | NID_7010 |
 | SELECLINE | MID_9526CM | MID_9526CM | S952 |
+| SEMP TCL | GO3C | GO3C | GO3C |
+| SEMP TCL | GO3E | GO3E | GO3E |
+| SEMP TCL | GO5E | GO5E | GO5E |
 | SERVO | P20 | P20 | P20 |
 | SFR | G8800 | stb_dvb_sfr | SFR-G8800 |
 | SFR | STARADDICT 4 | staraddict4 | STARADDICT 4 |
@@ -15155,6 +15168,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | SUPERSONIC | TAB7091 | TAB7091 | TAB7091 |
 | Safaricom | NEON LITE | NEON_LITE | NEON LITE |
 | Safaricom | NEON PLUS | NEON_PLUS | NEON PLUS |
+| Safaricom | NEON_RAY | NEON_RAY | NEON_RAY |
 | Safaricom | SFCSTB2LITE | SFCSTB2LITE | SFCSTB2LITE |
 | Saltillo | CF10 | CF10 | CF10 |
 | Samsung |  | GT-I5510M | GT-I5510M |
@@ -19849,6 +19863,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Tecno | TECNO P904 | TECNO-P904 | TECNO P904 |
 | Tecno | TECNO POP 2s Pro | TECNO-KB2j | TECNO KB2j |
 | Tecno | TECNO R6S | TECNO-R6 | TECNO R6S |
+| Tecno | TECNO RB7S | TECNO-RB7S | TECNO RB7S |
 | Tecno | TECNO S1 Lite | TECNO-S1Lite | TECNO S1 Lite |
 | Tecno | TECNO SA2S | TECNO-SA2S | TECNO SA2S |
 | Tecno | TECNO SA7S | TECNO-SA7S | TECNO SA7S |
@@ -22695,6 +22710,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | Zaith | Z3211G | Z3211G | Z3211G |
 | Zatec | JOY | JOY | JOY |
 | Zatec | JOY_PLUS | JOY_PLUS | JOY_PLUS |
+| Zatec | WIND | WIND | WIND |
 | Zatec | ZATEC_Play | ZATEC_Play | Play |
 | Zatec | ZPLAY1_2018 | Zatec_Zplay | ZPLAY1_2018 |
 | Zatec | Zpower_2018 | ZATEC_Zpower_2018 | Zpower_2018 |
@@ -23041,6 +23057,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 | imose | BAM-II | BAM-II | BAM-II |
 | intelkom | meanIT_C1 | meanIT_C1 | meanIT_C1 |
 | intelkom | meanIT_C2 | meanIT_C2 | meanIT_C2 |
+| intelkom | meanIT_X2 | meanIT_X2 | meanIT_X2 |
 | ioutdoor | Polar3 | Polar3 | Polar3 |
 | koobee | F2 | koobee_F2 | F2 |
 | koobee | F2_Plus | koobee_F2_Plus | F2_Plus |
