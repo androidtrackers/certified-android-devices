@@ -51,7 +51,7 @@ with open('changes', 'w') as o:
     o.write(new)
 # push to github
 system("git add README.md && git -c \"user.name=XiaomiFirmwareUpdater\" "
-       "-c \"user.email=xiaomifirmwareupdater@gmail.com\" commit -m \"sync: {0}\" && "" \
+       "-c \"user.email=xiaomifirmwareupdater@gmail.com\" commit -m \"[skip ci] sync: {0}\" && "" \
        ""git push -q https://{1}@github.com/yshalsager/certified-android-devices.git HEAD:py"
        .format(today, GIT_OAUTH_TOKEN))
 # tg
@@ -64,7 +64,6 @@ with open('changes', 'r') as c:
         name = info[2]
         codename = info[3]
         model = info[4]
-        """
         telegram_message = "New certified device added!: \n Brand: *{0}* \n Name: *{1}* \n *Codename:* `{2}` \n " \
                            "Model: *{3}*".format(brand, name, codename, model)
         params = (
@@ -80,4 +79,3 @@ with open('changes', 'r') as c:
             print("{0}: Telegram Message sent".format(name))
         else:
             print("Telegram Error")
-        """

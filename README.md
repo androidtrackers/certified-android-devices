@@ -3625,7 +3625,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EPIKONE|T700|T700|T700|
 |EPIKONE|X500|X500|X500|
 |EPIKONE|X503|X503|X503|
-|EPIKONE|X572|X572|X572|
 |ESI Enterprises|CKT3|CKT3|CKT3|
 |ESI Enterprises|DT101Bv51|DT101Bv51|DT101Bv51|
 |ESI Enterprises|DT7v51B|DT7v51B|DT7v51B|
@@ -21288,7 +21287,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|POCO F1|beryllium|POCOPHONE F1|
 |Xiaomi|Redmi|HM2013023|2013023|
 |Xiaomi|Redmi  Note  6  Pro|tulip|Redmi Note 6 Pro|
-|Xiaomi|Redmi  Note  7|lavender|Redmi Note 7|
 |Xiaomi|Redmi  S2|ysl|Redmi S2|
 |Xiaomi|Redmi 3|ido|Redmi 3|
 |Xiaomi|Redmi 3|ido|ido|
@@ -23106,7 +23104,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |videocon|Starr 100|V406018|V406018|
 |xTouch|A4|XTOUCH_A4|A4|
 |xTouch|A5|A5|XTOUCH_A5|
-|xTouch|E4|E4|E4|
 |xTouch|X10|X10|X10|
 |xTouch|X9|X9_16GB|X9_16GB|
 |xTouch|XBOT_SENIOR|XBot_Senior|XBot_Senior|
