@@ -52,7 +52,7 @@ with open('changes', 'w') as o:
 # push to github
 system("git add README.md && git -c \"user.name=XiaomiFirmwareUpdater\" "
        "-c \"user.email=xiaomifirmwareupdater@gmail.com\" commit -m \"[skip ci] sync: {0}\" && "" \
-       ""git push -q https://{1}@github.com/yshalsager/certified-android-devices.git HEAD:py"
+       ""git push -q https://{1}@github.com/yshalsager/certified-android-devices.git HEAD:master"
        .format(today, GIT_OAUTH_TOKEN))
 # tg
 telegram_chat = "@CertifiedAndroidDevices"
