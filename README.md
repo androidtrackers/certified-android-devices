@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-01-19
+ Last sync is 2019-01-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -22826,6 +22826,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zuum|MAGNO C|MAGNO_C|MAGNO C|
 |Zuum|ONIX|ONIX|ONIX|
 |Zuum|ONIX S|ONIX_S|ONIX S|
+|Zuum|ROCKET II|ROCKET_II|ROCKET II|
 |Zuum|STELLAR|STELLAR|STELLAR|
 |Zuum|STELLAR MINI|STELLAR_MINI|STELLAR MINI|
 |Zuum|STELLAR PLUS|STELLAR_PLUS|STELLAR PLUS|
