@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-01-20
+ Last sync is 2019-01-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8427,6 +8427,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Iris|IS2PLUS|IS2PLUS|IS2PLUS|
 |Iris|IS2S|IS2S|IS2S|
 |Iris|IS2_Plus|IS2_Plus|IS2_Plus|
+|Iris|IS6Plus|IS6Plus|IS6Plus|
 |Iris|NEXT P|NEXT_P|NEXT_P|
 |Iris|NEXT P+|NEXT_P_PLUS|NEXT P+|
 |Iris|NEXT U|NEXT_U|NEXT U|
