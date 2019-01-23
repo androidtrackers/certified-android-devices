@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-01-22
+ Last sync is 2019-01-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1623,6 +1623,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|AX822|Bmobile_AX822A|AX822|
 |BMobile|AX823|Bmobile_AX823|AX823|
 |BMobile|AX823|Bmobile_AX823a|AX823|
+|BMobile|AX824|Bmobile_AX824_MV03|AX824|
 |BMobile|AX825|Bmobile_AX825|AX825|
 |BMobile|AX830|Bmobile_AX830|AX830|
 |BMobile|AX905|Bmobile_AX905|AX905|
@@ -2122,6 +2123,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Studio View|S812P|Studio View|
 |Blu|Studio View XL|S790Q|Studio View XL|
 |Blu|Studio X Mini|BLU_STUDIO_X_MINI|BLU STUDIO X MINI|
+|Blu|Studio X8 HD|S532|Studio X8 HD|
 |Blu|Studio_J8M|S0450WW|Studio J8M|
 |Blu|Studio_View|S810P|Studio View|
 |Blu|Studio_XL_2|Studio_XL_2|Studio M6 LTE|
@@ -2480,6 +2482,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cherry Mobile|Flare J3 Max|Flare_J3_Max|Flare J3 Max|
 |Cherry Mobile|Flare J3 Plus|FlareJ3Plus|FlareJ3Plus|
 |Cherry Mobile|Flare J3 Plus|H620|Flare_J3_Plus|
+|Cherry Mobile|Flare J3 mini|Flare_J3_mini|Flare J3 mini|
 |Cherry Mobile|Flare J3s|Flare_J3s|Flare J3s|
 |Cherry Mobile|Flare J5 Mini|Flare_J5_Mini|Flare J5 Mini|
 |Cherry Mobile|Flare J5s|Flare_J5s|Flare J5s|
@@ -2489,6 +2492,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cherry Mobile|Flare J6S|Flare_J6s|Flare_J6s|
 |Cherry Mobile|Flare J7|Flare_J7|Flare J7|
 |Cherry Mobile|Flare J8|Flare_J8|Flare J8|
+|Cherry Mobile|Flare J8 LTE|Flare_J8_LTE|Flare J8 LTE|
 |Cherry Mobile|Flare Lite 3S|Flare_Lite_3S|Flare_Lite_3S|
 |Cherry Mobile|Flare P1|Flare_P1|Flare P1|
 |Cherry Mobile|Flare P1 Lite|Flare_P1_Lite|Flare_P1_Lite|
@@ -3442,6 +3446,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Docomo|F-01J|F01J|F-01J|
 |Docomo|F-01K|F01K|F-01K|
 |Docomo|F-01L|F01L|F-01L|
+|Docomo|F-02H|F02H|F-02H|
 |Docomo|F-02K|F02K|F-02K|
 |Docomo|F-03H|F03H|F-03H|
 |Docomo|F-03K|F03K|F-03K|
@@ -7923,6 +7928,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|Hyundai Koral 10X|HT1003X16|HT1003X16|
 |Hyundai|Hyundai Koral 7M3X|HT0703K|HT0703K16|
 |Hyundai|Hyundai Koral_7M4|HT0704K08|HT0704K08|
+|Hyundai|Hyundai Koral_7XL|HT0701L16|HT0701L16|
 |Hyundai|Koral 10W2|HT1003W16|HT1003W16|
 |Hyundai|Koral 10XL|HT1004L16|HT1004L16|
 |Hyundai|Koral_10X2|HT1004X16|Koral_10X2|
@@ -8545,6 +8551,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel A14|itel-A14|itel A14|
 |Itel|itel A14S|itel-A14S|itel A14S|
 |Itel|itel A16|itel-A16|itel A16|
+|Itel|itel A16|itel-A16-BD|itel A16|
 |Itel|itel A16 Plus|itel-A16-Plus|itel A16 Plus|
 |Itel|itel A16 Plus|itel-A16-Plus-BD|itel A16 Plus|
 |Itel|itel A20|itel-A20|itel A20|
@@ -8835,6 +8842,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Klipad|KL7590|KL7590|KL7590|
 |Klipad|KL7591|KL7591|KL7591|
 |Klipad|KL7599|KL7599|KL7599|
+|Klipad|KL988HPC|KL988HPC|KL988HPC|
 |Klipad|KLI750|KLI750|KL I750|
 |Klipad|KLIPAD_A1040M|A1040M|A1040M|
 |Klipad|KLIPAD_KL4888|KL4888|KL4888|
@@ -8844,6 +8852,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Klipad|PRO_I746|KLIPAD_PRO_I746|KLIPAD_PRO_I746|
 |Klipad|SMART_D791|KLIPAD_SMART_D791|KLIPAD_SMART_D791|
 |Klipad|SMART_I745|KLIPAD_SMART_I745|KLIPAD_SMART_I745|
+|Klipad|V350|V350|V350|
 |Klipad|V355|V355|KLIPAD_V355|
 |Klipad|V355B|V355B|KLIPAD_V355B|
 |Klipad|V356|V356|V356|
@@ -11317,6 +11326,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logicom|La Tab Full HD|La_Tab_Full_HD|La Tab Full HD|
 |Logicom|LaTab109HD|LaTab109HD|La Tab 109 HD|
 |Logicom|Le HELLO|Le_Hello|Le_Hello|
+|Logicom|Le Hola|Le_Hola|Le_Hola|
 |Logicom|Le Hop|Logicom_LeHop|Le Hop|
 |Logicom|Le Lift|LeLift|Le Lift|
 |Logicom|Le Must|LeMust|Le Must|
@@ -11463,6 +11473,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MSI|Primo81|N821|Primo 81|
 |MSI|Primo81|N821|Primo81|
 |MSI|Primo81|Primo81|Primo81|
+|MSota|Nobby S500|Nobby_S500|Nobby S500|
 |MTC|982|MTC_982|MTC 982|
 |MTC|Smart_Light|Smart_Light|Smart_Light|
 |MTC|Vodafone Smart mini|Vodafone_875|MTC 970H|
@@ -11541,6 +11552,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Masstel|Tab7LTE|Masstel_Tab7LTE|Masstel_Tab7LTE|
 |Masstel|Tab7Plus|Tab7Plus|Tab7Plus|
 |Masstel|Tab8plus|Tab8Plus|Tab8Plus|
+|Masstel|X3|Masstel_X3|Masstel X3|
 |MauritiusTelcom|HE2704|MTIPTVBox|HE2704|
 |Maxcom|MS453|MS453|MS453|
 |Maxcom|MS457|MS457|MS457|
@@ -16959,6 +16971,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S2|gts210velte|SM-T819|
 |Samsung|Galaxy Tab S2|gts210veltechn|SM-T819C|
 |Samsung|Galaxy Tab S2|gts210vewifi|SM-T813|
+|Samsung|Galaxy Tab S2|gts210vewifichn|SM-T813|
 |Samsung|Galaxy Tab S2|gts210wifi|SM-T810|
 |Samsung|Galaxy Tab S2|gts28lte|SM-T715|
 |Samsung|Galaxy Tab S2|gts28velte|SM-T719|
@@ -16986,10 +16999,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S2 9.7|gts210velte|SM-T819Y|
 |Samsung|Galaxy Tab S2 9.7|gts210velteatt|SAMSUNG-SM-T818A|
 |Samsung|Galaxy Tab S2 9.7|gts210veltecan|SM-T818W|
-|Samsung|Galaxy Tab S2 9.7|gts210veltechn|SM-T819C|
 |Samsung|Galaxy Tab S2 9.7|gts210veltetmo|SM-T818T|
 |Samsung|Galaxy Tab S2 9.7|gts210vewifi|SM-T813|
-|Samsung|Galaxy Tab S2 9.7|gts210vewifichn|SM-T813|
 |Samsung|Galaxy Tab S2 9.7|gts210wifi|SM-T810|
 |Samsung|Galaxy Tab S2 9.7|gts210wifi|SM-T810X|
 |Samsung|Galaxy Tab S3|gts3llte|SM-T825|
@@ -17331,6 +17342,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Seemahale Telecoms|ST5000|ST5000|ST5000|
 |Selectron|T856G|T856G|T856G|
 |Selfix|SELFIX_ES732_EXPERIUS|EXPERIUS|SELFIX_ES732_EXPERIUS|
+|Selvas|BrailleSense Polaris|polaris|BrailleSensePolaris|
 |Senseit|A109|SENSEIT_A109|SENSEIT_A109|
 |Senseit|L301|SENSEIT-L301|SENSEIT L301|
 |Senseit|SENSEIT T250|SENSEIT_T250|SENSEIT T250|
@@ -20333,6 +20345,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Venus|V5_Plus_|V5_Plus_|V5_Plus_|
 |Venus|Venus V6|Samos|Venus V6|
 |VerD|E1|E1|E1|
+|Verizon Wireless|5059S|U50PLUS|5059S|
 |Verizon Wireless|Ellipsis 10|QTAIR7|QTAIR7|
 |Verizon Wireless|Ellipsis 7|QMV7A|QMV7A|
 |Verizon Wireless|Ellipsis 7|QMV7A|QMV7B|
