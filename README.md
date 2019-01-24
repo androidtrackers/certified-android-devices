@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-01-23
+ Last sync is 2019-01-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -388,6 +388,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advance|Tr4986|Tr4986|Tr4986|
 |Advantage|I101MTK|I101MTK|I101MTK|
 |Advantage Air|PIC10GS8|PIC10GS8|PIC10GS8|
+|Advantage Air|PIC7GS8|PIC7GS8|PIC7GS8|
 |Advantage Air|PIC8GS8|PIC8GS8|PIC8GS8|
 |Aelion|i8|Aelion_i8|i8|
 |Affix|T737|AFFIX_T737|AFFIX T737|
@@ -2227,6 +2228,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bravis|NB871|NB871|NB871|
 |Bravis|X500|BRAVIS_X500|BRAVIS X500|
 |Bravis|bravis_A506|bravis_A506|bravis_A506|
+|Bravva|DM-901|DM-901|DM-901|
 |Bravva|Impress_Aero|Impress_Aero|Impress_Aero|
 |Brighton|MAL-FWTVTB|MAL-FWTVTB|MAL-FWTVTB|
 |Brightstar|M8046IU|M8047IU|M8047IU|
@@ -2348,6 +2350,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Casper|VIA M3|CASPER_VIA_M3|CASPER_VIA_M3|
 |Casper|VIA T7D|VIA-T7D|VIA-T7D|
 |Casper|VIA T7D 3G|VIA-T7D-3G|VIA-T7D-3G|
+|Casper|VIA_ G3|VIA_G3|VIA_G3|
 |Casper|VIA_A1|VIA_A1|VIA_A1|
 |Casper|VIA_A1_1|VIA_A1_1|VIA_A1_1|
 |Casper|VIA_A1_1|VIA_F1|VIA_F1|
@@ -2451,6 +2454,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Changhong|GIU6860|GIU6860|GIU6860|
 |Channel Master|Stream+|dwt765cha|CM-7600|
 |Chemist Warehouse|JR-MB603|JR_MB603|JR_MB603|
+|Chenrui|M40|M40|M40|
 |Cherry Mobile|Cherry W900 LTE|al7|W900 LTE|
 |Cherry Mobile|CherryRoam|CherryRoam|CherryRoam|
 |Cherry Mobile|DOH01|DOH01|DOH01|
@@ -2521,6 +2525,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cherry Mobile|Flare Y3|FlareY3|Flare_Y3|
 |Cherry Mobile|Flare Y3 mini|Flare_Y3_mini|Flare Y3 mini|
 |Cherry Mobile|Flare Y6|Flare_Y6|Flare Y6|
+|Cherry Mobile|Flare Y7|Flare_Y7|Flare_Y7|
+|Cherry Mobile|Flare Y7 LTE|Flare_Y7_LTE|Flare_Y7_LTE|
 |Cherry Mobile|Flare_J3_Lite|Flare_J3_Lite|Flare_J3_Lite|
 |Cherry Mobile|Flare_S6_Lite|Flare_S6_Lite|Flare_S6_Lite|
 |Cherry Mobile|Flare_S7_Prime|Flare_S7_Prime|Flare_S7_Prime|
@@ -3968,6 +3974,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FaceVsion|OC1020A|OC1020A|FV-FG6|
 |Facime|FLEET_7|FLEET_7|FLEET_7|
 |Fairphone|FP2|FP2|FP2|
+|Famous Fones|Famous Red 5+|Famous_Red_5Plus|Famous Red 5+|
 |Famous Fones|Famous_5|Famous_5|Famous 5|
 |Famous Fones|Famous_5Plus|Famous_5Plus|Famous 5Plus|
 |Famous Fones|Fonos-O1|Fonos-O1|Fonos-O1|
@@ -5001,6 +5008,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HTC|Desire 12+|htc_brepdugl|HTC Desire 12+|
 |HTC|Desire 12+|htc_brepdugl|HTC ZQ5W10000|
 |HTC|Desire 12+|htc_brepuhl|HTC Desire 12+|
+|HTC|Desire 12s|htc_bre2dugl|HTC 2Q721|
+|HTC|Desire 12s|htc_bre2dugl|HTC Desire 12s|
 |HTC|Desire 200|gtou|HTC Desire 200|
 |HTC|Desire 200|gtou|HTC_Desire_200|
 |HTC|Desire 210 dual sim|htc_v0_dug|HTC Desire 210 dual sim|
@@ -8569,6 +8578,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel Prime 4|itel_Prime4|itel Prime 4|
 |Itel|itel S12|itel-S12|itel S12|
 |Itel|itel S32LTE|itel-S32LTE|itel S32LTE|
+|Itel|itel W4003|itel-W4003|itel W4003|
 |Itel|itel W5503|itel-W5503|itel W5503|
 |Itworks|TM705|TM705|NID_7010|
 |JLab|PRO-7|polaris-p1gms|JLab PRO-7|
@@ -8803,11 +8813,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kenbo|O51|O51|O51|
 |Kennex|MD7053G|MD7053G|MD7053G|
 |Kenwood|KWSA80K|XP8800|KWSA80K|
+|Kenxinda|K10|K10|K10|
 |Kenxinda|K20M|K20M|K20M|
+|Kenxinda|K30M|K30M|K30M|
 |Kenxinda|T50|T50|T50|
 |Kenxinda|T50Y|T50Y|T50Y|
 |Kenxinda|T55|T55|T55|
 |Kenxinda|T55S|T55S|T55S|
+|Kenxinda|Y10|Y10|Y10|
+|Kenxinda|Y20|Y20|Y20|
 |Kenxinda|Y30|Y30|Y30|
 |Ketablet|Ketablet|TR10CS1_6|TR10CS1|
 |Kiano|ELEGANCE 6|ELEGANCE_6|ELEGANCE 6|
@@ -10409,6 +10423,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|LE9810|LE9810|LAVA LE9810|
 |Lava|LE9820|LE9820|LAVA LE9820|
 |Lava|LH9810|LH9810|LH9810|
+|Lava|LN9810|LN9810|LAVA LN9810|
 |Lava|P7|P7|P7|
 |Lava|P7 Plus|P7plus|P7plus|
 |Lava|P7plus|P7plus|P7plus|
@@ -10453,6 +10468,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|Z25|Z25|Z25|
 |Lava|Z50|Z50|Z50|
 |Lava|Z50_Pro|Z50_Pro|Z50_Pro|
+|Lava|Z51|Z51|Z51|
 |Lava|Z60|Z60|Z60|
 |Lava|Z60S|Z60s|Z60s|
 |Lava|Z60s|Z60s|Z60s|
@@ -10944,6 +10960,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo TAB4|X304F|Lenovo TB-X304F|
 |Lenovo|Lenovo TB-8304F1|TB-8304F1|Lenovo TB-8304F1|
 |Lenovo|Lenovo TB-X104F|X104F|Lenovo TB-X104F|
+|Lenovo|Lenovo TB-X104X|X104X|Lenovo TB-X104X|
 |Lenovo|Lenovo TB-X504F|X504F|Lenovo TB-X504F|
 |Lenovo|Lenovo Tab 7 Essential|7304I|Lenovo TB-7304I|
 |Lenovo|Lenovo Tab 7 Essential|TB-7304I|Lenovo TB-7304I|
@@ -10965,7 +10982,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|LenovoTB-7104I|TB7104I|Lenovo TB-7104I|
 |Lenovo|LenovoTB-8304F|TB-8304F|Lenovo TB-8304F|
 |Lenovo|LenovoTB-8704V|TB-8704V|TB-8704V|
+|Lenovo|LenovoTB-X104F1|X104F1|Lenovo TB-X104F1|
+|Lenovo|LenovoTB-X104F1_EEA|X104F1|Lenovo TB-X104F1|
 |Lenovo|LenovoTB-X104L|X104L|Lenovo TB-X104L|
+|Lenovo|LenovoTB-X104L_RU|X104L|Lenovo TB-X104L|
 |Lenovo|LenovoTB-X304F/Lenovo TAB4|X304F|Lenovo TB-X304F|
 |Lenovo|LenovoTB-X304F/Lenovo TAB4|X304F|TB-X304F|
 |Lenovo|LenovoTB-X704F/Lenovo TAB4 10 Plus|X704F|Lenovo TB-X704F|
@@ -11115,6 +11135,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|TB-8704X|TB-8704X|Lenovo TB-8704X|
 |Lenovo|TB-8804F|TB-8804F|Lenovo TB-8804F|
 |Lenovo|TB-8X04F|TB-8X04F|Lenovo TB-8X04F|
+|Lenovo|TB-X104F1|X104F1|Lenovo TB-X104F1|
+|Lenovo|TB-X104N|X104N|Lenovo TB-X104N|
 |Lenovo|TB2-X30F|TB2-X30F|Lenovo TB2-X30F|
 |Lenovo|TB2-X30F|TB2-X30F|Lenovo TB2-X30F_HFT|
 |Lenovo|TB2-X30F|TB2-X30F|Lenovo TB2-X30F_JLC|
@@ -12642,6 +12664,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Moveby|LINNEX|LX50|LX50|
 |Movic|MOVIC_W5|MOVIC_W5|MOVIC-W5|
 |Moviltelco Trade|A58B|A58B|A58B|
+|Moviltelco Trade|A85|A85|A85|
 |Moviltelco Trade|KIREI A5Q PLUS|Azumi_KIREI_A5Q_PLUS|KIREI A5Q PLUS|
 |Moviltelco Trade|L506|L506|L506|
 |Moviltelco Trade|mtt L452|L452|L452|
@@ -14517,6 +14540,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Premio|Premio P620|Premio_P620|P620|
 |Premio|Premio_P451|Premio_P451|Premio P451|
 |Premio|S40|S40|S40|
+|Premio|S70|S70|S70|
 |Premio|S71|S71|S71|
 |Premio|X1|186HS2080531|186HS2080531|
 |Prestige|7G|Prestige-7G|Prestige 7G|
@@ -15810,6 +15834,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy J1(2016)|j1xlte|SM-J120G|
 |Samsung|Galaxy J1(2016)|j1xlte|SM-J120ZN|
 |Samsung|Galaxy J2|j23g|SM-J200H|
+|Samsung|Galaxy J2|j2corepltemtr|SM-J260T1|
 |Samsung|Galaxy J2|j2lte|SM-J200F|
 |Samsung|Galaxy J2|j2lte|SM-J200G|
 |Samsung|Galaxy J2|j2lte|SM-J200GU|
@@ -17271,7 +17296,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Infuse|SGH-I997|SAMSUNG-SGH-I997|
 |Samsung|Infuse|SGH-I997R|SAMSUNG-SGH-I997R|
 |Samsung|J1 Mini Prime|j1minivelte|SM-J106F|
-|Samsung|J2 Core|j2corepltemtr|SM-J260T1|
 |Samsung|Moment|SPH-M900|SPH-M900|
 |Samsung|Montblanc|montblanc3gctc|SM-W2014|
 |Samsung|Nexus 10|manta|Nexus 10|
@@ -21209,6 +21233,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Woxter|Woxter_N90|Woxter_N90|Woxter_N90|
 |Woxter|X100|X100|X100|
 |Woxter|X70|X70|X70|
+|X-Age|G1LITE|G1LITE|G1LITE|
 |X-TEK|X2|X2|X2|
 |X-TIGI|JOY10_LTE|MID|JOY10_LTE|
 |X-TIGI|JOY10_Mate|JOY10_Mate|X-TIGI_JOY10 Mate|
@@ -23169,6 +23194,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |xTouch|A4|XTOUCH_A4|A4|
 |xTouch|A5|A5|XTOUCH_A5|
 |xTouch|E4|E4|E4|
+|xTouch|E5|E5|E5|
 |xTouch|X10|X10|X10|
 |xTouch|X9|X9_16GB|X9_16GB|
 |xTouch|XBOT_SENIOR|XBot_Senior|XBot_Senior|
