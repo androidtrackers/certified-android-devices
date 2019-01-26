@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-01-25
+ Last sync is 2019-01-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8830,6 +8830,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kenxinda|T50Y|T50Y|T50Y|
 |Kenxinda|T55|T55|T55|
 |Kenxinda|T55S|T55S|T55S|
+|Kenxinda|W55M|W55M|W55M|
 |Kenxinda|Y10|Y10|Y10|
 |Kenxinda|Y20|Y20|Y20|
 |Kenxinda|Y30|Y30|Y30|
@@ -8900,6 +8901,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Konrow|CITY|CITY|CITY|
 |Konrow|CITY55|CITY55|CITY55|
 |Konrow|EASY5|EASY5|EASY5|
+|Konrow|EASY55|EASY55|EASY55|
 |Konrow|EASY62|EASY62|EASY62|
 |Konrow|KONROW|KONROW_701X|KONROW_701X|
 |Konrow|KTAB_1003|KTAB_1003|KTAB_1003|
@@ -11588,6 +11590,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Masstel|Tab7Plus|Tab7Plus|Tab7Plus|
 |Masstel|Tab8plus|Tab8Plus|Tab8Plus|
 |Masstel|X3|Masstel_X3|Masstel X3|
+|Masstel|X8|Masstel_X8|Masstel_X8|
 |MauritiusTelcom|HE2704|MTIPTVBox|HE2704|
 |Maxcom|MS453|MS453|MS453|
 |Maxcom|MS457|MS457|MS457|
@@ -13371,6 +13374,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oale|P5|P5|P5|
 |Oale|P5S|P5S|P5S|
 |Oale|P6|P6|P6|
+|Oale|P6S|P6S|P6S|
 |Obi|MV1|yam|OBI MV1|
 |Obi|MV1|yam|Obi MV1|
 |Obi|OBJ SJ1.5|SJ1-5|SJ1-5|
@@ -14153,6 +14157,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Penta|ETBA0692|PENTA_73AAQ1|PENTA_73AAQ1|
 |Penta|PENTA_73AAQ1|ETBA0604|PENTA_73AAQ1|
 |Performance|PR7RKTNF|PR7RKTNF|PR7RKTNF|
+|Perseo TV|Perseo TV Home 2nd Generation Ranger|DV8219|Perseo TV Home 2nd Generation Ranger|
 |Philco|PTB7PAP_ PTB7PAB _ PTB7PAR|PTB7PA|PTB7PAP_PTB7PAB_PTB7PAR|
 |Philco|PTB7QSG_3G|PTB7QSG_3G|PTB7QSG_3G|
 |Philco|TP10A3N|TP10A3N|TP10A3N|
@@ -15460,6 +15465,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A8(2018)|jackpotlteks|SM-A530N|
 |Samsung|Galaxy A8+(2018)|jackpot2lte|SM-A730F|
 |Samsung|Galaxy A8+(2018)|jackpot2lte|SM-A730X|
+|Samsung|Galaxy A8s|a8sqltechn|SM-G8870|
 |Samsung|Galaxy A9 (2018)|a9y18qlte|SM-A920F|
 |Samsung|Galaxy A9 2018|a9y18qltechn|SM-A9200|
 |Samsung|Galaxy A9 2018|a9y18qltekx|SM-A920N|
@@ -17373,6 +17379,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Scope|F503V|F503V|F503V|
 |Scope|SP1099R|SP1099R|SP1099R|
 |Scope|SP1099V|SP1099V|SP1099V|
+|Sea Mobile|S503L|S503L|S503L|
 |Seatel|L4|L4|L4|
 |Seatel|T8|seatel_T8|Seatel T8|
 |Seatel|V8A|Seatel_V8A|Seatel V8A|
@@ -20643,6 +20650,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ViewSonic|ViewPadi7Q|vsi7q_1_coho|vsi7q_1_coho|
 |ViewSonic|ViewPadi8Q|vsi8q_1_coho|vsi8q_1|
 |ViewSonic|ViewPadi8Q|vsi8q_1_coho|vsi8q_1_coho|
+|Virzo|V501C|V501C|V501C|
 |Virzo|VT701|VT701|VT701|
 |Visiontouch|Inspire|VisionTouchInspire|Vision Touch Inspire|
 |Visiontouch|Life|VisionTouchLife|VisionTouchLife|
@@ -23115,6 +23123,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iNanny|NC1000|NC1000|NC1000|
 |iNew|P20|P20|P20|
 |iNew|P30|P30|P30|
+|iNew|k1|K1|K1|
 |iPlus|iPlus1|iPlus1|iPlus1|
 |iQandT|G3|G3|G3|
 |iReplace|Frog One|FrogOne|FrogOne|
