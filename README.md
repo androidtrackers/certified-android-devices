@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-01-26
+ Last sync is 2019-01-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1829,6 +1829,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bertoli|B20X|B20X|B20X|
 |Best Buy|Transformer Pad (TF103C)|K010|K010|
 |Beyond|MAX4|MAX4|MAX4|
+|Beyond|WIN|WIN|WIN|
 |Bigben|BB8252|Bigben-TAB|BB8252|
 |Bigben|GAMETAB-ONE|GAMETAB-ONE|GAMETAB-ONE|
 |Billion|Billion Capture+|rimoB|Capture+|
