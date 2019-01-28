@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-01-27
+ Last sync is 2019-01-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7923,6 +7923,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|A25563L|A25563L|A25563L|
 |Hyundai|A26062L|A26062L|A26062L|
 |Hyundai|A26062k|A26062K|A26062K|
+|Hyundai|Blade_C5|Blade_C5|Blade_C5|
 |Hyundai|Blade_C6|Blade_C6|Blade_C6|
 |Hyundai|Blade_C7|Blade_C7|Blade_C7|
 |Hyundai|CAR AVN SYSTEM|koecn|TCC893X_EVM|
@@ -10552,6 +10553,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Leader Phone|INFINITY light|LP_INFINITY_light|INFINITY_light|
 |Leader Phone|LP_Spectrum_S2|LP_Spectrum_S2|LP_Spectrum_S2|
 |Leader Phone|N-45|N_45|N-45|
+|Leader Phone|N-45 light|N_45_light|N-45 light|
 |Leader Phone|Vyper|LP_Vyper|Vyper|
 |Leagoo|KIICAA MIX|KIICAA_MIX|KIICAA MIX|
 |Leagoo|KIICAA POWER|KIICAA_POWER|KIICAA POWER|
@@ -20395,6 +20397,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Venus|V5Plus|V5_Plus|V5_Plus|
 |Venus|V5Plus Lite|V5_Plus_Lite|V5_Plus_Lite|
 |Venus|V5_Plus_|V5_Plus_|V5_Plus_|
+|Venus|V5_Pro|V5_Pro|V5_Pro|
 |Venus|Venus V6|Samos|Venus V6|
 |VerD|E1|E1|E1|
 |Verizon Wireless|5059S|U50PLUS|5059S|
