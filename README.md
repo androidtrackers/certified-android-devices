@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-01-28
+ Last sync is 2019-01-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5717,6 +5717,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hathway|OTH-100|SEI103|OTH-100|
 |Haus|HAUS JS408|HAUS_JS408|HAUS JS408|
 |Haus|JS550|JS550|JS550|
+|Helio|Helio S5|Helio_S5|Helio S5|
 |Helio|S10|S10|S10|
 |Helio|S2|WBL7519SY|S2|
 |Helio|S25|HelioS25|S25|
@@ -8893,6 +8894,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kobo|Vox|pegasus|Vox|
 |Kodak|Ektra|KodakEktra|Ektra|
 |Kodak|IM5|IM5|IM5|
+|Kodak|KODAK_SMARTWAY_L1|KODAK_SMARTWAY_L1|KODAK_SMARTWAY_L1|
 |Kodak|SP4|SP4|SP4|
 |Kodak|Smartway_T1|Smartway_T1|Smartway_T1|
 |Kogan|Agora 6 Plus|Kogan_Agora_6Plus|Kogan Agora 6Plus|
@@ -10504,6 +10506,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|iris atom|A1|A1|
 |Lava|iris atom 3|A3|A3|
 |Lava|iris30|iris30|iris30|
+|Lava|iris31|iris31|iris 31|
 |Lava|iris40|iris40|iris40|
 |Lava|iris42|iris42|iris42|
 |Lava|iris50|iris50|iris50|
@@ -10522,6 +10525,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|iris80|iris80|iris80|
 |Lava|iris821|iris821|iris821|
 |Lava|iris870|iris870|iris870|
+|Lava|iris88|iris88|iris88|
 |Lava|iris880|iris880|iris880|
 |Lava|iris88_go|iris88_go|iris88_go|
 |Lava|iris88_lite|iris88_lite|iris88_lite|
@@ -16060,6 +16064,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M Style|SHW-M340L|SHW-M340L|
 |Samsung|Galaxy M Style|SHW-M340S|SHW-M340S|
 |Samsung|Galaxy M Style|vastoicmcc|GT-I8258|
+|Samsung|Galaxy M10|m10lte|SM-M105F|
+|Samsung|Galaxy M20|m20lte|SM-M205F|
 |Samsung|Galaxy Mega 2|mega23g|SM-G750H|
 |Samsung|Galaxy Mega 5.8|crater|GT-I9152|
 |Samsung|Galaxy Mega 5.8|crater3gctc|SCH-P709|
@@ -17884,6 +17890,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smartron|Srtphone|rimo02a|T5524|
 |Smartron|tphone|rimo01a|T5511|
 |Smartron|tphone P|P840F12|T5211|
+|Smooth|S2_Advance|SSmooth_S2_Advance|S2 Advance|
 |Snopow|M10|M10|M10|
 |Soda|E1|soda_CSW1702|soda E1|
 |Soda|FIRE|soda_CSW1803|soda FIRE|
@@ -18567,9 +18574,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SwissMobility|Z9|Z9|Z9|
 |Swisstone|swisstone SD 510|SD5103G|swisstone SD 510|
 |Swisstone|swisstone SD 530|SD5304G|swisstone SD 530|
+|Symphony|G100|G100|Symphony G100|
 |Symphony|H300|H300|H300|
 |Symphony|H400|H400|H400|
 |Symphony|H58|H58|H58|
+|Symphony|Helio S60|Helio_S60|Helio S60|
 |Symphony|INOVA|INOVA|INOVA|
 |Symphony|P11|P11|P11|
 |Symphony|P6 PRO|P6_PRO|P6 PRO|
@@ -18610,6 +18619,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|i10|i10|i10|
 |Symphony|i10 plus|i10_plus|i10 plus|
 |Symphony|i100|i100|i100|
+|Symphony|i120|i120|i120|
+|Symphony|i15|i15|i15|
 |Symphony|i20|i20|i20|
 |Symphony|i25|Symphonyi25|i25|
 |Symphony|i50|i50|i50|
@@ -19935,6 +19946,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|Pouvoir 1|TECNO-LA6|TECNO LA6|
 |Tecno|Pouvoir 2|TECNO-LA7|TECNO LA7|
 |Tecno|Pouvoir 2 Pro|TECNO-LA7-13M|TECNO LA7 Pro|
+|Tecno|Pouvoir 3|TECNO-LB7|TECNO LB7|
 |Tecno|R6|TECNO-R6|TECNO R6|
 |Tecno|R6+|TECNO-RA6|TECNO RA6|
 |Tecno|RA6|TECNO-RA6|TECNO RA6|
@@ -20090,6 +20102,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Thinpad|TH805|TH805|TH805|
 |Thomson|5014G_EEA|5014G|5014G|
 |Thomson|Delight TH201|Delight_TH201|Delight TH201|
+|Thomson|EBK_5014G|EBK_5014G|EBK_5014G|
+|Thomson|EGO_5014G|EGO_5014G|EGO_5014G|
 |Thomson|Friendly TH101|Friendly_TH101|Friendly_TH101|
 |Thomson|Hero10RK|HERO10RK|HERO10RK|
 |Thomson|PRIMO7 Tablet|PRIMO7|PRIMO7|
@@ -22777,6 +22791,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE BLADE L7|P731F10|ZTE BLADE L7|
 |ZTE|ZTE BLADE L7A|P731F12|ZTE BLADE L7A|
 |ZTE|ZTE BLADE L8|P731F12|ZTE BLADE L8|
+|ZTE|ZTE BLADE V Ultra Z982|crocus|ZTE BLADE V Ultra Z982|
 |ZTE|ZTE BLADE V0710|ZTE_BLADE_V0710|ZTE BLADE V0710|
 |ZTE|ZTE BLADE V0720|ZTE_BLADE_V0720|ZTE BLADE V0720|
 |ZTE|ZTE BLADE V0800|ZTE_BLADE_V0800|ZTE BLADE V0800|
@@ -22795,6 +22810,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A531|P932F10|ZTE Blade A531|
 |ZTE|ZTE Blade L110|ZTE_BLADE_L110|ZTE Blade L110|
 |ZTE|ZTE Blade L5|P172A40|ZTE Blade L5|
+|ZTE|ZTE Blade V10 Vita|P963F01|ZTE Blade V10 Vita|
 |ZTE|ZTE Blade V770|P852F52|ZTE Blade V770|
 |ZTE|ZTE Blade V8 Arc|P840V80|ZTE Blade V8 Arc|
 |ZTE|ZTE Blade V9|P450S10|ZTE V0900|
@@ -22870,6 +22886,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zeki|TBQG838|TBQG838|TBQG838|
 |Zeki|TBQG855|TBQG855|TBQG855|
 |Zeki|Zeki TBQG884|TBQG884|TBQG884|
+|Zelumobile|C400|C400|C400|
 |Zelumobile|C450|C450|C450|
 |Zelumobile|C500|C500|C500|
 |Zen|ADMIRE CURVE NEO|ZEN_ADMIRE_CURVE_NEO|ADMIRE_CURVE_NEO|
