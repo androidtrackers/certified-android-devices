@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-01-29
+ Last sync is 2019-01-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1052,10 +1052,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Artel|U4|U4|U4|
 |Artizlee|Artizlee S9|Artizlee_S9|Artizlee_S9|
 |Asanzo|A1|A1|A1|
+|Asanzo|ASANZO A2|ASANZO_A2|ASANZO A2|
 |Asanzo|S3 Plus|ASANZO_S3_PLUS|ASANZO_S3_PLUS|
 |Ascom Wireless Solutions|Ascom Myco 2 Cellular|ACBB|SH1|
 |Ascom Wireless Solutions|Ascom Myco 2 WiFi|ABBB|SH1|
 |Ascom Wireless Solutions|Ascom Myco 2 WiFi|ACBA|SH1|
+|Ascom Wireless Solutions|Ascom Myco 3|ABAA|Ascom Myco 3 Wi-Fi|
+|Ascom Wireless Solutions|Ascom Myco 3|ABBA|Ascom Myco 3 Wi-Fi EU|
+|Ascom Wireless Solutions|Ascom Myco 3|ACAA|Ascom Myco 3 Cellular Wi-Fi|
+|Ascom Wireless Solutions|Ascom Myco 3|ACBA|Ascom Myco 3 Cellular Wi-Fi EU|
 |Ascom Wireless Solutions|Ascom Myco Cellular|ACBA|SH1|
 |Ascom Wireless Solutions|Ascom Myco Cellular|myco_gms|SH1|
 |Ascom Wireless Solutions|Ascom Myco Wi-Fi|ABBA|SH1|
@@ -4463,6 +4468,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Getac|ZX70|zx70|ZX70|
 |Getac|ZX70|zx70|zx70|
 |Getnord|LYNX|LYNX|LYNX|
+|Ghia|GHIA_A7|GHIA_A7|GHIA_A7|
 |Ghia|GHIA_AXIS7P|GHIA_AXIS7P|GHIA_AXIS7P|
 |Ghia|GHIA_VECTOR_3G|GHIA_VECTOR_3G|GHIA_VECTOR_3G|
 |Ghia|GTAB718|GTAB718|GTAB718|
@@ -16974,6 +16980,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A Lite|gtaslitelteatt|SM-T387AA|
 |Samsung|Galaxy Tab A S 8.0|gt58ltebmc|SM-T357W|
 |Samsung|Galaxy Tab A(10.5)|gta2xllte|SM-T597|
+|Samsung|Galaxy Tab A6|gtexswifi|SM-T280|
 |Samsung|Galaxy Tab A8|gtaslitelteusc|SM-T387R4|
 |Samsung|Galaxy Tab Active|rubenslte|SM-T365Y|
 |Samsung|Galaxy Tab Active2|gtactive2lte|SM-T395|
@@ -22809,6 +22816,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A522|P817E53|ZTE Blade A522|
 |ZTE|ZTE Blade A531|P932F10|ZTE Blade A531|
 |ZTE|ZTE Blade L110|ZTE_BLADE_L110|ZTE Blade L110|
+|ZTE|ZTE Blade L130|P731F30|ZTE Blade L130|
 |ZTE|ZTE Blade L5|P172A40|ZTE Blade L5|
 |ZTE|ZTE Blade V10 Vita|P963F01|ZTE Blade V10 Vita|
 |ZTE|ZTE Blade V770|P852F52|ZTE Blade V770|
