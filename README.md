@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-01-30
+ Last sync is 2019-01-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -961,6 +961,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Archos|Archos Core 60S|ac60crs|Archos Core 60S|
 |Archos|Archos Core 70 3G|ac70cr3g|Archos Core 70 3G|
 |Archos|Archos Core 70 3G|ac70cr3gv2|Archos Core 70 3G|
+|Archos|Archos Hello 5|ac50hello|Archos Hello 5|
 |Archos|Archos Hello 7|ac70hello|Archos Hello 7|
 |Archos|Archos Saphir 50X|ac50sax|Archos Saphir 50X|
 |Archos|Archos Sense 101X|ac101xse|Archos Sense 101 X|
@@ -1528,7 +1529,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|AT7|AT7|AT7|
 |Azumi|AX5|AX5|Azumi AX5|
 |Azumi|AZUMI KIREI A5D|KIREI_A5_D|Azumi KIREI A5 D|
+|Azumi|AZUMI V5|AZUMI_V5|V5|
 |Azumi|AZUMI_Daburu_A55O|Daburu_A55O|Azumi_Daburu_A55O|
+|Azumi|AZUMI_M5_AC01|AZUMI_M5_AC01|M5|
+|Azumi|AZUMI_M5_AC02|AZUMI_M5_AC02|M5|
 |Azumi|Azumi A45|Azumi_A45|A45|
 |Azumi|Azumi A5|A5|Azumi A5|
 |Azumi|Azumi_Extend_Akaru_55_QL|Extend_Akaru_55_QL|Azumi Extend Akaru 55 QL|
@@ -2349,6 +2353,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Casio|DT-X400|dtx400|DT-X400|
 |Casio|DT-X400R|dtx400r|DT-X400R|
 |Casio|IT-G400|itg400|IT-G400|
+|Casio|PRO TREK SMART|kingyo|WSD-F30|
 |Casio|Smart Outdoor Watch WSD-F10|koi|CASIO WSD-F10|
 |Casio|WSD-F20|ayu|CASIO WSD-F20|
 |Casio|WSD-F20|ayu|CASIO WSD-F20S|
@@ -4462,6 +4467,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Geniatech|EnjoyTV|enjoytv|ATV495MAX|
 |Geniatech|Enjoytv_hybrid|enjoytv_hybrid|ATV598MAX|
 |Gesellschaft f\xc3\xbcr SMK mBH|Tough Mobile|granite|CP600|
+|Get|Get Box|dciw387get|Get box|
 |Getac|MX50|mx50|MX50|
 |Getac|MX50|mx50|mx50|
 |Getac|Z710|z710|Getac Z710|
@@ -4839,6 +4845,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HOMTOM|S99|S99|S99|
 |HOMTOM|S99i|S99i|S99i|
 |HOMTOM|Z8|Z8|Z8|
+|HOMTOM|c1|C1|C1|
 |HP|10|spruce|HP 10|
 |HP|10 Plus|torsa|HP 10 Plus|
 |HP|7 G2|redwood|HP 7 G2|
@@ -7020,6 +7027,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI Y7 2018|HWLDN-Q|LDN-L01|
 |Huawei|HUAWEI Y7 2018|HWLDN-Q|LDN-L21|
 |Huawei|HUAWEI Y7 2018|HWLDN-Q|LDN-LX3|
+|Huawei|HUAWEI Y7 2019|HWDUB-Q|DUB-LX1|
 |Huawei|HUAWEI Y7 2019|HWDUB-Q|DUB-LX3|
 |Huawei|HUAWEI Y7 Prime 2018|HWLDN-Q|LDN-L21|
 |Huawei|HUAWEI Y7 Pro 2019|HWDUB-Q|DUB-LX2|
@@ -7033,6 +7041,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI nova 2 Plus|HWBAC|BAC-L22|
 |Huawei|HUAWEI nova 2 lite|HWLDN-Q|LDN-LX2|
 |Huawei|HUAWEI nova lite 2|HWFIG-H|704HW|
+|Huawei|HUAWEI nova lite 3|HWPOT-H|POT-LX2J|
 |Huawei|HUAWEI nova lite for Y!mobile|HWPRA-H|608HW|
 |Huawei|HUWEI MediaPad T3|HWKobe-Q|KOB-L09|
 |Huawei|HUWEI MediaPad T3|HWKobe-Q|KOB-W09|
@@ -8656,6 +8665,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Jivi|Xtreme  XT84|Xtreme_XT84|Xtreme XT84|
 |Jivi|Xtreme XT309|Xtreme_XT309|Xtreme XT309|
 |Jivi|Xtreme XT309 Plus|Xtreme_XT309_Plus|Xtreme XT309 Plus|
+|Jivi|Xtreme_1|Xtreme_1|Xtreme 1|
 |Jivi|Xtreme_7|Xtreme_7|Xtreme_7|
 |Jooyon|J110A|J110A|J110A|
 |Juniper Systems|Cedar CT8|CT8|Cedar CT8|
@@ -8773,6 +8783,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kalley|ELEMENT MAX|ELEMENT_MAX|ELEMENT MAX|
 |Kalley|ELEMENT PLUS|ELEMENT_PLUS|ELEMENT PLUS|
 |Kalley|ELEMENT_PRO|ELEMENT_PRO|ELEMENT_PRO|
+|Kalley|Element 4|Element_4|Element 4|
 |Kalley|Gold Pro|GOLD_PRO|GOLD_PRO|
 |Kalley|K-BOOK73G|K_BOOK73G|K-BOOK73G|
 |Kalley|Klic|SA|K4-02 4G|
@@ -10999,6 +11010,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M10|X605F|Lenovo TB-X605F|
 |Lenovo|Lenovo Tab M10|X605L|Lenovo TB-X605L|
 |Lenovo|Lenovo Tab M10|X705L|Lenovo TB-X705L|
+|Lenovo|Lenovo Tab V7|PB-6505NC|Lenovo PB-6505NC|
 |Lenovo|Lenovo Tab4 10 Plus|X704A|TB-X704A|
 |Lenovo|Lenovo X2-CU/VIBE X2|X2-CU|Lenovo X2-CU|
 |Lenovo|Lenovo YOGA A12|YOGA-A12|Lenovo YB-Q501L|
@@ -11597,6 +11609,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Masstel|Masstel_Juno_Q3|Masstel_Juno_Q3|Masstel_Juno_Q3|
 |Masstel|Masstel_Juno_Q5|Masstel_Juno_Q5|Masstel_Juno_Q5|
 |Masstel|Masstel_Tab10|Masstel_Tab10|Masstel Tab10|
+|Masstel|Masstel_X1|Masstel_X1|Masstel X1|
 |Masstel|Masstel_X6|Masstel_X6|Masstel X6|
 |Masstel|N535|Masstel_N535|Masstel N535|
 |Masstel|Tab7LTE|Masstel_Tab7LTE|Masstel_Tab7LTE|
@@ -13034,6 +13047,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NOA Mobile|N8|NOA_N8|NOA_N8|
 |NOA Mobile|NextSE|NextSE|NextSE|
 |NOA Mobile|P1|NOA_P1|P1|
+|NOA Mobile|Primo_4G|Primo_4G|Primo_4G|
 |NOA Mobile|SPRINT 4G|SPRINT4G|SPRINT4G|
 |NOA Mobile|SparkSE|SparkSE|SparkSE|
 |NVIDIA|SHIELD Android TV|foster|SHIELD Android TV|
@@ -13080,6 +13094,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Navcity|NAVCITY NP-852|NP-852|NP-852|
 |Navcity|NAVCITY NP-855|NP_855|NP-855|
 |Navcity|NP-752GO|NP-752Go|NP-752Go|
+|Navcity|NP-852|NP-852|NP-852|
 |Navcity|NT-1714|NT1714|NT-1714|
 |Navitel|Navitel T700 3G Navi|NAVITEL_T700_3G_NAVI|NAVITEL T700 3G NAVI|
 |Navitel|T500 3G|T500_3G|T500 3G|
@@ -18475,6 +18490,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Starlight|I star two|I_star_two|I star two|
 |Starlight|I_Star_Plus|I_Star_Plus|I_Star_Plus|
 |Starlight|Madrid|Madrid|Madrid|
+|Starlight|My_star_19|My_star_19|My_star_19|
 |Starlight|RIO STAR|RIO_STAR|RIO STAR|
 |Starlight|STAR PRO|STAR_PRO|STAR PRO|
 |Starlight|STAR_MIX|STAR_MIX|STAR_MIX|
@@ -18485,6 +18501,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Starlight|Star_Plus|Star_Plus|Star_Plus|
 |Starlight|Starplus 7|STARPLUS7|STARPLUS7|
 |Starlight|UMI_G|UMI_G|UMI_G|
+|Starlight|VENUS|VENUS|VENUS|
 |Starlight|star_phone_x|star_phone_x|star_phone_x|
 |Starlight|star_plus_plus|star_plus_plus|star_plus_plus|
 |Storex|eZee\'Tab7Q11-M|Tab7Q11|Tab7Q11|
@@ -18919,6 +18936,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|9024O|PIXI5-8_4G_Telus|9024O|
 |TCT (Alcatel)|9024W|PIXI5-8_4G_TMO|9024W|
 |TCT (Alcatel)|9025Q|POP4-7_4G|9025Q|
+|TCT (Alcatel)|9027W|A3A_8_4G_TMO|9027W|
 |TCT (Alcatel)|9030G|POP4-10_4G|9030G|
 |TCT (Alcatel)|9030Q|POP4-10_4G|9030Q|
 |TCT (Alcatel)|9203A|Pixi5-7_3G|9203A|
@@ -19261,6 +19279,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1C|U5A_PLUS_3G|5009D|
 |TCT (Alcatel)|Alcatel 1C|U5A_PLUS_3G|5009D_RU|
 |TCT (Alcatel)|Alcatel 1C|U5A_PLUS_3G|5009U|
+|TCT (Alcatel)|Alcatel 1S|Faraday|5024A|
 |TCT (Alcatel)|Alcatel 1X|U5A_PLUS_4G|5059A|
 |TCT (Alcatel)|Alcatel 1X|U5A_PLUS_4G|5059D|
 |TCT (Alcatel)|Alcatel 1X|U5A_PLUS_4G|5059D_RU|
@@ -19289,6 +19308,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 3L|A3A_LITE|HEYOU5|
 |TCT (Alcatel)|Alcatel 3L|Benz|5039D|
 |TCT (Alcatel)|Alcatel 3L|Benz|5039D_EEA|
+|TCT (Alcatel)|Alcatel 3L|Benz|5039D_RU|
 |TCT (Alcatel)|Alcatel 3L|Benz|5039U|
 |TCT (Alcatel)|Alcatel 3L|Benz|5039Y_RU|
 |TCT (Alcatel)|Alcatel 3T 8|A3A_8_4G|9027F|
@@ -20651,6 +20671,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vida|GINI_D9|GINI_D9|GINI_D9|
 |Vida|V401|VIDA_V401|VIDA-V401|
 |Vida|VIDA - i512|i512|VIDA_i512|
+|Vida|VIDA_V555Plus|VIDA_V555Plus|VIDA_V555Plus|
 |Vida|VIDA_i450|VIDA_i450|VIDA_i450|
 |Vida|VIDA_i501|VIDA_i501|VIDA_i501|
 |Vida|i401|VIDA-i401|VIDA-i401|
@@ -22813,6 +22834,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE BLade Zmax|crocus|Z982|
 |ZTE|ZTE BV0870|P840V71|ZTE BV0870|
 |ZTE|ZTE Blade A0722|P817F18|ZTE Blade A0722|
+|ZTE|ZTE Blade A5 2019|P963F30|ZTE Blade A5 2019|
 |ZTE|ZTE Blade A522|P817E53|ZTE Blade A522|
 |ZTE|ZTE Blade A531|P932F10|ZTE Blade A531|
 |ZTE|ZTE Blade L110|ZTE_BLADE_L110|ZTE Blade L110|
