@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-02-01
+ Last sync is 2019-02-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -479,6 +479,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|E4 Lite|E4_Lite|E4_Lite|
 |AllView|P10 Life|P10_Life|P10_Life|
 |AllView|P10 Max|P10_Max|P10_Max|
+|AllView|P10 Mini|P10_Mini|P10_Mini|
 |AllView|P10 Pro|P10_Pro|P10_Pro|
 |AllView|P10_Style|P10_Style|P10_Style|
 |AllView|P4 Pro|P4_Pro|P4_Pro|
@@ -613,6 +614,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Altice|ALTICE S60|S60|S60|
 |Altice|ALTICE S70|S70|S70|
 |Altice|AlTICE S11|S11|S11|
+|Altice|AlTICE S12|S12|S12|
 |Altice|Altice S21|STARNAUTE4|STARNAUTE4|
 |Altice|S22|S22|S22|
 |Altice|S31|S31|Altice_S31|
@@ -12273,10 +12275,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|HALONA|Halona|Halona|
 |Mobiwire|Hawk from EE|Hawk_from_EE|Hawk_from_EE|
 |Mobiwire|Hotah|Hotah|Hotah|
+|Mobiwire|Kicka 5 Plus|Kicka_5_Plus|Kicka 5 Plus|
 |Mobiwire|Kiona|Kiona|Kiona|
 |Mobiwire|Kohana|Kohana|Kohana|
 |Mobiwire|Kosumi|Kosumi|Kosumi|
 |Mobiwire|Kwanita|Kwanita|KWANITA|
+|Mobiwire|Lonan|Lonan|Lonan|
 |Mobiwire|MobiWire Halona|Halona|Halona|
 |Mobiwire|MobiWire Kanuna|Kanuna_MobiWire|KANUNA|
 |Mobiwire|MobiWire Kaya|Kaya_EU_SKU1|KAYA|
@@ -12758,6 +12762,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M7SQC Plus|M7SQC_Plus|M7SQC_Plus|
 |Multilaser|M7s Dual Core|NB116_NB117_NB118|M7s Dual ML03|
 |Multilaser|M7s Quad Core|astar-ococci|ML01-M7S-Quad-Core|
+|Multilaser|M9 3G|ML-WI16-M9_3G|M9_3G|
 |Multilaser|M9-3G|M9-3G|M9-3G|
 |Multilaser|M9-3G|ML-SO-M9-3G|ML-SO-M9-3G|
 |Multilaser|M9-3G|ML-WI-M9-3G|ML-WI-M9-3G|
@@ -12832,6 +12837,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Myphone|CITY XL|myPhone_CityXL|CityXL|
 |Myphone|CITY XL|myPhone_CityXL|myPhone CityXL|
 |Myphone|CUBE|myphone_cube|myPhone Cube|
+|Myphone|FUN_18x9|myPhone_FUN_18x9_EEA|myPhone_FUN_18x9_EEA|
 |Myphone|Fun 18x9|FUN_18x9|FUN_18x9|
 |Myphone|Fun 6 Lite|Fun6Lite|myPhone_Fun6Lite|
 |Myphone|Fusion5_F803B|Fusion5_F803B|Fusion5_F803B|
@@ -12898,6 +12904,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Myphone|myPhone|Hammer_Active2_LTE|Hammer_Active2_LTE|
 |Myphone|myPhone  Q-Smart III Plus|Q-Smart_III_Plus|Q-Smart_III_Plus|
 |Myphone|myPhone FUN7 LTE|myPhone_Fun_7_LTE|myPhone_Fun_7_LTE|
+|Myphone|myPhone_Fun_8|myPhone_Fun_8|myPhone_Fun_8|
 |Myphone|myPhone_Pocket_2|myPhone_Pocket_2|Pocket_2|
 |Myphone|myT3 DTV|myT3_DTV|myT3 DTV|
 |Myphone|myT5 DTV|myT5_DTV|myT5 DTV|
@@ -15112,6 +15119,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reeder|P12 Curve|P12Curve|P12Curve|
 |Reeder|P13|P13|P13|
 |Reeder|P13_Black|P13_Black|P13_Black|
+|Reeder|P13_Lite|P13_Lite|P13_Lite|
 |Reeder|P9C|P9C|P9C|
 |Reeder|Preo P3|Preo_P3|Preo P3|
 |Reeder|T8|reeder_T8|reeder_T8|
@@ -18555,6 +18563,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stylo|Destiny|Destiny|Destiny|
 |Stylo|Luna|Luna|Luna|
 |Stylo|Onyx|Onyx|Onyx|
+|Stylo|S49 MONO|S49_MONO|S49 MONO|
 |Stylo|S49_POISE|S49_POISE|S49_POISE|
 |Stylo|S50_BOLD|S50_BOLD|S50_BOLD|
 |Stylo|S53_STARK|S53_STARK|S53_STARK|
@@ -20345,6 +20354,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Turbopad|TurboX|TurboX_Ray|TurboX_Ray|
 |Turbopad|Turbopad1016|Turbopad1016|Turbopad1016|
 |Turk Telekom|E4|722T|E4|
+|ULCOOL|U1|U1|U1|
 |UNILORIN|UNI10IN|UNI10IN|UNI10IN|
 |UNOWHY|QOOQ|QOOQ|QOOQ|
 |UNOWHY|QOOQ|QOOQ-V41|QOOQ-V41|
@@ -20462,6 +20472,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Venso|Venso CX-551|Venso_CX_551|Venso CX-551|
 |Venturer|Mariner 10 Pro|CT9A03W23|CT9A03W23|
 |Venturer|i7|RCT6773W22|i7|
+|Venus|V1401|V1401|V1401|
 |Venus|V5|V5|V5|
 |Venus|V5Plus|V5_Plus|V5_Plus|
 |Venus|V5Plus Lite|V5_Plus_Lite|V5_Plus_Lite|
