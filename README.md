@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-02-02
+ Last sync is 2019-02-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11025,6 +11025,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M10|X605F|Lenovo TB-X605F|
 |Lenovo|Lenovo Tab M10|X605L|Lenovo TB-X605L|
 |Lenovo|Lenovo Tab M10|X705L|Lenovo TB-X705L|
+|Lenovo|Lenovo Tab V7|PB-6505M|Lenovo PB-6505M|
 |Lenovo|Lenovo Tab V7|PB-6505NC|Lenovo PB-6505NC|
 |Lenovo|Lenovo Tab4 10 Plus|X704A|TB-X704A|
 |Lenovo|Lenovo X2-CU/VIBE X2|X2-CU|Lenovo X2-CU|
