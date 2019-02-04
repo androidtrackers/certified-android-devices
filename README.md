@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-02-03
+ Last sync is 2019-02-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1530,6 +1530,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|A40C|A40C|A40C|
 |Azumi|A50 Style Plus|A50_Style_Plus|A50_Style_Plus|
 |Azumi|A50LT|A50LT|A50LT|
+|Azumi|A53|Azumi_A53|A53|
 |Azumi|AT7|AT7|AT7|
 |Azumi|AX5|AX5|Azumi AX5|
 |Azumi|AZUMI KIREI A5D|KIREI_A5_D|Azumi KIREI A5 D|
@@ -1846,6 +1847,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bertoli|B20X|B20X|B20X|
 |Best Buy|Transformer Pad (TF103C)|K010|K010|
 |Beyond|MAX4|MAX4|MAX4|
+|Beyond|SURVE|SURVE|SURVE|
 |Beyond|WIN|WIN|WIN|
 |Bigben|BB8252|Bigben-TAB|BB8252|
 |Bigben|GAMETAB-ONE|GAMETAB-ONE|GAMETAB-ONE|
@@ -10349,6 +10351,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Laiq|STARTRAIL 8|STARTRAIL|STARTRAIL 8|
 |Lamborghini|SDIS1|sdis1|Lamborghini tablet|
 |Land Rover|Explore|LRExplore|Land Rover Explore|
+|Landbyte|LT5030|LT5030|LT5030|
 |Landbyte|Lt6248|Lt6248|Lt6248|
 |Lanix|Alpha_950|Alpha_950|Alpha 950|
 |Lanix|Alpha_950XL|Alpha_950XL|Alpha 950XL|
@@ -10485,6 +10488,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|R3|R3|R3|
 |Lava|T101|T101|T101|
 |Lava|T71|T71|T71|
+|Lava|T71_w|T71_w|T71_w|
 |Lava|V2 3GB|V23GB|V23GB|
 |Lava|V2s|V2s|V2s|
 |Lava|V2s|V2s|V2s M|
