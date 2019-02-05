@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-02-04
+ Last sync is 2019-02-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -21049,6 +21049,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Voto|VOTO V3|VOTO_V3|VOTO V3|
 |Voto|VX|VX|VX|
 |Voto|Voto V5X|VOTO_V5X|VOTO V5X|
+|Vsmart|Active 1|PQ6001|Active 1|
+|Vsmart|Active 1 +|PQ6002|Active 1+|
+|Vsmart|Joy 1|PQ4001|Joy 1|
+|Vsmart|Joy 1 +|PQ4002|Joy 1+|
 |Vsun|MARS  Touch|MARS_TOUCH|MARS TOUCH|
 |Vsun|MARS Nocam|MARS_NOCAM|MARS NOCAM|
 |Vsun|MARS Note|MARS_NOTE|MARS NOTE|
@@ -21420,6 +21424,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Hongmi 6A|cactus|Redmi 6A|
 |Xiaomi|MI  8  Explorer  Edition|ursa|MI 8 Explorer Edition|
 |Xiaomi|MI  8  Pro|equuleus|MI 8 Pro|
+|Xiaomi|MI  8  Pro|equuleus|MI 8 UD|
 |Xiaomi|MI  MAX  3|nitrogen|MI MAX 3|
 |Xiaomi|MI  PLAY|lotus|MI PLAY|
 |Xiaomi|MI  PLAY|lotus|lotus|
@@ -23052,8 +23057,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |aoson|M753|M753|M753|
 |aoson|R103|R103|R103|
 |aoson|aoson|M815|M815|
-|bq|Active 1|PQ6001|Active 1|
-|bq|Active 1 +|PQ6002|Active 1+|
 |bq|Aquaris A4.5|Aquaris_A45_sprout|Aquaris A4.5|
 |bq|Aquaris A4.5|Aquaris_A45_sprout|Aquaris_A4.5|
 |bq|Aquaris C|jeice|Aquaris C|
@@ -23095,8 +23098,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |bq|Edison 3|Edison_3|Edison 3|
 |bq|Edison 3 3G|Edison_3_3G|Edison 3 3G|
 |bq|Edison_3_mini|Edison_3_mini|Edison 3 mini|
-|bq|Joy 1|PQ4001|Joy 1|
-|bq|Joy 1 +|PQ4002|Joy 1+|
 |bq|M8|Aquaris_M8|Aquaris M8|
 |dazen|dazen 6A|dazen_6A|dazen 6A|
 |dazen|dazen 6E|dazen_6E|dazen 6E|
