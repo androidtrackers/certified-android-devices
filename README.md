@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-02-06
+ Last sync is 2019-02-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9074,6 +9074,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|URBANO V01|KYV31|KYV31|
 |Kyocera|URBANO V02|KYV34|KYV34|
 |Kyocera|URBANO V03|KYV38|KYV38|
+|Kyocera|URBANO V04|KYV45|KYV45|
 |Kyocera|WX10K|WX10K|WX10K|
 |Kyocera|X3|X3-KC_sprout|X3-KC|
 |Kyocera|Zio|SCP-8600|Zio|
@@ -9083,6 +9084,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|zio|msm7627_kb60|Zio|
 |Kyocera|zio|msm7627_surf|Zio|
 |Kyocera|zio|pls8600|Zio|
+|Kyocera|\xe3\x81\x8a\xe3\x81\xa6\xe3\x81\x8c\xe3\x82\x8b\xe3\x82\xb9\xe3\x83\x9e\xe3\x83\x9b01|KYV44_u2|KYV44_u2|
 |Kyowon|All&G PAD|mypad2|KA-E410W|
 |LGE||AS855|LG-AS855|
 |LGE||LGP970|LG-P970|
@@ -9631,6 +9633,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG K11|mcv3|LM-X410.FN|
 |LGE|LG K11+|mcv3|LM-X410.F|
 |LGE|LG K11+|mcv3|LM-X410.FN|
+|LGE|LG K12+|mmh4|LM-X420|
 |LGE|LG K20|lv517n|LG-M255|
 |LGE|LG K20 Plus|lv517|LG-TP260|
 |LGE|LG K20 Plus|lv517|LGMP260|
@@ -13268,6 +13271,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia 3|NE1|TA-1038|
 |Nokia|Nokia 3.1|ES2N_sprout|Nokia 3.1|
 |Nokia|Nokia 3.1|ES2_sprout|Nokia 3.1|
+|Nokia|Nokia 3.1 Plus|RHD|Nokia 3.1 Plus|
 |Nokia|Nokia 3.1 Plus|ROO|Nokia 3.1 Plus|
 |Nokia|Nokia 3.1 Plus|ROON_sprout|Nokia 3.1 Plus|
 |Nokia|Nokia 3.1 Plus|ROO_sprout|Nokia 3.1 Plus|
