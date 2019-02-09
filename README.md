@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-02-08
+ Last sync is 2019-02-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1542,6 +1542,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|Azumi A45|Azumi_A45|A45|
 |Azumi|Azumi A45|Azumi_A45_AC26|A45|
 |Azumi|Azumi A5|A5|Azumi A5|
+|Azumi|Azumi_AKANE|Azumi_AKANE|Azumi AKANE|
 |Azumi|Azumi_Extend_Akaru_55_QL|Extend_Akaru_55_QL|Azumi Extend Akaru 55 QL|
 |Azumi|Azumi_KIREI_A45_D|KIREI_A45_D|Azumi_KIREI_A45_D|
 |Azumi|Azumi_KIREI_A4_D|KIREI_A4_D|Azumi_KIREI_A4_D|
@@ -1621,6 +1622,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|AX1091|Bmobile_AX1091|AX1091|
 |BMobile|AX1091|Bmobile_AX1091|Bmobile_AX1091|
 |BMobile|AX1091|Bmobile_AX1091A|AX1091|
+|BMobile|AX1100|Bmobile_AX1100|AX1100|
 |BMobile|AX660|Bmobile|AX660|
 |BMobile|AX680+|Bmobile_AX680_|AX680+|
 |BMobile|AX681|Bmobile_AX681|AX681|
@@ -11342,6 +11344,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LinkNet|ST950I-LN|ST950I-LN|ST950I-LN|
 |LinkNet|Smart Box HD|SH940C-LN|SH940C-LN|
 |LinkNet|X1 Prime|DCN88_72604_LN|DCN88_72604_LN|
+|Linsay|LINSAY_F10XHD|LINSAY_F10XHD|LINSAY_F10XHD|
+|Linsay|LINSAY_F10XIPS|LINSAY_F10XIPS|LINSAY_F10XIPS|
 |Lisheng|LS-Q878|LS-Q878|LS-Q878|
 |Listo|WEBPAD1002|Listo|WEBPAD1002|
 |LiteTEL|X15|X15|X15|
@@ -12956,6 +12960,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Myria|Cozy MY8302|Cozy_MY8302|Cozy|
 |Myria|Cozy MY8302|MY8302|Cozy|
 |Myria|Fancy|Myria_Fancy|Fancy|
+|Myria|L500|Myria_L500|Myria L500|
 |Myria|Myria 4G MY8303|MY8303|4G|
 |Myria|Myria FIVE|Myria_FIVE|Myria_FIVE|
 |Myria|Myria Giant MY8304|MY8304|Giant|
@@ -13852,6 +13857,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Orange|Zilo|Orange_Zilo|Zilo|
 |Orange|idol S|Diablo_LTE|Orange Niva|
 |Orbic|R370H|R370H|R370L|
+|Orbic|RC506LT|Orbic-RC506LT|RC506LT|
 |Orbic|Wonder|RC555L|RC555L|
 |Oukitel|C10|C10|C10|
 |Oukitel|C10 Pro|C10_Pro|C10 Pro|
@@ -15019,6 +15025,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Qtouch|Qtouch_Q81|Qtouch_Q81|Qtouch_Q81|
 |Qtouch|Qtouch_Q85|Qtouch_Q85|Qtouch_Q85|
 |Qtouch|Qtouch_Q88|Qtouch_Q88|Qtouch_Q88|
+|Qtouch|Qtouch_QT10|Qtouch_QT10|Qtouch_QT10|
 |Quanta||Nirvana_Tablet|Nirvana_Tablet|
 |Quanta||infinity_g|INFINITY G NK2|
 |Quanta||nk1|IGS-1000|
@@ -19908,6 +19915,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tambo|TA-2|TA-2|TA-2|
 |Tambo|TA-20|TA-20|TA-20|
 |Tambo|TA-2_3G|TA-2_3G|TA-2_3G|
+|Tambo|TA-2_Pro|TA-2_Pro|TA-2_Pro|
 |Tambo|TA-3|TA-3|TA-3|
 |Tambo|TA-4|TA-4|TA-4|
 |Tambo|TA-40|TA-40|TA-40|
