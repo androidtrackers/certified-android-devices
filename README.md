@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-02-10
+ Last sync is 2019-02-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13334,6 +13334,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia 8 Sirocco|A1N|Nokia 8 Sirocco|
 |Nokia|Nokia 8 Sirocco|A1N_sprout|Nokia 8 Sirocco|
 |Nokia|Nokia 8.1|PNX_sprout|Nokia 8.1|
+|Nokia|Nokia 9|AOP|Nokia 9|
 |Nokia|Nokia X5|PDA|Nokia X5|
 |Nokia|Nokia X6|DRG|Nokia X6|
 |Nokia|Nokia X7|PNX|Nokia X7|
