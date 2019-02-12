@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-02-11
+ Last sync is 2019-02-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2030,12 +2030,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|BLU_Studio_G_Max|Studio_G_Max|Studio G Max|
 |Blu|BLU_Vivo_XL2|BLU_Vivo_XL2|Vivo XL2|
 |Blu|C4|C050|C4|
+|Blu|C4 2019|C070|C4 2019|
+|Blu|C5|C004|C5|
 |Blu|C5|C010Q|C5|
 |Blu|C5|C014|C5|
 |Blu|C5 LTE|C0010UU|C5 LTE|
+|Blu|C5L|C0040|C5L|
 |Blu|C5X|C0000UU|C5X|
 |Blu|C5X|C0010LL|C5X|
 |Blu|C6|C031P|C6|
+|Blu|C6L|C0030|C6L|
 |Blu|D500|D500|D500|
 |Blu|D600|D600|D600|
 |Blu|DASH L2|BLU_DASH_L2|BLU DASH L2|
@@ -3531,6 +3535,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|T5|T5|T5|
 |Doogee|T5S|T5S|T5S|
 |Doogee|X10|doogee-X10|DOOGEE X10|
+|Doogee|X100|X100|X100|
 |Doogee|X11|X11|X11|
 |Doogee|X20|X20|X20|
 |Doogee|X20L|X20L|X20L|
@@ -5741,6 +5746,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Handheld Group|Algiz RT7|algizRT7|Algiz RT7|
 |Handheld Group|HandHeld NAUTIZ X2|NAUTIZ_X2|NAUTIZ_X2|
 |Handheld Group|NAUTIZ X6|NAUTIZ_X6|NAUTIZ_X6|
+|Handheld Group|NAUTIZ_X6|NAUTIZ_X6|NAUTIZ_X6|
 |Handheld Group|Nautiz_X2|NAUTIZ_X2|NAUTIZ_X2|
 |Handheld Group|Nautiz_X9|Nautiz_X9|Nautiz_X9|
 |HannSpree|HSG1279|HANNSpad|HSG1279|
@@ -12322,6 +12328,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|STARXTREM 5|STARXTREM5|STARXTREM5|
 |Mobiwire|Tala|Tala|Tala|
 |Mobiwire|Telenor SmartPlus|Telenor_SmartPlus|Telenor_SmartPlus|
+|Mobiwire|Telstra Lite Plus|Telstra_Lite_Plus|Telstra Lite Plus|
 |Mobiwire|V.40|Nextel|V.40|
 |Mobiwire|V.45|VSN|V.45S|
 |Mobiwire|VSN V.45|up06_h26_v45|V.45|
@@ -12800,6 +12807,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M7SQC Plus|M7SQC_Plus|M7SQC_Plus|
 |Multilaser|M7s Dual Core|NB116_NB117_NB118|M7s Dual ML03|
 |Multilaser|M7s Quad Core|astar-ococci|ML01-M7S-Quad-Core|
+|Multilaser|M7sLite|ML-SO06-M7sLite|M7sLite|
 |Multilaser|M9 3G|ML-WI16-M9_3G|M9_3G|
 |Multilaser|M9-3G|M9-3G|M9-3G|
 |Multilaser|M9-3G|ML-SO-M9-3G|ML-SO-M9-3G|
@@ -13333,8 +13341,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia 8|NB1|TA-1052|
 |Nokia|Nokia 8 Sirocco|A1N|Nokia 8 Sirocco|
 |Nokia|Nokia 8 Sirocco|A1N_sprout|Nokia 8 Sirocco|
+|Nokia|Nokia 8.1|PNXN|Nokia 8.1|
 |Nokia|Nokia 8.1|PNX_sprout|Nokia 8.1|
 |Nokia|Nokia 9|AOP|Nokia 9|
+|Nokia|Nokia 9|AOP_sprout|Nokia 9|
 |Nokia|Nokia X5|PDA|Nokia X5|
 |Nokia|Nokia X6|DRG|Nokia X6|
 |Nokia|Nokia X7|PNX|Nokia X7|
@@ -13503,6 +13513,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Onkyo|DP-CTX1|DP-CTX1|DP-CTX1|
 |Onkyo|DP-X1|Rai_Zin_32|DP-X1|
 |Onkyo|DP-X1A|Rai_Zin2R_64|DP-X1A|
+|Ooredoo|Ooredoo TV|diw387oor|DIW387_UHD_OOR|
 |Ooredoo|Smart10_Pro|Smart10_Pro|Smart10_Pro|
 |OpelMobile|EasySmart|EasySmart|EasySmart|
 |OpenPeak||CIUS-7|CIUS-7|
@@ -15980,6 +15991,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy J2 Pro|j2y18lte|SM-J250F|
 |Samsung|Galaxy J2 Pro|j2y18lte|SM-J250G|
 |Samsung|Galaxy J2 Pro|j2y18lte|SM-J250M|
+|Samsung|Galaxy J2 Pure|j2coreplteaio|SM-J260AZ|
 |Samsung|Galaxy J2(2016)|j2xlte|SM-J210F|
 |Samsung|Galaxy J3|j3ltectc|SM-J3109|
 |Samsung|Galaxy J3|j3ltespr|SM-J320P|
@@ -18026,6 +18038,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|BRAVIA 4K GB|BRAVIA_ATV2|BRAVIA 4K GB|
 |Sony|BRAVIA 4K GB ATV3|BRAVIA_ATV3_4K|BRAVIA 4K GB ATV3|
 |Sony|BRAVIA 4K UR1|BRAVIA_UR1_4K|BRAVIA 4K UR1|
+|Sony|BRAVIA 4K UR2|BRAVIA_UR2_4K|BRAVIA 4K UR2|
 |Sony|BRAVIA Smart Stick|NSZGU1|NSZ-GU1|
 |Sony|Ericsson Live with Walkman|WT19a|WT19a|
 |Sony|Ericsson Live with Walkman|WT19i|WT19i|
@@ -22801,6 +22814,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z353VL|oldman|Z353VL|
 |ZTE|Z557BL|lewis|Z557BL|
 |ZTE|Z557BL|msm8909|Z557BL|
+|ZTE|Z6410|Z6410|Z6410S|
 |ZTE|Z660G|nice|Z660G|
 |ZTE|Z665C|seanplus|Z665C|
 |ZTE|Z667|demi|Z667|
