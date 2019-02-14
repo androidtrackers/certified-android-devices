@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-02-13
+ Last sync is 2019-02-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3082,6 +3082,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|KING_KONG_3|KING_KONG_3|KING_KONG_3|
 |Cubot|MANITO|CUBOT_MANITO|CUBOT_MANITO|
 |Cubot|MAX|x6069_cubot_5365u|CUBOT MAX|
+|Cubot|MAX  2|MAX_2|MAX 2|
 |Cubot|NOTE S|CUBOT_CHEETAH_2|CUBOT CHEETAH 2|
 |Cubot|NOTE S|CUBOT_NOTE_S|CUBOT_NOTE_S|
 |Cubot|RAINBOW 2|RAINBOW_2|RAINBOW 2|
@@ -4411,6 +4412,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Future Mobile Technology|netsurferDUAL 7|FMT-NM7116-01|FMT-NM7116-01|
 |G Y P NEW TREE SA|VIEWPAD M10M|M10M|VIEWPAD M10M|
 |G-TOUCH|Stella X|Stella_X|Stella X|
+|G-TOUCH|Stella XS|Stella_XS|Stella XS|
+|G-Tab|G4|G4|G4|
 |G-Tab|G5|G5|G5|
 |G-TiDE|EXTREME X9|EXTREME_X9|EXTREME X9|
 |G-TiDE|FANS7|FANS7|G-TiDE FANS7|
@@ -4422,6 +4425,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GFive|Gpad701|Gpad701|Gpad701|
 |GIGI|U1|GIGI_U1|GIGI_U1|
 |GIRASOLE|X9|X9|X9|
+|GP-electronic|YC-3135D|YC-3135D|YC-3135D|
 |GRID Communications (SG)|GS6100|GRID_GS6100|GS6100|
 |GSmart|Akta A4|Akta_A4|Akta_A4|
 |GSmart|Aku A1|Aku_A1|GSmart Aku A1|
@@ -8069,6 +8073,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |INOI|INOI_6_LITE|INOI_6_Lite|INOI_6_Lite|
 |INOI|INOI_6i_Lite|INOI_6i_Lite|INOI_6i_Lite|
 |INOI|INOI_7_LITE|INOI_7_LITE|INOI_7_LITE|
+|INOVALLEY|MID_109_Oreo_BTH|MID_109_Oreo_BTH|MID_109_Oreo_BTH|
 |INQ Mobile||camden|Camden|
 |INQ Mobile||camden|INQ Cloud Touch|
 |INQ Mobile||camden|INQ Cloud Touch -parrot|
@@ -8744,7 +8749,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |K-Touch|M2s|M2s|K-Touch M2s|
 |K-Touch|Pace 2|Pace_2|Pace 2|
 |K-Touch|Pace 2 Lite|Pace_2_Lite|Pace 2 Lite|
-|K-Touch|TB85|TB85|TB85|
 |K-Touch|Touch 2C|Touch2c|K-Touch Tou ch 2c|
 |KAAN|A1|KAAN_A1|KAAN_A1|
 |KAAN|KAAN_N2|KAAN_N2|KAAN_N2|
@@ -9689,6 +9693,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG K4 LTE|me1ds|LG-K130|
 |LGE|LG K4/K7 (2017)|mlv1|LG-X230|
 |LGE|LG K4/K7 (2017)|mlv1|LG-X230YK|
+|LGE|LG K40|mmh4|LM-X420|
 |LGE|LG K5|d3|LG-X220|
 |LGE|LG K7|m1|LG-AS330|
 |LGE|LG K7|m1|LG-K330|
@@ -11383,6 +11388,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logic Instrument|Logic Instrument Fieldbook N80|lifbn80|Logic Instrument Fieldbook N80|
 |Logic Mobility|L5G|L5G|L5G|
 |Logic Mobility|LOGIC_L5D|LOGIC_L5D|LOGIC_L5D|
+|Logic Mobility|T10B|T10B|T10B|
 |Logic Mobility|T7_plus|T7_plus|T7_plus|
 |Logic Mobility|X4 Plus|X4|Logic X4 Plus|
 |Logic Mobility|X5A|LOGIC_X5A|LOGIC X5A|
@@ -12852,6 +12858,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|MS50M|MS50M|MS50M|
 |Multilaser|MS50S|MS50S|MS50S|
 |Multilaser|MS50X|ML-TI-MS50X|MS50X|
+|Multilaser|MS50X_VIVO|ML-TI-MS50X_VIVO|MS50X_VIVO|
 |Multilaser|MS50_4G|MS50_4G|MS50_4G|
 |Multilaser|MS55|MS55|MS55|
 |Multilaser|MS55M|MS55M|MS55M|
@@ -14971,6 +14978,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |QMobile|Noir S9|QMobile_Noir_S9|QMobile Noir S9|
 |QMobile|Pakistan|A1_sprout|QMobile A1|
 |QMobile|Phantom_P1|Phantom_P1|Qmobile Phantom P1|
+|QMobile|Phantom_P1_Pro|Phantom_P1_Pro|Qmobile Phantom P1 Pro|
 |QMobile|Q Infinity|Q_Infinity|Q Infinity|
 |QMobile|Q Infinity B|Q_Infinity_B|QMobile Q Infinity B|
 |QMobile|Q Infinity C|Q_Infinity_C|QMobile Q Infinity C|
@@ -15022,6 +15030,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |QMobile|i2 POWER|i2_POWER|QMobile i2 POWER|
 |QMobile|i2 PRO|i2_PRO|QMobile i2 PRO|
 |QMobile|i5.5|i5_5|QMobile i5.5|
+|QMobile|i5i 2018|i5i_2018|QMobile i5i 2018|
 |QMobile|i5i 2019|i5i_2019|QMobile i5i 2019|
 |QMobile|i6 Metal 2017|i6_Metal_2017|QMobile i6 Metal 2017|
 |QMobile|i6 Metal 2018|i6_Metal_2018|QMobile i6 Metal 2018|
@@ -17683,6 +17692,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS sense2 SHV43|MZW-u|SHV43-u|
 |Sharp|AQUOS zero|SG801SH|801SH|
 |Sharp|AQUOS zero|SH-Z10|SH-Z10|
+|Sharp|AQUOS \xe3\x82\xb1\xe3\x83\xbc\xe3\x82\xbf\xe3\x82\xa4 SH-02L|SH-02L|SH-02L|
 |Sharp|AQUOS \xe3\x82\xb1\xe3\x83\xbc\xe3\x82\xbf\xe3\x82\xa4 SH-06G|SH-06G|SH-06G|
 |Sharp|Android One S1|kaleido_sprout|S1|
 |Sharp|B10|SH-A01|SH-A01|
@@ -20113,6 +20123,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|SPARK 2|TECNO-KA7-GO|TECNO KA7|
 |Tecno|SPARK 2|TECNO-KA7-O|TECNO KA7O|
 |Tecno|SPARK 2 YOUTH|TECNO-LB6|TECNO LB6|
+|Tecno|SPARK 3|TECNO-KB7|TECNO KB7|
 |Tecno|SPARK CM|TECNO-KA9|TECNO KA9|
 |Tecno|SPARK Plus|TECNO-K9|TECNO K9|
 |Tecno|SPARK Pro|TECNO-K8|TECNO K8|
@@ -20438,6 +20449,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Turbopad|Turbopad1016|Turbopad1016|Turbopad1016|
 |Turk Telekom|E4|722T|E4|
 |ULCOOL|U1|U1|U1|
+|ULCOOL|U2|U2|U2|
 |UNILORIN|UNI10IN|UNI10IN|UNI10IN|
 |UNOWHY|QOOQ|QOOQ|QOOQ|
 |UNOWHY|QOOQ|QOOQ-V41|QOOQ-V41|
@@ -20499,6 +20511,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umax|VisionBook_P55_LTE_Pro|VisionBook_P55_LTE_Pro|VisionBook P55 LTE Pro|
 |Umidigi|A3|A3|A3|
 |Umidigi|A3_Pro|A3_Pro|A3_Pro|
+|Umidigi|F1|F1|F1|
+|Umidigi|F1_EEA|F1|F1|
 |Umidigi|One|One|One|
 |Umidigi|One Max|One_Max|One Max|
 |Umidigi|One Max E|One_Max|One Max|
@@ -20519,9 +20533,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Uneone|SD80|SD80|SD80|
 |Unifone|U5_Breeze|U5_Breeze|U5_Breeze|
 |Unihertz|Atom|Atom|Atom|
+|Unistrong|UT10|UT10|UT10|
 |Unistrong|UT12|UT12|UT12|
 |Unistrong|UT30|UT30|UT30|
 |Unitech|EA500Plus|EA500Plus|EA500Plus|
+|Unitech|TB85|TB85|TB85|
 |United Group|KSTB6020|KSTB6020|KSTB6020|
 |Unnecto|U4560|U4560|U4560|
 |Unnion Technologies|HH25|HH25|HH25|
@@ -22604,6 +22620,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|T3|skate|T3|
 |ZTE|T325|ZTE_T325|ZTE T325|
 |ZTE|T520|P172A40|ZTE T520|
+|ZTE|T57|P809A01|T57|
+|ZTE|T57|P809A01|ZTE T57|
 |ZTE|T60|turies|ZTE T60|
 |ZTE|T617|ZTE_T617|ZTE T617|
 |ZTE|T620|ZTE_T620|ZTE T620|
@@ -22835,6 +22853,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z-01K|Z-01K|Z-01K|
 |ZTE|Z10|P817E52|ZTE Z10|
 |ZTE|Z353VL|oldman|Z353VL|
+|ZTE|Z557BL|Z557|Z557BL|
 |ZTE|Z557BL|lewis|Z557BL|
 |ZTE|Z557BL|msm8909|Z557BL|
 |ZTE|Z6410|Z6410|Z6410S|
@@ -23212,6 +23231,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iBRIT|IBRIT_I5|i5|IBRIT_I5|
 |iBRIT|IBRIT_I7|i7|IBRIT_I7|
 |iBRIT|IBRIT_POWER6|iBRIT_POWER6|iBRIT_POWER6|
+|iBRIT|K2|K2|K2|
 |iBRIT|M4|M4|M4|
 |iBRIT|MAX7|MAX7|MAX7|
 |iBRIT|Speed_Pro_Plus|SF56|SF56|
