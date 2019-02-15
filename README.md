@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-02-14
+ Last sync is 2019-02-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -117,6 +117,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Accent|CAMELEON C5|CAMELEON_C5|CAMELEON C5|
 |Accent|FAST7 3G|FAST7_3G|FAST7 3G|
 |Accent|FAST73G|FAST73G|FAST73G|
+|Accent|KIDZY70|KIDZY70|KIDZY70|
 |Accent|PEARL A4 Lite|PEARL_A4_Lite|PEARL A4 Lite|
 |Accent|PEARL A6|PEARL_A6|PEARL A6|
 |Accent|Pearl A4 PLUS|PEARL_A4_PLUS|PEARL A4 PLUS|
@@ -1534,6 +1535,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|A4|A4_AC25|Azumi A4|
 |Azumi|A40 Style Plus|A40_Style_Plus|A40_Style_Plus|
 |Azumi|A40C|A40C|A40C|
+|Azumi|A4V|Azumi_A4v|Azumi A4v|
 |Azumi|A50 Style Plus|A50_Style_Plus|A50_Style_Plus|
 |Azumi|A50LT|A50LT|A50LT|
 |Azumi|A53|Azumi_A53|A53|
@@ -1549,6 +1551,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|Azumi A5|A5|Azumi A5|
 |Azumi|Azumi_AKANE|Azumi_AKANE|Azumi AKANE|
 |Azumi|Azumi_Extend_Akaru_55_QL|Extend_Akaru_55_QL|Azumi Extend Akaru 55 QL|
+|Azumi|Azumi_IKU_A55_MB|Azumi_IKU_A55_MB|IKU A55|
 |Azumi|Azumi_KIREI_A45_D|KIREI_A45_D|Azumi_KIREI_A45_D|
 |Azumi|Azumi_KIREI_A4_D|KIREI_A4_D|Azumi_KIREI_A4_D|
 |Azumi|Azumi_KIREI_A5_D|KIREI_A5_D|Azumi_KIREI_A5_D|
@@ -2700,6 +2703,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ColorsMobile|P45|Colors_P45|Colors P45|
 |ColorsMobile|P50_Plus|Colors_P50_Plus|Colors P50 Plus|
 |ColorsMobile|P65|Colors_P65|Colors P65|
+|ColorsMobile|P77_Pride_1E|P77_Pride_1E|P77_Pride_1E|
 |ColorsMobile|PRIDE 5E|P60|P60|
 |ColorsMobile|Pride 5C|P52_Pride5C|P52_Pride5C|
 |ColorsMobile|Pride5X|P90_Pride5X|P90_Pride5X|
@@ -4060,6 +4064,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Figi|FIGI Ftwo|Ftwo|Ftwo|
 |Figi|FIGI Gone|Gone|Gone|
 |Figi|FX|FX|FX|
+|Figi|Gtwo|Gtwo|Gtwo|
 |Figi|Hola|Hola|Hola|
 |Figi|Mone|Mone|Mone|
 |Figi|Mtwo|Mtwo|Mtwo|
@@ -4526,7 +4531,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ghia|GTKIDS7A|GTKIDS7A|GTKIDS7A|
 |Ghia|GTKIDS7B|GTKIDS7B|GTKIDS7B|
 |Ghia|GTKIDS7R|GTKIDS7R|GTKIDS7R|
+|Ghia|GTKIDS7R8|GTKIDS7R8|GTKIDS7R8|
 |Ghia|GTKIDS7V|GTKIDS7V|GTKIDS7V|
+|Ghia|GTKIDS7V8|GTKIDS7V8|GTKIDS7V8|
 |Ghia|TREO_TAB8G|TREO_TAB8G|TREO_TAB8G|
 |Ghia|VECTOR10Plus|VECTOR10Plus|VECTOR10Plus|
 |Ghia|ZEUS 3G|N2|GHIA_ZEUS_3G|
@@ -8492,6 +8499,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Irbis|SP552|SP552|SP552|
 |Irbis|SP554|SP554|SP554|
 |Irbis|SP571|SP571|SP571|
+|Irbis|TZ08|TZ08|TZ08|
 |Irbis|TZ150|TZ150|TZ150|
 |Irbis|TZ165|TZ165|TZ165|
 |Irbis|TZ177|TZ177|TZ177|
@@ -8839,6 +8847,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kalley|ELEMENT MAX|ELEMENT_MAX|ELEMENT MAX|
 |Kalley|ELEMENT PLUS|ELEMENT_PLUS|ELEMENT PLUS|
 |Kalley|ELEMENT_PRO|ELEMENT_PRO|ELEMENT_PRO|
+|Kalley|ELEMENT_PRO_2|ELEMENT_PRO_2|ELEMENT_PRO_2|
 |Kalley|Element 4|Element_4|Element 4|
 |Kalley|Gold Pro|GOLD_PRO|GOLD_PRO|
 |Kalley|K-BOOK73G|K_BOOK73G|K-BOOK73G|
@@ -8930,6 +8939,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kiowa|S5_CRISTAL|S5_CRISTAL|S5_CRISTAL|
 |Kiowa|X4 Plus|X4_Plus|X4_Plus|
 |Kiowa|X4_CRISTAL|X4_CRISTAL|X4_CRISTAL|
+|Kiowa|X4_LTE|X4_LTE|X4_LTE|
 |Klipad|7588AN|tulip-d9003|7588AN|
 |Klipad|7588AN|tulip-d9003|KL3838|
 |Klipad|KL1088|KL1088|KL1088|
@@ -8943,6 +8953,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Klipad|KL7590|KL7590|KL7590|
 |Klipad|KL7591|KL7591|KL7591|
 |Klipad|KL7599|KL7599|KL7599|
+|Klipad|KL7809|KL7809|KL7809|
 |Klipad|KL988HPC|KL988HPC|KL988HPC|
 |Klipad|KLI750|KLI750|KL I750|
 |Klipad|KLIPAD_A1040M|A1040M|A1040M|
@@ -9931,6 +9942,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG Q9|falcon|LM-Q925K|
 |LGE|LG Q9|falcon|LM-Q925L|
 |LGE|LG Q9|falcon|LM-Q925S|
+|LGE|LG Q9 One|phoenix_sprout|LM-Q927L|
 |LGE|LG RAY|d2|LG-X190|
 |LGE|LG Rebel|e1q|LGL43AL|
 |LGE|LG Rebel|e1q|LGL44VL|
@@ -11612,6 +11624,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MSI|Primo81|N821|Primo81|
 |MSI|Primo81|Primo81|Primo81|
 |MSota|Nobby S500|Nobby_S500|Nobby S500|
+|MSota|Nobby X800|Nobby_X800|Nobby X800|
 |MTC|982|MTC_982|MTC 982|
 |MTC|Smart_Light|Smart_Light|Smart_Light|
 |MTC|Vodafone Smart mini|Vodafone_875|MTC 970H|
@@ -12179,6 +12192,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mint|Mint Fusion|Mint_Fusion|Mint Fusion|
 |Mint|Mint Leo|Mint_Leo|Mint Leo|
 |Mint|Mint VirGo|Mint_VirGo|Mint VirGo|
+|Mint|Orion_DS|Orion_DS|Orion_DS|
 |Mint|Pearl_Neo|Pearl_Neo|Pearl_Neo|
 |Mintt|A1|A1|A1|
 |Mintt|CoolMinttM2|CoolMinttM2|CoolMinttM2|
@@ -18612,6 +18626,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Starlight|I star two|I_star_two|I star two|
 |Starlight|I_Star_Plus|I_Star_Plus|I_Star_Plus|
 |Starlight|Madrid|Madrid|Madrid|
+|Starlight|My_Star_X|My_Star_X|My_Star_X|
 |Starlight|My_star_19|My_star_19|My_star_19|
 |Starlight|RIO STAR|RIO_STAR|RIO STAR|
 |Starlight|STAR PRO|STAR_PRO|STAR PRO|
@@ -20385,6 +20400,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Trekstor|tolino tab 8|tolino8|tolino tab 8|
 |Trekstor|tolino tab 8.9|tolino89|tolino tab 8.9|
 |Trend Mobile|ECHO|Trend_Echo|Trend Echo|
+|Trend Mobile|T5|T5|T5|
 |Trend Mobile|TREND_T4|TREND_T4|TREND_T4|
 |Trend Solar|TS-X|TRENDPHONE2_0|TS-X|
 |Trevi|Retailer Stores|KID_TAB_7_S02|KID_TAB_7_S02|
@@ -22853,6 +22869,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z-01K|Z-01K|Z-01K|
 |ZTE|Z10|P817E52|ZTE Z10|
 |ZTE|Z353VL|oldman|Z353VL|
+|ZTE|Z5151V|Z5151|Z5151V|
 |ZTE|Z557BL|Z557|Z557BL|
 |ZTE|Z557BL|lewis|Z557BL|
 |ZTE|Z557BL|msm8909|Z557BL|
@@ -23262,6 +23279,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iBall|iBall_Slide_Majestic_01|Slide_Majestic_01|iBall_Slide_Majestic_01|
 |iBall|iBall_Slide_Perfect_10|Perfect_10|iBall_Slide_Perfect_10|
 |iBall|iBall_Slide_Skye_03|Slide_Skye_03|Slide_Skye_03|
+|iBall|iBall_Slide_Spirit_V2|iBall_Slide_Spirit_V2|iBall Slide Spirit V2|
 |iCraig|CLP288|ICRAIG_CLP288|ICRAIG_CLP288|
 |iCraig|CLP293|CLP293|CLP293|
 |iCraig|CLP_291|ICRAIG_CLP_291|ICRAIG_CLP291|
