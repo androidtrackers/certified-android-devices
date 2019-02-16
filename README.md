@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-02-15
+ Last sync is 2019-02-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8517,6 +8517,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Irbis|TZ721|TZ721|TZ721|
 |Irbis|TZ725|TZ725|TZ725|
 |Irbis|TZ726|TZ726|TZ726|
+|Irbis|TZ727|TZ727|TZ727|
 |Irbis|TZ742|TZ742|TZ742|
 |Irbis|TZ754|TZ754|TZ754|
 |Irbis|TZ757|TZ757|TZ757|
@@ -8726,6 +8727,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Jivi|Prime P444|Prime_P444|Prime P444|
 |Jivi|Prime P4442|Prime_P4442|Prime P4442|
 |Jivi|Revolution TnT3|Revolution_TnT3|Revolution TnT3|
+|Jivi|TnT5|TnT5|TnT5|
 |Jivi|Xtreme  XT84|Xtreme_XT84|Xtreme XT84|
 |Jivi|Xtreme XT309|Xtreme_XT309|Xtreme XT309|
 |Jivi|Xtreme XT309 Plus|Xtreme_XT309_Plus|Xtreme XT309 Plus|
@@ -8905,6 +8907,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kenbo|E61Pro|E61Pro|E61Pro|
 |Kenbo|K6|K6|K6|
 |Kenbo|K7|K7|K7|
+|Kenbo|K9|K9|K9|
 |Kenbo|O51|O51|O51|
 |Kennex|MD7053G|MD7053G|MD7053G|
 |Kenwood|KWSA80K|XP8800|KWSA80K|
@@ -18639,6 +18642,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Starlight|Starplus 7|STARPLUS7|STARPLUS7|
 |Starlight|UMI_G|UMI_G|UMI_G|
 |Starlight|VENUS|VENUS|VENUS|
+|Starlight|star_X|star_X|star_X|
 |Starlight|star_phone_x|star_phone_x|star_phone_x|
 |Starlight|star_plus_plus|star_plus_plus|star_plus_plus|
 |Storex|eZee\'Tab7Q11-M|Tab7Q11|Tab7Q11|
@@ -18737,6 +18741,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SwissMobility|Z9|Z9|Z9|
 |Swisstone|swisstone SD 510|SD5103G|swisstone SD 510|
 |Swisstone|swisstone SD 530|SD5304G|swisstone SD 530|
+|Symphony|E90|E90|E90|
 |Symphony|G100|G100|Symphony G100|
 |Symphony|H300|H300|H300|
 |Symphony|H400|H400|H400|
@@ -18755,15 +18760,19 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|R30|R30|R30|
 |Symphony|Roar A50|Roar_A50_sprout|Roar_A50|
 |Symphony|Roar_V78|Roar_V78|Roar_V78|
+|Symphony|S501|SYMPHONY_S501|S501|
 |Symphony|SYMTAB25|SYMTAB25|SYMTAB25|
 |Symphony|SYMTAB60|SYMTAB60|SYMTAB60|
 |Symphony|Symphony_Z9|Z9|Symphony Z9|
 |Symphony|V100|V100|V100|
 |Symphony|V110|V110|V110|
 |Symphony|V120|V120|V120|
+|Symphony|V125|V125|V125|
+|Symphony|V128|V128|V128|
 |Symphony|V130|V130|V130|
 |Symphony|V140|V140|V140|
 |Symphony|V142|V142|V142|
+|Symphony|V145|V145|V145|
 |Symphony|V155|V155|V155|
 |Symphony|V34|V34|V34|
 |Symphony|V44|V44|V44|
@@ -18774,8 +18783,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|V75m|V75m|V75m|
 |Symphony|V85|V85|V85|
 |Symphony|V92|V92|V92|
+|Symphony|V94|V94|V94|
 |Symphony|V96|V96|V96|
 |Symphony|V97|V97|V97|
+|Symphony|V98|V98|V98|
 |Symphony|Z10|Z10|SYMPHONY Z10|
 |Symphony|ZVII|ZVII|ZVII|
 |Symphony|ZVIII|ZVIII|ZVIII|
@@ -18790,6 +18801,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|i60|i60|i60|
 |Symphony|i65|i65|i65|
 |Symphony|i90|i90|i90|
+|Symphony|i95|i95|i95|
 |Symphony|roarV95|roarV95|roarV95|
 |Symphony|roar_V150|roar_V150|roar_V150|
 |T-Mobile|REVVL 2|A30ATMO|REVVL 2|
@@ -21043,6 +21055,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vkworld|S8|vkworld_S8|S8|
 |Vkworld|S8Lite|S8Lite|S8Lite|
 |Vkworld|S9|S9|S9|
+|Vkworld|VK400|VK4000|VK4000|
 |Vkworld|VK7000|VK7000|VK7000|
 |Vmobile|A10_Y|A10_Y|A10_Y|
 |Vmobile|A11_N|A11_N|A11_N|
