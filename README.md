@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-02-16
+ Last sync is 2019-02-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10467,6 +10467,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lanix|Ilium X710|Ilium_X710|Ilium X710|
 |Lanix|Ilium_Alpha7|Ilium_Alpha7|Ilium Alpha 7|
 |Lanix|Ilium_L1100|Ilium_L1100|ILIUM L1100|
+|Lanix|Ilium_Pad_X8|Ilium_Pad_X8|Ilium_Pad_X8|
 |Lanix|Ilium_S130|Ilium_S130|Ilium S130|
 |Lanix|Ilium_S130|Ilium_S130|Ilium_S130|
 |Lanix|Ilium_S520|Ilium_S520|ILIUM S520|
