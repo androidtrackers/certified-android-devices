@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-02-19
+ Last sync is 2019-02-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1718,6 +1718,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-5211|BQru-5211|BQ-5211|
 |BQru|BQ-5300G|BQru-5300G|BQ-5300G|
 |BQru|BQ-5301|BQru-5301|BQ-5301|
+|BQru|BQ-5302G|BQru-5302G|BQ-5302G|
 |BQru|BQ-5340 Choice|BQru-5340|BQ-5340|
 |BQru|BQ-5500L Advance|BQru-5500L|BQ-5500L|
 |BQru|BQ-5504\xc2\xa0Strike\xc2\xa0Selfie\xc2\xa0Max|BQru_5504|BQru-5504|
@@ -3676,6 +3677,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |E-Boda|Eclipse G500HD|E-Boda_Eclipse_G500HD|Eclipse G500HD|
 |E-Boda|Eclipse G500M|Eclipse_G500M|Eclipse_G500M|
 |E-TACHI|A8_SMART|A8_SMART|A8_SMART|
+|E-Tel|E-tel_M1|E-tel_M1|E-tel_M1|
 |E-Tel|E-tel_i250|E-tel_i250|E-tel_i250|
 |E-Tel|Q25|Q25|Q25|
 |E-Tel|Q30|Q30|Q30|
@@ -8486,6 +8488,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Invens|MAX_1|MAX_1|MAX_1|
 |Inverse Net|EP172BZ|EP172BZ|EP172BZ|
 |Inverse Net|EP172PR|EP172PR|EP172PR|
+|Ipro|Amber6|Amber6|Amber6|
 |Ipro|Jade7s|Jade7s|Jade7s|
 |Ipro|KYLIN40|KYLIN40|KYLIN40|
 |Ipro|Kylin 5.0|Kylin_50|Kylin 5.0|
@@ -12317,6 +12320,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|SWITCH1|SWITCH1|SWITCH1|
 |Mobicell|Samba|Samba|Samba|
 |Mobicell|TANGO_LITE|TANGO_LITE|TANGO_LITE|
+|Mobicell|TRENDY 2|TRENDY_2|TRENDY 2|
 |Mobicell|TRENDY_LITE|TRENDY_LITE|TRENDY_LITE|
 |Mobicell|TRIP|TRIP|TRIP|
 |Mobicell|Trendy|TREDNY|TREDNY|
@@ -12870,6 +12874,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mpman|PH604|PH604|PH604|
 |Multilaser|Discovery|Discovery|Discovery|
 |Multilaser|KIDPAD 3G|ML-JI21-M7-3G-PLUS-KIDPAD|KIDPAD-3G|
+|Multilaser|KIDPAD LITE|ML-SO06-M7S-LITE-KIDPAD|KIDPAD_LITE|
 |Multilaser|Kidpad-3G|Kidpad-3G|Kidpad-3G|
 |Multilaser|M10-4G|ML-JI03-M10-4G|M10-4G|
 |Multilaser|M10A|M10A|M10A|
@@ -12882,6 +12887,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M7I-3G|M7I-3G|M7I-3G|
 |Multilaser|M7I-3G|astar-ococci|ML01-M7S-Quad-Core|
 |Multilaser|M7SQC Plus|M7SQC_Plus|M7SQC_Plus|
+|Multilaser|M7S_PLUS|ML-SO07-M7S-PLUS|M7S_PLUS|
 |Multilaser|M7s Dual Core|NB116_NB117_NB118|M7s Dual ML03|
 |Multilaser|M7s Quad Core|astar-ococci|ML01-M7S-Quad-Core|
 |Multilaser|M7sLite|ML-SO06-M7sLite|M7sLite|
@@ -14769,10 +14775,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|GV7790|GV7790|GV7790|
 |Prestigio|Grace|PSP7557|PSP7557|
 |Prestigio|Grace 3118 3G|JU80A2G|PMT3118_3G|
+|Prestigio|Grace 3738 3G|CD80A1G|PMT3738_3G|
 |Prestigio|Grace 3758 3G|CD80A1G|PMT3758_3G|
+|Prestigio|Grace 3768 3G|CD80A1G|PMT3768_3G|
 |Prestigio|Grace 3778 3G|CD80A1G|PMT3778_3G|
 |Prestigio|Grace 3838 4G|CD80A3L|PMT3838_4G|
 |Prestigio|Grace 3848 4G|CD80A3L|PMT3848_4G|
+|Prestigio|Grace 3868 4G|CD80A3L|PMT3868_4G|
 |Prestigio|Grace X3|PSP3455DUO|PSP3455DUO|
 |Prestigio|Grace X5|PSP5470DUO|PSP5470DUO|
 |Prestigio|Grace X7|PSP7505DUO|PSP7505DUO|
@@ -14896,6 +14905,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|PSP3510DUO|DTE50B8L|PSP3510DUO|
 |Prestigio|PSP3511DUO|DTE50B8L|PSP3511DUO|
 |Prestigio|PSP3512|DTE50B8L|PSP3512DUO|
+|Prestigio|PSP3513DUO|HN50B1G|PSP3513DUO|
+|Prestigio|PSP3513DUO_RU|HN50B1G|PSP3513DUO_RU|
+|Prestigio|PSP3514DUO|TL50B9G|PSP3514DUO|
+|Prestigio|PSP3515DUO_RU|BW50B1L|PSP3515DUO_RU|
 |Prestigio|PSP3516DUO|TE50B2G|PSP3516DUO|
 |Prestigio|PSP3517DUO|TE50B2G|PSP3517DUO|
 |Prestigio|PSP3518DUO|TE50B4G|PSP3518DUO|
@@ -14904,6 +14917,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|PSP3530DUO|DW53B01G|PSP3530DUO|
 |Prestigio|PSP3531DUO|DW53B01G|PSP3531DUO|
 |Prestigio|PSP3533DUO|DW53B6G|PSP3533DUO|
+|Prestigio|PSP3534DUO_RU|HN53B2G|PSP3534DUO_RU|
 |Prestigio|PSP3537DUO|GF50B2G|PSP3537DUO|
 |Prestigio|PSP3551|DTE50B8L|PSP3551DUO|
 |Prestigio|PSP3552DUO|TE55B9G|PSP3552DUO|
@@ -14923,11 +14937,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|PSP5519DUO|TE50B4L|PSP5519DUO|
 |Prestigio|PSP5520DUO|TE52B10G|PSP5520DUO|
 |Prestigio|PSP5521DUO|TE52B10G|PSP5521DUO|
+|Prestigio|PSP5522DUO|TL52B5L|PSP5522DUO|
+|Prestigio|PSP5523DUO|TL52B5L|PSP5523DUO|
+|Prestigio|PSP5524DUO|TL52B7G|PSP5524DUO|
 |Prestigio|PSP5530DUO|DW53B4G|PSP5530DUO|
 |Prestigio|PSP5531|DW53B4G|PSP5531DUO|
+|Prestigio|PSP5545DUO|TL55B3L|PSP5545DUO|
 |Prestigio|PSP5550DUO|PSP5550DUO|PSP5550DUO|
 |Prestigio|PSP5551DUO|DW55B02L|PSP5551DUO|
 |Prestigio|PSP5552DUO|UE55B1L|PSP5552DUO|
+|Prestigio|PSP5553DUO|TL55B3L|PSP5553DUO|
 |Prestigio|PSP7501DUO|DW50B5G|PSP7501DUO|
 |Prestigio|PSP7510DUO|EB50B1L|PSP7510DUO|
 |Prestigio|PSP7511DUO|DW50B5G|PSP7511DUO|
@@ -14936,10 +14955,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|PSP7550DUO|DW55B8L|PSP7550DUO|
 |Prestigio|PSP7551DUO|DW55B8L|PSP7551DUO|
 |Prestigio|PSP7552DUO|DW55B8L|PSP7552DUO|
+|Prestigio|PSP7610DUO|TL61B8L|PSP7610DUO|
+|Prestigio|PSP7610DUO_RU|TL61B8L|PSP7610DUO_RU|
 |Prestigio|Prestigio Muze 3708 3G|CF80A2G|PMT3708_3G|
 |Prestigio|Prestigio X pro|KN54B1L|PSP7546DUO|
 |Prestigio|Prestigio X pro|KN54B1L|PSP7546DUO_RU|
 |Prestigio|WIZE A3|PSP3453DUO|PSP3453DUO|
+|Prestigio|WIZE U3|TL50B9G|PSP3514DUO_RU|
 |Prestigio|WIZE Y3|IN39B3G|PSP3406DUO|
 |Prestigio|WIZE YA3|IN39B3G|PSP3416DUO|
 |Prestigio|WIZE YA3|IN39B3G|PSP3416DUO_EU|
@@ -14948,6 +14970,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|Wize 3401 3G|JU10A3G|PMT3401_3G|
 |Prestigio|Wize 3761 3G|CD10A2G|PMT3761_3G|
 |Prestigio|Wize 3771 3G|CD10A2G|PMT3771_3G|
+|Prestigio|Wize J3|TL50B10G|PSP3522DUO_RU|
+|Prestigio|Wize W3|TL49B11G|PSP3497DUO|
 |Prime|O9|PRIME_O9|O9|
 |Prime|PRIME P1|PRIME_P1|P1|
 |Prime|X6_Pro|X6_Pro|X6_Pro|
@@ -15008,6 +15032,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |QMobile|Energy\xc2\xa0X5 4G|Energy_X5_4G|QMobile Energy X5 4G|
 |QMobile|Evok Power|QMobile_Evok_Power|QMobile Evok Power|
 |QMobile|Evok Power Lite|Evok_Power_Lite|QMobile Evok Power Lite|
+|QMobile|Fire|Fire|Fire|
 |QMobile|HD Plus|QMobile_HD_Plus|HD Plus|
 |QMobile|J1|J1|QMobile J1|
 |QMobile|J2|J2|QMobile J2|
@@ -15020,6 +15045,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |QMobile|L20|L20|QMobile L20|
 |QMobile|LT100|LT100|QMobile LT100|
 |QMobile|LT300|LT300|LT300|
+|QMobile|LT360|LT360|LT360|
 |QMobile|LT500 PRO|QMobile_LT500_PRO|LT500 PRO|
 |QMobile|LT550|QMobile_LT550|QMobile LT550|
 |QMobile|LT600 PRO|QMobile_LT600_PRO|QMobile_LT600_PRO|
@@ -15059,6 +15085,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |QMobile|S8|QMobile_S8|S8|
 |QMobile|S8_Lite|QMobile_S8_Lite|S8_Lite|
 |QMobile|S9|S9|S9|
+|QMobile|Smart|Smart|Smart|
 |QMobile|Smart_Power|Smart_Power|QMobile Smart Power|
 |QMobile|V100|QTab_V100|V100|
 |QMobile|V2 2018|V2_2018|V2 2018|
@@ -17934,6 +17961,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SiAL|Bic camera|Si01BB|Si01BB|
 |SiAL|Si01BE|Si01BE|Si01BE|
 |Sico|Diamond 2|Diamond_2|Diamond 2|
+|Sico|Infinity|Infinity|Infinity|
+|Sico|Infinity Max|InfinityMax|Infinity Max|
 |Sico|Mega2|Mega2|Mega2|
 |Sico|Mega2max|Mega2max|Mega2max|
 |Sico|More_3|More_3|More_3|
@@ -18020,6 +18049,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|PLATINUM VIEW|PLATINUMVIEW|PLATINUMVIEW|
 |Sky Devices|PLATINUM_E5|Platinum_E5|Platinum_E5|
 |Sky Devices|PLATINUM_F5|Platinum_F5|Platinum_F5|
+|Sky Devices|PLATINUM_O|PLATINUM_O|PLATINUM_O|
+|Sky Devices|PLATINUM_O_B1|PLATINUM_O|PLATINUM_O|
 |Sky Devices|Platinum C4|Platinum_C4|Platinum C4|
 |Sky Devices|Platinum C55|Platinum_C55|Platinum C55|
 |Sky Devices|Platinum M5|Platinum_M5|Platinum_M5|
@@ -19495,6 +19526,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 3|Gauss|5053D_EEA|
 |TCT (Alcatel)|Alcatel 3|Gauss|5053K|
 |TCT (Alcatel)|Alcatel 3|Gauss|5053K_EEA|
+|TCT (Alcatel)|Alcatel 3|Gauss|5053K_RU|
 |TCT (Alcatel)|Alcatel 3|Gauss|5053Y|
 |TCT (Alcatel)|Alcatel 3|Gauss|5053Y_EEA|
 |TCT (Alcatel)|Alcatel 3L|A3A_LITE|5034D|
@@ -20652,6 +20684,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Venus|V5_Pro|V5_Pro|V5_Pro|
 |Venus|Venus V6|Samos|Venus V6|
 |VerD|E1|E1|E1|
+|VerD|E2|E2|E2|
 |Verizon Wireless|5059S|U50PLUS|5059S|
 |Verizon Wireless|Ellipsis 10|QTAIR7|QTAIR7|
 |Verizon Wireless|Ellipsis 7|QMV7A|QMV7A|
@@ -20751,6 +20784,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vertex|Lion_DC|Lion_DC|Lion_DC|
 |Vertex|Lion_Dual|Lion_Dual|Lion_Dual|
 |Vertex|Luck|Luck|Luck|
+|Vertex|Luck_L_5045_4G|Luck_L_5045_4G|Vertex_Luck_L_5045_4G|
 |Vertex|Luck_M_5000N_4G|Luck_M_5000N_4G|Luck_M_5000N_4G|
 |Vertex|Luck_XS_3097_3G|Luck_XS_3097_3G|Luck_XS_3097_3G|
 |Vertex|Pro_L_5045_4G|Pro_L_5045_4G|Pro_L_5045_4G|
@@ -23151,6 +23185,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zeki|Zeki TBQG884|TBQG884|TBQG884|
 |Zelumobile|C400|C400|C400|
 |Zelumobile|C450|C450|C450|
+|Zelumobile|C450_B|C450_B|C450_B|
 |Zelumobile|C500|C500|C500|
 |Zen|ADMIRE CURVE NEO|ZEN_ADMIRE_CURVE_NEO|ADMIRE_CURVE_NEO|
 |Zen|ADMIRE SHINE|ADMIRE_SHINE|ADMIRE SHINE|
