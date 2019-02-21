@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-02-20
+ Last sync is 2019-02-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1858,6 +1858,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|T55|T55|T55|
 |Benesse|TAB-A03-BR|TAB-A03-BR|TAB-A03-BR|
 |Benesse|TAB-A03-BS|TAB-A03-BS|TAB-A03-BS|
+|Beneve|M7133|M7133|M7133|
 |Beneve|M755|M755|M755|
 |Bentley|SDIS1|sdis1|BENTLEY ENTERTAINMENT TABLET|
 |Bentley|Tab|sdis1|BENTLEY ENTERTAINMENT TABLET|
@@ -3334,6 +3335,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Denver Electronics|SDQ_52004L|SDQ_52004L|SDQ_52004L|
 |Denver Electronics|TAQ-10|TAQ10|TAQ-10|
 |Denver Electronics|TAQ-102|TAQ102|TAQ-102|
+|Denver Electronics|TAQ-70|TAQ70|TAQ-70|
 |Denver Electronics|TAQ-90|TAQ90|TAQ-90|
 |Denver Electronics|TAQ_10G|TAQ_10G|TAQ_10G|
 |Denver Electronics|TIQ-102|TIQ102|TIQ-102|
@@ -8947,6 +8949,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kenxinda|T50Y|T50Y|T50Y|
 |Kenxinda|T55|T55|T55|
 |Kenxinda|T55S|T55S|T55S|
+|Kenxinda|W45S|W45S|W45S|
 |Kenxinda|W55M|W55M|W55M|
 |Kenxinda|Y10|Y10|Y10|
 |Kenxinda|Y20|Y20|Y20|
@@ -11384,6 +11387,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lephone|Lephone W8|lephone_W8|lephone_W8|
 |Lephone|S104G|S104G|S104G|
 |Lephone|lephone P1|lephoneP1|lephoneP1|
+|Lephone|lephone P1|lephoneP1O|lephoneP1|
 |Lephone|lephone P1|lephone_P1|lephone P1|
 |Lephone|lephone P2|lephone_P2B|lephone P2|
 |Lephone|lephone P5|lephone_P5|lephone P5|
@@ -12876,6 +12880,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|KIDPAD 3G|ML-JI21-M7-3G-PLUS-KIDPAD|KIDPAD-3G|
 |Multilaser|KIDPAD LITE|ML-SO06-M7S-LITE-KIDPAD|KIDPAD_LITE|
 |Multilaser|Kidpad-3G|Kidpad-3G|Kidpad-3G|
+|Multilaser|M10-3G|ML-JI06-M10-3G|M10-3G|
 |Multilaser|M10-4G|ML-JI03-M10-4G|M10-4G|
 |Multilaser|M10A|M10A|M10A|
 |Multilaser|M10A-Lite|M10A-Lite|M10A-Lite|
@@ -12893,6 +12898,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M7sLite|ML-SO06-M7sLite|M7sLite|
 |Multilaser|M9 3G|ML-WI16-M9_3G|M9_3G|
 |Multilaser|M9-3G|M9-3G|M9-3G|
+|Multilaser|M9-3G|ML-JI05-M9-3G|M9-3G|
 |Multilaser|M9-3G|ML-SO-M9-3G|ML-SO-M9-3G|
 |Multilaser|M9-3G|ML-WI-M9-3G|ML-WI-M9-3G|
 |Multilaser|M9-3G-2|M9-3G_2|M9-3G_2|
@@ -13069,6 +13075,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NASCO|Power Plus Pro|PowerPlusPro|Power Plus Pro|
 |NASCO|SNAP|SNAP|SNAP|
 |NASCO|SNAP PRO|SNAP_PRO|SNAP_PRO|
+|NASCO|TANGO10|TANGO10|TANGO10|
 |NASCO|Warrior|NAS-400|Warrior|
 |NAXA|NID-7011|NID-7011|NID-7011|
 |NAXA|NID_7010|NID_7010|NID_7010|
@@ -15431,6 +15438,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Mobile|X1|SPC_X1|X1|
 |SPC Mobile|X3|SPC_X3|X3|
 |SPC Mobile|heaven_10_1|heaven-10_1|HEAVEN 10.1|
+|SPC Universe|Laika|Laika|Laika|
 |STF Mobile|AERIAL|STFAERIAL|AERIAL|
 |STF Mobile|AERIAL PLUS|AERIAL|AERIAL PLUS|
 |STF Mobile|AURA|AURA|AURA|
@@ -15457,6 +15465,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |STG Telecom|STG X1|STG_X1|STG X1|
 |STIP|MS9|MS9|MS9|
 |STK(Santok)|Hero X|STK_Hero_X|STK_Hero_X|
+|STK(Santok)|Life 8S|Life_8S|Life 8S|
 |STK(Santok)|STK Ace Plus|Ace_Plus|STK Ace Plus|
 |STK(Santok)|STK Ace Plus|STK_Ace_Plus|STK Ace Plus|
 |STK(Santok)|STK EVO|STK_EVO|STK EVO|
@@ -15477,6 +15486,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |STK(Santok)|Sync 5e|STK_Sync_5e|STK_Sync_5e|
 |STK(Santok)|Sync 5z|STK_Sync_5z|STK Sync 5z|
 |STK(Santok)|Transporter 1|STK_Transporter_1|STK_Transporter_1|
+|STK(Santok)|cayenne|cayenne|STK Ace|
 |SUPERSONIC|SC-774KT|SC-774KT|SC-774KT|
 |SUPERSONIC|SC4009DL|SC4009DL|SC-4009DL|
 |SUPERSONIC|SC_1010JBBT|SC_1010JBBT|SC_1010JBBT|
@@ -17128,6 +17138,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A|gt5note10wifi|SM-P550|
 |Samsung|Galaxy Tab A|gt5note8lte|SM-P355M|
 |Samsung|Galaxy Tab A|gt5note8ltechn|SM-P355C|
+|Samsung|Galaxy Tab A|gtasliteltecs|SM-T387W|
 |Samsung|Galaxy Tab A|gtaxlqltespr|SM-T587P|
 |Samsung|"Galaxy Tab A (10.5"")"|gta2xlltespr|SM-T597P|
 |Samsung|"Galaxy Tab A (10.5"")"|gta2xlltevzw|SM-T597V|
@@ -20605,6 +20616,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Ulefone_S1|Ulefone_S1|Ulefone_S1|
 |Ulefone|Ulefone_S7|Ulefone_S7|Ulefone S7|
 |Ulefone|Ulefone_X|Ulefone_X|Ulefone_X|
+|Umax|10Qa_3G|10Qa_3G|VisionBook_10Qa_3G|
 |Umax|7Qa_3G|7Qa_3G|7Qa_3G|
 |Umax|MediaTek|8Qa_3G|8Qa_3G|
 |Umax|U452TL|U452TL|U452TL|
@@ -21351,6 +21363,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|Primo_RM3|Primo_RM3|Primo RM3|
 |Walton|Primo\xc2\xa0S6\xc2\xa0Dual|Primo_S6_Dual|Primo S6 Dual|
 |Walton|Walton Primo X5|Primo_X5|Walton Primo X5|
+|Wave 8|WV8O|WV8O|WV8O|
 |Wave 8|WV8TV|WV8TV|WV8TV|
 |Wave 8 Red Nougat|WV8R-N|WV8R_N|WV8R_N|
 |We (BD)|F1|F1|F1|
@@ -21548,6 +21561,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wintec|T730|T730|Clear|
 |Wintec|T730|T730|T730|
 |Wintec|T750|T750|Clear|
+|Wiseasy|WISENET5|WISENET5|WISENET5|
 |Wishtel|IRA|IRA|IRAI1705|
 |Wistron|DW-21(A)|DA-21|DW-21(A)|
 |Wistron|W1011A|w1011a|W1011A|
