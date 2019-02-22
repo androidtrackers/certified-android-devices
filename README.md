@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-02-21
+ Last sync is 2019-02-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2763,6 +2763,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Condor|Griffe T5|Griffe_T5|Griffe T5|
 |Condor|Griffe T6|Griffe_T6|Griffe T6|
 |Condor|Griffe T7|Griffe_T7|Griffe T7|
+|Condor|Griffe T8|Griffe_T8|Griffe T8|
 |Condor|Griffe_T5|Griffe_T5|Griffe T5|
 |Condor|Griffe_T7|Griffe_T7|Griffe T7|
 |Condor|HS-U939|u939e_6|HS-U939|
@@ -3928,6 +3929,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Evercoss|M50A MAX|EVERCOSS_M50A_MAX|M50A MAX|
 |Evercoss|M53|M53|M53|
 |Evercoss|M55A|M55A|M55A|
+|Evercoss|M55B|M55B|M55B|
 |Evercoss|M55C|M55C|M55C|
 |Evercoss|M70|M70|M70|
 |Evercoss|One X|A65_sprout|EVERCOSS A65|
@@ -8110,6 +8112,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |INOI|INOI_6_LITE|INOI_6_Lite|INOI_6_Lite|
 |INOI|INOI_6i_Lite|INOI_6i_Lite|INOI_6i_Lite|
 |INOI|INOI_7_LITE|INOI_7_LITE|INOI_7_LITE|
+|INOI|INOI_7i|INOI_7i|INOI_7i|
 |INOVALLEY|MID_109_Oreo_BTH|MID_109_Oreo_BTH|MID_109_Oreo_BTH|
 |INQ Mobile||camden|Camden|
 |INQ Mobile||camden|INQ Cloud Touch|
@@ -12837,6 +12840,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g(7) plus|lake_n|moto g(7) plus|
 |Motorola|moto g(7) power|ocean|moto g(6) play|
 |Motorola|moto g(7) power|ocean|moto g(7) power|
+|Motorola|moto g(7) power|ocean_n|moto g(7) power|
 |Motorola|moto g6 play|jeter|Moto G Play|
 |Motorola|moto g6 play|jeter|moto g(6) play|
 |Motorola|moto p30|robusta|XT1943-1|
@@ -13933,6 +13937,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Orange|Dive_70|Dive_70|SCL-L01|
 |Orange|Five|OrangeFive|OrangeFive|
 |Orange|Luno|Luno|Luno|
+|Orange|Mahpee|Mahpee|Mahpee|
 |Orange|MouveTab7WIFI|MouveTab7WIFI|MouveTab7WIFI|
 |Orange|NOS Roya|Alto45|NOS Roya|
 |Orange|Neva 80|Orange_Neva_80|Orange Neva 80|
@@ -14188,6 +14193,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|HDPSEB v4|HDPSEBv4|HD PSEB v4|
 |Panasonic|IPSC 4|ipsc4|IPSC4|
 |Panasonic|JT-B1|B1|JT-B1|
+|Panasonic|JT-C52|JT-C52|JT-C52|
 |Panasonic|KX-PRXA10|KX-PRXA10|Panasonic KX-PRXA10|
 |Panasonic|KX-PRXA15|KX-PRXA15|Panasonic KX-PRXA15|
 |Panasonic|LUMIX CM1|DMC-CM1|DMC-CM1|
@@ -14788,6 +14794,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|Grace 3778 3G|CD80A1G|PMT3778_3G|
 |Prestigio|Grace 3838 4G|CD80A3L|PMT3838_4G|
 |Prestigio|Grace 3848 4G|CD80A3L|PMT3848_4G|
+|Prestigio|Grace 3858 4G|CD80A3L|PMT3858_4G|
 |Prestigio|Grace 3868 4G|CD80A3L|PMT3868_4G|
 |Prestigio|Grace X3|PSP3455DUO|PSP3455DUO|
 |Prestigio|Grace X5|PSP5470DUO|PSP5470DUO|
@@ -14919,6 +14926,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|PSP3516DUO|TE50B2G|PSP3516DUO|
 |Prestigio|PSP3517DUO|TE50B2G|PSP3517DUO|
 |Prestigio|PSP3518DUO|TE50B4G|PSP3518DUO|
+|Prestigio|PSP3522DUO|TL50B10G|PSP3522DUO|
 |Prestigio|PSP3527DUO|TE50B6G|PSP3527DUO|
 |Prestigio|PSP3528DUO|IM50B1G|PSP3528DUO|
 |Prestigio|PSP3530DUO|DW53B01G|PSP3530DUO|
@@ -14965,6 +14973,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|PSP7610DUO|TL61B8L|PSP7610DUO|
 |Prestigio|PSP7610DUO_RU|TL61B8L|PSP7610DUO_RU|
 |Prestigio|Prestigio Muze 3708 3G|CF80A2G|PMT3708_3G|
+|Prestigio|Prestigio SmartKids|HP70A1W|PMT3997_W_RU|
 |Prestigio|Prestigio X pro|KN54B1L|PSP7546DUO|
 |Prestigio|Prestigio X pro|KN54B1L|PSP7546DUO_RU|
 |Prestigio|WIZE A3|PSP3453DUO|PSP3453DUO|
@@ -14975,10 +14984,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|Wize 3131 3G|LS10A3G|PMT3131_3G|
 |Prestigio|Wize 3147 3G|LS70A2G|PMT3147_3G|
 |Prestigio|Wize 3401 3G|JU10A3G|PMT3401_3G|
+|Prestigio|Wize 3731 3G|CD10A2G|PMT3731_3G|
+|Prestigio|Wize 3741 3G|CD10A2G|PMT3741_3G|
+|Prestigio|Wize 3751 3G|CD10A2G|PMT3751_3G|
 |Prestigio|Wize 3761 3G|CD10A2G|PMT3761_3G|
 |Prestigio|Wize 3771 3G|CD10A2G|PMT3771_3G|
 |Prestigio|Wize J3|TL50B10G|PSP3522DUO_RU|
 |Prestigio|Wize W3|TL49B11G|PSP3497DUO|
+|Prestigio|Wize W3|TL49B11G|PSP3497DUO_RU|
 |Prime|O9|PRIME_O9|O9|
 |Prime|PRIME P1|PRIME_P1|P1|
 |Prime|X6_Pro|X6_Pro|X6_Pro|
@@ -15407,6 +15420,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SMT_SN|CRUSH X565|CRUSH_X565|CRUSH_X565|
 |SMT_TSC|BLAZE X500|BLAZE_X500|BLAZE_X500|
 |SMT_TSC|CRUSH_X565|CRUSH_X565|CRUSH_X565|
+|SMT_TSC|FLAME X555|FLAME_X555|FLAME_X555|
 |SOLO|Inspire_U5|Inspire_U5|Inspire_U5|
 |SOLO|Inspire_U5_PLUS|Inspire_U5_PLUS|Inspire_U5_PLUS|
 |SOSMART|T5|SOSMART_T5|SOSMART_T5|
@@ -18097,6 +18111,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smart|Max|Max|Max|
 |Smart|Notrino|Notrino|Notrino|
 |Smart|Slide Lite|Slide_Lite|Slide Lite|
+|Smart|Smart PRIME II|Smart_PRIME_II|Smart PRIME II|
 |SmartPad|SM181301|SM181301|SM181301|
 |SmartPad|Smartpad V7|Smartpad-V7|Smartpad-V7|
 |SmartPad|Smartpad-V10|Smartpad-V10|Smartpad-V10|
@@ -20996,6 +21011,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|PD1419V|PD1419V|vivo Y923|
 |Vivo|PD1612|PD1612|vivo PD1612|
 |Vivo|PD1612|PD1612|vivo Y67|
+|Vivo|PD1731D|PD1731D|vivo Y71A|
 |Vivo|V1|V1|vivo V1|
 |Vivo|V1730EA|PD1730E|V1730EA|
 |Vivo|V1731CA|PD1731C|V1731CA|
@@ -21105,6 +21121,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo 1815|1815|vivo 1815|
 |Vivo|vivo 1816|1816|vivo 1816|
 |Vivo|vivo 1817|1817|vivo 1817|
+|Vivo|vivo 1820|1820|vivo 1820|
 |Vivo|vivo NEX A|PD1806|vivo NEX A|
 |Vivo|vivo NEX S|PD1805|vivo NEX S|
 |Vivo|vivo X20|PD1709|vivo PD1709|
@@ -21360,6 +21377,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|Primo ZX2 Lite|BBL7505WA|Primo ZX2 Lite|
 |Walton|Primo ZX2 mini|Primo_ZX2_mini|Primo ZX2 mini|
 |Walton|Primo ZX3|Primo_ZX3|Primo ZX3|
+|Walton|Primo_EF9|Primo_EF9|Primo EF9|
 |Walton|Primo_RM3|Primo_RM3|Primo RM3|
 |Walton|Primo\xc2\xa0S6\xc2\xa0Dual|Primo_S6_Dual|Primo S6 Dual|
 |Walton|Walton Primo X5|Primo_X5|Walton Primo X5|
@@ -22980,10 +22998,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z-01K|Z-01K|Z-01K|
 |ZTE|Z10|P817E52|ZTE Z10|
 |ZTE|Z353VL|oldman|Z353VL|
+|ZTE|Z5031O|Z5031O|Z5031O|
 |ZTE|Z5151V|Z5151|Z5151V|
 |ZTE|Z557BL|Z557|Z557BL|
 |ZTE|Z557BL|lewis|Z557BL|
 |ZTE|Z557BL|msm8909|Z557BL|
+|ZTE|Z559DL|Z559DL|Z559DL|
 |ZTE|Z6410|Z6410|Z6410S|
 |ZTE|Z660G|nice|Z660G|
 |ZTE|Z665C|seanplus|Z665C|
@@ -23560,6 +23580,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |xTouch|E5|E5|E5|
 |xTouch|X10|X10|X10|
 |xTouch|X9|X9_16GB|X9_16GB|
+|xTouch|XBOT_SENIOR|XBot_Senior|X Bot Senior|
 |xTouch|XBOT_SENIOR|XBot_Senior|XBot_Senior|
 |xTouch|XBot Junior|XBot_Junior|XBot Junior|
 |xTouch|XTOUCH X|XTouch_X|XTouch X|
