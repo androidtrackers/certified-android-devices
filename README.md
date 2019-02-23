@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-02-22
+ Last sync is 2019-02-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1557,6 +1557,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|Azumi_KIREI_A5_D|KIREI_A5_D|Azumi_KIREI_A5_D|
 |Azumi|Azumi_Speed_Pro_55|Speed_Pro_55|Azumi_Speed_Pro_55|
 |Azumi|Azumi_V54_MB|Azumi_V54_MB|V54|
+|Azumi|Azumi_V5c|Azumi_V5C|V5C|
 |Azumi|DOSHI A55 QL|Azumi_DOSHI_A55_QL|Azumi_DOSHI_A55_QL|
 |Azumi|EXTEND 55 QL|EXTEND_55_QL|EXTEND 55 QL|
 |Azumi|IKU A55|Azumi_IKU_A55|Azumi IKU A55|
@@ -2428,6 +2429,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cat|S50|CatS50|S50|
 |Cathay|AS01M|AS01M|AS01M|
 |Cavion|Base_5.0|Cavion_Base_5_0|Cavion_Base_5_0|
+|Cavion|Base_72_GO|Base_72_GO|Base_72_GO|
 |Cavion|M1092Q|M1092Q|M1092Q|
 |Ceibal|A102|A102|A102|
 |Ceibal|Ibirapita|A81F|A81F|
@@ -4033,6 +4035,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Express Gifts Limited|R726|R726|R726|
 |Extrem|Rock_X11|ROCK_X11|ROCK_X11|
 |EyePay|IG-EP100|IG-EP100|IG-EP100|
+|F2 Mobile|C8Finger|C8Finger|C8Finger|
 |F2 Mobile|F2 F80s_plus|F80s_plus|F80s_plus|
 |F2 Mobile|F2_LT5216|LT5216|LT5216|
 |F2 Mobile|LT16|LT16|LT16|
@@ -8373,6 +8376,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Innjoo|3|InnJoo_3|InnJoo_3|
 |Innjoo|Elite Dual|Fire_5_LTE|Fire_5_LTE|
 |Innjoo|F5|F5|F5|
+|Innjoo|F702|F702|F702|
 |Innjoo|Fire 4|Fire_4|Fire 4|
 |Innjoo|Fire 4 Plus|Fire_4_Plus|Fire 4 Plus|
 |Innjoo|Fire 4 Pro|Fire_4_Pro|Fire 4 Pro|
@@ -9170,6 +9174,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|WX10K|WX10K|WX10K|
 |Kyocera|X3|X3-KC_sprout|X3-KC|
 |Kyocera|Zio|SCP-8600|Zio|
+|Kyocera|mamorino 5|KYF40|KYF40|
 |Kyocera|miraie|KYL23|KYL23|
 |Kyocera|miraie f|KYV39|KYV39|
 |Kyocera|rafre|KYV40|KYV40|
@@ -11700,6 +11705,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MachSpeed (Apollo Brands)|Trio Stealth_9 Tablet|D_9AL|Trio Stealth_9|
 |MachSpeed (Apollo Brands)|TrioStealth-7|TrioStealth-7|TrioStealth-7|
 |Mad Catz|M.O.J.O.|mojo|Mad Catz M.O.J.O.|
+|Mafe|M8|M8|M8|
+|Mafe|Z1|Z1|Z1|
 |Majestic|TAB 611 3G|TAB_611_3G|TAB 611 3G|
 |Majestic|TAB_711_4G|TAB_711_4G|TAB 711 4G|
 |Making Life Simple|Brace|iQM801|iQM801|
@@ -13044,6 +13051,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Myphone|myPhone|Hammer_Active2_LTE|Hammer_Active2_LTE|
 |Myphone|myPhone  Q-Smart III Plus|Q-Smart_III_Plus|Q-Smart_III_Plus|
 |Myphone|myPhone FUN7 LTE|myPhone_Fun_7_LTE|myPhone_Fun_7_LTE|
+|Myphone|myPhone Prime 3 Lite|Prime3Lite|Prime3Lite|
 |Myphone|myPhone_Fun_8|myPhone_Fun_8|myPhone_Fun_8|
 |Myphone|myPhone_Pocket_2|myPhone_Pocket_2|Pocket_2|
 |Myphone|myT3 DTV|myT3_DTV|myT3 DTV|
@@ -13054,6 +13062,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Myphone|myX5|myX5|myX5|
 |Myphone|myX8|myX8|myX8|
 |Myphone|myX9|myX9|myX9|
+|Myphone|myXI1|myXI1|myXI1|
 |Myphone|neocore_E1R1|neocore_E1R1|neocore_E1R1|
 |Myria|3G MY8300|3G_MY8300|3G|
 |Myria|Classic MY8301|Classic_MY8301|Classic|
@@ -13634,6 +13643,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A1601|A1601|A1601fw|
 |Oppo|A1601fw|A1601|A1601fw|
 |Oppo|A1603|A1603|A1603|
+|Oppo|A3|CPH1837|CPH1837|
 |Oppo|A3|PADM00|PADM00|
 |Oppo|A3|PADT00|PADT00|
 |Oppo|A31|A31t|A31|
@@ -13692,7 +13702,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A7|PBFT00|PBFT00|
 |Oppo|A73|A73|OPPO A73|
 |Oppo|A73|A79|OPPO A73|
-|Oppo|A73|CPH1837|CPH1837|
 |Oppo|A73t|A73t|OPPO A73t|
 |Oppo|A73t|A79|OPPO A73t|
 |Oppo|A77|A77|OPPO A77|
@@ -16162,7 +16171,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy J3 Pro|j3y17lte|SM-J330G|
 |Samsung|Galaxy J3 Pro \xe5\xa2\x9e\xe5\xbc\xba\xe7\x89\x88|j3xpro6mltechn|SM-J3119S|
 |Samsung|Galaxy J3 Star|j3topltetmo|SM-J337T|
-|Samsung|Galaxy J3 Top|j3toplteaio|SM-J336AZ|
 |Samsung|Galaxy J3 V|j3topeltevzw|SM-J337V|
 |Samsung|Galaxy J3(2016)|j3ltekx|SM-J320N0|
 |Samsung|Galaxy J3(2016)|j3ltetfnvzw|SM-S320VL|
@@ -16718,6 +16726,27 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S Vibrant|SGH-T959D|SGH-T959D|
 |Samsung|Galaxy S duos|kyleichn|GT-S7566|
 |Samsung|Galaxy S \xe8\xbd\xbb\xe5\xa5\xa2\xe7\x89\x88|dreamliteqltechn|SM-G8750|
+|Samsung|Galaxy S10|beyond1|SM-G973F|
+|Samsung|Galaxy S10|beyond1|SM-G973N|
+|Samsung|Galaxy S10|beyond1q|SM-G9730|
+|Samsung|Galaxy S10|beyond1q|SM-G973U|
+|Samsung|Galaxy S10|beyond1q|SM-G973U1|
+|Samsung|Galaxy S10|beyond1q|SM-G973W|
+|Samsung|Galaxy S10+|beyond2|SM-G975F|
+|Samsung|Galaxy S10+|beyond2|SM-G975N|
+|Samsung|Galaxy S10+|beyond2|SM-G975X|
+|Samsung|Galaxy S10+|beyond2|SM-G975XN|
+|Samsung|Galaxy S10+|beyond2q|SM-G9750|
+|Samsung|Galaxy S10+|beyond2q|SM-G975U|
+|Samsung|Galaxy S10+|beyond2q|SM-G975U1|
+|Samsung|Galaxy S10+|beyond2q|SM-G975W|
+|Samsung|Galaxy S10e|beyond0|SM-G970F|
+|Samsung|Galaxy S10e|beyond0|SM-G970N|
+|Samsung|Galaxy S10e|beyond0q|SM-G9700|
+|Samsung|Galaxy S10e|beyond0q|SM-G9708|
+|Samsung|Galaxy S10e|beyond0q|SM-G970U|
+|Samsung|Galaxy S10e|beyond0q|SM-G970U1|
+|Samsung|Galaxy S10e|beyond0q|SM-G970W|
 |Samsung|Galaxy S2|GT-I9100|GT-I9100|
 |Samsung|Galaxy S2|GT-I9100M|GT-I9100M|
 |Samsung|Galaxy S2|GT-I9100P|GT-I9100P|
@@ -17590,6 +17619,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Rugby Smart|SGH-I847|SAMSUNG-SGH-I847|
 |Samsung|SM-G6200|Phoenix|SM-G6200|
 |Samsung|SM-G9198|philippeltechn|SM-G9198|
+|Samsung|SM-J336AZ|j3toplteaio|SM-J336AZ|
 |Samsung|SM-J337A|j3toplteatt|SM-J337A|
 |Samsung|SM-J337AZ|j3toplteaio|SM-J337AZ|
 |Samsung|SM-T230NZ|degasy18wifichn|SM-T230NZ|
@@ -18204,6 +18234,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Tablet S|nbx03|Sony Tablet S|
 |Sony|Xperia  E1 dual|D2114|D2114|
 |Sony|Xperia  M|C1905|C1905|
+|Sony|Xperia 10|I3113|I3113|
+|Sony|Xperia 10|I3123|I3123|
+|Sony|Xperia 10|I4113|I4113|
+|Sony|Xperia 10 Plus|I3213|I3213|
+|Sony|Xperia 10 Plus|I3223|I3223|
+|Sony|Xperia 10 Plus|I4213|I4213|
+|Sony|Xperia 10 Plus|I4293|I4293|
 |Sony|Xperia A|SO-04E|SO-04E|
 |Sony|Xperia A2|SO-04F|SO-04F|
 |Sony|Xperia A4|SO-04G|SO-04G|
@@ -18685,6 +18722,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Spectralink|PIVOT 8741/8753|thor_6dq|8741|
 |Spectralink|PIVOT 8741/8753|thor_6dq|8742|
 |Spectralink|PIVOT 8741/8753|thor_6dq|8753|
+|Spectralink|PIVOT 8742|thor_6dq|8741|
+|Spectralink|PIVOT 8742|thor_6dq|8742|
 |Spectralink|Versity|Versity|Versity 9540|
 |Spectralink|Versity|Versity|Versity 9553|
 |Spectralink|Versity|Versity|Versity 9640|
@@ -20692,6 +20731,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VIBE Z|K910|kitonw|Lenovo K910|
 |VSN|V.35|up11_h1_vsn|V.35|
 |VT|MB300|MB300|SmartTV|
+|Vankyo|Z1|Z1|Z1|
 |Vava|V1|V1|V1|
 |Vava|V1 Plus|V1_Plus|V1 Plus|
 |Vava|V2|V2|V2|
@@ -21513,6 +21553,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|Tommy3|W_C201|Tommy3|
 |Wiko|Tommy3|W_K600|W_K600|
 |Wiko|Tommy3 Plus|W-V600|W-V600|
+|Wiko|Tone E19|TONE_e19|TONE e19|
 |Wiko|U FEEL|P6601AE|U FEEL|
 |Wiko|U FEEL|P6609BC|U FEEL|
 |Wiko|U FEEL|P6609BCD|U FEEL|
