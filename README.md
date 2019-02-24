@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-02-23
+ Last sync is 2019-02-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -18237,6 +18237,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 10|I3113|I3113|
 |Sony|Xperia 10|I3123|I3123|
 |Sony|Xperia 10|I4113|I4113|
+|Sony|Xperia 10|I4193|I4193|
 |Sony|Xperia 10 Plus|I3213|I3213|
 |Sony|Xperia 10 Plus|I3223|I3223|
 |Sony|Xperia 10 Plus|I4213|I4213|
