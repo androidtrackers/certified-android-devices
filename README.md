@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-03-01
+ Last sync is 2019-03-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10496,6 +10496,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|X charge|mlv7|LG-SP320|
 |LGE|X4|cv3n|LM-X410K|
 |LGE|X4|cv3n|LM-X415K|
+|LGE|X4(2019)|mmh4|LM-X420N|
 |LGE|X4+|cv3n|LM-X410L|
 |LGE|X4+|cv3n|LM-X410S|
 |LGE|X4+|cv3n|LM-X415L|
@@ -11484,10 +11485,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lephone|lephone P5|lephone_P5|lephone P5|
 |Lephone|lephone P5|lephone_P5B|lephone P5|
 |Lephone|lephone W10|lephone_W10|lephone_W10|
+|Lephone|lephone W11|lephone_W11|lephone_W11|
 |Lephone|lephone W15|lephone_W15|lephone_W15|
+|Lephone|lephone W15|lephone_W15a|lephone_W15|
 |Lephone|lephone W21|lephone_W21|lephone_W21|
 |Lephone|lephone W7|lephone_W7|lephone_W7|
 |Lephone|lephone W7|lephone_W7s|lephone_W7|
+|Lephone|lephone W7R|lephone_W7R|lephone_W7R|
 |Lexia Mobile|S1|S1|S1|
 |Lexia Mobile|S2|S2|S2|
 |Lexia Mobile|S3|S3|S3|
