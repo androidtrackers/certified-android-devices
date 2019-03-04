@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-03-03
+ Last sync is 2019-03-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2079,6 +2079,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|C5|C014|C5|
 |Blu|C5 LTE|C0010UU|C5 LTE|
 |Blu|C5L|C0040|C5L|
+|Blu|C5L|C0050|C5L|
 |Blu|C5X|C0000UU|C5X|
 |Blu|C5X|C0010LL|C5X|
 |Blu|C6|C031P|C6|
@@ -8947,6 +8948,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KOOOK|C600|GBC_bravo|C600|
 |KRIP|K5|K5|K5|
 |KRIP|K6|K6|K6|
+|KRIP|K65|K65|K65|
 |KRIP|KRIP_K4|KRIP_K4|KRIP_K4|
 |KRIP|KRIP_K55|KRIP_K55|KRIP_K55|
 |KT Tech||s120|KM-S120|
@@ -11220,6 +11222,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M10|X705L|Lenovo TB-X705L|
 |Lenovo|Lenovo Tab V7|PB-6505M|Lenovo PB-6505M|
 |Lenovo|Lenovo Tab V7|PB-6505NC|Lenovo PB-6505NC|
+|Lenovo|Lenovo Tab p10|X705L|Lenovo TB-X705L|
 |Lenovo|Lenovo Tab4 10 Plus|X704A|TB-X704A|
 |Lenovo|Lenovo X2-CU/VIBE X2|X2-CU|Lenovo X2-CU|
 |Lenovo|Lenovo YOGA A12|YOGA-A12|Lenovo YB-Q501L|
@@ -11831,6 +11834,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mantra|MFSTAB_74G|MFSTAB_74G|MFSTAB_74G|
 |Mantra|mTerminal100|Start|Start|
 |Marshall|London|KB-1501|London|
+|Mascom|Mascom_L850|Mascom_L850|Mascom_L850|
+|Mascom|Mascom_S750|Mascom_S750|Mascom S750|
 |Masstel|Juno_Q6|Masstel_Juno_Q6|Juno Q6|
 |Masstel|LT52|Masstel_LT52|Masstel LT52|
 |Masstel|Masstel Juno Q5|Masstel_Juno_Q5|Masstel_Juno_Q5|
@@ -15522,6 +15527,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SFR|Star Trail 6|STARTRAIL6|STARTRAIL6|
 |SFR|Star Trail III|mobiwire_startrail3|StarTrail III|
 |SGINO|SGINO6|SGINO6|SGINO6|
+|SHIFT|SHIFT6m|SHIFT6m|SHIFT6m|
 |SK Broadband|B tv smart|BHX-S100|BHX-S100|
 |SK Broadband|B tv smart|BKO-S200|BKO-S200|
 |SK Broadband|BKO-AT800|BKO-AT800|BKO-AT800|
@@ -16444,6 +16450,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M20|m20lte|SM-M205F|
 |Samsung|Galaxy M20|m20lte|SM-M205FN|
 |Samsung|Galaxy M20|m20lte|SM-M205G|
+|Samsung|Galaxy M30|m30lte|SM-M305F|
 |Samsung|Galaxy Mega 2|mega23g|SM-G750H|
 |Samsung|Galaxy Mega 5.8|crater|GT-I9152|
 |Samsung|Galaxy Mega 5.8|crater3gctc|SCH-P709|
@@ -18136,7 +18143,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Shenzhen Jiuzhou|DTP9503|DTP9503|DTP9503|
 |Shenzhen Jiuzhou|DTP9710|DTP9710|DTP9710|
 |Shenzhen SEI Robotics|ADT-2|adt2|ADT-2|
-|Shift|SHIFT6m|SHIFT6m|SHIFT6m|
 |Shuttle|PNT-7045|PNT-7045|PNT-7045|
 |SiAL|Bic camera|Si01BB|Si01BB|
 |SiAL|Si01BE|Si01BE|Si01BE|
@@ -23282,6 +23288,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE A530|P639T10|ZTE A530|
 |ZTE|ZTE A606|P639S10|ZTE A606|
 |ZTE|ZTE AVID 4|calbee|Z855|
+|ZTE|ZTE AVID 559|Z559DL|Z559DL|
 |ZTE|ZTE BLADE A0605|P809F15|ZTE BLADE A0605|
 |ZTE|ZTE BLADE A0605|P809F15|ZTE BLADE A6 MAX|
 |ZTE|ZTE BLADE A0620|P840F12|ZTE BLADE A0620|
@@ -23764,6 +23771,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |teXet|Texet TM-5581|tm5581|TM-5581|
 |techBITE|Flix  TV  Box|DV8219|Flix TV Box|
 |tecmobile|OmnisOne|OmnisOne|Omnis One|
+|truevisions|N9106H-B|HB_N9106H_B_truevisions|N9106H-B|
+|truevisions|N9106H-C|HB_N9106H_C_truevisions|N9106H-C|
 |ucall|EASY1|EASY1|EASY1|
 |unitel|P45|P45|P45|
 |unitel|U901|U901|U901|
