@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-03-04
+ Last sync is 2019-03-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4175,6 +4175,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fluo|N|S574020S|N|
 |Fluo|S554020|S554020|S554020|
 |Fluo|S574010S|S574010S|S574010S|
+|Fluo|T100020_EEA|T100020_EEA|T100020_EEA|
 |Fluo|X2 Max|S624010S|X2 Max|
 |Fluo|X2_Max|X2_Max|X2 Max|
 |Fly|5_S|5_S|5S|
@@ -7265,6 +7266,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|Honor 8 Smart|HWVNS-H|VEN-L22|
 |Huawei|Honor 8A|HWJAT-M|JAT-L29|
 |Huawei|Honor 8A|HWJAT-M|JAT-LX3|
+|Huawei|Honor 8x|HWJSN-H|JSN-L42|
 |Huawei|Honor 9|HWSTF|STF-AL00|
 |Huawei|Honor 9|HWSTF|STF-AL10|
 |Huawei|Honor 9|HWSTF|STF-L09|
@@ -10659,6 +10661,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|IRIS88|iris88|iris88|
 |Lava|IRIS88S|iris88s|iris88s|
 |Lava|Iris 505|iris505|iris505|
+|Lava|Iris 50_Pro|iris_50_Pro|iris 50 Pro|
 |Lava|Iris820|iris820|iris820|
 |Lava|Iris90|iris90|iris90|
 |Lava|LE9810|LE9810|LAVA LE9810|
@@ -12915,6 +12918,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto e(5) plus|rhannah|moto e5 plus|
 |Motorola|moto e5|nora|moto e5 (XT1920DL)|
 |Motorola|moto e5|nora_8917_n|moto e5|
+|Motorola|moto e5 go|rjames_go|moto e5 go|
 |Motorola|moto e5 play|james|moto e5 play|
 |Motorola|moto e5 play|pettyl|Moto E|
 |Motorola|moto e5 play|pettyl|moto e5 play|
@@ -13727,6 +13731,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Onkyo|DP-CTX1|DP-CTX1|DP-CTX1|
 |Onkyo|DP-X1|Rai_Zin_32|DP-X1|
 |Onkyo|DP-X1A|Rai_Zin2R_64|DP-X1A|
+|Onn (Walmart)|ONA19TB002|ONA19TB002|ONA19TB002|
 |Ooredoo|Ooredoo TV|diw387oor|DIW387_UHD_OOR|
 |Ooredoo|Smart10_Pro|Smart10_Pro|Smart10_Pro|
 |OpelMobile|EasySmart|EasySmart|EasySmart|
@@ -20538,6 +20543,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telenor|V51|V51|Infinity_i4|
 |Telkom|TVB-100|DV8219|TVB-100|
 |Telkom|Telkom|DV8219|TVB-100|
+|Telkom Indonesia|Indonesia|DV8219|AX117 ATV|
 |TellyTablet|VM_MD_001|VM_MD_001|VM_MD_001|
 |Telma|F1+4G|TELMA_F1_4G|TELMA F1+4G|
 |Telma|F1x4G|F1x4G|F1x4G|
@@ -21883,6 +21889,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|MI 8 UD|equuleus|MI 8 UD|
 |Xiaomi|MI 8 UD|equuleus|equuleus|
 |Xiaomi|MI 9|cepheus|MI 9|
+|Xiaomi|MI 9 SE|grus|MI 9 SE|
 |Xiaomi|MI MAX|helium|MI MAX|
 |Xiaomi|MI MAX|hydrogen|MI MAX|
 |Xiaomi|MI MAX 2|oxygen|MI MAX 2|
