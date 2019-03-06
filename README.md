@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-03-05
+ Last sync is 2019-03-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3209,6 +3209,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|G253|G253|G253|
 |DEXP|G255|G255|G255|
 |DEXP|G355|G355|G355|
+|DEXP|G550|G550|G550|
 |DEXP|GL255|GL255|GL255|
 |DEXP|GL355|GL355|GL355|
 |DEXP|GS150|GS150|GS150|
@@ -3765,6 +3766,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EKO|Star 5.0 G50|Star_5_0_G50|Star 5.0 G50|
 |EKO|Star 5.5 G55|Star_5_5_G55|Star 5.5 G55|
 |EKO|Star 6.0 G65|Star_6_0_G65|Star 6.0 G65|
+|ELO Touch|Elo-i3-15Std|Elo-i3-15Std|Elo-i3-15Std|
+|ELO Touch|Elo-i3-PUCK|Elo-i3-PUCK|Elo-i3-PUCK|
+|ELO Touch|I-Series 3.0 for Android|Elo-i3-10Std|Elo-i3-10Std|
+|ELO Touch|I-Series 3.0 for Android|Elo-i3-22Std|Elo-i3-22Std|
+|ELO Touch|PayPoint\xc2\xae Plus for Android|Elo-PP3-15|Elo-PP3-15|
+|ELO Touch|PayPoint\xc2\xae for Android|Elo-PP3-13|Elo-PP3-13|
 |ENIE|E4Pro|E4Pro|E4Pro|
 |ENIE|E6|E6|E6|
 |ENIE|EH3|EH3|EH3|
@@ -13435,6 +13442,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Neffos|Neffos C7|C7|Neffos C7|
 |Neffos|Neffos C7|C7|Neffos_C7|
 |Neffos|Neffos C7|Y7|Neffos_Y7|
+|Neffos|Neffos C7 Lite|C7_Lite|Neffos C7 Lite|
 |Neffos|Neffos C9|C9|Neffos_C9|
 |Neffos|Neffos C9A|C9A|Neffos_C9A|
 |Neffos|Neffos N1|N1|Neffos N1|
@@ -14064,7 +14072,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Orange|Dive_70|Dive_70|SCL-L01|
 |Orange|Five|OrangeFive|OrangeFive|
 |Orange|Luno|Luno|Luno|
-|Orange|Mahpee|Mahpee|Mahpee|
 |Orange|MouveTab7WIFI|MouveTab7WIFI|MouveTab7WIFI|
 |Orange|NOS Roya|Alto45|NOS Roya|
 |Orange|Neva 80|Orange_Neva_80|Orange Neva 80|
@@ -14923,6 +14930,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|Grace|PSP7557|PSP7557|
 |Prestigio|Grace 3118 3G|JU80A2G|PMT3118_3G|
 |Prestigio|Grace 3738 3G|CD80A1G|PMT3738_3G|
+|Prestigio|Grace 3748 3G|CD80A1G|PMT3748_3G|
 |Prestigio|Grace 3758 3G|CD80A1G|PMT3758_3G|
 |Prestigio|Grace 3768 3G|CD80A1G|PMT3768_3G|
 |Prestigio|Grace 3778 3G|CD80A1G|PMT3778_3G|
@@ -15083,6 +15091,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|PSP5512DUO|TE50B3G|PSP5512DUO|
 |Prestigio|PSP5514DUO|EB50B2G|PSP5514DUO|
 |Prestigio|PSP5516DUO|DW50A03G|PSP5516DUO|
+|Prestigio|PSP5518DUO|IN50B2L|PSP5518DUO|
 |Prestigio|PSP5519DUO|TE50B4L|PSP5519DUO|
 |Prestigio|PSP5520DUO|TE52B10G|PSP5520DUO|
 |Prestigio|PSP5521DUO|TE52B10G|PSP5521DUO|
@@ -15437,6 +15446,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reeder|A8i Q2|A8i-Q2|A8i-Q2|
 |Reeder|M7 Plus|reeder_M7Plus|M7Plus|
 |Reeder|M8S|reeder_M8S|reeder_M8S|
+|Reeder|M8_Go|M8_Go|M8_Go|
 |Reeder|P10|P10|P10|
 |Reeder|P10S|P10S|P10S|
 |Reeder|P10SE|P10SE|P10SE|
@@ -15568,6 +15578,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Mobile|GRAVITY3G|GRAVITY3G|GRAVITY 3G|
 |SPC Mobile|GRAVITY4G|GRAVITY4G|GRAVITY 4G|
 |SPC Mobile|GRAVITY_ PRO|GRAVITY_PRO|GRAVITY PRO|
+|SPC Mobile|Gravity_2019|GRAVITY_2019|GRAVITY_2019|
 |SPC Mobile|Gravity_Max|Gravity_Max|Gravity Max|
 |SPC Mobile|L50|SPC_L50|L50|
 |SPC Mobile|L50E|L50E|SPC L50E|
@@ -15736,6 +15747,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy 070|hendrix|YP-GI2|
 |Samsung|Galaxy A|archer|SHW-M100S|
 |Samsung|Galaxy A|archer|archer|
+|Samsung|Galaxy A10|a10|SM-A105F|
 |Samsung|Galaxy A3|a33g|SM-A300H|
 |Samsung|Galaxy A3|a3lte|SM-A300F|
 |Samsung|Galaxy A3|a3lte|SM-A300M|
@@ -16870,8 +16882,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S10|beyond1q|SM-G973W|
 |Samsung|Galaxy S10+|beyond2|SM-G975F|
 |Samsung|Galaxy S10+|beyond2|SM-G975N|
-|Samsung|Galaxy S10+|beyond2|SM-G975X|
-|Samsung|Galaxy S10+|beyond2|SM-G975XN|
 |Samsung|Galaxy S10+|beyond2q|SM-G9750|
 |Samsung|Galaxy S10+|beyond2q|SM-G975U|
 |Samsung|Galaxy S10+|beyond2q|SM-G975U1|
@@ -22821,10 +22831,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|NX569J|NX569J|NX569J|
 |ZTE|NX573J|NX573J|NX573J|
 |ZTE|NX575J|NX575J|NX575J|
+|ZTE|NX589J|NX589J|NX589J|
 |ZTE|NX591J|NX591J|NX591J|
+|ZTE|NX595J|NX595J|NX595J|
 |ZTE|NX597J|NX597J|NX597J|
 |ZTE|NX601J|NX601J|NX601J|
+|ZTE|NX606J|NX606J|NX606J|
+|ZTE|NX609J|NX609J|NX609J|
 |ZTE|NX612J|NX612J|NX612J|
+|ZTE|NX619J|NX619J|NX619J|
+|ZTE|NX619J|NX619J-EEA|NX619J|
 |ZTE|NX907J|NX907J|NX907J|
 |ZTE|OWN FUN 5(4G)|VFD511|OWN FUN 5(4G)|
 |ZTE|OWN FUN 5(4G)|VFD511|ZTE BLADE A321|
