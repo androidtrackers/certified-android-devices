@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-03-07
+ Last sync is 2019-03-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1697,6 +1697,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|Bella|Bella|Bella|
 |BMobile|Bmobile AX1082|Bmobile_AX1082|AX1082|
 |BMobile|Bmobile AX683|Bmobile_AX683|AX683|
+|BMobile|Bmobile AX753|Bmobile_AX753|Bmobile AX753|
 |BMobile|Bmobile AX960|Bmobile_AX960_MV03|AX960|
 |BMobile|Bmoblie AX683|Bmobile_AX683_MV04|AX683|
 |BMobile|FUN 4|Bmobile_FUN_4_2018|FUN 4 2018|
@@ -2066,6 +2067,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Advance_5_2|A230Q|Advance 5.2|
 |Blu|Advance_A7|A210|Advance A7|
 |Blu|Advance\xc2\xa0A5\xc2\xa0Plus\xc2\xa0LTE|A0031WW|Advance A5 Plus LTE|
+|Blu|BLU Dash XL|Dash_XL|Dash XL|
 |Blu|BLU Grand M3|G0070WW|Grand M3|
 |Blu|BLU S1|S0320WW|BLU_S1|
 |Blu|BLU STUDIO J8 LTE|Studio_J8_LTE|Studio J8 LTE|
@@ -2710,6 +2712,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Clickonica Exclusive|itabx|itabx|itabx|
 |Clicktabds|F19|F19|F19|
 |ClipSonic|DVI37BT|DVI37BT|DV137BT|
+|Cloud (TruConnect)|Cirrus_C2|Cirrus_C2|Cirrus_C2|
 |CloudFone|CloudFone Excite Prime 2|Excite_Prime_2|Excite Prime 2|
 |CloudFone|CloudFone Next Infinity Plus|Next_Infinity_Plus|Next Infinity Plus|
 |CloudFone|CloudFone Next Infinity Pro|Next_Infinity_Pro|Next Infinity Pro|
@@ -3257,6 +3260,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|Z355|Z355|Z355|
 |DEXP|Z455|Z455|Z455|
 |DEXP|lxion MS255|MS255|Ixion MS255|
+|DEYI|DEYI-10M18|DEYI-10M18|DEYI-10M18|
 |DIFRNCE|DIT702201|DIT702201|NID_7010|
 |DL|3406|G02DL|Tablet DL 3406|
 |DL|3420|Tablet_DL_3420|Tablet DL 3420|
@@ -3832,6 +3836,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Eks Mobility|X4U+|X4UPlus|X4UPlus|
 |Elecost|QuadTab E10.1|QuadTab_E101|QuadTab E10.1|
 |Electroland Ghana|NASCO_Allure|NASCO_Allure|NASCO_Allure|
+|Electroneum|electroneumM1|electroneumM1|electroneumM1|
 |Element|USA & CANADA|Tiger838|TU43GDX|
 |Elephone|A2|A2|A2|
 |Elephone|A4|A4|A4|
@@ -4974,6 +4979,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Guophone|X3|X3|X3|
 |Guophone|XP9800|Guophone_XP9800|XP9800|
 |HDC S.A.|T700B|T700B|T700B|
+|HDD SAT|Tab_i_excess|Tab_i_excess|Tab_i_excess|
 |HKC|A79 Tablet|EM62|A79|
 |HKT|eye3|UY3-PCW|eye3|
 |HOMTOM|C13|C13|C13|
@@ -12483,6 +12489,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MobiiStar|ZUMBO Power|ZUMBO_Power|mobiistar ZUMBO Power|
 |MobiiStar|ZUMBO S2|mobiistar_Zumbo_S2|mobiistar Zumbo S2|
 |MobiiStar|ZUMBO_S2_Dual|ZUMBO_S2_Dual|mobiistar ZUMBO S2 Dual|
+|MobiiStar|Zumbo_S_2017|Zumbo_S_2017|Zumbo S 2017|
 |MobiiStar|mobiistar|CQ|CQ|
 |MobiiStar|mobiistar C1|mobiistar_C1|mobiistar C1|
 |MobiiStar|mobiistar C1 Shine|mobiistar_C1_Shine|mobiistar C1 Shine|
@@ -13529,6 +13536,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Noblex|T7A6N|Tablet|T7A6N|
 |Nokia|N1|Nokia_N1|N1|
 |Nokia|Nokia 1|FRT|Nokia 1|
+|Nokia|Nokia 1 Plus|ANT|Nokia 1 Plus|
 |Nokia|Nokia 2|E1M|Nokia 2|
 |Nokia|Nokia 2 V|EVW|Nokia 2 V|
 |Nokia|Nokia 2.1|E2M|Nokia 2.1|
@@ -13570,6 +13578,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia 8 Sirocco|A1N_sprout|Nokia 8 Sirocco|
 |Nokia|Nokia 8.1|PNXN|Nokia 8.1|
 |Nokia|Nokia 8.1|PNX_sprout|Nokia 8.1|
+|Nokia|Nokia 9|AOP|Nokia 9|
+|Nokia|Nokia 9|AOP_sprout|Nokia 9|
 |Nokia|Nokia X5|PDA|Nokia X5|
 |Nokia|Nokia X6|DRG|Nokia X6|
 |Nokia|Nokia X7|PNX|Nokia X7|
@@ -15375,6 +15385,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|Mercury 7|CT9973W43M|CT9973W43M|
 |RCA|Pro10 Edition II|RCT6203W46L|RCT6203W46L|
 |RCA|Pro12|RCT6223W87|RCT6223W87|
+|RCA|Q2|Q2|Q2|
 |RCA|RC7T3G19|RC7T3G19|RC7T3G19|
 |RCA|RCA DRP2091|DRP2091|DRP2091|
 |RCA|RCA RCT6213W22|RCT6213W22|RCT6213W22|
@@ -15578,8 +15589,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Mobile|GRAVITY3G|GRAVITY3G|GRAVITY 3G|
 |SPC Mobile|GRAVITY4G|GRAVITY4G|GRAVITY 4G|
 |SPC Mobile|GRAVITY_ PRO|GRAVITY_PRO|GRAVITY PRO|
-|SPC Mobile|Gravity_2019|GRAVITY_2019|GRAVITY_2019|
-|SPC Mobile|Gravity_Max|Gravity_Max|Gravity Max|
 |SPC Mobile|L50|SPC_L50|L50|
 |SPC Mobile|L50E|L50E|SPC L50E|
 |SPC Mobile|L51 BLITZ|L51|L51|
@@ -15597,12 +15606,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Mobile|L60 Pro|L60_Pro|L60 Pro|
 |SPC Mobile|L60 Turbo|L60_Turbo|L60 Turbo|
 |SPC Mobile|LAIKA|LAIKA|LAIKA|
-|SPC Mobile|Lightyear|Lightyear|Lightyear|
 |SPC Mobile|S19|S19|S19|
 |SPC Mobile|X1|SPC_X1|X1|
 |SPC Mobile|X3|SPC_X3|X3|
 |SPC Mobile|heaven_10_1|heaven-10_1|HEAVEN 10.1|
+|SPC Universe|GRAVITY|GRAVITY|GRAVITY|
+|SPC Universe|Gravity_2019|GRAVITY_2019|GRAVITY_2019|
+|SPC Universe|Gravity_Max|Gravity_Max|Gravity Max|
 |SPC Universe|Laika|Laika|Laika|
+|SPC Universe|Lightyear|Lightyear|Lightyear|
 |SSB PHONES|SSB504|SSB504|SSB504|
 |SSB PHONES|SSB554R|SSB554R|SSB554R|
 |STF Mobile|AERIAL|STFAERIAL|AERIAL|
@@ -15772,6 +15784,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A3(2017)|a3y17lte|SM-A320F|
 |Samsung|Galaxy A3(2017)|a3y17lte|SM-A320FL|
 |Samsung|Galaxy A3(2017)|a3y17lte|SM-A320X|
+|Samsung|Galaxy A30|a30|SM-A305F|
 |Samsung|Galaxy A5|a53g|SM-A500H|
 |Samsung|Galaxy A5|a5lte|SM-A500F|
 |Samsung|Galaxy A5|a5lte|SM-A500G|
@@ -15808,6 +15821,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A5(2017)|a5y17ltektt|SM-A520K|
 |Samsung|Galaxy A5(2017)|a5y17ltelgt|SM-A520L|
 |Samsung|Galaxy A5(2017)|a5y17lteskt|SM-A520S|
+|Samsung|Galaxy A50|a50|SM-A505F|
 |Samsung|Galaxy A6|a6elteaio|SM-A600AZ|
 |Samsung|Galaxy A6|a6elteatt|SM-A600A|
 |Samsung|Galaxy A6|a6eltemtr|SM-A600T1|
@@ -18437,6 +18451,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia L2|H3321|H3321|
 |Sony|Xperia L2|H4311|H4311|
 |Sony|Xperia L2|H4331|H4331|
+|Sony|Xperia L3|I3312|I3312|
+|Sony|Xperia L3|I4312|I4312|
+|Sony|Xperia L3|I4332|I4332|
 |Sony|Xperia M|C1904|C1904|
 |Sony|Xperia M|C1905|C1905|
 |Sony|Xperia M Dual|C2005|C2005|
@@ -20790,6 +20807,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |USA111|iRULU V3|iRULU_V3|iRULU_V3|
 |USA111|iRULU V3|iRULU_V3i|iRULU_V3|
 |USA111|iRULU_V4|iRULU|V4|
+|USP (The University of the South Pacific)|USP- 201901|USP-201901|USP-201901|
 |Ubiquiti|USS|grizzlies_telefi4wm|USS|
 |Ubiquiti|UVP|capri_ubq_telefi5|UVP|
 |Ubiquiti|UVP Executive|capri_ubq_telefi7|UVP Executive|
@@ -21058,6 +21076,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Verykool|verykool s6005x|verykools6005X|verykools6005X|
 |Verykool|verykoolS5019|verykoolS5019|verykoolS5019|
 |Verykool|verykoolS5019|verykoolS5019|verykools5019|
+|Verykool|verykoolSL5029|verykoolSL5029|verykoolSL5029|
 |Verykool|verykoolSL5565|verykoolSL5565|verykoolSL5565|
 |Verykool|verykools5205|verykools5205|verykools5205|
 |Verykool|verykools5528Jr|verykools5528Jr|verykools5528Jr|
