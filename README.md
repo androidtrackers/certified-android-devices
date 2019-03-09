@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-03-08
+ Last sync is 2019-03-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9031,6 +9031,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Karbonn|Titanium Jumbo|Titanium_Jumbo|Titanium Jumbo|
 |Karbonn|Titanium Jumbo 2|Titanium_Jumbo_2|Titanium Jumbo 2|
 |Karbonn|Titanium Vista 4G|TitaniumVista4G|Titanium Vista 4G|
+|Keian|KI-R10|KI-R10|KI-R10|
+|Keian|KI-R7|KI-R7|KI-R7|
 |Kempler Strauss|Alumini 3 Plus|Alumini_3_Plus|Alumini_3_Plus|
 |Kempler Strauss|KEMPLER 8|KEMPLER_8|KEMPLER_8|
 |Kempler Strauss|KEMPLER_X|KEMPLER_X|KEMPLER_X|
