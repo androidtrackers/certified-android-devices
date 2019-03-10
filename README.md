@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-03-09
+ Last sync is 2019-03-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
