@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-03-10
+ Last sync is 2019-03-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1654,6 +1654,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|AX1073+|Bmobile_AX1073Plus|AX1073+|
 |BMobile|AX1074|Bmobile_AX1074|AX1074|
 |BMobile|AX1075|Bmobile_AX1075|AX1075|
+|BMobile|AX1077|Bmobile_AX1077|AX1077|
 |BMobile|AX1085|Bmobile_AX1085|AX1085|
 |BMobile|AX1091|Bmobile_AX1091|AX1091|
 |BMobile|AX1091|Bmobile_AX1091|Bmobile_AX1091|
@@ -3409,6 +3410,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DigiLand|CompumaxBlue|mid1024_e|Compumax_Blue_6030-805-0001|
 |DigiLand|DL1001|DL1001|DL1001|
 |DigiLand|DL1002|DL1002|DL1002|
+|DigiLand|DL1003|DL9003|DL9003|
 |DigiLand|DL1008M|mid1008l_emmc|DL1008M|
 |DigiLand|DL1010Q|DL1010Q|DL1010Q|
 |DigiLand|DL1016|mid1016|DL1016|
@@ -8004,6 +8006,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|\xe8\x8d\xa3\xe8\x80\x80Waterplay 8\xe8\x8b\xb1\xe5\xaf\xb8|HWHDL|HDL-W09|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe5\xb9\xb3\xe6\x9d\xbf5|HWAGS2|AGS2-AL00HN|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe5\xb9\xb3\xe6\x9d\xbf5|HWAGS2|AGS2-W09HN|
+|Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe5\xb9\xb3\xe6\x9d\xbf5|HWJDN2|JDN2-AL00HN|
+|Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe5\xb9\xb3\xe6\x9d\xbf5|HWJDN2|JDN2-W09HN|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe4\xba\xab7 Plus|HWTRT-Q|TRT-AL00|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe4\xba\xab7 Plus|HWTRT-Q|TRT-AL00A|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe4\xba\xab7 Plus|HWTRT-Q|TRT-TL10|
@@ -8328,6 +8332,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Smart 2 HD|Infinix-X609|Infinix X609|
 |Infinix|Smart 2 HD|Infinix-X609B|Infinix X609B|
 |Infinix|Smart 2 Pro|Infinix-X5514|Infinix X5514D|
+|Infinix|Smart 3|Infinix-X5516|Infinix X5516|
+|Infinix|Smart 3|Infinix-X5516B|Infinix X5516B|
 |Infinix|X405|up09_infinix_x405_gms|Infinix X405|
 |Infinix|X505|X505|Infinix X505|
 |Infinix|X521|Infinix-X521|Infinix HOT S|
