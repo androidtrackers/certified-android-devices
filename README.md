@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-03-11
+ Last sync is 2019-03-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3830,6 +3830,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Edcon|Platiunm vp.2|VerssedVP2|Verssed VP2|
 |Edcon|VERSSED platinum vp.2.1|VERSSEDvp2-1|VERSSED vp2.1|
 |Edcon|Verssed Platinum VP3.0|VERSSED_Vp3|VERSSED vp3|
+|Edong|LOL-775|LOL_775|LOL-775|
 |Eigou|M5501_B|M5501_B|M5501_B|
 |Ekotek|Sonata|Sonata|Sonata|
 |Eks Mobility|S45U|S45U|EKS S45U|
@@ -7784,6 +7785,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|Y6|hwSCLU-Q|HUAWEI SCL-U31|
 |Huawei|Y6|hwSCLU-Q|SCL-U23|
 |Huawei|Y6 2017|HWMYA-L6737|MYA-L41|
+|Huawei|Y6 2019|HWMRD-M1|MRD-LX3|
 |Huawei|Y6 Elite|HWLYO-L6735|HUAWEI LYO-L02|
 |Huawei|Y6 Prime 2019|HWMRD-M1|MRD-LX1F|
 |Huawei|Y6 Pro|HWTIT-AL00|HUAWEI TIT-AL00|
@@ -10543,6 +10545,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LINNEX|LI22|LI22|LI22|
 |LINSAY|F-7HD2CORE / F-7HD4CORE / F-10HD2CORE /F-10XHD4CORE|F-7HD2CORE|LINSAY F-7HD2CORE/F-7HD4CORE/F-10HD2CORE/F-10XHD4CORE|
 |LOOQS|L108MR|L108MR|L108MR|
+|LT Electronics|K100|K100|K100|
 |LT Electronics|LT_C1500|LT_C1500|LT_C1500|
 |LT Electronics|LT_C2100|LT_C2100|LT_C2100|
 |LT Electronics|LT_C2200|LT_C2200|LT C2200|
@@ -13758,6 +13761,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Onkyo|DP-X1|Rai_Zin_32|DP-X1|
 |Onkyo|DP-X1A|Rai_Zin2R_64|DP-X1A|
 |Onn (Walmart)|ONA19TB002|ONA19TB002|ONA19TB002|
+|Onn (Walmart)|ONA19TB003|ONA19TB003|ONA19TB003|
 |Ooredoo|Ooredoo TV|diw387oor|DIW387_UHD_OOR|
 |Ooredoo|Smart10_Pro|Smart10_Pro|Smart10_Pro|
 |OpelMobile|EasySmart|EasySmart|EasySmart|
@@ -18312,6 +18316,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smart|Notrino|Notrino|Notrino|
 |Smart|Slide Lite|Slide_Lite|Slide Lite|
 |Smart|Smart PRIME II|Smart_PRIME_II|Smart PRIME II|
+|Smart (BD)|SQ811G|SQ811G|SQ811G|
 |SmartPad|SM181301|SM181301|SM181301|
 |SmartPad|Smartpad V7|Smartpad-V7|Smartpad-V7|
 |SmartPad|Smartpad-V10|Smartpad-V10|Smartpad-V10|
@@ -19749,6 +19754,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1C|U5A_PLUS_3G|5009D_RU|
 |TCT (Alcatel)|Alcatel 1C|U5A_PLUS_3G|5009U|
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024A|
+|TCT (Alcatel)|Alcatel 1S|Faraday|5024D_EEA|
 |TCT (Alcatel)|Alcatel 1X|U5A_PLUS_4G|5059A|
 |TCT (Alcatel)|Alcatel 1X|U5A_PLUS_4G|5059D|
 |TCT (Alcatel)|Alcatel 1X|U5A_PLUS_4G|5059D_RU|
@@ -20273,6 +20279,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TIM|TIM BOX|uzw4010tim|TIM_BOX|
 |TIM|TIMvision|dwt765ti|skipper|
 |TJC|Metal Tablet|Metal_Tablet_10|Metal_Tablet_10|
+|TM Cell|X40L|X40L|X40L|
+|TM Cell|X50A|X50A|X50A|
 |TMAX|TM9S775|MID908A-K|TM9S775|
 |TOUCHSMART|QUICKTAB|Quicktab|Quicktab|
 |TPS|MTC 982o|MTC_982O|MTC_982O|
@@ -20909,6 +20917,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Urovo|i9000S|i9000S|i9000S|
 |Usha Shriram|RA_1_GENIUS_STAR|RA_1_GENIUS_STAR|RA_1_GENIUS_STAR|
 |Utopia|UH0342  UHTABLET10.1INCH|UH0342|UH0342|
+|V2COM|T2|ROCKY_T2|ROCKY T2|
 |V7|Zyro|zyro|V7 Zyro|
 |VAIO|VA-10J|VA-10J|JCI VA-10J|
 |VAIO|VPA051|VPA051|VPA051|
@@ -21255,6 +21264,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V1816A|PD1816|V1816A|
 |Vivo|V1818A|PD1818|V1818A|
 |Vivo|V1821BA|PD1821|V1821A|
+|Vivo|V1824A|PD1824|V1824A|
 |Vivo|V1Max|Y37|vivo Y37|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
