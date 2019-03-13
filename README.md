@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-03-12
+ Last sync is 2019-03-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14248,6 +14248,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|ELUGA I4|ELUGA_I4|ELUGA I4|
 |Panasonic|ELUGA I5|ELUGA_I5|ELUGA_I5|
 |Panasonic|ELUGA I7|ELUGA_I7|ELUGA I7|
+|Panasonic|ELUGA I7 EE|ELUGA_I7_EE|ELUGA_I7_EE|
 |Panasonic|ELUGA I9|ELUGA_I9|Eluga I9|
 |Panasonic|ELUGA L 4G|ELUGA_L_4G|Panasonic ELUGA L 4G|
 |Panasonic|ELUGA P|P-03E|P-03E|
@@ -14960,6 +14961,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|Grace 3848 4G|CD80A3L|PMT3848_4G|
 |Prestigio|Grace 3858 4G|CD80A3L|PMT3858_4G|
 |Prestigio|Grace 3868 4G|CD80A3L|PMT3868_4G|
+|Prestigio|Grace 3878 4G|CD80A3L|PMT3878_4G_EU|
 |Prestigio|Grace X3|PSP3455DUO|PSP3455DUO|
 |Prestigio|Grace X5|PSP5470DUO|PSP5470DUO|
 |Prestigio|Grace X7|PSP7505DUO|PSP7505DUO|
@@ -15797,6 +15799,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A3(2017)|a3y17lte|SM-A320FL|
 |Samsung|Galaxy A3(2017)|a3y17lte|SM-A320X|
 |Samsung|Galaxy A30|a30|SM-A305F|
+|Samsung|Galaxy A30|a30|SM-A305FN|
+|Samsung|Galaxy A30|a30|SM-A305G|
 |Samsung|Galaxy A5|a53g|SM-A500H|
 |Samsung|Galaxy A5|a5lte|SM-A500F|
 |Samsung|Galaxy A5|a5lte|SM-A500G|
@@ -15834,6 +15838,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A5(2017)|a5y17ltelgt|SM-A520L|
 |Samsung|Galaxy A5(2017)|a5y17lteskt|SM-A520S|
 |Samsung|Galaxy A50|a50|SM-A505F|
+|Samsung|Galaxy A50|a50|SM-A505FM|
+|Samsung|Galaxy A50|a50|SM-A505FN|
+|Samsung|Galaxy A50|a50|SM-A505G|
+|Samsung|Galaxy A50|a50|SM-A505GN|
 |Samsung|Galaxy A6|a6elteaio|SM-A600AZ|
 |Samsung|Galaxy A6|a6elteatt|SM-A600A|
 |Samsung|Galaxy A6|a6eltemtr|SM-A600T1|
@@ -16493,7 +16501,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M20|m20lte|SM-M205F|
 |Samsung|Galaxy M20|m20lte|SM-M205FN|
 |Samsung|Galaxy M20|m20lte|SM-M205G|
+|Samsung|Galaxy M20|m20lte|SM-M205M|
 |Samsung|Galaxy M30|m30lte|SM-M305F|
+|Samsung|Galaxy M30|m30lte|SM-M305M|
 |Samsung|Galaxy Mega 2|mega23g|SM-G750H|
 |Samsung|Galaxy Mega 5.8|crater|GT-I9152|
 |Samsung|Galaxy Mega 5.8|crater3gctc|SCH-P709|
@@ -21777,6 +21787,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|View XL|v11cnlite|View XL|
 |Wiko|View2 Go|W-P220|View2 Go|
 |Wiko|View2 Plus|W-P210|View2 Plus|
+|Wiko|View3 Pro|W-P611|W-P611-EEA|
 |Wiko|W-K200|W-K200|W-K200|
 |Wiko|WAX|s8515|WAX|
 |Wiko|WC300|WC300|WC300|
