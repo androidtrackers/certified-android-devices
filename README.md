@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-03-13
+ Last sync is 2019-03-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1652,6 +1652,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|AX1072|Bmobile_AX1072|AX1072|
 |BMobile|AX1073|Bmobile_AX1073|AX1073|
 |BMobile|AX1073+|Bmobile_AX1073Plus|AX1073+|
+|BMobile|AX1073PLUSMV18|Bmobile_AX1073PLUSMV18|AX1073PLUSMV18|
 |BMobile|AX1074|Bmobile_AX1074|AX1074|
 |BMobile|AX1075|Bmobile_AX1075|AX1075|
 |BMobile|AX1077|Bmobile_AX1077|AX1077|
@@ -1684,7 +1685,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|AX823|Bmobile_AX823|AX823|
 |BMobile|AX823|Bmobile_AX823a|AX823|
 |BMobile|AX824|Bmobile_AX824_MV03|AX824|
+|BMobile|AX824A|Bmobile_AX824A|AX824A|
 |BMobile|AX825|Bmobile_AX825|AX825|
+|BMobile|AX829|Bmobile_AX829|AX829|
 |BMobile|AX830|Bmobile_AX830|AX830|
 |BMobile|AX905|Bmobile_AX905|AX905|
 |BMobile|AX920|Bmobile_AX920|AX920|
@@ -1695,11 +1698,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|AX926|Bmobile_AX926|AX926|
 |BMobile|AX950|Bmobile_AX950|AX950|
 |BMobile|AX951|Bmobile_AX951|AX951|
+|BMobile|AX965|Bmobile_AX965|AX965|
 |BMobile|Bella|Bella|Bella|
+|BMobile|Bmobile AX1076|Bmobile_AX1076|AX1076|
 |BMobile|Bmobile AX1082|Bmobile_AX1082|AX1082|
 |BMobile|Bmobile AX683|Bmobile_AX683|AX683|
 |BMobile|Bmobile AX753|Bmobile_AX753|Bmobile AX753|
 |BMobile|Bmobile AX960|Bmobile_AX960_MV03|AX960|
+|BMobile|Bmobile_AX752|Bmobile_AX752|AX752|
 |BMobile|Bmoblie AX683|Bmobile_AX683_MV04|AX683|
 |BMobile|FUN 4|Bmobile_FUN_4_2018|FUN 4 2018|
 |BQru|5060|BQru-5060|BQru-5060|
@@ -3623,6 +3629,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|X10|doogee-X10|DOOGEE X10|
 |Doogee|X100|X100|X100|
 |Doogee|X11|X11|X11|
+|Doogee|X12|X12|X12|
 |Doogee|X20|X20|X20|
 |Doogee|X20L|X20L|X20L|
 |Doogee|X30|X30|X30|
@@ -3651,6 +3658,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|Y6 Max|Y6_Max|Y6 Max|
 |Doogee|Y7|Y7|Y7|
 |Doogee|Y7Plus|Y7Plus|Y7Plus|
+|Doogee|Y8|Y8|Y8|
+|Doogee|Y8plus|Y8Plus|Y8 Plus|
 |Doogee|shoot 2|t591_dga57_we|Shoot_2|
 |Doopro|C1|C1|C1|
 |Doopro|C1_Pro|C1_Pro|C1_Pro|
@@ -3836,7 +3845,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Eks Mobility|S45U|S45U|EKS S45U|
 |Eks Mobility|S5LS|S5LS|S5LS|
 |Eks Mobility|S5US|S5US|S5US|
+|Eks Mobility|T4|T4|T4|
 |Eks Mobility|X4U+|X4UPlus|X4UPlus|
+|Eks Mobility|Z5|Z5|Z5|
 |Elecost|QuadTab E10.1|QuadTab_E101|QuadTab E10.1|
 |Electroland Ghana|NASCO_Allure|NASCO_Allure|NASCO_Allure|
 |Electroneum|electroneumM1|electroneumM1|electroneumM1|
@@ -4520,6 +4531,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-TOUCH|Stella XS|Stella_XS|Stella XS|
 |G-Tab|G4|G4|G4|
 |G-Tab|G5|G5|G5|
+|G-Tab|Q69|Q69|Q69|
 |G-TiDE|EXTREME X9|EXTREME_X9|EXTREME X9|
 |G-TiDE|FANS7|FANS7|G-TiDE FANS7|
 |G-TiDE EXTREME|EX10|EX10|EX10|
@@ -11904,6 +11916,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maxis|NeXT M2|VFD610|VFD 610|
 |Maxis|NeXT X1|VFD710|VFD 710|
 |Maxtron|S9|S9|S9|
+|Maxvi|MS502_Orion|MS502_Orion|MS502_Orion|
 |Maxvi|Maxvi_MS401|Maxvi_MS401|Maxvi_MS401|
 |Maxwest|Astro 5 Go LTE|Astro_5_GO_LTE|Astro_5_GO_LTE|
 |Maxwest|Astro 5N LTE|Astro_5N_LTE|Astro_5N_LTE|
@@ -13529,6 +13542,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Njoy|Tityos 10|Tityos_10|nJoy_Tityos_10|
 |Njoy|Turnus 8|Turnus_8|nJoy_Turnus_8|
 |Njoy|nJoy Theia 10|nJoy_Theia_10|Theia_10|
+|Nobby|A200|A200|A200|
 |Nobby|S300|Nobby_S300|Nobby S300|
 |Nobby|S300 pro|Nobby_S300_Pro|Nobby S300 Pro|
 |Nobis|NB07|NB07|NB07|
@@ -17862,6 +17876,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Selfix|SELFIX_ES732_EXPERIUS|EXPERIUS|SELFIX_ES732_EXPERIUS|
 |Selvas|BrailleSense Polaris|polaris|BrailleSensePolaris|
 |Senseit|A109|SENSEIT_A109|SENSEIT_A109|
+|Senseit|C205|C205|C205|
 |Senseit|L301|SENSEIT-L301|SENSEIT L301|
 |Senseit|SENSEIT T250|SENSEIT_T250|SENSEIT T250|
 |Senseit|SENSEIT W289|SENSEIT_W289|SENSEIT W289|
@@ -23838,8 +23853,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |teXet|TM-5083|TM-5083|TM-5083|
 |teXet|TM-5084|TM-5084|TM-5084|
 |teXet|TM-5201|TM-5201|TM-5201|
+|teXet|TM-5583|TM-5583|TM-5583|
 |teXet|Texet TM-5571|tm5571|TM-5571|
 |teXet|Texet TM-5581|tm5581|TM-5581|
+|teXet|Texet TM-5584|TM-5584|TM-5584|
 |techBITE|Flix  TV  Box|DV8219|Flix TV Box|
 |tecmobile|OmnisOne|OmnisOne|Omnis One|
 |truevisions|N9106H-B|HB_N9106H_B_truevisions|N9106H-B|
