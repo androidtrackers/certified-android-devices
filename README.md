@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-03-14
+ Last sync is 2019-03-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1698,6 +1698,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|AX926|Bmobile_AX926|AX926|
 |BMobile|AX950|Bmobile_AX950|AX950|
 |BMobile|AX951|Bmobile_AX951|AX951|
+|BMobile|AX959|Bmobile_AX959|AX959|
 |BMobile|AX965|Bmobile_AX965|AX965|
 |BMobile|Bella|Bella|Bella|
 |BMobile|Bmobile AX1076|Bmobile_AX1076|AX1076|
@@ -1705,6 +1706,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|Bmobile AX683|Bmobile_AX683|AX683|
 |BMobile|Bmobile AX753|Bmobile_AX753|Bmobile AX753|
 |BMobile|Bmobile AX960|Bmobile_AX960_MV03|AX960|
+|BMobile|Bmobile_AX1077|Bmobile_AX1077A|AX1077|
 |BMobile|Bmobile_AX752|Bmobile_AX752|AX752|
 |BMobile|Bmoblie AX683|Bmobile_AX683_MV04|AX683|
 |BMobile|FUN 4|Bmobile_FUN_4_2018|FUN 4 2018|
@@ -2487,6 +2489,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Celkon|Swift 4G|Swift_4G|Swift 4G|
 |Celkon|uniQ|UniQ|UniQ|
 |CellAllure|Cool Duo|Cool_Duo|Cool Duo|
+|CellAllure|Cool_Extreme_2|Cool_Extreme_2|Cool_Extreme_2|
 |CellAllure|Earn|Earn|Earn|
 |CellAllure|Fashion2Plus|Fashion2Plus|Fashion2Plus|
 |CellAllure|Fashion_C|Fashion_C|Fashion C|
@@ -7176,6 +7179,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI P smart 2019|HWPOT-H|POT-LX3|
 |Huawei|HUAWEI P20 Lite|HWANE|ANE-LX2J|
 |Huawei|HUAWEI P20 Lite|HWANE|HWV32|
+|Huawei|HUAWEI P30 lite|HWMAR|MAR-LX1M|
 |Huawei|HUAWEI P9 lite mini|HWSLA-Q|SLA-L02|
 |Huawei|HUAWEI P9 lite mini|HWSLA-Q|SLA-L22|
 |Huawei|HUAWEI P9 lite mini|HWSLA-Q|SLA-L23|
@@ -7521,6 +7525,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|P20 lite|HWANE|ANE-LX1|
 |Huawei|P20 lite|HWANE|ANE-LX2|
 |Huawei|P20 lite|HWANE|ANE-LX3|
+|Huawei|P30 lite|HWMAR|MAR-LX1M|
+|Huawei|P30 lite|HWMAR|MAR-LX2|
+|Huawei|P30 lite|HWMAR|MAR-LX3A|
 |Huawei|P6|hwp6-c00|HUAWEI P6-C00|
 |Huawei|P6|hwp6-t00|HUAWEI P6-T00|
 |Huawei|P6|hwp6-t00|HUAWEI P6-T00V|
@@ -7913,6 +7920,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|nova 4|HWVCE|VCE-AL00|
 |Huawei|nova 4|HWVCE|VCE-L22|
 |Huawei|nova 4|HWVCE|VCE-TL00|
+|Huawei|nova 4e|HWMAR|MAR-AL00|
+|Huawei|nova 4e|HWMAR|MAR-TL00|
 |Huawei|nova lite|HWPRA-H|PRA-LX2|
 |Huawei|nova lite|HWPRA-H|PRA-LX3|
 |Huawei|nova plus|HWMLA|HUAWEI MLA-L01|
@@ -8606,6 +8615,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Inverse Net|EP172PR|EP172PR|EP172PR|
 |Ipro|Amber6|Amber6|Amber6|
 |Ipro|Jade7s|Jade7s|Jade7s|
+|Ipro|Jade8S|Jade8S|Jade8S|
 |Ipro|KYLIN40|KYLIN40|KYLIN40|
 |Ipro|Kylin 5.0|Kylin_50|Kylin 5.0|
 |Ipro|Kylin 5.5|Kylin_55|Kylin 5.5|
@@ -8884,6 +8894,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Jivi|Xtreme XT309 Plus|Xtreme_XT309_Plus|Xtreme XT309 Plus|
 |Jivi|Xtreme_1|Xtreme_1|Xtreme 1|
 |Jivi|Xtreme_3|Xtreme_3|Xtreme_3|
+|Jivi|Xtreme_3x|Xtreme_3x|Xtreme_3x|
 |Jivi|Xtreme_7|Xtreme_7|Xtreme_7|
 |Jooyon|J110A|J110A|J110A|
 |Juniper Systems|Cedar CT8|CT8|Cedar CT8|
@@ -23652,6 +23663,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |i-Buddie|TR10CS1|TR10CS1_2|TR10CS1|
 |i-Buddie|TR10CS1_P|TR10CS1|TR10CS1|
 |i-Mobile|A956|A956|A956|
+|i-Mobile|A958|A958|A958|
 |i-Mobile|HP-01A|HP-01A|HP-01A|
 |i-Mobile|IQ II|imobileiq2_sprout|i-mobile IQ II|
 |i-Mobile|IQX KEN|IQX_KEN|IQX KEN|
