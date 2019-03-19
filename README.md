@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-03-18
+ Last sync is 2019-03-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1566,6 +1566,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|AZUMI_Daburu_A55O|Daburu_A55O|Azumi_Daburu_A55O|
 |Azumi|AZUMI_M5_AC01|AZUMI_M5_AC01|M5|
 |Azumi|AZUMI_M5_AC02|AZUMI_M5_AC02|M5|
+|Azumi|AZUMI_V5_AC01|AZUMI_V5_AC01|V5|
 |Azumi|Azumi A4|Azumi_A4_MB|A4|
 |Azumi|Azumi A45|Azumi_A45|A45|
 |Azumi|Azumi A45|Azumi_A45_AC26|A45|
@@ -7177,6 +7178,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI P smart 2019|HWPOT-H|POT-LX1|
 |Huawei|HUAWEI P smart 2019|HWPOT-H|POT-LX1AF|
 |Huawei|HUAWEI P smart 2019|HWPOT-H|POT-LX3|
+|Huawei|HUAWEI P smart+ 2019|HWPOT-H|POT-LX1T|
 |Huawei|HUAWEI P20 Lite|HWANE|ANE-LX2J|
 |Huawei|HUAWEI P20 Lite|HWANE|HWV32|
 |Huawei|HUAWEI P30 lite|HWMAR|MAR-LX1M|
@@ -11798,6 +11800,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MLAB|MB4_3G|MB4_3G|MB4_3G|
 |MLAB|MB5 WIFI|MB5_WIFI|MB5 WIFI|
 |MLS Innovation|IQS805|iQS805|iQS805|
+|MLS Innovation|IQW570|iQW570|iQW570|
 |MLS Innovation|PTB7QSG_3G|iQE200|iQE200|
 |MLS Innovation|iQ1568|iQ1568|iQ1568|
 |MLS Innovation|iQ8011|iQ8011|iQ8011|
@@ -19189,6 +19192,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL C5|Gauss|5153A|
 |TCL|TCL C5|Gauss|5153K|
 |TCL|TCL C7|A3A_PLUS|5158A|
+|TCL|TCL L10|Faraday|5124J|
 |TCL|TCL L5|U3A_PLUS_4G|5133A|
 |TCL|TCL L9|U5A_PLUS_4G|5159A|
 |TCL|TCL L9|U5A_PLUS_4G|5159J|
@@ -19790,7 +19794,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1C|U5A_PLUS_3G|5009D_RU|
 |TCT (Alcatel)|Alcatel 1C|U5A_PLUS_3G|5009U|
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024A|
+|TCT (Alcatel)|Alcatel 1S|Faraday|5024D|
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024D_EEA|
+|TCT (Alcatel)|Alcatel 1S|Faraday|5024J|
 |TCT (Alcatel)|Alcatel 1X|U5A_PLUS_4G|5059A|
 |TCT (Alcatel)|Alcatel 1X|U5A_PLUS_4G|5059D|
 |TCT (Alcatel)|Alcatel 1X|U5A_PLUS_4G|5059D_RU|
@@ -19814,6 +19820,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 3|Gauss|5053K_RU|
 |TCT (Alcatel)|Alcatel 3|Gauss|5053Y|
 |TCT (Alcatel)|Alcatel 3|Gauss|5053Y_EEA|
+|TCT (Alcatel)|Alcatel 3|Gauss|5053Y_RU|
 |TCT (Alcatel)|Alcatel 3L|A3A_LITE|5034D|
 |TCT (Alcatel)|Alcatel 3L|A3A_LITE|5034D_EEA|
 |TCT (Alcatel)|Alcatel 3L|A3A_LITE|5034D_RU|
@@ -20925,6 +20932,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umix|Lite XL|UMIX_LITE_XL|UMIX LITE XL|
 |Umix|Vinci M|UMIX_VINCI_M|UMIX VINCI M|
 |Umx(Ultimate Mobile Experience)|U2VR|U2VR|U2VR|
+|Umx(Ultimate Mobile Experience)|U504TL|U504TL|U504TL|
 |Umx(Ultimate Mobile Experience)|U673C|U673C|U673C|
 |Umx(Ultimate Mobile Experience)|U683CL|U683CL|U683CL|
 |Uneone|SD50|SD50|SD50|
@@ -21284,6 +21292,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|1601|1601|vivo 1601|
 |Vivo|1601|1601|vivo 1713|
 |Vivo|1609|1609|vivo 1609|
+|Vivo|1818|1818|vivo 1818|
+|Vivo|1818N|1818N|vivo 1818|
 |Vivo|PD1304DL|PD1304DL|vivo Y13iL|
 |Vivo|PD1419V|PD1419V|vivo Y923|
 |Vivo|PD1612|PD1612|vivo PD1612|
