@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-03-19
+ Last sync is 2019-03-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5917,6 +5917,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Helio|S25|HelioS25|S25|
 |Hercls|HERCLS A15|A15|A15|
 |Hercls|HERCLS L925|L925|L925|
+|HexaByte|HB_X7|HB_X7|HB_X7|
 |Hezire|HTB801|HTB801|HTB801|
 |Hi TFG|Crusader|Crusader|Crusader|
 |Hi TFG|Spitfire|Spitfire|Spitfire|
@@ -7299,6 +7300,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|Honor 8 Pro|HWDUK|DUK-L09|
 |Huawei|Honor 8 Smart|HWVNS-H|VEN-L22|
 |Huawei|Honor 8A|HWJAT-M|JAT-L29|
+|Huawei|Honor 8A|HWJAT-M|JAT-LX1|
 |Huawei|Honor 8A|HWJAT-M|JAT-LX3|
 |Huawei|Honor 8x|HWJSN-H|JSN-L42|
 |Huawei|Honor 9|HWSTF|STF-AL00|
@@ -9243,6 +9245,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|DuraForce PRO 2 with Sapphire shield|E6910|E6910|
 |Kyocera|DuraForce PRO with Sapphire Shield|E6810|E6810|
 |Kyocera|DuraForce PRO with Sapphire Shield|E6810_3GB|E6810|
+|Kyocera|DuraForce Pro 2|E6920|KYOCERA-E6920|
 |Kyocera|DuraForce XD|E6790|KYOCERA-E6790|
 |Kyocera|DuraForce XD|E6790TM|E6790TM|
 |Kyocera|DuraScout|E6782L|E6782L|
@@ -15551,6 +15554,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ruggear|IMO S|IMO_S|IMO_S|
 |Ruggear|PSM01E|PSM01E|PSM01E|
 |Ruggear|RG650|RG650|RG650|
+|Ruggear|RG650|RG650|RG650 U|
 |Ruggear|RG720|RG720|RG720|
 |Ruggear|RG725|RG725|RG725|
 |Ruggear|RG730|rg730|RugGear RG730|
@@ -19796,6 +19800,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024A|
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024D|
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024D_EEA|
+|TCT (Alcatel)|Alcatel 1S|Faraday|5024D_RU|
+|TCT (Alcatel)|Alcatel 1S|Faraday|5024I|
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024J|
 |TCT (Alcatel)|Alcatel 1X|U5A_PLUS_4G|5059A|
 |TCT (Alcatel)|Alcatel 1X|U5A_PLUS_4G|5059D|
@@ -21409,9 +21415,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo 1815|1815|vivo 1815|
 |Vivo|vivo 1816|1816|vivo 1816|
 |Vivo|vivo 1817|1817|vivo 1817|
+|Vivo|vivo 1819|1819|vivo 1819|
+|Vivo|vivo 1819|1819N|vivo 1819|
 |Vivo|vivo 1820|1820|vivo 1820|
 |Vivo|vivo NEX A|PD1806|vivo NEX A|
 |Vivo|vivo NEX S|PD1805|vivo NEX S|
+|Vivo|vivo S1|PD1831|V1831A|
 |Vivo|vivo X20|PD1709|vivo PD1709|
 |Vivo|vivo X20|PD1709|vivo X20A|
 |Vivo|vivo X20Plus|PD1710|vivo PD1710|
@@ -22036,6 +22045,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Redmi  Go|tiare|Redmi Go|
 |Xiaomi|Redmi  Note  6  Pro|tulip|Redmi Note 6 Pro|
 |Xiaomi|Redmi  Note  7|lavender|Redmi Note 7|
+|Xiaomi|Redmi  Note  7 Pro|violet|Redmi Note 7 Pro|
 |Xiaomi|Redmi  S2|ysl|Redmi S2|
 |Xiaomi|Redmi 3|ido|Redmi 3|
 |Xiaomi|Redmi 3|ido|ido|
