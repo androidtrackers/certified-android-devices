@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-03-20
+ Last sync is 2019-03-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1375,6 +1375,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ZenFone Max Plus M1 (ZB570TL)|ASUS_X018_1|ASUS_X018D|
 |Asus|ZenFone Max Plus M1 (ZB570TL)|ASUS_X018_2|ASUS_X018D|
 |Asus|ZenFone Max Plus M1 (ZB570TL)|ASUS_X018_4|ASUS_X018D|
+|Asus|ZenFone Max Plus M2 (ZB634KL)|ASUS_A001D_1|ASUS_A001D|
 |Asus|ZenFone Max Pro (M1)|ASUS_X00T_2|ASUS_X00TD|
 |Asus|ZenFone Max Pro (M1)|ASUS_X00T_3|ASUS_X00TD|
 |Asus|ZenFone Max Pro (M1)|ASUS_X00T_4|ASUS_X00TD|
@@ -1385,6 +1386,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ZenFone Max Pro M2 (ZB630KL/ZB631KL)|ASUS_X01BD_1|ASUS_X01BDA|
 |Asus|ZenFone Max Pro M2 (ZB630KL/ZB631KL)|ASUS_X01BD_1|ZB631KL|
 |Asus|ZenFone Max Pro M2 (ZB630KL/ZB631KL)|ASUS_X01BD_2|ASUS_X01BDA|
+|Asus|ZenFone Max Shot|ASUS_A001D_2|ASUS_A001D|
 |Asus|ZenFone Selfie (ZD551KL)|ASUS_Z00U_1|ASUS_Z00UD|
 |Asus|ZenFone Selfie (ZD551KL)|ASUS_Z00U_1|ASUS_Z00UDA|
 |Asus|ZenFone Selfie (ZD551KL)|ASUS_Z00U_2|ASUS_Z00UD|
@@ -3147,6 +3149,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|CUBOT_POWER|CUBOT_POWER|CUBOT_POWER|
 |Cubot|DINOSAUR|x5623_h6013_cubot|CUBOT DINOSAUR|
 |Cubot|ECHO|CUBOT_ECHO|CUBOT ECHO|
+|Cubot|J5|J5|J5|
 |Cubot|KING_KONG_3|KING_KONG_3|KING_KONG_3|
 |Cubot|MANITO|CUBOT_MANITO|CUBOT_MANITO|
 |Cubot|MAX|x6069_cubot_5365u|CUBOT MAX|
@@ -11596,6 +11599,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logic Mobility|L5G|L5G|L5G|
 |Logic Mobility|LOGIC_L5D|LOGIC_L5D|LOGIC_L5D|
 |Logic Mobility|T10B|T10B|T10B|
+|Logic Mobility|T3G|T3G|T3G|
 |Logic Mobility|T7_plus|T7_plus|T7_plus|
 |Logic Mobility|X4 Plus|X4|Logic X4 Plus|
 |Logic Mobility|X5A|LOGIC_X5A|LOGIC X5A|
@@ -12107,6 +12111,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Meizu|Meizu 6T|Meizu6T|Meizu 6T|
 |Meizu|Meizu S6|MeizuS6|M712C|
 |Meizu|Meizu S6|MeizuS6|Meizu S6|
+|Meizu|Note9|Note9|Note9|
 |Meizu|PRO 7|PRO7H|PRO 7-H|
 |Meizu|PRO 7|PRO7S|PRO 7|
 |Meizu|PRO 7|PRO7S|PRO 7-S|
@@ -14549,6 +14554,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pegatron|chagall|chagall|Chagall 10.1 WiFi|
 |Pegatron|chagall|chagall|E-Tab 4G|
 |Pegatron|chagall|chagall|chagall|
+|Pendo|PNDP70M10BLK|PNDP70M10BLK|PNDP70M10BLK|
 |Pendo|Pendo|PNDP70M7BLK|PNDP70M7BLK|
 |Penta|ETBA0552|PENTA_83AAQ2|PENTA_83AAQ2|
 |Penta|ETBA0692|PENTA_73AAQ1|PENTA_73AAQ1|
@@ -18447,6 +18453,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|NWZ-Z1000|icx1216|NWZ-Z1000Series|
 |Sony|NWZ-ZX1|icx1240|WALKMAN|
 |Sony|SmartWatch 3|tetra|SmartWatch 3|
+|Sony|Smartphone Z Ultra Google Play edition|C6806|C6806|
 |Sony|Smartphone Z Ultra Google Play edition|C6806|C6806_GPe|
 |Sony|Tablet P|nbx02|Sony Tablet P|
 |Sony|Tablet S|nbx03|Sony Tablet S|
@@ -18850,6 +18857,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony Ericsson|Xperia X8|E15i|E15i|
 |Sony Ericsson|Xperia Z|SO-02E|SO-02E|
 |Sony Ericsson|Xperia Z Ultra|C6806|C6806|
+|Sony Ericsson|Xperia Z Ultra|C6833|C6833|
 |Sony Ericsson|Xperia Z1|C6903|C6903|
 |Sony Ericsson|Xperia Z1|C6906|C6906|
 |Sony Ericsson|Xperia Z1|C6943|C6943|
@@ -21623,6 +21631,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|LT750|LT750|LT750|
 |Walton|Primo D9|Primo_D9|Primo D9|
 |Walton|Primo E8s|Primo_E8s|Primo E8s|
+|Walton|Primo E9|Primo_E9|Primo E9|
 |Walton|Primo EF7|Primo_EF7|Primo EF7|
 |Walton|Primo EF8 4G|Primo_EF8_4G|Primo EF8 4G|
 |Walton|Primo EM2|Primo_EM2|Primo EM2|
