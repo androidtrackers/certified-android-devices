@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-03-21
+ Last sync is 2019-03-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3448,6 +3448,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DigiLand|TP1_N|TP1_N|TP1_N|
 |Digicel|DL501|DL501|DL501|
 |Digicel|Digi C1|Digi_C1|Digi C1|
+|Digicel|Digi K1|Digi_K1|Digi_K1|
 |Digicel|Digi R1|Digi_R1|Digi R1|
 |Digicel|GO Onyx|GO_Onyx|GO Onyx|
 |Digicom|Digicom_A7_LTE|Digicom_A7_LTE|Digicom_A7_LTE|
@@ -7811,6 +7812,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|Y6|hwSCLU-Q|HUAWEI SCL-U31|
 |Huawei|Y6|hwSCLU-Q|SCL-U23|
 |Huawei|Y6 2017|HWMYA-L6737|MYA-L41|
+|Huawei|Y6 2019|HWMRD-M1|MRD-LX1|
 |Huawei|Y6 2019|HWMRD-M1|MRD-LX3|
 |Huawei|Y6 Elite|HWLYO-L6735|HUAWEI LYO-L02|
 |Huawei|Y6 Prime 2019|HWMRD-M1|MRD-LX1F|
@@ -13542,8 +13544,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nextbit|Robin|ether|Robin|
 |Nextbook|M-MP7NB3G|7_Plus_HD3G|M-MP7NB3G|
 |Nextbook|NX16A10132S|NX16A10132S|NX16A10132S|
+|Nextbook|NX16A10132SPS|NX16A10132SPS|NX16A10132SPS|
 |Nextbook|NX16A11264|NX16A11264|NX16A11264|
 |Nextbook|NX16A8116K|NX16A8116K|NX16A8116K|
+|Nextbook|NX16A8116KP|NX16A8116KP|NX16A8116KP|
 |Nextbook|NX700QC|nxm7100lvd_wm|NX700QC|
 |Nextbook|NX785QC|nxm865lvd_wm|NX785QC|
 |Nextbook|NX785QC8G|NXM865FD|NX785QC8G|
@@ -17441,6 +17445,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A 7.0|gtexslte|SM-T287|
 |Samsung|Galaxy Tab A 7.0|gtexslteswa|SM-T285YD|
 |Samsung|Galaxy Tab A 7.0|gtexswifi|SM-T280|
+|Samsung|Galaxy Tab A 8|gtaslitelteatt|SM-T387AA|
 |Samsung|Galaxy Tab A 8|gtasliteltespr|SM-T387P|
 |Samsung|Galaxy Tab A 8|gtasliteltetmo|SM-T387T|
 |Samsung|Galaxy Tab A 8.0|gt58lte|SM-T355|
@@ -17467,7 +17472,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A 9.7|gt5note10lteskt|SM-P555S|
 |Samsung|Galaxy Tab A 9.7|gt5note10wifi|SM-P550|
 |Samsung|Galaxy Tab A 9.7|gt5note10wifichn|SM-P550|
-|Samsung|Galaxy Tab A Lite|gtaslitelteatt|SM-T387AA|
 |Samsung|Galaxy Tab A S 8.0|gt58ltebmc|SM-T357W|
 |Samsung|Galaxy Tab A(10.5)|gta2xllte|SM-T597|
 |Samsung|Galaxy Tab A6|gtexswifi|SM-T280|
