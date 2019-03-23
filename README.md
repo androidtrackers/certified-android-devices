@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
- Last sync is 2019-03-22
+ Last sync is 2019-03-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7141,6 +7141,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|H891L|hwH891L|HUAWEI H891L|
 |Huawei|H892L|hwH892L|HUAWEI H892L|
 |Huawei|HAUWEI Y5 Lite 2018|HWCAG-L6737M|CAG-L22|
+|Huawei|HONOR 10i|HWHRY-HF|HRY-LX1T|
 |Huawei|HONOR 4X|hwChe2|Che2-L12|
 |Huawei|HONOR V20|HWPCT|PCT-AL10|
 |Huawei|HONOR V20|HWPCT|PCT-TL10|
@@ -14153,6 +14154,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Orange|Rise51|PIXI4_5_4G|Orange-Rise51B|
 |Orange|Rise52|BUZZ6T4G|Orange-Rise52|
 |Orange|Rise_54|Rise_54|Orange Rise 54|
+|Orange|Rise_54|Rise_54|Orange Rise 54 EEA|
 |Orange|Roya|Alto45|Orange Roya|
 |Orange|Sego|Orange_Sego|Orange Sego|
 |Orange|Zilo|Orange_Zilo|Zilo|
