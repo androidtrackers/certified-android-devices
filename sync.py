@@ -3,6 +3,7 @@ from datetime import date
 from glob import glob
 from os import remove, rename, path
 from os import system, environ
+import codecs
 
 from requests import get, post
 
@@ -14,7 +15,7 @@ if path.exists('README.md'):
 url = "http://storage.googleapis.com/play_public/supported_devices.csv"
 r = get(url)
 with open('supported_devices.csv', 'wb') as f:
-    f.write(r.content.decode('utf-16').encode('utf-8').decode("unicode_escape"))
+    f.write(codecs.escape_decode(r.content).decode('utf-16').encode('utf-8'))
 # convert to markdown
 with open('supported_devices.csv', 'r') as f, open("tmp.md", 'w') as o:
     for line in f:
