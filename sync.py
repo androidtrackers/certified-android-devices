@@ -14,7 +14,7 @@ if path.exists('README.md'):
 url = "http://storage.googleapis.com/play_public/supported_devices.csv"
 r = get(url)
 with open('supported_devices.csv', 'wb') as f:
-    f.write(r.content.decode('utf-16').encode('utf-8'))
+    f.write(r.content.decode('utf-16').encode('utf-8').decode("unicode_escape"))
 # convert to markdown
 with open('supported_devices.csv', 'r') as f, open("tmp.md", 'w') as o:
     for line in f:
