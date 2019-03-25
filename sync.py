@@ -1,44 +1,40 @@
 import difflib
 from datetime import date
 from glob import glob
-from os import remove, rename, path
-from os import system, environ
-
+from os import remove, rename, path, system, environ
 from requests import get, post
 
-GIT_OAUTH_TOKEN = environ['GIT_OAUTH_TOKEN_XFU']
+try:
+    GIT_OAUTH_TOKEN = environ['GIT_OAUTH_TOKEN_XFU']
+    bottoken = environ['bottoken']
+except KeyError:
+    print("Key not found, skipping!")
+
+today = str(date.today())
 
 if path.exists('README.md'):
     rename('README.md', 'old.md')
 # Download latest and convert to utf-8
 url = "http://storage.googleapis.com/play_public/supported_devices.csv"
 r = get(url)
-with open('supported_devices.csv', 'wb') as f:
-    f.write(r.content.decode('utf-16').encode('utf-8'))
-# convert to markdown
-with open('supported_devices.csv', 'r') as f, open("tmp.md", 'w') as o:
-    for line in f:
-        o.write(line.replace(",", "|"))
-# append '|' at the first and the end of each line
-with open('tmp.md', 'r') as f, open("tmp2.md", 'a') as o:
-    for line in f:
-        o.write("|" + line.rstrip() + "|" + '\n')
-# remove first line
-with open('tmp2.md', 'r') as f, open("README.md", 'w') as o:
-    content = f.readlines()
-    o.writelines(content[1:])
-# add header
-today = str(date.today())
-head = "# Google Play Certified Android devices" + '\n'" \
-""Last sync is " + today + '\n' + '\n' + "https://support.google.com/googleplay/answer/1727131?hl=en" + '\n' + '\n'" \
-""|Retail Branding|Marketing Name|Device|Model|" + '\n' + "|---|---|---|---|" + '\n'
-with open("README.md", "r+") as f:
-    content = f.read()
-with open("README.md", "w+") as f:
-    f.write(head + content)
-# cleanup
-for file in glob("tmp*"):
-    remove(file)
+data = (r.content.decode('utf-16'))
+data_list = list(data.split('\n'))
+with open('README.md', 'w+', encoding='UTF-8') as f:
+    f.write('# Google Play Certified Android devices\n')
+    f.write('Last sync is {}\n\nhttps://support.google.com/googleplay/answer/1727131?hl=en\n\n'.format(today))
+    f.write('|Retail Branding|Marketing Name|Device|Model|\n')
+    f.write('|---|---|---|---|\n')
+    for line in data_list[1:]:
+        i = line.strip().replace("  ", " ").split(",")
+        try:
+            brand = i[0]
+            name = i[1]
+            device = i[2]
+            model = i[3]
+        except IndexError:
+            pass
+        f.write('|{}|{}|{}|{}|\n'.format(brand, name, device, model))
+
 # diff
 with open('old.md', 'r') as old, open('README.md', 'r') as new:
     diff = difflib.unified_diff(old.readlines(), new.readlines(), fromfile='old', tofile='new')
@@ -56,7 +52,6 @@ system("git add README.md && git -c \"user.name=XiaomiFirmwareUpdater\" "
        .format(today, GIT_OAUTH_TOKEN))
 # tg
 telegram_chat = "@CertifiedAndroidDevices"
-bottoken = environ['bottoken']
 with open('changes', 'r') as c:
     for line in c:
         info = line.split("|")
