@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-03-25
+Last sync is 2019-03-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1571,6 +1571,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|AZUMI_M5_AC02|AZUMI_M5_AC02|M5|
 |Azumi|AZUMI_V5_AC01|AZUMI_V5_AC01|V5|
 |Azumi|Azumi A4|Azumi_A4_MB|A4|
+|Azumi|Azumi A4 +|Azumi_A4_Plus|A4+|
 |Azumi|Azumi A45|Azumi_A45|A45|
 |Azumi|Azumi A45|Azumi_A45_AC26|A45|
 |Azumi|Azumi A5|A5|Azumi A5|
@@ -2284,6 +2285,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bluedot|BNT_1012W|BNT_1012W|BNT-1012|
 |Bluesky|BSS45|BSS45|BSS45|
 |Bluesky|BSS50|BSS50|BSS50|
+|Bmobility|Belle|Belle|Belle|
 |Bmobility|Benji|Benji|Benji|
 |Booken|Cybook Tablet|cybtt10_bk|Cybook-Tablet|
 |Boost|Cabana|Cabana|Cabana|
@@ -2826,6 +2828,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Condor|Griffe_T5|Griffe_T5|Griffe T5|
 |Condor|Griffe_T7|Griffe_T7|Griffe T7|
 |Condor|HS-U939|u939e_6|HS-U939|
+|Condor|Infinity E5|Infinity_E5|Infinity E5|
 |Condor|Infinity_E4|Infinity_e4|Infinity e4|
 |Condor|Infinity_a4|Infinity_a4|Infinity a4|
 |Condor|PGN404|PGN404|PGN404|
@@ -4182,6 +4185,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Figi|FIGI Gone|Gone|Gone|
 |Figi|FX|FX|FX|
 |Figi|FXs|FXs|FXs|
+|Figi|Fj|Fj|Fj|
 |Figi|Gtwo|Gtwo|Gtwo|
 |Figi|Hola|Hola|Hola|
 |Figi|Mone|Mone|Mone|
@@ -4647,6 +4651,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Getac|ZX70|zx70|zx70|
 |Getnord|LYNX|LYNX|LYNX|
 |Ghia|GHIA_A7|GHIA_A7|GHIA_A7|
+|Ghia|GHIA_AXIS7|GHIA_AXIS7|GHIA_AXIS7|
 |Ghia|GHIA_AXIS7P|GHIA_AXIS7P|GHIA_AXIS7P|
 |Ghia|GHIA_VECTOR_3G|GHIA_VECTOR_3G|GHIA_VECTOR_3G|
 |Ghia|GTAB718|GTAB718|GTAB718|
@@ -6568,6 +6573,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|70eLGN|dblack_go|Dolphin 70e Black|
 |Honeywell|70eLW0|dblack_wo|Dolphin 70e Black|
 |Honeywell|70eLWN|dblack_wn|Dolphin 70e Black|
+|Honeywell|CK65|CK65-L0-C|CK65|
+|Honeywell|CK65|CK65-L0-N|CK65|
 |Honeywell|CK75|CK75|CX75 AC0|
 |Honeywell|CK75|CK75|CX75 AN0|
 |Honeywell|CN51|CN51_NC0|CN51 NC0|
@@ -7371,6 +7378,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|M3|hwbeethoven|BTV-DL09|
 |Huawei|M3|hwbeethoven|BTV-W09|
 |Huawei|M310|hwsingleboxm310w|M310|
+|Huawei|M5\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88|HWJDN2|JDN2-AL00|
+|Huawei|M5\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88|HWJDN2|JDN2-W09|
 |Huawei|M620|M620|M620|
 |Huawei|M620|M620|TB01|
 |Huawei|M835|hwm835|HUAWEI-M835|
@@ -8439,6 +8448,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infocus|InFocus M6S|AH2|IF9003|
 |Infocus|InFocus M7 Lite|A02|IF9031|
 |Infocus|InFocus M7S|A08|IF9031|
+|Infocus|LE5039|BX2|LE5039|
 |Infocus|M2|LSO|InFocus M2|
 |Infocus|M2+|LSC|InFocus M2PLUS|
 |Infocus|M210|M210|M210|
@@ -9021,6 +9031,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KT Tech||s330|KM-S330|
 |KT Tech|EV-S100|s100|EV-S100|
 |KT Tech|TAKE SUIT|e100|KM-E100|
+|KTV|PureKTV|DV8219|Pure|
 |KTV|PureKTV|DV8219|PureKTV|
 |KZG (Ke Zhi Guang)|KZG Scope|KZG_Scope|KZG Scope|
 |Kalley|BLACK_PRO|BLACK_PRO|BLACK_PRO|
@@ -10586,6 +10597,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LINSAY|F-7HD2CORE / F-7HD4CORE / F-10HD2CORE /F-10XHD4CORE|F-7HD2CORE|LINSAY F-7HD2CORE/F-7HD4CORE/F-10HD2CORE/F-10XHD4CORE|
 |LOOQS|L108MR|L108MR|L108MR|
 |LT Electronics|K100|K100|K100|
+|LT Electronics|K200|K200|K200|
 |LT Electronics|LT_C1500|LT_C1500|LT_C1500|
 |LT Electronics|LT_C2100|LT_C2100|LT_C2100|
 |LT Electronics|LT_C2200|LT_C2200|LT C2200|
@@ -11242,6 +11254,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|K920/VIBE Z2 Pro|kingdomt|Lenovo K920|
 |Lenovo|L38011|k5|Lenovo L38011|
 |Lenovo|L38021|k5_cmcc|Lenovo L38021|
+|Lenovo|LAVIE Tab E|X704F|PC-TE510HAW|
 |Lenovo|LIFETAB E10310|LIFETAB_E10310|LIFETAB_E10310|
 |Lenovo|LIFETAB E7310|LIFETAB_E7310|LIFETAB_E7310|
 |Lenovo|LIFETAB E7310|LIFETAB_E7310|LIFETAB_E7312|
@@ -11267,17 +11280,63 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo S5 Pro|sprout|Lenovo L58041|
 |Lenovo|Lenovo S820|S820|Lenovo S820|
 |Lenovo|Lenovo TAB|TB-8803F|Lenovo TB-8803F|
+|Lenovo|Lenovo TAB 10|TB-X103F|Lenovo TB-X103F|
+|Lenovo|Lenovo TAB 2 A10-30|TB2-X30F|Lenovo TB2-X30F|
+|Lenovo|Lenovo TAB 2 A10-30|TB2-X30F|Lenovo TB2-X30F_HFT|
+|Lenovo|Lenovo TAB 2 A10-30|TB2-X30F|Lenovo TB2-X30F_JLC|
+|Lenovo|Lenovo TAB 2 A10-30|TB2-X30F|Lenovo TB2-X30F_SCP|
+|Lenovo|Lenovo TAB 2 A10-30|TB2-X30F|Lenovo TB2-X30F_UK|
+|Lenovo|Lenovo TAB 2 A10-30|TB2-X30F|Lenovo TB2-X30F_YZA|
+|Lenovo|Lenovo TAB 2 A10-30|TB2-X30L|Lenovo TB2-X30L|
+|Lenovo|Lenovo TAB 2 A10-30|TB2-X30M|Lenovo TB2-X30M|
+|Lenovo|Lenovo TAB 2 A10-30|TB2-X30M|Lenovo TB2-X30M_PRC_YZ_A|
 |Lenovo|Lenovo TAB 7|TB-7504F|Lenovo TB-7504F|
 |Lenovo|Lenovo TAB 7|TB-7504F|PC-TE507JAW|
 |Lenovo|Lenovo TAB 7|TB-7504N|Lenovo TB-7504N|
 |Lenovo|Lenovo TAB 7|TB-7504X|Lenovo TB-7504X|
+|Lenovo|Lenovo TAB 8|TB-8304F|Lenovo TB-8304F|
+|Lenovo|Lenovo TAB3 10 Business|TB3-X70F|Lenovo TB3-X70F|
+|Lenovo|Lenovo TAB3 10 Business|TB3-X70L|Lenovo TB3-X70L|
+|Lenovo|Lenovo TAB3 10 Business|TB3-X70N|Lenovo TB3-X70N|
+|Lenovo|Lenovo TAB3 7|TB3-730F|Lenovo TB3-730F|
+|Lenovo|Lenovo TAB3 7|TB3-730M|Lenovo TB3-730M|
+|Lenovo|Lenovo TAB3 7|TB3-730X|Lenovo TB3-730X|
+|Lenovo|Lenovo TAB3 7 Essential|TB3-710F|Lenovo TB3-710F|
+|Lenovo|Lenovo TAB3 7 Essential|TB3-710I|Lenovo TB3-710I|
+|Lenovo|Lenovo TAB3 7 Plus|TB-7703F|Lenovo TB-7703F|
+|Lenovo|Lenovo TAB3 7 Plus|TB-7703N|Lenovo TB-7703N|
+|Lenovo|Lenovo TAB3 7 Plus|TB-7703X|Lenovo TB-7703X|
+|Lenovo|Lenovo TAB3 8|TB3-850F|Lenovo TB3-850F|
+|Lenovo|Lenovo TAB3 8|TB3-850M|Lenovo TB3-850M|
+|Lenovo|Lenovo TAB3 8 Plus|TB-8703F|Lenovo TB-8703F|
+|Lenovo|Lenovo TAB3 8 Plus|TB-8703N|Lenovo TB-8703N|
+|Lenovo|Lenovo TAB3 8 Plus|TB-8703R|Lenovo TB-8703R|
+|Lenovo|Lenovo TAB3 8 Plus|TB-8703X|Lenovo TB-8703X|
 |Lenovo|Lenovo TAB4|701LV|701LV|
 |Lenovo|Lenovo TAB4|702LV|702LV|
-|Lenovo|Lenovo TAB4|X304F|Lenovo TB-X304F|
+|Lenovo|Lenovo TAB4 10|X304F|Lenovo TB-X304F|
+|Lenovo|Lenovo TAB4 10|X304F|TB-X304F|
+|Lenovo|Lenovo TAB4 10|X304L|Lenovo TB-X304L|
+|Lenovo|Lenovo TAB4 10|X304N|Lenovo TB-X304N|
+|Lenovo|Lenovo TAB4 10|X304N|TB-X304N|
+|Lenovo|Lenovo TAB4 10|X304X|Lenovo TB-X304X|
+|Lenovo|Lenovo TAB4 10 Plus|X704F|Lenovo TB-X704F|
+|Lenovo|Lenovo TAB4 10 Plus|X704L|Lenovo TB-X704L|
+|Lenovo|Lenovo TAB4 10 Plus|X704N|Lenovo TB-X704N|
+|Lenovo|Lenovo TAB4 10 Plus|X704N|TB-X704N|
+|Lenovo|Lenovo TAB4 10 Plus|X704V|TB-X704V|
+|Lenovo|Lenovo TAB4 10 REL|X504F|Lenovo TB-X504F|
+|Lenovo|Lenovo TAB4 8|TB-8504F|Lenovo TB-8504F|
+|Lenovo|Lenovo TAB4 8|TB-8504F|TB-8504F|
+|Lenovo|Lenovo TAB4 8|TB-8504N|Lenovo TB-8504N|
+|Lenovo|Lenovo TAB4 8|TB-8504X|Lenovo TB-8504X|
+|Lenovo|Lenovo TAB4 8 Plus|TB-8704F|Lenovo TB-8704F|
+|Lenovo|Lenovo TAB4 8 Plus|TB-8704N|Lenovo TB-8704N|
+|Lenovo|Lenovo TAB4 8 Plus|TB-8704V|TB-8704V|
+|Lenovo|Lenovo TAB4 8 Plus|TB-8704X|Lenovo TB-8704X|
 |Lenovo|Lenovo TB-8304F1|TB-8304F1|Lenovo TB-8304F1|
 |Lenovo|Lenovo TB-X104F|X104F|Lenovo TB-X104F|
 |Lenovo|Lenovo TB-X104X|X104X|Lenovo TB-X104X|
-|Lenovo|Lenovo TB-X504F|X504F|Lenovo TB-X504F|
 |Lenovo|Lenovo Tab 7 Essential|7304I|Lenovo TB-7304I|
 |Lenovo|Lenovo Tab 7 Essential|TB-7304I|Lenovo TB-7304I|
 |Lenovo|Lenovo Tab 7 Essential|TB-7304N|Lenovo TB-7304N|
@@ -11290,7 +11349,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab V7|PB-6505M|Lenovo PB-6505M|
 |Lenovo|Lenovo Tab V7|PB-6505NC|Lenovo PB-6505NC|
 |Lenovo|Lenovo Tab p10|X705L|Lenovo TB-X705L|
-|Lenovo|Lenovo Tab4 10 Plus|X704A|TB-X704A|
 |Lenovo|Lenovo X2-CU/VIBE X2|X2-CU|Lenovo X2-CU|
 |Lenovo|Lenovo YOGA A12|YOGA-A12|Lenovo YB-Q501L|
 |Lenovo|Lenovo tab M10|X605M|Lenovo TB-X605M|
@@ -11299,15 +11357,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo-9|zap|Lenovo L78031|
 |Lenovo|LenovoTAB2 A7-30DC|A7-30HC|Lenovo TAB 2 A7-30DC|
 |Lenovo|LenovoTB-7104I|TB7104I|Lenovo TB-7104I|
-|Lenovo|LenovoTB-8304F|TB-8304F|Lenovo TB-8304F|
-|Lenovo|LenovoTB-8704V|TB-8704V|TB-8704V|
 |Lenovo|LenovoTB-X104F1|X104F1|Lenovo TB-X104F1|
 |Lenovo|LenovoTB-X104F1_EEA|X104F1|Lenovo TB-X104F1|
 |Lenovo|LenovoTB-X104L|X104L|Lenovo TB-X104L|
 |Lenovo|LenovoTB-X104L_RU|X104L|Lenovo TB-X104L|
-|Lenovo|LenovoTB-X304F/Lenovo TAB4|X304F|Lenovo TB-X304F|
-|Lenovo|LenovoTB-X304F/Lenovo TAB4|X304F|TB-X304F|
-|Lenovo|LenovoTB-X704F/Lenovo TAB4 10 Plus|X704F|Lenovo TB-X704F|
 |Lenovo|LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1\xef\xbc\x9bAQUOS 58U1; AQUOS 60LX765A|jazz|AQUOS 58U1|
 |Lenovo|LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1\xef\xbc\x9bAQUOS 58U1; AQUOS 60LX765A|jazz|AQUOS 60LX765A|
 |Lenovo|LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1\xef\xbc\x9bAQUOS 58U1; AQUOS 60LX765A|jazz|AQUOS 60UE20A|
@@ -11319,6 +11372,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenvo S960|S960_ROW|Lenovo S960|
 |Lenovo|Moto E3|taidos_row|XT1700|
 |Lenovo|Moto E3 Power|taido_row|XT1706|
+|Lenovo|Moto TAB|X704A|TB-X704A|
 |Lenovo|Motorola M|XT1663|XT1663|
 |Lenovo|Motorola Moto M|kungfu_m|XT1662|
 |Lenovo|N300|Lindos2|Lenovo N300|
@@ -11346,7 +11400,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|PB2 plus|PB2-670M|Lenovo PB2-670M|
 |Lenovo|PB2 plus|PB2-670M1|Lenovo PB2-670M1|
 |Lenovo|PB2-650Y|PB2|Lenovo PB2-650Y|
-|Lenovo|PC-TE510HAW|X704F|PC-TE510HAW|
 |Lenovo|PHAB 2|PB2|Lenovo PB2-650N|
 |Lenovo|PHAB 2 Plus|PB2-670N|Lenovo PB2-670N|
 |Lenovo|PHAB 2 Plus|PB2-670Y|Lenovo PB2-670Y|
@@ -11406,7 +11459,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|S960|S960_AMX_ROW|Lenovo S960|
 |Lenovo|S968t|S968t|Lenovo S968t|
 |Lenovo|Softbank 501LV|501LV|501LV|
-|Lenovo|TAB 10|TB-X103F|Lenovo TB-X103F|
 |Lenovo|TAB 2 A10|A10-70F|Lenovo TAB 2 A10-70F|
 |Lenovo|TAB 2 A10|A10-70L|Lenovo TAB 2 A10-70L|
 |Lenovo|TAB 2 A10|A10-70LC|Lenovo TAB 2 A10-70LC|
@@ -11418,61 +11470,19 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|TAB 2 A7-30TC|A7-30TC|Lenovo 2 A7-30TC|
 |Lenovo|TAB 2 A8-50F|A8-50F|Lenovo 2 A8-50F|
 |Lenovo|TAB 2 A8-50F|A8-50F|Lenovo TAB 2 A8-50F|
-|Lenovo|TAB 3 850F|TB3-850F|Lenovo TB3-850F|
-|Lenovo|TAB 3 850M|TB3-850M|Lenovo TB3-850M|
 |Lenovo|TAB A10-80HC|A10_80HC|TAB A10-80HC|
 |Lenovo|TAB S8-50F|S8-50F|Lenovo TAB S8-50F|
 |Lenovo|TAB S8-50L|S8-50L|Lenovo TAB S8-50L|
 |Lenovo|TAB S8-50LC|S8-50LC|Lenovo S8-50LC|
 |Lenovo|TAB S8-50LC|S8-50LC|Lenovo TAB S8-50LC|
-|Lenovo|TAB3 7 Plus|TB-7703F|Lenovo TB-7703F|
-|Lenovo|TAB3 7 Plus|TB-7703N|Lenovo TB-7703N|
-|Lenovo|TAB3 7 Plus|TB-7703X|Lenovo TB-7703X|
-|Lenovo|TAB3 730F|TB3-730F|Lenovo TB3-730F|
-|Lenovo|TAB3 730M|TB3-730M|Lenovo TB3-730M|
-|Lenovo|TAB3 730X|TB3-730X|Lenovo TB3-730X|
-|Lenovo|TAB3 8 Plus|TB-8703R|Lenovo TB-8703R|
-|Lenovo|TAB3 X70L|TB3-X70L|Lenovo TB3-X70L|
-|Lenovo|TAB3 X70N|TB3-X70N|Lenovo TB3-X70N|
-|Lenovo|TAB4 10|X304L|Lenovo TB-X304L|
-|Lenovo|TAB4 10|X304N|Lenovo TB-X304N|
-|Lenovo|TAB4 10|X304N|TB-X304N|
-|Lenovo|TAB4 10|X304X|Lenovo TB-X304X|
-|Lenovo|TAB4 10 Plus|X704L|Lenovo TB-X704L|
-|Lenovo|TAB4 10 Plus|X704N|Lenovo TB-X704N|
-|Lenovo|TAB4 10 Plus|X704N|TB-X704N|
-|Lenovo|TAB4 10 Plus|X704V|TB-X704V|
 |Lenovo|TAB4 10 Plus|X704Y|Lenovo TB-X704Y|
-|Lenovo|TAB4 8|TB-8504F|Lenovo TB-8504F|
-|Lenovo|TAB4 8|TB-8504F|TB-8504F|
 |Lenovo|TAB4 8|TB-8504L|Lenovo TB-8504L|
-|Lenovo|TAB4 8|TB-8504N|Lenovo TB-8504N|
-|Lenovo|TAB4 8|TB-8504X|Lenovo TB-8504X|
 |Lenovo|TB-8604F|TB-8604F|Lenovo TB-8604F|
-|Lenovo|TB-8704F|TB-8704F|Lenovo TB-8704F|
-|Lenovo|TB-8704N|TB-8704N|Lenovo TB-8704N|
-|Lenovo|TB-8704X|TB-8704X|Lenovo TB-8704X|
-|Lenovo|TB-8804F|TB-8804F|Lenovo TB-8804F|
 |Lenovo|TB-8X04F|TB-8X04F|Lenovo TB-8X04F|
 |Lenovo|TB-X104F1|X104F1|Lenovo TB-X104F1|
 |Lenovo|TB-X104N|X104N|Lenovo TB-X104N|
-|Lenovo|TB2-X30F|TB2-X30F|Lenovo TB2-X30F|
-|Lenovo|TB2-X30F|TB2-X30F|Lenovo TB2-X30F_HFT|
-|Lenovo|TB2-X30F|TB2-X30F|Lenovo TB2-X30F_JLC|
-|Lenovo|TB2-X30F|TB2-X30F|Lenovo TB2-X30F_SCP|
-|Lenovo|TB2-X30F|TB2-X30F|Lenovo TB2-X30F_UK|
-|Lenovo|TB2-X30F|TB2-X30F|Lenovo TB2-X30F_YZA|
-|Lenovo|TB2-X30L|TB2-X30L|Lenovo TB2-X30L|
-|Lenovo|TB2-X30M|TB2-X30M|Lenovo TB2-X30M|
-|Lenovo|TB2-X30M|TB2-X30M|Lenovo TB2-X30M_PRC_YZ_A|
-|Lenovo|TB3 8 Plus|TB-8703F|Lenovo TB-8703F|
-|Lenovo|TB3 8 Plus|TB-8703N|Lenovo TB-8703N|
-|Lenovo|TB3 8 Plus|TB-8703X|Lenovo TB-8703X|
 |Lenovo|TB3-601LV|601LV|601LV|
 |Lenovo|TB3-602LV|602LV|602LV|
-|Lenovo|TB3-710F|TB3-710F|Lenovo TB3-710F|
-|Lenovo|TB3-710I|TB3-710I|Lenovo TB3-710I|
-|Lenovo|TB3-X70F|TB3-X70F|Lenovo TB3-X70F|
 |Lenovo|TB3-X70I|TB3-X70I|Lenovo TB3-X70I|
 |Lenovo|Tab 7 Essential|7304F|Lenovo TB-7304F|
 |Lenovo|Tab 7 Essential|TB-7304F|Lenovo TB-7304F|
@@ -11540,6 +11550,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Z90a40/VIBE Shot|zoom_row|Lenovo Z90a40|
 |Lenovo|ideatv S52|ideatv_S52|ideatv S52|
 |Lenovo|ideatvK82 60LX750A 52LX750A 46LX750A 60LX850A 70LX850A 80LX850A|ideatv_K82|ideatv K82|
+|Lenovo|\xe5\xb0\x8f\xe6\x96\xb0\xe5\xb9\xb3\xe6\x9d\xbf|TB-8804F|Lenovo TB-8804F|
 |Lenovo|\xe5\xb0\x8f\xe6\x96\xb0\xe5\xb9\xb3\xe6\x9d\xbf|X804F|Lenovo TB-X804F|
 |Leotec|LEOTEC|LETAB731|LETAB731|
 |Leotec|Letab1020|Letab1020|SUPERNOVA Qi32|
@@ -11561,7 +11572,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lephone|lephone W21|lephone_W21|lephone_W21|
 |Lephone|lephone W7|lephone_W7|lephone_W7|
 |Lephone|lephone W7|lephone_W7s|lephone_W7|
+|Lephone|lephone W7+|lephone_W7_plus|lephone_W7_plus|
 |Lephone|lephone W7R|lephone_W7R|lephone_W7R|
+|Lephone|lephone_W10b|lephone_W10b|lephone_W10|
 |Lexia Mobile|S1|S1|S1|
 |Lexia Mobile|S2|S2|S2|
 |Lexia Mobile|S3|S3|S3|
@@ -12479,6 +12492,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|EGO|EGO|EGO|
 |Mobicell|FEVER|FEVER|FEVER|
 |Mobicell|FRIO|FRIO|FRIO|
+|Mobicell|Fever_Plus|Fever_Plus|Fever_Plus|
 |Mobicell|HERO X|HERO_X|HERO_X|
 |Mobicell|HYPE|HYPE|HYPE|
 |Mobicell|Icon|Mobicel_Icon|Icon|
@@ -15680,6 +15694,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Universe|Laika|Laika|Laika|
 |SPC Universe|Lightyear|Lightyear|Lightyear|
 |SSB PHONES|SSB504|SSB504|SSB504|
+|SSB PHONES|SSB504A|SSB504A|SSB504A|
 |SSB PHONES|SSB554R|SSB554R|SSB554R|
 |STF Mobile|AERIAL|STFAERIAL|AERIAL|
 |STF Mobile|AERIAL PLUS|AERIAL|AERIAL PLUS|
@@ -23479,6 +23494,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade L5|P172A40|ZTE Blade L5|
 |ZTE|ZTE Blade L8RU|P731F20|ZTE Blade L8RU|
 |ZTE|ZTE Blade V10 Vita|P963F01|ZTE Blade V10 Vita|
+|ZTE|ZTE Blade V1000RU|P671F20D|ZTE Blade V1000RU|
 |ZTE|ZTE Blade V770|P852F52|ZTE Blade V770|
 |ZTE|ZTE Blade V8 Arc|P840V80|ZTE Blade V8 Arc|
 |ZTE|ZTE Blade V9|P450S10|ZTE V0900|
@@ -23488,6 +23504,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Tempo X|grayjoylite|N9137|
 |ZTE|ZTE V0840|P817S01|ZTE V0840|
 |ZTE|ZTE V0920|P840S03|ZTE V0920|
+|ZTE|ZTE V1000|P671S20|ZTE V1000|
 |ZTE|ZTE V890|sdm660_64|ZTE V890|
 |ZTE|ZTE ZFive C LTE|msm8909|Z558VL|
 |ZTE|ZTE-V9VITA|P840F03|ZTE-V9VITA|
