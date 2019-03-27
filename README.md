@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-03-26
+Last sync is 2019-03-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3338,6 +3338,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datalogic|MEMOR 1|M1_PISTOL|Memor 1|
 |Datamini|K508101|K508101|K508101|
 |Datamini|K908H4G|K908H4G|K908H4G|
+|Datamini|T74G|T74G|T74G|
 |Datsun|D5000|D5000|D5000|
 |Datsun|D6000|D6000|D6000|
 |Datsun|Datsun_D5001|Datsun_D5001|Datsun_D5001|
@@ -3868,6 +3869,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Elephone|A4|A4|A4|
 |Elephone|A4_Pro|A4_Pro|A4_Pro|
 |Elephone|A5|A5|A5|
+|Elephone|A6_mini|A6_mini|A6_mini|
 |Elephone|Elephone S8|S8|S8|
 |Elephone|P11|P11|P11|
 |Elephone|P8 3D|P8_3D|P8_3D|
@@ -3982,6 +3984,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ergo|B502 Basic|B502_Basic|B502 Basic|
 |Ergo|B504_Unit|B504_Unit|B504_Unit|
 |Ergo|B505_Unit_4G|B505_Unit_4G|B505_Unit_4G|
+|Ergo|ERGO|B506_Intro|B506_Intro|
 |Ergo|ERGO B500|B500|ERGO B500 First|
 |Ergo|ERGO B501|B501|B501|
 |Ergo|ERGO V551 Aura|V551_Aura|V551 Aura|
@@ -6125,6 +6128,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|EG981|EG981|HS-EG981|
 |Hisense|F10|HS6737MT|BM001|
 |Hisense|F10|HS6737MT|Hisense F10|
+|Hisense|F10|HS6737MT|Hisense L675 PRO|
 |Hisense|F10|HS6737MT|Hisense L675 Pro|
 |Hisense|F10|HS6737MT|RIVIERA F10|
 |Hisense|F102|HS6737MT|Hisense F102|
@@ -7544,6 +7548,17 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|P20 lite|HWANE|ANE-LX1|
 |Huawei|P20 lite|HWANE|ANE-LX2|
 |Huawei|P20 lite|HWANE|ANE-LX3|
+|Huawei|P30|HWELE|ELE-AL00|
+|Huawei|P30|HWELE|ELE-L04|
+|Huawei|P30|HWELE|ELE-L09|
+|Huawei|P30|HWELE|ELE-L29|
+|Huawei|P30|HWELE|ELE-TL00|
+|Huawei|P30 Pro|HWVOG|VOG-AL00|
+|Huawei|P30 Pro|HWVOG|VOG-AL10|
+|Huawei|P30 Pro|HWVOG|VOG-L04|
+|Huawei|P30 Pro|HWVOG|VOG-L09|
+|Huawei|P30 Pro|HWVOG|VOG-L29|
+|Huawei|P30 Pro|HWVOG|VOG-TL00|
 |Huawei|P30 lite|HWMAR|MAR-LX1M|
 |Huawei|P30 lite|HWMAR|MAR-LX2|
 |Huawei|P30 lite|HWMAR|MAR-LX3A|
@@ -11277,6 +11292,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo N Series Chromebook|reks_cheets|Braswell Chrome OS Device|
 |Lenovo|Lenovo N Series Chromebook|reks_cheets|Lenovo Intel Braswell Chromebook|
 |Lenovo|Lenovo N300|Lindos2|Lenovo N300|
+|Lenovo|Lenovo PHAB2|PB2|Lenovo PB2-650M|
+|Lenovo|Lenovo PHAB2|PB2|Lenovo PB2-650N|
+|Lenovo|Lenovo PHAB2|PB2|Lenovo PB2-650Y|
+|Lenovo|Lenovo PHAB2 Plus|PB2-670M|Lenovo PB2-670M|
+|Lenovo|Lenovo PHAB2 Plus|PB2-670N|Lenovo PB2-670N|
+|Lenovo|Lenovo PHAB2 Plus|PB2-670Y|Lenovo PB2-670Y|
+|Lenovo|Lenovo PHAB2 Pro|PB2PRO|Lenovo PB2-690M|
+|Lenovo|Lenovo PHAB2 Pro|PB2PRO|Lenovo PB2-690N|
+|Lenovo|Lenovo PHAB2 Pro|PB2PRO|Lenovo PB2-690Y|
 |Lenovo|Lenovo S5 Pro|sprout|Lenovo L58041|
 |Lenovo|Lenovo S820|S820|Lenovo S820|
 |Lenovo|Lenovo TAB|TB-8803F|Lenovo TB-8803F|
@@ -11294,10 +11318,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo TAB 7|TB-7504F|PC-TE507JAW|
 |Lenovo|Lenovo TAB 7|TB-7504N|Lenovo TB-7504N|
 |Lenovo|Lenovo TAB 7|TB-7504X|Lenovo TB-7504X|
+|Lenovo|Lenovo TAB 7 Essential|TB-7304F|Lenovo TB-7304F|
 |Lenovo|Lenovo TAB 8|TB-8304F|Lenovo TB-8304F|
-|Lenovo|Lenovo TAB3 10 Business|TB3-X70F|Lenovo TB3-X70F|
-|Lenovo|Lenovo TAB3 10 Business|TB3-X70L|Lenovo TB3-X70L|
-|Lenovo|Lenovo TAB3 10 Business|TB3-X70N|Lenovo TB3-X70N|
+|Lenovo|Lenovo TAB3 10 Plus|TB3-X70F|Lenovo TB3-X70F|
+|Lenovo|Lenovo TAB3 10 Plus|TB3-X70L|Lenovo TB3-X70L|
+|Lenovo|Lenovo TAB3 10 Plus|TB3-X70N|Lenovo TB3-X70N|
 |Lenovo|Lenovo TAB3 7|TB3-730F|Lenovo TB3-730F|
 |Lenovo|Lenovo TAB3 7|TB3-730M|Lenovo TB3-730M|
 |Lenovo|Lenovo TAB3 7|TB3-730X|Lenovo TB3-730X|
@@ -11334,33 +11359,32 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo TAB4 8 Plus|TB-8704N|Lenovo TB-8704N|
 |Lenovo|Lenovo TAB4 8 Plus|TB-8704V|TB-8704V|
 |Lenovo|Lenovo TAB4 8 Plus|TB-8704X|Lenovo TB-8704X|
+|Lenovo|Lenovo TAB4 8 REL|TB-8604F|Lenovo TB-8604F|
+|Lenovo|Lenovo TAB4 8 REL|TB-8X04F|Lenovo TB-8X04F|
 |Lenovo|Lenovo TB-8304F1|TB-8304F1|Lenovo TB-8304F1|
-|Lenovo|Lenovo TB-X104F|X104F|Lenovo TB-X104F|
-|Lenovo|Lenovo TB-X104X|X104X|Lenovo TB-X104X|
 |Lenovo|Lenovo Tab 7 Essential|7304I|Lenovo TB-7304I|
 |Lenovo|Lenovo Tab 7 Essential|TB-7304I|Lenovo TB-7304I|
 |Lenovo|Lenovo Tab 7 Essential|TB-7304N|Lenovo TB-7304N|
 |Lenovo|Lenovo Tab 7 Essential|TB-7304X|Lenovo TB-7304X|
+|Lenovo|Lenovo Tab E10|X104F|Lenovo TB-X104F|
+|Lenovo|Lenovo Tab E10|X104L|Lenovo TB-X104L|
+|Lenovo|Lenovo Tab E10|X104N|Lenovo TB-X104N|
+|Lenovo|Lenovo Tab E10|X104X|Lenovo TB-X104X|
 |Lenovo|Lenovo Tab E7|TB7104F|Lenovo TB-7104F|
 |Lenovo|Lenovo Tab E7|TB7104I|Lenovo TB-7104I|
 |Lenovo|Lenovo Tab M10|X605F|Lenovo TB-X605F|
 |Lenovo|Lenovo Tab M10|X605L|Lenovo TB-X605L|
-|Lenovo|Lenovo Tab M10|X705L|Lenovo TB-X705L|
+|Lenovo|Lenovo Tab M10|X605M|Lenovo TB-X605M|
+|Lenovo|Lenovo Tab P10|X705F|Lenovo TB-X705F|
+|Lenovo|Lenovo Tab P10|X705L|Lenovo TB-X705L|
 |Lenovo|Lenovo Tab V7|PB-6505M|Lenovo PB-6505M|
+|Lenovo|Lenovo Tab V7|PB-6505MC|Lenovo PB-6505MC|
 |Lenovo|Lenovo Tab V7|PB-6505NC|Lenovo PB-6505NC|
-|Lenovo|Lenovo Tab p10|X705L|Lenovo TB-X705L|
 |Lenovo|Lenovo X2-CU/VIBE X2|X2-CU|Lenovo X2-CU|
-|Lenovo|Lenovo YOGA A12|YOGA-A12|Lenovo YB-Q501L|
-|Lenovo|Lenovo tab M10|X605M|Lenovo TB-X605M|
-|Lenovo|Lenovo tab P10|X705F|Lenovo TB-X705F|
-|Lenovo|Lenovo tab P10|X705M|Lenovo TB-X705M|
 |Lenovo|Lenovo-9|zap|Lenovo L78031|
 |Lenovo|LenovoTAB2 A7-30DC|A7-30HC|Lenovo TAB 2 A7-30DC|
-|Lenovo|LenovoTB-7104I|TB7104I|Lenovo TB-7104I|
 |Lenovo|LenovoTB-X104F1|X104F1|Lenovo TB-X104F1|
 |Lenovo|LenovoTB-X104F1_EEA|X104F1|Lenovo TB-X104F1|
-|Lenovo|LenovoTB-X104L|X104L|Lenovo TB-X104L|
-|Lenovo|LenovoTB-X104L_RU|X104L|Lenovo TB-X104L|
 |Lenovo|LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1\xef\xbc\x9bAQUOS 58U1; AQUOS 60LX765A|jazz|AQUOS 58U1|
 |Lenovo|LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1\xef\xbc\x9bAQUOS 58U1; AQUOS 60LX765A|jazz|AQUOS 60LX765A|
 |Lenovo|LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1\xef\xbc\x9bAQUOS 58U1; AQUOS 60LX765A|jazz|AQUOS 60UE20A|
@@ -11396,16 +11420,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|PB1-770M/Lenovo PHAB Plus|PB1-770M|EveryPad3|
 |Lenovo|PB1-770M/Lenovo PHAB Plus|PB1-770M|Lenovo PB1-770M|
 |Lenovo|PB1-770N|PB1-770N|Lenovo PB1-770N|
-|Lenovo|PB2|PB2|Lenovo PB2-650M|
-|Lenovo|PB2 plus|PB2-670M|Lenovo PB2-670M|
 |Lenovo|PB2 plus|PB2-670M1|Lenovo PB2-670M1|
-|Lenovo|PB2-650Y|PB2|Lenovo PB2-650Y|
-|Lenovo|PHAB 2|PB2|Lenovo PB2-650N|
-|Lenovo|PHAB 2 Plus|PB2-670N|Lenovo PB2-670N|
-|Lenovo|PHAB 2 Plus|PB2-670Y|Lenovo PB2-670Y|
-|Lenovo|PHAB2 Pro|PB2PRO|Lenovo PB2-690M|
-|Lenovo|PHAB2 Pro|PB2PRO|Lenovo PB2-690N|
-|Lenovo|PHAB2 Pro|PB2PRO|Lenovo PB2-690Y|
 |Lenovo|S1|S1a40|Lenovo S1a40|
 |Lenovo|S1La40|S1La40|Lenovo S1La40|
 |Lenovo|S5000|S5000|Lenovo S5000-F|
@@ -11477,15 +11492,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|TAB S8-50LC|S8-50LC|Lenovo TAB S8-50LC|
 |Lenovo|TAB4 10 Plus|X704Y|Lenovo TB-X704Y|
 |Lenovo|TAB4 8|TB-8504L|Lenovo TB-8504L|
-|Lenovo|TB-8604F|TB-8604F|Lenovo TB-8604F|
-|Lenovo|TB-8X04F|TB-8X04F|Lenovo TB-8X04F|
 |Lenovo|TB-X104F1|X104F1|Lenovo TB-X104F1|
-|Lenovo|TB-X104N|X104N|Lenovo TB-X104N|
 |Lenovo|TB3-601LV|601LV|601LV|
 |Lenovo|TB3-602LV|602LV|602LV|
 |Lenovo|TB3-X70I|TB3-X70I|Lenovo TB3-X70I|
 |Lenovo|Tab 7 Essential|7304F|Lenovo TB-7304F|
-|Lenovo|Tab 7 Essential|TB-7304F|Lenovo TB-7304F|
+|Lenovo|Tab P10|X705M|Lenovo TB-X705M|
 |Lenovo|ThinkPad 11e Chromebook 3rd Gen|ultima_cheets|ThinkPad 11e Chromebook 3rd Gen (Yoga/Clamshell)|
 |Lenovo|ThinkVision28|ThinkVision28|ThinkVision28|
 |Lenovo|Thinkpad 11e Chromebook (4th Gen)/Lenovo Thinkpad Yoga 11e Chromebook (4th Gen)|pyro_cheets|Lenovo Thinkpad 11e Chromebook (4th Gen)/Lenovo Thinkpad Yoga 11e Chromebook (4th Gen)|
@@ -11511,32 +11523,32 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|X3a40|x3_row|Lenovo X3a40|
 |Lenovo|X3c50|X3c50|Lenovo X3c50|
 |Lenovo|X3c70|X3c70|Lenovo X3c70|
-|Lenovo|YB1-X90L/YOGA BOOK|yeti|Lenovo YB1-X90L|
 |Lenovo|YOGA A12|YOGA-A12|Lenovo YB-Q501F|
+|Lenovo|YOGA A12|YOGA-A12|Lenovo YB-Q501L|
 |Lenovo|YOGA BOOK|yeti|Lenovo YB1-X90F|
 |Lenovo|YOGA BOOK|yeti|Lenovo YB1-X90L|
 |Lenovo|YOGA Laptop with Android|YOGABOOK12|Lenovo YB-Q501F|
 |Lenovo|YOGA Laptop with Android|YOGABOOK12|Lenovo YB-Q501L|
+|Lenovo|YOGA Tab 3 10\xe2\x80\x9d|YT3-X50F|Lenovo YT3-X50F|
+|Lenovo|YOGA Tab 3 10\xe2\x80\x9d|YT3-X50L|Lenovo YT3-X50L|
+|Lenovo|YOGA Tab 3 10\xe2\x80\x9d|YT3-X50M|Lenovo YT3-X50M|
+|Lenovo|YOGA Tab 3 8\xe2\x80\x9d|YT3-850F|Lenovo YT3-850F|
+|Lenovo|YOGA Tab 3 8\xe2\x80\x9d|YT3-850L|Lenovo YT3-850L|
+|Lenovo|YOGA Tab 3 8\xe2\x80\x9d|YT3-850M|Lenovo YT3-850M|
+|Lenovo|YOGA Tab 3 PRO 10\xe2\x80\x9d|YT3|Lenovo YT3-X90F|
+|Lenovo|YOGA Tab 3 PRO 10\xe2\x80\x9d|YT3|Lenovo YT3-X90L|
+|Lenovo|YOGA Tab 3 PRO 10\xe2\x80\x9d|YT3|Lenovo YT3-X90X|
+|Lenovo|YOGA Tab 3 PRO 10\xe2\x80\x9d|YT3|Lenovo YT3-X90Y|
+|Lenovo|YOGA Tab 3 PRO 10\xe2\x80\x9d|YT3|Lenovo YT3-X90Z|
+|Lenovo|YOGA Tab 3 Plus|YT-X703F|Lenovo YT-X703F|
+|Lenovo|YOGA Tab 3 Plus|YT-X703L|Lenovo YT-X703L|
+|Lenovo|YOGA Tab 3 Plus|YT-X703X|Lenovo YT-X703X|
 |Lenovo|YOGA Tablet Pro-1050L/Yoga Tablet 2|YT2|YOGA Tablet 2-1050L|
 |Lenovo|YOGA Tablet Pro-1050LC/Yoga Tablet 2|YT2|YOGA Tablet 2-1050LC|
 |Lenovo|YOGA Tablet Pro-1380F/Yoga Tablet 2 Pro|YT2|YOGA Tablet 2 Pro-1380F|
 |Lenovo|YOGA Tablet Pro-1380L/Yoga Tablet 2 Pro|YT2|YOGA Tablet 2 Pro-1380L|
 |Lenovo|YOGA Tablet Pro-830L/Yoga Tablet 2|YT2|YOGA Tablet 2-830L|
 |Lenovo|YOGA Tablet Pro-830LC/Yoga Tablet 2|YT2|YOGA Tablet 2-830LC|
-|Lenovo|YT3-850F/Lenovo YOGATab3|YT3-850F|Lenovo YT3-850F|
-|Lenovo|YT3-850L/Lenovo YOGATab3|YT3-850L|Lenovo YT3-850L|
-|Lenovo|YT3-850M/Lenovo YOGATab3|YT3-850M|Lenovo YT3-850M|
-|Lenovo|YT3-X50F/Yoga3 Tablet|YT3-X50F|Lenovo YT3-X50F|
-|Lenovo|YT3-X50L/Yoga3 Tablet|YT3-X50L|Lenovo YT3-X50L|
-|Lenovo|YT3-X50M/Yoga3 Tablet|YT3-X50M|Lenovo YT3-X50M|
-|Lenovo|YT3-X90F/YOGA3 Tablet Pro|YT3|Lenovo YT3-X90F|
-|Lenovo|YT3-X90L/YOGA3 Tablet Pro|YT3|Lenovo YT3-X90L|
-|Lenovo|YT3-X90X/YOGA3 Tablet Pro|YT3|Lenovo YT3-X90X|
-|Lenovo|YT3-X90Y/YOGA3 Tablet Pro|YT3|Lenovo YT3-X90Y|
-|Lenovo|YT3-X90Z/YOGA3 Tablet Pro|YT3|Lenovo YT3-X90Z|
-|Lenovo|Yoga TAB3 Plus|YT-X703F|Lenovo YT-X703F|
-|Lenovo|Yoga TAB3 Plus|YT-X703L|Lenovo YT-X703L|
-|Lenovo|Yoga TAB3 Plus|YT-X703X|Lenovo YT-X703X|
 |Lenovo|YogaTablet2 -1050F|YT2|YOGA Tablet 2-1050F|
 |Lenovo|YogaTbalet2-830F|YT2|YOGA Tablet 2-830F|
 |Lenovo|Z2|z2r|Lenovo Z2|
@@ -13296,6 +13308,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NEC|G\'z One IS11CA|IS11CA|IS11CA|
 |NEC|G\'zOne TYPE-L CAL21|CAL21|CAL21|
 |NEC|G\xe2\x80\x99zOne CA-201L|CA201L|CA-201L|
+|NEC|LAVIE Tab E|PC-TE410JAW|PC-TE410JAW|
+|NEC|LAVIE Tab E|PC-TE508HAW|PC-TE508HAW|
 |NEC|LaVieTab PC-TE508BAW|TE508BAW|PC-TE508BAW|
 |NEC|LaVieTab PC-TE508S1W/LaVieTab PC-TE508S1L|PC-TE508S1_nec|LaVieTab PC-TE508S1|
 |NEC|LaVieTab PC-TE510S1L|PC-TE510S1_nec|LaVieTab PC-TE510S1|
@@ -13365,8 +13379,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NEC|PC-508T1W|508T1W|PC-TS508T1W|
 |NEC|PC-708T1W|708T1W|PC-TS708T1W|
 |NEC|PC-TE307N1W|PC-TE307N1W|PC-TE307N1W|
-|NEC|PC-TE410JAW|PC-TE410JAW|PC-TE410JAW|
-|NEC|PC-TE508HAW|PC-TE508HAW|PC-TE508HAW|
 |NEC|PC-TE510JAW|PC-TE510JAW|PC-TE510JAW|
 |NEC|PC-TE510N1B|LaVieTab|LaVieTab PC-TE510N1B|
 |NESO|N810 i7|N810_i7_1|N810 i7|
@@ -14900,6 +14912,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|T750|t750|Positivo T750|
 |Positivo|Twist|S520|Positivo Twist M|
 |Positivo|Twist|S520|Positivo Twist S|
+|Positivo|Twist 2 Fit|S509|Twist 2 Fit|
+|Positivo|Twist 2 Pro|S532|Twist 2 Pro|
 |Positivo|Twist 2018|S511|Twist (2018)|
 |Positivo|Twist 4G|S520_4G|Positivo Twist 4G|
 |Positivo|Twist Max|S540|Twist Max|
@@ -20355,6 +20369,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|tmn smarta8|ONE_TOUCH_991D_gsm|tmn smart a8|
 |TERRA|GPAD702|GPAD702|GPAD702|
 |TERRA|TERRA PAD 101|TERRA_PAD_101|TERRA_PAD_101|
+|TERRA|TERRA_PAD_1005|TERRA_PAD_1005|TERRA_PAD_1005|
+|TERRA|TERRA_PAD_1005POKO|TERRA_PAD_1005POKO|TERRA_PAD_1005POKO|
 |TESPRO|Mayumi U1|Mayumi_U1|Mayumi U1|
 |TG&Co.|TG-L800S|PHX|TG-L800S|
 |TG&Co.|TG-L900S|JGR|TG-L900S|
@@ -20644,6 +20660,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teleepoch|U675|U675|U675|
 |Teleepoch|UMX U680C|U680C|U680C|
 |Telefunken|Enjoy TE1|TE1|TE1|
+|Telefunken|TF501_EC|TF501_EC|TF501_EC|
 |Telefunken|TF6|TF6|TF6|
 |Telefunken|VP73_Telefunken|Telefunken|VP73_Telefunken|
 |Telego|F10|F10|F10|
@@ -23492,8 +23509,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade L110|ZTE_BLADE_L110|ZTE Blade L110|
 |ZTE|ZTE Blade L130|P731F30|ZTE Blade L130|
 |ZTE|ZTE Blade L5|P172A40|ZTE Blade L5|
+|ZTE|ZTE Blade L8|P731F20|ZTE Blade L8|
 |ZTE|ZTE Blade L8RU|P731F20|ZTE Blade L8RU|
 |ZTE|ZTE Blade V10 Vita|P963F01|ZTE Blade V10 Vita|
+|ZTE|ZTE Blade V10 Vita RU|P963F01|ZTE Blade V10 Vita RU|
 |ZTE|ZTE Blade V1000RU|P671F20D|ZTE Blade V1000RU|
 |ZTE|ZTE Blade V770|P852F52|ZTE Blade V770|
 |ZTE|ZTE Blade V8 Arc|P840V80|ZTE Blade V8 Arc|
