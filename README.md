@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-03-27
+Last sync is 2019-03-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13429,6 +13429,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NOA Mobile|SPRINT 4G|SPRINT4G|SPRINT4G|
 |NOA Mobile|SparkSE|SparkSE|SparkSE|
 |NOA Mobile|Vivo 4G_r|Vivo4G_r|Vivo 4G_r|
+|NOGA|NOGAPAD7G|NOGAPAD7G|NOGAPAD7G|
 |NVIDIA|SHIELD Android TV|foster|SHIELD Android TV|
 |NVIDIA|SHIELD Android TV|foster|SHIELD Console|
 |NVIDIA|SHIELD TV|darcy|SHIELD Android TV|
@@ -15853,6 +15854,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A|archer|SHW-M100S|
 |Samsung|Galaxy A|archer|archer|
 |Samsung|Galaxy A10|a10|SM-A105F|
+|Samsung|Galaxy A10|a10|SM-A105G|
+|Samsung|Galaxy A10|a10|SM-A105M|
 |Samsung|Galaxy A3|a33g|SM-A300H|
 |Samsung|Galaxy A3|a3lte|SM-A300F|
 |Samsung|Galaxy A3|a3lte|SM-A300M|
@@ -15880,6 +15883,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A30|a30|SM-A305F|
 |Samsung|Galaxy A30|a30|SM-A305FN|
 |Samsung|Galaxy A30|a30|SM-A305G|
+|Samsung|Galaxy A30|a30|SM-A305GN|
+|Samsung|Galaxy A30|a30|SM-A305GT|
 |Samsung|Galaxy A5|a53g|SM-A500H|
 |Samsung|Galaxy A5|a5lte|SM-A500F|
 |Samsung|Galaxy A5|a5lte|SM-A500G|
@@ -15921,6 +15926,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A50|a50|SM-A505FN|
 |Samsung|Galaxy A50|a50|SM-A505G|
 |Samsung|Galaxy A50|a50|SM-A505GN|
+|Samsung|Galaxy A50|a50|SM-A505GT|
 |Samsung|Galaxy A6|a6elteaio|SM-A600AZ|
 |Samsung|Galaxy A6|a6elteatt|SM-A600A|
 |Samsung|Galaxy A6|a6eltemtr|SM-A600T1|
@@ -16577,6 +16583,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M Style|SHW-M340S|SHW-M340S|
 |Samsung|Galaxy M Style|vastoicmcc|GT-I8258|
 |Samsung|Galaxy M10|m10lte|SM-M105F|
+|Samsung|Galaxy M10|m10lte|SM-M105G|
+|Samsung|Galaxy M10|m10lte|SM-M105M|
 |Samsung|Galaxy M20|m20lte|SM-M205F|
 |Samsung|Galaxy M20|m20lte|SM-M205FN|
 |Samsung|Galaxy M20|m20lte|SM-M205G|
