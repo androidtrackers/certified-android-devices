@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-03-28
+Last sync is 2019-03-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1992,6 +1992,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackfox|BMM542D|BMM542D|BMM542D|
 |Blackfox|BMM543D|BMM543D|BMM543D|
 |Blackfox|BMM_533D|BMM_533D|BMM_533D|
+|Blackshark|Black Shark 2|skywalker|SKW-H0|
 |Blackshark|Shark|shark|SKR-H0|
 |Blackshark|Shark 1S|bullhead|AWM-A0|
 |Blacksonic|BS7|BS7|BS7|
@@ -2002,6 +2003,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|A20|A20|A20|
 |Blackview|A30-RU|A30-RU|A30-RU|
 |Blackview|A5|A5|A5|
+|Blackview|A60|A60|A60|
 |Blackview|A7|A7|A7|
 |Blackview|A7PRO|A7Pro|A7Pro|
 |Blackview|A8 MAX|A8_MAX|A8 MAX|
@@ -7185,6 +7187,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI MediaPad M5 Pro|HWCMR|CMR-W19|
 |Huawei|HUAWEI MediaPad M5 lite|HWBAH2|BAH2-L09|
 |Huawei|HUAWEI MediaPad M5 lite|HWBAH2|BAH2-W19|
+|Huawei|HUAWEI MediaPad M5 lite|HWJDN2|JDN2-L09|
 |Huawei|HUAWEI MediaPad T3 10|HWAGS-Q|AGS-L03|
 |Huawei|HUAWEI MediaPad T3 10|HWAGS-Q|AGS-L09|
 |Huawei|HUAWEI MediaPad T3 10|HWAGS-Q|AGS-W09|
@@ -7382,8 +7385,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|M3|hwbeethoven|BTV-DL09|
 |Huawei|M3|hwbeethoven|BTV-W09|
 |Huawei|M310|hwsingleboxm310w|M310|
-|Huawei|M5\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88|HWJDN2|JDN2-AL00|
-|Huawei|M5\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88|HWJDN2|JDN2-W09|
 |Huawei|M620|M620|M620|
 |Huawei|M620|M620|TB01|
 |Huawei|M835|hwm835|HUAWEI-M835|
@@ -7993,6 +7994,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbf M5 \xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88|HWBAH2|BAH2-AL00|
 |Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbf M5 \xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88|HWBAH2|BAH2-AL10|
 |Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbf M5 \xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88|HWBAH2|BAH2-W09|
+|Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbfM5\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88|HWJDN2|JDN2-AL00|
+|Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbfM5\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88|HWJDN2|JDN2-W09|
 |Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbfT3 8\xe8\xa1\x8c\xe4\xb8\x9a\xe4\xb8\x93\xe4\xba\xab\xe7\x89\x88|HWBZK-Q|BZK-L00|
 |Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbfT3 8\xe8\xa1\x8c\xe4\xb8\x9a\xe4\xb8\x93\xe4\xba\xab\xe7\x89\x88|HWBZK-Q|BZK-W00|
 |Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe6\x8f\xbd\xe9\x98\x85M2\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x887.0|hwple703l|PLE-701L|
@@ -13079,6 +13082,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Moviltelco Trade S.L|A76|A76|A76|
 |Movistar|Jappy_Kids|Jappy_Kids|Jappy_Kids|
 |Movitel|M8414|Movitel_M8414|M8414|
+|Movitel|M8416|M8416|M8416|
 |Movitel|M8601|Movitel_M8601|M8601|
 |Movitel|M9102A|M9102A|M9102A|
 |Movitel|M9102B|M9102B|M9102B|
@@ -18065,6 +18069,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS R2|SG706SH|706SH|
 |Sharp|AQUOS R2 SH-03K|SH-03K|SH-03K|
 |Sharp|AQUOS R2 SHV42|LYV|SHV42|
+|Sharp|AQUOS R2 compact (SH-M09)|SH-M09|SH-M09|
 |Sharp|AQUOS R2 compact 803SH|SG803SH|803SH|
 |Sharp|AQUOS SERIE SHL25|SHL25|SHL25|
 |Sharp|AQUOS SERIE SHV32|SHV32|SHV32|
@@ -21894,6 +21899,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|View2 Go|W-P220|View2 Go|
 |Wiko|View2 Plus|W-P210|View2 Plus|
 |Wiko|View3 Pro|W-P611|W-P611-EEA|
+|Wiko|View3 Pro|W-P611|W-P611-TVM|
 |Wiko|W-K200|W-K200|W-K200|
 |Wiko|WAX|s8515|WAX|
 |Wiko|WC300|WC300|WC300|
