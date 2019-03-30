@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-03-29
+Last sync is 2019-03-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3477,6 +3477,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Digitron|i_Buddie|TR10CS1_12|TR10CS1|
 |Digix|TAB-740_G|TAB-740_G|TAB-740_G|
 |Digma|CS7113PL|CS7113PL|CITI 7507 4G CS7113PL|
+|Digma|CS8205PG|CS8205PG|CITI_8588_3G_CS8205PG|
 |Digma|DIGMA CITI 1508 4G CS1114ML|CS1114ML|CITI_1508_4G_CS1114ML|
 |Digma|DIGMA CITI 1532 3G CS1144MG|CS1144MG|CITI 1532 3G CS1144MG|
 |Digma|DIGMA CITI 1544 3G CS1154MG|CS1154MG|CITI_1544_3G_CS1154MG|
@@ -7230,8 +7231,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI Y6 2018|HWATU-QG|ATU-L21|
 |Huawei|HUAWEI Y6 2018|HWATU-QG|ATU-L22|
 |Huawei|HUAWEI Y6 2018|HWATU-QG|ATU-LX3|
+|Huawei|HUAWEI Y6 2019|HWMRD-M1|MRD-LX1|
+|Huawei|HUAWEI Y6 2019|HWMRD-M1|MRD-LX3|
 |Huawei|HUAWEI Y6 Prime 2018|HWATU-QG|ATU-L31|
 |Huawei|HUAWEI Y6 Prime 2018|HWATU-QG|ATU-L42|
+|Huawei|HUAWEI Y6 Prime 2019|HWMRD-M1|MRD-LX1F|
+|Huawei|HUAWEI Y6 Pro 2019|HWMRD-M1|MRD-LX2|
 |Huawei|HUAWEI Y6II|HWCAM-H|HUAWEI CAM-L53|
 |Huawei|HUAWEI Y7 2018|HWLDN-Q|LDN-L01|
 |Huawei|HUAWEI Y7 2018|HWLDN-Q|LDN-L21|
@@ -7840,7 +7845,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|Y6|hwSCLU-Q|SCL-U23|
 |Huawei|Y6 2017|HWMYA-L6737|MYA-L41|
 |Huawei|Y6 2019|HWMRD-M1|MRD-LX1|
-|Huawei|Y6 2019|HWMRD-M1|MRD-LX3|
 |Huawei|Y6 Elite|HWLYO-L6735|HUAWEI LYO-L02|
 |Huawei|Y6 Prime 2019|HWMRD-M1|MRD-LX1F|
 |Huawei|Y6 Pro|HWTIT-AL00|HUAWEI TIT-AL00|
@@ -7852,7 +7856,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|Y6 Pro|HWTIT-L6735|TIT-L01|
 |Huawei|Y6 Pro|HWTIT-L8916|HUAWEI TIT-CL00|
 |Huawei|Y6 Pro|HWTIT-U6582|HUAWEI TIT-U02|
-|Huawei|Y6 Pro 2019|HWMRD-M1|MRD-LX2|
 |Huawei|Y6 \xe2\x85\xa1 Compact|HWLYO-L6735|HUAWEI LYO-L01|
 |Huawei|Y600|HWY600-U|HUAWEI Y600-U00|
 |Huawei|Y600|HWY600-U|HUAWEI Y600-U151|
@@ -15860,6 +15863,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A10|a10|SM-A105F|
 |Samsung|Galaxy A10|a10|SM-A105G|
 |Samsung|Galaxy A10|a10|SM-A105M|
+|Samsung|Galaxy A20|a20|SM-A205F|
+|Samsung|Galaxy A20|a20|SM-A205FN|
 |Samsung|Galaxy A3|a33g|SM-A300H|
 |Samsung|Galaxy A3|a3lte|SM-A300F|
 |Samsung|Galaxy A3|a3lte|SM-A300M|
@@ -17456,6 +17461,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A|gt5note8ltechn|SM-P355C|
 |Samsung|Galaxy Tab A|gtasliteltecs|SM-T387W|
 |Samsung|Galaxy Tab A|gtaxlqltespr|SM-T587P|
+|Samsung|Galaxy Tab A (10.1 2019)|gta3xl|SM-T515|
+|Samsung|Galaxy Tab A (10.1 2019)|gta3xlwifi|SM-T510|
 |Samsung|"Galaxy Tab A (10.5"")"|gta2xlltespr|SM-T597P|
 |Samsung|"Galaxy Tab A (10.5"")"|gta2xlltevzw|SM-T597V|
 |Samsung|Galaxy Tab A (10.5)|gta2xlltecs|SM-T597W|
