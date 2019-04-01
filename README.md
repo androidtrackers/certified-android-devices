@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-03-31
+Last sync is 2019-04-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1992,7 +1992,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackfox|BMM542D|BMM542D|BMM542D|
 |Blackfox|BMM543D|BMM543D|BMM543D|
 |Blackfox|BMM_533D|BMM_533D|BMM_533D|
-|Blackshark|Black Shark 2|skywalker|SKW-H0|
 |Blackshark|Shark|shark|SKR-H0|
 |Blackshark|Shark 1S|bullhead|AWM-A0|
 |Blacksonic|BS7|BS7|BS7|
@@ -2833,6 +2832,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Condor|Infinity E5|Infinity_E5|Infinity E5|
 |Condor|Infinity_E4|Infinity_e4|Infinity e4|
 |Condor|Infinity_a4|Infinity_a4|Infinity a4|
+|Condor|Infinity_i5|Infinity_i5|Infinity_i5|
 |Condor|PGN404|PGN404|PGN404|
 |Condor|PGN409|PGN409|PGN409|
 |Condor|PGN410|PGN410|PGN410|
@@ -6604,6 +6604,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|CN80|CN80-L0-N|CN80|
 |Honeywell|CN80|CN80-L1-C|CN80|
 |Honeywell|CN80|CN80-L1-N|CN80|
+|Honeywell|CN85|CN85-L0-C|CN85|
 |Honeywell|CN85|CN85-L1-C|CN85|
 |Honeywell|CT40|CT40-L0-C|CT40|
 |Honeywell|CT40|CT40-L0-CA|CT40|
@@ -7203,6 +7204,17 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI P smart+ 2019|HWPOT-H|POT-LX1T|
 |Huawei|HUAWEI P20 Lite|HWANE|ANE-LX2J|
 |Huawei|HUAWEI P20 Lite|HWANE|HWV32|
+|Huawei|HUAWEI P30|HWELE|ELE-AL00|
+|Huawei|HUAWEI P30|HWELE|ELE-L04|
+|Huawei|HUAWEI P30|HWELE|ELE-L09|
+|Huawei|HUAWEI P30|HWELE|ELE-L29|
+|Huawei|HUAWEI P30|HWELE|ELE-TL00|
+|Huawei|HUAWEI P30 Pro|HWVOG|VOG-AL00|
+|Huawei|HUAWEI P30 Pro|HWVOG|VOG-AL10|
+|Huawei|HUAWEI P30 Pro|HWVOG|VOG-L04|
+|Huawei|HUAWEI P30 Pro|HWVOG|VOG-L09|
+|Huawei|HUAWEI P30 Pro|HWVOG|VOG-L29|
+|Huawei|HUAWEI P30 Pro|HWVOG|VOG-TL00|
 |Huawei|HUAWEI P30 lite|HWMAR|MAR-LX1M|
 |Huawei|HUAWEI P9 lite mini|HWSLA-Q|SLA-L02|
 |Huawei|HUAWEI P9 lite mini|HWSLA-Q|SLA-L22|
@@ -7232,6 +7244,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI Y6 2018|HWATU-QG|ATU-L22|
 |Huawei|HUAWEI Y6 2018|HWATU-QG|ATU-LX3|
 |Huawei|HUAWEI Y6 2019|HWMRD-M1|MRD-LX1|
+|Huawei|HUAWEI Y6 2019|HWMRD-M1|MRD-LX1N|
 |Huawei|HUAWEI Y6 2019|HWMRD-M1|MRD-LX3|
 |Huawei|HUAWEI Y6 Prime 2018|HWATU-QG|ATU-L31|
 |Huawei|HUAWEI Y6 Prime 2018|HWATU-QG|ATU-L42|
@@ -7325,6 +7338,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|Honor 8 Pro|HWDUK|DUK-L09|
 |Huawei|Honor 8 Smart|HWVNS-H|VEN-L22|
 |Huawei|Honor 8A|HWJAT-M|JAT-L29|
+|Huawei|Honor 8A|HWJAT-M|JAT-L41|
 |Huawei|Honor 8A|HWJAT-M|JAT-LX1|
 |Huawei|Honor 8A|HWJAT-M|JAT-LX3|
 |Huawei|Honor 8x|HWJSN-H|JSN-L42|
@@ -7554,17 +7568,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|P20 lite|HWANE|ANE-LX1|
 |Huawei|P20 lite|HWANE|ANE-LX2|
 |Huawei|P20 lite|HWANE|ANE-LX3|
-|Huawei|P30|HWELE|ELE-AL00|
-|Huawei|P30|HWELE|ELE-L04|
 |Huawei|P30|HWELE|ELE-L09|
 |Huawei|P30|HWELE|ELE-L29|
-|Huawei|P30|HWELE|ELE-TL00|
-|Huawei|P30 Pro|HWVOG|VOG-AL00|
-|Huawei|P30 Pro|HWVOG|VOG-AL10|
-|Huawei|P30 Pro|HWVOG|VOG-L04|
 |Huawei|P30 Pro|HWVOG|VOG-L09|
 |Huawei|P30 Pro|HWVOG|VOG-L29|
-|Huawei|P30 Pro|HWVOG|VOG-TL00|
 |Huawei|P30 lite|HWMAR|MAR-LX1M|
 |Huawei|P30 lite|HWMAR|MAR-LX2|
 |Huawei|P30 lite|HWMAR|MAR-LX3A|
@@ -10679,6 +10686,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lanix|Ilium PAD i7 v2|ILIUM_PADi7V2|Ilium PAD i7 v2|
 |Lanix|Ilium Pad L8X|Ilium_Pad_L8X|Ilium Pad L8X|
 |Lanix|Ilium Pad T7X|Ilium_Pad_T7X|Ilium Pad T7X|
+|Lanix|Ilium Pad X10|Ilium_Pad_X10|Ilium Pad X10|
 |Lanix|Ilium X110|ILIUM_X110|Ilium X110|
 |Lanix|Ilium X120|Ilium_X120|Ilium X120|
 |Lanix|Ilium X120B|Ilium_X120B|Ilium X120B|
@@ -21815,6 +21823,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|JERRY MAX|V3610AN|JERRY MAX|
 |Wiko|JERRY2|v2610|JERRY2|
 |Wiko|JIMMY|s4300ae|JIMMY|
+|Wiko|Jerry4|W-K420|W-K420-TVM|
 |Wiko|K-KOOL|T2800AN|K-KOOL|
 |Wiko|K-KOOL|V2800AN|K-KOOL|
 |Wiko|K300S|W_K300S|W_K300S|
@@ -21829,6 +21838,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|Lenny4|v3720|Lenny4|
 |Wiko|Lenny4 Plus|v3740|Lenny4 Plus|
 |Wiko|MACARON|l8401_international|MACARON|
+|Wiko|P311|W-P311|W-P311-EEA|
 |Wiko|P4903JP|P4903JP|P4903JP|
 |Wiko|PULP|S5420|PULP|
 |Wiko|PULP 4G|l5421|PULP 4G|
