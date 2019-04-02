@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-04-01
+Last sync is 2019-04-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3604,19 +3604,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Diva|QC1004GM|QC1004GM|QC1004GM|
 |Diva|QC7704GM|QC7704GM|QC7704GM|
 |Diva|QC804GM|QC804GM|QC804GM|
-|Docomo|F-01J|F01J|F-01J|
-|Docomo|F-01K|F01K|F-01K|
-|Docomo|F-01L|F01L|F-01L|
-|Docomo|F-02H|F02H|F-02H|
-|Docomo|F-02K|F02K|F-02K|
-|Docomo|F-03H|F03H|F-03H|
-|Docomo|F-03K|F03K|F-03K|
-|Docomo|F-04G|F04G|F-04G|
-|Docomo|F-04K|F04K|F-04K|
-|Docomo|F-05J|F05J|F-05J|
 |Docomo|Japan|TT01|TT01|
 |Docomo|MEDIAS TAB UL N-08D|N-08D|N-08D|
-|Docomo|P-01K|P-01K|P-01K|
 |Docomo|d-01J|d-01J|d-01J|
 |Docomo|d-01K|d-01K|d-01K|
 |Docomo|d-02K|d-02K|d-02K|
@@ -4471,6 +4460,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fujitsu|F-01H|F01H|F-01H|
 |Fujitsu|F-01J|F01J|F-01J|
 |Fujitsu|F-01K|F01K|F-01K|
+|Fujitsu|F-01L|F01L|F-01L|
 |Fujitsu|F-02F|F02F|F-02F|
 |Fujitsu|F-02G|F02G|F-02G|
 |Fujitsu|F-02H|F02H|F-02H|
@@ -4483,8 +4473,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fujitsu|F-04G|F04G|F-04G|
 |Fujitsu|F-04H|F04H|F-04H|
 |Fujitsu|F-04J|F04J|F-04J|
+|Fujitsu|F-04K|F04K|F-04K|
 |Fujitsu|F-05F|F05F|F-05F|
 |Fujitsu|F-05G|F05G|F-05G|
+|Fujitsu|F-05J|F05J|F-05J|
 |Fujitsu|F-06F|F06F|F-06F|
 |Fujitsu|F-09D ANTEPRIMA|F09D|F-09D|
 |Fujitsu|F-09E|F09E|F-09E|
@@ -4630,6 +4622,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |General Mobile|E-tab 4|mehmet|e-tab4|
 |General Mobile|Etab5|Etab5|Etab5|
 |General Mobile|GM 6 d|GM6_d_sprout|GM 6 d|
+|General Mobile|GM 6 ds|G100|G100|
 |General Mobile|GM 6 s|GM6_s_sprout|GM 6|
 |General Mobile|GM 6 s|GM6_s_sprout|GM6|
 |General Mobile|GM 8|GM8_sprout|GM 8|
@@ -7568,10 +7561,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|P20 lite|HWANE|ANE-LX1|
 |Huawei|P20 lite|HWANE|ANE-LX2|
 |Huawei|P20 lite|HWANE|ANE-LX3|
-|Huawei|P30|HWELE|ELE-L09|
-|Huawei|P30|HWELE|ELE-L29|
-|Huawei|P30 Pro|HWVOG|VOG-L09|
-|Huawei|P30 Pro|HWVOG|VOG-L29|
 |Huawei|P30 lite|HWMAR|MAR-LX1M|
 |Huawei|P30 lite|HWMAR|MAR-LX2|
 |Huawei|P30 lite|HWMAR|MAR-LX3A|
@@ -10680,6 +10669,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lanix|Ilium M1|Ilium_M1|Ilium M1|
 |Lanix|Ilium M3|Ilium_M3|Ilium M3|
 |Lanix|Ilium M5|Ilium_M5|Ilium M5|
+|Lanix|Ilium M5s|Ilium_M5s|Ilium M5s|
 |Lanix|Ilium M7|Ilium_M7|Ilium M7|
 |Lanix|Ilium M9|Ilium_M9|Ilium M9|
 |Lanix|Ilium PAD i7|ILIUM_PADi7|Ilium PAD i7|
@@ -13986,6 +13976,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|CPH1893|CPH1893|CPH1893|
 |Oppo|CPH1893RU|CPH1893|CPH1893|
 |Oppo|CPH1903|CPH1903|CPH1903|
+|Oppo|F11|OP4883|CPH1911|
+|Oppo|F11|OP4883|CPH1913|
+|Oppo|F11|OP4883|CPH1915|
 |Oppo|F1f|F1f|F1f|
 |Oppo|F1f|F1f|F1fw|
 |Oppo|F1f|F1f|F1w|
@@ -14448,6 +14441,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|KX-PRXA15|KX-PRXA15|Panasonic KX-PRXA15|
 |Panasonic|LUMIX CM1|DMC-CM1|DMC-CM1|
 |Panasonic|P-01D|pana2_1|P-01D|
+|Panasonic|P-01K|P-01K|P-01K|
 |Panasonic|P-02D|pana2_2|P-02D|
 |Panasonic|P-04D|pana2_4d|P-04D|
 |Panasonic|P-05D|pana2_4a|P-05D|
@@ -15059,6 +15053,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|Grace X5|PSP5470DUO|PSP5470DUO|
 |Prestigio|Grace X7|PSP7505DUO|PSP7505DUO|
 |Prestigio|Grace Y7 LTE|KN54B1L|PSP7546DUO_EEA|
+|Prestigio|LS96A7G|LS96A7G|PMT3196_3G|
 |Prestigio|MT3237_3G|JP70A1W|PMT3237_3G|
 |Prestigio|MULTIPAD WIZE 3027|HF80A01W|PMT3027_Wi|
 |Prestigio|MULTIPAD WIZE 3108 3G|PN80A03G|PMT3108_3G|
@@ -15090,6 +15085,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|PGPS7795|PMT3057_3G|PGPS7795|
 |Prestigio|PMT1177_ 4G|LS70A6L|PMT1177_4G|
 |Prestigio|PMT1177_3G|LS70A5G|PMT1177_3G|
+|Prestigio|PMT1196_3G|LS96A7G|PMT1196_3G|
 |Prestigio|PMT3008_Wi|PMT3008_Wi_C|PMT3008_Wi_C|
 |Prestigio|PMT3011_3G|PMT3011_3G|PMT3011_3G|
 |Prestigio|PMT3021_3G|PMT3011_3G|PMT3021_3G|
@@ -15099,6 +15095,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|PMT3067_3G|PMT3057_3G|PMT3067_3G|
 |Prestigio|PMT3077_Wi|HF80A01W|PMT3077_Wi|
 |Prestigio|PMT3087_3G|PMT3057_3G|PMT3087_3G|
+|Prestigio|PMT3096_3G|LS96A7G|PMT3096_3G|
 |Prestigio|PMT3101_4G|CF10A1L|PMT3101_4G|
 |Prestigio|PMT3137_3G|JP70A1W|PMT3137_3G|
 |Prestigio|PMT3151_3G|WT10A1G|PMT3151_3G|
@@ -15130,6 +15127,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|PMT3767_3G|PMT3777_3G|PMT3767_3G|
 |Prestigio|PMT3777_3G|PMT3777_3G|PMT3777_3G|
 |Prestigio|PMT3797_3G|JU70A1G|PMT3797_3G|
+|Prestigio|PMT3831_4G|CD10A4L|PMT3831_4G|
+|Prestigio|PMT3841_4G|CD10A4L|PMT3841_4G|
+|Prestigio|PMT3851_4G|CD10A4L|PMT3851_4G|
+|Prestigio|PMT3861_4G|CD10A4L|PMT3861_4G|
+|Prestigio|PMT3871_4G|CD10A4L|PMT3871_4G|
 |Prestigio|PMT3878_4G|CD80A3L|PMT3878_4G|
 |Prestigio|PMT5001_3G|PMT5001_3G|PMT5001_3G|
 |Prestigio|PMT5002_Wi|PMT5002_Wi|PMT5002_Wi|
@@ -15863,6 +15865,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Europa|GT-I5503T|GT-I5503T|
 |Samsung|Europa|GT-I5510L|GT-I5510L|
 |Samsung|Exhibit|SGH-T759|SGH-T759|
+|Samsung|G Tab A with S Pen|wisdom|SM-P205|
 |Samsung|GALAXY Camera|gd1|EK-GC100|
 |Samsung|Galaxy (China)|GT-B9062|GT-B9062|
 |Samsung|Galaxy 070|hendrix|YP-GI2|
@@ -17467,9 +17470,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A|gt5note10wifi|SM-P550|
 |Samsung|Galaxy Tab A|gt5note8lte|SM-P355M|
 |Samsung|Galaxy Tab A|gt5note8ltechn|SM-P355C|
+|Samsung|Galaxy Tab A|gta3xl|SM-T515|
 |Samsung|Galaxy Tab A|gtasliteltecs|SM-T387W|
 |Samsung|Galaxy Tab A|gtaxlqltespr|SM-T587P|
-|Samsung|Galaxy Tab A (10.1 2019)|gta3xl|SM-T515|
 |Samsung|Galaxy Tab A (10.1 2019)|gta3xlwifi|SM-T510|
 |Samsung|"Galaxy Tab A (10.5"")"|gta2xlltespr|SM-T597P|
 |Samsung|"Galaxy Tab A (10.5"")"|gta2xlltevzw|SM-T597V|
