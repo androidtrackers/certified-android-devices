@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-04-03
+Last sync is 2019-04-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2235,6 +2235,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|VIVO 5R|BLU_Vivo_5R|Vivo 5R|
 |Blu|VIVO 6|BLU_Vivo_6|Vivo 6|
 |Blu|VIVO GO|V0390WW|VIVO GO|
+|Blu|VIVO VI+|V0310WW|Vivo XI PLUS|
 |Blu|VIVO VI+|V0310WW|Vivo XI+|
 |Blu|VIVO XL|BLU_VIVO_XL|VIVO XL|
 |Blu|Vivo 5 Mini|Vivo_5_Mini|Vivo 5 Mini|
@@ -8358,6 +8359,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|HOT 6 Pro|Infinix-X608|Infinix X608|
 |Infinix|HOT 7|Infinix-X624|Infinix X624|
 |Infinix|HOT 7|Infinix-X624B|Infinix X624B|
+|Infinix|HOT 7 PRO|Infinix-X625|Infinix X625B|
+|Infinix|HOT 7 PRO|Infinix-X625D|Infinix X625D|
 |Infinix|HOT NOTE|Infinix-X551|Infinix-X551|
 |Infinix|HOT S3|Infinix-X573|Infinix X573|
 |Infinix|HOT S3|Infinix-X573|Infinix X573S|
@@ -8392,6 +8395,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|RACE Bolt 3|X455|Infinix X455|
 |Infinix|S2|Infinix-X522|Infinix S2|
 |Infinix|S2|Infinix-X522|Infinix S2 Pro|
+|Infinix|S4|Infinix-X626|Infinix X626|
+|Infinix|S4|Infinix-X626B|Infinix X626B|
 |Infinix|SURF 2|INFINIX_X511|Infinix X511|
 |Infinix|Smart 2|Infinix-X5515|Infinix X5515|
 |Infinix|Smart 2|Infinix-X5515F|Infinix X5515F|
@@ -10652,6 +10657,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lanix|ILIUM S670|Ilium_S670|ILIUM S670|
 |Lanix|ILIUM X110|ILIUM_X110|ILIUM X110|
 |Lanix|ILIUM_PADE7|ILIUM_PADE7V10|ILIUM_PADE7|
+|Lanix|ILium M7s|Ilium_M7s|Ilium M7s|
 |Lanix|Ilium Alpha 3|Ilium_Alpha_3|Ilium Alpha 3|
 |Lanix|Ilium Alpha 9|Ilium_Alpha_9|Ilium Alpha 9|
 |Lanix|Ilium L1050|Ilium_L1050|Ilium L1050|
@@ -17036,6 +17042,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S10|beyond1q|SM-G973U|
 |Samsung|Galaxy S10|beyond1q|SM-G973U1|
 |Samsung|Galaxy S10|beyond1q|SM-G973W|
+|Samsung|Galaxy S10 5G|beyondx|SM-G977N|
 |Samsung|Galaxy S10+|beyond2|SM-G975F|
 |Samsung|Galaxy S10+|beyond2|SM-G975N|
 |Samsung|Galaxy S10+|beyond2q|SM-G9750|
@@ -17484,9 +17491,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A|gt5note8lte|SM-P355M|
 |Samsung|Galaxy Tab A|gt5note8ltechn|SM-P355C|
 |Samsung|Galaxy Tab A|gta3xl|SM-T515|
+|Samsung|Galaxy Tab A|gta3xlwifi|SM-T510|
 |Samsung|Galaxy Tab A|gtasliteltecs|SM-T387W|
 |Samsung|Galaxy Tab A|gtaxlqltespr|SM-T587P|
-|Samsung|Galaxy Tab A (10.1 2019)|gta3xlwifi|SM-T510|
 |Samsung|"Galaxy Tab A (10.5"")"|gta2xlltespr|SM-T597P|
 |Samsung|"Galaxy Tab A (10.5"")"|gta2xlltevzw|SM-T597V|
 |Samsung|Galaxy Tab A (10.5)|gta2xlltecs|SM-T597W|
@@ -21031,6 +21038,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|One Max RU|One_Max|One Max|
 |Umidigi|One Pro|One_Pro|One Pro|
 |Umidigi|S2PRO|S2_PRO|S2_PRO|
+|Umidigi|S3_Pro|S3_Pro|S3_Pro|
 |Umidigi|Z2|Z2|Z2|
 |Umidigi|Z2 Pro|Z2_PRO|Z2_PRO|
 |Umix|Lite L|UMIX_LITE_L|UMIX LITE L|
@@ -23421,6 +23429,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z559DL|Z559DL|Z559DL|
 |ZTE|Z6410|Z6410|Z6410S|
 |ZTE|Z660G|nice|Z660G|
+|ZTE|Z6621O|Z6621O|Z6621O|
 |ZTE|Z665C|seanplus|Z665C|
 |ZTE|Z667|demi|Z667|
 |ZTE|Z667T|bonnie|Z667T|
@@ -23553,6 +23562,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE BLade Zmax|crocus|Z982|
 |ZTE|ZTE BV0870|P840V71|ZTE BV0870|
 |ZTE|ZTE Blade A0722|P817F18|ZTE Blade A0722|
+|ZTE|ZTE Blade A3 2019RU|P932F20|ZTE Blade A3 2019RU|
 |ZTE|ZTE Blade A5 2019|P963F30|ZTE Blade A5 2019|
 |ZTE|ZTE Blade A522|P817E53|ZTE Blade A522|
 |ZTE|ZTE Blade A531|P932F10|ZTE Blade A531|
@@ -23561,6 +23571,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade L5|P172A40|ZTE Blade L5|
 |ZTE|ZTE Blade L8|P731F20|ZTE Blade L8|
 |ZTE|ZTE Blade L8RU|P731F20|ZTE Blade L8RU|
+|ZTE|ZTE Blade V10|P671F20|ZTE Blade V10|
 |ZTE|ZTE Blade V10 Vita|P963F01|ZTE Blade V10 Vita|
 |ZTE|ZTE Blade V10 Vita RU|P963F01|ZTE Blade V10 Vita RU|
 |ZTE|ZTE Blade V1000RU|P671F20D|ZTE Blade V1000RU|
@@ -23577,6 +23588,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE V890|sdm660_64|ZTE V890|
 |ZTE|ZTE ZFive C LTE|msm8909|Z558VL|
 |ZTE|ZTE-V9VITA|P840F03|ZTE-V9VITA|
+|ZTE|ZTE_Blade_V1000|P671F20|ZTE Blade V1000|
 |ZTE|ZTU31|P852F52|ZTU31|
 |ZTE|ZXY-ZTE_N8010|N8010_YM|ZXY-ZTE_N8010|
 |ZTE|ZXY-ZTE_V6700|V6700|ZTE V6700|
