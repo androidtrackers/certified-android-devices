@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-04-04
+Last sync is 2019-04-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -15686,6 +15686,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SK Broadband|B tv smart|BHX-S100|BHX-S100|
 |SK Broadband|B tv smart|BKO-S200|BKO-S200|
 |SK Broadband|BKO-AT800|BKO-AT800|BKO-AT800|
+|SK Broadband|BTV|vip5442|BAS-AT800|
 |SK Telesys||K4|SK-S170|
 |SK Telesys||msm8255_k5|SK-S150|
 |SK Telesys||qsd8250_s1|SK-S100|
