@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-04-07
+Last sync is 2019-04-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7844,7 +7844,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|Y6|hwSCLU-Q|HUAWEI SCL-U31|
 |Huawei|Y6|hwSCLU-Q|SCL-U23|
 |Huawei|Y6 2017|HWMYA-L6737|MYA-L41|
-|Huawei|Y6 2019|HWMRD-M1|MRD-LX1|
 |Huawei|Y6 Elite|HWLYO-L6735|HUAWEI LYO-L02|
 |Huawei|Y6 Pro|HWTIT-AL00|HUAWEI TIT-AL00|
 |Huawei|Y6 Pro|HWTIT-L6735|HUAWEI TIT-AL00|
