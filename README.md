@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-04-09
+Last sync is 2019-04-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1390,7 +1390,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ZenFone Max Pro M2 (ZB630KL/ZB631KL)|ASUS_X01BD_1|ASUS_X01BDA|
 |Asus|ZenFone Max Pro M2 (ZB630KL/ZB631KL)|ASUS_X01BD_1|ZB631KL|
 |Asus|ZenFone Max Pro M2 (ZB630KL/ZB631KL)|ASUS_X01BD_2|ASUS_X01BDA|
-|Asus|ZenFone Max Shot|ASUS_A001D_2|ASUS_A001D|
+|Asus|ZenFone Max Shot (ZB634KL)|ASUS_A001D_2|ASUS_A001D|
 |Asus|ZenFone Selfie (ZD551KL)|ASUS_Z00U_1|ASUS_Z00UD|
 |Asus|ZenFone Selfie (ZD551KL)|ASUS_Z00U_1|ASUS_Z00UDA|
 |Asus|ZenFone Selfie (ZD551KL)|ASUS_Z00U_2|ASUS_Z00UD|
@@ -7346,6 +7346,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|Honor 8A|HWJAT-M|JAT-L41|
 |Huawei|Honor 8A|HWJAT-M|JAT-LX1|
 |Huawei|Honor 8A|HWJAT-M|JAT-LX3|
+|Huawei|Honor 8X|HWJSN-H|JSN-L21|
 |Huawei|Honor 8x|HWJSN-H|JSN-L42|
 |Huawei|Honor 9|HWSTF|STF-AL00|
 |Huawei|Honor 9|HWSTF|STF-AL10|
@@ -14464,6 +14465,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|FZ-X1|FZ-X1|FZ-X1|
 |Panasonic|FZ-X1|FZ-X1VU|FZ-X1|
 |Panasonic|FZ-X1|FZ-X1VUC|FZ-X1|
+|Panasonic|GX700C|GX700C|GX700C|
 |Panasonic|HDPSEB v2|HDPSEBv2|HD PSEB v2|
 |Panasonic|HDPSEB v3|HDPSEBv3|HD PSEB v3|
 |Panasonic|HDPSEB v4|HDPSEBv4|HD PSEB v4|
