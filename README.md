@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-04-10
+Last sync is 2019-04-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7219,6 +7219,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI P30 Pro|HWVOG|VOG-L09|
 |Huawei|HUAWEI P30 Pro|HWVOG|VOG-L29|
 |Huawei|HUAWEI P30 Pro|HWVOG|VOG-TL00|
+|Huawei|HUAWEI P30 lite|HWMAR|MAR-LX1A|
 |Huawei|HUAWEI P30 lite|HWMAR|MAR-LX1M|
 |Huawei|HUAWEI P9 lite mini|HWSLA-Q|SLA-L02|
 |Huawei|HUAWEI P9 lite mini|HWSLA-Q|SLA-L22|
@@ -14176,6 +14177,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|RMX1811|RMX1811|RMX1811|
 |Oppo|RMX1831|RMX1831|RMX1831|
 |Oppo|RMX1833|RMX1833|RMX1833|
+|Oppo|Reno|OP47DD|CPH1917|
+|Oppo|Reno|OP47DDL1|CPH1917|
+|Oppo|Reno \xe6\xa0\x87\xe5\x87\x86\xe7\x89\x88|OP46B1|PCAM00|
+|Oppo|Reno \xe6\xa0\x87\xe5\x87\x86\xe7\x89\x88|OP46B1|PCAT00|
 |Oppo|U3|U3|U3|
 |Oppo|U707|U707|U707|
 |Oppo|U707T|U707T|U707T|
@@ -15913,6 +15918,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A10|a10|SM-A105F|
 |Samsung|Galaxy A10|a10|SM-A105G|
 |Samsung|Galaxy A10|a10|SM-A105M|
+|Samsung|Galaxy A2 Core|a2corelte|SM-A260F|
+|Samsung|Galaxy A2 Core|a2corelte|SM-A260G|
 |Samsung|Galaxy A20|a20|SM-A205F|
 |Samsung|Galaxy A20|a20|SM-A205FN|
 |Samsung|Galaxy A20|a20|SM-A205G|
@@ -15945,6 +15952,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A30|a30|SM-A305G|
 |Samsung|Galaxy A30|a30|SM-A305GN|
 |Samsung|Galaxy A30|a30|SM-A305GT|
+|Samsung|Galaxy A40|a40|SM-A405FM|
+|Samsung|Galaxy A40|a40|SM-A405FN|
 |Samsung|Galaxy A5|a53g|SM-A500H|
 |Samsung|Galaxy A5|a5lte|SM-A500F|
 |Samsung|Galaxy A5|a5lte|SM-A500G|
@@ -16645,6 +16654,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M10|m10lte|SM-M105F|
 |Samsung|Galaxy M10|m10lte|SM-M105G|
 |Samsung|Galaxy M10|m10lte|SM-M105M|
+|Samsung|Galaxy M10|m10lte|SM-M105Y|
 |Samsung|Galaxy M20|m20lte|SM-M205F|
 |Samsung|Galaxy M20|m20lte|SM-M205FN|
 |Samsung|Galaxy M20|m20lte|SM-M205G|
@@ -17068,6 +17078,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S10+|beyond2|SM-G975F|
 |Samsung|Galaxy S10+|beyond2|SM-G975N|
 |Samsung|Galaxy S10+|beyond2q|SM-G9750|
+|Samsung|Galaxy S10+|beyond2q|SM-G9758|
 |Samsung|Galaxy S10+|beyond2q|SM-G975U|
 |Samsung|Galaxy S10+|beyond2q|SM-G975U1|
 |Samsung|Galaxy S10+|beyond2q|SM-G975W|
@@ -17582,6 +17593,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A 9.7|gt5note10wifi|SM-P550|
 |Samsung|Galaxy Tab A 9.7|gt5note10wifichn|SM-P550|
 |Samsung|Galaxy Tab A S 8.0|gt58ltebmc|SM-T357W|
+|Samsung|"Galaxy Tab A(10.1| 2019)"|gta3xl|
 |Samsung|Galaxy Tab A(10.5)|gta2xllte|SM-T597|
 |Samsung|Galaxy Tab A6|gtexswifi|SM-T280|
 |Samsung|Galaxy Tab A8|gtaslitelteusc|SM-T387R4|
@@ -17691,6 +17703,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S4|gts4lltevzw|SM-T837V|
 |Samsung|Galaxy Tab S4|gts4lwifi|SM-T830|
 |Samsung|Galaxy Tab S4|gts4lwifichn|SM-T830|
+|Samsung|Galaxy Tab S5e|gts4lv|SM-T725|
+|Samsung|Galaxy Tab S5e|gts4lvwifi|SM-T720|
 |Samsung|Galaxy Tab2 10.1|espresso10att|SAMSUNG-SGH-I497|
 |Samsung|Galaxy Tab2 10.1|espresso10can|SGH-I497|
 |Samsung|Galaxy Tab2 10.1|espresso10rf|GT-P5100|
@@ -19945,6 +19959,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 3|A3A|5052Y_EEA|
 |TCT (Alcatel)|Alcatel 3|Dive_73|Orange Dive 73|
 |TCT (Alcatel)|Alcatel 3|Gauss|5053A|
+|TCT (Alcatel)|Alcatel 3|Gauss|5053D|
 |TCT (Alcatel)|Alcatel 3|Gauss|5053D_EEA|
 |TCT (Alcatel)|Alcatel 3|Gauss|5053K|
 |TCT (Alcatel)|Alcatel 3|Gauss|5053K_EEA|
@@ -22133,6 +22148,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|MI 8 UD|equuleus|equuleus|
 |Xiaomi|MI 9|cepheus|MI 9|
 |Xiaomi|MI 9 SE|grus|MI 9 SE|
+|Xiaomi|MI 9 SE|grus|Mi 9 SE|
 |Xiaomi|MI MAX|helium|MI MAX|
 |Xiaomi|MI MAX|hydrogen|MI MAX|
 |Xiaomi|MI MAX 2|oxygen|MI MAX 2|
