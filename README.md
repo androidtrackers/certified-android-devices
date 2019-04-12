@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-04-11
+Last sync is 2019-04-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7348,6 +7348,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|Honor 8A|HWJAT-M|JAT-LX1|
 |Huawei|Honor 8A|HWJAT-M|JAT-LX3|
 |Huawei|Honor 8X|HWJSN-H|JSN-L21|
+|Huawei|Honor 8X|HWJSN-H|JSN-L22|
+|Huawei|Honor 8X|HWJSN-H|JSN-L23|
 |Huawei|Honor 8x|HWJSN-H|JSN-L42|
 |Huawei|Honor 9|HWSTF|STF-AL00|
 |Huawei|Honor 9|HWSTF|STF-AL10|
@@ -8461,6 +8463,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Zero 5|Infinix-X603|Infinix X603|
 |Infinix|Zero 5 Pro|Infinix-X603|Infinix X603|
 |Infinix|Zero 5 Pro|Infinix-X603|Infinix X603-LTE|
+|Infinix|Zero 6|Infinix-X620|Infinix X620B|
+|Infinix|Zero 6 Pro|Infinix-X620|Infinix X620|
 |Infocus|A1S|AE2|InFocus M505|
 |Infocus|Amazing A8|D78|Amazing A8|
 |Infocus|Big Tab|IF195a|IF195a|
@@ -16061,9 +16065,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A8s|a8sqlte|SM-G887F|
 |Samsung|Galaxy A8s|a8sqltechn|SM-G8870|
 |Samsung|Galaxy A9 (2018)|a9y18qlte|SM-A920F|
-|Samsung|Galaxy A9 (2018)|a9y18qltechn|SM-A9200|
+|Samsung|Galaxy A9 (2018)|a9y18qltekx|SM-A920N|
 |Samsung|Galaxy A9 2018|a9y18qltechn|SM-A9200|
-|Samsung|Galaxy A9 2018|a9y18qltekx|SM-A920N|
 |Samsung|Galaxy A9 Pro|a8sqlteks|SM-G887N|
 |Samsung|Galaxy A9 Pro|a9xproltechn|SM-A9100|
 |Samsung|Galaxy A9 Pro|a9xproltesea|SM-A910F|
@@ -16073,6 +16076,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A9 Star Lite|a6pltechn|SM-A605XC|
 |Samsung|Galaxy A9 Star Lite|a6pltecmcc|SM-A6058|
 |Samsung|Galaxy A9(2016)|a9xltechn|SM-A9000|
+|Samsung|Galaxy A9s|a9y18qltechn|SM-A9200|
 |Samsung|Galaxy Ace|GT-S5830|GT-S5830|
 |Samsung|Galaxy Ace|GT-S5830B|GT-S5830B|
 |Samsung|Galaxy Ace|GT-S5830C|GT-S5830C|
@@ -20574,6 +20578,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|CAMON X Pro|TECNO-CA8|TECNO CA8S|
 |Tecno|CAMON i 2|TECNO-ID5a|TECNO ID5a|
 |Tecno|CAMON i 2X|TECNO-ID5b|TECNO ID5b|
+|Tecno|CAMON i 4|TECNO-CB7|TECNO CB7|
+|Tecno|CAMON i 4|TECNO-CB7j|TECNO CB7j|
+|Tecno|CAMON i SKY3|TECNO-KB3|TECNO KB3|
 |Tecno|CAMON i2|TECNO-ID5|TECNO ID5|
 |Tecno|CAMON iAIR 2+|TECNO-ID3k|TECNO ID3k|
 |Tecno|CAMON iCLICK 2|TECNO-ID6|TECNO ID6|
@@ -20581,6 +20588,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|CAMON iSky|TECNO-IN2|TECNO IN2|
 |Tecno|CAMON iSky2|TECNO-IN1-Pro|TECNO IN1 Pro|
 |Tecno|COMAN CM|TECNO-CA6|TECNO CA6S|
+|Tecno|Camon 11S|TECNO-CB7|TECNO CB7|
 |Tecno|Camon C9|TECNO-C9|TECNO-C9|
 |Tecno|Camon CX|TECNO-CX|TECNO Camon CX|
 |Tecno|Camon CX Air|TECNO-CX-Air|TECNO CX Air|
@@ -20639,6 +20647,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|POP 1s Pro|TECNO-F4Pro|TECNO F4 Pro|
 |Tecno|POP 2|TECNO-B1|TECNO B1|
 |Tecno|POP 2 Power|TECNO-B1p|TECNO B1p|
+|Tecno|POP 2s|TECNO-KB2h|TECNO KB2h|
 |Tecno|POP1|TECNO-F3|TECNO F3|
 |Tecno|Phantom6|Phantom6|Phantom6|
 |Tecno|Phantom6 plus|Phantom6-Plus|Phantom6-Plus|
@@ -20674,6 +20683,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|SPARK 2|TECNO-KA7-O|TECNO KA7O|
 |Tecno|SPARK 2 YOUTH|TECNO-LB6|TECNO LB6|
 |Tecno|SPARK 3|TECNO-KB7|TECNO KB7|
+|Tecno|SPARK 3|TECNO-KB7j|TECNO KB7j|
+|Tecno|SPARK 3 Pro|TECNO-KB8|TECNO KB8|
 |Tecno|SPARK CM|TECNO-KA9|TECNO KA9|
 |Tecno|SPARK Plus|TECNO-K9|TECNO K9|
 |Tecno|SPARK Pro|TECNO-K8|TECNO K8|
