@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-04-12
+Last sync is 2019-04-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14810,6 +14810,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Plaisio|Turbox_S3|Turbox_S3|Turbox_S3|
 |Plaisio|lamda|Turbo-X_lamda|Turbo-X lamda|
 |Planet Computers|Gemini|Gemini_4G|Gemini_4G|
+|PlayPoland|Play Now|dctiw362p|DCTIW362_PLAY|
 |Plum|Z518|Z518|Z518|
 |Plum|Z519|Z519|Z519|
 |Plum|Z621|Z621|Z621|
