@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-04-15
+Last sync is 2019-04-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2137,6 +2137,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|ENERGY_DIAMOND_MINI|ENERGY_DIAMOND_MINI|ENERGY_DIAMOND_MINI|
 |Blu|Energy X 2|BLU_Energy_X_2|Energy X 2|
 |Blu|Energy X LTE|BLU_Energy_X_LTE|Energy X LTE|
+|Blu|G9|G0130WW|G9|
 |Blu|GRAND 5.5 HD|BLU_GRAND_5_5_HD|BLU GRAND 5.5 HD|
 |Blu|Grand 5.5 HD II|G210Q|Grand 5.5 HD II|
 |Blu|Grand Energy|Grand_Energy|Grand Energy|
@@ -3626,6 +3627,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|BL7000|BL7000|BL7000|
 |Doogee|MIX Lite|t766_dg_a66|MIX Lite|
 |Doogee|Mix|MIX|MIX|
+|Doogee|N10|Y7|N10|
 |Doogee|S30|S30|S30|
 |Doogee|S50|t758_dg_m3t_n|S50|
 |Doogee|S55|S55|S55|
@@ -5783,6 +5785,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HYUNDAI_MAESTRO|HDT_7427G_PLUS|HDT_7427G_PLUS|HDT_7427G_PLUS|
 |HYUNDAI_MAESTRO|HDT_7433H_PLUS|HDT_7433H_PLUS|HDT_7433H_PLUS|
 |Hackers|HackersTab|Hackers_Tab|Hackers_Tab|
+|Hafury|A7|A7|A7|
 |Hafury|HAFURY MIX|HAFURY_MIX|HAFURY MIX|
 |Hafury|HAFURY UMAX|HAFURY_UMAX|HAFURY UMAX|
 |Haier|A-TT00|A-TT00|A-TT00|
@@ -7347,9 +7350,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|Honor 8A|HWJAT-M|JAT-L41|
 |Huawei|Honor 8A|HWJAT-M|JAT-LX1|
 |Huawei|Honor 8A|HWJAT-M|JAT-LX3|
+|Huawei|Honor 8C|HWBKK-Q|BKK-L21|
 |Huawei|Honor 8X|HWJSN-H|JSN-L21|
 |Huawei|Honor 8X|HWJSN-H|JSN-L22|
 |Huawei|Honor 8X|HWJSN-H|JSN-L23|
+|Huawei|Honor 8X Max|HWARE-QC|ARE-L22HN|
 |Huawei|Honor 8x|HWJSN-H|JSN-L42|
 |Huawei|Honor 9|HWSTF|STF-AL00|
 |Huawei|Honor 9|HWSTF|STF-AL10|
@@ -7577,6 +7582,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|P20 lite|HWANE|ANE-LX1|
 |Huawei|P20 lite|HWANE|ANE-LX2|
 |Huawei|P20 lite|HWANE|ANE-LX3|
+|Huawei|P30 lite|HWMAR|MAR-LX1A|
 |Huawei|P30 lite|HWMAR|MAR-LX1M|
 |Huawei|P30 lite|HWMAR|MAR-LX2|
 |Huawei|P30 lite|HWMAR|MAR-LX3A|
@@ -9898,6 +9904,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG G7 ThinQ|judyln|LM-G710N|
 |LGE|LG G7 ThinQ|judyln|LM-G710VM|
 |LGE|LG G7 fit|falcon|LM-Q850|
+|LGE|LG G8 ThinQ\xe2\x84\xa2|alphalm|LM-G820|
 |LGE|LG GRACE\xe2\x84\xa2 LTE|lv517|LGL59BL|
 |LGE|LG Gentle|cfm|LG-F660L|
 |LGE|LG Gpad X 10.1|t1lte|LG-V930|
@@ -13768,6 +13775,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuu|A5L+|N5501LE|N5501L|
 |Nuu|A6L-C|A6L-C|A6L-C|
 |Nuu|A6L-G|A6L-G|A6L-G|
+|Nuu|A7L|N5002LA|N5002L|
 |Nuu|G1|N5704LA|N5704L|
 |Nuu|G2|S6001LE|S6001L|
 |Nuu|M2|NUU_M2|NUU_M2|
