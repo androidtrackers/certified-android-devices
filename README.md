@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-04-16
+Last sync is 2019-04-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3571,6 +3571,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Digma|Linx X1 PRO 3G LS4051MG|LS4051MG|Linx X1 PRO 3G LS4051MG|
 |Digma|Optima Kids 7|TS7203RW|Optima Kids 7 TS7203RW|
 |Digma|Optima_8019N_4G|TS8182ML|Optima 8019N 4G TS8182ML|
+|Digma|Optima_8027_3G|TS8211PG|Optima_8027_3G_TS8211PG|
 |Digma|PS8163PL|PS8163PL|Plane 8550S 4G PS8163PL|
 |Digma|Plane 7012M 3G PS7082MG|PS7082MG|Plane_7012M_3G_PS7082MG|
 |Digma|Plane 7546S 3G|PS7158PG|Plane_7546S_3G_PS7158PG|
@@ -7165,6 +7166,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|H892L|hwH892L|HUAWEI H892L|
 |Huawei|HAUWEI Y5 Lite 2018|HWCAG-L6737M|CAG-L22|
 |Huawei|HONOR 10i|HWHRY-HF|HRY-LX1T|
+|Huawei|HONOR 20i|HWHRY-HF|HRY-AL00Ta|
 |Huawei|HONOR 4X|hwChe2|Che2-L12|
 |Huawei|HONOR V20|HWPCT|PCT-AL10|
 |Huawei|HONOR V20|HWPCT|PCT-TL10|
@@ -7551,6 +7553,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|MediaPad7|hws7601w|MediaPad 7 Vogue|
 |Huawei|MediaQ M380|HWM380|M380-10|
 |Huawei|Nexus 6P|angler|Nexus 6P|
+|Huawei|Nova 3i|HWINE|INE-LX2r|
 |Huawei|P10|HWVTR|VTR-AL00|
 |Huawei|P10|HWVTR|VTR-L09|
 |Huawei|P10|HWVTR|VTR-L29|
@@ -7911,6 +7914,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|Y7|HWTRT-Q|TRT-LX1|
 |Huawei|Y7|HWTRT-Q|TRT-LX2|
 |Huawei|Y7|HWTRT-Q|TRT-LX3|
+|Huawei|Y7 Prime 2019|HWDUB-Q|DUB-LX1|
+|Huawei|Y7 Pro 2019|HWDUB-Q|DUB-AL20|
 |Huawei|Youth|hws7701u|Orinoquia Gran Roraima S7-702u|
 |Huawei|ascend-5w|HWH1621-Q|H1623|
 |Huawei|d-01G|d-01G|d-01G|
@@ -7970,6 +7975,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|nova 3e|HWANE|ANE-TL00|
 |Huawei|nova 3i|HWINE|INE-AL00|
 |Huawei|nova 3i|HWINE|INE-LX1|
+|Huawei|nova 3i|HWINE|INE-LX1r|
 |Huawei|nova 3i|HWINE|INE-LX2|
 |Huawei|nova 3i|HWINE|INE-TL00|
 |Huawei|nova 4|HWVCE|VCE-AL00|
@@ -8068,6 +8074,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|\xe8\x8d\xa3\xe8\x80\x80 V9 play|HWJMM-Q|JMM-TL00|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x80 V9 play|HWJMM-Q|JMM-TL10|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x8010\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88|HWHRY-H|HRY-TL00|
+|Huawei|\xe8\x8d\xa3\xe8\x80\x8020i|HWHRY-H|HRY-AL00T|
+|Huawei|\xe8\x8d\xa3\xe8\x80\x8020i|HWHRY-HF|HRY-TL00T|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x804A|hwSCL-Q|SCL-AL00|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x805X|HNKIW-Q|KIW-AL10|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x805X|HNKIW-Q|KIW-AL20|
@@ -8426,6 +8434,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Smart 2 Pro|Infinix-X5514|Infinix X5514D|
 |Infinix|Smart 3|Infinix-X5516|Infinix X5516|
 |Infinix|Smart 3|Infinix-X5516B|Infinix X5516B|
+|Infinix|Smart 3|Infinix-X5516C|Infinix X5516C|
 |Infinix|X405|up09_infinix_x405_gms|Infinix X405|
 |Infinix|X505|X505|Infinix X505|
 |Infinix|X521|Infinix-X521|Infinix HOT S|
@@ -8840,6 +8849,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|S31|S31|itel S31|
 |Itel|S32|itel-S32|itel S32|
 |Itel|S32 Mini|itel-W5003|itel W5003|
+|Itel|S33|itel-S33|itel S33|
 |Itel|S41|itel_S41|itel S41|
 |Itel|S42|itel-S42|itel S42|
 |Itel|it1355|itel_it1355|itel it1355|
@@ -9043,6 +9053,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KD Interactive|TAB3-Premium-XTREME3|Pixi4-7_WIFI_KD|01516|
 |KD Interactive|TabXL-Smart-Smart2in1-Tab10|U3A_10_WIFI_KD|02018|
 |KDDI|CablePlus STB|C02AS|C02AS|
+|KDDI|Cableplus STB-2|C02AS5|C02AS5|
 |KDDI|Power Up Unit|C02BB1|C02BB1|
 |KDDI|STW2000|H02ST1|STW2000|
 |KDDI|SmartTV Box|C01AS|SMARTTVBOX|
@@ -9147,6 +9158,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kenbo|K7|K7|K7|
 |Kenbo|K9|K9|K9|
 |Kenbo|O51|O51|O51|
+|Kenbo|O61|O61|O61|
 |Kennex|MD7053G|MD7053G|MD7053G|
 |Kenwood|KWSA80K|XP8800|KWSA80K|
 |Kenxinda|K10|K10|K10|
@@ -11621,6 +11633,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lephone|lephone W7|lephone_W7s|lephone_W7|
 |Lephone|lephone W7+|lephone_W7_plus|lephone_W7_plus|
 |Lephone|lephone W7R|lephone_W7R|lephone_W7R|
+|Lephone|lephone_P2Plus|lephone_P2Plus|lephone P2Plus|
 |Lephone|lephone_W10b|lephone_W10b|lephone_W10|
 |Lexia Mobile|S1|S1|S1|
 |Lexia Mobile|S2|S2|S2|
@@ -13573,7 +13586,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Neffos|Neffos C5 Plus|C5_Plus|Neffos C5 Plus|
 |Neffos|Neffos C7|C7|Neffos C7|
 |Neffos|Neffos C7|C7|Neffos_C7|
-|Neffos|Neffos C7|Y7|Neffos_Y7|
 |Neffos|Neffos C7 Lite|C7_Lite|Neffos C7 Lite|
 |Neffos|Neffos C9|C9|Neffos_C9|
 |Neffos|Neffos C9A|C9A|Neffos_C9A|
@@ -13585,6 +13597,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Neffos|Neffos Y5s|Y5s|Neffos Y5s|
 |Neffos|Neffos Y6|Y6|Neffos Y6|
 |Neffos|Neffos Y7|Y7|Neffos Y7|
+|Neffos|Neffos Y7|Y7|Neffos_Y7|
 |Neffos|TP703A|C5a|Neffos C5a|
 |Neffos|TP704A|C5s|Neffos C5s|
 |Neffos|TP704A|Y5_Lite|Neffos Y5 Lite|
@@ -15571,6 +15584,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|RCT6283W27|RCT6283W27|RCT6283W27|
 |RCA|RCT6293W23|RCT6293W23|RCT6293W23|
 |RCA|RCT6378W2|RCT6378W2|RCT6378W2|
+|RCA|RCT6513W87DK5e|RCT6513W87DK5e|RCT6513W87DK5e|
 |RCA|RCT6573W23|RCT6573W23|RCT6573W23|
 |RCA|RCT6603W47|RCT6603W47DK|RCT6603W47DK|
 |RCA|RCT6672W23|RCT6672W23|RCT6672W23|
@@ -15617,6 +15631,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rectron|MX702M1|MX702M1|MX702M1|
 |Red-X|RX4618|RX4618|RX4618|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
+|Redmi|Redmi 7|onc|Redmi 7|
+|Redmi|Redmi 7|onc|Redmi Y3|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Reeder|A8i Q2|A8i-Q2|A8i-Q2|
 |Reeder|M7 Plus|reeder_M7Plus|M7Plus|
@@ -18515,6 +18531,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smartab|ST1009X|ST1009X|ST1009X|
 |Smartab|ST700|ST700|ST700|
 |Smartab|ST7150|ST7150|ST7150|
+|Smartab|ST7150-19|ST7150-19|ST7150-19|
 |Smartab|ST8200|ST8200|ST8200|
 |Smartab|STJR700|STJR700|STJR700|
 |Smartab|STJR76|STJR76|STJR76|
@@ -22238,6 +22255,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Redmi 6 Pro|sakura_india|Redmi 6 Pro|
 |Xiaomi|Redmi 6A|cactus|Redmi 6A|
 |Xiaomi|Redmi 6Pro|sakura|Redmi 6 Pro|
+|Xiaomi|Redmi 7|onc|ONC|
+|Xiaomi|Redmi 7|onc|Redmi 7|
 |Xiaomi|Redmi Go|tiare|Redmi Go|
 |Xiaomi|Redmi Note 3|hennessy|Redmi Note 3|
 |Xiaomi|Redmi Note 3|kate|Redmi Note 3|
