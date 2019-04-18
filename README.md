@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-04-17
+Last sync is 2019-04-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1670,6 +1670,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|AX1091|Bmobile_AX1091|AX1091|
 |BMobile|AX1091|Bmobile_AX1091|Bmobile_AX1091|
 |BMobile|AX1091|Bmobile_AX1091A|AX1091|
+|BMobile|AX1092|Bmobile_AX1092_MV03|AX1092|
 |BMobile|AX1100|Bmobile_AX1100|AX1100|
 |BMobile|AX660|Bmobile|AX660|
 |BMobile|AX680+|Bmobile_AX680_|AX680+|
@@ -7268,6 +7269,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI Y7 2019|HWDUB-Q|DUB-LX1|
 |Huawei|HUAWEI Y7 2019|HWDUB-Q|DUB-LX3|
 |Huawei|HUAWEI Y7 Prime 2018|HWLDN-Q|LDN-L21|
+|Huawei|HUAWEI Y7 Prime 2018|HWLDN-Q|LDN-LX2|
 |Huawei|HUAWEI Y7 Pro 2019|HWDUB-Q|DUB-LX2|
 |Huawei|HUAWEI Y9 2018|HWFLA-H|FLA-LX1|
 |Huawei|HUAWEI Y9 2018|HWFLA-H|FLA-LX2|
@@ -8895,6 +8897,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel A20|itel-A20|itel A20|
 |Itel|itel A23|itel-A23|itel A23|
 |Itel|itel A23|itel-A23F|itel A23|
+|Itel|itel A23|itel-A23S|itel A23S|
 |Itel|itel A31|itel_A31|itel A31|
 |Itel|itel A40|itel-A40|itel A40|
 |Itel|itel A41|itel_A41|itel A41|
@@ -9720,6 +9723,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG AKA|aka|LG-H788n|
 |LGE|LG Aristo|lv3|LGMS210|
 |LGE|LG Aristo 3|cv1s|LM-X220|
+|LGE|LG Aristo 3+|cv1s|LM-X220|
 |LGE|LG Bello II|v10|LG-X150|
 |LGE|LG Bello II|v10|LG-X155|
 |LGE|LG Bello II|v10|LG-X165g|
@@ -14496,6 +14500,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|FZ-X1|FZ-X1VU|FZ-X1|
 |Panasonic|FZ-X1|FZ-X1VUC|FZ-X1|
 |Panasonic|GX700C|GX700C|GX700C|
+|Panasonic|GX880C|GX01C|GX01C|
+|Panasonic|GZ1000|GZ01C|GZ01C|
 |Panasonic|HDPSEB v2|HDPSEBv2|HD PSEB v2|
 |Panasonic|HDPSEB v3|HDPSEBv3|HD PSEB v3|
 |Panasonic|HDPSEB v4|HDPSEBv4|HD PSEB v4|
@@ -15719,6 +15725,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SAKAISIO|FP-U320-711-WIFI|U320-WF|FP-U320-711-WIFI|
 |SAKAISIO|FP-U320-711-WWAN|U320-3G|FP-U320-711-WWAN|
 |SBET|X7|X7|X7|
+|SCIENTIA|BBT1019863|BBT1019863|BBT1019863|
 |SED Wireless|GPH-650R|SPH_650R|GPH-650R|
 |SELECLINE|MID7526CM|MID7526CM|NID_7010|
 |SELECLINE|MID_9526CM|MID_9526CM|S952|
@@ -18487,6 +18494,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|PLATINUM_O_B1|PLATINUM_O|PLATINUM_O|
 |Sky Devices|Platinum C4|Platinum_C4|Platinum C4|
 |Sky Devices|Platinum C55|Platinum_C55|Platinum C55|
+|Sky Devices|Platinum G5|Platinum_G5|Platinum_G5|
 |Sky Devices|Platinum M5|Platinum_M5|Platinum_M5|
 |Sky Devices|Platinum View2|PLATINUM_VIEW2|PLATINUM_VIEW2|
 |Sky Devices|Platinum_UNO|Platinum_UNO|Platinum_UNO|
@@ -19347,6 +19355,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TAG Heuer|Connected Modular 41|spectralite|TAG Heuer|
 |TAG Heuer|Connected Modular 45|anthracite|TAG Heuer|
 |TAG Heuer|Connected Modular 45 (China)|anthracite|TAG Heuer|
+|TAG Heuer|TAG-DC|TAG-DC|TAG-DC|
 |TCL|C9|A3A_XL_4G|5199I|
 |TCL|L55E6700UDS|movo_la|movo_la|
 |TCL|LE50UHDE5692G|movo|movo|
@@ -21069,6 +21078,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor X2|Armor_X2|Armor_X2|
 |Ulefone|Armor_3|Armor_3|Armor_3|
 |Ulefone|Armor_5|Ulefone_Armor_5|Ulefone_Armor_5|
+|Ulefone|Armor_6E|Armor_6E|Armor_6E|
 |Ulefone|Armor_6S|Armor_6S|Armor_6S|
 |Ulefone|Armor_X2|Armor_X2|Armor_X2|
 |Ulefone|MIX|t816_gq_ulefone|MIX|
@@ -21092,9 +21102,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|S9_Pro|S9_Pro|S9_Pro|
 |Ulefone|T1|Ulefone_T1|T1|
 |Ulefone|T2|T2|T2|
+|Ulefone|Ulefone_Note_7|Ulefone_Note_7|Ulefone_Note 7|
 |Ulefone|Ulefone_S1|Ulefone_S1|Ulefone_S1|
 |Ulefone|Ulefone_S7|Ulefone_S7|Ulefone S7|
 |Ulefone|Ulefone_X|Ulefone_X|Ulefone_X|
+|Ulefone|Ulfone_S11|Ulefone_S11|Ulefone_S11|
 |Umax|10Qa_3G|10Qa_3G|VisionBook_10Qa_3G|
 |Umax|7Qa_3G|7Qa_3G|7Qa_3G|
 |Umax|MediaTek|8Qa_3G|8Qa_3G|
