@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-04-18
+Last sync is 2019-04-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -623,6 +623,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|X5 Soul Pro|X5_Soul_Pro|X5_Soul_Pro|
 |AllView|X5_Soul|X5_Soul|X5_Soul|
 |AllView|X5_Soul_Style|X5_Soul_Style|X5_Soul_Style|
+|AllView|X6 Soul mini|X6_Soul_mini|X6_Soul_mini|
 |Alldocube|T1001|T1001|T1001|
 |Alldocube|U1005|U1005|U1005|
 |Alldocube|U1005E|U1005E|U1005E|
@@ -3173,6 +3174,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|MAX 2|MAX_2|MAX 2|
 |Cubot|NOTE S|CUBOT_CHEETAH_2|CUBOT CHEETAH 2|
 |Cubot|NOTE S|CUBOT_NOTE_S|CUBOT_NOTE_S|
+|Cubot|QUEST|QUEST|QUEST|
+|Cubot|QUEST LITE|QUEST_LITE|QUEST LITE|
 |Cubot|RAINBOW 2|RAINBOW_2|RAINBOW 2|
 |Cubot|Rainbow|RAINBOW|RAINBOW|
 |Cubot|X19|X19|X19|
@@ -3232,6 +3235,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|Dexp Ursus P380|P380|P380|
 |DEXP|Dexp Ursus S170i|S170i|S170i|
 |DEXP|Dexp Ursus S270|S270|S270|
+|DEXP|E180|E180|E180|
 |DEXP|EL450|EL450|Ixion EL450|
 |DEXP|ERA|G155|G155|
 |DEXP|ERA|MS550|MS550|
@@ -8169,6 +8173,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hurricane|DZIRE|DZIRE|DZIRE|
 |Hurricane|Edge|Edge|Edge|
 |Hurricane|Epic|Epic|Epic|
+|Hurricane|Excite|Excite|Excite|
 |Hurricane|Fire|Fire|Fire|
 |Hurricane|Flame|Flame|Flame|
 |Hurricane|Flex|Flex|Flex|
@@ -8437,6 +8442,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Smart 3|Infinix-X5516|Infinix X5516|
 |Infinix|Smart 3|Infinix-X5516B|Infinix X5516B|
 |Infinix|Smart 3|Infinix-X5516C|Infinix X5516C|
+|Infinix|Smart 3 Plus|Infinix-X627V|Infinix X627V|
+|Infinix|Smart 3 Plus|Infinix-X627W|Infinix X627W|
 |Infinix|X405|up09_infinix_x405_gms|Infinix X405|
 |Infinix|X505|X505|Infinix X505|
 |Infinix|X521|Infinix-X521|Infinix HOT S|
@@ -8813,7 +8820,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|A12|itel_A12|itel A12|
 |Itel|A13|itel_A13|itel A13|
 |Itel|A13 Plus|itel-A13Plus|itel A13Plus|
+|Itel|A14|itel-A14|itel A14RU|
 |Itel|A15|itel-A15|itel A15|
+|Itel|A15|itel-A15|itel A15R|
 |Itel|A21|itel_A21|itel A21|
 |Itel|A22|itel-A22|itel A22|
 |Itel|A22 Pro|itel-A22-Pro|itel A22 Pro|
@@ -8825,6 +8834,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|A44|itel-A44|itel A44|
 |Itel|A44 Air|itel-L5502|itel L5502|
 |Itel|A44 Pro|itel-A44-Pro|itel A44 Pro|
+|Itel|A45|itel-A45|itel A45|
+|Itel|A46|itel-L5503|itel L5503|
 |Itel|A51|itel_A51|itel A51|
 |Itel|A52B|itel-A52B|itel A52B|
 |Itel|A62|itel-A62|itel A62|
@@ -8838,6 +8849,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|P31|itel-P31|itel P31|
 |Itel|P32|itel-P32|itel P32|
 |Itel|P33|itel-W5504|itel W5504|
+|Itel|P33 Plus|itel-W6001|itel W6001|
 |Itel|P51|P51|itel P51|
 |Itel|Prime 4|itel_Prime4|itel Prime 4|
 |Itel|S11|S11|itel S11|
@@ -8893,6 +8905,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel A16|itel-A16|itel A16|
 |Itel|itel A16|itel-A16-BD|itel A16|
 |Itel|itel A16 Plus|itel-A16-Plus|itel A16 Plus|
+|Itel|itel A16 Plus|itel-A16-Plus|itel A16 Plus RU|
 |Itel|itel A16 Plus|itel-A16-Plus-BD|itel A16 Plus|
 |Itel|itel A20|itel-A20|itel A20|
 |Itel|itel A23|itel-A23|itel A23|
@@ -11912,6 +11925,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MOVIC|F5003|F5003|F5003|
 |MOVIC|K4|K4|K4|
 |MOVIC|MOVIC-W2|MOVIC-W2|MOVIC-W2|
+|MOVIC|Movic F4501|F4501|Movic F4501|
 |MOVIC|S5501|S5501|S5501|
 |MPman|MPDC1006|MPDC1006|MPDC1006|
 |MPman|MPDC706|MPDC706|MPDC706|
@@ -12214,6 +12228,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Meizu|meizu M8|meizuM8|meizu M8|
 |Meizu|meizu X8|X8|meizu X8|
 |Meizu|meizu note8|meizunote8|meizu note8|
+|Meizu|meizu note9|meizunote9|meizu note9|
 |Memorex|MTAB-07530A|MTAB-07530A|MTAB-07530A|
 |Memorex|MTAB-0753AK|MTAB-07535AK|MTAB-07535AK|
 |Memorex|MTAB-08530A|MTAB-08530A|MTAB-08530A|
@@ -13130,6 +13145,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Movic|MOVIC_W5|MOVIC_W5|MOVIC-W5|
 |Moviltelco Trade|A58B|A58B|A58B|
 |Moviltelco Trade|A85|A85|A85|
+|Moviltelco Trade|A87|A87|A87|
 |Moviltelco Trade|KIREI A5Q PLUS|Azumi_KIREI_A5Q_PLUS|KIREI A5Q PLUS|
 |Moviltelco Trade|L506|L506|L506|
 |Moviltelco Trade|mtt L452|L452|L452|
@@ -13138,8 +13154,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Moviltelco Trade S.L|A76|A76|A76|
 |Movistar|Jappy_Kids|Jappy_Kids|Jappy_Kids|
 |Movitel|M8414|Movitel_M8414|M8414|
+|Movitel|M8415|M8415|M8415|
 |Movitel|M8416|M8416|M8416|
 |Movitel|M8601|Movitel_M8601|M8601|
+|Movitel|M9101A|M9101A|M9101A|
+|Movitel|M9101B|M9101B|M9101B|
 |Movitel|M9102A|M9102A|M9102A|
 |Movitel|M9102B|M9102B|M9102B|
 |Moxee Technologies|X10|X10|X10|
@@ -13698,6 +13717,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia 3.1 Plus|ROO|Nokia 3.1 Plus|
 |Nokia|Nokia 3.1 Plus|ROON_sprout|Nokia 3.1 Plus|
 |Nokia|Nokia 3.1 Plus|ROO_sprout|Nokia 3.1 Plus|
+|Nokia|Nokia 3.2|DPL_sprout|Nokia 3.2|
+|Nokia|Nokia 4.2|PAN_sprout|Nokia 4.2|
 |Nokia|Nokia 5|ND1|TA-1024|
 |Nokia|Nokia 5|ND1|TA-1027|
 |Nokia|Nokia 5|ND1|TA-1044|
@@ -14277,6 +14298,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|C12|C12|C12|
 |Oukitel|C12 Plus|C12_Plus|C12 Plus|
 |Oukitel|C12 Pro|C12_Pro|C12 Pro|
+|Oukitel|C13 Pro|C13_Pro|C13 Pro|
+|Oukitel|C15 Pro|C15_Pro|C15 Pro|
 |Oukitel|C6 Pro|C6_Pro|C6 Pro|
 |Oukitel|C8|C8|C8|
 |Oukitel|C8 4G|C8_4G|C8 4G|
@@ -18424,6 +18447,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sigma Mobile|X-TREME PQ37|X-TREME_PQ37|X-TREME_PQ37|
 |Sigma Mobile|X-TREME PQ52|X-TREME_PQ52|X-TREME PQ52|
 |Sigma Mobile|X-Treme_PQ51|X-Treme_PQ51|X-Treme_PQ51|
+|Sigma Mobile|X-treme PQ20|X-treme_PQ20|X-treme_PQ20|
 |Sigma Mobile|X-treme PQ29|X-treme_PQ29|X-treme_PQ29|
 |Sigma Mobile|X-treme PQ53|X-treme_PQ53|X-treme PQ53|
 |Sigma Mobile|X-treme PQ54|X-treme_PQ54|X-treme_PQ54|
@@ -20801,6 +20825,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teleepoch|UMX U680C|U680C|U680C|
 |Telefunken|Enjoy TE1|TE1|TE1|
 |Telefunken|TF501_EC|TF501_EC|TF501_EC|
+|Telefunken|TF5X|TF5X|TF5X|
 |Telefunken|TF6|TF6|TF6|
 |Telefunken|VP73_Telefunken|Telefunken|VP73_Telefunken|
 |Telego|F10|F10|F10|
@@ -21482,6 +21507,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Viumee|EV5 X|EV5_X|EV5 X|
 |Viumee|EV6|EV6|EV6|
 |Viumee|EV6 ELITE|EV6_ELITE|EV6 ELITE|
+|Viumee|EV7 Play|EV7_Play|EV7_Play|
 |Viumee|SMART EV5|SMART_EV5|SMART_EV5|
 |Vivax|FUN S20|FUN_S20|FUN_S20|
 |Vivax|Point X502|Point_X502|Point X502|
@@ -23657,12 +23683,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE BLade Zmax|crocus|Z982|
 |ZTE|ZTE BV0870|P840V71|ZTE BV0870|
 |ZTE|ZTE Blade A0722|P817F18|ZTE Blade A0722|
+|ZTE|ZTE Blade A3 2019|P932K20|ZTE Blade A3 2019|
 |ZTE|ZTE Blade A3 2019RU|P932F20|ZTE Blade A3 2019RU|
 |ZTE|ZTE Blade A5 2019|P963F30|ZTE Blade A5 2019|
+|ZTE|ZTE Blade A5 2019RU|P963F30P|ZTE Blade A5 2019RU|
 |ZTE|ZTE Blade A522|P817E53|ZTE Blade A522|
 |ZTE|ZTE Blade A531|P932F10|ZTE Blade A531|
 |ZTE|ZTE Blade L110|ZTE_BLADE_L110|ZTE Blade L110|
 |ZTE|ZTE Blade L130|P731F30|ZTE Blade L130|
+|ZTE|ZTE Blade L130RU|P731F30|ZTE Blade L130RU|
 |ZTE|ZTE Blade L5|P172A40|ZTE Blade L5|
 |ZTE|ZTE Blade L8|P731F20|ZTE Blade L8|
 |ZTE|ZTE Blade L8RU|P731F20|ZTE Blade L8RU|
