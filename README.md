@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-04-21
+Last sync is 2019-04-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3134,6 +3134,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Coppernic|C-eight|C-eight|C-eight|
 |Coppernic|C-five|C-five|C-five|
 |Coppernic|C-five|C-five-WIFI|C-five|
+|Coppernic|C-one|C-One_v2_e-ID|C-One|
 |Covia|CP-J55a|x5090_rh_j9_covia|CP-J55a|
 |Covia|CP-J55aW|CP_J55aW|CP-J55aW|
 |Covia|CP-L45s|CP-L45s|CP-L45s|
@@ -9302,6 +9303,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kruger&Matz|MOVE8|MOVE_8|MOVE_8|
 |Kruger&Matz|MOVE8mini|MOVE8mini|MOVE8mini|
 |Kubo|K5|K5|K5|
+|Kudae|K101|K101|K101|
 |Kult|Gladiator|Gladiator|Gladiator|
 |Kult|KT05|KT05|KT05|
 |Kult|Kult Ambition|Ambition|Ambition|
@@ -10821,6 +10823,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|Iris90|iris90|iris90|
 |Lava|LE9810|LE9810|LAVA LE9810|
 |Lava|LE9820|LE9820|LAVA LE9820|
+|Lava|LF9810_2GB|LF9810_2GB|LAVA LF9810_2GB|
 |Lava|LH9810|LH9810|LH9810|
 |Lava|LN9810|LN9810|LAVA LN9810|
 |Lava|LN9820|LN9820|LN9820|
@@ -18518,6 +18521,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|PLATINUM_O_B1|PLATINUM_O|PLATINUM_O|
 |Sky Devices|Platinum C4|Platinum_C4|Platinum C4|
 |Sky Devices|Platinum C55|Platinum_C55|Platinum C55|
+|Sky Devices|Platinum F5|Platinum_F5_2100|Platinum_F5|
 |Sky Devices|Platinum G5|Platinum_G5|Platinum_G5|
 |Sky Devices|Platinum M5|Platinum_M5|Platinum_M5|
 |Sky Devices|Platinum View2|PLATINUM_VIEW2|PLATINUM_VIEW2|
@@ -23914,6 +23918,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |dazen|dazen 6E|dazen_6E|dazen 6E|
 |duraMOBI|DK66|DK66|DK66|
 |eBox|EBoxTv|diw387eb|EboxTV|
+|eSTREAM 4K|IPA1104HDW-02|kunlun|IPA1104HDW-02|
 |i-Buddie|TA10CA1|TA10CA1|TA10CA1|
 |i-Buddie|TA10CA2|TA10CA2|TA10CA2|
 |i-Buddie|TA10CA3|TA10CA3|TA10CA3|
@@ -24088,6 +24093,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iVOOMi|i1s|i1s|i1s|
 |iVOOMi|i2|i2|i2|
 |iVOOMi|i2 Lite|i2_Lite|i2_Lite|
+|iVOOMi|iV_301|iV_301|iV_301|
 |iYOU|iYOU_M1|iYOU_M1|iYOU_M1|
 |imose|BAM-II|BAM-II|BAM-II|
 |intelkom|meanIT_C1|meanIT_C1|meanIT_C1|
