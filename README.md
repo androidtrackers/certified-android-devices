@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-04-22
+Last sync is 2019-04-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12229,6 +12229,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Meizu|meizu C9|meizuC9|meizu C9|
 |Meizu|meizu C9 pro|meizuC9pro|meizu C9 pro|
 |Meizu|meizu M8|meizuM8|meizu M8|
+|Meizu|meizu M8 lite|M8lite|meizu M8 lite|
 |Meizu|meizu X8|X8|meizu X8|
 |Meizu|meizu note8|meizunote8|meizu note8|
 |Meizu|meizu note9|meizunote9|meizu note9|
@@ -15985,6 +15986,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A20|a20|SM-A205F|
 |Samsung|Galaxy A20|a20|SM-A205FN|
 |Samsung|Galaxy A20|a20|SM-A205G|
+|Samsung|Galaxy A20|a20|SM-A205GN|
 |Samsung|Galaxy A3|a33g|SM-A300H|
 |Samsung|Galaxy A3|a3lte|SM-A300F|
 |Samsung|Galaxy A3|a3lte|SM-A300M|
@@ -16014,6 +16016,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A30|a30|SM-A305G|
 |Samsung|Galaxy A30|a30|SM-A305GN|
 |Samsung|Galaxy A30|a30|SM-A305GT|
+|Samsung|Galaxy A30|a30|SM-A305YN|
 |Samsung|Galaxy A40|a40|SM-A405FM|
 |Samsung|Galaxy A40|a40|SM-A405FN|
 |Samsung|Galaxy A5|a53g|SM-A500H|
@@ -16058,6 +16061,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A50|a50|SM-A505G|
 |Samsung|Galaxy A50|a50|SM-A505GN|
 |Samsung|Galaxy A50|a50|SM-A505GT|
+|Samsung|Galaxy A50|a50|SM-A505YN|
 |Samsung|Galaxy A6|a6elteaio|SM-A600AZ|
 |Samsung|Galaxy A6|a6elteatt|SM-A600A|
 |Samsung|Galaxy A6|a6eltemtr|SM-A600T1|
@@ -16099,6 +16103,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A7(2016)|a7xltechn|SM-A7100|
 |Samsung|Galaxy A7(2017)|a7y17lte|SM-A720F|
 |Samsung|Galaxy A7(2017)|a7y17lteskt|SM-A720S|
+|Samsung|Galaxy A70|a70q|SM-A705FN|
+|Samsung|Galaxy A70|a70q|SM-A705GM|
 |Samsung|Galaxy A8|SCV32|SCV32|
 |Samsung|Galaxy A8|a8elte|SM-A800F|
 |Samsung|Galaxy A8|a8elte|SM-A800YZ|
@@ -17766,6 +17772,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S4|gts4lwifi|SM-T830|
 |Samsung|Galaxy Tab S4|gts4lwifichn|SM-T830|
 |Samsung|Galaxy Tab S5e|gts4lv|SM-T725|
+|Samsung|Galaxy Tab S5e|gts4lv|SM-T725N|
 |Samsung|Galaxy Tab S5e|gts4lvwifi|SM-T720|
 |Samsung|Galaxy Tab2 10.1|espresso10att|SAMSUNG-SGH-I497|
 |Samsung|Galaxy Tab2 10.1|espresso10can|SGH-I497|
@@ -20710,6 +20717,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|POP 1s Pro|TECNO-F4Pro|TECNO F4 Pro|
 |Tecno|POP 2|TECNO-B1|TECNO B1|
 |Tecno|POP 2 Power|TECNO-B1p|TECNO B1p|
+|Tecno|POP 2S|TECNO-RA8|TECNO RA8|
 |Tecno|POP 2s|TECNO-KB2h|TECNO KB2h|
 |Tecno|POP1|TECNO-F3|TECNO F3|
 |Tecno|Phantom6|Phantom6|Phantom6|
@@ -23760,8 +23768,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|TC25|TC25FM|TC25|
 |Zebra|TC51|TC51|TC51|
 |Zebra|TC51|TC51HC|TC51|
+|Zebra|TC52|TC52|TC52|
 |Zebra|TC55|TC55|TC55|
 |Zebra|TC56|TC56|TC56|
+|Zebra|TC57|TC57|TC57|
 |Zebra|TC70x|TC70x|TC70x|
 |Zebra|TC75x|TC75x|TC75x|
 |Zebra|TC75xDF|TC75xDF|TC75x|
