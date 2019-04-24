@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-04-23
+Last sync is 2019-04-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2837,6 +2837,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Condor|Griffe T6|Griffe_T6|Griffe T6|
 |Condor|Griffe T7|Griffe_T7|Griffe T7|
 |Condor|Griffe T8|Griffe_T8|Griffe T8|
+|Condor|Griffe T8 Plus|SP641|Griffe T8 Plus|
 |Condor|Griffe_T5|Griffe_T5|Griffe T5|
 |Condor|Griffe_T7|Griffe_T7|Griffe T7|
 |Condor|HS-U939|u939e_6|HS-U939|
@@ -2881,6 +2882,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Condor|Plume P8 Lite|PGN610|PGN610|
 |Condor|Plume P8 Pro|Plume_P8_Pro|Plume P8 Pro|
 |Condor|Plume_L2_Pro|Plume_L2_Pro|Plume L2 Pro|
+|Condor|Plume_L2_Pro_EEA|Plume_L2_Pro|Plume L2 Pro|
 |Condor|Plume_L3_Plus|Plume_L3_Plus|Plume L3 Plus|
 |Condor|SP530|SP530|Griffe T2|
 |Condor|SP638|SP638|Plume L3 Smart|
@@ -3621,6 +3623,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Diva|QC1004GM|QC1004GM|QC1004GM|
 |Diva|QC7704GM|QC7704GM|QC7704GM|
 |Diva|QC804GM|QC804GM|QC804GM|
+|Docomo|F-04H|F04H|F-04H|
 |Docomo|Japan|TT01|TT01|
 |Docomo|MEDIAS TAB UL N-08D|N-08D|N-08D|
 |Docomo|d-01J|d-01J|d-01J|
@@ -7210,6 +7213,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI MediaPad T3 10|HWAGS-Q|AGS-W09|
 |Huawei|HUAWEI MediaPad T3 7|HWBG2|BG2-U03|
 |Huawei|HUAWEI MediaPad T5|HWAGS2|AGS2-W09|
+|Huawei|HUAWEI Nova 3i|HWINE|INE-LX1|
 |Huawei|HUAWEI P smart|HWFIG-H|FIG-LA1|
 |Huawei|HUAWEI P smart|HWFIG-H|FIG-LX2|
 |Huawei|HUAWEI P smart|HWFIG-H|FIG-LX3|
@@ -7406,6 +7410,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|Huawei MediaPad T5|HWAGS2|AGS2-L09|
 |Huawei|Huawei MediaPad T5|HWAGS2|AGS2-W19|
 |Huawei|Huawei Nova 2|HWPIC|PIC-LX9|
+|Huawei|Huawei Y9 2019|HWJKM-HM|JKM-AL00a|
 |Huawei|IDEOS|U8150|Comet|
 |Huawei|IDEOS|U8150|Ideos|
 |Huawei|IDEOS|u8150|Ideos|
@@ -12044,6 +12049,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maximus|P2|P2|P2|
 |Maximus|P3|P3|P3|
 |Maximus|P7|P7|P7|
+|Maximus|P7_Plus|P7_Plus|P7 Plus|
 |Maxis|NeXT M2|VFD610|VFD 610|
 |Maxis|NeXT X1|VFD710|VFD 710|
 |Maxtron|S9|S9|S9|
@@ -12202,6 +12208,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Meizu|15 Plus|15Plus|15 Plus|
 |Meizu|16|16|16|
 |Meizu|16 X|16X|16 X|
+|Meizu|16s|16s|16s|
 |Meizu|16th|16th|16th|
 |Meizu|16th Plus|16thPlus|16th Plus|
 |Meizu|E3|MeizuE3|MEIZU E3|
@@ -15971,8 +15978,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Europa|GT-I5503T|GT-I5503T|
 |Samsung|Europa|GT-I5510L|GT-I5510L|
 |Samsung|Exhibit|SGH-T759|SGH-T759|
-|Samsung|G Tab A with S Pen|wisdom|SM-P205|
-|Samsung|G Tab A with S Pen|wisdomwifi|SM-P200|
 |Samsung|GALAXY Camera|gd1|EK-GC100|
 |Samsung|Galaxy (China)|GT-B9062|GT-B9062|
 |Samsung|Galaxy 070|hendrix|YP-GI2|
@@ -16103,6 +16108,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A7(2016)|a7xltechn|SM-A7100|
 |Samsung|Galaxy A7(2017)|a7y17lte|SM-A720F|
 |Samsung|Galaxy A7(2017)|a7y17lteskt|SM-A720S|
+|Samsung|Galaxy A70|a70q|SM-A7050|
 |Samsung|Galaxy A70|a70q|SM-A705FN|
 |Samsung|Galaxy A70|a70q|SM-A705GM|
 |Samsung|Galaxy A8|SCV32|SCV32|
@@ -17555,7 +17561,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab 3V 7.0|goyave3g5M|SM-T116NY|
 |Samsung|Galaxy Tab 4 8.0|milletwifi|SM-T330X|
 |Samsung|Galaxy Tab 4 8.0|milletwifikx|SM-T330|
-|Samsung|Galaxy Tab 4 Active|rubenslte|SM-T365|
 |Samsung|Galaxy Tab 7.0|SPH-P100|SPH-P100|
 |Samsung|Galaxy Tab 7.0 Plus|GT-P6200|GT-P6200|
 |Samsung|Galaxy Tab 7.0 Plus|GT-P6200L|GT-P6200L|
@@ -17661,10 +17666,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A 9.7|gt5note10wifi|SM-P550|
 |Samsung|Galaxy Tab A 9.7|gt5note10wifichn|SM-P550|
 |Samsung|Galaxy Tab A S 8.0|gt58ltebmc|SM-T357W|
+|Samsung|Galaxy Tab A with S Pen|wisdom|SM-P205|
+|Samsung|Galaxy Tab A with S Pen|wisdomwifi|SM-P200|
 |Samsung|"Galaxy Tab A(10.1| 2019)"|gta3xl|
 |Samsung|Galaxy Tab A(10.5)|gta2xllte|SM-T597|
 |Samsung|Galaxy Tab A6|gtexswifi|SM-T280|
 |Samsung|Galaxy Tab A8|gtaslitelteusc|SM-T387R4|
+|Samsung|Galaxy Tab Active|rubenslte|SM-T365|
 |Samsung|Galaxy Tab Active|rubenslte|SM-T365Y|
 |Samsung|Galaxy Tab Active2|gtactive2lte|SM-T395|
 |Samsung|Galaxy Tab Active2|gtactive2ltechn|SM-T395C|
@@ -21141,6 +21149,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|T2|T2|T2|
 |Ulefone|Ulefone_Note_7|Ulefone_Note_7|Ulefone_Note 7|
 |Ulefone|Ulefone_S1|Ulefone_S1|Ulefone_S1|
+|Ulefone|Ulefone_S11|Ulefone_S11|Ulefone_S11|
 |Ulefone|Ulefone_S7|Ulefone_S7|Ulefone S7|
 |Ulefone|Ulefone_X|Ulefone_X|Ulefone_X|
 |Ulefone|Ulfone_S11|Ulefone_S11|Ulefone_S11|
