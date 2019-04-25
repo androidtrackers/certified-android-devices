@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-04-24
+Last sync is 2019-04-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -409,6 +409,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advantage Air|PIC7GS8|PIC7GS8|PIC7GS8|
 |Advantage Air|PIC8GS8|PIC8GS8|PIC8GS8|
 |Aelion|i8|Aelion_i8|i8|
+|Aeon Communication (IN)|AE1020|AE1020|AE1020|
 |Affix|T737|AFFIX_T737|AFFIX T737|
 |AfriOne|ChampionPro|ChampionPro|ChampionPro|
 |AfriOne|Gravity Z2|Gravity_Z2|Gravity Z2|
@@ -4991,6 +4992,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Greatwall|T709GW|T709GW|Great Wall T709|
 |Greatwall|W710|W710|W710|
 |Greentel|X1 Light|X1_Light|X1_Light|
+|Greentel|Xmini|P4072|Xmini|
 |Greentel|Xmini|Xmini|Xmini|
 |Greentel|Xmini4G|Xmini4G|Xmini4G|
 |Grundig|GTB1030|TA10CA2|TA10CA2|
@@ -8247,6 +8249,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HT0702W08|HT0702W08|HT0702W08|
 |Hyundai|HT0703W08|HT0703W08|HT0703W08|
 |Hyundai|HT0705W08/Koral_7W4|HT0705W08|Koral 7W4|
+|Hyundai|HT0802W16/Koral_8W2|HT0802W16|Koral_8W2|
 |Hyundai|HY1-5085|HY1_5085|HY1-5085|
 |Hyundai|Hyundai Koral 10W|HT1002W16|HT1002W16|
 |Hyundai|Hyundai Koral 10X|HT1003X16|HT1003X16|
@@ -8726,6 +8729,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ipro|Phonenix50S|Phonenix50S|Phonenix50S|
 |Ipro|Pro8S|Pro8S|Pro8S|
 |Ipro|WIN|WIN|WIN|
+|Ipro|X1|IPRO_X1|X1|
 |Ipro|XPLAY|XPLAY|XPLAY|
 |Irbis|IRBIS TZ175|TZ175|TZ175|
 |Irbis|IRBIS TZ176|TZ176|TZ176|
@@ -9423,6 +9427,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|zio|pls8600|Zio|
 |Kyocera|\xe3\x81\x8a\xe3\x81\xa6\xe3\x81\x8c\xe3\x82\x8b\xe3\x82\xb9\xe3\x83\x9e\xe3\x83\x9b01|KYV44_u2|KYV44_u2|
 |Kyowon|All&G PAD|mypad2|KA-E410W|
+|Kzen|Lamia_L01|Lamia_L01|Lamia L01|
 |LGE||AS855|LG-AS855|
 |LGE||LGP970|LG-P970|
 |LGE||US855|USCC-US855|
@@ -12091,7 +12096,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mecer|TEI11011|TEI11011MST|TEI11011MST|
 |Mecer|TF10EA2|TF10EA2_11|TF10EA2|
 |Mecer|TF10MK1|TF10MK1_2|TF10MK1|
+|Mecool|KM3|KM3|KM3|
 |Mecool|KM8|KM8|KM8|
+|Mecool|KM9PRO|KM9PRO|KM9PRO|
 |Mediabox|MBX4K Ranger|DV8235|MBX4K Ranger|
 |Mediacom|10edge|10edge|10edge|
 |Mediacom|1AY|1AY|1AY|
@@ -15807,11 +15814,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SOLO|Inspire_U5|Inspire_U5|Inspire_U5|
 |SOLO|Inspire_U5_PLUS|Inspire_U5_PLUS|Inspire_U5_PLUS|
 |SOSMART|T5|SOSMART_T5|SOSMART_T5|
-|SPC Mobile|Blink_10_1|Blink_10_1|Blink 10.1|
-|SPC Mobile|FLOW_7|FLOW_7|FLOW 7|
-|SPC Mobile|GRAVITY3G|GRAVITY3G|GRAVITY 3G|
-|SPC Mobile|GRAVITY4G|GRAVITY4G|GRAVITY 4G|
-|SPC Mobile|GRAVITY_ PRO|GRAVITY_PRO|GRAVITY PRO|
 |SPC Mobile|L50|SPC_L50|L50|
 |SPC Mobile|L50E|L50E|SPC L50E|
 |SPC Mobile|L51 BLITZ|L51|L51|
@@ -15828,16 +15830,21 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Mobile|L60|SPC_L60|L60|
 |SPC Mobile|L60 Pro|L60_Pro|L60 Pro|
 |SPC Mobile|L60 Turbo|L60_Turbo|L60 Turbo|
-|SPC Mobile|LAIKA|LAIKA|LAIKA|
 |SPC Mobile|S19|S19|S19|
 |SPC Mobile|X1|SPC_X1|X1|
 |SPC Mobile|X3|SPC_X3|X3|
-|SPC Mobile|heaven_10_1|heaven-10_1|HEAVEN 10.1|
+|SPC Universe|Blink_10_1|Blink_10_1|Blink 10.1|
+|SPC Universe|FLOW_7|FLOW_7|FLOW 7|
 |SPC Universe|GRAVITY|GRAVITY|GRAVITY|
+|SPC Universe|GRAVITY3G|GRAVITY3G|GRAVITY 3G|
+|SPC Universe|GRAVITY4G|GRAVITY4G|GRAVITY 4G|
+|SPC Universe|GRAVITY_ PRO|GRAVITY_PRO|GRAVITY PRO|
 |SPC Universe|Gravity_2019|GRAVITY_2019|GRAVITY_2019|
 |SPC Universe|Gravity_Max|Gravity_Max|Gravity Max|
+|SPC Universe|LAIKA|LAIKA|LAIKA|
 |SPC Universe|Laika|Laika|Laika|
 |SPC Universe|Lightyear|Lightyear|Lightyear|
+|SPC Universe|heaven_10_1|heaven-10_1|HEAVEN 10.1|
 |SSB PHONES|SSB504|SSB504|SSB504|
 |SSB PHONES|SSB504A|SSB504A|SSB504A|
 |SSB PHONES|SSB554R|SSB554R|SSB554R|
