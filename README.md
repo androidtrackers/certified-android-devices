@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-04-25
+Last sync is 2019-04-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4676,6 +4676,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ghia|GHIA_A7|GHIA_A7|GHIA_A7|
 |Ghia|GHIA_AXIS7|GHIA_AXIS7|GHIA_AXIS7|
 |Ghia|GHIA_AXIS7P|GHIA_AXIS7P|GHIA_AXIS7P|
+|Ghia|GHIA_L1|GHIA_L1|GHIA_L1|
 |Ghia|GHIA_VECTOR_3G|GHIA_VECTOR_3G|GHIA_VECTOR_3G|
 |Ghia|GTAB718|GTAB718|GTAB718|
 |Ghia|GTABKIDS|GTABKIDS|GTABKIDS|
@@ -10962,6 +10963,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Leagoo|M10|M10|M10|
 |Leagoo|M10A|M10A|M10A|
 |Leagoo|M11|M11|M11|
+|Leagoo|M13|M13|M13|
 |Leagoo|M9|M9|M9|
 |Leagoo|M9 Pro|M9_Pro|M9 Pro|
 |Leagoo|M9A Pro|M9A_Pro|M9A Pro|
@@ -19210,6 +19212,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |StarMobile|UP Xtreme|UP_Xtreme|UP_Xtreme|
 |StarMobile|UP_XL|UP_XL|UP_XL|
 |Starlight|C_Note|C_Note|C_Note|
+|Starlight|C_Note_Pro|C_Note_Pro|C_Note_Pro|
 |Starlight|Future|Future|Future|
 |Starlight|I STAR PLUS|I_STAR_PLUS|I_STAR_PLUS|
 |Starlight|I star|I_star|I star|
@@ -21535,6 +21538,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Viumee|EV5 X|EV5_X|EV5 X|
 |Viumee|EV6|EV6|EV6|
 |Viumee|EV6 ELITE|EV6_ELITE|EV6 ELITE|
+|Viumee|EV7|EV7|EV7|
 |Viumee|EV7 Play|EV7_Play|EV7_Play|
 |Viumee|SMART EV5|SMART_EV5|SMART_EV5|
 |Vivax|FUN S20|FUN_S20|FUN_S20|
