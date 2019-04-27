@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-04-26
+Last sync is 2019-04-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7362,6 +7362,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|Honor 8 Lite|HWPRA-H|PRA-LX1|
 |Huawei|Honor 8 Pro|HWDUK|DUK-L09|
 |Huawei|Honor 8 Smart|HWVNS-H|VEN-L22|
+|Huawei|Honor 8A|HWJAT-M|JAT-AL00|
 |Huawei|Honor 8A|HWJAT-M|JAT-L29|
 |Huawei|Honor 8A|HWJAT-M|JAT-L41|
 |Huawei|Honor 8A|HWJAT-M|JAT-LX1|
@@ -7375,6 +7376,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|Honor 9|HWSTF|STF-AL00|
 |Huawei|Honor 9|HWSTF|STF-AL10|
 |Huawei|Honor 9|HWSTF|STF-L09|
+|Huawei|Honor 9|HWSTF|STF-L09S|
 |Huawei|Honor 9|HWSTF|STF-TL10|
 |Huawei|Honor 9 Lite|HWLLD-H|LLD-L21|
 |Huawei|Honor 9 Lite|HWLLD-H|LLD-L31|
@@ -7600,7 +7602,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|P20 lite|HWANE|ANE-LX1|
 |Huawei|P20 lite|HWANE|ANE-LX2|
 |Huawei|P20 lite|HWANE|ANE-LX3|
-|Huawei|P30 lite|HWMAR|MAR-LX1A|
 |Huawei|P30 lite|HWMAR|MAR-LX1M|
 |Huawei|P30 lite|HWMAR|MAR-LX2|
 |Huawei|P30 lite|HWMAR|MAR-LX3A|
@@ -15987,6 +15988,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Europa|GT-I5503T|GT-I5503T|
 |Samsung|Europa|GT-I5510L|GT-I5510L|
 |Samsung|Exhibit|SGH-T759|SGH-T759|
+|Samsung|G Tab A with S Pen|wisdomwifi|SM-P200|
 |Samsung|GALAXY Camera|gd1|EK-GC100|
 |Samsung|Galaxy (China)|GT-B9062|GT-B9062|
 |Samsung|Galaxy 070|hendrix|YP-GI2|
@@ -16001,6 +16003,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A20|a20|SM-A205FN|
 |Samsung|Galaxy A20|a20|SM-A205G|
 |Samsung|Galaxy A20|a20|SM-A205GN|
+|Samsung|Galaxy A20|a20|SM-A205YN|
 |Samsung|Galaxy A3|a33g|SM-A300H|
 |Samsung|Galaxy A3|a3lte|SM-A300F|
 |Samsung|Galaxy A3|a3lte|SM-A300M|
@@ -16118,6 +16121,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A7(2017)|a7y17lte|SM-A720F|
 |Samsung|Galaxy A7(2017)|a7y17lteskt|SM-A720S|
 |Samsung|Galaxy A70|a70q|SM-A7050|
+|Samsung|Galaxy A70|a70q|SM-A705F|
 |Samsung|Galaxy A70|a70q|SM-A705FN|
 |Samsung|Galaxy A70|a70q|SM-A705GM|
 |Samsung|Galaxy A8|SCV32|SCV32|
@@ -17952,6 +17956,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy View|gvltexsp|SM-T677|
 |Samsung|Galaxy View|gvwifijpn|SM-T670|
 |Samsung|Galaxy View|gvwifiue|SM-T670|
+|Samsung|Galaxy View2|gview2lteatt|SM-T927A|
 |Samsung|Galaxy W|GT-I8150|GT-I8150|
 |Samsung|Galaxy W|GT-I8150B|GT-I8150B|
 |Samsung|Galaxy W|GT-I8150T|GT-I8150T|
