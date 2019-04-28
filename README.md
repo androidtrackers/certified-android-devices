@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-04-27
+Last sync is 2019-04-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -436,6 +436,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiwa|Aiwa|KSTB6043|KSTB6043|
 |Aiwa|Z9|AIWA_Z9|Z9|
 |Aiwa|Z9 PLUS|AIWA_Z9_PLUS|Z9 PLUS|
+|Akai|FZ701|FZ701|FZ701|
 |Akari|AX-115ATV|DV8035|AX-115ATV|
 |Akari|AX-117ATV|DV8219|AX-117ATV|
 |Alba|ALBA 7 TABLET|ac70plv6|ALBA 7 TABLET|
@@ -4606,6 +4607,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GSmart|Simba SX1|bravo|Simba SX1|
 |GSmart|T4|GSmart_T4|GSmart T4|
 |GSmart|Tuku T2|Tuku_T2|GSmart Tuku T2|
+|Galactic|Galactic_Astro|Galactic_Astro|Galactic_Astro|
 |Galapad|Galapad S6|GALAPAD_S6|GALAPAD_S6|
 |Galax|F5|F5|F5|
 |Galexia|GL9002|GL9002|GL9002|
@@ -22206,6 +22208,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xcell|View|View|View|
 |Xcell|Zoom|Xcell_Zoom|Zoom|
 |Xgody|X24_EU|X24_EU|X24_EU|
+|Xgody|XGT|XGT|XGT|
 |Xiaomi|China|braveheart|MiTV|
 |Xiaomi|HM 1SC|armani|HM 1AC|
 |Xiaomi|HM 1SC|armani|HM 1S|
