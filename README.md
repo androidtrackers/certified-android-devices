@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-04-28
+Last sync is 2019-04-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7182,6 +7182,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HONOR 10i|HWHRY-HF|HRY-LX1T|
 |Huawei|HONOR 20i|HWHRY-HF|HRY-AL00Ta|
 |Huawei|HONOR 4X|hwChe2|Che2-L12|
+|Huawei|HONOR 8S|HWKSA-M|KSA-LX9|
 |Huawei|HONOR V20|HWPCT|PCT-AL10|
 |Huawei|HONOR V20|HWPCT|PCT-TL10|
 |Huawei|HONOR View20|HWPCT|PCT-L29|
@@ -8732,6 +8733,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ipro|PHOENIX 5.0|PHOENIX_50|PHOENIX 5.0|
 |Ipro|Phonenix50S|Phonenix50S|Phonenix50S|
 |Ipro|Pro8S|Pro8S|Pro8S|
+|Ipro|Ruby5S|Ruby5S|Ruby5S|
 |Ipro|WIN|WIN|WIN|
 |Ipro|X1|IPRO_X1|X1|
 |Ipro|XPLAY|XPLAY|XPLAY|
@@ -11800,6 +11802,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logicom|Le Hop|Logicom_LeHop|Le Hop|
 |Logicom|Le Lift|LeLift|Le Lift|
 |Logicom|Le Must|LeMust|Le Must|
+|Logicom|Le Must 2|LeMust2|Le Must 2|
 |Logicom|Le Smooth|Le_Smooth|Le Smooth|
 |Logicom|Le Starter L|Le_Starter_L|Le Starter L|
 |Logicom|Le UP|LeUp|Le Up|
@@ -12726,6 +12729,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|V.45|VSN|V.45S|
 |Mobiwire|VSN V.45|up06_h26_v45|V.45|
 |Mobvoi|TicWatch C2|skipjack|TicWatch C2|
+|Mobvoi|TicWatch E2/S2|tunny|TicWatch E2|
 |Mobvoi|TicWatch E2/S2|tunny|TicWatch S2|
 |Mobvoi|TicWatch Pro|catfish|TicWatch Pro|
 |Mobvoi|TicWatch Pro 4G|catshark|TicWatch Pro 4G|
