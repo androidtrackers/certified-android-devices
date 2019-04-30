@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-04-29
+Last sync is 2019-04-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -962,6 +962,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Archos|Archos 97c Platinum|ac97cplv2|Archos 97c Platinum|
 |Archos|Archos Acces 101 3G|ac101as3gv2|Archos Access 101 3G V2|
 |Archos|Archos Access 101 3G|ac101as3g|Archos Access 101 3G|
+|Archos|Archos Access 101 3G V3|ac101as3gv3|Archos Access 101 3G v3|
+|Archos|Archos Access 101 Wifi v2|ac101aswfv2|Archos Access 101 Wifi v2|
 |Archos|Archos Access 40 3G|ac40as3g|Archos Access 40 3G|
 |Archos|Archos Access 40 4G|ac40as4g|Archos Access 40 4G|
 |Archos|Archos Access 45 4G|ac45as4g|Archos Access 45 4G|
@@ -976,6 +978,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Archos|Archos Core 101 3G|ac101cr3g|Archos Core 101 3G|
 |Archos|Archos Core 101 3G|ac101cr3gv2|Archos Core 101 3G|
 |Archos|Archos Core 101 3G|ac101cr3gv3|Archos Core 101 3G|
+|Archos|Archos Core 101 3G V4|ac101cr3gv4|Archos Core 3g v4|
 |Archos|Archos Core 101 4G|ac101cr4g|Archos Core 101 4G|
 |Archos|Archos Core 101 4G|ac101cr4gv3|Archos Core 101 4G|
 |Archos|Archos Core 50 4G|ac50cr4g|Archos Core 50 4G|
@@ -988,6 +991,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Archos|Archos Core 57S|ac57crs|Archos Core 57S|
 |Archos|Archos Core 57S Ultra|ac57crsultra|Archos Core 57S Ultra|
 |Archos|Archos Core 60S|ac60crs|Archos Core 60S|
+|Archos|Archos Core 62S|ac62crs|Archos Core 62S|
 |Archos|Archos Core 70 3G|ac70cr3g|Archos Core 70 3G|
 |Archos|Archos Core 70 3G|ac70cr3gv2|Archos Core 70 3G|
 |Archos|Archos Hello 5|ac50hello|Archos Hello 5|
@@ -8456,6 +8460,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Smart 3|Infinix-X5516|Infinix X5516|
 |Infinix|Smart 3|Infinix-X5516B|Infinix X5516B|
 |Infinix|Smart 3|Infinix-X5516C|Infinix X5516C|
+|Infinix|Smart 3 Plus|Infinix-X627STU|Infinix X627|
 |Infinix|Smart 3 Plus|Infinix-X627V|Infinix X627V|
 |Infinix|Smart 3 Plus|Infinix-X627W|Infinix X627W|
 |Infinix|X405|up09_infinix_x405_gms|Infinix X405|
@@ -10026,6 +10031,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG K8(2018)|cv1|LML211BL|
 |LGE|LG K8(2018)|cv1|LML212VL|
 |LGE|LG K8+(2018)|mcv150|LM-X210|
+|LGE|LG K8s|mcv1s|LM-X220QMA|
 |LGE|LG K9|cv109|LM-X210|
 |LGE|LG L39C|l4ii_cdma|LGL39C|
 |LGE|LG LEON\xe2\x84\xa2 LTE|c50|LG-H345|
@@ -15994,7 +16000,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Europa|GT-I5503T|GT-I5503T|
 |Samsung|Europa|GT-I5510L|GT-I5510L|
 |Samsung|Exhibit|SGH-T759|SGH-T759|
-|Samsung|G Tab A with S Pen|wisdomwifi|SM-P200|
 |Samsung|GALAXY Camera|gd1|EK-GC100|
 |Samsung|Galaxy (China)|GT-B9062|GT-B9062|
 |Samsung|Galaxy 070|hendrix|YP-GI2|
@@ -18574,6 +18579,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Skyview|M5|M5|M5|
 |Skyworth|Asia|globe_ap|globe|
 |Skyworth|Asia|open_fhd_ap|open_fhd|
+|Skyworth|Euro|SW3_ATV|SWTV|
 |Skyworth|Europe|globe_eu|globe|
 |Skyworth|North America|globe_na|globe|
 |Skyworth|Skyworth|grape|HPA02|
