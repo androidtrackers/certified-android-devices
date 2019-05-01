@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-04-30
+Last sync is 2019-05-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10031,6 +10031,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG K8(2018)|cv1|LML211BL|
 |LGE|LG K8(2018)|cv1|LML212VL|
 |LGE|LG K8+(2018)|mcv150|LM-X210|
+|LGE|LG K8s|cv1s|LM-X220|
 |LGE|LG K8s|mcv1s|LM-X220QMA|
 |LGE|LG K9|cv109|LM-X210|
 |LGE|LG L39C|l4ii_cdma|LGL39C|
