@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-05-01
+Last sync is 2019-05-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -419,6 +419,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aikun|RX300|X300|X300|
 |Aikun|Solely Tab S7|HV1A|S7|
 |Aikun|Solely Tab S8|HV1A|S8|
+|Aimson|AINOL_Q88X|AINOL_Q88X|Q88X|
 |Aimson|Q88|Q88|Q88|
 |Airtab|AT8-N|AT8-N|AT8-N|
 |Airtel|HP2707|AirtelOTTBox|HP2707|
@@ -11804,6 +11805,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logicom|La_Tab_114|La_Tab_114|La_Tab_114|
 |Logicom|La_Tab_74|La_Tab_74|La_Tab_74|
 |Logicom|Le Fit|LeFit|LeFit|
+|Logicom|Le Fit FR|LeFitFR|Le Fit FR|
 |Logicom|Le HELLO|Le_Hello|Le_Hello|
 |Logicom|Le Hola|Le_Hola|Le_Hola|
 |Logicom|Le Hop|Logicom_LeHop|Le Hop|
@@ -14584,6 +14586,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|P55 Novo|P55_Novo|Panasonic P55 Novo|
 |Panasonic|P55 Novo|P55_Novo_4G|P55 Novo 4G|
 |Panasonic|P6|P6|Panasonic P6|
+|Panasonic|P6|P6_O|Panasonic P6|
 |Panasonic|P61|P61|Panasonic P61|
 |Panasonic|P61|P61|Panasonic_P61|
 |Panasonic|P66|P66|P66|
