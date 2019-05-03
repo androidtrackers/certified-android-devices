@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-05-02
+Last sync is 2019-05-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -16555,6 +16555,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy J1(2016)|j1xlte|SM-J120ZN|
 |Samsung|Galaxy J2|j23g|SM-J200H|
 |Samsung|Galaxy J2|j2corepltemtr|SM-J260T1|
+|Samsung|Galaxy J2|j2corepltetfntmo|SM-S260DL|
 |Samsung|Galaxy J2|j2lte|SM-J200F|
 |Samsung|Galaxy J2|j2lte|SM-J200G|
 |Samsung|Galaxy J2|j2lte|SM-J200GU|
@@ -18072,6 +18073,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Rugby Smart|SGH-I847|SAMSUNG-SGH-I847|
 |Samsung|SM-G6200|Phoenix|SM-G6200|
 |Samsung|SM-G9198|philippeltechn|SM-G9198|
+|Samsung|SM-J260A|j2coreplteatt|SM-J260A|
 |Samsung|SM-J336AZ|j3toplteaio|SM-J336AZ|
 |Samsung|SM-J337A|j3toplteatt|SM-J337A|
 |Samsung|SM-J337AZ|j3toplteaio|SM-J337AZ|
@@ -23793,6 +23795,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zatec|Zpower_Plus|Zpower_Plus|Zpower_Plus|
 |Zebex|Z-2252|Z-2252|Z-2252|
 |Zebra|CC5000|concierge|CCHUB1|
+|Zebra|Customer Concierge 600|CC605LN|CC605|
+|Zebra|Customer Concierge 600|CC610LN|CC610|
+|Zebra|Customer Concierge 6000|CC610LC|CC610|
+|Zebra|Customer Concierge 6000|CC610PC|CC610|
 |Zebra|ET5X|ET50E|ET5X|
 |Zebra|ET5X|ET50T|ET5X|
 |Zebra|ET5X|ET55E|ET5X|
@@ -23802,6 +23808,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|MC330K|MC33C|MC33|
 |Zebra|MC36|cardhu|MC36|
 |Zebra|MC40|MC40|MC40N0|
+|Zebra|MC9300 Mobile Computer|MC93|MC93|
+|Zebra|MC9300 Mobile Computer|MC93C|MC93|
+|Zebra|PS20 (Personal Shopper)|PS20JB|PS20J|
+|Zebra|PS20(Personal Shopper)|PS20JP|PS20J|
 |Zebra|Pollux|TC70|TC700H|
 |Zebra|Pollux|TC75|TC75|
 |Zebra|TC20|TC20RD|TC20|
@@ -23815,9 +23825,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|TC56|TC56|TC56|
 |Zebra|TC57|TC57|TC57|
 |Zebra|TC70x|TC70x|TC70x|
+|Zebra|TC72|TC72|TC72|
 |Zebra|TC75x|TC75x|TC75x|
 |Zebra|TC75xDF|TC75xDF|TC75x|
+|Zebra|TC77|TC77|TC77|
 |Zebra|TC8000|TC8000|TC8000|
+|Zebra|TC83B0|TC83B0|TC8300|
+|Zebra|TC83BH|TC83BH|TC8300|
 |Zebra|VC80x|VC80x|VC80x|
 |Zebra|WT6000|WT6000|WT6000|
 |Zeki|TBDG1073|TBDG1073|TBDG1073|
@@ -24156,6 +24170,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |koobee|F2 Plus|koobee_F2_Plus|F2_Plus|
 |koobee|F2_Plus|koobee_F2_Plus|F2_Plus|
 |koobee|S12|koobee_S12|S12|
+|koobee|S16|koobee_S16|S16|
 |koobee|koobee_K10|koobee_K10|K10|
 |mytel|M9501|M9501|M9501|
 |mytel|M9502|M9502|M9502|
