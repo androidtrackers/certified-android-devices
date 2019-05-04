@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-05-03
+Last sync is 2019-05-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14143,11 +14143,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|R11sPlus|R11sPlus|OPPO R11s Plus|
 |Oppo|R11sPlust|R11sPlus|OPPO R11s Plust|
 |Oppo|R11st|R11s|OPPO R11st|
-|Oppo|R15|CPH1831|CPH1831|
 |Oppo|R15|CPH1833|CPH1833|
 |Oppo|R15|CPH1835|CPH1835|
 |Oppo|R15|PACM00|PACM00|
 |Oppo|R15|PACT00|PACT00|
+|Oppo|R15 Pro|CPH1831|CPH1831|
 |Oppo|R15 \xe6\xa2\xa6\xe5\xa2\x83\xe7\x89\x88|PAAM00|PAAM00|
 |Oppo|R15 \xe6\xa2\xa6\xe5\xa2\x83\xe7\x89\x88|PAAT00|PAAT00|
 |Oppo|R15x|PBCM10|PBCM10|
@@ -16048,6 +16048,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A30|a30|SM-A305G|
 |Samsung|Galaxy A30|a30|SM-A305GN|
 |Samsung|Galaxy A30|a30|SM-A305GT|
+|Samsung|Galaxy A30|a30|SM-A305N|
 |Samsung|Galaxy A30|a30|SM-A305YN|
 |Samsung|Galaxy A40|a40|SM-A405FM|
 |Samsung|Galaxy A40|a40|SM-A405FN|
@@ -16139,6 +16140,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A70|a70q|SM-A705F|
 |Samsung|Galaxy A70|a70q|SM-A705FN|
 |Samsung|Galaxy A70|a70q|SM-A705GM|
+|Samsung|Galaxy A70|a70q|SM-A705MN|
 |Samsung|Galaxy A8|SCV32|SCV32|
 |Samsung|Galaxy A8|a8elte|SM-A800F|
 |Samsung|Galaxy A8|a8elte|SM-A800YZ|
@@ -17170,6 +17172,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S Vibrant|SGH-T959D|SGH-T959D|
 |Samsung|Galaxy S duos|kyleichn|GT-S7566|
 |Samsung|Galaxy S \xe8\xbd\xbb\xe5\xa5\xa2\xe7\x89\x88|dreamliteqltechn|SM-G8750|
+|Samsung|Galaxy S10|SCV41|SCV41|
 |Samsung|Galaxy S10|beyond1|SM-G973F|
 |Samsung|Galaxy S10|beyond1|SM-G973N|
 |Samsung|Galaxy S10|beyond1q|SM-G9730|
@@ -17178,6 +17181,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S10|beyond1q|SM-G973U1|
 |Samsung|Galaxy S10|beyond1q|SM-G973W|
 |Samsung|Galaxy S10 5G|beyondx|SM-G977N|
+|Samsung|Galaxy S10+|SCV42|SCV42|
 |Samsung|Galaxy S10+|beyond2|SM-G975F|
 |Samsung|Galaxy S10+|beyond2|SM-G975N|
 |Samsung|Galaxy S10+|beyond2q|SM-G9750|
@@ -20057,6 +20061,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024D_RU|
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024I|
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024J|
+|TCT (Alcatel)|Alcatel 1V|Wright|5001A|
 |TCT (Alcatel)|Alcatel 1X|U5A_PLUS_4G|5059A|
 |TCT (Alcatel)|Alcatel 1X|U5A_PLUS_4G|5059D|
 |TCT (Alcatel)|Alcatel 1X|U5A_PLUS_4G|5059D_RU|
@@ -20116,6 +20121,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel ONYX|Edison_CKT|5008R|
 |TCT (Alcatel)|Alcatel ONYX|Edison_CKT|Alcatel_5008R|
 |TCT (Alcatel)|Alcatel Raven LTE|BUZZ6T4GTFUMTS|A574BL|
+|TCT (Alcatel)|Alcatel U3|PIXI4-4C_GO|4034L_EEA|
 |TCT (Alcatel)|Alcatel one touch 985|one_touch_985A_gsm|ALCATEL_one_touch_985|
 |TCT (Alcatel)|Alcatel9007T|Pixi3_7_4G|Alcatel9007T|
 |TCT (Alcatel)|Alcatel_4060A|Pop445|Alcatel_4060A|
