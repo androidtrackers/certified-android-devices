@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-05-04
+Last sync is 2019-05-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3646,6 +3646,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|Mix|MIX|MIX|
 |Doogee|N10|Y7|N10|
 |Doogee|S30|S30|S30|
+|Doogee|S40|S40|S40|
 |Doogee|S50|t758_dg_m3t_n|S50|
 |Doogee|S55|S55|S55|
 |Doogee|S55_Lite|S55_Lite|S55_Lite|
@@ -3685,6 +3686,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|X9 Mini|X9_Mini|X9 Mini|
 |Doogee|X9 Mini|t530_dg_a54|X9 Mini|
 |Doogee|X9 Pro|X9pro|X9pro|
+|Doogee|X90|X90|X90|
+|Doogee|X90L|X90L|X90L|
 |Doogee|X9S|X9S|X9S|
 |Doogee|Y6|Y6|Y6|
 |Doogee|Y6 C|Y6C|Y6C|
@@ -3692,6 +3695,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|Y7|Y7|Y7|
 |Doogee|Y7Plus|Y7Plus|Y7Plus|
 |Doogee|Y8|Y8|Y8|
+|Doogee|Y8C|Y8C|Y8C|
 |Doogee|Y8plus|Y8Plus|Y8 Plus|
 |Doogee|shoot 2|t591_dga57_we|Shoot_2|
 |Doopro|C1|C1|C1|
@@ -3825,6 +3829,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ENIE|EH3|EH3|EH3|
 |ENIE|ENIE_E2|ENIE_E2|ENIE_E2|
 |ENTITY|GDENTMY7317|GDENTMY7317|GDENTMY7317|
+|EONSmartBox|SDOTT0202|DV8519|SDOTT0202|
 |EPIKONE|K400|K400|K400|
 |EPIKONE|K405|K405|K405|
 |EPIKONE|K500|K500|K500|
@@ -7247,6 +7252,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI P30 Pro|HWVOG|VOG-TL00|
 |Huawei|HUAWEI P30 lite|HWMAR|MAR-LX1A|
 |Huawei|HUAWEI P30 lite|HWMAR|MAR-LX1M|
+|Huawei|HUAWEI P30 lite|HWMAR|MAR-LX2|
+|Huawei|HUAWEI P30 lite|HWMAR|MAR-LX3A|
 |Huawei|HUAWEI P9 lite mini|HWSLA-Q|SLA-L02|
 |Huawei|HUAWEI P9 lite mini|HWSLA-Q|SLA-L22|
 |Huawei|HUAWEI P9 lite mini|HWSLA-Q|SLA-L23|
@@ -7610,9 +7617,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|P20 lite|HWANE|ANE-LX1|
 |Huawei|P20 lite|HWANE|ANE-LX2|
 |Huawei|P20 lite|HWANE|ANE-LX3|
-|Huawei|P30 lite|HWMAR|MAR-LX1M|
-|Huawei|P30 lite|HWMAR|MAR-LX2|
-|Huawei|P30 lite|HWMAR|MAR-LX3A|
 |Huawei|P6|hwp6-c00|HUAWEI P6-C00|
 |Huawei|P6|hwp6-t00|HUAWEI P6-T00|
 |Huawei|P6|hwp6-t00|HUAWEI P6-T00V|
@@ -8743,6 +8747,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ipro|WIN|WIN|WIN|
 |Ipro|X1|IPRO_X1|X1|
 |Ipro|XPLAY|XPLAY|XPLAY|
+|Ipro|Zafiro|Zafiro|Zafiro|
 |Irbis|IRBIS TZ175|TZ175|TZ175|
 |Irbis|IRBIS TZ176|TZ176|TZ176|
 |Irbis|IRBIS TZ178|TZ178|TZ178|
@@ -20763,7 +20768,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|POP 1s|TECNO-F4|TECNO F4|
 |Tecno|POP 1s Pro|TECNO-F4Pro|TECNO F4 Pro|
 |Tecno|POP 2|TECNO-B1|TECNO B1|
+|Tecno|POP 2|TECNO-B1S|TECNO B1S|
 |Tecno|POP 2 Power|TECNO-B1p|TECNO B1p|
+|Tecno|POP 2F|TECNO-B1f|TECNO B1f|
 |Tecno|POP 2S|TECNO-RA8|TECNO RA8|
 |Tecno|POP 2s|TECNO-KB2h|TECNO KB2h|
 |Tecno|POP1|TECNO-F3|TECNO F3|
