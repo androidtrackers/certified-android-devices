@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-05-05
+Last sync is 2019-05-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2025,6 +2025,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|BV4000|BV4000|BV4000|
 |Blackview|BV4000Pro_RU|BV4000Pro|BV4000Pro-RU|
 |Blackview|BV5500|BV5500|BV5500|
+|Blackview|BV5500Pro|BV5500Pro|BV5500Pro|
 |Blackview|BV5800|BV5800|BV5800|
 |Blackview|BV5800PRO|BV5800_PRO|BV5800 PRO|
 |Blackview|BV5800PRO_RU|BV5800Pro_RU|BV5800Pro_RU|
@@ -7236,6 +7237,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI P smart 2019|HWPOT-H|POT-LX1|
 |Huawei|HUAWEI P smart 2019|HWPOT-H|POT-LX1AF|
 |Huawei|HUAWEI P smart 2019|HWPOT-H|POT-LX3|
+|Huawei|HUAWEI P smart Z|HWSTK-HF|STK-LX1|
 |Huawei|HUAWEI P smart+ 2019|HWPOT-H|POT-LX1T|
 |Huawei|HUAWEI P20 Lite|HWANE|ANE-LX2J|
 |Huawei|HUAWEI P20 Lite|HWANE|HWV32|
@@ -9328,6 +9330,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kruger&Matz|MOVE 7|MOVE_7|MOVE_7|
 |Kruger&Matz|MOVE8|MOVE_8|MOVE_8|
 |Kruger&Matz|MOVE8mini|MOVE8mini|MOVE8mini|
+|Kruger&Matz|MOVE_8.1|MOVE_8_1|MOVE_8|
 |Kubo|K5|K5|K5|
 |Kudae|K101|K101|K101|
 |Kult|Gladiator|Gladiator|Gladiator|
@@ -14472,6 +14475,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|ELUGA Ray 550|ELUGA_Ray_550|ELUGA Ray 550|
 |Panasonic|ELUGA Ray 600|ELUGA_Ray_600|ELUGA Ray 600|
 |Panasonic|ELUGA Ray 700|Eluga_Ray_700|Eluga_Ray_700|
+|Panasonic|ELUGA Ray 810|Eluga_Ray_810|Eluga Ray 810|
 |Panasonic|ELUGA S|ELUGA_S|Panasonic ELUGA S|
 |Panasonic|ELUGA S Mini|ELUGA_S_Mini|Panasonic ELUGA S Mini|
 |Panasonic|ELUGA Turbo|ELUGA_Turbo|ELUGA Turbo|
@@ -21175,6 +21179,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|MIX|t816_gq_ulefone|MIX|
 |Ulefone|MIX S|t815_gq_ulefone|MIX_S|
 |Ulefone|MIX_2|MIX_2|MIX_2|
+|Ulefone|P6000_Plus|P6000_Plus|P6000_Plus|
 |Ulefone|Power 2|Power_2|Power_2|
 |Ulefone|Power 3|Power_3|Power_3|
 |Ulefone|Power 3S|Power_3S|Power 3S|
@@ -24077,6 +24082,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iCraig|CMP826|CMP826|CMP826|
 |iCraig|CMP828|CMP828|CMP828|
 |iCraig|CMP834|CMP834|CMP834|
+|iCraig|CMP837|CMP837|CMP837|
 |iCraig|CMP_771|ICRAIG_CMP_771|ICRAIG_CMP771|
 |iCraig|CMP_773|ICRAIG_CMP_773|ICRAIG_CMP773|
 |iDea USA|CT8|CT8|CT8|
