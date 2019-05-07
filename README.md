@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-05-06
+Last sync is 2019-05-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -657,6 +657,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Altice|T10|T10|T10|
 |Altron|GI-420|GI-420|GI-420|
 |Altron|GI-530|GI-530|GI-530|
+|Altron|OB-627|OB-627|OB-627|
 |Altron|OB_421|OB_421|OB_421|
 |Americamovil|KIREI A5Q PLUS|Azumi_KIREI_A5Q_PLUS_AC06|KIREI A5Q PLUS|
 |Amgoo|AM350|AM350|AM350|
@@ -3367,6 +3368,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datamini|K508101|K508101|K508101|
 |Datamini|K908H4G|K908H4G|K908H4G|
 |Datamini|T74G|T74G|T74G|
+|Datamini|T84G|T84G|T84G|
 |Datsun|D5000|D5000|D5000|
 |Datsun|D6000|D6000|D6000|
 |Datsun|Datsun_D5001|Datsun_D5001|Datsun_D5001|
@@ -4686,6 +4688,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Getac|ZX70|zx70|ZX70|
 |Getac|ZX70|zx70|zx70|
 |Getnord|LYNX|LYNX|LYNX|
+|Ghia|GHIA_A1|GHIA_A1|GHIA_A1|
 |Ghia|GHIA_A7|GHIA_A7|GHIA_A7|
 |Ghia|GHIA_AXIS7|GHIA_AXIS7|GHIA_AXIS7|
 |Ghia|GHIA_AXIS7P|GHIA_AXIS7P|GHIA_AXIS7P|
@@ -6696,6 +6699,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hotwav|Magic Q8|Magic_Q8|Magic Q8|
 |Hotwav|Magic Q8 Plus|Magic_Q8_Plus|Magic Q8 Plus|
 |Hotwav|Magic_5_Plus|Magic_5_Plus|Magic 5 Plus|
+|Hotwav|Pearl K1|Pearl_K1|Pearl K1|
 |Hotwav|Symbol|Symbol|Symbol|
 |Hotwav|Symbol M1|Symbol_M1|Symbol M1|
 |Hotwav|Symbol M1Plus|Symbol_M1_Plus|Symbol M1 Plus|
@@ -10263,6 +10267,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG SUNSET|c50|LGL33L|
 |LGE|LG Smart Folder|cf2|LGM-X100L|
 |LGE|LG Smart Folder|cf2|LGM-X100S|
+|LGE|LG Solo LTE|mh4|LGL423DL|
+|LGE|LG Solo LTE|mh4|LM-X420|
 |LGE|LG Spectrum|VS920|VS920 4G|
 |LGE|LG Spirit|my70|LG-H420|
 |LGE|LG Spirit 4G LTE|c70n|LG-H440n|
@@ -13196,6 +13202,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Moviltelco Trade|mtt L509|L509|MTT_L509|
 |Moviltelco Trade S.L|A58B|A58B|A58B|
 |Moviltelco Trade S.L|A76|A76|A76|
+|Moviltelco Trade S.L|A86|A86|A86|
 |Movistar|Jappy_Kids|Jappy_Kids|Jappy_Kids|
 |Movitel|M8414|Movitel_M8414|M8414|
 |Movitel|M8415|M8415|M8415|
@@ -15142,6 +15149,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo BGH|Ypy|YPY_L700|Positivo BGH Ypy L700|
 |Positivo BGH|Ypy Kids|YPY_L700|Positivo BGH Ypy L700 Kids|
 |Powerway|DRN|DRN|DRN|
+|Powerway|DRN_EEA|DRN_EEA|DRN_EEA|
 |Premio|185FT5050231|185FT5050231|185FT5050231|
 |Premio|186FT1080231|186FT1080231|186FT1080231|
 |Premio|186HS1050232|186HS1050232|186HS1050232|
@@ -15422,6 +15430,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Proscan|PLT7770G|PLT7770G|PLT7770G|
 |Proscan|PLT7774G|PLT1074G|PLT1074G|
 |Proscan|PLT7774G|PLT7774G|PLT7774G|
+|Proscan|PLT7775G|PLT7775G|PLT7775G|
+|Proscan|PLT7800|PLT7800|PLT7800|
 |Proscan|PLT7803G|PLT7803G|PLT7803G|
 |Proscan|PLT7804G|PLT7804G|PLT7804G|
 |Proscan|PLT8235G Tablet|MID807_K|PLT8235G|
@@ -15632,6 +15642,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|BNT-710|BNT-710|BNT-710|
 |RCA|DAA730R / RCA DAA738R|MD7081|DAA730R|
 |RCA|DAA730R / RCA DAA738R|MD7081|DAA738R|
+|RCA|Juno 10|RCT6A03W12EU|RCT6A03W12EU|
 |RCA|Mercury 7|CT9973W43M|CT9973W43M|
 |RCA|Pro10 Edition II|RCT6203W46L|RCT6203W46L|
 |RCA|Pro12|RCT6223W87|RCT6223W87|
@@ -15765,6 +15776,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ruggear|PSM01E|PSM01E|PSM01E|
 |Ruggear|RG650|RG650|RG650|
 |Ruggear|RG650|RG650|RG650 U|
+|Ruggear|RG655|RG655|RG655|
 |Ruggear|RG720|RG720|RG720|
 |Ruggear|RG725|RG725|RG725|
 |Ruggear|RG730|rg730|RugGear RG730|
@@ -18115,6 +18127,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sansui|Fun|Sansui_Fun|Sansui Fun|
 |Sansui|Go|S401|Go|
 |Sansui|Sansui Play|Play|Sansui Play|
+|Sansui|Sansui_Nova|Sansui_Nova|Sansui_Nova|
 |Sansui|Switch|SansuiSwitch|Sansui_Switch|
 |Sansui|"Tab 7"""|ETAB_I7043G|ETAB I7043G|
 |Sansui|"Tab 7"""|ETAB_I7043G|ETAB_I7043G|
