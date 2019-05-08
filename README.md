@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-05-07
+Last sync is 2019-05-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2119,6 +2119,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|C6|C031P|C6|
 |Blu|C6L|C0030|C6L|
 |Blu|D500|D500|D500|
+|Blu|D510|D510|D510|
 |Blu|D600|D600|D600|
 |Blu|DASH L2|BLU_DASH_L2|BLU DASH L2|
 |Blu|DASH M2|BLU_DASH_M2|BLU DASH M2|
@@ -2662,6 +2663,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cherry Mobile|Flare_J3_Lite|Flare_J3_Lite|Flare_J3_Lite|
 |Cherry Mobile|Flare_S6_Lite|Flare_S6_Lite|Flare_S6_Lite|
 |Cherry Mobile|Flare_S7_Prime|Flare_S7_Prime|Flare_S7_Prime|
+|Cherry Mobile|Flare_Y6_Pro|Flare_Y6_Pro|Flare_Y6_Pro|
 |Cherry Mobile|Fusion Aura 3s|Fusion_Aura_3s|Fusion Aura 3s|
 |Cherry Mobile|H220|ctih220_sprout|H220|
 |Cherry Mobile|Iris|Iris|iris|
@@ -3238,6 +3240,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|DEXP M210|M210|M210|
 |DEXP|DEXP P170|P170|P170|
 |DEXP|DEXP S110|S110|S110|
+|DEXP|DEXP S380|S380|S380|
 |DEXP|DEXP Ursus N169|N169|N169|
 |DEXP|DEXP Ursus P310|P310|P310|
 |DEXP|DEXP Ursus S169|S169|S169|
@@ -3266,6 +3269,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|GS153|GS153|GS153|
 |DEXP|GS155|GS155|GS155|
 |DEXP|H170|H170|H170|
+|DEXP|H270|H270|H270|
 |DEXP|Ixion M355|M355|Ixion M355|
 |DEXP|Ixion ML350|ML350|Ixion ML350|
 |DEXP|Ixion ML450|ML450|ML450|
@@ -4990,6 +4994,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel 2 XL|taimen|Pixel 2 XL|
 |Google|Pixel 3|blueline|Pixel 3|
 |Google|Pixel 3 XL|crosshatch|Pixel 3 XL|
+|Google|Pixel 3a|sargo|Pixel 3a|
+|Google|Pixel 3a XL|bonito|Pixel 3a XL|
 |Google|Pixel C|dragon|Pixel C|
 |Google|Pixel Slate|nocturne_cheets|Pixel Slate|
 |Google|Pixel Slate|nocturne_cheets|nocturne|
@@ -6715,6 +6721,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |How|HT-705_Go|HT-705_Go|HT-705 Go|
 |How|HT704-G|704-G|704-G|
 |How|HT705GO|HT705GO-01|HT-705|
+|How|HT_705XS|HT-705XS|HT-705XS|
 |How|kids 3g|sp7731c_1h10|kids 3g|
 |Huangmi|F8|F8|F8|
 |Huawei||C8600|C8600|
@@ -15642,6 +15649,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|BNT-710|BNT-710|BNT-710|
 |RCA|DAA730R / RCA DAA738R|MD7081|DAA730R|
 |RCA|DAA730R / RCA DAA738R|MD7081|DAA738R|
+|RCA|Gemini 10 pro|RCT6A03W13FU|RCT6A03W13FU|
 |RCA|Juno 10|RCT6A03W12EU|RCT6A03W12EU|
 |RCA|Mercury 7|CT9973W43M|CT9973W43M|
 |RCA|Pro10 Edition II|RCT6203W46L|RCT6203W46L|
@@ -16025,6 +16033,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Europa|GT-I5503T|GT-I5503T|
 |Samsung|Europa|GT-I5510L|GT-I5510L|
 |Samsung|Exhibit|SGH-T759|SGH-T759|
+|Samsung|G Tab A with S Pen|wisdom|SM-P205|
 |Samsung|GALAXY Camera|gd1|EK-GC100|
 |Samsung|Galaxy (China)|GT-B9062|GT-B9062|
 |Samsung|Galaxy 070|hendrix|YP-GI2|
@@ -16073,6 +16082,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A30|a30|SM-A305YN|
 |Samsung|Galaxy A40|a40|SM-A405FM|
 |Samsung|Galaxy A40|a40|SM-A405FN|
+|Samsung|Galaxy A40s|a30c|SM-A3050|
+|Samsung|Galaxy A40s|a30c|SM-A3058|
 |Samsung|Galaxy A5|a53g|SM-A500H|
 |Samsung|Galaxy A5|a5lte|SM-A500F|
 |Samsung|Galaxy A5|a5lte|SM-A500G|
