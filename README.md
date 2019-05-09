@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-05-08
+Last sync is 2019-05-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1937,6 +1937,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Binatone|Smart 66|SMART66|SMART66|
 |Bird|A7|A7|A7|
 |Bird|E5018|E5018|E5018|
+|Bird|Energy|Energy|Energy|
 |Bird|F07|Bird_F07|F07|
 |Bird|F15|Bird_F15|F15|
 |Bird|S1|Bird_S1|S1|
@@ -2255,6 +2256,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|VIVO GO|V0390WW|VIVO GO|
 |Blu|VIVO VI+|V0310WW|Vivo XI PLUS|
 |Blu|VIVO VI+|V0310WW|Vivo XI+|
+|Blu|VIVO XI|V0330WW|Vivo XI|
 |Blu|VIVO XL|BLU_VIVO_XL|VIVO XL|
 |Blu|Vivo 5 Mini|Vivo_5_Mini|Vivo 5 Mini|
 |Blu|Vivo 8|V0150UU|Vivo 8|
@@ -6598,6 +6600,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hoffmann|X-Go|X-Go|X-Go|
 |Hoffmann|X-Ultra|X_Ultra|X_Ultra|
 |Hoffmann|X_Prime|X_Prime|HOFFMANN X-Prime|
+|Hometech|ALFA_7RC|ALFA_7RC|ALFA_7RC|
 |Hometech|HT_7RT Tablet PC|HT_7RT|HT_7RT|
 |Hometech|HT_8MZ|HT_8MZ|HT_8MZ|
 |"Hon Hai Precision Industry Co.| Ltd."||EP10_wifi|
@@ -9458,6 +9461,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|zio|pls8600|Zio|
 |Kyocera|\xe3\x81\x8a\xe3\x81\xa6\xe3\x81\x8c\xe3\x82\x8b\xe3\x82\xb9\xe3\x83\x9e\xe3\x83\x9b01|KYV44_u2|KYV44_u2|
 |Kyowon|All&G PAD|mypad2|KA-E410W|
+|Kzen|Eva_E01|Eva_E01|Eva_E01|
 |Kzen|Lamia_L01|Lamia_L01|Lamia L01|
 |LGE||AS855|LG-AS855|
 |LGE||LGP970|LG-P970|
@@ -9977,6 +9981,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG G7 ThinQ|judyln|LM-G710VM|
 |LGE|LG G7 fit|falcon|LM-Q850|
 |LGE|LG G8 ThinQ\xe2\x84\xa2|alphalm|LM-G820|
+|LGE|LG G8 ThinQ\xe2\x84\xa2|alphaplus|LM-G820N|
 |LGE|LG GRACE\xe2\x84\xa2 LTE|lv517|LGL59BL|
 |LGE|LG Gentle|cfm|LG-F660L|
 |LGE|LG Gpad X 10.1|t1lte|LG-V930|
@@ -16040,6 +16045,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A|archer|SHW-M100S|
 |Samsung|Galaxy A|archer|archer|
 |Samsung|Galaxy A10|a10|SM-A105F|
+|Samsung|Galaxy A10|a10|SM-A105FN|
 |Samsung|Galaxy A10|a10|SM-A105G|
 |Samsung|Galaxy A10|a10|SM-A105M|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260F|
@@ -16049,6 +16055,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A20|a20|SM-A205G|
 |Samsung|Galaxy A20|a20|SM-A205GN|
 |Samsung|Galaxy A20|a20|SM-A205YN|
+|Samsung|Galaxy A20e|a20e|SM-A202F|
 |Samsung|Galaxy A3|a33g|SM-A300H|
 |Samsung|Galaxy A3|a3lte|SM-A300F|
 |Samsung|Galaxy A3|a3lte|SM-A300M|
@@ -20694,6 +20701,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Techpad|M5Plus|M5Plus|M5Plus|
 |Techpad|M6|M6|M6|
 |Techpad|M6 Plus|M6Plus|M6Plus|
+|Techpad|M6Plus|M6Plus|M6Plus|
 |Techpad|S6|S6|S6|
 |Techpad|TECHPAD X5|F518|Techpad X5|
 |Techpad|Tech Pad|816x|816x|
@@ -23940,6 +23948,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zopo|PRO1|Benten_PRO1|PRO1|
 |Zopo|Z5000|Z5000|Z5000|
 |Zopo|ZOPO Flash X3|ZOPO_Flash_X3|ZOPO Flash X3|
+|Zpad|ZKIDS|ZKIDS|ZKIDS|
 |Zpad|ZpadX7|ZpadX7|ZpadX7|
 |Zpad|Zpad_X7|Zpad_X7|Zpad X7|
 |Zuk|Lenovo Z2 Plus|z2_plus_hw|ZUK Z2132|
