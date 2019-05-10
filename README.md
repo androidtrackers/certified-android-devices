@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-05-09
+Last sync is 2019-05-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13815,6 +13815,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia X5|PDA|Nokia X5|
 |Nokia|Nokia X6|DRG|Nokia X6|
 |Nokia|Nokia X7|PNX|Nokia X7|
+|Nokia|Nokia X71|TAS|Nokia X71|
 |Nomi|CORSA 3 LTE|Nomi_C070030|Nomi_C070030|
 |Nomi|Corsa 3 3G|Nomi_C070012|Nomi_C070012|
 |Nomi|I5032|Nomi_i5032|i5032|
@@ -19619,6 +19620,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|4055U|U3|4055U|
 |TCT (Alcatel)|4060W|Pixi445|4060W|
 |TCT (Alcatel)|4114E|Pixi3-4|4114E|
+|TCT (Alcatel)|5006|5006|5006G|
 |TCT (Alcatel)|5011A|BUZZ6_55|5011A|
 |TCT (Alcatel)|5017B|Pixi3454GSPR|5017B|
 |TCT (Alcatel)|5023E|Pixi4PlusPower|5023E|
