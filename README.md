@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-05-10
+Last sync is 2019-05-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10328,6 +10328,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG U|bbg|LG-F820L|
 |LGE|LG V35 ThinQ|judyp|LM-V350|
 |LGE|LG V35 ThinQ|judyp|LM-V350N|
+|LGE|LG V50 ThinQ|flashlmdd|LM-V500N|
 |LGE|LG Venice|u0_cdma|LG-LG730|
 |LGE|LG Viper 4G LTE|cayman|LG-LS840|
 |LGE|LG Volt|my70ds|LG-H422|
@@ -19341,6 +19342,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stylo|S55 Nova|S55_Nova|S55 Nova|
 |Stylo|S551|STYLO_S551|STYLO S551|
 |Stylo|S57_ALURE|S57_ALURE|S57_ALURE|
+|Stylo|S57_AZURE|S57_AZURE|S57_AZURE|
 |Stylo|S61_JAZZ|S61_JAZZ|S61 JAZZ|
 |Stylo|S9 TOPAZ|S9_TOPAZ|STYLO_S9_TOPAZ|
 |Stylo|STYLO MAX|Stylo_Max|MAX|
