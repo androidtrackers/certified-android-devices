@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-05-12
+Last sync is 2019-05-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1631,6 +1631,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|Speed 5|Azumi_Speed_5B|Azumi Speed 5|
 |Azumi|Speed 55|Speed_55|Speed_55|
 |Azumi|T7 3G|T7_3G|Azumi_T7_3G|
+|Azumi|V5+|AZUMI_V5PLUS_AC27|V5+|
 |Azumi|V54_AC24|Azumi_V54_AC24|V54|
 |BGH S.A.|BGH Joy 303|BGH_Joy_303|BGH Joy 303|
 |BKAV|B2017|B2017|B2017|
@@ -15668,6 +15669,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|RCA RCT6213W23|RCT6213W23|RCT6213W23|
 |RCA|RCA RCT6213W24|RCT6213W24|RCT6213W24|
 |RCA|RCA RCT6703W13|RCT6703W13|RCT6703W13|
+|RCA|RCA RCT6973W43MDC8|RCT6973W43MDC8|RCT6973W43MDC8|
 |RCA|RCA RCT6B03W12|RCT6B03W12|RCT6B03W12|
 |RCA|RCA RCT6B03W13|RCT6B03W13|RCT6B03W13|
 |RCA|RCA RCT6B83W12|RCT6B83W12|RCT6B83W12|
@@ -19332,6 +19334,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stylo|Luna|Luna|Luna|
 |Stylo|Onyx|Onyx|Onyx|
 |Stylo|S40 Vino|S40_Vino|S40 Vino|
+|Stylo|S40_EBONY|S40_EBONY|S40_EBONY|
 |Stylo|S49 ECO|S49_ECO|S49 ECO|
 |Stylo|S49 MONO|S49_MONO|S49 MONO|
 |Stylo|S49_Cobalt|S49_cobalt|S49 cobalt|
@@ -19355,6 +19358,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stylo|V|V|V|
 |Stylo|VS5502|VS5502|VS5502|
 |Stylo|VS571|VS571|VS571|
+|Stylos|TARISTAB2|TARISTAB2|TARISTAB2|
 |Stylos|Tab8|Tab8|Tab8|
 |Stylus|AT703|AT703|AT703|
 |Stylus|Comet_SP5002G|Comet_SP5002G|Comet_SP5002G|
@@ -21832,6 +21836,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vodafone|VF-1296|voda_tab|Vodafone Tab grand 6|
 |Vodafone|VF-1397|Vodafone_Tab_speed_6|VF-1397|
 |Vodafone|VF-1497|Vodafone_Tab_Prime|VF-1497|
+|Vodafone|VF-696|smart_grand|VF-696|
 |Vodafone|VF685|VF685|VF685|
 |Vodafone|VF695|VF695|VF695|
 |Vodafone|VFD 200|P731V35|VFD 200|
@@ -24138,6 +24143,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iHunt|Alien X Lite|Alien_X_Lite|Alien X Lite|
 |iHunt|Alien_X_ApeX|Alien_X_ApeX|Alien_X_ApeX|
 |iHunt|Like 4U|Like_4U|Like_4U|
+|iHunt|Like_Hi5|Like_Hi5|Like Hi5|
 |iHunt|S100ApeX|S100ApeX|S100ApeX|
 |iHunt|S10_Tank_2019|S10_Tank_2019|S10_Tank_2019|
 |iHunt|S60_Discovery_2019|S60_Discovery_2019|S60_Discovery_2019|
