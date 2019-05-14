@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-05-13
+Last sync is 2019-05-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3846,6 +3846,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EPIKONE|K501|K501|K501|
 |EPIKONE|K502|K502|K502|
 |EPIKONE|K504|K504|K504|
+|EPIKONE|K510|K510|K510|
 |EPIKONE|K534|K534|K534|
 |EPIKONE|K535|K535|K535|
 |EPIKONE|K536|K536|K536|
@@ -4254,6 +4255,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fluo|S554020|S554020|S554020|
 |Fluo|S574010S|S574010S|S574010S|
 |Fluo|T100020_EEA|T100020_EEA|T100020_EEA|
+|Fluo|T100020_TR|T100020_TR|T100020_TR|
 |Fluo|X2 Max|S624010S|X2 Max|
 |Fluo|X2_Max|X2_Max|X2 Max|
 |Fly|5_S|5_S|5S|
@@ -10258,6 +10260,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG Q6|mhn|LGM-X600K|
 |LGE|LG Q6|mhn|LGM-X600L|
 |LGE|LG Q6|mhn|LGM-X600S|
+|LGE|LG Q60|mmh4p|LM-X525|
 |LGE|LG Q7|mcv5a|LM-Q610.FG|
 |LGE|LG Q7|mcv5a|LM-Q610.FGN|
 |LGE|LG Q7|mcv5a|LM-Q617.FGN|
@@ -15955,6 +15958,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |STK(Santok)|Sync 5z|STK_Sync_5z|STK Sync 5z|
 |STK(Santok)|Transporter 1|STK_Transporter_1|STK_Transporter_1|
 |STK(Santok)|cayenne|cayenne|STK Ace|
+|SUPERSONIC|SC-4317BT|SC-4317BT|SC-4317BT|
 |SUPERSONIC|SC-774KT|SC-774KT|SC-774KT|
 |SUPERSONIC|SC4009DL|SC4009DL|SC-4009DL|
 |SUPERSONIC|SC_1010JBBT|SC_1010JBBT|SC_1010JBBT|
@@ -23282,6 +23286,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|NX612J|NX612J|NX612J|
 |ZTE|NX619J|NX619J|NX619J|
 |ZTE|NX619J|NX619J-EEA|NX619J|
+|ZTE|NX629J|NX629J|NX629J|
+|ZTE|NX629J|NX629J-EEA|NX629J|
 |ZTE|NX907J|NX907J|NX907J|
 |ZTE|OWN FUN 5(4G)|VFD511|OWN FUN 5(4G)|
 |ZTE|OWN FUN 5(4G)|VFD511|ZTE BLADE A321|
@@ -23483,6 +23489,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|UZTE V790|roamer2|UZTE V790|
 |ZTE|UZTE V817|ZTE-V956|UZTE V817|
 |ZTE|Uhura|noah|Z968|
+|ZTE|"Ukraine| Kazakhstan| Azerbaijan"|
 |ZTE|Ultym 5.2|msm8916_32|Ultym 5.2|
 |ZTE|V55|V55|V55|
 |ZTE|V5S|P189F13|ZTE Grand Memo lite|
@@ -23656,6 +23663,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|X9180|X9180|X9180|
 |ZTE|Z-01K|Z-01K|Z-01K|
 |ZTE|Z10|P817E52|ZTE Z10|
+|ZTE|Z3351S|Z3351|Z3351S|
 |ZTE|Z353VL|oldman|Z353VL|
 |ZTE|Z5031O|Z5031O|Z5031O|
 |ZTE|Z5151V|Z5151|Z5151V|
@@ -23800,12 +23808,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A0722|P817F18|ZTE Blade A0722|
 |ZTE|ZTE Blade A3 2019|P932K20|ZTE Blade A3 2019|
 |ZTE|ZTE Blade A3 2019RU|P932F20|ZTE Blade A3 2019RU|
+|ZTE|ZTE Blade A3 Lite|P932F20|ZTE Blade A3 Lite|
 |ZTE|ZTE Blade A5 2019|P963F30|ZTE Blade A5 2019|
 |ZTE|ZTE Blade A5 2019RU|P963F30P|ZTE Blade A5 2019RU|
 |ZTE|ZTE Blade A522|P817E53|ZTE Blade A522|
 |ZTE|ZTE Blade A531|P932F10|ZTE Blade A531|
 |ZTE|ZTE Blade L110|ZTE_BLADE_L110|ZTE Blade L110|
 |ZTE|ZTE Blade L130|P731F30|ZTE Blade L130|
+|ZTE|ZTE Blade L130|P731K30|ZTE Blade L130|
 |ZTE|ZTE Blade L130RU|P731F30|ZTE Blade L130RU|
 |ZTE|ZTE Blade L5|P172A40|ZTE Blade L5|
 |ZTE|ZTE Blade L8|P731F20|ZTE Blade L8|
