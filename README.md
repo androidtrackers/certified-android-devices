@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-05-14
+Last sync is 2019-05-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2176,6 +2176,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Life Mark|BLU_LIFE_MARK|BLU LIFE MARK|
 |Blu|Life Max|Life_Max|Life Max|
 |Blu|Life One X3|L0150WW|Life One X3|
+|Blu|M6|M030P|M6|
 |Blu|NEO ENERGY MINI|BLU_NEO_ENERGY_MINI|BLU NEO ENERGY MINI|
 |Blu|NEO X|BLU_NEO_X|BLU NEO X|
 |Blu|NEO X LTE|BLU_NEO_X_LTE|BLU NEO X LTE|
@@ -2751,6 +2752,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Click|S7043G|S7043G|S7043G|
 |Click|"Tab 7"""|I7043G|I7043G|
 |ClickN Kids|ClickN Kids|g04e|CK07T|
+|Clickonica Exclusive|iTabS10|iTabS10|iTabS10|
 |Clickonica Exclusive|itabx|itabx|itabx|
 |Clicktabds|F19|F19|F19|
 |ClipSonic|DVI37BT|DVI37BT|DV137BT|
@@ -2973,6 +2975,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Coolpad|3632A-mpcs|cp3632a|Coolpad 3632A|
 |Coolpad|3636a|cp3636a|cp3636a|
 |Coolpad|3700A|3700A|CP3700A|
+|Coolpad|3705A|lithium|cp3705A|
 |Coolpad|5109|Coolpad5109|Coolpad 5109|
 |Coolpad|5200|Coolpad5200|Coolpad 5200|
 |Coolpad|5216D|5216D|Coolpad 5216D|
@@ -3230,6 +3233,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|BL250|BL250|BL250|
 |DEXP|BS150|BS150|BS150|
 |DEXP|BS155|BS155|BS155|
+|DEXP|BS160|BS160|BS160|
 |DEXP|BS250|BS250|BS250|
 |DEXP|BS550|BS550|BS550|
 |DEXP|BS650|BS650|BS650|
@@ -3370,6 +3374,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Danew|TRACE ONE|T_ONE|T_ONE|
 |Danew|konnect 601|Konnect_601|Konnect_601|
 |Datalogic|Datalogic MEMOR 10|dl35|MEMOR 10|
+|Datalogic|MEMOR 1|M1_AOSP|Memor 1|
 |Datalogic|MEMOR 1|M1_HANDHELD|Memor 1|
 |Datalogic|MEMOR 1|M1_PISTOL|Memor 1|
 |Datamini|K508101|K508101|K508101|
@@ -7287,6 +7292,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI Y5 2018|HWDRA-M|DRA-L21|
 |Huawei|HUAWEI Y5 2018|HWDRA-M|DRA-LX2|
 |Huawei|HUAWEI Y5 2018|HWDRA-MG|DRA-LX3|
+|Huawei|HUAWEI Y5 2019|HWAMN-M|AMN-LX1|
+|Huawei|HUAWEI Y5 2019|HWAMN-M|AMN-LX2|
 |Huawei|HUAWEI Y5 2019|HWAMN-M|AMN-LX9|
 |Huawei|HUAWEI Y5 Prime 2018|HWDRA-M|DRA-LX2|
 |Huawei|HUAWEI Y5 lite|HWDRA-MG|DRA-LX5|
@@ -7342,6 +7349,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|Honor 10|HWCOL|COL-TL10|
 |Huawei|Honor 10 Lite|HWHRY-H|HRY-AL00|
 |Huawei|Honor 10 Lite|HWHRY-HF|HRY-AL00a|
+|Huawei|Honor 20i|HWHRY-HF|HRY-AL00Ta|
 |Huawei|Honor 4A|hnSCC-Q|SCC-U21|
 |Huawei|Honor 4A|hnSCL-Q|SCL-AL00|
 |Huawei|Honor 4A|hnSCL-Q|SCL-CL00|
@@ -11973,6 +11981,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MLAB|MB4 WIFI|MB4_WIFI|MB4 WIFI|
 |MLAB|MB4_3G|MB4_3G|MB4_3G|
 |MLAB|MB5 WIFI|MB5_WIFI|MB5 WIFI|
+|MLAB|MLAB_TABLET_KID|MLAB_TABLET_KID|MLAB_TABLET_KID|
 |MLS Innovation|IQS805|iQS805|iQS805|
 |MLS Innovation|IQW570|iQW570|iQW570|
 |MLS Innovation|PTB7QSG_3G|iQE200|iQE200|
@@ -13199,6 +13208,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto z3 play|beckham|Moto Z3 Play|
 |Motorola|motorola one power|chef_sprout|moto x4|
 |Motorola|motorola one power|chef_sprout|motorola one power|
+|Motorola|motorola one vision|kane_sprout|motorola one vision|
 |Motorola Solutions|LEX F10|LEXF10|LEX F10|
 |Motorola Solutions|LEX L10g|lexl10g|LEX L10g|
 |Motorola Solutions|LEX L10ig|lexl10ig|LEX L10ig|
@@ -13975,6 +13985,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|One|A0001|One|
 |OnePlus|OnePlus|OnePlus|ONE E1003|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6003|
+|OnePlus|OnePlus 7|OnePlus7|GM1905|
+|OnePlus|OnePlus 7 Pro|OnePlus7Pro|GM1917|
+|OnePlus|OnePlus 7 Pro|OnePlus7ProTMO|GM1915|
 |OnePlus|OnePlus2|OnePlus2|ONE A2003|
 |OnePlus|OnePlus3|OnePlus3|ONEPLUS A3000|
 |OnePlus|OnePlus3T|OnePlus3T|ONEPLUS A3000|
@@ -14559,6 +14572,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|FZ-A2A|fz_a2a|FZ-A2A|
 |Panasonic|FZ-B2|fz_b2bb|FZ-B2B|
 |Panasonic|FZ-B2D|fz_b2d|FZ-B2D|
+|Panasonic|FZ-L1|FZ-L1|FZ-L1|
 |Panasonic|FZ-L1|FZ-L1A|FZ-L1|
 |Panasonic|FZ-L1|FZ-L1AN|FZ-L1|
 |Panasonic|FZ-L1|FZ-L1AN_A|FZ-L1|
@@ -18145,6 +18159,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samtech|T3G_04|T3G_04|T3G_04|
 |Samtech|TWIFI-04|TWIFI-04|TWIFI-04|
 |Sanaeko|FX9|SANAEKO|FX9|
+|Sankey|TAB1012FKY|TAB1012FKY|TAB1012FKY|
 |Sankey|TAB7A3G05|TAB7A3G05|TAB7A3G05|
 |Sansei|TS10A1|TS10A1|TS10A1|
 |Sansei|TS7A1|TS7A1|TS7A1|
@@ -19488,6 +19503,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TAG Heuer|Connected Modular 45 (China)|anthracite|TAG Heuer|
 |TAG Heuer|TAG-DC|TAG-DC|TAG-DC|
 |TCL|C9|A3A_XL_4G|5199I|
+|TCL|GO5C|U3A_PLUS_4G|5033E|
 |TCL|L55E6700UDS|movo_la|movo_la|
 |TCL|LE50UHDE5692G|movo|movo|
 |TCL|LT10|U3A_10_WIFI|8182|
@@ -21567,6 +21583,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vgo Tel|Ocean 8|Ocean_8|Ocean_8|
 |Vgo Tel|Ocean 9|Ocean_9|Ocean_9|
 |Vgo Tel|Ocean9L|Ocean9L|Ocean9L|
+|Vgo Tel|Smart 5|Smart_5|Smart 5|
 |Vgo Tel|VENTURE V12|Venture_V12|Venture V12|
 |Vgo Tel|Venture V8|VentureV8|Venture V8|
 |Vgo Tel|VentureV10|VentureV10|VentureV10|
