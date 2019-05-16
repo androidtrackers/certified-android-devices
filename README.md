@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-05-15
+Last sync is 2019-05-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5522,6 +5522,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HTC|G2|vision|HTC Vision|
 |HTC|G2|vision|T-Mobile G2|
 |HTC|HTC 10 evo|htc_acawhl|HTC 10 evo|
+|HTC|HTC 5G HUB|htc_rtx|HTC 5G Hub|
+|HTC|HTC 5G Hub|htc_rtxspcs|HTC 5G Hub|
 |HTC|HTC Desire 610|htc_a3ul|HTC Desire 610|
 |HTC|HTC Desire 628 dual sim|htc_v36bml_dugl|HTC 2PVG2|
 |HTC|HTC Desire 628 dual sim|htc_v36bml_dugl|HTC Desire 628 dual sim|
@@ -13265,6 +13267,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M7I-3G|M7I-3G|M7I-3G|
 |Multilaser|M7I-3G|astar-ococci|ML01-M7S-Quad-Core|
 |Multilaser|M7SQC Plus|M7SQC_Plus|M7SQC_Plus|
+|Multilaser|M7SQC_ Plus|ML-JI22-M7SQC_Plus|M7SQC_Plus|
+|Multilaser|M7S_LITE|ML-JI07-M7S-LITE|M7S_LITE|
+|Multilaser|M7S_PLUS|ML-JI08-M7S-PLUS|M7S_PLUS|
 |Multilaser|M7S_PLUS|ML-SO07-M7S-PLUS|M7S_PLUS|
 |Multilaser|M7s Dual Core|NB116_NB117_NB118|M7s Dual ML03|
 |Multilaser|M7s Quad Core|astar-ococci|ML01-M7S-Quad-Core|
@@ -17875,6 +17880,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S4|gts4lwifichn|SM-T830|
 |Samsung|Galaxy Tab S5e|gts4lv|SM-T725|
 |Samsung|Galaxy Tab S5e|gts4lv|SM-T725N|
+|Samsung|Galaxy Tab S5e|gts4lv|SM-T727|
 |Samsung|Galaxy Tab S5e|gts4lvwifi|SM-T720|
 |Samsung|Galaxy Tab2 10.1|espresso10att|SAMSUNG-SGH-I497|
 |Samsung|Galaxy Tab2 10.1|espresso10can|SGH-I497|
@@ -18779,6 +18785,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia A|SO-04E|SO-04E|
 |Sony|Xperia A2|SO-04F|SO-04F|
 |Sony|Xperia A4|SO-04G|SO-04G|
+|Sony|Xperia Ace|SO-02L|SO-02L|
 |Sony|Xperia C|C2304|C2304|
 |Sony|Xperia C|C2305|C2305|
 |Sony|Xperia C3|D2533|D2533|
@@ -22206,6 +22213,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|WIM Lite|p6901|WIM Lite|
 |Wiko|W_C200SN|W_C200SN|W_C200SN|
 |Wiko|W_C800|W_C800|W_C800|
+|Wiko|W_C860|W_C860|W_C860|
 |Wiko|W_K120|W_K120|Sunny3|
 |Wiko|W_K300|W_K300|W_K300|
 |Wiko|W_K400|W_K400|W_K400|
