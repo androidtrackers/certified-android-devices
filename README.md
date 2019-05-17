@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-05-16
+Last sync is 2019-05-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1338,6 +1338,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ZenFone 6|ASUS_T00G|ASUS_T00G|
 |Asus|ZenFone 6 (A600CG)|ASUS_T00G|ASUS_T00G|
 |Asus|ZenFone 6 (A601CG)|ASUS_Z002|ASUS_Z002|
+|Asus|ZenFone 6 (ZS630KL)|ASUS_I01WD|ASUS_I01WD|
+|Asus|ZenFone 6 (ZS630KL)|ASUS_I01WD|ZS630KL|
 |Asus|ZenFone AR|ASUS_A002_1|ASUS_A002A|
 |Asus|ZenFone AR (ZS571KL)|ASUS_A002|ASUS_A002|
 |Asus|ZenFone Ares (ZS572KL)|ASUS_A002_2|ASUS_A002|
@@ -13323,7 +13325,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MyPhone (PL)|Cube LTE|CUBE_LTE_PLAY|CUBE_LTE|
 |MyPhone (PL)|Fun_LTE|Fun_LTE|myPhone Fun LTE|
 |MyPhone (PL)|Hammer AXE PRO|Hammer_AXE_Pro_OPM|Hammer AXE Pro|
-|MyPhone (PL)|Hammer Blade 2 PRO|Hammer_Blade2_PRO|Hammer_Blade2_PRO|
+|MyPhone (PL)|Hammer Blade 2 Pro|Hammer_Blade2_PRO|Hammer_Blade2_PRO|
 |MyPhone (PL)|Hammer Titan 2|Hammer_Titan_2|Hammer Titan 2|
 |MyPhone (PL)|Hammer_Active|HammerActive|Hammer Active|
 |MyPhone (PL)|Hammer_Energy_3G|Hammer_Energy_3G|Hammer Energy 3G|
@@ -13357,10 +13359,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Myphone|Fusion5_F803B|Fusion5_F803B|Fusion5_F803B|
 |Myphone|HAMMER BOLT|Hammer_Bolt|Bolt|
 |Myphone|Hammer AXE M LTE|AXE_M_LTE_OPM|HAMMER_AXE_M_LTE|
+|Myphone|Hammer Active 2 LTE|Hammer_Active2_LTE|Hammer_Active2_LTE|
 |Myphone|Hammer Blade|Hammer_Blade|Blade|
 |Myphone|Hammer Energy|Hammer_Energy|Hammer Energy|
+|Myphone|Hammer Energy 18x9|Hammer_Energy_18x9|Hammer_Energy_18x9|
 |Myphone|Hammer Iron 3 LTE|Hammer_Iron_3_LTE|Hammer_Iron_3_LTE|
-|Myphone|Hammer energy 18x9|Hammer_Energy_18x9|Hammer_Energy_18x9|
 |Myphone|Hammer_Active2|Hammer_Active2|Hammer_Active2|
 |Myphone|Iron 2|IRON_2_EN|IRON_2|
 |Myphone|Iron 2|IRON_2_OPM|IRON_2|
@@ -13415,7 +13418,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Myphone|myA8 DTV|myA8_DTV|myA8 DTV|
 |Myphone|myA9_DTV|myA9_DTV|myA9 DTV|
 |Myphone|myNX1|myNX1|myNX1|
-|Myphone|myPhone|Hammer_Active2_LTE|Hammer_Active2_LTE|
 |Myphone|myPhone Q-Smart III Plus|Q-Smart_III_Plus|Q-Smart_III_Plus|
 |Myphone|myPhone FUN7 LTE|myPhone_Fun_7_LTE|myPhone_Fun_7_LTE|
 |Myphone|myPhone Prime 3 Lite|Prime3Lite|Prime3Lite|
@@ -13953,6 +13955,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OTOT|S7|S7|S7|
 |OTOT|S8|S8|S8|
 |OTOT|V350|V350|V350|
+|OTTO|OTTO CR05|OTTO_CR05|OTTO CR05|
 |OWXMobile|W77|W77|W77|
 |OYYU|T11|OYYUT11|OYYUT11|
 |OYYU|T7Pro|T7Pro|T7Pro|
@@ -15600,6 +15603,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |QOOQ|QOOQV3|QOOQ|QOOQ|
 |QUBO|Hermes|Hermes|Hermes|
 |QUBO|MINERVA|MINERVA|MINERVA|
+|QUBO|THOR|THOR|THOR|
 |Qilive|Q.3778|Q3778|Q.3778|
 |Qilive|Q10S55IN4G|Q10S55IN4G|Q10S55IN4G|
 |Qilive|Q10S55IN4G2|Q10S55IN4G2|Q10S55IN4G2|
@@ -18326,6 +18330,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS R2 SHV42|LYV|SHV42|
 |Sharp|AQUOS R2 compact (SH-M09)|SH-M09|SH-M09|
 |Sharp|AQUOS R2 compact 803SH|SG803SH|803SH|
+|Sharp|AQUOS R3 SH-04L|SH-04L|SH-04L|
+|Sharp|AQUOS R3 SHV44|NAX|SHV44|
 |Sharp|AQUOS SERIE SHL25|SHL25|SHL25|
 |Sharp|AQUOS SERIE SHV32|SHV32|SHV32|
 |Sharp|AQUOS SERIE SHV34|SHV34|SHV34|
@@ -21577,6 +21583,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vestel|Venus V3 5570|Venus_V3_5570|Venus_V3_5570|
 |Vestel|Venus V3 5580|Orsa|Venus_V3_5580|
 |Vestel|Venus V5|Teos|Venus V5|
+|Vestel|Venus V7|Pardus|Venus V7|
 |Vestel|Venus Z10|Reys|Venus Z10|
 |Vestel|Venus Z30|Troia|Venus Z30|
 |Vestel|Venus_V3_5040_2GB|Venus_V3_5045|Venus_V3_5040_2GB|
@@ -21681,6 +21688,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V1818A|PD1818|V1818A|
 |Vivo|V1821BA|PD1821|V1821A|
 |Vivo|V1824A|PD1824|V1824A|
+|Vivo|V1901A|PD1901|V1901A|
 |Vivo|V1Max|Y37|vivo Y37|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
@@ -21717,6 +21725,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y11|Y11|vivo Y11|
 |Vivo|Y15|Y15|vivo Y15|
 |Vivo|Y15S|Y15S|vivo Y15S|
+|Vivo|Y17|1902D|vivo 1902|
 |Vivo|Y21|Y21|vivo Y21|
 |Vivo|Y21L|Y21L|vivo Y21L|
 |Vivo|Y22|Y22|vivo Y22|
@@ -21782,6 +21791,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo 1819|1819|vivo 1819|
 |Vivo|vivo 1819|1819N|vivo 1819|
 |Vivo|vivo 1820|1820|vivo 1820|
+|Vivo|vivo 1902|1902|vivo 1902|
 |Vivo|vivo NEX A|PD1806|vivo NEX A|
 |Vivo|vivo NEX S|PD1805|vivo NEX S|
 |Vivo|vivo S1|PD1831|V1831A|
@@ -22766,6 +22776,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Avea inTouch 2|atlas40|Avea inTouch 2|
 |ZTE|Avea inTouch 4|msm8916_32|Avea inTouch 4|
 |ZTE|Avea inTouch 4|msm8916_32|ZTE Blade V220|
+|ZTE|Axon 10 Pro 5G|P855A21|ZTE A2020N2 Pro|
 |ZTE|B2015|msm8916_64|ZTE B2015|
 |ZTE|B2016|msm8916_64|ZTE B2016|
 |ZTE|B2017G|msm8952_64|ZTE B2017G|
@@ -23787,6 +23798,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE A606|P639S10|ZTE A606|
 |ZTE|ZTE AVID 4|calbee|Z855|
 |ZTE|ZTE AVID 559|Z559DL|Z559DL|
+|ZTE|ZTE Axon 10 Pro|P855A01|ZTE A2020G Pro|
+|ZTE|ZTE Axon 10 Pro|P855A02|ZTE A2020 Pro|
 |ZTE|ZTE BLADE A0605|P809F15|ZTE BLADE A0605|
 |ZTE|ZTE BLADE A0605|P809F15|ZTE BLADE A6 MAX|
 |ZTE|ZTE BLADE A0620|P840F12|ZTE BLADE A0620|
