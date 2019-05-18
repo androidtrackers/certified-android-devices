@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-05-17
+Last sync is 2019-05-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4982,6 +4982,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Goo|g08|v12dn|View Prime|
 |Google|Chromebook|coral_cheets|coral|
 |Google|Chromebook|edgar_cheets|Chromebook 14 (CB3-431)|
+|Google|Chromebook|grunt_cheets|grunt|
 |Google|Chromebook|hana_cheets|Lenovo N23 Yoga/Flex 11 Chromebook|
 |Google|Chromebook|hana_cheets|Mediatek MTK8173 Chromebook|
 |Google|Chromebook|jerry_cheets|RK3288 Chrome OS Device|
@@ -4989,6 +4990,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Chromebook|mighty_cheets|RK3288 Chrome OS Device|
 |Google|Chromebook|mighty_cheets|Rockchip RK3288 Chromebook|
 |Google|Chromebook|nami_cheets|nami|
+|Google|Chromebook|octopus_cheets|octopus|
+|Google|Chromebook|rammus_cheets|rammus|
 |Google|Chromebook|reef_cheets|ASUS Chromebook C213NA|
 |Google|Chromebook|reef_cheets|Intel Apollo Lake Chromebook|
 |Google|Chromebook|reef_cheets|reef|
@@ -10435,6 +10438,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG-E985T|gvarfhd|LG-E985T|
 |LGE|LGL22|g2|LGL22|
 |LGE|LM-X420|mmh4|LM-X420|
+|LGE|LM-X525|mmh4p|LM-X525|
 |LGE|Marquee|L-07C|L-07C|
 |LGE|Marquee|LG855|LG-LG855|
 |LGE|Marquee|LS855|LG-LS855|
