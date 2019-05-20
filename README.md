@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-05-19
+Last sync is 2019-05-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2588,6 +2588,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Centric|G1|CM4331|G1|
 |CenturyLink|PureTV|ctl_iptv_mrvl|CTLPlayer|
 |CenturyLink|PureTV|ctl_iptv_mrvl|S60CLI|
+|Changhong|AP(Indonesia etc.)/MENA|ikebukuro|AI PONT|
+|Changhong|AP(Indonesia etc.)/MENA|ikebukuro|CHiQ AI Center|
 |Changhong|GIU6060|GIU6060|GIU6060|
 |Changhong|GIU6860|GIU6860|GIU6860|
 |Channel Master|Stream+|dwt765cha|CM-7600|
@@ -6615,6 +6617,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hoffmann|X-Go|X-Go|X-Go|
 |Hoffmann|X-Ultra|X_Ultra|X_Ultra|
 |Hoffmann|X_Prime|X_Prime|HOFFMANN X-Prime|
+|Hometech|ALFA 8RC|ALFA_8RC|ALFA_8RC|
 |Hometech|ALFA_7RC|ALFA_7RC|ALFA_7RC|
 |Hometech|HT_7RT Tablet PC|HT_7RT|HT_7RT|
 |Hometech|HT_8MZ|HT_8MZ|HT_8MZ|
@@ -9155,6 +9158,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KRIP|K5|K5|K5|
 |KRIP|K6|K6|K6|
 |KRIP|K65|K65|K65|
+|KRIP|K700A|KRIP_K700A|K700A|
 |KRIP|KRIP_K4|KRIP_K4|KRIP_K4|
 |KRIP|KRIP_K55|KRIP_K55|KRIP_K55|
 |KT Tech||s120|KM-S120|
@@ -10347,6 +10351,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG U|bbg|LG-F820L|
 |LGE|LG V35 ThinQ|judyp|LM-V350|
 |LGE|LG V35 ThinQ|judyp|LM-V350N|
+|LGE|LG V50 ThinQ|flashlmdd|LM-V500|
 |LGE|LG V50 ThinQ|flashlmdd|LM-V500N|
 |LGE|LG Venice|u0_cdma|LG-LG730|
 |LGE|LG Viper 4G LTE|cayman|LG-LS840|
@@ -18334,6 +18339,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS R2 SHV42|LYV|SHV42|
 |Sharp|AQUOS R2 compact (SH-M09)|SH-M09|SH-M09|
 |Sharp|AQUOS R2 compact 803SH|SG803SH|803SH|
+|Sharp|AQUOS R3 808SH|SG808SH|808SH|
 |Sharp|AQUOS R3 SH-04L|SH-04L|SH-04L|
 |Sharp|AQUOS R3 SHV44|NAX|SHV44|
 |Sharp|AQUOS SERIE SHL25|SHL25|SHL25|
@@ -21351,6 +21357,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VT|MB300|MB300|SmartTV|
 |Vankyo|Z1|Z1|Z1|
 |Vankyo|Z1_EEA|Z1_EEA|Z1_EEA|
+|Vankyo|Z4|Z4|Z4|
 |Vava|V1|V1|V1|
 |Vava|V1 Plus|V1_Plus|V1 Plus|
 |Vava|V2|V2|V2|
@@ -22321,6 +22328,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |X-TIGI|X_TIGI_V16_LTE|X_TIGI_V16_LTE|X_TIGI_V16_LTE|
 |X-View|AMBER_KIDS|AMBER_KIDS|AMBER_KIDS|
 |X-View|PROTON_AMBER_HD|Proton_Amber_HD|Proton_Amber_HD|
+|XL Axiata|AX512|DV8252|AX512|
 |XL Axiata|XL Home Pow|STI6xxx|STI6030|
 |Xcell|Enia|Xcell_Enia|Enia|
 |Xcell|View|View|View|
@@ -23797,9 +23805,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE A2018|candice|ZTE A2018|
 |ZTE|ZTE A2019 Pro|P845A02|ZTE A2019 Pro|
 |ZTE|ZTE A2019G Pro|P845A01|ZTE A2019G Pro|
+|ZTE|ZTE A2020N2 Pro|P855A21|ZTE A2020N2 Pro|
+|ZTE|ZTE A2020N2 Pro|P855A21|ZTE A2020N3 Pro|
 |ZTE|ZTE A520S|P809S10|ZTE A520S|
 |ZTE|ZTE A530|P639T10|ZTE A530|
 |ZTE|ZTE A606|P639S10|ZTE A606|
+|ZTE|ZTE A7000|P671S02|ZTE A7000|
 |ZTE|ZTE AVID 4|calbee|Z855|
 |ZTE|ZTE AVID 559|Z559DL|Z559DL|
 |ZTE|ZTE Axon 10 Pro|P855A01|ZTE A2020G Pro|
