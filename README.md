@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-05-20
+Last sync is 2019-05-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2842,6 +2842,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Condor|Allure M3|Allure_M3|Allure M3|
 |Condor|Allure M3 Lite|Allure_M3_Lite|Allure M3 Lite|
 |Condor|Allure M3 lite|Allure_M3_Lite|Allure M3 Lite|
+|Condor|Allure X|Allure_X|Allure X|
 |Condor|C1+|C1Plus|C1+|
 |Condor|C6+|PGN_508|PGN-508|
 |Condor|C7|PGN_506|PGN-506|
@@ -3200,6 +3201,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|NOTE S|CUBOT_NOTE_S|CUBOT_NOTE_S|
 |Cubot|QUEST|QUEST|QUEST|
 |Cubot|QUEST LITE|QUEST_LITE|QUEST LITE|
+|Cubot|R15|R15|R15|
 |Cubot|RAINBOW 2|RAINBOW_2|RAINBOW 2|
 |Cubot|Rainbow|RAINBOW|RAINBOW|
 |Cubot|X19|X19|X19|
@@ -3781,6 +3783,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dragontouch|Y88X Plus|Y88X_A|Y88X_A|
 |Dragontouch|Y88X Plus|Y88X_PLUS|Y88X Plus|
 |Dragontouch|Y88X Plus|Y88X_PLUS|Y88X_PLUS|
+|Dragontouch|Y88X_PRO_EEA|Y88X_PRO|Y88X_PRO|
 |Dragontouch|Y88X__PLUS|Y88X__PLUS|Y88X__PLUS|
 |Dreamax|DMX-ST7A|DMX-ST7A|DMX-ST7A|
 |Dtac|Phone M2|dtacPhoneM2|dtacPhoneM2|
@@ -4983,7 +4986,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gonna|Zebra|Zebra|Zebra|
 |Goo|g08|v12dn|View Prime|
 |Google|Chromebook|coral_cheets|coral|
-|Google|Chromebook|edgar_cheets|Chromebook 14 (CB3-431)|
 |Google|Chromebook|grunt_cheets|grunt|
 |Google|Chromebook|hana_cheets|Lenovo N23 Yoga/Flex 11 Chromebook|
 |Google|Chromebook|hana_cheets|Mediatek MTK8173 Chromebook|
@@ -5000,6 +5002,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Chromebook|relm_cheets|Braswell Chrome OS Device|
 |Google|Chromebook|relm_cheets|Intel Braswell Chromebook|
 |Google|Chromebook|wizpig_cheets|Intel Braswell Chromebook|
+|Google|Chromebook 14 (CB3-431)|edgar_cheets|Chromebook 14 (CB3-431)|
 |Google|Chromebook Pixel (2015)|samus_cheets|Google Chromebook Pixel (2015)|
 |Google|Chromebox|fizz_cheets|Chromebox Reference|
 |Google|Chromebox|fizz_cheets|fizz|
@@ -6717,6 +6720,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hotwav|M5|M5|M5|
 |Hotwav|M5 Plus|M5_Plus|M5 Plus|
 |Hotwav|M5i|M5i|M5i|
+|Hotwav|M6|M6|M6|
 |Hotwav|Magic 11|Magic_11|Magic 11|
 |Hotwav|Magic 13|Magic_13|Magic 13|
 |Hotwav|Magic 5|Magic_5|Magic 5|
@@ -9232,6 +9236,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kempler Strauss|Alumini 3 Plus|Alumini_3_Plus|Alumini_3_Plus|
 |Kempler Strauss|KEMPLER 8|KEMPLER_8|KEMPLER_8|
 |Kempler Strauss|KEMPLER_X|KEMPLER_X|KEMPLER_X|
+|Kenbo|B19|B19|B19|
 |Kenbo|E111|E111|E111|
 |Kenbo|E121|E121|E121|
 |Kenbo|E61Pro|E61Pro|E61Pro|
@@ -10734,6 +10739,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|X4+|cv3n|LM-X415L|
 |LGE|X4+|cv3n|LM-X415S|
 |LGE|X5|phoenix_sprout|X5-LG|
+|LGE|X6(2019)|mmh4p|LM-X625N|
 |LGE|Y25|y25|LGL15G|
 |LGE|Y25|y25c|LGL16C|
 |LGE|ZONE4|cv1|LM-X210VPP|
@@ -11039,6 +11045,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Leagoo|Power 5|Power_5|Power 5|
 |Leagoo|Power 5 Lite|Power_5_Lite|Power 5 Lite|
 |Leagoo|S10|S10|S10|
+|Leagoo|S11|S11|S11|
 |Leagoo|S8|S8|S8|
 |Leagoo|S8 Pro|S8Pro|S8 Pro|
 |Leagoo|S9|S9|S9|
@@ -15624,6 +15631,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Qilive|Q9T9IN|Q9T9IN|Q9T9IN|
 |Qilive|W55|W55|W55|
 |Qpad|XL PLUS|t591_hwd_q19_hiya_we|XL PLUS|
+|Qsmart|LT950|LT950|LT950|
 |Qtouch|Q01A|Q01A|Q01A|
 |Qtouch|Q05A|Q05A|Q05A|
 |Qtouch|QS701|QS701|QS701|
@@ -16190,6 +16198,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A6+|a6plte|SM-A605G|
 |Samsung|Galaxy A6+|a6plte|SM-A605GN|
 |Samsung|Galaxy A6+|a6pltechn|SM-A6050|
+|Samsung|Galaxy A60|a60q|SM-A6060|
 |Samsung|Galaxy A7|a73g|SM-A700H|
 |Samsung|Galaxy A7|a7alte|SM-A700F|
 |Samsung|Galaxy A7|a7lte|SM-A700FD|
@@ -16220,6 +16229,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A70|a70q|SM-A705FN|
 |Samsung|Galaxy A70|a70q|SM-A705GM|
 |Samsung|Galaxy A70|a70q|SM-A705MN|
+|Samsung|Galaxy A70|a70q|SM-A705YN|
 |Samsung|Galaxy A8|SCV32|SCV32|
 |Samsung|Galaxy A8|a8elte|SM-A800F|
 |Samsung|Galaxy A8|a8elte|SM-A800YZ|
@@ -18129,6 +18139,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy view|gvltektt|SM-T677NK|
 |Samsung|Galaxy view|gvltelgt|SM-T677NL|
 |Samsung|Galaxy win|delos3gss|GT-I8550L|
+|Samsung|Galaxy-A60|a60q|SM-A6060|
 |Samsung|Galaxy-A9(2016)|a9xltechn|SM-A9000|
 |Samsung|Garda|gardalteMetroPCS|SGH-T399N|
 |Samsung|Garda|gardaltetmo|SGH-T399|
@@ -20130,6 +20141,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033D|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033D_EEA|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033D_RU|
+|TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033F|
+|TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033F_EEA|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033J|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033O|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033S|
@@ -20209,8 +20222,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 5X|A5X|5060D|
 |TCT (Alcatel)|Alcatel 5X|A5X|5060D_EEA|
 |TCT (Alcatel)|Alcatel 5X|A5X|5060J|
-|TCT (Alcatel)|Alcatel ONYX|Edison_CKT|5008R|
-|TCT (Alcatel)|Alcatel ONYX|Edison_CKT|Alcatel_5008R|
+|TCT (Alcatel)|Alcatel ONYX\xe2\x84\xa2|Edison_CKT|5008R|
+|TCT (Alcatel)|Alcatel ONYX\xe2\x84\xa2|Edison_CKT|Alcatel_5008R|
 |TCT (Alcatel)|Alcatel Raven LTE|BUZZ6T4GTFUMTS|A574BL|
 |TCT (Alcatel)|Alcatel U3|PIXI4-4C_GO|4034L_EEA|
 |TCT (Alcatel)|Alcatel one touch 985|one_touch_985A_gsm|ALCATEL_one_touch_985|
@@ -22277,6 +22290,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wintouch|K72P|K72P|K72P|
 |Wiseasy|WISENET5|WISENET5|WISENET5|
 |Wishtel|IRA|IRA|IRAI1705|
+|Wishtel|IRAW7258|IRAW7258|IRAW7258|
 |Wistron|DW-21(A)|DA-21|DW-21(A)|
 |Wistron|W1011A|w1011a|W1011A|
 |Wizphone|WP003|WP003|WP003|
@@ -24240,6 +24254,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iNew|k1|K1|K1|
 |iPlus|iPlus1|iPlus1|iPlus1|
 |iQandT|G3|G3|G3|
+|iQandT|N6|N6|N6|
 |iReplace|Frog One|FrogOne|FrogOne|
 |iRiver||smdkc110|ILT-MX100|
 |iRiver|DMT580D|m805_892x|DDA800R|
