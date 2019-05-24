@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-05-23
+Last sync is 2019-05-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10073,6 +10073,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG K4 LTE|me1ds|LG-K130|
 |LGE|LG K4/K7 (2017)|mlv1|LG-X230|
 |LGE|LG K4/K7 (2017)|mlv1|LG-X230YK|
+|LGE|LG K40|mh4-pr|LM-X420|
 |LGE|LG K40|mmh4|LM-X420|
 |LGE|LG K5|d3|LG-X220|
 |LGE|LG K7|m1|LG-AS330|
@@ -10463,6 +10464,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG-E985T|gvarfhd|LG-E985T|
 |LGE|LGL22|g2|LGL22|
 |LGE|LM-X420|mmh4|LM-X420|
+|LGE|LM-X520|mmh4p-pr|LM-X520|
 |LGE|LM-X525|mmh4p|LM-X525|
 |LGE|Marquee|L-07C|L-07C|
 |LGE|Marquee|LG855|LG-LG855|
@@ -13667,6 +13669,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nanho|F101|F101|F101|
 |NanoTech|Nuvola NP-1|nuvola|Nuvola NP-1|
 |Naomi Phone|Ambar|NAOMIPHONE_Ambar|NAOMIPHONE Ambar|
+|Natcom|X1LTE|X1LTE|X1LTE|
 |Navcity|NAVCITY NP-752|NP_752|NP-752|
 |Navcity|NAVCITY NP-852|NP-852|NP-852|
 |Navcity|NAVCITY NP-855|NP_855|NP-855|
@@ -16107,7 +16110,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Europa|GT-I5503T|GT-I5503T|
 |Samsung|Europa|GT-I5510L|GT-I5510L|
 |Samsung|Exhibit|SGH-T759|SGH-T759|
-|Samsung|G Tab A with S Pen|wisdom|SM-P205|
 |Samsung|GALAXY Camera|gd1|EK-GC100|
 |Samsung|Galaxy (China)|GT-B9062|GT-B9062|
 |Samsung|Galaxy 070|hendrix|YP-GI2|
@@ -19560,7 +19562,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TAG Heuer|Connected Modular 45 (China)|anthracite|TAG Heuer|
 |TAG-DC|TAG-DC|TAG-DC|TAG-DC|
 |TCL|C9|A3A_XL_4G|5199I|
-|TCL|GO5C|U3A_PLUS_4G|5033E|
+|TCL|GO5c|U3A_PLUS_4G|5033E|
 |TCL|L55E6700UDS|movo_la|movo_la|
 |TCL|LE50UHDE5692G|movo|movo|
 |TCL|LT10|U3A_10_WIFI|8182|
