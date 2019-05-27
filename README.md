@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-05-26
+Last sync is 2019-05-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1814,6 +1814,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-7036L|BQru-7036L|BQ-7036L|
 |BQru|BQ-7081G|BQru-7081|BQru-7081|
 |BQru|BQ-7084G|BQru-7084G|BQ-7084G|
+|BQru|BQ-7098G|BQru-7098G|BQ-7098G|
 |BQru|BQ-8041L|BQru-8041L|BQ-8041L|
 |BQru|BQ-8067L|BQru-8067L|BQ-8067L|
 |BQru|BQ-8068L|BQru-8068L|BQ-8068L|
@@ -14436,6 +14437,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|K10000 Mix|K10000_Mix|K10000 Mix|
 |Oukitel|K10000 Pro|K10000_Pro|K10000 Pro|
 |Oukitel|K10000_Max|K10000_Max|K10000 Max|
+|Oukitel|K12|K12|K12|
 |Oukitel|K3|K3|K3|
 |Oukitel|K5|K5|K5|
 |Oukitel|K5000|K5000|K5000|
@@ -14490,6 +14492,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PCD Argentina|PH4003|PH4003|PH4003|
 |PCD Argentina|PH4003 GO|PH4003GO|PH4003 GO|
 |PCD Argentina|PH5003|PH5003|PH5003|
+|PCD Argentina|PH5003 Go|PH5003_Go|PH5003 Go|
 |PCD Argentina|PL4002|PL4002|PL4002|
 |PCD Argentina|PL5003|PL5003|PL5003|
 |PCD Argentina|PL5505|PL5505|PL5505|
