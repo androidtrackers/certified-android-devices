@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-05-27
+Last sync is 2019-05-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8423,6 +8423,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ikon|IK-7108|IK-7108|IK-7108|
 |Ikon|IK-787|IK-787|IK-787|
 |IkuMobile|I3|I3|IKU i3|
+|IkuMobile|IKU_T3|IKU_T3|IKU_T3|
 |IkuMobile|IKU_i1|IKU_i1|i1|
 |IkuMobile|K2|IKU_K2|K2|
 |IkuMobile|K3|K3|IKU K3|
@@ -15643,6 +15644,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |QOOQ|QOOQV3|QOOQ|QOOQ|
 |QUBO|Hermes|Hermes|Hermes|
 |QUBO|MINERVA|MINERVA|MINERVA|
+|QUBO|MINERVA_32GB|MINERVA_32GB|MINERVA_32GB|
 |QUBO|THOR|THOR|THOR|
 |Qilive|Q.3778|Q3778|Q.3778|
 |Qilive|Q10S55IN4G|Q10S55IN4G|Q10S55IN4G|
@@ -20854,6 +20856,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|DroiPad 7D LTE|TECNO-P702|TECNO P702A|
 |Tecno|DroiPad 7D ProLTE|TECNO-P702|TECNO P702|
 |Tecno|DroiPad 7D ProLTE|TECNO-P702|TECNO P702A|
+|Tecno|DroiPad 7F|TECNO-P703|TECNO P703|
 |Tecno|DroiPad 8\xe2\x85\xa1|DP8D|DP8D|
 |Tecno|Droipad10|DP10A|DP10A|
 |Tecno|Droipad10|DP10A|TECNO DP10A|
@@ -22316,6 +22319,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wileyfox|Swift 2|marmite|Wileyfox Swift 2 Plus|
 |Wileyfox|Swift2 Add-X|marmite|Swift 2 Plus|
 |Winds Mobile|MT7001|MT7001|MT7001|
+|Winds Mobile|WINDS-T3|WINDS-T3|T3|
 |Wink|City S|Wink_City_S|Wink_City_S|
 |Wink|Glory_SE|Wink_Glory_SE|Wink Glory SE|
 |Wink|Share SE|Wink_Share_SE|Wink_Share_SE|
@@ -22489,6 +22493,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Mi A2 Lite|daisy_sprout|Mi A2 Lite|
 |Xiaomi|Mi Box|once|MIBOX3|
 |Xiaomi|"Mi Laser Projector 150"""|anglee|MiProjA1|
+|Xiaomi|Mi MIX 3 5G|andromeda|Mi MIX 3 5G|
 |Xiaomi|Mi Note|virgo|MI NOTE LTE|
 |Xiaomi|Mi Note2|scorpio|Mi Note 2|
 |Xiaomi|MiBOX1S|casablanca|MiBOX1S|
@@ -23924,6 +23929,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A3 2019RU|P932F20|ZTE Blade A3 2019RU|
 |ZTE|ZTE Blade A3 Lite|P932F20|ZTE Blade A3 Lite|
 |ZTE|ZTE Blade A5 2019|P963F30|ZTE Blade A5 2019|
+|ZTE|ZTE Blade A5 2019|P963F30P|ZTE Blade A5 2019|
 |ZTE|ZTE Blade A5 2019RU|P963F30P|ZTE Blade A5 2019RU|
 |ZTE|ZTE Blade A522|P817E53|ZTE Blade A522|
 |ZTE|ZTE Blade A531|P932F10|ZTE Blade A531|
@@ -23937,6 +23943,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade V10|P671F20|ZTE Blade V10|
 |ZTE|ZTE Blade V10 Vita|P963F01|ZTE Blade V10 Vita|
 |ZTE|ZTE Blade V10 Vita RU|P963F01|ZTE Blade V10 Vita RU|
+|ZTE|ZTE Blade V1000|P671F20|ZTE Blade V10|
+|ZTE|ZTE Blade V1000|P671F20|ZTE Blade V1000|
 |ZTE|ZTE Blade V1000RU|P671F20D|ZTE Blade V1000RU|
 |ZTE|ZTE Blade V770|P852F52|ZTE Blade V770|
 |ZTE|ZTE Blade V8 Arc|P840V80|ZTE Blade V8 Arc|
