@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-05-28
+Last sync is 2019-05-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3647,6 +3647,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dish|SV10|HiCast|SV10|
 |DishTV (IN)|D-805XATV HD|SEI110|D-805XATV HD|
 |DishTV-NZ|SV10|HiCast|SV10|
+|Disney|Frozen_G9|Frozen_G9|Frozen_G9|
 |Disney Frozen|BMF00001|BMF00001|Frozen|
 |Disney Frozen|DC_COMICS|DC_COMICS|DC_COMICS|
 |Disney Frozen|DYF00001|DYF00001|DYF00001|
@@ -7298,12 +7299,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI P30|HWELE|ELE-L09|
 |Huawei|HUAWEI P30|HWELE|ELE-L29|
 |Huawei|HUAWEI P30|HWELE|ELE-TL00|
-|Huawei|HUAWEI P30 Pro|HWVOG|VOG-AL00|
-|Huawei|HUAWEI P30 Pro|HWVOG|VOG-AL10|
-|Huawei|HUAWEI P30 Pro|HWVOG|VOG-L04|
-|Huawei|HUAWEI P30 Pro|HWVOG|VOG-L09|
-|Huawei|HUAWEI P30 Pro|HWVOG|VOG-L29|
-|Huawei|HUAWEI P30 Pro|HWVOG|VOG-TL00|
 |Huawei|HUAWEI P30 lite|HWMAR|MAR-LX1A|
 |Huawei|HUAWEI P30 lite|HWMAR|MAR-LX1M|
 |Huawei|HUAWEI P30 lite|HWMAR|MAR-LX2|
@@ -7487,6 +7482,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|Huawei MediaPad T5|HWAGS2|AGS2-L09|
 |Huawei|Huawei MediaPad T5|HWAGS2|AGS2-W19|
 |Huawei|Huawei Nova 2|HWPIC|PIC-LX9|
+|Huawei|Huawei P30|HWELE|ELE-L09|
 |Huawei|Huawei Y9 2019|HWJKM-HM|JKM-AL00a|
 |Huawei|IDEOS|U8150|Comet|
 |Huawei|IDEOS|U8150|Ideos|
@@ -7674,6 +7670,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|P20 lite|HWANE|ANE-LX1|
 |Huawei|P20 lite|HWANE|ANE-LX2|
 |Huawei|P20 lite|HWANE|ANE-LX3|
+|Huawei|P30 Pro|HW-02L|HW-02L|
+|Huawei|P30 Pro|HWVOG|VOG-AL00|
+|Huawei|P30 Pro|HWVOG|VOG-AL10|
+|Huawei|P30 Pro|HWVOG|VOG-L04|
+|Huawei|P30 Pro|HWVOG|VOG-L09|
+|Huawei|P30 Pro|HWVOG|VOG-L29|
+|Huawei|P30 Pro|HWVOG|VOG-TL00|
 |Huawei|P6|hwp6-c00|HUAWEI P6-C00|
 |Huawei|P6|hwp6-t00|HUAWEI P6-T00|
 |Huawei|P6|hwp6-t00|HUAWEI P6-T00V|
@@ -17290,6 +17293,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S Vibrant|SGH-T959D|SGH-T959D|
 |Samsung|Galaxy S duos|kyleichn|GT-S7566|
 |Samsung|Galaxy S \xe8\xbd\xbb\xe5\xa5\xa2\xe7\x89\x88|dreamliteqltechn|SM-G8750|
+|Samsung|Galaxy S10|SC-03L|SC-03L|
 |Samsung|Galaxy S10|SCV41|SCV41|
 |Samsung|Galaxy S10|beyond1|SM-G973F|
 |Samsung|Galaxy S10|beyond1|SM-G973N|
@@ -17299,6 +17303,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S10|beyond1q|SM-G973U1|
 |Samsung|Galaxy S10|beyond1q|SM-G973W|
 |Samsung|Galaxy S10 5G|beyondx|SM-G977N|
+|Samsung|Galaxy S10+|SC-04L|SC-04L|
 |Samsung|Galaxy S10+|SCV42|SCV42|
 |Samsung|Galaxy S10+|beyond2|SM-G975F|
 |Samsung|Galaxy S10+|beyond2|SM-G975N|
@@ -18713,6 +18718,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SkyLife|UHD2|IC1110|IC1110|
 |SkyLife|skylife LTE TV|DMTS17SS|DMT_1621|
 |Skyview|M5|M5|M5|
+|Skyworth|APAC 2K TV|shibuya|SWTV|
 |Skyworth|Asia|globe_ap|globe|
 |Skyworth|Asia|open_fhd_ap|open_fhd|
 |Skyworth|Euro|SW3_ATV|SWTV|
@@ -20174,6 +20180,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033F|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033F_EEA|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033J|
+|TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033M|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033O|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033S|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033T|
@@ -20189,6 +20196,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1C|U5A_PLUS_3G|5009D|
 |TCT (Alcatel)|Alcatel 1C|U5A_PLUS_3G|5009D_RU|
 |TCT (Alcatel)|Alcatel 1C|U5A_PLUS_3G|5009U|
+|TCT (Alcatel)|Alcatel 1E|PIXI4-4C_GO|4034T|
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024A|
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024D|
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024D_EEA|
@@ -20254,6 +20262,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel ONYX\xe2\x84\xa2|Edison_CKT|5008R|
 |TCT (Alcatel)|Alcatel ONYX\xe2\x84\xa2|Edison_CKT|Alcatel_5008R|
 |TCT (Alcatel)|Alcatel Raven LTE|BUZZ6T4GTFUMTS|A574BL|
+|TCT (Alcatel)|Alcatel U3|PIXI4-4C_GO|4034L|
 |TCT (Alcatel)|Alcatel U3|PIXI4-4C_GO|4034L_EEA|
 |TCT (Alcatel)|Alcatel one touch 985|one_touch_985A_gsm|ALCATEL_one_touch_985|
 |TCT (Alcatel)|Alcatel9007T|Pixi3_7_4G|Alcatel9007T|
@@ -20916,6 +20925,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|Pouvoir 2|TECNO-LA7|TECNO LA7|
 |Tecno|Pouvoir 2 Pro|TECNO-LA7-13M|TECNO LA7 Pro|
 |Tecno|Pouvoir 3|TECNO-LB7|TECNO LB7|
+|Tecno|Pouvoir 3 Air|TECNO-LC6|TECNO LC6|
 |Tecno|R6|TECNO-R6|TECNO R6|
 |Tecno|R6+|TECNO-RA6|TECNO RA6|
 |Tecno|R7 4G|TECNO-F2LTE|TECNO RA7|
@@ -21949,6 +21959,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vodafone|Vodafone Smart E9|VFD527|VFD 527|
 |Vodafone|Vodafone Smart E9|VFD528|VFD 528|
 |Vodafone|Vodafone Smart E9|VFD529|VFD 529|
+|Vodafone|Vodafone Smart N10|VFD630|VFD 630|
 |Vodafone|Vodafone Smart N9|VFD720|VFD 720|
 |Vodafone|Vodafone Smart V10|VFD730|VFD 730|
 |Vodafone|Vodafone Smart X9|VFD820|VFD 820|
