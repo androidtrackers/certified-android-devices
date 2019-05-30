@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-05-29
+Last sync is 2019-05-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8,6 +8,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |||AD681H|Smartfren Andromax AD681H|
 |||FJL21|FJL21|
 |||hws7721g|MediaPad 7 Youth 2|
+|10.or|10or_G2|G2|10or G2|
 |10.or|D|10or_D|D|
 |10.or|E|E|E|
 |10.or|G|G|G|
@@ -2018,6 +2019,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackfox|BMM542D|BMM542D|BMM542D|
 |Blackfox|BMM543D|BMM543D|BMM543D|
 |Blackfox|BMM_533D|BMM_533D|BMM_533D|
+|Blackshark|Black Shark 2|skywalker|SKW-H0|
 |Blackshark|Shark|shark|SKR-H0|
 |Blackshark|Shark 1S|bullhead|AWM-A0|
 |Blacksonic|BS7|BS7|BS7|
@@ -7246,6 +7248,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HONOR 10i|HWHRY-HF|HRY-LX1T|
 |Huawei|HONOR 20i|HWHRY-HF|HRY-AL00Ta|
 |Huawei|HONOR 4X|hwChe2|Che2-L12|
+|Huawei|HONOR 8S|HWKSA-M|KSA-LX2|
+|Huawei|HONOR 8S|HWKSA-M|KSA-LX3|
 |Huawei|HONOR 8S|HWKSA-M|KSA-LX9|
 |Huawei|HONOR V20|HWPCT|PCT-AL10|
 |Huawei|HONOR V20|HWPCT|PCT-TL10|
@@ -7319,6 +7323,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI Y5 2018|HWDRA-MG|DRA-LX3|
 |Huawei|HUAWEI Y5 2019|HWAMN-M|AMN-LX1|
 |Huawei|HUAWEI Y5 2019|HWAMN-M|AMN-LX2|
+|Huawei|HUAWEI Y5 2019|HWAMN-M|AMN-LX3|
 |Huawei|HUAWEI Y5 2019|HWAMN-M|AMN-LX9|
 |Huawei|HUAWEI Y5 Prime 2018|HWDRA-M|DRA-LX2|
 |Huawei|HUAWEI Y5 lite|HWDRA-MG|DRA-LX5|
@@ -7355,6 +7360,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI Y9 2019|HWJKM-H|JKM-LX1|
 |Huawei|HUAWEI Y9 2019|HWJKM-H|JKM-LX2|
 |Huawei|HUAWEI Y9 2019|HWJKM-H|JKM-LX3|
+|Huawei|HUAWEI Y9 Prime 2019|HWSTK-HF|STK-L21|
 |Huawei|HUAWEI nova 2 Plus|HWBAC|BAC-L21|
 |Huawei|HUAWEI nova 2 Plus|HWBAC|BAC-L22|
 |Huawei|HUAWEI nova 2 lite|HWLDN-Q|LDN-LX2|
@@ -8230,6 +8236,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa98C|HWBKK-Q|BKK-AL00|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa98C|HWBKK-Q|BKK-AL10|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa98C|HWBKK-Q|BKK-TL00|
+|Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa99|HWKSA-M|KSA-AL00|
+|Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa99|HWKSA-M|KSA-TL00|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa9\xe5\xb9\xb3\xe6\x9d\xbf2 9.6|HWBZA-Q|BZA-L00|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa9\xe5\xb9\xb3\xe6\x9d\xbf2 9.6|HWBZA-Q|BZA-W00|
 |Huawei|\xe9\xba\xa6\xe8\x8a\x924|hwRIO-AL00|HUAWEI RIO-AL00|
@@ -9038,6 +9046,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Janam|XT100|XM75|XM75|
 |Janam|XT100|XT100|XT100|
 |Janam|XT2|XT2|XT2|
+|Janam|XT200|XT200|XT200|
 |JapanTaxi|IRIS ITAB05|IRIS_ITAB05|IRIS_ITAB05|
 |Jenesis|JT07-81B|JT07-81B|JT07-81B|
 |Jenesis|JT10-81B|JT10-81B|JT10-81B|
@@ -9367,6 +9376,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Konrow|Sky|Sky|Sky|
 |Konrow|Smartfive|KONROW_Smartfive|Smartfive|
 |Krik Krak|Freedom|Freedom|Freedom|
+|Krono|NET_VOLT|NET_VOLT|NET_VOLT|
 |Krono|SKY|SKY|SKY|
 |Kruger&Matz|DRIVE 5|Drive_5|Kruger&Matz Drive 5|
 |Kruger&Matz|EAGLE 701|EAGLE_KM0701_1|KM0701_1|
@@ -12031,6 +12041,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MLS Innovation|PTB7QSG_3G|iQE200|iQE200|
 |MLS Innovation|iQ1568|iQ1568|iQ1568|
 |MLS Innovation|iQ8011|iQ8011|iQ8011|
+|MLS Innovation|iQL550|iQL550|iQL550|
 |MLS Innovation|iQM960L|iQM960L|iQM960L|
 |MOBO|MB_530|MB_530|MB_530|
 |MOVI|Movi Projector Phone|Movi|Movi Projector Phone|
@@ -13659,6 +13670,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NYX Mobile|SEVEN|SEVEN|SEVEN|
 |NYX Mobile|SHADE|NYX_SHADE|NYX_SHADE|
 |NYX Mobile|TQ14|TQ14|TQ14|
+|NYX Mobile|UMBRA|UMBRA|UMBRA|
 |NYX Mobile|WIDE|WIDE|WIDE|
 |Nabi|2 Tablet|mt799|NABI2-NV7A|
 |Nabi|2S Tablet|nabi2S|SNB02-NV7A|
@@ -24035,6 +24047,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|TC83B0|TC83B0|TC8300|
 |Zebra|TC83BH|TC83BH|TC8300|
 |Zebra|VC80x|VC80x|VC80x|
+|Zebra|"VC8300 8"""|VC8308|VC8300|
 |Zebra|WT6000|WT6000|WT6000|
 |Zeki|TBDG1073|TBDG1073|TBDG1073|
 |Zeki|TBDG734|TBDG734|TBDG734|
