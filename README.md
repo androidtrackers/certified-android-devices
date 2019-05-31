@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-05-30
+Last sync is 2019-05-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2131,6 +2131,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|C5X|C0010LL|C5X|
 |Blu|C6|C031P|C6|
 |Blu|C6L|C0030|C6L|
+|Blu|C6x|C090P|C6x|
 |Blu|D500|D500|D500|
 |Blu|D510|D510|D510|
 |Blu|D600|D600|D600|
@@ -3321,6 +3322,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|S290|S290|S290|
 |DEXP|S370|S370|S370|
 |DEXP|S470|S470|S470|
+|DEXP|Senior|SENIOR|SENIOR|
 |DEXP|T155|T155|T155|
 |DEXP|URSUS S180i|S180i|S180i|
 |DEXP|VA110|VA110|VA110|
@@ -7554,6 +7556,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|Mate 20 X|HWEVR|EVR-AL00|
 |Huawei|Mate 20 X|HWEVR|EVR-L29|
 |Huawei|Mate 20 X|HWEVR|EVR-TL00|
+|Huawei|Mate 20 X (5G)|HWEVR|EVR-AN00|
+|Huawei|Mate 20 X (5G)|HWEVR|EVR-N29|
 |Huawei|Mate 20 lite|HWSNE|SNE-LX1|
 |Huawei|Mate 20 lite|HWSNE|SNE-LX2|
 |Huawei|Mate 20 lite|HWSNE|SNE-LX3|
@@ -10749,6 +10753,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|V30+|joan|LGV35|
 |LGE|V40 ThinQ|judypn|LM-V405|
 |LGE|V40 ThinQ|judypn|LM-V409N|
+|LGE|V50 ThinQ|flashlm|LM-V450|
+|LGE|V50 ThinQ|flashlmdd|LM-V500|
 |LGE|VU3|vu3|LG-F300K|
 |LGE|VU3|vu3|LG-F300L|
 |LGE|VU3|vu3|LG-F300S|
@@ -12352,6 +12358,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Meizu|PRO 7|PRO7S|PRO 7|
 |Meizu|PRO 7|PRO7S|PRO 7-S|
 |Meizu|PRO 7 Plus|PRO7Plus|PRO 7 Plus|
+|Meizu|meizu 16Xs|meizu16Xs|meizu 16Xs|
 |Meizu|meizu C9|meizuC9|meizu C9|
 |Meizu|meizu C9 pro|meizuC9pro|meizu C9 pro|
 |Meizu|meizu M8|meizuM8|meizu M8|
@@ -15235,6 +15242,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo BGH|BGH Y700|Y700|Positivo BGH Y700|
 |Positivo BGH|BGH Y710 kids|Y700|Positivo BGH Y710 KIDS|
 |Positivo BGH|G1101T|MJA1031|G1101T|
+|Positivo BGH|KC770|KC770|KC770|
 |Positivo BGH|M840|M840|Positivo BGH M840|
 |Positivo BGH|P718TAB|P718TAB|Positivo BGH P718TAB|
 |Positivo BGH|Positivo BGH +Simple|C805|Positivo BGH +Simple|
@@ -16145,6 +16153,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A20|a20|SM-A205FN|
 |Samsung|Galaxy A20|a20|SM-A205G|
 |Samsung|Galaxy A20|a20|SM-A205GN|
+|Samsung|Galaxy A20|a20|SM-A205W|
 |Samsung|Galaxy A20|a20|SM-A205YN|
 |Samsung|Galaxy A20e|a20e|SM-A202F|
 |Samsung|Galaxy A3|a33g|SM-A300H|
@@ -16171,6 +16180,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A3(2017)|a3y17lte|SM-A320F|
 |Samsung|Galaxy A3(2017)|a3y17lte|SM-A320FL|
 |Samsung|Galaxy A3(2017)|a3y17lte|SM-A320X|
+|Samsung|Galaxy A30|SCV43|SCV43|
 |Samsung|Galaxy A30|a30|SM-A305F|
 |Samsung|Galaxy A30|a30|SM-A305FN|
 |Samsung|Galaxy A30|a30|SM-A305G|
@@ -16273,6 +16283,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A70|a70q|SM-A705FN|
 |Samsung|Galaxy A70|a70q|SM-A705GM|
 |Samsung|Galaxy A70|a70q|SM-A705MN|
+|Samsung|Galaxy A70|a70q|SM-A705W|
 |Samsung|Galaxy A70|a70q|SM-A705YN|
 |Samsung|Galaxy A8|SCV32|SCV32|
 |Samsung|Galaxy A8|a8elte|SM-A800F|
@@ -16878,6 +16889,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy J8|j8y18lte|SM-J810M|
 |Samsung|Galaxy J8|j8y18lte|SM-J810Y|
 |Samsung|Galaxy Jean|a6pltektt|SM-A605K|
+|Samsung|Galaxy Jean2|a20e|SM-A202K|
 |Samsung|Galaxy K|SHW-M130K|SHW-M130K|
 |Samsung|Galaxy K Zoom|m2a3g|SM-C111|
 |Samsung|Galaxy K Zoom|m2a3g|SM-C111M|
@@ -17765,6 +17777,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A|gt5note8lte|SM-P355M|
 |Samsung|Galaxy Tab A|gt5note8ltechn|SM-P355C|
 |Samsung|Galaxy Tab A|gta3xl|SM-T515|
+|Samsung|Galaxy Tab A|gta3xl|SM-T515N|
 |Samsung|Galaxy Tab A|gta3xlwifi|SM-T510|
 |Samsung|Galaxy Tab A|gtasliteltecs|SM-T387W|
 |Samsung|Galaxy Tab A|gtaxlqltespr|SM-T587P|
@@ -18690,9 +18703,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|Elite Go|Elite_Go_SV|Elite Go|
 |Sky Devices|Elite M45|Elite_M45|Elite M45|
 |Sky Devices|Elite M5Plus|Elite_M5Plus|Elite M5Plus|
+|Sky Devices|Elite M5Plus|Elite_M5Plus_PA|Elite M5Plus|
 |Sky Devices|Elite M5Plus|Elite_M5Plus_SAL|Elite M5Plus|
 |Sky Devices|Elite T4|Elite_T4|Elite T4|
 |Sky Devices|Elite T45|Elite_T45|Elite T45|
+|Sky Devices|Elite T55|Elite_T55_HN|Elite T55|
 |Sky Devices|Elite T55|Elite_T55_SV|Elite T55|
 |Sky Devices|Fuego 4.0T|Fuego_4_0T_EC|Fuego 4.0T|
 |Sky Devices|PLATINUM 4.0|Platinum_40|Platinum 4.0|
@@ -18849,6 +18864,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Tablet S|nbx03|Sony Tablet S|
 |Sony|Xperia E1 dual|D2114|D2114|
 |Sony|Xperia M|C1905|C1905|
+|Sony|Xperia 1|802SO|802SO|
+|Sony|Xperia 1|J8110|J8110|
+|Sony|Xperia 1|J8170|J8170|
+|Sony|Xperia 1|J9110|J9110|
+|Sony|Xperia 1|SO-03L|SO-03L|
+|Sony|Xperia 1|SOV40|SOV40|
 |Sony|Xperia 10|I3113|I3113|
 |Sony|Xperia 10|I3123|I3123|
 |Sony|Xperia 10|I4113|I4113|
@@ -19404,6 +19425,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Starlight|Starplus 7|STARPLUS7|STARPLUS7|
 |Starlight|UMI_G|UMI_G|UMI_G|
 |Starlight|VENUS|VENUS|VENUS|
+|Starlight|Vegas|Vegas|Vegas|
 |Starlight|star_X|star_X|star_X|
 |Starlight|star_phone_x|star_phone_x|star_phone_x|
 |Starlight|star_plus_plus|star_plus_plus|star_plus_plus|
@@ -22628,6 +22650,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Yuho|YUHO_Y1_STAR|YUHO_Y1_STAR|YUHO_Y1_STAR|
 |Yuho|YUHO_Y1_StarS|YUHO_Y1_StarS|YUHO_Y1_StarS|
 |Yuho|YUHO_Y3_PRO|YUHO_Y3_PRO|YUHO_Y3_PRO|
+|Yumpingo|YUMPINGO_1|YUMPINGO_1|YUMPINGO_1|
 |ZOOMME|M2|M2|M2|
 |ZTE||BUL_P726G|ZTE-RACER|
 |ZTE||D930|D930|
