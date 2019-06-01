@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-05-31
+Last sync is 2019-06-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7248,6 +7248,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|H892L|hwH892L|HUAWEI H892L|
 |Huawei|HAUWEI Y5 Lite 2018|HWCAG-L6737M|CAG-L22|
 |Huawei|HONOR 10i|HWHRY-HF|HRY-LX1T|
+|Huawei|HONOR 20|HWYAL|YAL-AL00|
+|Huawei|HONOR 20|HWYAL|YAL-TL00|
 |Huawei|HONOR 20i|HWHRY-HF|HRY-AL00Ta|
 |Huawei|HONOR 4X|hwChe2|Che2-L12|
 |Huawei|HONOR 8S|HWKSA-M|KSA-LX2|
@@ -7305,6 +7307,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI P30|HWELE|ELE-L09|
 |Huawei|HUAWEI P30|HWELE|ELE-L29|
 |Huawei|HUAWEI P30|HWELE|ELE-TL00|
+|Huawei|HUAWEI P30 lite|HWMAR|HWV33|
 |Huawei|HUAWEI P30 lite|HWMAR|MAR-LX1A|
 |Huawei|HUAWEI P30 lite|HWMAR|MAR-LX1M|
 |Huawei|HUAWEI P30 lite|HWMAR|MAR-LX2|
@@ -7687,6 +7690,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|P30 Pro|HWVOG|VOG-L09|
 |Huawei|P30 Pro|HWVOG|VOG-L29|
 |Huawei|P30 Pro|HWVOG|VOG-TL00|
+|Huawei|P30 lite|HWMAR|MAR-LX2J|
 |Huawei|P6|hwp6-c00|HUAWEI P6-C00|
 |Huawei|P6|hwp6-t00|HUAWEI P6-T00|
 |Huawei|P6|hwp6-t00|HUAWEI P6-T00V|
