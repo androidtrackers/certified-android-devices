@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-06-02
+Last sync is 2019-06-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1798,6 +1798,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-5520L Silk|BQru-5520L|BQ-5520L|
 |BQru|BQ-5521 STRIKE POWER MAX|BQru-5521|BQru-5521|
 |BQru|BQ-5522\xc2\xa0Next|BQru-5522|BQ-5522|
+|BQru|BQ-5528L|BQru-5528L|BQ-5528L|
 |BQru|BQ-5590 Spring|BQru_5590|BQru_5590|
 |BQru|BQ-5591 Jeans|BQru-5591|BQ-5591|
 |BQru|BQ-5594 Strike Power Max|BQru_5594|BQ-5594|
@@ -3982,6 +3983,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ematic|FunTab 2|FunTab2|FunTab2|
 |Ematic|FunTab 3|Funtab3|FunTabPlay|
 |Ematic|FunTab 3|Funtab3|Funtab3|
+|Ematic|FunTab4|FunTab4|FunTab4|
 |Ematic|GTB103B|Stealth_GTB103M|GTB103M|
 |Ematic|Jetstream AGT418|DV8235|AGT419|
 |Ematic|Jetstream AGT418|DV8235|Jetstream AGT418|
@@ -14133,6 +14135,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A39m|A39|OPPO A39m|
 |Oppo|A39t|A39|OPPO A39t|
 |Oppo|A39tm|A39|OPPO A39tm|
+|Oppo|A3s|CPH1803|CPH1803|
 |Oppo|A3s|CPH1853|CPH1853|
 |Oppo|A5|CPH1809|CPH1809|
 |Oppo|A5|PBAM00|PBAM00|
@@ -14200,7 +14203,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|CPH1727|CPH1727|CPH1727|
 |Oppo|CPH1729|CPH1729|CPH1729|
 |Oppo|CPH1801|CPH1801|CPH1801|
-|Oppo|CPH1803|CPH1803|CPH1803|
 |Oppo|CPH1803RU|CPH1803|CPH1803|
 |Oppo|CPH1805|CPH1805|CPH1805|
 |Oppo|CPH1807|CPH1807|CPH1807|
@@ -23945,6 +23947,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE BLADE A520|P637F10|ZTE BLADE A520|
 |ZTE|ZTE BLADE A520C|P809F10|ZTE BLADE A520C|
 |ZTE|ZTE BLADE A521|P809F10|ZTE BLADE A521|
+|ZTE|ZTE BLADE A522|P817E53|ZTE BLADE A522|
+|ZTE|ZTE BLADE A522|P817E53|ZTE Blade A522|
 |ZTE|ZTE BLADE A530|P639F10|ZTE BLADE A530|
 |ZTE|ZTE BLADE A530|P639F10L|ZTE BLADE A530|
 |ZTE|ZTE BLADE A6|P840F13|ZTE BLADE A6|
