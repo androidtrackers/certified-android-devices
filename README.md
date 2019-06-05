@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-06-04
+Last sync is 2019-06-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -680,6 +680,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Amgoo|AM535|AM535|AM535|
 |Amgoo|AMGOO|AM518|AM518|
 |Amgoo|Amgoo|AM518|AM518|
+|Aminocom|Amigo|Amigo|Amigo7|
 |Amplify|TL10RA3|TL10RA3_1|TL10RA3|
 |Amplify|TR10CD3|TR10CD3_1|TR10CD3|
 |Amplify|TR10CD3|TR10CD3_2|TR10CD3|
@@ -945,6 +946,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Archos|Alba 8\'\'|ac80cplv2_16G|"Alba 8"""|
 |Archos|ArcBook|a101db|Archos 101 DB|
 |Archos|Archos|ac101aswf|Archos Access 101 Wifi|
+|Archos|Archos|ac101cr3gv5|Archos Core 101 3G v5|
 |Archos|Archos|ac101hello|Archos Hello 10|
 |Archos|Archos|ac57as3g|Archos Access 57 3G|
 |Archos|Archos 101 Oxygen 4G|ac101ox4g|Archos 101 Oxygen 4G|
@@ -982,6 +984,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Archos|Archos Access 55 3G|ac55as3g|Archos Access 55 3G|
 |Archos|Archos Access 57 4G|ac57as4g|Archos Access 57 4G|
 |Archos|Archos Access 70 3G|ac70as3g|Archos Access 70 3G|
+|Archos|Archos Access 70 Wifi|ac70aswf|Archos Access 70 Wifi|
 |Archos|Archos Core 101 3G|ac101cr3g|Archos Core 101 3G|
 |Archos|Archos Core 101 3G|ac101cr3gv2|Archos Core 101 3G|
 |Archos|Archos Core 101 3G|ac101cr3gv3|Archos Core 101 3G|
@@ -1001,8 +1004,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Archos|Archos Core 62S|ac62crs|Archos Core 62S|
 |Archos|Archos Core 70 3G|ac70cr3g|Archos Core 70 3G|
 |Archos|Archos Core 70 3G|ac70cr3gv2|Archos Core 70 3G|
+|Archos|Archos Core 80 Wifi|ac80crwf|Archos Core 80 Wifi|
 |Archos|Archos Hello 5|ac50hello|Archos Hello 5|
 |Archos|Archos Hello 7|ac70hello|Archos Hello 7|
+|Archos|Archos Oxygen 57|ac57ox|Archos Oxygen 57|
+|Archos|Archos Oxygen 63|ac63ox|Archos Oxygen 63|
 |Archos|Archos Saphir 50X|ac50sax|Archos Saphir 50X|
 |Archos|Archos Sense 101X|ac101xse|Archos Sense 101 X|
 |Archos|Archos Sense 47 X|ac47xse|Archos Sense 47 X|
@@ -3791,6 +3797,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dotpad|Fire V8|FIRE_V8|FIRE_V8|
 |Dragontouch|K8|K8|K8|
 |Dragontouch|M10|M10|M10|
+|Dragontouch|M7|M7|M7|
 |Dragontouch|V10|V10|V10|
 |Dragontouch|X10|X10A|X10|
 |Dragontouch|X10|tulip-d210|X10|
@@ -4591,7 +4598,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fujitsu|SZJ-JS101|SZJ101|SZJ-JS101|
 |Fujitsu|TM20|STF|TM20|
 |Fujitsu|TONE m17|TONEm17|TONE-m17|
-|Fujitsu|arrows Be F-05J|F05J|F-05J|
 |Fujitsu|arrows M02|M02|M02|
 |Fujitsu|arrows M03|M03|arrowsM03|
 |Fujitsu|arrows M04|M04|arrowsM04|
@@ -7296,6 +7302,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI MediaPad M5 lite|HWBAH2|BAH2-L09|
 |Huawei|HUAWEI MediaPad M5 lite|HWBAH2|BAH2-W19|
 |Huawei|HUAWEI MediaPad M5 lite|HWJDN2|JDN2-L09|
+|Huawei|HUAWEI MediaPad M5 lite|HWJDN2|JDN2-W09|
 |Huawei|HUAWEI MediaPad T3 10|HWAGS-Q|AGS-L03|
 |Huawei|HUAWEI MediaPad T3 10|HWAGS-Q|AGS-L09|
 |Huawei|HUAWEI MediaPad T3 10|HWAGS-Q|AGS-W09|
@@ -8139,7 +8146,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe6\x8f\xbd\xe9\x98\x85M2\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x887.0|hwple703l|PLE-703L|
 |Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab 8e \xe9\x9d\x92\xe6\x98\xa5|HWDRA-M|DRA-AL00|
 |Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab 8e \xe9\x9d\x92\xe6\x98\xa5|HWDRA-M|DRA-TL00|
-|Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab 9S|HWPOT-H|POT-AL00|
 |Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab 9S|HWPOT-HF|POT-AL00a|
 |Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab 9S|HWPOT-HF|POT-TL00a|
 |Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab 9e|HWMRD-M|MRD-AL00|
@@ -8258,6 +8264,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa99|HWKSA-M|KSA-TL00|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa9\xe5\xb9\xb3\xe6\x9d\xbf2 9.6|HWBZA-Q|BZA-L00|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa9\xe5\xb9\xb3\xe6\x9d\xbf2 9.6|HWBZA-Q|BZA-W00|
+|Huawei|\xe9\xba\xa6\xe8\x8a\x92 8|HWPOT-H|POT-AL00|
 |Huawei|\xe9\xba\xa6\xe8\x8a\x924|hwRIO-AL00|HUAWEI RIO-AL00|
 |Huawei|\xe9\xba\xa6\xe8\x8a\x925|HWMLA|HUAWEI MLA-AL00|
 |Huawei|\xe9\xba\xa6\xe8\x8a\x925|HWMLA|HUAWEI MLA-AL10|
@@ -8542,6 +8549,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|S2|Infinix-X522|Infinix S2 Pro|
 |Infinix|S4|Infinix-X626|Infinix X626|
 |Infinix|S4|Infinix-X626B|Infinix X626B|
+|Infinix|S4|Infinix-X626B-LTE|Infinix X626B LTE|
 |Infinix|SURF 2|INFINIX_X511|Infinix X511|
 |Infinix|Smart 2|Infinix-X5515|Infinix X5515|
 |Infinix|Smart 2|Infinix-X5515F|Infinix X5515F|
@@ -11839,6 +11847,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logic Instrument|Logic Instrument Fieldbook KS80|lifbks80|Logic Instrument Fieldbook KS80|
 |Logic Instrument|Logic Instrument Fieldbook N80|lifbn80|Logic Instrument Fieldbook N80|
 |Logic Mobility|L5G|L5G|L5G|
+|Logic Mobility|LOGIC_L55S|LOGIC_L55S|LOGIC L55S|
 |Logic Mobility|LOGIC_L5D|LOGIC_L5D|LOGIC_L5D|
 |Logic Mobility|T10B|T10B|T10B|
 |Logic Mobility|T3G|T3G|T3G|
@@ -14607,6 +14616,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|ELUGA Turbo|ELUGA_Turbo|ELUGA Turbo|
 |Panasonic|ELUGA U|ELUGA_U|Panasonic ELUGA U|
 |Panasonic|ELUGA U2|ELUGA_U2|Panasonic ELUGA U2|
+|Panasonic|ELUGA U3|ELUGA_U3|ELUGA U3|
 |Panasonic|ELUGA V|P-06D|P-06D|
 |Panasonic|ELUGA WE|ELUGA_WE|Panasonic ELUGA WE|
 |Panasonic|ELUGA X|P-02E|P-02E|
@@ -15260,6 +15270,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo BGH|BGH Y710 kids|Y700|Positivo BGH Y710 KIDS|
 |Positivo BGH|G1101T|MJA1031|G1101T|
 |Positivo BGH|KC770|KC770|KC770|
+|Positivo BGH|KC770|KC771|KC770|
 |Positivo BGH|M840|M840|Positivo BGH M840|
 |Positivo BGH|P718TAB|P718TAB|Positivo BGH P718TAB|
 |Positivo BGH|Positivo BGH +Simple|C805|Positivo BGH +Simple|
@@ -18277,6 +18288,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sansui|ETAB S7042G|S7042G|ETAB_S7042G|
 |Sansui|Fun|Sansui_Fun|Sansui Fun|
 |Sansui|Go|S401|Go|
+|Sansui|Grand|Grand|Grand|
+|Sansui|Nitro|Nitro|Nitro|
 |Sansui|Sansui Play|Play|Sansui Play|
 |Sansui|Sansui_Nova|Sansui_Nova|Sansui_Nova|
 |Sansui|Switch|SansuiSwitch|Sansui_Switch|
@@ -19628,6 +19641,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TAG Heuer|Connected Modular 45|anthracite|TAG Heuer|
 |TAG Heuer|Connected Modular 45 (China)|anthracite|TAG Heuer|
 |TAG-DC|TAG-DC|TAG-DC|TAG-DC|
+|TCL|Beyond TV|BeyondTV|BeyondTV|
 |TCL|C9|A3A_XL_4G|5199I|
 |TCL|GO5c|U3A_PLUS_4G|5033E|
 |TCL|L55E6700UDS|movo_la|movo_la|
@@ -21722,6 +21736,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vgo Tel|Ocean 8|Ocean_8|Ocean_8|
 |Vgo Tel|Ocean 9|Ocean_9|Ocean_9|
 |Vgo Tel|Ocean9L|Ocean9L|Ocean9L|
+|Vgo Tel|Smart 2|Smart_2|Smart 2|
 |Vgo Tel|Smart 4|Smart_4|Smart 4|
 |Vgo Tel|Smart 5|Smart_5|Smart 5|
 |Vgo Tel|VENTURE V12|Venture_V12|Venture V12|
@@ -22384,6 +22399,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|Y60|W-K510|W-K510-TVM|
 |Wiko|Y80|W-V720|W-V720-EEA|
 |Wiko|Y80|W-V720|W-V720-OPE|
+|Wiko|sunny4 Plus|W-K360|W-K360-TV|
 |Wileyfox|Spark|porridge|Wileyfox Spark|
 |Wileyfox|Spark|porridge|Wileyfox Spark +|
 |Wileyfox|Spark|porridgek3|Wileyfox Spark X|
