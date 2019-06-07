@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-06-06
+Last sync is 2019-06-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8259,13 +8259,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa97X|HWBND-H|BND-AL00|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa97X|HWBND-H|BND-AL10|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa97X|HWBND-H|BND-TL10|
+|Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa98|HWKSA-M|KSA-AL00|
+|Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa98|HWKSA-M|KSA-TL00|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa98A|HWJAT-M|JAT-AL00|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa98A|HWJAT-M|JAT-TL00|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa98C|HWBKK-Q|BKK-AL00|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa98C|HWBKK-Q|BKK-AL10|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa98C|HWBKK-Q|BKK-TL00|
-|Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa99|HWKSA-M|KSA-AL00|
-|Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa99|HWKSA-M|KSA-TL00|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa9\xe5\xb9\xb3\xe6\x9d\xbf2 9.6|HWBZA-Q|BZA-L00|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x80\xe7\x95\x85\xe7\x8e\xa9\xe5\xb9\xb3\xe6\x9d\xbf2 9.6|HWBZA-Q|BZA-W00|
 |Huawei|\xe9\xba\xa6\xe8\x8a\x92 8|HWPOT-H|POT-AL00|
@@ -16157,6 +16157,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung||stunnerltespr|SPH-L500|
 |Samsung||superiorchn|GT-I9260|
 |Samsung|\t Galaxy A7(2016)|a7xltechn|SM-A710XZ|
+|Samsung|"400|000"|m40|
 |Samsung|Absolute|GT-B9120|GT-B9120|
 |Samsung|Acclaim|SCH-R880|SCH-R880|
 |Samsung|Admire|SCH-R720|SCH-R720|
@@ -17375,7 +17376,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S10|beyond1q|SM-G973U|
 |Samsung|Galaxy S10|beyond1q|SM-G973U1|
 |Samsung|Galaxy S10|beyond1q|SM-G973W|
+|Samsung|Galaxy S10 5G|beyondx|SM-G977B|
 |Samsung|Galaxy S10 5G|beyondx|SM-G977N|
+|Samsung|Galaxy S10 5G|beyondxq|SM-G977U|
 |Samsung|Galaxy S10+|SC-04L|SC-04L|
 |Samsung|Galaxy S10+|SCV42|SCV42|
 |Samsung|Galaxy S10+|beyond2|SM-G975F|
