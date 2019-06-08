@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-06-07
+Last sync is 2019-06-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14138,6 +14138,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A1601|A1601|A1601fw|
 |Oppo|A1601fw|A1601|A1601fw|
 |Oppo|A1603|A1603|A1603|
+|Oppo|A1k|OP486C|CPH1923|
 |Oppo|A3|CPH1837|CPH1837|
 |Oppo|A3|PADM00|PADM00|
 |Oppo|A3|PADT00|PADT00|
