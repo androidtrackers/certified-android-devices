@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-06-11
+Last sync is 2019-06-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -440,6 +440,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiwa|Z9 PLUS|AIWA_Z9_PLUS|Z9 PLUS|
 |Akai|FZ701|FZ701|FZ701|
 |Akai|FZ702|FZ702|FZ702|
+|Akai|FZ703|FZ703|FZ703|
 |Akari|AX-115ATV|DV8035|AX-115ATV|
 |Akari|AX-117ATV|DV8219|AX-117ATV|
 |Alba|ALBA 7 TABLET|ac70plv6|ALBA 7 TABLET|
@@ -649,7 +650,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Altice|S22|S22|S22|
 |Altice|S31|S31|Altice_S31|
 |Altice|S31|S31|S31|
+|Altice|S32|S32|S32|
 |Altice|S41|HS6737MT|S41|
+|Altice|S42|S42|S42|
 |Altice|S51|HS6737MT|S51|
 |Altice|S61|S61|S61|
 |Altice|STARACTIVE|STARACTIVE|STARACTIVE|
@@ -3518,6 +3521,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DigiLand|DL785D|DL785D|PLT7803G|
 |DigiLand|DL8006|DL8006|DL8006|
 |DigiLand|DL9002|DL9002|DL9002|
+|DigiLand|EVERPAD|EVERPAD|SC-725|
 |DigiLand|KTAB17|KTAB17|KTAB17|
 |DigiLand|MID1008_Digiland|mid1008|DL1008M|
 |DigiLand|MID8006_Digiland|mid8006_mk_32|mid8006_mk_32|
@@ -6001,6 +6005,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|TAB-700|TAB_700|TAB-700|
 |Haier|TAB-700|TAB_700|TAB700MPG|
 |Haier|TMK27A2|TMK27A2|TMK27A2|
+|Haier|Titan_T3|Titan_T3|Titan_T3|
 |Haier|V3|V3|V3|
 |Haier|Voyage V6|HM-V6|HM-V6|
 |Haier|W717|W717|W717|
@@ -8039,6 +8044,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|Y7|HWTRT-Q|TRT-LX3|
 |Huawei|Y7 Prime 2019|HWDUB-Q|DUB-LX1|
 |Huawei|Y7 Pro 2019|HWDUB-Q|DUB-AL20|
+|Huawei|Y9 Prime 2019|HWSTK-HF|STK-L22|
 |Huawei|Youth|hws7701u|Orinoquia Gran Roraima S7-702u|
 |Huawei|ascend-5w|HWH1621-Q|H1623|
 |Huawei|d-01G|d-01G|d-01G|
@@ -8464,6 +8470,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ikon|IK-787|IK-787|IK-787|
 |IkuMobile|I3|I3|IKU i3|
 |IkuMobile|IKU_T3|IKU_T3|IKU_T3|
+|IkuMobile|IKU_T_max|IKU_T_max|IKU_T_max|
 |IkuMobile|IKU_i1|IKU_i1|i1|
 |IkuMobile|K2|IKU_K2|K2|
 |IkuMobile|K3|K3|IKU K3|
@@ -13746,6 +13753,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Navon|M505|M505_4G|M505_4G|
 |Navon|Navon Supreme Pure|Supreme_Pure|Navon Supreme Pure|
 |Navon|Navon_Orpheus_3G|Navon_Orpheus_3G|Navon Orpheus 3G|
+|Navon|Pad 10|Pad_10|Pad_10|
 |Navon|Platinum 10 3G|Platinum_10_3G|Platinum 10 3G|
 |Navon|Platinum 10 3G|Platinum_10_3G_V2|Platinum_10_3G_V2|
 |Navon|Predator 10|Predator_10|Predator 10|
@@ -13894,6 +13902,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia 3|NE1|TA-1038|
 |Nokia|Nokia 3.1|ES2N_sprout|Nokia 3.1|
 |Nokia|Nokia 3.1|ES2_sprout|Nokia 3.1|
+|Nokia|Nokia 3.1 A|EAG|Nokia 3.1 A|
 |Nokia|Nokia 3.1 Plus|RHD|Nokia 3.1 Plus|
 |Nokia|Nokia 3.1 Plus|ROO|Nokia 3.1 Plus|
 |Nokia|Nokia 3.1 Plus|ROON_sprout|Nokia 3.1 Plus|
@@ -14452,11 +14461,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Orange|Dive_70|Dive_70|SCL-L01|
 |Orange|Five|OrangeFive|OrangeFive|
 |Orange|Luno|Luno|Luno|
+|Orange|Mahpee|Mahpee|Orange Mahpee|
 |Orange|MouveTab7WIFI|MouveTab7WIFI|MouveTab7WIFI|
 |Orange|NOS Roya|Alto45|NOS Roya|
 |Orange|Neva 80|Orange_Neva_80|Orange Neva 80|
 |Orange|Nura|M812|Orange Nura|
 |Orange|Nura2|m823_orange|Nura 2|
+|Orange|Orange|Rise_55|Orange Rise 55|
 |Orange|Orange Rise 33|Rise33|Orange_Rise_33|
 |Orange|Orange Rise 53|Rise_53|Orange Rise 53|
 |Orange|Race_1|Race_1|Race 1|
@@ -15592,6 +15603,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Protab|PTBPT5QCB7|PTBPT5QCB7|PTBPT5QCB7|
 |QBell|QPHONE_10_1|QPHONE_10_1|QPHONE_10.1|
 |QBell|QPHONE_9_3|QPHONE_9_3|QPHONE_9_3|
+|QBell|QTAB10|QTAB10|QTAB10|
 |QFX USA|TLW-100|PhonePad|TLW-100|
 |QLA|C600|GBC_bravo|C600|
 |QMobile|A1|QMobile_Noir_A1|Noir A1|
@@ -16158,7 +16170,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung||stunnerltespr|SPH-L500|
 |Samsung||superiorchn|GT-I9260|
 |Samsung|\t Galaxy A7(2016)|a7xltechn|SM-A710XZ|
-|Samsung|"400|000"|m40|
 |Samsung|Absolute|GT-B9120|GT-B9120|
 |Samsung|Acclaim|SCH-R880|SCH-R880|
 |Samsung|Admire|SCH-R720|SCH-R720|
@@ -16230,6 +16241,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A3(2017)|a3y17lte|SM-A320X|
 |Samsung|Galaxy A30|SCV43|SCV43|
 |Samsung|Galaxy A30|SCV43-j|SCV43-j|
+|Samsung|Galaxy A30|SCV43-u|SCV43-u|
 |Samsung|Galaxy A30|a30|SM-A305F|
 |Samsung|Galaxy A30|a30|SM-A305FN|
 |Samsung|Galaxy A30|a30|SM-A305G|
@@ -16240,6 +16252,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A40|a40|SM-A405FM|
 |Samsung|Galaxy A40|a40|SM-A405FN|
 |Samsung|Galaxy A40s|a30c|SM-A3050|
+|Samsung|Galaxy A40s|a30c|SM-A3051|
 |Samsung|Galaxy A40s|a30c|SM-A3058|
 |Samsung|Galaxy A5|a53g|SM-A500H|
 |Samsung|Galaxy A5|a5lte|SM-A500F|
@@ -16962,6 +16975,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M20|m20lte|SM-M205M|
 |Samsung|Galaxy M30|m30lte|SM-M305F|
 |Samsung|Galaxy M30|m30lte|SM-M305M|
+|Samsung|Galaxy M40|m40|SM-M405F|
 |Samsung|Galaxy Mega 2|mega23g|SM-G750H|
 |Samsung|Galaxy Mega 5.8|crater|GT-I9152|
 |Samsung|Galaxy Mega 5.8|crater3gctc|SCH-P709|
@@ -17379,6 +17393,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S10|beyond1q|SM-G973W|
 |Samsung|Galaxy S10 5G|beyondx|SM-G977B|
 |Samsung|Galaxy S10 5G|beyondx|SM-G977N|
+|Samsung|Galaxy S10 5G|beyondxq|SM-G977P|
 |Samsung|Galaxy S10 5G|beyondxq|SM-G977U|
 |Samsung|Galaxy S10+|SC-04L|SC-04L|
 |Samsung|Galaxy S10+|SCV42|SCV42|
@@ -18291,6 +18306,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|SM-W2018|kellyltechn|SM-W2018|
 |Samsung|SM-W2018|kellyltechn|SM-W2018X|
 |Samsung|Sidekick|SGH-T839|SGH-T839|
+|Samsung|"Tab A (8.0| 2019)"|gto|
 |Samsung|Transfix|SCH-R730|SCH-R730|
 |Samsung|Transform|SPH-M920|SPH-M920|
 |Samsung|Transform Ultra|SPH-M930|SPH-M930|
@@ -19560,12 +19576,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sugar|SUGAR S11|i9071ae|SUGAR S11|
 |Sugar|SUGAR S20|x600as_hk|SUGAR S20|
 |Sugar|SUGAR S20s|x600as|SUGAR S20s|
+|Sugar|SUGAR T10|p312cs_tw|SUGAR T10|
 |Sugar|SUGAR Y12|p101bs|SUGAR Y12|
 |Sugar|SUGAR Y12s|SUGAR_Y12s|SUGAR Y12s|
 |Sugar|SUGAR Y15|p201as|SUGAR Y15|
 |Sugar|SUGAR Y16|SUGAR_Y16|SUGAR Y16|
 |Sugar|Sugar|s9121|SUGAR|
 |Sugar|Sugar S30|x800as|SUGAR S30|
+|Sugar|Sugar T50|p611bn|SUGAR T50|
 |Sumitomo Electric Industries|ST4173|ST4173|ST4173|
 |Sumitomo Electric Networks||dhe1100|Hikari-iFrame/WDPF-703SE|
 |Sunstech|TAB1081|TAB1081|TAB1081|
@@ -20295,6 +20313,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024D|
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024D_EEA|
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024D_RU|
+|TCT (Alcatel)|Alcatel 1S|Faraday|5024F|
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024F_EEA|
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024I|
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024J|
@@ -21435,6 +21454,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|S9_Pro|S9_Pro|S9_Pro|
 |Ulefone|T1|Ulefone_T1|T1|
 |Ulefone|T2|T2|T2|
+|Ulefone|Ulefone_Note_7|Note_7P|Note_7P|
 |Ulefone|Ulefone_Note_7|Ulefone_Note_7|Ulefone_Note 7|
 |Ulefone|Ulefone_S1|Ulefone_S1|Ulefone_S1|
 |Ulefone|Ulefone_S11|Ulefone_S11|Ulefone_S11|
@@ -21489,6 +21509,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unnion Technologies|Unnion SP10|SP10|SP10|
 |Unonu|UNONU X5C|X5C|X5C|
 |Unonu|UNONU_L55D|UNONU_L55D|UNONU_L55D|
+|Unonu|UNONU_N55S|UNONU_N55S|UNONU N55S|
 |Unonu|UT3G|UT3G|UT3G|
 |Unonu|W40L|W40L|W40L|
 |Unonu|W50A|W50A|W50A|
@@ -22236,6 +22257,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|Primo_RM3|Primo_RM3|Primo RM3|
 |Walton|Primo\xc2\xa0S6\xc2\xa0Dual|Primo_S6_Dual|Primo S6 Dual|
 |Walton|Walton Primo X5|Primo_X5|Walton Primo X5|
+|Warner Bros|DC_Comics_G9|DC_Comics_G9|DC_Comics_G9|
 |Wave 8|WV8O|WV8O|WV8O|
 |Wave 8|WV8TV|WV8TV|WV8TV|
 |Wave 8 Red Nougat|WV8R-N|WV8R_N|WV8R_N|
@@ -22420,6 +22442,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|W_P200|W_P200|W_P200|
 |Wiko|W_P200CM|W_P200CM|View Max|
 |Wiko|W_P200CM|W_P200CM|W_P200CM|
+|Wiko|Y50|W-K420|W-K420-EEA|
 |Wiko|Y60|W-K510|W-K510-BYT|
 |Wiko|Y60|W-K510|W-K510-EEA|
 |Wiko|Y60|W-K510|W-K510-OPE|
@@ -22494,6 +22517,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |X-TIGI|Kids7_Pro|Kids7_Pro|Kids7 Pro|
 |X-TIGI|Photo P15 Lite|Photo_P15_Lite|Photo_P15_Lite|
 |X-TIGI|V18|X_TIGI_V18|X_TIGI_V18|
+|X-TIGI|V18 pro_A|V18_pro_A|V18 pro_A|
 |X-TIGI|V21|X-TIGI_V21|X-TIGI_V21|
 |X-TIGI|V28|V28|X-TIGI_V28|
 |X-TIGI|V28 LTE|V28_LTE|X-TIGI_V28 LTE|
@@ -24470,6 +24494,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iRulu|iRULU_G36|iRULU_G36|G36|
 |iSWAG|ALPHA|Alpha|Alpha|
 |iSWAG|APOLLO|APOLLO|APOLLO|
+|iSWAG|ISWAG_VIPER|ISWAG_VIPER|ISWAG VIPER|
 |iSWAG|ODIN|ODIN|ODIN|
 |iSWAG|STREAM7|STREAM7|STREAM7|
 |iTab XPLUS|iTab_XPLUS_10_1|iTab_XPLUS_10_1|iTab_XPLUS_10_1|
