@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-06-12
+Last sync is 2019-06-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12085,6 +12085,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MLS Innovation|IQW570|iQW570|iQW570|
 |MLS Innovation|PTB7QSG_3G|iQE200|iQE200|
 |MLS Innovation|iQ1568|iQ1568|iQ1568|
+|MLS Innovation|iQ411M|iQ411M|iQ411M|
 |MLS Innovation|iQ8011|iQ8011|iQ8011|
 |MLS Innovation|iQL550|iQL550|iQL550|
 |MLS Innovation|iQM960L|iQM960L|iQM960L|
@@ -13431,6 +13432,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MyPhone (PL)|Hammer_Iron_2|Hammer_Iron_2|Hammer Iron 2|
 |MyPhone (PL)|Hykker MyTab10|Hykker_MyTab10|Hykker_MyTab10|
 |MyPhone (PL)|MyPhone Go!|myPhone_Go|myPhone Go|
+|MyPhone (PL)|Pocket_Pro|myPhone_Pocket_Pro|myPhone_Pocket_Pro|
 |MyPhone (PL)|Prime 4 Lite|Prime_4_Lite|Prime_4_Lite|
 |MyPhone (PL)|myPhone|Q_Smart_BE|Q_Smart_BE|
 |MyPhone (PL)|myPhone C-Smart Glam|C-Smart_Glam_JMP|C-Smart_Glam|
@@ -14649,6 +14651,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|ELUGA Y Pro|ELUGA_Y_Pro|ELUGA_Y_Pro|
 |Panasonic|ELUGA Z1|ELUGA_Z1|ELUGA Z1|
 |Panasonic|ELUGA dL1|pana2_4v|Panasonic_dL1|
+|Panasonic|ELUGA_F|ELUGA_F|ELUGA_F|
 |Panasonic|EX00C|EX00C|EX00C|
 |Panasonic|EX01C|EX01C|EX01C|
 |Panasonic|EX02C|EX02C|EX02C|
@@ -18802,6 +18805,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|PLATINUM_F5|Platinum_F5|Platinum_F5|
 |Sky Devices|PLATINUM_O|PLATINUM_O|PLATINUM_O|
 |Sky Devices|PLATINUM_O_B1|PLATINUM_O|PLATINUM_O|
+|Sky Devices|Platinum B4|Platinum_B4|Platinum B4|
 |Sky Devices|Platinum C4|Platinum_C4|Platinum C4|
 |Sky Devices|Platinum C55|Platinum_C55|Platinum C55|
 |Sky Devices|Platinum F5|Platinum_F5_2100|Platinum_F5|
@@ -18856,6 +18860,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smartab|ST8200|ST8200|ST8200|
 |Smartab|STJR700|STJR700|STJR700|
 |Smartab|STJR76|STJR76|STJR76|
+|Smartec|Atractivo|Atractivo|Atractivo|
 |Smartec|MiCA|MiCA|MiCA|
 |Smartec|SmartabS4|SmartabS4|SmartabS4|
 |Smartex|M520|M520|M520|
@@ -20926,6 +20931,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Techpad|TechPad 10Y|TechPad_10Y|TechPad_10Y|
 |Techpad|TechPad 9x|TechPad_9x|TechPad_9x|
 |Techpad|TechPad M5|TechPad_M5|TechPad M5|
+|Techpad|TechPad_1032s|TechPad_1032s|TechPad_1032s|
 |Techpad|TechPad_10x|TechPad_10x|TechPad_10x|
 |Techpad|TechPad_10xx|TechPad_10xx|TechPad_10xx|
 |Techpad|TechPad_3Gx|TechPad_3Gx|TechPad_3Gx|
@@ -21190,6 +21196,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tesla|AEONSR570|AEONSR570|AEONSR570|
 |Tesla|M8.1 3G|TTM813G|TTM813G|
 |Tesla|Smartphone 3.4|Tesla_SP3_4|Tesla_SP3_4|
+|Tesla|Smartphone 6.4 Lite|Tesla_SP6_4_Lite|Tesla_SP6_4_Lite|
 |Tesla|Tablet_L7_1|Tablet_L7_1|Tesla L7.1|
 |Tesla|Tesla Smartphone 3.3|Tesla_SP3_3|Tesla_SP3.3|
 |Tesla|Tesla Smartphone 6.3|Tesla_SP6_3|Tesla_SP6.3|
@@ -21533,6 +21540,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vankyo|Z1|Z1|Z1|
 |Vankyo|Z1_EEA|Z1_EEA|Z1_EEA|
 |Vankyo|Z4|Z4|Z4|
+|Vankyo|Z4_EEA|Z4_EEA|Z4_EEA|
 |Vava|V1|V1|V1|
 |Vava|V1 Plus|V1_Plus|V1 Plus|
 |Vava|V2|V2|V2|
