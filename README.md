@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-06-13
+Last sync is 2019-06-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -685,6 +685,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Amgoo|AMGOO|AM518|AM518|
 |Amgoo|Amgoo|AM518|AM518|
 |Aminocom|Amigo|Amigo|Amigo7|
+|Aminocom|Kamai7B|Kamai7B|Kamai7B|
+|Aminocom|eSTREAM4K|eSTREAM4K_4x4|IPA-1104HDH-01|
 |Amplify|TL10RA3|TL10RA3_1|TL10RA3|
 |Amplify|TR10CD3|TR10CD3_1|TR10CD3|
 |Amplify|TR10CD3|TR10CD3_2|TR10CD3|
@@ -2496,6 +2498,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Casio|WSD-F20|ayu|CASIO WSD-F20|
 |Casio|WSD-F20|ayu|CASIO WSD-F20S|
 |Casper|CASPER_L10_4_5G|CASPER_L10_4_5G|CASPER_L10_4.5G|
+|Casper|S38|Casper_S38|Casper_S38|
 |Casper|TA80CA2|TA80CA2_1|TA80CA2|
 |Casper|VIA A2|CASPER_VIA_A2|CASPER_VIA_A2|
 |Casper|VIA A3 Plus|VIA_A3_Plus|VIA_A3_Plus|
@@ -3289,6 +3292,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|Dexp Ursus P380|P380|P380|
 |DEXP|Dexp Ursus S170i|S170i|S170i|
 |DEXP|Dexp Ursus S270|S270|S270|
+|DEXP|E170|E170|E170|
 |DEXP|E180|E180|E180|
 |DEXP|EL450|EL450|Ixion EL450|
 |DEXP|ERA|G155|G155|
@@ -12089,6 +12093,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MLS Innovation|iQ8011|iQ8011|iQ8011|
 |MLS Innovation|iQL550|iQL550|iQL550|
 |MLS Innovation|iQM960L|iQM960L|iQM960L|
+|MLS Innovation|iQW511T|iQW511T|iQW511T|
 |MOBO|MB_530|MB_530|MB_530|
 |MOVI|Movi Projector Phone|Movi|Movi Projector Phone|
 |MOVIC|A5501|A5501|A5501|
@@ -13898,6 +13903,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia 2|E1M|Nokia 2|
 |Nokia|Nokia 2 V|EVW|Nokia 2 V|
 |Nokia|Nokia 2.1|E2M|Nokia 2.1|
+|Nokia|Nokia 2.2|WSP_sprout|Nokia 2.2|
 |Nokia|Nokia 3|NE1|TA-1020|
 |Nokia|Nokia 3|NE1|TA-1028|
 |Nokia|Nokia 3|NE1|TA-1032|
@@ -14252,8 +14258,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|CPH1827|CPH1827|CPH1827|
 |Oppo|CPH1851|CPH1851|CPH1851|
 |Oppo|CPH1853|CPH1853|CPH1853|
-|Oppo|CPH1859|CPH1859|CPH1859|
-|Oppo|CPH1861|CPH1861|CPH1861|
 |Oppo|CPH1893|CPH1893|CPH1893|
 |Oppo|CPH1893RU|CPH1893|CPH1893|
 |Oppo|CPH1903|CPH1903|CPH1903|
@@ -14419,14 +14423,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|R9st|R9s|OPPO R9st|
 |Oppo|R9t|R9|OPPO R9t|
 |Oppo|R9tm|R9|OPPO R9tm|
-|Oppo|RMX1801|RMX1801|RMX1801|
-|Oppo|RMX1803|RMX1803|RMX1803|
-|Oppo|RMX1805|RMX1805|RMX1805|
-|Oppo|RMX1807|RMX1807|RMX1807|
-|Oppo|RMX1809|RMX1809|RMX1809|
-|Oppo|RMX1811|RMX1811|RMX1811|
-|Oppo|RMX1831|RMX1831|RMX1831|
-|Oppo|RMX1833|RMX1833|RMX1833|
 |Oppo|Reno|OP47DD|CPH1917|
 |Oppo|Reno|OP47DDL1|CPH1917|
 |Oppo|Reno \xe6\xa0\x87\xe5\x87\x86\xe7\x89\x88|OP46B1|PCAM00|
@@ -14450,6 +14446,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|X909|FIND5|X909|
 |Oppo|X909|X909|X909|
 |Oppo|X909|X909T|X909T|
+|Oppo|realme 1|CPH1859|CPH1859|
+|Oppo|realme 1|CPH1861|CPH1861|
+|Oppo|realme 2|RMX1805|RMX1805|
+|Oppo|realme 2|RMX1809|RMX1809|
+|Oppo|realme 2 Pro|RMX1801|RMX1801|
+|Oppo|realme 2 Pro|RMX1803|RMX1803|
+|Oppo|realme 2 Pro|RMX1807|RMX1807|
+|Oppo|realme C1|RMX1811|RMX1811|
+|Oppo|realme U1|RMX1831|RMX1831|
+|Oppo|realme U1|RMX1833|RMX1833|
 |Opticon|H-27|H-27|H-27|
 |Oraimo|R401|oraimo-R401|oraimo R401|
 |Oraimo|R402|oraimo-R402|oraimo R402|
@@ -15788,6 +15794,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Quatro|Quatro 10|Quatro_10|Quatro 10|
 |Quatro|Quatro_8|Quatro_8|Quatro 8|
 |Quickline|Quickline UHD Box|dciw387|M387_QL|
+|RAVOZ|RAVOZ_Z4|RAVOZ_Z4|RAVOZ_Z4|
 |RCA|10 Viking|RCT6A03W13|RCT6A03W13|
 |RCA|10 Viking II|RCT6603W47M7|RCT6603W47M7|
 |RCA|10 Viking II Pro|RCT6603W87M7|RCT6603W87M7|
@@ -15956,6 +15963,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ruggear|RG910|RG910|RG910|
 |Ruggear|RugGear rg730|rg730|rg730|
 |Ruio|RUIO i7c Tablet|i7c|i7c|
+|Ruio|RUIO_S518|RUIO_S518|S518|
 |Ruio|Ruio_S4 Plus|S4Plus|S4Plus|
 |Ruio|Ruio_S5Plus|Ruio_S5Plus|Ruio_S5Plus|
 |Ruio|Ruio_i7Plus|i7Plus|i7Plus|
@@ -18390,6 +18398,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Senwa|Telcel_LS55|Telcel_LS55|LS55|
 |Servicom IT|IT-1101S|IT_1101S|IT_1101S|
 |Servicom IT|Smart Class|Smart_Class|Smart Class|
+|Seuic|AUTIOD9N|d500b|AUTIOD9N|
+|Seuic|AUTIOD9N|d500b|AUTOID9N|
+|Seuic|CRUISE1|d700s|CRUISE1|
 |Sharp||SH7218T|SH7218T|
 |Sharp||SH8268U|SH8268U|
 |Sharp||SH8288U|SH8288U|
@@ -20323,6 +20334,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024I|
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024J|
 |TCT (Alcatel)|Alcatel 1T 7 WIFI|U3A_7_WIFI|8068|
+|TCT (Alcatel)|Alcatel 1V|Wright|5001A|
 |TCT (Alcatel)|Alcatel 1X|U5A_PLUS_4G|5059A|
 |TCT (Alcatel)|Alcatel 1X|U5A_PLUS_4G|5059D|
 |TCT (Alcatel)|Alcatel 1X|U5A_PLUS_4G|5059D_RU|
@@ -20941,6 +20953,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Techpad|X6|X6|X6|
 |Techsonic|TECHR720W|TECHR720W|TECHR720W|
 |Teclast|M20_4G|M20_4G|M20_4G|
+|Teclast|P80X|P80X|P80X|
 |Tecno|A7S|TECNO-A7S|TECNO-A7S|
 |Tecno|C5|TECNO-C5|TECNO-C5|
 |Tecno|C7|TECNO-C7|TECNO-C7|
@@ -21604,6 +21617,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vertex|EO|EO|EO|
 |Vertex|ET|ET|ET|
 |Vertex|Impress Action|Impress_Action|Impress_Action|
+|Vertex|Impress City|Impress_City|Impress_City|
 |Vertex|Impress Click (3G)|IMPRESS_CLICK|IMPRESS CLICK|
 |Vertex|Impress Click NFC|Impress_Click_NFC|Impress Click NFC|
 |Vertex|Impress Cube|Impress_Cube|Impress_Cube|
@@ -21787,6 +21801,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vestel|Vestel_5000_2gb|Leo_2GB|Vestel_5000_2gb|
 |Vestel|venus_v3_5010|DynoLight|Venus_V3_5010|
 |Vexia|NicatabletV3|NicatabletV3|NicatabletV3|
+|Vexia|Vexia FCS E2 CLM|Vexia_FCS_E2_CLM|Vexia FCS E2 CLM|
 |VfonX|GP8|GP8|GP8|
 |Vgo Tel|OCEAN 6|VGOTEL_OCEAN_6|Ocean 6|
 |Vgo Tel|Ocean 8|Ocean_8|Ocean_8|
