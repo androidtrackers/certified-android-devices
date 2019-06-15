@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-06-14
+Last sync is 2019-06-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3641,6 +3641,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Digma|Optima Kids 7|TS7203RW|Optima Kids 7 TS7203RW|
 |Digma|Optima_8019N_4G|TS8182ML|Optima 8019N 4G TS8182ML|
 |Digma|Optima_8027_3G|TS8211PG|Optima_8027_3G_TS8211PG|
+|Digma|PS7210PG|PS7210PG|Plane 7594 3G PS7210PG|
 |Digma|PS8163PL|PS8163PL|Plane 8550S 4G PS8163PL|
 |Digma|Plane 7012M 3G PS7082MG|PS7082MG|Plane_7012M_3G_PS7082MG|
 |Digma|Plane 7546S 3G|PS7158PG|Plane_7546S_3G_PS7158PG|
@@ -6030,6 +6031,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HannSpree|HSG1351|rk3368_32|HSG1351|
 |HannSpree|HSG1360|HANNSPAD|HSG1360|
 |HannSpree|HSG1376|HSG1376_MT8163|HSG1376|
+|Harman TV|JBL link bar|atom|JBL LINK BAR|
 |Harris|12131-1000|msm8660_cougar|Harris 12131-1000|
 |Harris|LMC-1000|granite|LMC-1000|
 |Harris|RF-3590-RT|msm8660_cougar|Harris 12131-1000|
@@ -13706,6 +13708,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NVIDIA|SHIELD TV|darcy|SHIELD Android TV|
 |NVIDIA|SHIELD Tablet|shieldtablet|SHIELD Tablet|
 |NVIDIA|Shield|roth|SHIELD|
+|NVIDIA|Shield TV|mdarcy|SHIELD Android TV|
 |NVIDIA|TegraNote|tegranote|Tegra Note 7|
 |NVIDIA|TegraNote|tegranote|TegraNote-P1640|
 |NVIDIA|TegraNote|tegranote|TegraNote-Premium|
