@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-06-16
+Last sync is 2019-06-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3189,6 +3189,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Coppernic|C-one|C-One_v2_e-ID|C-One|
 |Covia|CP-J55a|x5090_rh_j9_covia|CP-J55a|
 |Covia|CP-J55aW|CP_J55aW|CP-J55aW|
+|Covia|CP-K19|CP-K19|CP-K19|
 |Covia|CP-L45s|CP-L45s|CP-L45s|
 |Covia|CP-W5s|CP-W5s|CP-W5s|
 |Covia|g06+|g06|g06|
@@ -4523,6 +4524,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Freetel|SAKURA_FTE1|SAKURA_FTE1|SAKURA_FTE1|
 |Freetel|SAMURAI REI|FTJ161B|FTJ161B|
 |Freetel|SAMURAI REI 2|SAMURAI_REI2|FTJ17A00|
+|Fujitsu|801FJ|SBM801FJ|801FJ|
 |Fujitsu|ARROWS A SoftBank 101F|SBM101F|101F|
 |Fujitsu|ARROWS A SoftBank 201F|SBM201F|201F|
 |Fujitsu|ARROWS A SoftBank 202F|SBM202F|202F|
@@ -5583,6 +5585,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HTC|HTC Desire 610|htc_a3ul|HTC Desire 610|
 |HTC|HTC Desire 628 dual sim|htc_v36bml_dugl|HTC 2PVG2|
 |HTC|HTC Desire 628 dual sim|htc_v36bml_dugl|HTC Desire 628 dual sim|
+|HTC|HTC Desire19+|htc_bre2pdugl|2Q74100|
 |HTC|HTC One|m7wls|HTC One|
 |HTC|HTC One mini|m4|HTC One mini|
 |HTC|HTC U11|htc_ocnuhl|HTC 2PZC100|
@@ -5598,6 +5601,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HTC|HTC U11+|htc_ocmdtwl|HTC 2Q4D200|
 |HTC|HTC U11+|htc_ocmdugl|HTC U11 plus|
 |HTC|HTC U11+|htc_ocmdugl|HTC_2Q4D100|
+|HTC|HTC U19e|htc_tetdugl|HTC 2Q7A100|
 |HTC|HTC6435LVW|dlx|HTC6435LVW|
 |HTC|HTC909d|dlpdwg|HTC 919d|
 |HTC|HTCDesire612VZW|htc_a3qhdcl|HTC331ZLVW|
@@ -10138,6 +10142,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG K40|mh4-pr|LM-X420|
 |LGE|LG K40|mmh4|LM-X420|
 |LGE|LG K5|d3|LG-X220|
+|LGE|LG K50|mmh4p-pr|802LG|
+|LGE|LG K50|mmh4p-pr|LM-X520|
 |LGE|LG K7|m1|LG-AS330|
 |LGE|LG K7|m1|LG-K330|
 |LGE|LG K7|m1|LGMS330|
@@ -11615,6 +11621,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab V7|PB-6505MC|Lenovo PB-6505MC|
 |Lenovo|Lenovo Tab V7|PB-6505NC|Lenovo PB-6505NC|
 |Lenovo|Lenovo X2-CU/VIBE X2|X2-CU|Lenovo X2-CU|
+|Lenovo|Lenovo Z5 Pro|heart|Lenovo L78032|
 |Lenovo|Lenovo-9|zap|Lenovo L78031|
 |Lenovo|LenovoTAB2 A7-30DC|A7-30HC|Lenovo TAB 2 A7-30DC|
 |Lenovo|LenovoTB-X104F1|X104F1|Lenovo TB-X104F1|
@@ -11730,6 +11737,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|TB3-601LV|601LV|601LV|
 |Lenovo|TB3-602LV|602LV|602LV|
 |Lenovo|TB3-X70I|TB3-X70I|Lenovo TB3-X70I|
+|Lenovo|TBD|kunlun2|Lenovo L38111|
 |Lenovo|Tab 7 Essential|7304F|Lenovo TB-7304F|
 |Lenovo|Tab P10|X705M|Lenovo TB-X705M|
 |Lenovo|ThinkPad 11e Chromebook 3rd Gen|ultima_cheets|ThinkPad 11e Chromebook 3rd Gen (Yoga/Clamshell)|
@@ -11790,6 +11798,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Z2w|z2w|Lenovo Z2w|
 |Lenovo|Z5|jd2018|Lenovo L78011|
 |Lenovo|Z5|jd2018_cmcc|Lenovo L78011|
+|Lenovo|Z5s|jd2019|Lenovo L78071|
+|Lenovo|Z6|zippo|Lenovo L78051|
 |Lenovo|Z90/VIBE Shot|zoom_fdd|Lenovo Z90|
 |Lenovo|Z90/VIBE Shot|zoom_fdd|Lenovo Z90-7|
 |Lenovo|Z90/VIBE Shot|zoom_tdd|Lenovo Z90-3|
@@ -12146,6 +12156,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MachSpeed (Apollo Brands)|TrioStealth-7|TrioStealth-7|TrioStealth-7|
 |Mad Catz|M.O.J.O.|mojo|Mad Catz M.O.J.O.|
 |Mafe|M8|M8|M8|
+|Mafe|M8_Plus|M8_Plus|M8_Plus|
 |Mafe|Z1|Z1|Z1|
 |Majestic|TAB 611 3G|TAB_611_3G|TAB 611 3G|
 |Majestic|TAB_711_4G|TAB_711_4G|TAB 711 4G|
@@ -13914,6 +13925,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia 3.1|ES2N_sprout|Nokia 3.1|
 |Nokia|Nokia 3.1|ES2_sprout|Nokia 3.1|
 |Nokia|Nokia 3.1 A|EAG|Nokia 3.1 A|
+|Nokia|Nokia 3.1 C|EAG|Nokia 3.1 C|
 |Nokia|Nokia 3.1 Plus|RHD|Nokia 3.1 Plus|
 |Nokia|Nokia 3.1 Plus|ROO|Nokia 3.1 Plus|
 |Nokia|Nokia 3.1 Plus|ROON_sprout|Nokia 3.1 Plus|
@@ -15895,9 +15907,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realtime|RT8|RT8|RT8|
 |Rectron|MX702M1|MX702M1|MX702M1|
 |Red-X|RX4618|RX4618|RX4618|
+|Redmi|Redmi 7A|pine|Redmi 7A|
+|Redmi|Redmi 7A|pine|pine|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Redmi|Redmi 7|onc|Redmi 7|
 |Redmi|Redmi 7|onc|Redmi Y3|
+|Redmi|Redmi K20 Pro|raphael|Redmi K20 Pro|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Reeder|A8i Q2|A8i-Q2|A8i-Q2|
 |Reeder|M7 Plus|reeder_M7Plus|M7Plus|
@@ -16069,6 +16084,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Universe|heaven_10_1|heaven-10_1|HEAVEN 10.1|
 |SSB PHONES|SSB504|SSB504|SSB504|
 |SSB PHONES|SSB504A|SSB504A|SSB504A|
+|SSB PHONES|SSB5518|SSB5518|SSB5518|
 |SSB PHONES|SSB554R|SSB554R|SSB554R|
 |STF Mobile|AERIAL|STFAERIAL|AERIAL|
 |STF Mobile|AERIAL PLUS|AERIAL|AERIAL PLUS|
@@ -20458,6 +20474,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|IDOL 5|SIMBA6L|6058D|
 |TCT (Alcatel)|IDOL 5|SIMBA6L|6058X|
 |TCT (Alcatel)|IDOL 5S|IDOL5S|6060S|
+|TCT (Alcatel)|INSIGHT\xe2\x84\xa2|FERMI_ATT|Alcatel_5005R|
 |TCT (Alcatel)|Idol S|DiabloHD_LTE|ALCATEL ONE TOUCH 6035L|
 |TCT (Alcatel)|Idol S|DiabloHD_LTE|BS472|
 |TCT (Alcatel)|Idol S|DiabloHD_LTE|MTC 978|
@@ -21466,6 +21483,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Power 5S|Power_5S|Power_5S|
 |Ulefone|Power_3L|Power_3L|Power_3L|
 |Ulefone|Power_3L_EEA|Power_3L_EEA|Power_3L|
+|Ulefone|Power_6|Power_6|Power_6|
 |Ulefone|Power_6_EEA|Power_6|Power_6|
 |Ulefone|S10_Pro|S10_Pro|S10_Pro|
 |Ulefone|S7|t662_gq_n1616_we|Ulefone S7|
@@ -21607,6 +21625,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vernee|V3|V3|V3|
 |Vernee|X1|X1|X1|
 |Vernee|X1|X1_PRO|X1|
+|Vernee|X2|X2|X2|
 |Vernee|X2_euro|X2_euro|X2_euro|
 |Vernee|note|note|note|
 |Verssed|FW8977-ED|FW8977-ED|FW8977-ED|
@@ -21911,6 +21930,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V1836A|PD1836|V1836A|
 |Vivo|V1838A|PD1838|V1838A|
 |Vivo|V1901A|PD1901|V1901A|
+|Vivo|V1911A|PD1911|V1911A|
 |Vivo|V1Max|Y37|vivo Y37|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
@@ -21981,6 +22001,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y97|PD1813|V1813A|
 |Vivo|Z1|PD1730C|vivo Z1|
 |Vivo|Z3i|PD1813C|V1813A|
+|Vivo|Z3i|PD1813E|V1813A|
 |Vivo|vivo X21i A|PD1801|vivo X21i A|
 |Vivo|vivo Y75s|PD1708C|vivo Y75s|
 |Vivo|vivo Y85A|PD1730|vivo Y85A|
@@ -22017,6 +22038,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo 1901|1901|vivo 1901|
 |Vivo|vivo 1902|1902|vivo 1902|
 |Vivo|vivo 1904|1904|vivo 1904|
+|Vivo|vivo 1951|1951|vivo 1951|
 |Vivo|vivo NEX A|PD1806|vivo NEX A|
 |Vivo|vivo NEX S|PD1805|vivo NEX S|
 |Vivo|vivo S1|PD1831|V1831A|
