@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-06-17
+Last sync is 2019-06-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2513,6 +2513,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Casper|VIA_A1_1|VIA_F1|VIA_F1|
 |Casper|VIA_A1_Plus|BBL7551TC|VIA_A1_Plus|
 |Casper|VIA_A3|VIA_A3|VIA_A3|
+|Casper|VIA_F3|VIA_F3|VIA_F3|
 |Casper|VIA_M4|VIA_M4|VIA_M4|
 |Casper|VIA_P2|VIA_P2|VIA_P2|
 |Casper|VIA_S10|VIA_S10|VIA_S10|
@@ -2535,6 +2536,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cavion|Base_5.0|Cavion_Base_5_0|Cavion_Base_5_0|
 |Cavion|Base_72_GO|Base_72_GO|Base_72_GO|
 |Cavion|M1092Q|M1092Q|M1092Q|
+|Cavion|base10.3g silver|base10_3g_silver|base10_3g_silver|
 |Ceibal|A102|A102|A102|
 |Ceibal|A81G_Ibi|A81G_Ibi|A81G_Ibi|
 |Ceibal|Ibirapita|A81F|A81F|
@@ -2830,6 +2832,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ColorsMobile|P50_Plus|Colors_P50_Plus|Colors P50 Plus|
 |ColorsMobile|P65|Colors_P65|Colors P65|
 |ColorsMobile|P77_Pride_1E|P77_Pride_1E|P77_Pride_1E|
+|ColorsMobile|P88_Pride_1X|P88_Pride_1X|P88_Pride_1X|
 |ColorsMobile|PRIDE 5E|P60|P60|
 |ColorsMobile|Pride 5C|P52_Pride5C|P52_Pride5C|
 |ColorsMobile|Pride5X|P90_Pride5X|P90_Pride5X|
@@ -3652,6 +3655,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Digma|Plane 8536E 3G PS8148MG|PS8148MG|Plane_8536E_3G_PS8148MG|
 |Digma|Plane 8555M 4G PS8168ML|PS8168ML|Plane 8555M 4G PS8168ML|
 |Digma|Plane_1573N_4G/|PS1189ML|Plane 1573N 4G PS1189ML|
+|Digma|Plane_1596_3G_PS1213PG|PS1213PG|Plane 1596 3G PS1213PG|
 |Digma|Plane_7548S_4G_PS7160PL|PS7160PL|Plane_7548S_4G_PS7160PL|
 |Digma|Plane_8548S_3G|PS8161PG|Plane_8548S_3G_PS8161PG|
 |Digma|Plane_8549S_4G|PS8162PL|Plane_8549S_4G_PS8162PL|
@@ -4218,6 +4222,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Explay|Winner 7|T4729|Winner7|
 |Explay|Winner 8|T4730|Winner8|
 |Express Gifts Limited|EGLM103|EGLM103|EGLM103|
+|Express Gifts Limited|EGLMW1528I|EGLMW1528I|EGLMW1528I|
 |Express Gifts Limited|R726|R726|R726|
 |Extrem|Rock_X11|ROCK_X11|ROCK_X11|
 |EyePay|IG-EP100|IG-EP100|IG-EP100|
@@ -4274,6 +4279,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fero|Royale Y2 Lite|Royale_Y2_Lite|Royale Y2 Lite|
 |Fiesta Duo|S6|S6|S6|
 |Fiesta Duo|iX|iX|iX|
+|Figgers|Figgers F3|Figgers_F3|Figgers F3|
 |Figi|FIGI Fone|Fone|Fone|
 |Figi|FIGI Ftwo|Ftwo|Ftwo|
 |Figi|FIGI Gone|Gone|Gone|
@@ -4754,6 +4760,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Getac|ZX70|zx70|ZX70|
 |Getac|ZX70|zx70|zx70|
 |Getnord|LYNX|LYNX|LYNX|
+|Ghia|G1|G1|G1|
 |Ghia|GHIA_A1|GHIA_A1|GHIA_A1|
 |Ghia|GHIA_A7|GHIA_A7|GHIA_A7|
 |Ghia|GHIA_AXIS7|GHIA_AXIS7|GHIA_AXIS7|
@@ -5586,6 +5593,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HTC|HTC Desire 628 dual sim|htc_v36bml_dugl|HTC 2PVG2|
 |HTC|HTC Desire 628 dual sim|htc_v36bml_dugl|HTC Desire 628 dual sim|
 |HTC|HTC Desire19+|htc_bre2pdugl|2Q74100|
+|HTC|HTC Desire19+|htc_bre2pdugl|HTC Desire 19+|
 |HTC|HTC One|m7wls|HTC One|
 |HTC|HTC One mini|m4|HTC One mini|
 |HTC|HTC U11|htc_ocnuhl|HTC 2PZC100|
@@ -10807,6 +10815,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|VU3|vu3|LG-F300K|
 |LGE|VU3|vu3|LG-F300L|
 |LGE|VU3|vu3|LG-F300S|
+|LGE|W10|LMX130IM|LMX130IM|
 |LGE|WM-LG8200|b6|LG-V425|
 |LGE|WM-LG8200|b6|WM-LG8200|
 |LGE|Wine Smart|cf|LGS01|
@@ -13719,7 +13728,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NVIDIA|SHIELD TV|darcy|SHIELD Android TV|
 |NVIDIA|SHIELD Tablet|shieldtablet|SHIELD Tablet|
 |NVIDIA|Shield|roth|SHIELD|
-|NVIDIA|Shield TV|mdarcy|SHIELD Android TV|
 |NVIDIA|TegraNote|tegranote|Tegra Note 7|
 |NVIDIA|TegraNote|tegranote|TegraNote-P1640|
 |NVIDIA|TegraNote|tegranote|TegraNote-Premium|
@@ -13800,6 +13808,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Navon|Vision_Tab_7|Vision_Tab_7|Vision_Tab_7|
 |Navon|iQ7 2018|iQ7_2018|iQ7_2018|
 |Naxa|NID-1020|NID_1020|NID-1020|
+|Naxa|NID-1050|NID-1050|NID-1050|
 |Naxa|NID-7020|NID_7020|NID-7020|
 |Naxa|NID1009|NID1009|NID-1009|
 |Naxa|NID7019|NID7019|NID-7019|
@@ -15670,6 +15679,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |QMobile|LT700|GBL7325QM|LT700|
 |QMobile|LT700 PRO|LT700_PRO|LT700 PRO|
 |QMobile|LT900|LT900|QMobile LT900|
+|QMobile|LT900|QSmart_LT900|QSmart LT900|
 |QMobile|M350 Pro|M350_Pro|M350 Pro|
 |QMobile|M6|BBL7551QM|M6|
 |QMobile|M6 Lite|M6_Lite|M6 Lite|
@@ -18793,6 +18803,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Siragon|SP-5000|SP-5000|Siragon SP-5000|
 |Siragon|SP-5250|SP-5250|SP-5250|
 |Siragon|SP-7100|SP-7100|SP-7100|
+|Siragon|TB-5300|TB-5300|TB-5300|
 |Sirin|FINNEY PHONE|SR00300-W|FINNEY U1|
 |Sirin|LABS SOLARIN|solarin|SOLARIN|
 |Sirin|LABS SOLARIN|solarin|Solarin|
@@ -21465,6 +21476,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor 6|Armor_6|Armor_6|
 |Ulefone|Armor X|Armor_X|Armor_X|
 |Ulefone|Armor X2|Armor_X2|Armor_X2|
+|Ulefone|Armor6|Armor_6|Armor_6|
 |Ulefone|Armor_3|Armor_3|Armor_3|
 |Ulefone|Armor_5|Ulefone_Armor_5|Ulefone_Armor_5|
 |Ulefone|Armor_6E|Armor_6E|Armor_6E|
