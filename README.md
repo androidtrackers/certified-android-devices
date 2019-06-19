@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-06-18
+Last sync is 2019-06-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1691,11 +1691,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|AX1071|Bmobile_AX1071|AX1071|
 |BMobile|AX1072|Bmobile_AX1072|AX1072|
 |BMobile|AX1073|Bmobile_AX1073|AX1073|
+|BMobile|AX1073+|AX1073PLUSMV18|AX1073+|
 |BMobile|AX1073+|Bmobile_AX1073Plus|AX1073+|
 |BMobile|AX1073PLUSMV18|Bmobile_AX1073PLUSMV18|AX1073PLUSMV18|
 |BMobile|AX1074|Bmobile_AX1074|AX1074|
 |BMobile|AX1075|Bmobile_AX1075|AX1075|
 |BMobile|AX1077|Bmobile_AX1077|AX1077|
+|BMobile|AX1077+|Bmobile_AX1077_MAS|AX1077+|
 |BMobile|AX1085|Bmobile_AX1085|AX1085|
 |BMobile|AX1091|Bmobile_AX1091|AX1091|
 |BMobile|AX1091|Bmobile_AX1091|Bmobile_AX1091|
@@ -1812,6 +1814,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-5521 STRIKE POWER MAX|BQru-5521|BQru-5521|
 |BQru|BQ-5522\xc2\xa0Next|BQru-5522|BQ-5522|
 |BQru|BQ-5528L|BQru-5528L|BQ-5528L|
+|BQru|BQ-5535L|BQru-5535L|BQ-5535L|
 |BQru|BQ-5590 Spring|BQru_5590|BQru_5590|
 |BQru|BQ-5591 Jeans|BQru-5591|BQ-5591|
 |BQru|BQ-5594 Strike Power Max|BQru_5594|BQ-5594|
@@ -1822,6 +1825,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-6001 L|BQru-6001L|BQ-6001L|
 |BQru|BQ-6010G|BQru_6010G|BQ-6010G|
 |BQru|BQ-6015L Universe|BQru-6015L|BQ-6015L|
+|BQru|BQ-6035L|BQru-6035L|BQ-6035L|
 |BQru|BQ-6040L|BQru-6040L|BQ-6040L|
 |BQru|BQ-6200L Aurora|BQru-6200L|BQ-6200L|
 |BQru|BQ-7000G|BQru-7000G|BQ-7000G|
@@ -2428,6 +2432,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CCC|LifeStick|ts201|LifeStick|
 |CCC|TSUTAYA Stick|ts201|TStick|
 |CCIT|Xedition|Xedition|Xedition|
+|CEM Global|Continential|CE10402-16|CE10402-16|
 |CEM Global|HS29779-18|HS29779-18|HS29779-18|
 |CG Mobile|Blaze G|Blaze_G|Blaze G|
 |CG Mobile|Blaze N|Blaze_N|Blaze N|
@@ -2478,6 +2483,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Canal Digital|OnePlace|canal_sat_bcm|S70CDS|
 |Candor|PHS-601|phs601|PHS-601|
 |Canguro|M75TG|M75TG|M75TG|
+|Canguro|M77XG|M77XG|M77XG|
 |Captiva|CAPTIVA Pad 10 3G Plus|Pad_10_3G_Plus|Captiva Pad 10 3G Plus|
 |Captiva|Pad 10 2-in-1|Pad_10_2_in_1|Pad_10_2_in_1|
 |Captiva|Pad 10 3G pLUS|Pad_10_3G_Plus|Captiva Pad 10 3G Plus|
@@ -4760,6 +4766,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Getac|ZX70|zx70|ZX70|
 |Getac|ZX70|zx70|zx70|
 |Getnord|LYNX|LYNX|LYNX|
+|Ghia|A7LED2|A7LED2|A7LED2|
 |Ghia|G1|G1|G1|
 |Ghia|GHIA_A1|GHIA_A1|GHIA_A1|
 |Ghia|GHIA_A7|GHIA_A7|GHIA_A7|
@@ -8063,6 +8070,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|Y7 Prime 2019|HWDUB-Q|DUB-LX1|
 |Huawei|Y7 Pro 2019|HWDUB-Q|DUB-AL20|
 |Huawei|Y9 Prime 2019|HWSTK-HF|STK-L22|
+|Huawei|Y9 Prime 2019|HWSTK-HF|STK-LX3|
 |Huawei|Youth|hws7701u|Orinoquia Gran Roraima S7-702u|
 |Huawei|ascend-5w|HWH1621-Q|H1623|
 |Huawei|d-01G|d-01G|d-01G|
@@ -12761,6 +12769,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mito|T5091A|MITO_A16|MITO A16|
 |Mobell|Mobell S50|Mobell_S50|Mobell S50|
 |Mobell|NOVA P3|NOVA_P3|NOVA P3|
+|Mobell|P41|P41|P41|
 |Mobell|S40|S40|S40|
 |Mobell|S41|S41|S41|
 |Mobell|S47|S47|S47|
@@ -14477,9 +14486,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|realme 2 Pro|RMX1801|RMX1801|
 |Oppo|realme 2 Pro|RMX1803|RMX1803|
 |Oppo|realme 2 Pro|RMX1807|RMX1807|
+|Oppo|realme 3|RMX1821|RMX1821|
+|Oppo|realme 3|RMX1822|RMX1822|
 |Oppo|realme C1|RMX1811|RMX1811|
 |Oppo|realme U1|RMX1831|RMX1831|
 |Oppo|realme U1|RMX1833|RMX1833|
+|Oppo|realme X\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88|RMX1851CN|RMX1851|
 |Opticon|H-27|H-27|H-27|
 |Oraimo|R401|oraimo-R401|oraimo R401|
 |Oraimo|R402|oraimo-R402|oraimo R402|
@@ -20985,6 +20997,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Techsonic|TECHR720W|TECHR720W|TECHR720W|
 |Teclast|M20_4G|M20_4G|M20_4G|
 |Teclast|P80X|P80X|P80X|
+|Teclast|P80X_EEA|P80X|P80X|
 |Tecno|A7S|TECNO-A7S|TECNO-A7S|
 |Tecno|C5|TECNO-C5|TECNO-C5|
 |Tecno|C7|TECNO-C7|TECNO-C7|
@@ -21388,6 +21401,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Trend Mobile|TREND_T4|TREND_T4|TREND_T4|
 |Trend Solar|TS-X|TRENDPHONE2_0|TS-X|
 |Trevi|Retailer Stores|KID_TAB_7_S02|KID_TAB_7_S02|
+|Trifone|Passion-1S|Passion-1S|Passion-1S|
+|Trifone|Passion-Plus|Passion-Plus|Passion-Plus|
 |Trifone|Passion1|Passion1|Passion1|
 |Trifone|Passion_Pro|Passion_Pro|Passion_Pro|
 |Trifone|TRI_POWER|TRIFONE_TRI_POWER|TRI_POWER|
@@ -21554,6 +21569,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unistrong|UT12|UT12|UT12|
 |Unistrong|UT30|UT30|UT30|
 |Unitech|EA500Plus|EA500Plus|EA500Plus|
+|Unitech|PA760|PA760|PA760|
 |Unitech|TB85|TB85|TB85|
 |United Group|KSTB6020|KSTB6020|KSTB6020|
 |Unnecto|U4560|U4560|U4560|
@@ -22259,6 +22275,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Waf|F803YM|F803YM|F803YM|
 |Waf|F808NM|F808NM|F808NM|
 |Walton|LT750|LT750|LT750|
+|Walton|PRIMO NH4|PRIMO_NH4|PRIMO NH4|
+|Walton|PRIMO_S7|Primo_S7|Primo S7|
 |Walton|Primo D9|Primo_D9|Primo D9|
 |Walton|Primo E8s|Primo_E8s|Primo E8s|
 |Walton|Primo E9|Primo_E9|Primo E9|
@@ -22506,9 +22524,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|Y60|W-K510|W-K510-BYT|
 |Wiko|Y60|W-K510|W-K510-EEA|
 |Wiko|Y60|W-K510|W-K510-OPE|
+|Wiko|Y60|W-K510|W-K510-SFC|
+|Wiko|Y60|W-K510|W-K510-SUN|
 |Wiko|Y60|W-K510|W-K510-TVM|
 |Wiko|Y80|W-V720|W-V720-EEA|
 |Wiko|Y80|W-V720|W-V720-OPE|
+|Wiko|Y80|W-V720|W-V720-SUN|
 |Wiko|sunny4 Plus|W-K360|W-K360-TV|
 |Wileyfox|Spark|porridge|Wileyfox Spark|
 |Wileyfox|Spark|porridge|Wileyfox Spark +|
