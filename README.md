@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-06-20
+Last sync is 2019-06-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -420,6 +420,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aikun|RX300|X300|X300|
 |Aikun|Solely Tab S7|HV1A|S7|
 |Aikun|Solely Tab S8|HV1A|S8|
+|Aimson|7C08S|7C08S|7C08S|
 |Aimson|AINOL_Q88X|AINOL_Q88X|Q88X|
 |Aimson|Q88|Q88|Q88|
 |Airtab|AT8-N|AT8-N|AT8-N|
@@ -10947,6 +10948,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lanix|Ilium X710|Ilium_X710|Ilium X710|
 |Lanix|Ilium_Alpha7|Ilium_Alpha7|Ilium Alpha 7|
 |Lanix|Ilium_L1100|Ilium_L1100|ILIUM L1100|
+|Lanix|Ilium_M8|Ilium_M8|Ilium_M8|
 |Lanix|Ilium_Pad_X8|Ilium_Pad_X8|Ilium_Pad_X8|
 |Lanix|Ilium_S130|Ilium_S130|Ilium S130|
 |Lanix|Ilium_S130|Ilium_S130|Ilium_S130|
@@ -14331,6 +14333,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Find5|FIND5|X909|
 |Oppo|Find5|FIND5|X909T|
 |Oppo|K1|PBCM30|PBCM30|
+|Oppo|K3|OP486B|CPH1955|
 |Oppo|N1|N1|N1|
 |Oppo|N1 mimi|N1mini|N5111|
 |Oppo|N1 mimi|N1mini|N5116|
@@ -14469,6 +14472,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|R9tm|R9|OPPO R9tm|
 |Oppo|Reno|OP47DD|CPH1917|
 |Oppo|Reno|OP47DDL1|CPH1917|
+|Oppo|Reno 10x room|OP4847|CPH1921|
+|Oppo|Reno 10x room|OP4847L1|CPH1921|
 |Oppo|Reno \xe6\xa0\x87\xe5\x87\x86\xe7\x89\x88|OP46B1|PCAM00|
 |Oppo|Reno \xe6\xa0\x87\xe5\x87\x86\xe7\x89\x88|OP46B1|PCAT00|
 |Oppo|U3|U3|U3|
@@ -14500,9 +14505,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|realme 3|RMX1821|RMX1821|
 |Oppo|realme 3|RMX1822|RMX1822|
 |Oppo|realme 3|RMX1825|RMX1825|
+|Oppo|realme 3Pro|RMX1851|RMX1851|
+|Oppo|realme 3Pro|RMX1853|RMX1853|
 |Oppo|realme C1|RMX1811|RMX1811|
+|Oppo|realme C2|RMX1941|RMX1941|
+|Oppo|realme C2|RMX1942|RMX1942|
+|Oppo|realme C2|RMX1943|RMX1943|
+|Oppo|realme C2|RMX1945|RMX1945|
 |Oppo|realme U1|RMX1831|RMX1831|
 |Oppo|realme U1|RMX1833|RMX1833|
+|Oppo|realme X|RMX1901CN|RMX1901|
 |Oppo|realme X\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88|RMX1851CN|RMX1851|
 |Opticon|H-27|H-27|H-27|
 |Oraimo|R401|oraimo-R401|oraimo R401|
@@ -20916,6 +20928,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TERRA|TERRA_PAD_1005|TERRA_PAD_1005|TERRA_PAD_1005|
 |TERRA|TERRA_PAD_1005POKO|TERRA_PAD_1005POKO|TERRA_PAD_1005POKO|
 |TES (Touch Embedded Solutions)|igs-series|igs-series|igs-series|
+|TES (Touch Embedded Solutions)|igs-series-gen2|igs-series-gen2|igs-series-gen2|
 |TESPRO|Mayumi U1|Mayumi_U1|Mayumi U1|
 |TG&Co.|TG-L800S|PHX|TG-L800S|
 |TG&Co.|TG-L900S|JGR|TG-L900S|
@@ -24196,6 +24209,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade V10|P671F20|ZTE Blade V10|
 |ZTE|ZTE Blade V10 Vita|P963F01|ZTE Blade V10 Vita|
 |ZTE|ZTE Blade V10 Vita RU|P963F01|ZTE Blade V10 Vita RU|
+|ZTE|ZTE Blade V10 Vita RU|P963F01D|ZTE Blade V10 Vita RU|
 |ZTE|ZTE Blade V1000|P671F20|ZTE Blade V10|
 |ZTE|ZTE Blade V1000|P671F20|ZTE Blade V1000|
 |ZTE|ZTE Blade V1000RU|P671F20D|ZTE Blade V1000RU|
