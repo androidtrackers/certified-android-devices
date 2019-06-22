@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-06-21
+Last sync is 2019-06-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -389,6 +389,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advan digital|i7A|ADVAN_i7A|i7A|
 |Advan digital|i7U|ADVAN_i_Lite|i7U|
 |Advance|ADVANCE|SP4871|SP4871|
+|Advance|Advance|Tr4995|Tr4995|
 |Advance|HL4736|HL4736|HL4736|
 |Advance|HL5576|HL5576|HL5576|
 |Advance|HL5585|HL5585|HL5585|
@@ -8145,6 +8146,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|nova 4|HWVCE|VCE-TL00|
 |Huawei|nova 4e|HWMAR|MAR-AL00|
 |Huawei|nova 4e|HWMAR|MAR-TL00|
+|Huawei|nova 5i|HWGLK|GLK-AL00|
 |Huawei|nova lite|HWPRA-H|PRA-LX2|
 |Huawei|nova lite|HWPRA-H|PRA-LX3|
 |Huawei|nova plus|HWMLA|HUAWEI MLA-L01|
@@ -14301,12 +14303,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|CPH1803RU|CPH1803|CPH1803|
 |Oppo|CPH1805|CPH1805|CPH1805|
 |Oppo|CPH1807|CPH1807|CPH1807|
+|Oppo|CPH1808|CPH1808|CPH1808|
 |Oppo|CPH1827|CPH1827|CPH1827|
 |Oppo|CPH1851|CPH1851|CPH1851|
 |Oppo|CPH1853|CPH1853|CPH1853|
 |Oppo|CPH1893|CPH1893|CPH1893|
 |Oppo|CPH1893RU|CPH1893|CPH1893|
 |Oppo|CPH1903|CPH1903|CPH1903|
+|Oppo|CPH1909|CPH1909|CPH1909|
 |Oppo|F11|OP4883|CPH1911|
 |Oppo|F11|OP4883|CPH1913|
 |Oppo|F11|OP4883|CPH1915|
@@ -14333,6 +14337,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Find5|FIND5|X909|
 |Oppo|Find5|FIND5|X909T|
 |Oppo|K1|PBCM30|PBCM30|
+|Oppo|K3|OP4679|PCGM00|
+|Oppo|K3|OP4679|PCGT00|
 |Oppo|K3|OP486B|CPH1955|
 |Oppo|N1|N1|N1|
 |Oppo|N1 mimi|N1mini|N5111|
@@ -14344,6 +14350,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|N3|N3|N5209|
 |Oppo|N5110|N5110|N5110|
 |Oppo|N5117|N5117|N5117|
+|Oppo|PBBT30|PBBT30|PBBT30|
 |Oppo|R1001|OPPO72_13076|R1001|
 |Oppo|R1001|R1001|R1001|
 |Oppo|R1011|R1011|R1011|
@@ -14472,8 +14479,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|R9tm|R9|OPPO R9tm|
 |Oppo|Reno|OP47DD|CPH1917|
 |Oppo|Reno|OP47DDL1|CPH1917|
+|Oppo|Reno 10x Room|OP4847L1|CPH1921|
 |Oppo|Reno 10x room|OP4847|CPH1921|
-|Oppo|Reno 10x room|OP4847L1|CPH1921|
 |Oppo|Reno \xe6\xa0\x87\xe5\x87\x86\xe7\x89\x88|OP46B1|PCAM00|
 |Oppo|Reno \xe6\xa0\x87\xe5\x87\x86\xe7\x89\x88|OP46B1|PCAT00|
 |Oppo|U3|U3|U3|
