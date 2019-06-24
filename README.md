@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-06-23
+Last sync is 2019-06-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -591,6 +591,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|Viva H801 LTE|Viva_H801_LTE|Viva_H801_LTE|
 |AllView|Viva H802 LTE|Viva_H802_LTE|Viva_H802_LTE|
 |AllView|Viva H802 LTE|Viva_H802_LTE|Viva_H802_LTE_TM|
+|AllView|Viva Home|Viva_Home|Viva_Home|
 |AllView|Viva i10HD|Viva_i10HD|Viva_i10HD|
 |AllView|Viva i701G|Viva_H701_LTE|Viva_H701_LTE_CZ|
 |AllView|Viva i701G|Viva_i701G|Viva_i701G|
@@ -3007,7 +3008,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Coolpad||msm7627a_sku3|7260A|
 |Coolpad||msm8660_9900|9900|
 |Coolpad||msm8660_CP8950|8950|
+|Coolpad|1825-I01|1825-I01|1825-I01|
+|Coolpad|1826|Cool_3_Pro|1826|
 |Coolpad|1903|1903|1903|
+|Coolpad|1921|1921|1921|
 |Coolpad|3300A|3300A|Coolpad 3300A|
 |Coolpad|3320A|cp3320a|Coolpad 3320A|
 |Coolpad|3503I|CP3503I|Coolpad 3503I|
@@ -3570,7 +3574,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Digitron|i-Buddie|TR10CD1_10|TR10CD1|
 |Digitron|i_Buddie|TR10CS1_12|TR10CS1|
 |Digix|TAB-740_G|TAB-740_G|TAB-740_G|
+|Digma|CITI_8589_3G_CS8206MG|CS8206MG|CITI 8589 3G CS8206MG|
 |Digma|CS7113PL|CS7113PL|CITI 7507 4G CS7113PL|
+|Digma|CS7204MG|CS7204MG|CITI 7587 3G CS7204MG|
 |Digma|CS8205PG|CS8205PG|CITI_8588_3G_CS8205PG|
 |Digma|DIGMA CITI 1508 4G CS1114ML|CS1114ML|CITI_1508_4G_CS1114ML|
 |Digma|DIGMA CITI 1532 3G CS1144MG|CS1144MG|CITI 1532 3G CS1144MG|
@@ -6783,6 +6789,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|EDA51|EDA51-1|EDA51|
 |Honeywell|EDA70|eda70-0|EDA70|
 |Honeywell|EDA70|eda70-3|EDA70|
+|Honeywell|EDA71|EDA71-0|EDA71_G|
+|Honeywell|EDA71|EDA71-1|EDA71_G|
 |Honeywell|EdA50|eda50-211|EDA50|
 |Honeywell|VM1A|VM1A-L0-N|VM1A|
 |Honeywell|VM1A|VM1A-L0-P|VM1A|
@@ -9179,6 +9187,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Just5|Konrow|Konrow|Just5|
 |Just5|M503|M503|M503|
 |Just5|Mode1 MD-02P|MD-02P|MD-02P|
+|K-LEADTONE|K2|K2|K2|
 |"K-Lite|"|F1+4G|K_Lite_F1_4G|
 |"K-Lite|"|K-LITE NEXT M1|K-LITE_NEXT_M1|
 |"K-Lite|"|KLITE_TAB_Z|KLITE_TAB_Z|
@@ -12103,6 +12112,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MAZE|SSB-408E|SSB-408E|SSB-408E|
 |MAZE|SSB-508E|SSB-508E|SSB-508E|
 |MAZE|SSB558R|SSB558R|SSB558R|
+|MAZE|SSB700T|SSB700T|SSB700T|
 |MDC Store|Grand|Grand|Grand|
 |MDC Store|M100|M100|M100|
 |MDC Store|M200|M200|M200|
@@ -14676,6 +14686,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|101P|pana2_2s|101P|
 |Panasonic|102P|pana2_4s|102P|
 |Panasonic|43DX400C|DX01C|DX01C|
+|Panasonic|43GX580C|GX580C|9S61Z_ZQ20S|
 |Panasonic|48AX600C|mst918_4G|48AX600C|
 |Panasonic|55AX600C|mst918_4k2k|55AX600C|
 |Panasonic|55DX600C|DX600C|TH-55DX600C|
@@ -15008,6 +15019,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|FHD Ultra Slim LED TV Powered by Android|QM16XE_F|QM164E|
 |Philips|HMP8100/93|HMP8100_ATV_93|HMP8100_ATV_93|
 |Philips|HMP8100/98|HMP8100_ATV|HMP8100_ATV_INT|
+|Philips|Mediasuite|PH8M_HE_5596|TPM181HE|
 |Philips|PHILIPS|TLE722G|TLE722G|
 |Philips|PHILIPS TV|cocina|PHILIPS TV|
 |Philips|PHP-S221C4AFD|MMD_WW|G3SMNTS22|
@@ -22374,6 +22386,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|Primo_RM3|Primo_RM3|Primo RM3|
 |Walton|Primo\xc2\xa0S6\xc2\xa0Dual|Primo_S6_Dual|Primo S6 Dual|
 |Walton|Walton Primo X5|Primo_X5|Walton Primo X5|
+|Warner Bros|Avengers|Avengers|Avengers|
 |Warner Bros|DC_Comics_G9|DC_Comics_G9|DC_Comics_G9|
 |Wave 8|WV8O|WV8O|WV8O|
 |Wave 8|WV8TV|WV8TV|WV8TV|
@@ -22388,6 +22401,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |We (BD)|WE R4|WE_R4|WE R4|
 |We (BD)|WE V4|WE_V4|WE V4|
 |We (BD)|WE V5|V5|V5|
+|We (BD)|WE_A15|WE_A15|A15|
 |WeTek|Play|Play|Play|
 |WeTek|WeTek|wh220|Air|
 |Weimei|WEIMEI NEON2|WEIMEI_NEON2|WEIMEI_NEON2|
