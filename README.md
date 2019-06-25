@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-06-24
+Last sync is 2019-06-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -375,6 +375,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advan digital|S7C|ADVAN_S7C|S7C|
 |Advan digital|T2J|T2J|T2J|
 |Advan digital|T2K|T2K|T2K|
+|Advan digital|X7 Max|X7_Max|7301|
 |Advan digital|X7 Pro|ADVAN_7008|7008|
 |Advan digital|X7 Pro|ADVAN_X7_Pro|X7 Pro|
 |Advan digital|i10|i10|i10|
@@ -579,6 +580,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|V2 Viper Xe|V2_Viper_Xe|V2_Viper_Xe|
 |AllView|V3 Viper|V3_Viper|V3_Viper|
 |AllView|Viva 1001G|Viva_1001G|Viva_1001G|
+|AllView|Viva 1003G|Viva_1003G|Viva_1003G|
 |AllView|Viva C701|Viva_C701|Viva_C701|
 |AllView|Viva C702|Viva_C702|Viva_C702|
 |AllView|Viva H10 LTE|Allview_VivaH10LTE_KK|VivaH10LTE|
@@ -1950,6 +1952,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Benesse|TAB-A03-BR|TAB-A03-BR|TAB-A03-BR|
 |Benesse|TAB-A03-BS|TAB-A03-BS|TAB-A03-BS|
 |Beneve|M7133|M7133|M7133|
+|Beneve|M7133E3|M7133E3|M7133E3|
 |Beneve|M755|M755|M755|
 |Bentley|SDIS1|sdis1|BENTLEY ENTERTAINMENT TABLET|
 |Bentley|Tab|sdis1|BENTLEY ENTERTAINMENT TABLET|
@@ -2431,6 +2434,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |C&M|Smart TV II|stb_catv_cnm|SX930C-CC|
 |C5 Mobile|NOATAB|NOATAB|NOATAB|
 |C5 Mobile|Noa X Power|noaXPower|noaXPower|
+|C5 Mobile|noa X2 Plus|noa_x2_Plus|noa X2 Plus|
 |C5 Mobile|noa_G1|noa_G1|noa_G1|
 |CCC|AirStick|ts201|AIrStick|
 |CCC|AirStick|ts201|AirStick|
@@ -2701,6 +2705,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cherry Mobile|Flare S7 Plus|Flare_S7_Plus|Flare S7 Plus|
 |Cherry Mobile|Flare S7 Power|Flare_S7_Power|Flare_S7_Power|
 |Cherry Mobile|Flare X|Flare_X|Flare_X_V2|
+|Cherry Mobile|Flare X3|Flare_X3|Flare_X3|
 |Cherry Mobile|Flare Y3|FlareY3|Flare_Y3|
 |Cherry Mobile|Flare Y3 Pro|Flare_Y3_Pro|Flare Y3 Pro|
 |Cherry Mobile|Flare Y3 mini|Flare_Y3_mini|Flare Y3 mini|
@@ -2708,6 +2713,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cherry Mobile|Flare Y7|Flare_Y7|Flare_Y7|
 |Cherry Mobile|Flare Y7 LTE|Flare_Y7_LTE|Flare_Y7_LTE|
 |Cherry Mobile|Flare_A1_Roam|Flare_A1_Roam|Flare_A1_Roam|
+|Cherry Mobile|Flare_HD_5|Flare_HD_5|Flare_HD_5|
 |Cherry Mobile|Flare_J3_Lite|Flare_J3_Lite|Flare_J3_Lite|
 |Cherry Mobile|Flare_S6_Lite|Flare_S6_Lite|Flare_S6_Lite|
 |Cherry Mobile|Flare_S7_Prime|Flare_S7_Prime|Flare_S7_Prime|
@@ -4306,6 +4312,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Figi|FX|FX|FX|
 |Figi|FXs|FXs|FXs|
 |Figi|Fj|Fj|Fj|
+|Figi|G4|G4|G4|
 |Figi|G6|G6|G6|
 |Figi|Gtwo|Gtwo|Gtwo|
 |Figi|Hola|Hola|Hola|
@@ -4848,6 +4855,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gigaset|GS170|GS170|Gigaset GS170|
 |Gigaset|GS180|GS180|GS180|
 |Gigaset|GS185|GS185|GS185|
+|Gigaset|GS190|GS190|GS190|
 |Gigaset|GS280|GS280|GS280|
 |Gigaset|GS80|GS80|GS80|
 |Gigaset|Gigaset GS170|GS170|Gigaset GS170|
@@ -10174,6 +10182,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG K4/K7 (2017)|mlv1|LG-X230|
 |LGE|LG K4/K7 (2017)|mlv1|LG-X230YK|
 |LGE|LG K40|mh4-pr|LM-X420|
+|LGE|LG K40|mh4x|LM-X420|
 |LGE|LG K40|mmh4|LM-X420|
 |LGE|LG K5|d3|LG-X220|
 |LGE|LG K50|mmh4p-pr|802LG|
@@ -12139,6 +12148,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MLS Innovation|IQS805|iQS805|iQS805|
 |MLS Innovation|IQW570|iQW570|iQW570|
 |MLS Innovation|PTB7QSG_3G|iQE200|iQE200|
+|MLS Innovation|iQ1060M|iQ1060M|iQ1060M|
 |MLS Innovation|iQ1568|iQ1568|iQ1568|
 |MLS Innovation|iQ411M|iQ411M|iQ411M|
 |MLS Innovation|iQ8011|iQ8011|iQ8011|
@@ -13510,6 +13520,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MyPhone (PL)|myPhone Q-Smart Elite|Q-Smart_Elite_JMP|Q-Smart_Elite|
 |MyPhone (PL)|myPhone Q-Smart Plus|Q-Smart_Plus|Q-Smart_Plus|
 |MyPhone (PL)|myPhone_C-Smart _4|myPhone_C-Smart_4|myPhone_C-Smart_4|
+|MyPhone (PL)|myPhone_City_2|myPhone_City_2|myPhone_City_2|
 |MyPhone (PL)|myPhone_Fun5|myPhone_Fun5|Fun5|
 |MyPhone (PL)|myPhone_Power|myPhone_Power|Power|
 |MyPhone (PL)|myPhone_Prime_2|myPhone_Prime_2|Prime 2|
@@ -14074,6 +14085,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuu|A7L|N5002LA|N5002L|
 |Nuu|G1|N5704LA|N5704L|
 |Nuu|G2|S6001LE|S6001L|
+|Nuu|M19|S5501LE|S5501L|
 |Nuu|M2|NUU_M2|NUU_M2|
 |Nuu|M3|NUU_M3|NUU_M3|
 |Nuu|N4L|N4L|N4L|
@@ -22680,6 +22692,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xcell|Enia|Xcell_Enia|Enia|
 |Xcell|View|View|View|
 |Xcell|Zoom|Xcell_Zoom|Zoom|
+|Xgody|T702A|T702A|T702A|
 |Xgody|X24_EU|X24_EU|X24_EU|
 |Xgody|XGT|XGT|XGT|
 |Xgody|XGT_EEA|XGT_EEA|XGT_EEA|
