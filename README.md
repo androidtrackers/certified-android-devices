@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-06-25
+Last sync is 2019-06-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4020,6 +4020,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ematic|EGQ223|EGQ223|EGQ223|
 |Ematic|EGQ235SK|EGQ235SK|EGQ235SK|
 |Ematic|EGQ236BD|EGQ236BD|EGQ236BD|
+|Ematic|EGQ238BD|EGQ238BD|EGQ238BD|
 |Ematic|EGQ307|EGQ307|EGQ307|
 |Ematic|EGQ327M|EGQ327M|EGQ327M|
 |Ematic|EGQ337|EGQ337|EGQ337|
@@ -6693,6 +6694,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|c20ae|HS8929QC|C20|
 |Hisense|c20fe-3|HS8929QC|Hisense C20|
 |Hisense|e76mini|HS8937QC|Hisense E76mini|
+|Hisense|fushan|harajuku|HiSmart 2K ATV4|
 |Hisense|l676be|HS8929QC|Hisense L676|
 |Hisense|l691|msm8226|HS-L691|
 |Hisense|l830|HS8937QC|Hisense L830|
@@ -7324,6 +7326,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HONOR 10i|HWHRY-HF|HRY-LX1T|
 |Huawei|HONOR 20|HWYAL|YAL-AL00|
 |Huawei|HONOR 20|HWYAL|YAL-TL00|
+|Huawei|HONOR 20/Nova 5T|HWYAL|YAL-L21|
 |Huawei|HONOR 20i|HWHRY-HF|HRY-AL00Ta|
 |Huawei|HONOR 4X|hwChe2|Che2-L12|
 |Huawei|HONOR 8S|HWKSA-M|KSA-LX2|
@@ -8093,6 +8096,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|Y7|HWTRT-Q|TRT-LX3|
 |Huawei|Y7 Prime 2019|HWDUB-Q|DUB-LX1|
 |Huawei|Y7 Pro 2019|HWDUB-Q|DUB-AL20|
+|Huawei|Y9 Prime 2019|HWSTK-HF|STK-L21|
 |Huawei|Y9 Prime 2019|HWSTK-HF|STK-L22|
 |Huawei|Y9 Prime 2019|HWSTK-HF|STK-LX3|
 |Huawei|Youth|hws7701u|Orinoquia Gran Roraima S7-702u|
@@ -13874,6 +13878,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Neffos|Neffos C7|C7|Neffos C7|
 |Neffos|Neffos C7|C7|Neffos_C7|
 |Neffos|Neffos C7 Lite|C7_Lite|Neffos C7 Lite|
+|Neffos|Neffos C7s|C7s|Neffos C7s|
 |Neffos|Neffos C9|C9|Neffos_C9|
 |Neffos|Neffos C9A|C9A|Neffos_C9A|
 |Neffos|Neffos N1|N1|Neffos N1|
@@ -22777,9 +22782,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|MIX 3|perseus|MIX 3|
 |Xiaomi|MIX 3|perseus|Mi MIX 3|
 |Xiaomi|Mi 3|pisces|MI 3|
-|Xiaomi|Mi 4 PRO|dangalUHD|MiTV-AXSO2|
-|Xiaomi|Mi 4A PRO|dangalFHD|MiTV-AXSO1|
-|Xiaomi|Mi 4C PRO|dangal|MiTV-AXSO0|
 |Xiaomi|Mi 4c|libra|Mi-4c|
 |Xiaomi|Mi 4i|ferrari|Mi 4i|
 |Xiaomi|Mi 5|gemini|MI 5|
@@ -22793,11 +22795,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Mi MIX 3 5G|andromeda|Mi MIX 3 5G|
 |Xiaomi|Mi Note|virgo|MI NOTE LTE|
 |Xiaomi|Mi Note2|scorpio|Mi Note 2|
+|Xiaomi|Mi TV 4A|amelie|MiTV-MSSP0|
+|Xiaomi|Mi TV 4S|nino|MiTV-MSSP1|
 |Xiaomi|MiBOX1S|casablanca|MiBOX1S|
 |Xiaomi|MiBOX2|dredd|MiBOX2|
 |Xiaomi|MiBOX3S|queenchristina|MiBOX3S|
 |Xiaomi|MiBOX_mini|forrestgump|MiBOX_mini|
 |Xiaomi|MiBox S|oneday|MIBOX4|
+|Xiaomi|MiTV|dangal|MiTV-AXSO0|
+|Xiaomi|MiTV|dangalFHD|MiTV-AXSO1|
+|Xiaomi|MiTV|dangalUHD|MiTV-AXSO2|
 |Xiaomi|MiTV2|entrapment|MiTV2|
 |Xiaomi|POCO F1|beryllium|POCOPHONE F1|
 |Xiaomi|Redmi|HM2013023|2013023|
