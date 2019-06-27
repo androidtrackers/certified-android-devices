@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-06-26
+Last sync is 2019-06-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4032,6 +4032,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ematic|EGS017|EGS017|EGS017|
 |Ematic|EMATICEGS109|EGS109|EGS109|
 |Ematic|ETH102|ETH102|ETH102|
+|Ematic|Ematic|EGQ239BD|EGQ239BD|
 |Ematic|FunTab 2|FunTab2|FunTab2|
 |Ematic|FunTab 3|Funtab3|FunTabPlay|
 |Ematic|FunTab 3|Funtab3|Funtab3|
@@ -5037,6 +5038,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gionee|X1S|GIONEE_SWW1627|X1S|
 |Globe Phoenix|DX768Pro|DX768Pro|DX768Pro|
 |Globe Phoenix|PHPHOENIXONETAB|PHPHOENIXONETAB|PHPHOENIXONETAB|
+|Globe Phoenix|Springboard|CS790Pro|CS790Pro|
 |Globe Telecom|SEI-120G|SEI120G|SEI-120G|
 |Glofiish|Gpad_U|Gpad_U|Gpad_U|
 |Go Mobile|GO Onyx|GO_Onyx_LTE|GO Onyx LTE|
@@ -7326,6 +7328,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HONOR 10i|HWHRY-HF|HRY-LX1T|
 |Huawei|HONOR 20|HWYAL|YAL-AL00|
 |Huawei|HONOR 20|HWYAL|YAL-TL00|
+|Huawei|HONOR 20 PRO/Nova 5T PRO|HWYAL|YAL-L41|
 |Huawei|HONOR 20/Nova 5T|HWYAL|YAL-L21|
 |Huawei|HONOR 20i|HWHRY-HF|HRY-AL00Ta|
 |Huawei|HONOR 4X|hwChe2|Che2-L12|
@@ -13627,6 +13630,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Myria|Myria Wide 4G|Myria_Wide_4G|Myria_Wide_4G|
 |Myria|Myria_L550|Myria_L550|Myria_L550|
 |Myria|Myria_L600|Myria_L600|Myria_L600|
+|Mytron|Pad_60|Pad_60|Pad_60|
 |NASCO|Allure_Plus|NASCO_Allure_Plus|NASCO_Allure_Plus|
 |NASCO|Hero|NAS-510|Hero|
 |NASCO|Magic|Magic|Magic|
@@ -13884,6 +13888,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Neffos|Neffos N1|N1|Neffos N1|
 |Neffos|Neffos X1|X1|Neffos X1|
 |Neffos|Neffos X1 Max|X1_Max|Neffos X1 Max|
+|Neffos|Neffos X20|X20|Neffos X20|
+|Neffos|Neffos X20 Pro|X20_Pro|Neffos X20 Pro|
 |Neffos|Neffos X9|X9|Neffos_X9|
 |Neffos|Neffos Y5i|Y5i|Neffos Y5i|
 |Neffos|Neffos Y5s|Y5s|Neffos Y5s|
@@ -16484,6 +16490,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A8(2018)|jackpotlteks|SM-A530N|
 |Samsung|Galaxy A8+(2018)|jackpot2lte|SM-A730F|
 |Samsung|Galaxy A8+(2018)|jackpot2lte|SM-A730X|
+|Samsung|Galaxy A80|r1q|SM-A805F|
 |Samsung|Galaxy A8s|a8sqlte|SM-G887F|
 |Samsung|Galaxy A8s|a8sqltechn|SM-G8870|
 |Samsung|Galaxy A9 (2018)|a9y18qlte|SM-A920F|
@@ -17508,6 +17515,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S10 5G|beyondx|SM-G977B|
 |Samsung|Galaxy S10 5G|beyondx|SM-G977N|
 |Samsung|Galaxy S10 5G|beyondxq|SM-G977P|
+|Samsung|Galaxy S10 5G|beyondxq|SM-G977T|
 |Samsung|Galaxy S10 5G|beyondxq|SM-G977U|
 |Samsung|Galaxy S10+|SC-04L|SC-04L|
 |Samsung|Galaxy S10+|SCV42|SCV42|
