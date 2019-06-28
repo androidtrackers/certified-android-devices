@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-06-27
+Last sync is 2019-06-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2190,6 +2190,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|ENERGY_DIAMOND_MINI|ENERGY_DIAMOND_MINI|ENERGY_DIAMOND_MINI|
 |Blu|Energy X 2|BLU_Energy_X_2|Energy X 2|
 |Blu|Energy X LTE|BLU_Energy_X_LTE|Energy X LTE|
+|Blu|G5|G0090|G5|
 |Blu|G9|G0130WW|G9|
 |Blu|GRAND 5.5 HD|BLU_GRAND_5_5_HD|BLU GRAND 5.5 HD|
 |Blu|Grand 5.5 HD II|G210Q|Grand 5.5 HD II|
@@ -3558,6 +3559,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DigiLand|NBDVDTAB9|NBDVDTAB9|NBDVDTAB9|
 |DigiLand|NS-P16AT08|mid8005|NS-P16AT08|
 |DigiLand|NS-P16AT785HD|MID7802RA|NS-P16AT785HD|
+|DigiLand|PCBOX|Kova_2_PCB-T731|PCB-T731|
 |DigiLand|TP1_N|TP1_N|TP1_N|
 |Digicel|DL501|DL501|DL501|
 |Digicel|Digi K1|Digi_K1|Digi_K1|
@@ -5072,23 +5074,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gome|GOME_C7_Note|GOME_C7_Note|GOME_C7_Note|
 |Gonna|Zebra|Zebra|Zebra|
 |Goo|g08|v12dn|View Prime|
-|Google|Chromebook|coral_cheets|coral|
-|Google|Chromebook|grunt_cheets|grunt|
-|Google|Chromebook|hana_cheets|Lenovo N23 Yoga/Flex 11 Chromebook|
-|Google|Chromebook|hana_cheets|Mediatek MTK8173 Chromebook|
-|Google|Chromebook|jerry_cheets|RK3288 Chrome OS Device|
-|Google|Chromebook|jerry_cheets|Rockchip RK3288 Chromebook|
-|Google|Chromebook|mighty_cheets|RK3288 Chrome OS Device|
-|Google|Chromebook|mighty_cheets|Rockchip RK3288 Chromebook|
-|Google|Chromebook|nami_cheets|nami|
-|Google|Chromebook|octopus_cheets|octopus|
-|Google|Chromebook|rammus_cheets|rammus|
-|Google|Chromebook|reef_cheets|ASUS Chromebook C213NA|
-|Google|Chromebook|reef_cheets|Intel Apollo Lake Chromebook|
-|Google|Chromebook|reef_cheets|reef|
-|Google|Chromebook|relm_cheets|Braswell Chrome OS Device|
-|Google|Chromebook|relm_cheets|Intel Braswell Chromebook|
-|Google|Chromebook|wizpig_cheets|Intel Braswell Chromebook|
+|Google|AMD Stoney Ridge Chromebook|grunt_cheets|grunt|
 |Google|Chromebook 14 (CB3-431)|edgar_cheets|Chromebook 14 (CB3-431)|
 |Google|Chromebook Pixel (2015)|samus_cheets|Google Chromebook Pixel (2015)|
 |Google|Chromebox|fizz_cheets|Chromebox Reference|
@@ -5096,6 +5082,18 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Emulator|generic_x86|Android SDK built for x86|
 |Google|Emulator|generic_x86_64|Android SDK built for x86_64|
 |Google|Galaxy S4 Google Play edition|jgedlte|GT-I9505G|
+|Google|Intel Amber Lake Y Chromebook|rammus_cheets|rammus|
+|Google|Intel Apollo Lake Chromebook|coral_cheets|coral|
+|Google|Intel Apollo Lake Chromebook|reef_cheets|ASUS Chromebook C213NA|
+|Google|Intel Apollo Lake Chromebook|reef_cheets|Intel Apollo Lake Chromebook|
+|Google|Intel Apollo Lake Chromebook|reef_cheets|reef|
+|Google|Intel Braswell Chromebook|relm_cheets|Braswell Chrome OS Device|
+|Google|Intel Braswell Chromebook|relm_cheets|Intel Braswell Chromebook|
+|Google|Intel Braswell Chromebook|wizpig_cheets|Intel Braswell Chromebook|
+|Google|Intel Gemini Lake Chromebook|octopus_cheets|octopus|
+|Google|Intel Kaby Lake U Chromebook|nami_cheets|nami|
+|Google|Mediatek MTK8173 Chromebook|hana_cheets|Lenovo N23 Yoga/Flex 11 Chromebook|
+|Google|Mediatek MTK8173 Chromebook|hana_cheets|Mediatek MTK8173 Chromebook|
 |Google|Pixel|sailfish|Pixel|
 |Google|Pixel 2|walleye|Pixel 2|
 |Google|Pixel 2 XL|taimen|Pixel 2 XL|
@@ -5110,6 +5108,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixelbook|eve_cheets|Google Pixelbook|
 |Google|Project Tango Tablet Development Kit|yellowstone|Project Tango Tablet Development Kit|
 |Google|Project Tango Tablet Development Kit|yellowstone|Yellowstone|
+|Google|Rockchip RK3288 Chromebook|jerry_cheets|RK3288 Chrome OS Device|
+|Google|Rockchip RK3288 Chromebook|jerry_cheets|Rockchip RK3288 Chromebook|
+|Google|Rockchip RK3288 Chromebook|mighty_cheets|RK3288 Chrome OS Device|
+|Google|Rockchip RK3288 Chromebook|mighty_cheets|Rockchip RK3288 Chromebook|
 |Gplus|F53|GPLUS_F53|GPLUS F53|
 |Gplus|F68+|F68|F68+|
 |Gplus|FW6950|GPLUS_FW6950|GPLUS_FW6950|
@@ -6054,6 +6056,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|TAB-700|TAB_700|TAB-700|
 |Haier|TAB-700|TAB_700|TAB700MPG|
 |Haier|TMK27A2|TMK27A2|TMK27A2|
+|Haier|Titan_T1|Titan_T1|Titan_T1|
 |Haier|Titan_T3|Titan_T3|Titan_T3|
 |Haier|V3|V3|V3|
 |Haier|Voyage V6|HM-V6|HM-V6|
@@ -10191,6 +10194,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG K40|mh4-pr|LM-X420|
 |LGE|LG K40|mh4x|LM-X420|
 |LGE|LG K40|mmh4|LM-X420|
+|LGE|LG K40|mmh4x|LM-X420|
 |LGE|LG K5|d3|LG-X220|
 |LGE|LG K50|mmh4p-pr|802LG|
 |LGE|LG K50|mmh4p-pr|LM-X520|
@@ -10575,6 +10579,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG it|cv1|LGV36|
 |LGE|LG optimus it L-05D|l_dcm|L-05D|
 |LGE|LG optimus it L-05E|L05E|L-05E|
+|LGE|LG style2|L-01L|L-01L|
 |LGE|LG-AS876|x5|AS876|
 |LGE|LG-D150|w35|LG-D150|
 |LGE|LG-D157f|w35ds|LG-D157f|
@@ -10858,6 +10863,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|VU3|vu3|LG-F300L|
 |LGE|VU3|vu3|LG-F300S|
 |LGE|W10|LMX130IM|LMX130IM|
+|LGE|W30|LM-X440IM|LM-X440IM|
 |LGE|WM-LG8200|b6|LG-V425|
 |LGE|WM-LG8200|b6|WM-LG8200|
 |LGE|Wine Smart|cf|LGS01|
@@ -13387,6 +13393,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto p30|robusta|XT1943-1|
 |Motorola|moto p30 play|deen|XT1941-2|
 |Motorola|moto z3 play|beckham|Moto Z3 Play|
+|Motorola|moto z4|foles|Moto Z3 Play|
+|Motorola|moto z4|foles|moto z4|
 |Motorola|motorola one|deen_sprout|motorola one|
 |Motorola|motorola one power|chef_sprout|moto x4|
 |Motorola|motorola one power|chef_sprout|motorola one power|
@@ -16325,6 +16333,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A10|a10|SM-A105G|
 |Samsung|Galaxy A10|a10|SM-A105M|
 |Samsung|Galaxy A10|a10|SM-A105N|
+|Samsung|Galaxy A10e|a10e|SM-A102U|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260F|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260G|
 |Samsung|Galaxy A20|a20|SM-A205F|
@@ -18000,6 +18009,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|"Galaxy Tab A (2018| 10.5)"|gta2xlltekx|
 |Samsung|"Galaxy Tab A (2018| 10.5)"|gta2xlwifi|
 |Samsung|"Galaxy Tab A (2018| 10.5)"|gta2xlwifichn|
+|Samsung|"Galaxy Tab A (8.0""| 2019)"|gto|
 |Samsung|Galaxy Tab A 10.1|gtaxllte|SM-T585M|
 |Samsung|Galaxy Tab A 10.1|gtaxllte|SM-T587|
 |Samsung|Galaxy Tab A 10.1|gtaxlwifi|SM-T580X|
@@ -18345,6 +18355,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Xcover|GT-S5690L|GT-S5690L|
 |Samsung|Galaxy Xcover|GT-S5690M|GT-S5690M|
 |Samsung|Galaxy Xcover|GT-S5690R|GT-S5690R|
+|Samsung|Galaxy Xcover 4s|xcover4s|SM-G398FN|
 |Samsung|Galaxy Xcover2|skomer|GT-S7710|
 |Samsung|Galaxy Xcover2|skomer|GT-S7710L|
 |Samsung|Galaxy Xcover3|xcover3lte|SM-G388F|
@@ -18428,7 +18439,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|SM-W2018|kellyltechn|SM-W2018|
 |Samsung|SM-W2018|kellyltechn|SM-W2018X|
 |Samsung|Sidekick|SGH-T839|SGH-T839|
-|Samsung|"Tab A (8.0| 2019)"|gto|
 |Samsung|Transfix|SCH-R730|SCH-R730|
 |Samsung|Transform|SPH-M920|SPH-M920|
 |Samsung|Transform Ultra|SPH-M930|SPH-M930|
@@ -21515,6 +21525,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |True|SMART 4G P1 Prime|SMART_4G_P1_PRIME|SMART 4G P1 Prime|
 |True|SMART TAB 4G M1|SMART_TAB_4G_M1|SMART TAB 4G M1|
 |True|SMART TAB 4G e-Biz|SMART_TAB_4G_e-Biz|SMART TAB 4G e-Biz|
+|True|SMART TAB 4G e-Biz PRO|SMART_TAB_4G_e-Biz_PRO|SMART TAB 4G e-Biz PRO|
 |True|SMART_4G_GEN_C_5.5|SMART_4G_GEN_C_5_5|SMART 4G GEN C 5.5|
 |True|SMART_Champ_4inch|SMART_Champ_4inch|SMART Champ 4.0|
 |True|SMART_MAX_4.0_PLUS|P909|SMART_MAX_4.0_PLUS|
