@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-06-28
+Last sync is 2019-06-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -15344,7 +15344,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|T750|t750|Positivo T750|
 |Positivo|Twist|S520|Positivo Twist M|
 |Positivo|Twist|S520|Positivo Twist S|
+|Positivo|Twist 2|S512|Twist 2|
 |Positivo|Twist 2 Fit|S509|Twist 2 Fit|
+|Positivo|Twist 2 Go|S541|Twist 2 Go|
 |Positivo|Twist 2 Pro|S532|Twist 2 Pro|
 |Positivo|Twist 2018|S511|Twist (2018)|
 |Positivo|Twist 4G|S520_4G|Positivo Twist 4G|
@@ -18005,6 +18007,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A (2017)|gta2swifi|SM-T380|
 |Samsung|Galaxy Tab A (2017)|gta2swifichn|SM-T380C|
 |Samsung|"Galaxy Tab A (2018| 10.5)"|gta2xllte|
+|Samsung|"Galaxy Tab A (2018| 10.5)"|gta2xllte|
 |Samsung|"Galaxy Tab A (2018| 10.5)"|gta2xlltechn|
 |Samsung|"Galaxy Tab A (2018| 10.5)"|gta2xlltekx|
 |Samsung|"Galaxy Tab A (2018| 10.5)"|gta2xlwifi|
@@ -18050,7 +18053,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A with S Pen|wisdom|SM-P205|
 |Samsung|Galaxy Tab A with S Pen|wisdomwifi|SM-P200|
 |Samsung|"Galaxy Tab A(10.1| 2019)"|gta3xl|
-|Samsung|Galaxy Tab A(10.5)|gta2xllte|SM-T597|
 |Samsung|Galaxy Tab A6|gtexswifi|SM-T280|
 |Samsung|Galaxy Tab A8|gtaslitelteusc|SM-T387R4|
 |Samsung|Galaxy Tab Active|rubenslte|SM-T365|
