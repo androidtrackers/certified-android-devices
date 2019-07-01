@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-06-30
+Last sync is 2019-07-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2588,6 +2588,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cellacom|M432|M432|M432|
 |Cellacom|M531|M531|M531|
 |Cellacom|S51_lite|S51_lite|S51_lite|
+|Cellcom TV|SEI-S905X2|tai|SEI-S905X2|
 |Cello|T1045PC|T1045PC|T1045PC|
 |Cello|T1045PN|T1045PN|T1045PN|
 |Cellon|A27|C8680|A27|
@@ -9144,10 +9145,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JabrBox|S502|S502|S502|
 |Janam|XG200|XG200|XG200|
 |Janam|XM75|XM75|XM75|
-|Janam|XT100|XM75|XM75|
 |Janam|XT100|XT100|XT100|
 |Janam|XT2|XT2|XT2|
 |Janam|XT200|XT200|XT200|
+|Janam|XT75|XM75|XM75|
 |JapanTaxi|IRIS ITAB05|IRIS_ITAB05|IRIS_ITAB05|
 |Jenesis|JT07-81B|JT07-81B|JT07-81B|
 |Jenesis|JT10-81B|JT10-81B|JT10-81B|
