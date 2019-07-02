@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-07-01
+Last sync is 2019-07-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -668,6 +668,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Altice|SX41|HS6737MT|SX41|
 |Altice|Staractive|STARACTIVE|STARACTIVE|
 |Altice|T10|T10|T10|
+|Altron|GHIA|GH1|GH1|
 |Altron|GI-420|GI-420|GI-420|
 |Altron|GI-530|GI-530|GI-530|
 |Altron|OB-627|OB-627|OB-627|
@@ -3712,6 +3713,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Disney Frozen|FROZEN|FROZEN|FROZEN|
 |Disney Frozen|MARVEL|MARVEL|MARVEL|
 |Disney Frozen|PRINCESS|PRINCESS|PRINCESS|
+|Disney Pixar|Toy_story|Toy_story|Toy_story|
 |Ditecma|M1092R|M1092R|M1092R|
 |Ditecma|M1092RV5|M1092RV5|M1092RV5|
 |Ditecma|M1092Rv4|M1092Rv4|M1092Rv4|
@@ -7331,9 +7333,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HAUWEI Y5 Lite 2018|HWCAG-L6737M|CAG-L22|
 |Huawei|HONOR 10i|HWHRY-HF|HRY-LX1T|
 |Huawei|HONOR 20|HWYAL|YAL-AL00|
+|Huawei|HONOR 20|HWYAL|YAL-L21|
 |Huawei|HONOR 20|HWYAL|YAL-TL00|
-|Huawei|HONOR 20 PRO/Nova 5T PRO|HWYAL|YAL-L41|
-|Huawei|HONOR 20/Nova 5T|HWYAL|YAL-L21|
+|Huawei|HONOR 20 PRO|HWYAL|YAL-L41|
 |Huawei|HONOR 20i|HWHRY-HF|HRY-AL00Ta|
 |Huawei|HONOR 4X|hwChe2|Che2-L12|
 |Huawei|HONOR 8S|HWKSA-M|KSA-LX2|
@@ -8521,6 +8523,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IView|Retailer Stores|730TPC|730TPC|
 |IView|SupraPad i700|g01i|i700|
 |IView|SupraPad i785Q|anchor|i785Q|
+|IZZI Telecom|HP2714|HPH65|HP2714|
 |Ice Phone|Mini|ice_phone_mini|Ice-Phone Mini|
 |Icon|Portal_10i|Portal_10i|NTMC17|
 |Ikimobile|BLESSPLUS|BLESSPLUS|BLESSPLUS|
@@ -9480,6 +9483,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Konrow|Sky|Sky|Sky|
 |Konrow|Smartfive|KONROW_Smartfive|Smartfive|
 |Krik Krak|Freedom|Freedom|Freedom|
+|Krono|NET_LITE|NET_LITE|NET_LITE|
 |Krono|NET_VOLT|NET_VOLT|NET_VOLT|
 |Krono|SKY|SKY|SKY|
 |Kruger&Matz|DRIVE 5|Drive_5|Kruger&Matz Drive 5|
@@ -22886,6 +22890,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xplore Technologies|XSLATE_D10|XSLATE_D10|iX101D1|
 |Xplore Technologies|XSLATE_D10|XSLATE_D10|iX101D1-FIOS|
 |Xtratech|X739Q|bnd8163_tb_n|X739Q|
+|Xtratech|XTRATECH|KT-755M|KT-755M|
 |Xwave|Xpad|Xpad|Xpad_M9_3G|
 |YSFEN|B9000|B9000|B9000|
 |YU|YUNICORN|YUNICORN|YU5530|
