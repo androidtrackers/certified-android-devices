@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-07-02
+Last sync is 2019-07-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1816,6 +1816,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-5511L|BQru_5511L|BQ-5511L|
 |BQru|BQ-5512L STRIKE FORWARD|BQru-5512L|BQ-5512L|
 |BQru|BQ-5517L TWIN PRO|BQru-5517L|BQ-5517L|
+|BQru|BQ-5518G|BQru-5518G|BQ-5518G|
 |BQru|BQ-5519L Tele2|BQru-5519L|BQ-5519L|
 |BQru|BQ-5520L Silk|BQru-5520L|BQ-5520L|
 |BQru|BQ-5521 STRIKE POWER MAX|BQru-5521|BQru-5521|
@@ -2810,6 +2811,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Clicktabds|F19|F19|F19|
 |ClipSonic|DVI37BT|DVI37BT|DV137BT|
 |Cloud (TruConnect)|Cirrus_C2|Cirrus_C2|Cirrus_C2|
+|Cloud (TruConnect)|Storm C3|Storm_C3|Storm_C3|
 |CloudFone|CloudFone Excite Prime 2|Excite_Prime_2|Excite Prime 2|
 |CloudFone|CloudFone Next Infinity Plus|Next_Infinity_Plus|Next Infinity Plus|
 |CloudFone|CloudFone Next Infinity Pro|Next_Infinity_Pro|Next Infinity Pro|
@@ -3519,6 +3521,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Denver Electronics|TAQ_10G|TAQ_10G|TAQ_10G|
 |Denver Electronics|TIQ-102|TIQ102|TIQ-102|
 |Denver Electronics|TIQ-104|TIQ104|TIQ-104|
+|Deutsche Telekom|KSTB6077|KSTB6077|KSTB6077|
 |DiMora Mobile|Adrenalin Pro|Adrenalin_Pro|Adrenalin Pro|
 |DiMora Mobile|DiMora_LUX|DiMora_LUX|DiMora_LUX|
 |DiMora Mobile|InnoV8|InnoV8|InnoV8|
@@ -3999,6 +4002,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Elephone|U|Elephone_U|U|
 |Elephone|U2|U2|U2|
 |Elephone|U_Pro|U_Pro|U_Pro|
+|Elephone|W3|W3|W3|
 |Elevate|G55_LITE|G55_LITE|G55 LITE|
 |Elevate|LUNA G58|G58|LUNA G58|
 |Elevate|LUNA G60|G60|LUNA G60|
@@ -8175,6 +8179,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|nova 4|HWVCE|VCE-TL00|
 |Huawei|nova 4e|HWMAR|MAR-AL00|
 |Huawei|nova 4e|HWMAR|MAR-TL00|
+|Huawei|nova 5|HWSEA|SEA-AL00|
+|Huawei|nova 5|HWSEA|SEA-TL00|
+|Huawei|nova 5 Pro|HWSEA-A|SEA-AL10|
+|Huawei|nova 5 Pro|HWSEA-A|SEA-TL10|
 |Huawei|nova 5i|HWGLK|GLK-AL00|
 |Huawei|nova lite|HWPRA-H|PRA-LX2|
 |Huawei|nova lite|HWPRA-H|PRA-LX3|
@@ -8526,6 +8534,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IZZI Telecom|HP2714|HPH65|HP2714|
 |Ice Phone|Mini|ice_phone_mini|Ice-Phone Mini|
 |Icon|Portal_10i|Portal_10i|NTMC17|
+|IguanaPad|XM14G|XM14G|XM14G|
 |Ikimobile|BLESSPLUS|BLESSPLUS|BLESSPLUS|
 |Ikimobile|BLESS_GO55|BLESS_GO55|BLESS_GO55|
 |Ikimobile|GO4.5S|GO4_5S|GO4.5S|
@@ -9357,6 +9366,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Karbonn|K9 Smart Yuva|K9_Smart_Yuva|K9 Smart Yuva|
 |Karbonn|K9 Viraat 4G|K9_VIRAAT_4G|K9 VIRAAT 4G|
 |Karbonn|K9_Smart_Plus|K9_Smart_Plus|K9_Smart_Plus|
+|Karbonn|K9_Viraat_Plus|K9_Viraat_Plus|K9_Viraat_Plus|
 |Karbonn|Karbonn K9 Music 4G|K9Music4G|K9 Music 4G|
 |Karbonn|Karbonn Yuva2|Karbonn_Yuva_2|Karbonn Yuva 2|
 |Karbonn|Platinum P9|Platinum_P9|Platinum P9|
@@ -9431,6 +9441,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Klipad|KL4890|KL4890|KL4890|
 |Klipad|KL600|KLIPAD_KL600|KLIPAD_KL600|
 |Klipad|KL600B|KLIPAD_KL600B|KL600B|
+|Klipad|KL601|KL601|KL601|
 |Klipad|KL7590|KL7590|KL7590|
 |Klipad|KL7591|KL7591|KL7591|
 |Klipad|KL7599|KL7599|KL7599|
@@ -12170,6 +12181,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MLS Innovation|iQ1568|iQ1568|iQ1568|
 |MLS Innovation|iQ411M|iQ411M|iQ411M|
 |MLS Innovation|iQ8011|iQ8011|iQ8011|
+|MLS Innovation|iQD10S|iQD10S|iQD10S|
 |MLS Innovation|iQL550|iQL550|iQL550|
 |MLS Innovation|iQM960L|iQM960L|iQM960L|
 |MLS Innovation|iQS1001|iQS1001|iQS1001|
@@ -12817,6 +12829,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mito|MITO T85|T85|MITO T85|
 |Mito|MITO_A19_1GB|MITO_A19_1GB|MITO_A19_1GB|
 |Mito|MITO_A19_2GB|MITO_A19_2GB|MITO_A19_2GB|
+|Mito|Mito_A36_W1|MITO_A36_W1|MITO_A36_W1|
 |Mito|Mito_A37_Z1|MITO_A37_Z1|MITO_A37_Z1|
 |Mito|Mito_A37_Z1|MITO_A37_Z1plus|MITO_A37_Z1plus|
 |Mito|T5091A|MITO_A16|MITO A16|
@@ -13506,6 +13519,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|MS80X|ML-TI0D-MS80X|MS80X|
 |Multilaser|Ms5|MTL-MS5|MS5|
 |Multilaser|Ms6|MS6|MS6|
+|Multilaser|Multilaser G Pro|Multilaser_G_Pro|Multilaser_G_Pro|
 |My Go|GoTab GBT10|GBT10|GoTab_GBT10|
 |MyBox|MBIF-H533|DV8020|MBIF-H533|
 |MyFon|F3|F3|F3|
@@ -13851,6 +13865,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Navon|Pad 10|Pad_10|Pad_10|
 |Navon|Platinum 10 3G|Platinum_10_3G|Platinum 10 3G|
 |Navon|Platinum 10 3G|Platinum_10_3G_V2|Platinum_10_3G_V2|
+|Navon|Platinum103G2019|Platinum103G2019|Platinum103G2019|
 |Navon|Predator 10|Predator_10|Predator 10|
 |Navon|Predator 3G|Predator_3G|Predator 3G|
 |Navon|Pure Micro|Pure_Micro|Pure Micro|
@@ -15088,6 +15103,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|Philips S338|S338|Philips S338|
 |Philips|Philips S359|S359|Philips S359|
 |Philips|Philips S369|S369|Philips S369|
+|Philips|Philips S561|S561|Philips S561|
 |Philips|Philips S562Z|S562Z|Philips S562Z|
 |Philips|Philips SmartTV|freesia|PHILIPS 4K TV|
 |Philips|Philips V787|Philips_Xenium_V787|Philips Xenium V787|
@@ -15946,6 +15962,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|RCA RCT6213W22|RCT6213W22|RCT6213W22|
 |RCA|RCA RCT6213W23|RCT6213W23|RCT6213W23|
 |RCA|RCA RCT6213W24|RCT6213W24|RCT6213W24|
+|RCA|RCA RCT6613W23PU|RCT6613W23PU|RCT6613W23PU|
 |RCA|RCA RCT6703W13|RCT6703W13|RCT6703W13|
 |RCA|RCA RCT6973W43MDC8|RCT6973W43MDC8|RCT6973W43MDC8|
 |RCA|RCA RCT6B03W12|RCT6B03W12|RCT6B03W12|
@@ -17052,7 +17069,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy J7 Neo|j7velte|SM-J701F|
 |Samsung|Galaxy J7 Neo|j7velte|SM-J701M|
 |Samsung|Galaxy J7 Neo|j7velte|SM-J701MT|
-|Samsung|Galaxy J7 Neo2|j7topltemtr|SM-J737T1|
 |Samsung|Galaxy J7 Perx|j7popltespr|SM-J727P|
 |Samsung|Galaxy J7 Pop|j7popelteaio|SAMSUNG-SM-J727AZ|
 |Samsung|Galaxy J7 Pop|j7popelteatt|SAMSUNG-SM-J727A|
@@ -17070,6 +17086,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy J7 Pro|j7y17lte|SM-J730GM|
 |Samsung|Galaxy J7 Refine|j7topeltespr|SM-J737P|
 |Samsung|Galaxy J7 Sky Pro|j7popeltetfntmo|SM-S737TL|
+|Samsung|Galaxy J7 Star|j7topltemtr|SM-J737T1|
 |Samsung|Galaxy J7 Star|j7topltetmo|SM-J737T|
 |Samsung|Galaxy J7 V|j7popltevzw|SM-J727V|
 |Samsung|Galaxy J7 V|j7topeltevzw|SM-J737V|
@@ -18018,6 +18035,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|"Galaxy Tab A (2018| 10.5)"|gta2xlwifi|
 |Samsung|"Galaxy Tab A (2018| 10.5)"|gta2xlwifichn|
 |Samsung|"Galaxy Tab A (8.0""| 2019)"|gto|
+|Samsung|"Galaxy Tab A (8.0""| 2019)"|gto|
+|Samsung|"Galaxy Tab A (8.0""| 2019)"|gtowifi|
 |Samsung|Galaxy Tab A 10.1|gtaxllte|SM-T585M|
 |Samsung|Galaxy Tab A 10.1|gtaxllte|SM-T587|
 |Samsung|Galaxy Tab A 10.1|gtaxlwifi|SM-T580X|
@@ -18357,12 +18376,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Win Pro|wilcoxctc|SM-G3819D|
 |Samsung|Galaxy Win Pro|wilcoxds|SM-G3812|
 |Samsung|Galaxy Win2|coreprimeltedtv|SM-G360BT|
+|Samsung|Galaxy XCover 4s|xcover4s|SM-G398FN|
 |Samsung|Galaxy XCover4|xcover4lte|SM-G390F|
 |Samsung|Galaxy Xcover|GT-S5690|GT-S5690|
 |Samsung|Galaxy Xcover|GT-S5690L|GT-S5690L|
 |Samsung|Galaxy Xcover|GT-S5690M|GT-S5690M|
 |Samsung|Galaxy Xcover|GT-S5690R|GT-S5690R|
-|Samsung|Galaxy Xcover 4s|xcover4s|SM-G398FN|
 |Samsung|Galaxy Xcover2|skomer|GT-S7710|
 |Samsung|Galaxy Xcover2|skomer|GT-S7710L|
 |Samsung|Galaxy Xcover3|xcover3lte|SM-G388F|
@@ -18901,6 +18920,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sintel|SINTEL-X1|SINTEL_X1|SINTEL-X1|
 |Siragon|SP-5000|SP-5000|Siragon SP-5000|
 |Siragon|SP-5250|SP-5250|SP-5250|
+|Siragon|SP-7050|SP-7050|SP-7050|
 |Siragon|SP-7100|SP-7100|SP-7100|
 |Siragon|TB-5300|TB-5300|TB-5300|
 |Sirin|FINNEY PHONE|SR00300-W|FINNEY U1|
@@ -19633,6 +19653,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Starlight|I_Star_Plus|I_Star_Plus|I_Star_Plus|
 |Starlight|Madrid|Madrid|Madrid|
 |Starlight|Milan|Milan|Milan|
+|Starlight|Milan_Pro|Milan_Pro|Milan_Pro|
 |Starlight|My_Star_X|My_Star_X|My_Star_X|
 |Starlight|My_star_19|My_star_19|My_star_19|
 |Starlight|RIO STAR|RIO_STAR|RIO STAR|
@@ -21181,6 +21202,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|POP 2S|TECNO-RA8|TECNO RA8|
 |Tecno|POP 2s|TECNO-KB2h|TECNO KB2h|
 |Tecno|POP1|TECNO-F3|TECNO F3|
+|Tecno|Phantom 9|TECNO-AB7|TECNO AB7|
 |Tecno|Phantom6|Phantom6|Phantom6|
 |Tecno|Phantom6 plus|Phantom6-Plus|Phantom6-Plus|
 |Tecno|Phantom6S|Phantom6|Phantom6S|
