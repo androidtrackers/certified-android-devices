@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-07-03
+Last sync is 2019-07-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2445,6 +2445,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CCC|LifeStick|ts201|LifeStick|
 |CCC|TSUTAYA Stick|ts201|TStick|
 |CCIT|Xedition|Xedition|Xedition|
+|CEM Global|Continental|CE10412-26|CE10412-26|
 |CEM Global|Continential|CE10402-16|CE10402-16|
 |CEM Global|HS29779-18|HS29779-18|HS29779-18|
 |CG Mobile|Blaze G|Blaze_G|Blaze G|
@@ -2716,6 +2717,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cherry Mobile|Flare Y6|Flare_Y6|Flare Y6|
 |Cherry Mobile|Flare Y7|Flare_Y7|Flare_Y7|
 |Cherry Mobile|Flare Y7 LTE|Flare_Y7_LTE|Flare_Y7_LTE|
+|Cherry Mobile|Flare Y7 Pro|Flare_Y7_Pro|Flare_Y7_Pro|
 |Cherry Mobile|Flare_A1_Roam|Flare_A1_Roam|Flare_A1_Roam|
 |Cherry Mobile|Flare_HD_5|Flare_HD_5|Flare_HD_5|
 |Cherry Mobile|Flare_J3_Lite|Flare_J3_Lite|Flare_J3_Lite|
@@ -3587,6 +3589,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Digitron|i-Buddie|TR10CD1_10|TR10CD1|
 |Digitron|i_Buddie|TR10CS1_12|TR10CS1|
 |Digix|TAB-740_G|TAB-740_G|TAB-740_G|
+|Digma|CITI_7591_3G_CS7208MG|CS7208MG|CITI 7591 3G CS7208MG|
 |Digma|CITI_8589_3G_CS8206MG|CS8206MG|CITI 8589 3G CS8206MG|
 |Digma|CS7113PL|CS7113PL|CITI 7507 4G CS7113PL|
 |Digma|CS7204MG|CS7204MG|CITI 7587 3G CS7204MG|
@@ -3936,6 +3939,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EPIKONE|K534|K534|K534|
 |EPIKONE|K535|K535|K535|
 |EPIKONE|K536|K536|K536|
+|EPIKONE|K573|K573|K573|
 |EPIKONE|RS550|RS550|RS550|
 |EPIKONE|T700|T700|T700|
 |EPIKONE|X400|X400|X400|
@@ -4016,7 +4020,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ElliQ|ElliQTablet|ElliQTablet|ElliQTablet|
 |Elong Mobile|Y50|Y50|Y50|
 |Elong Mobile|Y50s|Y50s|Y50s|
-|Elsys|ETRI10|SEI103|ETRI01|
+|Elsys|ETRI01|SEI103|ETRI01|
 |Ematic|Cubby|SproutChannelCubby|SproutChannelCubby|
 |Ematic|EBM104JB|EBM104JB|EBM104JB|
 |Ematic|EGD078|EGD078|EGD078|
@@ -5170,6 +5174,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Guess|Wear|glowlight|GUESS Connect|
 |Guophone|X3|X3|X3|
 |Guophone|XP9800|Guophone_XP9800|XP9800|
+|HDC S.A.|HDC|TK718|TK718|
 |HDC S.A.|T700B|T700B|T700B|
 |HDD SAT|Tab_i_excess|Tab_i_excess|Tab_i_excess|
 |HKC|A79 Tablet|EM62|A79|
@@ -6817,6 +6822,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|VM1A|VM1A-L0-N|VM1A|
 |Honeywell|VM1A|VM1A-L0-P|VM1A|
 |Hoozo|HZ0010|HZ0010|HZ0010|
+|Hoozo|MR768|MR768|MR768|
 |Hoozo|MR7863|MR7863|MR7863|
 |Hot Pepper|H5|H5|H5|
 |Hot Pepper|VLE5|VLE5|VLE5|
@@ -8799,6 +8805,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Innjoo|InnJoo-5|InnJoo-5|InnJoo-5|
 |Innjoo|Max 4 Pro|Max_4_Pro|Max 4 Pro|
 |Innjoo|Max3 LTE|Max3_LTE|Max3_LTE|
+|Innjoo|Superb|Superb|Superb|
 |Innjoo|VISION LTE|VISION_LTE|VISION LTE|
 |Inovacel|INOVACEL S24|S24|S24|
 |Insignia|FLEX 8\xe2\x80\x99\xe2\x80\x99 LTE Android Tablet|ns_15t8lte|NS-15T8LTE|
@@ -8923,6 +8930,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ipro|Mega7|MEGA7|MEGA7|
 |Ipro|Opal4S|Opal4S|Opal 4S|
 |Ipro|PHOENIX 5.0|PHOENIX_50|PHOENIX 5.0|
+|Ipro|Perla|Perla|Perla|
 |Ipro|Phonenix50S|Phonenix50S|Phonenix50S|
 |Ipro|Pro8S|Pro8S|Pro8S|
 |Ipro|Ruby5S|Ruby5S|Ruby5S|
@@ -9048,6 +9056,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|A46|itel-L5503|itel L5503|
 |Itel|A51|itel_A51|itel A51|
 |Itel|A52B|itel-A52B|itel A52B|
+|Itel|A55|itel-W6003|itel W6003|
 |Itel|A62|itel-A62|itel A62|
 |Itel|F311|Spice-F311|Spice F311|
 |Itel|ITELL_K4700Q|ITELL_K4700Q|ITELL K4700Q|
@@ -10918,6 +10927,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LOOQS|L108MR|L108MR|L108MR|
 |LT Electronics|K100|K100|K100|
 |LT Electronics|K200|K200|K200|
+|LT Electronics|LT-NOTE-10S|LT-NOTE-10S|LT-NOTE 10S|
 |LT Electronics|LT_C1500|LT_C1500|LT_C1500|
 |LT Electronics|LT_C2100|LT_C2100|LT_C2100|
 |LT Electronics|LT_C2200|LT_C2200|LT C2200|
@@ -13633,6 +13643,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Myphone|myPhone_Pocket_2|myPhone_Pocket_2|Pocket_2|
 |Myphone|myT3 DTV|myT3_DTV|myT3 DTV|
 |Myphone|myT5 DTV|myT5_DTV|myT5 DTV|
+|Myphone|myT6 DTV|myT6_DTV|myT6 DTV|
 |Myphone|myX1|MY807|MY807|
 |Myphone|myX2|myX2|myX2|
 |Myphone|myX3|MYX3|MYX3|
@@ -15945,6 +15956,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|7 Voyager II|RCT6773W22B|RCT6773W22B|
 |RCA|7 Voyager II|RCT6773W22BM|RCT6773W22BM|
 |RCA|7 Voyager III|RCT6973W43MD|RCT6973W43MD|
+|RCA|Artemis 10|RCT6T06E13|RCT6T06E13|
 |RCA|Atlas 10|RCT6703W12|RCT6703W12|
 |RCA|Atlas 10|RCT6B03W12|RCT6B03W12|
 |RCA|Atlas 10|RCT6B03W13|RCT6B03W13|
@@ -16033,6 +16045,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Redmi|Redmi 7|onc|Redmi 7|
 |Redmi|Redmi 7|onc|Redmi Y3|
+|Redmi|Redmi K20|davinci|Mi 9T|
+|Redmi|Redmi K20|davinci|Redmi K20|
 |Redmi|Redmi K20 Pro|raphael|Redmi K20 Pro|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Reeder|A8i Q2|A8i-Q2|A8i-Q2|
@@ -21216,6 +21230,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|Pouvoir 2 Pro|TECNO-LA7-13M|TECNO LA7 Pro|
 |Tecno|Pouvoir 3|TECNO-LB7|TECNO LB7|
 |Tecno|Pouvoir 3 Air|TECNO-LC6|TECNO LC6|
+|Tecno|Pouvoir 3 Air|TECNO-LC6a|TECNO LC6a|
 |Tecno|R6|TECNO-R6|TECNO R6|
 |Tecno|R6+|TECNO-RA6|TECNO RA6|
 |Tecno|R7 4G|TECNO-F2LTE|TECNO RA7|
@@ -24281,6 +24296,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE BLade Zmax|crocus|Z982|
 |ZTE|ZTE BV0870|P840V71|ZTE BV0870|
 |ZTE|ZTE Blade A0722|P817F18|ZTE Blade A0722|
+|ZTE|ZTE Blade A3 2019|P932F20|ZTE Blade A3 2019|
 |ZTE|ZTE Blade A3 2019|P932K20|ZTE Blade A3 2019|
 |ZTE|ZTE Blade A3 2019RU|P932F20|ZTE Blade A3 2019RU|
 |ZTE|ZTE Blade A3 Lite|P932F20|ZTE Blade A3 Lite|
