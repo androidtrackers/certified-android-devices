@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-07-04
+Last sync is 2019-07-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -441,6 +441,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiwa|Aiwa|KSTB6043|KSTB6043|
 |Aiwa|Z9|AIWA_Z9|Z9|
 |Aiwa|Z9 PLUS|AIWA_Z9_PLUS|Z9 PLUS|
+|Akai|FZ101|FZ101|FZ101|
 |Akai|FZ701|FZ701|FZ701|
 |Akai|FZ702|FZ702|FZ702|
 |Akai|FZ703|FZ703|FZ703|
@@ -1860,6 +1861,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|CRYSTAL|BQru-5054|BQru-5054|
 |BQru|FOX POWER|BQru-4583|BQru-4583|
 |BQru|FOX POWER|BQru-4583|BQru-4583|
+|BRIGMTON|BTPC-1025OC|BTPC-1025OC|BTPC-1025OC|
 |BYD|DynaVox T10|T10|T10|
 |BYD|FarEastone Smart 502|Smart502|Smart 502|
 |BYD|INHON G3|G3|G3|
@@ -2046,6 +2048,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackfox|BMM542D|BMM542D|BMM542D|
 |Blackfox|BMM543D|BMM543D|BMM543D|
 |Blackfox|BMM_533D|BMM_533D|BMM_533D|
+|Blackshark|Black Shark 2|skywalker|SKW-A0|
 |Blackshark|Black Shark 2|skywalker|SKW-H0|
 |Blackshark|Shark|shark|SKR-H0|
 |Blackshark|Shark 1S|bullhead|AWM-A0|
@@ -11171,6 +11174,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|iris880|iris880|iris880|
 |Lava|iris88_go|iris88_go|iris88_go|
 |Lava|iris88_lite|iris88_lite|iris88_lite|
+|Lava|iris88s|iris88s|iris88s|
 |Lazer|MD1005 Tablet|MD1005|MD1005|
 |Lazer|MID9526CM|MID9526CM|S952|
 |Lazer|MW-7615P|MW-7615P|MW-7615P|
@@ -12806,6 +12810,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mint|Orion_DS|Orion_DS|Orion_DS|
 |Mint|Pearl_Neo|Pearl_Neo|Pearl_Neo|
 |Mintt|A1|A1|A1|
+|Mintt|CoolMinttA3|CoolMinttA3|CoolMinttA3|
 |Mintt|CoolMinttM2|CoolMinttM2|CoolMinttM2|
 |Mintt|Coolmintt P2|Coolmintt_P2|Coolmintt_P2|
 |Mintt|M1|M1|M1|
@@ -13590,6 +13595,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Myphone|NB754|NB754|NB754|
 |Myphone|NB961|NB961|NB961|
 |Myphone|Pocket 18X9|myPhone_Pocket_18x9|myPhone_Pocket_18x9|
+|Myphone|Pocket 18x9|Pocket_18x9|Pocket_18x9|
 |Myphone|Pocket18X9 LTE|Pocket_18x9_LTE|Pocket_18x9_LTE|
 |Myphone|Prime 18x9|Prime_18x9|Prime_18x9|
 |Myphone|Prime 18x9 LTE|Prime_18x9_LTE|Prime_18x9_LTE|
@@ -15114,6 +15120,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|Philips S338|S338|Philips S338|
 |Philips|Philips S359|S359|Philips S359|
 |Philips|Philips S369|S369|Philips S369|
+|Philips|Philips S397|Philips_S397|S397|
 |Philips|Philips S561|S561|Philips S561|
 |Philips|Philips S562Z|S562Z|Philips S562Z|
 |Philips|Philips SmartTV|freesia|PHILIPS 4K TV|
@@ -16217,6 +16224,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Universe|Laika|Laika|Laika|
 |SPC Universe|Lightyear|Lightyear|Lightyear|
 |SPC Universe|heaven_10_1|heaven-10_1|HEAVEN 10.1|
+|SSB PHONES|SSB-508D|SSB-508D|SSB-508D|
 |SSB PHONES|SSB504|SSB504|SSB504|
 |SSB PHONES|SSB504A|SSB504A|SSB504A|
 |SSB PHONES|SSB5518|SSB5518|SSB5518|
@@ -18016,7 +18024,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A|gta3xl|SM-T515|
 |Samsung|Galaxy Tab A|gta3xl|SM-T515N|
 |Samsung|Galaxy Tab A|gta3xlwifi|SM-T510|
-|Samsung|Galaxy Tab A|gtasliteltecs|SM-T387W|
 |Samsung|Galaxy Tab A|gtaxlqltespr|SM-T587P|
 |Samsung|"Galaxy Tab A (10.5"")"|gta2xlltespr|SM-T597P|
 |Samsung|"Galaxy Tab A (10.5"")"|gta2xlltevzw|SM-T597V|
@@ -18074,6 +18081,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A 8.0|gt5note8ltechn|SM-P355Y|
 |Samsung|Galaxy Tab A 8.0|gt5note8wifi|SM-P350|
 |Samsung|Galaxy Tab A 8.0|gt5note8wifichn|SM-P350|
+|Samsung|Galaxy Tab A 8.0|gtasliteltecs|SM-T387W|
 |Samsung|Galaxy Tab A 8.0|gtasliteltevzw|SM-T387V|
 |Samsung|Galaxy Tab A 9.7|gt510ltechn|SM-T555C|
 |Samsung|Galaxy Tab A 9.7|gt510wifi|SM-T550X|
@@ -21520,6 +21528,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Trekstor|SurfTab xintron i 7.0|st70408_4_coho|st70408_4_coho|
 |Trekstor|TFMTKAW01232|TFMTKAW01232|TFMTKAW01232|
 |Trekstor|Trekstor Surftab B10|THMTKAW01232|Trekstor Surftab B10|
+|Trekstor|Trekstor Surftab theatre S11|TFMTKAW01332|Trekstor Surftab theatre S11|
 |Trekstor|tolino tab 7|tolino7|tolino tab 7|
 |Trekstor|tolino tab 8|tolino8|tolino tab 8|
 |Trekstor|tolino tab 8.9|tolino89|tolino tab 8.9|
@@ -21669,6 +21678,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umax|VisionBook_P55_LTE_Pro|VisionBook_P55_LTE_Pro|VisionBook P55 LTE Pro|
 |Umidigi|A3|A3|A3|
 |Umidigi|A3_Pro|A3_Pro|A3_Pro|
+|Umidigi|A5 Pro|A5_Pro|A5_Pro|
 |Umidigi|F1|F1|F1|
 |Umidigi|F1_EEA|F1|F1|
 |Umidigi|One|One|One|
@@ -22858,16 +22868,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Mi MIX 3 5G|andromeda|Mi MIX 3 5G|
 |Xiaomi|Mi Note|virgo|MI NOTE LTE|
 |Xiaomi|Mi Note2|scorpio|Mi Note 2|
-|Xiaomi|Mi TV 4A|amelie|MiTV-MSSP0|
-|Xiaomi|Mi TV 4S|nino|MiTV-MSSP1|
 |Xiaomi|MiBOX1S|casablanca|MiBOX1S|
 |Xiaomi|MiBOX2|dredd|MiBOX2|
 |Xiaomi|MiBOX3S|queenchristina|MiBOX3S|
 |Xiaomi|MiBOX_mini|forrestgump|MiBOX_mini|
 |Xiaomi|MiBox S|oneday|MIBOX4|
+|Xiaomi|MiTV|amelie|MiTV-MSSP0|
 |Xiaomi|MiTV|dangal|MiTV-AXSO0|
 |Xiaomi|MiTV|dangalFHD|MiTV-AXSO1|
 |Xiaomi|MiTV|dangalUHD|MiTV-AXSO2|
+|Xiaomi|MiTV|nino|MiTV-MSSP1|
 |Xiaomi|MiTV2|entrapment|MiTV2|
 |Xiaomi|POCO F1|beryllium|POCOPHONE F1|
 |Xiaomi|Redmi|HM2013023|2013023|
