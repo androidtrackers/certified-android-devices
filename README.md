@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-07-05
+Last sync is 2019-07-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -22169,6 +22169,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y93\xe6\xa0\x87\xe5\x87\x86\xe7\x89\x88 64G|PD1818B|V1818CA|
 |Vivo|Y97|PD1813|V1813A|
 |Vivo|Z1|PD1730C|vivo Z1|
+|Vivo|Z1 Pro|1951|vivo 1951|
 |Vivo|Z3i|PD1813C|V1813A|
 |Vivo|Z3i|PD1813E|V1813A|
 |Vivo|vivo X21i A|PD1801|vivo X21i A|
@@ -22207,7 +22208,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo 1901|1901|vivo 1901|
 |Vivo|vivo 1902|1902|vivo 1902|
 |Vivo|vivo 1904|1904|vivo 1904|
-|Vivo|vivo 1951|1951|vivo 1951|
 |Vivo|vivo NEX A|PD1806|vivo NEX A|
 |Vivo|vivo NEX S|PD1805|vivo NEX S|
 |Vivo|vivo S1|PD1831|V1831A|
