@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-07-07
+Last sync is 2019-07-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1758,6 +1758,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|Bmobile AX753|Bmobile_AX753|Bmobile AX753|
 |BMobile|Bmobile AX960|Bmobile_AX960_MV03|AX960|
 |BMobile|Bmobile_AX1077|Bmobile_AX1077A|AX1077|
+|BMobile|Bmobile_AX688|Bmobile_AX688|AX688|
 |BMobile|Bmobile_AX752|Bmobile_AX752|AX752|
 |BMobile|Bmoblie AX683|Bmobile_AX683_MV04|AX683|
 |BMobile|FUN 4|Bmobile_FUN_4_2018|FUN 4 2018|
@@ -4874,6 +4875,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gigaset|GS180|GS180|GS180|
 |Gigaset|GS185|GS185|GS185|
 |Gigaset|GS190|GS190|GS190|
+|Gigaset|GS195|GS195|GS195|
 |Gigaset|GS280|GS280|GS280|
 |Gigaset|GS80|GS80|GS80|
 |Gigaset|Gigaset GS170|GS170|Gigaset GS170|
@@ -9897,6 +9899,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|Intuition|batman_vzw|VS950 4G|
 |LGE|JOJO|L-02K|L-02K|
 |LGE|K20|lv517|RS501|
+|LGE|K20|mmh6lm|LM-X120|
 |LGE|K3 2017|lv0|LG-AS110|
 |LGE|K3 2017|lv0|LGUS110|
 |LGE|K4|lv1|LG-M151|
@@ -11941,6 +11944,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lexibook|LexiTab\xc2\xae 7|MFC149FR|MFC149FR|
 |Lexibook|"LexiTab\xc2\xae 7"""|MFC148FR|MFC148FR|
 |Lexibook|LexiTab\xc2\xae Deluxe|MFC514FR|MFC514FR|
+|Lexibook|LexiTab\xc2\xae Master|MFC149|MFC149|
 |Lexibook|MFC191|MFC191|S952|
 |Lexibook|Playdroid|lbox500|LBOX500|
 |Lgcns|LPT_200AR|LPT_200AR|LPT_200AR|
@@ -12472,6 +12476,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Meitu|M4|M4|Meitu M4|
 |Meitu|M6|M6|MP1503|
 |Meitu|M8s|MayaS|MP1709|
+|Meitu|MI CC 9 Meitu Edition|vela|MI CC 9 Meitu Edition|
+|Meitu|MI CC 9 Meitu Edition|vela|Vela|
 |Meitu|Maya|Maya|MP1603|
 |Meitu|Meitu T8s|VictoriaS|MP1701|
 |Meitu|Meitu V6|Vivian|MP1605|
@@ -18499,6 +18505,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|\xe9\xa2\x86\xe4\xb8\x96\xe6\x97\x97\xe8\x88\xb08|venenoltechn|SM-G9298|
 |Samtech|T3G_04|T3G_04|T3G_04|
 |Samtech|TWIFI-04|TWIFI-04|TWIFI-04|
+|Samtech|TWIFI-06|TWIFI-06|TWIFI-06|
 |Sanaeko|FX9|SANAEKO|FX9|
 |Sankey|TAB1012FKY|TAB1012FKY|TAB1012FKY|
 |Sankey|TAB7A3G05|TAB7A3G05|TAB7A3G05|
@@ -18992,6 +18999,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|Platinum C55|Platinum_C55|Platinum C55|
 |Sky Devices|Platinum F5|Platinum_F5_2100|Platinum_F5|
 |Sky Devices|Platinum G5|Platinum_G5|Platinum_G5|
+|Sky Devices|Platinum G55|Platinum_G55|Platinum_G55|
 |Sky Devices|Platinum M5|Platinum_M5|Platinum_M5|
 |Sky Devices|Platinum View2|PLATINUM_VIEW2|PLATINUM_VIEW2|
 |Sky Devices|Platinum_UNO|Platinum_UNO|Platinum_UNO|
@@ -21624,6 +21632,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ubiquiti|UVP Pro|capri_ubq_telefi5p|UVP Pro|
 |Ubiquiti|UVP-X|grizzlies_telefi4x|UVP-X|
 |Ubiquiti|UVP-X|grizzlies_telefi4xp|UVP-X|
+|Ulefone|4dym|Armor_X3|Armor_X3|
 |Ulefone|Armor 2|Armor_2|Armor_2|
 |Ulefone|Armor 2S|Armor_2S|Armor_2S|
 |Ulefone|Armor 6|Armor_6|Armor_6|
@@ -22765,6 +22774,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |X-TIGI|X_TIGI_V16_LTE|X_TIGI_V16_LTE|X_TIGI_V16_LTE|
 |X-View|AMBER_KIDS|AMBER_KIDS|AMBER_KIDS|
 |X-View|PROTON_AMBER_HD|Proton_Amber_HD|Proton_Amber_HD|
+|X-View|X-View|X-ViewTablet7|X-ViewTablet7|
 |XL Axiata|AX512|DV8252|AX512|
 |XL Axiata|XL Home Pow|STI6xxx|STI6030|
 |Xcell|Enia|Xcell_Enia|Enia|
@@ -22829,6 +22839,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|MI 9|cepheus|MI 9|
 |Xiaomi|MI 9 SE|grus|MI 9 SE|
 |Xiaomi|MI 9 SE|grus|Mi 9 SE|
+|Xiaomi|MI CC 9|pyxis|MI CC 9|
+|Xiaomi|MI CC 9|pyxis|Pyxis|
+|Xiaomi|MI CC 9e|laurus|MI CC 9e|
+|Xiaomi|MI CC 9e|laurus|laurus|
 |Xiaomi|MI MAX|helium|MI MAX|
 |Xiaomi|MI MAX|hydrogen|MI MAX|
 |Xiaomi|MI MAX 2|oxygen|MI MAX 2|
