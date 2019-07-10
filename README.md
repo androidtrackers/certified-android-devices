@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-07-09
+Last sync is 2019-07-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -136,9 +136,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Accent|SPEED S8|SPEED_S8|SPEED_S8|
 |Accent|TANK_P55|TANK_P55|TANK_P55|
 |Access|fm502|fm502|fm502|
+|Acegame S.A.|NEONHD/NEONGo|NEON|NEONHD/NEONGo|
 |Acegame S.A.|One_Mundial|One_Mundial|One_Mundial|
 |Acegame S.A.|PROTON_JADE_2_PRO|PROTON_JADE_2_PRO|PROTON_JADE_2_PRO|
 |Acegame S.A.|SAPPHIRE_HDLT|SAPPHIRE_HDLT|SAPPHIRE_HDLT|
+|Acegame S.A.|TitaniumColors|TitaniumColors|TitaniumColors|
+|Acegame S.A.|TitaniumHD|TitaniumHD|TitaniumHD|
 |Acer||C6|Acer E320|
 |Acer||C6|Acer E320-orange|
 |Acer||C7|E330|
@@ -1661,6 +1664,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|T7 3G|T7_3G|Azumi_T7_3G|
 |Azumi|V5+|AZUMI_V5PLUS_AC27|V5+|
 |Azumi|V54_AC24|Azumi_V54_AC24|V54|
+|BEISTA|X101|X101|X101|
 |BGH S.A.|BGH Joy 303|BGH_Joy_303|BGH Joy 303|
 |BKAV|B2017|B2017|B2017|
 |BKAV|B2017|B2017|Bphone B2017|
@@ -3576,6 +3580,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DigiLand|NS-P16AT08|mid8005|NS-P16AT08|
 |DigiLand|NS-P16AT785HD|MID7802RA|NS-P16AT785HD|
 |DigiLand|PCBOX|Kova_2_PCB-T731|PCB-T731|
+|DigiLand|SLTDVD1023|mdt1005|SLTDVD1023|
 |DigiLand|TP1_N|TP1_N|TP1_N|
 |Digicel|DL501|DL501|DL501|
 |Digicel|Digi K1|Digi_K1|Digi_K1|
@@ -4344,9 +4349,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Figi|Mone|Mone|Mone|
 |Figi|Mtwo|Mtwo|Mtwo|
 |Figi|Nopal|Nopal|Nopal|
+|Figo|A9|A9|A9|
 |Figo|ATRIUM II F55L2|F55L2|ATRIUM II F55L2|
 |Figo|CENTRIC S50G|S50G|CENTRIC S50G|
 |Figo|F40G2|F40G2|F40G2|
+|Figo|J9|J9|J9|
 |Figo|M50L|M50L|M50L|
 |Figo|Orbit_ll|Orbit_ll|Orbit_ll|
 |Figo|Ultra J8|UltraJ8|UltraJ8|
@@ -7792,6 +7799,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|P20 lite|HWANE|ANE-LX1|
 |Huawei|P20 lite|HWANE|ANE-LX2|
 |Huawei|P20 lite|HWANE|ANE-LX3|
+|Huawei|P20Pro|HWCLT|CLT-L09|
+|Huawei|P20Pro|HWCLT|CLT-L29|
 |Huawei|P30 Pro|HW-02L|HW-02L|
 |Huawei|P30 Pro|HWVOG|VOG-AL00|
 |Huawei|P30 Pro|HWVOG|VOG-AL10|
@@ -10511,6 +10520,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG Stylo 4|cv7a|LML713DL|
 |LGE|LG Stylo 4|mcv7a|LG-Q710AL|
 |LGE|LG Stylo 4|mcv7a|LG-Q710PL|
+|LGE|LG Stylo 5|cv7as|LM-Q720|
 |LGE|LG Stylo3|sf317|LG-M430|
 |LGE|LG Stylo3|sf317|LGL83BL|
 |LGE|LG Stylo3|sf317|LGL84VL|
@@ -10959,6 +10969,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LUMUS|NEOSR620|NEOSR620|NEOSR620|
 |LUVO|001|luvo_001|Luvo 001|
 |LUVO|001L|LUVO-001L|LUVO 001L|
+|LUXO|LUXO C1|C1|C1|
 |LUXYA|MID704DC Tablet / Bitmore Tab770|MY7317P|MID704DC|
 |Laiq|GLAM|LAIQ_Glam|LAIQ Glam|
 |Laiq|Glow|Glow|Glow|
@@ -11100,6 +11111,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|LH9810|LH9810|LH9810|
 |Lava|LN9810|LN9810|LAVA LN9810|
 |Lava|LN9820|LN9820|LN9820|
+|Lava|LN9820|LN9820|LN9821|
 |Lava|P7|P7|P7|
 |Lava|P7 Plus|P7plus|P7plus|
 |Lava|P7plus|P7plus|P7plus|
@@ -12072,6 +12084,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logicom|Le Lift|LeLift|Le Lift|
 |Logicom|Le Must|LeMust|Le Must|
 |Logicom|Le Must 2|LeMust2|Le Must 2|
+|Logicom|Le Prime|Le_Prime|Le_Prime|
 |Logicom|Le Smooth|Le_Smooth|Le Smooth|
 |Logicom|Le Spark|Le_Spark|Le_Spark|
 |Logicom|Le Starter L|Le_Starter_L|Le Starter L|
@@ -21677,6 +21690,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor_6E|Armor_6E|Armor_6E|
 |Ulefone|Armor_6S|Armor_6S|Armor_6S|
 |Ulefone|Armor_X2|Armor_X2|Armor_X2|
+|Ulefone|Armor_X3|Armor_X3|Armor_X3|
 |Ulefone|MIX|t816_gq_ulefone|MIX|
 |Ulefone|MIX S|t815_gq_ulefone|MIX_S|
 |Ulefone|MIX_2|MIX_2|MIX_2|
@@ -22646,6 +22660,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|Sunny3|W_K120|Sunny3|
 |Wiko|Sunny3 Mini|W_K101|Sunny3 Mini|
 |Wiko|Sunny3 Mini|W_K101S|Sunny3 Mini|
+|Wiko|Sunny4|W-K130|W-K130-TMV|
 |Wiko|TOMMY|P4901AC|TOMMY|
 |Wiko|TOMMY|P4903LA|TOMMY|
 |Wiko|TOMMY2|T3931AC|TOMMY2|
@@ -24849,6 +24864,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |unitel|P45|P45|P45|
 |unitel|U901|U901|U901|
 |unitel|U902|U902|U902|
+|unitel|Unitel_Smart_1|Unitel_Smart_1|Unitel Smart 1|
 |videocon|Delite 11|V503630|V503630|
 |videocon|Krypton 22+|V505024|V505024|
 |videocon|Metal Pro 1|V505820|V505820|
