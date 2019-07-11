@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-07-10
+Last sync is 2019-07-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -429,6 +429,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aimson|7C08S|7C08S|7C08S|
 |Aimson|AINOL_Q88X|AINOL_Q88X|Q88X|
 |Aimson|Q88|Q88|Q88|
+|AirTV|AirTV Mini|kunlun|AirTV Mini|
 |Airtab|AT8-N|AT8-N|AT8-N|
 |Airtel|HP2707|AirtelOTTBox|HP2707|
 |Airtel|SH960S-AT|ganesa|SH960S-AT|
@@ -1024,6 +1025,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Archos|Archos Core 80 Wifi|ac80crwf|Archos Core 80 Wifi|
 |Archos|Archos Hello 5|ac50hello|Archos Hello 5|
 |Archos|Archos Hello 7|ac70hello|Archos Hello 7|
+|Archos|Archos Oxygen 101S|ac101sox|Archos Oxygen 101S|
+|Archos|Archos Oxygen 101S Ardoiz|ac101soxaz|Archos Oxygen 101S ARDOIZ|
 |Archos|Archos Oxygen 57|ac57ox|Archos Oxygen 57|
 |Archos|Archos Oxygen 63|ac63ox|Archos Oxygen 63|
 |Archos|Archos Saphir 50X|ac50sax|Archos Saphir 50X|
@@ -3755,6 +3758,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|MIX Lite|t766_dg_a66|MIX Lite|
 |Doogee|Mix|MIX|MIX|
 |Doogee|N10|Y7|N10|
+|Doogee|N10_EEA|Y7|N10_EEA|
 |Doogee|S30|S30|S30|
 |Doogee|S40|S40|S40|
 |Doogee|S50|t758_dg_m3t_n|S50|
@@ -4413,6 +4417,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fly|FS402|Stratus_2|FS402|
 |Fly|FS451|Nimbus1|FS451|
 |Fly|FS502|Cirrus_1|FS502|
+|Fly|Fly Life Play|LifePlay|Life Play|
 |Fly|Fly View Max|ViewMax|View Max|
 |Fly|Flylife Connect 10.1|Flylife_Connect_101_3G_2|Flylife Connect 10.1 3G 2|
 |Fly|Flylife Connect 7 3G 2|Flylife7|Flylife Connect 7 3G 2|
@@ -6865,6 +6870,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hotwav|Magic Q8 Plus|Magic_Q8_Plus|Magic Q8 Plus|
 |Hotwav|Magic_5_Plus|Magic_5_Plus|Magic 5 Plus|
 |Hotwav|Pearl K1|Pearl_K1|Pearl K1|
+|Hotwav|Pearl K2|Pearl_K2|Pearl K2|
 |Hotwav|Symbol|Symbol|Symbol|
 |Hotwav|Symbol M1|Symbol_M1|Symbol M1|
 |Hotwav|Symbol M1Plus|Symbol_M1_Plus|Symbol M1 Plus|
@@ -10626,6 +10632,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG X500|mlv7n|LGM-X320S|
 |LGE|LG X500|mlv7n|LM-X510K|
 |LGE|LG X500|mlv7n|LM-X510S|
+|LGE|LG Xpression Plus 2|mmh4x|LM-X420|
 |LGE|LG ZONE|d2|LG-X180g|
 |LGE|LG Zero|c100|LG-H650|
 |LGE|LG it|cv1|LGV36|
@@ -14704,6 +14711,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|C12 Pro|C12_Pro|C12 Pro|
 |Oukitel|C13 Pro|C13_Pro|C13 Pro|
 |Oukitel|C15 Pro|C15_Pro|C15 Pro|
+|Oukitel|C16|C16|C16|
 |Oukitel|C6 Pro|C6_Pro|C6 Pro|
 |Oukitel|C8|C8|C8|
 |Oukitel|C8 4G|C8_4G|C8 4G|
@@ -18619,8 +18627,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Senwa|Telcel_LS55|Telcel_LS55|LS55|
 |Servicom IT|IT-1101S|IT_1101S|IT_1101S|
 |Servicom IT|Smart Class|Smart_Class|Smart Class|
-|Seuic|AUTIOD9N|d500b|AUTIOD9N|
-|Seuic|AUTIOD9N|d500b|AUTOID9N|
+|Seuic|AUTOID9N|d500b|AUTIOD9N|
+|Seuic|AUTOID9N|d500b|AUTOID9N|
 |Seuic|CRUISE1|d700s|CRUISE1|
 |Sharp||SH7218T|SH7218T|
 |Sharp||SH8268U|SH8268U|
@@ -19719,6 +19727,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |StarMobile|UP Selfie|UP_Selfie|UP_Selfie|
 |StarMobile|UP Xtreme|UP_Xtreme|UP_Xtreme|
 |StarMobile|UP_XL|UP_XL|UP_XL|
+|StarMobile|up_octa|UP_Octa|UP Octa|
 |Starlight|C_Note|C_Note|C_Note|
 |Starlight|C_Note_Pro|C_Note_Pro|C_Note_Pro|
 |Starlight|Future|Future|Future|
@@ -24883,4 +24892,3 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |xTouch|XTOUCH X10|XTOUCH_X10|XTOUCH X10|
 |zyrex|ZT 216|ZT_216|ZT 216|
 |zyrex|Zyrex ZA833|ZA833|ZA833|
-||Zyrex ZA833|ZA833|ZA833|
