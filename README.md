@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-07-11
+Last sync is 2019-07-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -92,6 +92,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AT&T|AT&T TV|c71kw200|AT&T TV|
 |AT&T|AT&T TV|c71kw200|c71kw200|
 |AT&T|QS5509A|QS5509QL|QS5509A|
+|AT&T|U304AA|U304AA|U304AA|
 |ATM (Brazil)|R5Plus|R5Plus|R5Plus|
 |AURII|AURII ULTRA|AURII_ULTRA|AURII ULTRA|
 |AURII|AURII_AMUSE_4G|AURII_AMUSE_4G|AURII_AMUSE_4G|
@@ -9075,6 +9076,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|A21|itel_A21|itel A21|
 |Itel|A22|itel-A22|itel A22|
 |Itel|A22 Pro|itel-A22-Pro|itel A22 Pro|
+|Itel|A23|itel-A23F|itel A23P|
 |Itel|A31 Plus|itel-A31Plus|itel A31Plus|
 |Itel|A32F|itel-A32F|itel A32F|
 |Itel|A41|itel_A41|itel A41|
@@ -9151,6 +9153,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|it1703|itel_it1703|itel it1703|
 |Itel|itel A11|itel_A11|itel A11|
 |Itel|itel A14|itel-A14|itel A14|
+|Itel|itel A14 Max|itel-W4003|itel W4003|
 |Itel|itel A14S|itel-A14S|itel A14S|
 |Itel|itel A16|itel-A16|itel A16|
 |Itel|itel A16|itel-A16-BD|itel A16|
@@ -9165,11 +9168,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel A40|itel-A40|itel A40|
 |Itel|itel A41|itel_A41|itel A41|
 |Itel|itel A42 Plus|itel-A42Plus|itel A42 Plus|
+|Itel|itel A44 Air|itel-L5502S|itel L5502S|
 |Itel|itel A44 Power|itel-A44-Power|itel A44 Power|
 |Itel|itel A45|itel-A45|itel A45|
 |Itel|itel A52|itel-A52|itel A52|
 |Itel|itel A52 Lite|itel-A52-Lite|itel A52 Lite|
 |Itel|itel A52S Lite|itel-A52S-Lite|itel A52S Lite|
+|Itel|itel AC32|itel-A16S|itel A16S|
 |Itel|itel P41|itel_P41|itel P41|
 |Itel|itel Prime 4|itel_Prime4|itel Prime 4|
 |Itel|itel S12|itel-S12|itel S12|
@@ -9915,6 +9920,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|G6Fit|lucye|LM-Q850L|
 |LGE|G6Fit|lucye|LM-Q850S|
 |LGE|G7 fit|falcon|LM-Q850|
+|LGE|G8S ThinQ|betalm|LM-G810|
 |LGE|GA7800|eden|LG Android TV V4|
 |LGE|GPAD 7.0 LTE|e7lte|VK410|
 |LGE|Gentle|cf|LG-F580L|
@@ -12370,6 +12376,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maxvi|Maxvi_MS401|Maxvi_MS401|Maxvi_MS401|
 |Maxwest|Astro 5 Go LTE|Astro_5_GO_LTE|Astro_5_GO_LTE|
 |Maxwest|Astro 5N LTE|Astro_5N_LTE|Astro_5N_LTE|
+|Maxwest|Astro 5P|Astro_5P|Astro 5P|
 |Maxwest|Astro_55N_LTE|Astro_55N_LTE|Astro 55N LTE|
 |Maxwest|MAXWEST|Black765857703671|AstroPhablet7s|
 |Maxwest|Nitro 4N LTE|Nitro_4N_LTE|Nitro 4N LTE|
@@ -13522,7 +13529,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M10-4G|ML-JI03-M10-4G|M10-4G|
 |Multilaser|M10A|M10A|M10A|
 |Multilaser|M10A-Lite|M10A-Lite|M10A-Lite|
-|Multilaser|M7-3G PLUS|ML-JI-M7_3G_PLUS|ML-JI-M7_3G_PLUS|
 |Multilaser|M7-3G PLUS|ML-JI21-M7-3G-PLUS|M7-3G-PLUS|
 |Multilaser|M7-3G PLUS|ML-WI-M7_3G_PLUS|ML-WI-M7_3G_PLUS|
 |Multilaser|M7-4G|ML-JI-M7-4G|ML-JI-M7-4G|
@@ -13543,6 +13549,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M9-3G|ML-SO-M9-3G|ML-SO-M9-3G|
 |Multilaser|M9-3G|ML-WI-M9-3G|ML-WI-M9-3G|
 |Multilaser|M9-3G-2|M9-3G_2|M9-3G_2|
+|Multilaser|ML-JI-M7_3G_PLUS|ML-JI-M7_3G_PLUS|ML-JI-M7_3G_PLUS|
 |Multilaser|ML-JI11-M7_3G_PLUS|ML-JI11-M7_3G_PLUS|ML-JI11-M7_3G_PLUS|
 |Multilaser|ML-SO-M7_3G_PLUS|ML-SO-M7_3G_PLUS|ML-SO-M7_3G_PLUS|
 |Multilaser|ML-SO-MLX1|ML-SO-MLX1|ML-SO-MLX1|
@@ -14649,6 +14656,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|realme 3|RMX1825|RMX1825|
 |Oppo|realme 3Pro|RMX1851|RMX1851|
 |Oppo|realme 3Pro|RMX1853|RMX1853|
+|Oppo|realme 3i|RMX1827|RMX1827|
 |Oppo|realme C1|RMX1811|RMX1811|
 |Oppo|realme C2|RMX1941|RMX1941|
 |Oppo|realme C2|RMX1942|RMX1942|
@@ -16447,6 +16455,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A20|a20|SM-A205GN|
 |Samsung|Galaxy A20|a20|SM-A205W|
 |Samsung|Galaxy A20|a20|SM-A205YN|
+|Samsung|Galaxy A20|a20p|SM-A205U|
 |Samsung|Galaxy A20e|a20e|SM-A202F|
 |Samsung|Galaxy A3|a33g|SM-A300H|
 |Samsung|Galaxy A3|a3lte|SM-A300F|
@@ -16604,6 +16613,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A8(2018)|jackpotlteks|SM-A530N|
 |Samsung|Galaxy A8+(2018)|jackpot2lte|SM-A730F|
 |Samsung|Galaxy A8+(2018)|jackpot2lte|SM-A730X|
+|Samsung|Galaxy A80|r1q|SM-A8050|
 |Samsung|Galaxy A80|r1q|SM-A805F|
 |Samsung|Galaxy A8s|a8sqlte|SM-G887F|
 |Samsung|Galaxy A8s|a8sqltechn|SM-G8870|
@@ -17204,6 +17214,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M10|m10lte|SM-M105G|
 |Samsung|Galaxy M10|m10lte|SM-M105M|
 |Samsung|Galaxy M10|m10lte|SM-M105Y|
+|Samsung|Galaxy M20|m20|SM-M205N|
 |Samsung|Galaxy M20|m20lte|SM-M205F|
 |Samsung|Galaxy M20|m20lte|SM-M205FN|
 |Samsung|Galaxy M20|m20lte|SM-M205G|
@@ -17640,6 +17651,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S10+|beyond2q|SM-G975U|
 |Samsung|Galaxy S10+|beyond2q|SM-G975U1|
 |Samsung|Galaxy S10+|beyond2q|SM-G975W|
+|Samsung|Galaxy S10+ Olympic Game Edition|SC-05L|SC-05L|
 |Samsung|Galaxy S10e|beyond0|SM-G970F|
 |Samsung|Galaxy S10e|beyond0|SM-G970N|
 |Samsung|Galaxy S10e|beyond0q|SM-G9700|
@@ -21348,6 +21360,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO-Y2|TECNO-Y2|TECNO-Y2|
 |Tecno|TECNO-Y2|TECNO-Y2|TECNO-Y3+|
 |Tecno|Techno L6|TECNO-L6|TECNO-L6|
+|Tecno|Tecno pop 2x Air|TECNO-RB6S|TECNO RB6S|
 |Tecno|W1|TECNO_W1|TECNO W1|
 |Tecno|W2|TECNO_W2|TECNO W2|
 |Tecno|W3|TECNO-W3|TECNO-W3|
