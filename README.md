@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-07-12
+Last sync is 2019-07-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8525,6 +8525,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IMO(In My Opinion)|IMO Q3 Plus|IMO_Q3_Plus|IMO Q3 Plus|
 |IMO(In My Opinion)|IMO S2|S2|IMO S2|
 |INOI|INOI 1 Lite|INOI_1_Lite|INOI_1_Lite|
+|INOI|INOI 2 Lite 4Gb|INOI_2_Lite_4Gb|INOI 2 Lite 4Gb|
 |INOI|INOI 3 LITE|INOI_3_LITE|INOI_3_LITE|
 |INOI|INOI 5 Pro|INOI_5_Pro|INOI_5_Pro|
 |INOI|INOI _7i_Lite|INOI_7i_Lite|INOI_7i_Lite|
@@ -19080,6 +19081,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SkyLife|skylife LTE TV|DMTS17SS|DMT_1621|
 |Skyview|M5|M5|M5|
 |Skyworth|APAC 2K TV|shibuya|SWTV|
+|Skyworth|Asia|SW3_ATV|SWTV|
 |Skyworth|Asia|globe_ap|globe|
 |Skyworth|Asia|open_fhd_ap|open_fhd|
 |Skyworth|Euro|SW3_ATV|SWTV|
