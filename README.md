@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-07-13
+Last sync is 2019-07-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9154,9 +9154,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|it1703|itel_it1703|itel it1703|
 |Itel|itel A11|itel_A11|itel A11|
 |Itel|itel A14|itel-A14|itel A14|
+|Itel|itel A14|itel-A14|itel A14TZ|
 |Itel|itel A14 Max|itel-W4003|itel W4003|
 |Itel|itel A14S|itel-A14S|itel A14S|
 |Itel|itel A16|itel-A16|itel A16|
+|Itel|itel A16|itel-A16|itel A16TZ|
 |Itel|itel A16|itel-A16-BD|itel A16|
 |Itel|itel A16 Plus|itel-A16-Plus|itel A16 Plus|
 |Itel|itel A16 Plus|itel-A16-Plus|itel A16 Plus RU|
@@ -9176,6 +9178,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel A52 Lite|itel-A52-Lite|itel A52 Lite|
 |Itel|itel A52S Lite|itel-A52S-Lite|itel A52S Lite|
 |Itel|itel AC32|itel-A16S|itel A16S|
+|Itel|itel Alpha Lite|itel-W5008|itel W5008|
+|Itel|itel MC20|itel-A23F|itel A23|
 |Itel|itel P41|itel_P41|itel P41|
 |Itel|itel Prime 4|itel_Prime4|itel Prime 4|
 |Itel|itel S12|itel-S12|itel S12|
