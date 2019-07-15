@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-07-14
+Last sync is 2019-07-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2451,6 +2451,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |C&M|Smart TV II|stb_catv_cnm|SX930C-CC|
 |C5 Mobile|NOATAB|NOATAB|NOATAB|
 |C5 Mobile|Noa X Power|noaXPower|noaXPower|
+|C5 Mobile|noa X Plus|noa_X_plus|noa X plus|
 |C5 Mobile|noa X2 Plus|noa_x2_Plus|noa X2 Plus|
 |C5 Mobile|noa_G1|noa_G1|noa_G1|
 |CCC|AirStick|ts201|AIrStick|
@@ -4846,6 +4847,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ghia|I1|I1|I1|
 |Ghia|TREO_TAB8G|TREO_TAB8G|TREO_TAB8G|
 |Ghia|VECTOR10Plus|VECTOR10Plus|VECTOR10Plus|
+|Ghia|VECTOR_SLIM2|VECTOR_SLIM2|VECTOR_SLIM2|
 |Ghia|ZEUS 3G|N2|GHIA_ZEUS_3G|
 |Gigabyte||G1317S|GSmart G1317S|
 |Gigabyte|9788|9788|9788|
@@ -11694,6 +11696,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo TAB 7|TB-7504X|Lenovo TB-7504X|
 |Lenovo|Lenovo TAB 7 Essential|TB-7304F|Lenovo TB-7304F|
 |Lenovo|Lenovo TAB 8|TB-8304F|Lenovo TB-8304F|
+|Lenovo|Lenovo TAB M10 FHD Rel|TB-X605LC|Lenovo TB-X605LC|
 |Lenovo|Lenovo TAB3 10 Plus|TB3-X70F|Lenovo TB3-X70F|
 |Lenovo|Lenovo TAB3 10 Plus|TB3-X70L|Lenovo TB3-X70L|
 |Lenovo|Lenovo TAB3 10 Plus|TB3-X70N|Lenovo TB3-X70N|
@@ -12211,6 +12214,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MAZE|Comet|Comet|Comet|
 |MAZE|SSB-408E|SSB-408E|SSB-408E|
 |MAZE|SSB-508E|SSB-508E|SSB-508E|
+|MAZE|SSB5518R|SSB5518R|SSB5518R|
 |MAZE|SSB558R|SSB558R|SSB558R|
 |MAZE|SSB700T|SSB700T|SSB700T|
 |MDC Store|Grand|Grand|Grand|
@@ -12265,6 +12269,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MSI|Primo81|N821|Primo 81|
 |MSI|Primo81|N821|Primo81|
 |MSI|Primo81|Primo81|Primo81|
+|MSota|Nobby S400|Nobby_S400|Nobby S400|
 |MSota|Nobby S500|Nobby_S500|Nobby S500|
 |MSota|Nobby X800|Nobby_X800|Nobby X800|
 |MTC|982|MTC_982|MTC 982|
@@ -14941,6 +14946,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|FZ-N1|FZ-N1VUCF|FZ-N1|
 |Panasonic|FZ-N1|FZ-N1VUF|FZ-N1|
 |Panasonic|FZ-N1E|FZ-N1E|FZ-N1|
+|Panasonic|FZ-N1EVF|FZ-N1EVF|FZ-N1|
 |Panasonic|FZ-N1F|FZ-N1F|FZ-N1|
 |Panasonic|FZ-N1VU|FZ-N1VU|FZ-N1|
 |Panasonic|FZ-T1|FZ-T1A|FZ-T1|
@@ -14955,6 +14961,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|FZ-X1|FZ-X1|FZ-X1|
 |Panasonic|FZ-X1|FZ-X1VU|FZ-X1|
 |Panasonic|FZ-X1|FZ-X1VUC|FZ-X1|
+|Panasonic|GX600C|GX600C|GX600C|
 |Panasonic|GX700C|GX700C|GX700C|
 |Panasonic|GX880C|GX01C|GX01C|
 |Panasonic|GZ1000|GZ01C|GZ01C|
@@ -16296,6 +16303,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Universe|Laika|Laika|Laika|
 |SPC Universe|Lightyear|Lightyear|Lightyear|
 |SPC Universe|heaven_10_1|heaven-10_1|HEAVEN 10.1|
+|SSB PHONES|AMS5518R|AMS5518R|AMS5518R|
+|SSB PHONES|LM5518R|LM5518R|LM5518R|
 |SSB PHONES|SSB-508D|SSB-508D|SSB-508D|
 |SSB PHONES|SSB504|SSB504|SSB504|
 |SSB PHONES|SSB504A|SSB504A|SSB504A|
@@ -22725,6 +22734,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|View3|W-P311|W-P311-EEA|
 |Wiko|View3 Lite|W-V800|W-V800-EEA|
 |Wiko|View3 Lite|W-V800|W-V800-OPE|
+|Wiko|View3 Lite|W-V800|W-V800-TIM|
 |Wiko|View3 Lite|W-V800|W-V800-TVM|
 |Wiko|View3 Pro|W-P611|W-P611-EEA|
 |Wiko|View3 Pro|W-P611|W-P611-OPE|
