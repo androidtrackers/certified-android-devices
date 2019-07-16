@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-07-15
+Last sync is 2019-07-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -26,6 +26,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |7mobile|Kamba 2|7mobile_Kamba_2|Kamba_2|
 |7mobile|SWEGUE|SWEGUE|SWEGUE|
 |7mobile|Swegue 2|Swegue_2|Swegue 2|
+|9mobile|DM_T901|DM_T901|DM_T901|
 |A.O.I. ELECTRONICS FACTORY|A.O.I.|TR10CS1_11|TR10CS1|
 |A1|A1 Smart N9|VFD720|VFD 720|
 |ACE France|AS0218|AS0218|BUZZ 1|
@@ -435,6 +436,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Airtel|HP2707|AirtelOTTBox|HP2707|
 |Airtel|SH960S-AT|ganesa|SH960S-AT|
 |Aiuto|AT1001|AT1001|AT1001|
+|Aiuto|AT1002|AT1002|AT1002|
 |Aiuto|AT701|AT701|AT701|
 |Aiwa|AW790|AW790|AW790|
 |Aiwa|AWM501|AWM501|AWM501|
@@ -1778,6 +1780,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-1045G|BQru-1045|BQ-1045|
 |BQru|BQ-1056L|BQru_1056L|BQru-1056L|
 |BQru|BQ-1057L|BQru_1057L|BQru-1057L|
+|BQru|BQ-1082G|BQru-1082G_2019|BQ-1082G|
 |BQru|BQ-1084L|BQru-1084L|BQ-1084L|
 |BQru|BQ-1085L|BQru-1085L|BQ-1085L|
 |BQru|BQ-4001G|BQru-4001G|BQ-4001G|
@@ -1851,6 +1854,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-7000G|BQru-7000G|BQ-7000G|
 |BQru|BQ-7022G|BQru-7022|BQ-7022|
 |BQru|BQ-7036L|BQru-7036L|BQ-7036L|
+|BQru|BQ-7040G|BQru-7040G|BQ-7040G|
 |BQru|BQ-7081G|BQru-7081|BQru-7081|
 |BQru|BQ-7084G|BQru-7084G|BQ-7084G|
 |BQru|BQ-7098G|BQru-7098G|BQ-7098G|
@@ -4784,6 +4788,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gear Mobile|Feel_1008S|Feel_1008S|1008S|
 |Gear Mobile|Feel_7013N|Feel_7013N|Feel_7013N|
 |Gear Mobile|Feel_8002N|Feel_8002N|8002N|
+|Gear Mobile|GM10|GM10|GM10|
 |Gear Mobile|GM7|GM7|GM7|
 |Geecoo|G1|G1|G1|
 |Geecoo|G1_3g|G1_3g|G1_3g|
@@ -5080,6 +5085,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Globe Phoenix|PHPHOENIXONETAB|PHPHOENIXONETAB|PHPHOENIXONETAB|
 |Globe Phoenix|Springboard|CS790Pro|CS790Pro|
 |Globe Telecom|SEI-120G|SEI120G|SEI-120G|
+|Glocalme|S20i|S20iQ19|S20iQ19|
 |Glofiish|Gpad_U|Gpad_U|Gpad_U|
 |Go Mobile|GO Onyx|GO_Onyx_LTE|GO Onyx LTE|
 |Go Mobile|GO Onyx HD|Go_Onyx_HD|Go Onyx HD|
@@ -7379,8 +7385,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HONOR 8S|HWKSA-M|KSA-LX2|
 |Huawei|HONOR 8S|HWKSA-M|KSA-LX3|
 |Huawei|HONOR 8S|HWKSA-M|KSA-LX9|
-|Huawei|HONOR V20|HWPCT|PCT-AL10|
 |Huawei|HONOR V20|HWPCT|PCT-TL10|
+|Huawei|HONOR View20|HWPCT|PCT-AL10|
 |Huawei|HONOR View20|HWPCT|PCT-L29|
 |Huawei|HUAWEI G Elite Plus|HWSLA-Q|SLA-L03|
 |Huawei|HUAWEI GR5 2017|HWBLN-H|BLL-L21|
@@ -9491,6 +9497,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Klipad|KL450|KL450|KL450|
 |Klipad|KL456LD|KL456LD|KL456LD|
 |Klipad|KL4890|KL4890|KL4890|
+|Klipad|KL4898|KL4898|KL4898|
 |Klipad|KL600|KLIPAD_KL600|KLIPAD_KL600|
 |Klipad|KL600B|KLIPAD_KL600B|KL600B|
 |Klipad|KL601|KL601|KL601|
@@ -12272,6 +12279,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MSota|Nobby S400|Nobby_S400|Nobby S400|
 |MSota|Nobby S500|Nobby_S500|Nobby S500|
 |MSota|Nobby X800|Nobby_X800|Nobby X800|
+|MSota|Nobby X800 Pro|Nobby_X800_Pro|Nobby X800 Pro|
 |MTC|982|MTC_982|MTC 982|
 |MTC|Smart_Light|Smart_Light|Smart_Light|
 |MTC|Vodafone Smart mini|Vodafone_875|MTC 970H|
@@ -12357,6 +12365,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Masstel|N535|Masstel_N535|Masstel N535|
 |Masstel|Tab7LTE|Masstel_Tab7LTE|Masstel_Tab7LTE|
 |Masstel|Tab7Plus|Tab7Plus|Tab7Plus|
+|Masstel|Tab8Pro|Tab8Pro|Tab8Pro|
 |Masstel|Tab8plus|Tab8Plus|Tab8Plus|
 |Masstel|X3|Masstel_X3|Masstel X3|
 |Masstel|X8|Masstel_X8|Masstel_X8|
@@ -12870,6 +12879,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mintt|A1|A1|A1|
 |Mintt|CoolMinttA3|CoolMinttA3|CoolMinttA3|
 |Mintt|CoolMinttM2|CoolMinttM2|CoolMinttM2|
+|Mintt|CoolMintt_A3|CoolMintt_A3|CoolMinttA3|
 |Mintt|Coolmintt P2|Coolmintt_P2|Coolmintt_P2|
 |Mintt|FRESHMINTTA7|FRESHMINTTA7|FRESHMINTTA7|
 |Mintt|M1|M1|M1|
@@ -14200,6 +14210,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuu|A7L|N5002LA|N5002L|
 |Nuu|G1|N5704LA|N5704L|
 |Nuu|G2|S6001LE|S6001L|
+|Nuu|G4|N6201L|N6201L|
 |Nuu|M19|S5501LE|S5501L|
 |Nuu|M2|NUU_M2|NUU_M2|
 |Nuu|M3|NUU_M3|NUU_M3|
@@ -14730,6 +14741,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|C13 Pro|C13_Pro|C13 Pro|
 |Oukitel|C15 Pro|C15_Pro|C15 Pro|
 |Oukitel|C16|C16|C16|
+|Oukitel|C16 Pro|C16_Pro|C16_Pro|
 |Oukitel|C6 Pro|C6_Pro|C6 Pro|
 |Oukitel|C8|C8|C8|
 |Oukitel|C8 4G|C8_4G|C8 4G|
@@ -16131,6 +16143,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Redmi|Redmi 7|onc|Redmi 7|
 |Redmi|Redmi 7|onc|Redmi Y3|
+|Redmi|Redmi 7A|pine|Redmi 7A|
 |Redmi|Redmi K20|davinci|Mi 9T|
 |Redmi|Redmi K20|davinci|Redmi K20|
 |Redmi|Redmi K20 Pro|raphael|Redmi K20 Pro|
@@ -21843,6 +21856,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vava|XP3|XP3|XP3|
 |Vaxcare|VAX114|VAX114|VAX114|
 |Vega|Vega Q7128|Vega_Q7128|Vega Q7128|
+|Veidoo|VEIDOO_T8|VEIDOO_T8|T8|
 |Venso|CX-508|CX-508|CX-508|
 |Venso|Venso CX-551|Venso_CX_551|Venso CX-551|
 |Venturer|CT9B83W12|CT9B83W12|CT9B83W12|
@@ -23004,6 +23018,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Redmi 6Pro|sakura|Redmi 6 Pro|
 |Xiaomi|Redmi 7|onc|ONC|
 |Xiaomi|Redmi 7|onc|Redmi 7|
+|Xiaomi|Redmi 7A|pine|Redmi 7A|
 |Xiaomi|Redmi Go|tiare|Redmi Go|
 |Xiaomi|Redmi Note 3|hennessy|Redmi Note 3|
 |Xiaomi|Redmi Note 3|kate|Redmi Note 3|
@@ -24759,6 +24774,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iGet|SMART_L102|iGET_SMART_L102|SMART_L102|
 |iHunt|Alien X|Alien_X|Alien_X|
 |iHunt|Alien X Lite|Alien_X_Lite|Alien X Lite|
+|iHunt|AlienXLite2020|AlienXLite2020|AlienXLite2020|
 |iHunt|Alien_X_ApeX|Alien_X_ApeX|Alien_X_ApeX|
 |iHunt|Like 4U|Like_4U|Like_4U|
 |iHunt|Like_Hi5|Like_Hi5|Like Hi5|
