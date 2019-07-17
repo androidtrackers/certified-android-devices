@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-07-16
+Last sync is 2019-07-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1368,13 +1368,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ZenFone 5 Lite (ZC600KL)|ASUS_X017D_1|ASUS_X017D|
 |Asus|ZenFone 5 Lite (ZC600KL)|ASUS_X017D_2|ASUS_X017DA|
 |Asus|ZenFone 5 Lite (ZC600KL)|ASUS_X017D_2|ZC600KL|
-|Asus|ZenFone 5Z (ZS620KL)|ASUS_Z01R_1|ZS620KL|
-|Asus|ZenFone 5Z (ZS620KL/ZS621KL)|ASUS_Z01R_1|ASUS_Z01RD|
+|Asus|ZenFone 5Z (ZS620KL) (WW) / 5Z (ZS621KL) (IN)|ASUS_Z01R_1|ASUS_Z01RD|
+|Asus|ZenFone 5Z (ZS620KL) (WW) / 5Z (ZS621KL) (IN)|ASUS_Z01R_1|ZS620KL|
 |Asus|ZenFone 6|ASUS_T00G|ASUS_T00G|
 |Asus|ZenFone 6 (A600CG)|ASUS_T00G|ASUS_T00G|
 |Asus|ZenFone 6 (A601CG)|ASUS_Z002|ASUS_Z002|
-|Asus|ZenFone 6 (ZS630KL)|ASUS_I01WD|ASUS_I01WD|
-|Asus|ZenFone 6 (ZS630KL)|ASUS_I01WD|ZS630KL|
+|Asus|ZenFone 6 (ZS630KL) (WW) / 6Z (ZS630KL) (IN)|ASUS_I01WD|ASUS_I01WD|
+|Asus|ZenFone 6 (ZS630KL) (WW) / 6Z (ZS630KL) (IN)|ASUS_I01WD|ZS630KL|
 |Asus|ZenFone AR|ASUS_A002_1|ASUS_A002A|
 |Asus|ZenFone AR (ZS571KL)|ASUS_A002|ASUS_A002|
 |Asus|ZenFone Ares (ZS572KL)|ASUS_A002_2|ASUS_A002|
@@ -1420,22 +1420,22 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ZenFone Max M1 (ZB555KL)|ASUS_X00P_8|ASUS_X00PD|
 |Asus|ZenFone Max M1 (ZB555KL)|ASUS_X00P_8|ZB555KL|
 |Asus|ZenFone Max M1/M2 (ZB555KL)|ASUS_X00P_3|ASUS_X00PD|
-|Asus|ZenFone Max M2 (ZB632KL/ZB633KL)|ASUS_X01A_1|ASUS_X01AD|
-|Asus|ZenFone Max M2 (ZB632KL/ZB633KL)|ASUS_X01A_1|ZB633KL|
+|Asus|ZenFone Max M2 (ZB633KL) (WW) / Max M2 (ZB632KL) (IN)|ASUS_X01A_1|ASUS_X01AD|
+|Asus|ZenFone Max M2 (ZB633KL) (WW) / Max M2 (ZB632KL) (IN)|ASUS_X01A_1|ZB633KL|
 |Asus|ZenFone Max Plus M1 (ZB570TL)|ASUS_X018_1|ASUS_X018D|
 |Asus|ZenFone Max Plus M1 (ZB570TL)|ASUS_X018_2|ASUS_X018D|
 |Asus|ZenFone Max Plus M1 (ZB570TL)|ASUS_X018_4|ASUS_X018D|
 |Asus|ZenFone Max Plus M2 (ZB634KL)|ASUS_A001D_1|ASUS_A001D|
-|Asus|ZenFone Max Pro (M1)|ASUS_X00T_2|ASUS_X00TD|
-|Asus|ZenFone Max Pro (M1)|ASUS_X00T_3|ASUS_X00TD|
-|Asus|ZenFone Max Pro (M1)|ASUS_X00T_4|ASUS_X00TD|
-|Asus|ZenFone Max Pro (M1)|ASUS_X00T_6|ASUS_X00TD|
-|Asus|ZenFone Max Pro (M1)|ASUS_X00T_6|ASUS_X00TDB|
-|Asus|ZenFone Max Pro (M1)|ASUS_X00T_6|ZB602KL|
-|Asus|ZenFone Max Pro (M1)|ASUS_X00T_8|ASUS_X00TDB|
-|Asus|ZenFone Max Pro M2 (ZB630KL/ZB631KL)|ASUS_X01BD_1|ASUS_X01BDA|
-|Asus|ZenFone Max Pro M2 (ZB630KL/ZB631KL)|ASUS_X01BD_1|ZB631KL|
-|Asus|ZenFone Max Pro M2 (ZB630KL/ZB631KL)|ASUS_X01BD_2|ASUS_X01BDA|
+|Asus|ZenFone Max Pro M1 (ZB602KL) (WW) / Max Pro M1 (ZB601KL) (IN)|ASUS_X00T_2|ASUS_X00TD|
+|Asus|ZenFone Max Pro M1 (ZB602KL) (WW) / Max Pro M1 (ZB601KL) (IN)|ASUS_X00T_3|ASUS_X00TD|
+|Asus|ZenFone Max Pro M1 (ZB602KL) (WW) / Max Pro M1 (ZB601KL) (IN)|ASUS_X00T_4|ASUS_X00TD|
+|Asus|ZenFone Max Pro M1 (ZB602KL) (WW) / Max Pro M1 (ZB601KL) (IN)|ASUS_X00T_6|ASUS_X00TD|
+|Asus|ZenFone Max Pro M1 (ZB602KL) (WW) / Max Pro M1 (ZB601KL) (IN)|ASUS_X00T_6|ASUS_X00TDB|
+|Asus|ZenFone Max Pro M1 (ZB602KL) (WW) / Max Pro M1 (ZB601KL) (IN)|ASUS_X00T_6|ZB602KL|
+|Asus|ZenFone Max Pro M1 (ZB602KL) (WW) / Max Pro M1 (ZB601KL) (IN)|ASUS_X00T_8|ASUS_X00TDB|
+|Asus|ZenFone Max Pro M2 (ZB631KL) (WW) / Max Pro M2 (ZB630KL) (IN)|ASUS_X01BD_1|ASUS_X01BDA|
+|Asus|ZenFone Max Pro M2 (ZB631KL) (WW) / Max Pro M2 (ZB630KL) (IN)|ASUS_X01BD_1|ZB631KL|
+|Asus|ZenFone Max Pro M2 (ZB631KL) (WW) / Max Pro M2 (ZB630KL) (IN)|ASUS_X01BD_2|ASUS_X01BDA|
 |Asus|ZenFone Max Shot (ZB634KL)|ASUS_A001D_2|ASUS_A001D|
 |Asus|ZenFone Selfie (ZD551KL)|ASUS_Z00U_1|ASUS_Z00UD|
 |Asus|ZenFone Selfie (ZD551KL)|ASUS_Z00U_1|ASUS_Z00UDA|
@@ -2151,12 +2151,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|ADVANCE 5.0 HD|Advance_5_0_HD|Advance 5.0 HD|
 |Blu|Advance 4.0M|Advance_4_0M|Advance 4.0M|
 |Blu|Advance 4.0M|Advance_4_0M|Studio M4|
+|Blu|Advance 5.2|A230Q|Advance 5.2|
 |Blu|Advance 5.2|A290Q|Advance 5.2|
 |Blu|Advance A5 LTE|A0010WW|Advance A5 LTE|
 |Blu|Advance A6|A190|Advance A6|
 |Blu|Advance L4|A350|Advance L4|
 |Blu|Advance L4|A350A|Advance L4|
-|Blu|Advance_5_2|A230Q|Advance 5.2|
 |Blu|Advance_A7|A210|Advance A7|
 |Blu|Advance\xc2\xa0A5\xc2\xa0Plus\xc2\xa0LTE|A0031WW|Advance A5 Plus LTE|
 |Blu|BLU Dash XL|Dash_XL|Dash XL|
@@ -3284,6 +3284,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|QUEST|QUEST|QUEST|
 |Cubot|QUEST LITE|QUEST_LITE|QUEST LITE|
 |Cubot|R15|R15|R15|
+|Cubot|R19|R19|R19|
 |Cubot|RAINBOW 2|RAINBOW_2|RAINBOW 2|
 |Cubot|Rainbow|RAINBOW|RAINBOW|
 |Cubot|X19|X19|X19|
@@ -6163,6 +6164,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HighScreen|PowerRageEvo|PowerRageEvo|Power Rage Evo|
 |HighScreen|Prime L|PrimeL|Prime L|
 |HighScreen|Tasty|Tasty|Tasty|
+|High_Q|ELT0704H|ELT0704H|ELT0704H|
+|High_Q|ELT0706H|ELT0706H|ELT0706H|
+|High_Q|ELT0802H|ELT0802H|ELT0802H|
 |Hihi|HIHI-40KH-TAB-01|HIHI-40KH-TAB|HIHI-40KH-TAB-01|
 |Hiking|HIKING_A18|HIKING_A18|HIKING_A18|
 |Hiking|HK-MH501|HK-MH501|HK-MH501|
@@ -7393,9 +7397,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI GR5 2017|HWBLN-H|BLL-L22|
 |Huawei|HUAWEI GR5 2017|HWBLN-H|HUAWEI BLL-L21|
 |Huawei|HUAWEI GR5 2017|HWBLN-H|HUAWEI BLL-L22|
+|Huawei|HUAWEI Mate 20|HWHMA|HMA-L09|
 |Huawei|HUAWEI Mate 20|HWHMA|HMA-L29|
 |Huawei|HUAWEI Mate 20 Pro|HWLYA|LYA-L0C|
 |Huawei|HUAWEI Mate 20 Pro|HWLYA|LYA-L29|
+|Huawei|HUAWEI Mate 20 X (5G)|HWEVR|EVR-AN00|
+|Huawei|HUAWEI Mate 20 X (5G)|HWEVR|EVR-N29|
 |Huawei|HUAWEI Mate 20 lite|HWSNE|SNE-LX1|
 |Huawei|HUAWEI Mate 9 lite|HWBLN-H|BLL-L23|
 |Huawei|HUAWEI Mate 9 lite|HWBLN-H|HUAWEI BLL-L23|
@@ -7690,7 +7697,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|Mate 20 X|HWEVR|EVR-AL00|
 |Huawei|Mate 20 X|HWEVR|EVR-L29|
 |Huawei|Mate 20 X|HWEVR|EVR-TL00|
-|Huawei|Mate 20 X (5G)|HWEVR|EVR-AN00|
 |Huawei|Mate 20 X (5G)|HWEVR|EVR-N29|
 |Huawei|Mate 20 lite|HWSNE|SNE-LX1|
 |Huawei|Mate 20 lite|HWSNE|SNE-LX2|
@@ -13526,6 +13532,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Movitel|M8414|Movitel_M8414|M8414|
 |Movitel|M8415|M8415|M8415|
 |Movitel|M8416|M8416|M8416|
+|Movitel|M8418|M8418|M8418|
 |Movitel|M8601|Movitel_M8601|M8601|
 |Movitel|M9101A|M9101A|M9101A|
 |Movitel|M9101B|M9101B|M9101B|
@@ -15601,6 +15608,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|Grace 3758 3G|CD80A1G|PMT3758_3G|
 |Prestigio|Grace 3768 3G|CD80A1G|PMT3768_3G|
 |Prestigio|Grace 3778 3G|CD80A1G|PMT3778_3G|
+|Prestigio|Grace 3778 3G|CD80A1G|PMT3778_3G_EU|
 |Prestigio|Grace 3838 4G|CD80A3L|PMT3838_4G|
 |Prestigio|Grace 3848 4G|CD80A3L|PMT3848_4G|
 |Prestigio|Grace 3858 4G|CD80A3L|PMT3858_4G|
@@ -15804,6 +15812,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|Wize 3147 3G|LS70A2G|PMT3147_3G|
 |Prestigio|Wize 3401 3G|JU10A3G|PMT3401_3G|
 |Prestigio|Wize 3731 3G|CD10A2G|PMT3731_3G|
+|Prestigio|Wize 3731 3G|CD10A2G|PMT3771_3G_EU|
 |Prestigio|Wize 3741 3G|CD10A2G|PMT3741_3G|
 |Prestigio|Wize 3751 3G|CD10A2G|PMT3751_3G|
 |Prestigio|Wize 3761 3G|CD10A2G|PMT3761_3G|
@@ -19918,6 +19927,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|R100|R100|Symphony R100|
 |Symphony|R20|R20|R20|
 |Symphony|R30|R30|R30|
+|Symphony|R40|R40|R40|
 |Symphony|Roar A50|Roar_A50_sprout|Roar_A50|
 |Symphony|Roar_V78|Roar_V78|Roar_V78|
 |Symphony|S501|SYMPHONY_S501|S501|
@@ -20611,6 +20621,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024J|
 |TCT (Alcatel)|Alcatel 1T 7 WIFI|U3A_7_WIFI|8068|
 |TCT (Alcatel)|Alcatel 1V|Wright|5001A|
+|TCT (Alcatel)|Alcatel 1V|Wright|5001T|
 |TCT (Alcatel)|Alcatel 1X|U5A_PLUS_4G|5059A|
 |TCT (Alcatel)|Alcatel 1X|U5A_PLUS_4G|5059D|
 |TCT (Alcatel)|Alcatel 1X|U5A_PLUS_4G|5059D_RU|
@@ -24494,6 +24505,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|ET5X|ET50T|ET5X|
 |Zebra|ET5X|ET55E|ET5X|
 |Zebra|ET5X|ET55T|ET5X|
+|Zebra|L10A|L10A|L10A|
+|Zebra|L10AW|L10AW|L10AW|
 |Zebra|MC18|MC18|MC18N0|
 |Zebra|MC330K|MC33|MC33|
 |Zebra|MC330K|MC33C|MC33|
