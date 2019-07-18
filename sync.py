@@ -2,6 +2,7 @@
 """Google certified android devices tracker"""
 
 import difflib
+import json
 from datetime import date
 from os import rename, path, system, environ
 from requests import get, post
@@ -19,12 +20,14 @@ def fetch():
     response = get(url)
     data = (response.content.decode('utf-16'))
     data_list = list(data.split('\n'))
-    with open('README.md', 'w', encoding="utf-8") as out:
-        out.write('# Google Play Certified Android devices\n')
-        out.write('Last sync is {}\n\nhttps://support.google.com/googleplay/'
-                  'answer/1727131?hl=en\n\n'.format(TODAY))
-        out.write('|Retail Branding|Marketing Name|Device|Model|\n')
-        out.write('|---|---|---|---|\n')
+    with open('README.md', 'w', encoding="utf-8") as markdown,\
+            open('devices.json', 'w') as json_out:
+        markdown.write('# Google Play Certified Android devices\n')
+        markdown.write('Last sync is {}\n\nhttps://support.google.com/googleplay/'
+                       'answer/1727131?hl=en\n\n'.format(TODAY))
+        markdown.write('|Retail Branding|Marketing Name|Device|Model|\n')
+        markdown.write('|---|---|---|---|\n')
+        devices = []
         for line in data_list[1:]:
             i = line.strip().replace("  ", " ").split(",")
             try:
@@ -32,9 +35,11 @@ def fetch():
                 name = i[1]
                 device = i[2]
                 model = i[3]
-                out.write('|{}|{}|{}|{}|\n'.format(brand, name, device, model))
+                markdown.write('|{}|{}|{}|{}|\n'.format(brand, name, device, model))
+                devices.append({'brand': brand, 'name': name, 'device': device, 'model': model})
             except IndexError:
                 pass
+        json.dump(devices, json_out, indent=1)
 
 
 def diff_files():
@@ -89,7 +94,7 @@ def git_commit_push():
     """
     git add - git commit - git push
     """
-    system("git add README.md && git -c \"user.name=XiaomiFirmwareUpdater\" "
+    system("git add README.md devices.json && git -c \"user.name=XiaomiFirmwareUpdater\" "
            "-c \"user.email=xiaomifirmwareupdater@gmail.com\" "
            "commit -m \"[skip ci] sync: {0}\" && "" \
            ""git push -q https://{1}@github.com/androidtrackers/"
