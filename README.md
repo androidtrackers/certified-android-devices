@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-07-17
+Last sync is 2019-07-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -69,6 +69,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AG Mobile|Zenith|Zenith|Zenith|
 |AG Mobile|Zone|Zone|Zone|
 |AG Mobile|Zoom|Zoom|Zoom|
+|AKOR|TG797|TG797|TG797|
+|AKOR|TG996|TG996|TG996|
 |AMTC|MD1001 Tablet|MD1001|MD1001|
 |AMTC|MD7008|MD7008A|MD7008|
 |AMTC|MD7081|MD7081A|MD7081|
@@ -3468,6 +3470,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datalogic|MEMOR 1|M1_AOSP|Memor 1|
 |Datalogic|MEMOR 1|M1_HANDHELD|Memor 1|
 |Datalogic|MEMOR 1|M1_PISTOL|Memor 1|
+|Datalogic|Q10_WLAN|Q10A|Memor 20|
+|Datalogic|Q10_WWAN|Q10|Memor 20|
 |Datamini|K508101|K508101|K508101|
 |Datamini|K908H4G|K908H4G|K908H4G|
 |Datamini|T74G|T74G|T74G|
@@ -11670,6 +11674,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo A5|L18011|L18011|
 |Lenovo|Lenovo A5|L18021|Lenovo L18021|
 |Lenovo|Lenovo A5s|A5s|Lenovo L18081|
+|Lenovo|Lenovo K11|L38082|Lenovo L38082|
+|Lenovo|Lenovo K11|L38083|Lenovo L38083|
 |Lenovo|Lenovo K8|brady_f|Lenovo K|
 |Lenovo|Lenovo K8|brady_f|Lenovo K8|
 |Lenovo|Lenovo K8 Note|manning|Lenovo K8 Note|
@@ -11950,6 +11956,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Z5|jd2018|Lenovo L78011|
 |Lenovo|Z5|jd2018_cmcc|Lenovo L78011|
 |Lenovo|Z5s|jd2019|Lenovo L78071|
+|Lenovo|Z6|jd20|Lenovo L78121|
 |Lenovo|Z6|zippo|Lenovo L78051|
 |Lenovo|Z90/VIBE Shot|zoom_fdd|Lenovo Z90|
 |Lenovo|Z90/VIBE Shot|zoom_fdd|Lenovo Z90-7|
@@ -12266,6 +12273,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MLS Innovation|iQS1001|iQS1001|iQS1001|
 |MLS Innovation|iQS801|iQS801|iQS801|
 |MLS Innovation|iQW511T|iQW511T|iQW511T|
+|MLS Innovation|iQW608|iQW608|iQW608|
 |MOBO|MB_530|MB_530|MB_530|
 |MOVI|Movi Projector Phone|Movi|Movi Projector Phone|
 |MOVIC|A5501|A5501|A5501|
@@ -12978,6 +12986,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|SWITCH|SWITCH|SWITCH|
 |Mobicell|SWITCH1|SWITCH1|SWITCH1|
 |Mobicell|Samba|Samba|Samba|
+|Mobicell|Switch GO|Switch_GO|Switch GO|
 |Mobicell|TANGO_LITE|TANGO_LITE|TANGO_LITE|
 |Mobicell|TRENDY 2|TRENDY_2|TRENDY 2|
 |Mobicell|TRENDY_LITE|TRENDY_LITE|TRENDY_LITE|
@@ -13504,6 +13513,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto z4|foles|Moto Z3 Play|
 |Motorola|moto z4|foles|moto z4|
 |Motorola|motorola one|deen_sprout|motorola one|
+|Motorola|motorola one action|troika_sprout|motorola one action|
 |Motorola|motorola one power|chef_sprout|moto x4|
 |Motorola|motorola one power|chef_sprout|motorola one power|
 |Motorola|motorola one vision|kane_sprout|motorola one vision|
@@ -15982,6 +15992,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |QMobile|i8i PRO|i8i_PRO|QMobile i8i PRO|
 |QMobile|i8i_Pro_\xe2\x85\xa1|i8i_Pro_II|QMobile i8i Pro II|
 |QOOQ|QOOQV3|QOOQ|QOOQ|
+|QPS Digital Electronics|T1|T1|T1|
 |QUBO|Hermes|Hermes|Hermes|
 |QUBO|MINERVA|MINERVA|MINERVA|
 |QUBO|MINERVA_32GB|MINERVA_32GB|MINERVA_32GB|
@@ -16529,6 +16540,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A30|a30|SM-A305YN|
 |Samsung|Galaxy A40|a40|SM-A405FM|
 |Samsung|Galaxy A40|a40|SM-A405FN|
+|Samsung|Galaxy A40|a40|SM-A405S|
 |Samsung|Galaxy A40s|a30c|SM-A3050|
 |Samsung|Galaxy A40s|a30c|SM-A3051|
 |Samsung|Galaxy A40s|a30c|SM-A3058|
@@ -17687,7 +17699,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S10+|beyond2q|SM-G975U|
 |Samsung|Galaxy S10+|beyond2q|SM-G975U1|
 |Samsung|Galaxy S10+|beyond2q|SM-G975W|
-|Samsung|Galaxy S10+ Olympic Game Edition|SC-05L|SC-05L|
+|Samsung|Galaxy S10+ Olympic Games Edition|SC-05L|SC-05L|
 |Samsung|Galaxy S10e|beyond0|SM-G970F|
 |Samsung|Galaxy S10e|beyond0|SM-G970N|
 |Samsung|Galaxy S10e|beyond0q|SM-G9700|
@@ -18260,6 +18272,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S2|gts210lte|SM-T815C|
 |Samsung|Galaxy Tab S2|gts210lte|SM-T815Y|
 |Samsung|Galaxy Tab S2|gts210velte|SM-T819|
+|Samsung|Galaxy Tab S2|gts210velte|SM-T819Y|
 |Samsung|Galaxy Tab S2|gts210veltechn|SM-T819C|
 |Samsung|Galaxy Tab S2|gts210vewifi|SM-T813|
 |Samsung|Galaxy Tab S2|gts210vewifichn|SM-T813|
@@ -18287,7 +18300,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S2 9.7|gts210lteusc|SM-T817R4|
 |Samsung|Galaxy Tab S2 9.7|gts210ltevzw|SM-T817V|
 |Samsung|Galaxy Tab S2 9.7|gts210velte|SM-T818|
-|Samsung|Galaxy Tab S2 9.7|gts210velte|SM-T819Y|
 |Samsung|Galaxy Tab S2 9.7|gts210velteatt|SAMSUNG-SM-T818A|
 |Samsung|Galaxy Tab S2 9.7|gts210veltecan|SM-T818W|
 |Samsung|Galaxy Tab S2 9.7|gts210veltetmo|SM-T818T|
@@ -18319,6 +18331,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S5e|gts4lv|SM-T725C|
 |Samsung|Galaxy Tab S5e|gts4lv|SM-T725N|
 |Samsung|Galaxy Tab S5e|gts4lv|SM-T727|
+|Samsung|Galaxy Tab S5e|gts4lv|SM-T727V|
 |Samsung|Galaxy Tab S5e|gts4lvwifi|SM-T720|
 |Samsung|Galaxy Tab S5e|gts4lvwifichn|SM-T720|
 |Samsung|Galaxy Tab2 10.1|espresso10att|SAMSUNG-SGH-I497|
@@ -21171,6 +21184,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TWOE|E500A_2019|E500A_2019|E500A_2019|
 |TWOE|F534L|F534L|F534L|
 |TWOE|F572L|F572L|F572L|
+|TWZ Corporation PLC|T12|T12|T12|
 |TWZ Corporation PLC|Tab-PLAY125|Tab-PLAY125|Tab-PLAY125|
 |TWZ Corporation PLC|U18|U18|U18|
 |TabletKiosk|TK80|TK80|TK80|
@@ -21726,6 +21740,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |UNOWHY|SQOOL-V4|SQOOL-V4|SQOOL-V4|
 |UNOWHY|UNOWHY|QOOQ-V50|QOOQ-V50|
 |UNOWHY|UNOWHY|SQOOL-V41|SQOOL-V41|
+|UNOWHY|Y10G001S4M_EEA|Y10G001S4M|Y10G001S4M_EEA|
 |USA111|IRULU X11|iRULU-X11|iRULU X11|
 |USA111|IRULU X9|X9|X9|
 |USA111|Irulu X7|X7|X7|
@@ -24806,15 +24821,18 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iLa Mobile|ILA R1|ILA_R1|ILA R1|
 |iLa Mobile|ILA X2|ILA_X2|ILA X2|
 |iLa Mobile|ILA_X1|ILA_X1|ILA X1|
+|iLa Mobile|R1 Lite|R1_Lite|R1 Lite|
 |iLa Mobile|S1|S1|S1|
 |iLa Mobile|iLA Silk|iLA_Silk|iLA_Silk|
 |iLa Mobile|iLA-X|iLA-X|iLA-X|
+|iLife|I-LIFE|KIDS_TAB_7|KIDS_TAB_7|
 |iLife|ITELL K4700|ITELL_K4700|ITELL K4700|
 |iLife|ITELL_K3102N|ITELL_K3102N|ITELL_K3102N|
 |iLife|ITELL_K3500N|ITELL_K3500N|ITELL_K3500N|
 |iLife|ITELL_K3800Q|ITELL_K3800Q|ITELL_K3800Q|
 |iLife|KIDS-TAB-4|KIDS-TAB-4|KIDS-TAB-4|
 |iLife|KIDS-TAB-5|KIDS-TAB-5|KIDS-TAB-5|
+|iLife|KIDS_TAB_6|KIDS_TAB_6|KIDS_TAB_6|
 |iMuz|RA10|RA10|RA10|
 |iMuz|muPADT7|muPADT7|muPADT7|
 |iNFONE|INFONE XE|INFONE_XE|INFONE XE|
