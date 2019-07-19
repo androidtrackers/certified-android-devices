@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-07-18
+Last sync is 2019-07-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -440,6 +440,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiuto|AT1001|AT1001|AT1001|
 |Aiuto|AT1002|AT1002|AT1002|
 |Aiuto|AT701|AT701|AT701|
+|Aiuto|AT702|AT702|AT702|
 |Aiwa|AW790|AW790|AW790|
 |Aiwa|AWM501|AWM501|AWM501|
 |Aiwa|AWM509|AWM509|AWM509|
@@ -3471,7 +3472,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datalogic|MEMOR 1|M1_HANDHELD|Memor 1|
 |Datalogic|MEMOR 1|M1_PISTOL|Memor 1|
 |Datalogic|Q10_WLAN|Q10A|Memor 20|
-|Datalogic|Q10_WWAN|Q10|Memor 20|
 |Datamini|K508101|K508101|K508101|
 |Datamini|K908H4G|K908H4G|K908H4G|
 |Datamini|T74G|T74G|T74G|
@@ -3555,6 +3555,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DiMora Mobile|DiMora_LUX|DiMora_LUX|DiMora_LUX|
 |DiMora Mobile|InnoV8|InnoV8|InnoV8|
 |DiMora Mobile|InnoV8_PRO|InnoV8_PRO|InnoV8_PRO|
+|Dialog|N9106H_B|N9106H_B_Dialog|N9106H_B|
 |Dialog|SEI103DL|SEI103|SEI103DL|
 |Dialog Blaze|5701A|5701A|5701A|
 |Dialog Blaze|Dialog_Blaze_Mini|Dialog_Blaze_Mini|Dialog_Blaze_Mini|
@@ -7631,12 +7632,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|Honor\xc2\xa08A|HWJAT-M|JAT-AL00|
 |Huawei|Huawei Ascend XT2\xe2\x84\xa2|HWH1711-Q|H1711|
 |Huawei|Huawei Elate\xe2\x84\xa2|HWH1711-Q|H1711z|
+|Huawei|Huawei Mate 20 X|HWEVR|EVR-L29|
+|Huawei|Huawei Mate 20 X|HWEVR|EVR-TL00|
+|Huawei|Huawei Mate 20 X (5G)|HWEVR|EVR-N29|
 |Huawei|Huawei MediaPad T5|HWAGS2|AGS2-L03|
 |Huawei|Huawei MediaPad T5|HWAGS2|AGS2-L09|
 |Huawei|Huawei MediaPad T5|HWAGS2|AGS2-W19|
 |Huawei|Huawei Nova 2|HWPIC|PIC-LX9|
 |Huawei|Huawei P30|HWELE|ELE-L09|
 |Huawei|Huawei Y9 2019|HWJKM-HM|JKM-AL00a|
+|Huawei|Huwei Mate 20 X|HWEVR|EVR-AL00|
 |Huawei|IDEOS|U8150|Comet|
 |Huawei|IDEOS|U8150|Ideos|
 |Huawei|IDEOS|u8150|Ideos|
@@ -7698,10 +7703,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|Mate 20 Pro|HWLYA|LYA-L29|
 |Huawei|Mate 20 Pro|HWLYA|LYA-TL00|
 |Huawei|Mate 20 RS|HWLYA|LYA-AL00P|
-|Huawei|Mate 20 X|HWEVR|EVR-AL00|
-|Huawei|Mate 20 X|HWEVR|EVR-L29|
-|Huawei|Mate 20 X|HWEVR|EVR-TL00|
-|Huawei|Mate 20 X (5G)|HWEVR|EVR-N29|
 |Huawei|Mate 20 lite|HWSNE|SNE-LX1|
 |Huawei|Mate 20 lite|HWSNE|SNE-LX2|
 |Huawei|Mate 20 lite|HWSNE|SNE-LX3|
@@ -11771,6 +11772,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M10|X605F|Lenovo TB-X605F|
 |Lenovo|Lenovo Tab M10|X605L|Lenovo TB-X605L|
 |Lenovo|Lenovo Tab M10|X605M|Lenovo TB-X605M|
+|Lenovo|Lenovo Tab M7|7305F|Lenovo TB-7305F|
 |Lenovo|Lenovo Tab P10|X705F|Lenovo TB-X705F|
 |Lenovo|Lenovo Tab P10|X705L|Lenovo TB-X705L|
 |Lenovo|Lenovo Tab V7|PB-6505M|Lenovo PB-6505M|
@@ -19213,7 +19215,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sonimtech|XP7700Z1|XP7700Z1|Smart-Ex 01|
 |Sonimtech|XP7705|XP7705|XP7700|
 |Sonimtech|XP8|XP8800|XP8800|
-|Sonimtech|XP8812|XP8800|XP8800|
 |Sony||C5503|C5503|
 |Sony||C6616|C6616|
 |Sony||SGP312|SGP312|
@@ -21171,6 +21172,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TM Cell|X40L|X40L|X40L|
 |TM Cell|X50A|X50A|X50A|
 |TMAX|TM9S775|MID908A-K|TM9S775|
+|TOSCIDO|X102|X102|X102|
 |TOUCHSMART|QUICKTAB|Quicktab|Quicktab|
 |TPS|MTC 982o|MTC_982O|MTC_982O|
 |TPS|SMART Sprint|SMARTSprint|SMART Sprint|
@@ -23004,6 +23006,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Mi A1|tissot_sprout|Mi A1|
 |Xiaomi|Mi A2|jasmine_sprout|Mi A2|
 |Xiaomi|Mi A2 Lite|daisy_sprout|Mi A2 Lite|
+|Xiaomi|Mi A3|laurel_sprout|Mi A3|
 |Xiaomi|Mi Box|once|MIBOX3|
 |Xiaomi|"Mi Laser Projector 150"""|anglee|MiProjA1|
 |Xiaomi|Mi MIX 3 5G|andromeda|Mi MIX 3 5G|
@@ -24449,6 +24452,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE BV0870|P840V71|ZTE BV0870|
 |ZTE|ZTE Blade A0722|P817F18|ZTE Blade A0722|
 |ZTE|ZTE Blade A3 2019|P932F20|ZTE Blade A3 2019|
+|ZTE|ZTE Blade A3 2019|P932F20|ZTE Blade A3 Lite|
 |ZTE|ZTE Blade A3 2019|P932K20|ZTE Blade A3 2019|
 |ZTE|ZTE Blade A3 2019RU|P932F20|ZTE Blade A3 2019RU|
 |ZTE|ZTE Blade A3 Lite|P932F20|ZTE Blade A3 Lite|
@@ -24846,6 +24850,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iPlus|iPlus1|iPlus1|iPlus1|
 |iQandT|G3|G3|G3|
 |iQandT|N6|N6|N6|
+|iRainbow|B12017|B12017|B12017|
 |iReplace|Frog One|FrogOne|FrogOne|
 |iRiver||smdkc110|ILT-MX100|
 |iRiver|DMT580D|m805_892x|DDA800R|

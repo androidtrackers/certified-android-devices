@@ -2610,6 +2610,12 @@
   "model": "AT701"
  },
  {
+  "brand": "Aiuto",
+  "name": "AT702",
+  "device": "AT702",
+  "model": "AT702"
+ },
+ {
   "brand": "Aiwa",
   "name": "AW790",
   "device": "AW790",
@@ -20796,12 +20802,6 @@
   "model": "Memor 20"
  },
  {
-  "brand": "Datalogic",
-  "name": "Q10_WWAN",
-  "device": "Q10",
-  "model": "Memor 20"
- },
- {
   "brand": "Datamini",
   "name": "K508101",
   "device": "K508101",
@@ -21298,6 +21298,12 @@
   "name": "InnoV8_PRO",
   "device": "InnoV8_PRO",
   "model": "InnoV8_PRO"
+ },
+ {
+  "brand": "Dialog",
+  "name": "N9106H_B",
+  "device": "N9106H_B_Dialog",
+  "model": "N9106H_B"
  },
  {
   "brand": "Dialog",
@@ -45757,6 +45763,24 @@
  },
  {
   "brand": "Huawei",
+  "name": "Huawei Mate 20 X",
+  "device": "HWEVR",
+  "model": "EVR-L29"
+ },
+ {
+  "brand": "Huawei",
+  "name": "Huawei Mate 20 X",
+  "device": "HWEVR",
+  "model": "EVR-TL00"
+ },
+ {
+  "brand": "Huawei",
+  "name": "Huawei Mate 20 X (5G)",
+  "device": "HWEVR",
+  "model": "EVR-N29"
+ },
+ {
+  "brand": "Huawei",
   "name": "Huawei MediaPad T5",
   "device": "HWAGS2",
   "model": "AGS2-L03"
@@ -45790,6 +45814,12 @@
   "name": "Huawei Y9 2019",
   "device": "HWJKM-HM",
   "model": "JKM-AL00a"
+ },
+ {
+  "brand": "Huawei",
+  "name": "Huwei Mate 20 X",
+  "device": "HWEVR",
+  "model": "EVR-AL00"
  },
  {
   "brand": "Huawei",
@@ -46156,30 +46186,6 @@
   "name": "Mate 20 RS",
   "device": "HWLYA",
   "model": "LYA-AL00P"
- },
- {
-  "brand": "Huawei",
-  "name": "Mate 20 X",
-  "device": "HWEVR",
-  "model": "EVR-AL00"
- },
- {
-  "brand": "Huawei",
-  "name": "Mate 20 X",
-  "device": "HWEVR",
-  "model": "EVR-L29"
- },
- {
-  "brand": "Huawei",
-  "name": "Mate 20 X",
-  "device": "HWEVR",
-  "model": "EVR-TL00"
- },
- {
-  "brand": "Huawei",
-  "name": "Mate 20 X (5G)",
-  "device": "HWEVR",
-  "model": "EVR-N29"
  },
  {
   "brand": "Huawei",
@@ -70594,6 +70600,12 @@
   "name": "Lenovo Tab M10",
   "device": "X605M",
   "model": "Lenovo TB-X605M"
+ },
+ {
+  "brand": "Lenovo",
+  "name": "Lenovo Tab M7",
+  "device": "7305F",
+  "model": "Lenovo TB-7305F"
  },
  {
   "brand": "Lenovo",
@@ -115248,12 +115260,6 @@
   "model": "XP8800"
  },
  {
-  "brand": "Sonimtech",
-  "name": "XP8812",
-  "device": "XP8800",
-  "model": "XP8800"
- },
- {
   "brand": "Sony",
   "name": "",
   "device": "C5503",
@@ -126996,6 +127002,12 @@
   "model": "TM9S775"
  },
  {
+  "brand": "TOSCIDO",
+  "name": "X102",
+  "device": "X102",
+  "model": "X102"
+ },
+ {
   "brand": "TOUCHSMART",
   "name": "QUICKTAB",
   "device": "Quicktab",
@@ -137995,6 +138007,12 @@
  },
  {
   "brand": "Xiaomi",
+  "name": "Mi A3",
+  "device": "laurel_sprout",
+  "model": "Mi A3"
+ },
+ {
+  "brand": "Xiaomi",
   "name": "Mi Box",
   "device": "once",
   "model": "MIBOX3"
@@ -146666,6 +146684,12 @@
  {
   "brand": "ZTE",
   "name": "ZTE Blade A3 2019",
+  "device": "P932F20",
+  "model": "ZTE Blade A3 Lite"
+ },
+ {
+  "brand": "ZTE",
+  "name": "ZTE Blade A3 2019",
   "device": "P932K20",
   "model": "ZTE Blade A3 2019"
  },
@@ -149044,6 +149068,12 @@
   "name": "N6",
   "device": "N6",
   "model": "N6"
+ },
+ {
+  "brand": "iRainbow",
+  "name": "B12017",
+  "device": "B12017",
+  "model": "B12017"
  },
  {
   "brand": "iReplace",
