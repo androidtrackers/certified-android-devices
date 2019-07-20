@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-07-19
+Last sync is 2019-07-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -19991,6 +19991,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |T-Mobile|REVVL 2|A30ATMO|REVVL 2|
 |T-Mobile|REVVL 2|A30ATMO|REVVL_2_5052W|
 |T-Mobile|REVVL 2 PLUS|A70AXLTMO|REVVL 2 PLUS|
+|T-Mobile|REVVLRY+|lake_n|REVVLRY+|
+|T-Mobile|REVVLRY+|lake_n|REVVLution|
+|T-Mobile|REVVLry|channel|REVVLRY|
+|T-Mobile|REVVLry|channel|REVVLry|
 |T-Mobile|Telekom_Puls|T-Tab|Telekom Puls|
 |TA71CA5_JP|"JP SA COUTO| S.A. _MG070A2T"|TA71CA5_1|
 |TAG Heuer|Connected|glacier|TAG Heuer|

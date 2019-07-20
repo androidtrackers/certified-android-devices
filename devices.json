@@ -119917,6 +119917,30 @@
  },
  {
   "brand": "T-Mobile",
+  "name": "REVVLRY+",
+  "device": "lake_n",
+  "model": "REVVLRY+"
+ },
+ {
+  "brand": "T-Mobile",
+  "name": "REVVLRY+",
+  "device": "lake_n",
+  "model": "REVVLution"
+ },
+ {
+  "brand": "T-Mobile",
+  "name": "REVVLry",
+  "device": "channel",
+  "model": "REVVLRY"
+ },
+ {
+  "brand": "T-Mobile",
+  "name": "REVVLry",
+  "device": "channel",
+  "model": "REVVLry"
+ },
+ {
+  "brand": "T-Mobile",
   "name": "Telekom_Puls",
   "device": "T-Tab",
   "model": "Telekom Puls"
