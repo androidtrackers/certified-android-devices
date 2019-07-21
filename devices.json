@@ -119917,6 +119917,18 @@
  },
  {
   "brand": "T-Mobile",
+  "name": "REVVLRY",
+  "device": "channel",
+  "model": "REVVLRY"
+ },
+ {
+  "brand": "T-Mobile",
+  "name": "REVVLRY",
+  "device": "channel",
+  "model": "REVVLry"
+ },
+ {
+  "brand": "T-Mobile",
   "name": "REVVLRY+",
   "device": "lake_n",
   "model": "REVVLRY+"
@@ -119926,18 +119938,6 @@
   "name": "REVVLRY+",
   "device": "lake_n",
   "model": "REVVLution"
- },
- {
-  "brand": "T-Mobile",
-  "name": "REVVLry",
-  "device": "channel",
-  "model": "REVVLRY"
- },
- {
-  "brand": "T-Mobile",
-  "name": "REVVLry",
-  "device": "channel",
-  "model": "REVVLry"
  },
  {
   "brand": "T-Mobile",
