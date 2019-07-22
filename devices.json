@@ -11179,6 +11179,12 @@
  },
  {
   "brand": "BQru",
+  "name": "BQru-1083G_2019",
+  "device": "BQru-1083G_2019",
+  "model": "BQ-1083G"
+ },
+ {
+  "brand": "BQru",
   "name": "BQru-4526",
   "device": "BQru-4526",
   "model": "BQru-4526"
@@ -12361,6 +12367,12 @@
  },
  {
   "brand": "Blackfox",
+  "name": "BMM543S",
+  "device": "BMM543S",
+  "model": "BMM543S"
+ },
+ {
+  "brand": "Blackfox",
   "name": "BMM_533D",
   "device": "BMM_533D",
   "model": "BMM_533D"
@@ -12964,6 +12976,12 @@
   "name": "BLU STUDIO J8 LTE",
   "device": "Studio_J8_LTE",
   "model": "Studio J8 LTE"
+ },
+ {
+  "brand": "Blu",
+  "name": "BLU Vivo ONE",
+  "device": "V0270WW",
+  "model": "Vivo ONE"
  },
  {
   "brand": "Blu",
@@ -13918,12 +13936,6 @@
   "name": "Vivo 8",
   "device": "V0150UU",
   "model": "Vivo 8"
- },
- {
-  "brand": "Blu",
-  "name": "Vivo ONE",
-  "device": "V0270WW",
-  "model": "Vivo ONE"
  },
  {
   "brand": "Blu",
@@ -15634,6 +15646,12 @@
   "name": "deluxe",
   "device": "Cell_C",
   "model": "Deluxe"
+ },
+ {
+  "brand": "Cellacom",
+  "name": "Cellacom_S62",
+  "device": "Cellacom_S62",
+  "model": "Cellacom_S62"
  },
  {
   "brand": "Cellacom",
@@ -20799,6 +20817,12 @@
   "brand": "Datalogic",
   "name": "Q10_WLAN",
   "device": "Q10A",
+  "model": "Memor 20"
+ },
+ {
+  "brand": "Datalogic",
+  "name": "Q10_WWAN",
+  "device": "Q10",
   "model": "Memor 20"
  },
  {
@@ -70586,12 +70610,6 @@
  {
   "brand": "Lenovo",
   "name": "Lenovo Tab M10",
-  "device": "X605F",
-  "model": "Lenovo TB-X605F"
- },
- {
-  "brand": "Lenovo",
-  "name": "Lenovo Tab M10",
   "device": "X605L",
   "model": "Lenovo TB-X605L"
  },
@@ -70600,6 +70618,18 @@
   "name": "Lenovo Tab M10",
   "device": "X605M",
   "model": "Lenovo TB-X605M"
+ },
+ {
+  "brand": "Lenovo",
+  "name": "Lenovo Tab M10 (FHD)",
+  "device": "X605F",
+  "model": "Lenovo TB-X605F"
+ },
+ {
+  "brand": "Lenovo",
+  "name": "Lenovo Tab M10 (FHD)",
+  "device": "X605L",
+  "model": "Lenovo TB-X605L"
  },
  {
   "brand": "Lenovo",
@@ -89088,6 +89118,12 @@
   "model": "PVG100E"
  },
  {
+  "brand": "Palm",
+  "name": "Palm",
+  "device": "Pepito",
+  "model": "PVG100EU"
+ },
+ {
   "brand": "Panasonic",
   "name": "",
   "device": "H580VT_A",
@@ -95992,6 +96028,12 @@
   "name": "Q10T10INP",
   "device": "Q10T10INP",
   "model": "Q10T10INP"
+ },
+ {
+  "brand": "Qilive",
+  "name": "Q8S5IN4GP",
+  "device": "Q8S5IN4GP",
+  "model": "Q8S5IN4GP"
  },
  {
   "brand": "Qilive",
@@ -135496,6 +135538,12 @@
   "name": "Primo NF4",
   "device": "Primo_NF4",
   "model": "Primo NF4"
+ },
+ {
+  "brand": "Walton",
+  "name": "Primo NF4",
+  "device": "Primo_NF4_2GB",
+  "model": "Primo_NF4_2GB"
  },
  {
   "brand": "Walton",

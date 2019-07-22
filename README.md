@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-07-21
+Last sync is 2019-07-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1868,6 +1868,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQru-1081G|BQru-1081G|BQru-1081G|
 |BQru|BQru-1082G|BQru-1082G|BQ-1082G|
 |BQru|BQru-1083G|BQru-1083G|BQ-1083G|
+|BQru|BQru-1083G_2019|BQru-1083G_2019|BQ-1083G|
 |BQru|BQru-4526|BQru-4526|BQru-4526|
 |BQru|BQru-5022|BQru|BQru-5022|
 |BQru|BQru-5514G|BQru-5514G|BQ-5514G|
@@ -2065,6 +2066,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackfox|BMM541D|BMM541D|BMM541D|
 |Blackfox|BMM542D|BMM542D|BMM542D|
 |Blackfox|BMM543D|BMM543D|BMM543D|
+|Blackfox|BMM543S|BMM543S|BMM543S|
 |Blackfox|BMM_533D|BMM_533D|BMM_533D|
 |Blackshark|Black Shark 2|skywalker|SKW-A0|
 |Blackshark|Black Shark 2|skywalker|SKW-H0|
@@ -2166,6 +2168,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|BLU Grand M3|G0070WW|Grand M3|
 |Blu|BLU S1|S0320WW|BLU_S1|
 |Blu|BLU STUDIO J8 LTE|Studio_J8_LTE|Studio J8 LTE|
+|Blu|BLU Vivo ONE|V0270WW|Vivo ONE|
 |Blu|BLU_STUDIO_G2|BLU_STUDIO_G2|BLU STUDIO G2|
 |Blu|BLU_Studio_G_Max|Studio_G_Max|Studio G Max|
 |Blu|BLU_Vivo_XL2|BLU_Vivo_XL2|Vivo XL2|
@@ -2325,7 +2328,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|VIVO XL|BLU_VIVO_XL|VIVO XL|
 |Blu|Vivo 5 Mini|Vivo_5_Mini|Vivo 5 Mini|
 |Blu|Vivo 8|V0150UU|Vivo 8|
-|Blu|Vivo ONE|V0270WW|Vivo ONE|
 |Blu|Vivo One Plus 2019|V0370WW|Vivo One Plus 2019|
 |Blu|Vivo S|V0160WW|Vivo S|
 |Blu|Vivo X|V0230WW|Vivo X|
@@ -2611,6 +2613,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cell_C|Titan|Titan|Titan|
 |Cell_C|WIZ|Wiz|Wiz|
 |Cell_C|deluxe|Cell_C|Deluxe|
+|Cellacom|Cellacom_S62|Cellacom_S62|Cellacom_S62|
 |Cellacom|M432|M432|M432|
 |Cellacom|M531|M531|M531|
 |Cellacom|S51_lite|S51_lite|S51_lite|
@@ -3472,6 +3475,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datalogic|MEMOR 1|M1_HANDHELD|Memor 1|
 |Datalogic|MEMOR 1|M1_PISTOL|Memor 1|
 |Datalogic|Q10_WLAN|Q10A|Memor 20|
+|Datalogic|Q10_WWAN|Q10|Memor 20|
 |Datamini|K508101|K508101|K508101|
 |Datamini|K908H4G|K908H4G|K908H4G|
 |Datamini|T74G|T74G|T74G|
@@ -11769,9 +11773,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab E10|X104X|Lenovo TB-X104X|
 |Lenovo|Lenovo Tab E7|TB7104F|Lenovo TB-7104F|
 |Lenovo|Lenovo Tab E7|TB7104I|Lenovo TB-7104I|
-|Lenovo|Lenovo Tab M10|X605F|Lenovo TB-X605F|
 |Lenovo|Lenovo Tab M10|X605L|Lenovo TB-X605L|
 |Lenovo|Lenovo Tab M10|X605M|Lenovo TB-X605M|
+|Lenovo|Lenovo Tab M10 (FHD)|X605F|Lenovo TB-X605F|
+|Lenovo|Lenovo Tab M10 (FHD)|X605L|Lenovo TB-X605L|
 |Lenovo|Lenovo Tab M7|7305F|Lenovo TB-7305F|
 |Lenovo|Lenovo Tab P10|X705F|Lenovo TB-X705F|
 |Lenovo|Lenovo Tab P10|X705L|Lenovo TB-X705L|
@@ -14853,6 +14858,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Packard Bell|T1000|T1000|T1000|
 |Palm|PVG100|Pepito|PVG100|
 |Palm|PVG100E|Pepito|PVG100E|
+|Palm|Palm|Pepito|PVG100EU|
 |Panasonic||H580VT_A|JT-H580VT|
 |Panasonic||H581VT_A|JT-H581VT|
 |Panasonic||P-08D|P-08D|
@@ -16004,6 +16010,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Qilive|Q10S55IN4G2|Q10S55IN4G2|Q10S55IN4G2|
 |Qilive|Q10S5IN4G|Q10S5IN4G|Q10S5IN4G|
 |Qilive|Q10T10INP|Q10T10INP|Q10T10INP|
+|Qilive|Q8S5IN4GP|Q8S5IN4GP|Q8S5IN4GP|
 |Qilive|Q9S55IN4G|Q9S55IN4G|Q9S55IN4G|
 |Qilive|Q9T10IN4G|Q9T10IN4G|Q9T10IN4G|
 |Qilive|Q9T7IN4G|Q9T7IN4G|Q9T7IN4G|
@@ -22588,6 +22595,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|Primo N3|Primo_N3|Primo N3|
 |Walton|Primo NF3|Primo_NF3|Primo NF3|
 |Walton|Primo NF4|Primo_NF4|Primo NF4|
+|Walton|Primo NF4|Primo_NF4_2GB|Primo_NF4_2GB|
 |Walton|Primo NH3|Primo_NH3|Primo NH3|
 |Walton|Primo NH3 Lite|Primo_NH3_Lite|Primo NH3 Lite|
 |Walton|Primo NH3i|Primo_NH3i|Primo NH3i|
