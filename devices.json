@@ -13303,6 +13303,12 @@
  },
  {
   "brand": "Blu",
+  "name": "Grand M2",
+  "device": "G190",
+  "model": "Grand M2"
+ },
+ {
+  "brand": "Blu",
   "name": "Grand M2 LTE",
   "device": "G0040LL",
   "model": "Grand M2 LTE"
@@ -50053,6 +50059,12 @@
  },
  {
   "brand": "Huawei",
+  "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x809X",
+  "device": "HWHLK-H",
+  "model": "HLK-AL00"
+ },
+ {
+  "brand": "Huawei",
   "name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x809i",
   "device": "HWLLD-H2",
   "model": "LLD-AL20"
@@ -65785,6 +65797,12 @@
  },
  {
   "brand": "LGE",
+  "name": "X2 2019",
+  "device": "mh5lm",
+  "model": "LM-X220N"
+ },
+ {
+  "brand": "LGE",
   "name": "X4",
   "device": "cv3n",
   "model": "LM-X410K"
@@ -65830,6 +65848,12 @@
   "name": "X5",
   "device": "phoenix_sprout",
   "model": "X5-LG"
+ },
+ {
+  "brand": "LGE",
+  "name": "X6(2019)",
+  "device": "mmh4p",
+  "model": "LM-X525"
  },
  {
   "brand": "LGE",
@@ -80899,6 +80923,18 @@
  },
  {
   "brand": "Motorola",
+  "name": "moto e6",
+  "device": "surfna",
+  "model": "moto e6"
+ },
+ {
+  "brand": "Motorola",
+  "name": "moto e6",
+  "device": "surfna",
+  "model": "moto g(6)"
+ },
+ {
+  "brand": "Motorola",
   "name": "moto g(6)",
   "device": "ali",
   "model": "XT1925-10"
@@ -81112,6 +81148,12 @@
   "name": "motorola one vision",
   "device": "kane_sprout",
   "model": "motorola one vision"
+ },
+ {
+  "brand": "Motorola",
+  "name": "motorola p50",
+  "device": "kane",
+  "model": "XT1970-5"
  },
  {
   "brand": "Motorola Solutions",
@@ -81550,6 +81592,12 @@
   "name": "ML-SO-MLX1",
   "device": "ML-SO-MLX1",
   "model": "ML-SO-MLX1"
+ },
+ {
+  "brand": "Multilaser",
+  "name": "MLX8",
+  "device": "ML-WI23-MLX8",
+  "model": "MLX8"
  },
  {
   "brand": "Multilaser",
@@ -89374,6 +89422,12 @@
   "name": "ELUGA Ray 600",
   "device": "ELUGA_Ray_600",
   "model": "ELUGA Ray 600"
+ },
+ {
+  "brand": "Panasonic",
+  "name": "ELUGA Ray 610",
+  "device": "ELUGA_Ray_610",
+  "model": "ELUGA Ray 610"
  },
  {
   "brand": "Panasonic",
@@ -98986,6 +99040,12 @@
   "name": "Galaxy A10e",
   "device": "a10e",
   "model": "SM-A102U"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy A10s",
+  "device": "a10s",
+  "model": "SM-A107F"
  },
  {
   "brand": "Samsung",
@@ -118777,6 +118837,12 @@
  },
  {
   "brand": "Starlight",
+  "name": "Gionee_Star",
+  "device": "Gionee_Star",
+  "model": "Gionee_Star"
+ },
+ {
+  "brand": "Starlight",
   "name": "I STAR PLUS",
   "device": "I_STAR_PLUS",
   "model": "I_STAR_PLUS"
@@ -118870,6 +118936,12 @@
   "name": "Star-Plus7",
   "device": "Star-Plus7",
   "model": "Star-Plus7"
+ },
+ {
+  "brand": "Starlight",
+  "name": "Star_Mix_2",
+  "device": "Star_Mix_2",
+  "model": "Star_Mix_2"
  },
  {
   "brand": "Starlight",

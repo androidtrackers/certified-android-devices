@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-07-22
+Last sync is 2019-07-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2222,6 +2222,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Grand 5.5 HD II|G210Q|Grand 5.5 HD II|
 |Blu|Grand Energy|Grand_Energy|Grand Energy|
 |Blu|Grand M|Grand_M|Grand M|
+|Blu|Grand M2|G190|Grand M2|
 |Blu|Grand M2 LTE|G0040LL|Grand M2 LTE|
 |Blu|Grand M2X|G0040UU|Grand M2X|
 |Blu|Grand MAX|Grand_Max|Grand Max|
@@ -8347,6 +8348,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|\xe8\x8d\xa3\xe8\x80\x808\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88|HWPRA-H|PRA-AL00|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x808\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88|HWPRA-H|PRA-AL00X|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x808\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88|HWPRA-H|PRA-TL10|
+|Huawei|\xe8\x8d\xa3\xe8\x80\x809X|HWHLK-H|HLK-AL00|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x809i|HWLLD-H2|LLD-AL20|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x809i|HWLLD-H2|LLD-AL30|
 |Huawei|\xe8\x8d\xa3\xe8\x80\x809\xe9\x9d\x92\xe6\x98\xa5\xe7\x89\x88|HWLLD-H|LLD-AL00|
@@ -10969,6 +10971,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|Wine Smart 3G|vfp3g|LG-T480S|
 |LGE|X Mach|sjr|LG-K600|
 |LGE|X charge|mlv7|LG-SP320|
+|LGE|X2 2019|mh5lm|LM-X220N|
 |LGE|X4|cv3n|LM-X410K|
 |LGE|X4|cv3n|LM-X415K|
 |LGE|X4(2019)|mmh4|LM-X420N|
@@ -10977,6 +10980,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|X4+|cv3n|LM-X415L|
 |LGE|X4+|cv3n|LM-X415S|
 |LGE|X5|phoenix_sprout|X5-LG|
+|LGE|X6(2019)|mmh4p|LM-X525|
 |LGE|X6(2019)|mmh4p|LM-X625N|
 |LGE|Y25|y25|LGL15G|
 |LGE|Y25|y25c|LGL16C|
@@ -13488,6 +13492,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto e5 plus|hannah|moto e5 supra|
 |Motorola|moto e5 plus|rhannah|Moto E|
 |Motorola|moto e5 plus|rhannah|moto e5 plus|
+|Motorola|moto e6|surfna|moto e6|
+|Motorola|moto e6|surfna|moto g(6)|
 |Motorola|moto g(6)|ali|XT1925-10|
 |Motorola|moto g(6)|ali|moto g(6)|
 |Motorola|moto g(6)|ali|moto g(6) (XT1925DL)|
@@ -13524,6 +13530,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola one power|chef_sprout|moto x4|
 |Motorola|motorola one power|chef_sprout|motorola one power|
 |Motorola|motorola one vision|kane_sprout|motorola one vision|
+|Motorola|motorola p50|kane|XT1970-5|
 |Motorola Solutions|LEX F10|LEXF10|LEX F10|
 |Motorola Solutions|LEX L10g|lexl10g|LEX L10g|
 |Motorola Solutions|LEX L10ig|lexl10ig|LEX L10ig|
@@ -13597,6 +13604,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|ML-JI11-M7_3G_PLUS|ML-JI11-M7_3G_PLUS|ML-JI11-M7_3G_PLUS|
 |Multilaser|ML-SO-M7_3G_PLUS|ML-SO-M7_3G_PLUS|ML-SO-M7_3G_PLUS|
 |Multilaser|ML-SO-MLX1|ML-SO-MLX1|ML-SO-MLX1|
+|Multilaser|MLX8|ML-WI23-MLX8|MLX8|
 |Multilaser|MLX8|MLX8|MLX8|
 |Multilaser|MS40G|ML-TI-MS40G|MS40G|
 |Multilaser|MS40S|MS40S|MS40S|
@@ -14901,6 +14909,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|ELUGA Ray 500|ELUGA_Ray_500|ELUGA Ray 500|
 |Panasonic|ELUGA Ray 550|ELUGA_Ray_550|ELUGA Ray 550|
 |Panasonic|ELUGA Ray 600|ELUGA_Ray_600|ELUGA Ray 600|
+|Panasonic|ELUGA Ray 610|ELUGA_Ray_610|ELUGA Ray 610|
 |Panasonic|ELUGA Ray 700|Eluga_Ray_700|Eluga_Ray_700|
 |Panasonic|ELUGA Ray 810|Eluga_Ray_810|Eluga Ray 810|
 |Panasonic|ELUGA S|ELUGA_S|Panasonic ELUGA S|
@@ -16503,6 +16512,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A10|a10|SM-A105M|
 |Samsung|Galaxy A10|a10|SM-A105N|
 |Samsung|Galaxy A10e|a10e|SM-A102U|
+|Samsung|Galaxy A10s|a10s|SM-A107F|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260F|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260G|
 |Samsung|Galaxy A20|a20|SM-A205F|
@@ -19801,6 +19811,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Starlight|C_Note|C_Note|C_Note|
 |Starlight|C_Note_Pro|C_Note_Pro|C_Note_Pro|
 |Starlight|Future|Future|Future|
+|Starlight|Gionee_Star|Gionee_Star|Gionee_Star|
 |Starlight|I STAR PLUS|I_STAR_PLUS|I_STAR_PLUS|
 |Starlight|I star|I_star|I star|
 |Starlight|I star two|I_star_two|I star two|
@@ -19817,6 +19828,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Starlight|Star Two|star_two|star_two|
 |Starlight|Star-10WF|Star-10WF|Star-10WF|
 |Starlight|Star-Plus7|Star-Plus7|Star-Plus7|
+|Starlight|Star_Mix_2|Star_Mix_2|Star_Mix_2|
 |Starlight|Star_Plus|Star_Plus|Star_Plus|
 |Starlight|Starplus 7|STARPLUS7|STARPLUS7|
 |Starlight|UMI_G|UMI_G|UMI_G|
