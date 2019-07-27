@@ -6841,6 +6841,12 @@
  },
  {
   "brand": "Aspera",
+  "name": "Jazz_2",
+  "device": "Jazz_2",
+  "model": "Jazz 2"
+ },
+ {
+  "brand": "Aspera",
   "name": "Wren",
   "device": "Wren",
   "model": "Wren"

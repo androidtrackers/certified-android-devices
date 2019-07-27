@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-07-26
+Last sync is 2019-07-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1145,6 +1145,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ashna|Z600|Z600|Z600|
 |Aspera|Aspera Swift|Aspera_Swift|Swift|
 |Aspera|JAZZ|Jazz|Jazz|
+|Aspera|Jazz_2|Jazz_2|Jazz 2|
 |Aspera|Wren|Wren|Wren|
 |Astak|NEOS|Wenu|NEOS|
 |Astro|Genesis_S8|Astro_Genesis_S8|Genesis_S8|
