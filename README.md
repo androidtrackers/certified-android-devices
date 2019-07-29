@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-07-28
+Last sync is 2019-07-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2682,6 +2682,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Channel Master|Stream+|dwt765cha|CM-7600|
 |Chemist Warehouse|JR-MB603|JR_MB603|JR_MB603|
 |Chenrui|M40|M40|M40|
+|Cherry Mobile|Cherry S8 Deluxe|Flare_S8_Deluxe|Flare_S8_Deluxe|
 |Cherry Mobile|Cherry W900 LTE|al7|W900 LTE|
 |Cherry Mobile|CherryRoam|CherryRoam|CherryRoam|
 |Cherry Mobile|DOH01|DOH01|DOH01|
@@ -4048,6 +4049,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Elephone|A4|A4|A4|
 |Elephone|A4_Pro|A4_Pro|A4_Pro|
 |Elephone|A5|A5|A5|
+|Elephone|A6_Max|A6_Max|A6_Max|
 |Elephone|A6_mini|A6_mini|A6_mini|
 |Elephone|Elephone S8|S8|S8|
 |Elephone|P11|P11|P11|
@@ -4068,6 +4070,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Elevate|LUNA V57|V57|LUNA V57|
 |Elevate|R50A|R50A|R50A|
 |Elevate|V55C|V55C|V55C|
+|Elink|L863-10|L863-10|L863-10|
 |ElliQ|ElliQTablet|ElliQTablet|ElliQTablet|
 |Elong Mobile|Y50|Y50|Y50|
 |Elong Mobile|Y50s|Y50s|Y50s|
@@ -11801,6 +11804,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M10|X605M|Lenovo TB-X605M|
 |Lenovo|Lenovo Tab M10 (FHD)|X605F|Lenovo TB-X605F|
 |Lenovo|Lenovo Tab M10 (FHD)|X605L|Lenovo TB-X605L|
+|Lenovo|Lenovo Tab M10 (HD)|TB-X505F|Lenovo TB-X505F|
+|Lenovo|Lenovo Tab M10 (HD)|TB-X505L|Lenovo TB-X505L|
+|Lenovo|Lenovo Tab M10 (HD)|TB-X505X|Lenovo TB-X505X|
 |Lenovo|Lenovo Tab M7|7305F|Lenovo TB-7305F|
 |Lenovo|Lenovo Tab M7|7305I|Lenovo TB-7305I|
 |Lenovo|Lenovo Tab P10|X705F|Lenovo TB-X705F|
@@ -13558,6 +13564,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto z4|foles|Moto Z3 Play|
 |Motorola|moto z4|foles|moto z4|
 |Motorola|motorola one|deen_sprout|motorola one|
+|Motorola|motorola one action|troika_sprout|motorola one action|
 |Motorola|motorola one power|chef_sprout|moto x4|
 |Motorola|motorola one power|chef_sprout|motorola one power|
 |Motorola|motorola one vision|kane_sprout|motorola one vision|

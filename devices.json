@@ -16063,6 +16063,12 @@
  },
  {
   "brand": "Cherry Mobile",
+  "name": "Cherry S8 Deluxe",
+  "device": "Flare_S8_Deluxe",
+  "model": "Flare_S8_Deluxe"
+ },
+ {
+  "brand": "Cherry Mobile",
   "name": "Cherry W900 LTE",
   "device": "al7",
   "model": "W900 LTE"
@@ -24259,6 +24265,12 @@
  },
  {
   "brand": "Elephone",
+  "name": "A6_Max",
+  "device": "A6_Max",
+  "model": "A6_Max"
+ },
+ {
+  "brand": "Elephone",
   "name": "A6_mini",
   "device": "A6_mini",
   "model": "A6_mini"
@@ -24376,6 +24388,12 @@
   "name": "V55C",
   "device": "V55C",
   "model": "V55C"
+ },
+ {
+  "brand": "Elink",
+  "name": "L863-10",
+  "device": "L863-10",
+  "model": "L863-10"
  },
  {
   "brand": "ElliQ",
@@ -70777,6 +70795,24 @@
  },
  {
   "brand": "Lenovo",
+  "name": "Lenovo Tab M10 (HD)",
+  "device": "TB-X505F",
+  "model": "Lenovo TB-X505F"
+ },
+ {
+  "brand": "Lenovo",
+  "name": "Lenovo Tab M10 (HD)",
+  "device": "TB-X505L",
+  "model": "Lenovo TB-X505L"
+ },
+ {
+  "brand": "Lenovo",
+  "name": "Lenovo Tab M10 (HD)",
+  "device": "TB-X505X",
+  "model": "Lenovo TB-X505X"
+ },
+ {
+  "brand": "Lenovo",
   "name": "Lenovo Tab M7",
   "device": "7305F",
   "model": "Lenovo TB-7305F"
@@ -81316,6 +81352,12 @@
   "name": "motorola one",
   "device": "deen_sprout",
   "model": "motorola one"
+ },
+ {
+  "brand": "Motorola",
+  "name": "motorola one action",
+  "device": "troika_sprout",
+  "model": "motorola one action"
  },
  {
   "brand": "Motorola",
