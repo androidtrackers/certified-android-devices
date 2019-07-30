@@ -11305,6 +11305,12 @@
  },
  {
   "brand": "BRIGMTON",
+  "name": "BTPC-1024QC",
+  "device": "BTPC-1024QC",
+  "model": "BTPC-1024QC"
+ },
+ {
+  "brand": "BRIGMTON",
   "name": "BTPC-1025OC",
   "device": "BTPC-1025OC",
   "model": "BTPC-1025OC"
@@ -15982,6 +15988,12 @@
   "name": "starTIM1",
   "device": "starTIM1",
   "model": "starTIM1"
+ },
+ {
+  "brand": "Cellution",
+  "name": "Cosmas",
+  "device": "Cosmas",
+  "model": "Cosmas"
  },
  {
   "brand": "Centric",
@@ -21481,6 +21493,12 @@
  },
  {
   "brand": "DigiLand",
+  "name": "10542843",
+  "device": "10542843",
+  "model": "10542843"
+ },
+ {
+  "brand": "DigiLand",
   "name": "206886-01",
   "device": "mdt9003",
   "model": "206886-01"
@@ -23362,6 +23380,12 @@
   "name": "M7",
   "device": "M7",
   "model": "M7"
+ },
+ {
+  "brand": "Dragontouch",
+  "name": "MAX_10",
+  "device": "MAX_10",
+  "model": "MAX 10"
  },
  {
   "brand": "Dragontouch",
@@ -50928,6 +50952,12 @@
   "model": "Wave_Plus"
  },
  {
+  "brand": "Huskee",
+  "name": "ST-810",
+  "device": "ST-810",
+  "model": "ST-810"
+ },
+ {
   "brand": "Hykker",
   "name": "Smart Box Android TV",
   "device": "DV8038",
@@ -63471,6 +63501,12 @@
   "brand": "LGE",
   "name": "LG Stylo 5",
   "device": "cv7as",
+  "model": "LGL722DL"
+ },
+ {
+  "brand": "LGE",
+  "name": "LG Stylo 5",
+  "device": "cv7as",
   "model": "LM-Q720"
  },
  {
@@ -67096,6 +67132,12 @@
   "name": "R3",
   "device": "R3",
   "model": "R3"
+ },
+ {
+  "brand": "Lava",
+  "name": "R3 Prime",
+  "device": "iris90",
+  "model": "iris90"
  },
  {
   "brand": "Lava",
@@ -72244,6 +72286,12 @@
   "name": "\"LexiTab\\xc2\\xae 7\"\"\"",
   "device": "MFC148FR",
   "model": "MFC148FR"
+ },
+ {
+  "brand": "Lexibook",
+  "name": "LexiTab\\xc2\\xae Deluxe",
+  "device": "MFC514",
+  "model": "MFC514"
  },
  {
   "brand": "Lexibook",
@@ -86317,6 +86365,12 @@
  },
  {
   "brand": "Onn (Walmart)",
+  "name": "100005209",
+  "device": "100005209",
+  "model": "100005209"
+ },
+ {
+  "brand": "Onn (Walmart)",
   "name": "ONA19TB002",
   "device": "ONA19TB002",
   "model": "ONA19TB002"
@@ -90286,6 +90340,12 @@
   "name": "HDPSEB v4",
   "device": "HDPSEBv4",
   "model": "HD PSEB v4"
+ },
+ {
+  "brand": "Panasonic",
+  "name": "HomeX HMX03A",
+  "device": "HMX03A",
+  "model": "HMX03A"
  },
  {
   "brand": "Panasonic",
@@ -98152,6 +98212,12 @@
   "name": "T5",
   "device": "SOSMART_T5",
   "model": "SOSMART_T5"
+ },
+ {
+  "brand": "SPC Mobile",
+  "name": "GRAVITY_3G_2019_eea",
+  "device": "GRAVITY_3G",
+  "model": "GRAVITY 3G_2019"
  },
  {
   "brand": "SPC Mobile",
@@ -135744,6 +135810,12 @@
   "model": "WeTab1004B"
  },
  {
+  "brand": "WIIGO",
+  "name": "WG-7650",
+  "device": "WG-7650",
+  "model": "WG-7650"
+ },
+ {
   "brand": "WILL (JP)",
   "name": "Willfon_Pad_02",
   "device": "Willfon_Pad_02",
@@ -147253,6 +147325,12 @@
  },
  {
   "brand": "ZTE",
+  "name": "ZTE Blade A7 2019RU",
+  "device": "P963F02",
+  "model": "ZTE Blade A7 2019RU"
+ },
+ {
+  "brand": "ZTE",
   "name": "ZTE Blade L110",
   "device": "ZTE_BLADE_L110",
   "model": "ZTE Blade L110"
@@ -147418,6 +147496,12 @@
   "name": "ZTE_Blade_V1000",
   "device": "P671F20",
   "model": "ZTE Blade V1000"
+ },
+ {
+  "brand": "ZTE",
+  "name": "ZTE\\xe2\\x80\\x82Grand\\xe2\\x80\\x82X\\xe2\\x80\\x82View\\xe2\\x80\\x823",
+  "device": "K83CA",
+  "model": "K83CA"
  },
  {
   "brand": "ZTE",

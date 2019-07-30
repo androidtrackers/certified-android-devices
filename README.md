@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-07-29
+Last sync is 2019-07-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1889,6 +1889,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|CRYSTAL|BQru-5054|BQru-5054|
 |BQru|FOX POWER|BQru-4583|BQru-4583|
 |BQru|FOX POWER|BQru-4583|BQru-4583|
+|BRIGMTON|BTPC-1024QC|BTPC-1024QC|BTPC-1024QC|
 |BRIGMTON|BTPC-1025OC|BTPC-1025OC|BTPC-1025OC|
 |BYD|DynaVox T10|T10|T10|
 |BYD|FarEastone Smart 502|Smart502|Smart 502|
@@ -2669,6 +2670,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cellon|i-mobile IQ X2A|M8050SA|i-mobile IQ X2A|
 |Cellon|iris pro 30|pro30|iris pro 30|
 |Cellon|starTIM1|starTIM1|starTIM1|
+|Cellution|Cosmas|Cosmas|Cosmas|
 |Centric|Centric L3|L3|Centric CM3331|
 |Centric|Centric L4|Centric_L4|Centric L4|
 |Centric|G1|CM4331|CM4331|
@@ -3585,6 +3587,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Diamond|PSPCL30A0|PSPCL30A0|PSPCL30A0|
 |Digi|Digi C1|Digi_C1|Digi C1|
 |Digi|Digi R1|Digi_R1|Digi R1|
+|DigiLand|10542843|10542843|10542843|
 |DigiLand|206886-01|mdt9003|206886-01|
 |DigiLand|Compumax Blue|mid1016_ma|Compumax Blue|
 |DigiLand|CompumaxBlue|mid1024_e|Compumax_Blue_6030-805-0001|
@@ -3899,6 +3902,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dragontouch|K8|K8|K8|
 |Dragontouch|M10|M10|M10|
 |Dragontouch|M7|M7|M7|
+|Dragontouch|MAX_10|MAX_10|MAX 10|
 |Dragontouch|V10|V10|V10|
 |Dragontouch|X10|X10A|X10|
 |Dragontouch|X10|tulip-d210|X10|
@@ -8493,6 +8497,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hurricane|Vulcan|Vulcan|Vulcan|
 |Hurricane|Wave|Hurricane|Wave|
 |Hurricane|Wave_Plus|Wave_Plus|Wave_Plus|
+|Huskee|ST-810|ST-810|ST-810|
 |Hykker|Smart Box Android TV|DV8038|Smart Box Android TV|
 |Hytera|PDC550|PDC550|PDC550|
 |Hytera|PNC550|PNC550|PNC550|
@@ -10583,6 +10588,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG Stylo 4|cv7a|LML713DL|
 |LGE|LG Stylo 4|mcv7a|LG-Q710AL|
 |LGE|LG Stylo 4|mcv7a|LG-Q710PL|
+|LGE|LG Stylo 5|cv7as|LGL722DL|
 |LGE|LG Stylo 5|cv7as|LM-Q720|
 |LGE|LG Stylo3|sf317|LG-M430|
 |LGE|LG Stylo3|sf317|LGL83BL|
@@ -11188,6 +11194,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|R1LITE|R1_Lite|R1_Lite|
 |Lava|R2|R2|R2|
 |Lava|R3|R3|R3|
+|Lava|R3 Prime|iris90|iris90|
 |Lava|T101|T101|T101|
 |Lava|T71|T71|T71|
 |Lava|T71_w|T71_w|T71_w|
@@ -12046,6 +12053,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lexibook|"LexiTab\xc2\xae 10"""|MFC513FR|MFC513FR|
 |Lexibook|LexiTab\xc2\xae 7|MFC149FR|MFC149FR|
 |Lexibook|"LexiTab\xc2\xae 7"""|MFC148FR|MFC148FR|
+|Lexibook|LexiTab\xc2\xae Deluxe|MFC514|MFC514|
 |Lexibook|LexiTab\xc2\xae Deluxe|MFC514FR|MFC514FR|
 |Lexibook|LexiTab\xc2\xae Master|MFC149|MFC149|
 |Lexibook|MFC191|MFC191|S952|
@@ -14391,6 +14399,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Onkyo|DP-CTX1|DP-CTX1|DP-CTX1|
 |Onkyo|DP-X1|Rai_Zin_32|DP-X1|
 |Onkyo|DP-X1A|Rai_Zin2R_64|DP-X1A|
+|Onn (Walmart)|100005209|100005209|100005209|
 |Onn (Walmart)|ONA19TB002|ONA19TB002|ONA19TB002|
 |Onn (Walmart)|ONA19TB003|ONA19TB003|ONA19TB003|
 |Ooredoo|Ooredoo TV|diw387oor|DIW387_UHD_OOR|
@@ -15053,6 +15062,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|HDPSEB v2|HDPSEBv2|HD PSEB v2|
 |Panasonic|HDPSEB v3|HDPSEBv3|HD PSEB v3|
 |Panasonic|HDPSEB v4|HDPSEBv4|HD PSEB v4|
+|Panasonic|HomeX HMX03A|HMX03A|HMX03A|
 |Panasonic|IPSC 4|ipsc4|IPSC4|
 |Panasonic|JT-B1|B1|JT-B1|
 |Panasonic|JT-C52|JT-C52|JT-C52|
@@ -16364,6 +16374,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SOLO|Inspire_U5|Inspire_U5|Inspire_U5|
 |SOLO|Inspire_U5_PLUS|Inspire_U5_PLUS|Inspire_U5_PLUS|
 |SOSMART|T5|SOSMART_T5|SOSMART_T5|
+|SPC Mobile|GRAVITY_3G_2019_eea|GRAVITY_3G|GRAVITY 3G_2019|
 |SPC Mobile|L50|SPC_L50|L50|
 |SPC Mobile|L50E|L50E|SPC L50E|
 |SPC Mobile|L51 BLITZ|L51|L51|
@@ -22629,6 +22640,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |W&O|X6|X6|X6|
 |W.e.|WETAB700DG|WETAB700DG|WETAB700DG|
 |W.e.|WeTab1004B|WeTab1004B|WeTab1004B|
+|WIIGO|WG-7650|WG-7650|WG-7650|
 |WILL (JP)|Willfon_Pad_02|Willfon_Pad_02|Willfon_Pad_02|
 |Wacom|Cintiq Companion Hybrid 13HD|CintiqCompanionHybrid13HD|Cintiq Companion Hybrid 13HD|
 |Waf|F803YM|F803YM|F803YM|
@@ -24547,6 +24559,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A522|P817E53|ZTE Blade A522|
 |ZTE|ZTE Blade A531|P932F10|ZTE Blade A531|
 |ZTE|ZTE Blade A7 2019|P963F02|ZTE Blade A7 2019|
+|ZTE|ZTE Blade A7 2019RU|P963F02|ZTE Blade A7 2019RU|
 |ZTE|ZTE Blade L110|ZTE_BLADE_L110|ZTE Blade L110|
 |ZTE|ZTE Blade L130|P731F30|ZTE Blade L130|
 |ZTE|ZTE Blade L130|P731K30|ZTE Blade L130|
@@ -24575,6 +24588,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE ZFive C LTE|msm8909|Z558VL|
 |ZTE|ZTE-V9VITA|P840F03|ZTE-V9VITA|
 |ZTE|ZTE_Blade_V1000|P671F20|ZTE Blade V1000|
+|ZTE|ZTE\xe2\x80\x82Grand\xe2\x80\x82X\xe2\x80\x82View\xe2\x80\x823|K83CA|K83CA|
 |ZTE|ZTU31|P852F52|ZTU31|
 |ZTE|ZXY-ZTE_N8010|N8010_YM|ZXY-ZTE_N8010|
 |ZTE|ZXY-ZTE_V6700|V6700|ZTE V6700|
