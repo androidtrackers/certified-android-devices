@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-07-30
+Last sync is 2019-07-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1848,6 +1848,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-5521 STRIKE POWER MAX|BQru-5521|BQru-5521|
 |BQru|BQ-5522\xc2\xa0Next|BQru-5522|BQ-5522|
 |BQru|BQ-5528L|BQru-5528L|BQ-5528L|
+|BQru|BQ-5530L|BQru-5530L|BQ-5530L|
 |BQru|BQ-5535L|BQru-5535L|BQ-5535L|
 |BQru|BQ-5590 Spring|BQru_5590|BQru_5590|
 |BQru|BQ-5591 Jeans|BQru-5591|BQ-5591|
@@ -2958,6 +2959,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Condor|Griffe T7|Griffe_T7|Griffe T7|
 |Condor|Griffe T8|Griffe_T8|Griffe T8|
 |Condor|Griffe T8 Plus|SP641|Griffe T8 Plus|
+|Condor|Griffe T9|Griffe_T9|Griffe T9|
+|Condor|Griffe T9 Plus|Griffe_T9_Plus|Griffe T9 Plus|
 |Condor|Griffe_T5|Griffe_T5|Griffe T5|
 |Condor|Griffe_T7|Griffe_T7|Griffe T7|
 |Condor|HS-U939|u939e_6|HS-U939|
@@ -3609,6 +3612,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DigiLand|DL785D|DL785D|PLT7803G|
 |DigiLand|DL8006|DL8006|DL8006|
 |DigiLand|DL9002|DL9002|DL9002|
+|DigiLand|DL9003mk|mdt9003|DL9003MK|
 |DigiLand|EVERPAD|EVERPAD|SC-725|
 |DigiLand|KTAB17|KTAB17|KTAB17|
 |DigiLand|MID1008_Digiland|mid1008|DL1008M|
@@ -3988,6 +3992,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EPIKONE|K405|K405|K405|
 |EPIKONE|K500|K500|K500|
 |EPIKONE|K501|K501|K501|
+|EPIKONE|K501_Plus|K501_Plus|K501 Plus|
 |EPIKONE|K502|K502|K502|
 |EPIKONE|K504|K504|K504|
 |EPIKONE|K510|K510|K510|
@@ -4762,6 +4767,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G53|TA71CA3|TA71CA3_1|TA71CA3|
 |G7 Mobiles|G7S54P3CR|G7S54P3CR|G7S54P3CR|
 |GD Classbook|TA80CA1|TA80CA1_2|TA80CA1|
+|GENESIS|GT-7550|GT-7550|GT-7550|
 |GEOFOX|GEOFOX_MID743|GEOFOX_MID743|GEOFOX_MID743|
 |GFive|Gpad701|Gpad701|Gpad701|
 |GFive|President_Classic_9|President_Classic_9|President_Classic_9|
@@ -12508,6 +12514,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mediacom|7BY|7BY|7BY|
 |Mediacom|7CY_eea|7CY|7CY|
 |Mediacom|8AY|8AY|8AY|
+|Mediacom|8BY_EEA|8BY|8BY|
 |Mediacom|G5M|M-PPxG5M|M-PPxG5M|
 |Mediacom|M-PPAG4|M-PPAG4|M-PPAG4|
 |Mediacom|M-PPxG4P|G4P|M-PPxG4P|
@@ -13028,6 +13035,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|PURE|PURE|PURE|
 |Mobicell|PURE MINI|PURE_MINI|PURE MINI|
 |Mobicell|PURE_PLUS|PURE_PLUS|PURE PLUS|
+|Mobicell|R1 Plus|R1_Plus|R1 Plus|
 |Mobicell|R3|R3|R3|
 |Mobicell|R4|R4|R4|
 |Mobicell|R8|R8|R8|
@@ -14504,8 +14512,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A79t|A79|OPPO A79t|
 |Oppo|A79t|A79t|OPPO A79t|
 |Oppo|A7n|PCDT00|PCDT00|
-|Oppo|A7x|PBBM00|PBBM00|
 |Oppo|A7x|PBBT00|PBBT00|
+|Oppo|A7x\xe4\xb8\xad\xe5\x9b\xbd\xe7\x89\x88|PBBM00|PBBM00|
 |Oppo|A83|A83|OPPO A83|
 |Oppo|A83t|A83t|OPPO A83t|
 |Oppo|A9|OP46F1|PCAM10|
@@ -16205,6 +16213,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ROKiT|IO Light|Chinchilla|IO Light|
 |ROKiT|IO Pro|Emu|IO Pro|
 |RT Project|Wide|Wide|Wide|
+|RT Project|popper2|popper2|popper2|
 |Radger|IMP-F01K|IMP-F01K|IMP-F01K|
 |Rainbow|WIKO|s5501|RAINBOW|
 |Ratel|Cell|Cell|CELL|
@@ -16407,10 +16416,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Universe|Lightyear|Lightyear|Lightyear|
 |SPC Universe|heaven_10_1|heaven-10_1|HEAVEN 10.1|
 |SSB PHONES|AMS5518R|AMS5518R|AMS5518R|
+|SSB PHONES|LM5118R|LM5118R|LM5118R|
 |SSB PHONES|LM5518R|LM5518R|LM5518R|
 |SSB PHONES|SSB-508D|SSB-508D|SSB-508D|
 |SSB PHONES|SSB504|SSB504|SSB504|
 |SSB PHONES|SSB504A|SSB504A|SSB504A|
+|SSB PHONES|SSB5118R|SSB5118R|SSB5118R|
 |SSB PHONES|SSB5518|SSB5518|SSB5518|
 |SSB PHONES|SSB554R|SSB554R|SSB554R|
 |STF Mobile|AERIAL|STFAERIAL|AERIAL|
@@ -16565,6 +16576,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A10|a10|SM-A105N|
 |Samsung|Galaxy A10e|a10e|SM-A102U|
 |Samsung|Galaxy A10s|a10s|SM-A107F|
+|Samsung|Galaxy A10s|a10s|SM-A107M|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260F|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260G|
 |Samsung|Galaxy A20|a20|SM-A205F|
@@ -18213,9 +18225,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A|gt5note8ltechn|SM-P355C|
 |Samsung|Galaxy Tab A|gta3xl|SM-T515|
 |Samsung|Galaxy Tab A|gta3xl|SM-T515N|
+|Samsung|Galaxy Tab A|gta3xl|SM-T517P|
 |Samsung|Galaxy Tab A|gta3xlwifi|SM-T510|
 |Samsung|Galaxy Tab A|gtaslitelteusc|SM-T387R4|
 |Samsung|Galaxy Tab A|gtaxlqltespr|SM-T587P|
+|Samsung|Galaxy Tab A|gto|SM-T295C|
 |Samsung|"Galaxy Tab A (10.5"")"|gta2xlltespr|SM-T597P|
 |Samsung|"Galaxy Tab A (10.5"")"|gta2xlltevzw|SM-T597V|
 |Samsung|Galaxy Tab A (10.5)|gta2xlltecs|SM-T597W|
@@ -18246,6 +18260,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|"Galaxy Tab A (2018| 10.5)"|gta2xlltekx|
 |Samsung|"Galaxy Tab A (2018| 10.5)"|gta2xlwifi|
 |Samsung|"Galaxy Tab A (2018| 10.5)"|gta2xlwifichn|
+|Samsung|"Galaxy Tab A (8.0""| 2019)"|gto|
+|Samsung|"Galaxy Tab A (8.0""| 2019)"|gto|
 |Samsung|"Galaxy Tab A (8.0""| 2019)"|gto|
 |Samsung|"Galaxy Tab A (8.0""| 2019)"|gto|
 |Samsung|"Galaxy Tab A (8.0""| 2019)"|gtowifi|
@@ -18509,6 +18525,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy TabS 10.5|chagallhltelgt|SM-T805L|
 |Samsung|Galaxy TabS 10.5|chagallhlteskt|SM-T805S|
 |Samsung|Galaxy TabS 10.5|chagalllte|SM-T805|
+|Samsung|Galaxy TabS 10.5|chagalllte|SM-T805C|
 |Samsung|Galaxy TabS 10.5|chagalllte|SM-T805M|
 |Samsung|Galaxy TabS 10.5|chagalllte|SM-T805Y|
 |Samsung|Galaxy TabS 10.5|chagalllte|SM-T807|
@@ -22649,6 +22666,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|PRIMO NH4|PRIMO_NH4|PRIMO NH4|
 |Walton|PRIMO_S7|Primo_S7|Primo S7|
 |Walton|Primo D9|Primo_D9|Primo D9|
+|Walton|Primo E10|PRIMO_E10|PRIMO E10|
 |Walton|Primo E8s|Primo_E8s|Primo E8s|
 |Walton|Primo E9|Primo_E9|Primo E9|
 |Walton|Primo EF7|Primo_EF7|Primo EF7|
@@ -22657,6 +22675,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|Primo F7s|Primo_F7s|Primo F7s|
 |Walton|Primo F8|Primo_F8|Primo F8|
 |Walton|Primo F8s|Primo_F8s|Primo F8s|
+|Walton|Primo F9|Primo_F9|Primo F9|
 |Walton|Primo G8|Primo_G8|Primo G8|
 |Walton|Primo G8i|Primo_G8i|Primo G8i|
 |Walton|Primo G8i 4G|Primo_G8i_4G|Primo G8i 4G|
@@ -24949,6 +24968,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iNew|k1|K1|K1|
 |iPlus|iPlus1|iPlus1|iPlus1|
 |iQandT|G3|G3|G3|
+|iQandT|N3|N3|N3|
 |iQandT|N6|N6|N6|
 |iRainbow|B12017|B12017|B12017|
 |iReplace|Frog One|FrogOne|FrogOne|

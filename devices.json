@@ -11059,6 +11059,12 @@
  },
  {
   "brand": "BQru",
+  "name": "BQ-5530L",
+  "device": "BQru-5530L",
+  "model": "BQ-5530L"
+ },
+ {
+  "brand": "BQru",
   "name": "BQ-5535L",
   "device": "BQru-5535L",
   "model": "BQ-5535L"
@@ -17719,6 +17725,18 @@
  },
  {
   "brand": "Condor",
+  "name": "Griffe T9",
+  "device": "Griffe_T9",
+  "model": "Griffe T9"
+ },
+ {
+  "brand": "Condor",
+  "name": "Griffe T9 Plus",
+  "device": "Griffe_T9_Plus",
+  "model": "Griffe T9 Plus"
+ },
+ {
+  "brand": "Condor",
   "name": "Griffe_T5",
   "device": "Griffe_T5",
   "model": "Griffe T5"
@@ -21625,6 +21643,12 @@
  },
  {
   "brand": "DigiLand",
+  "name": "DL9003mk",
+  "device": "mdt9003",
+  "model": "DL9003MK"
+ },
+ {
+  "brand": "DigiLand",
   "name": "EVERPAD",
   "device": "EVERPAD",
   "model": "SC-725"
@@ -23896,6 +23920,12 @@
   "name": "K501",
   "device": "K501",
   "model": "K501"
+ },
+ {
+  "brand": "EPIKONE",
+  "name": "K501_Plus",
+  "device": "K501_Plus",
+  "model": "K501 Plus"
  },
  {
   "brand": "EPIKONE",
@@ -28540,6 +28570,12 @@
   "name": "TA80CA1",
   "device": "TA80CA1_2",
   "model": "TA80CA1"
+ },
+ {
+  "brand": "GENESIS",
+  "name": "GT-7550",
+  "device": "GT-7550",
+  "model": "GT-7550"
  },
  {
   "brand": "GEOFOX",
@@ -75019,6 +75055,12 @@
  },
  {
   "brand": "Mediacom",
+  "name": "8BY_EEA",
+  "device": "8BY",
+  "model": "8BY"
+ },
+ {
+  "brand": "Mediacom",
   "name": "G5M",
   "device": "M-PPxG5M",
   "model": "M-PPxG5M"
@@ -78136,6 +78178,12 @@
   "name": "PURE_PLUS",
   "device": "PURE_PLUS",
   "model": "PURE PLUS"
+ },
+ {
+  "brand": "Mobicell",
+  "name": "R1 Plus",
+  "device": "R1_Plus",
+  "model": "R1 Plus"
  },
  {
   "brand": "Mobicell",
@@ -86996,14 +87044,14 @@
  {
   "brand": "Oppo",
   "name": "A7x",
-  "device": "PBBM00",
-  "model": "PBBM00"
+  "device": "PBBT00",
+  "model": "PBBT00"
  },
  {
   "brand": "Oppo",
-  "name": "A7x",
-  "device": "PBBT00",
-  "model": "PBBT00"
+  "name": "A7x\\xe4\\xb8\\xad\\xe5\\x9b\\xbd\\xe7\\x89\\x88",
+  "device": "PBBM00",
+  "model": "PBBM00"
  },
  {
   "brand": "Oppo",
@@ -97200,6 +97248,12 @@
   "model": "Wide"
  },
  {
+  "brand": "RT Project",
+  "name": "popper2",
+  "device": "popper2",
+  "model": "popper2"
+ },
+ {
   "brand": "Radger",
   "name": "IMP-F01K",
   "device": "IMP-F01K",
@@ -98413,6 +98467,12 @@
  },
  {
   "brand": "SSB PHONES",
+  "name": "LM5118R",
+  "device": "LM5118R",
+  "model": "LM5118R"
+ },
+ {
+  "brand": "SSB PHONES",
   "name": "LM5518R",
   "device": "LM5518R",
   "model": "LM5518R"
@@ -98434,6 +98494,12 @@
   "name": "SSB504A",
   "device": "SSB504A",
   "model": "SSB504A"
+ },
+ {
+  "brand": "SSB PHONES",
+  "name": "SSB5118R",
+  "device": "SSB5118R",
+  "model": "SSB5118R"
  },
  {
   "brand": "SSB PHONES",
@@ -99358,6 +99424,12 @@
   "name": "Galaxy A10s",
   "device": "a10s",
   "model": "SM-A107F"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy A10s",
+  "device": "a10s",
+  "model": "SM-A107M"
  },
  {
   "brand": "Samsung",
@@ -109250,6 +109322,12 @@
  {
   "brand": "Samsung",
   "name": "Galaxy Tab A",
+  "device": "gta3xl",
+  "model": "SM-T517P"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Tab A",
   "device": "gta3xlwifi",
   "model": "SM-T510"
  },
@@ -109264,6 +109342,12 @@
   "name": "Galaxy Tab A",
   "device": "gtaxlqltespr",
   "model": "SM-T587P"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Tab A",
+  "device": "gto",
+  "model": "SM-T295C"
  },
  {
   "brand": "Samsung",
@@ -109444,6 +109528,18 @@
   "name": "\"Galaxy Tab A (2018",
   "device": " 10.5)\"",
   "model": "gta2xlwifichn"
+ },
+ {
+  "brand": "Samsung",
+  "name": "\"Galaxy Tab A (8.0\"\"",
+  "device": " 2019)\"",
+  "model": "gto"
+ },
+ {
+  "brand": "Samsung",
+  "name": "\"Galaxy Tab A (8.0\"\"",
+  "device": " 2019)\"",
+  "model": "gto"
  },
  {
   "brand": "Samsung",
@@ -111022,6 +111118,12 @@
   "name": "Galaxy TabS 10.5",
   "device": "chagalllte",
   "model": "SM-T805"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy TabS 10.5",
+  "device": "chagalllte",
+  "model": "SM-T805C"
  },
  {
   "brand": "Samsung",
@@ -135865,6 +135967,12 @@
  },
  {
   "brand": "Walton",
+  "name": "Primo E10",
+  "device": "PRIMO_E10",
+  "model": "PRIMO E10"
+ },
+ {
+  "brand": "Walton",
   "name": "Primo E8s",
   "device": "Primo_E8s",
   "model": "Primo E8s"
@@ -135910,6 +136018,12 @@
   "name": "Primo F8s",
   "device": "Primo_F8s",
   "model": "Primo F8s"
+ },
+ {
+  "brand": "Walton",
+  "name": "Primo F9",
+  "device": "Primo_F9",
+  "model": "Primo F9"
  },
  {
   "brand": "Walton",
@@ -149662,6 +149776,12 @@
   "name": "G3",
   "device": "G3",
   "model": "G3"
+ },
+ {
+  "brand": "iQandT",
+  "name": "N3",
+  "device": "N3",
+  "model": "N3"
  },
  {
   "brand": "iQandT",
