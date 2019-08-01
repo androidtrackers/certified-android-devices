@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-07-31
+Last sync is 2019-08-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -974,6 +974,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Archos|Archos|ac101cr3gv5|Archos Core 101 3G v5|
 |Archos|Archos|ac101hello|Archos Hello 10|
 |Archos|Archos|ac57as3g|Archos Access 57 3G|
+|Archos|Archos|ac68oxxl|Archos Oxygen 68XL|
 |Archos|Archos 101 Oxygen 4G|ac101ox4g|Archos 101 Oxygen 4G|
 |Archos|Archos 101 Platinum 3G|ac101pl3g|Archos 101 Platinium 3G|
 |Archos|Archos 101 Platinum 3G|ac101pl3gv2|Archos 101 Platinum 3G|
@@ -9005,6 +9006,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Inverse Net|EP172PR|EP172PR|EP172PR|
 |Inverse Net|LT101|LT101|LT101|
 |Ipro|Amber6|Amber6|Amber6|
+|Ipro|Amber7S|Amber7S|Amber7S|
 |Ipro|Jade7s|Jade7s|Jade7s|
 |Ipro|Jade8S|Jade8S|Jade8S|
 |Ipro|KYLIN40|KYLIN40|KYLIN40|
@@ -9601,6 +9603,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Konrow|Smartfive|KONROW_Smartfive|Smartfive|
 |Krik Krak|Freedom|Freedom|Freedom|
 |Krono|NET_LITE|NET_LITE|NET_LITE|
+|Krono|NET_MATRIX|NET_MATRIX|NET_MATRIX|
 |Krono|NET_VOLT|NET_VOLT|NET_VOLT|
 |Krono|SKY|SKY|SKY|
 |Kruger&Matz|DRIVE 5|Drive_5|Kruger&Matz Drive 5|
@@ -11186,6 +11189,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|Iris90|iris90|iris90|
 |Lava|LE9810|LE9810|LAVA LE9810|
 |Lava|LE9820|LE9820|LAVA LE9820|
+|Lava|LE9910|LE9910|LE9910|
 |Lava|LF9810_2GB|LF9810_2GB|LAVA LF9810_2GB|
 |Lava|LH9810|LH9810|LH9810|
 |Lava|LN9810|LN9810|LAVA LN9810|
@@ -11819,6 +11823,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M10 (FHD)|X605L|Lenovo TB-X605L|
 |Lenovo|Lenovo Tab M10 (HD)|TB-X505F|Lenovo TB-X505F|
 |Lenovo|Lenovo Tab M10 (HD)|TB-X505L|Lenovo TB-X505L|
+|Lenovo|Lenovo Tab M10 (HD)|TB-X505N|Lenovo TB-X505N|
 |Lenovo|Lenovo Tab M10 (HD)|TB-X505X|Lenovo TB-X505X|
 |Lenovo|Lenovo Tab M7|7305F|Lenovo TB-7305F|
 |Lenovo|Lenovo Tab M7|7305I|Lenovo TB-7305I|
@@ -14512,12 +14517,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A79t|A79|OPPO A79t|
 |Oppo|A79t|A79t|OPPO A79t|
 |Oppo|A7n|PCDT00|PCDT00|
-|Oppo|A7x|PBBT00|PBBT00|
-|Oppo|A7x\xe4\xb8\xad\xe5\x9b\xbd\xe7\x89\x88|PBBM00|PBBM00|
+|Oppo|A7x \xe4\xb8\xad\xe5\x9b\xbd\xe7\x89\x88|PBBM00|PBBM00|
+|Oppo|A7x \xe4\xb8\xad\xe5\x9b\xbd\xe7\x89\x88|PBBT00|PBBT00|
 |Oppo|A83|A83|OPPO A83|
 |Oppo|A83t|A83t|OPPO A83t|
-|Oppo|A9|OP46F1|PCAM10|
-|Oppo|A9|OP46F1|PCAT10|
+|Oppo|A9 \xe4\xb8\xad\xe5\x9b\xbd\xe7\x89\x88|OP46F1|PCAM10|
+|Oppo|A9 \xe4\xb8\xad\xe5\x9b\xbd\xe7\x89\x88|OP46F1|PCAT10|
 |Oppo|A9x|OP46F3|PCEM00|
 |Oppo|A9x|OP46F3|PCET00|
 |Oppo|AX5s|CPH1920|CPH1920|
@@ -14610,9 +14615,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|R11st|R11s|OPPO R11st|
 |Oppo|R15|CPH1833|CPH1833|
 |Oppo|R15|CPH1835|CPH1835|
-|Oppo|R15|PACM00|PACM00|
-|Oppo|R15|PACT00|PACT00|
 |Oppo|R15 Pro|CPH1831|CPH1831|
+|Oppo|R15 \xe4\xb8\xad\xe5\x9b\xbd\xe7\x89\x88|PACM00|PACM00|
+|Oppo|R15 \xe4\xb8\xad\xe5\x9b\xbd\xe7\x89\x88|PACT00|PACT00|
 |Oppo|R15 \xe6\xa2\xa6\xe5\xa2\x83\xe7\x89\x88|PAAM00|PAAM00|
 |Oppo|R15 \xe6\xa2\xa6\xe5\xa2\x83\xe7\x89\x88|PAAT00|PAAT00|
 |Oppo|R15x|PBCM10|PBCM10|
@@ -14728,10 +14733,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno 10x room|OP4847|CPH1921|
 |Oppo|Reno 10\xe5\x80\x8d\xe5\x8f\x98\xe7\x84\xa6\xe7\x89\x88|OP46C3|PCCM00|
 |Oppo|Reno 10\xe5\x80\x8d\xe5\x8f\x98\xe7\x84\xa6\xe7\x89\x88|OP46C3|PCCT00|
-|Oppo|Reno Z|OP4699|PCDM10|
-|Oppo|Reno Z|OP4699|PCDT10|
 |Oppo|Reno Z|OP48A1|CPH1979|
 |Oppo|Reno Z|OP48A1L1|CPH1979|
+|Oppo|Reno Z \xe4\xb8\xad\xe5\x9b\xbd\xe7\x89\x88|OP4699|PCDM10|
+|Oppo|Reno Z \xe4\xb8\xad\xe5\x9b\xbd\xe7\x89\x88|OP4699|PCDT10|
 |Oppo|Reno \xe6\xa0\x87\xe5\x87\x86\xe7\x89\x88|OP46B1|PCAM00|
 |Oppo|Reno \xe6\xa0\x87\xe5\x87\x86\xe7\x89\x88|OP46B1|PCAT00|
 |Oppo|U3|U3|U3|
@@ -16172,6 +16177,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|RCA RCT6613W23PU|RCT6613W23PU|RCT6613W23PU|
 |RCA|RCA RCT6703W13|RCT6703W13|RCT6703W13|
 |RCA|RCA RCT6973W43MDC8|RCT6973W43MDC8|RCT6973W43MDC8|
+|RCA|RCA RCT6A03W13E|RCT6A03W13E|RCT6A03W13E|
 |RCA|RCA RCT6B03W12|RCT6B03W12|RCT6B03W12|
 |RCA|RCA RCT6B03W13|RCT6B03W13|RCT6B03W13|
 |RCA|RCA RCT6B83W12|RCT6B83W12|RCT6B83W12|
@@ -16244,6 +16250,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 7A|pine|Redmi 7A|
 |Redmi|Redmi K20|davinci|Mi 9T|
 |Redmi|Redmi K20|davinci|Redmi K20|
+|Redmi|Redmi K20|davinciin|Redmi K20|
 |Redmi|Redmi K20 Pro|raphael|Redmi K20 Pro|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Reeder|A8i Q2|A8i-Q2|A8i-Q2|
@@ -21553,6 +21560,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teeno|TEENO S9|TEENO_S9|TEENO_S9|
 |Teesso|X2|X2|X2|
 |Teesso|X3|Teesso_X3|Teesso X3|
+|TekSavvy|TekSavvy_DV8219|DV8219|TekSavvy_DV8219|
 |Teknosa|Preo P2|Preo_P2|Preo_P2|
 |Tekwind|A10A|A10A|A10A|
 |Tekwind|Clide A10B|A10B|A10B|
@@ -22611,6 +22619,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vonino|Zun_N|Zun_N|Zun_N|
 |Vonino|jax_S|Jax_S|Jax_S|
 |Vorago|PAD-7|PAD-7|PAD-7|
+|Vorago|PAD-7-V5|PAD-7-V5|PAD-7-V5|
 |Vortex|Beat 8|BEAT8|BEAT 8|
 |Vortex|SYNQ|SYNQ|SYNQ|
 |Vortex|Sync|Sync|Sync|

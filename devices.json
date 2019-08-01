@@ -5815,6 +5815,12 @@
  },
  {
   "brand": "Archos",
+  "name": "Archos",
+  "device": "ac68oxxl",
+  "model": "Archos Oxygen 68XL"
+ },
+ {
+  "brand": "Archos",
   "name": "Archos 101 Oxygen 4G",
   "device": "ac101ox4g",
   "model": "Archos 101 Oxygen 4G"
@@ -54001,6 +54007,12 @@
  },
  {
   "brand": "Ipro",
+  "name": "Amber7S",
+  "device": "Amber7S",
+  "model": "Amber7S"
+ },
+ {
+  "brand": "Ipro",
   "name": "Jade7s",
   "device": "Jade7s",
   "model": "Jade7s"
@@ -57574,6 +57586,12 @@
   "name": "NET_LITE",
   "device": "NET_LITE",
   "model": "NET_LITE"
+ },
+ {
+  "brand": "Krono",
+  "name": "NET_MATRIX",
+  "device": "NET_MATRIX",
+  "model": "NET_MATRIX"
  },
  {
   "brand": "Krono",
@@ -67087,6 +67105,12 @@
  },
  {
   "brand": "Lava",
+  "name": "LE9910",
+  "device": "LE9910",
+  "model": "LE9910"
+ },
+ {
+  "brand": "Lava",
   "name": "LF9810_2GB",
   "device": "LF9810_2GB",
   "model": "LAVA LF9810_2GB"
@@ -70882,6 +70906,12 @@
   "name": "Lenovo Tab M10 (HD)",
   "device": "TB-X505L",
   "model": "Lenovo TB-X505L"
+ },
+ {
+  "brand": "Lenovo",
+  "name": "Lenovo Tab M10 (HD)",
+  "device": "TB-X505N",
+  "model": "Lenovo TB-X505N"
  },
  {
   "brand": "Lenovo",
@@ -87043,15 +87073,15 @@
  },
  {
   "brand": "Oppo",
-  "name": "A7x",
-  "device": "PBBT00",
-  "model": "PBBT00"
+  "name": "A7x \\xe4\\xb8\\xad\\xe5\\x9b\\xbd\\xe7\\x89\\x88",
+  "device": "PBBM00",
+  "model": "PBBM00"
  },
  {
   "brand": "Oppo",
-  "name": "A7x\\xe4\\xb8\\xad\\xe5\\x9b\\xbd\\xe7\\x89\\x88",
-  "device": "PBBM00",
-  "model": "PBBM00"
+  "name": "A7x \\xe4\\xb8\\xad\\xe5\\x9b\\xbd\\xe7\\x89\\x88",
+  "device": "PBBT00",
+  "model": "PBBT00"
  },
  {
   "brand": "Oppo",
@@ -87067,13 +87097,13 @@
  },
  {
   "brand": "Oppo",
-  "name": "A9",
+  "name": "A9 \\xe4\\xb8\\xad\\xe5\\x9b\\xbd\\xe7\\x89\\x88",
   "device": "OP46F1",
   "model": "PCAM10"
  },
  {
   "brand": "Oppo",
-  "name": "A9",
+  "name": "A9 \\xe4\\xb8\\xad\\xe5\\x9b\\xbd\\xe7\\x89\\x88",
   "device": "OP46F1",
   "model": "PCAT10"
  },
@@ -87631,21 +87661,21 @@
  },
  {
   "brand": "Oppo",
-  "name": "R15",
+  "name": "R15 Pro",
+  "device": "CPH1831",
+  "model": "CPH1831"
+ },
+ {
+  "brand": "Oppo",
+  "name": "R15 \\xe4\\xb8\\xad\\xe5\\x9b\\xbd\\xe7\\x89\\x88",
   "device": "PACM00",
   "model": "PACM00"
  },
  {
   "brand": "Oppo",
-  "name": "R15",
+  "name": "R15 \\xe4\\xb8\\xad\\xe5\\x9b\\xbd\\xe7\\x89\\x88",
   "device": "PACT00",
   "model": "PACT00"
- },
- {
-  "brand": "Oppo",
-  "name": "R15 Pro",
-  "device": "CPH1831",
-  "model": "CPH1831"
  },
  {
   "brand": "Oppo",
@@ -88340,18 +88370,6 @@
  {
   "brand": "Oppo",
   "name": "Reno Z",
-  "device": "OP4699",
-  "model": "PCDM10"
- },
- {
-  "brand": "Oppo",
-  "name": "Reno Z",
-  "device": "OP4699",
-  "model": "PCDT10"
- },
- {
-  "brand": "Oppo",
-  "name": "Reno Z",
   "device": "OP48A1",
   "model": "CPH1979"
  },
@@ -88360,6 +88378,18 @@
   "name": "Reno Z",
   "device": "OP48A1L1",
   "model": "CPH1979"
+ },
+ {
+  "brand": "Oppo",
+  "name": "Reno Z \\xe4\\xb8\\xad\\xe5\\x9b\\xbd\\xe7\\x89\\x88",
+  "device": "OP4699",
+  "model": "PCDM10"
+ },
+ {
+  "brand": "Oppo",
+  "name": "Reno Z \\xe4\\xb8\\xad\\xe5\\x9b\\xbd\\xe7\\x89\\x88",
+  "device": "OP4699",
+  "model": "PCDT10"
  },
  {
   "brand": "Oppo",
@@ -97003,6 +97033,12 @@
  },
  {
   "brand": "RCA",
+  "name": "RCA RCT6A03W13E",
+  "device": "RCT6A03W13E",
+  "model": "RCT6A03W13E"
+ },
+ {
+  "brand": "RCA",
   "name": "RCA RCT6B03W12",
   "device": "RCT6B03W12",
   "model": "RCT6B03W12"
@@ -97431,6 +97467,12 @@
   "brand": "Redmi",
   "name": "Redmi K20",
   "device": "davinci",
+  "model": "Redmi K20"
+ },
+ {
+  "brand": "Redmi",
+  "name": "Redmi K20",
+  "device": "davinciin",
   "model": "Redmi K20"
  },
  {
@@ -129288,6 +129330,12 @@
   "model": "Teesso X3"
  },
  {
+  "brand": "TekSavvy",
+  "name": "TekSavvy_DV8219",
+  "device": "DV8219",
+  "model": "TekSavvy_DV8219"
+ },
+ {
   "brand": "Teknosa",
   "name": "Preo P2",
   "device": "Preo_P2",
@@ -135634,6 +135682,12 @@
   "name": "PAD-7",
   "device": "PAD-7",
   "model": "PAD-7"
+ },
+ {
+  "brand": "Vorago",
+  "name": "PAD-7-V5",
+  "device": "PAD-7-V5",
+  "model": "PAD-7-V5"
  },
  {
   "brand": "Vortex",
