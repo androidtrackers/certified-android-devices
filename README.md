@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-08-01
+Last sync is 2019-08-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2005,6 +2005,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Binatone|SMART64|SMART64|SMART64|
 |Binatone|Smart 63|SMART63|SMART63|
 |Binatone|Smart 66|SMART66|SMART66|
+|BioRugged|BIOWOLF8F30|BIOWOLF8F30|BIOWOLF8F30|
 |Bird|A7|A7|A7|
 |Bird|E5018|E5018|E5018|
 |Bird|Energy|Energy|Energy|
@@ -3411,6 +3412,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|N280|N280|N280|
 |DEXP|N310|N310|N310|
 |DEXP|N370|N370|N370|
+|DEXP|N410|N410|N410|
 |DEXP|N470|N470|N470|
 |DEXP|N570|N570|N570|
 |DEXP|P280|P280|P280|
@@ -8483,6 +8485,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hurricane|Ridge|Ridge|Ridge|
 |Hurricane|Ridge Plus|Ridge_Plus|Ridge Plus|
 |Hurricane|Rush|Hurricane|Rush|
+|Hurricane|Rush Plus|Rush_Plus|Rush Plus|
 |Hurricane|S43|S43|S43|
 |Hurricane|SAGE|SAGE|SAGE|
 |Hurricane|STELLA|STELLA|STELLA|
@@ -12518,6 +12521,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mediacom|1BY|1BY|1BY|
 |Mediacom|7BY|7BY|7BY|
 |Mediacom|7CY_eea|7CY|7CY|
+|Mediacom|7DY_EEA|7DY|7DY|
 |Mediacom|8AY|8AY|8AY|
 |Mediacom|8BY_EEA|8BY|8BY|
 |Mediacom|G5M|M-PPxG5M|M-PPxG5M|
@@ -13802,6 +13806,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Myphone|myA7 DTV|myA7_DTV|myA7 DTV|
 |Myphone|myA8 DTV|myA8_DTV|myA8 DTV|
 |Myphone|myA9_DTV|myA9_DTV|myA9 DTV|
+|Myphone|myG1|myG1|myG1|
 |Myphone|myNX1|myNX1|myNX1|
 |Myphone|myPhone Q-Smart III Plus|Q-Smart_III_Plus|Q-Smart_III_Plus|
 |Myphone|myPhone FUN7 LTE|myPhone_Fun_7_LTE|myPhone_Fun_7_LTE|
@@ -16251,6 +16256,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi K20|davinci|Mi 9T|
 |Redmi|Redmi K20|davinci|Redmi K20|
 |Redmi|Redmi K20|davinciin|Redmi K20|
+|Redmi|Redmi K20 Pro|raphael|Mi 9T Pro|
 |Redmi|Redmi K20 Pro|raphael|Redmi K20 Pro|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Reeder|A8i Q2|A8i-Q2|A8i-Q2|
@@ -18236,7 +18242,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A|gta3xlwifi|SM-T510|
 |Samsung|Galaxy Tab A|gtaslitelteusc|SM-T387R4|
 |Samsung|Galaxy Tab A|gtaxlqltespr|SM-T587P|
-|Samsung|Galaxy Tab A|gto|SM-T295C|
 |Samsung|"Galaxy Tab A (10.5"")"|gta2xlltespr|SM-T597P|
 |Samsung|"Galaxy Tab A (10.5"")"|gta2xlltevzw|SM-T597V|
 |Samsung|Galaxy Tab A (10.5)|gta2xlltecs|SM-T597W|
@@ -21788,6 +21793,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Trifone|Passion_Pro|Passion_Pro|Passion_Pro|
 |Trifone|TRI_POWER|TRIFONE_TRI_POWER|TRI_POWER|
 |Trifone|Trifone_X7|Trifone_X7|Trifone_X7|
+|Trimble Navigation|E7167|E7167|MobileMapper60|
+|Trimble Navigation|E7167|E7167|TDC600|
 |Trimble Navigation|MM50|EE773X_4G|MobileMapper50_4G|
 |Trimble Navigation|MM50|EE773X_4G|TDC100_4G|
 |Trimble Navigation|MM50|EE773X_WiFi|MobileMapper50_WiFi|

@@ -12000,6 +12000,12 @@
   "model": "SMART66"
  },
  {
+  "brand": "BioRugged",
+  "name": "BIOWOLF8F30",
+  "device": "BIOWOLF8F30",
+  "model": "BIOWOLF8F30"
+ },
+ {
   "brand": "Bird",
   "name": "A7",
   "device": "A7",
@@ -20434,6 +20440,12 @@
   "name": "N370",
   "device": "N370",
   "model": "N370"
+ },
+ {
+  "brand": "DEXP",
+  "name": "N410",
+  "device": "N410",
+  "model": "N410"
  },
  {
   "brand": "DEXP",
@@ -50869,6 +50881,12 @@
  },
  {
   "brand": "Hurricane",
+  "name": "Rush Plus",
+  "device": "Rush_Plus",
+  "model": "Rush Plus"
+ },
+ {
+  "brand": "Hurricane",
   "name": "S43",
   "device": "S43",
   "model": "S43"
@@ -75079,6 +75097,12 @@
  },
  {
   "brand": "Mediacom",
+  "name": "7DY_EEA",
+  "device": "7DY",
+  "model": "7DY"
+ },
+ {
+  "brand": "Mediacom",
   "name": "8AY",
   "device": "8AY",
   "model": "8AY"
@@ -82780,6 +82804,12 @@
   "name": "myA9_DTV",
   "device": "myA9_DTV",
   "model": "myA9 DTV"
+ },
+ {
+  "brand": "Myphone",
+  "name": "myG1",
+  "device": "myG1",
+  "model": "myG1"
  },
  {
   "brand": "Myphone",
@@ -97479,6 +97509,12 @@
   "brand": "Redmi",
   "name": "Redmi K20 Pro",
   "device": "raphael",
+  "model": "Mi 9T Pro"
+ },
+ {
+  "brand": "Redmi",
+  "name": "Redmi K20 Pro",
+  "device": "raphael",
   "model": "Redmi K20 Pro"
  },
  {
@@ -109384,12 +109420,6 @@
   "name": "Galaxy Tab A",
   "device": "gtaxlqltespr",
   "model": "SM-T587P"
- },
- {
-  "brand": "Samsung",
-  "name": "Galaxy Tab A",
-  "device": "gto",
-  "model": "SM-T295C"
  },
  {
   "brand": "Samsung",
@@ -130696,6 +130726,18 @@
   "name": "Trifone_X7",
   "device": "Trifone_X7",
   "model": "Trifone_X7"
+ },
+ {
+  "brand": "Trimble Navigation",
+  "name": "E7167",
+  "device": "E7167",
+  "model": "MobileMapper60"
+ },
+ {
+  "brand": "Trimble Navigation",
+  "name": "E7167",
+  "device": "E7167",
+  "model": "TDC600"
  },
  {
   "brand": "Trimble Navigation",
