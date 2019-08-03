@@ -87680,12 +87680,6 @@
  {
   "brand": "Oppo",
   "name": "R15",
-  "device": "CPH1833",
-  "model": "CPH1833"
- },
- {
-  "brand": "Oppo",
-  "name": "R15",
   "device": "CPH1835",
   "model": "CPH1835"
  },
@@ -87694,6 +87688,12 @@
   "name": "R15 Pro",
   "device": "CPH1831",
   "model": "CPH1831"
+ },
+ {
+  "brand": "Oppo",
+  "name": "R15 Pro",
+  "device": "CPH1833",
+  "model": "CPH1833"
  },
  {
   "brand": "Oppo",
@@ -124768,6 +124768,12 @@
   "name": "Alcatel 3X",
   "device": "A3A_PLUS",
   "model": "5058Y"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 3X",
+  "device": "Venice",
+  "model": "5048A"
  },
  {
   "brand": "TCT (Alcatel)",

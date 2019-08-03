@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-08-02
+Last sync is 2019-08-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14618,9 +14618,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|R11sPlus|R11sPlus|OPPO R11s Plus|
 |Oppo|R11sPlust|R11sPlus|OPPO R11s Plust|
 |Oppo|R11st|R11s|OPPO R11st|
-|Oppo|R15|CPH1833|CPH1833|
 |Oppo|R15|CPH1835|CPH1835|
 |Oppo|R15 Pro|CPH1831|CPH1831|
+|Oppo|R15 Pro|CPH1833|CPH1833|
 |Oppo|R15 \xe4\xb8\xad\xe5\x9b\xbd\xe7\x89\x88|PACM00|PACM00|
 |Oppo|R15 \xe4\xb8\xad\xe5\x9b\xbd\xe7\x89\x88|PACT00|PACT00|
 |Oppo|R15 \xe6\xa2\xa6\xe5\xa2\x83\xe7\x89\x88|PAAM00|PAAM00|
@@ -20800,6 +20800,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 3X|A3A_PLUS|5058J|
 |TCT (Alcatel)|Alcatel 3X|A3A_PLUS|5058T|
 |TCT (Alcatel)|Alcatel 3X|A3A_PLUS|5058Y|
+|TCT (Alcatel)|Alcatel 3X|Venice|5048A|
 |TCT (Alcatel)|Alcatel 3X|Venice|5048I|
 |TCT (Alcatel)|Alcatel 3X|Venice|5048U|
 |TCT (Alcatel)|Alcatel 5|A5A_INFINI|5086A|
