@@ -12480,6 +12480,12 @@
   "model": "AWM-A0"
  },
  {
+  "brand": "Blackshark",
+  "name": "\\xe9\\xbb\\x91\\xe9\\xb2\\xa8\\xe6\\xb8\\xb8\\xe6\\x88\\x8f\\xe6\\x89\\x8b\\xe6\\x9c\\xba 2 Pro",
+  "device": "darklighter",
+  "model": "DLT-A0"
+ },
+ {
   "brand": "Blacksonic",
   "name": "BS7",
   "device": "BS7",
@@ -12724,6 +12730,12 @@
   "name": "BV9000-RU",
   "device": "BV9000Pro-RU",
   "model": "BV9000Pro-RU"
+ },
+ {
+  "brand": "Blackview",
+  "name": "BV9600",
+  "device": "BV9600",
+  "model": "BV9600"
  },
  {
   "brand": "Blackview",
@@ -23611,6 +23623,12 @@
  },
  {
   "brand": "E-TACHI",
+  "name": "A10_SMART",
+  "device": "A10_SMART",
+  "model": "A10_SMART"
+ },
+ {
+  "brand": "E-TACHI",
   "name": "A5SLIM",
   "device": "A5SLIM",
   "model": "A5SLIM"
@@ -25672,6 +25690,12 @@
   "name": "EV-A-81-8-1",
   "device": "EV-A-81-8-1",
   "model": "EV-A-81-8-1"
+ },
+ {
+  "brand": "Evoo",
+  "name": "EVMFV2",
+  "device": "EVMFV2",
+  "model": "EVMFV2"
  },
  {
   "brand": "Exertis",
@@ -51444,6 +51468,18 @@
   "model": "i4901"
  },
  {
+  "brand": "IKALL",
+  "name": "N4",
+  "device": "N4",
+  "model": "N4"
+ },
+ {
+  "brand": "IKALL",
+  "name": "N5",
+  "device": "N5",
+  "model": "N5"
+ },
+ {
   "brand": "IMO(In My Opinion)",
   "name": "IMO Q",
   "device": "IMO_Q",
@@ -70892,12 +70928,6 @@
  {
   "brand": "Lenovo",
   "name": "Lenovo Tab M10",
-  "device": "X605L",
-  "model": "Lenovo TB-X605L"
- },
- {
-  "brand": "Lenovo",
-  "name": "Lenovo Tab M10",
   "device": "X605M",
   "model": "Lenovo TB-X605M"
  },
@@ -73543,6 +73573,12 @@
  },
  {
   "brand": "M-Horse",
+  "name": "M5",
+  "device": "M5",
+  "model": "M5"
+ },
+ {
+  "brand": "M-Horse",
   "name": "P1",
   "device": "P1",
   "model": "P1"
@@ -75082,6 +75118,12 @@
   "name": "1BY",
   "device": "1BY",
   "model": "1BY"
+ },
+ {
+  "brand": "Mediacom",
+  "name": "1CY_EEA",
+  "device": "1CY",
+  "model": "1CY"
  },
  {
   "brand": "Mediacom",
@@ -85672,6 +85714,12 @@
   "name": "T20E",
   "device": "T20",
   "model": "T20E"
+ },
+ {
+  "brand": "NorthTech",
+  "name": "NT-P70",
+  "device": "NT-P70",
+  "model": "NT-P70"
  },
  {
   "brand": "Nous",
@@ -97081,6 +97129,12 @@
  },
  {
   "brand": "RCA",
+  "name": "RCA RCT6B06P23",
+  "device": "RCT6B06P23",
+  "model": "RCT6B06P23"
+ },
+ {
+  "brand": "RCA",
   "name": "RCA RCT6B83W12",
   "device": "RCT6B83W12",
   "model": "RCT6B83W12"
@@ -97582,6 +97636,12 @@
   "name": "P13",
   "device": "P13",
   "model": "P13"
+ },
+ {
+  "brand": "Reeder",
+  "name": "P13 Blue",
+  "device": "P13_Blue",
+  "model": "P13_Blue"
  },
  {
   "brand": "Reeder",
@@ -139354,6 +139414,12 @@
   "name": "Yureka Note",
   "device": "YU6000",
   "model": "YU 6000"
+ },
+ {
+  "brand": "YUNTAB",
+  "name": "YUNTAB-Q88",
+  "device": "YUNTAB-Q88",
+  "model": "YUNTAB-Q88"
  },
  {
   "brand": "Yandex",

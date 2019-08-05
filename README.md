@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-08-04
+Last sync is 2019-08-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2085,6 +2085,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackshark|Black Shark 2|skywalker|SKW-H0|
 |Blackshark|Shark|shark|SKR-H0|
 |Blackshark|Shark 1S|bullhead|AWM-A0|
+|Blackshark|\xe9\xbb\x91\xe9\xb2\xa8\xe6\xb8\xb8\xe6\x88\x8f\xe6\x89\x8b\xe6\x9c\xba 2 Pro|darklighter|DLT-A0|
 |Blacksonic|BS7|BS7|BS7|
 |Blacksonic|BS7-3G|BS7-3G|BS7-3G|
 |Blacksonic|BS7-BUTTERFLY|BS7-BUTTERFLY|BS7-BUTTERFLY|
@@ -2126,6 +2127,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|BV9000-F|BV9000-F|BV9000-F|
 |Blackview|BV9000-RU|BV9000-RU|BV9000-RU|
 |Blackview|BV9000-RU|BV9000Pro-RU|BV9000Pro-RU|
+|Blackview|BV9600|BV9600|BV9600|
 |Blackview|BV9600Pro|Blackview|BV9600Pro|
 |Blackview|Blackview A10|A10|A10|
 |Blackview|Blackview A20 Pro|A20Pro|A20Pro|
@@ -3940,6 +3942,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |E-Boda|Eclipse G400M|Eclipse_G400M|Eclipse_G400M|
 |E-Boda|Eclipse G500HD|E-Boda_Eclipse_G500HD|Eclipse G500HD|
 |E-Boda|Eclipse G500M|Eclipse_G500M|Eclipse_G500M|
+|E-TACHI|A10_SMART|A10_SMART|A10_SMART|
 |E-TACHI|A5SLIM|A5SLIM|A5SLIM|
 |E-TACHI|A8_SMART|A8_SMART|A8_SMART|
 |E-Tel|E-tel_M1|E-tel_M1|E-tel_M1|
@@ -4284,6 +4287,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Evoo|EV-A-101-1|EV-A-101-1|EV-A-101-1|
 |Evoo|EV-A-81-7-1|EV-A-81-7-1|EV-A-81-7-1|
 |Evoo|EV-A-81-8-1|EV-A-81-8-1|EV-A-81-8-1|
+|Evoo|EVMFV2|EVMFV2|EVMFV2|
 |Exertis|7GW_eea|7GW|7GW|
 |Exertis|SMB-H8009|SMB-H8009|SMB-H8009|
 |Explay|4Game|4Game|4Game|
@@ -8579,6 +8583,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyve|Storm ST01|storm_st01|ST01|
 |ICL-KME CS OJSC|TR10CD1|TR10CD1_7|TR10CD1|
 |IDEA|i4901|i4901|i4901|
+|IKALL|N4|N4|N4|
+|IKALL|N5|N5|N5|
 |IMO(In My Opinion)|IMO Q|IMO_Q|IMO Q|
 |IMO(In My Opinion)|IMO Q2 Plus|IMO_Q2_Plus|IMO Q2 Plus|
 |IMO(In My Opinion)|IMO Q3 Plus|IMO_Q3_Plus|IMO Q3 Plus|
@@ -11820,7 +11826,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab E10|X104X|Lenovo TB-X104X|
 |Lenovo|Lenovo Tab E7|TB7104F|Lenovo TB-7104F|
 |Lenovo|Lenovo Tab E7|TB7104I|Lenovo TB-7104I|
-|Lenovo|Lenovo Tab M10|X605L|Lenovo TB-X605L|
 |Lenovo|Lenovo Tab M10|X605M|Lenovo TB-X605M|
 |Lenovo|Lenovo Tab M10 (FHD)|X605F|Lenovo TB-X605F|
 |Lenovo|Lenovo Tab M10 (FHD)|X605L|Lenovo TB-X605L|
@@ -12262,6 +12267,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M-Horse|M1|M1|M1|
 |M-Horse|M2S|M2S|M2S|
 |M-Horse|M3|M3|M3|
+|M-Horse|M5|M5|M5|
 |M-Horse|P1|P1|P1|
 |M-Horse|Pure 2|Pure-2|Pure 2|
 |M-Horse|Pure 3|Pure_3|Pure 3|
@@ -12519,6 +12525,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mediacom|1AEC|1AEC|1AEC|
 |Mediacom|1AY|1AY|1AY|
 |Mediacom|1BY|1BY|1BY|
+|Mediacom|1CY_EEA|1CY|1CY|
 |Mediacom|7BY|7BY|7BY|
 |Mediacom|7CY_eea|7CY|7CY|
 |Mediacom|7DY_EEA|7DY|7DY|
@@ -14284,6 +14291,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nomu|S50 Pro|S50_Pro|S50_Pro|
 |Nomu|T20|T20|T20|
 |Nomu|T20E|T20|T20E|
+|NorthTech|NT-P70|NT-P70|NT-P70|
 |Nous|Fabulous|NS5005|NS5005|
 |Nous|NS5002|NS5002|NS5002|
 |Nous|NS5502|NS5502|NS5502|
@@ -16185,6 +16193,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|RCA RCT6A03W13E|RCT6A03W13E|RCT6A03W13E|
 |RCA|RCA RCT6B03W12|RCT6B03W12|RCT6B03W12|
 |RCA|RCA RCT6B03W13|RCT6B03W13|RCT6B03W13|
+|RCA|RCA RCT6B06P23|RCT6B06P23|RCT6B06P23|
 |RCA|RCA RCT6B83W12|RCT6B83W12|RCT6B83W12|
 |RCA|RCA RCT6S03W12|RCT6S03W12|RCT6S03W12|
 |RCA|RCA RCT6S03W14|RCT6S03W14|RCT6S03W14|
@@ -16269,6 +16278,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reeder|P10SE|P10SE|P10SE|
 |Reeder|P12 Curve|P12Curve|P12Curve|
 |Reeder|P13|P13|P13|
+|Reeder|P13 Blue|P13_Blue|P13_Blue|
 |Reeder|P13_Black|P13_Black|P13_Black|
 |Reeder|P13_Lite|P13_Lite|P13_Lite|
 |Reeder|P9C|P9C|P9C|
@@ -23231,6 +23241,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |YU|Yureka Black|YU5040|YU5040|
 |YU|Yureka Black|YU5041|YU5041|
 |YU|Yureka Note|YU6000|YU 6000|
+|YUNTAB|YUNTAB-Q88|YUNTAB-Q88|YUNTAB-Q88|
 |Yandex|Amber|Amber|YNDX-000SB|
 |Yekani|T3A Trend|T3A_Trend|Trend|
 |Yes|Altitude 2|M651G_MY|M651G_MY|
