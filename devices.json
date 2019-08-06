@@ -9433,6 +9433,18 @@
  },
  {
   "brand": "Auchan",
+  "name": "ST19071",
+  "device": "ST19071_EEA",
+  "model": "ST19071"
+ },
+ {
+  "brand": "Auchan",
+  "name": "ST19101",
+  "device": "ST19101",
+  "model": "ST19101"
+ },
+ {
+  "brand": "Auchan",
   "name": "Selecline X35T",
   "device": "X35T",
   "model": "X35T"
@@ -11221,6 +11233,12 @@
  },
  {
   "brand": "BQru",
+  "name": "BQru-1022L",
+  "device": "BQru-1022L",
+  "model": "BQ-1022L"
+ },
+ {
+  "brand": "BQru",
   "name": "BQru-1077L",
   "device": "BQru-1077L",
   "model": "BQ-1077L"
@@ -11890,6 +11908,12 @@
   "name": "M7133",
   "device": "M7133",
   "model": "M7133"
+ },
+ {
+  "brand": "Beneve",
+  "name": "M7133E",
+  "device": "M7133E",
+  "model": "M7133E"
  },
  {
   "brand": "Beneve",
@@ -13585,7 +13609,7 @@
  },
  {
   "brand": "Blu",
-  "name": "Pure_View",
+  "name": "Pure View",
   "device": "P0050WW",
   "model": "Pure View"
  },
@@ -18034,6 +18058,12 @@
   "name": "Plume_L3_Plus",
   "device": "Plume_L3_Plus",
   "model": "Plume L3 Plus"
+ },
+ {
+  "brand": "Condor",
+  "name": "Plume_L4_Pro_TE",
+  "device": "Plume_L4_Pro",
+  "model": "Plume L4 Pro"
  },
  {
   "brand": "Condor",
@@ -41401,6 +41431,12 @@
  },
  {
   "brand": "Hoozo",
+  "name": "HZ0011",
+  "device": "HZ0011",
+  "model": "HZ0011"
+ },
+ {
+  "brand": "Hoozo",
   "name": "MR768",
   "device": "MR768",
   "model": "MR768"
@@ -57646,6 +57682,12 @@
   "name": "NET_MATRIX",
   "device": "NET_MATRIX",
   "model": "NET_MATRIX"
+ },
+ {
+  "brand": "Krono",
+  "name": "NET_MAX",
+  "device": "NET_MAX",
+  "model": "NET_MAX"
  },
  {
   "brand": "Krono",
@@ -86521,6 +86563,12 @@
  },
  {
   "brand": "Onn (Walmart)",
+  "name": "100005207",
+  "device": "100005207",
+  "model": "100005207"
+ },
+ {
+  "brand": "Onn (Walmart)",
   "name": "100005209",
   "device": "100005209",
   "model": "100005209"
@@ -89716,6 +89764,18 @@
   "name": "Altus 32",
   "device": "Altus32",
   "model": "Altus 32"
+ },
+ {
+  "brand": "Panasonic",
+  "name": "Altus 4K 24",
+  "device": "Altus4K24",
+  "model": "Qualcomm elite"
+ },
+ {
+  "brand": "Panasonic",
+  "name": "Altus4K43",
+  "device": "Altus4K43",
+  "model": "Qualcomm elite"
  },
  {
   "brand": "Panasonic",
@@ -129589,6 +129649,12 @@
  },
  {
   "brand": "Telefunken",
+  "name": "TEL-1014GIQ",
+  "device": "TEL-1014GIQ",
+  "model": "TEL-1014GIQ"
+ },
+ {
+  "brand": "Telefunken",
   "name": "TF501_EC",
   "device": "TF501_EC",
   "model": "TF501_EC"
@@ -147964,6 +148030,30 @@
   "name": "Customer Concierge 6000",
   "device": "CC610PC",
   "model": "CC610"
+ },
+ {
+  "brand": "Zebra",
+  "name": "ET51",
+  "device": "ET51L",
+  "model": "ET51"
+ },
+ {
+  "brand": "Zebra",
+  "name": "ET51",
+  "device": "ET51S",
+  "model": "ET51"
+ },
+ {
+  "brand": "Zebra",
+  "name": "ET56",
+  "device": "ET56L",
+  "model": "ET56"
+ },
+ {
+  "brand": "Zebra",
+  "name": "ET56",
+  "device": "ET56S",
+  "model": "ET56"
  },
  {
   "brand": "Zebra",

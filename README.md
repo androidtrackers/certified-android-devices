@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-08-05
+Last sync is 2019-08-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1577,6 +1577,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Auchan|S6T7IN3G|S6T7IN3G|S6T7IN3G|
 |Auchan|SP19403|SP19403|SP19403|
 |Auchan|SP19504|SP19504|SP19504|
+|Auchan|ST19071|ST19071_EEA|ST19071|
+|Auchan|ST19101|ST19101|ST19101|
 |Auchan|Selecline X35T|X35T|X35T|
 |Auchan|Selecline-854599|854599|Selecline-854599|
 |Auchan|"Smartphone 5"" Q.4094"|ac50bhe|Q.4094|
@@ -1875,6 +1877,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-8041L|BQru-8041L|BQ-8041L|
 |BQru|BQ-8067L|BQru-8067L|BQ-8067L|
 |BQru|BQ-8068L|BQru-8068L|BQ-8068L|
+|BQru|BQru-1022L|BQru-1022L|BQ-1022L|
 |BQru|BQru-1077L|BQru-1077L|BQ-1077L|
 |BQru|BQru-1081G|BQru-1081G|BQru-1081G|
 |BQru|BQru-1082G|BQru-1082G|BQ-1082G|
@@ -1987,6 +1990,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Benesse|TAB-A03-BR|TAB-A03-BR|TAB-A03-BR|
 |Benesse|TAB-A03-BS|TAB-A03-BS|TAB-A03-BS|
 |Beneve|M7133|M7133|M7133|
+|Beneve|M7133E|M7133E|M7133E|
 |Beneve|M7133E3|M7133E3|M7133E3|
 |Beneve|M755|M755|M755|
 |Bentley|SDIS1|sdis1|BENTLEY ENTERTAINMENT TABLET|
@@ -2269,7 +2273,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Neo X2|Neo_X2|Neo X2|
 |Blu|PURE XL|BLU_PURE_XL|PURE XL|
 |Blu|PURE XR|BLU_Pure_XR|Pure XR|
-|Blu|Pure_View|P0050WW|Pure View|
+|Blu|Pure View|P0050WW|Pure View|
 |Blu|R1 HD|BLU_R1_HD|BLU R1 HD|
 |Blu|R1 HD|R1_HD|R1 HD|
 |Blu|R1 PLUS|R1_PLUS|R1 PLUS|
@@ -3011,6 +3015,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Condor|Plume_L2_Pro|Plume_L2_Pro|Plume L2 Pro|
 |Condor|Plume_L2_Pro_EEA|Plume_L2_Pro|Plume L2 Pro|
 |Condor|Plume_L3_Plus|Plume_L3_Plus|Plume L3 Plus|
+|Condor|Plume_L4_Pro_TE|Plume_L4_Pro|Plume L4 Pro|
 |Condor|SP530|SP530|Griffe T2|
 |Condor|SP638|SP638|Plume L3 Smart|
 |Condor|T705|TGW710G|TGW710G|
@@ -6905,6 +6910,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|VM1A|VM1A-L0-N|VM1A|
 |Honeywell|VM1A|VM1A-L0-P|VM1A|
 |Hoozo|HZ0010|HZ0010|HZ0010|
+|Hoozo|HZ0011|HZ0011|HZ0011|
 |Hoozo|MR768|MR768|MR768|
 |Hoozo|MR7863|MR7863|MR7863|
 |Hot Pepper|H5|H5|H5|
@@ -9613,6 +9619,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Krik Krak|Freedom|Freedom|Freedom|
 |Krono|NET_LITE|NET_LITE|NET_LITE|
 |Krono|NET_MATRIX|NET_MATRIX|NET_MATRIX|
+|Krono|NET_MAX|NET_MAX|NET_MAX|
 |Krono|NET_VOLT|NET_VOLT|NET_VOLT|
 |Krono|SKY|SKY|SKY|
 |Kruger&Matz|DRIVE 5|Drive_5|Kruger&Matz Drive 5|
@@ -14425,6 +14432,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Onkyo|DP-CTX1|DP-CTX1|DP-CTX1|
 |Onkyo|DP-X1|Rai_Zin_32|DP-X1|
 |Onkyo|DP-X1A|Rai_Zin2R_64|DP-X1A|
+|Onn (Walmart)|100005207|100005207|100005207|
 |Onn (Walmart)|100005209|100005209|100005209|
 |Onn (Walmart)|ONA19TB002|ONA19TB002|ONA19TB002|
 |Onn (Walmart)|ONA19TB003|ONA19TB003|ONA19TB003|
@@ -14958,6 +14966,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|Altus 18|Altus18|Altus 18|
 |Panasonic|Altus 24|Altus24|Altus 24|
 |Panasonic|Altus 32|Altus32|Altus 32|
+|Panasonic|Altus 4K 24|Altus4K24|Qualcomm elite|
+|Panasonic|Altus4K43|Altus4K43|Qualcomm elite|
 |Panasonic|Asia|globe_ap|PanasonicTV|
 |Panasonic|Boukenkun-reciever|VW_RCBKK1|VW_RCBKK1|
 |Panasonic|EB-4063-X|EB-4063-X|EB-4063-X|
@@ -21603,6 +21613,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teleepoch|U675|U675|U675|
 |Teleepoch|UMX U680C|U680C|U680C|
 |Telefunken|Enjoy TE1|TE1|TE1|
+|Telefunken|TEL-1014GIQ|TEL-1014GIQ|TEL-1014GIQ|
 |Telefunken|TF501_EC|TF501_EC|TF501_EC|
 |Telefunken|TF5X|TF5X|TF5X|
 |Telefunken|TF6|TF6|TF6|
@@ -24666,6 +24677,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|Customer Concierge 600|CC610LN|CC610|
 |Zebra|Customer Concierge 6000|CC610LC|CC610|
 |Zebra|Customer Concierge 6000|CC610PC|CC610|
+|Zebra|ET51|ET51L|ET51|
+|Zebra|ET51|ET51S|ET51|
+|Zebra|ET56|ET56L|ET56|
+|Zebra|ET56|ET56S|ET56|
 |Zebra|ET5X|ET50E|ET5X|
 |Zebra|ET5X|ET50T|ET5X|
 |Zebra|ET5X|ET55E|ET5X|
