@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-08-06
+Last sync is 2019-08-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1131,6 +1131,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asanzo|A1|A1|A1|
 |Asanzo|ASANZO A2|ASANZO_A2|ASANZO A2|
 |Asanzo|S3 Plus|ASANZO_S3_PLUS|ASANZO_S3_PLUS|
+|Asanzo|S6|S6|S6|
 |Ascom Wireless Solutions|Ascom Myco 2 Cellular|ACBB|SH1|
 |Ascom Wireless Solutions|Ascom Myco 2 WiFi|ABBB|SH1|
 |Ascom Wireless Solutions|Ascom Myco 2 WiFi|ACBA|SH1|
@@ -2031,6 +2032,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bitmore|LUXYA MID704DC Tablet / Bitmore Tab770|MY7317P|Tab770|
 |Bitmore|Tab870|Tab870|Tab870|
 |Bittium|Air-Lynx ALS14000|granite|Bittium Tough Mobile|
+|Bittium|Bittium Tough Mobile 2|craton|Bittium Tough Mobile 2|
 |Bittium|Mx Smart|adakite_sm|Mx Smart|
 |Bittium|Tough Mobile|granite|Bittium Tough Mobile|
 |Bizringer|8BIZ18|8BIZ18|8BIZ18|
@@ -4292,6 +4294,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Evoo|EV-A-101-1|EV-A-101-1|EV-A-101-1|
 |Evoo|EV-A-81-7-1|EV-A-81-7-1|EV-A-81-7-1|
 |Evoo|EV-A-81-8-1|EV-A-81-8-1|EV-A-81-8-1|
+|Evoo|EVM4G6|EVM4G6|EVM4G6|
 |Evoo|EVMFV2|EVMFV2|EVMFV2|
 |Exertis|7GW_eea|7GW|7GW|
 |Exertis|SMB-H8009|SMB-H8009|SMB-H8009|
@@ -8621,6 +8624,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |INQ Mobile||camden|INQ Cloud Touch|
 |INQ Mobile||camden|INQ Cloud Touch -parrot|
 |INQ Mobile||msm7627_surf|INQ Mayfair (EU)|
+|INSYS|HK9-K5023|HK9-K5023|HK9-K5023|
 |INSYS|IH8-S559|IH8-S559|IH8-S559|
 |ION ELECTRONICS|Gravity|Gravity|Gravity|
 |ION ELECTRONICS|Kids|Kids|Kids|
@@ -12041,6 +12045,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Leotec|Letab1020|Letab1020|SUPERNOVA Qi32|
 |Leotec|Qi216|Qi216|Qi216|
 |Leotec|Supernova_i216|Supernova_i216|Supernova_i216|
+|Leotec|mid1016_mk_64|mid1016_mk_64|Supernova|
 |Lephone|Lephone P2|lephone_P2AF|lephone P2|
 |Lephone|Lephone W8|lephone_W8|lephone_W8|
 |Lephone|S104G|S104G|S104G|
@@ -12185,9 +12190,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logicom|La Tab 123HD|La_Tab_123HD|La_Tab_123HD|
 |Logicom|La Tab 72|La_Tab_72|La Tab 72|
 |Logicom|La Tab 73|La_Tab_73|La_Tab_73|
+|Logicom|La Tab 90|La_Tab_90|La_Tab_90|
 |Logicom|La Tab Full HD|La_Tab_Full_HD|La Tab Full HD|
 |Logicom|La tab 124|La_Tab_124_HD|La_Tab_124_HD|
 |Logicom|LaTab109HD|LaTab109HD|La Tab 109 HD|
+|Logicom|La_Tab_105_P|La_Tab_105_P|La_Tab_105_P|
 |Logicom|La_Tab_114|La_Tab_114|La_Tab_114|
 |Logicom|La_Tab_115|La_Tab_115|La_Tab_115|
 |Logicom|La_Tab_74|La_Tab_74|La_Tab_74|
@@ -13087,6 +13094,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|X4|X4|X4|
 |Mobicell|ZEN|ZEN|ZEN|
 |Mobicell|ZOOM|ZOOM|ZOOM|
+|Mobicell|Zoom|ZOOM|ZOOM|
 |MobiiStar|C1 Lite|C1_Lite|C1 Lite|
 |MobiiStar|C1 Power|mobiistar_C1_Power|mobiistar C1 Power|
 |MobiiStar|LAI YUNA 1|LAI_YUNA_1|mobiistar LAI YUNA 1|
@@ -16111,6 +16119,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Qilive|Q9T10IN4G|Q9T10IN4G|Q9T10IN4G|
 |Qilive|Q9T7IN4G|Q9T7IN4G|Q9T7IN4G|
 |Qilive|Q9T9IN|Q9T9IN|Q9T9IN|
+|Qilive|QT19101|QT19101|QT19101|
 |Qilive|W55|W55|W55|
 |Qoobex|Qphone2019_A|Qphone2019_A|Qphone2019_A|
 |Qpad|XL PLUS|t591_hwd_q19_hiya_we|XL PLUS|
@@ -17517,6 +17526,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Note Pro 12.2|viennalteatt|SAMSUNG-SM-P907A|
 |Samsung|Galaxy Note Pro 12.2|viennaltekx|SM-P905F0|
 |Samsung|Galaxy Note Pro 12.2|viennaltevzw|SM-P905V|
+|Samsung|Galaxy Note10|d1|SM-N970F|
+|Samsung|Galaxy Note10|d1q|SM-N970U|
 |Samsung|Galaxy Note2|SC-02E|SC-02E|
 |Samsung|Galaxy Note2|t03g|GT-N7100|
 |Samsung|Galaxy Note2|t03g|GT-N7100T|
@@ -21907,6 +21918,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor X2|Armor_X2|Armor_X2|
 |Ulefone|Armor6|Armor_6|Armor_6|
 |Ulefone|Armor_3|Armor_3|Armor_3|
+|Ulefone|Armor_3WT|Armor_3WT|Armor_3WT|
 |Ulefone|Armor_5|Ulefone_Armor_5|Ulefone_Armor_5|
 |Ulefone|Armor_6E|Armor_6E|Armor_6E|
 |Ulefone|Armor_6S|Armor_6S|Armor_6S|

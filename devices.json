@@ -6756,6 +6756,12 @@
   "model": "ASANZO_S3_PLUS"
  },
  {
+  "brand": "Asanzo",
+  "name": "S6",
+  "device": "S6",
+  "model": "S6"
+ },
+ {
   "brand": "Ascom Wireless Solutions",
   "name": "Ascom Myco 2 Cellular",
   "device": "ACBB",
@@ -12154,6 +12160,12 @@
   "name": "Air-Lynx ALS14000",
   "device": "granite",
   "model": "Bittium Tough Mobile"
+ },
+ {
+  "brand": "Bittium",
+  "name": "Bittium Tough Mobile 2",
+  "device": "craton",
+  "model": "Bittium Tough Mobile 2"
  },
  {
   "brand": "Bittium",
@@ -25720,6 +25732,12 @@
   "name": "EV-A-81-8-1",
   "device": "EV-A-81-8-1",
   "model": "EV-A-81-8-1"
+ },
+ {
+  "brand": "Evoo",
+  "name": "EVM4G6",
+  "device": "EVM4G6",
+  "model": "EVM4G6"
  },
  {
   "brand": "Evoo",
@@ -51697,6 +51715,12 @@
  },
  {
   "brand": "INSYS",
+  "name": "HK9-K5023",
+  "device": "HK9-K5023",
+  "model": "HK9-K5023"
+ },
+ {
+  "brand": "INSYS",
   "name": "IH8-S559",
   "device": "IH8-S559",
   "model": "IH8-S559"
@@ -72216,6 +72240,12 @@
   "model": "Supernova_i216"
  },
  {
+  "brand": "Leotec",
+  "name": "mid1016_mk_64",
+  "device": "mid1016_mk_64",
+  "model": "Supernova"
+ },
+ {
   "brand": "Lephone",
   "name": "Lephone P2",
   "device": "lephone_P2AF",
@@ -73081,6 +73111,12 @@
  },
  {
   "brand": "Logicom",
+  "name": "La Tab 90",
+  "device": "La_Tab_90",
+  "model": "La_Tab_90"
+ },
+ {
+  "brand": "Logicom",
   "name": "La Tab Full HD",
   "device": "La_Tab_Full_HD",
   "model": "La Tab Full HD"
@@ -73096,6 +73132,12 @@
   "name": "LaTab109HD",
   "device": "LaTab109HD",
   "model": "La Tab 109 HD"
+ },
+ {
+  "brand": "Logicom",
+  "name": "La_Tab_105_P",
+  "device": "La_Tab_105_P",
+  "model": "La_Tab_105_P"
  },
  {
   "brand": "Logicom",
@@ -78488,6 +78530,12 @@
  {
   "brand": "Mobicell",
   "name": "ZOOM",
+  "device": "ZOOM",
+  "model": "ZOOM"
+ },
+ {
+  "brand": "Mobicell",
+  "name": "Zoom",
   "device": "ZOOM",
   "model": "ZOOM"
  },
@@ -96637,6 +96685,12 @@
  },
  {
   "brand": "Qilive",
+  "name": "QT19101",
+  "device": "QT19101",
+  "model": "QT19101"
+ },
+ {
+  "brand": "Qilive",
   "name": "W55",
   "device": "W55",
   "model": "W55"
@@ -105070,6 +105124,18 @@
   "name": "Galaxy Note Pro 12.2",
   "device": "viennaltevzw",
   "model": "SM-P905V"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Note10",
+  "device": "d1",
+  "model": "SM-N970F"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Note10",
+  "device": "d1q",
+  "model": "SM-N970U"
  },
  {
   "brand": "Samsung",
@@ -131410,6 +131476,12 @@
   "name": "Armor_3",
   "device": "Armor_3",
   "model": "Armor_3"
+ },
+ {
+  "brand": "Ulefone",
+  "name": "Armor_3WT",
+  "device": "Armor_3WT",
+  "model": "Armor_3WT"
  },
  {
   "brand": "Ulefone",
