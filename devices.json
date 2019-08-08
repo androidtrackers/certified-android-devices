@@ -2149,6 +2149,12 @@
  },
  {
   "brand": "Advan digital",
+  "name": "G2 Pro",
+  "device": "ADVAN_G2_Pro",
+  "model": "6004"
+ },
+ {
+  "brand": "Advan digital",
   "name": "G3",
   "device": "ADVAN_G3",
   "model": "6001"
@@ -25597,6 +25603,12 @@
  },
  {
   "brand": "Evertek",
+  "name": "M10",
+  "device": "M10",
+  "model": "M10"
+ },
+ {
+  "brand": "Evertek",
   "name": "V4",
   "device": "V4",
   "model": "EVERTEK V4"
@@ -25732,6 +25744,12 @@
   "name": "EV-A-81-8-1",
   "device": "EV-A-81-8-1",
   "model": "EV-A-81-8-1"
+ },
+ {
+  "brand": "Evoo",
+  "name": "EVM4G3",
+  "device": "EVM4G3",
+  "model": "EVM4G3"
  },
  {
   "brand": "Evoo",
@@ -31507,6 +31525,12 @@
  },
  {
   "brand": "Gtel",
+  "name": "Mx6",
+  "device": "Mx6",
+  "model": "Mx6"
+ },
+ {
+  "brand": "Gtel",
   "name": "X5",
   "device": "Gtel_X5",
   "model": "Gtel X5"
@@ -35995,6 +36019,12 @@
  },
  {
   "brand": "HTC",
+  "name": "Wildfire E",
+  "device": "Wildfire_E",
+  "model": "Wildfire E"
+ },
+ {
+  "brand": "HTC",
   "name": "Wildfire S",
   "device": "marvel",
   "model": "HTC Wildfire S"
@@ -36592,6 +36622,12 @@
   "name": "I50",
   "device": "i50_b1b8",
   "model": "I50"
+ },
+ {
+  "brand": "Haier",
+  "name": "I6_Infinity",
+  "device": "I6_Infinity",
+  "model": "I6_Infinity"
  },
  {
   "brand": "Haier",
@@ -51565,6 +51601,12 @@
  },
  {
   "brand": "INOI",
+  "name": "INOI 2 Lite 2019",
+  "device": "INOI_2_Lite_2019",
+  "model": "INOI 2 Lite 2019"
+ },
+ {
+  "brand": "INOI",
   "name": "INOI 2 Lite 4Gb",
   "device": "INOI_2_Lite_4Gb",
   "model": "INOI 2 Lite 4Gb"
@@ -60007,6 +60049,12 @@
  },
  {
   "brand": "LGE",
+  "name": "G8s",
+  "device": "betalm",
+  "model": "LM-G810"
+ },
+ {
+  "brand": "LGE",
   "name": "GA7800",
   "device": "eden",
   "model": "LG Android TV V4"
@@ -66022,6 +66070,12 @@
   "name": "V40 ThinQ",
   "device": "judypn",
   "model": "LM-V409N"
+ },
+ {
+  "brand": "LGE",
+  "name": "V50",
+  "device": "flashlm",
+  "model": "LM-V500XM"
  },
  {
   "brand": "LGE",
@@ -84079,6 +84133,12 @@
  },
  {
   "brand": "NYX Mobile",
+  "name": "ARGON",
+  "device": "ARGON",
+  "model": "ARGON"
+ },
+ {
+  "brand": "NYX Mobile",
   "name": "B1",
   "device": "B1",
   "model": "B1"
@@ -86368,6 +86428,12 @@
   "name": "P6S",
   "device": "P6S",
   "model": "P6S"
+ },
+ {
+  "brand": "Oale",
+  "name": "XS2_LTE",
+  "device": "XS2_LTE",
+  "model": "XS2_LTE"
  },
  {
   "brand": "Obi",
@@ -97008,6 +97074,12 @@
   "model": "RAVOZ_Z4"
  },
  {
+  "brand": "RAVOZ",
+  "name": "RAVOZ_Z6",
+  "device": "RAVOZ_Z6",
+  "model": "RAVOZ_Z6"
+ },
+ {
   "brand": "RCA",
   "name": "10 Viking",
   "device": "RCT6A03W13",
@@ -105135,7 +105207,79 @@
   "brand": "Samsung",
   "name": "Galaxy Note10",
   "device": "d1q",
+  "model": "SM-N9700"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Note10",
+  "device": "d1q",
   "model": "SM-N970U"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Note10",
+  "device": "d1q",
+  "model": "SM-N970U1"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Note10",
+  "device": "d1q",
+  "model": "SM-N970W"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Note10 5G",
+  "device": "d1x",
+  "model": "SM-N971N"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Note10+",
+  "device": "d2q",
+  "model": "SM-N9750"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Note10+",
+  "device": "d2q",
+  "model": "SM-N975U"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Note10+",
+  "device": "d2q",
+  "model": "SM-N975U1"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Note10+",
+  "device": "d2q",
+  "model": "SM-N975W"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Note10+",
+  "device": "d2s",
+  "model": "SM-N975F"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Note10+ 5G",
+  "device": "d2x",
+  "model": "SM-N976B"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Note10+ 5G",
+  "device": "d2x",
+  "model": "SM-N976N"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Note10+ 5G",
+  "device": "d2xq",
+  "model": "SM-N976V"
  },
  {
   "brand": "Samsung",
@@ -120157,6 +120301,12 @@
  },
  {
   "brand": "Sugar",
+  "name": "SUGAR_P11",
+  "device": "SUGAR_P11",
+  "model": "SUGAR_P11"
+ },
+ {
+  "brand": "Sugar",
   "name": "Sugar",
   "device": "s9121",
   "model": "SUGAR"
@@ -133729,6 +133879,12 @@
  },
  {
   "brand": "Vgo Tel",
+  "name": "Smart 7",
+  "device": "Smart_7",
+  "model": "Smart 7"
+ },
+ {
+  "brand": "Vgo Tel",
   "name": "VENTURE V12",
   "device": "Venture_V12",
   "model": "Venture V12"
@@ -136764,6 +136920,12 @@
   "model": "W7T3G19"
  },
  {
+  "brand": "Westinghouse",
+  "name": "W7TWF19",
+  "device": "W7TWF19",
+  "model": "W7TWF19"
+ },
+ {
   "brand": "Wexler",
   "name": "WLT710M",
   "device": "WLT710M",
@@ -137758,6 +137920,12 @@
   "name": "W_P200CM",
   "device": "W_P200CM",
   "model": "W_P200CM"
+ },
+ {
+  "brand": "Wiko",
+  "name": "Y50",
+  "device": "W-K130",
+  "model": "W-K130-OPE"
  },
  {
   "brand": "Wiko",
@@ -150460,6 +150628,12 @@
   "name": "F2_Plus",
   "device": "koobee_F2_Plus",
   "model": "F2_Plus"
+ },
+ {
+  "brand": "koobee",
+  "name": "K20",
+  "device": "koobee_K20",
+  "model": "K20"
  },
  {
   "brand": "koobee",
