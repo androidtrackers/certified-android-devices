@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-08-08
+Last sync is 2019-08-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -439,6 +439,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Airtab|AT8-N|AT8-N|AT8-N|
 |Airtel|HP2707|AirtelOTTBox|HP2707|
 |Airtel|SH960S-AT|ganesa|SH960S-AT|
+|Airtel|XStream Smart Box|hsw4026atl|XStream_Smart_Box_001|
+|Airtel|XStream Smart Box|hsw4026atl|hsw4026atl|
 |Aiuto|AT1001|AT1001|AT1001|
 |Aiuto|AT1002|AT1002|AT1002|
 |Aiuto|AT701|AT701|AT701|
@@ -1685,6 +1687,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|T7 3G|T7_3G|Azumi_T7_3G|
 |Azumi|V5+|AZUMI_V5PLUS_AC27|V5+|
 |Azumi|V54_AC24|Azumi_V54_AC24|V54|
+|BEISTA|K109|K109|K109|
 |BEISTA|X101|X101|X101|
 |BGH S.A.|BGH Joy 303|BGH_Joy_303|BGH Joy 303|
 |BKAV|B2017|B2017|B2017|
@@ -4098,6 +4101,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Elong Mobile|Y50|Y50|Y50|
 |Elong Mobile|Y50s|Y50s|Y50s|
 |Elsys|ETRI01|SEI103|ETRI01|
+|Elsys|ETRI02|tai|ETRI02|
 |Ematic|Cubby|SproutChannelCubby|SproutChannelCubby|
 |Ematic|EBM104JB|EBM104JB|EBM104JB|
 |Ematic|EGD078|EGD078|EGD078|
@@ -7450,6 +7454,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HONOR 8S|HWKSA-M|KSA-LX2|
 |Huawei|HONOR 8S|HWKSA-M|KSA-LX3|
 |Huawei|HONOR 8S|HWKSA-M|KSA-LX9|
+|Huawei|HONOR 9X|HWSTK-HF|STK-L22|
+|Huawei|HONOR 9X|HWSTK-HF|STK-LX1|
 |Huawei|HONOR V20|HWPCT|PCT-TL10|
 |Huawei|HONOR View20|HWPCT|PCT-AL10|
 |Huawei|HONOR View20|HWPCT|PCT-L29|
@@ -9281,6 +9287,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JP Sacouto|Verdite Hill|JP_MOVE_S101|Verdite Hill|
 |JP Sacouto|mymaga CLASS Plus 2|MG101A4T|mymaga CLASS Plus 2|
 |JVC||gener|RY-AP1|
+|JVC|4K_Edition|Android_TV_BOX|4K_Edition|
 |JVC|DM65UXR\\DM65USR\\DM85UXR|mstarnapoli_atsc|DM65UXR|
 |JVC|JVC J20|Cunda|J20|
 |JVL (Australia)|JVL070TAB812BLK|JVL070TAB812BLK|JVL070TAB812BLK|
@@ -11855,6 +11862,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M10 (HD)|TB-X505X|Lenovo TB-X505X|
 |Lenovo|Lenovo Tab M7|7305F|Lenovo TB-7305F|
 |Lenovo|Lenovo Tab M7|7305I|Lenovo TB-7305I|
+|Lenovo|Lenovo Tab M7|7305X|Lenovo TB-7305X|
 |Lenovo|Lenovo Tab P10|X705F|Lenovo TB-X705F|
 |Lenovo|Lenovo Tab P10|X705L|Lenovo TB-X705L|
 |Lenovo|Lenovo Tab V7|PB-6505M|Lenovo PB-6505M|
@@ -13730,6 +13738,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|Ms5|MTL-MS5|MS5|
 |Multilaser|Ms6|MS6|MS6|
 |Multilaser|Multilaser G Pro|Multilaser_G_Pro|Multilaser_G_Pro|
+|Multilaser|Multilaser_F|Multilaser_F|Multilaser_F|
 |My Go|GoTab GBT10|GBT10|GoTab_GBT10|
 |MyBox|MBIF-H533|DV8020|MBIF-H533|
 |MyFon|F3|F3|F3|
@@ -20859,6 +20868,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 3X|Venice|5048A|
 |TCT (Alcatel)|Alcatel 3X|Venice|5048I|
 |TCT (Alcatel)|Alcatel 3X|Venice|5048U|
+|TCT (Alcatel)|Alcatel 3X|Venice|5048Y|
+|TCT (Alcatel)|Alcatel 3X|Venice|5048Y_RU|
 |TCT (Alcatel)|Alcatel 5|A5A_INFINI|5086A|
 |TCT (Alcatel)|Alcatel 5|A5A_INFINI|5086Y|
 |TCT (Alcatel)|Alcatel 5V|A5X|5060A|
@@ -23586,6 +23597,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|B860H|B860H_V1|B860H|
 |ZTE|B860H|B860H_V1|B860H V1.0|
 |ZTE|B860H|B860H_V1|B860H V1.1|
+|ZTE|B866|B866_ZTE|B866|
 |ZTE|B880|P635N30|ZTE B880|
 |ZTE|B880|S_P635N30|ZTE B880|
 |ZTE|BA510|P635T39|ZTE BA510|
@@ -25154,6 +25166,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |tecmobile|OmnisOne|OmnisOne|Omnis One|
 |truevisions|N9106H-B|HB_N9106H_B_truevisions|N9106H-B|
 |truevisions|N9106H-C|HB_N9106H_C_truevisions|N9106H-C|
+|truevisions|True|TrueHPH07|HPH07|
 |ucall|EASY1|EASY1|EASY1|
 |unitel|P45|P45|P45|
 |unitel|U901|U901|U901|

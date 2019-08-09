@@ -2604,6 +2604,18 @@
   "model": "SH960S-AT"
  },
  {
+  "brand": "Airtel",
+  "name": "XStream Smart Box",
+  "device": "hsw4026atl",
+  "model": "XStream_Smart_Box_001"
+ },
+ {
+  "brand": "Airtel",
+  "name": "XStream Smart Box",
+  "device": "hsw4026atl",
+  "model": "hsw4026atl"
+ },
+ {
   "brand": "Aiuto",
   "name": "AT1001",
   "device": "AT1001",
@@ -10078,6 +10090,12 @@
   "name": "V54_AC24",
   "device": "Azumi_V54_AC24",
   "model": "V54"
+ },
+ {
+  "brand": "BEISTA",
+  "name": "K109",
+  "device": "K109",
+  "model": "K109"
  },
  {
   "brand": "BEISTA",
@@ -24556,6 +24574,12 @@
   "name": "ETRI01",
   "device": "SEI103",
   "model": "ETRI01"
+ },
+ {
+  "brand": "Elsys",
+  "name": "ETRI02",
+  "device": "tai",
+  "model": "ETRI02"
  },
  {
   "brand": "Ematic",
@@ -44671,6 +44695,18 @@
  },
  {
   "brand": "Huawei",
+  "name": "HONOR 9X",
+  "device": "HWSTK-HF",
+  "model": "STK-L22"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HONOR 9X",
+  "device": "HWSTK-HF",
+  "model": "STK-LX1"
+ },
+ {
+  "brand": "Huawei",
   "name": "HONOR V20",
   "device": "HWPCT",
   "model": "PCT-TL10"
@@ -55654,6 +55690,12 @@
   "name": "",
   "device": "gener",
   "model": "RY-AP1"
+ },
+ {
+  "brand": "JVC",
+  "name": "4K_Edition",
+  "device": "Android_TV_BOX",
+  "model": "4K_Edition"
  },
  {
   "brand": "JVC",
@@ -71101,6 +71143,12 @@
  },
  {
   "brand": "Lenovo",
+  "name": "Lenovo Tab M7",
+  "device": "7305X",
+  "model": "Lenovo TB-7305X"
+ },
+ {
+  "brand": "Lenovo",
   "name": "Lenovo Tab P10",
   "device": "X705F",
   "model": "Lenovo TB-X705F"
@@ -82348,6 +82396,12 @@
   "name": "Multilaser G Pro",
   "device": "Multilaser_G_Pro",
   "model": "Multilaser_G_Pro"
+ },
+ {
+  "brand": "Multilaser",
+  "name": "Multilaser_F",
+  "device": "Multilaser_F",
+  "model": "Multilaser_F"
  },
  {
   "brand": "My Go",
@@ -125125,6 +125179,18 @@
  },
  {
   "brand": "TCT (Alcatel)",
+  "name": "Alcatel 3X",
+  "device": "Venice",
+  "model": "5048Y"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 3X",
+  "device": "Venice",
+  "model": "5048Y_RU"
+ },
+ {
+  "brand": "TCT (Alcatel)",
   "name": "Alcatel 5",
   "device": "A5A_INFINI",
   "model": "5086A"
@@ -141487,6 +141553,12 @@
  },
  {
   "brand": "ZTE",
+  "name": "B866",
+  "device": "B866_ZTE",
+  "model": "B866"
+ },
+ {
+  "brand": "ZTE",
   "name": "B880",
   "device": "P635N30",
   "model": "ZTE B880"
@@ -150892,6 +150964,12 @@
   "name": "N9106H-C",
   "device": "HB_N9106H_C_truevisions",
   "model": "N9106H-C"
+ },
+ {
+  "brand": "truevisions",
+  "name": "True",
+  "device": "TrueHPH07",
+  "model": "HPH07"
  },
  {
   "brand": "ucall",
