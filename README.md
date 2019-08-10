@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-08-09
+Last sync is 2019-08-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8928,6 +8928,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Innjoo|Max3 LTE|Max3_LTE|Max3_LTE|
 |Innjoo|Superb|Superb|Superb|
 |Innjoo|VISION LTE|VISION_LTE|VISION LTE|
+|Innopia|IMTCTATV01|IMTCTATV01|IMTCTATV01|
 |Inovacel|INOVACEL S24|S24|S24|
 |Insignia|FLEX 8\xe2\x80\x99\xe2\x80\x99 LTE Android Tablet|ns_15t8lte|NS-15T8LTE|
 |Insignia|Flex 10.1|ns_14t004|NS-14T004|
