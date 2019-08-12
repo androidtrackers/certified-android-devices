@@ -11155,6 +11155,12 @@
  },
  {
   "brand": "BQru",
+  "name": "BQ-5730L",
+  "device": "BQru-5730L",
+  "model": "BQ-5730L"
+ },
+ {
+  "brand": "BQru",
   "name": "BQ-6000L Aurora",
   "device": "BQru-6000L",
   "model": "BQ-6000L"
@@ -16843,6 +16849,12 @@
  },
  {
   "brand": "Cipherlab",
+  "name": "CipherLab RK25",
+  "device": "RK25",
+  "model": "RK25"
+ },
+ {
+  "brand": "Cipherlab",
   "name": "Hera51",
   "device": "Hera51",
   "model": "Hera51"
@@ -20308,6 +20320,12 @@
   "name": "E180",
   "device": "E180",
   "model": "E180"
+ },
+ {
+  "brand": "DEXP",
+  "name": "E210",
+  "device": "E210",
+  "model": "E210"
  },
  {
   "brand": "DEXP",
@@ -50065,6 +50083,18 @@
  },
  {
   "brand": "Huawei",
+  "name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab10 Plus",
+  "device": "HWSTK-HF",
+  "model": "STK-AL00"
+ },
+ {
+  "brand": "Huawei",
+  "name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab10 Plus",
+  "device": "HWSTK-HF",
+  "model": "STK-TL00"
+ },
+ {
+  "brand": "Huawei",
   "name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab6",
   "device": "HWNCE-L6750",
   "model": "NCE-AL00"
@@ -57184,6 +57214,12 @@
   "name": "K30M",
   "device": "K30M",
   "model": "K30M"
+ },
+ {
+  "brand": "Kenxinda",
+  "name": "Nitro_55R",
+  "device": "Nitro_55R",
+  "model": "Nitro_55R"
  },
  {
   "brand": "Kenxinda",
@@ -86314,6 +86350,12 @@
   "name": "PI Plus",
   "device": "PI_Plus",
   "model": "PI Plus"
+ },
+ {
+  "brand": "ONDA TLC",
+  "name": "T7 Pro",
+  "device": "T7_PRO",
+  "model": "T7_PRO"
  },
  {
   "brand": "ONYX",
@@ -115466,6 +115508,12 @@
  {
   "brand": "Sky Devices",
   "name": "Elite Go",
+  "device": "Elite_Go",
+  "model": "Elite Go"
+ },
+ {
+  "brand": "Sky Devices",
+  "name": "Elite Go",
   "device": "Elite_Go_HN",
   "model": "Elite Go"
  },
@@ -136651,6 +136699,12 @@
  },
  {
   "brand": "Walton",
+  "name": "Primo H8 Pro",
+  "device": "Primo_H8_Pro",
+  "model": "Primo H8 Pro"
+ },
+ {
+  "brand": "Walton",
   "name": "Primo HM4",
   "device": "Primo_HM4",
   "model": "Primo HM4"
@@ -150364,6 +150418,12 @@
   "name": "N6",
   "device": "N6",
   "model": "N6"
+ },
+ {
+  "brand": "iQandT",
+  "name": "N8",
+  "device": "iQT_N8",
+  "model": "iQ&T N8"
  },
  {
   "brand": "iRainbow",

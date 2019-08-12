@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-08-11
+Last sync is 2019-08-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1864,6 +1864,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-5700L Space X|BQru-5700L|BQ-5700L|
 |BQru|BQ-5702|BQru_5702|BQ-5702|
 |BQru|BQ-5707G Next Music|BQru-5707G|BQ-5707G|
+|BQru|BQ-5730L|BQru-5730L|BQ-5730L|
 |BQru|BQ-6000L Aurora|BQru-6000L|BQ-6000L|
 |BQru|BQ-6001 L|BQru-6001L|BQ-6001L|
 |BQru|BQ-6010G|BQru_6010G|BQ-6010G|
@@ -2812,6 +2813,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Chuwi|CHUWI|Hi9Air|Hi9Air|
 |Chuwi|Hi9|Hi9|Hi9|
 |Chuwi|Hi9Pro|Hi9Pro|Hi9Pro|
+|Cipherlab|CipherLab RK25|RK25|RK25|
 |Cipherlab|Hera51|Hera51|Hera51|
 |Cipherlab|RK25|RK25|RK25|
 |Cipherlab|RK25WO|RK25WO|RK25WO|
@@ -3390,6 +3392,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|E110|E110|E110|
 |DEXP|E170|E170|E170|
 |DEXP|E180|E180|E180|
+|DEXP|E210|E210|E210|
 |DEXP|EL450|EL450|Ixion EL450|
 |DEXP|ERA|G155|G155|
 |DEXP|ERA|MS550|MS550|
@@ -8349,6 +8352,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab 9e|HWMRD-M|MRD-TL00|
 |Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab MAX|HWARS-Q|ARS-AL00|
 |Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab MAX|HWARS-Q|ARS-TL00|
+|Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab10 Plus|HWSTK-HF|STK-AL00|
+|Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab10 Plus|HWSTK-HF|STK-TL00|
 |Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab6|HWNCE-L6750|NCE-AL00|
 |Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab6|HWNCE-L6750|NCE-AL10|
 |Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe7\x95\x85\xe4\xba\xab6|HWNCE-L6750|NCE-TL10|
@@ -9536,6 +9541,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kenxinda|K10|K10|K10|
 |Kenxinda|K20M|K20M|K20M|
 |Kenxinda|K30M|K30M|K30M|
+|Kenxinda|Nitro_55R|Nitro_55R|Nitro_55R|
 |Kenxinda|T50|T50|T50|
 |Kenxinda|T50Y|T50Y|T50Y|
 |Kenxinda|T55|T55|T55|
@@ -14391,6 +14397,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ODYS|XELIO_HD10|XELIO_HD10|XELIO_HD10|
 |ODYS|\xc2\xa0FALCON_10_PLUS_3G|FALCON_10_PLUS_3G|FALCON_10_PLUS_3G|
 |OKWU|PI Plus|PI_Plus|PI Plus|
+|ONDA TLC|T7 Pro|T7_PRO|T7_PRO|
 |ONYX|AKA Model A|Model_A|Model A|
 |ONYX|QuartzT10-3|QuartzT10-3|QuartzT10-3|
 |OTHO|T1|T1|T1|
@@ -19249,6 +19256,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|Elite 5T|Elite_5T_GT|Elite 5T|
 |Sky Devices|Elite A55|Elite_A55|Elite_A55|
 |Sky Devices|Elite B5|Elite_B5|Elite_B5|
+|Sky Devices|Elite Go|Elite_Go|Elite Go|
 |Sky Devices|Elite Go|Elite_Go_HN|Elite Go|
 |Sky Devices|Elite Go|Elite_Go_SV|Elite Go|
 |Sky Devices|Elite M45|Elite_M45|Elite M45|
@@ -22780,6 +22788,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|Primo H6+|Primo_H6_Plus|Primo H6 Plus|
 |Walton|Primo H7|Primo_H7|Primo H7|
 |Walton|Primo H7s|Primo_H7s|Primo H7s|
+|Walton|Primo H8 Pro|Primo_H8_Pro|Primo H8 Pro|
 |Walton|Primo HM4|Primo_HM4|Primo HM4|
 |Walton|Primo HM4+|Primo_HM4_PLUS|Primo HM4+|
 |Walton|Primo HM4i|Primo_HM4i|Primo HM4i|
@@ -25066,6 +25075,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iQandT|G3|G3|G3|
 |iQandT|N3|N3|N3|
 |iQandT|N6|N6|N6|
+|iQandT|N8|iQT_N8|iQ&T N8|
 |iRainbow|B12017|B12017|B12017|
 |iReplace|Frog One|FrogOne|FrogOne|
 |iRiver||smdkc110|ILT-MX100|
