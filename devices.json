@@ -2839,6 +2839,12 @@
  },
  {
   "brand": "Aligator",
+  "name": "ALIGATOR S5520",
+  "device": "ALIGATOR_S5520",
+  "model": "ALIGATOR_S5520"
+ },
+ {
+  "brand": "Aligator",
   "name": "ALIGATOR S6000",
   "device": "ALIGATOR_S6000",
   "model": "ALIGATOR S6000"
@@ -9721,6 +9727,12 @@
  },
  {
   "brand": "Azumi",
+  "name": "A4_AC19",
+  "device": "Azumi_A4_AC19",
+  "model": "A4"
+ },
+ {
+  "brand": "Azumi",
   "name": "A50 Style Plus",
   "device": "A50_Style_Plus",
   "model": "A50_Style_Plus"
@@ -9841,6 +9853,12 @@
  },
  {
   "brand": "Azumi",
+  "name": "Azumi Kirei A5Q Plus",
+  "device": "Azumi_KIREI_A5Q_PLUS_AC11",
+  "model": "KIREI A5Q PLUS"
+ },
+ {
+  "brand": "Azumi",
   "name": "Azumi V54",
   "device": "Azumi_V54_AC01",
   "model": "V54"
@@ -9889,6 +9907,12 @@
  },
  {
   "brand": "Azumi",
+  "name": "Azumi_KIREI_A5Q_PLUS_AC06",
+  "device": "Azumi_KIREI_A5Q_PLUS_AC06",
+  "model": "KIREI A5Q PLUS"
+ },
+ {
+  "brand": "Azumi",
   "name": "Azumi_KIREI_A5_D",
   "device": "KIREI_A5_D",
   "model": "Azumi_KIREI_A5_D"
@@ -9904,6 +9928,12 @@
   "name": "Azumi_V54_MB",
   "device": "Azumi_V54_MB",
   "model": "V54"
+ },
+ {
+  "brand": "Azumi",
+  "name": "Azumi_V5PLUS_AC24",
+  "device": "Azumi_V5PLUS_AC24",
+  "model": "V5+"
  },
  {
   "brand": "Azumi",
@@ -10042,6 +10072,12 @@
   "name": "KIREI A5Q PLUS",
   "device": "Azumi_KIREI_A5Q_PLUS_AC11",
   "model": "KIREI A5Q PLUS"
+ },
+ {
+  "brand": "Azumi",
+  "name": "M5PLUS_AC24",
+  "device": "Azumi_M5PLUS_AC24",
+  "model": "M5+"
  },
  {
   "brand": "Azumi",
@@ -10402,6 +10438,12 @@
   "name": "AX1091",
   "device": "Bmobile_AX1091A",
   "model": "AX1091"
+ },
+ {
+  "brand": "BMobile",
+  "name": "AX1092",
+  "device": "Bmobile_AX1092W",
+  "model": "AX1092"
  },
  {
   "brand": "BMobile",
@@ -12006,6 +12048,12 @@
   "model": "WIN"
  },
  {
+  "brand": "Bible-Pad",
+  "name": "Bible-Pad",
+  "device": "BTAB-7Q2",
+  "model": "BTAB-7Q2"
+ },
+ {
   "brand": "Bigben",
   "name": "BB8252",
   "device": "Bigben-TAB",
@@ -13027,6 +13075,12 @@
  },
  {
   "brand": "Blu",
+  "name": "A-200",
+  "device": "A200",
+  "model": "A200"
+ },
+ {
+  "brand": "Blu",
   "name": "A200",
   "device": "A200",
   "model": "A200"
@@ -13162,6 +13216,12 @@
   "name": "BLU_Vivo_XL2",
   "device": "BLU_Vivo_XL2",
   "model": "Vivo XL2"
+ },
+ {
+  "brand": "Blu",
+  "name": "BOLD N1",
+  "device": "N0030WW",
+  "model": "BOLD N1"
  },
  {
   "brand": "Blu",
@@ -13438,6 +13498,12 @@
   "name": "G9",
   "device": "G0130WW",
   "model": "G9"
+ },
+ {
+  "brand": "Blu",
+  "name": "G9 PRO",
+  "device": "G0230WW",
+  "model": "G9 PRO"
  },
  {
   "brand": "Blu",
@@ -16573,6 +16639,12 @@
  },
  {
   "brand": "Cherry Mobile",
+  "name": "Flare S8",
+  "device": "X930",
+  "model": "Flare S8"
+ },
+ {
+  "brand": "Cherry Mobile",
   "name": "Flare X",
   "device": "Flare_X",
   "model": "Flare_X_V2"
@@ -16750,6 +16822,12 @@
   "name": "Omega Lite 4s",
   "device": "Omega_Lite_4s",
   "model": "Omega Lite 4s"
+ },
+ {
+  "brand": "Cherry Mobile",
+  "name": "Omega X",
+  "device": "X960",
+  "model": "Omega X"
  },
  {
   "brand": "Cherry Mobile",
@@ -23980,6 +24058,12 @@
   "name": "PIXBA2019",
   "device": "PIXBA2019",
   "model": "PIXBA2019"
+ },
+ {
+  "brand": "ENDO Lighting",
+  "name": "FX_438N",
+  "device": "FX_438N",
+  "model": "FX-438N"
  },
  {
   "brand": "ENIE",
@@ -52123,6 +52207,12 @@
  },
  {
   "brand": "Inco",
+  "name": "Colossus_4",
+  "device": "Colossus_4",
+  "model": "Colossus_4"
+ },
+ {
+  "brand": "Inco",
   "name": "Flex-3",
   "device": "Flex-3",
   "model": "Flex-3"
@@ -57850,6 +57940,12 @@
   "name": "SKY",
   "device": "SKY",
   "model": "SKY"
+ },
+ {
+  "brand": "Krono",
+  "name": "kIDS_FIVE",
+  "device": "KIDS_FIVE",
+  "model": "KIDS_FIVE"
  },
  {
   "brand": "Kruger&Matz",
@@ -81996,6 +82092,12 @@
   "model": "M9102B"
  },
  {
+  "brand": "Movitel",
+  "name": "M9103",
+  "device": "M9103",
+  "model": "M9103"
+ },
+ {
   "brand": "Moxee Technologies",
   "name": "X10",
   "device": "X10",
@@ -82042,6 +82144,12 @@
   "name": "MPQC10",
   "device": "MPQC10",
   "model": "MPQC10"
+ },
+ {
+  "brand": "Mpman",
+  "name": "MPQC_9",
+  "device": "MPQC_9",
+  "model": "MPQC_9"
  },
  {
   "brand": "Mpman",
@@ -84480,6 +84588,12 @@
   "model": "T500 3G"
  },
  {
+  "brand": "Navitel",
+  "name": "T700_3G_Pro",
+  "device": "T700_3G_Pro",
+  "model": "NAVITEL T700 3G PRO"
+ },
+ {
   "brand": "Navon",
   "name": "D455",
   "device": "D455",
@@ -86782,6 +86896,12 @@
   "name": "100005207",
   "device": "100005207",
   "model": "100005207"
+ },
+ {
+  "brand": "Onn (Walmart)",
+  "name": "100005208",
+  "device": "100005208",
+  "model": "100005208"
  },
  {
   "brand": "Onn (Walmart)",
@@ -89542,6 +89662,12 @@
   "name": "WP5000",
   "device": "WP5000",
   "model": "WP5000"
+ },
+ {
+  "brand": "Oukitel",
+  "name": "Y4800",
+  "device": "Y4800",
+  "model": "Y4800"
  },
  {
   "brand": "Overmax",
@@ -97561,6 +97687,12 @@
  },
  {
   "brand": "RCA",
+  "name": "RCT6873W42BMF9A",
+  "device": "RCT6873W42BMF9A",
+  "model": "RCT6873W42BMF9A"
+ },
+ {
+  "brand": "RCA",
   "name": "RCT6873W42M",
   "device": "RCT6873W42M",
   "model": "RCT6873W42M"
@@ -97786,6 +97918,12 @@
   "name": "MX702M1",
   "device": "MX702M1",
   "model": "MX702M1"
+ },
+ {
+  "brand": "Red Mobile",
+  "name": "Quick_5_0",
+  "device": "Quick_5_0",
+  "model": "Quick 5.0"
  },
  {
   "brand": "Red-X",
@@ -119478,6 +119616,12 @@
   "model": "a4"
  },
  {
+  "brand": "SoyMomo",
+  "name": "S8-RK3368",
+  "device": "S8-RK3368",
+  "model": "S8-RK3368"
+ },
+ {
   "brand": "SpectraPrecision",
   "name": "Ranger 5 Handheld",
   "device": "workhorse_wifi",
@@ -120595,6 +120739,12 @@
  },
  {
   "brand": "Symphony",
+  "name": "E95",
+  "device": "E95",
+  "model": "E95"
+ },
+ {
+  "brand": "Symphony",
   "name": "G100",
   "device": "G100",
   "model": "Symphony G100"
@@ -121180,6 +121330,12 @@
   "name": "TCL C9",
   "device": "Venice",
   "model": "5148A"
+ },
+ {
+  "brand": "TCL",
+  "name": "TCL C9 Plus",
+  "device": "Venice",
+  "model": "5148I"
  },
  {
   "brand": "TCL",
@@ -123112,6 +123268,12 @@
   "name": "ALCATEL 1T 10",
   "device": "U3A_10_WIFI",
   "model": "8082"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "ALCATEL 1T 7",
+  "device": "U3A_7_3G",
+  "model": "9009A"
  },
  {
   "brand": "TCT (Alcatel)",
@@ -125236,6 +125398,12 @@
   "name": "Alcatel 3X",
   "device": "Venice",
   "model": "5048Y"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 3X",
+  "device": "Venice",
+  "model": "5048Y_EEA"
  },
  {
   "brand": "TCT (Alcatel)",
@@ -131185,6 +131353,12 @@
  },
  {
   "brand": "Trifone",
+  "name": "T-FASHION",
+  "device": "T-FASHION",
+  "model": "T-FASHION"
+ },
+ {
+  "brand": "Trifone",
   "name": "TRI_POWER",
   "device": "TRIFONE_TRI_POWER",
   "model": "TRI_POWER"
@@ -131194,18 +131368,6 @@
   "name": "Trifone_X7",
   "device": "Trifone_X7",
   "model": "Trifone_X7"
- },
- {
-  "brand": "Trimble Navigation",
-  "name": "E7167",
-  "device": "E7167",
-  "model": "MobileMapper60"
- },
- {
-  "brand": "Trimble Navigation",
-  "name": "E7167",
-  "device": "E7167",
-  "model": "TDC600"
  },
  {
   "brand": "Trimble Navigation",
@@ -131272,6 +131434,18 @@
   "name": "TDC500 Handheld",
   "device": "workhorse_wifi",
   "model": "TDC500"
+ },
+ {
+  "brand": "Trimble Navigation",
+  "name": "TDC600/MM60",
+  "device": "E7167",
+  "model": "MobileMapper60"
+ },
+ {
+  "brand": "Trimble Navigation",
+  "name": "TDC600/MM60",
+  "device": "E7167",
+  "model": "TDC600"
  },
  {
   "brand": "Trimble Navigation",
@@ -137044,6 +137218,12 @@
   "name": "W7T3G19",
   "device": "W7T3G19",
   "model": "W7T3G19"
+ },
+ {
+  "brand": "Westinghouse",
+  "name": "W7TBL19",
+  "device": "W7TBL19",
+  "model": "W7TBL19"
  },
  {
   "brand": "Westinghouse",
@@ -148990,6 +149170,12 @@
   "name": "Z1",
   "device": "Z1",
   "model": "Z1"
+ },
+ {
+  "brand": "Zonko",
+  "name": "K78",
+  "device": "K78",
+  "model": "K78"
  },
  {
   "brand": "Zoom",
