@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-08-13
+Last sync is 2019-08-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1651,9 +1651,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|Azumi V54|Azumi_V54_AC01|V54|
 |Azumi|Azumi V54|Azumi_V54_AC23|V54|
 |Azumi|Azumi_ V5_ AC05|Azumi_V5_AC05|V5|
+|Azumi|Azumi_A4PLUS_AC11|Azumi_A4PLUS_AC11|Azumi A4+|
+|Azumi|Azumi_A5_AC15|Azumi_A5_AC15|A5|
 |Azumi|Azumi_AKANE|Azumi_AKANE|Azumi AKANE|
 |Azumi|Azumi_Extend_Akaru_55_QL|Extend_Akaru_55_QL|Azumi Extend Akaru 55 QL|
 |Azumi|Azumi_IKU_A55_MB|Azumi_IKU_A55_MB|IKU A55|
+|Azumi|Azumi_K55QL_AC04|Azumi_K55QL_AC04|Azumi K55QL|
 |Azumi|Azumi_KIREI_A45_D|KIREI_A45_D|Azumi_KIREI_A45_D|
 |Azumi|Azumi_KIREI_A4_D|KIREI_A4_D|Azumi_KIREI_A4_D|
 |Azumi|Azumi_KIREI_A5Q_PLUS_AC06|Azumi_KIREI_A5Q_PLUS_AC06|KIREI A5Q PLUS|
@@ -2127,6 +2130,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|BV5800PRO|BV5800_PRO|BV5800 PRO|
 |Blackview|BV5800PRO_RU|BV5800Pro_RU|BV5800Pro_RU|
 |Blackview|BV5800_RU|BV5800_RU|BV5800_RU|
+|Blackview|BV5900|BV5900|BV5900|
 |Blackview|BV6000|Blackview|BV6000|
 |Blackview|BV6000|SOLID_4G1|SOLID_4G1|
 |Blackview|BV6000S_RU|BV6000S_RU|BV6000S_RU|
@@ -2602,6 +2606,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Casper|VIA_F3|VIA_F3|VIA_F3|
 |Casper|VIA_M4|VIA_M4|VIA_M4|
 |Casper|VIA_P2|VIA_P2|VIA_P2|
+|Casper|VIA_S|VIA_S|VIA_S|
 |Casper|VIA_S10|VIA_S10|VIA_S10|
 |Casper|VIA_S17|VIA_S17|VIA_S17|
 |Casper|VIA_S18|VIA_S18|VIA_S18|
@@ -3029,6 +3034,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Condor|Plume L2|Plume_L2|Plume L2|
 |Condor|Plume L2 Pro|Plume_L2_Pro|Plume L2 Pro|
 |Condor|Plume L3|Plume_L3|Plume L3|
+|Condor|Plume L4|Plume_L4|Plume L4|
+|Condor|Plume L4 Pro|Plume_L4_Pro|Plume L4 Pro|
 |Condor|Plume P4 Plus|PGN527|PGN527|
 |Condor|Plume P6 Pro LTE|PGN528|PGN528|
 |Condor|Plume P8 Lite|PGN610|PGN610|
@@ -4929,6 +4936,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ghia|GTKIDS7V8|GTKIDS7V8|GTKIDS7V8|
 |Ghia|I1|I1|I1|
 |Ghia|TREO_TAB8G|TREO_TAB8G|TREO_TAB8G|
+|Ghia|VECTOR10.1|VECTOR10_1|VECTOR10.1|
 |Ghia|VECTOR10Plus|VECTOR10Plus|VECTOR10Plus|
 |Ghia|VECTOR_SLIM2|VECTOR_SLIM2|VECTOR_SLIM2|
 |Ghia|ZEUS 3G|N2|GHIA_ZEUS_3G|
@@ -5175,6 +5183,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Go Mobile|GO1402S|GO1402S|GO1402S|
 |Go Mobile|GO1452|GO1452|GO1452|
 |Go Mobile|GO404|GO404|GO404|
+|Go Mobile|X1|X1|X1|
 |GoClever|INSIGNIA 550i|INSIGNIA_550i|INSIGNIA_550i|
 |GoClever|QUANTUM 1010N|QUANTUM_1010N|QUANTUM_1010N|
 |GoClever|QUANTUM 400 LITE|QUANTUM_400_LITE|QUANTUM_400_LITE|
@@ -7531,9 +7540,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI P30|HWELE|ELE-TL00|
 |Huawei|HUAWEI P30 lite|HWMAR|HWV33|
 |Huawei|HUAWEI P30 lite|HWMAR|MAR-LX1A|
+|Huawei|HUAWEI P30 lite|HWMAR|MAR-LX1Am|
+|Huawei|HUAWEI P30 lite|HWMAR|MAR-LX1B|
 |Huawei|HUAWEI P30 lite|HWMAR|MAR-LX1M|
+|Huawei|HUAWEI P30 lite|HWMAR|MAR-LX1Mm|
 |Huawei|HUAWEI P30 lite|HWMAR|MAR-LX2|
+|Huawei|HUAWEI P30 lite|HWMAR|MAR-LX2B|
+|Huawei|HUAWEI P30 lite|HWMAR|MAR-LX2m|
 |Huawei|HUAWEI P30 lite|HWMAR|MAR-LX3A|
+|Huawei|HUAWEI P30 lite|HWMAR|MAR-LX3Am|
+|Huawei|HUAWEI P30 lite|HWMAR|MAR-LX3Bm|
 |Huawei|HUAWEI P9 lite mini|HWSLA-Q|SLA-L02|
 |Huawei|HUAWEI P9 lite mini|HWSLA-Q|SLA-L22|
 |Huawei|HUAWEI P9 lite mini|HWSLA-Q|SLA-L23|
@@ -7591,6 +7607,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI nova 2 Plus|HWBAC|BAC-L21|
 |Huawei|HUAWEI nova 2 Plus|HWBAC|BAC-L22|
 |Huawei|HUAWEI nova 2 lite|HWLDN-Q|LDN-LX2|
+|Huawei|HUAWEI nova 5T|HWYAL|YAL-L21|
 |Huawei|HUAWEI nova lite 2|HWFIG-H|704HW|
 |Huawei|HUAWEI nova lite 3|HWPOT-H|POT-LX2J|
 |Huawei|HUAWEI nova lite for Y!mobile|HWPRA-H|608HW|
@@ -13882,6 +13899,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Myphone|myT5 DTV|myT5_DTV|myT5 DTV|
 |Myphone|myT6 DTV|myT6_DTV|myT6 DTV|
 |Myphone|myX1|MY807|MY807|
+|Myphone|myX12|myX12|myX12|
 |Myphone|myX2|myX2|myX2|
 |Myphone|myX3|MYX3|MYX3|
 |Myphone|myX5|myX5|myX5|
@@ -16173,6 +16191,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Qoobex|Qphone2019_A|Qphone2019_A|Qphone2019_A|
 |Qpad|XL PLUS|t591_hwd_q19_hiya_we|XL PLUS|
 |Qsmart|LT950|LT950|LT950|
+|Qsmart|View|View|View|
 |Qtouch|Q01A|Q01A|Q01A|
 |Qtouch|Q05A|Q05A|Q05A|
 |Qtouch|QS701|QS701|QS701|

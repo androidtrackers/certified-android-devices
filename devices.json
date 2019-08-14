@@ -9877,6 +9877,18 @@
  },
  {
   "brand": "Azumi",
+  "name": "Azumi_A4PLUS_AC11",
+  "device": "Azumi_A4PLUS_AC11",
+  "model": "Azumi A4+"
+ },
+ {
+  "brand": "Azumi",
+  "name": "Azumi_A5_AC15",
+  "device": "Azumi_A5_AC15",
+  "model": "A5"
+ },
+ {
+  "brand": "Azumi",
   "name": "Azumi_AKANE",
   "device": "Azumi_AKANE",
   "model": "Azumi AKANE"
@@ -9892,6 +9904,12 @@
   "name": "Azumi_IKU_A55_MB",
   "device": "Azumi_IKU_A55_MB",
   "model": "IKU A55"
+ },
+ {
+  "brand": "Azumi",
+  "name": "Azumi_K55QL_AC04",
+  "device": "Azumi_K55QL_AC04",
+  "model": "Azumi K55QL"
  },
  {
   "brand": "Azumi",
@@ -12730,6 +12748,12 @@
   "name": "BV5800_RU",
   "device": "BV5800_RU",
   "model": "BV5800_RU"
+ },
+ {
+  "brand": "Blackview",
+  "name": "BV5900",
+  "device": "BV5900",
+  "model": "BV5900"
  },
  {
   "brand": "Blackview",
@@ -15583,6 +15607,12 @@
  },
  {
   "brand": "Casper",
+  "name": "VIA_S",
+  "device": "VIA_S",
+  "model": "VIA_S"
+ },
+ {
+  "brand": "Casper",
   "name": "VIA_S10",
   "device": "VIA_S10",
   "model": "VIA_S10"
@@ -18142,6 +18172,18 @@
   "name": "Plume L3",
   "device": "Plume_L3",
   "model": "Plume L3"
+ },
+ {
+  "brand": "Condor",
+  "name": "Plume L4",
+  "device": "Plume_L4",
+  "model": "Plume L4"
+ },
+ {
+  "brand": "Condor",
+  "name": "Plume L4 Pro",
+  "device": "Plume_L4_Pro",
+  "model": "Plume L4 Pro"
  },
  {
   "brand": "Condor",
@@ -29545,6 +29587,12 @@
  },
  {
   "brand": "Ghia",
+  "name": "VECTOR10.1",
+  "device": "VECTOR10_1",
+  "model": "VECTOR10.1"
+ },
+ {
+  "brand": "Ghia",
   "name": "VECTOR10Plus",
   "device": "VECTOR10Plus",
   "model": "VECTOR10Plus"
@@ -31018,6 +31066,12 @@
   "name": "GO404",
   "device": "GO404",
   "model": "GO404"
+ },
+ {
+  "brand": "Go Mobile",
+  "name": "X1",
+  "device": "X1",
+  "model": "X1"
  },
  {
   "brand": "GoClever",
@@ -45159,7 +45213,25 @@
   "brand": "Huawei",
   "name": "HUAWEI P30 lite",
   "device": "HWMAR",
+  "model": "MAR-LX1Am"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HUAWEI P30 lite",
+  "device": "HWMAR",
+  "model": "MAR-LX1B"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HUAWEI P30 lite",
+  "device": "HWMAR",
   "model": "MAR-LX1M"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HUAWEI P30 lite",
+  "device": "HWMAR",
+  "model": "MAR-LX1Mm"
  },
  {
   "brand": "Huawei",
@@ -45171,7 +45243,31 @@
   "brand": "Huawei",
   "name": "HUAWEI P30 lite",
   "device": "HWMAR",
+  "model": "MAR-LX2B"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HUAWEI P30 lite",
+  "device": "HWMAR",
+  "model": "MAR-LX2m"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HUAWEI P30 lite",
+  "device": "HWMAR",
   "model": "MAR-LX3A"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HUAWEI P30 lite",
+  "device": "HWMAR",
+  "model": "MAR-LX3Am"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HUAWEI P30 lite",
+  "device": "HWMAR",
+  "model": "MAR-LX3Bm"
  },
  {
   "brand": "Huawei",
@@ -45514,6 +45610,12 @@
   "name": "HUAWEI nova 2 lite",
   "device": "HWLDN-Q",
   "model": "LDN-LX2"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HUAWEI nova 5T",
+  "device": "HWYAL",
+  "model": "YAL-L21"
  },
  {
   "brand": "Huawei",
@@ -83263,6 +83365,12 @@
  },
  {
   "brand": "Myphone",
+  "name": "myX12",
+  "device": "myX12",
+  "model": "myX12"
+ },
+ {
+  "brand": "Myphone",
   "name": "myX2",
   "device": "myX2",
   "model": "myX2"
@@ -97006,6 +97114,12 @@
   "name": "LT950",
   "device": "LT950",
   "model": "LT950"
+ },
+ {
+  "brand": "Qsmart",
+  "name": "View",
+  "device": "View",
+  "model": "View"
  },
  {
   "brand": "Qtouch",
