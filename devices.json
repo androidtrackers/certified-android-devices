@@ -8420,7 +8420,37 @@
  {
   "brand": "Asus",
   "name": "ZenFone Lite L1 (ZA551KL) / ZenFone Live L1/L2 (ZA550KL)",
+  "device": "ASUS_X00R_1",
+  "model": "ASUS_X00RD"
+ },
+ {
+  "brand": "Asus",
+  "name": "ZenFone Lite L1 (ZA551KL) / ZenFone Live L1/L2 (ZA550KL)",
+  "device": "ASUS_X00R_2",
+  "model": "ASUS_X00RD"
+ },
+ {
+  "brand": "Asus",
+  "name": "ZenFone Lite L1 (ZA551KL) / ZenFone Live L1/L2 (ZA550KL)",
+  "device": "ASUS_X00R_3",
+  "model": "ASUS_X00RD"
+ },
+ {
+  "brand": "Asus",
+  "name": "ZenFone Lite L1 (ZA551KL) / ZenFone Live L1/L2 (ZA550KL)",
   "device": "ASUS_X00R_5",
+  "model": "ASUS_X00RD"
+ },
+ {
+  "brand": "Asus",
+  "name": "ZenFone Lite L1 (ZA551KL) / ZenFone Live L1/L2 (ZA550KL)",
+  "device": "ASUS_X00R_6",
+  "model": "ASUS_X00RD"
+ },
+ {
+  "brand": "Asus",
+  "name": "ZenFone Lite L1 (ZA551KL) / ZenFone Live L1/L2 (ZA550KL)",
+  "device": "ASUS_X00R_7",
   "model": "ASUS_X00RD"
  },
  {
@@ -8431,45 +8461,21 @@
  },
  {
   "brand": "Asus",
-  "name": "ZenFone Live L1 (ZA550KL)",
-  "device": "ASUS_X00R_1",
-  "model": "ASUS_X00RD"
- },
- {
-  "brand": "Asus",
-  "name": "ZenFone Live L1 (ZA550KL)",
-  "device": "ASUS_X00R_2",
-  "model": "ASUS_X00RD"
- },
- {
-  "brand": "Asus",
-  "name": "ZenFone Live L1 (ZA550KL)",
-  "device": "ASUS_X00R_2",
-  "model": "ZA550KL"
- },
- {
-  "brand": "Asus",
-  "name": "ZenFone Live L1 (ZA550KL)",
-  "device": "ASUS_X00R_3",
-  "model": "ASUS_X00RD"
- },
- {
-  "brand": "Asus",
-  "name": "ZenFone Live L1 (ZA550KL)",
+  "name": "ZenFone Live L1 (G552KL)",
   "device": "ASUS_X00R_3",
   "model": "G552KL"
  },
  {
   "brand": "Asus",
-  "name": "ZenFone Live L1 (ZA550KL)",
+  "name": "ZenFone Live L1 (G552KL)",
   "device": "ASUS_X00R_3",
   "model": "ZA550KL"
  },
  {
   "brand": "Asus",
   "name": "ZenFone Live L1 (ZA550KL)",
-  "device": "ASUS_X00R_7",
-  "model": "ASUS_X00RD"
+  "device": "ASUS_X00R_2",
+  "model": "ZA550KL"
  },
  {
   "brand": "Asus",
@@ -13216,6 +13222,12 @@
   "name": "BLU STUDIO J8 LTE",
   "device": "Studio_J8_LTE",
   "model": "Studio J8 LTE"
+ },
+ {
+  "brand": "Blu",
+  "name": "BLU VIEW 1",
+  "device": "B100DL",
+  "model": "VIEW 1"
  },
  {
   "brand": "Blu",
@@ -19678,6 +19690,12 @@
   "name": "Y92-9",
   "device": "Y92-9",
   "model": "Coolpad Y92-9"
+ },
+ {
+  "brand": "Coolpad",
+  "name": "cp3648A",
+  "device": "cp3648a",
+  "model": "cp3648A"
  },
  {
   "brand": "Coolpad",
@@ -44817,7 +44835,19 @@
   "brand": "Huawei",
   "name": "HONOR 20 PRO",
   "device": "HWYAL",
+  "model": "YAL-AL10"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HONOR 20 PRO",
+  "device": "HWYAL",
   "model": "YAL-L41"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HONOR 20S",
+  "device": "HWMAR",
+  "model": "MAR-LX1H"
  },
  {
   "brand": "Huawei",
@@ -45142,6 +45172,18 @@
   "name": "HUAWEI P smart 2019",
   "device": "HWPOT-H",
   "model": "POT-LX3"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HUAWEI P smart Pro",
+  "device": "HWSTK-HF",
+  "model": "STK-L21"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HUAWEI P smart Pro",
+  "device": "HWSTK-HF",
+  "model": "STK-LX1"
  },
  {
   "brand": "Huawei",
@@ -45502,6 +45544,30 @@
   "name": "HUAWEI Y6II",
   "device": "HWCAM-H",
   "model": "HUAWEI CAM-L53"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HUAWEI Y6s",
+  "device": "HWJAT-M",
+  "model": "JAT-L29"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HUAWEI Y6s",
+  "device": "HWJAT-M",
+  "model": "JAT-L41"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HUAWEI Y6s",
+  "device": "HWJAT-M",
+  "model": "JAT-LX1"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HUAWEI Y6s",
+  "device": "HWJAT-M",
+  "model": "JAT-LX3"
  },
  {
   "brand": "Huawei",
@@ -52540,6 +52606,18 @@
   "name": "HOT 7 PRO",
   "device": "Infinix-X625D",
   "model": "Infinix X625D"
+ },
+ {
+  "brand": "Infinix",
+  "name": "HOT 8",
+  "device": "Infinix-X650B",
+  "model": "Infinix X650B"
+ },
+ {
+  "brand": "Infinix",
+  "name": "HOT 8",
+  "device": "Infinix-X650C",
+  "model": "Infinix X650C"
  },
  {
   "brand": "Infinix",
@@ -71012,6 +71090,12 @@
  {
   "brand": "Lenovo",
   "name": "Lenovo TAB M10 FHD Rel",
+  "device": "TB-X605FC",
+  "model": "Lenovo TB-X605FC"
+ },
+ {
+  "brand": "Lenovo",
+  "name": "Lenovo TAB M10 FHD Rel",
   "device": "TB-X605LC",
   "model": "Lenovo TB-X605LC"
  },
@@ -71263,6 +71347,12 @@
  },
  {
   "brand": "Lenovo",
+  "name": "Lenovo TAB5",
+  "device": "801LV",
+  "model": "801LV"
+ },
+ {
+  "brand": "Lenovo",
   "name": "Lenovo TB-8304F1",
   "device": "TB-8304F1",
   "model": "Lenovo TB-8304F1"
@@ -71329,12 +71419,6 @@
  },
  {
   "brand": "Lenovo",
-  "name": "Lenovo Tab M10",
-  "device": "X605M",
-  "model": "Lenovo TB-X605M"
- },
- {
-  "brand": "Lenovo",
   "name": "Lenovo Tab M10 (FHD)",
   "device": "X605F",
   "model": "Lenovo TB-X605F"
@@ -71368,6 +71452,12 @@
   "name": "Lenovo Tab M10 (HD)",
   "device": "TB-X505X",
   "model": "Lenovo TB-X505X"
+ },
+ {
+  "brand": "Lenovo",
+  "name": "Lenovo Tab M10(FHD)",
+  "device": "X605M",
+  "model": "Lenovo TB-X605M"
  },
  {
   "brand": "Lenovo",
@@ -72532,6 +72622,12 @@
   "name": "Z90a40/VIBE Shot",
   "device": "zoom_row",
   "model": "Lenovo Z90a40"
+ },
+ {
+  "brand": "Lenovo",
+  "name": "enovo TAB M10 FHD Rel",
+  "device": "TB-X605FC",
+  "model": "Lenovo TB-X605FC"
  },
  {
   "brand": "Lenovo",
@@ -97894,6 +97990,12 @@
   "name": "IO Pro",
   "device": "Emu",
   "model": "IO Pro"
+ },
+ {
+  "brand": "ROKiT",
+  "name": "dingo",
+  "device": "Dingo",
+  "model": "IO 3D"
  },
  {
   "brand": "RT Project",
@@ -125084,6 +125186,12 @@
  {
   "brand": "TCT (Alcatel)",
   "name": "Alcatel 1C",
+  "device": "Curie",
+  "model": "Listo SP50"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1C",
   "device": "U5A_PLUS_3G",
   "model": "5009A"
  },
@@ -149836,6 +149944,12 @@
   "name": "M100",
   "device": "M100",
   "model": "M100"
+ },
+ {
+  "brand": "d.light",
+  "name": "M1000",
+  "device": "M1000",
+  "model": "M1000"
  },
  {
   "brand": "dazen",

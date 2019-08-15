@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-08-14
+Last sync is 2019-08-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1408,15 +1408,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ZenFone Go (ZC451TG)|ASUS_Z00SD|ASUS_Z00SD|
 |Asus|ZenFone Go (ZC500TG)|ASUS_Z00VD|ASUS_Z00VD|
 |Asus|ZenFone Lite L1 (G553KL)|ASUS_X00R_7|G553KL|
+|Asus|ZenFone Lite L1 (ZA551KL) / ZenFone Live L1/L2 (ZA550KL)|ASUS_X00R_1|ASUS_X00RD|
+|Asus|ZenFone Lite L1 (ZA551KL) / ZenFone Live L1/L2 (ZA550KL)|ASUS_X00R_2|ASUS_X00RD|
+|Asus|ZenFone Lite L1 (ZA551KL) / ZenFone Live L1/L2 (ZA550KL)|ASUS_X00R_3|ASUS_X00RD|
 |Asus|ZenFone Lite L1 (ZA551KL) / ZenFone Live L1/L2 (ZA550KL)|ASUS_X00R_5|ASUS_X00RD|
+|Asus|ZenFone Lite L1 (ZA551KL) / ZenFone Live L1/L2 (ZA550KL)|ASUS_X00R_6|ASUS_X00RD|
+|Asus|ZenFone Lite L1 (ZA551KL) / ZenFone Live L1/L2 (ZA550KL)|ASUS_X00R_7|ASUS_X00RD|
 |Asus|ZenFone Live (ZB501KL)|ASUS_A007|ASUS_A007|
-|Asus|ZenFone Live L1 (ZA550KL)|ASUS_X00R_1|ASUS_X00RD|
-|Asus|ZenFone Live L1 (ZA550KL)|ASUS_X00R_2|ASUS_X00RD|
+|Asus|ZenFone Live L1 (G552KL)|ASUS_X00R_3|G552KL|
+|Asus|ZenFone Live L1 (G552KL)|ASUS_X00R_3|ZA550KL|
 |Asus|ZenFone Live L1 (ZA550KL)|ASUS_X00R_2|ZA550KL|
-|Asus|ZenFone Live L1 (ZA550KL)|ASUS_X00R_3|ASUS_X00RD|
-|Asus|ZenFone Live L1 (ZA550KL)|ASUS_X00R_3|G552KL|
-|Asus|ZenFone Live L1 (ZA550KL)|ASUS_X00R_3|ZA550KL|
-|Asus|ZenFone Live L1 (ZA550KL)|ASUS_X00R_7|ASUS_X00RD|
 |Asus|ZenFone Live Plus (ZB553KL)|ASUS_X00LD_2|ASUS_X00LDB|
 |Asus|ZenFone Live Plus (ZB553KL)|ASUS_X00LD_3|ASUS_X00LDA|
 |Asus|ZenFone Live Plus (ZB553KL)|ASUS_X00LD_3|ZB553KL|
@@ -2208,6 +2209,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|BLU Grand M3|G0070WW|Grand M3|
 |Blu|BLU S1|S0320WW|BLU_S1|
 |Blu|BLU STUDIO J8 LTE|Studio_J8_LTE|Studio J8 LTE|
+|Blu|BLU VIEW 1|B100DL|VIEW 1|
 |Blu|BLU Vivo ONE|V0270WW|Vivo ONE|
 |Blu|BLU_STUDIO_G2|BLU_STUDIO_G2|BLU STUDIO G2|
 |Blu|BLU_Studio_G_Max|Studio_G_Max|Studio G Max|
@@ -3285,6 +3287,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Coolpad|Y91-921|Y91|Coolpad Y891|
 |Coolpad|Y91-921|Y91|Coolpad Y91-921|
 |Coolpad|Y92-9|Y92-9|Coolpad Y92-9|
+|Coolpad|cp3648A|cp3648a|cp3648A|
 |Coolpad|cp7236|msm8610_w7_cp7236|Coolpad 7236|
 |Coolpad|i1|i1|ivvi i1|
 |Coolpad|i1-01|i1-01|ivvi i1-01|
@@ -7474,7 +7477,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HONOR 20|HWYAL|YAL-AL00|
 |Huawei|HONOR 20|HWYAL|YAL-L21|
 |Huawei|HONOR 20|HWYAL|YAL-TL00|
+|Huawei|HONOR 20 PRO|HWYAL|YAL-AL10|
 |Huawei|HONOR 20 PRO|HWYAL|YAL-L41|
+|Huawei|HONOR 20S|HWMAR|MAR-LX1H|
 |Huawei|HONOR 20i|HWHRY-HF|HRY-AL00Ta|
 |Huawei|HONOR 4X|hwChe2|Che2-L12|
 |Huawei|HONOR 8S|HWKSA-M|KSA-LX2|
@@ -7529,6 +7534,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI P smart 2019|HWPOT-H|POT-LX1|
 |Huawei|HUAWEI P smart 2019|HWPOT-H|POT-LX1AF|
 |Huawei|HUAWEI P smart 2019|HWPOT-H|POT-LX3|
+|Huawei|HUAWEI P smart Pro|HWSTK-HF|STK-L21|
+|Huawei|HUAWEI P smart Pro|HWSTK-HF|STK-LX1|
 |Huawei|HUAWEI P smart Z|HWSTK-HF|STK-LX1|
 |Huawei|HUAWEI P smart+ 2019|HWPOT-H|POT-LX1T|
 |Huawei|HUAWEI P20 Lite|HWANE|ANE-LX2J|
@@ -7589,6 +7596,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI Y6 Prime 2018|HWATU-QG|ATU-L42|
 |Huawei|HUAWEI Y6 Pro 2019|HWMRD-M1|MRD-LX2|
 |Huawei|HUAWEI Y6II|HWCAM-H|HUAWEI CAM-L53|
+|Huawei|HUAWEI Y6s|HWJAT-M|JAT-L29|
+|Huawei|HUAWEI Y6s|HWJAT-M|JAT-L41|
+|Huawei|HUAWEI Y6s|HWJAT-M|JAT-LX1|
+|Huawei|HUAWEI Y6s|HWJAT-M|JAT-LX3|
 |Huawei|HUAWEI Y7 2018|HWLDN-Q|LDN-L01|
 |Huawei|HUAWEI Y7 2018|HWLDN-Q|LDN-L21|
 |Huawei|HUAWEI Y7 2018|HWLDN-Q|LDN-LX3|
@@ -8762,6 +8773,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|HOT 7|Infinix-X624B|Infinix X624B|
 |Infinix|HOT 7 PRO|Infinix-X625|Infinix X625B|
 |Infinix|HOT 7 PRO|Infinix-X625D|Infinix X625D|
+|Infinix|HOT 8|Infinix-X650B|Infinix X650B|
+|Infinix|HOT 8|Infinix-X650C|Infinix X650C|
 |Infinix|HOT NOTE|Infinix-X551|Infinix-X551|
 |Infinix|HOT S3|Infinix-X573|Infinix X573|
 |Infinix|HOT S3|Infinix-X573|Infinix X573S|
@@ -11840,6 +11853,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo TAB 7|TB-7504X|Lenovo TB-7504X|
 |Lenovo|Lenovo TAB 7 Essential|TB-7304F|Lenovo TB-7304F|
 |Lenovo|Lenovo TAB 8|TB-8304F|Lenovo TB-8304F|
+|Lenovo|Lenovo TAB M10 FHD Rel|TB-X605FC|Lenovo TB-X605FC|
 |Lenovo|Lenovo TAB M10 FHD Rel|TB-X605LC|Lenovo TB-X605LC|
 |Lenovo|Lenovo TAB3 10 Plus|TB3-X70F|Lenovo TB3-X70F|
 |Lenovo|Lenovo TAB3 10 Plus|TB3-X70L|Lenovo TB3-X70L|
@@ -11882,6 +11896,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo TAB4 8 Plus|TB-8704X|Lenovo TB-8704X|
 |Lenovo|Lenovo TAB4 8 REL|TB-8604F|Lenovo TB-8604F|
 |Lenovo|Lenovo TAB4 8 REL|TB-8X04F|Lenovo TB-8X04F|
+|Lenovo|Lenovo TAB5|801LV|801LV|
 |Lenovo|Lenovo TB-8304F1|TB-8304F1|Lenovo TB-8304F1|
 |Lenovo|Lenovo Tab 7 Essential|7304I|Lenovo TB-7304I|
 |Lenovo|Lenovo Tab 7 Essential|TB-7304I|Lenovo TB-7304I|
@@ -11893,13 +11908,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab E10|X104X|Lenovo TB-X104X|
 |Lenovo|Lenovo Tab E7|TB7104F|Lenovo TB-7104F|
 |Lenovo|Lenovo Tab E7|TB7104I|Lenovo TB-7104I|
-|Lenovo|Lenovo Tab M10|X605M|Lenovo TB-X605M|
 |Lenovo|Lenovo Tab M10 (FHD)|X605F|Lenovo TB-X605F|
 |Lenovo|Lenovo Tab M10 (FHD)|X605L|Lenovo TB-X605L|
 |Lenovo|Lenovo Tab M10 (HD)|TB-X505F|Lenovo TB-X505F|
 |Lenovo|Lenovo Tab M10 (HD)|TB-X505L|Lenovo TB-X505L|
 |Lenovo|Lenovo Tab M10 (HD)|TB-X505N|Lenovo TB-X505N|
 |Lenovo|Lenovo Tab M10 (HD)|TB-X505X|Lenovo TB-X505X|
+|Lenovo|Lenovo Tab M10(FHD)|X605M|Lenovo TB-X605M|
 |Lenovo|Lenovo Tab M7|7305F|Lenovo TB-7305F|
 |Lenovo|Lenovo Tab M7|7305I|Lenovo TB-7305I|
 |Lenovo|Lenovo Tab M7|7305X|Lenovo TB-7305X|
@@ -12094,6 +12109,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Z90/VIBE Shot|zoom_fdd|Lenovo Z90-7|
 |Lenovo|Z90/VIBE Shot|zoom_tdd|Lenovo Z90-3|
 |Lenovo|Z90a40/VIBE Shot|zoom_row|Lenovo Z90a40|
+|Lenovo|enovo TAB M10 FHD Rel|TB-X605FC|Lenovo TB-X605FC|
 |Lenovo|ideatv S52|ideatv_S52|ideatv S52|
 |Lenovo|ideatvK82 60LX750A 52LX750A 46LX750A 60LX850A 70LX850A 80LX850A|ideatv_K82|ideatv K82|
 |Lenovo|\xe5\xb0\x8f\xe6\x96\xb0\xe5\xb9\xb3\xe6\x9d\xbf|TB-8804F|Lenovo TB-8804F|
@@ -16321,6 +16337,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ROKiT|IO 3D|Dingo|IO 3D|
 |ROKiT|IO Light|Chinchilla|IO Light|
 |ROKiT|IO Pro|Emu|IO Pro|
+|ROKiT|dingo|Dingo|IO 3D|
 |RT Project|Wide|Wide|Wide|
 |RT Project|popper2|popper2|popper2|
 |Radger|IMP-F01K|IMP-F01K|IMP-F01K|
@@ -20852,6 +20869,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|Optus X Start|
 |TCT (Alcatel)|Alcatel 1C|Curie|5003D|
 |TCT (Alcatel)|Alcatel 1C|Curie|5003D_EEA|
+|TCT (Alcatel)|Alcatel 1C|Curie|Listo SP50|
 |TCT (Alcatel)|Alcatel 1C|U5A_PLUS_3G|5009A|
 |TCT (Alcatel)|Alcatel 1C|U5A_PLUS_3G|5009D|
 |TCT (Alcatel)|Alcatel 1C|U5A_PLUS_3G|5009D_RU|
@@ -24978,6 +24996,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |bq|Edison_3_mini|Edison_3_mini|Edison 3 mini|
 |bq|M8|Aquaris_M8|Aquaris M8|
 |d.light|M100|M100|M100|
+|d.light|M1000|M1000|M1000|
 |dazen|dazen 6A|dazen_6A|dazen 6A|
 |dazen|dazen 6E|dazen_6E|dazen 6E|
 |duraMOBI|DK66|DK66|DK66|
