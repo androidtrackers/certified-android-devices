@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-08-15
+Last sync is 2019-08-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1633,6 +1633,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|A53|Azumi_A53|A53|
 |Azumi|A57B|Azumi_A57B|A57B|
 |Azumi|A5B|Azumi_A5B_BD|A5B|
+|Azumi|A5_AC11|A5_AC11|A5|
 |Azumi|AT7|AT7|AT7|
 |Azumi|AX5|AX5|Azumi AX5|
 |Azumi|AZUMI KIREI A5D|KIREI_A5_D|Azumi KIREI A5 D|
@@ -1913,6 +1914,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|FOX POWER|BQru-4583|BQru-4583|
 |BRIGMTON|BTPC-1024QC|BTPC-1024QC|BTPC-1024QC|
 |BRIGMTON|BTPC-1025OC|BTPC-1025OC|BTPC-1025OC|
+|BRIGMTON|Spain|BTPC-801QC|BTPC-801QC|
 |BYD|DynaVox T10|T10|T10|
 |BYD|FarEastone Smart 502|Smart502|Smart 502|
 |BYD|INHON G3|G3|G3|
@@ -7482,11 +7484,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HONOR 20S|HWMAR|MAR-LX1H|
 |Huawei|HONOR 20i|HWHRY-HF|HRY-AL00Ta|
 |Huawei|HONOR 4X|hwChe2|Che2-L12|
+|Huawei|HONOR 8A Pro|HWJAT-M|JAT-L29|
+|Huawei|HONOR 8A Pro|HWJAT-M|JAT-L41|
+|Huawei|HONOR 8A Pro|HWJAT-M|JAT-LX1|
+|Huawei|HONOR 8A Pro|HWJAT-M|JAT-LX3|
 |Huawei|HONOR 8S|HWKSA-M|KSA-LX2|
 |Huawei|HONOR 8S|HWKSA-M|KSA-LX3|
 |Huawei|HONOR 8S|HWKSA-M|KSA-LX9|
 |Huawei|HONOR 9X|HWSTK-HF|STK-L22|
 |Huawei|HONOR 9X|HWSTK-HF|STK-LX1|
+|Huawei|HONOR 9X|HWSTK-HF|STK-LX3|
 |Huawei|HONOR V20|HWPCT|PCT-TL10|
 |Huawei|HONOR View20|HWPCT|PCT-AL10|
 |Huawei|HONOR View20|HWPCT|PCT-L29|
@@ -7543,7 +7550,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI P30|HWELE|ELE-AL00|
 |Huawei|HUAWEI P30|HWELE|ELE-L04|
 |Huawei|HUAWEI P30|HWELE|ELE-L09|
+|Huawei|HUAWEI P30|HWELE|ELE-L14|
 |Huawei|HUAWEI P30|HWELE|ELE-L29|
+|Huawei|HUAWEI P30|HWELE|ELE-L39|
+|Huawei|HUAWEI P30|HWELE|ELE-L49|
 |Huawei|HUAWEI P30|HWELE|ELE-TL00|
 |Huawei|HUAWEI P30 lite|HWMAR|HWV33|
 |Huawei|HUAWEI P30 lite|HWMAR|MAR-LX1A|
@@ -7608,6 +7618,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI Y7 Prime 2018|HWLDN-Q|LDN-L21|
 |Huawei|HUAWEI Y7 Prime 2018|HWLDN-Q|LDN-LX2|
 |Huawei|HUAWEI Y7 Pro 2019|HWDUB-Q|DUB-LX2|
+|Huawei|HUAWEI Y7s|HWDUB-Q|DUB-LX1|
+|Huawei|HUAWEI Y7s|HWDUB-Q|DUB-LX2|
+|Huawei|HUAWEI Y7s|HWDUB-Q|DUB-LX3|
 |Huawei|HUAWEI Y9 2018|HWFLA-H|FLA-LX1|
 |Huawei|HUAWEI Y9 2018|HWFLA-H|FLA-LX2|
 |Huawei|HUAWEI Y9 2018|HWFLA-H|FLA-LX3|
@@ -7615,6 +7628,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI Y9 2019|HWJKM-H|JKM-LX2|
 |Huawei|HUAWEI Y9 2019|HWJKM-H|JKM-LX3|
 |Huawei|HUAWEI Y9 Prime 2019|HWSTK-HF|STK-L21|
+|Huawei|HUAWEI Y9s|HWSTK-HF|STK-L21|
+|Huawei|HUAWEI Y9s|HWSTK-HF|STK-L22|
+|Huawei|HUAWEI Y9s|HWSTK-HF|STK-LX3|
 |Huawei|HUAWEI nova 2 Plus|HWBAC|BAC-L21|
 |Huawei|HUAWEI nova 2 Plus|HWBAC|BAC-L22|
 |Huawei|HUAWEI nova 2 lite|HWLDN-Q|LDN-LX2|
@@ -7670,6 +7686,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|Honor 7C|HWLND-Q|LND-L29|
 |Huawei|Honor 7C|HWLND-Q|LND-TL30|
 |Huawei|Honor 7C|HWLND-Q|LND-TL40|
+|Huawei|Honor 7S|HWDRA-MG|DRA-LX5|
 |Huawei|Honor 7S|HWDUA-M|DUA-AL00|
 |Huawei|Honor 7S|HWDUA-M|DUA-L22|
 |Huawei|Honor 7S|HWDUA-M|DUA-LX3|
@@ -8374,6 +8391,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbf C5|HWBZT|BZT-AL00|
 |Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbf C5|HWBZT|BZT-AL10|
 |Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbf C5|HWBZT|BZT-W09|
+|Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbf C5|HWHDL|BZW-AL00|
+|Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbf C5|HWHDL|BZW-AL10|
 |Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbf C5|HWMON-Q|MON-AL19|
 |Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbf C5|HWMON-Q|MON-AL19B|
 |Huawei|\xe5\x8d\x8e\xe4\xb8\xba\xe5\xb9\xb3\xe6\x9d\xbf C5|HWMON-Q|MON-W19|
@@ -9482,6 +9501,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KEMPLER STRAUSS|KEMPLER_X_TV|KEMPLER_X_TV|KEMPLER_X_TV|
 |KEMPLER STRAUSS|Kempler_X_Pro|Kempler_X_Pro|Kempler_X_Pro|
 |KNC (LK)|TPC_XTE10D|TPC_XTE10D|TPC_XTE10D|
+|KONKA|KM7012BK|KM7012BK|KM7012BK|
 |KONKA|RE1|RE1|RE1|
 |KONKA|RU1|RU1|RU1|
 |KONKA|SE1|SE1|SE1|
@@ -13795,6 +13815,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|MS80X|ML-TI0D-MS80X|MS80X|
 |Multilaser|Ms5|MTL-MS5|MS5|
 |Multilaser|Ms6|MS6|MS6|
+|Multilaser|Multilaser G|Multilaser_G|Multilaser_G|
 |Multilaser|Multilaser G Pro|Multilaser_G_Pro|Multilaser_G_Pro|
 |Multilaser|Multilaser_F|Multilaser_F|Multilaser_F|
 |My Go|GoTab GBT10|GBT10|GoTab_GBT10|
@@ -16265,6 +16286,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|10 Viking Pro|RCT6303W87M|RCT6303W87M|
 |RCA|10 Viking Pro|RCT6303W87M7|RCT6303W87M7|
 |RCA|10 Viking Pro|RCT6K03W13|RCT6K03W13|
+|RCA|11 Delta Pro|RCT6613W23P|RCT6613W23P|
 |RCA|11 Galileo Pro|RCT6513W87|RCT6513W87|
 |RCA|11 Maven Pro|RCT6213W87DK|RCT6213W87DK|
 |RCA|7 Mercury|RCT6673W23M|RCT6673W23M|
@@ -21941,6 +21963,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Trimble Navigation|MM50|EE773X_4G|TDC100_4G|
 |Trimble Navigation|MM50|EE773X_WiFi|MobileMapper50_WiFi|
 |Trimble Navigation|MM50|EE773X_WiFi|TDC100_WiFi|
+|Trimble Navigation|MobileDisplayTerminal|PD5|PD5|
 |Trimble Navigation|Nomad 5|pdog|Nomad 5|
 |Trimble Navigation|PeopleNet ConnectedTablet|MS5|MS5|
 |Trimble Navigation|TD-520|td520|TD520|
@@ -21955,6 +21978,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Trimble Navigation|TDI 600|ulmo_pro|Rugged Tablet|
 |Trimble Navigation|TDI 600|ulmo_pro|TDI 600|
 |Trimble Navigation|Trimble ConnectedTablet|MS5|MS5|
+|Trimble Navigation|Trimble DUO|DUO|DUO|
 |Trio|7.85|astar-y3|TRIO-7.85|
 |Trio|7.85 vQ|Trio-785-vQ|Trio 7.85 vQ|
 |Trio|AXS 3G|Trio_AXS_3G|Trio AXS 3G|
@@ -22787,6 +22811,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vsmart|Active 1 +|PQ6002|Active 1+|
 |Vsmart|Joy 1|PQ4001|Joy 1|
 |Vsmart|Joy 1 +|PQ4002|Joy 1+|
+|Vsmart|Live|V620A|Live|
 |Vsun|MARS Touch|MARS_TOUCH|MARS TOUCH|
 |Vsun|MARS Nocam|MARS_NOCAM|MARS NOCAM|
 |Vsun|MARS Note|MARS_NOTE|MARS NOTE|
@@ -23080,6 +23105,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|W_P200|W_P200|W_P200|
 |Wiko|W_P200CM|W_P200CM|View Max|
 |Wiko|W_P200CM|W_P200CM|W_P200CM|
+|Wiko|Y50|W-K130|W-K130-EEA|
 |Wiko|Y50|W-K130|W-K130-OPE|
 |Wiko|Y50|W-K420|W-K420-EEA|
 |Wiko|Y60|W-K510|W-K510-BYT|
@@ -23170,6 +23196,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |X-TIGI|X-TIGI V19|X_TIGI_V19|X_TIGI_V19|
 |X-TIGI|X-TIGI_JOY7_MAX|X-TIGI_JOY7_MAX|X-TIGI_JOY7_MAX|
 |X-TIGI|X-TIGI_V11|X-TIGI_V11|X-TIGI_V11|
+|X-TIGI|X-TIGI_V12|V12|V12|
 |X-TIGI|X-TIGI_V13|X-TIGI_V13|X-TIGI_V13|
 |X-TIGI|X-TIGI_V15|X-TIGI_V15|X-TIGI_V15|
 |X-TIGI|X-TIGI_V18 Pro|X-TIGI_V18_Pro|X-TIGI_V18 Pro|

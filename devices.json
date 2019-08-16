@@ -9769,6 +9769,12 @@
  },
  {
   "brand": "Azumi",
+  "name": "A5_AC11",
+  "device": "A5_AC11",
+  "model": "A5"
+ },
+ {
+  "brand": "Azumi",
   "name": "AT7",
   "device": "AT7",
   "model": "AT7"
@@ -11446,6 +11452,12 @@
   "name": "BTPC-1025OC",
   "device": "BTPC-1025OC",
   "model": "BTPC-1025OC"
+ },
+ {
+  "brand": "BRIGMTON",
+  "name": "Spain",
+  "device": "BTPC-801QC",
+  "model": "BTPC-801QC"
  },
  {
   "brand": "BYD",
@@ -44863,6 +44875,30 @@
  },
  {
   "brand": "Huawei",
+  "name": "HONOR 8A Pro",
+  "device": "HWJAT-M",
+  "model": "JAT-L29"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HONOR 8A Pro",
+  "device": "HWJAT-M",
+  "model": "JAT-L41"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HONOR 8A Pro",
+  "device": "HWJAT-M",
+  "model": "JAT-LX1"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HONOR 8A Pro",
+  "device": "HWJAT-M",
+  "model": "JAT-LX3"
+ },
+ {
+  "brand": "Huawei",
   "name": "HONOR 8S",
   "device": "HWKSA-M",
   "model": "KSA-LX2"
@@ -44890,6 +44926,12 @@
   "name": "HONOR 9X",
   "device": "HWSTK-HF",
   "model": "STK-LX1"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HONOR 9X",
+  "device": "HWSTK-HF",
+  "model": "STK-LX3"
  },
  {
   "brand": "Huawei",
@@ -45231,7 +45273,25 @@
   "brand": "Huawei",
   "name": "HUAWEI P30",
   "device": "HWELE",
+  "model": "ELE-L14"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HUAWEI P30",
+  "device": "HWELE",
   "model": "ELE-L29"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HUAWEI P30",
+  "device": "HWELE",
+  "model": "ELE-L39"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HUAWEI P30",
+  "device": "HWELE",
+  "model": "ELE-L49"
  },
  {
   "brand": "Huawei",
@@ -45619,6 +45679,24 @@
  },
  {
   "brand": "Huawei",
+  "name": "HUAWEI Y7s",
+  "device": "HWDUB-Q",
+  "model": "DUB-LX1"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HUAWEI Y7s",
+  "device": "HWDUB-Q",
+  "model": "DUB-LX2"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HUAWEI Y7s",
+  "device": "HWDUB-Q",
+  "model": "DUB-LX3"
+ },
+ {
+  "brand": "Huawei",
   "name": "HUAWEI Y9 2018",
   "device": "HWFLA-H",
   "model": "FLA-LX1"
@@ -45658,6 +45736,24 @@
   "name": "HUAWEI Y9 Prime 2019",
   "device": "HWSTK-HF",
   "model": "STK-L21"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HUAWEI Y9s",
+  "device": "HWSTK-HF",
+  "model": "STK-L21"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HUAWEI Y9s",
+  "device": "HWSTK-HF",
+  "model": "STK-L22"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HUAWEI Y9s",
+  "device": "HWSTK-HF",
+  "model": "STK-LX3"
  },
  {
   "brand": "Huawei",
@@ -45988,6 +46084,12 @@
   "name": "Honor 7C",
   "device": "HWLND-Q",
   "model": "LND-TL40"
+ },
+ {
+  "brand": "Huawei",
+  "name": "Honor 7S",
+  "device": "HWDRA-MG",
+  "model": "DRA-LX5"
  },
  {
   "brand": "Huawei",
@@ -50212,6 +50314,18 @@
   "name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf C5",
   "device": "HWBZT",
   "model": "BZT-W09"
+ },
+ {
+  "brand": "Huawei",
+  "name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf C5",
+  "device": "HWHDL",
+  "model": "BZW-AL00"
+ },
+ {
+  "brand": "Huawei",
+  "name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf C5",
+  "device": "HWHDL",
+  "model": "BZW-AL10"
  },
  {
   "brand": "Huawei",
@@ -56860,6 +56974,12 @@
   "name": "TPC_XTE10D",
   "device": "TPC_XTE10D",
   "model": "TPC_XTE10D"
+ },
+ {
+  "brand": "KONKA",
+  "name": "KM7012BK",
+  "device": "KM7012BK",
+  "model": "KM7012BK"
  },
  {
   "brand": "KONKA",
@@ -82741,6 +82861,12 @@
  },
  {
   "brand": "Multilaser",
+  "name": "Multilaser G",
+  "device": "Multilaser_G",
+  "model": "Multilaser_G"
+ },
+ {
+  "brand": "Multilaser",
   "name": "Multilaser G Pro",
   "device": "Multilaser_G_Pro",
   "model": "Multilaser_G_Pro"
@@ -97558,6 +97684,12 @@
   "name": "10 Viking Pro",
   "device": "RCT6K03W13",
   "model": "RCT6K03W13"
+ },
+ {
+  "brand": "RCA",
+  "name": "11 Delta Pro",
+  "device": "RCT6613W23P",
+  "model": "RCT6613W23P"
  },
  {
   "brand": "RCA",
@@ -131617,6 +131749,12 @@
  },
  {
   "brand": "Trimble Navigation",
+  "name": "MobileDisplayTerminal",
+  "device": "PD5",
+  "model": "PD5"
+ },
+ {
+  "brand": "Trimble Navigation",
   "name": "Nomad 5",
   "device": "pdog",
   "model": "Nomad 5"
@@ -131698,6 +131836,12 @@
   "name": "Trimble ConnectedTablet",
   "device": "MS5",
   "model": "MS5"
+ },
+ {
+  "brand": "Trimble Navigation",
+  "name": "Trimble DUO",
+  "device": "DUO",
+  "model": "DUO"
  },
  {
   "brand": "Trio",
@@ -136692,6 +136836,12 @@
   "model": "Joy 1+"
  },
  {
+  "brand": "Vsmart",
+  "name": "Live",
+  "device": "V620A",
+  "model": "Live"
+ },
+ {
   "brand": "Vsun",
   "name": "MARS Touch",
   "device": "MARS_TOUCH",
@@ -138453,6 +138603,12 @@
   "brand": "Wiko",
   "name": "Y50",
   "device": "W-K130",
+  "model": "W-K130-EEA"
+ },
+ {
+  "brand": "Wiko",
+  "name": "Y50",
+  "device": "W-K130",
   "model": "W-K130-OPE"
  },
  {
@@ -138988,6 +139144,12 @@
   "name": "X-TIGI_V11",
   "device": "X-TIGI_V11",
   "model": "X-TIGI_V11"
+ },
+ {
+  "brand": "X-TIGI",
+  "name": "X-TIGI_V12",
+  "device": "V12",
+  "model": "V12"
  },
  {
   "brand": "X-TIGI",
