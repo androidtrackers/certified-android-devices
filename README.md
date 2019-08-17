@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-08-16
+Last sync is 2019-08-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2895,6 +2895,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ClipSonic|DVI37BT|DVI37BT|DV137BT|
 |Cloud (TruConnect)|Cirrus_C2|Cirrus_C2|Cirrus_C2|
 |Cloud (TruConnect)|Storm C3|Storm_C3|Storm_C3|
+|Cloud (TruConnect)|Stratus_C5|Stratus_C5|Stratus_C5|
 |CloudFone|CloudFone Excite Prime 2|Excite_Prime_2|Excite Prime 2|
 |CloudFone|CloudFone Next Infinity Plus|Next_Infinity_Plus|Next Infinity Plus|
 |CloudFone|CloudFone Next Infinity Pro|Next_Infinity_Pro|Next Infinity Pro|
@@ -7491,6 +7492,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HONOR 8S|HWKSA-M|KSA-LX2|
 |Huawei|HONOR 8S|HWKSA-M|KSA-LX3|
 |Huawei|HONOR 8S|HWKSA-M|KSA-LX9|
+|Huawei|HONOR 9A|HWDUB-Q|DUB-LX1|
 |Huawei|HONOR 9X|HWSTK-HF|STK-L22|
 |Huawei|HONOR 9X|HWSTK-HF|STK-LX1|
 |Huawei|HONOR 9X|HWSTK-HF|STK-LX3|
@@ -22809,6 +22811,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Voto|Voto V5X|VOTO_V5X|VOTO V5X|
 |Vsmart|Active 1|PQ6001|Active 1|
 |Vsmart|Active 1 +|PQ6002|Active 1+|
+|Vsmart|Bee|V220A|Bee|
 |Vsmart|Joy 1|PQ4001|Joy 1|
 |Vsmart|Joy 1 +|PQ4002|Joy 1+|
 |Vsmart|Live|V620A|Live|

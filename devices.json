@@ -17340,6 +17340,12 @@
   "model": "Storm_C3"
  },
  {
+  "brand": "Cloud (TruConnect)",
+  "name": "Stratus_C5",
+  "device": "Stratus_C5",
+  "model": "Stratus_C5"
+ },
+ {
   "brand": "CloudFone",
   "name": "CloudFone Excite Prime 2",
   "device": "Excite_Prime_2",
@@ -44914,6 +44920,12 @@
   "name": "HONOR 8S",
   "device": "HWKSA-M",
   "model": "KSA-LX9"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HONOR 9A",
+  "device": "HWDUB-Q",
+  "model": "DUB-LX1"
  },
  {
   "brand": "Huawei",
@@ -136822,6 +136834,12 @@
   "name": "Active 1 +",
   "device": "PQ6002",
   "model": "Active 1+"
+ },
+ {
+  "brand": "Vsmart",
+  "name": "Bee",
+  "device": "V220A",
+  "model": "Bee"
  },
  {
   "brand": "Vsmart",
