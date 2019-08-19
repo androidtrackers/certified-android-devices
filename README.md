@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-08-18
+Last sync is 2019-08-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -357,6 +357,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advan digital|ADVAN G2 plus|ADVAN_5701|5701|
 |Advan digital|ADVAN S50 4G|ADVAN_i5G|i5G|
 |Advan digital|E1C|ADVAN_E1C_3G|E1C_3G|
+|Advan digital|E1C 4G|ADVAN_E1C4G|7037|
 |Advan digital|E1C 4G|ADVAN_E1C_4G|7035|
 |Advan digital|E1C NXT|ADVAN_E1C_NXT|S7D|
 |Advan digital|G-Tab|ADVAN_G_Tab|8001|
@@ -1870,6 +1871,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-5528L|BQru-5528L|BQ-5528L|
 |BQru|BQ-5530L|BQru-5530L|BQ-5530L|
 |BQru|BQ-5535L|BQru-5535L|BQ-5535L|
+|BQru|BQ-5541L|BQru-5541L|BQ-5541L|
 |BQru|BQ-5590 Spring|BQru_5590|BQru_5590|
 |BQru|BQ-5591 Jeans|BQru-5591|BQ-5591|
 |BQru|BQ-5594 Strike Power Max|BQru_5594|BQ-5594|
@@ -2536,6 +2538,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CMCC|M811|m811|M811|
 |CMCC|M811|m811hk|M811|
 |COPAN|Aplus|Aplus|Aplus|
+|CORN|C5|C5|C5|
+|CORN|CORN C10|CORN_C10|C10|
 |CX Argentina|CX9011|CX9011|CX9011|
 |CYX Group|A7008|A7008|A7008|
 |CYX Group|Retailer Stores|A7009|A7009|
@@ -2875,6 +2879,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Clementoni|Clempad HR Plus|Clempad_HR_Plus|Clempad_HR_Plus|
 |Clementoni|Clempad_6_S|Clempad_6_S|Clempad_6_S|
 |Clementoni|Clempad_7_S|Clempad_7_S|Clempad_7_S|
+|Clementoni|Clempad_9|Clempad_9|CLEMPAD_2019|
 |Clementoni|Clemphone|ClemPhone|ClemPhone|
 |Clementoni|Clemphone 7.0|ClemPhone_7|ClemPhone_7|
 |Clementoni|MFC_2018|MFC_2018|MFC_2018|
@@ -8316,6 +8321,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|huawei nova 2|HWPIC|HWV31|
 |Huawei|hw204HW|hw204HW|204HW|
 |Huawei|m881|hwm881|HUAWEI M881|
+|Huawei|nova|HWCAN|HUAWEI CAN-AL10|
 |Huawei|nova|HWCAN|HUAWEI CAN-L01|
 |Huawei|nova|HWCAN|HUAWEI CAN-L02|
 |Huawei|nova|HWCAN|HUAWEI CAN-L03|
@@ -8808,6 +8814,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Hot 4 Pro|Infinix-X5511-13M|Infinix HOT 4 Pro|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623B|
+|Infinix|Infinix HOT 7|Infinix-X625C|Infinix X625C|
+|Infinix|Infinix HOT 7 pro|Infinix-X625C|Infinix X625C|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604B|
 |Infinix|Infinix NOTE 5 Stylus|Infinix-X605_sprout|Infinix X605|
@@ -9502,6 +9510,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KEMPLER STRAUSS|KEMPLER_8_PLUS|KEMPLER_8_PLUS|KEMPLER_8_PLUS|
 |KEMPLER STRAUSS|KEMPLER_X_TV|KEMPLER_X_TV|KEMPLER_X_TV|
 |KEMPLER STRAUSS|Kempler_X_Pro|Kempler_X_Pro|Kempler_X_Pro|
+|KISA phone|KPAU04|KPAU04|KPAU04|
 |KNC (LK)|TPC_XTE10D|TPC_XTE10D|TPC_XTE10D|
 |KONKA|KM7012BK|KM7012BK|KM7012BK|
 |KONKA|RE1|RE1|RE1|
@@ -12532,6 +12541,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Making Life Simple|iQW503|iQW503|iQW503|
 |Making Life Simple|iQW553N|iQW553N|iQW553N|
 |Making Life Simple|iQW603|iQW603|iQW603|
+|Malata|UR7|UR7|UR7|
 |Malata|UV350|UV350|UV350|
 |Mango|Mango_S5|Mango_S5|Mango S5|
 |Mango|Mango_SQ7|Mango_SQ7|Mango_SQ7|
@@ -12598,6 +12608,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maxwest|Nitro 5 GO|Nitro_5_GO|Nitro 5 GO|
 |Maxwest|Nitro 55N|Nitro_55N|Nitro 55N|
 |Maxwest|Nitro 5N|Nitro_5N|Nitro_5N|
+|Maxwest|Nitro 5R|Nitro_5R|Nitro_5R|
 |Maxwest|Nitro_4s_LTE|Nitro_4s_LTE|Nitro 4s LTE|
 |Maxwest|Nitro_55R|Nitro_55R|Nitro_55R|
 |Maxwest|Nitro_5X|Nitro_5X|Nitro_5X|
@@ -14213,6 +14224,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Neffos|C5L|QC601|TP601B|
 |Neffos|C5L|QC601|TP601C|
 |Neffos|C5L|QC601|TP601E|
+|Neffos|Neffos C9 Max|C9_Max|Neffos C9 Max|
 |Neffos|Neffos C5 Plus|C5_Plus|Neffos C5 Plus|
 |Neffos|Neffos C7|C7|Neffos C7|
 |Neffos|Neffos C7|C7|Neffos_C7|
@@ -21599,6 +21611,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|F2LTE|TECNO-F2LTE|TECNO F2LTE|
 |Tecno|H5S|up09_tecno_h5s|TECNO H5S|
 |Tecno|H7S|qp16_tecno_h7s|H7S|
+|Tecno|Infinix HOT 7 pro|Infinix-X625C|Infinix X625C|
 |Tecno|J5|TECNO-J5|TECNO-J5|
 |Tecno|J7|TECNO-J7|TECNO-J7|
 |Tecno|J8|TECNO-J8|TECNO-J8|
@@ -22055,6 +22068,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor X2|Armor_X2|Armor_X2|
 |Ulefone|Armor6|Armor_6|Armor_6|
 |Ulefone|Armor_3|Armor_3|Armor_3|
+|Ulefone|Armor_3W|Armor_3W|Armor_3W|
 |Ulefone|Armor_3WT|Armor_3WT|Armor_3WT|
 |Ulefone|Armor_5|Ulefone_Armor_5|Ulefone_Armor_5|
 |Ulefone|Armor_6E|Armor_6E|Armor_6E|
@@ -22900,6 +22914,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|Primo R4 Plus|Primo_R4_Plus|Primo R4 Plus|
 |Walton|Primo R5|Primo_R5|Primo R5|
 |Walton|Primo R5 Plus|Primo_R5_Plus|Primo R5 Plus|
+|Walton|Primo R6|Primo_R6|Primo R6|
+|Walton|Primo R6 Max|Primo_R6_Max|Primo R6 Max|
 |Walton|Primo RH3|Primo_RH3|Primo RH3|
 |Walton|Primo RM2 mini|WBW5616WA|Primo RM2 mini|
 |Walton|Primo RX5|Primo_RX5|Primo RX5|
@@ -23163,6 +23179,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wizphone|WP003|WP003|WP003|
 |Wizphone|WP005|WP005|WP005|
 |Wizz|DV-PTB1080|DV-PTB1080|DV-PTB1080|
+|Wolki|WS040|WS040|WS040|
+|Wolki|WS041|WS041|WS041|
 |Woongjin|WoongjinThinkbig|BP-1001|BP-1001|
 |Wopad|Wopad-Kids7Q|Wopad-Kids7Q|Wopad-Kids7Q|
 |Wowi|SQ733|SQ733|SQ733|

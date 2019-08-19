@@ -2114,6 +2114,12 @@
  {
   "brand": "Advan digital",
   "name": "E1C 4G",
+  "device": "ADVAN_E1C4G",
+  "model": "7037"
+ },
+ {
+  "brand": "Advan digital",
+  "name": "E1C 4G",
   "device": "ADVAN_E1C_4G",
   "model": "7035"
  },
@@ -11191,6 +11197,12 @@
  },
  {
   "brand": "BQru",
+  "name": "BQ-5541L",
+  "device": "BQru-5541L",
+  "model": "BQ-5541L"
+ },
+ {
+  "brand": "BQru",
   "name": "BQ-5590 Spring",
   "device": "BQru_5590",
   "model": "BQru_5590"
@@ -15186,6 +15198,18 @@
   "model": "Aplus"
  },
  {
+  "brand": "CORN",
+  "name": "C5",
+  "device": "C5",
+  "model": "C5"
+ },
+ {
+  "brand": "CORN",
+  "name": "CORN C10",
+  "device": "CORN_C10",
+  "model": "C10"
+ },
+ {
   "brand": "CX Argentina",
   "name": "CX9011",
   "device": "CX9011",
@@ -17218,6 +17242,12 @@
   "name": "Clempad_7_S",
   "device": "Clempad_7_S",
   "model": "Clempad_7_S"
+ },
+ {
+  "brand": "Clementoni",
+  "name": "Clempad_9",
+  "device": "Clempad_9",
+  "model": "CLEMPAD_2019"
  },
  {
   "brand": "Clementoni",
@@ -49869,6 +49899,12 @@
   "brand": "Huawei",
   "name": "nova",
   "device": "HWCAN",
+  "model": "HUAWEI CAN-AL10"
+ },
+ {
+  "brand": "Huawei",
+  "name": "nova",
+  "device": "HWCAN",
   "model": "HUAWEI CAN-L01"
  },
  {
@@ -52816,6 +52852,18 @@
   "name": "Infinix HOT 6X",
   "device": "Infinix-X623",
   "model": "Infinix X623B"
+ },
+ {
+  "brand": "Infinix",
+  "name": "Infinix HOT 7",
+  "device": "Infinix-X625C",
+  "model": "Infinix X625C"
+ },
+ {
+  "brand": "Infinix",
+  "name": "Infinix HOT 7 pro",
+  "device": "Infinix-X625C",
+  "model": "Infinix X625C"
  },
  {
   "brand": "Infinix",
@@ -56980,6 +57028,12 @@
   "name": "Kempler_X_Pro",
   "device": "Kempler_X_Pro",
   "model": "Kempler_X_Pro"
+ },
+ {
+  "brand": "KISA phone",
+  "name": "KPAU04",
+  "device": "KPAU04",
+  "model": "KPAU04"
  },
  {
   "brand": "KNC (LK)",
@@ -75163,6 +75217,12 @@
  },
  {
   "brand": "Malata",
+  "name": "UR7",
+  "device": "UR7",
+  "model": "UR7"
+ },
+ {
+  "brand": "Malata",
   "name": "UV350",
   "device": "UV350",
   "model": "UV350"
@@ -75556,6 +75616,12 @@
   "name": "Nitro 5N",
   "device": "Nitro_5N",
   "model": "Nitro_5N"
+ },
+ {
+  "brand": "Maxwest",
+  "name": "Nitro 5R",
+  "device": "Nitro_5R",
+  "model": "Nitro_5R"
  },
  {
   "brand": "Maxwest",
@@ -85246,6 +85312,12 @@
   "name": "C5L",
   "device": "QC601",
   "model": "TP601E"
+ },
+ {
+  "brand": "Neffos",
+  "name": "Neffos C9 Max",
+  "device": "C9_Max",
+  "model": "Neffos C9 Max"
  },
  {
   "brand": "Neffos",
@@ -129565,6 +129637,12 @@
  },
  {
   "brand": "Tecno",
+  "name": "Infinix HOT 7 pro",
+  "device": "Infinix-X625C",
+  "model": "Infinix X625C"
+ },
+ {
+  "brand": "Tecno",
   "name": "J5",
   "device": "TECNO-J5",
   "model": "TECNO-J5"
@@ -132298,6 +132376,12 @@
   "name": "Armor_3",
   "device": "Armor_3",
   "model": "Armor_3"
+ },
+ {
+  "brand": "Ulefone",
+  "name": "Armor_3W",
+  "device": "Armor_3W",
+  "model": "Armor_3W"
  },
  {
   "brand": "Ulefone",
@@ -137371,6 +137455,18 @@
  },
  {
   "brand": "Walton",
+  "name": "Primo R6",
+  "device": "Primo_R6",
+  "model": "Primo R6"
+ },
+ {
+  "brand": "Walton",
+  "name": "Primo R6 Max",
+  "device": "Primo_R6_Max",
+  "model": "Primo R6 Max"
+ },
+ {
+  "brand": "Walton",
   "name": "Primo RH3",
   "device": "Primo_RH3",
   "model": "Primo RH3"
@@ -138946,6 +139042,18 @@
   "name": "DV-PTB1080",
   "device": "DV-PTB1080",
   "model": "DV-PTB1080"
+ },
+ {
+  "brand": "Wolki",
+  "name": "WS040",
+  "device": "WS040",
+  "model": "WS040"
+ },
+ {
+  "brand": "Wolki",
+  "name": "WS041",
+  "device": "WS041",
+  "model": "WS041"
  },
  {
   "brand": "Woongjin",
