@@ -17005,7 +17005,7 @@
  },
  {
   "brand": "Cipherlab",
-  "name": "CipherLab RK25",
+  "name": "Cipherlab RK25",
   "device": "RK25",
   "model": "RK25"
  },
@@ -25476,6 +25476,12 @@
   "model": "Smart\\'TAB 9001"
  },
  {
+  "brand": "EssentielB",
+  "name": "SmartTab1007",
+  "device": "SmartTAB1007",
+  "model": "SmartTAB1007"
+ },
+ {
   "brand": "Estar",
   "name": "BEAUTY 2 HD Quad core",
   "device": "MID7378",
@@ -27556,6 +27562,12 @@
   "name": "Bolt",
   "device": "Bolt",
   "model": "Bolt"
+ },
+ {
+  "brand": "Fossil",
+  "name": "Fossil Gen 5",
+  "device": "triggerfish",
+  "model": "Lexington 2"
  },
  {
   "brand": "Fossil",
@@ -29980,6 +29992,12 @@
   "name": "GS80",
   "device": "GS80",
   "model": "GS80"
+ },
+ {
+  "brand": "Gigaset",
+  "name": "GX290",
+  "device": "GX290",
+  "model": "GX290"
  },
  {
   "brand": "Gigaset",
@@ -60679,6 +60697,12 @@
  },
  {
   "brand": "LGE",
+  "name": "K30",
+  "device": "mh5lm-8m",
+  "model": "LM-X320"
+ },
+ {
+  "brand": "LGE",
   "name": "K4",
   "device": "lv1",
   "model": "LG-M151"
@@ -62548,6 +62572,18 @@
   "name": "LG K30",
   "device": "mcv3",
   "model": "LM-X410PM"
+ },
+ {
+  "brand": "LGE",
+  "name": "LG K30",
+  "device": "mh5lm-8m",
+  "model": "LGL322DL"
+ },
+ {
+  "brand": "LGE",
+  "name": "LG K30",
+  "device": "mh5lm-8m",
+  "model": "LM-X320"
  },
  {
   "brand": "LGE",
@@ -65008,6 +65044,12 @@
   "name": "LM-X525",
   "device": "mmh4p",
   "model": "LM-X525"
+ },
+ {
+  "brand": "LGE",
+  "name": "MY LG Mobile",
+  "device": "mh5lm",
+  "model": "LM-X320"
  },
  {
   "brand": "LGE",
@@ -84388,6 +84430,12 @@
   "name": "PC-TE510N1B",
   "device": "LaVieTab",
   "model": "LaVieTab PC-TE510N1B"
+ },
+ {
+  "brand": "NEONIQ",
+  "name": "NQT-73GIQ",
+  "device": "NQT-73GIQ",
+  "model": "NQT-73GIQ"
  },
  {
   "brand": "NESO",
@@ -111577,6 +111625,24 @@
  },
  {
   "brand": "Samsung",
+  "name": "Galaxy Tab S6",
+  "device": "gts6l",
+  "model": "SM-T865"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Tab S6",
+  "device": "gts6l",
+  "model": "SM-T867"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Tab S6",
+  "device": "gts6lwifi",
+  "model": "SM-T860"
+ },
+ {
+  "brand": "Samsung",
   "name": "Galaxy Tab2 10.1",
   "device": "espresso10att",
   "model": "SAMSUNG-SGH-I497"
@@ -114322,6 +114388,12 @@
   "name": "AQUOS R3 SH-04L",
   "device": "SH-04L",
   "model": "SH-04L"
+ },
+ {
+  "brand": "Sharp",
+  "name": "AQUOS R3 SH-R10A",
+  "device": "SH-R10",
+  "model": "SH-R10A"
  },
  {
   "brand": "Sharp",
@@ -138952,6 +139024,12 @@
   "name": "x40",
   "device": "X40",
   "model": "X40"
+ },
+ {
+  "brand": "Winnovo",
+  "name": "T10",
+  "device": "T10",
+  "model": "T10"
  },
  {
   "brand": "Wintec",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-08-19
+Last sync is 2019-08-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2839,7 +2839,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Chuwi|CHUWI|Hi9Air|Hi9Air|
 |Chuwi|Hi9|Hi9|Hi9|
 |Chuwi|Hi9Pro|Hi9Pro|Hi9Pro|
-|Cipherlab|CipherLab RK25|RK25|RK25|
+|Cipherlab|Cipherlab RK25|RK25|RK25|
 |Cipherlab|Hera51|Hera51|Hera51|
 |Cipherlab|RK25|RK25|RK25|
 |Cipherlab|RK25WO|RK25WO|RK25WO|
@@ -4251,6 +4251,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EssentielB|ST7001 Tablet|ST7001|ST7001|
 |EssentielB|Smart\'TAB 7800|fiber-785q6|Smart\'Tab_7800|
 |EssentielB|Smart\'TAB 9001|fiber-smart|Smart\'TAB 9001|
+|EssentielB|SmartTab1007|SmartTAB1007|SmartTAB1007|
 |Estar|BEAUTY 2 HD Quad core|MID7378|eSTAR BEAUTY 2 HD Quad core|
 |Estar|GO! HD Quad core 3G|MID7438G|eSTAR GO HD Quad core 3G|
 |Estar|GO! IPS Quad core 3G|MID7458G|eSTAR GO! IPS Quad core 3G|
@@ -4598,6 +4599,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fly|View|View|View|
 |Fone Haus|Blaze|Blaze|Blaze|
 |Fone Haus|Bolt|Bolt|Bolt|
+|Fossil|Fossil Gen 5|triggerfish|Lexington 2|
 |Fossil|Fossil Sport|darter|Q Sport 41|
 |Fossil|Fossil Sport|darter|Vapor X|
 |Fossil|Q Founder|grant|Q Founder|
@@ -5002,6 +5004,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gigaset|GS195|GS195|GS195|
 |Gigaset|GS280|GS280|GS280|
 |Gigaset|GS80|GS80|GS80|
+|Gigaset|GX290|GX290|GX290|
 |Gigaset|Gigaset GS170|GS170|Gigaset GS170|
 |Gigaset|Gigaset GS270|Gigaset_GS270|GS270|
 |Gigaset|Gigaset GS270 plus|Gigaset_GS270_plus|GS270 plus|
@@ -10118,6 +10121,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|K20|mmh6lm|LM-X120|
 |LGE|K3 2017|lv0|LG-AS110|
 |LGE|K3 2017|lv0|LGUS110|
+|LGE|K30|mh5lm-8m|LM-X320|
 |LGE|K4|lv1|LG-M151|
 |LGE|K4 (2017)|lv1|LGL157BL|
 |LGE|K4 (2017)|lv1|LGL57BL|
@@ -10430,6 +10434,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG K3 LTE|mme0n|LG-K100|
 |LGE|LG K30|cv3|LM-X410UM|
 |LGE|LG K30|mcv3|LM-X410PM|
+|LGE|LG K30|mh5lm-8m|LGL322DL|
+|LGE|LG K30|mh5lm-8m|LM-X320|
 |LGE|LG K4|e1q|LG-K120GT|
 |LGE|LG K4|e1q|LG-K121|
 |LGE|LG K4|e1q|VS425|
@@ -10840,6 +10846,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LM-X420|mmh4|LM-X420|
 |LGE|LM-X520|mmh4p-pr|LM-X520|
 |LGE|LM-X525|mmh4p|LM-X525|
+|LGE|MY LG Mobile|mh5lm|LM-X320|
 |LGE|Marquee|L-07C|L-07C|
 |LGE|Marquee|LG855|LG-LG855|
 |LGE|Marquee|LS855|LG-LS855|
@@ -14070,6 +14077,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NEC|PC-TE307N1W|PC-TE307N1W|PC-TE307N1W|
 |NEC|PC-TE510JAW|PC-TE510JAW|PC-TE510JAW|
 |NEC|PC-TE510N1B|LaVieTab|LaVieTab PC-TE510N1B|
+|NEONIQ|NQT-73GIQ|NQT-73GIQ|NQT-73GIQ|
 |NESO|N810 i7|N810_i7_1|N810 i7|
 |NGM Italia SRL|Danamic Now|DynamicNow|Now|
 |NGM Italia SRL|Dynamic Racing 3|NGM_Dynamic_Racing_3|Dynamic Racing 3|
@@ -18601,6 +18609,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S5e|gts4lv|SM-T727V|
 |Samsung|Galaxy Tab S5e|gts4lvwifi|SM-T720|
 |Samsung|Galaxy Tab S5e|gts4lvwifichn|SM-T720|
+|Samsung|Galaxy Tab S6|gts6l|SM-T865|
+|Samsung|Galaxy Tab S6|gts6l|SM-T867|
+|Samsung|Galaxy Tab S6|gts6lwifi|SM-T860|
 |Samsung|Galaxy Tab2 10.1|espresso10att|SAMSUNG-SGH-I497|
 |Samsung|Galaxy Tab2 10.1|espresso10can|SGH-I497|
 |Samsung|Galaxy Tab2 10.1|espresso10rf|GT-P5100|
@@ -19059,6 +19070,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS R2 compact 803SH|SG803SH|803SH|
 |Sharp|AQUOS R3 808SH|SG808SH|808SH|
 |Sharp|AQUOS R3 SH-04L|SH-04L|SH-04L|
+|Sharp|AQUOS R3 SH-R10A|SH-R10|SH-R10A|
 |Sharp|AQUOS R3 SHV44|NAX|SHV44|
 |Sharp|AQUOS SERIE SHL25|SHL25|SHL25|
 |Sharp|AQUOS SERIE SHV32|SHV32|SHV32|
@@ -23164,6 +23176,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Winmax|Tiger_X10|TIGER_X10|TIGER_X10|
 |Winmax|X50|X50|X50|
 |Winmax|x40|X40|X40|
+|Winnovo|T10|T10|T10|
 |Wintec|T730|T730|Clear|
 |Wintec|T730|T730|T730|
 |Wintec|T750|T750|Clear|
