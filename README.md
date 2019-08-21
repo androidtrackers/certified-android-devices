@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-08-20
+Last sync is 2019-08-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1889,6 +1889,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-7000G|BQru-7000G|BQ-7000G|
 |BQru|BQ-7022G|BQru-7022|BQ-7022|
 |BQru|BQ-7036L|BQru-7036L|BQ-7036L|
+|BQru|BQ-7038G|BQru-7038G|BQ-7038G|
 |BQru|BQ-7040G|BQru-7040G|BQ-7040G|
 |BQru|BQ-7081G|BQru-7081|BQru-7081|
 |BQru|BQ-7082G|BQru-7082G_2019|BQ-7082G|
@@ -2265,6 +2266,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Energy X LTE|BLU_Energy_X_LTE|Energy X LTE|
 |Blu|G5|G0090|G5|
 |Blu|G9|G0130WW|G9|
+|Blu|G9|G0130WW_SR|G9|
 |Blu|G9 PRO|G0230WW|G9 PRO|
 |Blu|GRAND 5.5 HD|BLU_GRAND_5_5_HD|BLU GRAND 5.5 HD|
 |Blu|Grand 5.5 HD II|G210Q|Grand 5.5 HD II|
@@ -3832,6 +3834,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Diva|QC1004GM|QC1004GM|QC1004GM|
 |Diva|QC7704GM|QC7704GM|QC7704GM|
 |Diva|QC804GM|QC804GM|QC804GM|
+|Dixon|KT5509|KT5509|KT5509|
 |Docomo|Japan|TT01|TT01|
 |Docomo|MEDIAS TAB UL N-08D|N-08D|N-08D|
 |Docomo|d-01J|d-01J|d-01J|
@@ -9492,6 +9495,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KAZAM|Trooper2 45|Trooper2_45|Trooper2 45|
 |KAZAM|Trooper2 50|Trooper2_50|KAZAM Trooper2 50|
 |KAZAM|Trooper2 60|Trooper2_60|Kazam Trooper2 60|
+|KCTV|CJ680CM|jj680cm|GX-JJ680CM|
 |KD Interactive|C15100i|C15100i|C15100i|
 |KD Interactive|C15100m|Pixi3-7_KD|C15100m|
 |KD Interactive|C15150m|Pixi3-7_KD|C15150m|
@@ -10446,7 +10450,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG K4/K7 (2017)|mlv1|LG-X230YK|
 |LGE|LG K40|mh4-pr|LM-X420|
 |LGE|LG K40|mh4x|LM-X420|
-|LGE|LG K40|mmh4|LM-X420|
 |LGE|LG K40|mmh4x|LM-X420|
 |LGE|LG K5|d3|LG-X220|
 |LGE|LG K50|mmh4p-pr|802LG|
@@ -13070,6 +13073,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Micromax|Yutopia|YUTOPIA|YU5050|
 |Microtech|Microtech_e-tab_Style|Microtech_etabStyle|Microtech_etabStyle|
 |Microtech|e-tab_style_rev.3|e-tab_style_REV3|e-tab_style_REV3|
+|Migu|MGV2002|MGV2002|MGV2002|
 |MiiA|MT-733G|MT-733G|MT-733G|
 |MiiA|MiiA|TA10CA1_2|TA10CA1|
 |Mikona|MFHD_BT1067QC16IPS2|MFHD_BT1067QC16IPS2|MFHD_BT1067QC16IPS2|
@@ -14115,6 +14119,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NOA Mobile|Forte_se|Forte_se|Forte_se|
 |NOA Mobile|Fresh 4G|Fresh_4G|Fresh_4G|
 |NOA Mobile|Hummer|Hummer|Hummer|
+|NOA Mobile|Hummer_2019_R|Hummer_2019_R|Hummer_2019_R|
 |NOA Mobile|N1|N1|N1|
 |NOA Mobile|N10|NOA_N10|N10|
 |NOA Mobile|N20|NOA_N20|N20|
@@ -23690,6 +23695,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|009Z|bladeplus|ZTE V882|
 |ZTE|009Z|bladeplus|ZTE V886J|
 |ZTE|402ZT|ZTE-402ZT|402ZT|
+|ZTE|A1 Alpha|P963F01D|A1 Alpha|
 |ZTE|A1P|ailsa|A1P|
 |ZTE|A1R|billy|A1|
 |ZTE|A1R|billy|A1R|

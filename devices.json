@@ -11305,6 +11305,12 @@
  },
  {
   "brand": "BQru",
+  "name": "BQ-7038G",
+  "device": "BQru-7038G",
+  "model": "BQ-7038G"
+ },
+ {
+  "brand": "BQru",
   "name": "BQ-7040G",
   "device": "BQru-7040G",
   "model": "BQ-7040G"
@@ -13557,6 +13563,12 @@
   "brand": "Blu",
   "name": "G9",
   "device": "G0130WW",
+  "model": "G9"
+ },
+ {
+  "brand": "Blu",
+  "name": "G9",
+  "device": "G0130WW_SR",
   "model": "G9"
  },
  {
@@ -22960,6 +22972,12 @@
   "name": "QC804GM",
   "device": "QC804GM",
   "model": "QC804GM"
+ },
+ {
+  "brand": "Dixon",
+  "name": "KT5509",
+  "device": "KT5509",
+  "model": "KT5509"
  },
  {
   "brand": "Docomo",
@@ -56922,6 +56940,12 @@
   "model": "Kazam Trooper2 60"
  },
  {
+  "brand": "KCTV",
+  "name": "CJ680CM",
+  "device": "jj680cm",
+  "model": "GX-JJ680CM"
+ },
+ {
   "brand": "KD Interactive",
   "name": "C15100i",
   "device": "C15100i",
@@ -62643,12 +62667,6 @@
   "brand": "LGE",
   "name": "LG K40",
   "device": "mh4x",
-  "model": "LM-X420"
- },
- {
-  "brand": "LGE",
-  "name": "LG K40",
-  "device": "mmh4",
   "model": "LM-X420"
  },
  {
@@ -78390,6 +78408,12 @@
   "model": "e-tab_style_REV3"
  },
  {
+  "brand": "Migu",
+  "name": "MGV2002",
+  "device": "MGV2002",
+  "model": "MGV2002"
+ },
+ {
   "brand": "MiiA",
   "name": "MT-733G",
   "device": "MT-733G",
@@ -84658,6 +84682,12 @@
   "name": "Hummer",
   "device": "Hummer",
   "model": "Hummer"
+ },
+ {
+  "brand": "NOA Mobile",
+  "name": "Hummer_2019_R",
+  "device": "Hummer_2019_R",
+  "model": "Hummer_2019_R"
  },
  {
   "brand": "NOA Mobile",
@@ -142108,6 +142138,12 @@
   "name": "402ZT",
   "device": "ZTE-402ZT",
   "model": "402ZT"
+ },
+ {
+  "brand": "ZTE",
+  "name": "A1 Alpha",
+  "device": "P963F01D",
+  "model": "A1 Alpha"
  },
  {
   "brand": "ZTE",
