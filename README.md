@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-08-21
+Last sync is 2019-08-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -32,9 +32,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ACE France|AS0218|AS0218|BUZZ 1|
 |ACE France|AS0518|AS0518|URBAN 1 Pro|
 |ACE France|AS0618|AS0618|CLEVER 1|
+|ACE France|BUZZ 2|BUZZ_2|BUZZ 2|
+|ACE France|BUZZ 2|BUZZ_2_Plus|BUZZ 2 Plus|
 |ACE France|BUZZ_1_Lite|BUZZ_1_Lite|BUZZ 1 Lite|
 |ACE France|BUZZ_1_Plus|BUZZ_1_Plus|BUZZ 1 Plus|
 |ACE France|URBAN 1|URBAN_1|URBAN 1|
+|ACE France|URBAN 2|URBAN_2|URBAN 2|
 |ACKEES|V10401|V10401|V10401|
 |ACT|ACT4K1007|IPBox|ACT4K1007|
 |AG Mobile|AG BOOST 2|BOOST2|E4010|
@@ -3474,6 +3477,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|S290|S290|S290|
 |DEXP|S370|S370|S370|
 |DEXP|S470|S470|S470|
+|DEXP|S570|S570|S570|
 |DEXP|Senior|SENIOR|SENIOR|
 |DEXP|T155|T155|T155|
 |DEXP|URSUS S180i|S180i|S180i|
@@ -4809,6 +4813,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Future Mobile Technology|FMT-NM7054-03|FMT-NM7054-03|FMT-NM7054-03|
 |Future Mobile Technology|FMT-NM7058-03|FMT-NM7058-03|FMT-NM7058-03|
 |Future Mobile Technology|FXT113R|FXT113R|FXT113R|
+|Future Mobile Technology|FXT810R|FXT810R|FXT810R|
 |Future Mobile Technology|FXTK13R|FXTK13R|FXTK13R|
 |Future Mobile Technology|Falcon|176HS1050531|176HS1050531|
 |Future Mobile Technology|Flash|FMT-NM7058-02|FMT-NM7058-02|
@@ -5080,6 +5085,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gionee|F5L|GIONEE_SWG1608|F5L|
 |Gionee|F6|GIONEE_SW17G15|GIONEE F6|
 |Gionee|F6L|GIONEE_SW17G15|GIONEE F6L|
+|Gionee|F9 Plus|F9_Plus|GIONEE F9 Plus|
 |Gionee|ForwardZero|V6L|V6L|
 |Gionee|GIONEE F109|GIONEE_SW17G09|GIONEE F109|
 |Gionee|GIONEE F109L|GIONEE_SW17G09|GIONEE F109L|
@@ -12528,6 +12534,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mafe|M8_Plus|M8_Plus|M8_Plus|
 |Mafe|Z1|Z1|Z1|
 |Majestic|TAB 611 3G|TAB_611_3G|TAB 611 3G|
+|Majestic|TAB-714|TAB-714|TAB-714|
 |Majestic|TAB_711_4G|TAB_711_4G|TAB 711 4G|
 |Making Life Simple|Brace|iQM801|iQM801|
 |Making Life Simple|MLS Novel 3G|iQ181011N|iQ181011N|
@@ -14563,6 +14570,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus5T|OnePlus5T|ONEPLUS A5010|
 |OnePlus|OnePlus6T|OnePlus6T|ONEPLUS A6013|
 |OnePlus|OnePlus6T|OnePlus6TSingle|ONEPLUS A6013|
+|OnePlus|Oneplus_Dosa_IN|Oneplus_Dosa_IN|Oneplus_Dosa_IN|
 |OnePlus|X|OnePlus|ONE E1003|
 |Onix|AT101-1118|AT101-1118|AT101-1118|
 |Onkyo|DP-CMX1|Gravity_128|DP-CMX1|
@@ -16235,6 +16243,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |QMobile|i8i PRO|i8i_PRO|QMobile i8i PRO|
 |QMobile|i8i_Pro_\xe2\x85\xa1|i8i_Pro_II|QMobile i8i Pro II|
 |QOOQ|QOOQV3|QOOQ|QOOQ|
+|QPS Digital Electronics|KIDS01|KIDS01|KIDS01|
 |QPS Digital Electronics|T1|T1|T1|
 |QUBO|Hermes|Hermes|Hermes|
 |QUBO|MINERVA|MINERVA|MINERVA|
@@ -19319,6 +19328,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sigma Mobile|X-TREME PQ24|X-treme_PQ24|X-treme_PQ24|
 |Sigma Mobile|X-TREME PQ28|X-treme_PQ28|X-treme_PQ28|
 |Sigma Mobile|X-TREME PQ37|X-TREME_PQ37|X-TREME_PQ37|
+|Sigma Mobile|X-TREME PQ39|X_TREME_PQ39|X-TREME PQ39|
 |Sigma Mobile|X-TREME PQ52|X-TREME_PQ52|X-TREME PQ52|
 |Sigma Mobile|X-Treme_PQ51|X-Treme_PQ51|X-Treme_PQ51|
 |Sigma Mobile|X-treme PQ20|X-treme_PQ20|X-treme_PQ20|
@@ -20031,6 +20041,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Southern Telecom|Streamachine|X13|X13|
 |Southern Telecom|a4|a4|a4|
 |SoyMomo|S8-RK3368|S8-RK3368|S8-RK3368|
+|Spark|Spark_Plus_3|Spark_Plus_3|Spark Plus 3|
 |SpectraPrecision|Ranger 5 Handheld|workhorse_wifi|Ranger5|
 |SpectraPrecision|Ranger 8 Handheld|pelican|Ranger8|
 |SpectraPrecision|Ranger 8 Handheld|pelican_wifi|Ranger8|
@@ -21722,6 +21733,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO S1 Lite|TECNO-S1Lite|TECNO S1 Lite|
 |Tecno|TECNO SA2S|TECNO-SA2S|TECNO SA2S|
 |Tecno|TECNO SA7S|TECNO-SA7S|TECNO SA7S|
+|Tecno|TECNO SPARK 4 Air|TECNO-KC1j|TECNO KC1j|
+|Tecno|TECNO SPARK Go|TECNO-KC1|TECNO KC1|
 |Tecno|TECNO W5|TECNO-W5|TECNO-W5|
 |Tecno|TECNO WX4 Pro S|TECNO-WX4-Pro|TECNO WX4 Pro S|
 |Tecno|TECNO-W5|TECNO-W5|TECNO-W5|

@@ -163,6 +163,18 @@
  },
  {
   "brand": "ACE France",
+  "name": "BUZZ 2",
+  "device": "BUZZ_2",
+  "model": "BUZZ 2"
+ },
+ {
+  "brand": "ACE France",
+  "name": "BUZZ 2",
+  "device": "BUZZ_2_Plus",
+  "model": "BUZZ 2 Plus"
+ },
+ {
+  "brand": "ACE France",
   "name": "BUZZ_1_Lite",
   "device": "BUZZ_1_Lite",
   "model": "BUZZ 1 Lite"
@@ -178,6 +190,12 @@
   "name": "URBAN 1",
   "device": "URBAN_1",
   "model": "URBAN 1"
+ },
+ {
+  "brand": "ACE France",
+  "name": "URBAN 2",
+  "device": "URBAN_2",
+  "model": "URBAN 2"
  },
  {
   "brand": "ACKEES",
@@ -20815,6 +20833,12 @@
  },
  {
   "brand": "DEXP",
+  "name": "S570",
+  "device": "S570",
+  "model": "S570"
+ },
+ {
+  "brand": "DEXP",
   "name": "Senior",
   "device": "SENIOR",
   "model": "SENIOR"
@@ -28825,6 +28849,12 @@
  },
  {
   "brand": "Future Mobile Technology",
+  "name": "FXT810R",
+  "device": "FXT810R",
+  "model": "FXT810R"
+ },
+ {
+  "brand": "Future Mobile Technology",
   "name": "FXTK13R",
   "device": "FXTK13R",
   "model": "FXTK13R"
@@ -30448,6 +30478,12 @@
   "name": "F6L",
   "device": "GIONEE_SW17G15",
   "model": "GIONEE F6L"
+ },
+ {
+  "brand": "Gionee",
+  "name": "F9 Plus",
+  "device": "F9_Plus",
+  "model": "GIONEE F9 Plus"
  },
  {
   "brand": "Gionee",
@@ -75139,6 +75175,12 @@
  },
  {
   "brand": "Majestic",
+  "name": "TAB-714",
+  "device": "TAB-714",
+  "model": "TAB-714"
+ },
+ {
+  "brand": "Majestic",
   "name": "TAB_711_4G",
   "device": "TAB_711_4G",
   "model": "TAB 711 4G"
@@ -87349,6 +87391,12 @@
  },
  {
   "brand": "OnePlus",
+  "name": "Oneplus_Dosa_IN",
+  "device": "Oneplus_Dosa_IN",
+  "model": "Oneplus_Dosa_IN"
+ },
+ {
+  "brand": "OnePlus",
   "name": "X",
   "device": "OnePlus",
   "model": "ONE E1003"
@@ -97378,6 +97426,12 @@
   "name": "QOOQV3",
   "device": "QOOQ",
   "model": "QOOQ"
+ },
+ {
+  "brand": "QPS Digital Electronics",
+  "name": "KIDS01",
+  "device": "KIDS01",
+  "model": "KIDS01"
  },
  {
   "brand": "QPS Digital Electronics",
@@ -115885,6 +115939,12 @@
  },
  {
   "brand": "Sigma Mobile",
+  "name": "X-TREME PQ39",
+  "device": "X_TREME_PQ39",
+  "model": "X-TREME PQ39"
+ },
+ {
+  "brand": "Sigma Mobile",
   "name": "X-TREME PQ52",
   "device": "X-TREME_PQ52",
   "model": "X-TREME PQ52"
@@ -120154,6 +120214,12 @@
   "name": "S8-RK3368",
   "device": "S8-RK3368",
   "model": "S8-RK3368"
+ },
+ {
+  "brand": "Spark",
+  "name": "Spark_Plus_3",
+  "device": "Spark_Plus_3",
+  "model": "Spark Plus 3"
  },
  {
   "brand": "SpectraPrecision",
@@ -130300,6 +130366,18 @@
   "name": "TECNO SA7S",
   "device": "TECNO-SA7S",
   "model": "TECNO SA7S"
+ },
+ {
+  "brand": "Tecno",
+  "name": "TECNO SPARK 4 Air",
+  "device": "TECNO-KC1j",
+  "model": "TECNO KC1j"
+ },
+ {
+  "brand": "Tecno",
+  "name": "TECNO SPARK Go",
+  "device": "TECNO-KC1",
+  "model": "TECNO KC1"
  },
  {
   "brand": "Tecno",
