@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-08-22
+Last sync is 2019-08-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3051,6 +3051,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Condor|Plume L3|Plume_L3|Plume L3|
 |Condor|Plume L4|Plume_L4|Plume L4|
 |Condor|Plume L4 Pro|Plume_L4_Pro|Plume L4 Pro|
+|Condor|Plume L6 Pro|Plume_L6_Pro|Plume L6 Pro|
+|Condor|Plume L8 Pro|Plume_L8_Pro|Plume L8 Pro|
 |Condor|Plume P4 Plus|PGN527|PGN527|
 |Condor|Plume P6 Pro LTE|PGN528|PGN528|
 |Condor|Plume P8 Lite|PGN610|PGN610|
@@ -3325,6 +3327,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Covia|CP-W5s|CP-W5s|CP-W5s|
 |Covia|g06+|g06|g06|
 |Crema|CREMA0810T|crema0810t|CREMA0810T|
+|Cristor|Glory_Z1|Glory_Z1|Glory Z1|
+|Cristor|Trendy_1|Trendy_1|Trendy 1|
+|Cristor|Trendy_2|Trendy_2|Trendy 2|
 |Croatian Telecom|KSTB6044|KSTB6044|KSTB6044|
 |Crosscall|Action-X3|HS8937QC|ACTION-X3|
 |Crosscall|Action-X3|HS8937QC|Action-X3|
@@ -3671,6 +3676,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DigiLand|DL9003mk|mdt9003|DL9003MK|
 |DigiLand|EVERPAD|EVERPAD|SC-725|
 |DigiLand|KTAB17|KTAB17|KTAB17|
+|DigiLand|Leotec|mid1016_mk_32|Supernova|
 |DigiLand|MID1008_Digiland|mid1008|DL1008M|
 |DigiLand|MID8006_Digiland|mid8006_mk_32|mid8006_mk_32|
 |DigiLand|NBDVDTAB9|NBDVDTAB9|NBDVDTAB9|
@@ -3839,6 +3845,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Diva|QC7704GM|QC7704GM|QC7704GM|
 |Diva|QC804GM|QC804GM|QC804GM|
 |Dixon|KT5509|KT5509|KT5509|
+|Docomo|F-06F|F06F|F-06F|
 |Docomo|Japan|TT01|TT01|
 |Docomo|MEDIAS TAB UL N-08D|N-08D|N-08D|
 |Docomo|d-01J|d-01J|d-01J|
@@ -9880,6 +9887,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyowon|All&G PAD|mypad2|KA-E410W|
 |Kzen|Eva_E01|Eva_E01|Eva_E01|
 |Kzen|Lamia_L01|Lamia_L01|Lamia L01|
+|LEOMO|LEM-TS1|LMS|LEM-TS1|
 |LGE||AS855|LG-AS855|
 |LGE||LGP970|LG-P970|
 |LGE||US855|USCC-US855|
@@ -22987,6 +22995,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wenu|Kate|Wenu|Kate|
 |Westinghouse|W7T3G19|W7T3G19|W7T3G19|
 |Westinghouse|W7TBL19|W7TBL19|W7TBL19|
+|Westinghouse|W7TPK19|W7TPK19|W7TPK19|
 |Westinghouse|W7TWF19|W7TWF19|W7TWF19|
 |Wexler|WLT710M|WLT710M|WLT710M|
 |Wieppo|Wieppo E1|Wieppo_E1|Wieppo E1|

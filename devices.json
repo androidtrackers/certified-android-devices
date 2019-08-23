@@ -18277,6 +18277,18 @@
  },
  {
   "brand": "Condor",
+  "name": "Plume L6 Pro",
+  "device": "Plume_L6_Pro",
+  "model": "Plume L6 Pro"
+ },
+ {
+  "brand": "Condor",
+  "name": "Plume L8 Pro",
+  "device": "Plume_L8_Pro",
+  "model": "Plume L8 Pro"
+ },
+ {
+  "brand": "Condor",
   "name": "Plume P4 Plus",
   "device": "PGN527",
   "model": "PGN527"
@@ -19918,6 +19930,24 @@
   "name": "CREMA0810T",
   "device": "crema0810t",
   "model": "CREMA0810T"
+ },
+ {
+  "brand": "Cristor",
+  "name": "Glory_Z1",
+  "device": "Glory_Z1",
+  "model": "Glory Z1"
+ },
+ {
+  "brand": "Cristor",
+  "name": "Trendy_1",
+  "device": "Trendy_1",
+  "model": "Trendy 1"
+ },
+ {
+  "brand": "Cristor",
+  "name": "Trendy_2",
+  "device": "Trendy_2",
+  "model": "Trendy 2"
  },
  {
   "brand": "Croatian Telecom",
@@ -21997,6 +22027,12 @@
  },
  {
   "brand": "DigiLand",
+  "name": "Leotec",
+  "device": "mid1016_mk_32",
+  "model": "Supernova"
+ },
+ {
+  "brand": "DigiLand",
   "name": "MID1008_Digiland",
   "device": "mid1008",
   "model": "DL1008M"
@@ -23002,6 +23038,12 @@
   "name": "KT5509",
   "device": "KT5509",
   "model": "KT5509"
+ },
+ {
+  "brand": "Docomo",
+  "name": "F-06F",
+  "device": "F06F",
+  "model": "F-06F"
  },
  {
   "brand": "Docomo",
@@ -59248,6 +59290,12 @@
   "name": "Lamia_L01",
   "device": "Lamia_L01",
   "model": "Lamia L01"
+ },
+ {
+  "brand": "LEOMO",
+  "name": "LEM-TS1",
+  "device": "LMS",
+  "model": "LEM-TS1"
  },
  {
   "brand": "LGE",
@@ -137890,6 +137938,12 @@
   "name": "W7TBL19",
   "device": "W7TBL19",
   "model": "W7TBL19"
+ },
+ {
+  "brand": "Westinghouse",
+  "name": "W7TPK19",
+  "device": "W7TPK19",
+  "model": "W7TPK19"
  },
  {
   "brand": "Westinghouse",
