@@ -71173,6 +71173,12 @@
  },
  {
   "brand": "Lenovo",
+  "name": "Lenovo A6 Note",
+  "device": "Lenovo_A6_Note",
+  "model": "Lenovo L19041"
+ },
+ {
+  "brand": "Lenovo",
   "name": "Lenovo K11",
   "device": "L38082",
   "model": "Lenovo L38082"
@@ -125721,6 +125727,12 @@
   "brand": "TCT (Alcatel)",
   "name": "Alcatel 1V",
   "device": "Wright",
+  "model": "5001D_RU"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1V",
+  "device": "Wright",
   "model": "5001J"
  },
  {
@@ -139110,6 +139122,12 @@
   "model": "Swift 2 Plus"
  },
  {
+  "brand": "Win (VE)",
+  "name": "Q7",
+  "device": "Q7",
+  "model": "Q7"
+ },
+ {
   "brand": "Winds Mobile",
   "name": "MT7001",
   "device": "MT7001",
@@ -139120,6 +139138,12 @@
   "name": "WINDS-T3",
   "device": "WINDS-T3",
   "model": "T3"
+ },
+ {
+  "brand": "Wings",
+  "name": "W6",
+  "device": "W6",
+  "model": "W6"
  },
  {
   "brand": "Wink",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-08-25
+Last sync is 2019-08-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11867,6 +11867,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo A5|L18011|L18011|
 |Lenovo|Lenovo A5|L18021|Lenovo L18021|
 |Lenovo|Lenovo A5s|A5s|Lenovo L18081|
+|Lenovo|Lenovo A6 Note|Lenovo_A6_Note|Lenovo L19041|
 |Lenovo|Lenovo K11|L38082|Lenovo L38082|
 |Lenovo|Lenovo K11|L38083|Lenovo L38083|
 |Lenovo|Lenovo K8|brady_f|Lenovo K|
@@ -20958,6 +20959,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1T 7 WIFI|U3A_7_WIFI|8068|
 |TCT (Alcatel)|Alcatel 1V|Wright|5001A|
 |TCT (Alcatel)|Alcatel 1V|Wright|5001D_EEA|
+|TCT (Alcatel)|Alcatel 1V|Wright|5001D_RU|
 |TCT (Alcatel)|Alcatel 1V|Wright|5001J|
 |TCT (Alcatel)|Alcatel 1V|Wright|5001T|
 |TCT (Alcatel)|Alcatel 1V|Wright|5001U|
@@ -23190,8 +23192,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wileyfox|Swift 2|marmite|Swift 2 X|
 |Wileyfox|Swift 2|marmite|Wileyfox Swift 2 Plus|
 |Wileyfox|Swift2 Add-X|marmite|Swift 2 Plus|
+|Win (VE)|Q7|Q7|Q7|
 |Winds Mobile|MT7001|MT7001|MT7001|
 |Winds Mobile|WINDS-T3|WINDS-T3|T3|
+|Wings|W6|W6|W6|
 |Wink|City S|Wink_City_S|Wink_City_S|
 |Wink|Glory_SE|Wink_Glory_SE|Wink Glory SE|
 |Wink|Share SE|Wink_Share_SE|Wink_Share_SE|
