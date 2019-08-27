@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-08-26
+Last sync is 2019-08-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14510,6 +14510,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ODYS|MAVEN_X10_HD_LTE|MAVEN_X10_HD_LTE|MAVEN_X10_HD_LTE|
 |ODYS|NoteTab_Pro|NoteTab_Pro|NoteTab_Pro|
 |ODYS|PACE 10|PACE10|PACE10|
+|ODYS|THANOS_10|THANOS_10|THANOS_10|
 |ODYS|Titan_10_LTE|Titan_10_LTE|Titan_10_LTE|
 |ODYS|XELIO_HD10|XELIO_HD10|XELIO_HD10|
 |ODYS|\xc2\xa0FALCON_10_PLUS_3G|FALCON_10_PLUS_3G|FALCON_10_PLUS_3G|
@@ -14579,7 +14580,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus5T|OnePlus5T|ONEPLUS A5010|
 |OnePlus|OnePlus6T|OnePlus6T|ONEPLUS A6013|
 |OnePlus|OnePlus6T|OnePlus6TSingle|ONEPLUS A6013|
-|OnePlus|Oneplus_Dosa_IN|Oneplus_Dosa_IN|Oneplus_Dosa_IN|
 |OnePlus|X|OnePlus|ONE E1003|
 |Onix|AT101-1118|AT101-1118|AT101-1118|
 |Onkyo|DP-CMX1|Gravity_128|DP-CMX1|
@@ -15638,6 +15638,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Polaroid|A7_PTAB735|A7_PTAB735|HS-7DTB39|
 |Polaroid|A9x/PTAB935x|A9xPTAB935x|A9x/PTAB935x|
 |Polaroid|BDL5048|BDL5048|BDL5048PR001|
+|Polaroid|BDLE716|BDLE716_EEA|BDLE716|
 |Polaroid|BDLT107|BDLT107|BDLT107|
 |Polaroid|Cosmo L|P5026A|P5026A|
 |Polaroid|Cosmo P5s|P5046A|P5046A|
@@ -20012,6 +20013,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sourcing Creation|Smart\' Tab 1006|M16Q1A|SmartTab1006|
 |Sourcing Creation|SmartTab_8004|T814|SmartTab_8004|
 |Sourcing Creation|Web\'Pad_1002_02|Webpad_1002_02|Webpad_1002_02|
+|Sourcing Creation|WebPad1004|WebPad1004|WebPad1004|
 |Sourcing Creation|WebPad_1003|WebPad_1003|WebPad_1003|
 |Sourcing Creation|Webpad7006|ES721|Webpad7006|
 |Sourcing Creation|Wooze I 5|Wooze_I5|Wooze_I5|
@@ -21025,6 +21027,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 5X|A5X|5060D|
 |TCT (Alcatel)|Alcatel 5X|A5X|5060D_EEA|
 |TCT (Alcatel)|Alcatel 5X|A5X|5060J|
+|TCT (Alcatel)|Alcatel JOY TAB|EasyTAB8MPCS|9029Z|
 |TCT (Alcatel)|Alcatel ONYX\xe2\x84\xa2|Edison_CKT|5008R|
 |TCT (Alcatel)|Alcatel ONYX\xe2\x84\xa2|Edison_CKT|Alcatel_5008R|
 |TCT (Alcatel)|Alcatel Raven LTE|BUZZ6T4GTFUMTS|A574BL|
@@ -23472,6 +23475,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |YU|Yureka Black|YU5040|YU5040|
 |YU|Yureka Black|YU5041|YU5041|
 |YU|Yureka Note|YU6000|YU 6000|
+|YUNTAB|YUNTAB-K107_EEA|YUNTAB-K107_EEA|YUNTAB-K107_EEA|
 |YUNTAB|YUNTAB-Q88|YUNTAB-Q88|YUNTAB-Q88|
 |Yandex|Amber|Amber|YNDX-000SB|
 |Yekani|T3A Trend|T3A_Trend|Trend|

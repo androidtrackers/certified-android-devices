@@ -87031,6 +87031,12 @@
  },
  {
   "brand": "ODYS",
+  "name": "THANOS_10",
+  "device": "THANOS_10",
+  "model": "THANOS_10"
+ },
+ {
+  "brand": "ODYS",
   "name": "Titan_10_LTE",
   "device": "Titan_10_LTE",
   "model": "Titan_10_LTE"
@@ -87442,12 +87448,6 @@
   "name": "OnePlus6T",
   "device": "OnePlus6TSingle",
   "model": "ONEPLUS A6013"
- },
- {
-  "brand": "OnePlus",
-  "name": "Oneplus_Dosa_IN",
-  "device": "Oneplus_Dosa_IN",
-  "model": "Oneplus_Dosa_IN"
  },
  {
   "brand": "OnePlus",
@@ -93796,6 +93796,12 @@
   "name": "BDL5048",
   "device": "BDL5048",
   "model": "BDL5048PR001"
+ },
+ {
+  "brand": "Polaroid",
+  "name": "BDLE716",
+  "device": "BDLE716_EEA",
+  "model": "BDLE716"
  },
  {
   "brand": "Polaroid",
@@ -120043,6 +120049,12 @@
  },
  {
   "brand": "Sourcing Creation",
+  "name": "WebPad1004",
+  "device": "WebPad1004",
+  "model": "WebPad1004"
+ },
+ {
+  "brand": "Sourcing Creation",
   "name": "WebPad_1003",
   "device": "WebPad_1003",
   "model": "WebPad_1003"
@@ -126118,6 +126130,12 @@
   "name": "Alcatel 5X",
   "device": "A5X",
   "model": "5060J"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel JOY TAB",
+  "device": "EasyTAB8MPCS",
+  "model": "9029Z"
  },
  {
   "brand": "TCT (Alcatel)",
@@ -140800,6 +140818,12 @@
   "name": "Yureka Note",
   "device": "YU6000",
   "model": "YU 6000"
+ },
+ {
+  "brand": "YUNTAB",
+  "name": "YUNTAB-K107_EEA",
+  "device": "YUNTAB-K107_EEA",
+  "model": "YUNTAB-K107_EEA"
  },
  {
   "brand": "YUNTAB",
