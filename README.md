@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-08-27
+Last sync is 2019-08-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -439,6 +439,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aimson|7C08S|7C08S|7C08S|
 |Aimson|AINOL_Q88X|AINOL_Q88X|Q88X|
 |Aimson|Q88|Q88|Q88|
+|Ainol|7C08X|7C08X|7C08X|
+|Ainol|Q88A_EEA|Q88A_EEA|Q88A|
 |AirTV|AirTV Mini|kunlun|AirTV Mini|
 |Airtab|AT8-N|AT8-N|AT8-N|
 |Airtel|HP2707|AirtelOTTBox|HP2707|
@@ -4844,6 +4846,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GENESIS|GT-7550|GT-7550|GT-7550|
 |GEOFOX|GEOFOX_MID743|GEOFOX_MID743|GEOFOX_MID743|
 |GFive|Gpad701|Gpad701|Gpad701|
+|GFive|PRESIDENT_GOLD_9|PRESIDENT_GOLD_9|PRESIDENT_GOLD_9|
 |GFive|President_Classic_9|President_Classic_9|President_Classic_9|
 |GFive|Xhero_7|Xhero_7|Xhero_7|
 |GIGI|U1|GIGI_U1|GIGI_U1|
@@ -9862,6 +9865,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|TORQUE G01|KYY24|KYY24|
 |Kyocera|TORQUE G02|KYV35|KYV35|
 |Kyocera|TORQUE G03|KYV41|KYV41|
+|Kyocera|TORQUE G04|KYV46|KYV46|
 |Kyocera|TORQUE(KC-S701)|KC-S701|KC-S701|
 |Kyocera|Torque|E6710|Torque|
 |Kyocera|TorqueXT|E6715|E6715|
@@ -11179,6 +11183,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LINNEX|LI22|LI22|LI22|
 |LINSAY|F-7HD2CORE / F-7HD4CORE / F-10HD2CORE /F-10XHD4CORE|F-7HD2CORE|LINSAY F-7HD2CORE/F-7HD4CORE/F-10HD2CORE/F-10XHD4CORE|
 |LOOQS|L108MR|L108MR|L108MR|
+|LP (TN)|N-50|LP_N_50|N-50|
 |LT Electronics|K100|K100|K100|
 |LT Electronics|K200|K200|K200|
 |LT Electronics|LT-NOTE-10S|LT-NOTE-10S|LT-NOTE 10S|
@@ -12311,6 +12316,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logicom|LEMENTTAB901|LEMENTTAB901|LEMENT_TAB901|
 |Logicom|LIXIR1044|LIXIR1044|LIXIR1044|
 |Logicom|LOGIKIDS5|LOGIKIDS5|LOGIKIDS5|
+|Logicom|LOGIKIDS5|LOGIKIDS5ED|LOGIKIDS5ED|
 |Logicom|L_IXIR_TAB_1047HD|L_IXIR_TAB_1047HD|L_IXIR_TAB_1047HD|
 |Logicom|La Tab 105|La_Tab_105|La Tab 105|
 |Logicom|La Tab 106|LaTab106|La Tab 106|
@@ -12489,6 +12495,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MLS Innovation|iQW511T|iQW511T|iQW511T|
 |MLS Innovation|iQW608|iQW608|iQW608|
 |MOBO|MB_530|MB_530|MB_530|
+|MOBULAA|S6|S6|S6|
 |MOVI|Movi Projector Phone|Movi|Movi Projector Phone|
 |MOVIC|A5501|A5501|A5501|
 |MOVIC|Dual|Dual|Dual|
@@ -12532,6 +12539,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MTT|Master|Master|M.T.T. Master|
 |MTT|Smart Fun|SmartFun|M.T.T. Smart Fun|
 |MTab|MT3|MT3|MT3|
+|MU (TH)|mu 1|mu_1|1|
 |Mach Speed|xtreme|X_treme_Play_Tab|X-treme Play Tab|
 |MachSpeed (Apollo Brands)|STR-9.6-Tablet|STR_96_Tablet|STR-9.6-Tablet|
 |MachSpeed (Apollo Brands)|Trio Stealth_10 Tablet|D_10AL|Trio Stealth_10|
@@ -12628,6 +12636,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maxwest|Astro 5P|Astro_5P|Astro 5P|
 |Maxwest|Astro_4P|Astro_4P|Astro_4P|
 |Maxwest|Astro_55N_LTE|Astro_55N_LTE|Astro 55N LTE|
+|Maxwest|Gravity _55_ GO|Gravity_55_GO|Gravity_55_GO|
+|Maxwest|Gravity_5_GO|Gravity_5_GO|Gravity_5_GO|
 |Maxwest|MAXWEST|Black765857703671|AstroPhablet7s|
 |Maxwest|Nitro 4N LTE|Nitro_4N_LTE|Nitro 4N LTE|
 |Maxwest|Nitro 4X|Nitro_4X|Nitro_4X|
@@ -14570,6 +14580,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus|OnePlus|ONE E1003|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6003|
 |OnePlus|OnePlus 7|OnePlus7|GM1905|
+|OnePlus|OnePlus 7 Pro|OP7ProNRSpr|GM1925|
 |OnePlus|OnePlus 7 Pro|OnePlus7Pro|GM1917|
 |OnePlus|OnePlus 7 Pro|OnePlus7ProTMO|GM1915|
 |OnePlus|OnePlus 7 Pro 5G|OnePlus7ProNR|GM1920|
@@ -16269,6 +16280,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Qilive|Q9T10IN4G|Q9T10IN4G|Q9T10IN4G|
 |Qilive|Q9T7IN4G|Q9T7IN4G|Q9T7IN4G|
 |Qilive|Q9T9IN|Q9T9IN|Q9T9IN|
+|Qilive|QT19071|QT19071|QT19071|
 |Qilive|QT19101|QT19101|QT19101|
 |Qilive|W55|W55|W55|
 |Qoobex|Qphone2019_A|Qphone2019_A|Qphone2019_A|
@@ -16619,6 +16631,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SSB PHONES|SSB-508D|SSB-508D|SSB-508D|
 |SSB PHONES|SSB504|SSB504|SSB504|
 |SSB PHONES|SSB504A|SSB504A|SSB504A|
+|SSB PHONES|SSB504R|SSB504R|SSB504R|
 |SSB PHONES|SSB5118R|SSB5118R|SSB5118R|
 |SSB PHONES|SSB5518|SSB5518|SSB5518|
 |SSB PHONES|SSB554R|SSB554R|SSB554R|
@@ -18514,6 +18527,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A 9.7|gt5note10lteskt|SM-P555S|
 |Samsung|Galaxy Tab A 9.7|gt5note10wifi|SM-P550|
 |Samsung|Galaxy Tab A 9.7|gt5note10wifichn|SM-P550|
+|Samsung|Galaxy Tab A Kids Edition|gtowifi|SM-T290|
 |Samsung|Galaxy Tab A S 8.0|gt58ltebmc|SM-T357W|
 |Samsung|Galaxy Tab A with S Pen|wisdom|SM-P205|
 |Samsung|Galaxy Tab A with S Pen|wisdomwifi|SM-P200|
@@ -21851,6 +21865,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telma|TELMA FEEL|TELMA_FEEL|TELMA FEEL|
 |Telma|TITAN|Telma_Titan_4G|Telma_Titan_4G|
 |Telma|Telma EGO|Telma_EGO|Telma EGO|
+|Telma|Telma i401|telma_i401|telma i401|
 |Telus|Pik TV Media Box|HMB2213PW22TS|HMB2213PW22TS|
 |Tesco|Hudl 2|HTF8A4|Hudl 2|
 |Tesco|Hudl HT7S3|ht7s3|Hudl HT7S3|

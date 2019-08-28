@@ -2604,6 +2604,18 @@
   "model": "Q88"
  },
  {
+  "brand": "Ainol",
+  "name": "7C08X",
+  "device": "7C08X",
+  "model": "7C08X"
+ },
+ {
+  "brand": "Ainol",
+  "name": "Q88A_EEA",
+  "device": "Q88A_EEA",
+  "model": "Q88A"
+ },
+ {
   "brand": "AirTV",
   "name": "AirTV Mini",
   "device": "kunlun",
@@ -29032,6 +29044,12 @@
   "name": "Gpad701",
   "device": "Gpad701",
   "model": "Gpad701"
+ },
+ {
+  "brand": "GFive",
+  "name": "PRESIDENT_GOLD_9",
+  "device": "PRESIDENT_GOLD_9",
+  "model": "PRESIDENT_GOLD_9"
  },
  {
   "brand": "GFive",
@@ -59143,6 +59161,12 @@
  },
  {
   "brand": "Kyocera",
+  "name": "TORQUE G04",
+  "device": "KYV46",
+  "model": "KYV46"
+ },
+ {
+  "brand": "Kyocera",
   "name": "TORQUE(KC-S701)",
   "device": "KC-S701",
   "model": "KC-S701"
@@ -67044,6 +67068,12 @@
   "model": "L108MR"
  },
  {
+  "brand": "LP (TN)",
+  "name": "N-50",
+  "device": "LP_N_50",
+  "model": "N-50"
+ },
+ {
   "brand": "LT Electronics",
   "name": "K100",
   "device": "K100",
@@ -73837,6 +73867,12 @@
  },
  {
   "brand": "Logicom",
+  "name": "LOGIKIDS5",
+  "device": "LOGIKIDS5ED",
+  "model": "LOGIKIDS5ED"
+ },
+ {
+  "brand": "Logicom",
   "name": "L_IXIR_TAB_1047HD",
   "device": "L_IXIR_TAB_1047HD",
   "model": "L_IXIR_TAB_1047HD"
@@ -74904,6 +74940,12 @@
   "model": "MB_530"
  },
  {
+  "brand": "MOBULAA",
+  "name": "S6",
+  "device": "S6",
+  "model": "S6"
+ },
+ {
   "brand": "MOVI",
   "name": "Movi Projector Phone",
   "device": "Movi",
@@ -75160,6 +75202,12 @@
   "name": "MT3",
   "device": "MT3",
   "model": "MT3"
+ },
+ {
+  "brand": "MU (TH)",
+  "name": "mu 1",
+  "device": "mu_1",
+  "model": "1"
  },
  {
   "brand": "Mach Speed",
@@ -75736,6 +75784,18 @@
   "name": "Astro_55N_LTE",
   "device": "Astro_55N_LTE",
   "model": "Astro 55N LTE"
+ },
+ {
+  "brand": "Maxwest",
+  "name": "Gravity _55_ GO",
+  "device": "Gravity_55_GO",
+  "model": "Gravity_55_GO"
+ },
+ {
+  "brand": "Maxwest",
+  "name": "Gravity_5_GO",
+  "device": "Gravity_5_GO",
+  "model": "Gravity_5_GO"
  },
  {
   "brand": "Maxwest",
@@ -87392,6 +87452,12 @@
  {
   "brand": "OnePlus",
   "name": "OnePlus 7 Pro",
+  "device": "OP7ProNRSpr",
+  "model": "GM1925"
+ },
+ {
+  "brand": "OnePlus",
+  "name": "OnePlus 7 Pro",
   "device": "OnePlus7Pro",
   "model": "GM1917"
  },
@@ -97585,6 +97651,12 @@
  },
  {
   "brand": "Qilive",
+  "name": "QT19071",
+  "device": "QT19071",
+  "model": "QT19071"
+ },
+ {
+  "brand": "Qilive",
   "name": "QT19101",
   "device": "QT19101",
   "model": "QT19101"
@@ -99682,6 +99754,12 @@
   "name": "SSB504A",
   "device": "SSB504A",
   "model": "SSB504A"
+ },
+ {
+  "brand": "SSB PHONES",
+  "name": "SSB504R",
+  "device": "SSB504R",
+  "model": "SSB504R"
  },
  {
   "brand": "SSB PHONES",
@@ -111052,6 +111130,12 @@
   "name": "Galaxy Tab A 9.7",
   "device": "gt5note10wifichn",
   "model": "SM-P550"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Tab A Kids Edition",
+  "device": "gtowifi",
+  "model": "SM-T290"
  },
  {
   "brand": "Samsung",
@@ -131074,6 +131158,12 @@
   "name": "Telma EGO",
   "device": "Telma_EGO",
   "model": "Telma EGO"
+ },
+ {
+  "brand": "Telma",
+  "name": "Telma i401",
+  "device": "telma_i401",
+  "model": "telma i401"
  },
  {
   "brand": "Telus",
