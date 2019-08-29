@@ -15247,6 +15247,12 @@
  },
  {
   "brand": "CORN",
+  "name": "C55",
+  "device": "C55",
+  "model": "C55"
+ },
+ {
+  "brand": "CORN",
   "name": "CORN C10",
   "device": "CORN_C10",
   "model": "C10"
@@ -24856,6 +24862,12 @@
   "name": "L863-10",
   "device": "L863-10",
   "model": "L863-10"
+ },
+ {
+  "brand": "Elink",
+  "name": "Winnovo",
+  "device": "T7",
+  "model": "T7"
  },
  {
   "brand": "ElliQ",
@@ -59089,6 +59101,12 @@
  },
  {
   "brand": "Kyocera",
+  "name": "Qua tab 01",
+  "device": "KYT31",
+  "model": "KYT31"
+ },
+ {
+  "brand": "Kyocera",
   "name": "Qua tab QZ10",
   "device": "KYT33",
   "model": "KYT33"
@@ -90666,6 +90684,12 @@
   "model": "PVG100EU"
  },
  {
+  "brand": "Palm",
+  "name": "Palm",
+  "device": "Pepito",
+  "model": "PVG100E_RU"
+ },
+ {
   "brand": "Panasonic",
   "name": "",
   "device": "H580VT_A",
@@ -98695,6 +98719,12 @@
  },
  {
   "brand": "Redmi",
+  "name": "Redmi K20 Pro",
+  "device": "raphael",
+  "model": "Redmi K20 Pro Premium Edition"
+ },
+ {
+  "brand": "Redmi",
   "name": "Redmi Note 7",
   "device": "lavender",
   "model": "Redmi Note 7"
@@ -100687,6 +100717,12 @@
  },
  {
   "brand": "Samsung",
+  "name": "Galaxy A10e",
+  "device": "a10e",
+  "model": "SM-S102DL"
+ },
+ {
+  "brand": "Samsung",
   "name": "Galaxy A10s",
   "device": "a10s",
   "model": "SM-A107F"
@@ -101452,6 +101488,12 @@
   "name": "Galaxy A7 (2018)",
   "device": "a7y18lte",
   "model": "SM-A750FN"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy A7 (2018)",
+  "device": "a7y18lte",
+  "model": "SM-A750G"
  },
  {
   "brand": "Samsung",
@@ -105346,6 +105388,12 @@
   "name": "Galaxy M30",
   "device": "m30lte",
   "model": "SM-M305M"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy M30s",
+  "device": "m30s",
+  "model": "SM-M307F"
  },
  {
   "brand": "Samsung",

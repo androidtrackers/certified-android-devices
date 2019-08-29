@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-08-28
+Last sync is 2019-08-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2546,6 +2546,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CMCC|M811|m811hk|M811|
 |COPAN|Aplus|Aplus|Aplus|
 |CORN|C5|C5|C5|
+|CORN|C55|C55|C55|
 |CORN|CORN C10|CORN_C10|C10|
 |CX Argentina|CX9011|CX9011|CX9011|
 |CYX Group|A7008|A7008|A7008|
@@ -4148,6 +4149,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Elevate|R50A|R50A|R50A|
 |Elevate|V55C|V55C|V55C|
 |Elink|L863-10|L863-10|L863-10|
+|Elink|Winnovo|T7|T7|
 |ElliQ|ElliQTablet|ElliQTablet|ElliQTablet|
 |Elong Mobile|Y50|Y50|Y50|
 |Elong Mobile|Y50s|Y50s|Y50s|
@@ -9853,6 +9855,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|Qua phone (KYV37)|KYV37|KYV37|
 |Kyocera|Qua phone QZ|KYV44|KYV44|
 |Kyocera|Qua phone QZ|KYV44|KYV44_u|
+|Kyocera|Qua tab 01|KYT31|KYT31|
 |Kyocera|Qua tab QZ10|KYT33|KYT33|
 |Kyocera|Qua tab QZ8|KYT32|KYT32|
 |Kyocera|Rise|C5155|C5155|
@@ -15116,6 +15119,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Palm|PVG100|Pepito|PVG100|
 |Palm|PVG100E|Pepito|PVG100E|
 |Palm|Palm|Pepito|PVG100EU|
+|Palm|Palm|Pepito|PVG100E_RU|
 |Panasonic||H580VT_A|JT-H580VT|
 |Panasonic||H581VT_A|JT-H581VT|
 |Panasonic||P-08D|P-08D|
@@ -16454,6 +16458,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi K20|davinciin|Redmi K20|
 |Redmi|Redmi K20 Pro|raphael|Mi 9T Pro|
 |Redmi|Redmi K20 Pro|raphael|Redmi K20 Pro|
+|Redmi|Redmi K20 Pro|raphael|Redmi K20 Pro Premium Edition|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Reeder|A8i Q2|A8i-Q2|A8i-Q2|
 |Reeder|M7 Plus|reeder_M7Plus|M7Plus|
@@ -16786,6 +16791,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A10|a10|SM-A105M|
 |Samsung|Galaxy A10|a10|SM-A105N|
 |Samsung|Galaxy A10e|a10e|SM-A102U|
+|Samsung|Galaxy A10e|a10e|SM-S102DL|
 |Samsung|Galaxy A10s|a10s|SM-A107F|
 |Samsung|Galaxy A10s|a10s|SM-A107M|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260F|
@@ -16914,6 +16920,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A7|a7lteskt|SM-A700S|
 |Samsung|Galaxy A7 (2018)|a7y18lte|SM-A750F|
 |Samsung|Galaxy A7 (2018)|a7y18lte|SM-A750FN|
+|Samsung|Galaxy A7 (2018)|a7y18lte|SM-A750G|
 |Samsung|Galaxy A7 (2018)|a7y18lte|SM-A750GN|
 |Samsung|Galaxy A7 (2018)|a7y18lteks|SM-A750N|
 |Samsung|Galaxy A7(2016)|a7xelte|SM-A710F|
@@ -17563,6 +17570,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M20|m20lte|SM-M205M|
 |Samsung|Galaxy M30|m30lte|SM-M305F|
 |Samsung|Galaxy M30|m30lte|SM-M305M|
+|Samsung|Galaxy M30s|m30s|SM-M307F|
 |Samsung|Galaxy M40|m40|SM-M405F|
 |Samsung|Galaxy Mega 2|mega23g|SM-G750H|
 |Samsung|Galaxy Mega 5.8|crater|GT-I9152|
