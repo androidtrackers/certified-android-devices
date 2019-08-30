@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-08-29
+Last sync is 2019-08-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3371,6 +3371,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|QUEST|QUEST|QUEST|
 |Cubot|QUEST LITE|QUEST_LITE|QUEST LITE|
 |Cubot|R15|R15|R15|
+|Cubot|R15_PRO|R15_PRO|R15_PRO|
 |Cubot|R19|R19|R19|
 |Cubot|RAINBOW 2|RAINBOW_2|RAINBOW 2|
 |Cubot|Rainbow|RAINBOW|RAINBOW|
@@ -3559,6 +3560,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datalogic|MEMOR 1|M1_AOSP|Memor 1|
 |Datalogic|MEMOR 1|M1_HANDHELD|Memor 1|
 |Datalogic|MEMOR 1|M1_PISTOL|Memor 1|
+|Datalogic|Memor 20|Q10|Memor 20|
 |Datamini|K508101|K508101|K508101|
 |Datamini|K908H4G|K908H4G|K908H4G|
 |Datamini|T74G|T74G|T74G|
@@ -6874,6 +6876,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|c20fe-3|HS8929QC|Hisense C20|
 |Hisense|e76mini|HS8937QC|Hisense E76mini|
 |Hisense|fushan|harajuku|HiSmart 2K ATV4|
+|Hisense|fushan_em|hamamatsucho|HiSmart 2K ATV4|
 |Hisense|l676be|HS8929QC|Hisense L676|
 |Hisense|l691|msm8226|HS-L691|
 |Hisense|l830|HS8937QC|Hisense L830|
@@ -12236,6 +12239,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LinkNet|ST950I-LN|ST950I-LN|ST950I-LN|
 |LinkNet|Smart Box HD|SH940C-LN|SH940C-LN|
 |LinkNet|X1 Prime|DCN88_72604_LN|DCN88_72604_LN|
+|Linsay|F_10XIPS|F_10XIPS|F_10XIPS|
 |Linsay|LINSAY_F10XHD|LINSAY_F10XHD|LINSAY_F10XHD|
 |Linsay|LINSAY_F10XIPS|LINSAY_F10XIPS|LINSAY_F10XIPS|
 |Lisheng|LS-Q878|LS-Q878|LS-Q878|
@@ -21674,7 +21678,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|F2LTE|TECNO-F2LTE|TECNO F2LTE|
 |Tecno|H5S|up09_tecno_h5s|TECNO H5S|
 |Tecno|H7S|qp16_tecno_h7s|H7S|
-|Tecno|Infinix HOT 7 pro|Infinix-X625C|Infinix X625C|
 |Tecno|J5|TECNO-J5|TECNO-J5|
 |Tecno|J7|TECNO-J7|TECNO-J7|
 |Tecno|J8|TECNO-J8|TECNO-J8|

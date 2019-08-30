@@ -20197,6 +20197,12 @@
  },
  {
   "brand": "Cubot",
+  "name": "R15_PRO",
+  "device": "R15_PRO",
+  "model": "R15_PRO"
+ },
+ {
+  "brand": "Cubot",
   "name": "R19",
   "device": "R19",
   "model": "R19"
@@ -21322,6 +21328,12 @@
   "name": "MEMOR 1",
   "device": "M1_PISTOL",
   "model": "Memor 1"
+ },
+ {
+  "brand": "Datalogic",
+  "name": "Memor 20",
+  "device": "Q10",
+  "model": "Memor 20"
  },
  {
   "brand": "Datamini",
@@ -41211,6 +41223,12 @@
   "brand": "Hisense",
   "name": "fushan",
   "device": "harajuku",
+  "model": "HiSmart 2K ATV4"
+ },
+ {
+  "brand": "Hisense",
+  "name": "fushan_em",
+  "device": "hamamatsucho",
   "model": "HiSmart 2K ATV4"
  },
  {
@@ -73384,6 +73402,12 @@
   "name": "X1 Prime",
   "device": "DCN88_72604_LN",
   "model": "DCN88_72604_LN"
+ },
+ {
+  "brand": "Linsay",
+  "name": "F_10XIPS",
+  "device": "F_10XIPS",
+  "model": "F_10XIPS"
  },
  {
   "brand": "Linsay",
@@ -130012,12 +130036,6 @@
   "name": "H7S",
   "device": "qp16_tecno_h7s",
   "model": "H7S"
- },
- {
-  "brand": "Tecno",
-  "name": "Infinix HOT 7 pro",
-  "device": "Infinix-X625C",
-  "model": "Infinix X625C"
  },
  {
   "brand": "Tecno",
