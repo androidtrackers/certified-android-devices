@@ -21330,12 +21330,6 @@
   "model": "Memor 1"
  },
  {
-  "brand": "Datalogic",
-  "name": "Memor 20",
-  "device": "Q10",
-  "model": "Memor 20"
- },
- {
   "brand": "Datamini",
   "name": "K508101",
   "device": "K508101",
@@ -140194,6 +140188,12 @@
   "name": "MI CC 9",
   "device": "pyxis",
   "model": "MI CC 9"
+ },
+ {
+  "brand": "Xiaomi",
+  "name": "MI CC 9",
+  "device": "pyxis",
+  "model": "Mi 9 Lite"
  },
  {
   "brand": "Xiaomi",

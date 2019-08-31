@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-08-30
+Last sync is 2019-08-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3560,7 +3560,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datalogic|MEMOR 1|M1_AOSP|Memor 1|
 |Datalogic|MEMOR 1|M1_HANDHELD|Memor 1|
 |Datalogic|MEMOR 1|M1_PISTOL|Memor 1|
-|Datalogic|Memor 20|Q10|Memor 20|
 |Datamini|K508101|K508101|K508101|
 |Datamini|K908H4G|K908H4G|K908H4G|
 |Datamini|T74G|T74G|T74G|
@@ -23371,6 +23370,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|MI 9 SE|grus|MI 9 SE|
 |Xiaomi|MI 9 SE|grus|Mi 9 SE|
 |Xiaomi|MI CC 9|pyxis|MI CC 9|
+|Xiaomi|MI CC 9|pyxis|Mi 9 Lite|
 |Xiaomi|MI CC 9|pyxis|Pyxis|
 |Xiaomi|MI CC 9e|laurus|MI CC 9e|
 |Xiaomi|MI CC 9e|laurus|laurus|
