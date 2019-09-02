@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-09-01
+Last sync is 2019-09-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -662,8 +662,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|X6 Soul Xtreme|X6_Soul_Xtreme|X6_Soul_Xtreme|
 |AllView|X6 Soul mini|X6_Soul_mini|X6_Soul_mini|
 |Alldocube|T1001|T1001|T1001|
+|Alldocube|T806|T806|T806|
+|Alldocube|T806ME|T806ME|T806ME|
 |Alldocube|U1005|U1005|U1005|
 |Alldocube|U1005E|U1005E|U1005E|
+|Alldocube|U1006|U1006|U1006|
+|Alldocube|U1006E|U1006E|U1006E|
 |Alldocube|U63PLUS|U63PLUS|U63PLUS|
 |Allducube|T1001|T1001|T1001|
 |Allfine|M721|86S|M721|
@@ -4420,6 +4424,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FIREFLY MOBILE|Inspire_4G|INSPIRE_4G|INSPIRE_4G|
 |FIREFLY MOBILE|SECRET_XR|SECRET_XR|SECRET_XR|
 |FIREFLY MOBILE|VIVID_PRO|VIVID_PRO|VIVID_PRO|
+|FLEX MOBILE|S9|S9|S9|
 |FOXXD|MIRO|L590A|L590A|
 |FPT Telecom|FPT ATV Play Box|DV8236|FPT ATV Play Box|
 |FPT Trading|A15|A15_01|A15|
@@ -8633,6 +8638,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hurricane|Wave|Hurricane|Wave|
 |Hurricane|Wave_Plus|Wave_Plus|Wave_Plus|
 |Huskee|ST-810|ST-810|ST-810|
+|Huskee|VULKANO|VULKANO|VULKANO|
 |Hykker|Smart Box Android TV|DV8038|Smart Box Android TV|
 |Hytera|PDC550|PDC550|PDC550|
 |Hytera|PNC550|PNC550|PNC550|
@@ -9163,6 +9169,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ipro|Pro8S|Pro8S|Pro8S|
 |Ipro|Ruby5S|Ruby5S|Ruby5S|
 |Ipro|WIN|WIN|WIN|
+|Ipro|WePad|WePad|WePad|
 |Ipro|X1|IPRO_X1|X1|
 |Ipro|XPLAY|XPLAY|XPLAY|
 |Ipro|Zafiro|Zafiro|Zafiro|
@@ -10476,6 +10483,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG K40|mmh4x|LM-X420|
 |LGE|LG K5|d3|LG-X220|
 |LGE|LG K50|mmh4p-pr|802LG|
+|LGE|LG K50|mmh4p-pr|KF1919|
 |LGE|LG K50|mmh4p-pr|LM-X520|
 |LGE|LG K7|m1|LG-AS330|
 |LGE|LG K7|m1|LG-K330|
@@ -13871,6 +13879,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|MS80X|ML-TI0D-MS80X|MS80X|
 |Multilaser|Ms5|MTL-MS5|MS5|
 |Multilaser|Ms6|MS6|MS6|
+|Multilaser|Multilaser E|Multilaser_E|Multilaser_E|
 |Multilaser|Multilaser G|Multilaser_G|Multilaser_G|
 |Multilaser|Multilaser G Pro|Multilaser_G_Pro|Multilaser_G_Pro|
 |Multilaser|Multilaser_F|Multilaser_F|Multilaser_F|
@@ -14027,6 +14036,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NASCO|SNAP PRO|SNAP_PRO|SNAP_PRO|
 |NASCO|TANGO10|TANGO10|TANGO10|
 |NASCO|Warrior|NAS-400|Warrior|
+|NAVA|P68|P68|P68|
 |NAXA|NID-7011|NID-7011|NID-7011|
 |NAXA|NID_7010|NID_7010|NID_7010|
 |NEC|101T \xe3\x80\x80MEDIAS|NEC-101|NEC-101T|
@@ -20370,6 +20380,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL L9|U5A_PLUS_4G|5159J|
 |TCL|TCL L9 Plus|Wright|5101A|
 |TCL|TCL L9 Plus|Wright|5101J|
+|TCL|TCL PLEX|T1|T780H|
 |TCL|TCL T7|A5A_INFINI|5186A|
 |TCL|Union TV|UnionTV|UnionTV|
 |TCT (Alcatel)||A556C|A556C|
@@ -22228,6 +22239,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unonu|UNONU X5C|X5C|X5C|
 |Unonu|UNONU_L55D|UNONU_L55D|UNONU_L55D|
 |Unonu|UNONU_N55S|UNONU_N55S|UNONU N55S|
+|Unonu|UNONU_W609|UNONU_W609|UNONU_W609|
 |Unonu|UT3G|UT3G|UT3G|
 |Unonu|W40L|W40L|W40L|
 |Unonu|W50A|W50A|W50A|
@@ -23264,6 +23276,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Woxter|Woxter_N90|Woxter_N90|Woxter_N90|
 |Woxter|X100|X100|X100|
 |Woxter|X70|X70|X70|
+|X-Age|A1|A1|A1|
 |X-Age|ACE|ACE|ACE|
 |X-Age|G1|G1|G1|
 |X-Age|G1LITE|G1LITE|G1LITE|
@@ -23370,7 +23383,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|MI 9 SE|grus|MI 9 SE|
 |Xiaomi|MI 9 SE|grus|Mi 9 SE|
 |Xiaomi|MI CC 9|pyxis|MI CC 9|
-|Xiaomi|MI CC 9|pyxis|Mi 9 Lite|
 |Xiaomi|MI CC 9|pyxis|Pyxis|
 |Xiaomi|MI CC 9e|laurus|MI CC 9e|
 |Xiaomi|MI CC 9e|laurus|laurus|

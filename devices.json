@@ -3943,6 +3943,18 @@
  },
  {
   "brand": "Alldocube",
+  "name": "T806",
+  "device": "T806",
+  "model": "T806"
+ },
+ {
+  "brand": "Alldocube",
+  "name": "T806ME",
+  "device": "T806ME",
+  "model": "T806ME"
+ },
+ {
+  "brand": "Alldocube",
   "name": "U1005",
   "device": "U1005",
   "model": "U1005"
@@ -3952,6 +3964,18 @@
   "name": "U1005E",
   "device": "U1005E",
   "model": "U1005E"
+ },
+ {
+  "brand": "Alldocube",
+  "name": "U1006",
+  "device": "U1006",
+  "model": "U1006"
+ },
+ {
+  "brand": "Alldocube",
+  "name": "U1006E",
+  "device": "U1006E",
+  "model": "U1006E"
  },
  {
   "brand": "Alldocube",
@@ -26488,6 +26512,12 @@
   "name": "VIVID_PRO",
   "device": "VIVID_PRO",
   "model": "VIVID_PRO"
+ },
+ {
+  "brand": "FLEX MOBILE",
+  "name": "S9",
+  "device": "S9",
+  "model": "S9"
  },
  {
   "brand": "FOXXD",
@@ -51768,6 +51798,12 @@
   "model": "ST-810"
  },
  {
+  "brand": "Huskee",
+  "name": "VULKANO",
+  "device": "VULKANO",
+  "model": "VULKANO"
+ },
+ {
   "brand": "Hykker",
   "name": "Smart Box Android TV",
   "device": "DV8038",
@@ -54946,6 +54982,12 @@
   "name": "WIN",
   "device": "WIN",
   "model": "WIN"
+ },
+ {
+  "brand": "Ipro",
+  "name": "WePad",
+  "device": "WePad",
+  "model": "WePad"
  },
  {
   "brand": "Ipro",
@@ -62824,6 +62866,12 @@
   "name": "LG K50",
   "device": "mmh4p-pr",
   "model": "802LG"
+ },
+ {
+  "brand": "LGE",
+  "name": "LG K50",
+  "device": "mmh4p-pr",
+  "model": "KF1919"
  },
  {
   "brand": "LGE",
@@ -83197,6 +83245,12 @@
  },
  {
   "brand": "Multilaser",
+  "name": "Multilaser E",
+  "device": "Multilaser_E",
+  "model": "Multilaser_E"
+ },
+ {
+  "brand": "Multilaser",
   "name": "Multilaser G",
   "device": "Multilaser_G",
   "model": "Multilaser_G"
@@ -84130,6 +84184,12 @@
   "name": "Warrior",
   "device": "NAS-400",
   "model": "Warrior"
+ },
+ {
+  "brand": "NAVA",
+  "name": "P68",
+  "device": "P68",
+  "model": "P68"
  },
  {
   "brand": "NAXA",
@@ -122191,6 +122251,12 @@
  },
  {
   "brand": "TCL",
+  "name": "TCL PLEX",
+  "device": "T1",
+  "model": "T780H"
+ },
+ {
+  "brand": "TCL",
   "name": "TCL T7",
   "device": "A5A_INFINI",
   "model": "5186A"
@@ -133339,6 +133405,12 @@
  },
  {
   "brand": "Unonu",
+  "name": "UNONU_W609",
+  "device": "UNONU_W609",
+  "model": "UNONU_W609"
+ },
+ {
+  "brand": "Unonu",
   "name": "UT3G",
   "device": "UT3G",
   "model": "UT3G"
@@ -139555,6 +139627,12 @@
  },
  {
   "brand": "X-Age",
+  "name": "A1",
+  "device": "A1",
+  "model": "A1"
+ },
+ {
+  "brand": "X-Age",
   "name": "ACE",
   "device": "ACE",
   "model": "ACE"
@@ -140188,12 +140266,6 @@
   "name": "MI CC 9",
   "device": "pyxis",
   "model": "MI CC 9"
- },
- {
-  "brand": "Xiaomi",
-  "name": "MI CC 9",
-  "device": "pyxis",
-  "model": "Mi 9 Lite"
  },
  {
   "brand": "Xiaomi",
