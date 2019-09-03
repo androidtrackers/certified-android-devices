@@ -3595,6 +3595,12 @@
  },
  {
   "brand": "AllView",
+  "name": "Viva 1003G Lite",
+  "device": "Viva_1003G_Lite",
+  "model": "Viva_1003G_Lite"
+ },
+ {
+  "brand": "AllView",
   "name": "Viva C701",
   "device": "Viva_C701",
   "model": "Viva_C701"
@@ -10503,6 +10509,18 @@
   "brand": "BMobile",
   "name": "AX1077+",
   "device": "Bmobile_AX1077_MAS",
+  "model": "AX1077+"
+ },
+ {
+  "brand": "BMobile",
+  "name": "AX1077+",
+  "device": "Bmobile_AX1077_MTG05",
+  "model": "AX1077+"
+ },
+ {
+  "brand": "BMobile",
+  "name": "AX1077+",
+  "device": "Bmobile_AX1077_MTG06",
   "model": "AX1077+"
  },
  {
@@ -26113,6 +26131,12 @@
  },
  {
   "brand": "Evoo",
+  "name": "EV-A-156-1",
+  "device": "EV-A-156-1",
+  "model": "EV-A-156-1"
+ },
+ {
+  "brand": "Evoo",
   "name": "EV-A-81-7-1",
   "device": "EV-A-81-7-1",
   "model": "EV-A-81-7-1"
@@ -26122,6 +26146,12 @@
   "name": "EV-A-81-8-1",
   "device": "EV-A-81-8-1",
   "model": "EV-A-81-8-1"
+ },
+ {
+  "brand": "Evoo",
+  "name": "EV-A-81-8-2",
+  "device": "EV-A-81-8-2",
+  "model": "EV-A-81-8-2"
  },
  {
   "brand": "Evoo",
@@ -29416,6 +29446,12 @@
   "name": "FXC-5A",
   "device": "FXC-5A",
   "model": "FXC-5A"
+ },
+ {
+  "brand": "Geanee",
+  "name": "JT10-90",
+  "device": "JT10-90",
+  "model": "JT10-90"
  },
  {
   "brand": "Geant",
@@ -52218,6 +52254,12 @@
   "model": "ST01"
  },
  {
+  "brand": "I-Scream",
+  "name": "E1012T",
+  "device": "ET1012T",
+  "model": "ET1012T"
+ },
+ {
   "brand": "ICL-KME CS OJSC",
   "name": "TR10CD1",
   "device": "TR10CD1_7",
@@ -52618,6 +52660,12 @@
   "name": "IK-787",
   "device": "IK-787",
   "model": "IK-787"
+ },
+ {
+  "brand": "IkuMobile",
+  "name": "A20",
+  "device": "A20",
+  "model": "A20"
  },
  {
   "brand": "IkuMobile",
@@ -56794,6 +56842,12 @@
   "name": "Mode1 MD-02P",
   "device": "MD-02P",
   "model": "MD-02P"
+ },
+ {
+  "brand": "Jyonetsu Kakaku",
+  "name": "YMR8",
+  "device": "YMR8",
+  "model": "YMR8"
  },
  {
   "brand": "K-LEADTONE",
@@ -73453,6 +73507,12 @@
  },
  {
   "brand": "Linsay",
+  "name": "F_7HD4CORE",
+  "device": "F_7HD4CORE",
+  "model": "F_7HD4CORE"
+ },
+ {
+  "brand": "Linsay",
   "name": "LINSAY_F10XHD",
   "device": "LINSAY_F10XHD",
   "model": "LINSAY_F10XHD"
@@ -76089,6 +76149,12 @@
   "brand": "Mecer",
   "name": "TF10MK1",
   "device": "TF10MK1_2",
+  "model": "TF10MK1"
+ },
+ {
+  "brand": "Mecer",
+  "name": "TF10MK1",
+  "device": "TF10MK1_3",
   "model": "TF10MK1"
  },
  {
@@ -122245,12 +122311,6 @@
  },
  {
   "brand": "TCL",
-  "name": "TCL L9 Plus",
-  "device": "Wright",
-  "model": "5101J"
- },
- {
-  "brand": "TCL",
   "name": "TCL PLEX",
   "device": "T1",
   "model": "T780H"
@@ -133537,6 +133597,12 @@
  },
  {
   "brand": "Vankyo",
+  "name": "Z10",
+  "device": "Z10",
+  "model": "Z10"
+ },
+ {
+  "brand": "Vankyo",
   "name": "Z1_EEA",
   "device": "Z1_EEA",
   "model": "Z1_EEA"
@@ -135724,6 +135790,18 @@
   "name": "V1911A",
   "device": "PD1911",
   "model": "V1911A"
+ },
+ {
+  "brand": "Vivo",
+  "name": "V1916A",
+  "device": "PD1916",
+  "model": "V1916A"
+ },
+ {
+  "brand": "Vivo",
+  "name": "V1922A",
+  "device": "PD1922",
+  "model": "V1922A"
  },
  {
   "brand": "Vivo",
@@ -139621,9 +139699,21 @@
  },
  {
   "brand": "Woxter",
+  "name": "X100v3",
+  "device": "X100v3",
+  "model": "X100v3"
+ },
+ {
+  "brand": "Woxter",
   "name": "X70",
   "device": "X70",
   "model": "X70"
+ },
+ {
+  "brand": "Woxter",
+  "name": "X70v2",
+  "device": "X70v2",
+  "model": "X70v2"
  },
  {
   "brand": "X-Age",
@@ -140271,6 +140361,12 @@
   "brand": "Xiaomi",
   "name": "MI CC 9",
   "device": "pyxis",
+  "model": "Mi 9 Lite"
+ },
+ {
+  "brand": "Xiaomi",
+  "name": "MI CC 9",
+  "device": "pyxis",
   "model": "Pyxis"
  },
  {
@@ -140464,6 +140560,12 @@
   "name": "Mi 5s",
   "device": "capricorn",
   "model": "MI 5s"
+ },
+ {
+  "brand": "Xiaomi",
+  "name": "Mi 9T Pro",
+  "device": "raphael",
+  "model": "Mi 9T Pro"
  },
  {
   "brand": "Xiaomi",
@@ -141046,6 +141148,12 @@
   "name": "Yureka Note",
   "device": "YU6000",
   "model": "YU 6000"
+ },
+ {
+  "brand": "YUNTAB",
+  "name": "YUNTAB-K107",
+  "device": "YUNTAB-K107",
+  "model": "YUNTAB-K107"
  },
  {
   "brand": "YUNTAB",
@@ -150874,6 +150982,12 @@
   "name": "TR10CS1_P",
   "device": "TR10CS1",
   "model": "TR10CS1"
+ },
+ {
+  "brand": "i-Buddie",
+  "name": "TU10MK1",
+  "device": "TU10MK1",
+  "model": "TU10MK1"
  },
  {
   "brand": "i-Mobile",

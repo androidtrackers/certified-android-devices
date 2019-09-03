@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-09-02
+Last sync is 2019-09-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -604,6 +604,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|V3 Viper|V3_Viper|V3_Viper|
 |AllView|Viva 1001G|Viva_1001G|Viva_1001G|
 |AllView|Viva 1003G|Viva_1003G|Viva_1003G|
+|AllView|Viva 1003G Lite|Viva_1003G_Lite|Viva_1003G_Lite|
 |AllView|Viva C701|Viva_C701|Viva_C701|
 |AllView|Viva C702|Viva_C702|Viva_C702|
 |AllView|Viva H10 LTE|Allview_VivaH10LTE_KK|VivaH10LTE|
@@ -1756,6 +1757,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|AX1077|Bmobile_AX1077|AX1077|
 |BMobile|AX1077+|Bmobile_AX1077PLUS|AX1077+|
 |BMobile|AX1077+|Bmobile_AX1077_MAS|AX1077+|
+|BMobile|AX1077+|Bmobile_AX1077_MTG05|AX1077+|
+|BMobile|AX1077+|Bmobile_AX1077_MTG06|AX1077+|
 |BMobile|AX1085|Bmobile_AX1085|AX1085|
 |BMobile|AX1091|Bmobile_AX1091|AX1091|
 |BMobile|AX1091|Bmobile_AX1091|Bmobile_AX1091|
@@ -4357,8 +4360,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Evolveo|EVOLVEO StrongPhone G8|EVOLVEOG8|EVOLVEO StrongPhone G8|
 |Evolveo|StrongPhone Q9|StrongPhoneQ9|StrongPhoneQ9|
 |Evoo|EV-A-101-1|EV-A-101-1|EV-A-101-1|
+|Evoo|EV-A-156-1|EV-A-156-1|EV-A-156-1|
 |Evoo|EV-A-81-7-1|EV-A-81-7-1|EV-A-81-7-1|
 |Evoo|EV-A-81-8-1|EV-A-81-8-1|EV-A-81-8-1|
+|Evoo|EV-A-81-8-2|EV-A-81-8-2|EV-A-81-8-2|
 |Evoo|EVM4G3|EVM4G3|EVM4G3|
 |Evoo|EVM4G6|EVM4G6|EVM4G6|
 |Evoo|EVMFV2|EVMFV2|EVMFV2|
@@ -4908,6 +4913,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gasei S.A.|SENSE701|SENSE701|SENSE701|
 |Gasei S.A.|SENSE704G|SENSE704G|SENSE704G|
 |Geanee|FXC-5A|FXC-5A|FXC-5A|
+|Geanee|JT10-90|JT10-90|JT10-90|
 |Geant|GEANT T1|GEANT_T1|T1|
 |Gear Mobile|Feel_1008S|Feel_1008S|1008S|
 |Gear Mobile|Feel_7013N|Feel_7013N|Feel_7013N|
@@ -8708,6 +8714,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyve|Buzz BU01|buzz_bu01|BU01|
 |Hyve|Pryme01|pryme01|Pryme 01|
 |Hyve|Storm ST01|storm_st01|ST01|
+|I-Scream|E1012T|ET1012T|ET1012T|
 |ICL-KME CS OJSC|TR10CD1|TR10CD1_7|TR10CD1|
 |IDEA|i4901|i4901|i4901|
 |IKALL|N4|N4|N4|
@@ -8775,6 +8782,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ikimobile|KF45|KF45|KF45|
 |Ikon|IK-7108|IK-7108|IK-7108|
 |Ikon|IK-787|IK-787|IK-787|
+|IkuMobile|A20|A20|A20|
 |IkuMobile|I3|I3|IKU i3|
 |IkuMobile|IKU_T3|IKU_T3|IKU_T3|
 |IkuMobile|IKU_T_max|IKU_T_max|IKU_T_max|
@@ -9471,6 +9479,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Just5|Konrow|Konrow|Just5|
 |Just5|M503|M503|M503|
 |Just5|Mode1 MD-02P|MD-02P|MD-02P|
+|Jyonetsu Kakaku|YMR8|YMR8|YMR8|
 |K-LEADTONE|K2|K2|K2|
 |"K-Lite|"|F1+4G|K_Lite_F1_4G|
 |"K-Lite|"|K-LITE NEXT M1|K-LITE_NEXT_M1|
@@ -12247,6 +12256,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LinkNet|Smart Box HD|SH940C-LN|SH940C-LN|
 |LinkNet|X1 Prime|DCN88_72604_LN|DCN88_72604_LN|
 |Linsay|F_10XIPS|F_10XIPS|F_10XIPS|
+|Linsay|F_7HD4CORE|F_7HD4CORE|F_7HD4CORE|
 |Linsay|LINSAY_F10XHD|LINSAY_F10XHD|LINSAY_F10XHD|
 |Linsay|LINSAY_F10XIPS|LINSAY_F10XIPS|LINSAY_F10XIPS|
 |Lisheng|LS-Q878|LS-Q878|LS-Q878|
@@ -12687,6 +12697,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mecer|TEI11011|TEI11011MST|TEI11011MST|
 |Mecer|TF10EA2|TF10EA2_11|TF10EA2|
 |Mecer|TF10MK1|TF10MK1_2|TF10MK1|
+|Mecer|TF10MK1|TF10MK1_3|TF10MK1|
 |Mecool|KM3|KM3|KM3|
 |Mecool|KM8|KM8|KM8|
 |Mecool|KM9PRO|KM9PRO|KM9PRO|
@@ -20379,7 +20390,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL L9|U5A_PLUS_4G|5159A|
 |TCL|TCL L9|U5A_PLUS_4G|5159J|
 |TCL|TCL L9 Plus|Wright|5101A|
-|TCL|TCL L9 Plus|Wright|5101J|
 |TCL|TCL PLEX|T1|T780H|
 |TCL|TCL T7|A5A_INFINI|5186A|
 |TCL|Union TV|UnionTV|UnionTV|
@@ -22261,6 +22271,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VSN|V.35|up11_h1_vsn|V.35|
 |VT|MB300|MB300|SmartTV|
 |Vankyo|Z1|Z1|Z1|
+|Vankyo|Z10|Z10|Z10|
 |Vankyo|Z1_EEA|Z1_EEA|Z1_EEA|
 |Vankyo|Z4|Z4|Z4|
 |Vankyo|Z4_EEA|Z4_EEA|Z4_EEA|
@@ -22626,6 +22637,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V1838A|PD1838|V1838A|
 |Vivo|V1901A|PD1901|V1901A|
 |Vivo|V1911A|PD1911|V1911A|
+|Vivo|V1916A|PD1916|V1916A|
+|Vivo|V1922A|PD1922|V1922A|
 |Vivo|V1Max|Y37|vivo Y37|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
@@ -23275,7 +23288,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Woxter|Woxter_N200|Woxter_N200|Woxter_N200|
 |Woxter|Woxter_N90|Woxter_N90|Woxter_N90|
 |Woxter|X100|X100|X100|
+|Woxter|X100v3|X100v3|X100v3|
 |Woxter|X70|X70|X70|
+|Woxter|X70v2|X70v2|X70v2|
 |X-Age|A1|A1|A1|
 |X-Age|ACE|ACE|ACE|
 |X-Age|G1|G1|G1|
@@ -23383,6 +23398,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|MI 9 SE|grus|MI 9 SE|
 |Xiaomi|MI 9 SE|grus|Mi 9 SE|
 |Xiaomi|MI CC 9|pyxis|MI CC 9|
+|Xiaomi|MI CC 9|pyxis|Mi 9 Lite|
 |Xiaomi|MI CC 9|pyxis|Pyxis|
 |Xiaomi|MI CC 9e|laurus|MI CC 9e|
 |Xiaomi|MI CC 9e|laurus|laurus|
@@ -23416,6 +23432,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Mi 4i|ferrari|Mi 4i|
 |Xiaomi|Mi 5|gemini|MI 5|
 |Xiaomi|Mi 5s|capricorn|MI 5s|
+|Xiaomi|Mi 9T Pro|raphael|Mi 9T Pro|
 |Xiaomi|Mi A1|tissot_sprout|MI A1|
 |Xiaomi|Mi A1|tissot_sprout|Mi A1|
 |Xiaomi|Mi A2|jasmine_sprout|Mi A2|
@@ -23513,6 +23530,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |YU|Yureka Black|YU5040|YU5040|
 |YU|Yureka Black|YU5041|YU5041|
 |YU|Yureka Note|YU6000|YU 6000|
+|YUNTAB|YUNTAB-K107|YUNTAB-K107|YUNTAB-K107|
 |YUNTAB|YUNTAB-K107_EEA|YUNTAB-K107_EEA|YUNTAB-K107_EEA|
 |YUNTAB|YUNTAB-Q88|YUNTAB-Q88|YUNTAB-Q88|
 |Yandex|Amber|Amber|YNDX-000SB|
@@ -25151,6 +25169,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |i-Buddie|TR10CS1|TR10CS1_12|TR10CS1|
 |i-Buddie|TR10CS1|TR10CS1_2|TR10CS1|
 |i-Buddie|TR10CS1_P|TR10CS1|TR10CS1|
+|i-Buddie|TU10MK1|TU10MK1|TU10MK1|
 |i-Mobile|A956|A956|A956|
 |i-Mobile|A958|A958|A958|
 |i-Mobile|HP-01A|HP-01A|HP-01A|
