@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-09-03
+Last sync is 2019-09-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -602,6 +602,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|V2 Viper X plus|V2_Viper_X_plus|V2_Viper_X_plus|
 |AllView|V2 Viper Xe|V2_Viper_Xe|V2_Viper_Xe|
 |AllView|V3 Viper|V3_Viper|V3_Viper|
+|AllView|V4 Viper|V4_Viper|V4_Viper|
 |AllView|Viva 1001G|Viva_1001G|Viva_1001G|
 |AllView|Viva 1003G|Viva_1003G|Viva_1003G|
 |AllView|Viva 1003G Lite|Viva_1003G_Lite|Viva_1003G_Lite|
@@ -3535,6 +3536,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DO Mobile|DO_Mate2|Mate2|Mate2|
 |DO Mobile|Mate1|Mate1|DO_S1|
 |DO Mobile|Mate1|Mate1|Mate1|
+|DO Mobile|S10_Plus|S10_Plus|S10_Plus|
 |DTC products|S10|S10|S10|
 |DTC products|S30|S30|S30|
 |DTV (Thai)|P3|Digital_Life_P3|P3|
@@ -9641,6 +9643,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Karbonn|Titanium Jumbo|Titanium_Jumbo|Titanium Jumbo|
 |Karbonn|Titanium Jumbo 2|Titanium_Jumbo_2|Titanium Jumbo 2|
 |Karbonn|Titanium Vista 4G|TitaniumVista4G|Titanium Vista 4G|
+|Kbro|N97_A1_3796|A1_3796|N97_A1_3796|
 |Keian|KI-R10|KI-R10|KI-R10|
 |Keian|KI-R7|KI-R7|KI-R7|
 |Kempler Strauss|Alumini 3 Plus|Alumini_3_Plus|Alumini_3_Plus|
@@ -9706,6 +9709,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Klipad|KL456LD|KL456LD|KL456LD|
 |Klipad|KL4890|KL4890|KL4890|
 |Klipad|KL4898|KL4898|KL4898|
+|Klipad|KL500|KL500|KL500|
 |Klipad|KL600|KLIPAD_KL600|KLIPAD_KL600|
 |Klipad|KL600B|KLIPAD_KL600B|KL600B|
 |Klipad|KL601|KL601|KL601|
@@ -12825,6 +12829,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Meizu|16|16|16|
 |Meizu|16 X|16X|16 X|
 |Meizu|16s|16s|16s|
+|Meizu|16s pro|meizu16sPro|16s Pro|
 |Meizu|16th|16th|16th|
 |Meizu|16th Plus|16thPlus|16th Plus|
 |Meizu|E3|MeizuE3|MEIZU E3|
@@ -15139,6 +15144,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Packard Bell|M7500|M7500|M7500|
 |Packard Bell|M7600-D|M7600-D|M7600-D|
 |Packard Bell|PB1009|PB1009|PB1009|
+|Packard Bell|PB101|PB101|PB101|
 |Packard Bell|T1000|T1000|T1000|
 |Palm|PVG100|Pepito|PVG100|
 |Palm|PVG100E|Pepito|PVG100E|
@@ -19490,6 +19496,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Skyworth|Euro|SW3_ATV|SWTV|
 |Skyworth|Europe|globe_eu|globe|
 |Skyworth|North America|globe_na|globe|
+|Skyworth|Skyworth|IPBox|ACT4K1007|
 |Skyworth|Skyworth|grape|HPA02|
 |Skyworth|South Africa|open_fhd_sa|open_fhd|
 |Skyworth|South America|globe_sa|globe|
@@ -19517,6 +19524,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smartab|ST700|ST700|ST700|
 |Smartab|ST7150|ST7150|ST7150|
 |Smartab|ST7150-19|ST7150-19|ST7150-19|
+|Smartab|ST7160|ST7160|ST7160|
 |Smartab|ST8200|ST8200|ST8200|
 |Smartab|STJR700|STJR700|STJR700|
 |Smartab|STJR76|STJR76|STJR76|
@@ -23323,6 +23331,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |X-TIGI|X-TIGI_V18 Pro|X-TIGI_V18_Pro|X-TIGI_V18 Pro|
 |X-TIGI|X-TIGI_V33|X-TIGI_V33|X-TIGI_V33|
 |X-TIGI|X-TIGI_V5|X-TIGI_V5|X-TIGI_V5|
+|X-TIGI|X-TIGI_V9|X-TIGI_V9|X-TIGI_V9|
 |X-TIGI|X_TIGI_A1|X_TIGI_A1|X_TIGI_A1|
 |X-TIGI|X_TIGI_A1Plus|X_TIGI_A1Plus|X_TIGI_A1Plus|
 |X-TIGI|X_TIGI_A2|X_TIGI_A2|X_TIGI_A2|
@@ -25251,6 +25260,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iGet|SMART_G81|SMART_G81|SMART_G81|
 |iGet|SMART_G81H|SMART_G81H|SMART_G81H|
 |iGet|SMART_L102|iGET_SMART_L102|SMART_L102|
+|iGet|SMART_W101|SMART_W101|SMART_W101|
 |iHunt|Alien X|Alien_X|Alien_X|
 |iHunt|Alien X Lite|Alien_X_Lite|Alien X Lite|
 |iHunt|AlienXLite2020|AlienXLite2020|AlienXLite2020|

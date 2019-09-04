@@ -3583,6 +3583,12 @@
  },
  {
   "brand": "AllView",
+  "name": "V4 Viper",
+  "device": "V4_Viper",
+  "model": "V4_Viper"
+ },
+ {
+  "brand": "AllView",
   "name": "Viva 1001G",
   "device": "Viva_1001G",
   "model": "Viva_1001G"
@@ -21178,6 +21184,12 @@
   "name": "Mate1",
   "device": "Mate1",
   "model": "Mate1"
+ },
+ {
+  "brand": "DO Mobile",
+  "name": "S10_Plus",
+  "device": "S10_Plus",
+  "model": "S10_Plus"
  },
  {
   "brand": "DTC products",
@@ -57816,6 +57828,12 @@
   "model": "Titanium Vista 4G"
  },
  {
+  "brand": "Kbro",
+  "name": "N97_A1_3796",
+  "device": "A1_3796",
+  "model": "N97_A1_3796"
+ },
+ {
   "brand": "Keian",
   "name": "KI-R10",
   "device": "KI-R10",
@@ -58204,6 +58222,12 @@
   "name": "KL4898",
   "device": "KL4898",
   "model": "KL4898"
+ },
+ {
+  "brand": "Klipad",
+  "name": "KL500",
+  "device": "KL500",
+  "model": "KL500"
  },
  {
   "brand": "Klipad",
@@ -76921,6 +76945,12 @@
  },
  {
   "brand": "Meizu",
+  "name": "16s pro",
+  "device": "meizu16sPro",
+  "model": "16s Pro"
+ },
+ {
+  "brand": "Meizu",
   "name": "16th",
   "device": "16th",
   "model": "16th"
@@ -90802,6 +90832,12 @@
   "name": "PB1009",
   "device": "PB1009",
   "model": "PB1009"
+ },
+ {
+  "brand": "Packard Bell",
+  "name": "PB101",
+  "device": "PB101",
+  "model": "PB101"
  },
  {
   "brand": "Packard Bell",
@@ -116912,6 +116948,12 @@
  {
   "brand": "Skyworth",
   "name": "Skyworth",
+  "device": "IPBox",
+  "model": "ACT4K1007"
+ },
+ {
+  "brand": "Skyworth",
+  "name": "Skyworth",
   "device": "grape",
   "model": "HPA02"
  },
@@ -117070,6 +117112,12 @@
   "name": "ST7150-19",
   "device": "ST7150-19",
   "model": "ST7150-19"
+ },
+ {
+  "brand": "Smartab",
+  "name": "ST7160",
+  "device": "ST7160",
+  "model": "ST7160"
  },
  {
   "brand": "Smartab",
@@ -139909,6 +139957,12 @@
  },
  {
   "brand": "X-TIGI",
+  "name": "X-TIGI_V9",
+  "device": "X-TIGI_V9",
+  "model": "X-TIGI_V9"
+ },
+ {
+  "brand": "X-TIGI",
   "name": "X_TIGI_A1",
   "device": "X_TIGI_A1",
   "model": "X_TIGI_A1"
@@ -151474,6 +151528,12 @@
   "name": "SMART_L102",
   "device": "iGET_SMART_L102",
   "model": "SMART_L102"
+ },
+ {
+  "brand": "iGet",
+  "name": "SMART_W101",
+  "device": "SMART_W101",
+  "model": "SMART_W101"
  },
  {
   "brand": "iHunt",
