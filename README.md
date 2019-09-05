@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-09-04
+Last sync is 2019-09-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -485,6 +485,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Algar|GIU6770|GIU6770|GIU6770|
 |Aligator|ALIGATOR S5070|ALIGATOR_S5070|ALIGATOR S5070|
 |Aligator|ALIGATOR S5520|ALIGATOR_S5520|ALIGATOR_S5520|
+|Aligator|ALIGATOR S5540|ALIGATOR_S5540|ALIGATOR S5540|
 |Aligator|ALIGATOR S6000|ALIGATOR_S6000|ALIGATOR S6000|
 |Aligator|Aligator S5066|Aligator_S5066|Aligator_S5066|
 |Aligator|RX460|RX460|RX460|
@@ -3553,6 +3554,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Danew|Dslide714|Dslide714|Dslide714|
 |Danew|Dslide716|Dslide716|Dslide716|
 |Danew|Dslide971DC|Dslide971DC|Dslide971DC|
+|Danew|Dslide_113|Dslide_113|Dslide_113|
 |Danew|G27|G27|G27|
 |Danew|Konnect 402|Konnect402|Konnect402|
 |Danew|Konnect 502|Konnect_502|Konnect_502|
@@ -3562,6 +3564,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Danew|Konnect 510 colors|Konnect_510|Konnect_510_colors|
 |Danew|Konnect 560 Cin\xc3\xa9pix|Konnect_560|Konnect_560|
 |Danew|Konnect 602|Konnect602|Konnect602|
+|Danew|Konnect_607|Konnect_607|Konnect_607|
 |Danew|Surnaturel_R500|Surnaturel_R500|Surnaturel_R500|
 |Danew|TRACE ONE|T_ONE|T_ONE|
 |Danew|konnect 601|Konnect_601|Konnect_601|
@@ -13896,6 +13899,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|Ms5|MTL-MS5|MS5|
 |Multilaser|Ms6|MS6|MS6|
 |Multilaser|Multilaser E|Multilaser_E|Multilaser_E|
+|Multilaser|Multilaser E Lite|Multilaser_E_Lite|Multilaser_E_Lite|
 |Multilaser|Multilaser G|Multilaser_G|Multilaser_G|
 |Multilaser|Multilaser G Pro|Multilaser_G_Pro|Multilaser_G_Pro|
 |Multilaser|Multilaser_F|Multilaser_F|Multilaser_F|
@@ -15019,6 +15023,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Orange|Nura|M812|Orange Nura|
 |Orange|Nura2|m823_orange|Nura 2|
 |Orange|Orange|Rise_55|Orange Rise 55|
+|Orange|Orange Neva start|Neva_start|Orange Neva start|
 |Orange|Orange Rise 33|Rise33|Orange_Rise_33|
 |Orange|Orange Rise 53|Rise_53|Orange Rise 53|
 |Orange|Race_1|Race_1|Race 1|
@@ -16654,6 +16659,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Universe|GRAVITY3G|GRAVITY3G|GRAVITY 3G|
 |SPC Universe|GRAVITY4G|GRAVITY4G|GRAVITY 4G|
 |SPC Universe|GRAVITY_ PRO|GRAVITY_PRO|GRAVITY PRO|
+|SPC Universe|GRAVITY_4G_2019_eea|GRAVITY_4G|GRAVITY 4G_2019|
 |SPC Universe|Gravity_2019|GRAVITY_2019|GRAVITY_2019|
 |SPC Universe|Gravity_Max|Gravity_Max|Gravity Max|
 |SPC Universe|LAIKA|LAIKA|LAIKA|
@@ -16821,6 +16827,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A10|a10|SM-A105M|
 |Samsung|Galaxy A10|a10|SM-A105N|
 |Samsung|Galaxy A10e|a10e|SM-A102U|
+|Samsung|Galaxy A10e|a10e|SM-A102U1|
 |Samsung|Galaxy A10e|a10e|SM-S102DL|
 |Samsung|Galaxy A10s|a10s|SM-A107F|
 |Samsung|Galaxy A10s|a10s|SM-A107M|
@@ -17746,6 +17753,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Note10+|d2s|SM-N975F|
 |Samsung|Galaxy Note10+ 5G|d2x|SM-N976B|
 |Samsung|Galaxy Note10+ 5G|d2x|SM-N976N|
+|Samsung|Galaxy Note10+ 5G|d2xq|SM-N9760|
 |Samsung|Galaxy Note10+ 5G|d2xq|SM-N976V|
 |Samsung|Galaxy Note2|SC-02E|SC-02E|
 |Samsung|Galaxy Note2|t03g|GT-N7100|
@@ -20223,6 +20231,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stylo|S54 Zen|CPE91|CPE91|
 |Stylo|S55 Nova|S55_Nova|S55 Nova|
 |Stylo|S551|STYLO_S551|STYLO S551|
+|Stylo|S56 Mist|S56_MIST|S56 MIST|
 |Stylo|S57_ALURE|S57_ALURE|S57_ALURE|
 |Stylo|S57_AZURE|S57_AZURE|S57_AZURE|
 |Stylo|S61_JAZZ|S61_JAZZ|S61 JAZZ|
@@ -23963,6 +23972,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Blade|blade|a5|
 |ZTE|Blade A210|ZTE_Blade_A210|ZTE BLADE A210|
 |ZTE|Blade A210|ZTE_Blade_A210|ZTE Blade A210|
+|ZTE|Blade A3 2019|Z3051T|Blade A3 2019|
+|ZTE|Blade A3 2019|Z3051T|Blade A3 2019-T|
 |ZTE|Blade A315|ZTE_Blade_A315|ZTE Blade A315|
 |ZTE|Blade A410|P635E40|Blade A410|
 |ZTE|Blade A410|P635E40|ZTE Blade A410|
@@ -25102,6 +25113,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zuum|ONIX S|ONIX_S|ONIX S|
 |Zuum|ROCKET II|ROCKET_II|ROCKET II|
 |Zuum|STELLAR|STELLAR|STELLAR|
+|Zuum|STELLAR M1|STELLAR_M1|STELLAR M1|
 |Zuum|STELLAR MINI|STELLAR_MINI|STELLAR MINI|
 |Zuum|STELLAR PLUS|STELLAR_PLUS|STELLAR PLUS|
 |Zuum|STELLAR PRO|STELLAR_PRO|STELLAR PRO|

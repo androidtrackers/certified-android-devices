@@ -2881,6 +2881,12 @@
  },
  {
   "brand": "Aligator",
+  "name": "ALIGATOR S5540",
+  "device": "ALIGATOR_S5540",
+  "model": "ALIGATOR S5540"
+ },
+ {
+  "brand": "Aligator",
   "name": "ALIGATOR S6000",
   "device": "ALIGATOR_S6000",
   "model": "ALIGATOR S6000"
@@ -21289,6 +21295,12 @@
  },
  {
   "brand": "Danew",
+  "name": "Dslide_113",
+  "device": "Dslide_113",
+  "model": "Dslide_113"
+ },
+ {
+  "brand": "Danew",
   "name": "G27",
   "device": "G27",
   "model": "G27"
@@ -21340,6 +21352,12 @@
   "name": "Konnect 602",
   "device": "Konnect602",
   "model": "Konnect602"
+ },
+ {
+  "brand": "Danew",
+  "name": "Konnect_607",
+  "device": "Konnect_607",
+  "model": "Konnect_607"
  },
  {
   "brand": "Danew",
@@ -83347,6 +83365,12 @@
  },
  {
   "brand": "Multilaser",
+  "name": "Multilaser E Lite",
+  "device": "Multilaser_E_Lite",
+  "model": "Multilaser_E_Lite"
+ },
+ {
+  "brand": "Multilaser",
   "name": "Multilaser G",
   "device": "Multilaser_G",
   "model": "Multilaser_G"
@@ -90082,6 +90106,12 @@
   "name": "Orange",
   "device": "Rise_55",
   "model": "Orange Rise 55"
+ },
+ {
+  "brand": "Orange",
+  "name": "Orange Neva start",
+  "device": "Neva_start",
+  "model": "Orange Neva start"
  },
  {
   "brand": "Orange",
@@ -99895,6 +99925,12 @@
  },
  {
   "brand": "SPC Universe",
+  "name": "GRAVITY_4G_2019_eea",
+  "device": "GRAVITY_4G",
+  "model": "GRAVITY 4G_2019"
+ },
+ {
+  "brand": "SPC Universe",
   "name": "Gravity_2019",
   "device": "GRAVITY_2019",
   "model": "GRAVITY_2019"
@@ -100894,6 +100930,12 @@
   "name": "Galaxy A10e",
   "device": "a10e",
   "model": "SM-A102U"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy A10e",
+  "device": "a10e",
+  "model": "SM-A102U1"
  },
  {
   "brand": "Samsung",
@@ -106444,6 +106486,12 @@
   "name": "Galaxy Note10+ 5G",
   "device": "d2x",
   "model": "SM-N976N"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Note10+ 5G",
+  "device": "d2xq",
+  "model": "SM-N9760"
  },
  {
   "brand": "Samsung",
@@ -121306,6 +121354,12 @@
   "name": "S551",
   "device": "STYLO_S551",
   "model": "STYLO S551"
+ },
+ {
+  "brand": "Stylo",
+  "name": "S56 Mist",
+  "device": "S56_MIST",
+  "model": "S56 MIST"
  },
  {
   "brand": "Stylo",
@@ -143749,6 +143803,18 @@
  },
  {
   "brand": "ZTE",
+  "name": "Blade A3 2019",
+  "device": "Z3051T",
+  "model": "Blade A3 2019"
+ },
+ {
+  "brand": "ZTE",
+  "name": "Blade A3 2019",
+  "device": "Z3051T",
+  "model": "Blade A3 2019-T"
+ },
+ {
+  "brand": "ZTE",
   "name": "Blade A315",
   "device": "ZTE_Blade_A315",
   "model": "ZTE Blade A315"
@@ -150580,6 +150646,12 @@
   "name": "STELLAR",
   "device": "STELLAR",
   "model": "STELLAR"
+ },
+ {
+  "brand": "Zuum",
+  "name": "STELLAR M1",
+  "device": "STELLAR_M1",
+  "model": "STELLAR M1"
  },
  {
   "brand": "Zuum",
