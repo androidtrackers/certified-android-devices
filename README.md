@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-09-05
+Last sync is 2019-09-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13791,6 +13791,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola one power|chef_sprout|moto x4|
 |Motorola|motorola one power|chef_sprout|motorola one power|
 |Motorola|motorola one vision|kane_sprout|motorola one vision|
+|Motorola|motorola one zoom|parker|moto z4|
+|Motorola|motorola one zoom|parker|motorola one zoom|
 |Motorola|motorola p50|kane|XT1970-5|
 |Motorola Solutions|LEX F10|LEXF10|LEX F10|
 |Motorola Solutions|LEX L10g|lexl10g|LEX L10g|
@@ -15641,6 +15643,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Plaisio|Turbox_A3|Turbox_A3|Turbox_A3|
 |Plaisio|Turbox_S3|Turbox_S3|Turbox_S3|
 |Plaisio|lamda|Turbo-X_lamda|Turbo-X lamda|
+|Planet Computers|Cosmo_Communicator|Cosmo_Communicator|Cosmo_Communicator|
 |Planet Computers|Gemini|Gemini_4G|Gemini_4G|
 |PlayPoland|Play Now|dctiw362p|DCTIW362_PLAY|
 |Plum|Z518|Z518|Z518|
@@ -17015,6 +17018,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A9 Star Lite|a6pltechn|SM-A605XC|
 |Samsung|Galaxy A9 Star Lite|a6pltecmcc|SM-A6058|
 |Samsung|Galaxy A9(2016)|a9xltechn|SM-A9000|
+|Samsung|Galaxy A90 5G|r3q|SM-A908N|
 |Samsung|Galaxy A9s|a9y18qltechn|SM-A9200|
 |Samsung|Galaxy Ace|GT-S5830|GT-S5830|
 |Samsung|Galaxy Ace|GT-S5830B|GT-S5830B|
@@ -17257,6 +17261,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Fit|GT-S5670|GT-S5670|
 |Samsung|Galaxy Fit|GT-S5670B|GT-S5670B|
 |Samsung|Galaxy Fit|GT-S5670L|GT-S5670L|
+|Samsung|Galaxy Fold|winner|SM-F900F|
+|Samsung|Galaxy Fold 5G|winner|SM-F907N|
 |Samsung|Galaxy Folder|novel3gskt|SM-G155S|
 |Samsung|Galaxy Folder|novelltektt|SM-G150NK|
 |Samsung|Galaxy Folder|novelltekx|SM-G150N0|
@@ -17600,6 +17606,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M10|m10lte|SM-M105G|
 |Samsung|Galaxy M10|m10lte|SM-M105M|
 |Samsung|Galaxy M10|m10lte|SM-M105Y|
+|Samsung|Galaxy M10s|m10s|SM-M107F|
 |Samsung|Galaxy M20|m20|SM-M205N|
 |Samsung|Galaxy M20|m20lte|SM-M205F|
 |Samsung|Galaxy M20|m20lte|SM-M205FN|
@@ -21877,6 +21884,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teleepoch|UMX U680C|U680C|U680C|
 |Telefunken|Enjoy TE1|TE1|TE1|
 |Telefunken|TEL-1014GIQ|TEL-1014GIQ|TEL-1014GIQ|
+|Telefunken|TEL-73GIQA|TEL-73GIQA|TEL-73GIQA|
 |Telefunken|TF501_EC|TF501_EC|TF501_EC|
 |Telefunken|TF5X|TF5X|TF5X|
 |Telefunken|TF6|TF6|TF6|

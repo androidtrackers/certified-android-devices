@@ -82717,6 +82717,18 @@
  },
  {
   "brand": "Motorola",
+  "name": "motorola one zoom",
+  "device": "parker",
+  "model": "moto z4"
+ },
+ {
+  "brand": "Motorola",
+  "name": "motorola one zoom",
+  "device": "parker",
+  "model": "motorola one zoom"
+ },
+ {
+  "brand": "Motorola",
   "name": "motorola p50",
   "device": "kane",
   "model": "XT1970-5"
@@ -93817,6 +93829,12 @@
  },
  {
   "brand": "Planet Computers",
+  "name": "Cosmo_Communicator",
+  "device": "Cosmo_Communicator",
+  "model": "Cosmo_Communicator"
+ },
+ {
+  "brand": "Planet Computers",
   "name": "Gemini",
   "device": "Gemini_4G",
   "model": "Gemini_4G"
@@ -102061,6 +102079,12 @@
  },
  {
   "brand": "Samsung",
+  "name": "Galaxy A90 5G",
+  "device": "r3q",
+  "model": "SM-A908N"
+ },
+ {
+  "brand": "Samsung",
   "name": "Galaxy A9s",
   "device": "a9y18qltechn",
   "model": "SM-A9200"
@@ -103510,6 +103534,18 @@
   "name": "Galaxy Fit",
   "device": "GT-S5670L",
   "model": "GT-S5670L"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Fold",
+  "device": "winner",
+  "model": "SM-F900F"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Fold 5G",
+  "device": "winner",
+  "model": "SM-F907N"
  },
  {
   "brand": "Samsung",
@@ -105568,6 +105604,12 @@
   "name": "Galaxy M10",
   "device": "m10lte",
   "model": "SM-M105Y"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy M10s",
+  "device": "m10s",
+  "model": "SM-M107F"
  },
  {
   "brand": "Samsung",
@@ -131230,6 +131272,12 @@
   "name": "TEL-1014GIQ",
   "device": "TEL-1014GIQ",
   "model": "TEL-1014GIQ"
+ },
+ {
+  "brand": "Telefunken",
+  "name": "TEL-73GIQA",
+  "device": "TEL-73GIQA",
+  "model": "TEL-73GIQA"
  },
  {
   "brand": "Telefunken",
