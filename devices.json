@@ -16825,6 +16825,12 @@
  },
  {
   "brand": "Cherry Mobile",
+  "name": "Flare Tab Pro",
+  "device": "A820",
+  "model": "Flare Tab Pro"
+ },
+ {
+  "brand": "Cherry Mobile",
   "name": "Flare X",
   "device": "Flare_X",
   "model": "Flare_X_V2"
@@ -24340,6 +24346,12 @@
   "name": "PayPoint\\xc2\\xae for Android",
   "device": "Elo-PP3-13",
   "model": "Elo-PP3-13"
+ },
+ {
+  "brand": "ENACOM",
+  "name": "M765P",
+  "device": "M765P",
+  "model": "M765P"
  },
  {
   "brand": "ENACOM",
@@ -117139,6 +117151,12 @@
  },
  {
   "brand": "Smart",
+  "name": "SK3401",
+  "device": "SK3401",
+  "model": "SK3401"
+ },
+ {
+  "brand": "Smart",
   "name": "Slide Lite",
   "device": "Slide_Lite",
   "model": "Slide Lite"
@@ -121492,6 +121510,12 @@
   "name": "TARISTAB2",
   "device": "TARISTAB2",
   "model": "TARISTAB2"
+ },
+ {
+  "brand": "Stylos",
+  "name": "TARISTAB4",
+  "device": "TARISTAB4",
+  "model": "TARISTAB4"
  },
  {
   "brand": "Stylos",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-09-06
+Last sync is 2019-09-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2809,6 +2809,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cherry Mobile|Flare S7 Plus|Flare_S7_Plus|Flare S7 Plus|
 |Cherry Mobile|Flare S7 Power|Flare_S7_Power|Flare_S7_Power|
 |Cherry Mobile|Flare S8|X930|Flare S8|
+|Cherry Mobile|Flare Tab Pro|A820|Flare Tab Pro|
 |Cherry Mobile|Flare X|Flare_X|Flare_X_V2|
 |Cherry Mobile|Flare X3|Flare_X3|Flare_X3|
 |Cherry Mobile|Flare Y3|FlareY3|Flare_Y3|
@@ -4062,6 +4063,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ELO Touch|I-Series 3.0 for Android|Elo-i3-22Std|Elo-i3-22Std|
 |ELO Touch|PayPoint\xc2\xae Plus for Android|Elo-PP3-15|Elo-PP3-15|
 |ELO Touch|PayPoint\xc2\xae for Android|Elo-PP3-13|Elo-PP3-13|
+|ENACOM|M765P|M765P|M765P|
 |ENACOM|PIXBA2019|PIXBA2019|PIXBA2019|
 |ENDO Lighting|FX_438N|FX_438N|FX-438N|
 |ENIE|E4Pro|E4Pro|E4Pro|
@@ -19528,6 +19530,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smart|Grand|Grand|Grand|
 |Smart|Max|Max|Max|
 |Smart|Notrino|Notrino|Notrino|
+|Smart|SK3401|SK3401|SK3401|
 |Smart|Slide Lite|Slide_Lite|Slide Lite|
 |Smart|Smart PRIME II|Smart_PRIME_II|Smart PRIME II|
 |Smart (BD)|SQ811G|SQ811G|SQ811G|
@@ -20254,6 +20257,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stylo|VS5502|VS5502|VS5502|
 |Stylo|VS571|VS571|VS571|
 |Stylos|TARISTAB2|TARISTAB2|TARISTAB2|
+|Stylos|TARISTAB4|TARISTAB4|TARISTAB4|
 |Stylos|Tab8|Tab8|Tab8|
 |Stylus|AT703|AT703|AT703|
 |Stylus|Comet_SP5002G|Comet_SP5002G|Comet_SP5002G|
