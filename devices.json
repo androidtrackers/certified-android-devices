@@ -20286,6 +20286,12 @@
   "model": "X19"
  },
  {
+  "brand": "Custom",
+  "name": "Ares",
+  "device": "Ares",
+  "model": "Ares"
+ },
+ {
   "brand": "Cutepad",
   "name": "Tab_4_M7078",
   "device": "Tab_4_M7078",
@@ -20302,6 +20308,18 @@
   "name": "CS22",
   "device": "CS22",
   "model": "CS22"
+ },
+ {
+  "brand": "Cyrus",
+  "name": "CS22XA",
+  "device": "CS22XA",
+  "model": "CS22XA"
+ },
+ {
+  "brand": "Cyrus",
+  "name": "CS22XA_EEA",
+  "device": "CS22XA_EEA",
+  "model": "CS22XA_EEA"
  },
  {
   "brand": "Cyrus",
@@ -20812,6 +20830,12 @@
   "name": "L180",
   "device": "L180",
   "model": "L180"
+ },
+ {
+  "brand": "DEXP",
+  "name": "L270",
+  "device": "L270",
+  "model": "L270"
  },
  {
   "brand": "DEXP",
@@ -21958,6 +21982,12 @@
   "name": "Luxuary-X",
   "device": "Luxuary-X",
   "model": "Luxuary-X"
+ },
+ {
+  "brand": "Diamond",
+  "name": "MC32020",
+  "device": "MC32020",
+  "model": "MC32020"
  },
  {
   "brand": "Diamond",
@@ -24856,6 +24886,12 @@
   "name": "P8 Max",
   "device": "P8_Max",
   "model": "P8_Max"
+ },
+ {
+  "brand": "Elephone",
+  "name": "PX",
+  "device": "PX",
+  "model": "PX"
  },
  {
   "brand": "Elephone",
@@ -79788,6 +79824,12 @@
   "model": "ETHOS"
  },
  {
+  "brand": "MobileDemand",
+  "name": "A1180",
+  "device": "A1180",
+  "model": "A1180"
+ },
+ {
   "brand": "MobileTeleSystem",
   "name": "MTC SMART Surf 4G",
   "device": "MTC_SMART_Surf_4G",
@@ -90448,6 +90490,12 @@
   "name": "K7 Power",
   "device": "K7_Power",
   "model": "K7 Power"
+ },
+ {
+  "brand": "Oukitel",
+  "name": "K7_Pro",
+  "device": "K7_Pro",
+  "model": "K7_Pro"
  },
  {
   "brand": "Oukitel",
@@ -135313,6 +135361,12 @@
  },
  {
   "brand": "Vgo Tel",
+  "name": "New 5",
+  "device": "NEW_5",
+  "model": "NEW 5"
+ },
+ {
+  "brand": "Vgo Tel",
   "name": "OCEAN 6",
   "device": "VGOTEL_OCEAN_6",
   "model": "Ocean 6"
@@ -137676,6 +137730,12 @@
   "model": "Live"
  },
  {
+  "brand": "Vsmart",
+  "name": "Star",
+  "device": "V320A",
+  "model": "Star"
+ },
+ {
   "brand": "Vsun",
   "name": "MARS Touch",
   "device": "MARS_TOUCH",
@@ -138220,6 +138280,12 @@
   "name": "Primo RX6",
   "device": "Primo_RX6",
   "model": "Primo RX6"
+ },
+ {
+  "brand": "Walton",
+  "name": "Primo RX7",
+  "device": "Primo_RX7",
+  "model": "Primo RX7"
  },
  {
   "brand": "Walton",

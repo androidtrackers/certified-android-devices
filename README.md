@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-09-08
+Last sync is 2019-09-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3386,9 +3386,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|RAINBOW 2|RAINBOW_2|RAINBOW 2|
 |Cubot|Rainbow|RAINBOW|RAINBOW|
 |Cubot|X19|X19|X19|
+|Custom|Ares|Ares|Ares|
 |Cutepad|Tab_4_M7078|Tab_4_M7078|Tab_4_M7078|
 |Cyrus|CM17|CM17|CM17|
 |Cyrus|CS22|CS22|CS22|
+|Cyrus|CS22XA|CS22XA|CS22XA|
+|Cyrus|CS22XA_EEA|CS22XA_EEA|CS22XA_EEA|
 |Cyrus|CS24|CS24|CS24|
 |Cyrus|CS40|CS40|CS40|
 |D-Tech|D5L|D5-L|D5-L|
@@ -3474,6 +3477,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|L110|L110|L110|
 |DEXP|L170|L170|L170|
 |DEXP|L180|L180|L180|
+|DEXP|L270|L270|L270|
 |DEXP|M340|M340|Ixion M340|
 |DEXP|M545|M545|Ixion M545|
 |DEXP|M750|M750|Ixion M750|
@@ -3665,6 +3669,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Diamond|DIB100|DIB100|DIB100|
 |Diamond|DIM100|DIM100|DIM100|
 |Diamond|Luxuary-X|Luxuary-X|Luxuary-X|
+|Diamond|MC32020|MC32020|MC32020|
 |Diamond|PSPCL30A0|PSPCL30A0|PSPCL30A0|
 |Digi|Digi C1|Digi_C1|Digi C1|
 |Digi|Digi R1|Digi_R1|Digi R1|
@@ -4148,6 +4153,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Elephone|P11|P11|P11|
 |Elephone|P8 3D|P8_3D|P8_3D|
 |Elephone|P8 Max|P8_Max|P8_Max|
+|Elephone|PX|PX|PX|
 |Elephone|Soldier|Soldier|Soldier|
 |Elephone|U|Elephone_U|U|
 |Elephone|U2|U2|U2|
@@ -13303,6 +13309,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MobiiStar|mobiistar E1 Selfie|E1_Selfie|E1 Selfie|
 |MobiiStar|mobiistar X|mobiistar_X|mobiistar X|
 |Mobile Initiative|ETHOS|ETHOS|ETHOS|
+|MobileDemand|A1180|A1180|A1180|
 |MobileTeleSystem|MTC SMART Surf 4G|MTC_SMART_Surf_4G|MTC_SMART_Surf_4G|
 |MobileTeleSystem|SMART Race2 4G|SMART_Race2_4G|SMART_Race2_4G|
 |MobileTeleSystem|SMART Start 2|MTC_SMART_Start_2|MTC_SMART_Start_2|
@@ -15080,6 +15087,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|K6000 Plus|K6000_Plus|K6000 Plus|
 |Oukitel|K7|OUKITEL_K7|K7|
 |Oukitel|K7 Power|K7_Power|K7 Power|
+|Oukitel|K7_Pro|K7_Pro|K7_Pro|
 |Oukitel|K8|K8|K8|
 |Oukitel|K8000|K8000|K8000|
 |Oukitel|K9|K9|K9|
@@ -22557,6 +22565,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vexia|Vexia FCS E2 CLM|Vexia_FCS_E2_CLM|Vexia FCS E2 CLM|
 |VfonX|GP8|GP8|GP8|
 |Vgo Tel|NEW 7|NEW_7|NEW 7|
+|Vgo Tel|New 5|NEW_5|NEW 5|
 |Vgo Tel|OCEAN 6|VGOTEL_OCEAN_6|Ocean 6|
 |Vgo Tel|Ocean 8|Ocean_8|Ocean_8|
 |Vgo Tel|Ocean 9|Ocean_9|Ocean_9|
@@ -22951,6 +22960,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vsmart|Joy 1|PQ4001|Joy 1|
 |Vsmart|Joy 1 +|PQ4002|Joy 1+|
 |Vsmart|Live|V620A|Live|
+|Vsmart|Star|V320A|Star|
 |Vsun|MARS Touch|MARS_TOUCH|MARS TOUCH|
 |Vsun|MARS Nocam|MARS_NOCAM|MARS NOCAM|
 |Vsun|MARS Note|MARS_NOTE|MARS NOTE|
@@ -23042,6 +23052,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|Primo RM2 mini|WBW5616WA|Primo RM2 mini|
 |Walton|Primo RX5|Primo_RX5|Primo RX5|
 |Walton|Primo RX6|Primo_RX6|Primo RX6|
+|Walton|Primo RX7|Primo_RX7|Primo RX7|
 |Walton|Primo S5|Primo_S5|Primo_S5|
 |Walton|Primo S6|Primo_S6|Primo S6|
 |Walton|Primo S6 infinity|Primo_S6_infinity|Primo S6 infinity|
