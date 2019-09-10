@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-09-09
+Last sync is 2019-09-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1711,6 +1711,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|T7 3G|T7_3G|Azumi_T7_3G|
 |Azumi|V5+|AZUMI_V5PLUS_AC27|V5+|
 |Azumi|V54_AC24|Azumi_V54_AC24|V54|
+|BEISTA|K105|K105|K105|
 |BEISTA|K109|K109|K109|
 |BEISTA|X101|X101|X101|
 |BGH S.A.|BGH Joy 303|BGH_Joy_303|BGH Joy 303|
@@ -1730,6 +1731,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BLOW|BlackTAB7|BlackTAB7|BlackTAB7|
 |BLOW|PlatinumTAB10|PlatinumTAB10|PlatinumTAB10|
 |BMPRO|BMPRO7DI|BMPRO7DI|BMPRO7DI|
+|BMXC|ST-920|ST-920|ST-920|
 |BMobile|AX1010|Bmobile_AX1010|AX1010|
 |BMobile|AX1010|Bmobile_AX1010|Bmobile AX1010|
 |BMobile|AX1015|Bmobile_AX1015|AX1015|
@@ -3096,6 +3098,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Connectce|Connect Core 6|Connect_Core_6|CP6001A|
 |Connex|CTAB-1044|CTAB-1044|CTAB-1044|
 |Conquest|S11|conquest-S11|S11|
+|Contixo|K101|K101|K101|
 |Contixo|K4|K4|K4|
 |Contixo|LA703R|LA703R|LA703R|
 |Coolpad||7019_msm7627a|Coolpad 7019|
@@ -4831,6 +4834,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fujitsu|arrows M03|M03|arrowsM03|
 |Fujitsu|arrows M04|M04|arrowsM04|
 |Fujitsu|arrows M04 PREMIUM|M04P|arrowsM04-PREMIUM|
+|Fujitsu|arrows RX|arrowsRX|arrowsRX|
 |Fujitsu|arrows Tab M01T|M01T|M01T|
 |Funai Electric||smdkv210|ALM-001J|
 |Funai Electric|POE-SMB400-FN1|daitou|POE-SMB400-FN1|
@@ -4854,6 +4858,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Future Mobile Technology|Flash|FMT-NM7058-02|FMT-NM7058-02|
 |Future Mobile Technology|Netsurfer STORM|16M4HI105024|16M4HI105024|
 |Future Mobile Technology|Netsurfer TYPHOON|16M5HI105023|16M5HI105023|
+|Future Mobile Technology|ROBI|ROBI|ROBI|
 |Future Mobile Technology|Tomcat|175HS1050231|175HS1050231|
 |Future Mobile Technology|Viper|175FT1050241|175FT1050241|
 |Future Mobile Technology|netsurferDUAL 7|FMT-NM7116-01|FMT-NM7116-01|
@@ -6922,6 +6927,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hometech|ALFA 8RX|ALFA_8RX|ALFA_8RX|
 |Hometech|ALFA_10RX|ALFA_10RX|ALFA_10RX|
 |Hometech|ALFA_7RC|ALFA_7RC|ALFA_7RC|
+|Hometech|EMEA|ALFA_7RS|ALFA 7RS|
 |Hometech|HT_7RT Tablet PC|HT_7RT|HT_7RT|
 |Hometech|HT_8MZ|HT_8MZ|HT_8MZ|
 |"Hon Hai Precision Industry Co.| Ltd."||EP10_wifi|
@@ -10096,6 +10102,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|G Pad 10.1|e9wifin|LG-V700n|
 |LGE|G Pad 10.1 LTE|e9lte|LG-VK700|
 |LGE|G Pad 10.1 LTE|e9lte|VK700|
+|LGE|G Pad 5 10.1 FHD|tf10|LM-T600L|
 |LGE|G Pad 7.0|e7wifi|LG-V400|
 |LGE|G Pad 7.0|e7wifi|LG-V400S1|
 |LGE|G Pad 7.0|e7wifi|LG-V400Y1|
@@ -14014,6 +14021,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Myphone|myA15|myA15|myA15|
 |Myphone|myA16|myA16|myA16|
 |Myphone|myA17|myA17|myA17|
+|Myphone|myA18|myA18|myA18|
 |Myphone|myA2|MY802|MY802|
 |Myphone|myA3|MY803|MY803|
 |Myphone|myA5|MY805|MY805|
@@ -16854,6 +16862,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A20|a20|SM-A205YN|
 |Samsung|Galaxy A20|a20p|SM-A205U|
 |Samsung|Galaxy A20e|a20e|SM-A202F|
+|Samsung|Galaxy A20s|a20s|SM-A207F|
 |Samsung|Galaxy A3|a33g|SM-A300H|
 |Samsung|Galaxy A3|a3lte|SM-A300F|
 |Samsung|Galaxy A3|a3lte|SM-A300M|
@@ -17272,6 +17281,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Fit|GT-S5670B|GT-S5670B|
 |Samsung|Galaxy Fit|GT-S5670L|GT-S5670L|
 |Samsung|Galaxy Fold|winner|SM-F900F|
+|Samsung|Galaxy Fold|winner|SM-F900U|
 |Samsung|Galaxy Fold 5G|winner|SM-F907N|
 |Samsung|Galaxy Folder|novel3gskt|SM-G155S|
 |Samsung|Galaxy Folder|novelltektt|SM-G150NK|
@@ -19655,6 +19665,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia A|SO-04E|SO-04E|
 |Sony|Xperia A2|SO-04F|SO-04F|
 |Sony|Xperia A4|SO-04G|SO-04G|
+|Sony|Xperia Ace|J3173|J3173|
 |Sony|Xperia Ace|SO-02L|SO-02L|
 |Sony|Xperia C|C2304|C2304|
 |Sony|Xperia C|C2305|C2305|
@@ -20094,6 +20105,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sourcing Creation|SmartTab_8004|T814|SmartTab_8004|
 |Sourcing Creation|Web\'Pad_1002_02|Webpad_1002_02|Webpad_1002_02|
 |Sourcing Creation|WebPad1004|WebPad1004|WebPad1004|
+|Sourcing Creation|WebPad7007|WebPad7007|WebPad7007|
 |Sourcing Creation|WebPad_1003|WebPad_1003|WebPad_1003|
 |Sourcing Creation|Webpad7006|ES721|Webpad7006|
 |Sourcing Creation|Wooze I 5|Wooze_I5|Wooze_I5|
@@ -21023,6 +21035,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033Y|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033Y_EEA|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|Alcatel T 5033T|
+|TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|HEYOU10|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|Optus X Start|
 |TCT (Alcatel)|Alcatel 1C|Curie|5003D|
 |TCT (Alcatel)|Alcatel 1C|Curie|5003D_EEA|
@@ -21815,6 +21828,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|SPARK Plus|TECNO-K9|TECNO K9|
 |Tecno|SPARK Pro|TECNO-K8|TECNO K8|
 |Tecno|TECNO AX8|TECNO-AX8|TECNO AX8|
+|Tecno|TECNO CAMON 12 Pro|TECNO-CC9|TECNO CC9|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|
 |Tecno|TECNO CAMON iACE 2x|TECNO-KB2j|TECNO KB2j|
 |Tecno|TECNO CX Air|TECNO-CX-Air|TECNO CX Air|
@@ -25100,6 +25114,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zoji|Z9|Z9|Z9|
 |Zonda|AWM533|AWM533|AWM533|
 |Zong 4G|Z1|Z1|Z1|
+|Zonko|K105|K105|K105|
 |Zonko|K78|K78|K78|
 |Zoom|LitePro|LitePro|LitePro|
 |Zoom|Social|SOCIAL|SOCIAL|

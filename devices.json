@@ -10237,6 +10237,12 @@
  },
  {
   "brand": "BEISTA",
+  "name": "K105",
+  "device": "K105",
+  "model": "K105"
+ },
+ {
+  "brand": "BEISTA",
   "name": "K109",
   "device": "K109",
   "model": "K109"
@@ -10348,6 +10354,12 @@
   "name": "BMPRO7DI",
   "device": "BMPRO7DI",
   "model": "BMPRO7DI"
+ },
+ {
+  "brand": "BMXC",
+  "name": "ST-920",
+  "device": "ST-920",
+  "model": "ST-920"
  },
  {
   "brand": "BMobile",
@@ -18544,6 +18556,12 @@
   "name": "S11",
   "device": "conquest-S11",
   "model": "S11"
+ },
+ {
+  "brand": "Contixo",
+  "name": "K101",
+  "device": "K101",
+  "model": "K101"
  },
  {
   "brand": "Contixo",
@@ -28957,6 +28975,12 @@
  },
  {
   "brand": "Fujitsu",
+  "name": "arrows RX",
+  "device": "arrowsRX",
+  "model": "arrowsRX"
+ },
+ {
+  "brand": "Fujitsu",
   "name": "arrows Tab M01T",
   "device": "M01T",
   "model": "M01T"
@@ -29092,6 +29116,12 @@
   "name": "Netsurfer TYPHOON",
   "device": "16M5HI105023",
   "model": "16M5HI105023"
+ },
+ {
+  "brand": "Future Mobile Technology",
+  "name": "ROBI",
+  "device": "ROBI",
+  "model": "ROBI"
  },
  {
   "brand": "Future Mobile Technology",
@@ -41500,6 +41530,12 @@
   "name": "ALFA_7RC",
   "device": "ALFA_7RC",
   "model": "ALFA_7RC"
+ },
+ {
+  "brand": "Hometech",
+  "name": "EMEA",
+  "device": "ALFA_7RS",
+  "model": "ALFA 7RS"
  },
  {
   "brand": "Hometech",
@@ -60544,6 +60580,12 @@
   "name": "G Pad 10.1 LTE",
   "device": "e9lte",
   "model": "VK700"
+ },
+ {
+  "brand": "LGE",
+  "name": "G Pad 5 10.1 FHD",
+  "device": "tf10",
+  "model": "LM-T600L"
  },
  {
   "brand": "LGE",
@@ -84055,6 +84097,12 @@
  },
  {
   "brand": "Myphone",
+  "name": "myA18",
+  "device": "myA18",
+  "model": "myA18"
+ },
+ {
+  "brand": "Myphone",
   "name": "myA2",
   "device": "MY802",
   "model": "MY802"
@@ -101095,6 +101143,12 @@
  },
  {
   "brand": "Samsung",
+  "name": "Galaxy A20s",
+  "device": "a20s",
+  "model": "SM-A207F"
+ },
+ {
+  "brand": "Samsung",
   "name": "Galaxy A3",
   "device": "a33g",
   "model": "SM-A300H"
@@ -103600,6 +103654,12 @@
   "name": "Galaxy Fold",
   "device": "winner",
   "model": "SM-F900F"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Fold",
+  "device": "winner",
+  "model": "SM-F900U"
  },
  {
   "brand": "Samsung",
@@ -117902,6 +117962,12 @@
  {
   "brand": "Sony",
   "name": "Xperia Ace",
+  "device": "J3173",
+  "model": "J3173"
+ },
+ {
+  "brand": "Sony",
+  "name": "Xperia Ace",
   "device": "SO-02L",
   "model": "SO-02L"
  },
@@ -120532,6 +120598,12 @@
   "name": "WebPad1004",
   "device": "WebPad1004",
   "model": "WebPad1004"
+ },
+ {
+  "brand": "Sourcing Creation",
+  "name": "WebPad7007",
+  "device": "WebPad7007",
+  "model": "WebPad7007"
  },
  {
   "brand": "Sourcing Creation",
@@ -126111,6 +126183,12 @@
   "brand": "TCT (Alcatel)",
   "name": "Alcatel 1",
   "device": "U3A_PLUS_4G",
+  "model": "HEYOU10"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1",
+  "device": "U3A_PLUS_4G",
   "model": "Optus X Start"
  },
  {
@@ -130858,6 +130936,12 @@
   "name": "TECNO AX8",
   "device": "TECNO-AX8",
   "model": "TECNO AX8"
+ },
+ {
+  "brand": "Tecno",
+  "name": "TECNO CAMON 12 Pro",
+  "device": "TECNO-CC9",
+  "model": "TECNO CC9"
  },
  {
   "brand": "Tecno",
@@ -150568,6 +150652,12 @@
   "name": "Z1",
   "device": "Z1",
   "model": "Z1"
+ },
+ {
+  "brand": "Zonko",
+  "name": "K105",
+  "device": "K105",
+  "model": "K105"
  },
  {
   "brand": "Zonko",
