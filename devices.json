@@ -2965,6 +2965,12 @@
  },
  {
   "brand": "AllCall",
+  "name": "S10",
+  "device": "S10",
+  "model": "S10"
+ },
+ {
+  "brand": "AllCall",
   "name": "S5500",
   "device": "S5500",
   "model": "S5500"
@@ -10496,6 +10502,18 @@
  {
   "brand": "BMobile",
   "name": "AX1073+",
+  "device": "Bmobile_AX1073PLUSW",
+  "model": "AX1073+"
+ },
+ {
+  "brand": "BMobile",
+  "name": "AX1073+",
+  "device": "Bmobile_AX1073P_MV11",
+  "model": "AX1073+"
+ },
+ {
+  "brand": "BMobile",
+  "name": "AX1073+",
   "device": "Bmobile_AX1073Plus",
   "model": "AX1073+"
  },
@@ -12118,6 +12136,12 @@
   "name": "T55",
   "device": "T55",
   "model": "T55"
+ },
+ {
+  "brand": "BenQ",
+  "name": "Taiwan",
+  "device": "laoshan",
+  "model": "BENQANDROIDTV"
  },
  {
   "brand": "Benesse",
@@ -26227,6 +26251,12 @@
  },
  {
   "brand": "Evoo",
+  "name": "EV-A-133-1",
+  "device": "EV-A-133-1",
+  "model": "EV-A-133-1"
+ },
+ {
+  "brand": "Evoo",
   "name": "EV-A-156-1",
   "device": "EV-A-156-1",
   "model": "EV-A-156-1"
@@ -31516,6 +31546,12 @@
   "name": "T2",
   "device": "T2",
   "model": "T2"
+ },
+ {
+  "brand": "Gol Mobile",
+  "name": "F10_PRIME",
+  "device": "F10_PRIME",
+  "model": "F10_PRIME"
  },
  {
   "brand": "Gol Mobile",
@@ -55008,6 +55044,12 @@
   "model": "MAX_1"
  },
  {
+  "brand": "Invens",
+  "name": "MAX_2",
+  "device": "MAX_2",
+  "model": "MAX_2"
+ },
+ {
   "brand": "Inverse Net",
   "name": "EP172BZ",
   "device": "EP172BZ",
@@ -67338,6 +67380,12 @@
   "model": "N-50"
  },
  {
+  "brand": "LP (TN)",
+  "name": "N-57",
+  "device": "LP_N_57",
+  "model": "N-57"
+ },
+ {
   "brand": "LT Electronics",
   "name": "K100",
   "device": "K100",
@@ -75283,6 +75331,12 @@
  },
  {
   "brand": "MSI",
+  "name": "ND52-Gen2",
+  "device": "ND52-Gen2",
+  "model": "ND52-Gen2"
+ },
+ {
+  "brand": "MSI",
   "name": "Primo73",
   "device": "N71J",
   "model": "Primo73"
@@ -80212,6 +80266,12 @@
   "name": "MD-03P",
   "device": "MD-03P",
   "model": "MD-03P"
+ },
+ {
+  "brand": "Mode1",
+  "name": "MD-04P",
+  "device": "MD-04P",
+  "model": "MD-04P"
  },
  {
   "brand": "Modecom",
@@ -90439,6 +90499,12 @@
  },
  {
   "brand": "Oukitel",
+  "name": "C17 Pro",
+  "device": "C17_Pro",
+  "model": "C17 Pro"
+ },
+ {
+  "brand": "Oukitel",
   "name": "C6 Pro",
   "device": "C6_Pro",
   "model": "C6 Pro"
@@ -98980,6 +99046,12 @@
   "name": "Quick_5_0",
   "device": "Quick_5_0",
   "model": "Quick 5.0"
+ },
+ {
+  "brand": "Red-X",
+  "name": "RX3503",
+  "device": "RX3503",
+  "model": "RX3503"
  },
  {
   "brand": "Red-X",
@@ -129972,6 +130044,12 @@
   "model": "Wind"
  },
  {
+  "brand": "Technocrat",
+  "name": "SC777",
+  "device": "SC777",
+  "model": "SC777"
+ },
+ {
   "brand": "Techpad",
   "name": "816",
   "device": "816",
@@ -130120,6 +130198,12 @@
   "name": "P80X_EEA",
   "device": "P80X",
   "model": "P80X"
+ },
+ {
+  "brand": "Teclast",
+  "name": "T30_EEA",
+  "device": "T30",
+  "model": "T30_EEA"
  },
  {
   "brand": "Tecno",
@@ -131650,6 +131734,12 @@
   "name": "Telma EGO",
   "device": "Telma_EGO",
   "model": "Telma EGO"
+ },
+ {
+  "brand": "Telma",
+  "name": "Telma F1XS4G",
+  "device": "Telma_F1XS4G",
+  "model": "Telma F1XS4G"
  },
  {
   "brand": "Telma",
@@ -151882,6 +151972,12 @@
   "name": "S10_Tank_2019",
   "device": "S10_Tank_2019",
   "model": "S10_Tank_2019"
+ },
+ {
+  "brand": "iHunt",
+  "name": "S60 Discovery Plus",
+  "device": "S60_Discovery_Plus",
+  "model": "S60 Discovery Plus"
  },
  {
   "brand": "iHunt",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-09-10
+Last sync is 2019-09-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -499,6 +499,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllCall|AllCall_S1_X|AllCall_S1_X|AllCall_S1_X|
 |AllCall|MIX2|MIX2|MIX2|
 |AllCall|Rio_X|Rio_X|Rio_X|
+|AllCall|S10|S10|S10|
 |AllCall|S5500|S5500|S5500|
 |AllCall|Tab_1_3G|Tab_1_3G|Tab_1_3G|
 |AllCall|Tab_2_3G|Tab_2_3G|Tab_2_3G|
@@ -1754,6 +1755,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|AX1072|Bmobile_AX1072|AX1072|
 |BMobile|AX1073|Bmobile_AX1073|AX1073|
 |BMobile|AX1073+|AX1073PLUSMV18|AX1073+|
+|BMobile|AX1073+|Bmobile_AX1073PLUSW|AX1073+|
+|BMobile|AX1073+|Bmobile_AX1073P_MV11|AX1073+|
 |BMobile|AX1073+|Bmobile_AX1073Plus|AX1073+|
 |BMobile|AX1073PLUSMV18|Bmobile_AX1073PLUSMV18|AX1073PLUSMV18|
 |BMobile|AX1074|Bmobile_AX1074|AX1074|
@@ -2025,6 +2028,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|T47|T47|T47_05|
 |BenQ|T47_09|T47|T47_09|
 |BenQ|T55|T55|T55|
+|BenQ|Taiwan|laoshan|BENQANDROIDTV|
 |Benesse|TAB-A03-BR|TAB-A03-BR|TAB-A03-BR|
 |Benesse|TAB-A03-BS|TAB-A03-BS|TAB-A03-BS|
 |Beneve|M7133|M7133|M7133|
@@ -4376,6 +4380,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Evolveo|EVOLVEO StrongPhone G8|EVOLVEOG8|EVOLVEO StrongPhone G8|
 |Evolveo|StrongPhone Q9|StrongPhoneQ9|StrongPhoneQ9|
 |Evoo|EV-A-101-1|EV-A-101-1|EV-A-101-1|
+|Evoo|EV-A-133-1|EV-A-133-1|EV-A-133-1|
 |Evoo|EV-A-156-1|EV-A-156-1|EV-A-156-1|
 |Evoo|EV-A-81-7-1|EV-A-81-7-1|EV-A-81-7-1|
 |Evoo|EV-A-81-8-1|EV-A-81-8-1|EV-A-81-8-1|
@@ -5258,6 +5263,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GoClever|Quantum 500 STEEL|FQ_500R|Quantum_500_STEEL|
 |GoClever|TQ700/QUANTUM 700/TAB|TQ700|TQ700|
 |Gobox|T2|T2|T2|
+|Gol Mobile|F10_PRIME|F10_PRIME|F10_PRIME|
 |Gol Mobile|F3Prime|F3Prime|F3Prime|
 |Gol Mobile|F9|F9|F9|
 |Gol Mobile|TEAM_7_3G|TEAM_7_3G|TEAM_7_3G|
@@ -9173,6 +9179,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Invens|F2|F2|F2|
 |Invens|Fighter|Fighter|Fighter|
 |Invens|MAX_1|MAX_1|MAX_1|
+|Invens|MAX_2|MAX_2|MAX_2|
 |Inverse Net|EP172BZ|EP172BZ|EP172BZ|
 |Inverse Net|EP172PR|EP172PR|EP172PR|
 |Inverse Net|LT101|LT101|LT101|
@@ -11228,6 +11235,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LINSAY|F-7HD2CORE / F-7HD4CORE / F-10HD2CORE /F-10XHD4CORE|F-7HD2CORE|LINSAY F-7HD2CORE/F-7HD4CORE/F-10HD2CORE/F-10XHD4CORE|
 |LOOQS|L108MR|L108MR|L108MR|
 |LP (TN)|N-50|LP_N_50|N-50|
+|LP (TN)|N-57|LP_N_57|N-57|
 |LT Electronics|K100|K100|K100|
 |LT Electronics|K200|K200|K200|
 |LT Electronics|LT-NOTE-10S|LT-NOTE-10S|LT-NOTE 10S|
@@ -12552,6 +12560,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MOVIC|S5501|S5501|S5501|
 |MPman|MPDC1006|MPDC1006|MPDC1006|
 |MPman|MPDC706|MPDC706|MPDC706|
+|MSI|ND52-Gen2|ND52-Gen2|ND52-Gen2|
 |MSI|Primo73|N71J|Primo73|
 |MSI|Primo76|N728|Primo76|
 |MSI|Primo81|N821|Primo 81|
@@ -13374,6 +13383,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobvoi|Ticwatch S Smartwatch; Ticwatch E Smartwatch|mooneye|Ticwatch E|
 |Mobvoi|Ticwatch S Smartwatch; Ticwatch E Smartwatch|mooneye|Ticwatch S|
 |Mode1|MD-03P|MD-03P|MD-03P|
+|Mode1|MD-04P|MD-04P|MD-04P|
 |Modecom|ECHO LOLLY|ECHO_LOLLY|ECHO LOLLY|
 |Modecom|FreeTAB 10.1 Silver|silver|FreeTAB 10.1 Silver|
 |Modecom|FreeTAB 8015 IPS X4 LTE|reverie|FreeTAB 8015 IPS X4|
@@ -15078,6 +15088,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|C15 Pro|C15_Pro|C15 Pro|
 |Oukitel|C16|C16|C16|
 |Oukitel|C16 Pro|C16_Pro|C16_Pro|
+|Oukitel|C17 Pro|C17_Pro|C17 Pro|
 |Oukitel|C6 Pro|C6_Pro|C6 Pro|
 |Oukitel|C8|C8|C8|
 |Oukitel|C8 4G|C8_4G|C8 4G|
@@ -16502,6 +16513,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realtime|RT8|RT8|RT8|
 |Rectron|MX702M1|MX702M1|MX702M1|
 |Red Mobile|Quick_5_0|Quick_5_0|Quick 5.0|
+|Red-X|RX3503|RX3503|RX3503|
 |Red-X|RX4618|RX4618|RX4618|
 |Redmi|Redmi 7A|pine|Redmi 7A|
 |Redmi|Redmi 7A|pine|pine|
@@ -21667,6 +21679,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Technicolor|Tv Hub|uzx8020chm|Tv Hub|
 |Technicolor|Wind|uzw4030wnh|WIND|
 |Technicolor|Wind|uzw4030wnh|Wind|
+|Technocrat|SC777|SC777|SC777|
 |Techpad|816|816|816|
 |Techpad|K13|K13|K13|
 |Techpad|M5Plus|M5Plus|M5Plus|
@@ -21692,6 +21705,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|M20_4G|M20_4G|M20_4G|
 |Teclast|P80X|P80X|P80X|
 |Teclast|P80X_EEA|P80X|P80X|
+|Teclast|T30_EEA|T30|T30_EEA|
 |Tecno|A7S|TECNO-A7S|TECNO-A7S|
 |Tecno|C5|TECNO-C5|TECNO-C5|
 |Tecno|C7|TECNO-C7|TECNO-C7|
@@ -21947,6 +21961,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telma|TELMA FEEL|TELMA_FEEL|TELMA FEEL|
 |Telma|TITAN|Telma_Titan_4G|Telma_Titan_4G|
 |Telma|Telma EGO|Telma_EGO|Telma EGO|
+|Telma|Telma F1XS4G|Telma_F1XS4G|Telma F1XS4G|
 |Telma|Telma i401|telma_i401|telma i401|
 |Telus|Pik TV Media Box|HMB2213PW22TS|HMB2213PW22TS|
 |Tesco|Hudl 2|HTF8A4|Hudl 2|
@@ -25319,6 +25334,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iHunt|Like_Hi5|Like_Hi5|Like Hi5|
 |iHunt|S100ApeX|S100ApeX|S100ApeX|
 |iHunt|S10_Tank_2019|S10_Tank_2019|S10_Tank_2019|
+|iHunt|S60 Discovery Plus|S60_Discovery_Plus|S60 Discovery Plus|
 |iHunt|S60_Discovery_2019|S60_Discovery_2019|S60_Discovery_2019|
 |iHunt|TITAN P11000 PRO|TITAN_P11000_PRO|TITAN_P11000_PRO|
 |iHunt|Tian_P3000|Tian_P3000|Tian_P3000|
