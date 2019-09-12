@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-09-11
+Last sync is 2019-09-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -16632,6 +16632,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SFR|Star Trail 5|STARTRAIL5|STARTRAIL5|
 |SFR|Star Trail 6|STARTRAIL6|STARTRAIL6|
 |SFR|Star Trail III|mobiwire_startrail3|StarTrail III|
+|SFR.fr|DV8219_SFR|DV8219|DV8219_SFR|
 |SGINO|SGINO6|SGINO6|SGINO6|
 |SHIFT|SHIFT6m|SHIFT6m|SHIFT6m|
 |SK Broadband|B tv smart|BHX-S100|BHX-S100|
@@ -16873,8 +16874,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A20|a20|SM-A205W|
 |Samsung|Galaxy A20|a20|SM-A205YN|
 |Samsung|Galaxy A20|a20p|SM-A205U|
+|Samsung|Galaxy A20|a20p|SM-A205U1|
+|Samsung|Galaxy A20|a20p|SM-S205DL|
 |Samsung|Galaxy A20e|a20e|SM-A202F|
+|Samsung|Galaxy A20s|a20s|SM-A2070|
 |Samsung|Galaxy A20s|a20s|SM-A207F|
+|Samsung|Galaxy A20s|a20s|SM-A207M|
 |Samsung|Galaxy A3|a33g|SM-A300H|
 |Samsung|Galaxy A3|a3lte|SM-A300F|
 |Samsung|Galaxy A3|a3lte|SM-A300M|
@@ -16909,6 +16914,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A30|a30|SM-A305GT|
 |Samsung|Galaxy A30|a30|SM-A305N|
 |Samsung|Galaxy A30|a30|SM-A305YN|
+|Samsung|Galaxy A30s|a30s|SM-A307FN|
 |Samsung|Galaxy A40|a40|SM-A405FM|
 |Samsung|Galaxy A40|a40|SM-A405FN|
 |Samsung|Galaxy A40|a40|SM-A405S|
@@ -16961,6 +16967,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A50|a50|SM-A505U|
 |Samsung|Galaxy A50|a50|SM-A505W|
 |Samsung|Galaxy A50|a50|SM-A505YN|
+|Samsung|Galaxy A50s|a50s|SM-A507FN|
 |Samsung|Galaxy A6|a6elteaio|SM-A600AZ|
 |Samsung|Galaxy A6|a6elteatt|SM-A600A|
 |Samsung|Galaxy A6|a6eltemtr|SM-A600T1|
@@ -17294,6 +17301,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Fit|GT-S5670L|GT-S5670L|
 |Samsung|Galaxy Fold|winner|SM-F900F|
 |Samsung|Galaxy Fold|winner|SM-F900U|
+|Samsung|Galaxy Fold|winner|SM-F900U1|
 |Samsung|Galaxy Fold 5G|winner|SM-F907N|
 |Samsung|Galaxy Folder|novel3gskt|SM-G155S|
 |Samsung|Galaxy Folder|novelltektt|SM-G150NK|
@@ -17647,6 +17655,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M30|m30lte|SM-M305F|
 |Samsung|Galaxy M30|m30lte|SM-M305M|
 |Samsung|Galaxy M30s|m30s|SM-M307F|
+|Samsung|Galaxy M30s|m30s|SM-M307FN|
 |Samsung|Galaxy M40|m40|SM-M405F|
 |Samsung|Galaxy Mega 2|mega23g|SM-G750H|
 |Samsung|Galaxy Mega 5.8|crater|GT-I9152|
@@ -20443,7 +20452,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL C5|Gauss|5153A|
 |TCL|TCL C5|Gauss|5153K|
 |TCL|TCL C7|A3A_PLUS|5158A|
-|TCL|TCL C9|Venice|5148A|
 |TCL|TCL C9 Plus|Venice|5148I|
 |TCL|TCL L10|Faraday|5124J|
 |TCL|TCL L5|U3A_PLUS_4G|5133A|
@@ -20452,6 +20460,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL L9 Plus|Wright|5101A|
 |TCL|TCL PLEX|T1|T780H|
 |TCL|TCL T7|A5A_INFINI|5186A|
+|TCL|TCL T9|Venice|5148A|
 |TCL|Union TV|UnionTV|UnionTV|
 |TCT (Alcatel)||A556C|A556C|
 |TCT (Alcatel)||A919_gsm|TCL A919|
@@ -21716,6 +21725,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|CAMON 11|TECNO-CF7|TECNO CF7S|
 |Tecno|CAMON 11|TECNO-CF7k|TECNO CF7k|
 |Tecno|CAMON 11 Pro|TECNO-CF8|TECNO CF8|
+|Tecno|CAMON 12|TECNO-CC7|TECNO CC7|
 |Tecno|CAMON C7|TECNO-C7|TECNO-C7|
 |Tecno|CAMON CM|TECNO-CA6|TECNO CA6|
 |Tecno|CAMON I Ace|TECNO-IN1|TECNO IN1|
@@ -21838,6 +21848,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|SPARK 3|TECNO-KB7|TECNO KB7|
 |Tecno|SPARK 3|TECNO-KB7j|TECNO KB7j|
 |Tecno|SPARK 3 Pro|TECNO-KB8|TECNO KB8|
+|Tecno|SPARK 4|TECNO-KC8|TECNO KC8|
 |Tecno|SPARK CM|TECNO-KA9|TECNO KA9|
 |Tecno|SPARK Plus|TECNO-K9|TECNO K9|
 |Tecno|SPARK Pro|TECNO-K8|TECNO K8|
@@ -21855,6 +21866,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO S1 Lite|TECNO-S1Lite|TECNO S1 Lite|
 |Tecno|TECNO SA2S|TECNO-SA2S|TECNO SA2S|
 |Tecno|TECNO SA7S|TECNO-SA7S|TECNO SA7S|
+|Tecno|TECNO SPARK 4|TECNO-KC2|TECNO KC2|
+|Tecno|TECNO SPARK 4|TECNO-KC2j|TECNO KC2j|
 |Tecno|TECNO SPARK 4 Air|TECNO-KC1j|TECNO KC1j|
 |Tecno|TECNO SPARK Go|TECNO-KC1|TECNO KC1|
 |Tecno|TECNO W5|TECNO-W5|TECNO-W5|

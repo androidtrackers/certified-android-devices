@@ -99762,6 +99762,12 @@
   "model": "StarTrail III"
  },
  {
+  "brand": "SFR.fr",
+  "name": "DV8219_SFR",
+  "device": "DV8219",
+  "model": "DV8219_SFR"
+ },
+ {
   "brand": "SGINO",
   "name": "SGINO6",
   "device": "SGINO6",
@@ -101209,6 +101215,18 @@
  },
  {
   "brand": "Samsung",
+  "name": "Galaxy A20",
+  "device": "a20p",
+  "model": "SM-A205U1"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy A20",
+  "device": "a20p",
+  "model": "SM-S205DL"
+ },
+ {
+  "brand": "Samsung",
   "name": "Galaxy A20e",
   "device": "a20e",
   "model": "SM-A202F"
@@ -101217,7 +101235,19 @@
   "brand": "Samsung",
   "name": "Galaxy A20s",
   "device": "a20s",
+  "model": "SM-A2070"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy A20s",
+  "device": "a20s",
   "model": "SM-A207F"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy A20s",
+  "device": "a20s",
+  "model": "SM-A207M"
  },
  {
   "brand": "Samsung",
@@ -101422,6 +101452,12 @@
   "name": "Galaxy A30",
   "device": "a30",
   "model": "SM-A305YN"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy A30s",
+  "device": "a30s",
+  "model": "SM-A307FN"
  },
  {
   "brand": "Samsung",
@@ -101734,6 +101770,12 @@
   "name": "Galaxy A50",
   "device": "a50",
   "model": "SM-A505YN"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy A50s",
+  "device": "a50s",
+  "model": "SM-A507FN"
  },
  {
   "brand": "Samsung",
@@ -103732,6 +103774,12 @@
   "name": "Galaxy Fold",
   "device": "winner",
   "model": "SM-F900U"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Fold",
+  "device": "winner",
+  "model": "SM-F900U1"
  },
  {
   "brand": "Samsung",
@@ -105850,6 +105898,12 @@
   "name": "Galaxy M30s",
   "device": "m30s",
   "model": "SM-M307F"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy M30s",
+  "device": "m30s",
+  "model": "SM-M307FN"
  },
  {
   "brand": "Samsung",
@@ -122629,12 +122683,6 @@
  },
  {
   "brand": "TCL",
-  "name": "TCL C9",
-  "device": "Venice",
-  "model": "5148A"
- },
- {
-  "brand": "TCL",
   "name": "TCL C9 Plus",
   "device": "Venice",
   "model": "5148I"
@@ -122680,6 +122728,12 @@
   "name": "TCL T7",
   "device": "A5A_INFINI",
   "model": "5186A"
+ },
+ {
+  "brand": "TCL",
+  "name": "TCL T9",
+  "device": "Venice",
+  "model": "5148A"
  },
  {
   "brand": "TCL",
@@ -130267,6 +130321,12 @@
  },
  {
   "brand": "Tecno",
+  "name": "CAMON 12",
+  "device": "TECNO-CC7",
+  "model": "TECNO CC7"
+ },
+ {
+  "brand": "Tecno",
   "name": "CAMON C7",
   "device": "TECNO-C7",
   "model": "TECNO-C7"
@@ -130999,6 +131059,12 @@
  },
  {
   "brand": "Tecno",
+  "name": "SPARK 4",
+  "device": "TECNO-KC8",
+  "model": "TECNO KC8"
+ },
+ {
+  "brand": "Tecno",
   "name": "SPARK CM",
   "device": "TECNO-KA9",
   "model": "TECNO KA9"
@@ -131098,6 +131164,18 @@
   "name": "TECNO SA7S",
   "device": "TECNO-SA7S",
   "model": "TECNO SA7S"
+ },
+ {
+  "brand": "Tecno",
+  "name": "TECNO SPARK 4",
+  "device": "TECNO-KC2",
+  "model": "TECNO KC2"
+ },
+ {
+  "brand": "Tecno",
+  "name": "TECNO SPARK 4",
+  "device": "TECNO-KC2j",
+  "model": "TECNO KC2j"
  },
  {
   "brand": "Tecno",
