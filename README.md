@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-09-12
+Last sync is 2019-09-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1919,6 +1919,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-8068L|BQru-8068L|BQ-8068L|
 |BQru|BQru-1022L|BQru-1022L|BQ-1022L|
 |BQru|BQru-1077L|BQru-1077L|BQ-1077L|
+|BQru|BQru-1077L_2019|BQru-1077L_2019|BQ-1077L|
 |BQru|BQru-1081G|BQru-1081G|BQru-1081G|
 |BQru|BQru-1082G|BQru-1082G|BQ-1082G|
 |BQru|BQru-1083G|BQru-1083G|BQ-1083G|
@@ -9743,6 +9744,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Klipad|KL7809|KL7809|KL7809|
 |Klipad|KL988HPC|KL988HPC|KL988HPC|
 |Klipad|KLI750|KLI750|KL I750|
+|Klipad|KLI758|KLI758|KLIPAD_SMART_KLI758|
 |Klipad|KLIPAD_A1040M|A1040M|A1040M|
 |Klipad|KLIPAD_KL4888|KL4888|KL4888|
 |Klipad|KLIPAD_SMART_D71|KLIPAD_SMART_D71|KLIPAD_SMART_D71|
@@ -15806,6 +15808,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|OCTA|OCTA|OCTA|
 |Positivo|One|S420|Positivo One|
 |Positivo|One|S420|S420|
+|Positivo|Positivo T1075B|T1075B|T1075B|
 |Positivo|Positivo T760|T760|T760|
 |Positivo|Positivo Ypy 10 STA|YPY10STA|YPY10STA|
 |Positivo|Positivo Ypy 10FTA|YPY10FTA|YPY10FTA|

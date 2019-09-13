@@ -11485,6 +11485,12 @@
  },
  {
   "brand": "BQru",
+  "name": "BQru-1077L_2019",
+  "device": "BQru-1077L_2019",
+  "model": "BQ-1077L"
+ },
+ {
+  "brand": "BQru",
   "name": "BQru-1081G",
   "device": "BQru-1081G",
   "model": "BQru-1081G"
@@ -58429,6 +58435,12 @@
  },
  {
   "brand": "Klipad",
+  "name": "KLI758",
+  "device": "KLI758",
+  "model": "KLIPAD_SMART_KLI758"
+ },
+ {
+  "brand": "Klipad",
   "name": "KLIPAD_A1040M",
   "device": "A1040M",
   "model": "A1040M"
@@ -94804,6 +94816,12 @@
   "name": "One",
   "device": "S420",
   "model": "S420"
+ },
+ {
+  "brand": "Positivo",
+  "name": "Positivo T1075B",
+  "device": "T1075B",
+  "model": "T1075B"
  },
  {
   "brand": "Positivo",
