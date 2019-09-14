@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-09-13
+Last sync is 2019-09-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2078,6 +2078,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bittium|Bittium Tough Mobile 2|craton|Bittium Tough Mobile 2|
 |Bittium|Mx Smart|adakite_sm|Mx Smart|
 |Bittium|Tough Mobile|granite|Bittium Tough Mobile|
+|Bittium|granite|granite|Bittium Tough Mobile|
 |Bizringer|8BIZ18|8BIZ18|8BIZ18|
 |Black Bear|B6 Master|B6_Master|B6 Master|
 |Black Bear|B6_Note_X|B6_Note_X|B6 Note X|
@@ -4950,6 +4951,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Geecoo|G3|G3|G3|
 |Geecoo|G4|G4|G4|
 |General Dynamics|GD Tough Mobile|granite|GD Tough Mobile|
+|General Dynamics|GD Tough mobile|granite|GD Tough Mobile|
 |General Mobile|4G|gm4g_s_sprout|General Mobile 4G|
 |General Mobile|4G|gm4gtkc_s_sprout|General Mobile 4G|
 |General Mobile|4G Dual|gm4g_sprout|General Mobile 4G Dual|

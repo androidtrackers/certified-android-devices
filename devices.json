@@ -12438,6 +12438,12 @@
   "model": "Bittium Tough Mobile"
  },
  {
+  "brand": "Bittium",
+  "name": "granite",
+  "device": "granite",
+  "model": "Bittium Tough Mobile"
+ },
+ {
   "brand": "Bizringer",
   "name": "8BIZ18",
   "device": "8BIZ18",
@@ -29666,6 +29672,12 @@
  {
   "brand": "General Dynamics",
   "name": "GD Tough Mobile",
+  "device": "granite",
+  "model": "GD Tough Mobile"
+ },
+ {
+  "brand": "General Dynamics",
+  "name": "GD Tough mobile",
   "device": "granite",
   "model": "GD Tough Mobile"
  },
