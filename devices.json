@@ -12769,6 +12769,12 @@
  },
  {
   "brand": "Blackshark",
+  "name": "Black Shark 2 Pro",
+  "device": "darklighter",
+  "model": "DLT-H0"
+ },
+ {
+  "brand": "Blackshark",
   "name": "Shark",
   "device": "shark",
   "model": "SKR-H0"
@@ -12955,6 +12961,12 @@
  },
  {
   "brand": "Blackview",
+  "name": "BV6100",
+  "device": "BV6100",
+  "model": "BV6100"
+ },
+ {
+  "brand": "Blackview",
   "name": "BV6800Pro",
   "device": "BV6800Pro",
   "model": "BV6800Pro"
@@ -13090,6 +13102,12 @@
   "name": "Blackview BV9500-RU",
   "device": "BV9500-RU",
   "model": "BV9500-RU"
+ },
+ {
+  "brand": "Blackview",
+  "name": "Blackview BV9500Plus",
+  "device": "BV9500Plus",
+  "model": "BV9500Plus"
  },
  {
   "brand": "Blackview",
@@ -18595,6 +18613,12 @@
  },
  {
   "brand": "Contixo",
+  "name": "CONTIXO_V8",
+  "device": "CONTIXO-V8",
+  "model": "V8"
+ },
+ {
+  "brand": "Contixo",
   "name": "K101",
   "device": "K101",
   "model": "K101"
@@ -20920,6 +20944,12 @@
   "name": "MS650",
   "device": "MS650",
   "model": "MS650"
+ },
+ {
+  "brand": "DEXP",
+  "name": "N180i",
+  "device": "N180i",
+  "model": "N180i"
  },
  {
   "brand": "DEXP",
@@ -24343,6 +24373,12 @@
  },
  {
   "brand": "EKINOX",
+  "name": "G1",
+  "device": "G1",
+  "model": "G1"
+ },
+ {
+  "brand": "EKINOX",
   "name": "K5",
   "device": "K5",
   "model": "K5"
@@ -25765,6 +25801,12 @@
  },
  {
   "brand": "EssentielB",
+  "name": "SmartTAB1008",
+  "device": "SmartTAB1008",
+  "model": "SmartTAB1008"
+ },
+ {
+  "brand": "EssentielB",
   "name": "SmartTab1007",
   "device": "SmartTAB1007",
   "model": "SmartTAB1007"
@@ -25900,6 +25942,12 @@
   "name": "M53",
   "device": "M53",
   "model": "M53"
+ },
+ {
+  "brand": "Evercoss",
+  "name": "M55",
+  "device": "M55",
+  "model": "M55"
  },
  {
   "brand": "Evercoss",
@@ -26137,6 +26185,12 @@
  },
  {
   "brand": "Evertek",
+  "name": "M10 Nano",
+  "device": "M10_Nano",
+  "model": "M10 Nano"
+ },
+ {
+  "brand": "Evertek",
   "name": "V4",
   "device": "V4",
   "model": "EVERTEK V4"
@@ -26308,6 +26362,12 @@
   "name": "EVMFV2",
   "device": "EVMFV2",
   "model": "EVMFV2"
+ },
+ {
+  "brand": "Excelvan",
+  "name": "SMY_M07R7",
+  "device": "SMY_M07R7",
+  "model": "M07R7"
  },
  {
   "brand": "Exertis",
@@ -26974,6 +27034,12 @@
   "name": "G4",
   "device": "G4",
   "model": "G4"
+ },
+ {
+  "brand": "Figi",
+  "name": "G5",
+  "device": "G5",
+  "model": "G5"
  },
  {
   "brand": "Figi",
@@ -27874,6 +27940,12 @@
   "name": "Bolt",
   "device": "Bolt",
   "model": "Bolt"
+ },
+ {
+  "brand": "Fonos",
+  "name": "FONOS O2",
+  "device": "O2",
+  "model": "O2"
  },
  {
   "brand": "Fossil",
@@ -42138,6 +42210,12 @@
   "model": "MR7863"
  },
  {
+  "brand": "Hoozo",
+  "name": "MZ10863",
+  "device": "MZ10863",
+  "model": "MZ10863"
+ },
+ {
   "brand": "Hot Pepper",
   "name": "H5",
   "device": "H5",
@@ -53191,6 +53269,12 @@
  },
  {
   "brand": "Infinix",
+  "name": "HOT 8",
+  "device": "Infinix-X650D",
+  "model": "Infinix X650D"
+ },
+ {
+  "brand": "Infinix",
   "name": "HOT NOTE",
   "device": "Infinix-X551",
   "model": "Infinix-X551"
@@ -58726,6 +58810,12 @@
   "name": "Freedom",
   "device": "Freedom",
   "model": "Freedom"
+ },
+ {
+  "brand": "Krono",
+  "name": "776PLUS",
+  "device": "KRONO_776PLUS",
+  "model": "776PLUS"
  },
  {
   "brand": "Krono",
@@ -67657,6 +67747,12 @@
  },
  {
   "brand": "Lanix",
+  "name": "Ilium Alpha 1s",
+  "device": "Ilium_Alpha_1s",
+  "model": "Ilium Alpha 1s"
+ },
+ {
+  "brand": "Lanix",
   "name": "Ilium Alpha 3",
   "device": "Ilium_Alpha_3",
   "model": "Ilium Alpha 3"
@@ -67792,6 +67888,12 @@
   "name": "Ilium M9",
   "device": "Ilium_M9",
   "model": "Ilium M9"
+ },
+ {
+  "brand": "Lanix",
+  "name": "Ilium M9s",
+  "device": "Ilium_M9s",
+  "model": "Ilium M9s"
  },
  {
   "brand": "Lanix",
@@ -67981,6 +68083,12 @@
  },
  {
   "brand": "Lanix",
+  "name": "X240",
+  "device": "X240",
+  "model": "X240"
+ },
+ {
+  "brand": "Lanix",
   "name": "X400",
   "device": "Ilium_X400",
   "model": "ILIUM X400"
@@ -67990,6 +68098,12 @@
   "name": "X530",
   "device": "X530",
   "model": "X530"
+ },
+ {
+  "brand": "Lanix",
+  "name": "X540",
+  "device": "X540",
+  "model": "X540"
  },
  {
   "brand": "Lanix",
@@ -69136,6 +69250,12 @@
   "name": "M12",
   "device": "M12",
   "model": "M12"
+ },
+ {
+  "brand": "Leagoo",
+  "name": "M12A",
+  "device": "M12A",
+  "model": "M12A"
  },
  {
   "brand": "Leagoo",
@@ -73705,6 +73825,12 @@
  },
  {
   "brand": "Linsay",
+  "name": "F_10XHD",
+  "device": "F_10XHD",
+  "model": "F_10XHD"
+ },
+ {
+  "brand": "Linsay",
   "name": "F_10XIPS",
   "device": "F_10XIPS",
   "model": "F_10XIPS"
@@ -75259,6 +75385,12 @@
  },
  {
   "brand": "MLS Innovation",
+  "name": "iQME100",
+  "device": "iQME100",
+  "model": "iQME100"
+ },
+ {
+  "brand": "MLS Innovation",
   "name": "iQS1001",
   "device": "iQS1001",
   "model": "iQS1001"
@@ -76092,6 +76224,12 @@
   "model": "VFD 710"
  },
  {
+  "brand": "Maxpac",
+  "name": "Parrot_3G",
+  "device": "Parrot_3G",
+  "model": "Parrot_3G"
+ },
+ {
   "brand": "Maxtron",
   "name": "S9",
   "device": "S9",
@@ -76150,6 +76288,12 @@
   "name": "Gravity_5_GO",
   "device": "Gravity_5_GO",
   "model": "Gravity_5_GO"
+ },
+ {
+  "brand": "Maxwest",
+  "name": "Gravity_7P",
+  "device": "Gravity_7P",
+  "model": "Gravity_7P"
  },
  {
   "brand": "Maxwest",
@@ -78930,6 +79074,12 @@
   "model": "e-tab_style_REV3"
  },
  {
+  "brand": "Mightier",
+  "name": "MT003-19",
+  "device": "MT003-19",
+  "model": "MT003-19"
+ },
+ {
   "brand": "Migu",
   "name": "MGV2002",
   "device": "MGV2002",
@@ -79102,6 +79252,12 @@
   "name": "Coolmintt P2",
   "device": "Coolmintt_P2",
   "model": "Coolmintt_P2"
+ },
+ {
+  "brand": "Mintt",
+  "name": "DIGI",
+  "device": "DIGI",
+  "model": "DIGI"
  },
  {
   "brand": "Mintt",
@@ -81205,6 +81361,12 @@
  },
  {
   "brand": "Motorola",
+  "name": "Lenovo K10",
+  "device": "pokerp",
+  "model": "Lenovo K10"
+ },
+ {
+  "brand": "Motorola",
   "name": "Master Touch",
   "device": "umts_primus",
   "model": "XT621"
@@ -82663,6 +82825,18 @@
  },
  {
   "brand": "Motorola",
+  "name": "moto e\\xe2\\x81\\xb6 plus",
+  "device": "pokerp",
+  "model": "moto e(6) plus"
+ },
+ {
+  "brand": "Motorola",
+  "name": "moto e\\xe2\\x81\\xb6\\xcb\\xa2",
+  "device": "pokerp",
+  "model": "moto e(6s)"
+ },
+ {
+  "brand": "Motorola",
   "name": "moto g(6)",
   "device": "ali",
   "model": "XT1925-10"
@@ -83008,6 +83182,12 @@
   "name": "L506",
   "device": "L506",
   "model": "L506"
+ },
+ {
+  "brand": "Moviltelco Trade",
+  "name": "L570",
+  "device": "L570",
+  "model": "L570"
  },
  {
   "brand": "Moviltelco Trade",
@@ -85027,6 +85207,18 @@
  },
  {
   "brand": "NEONIQ",
+  "name": "NQT-1013GIQ",
+  "device": "NQT-1013GIQ",
+  "model": "NQT-1013GIQ"
+ },
+ {
+  "brand": "NEONIQ",
+  "name": "NQT-1014GIQ",
+  "device": "NQT-1014GIQ",
+  "model": "NQT-1014GIQ"
+ },
+ {
+  "brand": "NEONIQ",
   "name": "NQT-73GIQ",
   "device": "NQT-73GIQ",
   "model": "NQT-73GIQ"
@@ -85650,6 +85842,12 @@
   "model": "NAVITEL T700 3G PRO"
  },
  {
+  "brand": "Navitel",
+  "name": "T707_3G",
+  "device": "T707_3G",
+  "model": "NAVITEL T707 3G"
+ },
+ {
   "brand": "Navon",
   "name": "D455",
   "device": "D455",
@@ -85966,6 +86164,12 @@
   "name": "Neffos C9 Max",
   "device": "C9_Max",
   "model": "Neffos C9 Max"
+ },
+ {
+  "brand": "Neffos",
+  "name": "Neffos C9s",
+  "device": "C9s",
+  "model": "Neffos C9s"
  },
  {
   "brand": "Neffos",
@@ -92962,6 +93166,12 @@
   "name": "OT-310",
   "device": "OT-310",
   "model": "OT-310"
+ },
+ {
+  "brand": "Pastigio",
+  "name": "SMY_17_M07R6_EEA",
+  "device": "SMY-17-M07R6",
+  "model": "SMY-17-M07R6"
  },
  {
   "brand": "Pavapro",
@@ -100594,6 +100804,12 @@
   "name": "SC_1010JBBT",
   "device": "SC_1010JBBT",
   "model": "SC_1010JBBT"
+ },
+ {
+  "brand": "SUPERSONIC",
+  "name": "SC_4317",
+  "device": "SC_4317",
+  "model": "SC_4317"
  },
  {
   "brand": "SUPERSONIC",
@@ -121968,6 +122184,12 @@
   "model": "ST4173"
  },
  {
+  "brand": "Sumitomo Electric Industries",
+  "name": "ST4500",
+  "device": "ST4500",
+  "model": "ST-4500"
+ },
+ {
   "brand": "Sumitomo Electric Networks",
   "name": "",
   "device": "dhe1100",
@@ -126865,6 +127087,12 @@
  },
  {
   "brand": "TCT (Alcatel)",
+  "name": "Alcatel JOY TAB KIDS",
+  "device": "EasyTAB8TMO",
+  "model": "9029G"
+ },
+ {
+  "brand": "TCT (Alcatel)",
   "name": "Alcatel ONYX\\xe2\\x84\\xa2",
   "device": "Edison_CKT",
   "model": "5008R"
@@ -131215,6 +131443,12 @@
  },
  {
   "brand": "Tecno",
+  "name": "TECNO SPARK 4 Air",
+  "device": "TECNO-KC6",
+  "model": "TECNO KC6"
+ },
+ {
+  "brand": "Tecno",
   "name": "TECNO SPARK Go",
   "device": "TECNO-KC1",
   "model": "TECNO KC1"
@@ -132250,6 +132484,12 @@
   "name": "K1",
   "device": "K1",
   "model": "K1"
+ },
+ {
+  "brand": "Tinno",
+  "name": "C330",
+  "device": "C330",
+  "model": "C330"
  },
  {
   "brand": "Tinp",
@@ -133909,6 +134149,12 @@
  },
  {
   "brand": "Unitech",
+  "name": "EA510",
+  "device": "EA510",
+  "model": "EA510"
+ },
+ {
+  "brand": "Unitech",
   "name": "PA760",
   "device": "PA760",
   "model": "PA760"
@@ -134008,6 +134254,12 @@
   "name": "SPURT R3",
   "device": "SPURT_R3",
   "model": "SPURT R3"
+ },
+ {
+  "brand": "Urovo",
+  "name": "DT50",
+  "device": "DT50",
+  "model": "DT50"
  },
  {
   "brand": "Urovo",
@@ -139647,6 +139899,12 @@
   "brand": "Wiko",
   "name": "View3 Lite",
   "device": "W-V800",
+  "model": "W-V800-DU"
+ },
+ {
+  "brand": "Wiko",
+  "name": "View3 Lite",
+  "device": "W-V800",
   "model": "W-V800-EEA"
  },
  {
@@ -139803,6 +140061,12 @@
   "brand": "Wiko",
   "name": "Y50",
   "device": "W-K130",
+  "model": "W-K130-BYT"
+ },
+ {
+  "brand": "Wiko",
+  "name": "Y50",
+  "device": "W-K130",
   "model": "W-K130-EEA"
  },
  {
@@ -139870,6 +140134,12 @@
   "name": "Y80",
   "device": "W-V720",
   "model": "W-V720-SUN"
+ },
+ {
+  "brand": "Wiko",
+  "name": "Y80",
+  "device": "W-V720",
+  "model": "W-V720-TVM"
  },
  {
   "brand": "Wiko",
@@ -151153,6 +151423,12 @@
  },
  {
   "brand": "beafon",
+  "name": "Class_C250",
+  "device": "Class_C250",
+  "model": "Class_C250"
+ },
+ {
+  "brand": "beafon",
   "name": "M5",
   "device": "M5",
   "model": "M5"
@@ -152776,6 +153052,12 @@
   "name": "PNDPP44QC7",
   "device": "PNDPP44QC7",
   "model": "PNDPP44QC7"
+ },
+ {
+  "brand": "sencor",
+  "name": "10_1Q205",
+  "device": "10_1Q205",
+  "model": "10_1Q205"
  },
  {
   "brand": "sencor",
