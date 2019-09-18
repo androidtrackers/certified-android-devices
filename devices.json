@@ -18,6 +18,12 @@
   "model": "MediaPad 7 Youth 2"
  },
  {
+  "brand": "1&1",
+  "name": "1&1 Puck",
+  "device": "diw362_1u1",
+  "model": "DIW362P 1U1"
+ },
+ {
   "brand": "10.or",
   "name": "10or_G2",
   "device": "G2",
@@ -27703,6 +27709,12 @@
  },
  {
   "brand": "Fly",
+  "name": "Life Geo",
+  "device": "LifeGeo",
+  "model": "Life Geo"
+ },
+ {
+  "brand": "Fly",
   "name": "Life Jet",
   "device": "LifeJet",
   "model": "Life Jet"
@@ -27718,6 +27730,12 @@
   "name": "Life Vista",
   "device": "Life_Vista",
   "model": "Vista"
+ },
+ {
+  "brand": "Fly",
+  "name": "Life Zen",
+  "device": "LifeZen",
+  "model": "Life Zen"
  },
  {
   "brand": "Fly",
@@ -90109,6 +90127,12 @@
  },
  {
   "brand": "Oppo",
+  "name": "Reno A",
+  "device": "OP47CFL1",
+  "model": "CPH1983"
+ },
+ {
+  "brand": "Oppo",
   "name": "Reno Z",
   "device": "OP48A1",
   "model": "CPH1979"
@@ -98326,6 +98350,12 @@
   "name": "QT19101",
   "device": "QT19101",
   "model": "QT19101"
+ },
+ {
+  "brand": "Qilive",
+  "name": "QT19101K",
+  "device": "QT19101K_116_EEA",
+  "model": "QT19101K"
  },
  {
   "brand": "Qilive",
@@ -121522,6 +121552,12 @@
   "name": "Future",
   "device": "Future",
   "model": "Future"
+ },
+ {
+  "brand": "Starlight",
+  "name": "GioneeStar",
+  "device": "GioneeStar",
+  "model": "GioneeStar"
  },
  {
   "brand": "Starlight",

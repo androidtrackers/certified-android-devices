@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-09-17
+Last sync is 2019-09-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8,6 +8,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |||AD681H|Smartfren Andromax AD681H|
 |||FJL21|FJL21|
 |||hws7721g|MediaPad 7 Youth 2|
+|1&1|1&1 Puck|diw362_1u1|DIW362P 1U1|
 |10.or|10or_G2|G2|10or G2|
 |10.or|D|10or_D|D|
 |10.or|E|E|E|
@@ -4622,9 +4623,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fly|Iris|FLY_IQ4400|FLY_IQ4400_AF|
 |Fly|Knockout|Knockout|FS524|
 |Fly|Life Compact|Life_Compact|Compact|
+|Fly|Life Geo|LifeGeo|Life Geo|
 |Fly|Life Jet|LifeJet|Life Jet|
 |Fly|Life Mega|Life_Mega|Mega|
 |Fly|Life Vista|Life_Vista|Vista|
+|Fly|Life Zen|LifeZen|Life Zen|
 |Fly|Memory Plus|Memory_Plus|FS528|
 |Fly|Nimbus 10|Nimbus_10|FS512|
 |Fly|Nimbus 11|Nimbus_11|FS455|
@@ -15023,6 +15026,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno 10x room|OP4847|CPH1921|
 |Oppo|Reno 10\xe5\x80\x8d\xe5\x8f\x98\xe7\x84\xa6\xe7\x89\x88|OP46C3|PCCM00|
 |Oppo|Reno 10\xe5\x80\x8d\xe5\x8f\x98\xe7\x84\xa6\xe7\x89\x88|OP46C3|PCCT00|
+|Oppo|Reno A|OP47CFL1|CPH1983|
 |Oppo|Reno Z|OP48A1|CPH1979|
 |Oppo|Reno Z|OP48A1L1|CPH1979|
 |Oppo|Reno Z \xe4\xb8\xad\xe5\x9b\xbd\xe7\x89\x88|OP4699|PCDM10|
@@ -16393,6 +16397,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Qilive|Q9T9IN|Q9T9IN|Q9T9IN|
 |Qilive|QT19071|QT19071|QT19071|
 |Qilive|QT19101|QT19101|QT19101|
+|Qilive|QT19101K|QT19101K_116_EEA|QT19101K|
 |Qilive|W55|W55|W55|
 |Qoobex|Qphone2019_A|Qphone2019_A|Qphone2019_A|
 |Qpad|XL PLUS|t591_hwd_q19_hiya_we|XL PLUS|
@@ -20259,6 +20264,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Starlight|C_Note|C_Note|C_Note|
 |Starlight|C_Note_Pro|C_Note_Pro|C_Note_Pro|
 |Starlight|Future|Future|Future|
+|Starlight|GioneeStar|GioneeStar|GioneeStar|
 |Starlight|Gionee_Star|Gionee_Star|Gionee_Star|
 |Starlight|I STAR PLUS|I_STAR_PLUS|I_STAR_PLUS|
 |Starlight|I star|I_star|I star|
