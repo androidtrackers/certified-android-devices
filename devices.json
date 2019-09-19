@@ -22302,6 +22302,12 @@
   "model": "TP1_N"
  },
  {
+  "brand": "DigiLand",
+  "name": "ismart",
+  "device": "MID1016-MK",
+  "model": "MID1016-MK"
+ },
+ {
   "brand": "Digicel",
   "name": "DL501",
   "device": "DL501",
@@ -26698,6 +26704,12 @@
   "name": "LT18",
   "device": "LT18",
   "model": "LT18"
+ },
+ {
+  "brand": "F2 Mobile",
+  "name": "Z8POCKET",
+  "device": "Z8POCKET",
+  "model": "Z8POCKET"
  },
  {
   "brand": "FBC",
@@ -37891,6 +37903,12 @@
  },
  {
   "brand": "Hi TFG",
+  "name": "Boost Max",
+  "device": "Boost_Max",
+  "model": "Boost_Max"
+ },
+ {
+  "brand": "Hi TFG",
   "name": "Crusader",
   "device": "Crusader",
   "model": "Crusader"
@@ -37960,6 +37978,12 @@
   "name": "K2050 C1 Fest Pro",
   "device": "Fest-Pro",
   "model": "Fest-Pro"
+ },
+ {
+  "brand": "HighScreen",
+  "name": "Max3",
+  "device": "Max3",
+  "model": "Max3"
  },
  {
   "brand": "HighScreen",
@@ -58876,6 +58900,12 @@
   "name": "DRIVE 5",
   "device": "Drive_5",
   "model": "Kruger&Matz Drive 5"
+ },
+ {
+  "brand": "Kruger&Matz",
+  "name": "DRIVE_6",
+  "device": "DRIVE_6",
+  "model": "DRIVE_6"
  },
  {
   "brand": "Kruger&Matz",
@@ -83485,6 +83515,12 @@
  },
  {
   "brand": "Multilaser",
+  "name": "M7S_PLUS",
+  "device": "ML-SO07-M7S-PLUS",
+  "model": "M7S_PLUS_KIDPAD"
+ },
+ {
+  "brand": "Multilaser",
   "name": "M7s Dual Core",
   "device": "NB116_NB117_NB118",
   "model": "M7s Dual ML03"
@@ -95857,6 +95893,12 @@
  },
  {
   "brand": "Premio",
+  "name": "S72",
+  "device": "Premio_S72",
+  "model": "S72"
+ },
+ {
+  "brand": "Premio",
   "name": "X1",
   "device": "186HS2080531",
   "model": "186HS2080531"
@@ -99115,6 +99157,12 @@
  },
  {
   "brand": "RCA",
+  "name": "Voyager",
+  "device": "RCT6873W42BMF9E",
+  "model": "RCT6873W42BMF9E"
+ },
+ {
+  "brand": "RCA",
   "name": "Voyager III",
   "device": "RCT6973MDN",
   "model": "RCT6973MDN"
@@ -99172,6 +99220,12 @@
   "name": "dingo",
   "device": "Dingo",
   "model": "IO 3D"
+ },
+ {
+  "brand": "RT Project",
+  "name": "Glam",
+  "device": "Glam",
+  "model": "Glam"
  },
  {
   "brand": "RT Project",
@@ -100438,6 +100492,12 @@
   "name": "heaven_10_1",
   "device": "heaven-10_1",
   "model": "HEAVEN 10.1"
+ },
+ {
+  "brand": "SSB PHONES",
+  "name": "AMS5118R_GO",
+  "device": "AMS5118R_GO",
+  "model": "AMS5118R_GO"
  },
  {
   "brand": "SSB PHONES",
@@ -101737,6 +101797,24 @@
  },
  {
   "brand": "Samsung",
+  "name": "Galaxy A30s",
+  "device": "a30s",
+  "model": "SM-A307G"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy A30s",
+  "device": "a30s",
+  "model": "SM-A307GN"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy A30s",
+  "device": "a30s",
+  "model": "SM-A307GT"
+ },
+ {
+  "brand": "Samsung",
   "name": "Galaxy A40",
   "device": "a40",
   "model": "SM-A405FM"
@@ -102039,6 +102117,12 @@
   "brand": "Samsung",
   "name": "Galaxy A50",
   "device": "a50",
+  "model": "SM-A505U1"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy A50",
+  "device": "a50",
   "model": "SM-A505W"
  },
  {
@@ -102046,6 +102130,12 @@
   "name": "Galaxy A50",
   "device": "a50",
   "model": "SM-A505YN"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy A50",
+  "device": "a50",
+  "model": "SM-S506DL"
  },
  {
   "brand": "Samsung",
@@ -102580,6 +102670,12 @@
   "name": "Galaxy A9(2016)",
   "device": "a9xltechn",
   "model": "SM-A9000"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy A90 5G",
+  "device": "r3q",
+  "model": "SM-A908B"
  },
  {
   "brand": "Samsung",
@@ -104056,6 +104152,12 @@
   "name": "Galaxy Fold",
   "device": "winner",
   "model": "SM-F900U1"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Fold 5G",
+  "device": "winner",
+  "model": "SM-F907B"
  },
  {
   "brand": "Samsung",
@@ -112677,6 +112779,12 @@
   "brand": "Samsung",
   "name": "Galaxy Tab S5e",
   "device": "gts4lv",
+  "model": "SM-T727U"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Tab S5e",
+  "device": "gts4lv",
   "model": "SM-T727V"
  },
  {
@@ -112702,6 +112810,12 @@
   "name": "Galaxy Tab S6",
   "device": "gts6l",
   "model": "SM-T867"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Tab S6",
+  "device": "gts6l",
+  "model": "SM-T867V"
  },
  {
   "brand": "Samsung",
@@ -134137,6 +134251,12 @@
  },
  {
   "brand": "Uneone",
+  "name": "SD70",
+  "device": "SD70",
+  "model": "SD70"
+ },
+ {
+  "brand": "Uneone",
   "name": "SD80",
   "device": "SD80",
   "model": "SD80"
@@ -152824,6 +152944,12 @@
   "name": "APOLLO",
   "device": "APOLLO",
   "model": "APOLLO"
+ },
+ {
+  "brand": "iSWAG",
+  "name": "ISWAG_NEMESIS",
+  "device": "ISWAG_NEMESIS",
+  "model": "ISWAG_NEMESIS"
  },
  {
   "brand": "iSWAG",

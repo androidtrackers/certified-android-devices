@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-09-18
+Last sync is 2019-09-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3722,6 +3722,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DigiLand|PCBOX|Kova_2_PCB-T731|PCB-T731|
 |DigiLand|SLTDVD1023|mdt1005|SLTDVD1023|
 |DigiLand|TP1_N|TP1_N|TP1_N|
+|DigiLand|ismart|MID1016-MK|MID1016-MK|
 |Digicel|DL501|DL501|DL501|
 |Digicel|Digi K1|Digi_K1|Digi_K1|
 |Digicel|GO Onyx|GO_Onyx|GO Onyx|
@@ -4455,6 +4456,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |F2 Mobile|F2_LT5216|LT5216|LT5216|
 |F2 Mobile|LT16|LT16|LT16|
 |F2 Mobile|LT18|LT18|LT18|
+|F2 Mobile|Z8POCKET|Z8POCKET|Z8POCKET|
 |FBC|M24IS810|MX24|TDA02|
 |FBC|M24IS820|fst01ms|M24IS820|
 |FIREFLY MOBILE|AURII_AMUSE_3G|AURII_AMUSE_3G|AURII_AMUSE_3G|
@@ -6320,6 +6322,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hercls|HERCLS L925|L925|L925|
 |HexaByte|HB_X7|HB_X7|HB_X7|
 |Hezire|HTB801|HTB801|HTB801|
+|Hi TFG|Boost Max|Boost_Max|Boost_Max|
 |Hi TFG|Crusader|Crusader|Crusader|
 |Hi TFG|Spitfire|Spitfire|Spitfire|
 |HighScreen|Bay|Bay|Bay|
@@ -6332,6 +6335,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HighScreen|Fest XL|FestXL|FestXL|
 |HighScreen|Fest XL PRO|FestXL-Pro|FestXL-Pro|
 |HighScreen|K2050 C1 Fest Pro|Fest-Pro|Fest-Pro|
+|HighScreen|Max3|Max3|Max3|
 |HighScreen|Power Five|PowerFive|PowerFive|
 |HighScreen|Power Four|PowerFour|PowerFour|
 |HighScreen|Power Ice|BBL7353RV|Power Ice|
@@ -9818,6 +9822,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Krono|SKY|SKY|SKY|
 |Krono|kIDS_FIVE|KIDS_FIVE|KIDS_FIVE|
 |Kruger&Matz|DRIVE 5|Drive_5|Kruger&Matz Drive 5|
+|Kruger&Matz|DRIVE_6|DRIVE_6|DRIVE_6|
 |Kruger&Matz|EAGLE 701|EAGLE_KM0701_1|KM0701_1|
 |Kruger&Matz|EAGLE 804|EAGLE_KM0804_1|KM0804_1|
 |Kruger&Matz|EAGLE 805|EAGLE_KM0805_1|KM0805_1|
@@ -13919,6 +13924,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M7S_LITE|ML-JI07-M7S-LITE|M7S_LITE|
 |Multilaser|M7S_PLUS|ML-JI08-M7S-PLUS|M7S_PLUS|
 |Multilaser|M7S_PLUS|ML-SO07-M7S-PLUS|M7S_PLUS|
+|Multilaser|M7S_PLUS|ML-SO07-M7S-PLUS|M7S_PLUS_KIDPAD|
 |Multilaser|M7s Dual Core|NB116_NB117_NB118|M7s Dual ML03|
 |Multilaser|M7s Quad Core|astar-ococci|ML01-M7S-Quad-Core|
 |Multilaser|M7sLite|ML-SO06-M7sLite|M7sLite|
@@ -15981,6 +15987,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Premio|S51|S51|S51|
 |Premio|S70|S70|S70|
 |Premio|S71|S71|S71|
+|Premio|S72|Premio_S72|S72|
 |Premio|X1|186HS2080531|186HS2080531|
 |Premio|X80|X80|X80|
 |Prestige|7G|Prestige-7G|Prestige 7G|
@@ -16524,6 +16531,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|RCT6973W43R|RCT6973W43R|RCT6973W43R|
 |RCA|RLTP5573|RLTP5573|RLTP5573|
 |RCA|Voyager|RCT6873W42BMF8|RCT6873W42BMF8|
+|RCA|Voyager|RCT6873W42BMF9E|RCT6873W42BMF9E|
 |RCA|Voyager III|RCT6973MDN|RCT6973MDN|
 |RCA|Voyager Pro|RCT6873W42M_F7|RCT6873W42M_F7|
 |RCA|XLD Series|XLDRCAV1|XLDRCAV1|
@@ -16534,6 +16542,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ROKiT|IO Light|Chinchilla|IO Light|
 |ROKiT|IO Pro|Emu|IO Pro|
 |ROKiT|dingo|Dingo|IO 3D|
+|RT Project|Glam|Glam|Glam|
 |RT Project|Wide|Wide|Wide|
 |RT Project|popper2|popper2|popper2|
 |Radger|IMP-F01K|IMP-F01K|IMP-F01K|
@@ -16745,6 +16754,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Universe|Laika|Laika|Laika|
 |SPC Universe|Lightyear|Lightyear|Lightyear|
 |SPC Universe|heaven_10_1|heaven-10_1|HEAVEN 10.1|
+|SSB PHONES|AMS5118R_GO|AMS5118R_GO|AMS5118R_GO|
 |SSB PHONES|AMS5518R|AMS5518R|AMS5518R|
 |SSB PHONES|LM5118R|LM5118R|LM5118R|
 |SSB PHONES|LM5518R|LM5518R|LM5518R|
@@ -16961,6 +16971,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A30|a30|SM-A305N|
 |Samsung|Galaxy A30|a30|SM-A305YN|
 |Samsung|Galaxy A30s|a30s|SM-A307FN|
+|Samsung|Galaxy A30s|a30s|SM-A307G|
+|Samsung|Galaxy A30s|a30s|SM-A307GN|
+|Samsung|Galaxy A30s|a30s|SM-A307GT|
 |Samsung|Galaxy A40|a40|SM-A405FM|
 |Samsung|Galaxy A40|a40|SM-A405FN|
 |Samsung|Galaxy A40|a40|SM-A405S|
@@ -17011,8 +17024,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A50|a50|SM-A505GT|
 |Samsung|Galaxy A50|a50|SM-A505N|
 |Samsung|Galaxy A50|a50|SM-A505U|
+|Samsung|Galaxy A50|a50|SM-A505U1|
 |Samsung|Galaxy A50|a50|SM-A505W|
 |Samsung|Galaxy A50|a50|SM-A505YN|
+|Samsung|Galaxy A50|a50|SM-S506DL|
 |Samsung|Galaxy A50s|a50s|SM-A507FN|
 |Samsung|Galaxy A6|a6elteaio|SM-A600AZ|
 |Samsung|Galaxy A6|a6elteatt|SM-A600A|
@@ -17102,6 +17117,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A9 Star Lite|a6pltechn|SM-A605XC|
 |Samsung|Galaxy A9 Star Lite|a6pltecmcc|SM-A6058|
 |Samsung|Galaxy A9(2016)|a9xltechn|SM-A9000|
+|Samsung|Galaxy A90 5G|r3q|SM-A908B|
 |Samsung|Galaxy A90 5G|r3q|SM-A908N|
 |Samsung|Galaxy A9s|a9y18qltechn|SM-A9200|
 |Samsung|Galaxy Ace|GT-S5830|GT-S5830|
@@ -17348,6 +17364,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Fold|winner|SM-F900F|
 |Samsung|Galaxy Fold|winner|SM-F900U|
 |Samsung|Galaxy Fold|winner|SM-F900U1|
+|Samsung|Galaxy Fold 5G|winner|SM-F907B|
 |Samsung|Galaxy Fold 5G|winner|SM-F907N|
 |Samsung|Galaxy Folder|novel3gskt|SM-G155S|
 |Samsung|Galaxy Folder|novelltektt|SM-G150NK|
@@ -18784,11 +18801,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S5e|gts4lv|SM-T725C|
 |Samsung|Galaxy Tab S5e|gts4lv|SM-T725N|
 |Samsung|Galaxy Tab S5e|gts4lv|SM-T727|
+|Samsung|Galaxy Tab S5e|gts4lv|SM-T727U|
 |Samsung|Galaxy Tab S5e|gts4lv|SM-T727V|
 |Samsung|Galaxy Tab S5e|gts4lvwifi|SM-T720|
 |Samsung|Galaxy Tab S5e|gts4lvwifichn|SM-T720|
 |Samsung|Galaxy Tab S6|gts6l|SM-T865|
 |Samsung|Galaxy Tab S6|gts6l|SM-T867|
+|Samsung|Galaxy Tab S6|gts6l|SM-T867V|
 |Samsung|Galaxy Tab S6|gts6lwifi|SM-T860|
 |Samsung|Galaxy Tab2 10.1|espresso10att|SAMSUNG-SGH-I497|
 |Samsung|Galaxy Tab2 10.1|espresso10can|SGH-I497|
@@ -22361,6 +22380,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Uneone|SD50|SD50|SD50|
 |Uneone|SD55|UNEONE_SD55|SD55|
 |Uneone|SD57|SD57|SD57|
+|Uneone|SD70|SD70|SD70|
 |Uneone|SD80|SD80|SD80|
 |Unifone|U5_Breeze|U5_Breeze|U5_Breeze|
 |Unihertz|Atom|Atom|Atom|
@@ -25476,6 +25496,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iRulu|iRULU_G36|iRULU_G36|G36|
 |iSWAG|ALPHA|Alpha|Alpha|
 |iSWAG|APOLLO|APOLLO|APOLLO|
+|iSWAG|ISWAG_NEMESIS|ISWAG_NEMESIS|ISWAG_NEMESIS|
 |iSWAG|ISWAG_VIPER|ISWAG_VIPER|ISWAG VIPER|
 |iSWAG|ODIN|ODIN|ODIN|
 |iSWAG|STREAM7|STREAM7|STREAM7|
