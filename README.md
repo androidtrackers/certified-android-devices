@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-09-19
+Last sync is 2019-09-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9204,6 +9204,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Invens|Fighter|Fighter|Fighter|
 |Invens|MAX_1|MAX_1|MAX_1|
 |Invens|MAX_2|MAX_2|MAX_2|
+|Invens|UNO|UNO|UNO|
 |Inverse Net|EP172BZ|EP172BZ|EP172BZ|
 |Inverse Net|EP172PR|EP172PR|EP172PR|
 |Inverse Net|LT101|LT101|LT101|
@@ -12639,6 +12640,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mafe|M8|M8|M8|
 |Mafe|M8_Plus|M8_Plus|M8_Plus|
 |Mafe|Z1|Z1|Z1|
+|MagentaTV|OTT-G1|DV6067Y|OTT-G1|
 |Majestic|TAB 611 3G|TAB_611_3G|TAB 611 3G|
 |Majestic|TAB-714|TAB-714|TAB-714|
 |Majestic|TAB_711_4G|TAB_711_4G|TAB 711 4G|
@@ -13894,6 +13896,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Movitel|M9102A|M9102A|M9102A|
 |Movitel|M9102B|M9102B|M9102B|
 |Movitel|M9103|M9103|M9103|
+|Movitel|Movitel_M9104|Movitel_M9104|Movitel_M9104|
 |Moxee Technologies|X10|X10|X10|
 |Moxee Technologies|X100|X100|X100|
 |Mpgio|ATHENA_A10|ATHENA_A10|ATHENA_A10|
@@ -19616,6 +19619,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Skyworth|Asia|open_fhd_ap|open_fhd|
 |Skyworth|Euro|SW3_ATV|SWTV|
 |Skyworth|Europe|globe_eu|globe|
+|Skyworth|North America|SW3_ATV|SWTV|
 |Skyworth|North America|globe_na|globe|
 |Skyworth|Skyworth|IPBox|ACT4K1007|
 |Skyworth|Skyworth|grape|HPA02|
@@ -23491,6 +23495,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |X-View|AMBER_KIDS|AMBER_KIDS|AMBER_KIDS|
 |X-View|PROTON_AMBER_HD|Proton_Amber_HD|Proton_Amber_HD|
 |X-View|X-View|X-ViewTablet7|X-ViewTablet7|
+|XGIMI|MoGo|xgimiapollo|MoGo|
 |XL Axiata|AX512|DV8252|AX512|
 |XL Axiata|XL Home Pow|STI6xxx|STI6030|
 |Xcell|Enia|Xcell_Enia|Enia|
@@ -25218,6 +25223,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zoji|Z9|Z9|Z9|
 |Zonda|AWM533|AWM533|AWM533|
 |Zong 4G|Z1|Z1|Z1|
+|Zong 4G|Z2|Z2|Z2|
 |Zonko|K105|K105|K105|
 |Zonko|K78|K78|K78|
 |Zoom|LitePro|LitePro|LitePro|

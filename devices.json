@@ -55194,6 +55194,12 @@
   "model": "MAX_2"
  },
  {
+  "brand": "Invens",
+  "name": "UNO",
+  "device": "UNO",
+  "model": "UNO"
+ },
+ {
   "brand": "Inverse Net",
   "name": "EP172BZ",
   "device": "EP172BZ",
@@ -75804,6 +75810,12 @@
   "model": "Z1"
  },
  {
+  "brand": "MagentaTV",
+  "name": "OTT-G1",
+  "device": "DV6067Y",
+  "model": "OTT-G1"
+ },
+ {
   "brand": "Majestic",
   "name": "TAB 611 3G",
   "device": "TAB_611_3G",
@@ -83332,6 +83344,12 @@
   "name": "M9103",
   "device": "M9103",
   "model": "M9103"
+ },
+ {
+  "brand": "Movitel",
+  "name": "Movitel_M9104",
+  "device": "Movitel_M9104",
+  "model": "Movitel_M9104"
  },
  {
   "brand": "Moxee Technologies",
@@ -117668,6 +117686,12 @@
  {
   "brand": "Skyworth",
   "name": "North America",
+  "device": "SW3_ATV",
+  "model": "SWTV"
+ },
+ {
+  "brand": "Skyworth",
+  "name": "North America",
   "device": "globe_na",
   "model": "globe"
  },
@@ -140916,6 +140940,12 @@
   "model": "X-ViewTablet7"
  },
  {
+  "brand": "XGIMI",
+  "name": "MoGo",
+  "device": "xgimiapollo",
+  "model": "MoGo"
+ },
+ {
   "brand": "XL Axiata",
   "name": "AX512",
   "device": "DV8252",
@@ -151276,6 +151306,12 @@
   "name": "Z1",
   "device": "Z1",
   "model": "Z1"
+ },
+ {
+  "brand": "Zong 4G",
+  "name": "Z2",
+  "device": "Z2",
+  "model": "Z2"
  },
  {
   "brand": "Zonko",
