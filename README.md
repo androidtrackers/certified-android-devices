@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-09-20
+Last sync is 2019-09-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2033,6 +2033,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|Taiwan|laoshan|BENQANDROIDTV|
 |Benesse|TAB-A03-BR|TAB-A03-BR|TAB-A03-BR|
 |Benesse|TAB-A03-BS|TAB-A03-BS|TAB-A03-BS|
+|Benesse|TAB-BEG-01|beg01|TAB-BEG-01|
 |Beneve|M7133|M7133|M7133|
 |Beneve|M7133E|M7133E|M7133E|
 |Beneve|M7133E3|M7133E3|M7133E3|
@@ -9075,6 +9076,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ingenico|Moby-M70|Moby-M70|Moby-M70|
 |Inhon|E30|E30|E30|
 |Inhon|L35|L35|L35|
+|Inhon|L36|L36|L36|
 |Inhon|L50|INHON_L50|L50|
 |Inhon|L55|L55|L55|
 |Inhon|V6|V6|Inhon_V6|
@@ -13872,6 +13874,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Movado|Boss Touch / TH 24/7 YOU|weever|BOSS Touch|
 |Movado|Boss Touch / TH 24/7 YOU|weever|TH 24/7 YOU|
 |Movado|Movado Connect|stargazer|Movado Connect|
+|Movado|Movado Connect 2.0|tilefish|Movado Connect 2|
 |Moveby|LINNEX|LX50|LX50|
 |Movic|MOVIC_W5|MOVIC_W5|MOVIC-W5|
 |Moviltelco Trade|A58B|A58B|A58B|
@@ -16757,7 +16760,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Universe|Laika|Laika|Laika|
 |SPC Universe|Lightyear|Lightyear|Lightyear|
 |SPC Universe|heaven_10_1|heaven-10_1|HEAVEN 10.1|
-|SSB PHONES|AMS5118R_GO|AMS5118R_GO|AMS5118R_GO|
 |SSB PHONES|AMS5518R|AMS5518R|AMS5518R|
 |SSB PHONES|LM5118R|LM5118R|LM5118R|
 |SSB PHONES|LM5518R|LM5518R|LM5518R|

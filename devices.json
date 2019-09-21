@@ -12168,6 +12168,12 @@
   "model": "TAB-A03-BS"
  },
  {
+  "brand": "Benesse",
+  "name": "TAB-BEG-01",
+  "device": "beg01",
+  "model": "TAB-BEG-01"
+ },
+ {
   "brand": "Beneve",
   "name": "M7133",
   "device": "M7133",
@@ -54421,6 +54427,12 @@
  },
  {
   "brand": "Inhon",
+  "name": "L36",
+  "device": "L36",
+  "model": "L36"
+ },
+ {
+  "brand": "Inhon",
   "name": "L50",
   "device": "INHON_L50",
   "model": "L50"
@@ -83202,6 +83214,12 @@
   "model": "Movado Connect"
  },
  {
+  "brand": "Movado",
+  "name": "Movado Connect 2.0",
+  "device": "tilefish",
+  "model": "Movado Connect 2"
+ },
+ {
   "brand": "Moveby",
   "name": "LINNEX",
   "device": "LX50",
@@ -100510,12 +100528,6 @@
   "name": "heaven_10_1",
   "device": "heaven-10_1",
   "model": "HEAVEN 10.1"
- },
- {
-  "brand": "SSB PHONES",
-  "name": "AMS5118R_GO",
-  "device": "AMS5118R_GO",
-  "model": "AMS5118R_GO"
  },
  {
   "brand": "SSB PHONES",
