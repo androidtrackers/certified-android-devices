@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-09-22
+Last sync is 2019-09-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2837,6 +2837,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cherry Mobile|Flare_J3_Lite|Flare_J3_Lite|Flare_J3_Lite|
 |Cherry Mobile|Flare_S6_Lite|Flare_S6_Lite|Flare_S6_Lite|
 |Cherry Mobile|Flare_S7_Prime|Flare_S7_Prime|Flare_S7_Prime|
+|Cherry Mobile|Flare_S8_Plus|Flare_S8_Plus|Flare_S8_Plus|
+|Cherry Mobile|Flare_S8_Pro|Flare_S8_Pro|Flare_S8_Pro|
 |Cherry Mobile|Flare_Y6_Pro|Flare_Y6_Pro|Flare_Y6_Pro|
 |Cherry Mobile|Fusion Aura 3s|Fusion_Aura_3s|Fusion Aura 3s|
 |Cherry Mobile|H220|ctih220_sprout|H220|
@@ -4362,6 +4364,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Evercoss|U60|EVERCOSS_U60|U60|
 |Evercoss|U60A|EVERCOSS_U60A|U60A|
 |Evercoss|U6A|EVERCOSS_U6A|U6A|
+|Evercoss|U6A|U6A_PLUS|U6A|
 |Evercoss|U6B|U6B|U6B|
 |Evercoss|U6C|U6C|U6C|
 |Evercoss|U70|U70|U70|
@@ -7049,6 +7052,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hoozo|MR768|MR768|MR768|
 |Hoozo|MR7863|MR7863|MR7863|
 |Hoozo|MZ10863|MZ10863|MZ10863|
+|Hot Pepper|Ghost|HPP-GS1|HPP-GS1|
 |Hot Pepper|H5|H5|H5|
 |Hot Pepper|VLE5|VLE5|VLE5|
 |Hot Pepper|VLE5|VLE5A|VLE5A|
@@ -12693,6 +12697,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Masstel|Masstel_X1|Masstel_X1|Masstel X1|
 |Masstel|Masstel_X5|Masstel_X5|Masstel X5|
 |Masstel|Masstel_X6|Masstel_X6|Masstel X6|
+|Masstel|Masstel_X9|Masstel_X9|Masstel_X9|
 |Masstel|N535|Masstel_N535|Masstel N535|
 |Masstel|Tab7LTE|Masstel_Tab7LTE|Masstel_Tab7LTE|
 |Masstel|Tab7Plus|Tab7Plus|Tab7Plus|
@@ -16697,6 +16702,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SHIFT|SHIFT6m|SHIFT6m|SHIFT6m|
 |SK Broadband|B tv smart|BHX-S100|BHX-S100|
 |SK Broadband|B tv smart|BKO-S200|BKO-S200|
+|SK Broadband|BFX-AT100|BFX-AT100|BFX-AT100|
 |SK Broadband|BKO-AT800|BKO-AT800|BKO-AT800|
 |SK Broadband|BTV|vip5442|BAS-AT800|
 |SK Telesys||K4|SK-S170|
@@ -16760,6 +16766,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Universe|Laika|Laika|Laika|
 |SPC Universe|Lightyear|Lightyear|Lightyear|
 |SPC Universe|heaven_10_1|heaven-10_1|HEAVEN 10.1|
+|SSB PHONES|AMS5118R_GO|AMS5118R_GO|AMS5118R_GO|
 |SSB PHONES|AMS5518R|AMS5518R|AMS5518R|
 |SSB PHONES|LM5118R|LM5118R|LM5118R|
 |SSB PHONES|LM5518R|LM5518R|LM5518R|
@@ -20531,6 +20538,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL L9|U5A_PLUS_4G|5159A|
 |TCL|TCL L9|U5A_PLUS_4G|5159J|
 |TCL|TCL L9 Plus|Wright|5101A|
+|TCL|TCL L9 Plus|Wright|5101J|
 |TCL|TCL PLEX|T1|T780H|
 |TCL|TCL T7|A5A_INFINI|5186A|
 |TCL|TCL T9|Venice|5148A|

@@ -16993,6 +16993,18 @@
  },
  {
   "brand": "Cherry Mobile",
+  "name": "Flare_S8_Plus",
+  "device": "Flare_S8_Plus",
+  "model": "Flare_S8_Plus"
+ },
+ {
+  "brand": "Cherry Mobile",
+  "name": "Flare_S8_Pro",
+  "device": "Flare_S8_Pro",
+  "model": "Flare_S8_Pro"
+ },
+ {
+  "brand": "Cherry Mobile",
   "name": "Flare_Y6_Pro",
   "device": "Flare_Y6_Pro",
   "model": "Flare_Y6_Pro"
@@ -26139,6 +26151,12 @@
   "brand": "Evercoss",
   "name": "U6A",
   "device": "EVERCOSS_U6A",
+  "model": "U6A"
+ },
+ {
+  "brand": "Evercoss",
+  "name": "U6A",
+  "device": "U6A_PLUS",
   "model": "U6A"
  },
  {
@@ -42262,6 +42280,12 @@
   "name": "MZ10863",
   "device": "MZ10863",
   "model": "MZ10863"
+ },
+ {
+  "brand": "Hot Pepper",
+  "name": "Ghost",
+  "device": "HPP-GS1",
+  "model": "HPP-GS1"
  },
  {
   "brand": "Hot Pepper",
@@ -76129,6 +76153,12 @@
  },
  {
   "brand": "Masstel",
+  "name": "Masstel_X9",
+  "device": "Masstel_X9",
+  "model": "Masstel_X9"
+ },
+ {
+  "brand": "Masstel",
   "name": "N535",
   "device": "Masstel_N535",
   "model": "Masstel N535"
@@ -100153,6 +100183,12 @@
  },
  {
   "brand": "SK Broadband",
+  "name": "BFX-AT100",
+  "device": "BFX-AT100",
+  "model": "BFX-AT100"
+ },
+ {
+  "brand": "SK Broadband",
   "name": "BKO-AT800",
   "device": "BKO-AT800",
   "model": "BKO-AT800"
@@ -100528,6 +100564,12 @@
   "name": "heaven_10_1",
   "device": "heaven-10_1",
   "model": "HEAVEN 10.1"
+ },
+ {
+  "brand": "SSB PHONES",
+  "name": "AMS5118R_GO",
+  "device": "AMS5118R_GO",
+  "model": "AMS5118R_GO"
  },
  {
   "brand": "SSB PHONES",
@@ -123154,6 +123196,12 @@
   "name": "TCL L9 Plus",
   "device": "Wright",
   "model": "5101A"
+ },
+ {
+  "brand": "TCL",
+  "name": "TCL L9 Plus",
+  "device": "Wright",
+  "model": "5101J"
  },
  {
   "brand": "TCL",
