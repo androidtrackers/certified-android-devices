@@ -3637,6 +3637,12 @@
  },
  {
   "brand": "AllView",
+  "name": "Viva C703",
+  "device": "Viva_C703",
+  "model": "Viva_C703"
+ },
+ {
+  "brand": "AllView",
   "name": "Viva H10 LTE",
   "device": "Allview_VivaH10LTE_KK",
   "model": "VivaH10LTE"
@@ -6952,6 +6958,12 @@
   "name": "Z600",
   "device": "Z600",
   "model": "Z600"
+ },
+ {
+  "brand": "Aspera",
+  "name": "A4G",
+  "device": "A4G",
+  "model": "A4G"
  },
  {
   "brand": "Aspera",
@@ -10366,6 +10378,12 @@
   "name": "BMPRO7DI",
   "device": "BMPRO7DI",
   "model": "BMPRO7DI"
+ },
+ {
+  "brand": "BMXC",
+  "name": "K107_EEA",
+  "device": "K107-EEA",
+  "model": "K107-EEA"
  },
  {
   "brand": "BMXC",
@@ -26748,6 +26766,12 @@
   "model": "M24IS820"
  },
  {
+  "brand": "FCC Movil",
+  "name": "GK738_3G",
+  "device": "GK738_3G",
+  "model": "GK738_3G"
+ },
+ {
   "brand": "FIREFLY MOBILE",
   "name": "AURII_AMUSE_3G",
   "device": "AURII_AMUSE_3G",
@@ -29164,6 +29188,12 @@
   "name": "POE-SMB400-FN1",
   "device": "daitou",
   "model": "POE-SMB400-FN1"
+ },
+ {
+  "brand": "Fusion5",
+  "name": "F105DvII",
+  "device": "F105DvII",
+  "model": "F105DvII"
  },
  {
   "brand": "Fusion5",
@@ -60613,6 +60643,12 @@
  },
  {
   "brand": "LGE",
+  "name": "Aristo 4+",
+  "device": "mh5lm",
+  "model": "LM-X320"
+ },
+ {
+  "brand": "LGE",
   "name": "B6",
   "device": "b6",
   "model": "LG-V426"
@@ -60826,6 +60862,12 @@
   "name": "G Pad 10.1 LTE",
   "device": "e9lte",
   "model": "VK700"
+ },
+ {
+  "brand": "LGE",
+  "name": "G Pad 5 10.1 FHD",
+  "device": "tf10",
+  "model": "LM-T600"
  },
  {
   "brand": "LGE",
@@ -85945,6 +85987,12 @@
  },
  {
   "brand": "Navitel",
+  "name": "NAVITEL_T757LTE_EEA",
+  "device": "NAVITEL_T757LTE",
+  "model": "NAVITEL_T757LTE"
+ },
+ {
+  "brand": "Navitel",
   "name": "Navitel T700 3G Navi",
   "device": "NAVITEL_T700_3G_NAVI",
   "model": "NAVITEL T700 3G NAVI"
@@ -86944,6 +86992,12 @@
   "name": "Nokia 3",
   "device": "NE1",
   "model": "TA-1038"
+ },
+ {
+  "brand": "Nokia",
+  "name": "Nokia 3 V",
+  "device": "DPL_VZW",
+  "model": "Nokia 3 V"
  },
  {
   "brand": "Nokia",
@@ -98458,6 +98512,18 @@
   "name": "QT19101",
   "device": "QT19101",
   "model": "QT19101"
+ },
+ {
+  "brand": "Qilive",
+  "name": "QT19101B",
+  "device": "QT19101B",
+  "model": "QT19101B"
+ },
+ {
+  "brand": "Qilive",
+  "name": "QT19101HV",
+  "device": "QT19101HV",
+  "model": "QT19101HV"
  },
  {
   "brand": "Qilive",
@@ -117001,6 +117067,12 @@
  },
  {
   "brand": "Sico",
+  "name": "Infinity_2",
+  "device": "Infinity_2",
+  "model": "Infinity 2"
+ },
+ {
+  "brand": "Sico",
   "name": "Mega2",
   "device": "Mega2",
   "model": "Mega2"
@@ -118534,6 +118606,18 @@
   "name": "Xperia 10 Plus",
   "device": "I4293",
   "model": "I4293"
+ },
+ {
+  "brand": "Sony",
+  "name": "Xperia 5",
+  "device": "J8210",
+  "model": "J8210"
+ },
+ {
+  "brand": "Sony",
+  "name": "Xperia 5",
+  "device": "J9210",
+  "model": "J9210"
  },
  {
   "brand": "Sony",
@@ -144871,6 +144955,12 @@
  },
  {
   "brand": "ZTE",
+  "name": "Blade A5 2019-T",
+  "device": "Z5155T",
+  "model": "Blade A5 2019-T"
+ },
+ {
+  "brand": "ZTE",
   "name": "Blade A510",
   "device": "P635A50",
   "model": "Blade A510"
@@ -151378,6 +151468,12 @@
   "name": "K105",
   "device": "K105",
   "model": "K105"
+ },
+ {
+  "brand": "Zonko",
+  "name": "K108",
+  "device": "K108",
+  "model": "K108"
  },
  {
   "brand": "Zonko",

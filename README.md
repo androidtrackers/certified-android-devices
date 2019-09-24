@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-09-23
+Last sync is 2019-09-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -611,6 +611,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|Viva 1003G Lite|Viva_1003G_Lite|Viva_1003G_Lite|
 |AllView|Viva C701|Viva_C701|Viva_C701|
 |AllView|Viva C702|Viva_C702|Viva_C702|
+|AllView|Viva C703|Viva_C703|Viva_C703|
 |AllView|Viva H10 LTE|Allview_VivaH10LTE_KK|VivaH10LTE|
 |AllView|Viva H1001 LTE|Viva_H1001_LTE|Viva_H1001_LTE|
 |AllView|Viva H1002 LTE|Viva_H1002_LTE|Viva_H1002_LTE|
@@ -1164,6 +1165,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ashna|X55|X55|X55|
 |Ashna|X66|X66|X66|
 |Ashna|Z600|Z600|Z600|
+|Aspera|A4G|A4G|A4G|
 |Aspera|Aspera Swift|Aspera_Swift|Swift|
 |Aspera|JAZZ|Jazz|Jazz|
 |Aspera|Jazz_2|Jazz_2|Jazz 2|
@@ -1733,6 +1735,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BLOW|BlackTAB7|BlackTAB7|BlackTAB7|
 |BLOW|PlatinumTAB10|PlatinumTAB10|PlatinumTAB10|
 |BMPRO|BMPRO7DI|BMPRO7DI|BMPRO7DI|
+|BMXC|K107_EEA|K107-EEA|K107-EEA|
 |BMXC|ST-920|ST-920|ST-920|
 |BMobile|AX1010|Bmobile_AX1010|AX1010|
 |BMobile|AX1010|Bmobile_AX1010|Bmobile AX1010|
@@ -4463,6 +4466,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |F2 Mobile|Z8POCKET|Z8POCKET|Z8POCKET|
 |FBC|M24IS810|MX24|TDA02|
 |FBC|M24IS820|fst01ms|M24IS820|
+|FCC Movil|GK738_3G|GK738_3G|GK738_3G|
 |FIREFLY MOBILE|AURII_AMUSE_3G|AURII_AMUSE_3G|AURII_AMUSE_3G|
 |FIREFLY MOBILE|FIREFLY MOBILE|AURII_XCITE|AURII_XCITE|
 |FIREFLY MOBILE|INTENSE_XT|INTENSE_XT|INTENSE_XT|
@@ -4866,6 +4870,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fujitsu|arrows Tab M01T|M01T|M01T|
 |Funai Electric||smdkv210|ALM-001J|
 |Funai Electric|POE-SMB400-FN1|daitou|POE-SMB400-FN1|
+|Fusion5|F105DvII|F105DvII|F105DvII|
 |Fusion5|Fusion5|Fusion5_F104B|Fusion5_F104B|
 |Fusion5|Fusion5|W104Plus|W104Plus|
 |Fusion5|Fusion5_108|Fusion5_108|Fusion5_108|
@@ -10107,6 +10112,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|Android TV|eden|LG Google TV G3|
 |LGE|Android TV|eden|LG Google TV G3 KR|
 |LGE|Android TV G3|eden|LG Google TV G3|
+|LGE|Aristo 4+|mh5lm|LM-X320|
 |LGE|B6|b6|LG-V426|
 |LGE|B6|b6|LGT02|
 |LGE|DM-01G|DM-01G|DM-01G|
@@ -10143,6 +10149,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|G Pad 10.1|e9wifin|LG-V700n|
 |LGE|G Pad 10.1 LTE|e9lte|LG-VK700|
 |LGE|G Pad 10.1 LTE|e9lte|VK700|
+|LGE|G Pad 5 10.1 FHD|tf10|LM-T600|
 |LGE|G Pad 5 10.1 FHD|tf10|LM-T600L|
 |LGE|G Pad 7.0|e7wifi|LG-V400|
 |LGE|G Pad 7.0|e7wifi|LG-V400S1|
@@ -14329,6 +14336,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Navcity|NP-852|NP-852|NP-852|
 |Navcity|NP-855|NP-855|NP-855|
 |Navcity|NT-1714|NT1714|NT-1714|
+|Navitel|NAVITEL_T757LTE_EEA|NAVITEL_T757LTE|NAVITEL_T757LTE|
 |Navitel|Navitel T700 3G Navi|NAVITEL_T700_3G_NAVI|NAVITEL T700 3G NAVI|
 |Navitel|T500 3G|T500_3G|T500 3G|
 |Navitel|T700_3G_Pro|T700_3G_Pro|NAVITEL T700 3G PRO|
@@ -14496,6 +14504,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia 3|NE1|TA-1028|
 |Nokia|Nokia 3|NE1|TA-1032|
 |Nokia|Nokia 3|NE1|TA-1038|
+|Nokia|Nokia 3 V|DPL_VZW|Nokia 3 V|
 |Nokia|Nokia 3.1|ES2N_sprout|Nokia 3.1|
 |Nokia|Nokia 3.1|ES2_sprout|Nokia 3.1|
 |Nokia|Nokia 3.1 A|EAG|Nokia 3.1 A|
@@ -16415,6 +16424,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Qilive|Q9T9IN|Q9T9IN|Q9T9IN|
 |Qilive|QT19071|QT19071|QT19071|
 |Qilive|QT19101|QT19101|QT19101|
+|Qilive|QT19101B|QT19101B|QT19101B|
+|Qilive|QT19101HV|QT19101HV|QT19101HV|
 |Qilive|QT19101K|QT19101K_116_EEA|QT19101K|
 |Qilive|W55|W55|W55|
 |Qoobex|Qphone2019_A|Qphone2019_A|Qphone2019_A|
@@ -19505,6 +19516,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sico|Diamond 2|Diamond_2|Diamond 2|
 |Sico|Infinity|Infinity|Infinity|
 |Sico|Infinity Max|InfinityMax|Infinity Max|
+|Sico|Infinity_2|Infinity_2|Infinity 2|
 |Sico|Mega2|Mega2|Mega2|
 |Sico|Mega2max|Mega2max|Mega2max|
 |Sico|More_3|More_3|More_3|
@@ -19761,6 +19773,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 10 Plus|I3223|I3223|
 |Sony|Xperia 10 Plus|I4213|I4213|
 |Sony|Xperia 10 Plus|I4293|I4293|
+|Sony|Xperia 5|J8210|J8210|
+|Sony|Xperia 5|J9210|J9210|
 |Sony|Xperia A|SO-04E|SO-04E|
 |Sony|Xperia A2|SO-04F|SO-04F|
 |Sony|Xperia A4|SO-04G|SO-04G|
@@ -24150,6 +24164,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Blade A475|ZTE_Blade_A475|ZTE Blade L4 Pro|
 |ZTE|Blade A476|ZTE_Blade_A476|BLADE E01|
 |ZTE|Blade A476|ZTE_Blade_A476|ZTE Blade A476|
+|ZTE|Blade A5 2019-T|Z5155T|Blade A5 2019-T|
 |ZTE|Blade A510|P635A50|Blade A510|
 |ZTE|Blade A510|ZTE_BLADE_A601|ZTE BLADE A601|
 |ZTE|Blade A511|ZTE_Blade_A511|Blade A511|
@@ -25235,6 +25250,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zong 4G|Z1|Z1|Z1|
 |Zong 4G|Z2|Z2|Z2|
 |Zonko|K105|K105|K105|
+|Zonko|K108|K108|K108|
 |Zonko|K78|K78|K78|
 |Zoom|LitePro|LitePro|LitePro|
 |Zoom|Social|SOCIAL|SOCIAL|
