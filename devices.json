@@ -15733,6 +15733,12 @@
  },
  {
   "brand": "Casper",
+  "name": "L20",
+  "device": "L20",
+  "model": "L20"
+ },
+ {
+  "brand": "Casper",
   "name": "S20",
   "device": "S20",
   "model": "S20"
@@ -18678,6 +18684,12 @@
   "model": "LA703R"
  },
  {
+  "brand": "Contixo",
+  "name": "V9",
+  "device": "CONTIXO-V9",
+  "model": "V9"
+ },
+ {
   "brand": "Coolpad",
   "name": "",
   "device": "7019_msm7627a",
@@ -21460,6 +21472,12 @@
   "name": "G27",
   "device": "G27",
   "model": "G27"
+ },
+ {
+  "brand": "Danew",
+  "name": "KECHAODA_S10",
+  "device": "KECHAODA_S10",
+  "model": "KECHAODA_S10"
  },
  {
   "brand": "Danew",
@@ -57919,6 +57937,12 @@
  },
  {
   "brand": "Kanji",
+  "name": "KANJI_AC05",
+  "device": "KANJI-AC05",
+  "model": "KJ-AC05"
+ },
+ {
+  "brand": "Kanji",
   "name": "KJ_AC05",
   "device": "KJAC05",
   "model": "KJ_AC05"
@@ -58540,6 +58564,12 @@
   "name": "7588AN",
   "device": "tulip-d9003",
   "model": "KL3838"
+ },
+ {
+  "brand": "Klipad",
+  "name": "KL1018",
+  "device": "KL1018",
+  "model": "KL1018"
  },
  {
   "brand": "Klipad",
@@ -80688,6 +80718,12 @@
   "model": "MB SUMMIT"
  },
  {
+  "brand": "Mosambee",
+  "name": "Qphone2 4110",
+  "device": "Qphone2_4110",
+  "model": "Qphone2_4110"
+ },
+ {
   "brand": "Most Computers",
   "name": "Revo You",
   "device": "RevoYou",
@@ -87163,6 +87199,18 @@
  },
  {
   "brand": "Nokia",
+  "name": "Nokia 6.2",
+  "device": "SLDA_sprout",
+  "model": "Nokia 6.2"
+ },
+ {
+  "brand": "Nokia",
+  "name": "Nokia 6.2",
+  "device": "SLD_sprout",
+  "model": "Nokia 6.2"
+ },
+ {
+  "brand": "Nokia",
   "name": "Nokia 7",
   "device": "C1N",
   "model": "TA-1041"
@@ -87184,6 +87232,18 @@
   "name": "Nokia 7.1",
   "device": "CTL_sprout",
   "model": "Nokia 7.1"
+ },
+ {
+  "brand": "Nokia",
+  "name": "Nokia 7.2",
+  "device": "DDVA_sprout",
+  "model": "Nokia 7.2"
+ },
+ {
+  "brand": "Nokia",
+  "name": "Nokia 7.2",
+  "device": "DDV_sprout",
+  "model": "Nokia 7.2"
  },
  {
   "brand": "Nokia",
@@ -99271,6 +99331,12 @@
  },
  {
   "brand": "RCA",
+  "name": "RCT6973W43MDEU",
+  "device": "RCT6973W43MDEU",
+  "model": "RCT6973W43MDEU"
+ },
+ {
+  "brand": "RCA",
   "name": "RCT6973W43R",
   "device": "RCT6973W43R",
   "model": "RCT6973W43R"
@@ -100651,6 +100717,12 @@
  },
  {
   "brand": "SSB PHONES",
+  "name": "LM5118R_GO",
+  "device": "LM5118R_GO",
+  "model": "LM5118R_GO"
+ },
+ {
+  "brand": "SSB PHONES",
   "name": "LM5518R",
   "device": "LM5518R",
   "model": "LM5518R"
@@ -100684,6 +100756,12 @@
   "name": "SSB5118R",
   "device": "SSB5118R",
   "model": "SSB5118R"
+ },
+ {
+  "brand": "SSB PHONES",
+  "name": "SSB5118R_GO",
+  "device": "SSB5118R_GO",
+  "model": "SSB5118R_GO"
  },
  {
   "brand": "SSB PHONES",
@@ -114930,6 +115008,12 @@
   "model": "SG3"
  },
  {
+  "brand": "Seeken",
+  "name": "ST-107",
+  "device": "ST-107",
+  "model": "ST-107"
+ },
+ {
   "brand": "Seemahale Telecoms",
   "name": "ST5000",
   "device": "ST5000",
@@ -115930,6 +116014,12 @@
   "name": "AQUOS sense2 SHV43",
   "device": "MZW-u",
   "model": "SHV43-u"
+ },
+ {
+  "brand": "Sharp",
+  "name": "AQUOS sense3 lite",
+  "device": "SH-RM12",
+  "model": "SH-RM12"
  },
  {
   "brand": "Sharp",
@@ -133672,6 +133762,12 @@
   "name": "TrueID TV",
   "device": "TV_A01",
   "model": "STI6030_TRUE_TV_A01"
+ },
+ {
+  "brand": "True",
+  "name": "TrueID TV",
+  "device": "TrueHPH07",
+  "model": "HPH07"
  },
  {
   "brand": "TuCEL",
@@ -151482,6 +151578,12 @@
   "model": "K78"
  },
  {
+  "brand": "Zonko",
+  "name": "K78_EEA",
+  "device": "K78_EEA",
+  "model": "K78_EEA"
+ },
+ {
   "brand": "Zoom",
   "name": "LitePro",
   "device": "LitePro",
@@ -152658,6 +152760,12 @@
   "model": "SMART_W101"
  },
  {
+  "brand": "iGet",
+  "name": "SMART_W10X_EEA",
+  "device": "SMART_W10X_EEA",
+  "model": "SMART_W10X_EEA"
+ },
+ {
   "brand": "iHunt",
   "name": "Alien X",
   "device": "Alien_X",
@@ -153568,12 +153676,6 @@
   "name": "N9106H-C",
   "device": "HB_N9106H_C_truevisions",
   "model": "N9106H-C"
- },
- {
-  "brand": "truevisions",
-  "name": "True",
-  "device": "TrueHPH07",
-  "model": "HPH07"
  },
  {
   "brand": "ucall",

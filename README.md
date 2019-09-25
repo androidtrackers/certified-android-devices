@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-09-24
+Last sync is 2019-09-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2627,6 +2627,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Casio|WSD-F20|ayu|CASIO WSD-F20|
 |Casio|WSD-F20|ayu|CASIO WSD-F20S|
 |Casper|CASPER_L10_4_5G|CASPER_L10_4_5G|CASPER_L10_4.5G|
+|Casper|L20|L20|L20|
 |Casper|S20|S20|S20|
 |Casper|S38|Casper_S38|Casper_S38|
 |Casper|TA80CA2|TA80CA2_1|TA80CA2|
@@ -3118,6 +3119,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Contixo|K101|K101|K101|
 |Contixo|K4|K4|K4|
 |Contixo|LA703R|LA703R|LA703R|
+|Contixo|V9|CONTIXO-V9|V9|
 |Coolpad||7019_msm7627a|Coolpad 7019|
 |Coolpad||7560U|Nivo|
 |Coolpad||801E|801E|
@@ -3582,6 +3584,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Danew|Dslide971DC|Dslide971DC|Dslide971DC|
 |Danew|Dslide_113|Dslide_113|Dslide_113|
 |Danew|G27|G27|G27|
+|Danew|KECHAODA_S10|KECHAODA_S10|KECHAODA_S10|
 |Danew|Konnect 402|Konnect402|Konnect402|
 |Danew|Konnect 502|Konnect_502|Konnect_502|
 |Danew|Konnect 503|Konnect503|Konnect503|
@@ -9658,6 +9661,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kalley|K-BOOK73G|K_BOOK73G|K-BOOK73G|
 |Kalley|Klic|SA|K4-02 4G|
 |Kalley|Silver P5|P5|P5|
+|Kanji|KANJI_AC05|KANJI-AC05|KJ-AC05|
 |Kanji|KJ_AC05|KJAC05|KJ_AC05|
 |Kanji|KJ_ALFARK|KJ_ALFARK|KJ_ALFARK|
 |Kanji|KJ_OB02|KJ_OB02|KJ_OB02|
@@ -9762,6 +9766,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kiowa|X4_LTE|X4_LTE|X4_LTE|
 |Klipad|7588AN|tulip-d9003|7588AN|
 |Klipad|7588AN|tulip-d9003|KL3838|
+|Klipad|KL1018|KL1018|KL1018|
 |Klipad|KL1088|KL1088|KL1088|
 |Klipad|KL300|KL300|KL300|
 |Klipad|KL3889|KL3889|KL3889|
@@ -13453,6 +13458,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Montblanc|SUMMIT|lionfish|MB SUMMIT|
 |Montblanc|SUMMIT|triton|SUMMIT|
 |Montblanc|Summit|lionfish|MB SUMMIT|
+|Mosambee|Qphone2 4110|Qphone2_4110|Qphone2_4110|
 |Most Computers|Revo You|RevoYou|RevoYou|
 |Motorola||A853|Milestone|
 |Motorola||ArgonSpin|XT550|
@@ -14532,10 +14538,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia 6.1|PL2|Nokia 6.1|
 |Nokia|Nokia 6.1|PL2_sprout|Nokia 6.1|
 |Nokia|Nokia 6.1 Plus|DRG_sprout|Nokia 6.1 Plus|
+|Nokia|Nokia 6.2|SLDA_sprout|Nokia 6.2|
+|Nokia|Nokia 6.2|SLD_sprout|Nokia 6.2|
 |Nokia|Nokia 7|C1N|TA-1041|
 |Nokia|Nokia 7 plus|B2N|Nokia 7 plus|
 |Nokia|Nokia 7 plus|B2N_sprout|Nokia 7 plus|
 |Nokia|Nokia 7.1|CTL_sprout|Nokia 7.1|
+|Nokia|Nokia 7.2|DDVA_sprout|Nokia 7.2|
+|Nokia|Nokia 7.2|DDV_sprout|Nokia 7.2|
 |Nokia|Nokia 8|NB1|TA-1004|
 |Nokia|Nokia 8|NB1|TA-1012|
 |Nokia|Nokia 8|NB1|TA-1052|
@@ -16550,6 +16560,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|RCT6873W42M|RCT6873W42M|RCT6873W42M|
 |RCA|RCT6973W43|RCT6973W43|RCT6973W43|
 |RCA|RCT6973W43M|RCT6973W43M|RCT6973W43M|
+|RCA|RCT6973W43MDEU|RCT6973W43MDEU|RCT6973W43MDEU|
 |RCA|RCT6973W43R|RCT6973W43R|RCT6973W43R|
 |RCA|RLTP5573|RLTP5573|RLTP5573|
 |RCA|Voyager|RCT6873W42BMF8|RCT6873W42BMF8|
@@ -16780,12 +16791,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SSB PHONES|AMS5118R_GO|AMS5118R_GO|AMS5118R_GO|
 |SSB PHONES|AMS5518R|AMS5518R|AMS5518R|
 |SSB PHONES|LM5118R|LM5118R|LM5118R|
+|SSB PHONES|LM5118R_GO|LM5118R_GO|LM5118R_GO|
 |SSB PHONES|LM5518R|LM5518R|LM5518R|
 |SSB PHONES|SSB-508D|SSB-508D|SSB-508D|
 |SSB PHONES|SSB504|SSB504|SSB504|
 |SSB PHONES|SSB504A|SSB504A|SSB504A|
 |SSB PHONES|SSB504R|SSB504R|SSB504R|
 |SSB PHONES|SSB5118R|SSB5118R|SSB5118R|
+|SSB PHONES|SSB5118R_GO|SSB5118R_GO|SSB5118R_GO|
 |SSB PHONES|SSB5518|SSB5518|SSB5518|
 |SSB PHONES|SSB554R|SSB554R|SSB554R|
 |STF Mobile|AERIAL|STFAERIAL|AERIAL|
@@ -19160,6 +19173,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SecQre|ATV HD Stick|SEI100|ATV HD Stick|
 |Seeken|SG2|SG2|SG2|
 |Seeken|SG3|Seeken_SG3|SG3|
+|Seeken|ST-107|ST-107|ST-107|
 |Seemahale Telecoms|ST5000|ST5000|ST5000|
 |Selectron|T856G|T856G|T856G|
 |Selfix|SELFIX_ES732_EXPERIUS|EXPERIUS|SELFIX_ES732_EXPERIUS|
@@ -19327,6 +19341,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS sense2 SH-01L|SH-01L|SH-01L|
 |Sharp|AQUOS sense2 SHV43|MZW|SHV43|
 |Sharp|AQUOS sense2 SHV43|MZW-u|SHV43-u|
+|Sharp|AQUOS sense3 lite|SH-RM12|SH-RM12|
 |Sharp|AQUOS zero|SG801SH|801SH|
 |Sharp|AQUOS zero|SH-Z10|SH-Z10|
 |Sharp|AQUOS zero|SH-Z10A|SH-Z10A|
@@ -22284,6 +22299,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |True|SMART_Champ_4inch|SMART_Champ_4inch|SMART Champ 4.0|
 |True|SMART_MAX_4.0_PLUS|P909|SMART_MAX_4.0_PLUS|
 |True|TrueID TV|TV_A01|STI6030_TRUE_TV_A01|
+|True|TrueID TV|TrueHPH07|HPH07|
 |TuCEL|TC504B|TC504B|TC504B|
 |TuCEL|TL554B|TL554B|TL554B|
 |Tunisie Telecom|Star Trail by TT|startrail3_tt|StarTrail TT|
@@ -25252,6 +25268,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zonko|K105|K105|K105|
 |Zonko|K108|K108|K108|
 |Zonko|K78|K78|K78|
+|Zonko|K78_EEA|K78_EEA|K78_EEA|
 |Zoom|LitePro|LitePro|LitePro|
 |Zoom|Social|SOCIAL|SOCIAL|
 |Zoom|Z101G|Z101G|Z101G|
@@ -25448,6 +25465,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iGet|SMART_G81H|SMART_G81H|SMART_G81H|
 |iGet|SMART_L102|iGET_SMART_L102|SMART_L102|
 |iGet|SMART_W101|SMART_W101|SMART_W101|
+|iGet|SMART_W10X_EEA|SMART_W10X_EEA|SMART_W10X_EEA|
 |iHunt|Alien X|Alien_X|Alien_X|
 |iHunt|Alien X Lite|Alien_X_Lite|Alien X Lite|
 |iHunt|AlienXLite2020|AlienXLite2020|AlienXLite2020|
@@ -25600,7 +25618,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |tecmobile|OmnisOne|OmnisOne|Omnis One|
 |truevisions|N9106H-B|HB_N9106H_B_truevisions|N9106H-B|
 |truevisions|N9106H-C|HB_N9106H_C_truevisions|N9106H-C|
-|truevisions|True|TrueHPH07|HPH07|
 |ucall|EASY1|EASY1|EASY1|
 |unitel|P45|P45|P45|
 |unitel|U901|U901|U901|
