@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-09-25
+Last sync is 2019-09-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -668,6 +668,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|X6 Soul Xtreme|X6_Soul_Xtreme|X6_Soul_Xtreme|
 |AllView|X6 Soul mini|X6_Soul_mini|X6_Soul_mini|
 |Alldocube|T1001|T1001|T1001|
+|Alldocube|T701|T701|T701|
 |Alldocube|T806|T806|T806|
 |Alldocube|T806ME|T806ME|T806ME|
 |Alldocube|U1005|U1005|U1005|
@@ -689,6 +690,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Altice|S31|S31|Altice_S31|
 |Altice|S31|S31|S31|
 |Altice|S32|S32|S32|
+|Altice|S32_Plus|S32_Plus|S32_Plus|
 |Altice|S41|HS6737MT|S41|
 |Altice|S42|S42|S42|
 |Altice|S51|HS6737MT|S51|
@@ -3696,6 +3698,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Diamond|MC32020|MC32020|MC32020|
 |Diamond|PSPCL30A0|PSPCL30A0|PSPCL30A0|
 |Digi|Digi C1|Digi_C1|Digi C1|
+|Digi|Digi C2|Digi_C2|Digi C2|
 |Digi|Digi R1|Digi_R1|Digi R1|
 |DigiLand|10542843|10542843|10542843|
 |DigiLand|206886-01|mdt9003|206886-01|
@@ -9733,6 +9736,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kenxinda|T55|T55|T55|
 |Kenxinda|T55S|T55S|T55S|
 |Kenxinda|W40S|W40S|W40S|
+|Kenxinda|W41|W41|W41|
 |Kenxinda|W45S|W45S|W45S|
 |Kenxinda|W50M|W50M|W50M|
 |Kenxinda|W50Y|W50Y|W50Y|
@@ -9814,6 +9818,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kogan|Agora 6 Plus|Kogan_Agora_6Plus|Kogan Agora 6Plus|
 |Kogan|Kogan Agora 8 Plus|Agora_8_Plus|Agora 8 Plus|
 |Kogan|Kogan Agora 9|Kogan_Agora_9|Kogan Agora 9|
+|Kogan|Kogan Agora Go|Agora_Go|Agora Go|
 |Kogan|Kogan Agora XS|Kogan_Agora_XS|Agora XS|
 |Komu|K22|K22|K22|
 |Konrow|CITY|CITY|CITY|
@@ -12082,6 +12087,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M7|7305F|Lenovo TB-7305F|
 |Lenovo|Lenovo Tab M7|7305I|Lenovo TB-7305I|
 |Lenovo|Lenovo Tab M7|7305X|Lenovo TB-7305X|
+|Lenovo|Lenovo Tab M8|8505F|Lenovo TB-8505F|
+|Lenovo|Lenovo Tab M8|8505FS|Lenovo TB-8505FS|
 |Lenovo|Lenovo Tab P10|X705F|Lenovo TB-X705F|
 |Lenovo|Lenovo Tab P10|X705L|Lenovo TB-X705L|
 |Lenovo|Lenovo Tab V7|PB-6505M|Lenovo PB-6505M|
@@ -14602,6 +14609,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nomu|T20|T20|T20|
 |Nomu|T20E|T20|T20E|
 |NorthTech|NT-P70|NT-P70|NT-P70|
+|NorthTech|NT-S10|NT-S10|NT-S10|
 |Nous|Fabulous|NS5005|NS5005|
 |Nous|NS5002|NS5002|NS5002|
 |Nous|NS5502|NS5502|NS5502|
@@ -14747,6 +14755,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ooredoo|Ooredoo TV|diw387oor|DIW387_UHD_OOR|
 |Ooredoo|Smart10_Pro|Smart10_Pro|Smart10_Pro|
 |OpelMobile|EasySmart|EasySmart|EasySmart|
+|OpelMobile|Smart X6|SmartX6|Opel Mobile SmartX6|
 |OpenPeak||CIUS-7|CIUS-7|
 |OpenPeak||CIUS-7-AT|CIUS-7-AT|
 |OpenPeak||cius|cius|
@@ -16536,6 +16545,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|RCA RCT6B83W12|RCT6B83W12|RCT6B83W12|
 |RCA|RCA RCT6S03W12|RCT6S03W12|RCT6S03W12|
 |RCA|RCA RCT6S03W14|RCT6S03W14|RCT6S03W14|
+|RCA|RCA_G2|RCA_G2|RCA G2|
 |RCA|RCS13101T|RCS13101T|RCS13101T|
 |RCA|RCT6002W46|RCT6002W46|RCT6002W46|
 |RCA|RCT6077W2|RCT6077W2|RCT6077W2|
@@ -17109,6 +17119,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A7(2016)|a7xltechn|SM-A7100|
 |Samsung|Galaxy A7(2017)|a7y17lte|SM-A720F|
 |Samsung|Galaxy A7(2017)|a7y17lteskt|SM-A720S|
+|Samsung|Galaxy A7(2018)|a7y18ve|SM-A750C|
 |Samsung|Galaxy A70|a70q|SM-A7050|
 |Samsung|Galaxy A70|a70q|SM-A705F|
 |Samsung|Galaxy A70|a70q|SM-A705FN|
@@ -17116,6 +17127,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A70|a70q|SM-A705MN|
 |Samsung|Galaxy A70|a70q|SM-A705W|
 |Samsung|Galaxy A70|a70q|SM-A705YN|
+|Samsung|Galaxy A70s|a70s|SM-A707F|
 |Samsung|Galaxy A8|SCV32|SCV32|
 |Samsung|Galaxy A8|a8elte|SM-A800F|
 |Samsung|Galaxy A8|a8elte|SM-A800YZ|
@@ -18728,6 +18740,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A6|gtexswifi|SM-T280|
 |Samsung|Galaxy Tab Active|rubenslte|SM-T365|
 |Samsung|Galaxy Tab Active|rubenslte|SM-T365Y|
+|Samsung|Galaxy Tab Active Pro|gtactivexl|SM-T545|
+|Samsung|Galaxy Tab Active Pro|gtactivexlwifi|SM-T540|
 |Samsung|Galaxy Tab Active2|gtactive2lte|SM-T395|
 |Samsung|Galaxy Tab Active2|gtactive2ltechn|SM-T395C|
 |Samsung|Galaxy Tab Active2|gtactive2ltekx|SM-T395N|
@@ -18837,6 +18851,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S5e|gts4lv|SM-T725C|
 |Samsung|Galaxy Tab S5e|gts4lv|SM-T725N|
 |Samsung|Galaxy Tab S5e|gts4lv|SM-T727|
+|Samsung|Galaxy Tab S5e|gts4lv|SM-T727A|
 |Samsung|Galaxy Tab S5e|gts4lv|SM-T727U|
 |Samsung|Galaxy Tab S5e|gts4lv|SM-T727V|
 |Samsung|Galaxy Tab S5e|gts4lvwifi|SM-T720|
@@ -22048,6 +22063,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teleepoch|U675|U675|U675|
 |Teleepoch|UMX U680C|U680C|U680C|
 |Telefunken|Enjoy TE1|TE1|TE1|
+|Telefunken|TEL-1013GIQA|TEL-1013GIQA|TEL-1013GIQA|
 |Telefunken|TEL-1014GIQ|TEL-1014GIQ|TEL-1014GIQ|
 |Telefunken|TEL-73GIQA|TEL-73GIQA|TEL-73GIQA|
 |Telefunken|TF501_EC|TF501_EC|TF501_EC|
@@ -22355,6 +22371,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor_5|Ulefone_Armor_5|Ulefone_Armor_5|
 |Ulefone|Armor_6E|Armor_6E|Armor_6E|
 |Ulefone|Armor_6S|Armor_6S|Armor_6S|
+|Ulefone|Armor_7|Armor_7|Armor_7|
 |Ulefone|Armor_X2|Armor_X2|Armor_X2|
 |Ulefone|Armor_X3|Armor_X3|Armor_X3|
 |Ulefone|MIX|t816_gq_ulefone|MIX|
@@ -23224,6 +23241,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|Primo_EF9|Primo_EF9|Primo EF9|
 |Walton|Primo_RM3|Primo_RM3|Primo RM3|
 |Walton|Primo\xc2\xa0S6\xc2\xa0Dual|Primo_S6_Dual|Primo S6 Dual|
+|Walton|RX7 Mini|RX7_Mini|RX7 Mini|
 |Walton|Walton Primo X5|Primo_X5|Walton Primo X5|
 |Warner Bros|Avengers|Avengers|Avengers|
 |Warner Bros|DC_Comics_G9|DC_Comics_G9|DC_Comics_G9|
@@ -25290,6 +25308,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zuk|ZTE BLADE A5 PRO|P731A20|ZTE BLADE A5 PRO|
 |Zuum|COVET|COVET|COVET|
 |Zuum|COVET PLUS|COVET_PLUS|COVET PLUS|
+|Zuum|COVET PRO|COVET_PRO|COVET PRO|
 |Zuum|COVET Z|COVET_Z|COVET Z|
 |Zuum|COVET mini|Covet_Mini|COVET mini|
 |Zuum|GRANT|GRANT|GRANT|

@@ -3979,6 +3979,12 @@
  },
  {
   "brand": "Alldocube",
+  "name": "T701",
+  "device": "T701",
+  "model": "T701"
+ },
+ {
+  "brand": "Alldocube",
   "name": "T806",
   "device": "T806",
   "model": "T806"
@@ -4102,6 +4108,12 @@
   "name": "S32",
   "device": "S32",
   "model": "S32"
+ },
+ {
+  "brand": "Altice",
+  "name": "S32_Plus",
+  "device": "S32_Plus",
+  "model": "S32_Plus"
  },
  {
   "brand": "Altice",
@@ -22144,6 +22156,12 @@
   "name": "Digi C1",
   "device": "Digi_C1",
   "model": "Digi C1"
+ },
+ {
+  "brand": "Digi",
+  "name": "Digi C2",
+  "device": "Digi_C2",
+  "model": "Digi C2"
  },
  {
   "brand": "Digi",
@@ -58369,6 +58387,12 @@
  },
  {
   "brand": "Kenxinda",
+  "name": "W41",
+  "device": "W41",
+  "model": "W41"
+ },
+ {
+  "brand": "Kenxinda",
   "name": "W45S",
   "device": "W45S",
   "model": "W45S"
@@ -58852,6 +58876,12 @@
   "name": "Kogan Agora 9",
   "device": "Kogan_Agora_9",
   "model": "Kogan Agora 9"
+ },
+ {
+  "brand": "Kogan",
+  "name": "Kogan Agora Go",
+  "device": "Agora_Go",
+  "model": "Agora Go"
  },
  {
   "brand": "Kogan",
@@ -72460,6 +72490,18 @@
   "name": "Lenovo Tab M7",
   "device": "7305X",
   "model": "Lenovo TB-7305X"
+ },
+ {
+  "brand": "Lenovo",
+  "name": "Lenovo Tab M8",
+  "device": "8505F",
+  "model": "Lenovo TB-8505F"
+ },
+ {
+  "brand": "Lenovo",
+  "name": "Lenovo Tab M8",
+  "device": "8505FS",
+  "model": "Lenovo TB-8505FS"
  },
  {
   "brand": "Lenovo",
@@ -87582,6 +87624,12 @@
   "model": "NT-P70"
  },
  {
+  "brand": "NorthTech",
+  "name": "NT-S10",
+  "device": "NT-S10",
+  "model": "NT-S10"
+ },
+ {
   "brand": "Nous",
   "name": "Fabulous",
   "device": "NS5005",
@@ -88450,6 +88498,12 @@
   "name": "EasySmart",
   "device": "EasySmart",
   "model": "EasySmart"
+ },
+ {
+  "brand": "OpelMobile",
+  "name": "Smart X6",
+  "device": "SmartX6",
+  "model": "Opel Mobile SmartX6"
  },
  {
   "brand": "OpenPeak",
@@ -99187,6 +99241,12 @@
  },
  {
   "brand": "RCA",
+  "name": "RCA_G2",
+  "device": "RCA_G2",
+  "model": "RCA G2"
+ },
+ {
+  "brand": "RCA",
   "name": "RCS13101T",
   "device": "RCS13101T",
   "model": "RCS13101T"
@@ -102625,6 +102685,12 @@
  },
  {
   "brand": "Samsung",
+  "name": "Galaxy A7(2018)",
+  "device": "a7y18ve",
+  "model": "SM-A750C"
+ },
+ {
+  "brand": "Samsung",
   "name": "Galaxy A70",
   "device": "a70q",
   "model": "SM-A7050"
@@ -102664,6 +102730,12 @@
   "name": "Galaxy A70",
   "device": "a70q",
   "model": "SM-A705YN"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy A70s",
+  "device": "a70s",
+  "model": "SM-A707F"
  },
  {
   "brand": "Samsung",
@@ -112339,6 +112411,18 @@
  },
  {
   "brand": "Samsung",
+  "name": "Galaxy Tab Active Pro",
+  "device": "gtactivexl",
+  "model": "SM-T545"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Tab Active Pro",
+  "device": "gtactivexlwifi",
+  "model": "SM-T540"
+ },
+ {
+  "brand": "Samsung",
   "name": "Galaxy Tab Active2",
   "device": "gtactive2lte",
   "model": "SM-T395"
@@ -112990,6 +113074,12 @@
   "name": "Galaxy Tab S5e",
   "device": "gts4lv",
   "model": "SM-T727"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Tab S5e",
+  "device": "gts4lv",
+  "model": "SM-T727A"
  },
  {
   "brand": "Samsung",
@@ -132259,6 +132349,12 @@
  },
  {
   "brand": "Telefunken",
+  "name": "TEL-1013GIQA",
+  "device": "TEL-1013GIQA",
+  "model": "TEL-1013GIQA"
+ },
+ {
+  "brand": "Telefunken",
   "name": "TEL-1014GIQ",
   "device": "TEL-1014GIQ",
   "model": "TEL-1014GIQ"
@@ -134098,6 +134194,12 @@
   "name": "Armor_6S",
   "device": "Armor_6S",
   "model": "Armor_6S"
+ },
+ {
+  "brand": "Ulefone",
+  "name": "Armor_7",
+  "device": "Armor_7",
+  "model": "Armor_7"
  },
  {
   "brand": "Ulefone",
@@ -139312,6 +139414,12 @@
   "name": "Primo\\xc2\\xa0S6\\xc2\\xa0Dual",
   "device": "Primo_S6_Dual",
   "model": "Primo S6 Dual"
+ },
+ {
+  "brand": "Walton",
+  "name": "RX7 Mini",
+  "device": "RX7_Mini",
+  "model": "RX7 Mini"
  },
  {
   "brand": "Walton",
@@ -151708,6 +151816,12 @@
   "name": "COVET PLUS",
   "device": "COVET_PLUS",
   "model": "COVET PLUS"
+ },
+ {
+  "brand": "Zuum",
+  "name": "COVET PRO",
+  "device": "COVET_PRO",
+  "model": "COVET PRO"
  },
  {
   "brand": "Zuum",
