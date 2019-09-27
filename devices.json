@@ -10603,6 +10603,12 @@
  },
  {
   "brand": "BMobile",
+  "name": "AX1077+",
+  "device": "Bmobile_AX1077_MTG07",
+  "model": "AX1077+"
+ },
+ {
+  "brand": "BMobile",
   "name": "AX1085",
   "device": "Bmobile_AX1085",
   "model": "AX1085"
@@ -10713,6 +10719,12 @@
   "brand": "BMobile",
   "name": "AX687",
   "device": "Bmobile_AX687",
+  "model": "AX687"
+ },
+ {
+  "brand": "BMobile",
+  "name": "AX687",
+  "device": "Bmobile_AX687_MV03",
   "model": "AX687"
  },
  {
@@ -13516,6 +13528,12 @@
   "name": "C5 LTE",
   "device": "C0010UU",
   "model": "C5 LTE"
+ },
+ {
+  "brand": "Blu",
+  "name": "C5 PLUS",
+  "device": "C130EQ",
+  "model": "C5 Plus"
  },
  {
   "brand": "Blu",
@@ -16936,6 +16954,12 @@
   "name": "Flare S8",
   "device": "X930",
   "model": "Flare S8"
+ },
+ {
+  "brand": "Cherry Mobile",
+  "name": "Flare Tab",
+  "device": "A830",
+  "model": "Flare Tab"
  },
  {
   "brand": "Cherry Mobile",
@@ -20383,6 +20407,12 @@
  },
  {
   "brand": "Cubot",
+  "name": "P30",
+  "device": "P30",
+  "model": "P30"
+ },
+ {
+  "brand": "Cubot",
   "name": "QUEST",
   "device": "QUEST",
   "model": "QUEST"
@@ -20959,6 +20989,18 @@
  },
  {
   "brand": "DEXP",
+  "name": "K11",
+  "device": "K11",
+  "model": "K11"
+ },
+ {
+  "brand": "DEXP",
+  "name": "K18",
+  "device": "K18",
+  "model": "K18"
+ },
+ {
+  "brand": "DEXP",
   "name": "L110",
   "device": "L110",
   "model": "L110"
@@ -21040,6 +21082,12 @@
   "name": "N370",
   "device": "N370",
   "model": "N370"
+ },
+ {
+  "brand": "DEXP",
+  "name": "N380i",
+  "device": "N380i",
+  "model": "N380i"
  },
  {
   "brand": "DEXP",
@@ -27078,6 +27126,12 @@
   "model": "Royale Y2 Lite"
  },
  {
+  "brand": "FieldBio",
+  "name": "FieldBio_500",
+  "device": "FieldBio_500",
+  "model": "FieldBio_500"
+ },
+ {
   "brand": "Fiesta Duo",
   "name": "S6",
   "device": "S6",
@@ -32458,6 +32512,12 @@
   "name": "HT70",
   "device": "HT70",
   "model": "HT70"
+ },
+ {
+  "brand": "HOMTOM",
+  "name": "P30 pro",
+  "device": "P30_Pro",
+  "model": "P30 Pro"
  },
  {
   "brand": "HOMTOM",
@@ -38164,6 +38224,12 @@
   "name": "HIHI-40KH-TAB-01",
   "device": "HIHI-40KH-TAB",
   "model": "HIHI-40KH-TAB-01"
+ },
+ {
+  "brand": "Hiking",
+  "name": "A19",
+  "device": "A19",
+  "model": "A19"
  },
  {
   "brand": "Hiking",
@@ -59038,6 +59104,12 @@
   "name": "DRIVE_6",
   "device": "DRIVE_6",
   "model": "DRIVE_6"
+ },
+ {
+  "brand": "Kruger&Matz",
+  "name": "DRIVE_6SS",
+  "device": "DRIVE_6S",
+  "model": "DRIVE_6S"
  },
  {
   "brand": "Kruger&Matz",
@@ -79975,6 +80047,12 @@
  },
  {
   "brand": "Mobicell",
+  "name": "R4 LTE",
+  "device": "R4_LTE",
+  "model": "R4 LTE"
+ },
+ {
+  "brand": "Mobicell",
   "name": "R8",
   "device": "R8",
   "model": "R8"
@@ -80476,6 +80554,12 @@
   "name": "Hotah",
   "device": "Hotah",
   "model": "Hotah"
+ },
+ {
+  "brand": "Mobiwire",
+  "name": "Kicka 4 Plus",
+  "device": "Kicka_4_Plus",
+  "model": "Kicka_4_Plus"
  },
  {
   "brand": "Mobiwire",
@@ -86359,6 +86443,12 @@
  },
  {
   "brand": "Necnon",
+  "name": "M002K-2",
+  "device": "M002K-2",
+  "model": "M002K-2"
+ },
+ {
+  "brand": "Necnon",
   "name": "M002N",
   "device": "M002N",
   "model": "M002N"
@@ -88375,6 +88465,12 @@
  },
  {
   "brand": "OnePlus",
+  "name": "OnePlus 7T",
+  "device": "OnePlus7T",
+  "model": "HD1905"
+ },
+ {
+  "brand": "OnePlus",
   "name": "OnePlus2",
   "device": "OnePlus2",
   "model": "ONE A2003"
@@ -88498,6 +88594,12 @@
   "name": "EasySmart",
   "device": "EasySmart",
   "model": "EasySmart"
+ },
+ {
+  "brand": "OpelMobile",
+  "name": "EasySmart 2",
+  "device": "Easy_Smart_2",
+  "model": "Easy_Smart_2"
  },
  {
   "brand": "OpelMobile",
@@ -96144,6 +96246,12 @@
   "model": "X80"
  },
  {
+  "brand": "Premio",
+  "name": "X81",
+  "device": "X81",
+  "model": "X81"
+ },
+ {
   "brand": "Prestige",
   "name": "7G",
   "device": "Prestige-7G",
@@ -96814,6 +96922,12 @@
   "name": "PMT3878_4G",
   "device": "CD80A3L",
   "model": "PMT3878_4G"
+ },
+ {
+  "brand": "Prestigio",
+  "name": "PMT4227_3G_RU",
+  "device": "HP70A2G",
+  "model": "PMT4227_3G_RU"
  },
  {
   "brand": "Prestigio",
@@ -132594,6 +132708,12 @@
   "model": "telma i401"
  },
  {
+  "brand": "TeloSystems",
+  "name": "TE580P",
+  "device": "TE580P",
+  "model": "TE580P"
+ },
+ {
   "brand": "Telus",
   "name": "Pik TV Media Box",
   "device": "HMB2213PW22TS",
@@ -134539,6 +134659,12 @@
  },
  {
   "brand": "Umidigi",
+  "name": "UMIDIGI X",
+  "device": "UMIDIGI_X",
+  "model": "UMIDIGI X"
+ },
+ {
+  "brand": "Umidigi",
   "name": "Z2",
   "device": "Z2",
   "model": "Z2"
@@ -136360,6 +136486,12 @@
   "name": "Venus Z30",
   "device": "Troia",
   "model": "Venus Z30"
+ },
+ {
+  "brand": "Vestel",
+  "name": "Venus Z40",
+  "device": "Poyraz",
+  "model": "Venus Z40"
  },
  {
   "brand": "Vestel",
@@ -138781,6 +138913,12 @@
  },
  {
   "brand": "Vsmart",
+  "name": "Joy 2+",
+  "device": "V420A",
+  "model": "Joy 2+"
+ },
+ {
+  "brand": "Vsmart",
   "name": "Live",
   "device": "V620A",
   "model": "Live"
@@ -139114,6 +139252,12 @@
   "name": "Primo G8i 4G",
   "device": "Primo_G8i_4G",
   "model": "Primo G8i 4G"
+ },
+ {
+  "brand": "Walton",
+  "name": "Primo G9",
+  "device": "Primo_G9",
+  "model": "Primo G9"
  },
  {
   "brand": "Walton",
@@ -141058,6 +141202,12 @@
   "name": "G1LITE",
   "device": "G1LITE",
   "model": "G1LITE"
+ },
+ {
+  "brand": "X-Age",
+  "name": "G2",
+  "device": "G2",
+  "model": "G2"
  },
  {
   "brand": "X-Age",
@@ -151807,6 +151957,12 @@
  },
  {
   "brand": "Zuum",
+  "name": "AURA X",
+  "device": "AURA_X",
+  "model": "AURA X"
+ },
+ {
+  "brand": "Zuum",
   "name": "COVET",
   "device": "COVET",
   "model": "COVET"
@@ -151840,6 +151996,12 @@
   "name": "GRANT",
   "device": "GRANT",
   "model": "GRANT"
+ },
+ {
+  "brand": "Zuum",
+  "name": "GRAVITY Z",
+  "device": "GRAVITY_Z",
+  "model": "GRAVITY Z"
  },
  {
   "brand": "Zuum",
@@ -152290,6 +152452,12 @@
   "name": "IPA1104HDW-02",
   "device": "kunlun",
   "model": "IPA1104HDW-02"
+ },
+ {
+  "brand": "halotel",
+  "name": "H8502",
+  "device": "H8502",
+  "model": "H8502"
  },
  {
   "brand": "i-Buddie",
