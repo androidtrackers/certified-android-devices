@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-09-27
+Last sync is 2019-09-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1906,6 +1906,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-5702|BQru_5702|BQ-5702|
 |BQru|BQ-5707G Next Music|BQru-5707G|BQ-5707G|
 |BQru|BQ-5730L|BQru-5730L|BQ-5730L|
+|BQru|BQ-5731L Magic S|BQru-5731L|BQ-5731L|
 |BQru|BQ-6000L Aurora|BQru-6000L|BQ-6000L|
 |BQru|BQ-6001 L|BQru-6001L|BQ-6001L|
 |BQru|BQ-6010G|BQru_6010G|BQ-6010G|
@@ -2128,6 +2129,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BlackBerry|PRIV by BlackBerry|venice|STV100-3|
 |BlackBerry|PRIV by BlackBerry|venice|STV100-4|
 |Blackfox|BMM441D|BMM441D|BMM441D|
+|Blackfox|BMM441S|BMM441S|BMM441S|
 |Blackfox|BMM442D|BMM442D|BMM442D|
 |Blackfox|BMM443D|BMM443D|BMM443D|
 |Blackfox|BMM531A|BMM531A|BMM531A|
@@ -14835,6 +14837,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A5|PBAT00|PBAT00|
 |Oppo|A5|PBBM30|PBBM30|
 |Oppo|A5|PBBT30|PBBT30|
+|Oppo|A5 2020|OP4B79L1|CPH1931|
 |Oppo|A51|A51|A51|
 |Oppo|A51|A51|Lava A51|
 |Oppo|A51f|A51|A51f|

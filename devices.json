@@ -11407,6 +11407,12 @@
  },
  {
   "brand": "BQru",
+  "name": "BQ-5731L Magic S",
+  "device": "BQru-5731L",
+  "model": "BQ-5731L"
+ },
+ {
+  "brand": "BQru",
   "name": "BQ-6000L Aurora",
   "device": "BQru-6000L",
   "model": "BQ-6000L"
@@ -12736,6 +12742,12 @@
   "name": "BMM441D",
   "device": "BMM441D",
   "model": "BMM441D"
+ },
+ {
+  "brand": "Blackfox",
+  "name": "BMM441S",
+  "device": "BMM441S",
+  "model": "BMM441S"
  },
  {
   "brand": "Blackfox",
@@ -88978,6 +88990,12 @@
   "name": "A5",
   "device": "PBBT30",
   "model": "PBBT30"
+ },
+ {
+  "brand": "Oppo",
+  "name": "A5 2020",
+  "device": "OP4B79L1",
+  "model": "CPH1931"
  },
  {
   "brand": "Oppo",
