@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-09-28
+Last sync is 2019-09-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -47,6 +47,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AG Mobile|AG Ultra2|AG_Ultra2|Ultra 2|
 |AG Mobile|AGM H1|HSSDM450QC|AGM H1|
 |AG Mobile|AGM A9|HSSDM450QC|AGM A9|
+|AG Mobile|AGM A9|HSSDM450QC|Android|
 |AG Mobile|AGM X3|T91EUE1|AGM X3|
 |AG Mobile|AG_Go-Tab_Access|md789hwag|AG Go-Tab Access|
 |AG Mobile|AG_Tab_7_0|AG_Tab_7_0|AG_Tab_7_0|
@@ -9790,6 +9791,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Klipad|KL450|KL450|KL450|
 |Klipad|KL456LD|KL456LD|KL456LD|
 |Klipad|KL4890|KL4890|KL4890|
+|Klipad|KL4891|KL4891|KL4891|
 |Klipad|KL4898|KL4898|KL4898|
 |Klipad|KL500|KL500|KL500|
 |Klipad|KL600|KLIPAD_KL600|KLIPAD_KL600|

@@ -253,6 +253,12 @@
  },
  {
   "brand": "AG Mobile",
+  "name": "AGM A9",
+  "device": "HSSDM450QC",
+  "model": "Android"
+ },
+ {
+  "brand": "AG Mobile",
   "name": "AGM X3",
   "device": "T91EUE1",
   "model": "AGM X3"
@@ -58708,6 +58714,12 @@
   "name": "KL4890",
   "device": "KL4890",
   "model": "KL4890"
+ },
+ {
+  "brand": "Klipad",
+  "name": "KL4891",
+  "device": "KL4891",
+  "model": "KL4891"
  },
  {
   "brand": "Klipad",
