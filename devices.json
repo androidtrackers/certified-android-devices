@@ -14880,6 +14880,12 @@
   "model": "Bs 451"
  },
  {
+  "brand": "BrailleNote",
+  "name": "gryphon",
+  "device": "gryphon",
+  "model": "BrailleNote Touch +"
+ },
+ {
   "brand": "Brandcode",
   "name": "L1Fa",
   "device": "L1Fa",
@@ -16588,6 +16594,12 @@
   "name": "DOH01",
   "device": "DOH01",
   "model": "DOH01"
+ },
+ {
+  "brand": "Cherry Mobile",
+  "name": "DOH02",
+  "device": "DOH02",
+  "model": "DOH02"
  },
  {
   "brand": "Cherry Mobile",
@@ -21282,6 +21294,18 @@
   "model": "DEYI-10M18"
  },
  {
+  "brand": "DGTEC",
+  "name": "DG101TBIPS",
+  "device": "DG101TBIPS",
+  "model": "DG101TBIPS"
+ },
+ {
+  "brand": "DGTEC",
+  "name": "DG7TBIPSG",
+  "device": "DG7TBIPSG",
+  "model": "DG7TBIPSG"
+ },
+ {
   "brand": "DIFRNCE",
   "name": "DIT702201",
   "device": "DIT702201",
@@ -22216,6 +22240,12 @@
   "name": "PSPCL30A0",
   "device": "PSPCL30A0",
   "model": "PSPCL30A0"
+ },
+ {
+  "brand": "Dicle",
+  "name": "DTABC2",
+  "device": "DTABC2",
+  "model": "DTABC2"
  },
  {
   "brand": "Digi",
@@ -23497,9 +23527,21 @@
  },
  {
   "brand": "Doogee",
+  "name": "N100",
+  "device": "N100",
+  "model": "N100"
+ },
+ {
+  "brand": "Doogee",
   "name": "N10_EEA",
   "device": "Y7",
   "model": "N10_EEA"
+ },
+ {
+  "brand": "Doogee",
+  "name": "N20",
+  "device": "N20",
+  "model": "N20"
  },
  {
   "brand": "Doogee",
@@ -23572,6 +23614,18 @@
   "name": "S80Lite",
   "device": "S80Lite",
   "model": "S80Lite"
+ },
+ {
+  "brand": "Doogee",
+  "name": "S90Pro",
+  "device": "S90Pro",
+  "model": "S90Pro"
+ },
+ {
+  "brand": "Doogee",
+  "name": "S90pro",
+  "device": "S90Pro",
+  "model": "S90Pro"
  },
  {
   "brand": "Doogee",
@@ -23767,6 +23821,12 @@
  },
  {
   "brand": "Doogee",
+  "name": "Y10",
+  "device": "Y10",
+  "model": "Y10"
+ },
+ {
+  "brand": "Doogee",
   "name": "Y6",
   "device": "Y6",
   "model": "Y6"
@@ -23812,6 +23872,12 @@
   "name": "Y8plus",
   "device": "Y8Plus",
   "model": "Y8 Plus"
+ },
+ {
+  "brand": "Doogee",
+  "name": "Y9Plus",
+  "device": "Y9Plus",
+  "model": "Y9Plus"
  },
  {
   "brand": "Doogee",
@@ -29551,6 +29617,12 @@
  },
  {
   "brand": "GFive",
+  "name": "President_smart_5",
+  "device": "President_smart_5",
+  "model": "President_smart_5"
+ },
+ {
+  "brand": "GFive",
   "name": "Xhero_7",
   "device": "Xhero_7",
   "model": "Xhero_7"
@@ -32203,9 +32275,21 @@
  },
  {
   "brand": "Greentel",
+  "name": "X MAX",
+  "device": "X_MAX",
+  "model": "X MAX"
+ },
+ {
+  "brand": "Greentel",
   "name": "X1 Light",
   "device": "X1_Light",
   "model": "X1_Light"
+ },
+ {
+  "brand": "Greentel",
+  "name": "X1_Light",
+  "device": "X1_Light",
+  "model": "X1 Light"
  },
  {
   "brand": "Greentel",
@@ -55417,6 +55501,12 @@
  },
  {
   "brand": "Ipro",
+  "name": "Benny",
+  "device": "Benny",
+  "model": "Benny"
+ },
+ {
+  "brand": "Ipro",
   "name": "Jade7s",
   "device": "Jade7s",
   "model": "Jade7s"
@@ -76264,6 +76354,12 @@
   "name": "London",
   "device": "KB-1501",
   "model": "London"
+ },
+ {
+  "brand": "Marvie",
+  "name": "MARVIE_CT4",
+  "device": "MARVIE-CT4",
+  "model": "CT4"
  },
  {
   "brand": "Mascom",
@@ -102733,6 +102829,12 @@
  },
  {
   "brand": "Samsung",
+  "name": "Galaxy A7",
+  "device": "a7y18ve",
+  "model": "SM-A750C"
+ },
+ {
+  "brand": "Samsung",
   "name": "Galaxy A7 (2018)",
   "device": "a7y18lte",
   "model": "SM-A750F"
@@ -102826,12 +102928,6 @@
   "name": "Galaxy A7(2017)",
   "device": "a7y17lteskt",
   "model": "SM-A720S"
- },
- {
-  "brand": "Samsung",
-  "name": "Galaxy A7(2018)",
-  "device": "a7y18ve",
-  "model": "SM-A750C"
  },
  {
   "brand": "Samsung",
@@ -118147,6 +118243,12 @@
  },
  {
   "brand": "Skyworth",
+  "name": "North America",
+  "device": "shimbashi",
+  "model": "2K TV"
+ },
+ {
+  "brand": "Skyworth",
   "name": "Skyworth",
   "device": "IPBox",
   "model": "ACT4K1007"
@@ -130699,6 +130801,12 @@
  },
  {
   "brand": "TWZ Corporation PLC",
+  "name": "T11",
+  "device": "T11",
+  "model": "T11"
+ },
+ {
+  "brand": "TWZ Corporation PLC",
   "name": "T12",
   "device": "T12",
   "model": "T12"
@@ -133636,6 +133744,12 @@
   "name": "TFMTKAW01232",
   "device": "TFMTKAW01232",
   "model": "TFMTKAW01232"
+ },
+ {
+  "brand": "Trekstor",
+  "name": "THMTKAW04232_eea",
+  "device": "THMTKAW04232",
+  "model": "PEAQ PET 100"
  },
  {
   "brand": "Trekstor",
@@ -139735,6 +139849,12 @@
  },
  {
   "brand": "Westinghouse",
+  "name": "W10TWF19",
+  "device": "W10TWF19",
+  "model": "W10TWF19"
+ },
+ {
+  "brand": "Westinghouse",
   "name": "W7T3G19",
   "device": "W7T3G19",
   "model": "W7T3G19"
@@ -141130,6 +141250,12 @@
   "name": "WS041",
   "device": "WS041",
   "model": "WS041"
+ },
+ {
+  "brand": "Wolki",
+  "name": "WS051",
+  "device": "WS051",
+  "model": "WS051"
  },
  {
   "brand": "Woongjin",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-09-29
+Last sync is 2019-09-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2485,6 +2485,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bouygues Telecom|Bbox Brooklyn 4K|HMB9213NW|Bouygtel4K|
 |Bouygues Telecom|Bbox Miami|HMB4213H|BouygtelTV|
 |Bouygues Telecom|Bs 451|Bs_451|Bs 451|
+|BrailleNote|gryphon|gryphon|BrailleNote Touch +|
 |Brandcode|L1Fa|L1Fa|L1Fa|
 |Brandcode|L1f-pluss|L1f_pluss|L1f-pluss|
 |Brandcode|L5F_pro|L5F_pro|L5F_pro|
@@ -2770,6 +2771,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cherry Mobile|Cherry W900 LTE|al7|W900 LTE|
 |Cherry Mobile|CherryRoam|CherryRoam|CherryRoam|
 |Cherry Mobile|DOH01|DOH01|DOH01|
+|Cherry Mobile|DOH02|DOH02|DOH02|
 |Cherry Mobile|Desire R6|Desire_R6|Desire R6|
 |Cherry Mobile|Desire R6 Lite|Desire_R6_Lite|Desire_R6_Lite|
 |Cherry Mobile|Desire R6 Plus|Desire_R6_plus|Desire R6 plus|
@@ -3552,6 +3554,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|Z455|Z455|Z455|
 |DEXP|lxion MS255|MS255|Ixion MS255|
 |DEYI|DEYI-10M18|DEYI-10M18|DEYI-10M18|
+|DGTEC|DG101TBIPS|DG101TBIPS|DG101TBIPS|
+|DGTEC|DG7TBIPSG|DG7TBIPSG|DG7TBIPSG|
 |DIFRNCE|DIT702201|DIT702201|NID_7010|
 |DL|3406|G02DL|Tablet DL 3406|
 |DL|3420|Tablet_DL_3420|Tablet DL 3420|
@@ -3708,6 +3712,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Diamond|Luxuary-X|Luxuary-X|Luxuary-X|
 |Diamond|MC32020|MC32020|MC32020|
 |Diamond|PSPCL30A0|PSPCL30A0|PSPCL30A0|
+|Dicle|DTABC2|DTABC2|DTABC2|
 |Digi|Digi C1|Digi_C1|Digi C1|
 |Digi|Digi C2|Digi_C2|Digi C2|
 |Digi|Digi R1|Digi_R1|Digi R1|
@@ -3921,7 +3926,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|MIX Lite|t766_dg_a66|MIX Lite|
 |Doogee|Mix|MIX|MIX|
 |Doogee|N10|Y7|N10|
+|Doogee|N100|N100|N100|
 |Doogee|N10_EEA|Y7|N10_EEA|
+|Doogee|N20|N20|N20|
 |Doogee|S30|S30|S30|
 |Doogee|S40|S40|S40|
 |Doogee|S50|t758_dg_m3t_n|S50|
@@ -3934,6 +3941,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|S70Lite|S70Lite|S70Lite|
 |Doogee|S80|S80|S80|
 |Doogee|S80Lite|S80Lite|S80Lite|
+|Doogee|S90Pro|S90Pro|S90Pro|
+|Doogee|S90pro|S90Pro|S90Pro|
 |Doogee|Shoot_ 1|Shoot_1|Shoot_1|
 |Doogee|T5|T5|T5|
 |Doogee|T5S|T5S|T5S|
@@ -3966,6 +3975,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|X90|X90|X90|
 |Doogee|X90L|X90L|X90L|
 |Doogee|X9S|X9S|X9S|
+|Doogee|Y10|Y10|Y10|
 |Doogee|Y6|Y6|Y6|
 |Doogee|Y6 C|Y6C|Y6C|
 |Doogee|Y6 Max|Y6_Max|Y6 Max|
@@ -3974,6 +3984,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|Y8|Y8|Y8|
 |Doogee|Y8C|Y8C|Y8C|
 |Doogee|Y8plus|Y8Plus|Y8 Plus|
+|Doogee|Y9Plus|Y9Plus|Y9Plus|
 |Doogee|shoot 2|t591_dga57_we|Shoot_2|
 |Doopro|C1|C1|C1|
 |Doopro|C1_Pro|C1_Pro|C1_Pro|
@@ -4930,6 +4941,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GFive|Gpad701|Gpad701|Gpad701|
 |GFive|PRESIDENT_GOLD_9|PRESIDENT_GOLD_9|PRESIDENT_GOLD_9|
 |GFive|President_Classic_9|President_Classic_9|President_Classic_9|
+|GFive|President_smart_5|President_smart_5|President_smart_5|
 |GFive|Xhero_7|Xhero_7|Xhero_7|
 |GIGI|U1|GIGI_U1|GIGI_U1|
 |GIRASOLE|X9|X9|X9|
@@ -5372,7 +5384,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Greatwall|K701|K701|K701|
 |Greatwall|T709GW|T709GW|Great Wall T709|
 |Greatwall|W710|W710|W710|
+|Greentel|X MAX|X_MAX|X MAX|
 |Greentel|X1 Light|X1_Light|X1_Light|
+|Greentel|X1_Light|X1_Light|X1 Light|
 |Greentel|Xmini|P4072|Xmini|
 |Greentel|Xmini|Xmini|Xmini|
 |Greentel|Xmini4G|Xmini4G|Xmini4G|
@@ -9241,6 +9255,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Inverse Net|LT101|LT101|LT101|
 |Ipro|Amber6|Amber6|Amber6|
 |Ipro|Amber7S|Amber7S|Amber7S|
+|Ipro|Benny|Benny|Benny|
 |Ipro|Jade7s|Jade7s|Jade7s|
 |Ipro|Jade8S|Jade8S|Jade8S|
 |Ipro|KYLIN40|KYLIN40|KYLIN40|
@@ -12716,6 +12731,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mantra|MFSTAB_74G|MFSTAB_74G|MFSTAB_74G|
 |Mantra|mTerminal100|Start|Start|
 |Marshall|London|KB-1501|London|
+|Marvie|MARVIE_CT4|MARVIE-CT4|CT4|
 |Mascom|Mascom_L850|Mascom_L850|Mascom_L850|
 |Mascom|Mascom_S750|Mascom_S750|Mascom S750|
 |Masstel|Juno_Q6|Masstel_Juno_Q6|Juno Q6|
@@ -17127,6 +17143,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A7|a7ltektt|SM-A700K|
 |Samsung|Galaxy A7|a7ltelgt|SM-A700L|
 |Samsung|Galaxy A7|a7lteskt|SM-A700S|
+|Samsung|Galaxy A7|a7y18ve|SM-A750C|
 |Samsung|Galaxy A7 (2018)|a7y18lte|SM-A750F|
 |Samsung|Galaxy A7 (2018)|a7y18lte|SM-A750FN|
 |Samsung|Galaxy A7 (2018)|a7y18lte|SM-A750G|
@@ -17143,7 +17160,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A7(2016)|a7xltechn|SM-A7100|
 |Samsung|Galaxy A7(2017)|a7y17lte|SM-A720F|
 |Samsung|Galaxy A7(2017)|a7y17lteskt|SM-A720S|
-|Samsung|Galaxy A7(2018)|a7y18ve|SM-A750C|
 |Samsung|Galaxy A70|a70q|SM-A7050|
 |Samsung|Galaxy A70|a70q|SM-A705F|
 |Samsung|Galaxy A70|a70q|SM-A705FN|
@@ -19696,6 +19712,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Skyworth|Europe|globe_eu|globe|
 |Skyworth|North America|SW3_ATV|SWTV|
 |Skyworth|North America|globe_na|globe|
+|Skyworth|North America|shimbashi|2K TV|
 |Skyworth|Skyworth|IPBox|ACT4K1007|
 |Skyworth|Skyworth|grape|HPA02|
 |Skyworth|South Africa|open_fhd_sa|open_fhd|
@@ -21788,6 +21805,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TWOE|E500A_2019|E500A_2019|E500A_2019|
 |TWOE|F534L|F534L|F534L|
 |TWOE|F572L|F572L|F572L|
+|TWZ Corporation PLC|T11|T11|T11|
 |TWZ Corporation PLC|T12|T12|T12|
 |TWZ Corporation PLC|Tab-PLAY125|Tab-PLAY125|Tab-PLAY125|
 |TWZ Corporation PLC|U18|U18|U18|
@@ -22278,6 +22296,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Trekstor|SurfTab xintron i 7.0|st70408_4_coho|st70408_4|
 |Trekstor|SurfTab xintron i 7.0|st70408_4_coho|st70408_4_coho|
 |Trekstor|TFMTKAW01232|TFMTKAW01232|TFMTKAW01232|
+|Trekstor|THMTKAW04232_eea|THMTKAW04232|PEAQ PET 100|
 |Trekstor|Trekstor Surftab B10|THMTKAW01232|Trekstor Surftab B10|
 |Trekstor|Trekstor Surftab theatre S11|TFMTKAW01332|Trekstor Surftab theatre S11|
 |Trekstor|tolino tab 7|tolino7|tolino tab 7|
@@ -23294,6 +23313,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Weimei|weplus 3|weplus_3|weplus_3|
 |Welgate|WA-U420D|WA-U420D|WA-U420D|
 |Wenu|Kate|Wenu|Kate|
+|Westinghouse|W10TWF19|W10TWF19|W10TWF19|
 |Westinghouse|W7T3G19|W7T3G19|W7T3G19|
 |Westinghouse|W7TBL19|W7TBL19|W7TBL19|
 |Westinghouse|W7TPK19|W7TPK19|W7TPK19|
@@ -23527,6 +23547,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wizz|DV-PTB1080|DV-PTB1080|DV-PTB1080|
 |Wolki|WS040|WS040|WS040|
 |Wolki|WS041|WS041|WS041|
+|Wolki|WS051|WS051|WS051|
 |Woongjin|WoongjinThinkbig|BP-1001|BP-1001|
 |Wopad|Wopad-Kids7Q|Wopad-Kids7Q|Wopad-Kids7Q|
 |Wowi|SQ733|SQ733|SQ733|
