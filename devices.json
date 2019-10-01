@@ -53821,6 +53821,24 @@
  },
  {
   "brand": "Infinix",
+  "name": "S5",
+  "device": "Infinix-X652",
+  "model": "Infinix X652"
+ },
+ {
+  "brand": "Infinix",
+  "name": "S5 Lite",
+  "device": "Infinix-X652B",
+  "model": "Infinix X652B"
+ },
+ {
+  "brand": "Infinix",
+  "name": "S5 Lite",
+  "device": "Infinix-X652C",
+  "model": "Infinix X652C"
+ },
+ {
+  "brand": "Infinix",
   "name": "SURF 2",
   "device": "INFINIX_X511",
   "model": "Infinix X511"
@@ -107642,6 +107660,12 @@
  {
   "brand": "Samsung",
   "name": "Galaxy Note10+",
+  "device": "SC-01M",
+  "model": "SC-01M"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Note10+",
   "device": "d2q",
   "model": "SM-N9750"
  },
@@ -131335,6 +131359,12 @@
  },
  {
   "brand": "Tecno",
+  "name": "CAMON 12 Air",
+  "device": "TECNO-CC6",
+  "model": "TECNO CC6"
+ },
+ {
+  "brand": "Tecno",
   "name": "CAMON C7",
   "device": "TECNO-C7",
   "model": "TECNO-C7"
@@ -132094,6 +132124,12 @@
   "name": "TECNO AX8",
   "device": "TECNO-AX8",
   "model": "TECNO AX8"
+ },
+ {
+  "brand": "Tecno",
+  "name": "TECNO CAMON 12 Air",
+  "device": "TECNO-KC3",
+  "model": "TECNO KC3"
  },
  {
   "brand": "Tecno",
@@ -142201,6 +142237,12 @@
  },
  {
   "brand": "Xiaomi",
+  "name": "Mi 9T",
+  "device": "davinci",
+  "model": "Mi 9T"
+ },
+ {
+  "brand": "Xiaomi",
   "name": "Mi 9T Pro",
   "device": "raphael",
   "model": "Mi 9T Pro"
@@ -142480,6 +142522,12 @@
   "name": "Redmi 7A",
   "device": "pine",
   "model": "Redmi 7A"
+ },
+ {
+  "brand": "Xiaomi",
+  "name": "Redmi 8",
+  "device": "olive",
+  "model": "Redmi 8"
  },
  {
   "brand": "Xiaomi",

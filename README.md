@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-09-30
+Last sync is 2019-10-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8975,6 +8975,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|S4|Infinix-X626|Infinix X626|
 |Infinix|S4|Infinix-X626B|Infinix X626B|
 |Infinix|S4|Infinix-X626B-LTE|Infinix X626B LTE|
+|Infinix|S5|Infinix-X652|Infinix X652|
+|Infinix|S5 Lite|Infinix-X652B|Infinix X652B|
+|Infinix|S5 Lite|Infinix-X652C|Infinix X652C|
 |Infinix|SURF 2|INFINIX_X511|Infinix X511|
 |Infinix|Smart 2|Infinix-X5515|Infinix X5515|
 |Infinix|Smart 2|Infinix-X5515F|Infinix X5515F|
@@ -17945,6 +17948,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Note10|d1q|SM-N970U1|
 |Samsung|Galaxy Note10|d1q|SM-N970W|
 |Samsung|Galaxy Note10 5G|d1x|SM-N971N|
+|Samsung|Galaxy Note10+|SC-01M|SC-01M|
 |Samsung|Galaxy Note10+|d2q|SM-N9750|
 |Samsung|Galaxy Note10+|d2q|SM-N975U|
 |Samsung|Galaxy Note10+|d2q|SM-N975U1|
@@ -21894,6 +21898,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|CAMON 11|TECNO-CF7k|TECNO CF7k|
 |Tecno|CAMON 11 Pro|TECNO-CF8|TECNO CF8|
 |Tecno|CAMON 12|TECNO-CC7|TECNO CC7|
+|Tecno|CAMON 12 Air|TECNO-CC6|TECNO CC6|
 |Tecno|CAMON C7|TECNO-C7|TECNO-C7|
 |Tecno|CAMON CM|TECNO-CA6|TECNO CA6|
 |Tecno|CAMON I Ace|TECNO-IN1|TECNO IN1|
@@ -22021,6 +22026,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|SPARK Plus|TECNO-K9|TECNO K9|
 |Tecno|SPARK Pro|TECNO-K8|TECNO K8|
 |Tecno|TECNO AX8|TECNO-AX8|TECNO AX8|
+|Tecno|TECNO CAMON 12 Air|TECNO-KC3|TECNO KC3|
 |Tecno|TECNO CAMON 12 Pro|TECNO-CC9|TECNO CC9|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|
 |Tecno|TECNO CAMON iACE 2x|TECNO-KB2j|TECNO KB2j|
@@ -23705,6 +23711,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Mi 4i|ferrari|Mi 4i|
 |Xiaomi|Mi 5|gemini|MI 5|
 |Xiaomi|Mi 5s|capricorn|MI 5s|
+|Xiaomi|Mi 9T|davinci|Mi 9T|
 |Xiaomi|Mi 9T Pro|raphael|Mi 9T Pro|
 |Xiaomi|Mi A1|tissot_sprout|MI A1|
 |Xiaomi|Mi A1|tissot_sprout|Mi A1|
@@ -23752,6 +23759,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Redmi 7|onc|ONC|
 |Xiaomi|Redmi 7|onc|Redmi 7|
 |Xiaomi|Redmi 7A|pine|Redmi 7A|
+|Xiaomi|Redmi 8|olive|Redmi 8|
 |Xiaomi|Redmi Go|tiare|Redmi Go|
 |Xiaomi|Redmi Note 3|hennessy|Redmi Note 3|
 |Xiaomi|Redmi Note 3|kate|Redmi Note 3|
