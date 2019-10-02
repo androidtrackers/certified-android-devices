@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-10-01
+Last sync is 2019-10-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -15838,6 +15838,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Point Mobile|PM85|pm85|PM85|
 |Point Mobile|PM85|pm85e|PM85E|
 |Point Mobile|PM85R|pm85r|PM85R|
+|Point Mobile|pm90|pm90|PM90|
 |Pokini|K6|K6|K6|
 |Polar|M600|pike|Polar M600|
 |Polaris|Condroid_X7|polaris-Condroid_X7|Condroid_X7|
