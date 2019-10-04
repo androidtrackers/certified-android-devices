@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-10-03
+Last sync is 2019-10-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10282,6 +10282,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|K4|lv1|LG-M151|
 |LGE|K4 (2017)|lv1|LGL157BL|
 |LGE|K4 (2017)|lv1|LGL57BL|
+|LGE|K50S|mmh45lm|LM-X540|
 |LGE|L Bello|luv80ds|LG-D335|
 |LGE|L Bello|luv80ds|LG-D335E|
 |LGE|L Bello|luv80ds|LG-D337|
@@ -17951,6 +17952,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Note10|d1q|SM-N970W|
 |Samsung|Galaxy Note10 5G|d1x|SM-N971N|
 |Samsung|Galaxy Note10+|SC-01M|SC-01M|
+|Samsung|Galaxy Note10+|SCV45|SCV45|
 |Samsung|Galaxy Note10+|d2q|SM-N9750|
 |Samsung|Galaxy Note10+|d2q|SM-N975U|
 |Samsung|Galaxy Note10+|d2q|SM-N975U1|

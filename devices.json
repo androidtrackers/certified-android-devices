@@ -61663,6 +61663,12 @@
  },
  {
   "brand": "LGE",
+  "name": "K50S",
+  "device": "mmh45lm",
+  "model": "LM-X540"
+ },
+ {
+  "brand": "LGE",
   "name": "L Bello",
   "device": "luv80ds",
   "model": "LG-D335"
@@ -107674,6 +107680,12 @@
   "name": "Galaxy Note10+",
   "device": "SC-01M",
   "model": "SC-01M"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Note10+",
+  "device": "SCV45",
+  "model": "SCV45"
  },
  {
   "brand": "Samsung",
