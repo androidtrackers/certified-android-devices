@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-10-04
+Last sync is 2019-10-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -100,6 +100,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AT&T|9020A|tint8_att|9020A|
 |AT&T|AT&T TV|c71kw200|AT&T TV|
 |AT&T|AT&T TV|c71kw200|c71kw200|
+|AT&T|AT&T TV|c71kw400|AT&T TV|
 |AT&T|QS5509A|QS5509QL|QS5509A|
 |AT&T|U304AA|U304AA|U304AA|
 |ATM (Brazil)|R5Plus|R5Plus|R5Plus|
@@ -10605,6 +10606,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG K40|mh4-pr|LM-X420|
 |LGE|LG K40|mh4x|LM-X420|
 |LGE|LG K40|mmh4x|LM-X420|
+|LGE|LG K40S|mmh55lm|LM-X430|
 |LGE|LG K5|d3|LG-X220|
 |LGE|LG K50|mmh4p-pr|802LG|
 |LGE|LG K50|mmh4p-pr|KF1919|
@@ -13937,6 +13939,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Movado|Boss Touch / TH 24/7 YOU|weever|BOSS Touch|
 |Movado|Boss Touch / TH 24/7 YOU|weever|TH 24/7 YOU|
 |Movado|Movado Connect|stargazer|Movado Connect|
+|Movado|Movado Connect|stargazer|Stargazer|
 |Movado|Movado Connect 2.0|tilefish|Movado Connect 2|
 |Moveby|LINNEX|LX50|LX50|
 |Movic|MOVIC_W5|MOVIC_W5|MOVIC-W5|

@@ -571,6 +571,12 @@
  },
  {
   "brand": "AT&T",
+  "name": "AT&T TV",
+  "device": "c71kw400",
+  "model": "AT&T TV"
+ },
+ {
+  "brand": "AT&T",
   "name": "QS5509A",
   "device": "QS5509QL",
   "model": "QS5509A"
@@ -63601,6 +63607,12 @@
  },
  {
   "brand": "LGE",
+  "name": "LG K40S",
+  "device": "mmh55lm",
+  "model": "LM-X430"
+ },
+ {
+  "brand": "LGE",
   "name": "LG K5",
   "device": "d3",
   "model": "LG-X220"
@@ -83590,6 +83602,12 @@
   "name": "Movado Connect",
   "device": "stargazer",
   "model": "Movado Connect"
+ },
+ {
+  "brand": "Movado",
+  "name": "Movado Connect",
+  "device": "stargazer",
+  "model": "Stargazer"
  },
  {
   "brand": "Movado",
