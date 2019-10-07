@@ -17898,6 +17898,12 @@
   "model": "CR4900"
  },
  {
+  "brand": "Cogeco",
+  "name": "TV",
+  "device": "uiw4020cog",
+  "model": "TV"
+ },
+ {
   "brand": "CoinComputers",
   "name": "TF10EA2",
   "device": "TF10EA2_5",
@@ -137443,6 +137449,18 @@
  },
  {
   "brand": "Vivo",
+  "name": "V1923A",
+  "device": "PD1923",
+  "model": "V1923A"
+ },
+ {
+  "brand": "Vivo",
+  "name": "V1924A",
+  "device": "PD1924",
+  "model": "V1924A"
+ },
+ {
+  "brand": "Vivo",
   "name": "V1Max",
   "device": "Y37",
   "model": "vivo Y37"
@@ -138094,6 +138112,18 @@
   "name": "vivo 1907",
   "device": "1907",
   "model": "vivo 1907"
+ },
+ {
+  "brand": "Vivo",
+  "name": "vivo 1912",
+  "device": "1912",
+  "model": "vivo 1912"
+ },
+ {
+  "brand": "Vivo",
+  "name": "vivo 1913",
+  "device": "1913",
+  "model": "vivo 1913"
  },
  {
   "brand": "Vivo",

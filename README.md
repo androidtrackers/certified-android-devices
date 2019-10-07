@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-10-06
+Last sync is 2019-10-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2988,6 +2988,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cobalt|SM6|Cobalt_SM_6|Cobalt_SM_6|
 |Coby|CTB761|CTB761|CTB761|
 |Code|CR4900|cr4900|CR4900|
+|Cogeco|TV|uiw4020cog|TV|
 |CoinComputers|TF10EA2|TF10EA2_5|TF10EA2|
 |ColorsMobile|P40_Pride_1|P40_Pride_1|P40_Pride_1|
 |ColorsMobile|P45|Colors_P45|Colors P45|
@@ -22912,6 +22913,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V1911A|PD1911|V1911A|
 |Vivo|V1916A|PD1916|V1916A|
 |Vivo|V1922A|PD1922|V1922A|
+|Vivo|V1923A|PD1923|V1923A|
+|Vivo|V1924A|PD1924|V1924A|
 |Vivo|V1Max|Y37|vivo Y37|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
@@ -23021,6 +23024,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo 1902|1902|vivo 1902|
 |Vivo|vivo 1904|1904|vivo 1904|
 |Vivo|vivo 1907|1907|vivo 1907|
+|Vivo|vivo 1912|1912|vivo 1912|
+|Vivo|vivo 1913|1913|vivo 1913|
 |Vivo|vivo NEX A|PD1806|vivo NEX A|
 |Vivo|vivo NEX S|PD1805|vivo NEX S|
 |Vivo|vivo S1|PD1831|V1831A|
