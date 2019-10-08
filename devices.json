@@ -2491,6 +2491,12 @@
  },
  {
   "brand": "Advance",
+  "name": "Pr7547",
+  "device": "Pr7547",
+  "model": "Pr7547"
+ },
+ {
+  "brand": "Advance",
   "name": "TR4986",
   "device": "Tablet_adv_v1",
   "model": "ADVANCE"
@@ -6997,6 +7003,12 @@
  },
  {
   "brand": "Aspera",
+  "name": "GEM",
+  "device": "GEM",
+  "model": "GEM"
+ },
+ {
+  "brand": "Aspera",
   "name": "JAZZ",
   "device": "Jazz",
   "model": "Jazz"
@@ -10405,6 +10417,12 @@
  },
  {
   "brand": "BMXC",
+  "name": "K107",
+  "device": "K107",
+  "model": "K107"
+ },
+ {
+  "brand": "BMXC",
   "name": "K107_EEA",
   "device": "K107-EEA",
   "model": "K107-EEA"
@@ -13516,6 +13534,12 @@
   "name": "BOLD N1",
   "device": "N0030WW",
   "model": "BOLD N1"
+ },
+ {
+  "brand": "Blu",
+  "name": "C1",
+  "device": "C190",
+  "model": "C1"
  },
  {
   "brand": "Blu",
@@ -22273,6 +22297,12 @@
  },
  {
   "brand": "Digi",
+  "name": "Digi K2",
+  "device": "Digi_K2",
+  "model": "Digi K2"
+ },
+ {
+  "brand": "Digi",
   "name": "Digi R1",
   "device": "Digi_R1",
   "model": "Digi R1"
@@ -26929,6 +26959,12 @@
  },
  {
   "brand": "F2 Mobile",
+  "name": "Z8PLUS",
+  "device": "Z8PLUS",
+  "model": "Z8PLUS"
+ },
+ {
+  "brand": "F2 Mobile",
   "name": "Z8POCKET",
   "device": "Z8POCKET",
   "model": "Z8POCKET"
@@ -27070,6 +27106,12 @@
   "name": "FP2",
   "device": "FP2",
   "model": "FP2"
+ },
+ {
+  "brand": "Fairphone",
+  "name": "Fairphone3",
+  "device": "FP3",
+  "model": "FP3"
  },
  {
   "brand": "Famous Fones",
@@ -29377,6 +29419,18 @@
  },
  {
   "brand": "Fusion5",
+  "name": "F104BvII_PRO",
+  "device": "F104BvII_PRO",
+  "model": "F104BvII_PRO"
+ },
+ {
+  "brand": "Fusion5",
+  "name": "F105Dv2",
+  "device": "F105Dv2",
+  "model": "F105Dv2"
+ },
+ {
+  "brand": "Fusion5",
   "name": "F105DvII",
   "device": "F105DvII",
   "model": "F105DvII"
@@ -29416,6 +29470,12 @@
   "name": "Fusion5_F704B",
   "device": "Fusion5_F704B",
   "model": "Fusion5_F704B"
+ },
+ {
+  "brand": "Fusion5",
+  "name": "T099",
+  "device": "T099",
+  "model": "T099"
  },
  {
   "brand": "Future Mobile Technology",
@@ -57492,6 +57552,12 @@
   "model": "KLITE_TAB_Z"
  },
  {
+  "brand": "\"K-Lite",
+  "name": "\"",
+  "device": "TAB_ALPHA",
+  "model": "TAB_ALPHA"
+ },
+ {
   "brand": "K-Touch",
   "name": "",
   "device": "whistler",
@@ -57886,6 +57952,12 @@
   "name": "KEMPLER_8_PLUS",
   "device": "KEMPLER_8_PLUS",
   "model": "KEMPLER_8_PLUS"
+ },
+ {
+  "brand": "KEMPLER STRAUSS",
+  "name": "KEMPLER_P1",
+  "device": "KEMPLER_P1",
+  "model": "KEMPLER_P1"
  },
  {
   "brand": "KEMPLER STRAUSS",
@@ -59218,6 +59290,12 @@
   "name": "NET_MAX",
   "device": "NET_MAX",
   "model": "NET_MAX"
+ },
+ {
+  "brand": "Krono",
+  "name": "NET_TITAN",
+  "device": "NET_TITAN",
+  "model": "NET_TITAN"
  },
  {
   "brand": "Krono",
@@ -73879,12 +73957,6 @@
  },
  {
   "brand": "Lenovo",
-  "name": "enovo TAB M10 FHD Rel",
-  "device": "TB-X605FC",
-  "model": "Lenovo TB-X605FC"
- },
- {
-  "brand": "Lenovo",
   "name": "ideatv S52",
   "device": "ideatv_S52",
   "model": "ideatv S52"
@@ -79687,6 +79759,12 @@
  },
  {
   "brand": "Mintt",
+  "name": "CoolMinttDUO3",
+  "device": "CoolMinttDUO3",
+  "model": "CoolMinttDUO3"
+ },
+ {
+  "brand": "Mintt",
   "name": "CoolMinttM2",
   "device": "CoolMinttM2",
   "model": "CoolMinttM2"
@@ -80080,6 +80158,12 @@
   "name": "Fever_Plus",
   "device": "Fever_Plus",
   "model": "Fever_Plus"
+ },
+ {
+  "brand": "Mobicell",
+  "name": "Fever_Plus_J",
+  "device": "Fever_Plus_J",
+  "model": "Fever_Plus_J"
  },
  {
   "brand": "Mobicell",
@@ -88681,6 +88765,12 @@
  },
  {
   "brand": "OnePlus",
+  "name": "Oneplus_Dosa_IN",
+  "device": "Oneplus_Dosa_IN",
+  "model": "Oneplus_Dosa_IN"
+ },
+ {
+  "brand": "OnePlus",
   "name": "X",
   "device": "OnePlus",
   "model": "ONE E1003"
@@ -90890,12 +90980,6 @@
  {
   "brand": "Oppo",
   "name": "realme 3Pro",
-  "device": "RMX1851",
-  "model": "RMX1851"
- },
- {
-  "brand": "Oppo",
-  "name": "realme 3Pro",
   "device": "RMX1853",
   "model": "RMX1853"
  },
@@ -90904,6 +90988,12 @@
   "name": "realme 3i",
   "device": "RMX1827",
   "model": "RMX1827"
+ },
+ {
+  "brand": "Oppo",
+  "name": "realme 5",
+  "device": "RMX1911",
+  "model": "RMX1911"
  },
  {
   "brand": "Oppo",
@@ -99898,6 +99988,60 @@
   "name": "Razer phone",
   "device": "cheryl_ckh",
   "model": "Phone"
+ },
+ {
+  "brand": "Realme",
+  "name": "realme 3Pro",
+  "device": "RMX1851",
+  "model": "RMX1851"
+ },
+ {
+  "brand": "Realme",
+  "name": "realme 5",
+  "device": "RMX1911L1",
+  "model": "RMX1911"
+ },
+ {
+  "brand": "Realme",
+  "name": "realme 5",
+  "device": "RMX1919",
+  "model": "RMX1919"
+ },
+ {
+  "brand": "Realme",
+  "name": "realme 5Pro",
+  "device": "RMX1971",
+  "model": "RMX1971"
+ },
+ {
+  "brand": "Realme",
+  "name": "realme 5Pro",
+  "device": "RMX1971L1",
+  "model": "RMX1971"
+ },
+ {
+  "brand": "Realme",
+  "name": "realme 5pro",
+  "device": "RMX1971",
+  "model": "RMX1971"
+ },
+ {
+  "brand": "Realme",
+  "name": "realme Q",
+  "device": "RMX1971CN",
+  "model": "RMX1971"
+ },
+ {
+  "brand": "Realme",
+  "name": "realme X2",
+  "device": "RMX1991CN",
+  "model": "RMX1991"
+ },
+ {
+  "brand": "Realme",
+  "name": "realme XT",
+  "device": "RMX1921",
+  "model": "RMX1921"
  },
  {
   "brand": "Realtime",
@@ -139435,6 +139579,12 @@
  },
  {
   "brand": "Walton",
+  "name": "Primo E10 PlUS",
+  "device": "Primo_E10_Plus",
+  "model": "Primo E10 Plus"
+ },
+ {
+  "brand": "Walton",
   "name": "Primo E8s",
   "device": "Primo_E8s",
   "model": "Primo E8s"
@@ -142816,6 +142966,12 @@
   "name": "Xpad",
   "device": "Xpad",
   "model": "Xpad_M9_3G"
+ },
+ {
+  "brand": "YOTOPT",
+  "name": "X109",
+  "device": "X109",
+  "model": "X109"
  },
  {
   "brand": "YSFEN",
@@ -152098,6 +152254,12 @@
   "name": "K105",
   "device": "K105",
   "model": "K105"
+ },
+ {
+  "brand": "Zonko",
+  "name": "K105_EEA",
+  "device": "K105_EEA",
+  "model": "K105_EEA"
  },
  {
   "brand": "Zonko",
