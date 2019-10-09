@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-10-08
+Last sync is 2019-10-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -338,6 +338,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|Z110|Z1|Z110|
 |Acer|Z120|Z2|Z120|
 |Aceson|R726|R726|R726|
+|Aconatic|Android TV|R1|ATV R1|
 |Adart|ALIGATOR RX510|RX510|ALIGATOR RX510|
 |Adart|ALIGATOR S4080 Duo|ALIGATOR_S4080|ALIGATOR S4080|
 |Adart|ALIGATOR S4082 Duo|S4082Duo|S4082 Duo|
@@ -487,6 +488,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Alcor|Comet_O118LR|Comet_O118LR|Comet_O118LR|
 |Aldo Mobile|S12|S12|S12|
 |Algar|GIU6770|GIU6770|GIU6770|
+|Alhafidh|Android TV|R1|ATV R1|
+|Alhafidh|Android TV|R2|ATV R2|
 |Aligator|ALIGATOR S5070|ALIGATOR_S5070|ALIGATOR S5070|
 |Aligator|ALIGATOR S5520|ALIGATOR_S5520|ALIGATOR_S5520|
 |Aligator|ALIGATOR S5540|ALIGATOR_S5540|ALIGATOR S5540|
@@ -734,6 +737,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Amplify|TL10RA3|TL10RA3_1|TL10RA3|
 |Amplify|TR10CD3|TR10CD3_1|TR10CD3|
 |Amplify|TR10CD3|TR10CD3_2|TR10CD3|
+|Amstrad|Android TV|R2|ATV R2|
 |Andersson|TBQ-7321|TBQ-7321|TBQ-7321|
 |Andersson|TBQ_10321|TBQ_10321|TBQ_10321|
 |Anydata||ASP320Q_GSM|ASP320Q_ANDi|
@@ -1144,6 +1148,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ark|Impulse P2|Impulse_P2|Impulse_P2|
 |Ark|S504|S504|S504|
 |Ark|Wizard 1|Wizard_1|Wizard_1|
+|Artel|Android TV|R1|ATV R1|
 |Artel|Artel U5|U5|U5|
 |Artel|Starpad_T-181|Starpad|Starpad_T-181|
 |Artel|U1|U1|U1|
@@ -3041,6 +3046,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Condor|Allure M3 Lite|Allure_M3_Lite|Allure M3 Lite|
 |Condor|Allure M3 lite|Allure_M3_Lite|Allure M3 Lite|
 |Condor|Allure X|Allure_X|Allure X|
+|Condor|Android TV|R2|ATV R2|
 |Condor|C1+|C1Plus|C1+|
 |Condor|C6+|PGN_508|PGN-508|
 |Condor|C7|PGN_506|PGN-506|
@@ -3675,6 +3681,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Denali|DT0704K08|DT0704K08|DT0704K08|
 |Denali|ETAB3|DT0706W08|ETAB3|
 |Denali|Etab2|DT0705W08|DT0705W08|
+|Denka|Android TV|R1|ATV R1|
+|Denka|Android TV|R2|ATV R2|
 |Denso Wave|BHT-1600|BHT1600|BHT1600|
 |Denso Wave|BHT-1700BWB-A7|BHT-1700BWB-1-A7|BHT-1700BWB-1-A7|
 |Denso Wave|BHT-1700QLWB-A7-P|BHT-1700QLWB-P-A7|BHT-1700QLWB-P-A7|
@@ -4272,6 +4280,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Emdoor|EM_I8180|em_i8180|em_i8180|
 |Emerson|EM749/748|EM749_748|EM749_748|
 |Emerson|EM9|EM9|EM9|
+|Emporia|Emporia SMART 3|S3|S3|
 |Emtec|F400|f400|f400|
 |Emtec|Gaming Android Gem Box|F500|Gem Box F500|
 |Energizer|EnergyE500|EnergyE500|EnergyE500|
@@ -5337,6 +5346,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gol Mobile|F10_PRIME|F10_PRIME|F10_PRIME|
 |Gol Mobile|F3Prime|F3Prime|F3Prime|
 |Gol Mobile|F9|F9|F9|
+|Gol Mobile|F9_PLUS|F9_PLUS|F9_PLUS|
 |Gol Mobile|TEAM_7_3G|TEAM_7_3G|TEAM_7_3G|
 |Gol Mobile|Team_7|Team_7|Team 7.0|
 |Goldmaster|BENGAL_6|BENGAL_6|BENGAL_6|
@@ -9210,6 +9220,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Intex|AQUA ZENITH|INTEX_AQUA_ZENITH|INTEX AQUA ZENITH|
 |Intex|AQUA_4.0_4G|INTEX_AQUA_4_4G|INTEX_AQUA_4.0_4G|
 |Intex|AQUA_S3|INTEX_AQUA_S3|INTEX AQUA S3|
+|Intex|Android TV|R1|ATV R1|
 |Intex|Aqua 4.0 3G|INTEX_AQUA_4_3G|INTEX AQUA 4.0 3G|
 |Intex|Aqua 4G mini|INTEX_AQUA_4G_MINI|INTEX AQUA 4G MINI|
 |Intex|Aqua 5.5 VR|Aqua_5_5_VR|Aqua 5.5 VR|
@@ -13037,6 +13048,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Micromax|A89|A89|A89|
 |Micromax|A91|A91|A91|
 |Micromax|A91|A91|Micromax A91|
+|Micromax|Android TV|R2|ATV R2|
 |Micromax|B5 Pro|B5_Pro|Micromax B5 Pro|
 |Micromax|B5_RU|Bharat_5|Micromax Bharat 5|
 |Micromax|BOLT|A068|A068|
@@ -15720,6 +15732,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|Philips S561|S561|Philips S561|
 |Philips|Philips S562Z|S562Z|Philips S562Z|
 |Philips|Philips SmartTV|freesia|PHILIPS 4K TV|
+|Philips|Philips SmartTV|freesia|PHILIPS 4k TV|
 |Philips|Philips V787|Philips_Xenium_V787|Philips Xenium V787|
 |Philips|Philips X596|X596|Philips X596|
 |Philips|Philips X598|Philips_X598|Philips X598|
@@ -19623,6 +19636,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sico|Infinity|Infinity|Infinity|
 |Sico|Infinity Max|InfinityMax|Infinity Max|
 |Sico|Infinity_2|Infinity_2|Infinity 2|
+|Sico|Infinity_2_MAX|Infinity_2_MAX|Infinity 2 MAX|
 |Sico|Mega2|Mega2|Mega2|
 |Sico|Mega2max|Mega2max|Mega2max|
 |Sico|More_3|More_3|More_3|
@@ -19769,6 +19783,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smart|SK3401|SK3401|SK3401|
 |Smart|Slide Lite|Slide_Lite|Slide Lite|
 |Smart|Smart PRIME II|Smart_PRIME_II|Smart PRIME II|
+|Smart|hero A1|hero_A1|hero A1|
 |Smart (BD)|SQ811G|SQ811G|SQ811G|
 |SmartPad|SM181301|SM181301|SM181301|
 |SmartPad|Smartpad V7|Smartpad-V7|Smartpad-V7|
@@ -21335,6 +21350,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 3X|Venice|5048A|
 |TCT (Alcatel)|Alcatel 3X|Venice|5048I|
 |TCT (Alcatel)|Alcatel 3X|Venice|5048U|
+|TCT (Alcatel)|Alcatel 3X|Venice|5048U_EEA|
 |TCT (Alcatel)|Alcatel 3X|Venice|5048Y|
 |TCT (Alcatel)|Alcatel 3X|Venice|5048Y_EEA|
 |TCT (Alcatel)|Alcatel 3X|Venice|5048Y_RU|
@@ -22209,6 +22225,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tetratab|TF10EA2|TF10EA2_Medical_1|CASEBOOK_3|
 |Thinpad|TH805|TH805|TH805|
 |Thomson|5014G_EEA|5014G|5014G|
+|Thomson|Android TV|R1|ATV R1|
 |Thomson|Delight TH201|Delight_TH201|Delight TH201|
 |Thomson|EBK_5014G|EBK_5014G|EBK_5014G|
 |Thomson|EBL-5304G|EBL_5304G|EBL-5304G|
@@ -23612,6 +23629,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |X-Age|Tab40|Tab40|Tab40|
 |X-Age|Tab_31|Tab_31|Tab_31|
 |X-TEK|X2|X2|X2|
+|X-TIGI|Hope7_Mate|Hope7_Mate|Hope7_Mate|
 |X-TIGI|JOY10_LTE|MID|JOY10_LTE|
 |X-TIGI|JOY10_Mate|JOY10_Mate|X-TIGI_JOY10 Mate|
 |X-TIGI|JOY7_Mate|JOY7_Mate|X_TIGI_JOY7_Mate|
@@ -25404,6 +25422,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zuk|Z2 Pro|z2_row|ZUK Z2121|
 |Zuk|ZTE B2015|msm8916_64|ZTE B2015|
 |Zuk|ZTE BLADE A5 PRO|P731A20|ZTE BLADE A5 PRO|
+|Zuum|AKUS Z|Akus_Z|Akus Z|
 |Zuum|AURA X|AURA_X|AURA X|
 |Zuum|COVET|COVET|COVET|
 |Zuum|COVET PLUS|COVET_PLUS|COVET PLUS|

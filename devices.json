@@ -1998,6 +1998,12 @@
   "model": "R726"
  },
  {
+  "brand": "Aconatic",
+  "name": "Android TV",
+  "device": "R1",
+  "model": "ATV R1"
+ },
+ {
   "brand": "Adart",
   "name": "ALIGATOR RX510",
   "device": "RX510",
@@ -2890,6 +2896,18 @@
   "name": "GIU6770",
   "device": "GIU6770",
   "model": "GIU6770"
+ },
+ {
+  "brand": "Alhafidh",
+  "name": "Android TV",
+  "device": "R1",
+  "model": "ATV R1"
+ },
+ {
+  "brand": "Alhafidh",
+  "name": "Android TV",
+  "device": "R2",
+  "model": "ATV R2"
  },
  {
   "brand": "Aligator",
@@ -4372,6 +4390,12 @@
   "name": "TR10CD3",
   "device": "TR10CD3_2",
   "model": "TR10CD3"
+ },
+ {
+  "brand": "Amstrad",
+  "name": "Android TV",
+  "device": "R2",
+  "model": "ATV R2"
  },
  {
   "brand": "Andersson",
@@ -6832,6 +6856,12 @@
   "name": "Wizard 1",
   "device": "Wizard_1",
   "model": "Wizard_1"
+ },
+ {
+  "brand": "Artel",
+  "name": "Android TV",
+  "device": "R1",
+  "model": "ATV R1"
  },
  {
   "brand": "Artel",
@@ -18217,6 +18247,12 @@
  },
  {
   "brand": "Condor",
+  "name": "Android TV",
+  "device": "R2",
+  "model": "ATV R2"
+ },
+ {
+  "brand": "Condor",
   "name": "C1+",
   "device": "C1Plus",
   "model": "C1+"
@@ -22020,6 +22056,18 @@
   "model": "DT0705W08"
  },
  {
+  "brand": "Denka",
+  "name": "Android TV",
+  "device": "R1",
+  "model": "ATV R1"
+ },
+ {
+  "brand": "Denka",
+  "name": "Android TV",
+  "device": "R2",
+  "model": "ATV R2"
+ },
+ {
   "brand": "Denso Wave",
   "name": "BHT-1600",
   "device": "BHT1600",
@@ -25600,6 +25648,12 @@
   "name": "EM9",
   "device": "EM9",
   "model": "EM9"
+ },
+ {
+  "brand": "Emporia",
+  "name": "Emporia SMART 3",
+  "device": "S3",
+  "model": "S3"
  },
  {
   "brand": "Emtec",
@@ -31990,6 +32044,12 @@
   "name": "F9",
   "device": "F9",
   "model": "F9"
+ },
+ {
+  "brand": "Gol Mobile",
+  "name": "F9_PLUS",
+  "device": "F9_PLUS",
+  "model": "F9_PLUS"
  },
  {
   "brand": "Gol Mobile",
@@ -55231,6 +55291,12 @@
  },
  {
   "brand": "Intex",
+  "name": "Android TV",
+  "device": "R1",
+  "model": "ATV R1"
+ },
+ {
+  "brand": "Intex",
   "name": "Aqua 4.0 3G",
   "device": "INTEX_AQUA_4_3G",
   "model": "INTEX AQUA 4.0 3G"
@@ -78193,6 +78259,12 @@
  },
  {
   "brand": "Micromax",
+  "name": "Android TV",
+  "device": "R2",
+  "model": "ATV R2"
+ },
+ {
+  "brand": "Micromax",
   "name": "B5 Pro",
   "device": "B5_Pro",
   "model": "Micromax B5 Pro"
@@ -94288,6 +94360,12 @@
   "name": "Philips SmartTV",
   "device": "freesia",
   "model": "PHILIPS 4K TV"
+ },
+ {
+  "brand": "Philips",
+  "name": "Philips SmartTV",
+  "device": "freesia",
+  "model": "PHILIPS 4k TV"
  },
  {
   "brand": "Philips",
@@ -117709,6 +117787,12 @@
  },
  {
   "brand": "Sico",
+  "name": "Infinity_2_MAX",
+  "device": "Infinity_2_MAX",
+  "model": "Infinity 2 MAX"
+ },
+ {
+  "brand": "Sico",
   "name": "Mega2",
   "device": "Mega2",
   "model": "Mega2"
@@ -118582,6 +118666,12 @@
   "name": "Smart PRIME II",
   "device": "Smart_PRIME_II",
   "model": "Smart PRIME II"
+ },
+ {
+  "brand": "Smart",
+  "name": "hero A1",
+  "device": "hero_A1",
+  "model": "hero A1"
  },
  {
   "brand": "Smart (BD)",
@@ -127983,6 +128073,12 @@
   "brand": "TCT (Alcatel)",
   "name": "Alcatel 3X",
   "device": "Venice",
+  "model": "5048U_EEA"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 3X",
+  "device": "Venice",
   "model": "5048Y"
  },
  {
@@ -133222,6 +133318,12 @@
   "name": "5014G_EEA",
   "device": "5014G",
   "model": "5014G"
+ },
+ {
+  "brand": "Thomson",
+  "name": "Android TV",
+  "device": "R1",
+  "model": "ATV R1"
  },
  {
   "brand": "Thomson",
@@ -141640,6 +141742,12 @@
   "name": "X2",
   "device": "X2",
   "model": "X2"
+ },
+ {
+  "brand": "X-TIGI",
+  "name": "Hope7_Mate",
+  "device": "Hope7_Mate",
+  "model": "Hope7_Mate"
  },
  {
   "brand": "X-TIGI",
@@ -152392,6 +152500,12 @@
   "name": "ZTE BLADE A5 PRO",
   "device": "P731A20",
   "model": "ZTE BLADE A5 PRO"
+ },
+ {
+  "brand": "Zuum",
+  "name": "AKUS Z",
+  "device": "Akus_Z",
+  "model": "Akus Z"
  },
  {
   "brand": "Zuum",
