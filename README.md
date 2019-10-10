@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-10-09
+Last sync is 2019-10-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2140,6 +2140,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BlackBerry|PRIV by BlackBerry|venice|STV100-4|
 |Blackfox|BMM441D|BMM441D|BMM441D|
 |Blackfox|BMM441S|BMM441S|BMM441S|
+|Blackfox|BMM441W|BMM441W|BMM441W|
 |Blackfox|BMM442D|BMM442D|BMM442D|
 |Blackfox|BMM443D|BMM443D|BMM443D|
 |Blackfox|BMM531A|BMM531A|BMM531A|
@@ -8870,6 +8871,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ION ELECTRONICS|Kids|Kids|Kids|
 |ION ELECTRONICS|Orbit|Orbit|Orbit|
 |IPRODA|T1144|T1144|T1144|
+|IQ Touch|VIATABQX730|VIATABQX730|VIATABQX730|
 |IUNI|N1|IUNI_N1|IUNI N1|
 |IUSA|TR10CS1|TR10CS1_7|TR10CS1|
 |IUSA|TR10CS1|TR10CS1_8|TR10CS1|
@@ -10909,6 +10911,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG Stylo 4|mcv7a|LG-Q710PL|
 |LGE|LG Stylo 5|cv7as|LGL722DL|
 |LGE|LG Stylo 5|cv7as|LM-Q720|
+|LGE|LG Stylo 5+|cv7as-pr|LM-Q720|
 |LGE|LG Stylo3|sf317|LG-M430|
 |LGE|LG Stylo3|sf317|LGL83BL|
 |LGE|LG Stylo3|sf317|LGL84VL|
@@ -12067,6 +12070,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo PHAB2 Pro|PB2PRO|Lenovo PB2-690Y|
 |Lenovo|Lenovo S5 Pro|sprout|Lenovo L58041|
 |Lenovo|Lenovo S820|S820|Lenovo S820|
+|Lenovo|Lenovo Smart Tab M8|8705F|Lenovo TB-8705F|
 |Lenovo|Lenovo TAB|TB-8803F|Lenovo TB-8803F|
 |Lenovo|Lenovo TAB 10|TB-X103F|Lenovo TB-X103F|
 |Lenovo|Lenovo TAB 2 A10-30|TB2-X30F|Lenovo TB2-X30F|
@@ -12084,6 +12088,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo TAB 7|TB-7504X|Lenovo TB-7504X|
 |Lenovo|Lenovo TAB 7 Essential|TB-7304F|Lenovo TB-7304F|
 |Lenovo|Lenovo TAB 8|TB-8304F|Lenovo TB-8304F|
+|Lenovo|Lenovo TAB E8|TB-8304F1|Lenovo TB-8304F1|
 |Lenovo|Lenovo TAB M10 FHD Rel|TB-X605FC|Lenovo TB-X605FC|
 |Lenovo|Lenovo TAB M10 FHD Rel|TB-X605LC|Lenovo TB-X605LC|
 |Lenovo|Lenovo TAB3 10 Plus|TB3-X70F|Lenovo TB3-X70F|
@@ -15260,6 +15265,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|K10000_Max|K10000_Max|K10000 Max|
 |Oukitel|K12|K12|K12|
 |Oukitel|K3|K3|K3|
+|Oukitel|K3 Pro|K3_Pro|K3_Pro|
 |Oukitel|K5|K5|K5|
 |Oukitel|K5000|K5000|K5000|
 |Oukitel|K6|K6|K6|
@@ -15807,6 +15813,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Plaisio|A2|Turbo-X_A2|Turbo-X_A2|
 |Plaisio|A4|A4|A4|
 |Plaisio|Aqua|Aqua|Aqua|
+|Plaisio|Aqua_II|Aqua_II|Aqua_II|
 |Plaisio|Calltab 7\xe2\x80\x9d|Calltab7inch|Calltab7inch|
 |Plaisio|"Calltab2GB10.1"""|Calltab2GB10|Calltab2GB10|
 |Plaisio|CalltabII 10.1|E1031H2C|Calltab10.1|
@@ -16686,12 +16693,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme 3Pro|RMX1851|RMX1851|
 |Realme|realme 5|RMX1911L1|RMX1911|
 |Realme|realme 5|RMX1919|RMX1919|
+|Realme|realme 5|RMX1925|RMX1925|
 |Realme|realme 5Pro|RMX1971|RMX1971|
 |Realme|realme 5Pro|RMX1971L1|RMX1971|
 |Realme|realme 5pro|RMX1971|RMX1971|
+|Realme|realme 5pro|RMX1973|RMX1973|
+|Realme|realme C2|RMX1946|RMX1946|
 |Realme|realme Q|RMX1971CN|RMX1971|
 |Realme|realme X2|RMX1991CN|RMX1991|
 |Realme|realme XT|RMX1921|RMX1921|
+|Realme|realme XT|RMX1922|RMX1922|
 |Realtime|RS405|RS405|RS405|
 |Realtime|RT503|RT503|RT503|
 |Realtime|RT8|RT8|RT8|
@@ -16750,6 +16761,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Remdun|RD62E|RD62E|RD62E|
 |Remdun|RD86|RD86|RD86|
 |Remdun|RD86E|RD86E|RD86E|
+|Reveal 16i|rk3399_rvlEEA_box|rk3399_reveal16i_box|Reveal 16i|
+|Reveal 16i|rk3399_rvl_box|rk3399_reveal16i_box|Reveal 16i|
 |Revko|BE XL|BE_xl|BE_xl|
 |Revo|Pearl|Pearl|Pearl|
 |Revo|Power|Power|Power|

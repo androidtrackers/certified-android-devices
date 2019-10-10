@@ -12811,6 +12811,12 @@
  },
  {
   "brand": "Blackfox",
+  "name": "BMM441W",
+  "device": "BMM441W",
+  "model": "BMM441W"
+ },
+ {
+  "brand": "Blackfox",
   "name": "BMM442D",
   "device": "BMM442D",
   "model": "BMM442D"
@@ -53190,6 +53196,12 @@
   "model": "T1144"
  },
  {
+  "brand": "IQ Touch",
+  "name": "VIATABQX730",
+  "device": "VIATABQX730",
+  "model": "VIATABQX730"
+ },
+ {
   "brand": "IUNI",
   "name": "N1",
   "device": "IUNI_N1",
@@ -65425,6 +65437,12 @@
  },
  {
   "brand": "LGE",
+  "name": "LG Stylo 5+",
+  "device": "cv7as-pr",
+  "model": "LM-Q720"
+ },
+ {
+  "brand": "LGE",
   "name": "LG Stylo3",
   "device": "sf317",
   "model": "LG-M430"
@@ -72373,6 +72391,12 @@
  },
  {
   "brand": "Lenovo",
+  "name": "Lenovo Smart Tab M8",
+  "device": "8705F",
+  "model": "Lenovo TB-8705F"
+ },
+ {
+  "brand": "Lenovo",
   "name": "Lenovo TAB",
   "device": "TB-8803F",
   "model": "Lenovo TB-8803F"
@@ -72472,6 +72496,12 @@
   "name": "Lenovo TAB 8",
   "device": "TB-8304F",
   "model": "Lenovo TB-8304F"
+ },
+ {
+  "brand": "Lenovo",
+  "name": "Lenovo TAB E8",
+  "device": "TB-8304F1",
+  "model": "Lenovo TB-8304F1"
  },
  {
   "brand": "Lenovo",
@@ -91531,6 +91561,12 @@
  },
  {
   "brand": "Oukitel",
+  "name": "K3 Pro",
+  "device": "K3_Pro",
+  "model": "K3_Pro"
+ },
+ {
+  "brand": "Oukitel",
   "name": "K5",
   "device": "K5",
   "model": "K5"
@@ -94810,6 +94846,12 @@
   "name": "Aqua",
   "device": "Aqua",
   "model": "Aqua"
+ },
+ {
+  "brand": "Plaisio",
+  "name": "Aqua_II",
+  "device": "Aqua_II",
+  "model": "Aqua_II"
  },
  {
   "brand": "Plaisio",
@@ -100087,6 +100129,12 @@
  },
  {
   "brand": "Realme",
+  "name": "realme 5",
+  "device": "RMX1925",
+  "model": "RMX1925"
+ },
+ {
+  "brand": "Realme",
   "name": "realme 5Pro",
   "device": "RMX1971",
   "model": "RMX1971"
@@ -100105,6 +100153,18 @@
  },
  {
   "brand": "Realme",
+  "name": "realme 5pro",
+  "device": "RMX1973",
+  "model": "RMX1973"
+ },
+ {
+  "brand": "Realme",
+  "name": "realme C2",
+  "device": "RMX1946",
+  "model": "RMX1946"
+ },
+ {
+  "brand": "Realme",
   "name": "realme Q",
   "device": "RMX1971CN",
   "model": "RMX1971"
@@ -100120,6 +100180,12 @@
   "name": "realme XT",
   "device": "RMX1921",
   "model": "RMX1921"
+ },
+ {
+  "brand": "Realme",
+  "name": "realme XT",
+  "device": "RMX1922",
+  "model": "RMX1922"
  },
  {
   "brand": "Realtime",
@@ -100468,6 +100534,18 @@
   "name": "RD86E",
   "device": "RD86E",
   "model": "RD86E"
+ },
+ {
+  "brand": "Reveal 16i",
+  "name": "rk3399_rvlEEA_box",
+  "device": "rk3399_reveal16i_box",
+  "model": "Reveal 16i"
+ },
+ {
+  "brand": "Reveal 16i",
+  "name": "rk3399_rvl_box",
+  "device": "rk3399_reveal16i_box",
+  "model": "Reveal 16i"
  },
  {
   "brand": "Revko",
