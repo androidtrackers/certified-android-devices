@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-10-10
+Last sync is 2019-10-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3138,6 +3138,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Connectce|Connect Alpha|CNT07002|CNT07002|
 |Connectce|Connect Core 6|Connect_Core_6|CP6001A|
 |Connex|CTAB-1044|CTAB-1044|CTAB-1044|
+|Connex|CTAB1044hn|CTAB1044hn|CTAB1044hn|
 |Conquest|S11|conquest-S11|S11|
 |Contixo|CONTIXO_V8|CONTIXO-V8|V8|
 |Contixo|K101|K101|K101|
@@ -4157,6 +4158,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EPIKONE|K535|K535|K535|
 |EPIKONE|K536|K536|K536|
 |EPIKONE|K573|K573|K573|
+|EPIKONE|K600|K600|K600|
 |EPIKONE|RS550|RS550|RS550|
 |EPIKONE|T700|T700|T700|
 |EPIKONE|X400|X400|X400|
@@ -9015,6 +9017,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Smart 3 Plus|Infinix-X627STU|Infinix X627|
 |Infinix|Smart 3 Plus|Infinix-X627V|Infinix X627V|
 |Infinix|Smart 3 Plus|Infinix-X627W|Infinix X627W|
+|Infinix|Smart 4|Infinix-X653C|Infinix X653C|
 |Infinix|X405|up09_infinix_x405_gms|Infinix X405|
 |Infinix|X505|X505|Infinix X505|
 |Infinix|X521|Infinix-X521|Infinix HOT S|
@@ -9434,6 +9437,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|P12|itel_P12|itel P12|
 |Itel|P13|itel-P13|itel P13|
 |Itel|P13 Plus|itel-P13-Plus|itel P13 Plus|
+|Itel|P15|itel-W5005|itel W5005|
+|Itel|P15|itel-W5005P|itel W5005P|
 |Itel|P31|itel-P31|itel P31|
 |Itel|P32|itel-P32|itel P32|
 |Itel|P33|itel-W5504|itel W5504|
@@ -11306,6 +11311,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|V50|flashlm|LM-V500XM|
 |LGE|V50 ThinQ|flashlm|LM-V450|
 |LGE|V50 ThinQ|flashlmdd|LM-V500|
+|LGE|V50S ThinQ|mh2lm|LM-V510N|
 |LGE|VU3|vu3|LG-F300K|
 |LGE|VU3|vu3|LG-F300L|
 |LGE|VU3|vu3|LG-F300S|
@@ -17064,11 +17070,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A10|a10|SM-A105N|
 |Samsung|Galaxy A10e|a10e|SM-A102U|
 |Samsung|Galaxy A10e|a10e|SM-A102U1|
+|Samsung|Galaxy A10e|a10e|SM-A102W|
 |Samsung|Galaxy A10e|a10e|SM-S102DL|
 |Samsung|Galaxy A10s|a10s|SM-A107F|
 |Samsung|Galaxy A10s|a10s|SM-A107M|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260F|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260G|
+|Samsung|Galaxy A20|SCV46|SCV46|
 |Samsung|Galaxy A20|a20|SM-A205F|
 |Samsung|Galaxy A20|a20|SM-A205FN|
 |Samsung|Galaxy A20|a20|SM-A205G|
@@ -18843,6 +18851,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab Active|rubenslte|SM-T365|
 |Samsung|Galaxy Tab Active|rubenslte|SM-T365Y|
 |Samsung|Galaxy Tab Active Pro|gtactivexl|SM-T545|
+|Samsung|Galaxy Tab Active Pro|gtactivexl|SM-T547|
 |Samsung|Galaxy Tab Active Pro|gtactivexlwifi|SM-T540|
 |Samsung|Galaxy Tab Active2|gtactive2lte|SM-T395|
 |Samsung|Galaxy Tab Active2|gtactive2ltechn|SM-T395C|
@@ -19910,6 +19919,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 10 Plus|I4293|I4293|
 |Sony|Xperia 5|J8210|J8210|
 |Sony|Xperia 5|J9210|J9210|
+|Sony|Xperia 5|SO-01M|SO-01M|
 |Sony|Xperia A|SO-04E|SO-04E|
 |Sony|Xperia A2|SO-04F|SO-04F|
 |Sony|Xperia A4|SO-04G|SO-04G|
@@ -22086,6 +22096,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|SPARK CM|TECNO-KA9|TECNO KA9|
 |Tecno|SPARK Plus|TECNO-K9|TECNO K9|
 |Tecno|SPARK Pro|TECNO-K8|TECNO K8|
+|Tecno|SPARK Youth|TECNO-KA6|TECNO KA6|
 |Tecno|TECNO AX8|TECNO-AX8|TECNO AX8|
 |Tecno|TECNO CAMON 12 Air|TECNO-KC3|TECNO KC3|
 |Tecno|TECNO CAMON 12 Pro|TECNO-CC9|TECNO CC9|
@@ -22969,6 +22980,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V1922A|PD1922|V1922A|
 |Vivo|V1923A|PD1923|V1923A|
 |Vivo|V1924A|PD1924|V1924A|
+|Vivo|V1928A|PD1928|V1928A|
+|Vivo|V1930A|PD1930|V1930A|
 |Vivo|V1Max|Y37|vivo Y37|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
@@ -23077,9 +23090,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo 1901|1901|vivo 1901|
 |Vivo|vivo 1902|1902|vivo 1902|
 |Vivo|vivo 1904|1904|vivo 1904|
+|Vivo|vivo 1906|1906|vivo 1906|
 |Vivo|vivo 1907|1907|vivo 1907|
 |Vivo|vivo 1912|1912|vivo 1912|
 |Vivo|vivo 1913|1913|vivo 1913|
+|Vivo|vivo 1916|1916|vivo 1916|
 |Vivo|vivo NEX A|PD1806|vivo NEX A|
 |Vivo|vivo NEX S|PD1805|vivo NEX S|
 |Vivo|vivo S1|PD1831|V1831A|
@@ -24333,6 +24348,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Blade A511|ZTE_Blade_A511|ZTE Blade A511|
 |ZTE|Blade A515|ZTE_Blade_A511|ZTE Blade A515|
 |ZTE|Blade A570|ZTE_T617|ZTE Blade A570|
+|ZTE|Blade A7 2019-T|Z6100T|Blade A7 2019-T|
 |ZTE|Blade Apex|coeus|Blade Apex|
 |ZTE|Blade Apex|oceanus|ZTE Blade Apex|
 |ZTE|Blade Apex2|msm8226|Blade Apex2|
@@ -25091,6 +25107,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|X9180|X9180|X9180|
 |ZTE|Z-01K|Z-01K|Z-01K|
 |ZTE|Z10|P817E52|ZTE Z10|
+|ZTE|Z3153V|Z3153|Z3153V|
 |ZTE|Z3351S|Z3351|Z3351S|
 |ZTE|Z353VL|oldman|Z353VL|
 |ZTE|Z5031O|Z5031O|Z5031O|

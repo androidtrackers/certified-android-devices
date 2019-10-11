@@ -18798,6 +18798,12 @@
   "model": "CTAB-1044"
  },
  {
+  "brand": "Connex",
+  "name": "CTAB1044hn",
+  "device": "CTAB1044hn",
+  "model": "CTAB1044hn"
+ },
+ {
   "brand": "Conquest",
   "name": "S11",
   "device": "conquest-S11",
@@ -24910,6 +24916,12 @@
   "name": "K573",
   "device": "K573",
   "model": "K573"
+ },
+ {
+  "brand": "EPIKONE",
+  "name": "K600",
+  "device": "K600",
+  "model": "K600"
  },
  {
   "brand": "EPIKONE",
@@ -54061,6 +54073,12 @@
  },
  {
   "brand": "Infinix",
+  "name": "Smart 4",
+  "device": "Infinix-X653C",
+  "model": "Infinix X653C"
+ },
+ {
+  "brand": "Infinix",
   "name": "X405",
   "device": "up09_infinix_x405_gms",
   "model": "Infinix X405"
@@ -56572,6 +56590,18 @@
   "name": "P13 Plus",
   "device": "itel-P13-Plus",
   "model": "itel P13 Plus"
+ },
+ {
+  "brand": "Itel",
+  "name": "P15",
+  "device": "itel-W5005",
+  "model": "itel W5005"
+ },
+ {
+  "brand": "Itel",
+  "name": "P15",
+  "device": "itel-W5005P",
+  "model": "itel W5005P"
  },
  {
   "brand": "Itel",
@@ -67804,6 +67834,12 @@
   "name": "V50 ThinQ",
   "device": "flashlmdd",
   "model": "LM-V500"
+ },
+ {
+  "brand": "LGE",
+  "name": "V50S ThinQ",
+  "device": "mh2lm",
+  "model": "LM-V510N"
  },
  {
   "brand": "LGE",
@@ -102357,6 +102393,12 @@
   "brand": "Samsung",
   "name": "Galaxy A10e",
   "device": "a10e",
+  "model": "SM-A102W"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy A10e",
+  "device": "a10e",
   "model": "SM-S102DL"
  },
  {
@@ -102382,6 +102424,12 @@
   "name": "Galaxy A2 Core",
   "device": "a2corelte",
   "model": "SM-A260G"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy A20",
+  "device": "SCV46",
+  "model": "SCV46"
  },
  {
   "brand": "Samsung",
@@ -113030,6 +113078,12 @@
  {
   "brand": "Samsung",
   "name": "Galaxy Tab Active Pro",
+  "device": "gtactivexl",
+  "model": "SM-T547"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Tab Active Pro",
   "device": "gtactivexlwifi",
   "model": "SM-T540"
  },
@@ -119428,6 +119482,12 @@
   "name": "Xperia 5",
   "device": "J9210",
   "model": "J9210"
+ },
+ {
+  "brand": "Sony",
+  "name": "Xperia 5",
+  "device": "SO-01M",
+  "model": "SO-01M"
  },
  {
   "brand": "Sony",
@@ -132487,6 +132547,12 @@
  },
  {
   "brand": "Tecno",
+  "name": "SPARK Youth",
+  "device": "TECNO-KA6",
+  "model": "TECNO KA6"
+ },
+ {
+  "brand": "Tecno",
   "name": "TECNO AX8",
   "device": "TECNO-AX8",
   "model": "TECNO AX8"
@@ -137785,6 +137851,18 @@
  },
  {
   "brand": "Vivo",
+  "name": "V1928A",
+  "device": "PD1928",
+  "model": "V1928A"
+ },
+ {
+  "brand": "Vivo",
+  "name": "V1930A",
+  "device": "PD1930",
+  "model": "V1930A"
+ },
+ {
+  "brand": "Vivo",
   "name": "V1Max",
   "device": "Y37",
   "model": "vivo Y37"
@@ -138433,6 +138511,12 @@
  },
  {
   "brand": "Vivo",
+  "name": "vivo 1906",
+  "device": "1906",
+  "model": "vivo 1906"
+ },
+ {
+  "brand": "Vivo",
   "name": "vivo 1907",
   "device": "1907",
   "model": "vivo 1907"
@@ -138448,6 +138532,12 @@
   "name": "vivo 1913",
   "device": "1913",
   "model": "vivo 1913"
+ },
+ {
+  "brand": "Vivo",
+  "name": "vivo 1916",
+  "device": "1916",
+  "model": "vivo 1916"
  },
  {
   "brand": "Vivo",
@@ -145969,6 +146059,12 @@
  },
  {
   "brand": "ZTE",
+  "name": "Blade A7 2019-T",
+  "device": "Z6100T",
+  "model": "Blade A7 2019-T"
+ },
+ {
+  "brand": "ZTE",
   "name": "Blade Apex",
   "device": "coeus",
   "model": "Blade Apex"
@@ -150514,6 +150610,12 @@
   "name": "Z10",
   "device": "P817E52",
   "model": "ZTE Z10"
+ },
+ {
+  "brand": "ZTE",
+  "name": "Z3153V",
+  "device": "Z3153",
+  "model": "Z3153V"
  },
  {
   "brand": "ZTE",
