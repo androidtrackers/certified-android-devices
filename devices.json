@@ -37405,6 +37405,12 @@
  },
  {
   "brand": "Haier",
+  "name": "APAC",
+  "device": "hanyang",
+  "model": "haierATV"
+ },
+ {
+  "brand": "Haier",
   "name": "AT7003",
   "device": "AT7003",
   "model": "AT7003"
@@ -53047,9 +53053,27 @@
  },
  {
   "brand": "INOI",
+  "name": "INOI_1",
+  "device": "INOI_1",
+  "model": "INOI 1"
+ },
+ {
+  "brand": "INOI",
+  "name": "INOI_1_Lite_2020",
+  "device": "INOI_1_Lite_2020",
+  "model": "INOI 1 Lite 2020"
+ },
+ {
+  "brand": "INOI",
   "name": "INOI_2",
   "device": "INOI_2",
   "model": "INOI_2"
+ },
+ {
+  "brand": "INOI",
+  "name": "INOI_2_2019",
+  "device": "INOI_2_2019",
+  "model": "INOI 2 2019"
  },
  {
   "brand": "INOI",
@@ -53734,6 +53758,12 @@
   "name": "HOT 8",
   "device": "Infinix-X650D",
   "model": "Infinix X650D"
+ },
+ {
+  "brand": "Infinix",
+  "name": "HOT 8 Lite",
+  "device": "Infinix-X650",
+  "model": "Infinix X650"
  },
  {
   "brand": "Infinix",
@@ -58714,6 +58744,12 @@
   "name": "KWSA80K",
   "device": "XP8800",
   "model": "KWSA80K"
+ },
+ {
+  "brand": "Kenxinda",
+  "name": "A8",
+  "device": "A8",
+  "model": "A8M"
  },
  {
   "brand": "Kenxinda",
@@ -102428,6 +102464,12 @@
  {
   "brand": "Samsung",
   "name": "Galaxy A20",
+  "device": "SC-02M",
+  "model": "SC-02M"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy A20",
   "device": "SCV46",
   "model": "SCV46"
  },
@@ -132259,6 +132301,12 @@
  },
  {
   "brand": "Tecno",
+  "name": "POP 2 Plus",
+  "device": "TECNO-BA2",
+  "model": "TECNO BA2"
+ },
+ {
+  "brand": "Tecno",
   "name": "POP 2 Power",
   "device": "TECNO-B1p",
   "model": "TECNO B1p"
@@ -153280,6 +153328,12 @@
   "name": "TU10MK1",
   "device": "TU10MK1",
   "model": "TU10MK1"
+ },
+ {
+  "brand": "i-Buddie",
+  "name": "TU10MK1_1",
+  "device": "TU10MK1_1",
+  "model": "TU10MK1_1"
  },
  {
   "brand": "i-Mobile",

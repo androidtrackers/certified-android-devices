@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-10-11
+Last sync is 2019-10-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6239,6 +6239,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|AD6B1H|AD6B1H|Smartfren Andromax AD6B1H|
 |Haier|AL40|AL40|Haier_AL40|
 |Haier|AP54|ts18_ap54_kliver|AP54|
+|Haier|APAC|hanyang|haierATV|
 |Haier|AT7003|AT7003|AT7003|
 |Haier|Alpha A1|A1|A1|
 |Haier|Alpha A3|A3|A3|
@@ -8846,7 +8847,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |INOI|INOI 3 LITE|INOI_3_LITE|INOI_3_LITE|
 |INOI|INOI 5 Pro|INOI_5_Pro|INOI_5_Pro|
 |INOI|INOI _7i_Lite|INOI_7i_Lite|INOI_7i_Lite|
+|INOI|INOI_1|INOI_1|INOI 1|
+|INOI|INOI_1_Lite_2020|INOI_1_Lite_2020|INOI 1 Lite 2020|
 |INOI|INOI_2|INOI_2|INOI_2|
+|INOI|INOI_2_2019|INOI_2_2019|INOI 2 2019|
 |INOI|INOI_2_LITE|INOI_2_LITE|INOI_2_LITE|
 |INOI|INOI_3|INOI_3|INOI_3|
 |INOI|INOI_3_LITE|INOI_3_LITE|INOI_3_LITE|
@@ -8961,6 +8965,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|HOT 8|Infinix-X650B|Infinix X650B|
 |Infinix|HOT 8|Infinix-X650C|Infinix X650C|
 |Infinix|HOT 8|Infinix-X650D|Infinix X650D|
+|Infinix|HOT 8 Lite|Infinix-X650|Infinix X650|
 |Infinix|HOT NOTE|Infinix-X551|Infinix-X551|
 |Infinix|HOT S3|Infinix-X573|Infinix X573|
 |Infinix|HOT S3|Infinix-X573|Infinix X573S|
@@ -9791,6 +9796,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kenbo|O61|O61|O61|
 |Kennex|MD7053G|MD7053G|MD7053G|
 |Kenwood|KWSA80K|XP8800|KWSA80K|
+|Kenxinda|A8|A8|A8M|
 |Kenxinda|K10|K10|K10|
 |Kenxinda|K20M|K20M|K20M|
 |Kenxinda|K30M|K30M|K30M|
@@ -17076,6 +17082,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A10s|a10s|SM-A107M|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260F|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260G|
+|Samsung|Galaxy A20|SC-02M|SC-02M|
 |Samsung|Galaxy A20|SCV46|SCV46|
 |Samsung|Galaxy A20|a20|SM-A205F|
 |Samsung|Galaxy A20|a20|SM-A205FN|
@@ -22048,6 +22055,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|POP 1s Pro|TECNO-F4Pro|TECNO F4 Pro|
 |Tecno|POP 2|TECNO-B1|TECNO B1|
 |Tecno|POP 2|TECNO-B1S|TECNO B1S|
+|Tecno|POP 2 Plus|TECNO-BA2|TECNO BA2|
 |Tecno|POP 2 Power|TECNO-B1p|TECNO B1p|
 |Tecno|POP 2F|TECNO-B1f|TECNO B1f|
 |Tecno|POP 2S|TECNO-RA8|TECNO RA8|
@@ -25552,6 +25560,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |i-Buddie|TR10CS1|TR10CS1_2|TR10CS1|
 |i-Buddie|TR10CS1_P|TR10CS1|TR10CS1|
 |i-Buddie|TU10MK1|TU10MK1|TU10MK1|
+|i-Buddie|TU10MK1_1|TU10MK1_1|TU10MK1_1|
 |i-Mobile|A956|A956|A956|
 |i-Mobile|A958|A958|A958|
 |i-Mobile|HP-01A|HP-01A|HP-01A|
