@@ -131077,6 +131077,12 @@
  },
  {
   "brand": "TCT (Alcatel)",
+  "name": "smart tab 7",
+  "device": "Hulk_7_GL_WIFI",
+  "model": "8051"
+ },
+ {
+  "brand": "TCT (Alcatel)",
   "name": "tbd",
   "device": "FERMI_TF",
   "model": "A501DL"
@@ -154126,6 +154132,12 @@
   "name": "N8",
   "device": "iQT_N8",
   "model": "iQ&T N8"
+ },
+ {
+  "brand": "iQandT",
+  "name": "T7G",
+  "device": "T7G",
+  "model": "T7G"
  },
  {
   "brand": "iRainbow",
