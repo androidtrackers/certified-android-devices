@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-10-14
+Last sync is 2019-10-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -80,6 +80,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AMTC|MD1001 Tablet|MD1001|MD1001|
 |AMTC|MD7008|MD7008A|MD7008|
 |AMTC|MD7081|MD7081A|MD7081|
+|AMobile|PD470|PD470|PD470|
 |ANEE|A1 Neo|A1_Neo|A1_Neo|
 |ANS|L51|L51|L51|
 |ANS|Trailblazer|rugged-smartphone|H450R|
@@ -739,6 +740,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Amplify|TR10CD3|TR10CD3_2|TR10CD3|
 |Amstrad|Android TV|R2|ATV R2|
 |Andersson|TBQ-7321|TBQ-7321|TBQ-7321|
+|Andersson|TBQ8322|TBQ8322|TBQ8322|
 |Andersson|TBQ_10321|TBQ_10321|TBQ_10321|
 |Anydata||ASP320Q_GSM|ASP320Q_ANDi|
 |Anydata|Aquaris I8|bq_Aquaris|bq Aquaris|
@@ -2847,6 +2849,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cherry Mobile|Flare S7 Plus|Flare_S7_Plus|Flare S7 Plus|
 |Cherry Mobile|Flare S7 Power|Flare_S7_Power|Flare_S7_Power|
 |Cherry Mobile|Flare S8|X930|Flare S8|
+|Cherry Mobile|Flare S8e|H1990|Flare S8e|
 |Cherry Mobile|Flare Tab|A830|Flare Tab|
 |Cherry Mobile|Flare Tab Pro|A820|Flare Tab Pro|
 |Cherry Mobile|Flare X|Flare_X|Flare_X_V2|
@@ -4892,6 +4895,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fujitsu|M02|M02|M02|
 |Fujitsu|M305|M305|M305|
 |Fujitsu|M305|M305SB|M305|
+|Fujitsu|M359|M359|M359|
 |Fujitsu|M363/P|UY1|M363/P|
 |Fujitsu|M555|M555|M555|
 |Fujitsu|Patio100|Patio100|Patio100|
@@ -4920,6 +4924,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fujitsu|arrows Tab M01T|M01T|M01T|
 |Funai Electric||smdkv210|ALM-001J|
 |Funai Electric|POE-SMB400-FN1|daitou|POE-SMB400-FN1|
+|Fusion5|F104Bv2_PRO|F104Bv2_PRO|F104Bv2_PRO|
 |Fusion5|F104BvII_PRO|F104BvII_PRO|F104BvII_PRO|
 |Fusion5|F105Dv2|F105Dv2|F105Dv2|
 |Fusion5|F105DvII|F105DvII|F105DvII|
@@ -5018,6 +5023,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gasei S.A.|SENSE701|SENSE701|SENSE701|
 |Gasei S.A.|SENSE704G|SENSE704G|SENSE704G|
 |Geanee|FXC-5A|FXC-5A|FXC-5A|
+|Geanee|JT07-90|JT07-90|JT07-90|
 |Geanee|JT10-90|JT10-90|JT10-90|
 |Geant|GEANT T1|GEANT_T1|T1|
 |Gear Mobile|Feel_1008S|Feel_1008S|1008S|
@@ -9961,6 +9967,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|Brigadier|E6782|E6782|
 |Kyocera|DIGNO|KYI11|ISW11K|
 |Kyocera|DIGNO|KYL22|KYL22|
+|Kyocera|DIGNO BX|901KC|901KC|
 |Kyocera|DIGNO Dual|WX04K|WX04K|
 |Kyocera|DIGNO L|KYV36|KYV36|
 |Kyocera|DIGNO R|202K|202K|
@@ -10303,6 +10310,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|G6Fit|lucye|LM-Q850S|
 |LGE|G7 fit|falcon|LM-Q850|
 |LGE|G8S ThinQ|betalm|LM-G810|
+|LGE|G8X ThinQ|mh2lm|LM-G850|
 |LGE|G8s|betalm|LM-G810|
 |LGE|GA7800|eden|LG Android TV V4|
 |LGE|GPAD 7.0 LTE|e7lte|VK410|
@@ -13027,6 +13035,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Meizu|meizu 16Xs|meizu16Xs|meizu 16Xs|
 |Meizu|meizu C9|meizuC9|meizu C9|
 |Meizu|meizu C9 pro|meizuC9pro|meizu C9 pro|
+|Meizu|meizu M10|meizuM10|meizu M10|
 |Meizu|meizu M8|meizuM8|meizu M8|
 |Meizu|meizu M8 lite|M8lite|meizu M8 lite|
 |Meizu|meizu X8|X8|meizu X8|
@@ -13993,6 +14002,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Moviltelco Trade|KIREI A5Q PLUS|Azumi_KIREI_A5Q_PLUS|KIREI A5Q PLUS|
 |Moviltelco Trade|L506|L506|L506|
 |Moviltelco Trade|L570|L570|L570|
+|Moviltelco Trade|L570a|L570a|L570a|
 |Moviltelco Trade|mtt L452|L452|L452|
 |Moviltelco Trade|mtt L509|L509|MTT_L509|
 |Moviltelco Trade S.L|A58B|A58B|A58B|
@@ -15321,10 +15331,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OwnMobile|Smart Plus Lte|SMART_PLUS_LTE|SMART PLUS LTE|
 |Oysters|T72HM3G|T72HM3G|T72HM3G|
 |Oysters|T72HMs 3G|T72HM3G|T72HMs_3G|
+|PAX (CN)|A50|A50|A50|
 |PC Smart|PCSGOB10MVA-A|PCSGOB10MVA-A|PCSGOB10MVA-A|
 |PC Smart|PCSGOB10SF-A|PCSGOB10SF-A|PCSGOB10SF-A|
 |PC Smart|PCSMART|PCSGOB10MVA_A|PCSGOB10MVA_A|
 |PC Smart|PTSGOB8|PTSGOB8|PC_Smart_PTSGOB8|
+|PC Smart|QUICKTAB PLUS|PHABLET|QUICKTAB PLUS|
 |PCBOX|Curi_Lite_PCB-T103|mid1008|PCB-T103 CURI LITE|
 |PCBOX|Kova-PCB-T730|Kova-PCB-T730|Kova-PCB-T730|
 |PCBOX|Kova_PCB-T730|Kova_PCB-T730|Kova_PCB-T730|
@@ -21852,6 +21864,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|one_touch_D920_ALIQ|one_touch_D920|one touch D920|
 |TCT (Alcatel)|onetouch_P689L|POLO55|onetouch_P689L|
 |TCT (Alcatel)|smart tab 7|Hulk_7_GL_WIFI|8051|
+|TCT (Alcatel)|smart tab 7|Hulk_7_KIDS_WIFI|8052|
 |TCT (Alcatel)|tbd|FERMI_TF|A501DL|
 |TCT (Alcatel)|tbd|Mickey6TFUMTS|A576BL|
 |TCT (Alcatel)|tbd|U50A_PLUS_ATT|Alcatel_5059R|
@@ -21940,6 +21953,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Technicolor|Wind|uzw4030wnh|WIND|
 |Technicolor|Wind|uzw4030wnh|Wind|
 |Technocrat|SC777|SC777|SC777|
+|Techpad|1016S|1016S|1016S|
 |Techpad|816|816|816|
 |Techpad|K13|K13|K13|
 |Techpad|M5Plus|M5Plus|M5Plus|
@@ -21961,6 +21975,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Techpad|TechPad_i700|Techpad_i700|Techpad_i700|
 |Techpad|Techpad_Kids_7|Techpad_Kids_7|Techpad_Kids_7|
 |Techpad|X6|X6|X6|
+|Techpad|i700|i700|Tech Pad i700|
 |Techsonic|TECHR720W|TECHR720W|TECHR720W|
 |Teclast|M20_4G|M20_4G|M20_4G|
 |Teclast|P80X|P80X|P80X|
@@ -22919,6 +22934,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ViewSonic|ViewPadi8Q|vsi8q_1_coho|vsi8q_1|
 |ViewSonic|ViewPadi8Q|vsi8q_1_coho|vsi8q_1_coho|
 |Virzo|V501C|V501C|V501C|
+|Virzo|V505c|V505c|V505c|
 |Virzo|VT701|VT701|VT701|
 |Visiontech|PVT-8-A50-R1|PVT-8-A50-R1|PVT-8-A50-R1|
 |Visiontouch|Inspire|VisionTouchInspire|Vision Touch Inspire|

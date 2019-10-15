@@ -450,6 +450,12 @@
   "model": "MD7081"
  },
  {
+  "brand": "AMobile",
+  "name": "PD470",
+  "device": "PD470",
+  "model": "PD470"
+ },
+ {
   "brand": "ANEE",
   "name": "A1 Neo",
   "device": "A1_Neo",
@@ -4402,6 +4408,12 @@
   "name": "TBQ-7321",
   "device": "TBQ-7321",
   "model": "TBQ-7321"
+ },
+ {
+  "brand": "Andersson",
+  "name": "TBQ8322",
+  "device": "TBQ8322",
+  "model": "TBQ8322"
  },
  {
   "brand": "Andersson",
@@ -17053,6 +17065,12 @@
  },
  {
   "brand": "Cherry Mobile",
+  "name": "Flare S8e",
+  "device": "H1990",
+  "model": "Flare S8e"
+ },
+ {
+  "brand": "Cherry Mobile",
   "name": "Flare Tab",
   "device": "A830",
   "model": "Flare Tab"
@@ -29323,6 +29341,12 @@
  },
  {
   "brand": "Fujitsu",
+  "name": "M359",
+  "device": "M359",
+  "model": "M359"
+ },
+ {
+  "brand": "Fujitsu",
   "name": "M363/P",
   "device": "UY1",
   "model": "M363/P"
@@ -29488,6 +29512,12 @@
   "name": "POE-SMB400-FN1",
   "device": "daitou",
   "model": "POE-SMB400-FN1"
+ },
+ {
+  "brand": "Fusion5",
+  "name": "F104Bv2_PRO",
+  "device": "F104Bv2_PRO",
+  "model": "F104Bv2_PRO"
  },
  {
   "brand": "Fusion5",
@@ -30076,6 +30106,12 @@
   "name": "FXC-5A",
   "device": "FXC-5A",
   "model": "FXC-5A"
+ },
+ {
+  "brand": "Geanee",
+  "name": "JT07-90",
+  "device": "JT07-90",
+  "model": "JT07-90"
  },
  {
   "brand": "Geanee",
@@ -59737,6 +59773,12 @@
  },
  {
   "brand": "Kyocera",
+  "name": "DIGNO BX",
+  "device": "901KC",
+  "model": "901KC"
+ },
+ {
+  "brand": "Kyocera",
   "name": "DIGNO Dual",
   "device": "WX04K",
   "model": "WX04K"
@@ -61786,6 +61828,12 @@
   "name": "G8S ThinQ",
   "device": "betalm",
   "model": "LM-G810"
+ },
+ {
+  "brand": "LGE",
+  "name": "G8X ThinQ",
+  "device": "mh2lm",
+  "model": "LM-G850"
  },
  {
   "brand": "LGE",
@@ -78133,6 +78181,12 @@
  },
  {
   "brand": "Meizu",
+  "name": "meizu M10",
+  "device": "meizuM10",
+  "model": "meizu M10"
+ },
+ {
+  "brand": "Meizu",
   "name": "meizu M8",
   "device": "meizuM8",
   "model": "meizu M8"
@@ -83926,6 +83980,12 @@
   "name": "L570",
   "device": "L570",
   "model": "L570"
+ },
+ {
+  "brand": "Moviltelco Trade",
+  "name": "L570a",
+  "device": "L570a",
+  "model": "L570a"
  },
  {
   "brand": "Moviltelco Trade",
@@ -91896,6 +91956,12 @@
   "model": "T72HMs_3G"
  },
  {
+  "brand": "PAX (CN)",
+  "name": "A50",
+  "device": "A50",
+  "model": "A50"
+ },
+ {
   "brand": "PC Smart",
   "name": "PCSGOB10MVA-A",
   "device": "PCSGOB10MVA-A",
@@ -91918,6 +91984,12 @@
   "name": "PTSGOB8",
   "device": "PTSGOB8",
   "model": "PC_Smart_PTSGOB8"
+ },
+ {
+  "brand": "PC Smart",
+  "name": "QUICKTAB PLUS",
+  "device": "PHABLET",
+  "model": "QUICKTAB PLUS"
  },
  {
   "brand": "PCBOX",
@@ -131083,6 +131155,12 @@
  },
  {
   "brand": "TCT (Alcatel)",
+  "name": "smart tab 7",
+  "device": "Hulk_7_KIDS_WIFI",
+  "model": "8052"
+ },
+ {
+  "brand": "TCT (Alcatel)",
   "name": "tbd",
   "device": "FERMI_TF",
   "model": "A501DL"
@@ -131611,6 +131689,12 @@
  },
  {
   "brand": "Techpad",
+  "name": "1016S",
+  "device": "1016S",
+  "model": "1016S"
+ },
+ {
+  "brand": "Techpad",
   "name": "816",
   "device": "816",
   "model": "816"
@@ -131734,6 +131818,12 @@
   "name": "X6",
   "device": "X6",
   "model": "X6"
+ },
+ {
+  "brand": "Techpad",
+  "name": "i700",
+  "device": "i700",
+  "model": "Tech Pad i700"
  },
  {
   "brand": "Techsonic",
@@ -137482,6 +137572,12 @@
   "name": "V501C",
   "device": "V501C",
   "model": "V501C"
+ },
+ {
+  "brand": "Virzo",
+  "name": "V505c",
+  "device": "V505c",
+  "model": "V505c"
  },
  {
   "brand": "Virzo",
