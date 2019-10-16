@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-10-15
+Last sync is 2019-10-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3009,6 +3009,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ColorsMobile|P65|Colors_P65|Colors P65|
 |ColorsMobile|P77_Pride_1E|P77_Pride_1E|P77_Pride_1E|
 |ColorsMobile|P88_Pride_1X|P88_Pride_1X|P88_Pride_1X|
+|ColorsMobile|P95_Pride_7s|P95_Pride_7s|P95_Pride_7s|
 |ColorsMobile|PRIDE 5E|P60|P60|
 |ColorsMobile|Pride 5C|P52_Pride5C|P52_Pride5C|
 |ColorsMobile|Pride5X|P90_Pride5X|P90_Pride5X|
@@ -3627,6 +3628,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Danew|Konnect 510 colors|Konnect_510|Konnect_510_colors|
 |Danew|Konnect 560 Cin\xc3\xa9pix|Konnect_560|Konnect_560|
 |Danew|Konnect 602|Konnect602|Konnect602|
+|Danew|Konnect_508|Konnect_508|Konnect_508|
 |Danew|Konnect_607|Konnect_607|Konnect_607|
 |Danew|Surnaturel_R500|Surnaturel_R500|Surnaturel_R500|
 |Danew|TRACE ONE|T_ONE|T_ONE|
@@ -4643,6 +4645,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fly|Evo Chic 2|IQ459|IQ459 Quad|
 |Fly|Evo Energy4|IQ4501|Evo Energy4|
 |Fly|Evo Tech 3|IQ4414_Quad|IQ4414 Quad|
+|Fly|F22 Star|F22_star|F22 star|
 |Fly|FS402|Stratus_2|FS402|
 |Fly|FS451|Nimbus1|FS451|
 |Fly|FS502|Cirrus_1|FS502|
@@ -9800,6 +9803,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kenbo|K9|K9|K9|
 |Kenbo|O51|O51|O51|
 |Kenbo|O61|O61|O61|
+|Kenbo|O71|O71|O71|
 |Kennex|MD7053G|MD7053G|MD7053G|
 |Kenwood|KWSA80K|XP8800|KWSA80K|
 |Kenxinda|A8|A8|A8M|
@@ -9896,6 +9900,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kogan|Kogan Agora 8 Plus|Agora_8_Plus|Agora 8 Plus|
 |Kogan|Kogan Agora 9|Kogan_Agora_9|Kogan Agora 9|
 |Kogan|Kogan Agora Go|Agora_Go|Agora Go|
+|Kogan|Kogan Agora XI|AGORA_XI|AGORA XI|
 |Kogan|Kogan Agora XS|Kogan_Agora_XS|Agora XS|
 |Komu|K22|K22|K22|
 |Konrow|CITY|CITY|CITY|
@@ -13328,6 +13333,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mint|MINT M341|Mint_M341|M341|
 |Mint|MINT M341|Mint_M341|Mint_M341|
 |Mint|MINT Pandora|MINT_Pandora|MINT Pandora|
+|Mint|MINT_LEGEND|MINT_LEGEND|Legend|
 |Mint|MINT_Pearl_plus|MINT_Pearl_plus|Pearl+_M5PD|
 |Mint|Mint Fusion|Mint_Fusion|Mint Fusion|
 |Mint|Mint Leo|Mint_Leo|Mint Leo|
@@ -14831,6 +14837,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 7 Pro|OnePlus7ProTMO|GM1915|
 |OnePlus|OnePlus 7 Pro 5G|OnePlus7ProNR|GM1920|
 |OnePlus|OnePlus 7T|OnePlus7T|HD1905|
+|OnePlus|OnePlus 7T Pro|OnePlus7TPro|HD1913|
 |OnePlus|OnePlus2|OnePlus2|ONE A2003|
 |OnePlus|OnePlus3|OnePlus3|ONEPLUS A3000|
 |OnePlus|OnePlus3T|OnePlus3T|ONEPLUS A3000|
@@ -16716,6 +16723,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Razer|Razer phone|cheryl_ckh|Phone|
 |Realme|realme 3Pro|RMX1851|RMX1851|
 |Realme|realme 5|RMX1911L1|RMX1911|
+|Realme|realme 5|RMX1915|RMX1915|
 |Realme|realme 5|RMX1919|RMX1919|
 |Realme|realme 5|RMX1925|RMX1925|
 |Realme|realme 5Pro|RMX1971|RMX1971|
@@ -21901,6 +21909,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TWOE|E500A_2019|E500A_2019|E500A_2019|
 |TWOE|F534L|F534L|F534L|
 |TWOE|F572L|F572L|F572L|
+|TWZ Corporation PLC|OX_X1|OX_X1|OX_X1|
+|TWZ Corporation PLC|T10|T10|T10|
 |TWZ Corporation PLC|T11|T11|T11|
 |TWZ Corporation PLC|T12|T12|T12|
 |TWZ Corporation PLC|Tab-PLAY125|Tab-PLAY125|Tab-PLAY125|
@@ -22903,6 +22913,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vgo Tel|Venture V8|VentureV8|Venture V8|
 |Vgo Tel|VentureV10|VentureV10|VentureV10|
 |Vgo Tel|i Smart|i_Smart|i_Smart|
+|Victurio|VI87|VI87|VI87|
 |Vida|GINI_D9|GINI_D9|GINI_D9|
 |Vida|V401|VIDA_V401|VIDA-V401|
 |Vida|V555K|V555K|V555K|

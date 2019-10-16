@@ -18025,6 +18025,12 @@
  },
  {
   "brand": "ColorsMobile",
+  "name": "P95_Pride_7s",
+  "device": "P95_Pride_7s",
+  "model": "P95_Pride_7s"
+ },
+ {
+  "brand": "ColorsMobile",
   "name": "PRIDE 5E",
   "device": "P60",
   "model": "P60"
@@ -21730,6 +21736,12 @@
   "name": "Konnect 602",
   "device": "Konnect602",
   "model": "Konnect602"
+ },
+ {
+  "brand": "Danew",
+  "name": "Konnect_508",
+  "device": "Konnect_508",
+  "model": "Konnect_508"
  },
  {
   "brand": "Danew",
@@ -27826,6 +27838,12 @@
   "name": "Evo Tech 3",
   "device": "IQ4414_Quad",
   "model": "IQ4414 Quad"
+ },
+ {
+  "brand": "Fly",
+  "name": "F22 Star",
+  "device": "F22_star",
+  "model": "F22 star"
  },
  {
   "brand": "Fly",
@@ -58770,6 +58788,12 @@
   "model": "O61"
  },
  {
+  "brand": "Kenbo",
+  "name": "O71",
+  "device": "O71",
+  "model": "O71"
+ },
+ {
   "brand": "Kennex",
   "name": "MD7053G",
   "device": "MD7053G",
@@ -59344,6 +59368,12 @@
   "name": "Kogan Agora Go",
   "device": "Agora_Go",
   "model": "Agora Go"
+ },
+ {
+  "brand": "Kogan",
+  "name": "Kogan Agora XI",
+  "device": "AGORA_XI",
+  "model": "AGORA XI"
  },
  {
   "brand": "Kogan",
@@ -79939,6 +79969,12 @@
  },
  {
   "brand": "Mint",
+  "name": "MINT_LEGEND",
+  "device": "MINT_LEGEND",
+  "model": "Legend"
+ },
+ {
+  "brand": "Mint",
   "name": "MINT_Pearl_plus",
   "device": "MINT_Pearl_plus",
   "model": "Pearl+_M5PD"
@@ -88954,6 +88990,12 @@
   "name": "OnePlus 7T",
   "device": "OnePlus7T",
   "model": "HD1905"
+ },
+ {
+  "brand": "OnePlus",
+  "name": "OnePlus 7T Pro",
+  "device": "OnePlus7TPro",
+  "model": "HD1913"
  },
  {
   "brand": "OnePlus",
@@ -100264,6 +100306,12 @@
   "name": "realme 5",
   "device": "RMX1911L1",
   "model": "RMX1911"
+ },
+ {
+  "brand": "Realme",
+  "name": "realme 5",
+  "device": "RMX1915",
+  "model": "RMX1915"
  },
  {
   "brand": "Realme",
@@ -131377,6 +131425,18 @@
  },
  {
   "brand": "TWZ Corporation PLC",
+  "name": "OX_X1",
+  "device": "OX_X1",
+  "model": "OX_X1"
+ },
+ {
+  "brand": "TWZ Corporation PLC",
+  "name": "T10",
+  "device": "T10",
+  "model": "T10"
+ },
+ {
+  "brand": "TWZ Corporation PLC",
   "name": "T11",
   "device": "T11",
   "model": "T11"
@@ -137386,6 +137446,12 @@
   "name": "i Smart",
   "device": "i_Smart",
   "model": "i_Smart"
+ },
+ {
+  "brand": "Victurio",
+  "name": "VI87",
+  "device": "VI87",
+  "model": "VI87"
  },
  {
   "brand": "Vida",
