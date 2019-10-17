@@ -26238,6 +26238,12 @@
   "model": "EuroleaguePhone"
  },
  {
+  "brand": "Euskaltel",
+  "name": "Euskaltel",
+  "device": "dciw384eus",
+  "model": "Sagemcom_4k ATV"
+ },
+ {
   "brand": "Evercoss",
   "name": "A75 MAX",
   "device": "A75_MAX",
@@ -32344,6 +32350,18 @@
   "name": "Pixel 3a XL",
   "device": "bonito",
   "model": "Pixel 3a XL"
+ },
+ {
+  "brand": "Google",
+  "name": "Pixel 4",
+  "device": "flame",
+  "model": "Pixel 4"
+ },
+ {
+  "brand": "Google",
+  "name": "Pixel 4 XL",
+  "device": "coral",
+  "model": "Pixel 4 XL"
  },
  {
   "brand": "Google",
@@ -61444,6 +61462,12 @@
   "name": "G Pad 5 10.1 FHD",
   "device": "tf10",
   "model": "LM-T600L"
+ },
+ {
+  "brand": "LGE",
+  "name": "G Pad 5 10.1 FHD",
+  "device": "tf10w",
+  "model": "LM-T605"
  },
  {
   "brand": "LGE",
@@ -93127,6 +93151,18 @@
  },
  {
   "brand": "Panasonic",
+  "name": "GX655",
+  "device": "SW3_ATV",
+  "model": "GX655"
+ },
+ {
+  "brand": "Panasonic",
+  "name": "GX655",
+  "device": "SW3_ATV",
+  "model": "PanasonicTV"
+ },
+ {
+  "brand": "Panasonic",
   "name": "GX700C",
   "device": "GX700C",
   "model": "GX700C"
@@ -100500,6 +100536,12 @@
   "model": "Redmi Note 7"
  },
  {
+  "brand": "Redway",
+  "name": "redway10",
+  "device": "redway10",
+  "model": "redway10"
+ },
+ {
   "brand": "Reeder",
   "name": "A8i Q2",
   "device": "A8i-Q2",
@@ -103227,6 +103269,12 @@
   "brand": "Samsung",
   "name": "Galaxy A50s",
   "device": "a50s",
+  "model": "SM-A5070"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy A50s",
+  "device": "a50s",
   "model": "SM-A507FN"
  },
  {
@@ -105232,6 +105280,12 @@
   "name": "Galaxy Fit",
   "device": "GT-S5670L",
   "model": "GT-S5670L"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Fold",
+  "device": "SCV44",
+  "model": "SCV44"
  },
  {
   "brand": "Samsung",
@@ -107368,6 +107422,12 @@
   "name": "Galaxy M30",
   "device": "m30lte",
   "model": "SM-M305M"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy M30s",
+  "device": "m30s",
+  "model": "SM-M3070"
  },
  {
   "brand": "Samsung",
@@ -113949,6 +114009,12 @@
   "brand": "Samsung",
   "name": "Galaxy Tab S6",
   "device": "gts6l",
+  "model": "SM-T867U"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Tab S6",
+  "device": "gts6l",
   "model": "SM-T867V"
  },
  {
@@ -118789,6 +118855,12 @@
  },
  {
   "brand": "Skyworth",
+  "name": "APAC",
+  "device": "SW3H_ATV",
+  "model": "SWTV"
+ },
+ {
+  "brand": "Skyworth",
   "name": "APAC 2K TV",
   "device": "shibuya",
   "model": "SWTV"
@@ -118815,6 +118887,12 @@
   "brand": "Skyworth",
   "name": "Euro",
   "device": "SW3_ATV",
+  "model": "SWTV"
+ },
+ {
+  "brand": "Skyworth",
+  "name": "Europe",
+  "device": "SW3H_ATV",
   "model": "SWTV"
  },
  {
@@ -118862,8 +118940,20 @@
  {
   "brand": "Skyworth",
   "name": "South America",
+  "device": "SW3_ATV",
+  "model": "SWTV"
+ },
+ {
+  "brand": "Skyworth",
+  "name": "South America",
   "device": "globe_sa",
   "model": "globe"
+ },
+ {
+  "brand": "Skyworth",
+  "name": "Taiwan",
+  "device": "SW3H_ATV",
+  "model": "SWTV"
  },
  {
   "brand": "SledovaniTV",
@@ -154294,12 +154384,6 @@
   "name": "N8",
   "device": "iQT_N8",
   "model": "iQ&T N8"
- },
- {
-  "brand": "iQandT",
-  "name": "T7G",
-  "device": "T7G",
-  "model": "T7G"
  },
  {
   "brand": "iRainbow",

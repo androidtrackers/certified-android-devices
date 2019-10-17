@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-10-16
+Last sync is 2019-10-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4378,6 +4378,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Etuline|ETL-S4521|u939e_2|ETL-S4521|
 |Etuline|ETL-S5042|u970_4|ETL-S5042|
 |EuroLeague|I7a|Euroleague|EuroleaguePhone|
+|Euskaltel|Euskaltel|dciw384eus|Sagemcom_4k ATV|
 |Evercoss|A75 MAX|A75_MAX|A75 MAX|
 |Evercoss|A75B|EVERCOSS_A75B|A75B|
 |Evercoss|AT8B|AT8B|AT8B|
@@ -5396,6 +5397,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel 3 XL|crosshatch|Pixel 3 XL|
 |Google|Pixel 3a|sargo|Pixel 3a|
 |Google|Pixel 3a XL|bonito|Pixel 3a XL|
+|Google|Pixel 4|flame|Pixel 4|
+|Google|Pixel 4 XL|coral|Pixel 4 XL|
 |Google|Pixel C|dragon|Pixel C|
 |Google|Pixel Slate|nocturne_cheets|Pixel Slate|
 |Google|Pixel Slate|nocturne_cheets|nocturne|
@@ -10246,6 +10249,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|G Pad 10.1 LTE|e9lte|VK700|
 |LGE|G Pad 5 10.1 FHD|tf10|LM-T600|
 |LGE|G Pad 5 10.1 FHD|tf10|LM-T600L|
+|LGE|G Pad 5 10.1 FHD|tf10w|LM-T605|
 |LGE|G Pad 7.0|e7wifi|LG-V400|
 |LGE|G Pad 7.0|e7wifi|LG-V400S1|
 |LGE|G Pad 7.0|e7wifi|LG-V400Y1|
@@ -15526,6 +15530,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|FZ-X1|FZ-X1VU|FZ-X1|
 |Panasonic|FZ-X1|FZ-X1VUC|FZ-X1|
 |Panasonic|GX600C|GX600C|GX600C|
+|Panasonic|GX655|SW3_ATV|GX655|
+|Panasonic|GX655|SW3_ATV|PanasonicTV|
 |Panasonic|GX700C|GX700C|GX700C|
 |Panasonic|GX880C|GX01C|GX01C|
 |Panasonic|GZ1000|GZ01C|GZ01C|
@@ -16755,6 +16761,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi K20 Pro|raphael|Redmi K20 Pro|
 |Redmi|Redmi K20 Pro|raphael|Redmi K20 Pro Premium Edition|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
+|Redway|redway10|redway10|redway10|
 |Reeder|A8i Q2|A8i-Q2|A8i-Q2|
 |Reeder|M7 Plus|reeder_M7Plus|M7Plus|
 |Reeder|M7Go_2019|M7Go_2019|M7Go_2019|
@@ -17209,6 +17216,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A50|a50|SM-A505W|
 |Samsung|Galaxy A50|a50|SM-A505YN|
 |Samsung|Galaxy A50|a50|SM-S506DL|
+|Samsung|Galaxy A50s|a50s|SM-A5070|
 |Samsung|Galaxy A50s|a50s|SM-A507FN|
 |Samsung|Galaxy A6|a6elteaio|SM-A600AZ|
 |Samsung|Galaxy A6|a6elteatt|SM-A600A|
@@ -17544,6 +17552,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Fit|GT-S5670|GT-S5670|
 |Samsung|Galaxy Fit|GT-S5670B|GT-S5670B|
 |Samsung|Galaxy Fit|GT-S5670L|GT-S5670L|
+|Samsung|Galaxy Fold|SCV44|SCV44|
 |Samsung|Galaxy Fold|winner|SM-F900F|
 |Samsung|Galaxy Fold|winner|SM-F900U|
 |Samsung|Galaxy Fold|winner|SM-F900U1|
@@ -17900,6 +17909,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M20|m20lte|SM-M205M|
 |Samsung|Galaxy M30|m30lte|SM-M305F|
 |Samsung|Galaxy M30|m30lte|SM-M305M|
+|Samsung|Galaxy M30s|m30s|SM-M3070|
 |Samsung|Galaxy M30s|m30s|SM-M307F|
 |Samsung|Galaxy M30s|m30s|SM-M307FN|
 |Samsung|Galaxy M40|m40|SM-M405F|
@@ -18996,6 +19006,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S5e|gts4lvwifichn|SM-T720|
 |Samsung|Galaxy Tab S6|gts6l|SM-T865|
 |Samsung|Galaxy Tab S6|gts6l|SM-T867|
+|Samsung|Galaxy Tab S6|gts6l|SM-T867U|
 |Samsung|Galaxy Tab S6|gts6l|SM-T867V|
 |Samsung|Galaxy Tab S6|gts6lwifi|SM-T860|
 |Samsung|Galaxy Tab2 10.1|espresso10att|SAMSUNG-SGH-I497|
@@ -19803,11 +19814,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SkyLife|UHD2|IC1110|IC1110|
 |SkyLife|skylife LTE TV|DMTS17SS|DMT_1621|
 |Skyview|M5|M5|M5|
+|Skyworth|APAC|SW3H_ATV|SWTV|
 |Skyworth|APAC 2K TV|shibuya|SWTV|
 |Skyworth|Asia|SW3_ATV|SWTV|
 |Skyworth|Asia|globe_ap|globe|
 |Skyworth|Asia|open_fhd_ap|open_fhd|
 |Skyworth|Euro|SW3_ATV|SWTV|
+|Skyworth|Europe|SW3H_ATV|SWTV|
 |Skyworth|Europe|globe_eu|globe|
 |Skyworth|North America|SW3_ATV|SWTV|
 |Skyworth|North America|globe_na|globe|
@@ -19815,7 +19828,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Skyworth|Skyworth|IPBox|ACT4K1007|
 |Skyworth|Skyworth|grape|HPA02|
 |Skyworth|South Africa|open_fhd_sa|open_fhd|
+|Skyworth|South America|SW3_ATV|SWTV|
 |Skyworth|South America|globe_sa|globe|
+|Skyworth|Taiwan|SW3H_ATV|SWTV|
 |SledovaniTV|DV8220|DV8220|DV8220|
 |Smadl|Matri8|Matri8|Matri8|
 |Smadl|SMADL|Matri2|Matri2|
@@ -25721,7 +25736,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iQandT|N3|N3|N3|
 |iQandT|N6|N6|N6|
 |iQandT|N8|iQT_N8|iQ&T N8|
-|iQandT|T7G|T7G|T7G|
 |iRainbow|B12017|B12017|B12017|
 |iReplace|Frog One|FrogOne|FrogOne|
 |iRiver||smdkc110|ILT-MX100|
