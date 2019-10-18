@@ -10045,12 +10045,6 @@
  },
  {
   "brand": "Azumi",
-  "name": "Azumi Kirei A5Q Plus",
-  "device": "Azumi_KIREI_A5Q_PLUS_AC11",
-  "model": "KIREI A5Q PLUS"
- },
- {
-  "brand": "Azumi",
   "name": "Azumi V54",
   "device": "Azumi_V54_AC01",
   "model": "V54"
@@ -10114,12 +10108,6 @@
   "name": "Azumi_KIREI_A4_D",
   "device": "KIREI_A4_D",
   "model": "Azumi_KIREI_A4_D"
- },
- {
-  "brand": "Azumi",
-  "name": "Azumi_KIREI_A5Q_PLUS_AC06",
-  "device": "Azumi_KIREI_A5Q_PLUS_AC06",
-  "model": "KIREI A5Q PLUS"
  },
  {
   "brand": "Azumi",
@@ -10276,6 +10264,12 @@
   "name": "KINZO ICHI A5 QL",
   "device": "KINZO_ichi_A5_QL_NA",
   "model": "KINZO_ichi_A5_QL"
+ },
+ {
+  "brand": "Azumi",
+  "name": "KIREI A5Q PLUS",
+  "device": "Azumi_KIREI_A5Q_PLUS_AC06",
+  "model": "KIREI A5Q PLUS"
  },
  {
   "brand": "Azumi",
@@ -16651,6 +16645,12 @@
  },
  {
   "brand": "Cherry Mobile",
+  "name": "A810",
+  "device": "A810",
+  "model": "Superion S1 Plus DTV"
+ },
+ {
+  "brand": "Cherry Mobile",
   "name": "Cherry S8 Deluxe",
   "device": "Flare_S8_Deluxe",
   "model": "Flare_S8_Deluxe"
@@ -21604,6 +21604,18 @@
   "name": "People Plus",
   "device": "People_Plus",
   "model": "People_Plus"
+ },
+ {
+  "brand": "DaleClick",
+  "name": "T7G",
+  "device": "T7G",
+  "model": "T7G"
+ },
+ {
+  "brand": "DaleClick",
+  "name": "T7W",
+  "device": "T7W",
+  "model": "T7W"
  },
  {
   "brand": "Danew",
@@ -55777,6 +55789,12 @@
  },
  {
   "brand": "Ipro",
+  "name": "Amber5S",
+  "device": "Amber5S",
+  "model": "Amber5S"
+ },
+ {
+  "brand": "Ipro",
   "name": "Amber6",
   "device": "Amber6",
   "model": "Amber6"
@@ -83275,6 +83293,12 @@
  },
  {
   "brand": "Motorola",
+  "name": "Motorola Android 9.0 TV",
+  "device": "shibuya",
+  "model": "FlipkartTV"
+ },
+ {
+  "brand": "Motorola",
   "name": "Motorola one",
   "device": "deen_sprout",
   "model": "motorola one"
@@ -93145,9 +93169,21 @@
  },
  {
   "brand": "Panasonic",
+  "name": "GS655",
+  "device": "shibuya",
+  "model": "GS655"
+ },
+ {
+  "brand": "Panasonic",
   "name": "GX600C",
   "device": "GX600C",
   "model": "GX600C"
+ },
+ {
+  "brand": "Panasonic",
+  "name": "GX655",
+  "device": "SW3H_ATV",
+  "model": "GX655"
  },
  {
   "brand": "Panasonic",
@@ -119677,6 +119713,12 @@
  },
  {
   "brand": "Sony",
+  "name": "Xperia 1 Professional Edition",
+  "device": "J9150",
+  "model": "J9150"
+ },
+ {
+  "brand": "Sony",
   "name": "Xperia 10",
   "device": "I3113",
   "model": "I3113"
@@ -119726,6 +119768,12 @@
  {
   "brand": "Sony",
   "name": "Xperia 5",
+  "device": "901SO",
+  "model": "901SO"
+ },
+ {
+  "brand": "Sony",
+  "name": "Xperia 5",
   "device": "J8210",
   "model": "J8210"
  },
@@ -119740,6 +119788,30 @@
   "name": "Xperia 5",
   "device": "SO-01M",
   "model": "SO-01M"
+ },
+ {
+  "brand": "Sony",
+  "name": "Xperia 5",
+  "device": "SOV41",
+  "model": "SOV41"
+ },
+ {
+  "brand": "Sony",
+  "name": "Xperia 8",
+  "device": "902SO",
+  "model": "902SO"
+ },
+ {
+  "brand": "Sony",
+  "name": "Xperia 8",
+  "device": "SOV42",
+  "model": "SOV42"
+ },
+ {
+  "brand": "Sony",
+  "name": "Xperia 8",
+  "device": "SOV42-u",
+  "model": "SOV42-u"
  },
  {
   "brand": "Sony",
@@ -128350,6 +128422,12 @@
   "name": "Alcatel 3L",
   "device": "Benz",
   "model": "5039Y_RU"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 3T 10",
+  "device": "A3A_10_4G",
+  "model": "8088M"
  },
  {
   "brand": "TCT (Alcatel)",

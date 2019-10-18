@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-10-17
+Last sync is 2019-10-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1679,7 +1679,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|Azumi A5|A5|Azumi A5|
 |Azumi|Azumi A5C|AZUMI_A5C|A5C|
 |Azumi|Azumi K55QL|Azumi_K55QLB|Azumi K55QL|
-|Azumi|Azumi Kirei A5Q Plus|Azumi_KIREI_A5Q_PLUS_AC11|KIREI A5Q PLUS|
 |Azumi|Azumi V54|Azumi_V54_AC01|V54|
 |Azumi|Azumi V54|Azumi_V54_AC23|V54|
 |Azumi|Azumi_ V5_ AC05|Azumi_V5_AC05|V5|
@@ -1691,7 +1690,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|Azumi_K55QL_AC04|Azumi_K55QL_AC04|Azumi K55QL|
 |Azumi|Azumi_KIREI_A45_D|KIREI_A45_D|Azumi_KIREI_A45_D|
 |Azumi|Azumi_KIREI_A4_D|KIREI_A4_D|Azumi_KIREI_A4_D|
-|Azumi|Azumi_KIREI_A5Q_PLUS_AC06|Azumi_KIREI_A5Q_PLUS_AC06|KIREI A5Q PLUS|
 |Azumi|Azumi_KIREI_A5_D|KIREI_A5_D|Azumi_KIREI_A5_D|
 |Azumi|Azumi_Speed_Pro_55|Speed_Pro_55|Azumi_Speed_Pro_55|
 |Azumi|Azumi_V54_MB|Azumi_V54_MB|V54|
@@ -1718,6 +1716,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|KINZO A55 OLi|KINZO_A55_OLi|Azumi_KINZO_A55_OLi|
 |Azumi|KINZO A55QL|KINZO_A55_OLi_CL|Azumi_KINZO_A55_OLi|
 |Azumi|KINZO ICHI A5 QL|KINZO_ichi_A5_QL_NA|KINZO_ichi_A5_QL|
+|Azumi|KIREI A5Q PLUS|Azumi_KIREI_A5Q_PLUS_AC06|KIREI A5Q PLUS|
 |Azumi|KIREI A5Q PLUS|Azumi_KIREI_A5Q_PLUS_AC11|KIREI A5Q PLUS|
 |Azumi|M5PLUS_AC24|Azumi_M5PLUS_AC24|M5+|
 |Azumi|NOBU A55|NOBU_A55_AC01|Azumi NOBU A55|
@@ -2780,6 +2779,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Channel Master|Stream+|dwt765cha|CM-7600|
 |Chemist Warehouse|JR-MB603|JR_MB603|JR_MB603|
 |Chenrui|M40|M40|M40|
+|Cherry Mobile|A810|A810|Superion S1 Plus DTV|
 |Cherry Mobile|Cherry S8 Deluxe|Flare_S8_Deluxe|Flare_S8_Deluxe|
 |Cherry Mobile|Cherry W900 LTE|al7|W900 LTE|
 |Cherry Mobile|CherryRoam|CherryRoam|CherryRoam|
@@ -3606,6 +3606,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DTV (Thai)|P3|Digital_Life_P3|P3|
 |Daehap|DH-B301K|DH-B301K|DH-B301K|
 |Dahl Sweden|People Plus|People_Plus|People_Plus|
+|DaleClick|T7G|T7G|T7G|
+|DaleClick|T7W|T7W|T7W|
 |Danew|DSlide 710|Dslide710|Dslide710|
 |Danew|DSlide 750|Danew_DSlide750|DSlide750|
 |Danew|Dslide 1013|DSlide1013|DSlide 1013|
@@ -9301,6 +9303,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Inverse Net|EP172BZ|EP172BZ|EP172BZ|
 |Inverse Net|EP172PR|EP172PR|EP172PR|
 |Inverse Net|LT101|LT101|LT101|
+|Ipro|Amber5S|Amber5S|Amber5S|
 |Ipro|Amber6|Amber6|Amber6|
 |Ipro|Amber7S|Amber7S|Amber7S|
 |Ipro|Benny|Benny|Benny|
@@ -13884,6 +13887,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|Motoroi|sholest|Milestone XT720|
 |Motorola|Motoroi|sholest|Motorola XT720|
 |Motorola|Motoroi|sholest|XT720|
+|Motorola|Motorola Android 9.0 TV|shibuya|FlipkartTV|
 |Motorola|Motorola one|deen_sprout|motorola one|
 |Motorola|Motosmart|XT389|XT389|
 |Motorola|Motosmart|XT390|XT390|
@@ -15529,7 +15533,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|FZ-X1|FZ-X1|FZ-X1|
 |Panasonic|FZ-X1|FZ-X1VU|FZ-X1|
 |Panasonic|FZ-X1|FZ-X1VUC|FZ-X1|
+|Panasonic|GS655|shibuya|GS655|
 |Panasonic|GX600C|GX600C|GX600C|
+|Panasonic|GX655|SW3H_ATV|GX655|
 |Panasonic|GX655|SW3_ATV|GX655|
 |Panasonic|GX655|SW3_ATV|PanasonicTV|
 |Panasonic|GX700C|GX700C|GX700C|
@@ -19951,6 +19957,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 1|J9110|J9110|
 |Sony|Xperia 1|SO-03L|SO-03L|
 |Sony|Xperia 1|SOV40|SOV40|
+|Sony|Xperia 1 Professional Edition|J9150|J9150|
 |Sony|Xperia 10|I3113|I3113|
 |Sony|Xperia 10|I3123|I3123|
 |Sony|Xperia 10|I4113|I4113|
@@ -19959,9 +19966,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 10 Plus|I3223|I3223|
 |Sony|Xperia 10 Plus|I4213|I4213|
 |Sony|Xperia 10 Plus|I4293|I4293|
+|Sony|Xperia 5|901SO|901SO|
 |Sony|Xperia 5|J8210|J8210|
 |Sony|Xperia 5|J9210|J9210|
 |Sony|Xperia 5|SO-01M|SO-01M|
+|Sony|Xperia 5|SOV41|SOV41|
+|Sony|Xperia 8|902SO|902SO|
+|Sony|Xperia 8|SOV42|SOV42|
+|Sony|Xperia 8|SOV42-u|SOV42-u|
 |Sony|Xperia A|SO-04E|SO-04E|
 |Sony|Xperia A2|SO-04F|SO-04F|
 |Sony|Xperia A4|SO-04G|SO-04G|
@@ -21397,6 +21409,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 3L|Benz|5039D_RU|
 |TCT (Alcatel)|Alcatel 3L|Benz|5039U|
 |TCT (Alcatel)|Alcatel 3L|Benz|5039Y_RU|
+|TCT (Alcatel)|Alcatel 3T 10|A3A_10_4G|8088M|
 |TCT (Alcatel)|Alcatel 3T 8|A3A_8_4G|9027F|
 |TCT (Alcatel)|Alcatel 3T 8|A3A_8_4G|9027Q|
 |TCT (Alcatel)|Alcatel 3T 8|A3A_8_4G|9027T|
