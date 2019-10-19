@@ -15853,6 +15853,12 @@
  },
  {
   "brand": "Casper",
+  "name": "Android TV",
+  "device": "R1",
+  "model": "ATV R1"
+ },
+ {
+  "brand": "Casper",
   "name": "CASPER_L10_4_5G",
   "device": "CASPER_L10_4_5G",
   "model": "CASPER_L10_4.5G"
@@ -26134,6 +26140,12 @@
   "name": "V570_BIG_BEN",
   "device": "V570_BIG_BEN",
   "model": "V570_BIG_BEN"
+ },
+ {
+  "brand": "Erito",
+  "name": "Android TV",
+  "device": "R1",
+  "model": "ATV R1"
  },
  {
   "brand": "Essential Products",
@@ -55795,6 +55807,12 @@
  },
  {
   "brand": "Ipro",
+  "name": "Amber5S_Pro",
+  "device": "Amber5S_Pro",
+  "model": "Amber5S_Pro"
+ },
+ {
+  "brand": "Ipro",
   "name": "Amber6",
   "device": "Amber6",
   "model": "Amber6"
@@ -76156,6 +76174,12 @@
   "name": "iQ8011",
   "device": "iQ8011",
   "model": "iQ8011"
+ },
+ {
+  "brand": "MLS Innovation",
+  "name": "iQ8225_EEA",
+  "device": "iQ8225",
+  "model": "iQ8225"
  },
  {
   "brand": "MLS Innovation",

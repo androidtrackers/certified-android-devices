@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-10-18
+Last sync is 2019-10-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2647,6 +2647,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Casio|Smart Outdoor Watch WSD-F10|koi|CASIO WSD-F10|
 |Casio|WSD-F20|ayu|CASIO WSD-F20|
 |Casio|WSD-F20|ayu|CASIO WSD-F20S|
+|Casper|Android TV|R1|ATV R1|
 |Casper|CASPER_L10_4_5G|CASPER_L10_4_5G|CASPER_L10_4.5G|
 |Casper|L20|L20|L20|
 |Casper|S20|S20|S20|
@@ -4361,6 +4362,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ergo|V540_Level|V540_Level|V540_Level|
 |Ergo|V550_Vision|V550_Vision|V550_Vision|
 |Ergo|V570_BIG_BEN|V570_BIG_BEN|V570_BIG_BEN|
+|Erito|Android TV|R1|ATV R1|
 |Essential Products|PH-1|mata|PH-1|
 |EssentielB|Black Diamond|bird77_a_cu_ics2|Essentielb-Black Diamond|
 |EssentielB|Pyxis|pyxis_boulanger|Essentielb-Pixis|
@@ -9304,6 +9306,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Inverse Net|EP172PR|EP172PR|EP172PR|
 |Inverse Net|LT101|LT101|LT101|
 |Ipro|Amber5S|Amber5S|Amber5S|
+|Ipro|Amber5S_Pro|Amber5S_Pro|Amber5S_Pro|
 |Ipro|Amber6|Amber6|Amber6|
 |Ipro|Amber7S|Amber7S|Amber7S|
 |Ipro|Benny|Benny|Benny|
@@ -12698,6 +12701,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MLS Innovation|iQ1568|iQ1568|iQ1568|
 |MLS Innovation|iQ411M|iQ411M|iQ411M|
 |MLS Innovation|iQ8011|iQ8011|iQ8011|
+|MLS Innovation|iQ8225_EEA|iQ8225|iQ8225|
 |MLS Innovation|iQD10S|iQD10S|iQD10S|
 |MLS Innovation|iQL550|iQL550|iQL550|
 |MLS Innovation|iQM960L|iQM960L|iQM960L|
