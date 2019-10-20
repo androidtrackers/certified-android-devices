@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-10-19
+Last sync is 2019-10-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -23944,6 +23944,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xplore Technologies|XSLATE_D10|XSLATE_D10|iX101B1|
 |Xplore Technologies|XSLATE_D10|XSLATE_D10|iX101D1|
 |Xplore Technologies|XSLATE_D10|XSLATE_D10|iX101D1-FIOS|
+|Xstar|S2|S2|S2|
 |Xtratech|X739Q|bnd8163_tb_n|X739Q|
 |Xtratech|XTRATECH|KT-755M|KT-755M|
 |Xwave|Xpad|Xpad|Xpad_M9_3G|

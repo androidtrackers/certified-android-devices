@@ -143634,6 +143634,12 @@
   "model": "iX101D1-FIOS"
  },
  {
+  "brand": "Xstar",
+  "name": "S2",
+  "device": "S2",
+  "model": "S2"
+ },
+ {
   "brand": "Xtratech",
   "name": "X739Q",
   "device": "bnd8163_tb_n",
