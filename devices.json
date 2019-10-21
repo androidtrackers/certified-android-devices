@@ -2215,6 +2215,12 @@
  },
  {
   "brand": "Advan digital",
+  "name": "G3 Pro",
+  "device": "ADVAN_G3_Pro",
+  "model": "6002"
+ },
+ {
+  "brand": "Advan digital",
   "name": "I Tab",
   "device": "ADVAN_i_Tab",
   "model": "i7_Plus"
@@ -2572,6 +2578,12 @@
   "name": "T737",
   "device": "AFFIX_T737",
   "model": "AFFIX T737"
+ },
+ {
+  "brand": "AfriOne",
+  "name": "CYGNUSX",
+  "device": "CYGNUSX",
+  "model": "CYGNUSX"
  },
  {
   "brand": "AfriOne",
@@ -20604,6 +20616,12 @@
   "model": "X19"
  },
  {
+  "brand": "Cubot",
+  "name": "X20_PRO",
+  "device": "X20_PRO",
+  "model": "X20 PRO"
+ },
+ {
   "brand": "Custom",
   "name": "Ares",
   "device": "Ares",
@@ -22414,6 +22432,12 @@
   "name": "Digi R1",
   "device": "Digi_R1",
   "model": "Digi R1"
+ },
+ {
+  "brand": "Digi",
+  "name": "Digi R2",
+  "device": "Digi_R2",
+  "model": "Digi R2"
  },
  {
   "brand": "DigiLand",
@@ -27871,6 +27895,12 @@
  },
  {
   "brand": "Fly",
+  "name": "F10",
+  "device": "F10",
+  "model": "F10"
+ },
+ {
+  "brand": "Fly",
   "name": "F22 Star",
   "device": "F22_star",
   "model": "F22 star"
@@ -29179,6 +29209,12 @@
  },
  {
   "brand": "Fujitsu",
+  "name": "BZ01",
+  "device": "BZ01",
+  "model": "BZ01"
+ },
+ {
+  "brand": "Fujitsu",
   "name": "Disney Mobile on docomo F-07E",
   "device": "F07E",
   "model": "F-07E"
@@ -29620,6 +29656,12 @@
   "name": "Fusion5_F704B",
   "device": "Fusion5_F704B",
   "model": "Fusion5_F704B"
+ },
+ {
+  "brand": "Fusion5",
+  "name": "KD095",
+  "device": "KD095",
+  "model": "KD095"
  },
  {
   "brand": "Fusion5",
@@ -30898,6 +30940,12 @@
   "name": "GS280",
   "device": "GS280",
   "model": "GS280"
+ },
+ {
+  "brand": "Gigaset",
+  "name": "GS290",
+  "device": "GS290",
+  "model": "GS290"
  },
  {
   "brand": "Gigaset",
@@ -76776,6 +76824,12 @@
   "model": "Start"
  },
  {
+  "brand": "MarQ",
+  "name": "DV6067H",
+  "device": "DV6067H",
+  "model": "DV6067H"
+ },
+ {
   "brand": "Marshall",
   "name": "London",
   "device": "KB-1501",
@@ -76990,6 +77044,12 @@
   "name": "RS-401",
   "device": "RS_401",
   "model": "RS-401"
+ },
+ {
+  "brand": "Maxfone",
+  "name": "MAX 1X",
+  "device": "MAX_1X",
+  "model": "MAX 1X"
  },
  {
   "brand": "Maxfone",
@@ -84208,6 +84268,12 @@
   "name": "X100",
   "device": "X100",
   "model": "X100"
+ },
+ {
+  "brand": "MozaTab",
+  "name": "MTN_E1",
+  "device": "MTN_E1",
+  "model": "TU10MK1"
  },
  {
   "brand": "Mpgio",
@@ -92539,6 +92605,12 @@
  },
  {
   "brand": "Panasonic",
+  "name": "ELUGA I6",
+  "device": "Eluga_I6",
+  "model": "Eluga I6"
+ },
+ {
+  "brand": "Panasonic",
   "name": "ELUGA I7",
   "device": "ELUGA_I7",
   "model": "ELUGA I7"
@@ -99985,6 +100057,12 @@
  },
  {
   "brand": "RCA",
+  "name": "RCA RCT6A03W12",
+  "device": "RCT6A03W12",
+  "model": "RCT6A03W12"
+ },
+ {
+  "brand": "RCA",
   "name": "RCA RCT6A03W13E",
   "device": "RCT6A03W13E",
   "model": "RCT6A03W13E"
@@ -100924,6 +101002,12 @@
   "name": "RQ-768",
   "device": "RQ-768",
   "model": "RQ-768"
+ },
+ {
+  "brand": "RuggON",
+  "name": "PA501",
+  "device": "PA501BG",
+  "model": "PA501"
  },
  {
   "brand": "Ruggear",
@@ -116923,6 +117007,12 @@
  },
  {
   "brand": "Sharp",
+  "name": "AQUOS V",
+  "device": "VGO",
+  "model": "SH-C02"
+ },
+ {
+  "brand": "Sharp",
   "name": "AQUOS Xx",
   "device": "SG404SH",
   "model": "404SH"
@@ -123409,6 +123499,12 @@
  },
  {
   "brand": "Stylo",
+  "name": "S50",
+  "device": "STYLO_S50_Granite",
+  "model": "S50"
+ },
+ {
+  "brand": "Stylo",
   "name": "S50_BOLD",
   "device": "S50_BOLD",
   "model": "S50_BOLD"
@@ -124024,6 +124120,12 @@
   "name": "V100",
   "device": "V100",
   "model": "V100"
+ },
+ {
+  "brand": "Symphony",
+  "name": "V102",
+  "device": "V102",
+  "model": "V102"
  },
  {
   "brand": "Symphony",
@@ -134556,6 +134658,12 @@
   "model": "TM-MID1010"
  },
  {
+  "brand": "Touchmate",
+  "name": "TM-MID792SB",
+  "device": "TM_MID792SB",
+  "model": "TM-MID792SB"
+ },
+ {
   "brand": "Toughshield",
   "name": "R200",
   "device": "R200",
@@ -136150,6 +136258,12 @@
   "name": "V5_Pro",
   "device": "V5_Pro",
   "model": "V5_Pro"
+ },
+ {
+  "brand": "Venus",
+  "name": "V6",
+  "device": "V6",
+  "model": "V6"
  },
  {
   "brand": "Venus",
@@ -139903,6 +140017,12 @@
  },
  {
   "brand": "Vortex",
+  "name": "MUV",
+  "device": "MUV",
+  "model": "MUV"
+ },
+ {
+  "brand": "Vortex",
   "name": "SYNQ",
   "device": "SYNQ",
   "model": "SYNQ"
@@ -140482,6 +140602,12 @@
   "name": "Primo NH3i",
   "device": "Primo_NH3i",
   "model": "Primo NH3i"
+ },
+ {
+  "brand": "Walton",
+  "name": "Primo NH5",
+  "device": "PRIMO_NH5",
+  "model": "PRIMO NH5"
  },
  {
   "brand": "Walton",
@@ -142084,6 +142210,18 @@
   "name": "T10",
   "device": "T10",
   "model": "T10"
+ },
+ {
+  "brand": "Winnovo",
+  "name": "T7_eea",
+  "device": "T7",
+  "model": "T7"
+ },
+ {
+  "brand": "Winnovo",
+  "name": "T8_eea",
+  "device": "T8",
+  "model": "T8"
  },
  {
   "brand": "Wintec",

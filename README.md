@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-10-20
+Last sync is 2019-10-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -374,6 +374,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advan digital|G2|ADVAN_G2|i55C|
 |Advan digital|G2 Pro|ADVAN_G2_Pro|6004|
 |Advan digital|G3|ADVAN_G3|6001|
+|Advan digital|G3 Pro|ADVAN_G3_Pro|6002|
 |Advan digital|I Tab|ADVAN_i_Tab|i7_Plus|
 |Advan digital|I55A|I55A|I55A|
 |Advan digital|I5E|ADVAN_I5E|I5E|
@@ -434,6 +435,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aelion|i8|Aelion_i8|i8|
 |Aeon Communication (IN)|AE1020|AE1020|AE1020|
 |Affix|T737|AFFIX_T737|AFFIX T737|
+|AfriOne|CYGNUSX|CYGNUSX|CYGNUSX|
 |AfriOne|ChampionPro|ChampionPro|ChampionPro|
 |AfriOne|Gravity Z2|Gravity_Z2|Gravity Z2|
 |AfriOne|moxie|moxie|moxie|
@@ -3439,6 +3441,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|RAINBOW 2|RAINBOW_2|RAINBOW 2|
 |Cubot|Rainbow|RAINBOW|RAINBOW|
 |Cubot|X19|X19|X19|
+|Cubot|X20_PRO|X20_PRO|X20 PRO|
 |Custom|Ares|Ares|Ares|
 |Cutepad|Tab_4_M7078|Tab_4_M7078|Tab_4_M7078|
 |Cyrus|CM17|CM17|CM17|
@@ -3741,6 +3744,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Digi|Digi C2|Digi_C2|Digi C2|
 |Digi|Digi K2|Digi_K2|Digi K2|
 |Digi|Digi R1|Digi_R1|Digi R1|
+|Digi|Digi R2|Digi_R2|Digi R2|
 |DigiLand|10542843|10542843|10542843|
 |DigiLand|206886-01|mdt9003|206886-01|
 |DigiLand|Compumax Blue|mid1016_ma|Compumax Blue|
@@ -4650,6 +4654,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fly|Evo Chic 2|IQ459|IQ459 Quad|
 |Fly|Evo Energy4|IQ4501|Evo Energy4|
 |Fly|Evo Tech 3|IQ4414_Quad|IQ4414 Quad|
+|Fly|F10|F10|F10|
 |Fly|F22 Star|F22_star|F22 star|
 |Fly|FS402|Stratus_2|FS402|
 |Fly|FS451|Nimbus1|FS451|
@@ -4868,6 +4873,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fujitsu|ARROWS mu F-07D|f11apo|F-07D|
 |Fujitsu|ARROWS mu F-07D|f11apo|FJJB091|
 |Fujitsu|AceReal One|AceReal0100|AceReal0100|
+|Fujitsu|BZ01|BZ01|BZ01|
 |Fujitsu|Disney Mobile on docomo F-07E|F07E|F-07E|
 |Fujitsu|Disney Mobile on docomo F-08D|blaze|F-08D|
 |Fujitsu|F-01F|F01F|F-01F|
@@ -4942,6 +4948,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fusion5|Fusion5_F104Bv2|Fusion5_F104Bv2|Fusion5_F104Bv2|
 |Fusion5|Fusion5_F104E_EEA|Fusion5_F104E|Fusion5_F104E|
 |Fusion5|Fusion5_F704B|Fusion5_F704B|Fusion5_F704B|
+|Fusion5|KD095|KD095|KD095|
 |Fusion5|T099|T099|T099|
 |Future Mobile Technology|B-52|176HS1050232|176HS1050232|
 |Future Mobile Technology|DRONE|FMT-NM7108-01|FMT-NM7108-01|
@@ -5155,6 +5162,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gigaset|GS190|GS190|GS190|
 |Gigaset|GS195|GS195|GS195|
 |Gigaset|GS280|GS280|GS280|
+|Gigaset|GS290|GS290|GS290|
 |Gigaset|GS80|GS80|GS80|
 |Gigaset|GX290|GX290|GX290|
 |Gigaset|Gigaset GS170|GS170|Gigaset GS170|
@@ -12801,6 +12809,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mantra|MFSTAB|MFSTAB|MFSTAB|
 |Mantra|MFSTAB_74G|MFSTAB_74G|MFSTAB_74G|
 |Mantra|mTerminal100|Start|Start|
+|MarQ|DV6067H|DV6067H|DV6067H|
 |Marshall|London|KB-1501|London|
 |Marvie|MARVIE_CT4|MARVIE-CT4|CT4|
 |Mascom|Mascom_L850|Mascom_L850|Mascom_L850|
@@ -12837,6 +12846,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maxcom|MS553|MS553|MS553|
 |Maxcom|MS571|MS571|MS571|
 |Maxcom|RS-401|RS_401|RS-401|
+|Maxfone|MAX 1X|MAX_1X|MAX 1X|
 |Maxfone|Maxfone|Maxfone|Maxfone|
 |Maximus|D1|D1|Maximus D1|
 |Maximus|D7|D7|D7|
@@ -14040,6 +14050,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Movitel|Movitel_M9104|Movitel_M9104|Movitel_M9104|
 |Moxee Technologies|X10|X10|X10|
 |Moxee Technologies|X100|X100|X100|
+|MozaTab|MTN_E1|MTN_E1|TU10MK1|
 |Mpgio|ATHENA_A10|ATHENA_A10|ATHENA_A10|
 |Mpgio|LEGEND_NEW7|LEGEND_NEW7|LEGEND_NEW7|
 |Mpgio|LEGEND_R|LEGEND_R|LEGEND_R|
@@ -15428,6 +15439,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|ELUGA I3 Mega|Eluga_I3_Mega|ELUGA I3 Mega|
 |Panasonic|ELUGA I4|ELUGA_I4|ELUGA I4|
 |Panasonic|ELUGA I5|ELUGA_I5|ELUGA_I5|
+|Panasonic|ELUGA I6|Eluga_I6|Eluga I6|
 |Panasonic|ELUGA I7|ELUGA_I7|ELUGA I7|
 |Panasonic|ELUGA I7 EE|ELUGA_I7_EE|ELUGA_I7_EE|
 |Panasonic|ELUGA I9|ELUGA_I9|Eluga I9|
@@ -16669,6 +16681,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|RCA RCT6613W23PU|RCT6613W23PU|RCT6613W23PU|
 |RCA|RCA RCT6703W13|RCT6703W13|RCT6703W13|
 |RCA|RCA RCT6973W43MDC8|RCT6973W43MDC8|RCT6973W43MDC8|
+|RCA|RCA RCT6A03W12|RCT6A03W12|RCT6A03W12|
 |RCA|RCA RCT6A03W13E|RCT6A03W13E|RCT6A03W13E|
 |RCA|RCA RCT6B03W12|RCT6B03W12|RCT6B03W12|
 |RCA|RCA RCT6B03W13|RCT6B03W13|RCT6B03W13|
@@ -16826,6 +16839,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Royaltek|FGAD|FGAD|FGAD|
 |Royqueen|RQ-712|RQ-712|RQ-712|
 |Royqueen|RQ-768|RQ-768|RQ-768|
+|RuggON|PA501|PA501BG|PA501|
 |Ruggear|CP250|cp250_gts|cp250_gts|
 |Ruggear|DEWALT MD501|md501|DeWalt MD501|
 |Ruggear|IMO S|IMO_S|IMO_S|
@@ -19492,6 +19506,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS SH-RM02|SH-RM02|SH-RM02|
 |Sharp|AQUOS U SHV35|SHV35|SHV35|
 |Sharp|AQUOS U SHV37|FSP|SHV37|
+|Sharp|AQUOS V|VGO|SH-C02|
 |Sharp|AQUOS Xx|SG404SH|404SH|
 |Sharp|AQUOS Xx 3|SG506SH|506SH|
 |Sharp|AQUOS Xx 304SH|SG304SH|304SH|
@@ -20573,6 +20588,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stylo|S49 MONO|S49_MONO|S49 MONO|
 |Stylo|S49_Cobalt|S49_cobalt|S49 cobalt|
 |Stylo|S49_POISE|S49_POISE|S49_POISE|
+|Stylo|S50|STYLO_S50_Granite|S50|
 |Stylo|S50_BOLD|S50_BOLD|S50_BOLD|
 |Stylo|S53_STARK|S53_STARK|S53_STARK|
 |Stylo|S54 Zen|CPE91|CPE91|
@@ -20676,6 +20692,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|SYMTAB60|SYMTAB60|SYMTAB60|
 |Symphony|Symphony_Z9|Z9|Symphony Z9|
 |Symphony|V100|V100|V100|
+|Symphony|V102|V102|V102|
 |Symphony|V110|V110|V110|
 |Symphony|V120|V120|V120|
 |Symphony|V125|V125|V125|
@@ -22431,6 +22448,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Touch plus|770N|770N|770N|
 |Touch plus|AS1000|AS1000|AS1000|
 |Touchmate|TM-MID1010|TM-MID1010|TM-MID1010|
+|Touchmate|TM-MID792SB|TM_MID792SB|TM-MID792SB|
 |Toughshield|R200|R200|R200|
 |Toughshield|T700_TABLET|T700_TABLET|T700|
 |Transvision|Transvision|USB6_IR80|TRANSVISION-iTV|
@@ -22697,6 +22715,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Venus|V5Plus Lite|V5_Plus_Lite|V5_Plus_Lite|
 |Venus|V5_Plus_|V5_Plus_|V5_Plus_|
 |Venus|V5_Pro|V5_Pro|V5_Pro|
+|Venus|V6|V6|V6|
 |Venus|Venus V6|Samos|Venus V6|
 |VerD|E1|E1|E1|
 |VerD|E2|E2|E2|
@@ -23322,6 +23341,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vorago|PAD-7|PAD-7|PAD-7|
 |Vorago|PAD-7-V5|PAD-7-V5|PAD-7-V5|
 |Vortex|Beat 8|BEAT8|BEAT 8|
+|Vortex|MUV|MUV|MUV|
 |Vortex|SYNQ|SYNQ|SYNQ|
 |Vortex|Sync|Sync|Sync|
 |Vortex|V50LTE|V50LTE|V50LTE|
@@ -23419,6 +23439,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|Primo NH3|Primo_NH3|Primo NH3|
 |Walton|Primo NH3 Lite|Primo_NH3_Lite|Primo NH3 Lite|
 |Walton|Primo NH3i|Primo_NH3i|Primo NH3i|
+|Walton|Primo NH5|PRIMO_NH5|PRIMO NH5|
 |Walton|Primo NX3|Primo_NX3|Primo_NX3|
 |Walton|Primo NX4|Primo_NX4|Primo NX4|
 |Walton|Primo NX4 mini|Primo_NX4_mini|Primo NX4 mini|
@@ -23686,6 +23707,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Winmax|X50|X50|X50|
 |Winmax|x40|X40|X40|
 |Winnovo|T10|T10|T10|
+|Winnovo|T7_eea|T7|T7|
+|Winnovo|T8_eea|T8|T8|
 |Wintec|T730|T730|Clear|
 |Wintec|T730|T730|T730|
 |Wintec|T750|T750|Clear|
