@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-10-21
+Last sync is 2019-10-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -450,6 +450,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ainol|7C08X|7C08X|7C08X|
 |Ainol|Q88A_EEA|Q88A_EEA|Q88A|
 |AirTV|AirTV Mini|kunlun|AirTV Mini|
+|AirTV|DV8535|DV8535|DV8535|
 |Airtab|AT8-N|AT8-N|AT8-N|
 |Airtel|HP2707|AirtelOTTBox|HP2707|
 |Airtel|SH960S-AT|ganesa|SH960S-AT|
@@ -1152,6 +1153,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ark|Impulse P2|Impulse_P2|Impulse_P2|
 |Ark|S504|S504|S504|
 |Ark|Wizard 1|Wizard_1|Wizard_1|
+|Artel|ALO|ALO|ALO|
 |Artel|Android TV|R1|ATV R1|
 |Artel|Artel U5|U5|U5|
 |Artel|Starpad_T-181|Starpad|Starpad_T-181|
@@ -2852,6 +2854,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cherry Mobile|Flare S7 Plus|Flare_S7_Plus|Flare S7 Plus|
 |Cherry Mobile|Flare S7 Power|Flare_S7_Power|Flare_S7_Power|
 |Cherry Mobile|Flare S8|X930|Flare S8|
+|Cherry Mobile|Flare S8 Max|X970|Flare S8 Max|
 |Cherry Mobile|Flare S8e|H1990|Flare S8e|
 |Cherry Mobile|Flare Tab|A830|Flare Tab|
 |Cherry Mobile|Flare Tab Pro|A820|Flare Tab Pro|
@@ -3610,8 +3613,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DTV (Thai)|P3|Digital_Life_P3|P3|
 |Daehap|DH-B301K|DH-B301K|DH-B301K|
 |Dahl Sweden|People Plus|People_Plus|People_Plus|
-|DaleClick|T7G|T7G|T7G|
-|DaleClick|T7W|T7W|T7W|
 |Danew|DSlide 710|Dslide710|Dslide710|
 |Danew|DSlide 750|Danew_DSlide750|DSlide750|
 |Danew|Dslide 1013|DSlide1013|DSlide 1013|
@@ -8755,6 +8756,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hurricane|Hurricane_IGNITE|Hurricane_IGNITE|Hurricane_IGNITE|
 |Hurricane|INFINITY|INFINITY|INFINITY|
 |Hurricane|Icon|Icon|Icon|
+|Hurricane|Iris|Iris|Iris|
 |Hurricane|LINK|LINK|LINK|
 |Hurricane|Lynx|Lynx|Lynx|
 |Hurricane|Onyx|Hurricane_Onyx|Onyx|
@@ -12468,6 +12470,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logic Instrument|Fieldbook K80|lifbk80|Logic Instrument Fieldbook K80|
 |Logic Instrument|Logic Instrument Fieldbook KS80|lifbks80|Logic Instrument Fieldbook KS80|
 |Logic Instrument|Logic Instrument Fieldbook N80|lifbn80|Logic Instrument Fieldbook N80|
+|Logic Mobility|L57|Logic_L57|Logic L57|
 |Logic Mobility|L5G|L5G|L5G|
 |Logic Mobility|LOGIC_L55S|LOGIC_L55S|LOGIC L55S|
 |Logic Mobility|LOGIC_L5D|LOGIC_L5D|LOGIC_L5D|
@@ -12648,6 +12651,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M-tech|Shine|Shine|Shine|
 |M3 Mobile|M3 SM15N|M3SM15N|M3SM15N|
 |M3 Mobile|M3 SM15X|M3SM15X|M3SM15X|
+|M3 Mobile|M3 UL20F|M3UL20F|M3UL20F|
+|M3 Mobile|M3 UL20W|M3UL20W|M3UL20W|
 |M3 Mobile|M3-SL10|M3-SL10|M3-SL10|
 |M3 Mobile|M3SL10|M3SL10|M3SL10|
 |M4tel|M4 B1|M4_B1|M4_B1|
@@ -12761,6 +12766,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MTN Group|Sting|Sting|Sting|
 |MTN-E70|MTN-E70|MTN-E70|MTN-E70|
 |MTR (MY)|MT9|MT9|MT9|
+|MTS (RU)|B866|B866_MTS_OTT|B866|
 |MTT|Master|Master|M.T.T. Master|
 |MTT|Smart Fun|SmartFun|M.T.T. Smart Fun|
 |MTab|MT3|MT3|MT3|
@@ -13032,6 +13038,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Meizu|15 Plus|15Plus|15 Plus|
 |Meizu|16|16|16|
 |Meizu|16 X|16X|16 X|
+|Meizu|16T|meizu16T|16T|
 |Meizu|16s|16s|16s|
 |Meizu|16s pro|meizu16sPro|16s Pro|
 |Meizu|16th|16th|16th|
@@ -13431,6 +13438,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|FRIO|FRIO|FRIO|
 |Mobicell|Fever_Plus|Fever_Plus|Fever_Plus|
 |Mobicell|Fever_Plus_J|Fever_Plus_J|Fever_Plus_J|
+|Mobicell|GLO_2|GLO_2|GLO 2|
 |Mobicell|HERO X|HERO_X|HERO_X|
 |Mobicell|HYPE|HYPE|HYPE|
 |Mobicell|Icon|Mobicel_Icon|Icon|
@@ -13453,6 +13461,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|R3|R3|R3|
 |Mobicell|R4|R4|R4|
 |Mobicell|R4 LTE|R4_LTE|R4 LTE|
+|Mobicell|R7|R7|R7|
 |Mobicell|R8|R8|R8|
 |Mobicell|R9_LITE|R9_LITE|R9 LITE|
 |Mobicell|REBEL|REBEL|REBEL|
@@ -16593,6 +16602,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Qoobex|Qphone2019_A|Qphone2019_A|Qphone2019_A|
 |Qpad|XL PLUS|t591_hwd_q19_hiya_we|XL PLUS|
 |Qsmart|LT950|LT950|LT950|
+|Qsmart|QSmart Canopus|Canopus|QSmart_Canopus|
 |Qsmart|View|View|View|
 |Qtouch|Q01A|Q01A|Q01A|
 |Qtouch|Q05A|Q05A|Q05A|
@@ -16687,6 +16697,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|RCA RCT6B03W13|RCT6B03W13|RCT6B03W13|
 |RCA|RCA RCT6B06P23|RCT6B06P23|RCT6B06P23|
 |RCA|RCA RCT6B83W12|RCT6B83W12|RCT6B83W12|
+|RCA|RCA RCT6B86E12|RCT6B86E12|RCT6B86E12|
 |RCA|RCA RCT6S03W12|RCT6S03W12|RCT6S03W12|
 |RCA|RCA RCT6S03W14|RCT6S03W14|RCT6S03W14|
 |RCA|RCA_G2|RCA_G2|RCA G2|
@@ -20693,6 +20704,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|Symphony_Z9|Z9|Symphony Z9|
 |Symphony|V100|V100|V100|
 |Symphony|V102|V102|V102|
+|Symphony|V105|V105|V105|
 |Symphony|V110|V110|V110|
 |Symphony|V120|V120|V120|
 |Symphony|V125|V125|V125|
@@ -25628,6 +25640,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |duraMOBI|DK66|DK66|DK66|
 |eBox|EBoxTv|diw387eb|EboxTV|
 |eSTREAM 4K|IPA1104HDW-02|kunlun|IPA1104HDW-02|
+|ecom|Ex-Handy 10|Ex-Handy10|Ex-Handy 10 ROW|
+|ecom|Smart-Ex02|Smart-Ex02|Smart-Ex02 ROW|
 |halotel|H8502|H8502|H8502|
 |i-Buddie|TA10CA1|TA10CA1|TA10CA1|
 |i-Buddie|TA10CA2|TA10CA2|TA10CA2|
@@ -25777,6 +25791,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iQandT|N3|N3|N3|
 |iQandT|N6|N6|N6|
 |iQandT|N8|iQT_N8|iQ&T N8|
+|iQual|T7G|T7G|T7G|
+|iQual|T7W|T7W|T7W|
 |iRainbow|B12017|B12017|B12017|
 |iReplace|Frog One|FrogOne|FrogOne|
 |iRiver||smdkc110|ILT-MX100|

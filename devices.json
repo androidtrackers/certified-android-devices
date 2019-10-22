@@ -2670,6 +2670,12 @@
   "model": "AirTV Mini"
  },
  {
+  "brand": "AirTV",
+  "name": "DV8535",
+  "device": "DV8535",
+  "model": "DV8535"
+ },
+ {
   "brand": "Airtab",
   "name": "AT8-N",
   "device": "AT8-N",
@@ -6880,6 +6886,12 @@
   "name": "Wizard 1",
   "device": "Wizard_1",
   "model": "Wizard_1"
+ },
+ {
+  "brand": "Artel",
+  "name": "ALO",
+  "device": "ALO",
+  "model": "ALO"
  },
  {
   "brand": "Artel",
@@ -17083,6 +17095,12 @@
  },
  {
   "brand": "Cherry Mobile",
+  "name": "Flare S8 Max",
+  "device": "X970",
+  "model": "Flare S8 Max"
+ },
+ {
+  "brand": "Cherry Mobile",
   "name": "Flare S8e",
   "device": "H1990",
   "model": "Flare S8e"
@@ -21628,18 +21646,6 @@
   "name": "People Plus",
   "device": "People_Plus",
   "model": "People_Plus"
- },
- {
-  "brand": "DaleClick",
-  "name": "T7G",
-  "device": "T7G",
-  "model": "T7G"
- },
- {
-  "brand": "DaleClick",
-  "name": "T7W",
-  "device": "T7W",
-  "model": "T7W"
  },
  {
   "brand": "Danew",
@@ -52501,6 +52507,12 @@
  },
  {
   "brand": "Hurricane",
+  "name": "Iris",
+  "device": "Iris",
+  "model": "Iris"
+ },
+ {
+  "brand": "Hurricane",
   "name": "LINK",
   "device": "LINK",
   "model": "LINK"
@@ -74779,6 +74791,12 @@
  },
  {
   "brand": "Logic Mobility",
+  "name": "L57",
+  "device": "Logic_L57",
+  "model": "Logic L57"
+ },
+ {
+  "brand": "Logic Mobility",
   "name": "L5G",
   "device": "L5G",
   "model": "L5G"
@@ -75859,6 +75877,18 @@
  },
  {
   "brand": "M3 Mobile",
+  "name": "M3 UL20F",
+  "device": "M3UL20F",
+  "model": "M3UL20F"
+ },
+ {
+  "brand": "M3 Mobile",
+  "name": "M3 UL20W",
+  "device": "M3UL20W",
+  "model": "M3UL20W"
+ },
+ {
+  "brand": "M3 Mobile",
   "name": "M3-SL10",
   "device": "M3-SL10",
   "model": "M3-SL10"
@@ -76534,6 +76564,12 @@
   "name": "MT9",
   "device": "MT9",
   "model": "MT9"
+ },
+ {
+  "brand": "MTS (RU)",
+  "name": "B866",
+  "device": "B866_MTS_OTT",
+  "model": "B866"
  },
  {
   "brand": "MTT",
@@ -78160,6 +78196,12 @@
   "name": "16 X",
   "device": "16X",
   "model": "16 X"
+ },
+ {
+  "brand": "Meizu",
+  "name": "16T",
+  "device": "meizu16T",
+  "model": "16T"
  },
  {
   "brand": "Meizu",
@@ -80557,6 +80599,12 @@
  },
  {
   "brand": "Mobicell",
+  "name": "GLO_2",
+  "device": "GLO_2",
+  "model": "GLO 2"
+ },
+ {
+  "brand": "Mobicell",
   "name": "HERO X",
   "device": "HERO_X",
   "model": "HERO_X"
@@ -80686,6 +80734,12 @@
   "name": "R4 LTE",
   "device": "R4_LTE",
   "model": "R4 LTE"
+ },
+ {
+  "brand": "Mobicell",
+  "name": "R7",
+  "device": "R7",
+  "model": "R7"
  },
  {
   "brand": "Mobicell",
@@ -99529,6 +99583,12 @@
  },
  {
   "brand": "Qsmart",
+  "name": "QSmart Canopus",
+  "device": "Canopus",
+  "model": "QSmart_Canopus"
+ },
+ {
+  "brand": "Qsmart",
   "name": "View",
   "device": "View",
   "model": "View"
@@ -100090,6 +100150,12 @@
   "name": "RCA RCT6B83W12",
   "device": "RCT6B83W12",
   "model": "RCT6B83W12"
+ },
+ {
+  "brand": "RCA",
+  "name": "RCA RCT6B86E12",
+  "device": "RCT6B86E12",
+  "model": "RCT6B86E12"
  },
  {
   "brand": "RCA",
@@ -124126,6 +124192,12 @@
   "name": "V102",
   "device": "V102",
   "model": "V102"
+ },
+ {
+  "brand": "Symphony",
+  "name": "V105",
+  "device": "V105",
+  "model": "V105"
  },
  {
   "brand": "Symphony",
@@ -153738,6 +153810,18 @@
   "model": "IPA1104HDW-02"
  },
  {
+  "brand": "ecom",
+  "name": "Ex-Handy 10",
+  "device": "Ex-Handy10",
+  "model": "Ex-Handy 10 ROW"
+ },
+ {
+  "brand": "ecom",
+  "name": "Smart-Ex02",
+  "device": "Smart-Ex02",
+  "model": "Smart-Ex02 ROW"
+ },
+ {
   "brand": "halotel",
   "name": "H8502",
   "device": "H8502",
@@ -154630,6 +154714,18 @@
   "name": "N8",
   "device": "iQT_N8",
   "model": "iQ&T N8"
+ },
+ {
+  "brand": "iQual",
+  "name": "T7G",
+  "device": "T7G",
+  "model": "T7G"
+ },
+ {
+  "brand": "iQual",
+  "name": "T7W",
+  "device": "T7W",
+  "model": "T7W"
  },
  {
   "brand": "iRainbow",
