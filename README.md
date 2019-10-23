@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-10-22
+Last sync is 2019-10-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -412,6 +412,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advance|ADVANCE|SP4871|SP4871|
 |Advance|Advance|Tr4995|Tr4995|
 |Advance|HL4736|HL4736|HL4736|
+|Advance|HL4936|HL4936|HL4936|
 |Advance|HL5576|HL5576|HL5576|
 |Advance|HL5585|HL5585|HL5585|
 |Advance|HL5677|HL5677|HL5677|
@@ -1992,6 +1993,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Barnes and Noble|NOOK\xc2\xae HD+|ovation|BNTV600|
 |Barnes and Noble|Nook Tablet 7\xe2\x80\x9d|st16c7bnn|BNTV450|
 |Battcell|M7042F|M7042F|M7042F|
+|Bauhn|Australia|hanyang|Tempo Android TV|
 |Becrypt|Convex 430|granite|Becrypt Convex 430|
 |Becrypt|Convex 430|granite|Becrypt Indigo 430|
 |Beeline|Beeline\xc2\xa0Pro 4|Beeline_Pro_4|Beeline Pro 4|
@@ -3724,7 +3726,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Denver Electronics|TAQ_703_eea|TAQ_703_eea|TAQ_703_eea|
 |Denver Electronics|TIQ-102|TIQ102|TIQ-102|
 |Denver Electronics|TIQ-104|TIQ104|TIQ-104|
-|Deutsche Telekom|KSTB6077|KSTB6077|KSTB6077|
 |DiMora Mobile|Adrenalin Pro|Adrenalin_Pro|Adrenalin Pro|
 |DiMora Mobile|DiMora_LUX|DiMora_LUX|DiMora_LUX|
 |DiMora Mobile|InnoV8|InnoV8|InnoV8|
@@ -9768,6 +9769,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kanji|KJ_OB03|KJ_OB03|KJ_OB03|
 |Kanji|KJ_YUBI|KJ_YUBI|KJ_YUBI|
 |Kanji|KJ_YU_BI|KJ_YU_BI|KJ_YU_BI|
+|KaonMedia|KSTB6077|KSTB6077|KSTB6077|
 |Kapsys|SmartVision2|r889|KAP11000|
 |Karbonn|A1 Indian|A1_Indian|A1 Indian|
 |Karbonn|A40 Indian|A40_Indian|A40 Indian|
@@ -11356,6 +11358,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|VU3|vu3|LG-F300S|
 |LGE|W10|LMX130IM|LMX130IM|
 |LGE|W30|LM-X440IM|LM-X440IM|
+|LGE|W30|LM-X440ZM|LM-X440ZM|
 |LGE|WM-LG8200|b6|LG-V425|
 |LGE|WM-LG8200|b6|WM-LG8200|
 |LGE|Wine Smart|cf|LGS01|
@@ -13429,6 +13432,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|BERRY PLUS|BERRY_PLUS|BERRY_PLUS|
 |Mobicell|BERRY1|BERRY1|BERRY1|
 |Mobicell|CHERRY|CHERRY|CHERRY|
+|Mobicell|CLIK|CLIK|CLIK|
 |Mobicell|COSMO|COSMO|COSMO|
 |Mobicell|Candy|Candy|Candy|
 |Mobicell|DANDY|DANDY|DANDY|
@@ -19376,6 +19380,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Seemahale Telecoms|ST5000|ST5000|ST5000|
 |Selectron|T856G|T856G|T856G|
 |Selfix|SELFIX_ES732_EXPERIUS|EXPERIUS|SELFIX_ES732_EXPERIUS|
+|Selfix|X7|X7|X7|
 |Selvas|BrailleSense Polaris|polaris|BrailleSensePolaris|
 |Senseit|A109|SENSEIT_A109|SENSEIT_A109|
 |Senseit|C205|C205|C205|
@@ -20728,6 +20733,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|V97|V97|V97|
 |Symphony|V98|V98|V98|
 |Symphony|Z10|Z10|SYMPHONY Z10|
+|Symphony|Z20|Z20|Z20|
 |Symphony|ZVII|ZVII|ZVII|
 |Symphony|ZVIII|ZVIII|ZVIII|
 |Symphony|i10|i10|i10|

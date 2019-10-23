@@ -2443,6 +2443,12 @@
  },
  {
   "brand": "Advance",
+  "name": "HL4936",
+  "device": "HL4936",
+  "model": "HL4936"
+ },
+ {
+  "brand": "Advance",
   "name": "HL5576",
   "device": "HL5576",
   "model": "HL5576"
@@ -11920,6 +11926,12 @@
   "name": "M7042F",
   "device": "M7042F",
   "model": "M7042F"
+ },
+ {
+  "brand": "Bauhn",
+  "name": "Australia",
+  "device": "hanyang",
+  "model": "Tempo Android TV"
  },
  {
   "brand": "Becrypt",
@@ -22312,12 +22324,6 @@
   "name": "TIQ-104",
   "device": "TIQ104",
   "model": "TIQ-104"
- },
- {
-  "brand": "Deutsche Telekom",
-  "name": "KSTB6077",
-  "device": "KSTB6077",
-  "model": "KSTB6077"
  },
  {
   "brand": "DiMora Mobile",
@@ -58578,6 +58584,12 @@
   "model": "KJ_YU_BI"
  },
  {
+  "brand": "KaonMedia",
+  "name": "KSTB6077",
+  "device": "KSTB6077",
+  "model": "KSTB6077"
+ },
+ {
   "brand": "Kapsys",
   "name": "SmartVision2",
   "device": "r889",
@@ -68104,6 +68116,12 @@
   "name": "W30",
   "device": "LM-X440IM",
   "model": "LM-X440IM"
+ },
+ {
+  "brand": "LGE",
+  "name": "W30",
+  "device": "LM-X440ZM",
+  "model": "LM-X440ZM"
  },
  {
   "brand": "LGE",
@@ -80542,6 +80560,12 @@
   "name": "CHERRY",
   "device": "CHERRY",
   "model": "CHERRY"
+ },
+ {
+  "brand": "Mobicell",
+  "name": "CLIK",
+  "device": "CLIK",
+  "model": "CLIK"
  },
  {
   "brand": "Mobicell",
@@ -116226,6 +116250,12 @@
   "model": "SELFIX_ES732_EXPERIUS"
  },
  {
+  "brand": "Selfix",
+  "name": "X7",
+  "device": "X7",
+  "model": "X7"
+ },
+ {
   "brand": "Selvas",
   "name": "BrailleSense Polaris",
   "device": "polaris",
@@ -124336,6 +124366,12 @@
   "name": "Z10",
   "device": "Z10",
   "model": "SYMPHONY Z10"
+ },
+ {
+  "brand": "Symphony",
+  "name": "Z20",
+  "device": "Z20",
+  "model": "Z20"
  },
  {
   "brand": "Symphony",
