@@ -10374,6 +10374,12 @@
   "model": "V54"
  },
  {
+  "brand": "BDQ",
+  "name": "Smart_Camon",
+  "device": "Smart_Camon",
+  "model": "Smart_Camon"
+ },
+ {
   "brand": "BEISTA",
   "name": "K105",
   "device": "K105",
@@ -32182,6 +32188,12 @@
   "name": "X1",
   "device": "X1",
   "model": "X1"
+ },
+ {
+  "brand": "Go Mobile",
+  "name": "X2",
+  "device": "X2",
+  "model": "X2"
  },
  {
   "brand": "GoClever",

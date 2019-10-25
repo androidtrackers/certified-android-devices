@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-10-24
+Last sync is 2019-10-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1734,6 +1734,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|T7 3G|T7_3G|Azumi_T7_3G|
 |Azumi|V5+|AZUMI_V5PLUS_AC27|V5+|
 |Azumi|V54_AC24|Azumi_V54_AC24|V54|
+|BDQ|Smart_Camon|Smart_Camon|Smart_Camon|
 |BEISTA|K105|K105|K105|
 |BEISTA|K109|K109|K109|
 |BEISTA|X101|X101|X101|
@@ -5369,6 +5370,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Go Mobile|GO1452|GO1452|GO1452|
 |Go Mobile|GO404|GO404|GO404|
 |Go Mobile|X1|X1|X1|
+|Go Mobile|X2|X2|X2|
 |GoClever|INSIGNIA 550i|INSIGNIA_550i|INSIGNIA_550i|
 |GoClever|QUANTUM 1010N|QUANTUM_1010N|QUANTUM_1010N|
 |GoClever|QUANTUM 400 LITE|QUANTUM_400_LITE|QUANTUM_400_LITE|
