@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-10-25
+Last sync is 2019-10-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2575,6 +2575,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |C5 Mobile|noa X Plus|noa_X_plus|noa X plus|
 |C5 Mobile|noa X2 Plus|noa_x2_Plus|noa X2 Plus|
 |C5 Mobile|noa_G1|noa_G1|noa_G1|
+|CBN Media|g-mee1|g-mee1|g-mee1|
 |CCC|AirStick|ts201|AIrStick|
 |CCC|AirStick|ts201|AirStick|
 |CCC|AirStick 4K|ts302|AirStick 4K|
@@ -10348,6 +10349,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|G6Fit|lucye|LM-Q850S|
 |LGE|G7 fit|falcon|LM-Q850|
 |LGE|G8S ThinQ|betalm|LM-G810|
+|LGE|G8X ThinQ|mh2lm|901LG|
 |LGE|G8X ThinQ|mh2lm|LM-G850|
 |LGE|G8s|betalm|LM-G810|
 |LGE|GA7800|eden|LG Android TV V4|
@@ -14114,6 +14116,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M7S_PLUS|ML-JI08-M7S-PLUS|M7S_PLUS|
 |Multilaser|M7S_PLUS|ML-SO07-M7S-PLUS|M7S_PLUS|
 |Multilaser|M7S_PLUS|ML-SO07-M7S-PLUS|M7S_PLUS_KIDPAD|
+|Multilaser|M7S_PLUS|ML-SO07-M7S-PLUS|M7S_PLUS_PRINCESAS|
 |Multilaser|M7s Dual Core|NB116_NB117_NB118|M7s Dual ML03|
 |Multilaser|M7s Quad Core|astar-ococci|ML01-M7S-Quad-Core|
 |Multilaser|M7sLite|ML-SO06-M7sLite|M7sLite|
@@ -14462,6 +14465,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NVIDIA|SHIELD Android TV|foster|SHIELD Android TV|
 |NVIDIA|SHIELD Android TV|foster|SHIELD Console|
 |NVIDIA|SHIELD TV|darcy|SHIELD Android TV|
+|NVIDIA|SHIELD TV|sif|SHIELD Android TV|
+|NVIDIA|SHIELD TV Pro|mdarcy|SHIELD Android TV|
 |NVIDIA|SHIELD Tablet|shieldtablet|SHIELD Tablet|
 |NVIDIA|Shield|roth|SHIELD|
 |NVIDIA|TegraNote|tegranote|Tegra Note 7|
@@ -14882,6 +14887,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Olivetti|Graphos A10|Graphos_A10|Graphos A10|
 |Olivetti|OP110|OP110|OP110|
 |Ollee|T07TR1W|T07TR1W|T07TR1W|
+|Ollee|T08HM3MSA9|T08HM3MSA9|T08HM3MSA9|
 |Ollee|XT080|XT080|XT080|
 |OneClick|C2 Pro|C2_pro|C2 pro|
 |OneClick|X1|X1|X1|
@@ -17020,8 +17026,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SSB PHONES|AMS5518R|AMS5518R|AMS5518R|
 |SSB PHONES|LM5118R|LM5118R|LM5118R|
 |SSB PHONES|LM5118R_GO|LM5118R_GO|LM5118R_GO|
+|SSB PHONES|LM5184G|LM5184G|LM5184G|
 |SSB PHONES|LM5518R|LM5518R|LM5518R|
 |SSB PHONES|SSB-508D|SSB-508D|SSB-508D|
+|SSB PHONES|SSB-508LTE|SSB-508LTE|SSB-508LTE|
 |SSB PHONES|SSB504|SSB504|SSB504|
 |SSB PHONES|SSB504A|SSB504A|SSB504A|
 |SSB PHONES|SSB504R|SSB504R|SSB504R|

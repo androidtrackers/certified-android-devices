@@ -15420,6 +15420,12 @@
   "model": "noa_G1"
  },
  {
+  "brand": "CBN Media",
+  "name": "g-mee1",
+  "device": "g-mee1",
+  "model": "g-mee1"
+ },
+ {
   "brand": "CCC",
   "name": "AirStick",
   "device": "ts201",
@@ -62061,6 +62067,12 @@
   "brand": "LGE",
   "name": "G8X ThinQ",
   "device": "mh2lm",
+  "model": "901LG"
+ },
+ {
+  "brand": "LGE",
+  "name": "G8X ThinQ",
+  "device": "mh2lm",
   "model": "LM-G850"
  },
  {
@@ -84655,6 +84667,12 @@
  },
  {
   "brand": "Multilaser",
+  "name": "M7S_PLUS",
+  "device": "ML-SO07-M7S-PLUS",
+  "model": "M7S_PLUS_PRINCESAS"
+ },
+ {
+  "brand": "Multilaser",
   "name": "M7s Dual Core",
   "device": "NB116_NB117_NB118",
   "model": "M7s Dual ML03"
@@ -86739,6 +86757,18 @@
   "brand": "NVIDIA",
   "name": "SHIELD TV",
   "device": "darcy",
+  "model": "SHIELD Android TV"
+ },
+ {
+  "brand": "NVIDIA",
+  "name": "SHIELD TV",
+  "device": "sif",
+  "model": "SHIELD Android TV"
+ },
+ {
+  "brand": "NVIDIA",
+  "name": "SHIELD TV Pro",
+  "device": "mdarcy",
   "model": "SHIELD Android TV"
  },
  {
@@ -89260,6 +89290,12 @@
   "name": "T07TR1W",
   "device": "T07TR1W",
   "model": "T07TR1W"
+ },
+ {
+  "brand": "Ollee",
+  "name": "T08HM3MSA9",
+  "device": "T08HM3MSA9",
+  "model": "T08HM3MSA9"
  },
  {
   "brand": "Ollee",
@@ -102091,6 +102127,12 @@
  },
  {
   "brand": "SSB PHONES",
+  "name": "LM5184G",
+  "device": "LM5184G",
+  "model": "LM5184G"
+ },
+ {
+  "brand": "SSB PHONES",
   "name": "LM5518R",
   "device": "LM5518R",
   "model": "LM5518R"
@@ -102100,6 +102142,12 @@
   "name": "SSB-508D",
   "device": "SSB-508D",
   "model": "SSB-508D"
+ },
+ {
+  "brand": "SSB PHONES",
+  "name": "SSB-508LTE",
+  "device": "SSB-508LTE",
+  "model": "SSB-508LTE"
  },
  {
   "brand": "SSB PHONES",
