@@ -2947,6 +2947,12 @@
  },
  {
   "brand": "Aligator",
+  "name": "ALIGATOR RX800",
+  "device": "ALIGATOR_RX800",
+  "model": "ALIGATOR RX800"
+ },
+ {
+  "brand": "Aligator",
   "name": "ALIGATOR S5070",
   "device": "ALIGATOR_S5070",
   "model": "ALIGATOR S5070"
@@ -11113,6 +11119,12 @@
  },
  {
   "brand": "BQru",
+  "name": "BQ-1045G",
+  "device": "BQru-1045G_2019",
+  "model": "BQ-1045G"
+ },
+ {
+  "brand": "BQru",
   "name": "BQ-1056L",
   "device": "BQru_1056L",
   "model": "BQru-1056L"
@@ -16693,6 +16705,18 @@
  },
  {
   "brand": "Changhong",
+  "name": "AP(Indonesia etc.)/MENA",
+  "device": "samseong",
+  "model": "AI PONT"
+ },
+ {
+  "brand": "Changhong",
+  "name": "AP(Indonesia etc.)/MENA",
+  "device": "samseong",
+  "model": "CHiQ AI Center"
+ },
+ {
+  "brand": "Changhong",
   "name": "GIU6060",
   "device": "GIU6060",
   "model": "GIU6060"
@@ -20692,6 +20716,12 @@
   "name": "X19",
   "device": "X19",
   "model": "X19"
+ },
+ {
+  "brand": "Cubot",
+  "name": "X20",
+  "device": "X20",
+  "model": "X20"
  },
  {
   "brand": "Cubot",
@@ -30526,6 +30556,12 @@
   "name": "Enjoytv_hybrid",
   "device": "enjoytv_hybrid",
   "model": "ATV598MAX"
+ },
+ {
+  "brand": "Geo (GeoTechVision)",
+  "name": "GEO10",
+  "device": "GEO10",
+  "model": "GEO10X"
  },
  {
   "brand": "Gesellschaft f\\xc3\\xbcr SMK mBH",
@@ -52519,6 +52555,12 @@
  },
  {
   "brand": "Hurricane",
+  "name": "Flame_Plus",
+  "device": "Flame_Plus",
+  "model": "Flame_Plus"
+ },
+ {
+  "brand": "Hurricane",
   "name": "Flex",
   "device": "Flex",
   "model": "Flex"
@@ -58444,6 +58486,12 @@
   "name": "C600",
   "device": "GBC_bravo",
   "model": "C600"
+ },
+ {
+  "brand": "KRIP",
+  "name": "K4b",
+  "device": "K4b",
+  "model": "K4b"
  },
  {
   "brand": "KRIP",
@@ -70357,6 +70405,12 @@
  },
  {
   "brand": "Leagoo",
+  "name": "Z13",
+  "device": "Z13",
+  "model": "Z13"
+ },
+ {
+  "brand": "Leagoo",
   "name": "Z7",
   "device": "Z7",
   "model": "Z7"
@@ -76378,6 +76432,12 @@
   "name": "iQD10S",
   "device": "iQD10S",
   "model": "iQD10S"
+ },
+ {
+  "brand": "MLS Innovation",
+  "name": "iQG550",
+  "device": "iQG550",
+  "model": "iQG550"
  },
  {
   "brand": "MLS Innovation",
@@ -92503,6 +92563,12 @@
  },
  {
   "brand": "PCD Argentina",
+  "name": "PL550",
+  "device": "PL550",
+  "model": "PL550"
+ },
+ {
+  "brand": "PCD Argentina",
   "name": "PL5505",
   "device": "PL5505",
   "model": "PL5505"
@@ -93601,6 +93667,12 @@
  },
  {
   "brand": "Panasonic",
+  "name": "IPSC 1.5",
+  "device": "ipsc1_5",
+  "model": "IPSC1_5"
+ },
+ {
+  "brand": "Panasonic",
   "name": "IPSC 4",
   "device": "ipsc4",
   "model": "IPSC4"
@@ -94534,6 +94606,12 @@
   "name": "v955",
   "device": "HS8929QC",
   "model": "Pantech V955"
+ },
+ {
+  "brand": "Parrot Mobile",
+  "name": "Xplorer_2",
+  "device": "Xplorer_2",
+  "model": "Xplorer_2"
  },
  {
   "brand": "Partner",
@@ -101629,6 +101707,12 @@
  },
  {
   "brand": "SEMP TCL",
+  "name": "GO3C_VIVO",
+  "device": "GO3C",
+  "model": "GO3C"
+ },
+ {
+  "brand": "SEMP TCL",
   "name": "GO3E",
   "device": "GO3E",
   "model": "GO3E"
@@ -102136,6 +102220,12 @@
   "name": "LM5518R",
   "device": "LM5518R",
   "model": "LM5518R"
+ },
+ {
+  "brand": "SSB PHONES",
+  "name": "MP5184G",
+  "device": "MP5184G",
+  "model": "MP5184G"
  },
  {
   "brand": "SSB PHONES",
@@ -128571,6 +128661,12 @@
   "brand": "TCT (Alcatel)",
   "name": "Alcatel 1",
   "device": "U3A_PLUS_4G",
+  "model": "5033G"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1",
+  "device": "U3A_PLUS_4G",
   "model": "5033J"
  },
  {
@@ -136252,6 +136348,12 @@
   "name": "Z2 Pro",
   "device": "Z2_PRO",
   "model": "Z2_PRO"
+ },
+ {
+  "brand": "Umiio",
+  "name": "Q2",
+  "device": "Q2",
+  "model": "Q2"
  },
  {
   "brand": "Umix",
@@ -149479,6 +149581,12 @@
  },
  {
   "brand": "ZTE",
+  "name": "P545",
+  "device": "P545",
+  "model": "P545"
+ },
+ {
+  "brand": "ZTE",
   "name": "P_C880S",
   "device": "P_P635N34",
   "model": "ZTE P_C880S"
@@ -152257,6 +152365,12 @@
  },
  {
   "brand": "ZTE",
+  "name": "ZTE Axon 10 Pro",
+  "device": "P855A03_NA",
+  "model": "ZTE A2020U Pro"
+ },
+ {
+  "brand": "ZTE",
   "name": "ZTE BLADE A0605",
   "device": "P809F15",
   "model": "ZTE BLADE A0605"
@@ -154378,6 +154492,12 @@
   "name": "i-note WiFi 1.1",
   "device": "M1703",
   "model": "i-mobile M1703"
+ },
+ {
+  "brand": "i-Mobile",
+  "name": "iM319",
+  "device": "iM319",
+  "model": "iM319"
  },
  {
   "brand": "iBRIT",

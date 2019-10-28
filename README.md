@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-10-27
+Last sync is 2019-10-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -496,6 +496,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Algar|GIU6770|GIU6770|GIU6770|
 |Alhafidh|Android TV|R1|ATV R1|
 |Alhafidh|Android TV|R2|ATV R2|
+|Aligator|ALIGATOR RX800|ALIGATOR_RX800|ALIGATOR RX800|
 |Aligator|ALIGATOR S5070|ALIGATOR_S5070|ALIGATOR S5070|
 |Aligator|ALIGATOR S5520|ALIGATOR_S5520|ALIGATOR_S5520|
 |Aligator|ALIGATOR S5540|ALIGATOR_S5540|ALIGATOR S5540|
@@ -1857,6 +1858,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|5701L Slim|BQru-5701L|BQ-5701L|
 |BQru|BQ 5503 NICE 2|BQru_5503|BQru-5503|
 |BQru|BQ-1045G|BQru-1045|BQ-1045|
+|BQru|BQ-1045G|BQru-1045G_2019|BQ-1045G|
 |BQru|BQ-1056L|BQru_1056L|BQru-1056L|
 |BQru|BQ-1057L|BQru_1057L|BQru-1057L|
 |BQru|BQ-1082G|BQru-1082G_2019|BQ-1082G|
@@ -2787,6 +2789,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CenturyLink|PureTV|ctl_iptv_mrvl|S60CLI|
 |Changhong|AP(Indonesia etc.)/MENA|ikebukuro|AI PONT|
 |Changhong|AP(Indonesia etc.)/MENA|ikebukuro|CHiQ AI Center|
+|Changhong|AP(Indonesia etc.)/MENA|samseong|AI PONT|
+|Changhong|AP(Indonesia etc.)/MENA|samseong|CHiQ AI Center|
 |Changhong|GIU6060|GIU6060|GIU6060|
 |Changhong|GIU6860|GIU6860|GIU6860|
 |Channel Master|Stream+|dwt765cha|CM-7600|
@@ -3454,6 +3458,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|RAINBOW 2|RAINBOW_2|RAINBOW 2|
 |Cubot|Rainbow|RAINBOW|RAINBOW|
 |Cubot|X19|X19|X19|
+|Cubot|X20|X20|X20|
 |Cubot|X20_PRO|X20_PRO|X20 PRO|
 |Custom|Ares|Ares|Ares|
 |Cutepad|Tab_4_M7078|Tab_4_M7078|Tab_4_M7078|
@@ -5093,6 +5098,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Geniatech|Enjoy TV Quad-Core Box|ATV581|Enjoy TV Quad-Core Box|
 |Geniatech|EnjoyTV|enjoytv|ATV495MAX|
 |Geniatech|Enjoytv_hybrid|enjoytv_hybrid|ATV598MAX|
+|Geo (GeoTechVision)|GEO10|GEO10|GEO10X|
 |Gesellschaft f\xc3\xbcr SMK mBH|Tough Mobile|granite|CP600|
 |Get|Get Box|dciw387get|Get box|
 |Getac|MX50|mx50|MX50|
@@ -8758,6 +8764,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hurricane|Excite|Excite|Excite|
 |Hurricane|Fire|Fire|Fire|
 |Hurricane|Flame|Flame|Flame|
+|Hurricane|Flame_Plus|Flame_Plus|Flame_Plus|
 |Hurricane|Flex|Flex|Flex|
 |Hurricane|Flint|Flint|Flint|
 |Hurricane|Fuel|Fuel|Fuel|
@@ -9746,6 +9753,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KOOLNEE|K3|K3|K3|
 |KOOLNEE|RAINBOW|RAINBOW|RAINBOW|
 |KOOOK|C600|GBC_bravo|C600|
+|KRIP|K4b|K4b|K4b|
 |KRIP|K5|K5|K5|
 |KRIP|K6|K6|K6|
 |KRIP|K65|K65|K65|
@@ -11731,6 +11739,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Leagoo|XRover C|XRover_C|XRover C|
 |Leagoo|Z10|Z10|Z10|
 |Leagoo|Z10-E|Z10-E|Z10-E|
+|Leagoo|Z13|Z13|Z13|
 |Leagoo|Z7|Z7|Z7|
 |Leagoo|Z9|Z9|Z9|
 |Leagoo|Z9A|Z9A|Z9A|
@@ -12735,6 +12744,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MLS Innovation|iQ8011|iQ8011|iQ8011|
 |MLS Innovation|iQ8225_EEA|iQ8225|iQ8225|
 |MLS Innovation|iQD10S|iQD10S|iQD10S|
+|MLS Innovation|iQG550|iQG550|iQG550|
 |MLS Innovation|iQL550|iQL550|iQL550|
 |MLS Innovation|iQM960L|iQM960L|iQM960L|
 |MLS Innovation|iQME100|iQME100|iQME100|
@@ -15422,6 +15432,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PCD Argentina|PH5003 Go|PH5003_Go|PH5003 Go|
 |PCD Argentina|PL4002|PL4002|PL4002|
 |PCD Argentina|PL5003|PL5003|PL5003|
+|PCD Argentina|PL550|PL550|PL550|
 |PCD Argentina|PL5505|PL5505|PL5505|
 |PCD Argentina|PL570|PL570|PL570|
 |PCD Argentina|PL620|PL620|PL620|
@@ -15605,6 +15616,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|HDPSEB v3|HDPSEBv3|HD PSEB v3|
 |Panasonic|HDPSEB v4|HDPSEBv4|HD PSEB v4|
 |Panasonic|HomeX HMX03A|HMX03A|HMX03A|
+|Panasonic|IPSC 1.5|ipsc1_5|IPSC1_5|
 |Panasonic|IPSC 4|ipsc4|IPSC4|
 |Panasonic|JT-B1|B1|JT-B1|
 |Panasonic|JT-C52|JT-C52|JT-C52|
@@ -15761,6 +15773,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pantech|ef14lv|ef14lv|IM-A725L|
 |Pantech|v950|HS8929QC|Pantech V950|
 |Pantech|v955|HS8929QC|Pantech V955|
+|Parrot Mobile|Xplorer_2|Xplorer_2|Xplorer_2|
 |Partner|Batman|Batman|S70PCI|
 |Partner|E15 Pro|E15_Pro|E15 Pro|
 |Partner|OT-310|OT-310|OT-310|
@@ -16943,6 +16956,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SELECLINE|MID7526CM|MID7526CM|NID_7010|
 |SELECLINE|MID_9526CM|MID_9526CM|S952|
 |SEMP TCL|GO3C|GO3C|GO3C|
+|SEMP TCL|GO3C_VIVO|GO3C|GO3C|
 |SEMP TCL|GO3E|GO3E|GO3E|
 |SEMP TCL|GO5E|GO5E|GO5E|
 |SERVO|P20|P20|P20|
@@ -17028,6 +17042,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SSB PHONES|LM5118R_GO|LM5118R_GO|LM5118R_GO|
 |SSB PHONES|LM5184G|LM5184G|LM5184G|
 |SSB PHONES|LM5518R|LM5518R|LM5518R|
+|SSB PHONES|MP5184G|MP5184G|MP5184G|
 |SSB PHONES|SSB-508D|SSB-508D|SSB-508D|
 |SSB PHONES|SSB-508LTE|SSB-508LTE|SSB-508LTE|
 |SSB PHONES|SSB504|SSB504|SSB504|
@@ -21433,6 +21448,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033D_RU|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033F|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033F_EEA|
+|TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033G|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033J|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033M|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033O|
@@ -22714,6 +22730,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|UMIDIGI X|UMIDIGI_X|UMIDIGI X|
 |Umidigi|Z2|Z2|Z2|
 |Umidigi|Z2 Pro|Z2_PRO|Z2_PRO|
+|Umiio|Q2|Q2|Q2|
 |Umix|Lite L|UMIX_LITE_L|UMIX LITE L|
 |Umix|Lite M|UMIX_LITE_M|UMIX LITE M|
 |Umix|Lite XL|UMIX_LITE_XL|UMIX LITE XL|
@@ -24918,6 +24935,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Orange Rono|msm8226|Orange Rono|
 |ZTE|Orange Zali|nice|Orange Zali|
 |ZTE|Own One|P635A20|Own One|
+|ZTE|P545|P545|P545|
 |ZTE|P_C880S|P_P635N34|ZTE P_C880S|
 |ZTE|Preo Teknosa P1|msm8916_32|Preo Teknosa P1|
 |ZTE|Q101T|P810T10|ZTE Q101T|
@@ -25381,6 +25399,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE AVID 559|Z559DL|Z559DL|
 |ZTE|ZTE Axon 10 Pro|P855A01|ZTE A2020G Pro|
 |ZTE|ZTE Axon 10 Pro|P855A02|ZTE A2020 Pro|
+|ZTE|ZTE Axon 10 Pro|P855A03_NA|ZTE A2020U Pro|
 |ZTE|ZTE BLADE A0605|P809F15|ZTE BLADE A0605|
 |ZTE|ZTE BLADE A0605|P809F15|ZTE BLADE A6 MAX|
 |ZTE|ZTE BLADE A0620|P840F12|ZTE BLADE A0620|
@@ -25735,6 +25754,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |i-Mobile|i-STYLE 713|i-STYLE_713|i-STYLE 713|
 |i-Mobile|i-STYLE 812 4G|i_style_812_4G|i-mobile i-STYLE 812 4G|
 |i-Mobile|i-note WiFi 1.1|M1703|i-mobile M1703|
+|i-Mobile|iM319|iM319|iM319|
 |iBRIT|Alpha|AF51|AF51|
 |iBRIT|Alpha_Plus|Alpha_Plus|Alpha_Plus|
 |iBRIT|IBRIT_I5|i5|IBRIT_I5|
