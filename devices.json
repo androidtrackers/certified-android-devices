@@ -27252,6 +27252,12 @@
   "model": "GK738_3G"
  },
  {
+  "brand": "FFFSMARTLIFE",
+  "name": "FFFTAB7",
+  "device": "FFFTAB7",
+  "model": "FFFTAB7"
+ },
+ {
   "brand": "FIREFLY MOBILE",
   "name": "AURII_AMUSE_3G",
   "device": "AURII_AMUSE_3G",
@@ -29764,6 +29770,12 @@
   "name": "KD095",
   "device": "KD095",
   "model": "KD095"
+ },
+ {
+  "brand": "Fusion5",
+  "name": "KD095_EEA",
+  "device": "KD095_EEA",
+  "model": "KD095_EEA"
  },
  {
   "brand": "Fusion5",
@@ -52891,15 +52903,33 @@
  },
  {
   "brand": "Hyundai",
+  "name": "E475",
+  "device": "E475",
+  "model": "E475"
+ },
+ {
+  "brand": "Hyundai",
   "name": "E503F",
   "device": "E503F",
   "model": "E503F"
  },
  {
   "brand": "Hyundai",
+  "name": "E553",
+  "device": "E553",
+  "model": "E553"
+ },
+ {
+  "brand": "Hyundai",
   "name": "E601F",
   "device": "E601F",
   "model": "E601F"
+ },
+ {
+  "brand": "Hyundai",
+  "name": "E602",
+  "device": "E602",
+  "model": "E602"
  },
  {
   "brand": "Hyundai",
@@ -73267,6 +73297,12 @@
  },
  {
   "brand": "Lenovo",
+  "name": "Lenovo Tab M10 (2nd Gen)",
+  "device": "X606F",
+  "model": "Lenovo TB-X606F"
+ },
+ {
+  "brand": "Lenovo",
   "name": "Lenovo Tab M10 (FHD)",
   "device": "X605F",
   "model": "Lenovo TB-X605F"
@@ -80716,6 +80752,12 @@
   "name": "BERRY1",
   "device": "BERRY1",
   "model": "BERRY1"
+ },
+ {
+  "brand": "Mobicell",
+  "name": "Berry 2",
+  "device": "BERRY_2",
+  "model": "BERRY 2"
  },
  {
   "brand": "Mobicell",
@@ -128667,6 +128709,12 @@
   "brand": "TCT (Alcatel)",
   "name": "Alcatel 1",
   "device": "U3A_PLUS_4G",
+  "model": "5033G_EEA"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1",
+  "device": "U3A_PLUS_4G",
   "model": "5033J"
  },
  {
@@ -138319,6 +138367,12 @@
  },
  {
   "brand": "Victurio",
+  "name": "VI86",
+  "device": "VI86",
+  "model": "VI86"
+ },
+ {
+  "brand": "Victurio",
   "name": "VI87",
   "device": "VI87",
   "model": "VI87"
@@ -143014,6 +143068,18 @@
   "name": "Tab_31",
   "device": "Tab_31",
   "model": "Tab_31"
+ },
+ {
+  "brand": "X-PREMIUM",
+  "name": "X1",
+  "device": "X1",
+  "model": "X1"
+ },
+ {
+  "brand": "X-PREMIUM",
+  "name": "X_1",
+  "device": "X_1",
+  "model": "X_1"
  },
  {
   "brand": "X-TEK",

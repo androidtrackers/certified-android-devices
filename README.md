@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-10-28
+Last sync is 2019-10-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4547,6 +4547,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FBC|M24IS810|MX24|TDA02|
 |FBC|M24IS820|fst01ms|M24IS820|
 |FCC Movil|GK738_3G|GK738_3G|GK738_3G|
+|FFFSMARTLIFE|FFFTAB7|FFFTAB7|FFFTAB7|
 |FIREFLY MOBILE|AURII_AMUSE_3G|AURII_AMUSE_3G|AURII_AMUSE_3G|
 |FIREFLY MOBILE|FIREFLY MOBILE|AURII_XCITE|AURII_XCITE|
 |FIREFLY MOBILE|INTENSE_XT|INTENSE_XT|INTENSE_XT|
@@ -4966,6 +4967,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fusion5|Fusion5_F104E_EEA|Fusion5_F104E|Fusion5_F104E|
 |Fusion5|Fusion5_F704B|Fusion5_F704B|Fusion5_F704B|
 |Fusion5|KD095|KD095|KD095|
+|Fusion5|KD095_EEA|KD095_EEA|KD095_EEA|
 |Fusion5|T099|T099|T099|
 |Future Mobile Technology|B-52|176HS1050232|176HS1050232|
 |Future Mobile Technology|DRONE|FMT-NM7108-01|FMT-NM7108-01|
@@ -8820,8 +8822,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|CAR AVN SYSTEM|koecn|TCC893X_EVM|
 |Hyundai|E435 Plus|E435_Plus|E435 Plus|
 |Hyundai|E456GO|E465GO|E465GO|
+|Hyundai|E475|E475|E475|
 |Hyundai|E503F|E503F|E503F|
+|Hyundai|E553|E553|E553|
 |Hyundai|E601F|E601F|E601F|
+|Hyundai|E602|E602|E602|
 |Hyundai|Eternity A24|A25024L|A25024L|
 |Hyundai|Eternity G22|G25022K|G25022K|
 |Hyundai|Eternity G23|G25523K|G25523K|
@@ -12216,6 +12221,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab E10|X104X|Lenovo TB-X104X|
 |Lenovo|Lenovo Tab E7|TB7104F|Lenovo TB-7104F|
 |Lenovo|Lenovo Tab E7|TB7104I|Lenovo TB-7104I|
+|Lenovo|Lenovo Tab M10 (2nd Gen)|X606F|Lenovo TB-X606F|
 |Lenovo|Lenovo Tab M10 (FHD)|X605F|Lenovo TB-X605F|
 |Lenovo|Lenovo Tab M10 (FHD)|X605L|Lenovo TB-X605L|
 |Lenovo|Lenovo Tab M10 (HD)|TB-X505F|Lenovo TB-X505F|
@@ -13458,6 +13464,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|BERRY|BERRY|BERRY|
 |Mobicell|BERRY PLUS|BERRY_PLUS|BERRY_PLUS|
 |Mobicell|BERRY1|BERRY1|BERRY1|
+|Mobicell|Berry 2|BERRY_2|BERRY 2|
 |Mobicell|CHERRY|CHERRY|CHERRY|
 |Mobicell|CLIK|CLIK|CLIK|
 |Mobicell|COSMO|COSMO|COSMO|
@@ -21449,6 +21456,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033F|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033F_EEA|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033G|
+|TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033G_EEA|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033J|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033M|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|5033O|
@@ -23058,6 +23066,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vgo Tel|Venture V8|VentureV8|Venture V8|
 |Vgo Tel|VentureV10|VentureV10|VentureV10|
 |Vgo Tel|i Smart|i_Smart|i_Smart|
+|Victurio|VI86|VI86|VI86|
 |Victurio|VI87|VI87|VI87|
 |Vida|GINI_D9|GINI_D9|GINI_D9|
 |Vida|V401|VIDA_V401|VIDA-V401|
@@ -23841,6 +23850,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |X-Age|G2|G2|G2|
 |X-Age|Tab40|Tab40|Tab40|
 |X-Age|Tab_31|Tab_31|Tab_31|
+|X-PREMIUM|X1|X1|X1|
+|X-PREMIUM|X_1|X_1|X_1|
 |X-TEK|X2|X2|X2|
 |X-TIGI|Hope7_Mate|Hope7_Mate|Hope7_Mate|
 |X-TIGI|JOY10_LTE|MID|JOY10_LTE|
