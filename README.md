@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-10-29
+Last sync is 2019-10-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3619,6 +3619,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DL|X_Quad_Pro|X_Quad_Pro|Tablet DL 3410|
 |DL|YZU_DS53|Smartphone_YZU_DS53|Smartphone_YZU_DS53|
 |DL|i-Player_KIDS|Tablet_DL_3910|Tablet_DL_3910|
+|DNA|DNA|dctiw384|DNA Android TV|
 |DNA|DNA TV-hubi|dctiw384|DNA Android TV|
 |DO Mobile|DO_Mate2|Mate2|Mate2|
 |DO Mobile|Mate1|Mate1|DO_S1|
@@ -4455,6 +4456,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Everex|Fine 7B|Fine_7B|Fine 7B|
 |Everis|E0109|E0109|E0109|
 |Everis|E0111|E0111|E0111|
+|Everis|E0114|E0114|E0114|
 |Evertek|E7224HG|E7224HG|E7224HG|
 |Evertek|M10|M10|M10|
 |Evertek|M10 Nano|M10_Nano|M10 Nano|
@@ -4574,6 +4576,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Famous Fones|Famous_5Plus|Famous_5Plus|Famous 5Plus|
 |Famous Fones|Famous_TAB_10|Famous_TAB_10|Famous_TAB_10|
 |Famous Fones|Fonos-O1|Fonos-O1|Fonos-O1|
+|Famous Fones|Red_Royal_Edition|Red_Royal_Edition|Red Royal Edition|
 |Fantec|FANTEC M200H|M200H|M200H|
 |Fantec|FANTEC M300H|M300H|FAN-M300H|
 |FarEasTone|Smart 403|msm8226|Smart 403|
@@ -14626,6 +14629,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Neostra|Neostra-R7|Neostra-R7|Neostra-R7|
 |Neostra|ViewPad 7A|ViewPad-Kids-7A|ViewPad-Kids-7A|
 |Netgear|NeoTVPrime|NeoTV|GTV100|
+|Netmak|NETPAD7|NM-NETPAD7|NM-NETPAD7|
 |New Balance|Run IQ|shasta|NB RunIQ|
 |Newland|NLS-MT6550-AM|NLS-MT6550-AM|NLS-MT65|
 |Newland|NLS-MT6552-EEA|NLS-MT6552-EEA|NLS-MT65|
@@ -16212,6 +16216,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo BGH|Ypy Kids|YPY_L700|Positivo BGH Ypy L700 Kids|
 |Powerway|DRN|DRN|DRN|
 |Powerway|DRN_EEA|DRN_EEA|DRN_EEA|
+|Premier|TAB-7001-16G|TAB-7001-16G|TAB-7001-16G|
 |Premio|185FT5050231|185FT5050231|185FT5050231|
 |Premio|186FT1080231|186FT1080231|186FT1080231|
 |Premio|186HS1050232|186HS1050232|186HS1050232|

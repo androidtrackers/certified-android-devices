@@ -21685,6 +21685,12 @@
  },
  {
   "brand": "DNA",
+  "name": "DNA",
+  "device": "dctiw384",
+  "model": "DNA Android TV"
+ },
+ {
+  "brand": "DNA",
   "name": "DNA TV-hubi",
   "device": "dctiw384",
   "model": "DNA Android TV"
@@ -26700,6 +26706,12 @@
   "model": "E0111"
  },
  {
+  "brand": "Everis",
+  "name": "E0114",
+  "device": "E0114",
+  "model": "E0114"
+ },
+ {
   "brand": "Evertek",
   "name": "E7224HG",
   "device": "E7224HG",
@@ -27412,6 +27424,12 @@
   "name": "Fonos-O1",
   "device": "Fonos-O1",
   "model": "Fonos-O1"
+ },
+ {
+  "brand": "Famous Fones",
+  "name": "Red_Royal_Edition",
+  "device": "Red_Royal_Edition",
+  "model": "Red Royal Edition"
  },
  {
   "brand": "Fantec",
@@ -87726,6 +87744,12 @@
   "model": "GTV100"
  },
  {
+  "brand": "Netmak",
+  "name": "NETPAD7",
+  "device": "NM-NETPAD7",
+  "model": "NM-NETPAD7"
+ },
+ {
   "brand": "New Balance",
   "name": "Run IQ",
   "device": "shasta",
@@ -97240,6 +97264,12 @@
   "name": "DRN_EEA",
   "device": "DRN_EEA",
   "model": "DRN_EEA"
+ },
+ {
+  "brand": "Premier",
+  "name": "TAB-7001-16G",
+  "device": "TAB-7001-16G",
+  "model": "TAB-7001-16G"
  },
  {
   "brand": "Premio",
