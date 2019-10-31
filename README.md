@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-10-30
+Last sync is 2019-10-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -426,6 +426,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advance|Pr6146|Pr6146|Pr6146|
 |Advance|Pr6150|Pr6150|Pr6150|
 |Advance|Pr7547|Pr7547|Pr7547|
+|Advance|Sp5730|Sp5730|Sp5730|
 |Advance|TR4986|Tablet_adv_v1|ADVANCE|
 |Advance|Tr3946|Tr3946|Tr3946|
 |Advance|Tr4986|Tablet_adv_v1|ADVANCE|
@@ -1735,6 +1736,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|T7 3G|T7_3G|Azumi_T7_3G|
 |Azumi|V5+|AZUMI_V5PLUS_AC27|V5+|
 |Azumi|V54_AC24|Azumi_V54_AC24|V54|
+|BDQ|SMART_B19|SMART_B19|SMART_B19|
 |BDQ|Smart_Camon|Smart_Camon|Smart_Camon|
 |BEISTA|K105|K105|K105|
 |BEISTA|K109|K109|K109|
@@ -3443,6 +3445,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|ECHO|CUBOT_ECHO|CUBOT ECHO|
 |Cubot|J5|J5|J5|
 |Cubot|J7|J7|J7|
+|Cubot|KINGKONG_MINI|KINGKONG_MINI|KINGKONG_MINI|
 |Cubot|KING_KONG_3|KING_KONG_3|KING_KONG_3|
 |Cubot|MANITO|CUBOT_MANITO|CUBOT_MANITO|
 |Cubot|MAX|x6069_cubot_5365u|CUBOT MAX|
@@ -4456,6 +4459,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Everex|Fine 7B|Fine_7B|Fine 7B|
 |Everis|E0109|E0109|E0109|
 |Everis|E0111|E0111|E0111|
+|Everis|E0112|E0112|E0112|
 |Everis|E0114|E0114|E0114|
 |Evertek|E7224HG|E7224HG|E7224HG|
 |Evertek|M10|M10|M10|
@@ -6276,6 +6280,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HYUNDAI_MAESTRO|HDT_7427G_PLUS|HDT_7427G_PLUS|HDT_7427G_PLUS|
 |HYUNDAI_MAESTRO|HDT_7433H_PLUS|HDT_7433H_PLUS|HDT_7433H_PLUS|
 |Hackers|HackersTab|Hackers_Tab|Hackers_Tab|
+|Haehne|HAEHNE_M7|HAEHNE_M7|M7|
 |Hafury|A7|A7|A7|
 |Hafury|HAFURY MIX|HAFURY_MIX|HAFURY MIX|
 |Hafury|HAFURY UMAX|HAFURY_UMAX|HAFURY UMAX|
@@ -8931,6 +8936,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ION ELECTRONICS|Kids|Kids|Kids|
 |ION ELECTRONICS|Orbit|Orbit|Orbit|
 |IPRODA|T1144|T1144|T1144|
+|IQ Touch|VIATABQX1040|VIATABQX1040|VIATABQX1040|
 |IQ Touch|VIATABQX730|VIATABQX730|VIATABQX730|
 |IUNI|N1|IUNI_N1|IUNI N1|
 |IUSA|TR10CS1|TR10CS1_7|TR10CS1|
@@ -9337,6 +9343,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Invens|F1|F1|F1|
 |Invens|F2|F2|F2|
 |Invens|Fighter|Fighter|Fighter|
+|Invens|MAX3|MAX3|MAX3|
+|Invens|MAX8|MAX8|MAX8|
 |Invens|MAX_1|MAX_1|MAX_1|
 |Invens|MAX_2|MAX_2|MAX_2|
 |Invens|UNO|UNO|UNO|
@@ -17050,11 +17058,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Universe|heaven_10_1|heaven-10_1|HEAVEN 10.1|
 |SSB PHONES|AMS5118R_GO|AMS5118R_GO|AMS5118R_GO|
 |SSB PHONES|AMS5518R|AMS5518R|AMS5518R|
+|SSB PHONES|BS5214G|BS5214G|BS5214G|
 |SSB PHONES|LM5118R|LM5118R|LM5118R|
 |SSB PHONES|LM5118R_GO|LM5118R_GO|LM5118R_GO|
 |SSB PHONES|LM5184G|LM5184G|LM5184G|
 |SSB PHONES|LM5518R|LM5518R|LM5518R|
+|SSB PHONES|MM5014G|MM5014G|MM5014G|
 |SSB PHONES|MP5184G|MP5184G|MP5184G|
+|SSB PHONES|SS5114G|SS5114G|SS5114G|
 |SSB PHONES|SSB-508D|SSB-508D|SSB-508D|
 |SSB PHONES|SSB-508LTE|SSB-508LTE|SSB-508LTE|
 |SSB PHONES|SSB504|SSB504|SSB504|
@@ -17668,6 +17679,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Fit|GT-S5670B|GT-S5670B|
 |Samsung|Galaxy Fit|GT-S5670L|GT-S5670L|
 |Samsung|Galaxy Fold|SCV44|SCV44|
+|Samsung|Galaxy Fold|winner|SM-F9000|
 |Samsung|Galaxy Fold|winner|SM-F900F|
 |Samsung|Galaxy Fold|winner|SM-F900U|
 |Samsung|Galaxy Fold|winner|SM-F900U1|
@@ -19122,6 +19134,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S5e|gts4lvwifichn|SM-T720|
 |Samsung|Galaxy Tab S6|gts6l|SM-T865|
 |Samsung|Galaxy Tab S6|gts6l|SM-T867|
+|Samsung|Galaxy Tab S6|gts6l|SM-T867R4|
 |Samsung|Galaxy Tab S6|gts6l|SM-T867U|
 |Samsung|Galaxy Tab S6|gts6l|SM-T867V|
 |Samsung|Galaxy Tab S6|gts6lwifi|SM-T860|
@@ -20681,6 +20694,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stylo|Onyx|Onyx|Onyx|
 |Stylo|S40 Vino|S40_Vino|S40 Vino|
 |Stylo|S40_EBONY|S40_EBONY|S40_EBONY|
+|Stylo|S40_VINO_PLUS|S40_VINO_PLUS|S40 VINO PLUS|
 |Stylo|S49 ECO|S49_ECO|S49 ECO|
 |Stylo|S49 MONO|S49_MONO|S49 MONO|
 |Stylo|S49_Cobalt|S49_cobalt|S49 cobalt|
@@ -22625,6 +22639,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |True|SMART_Champ_4inch|SMART_Champ_4inch|SMART Champ 4.0|
 |True|SMART_MAX_4.0_PLUS|P909|SMART_MAX_4.0_PLUS|
 |True|TrueID TV|TV_A01|STI6030_TRUE_TV_A01|
+|True|TrueID TV|TrueHPH07|HPH07|
 |TuCEL|TC504B|TC504B|TC504B|
 |TuCEL|TL554B|TL554B|TL554B|
 |Tunisie Telecom|Star Trail by TT|startrail3_tt|StarTrail TT|
@@ -25968,6 +25983,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |neocore|neocore_N1G1|neocore_N1G1|neocore_N1G1|
 |neutab|K1S|K1S|K1S|
 |neutab|i7|i7|i7|
+|newsan|N405|N405|N405|
 |noDROPOUT|T25|T25|T25|
 |novo|Bonvi Prime|t596_novo_37m35|Bonvi Prime|
 |novo|Bonvi Pro|t596_dp_n_37m35|Bonvi Pro|

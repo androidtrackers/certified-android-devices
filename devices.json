@@ -2527,6 +2527,12 @@
  },
  {
   "brand": "Advance",
+  "name": "Sp5730",
+  "device": "Sp5730",
+  "model": "Sp5730"
+ },
+ {
+  "brand": "Advance",
   "name": "TR4986",
   "device": "Tablet_adv_v1",
   "model": "ADVANCE"
@@ -10378,6 +10384,12 @@
   "name": "V54_AC24",
   "device": "Azumi_V54_AC24",
   "model": "V54"
+ },
+ {
+  "brand": "BDQ",
+  "name": "SMART_B19",
+  "device": "SMART_B19",
+  "model": "SMART_B19"
  },
  {
   "brand": "BDQ",
@@ -20629,6 +20641,12 @@
  },
  {
   "brand": "Cubot",
+  "name": "KINGKONG_MINI",
+  "device": "KINGKONG_MINI",
+  "model": "KINGKONG_MINI"
+ },
+ {
+  "brand": "Cubot",
   "name": "KING_KONG_3",
   "device": "KING_KONG_3",
   "model": "KING_KONG_3"
@@ -26704,6 +26722,12 @@
   "name": "E0111",
   "device": "E0111",
   "model": "E0111"
+ },
+ {
+  "brand": "Everis",
+  "name": "E0112",
+  "device": "E0112",
+  "model": "E0112"
  },
  {
   "brand": "Everis",
@@ -37624,6 +37648,12 @@
   "name": "HackersTab",
   "device": "Hackers_Tab",
   "model": "Hackers_Tab"
+ },
+ {
+  "brand": "Haehne",
+  "name": "HAEHNE_M7",
+  "device": "HAEHNE_M7",
+  "model": "M7"
  },
  {
   "brand": "Hafury",
@@ -53557,6 +53587,12 @@
  },
  {
   "brand": "IQ Touch",
+  "name": "VIATABQX1040",
+  "device": "VIATABQX1040",
+  "model": "VIATABQX1040"
+ },
+ {
+  "brand": "IQ Touch",
   "name": "VIATABQX730",
   "device": "VIATABQX730",
   "model": "VIATABQX730"
@@ -55990,6 +56026,18 @@
   "name": "Fighter",
   "device": "Fighter",
   "model": "Fighter"
+ },
+ {
+  "brand": "Invens",
+  "name": "MAX3",
+  "device": "MAX3",
+  "model": "MAX3"
+ },
+ {
+  "brand": "Invens",
+  "name": "MAX8",
+  "device": "MAX8",
+  "model": "MAX8"
  },
  {
   "brand": "Invens",
@@ -102271,6 +102319,12 @@
  },
  {
   "brand": "SSB PHONES",
+  "name": "BS5214G",
+  "device": "BS5214G",
+  "model": "BS5214G"
+ },
+ {
+  "brand": "SSB PHONES",
   "name": "LM5118R",
   "device": "LM5118R",
   "model": "LM5118R"
@@ -102295,9 +102349,21 @@
  },
  {
   "brand": "SSB PHONES",
+  "name": "MM5014G",
+  "device": "MM5014G",
+  "model": "MM5014G"
+ },
+ {
+  "brand": "SSB PHONES",
   "name": "MP5184G",
   "device": "MP5184G",
   "model": "MP5184G"
+ },
+ {
+  "brand": "SSB PHONES",
+  "name": "SS5114G",
+  "device": "SS5114G",
+  "model": "SS5114G"
  },
  {
   "brand": "SSB PHONES",
@@ -105976,6 +106042,12 @@
   "name": "Galaxy Fold",
   "device": "SCV44",
   "model": "SCV44"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Fold",
+  "device": "winner",
+  "model": "SM-F9000"
  },
  {
   "brand": "Samsung",
@@ -114700,6 +114772,12 @@
   "name": "Galaxy Tab S6",
   "device": "gts6l",
   "model": "SM-T867"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Tab S6",
+  "device": "gts6l",
+  "model": "SM-T867R4"
  },
  {
   "brand": "Samsung",
@@ -124054,6 +124132,12 @@
   "name": "S40_EBONY",
   "device": "S40_EBONY",
   "model": "S40_EBONY"
+ },
+ {
+  "brand": "Stylo",
+  "name": "S40_VINO_PLUS",
+  "device": "S40_VINO_PLUS",
+  "model": "S40 VINO PLUS"
  },
  {
   "brand": "Stylo",
@@ -135718,6 +135802,12 @@
   "name": "TrueID TV",
   "device": "TV_A01",
   "model": "STI6030_TRUE_TV_A01"
+ },
+ {
+  "brand": "True",
+  "name": "TrueID TV",
+  "device": "TrueHPH07",
+  "model": "HPH07"
  },
  {
   "brand": "TuCEL",
@@ -155776,6 +155866,12 @@
   "name": "i7",
   "device": "i7",
   "model": "i7"
+ },
+ {
+  "brand": "newsan",
+  "name": "N405",
+  "device": "N405",
+  "model": "N405"
  },
  {
   "brand": "noDROPOUT",
