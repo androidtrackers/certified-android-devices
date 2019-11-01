@@ -3097,6 +3097,12 @@
  },
  {
   "brand": "AllView",
+  "name": "A10 Max",
+  "device": "A10_Max",
+  "model": "A10_Max"
+ },
+ {
+  "brand": "AllView",
   "name": "A10 Plus",
   "device": "A10_Plus",
   "model": "A10_Plus"
@@ -7084,6 +7090,12 @@
   "name": "Z600",
   "device": "Z600",
   "model": "Z600"
+ },
+ {
+  "brand": "Aspera",
+  "name": "A45",
+  "device": "A45",
+  "model": "A45"
  },
  {
   "brand": "Aspera",
@@ -25872,6 +25884,12 @@
   "model": "S3"
  },
  {
+  "brand": "Emporia",
+  "name": "S3mini",
+  "device": "S3mini",
+  "model": "S3mini"
+ },
+ {
   "brand": "Emtec",
   "name": "F400",
   "device": "f400",
@@ -29164,6 +29182,12 @@
   "name": "801FJ",
   "device": "SBM801FJ",
   "model": "801FJ"
+ },
+ {
+  "brand": "Fujitsu",
+  "name": "901FJ",
+  "device": "YM901FJ",
+  "model": "901FJ"
  },
  {
   "brand": "Fujitsu",
@@ -84127,6 +84151,12 @@
  },
  {
   "brand": "Motorola",
+  "name": "moto e6 play",
+  "device": "bali",
+  "model": "moto e6 play"
+ },
+ {
+  "brand": "Motorola",
   "name": "moto e\\xe2\\x81\\xb6 plus",
   "device": "pokerp",
   "model": "moto e(6) plus"
@@ -84298,6 +84328,18 @@
   "name": "moto g(7) power",
   "device": "ocean_n",
   "model": "moto g(7) power"
+ },
+ {
+  "brand": "Motorola",
+  "name": "moto g(8) play",
+  "device": "lima",
+  "model": "moto g(7) play"
+ },
+ {
+  "brand": "Motorola",
+  "name": "moto g(8) play",
+  "device": "lima",
+  "model": "moto g(8) play"
  },
  {
   "brand": "Motorola",
@@ -115915,6 +115957,12 @@
  },
  {
   "brand": "Samsung",
+  "name": "Galaxy XCover FieldPro",
+  "device": "haechiy19",
+  "model": "SM-G889F"
+ },
+ {
+  "brand": "Samsung",
   "name": "Galaxy XCover4",
   "device": "xcover4lte",
   "model": "SM-G390F"
@@ -117793,6 +117841,12 @@
  },
  {
   "brand": "Sharp",
+  "name": "AQUOS sense3",
+  "device": "PCZ-u",
+  "model": "SHV45-u"
+ },
+ {
+  "brand": "Sharp",
   "name": "AQUOS sense3 SH-02M",
   "device": "SH-02M",
   "model": "SH-02M"
@@ -117802,6 +117856,12 @@
   "name": "AQUOS sense3 SHV45",
   "device": "PCZ",
   "model": "SHV45"
+ },
+ {
+  "brand": "Sharp",
+  "name": "AQUOS sense3 basic (907SH)",
+  "device": "SG907SH",
+  "model": "907SH"
  },
  {
   "brand": "Sharp",
@@ -119677,6 +119737,12 @@
  },
  {
   "brand": "Skyworth",
+  "name": "Airtel",
+  "device": "AirtelOTTBox",
+  "model": "HP2707"
+ },
+ {
+  "brand": "Skyworth",
   "name": "Asia",
   "device": "SW3_ATV",
   "model": "SWTV"
@@ -120367,6 +120433,12 @@
  },
  {
   "brand": "Sony",
+  "name": "NW-A100",
+  "device": "icx1293",
+  "model": "NW-A100Series"
+ },
+ {
+  "brand": "Sony",
   "name": "NW-F800",
   "device": "icx1227",
   "model": "WALKMAN"
@@ -120394,6 +120466,12 @@
   "name": "NW-ZX2",
   "device": "icx1265",
   "model": "WALKMAN"
+ },
+ {
+  "brand": "Sony",
+  "name": "NW-ZX500",
+  "device": "icx1295",
+  "model": "NW-ZX500Series"
  },
  {
   "brand": "Sony",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-10-31
+Last sync is 2019-11-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -521,6 +521,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|A10 Lite|A10_Lite|A10_Lite|
 |AllView|A10 Lite 2019|A10_Lite_2019|A10_Lite_2019|
 |AllView|A10 Lite 2GB|A10_Lite_2GB|A10_Lite_2GB|
+|AllView|A10 Max|A10_Max|A10_Max|
 |AllView|A10 Plus|A10_Plus|A10_Plus|
 |AllView|A5 Easy|A5_Easy|A5_Easy|
 |AllView|A5 Easy|A5_Easy|A5_Easy_TM|
@@ -1186,6 +1187,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ashna|X55|X55|X55|
 |Ashna|X66|X66|X66|
 |Ashna|Z600|Z600|Z600|
+|Aspera|A45|A45|A45|
 |Aspera|A4G|A4G|A4G|
 |Aspera|Aspera Swift|Aspera_Swift|Swift|
 |Aspera|GEM|GEM|GEM|
@@ -4317,6 +4319,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Emerson|EM749/748|EM749_748|EM749_748|
 |Emerson|EM9|EM9|EM9|
 |Emporia|Emporia SMART 3|S3|S3|
+|Emporia|S3mini|S3mini|S3mini|
 |Emtec|F400|f400|f400|
 |Emtec|Gaming Android Gem Box|F500|Gem Box F500|
 |Energizer|EnergyE500|EnergyE500|EnergyE500|
@@ -4866,6 +4869,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Freetel|SAMURAI REI|FTJ161B|FTJ161B|
 |Freetel|SAMURAI REI 2|SAMURAI_REI2|FTJ17A00|
 |Fujitsu|801FJ|SBM801FJ|801FJ|
+|Fujitsu|901FJ|YM901FJ|901FJ|
 |Fujitsu|ARROWS A SoftBank 101F|SBM101F|101F|
 |Fujitsu|ARROWS A SoftBank 201F|SBM201F|201F|
 |Fujitsu|ARROWS A SoftBank 202F|SBM202F|202F|
@@ -14026,6 +14030,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto e5 plus|rhannah|moto e5 plus|
 |Motorola|moto e6|surfna|moto e6|
 |Motorola|moto e6|surfna|moto g(6)|
+|Motorola|moto e6 play|bali|moto e6 play|
 |Motorola|moto e\xe2\x81\xb6 plus|pokerp|moto e(6) plus|
 |Motorola|moto e\xe2\x81\xb6\xcb\xa2|pokerp|moto e(6s)|
 |Motorola|moto g(6)|ali|XT1925-10|
@@ -14055,6 +14060,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g(7) power|ocean|moto g(7) power|
 |Motorola|moto g(7) power|ocean|moto g(7) supra|
 |Motorola|moto g(7) power|ocean_n|moto g(7) power|
+|Motorola|moto g(8) play|lima|moto g(7) play|
+|Motorola|moto g(8) play|lima|moto g(8) play|
 |Motorola|moto g(8) plus|doha|moto g(7)|
 |Motorola|moto g(8) plus|doha|moto g(8) plus|
 |Motorola|moto g(8) plus|doha_n|moto g(8) plus|
@@ -19324,6 +19331,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Win Pro|wilcoxds|SM-G3812|
 |Samsung|Galaxy Win2|coreprimeltedtv|SM-G360BT|
 |Samsung|Galaxy XCover 4s|xcover4s|SM-G398FN|
+|Samsung|Galaxy XCover FieldPro|haechiy19|SM-G889F|
 |Samsung|Galaxy XCover4|xcover4lte|SM-G390F|
 |Samsung|Galaxy Xcover|GT-S5690|GT-S5690|
 |Samsung|Galaxy Xcover|GT-S5690L|GT-S5690L|
@@ -19637,8 +19645,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS sense2 SH-01L|SH-01L|SH-01L|
 |Sharp|AQUOS sense2 SHV43|MZW|SHV43|
 |Sharp|AQUOS sense2 SHV43|MZW-u|SHV43-u|
+|Sharp|AQUOS sense3|PCZ-u|SHV45-u|
 |Sharp|AQUOS sense3 SH-02M|SH-02M|SH-02M|
 |Sharp|AQUOS sense3 SHV45|PCZ|SHV45|
+|Sharp|AQUOS sense3 basic (907SH)|SG907SH|907SH|
 |Sharp|AQUOS sense3 lite|SH-RM12|SH-RM12|
 |Sharp|AQUOS zero|SG801SH|801SH|
 |Sharp|AQUOS zero|SH-Z10|SH-Z10|
@@ -19951,6 +19961,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Skyview|M5|M5|M5|
 |Skyworth|APAC|SW3H_ATV|SWTV|
 |Skyworth|APAC 2K TV|shibuya|SWTV|
+|Skyworth|Airtel|AirtelOTTBox|HP2707|
 |Skyworth|Asia|SW3_ATV|SWTV|
 |Skyworth|Asia|globe_ap|globe|
 |Skyworth|Asia|open_fhd_ap|open_fhd|
@@ -20066,11 +20077,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Internet TV|asura|Internet TV|
 |Sony|Internet TV|eagle|Internet TV Box|
 |Sony|NSZGS7|NSZGS7|NSZ-GS7/GX70|
+|Sony|NW-A100|icx1293|NW-A100Series|
 |Sony|NW-F800|icx1227|WALKMAN|
 |Sony|NW-F880 Series|icx1237|WALKMAN|
 |Sony|NW-Z1000|icx1216|NW-Z1000Series|
 |Sony|NW-ZX1|icx1240|WALKMAN|
 |Sony|NW-ZX2|icx1265|WALKMAN|
+|Sony|NW-ZX500|icx1295|NW-ZX500Series|
 |Sony|NWZ-Z1000|icx1216|NWZ-Z1000Series|
 |Sony|NWZ-ZX1|icx1240|WALKMAN|
 |Sony|SmartWatch 3|tetra|SmartWatch 3|
