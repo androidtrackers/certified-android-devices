@@ -89605,6 +89605,12 @@
  },
  {
   "brand": "OnePlus",
+  "name": "OnePlus 7T",
+  "device": "OnePlus7TTMO",
+  "model": "HD1907"
+ },
+ {
+  "brand": "OnePlus",
   "name": "OnePlus 7T Pro",
   "device": "OnePlus7TPro",
   "model": "HD1913"
