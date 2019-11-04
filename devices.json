@@ -26214,6 +26214,12 @@
   "model": "VMD1029"
  },
  {
+  "brand": "Epson",
+  "name": "STI6110",
+  "device": "Bushi",
+  "model": "STI6110"
+ },
+ {
   "brand": "Equator",
   "name": "Axis",
   "device": "Axis",
@@ -52807,6 +52813,12 @@
  },
  {
   "brand": "Hurricane",
+  "name": "Storm",
+  "device": "Storm",
+  "model": "Storm"
+ },
+ {
+  "brand": "Hurricane",
   "name": "Surge",
   "device": "Surge",
   "model": "Surge"
@@ -54394,6 +54406,12 @@
   "name": "S5",
   "device": "Infinix-X652",
   "model": "Infinix X652"
+ },
+ {
+  "brand": "Infinix",
+  "name": "S5",
+  "device": "Infinix-X652A",
+  "model": "Infinix X652A"
  },
  {
   "brand": "Infinix",
@@ -87846,6 +87864,12 @@
   "model": "NB RunIQ"
  },
  {
+  "brand": "Newings",
+  "name": "T18",
+  "device": "T18",
+  "model": "T18"
+ },
+ {
   "brand": "Newland",
   "name": "NLS-MT6550-AM",
   "device": "NLS-MT6550-AM",
@@ -95898,6 +95922,12 @@
   "model": "DCTIW362_PLAY"
  },
  {
+  "brand": "PlayPoland",
+  "name": "play_dctiw362",
+  "device": "dctiw362p",
+  "model": "DCTIW362_PLAY"
+ },
+ {
   "brand": "Plum",
   "name": "Z518",
   "device": "Z518",
@@ -101872,6 +101902,12 @@
   "name": "GO3C",
   "device": "GO3C",
   "model": "GO3C"
+ },
+ {
+  "brand": "SEMP TCL",
+  "name": "GO3C_Plus",
+  "device": "GO3C_Plus",
+  "model": "GO3C Plus"
  },
  {
   "brand": "SEMP TCL",
@@ -129325,6 +129361,12 @@
  },
  {
   "brand": "TCT (Alcatel)",
+  "name": "Alcatel 3L",
+  "device": "Benz",
+  "model": "HEYOU50"
+ },
+ {
+  "brand": "TCT (Alcatel)",
   "name": "Alcatel 3T 10",
   "device": "A3A_10_4G",
   "model": "8088M"
@@ -144772,6 +144814,12 @@
   "name": "STING",
   "device": "dwi765yes",
   "model": "STING"
+ },
+ {
+  "brand": "YesTeL",
+  "name": "Note_30_pro",
+  "device": "Note_30_pro",
+  "model": "Note 30 pro"
  },
  {
   "brand": "Yezz",

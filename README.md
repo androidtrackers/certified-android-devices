@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-11-03
+Last sync is 2019-11-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4374,6 +4374,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Envizen Digital|V100MD|V100MD|V100MD|
 |Envizen Digital|V917G|GK-MID9022|V917G|
 |Envizen Digital|VMD1029|VMD1029|VMD1029|
+|Epson|STI6110|Bushi|STI6110|
 |Equator|Axis|Axis|Axis|
 |Ergo|B502 Basic|B502_Basic|B502 Basic|
 |Ergo|B504_Unit|B504_Unit|B504_Unit|
@@ -8806,6 +8807,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hurricane|Slam|Slam|Slam|
 |Hurricane|Splash|Splash|Splash|
 |Hurricane|Sprint|Sprint|Sprint|
+|Hurricane|Storm|Storm|Storm|
 |Hurricane|Surge|Surge|Surge|
 |Hurricane|Swift|Swift|Swift|
 |Hurricane|Touch|Touch|Touch|
@@ -9071,6 +9073,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|S4|Infinix-X626B|Infinix X626B|
 |Infinix|S4|Infinix-X626B-LTE|Infinix X626B LTE|
 |Infinix|S5|Infinix-X652|Infinix X652|
+|Infinix|S5|Infinix-X652A|Infinix X652A|
 |Infinix|S5 Lite|Infinix-X652B|Infinix X652B|
 |Infinix|S5 Lite|Infinix-X652C|Infinix X652C|
 |Infinix|SURF 2|INFINIX_X511|Infinix X511|
@@ -14646,6 +14649,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Netgear|NeoTVPrime|NeoTV|GTV100|
 |Netmak|NETPAD7|NM-NETPAD7|NM-NETPAD7|
 |New Balance|Run IQ|shasta|NB RunIQ|
+|Newings|T18|T18|T18|
 |Newland|NLS-MT6550-AM|NLS-MT6550-AM|NLS-MT65|
 |Newland|NLS-MT6552-EEA|NLS-MT6552-EEA|NLS-MT65|
 |Newland|NLS-MT6552-GL|NLS-MT6552-GL|NLS-MT65|
@@ -15988,6 +15992,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Planet Computers|Cosmo_Communicator|Cosmo_Communicator|Cosmo_Communicator|
 |Planet Computers|Gemini|Gemini_4G|Gemini_4G|
 |PlayPoland|Play Now|dctiw362p|DCTIW362_PLAY|
+|PlayPoland|play_dctiw362|dctiw362p|DCTIW362_PLAY|
 |Plum|Z518|Z518|Z518|
 |Plum|Z519|Z519|Z519|
 |Plum|Z621|Z621|Z621|
@@ -16984,6 +16989,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SELECLINE|MID7526CM|MID7526CM|NID_7010|
 |SELECLINE|MID_9526CM|MID_9526CM|S952|
 |SEMP TCL|GO3C|GO3C|GO3C|
+|SEMP TCL|GO3C_Plus|GO3C_Plus|GO3C Plus|
 |SEMP TCL|GO3C_VIVO|GO3C|GO3C|
 |SEMP TCL|GO3E|GO3E|GO3E|
 |SEMP TCL|GO5E|GO5E|GO5E|
@@ -21559,6 +21565,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 3L|Benz|5039D_RU|
 |TCT (Alcatel)|Alcatel 3L|Benz|5039U|
 |TCT (Alcatel)|Alcatel 3L|Benz|5039Y_RU|
+|TCT (Alcatel)|Alcatel 3L|Benz|HEYOU50|
 |TCT (Alcatel)|Alcatel 3T 10|A3A_10_4G|8088M|
 |TCT (Alcatel)|Alcatel 3T 8|A3A_8_4G|9027F|
 |TCT (Alcatel)|Alcatel 3T 8|A3A_8_4G|9027Q|
@@ -24134,6 +24141,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Yes|Altitude 2|M651G_MY|M651G_MY|
 |Yes|M631Y|M631Y|M631Y|
 |Yes|STING|dwi765yes|STING|
+|YesTeL|Note_30_pro|Note_30_pro|Note 30 pro|
 |Yezz|4E|4E|4E|
 |Yezz|5.5M|5_5M|5.5M|
 |Yezz|5E|5E|5E|
