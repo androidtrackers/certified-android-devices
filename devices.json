@@ -4459,6 +4459,12 @@
  },
  {
   "brand": "Andersson",
+  "name": "TBQ10322",
+  "device": "TBQ10322",
+  "model": "TBQ10322"
+ },
+ {
+  "brand": "Andersson",
   "name": "TBQ8322",
   "device": "TBQ8322",
   "model": "TBQ8322"
@@ -8779,57 +8785,57 @@
  },
  {
   "brand": "Asus",
-  "name": "ZenFone Max M1 (ZB555KL)",
+  "name": "ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL)",
   "device": "ASUS_X00P_1",
   "model": "ASUS_X00PD"
  },
  {
   "brand": "Asus",
-  "name": "ZenFone Max M1 (ZB555KL)",
+  "name": "ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL)",
   "device": "ASUS_X00P_1",
   "model": "ZB555KL"
  },
  {
   "brand": "Asus",
-  "name": "ZenFone Max M1 (ZB555KL)",
+  "name": "ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL)",
   "device": "ASUS_X00P_2",
   "model": "ASUS_X00PD"
  },
  {
   "brand": "Asus",
-  "name": "ZenFone Max M1 (ZB555KL)",
+  "name": "ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL)",
+  "device": "ASUS_X00P_3",
+  "model": "ASUS_X00PD"
+ },
+ {
+  "brand": "Asus",
+  "name": "ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL)",
   "device": "ASUS_X00P_3",
   "model": "ZB555KL"
  },
  {
   "brand": "Asus",
-  "name": "ZenFone Max M1 (ZB555KL)",
+  "name": "ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL)",
   "device": "ASUS_X00P_4",
   "model": "ASUS_X00PD"
  },
  {
   "brand": "Asus",
-  "name": "ZenFone Max M1 (ZB555KL)",
+  "name": "ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL)",
   "device": "ASUS_X00P_6",
   "model": "ASUS_X00PD"
  },
  {
   "brand": "Asus",
-  "name": "ZenFone Max M1 (ZB555KL)",
+  "name": "ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL)",
   "device": "ASUS_X00P_8",
   "model": "ASUS_X00PD"
  },
  {
   "brand": "Asus",
-  "name": "ZenFone Max M1 (ZB555KL)",
+  "name": "ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL)",
   "device": "ASUS_X00P_8",
   "model": "ZB555KL"
- },
- {
-  "brand": "Asus",
-  "name": "ZenFone Max M1/M2 (ZB555KL)",
-  "device": "ASUS_X00P_3",
-  "model": "ASUS_X00PD"
  },
  {
   "brand": "Asus",
@@ -10426,6 +10432,18 @@
   "name": "X101",
   "device": "X101",
   "model": "X101"
+ },
+ {
+  "brand": "BEISTA",
+  "name": "X104",
+  "device": "X104",
+  "model": "X104"
+ },
+ {
+  "brand": "BEISTA",
+  "name": "X104-EEA",
+  "device": "X104-EEA",
+  "model": "X104-EEA"
  },
  {
   "brand": "BGH S.A.",
@@ -58639,6 +58657,12 @@
  },
  {
   "brand": "KRIP",
+  "name": "K55h",
+  "device": "K55h",
+  "model": "K55h"
+ },
+ {
+  "brand": "KRIP",
   "name": "K6",
   "device": "K6",
   "model": "K6"
@@ -73483,6 +73507,12 @@
  },
  {
   "brand": "Lenovo",
+  "name": "Lenovo Tab M8",
+  "device": "8505N",
+  "model": "Lenovo TB-8505N"
+ },
+ {
+  "brand": "Lenovo",
   "name": "Lenovo Tab P10",
   "device": "X705F",
   "model": "Lenovo TB-X705F"
@@ -76474,6 +76504,12 @@
   "name": "Any 303",
   "device": "TR10CD2_3",
   "model": "TR10CD2"
+ },
+ {
+  "brand": "MINIX",
+  "name": "MINIX NEO T5",
+  "device": "DV8553",
+  "model": "DV8553"
  },
  {
   "brand": "MIRAY",
@@ -100998,6 +101034,12 @@
   "model": "RAINBOW"
  },
  {
+  "brand": "Rakuten",
+  "name": "C330",
+  "device": "C330",
+  "model": "C330"
+ },
+ {
   "brand": "Ratel",
   "name": "Cell",
   "device": "Cell",
@@ -101320,6 +101362,12 @@
   "name": "redway10",
   "device": "redway10",
   "model": "redway10"
+ },
+ {
+  "brand": "Redway",
+  "name": "redway_7",
+  "device": "redway_7",
+  "model": "redway_7"
  },
  {
   "brand": "Reeder",
@@ -120348,6 +120396,18 @@
   "model": "XP8800"
  },
  {
+  "brand": "Soniq",
+  "name": "PT0719A",
+  "device": "PT0719A",
+  "model": "PT0719A"
+ },
+ {
+  "brand": "Soniq",
+  "name": "PT1019A",
+  "device": "PT1019A",
+  "model": "PT1019A"
+ },
+ {
   "brand": "Sony",
   "name": "",
   "device": "C5503",
@@ -135046,12 +135106,6 @@
   "name": "K1",
   "device": "K1",
   "model": "K1"
- },
- {
-  "brand": "Tinno",
-  "name": "C330",
-  "device": "C330",
-  "model": "C330"
  },
  {
   "brand": "Tinp",
@@ -155980,6 +156034,12 @@
   "name": "Mytel M9601",
   "device": "Mytel_M9601",
   "model": "M9601"
+ },
+ {
+  "brand": "neocore",
+  "name": "neocore_E1_2",
+  "device": "neocore_E1_2_eea",
+  "model": "neocore E1-2"
  },
  {
   "brand": "neocore",

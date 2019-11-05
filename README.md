@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-11-04
+Last sync is 2019-11-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -748,6 +748,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Amplify|TR10CD3|TR10CD3_2|TR10CD3|
 |Amstrad|Android TV|R2|ATV R2|
 |Andersson|TBQ-7321|TBQ-7321|TBQ-7321|
+|Andersson|TBQ10322|TBQ10322|TBQ10322|
 |Andersson|TBQ8322|TBQ8322|TBQ8322|
 |Andersson|TBQ_10321|TBQ_10321|TBQ_10321|
 |Anydata||ASP320Q_GSM|ASP320Q_ANDi|
@@ -1468,15 +1469,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ZenFone Max (ZC550KL)|ASUS_Z010_2|ASUS_Z010DD|
 |Asus|ZenFone Max (ZC550KL)|ASUS_Z010_CD|ASUS_Z010D|
 |Asus|ZenFone Max (ZC550KL)|ASUS_Z010_CD|ASUS_Z010DA|
-|Asus|ZenFone Max M1 (ZB555KL)|ASUS_X00P_1|ASUS_X00PD|
-|Asus|ZenFone Max M1 (ZB555KL)|ASUS_X00P_1|ZB555KL|
-|Asus|ZenFone Max M1 (ZB555KL)|ASUS_X00P_2|ASUS_X00PD|
-|Asus|ZenFone Max M1 (ZB555KL)|ASUS_X00P_3|ZB555KL|
-|Asus|ZenFone Max M1 (ZB555KL)|ASUS_X00P_4|ASUS_X00PD|
-|Asus|ZenFone Max M1 (ZB555KL)|ASUS_X00P_6|ASUS_X00PD|
-|Asus|ZenFone Max M1 (ZB555KL)|ASUS_X00P_8|ASUS_X00PD|
-|Asus|ZenFone Max M1 (ZB555KL)|ASUS_X00P_8|ZB555KL|
-|Asus|ZenFone Max M1/M2 (ZB555KL)|ASUS_X00P_3|ASUS_X00PD|
+|Asus|ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL)|ASUS_X00P_1|ASUS_X00PD|
+|Asus|ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL)|ASUS_X00P_1|ZB555KL|
+|Asus|ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL)|ASUS_X00P_2|ASUS_X00PD|
+|Asus|ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL)|ASUS_X00P_3|ASUS_X00PD|
+|Asus|ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL)|ASUS_X00P_3|ZB555KL|
+|Asus|ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL)|ASUS_X00P_4|ASUS_X00PD|
+|Asus|ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL)|ASUS_X00P_6|ASUS_X00PD|
+|Asus|ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL)|ASUS_X00P_8|ASUS_X00PD|
+|Asus|ZenFone Max M1 (ZB556KL) / ZenFone Max M1/M2/M3 (ZB555KL)|ASUS_X00P_8|ZB555KL|
 |Asus|ZenFone Max M2 (ZB633KL) (WW) / Max M2 (ZB632KL) (IN)|ASUS_X01A_1|ASUS_X01AD|
 |Asus|ZenFone Max M2 (ZB633KL) (WW) / Max M2 (ZB632KL) (IN)|ASUS_X01A_1|ZB633KL|
 |Asus|ZenFone Max Plus M1 (ZB570TL)|ASUS_X018_1|ASUS_X018D|
@@ -1743,6 +1744,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BEISTA|K105|K105|K105|
 |BEISTA|K109|K109|K109|
 |BEISTA|X101|X101|X101|
+|BEISTA|X104|X104|X104|
+|BEISTA|X104-EEA|X104-EEA|X104-EEA|
 |BGH S.A.|BGH Joy 303|BGH_Joy_303|BGH Joy 303|
 |BKAV|B2017|B2017|B2017|
 |BKAV|B2017|B2017|Bphone B2017|
@@ -9778,6 +9781,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KOOOK|C600|GBC_bravo|C600|
 |KRIP|K4b|K4b|K4b|
 |KRIP|K5|K5|K5|
+|KRIP|K55h|K55h|K55h|
 |KRIP|K6|K6|K6|
 |KRIP|K65|K65|K65|
 |KRIP|K700A|KRIP_K700A|K700A|
@@ -12252,6 +12256,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M7|7305X|Lenovo TB-7305X|
 |Lenovo|Lenovo Tab M8|8505F|Lenovo TB-8505F|
 |Lenovo|Lenovo Tab M8|8505FS|Lenovo TB-8505FS|
+|Lenovo|Lenovo Tab M8|8505N|Lenovo TB-8505N|
 |Lenovo|Lenovo Tab P10|X705F|Lenovo TB-X705F|
 |Lenovo|Lenovo Tab P10|X705L|Lenovo TB-X705L|
 |Lenovo|Lenovo Tab V7|PB-6505M|Lenovo PB-6505M|
@@ -12751,6 +12756,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MG series|Any 302|TR10CS2_3|TR10CS2|
 |MG series|Any 303|TR10CD2_2|TR10CD2|
 |MG series|Any 303|TR10CD2_3|TR10CD2|
+|MINIX|MINIX NEO T5|DV8553|DV8553|
 |MIRAY|MIDM_737|MIDM_737|MIDM_737|
 |MIRAY|MIDM_F10|MIDM_F10|MIDM_F10|
 |MJS|T2702|T2702|T2702|
@@ -16838,6 +16844,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RT Project|popper2|popper2|popper2|
 |Radger|IMP-F01K|IMP-F01K|IMP-F01K|
 |Rainbow|WIKO|s5501|RAINBOW|
+|Rakuten|C330|C330|C330|
 |Ratel|Cell|Cell|CELL|
 |Rayan|AM_TAB_7_03|AMAA703|AMA_A703|
 |Raylandz|H1 PLUS|PHOENIX_H1PLUS|PHOENIX_H1PLUS|
@@ -16892,6 +16899,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi K20 Pro|raphael|Redmi K20 Pro Premium Edition|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Redway|redway10|redway10|redway10|
+|Redway|redway_7|redway_7|redway_7|
 |Reeder|A8i Q2|A8i-Q2|A8i-Q2|
 |Reeder|M7 Plus|reeder_M7Plus|M7Plus|
 |Reeder|M7Go_2019|M7Go_2019|M7Go_2019|
@@ -20063,6 +20071,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sonimtech|XP7700Z1|XP7700Z1|Smart-Ex 01|
 |Sonimtech|XP7705|XP7705|XP7700|
 |Sonimtech|XP8|XP8800|XP8800|
+|Soniq|PT0719A|PT0719A|PT0719A|
+|Soniq|PT1019A|PT1019A|PT1019A|
 |Sony||C5503|C5503|
 |Sony||C6616|C6616|
 |Sony||SGP312|SGP312|
@@ -22513,7 +22523,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Timovi|Yeah_Go|Yeah_Go|Yeah_Go|
 |Tinhvan|TA80TA1|TA80TA1_1|TA80TA1|
 |Tinmo|K1|K1|K1|
-|Tinno|C330|C330|C330|
 |Tinp|HaTV|DV8330-C|HaTV|
 |Tinp|Play TV|DV8219|Play TV|
 |Tiwell|AP-115G|AP-115G|AP-115G|
@@ -26002,6 +26011,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |mytel|M9602|M9602|M9602|
 |mytel|Msuper|Msuper|Msuper|
 |mytel|Mytel M9601|Mytel_M9601|M9601|
+|neocore|neocore_E1_2|neocore_E1_2_eea|neocore E1-2|
 |neocore|neocore_N1G1|neocore_N1G1|neocore_N1G1|
 |neutab|K1S|K1S|K1S|
 |neutab|i7|i7|i7|
