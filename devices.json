@@ -13321,6 +13321,12 @@
  },
  {
   "brand": "Blackview",
+  "name": "BV9800",
+  "device": "BV9800",
+  "model": "BV9800"
+ },
+ {
+  "brand": "Blackview",
   "name": "Blackview A10",
   "device": "A10",
   "model": "A10"
@@ -23545,6 +23551,12 @@
  },
  {
   "brand": "Digma",
+  "name": "Plane 8595 3G PS8212PG",
+  "device": "PS8212PG",
+  "model": "Plane 8595 3G PS8212PG"
+ },
+ {
+  "brand": "Digma",
   "name": "Plane_1573N_4G/",
   "device": "PS1189ML",
   "model": "Plane 1573N 4G PS1189ML"
@@ -30472,6 +30484,12 @@
   "name": "GM10",
   "device": "GM10",
   "model": "GM10"
+ },
+ {
+  "brand": "Gear Mobile",
+  "name": "GM30",
+  "device": "GM30",
+  "model": "GM30"
  },
  {
   "brand": "Gear Mobile",
@@ -43213,6 +43231,12 @@
  },
  {
   "brand": "Hotwav",
+  "name": "Pearl_K2_Prime",
+  "device": "Pearl_K2_Prime",
+  "model": "Pearl K2 Prime"
+ },
+ {
+  "brand": "Hotwav",
   "name": "Symbol",
   "device": "Symbol",
   "model": "Symbol"
@@ -54550,6 +54574,12 @@
   "name": "Smart 3 Plus",
   "device": "Infinix-X627W",
   "model": "Infinix X627W"
+ },
+ {
+  "brand": "Infinix",
+  "name": "Smart 4",
+  "device": "Infinix-X653",
+  "model": "Infinix X653"
  },
  {
   "brand": "Infinix",
@@ -85285,6 +85315,12 @@
  },
  {
   "brand": "Multilaser",
+  "name": "Multilaser G Max",
+  "device": "Multilaser_G_Max",
+  "model": "Multilaser_G_Max"
+ },
+ {
+  "brand": "Multilaser",
   "name": "Multilaser G Pro",
   "device": "Multilaser_G_Pro",
   "model": "Multilaser_G_Pro"
@@ -85384,6 +85420,12 @@
   "name": "Hammer_Energy_3G",
   "device": "Hammer_Energy_3G",
   "model": "Hammer Energy 3G"
+ },
+ {
+  "brand": "MyPhone (PL)",
+  "name": "Hammer_Explorer",
+  "device": "Hammer_Explorer",
+  "model": "Hammer_Explorer"
  },
  {
   "brand": "MyPhone (PL)",
@@ -90001,6 +90043,18 @@
  },
  {
   "brand": "Oppo",
+  "name": "A11 \\xe4\\xb8\\xad\\xe5\\x9b\\xbd\\xe7\\x89\\x88",
+  "device": "OP4A4D",
+  "model": "PCHM10"
+ },
+ {
+  "brand": "Oppo",
+  "name": "A11 \\xe4\\xb8\\xad\\xe5\\x9b\\xbd\\xe7\\x89\\x88",
+  "device": "OP4A4D",
+  "model": "PCHT10"
+ },
+ {
+  "brand": "Oppo",
   "name": "A11f",
   "device": "A11",
   "model": "A11f"
@@ -90016,6 +90070,18 @@
   "name": "A11w",
   "device": "A11w",
   "model": "A11w"
+ },
+ {
+  "brand": "Oppo",
+  "name": "A11x \\xe4\\xb8\\xad\\xe5\\x9b\\xbd\\xe7\\x89\\x88",
+  "device": "OP4A54",
+  "model": "PCHM30"
+ },
+ {
+  "brand": "Oppo",
+  "name": "A11x \\xe4\\xb8\\xad\\xe5\\x9b\\xbd\\xe7\\x89\\x88",
+  "device": "OP4A54",
+  "model": "PCHT30"
  },
  {
   "brand": "Oppo",
@@ -90271,6 +90337,18 @@
  },
  {
   "brand": "Oppo",
+  "name": "A5 2020",
+  "device": "OP4B79L1",
+  "model": "CPH1933"
+ },
+ {
+  "brand": "Oppo",
+  "name": "A5 2020",
+  "device": "OP4B80L1",
+  "model": "CPH1943"
+ },
+ {
+  "brand": "Oppo",
   "name": "A51",
   "device": "A51",
   "model": "A51"
@@ -90514,6 +90592,18 @@
   "name": "A83t",
   "device": "A83t",
   "model": "OPPO A83t"
+ },
+ {
+  "brand": "Oppo",
+  "name": "A9 2020",
+  "device": "OP4B80L1",
+  "model": "CPH1937"
+ },
+ {
+  "brand": "Oppo",
+  "name": "A9 2020",
+  "device": "OP4B80L1",
+  "model": "CPH1941"
  },
  {
   "brand": "Oppo",
@@ -92188,6 +92278,12 @@
   "name": "Nura2",
   "device": "m823_orange",
   "model": "Nura 2"
+ },
+ {
+  "brand": "Orange",
+  "name": "Orange",
+  "device": "Neva_start",
+  "model": "Orange Neva start"
  },
  {
   "brand": "Orange",
@@ -119166,6 +119262,12 @@
   "model": "ADT-2"
  },
  {
+  "brand": "Shenzhen SEI Robotics",
+  "name": "AMLogic Ref",
+  "device": "franklin",
+  "model": "franklin"
+ },
+ {
   "brand": "Shuttle",
   "name": "PNT-7045",
   "device": "PNT-7045",
@@ -119428,6 +119530,12 @@
   "name": "TangoTab8",
   "device": "TangoTab8",
   "model": "TangoTab8"
+ },
+ {
+  "brand": "SimiMobile",
+  "name": "S502",
+  "device": "S502",
+  "model": "S502"
  },
  {
   "brand": "SimiMobile",
@@ -136920,6 +137028,12 @@
   "model": "Atom"
  },
  {
+  "brand": "Unihertz",
+  "name": "Titan",
+  "device": "Titan",
+  "model": "Titan"
+ },
+ {
   "brand": "Unistrong",
   "name": "UT10",
   "device": "UT10",
@@ -143038,6 +143152,12 @@
   "name": "Y60",
   "device": "W-K510",
   "model": "W-K510-TVM"
+ },
+ {
+  "brand": "Wiko",
+  "name": "Y60",
+  "device": "W-K510DG",
+  "model": "W-K510-TH"
  },
  {
   "brand": "Wiko",
@@ -156244,6 +156364,12 @@
   "name": "7Q105",
   "device": "SENCOR_7Q105",
   "model": "SENCOR_7Q105"
+ },
+ {
+  "brand": "sencor",
+  "name": "7Q204",
+  "device": "7Q204",
+  "model": "7Q204"
  },
  {
   "brand": "sencor",

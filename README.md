@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-11-06
+Last sync is 2019-11-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2225,6 +2225,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|BV9100|BV9100|BV9100|
 |Blackview|BV9600|BV9600|BV9600|
 |Blackview|BV9600Pro|Blackview|BV9600Pro|
+|Blackview|BV9800|BV9800|BV9800|
 |Blackview|Blackview A10|A10|A10|
 |Blackview|Blackview A20 Pro|A20Pro|A20Pro|
 |Blackview|Blackview A30|A30|A30|
@@ -3929,6 +3930,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Digma|Plane 8522 3G PS8135MG|PS8135MG|Plane_8522_3G_PS8135MG|
 |Digma|Plane 8536E 3G PS8148MG|PS8148MG|Plane_8536E_3G_PS8148MG|
 |Digma|Plane 8555M 4G PS8168ML|PS8168ML|Plane 8555M 4G PS8168ML|
+|Digma|Plane 8595 3G PS8212PG|PS8212PG|Plane 8595 3G PS8212PG|
 |Digma|Plane_1573N_4G/|PS1189ML|Plane 1573N 4G PS1189ML|
 |Digma|Plane_1596_3G_PS1213PG|PS1213PG|Plane 1596 3G PS1213PG|
 |Digma|Plane_7548S_4G_PS7160PL|PS7160PL|Plane_7548S_4G_PS7160PL|
@@ -5084,6 +5086,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gear Mobile|Feel_7013N|Feel_7013N|Feel_7013N|
 |Gear Mobile|Feel_8002N|Feel_8002N|8002N|
 |Gear Mobile|GM10|GM10|GM10|
+|Gear Mobile|GM30|GM30|GM30|
 |Gear Mobile|GM7|GM7|GM7|
 |Geecoo|G1|G1|G1|
 |Geecoo|G1_3g|G1_3g|G1_3g|
@@ -7207,6 +7210,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hotwav|Magic_5_Plus|Magic_5_Plus|Magic 5 Plus|
 |Hotwav|Pearl K1|Pearl_K1|Pearl K1|
 |Hotwav|Pearl K2|Pearl_K2|Pearl K2|
+|Hotwav|Pearl_K2_Prime|Pearl_K2_Prime|Pearl K2 Prime|
 |Hotwav|Symbol|Symbol|Symbol|
 |Hotwav|Symbol M1|Symbol_M1|Symbol M1|
 |Hotwav|Symbol M1Plus|Symbol_M1_Plus|Symbol M1 Plus|
@@ -9097,6 +9101,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Smart 3 Plus|Infinix-X627STU|Infinix X627|
 |Infinix|Smart 3 Plus|Infinix-X627V|Infinix X627V|
 |Infinix|Smart 3 Plus|Infinix-X627W|Infinix X627W|
+|Infinix|Smart 4|Infinix-X653|Infinix X653|
 |Infinix|Smart 4|Infinix-X653C|Infinix X653C|
 |Infinix|X405|up09_infinix_x405_gms|Infinix X405|
 |Infinix|X505|X505|Infinix X505|
@@ -14219,6 +14224,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|Multilaser E|Multilaser_E|Multilaser_E|
 |Multilaser|Multilaser E Lite|Multilaser_E_Lite|Multilaser_E_Lite|
 |Multilaser|Multilaser G|Multilaser_G|Multilaser_G|
+|Multilaser|Multilaser G Max|Multilaser_G_Max|Multilaser_G_Max|
 |Multilaser|Multilaser G Pro|Multilaser_G_Pro|Multilaser_G_Pro|
 |Multilaser|Multilaser H|Multilaser_H|Multilaser H|
 |Multilaser|Multilaser_F|Multilaser_F|Multilaser_F|
@@ -14236,6 +14242,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MyPhone (PL)|Hammer Titan 2|Hammer_Titan_2|Hammer Titan 2|
 |MyPhone (PL)|Hammer_Active|HammerActive|Hammer Active|
 |MyPhone (PL)|Hammer_Energy_3G|Hammer_Energy_3G|Hammer Energy 3G|
+|MyPhone (PL)|Hammer_Explorer|Hammer_Explorer|Hammer_Explorer|
 |MyPhone (PL)|Hammer_Iron_2|Hammer_Iron_2|Hammer Iron 2|
 |MyPhone (PL)|Hykker MyTab10|Hykker_MyTab10|Hykker_MyTab10|
 |MyPhone (PL)|MyPhone Go!|myPhone_Go|myPhone Go|
@@ -15005,9 +15012,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|3007|3007|3007|
 |Oppo|3008|3008|3008|
 |Oppo|A11|A11|A11|
+|Oppo|A11 \xe4\xb8\xad\xe5\x9b\xbd\xe7\x89\x88|OP4A4D|PCHM10|
+|Oppo|A11 \xe4\xb8\xad\xe5\x9b\xbd\xe7\x89\x88|OP4A4D|PCHT10|
 |Oppo|A11f|A11|A11f|
 |Oppo|A11t|A11|A11t|
 |Oppo|A11w|A11w|A11w|
+|Oppo|A11x \xe4\xb8\xad\xe5\x9b\xbd\xe7\x89\x88|OP4A54|PCHM30|
+|Oppo|A11x \xe4\xb8\xad\xe5\x9b\xbd\xe7\x89\x88|OP4A54|PCHT30|
 |Oppo|A13t|A31t|A31t|
 |Oppo|A1601|A1601|A1601|
 |Oppo|A1601|A1601|A1601fw|
@@ -15050,6 +15061,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A5|PBBM30|PBBM30|
 |Oppo|A5|PBBT30|PBBT30|
 |Oppo|A5 2020|OP4B79L1|CPH1931|
+|Oppo|A5 2020|OP4B79L1|CPH1933|
+|Oppo|A5 2020|OP4B80L1|CPH1943|
 |Oppo|A51|A51|A51|
 |Oppo|A51|A51|Lava A51|
 |Oppo|A51f|A51|A51f|
@@ -15091,6 +15104,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A7x \xe4\xb8\xad\xe5\x9b\xbd\xe7\x89\x88|PBBT00|PBBT00|
 |Oppo|A83|A83|OPPO A83|
 |Oppo|A83t|A83t|OPPO A83t|
+|Oppo|A9 2020|OP4B80L1|CPH1937|
+|Oppo|A9 2020|OP4B80L1|CPH1941|
 |Oppo|A9 \xe4\xb8\xad\xe5\x9b\xbd\xe7\x89\x88|OP46F1|PCAM10|
 |Oppo|A9 \xe4\xb8\xad\xe5\x9b\xbd\xe7\x89\x88|OP46F1|PCAT10|
 |Oppo|A9x|OP46F3|PCEM00|
@@ -15370,6 +15385,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Orange|Neva 80|Orange_Neva_80|Orange Neva 80|
 |Orange|Nura|M812|Orange Nura|
 |Orange|Nura2|m823_orange|Nura 2|
+|Orange|Orange|Neva_start|Orange Neva start|
 |Orange|Orange|Rise_55|Orange Rise 55|
 |Orange|Orange Neva start|Neva_start|Orange Neva start|
 |Orange|Orange Rise 33|Rise33|Orange_Rise_33|
@@ -19866,6 +19882,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Shenzhen Jiuzhou|DTP9503|DTP9503|DTP9503|
 |Shenzhen Jiuzhou|DTP9710|DTP9710|DTP9710|
 |Shenzhen SEI Robotics|ADT-2|adt2|ADT-2|
+|Shenzhen SEI Robotics|AMLogic Ref|franklin|franklin|
 |Shuttle|PNT-7045|PNT-7045|PNT-7045|
 |SiAL|Bic camera|Si01BB|Si01BB|
 |SiAL|Si01BE|Si01BE|Si01BE|
@@ -19910,6 +19927,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Simbans|PicassoTab8s|PicassoTab8s|PicassoTab8s|
 |Simbans|TangoTab|TangoTab|TangoTab|
 |Simbans|TangoTab8|TangoTab8|TangoTab8|
+|SimiMobile|S502|S502|S502|
 |SimiMobile|S507|S507|S507|
 |Singtech|H1s|H1s|H1s|
 |Singtech|H2|Singtech_H2|H2|
@@ -22825,6 +22843,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unifone|Armor_5S|Armor_5S|Armor 5S|
 |Unifone|U5_Breeze|U5_Breeze|U5_Breeze|
 |Unihertz|Atom|Atom|Atom|
+|Unihertz|Titan|Titan|Titan|
 |Unistrong|UT10|UT10|UT10|
 |Unistrong|UT12|UT12|UT12|
 |Unistrong|UT30|UT30|UT30|
@@ -23845,6 +23864,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|Y60|W-K510|W-K510-SFC|
 |Wiko|Y60|W-K510|W-K510-SUN|
 |Wiko|Y60|W-K510|W-K510-TVM|
+|Wiko|Y60|W-K510DG|W-K510-TH|
 |Wiko|Y80|W-V720|W-V720-EEA|
 |Wiko|Y80|W-V720|W-V720-OPE|
 |Wiko|Y80|W-V720|W-V720-SUN|
@@ -26046,6 +26066,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |pendo|PNDPP44QC7|PNDPP44QC7|PNDPP44QC7|
 |sencor|10_1Q205|10_1Q205|10_1Q205|
 |sencor|7Q105|SENCOR_7Q105|SENCOR_7Q105|
+|sencor|7Q204|7Q204|7Q204|
 |sencor|P5504|P5504|P5504|
 |sencor|P5700|P5700|P5700|
 |sencor|SENCOR_10_1Q102|SENCOR_10_1Q102|SENCOR_10_1Q102|
