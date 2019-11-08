@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-11-07
+Last sync is 2019-11-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -207,16 +207,20 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|C01|acer_c01|C01|
 |Acer|C01 (PA)|acer_c01|C01|
 |Acer|CW01|acer_cw01|CW01|
+|Acer|Chromebook 14 for work|lars_cheets|Acer Chromebook 14 for Work (CP5-471)|
 |Acer|Chromebook 14 for work|lars_cheets|Chromebook 14 for work (CP5-471)|
 |Acer|Chromebook 15 (CB3-532)|banon_cheets|Acer Chromebook 15 (CB3-532)|
 |Acer|Chromebook 15 (CB5-571)|yuna_cheets|Acer Chromebook 15 (C910 / CB5-571)|
 |Acer|Chromebook 15 (CB5-571)|yuna_cheets|Acer Chromebook 15 (CB5-571)|
+|Acer|Chromebook 15 (CB5-571)|yuna_cheets|"Acer Chromebook 15 (CB5-571|
+|Acer|Chromebook 15 CB515-1HT/1H|sand_cheets|"Acer Chromebook 15 (CB515-1H|
 |Acer|Chromebook 15 CB515-1HT/1H|sand_cheets|Chromebook 15 (CB515 - 1HT / 1H)|
 |Acer|Chromebook 15 CB515-1HT/1H|sand_cheets|Chromebook 15 CB515-1HT/1H|
 |Acer|Chromebook 15 CB515-1HT/1H|sand_cheets|sand|
 |Acer|Chromebook R11 (C738T)|cyan_cheets|Acer Chromebook R11|
 |Acer|Chromebook R11 (C738T)|cyan_cheets|Acer Chromebook R11 (CB5-132T / C738T / CB3-132)|
 |Acer|Chromebook R11 (C738T)|cyan_cheets|Acer Chromebook R11 (CB5-132T / C738T)|
+|Acer|Chromebook R11 (C738T)|cyan_cheets|"Acer Chromebook R11 (CB5-132T|
 |Acer|Chromebook Tab 10|scarlet_cheets|scarlet|
 |Acer|CloudMobile S500|a9|S500|
 |Acer|DA220HQL|DA220HQL|DA220HQL|
@@ -2796,6 +2800,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Centric|G1|CM4331|G1|
 |CenturyLink|PureTV|ctl_iptv_mrvl|CTLPlayer|
 |CenturyLink|PureTV|ctl_iptv_mrvl|S60CLI|
+|Chanbly|q7|q7|q7|
 |Changhong|AP(Indonesia etc.)/MENA|ikebukuro|AI PONT|
 |Changhong|AP(Indonesia etc.)/MENA|ikebukuro|CHiQ AI Center|
 |Changhong|AP(Indonesia etc.)/MENA|samseong|AI PONT|
@@ -3468,6 +3473,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|RAINBOW 2|RAINBOW_2|RAINBOW 2|
 |Cubot|Rainbow|RAINBOW|RAINBOW|
 |Cubot|X19|X19|X19|
+|Cubot|X19_S|X19_S|X19 S|
 |Cubot|X20|X20|X20|
 |Cubot|X20_PRO|X20_PRO|X20 PRO|
 |Custom|Ares|Ares|Ares|
@@ -3695,7 +3701,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dell||venue|BizSmartPhone|
 |Dell||venue|Dell Venue|
 |Dell|Chromebook 11 Model 3180|kefka_cheets|Chromebook 11 Model 3180|
+|Dell|Chromebook 11 Model 3180|kefka_cheets|Dell Chromebook 11 (3180)|
+|Dell|Chromebook 13 3380|asuka_cheets|Dell Chromebook 13 (3380)|
 |Dell|Chromebook 13 3380|asuka_cheets|Dell Chromebook 13 3380|
+|Dell|Chromebook 13 7310|lulu_cheets|Dell Chromebook 13 (7310)|
 |Dell|Chromebook 13 7310|lulu_cheets|Dell Chromebook 13 7310|
 |Dell|Cloud Connect|capri_wyse|CS-1A13|
 |Dell|Streak|streak|001DL|
@@ -3834,6 +3843,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Digma|CITI_Octa_10_CS1219PL|CS1219PL|CITI Octa 10 CS1219PL|
 |Digma|CS7113PL|CS7113PL|CITI 7507 4G CS7113PL|
 |Digma|CS7204MG|CS7204MG|CITI 7587 3G CS7204MG|
+|Digma|CS7217PL|CS7217PL|CITI Octa 70 CS7217PL|
 |Digma|CS8205PG|CS8205PG|CITI_8588_3G_CS8205PG|
 |Digma|CS8218PL|CS8218PL|CITI Octa 80 CS8218PL|
 |Digma|DIGMA CITI 1508 4G CS1114ML|CS1114ML|CITI_1508_4G_CS1114ML|
@@ -5427,6 +5437,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gonna|Zebra|Zebra|Zebra|
 |Goo|g08|v12dn|View Prime|
 |Google|AMD Stoney Ridge Chromebook|grunt_cheets|grunt|
+|Google|Chromebook 14 (CB3-431)|edgar_cheets|Acer Chromebook 14 (CB3-431)|
 |Google|Chromebook 14 (CB3-431)|edgar_cheets|Chromebook 14 (CB3-431)|
 |Google|Chromebook Pixel (2015)|samus_cheets|Google Chromebook Pixel (2015)|
 |Google|Chromebox|fizz_cheets|Chromebox Reference|
@@ -5445,6 +5456,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Intel Gemini Lake Chromebook|octopus_cheets|octopus|
 |Google|Intel Kaby Lake U Chromebook|nami_cheets|nami|
 |Google|Mediatek MTK8173 Chromebook|hana_cheets|Lenovo N23 Yoga/Flex 11 Chromebook|
+|Google|Mediatek MTK8173 Chromebook|hana_cheets|Mediatek MT8173 Chromebook|
 |Google|Mediatek MTK8173 Chromebook|hana_cheets|Mediatek MTK8173 Chromebook|
 |Google|Pixel|sailfish|Pixel|
 |Google|Pixel 2|walleye|Pixel 2|
@@ -5456,6 +5468,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel 4|flame|Pixel 4|
 |Google|Pixel 4 XL|coral|Pixel 4 XL|
 |Google|Pixel C|dragon|Pixel C|
+|Google|Pixel Slate|nocturne_cheets|Google Pixel Slate|
 |Google|Pixel Slate|nocturne_cheets|Pixel Slate|
 |Google|Pixel Slate|nocturne_cheets|nocturne|
 |Google|Pixel XL|marlin|Pixel XL|
@@ -5559,6 +5572,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HP|Chromebook x2|soraka_cheets|HP Chromebook x2|
 |HP|Chromebook x2|soraka_cheets|soraka|
 |HP|Chromebook x360 11 G1 EE|snappy_cheets|HP Chromebook x360 11 G1 EE|
+|HP|HP Chromebook 11 G5 / 11-vxxx|setzer_cheets|HP Chromebook 11 G5|
 |HP|HP Chromebook 11 G5 / 11-vxxx|setzer_cheets|HP Chromebook 11 G5 / HP Chromebook 11-vxxx|
 |HP|HP Chromebook 13 G1|chell_cheets|HP Chromebook 13 G1|
 |HP|Pro 8 Tablet with Voice|neetu|HP Pro 8 Tablet with Voice|
@@ -12184,6 +12198,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo S5 Pro|sprout|Lenovo L58041|
 |Lenovo|Lenovo S820|S820|Lenovo S820|
 |Lenovo|Lenovo Smart Tab M8|8705F|Lenovo TB-8705F|
+|Lenovo|Lenovo Smart Tab M8|8705N|Lenovo TB-8705N|
 |Lenovo|Lenovo TAB|TB-8803F|Lenovo TB-8803F|
 |Lenovo|Lenovo TAB 10|TB-X103F|Lenovo TB-X103F|
 |Lenovo|Lenovo TAB 2 A10-30|TB2-X30F|Lenovo TB2-X30F|
@@ -12257,13 +12272,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab E10|X104X|Lenovo TB-X104X|
 |Lenovo|Lenovo Tab E7|TB7104F|Lenovo TB-7104F|
 |Lenovo|Lenovo Tab E7|TB7104I|Lenovo TB-7104I|
-|Lenovo|Lenovo Tab M10 (2nd Gen)|X606F|Lenovo TB-X606F|
 |Lenovo|Lenovo Tab M10 (FHD)|X605F|Lenovo TB-X605F|
 |Lenovo|Lenovo Tab M10 (FHD)|X605L|Lenovo TB-X605L|
 |Lenovo|Lenovo Tab M10 (HD)|TB-X505F|Lenovo TB-X505F|
 |Lenovo|Lenovo Tab M10 (HD)|TB-X505L|Lenovo TB-X505L|
 |Lenovo|Lenovo Tab M10 (HD)|TB-X505N|Lenovo TB-X505N|
 |Lenovo|Lenovo Tab M10 (HD)|TB-X505X|Lenovo TB-X505X|
+|Lenovo|Lenovo Tab M10 FHD Plus|X606F|Lenovo TB-X606F|
 |Lenovo|Lenovo Tab M10(FHD)|X605M|Lenovo TB-X605M|
 |Lenovo|Lenovo Tab M7|7305F|Lenovo TB-7305F|
 |Lenovo|Lenovo Tab M7|7305I|Lenovo TB-7305I|
@@ -12397,9 +12412,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|TBD|kunlun2|Lenovo L38111|
 |Lenovo|Tab 7 Essential|7304F|Lenovo TB-7304F|
 |Lenovo|Tab P10|X705M|Lenovo TB-X705M|
+|Lenovo|ThinkPad 11e Chromebook 3rd Gen|ultima_cheets|Lenovo ThinkPad 11e 3rd Gen Chromebook|
 |Lenovo|ThinkPad 11e Chromebook 3rd Gen|ultima_cheets|ThinkPad 11e Chromebook 3rd Gen (Yoga/Clamshell)|
 |Lenovo|ThinkVision28|ThinkVision28|ThinkVision28|
+|Lenovo|Thinkpad 11e Chromebook (4th Gen)/Lenovo Thinkpad Yoga 11e Chromebook (4th Gen)|pyro_cheets|Lenovo ThinkPad 11e 4th Gen Chromebook|
 |Lenovo|Thinkpad 11e Chromebook (4th Gen)/Lenovo Thinkpad Yoga 11e Chromebook (4th Gen)|pyro_cheets|Lenovo Thinkpad 11e Chromebook (4th Gen)/Lenovo Thinkpad Yoga 11e Chromebook (4th Gen)|
+|Lenovo|Thinkpad 13 Chromebook|sentry_cheets|Lenovo ThinkPad 13|
 |Lenovo|Thinkpad 13 Chromebook|sentry_cheets|Thinkpad 13 Chromebook|
 |Lenovo|Thinkpad Stack projector|pj_stack_acc|M123|
 |Lenovo|VIBE K10|K10a40|Lenovo K10a40|
@@ -12793,6 +12811,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MLS Innovation|iQL550|iQL550|iQL550|
 |MLS Innovation|iQM960L|iQM960L|iQM960L|
 |MLS Innovation|iQME100|iQME100|iQME100|
+|MLS Innovation|iQN700|iQN700|iQN700|
 |MLS Innovation|iQS1001|iQS1001|iQS1001|
 |MLS Innovation|iQS801|iQS801|iQS801|
 |MLS Innovation|iQW511T|iQW511T|iQW511T|
@@ -15510,6 +15529,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POPTEL|P9000 Plus|P9000_Plus|P9000 Plus|
 |POPTEL|POPTEL P10|P10|P10|
 |POPTEL|V9|V9|V9|
+|PROGRACE|K726|K726|K726|
 |PS_Mobile|neo|neo|neo|
 |PT mobile|P10|P10|P10|
 |Packard Bell|A4000|A4000|A4000|
@@ -16308,6 +16328,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestige|PRO7DS|PRO7DS|PRO7DS|
 |Prestige|PRO8D|PRO8D|PRO8D|
 |Prestige|PRO9D|PRO9D|PRO9D|
+|Prestigio|CD10A7G|CD10A7G|PMT4311_3G_RU|
 |Prestigio|CD80A5G|CD80A5G|PMT4118_3G_EEA|
 |Prestigio|CD80A5G|CD80A5G|PMT4638_3G_RU|
 |Prestigio|GRACE P5|HT50B2G|PSP5515DUO|
@@ -16411,8 +16432,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|PMT3861_4G|CD10A4L|PMT3861_4G|
 |Prestigio|PMT3871_4G|CD10A4L|PMT3871_4G|
 |Prestigio|PMT3878_4G|CD80A3L|PMT3878_4G|
+|Prestigio|PMT4111_3G|CD10A7G|PMT4111_3G|
 |Prestigio|PMT4117_3G|HP70A2G|PMT4117_3G|
 |Prestigio|PMT4117_3G_EEA|HP70A2G|PMT4117_3G_EEA|
+|Prestigio|PMT4131_4G|CD10A8L|PMT4131_4G|
 |Prestigio|PMT4137_4G|HP70A3L|PMT4137_4G|
 |Prestigio|PMT4138_4G_EEA|CD80A6L|PMT4138_4G_EEA|
 |Prestigio|PMT4227_3G_RU|HP70A2G|PMT4227_3G_RU|
@@ -19571,6 +19594,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|"4T-C**AM1/AN1/AL1| 8T-C**AX1/AW1"|tcsu2uj|
 |Sharp|4T-C**BL1/BJ1/BN1|tcmeruj|AQUOS-TVJ19|
 |Sharp|4T-C50AG1T|LCD_50FOCAG1T|LCD_50FOCAG1T|
+|Sharp|4T-C50BK1X|gangnam|AQUOS-TVX19B|
 |Sharp|"4T-C60AL1H|4T-C70AL1H"|lc_xxeos5h|
 |Sharp|"4T-C60AM1H|4T-C70AM1H"|lc_xxdem6h|
 |Sharp|"4T-C60ANAA|4T-C70ANAA|4T-C60ASAA|
@@ -22318,6 +22342,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|POP 2F|TECNO-B1f|TECNO B1f|
 |Tecno|POP 2S|TECNO-RA8|TECNO RA8|
 |Tecno|POP 2s|TECNO-KB2h|TECNO KB2h|
+|Tecno|POP 3 Plus|TECNO-BB4|TECNO BB4|
 |Tecno|POP1|TECNO-F3|TECNO F3|
 |Tecno|Phantom 9|TECNO-AB7|TECNO AB7|
 |Tecno|Phantom6|Phantom6|Phantom6|
@@ -22763,12 +22788,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor_3W|Armor_3W|Armor_3W|
 |Ulefone|Armor_3WT|Armor_3WT|Armor_3WT|
 |Ulefone|Armor_5|Ulefone_Armor_5|Ulefone_Armor_5|
+|Ulefone|Armor_5S|Armor_5S|Armor 5S|
 |Ulefone|Armor_6E|Armor_6E|Armor_6E|
 |Ulefone|Armor_6S|Armor_6S|Armor_6S|
 |Ulefone|Armor_7|Armor_7|Armor_7|
 |Ulefone|Armor_X2|Armor_X2|Armor_X2|
 |Ulefone|Armor_X3|Armor_X3|Armor_X3|
 |Ulefone|Armor_X5|Armor_X5|Armor X5|
+|Ulefone|Armor_X6|Armor_X6|Armor_X6|
 |Ulefone|MIX|t816_gq_ulefone|MIX|
 |Ulefone|MIX S|t815_gq_ulefone|MIX_S|
 |Ulefone|MIX_2|MIX_2|MIX_2|

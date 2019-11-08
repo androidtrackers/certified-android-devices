@@ -1215,6 +1215,12 @@
   "brand": "Acer",
   "name": "Chromebook 14 for work",
   "device": "lars_cheets",
+  "model": "Acer Chromebook 14 for Work (CP5-471)"
+ },
+ {
+  "brand": "Acer",
+  "name": "Chromebook 14 for work",
+  "device": "lars_cheets",
   "model": "Chromebook 14 for work (CP5-471)"
  },
  {
@@ -1234,6 +1240,18 @@
   "name": "Chromebook 15 (CB5-571)",
   "device": "yuna_cheets",
   "model": "Acer Chromebook 15 (CB5-571)"
+ },
+ {
+  "brand": "Acer",
+  "name": "Chromebook 15 (CB5-571)",
+  "device": "yuna_cheets",
+  "model": "\"Acer Chromebook 15 (CB5-571"
+ },
+ {
+  "brand": "Acer",
+  "name": "Chromebook 15 CB515-1HT/1H",
+  "device": "sand_cheets",
+  "model": "\"Acer Chromebook 15 (CB515-1H"
  },
  {
   "brand": "Acer",
@@ -1270,6 +1288,12 @@
   "name": "Chromebook R11 (C738T)",
   "device": "cyan_cheets",
   "model": "Acer Chromebook R11 (CB5-132T / C738T)"
+ },
+ {
+  "brand": "Acer",
+  "name": "Chromebook R11 (C738T)",
+  "device": "cyan_cheets",
+  "model": "\"Acer Chromebook R11 (CB5-132T"
  },
  {
   "brand": "Acer",
@@ -16746,6 +16770,12 @@
   "model": "S60CLI"
  },
  {
+  "brand": "Chanbly",
+  "name": "q7",
+  "device": "q7",
+  "model": "q7"
+ },
+ {
   "brand": "Changhong",
   "name": "AP(Indonesia etc.)/MENA",
   "device": "ikebukuro",
@@ -20779,6 +20809,12 @@
  },
  {
   "brand": "Cubot",
+  "name": "X19_S",
+  "device": "X19_S",
+  "model": "X19 S"
+ },
+ {
+  "brand": "Cubot",
   "name": "X20",
   "device": "X20",
   "model": "X20"
@@ -22141,9 +22177,27 @@
  },
  {
   "brand": "Dell",
+  "name": "Chromebook 11 Model 3180",
+  "device": "kefka_cheets",
+  "model": "Dell Chromebook 11 (3180)"
+ },
+ {
+  "brand": "Dell",
+  "name": "Chromebook 13 3380",
+  "device": "asuka_cheets",
+  "model": "Dell Chromebook 13 (3380)"
+ },
+ {
+  "brand": "Dell",
   "name": "Chromebook 13 3380",
   "device": "asuka_cheets",
   "model": "Dell Chromebook 13 3380"
+ },
+ {
+  "brand": "Dell",
+  "name": "Chromebook 13 7310",
+  "device": "lulu_cheets",
+  "model": "Dell Chromebook 13 (7310)"
  },
  {
   "brand": "Dell",
@@ -22972,6 +23026,12 @@
   "name": "CS7204MG",
   "device": "CS7204MG",
   "model": "CITI 7587 3G CS7204MG"
+ },
+ {
+  "brand": "Digma",
+  "name": "CS7217PL",
+  "device": "CS7217PL",
+  "model": "CITI Octa 70 CS7217PL"
  },
  {
   "brand": "Digma",
@@ -32535,6 +32595,12 @@
   "brand": "Google",
   "name": "Chromebook 14 (CB3-431)",
   "device": "edgar_cheets",
+  "model": "Acer Chromebook 14 (CB3-431)"
+ },
+ {
+  "brand": "Google",
+  "name": "Chromebook 14 (CB3-431)",
+  "device": "edgar_cheets",
   "model": "Chromebook 14 (CB3-431)"
  },
  {
@@ -32643,6 +32709,12 @@
   "brand": "Google",
   "name": "Mediatek MTK8173 Chromebook",
   "device": "hana_cheets",
+  "model": "Mediatek MT8173 Chromebook"
+ },
+ {
+  "brand": "Google",
+  "name": "Mediatek MTK8173 Chromebook",
+  "device": "hana_cheets",
   "model": "Mediatek MTK8173 Chromebook"
  },
  {
@@ -32704,6 +32776,12 @@
   "name": "Pixel C",
   "device": "dragon",
   "model": "Pixel C"
+ },
+ {
+  "brand": "Google",
+  "name": "Pixel Slate",
+  "device": "nocturne_cheets",
+  "model": "Google Pixel Slate"
  },
  {
   "brand": "Google",
@@ -33322,6 +33400,12 @@
   "name": "Chromebook x360 11 G1 EE",
   "device": "snappy_cheets",
   "model": "HP Chromebook x360 11 G1 EE"
+ },
+ {
+  "brand": "HP",
+  "name": "HP Chromebook 11 G5 / 11-vxxx",
+  "device": "setzer_cheets",
+  "model": "HP Chromebook 11 G5"
  },
  {
   "brand": "HP",
@@ -73075,6 +73159,12 @@
  },
  {
   "brand": "Lenovo",
+  "name": "Lenovo Smart Tab M8",
+  "device": "8705N",
+  "model": "Lenovo TB-8705N"
+ },
+ {
+  "brand": "Lenovo",
   "name": "Lenovo TAB",
   "device": "TB-8803F",
   "model": "Lenovo TB-8803F"
@@ -73513,12 +73603,6 @@
  },
  {
   "brand": "Lenovo",
-  "name": "Lenovo Tab M10 (2nd Gen)",
-  "device": "X606F",
-  "model": "Lenovo TB-X606F"
- },
- {
-  "brand": "Lenovo",
   "name": "Lenovo Tab M10 (FHD)",
   "device": "X605F",
   "model": "Lenovo TB-X605F"
@@ -73552,6 +73636,12 @@
   "name": "Lenovo Tab M10 (HD)",
   "device": "TB-X505X",
   "model": "Lenovo TB-X505X"
+ },
+ {
+  "brand": "Lenovo",
+  "name": "Lenovo Tab M10 FHD Plus",
+  "device": "X606F",
+  "model": "Lenovo TB-X606F"
  },
  {
   "brand": "Lenovo",
@@ -74355,6 +74445,12 @@
   "brand": "Lenovo",
   "name": "ThinkPad 11e Chromebook 3rd Gen",
   "device": "ultima_cheets",
+  "model": "Lenovo ThinkPad 11e 3rd Gen Chromebook"
+ },
+ {
+  "brand": "Lenovo",
+  "name": "ThinkPad 11e Chromebook 3rd Gen",
+  "device": "ultima_cheets",
   "model": "ThinkPad 11e Chromebook 3rd Gen (Yoga/Clamshell)"
  },
  {
@@ -74367,7 +74463,19 @@
   "brand": "Lenovo",
   "name": "Thinkpad 11e Chromebook (4th Gen)/Lenovo Thinkpad Yoga 11e Chromebook (4th Gen)",
   "device": "pyro_cheets",
+  "model": "Lenovo ThinkPad 11e 4th Gen Chromebook"
+ },
+ {
+  "brand": "Lenovo",
+  "name": "Thinkpad 11e Chromebook (4th Gen)/Lenovo Thinkpad Yoga 11e Chromebook (4th Gen)",
+  "device": "pyro_cheets",
   "model": "Lenovo Thinkpad 11e Chromebook (4th Gen)/Lenovo Thinkpad Yoga 11e Chromebook (4th Gen)"
+ },
+ {
+  "brand": "Lenovo",
+  "name": "Thinkpad 13 Chromebook",
+  "device": "sentry_cheets",
+  "model": "Lenovo ThinkPad 13"
  },
  {
   "brand": "Lenovo",
@@ -76726,6 +76834,12 @@
   "name": "iQME100",
   "device": "iQME100",
   "model": "iQME100"
+ },
+ {
+  "brand": "MLS Innovation",
+  "name": "iQN700",
+  "device": "iQN700",
+  "model": "iQN700"
  },
  {
   "brand": "MLS Innovation",
@@ -93030,6 +93144,12 @@
   "model": "V9"
  },
  {
+  "brand": "PROGRACE",
+  "name": "K726",
+  "device": "K726",
+  "model": "K726"
+ },
+ {
   "brand": "PS_Mobile",
   "name": "neo",
   "device": "neo",
@@ -97819,6 +97939,12 @@
  },
  {
   "brand": "Prestigio",
+  "name": "CD10A7G",
+  "device": "CD10A7G",
+  "model": "PMT4311_3G_RU"
+ },
+ {
+  "brand": "Prestigio",
   "name": "CD80A5G",
   "device": "CD80A5G",
   "model": "PMT4118_3G_EEA"
@@ -98437,6 +98563,12 @@
  },
  {
   "brand": "Prestigio",
+  "name": "PMT4111_3G",
+  "device": "CD10A7G",
+  "model": "PMT4111_3G"
+ },
+ {
+  "brand": "Prestigio",
   "name": "PMT4117_3G",
   "device": "HP70A2G",
   "model": "PMT4117_3G"
@@ -98446,6 +98578,12 @@
   "name": "PMT4117_3G_EEA",
   "device": "HP70A2G",
   "model": "PMT4117_3G_EEA"
+ },
+ {
+  "brand": "Prestigio",
+  "name": "PMT4131_4G",
+  "device": "CD10A8L",
+  "model": "PMT4131_4G"
  },
  {
   "brand": "Prestigio",
@@ -117397,6 +117535,12 @@
  },
  {
   "brand": "Sharp",
+  "name": "4T-C50BK1X",
+  "device": "gangnam",
+  "model": "AQUOS-TVX19B"
+ },
+ {
+  "brand": "Sharp",
   "name": "\"4T-C60AL1H",
   "device": "4T-C70AL1H\"",
   "model": "lc_xxeos5h"
@@ -133879,6 +134023,12 @@
  },
  {
   "brand": "Tecno",
+  "name": "POP 3 Plus",
+  "device": "TECNO-BB4",
+  "model": "TECNO BB4"
+ },
+ {
+  "brand": "Tecno",
   "name": "POP1",
   "device": "TECNO-F3",
   "model": "TECNO F3"
@@ -136549,6 +136699,12 @@
  },
  {
   "brand": "Ulefone",
+  "name": "Armor_5S",
+  "device": "Armor_5S",
+  "model": "Armor 5S"
+ },
+ {
+  "brand": "Ulefone",
   "name": "Armor_6E",
   "device": "Armor_6E",
   "model": "Armor_6E"
@@ -136582,6 +136738,12 @@
   "name": "Armor_X5",
   "device": "Armor_X5",
   "model": "Armor X5"
+ },
+ {
+  "brand": "Ulefone",
+  "name": "Armor_X6",
+  "device": "Armor_X6",
+  "model": "Armor_X6"
  },
  {
   "brand": "Ulefone",
