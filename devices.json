@@ -25243,6 +25243,12 @@
  },
  {
   "brand": "EPIKONE",
+  "name": "K601",
+  "device": "K601",
+  "model": "K601"
+ },
+ {
+  "brand": "EPIKONE",
   "name": "RS550",
   "device": "RS550",
   "model": "RS550"
@@ -92174,12 +92180,6 @@
  {
   "brand": "Oppo",
   "name": "realme 2 Pro",
-  "device": "RMX1801",
-  "model": "RMX1801"
- },
- {
-  "brand": "Oppo",
-  "name": "realme 2 Pro",
   "device": "RMX1803",
   "model": "RMX1803"
  },
@@ -101458,6 +101458,12 @@
   "name": "Razer phone",
   "device": "cheryl_ckh",
   "model": "Phone"
+ },
+ {
+  "brand": "Realme",
+  "name": "realme 2 Pro",
+  "device": "RMX1801",
+  "model": "RMX1801"
  },
  {
   "brand": "Realme",
@@ -119412,6 +119418,12 @@
   "model": "franklin"
  },
  {
+  "brand": "Shenzhen SEI Robotics",
+  "name": "AMLogic Ref",
+  "device": "newton",
+  "model": "newton"
+ },
+ {
   "brand": "Shuttle",
   "name": "PNT-7045",
   "device": "PNT-7045",
@@ -133327,6 +133339,12 @@
  },
  {
   "brand": "Techpad",
+  "name": "NOTE_4CAM",
+  "device": "NOTE_4CAM",
+  "model": "NOTE 4CAM"
+ },
+ {
+  "brand": "Techpad",
   "name": "S6",
   "device": "S6",
   "model": "S6"
@@ -137590,6 +137608,12 @@
   "name": "E2",
   "device": "E2",
   "model": "E2"
+ },
+ {
+  "brand": "Verizon",
+  "name": "Stream TV",
+  "device": "JS8V",
+  "model": "Stream TV"
  },
  {
   "brand": "Verizon Wireless",
@@ -150373,6 +150397,12 @@
  },
  {
   "brand": "ZTE",
+  "name": "P609",
+  "device": "P609",
+  "model": "P609"
+ },
+ {
+  "brand": "ZTE",
   "name": "P_C880S",
   "device": "P_P635N34",
   "model": "ZTE P_C880S"
@@ -151222,6 +151252,12 @@
   "name": "T85",
   "device": "P840F20",
   "model": "T85"
+ },
+ {
+  "brand": "ZTE",
+  "name": "T86",
+  "device": "T86",
+  "model": "T86"
  },
  {
   "brand": "ZTE",

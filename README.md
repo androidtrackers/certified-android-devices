@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-11-08
+Last sync is 2019-11-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4212,6 +4212,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EPIKONE|K536|K536|K536|
 |EPIKONE|K573|K573|K573|
 |EPIKONE|K600|K600|K600|
+|EPIKONE|K601|K601|K601|
 |EPIKONE|RS550|RS550|RS550|
 |EPIKONE|T700|T700|T700|
 |EPIKONE|X400|X400|X400|
@@ -15367,7 +15368,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|realme 1|CPH1861|CPH1861|
 |Oppo|realme 2|RMX1805|RMX1805|
 |Oppo|realme 2|RMX1809|RMX1809|
-|Oppo|realme 2 Pro|RMX1801|RMX1801|
 |Oppo|realme 2 Pro|RMX1803|RMX1803|
 |Oppo|realme 2 Pro|RMX1807|RMX1807|
 |Oppo|realme 3|RMX1821|RMX1821|
@@ -16915,6 +16915,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Razer|Phone 2|linus|Phone 2|
 |Razer|Razer Phone|cheryl|Phone|
 |Razer|Razer phone|cheryl_ckh|Phone|
+|Realme|realme 2 Pro|RMX1801|RMX1801|
 |Realme|realme 3Pro|RMX1851|RMX1851|
 |Realme|realme 5|RMX1911L1|RMX1911|
 |Realme|realme 5|RMX1915|RMX1915|
@@ -19907,6 +19908,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Shenzhen Jiuzhou|DTP9710|DTP9710|DTP9710|
 |Shenzhen SEI Robotics|ADT-2|adt2|ADT-2|
 |Shenzhen SEI Robotics|AMLogic Ref|franklin|franklin|
+|Shenzhen SEI Robotics|AMLogic Ref|newton|newton|
 |Shuttle|PNT-7045|PNT-7045|PNT-7045|
 |SiAL|Bic camera|Si01BB|Si01BB|
 |SiAL|Si01BE|Si01BE|Si01BE|
@@ -22226,6 +22228,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Techpad|M6|M6|M6|
 |Techpad|M6 Plus|M6Plus|M6Plus|
 |Techpad|M6Plus|M6Plus|M6Plus|
+|Techpad|NOTE_4CAM|NOTE_4CAM|NOTE 4CAM|
 |Techpad|S6|S6|S6|
 |Techpad|TECHPAD X5|F518|Techpad X5|
 |Techpad|Tech Pad|816x|816x|
@@ -22937,6 +22940,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Venus|Venus V6|Samos|Venus V6|
 |VerD|E1|E1|E1|
 |VerD|E2|E2|E2|
+|Verizon|Stream TV|JS8V|Stream TV|
 |Verizon Wireless|5059S|U50PLUS|5059S|
 |Verizon Wireless|Ellipsis 10|QTAIR7|QTAIR7|
 |Verizon Wireless|Ellipsis 7|QMV7A|QMV7A|
@@ -25067,6 +25071,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Orange Zali|nice|Orange Zali|
 |ZTE|Own One|P635A20|Own One|
 |ZTE|P545|P545|P545|
+|ZTE|P609|P609|P609|
 |ZTE|P_C880S|P_P635N34|ZTE P_C880S|
 |ZTE|Preo Teknosa P1|msm8916_32|Preo Teknosa P1|
 |ZTE|Q101T|P810T10|ZTE Q101T|
@@ -25209,6 +25214,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|T84|P816A20|ZTE R84|
 |ZTE|T84|P816A20|ZTE T84|
 |ZTE|T85|P840F20|T85|
+|ZTE|T86|T86|T86|
 |ZTE|T86|msm8226|Amazing X1|
 |ZTE|T86|msm8226|ZTE T86|
 |ZTE|T88|msm8226|ZTE T88|
