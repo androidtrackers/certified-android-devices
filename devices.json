@@ -42517,6 +42517,12 @@
  },
  {
   "brand": "Hisense",
+  "name": "laoshan_emH",
+  "device": "laoshan",
+  "model": "HAT4KDTV"
+ },
+ {
+  "brand": "Hisense",
   "name": "lt971",
   "device": "LT971",
   "model": "LT971"

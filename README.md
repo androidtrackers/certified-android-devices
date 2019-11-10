@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-11-09
+Last sync is 2019-11-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7091,6 +7091,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|l830|HS8937QC|Hisense L830|
 |Hisense|l830|HS8937QC|STARXTREM 6|
 |Hisense|laoshan|laoshan|HAT4KDTV|
+|Hisense|laoshan_emH|laoshan|HAT4KDTV|
 |Hisense|lt971|LT971|LT971|
 |Hisense|u972|HS7731SP|U972|
 |Hisense|vision2_1|vision2_1|vision2_1|
