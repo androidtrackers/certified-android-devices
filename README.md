@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-11-10
+Last sync is 2019-11-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3997,6 +3997,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|Mix|MIX|MIX|
 |Doogee|N10|Y7|N10|
 |Doogee|N100|N100|N100|
+|Doogee|N10_EEA|Y7|N10|
 |Doogee|N10_EEA|Y7|N10_EEA|
 |Doogee|N20|N20|N20|
 |Doogee|S30|S30|S30|
@@ -24011,6 +24012,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |X-View|AMBER_KIDS|AMBER_KIDS|AMBER_KIDS|
 |X-View|PROTON_AMBER_HD|Proton_Amber_HD|Proton_Amber_HD|
 |X-View|X-View|X-ViewTablet7|X-ViewTablet7|
+|XGIMI|Halo|xgimiapollo|Halo|
 |XGIMI|MoGo|xgimiapollo|MoGo|
 |XL Axiata|AX512|DV8252|AX512|
 |XL Axiata|XL Home Pow|STI6xxx|STI6030|
@@ -24468,6 +24470,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|009Z|bladeplus|ZTE V882|
 |ZTE|009Z|bladeplus|ZTE V886J|
 |ZTE|402ZT|ZTE-402ZT|402ZT|
+|ZTE|901ZT|P450A01|901ZT|
 |ZTE|A1 Alpha|P963F01D|A1 Alpha|
 |ZTE|A1P|ailsa|A1P|
 |ZTE|A1R|billy|A1|

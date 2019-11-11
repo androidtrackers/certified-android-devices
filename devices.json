@@ -23955,6 +23955,12 @@
   "brand": "Doogee",
   "name": "N10_EEA",
   "device": "Y7",
+  "model": "N10"
+ },
+ {
+  "brand": "Doogee",
+  "name": "N10_EEA",
+  "device": "Y7",
   "model": "N10_EEA"
  },
  {
@@ -144037,6 +144043,12 @@
  },
  {
   "brand": "XGIMI",
+  "name": "Halo",
+  "device": "xgimiapollo",
+  "model": "Halo"
+ },
+ {
+  "brand": "XGIMI",
   "name": "MoGo",
   "device": "xgimiapollo",
   "model": "MoGo"
@@ -146776,6 +146788,12 @@
   "name": "402ZT",
   "device": "ZTE-402ZT",
   "model": "402ZT"
+ },
+ {
+  "brand": "ZTE",
+  "name": "901ZT",
+  "device": "P450A01",
+  "model": "901ZT"
  },
  {
   "brand": "ZTE",
