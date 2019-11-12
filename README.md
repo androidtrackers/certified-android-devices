@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-11-11
+Last sync is 2019-11-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -15341,6 +15341,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno 10\xe5\x80\x8d\xe5\x8f\x98\xe7\x84\xa6\xe7\x89\x88|OP46C3|PCCM00|
 |Oppo|Reno 10\xe5\x80\x8d\xe5\x8f\x98\xe7\x84\xa6\xe7\x89\x88|OP46C3|PCCT00|
 |Oppo|Reno A|OP47CFL1|CPH1983|
+|Oppo|Reno Ace|OP4A89|PCLM10|
 |Oppo|Reno Z|OP48A1|CPH1979|
 |Oppo|Reno Z|OP48A1L1|CPH1979|
 |Oppo|Reno Z \xe4\xb8\xad\xe5\x9b\xbd\xe7\x89\x88|OP4699|PCDM10|
@@ -16935,6 +16936,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme X2Pro|RMX1931CN|RMX1931|
 |Realme|realme X2Pro|RMX1931L1|RMX1931|
 |Realme|realme XT|RMX1921|RMX1921|
+|Realme|realme XT|RMX1921L1|RMX1921|
 |Realme|realme XT|RMX1922|RMX1922|
 |Realtime|RS405|RS405|RS405|
 |Realtime|RT503|RT503|RT503|
@@ -17317,6 +17319,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260G|
 |Samsung|Galaxy A20|SC-02M|SC-02M|
 |Samsung|Galaxy A20|SCV46|SCV46|
+|Samsung|Galaxy A20|SCV46|SCV46-u|
 |Samsung|Galaxy A20|a20|SM-A205F|
 |Samsung|Galaxy A20|a20|SM-A205FN|
 |Samsung|Galaxy A20|a20|SM-A205G|
@@ -17476,6 +17479,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A70|a70q|SM-A705MN|
 |Samsung|Galaxy A70|a70q|SM-A705W|
 |Samsung|Galaxy A70|a70q|SM-A705YN|
+|Samsung|Galaxy A70s|a70s|SM-A7070|
 |Samsung|Galaxy A70s|a70s|SM-A707F|
 |Samsung|Galaxy A8|SCV32|SCV32|
 |Samsung|Galaxy A8|a8elte|SM-A800F|
@@ -19098,6 +19102,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab Active|rubenslte|SM-T365Y|
 |Samsung|Galaxy Tab Active Pro|gtactivexl|SM-T545|
 |Samsung|Galaxy Tab Active Pro|gtactivexl|SM-T547|
+|Samsung|Galaxy Tab Active Pro|gtactivexl|SM-T547U|
 |Samsung|Galaxy Tab Active Pro|gtactivexlwifi|SM-T540|
 |Samsung|Galaxy Tab Active2|gtactive2lte|SM-T395|
 |Samsung|Galaxy Tab Active2|gtactive2ltechn|SM-T395C|
@@ -19209,6 +19214,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S5e|gts4lv|SM-T725N|
 |Samsung|Galaxy Tab S5e|gts4lv|SM-T727|
 |Samsung|Galaxy Tab S5e|gts4lv|SM-T727A|
+|Samsung|Galaxy Tab S5e|gts4lv|SM-T727R4|
 |Samsung|Galaxy Tab S5e|gts4lv|SM-T727U|
 |Samsung|Galaxy Tab S5e|gts4lv|SM-T727V|
 |Samsung|Galaxy Tab S5e|gts4lvwifi|SM-T720|
@@ -19405,7 +19411,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Win Pro|wilcoxds|SM-G3812|
 |Samsung|Galaxy Win2|coreprimeltedtv|SM-G360BT|
 |Samsung|Galaxy XCover 4s|xcover4s|SM-G398FN|
-|Samsung|Galaxy XCover FieldPro|haechiy19|SM-G889F|
+|Samsung|Galaxy XCover Field Pro|haechiy19|SM-G889F|
 |Samsung|Galaxy XCover4|xcover4lte|SM-G390F|
 |Samsung|Galaxy Xcover|GT-S5690|GT-S5690|
 |Samsung|Galaxy Xcover|GT-S5690L|GT-S5690L|
@@ -22188,6 +22194,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Takara|MID169|MID169|MID169|
 |Takara|MID210|MID210|MID210|
 |Takara|MID225|MID225|MID225|
+|Talius|Zircon_1016_4G|Zircon_1016_4G|Zircon_1016_4G|
 |Tambo|TA-1|TA-1|TA-1|
 |Tambo|TA-10|TA-10|TA-10|
 |Tambo|TA-2|TA-2|TA-2|
@@ -23579,6 +23586,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vsmart|Active 1|PQ6001|Active 1|
 |Vsmart|Active 1 +|PQ6002|Active 1+|
 |Vsmart|Bee|V220A|Bee|
+|Vsmart|Bee|V220B|Bee|
 |Vsmart|Joy 1|PQ4001|Joy 1|
 |Vsmart|Joy 1 +|PQ4002|Joy 1+|
 |Vsmart|Joy 2+|V420A|Joy 2+|

@@ -92017,6 +92017,12 @@
  },
  {
   "brand": "Oppo",
+  "name": "Reno Ace",
+  "device": "OP4A89",
+  "model": "PCLM10"
+ },
+ {
+  "brand": "Oppo",
   "name": "Reno Z",
   "device": "OP48A1",
   "model": "CPH1979"
@@ -101582,6 +101588,12 @@
  {
   "brand": "Realme",
   "name": "realme XT",
+  "device": "RMX1921L1",
+  "model": "RMX1921"
+ },
+ {
+  "brand": "Realme",
+  "name": "realme XT",
   "device": "RMX1922",
   "model": "RMX1922"
  },
@@ -103874,6 +103886,12 @@
  {
   "brand": "Samsung",
   "name": "Galaxy A20",
+  "device": "SCV46",
+  "model": "SCV46-u"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy A20",
   "device": "a20",
   "model": "SM-A205F"
  },
@@ -104824,6 +104842,12 @@
   "name": "Galaxy A70",
   "device": "a70q",
   "model": "SM-A705YN"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy A70s",
+  "device": "a70s",
+  "model": "SM-A7070"
  },
  {
   "brand": "Samsung",
@@ -114560,6 +114584,12 @@
  {
   "brand": "Samsung",
   "name": "Galaxy Tab Active Pro",
+  "device": "gtactivexl",
+  "model": "SM-T547U"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Tab Active Pro",
   "device": "gtactivexlwifi",
   "model": "SM-T540"
  },
@@ -115222,6 +115252,12 @@
   "name": "Galaxy Tab S5e",
   "device": "gts4lv",
   "model": "SM-T727A"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Tab S5e",
+  "device": "gts4lv",
+  "model": "SM-T727R4"
  },
  {
   "brand": "Samsung",
@@ -116401,7 +116437,7 @@
  },
  {
   "brand": "Samsung",
-  "name": "Galaxy XCover FieldPro",
+  "name": "Galaxy XCover Field Pro",
   "device": "haechiy19",
   "model": "SM-G889F"
  },
@@ -133098,6 +133134,12 @@
   "model": "MID225"
  },
  {
+  "brand": "Talius",
+  "name": "Zircon_1016_4G",
+  "device": "Zircon_1016_4G",
+  "model": "Zircon_1016_4G"
+ },
+ {
   "brand": "Tambo",
   "name": "TA-1",
   "device": "TA-1",
@@ -141441,6 +141483,12 @@
   "brand": "Vsmart",
   "name": "Bee",
   "device": "V220A",
+  "model": "Bee"
+ },
+ {
+  "brand": "Vsmart",
+  "name": "Bee",
+  "device": "V220B",
   "model": "Bee"
  },
  {
