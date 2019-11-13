@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-11-12
+Last sync is 2019-11-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1872,6 +1872,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-1045G|BQru-1045G_2019|BQ-1045G|
 |BQru|BQ-1056L|BQru_1056L|BQru-1056L|
 |BQru|BQ-1057L|BQru_1057L|BQru-1057L|
+|BQru|BQ-1081G|BQru-1081G_2019|BQ-1081G|
 |BQru|BQ-1082G|BQru-1082G_2019|BQ-1082G|
 |BQru|BQ-1084L|BQru-1084L|BQ-1084L|
 |BQru|BQ-1085L|BQru-1085L|BQ-1085L|
@@ -2499,6 +2500,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bluedigit|RAVOZ_R9|RAVOZ_R9|RAVOZ R9|
 |Bluedot|BNT-700K|BNT-700K|BNT-700K|
 |Bluedot|BNT-801W|BNT_801W|BNT-801W|
+|Bluedot|BNT-802|BNT-802|BNT-802|
 |Bluedot|BNT_1012W|BNT_1012W|BNT-1012|
 |Bluesky|BSS45|BSS45|BSS45|
 |Bluesky|BSS50|BSS50|BSS50|
@@ -2547,6 +2549,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bravis|X500|BRAVIS_X500|BRAVIS X500|
 |Bravis|bravis_A506|bravis_A506|bravis_A506|
 |Bravva|DM-901|DM-901|DM-901|
+|Bravva|DU-500|DU-500|DU-500|
 |Bravva|Impress_Aero|Impress_Aero|Impress_Aero|
 |Brighton|MAL-FWTVTB|MAL-FWTVTB|MAL-FWTVTB|
 |Brightstar|C8|C8|C8|
@@ -3570,6 +3573,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|L170|L170|L170|
 |DEXP|L180|L180|L180|
 |DEXP|L270|L270|L270|
+|DEXP|L370i|L370i|L370i|
 |DEXP|M340|M340|Ixion M340|
 |DEXP|M545|M545|Ixion M545|
 |DEXP|M750|M750|Ixion M750|
@@ -3816,6 +3820,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DigiLand|PCBOX|Kova_2_PCB-T731|PCB-T731|
 |DigiLand|SLTDVD1023|mdt1005|SLTDVD1023|
 |DigiLand|TP1_N|TP1_N|TP1_N|
+|DigiLand|TPC-705Kids_EEA|MID7015A-MK|TPC-705Kids|
 |DigiLand|ismart|MID1016-MK|MID1016-MK|
 |Digicel|DL501|DL501|DL501|
 |Digicel|Digi K1|Digi_K1|Digi_K1|
@@ -4507,6 +4512,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Evolveo|EVOLVEO StrongPhone G2|EVOLVEOG2|EVOLVEO StrongPhone G2|
 |Evolveo|EVOLVEO StrongPhone G4|EVOLVEOG4|EVOLVEO StrongPhone G4|
 |Evolveo|EVOLVEO StrongPhone G6|EVOLVEO_StrongPhone_G6|EVOLVEO StrongPhone G6|
+|Evolveo|EVOLVEO StrongPhone G7|StrongPhone_G7|EVOLVEO StrongPhone G7|
 |Evolveo|EVOLVEO StrongPhone G8|EVOLVEOG8|EVOLVEO StrongPhone G8|
 |Evolveo|StrongPhone Q9|StrongPhoneQ9|StrongPhoneQ9|
 |Evoo|EV-A-101-1|EV-A-101-1|EV-A-101-1|
@@ -5270,6 +5276,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gionee|A1 lite|GIONEE_SWW1618|A1 lite|
 |Gionee|E8|GiONEE_GN9008|E8|
 |Gionee|E8|GiONEE_GN9008|GN9008|
+|Gionee|F10|F10|GIONEE F10|
 |Gionee|F100|GIONEE_GBL7358|F100|
 |Gionee|F100A|GIONEE_GBL7358|F100A|
 |Gionee|F100B|GIONEE_GBL7370|F100B|
@@ -6316,6 +6323,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hafury|A7|A7|A7|
 |Hafury|HAFURY MIX|HAFURY_MIX|HAFURY MIX|
 |Hafury|HAFURY UMAX|HAFURY_UMAX|HAFURY UMAX|
+|Hafury|NOTE 10|NOTE_10|NOTE 10|
 |Haier|A-TT00|A-TT00|A-TT00|
 |Haier|A36C5H|A36C5H|Andromax A36C5H|
 |Haier|A42P|A42P|Haier A42P|
@@ -9496,6 +9504,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Iris|IS2S|IS2S|IS2S|
 |Iris|IS2_Plus|IS2_Plus|IS2_Plus|
 |Iris|IS6Plus|IS6Plus|IS6Plus|
+|Iris|N30|N30|N30|
 |Iris|NEXT P|NEXT_P|NEXT_P|
 |Iris|NEXT P+|NEXT_P_PLUS|NEXT P+|
 |Iris|NEXT U|NEXT_U|NEXT U|
@@ -10700,6 +10709,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG G7 ThinQ|judyln|LM-G710N|
 |LGE|LG G7 ThinQ|judyln|LM-G710VM|
 |LGE|LG G7 fit|falcon|LM-Q850|
+|LGE|LG G8 ThinQ\xe2\x84\xa2|alphaamz|LM-G820|
 |LGE|LG G8 ThinQ\xe2\x84\xa2|alphalm|LM-G820|
 |LGE|LG G8 ThinQ\xe2\x84\xa2|alphaplus|LM-G820N|
 |LGE|LG GRACE\xe2\x84\xa2 LTE|lv517|LGL59BL|
@@ -12904,6 +12914,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Making Life Simple|iQW503|iQW503|iQW503|
 |Making Life Simple|iQW553N|iQW553N|iQW553N|
 |Making Life Simple|iQW603|iQW603|iQW603|
+|Malata|UR5|UR5|UR5|
 |Malata|UR7|UR7|UR7|
 |Malata|UV350|UV350|UV350|
 |Mango|Mango_S5|Mango_S5|Mango S5|
@@ -17031,6 +17042,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ruggear|RG850|RG850|RG850|
 |Ruggear|RG910|RG910|RG910|
 |Ruggear|RugGear rg730|rg730|rg730|
+|Ruio|Cola|M671M3|M671M3|
 |Ruio|RUIO i7c Tablet|i7c|i7c|
 |Ruio|RUIO_S518|RUIO_S518|S518|
 |Ruio|Ruio_S4 Plus|S4Plus|S4Plus|
@@ -20124,6 +20136,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smooth|S2|S2|S2|
 |Smooth|S2_Advance|SSmooth_S2_Advance|S2 Advance|
 |Snopow|M10|M10|M10|
+|Snopow|ServiceChecKIT|ServiceChecKIT_EEA|ServiceChecKIT_EEA|
 |Soda|E1|soda_CSW1702|soda E1|
 |Soda|FIRE|soda_CSW1803|soda FIRE|
 |Soda|s2|soda_CSW1802|soda S2|
@@ -23052,6 +23065,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vertex|Lion_DC|Lion_DC|Lion_DC|
 |Vertex|Lion_Dual|Lion_Dual|Lion_Dual|
 |Vertex|Luck|Luck|Luck|
+|Vertex|Luck_L100_3G|Luck_L100_3G|Luck_L100_3G|
+|Vertex|Luck_L120_4G|Luck_L120_4G|Luck_L120_4G|
 |Vertex|Luck_L_5045_3G|Luck_L_5045_3G|Vertex_Luck_L_5045_3G|
 |Vertex|Luck_L_5045_4G|Luck_L_5045_4G|Vertex_Luck_L_5045_4G|
 |Vertex|Luck_M_5000N_4G|Luck_M_5000N_4G|Luck_M_5000N_4G|

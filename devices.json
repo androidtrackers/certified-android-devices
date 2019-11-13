@@ -11203,6 +11203,12 @@
  },
  {
   "brand": "BQru",
+  "name": "BQ-1081G",
+  "device": "BQru-1081G_2019",
+  "model": "BQ-1081G"
+ },
+ {
+  "brand": "BQru",
   "name": "BQ-1082G",
   "device": "BQru-1082G_2019",
   "model": "BQ-1082G"
@@ -14965,6 +14971,12 @@
  },
  {
   "brand": "Bluedot",
+  "name": "BNT-802",
+  "device": "BNT-802",
+  "model": "BNT-802"
+ },
+ {
+  "brand": "Bluedot",
   "name": "BNT_1012W",
   "device": "BNT_1012W",
   "model": "BNT-1012"
@@ -15250,6 +15262,12 @@
   "name": "DM-901",
   "device": "DM-901",
   "model": "DM-901"
+ },
+ {
+  "brand": "Bravva",
+  "name": "DU-500",
+  "device": "DU-500",
+  "model": "DU-500"
  },
  {
   "brand": "Bravva",
@@ -21391,6 +21409,12 @@
  },
  {
   "brand": "DEXP",
+  "name": "L370i",
+  "device": "L370i",
+  "model": "L370i"
+ },
+ {
+  "brand": "DEXP",
   "name": "M340",
   "device": "M340",
   "model": "Ixion M340"
@@ -22864,6 +22888,12 @@
   "name": "TP1_N",
   "device": "TP1_N",
   "model": "TP1_N"
+ },
+ {
+  "brand": "DigiLand",
+  "name": "TPC-705Kids_EEA",
+  "device": "MID7015A-MK",
+  "model": "TPC-705Kids"
  },
  {
   "brand": "DigiLand",
@@ -27010,6 +27040,12 @@
   "name": "EVOLVEO StrongPhone G6",
   "device": "EVOLVEO_StrongPhone_G6",
   "model": "EVOLVEO StrongPhone G6"
+ },
+ {
+  "brand": "Evolveo",
+  "name": "EVOLVEO StrongPhone G7",
+  "device": "StrongPhone_G7",
+  "model": "EVOLVEO StrongPhone G7"
  },
  {
   "brand": "Evolveo",
@@ -31588,6 +31624,12 @@
   "name": "E8",
   "device": "GiONEE_GN9008",
   "model": "GN9008"
+ },
+ {
+  "brand": "Gionee",
+  "name": "F10",
+  "device": "F10",
+  "model": "GIONEE F10"
  },
  {
   "brand": "Gionee",
@@ -37864,6 +37906,12 @@
   "name": "HAFURY UMAX",
   "device": "HAFURY_UMAX",
   "model": "HAFURY UMAX"
+ },
+ {
+  "brand": "Hafury",
+  "name": "NOTE 10",
+  "device": "NOTE_10",
+  "model": "NOTE 10"
  },
  {
   "brand": "Haier",
@@ -56947,6 +56995,12 @@
  },
  {
   "brand": "Iris",
+  "name": "N30",
+  "device": "N30",
+  "model": "N30"
+ },
+ {
+  "brand": "Iris",
   "name": "NEXT P",
   "device": "NEXT_P",
   "model": "NEXT_P"
@@ -64168,6 +64222,12 @@
   "name": "LG G7 fit",
   "device": "falcon",
   "model": "LM-Q850"
+ },
+ {
+  "brand": "LGE",
+  "name": "LG G8 ThinQ\\xe2\\x84\\xa2",
+  "device": "alphaamz",
+  "model": "LM-G820"
  },
  {
   "brand": "LGE",
@@ -77392,6 +77452,12 @@
   "name": "iQW603",
   "device": "iQW603",
   "model": "iQW603"
+ },
+ {
+  "brand": "Malata",
+  "name": "UR5",
+  "device": "UR5",
+  "model": "UR5"
  },
  {
   "brand": "Malata",
@@ -102157,6 +102223,12 @@
  },
  {
   "brand": "Ruio",
+  "name": "Cola",
+  "device": "M671M3",
+  "model": "M671M3"
+ },
+ {
+  "brand": "Ruio",
   "name": "RUIO i7c Tablet",
   "device": "i7c",
   "model": "i7c"
@@ -120714,6 +120786,12 @@
   "model": "M10"
  },
  {
+  "brand": "Snopow",
+  "name": "ServiceChecKIT",
+  "device": "ServiceChecKIT_EEA",
+  "model": "ServiceChecKIT_EEA"
+ },
+ {
   "brand": "Soda",
   "name": "E1",
   "device": "soda_CSW1702",
@@ -138280,6 +138358,18 @@
   "name": "Luck",
   "device": "Luck",
   "model": "Luck"
+ },
+ {
+  "brand": "Vertex",
+  "name": "Luck_L100_3G",
+  "device": "Luck_L100_3G",
+  "model": "Luck_L100_3G"
+ },
+ {
+  "brand": "Vertex",
+  "name": "Luck_L120_4G",
+  "device": "Luck_L120_4G",
+  "model": "Luck_L120_4G"
  },
  {
   "brand": "Vertex",
