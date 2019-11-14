@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-11-13
+Last sync is 2019-11-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -16935,6 +16935,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme 5|RMX1915|RMX1915|
 |Realme|realme 5|RMX1919|RMX1919|
 |Realme|realme 5|RMX1925|RMX1925|
+|Realme|realme 5|RMX1926|RMX1926|
 |Realme|realme 5Pro|RMX1971|RMX1971|
 |Realme|realme 5Pro|RMX1971L1|RMX1971|
 |Realme|realme 5pro|RMX1971|RMX1971|
@@ -20972,6 +20973,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TAG Heuer|Connected Modular 45|anthracite|TAG Heuer|
 |TAG Heuer|Connected Modular 45 (China)|anthracite|TAG Heuer|
 |TAG-DC|TAG-DC|TAG-DC|TAG-DC|
+|TAGITAL|T7K_PLUS|T7K-PLUS|T7K_PLUS|
 |TCL|Beyond TV|BeyondTV|BeyondTV|
 |TCL|C9|A3A_XL_4G|5199I|
 |TCL|GO5c|U3A_PLUS_4G|5033E|
@@ -22272,6 +22274,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P80X|P80X|P80X|
 |Teclast|P80X_EEA|P80X|P80X|
 |Teclast|T30_EEA|T30|T30_EEA|
+|Teclast|T30_ROW|T30|T30_ROW|
 |Tecno|A7S|TECNO-A7S|TECNO-A7S|
 |Tecno|C5|TECNO-C5|TECNO-C5|
 |Tecno|C7|TECNO-C7|TECNO-C7|

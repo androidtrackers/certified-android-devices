@@ -101581,6 +101581,12 @@
  },
  {
   "brand": "Realme",
+  "name": "realme 5",
+  "device": "RMX1926",
+  "model": "RMX1926"
+ },
+ {
+  "brand": "Realme",
   "name": "realme 5Pro",
   "device": "RMX1971",
   "model": "RMX1971"
@@ -125802,6 +125808,12 @@
   "model": "TAG-DC"
  },
  {
+  "brand": "TAGITAL",
+  "name": "T7K_PLUS",
+  "device": "T7K-PLUS",
+  "model": "T7K_PLUS"
+ },
+ {
   "brand": "TCL",
   "name": "Beyond TV",
   "device": "BeyondTV",
@@ -133600,6 +133612,12 @@
   "name": "T30_EEA",
   "device": "T30",
   "model": "T30_EEA"
+ },
+ {
+  "brand": "Teclast",
+  "name": "T30_ROW",
+  "device": "T30",
+  "model": "T30_ROW"
  },
  {
   "brand": "Tecno",
