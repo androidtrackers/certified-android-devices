@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-11-14
+Last sync is 2019-11-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -745,6 +745,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Amgoo|AMGOO|AM518|AM518|
 |Amgoo|Amgoo|AM518|AM518|
 |Aminocom|Amigo|Amigo|Amigo7|
+|Aminocom|Kamai7|Kamai7|Kamai7|
 |Aminocom|Kamai7B|Kamai7B|Kamai7B|
 |Aminocom|eSTREAM4K|eSTREAM4K_4x4|IPA-1104HDH-01|
 |Amplify|TL10RA3|TL10RA3_1|TL10RA3|
@@ -1941,6 +1942,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-5707G Next Music|BQru-5707G|BQ-5707G|
 |BQru|BQ-5730L|BQru-5730L|BQ-5730L|
 |BQru|BQ-5731L Magic S|BQru-5731L|BQ-5731L|
+|BQru|BQ-5732L|BQru-5732L|BQ-5732L|
 |BQru|BQ-6000L Aurora|BQru-6000L|BQ-6000L|
 |BQru|BQ-6001 L|BQru-6001L|BQ-6001L|
 |BQru|BQ-6010G|BQru_6010G|BQ-6010G|
@@ -3582,6 +3584,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|N180i|N180i|N180i|
 |DEXP|N210|N210|N210|
 |DEXP|N280|N280|N280|
+|DEXP|N280i|N280i|N280i|
 |DEXP|N310|N310|N310|
 |DEXP|N370|N370|N370|
 |DEXP|N380i|N380i|N380i|
@@ -12479,6 +12482,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|YOGA Tablet Pro-1380L/Yoga Tablet 2 Pro|YT2|YOGA Tablet 2 Pro-1380L|
 |Lenovo|YOGA Tablet Pro-830L/Yoga Tablet 2|YT2|YOGA Tablet 2-830L|
 |Lenovo|YOGA Tablet Pro-830LC/Yoga Tablet 2|YT2|YOGA Tablet 2-830LC|
+|Lenovo|Yoga Smart Tab|YT-X705F|Lenovo YT-X705F|
+|Lenovo|Yoga Smart Tab|YT-X705L|Lenovo YT-X705L|
+|Lenovo|Yoga Smart Tab|YT-X705X|Lenovo YT-X705X|
 |Lenovo|YogaTablet2 -1050F|YT2|YOGA Tablet 2-1050F|
 |Lenovo|YogaTbalet2-830F|YT2|YOGA Tablet 2-830F|
 |Lenovo|Z2|z2r|Lenovo Z2|
@@ -14140,6 +14146,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola one zoom|parker|moto z4|
 |Motorola|motorola one zoom|parker|motorola one zoom|
 |Motorola|motorola p50|kane|XT1970-5|
+|Motorola|motorola razr|olson|motorola razr|
 |Motorola Solutions|LEX F10|LEXF10|LEX F10|
 |Motorola Solutions|LEX L10g|lexl10g|LEX L10g|
 |Motorola Solutions|LEX L10ig|lexl10ig|LEX L10ig|
@@ -17490,6 +17497,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A70|a70q|SM-A705FN|
 |Samsung|Galaxy A70|a70q|SM-A705GM|
 |Samsung|Galaxy A70|a70q|SM-A705MN|
+|Samsung|Galaxy A70|a70q|SM-A705U|
 |Samsung|Galaxy A70|a70q|SM-A705W|
 |Samsung|Galaxy A70|a70q|SM-A705YN|
 |Samsung|Galaxy A70s|a70s|SM-A7070|
@@ -17517,6 +17525,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A8+(2018)|jackpot2lte|SM-A730X|
 |Samsung|Galaxy A80|r1q|SM-A8050|
 |Samsung|Galaxy A80|r1q|SM-A805F|
+|Samsung|Galaxy A80|r1q|SM-A805N|
 |Samsung|Galaxy A8s|a8sqlte|SM-G887F|
 |Samsung|Galaxy A8s|a8sqltechn|SM-G8870|
 |Samsung|Galaxy A9 (2018)|a9y18qlte|SM-A920F|
@@ -21319,6 +21328,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|A851L|Viper_gsm|Alcatel 7030L|
 |TCT (Alcatel)|A851L|Viper_gsm|Alcatel A851L|
 |TCT (Alcatel)|ALCATEL 1T 10|U3A_10_WIFI|8082|
+|TCT (Alcatel)|ALCATEL 1T 10|U3A_10_WIFI_P|8084|
 |TCT (Alcatel)|ALCATEL 1T 7|U3A_7_3G|9009A|
 |TCT (Alcatel)|ALCATEL 1T 7 3G|U3A_7_3G|9009G|
 |TCT (Alcatel)|ALCATEL 3C|A3A_XL_3G|5026A|
@@ -24207,6 +24217,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Redmi Pro|omega|Redmi Pro|
 |Xiaomi|Redmi S2|ysl|Redmi S2|
 |Xiaomi|TELEBEE|once|MIBOX3|
+|Xiaomi|\xe5\xb0\x8f\xe7\xb1\xb3\xe6\x89\x8b\xe8\xa1\xa8|baiji|Mi Watch|
 |Xolo|Era 2X 2GB|XE2X|Era 2X|
 |Xolo|Era 2X 3GB|XE2X3GB|Era 2X 3GB|
 |Xolo|Era3|Era_3|Era 3|
@@ -25985,6 +25996,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iDea USA|CT8|CT8|CT8|
 |iDeaUSA|CT10|CT10|CT10|
 |iDeaUSA|CT7|CT7|CT7|
+|iDevice|Uzbekistan|Uzbekistan|Uzbekistan|
 |iFit|IFT1018|IFT1018|IFT1018|
 |iGet|S100|iGET_S100|S100|
 |iGet|SMART|iGET_SMART|SMART|

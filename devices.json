@@ -4441,6 +4441,12 @@
  },
  {
   "brand": "Aminocom",
+  "name": "Kamai7",
+  "device": "Kamai7",
+  "model": "Kamai7"
+ },
+ {
+  "brand": "Aminocom",
   "name": "Kamai7B",
   "device": "Kamai7B",
   "model": "Kamai7B"
@@ -11614,6 +11620,12 @@
   "name": "BQ-5731L Magic S",
   "device": "BQru-5731L",
   "model": "BQ-5731L"
+ },
+ {
+  "brand": "BQru",
+  "name": "BQ-5732L",
+  "device": "BQru-5732L",
+  "model": "BQ-5732L"
  },
  {
   "brand": "BQru",
@@ -21460,6 +21472,12 @@
   "name": "N280",
   "device": "N280",
   "model": "N280"
+ },
+ {
+  "brand": "DEXP",
+  "name": "N280i",
+  "device": "N280i",
+  "model": "N280i"
  },
  {
   "brand": "DEXP",
@@ -74845,6 +74863,24 @@
  },
  {
   "brand": "Lenovo",
+  "name": "Yoga Smart Tab",
+  "device": "YT-X705F",
+  "model": "Lenovo YT-X705F"
+ },
+ {
+  "brand": "Lenovo",
+  "name": "Yoga Smart Tab",
+  "device": "YT-X705L",
+  "model": "Lenovo YT-X705L"
+ },
+ {
+  "brand": "Lenovo",
+  "name": "Yoga Smart Tab",
+  "device": "YT-X705X",
+  "model": "Lenovo YT-X705X"
+ },
+ {
+  "brand": "Lenovo",
   "name": "YogaTablet2 -1050F",
   "device": "YT2",
   "model": "YOGA Tablet 2-1050F"
@@ -84808,6 +84844,12 @@
   "name": "motorola p50",
   "device": "kane",
   "model": "XT1970-5"
+ },
+ {
+  "brand": "Motorola",
+  "name": "motorola razr",
+  "device": "olson",
+  "model": "motorola razr"
  },
  {
   "brand": "Motorola Solutions",
@@ -104913,6 +104955,12 @@
   "brand": "Samsung",
   "name": "Galaxy A70",
   "device": "a70q",
+  "model": "SM-A705U"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy A70",
+  "device": "a70q",
   "model": "SM-A705W"
  },
  {
@@ -105070,6 +105118,12 @@
   "name": "Galaxy A80",
   "device": "r1q",
   "model": "SM-A805F"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy A80",
+  "device": "r1q",
+  "model": "SM-A805N"
  },
  {
   "brand": "Samsung",
@@ -127885,6 +127939,12 @@
  },
  {
   "brand": "TCT (Alcatel)",
+  "name": "ALCATEL 1T 10",
+  "device": "U3A_10_WIFI_P",
+  "model": "8084"
+ },
+ {
+  "brand": "TCT (Alcatel)",
   "name": "ALCATEL 1T 7",
   "device": "U3A_7_3G",
   "model": "9009A"
@@ -145212,6 +145272,12 @@
   "model": "MIBOX3"
  },
  {
+  "brand": "Xiaomi",
+  "name": "\\xe5\\xb0\\x8f\\xe7\\xb1\\xb3\\xe6\\x89\\x8b\\xe8\\xa1\\xa8",
+  "device": "baiji",
+  "model": "Mi Watch"
+ },
+ {
   "brand": "Xolo",
   "name": "Era 2X 2GB",
   "device": "XE2X",
@@ -155878,6 +155944,12 @@
   "name": "CT7",
   "device": "CT7",
   "model": "CT7"
+ },
+ {
+  "brand": "iDevice",
+  "name": "Uzbekistan",
+  "device": "Uzbekistan",
+  "model": "Uzbekistan"
  },
  {
   "brand": "iFit",
