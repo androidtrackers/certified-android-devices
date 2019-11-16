@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-11-15
+Last sync is 2019-11-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -345,6 +345,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aceson|R726|R726|R726|
 |Aconatic|Android TV|R1|ATV R1|
 |Aconatic|Android TV|R2|ATV R2|
+|Aconatic|DV6068Y|DV6068Y|DV6068Y|
 |Adart|ALIGATOR RX510|RX510|ALIGATOR RX510|
 |Adart|ALIGATOR S4080 Duo|ALIGATOR_S4080|ALIGATOR S4080|
 |Adart|ALIGATOR S4082 Duo|S4082Duo|S4082 Duo|
@@ -756,6 +757,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Andersson|TBQ10322|TBQ10322|TBQ10322|
 |Andersson|TBQ8322|TBQ8322|TBQ8322|
 |Andersson|TBQ_10321|TBQ_10321|TBQ_10321|
+|Antel|DV8547|DV8547|DV8547|
 |Anydata||ASP320Q_GSM|ASP320Q_ANDi|
 |Anydata|Aquaris I8|bq_Aquaris|bq Aquaris|
 |Anydata|Auchan MID7317CP Tablet|MID7317CP|MID7317CP|
@@ -11512,6 +11514,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LUVO|001L|LUVO-001L|LUVO 001L|
 |LUXO|LUXO C1|C1|C1|
 |LUXYA|MID704DC Tablet / Bitmore Tab770|MY7317P|MID704DC|
+|LW|LW688|LW688|LW688|
 |Laiq|GLAM|LAIQ_Glam|LAIQ Glam|
 |Laiq|Glow|Glow|Glow|
 |Laiq|STARTRAIL 8|STARTRAIL|STARTRAIL 8|
@@ -12783,6 +12786,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M4tel|M4 SS4458-R|M4-SS4458-R|M4-SS4458-R|
 |M4tel|R2 Plus|R2_Plus|R2_Plus|
 |MAG|MAG425A|MAG425A|MAG425A|
+|MAXX|Grand Prime|Grand_Prime|Grand Prime|
 |MAZE|Alpha|Alpha|Alpha|
 |MAZE|Alpha_X|Alpha_X|Alpha_X|
 |MAZE|Comet|Comet|Comet|
@@ -19545,6 +19549,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sansui|Fun|Sansui_Fun|Sansui Fun|
 |Sansui|Go|S401|Go|
 |Sansui|Grand|Grand|Grand|
+|Sansui|Israel|SAN-8487|SAN-8487|
 |Sansui|Nitro|Nitro|Nitro|
 |Sansui|Sansui Play|Play|Sansui Play|
 |Sansui|Sansui_Nova|Sansui_Nova|Sansui_Nova|

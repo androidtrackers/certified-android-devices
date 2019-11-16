@@ -2040,6 +2040,12 @@
   "model": "ATV R2"
  },
  {
+  "brand": "Aconatic",
+  "name": "DV6068Y",
+  "device": "DV6068Y",
+  "model": "DV6068Y"
+ },
+ {
   "brand": "Adart",
   "name": "ALIGATOR RX510",
   "device": "RX510",
@@ -4504,6 +4510,12 @@
   "name": "TBQ_10321",
   "device": "TBQ_10321",
   "model": "TBQ_10321"
+ },
+ {
+  "brand": "Antel",
+  "name": "DV8547",
+  "device": "DV8547",
+  "model": "DV8547"
  },
  {
   "brand": "Anydata",
@@ -69042,6 +69054,12 @@
   "model": "MID704DC"
  },
  {
+  "brand": "LW",
+  "name": "LW688",
+  "device": "LW688",
+  "model": "LW688"
+ },
+ {
   "brand": "Laiq",
   "name": "GLAM",
   "device": "LAIQ_Glam",
@@ -76666,6 +76684,12 @@
   "name": "MAG425A",
   "device": "MAG425A",
   "model": "MAG425A"
+ },
+ {
+  "brand": "MAXX",
+  "name": "Grand Prime",
+  "device": "Grand_Prime",
+  "model": "Grand Prime"
  },
  {
   "brand": "MAZE",
@@ -117238,6 +117262,12 @@
   "name": "Grand",
   "device": "Grand",
   "model": "Grand"
+ },
+ {
+  "brand": "Sansui",
+  "name": "Israel",
+  "device": "SAN-8487",
+  "model": "SAN-8487"
  },
  {
   "brand": "Sansui",
