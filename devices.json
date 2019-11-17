@@ -121244,6 +121244,12 @@
  {
   "brand": "Sony",
   "name": "Xperia 1",
+  "device": "J9180",
+  "model": "J9180"
+ },
+ {
+  "brand": "Sony",
+  "name": "Xperia 1",
   "device": "SO-03L",
   "model": "SO-03L"
  },
@@ -121318,6 +121324,12 @@
   "name": "Xperia 5",
   "device": "J8210",
   "model": "J8210"
+ },
+ {
+  "brand": "Sony",
+  "name": "Xperia 5",
+  "device": "J8270",
+  "model": "J8270"
  },
  {
   "brand": "Sony",

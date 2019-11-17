@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-11-16
+Last sync is 2019-11-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -20212,6 +20212,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 1|J8110|J8110|
 |Sony|Xperia 1|J8170|J8170|
 |Sony|Xperia 1|J9110|J9110|
+|Sony|Xperia 1|J9180|J9180|
 |Sony|Xperia 1|SO-03L|SO-03L|
 |Sony|Xperia 1|SOV40|SOV40|
 |Sony|Xperia 1 Professional Edition|J9150|J9150|
@@ -20225,6 +20226,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 10 Plus|I4293|I4293|
 |Sony|Xperia 5|901SO|901SO|
 |Sony|Xperia 5|J8210|J8210|
+|Sony|Xperia 5|J8270|J8270|
 |Sony|Xperia 5|J9210|J9210|
 |Sony|Xperia 5|SO-01M|SO-01M|
 |Sony|Xperia 5|SOV41|SOV41|
