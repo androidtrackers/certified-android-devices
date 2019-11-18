@@ -2046,6 +2046,12 @@
   "model": "DV6068Y"
  },
  {
+  "brand": "Aconatic",
+  "name": "DV8547",
+  "device": "DV8547",
+  "model": "DV8547"
+ },
+ {
   "brand": "Adart",
   "name": "ALIGATOR RX510",
   "device": "RX510",
@@ -6964,6 +6970,12 @@
   "name": "Wizard 1",
   "device": "Wizard_1",
   "model": "Wizard_1"
+ },
+ {
+  "brand": "Artek",
+  "name": "Beat",
+  "device": "Beat",
+  "model": "Beat"
  },
  {
   "brand": "Artel",
@@ -47350,6 +47362,12 @@
   "name": "HUAWEI nova 5T",
   "device": "HWYAL",
   "model": "YAL-L21"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HUAWEI nova 5T Pro",
+  "device": "HWYAL",
+  "model": "YAL-L41"
  },
  {
   "brand": "Huawei",
@@ -102426,6 +102444,12 @@
   "model": "FP-U320-711-WWAN"
  },
  {
+  "brand": "SARL WISE TECHNOLOGIE",
+  "name": "P1_Plus",
+  "device": "P1_Plus",
+  "model": "P1+"
+ },
+ {
   "brand": "SBET",
   "name": "X7",
   "device": "X7",
@@ -145048,6 +145072,12 @@
   "name": "MiTV",
   "device": "dangalUHD",
   "model": "MiTV-AXSO2"
+ },
+ {
+  "brand": "Xiaomi",
+  "name": "MiTV",
+  "device": "magnolia",
+  "model": "MiTV4I"
  },
  {
   "brand": "Xiaomi",

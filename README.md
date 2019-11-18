@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-11-17
+Last sync is 2019-11-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -346,6 +346,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aconatic|Android TV|R1|ATV R1|
 |Aconatic|Android TV|R2|ATV R2|
 |Aconatic|DV6068Y|DV6068Y|DV6068Y|
+|Aconatic|DV8547|DV8547|DV8547|
 |Adart|ALIGATOR RX510|RX510|ALIGATOR RX510|
 |Adart|ALIGATOR S4080 Duo|ALIGATOR_S4080|ALIGATOR S4080|
 |Adart|ALIGATOR S4082 Duo|S4082Duo|S4082 Duo|
@@ -1166,6 +1167,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ark|Impulse P2|Impulse_P2|Impulse_P2|
 |Ark|S504|S504|S504|
 |Ark|Wizard 1|Wizard_1|Wizard_1|
+|Artek|Beat|Beat|Beat|
 |Artel|ALO|ALO|ALO|
 |Artel|Android TV|R1|ATV R1|
 |Artel|Android TV|R2|ATV R2|
@@ -7897,6 +7899,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI nova 2 Plus|HWBAC|BAC-L22|
 |Huawei|HUAWEI nova 2 lite|HWLDN-Q|LDN-LX2|
 |Huawei|HUAWEI nova 5T|HWYAL|YAL-L21|
+|Huawei|HUAWEI nova 5T Pro|HWYAL|YAL-L41|
 |Huawei|HUAWEI nova lite 2|HWFIG-H|704HW|
 |Huawei|HUAWEI nova lite 3|HWPOT-H|POT-LX2J|
 |Huawei|HUAWEI nova lite for Y!mobile|HWPRA-H|608HW|
@@ -17076,6 +17079,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |S-tell|P850|P850|P850|
 |SAKAISIO|FP-U320-711-WIFI|U320-WF|FP-U320-711-WIFI|
 |SAKAISIO|FP-U320-711-WWAN|U320-3G|FP-U320-711-WWAN|
+|SARL WISE TECHNOLOGIE|P1_Plus|P1_Plus|P1+|
 |SBET|X7|X7|X7|
 |SCIENTIA|BBT1019863|BBT1019863|BBT1019863|
 |SED Wireless|GPH-650R|SPH_650R|GPH-650R|
@@ -24180,6 +24184,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|MiTV|dangal|MiTV-AXSO0|
 |Xiaomi|MiTV|dangalFHD|MiTV-AXSO1|
 |Xiaomi|MiTV|dangalUHD|MiTV-AXSO2|
+|Xiaomi|MiTV|magnolia|MiTV4I|
 |Xiaomi|MiTV|nino|MiTV-MSSP1|
 |Xiaomi|MiTV2|entrapment|MiTV2|
 |Xiaomi|POCO F1|beryllium|POCOPHONE F1|
