@@ -7003,6 +7003,12 @@
  },
  {
   "brand": "Artel",
+  "name": "GAP YOQ",
+  "device": "GAP_YOQ",
+  "model": "GAP YOQ"
+ },
+ {
+  "brand": "Artel",
   "name": "Starpad_T-181",
   "device": "Starpad",
   "model": "Starpad_T-181"
@@ -10612,6 +10618,12 @@
   "name": "K107_EEA",
   "device": "K107-EEA",
   "model": "K107-EEA"
+ },
+ {
+  "brand": "BMXC",
+  "name": "N107_EEA",
+  "device": "N107-EEA",
+  "model": "N107-EEA"
  },
  {
   "brand": "BMXC",
@@ -25630,6 +25642,12 @@
   "name": "QuadTab E10.1",
   "device": "QuadTab_E101",
   "model": "QuadTab E10.1"
+ },
+ {
+  "brand": "Elecson",
+  "name": "Meeplus_1",
+  "device": "Meeplus_1",
+  "model": "Meeplus_1"
  },
  {
   "brand": "Electroland Ghana",
@@ -43429,6 +43447,12 @@
  },
  {
   "brand": "Hotwav",
+  "name": "Pearl_K3_Lite",
+  "device": "Pearl_K3",
+  "model": "Pearl K3"
+ },
+ {
+  "brand": "Hotwav",
   "name": "Symbol",
   "device": "Symbol",
   "model": "Symbol"
@@ -53904,6 +53928,12 @@
   "model": "VIATABQX730"
  },
  {
+  "brand": "IQ Touch",
+  "name": "VIATABQX740",
+  "device": "VIATABQX740",
+  "model": "VIATABQX740"
+ },
+ {
   "brand": "IUNI",
   "name": "N1",
   "device": "IUNI_N1",
@@ -59020,6 +59050,12 @@
   "name": "KZG Scope",
   "device": "KZG_Scope",
   "model": "KZG Scope"
+ },
+ {
+  "brand": "Kaicom",
+  "name": "K901",
+  "device": "K901",
+  "model": "K901"
  },
  {
   "brand": "Kalley",
@@ -73069,6 +73105,12 @@
  },
  {
   "brand": "Lenovo",
+  "name": "LAVIE Tab E 7SD1",
+  "device": "LAVIETabE7SD1",
+  "model": "LAVIE Tab E 7SD1"
+ },
+ {
+  "brand": "Lenovo",
   "name": "LIFETAB E10310",
   "device": "LIFETAB_E10310",
   "model": "LIFETAB_E10310"
@@ -85933,6 +85975,12 @@
  },
  {
   "brand": "Myphone",
+  "name": "Hammer IRON 3",
+  "device": "Hammer_IRON_3",
+  "model": "Hammer_IRON_3"
+ },
+ {
+  "brand": "Myphone",
   "name": "Hammer Iron 3 LTE",
   "device": "Hammer_Iron_3_LTE",
   "model": "Hammer_Iron_3_LTE"
@@ -86386,6 +86434,18 @@
   "name": "myXI1 Plus",
   "device": "myXI1_Plus",
   "model": "myXI1 Plus"
+ },
+ {
+  "brand": "Myphone",
+  "name": "myXI1 Pro",
+  "device": "myXI1_Pro",
+  "model": "myXI1 Pro"
+ },
+ {
+  "brand": "Myphone",
+  "name": "myXI3",
+  "device": "myXI3",
+  "model": "myXI3"
  },
  {
   "brand": "Myphone",
@@ -89653,6 +89713,12 @@
  },
  {
   "brand": "ODYS",
+  "name": "Maven_T10_pro",
+  "device": "Maven_T10_pro",
+  "model": "Maven_T10_pro"
+ },
+ {
+  "brand": "ODYS",
   "name": "NoteTab_Pro",
   "device": "NoteTab_Pro",
   "model": "NoteTab_Pro"
@@ -92551,6 +92617,12 @@
  },
  {
   "brand": "Orange",
+  "name": "Neva start",
+  "device": "Neva_start",
+  "model": "Orange Neva start"
+ },
+ {
+  "brand": "Orange",
   "name": "Nura",
   "device": "M812",
   "model": "Orange Nura"
@@ -92564,20 +92636,8 @@
  {
   "brand": "Orange",
   "name": "Orange",
-  "device": "Neva_start",
-  "model": "Orange Neva start"
- },
- {
-  "brand": "Orange",
-  "name": "Orange",
   "device": "Rise_55",
   "model": "Orange Rise 55"
- },
- {
-  "brand": "Orange",
-  "name": "Orange Neva start",
-  "device": "Neva_start",
-  "model": "Orange Neva start"
  },
  {
   "brand": "Orange",
@@ -92590,6 +92650,18 @@
   "name": "Orange Rise 53",
   "device": "Rise_53",
   "model": "Orange Rise 53"
+ },
+ {
+  "brand": "Orange",
+  "name": "Orange_Tab_7_4G",
+  "device": "Orange_Tab_7_4G",
+  "model": "Orange_Tab_7_4G"
+ },
+ {
+  "brand": "Orange",
+  "name": "Orange_Tab_8_4G",
+  "device": "Orange_Tab_8_4G",
+  "model": "Orange_Tab_8_4G"
  },
  {
   "brand": "Orange",
@@ -96427,6 +96499,12 @@
  },
  {
   "brand": "Plum",
+  "name": "Phantom3",
+  "device": "Z621",
+  "model": "Z621"
+ },
+ {
+  "brand": "Plum",
   "name": "Z518",
   "device": "Z518",
   "model": "Z518"
@@ -96628,6 +96706,12 @@
   "name": "PM85R",
   "device": "pm85r",
   "model": "PM85R"
+ },
+ {
+  "brand": "Point Mobile",
+  "name": "XT3",
+  "device": "XT3",
+  "model": "XT3"
  },
  {
   "brand": "Point Mobile",
@@ -102488,6 +102572,12 @@
  {
   "brand": "SEMP TCL",
   "name": "GO3C_Plus",
+  "device": "GO3C_Plus",
+  "model": "GO3C Plus"
+ },
+ {
+  "brand": "SEMP TCL",
+  "name": "GO3C_Plus_VIVO",
   "device": "GO3C_Plus",
   "model": "GO3C Plus"
  },
@@ -135366,6 +135456,12 @@
   "model": "HMB2213PW22TS"
  },
  {
+  "brand": "Teracube",
+  "name": "Teracube_One",
+  "device": "Teracube_One",
+  "model": "Teracube One"
+ },
+ {
   "brand": "Tesco",
   "name": "Hudl 2",
   "device": "HTF8A4",
@@ -136201,6 +136297,12 @@
  },
  {
   "brand": "Touchmate",
+  "name": "TM-MID1050B",
+  "device": "TM-MID1050B",
+  "model": "TM-MID1050B"
+ },
+ {
+  "brand": "Touchmate",
   "name": "TM-MID792SB",
   "device": "TM_MID792SB",
   "model": "TM-MID792SB"
@@ -136552,6 +136654,12 @@
   "name": "SMART 4G Adventure",
   "device": "SMART_4G_ADVENTURE",
   "model": "SMART 4G Adventure"
+ },
+ {
+  "brand": "True",
+  "name": "SMART 4G Adventure Pro",
+  "device": "SMART_4G",
+  "model": "SMART 4G Adventure Pro"
  },
  {
   "brand": "True",
@@ -141784,6 +141892,12 @@
   "name": "SATURN Selfie",
   "device": "SATURN_SELFIE",
   "model": "SATURN SELFIE"
+ },
+ {
+  "brand": "Vu Televisions",
+  "name": "India",
+  "device": "hamamatsucho",
+  "model": "Smart 2K ATV4"
  },
  {
   "brand": "Vue Micro",
@@ -153553,6 +153667,12 @@
  },
  {
   "brand": "ZTE",
+  "name": "ZTE BLADE A3 LITE",
+  "device": "P932F20",
+  "model": "ZTE Blade A3 Lite"
+ },
+ {
+  "brand": "ZTE",
   "name": "ZTE BLADE A320",
   "device": "P809F20",
   "model": "ZTE BLADE A320"
@@ -154828,6 +154948,12 @@
   "name": "K108",
   "device": "K108",
   "model": "K108"
+ },
+ {
+  "brand": "Zonko",
+  "name": "K108_EEA",
+  "device": "K108_EEA",
+  "model": "K108_EEA"
  },
  {
   "brand": "Zonko",
