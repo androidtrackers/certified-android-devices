@@ -15216,6 +15216,12 @@
   "model": "BSTAR+"
  },
  {
+  "brand": "Brantel",
+  "name": "E-tel_i10",
+  "device": "E-tel_i10",
+  "model": "E-tel i10"
+ },
+ {
   "brand": "Bravis",
   "name": "A509_Jeans",
   "device": "A509_Jeans",
@@ -73819,6 +73825,12 @@
  },
  {
   "brand": "Lenovo",
+  "name": "Lenovo Tab M10 FHD Plus",
+  "device": "X606X",
+  "model": "Lenovo TB-X606X"
+ },
+ {
+  "brand": "Lenovo",
   "name": "Lenovo Tab M10(FHD)",
   "device": "X605M",
   "model": "Lenovo TB-X605M"
@@ -95515,6 +95527,12 @@
  },
  {
   "brand": "Philco",
+  "name": "PTB7R",
+  "device": "PTB7R",
+  "model": "PTB7R"
+ },
+ {
+  "brand": "Philco",
   "name": "TP10A3N",
   "device": "TP10A3N",
   "model": "TP10A3N"
@@ -98335,6 +98353,12 @@
  },
  {
   "brand": "Prestigio",
+  "name": "HP10A4L",
+  "device": "HP10A4L",
+  "model": "PMT4791_4G_RU"
+ },
+ {
+  "brand": "Prestigio",
   "name": "LS96A7G",
   "device": "LS96A7G",
   "model": "PMT3196_3G"
@@ -100744,6 +100768,12 @@
   "name": "QSmart X10",
   "device": "X10",
   "model": "QSmart X10"
+ },
+ {
+  "brand": "Qsmart",
+  "name": "QSmart X20",
+  "device": "X20",
+  "model": "QSmart X20"
  },
  {
   "brand": "Qsmart",
@@ -109833,6 +109863,12 @@
   "brand": "Samsung",
   "name": "Galaxy Note10+",
   "device": "d2q",
+  "model": "SM-N975C"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Note10+",
+  "device": "d2q",
   "model": "SM-N975U"
  },
  {
@@ -111568,6 +111604,12 @@
   "name": "Galaxy S10",
   "device": "beyond1q",
   "model": "SM-G9738"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy S10",
+  "device": "beyond1q",
+  "model": "SM-G973C"
  },
  {
   "brand": "Samsung",
@@ -125476,6 +125518,12 @@
   "name": "Razor",
   "device": "Swipe_Razor",
   "model": "Razor"
+ },
+ {
+  "brand": "Swipe",
+  "name": "Strike",
+  "device": "Strike",
+  "model": "Strike"
  },
  {
   "brand": "Swipe",

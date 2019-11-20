@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-11-19
+Last sync is 2019-11-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2541,6 +2541,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Brandt|BPRIMES|BPRIMES|BPRIMES|
 |Brandt|BSTAR|BSTAR|BSTAR|
 |Brandt|BSTAR+|BSTAR_PLUS|BSTAR+|
+|Brantel|E-tel_i10|E-tel_i10|E-tel i10|
 |Bravis|A509_Jeans|A509_Jeans|A509_Jeans|
 |Bravis|A510_Jeans_4G|A510_Jeans_4G|A510_Jeans_4G|
 |Bravis|A511 Harmony|A511_Harmony|A511 Harmony|
@@ -12308,6 +12309,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M10 (HD)|TB-X505N|Lenovo TB-X505N|
 |Lenovo|Lenovo Tab M10 (HD)|TB-X505X|Lenovo TB-X505X|
 |Lenovo|Lenovo Tab M10 FHD Plus|X606F|Lenovo TB-X606F|
+|Lenovo|Lenovo Tab M10 FHD Plus|X606X|Lenovo TB-X606X|
 |Lenovo|Lenovo Tab M10(FHD)|X605M|Lenovo TB-X605M|
 |Lenovo|Lenovo Tab M7|7305F|Lenovo TB-7305F|
 |Lenovo|Lenovo Tab M7|7305I|Lenovo TB-7305I|
@@ -15924,6 +15926,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philco|PCS01|PCS01|PCS01|
 |Philco|PTB7PAP_ PTB7PAB _ PTB7PAR|PTB7PA|PTB7PAP_PTB7PAB_PTB7PAR|
 |Philco|PTB7QSG_3G|PTB7QSG_3G|PTB7QSG_3G|
+|Philco|PTB7R|PTB7R|PTB7R|
 |Philco|TP10A3N|TP10A3N|TP10A3N|
 |Philco|TP7A4BB|TP7A4BB|TP7A4BB|
 |Philco|TP7A4N|TP7A4N|TP7A4N|
@@ -16394,6 +16397,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|Grace X5|PSP5470DUO|PSP5470DUO|
 |Prestigio|Grace X7|PSP7505DUO|PSP7505DUO|
 |Prestigio|Grace Y7 LTE|KN54B1L|PSP7546DUO_EEA|
+|Prestigio|HP10A4L|HP10A4L|PMT4791_4G_RU|
 |Prestigio|LS96A7G|LS96A7G|PMT3196_3G|
 |Prestigio|MT3237_3G|JP70A1W|PMT3237_3G|
 |Prestigio|MULTIPAD WIZE 3027|HF80A01W|PMT3027_Wi|
@@ -16796,6 +16800,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Qsmart|LT950|LT950|LT950|
 |Qsmart|QSmart Canopus|Canopus|QSmart_Canopus|
 |Qsmart|QSmart X10|X10|QSmart X10|
+|Qsmart|QSmart X20|X20|QSmart X20|
 |Qsmart|QSmart X40|X40|QSmart X40|
 |Qsmart|View|View|View|
 |Qtouch|Q01A|Q01A|Q01A|
@@ -18310,6 +18315,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Note10+|SC-01M|SC-01M|
 |Samsung|Galaxy Note10+|SCV45|SCV45|
 |Samsung|Galaxy Note10+|d2q|SM-N9750|
+|Samsung|Galaxy Note10+|d2q|SM-N975C|
 |Samsung|Galaxy Note10+|d2q|SM-N975U|
 |Samsung|Galaxy Note10+|d2q|SM-N975U1|
 |Samsung|Galaxy Note10+|d2q|SM-N975W|
@@ -18600,6 +18606,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S10|beyond1|SM-G973N|
 |Samsung|Galaxy S10|beyond1q|SM-G9730|
 |Samsung|Galaxy S10|beyond1q|SM-G9738|
+|Samsung|Galaxy S10|beyond1q|SM-G973C|
 |Samsung|Galaxy S10|beyond1q|SM-G973U|
 |Samsung|Galaxy S10|beyond1q|SM-G973U1|
 |Samsung|Galaxy S10|beyond1q|SM-G973W|
@@ -20918,6 +20925,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Swipe|Elite Dual|EliteDual|EliteDual|
 |Swipe|Elite VR|Elite_VR|Elite_VR|
 |Swipe|Razor|Swipe_Razor|Razor|
+|Swipe|Strike|Strike|Strike|
 |Swipe|Strike|Swipe_Strike|Strike|
 |SwissMobility|B4|B4SWM|B4|
 |SwissMobility|M9|M9|M9|
