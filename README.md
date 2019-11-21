@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-11-20
+Last sync is 2019-11-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -747,6 +747,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Amgoo|AMGOO|AM518|AM518|
 |Amgoo|Amgoo|AM518|AM518|
 |Aminocom|Amigo|Amigo|Amigo7|
+|Aminocom|Kamai 7B|Kamai7B|Kamai7B|
 |Aminocom|Kamai7|Kamai7|Kamai7|
 |Aminocom|Kamai7B|Kamai7B|Kamai7B|
 |Aminocom|eSTREAM4K|eSTREAM4K_4x4|IPA-1104HDH-01|
@@ -2311,6 +2312,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|C5 LTE|C0010UU|C5 LTE|
 |Blu|C5 PLUS|C130EQ|C5 Plus|
 |Blu|C5L|C0040|C5L|
+|Blu|C5L|C0040LL|C5L|
 |Blu|C5L|C0050|C5L|
 |Blu|C5X|C0000UU|C5X|
 |Blu|C5X|C0010LL|C5X|
@@ -2681,10 +2683,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Casio|DT-X400|dtx400|DT-X400|
 |Casio|DT-X400R|dtx400r|DT-X400R|
 |Casio|IT-G400|itg400|IT-G400|
-|Casio|PRO TREK SMART|kingyo|WSD-F30|
 |Casio|Smart Outdoor Watch WSD-F10|koi|CASIO WSD-F10|
 |Casio|WSD-F20|ayu|CASIO WSD-F20|
 |Casio|WSD-F20|ayu|CASIO WSD-F20S|
+|Casio|WSD-F21HR|medaka|WSD-F21HR|
+|Casio|WSD-F30|kingyo|WSD-F30|
 |Casper|Android TV|R1|ATV R1|
 |Casper|Android TV|R2|ATV R2|
 |Casper|CASPER_L10_4_5G|CASPER_L10_4_5G|CASPER_L10_4.5G|
@@ -2720,6 +2723,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cat|Cat S31|CatS31|S31|
 |Cat|Cat S41|CatS41|S41|
 |Cat|Cat S48c|CatS48c|S48c|
+|Cat|Cat S52|CatS52|S52|
 |Cat|Cat S61|CatS61|S61|
 |Cat|Cat S61B|CatS61|S61B|
 |Cat|CatS50c|CatS50c|S50c|
@@ -2911,6 +2915,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cherry Mobile|Flare_S6_Lite|Flare_S6_Lite|Flare_S6_Lite|
 |Cherry Mobile|Flare_S7_Prime|Flare_S7_Prime|Flare_S7_Prime|
 |Cherry Mobile|Flare_S8_Plus|Flare_S8_Plus|Flare_S8_Plus|
+|Cherry Mobile|Flare_S8_Prime|Flare_S8_Prime|Flare_S8_Prime|
 |Cherry Mobile|Flare_S8_Pro|Flare_S8_Pro|Flare_S8_Pro|
 |Cherry Mobile|Flare_Y6_Pro|Flare_Y6_Pro|Flare_Y6_Pro|
 |Cherry Mobile|Fusion Aura 3s|Fusion_Aura_3s|Fusion Aura 3s|
@@ -9555,6 +9560,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|A44 Pro|itel-A44-Pro|itel A44 Pro|
 |Itel|A45|itel-A45|itel A45|
 |Itel|A46|itel-L5503|itel L5503|
+|Itel|A46|itel-L5503L|itel L5503L|
 |Itel|A51|itel_A51|itel A51|
 |Itel|A52B|itel-A52B|itel A52B|
 |Itel|A55|itel-W6003|itel W6003|
@@ -9646,6 +9652,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel A52|itel-A52|itel A52|
 |Itel|itel A52 Lite|itel-A52-Lite|itel A52 Lite|
 |Itel|itel A52S Lite|itel-A52S-Lite|itel A52S Lite|
+|Itel|itel A55 LTE|itel-L6003P|itel L6003P|
 |Itel|itel AC32|itel-A16S|itel A16S|
 |Itel|itel Alpha Lite|itel-W5008|itel W5008|
 |Itel|itel MC20|itel-A23F|itel A23|
@@ -9756,6 +9763,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |K-Touch|Touch 2C|Touch2c|K-Touch Tou ch 2c|
 |KAAN|A1|KAAN_A1|KAAN_A1|
 |KAAN|KAAN_N2|KAAN_N2|KAAN_N2|
+|KANSELIR|KTB-168|KTB-168|KTB-168|
 |KAZAM|TROOPER X3.5|KAZAM|Trooper_X35|
 |KAZAM|TROOPER X4.0|KAZAM|Trooper_X40|
 |KAZAM|TROOPER X5.5|KAZAM|Trooper_X55|
@@ -10025,6 +10033,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kogan|Kogan Agora XS|Kogan_Agora_XS|Agora XS|
 |Komu|K22|K22|K22|
 |Konrow|CITY|CITY|CITY|
+|Konrow|CITY5|CITY5|CITY5|
 |Konrow|CITY55|CITY55|CITY55|
 |Konrow|EASY5|EASY5|EASY5|
 |Konrow|EASY55|EASY55|EASY55|
@@ -11082,6 +11091,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG Tribute 5|m1|LGLS675|
 |LGE|LG Tribute Dynasty|mcv150|LG-SP200|
 |LGE|LG Tribute Empire|mcv1s|LM-X220PM|
+|LGE|LG Tribute Royal|mmh5lm|LM-X320|
 |LGE|LG U|bbg|LG-F820L|
 |LGE|LG V35 ThinQ|judyp|LM-V350|
 |LGE|LG V35 ThinQ|judyp|LM-V350N|
@@ -12229,6 +12239,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo S820|S820|Lenovo S820|
 |Lenovo|Lenovo Smart Tab M8|8705F|Lenovo TB-8705F|
 |Lenovo|Lenovo Smart Tab M8|8705N|Lenovo TB-8705N|
+|Lenovo|Lenovo Smrat Tab M8|8505XS|Lenovo TB-8505XS|
 |Lenovo|Lenovo TAB|TB-8803F|Lenovo TB-8803F|
 |Lenovo|Lenovo TAB 10|TB-X103F|Lenovo TB-X103F|
 |Lenovo|Lenovo TAB 2 A10-30|TB2-X30F|Lenovo TB2-X30F|
@@ -12317,6 +12328,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M8|8505F|Lenovo TB-8505F|
 |Lenovo|Lenovo Tab M8|8505FS|Lenovo TB-8505FS|
 |Lenovo|Lenovo Tab M8|8505N|Lenovo TB-8505N|
+|Lenovo|Lenovo Tab M8|8505X|Lenovo TB-8505X|
 |Lenovo|Lenovo Tab P10|X705F|Lenovo TB-X705F|
 |Lenovo|Lenovo Tab P10|X705L|Lenovo TB-X705L|
 |Lenovo|Lenovo Tab V7|PB-6505M|Lenovo PB-6505M|
@@ -13212,6 +13224,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mgt electric|M2|M2|M2|
 |Mgt electric|MGT_T4|T4|T4|
 |Mgt electric|Super|Super|Super|
+|MiTAC|N635|chiron_pro|N635|
 |Micromax|A110|s9081|Micromax A110|
 |Micromax|A111|A111|A111|
 |Micromax|A116|A116|A116|
@@ -14220,6 +14233,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M10-4G|ML-JI03-M10-4G|M10-4G|
 |Multilaser|M10A|M10A|M10A|
 |Multilaser|M10A-Lite|M10A-Lite|M10A-Lite|
+|Multilaser|M7 3G PLUS|ML-JI11-M7_3G_PLUS|M7_3G_PLUS|
 |Multilaser|M7-3G PLUS|ML-JI21-M7-3G-PLUS|M7-3G-PLUS|
 |Multilaser|M7-3G PLUS|ML-WI-M7_3G_PLUS|ML-WI-M7_3G_PLUS|
 |Multilaser|M7-4G|ML-JI-M7-4G|ML-JI-M7-4G|
@@ -14249,6 +14263,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|MLX8|ML-WI23-MLX8|MLX8|
 |Multilaser|MLX8|MLX8|MLX8|
 |Multilaser|MS40G|ML-TI-MS40G|MS40G|
+|Multilaser|MS40G_VIVO|ML-TI-MS40G_VIVO|MS40G_VIVO|
 |Multilaser|MS40S|MS40S|MS40S|
 |Multilaser|MS40s|MS40S|MS40S|
 |Multilaser|MS45|MS45|MS45|
@@ -16257,6 +16272,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|Twist 2 Fit|S509|Twist 2 Fit|
 |Positivo|Twist 2 Go|S541|Twist 2 Go|
 |Positivo|Twist 2 Pro|S532|Twist 2 Pro|
+|Positivo|Twist 2 Pro|S532|Twist 3|
 |Positivo|Twist 2018|S511|Twist (2018)|
 |Positivo|Twist 4G|S520_4G|Positivo Twist 4G|
 |Positivo|Twist Max|S540|Twist Max|
@@ -19969,7 +19985,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Shenzhen Jiuzhou|DTP9710|DTP9710|DTP9710|
 |Shenzhen SEI Robotics|ADT-2|adt2|ADT-2|
 |Shenzhen SEI Robotics|AMLogic Ref|franklin|franklin|
-|Shenzhen SEI Robotics|AMLogic Ref|newton|newton|
 |Shuttle|PNT-7045|PNT-7045|PNT-7045|
 |SiAL|Bic camera|Si01BB|Si01BB|
 |SiAL|Si01BE|Si01BE|Si01BE|
@@ -21016,6 +21031,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TAG Heuer|Connected Modular 45|anthracite|TAG Heuer|
 |TAG Heuer|Connected Modular 45 (China)|anthracite|TAG Heuer|
 |TAG-DC|TAG-DC|TAG-DC|TAG-DC|
+|TAG-TECH|TAG_TAB_II|TAG_TAB_II|TAG TAB II|
 |TAGITAL|T7K_PLUS|T7K-PLUS|T7K_PLUS|
 |TCL|Beyond TV|BeyondTV|BeyondTV|
 |TCL|C9|A3A_XL_4G|5199I|
@@ -22226,6 +22242,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TPS|SMART Sprint|SMARTSprint|SMART Sprint|
 |TPS|TPS-SC10|TPS-SC10|TPS-SC10|
 |TSUNAMi|Tablet Tsunami TSTA080D1|MG080D1T|MG080D1T|
+|TUFEN|Q718|Q718|Q718|
 |TUFF|T500|T500|T500|
 |TUNTUN English|DREAM PAD|delight|ITP-R408W|
 |TUPAD|TU7_58212_18222|TU7_58212|TU7_18222|
@@ -24008,6 +24025,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Winmax|x40|X40|X40|
 |Winnovo|T10|T10|T10|
 |Winnovo|T7_eea|T7|T7|
+|Winnovo|T8|T8|T8|
 |Winnovo|T8_eea|T8|T8|
 |Wintec|T730|T730|Clear|
 |Wintec|T730|T730|T730|
@@ -25944,6 +25962,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |dazen|dazen 6E|dazen_6E|dazen 6E|
 |duraMOBI|DK66|DK66|DK66|
 |eBox|EBoxTv|diw387eb|EboxTV|
+|eSTREAM 4K|IPA-1104HDH-01|eSTREAM4K_4x4|IPA-1104HDH-01|
 |eSTREAM 4K|IPA1104HDW-02|kunlun|IPA1104HDW-02|
 |ecom|Ex-Handy 10|Ex-Handy10|Ex-Handy 10 ROW|
 |ecom|Smart-Ex02|Smart-Ex02|Smart-Ex02 ROW|

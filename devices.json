@@ -4453,6 +4453,12 @@
  },
  {
   "brand": "Aminocom",
+  "name": "Kamai 7B",
+  "device": "Kamai7B",
+  "model": "Kamai7B"
+ },
+ {
+  "brand": "Aminocom",
   "name": "Kamai7",
   "device": "Kamai7",
   "model": "Kamai7"
@@ -13838,6 +13844,12 @@
  {
   "brand": "Blu",
   "name": "C5L",
+  "device": "C0040LL",
+  "model": "C5L"
+ },
+ {
+  "brand": "Blu",
+  "name": "C5L",
   "device": "C0050",
   "model": "C5L"
  },
@@ -16057,12 +16069,6 @@
  },
  {
   "brand": "Casio",
-  "name": "PRO TREK SMART",
-  "device": "kingyo",
-  "model": "WSD-F30"
- },
- {
-  "brand": "Casio",
   "name": "Smart Outdoor Watch WSD-F10",
   "device": "koi",
   "model": "CASIO WSD-F10"
@@ -16078,6 +16084,18 @@
   "name": "WSD-F20",
   "device": "ayu",
   "model": "CASIO WSD-F20S"
+ },
+ {
+  "brand": "Casio",
+  "name": "WSD-F21HR",
+  "device": "medaka",
+  "model": "WSD-F21HR"
+ },
+ {
+  "brand": "Casio",
+  "name": "WSD-F30",
+  "device": "kingyo",
+  "model": "WSD-F30"
  },
  {
   "brand": "Casper",
@@ -16288,6 +16306,12 @@
   "name": "Cat S48c",
   "device": "CatS48c",
   "model": "S48c"
+ },
+ {
+  "brand": "Cat",
+  "name": "Cat S52",
+  "device": "CatS52",
+  "model": "S52"
  },
  {
   "brand": "Cat",
@@ -17434,6 +17458,12 @@
   "name": "Flare_S8_Plus",
   "device": "Flare_S8_Plus",
   "model": "Flare_S8_Plus"
+ },
+ {
+  "brand": "Cherry Mobile",
+  "name": "Flare_S8_Prime",
+  "device": "Flare_S8_Prime",
+  "model": "Flare_S8_Prime"
  },
  {
   "brand": "Cherry Mobile",
@@ -57301,6 +57331,12 @@
  },
  {
   "brand": "Itel",
+  "name": "A46",
+  "device": "itel-L5503L",
+  "model": "itel L5503L"
+ },
+ {
+  "brand": "Itel",
   "name": "A51",
   "device": "itel_A51",
   "model": "itel A51"
@@ -57844,6 +57880,12 @@
   "name": "itel A52S Lite",
   "device": "itel-A52S-Lite",
   "model": "itel A52S Lite"
+ },
+ {
+  "brand": "Itel",
+  "name": "itel A55 LTE",
+  "device": "itel-L6003P",
+  "model": "itel L6003P"
  },
  {
   "brand": "Itel",
@@ -58504,6 +58546,12 @@
   "name": "KAAN_N2",
   "device": "KAAN_N2",
   "model": "KAAN_N2"
+ },
+ {
+  "brand": "KANSELIR",
+  "name": "KTB-168",
+  "device": "KTB-168",
+  "model": "KTB-168"
  },
  {
   "brand": "KAZAM",
@@ -60118,6 +60166,12 @@
   "name": "CITY",
   "device": "CITY",
   "model": "CITY"
+ },
+ {
+  "brand": "Konrow",
+  "name": "CITY5",
+  "device": "CITY5",
+  "model": "CITY5"
  },
  {
   "brand": "Konrow",
@@ -66460,6 +66514,12 @@
   "name": "LG Tribute Empire",
   "device": "mcv1s",
   "model": "LM-X220PM"
+ },
+ {
+  "brand": "LGE",
+  "name": "LG Tribute Royal",
+  "device": "mmh5lm",
+  "model": "LM-X320"
  },
  {
   "brand": "LGE",
@@ -73345,6 +73405,12 @@
  },
  {
   "brand": "Lenovo",
+  "name": "Lenovo Smrat Tab M8",
+  "device": "8505XS",
+  "model": "Lenovo TB-8505XS"
+ },
+ {
+  "brand": "Lenovo",
   "name": "Lenovo TAB",
   "device": "TB-8803F",
   "model": "Lenovo TB-8803F"
@@ -73870,6 +73936,12 @@
   "name": "Lenovo Tab M8",
   "device": "8505N",
   "model": "Lenovo TB-8505N"
+ },
+ {
+  "brand": "Lenovo",
+  "name": "Lenovo Tab M8",
+  "device": "8505X",
+  "model": "Lenovo TB-8505X"
  },
  {
   "brand": "Lenovo",
@@ -79240,6 +79312,12 @@
   "name": "Super",
   "device": "Super",
   "model": "Super"
+ },
+ {
+  "brand": "MiTAC",
+  "name": "N635",
+  "device": "chiron_pro",
+  "model": "N635"
  },
  {
   "brand": "Micromax",
@@ -85291,6 +85369,12 @@
  },
  {
   "brand": "Multilaser",
+  "name": "M7 3G PLUS",
+  "device": "ML-JI11-M7_3G_PLUS",
+  "model": "M7_3G_PLUS"
+ },
+ {
+  "brand": "Multilaser",
   "name": "M7-3G PLUS",
   "device": "ML-JI21-M7-3G-PLUS",
   "model": "M7-3G-PLUS"
@@ -85462,6 +85546,12 @@
   "name": "MS40G",
   "device": "ML-TI-MS40G",
   "model": "MS40G"
+ },
+ {
+  "brand": "Multilaser",
+  "name": "MS40G_VIVO",
+  "device": "ML-TI-MS40G_VIVO",
+  "model": "MS40G_VIVO"
  },
  {
   "brand": "Multilaser",
@@ -97510,6 +97600,12 @@
   "name": "Twist 2 Pro",
   "device": "S532",
   "model": "Twist 2 Pro"
+ },
+ {
+  "brand": "Positivo",
+  "name": "Twist 2 Pro",
+  "device": "S532",
+  "model": "Twist 3"
  },
  {
   "brand": "Positivo",
@@ -119784,12 +119880,6 @@
   "model": "franklin"
  },
  {
-  "brand": "Shenzhen SEI Robotics",
-  "name": "AMLogic Ref",
-  "device": "newton",
-  "model": "newton"
- },
- {
   "brand": "Shuttle",
   "name": "PNT-7045",
   "device": "PNT-7045",
@@ -126064,6 +126154,12 @@
   "name": "TAG-DC",
   "device": "TAG-DC",
   "model": "TAG-DC"
+ },
+ {
+  "brand": "TAG-TECH",
+  "name": "TAG_TAB_II",
+  "device": "TAG_TAB_II",
+  "model": "TAG TAB II"
  },
  {
   "brand": "TAGITAL",
@@ -133324,6 +133420,12 @@
   "name": "Tablet Tsunami TSTA080D1",
   "device": "MG080D1T",
   "model": "MG080D1T"
+ },
+ {
+  "brand": "TUFEN",
+  "name": "Q718",
+  "device": "Q718",
+  "model": "Q718"
  },
  {
   "brand": "TUFF",
@@ -144016,6 +144118,12 @@
   "name": "T7_eea",
   "device": "T7",
   "model": "T7"
+ },
+ {
+  "brand": "Winnovo",
+  "name": "T8",
+  "device": "T8",
+  "model": "T8"
  },
  {
   "brand": "Winnovo",
@@ -155632,6 +155740,12 @@
   "name": "EBoxTv",
   "device": "diw387eb",
   "model": "EboxTV"
+ },
+ {
+  "brand": "eSTREAM 4K",
+  "name": "IPA-1104HDH-01",
+  "device": "eSTREAM4K_4x4",
+  "model": "IPA-1104HDH-01"
  },
  {
   "brand": "eSTREAM 4K",
