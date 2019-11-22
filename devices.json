@@ -21421,6 +21421,12 @@
  },
  {
   "brand": "DEXP",
+  "name": "H110",
+  "device": "H110",
+  "model": "H110"
+ },
+ {
+  "brand": "DEXP",
   "name": "H170",
   "device": "H170",
   "model": "H170"
@@ -21658,6 +21664,12 @@
   "name": "S570",
   "device": "S570",
   "model": "S570"
+ },
+ {
+  "brand": "DEXP",
+  "name": "S770",
+  "device": "S770",
+  "model": "S770"
  },
  {
   "brand": "DEXP",
@@ -57139,6 +57151,12 @@
  },
  {
   "brand": "Iris",
+  "name": "V10",
+  "device": "V10",
+  "model": "V10"
+ },
+ {
+  "brand": "Iris",
   "name": "VOX 4s",
   "device": "VOX_4s",
   "model": "VOX 4s"
@@ -60466,6 +60484,12 @@
   "name": "K5",
   "device": "K5",
   "model": "K5"
+ },
+ {
+  "brand": "Kudae",
+  "name": "K10 PRO",
+  "device": "K10_PRO",
+  "model": "K10 PRO"
  },
  {
   "brand": "Kudae",
@@ -75300,6 +75324,12 @@
   "model": "lephone_W10"
  },
  {
+  "brand": "Lesia",
+  "name": "K5",
+  "device": "K5",
+  "model": "K5"
+ },
+ {
   "brand": "Lexia Mobile",
   "name": "S1",
   "device": "S1",
@@ -75604,6 +75634,12 @@
   "name": "L5G",
   "device": "L5G",
   "model": "L5G"
+ },
+ {
+  "brand": "Logic Mobility",
+  "name": "LOGIC L50T",
+  "device": "LOGIC_L50T",
+  "model": "LOGIC L50T"
  },
  {
   "brand": "Logic Mobility",
@@ -93808,6 +93844,12 @@
   "name": "ELUGA I7 EE",
   "device": "ELUGA_I7_EE",
   "model": "ELUGA_I7_EE"
+ },
+ {
+  "brand": "Panasonic",
+  "name": "ELUGA I8",
+  "device": "Eluga_I8",
+  "model": "Eluga I8"
  },
  {
   "brand": "Panasonic",
@@ -120154,6 +120196,12 @@
   "name": "S507",
   "device": "S507",
   "model": "S507"
+ },
+ {
+  "brand": "SimiMobile",
+  "name": "S630",
+  "device": "S630",
+  "model": "S630"
  },
  {
   "brand": "Singtech",
@@ -152107,6 +152155,12 @@
  },
  {
   "brand": "ZTE",
+  "name": "\"Ukraine",
+  "device": " Kazakhstan",
+  "model": " Azerbaijan\""
+ },
+ {
+  "brand": "ZTE",
   "name": "Ultym 5.2",
   "device": "msm8916_32",
   "model": "Ultym 5.2"
@@ -155452,6 +155506,12 @@
   "name": "M5",
   "device": "M5",
   "model": "M5"
+ },
+ {
+  "brand": "beafon",
+  "name": "M6",
+  "device": "M6",
+  "model": "M6"
  },
  {
   "brand": "bq",

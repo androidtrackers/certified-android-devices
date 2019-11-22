@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-11-21
+Last sync is 2019-11-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3575,6 +3575,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|GS150|GS150|GS150|
 |DEXP|GS153|GS153|GS153|
 |DEXP|GS155|GS155|GS155|
+|DEXP|H110|H110|H110|
 |DEXP|H170|H170|H170|
 |DEXP|H270|H270|H270|
 |DEXP|Ixion M355|M355|Ixion M355|
@@ -3615,6 +3616,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|S370|S370|S370|
 |DEXP|S470|S470|S470|
 |DEXP|S570|S570|S570|
+|DEXP|S770|S770|S770|
 |DEXP|Senior|SENIOR|SENIOR|
 |DEXP|T155|T155|T155|
 |DEXP|URSUS S180i|S180i|S180i|
@@ -9528,6 +9530,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Iris|NEXT P+|NEXT_P_PLUS|NEXT P+|
 |Iris|NEXT U|NEXT_U|NEXT U|
 |Iris|Next_P_PRO|Next_P_PRO|Next_P_PRO|
+|Iris|V10|V10|V10|
 |Iris|VOX 4s|VOX_4s|VOX 4s|
 |Iris|VOX Energy|VOX_Energy|VOX Energy|
 |Iris|VOX STEEL Plus|VOX_STEEL_Plus|VOX STEEL Plus|
@@ -10083,6 +10086,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kruger&Matz|MOVE8mini|MOVE8mini|MOVE8mini|
 |Kruger&Matz|MOVE_8.1|MOVE_8_1|MOVE_8|
 |Kubo|K5|K5|K5|
+|Kudae|K10 PRO|K10_PRO|K10 PRO|
 |Kudae|K101|K101|K101|
 |Kult|Gladiator|Gladiator|Gladiator|
 |Kult|KT05|KT05|KT05|
@@ -12555,6 +12559,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lephone|lephone W7R|lephone_W7R|lephone_W7R|
 |Lephone|lephone_P2Plus|lephone_P2Plus|lephone P2Plus|
 |Lephone|lephone_W10b|lephone_W10b|lephone_W10|
+|Lesia|K5|K5|K5|
 |Lexia Mobile|S1|S1|S1|
 |Lexia Mobile|S2|S2|S2|
 |Lexia Mobile|S3|S3|S3|
@@ -12606,6 +12611,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logic Instrument|Logic Instrument Fieldbook N80|lifbn80|Logic Instrument Fieldbook N80|
 |Logic Mobility|L57|Logic_L57|Logic L57|
 |Logic Mobility|L5G|L5G|L5G|
+|Logic Mobility|LOGIC L50T|LOGIC_L50T|LOGIC L50T|
 |Logic Mobility|LOGIC_L55S|LOGIC_L55S|LOGIC L55S|
 |Logic Mobility|LOGIC_L5D|LOGIC_L5D|LOGIC_L5D|
 |Logic Mobility|T10B|T10B|T10B|
@@ -15640,6 +15646,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|ELUGA I6|Eluga_I6|Eluga I6|
 |Panasonic|ELUGA I7|ELUGA_I7|ELUGA I7|
 |Panasonic|ELUGA I7 EE|ELUGA_I7_EE|ELUGA_I7_EE|
+|Panasonic|ELUGA I8|Eluga_I8|Eluga I8|
 |Panasonic|ELUGA I9|ELUGA_I9|Eluga I9|
 |Panasonic|ELUGA L 4G|ELUGA_L_4G|Panasonic ELUGA L 4G|
 |Panasonic|ELUGA P|P-03E|P-03E|
@@ -20031,6 +20038,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Simbans|TangoTab8|TangoTab8|TangoTab8|
 |SimiMobile|S502|S502|S502|
 |SimiMobile|S507|S507|S507|
+|SimiMobile|S630|S630|S630|
 |Singtech|H1s|H1s|H1s|
 |Singtech|H2|Singtech_H2|H2|
 |Singtech|Infinity_I1|Infinity_I1|Infinity_I1|
@@ -25356,6 +25364,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|UZTE V817|ZTE-V956|UZTE V817|
 |ZTE|Uhura|noah|Z968|
 |ZTE|"Ukraine| Kazakhstan| Azerbaijan"|
+|ZTE|"Ukraine| Kazakhstan| Azerbaijan"|
 |ZTE|Ultym 5.2|msm8916_32|Ultym 5.2|
 |ZTE|V55|V55|V55|
 |ZTE|V5S|P189F13|ZTE Grand Memo lite|
@@ -25914,6 +25923,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |aoson|aoson|M815|M815|
 |beafon|Class_C250|Class_C250|Class_C250|
 |beafon|M5|M5|M5|
+|beafon|M6|M6|M6|
 |bq|Aquaris A4.5|Aquaris_A45_sprout|Aquaris A4.5|
 |bq|Aquaris A4.5|Aquaris_A45_sprout|Aquaris_A4.5|
 |bq|Aquaris C|jeice|Aquaris C|
