@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-11-24
+Last sync is 2019-11-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5044,9 +5044,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Future Mobile Technology|Tomcat|175HS1050231|175HS1050231|
 |Future Mobile Technology|Viper|175FT1050241|175FT1050241|
 |Future Mobile Technology|netsurferDUAL 7|FMT-NM7116-01|FMT-NM7116-01|
+|Fxtec|Fxtec QX1000|QX1000|QX1000|
 |G Y P NEW TREE SA|VIEWPAD M10M|M10M|VIEWPAD M10M|
 |G-TOUCH|Stella X|Stella_X|Stella X|
 |G-TOUCH|Stella XS|Stella_XS|Stella XS|
+|G-TOUCH|Stella_Omega|Stella_Omega|Stella Omega|
 |G-Tab|G4|G4|G4|
 |G-Tab|G5|G5|G5|
 |G-Tab|Q69|Q69|Q69|
@@ -19804,6 +19806,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS sense2 SHV43|MZW|SHV43|
 |Sharp|AQUOS sense2 SHV43|MZW-u|SHV43-u|
 |Sharp|AQUOS sense3|PCZ-u|SHV45-u|
+|Sharp|AQUOS sense3|SH-M12|SH-M12|
 |Sharp|AQUOS sense3 SH-02M|SH-02M|SH-02M|
 |Sharp|AQUOS sense3 SHV45|PCZ|SHV45|
 |Sharp|AQUOS sense3 basic (907SH)|SG907SH|907SH|
@@ -21688,6 +21691,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024I|
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024J|
 |TCT (Alcatel)|Alcatel 1T 7 WIFI|U3A_7_WIFI|8068|
+|TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007U_RU|
 |TCT (Alcatel)|Alcatel 1V|Wright|5001A|
 |TCT (Alcatel)|Alcatel 1V|Wright|5001D_EEA|
 |TCT (Alcatel)|Alcatel 1V|Wright|5001D_RU|
@@ -23004,6 +23008,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VAIO|VA-10J|VA-10J|JCI VA-10J|
 |VAIO|VPA051|VPA051|VPA051|
 |VALTECH|TAB7Q804VAL|TAB7Q804VAL|TAB7Q804VAL|
+|VANTEC|G4|G4|G4|
 |VBox|XTi|DTP9539|XTi|
 |VENSTAR|VENSTAR2050|VENSTAR2050|VENSTAR2050|
 |VIBE Z|K910|kitonw|Lenovo K910|
@@ -25704,6 +25709,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A531|P932F10|ZTE Blade A531|
 |ZTE|ZTE Blade A7 2019|P963F02|ZTE Blade A7 2019|
 |ZTE|ZTE Blade A7 2019RU|P963F02|ZTE Blade A7 2019RU|
+|ZTE|ZTE Blade A7 2020RU|P662F02D|ZTE Blade A7 2020RU|
 |ZTE|ZTE Blade L110|ZTE_BLADE_L110|ZTE Blade L110|
 |ZTE|ZTE Blade L130|P731F30|ZTE Blade L130|
 |ZTE|ZTE Blade L130|P731K30|ZTE Blade L130|

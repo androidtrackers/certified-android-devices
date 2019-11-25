@@ -30234,6 +30234,12 @@
   "model": "FMT-NM7116-01"
  },
  {
+  "brand": "Fxtec",
+  "name": "Fxtec QX1000",
+  "device": "QX1000",
+  "model": "QX1000"
+ },
+ {
   "brand": "G Y P NEW TREE SA",
   "name": "VIEWPAD M10M",
   "device": "M10M",
@@ -30250,6 +30256,12 @@
   "name": "Stella XS",
   "device": "Stella_XS",
   "model": "Stella XS"
+ },
+ {
+  "brand": "G-TOUCH",
+  "name": "Stella_Omega",
+  "device": "Stella_Omega",
+  "model": "Stella Omega"
  },
  {
   "brand": "G-Tab",
@@ -118795,6 +118807,12 @@
  },
  {
   "brand": "Sharp",
+  "name": "AQUOS sense3",
+  "device": "SH-M12",
+  "model": "SH-M12"
+ },
+ {
+  "brand": "Sharp",
   "name": "AQUOS sense3 SH-02M",
   "device": "SH-02M",
   "model": "SH-02M"
@@ -130100,6 +130118,12 @@
  {
   "brand": "TCT (Alcatel)",
   "name": "Alcatel 1V",
+  "device": "Tokyo_Lite",
+  "model": "5007U_RU"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1V",
   "device": "Wright",
   "model": "5001A"
  },
@@ -137992,6 +138016,12 @@
   "name": "TAB7Q804VAL",
   "device": "TAB7Q804VAL",
   "model": "TAB7Q804VAL"
+ },
+ {
+  "brand": "VANTEC",
+  "name": "G4",
+  "device": "G4",
+  "model": "G4"
  },
  {
   "brand": "VBox",
@@ -154192,6 +154222,12 @@
   "name": "ZTE Blade A7 2019RU",
   "device": "P963F02",
   "model": "ZTE Blade A7 2019RU"
+ },
+ {
+  "brand": "ZTE",
+  "name": "ZTE Blade A7 2020RU",
+  "device": "P662F02D",
+  "model": "ZTE Blade A7 2020RU"
  },
  {
   "brand": "ZTE",
