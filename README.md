@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-11-25
+Last sync is 2019-11-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1776,6 +1776,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMPRO|BMPRO7DI|BMPRO7DI|BMPRO7DI|
 |BMXC|K107|K107|K107|
 |BMXC|K107_EEA|K107-EEA|K107-EEA|
+|BMXC|N107|N107|N107|
 |BMXC|N107_EEA|N107-EEA|N107-EEA|
 |BMXC|ST-920|ST-920|ST-920|
 |BMobile|AX1010|Bmobile_AX1010|AX1010|
@@ -1940,6 +1941,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-5528L|BQru-5528L|BQ-5528L|
 |BQru|BQ-5530L|BQru-5530L|BQ-5530L|
 |BQru|BQ-5535L|BQru-5535L|BQ-5535L|
+|BQru|BQ-5540L|BQru-5540L|BQ-5540L|
 |BQru|BQ-5541L|BQru-5541L|BQ-5541L|
 |BQru|BQ-5590 Spring|BQru_5590|BQru_5590|
 |BQru|BQ-5591 Jeans|BQru-5591|BQ-5591|
@@ -2176,6 +2178,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackfox|BMM441S|BMM441S|BMM441S|
 |Blackfox|BMM441W|BMM441W|BMM441W|
 |Blackfox|BMM442D|BMM442D|BMM442D|
+|Blackfox|BMM442S|BMM442S|BMM442S|
 |Blackfox|BMM443D|BMM443D|BMM443D|
 |Blackfox|BMM531A|BMM531A|BMM531A|
 |Blackfox|BMM531B|BMM531B|BMM531B|
@@ -3577,6 +3580,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|GS155|GS155|GS155|
 |DEXP|H110|H110|H110|
 |DEXP|H170|H170|H170|
+|DEXP|H210|H210|H210|
 |DEXP|H270|H270|H270|
 |DEXP|Ixion M355|M355|Ixion M355|
 |DEXP|Ixion ML350|ML350|Ixion ML350|
@@ -9692,8 +9696,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Janam|XT100|XT100|XT100|
 |Janam|XT2|XT2|XT2|
 |Janam|XT200|XT200|XT200|
+|Janam|XT3|XT3|XT3|
 |Janam|XT75|XM75|XM75|
 |JapanTaxi|IRIS ITAB05|IRIS_ITAB05|IRIS_ITAB05|
+|Jenesis|A94GT_Plus|A94GT_Plus|A94GT_Plus|
 |Jenesis|JT07-81B|JT07-81B|JT07-81B|
 |Jenesis|JT10-81B|JT10-81B|JT10-81B|
 |Jesy|J11|J11|J11|
@@ -9821,6 +9827,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KDDI|Power Up Unit|C02BB1|C02BB1|
 |KDDI|STW2000|H02ST1|STW2000|
 |KDDI|SmartTV Box|C01AS|SMARTTVBOX|
+|KEMPLER STRAUSS|KEMP1HEAD|KEMP1HEAD|KEMP1HEAD|
 |KEMPLER STRAUSS|KEMPLER 9|KEMPLER_9|KEMPLER_9|
 |KEMPLER STRAUSS|KEMPLER TV|KEMPLER_TV|KEMPLER_TV|
 |KEMPLER STRAUSS|KEMPLER_8_PLUS|KEMPLER_8_PLUS|KEMPLER_8_PLUS|
@@ -11478,6 +11485,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|W10|LMX130IM|LMX130IM|
 |LGE|W30|LM-X440IM|LM-X440IM|
 |LGE|W30|LM-X440ZM|LM-X440ZM|
+|LGE|W30|LM-X440ZMW|LM-X440ZMW|
 |LGE|W30 Pro|Neo4LM|LM-X600IM|
 |LGE|WM-LG8200|b6|LG-V425|
 |LGE|WM-LG8200|b6|WM-LG8200|
@@ -16150,7 +16158,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Point Mobile|PM85|pm85|PM85|
 |Point Mobile|PM85|pm85e|PM85E|
 |Point Mobile|PM85R|pm85r|PM85R|
-|Point Mobile|XT3|XT3|XT3|
 |Point Mobile|pm90|pm90|PM90|
 |Pokini|K6|K6|K6|
 |Polar|M600|pike|Polar M600|
@@ -20936,6 +20943,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sumitomo Electric Industries|ST4500|ST4500|ST-4500|
 |Sumitomo Electric Networks||dhe1100|Hikari-iFrame/WDPF-703SE|
 |Sunstech|TAB1081|TAB1081|TAB1081|
+|Sunstech|TAB1090|TAB1090|TAB1090|
 |Sunstech|TAB781|TAB781|TAB781|
 |Supertab|K7_KIDS|K7_KIDS|K7 Kids|
 |Supertab|S7G|S7G|S7G|
@@ -23264,6 +23272,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vestel|Venus V3 5570|Venus_V3_5570|Venus_V3_5570|
 |Vestel|Venus V3 5580|Orsa|Venus_V3_5580|
 |Vestel|Venus V5|Teos|Venus V5|
+|Vestel|Venus V6 S|Iletee|V6S|
 |Vestel|Venus V7|Pardus|Venus V7|
 |Vestel|Venus Z10|Reys|Venus Z10|
 |Vestel|Venus Z30|Troia|Venus Z30|
@@ -24117,6 +24126,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |X-View|AMBER_KIDS|AMBER_KIDS|AMBER_KIDS|
 |X-View|PROTON_AMBER_HD|Proton_Amber_HD|Proton_Amber_HD|
 |X-View|X-View|X-ViewTablet7|X-ViewTablet7|
+|X-View|X-ViewTablet10|X-ViewTablet10|X-ViewTablet10|
 |XGIMI|Halo|xgimiapollo|Halo|
 |XGIMI|MoGo|xgimiapollo|MoGo|
 |XL Axiata|AX512|DV8252|AX512|

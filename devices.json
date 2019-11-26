@@ -10627,6 +10627,12 @@
  },
  {
   "brand": "BMXC",
+  "name": "N107",
+  "device": "N107",
+  "model": "N107"
+ },
+ {
+  "brand": "BMXC",
   "name": "N107_EEA",
   "device": "N107-EEA",
   "model": "N107-EEA"
@@ -11608,6 +11614,12 @@
   "name": "BQ-5535L",
   "device": "BQru-5535L",
   "model": "BQ-5535L"
+ },
+ {
+  "brand": "BQru",
+  "name": "BQ-5540L",
+  "device": "BQru-5540L",
+  "model": "BQ-5540L"
  },
  {
   "brand": "BQru",
@@ -13024,6 +13036,12 @@
   "name": "BMM442D",
   "device": "BMM442D",
   "model": "BMM442D"
+ },
+ {
+  "brand": "Blackfox",
+  "name": "BMM442S",
+  "device": "BMM442S",
+  "model": "BMM442S"
  },
  {
   "brand": "Blackfox",
@@ -21430,6 +21448,12 @@
   "name": "H170",
   "device": "H170",
   "model": "H170"
+ },
+ {
+  "brand": "DEXP",
+  "name": "H210",
+  "device": "H210",
+  "model": "H210"
  },
  {
   "brand": "DEXP",
@@ -58123,6 +58147,12 @@
  },
  {
   "brand": "Janam",
+  "name": "XT3",
+  "device": "XT3",
+  "model": "XT3"
+ },
+ {
+  "brand": "Janam",
   "name": "XT75",
   "device": "XM75",
   "model": "XM75"
@@ -58132,6 +58162,12 @@
   "name": "IRIS ITAB05",
   "device": "IRIS_ITAB05",
   "model": "IRIS_ITAB05"
+ },
+ {
+  "brand": "Jenesis",
+  "name": "A94GT_Plus",
+  "device": "A94GT_Plus",
+  "model": "A94GT_Plus"
  },
  {
   "brand": "Jenesis",
@@ -58894,6 +58930,12 @@
   "name": "SmartTV Box",
   "device": "C01AS",
   "model": "SMARTTVBOX"
+ },
+ {
+  "brand": "KEMPLER STRAUSS",
+  "name": "KEMP1HEAD",
+  "device": "KEMP1HEAD",
+  "model": "KEMP1HEAD"
  },
  {
   "brand": "KEMPLER STRAUSS",
@@ -68836,6 +68878,12 @@
   "name": "W30",
   "device": "LM-X440ZM",
   "model": "LM-X440ZM"
+ },
+ {
+  "brand": "LGE",
+  "name": "W30",
+  "device": "LM-X440ZMW",
+  "model": "LM-X440ZMW"
  },
  {
   "brand": "LGE",
@@ -96868,12 +96916,6 @@
   "name": "PM85R",
   "device": "pm85r",
   "model": "PM85R"
- },
- {
-  "brand": "Point Mobile",
-  "name": "XT3",
-  "device": "XT3",
-  "model": "XT3"
  },
  {
   "brand": "Point Mobile",
@@ -125587,6 +125629,12 @@
  },
  {
   "brand": "Sunstech",
+  "name": "TAB1090",
+  "device": "TAB1090",
+  "model": "TAB1090"
+ },
+ {
+  "brand": "Sunstech",
   "name": "TAB781",
   "device": "TAB781",
   "model": "TAB781"
@@ -139555,6 +139603,12 @@
  },
  {
   "brand": "Vestel",
+  "name": "Venus V6 S",
+  "device": "Iletee",
+  "model": "V6S"
+ },
+ {
+  "brand": "Vestel",
   "name": "Venus V7",
   "device": "Pardus",
   "model": "Venus V7"
@@ -144670,6 +144724,12 @@
   "name": "X-View",
   "device": "X-ViewTablet7",
   "model": "X-ViewTablet7"
+ },
+ {
+  "brand": "X-View",
+  "name": "X-ViewTablet10",
+  "device": "X-ViewTablet10",
+  "model": "X-ViewTablet10"
  },
  {
   "brand": "XGIMI",
