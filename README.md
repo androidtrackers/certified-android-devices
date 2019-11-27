@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-11-26
+Last sync is 2019-11-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -82,6 +82,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AMTC|MD7081|MD7081A|MD7081|
 |AMobile|PD470|PD470|PD470|
 |ANEE|A1 Neo|A1_Neo|A1_Neo|
+|ANS|L50|L50|L50|
 |ANS|L51|L51|L51|
 |ANS|Trailblazer|rugged-smartphone|H450R|
 |ANS|UL40|UL40|UL40|
@@ -4683,6 +4684,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Filih|FX4423|FX4423|FX4423|
 |Finggo|FWSP-S1000|FWSP-S1000-HW|FWSP-S1000|
 |Finggo|FWTA-T1000|FWTA-T1000|FWTA-T1000|
+|Firehawk|FP-600|FP-600|FP-600|
 |FirstNationalBank|FNB|SP5045V|SP5045V|
 |Flash|Ivory|Ivory|Ivory|
 |Flash|Live|Live|Live|
@@ -6537,6 +6539,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |High_Q|ELT0802H|ELT0802H|ELT0802H|
 |Hihi|HIHI-40KH-TAB-01|HIHI-40KH-TAB|HIHI-40KH-TAB-01|
 |Hiking|A19|A19|A19|
+|Hiking|A21|A21|A21|
 |Hiking|HIKING_A18|HIKING_A18|HIKING_A18|
 |Hiking|HK-MH501|HK-MH501|HK-MH501|
 |Himax|M21|M21|M21|
@@ -9537,6 +9540,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Iris|NEXT U|NEXT_U|NEXT U|
 |Iris|Next_P_PRO|Next_P_PRO|Next_P_PRO|
 |Iris|V10|V10|V10|
+|Iris|V50|V50|V50|
 |Iris|VOX 4s|VOX_4s|VOX 4s|
 |Iris|VOX Energy|VOX_Energy|VOX Energy|
 |Iris|VOX STEEL Plus|VOX_STEEL_Plus|VOX STEEL Plus|
@@ -12334,6 +12338,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M10 (HD)|TB-X505N|Lenovo TB-X505N|
 |Lenovo|Lenovo Tab M10 (HD)|TB-X505X|Lenovo TB-X505X|
 |Lenovo|Lenovo Tab M10 FHD Plus|X606F|Lenovo TB-X606F|
+|Lenovo|Lenovo Tab M10 FHD Plus|X606M|Lenovo TB-X606M|
 |Lenovo|Lenovo Tab M10 FHD Plus|X606X|Lenovo TB-X606X|
 |Lenovo|Lenovo Tab M10(FHD)|X605M|Lenovo TB-X605M|
 |Lenovo|Lenovo Tab M7|7305F|Lenovo TB-7305F|
@@ -13682,6 +13687,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MobiiStar|mobiistar X|mobiistar_X|mobiistar X|
 |Mobile Initiative|ETHOS|ETHOS|ETHOS|
 |MobileDemand|A1180|A1180|A1180|
+|MobileDemand|xTablet-A680|xTablet-A680|xTablet-A680|
+|MobileDemand|xTabletA680|xTabletA680|xTabletA680|
 |MobileTeleSystem|MTC SMART Surf 4G|MTC_SMART_Surf_4G|MTC_SMART_Surf_4G|
 |MobileTeleSystem|SMART Race2 4G|SMART_Race2_4G|SMART_Race2_4G|
 |MobileTeleSystem|SMART Start 2|MTC_SMART_Start_2|MTC_SMART_Start_2|
@@ -14182,6 +14189,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto z4|foles|Moto Z3 Play|
 |Motorola|moto z4|foles|moto z4|
 |Motorola|motorola one|deen_sprout|motorola one|
+|Motorola|motorola one action|troika|motorola one action|
 |Motorola|motorola one action|troika_sprout|motorola one action|
 |Motorola|motorola one macro|lima|motorola one|
 |Motorola|motorola one macro|lima|motorola one macro|
@@ -14490,6 +14498,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NEC|G\xe2\x80\x99zOne CA-201L|CA201L|CA-201L|
 |NEC|LAVIE Tab E|PC-TE410JAW|PC-TE410JAW|
 |NEC|LAVIE Tab E|PC-TE508HAW|PC-TE508HAW|
+|NEC|LAVIE Tab E 10FHD1|LAVIETabE10FHD1|LAVIE Tab E 10FHD1|
 |NEC|LaVieTab PC-TE508BAW|TE508BAW|PC-TE508BAW|
 |NEC|LaVieTab PC-TE508S1W/LaVieTab PC-TE508S1L|PC-TE508S1_nec|LaVieTab PC-TE508S1|
 |NEC|LaVieTab PC-TE510S1L|PC-TE510S1_nec|LaVieTab PC-TE510S1|
@@ -15555,6 +15564,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|U7 Plus|U7_Plus|U7 Plus|
 |Oukitel|WP1|OUKITEL_WP1|WP1|
 |Oukitel|WP2|WP2|WP2|
+|Oukitel|WP5|WP5|WP5|
 |Oukitel|WP5000|WP5000|WP5000|
 |Oukitel|Y4800|Y4800|Y4800|
 |Overmax|Livecore7032|Livecore7032|Livecore7032|
@@ -22493,6 +22503,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|SPARK 3|TECNO-KB7j|TECNO KB7j|
 |Tecno|SPARK 3 Pro|TECNO-KB8|TECNO KB8|
 |Tecno|SPARK 4|TECNO-KC8|TECNO KC8|
+|Tecno|SPARK 4 Lite|TECNO-BB4k|TECNO BB4k|
 |Tecno|SPARK CM|TECNO-KA9|TECNO KA9|
 |Tecno|SPARK Plus|TECNO-K9|TECNO K9|
 |Tecno|SPARK Pro|TECNO-K8|TECNO K8|
@@ -23405,6 +23416,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V1924A|PD1924|V1924A|
 |Vivo|V1928A|PD1928|V1928A|
 |Vivo|V1930A|PD1930|V1930A|
+|Vivo|V1936A|PD1936|V1936A|
+|Vivo|V1936AL|PD1936G|V1936AL|
 |Vivo|V1Max|Y37|vivo Y37|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
@@ -24369,6 +24382,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Yuho|YUHO_Y1_StarS|YUHO_Y1_StarS|YUHO_Y1_StarS|
 |Yuho|YUHO_Y3_PRO|YUHO_Y3_PRO|YUHO_Y3_PRO|
 |Yumpingo|YUMPINGO_1|YUMPINGO_1|YUMPINGO_1|
+|ZENTALITY|C-705|C-705|C-705|
 |ZOOMME|M2|M2|M2|
 |ZOOMME|Z1|Z1|Z1|
 |ZTE||BUL_P726G|ZTE-RACER|
@@ -25562,6 +25576,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z557BL|lewis|Z557BL|
 |ZTE|Z557BL|msm8909|Z557BL|
 |ZTE|Z559DL|Z559DL|Z559DL|
+|ZTE|Z6201V|Z6201|Z6201V|
 |ZTE|Z6410|Z6410|Z6410S|
 |ZTE|Z660G|nice|Z660G|
 |ZTE|Z6621O|Z6621O|Z6621O|

@@ -463,6 +463,12 @@
  },
  {
   "brand": "ANS",
+  "name": "L50",
+  "device": "L50",
+  "model": "L50"
+ },
+ {
+  "brand": "ANS",
   "name": "L51",
   "device": "L51",
   "model": "L51"
@@ -28068,6 +28074,12 @@
   "model": "FWTA-T1000"
  },
  {
+  "brand": "Firehawk",
+  "name": "FP-600",
+  "device": "FP-600",
+  "model": "FP-600"
+ },
+ {
   "brand": "FirstNationalBank",
   "name": "FNB",
   "device": "SP5045V",
@@ -39190,6 +39202,12 @@
   "name": "A19",
   "device": "A19",
   "model": "A19"
+ },
+ {
+  "brand": "Hiking",
+  "name": "A21",
+  "device": "A21",
+  "model": "A21"
  },
  {
   "brand": "Hiking",
@@ -57193,6 +57211,12 @@
  },
  {
   "brand": "Iris",
+  "name": "V50",
+  "device": "V50",
+  "model": "V50"
+ },
+ {
+  "brand": "Iris",
   "name": "VOX 4s",
   "device": "VOX_4s",
   "model": "VOX 4s"
@@ -73976,6 +74000,12 @@
  {
   "brand": "Lenovo",
   "name": "Lenovo Tab M10 FHD Plus",
+  "device": "X606M",
+  "model": "Lenovo TB-X606M"
+ },
+ {
+  "brand": "Lenovo",
+  "name": "Lenovo Tab M10 FHD Plus",
   "device": "X606X",
   "model": "Lenovo TB-X606X"
  },
@@ -82062,6 +82092,18 @@
   "model": "A1180"
  },
  {
+  "brand": "MobileDemand",
+  "name": "xTablet-A680",
+  "device": "xTablet-A680",
+  "model": "xTablet-A680"
+ },
+ {
+  "brand": "MobileDemand",
+  "name": "xTabletA680",
+  "device": "xTabletA680",
+  "model": "xTabletA680"
+ },
+ {
   "brand": "MobileTeleSystem",
   "name": "MTC SMART Surf 4G",
   "device": "MTC_SMART_Surf_4G",
@@ -85064,6 +85106,12 @@
  {
   "brand": "Motorola",
   "name": "motorola one action",
+  "device": "troika",
+  "model": "motorola one action"
+ },
+ {
+  "brand": "Motorola",
+  "name": "motorola one action",
   "device": "troika_sprout",
   "model": "motorola one action"
  },
@@ -86908,6 +86956,12 @@
   "name": "LAVIE Tab E",
   "device": "PC-TE508HAW",
   "model": "PC-TE508HAW"
+ },
+ {
+  "brand": "NEC",
+  "name": "LAVIE Tab E 10FHD1",
+  "device": "LAVIETabE10FHD1",
+  "model": "LAVIE Tab E 10FHD1"
  },
  {
   "brand": "NEC",
@@ -93298,6 +93352,12 @@
   "name": "WP2",
   "device": "WP2",
   "model": "WP2"
+ },
+ {
+  "brand": "Oukitel",
+  "name": "WP5",
+  "device": "WP5",
+  "model": "WP5"
  },
  {
   "brand": "Oukitel",
@@ -134929,6 +134989,12 @@
  },
  {
   "brand": "Tecno",
+  "name": "SPARK 4 Lite",
+  "device": "TECNO-BB4k",
+  "model": "TECNO BB4k"
+ },
+ {
+  "brand": "Tecno",
   "name": "SPARK CM",
   "device": "TECNO-KA9",
   "model": "TECNO KA9"
@@ -140398,6 +140464,18 @@
   "name": "V1930A",
   "device": "PD1930",
   "model": "V1930A"
+ },
+ {
+  "brand": "Vivo",
+  "name": "V1936A",
+  "device": "PD1936",
+  "model": "V1936A"
+ },
+ {
+  "brand": "Vivo",
+  "name": "V1936AL",
+  "device": "PD1936G",
+  "model": "V1936AL"
  },
  {
   "brand": "Vivo",
@@ -146182,6 +146260,12 @@
   "name": "YUMPINGO_1",
   "device": "YUMPINGO_1",
   "model": "YUMPINGO_1"
+ },
+ {
+  "brand": "ZENTALITY",
+  "name": "C-705",
+  "device": "C-705",
+  "model": "C-705"
  },
  {
   "brand": "ZOOMME",
@@ -153340,6 +153424,12 @@
   "name": "Z559DL",
   "device": "Z559DL",
   "model": "Z559DL"
+ },
+ {
+  "brand": "ZTE",
+  "name": "Z6201V",
+  "device": "Z6201",
+  "model": "Z6201V"
  },
  {
   "brand": "ZTE",
