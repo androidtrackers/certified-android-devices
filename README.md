@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-11-27
+Last sync is 2019-11-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4204,6 +4204,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EKINOX|G1|G1|G1|
 |EKINOX|K5|K5|K5|
 |EKO|Ara 5.7 A5719|A5719|Ara 5.7 A5719|
+|EKO|Australia|hanyang|Ayonz Android TV|
 |EKO|EKO OMEGA LTE Q60|EKO_OMEGA_LTE_Q60|EKO OMEGA LTE Q60|
 |EKO|EKO OMEGA Q55|EKO_OMEGA_Q55|EKO OMEGA Q55|
 |EKO|EKO Star LTE G60|EKO_Star_LTE_G60|EKO Star LTE G60|
@@ -9563,6 +9564,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|A22|itel-A22|itel A22|
 |Itel|A22 Pro|itel-A22-Pro|itel A22 Pro|
 |Itel|A23|itel-A23F|itel A23P|
+|Itel|A25|itel-L5002|itel L5002|
 |Itel|A31 Plus|itel-A31Plus|itel A31Plus|
 |Itel|A32F|itel-A32F|itel A32F|
 |Itel|A41|itel_A41|itel A41|
@@ -9600,6 +9602,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|S11X|itel-S11X|itel S11X|
 |Itel|S13|itel-S13|itel S13|
 |Itel|S13|itel-S13Pro|itel S13 Pro|
+|Itel|S15|itel-W6002|itel W6002|
+|Itel|S15|itel-W6002E|itel W6002E|
+|Itel|S15 Pro(VISION)|itel-L6002P|itel L6002P|
 |Itel|S21|itel-S21|itel S21|
 |Itel|S31|S31|itel S31|
 |Itel|S32|itel-S32|itel S32|
@@ -23149,6 +23154,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vertex|Impress_Frost|Impress_Frost|Impress_Frost|
 |Vertex|Impress_Funk|Impress_Funk|Impress_Funk|
 |Vertex|Impress_Game|Impress_Game|Impress_Game|
+|Vertex|Impress_Indigo|Impress_Indigo|Impress_Indigo|
 |Vertex|Impress_Lagune|Impress_Lagune|Impress_Lagune|
 |Vertex|Impress_Luck4G_NFC|Impress_Luck4G_NFC|Impress_Luck4G_NFC|
 |Vertex|Impress_Nero|Impress_Nero|Impress_Nero|

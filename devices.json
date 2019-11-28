@@ -25195,6 +25195,12 @@
  },
  {
   "brand": "EKO",
+  "name": "Australia",
+  "device": "hanyang",
+  "model": "Ayonz Android TV"
+ },
+ {
+  "brand": "EKO",
   "name": "EKO OMEGA LTE Q60",
   "device": "EKO_OMEGA_LTE_Q60",
   "model": "EKO OMEGA LTE Q60"
@@ -57349,6 +57355,12 @@
  },
  {
   "brand": "Itel",
+  "name": "A25",
+  "device": "itel-L5002",
+  "model": "itel L5002"
+ },
+ {
+  "brand": "Itel",
   "name": "A31 Plus",
   "device": "itel-A31Plus",
   "model": "itel A31Plus"
@@ -57568,6 +57580,24 @@
   "name": "S13",
   "device": "itel-S13Pro",
   "model": "itel S13 Pro"
+ },
+ {
+  "brand": "Itel",
+  "name": "S15",
+  "device": "itel-W6002",
+  "model": "itel W6002"
+ },
+ {
+  "brand": "Itel",
+  "name": "S15",
+  "device": "itel-W6002E",
+  "model": "itel W6002E"
+ },
+ {
+  "brand": "Itel",
+  "name": "S15 Pro(VISION)",
+  "device": "itel-L6002P",
+  "model": "itel L6002P"
  },
  {
   "brand": "Itel",
@@ -138862,6 +138892,12 @@
   "name": "Impress_Game",
   "device": "Impress_Game",
   "model": "Impress_Game"
+ },
+ {
+  "brand": "Vertex",
+  "name": "Impress_Indigo",
+  "device": "Impress_Indigo",
+  "model": "Impress_Indigo"
  },
  {
   "brand": "Vertex",
