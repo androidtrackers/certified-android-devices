@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-11-28
+Last sync is 2019-11-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13609,6 +13609,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|FRIO|FRIO|FRIO|
 |Mobicell|Fever_Plus|Fever_Plus|Fever_Plus|
 |Mobicell|Fever_Plus_J|Fever_Plus_J|Fever_Plus_J|
+|Mobicell|GEO|GEO|GEO|
 |Mobicell|GLO_2|GLO_2|GLO 2|
 |Mobicell|HERO X|HERO_X|HERO_X|
 |Mobicell|HYPE|HYPE|HYPE|
@@ -19641,6 +19642,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sanyo|CER3|CER3|CER3|
 |Sasktel|SaskTel maxTV Stream|HMB2213PW22WA|HMB2213PW22WA|
 |Schok|FreedomTurboXL|SFT57216|FreedomTurboXL|
+|Schok|SCHOK|SM7216H|SM7216H|
 |Schok|freedom turbo|SFT5216|freedom turbo|
 |Schok|mini_SM7216|SM7216|SM7216|
 |Scope|F503V|F503V|F503V|
@@ -20957,6 +20959,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sumitomo Electric Industries|ST4173|ST4173|ST4173|
 |Sumitomo Electric Industries|ST4500|ST4500|ST-4500|
 |Sumitomo Electric Networks||dhe1100|Hikari-iFrame/WDPF-703SE|
+|Sunny|SN10016|SN10016|SN10016|
 |Sunstech|TAB1081|TAB1081|TAB1081|
 |Sunstech|TAB1090|TAB1090|TAB1090|
 |Sunstech|TAB781|TAB781|TAB781|
@@ -21201,6 +21204,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)||one_touch_996_gsm|Orange_infinity_996|
 |TCT (Alcatel)|\t ALCATEL ONETOUCH PIXI 3 (3.5)|PIXI3_35|SoshPhone_mini|
 |TCT (Alcatel)|\t ALCATEL ONETOUCH PIXI 3 (4.5)|PIXI3_45_4G|5017X|
+|TCT (Alcatel)|3T10 4G|A3A_10_4G|8088X|
 |TCT (Alcatel)|4013M|Pixi3-4|4013M|
 |TCT (Alcatel)|4014A|Pixi3-4|4014A|
 |TCT (Alcatel)|4014M|Pixi3-4|4014M|
@@ -23422,6 +23426,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V1924A|PD1924|V1924A|
 |Vivo|V1928A|PD1928|V1928A|
 |Vivo|V1930A|PD1930|V1930A|
+|Vivo|V1932A|PD1932|V1932A|
 |Vivo|V1936A|PD1936|V1936A|
 |Vivo|V1936AL|PD1936G|V1936AL|
 |Vivo|V1Max|Y37|vivo Y37|

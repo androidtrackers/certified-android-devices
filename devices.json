@@ -81625,6 +81625,12 @@
  },
  {
   "brand": "Mobicell",
+  "name": "GEO",
+  "device": "GEO",
+  "model": "GEO"
+ },
+ {
+  "brand": "Mobicell",
   "name": "GLO_2",
   "device": "GLO_2",
   "model": "GLO 2"
@@ -117817,6 +117823,12 @@
  },
  {
   "brand": "Schok",
+  "name": "SCHOK",
+  "device": "SM7216H",
+  "model": "SM7216H"
+ },
+ {
+  "brand": "Schok",
   "name": "freedom turbo",
   "device": "SFT5216",
   "model": "freedom turbo"
@@ -125712,6 +125724,12 @@
   "model": "Hikari-iFrame/WDPF-703SE"
  },
  {
+  "brand": "Sunny",
+  "name": "SN10016",
+  "device": "SN10016",
+  "model": "SN10016"
+ },
+ {
   "brand": "Sunstech",
   "name": "TAB1081",
   "device": "TAB1081",
@@ -127174,6 +127192,12 @@
   "name": "\\t ALCATEL ONETOUCH PIXI 3 (4.5)",
   "device": "PIXI3_45_4G",
   "model": "5017X"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "3T10 4G",
+  "device": "A3A_10_4G",
+  "model": "8088X"
  },
  {
   "brand": "TCT (Alcatel)",
@@ -140500,6 +140524,12 @@
   "name": "V1930A",
   "device": "PD1930",
   "model": "V1930A"
+ },
+ {
+  "brand": "Vivo",
+  "name": "V1932A",
+  "device": "PD1932",
+  "model": "V1932A"
  },
  {
   "brand": "Vivo",
