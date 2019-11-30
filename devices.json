@@ -81450,6 +81450,12 @@
   "model": "MITO A16"
  },
  {
+  "brand": "Mito",
+  "name": "T8",
+  "device": "T8",
+  "model": "T8"
+ },
+ {
   "brand": "Mobell",
   "name": "Mobell S50",
   "device": "Mobell_S50",

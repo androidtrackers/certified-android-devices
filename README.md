@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-11-29
+Last sync is 2019-11-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13580,6 +13580,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mito|Mito_A37_Z1|MITO_A37_Z1|MITO_A37_Z1|
 |Mito|Mito_A37_Z1|MITO_A37_Z1plus|MITO_A37_Z1plus|
 |Mito|T5091A|MITO_A16|MITO A16|
+|Mito|T8|T8|T8|
 |Mobell|Mobell S50|Mobell_S50|Mobell S50|
 |Mobell|NOVA P3|NOVA_P3|NOVA P3|
 |Mobell|P41|P41|P41|
