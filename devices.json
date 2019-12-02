@@ -16495,6 +16495,12 @@
  },
  {
   "brand": "CellAllure",
+  "name": "Earn2_CL",
+  "device": "Earn2_CL",
+  "model": "Earn2 CL"
+ },
+ {
+  "brand": "CellAllure",
   "name": "Fashion2Plus",
   "device": "Fashion2Plus",
   "model": "Fashion2Plus"
@@ -33382,6 +33388,12 @@
   "name": "XP9800",
   "device": "Guophone_XP9800",
   "model": "XP9800"
+ },
+ {
+  "brand": "HANYEAL",
+  "name": "E101GC",
+  "device": "E101GC",
+  "model": "E101GC"
  },
  {
   "brand": "HDC S.A.",
@@ -118147,6 +118159,12 @@
  },
  {
   "brand": "Sharp",
+  "name": "2T-BG1X",
+  "device": "ebisu",
+  "model": "AQUOS-TVX19A"
+ },
+ {
+  "brand": "Sharp",
   "name": "2T-C12AF",
   "device": "taurus_2tcxxaf",
   "model": "2T-C12AF"
@@ -118210,6 +118228,12 @@
   "name": "4T-C50BK1X",
   "device": "gangnam",
   "model": "AQUOS-TVX19B"
+ },
+ {
+  "brand": "Sharp",
+  "name": "4T-C50BK1X",
+  "device": "jamsil",
+  "model": "AQUOS-TVX19D"
  },
  {
   "brand": "Sharp",
@@ -125736,6 +125760,12 @@
   "model": "SN10016"
  },
  {
+  "brand": "Sunny",
+  "name": "SN7016",
+  "device": "SN7016",
+  "model": "SN7016"
+ },
+ {
   "brand": "Sunstech",
   "name": "TAB1081",
   "device": "TAB1081",
@@ -128479,6 +128509,12 @@
  },
  {
   "brand": "TCT (Alcatel)",
+  "name": "ALCATEL 1T 10",
+  "device": "U3A_10_WIFI_P",
+  "model": "8084_EEA"
+ },
+ {
+  "brand": "TCT (Alcatel)",
   "name": "ALCATEL 1T 7",
   "device": "U3A_7_3G",
   "model": "9009A"
@@ -130279,9 +130315,27 @@
  },
  {
   "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1S",
+  "device": "Tokyo",
+  "model": "5028Y_EEA"
+ },
+ {
+  "brand": "TCT (Alcatel)",
   "name": "Alcatel 1T 7 WIFI",
   "device": "U3A_7_WIFI",
   "model": "8068"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1V",
+  "device": "Tokyo_Lite",
+  "model": "5007G"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1V",
+  "device": "Tokyo_Lite",
+  "model": "5007U"
  },
  {
   "brand": "TCT (Alcatel)",
@@ -133490,8 +133544,20 @@
  {
   "brand": "TCT (Alcatel)",
   "name": "smart tab 7",
+  "device": "Hulk_7_GL_WIFI",
+  "model": "8051_RU"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "smart tab 7",
   "device": "Hulk_7_KIDS_WIFI",
   "model": "8052"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "smart tab 7",
+  "device": "Hulk_7_KIDS_WIFI",
+  "model": "8052_RU"
  },
  {
   "brand": "TCT (Alcatel)",
@@ -156988,6 +157054,12 @@
   "name": "N8",
   "device": "iQT_N8",
   "model": "iQ&T N8"
+ },
+ {
+  "brand": "iQual",
+  "name": "T10L",
+  "device": "T10L",
+  "model": "T10L"
  },
  {
   "brand": "iQual",

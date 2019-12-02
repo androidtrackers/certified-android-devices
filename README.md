@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-12-01
+Last sync is 2019-12-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2754,6 +2754,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CellAllure|Cool Duo|Cool_Duo|Cool Duo|
 |CellAllure|Cool_Extreme_2|Cool_Extreme_2|Cool_Extreme_2|
 |CellAllure|Earn|Earn|Earn|
+|CellAllure|Earn2_CL|Earn2_CL|Earn2 CL|
 |CellAllure|Fashion2Plus|Fashion2Plus|Fashion2Plus|
 |CellAllure|Fashion_C|Fashion_C|Fashion C|
 |Cell_C|Cell C Evolve|CELLC_Evolve|CELLC_Evolve|
@@ -5569,6 +5570,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Guess|Wear|glowlight|GUESS Connect|
 |Guophone|X3|X3|X3|
 |Guophone|XP9800|Guophone_XP9800|XP9800|
+|HANYEAL|E101GC|E101GC|E101GC|
 |HDC S.A.|HDC|TK718|TK718|
 |HDC S.A.|T700B|T700B|T700B|
 |HDD SAT|Tab_i_excess|Tab_i_excess|Tab_i_excess|
@@ -19696,6 +19698,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp||SH8298U|SH8298U|
 |Sharp||msm7627_surf|SH8118U|
 |Sharp|2T-B40BCH1; 2T-B40BCH3; 2T-B45BCH1; 2T-B45BCH3|Lcd_xxsffocbc_h|LCD_xxSFFOCBC_H|
+|Sharp|2T-BG1X|ebisu|AQUOS-TVX19A|
 |Sharp|2T-C12AF|taurus_2tcxxaf|2T-C12AF|
 |Sharp|2T-C12AP|taurus_2tcxxap|2T-C12AP|
 |Sharp|2T-C16AP|taurus_2tcfxxap|2T-C16AP|
@@ -19707,6 +19710,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|4T-C**BL1/BJ1/BN1|tcmeruj|AQUOS-TVJ19|
 |Sharp|4T-C50AG1T|LCD_50FOCAG1T|LCD_50FOCAG1T|
 |Sharp|4T-C50BK1X|gangnam|AQUOS-TVX19B|
+|Sharp|4T-C50BK1X|jamsil|AQUOS-TVX19D|
 |Sharp|"4T-C60AL1H|4T-C70AL1H"|lc_xxeos5h|
 |Sharp|"4T-C60AM1H|4T-C70AM1H"|lc_xxdem6h|
 |Sharp|"4T-C60ANAA|4T-C70ANAA|4T-C60ASAA|
@@ -20961,6 +20965,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sumitomo Electric Industries|ST4500|ST4500|ST-4500|
 |Sumitomo Electric Networks||dhe1100|Hikari-iFrame/WDPF-703SE|
 |Sunny|SN10016|SN10016|SN10016|
+|Sunny|SN7016|SN7016|SN7016|
 |Sunstech|TAB1081|TAB1081|TAB1081|
 |Sunstech|TAB1090|TAB1090|TAB1090|
 |Sunstech|TAB781|TAB781|TAB781|
@@ -21418,6 +21423,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|A851L|Viper_gsm|Alcatel A851L|
 |TCT (Alcatel)|ALCATEL 1T 10|U3A_10_WIFI|8082|
 |TCT (Alcatel)|ALCATEL 1T 10|U3A_10_WIFI_P|8084|
+|TCT (Alcatel)|ALCATEL 1T 10|U3A_10_WIFI_P|8084_EEA|
 |TCT (Alcatel)|ALCATEL 1T 7|U3A_7_3G|9009A|
 |TCT (Alcatel)|ALCATEL 1T 7 3G|U3A_7_3G|9009G|
 |TCT (Alcatel)|ALCATEL 3C|A3A_XL_3G|5026A|
@@ -21718,7 +21724,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024F_EEA|
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024I|
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024J|
+|TCT (Alcatel)|Alcatel 1S|Tokyo|5028Y_EEA|
 |TCT (Alcatel)|Alcatel 1T 7 WIFI|U3A_7_WIFI|8068|
+|TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007G|
+|TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007U|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007U_RU|
 |TCT (Alcatel)|Alcatel 1V|Wright|5001A|
 |TCT (Alcatel)|Alcatel 1V|Wright|5001D_EEA|
@@ -22253,7 +22262,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|onetouch_P689L|POLO55|onetouch_P689L|
 |TCT (Alcatel)|smart tab 7|Hulk_7_GL_WIFI|8051|
 |TCT (Alcatel)|smart tab 7|Hulk_7_GL_WIFI|8051_EEA|
+|TCT (Alcatel)|smart tab 7|Hulk_7_GL_WIFI|8051_RU|
 |TCT (Alcatel)|smart tab 7|Hulk_7_KIDS_WIFI|8052|
+|TCT (Alcatel)|smart tab 7|Hulk_7_KIDS_WIFI|8052_RU|
 |TCT (Alcatel)|tbd|FERMI_TF|A501DL|
 |TCT (Alcatel)|tbd|Mickey6TFUMTS|A576BL|
 |TCT (Alcatel)|tbd|U50A_PLUS_ATT|Alcatel_5059R|
@@ -26170,6 +26181,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iQandT|N3|N3|N3|
 |iQandT|N6|N6|N6|
 |iQandT|N8|iQT_N8|iQ&T N8|
+|iQual|T10L|T10L|T10L|
 |iQual|T7G|T7G|T7G|
 |iQual|T7L|T7L|T7L|
 |iQual|T7W|T7W|T7W|
