@@ -1081,6 +1081,12 @@
  },
  {
   "brand": "Acer",
+  "name": "Acer One 10 T4-129L",
+  "device": "AcerO10T4129L",
+  "model": "Acer One 10 T4-129L"
+ },
+ {
+  "brand": "Acer",
   "name": "Acer One 7",
   "device": "Acer_One_7_4G",
   "model": "Acer One 7 4G"
@@ -11910,6 +11916,12 @@
   "model": "BQru-4583"
  },
  {
+  "brand": "BRAVA",
+  "name": "DU-500",
+  "device": "DU-500",
+  "model": "DU-500"
+ },
+ {
   "brand": "BRIGMTON",
   "name": "BTPC-1024QC",
   "device": "BTPC-1024QC",
@@ -15355,12 +15367,6 @@
  },
  {
   "brand": "Bravva",
-  "name": "DU-500",
-  "device": "DU-500",
-  "model": "DU-500"
- },
- {
-  "brand": "Bravva",
   "name": "Impress_Aero",
   "device": "Impress_Aero",
   "model": "Impress_Aero"
@@ -15718,6 +15724,12 @@
   "name": "Ultimate T8",
   "device": "Ultimate_T8",
   "model": "CGV_Ultimate T8"
+ },
+ {
+  "brand": "CHAINWAY",
+  "name": "C66",
+  "device": "C66",
+  "model": "C66"
  },
  {
   "brand": "CHAINWAY",
@@ -18511,6 +18523,12 @@
  },
  {
   "brand": "Concord",
+  "name": "C-708",
+  "device": "C-708",
+  "model": "C-708"
+ },
+ {
+  "brand": "Concord",
   "name": "Plus-7_C777",
   "device": "Plus-7_C777",
   "model": "Plus-7_C777"
@@ -20964,6 +20982,12 @@
   "model": "Ares"
  },
  {
+  "brand": "Custom",
+  "name": "K-Ranger",
+  "device": "K-Ranger",
+  "model": "K-Ranger"
+ },
+ {
   "brand": "Cutepad",
   "name": "Tab_4_M7078",
   "device": "Tab_4_M7078",
@@ -21004,6 +21028,18 @@
   "name": "CS40",
   "device": "CS40",
   "model": "CS40"
+ },
+ {
+  "brand": "Cyrus",
+  "name": "CS45XA",
+  "device": "CS45XA",
+  "model": "CS45XA"
+ },
+ {
+  "brand": "Cyrus",
+  "name": "CS45XA_EEA",
+  "device": "CS45XA_EEA",
+  "model": "CS45XA_EEA"
  },
  {
   "brand": "D-Tech",
@@ -23164,6 +23200,12 @@
   "name": "TAB-740_G",
   "device": "TAB-740_G",
   "model": "TAB-740_G"
+ },
+ {
+  "brand": "Digma",
+  "name": "CITI 609",
+  "device": "CS6063ML",
+  "model": "CITI 609 4G CS6063ML"
  },
  {
   "brand": "Digma",
@@ -25560,6 +25602,12 @@
   "model": "EX7SL4"
  },
  {
+  "brand": "EXCEED",
+  "name": "EX7W1",
+  "device": "EX7W1",
+  "model": "EX7W1"
+ },
+ {
   "brand": "EXO S.A.",
   "name": "Wave i007Kids",
   "device": "Wave_i007Kids",
@@ -27262,6 +27310,12 @@
   "name": "EVMFV2",
   "device": "EVMFV2",
   "model": "EVMFV2"
+ },
+ {
+  "brand": "Excelvan",
+  "name": "SMY-M07R7",
+  "device": "SMY_M07R7",
+  "model": "M07R7_EEA"
  },
  {
   "brand": "Excelvan",
@@ -61147,6 +61201,12 @@
  },
  {
   "brand": "Kyocera",
+  "name": "S6",
+  "device": "S6-KC_sprout",
+  "model": "S6-KC"
+ },
+ {
+  "brand": "Kyocera",
   "name": "SZJ201",
   "device": "SZJ201",
   "model": "SZJ-JS201"
@@ -70984,6 +71044,12 @@
   "name": "M13",
   "device": "M13",
   "model": "M13"
+ },
+ {
+  "brand": "Leagoo",
+  "name": "M15",
+  "device": "M15",
+  "model": "M15"
  },
  {
   "brand": "Leagoo",
@@ -88656,6 +88722,12 @@
   "model": "NM-NETPAD7"
  },
  {
+  "brand": "Neusoft",
+  "name": "S611",
+  "device": "S611",
+  "model": "S611"
+ },
+ {
   "brand": "New Balance",
   "name": "Run IQ",
   "device": "shasta",
@@ -98845,6 +98917,12 @@
  },
  {
   "brand": "Prestigio",
+  "name": "PMT1157_4G_RU",
+  "device": "HP70A6L",
+  "model": "PMT1157_4G_RU"
+ },
+ {
+  "brand": "Prestigio",
   "name": "PMT1177_ 4G",
   "device": "LS70A6L",
   "model": "PMT1177_4G"
@@ -98968,6 +99046,12 @@
   "name": "PMT3177_3G",
   "device": "PMT3177_3G",
   "model": "PMT3177_3G"
+ },
+ {
+  "brand": "Prestigio",
+  "name": "PMT3197_W_EU",
+  "device": "HP70A1W",
+  "model": "PMT3197_W_EU"
  },
  {
   "brand": "Prestigio",
@@ -103138,6 +103222,12 @@
   "name": "icube-830",
   "device": "icube-830",
   "model": "icube-830"
+ },
+ {
+  "brand": "SMB Gadgets",
+  "name": "SMB8112BK",
+  "device": "SMB8112BK",
+  "model": "SMB8112BK"
  },
  {
   "brand": "SMT_LW",
@@ -124746,6 +124836,18 @@
   "model": "S8-RK3368"
  },
  {
+  "brand": "SoyMomo",
+  "name": "SoyMomo_Lite_V1",
+  "device": "SoyMomo_Lite_V1",
+  "model": "SoyMomo_Lite_V1"
+ },
+ {
+  "brand": "SoyMomo",
+  "name": "SoyMomo_Lite_V1_EEA",
+  "device": "SoyMomo_Lite_V1",
+  "model": "SoyMomo_Lite_V1"
+ },
+ {
   "brand": "Spark",
   "name": "Spark_Plus_3",
   "device": "Spark_Plus_3",
@@ -127330,12 +127432,6 @@
   "name": "4114E",
   "device": "Pixi3-4",
   "model": "4114E"
- },
- {
-  "brand": "TCT (Alcatel)",
-  "name": "5006",
-  "device": "5006",
-  "model": "5006G"
  },
  {
   "brand": "TCT (Alcatel)",
@@ -130528,6 +130624,12 @@
   "name": "Alcatel 3",
   "device": "Gauss",
   "model": "5053Y_RU"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 3C",
+  "device": "5006",
+  "model": "5006G"
  },
  {
   "brand": "TCT (Alcatel)",
@@ -133732,6 +133834,12 @@
   "name": "Q718",
   "device": "Q718",
   "model": "Q718"
+ },
+ {
+  "brand": "TUFEN",
+  "name": "Q738",
+  "device": "Q738",
+  "model": "Q738"
  },
  {
   "brand": "TUFF",
@@ -138280,6 +138388,12 @@
   "name": "K910",
   "device": "kitonw",
   "model": "Lenovo K910"
+ },
+ {
+  "brand": "VORCOM",
+  "name": "S7-classic",
+  "device": "S7-classic",
+  "model": "S7-classic"
  },
  {
   "brand": "VSN",
@@ -144021,6 +144135,12 @@
   "brand": "Wiko",
   "name": "View3",
   "device": "W-P311",
+  "model": "W-P311-CA"
+ },
+ {
+  "brand": "Wiko",
+  "name": "View3",
+  "device": "W-P311",
   "model": "W-P311-EEA"
  },
  {
@@ -146401,9 +146521,21 @@
  },
  {
   "brand": "ZENTALITY",
+  "name": "C-700",
+  "device": "C-700",
+  "model": "C-700"
+ },
+ {
+  "brand": "ZENTALITY",
   "name": "C-705",
   "device": "C-705",
   "model": "C-705"
+ },
+ {
+  "brand": "ZLINE",
+  "name": "ZLINE_Z_742",
+  "device": "ZLINE_Z_742",
+  "model": "Z_742"
  },
  {
   "brand": "ZOOMME",
@@ -146416,6 +146548,12 @@
   "name": "Z1",
   "device": "Z1",
   "model": "Z1"
+ },
+ {
+  "brand": "ZOOMSMART",
+  "name": "LT800",
+  "device": "LT800",
+  "model": "LT800"
  },
  {
   "brand": "ZTE",
@@ -154873,6 +155011,12 @@
  },
  {
   "brand": "Zebra",
+  "name": "EC30",
+  "device": "EC30RT",
+  "model": "EC30"
+ },
+ {
+  "brand": "Zebra",
   "name": "ET51",
   "device": "ET51L",
   "model": "ET51"
@@ -156658,6 +156802,12 @@
   "name": "CMP837",
   "device": "CMP837",
   "model": "CMP837"
+ },
+ {
+  "brand": "iCraig",
+  "name": "CMP840",
+  "device": "CMP840",
+  "model": "CMP840"
  },
  {
   "brand": "iCraig",
