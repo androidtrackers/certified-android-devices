@@ -10615,6 +10615,12 @@
  },
  {
   "brand": "BLOW",
+  "name": "KidsTAB7_EEA",
+  "device": "KidsTAB7",
+  "model": "KidsTAB7"
+ },
+ {
+  "brand": "BLOW",
   "name": "PlatinumTAB10",
   "device": "PlatinumTAB10",
   "model": "PlatinumTAB10"
@@ -13102,6 +13108,12 @@
   "name": "BMM541D",
   "device": "BMM541D",
   "model": "BMM541D"
+ },
+ {
+  "brand": "Blackfox",
+  "name": "BMM541W",
+  "device": "BMM541W",
+  "model": "BMM541W"
  },
  {
   "brand": "Blackfox",
@@ -24733,6 +24745,18 @@
  },
  {
   "brand": "Doro",
+  "name": "DSB-0220",
+  "device": "DSB0220",
+  "model": "DSB-0220"
+ },
+ {
+  "brand": "Doro",
+  "name": "DSB-0230",
+  "device": "DSB0230",
+  "model": "DSB-0230"
+ },
+ {
+  "brand": "Doro",
   "name": "DSB0010",
   "device": "DSB0010",
   "model": "Doro 8030"
@@ -26044,6 +26068,12 @@
   "name": "EGD213",
   "device": "EGD213",
   "model": "EGD213"
+ },
+ {
+  "brand": "Ematic",
+  "name": "EGQ101",
+  "device": "EGQ101",
+  "model": "EGQ101"
  },
  {
   "brand": "Ematic",
@@ -43444,6 +43474,12 @@
   "name": "HZ0010",
   "device": "HZ0010",
   "model": "HZ0010"
+ },
+ {
+  "brand": "Hoozo",
+  "name": "HZ0010J",
+  "device": "HZ0010J",
+  "model": "HZ0010J"
  },
  {
   "brand": "Hoozo",
@@ -61404,6 +61440,12 @@
   "model": "LEM-TS1"
  },
  {
+  "brand": "LEOMO",
+  "name": "LEM-TS1\\xe3\\x80\\x80",
+  "device": "LMS",
+  "model": "LEM-TS1"
+ },
+ {
   "brand": "LGE",
   "name": "",
   "device": "AS855",
@@ -62926,12 +62968,6 @@
   "name": "K20",
   "device": "lv517",
   "model": "RS501"
- },
- {
-  "brand": "LGE",
-  "name": "K20",
-  "device": "mmh6lm",
-  "model": "LM-X120"
  },
  {
   "brand": "LGE",
@@ -77755,6 +77791,12 @@
  },
  {
   "brand": "Majestic",
+  "name": "TAB-746",
+  "device": "TAB-746",
+  "model": "TAB-746"
+ },
+ {
+  "brand": "Majestic",
   "name": "TAB_711_4G",
   "device": "TAB_711_4G",
   "model": "TAB 711 4G"
@@ -85087,6 +85129,12 @@
  },
  {
   "brand": "Motorola",
+  "name": "moto g(7) optimo maxx(XT1955DL)",
+  "device": "ocean",
+  "model": "moto g(7) optimo maxx(XT1955DL)"
+ },
+ {
+  "brand": "Motorola",
   "name": "moto g(7) play",
   "device": "channel",
   "model": "moto g(6)"
@@ -85125,25 +85173,19 @@
   "brand": "Motorola",
   "name": "moto g(7) power",
   "device": "ocean",
-  "model": "moto g(7) optimo maxx(XT1955DL)"
- },
- {
-  "brand": "Motorola",
-  "name": "moto g(7) power",
-  "device": "ocean",
   "model": "moto g(7) power"
- },
- {
-  "brand": "Motorola",
-  "name": "moto g(7) power",
-  "device": "ocean",
-  "model": "moto g(7) supra"
  },
  {
   "brand": "Motorola",
   "name": "moto g(7) power",
   "device": "ocean_n",
   "model": "moto g(7) power"
+ },
+ {
+  "brand": "Motorola",
+  "name": "moto g(7) supra",
+  "device": "ocean",
+  "model": "moto g(7) supra"
  },
  {
   "brand": "Motorola",
@@ -90142,6 +90184,12 @@
   "name": "T7 Pro",
   "device": "T7_PRO",
   "model": "T7_PRO"
+ },
+ {
+  "brand": "ONDA TLC",
+  "name": "T9 S",
+  "device": "T9S",
+  "model": "T9S"
  },
  {
   "brand": "ONYX",
@@ -119161,6 +119209,12 @@
  },
  {
   "brand": "Sharp",
+  "name": "C20",
+  "device": "VGO",
+  "model": "SH-C02"
+ },
+ {
+  "brand": "Sharp",
   "name": "DM009SH",
   "device": "DM009SH",
   "model": "DM009SH"
@@ -134374,6 +134428,12 @@
   "name": "M20_4G",
   "device": "M20_4G",
   "model": "M20_4G"
+ },
+ {
+  "brand": "Teclast",
+  "name": "P10S_ROW",
+  "device": "P10S_ROW",
+  "model": "P10S_ROW"
  },
  {
   "brand": "Teclast",
@@ -154165,6 +154225,12 @@
  },
  {
   "brand": "ZTE",
+  "name": "ZTE 2050",
+  "device": "P671F50",
+  "model": "ZTE 2050"
+ },
+ {
+  "brand": "ZTE",
   "name": "ZTE A0616",
   "device": "P637S15",
   "model": "ZTE A0616"
@@ -154282,6 +154348,12 @@
   "name": "ZTE Axon 10 Pro",
   "device": "P855A02",
   "model": "ZTE A2020 Pro"
+ },
+ {
+  "brand": "ZTE",
+  "name": "ZTE Axon 10 Pro",
+  "device": "P855A03",
+  "model": "ZTE Axon 10 Pro"
  },
  {
   "brand": "ZTE",
@@ -155646,6 +155718,12 @@
   "model": "K78_EEA"
  },
  {
+  "brand": "Zonko",
+  "name": "K79",
+  "device": "K79",
+  "model": "K79"
+ },
+ {
   "brand": "Zoom",
   "name": "LitePro",
   "device": "LitePro",
@@ -156946,6 +157024,12 @@
   "name": "Like_Hi5",
   "device": "Like_Hi5",
   "model": "Like Hi5"
+ },
+ {
+  "brand": "iHunt",
+  "name": "S10 Tank PRO 2020",
+  "device": "S10_Tank_PRO_2020",
+  "model": "S10 Tank PRO 2020"
  },
  {
   "brand": "iHunt",
