@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-12-04
+Last sync is 2019-12-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9853,6 +9853,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KDDI|Power Up Unit|C02BB1|C02BB1|
 |KDDI|STW2000|H02ST1|STW2000|
 |KDDI|SmartTV Box|C01AS|SMARTTVBOX|
+|KDDI|XA401|XA401|XA401|
 |KEMPLER STRAUSS|KEMP1HEAD|KEMP1HEAD|KEMP1HEAD|
 |KEMPLER STRAUSS|KEMPLER 9|KEMPLER_9|KEMPLER_9|
 |KEMPLER STRAUSS|KEMPLER TV|KEMPLER_TV|KEMPLER_TV|
@@ -10857,7 +10858,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG K8(2018)|cv1|LM-X212(G)|
 |LGE|LG K8(2018)|cv1|LML211BL|
 |LGE|LG K8(2018)|cv1|LML212VL|
-|LGE|LG K8+(2018)|mcv150|LM-X210|
+|LGE|LG K8(2018)|mcv150|LM-X210|
 |LGE|LG K8s|cv1s|LM-X220|
 |LGE|LG K8s|mcv1s|LM-X220QMA|
 |LGE|LG K9|cv109|LM-X210|
@@ -14218,6 +14219,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola one|deen_sprout|motorola one|
 |Motorola|motorola one action|troika|motorola one action|
 |Motorola|motorola one action|troika_sprout|motorola one action|
+|Motorola|motorola one hyper|def|motorola one hyper|
 |Motorola|motorola one macro|lima|motorola one|
 |Motorola|motorola one macro|lima|motorola one macro|
 |Motorola|motorola one power|chef_sprout|moto x4|
@@ -14523,6 +14525,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NEC|G\'z One IS11CA|IS11CA|IS11CA|
 |NEC|G\'zOne TYPE-L CAL21|CAL21|CAL21|
 |NEC|G\xe2\x80\x99zOne CA-201L|CA201L|CA-201L|
+|NEC|LAVIE Tab 8FHD1|LAVIETabE8FHD1|LAVIE Tab E 8FHD1|
+|NEC|LAVIE Tab 8HD1|LAVIETabE8HD1|LAVIE Tab E 8HD1|
 |NEC|LAVIE Tab E|PC-TE410JAW|PC-TE410JAW|
 |NEC|LAVIE Tab E|PC-TE508HAW|PC-TE508HAW|
 |NEC|LAVIE Tab E 10FHD1|LAVIETabE10FHD1|LAVIE Tab E 10FHD1|
@@ -21749,6 +21753,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024F_EEA|
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024I|
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024J|
+|TCT (Alcatel)|Alcatel 1S|Tokyo|5028A|
+|TCT (Alcatel)|Alcatel 1S|Tokyo|5028D|
 |TCT (Alcatel)|Alcatel 1S|Tokyo|5028Y_EEA|
 |TCT (Alcatel)|Alcatel 1T 7 WIFI|U3A_7_WIFI|8068|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007G|

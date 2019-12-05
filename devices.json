@@ -59088,6 +59088,12 @@
   "model": "SMARTTVBOX"
  },
  {
+  "brand": "KDDI",
+  "name": "XA401",
+  "device": "XA401",
+  "model": "XA401"
+ },
+ {
   "brand": "KEMPLER STRAUSS",
   "name": "KEMP1HEAD",
   "device": "KEMP1HEAD",
@@ -65113,7 +65119,7 @@
  },
  {
   "brand": "LGE",
-  "name": "LG K8+(2018)",
+  "name": "LG K8(2018)",
   "device": "mcv150",
   "model": "LM-X210"
  },
@@ -85279,6 +85285,12 @@
  },
  {
   "brand": "Motorola",
+  "name": "motorola one hyper",
+  "device": "def",
+  "model": "motorola one hyper"
+ },
+ {
+  "brand": "Motorola",
   "name": "motorola one macro",
   "device": "lima",
   "model": "motorola one"
@@ -87106,6 +87118,18 @@
   "name": "G\\xe2\\x80\\x99zOne CA-201L",
   "device": "CA201L",
   "model": "CA-201L"
+ },
+ {
+  "brand": "NEC",
+  "name": "LAVIE Tab 8FHD1",
+  "device": "LAVIETabE8FHD1",
+  "model": "LAVIE Tab E 8FHD1"
+ },
+ {
+  "brand": "NEC",
+  "name": "LAVIE Tab 8HD1",
+  "device": "LAVIETabE8HD1",
+  "model": "LAVIE Tab E 8HD1"
  },
  {
   "brand": "NEC",
@@ -130462,6 +130486,18 @@
   "name": "Alcatel 1S",
   "device": "Faraday",
   "model": "5024J"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1S",
+  "device": "Tokyo",
+  "model": "5028A"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1S",
+  "device": "Tokyo",
+  "model": "5028D"
  },
  {
   "brand": "TCT (Alcatel)",
