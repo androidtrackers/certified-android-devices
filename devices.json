@@ -16146,6 +16146,12 @@
   "model": "WSD-F30"
  },
  {
+  "brand": "Casio",
+  "name": "itg600",
+  "device": "itg600",
+  "model": "IT-G600"
+ },
+ {
   "brand": "Casper",
   "name": "Android TV",
   "device": "R1",
@@ -43426,6 +43432,18 @@
   "name": "EDA51",
   "device": "EDA51-1",
   "model": "EDA51"
+ },
+ {
+  "brand": "Honeywell",
+  "name": "EDA61K",
+  "device": "EDA61K-0U",
+  "model": "EDA61K"
+ },
+ {
+  "brand": "Honeywell",
+  "name": "EDA61K",
+  "device": "EDA61K-1U",
+  "model": "EDA61K"
  },
  {
   "brand": "Honeywell",
@@ -77424,6 +77442,12 @@
   "model": "iQW608"
  },
  {
+  "brand": "MLS Innovation",
+  "name": "iQW626",
+  "device": "iQW626",
+  "model": "iQW626"
+ },
+ {
   "brand": "MOBO",
   "name": "MB_530",
   "device": "MB_530",
@@ -85293,12 +85317,6 @@
   "brand": "Motorola",
   "name": "motorola one macro",
   "device": "lima",
-  "model": "motorola one"
- },
- {
-  "brand": "Motorola",
-  "name": "motorola one macro",
-  "device": "lima",
   "model": "motorola one macro"
  },
  {
@@ -85588,6 +85606,12 @@
   "name": "ATHENA_A10",
   "device": "ATHENA_A10",
   "model": "ATHENA_A10"
+ },
+ {
+  "brand": "Mpgio",
+  "name": "LEGEND_EZ",
+  "device": "LEGEND_EZ",
+  "model": "LEGEND_EZ"
  },
  {
   "brand": "Mpgio",
@@ -95308,6 +95332,12 @@
   "name": "TH-65DX400C",
   "device": "TH_65DX400C",
   "model": "TH_65DX400C"
+ },
+ {
+  "brand": "Panasonic",
+  "name": "Tab 8",
+  "device": "Tab_8",
+  "model": "Tab 8"
  },
  {
   "brand": "Panasonic",
@@ -107344,6 +107374,12 @@
   "name": "Galaxy Fold",
   "device": "winner",
   "model": "SM-F900U1"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Fold",
+  "device": "winner",
+  "model": "SM-F900W"
  },
  {
   "brand": "Samsung",
@@ -126102,6 +126138,12 @@
   "model": "swisstone SD 530"
  },
  {
+  "brand": "Switel",
+  "name": "VS700",
+  "device": "VS700",
+  "model": "VS700"
+ },
+ {
   "brand": "Symphony",
   "name": "E90",
   "device": "E90",
@@ -126604,6 +126646,12 @@
   "name": "T7K_PLUS",
   "device": "T7K-PLUS",
   "model": "T7K_PLUS"
+ },
+ {
+  "brand": "TASKPHONE",
+  "name": "T20",
+  "device": "T20P",
+  "model": "T20"
  },
  {
   "brand": "TCL",
@@ -138504,6 +138552,12 @@
   "model": "SmartTV"
  },
  {
+  "brand": "Valo Innovations",
+  "name": "TAB0001NG",
+  "device": "TAB0001NG",
+  "model": "TAB0001NG"
+ },
+ {
   "brand": "Vankyo",
   "name": "Z1",
   "device": "Z1",
@@ -144166,6 +144220,12 @@
   "name": "U PULSE LITE",
   "device": "v3971",
   "model": "U PULSE LITE"
+ },
+ {
+  "brand": "Wiko",
+  "name": "U307AS",
+  "device": "U307AS",
+  "model": "U307AS"
  },
  {
   "brand": "Wiko",

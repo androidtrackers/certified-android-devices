@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-12-05
+Last sync is 2019-12-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2696,6 +2696,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Casio|WSD-F20|ayu|CASIO WSD-F20S|
 |Casio|WSD-F21HR|medaka|WSD-F21HR|
 |Casio|WSD-F30|kingyo|WSD-F30|
+|Casio|itg600|itg600|IT-G600|
 |Casper|Android TV|R1|ATV R1|
 |Casper|Android TV|R2|ATV R2|
 |Casper|CASPER_L10_4_5G|CASPER_L10_4_5G|CASPER_L10_4.5G|
@@ -7243,6 +7244,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|EDA50K|eda50k-1|Glory EDA50K|
 |Honeywell|EDA51|EDA51-0|EDA51|
 |Honeywell|EDA51|EDA51-1|EDA51|
+|Honeywell|EDA61K|EDA61K-0U|EDA61K|
+|Honeywell|EDA61K|EDA61K-1U|EDA61K|
 |Honeywell|EDA70|eda70-0|EDA70|
 |Honeywell|EDA70|eda70-3|EDA70|
 |Honeywell|EDA71|EDA71-0|EDA71_G|
@@ -12909,6 +12912,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MLS Innovation|iQS801|iQS801|iQS801|
 |MLS Innovation|iQW511T|iQW511T|iQW511T|
 |MLS Innovation|iQW608|iQW608|iQW608|
+|MLS Innovation|iQW626|iQW626|iQW626|
 |MOBO|MB_530|MB_530|MB_530|
 |MOBULAA|S6|S6|S6|
 |MOVI|Movi Projector Phone|Movi|Movi Projector Phone|
@@ -14220,7 +14224,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola one action|troika|motorola one action|
 |Motorola|motorola one action|troika_sprout|motorola one action|
 |Motorola|motorola one hyper|def|motorola one hyper|
-|Motorola|motorola one macro|lima|motorola one|
 |Motorola|motorola one macro|lima|motorola one macro|
 |Motorola|motorola one power|chef_sprout|moto x4|
 |Motorola|motorola one power|chef_sprout|motorola one power|
@@ -14270,6 +14273,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Moxee Technologies|X100|X100|X100|
 |MozaTab|MTN_E1|MTN_E1|TU10MK1|
 |Mpgio|ATHENA_A10|ATHENA_A10|ATHENA_A10|
+|Mpgio|LEGEND_EZ|LEGEND_EZ|LEGEND_EZ|
 |Mpgio|LEGEND_NEW7|LEGEND_NEW7|LEGEND_NEW7|
 |Mpgio|LEGEND_R|LEGEND_R|LEGEND_R|
 |Mpgio|LEGEND_R_PLUS|LEGEND_R_PLUS|LEGEND_R_PLUS|
@@ -15890,6 +15894,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|TH-55DX700C|TH_55DX700C|TH_55DX700C|
 |Panasonic|TH-65DR800C|TH-65DR800C|TH-65DR800C|
 |Panasonic|TH-65DX400C|TH_65DX400C|TH_65DX400C|
+|Panasonic|Tab 8|Tab_8|Tab 8|
 |Panasonic|Theater v3|theaterv3|theaterv3|
 |Panasonic|Translation device|WA-P7|WA-P7|
 |Panasonic|UN-MT300|A1|Panasonic UN-MT300|
@@ -17896,6 +17901,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Fold|winner|SM-F900F|
 |Samsung|Galaxy Fold|winner|SM-F900U|
 |Samsung|Galaxy Fold|winner|SM-F900U1|
+|Samsung|Galaxy Fold|winner|SM-F900W|
 |Samsung|Galaxy Fold 5G|winner|SM-F907B|
 |Samsung|Galaxy Fold 5G|winner|SM-F907N|
 |Samsung|Galaxy Folder|novel3gskt|SM-G155S|
@@ -21022,6 +21028,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SwissMobility|Z9|Z9|Z9|
 |Swisstone|swisstone SD 510|SD5103G|swisstone SD 510|
 |Swisstone|swisstone SD 530|SD5304G|swisstone SD 530|
+|Switel|VS700|VS700|VS700|
 |Symphony|E90|E90|E90|
 |Symphony|E95|E95|E95|
 |Symphony|G100|G100|Symphony G100|
@@ -21106,6 +21113,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TAG-DC|TAG-DC|TAG-DC|TAG-DC|
 |TAG-TECH|TAG_TAB_II|TAG_TAB_II|TAG TAB II|
 |TAGITAL|T7K_PLUS|T7K-PLUS|T7K_PLUS|
+|TASKPHONE|T20|T20P|T20|
 |TCL|Beyond TV|BeyondTV|BeyondTV|
 |TCL|C9|A3A_XL_4G|5199I|
 |TCL|GO5c|U3A_PLUS_4G|5033E|
@@ -23089,6 +23097,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VORCOM|S7-classic|S7-classic|S7-classic|
 |VSN|V.35|up11_h1_vsn|V.35|
 |VT|MB300|MB300|SmartTV|
+|Valo Innovations|TAB0001NG|TAB0001NG|TAB0001NG|
 |Vankyo|Z1|Z1|Z1|
 |Vankyo|Z10|Z10|Z10|
 |Vankyo|Z1_EEA|Z1_EEA|Z1_EEA|
@@ -24033,6 +24042,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|U FEEL PRIME|p7201|U FEEL PRIME|
 |Wiko|U PULSE|v3961|U PULSE|
 |Wiko|U PULSE LITE|v3971|U PULSE LITE|
+|Wiko|U307AS|U307AS|U307AS|
 |Wiko|VIEW|v12dnlite|View|
 |Wiko|VIEW|v12enlite|View|
 |Wiko|VIEW3|W-P311|W-P311-OPE|
