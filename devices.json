@@ -11232,6 +11232,12 @@
   "model": "FUN 4 2018"
  },
  {
+  "brand": "BMobile",
+  "name": "X10",
+  "device": "Bmobile_X10_MV03",
+  "model": "X10"
+ },
+ {
   "brand": "BQru",
   "name": "5060",
   "device": "BQru-5060",
@@ -13843,6 +13849,12 @@
  },
  {
   "brand": "Blu",
+  "name": "C2",
+  "device": "C210",
+  "model": "C2"
+ },
+ {
+  "brand": "Blu",
   "name": "C4",
   "device": "C050",
   "model": "C4"
@@ -15454,6 +15466,12 @@
   "name": "Bubblegum",
   "device": "Bubblegum",
   "model": "Bubblegum"
+ },
+ {
+  "brand": "Buddy Phone",
+  "name": "P3",
+  "device": "P3",
+  "model": "P3"
  },
  {
   "brand": "Bullitt Group",
@@ -29013,7 +29031,31 @@
   "brand": "Fossil",
   "name": "Fossil Sport",
   "device": "darter",
+  "model": "Fadelite"
+ },
+ {
+  "brand": "Fossil",
+  "name": "Fossil Sport",
+  "device": "darter",
+  "model": "Hugo"
+ },
+ {
+  "brand": "Fossil",
+  "name": "Fossil Sport",
+  "device": "darter",
+  "model": "PumaSmartwatch"
+ },
+ {
+  "brand": "Fossil",
+  "name": "Fossil Sport",
+  "device": "darter",
   "model": "Q Sport 41"
+ },
+ {
+  "brand": "Fossil",
+  "name": "Fossil Sport",
+  "device": "darter",
+  "model": "Q Sport 43"
  },
  {
   "brand": "Fossil",
@@ -33154,6 +33196,12 @@
   "name": "Rockchip RK3288 Chromebook",
   "device": "mighty_cheets",
   "model": "Rockchip RK3288 Chromebook"
+ },
+ {
+  "brand": "Google",
+  "name": "gcar emulator",
+  "device": "generic_x86",
+  "model": "Automotive SDK built for x86"
  },
  {
   "brand": "Gplus",
@@ -140881,6 +140929,12 @@
  },
  {
   "brand": "Vivo",
+  "name": "V1945A",
+  "device": "PD1945",
+  "model": "V1945A"
+ },
+ {
+  "brand": "Vivo",
   "name": "V1Max",
   "device": "Y37",
   "model": "vivo Y37"
@@ -141556,6 +141610,12 @@
   "name": "vivo 1916",
   "device": "1916",
   "model": "vivo 1916"
+ },
+ {
+  "brand": "Vivo",
+  "name": "vivo 1920",
+  "device": "1920",
+  "model": "vivo 1920"
  },
  {
   "brand": "Vivo",
@@ -144778,6 +144838,12 @@
   "name": "K72P",
   "device": "K72P",
   "model": "K72P"
+ },
+ {
+  "brand": "Wise-Tech",
+  "name": "Wise-Tech_M1",
+  "device": "Wise-Tech_M1",
+  "model": "Wise-Tech_M1"
  },
  {
   "brand": "Wiseasy",
@@ -155788,6 +155854,12 @@
   "name": "K105_EEA",
   "device": "K105_EEA",
   "model": "K105_EEA"
+ },
+ {
+  "brand": "Zonko",
+  "name": "K106",
+  "device": "K106",
+  "model": "K106"
  },
  {
   "brand": "Zonko",

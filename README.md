@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-12-06
+Last sync is 2019-12-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1877,6 +1877,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|Bmobile_AX752|Bmobile_AX752|AX752|
 |BMobile|Bmoblie AX683|Bmobile_AX683_MV04|AX683|
 |BMobile|FUN 4|Bmobile_FUN_4_2018|FUN 4 2018|
+|BMobile|X10|Bmobile_X10_MV03|X10|
 |BQru|5060|BQru-5060|BQru-5060|
 |BQru|5701L Slim|BQru-5701L|BQ-5701L|
 |BQru|BQ 5503 NICE 2|BQru_5503|BQru-5503|
@@ -2312,6 +2313,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|BLU_Vivo_XL2|BLU_Vivo_XL2|Vivo XL2|
 |Blu|BOLD N1|N0030WW|BOLD N1|
 |Blu|C1|C190|C1|
+|Blu|C2|C210|C2|
 |Blu|C4|C050|C4|
 |Blu|C4 2019|C070|C4 2019|
 |Blu|C5|C004|C5|
@@ -2581,6 +2583,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Brown|brown tab1|brown_tab1|brown tab1|
 |Bubblegum|B1Teen|B1Teen|B1Teen|
 |Bubblegum|Bubblegum|Bubblegum|Bubblegum|
+|Buddy Phone|P3|P3|P3|
 |Bullitt Group|Cat S60|CatS60|S60|
 |Bullitt Group|CatS31|CatS31|S31|
 |Bullitt Group|S30|CatS30|S30|
@@ -4840,7 +4843,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fone Haus|Bolt|Bolt|Bolt|
 |Fonos|FONOS O2|O2|O2|
 |Fossil|Fossil Gen 5|triggerfish|Lexington 2|
+|Fossil|Fossil Sport|darter|Fadelite|
+|Fossil|Fossil Sport|darter|Hugo|
+|Fossil|Fossil Sport|darter|PumaSmartwatch|
 |Fossil|Fossil Sport|darter|Q Sport 41|
+|Fossil|Fossil Sport|darter|Q Sport 43|
 |Fossil|Fossil Sport|darter|Vapor X|
 |Fossil|Q Founder|grant|Q Founder|
 |Fossil|Q Wander / Q Marshal / Q Founder 2.0 / Bradshaw / Dylan|gar|Bradshaw|
@@ -5531,6 +5538,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Rockchip RK3288 Chromebook|jerry_cheets|Rockchip RK3288 Chromebook|
 |Google|Rockchip RK3288 Chromebook|mighty_cheets|RK3288 Chrome OS Device|
 |Google|Rockchip RK3288 Chromebook|mighty_cheets|Rockchip RK3288 Chromebook|
+|Google|gcar emulator|generic_x86|Automotive SDK built for x86|
 |Gplus|F53|GPLUS_F53|GPLUS F53|
 |Gplus|F68+|F68|F68+|
 |Gplus|FW6950|GPLUS_FW6950|GPLUS_FW6950|
@@ -23485,6 +23493,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V1932A|PD1932|V1932A|
 |Vivo|V1936A|PD1936|V1936A|
 |Vivo|V1936AL|PD1936G|V1936AL|
+|Vivo|V1945A|PD1945|V1945A|
 |Vivo|V1Max|Y37|vivo Y37|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
@@ -23598,6 +23607,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo 1912|1912|vivo 1912|
 |Vivo|vivo 1913|1913|vivo 1913|
 |Vivo|vivo 1916|1916|vivo 1916|
+|Vivo|vivo 1920|1920|vivo 1920|
 |Vivo|vivo NEX A|PD1806|vivo NEX A|
 |Vivo|vivo NEX S|PD1805|vivo NEX S|
 |Vivo|vivo S1|PD1831|V1831A|
@@ -24135,6 +24145,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wintec|T730|T730|T730|
 |Wintec|T750|T750|Clear|
 |Wintouch|K72P|K72P|K72P|
+|Wise-Tech|Wise-Tech_M1|Wise-Tech_M1|Wise-Tech_M1|
 |Wiseasy|WISENET5|WISENET5|WISENET5|
 |Wishtel|102017|102017|102017|
 |Wishtel|IRA|IRA|IRAI1705|
@@ -25970,6 +25981,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zong 4G|Z2|Z2|Z2|
 |Zonko|K105|K105|K105|
 |Zonko|K105_EEA|K105_EEA|K105_EEA|
+|Zonko|K106|K106|K106|
 |Zonko|K108|K108|K108|
 |Zonko|K108_EEA|K108_EEA|K108_EEA|
 |Zonko|K78|K78|K78|
