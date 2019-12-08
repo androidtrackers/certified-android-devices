@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-12-07
+Last sync is 2019-12-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -20142,6 +20142,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|ELITE 5T|Elite_5T_SV|Elite 5T|
 |Sky Devices|ELITE T57|Elite_T57_GT|Elite T57|
 |Sky Devices|Elite 5T|Elite_5T_GT|Elite 5T|
+|Sky Devices|Elite A5|Elite_A5|Elite A5|
 |Sky Devices|Elite A55|Elite_A55|Elite_A55|
 |Sky Devices|Elite B5|Elite_B5|Elite_B5|
 |Sky Devices|Elite Go|Elite_Go|Elite Go|

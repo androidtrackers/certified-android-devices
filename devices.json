@@ -120823,6 +120823,12 @@
  },
  {
   "brand": "Sky Devices",
+  "name": "Elite A5",
+  "device": "Elite_A5",
+  "model": "Elite A5"
+ },
+ {
+  "brand": "Sky Devices",
   "name": "Elite A55",
   "device": "Elite_A55",
   "model": "Elite_A55"
