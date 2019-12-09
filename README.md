@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-12-08
+Last sync is 2019-12-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3651,7 +3651,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|lxion MS255|MS255|Ixion MS255|
 |DEYI|DEYI-10M18|DEYI-10M18|DEYI-10M18|
 |DGTEC|DG101TBIPS|DG101TBIPS|DG101TBIPS|
+|DGTEC|DG7TBIPSBT|DG7TBIPSBT|DG7TBIPSBT|
 |DGTEC|DG7TBIPSG|DG7TBIPSG|DG7TBIPSG|
+|DGTEC|DG7TBIPSPA|DG7TBIPSPA|DG7TBIPSPA|
 |DIFRNCE|DIT702201|DIT702201|NID_7010|
 |DL|3406|G02DL|Tablet DL 3406|
 |DL|3420|Tablet_DL_3420|Tablet DL 3420|
@@ -5359,6 +5361,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gionee|GIONEE GN5007L|GIONEE_BJ17G16|GIONEE GN5007L|
 |Gionee|GIONEE M7L|GIONEE_SW17G07|GIONEE M7L|
 |Gionee|GIONEE X1|GIONEE_SWW1631|GIONEE X1|
+|Gionee|GIONEE_M100|GIONEE_M100|M100|
 |Gionee|GN152|GiONEE_CBL7320|GN152|
 |Gionee|GN3001|GiONEE_GBL7523|GN3001|
 |Gionee|GN3001L|GiONEE_GBL7523|GN3001L|
@@ -6874,6 +6877,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense Infinity F17|HS6739MT|Hisense Infinity F17|
 |Hisense|Hisense Infinity H12|HSSDM450QC|Hisense H12|
 |Hisense|Hisense Infinity H12|HSSDM450QC|Hisense Infinity H12|
+|Hisense|Hisense E MAX|SC9863A_RU|Hisense E MAX|
 |Hisense|Hisense E76MINIM|HS8937QC|Hisense E76MINIM|
 |Hisense|Hisense E77|HS8937QC|Hisense E77|
 |Hisense|Hisense F15|HS6739MT|Hisense F15|
@@ -9064,8 +9068,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ikimobile|GO4.5S|GO4_5S|GO4.5S|
 |Ikimobile|GO5_55|GO5_55|GO5_55|
 |Ikimobile|KF45|KF45|KF45|
+|Ikimobile|Tab4you_6|Tab4you_6|Tab4you_6|
 |Ikon|IK-7108|IK-7108|IK-7108|
 |Ikon|IK-787|IK-787|IK-787|
+|Ikon|IK-869|IK-869|IK-869|
 |IkuMobile|A20|A20|A20|
 |IkuMobile|I3|I3|IKU i3|
 |IkuMobile|IKU_T3|IKU_T3|IKU_T3|
@@ -14321,6 +14327,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M9-3G|ML-SO-M9-3G|ML-SO-M9-3G|
 |Multilaser|M9-3G|ML-WI-M9-3G|ML-WI-M9-3G|
 |Multilaser|M9-3G-2|M9-3G_2|M9-3G_2|
+|Multilaser|M9S-Go|ML-JI09-M9S-GO|M9S-Go|
 |Multilaser|ML-JI-M7_3G_PLUS|ML-JI-M7_3G_PLUS|ML-JI-M7_3G_PLUS|
 |Multilaser|ML-JI11-M7_3G_PLUS|ML-JI11-M7_3G_PLUS|ML-JI11-M7_3G_PLUS|
 |Multilaser|ML-SO-M7_3G_PLUS|ML-SO-M7_3G_PLUS|ML-SO-M7_3G_PLUS|
@@ -14364,6 +14371,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|Multilaser G Pro|Multilaser_G_Pro|Multilaser_G_Pro|
 |Multilaser|Multilaser H|Multilaser_H|Multilaser H|
 |Multilaser|Multilaser_F|Multilaser_F|Multilaser_F|
+|My|Android TV|yeoksam|Cosmos|
 |My Go|GoTab GBT10|GBT10|GoTab_GBT10|
 |MyBox|MBIF-H533|DV8020|MBIF-H533|
 |MyFon|F3|F3|F3|
@@ -16888,6 +16896,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Qoobex|Qphone2019_A|Qphone2019_A|Qphone2019_A|
 |Qpad|XL PLUS|t591_hwd_q19_hiya_we|XL PLUS|
 |Qsmart|LT950|LT950|LT950|
+|Qsmart|Mark 2|MARK_2|Mark 2|
 |Qsmart|QSmart Canopus|Canopus|QSmart_Canopus|
 |Qsmart|QSmart X10|X10|QSmart X10|
 |Qsmart|QSmart X20|X20|QSmart X20|
@@ -17189,6 +17198,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SAKAISIO|FP-U320-711-WIFI|U320-WF|FP-U320-711-WIFI|
 |SAKAISIO|FP-U320-711-WWAN|U320-3G|FP-U320-711-WWAN|
 |SARL WISE TECHNOLOGIE|P1_Plus|P1_Plus|P1+|
+|SARL WISE TECHNOLOGIE|Wise_Tech_Wifi|Wise_Tech_Wifi|Wise Tech Wifi|
 |SBET|X7|X7|X7|
 |SCIENTIA|BBT1019863|BBT1019863|BBT1019863|
 |SED Wireless|GPH-650R|SPH_650R|GPH-650R|
@@ -19881,6 +19891,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS sense3 SHV45|PCZ|SHV45|
 |Sharp|AQUOS sense3 basic (907SH)|SG907SH|907SH|
 |Sharp|AQUOS sense3 lite|SH-RM12|SH-RM12|
+|Sharp|AQUOS sense3 plus SH-RM11|SH-RM11|SH-RM11|
+|Sharp|AQUOS sense3 plus\xe3\x80\x80\xe3\x82\xb5\xe3\x82\xa6\xe3\x83\xb3\xe3\x83\x89 SHV46|OBY|SHV46|
 |Sharp|AQUOS zero|SG801SH|801SH|
 |Sharp|AQUOS zero|SH-Z10|SH-Z10|
 |Sharp|AQUOS zero|SH-Z10A|SH-Z10A|
@@ -22352,6 +22364,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TWOE|E500A_2019|E500A_2019|E500A_2019|
 |TWOE|F534L|F534L|F534L|
 |TWOE|F572L|F572L|F572L|
+|TWZ Corporation PLC|2|2|2|
 |TWZ Corporation PLC|OX_X1|OX_X1|OX_X1|
 |TWZ Corporation PLC|T10|T10|T10|
 |TWZ Corporation PLC|T11|T11|T11|

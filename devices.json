@@ -21877,9 +21877,21 @@
  },
  {
   "brand": "DGTEC",
+  "name": "DG7TBIPSBT",
+  "device": "DG7TBIPSBT",
+  "model": "DG7TBIPSBT"
+ },
+ {
+  "brand": "DGTEC",
   "name": "DG7TBIPSG",
   "device": "DG7TBIPSG",
   "model": "DG7TBIPSG"
+ },
+ {
+  "brand": "DGTEC",
+  "name": "DG7TBIPSPA",
+  "device": "DG7TBIPSPA",
+  "model": "DG7TBIPSPA"
  },
  {
   "brand": "DIFRNCE",
@@ -32125,6 +32137,12 @@
  },
  {
   "brand": "Gionee",
+  "name": "GIONEE_M100",
+  "device": "GIONEE_M100",
+  "model": "M100"
+ },
+ {
+  "brand": "Gionee",
   "name": "GN152",
   "device": "GiONEE_CBL7320",
   "model": "GN152"
@@ -41212,6 +41230,12 @@
   "name": "Hisense Infinity H12",
   "device": "HSSDM450QC",
   "model": "Hisense Infinity H12"
+ },
+ {
+  "brand": "Hisense",
+  "name": "Hisense E MAX",
+  "device": "SC9863A_RU",
+  "model": "Hisense E MAX"
  },
  {
   "brand": "Hisense",
@@ -54354,6 +54378,12 @@
   "model": "KF45"
  },
  {
+  "brand": "Ikimobile",
+  "name": "Tab4you_6",
+  "device": "Tab4you_6",
+  "model": "Tab4you_6"
+ },
+ {
   "brand": "Ikon",
   "name": "IK-7108",
   "device": "IK-7108",
@@ -54364,6 +54394,12 @@
   "name": "IK-787",
   "device": "IK-787",
   "model": "IK-787"
+ },
+ {
+  "brand": "Ikon",
+  "name": "IK-869",
+  "device": "IK-869",
+  "model": "IK-869"
  },
  {
   "brand": "IkuMobile",
@@ -85897,6 +85933,12 @@
  },
  {
   "brand": "Multilaser",
+  "name": "M9S-Go",
+  "device": "ML-JI09-M9S-GO",
+  "model": "M9S-Go"
+ },
+ {
+  "brand": "Multilaser",
   "name": "ML-JI-M7_3G_PLUS",
   "device": "ML-JI-M7_3G_PLUS",
   "model": "ML-JI-M7_3G_PLUS"
@@ -86152,6 +86194,12 @@
   "name": "Multilaser_F",
   "device": "Multilaser_F",
   "model": "Multilaser_F"
+ },
+ {
+  "brand": "My",
+  "name": "Android TV",
+  "device": "yeoksam",
+  "model": "Cosmos"
  },
  {
   "brand": "My Go",
@@ -101299,6 +101347,12 @@
  },
  {
   "brand": "Qsmart",
+  "name": "Mark 2",
+  "device": "MARK_2",
+  "model": "Mark 2"
+ },
+ {
+  "brand": "Qsmart",
   "name": "QSmart Canopus",
   "device": "Canopus",
   "model": "QSmart_Canopus"
@@ -103102,6 +103156,12 @@
   "name": "P1_Plus",
   "device": "P1_Plus",
   "model": "P1+"
+ },
+ {
+  "brand": "SARL WISE TECHNOLOGIE",
+  "name": "Wise_Tech_Wifi",
+  "device": "Wise_Tech_Wifi",
+  "model": "Wise Tech Wifi"
  },
  {
   "brand": "SBET",
@@ -119257,6 +119317,18 @@
  },
  {
   "brand": "Sharp",
+  "name": "AQUOS sense3 plus SH-RM11",
+  "device": "SH-RM11",
+  "model": "SH-RM11"
+ },
+ {
+  "brand": "Sharp",
+  "name": "AQUOS sense3 plus\\xe3\\x80\\x80\\xe3\\x82\\xb5\\xe3\\x82\\xa6\\xe3\\x83\\xb3\\xe3\\x83\\x89 SHV46",
+  "device": "OBY",
+  "model": "SHV46"
+ },
+ {
+  "brand": "Sharp",
   "name": "AQUOS zero",
   "device": "SG801SH",
   "model": "801SH"
@@ -134080,6 +134152,12 @@
   "name": "F572L",
   "device": "F572L",
   "model": "F572L"
+ },
+ {
+  "brand": "TWZ Corporation PLC",
+  "name": "2",
+  "device": "2",
+  "model": "2"
  },
  {
   "brand": "TWZ Corporation PLC",
