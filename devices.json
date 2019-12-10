@@ -15079,6 +15079,12 @@
  },
  {
   "brand": "Bluedot",
+  "name": "BNT-1013",
+  "device": "BNT-1013",
+  "model": "BNT-1013"
+ },
+ {
+  "brand": "Bluedot",
   "name": "BNT-700K",
   "device": "BNT-700K",
   "model": "BNT-700K"
@@ -16240,6 +16246,12 @@
   "name": "VIA M3",
   "device": "CASPER_VIA_M3",
   "model": "CASPER_VIA_M3"
+ },
+ {
+  "brand": "Casper",
+  "name": "VIA P3",
+  "device": "VIA_P3",
+  "model": "VIA_P3"
  },
  {
   "brand": "Casper",
@@ -17770,6 +17782,12 @@
   "name": "RK25WO",
   "device": "RK25WO",
   "model": "RK25WO"
+ },
+ {
+  "brand": "Cipherlab",
+  "name": "RK95",
+  "device": "RK95",
+  "model": "RK95"
  },
  {
   "brand": "Cipherlab",
@@ -30217,6 +30235,12 @@
  },
  {
   "brand": "Fujitsu",
+  "name": "arrows M05",
+  "device": "arrowsM05",
+  "model": "arrowsM05"
+ },
+ {
+  "brand": "Fujitsu",
   "name": "arrows RX",
   "device": "arrowsRX",
   "model": "arrowsRX"
@@ -30862,6 +30886,12 @@
   "name": "FXC-5A",
   "device": "FXC-5A",
   "model": "FXC-5A"
+ },
+ {
+  "brand": "Geanee",
+  "name": "HT-001",
+  "device": "HT-001",
+  "model": "HT-001"
  },
  {
   "brand": "Geanee",
@@ -60283,6 +60313,12 @@
  },
  {
   "brand": "Klipad",
+  "name": "KL8889",
+  "device": "KL8889",
+  "model": "KL8889"
+ },
+ {
+  "brand": "Klipad",
   "name": "KL988HPC",
   "device": "KL988HPC",
   "model": "KL988HPC"
@@ -82369,6 +82405,12 @@
  },
  {
   "brand": "MobileDemand",
+  "name": "Flex10AND",
+  "device": "Flex10AND",
+  "model": "Flex10AND"
+ },
+ {
+  "brand": "MobileDemand",
   "name": "xTablet-A680",
   "device": "xTablet-A680",
   "model": "xTablet-A680"
@@ -102888,6 +102930,12 @@
   "model": "R550"
  },
  {
+  "brand": "Rixun",
+  "name": "T107",
+  "device": "T107",
+  "model": "T107"
+ },
+ {
   "brand": "Rockcel",
   "name": "Quartzo UP",
   "device": "Quartzo_UP",
@@ -103156,6 +103204,12 @@
   "name": "P1_Plus",
   "device": "P1_Plus",
   "model": "P1+"
+ },
+ {
+  "brand": "SARL WISE TECHNOLOGIE",
+  "name": "Wise_Tab",
+  "device": "Wise_Tab",
+  "model": "Wise_Tab"
  },
  {
   "brand": "SARL WISE TECHNOLOGIE",
@@ -120679,6 +120733,12 @@
  },
  {
   "brand": "Simbans",
+  "name": "Excello",
+  "device": "ExcelloTab",
+  "model": "ExcelloTab"
+ },
+ {
+  "brand": "Simbans",
   "name": "PicassoTab",
   "device": "PicassoTab",
   "model": "PicassoTab"
@@ -130672,6 +130732,12 @@
   "name": "Alcatel 1S",
   "device": "Tokyo",
   "model": "5028D"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1S",
+  "device": "Tokyo",
+  "model": "5028D_EEA"
  },
  {
   "brand": "TCT (Alcatel)",
@@ -145398,6 +145464,12 @@
   "model": "STI6030"
  },
  {
+  "brand": "XTRATECH_IGUANAPAD",
+  "name": "X8MT16",
+  "device": "X8MT16",
+  "model": "X8MT16"
+ },
+ {
   "brand": "Xcell",
   "name": "Enia",
   "device": "Xcell_Enia",
@@ -155119,6 +155191,12 @@
  },
  {
   "brand": "ZTE",
+  "name": "ZTE V1050",
+  "device": "P671S50",
+  "model": "ZTE V1050"
+ },
+ {
+  "brand": "ZTE",
   "name": "ZTE V890",
   "device": "sdm660_64",
   "model": "ZTE V890"
@@ -157132,6 +157210,12 @@
   "name": "CMP837",
   "device": "CMP837",
   "model": "CMP837"
+ },
+ {
+  "brand": "iCraig",
+  "name": "CMP838",
+  "device": "CMP838",
+  "model": "CMP838"
  },
  {
   "brand": "iCraig",

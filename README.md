@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-12-09
+Last sync is 2019-12-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2518,6 +2518,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bluedigit|RAVOZ R8|RAVOZ_R8|RAVOZ R8|
 |Bluedigit|RAVOZ_R4|RAVOZ_R4|RAVOZ R4|
 |Bluedigit|RAVOZ_R9|RAVOZ_R9|RAVOZ R9|
+|Bluedot|BNT-1013|BNT-1013|BNT-1013|
 |Bluedot|BNT-700K|BNT-700K|BNT-700K|
 |Bluedot|BNT-801W|BNT_801W|BNT-801W|
 |Bluedot|BNT-802|BNT-802|BNT-802|
@@ -2712,6 +2713,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Casper|VIA G1|CASPER_VIA_G1|CASPER_VIA_G1|
 |Casper|VIA G1 Plus|CASPER_VIA_G1_Plus|CASPER_VIA_G1_Plus|
 |Casper|VIA M3|CASPER_VIA_M3|CASPER_VIA_M3|
+|Casper|VIA P3|VIA_P3|VIA_P3|
 |Casper|VIA T7D|VIA-T7D|VIA-T7D|
 |Casper|VIA T7D 3G|VIA-T7D-3G|VIA-T7D-3G|
 |Casper|VIA_ G3|VIA_G3|VIA_G3|
@@ -2967,6 +2969,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cipherlab|Hera51|Hera51|Hera51|
 |Cipherlab|RK25|RK25|RK25|
 |Cipherlab|RK25WO|RK25WO|RK25WO|
+|Cipherlab|RK95|RK95|RK95|
 |Cipherlab|RS30|Mercury|CipherLab RS30|
 |Cipherlab|RS31|RS31|RS31|
 |Cipherlab|RS51_HS|RS51_HS|RS51_HS|
@@ -5041,6 +5044,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fujitsu|arrows M03|M03|arrowsM03|
 |Fujitsu|arrows M04|M04|arrowsM04|
 |Fujitsu|arrows M04 PREMIUM|M04P|arrowsM04-PREMIUM|
+|Fujitsu|arrows M05|arrowsM05|arrowsM05|
 |Fujitsu|arrows RX|arrowsRX|arrowsRX|
 |Fujitsu|arrows Tab M01T|M01T|M01T|
 |Funai Electric||smdkv210|ALM-001J|
@@ -5149,6 +5153,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gasei S.A.|SENSE701|SENSE701|SENSE701|
 |Gasei S.A.|SENSE704G|SENSE704G|SENSE704G|
 |Geanee|FXC-5A|FXC-5A|FXC-5A|
+|Geanee|HT-001|HT-001|HT-001|
 |Geanee|JT07-90|JT07-90|JT07-90|
 |Geanee|JT10-90|JT10-90|JT10-90|
 |Geant|GEANT T1|GEANT_T1|T1|
@@ -10052,6 +10057,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Klipad|KL7591|KL7591|KL7591|
 |Klipad|KL7599|KL7599|KL7599|
 |Klipad|KL7809|KL7809|KL7809|
+|Klipad|KL8889|KL8889|KL8889|
 |Klipad|KL988HPC|KL988HPC|KL988HPC|
 |Klipad|KLI750|KLI750|KL I750|
 |Klipad|KLI758|KLI758|KLIPAD_SMART_KLI758|
@@ -13733,6 +13739,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MobiiStar|mobiistar X|mobiistar_X|mobiistar X|
 |Mobile Initiative|ETHOS|ETHOS|ETHOS|
 |MobileDemand|A1180|A1180|A1180|
+|MobileDemand|Flex10AND|Flex10AND|Flex10AND|
 |MobileDemand|xTablet-A680|xTablet-A680|xTablet-A680|
 |MobileDemand|xTabletA680|xTabletA680|xTabletA680|
 |MobileTeleSystem|MTC SMART Surf 4G|MTC_SMART_Surf_4G|MTC_SMART_Surf_4G|
@@ -17153,6 +17160,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rinno|R505|Rinno_R505|R505|
 |Rinno|R520|R520|R520|
 |Rinno|R550|R550|R550|
+|Rixun|T107|T107|T107|
 |Rockcel|Quartzo UP|Quartzo_UP|Quartzo UP|
 |Rockcel|Quartzo Up|Quartzo_up|Quartzo_up|
 |Rockcel|Quartzo_4G|Quartzo_4G|Quartzo_4G|
@@ -17198,6 +17206,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SAKAISIO|FP-U320-711-WIFI|U320-WF|FP-U320-711-WIFI|
 |SAKAISIO|FP-U320-711-WWAN|U320-3G|FP-U320-711-WWAN|
 |SARL WISE TECHNOLOGIE|P1_Plus|P1_Plus|P1+|
+|SARL WISE TECHNOLOGIE|Wise_Tab|Wise_Tab|Wise_Tab|
 |SARL WISE TECHNOLOGIE|Wise_Tech_Wifi|Wise_Tech_Wifi|Wise Tech Wifi|
 |SBET|X7|X7|X7|
 |SCIENTIA|BBT1019863|BBT1019863|BBT1019863|
@@ -20118,6 +20127,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Silver line|SL1068|SL1068|SL1068|
 |Silver line|SL729|SL729|SL729|
 |Silver line|SL868G|SL868G|SL868G|
+|Simbans|Excello|ExcelloTab|ExcelloTab|
 |Simbans|PicassoTab|PicassoTab|PicassoTab|
 |Simbans|PicassoTab8s|PicassoTab8s|PicassoTab8s|
 |Simbans|TangoTab|TangoTab|TangoTab|
@@ -21784,6 +21794,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024J|
 |TCT (Alcatel)|Alcatel 1S|Tokyo|5028A|
 |TCT (Alcatel)|Alcatel 1S|Tokyo|5028D|
+|TCT (Alcatel)|Alcatel 1S|Tokyo|5028D_EEA|
 |TCT (Alcatel)|Alcatel 1S|Tokyo|5028Y_EEA|
 |TCT (Alcatel)|Alcatel 1T 7 WIFI|U3A_7_WIFI|8068|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007G|
@@ -24238,6 +24249,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |XGIMI|MoGo|xgimiapollo|MoGo|
 |XL Axiata|AX512|DV8252|AX512|
 |XL Axiata|XL Home Pow|STI6xxx|STI6030|
+|XTRATECH_IGUANAPAD|X8MT16|X8MT16|X8MT16|
 |Xcell|Enia|Xcell_Enia|Enia|
 |Xcell|View|View|View|
 |Xcell|Zoom|Xcell_Zoom|Zoom|
@@ -25858,6 +25870,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE V0840|P817S01|ZTE V0840|
 |ZTE|ZTE V0920|P840S03|ZTE V0920|
 |ZTE|ZTE V1000|P671S20|ZTE V1000|
+|ZTE|ZTE V1050|P671S50|ZTE V1050|
 |ZTE|ZTE V890|sdm660_64|ZTE V890|
 |ZTE|ZTE ZFive C LTE|msm8909|Z558VL|
 |ZTE|ZTE-V9VITA|P840F03|ZTE-V9VITA|
@@ -26194,6 +26207,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iCraig|CMP828|CMP828|CMP828|
 |iCraig|CMP834|CMP834|CMP834|
 |iCraig|CMP837|CMP837|CMP837|
+|iCraig|CMP838|CMP838|CMP838|
 |iCraig|CMP840|CMP840|CMP840|
 |iCraig|CMP_771|ICRAIG_CMP_771|ICRAIG_CMP771|
 |iCraig|CMP_773|ICRAIG_CMP_773|ICRAIG_CMP773|
