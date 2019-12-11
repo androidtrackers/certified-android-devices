@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-12-10
+Last sync is 2019-12-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2590,6 +2590,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bullitt Group|S30|CatS30|S30|
 |Bunbungame|KALOS|FG6Q_N|KALOS|
 |Bunbungame|MiSS|MiSS|MiSS|
+|Bundy Mobile|BTOUCH7_PLUS|BTOUCH7_PLUS|BTOUCH7_PLUS|
 |Bush|5 android|ac50cpl|Bush 5 Android|
 |Bush|BUSH SPIRA B3 10 TABLET|ac101boxv2|BUSH SPIRA B3 10 TABLET|
 |Bush|BUSH SPIRA B3 10 TABLET|ac101boxv3|BUSH SPIRA B3 10 TABLET|
@@ -4479,6 +4480,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Estar|GO! IPS Quad core 3G|MID7458G|eSTAR GO! IPS Quad core 3G|
 |Estar|GRAND HD Quad Core|MID1198|eSTAR GRAND HD Quad core|
 |Estar|Grand IPS Quad core 3G|MID1258G|eSTAR Grand IPS Quad core 3G|
+|Estar|MID7399|MID7399|eSTAR BEAUTY 3 HD Quad core|
 |Estar|eSTAR BEAUTY 2 HD Quad core|MID7388|eSTAR BEAUTY 2 HD Quad core|
 |Estar|eSTAR GRAND HD Quad Core|MID1298|eSTAR GRAND HD Quad core|
 |Eten|ET660|ETEN|ET660|
@@ -5551,6 +5553,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gplus|F68+|F68|F68+|
 |Gplus|FW6950|GPLUS_FW6950|GPLUS_FW6950|
 |Gplus|GPLUS_A2_Plus|GPLUS_A2_Plus|GPLUS_A2_Plus|
+|Gplus|Gplus|Q10|Q10|
 |Gplus|LTE960Plus|LTE960Plus|LTE960Plus|
 |Gplus|S9701|GPLUS_S9701|GPLUS_S9701|
 |Gradiente|iphone C600|GBC_bravo|iphone C600|
@@ -11578,6 +11581,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LIFE Digital|K3102_W|K3102_W|K3102_W|
 |LINNEX|LI22|LI22|LI22|
 |LINSAY|F-7HD2CORE / F-7HD4CORE / F-10HD2CORE /F-10XHD4CORE|F-7HD2CORE|LINSAY F-7HD2CORE/F-7HD4CORE/F-10HD2CORE/F-10XHD4CORE|
+|LLA|VIP6102W-LLA|vip6102w|VIP6102W|
 |LOOQS|L108MR|L108MR|L108MR|
 |LP (TN)|N-50|LP_N_50|N-50|
 |LP (TN)|N-57|LP_N_57|N-57|
@@ -13961,6 +13965,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|Milestone2|umts_milestone2|ME722|
 |Motorola|Milestone2|umts_milestone2|MotoA953|
 |Motorola|Moto 360|minnow|Moto 360|
+|Motorola|Moto 360|mola|Moto 360|
 |Motorola|Moto 360 (2nd Gen)|carp|Moto 360|
 |Motorola|Moto 360 (2nd Gen)|smelt|Moto 360|
 |Motorola|Moto 360 Sport|carp|Moto 360|
@@ -15151,6 +15156,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Onn (Walmart)|ONA19TB003|ONA19TB003|ONA19TB003|
 |Ooredoo|Ooredoo TV|diw387oor|DIW387_UHD_OOR|
 |Ooredoo|Smart10_Pro|Smart10_Pro|Smart10_Pro|
+|Opay|M1 Lite|M1_Lite|M1 Lite|
 |OpelMobile|EasySmart|EasySmart|EasySmart|
 |OpelMobile|EasySmart 2|Easy_Smart_2|Easy_Smart_2|
 |OpelMobile|Smart X6|SmartX6|Opel Mobile SmartX6|
@@ -20338,13 +20344,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Internet TV|asura|Internet TV|
 |Sony|Internet TV|eagle|Internet TV Box|
 |Sony|NSZGS7|NSZGS7|NSZ-GS7/GX70|
-|Sony|NW-A100|icx1293|NW-A100Series|
 |Sony|NW-F800|icx1227|WALKMAN|
 |Sony|NW-F880 Series|icx1237|WALKMAN|
 |Sony|NW-Z1000|icx1216|NW-Z1000Series|
 |Sony|NW-ZX1|icx1240|WALKMAN|
 |Sony|NW-ZX2|icx1265|WALKMAN|
-|Sony|NW-ZX500|icx1295|NW-ZX500Series|
 |Sony|NWZ-Z1000|icx1216|NWZ-Z1000Series|
 |Sony|NWZ-ZX1|icx1240|WALKMAN|
 |Sony|SmartWatch 3|tetra|SmartWatch 3|
@@ -20806,6 +20810,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony Ericsson|Xperia sola|MT27i|MT27i|
 |Sony Ericsson|Xperia tipo|ST21i|ST21i|
 |Sony Ericsson|Xperia tipo dual|ST21i2|ST21i2|
+|SonyAudio|NW-A100|icx1293|NW-A100Series|
+|SonyAudio|NW-ZX500|icx1295|NW-ZX500Series|
 |Sophix_Digix|TAB-750_G|TAB-750_G|TAB-750_G|
 |Sourcing Creation|Connect 451|Connect451|Connect 451|
 |Sourcing Creation|Connect 504|Q9|Connect504|
@@ -26164,6 +26170,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iBRIT|Speed_Pro_Plus|SF56|SF56|
 |iBRIT|VEGA|VEGA|VEGA|
 |iBRIT|XL|XL|XL|
+|iBRIT|XLPlus|XLPlus|XLPlus|
 |iBRIT|Z2|Z2|Z2|
 |iBRIT|Z2Lite|Z2Lite|Z2Lite|
 |iBRIT|i2|i2|i2|

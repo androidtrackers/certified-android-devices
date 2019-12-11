@@ -15510,6 +15510,12 @@
   "model": "MiSS"
  },
  {
+  "brand": "Bundy Mobile",
+  "name": "BTOUCH7_PLUS",
+  "device": "BTOUCH7_PLUS",
+  "model": "BTOUCH7_PLUS"
+ },
+ {
   "brand": "Bush",
   "name": "5 android",
   "device": "ac50cpl",
@@ -26845,6 +26851,12 @@
  },
  {
   "brand": "Estar",
+  "name": "MID7399",
+  "device": "MID7399",
+  "model": "eSTAR BEAUTY 3 HD Quad core"
+ },
+ {
+  "brand": "Estar",
   "name": "eSTAR BEAUTY 2 HD Quad core",
   "device": "MID7388",
   "model": "eSTAR BEAUTY 2 HD Quad core"
@@ -33274,6 +33286,12 @@
   "name": "GPLUS_A2_Plus",
   "device": "GPLUS_A2_Plus",
   "model": "GPLUS_A2_Plus"
+ },
+ {
+  "brand": "Gplus",
+  "name": "Gplus",
+  "device": "Q10",
+  "model": "Q10"
  },
  {
   "brand": "Gplus",
@@ -69438,6 +69456,12 @@
   "model": "LINSAY F-7HD2CORE/F-7HD4CORE/F-10HD2CORE/F-10XHD4CORE"
  },
  {
+  "brand": "LLA",
+  "name": "VIP6102W-LLA",
+  "device": "vip6102w",
+  "model": "VIP6102W"
+ },
+ {
   "brand": "LOOQS",
   "name": "L108MR",
   "device": "L108MR",
@@ -83737,6 +83761,12 @@
  },
  {
   "brand": "Motorola",
+  "name": "Moto 360",
+  "device": "mola",
+  "model": "Moto 360"
+ },
+ {
+  "brand": "Motorola",
   "name": "Moto 360 (2nd Gen)",
   "device": "carp",
   "model": "Moto 360"
@@ -90874,6 +90904,12 @@
   "name": "Smart10_Pro",
   "device": "Smart10_Pro",
   "model": "Smart10_Pro"
+ },
+ {
+  "brand": "Opay",
+  "name": "M1 Lite",
+  "device": "M1_Lite",
+  "model": "M1 Lite"
  },
  {
   "brand": "OpelMobile",
@@ -121999,12 +122035,6 @@
  },
  {
   "brand": "Sony",
-  "name": "NW-A100",
-  "device": "icx1293",
-  "model": "NW-A100Series"
- },
- {
-  "brand": "Sony",
   "name": "NW-F800",
   "device": "icx1227",
   "model": "WALKMAN"
@@ -122032,12 +122062,6 @@
   "name": "NW-ZX2",
   "device": "icx1265",
   "model": "WALKMAN"
- },
- {
-  "brand": "Sony",
-  "name": "NW-ZX500",
-  "device": "icx1295",
-  "model": "NW-ZX500Series"
  },
  {
   "brand": "Sony",
@@ -124804,6 +124828,18 @@
   "name": "Xperia tipo dual",
   "device": "ST21i2",
   "model": "ST21i2"
+ },
+ {
+  "brand": "SonyAudio",
+  "name": "NW-A100",
+  "device": "icx1293",
+  "model": "NW-A100Series"
+ },
+ {
+  "brand": "SonyAudio",
+  "name": "NW-ZX500",
+  "device": "icx1295",
+  "model": "NW-ZX500Series"
  },
  {
   "brand": "Sophix_Digix",
@@ -156952,6 +156988,12 @@
   "name": "XL",
   "device": "XL",
   "model": "XL"
+ },
+ {
+  "brand": "iBRIT",
+  "name": "XLPlus",
+  "device": "XLPlus",
+  "model": "XLPlus"
  },
  {
   "brand": "iBRIT",
