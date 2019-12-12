@@ -87313,18 +87313,6 @@
  },
  {
   "brand": "NEC",
-  "name": "LAVIE Tab 8FHD1",
-  "device": "LAVIETabE8FHD1",
-  "model": "LAVIE Tab E 8FHD1"
- },
- {
-  "brand": "NEC",
-  "name": "LAVIE Tab 8HD1",
-  "device": "LAVIETabE8HD1",
-  "model": "LAVIE Tab E 8HD1"
- },
- {
-  "brand": "NEC",
   "name": "LAVIE Tab E",
   "device": "PC-TE410JAW",
   "model": "PC-TE410JAW"
@@ -87340,6 +87328,18 @@
   "name": "LAVIE Tab E 10FHD1",
   "device": "LAVIETabE10FHD1",
   "model": "LAVIE Tab E 10FHD1"
+ },
+ {
+  "brand": "NEC",
+  "name": "LAVIE Tab E 8FHD1",
+  "device": "LAVIETabE8FHD1",
+  "model": "LAVIE Tab E 8FHD1"
+ },
+ {
+  "brand": "NEC",
+  "name": "LAVIE Tab E 8HD1",
+  "device": "LAVIETabE8HD1",
+  "model": "LAVIE Tab E 8HD1"
  },
  {
   "brand": "NEC",
@@ -88078,6 +88078,12 @@
   "name": "Vivo 4G_r",
   "device": "Vivo4G_r",
   "model": "Vivo 4G_r"
+ },
+ {
+  "brand": "NOGA",
+  "name": "NOGAPAD101GHD",
+  "device": "NOGAPAD101GHD",
+  "model": "NOGAPAD101GHD"
  },
  {
   "brand": "NOGA",
