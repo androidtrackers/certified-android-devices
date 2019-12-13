@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-12-12
+Last sync is 2019-12-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1577,6 +1577,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|\xe9\xa3\x9b\xe9\xa6\xac2 Plus (T550KLC)|ASUS_X550|ASUS_X550|
 |AtGames-zooti|ZOOTI PAD ZT-701|ZT-701|ZT-701|
 |Athesi|AT-E8T|AT-E8T|AT-E8T|
+|Athesi|RT101A|RT101A|RT101A9|
 |Atria Convergence Technologies|ACT|B860H_V1|B860H|
 |Attila|Magic_1|Magic_1|Magic_1|
 |Auchan|AUCHAN|Q7T9INK|Q7T9INK|
@@ -3820,6 +3821,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Diamond|DIM100|DIM100|DIM100|
 |Diamond|Luxuary-X|Luxuary-X|Luxuary-X|
 |Diamond|MC32020|MC32020|MC32020|
+|Diamond|MC32020B|MC32020B|MC32020B|
 |Diamond|PSPCL30A0|PSPCL30A0|PSPCL30A0|
 |Dicle|DTABC2|DTABC2|DTABC2|
 |Digi|Digi C1|Digi_C1|Digi C1|
@@ -4163,6 +4165,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dragontouch|M10|M10|M10|
 |Dragontouch|M7|M7|M7|
 |Dragontouch|MAX_10|MAX_10|MAX 10|
+|Dragontouch|Notepad_Go_803|Notepad_Go_803|Notepad_Go_803|
 |Dragontouch|V10|V10|V10|
 |Dragontouch|X10|X10A|X10|
 |Dragontouch|X10|tulip-d210|X10|
@@ -4534,6 +4537,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Evercoss|U6C|U6C|U6C|
 |Evercoss|U70|U70|U70|
 |Evercoss|U70A|EVERCOSS_U70A|U70A|
+|Evercoss|U70B|U70B|U70B|
 |Evercoss|U70C|U70C|U70C|
 |Everex|Fine 7B|Fine_7B|Fine 7B|
 |Everis|E0109|E0109|E0109|
@@ -5200,6 +5204,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Geniatech|Enjoy TV Quad-Core Box|ATV581|Enjoy TV Quad-Core Box|
 |Geniatech|EnjoyTV|enjoytv|ATV495MAX|
 |Geniatech|Enjoytv_hybrid|enjoytv_hybrid|ATV598MAX|
+|Geniora|GEN1|GEN1|GEN1|
 |Geo (GeoTechVision)|GEO10|GEO10|GEO10X|
 |Gesellschaft f\xc3\xbcr SMK mBH|Tough Mobile|granite|CP600|
 |Get|Get Box|dciw387get|Get box|
@@ -15009,6 +15014,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nous|NS5002|NS5002|NS5002|
 |Nous|NS5502|NS5502|NS5502|
 |Nous|Optimum|NS5008|NS5008|
+|Novinsun|N11|N11|N11|
 |Now E|Now E|hk101|hk101|
 |Nowtha|3HT2018|3HT2018|3HT2018|
 |NuAns|NEO [Reloaded]|NEO2|NEO [Reloaded]|
@@ -17592,6 +17598,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A50|a50|SM-S506DL|
 |Samsung|Galaxy A50s|a50s|SM-A5070|
 |Samsung|Galaxy A50s|a50s|SM-A507FN|
+|Samsung|Galaxy A51|a51|SM-A515F|
 |Samsung|Galaxy A6|a6elteaio|SM-A600AZ|
 |Samsung|Galaxy A6|a6elteatt|SM-A600A|
 |Samsung|Galaxy A6|a6eltemtr|SM-A600T1|
@@ -18443,6 +18450,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Note10+ 5G|d2xq|SM-N9760|
 |Samsung|Galaxy Note10+ 5G|d2xq|SM-N976Q|
 |Samsung|Galaxy Note10+ 5G|d2xq|SM-N976V|
+|Samsung|Galaxy Note10+ 5G|d2xq2|SM-N976U|
 |Samsung|Galaxy Note2|SC-02E|SC-02E|
 |Samsung|Galaxy Note2|t03g|GT-N7100|
 |Samsung|Galaxy Note2|t03g|GT-N7100T|
@@ -19907,6 +19915,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS sense3 SHV45|PCZ|SHV45|
 |Sharp|AQUOS sense3 basic (907SH)|SG907SH|907SH|
 |Sharp|AQUOS sense3 lite|SH-RM12|SH-RM12|
+|Sharp|AQUOS sense3 plus (901SH)|SG901SH|901SH|
 |Sharp|AQUOS sense3 plus SH-RM11|SH-RM11|SH-RM11|
 |Sharp|AQUOS sense3 plus\xe3\x80\x80\xe3\x82\xb5\xe3\x82\xa6\xe3\x83\xb3\xe3\x83\x89 SHV46|OBY|SHV46|
 |Sharp|AQUOS zero|SG801SH|801SH|
@@ -20030,6 +20039,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|RZ-E302|rk3188_10P_A|RZ-E302|
 |Sharp|S3|rome_sprout|S3-SH|
 |Sharp|S5|zeon_sprout|S5-SH|
+|Sharp|S7|vespa_sprout|S7-SH|
 |Sharp|SBM204SH|SBM204SH|SBM204SH|
 |Sharp|SC-S01|scallop|SC-S01|
 |Sharp|SH-01E Vivienne Westwood|SH01EVW|SH-01EVW|

@@ -9432,6 +9432,12 @@
   "model": "AT-E8T"
  },
  {
+  "brand": "Athesi",
+  "name": "RT101A",
+  "device": "RT101A",
+  "model": "RT101A9"
+ },
+ {
   "brand": "Atria Convergence Technologies",
   "name": "ACT",
   "device": "B860H_V1",
@@ -22891,6 +22897,12 @@
  },
  {
   "brand": "Diamond",
+  "name": "MC32020B",
+  "device": "MC32020B",
+  "model": "MC32020B"
+ },
+ {
+  "brand": "Diamond",
   "name": "PSPCL30A0",
   "device": "PSPCL30A0",
   "model": "PSPCL30A0"
@@ -24946,6 +24958,12 @@
   "name": "MAX_10",
   "device": "MAX_10",
   "model": "MAX 10"
+ },
+ {
+  "brand": "Dragontouch",
+  "name": "Notepad_Go_803",
+  "device": "Notepad_Go_803",
+  "model": "Notepad_Go_803"
  },
  {
   "brand": "Dragontouch",
@@ -27172,6 +27190,12 @@
   "name": "U70A",
   "device": "EVERCOSS_U70A",
   "model": "U70A"
+ },
+ {
+  "brand": "Evercoss",
+  "name": "U70B",
+  "device": "U70B",
+  "model": "U70B"
  },
  {
   "brand": "Evercoss",
@@ -31168,6 +31192,12 @@
   "name": "Enjoytv_hybrid",
   "device": "enjoytv_hybrid",
   "model": "ATV598MAX"
+ },
+ {
+  "brand": "Geniora",
+  "name": "GEN1",
+  "device": "GEN1",
+  "model": "GEN1"
  },
  {
   "brand": "Geo (GeoTechVision)",
@@ -90024,6 +90054,12 @@
   "model": "NS5008"
  },
  {
+  "brand": "Novinsun",
+  "name": "N11",
+  "device": "N11",
+  "model": "N11"
+ },
+ {
   "brand": "Now E",
   "name": "Now E",
   "device": "hk101",
@@ -105523,6 +105559,12 @@
  },
  {
   "brand": "Samsung",
+  "name": "Galaxy A51",
+  "device": "a51",
+  "model": "SM-A515F"
+ },
+ {
+  "brand": "Samsung",
   "name": "Galaxy A6",
   "device": "a6elteaio",
   "model": "SM-A600AZ"
@@ -110626,6 +110668,12 @@
   "name": "Galaxy Note10+ 5G",
   "device": "d2xq",
   "model": "SM-N976V"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Note10+ 5G",
+  "device": "d2xq2",
+  "model": "SM-N976U"
  },
  {
   "brand": "Samsung",
@@ -119413,6 +119461,12 @@
  },
  {
   "brand": "Sharp",
+  "name": "AQUOS sense3 plus (901SH)",
+  "device": "SG901SH",
+  "model": "901SH"
+ },
+ {
+  "brand": "Sharp",
   "name": "AQUOS sense3 plus SH-RM11",
   "device": "SH-RM11",
   "model": "SH-RM11"
@@ -120148,6 +120202,12 @@
   "name": "S5",
   "device": "zeon_sprout",
   "model": "S5-SH"
+ },
+ {
+  "brand": "Sharp",
+  "name": "S7",
+  "device": "vespa_sprout",
+  "model": "S7-SH"
  },
  {
   "brand": "Sharp",
