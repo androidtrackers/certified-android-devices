@@ -90823,6 +90823,12 @@
  },
  {
   "brand": "OnePlus",
+  "name": "OnePlus 7T Pro 5G",
+  "device": "OnePlus7TProNR",
+  "model": "HD1925"
+ },
+ {
+  "brand": "OnePlus",
   "name": "OnePlus2",
   "device": "OnePlus2",
   "model": "ONE A2003"
@@ -120994,6 +121000,12 @@
   "name": "LABS SOLARIN",
   "device": "solarin",
   "model": "Solarin"
+ },
+ {
+  "brand": "Sky (CH)",
+  "name": "Sky TV Stick",
+  "device": "DV6067Y_SKY",
+  "model": "Sky TV Stick"
  },
  {
   "brand": "Sky Devices",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-12-13
+Last sync is 2019-12-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -15142,6 +15142,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 7T|OnePlus7T|HD1905|
 |OnePlus|OnePlus 7T|OnePlus7TTMO|HD1907|
 |OnePlus|OnePlus 7T Pro|OnePlus7TPro|HD1913|
+|OnePlus|OnePlus 7T Pro 5G|OnePlus7TProNR|HD1925|
 |OnePlus|OnePlus2|OnePlus2|ONE A2003|
 |OnePlus|OnePlus3|OnePlus3|ONEPLUS A3000|
 |OnePlus|OnePlus3T|OnePlus3T|ONEPLUS A3000|
@@ -20171,6 +20172,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sirin|FINNEY PHONE|SR00300-W|FINNEY U1|
 |Sirin|LABS SOLARIN|solarin|SOLARIN|
 |Sirin|LABS SOLARIN|solarin|Solarin|
+|Sky (CH)|Sky TV Stick|DV6067Y_SKY|Sky TV Stick|
 |Sky Devices|ELITE 4.0S|Elite_4_0S_GT_Tigo|Elite_4.0S|
 |Sky Devices|ELITE 4.0S|Elite_4_0S_HN_Tigo|Elite_4.0S|
 |Sky Devices|ELITE 45T|Elite_45T_GT|Elite 45T|
