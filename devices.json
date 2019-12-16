@@ -11755,6 +11755,12 @@
  },
  {
   "brand": "BQru",
+  "name": "BQ-6424L",
+  "device": "BQru-6424L",
+  "model": "BQ-6424L"
+ },
+ {
+  "brand": "BQru",
   "name": "BQ-7000G",
   "device": "BQru-7000G",
   "model": "BQ-7000G"
@@ -15786,6 +15792,12 @@
   "model": "C71"
  },
  {
+  "brand": "CHAINWAY",
+  "name": "P80",
+  "device": "P80",
+  "model": "P80"
+ },
+ {
   "brand": "CHCNAV",
   "name": "LT700",
   "device": "LT700",
@@ -15796,6 +15808,12 @@
   "name": "CHN-UCAN MJ",
   "device": "lefhd",
   "model": "CHN-UCAN MJ"
+ },
+ {
+  "brand": "CILICO",
+  "name": "C6",
+  "device": "C6",
+  "model": "C6"
  },
  {
   "brand": "CJHelloVision",
@@ -60343,6 +60361,12 @@
  },
  {
   "brand": "Klipad",
+  "name": "KL7590_eea",
+  "device": "KL7590",
+  "model": "KL7590"
+ },
+ {
+  "brand": "Klipad",
   "name": "KL7591",
   "device": "KL7591",
   "model": "KL7591"
@@ -85726,6 +85750,12 @@
   "name": "M8418",
   "device": "M8418",
   "model": "M8418"
+ },
+ {
+  "brand": "Movitel",
+  "name": "M8419",
+  "device": "M8419",
+  "model": "M8419"
  },
  {
   "brand": "Movitel",
@@ -121153,6 +121183,12 @@
  },
  {
   "brand": "Sky Devices",
+  "name": "Elite T6",
+  "device": "Elite_T6",
+  "model": "Elite T6"
+ },
+ {
+  "brand": "Sky Devices",
   "name": "Fuego 4.0T",
   "device": "Fuego_4_0T_EC",
   "model": "Fuego 4.0T"
@@ -121336,6 +121372,12 @@
   "name": "SKY Black",
   "device": "SKY_Black",
   "model": "SKY Black"
+ },
+ {
+  "brand": "Sky Devices",
+  "name": "SKY Prestige",
+  "device": "SKY_Prestige",
+  "model": "SKY Prestige"
  },
  {
   "brand": "Sky Devices",
@@ -127114,6 +127156,12 @@
   "name": "TCL L9 Plus",
   "device": "Wright",
   "model": "5101J"
+ },
+ {
+  "brand": "TCL",
+  "name": "TCL L9S",
+  "device": "Tokyo_Lite",
+  "model": "5107G"
  },
  {
   "brand": "TCL",

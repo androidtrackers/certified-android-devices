@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-12-15
+Last sync is 2019-12-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1964,6 +1964,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-6035L|BQru-6035L|BQ-6035L|
 |BQru|BQ-6040L|BQru-6040L|BQ-6040L|
 |BQru|BQ-6200L Aurora|BQru-6200L|BQ-6200L|
+|BQru|BQ-6424L|BQru-6424L|BQ-6424L|
 |BQru|BQ-7000G|BQru-7000G|BQ-7000G|
 |BQru|BQ-7022G|BQru-7022|BQ-7022|
 |BQru|BQ-7036L|BQru-7036L|BQ-7036L|
@@ -2636,8 +2637,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CGV (France)|Ultimate T8|Ultimate_T8|CGV_Ultimate T8|
 |CHAINWAY|C66|C66|C66|
 |CHAINWAY|C71|C71|C71|
+|CHAINWAY|P80|P80|P80|
 |CHCNAV|LT700|LT700|LT700|
 |CHN TELECOM|CHN-UCAN MJ|lefhd|CHN-UCAN MJ|
+|CILICO|C6|C6|C6|
 |CJHelloVision|CJ680CL|cj680cl|GX-CJ680CL|
 |CJHelloVision|Hello TV Smart|SX930C_CJ|SX930C_CJ|
 |CJHelloVision|viewing|kr101|kr101|
@@ -10062,6 +10065,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Klipad|KL600B|KLIPAD_KL600B|KL600B|
 |Klipad|KL601|KL601|KL601|
 |Klipad|KL7590|KL7590|KL7590|
+|Klipad|KL7590_eea|KL7590|KL7590|
 |Klipad|KL7591|KL7591|KL7591|
 |Klipad|KL7599|KL7599|KL7599|
 |Klipad|KL7809|KL7809|KL7809|
@@ -14293,6 +14297,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Movitel|M8415|M8415|M8415|
 |Movitel|M8416|M8416|M8416|
 |Movitel|M8418|M8418|M8418|
+|Movitel|M8419|M8419|M8419|
 |Movitel|M8601|Movitel_M8601|M8601|
 |Movitel|M9101A|M9101A|M9101A|
 |Movitel|M9101B|M9101B|M9101B|
@@ -20197,6 +20202,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|Elite T45|Elite_T45|Elite T45|
 |Sky Devices|Elite T55|Elite_T55_HN|Elite T55|
 |Sky Devices|Elite T55|Elite_T55_SV|Elite T55|
+|Sky Devices|Elite T6|Elite_T6|Elite T6|
 |Sky Devices|Fuego 4.0T|Fuego_4_0T_EC|Fuego 4.0T|
 |Sky Devices|PLATINUM 4.0|Platinum_40|Platinum 4.0|
 |Sky Devices|PLATINUM 4.0|Platinum_4_0|Platinum 4.0|
@@ -20228,6 +20234,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|SKY 5.0Pro II|SKY_50Pro_II|SKY 5.0Pro II|
 |Sky Devices|SKY 55M|SKY_55M|SKY 55M|
 |Sky Devices|SKY Black|SKY_Black|SKY Black|
+|Sky Devices|SKY Prestige|SKY_Prestige|SKY Prestige|
 |Sky Devices|SKY VISION1|SKYVISION|SKYVISION|
 |Sky Devices|SKY_Pro_III|SKY_Pro_III|SKY_Pro_III|
 |Sky Devices|Sky Vision2|Sky_Vision2|Sky Vision2|
@@ -21191,6 +21198,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL L9|U5A_PLUS_4G|5159J|
 |TCL|TCL L9 Plus|Wright|5101A|
 |TCL|TCL L9 Plus|Wright|5101J|
+|TCL|TCL L9S|Tokyo_Lite|5107G|
 |TCL|TCL PLEX|T1|T780H|
 |TCL|TCL T7|A5A_INFINI|5186A|
 |TCL|TCL T9|Venice|5148A|
