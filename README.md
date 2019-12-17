@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-12-16
+Last sync is 2019-12-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4327,6 +4327,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Electroneum|electroneumM1|electroneumM1|electroneumM1|
 |Element|USA & CANADA|Tiger838|TU43GDX|
 |Elephone|A2|A2|A2|
+|Elephone|A3_Pro|A3_Pro|A3_Pro|
 |Elephone|A4|A4|A4|
 |Elephone|A4_Pro|A4_Pro|A4_Pro|
 |Elephone|A5|A5|A5|
@@ -4446,6 +4447,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Enspert|Wiko CINK FIVE|s9201|Cynus T5|
 |Enspert|orion|orion|NGM Orion|
 |Enspert|vanitysmart|vanitysmart|NGM Vanity Smart|
+|Entel|DECO ENTEL|DIW585|DECO ENTEL|
 |Entel|OWN I62S|OWN-I62S|OWN-I62S|
 |Entel|S3015|S3015|S3015|
 |Envizen|ClickTabDSh18|ClickTabDSh18|ClickTabDSh18|
@@ -16170,6 +16172,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pioneer|Navigation|NVF_0188ZY|jupiter|
 |Pioneer|Navigation|NVF_0288ZY|jupiter|
 |Pioneer|R1|RCK8726Y703H|R1|
+|Pioneer|SDA-835TAB|SDA_835TAB|SDA-835TAB|
+|Pioneer|SDA-8TAB|SDA_8TAB|SDA-8TAB|
 |Pioneer|XDP-100R|Fu_Zin_32|XDP-100R|
 |Pioneer|XDP-300R|Fu_Zin2R_32|XDP-300R|
 |Pitney Bowes|SendPro C Series|TitanX2|CSD-TXT2|
@@ -19922,6 +19926,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS sense3 basic (907SH)|SG907SH|907SH|
 |Sharp|AQUOS sense3 lite|SH-RM12|SH-RM12|
 |Sharp|AQUOS sense3 plus (901SH)|SG901SH|901SH|
+|Sharp|AQUOS sense3 plus SH-M11|SH-M11|SH-M11|
 |Sharp|AQUOS sense3 plus SH-RM11|SH-RM11|SH-RM11|
 |Sharp|AQUOS sense3 plus\xe3\x80\x80\xe3\x82\xb5\xe3\x82\xa6\xe3\x83\xb3\xe3\x83\x89 SHV46|OBY|SHV46|
 |Sharp|AQUOS zero|SG801SH|801SH|

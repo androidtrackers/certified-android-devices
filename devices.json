@@ -25933,6 +25933,12 @@
  },
  {
   "brand": "Elephone",
+  "name": "A3_Pro",
+  "device": "A3_Pro",
+  "model": "A3_Pro"
+ },
+ {
+  "brand": "Elephone",
   "name": "A4",
   "device": "A4",
   "model": "A4"
@@ -26644,6 +26650,12 @@
   "name": "vanitysmart",
   "device": "vanitysmart",
   "model": "NGM Vanity Smart"
+ },
+ {
+  "brand": "Entel",
+  "name": "DECO ENTEL",
+  "device": "DIW585",
+  "model": "DECO ENTEL"
  },
  {
   "brand": "Entel",
@@ -96991,6 +97003,18 @@
  },
  {
   "brand": "Pioneer",
+  "name": "SDA-835TAB",
+  "device": "SDA_835TAB",
+  "model": "SDA-835TAB"
+ },
+ {
+  "brand": "Pioneer",
+  "name": "SDA-8TAB",
+  "device": "SDA_8TAB",
+  "model": "SDA-8TAB"
+ },
+ {
+  "brand": "Pioneer",
   "name": "XDP-100R",
   "device": "Fu_Zin_32",
   "model": "XDP-100R"
@@ -119500,6 +119524,12 @@
   "name": "AQUOS sense3 plus (901SH)",
   "device": "SG901SH",
   "model": "901SH"
+ },
+ {
+  "brand": "Sharp",
+  "name": "AQUOS sense3 plus SH-M11",
+  "device": "SH-M11",
+  "model": "SH-M11"
  },
  {
   "brand": "Sharp",
