@@ -30528,6 +30528,12 @@
   "model": "VIEWPAD M10M"
  },
  {
+  "brand": "G-Guard",
+  "name": "fushan_Guard",
+  "device": "hamamatsucho",
+  "model": "Smart TV"
+ },
+ {
   "brand": "G-TOUCH",
   "name": "Stella X",
   "device": "Stella_X",
@@ -33352,6 +33358,12 @@
   "name": "Gplus",
   "device": "Q10",
   "model": "Q10"
+ },
+ {
+  "brand": "Gplus",
+  "name": "Gplus",
+  "device": "T10",
+  "model": "T10"
  },
  {
   "brand": "Gplus",
@@ -58374,6 +58386,12 @@
   "model": "NID_7010"
  },
  {
+  "brand": "J:COM",
+  "name": "XA401",
+  "device": "XA401",
+  "model": "XA401"
+ },
+ {
   "brand": "JLab",
   "name": "PRO-7",
   "device": "polaris-p1gms",
@@ -59298,12 +59316,6 @@
   "model": "SMARTTVBOX"
  },
  {
-  "brand": "KDDI",
-  "name": "XA401",
-  "device": "XA401",
-  "model": "XA401"
- },
- {
   "brand": "KEMPLER STRAUSS",
   "name": "KEMP1HEAD",
   "device": "KEMP1HEAD",
@@ -60106,6 +60118,12 @@
   "name": "W55M",
   "device": "W55M",
   "model": "W55M"
+ },
+ {
+  "brand": "Kenxinda",
+  "name": "W55Y",
+  "device": "W55Y",
+  "model": "W55Y"
  },
  {
   "brand": "Kenxinda",
@@ -61372,6 +61390,18 @@
   "name": "KC-01",
   "device": "KC-01",
   "model": "KC-01"
+ },
+ {
+  "brand": "Kyocera",
+  "name": "KC-T302DT",
+  "device": "KC-T302DT",
+  "model": "KC-T302DT"
+ },
+ {
+  "brand": "Kyocera",
+  "name": "KC-T302DT",
+  "device": "SZJ202",
+  "model": "SZJ-JS202"
  },
  {
   "brand": "Kyocera",
@@ -77941,6 +77971,12 @@
  },
  {
   "brand": "MU (TH)",
+  "name": "3",
+  "device": "3",
+  "model": "3"
+ },
+ {
+  "brand": "MU (TH)",
   "name": "mu 1",
   "device": "mu_1",
   "model": "1"
@@ -86338,6 +86374,12 @@
   "name": "Multilaser_F",
   "device": "Multilaser_F",
   "model": "Multilaser_F"
+ },
+ {
+  "brand": "My",
+  "name": "Android TV",
+  "device": "yeoksam",
+  "model": "Android TV"
  },
  {
   "brand": "My",
@@ -97483,7 +97525,7 @@
  },
  {
   "brand": "Point Mobile",
-  "name": "pm90",
+  "name": "PM90",
   "device": "pm90",
   "model": "PM90"
  },
@@ -126829,6 +126871,12 @@
  },
  {
   "brand": "Symphony",
+  "name": "Z25",
+  "device": "Z25",
+  "model": "Z25"
+ },
+ {
+  "brand": "Symphony",
   "name": "ZVII",
   "device": "ZVII",
   "model": "ZVII"
@@ -146390,6 +146438,12 @@
  {
   "brand": "Xiaomi",
   "name": "MiTV",
+  "device": "machuca",
+  "model": "MiTV-MSSP3"
+ },
+ {
+  "brand": "Xiaomi",
+  "name": "MiTV",
   "device": "magnolia",
   "model": "MiTV4I"
  },
@@ -146398,6 +146452,12 @@
   "name": "MiTV",
   "device": "nino",
   "model": "MiTV-MSSP1"
+ },
+ {
+  "brand": "Xiaomi",
+  "name": "MiTV",
+  "device": "volver",
+  "model": "MiTV-MSSP2"
  },
  {
   "brand": "Xiaomi",

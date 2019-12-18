@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-12-17
+Last sync is 2019-12-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5093,6 +5093,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Future Mobile Technology|netsurferDUAL 7|FMT-NM7116-01|FMT-NM7116-01|
 |Fxtec|Fxtec QX1000|QX1000|QX1000|
 |G Y P NEW TREE SA|VIEWPAD M10M|M10M|VIEWPAD M10M|
+|G-Guard|fushan_Guard|hamamatsucho|Smart TV|
 |G-TOUCH|Stella X|Stella_X|Stella X|
 |G-TOUCH|Stella XS|Stella_XS|Stella XS|
 |G-TOUCH|Stella_Omega|Stella_Omega|Stella Omega|
@@ -5564,6 +5565,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gplus|FW6950|GPLUS_FW6950|GPLUS_FW6950|
 |Gplus|GPLUS_A2_Plus|GPLUS_A2_Plus|GPLUS_A2_Plus|
 |Gplus|Gplus|Q10|Q10|
+|Gplus|Gplus|T10|T10|
 |Gplus|LTE960Plus|LTE960Plus|LTE960Plus|
 |Gplus|S9701|GPLUS_S9701|GPLUS_S9701|
 |Gradiente|iphone C600|GBC_bravo|iphone C600|
@@ -9734,6 +9736,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel W5001P|itel-W5001P|itel W5001P|
 |Itel|itel W5503|itel-W5503|itel W5503|
 |Itworks|TM705|TM705|NID_7010|
+|J:COM|XA401|XA401|XA401|
 |JLab|PRO-7|polaris-p1gms|JLab PRO-7|
 |JP Sacouto|Flag Mill v2|MG101A2T_BT|Flag Mill v2|
 |JP Sacouto|Flag Mill v2|MG101A2T_BT_A50|Flag Mill v2|
@@ -9888,7 +9891,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KDDI|Power Up Unit|C02BB1|C02BB1|
 |KDDI|STW2000|H02ST1|STW2000|
 |KDDI|SmartTV Box|C01AS|SMARTTVBOX|
-|KDDI|XA401|XA401|XA401|
 |KEMPLER STRAUSS|KEMP1HEAD|KEMP1HEAD|KEMP1HEAD|
 |KEMPLER STRAUSS|KEMPLER 9|KEMPLER_9|KEMPLER_9|
 |KEMPLER STRAUSS|KEMPLER TV|KEMPLER_TV|KEMPLER_TV|
@@ -10023,6 +10025,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kenxinda|W50M|W50M|W50M|
 |Kenxinda|W50Y|W50Y|W50Y|
 |Kenxinda|W55M|W55M|W55M|
+|Kenxinda|W55Y|W55Y|W55Y|
 |Kenxinda|Y10|Y10|Y10|
 |Kenxinda|Y20|Y20|Y20|
 |Kenxinda|Y30|Y30|Y30|
@@ -10234,6 +10237,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|Hydro XTRM|C6721|USCC-C6721|
 |Kyocera|INFOBAR A03|KYV33|KYV33|
 |Kyocera|KC-01|KC-01|KC-01|
+|Kyocera|KC-T302DT|KC-T302DT|KC-T302DT|
+|Kyocera|KC-T302DT|SZJ202|SZJ-JS202|
 |Kyocera|LUCE|KCP01K|KCP01K|
 |Kyocera|LifeWatch Universal Gateway|CD8100|CD8100|
 |Kyocera|Milano|C5120|C5120|
@@ -12995,6 +13000,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MTT|Master|Master|M.T.T. Master|
 |MTT|Smart Fun|SmartFun|M.T.T. Smart Fun|
 |MTab|MT3|MT3|MT3|
+|MU (TH)|3|3|3|
 |MU (TH)|mu 1|mu_1|1|
 |Mach Speed|xtreme|X_treme_Play_Tab|X-treme Play Tab|
 |MachSpeed (Apollo Brands)|STR-9.6-Tablet|STR_96_Tablet|STR-9.6-Tablet|
@@ -14395,6 +14401,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|Multilaser G Pro|Multilaser_G_Pro|Multilaser_G_Pro|
 |Multilaser|Multilaser H|Multilaser_H|Multilaser H|
 |Multilaser|Multilaser_F|Multilaser_F|Multilaser_F|
+|My|Android TV|yeoksam|Android TV|
 |My|Android TV|yeoksam|Cosmos|
 |My Go|GoTab GBT10|GBT10|GoTab_GBT10|
 |MyBox|MBIF-H533|DV8020|MBIF-H533|
@@ -16252,7 +16259,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Point Mobile|PM85|pm85|PM85|
 |Point Mobile|PM85|pm85e|PM85E|
 |Point Mobile|PM85R|pm85r|PM85R|
-|Point Mobile|pm90|pm90|PM90|
+|Point Mobile|PM90|pm90|PM90|
 |Pokini|K6|K6|K6|
 |Polar|M600|pike|Polar M600|
 |Polaris|Condroid_X7|polaris-Condroid_X7|Condroid_X7|
@@ -21143,6 +21150,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|V98|V98|V98|
 |Symphony|Z10|Z10|SYMPHONY Z10|
 |Symphony|Z20|Z20|Z20|
+|Symphony|Z25|Z25|Z25|
 |Symphony|ZVII|ZVII|ZVII|
 |Symphony|ZVIII|ZVIII|ZVIII|
 |Symphony|i10|i10|i10|
@@ -24403,8 +24411,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|MiTV|dangal|MiTV-AXSO0|
 |Xiaomi|MiTV|dangalFHD|MiTV-AXSO1|
 |Xiaomi|MiTV|dangalUHD|MiTV-AXSO2|
+|Xiaomi|MiTV|machuca|MiTV-MSSP3|
 |Xiaomi|MiTV|magnolia|MiTV4I|
 |Xiaomi|MiTV|nino|MiTV-MSSP1|
+|Xiaomi|MiTV|volver|MiTV-MSSP2|
 |Xiaomi|MiTV2|entrapment|MiTV2|
 |Xiaomi|POCO F1|beryllium|POCOPHONE F1|
 |Xiaomi|Redmi|HM2013023|2013023|
