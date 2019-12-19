@@ -16080,6 +16080,12 @@
   "model": "M77XG"
  },
  {
+  "brand": "Capstone",
+  "name": "CAP-001M",
+  "device": "CAP-001M",
+  "model": "CAP-001M"
+ },
+ {
   "brand": "Captiva",
   "name": "CAPTIVA Pad 10 3G Plus",
   "device": "Pad_10_3G_Plus",
@@ -88201,6 +88207,12 @@
  },
  {
   "brand": "NOGA",
+  "name": "NOGAPAD101XTREME",
+  "device": "NOGAPAD101XTREME",
+  "model": "NOGAPAD101XTREME"
+ },
+ {
+  "brand": "NOGA",
   "name": "NOGAPAD7G",
   "device": "NOGAPAD7G",
   "model": "NOGAPAD7G"
@@ -127243,6 +127255,12 @@
  },
  {
   "brand": "TCL",
+  "name": "TCL L9S",
+  "device": "Tokyo_Lite",
+  "model": "5107J"
+ },
+ {
+  "brand": "TCL",
   "name": "TCL PLEX",
   "device": "T1",
   "model": "T780H"
@@ -127882,6 +127900,12 @@
   "name": "\\t ALCATEL ONETOUCH PIXI 3 (4.5)",
   "device": "PIXI3_45_4G",
   "model": "5017X"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "3T10 4G",
+  "device": "A3A_10_4G",
+  "model": "8088G"
  },
  {
   "brand": "TCT (Alcatel)",
@@ -130867,6 +130891,18 @@
  },
  {
   "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1B",
+  "device": "Seoul",
+  "model": "5002A"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1B",
+  "device": "Seoul",
+  "model": "5002D"
+ },
+ {
+  "brand": "TCT (Alcatel)",
   "name": "Alcatel 1C",
   "device": "Curie",
   "model": "5003D"
@@ -130983,6 +131019,18 @@
   "brand": "TCT (Alcatel)",
   "name": "Alcatel 1S",
   "device": "Tokyo",
+  "model": "5028D_RU"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1S",
+  "device": "Tokyo",
+  "model": "5028Y"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1S",
+  "device": "Tokyo",
   "model": "5028Y_EEA"
  },
  {
@@ -131002,6 +131050,12 @@
   "name": "Alcatel 1V",
   "device": "Tokyo_Lite",
   "model": "5007U"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1V",
+  "device": "Tokyo_Lite",
+  "model": "5007U_EEA"
  },
  {
   "brand": "TCT (Alcatel)",
@@ -131194,6 +131248,12 @@
   "name": "Alcatel 3",
   "device": "Gauss",
   "model": "5053Y_RU"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 3C",
+  "device": "5006",
+  "model": "5006A"
  },
  {
   "brand": "TCT (Alcatel)",
@@ -143304,6 +143364,12 @@
   "model": "F808NM"
  },
  {
+  "brand": "Waf",
+  "name": "THMTKAW01216_eea",
+  "device": "THMTKAW01216",
+  "model": "Surftab WAF"
+ },
+ {
   "brand": "Walton",
   "name": "LT750",
   "device": "LT750",
@@ -150499,6 +150565,12 @@
  },
  {
   "brand": "ZTE",
+  "name": "China Mobile Forerunner X1",
+  "device": "P855A23",
+  "model": "CMCC M970"
+ },
+ {
+  "brand": "ZTE",
   "name": "ConeXis A1",
   "device": "ZTE_BLADE_L110",
   "model": "ConeXis A1"
@@ -153013,6 +153085,12 @@
  },
  {
   "brand": "ZTE",
+  "name": "T98",
+  "device": "primrose",
+  "model": "T98"
+ },
+ {
+  "brand": "ZTE",
   "name": "TE BLADE B125",
   "device": "P809F01",
   "model": "ZTE BLADE B125"
@@ -154345,6 +154423,18 @@
  },
  {
   "brand": "ZTE",
+  "name": "Z6530M",
+  "device": "Z6530",
+  "model": "Z6530M"
+ },
+ {
+  "brand": "ZTE",
+  "name": "Z6530V",
+  "device": "Z6530",
+  "model": "Z6530V"
+ },
+ {
+  "brand": "ZTE",
   "name": "Z660G",
   "device": "nice",
   "model": "Z660G"
@@ -154597,6 +154687,12 @@
  },
  {
   "brand": "ZTE",
+  "name": "Z851M",
+  "device": "jeff",
+  "model": "Z851M"
+ },
+ {
+  "brand": "ZTE",
   "name": "Z861BL",
   "device": "benz",
   "model": "Z861BL"
@@ -154801,6 +154897,18 @@
  },
  {
   "brand": "ZTE",
+  "name": "ZTE 2050",
+  "device": "P671F50_D",
+  "model": "ZTE 2050"
+ },
+ {
+  "brand": "ZTE",
+  "name": "ZTE 2050RU",
+  "device": "P671F50_D",
+  "model": "ZTE 2050RU"
+ },
+ {
+  "brand": "ZTE",
   "name": "ZTE A0616",
   "device": "P637S15",
   "model": "ZTE A0616"
@@ -154897,6 +155005,12 @@
  },
  {
   "brand": "ZTE",
+  "name": "ZTE A7010",
+  "device": "P662S02",
+  "model": "ZTE A7010"
+ },
+ {
+  "brand": "ZTE",
   "name": "ZTE AVID 4",
   "device": "calbee",
   "model": "Z855"
@@ -154912,6 +155026,12 @@
   "name": "ZTE Axon 10 Pro",
   "device": "P855A01",
   "model": "ZTE A2020G Pro"
+ },
+ {
+  "brand": "ZTE",
+  "name": "ZTE Axon 10 Pro",
+  "device": "P855A01",
+  "model": "ZTE A2020RU Pro"
  },
  {
   "brand": "ZTE",
@@ -155269,6 +155389,12 @@
  },
  {
   "brand": "ZTE",
+  "name": "ZTE Blade A5 2020RU",
+  "device": "P963F50",
+  "model": "ZTE Blade A5 2020RU"
+ },
+ {
+  "brand": "ZTE",
   "name": "ZTE Blade A522",
   "device": "P817E53",
   "model": "ZTE Blade A522"
@@ -155296,6 +155422,12 @@
   "name": "ZTE Blade A7 2020RU",
   "device": "P662F02D",
   "model": "ZTE Blade A7 2020RU"
+ },
+ {
+  "brand": "ZTE",
+  "name": "ZTE Blade A7s",
+  "device": "P662F02",
+  "model": "ZTE Blade A7s"
  },
  {
   "brand": "ZTE",
@@ -155461,6 +155593,12 @@
  },
  {
   "brand": "ZTE",
+  "name": "ZTE ZPAD8",
+  "device": "K83",
+  "model": "K83V"
+ },
+ {
+  "brand": "ZTE",
   "name": "ZTE-V9VITA",
   "device": "P840F03",
   "model": "ZTE-V9VITA"
@@ -155470,6 +155608,18 @@
   "name": "ZTE_Blade_V1000",
   "device": "P671F20",
   "model": "ZTE Blade V1000"
+ },
+ {
+  "brand": "ZTE",
+  "name": "ZTE_V971LM",
+  "device": "ZTE_V971LM",
+  "model": "ZTE_V971LM"
+ },
+ {
+  "brand": "ZTE",
+  "name": "ZTE_V97L",
+  "device": "ZTE_V97L",
+  "model": "ZTE_V97L"
  },
  {
   "brand": "ZTE",

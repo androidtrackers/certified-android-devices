@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-12-18
+Last sync is 2019-12-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2685,6 +2685,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Candor|PHS-601|phs601|PHS-601|
 |Canguro|M75TG|M75TG|M75TG|
 |Canguro|M77XG|M77XG|M77XG|
+|Capstone|CAP-001M|CAP-001M|CAP-001M|
 |Captiva|CAPTIVA Pad 10 3G Plus|Pad_10_3G_Plus|Captiva Pad 10 3G Plus|
 |Captiva|Pad 10 2-in-1|Pad_10_2_in_1|Pad_10_2_in_1|
 |Captiva|Pad 10 3G pLUS|Pad_10_3G_Plus|Captiva Pad 10 3G Plus|
@@ -14705,6 +14706,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NOA Mobile|SparkSE|SparkSE|SparkSE|
 |NOA Mobile|Vivo 4G_r|Vivo4G_r|Vivo 4G_r|
 |NOGA|NOGAPAD101GHD|NOGAPAD101GHD|NOGAPAD101GHD|
+|NOGA|NOGAPAD101XTREME|NOGAPAD101XTREME|NOGAPAD101XTREME|
 |NOGA|NOGAPAD7G|NOGAPAD7G|NOGAPAD7G|
 |NVIDIA|SHIELD Android TV|foster|SHIELD Android TV|
 |NVIDIA|SHIELD Android TV|foster|SHIELD Console|
@@ -21212,6 +21214,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL L9 Plus|Wright|5101A|
 |TCL|TCL L9 Plus|Wright|5101J|
 |TCL|TCL L9S|Tokyo_Lite|5107G|
+|TCL|TCL L9S|Tokyo_Lite|5107J|
 |TCL|TCL PLEX|T1|T780H|
 |TCL|TCL T7|A5A_INFINI|5186A|
 |TCL|TCL T9|Venice|5148A|
@@ -21319,6 +21322,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)||one_touch_996_gsm|Orange_infinity_996|
 |TCT (Alcatel)|\t ALCATEL ONETOUCH PIXI 3 (3.5)|PIXI3_35|SoshPhone_mini|
 |TCT (Alcatel)|\t ALCATEL ONETOUCH PIXI 3 (4.5)|PIXI3_45_4G|5017X|
+|TCT (Alcatel)|3T10 4G|A3A_10_4G|8088G|
 |TCT (Alcatel)|3T10 4G|A3A_10_4G|8088X|
 |TCT (Alcatel)|4013M|Pixi3-4|4013M|
 |TCT (Alcatel)|4014A|Pixi3-4|4014A|
@@ -21816,6 +21820,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|Alcatel T 5033T|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|HEYOU10|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|Optus X Start|
+|TCT (Alcatel)|Alcatel 1B|Seoul|5002A|
+|TCT (Alcatel)|Alcatel 1B|Seoul|5002D|
 |TCT (Alcatel)|Alcatel 1C|Curie|5003D|
 |TCT (Alcatel)|Alcatel 1C|Curie|5003D_EEA|
 |TCT (Alcatel)|Alcatel 1C|Curie|Listo SP50|
@@ -21835,10 +21841,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1S|Tokyo|5028A|
 |TCT (Alcatel)|Alcatel 1S|Tokyo|5028D|
 |TCT (Alcatel)|Alcatel 1S|Tokyo|5028D_EEA|
+|TCT (Alcatel)|Alcatel 1S|Tokyo|5028D_RU|
+|TCT (Alcatel)|Alcatel 1S|Tokyo|5028Y|
 |TCT (Alcatel)|Alcatel 1S|Tokyo|5028Y_EEA|
 |TCT (Alcatel)|Alcatel 1T 7 WIFI|U3A_7_WIFI|8068|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007G|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007U|
+|TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007U_EEA|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007U_RU|
 |TCT (Alcatel)|Alcatel 1V|Wright|5001A|
 |TCT (Alcatel)|Alcatel 1V|Wright|5001D_EEA|
@@ -21871,6 +21880,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 3|Gauss|5053Y|
 |TCT (Alcatel)|Alcatel 3|Gauss|5053Y_EEA|
 |TCT (Alcatel)|Alcatel 3|Gauss|5053Y_RU|
+|TCT (Alcatel)|Alcatel 3C|5006|5006A|
 |TCT (Alcatel)|Alcatel 3C|5006|5006G|
 |TCT (Alcatel)|Alcatel 3L|A3A_LITE|5034D|
 |TCT (Alcatel)|Alcatel 3L|A3A_LITE|5034D_EEA|
@@ -23889,6 +23899,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wacom|Cintiq Companion Hybrid 13HD|CintiqCompanionHybrid13HD|Cintiq Companion Hybrid 13HD|
 |Waf|F803YM|F803YM|F803YM|
 |Waf|F808NM|F808NM|F808NM|
+|Waf|THMTKAW01216_eea|THMTKAW01216|Surftab WAF|
 |Walton|LT750|LT750|LT750|
 |Walton|PRIMO NH4|PRIMO_NH4|PRIMO NH4|
 |Walton|PRIMO_S7|Primo_S7|Primo S7|
@@ -25088,6 +25099,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|C880U|P635V32|ZTE C880U|
 |ZTE|CELL C EMPIRE E8|P635F50|CELL C EMPIRE E8|
 |ZTE|Chapel|chapel|Z831|
+|ZTE|China Mobile Forerunner X1|P855A23|CMCC M970|
 |ZTE|ConeXis A1|ZTE_BLADE_L110|ConeXis A1|
 |ZTE|ConeXis X1|P809F52|ConeXis X1|
 |ZTE|ConeXis X2|ZTE_BLADE_V0850|ConeXis X2|
@@ -25507,6 +25519,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|T911|P839F30|ZTE T911|
 |ZTE|T912|P839F30|ZTE T912|
 |ZTE|T920|ZTE_T920|ZTE T920|
+|ZTE|T98|primrose|T98|
 |ZTE|TE BLADE B125|P809F01|ZTE BLADE B125|
 |ZTE|TQ150|QB7211|TQ150|
 |ZTE|TURKCELL T40|TURKCELL-T40|TURKCELL T40|
@@ -25729,6 +25742,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z559DL|Z559DL|Z559DL|
 |ZTE|Z6201V|Z6201|Z6201V|
 |ZTE|Z6410|Z6410|Z6410S|
+|ZTE|Z6530M|Z6530|Z6530M|
+|ZTE|Z6530V|Z6530|Z6530V|
 |ZTE|Z660G|nice|Z660G|
 |ZTE|Z6621O|Z6621O|Z6621O|
 |ZTE|Z665C|seanplus|Z665C|
@@ -25771,6 +25786,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z839|sweet|Z839|
 |ZTE|Z839V|sweet|Z839V|
 |ZTE|Z850|sif|Z850|
+|ZTE|Z851M|jeff|Z851M|
 |ZTE|Z861BL|benz|Z861BL|
 |ZTE|Z862VL|captain|Z862VL|
 |ZTE|Z899VL|msm8909|Z899VL|
@@ -25805,6 +25821,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z999|fujisan|Z999|
 |ZTE|ZPAD|gevjon|K90U|
 |ZTE|ZTE 2050|P671F50|ZTE 2050|
+|ZTE|ZTE 2050|P671F50_D|ZTE 2050|
+|ZTE|ZTE 2050RU|P671F50_D|ZTE 2050RU|
 |ZTE|ZTE A0616|P637S15|ZTE A0616|
 |ZTE|ZTE A0620|P840S13|ZTE A0620|
 |ZTE|ZTE A0622|P817S13|ZTE A0622|
@@ -25821,9 +25839,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE A530|P639T10|ZTE A530|
 |ZTE|ZTE A606|P639S10|ZTE A606|
 |ZTE|ZTE A7000|P671S02|ZTE A7000|
+|ZTE|ZTE A7010|P662S02|ZTE A7010|
 |ZTE|ZTE AVID 4|calbee|Z855|
 |ZTE|ZTE AVID 559|Z559DL|Z559DL|
 |ZTE|ZTE Axon 10 Pro|P855A01|ZTE A2020G Pro|
+|ZTE|ZTE Axon 10 Pro|P855A01|ZTE A2020RU Pro|
 |ZTE|ZTE Axon 10 Pro|P855A02|ZTE A2020 Pro|
 |ZTE|ZTE Axon 10 Pro|P855A03|ZTE Axon 10 Pro|
 |ZTE|ZTE Axon 10 Pro|P855A03_NA|ZTE A2020U Pro|
@@ -25883,11 +25903,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A5 2019|P963F30|ZTE Blade A5 2019|
 |ZTE|ZTE Blade A5 2019|P963F30P|ZTE Blade A5 2019|
 |ZTE|ZTE Blade A5 2019RU|P963F30P|ZTE Blade A5 2019RU|
+|ZTE|ZTE Blade A5 2020RU|P963F50|ZTE Blade A5 2020RU|
 |ZTE|ZTE Blade A522|P817E53|ZTE Blade A522|
 |ZTE|ZTE Blade A531|P932F10|ZTE Blade A531|
 |ZTE|ZTE Blade A7 2019|P963F02|ZTE Blade A7 2019|
 |ZTE|ZTE Blade A7 2019RU|P963F02|ZTE Blade A7 2019RU|
 |ZTE|ZTE Blade A7 2020RU|P662F02D|ZTE Blade A7 2020RU|
+|ZTE|ZTE Blade A7s|P662F02|ZTE Blade A7s|
 |ZTE|ZTE Blade L110|ZTE_BLADE_L110|ZTE Blade L110|
 |ZTE|ZTE Blade L130|P731F30|ZTE Blade L130|
 |ZTE|ZTE Blade L130|P731K30|ZTE Blade L130|
@@ -25915,8 +25937,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE V1050|P671S50|ZTE V1050|
 |ZTE|ZTE V890|sdm660_64|ZTE V890|
 |ZTE|ZTE ZFive C LTE|msm8909|Z558VL|
+|ZTE|ZTE ZPAD8|K83|K83V|
 |ZTE|ZTE-V9VITA|P840F03|ZTE-V9VITA|
 |ZTE|ZTE_Blade_V1000|P671F20|ZTE Blade V1000|
+|ZTE|ZTE_V971LM|ZTE_V971LM|ZTE_V971LM|
+|ZTE|ZTE_V97L|ZTE_V97L|ZTE_V97L|
 |ZTE|ZTE\xe2\x80\x82Grand\xe2\x80\x82X\xe2\x80\x82View\xe2\x80\x823|K83CA|K83CA|
 |ZTE|ZTU31|P852F52|ZTU31|
 |ZTE|ZXY-ZTE_N8010|N8010_YM|ZXY-ZTE_N8010|
