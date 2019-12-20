@@ -16177,6 +16177,12 @@
  },
  {
   "brand": "Casio",
+  "name": "IT-G650",
+  "device": "itg650",
+  "model": "IT-G650"
+ },
+ {
+  "brand": "Casio",
   "name": "Smart Outdoor Watch WSD-F10",
   "device": "koi",
   "model": "CASIO WSD-F10"
@@ -26032,6 +26038,12 @@
   "name": "W3",
   "device": "W3",
   "model": "W3"
+ },
+ {
+  "brand": "Elevate",
+  "name": "G50",
+  "device": "G50",
+  "model": "G50"
  },
  {
   "brand": "Elevate",
@@ -54576,6 +54588,12 @@
   "model": "iKU T1"
  },
  {
+  "brand": "IkuMobile",
+  "name": "Y5",
+  "device": "Y5",
+  "model": "Y5"
+ },
+ {
   "brand": "Ilike",
   "name": "P3",
   "device": "P3",
@@ -81961,6 +81979,12 @@
  },
  {
   "brand": "Mobicell",
+  "name": "BLINK",
+  "device": "BLINK",
+  "model": "BLINK"
+ },
+ {
+  "brand": "Mobicell",
   "name": "Berry 2",
   "device": "BERRY_2",
   "model": "BERRY 2"
@@ -82009,6 +82033,12 @@
  },
  {
   "brand": "Mobicell",
+  "name": "FENDY_DS",
+  "device": "FENDY_DS",
+  "model": "FENDY_DS"
+ },
+ {
+  "brand": "Mobicell",
   "name": "FEVER",
   "device": "FEVER",
   "model": "FEVER"
@@ -82042,6 +82072,12 @@
   "name": "GLO_2",
   "device": "GLO_2",
   "model": "GLO 2"
+ },
+ {
+  "brand": "Mobicell",
+  "name": "HERO",
+  "device": "HERO",
+  "model": "HERO"
  },
  {
   "brand": "Mobicell",
@@ -82207,6 +82243,18 @@
  },
  {
   "brand": "Mobicell",
+  "name": "RIO_RW",
+  "device": "RIO_RW",
+  "model": "RIO_RW"
+ },
+ {
+  "brand": "Mobicell",
+  "name": "RIO_SS",
+  "device": "RIO_SS",
+  "model": "RIO_SS"
+ },
+ {
+  "brand": "Mobicell",
   "name": "RUSH",
   "device": "RUSH",
   "model": "RUSH"
@@ -82324,6 +82372,12 @@
   "name": "VEGA",
   "device": "VEGA",
   "model": "VEGA"
+ },
+ {
+  "brand": "Mobicell",
+  "name": "VENUS_G",
+  "device": "VENUS_G",
+  "model": "VENUS_G"
  },
  {
   "brand": "Mobicell",
@@ -117625,6 +117679,12 @@
  },
  {
   "brand": "Samsung",
+  "name": "Galaxy XCover FieldPro",
+  "device": "haechiy19lteatt",
+  "model": "SM-G889A"
+ },
+ {
+  "brand": "Samsung",
   "name": "Galaxy XCover4",
   "device": "xcover4lte",
   "model": "SM-G390F"
@@ -118759,6 +118819,12 @@
  },
  {
   "brand": "Sharp",
+  "name": "2T-C50BG1X",
+  "device": "meguro",
+  "model": "AQUOS-TVX19C"
+ },
+ {
+  "brand": "Sharp",
   "name": "306SH",
   "device": "SG306SH",
   "model": "306SH"
@@ -118786,6 +118852,12 @@
   "name": "4T-C50AG1T",
   "device": "LCD_50FOCAG1T",
   "model": "LCD_50FOCAG1T"
+ },
+ {
+  "brand": "Sharp",
+  "name": "4T-C50BJ8T",
+  "device": "gangnam",
+  "model": "TVX19B"
  },
  {
   "brand": "Sharp",
@@ -134836,6 +134908,12 @@
   "name": "Tv Hub",
   "device": "uzx8020chm",
   "model": "Tv Hub"
+ },
+ {
+  "brand": "Technicolor",
+  "name": "WOW! Sapphire",
+  "device": "uiw4020wow",
+  "model": "CWM19"
  },
  {
   "brand": "Technicolor",
@@ -152125,6 +152203,12 @@
  },
  {
   "brand": "ZTE",
+  "name": "Orange Neva jet",
+  "device": "Neva_jet",
+  "model": "Orange Neva jet"
+ },
+ {
+  "brand": "ZTE",
   "name": "Orange Novi",
   "device": "oceanus",
   "model": "Orange Novi"
@@ -153044,12 +153128,6 @@
  {
   "brand": "ZTE",
   "name": "T86",
-  "device": "T86",
-  "model": "T86"
- },
- {
-  "brand": "ZTE",
-  "name": "T86",
   "device": "msm8226",
   "model": "Amazing X1"
  },
@@ -153148,6 +153226,12 @@
   "name": "Telenor Touch Plus",
   "device": "blade2",
   "model": "Telenor Touch Plus"
+ },
+ {
+  "brand": "ZTE",
+  "name": "Telstra Tough Max 3",
+  "device": "T86",
+  "model": "T86"
  },
  {
   "brand": "ZTE",
@@ -154354,6 +154438,12 @@
   "name": "Z10",
   "device": "P817E52",
   "model": "ZTE Z10"
+ },
+ {
+  "brand": "ZTE",
+  "name": "Z2020N3",
+  "device": "Z8850K",
+  "model": "A2020N3"
  },
  {
   "brand": "ZTE",

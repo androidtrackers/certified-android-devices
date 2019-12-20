@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-12-19
+Last sync is 2019-12-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2701,6 +2701,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Casio|DT-X400|dtx400|DT-X400|
 |Casio|DT-X400R|dtx400r|DT-X400R|
 |Casio|IT-G400|itg400|IT-G400|
+|Casio|IT-G650|itg650|IT-G650|
 |Casio|Smart Outdoor Watch WSD-F10|koi|CASIO WSD-F10|
 |Casio|WSD-F20|ayu|CASIO WSD-F20|
 |Casio|WSD-F20|ayu|CASIO WSD-F20S|
@@ -4344,6 +4345,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Elephone|U2|U2|U2|
 |Elephone|U_Pro|U_Pro|U_Pro|
 |Elephone|W3|W3|W3|
+|Elevate|G50|G50|G50|
 |Elevate|G55_LITE|G55_LITE|G55 LITE|
 |Elevate|LUNA G58|G58|LUNA G58|
 |Elevate|LUNA G60|G60|LUNA G60|
@@ -9101,6 +9103,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IkuMobile|K2|IKU_K2|K2|
 |IkuMobile|K3|K3|IKU K3|
 |IkuMobile|T1|T1|iKU T1|
+|IkuMobile|Y5|Y5|Y5|
 |Ilike|P3|P3|P3|
 |Ilike|X3_PRO_SLIM|X3_PRO_SLIM|X3 PRO SLIM|
 |Ilike|X5_PRO|X5_PRO|X5_PRO|
@@ -13665,6 +13668,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|BERRY|BERRY|BERRY|
 |Mobicell|BERRY PLUS|BERRY_PLUS|BERRY_PLUS|
 |Mobicell|BERRY1|BERRY1|BERRY1|
+|Mobicell|BLINK|BLINK|BLINK|
 |Mobicell|Berry 2|BERRY_2|BERRY 2|
 |Mobicell|CHERRY|CHERRY|CHERRY|
 |Mobicell|CLIK|CLIK|CLIK|
@@ -13673,12 +13677,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|DANDY|DANDY|DANDY|
 |Mobicell|ECHO|ECHO|ECHO|
 |Mobicell|EGO|EGO|EGO|
+|Mobicell|FENDY_DS|FENDY_DS|FENDY_DS|
 |Mobicell|FEVER|FEVER|FEVER|
 |Mobicell|FRIO|FRIO|FRIO|
 |Mobicell|Fever_Plus|Fever_Plus|Fever_Plus|
 |Mobicell|Fever_Plus_J|Fever_Plus_J|Fever_Plus_J|
 |Mobicell|GEO|GEO|GEO|
 |Mobicell|GLO_2|GLO_2|GLO 2|
+|Mobicell|HERO|HERO|HERO|
 |Mobicell|HERO X|HERO_X|HERO_X|
 |Mobicell|HYPE|HYPE|HYPE|
 |Mobicell|Icon|Mobicel_Icon|Icon|
@@ -13706,6 +13712,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|R9_LITE|R9_LITE|R9 LITE|
 |Mobicell|REBEL|REBEL|REBEL|
 |Mobicell|RIO 2|RIO_2|RIO 2|
+|Mobicell|RIO_RW|RIO_RW|RIO_RW|
+|Mobicell|RIO_SS|RIO_SS|RIO_SS|
 |Mobicell|RUSH|RUSH|RUSH|
 |Mobicell|Retro|Retro|Retro|
 |Mobicell|SHIFT|SHIFT|SHIFT|
@@ -13726,6 +13734,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|V2 LTE|V2_LTE|V2 LTE|
 |Mobicell|V4|V4|V4|
 |Mobicell|VEGA|VEGA|VEGA|
+|Mobicell|VENUS_G|VENUS_G|VENUS_G|
 |Mobicell|X4|X4|X4|
 |Mobicell|ZEN|ZEN|ZEN|
 |Mobicell|ZOOM|ZOOM|ZOOM|
@@ -19609,6 +19618,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Win2|coreprimeltedtv|SM-G360BT|
 |Samsung|Galaxy XCover 4s|xcover4s|SM-G398FN|
 |Samsung|Galaxy XCover Field Pro|haechiy19|SM-G889F|
+|Samsung|Galaxy XCover FieldPro|haechiy19lteatt|SM-G889A|
 |Samsung|Galaxy XCover4|xcover4lte|SM-G390F|
 |Samsung|Galaxy Xcover|GT-S5690|GT-S5690|
 |Samsung|Galaxy Xcover|GT-S5690L|GT-S5690L|
@@ -19798,11 +19808,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|2T-C16AP|taurus_2tcfxxap|2T-C16AP|
 |Sharp|"2T-C32ACSA| 2T-C32ACMA| 2T-C32ACTA|
 |Sharp|2T-C40ACxA; 2T-C45ACxA; 2T-C45ADxA|Lcd_xxsffocca_c|LCD_xxSFFOCCA_C|
+|Sharp|2T-C50BG1X|meguro|AQUOS-TVX19C|
 |Sharp|306SH|SG306SH|306SH|
 |Sharp|401SH|SG401SH|401SH|
 |Sharp|"4T-C**AM1/AN1/AL1| 8T-C**AX1/AW1"|tcsu2uj|
 |Sharp|4T-C**BL1/BJ1/BN1|tcmeruj|AQUOS-TVJ19|
 |Sharp|4T-C50AG1T|LCD_50FOCAG1T|LCD_50FOCAG1T|
+|Sharp|4T-C50BJ8T|gangnam|TVX19B|
 |Sharp|4T-C50BK1X|gangnam|AQUOS-TVX19B|
 |Sharp|4T-C50BK1X|jamsil|AQUOS-TVX19D|
 |Sharp|"4T-C60AL1H|4T-C70AL1H"|lc_xxeos5h|
@@ -22478,6 +22490,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Technicolor|NETBOX|uiw4030dnm|uiw4030dnm|
 |Technicolor|Shortcut|dwt765ltt|Shortcut|
 |Technicolor|Tv Hub|uzx8020chm|Tv Hub|
+|Technicolor|WOW! Sapphire|uiw4020wow|CWM19|
 |Technicolor|Wind|uzw4030wnh|WIND|
 |Technicolor|Wind|uzw4030wnh|Wind|
 |Technocrat|SC777|SC777|SC777|
@@ -25359,6 +25372,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Orange Hi 4G|Orange_Hi_4G|Orange Hi 4G|
 |ZTE|Orange Hi 4G|msm8226|Orange Hi 4G|
 |ZTE|Orange Monte Carlo|skate|Orange Monte Carlo|
+|ZTE|Orange Neva jet|Neva_jet|Orange Neva jet|
 |ZTE|Orange Novi|oceanus|Orange Novi|
 |ZTE|Orange Reyo|P172D10|Avea inTouch 3 Large|
 |ZTE|Orange Reyo|P172D10|Blade Q Maxi|
@@ -25512,7 +25526,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|T84|P816A20|ZTE R84|
 |ZTE|T84|P816A20|ZTE T84|
 |ZTE|T85|P840F20|T85|
-|ZTE|T86|T86|T86|
 |ZTE|T86|msm8226|Amazing X1|
 |ZTE|T86|msm8226|ZTE T86|
 |ZTE|T88|msm8226|ZTE T88|
@@ -25530,6 +25543,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|TURKCELL T70|P809T70|TURKCELL T70|
 |ZTE|TURKCELL T80|P840F14|TURKCELL T80|
 |ZTE|Telenor Touch Plus|blade2|Telenor Touch Plus|
+|ZTE|Telstra Tough Max 3|T86|T86|
 |ZTE|Tempo|xray45|N9131|
 |ZTE|Turkcell Maxi Plus 5|nice|Turkcell Maxi Plus 5|
 |ZTE|U N721|N721|ZTE-U N721|
@@ -25731,6 +25745,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|X9180|X9180|X9180|
 |ZTE|Z-01K|Z-01K|Z-01K|
 |ZTE|Z10|P817E52|ZTE Z10|
+|ZTE|Z2020N3|Z8850K|A2020N3|
 |ZTE|Z3153V|Z3153|Z3153V|
 |ZTE|Z3351S|Z3351|Z3351S|
 |ZTE|Z353VL|oldman|Z353VL|
