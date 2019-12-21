@@ -97993,6 +97993,12 @@
  },
  {
   "brand": "Polaroid",
+  "name": "Polaroid",
+  "device": "bangbae",
+  "model": "Polaroid 4K Android TV"
+ },
+ {
+  "brand": "Polaroid",
   "name": "SIGMA 5",
   "device": "SIGMA-5",
   "model": "SIGMA-5"
@@ -152140,6 +152146,18 @@
   "name": "NX619J",
   "device": "NX619J-EEA",
   "model": "NX619J"
+ },
+ {
+  "brand": "ZTE",
+  "name": "NX627J",
+  "device": "NX627J",
+  "model": "NX627J"
+ },
+ {
+  "brand": "ZTE",
+  "name": "NX627J",
+  "device": "NX627J-EEA",
+  "model": "NX627J"
  },
  {
   "brand": "ZTE",

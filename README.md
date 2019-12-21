@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-12-20
+Last sync is 2019-12-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -16337,6 +16337,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Polaroid|PTAB1051-PTAB1055|RCT6203W46|PTAB1051_PTAB1055|
 |Polaroid|PTAB751|STJR76|PTAB751|
 |Polaroid|Phantom 5|Phantom5|PRO5023|
+|Polaroid|Polaroid|bangbae|Polaroid 4K Android TV|
 |Polaroid|SIGMA 5|SIGMA-5|SIGMA-5|
 |Polaroid|SOHO|SOHO|SOHO|
 |Polaroid|V45M|V45M|CARBON_PRO4543|
@@ -25362,6 +25363,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|NX612J|NX612J|NX612J|
 |ZTE|NX619J|NX619J|NX619J|
 |ZTE|NX619J|NX619J-EEA|NX619J|
+|ZTE|NX627J|NX627J|NX627J|
+|ZTE|NX627J|NX627J-EEA|NX627J|
 |ZTE|NX629J|NX629J|NX629J|
 |ZTE|NX629J|NX629J-EEA|NX629J|
 |ZTE|NX907J|NX907J|NX907J|
