@@ -4465,6 +4465,12 @@
  },
  {
   "brand": "Aminocom",
+  "name": "Amigo7xSCB",
+  "device": "Amigo7xSCB",
+  "model": "Amigo7xSCB"
+ },
+ {
+  "brand": "Aminocom",
   "name": "Kamai 7B",
   "device": "Kamai7B",
   "model": "Kamai7B"
@@ -8986,6 +8992,12 @@
   "name": "ZenFone Max Pro M1 (ZB602KL) (WW) / Max Pro M1 (ZB601KL) (IN)",
   "device": "ASUS_X00T_6",
   "model": "ZB602KL"
+ },
+ {
+  "brand": "Asus",
+  "name": "ZenFone Max Pro M1 (ZB602KL) (WW) / Max Pro M1 (ZB601KL) (IN)",
+  "device": "ASUS_X00T_8",
+  "model": "ASUS_X00TD"
  },
  {
   "brand": "Asus",
@@ -31038,6 +31050,12 @@
   "model": "GM7"
  },
  {
+  "brand": "Gear Mobile",
+  "name": "Space",
+  "device": "Space",
+  "model": "Space"
+ },
+ {
   "brand": "Geecoo",
   "name": "G1",
   "device": "G1",
@@ -32266,6 +32284,12 @@
   "name": "GIONEE_M100",
   "device": "GIONEE_M100",
   "model": "M100"
+ },
+ {
+  "brand": "Gionee",
+  "name": "GIONEE_M11",
+  "device": "GIONEE_M11",
+  "model": "M11"
  },
  {
   "brand": "Gionee",
@@ -41512,6 +41536,12 @@
   "name": "Hisense U965",
   "device": "HS6580MT",
   "model": "Hisense U965"
+ },
+ {
+  "brand": "Hisense",
+  "name": "Hong kong",
+  "device": "laoshan",
+  "model": "HKU7A"
  },
  {
   "brand": "Hisense",
@@ -89599,6 +89629,12 @@
  },
  {
   "brand": "Nokia",
+  "name": "Nokia 2.3",
+  "device": "IRM_sprout",
+  "model": "Nokia 2.3"
+ },
+ {
+  "brand": "Nokia",
   "name": "Nokia 3",
   "device": "NE1",
   "model": "TA-1020"
@@ -94789,6 +94825,12 @@
  },
  {
   "brand": "Panasonic",
+  "name": "EcoFW 10",
+  "device": "ecofw10",
+  "model": "Eco v3 plus"
+ },
+ {
+  "brand": "Panasonic",
   "name": "Elite 11",
   "device": "Elite11",
   "model": "Elite"
@@ -97732,6 +97774,12 @@
   "name": "MID1048PHE",
   "device": "MID1048PHE",
   "model": "MID1048PHE"
+ },
+ {
+  "brand": "Polaroid",
+  "name": "MID1095PR001",
+  "device": "MID1095PR001",
+  "model": "MID1095PR001"
  },
  {
   "brand": "Polaroid",
@@ -127171,6 +127219,12 @@
  },
  {
   "brand": "TCL",
+  "name": "BeyondTV2",
+  "device": "BeyondTV",
+  "model": "BeyondTV2"
+ },
+ {
+  "brand": "TCL",
   "name": "C9",
   "device": "A3A_XL_4G",
   "model": "5199I"
@@ -127294,6 +127348,18 @@
   "name": "TCL L10",
   "device": "Faraday",
   "model": "5124J"
+ },
+ {
+  "brand": "TCL",
+  "name": "TCL L10+",
+  "device": "Tokyo",
+  "model": "5128A"
+ },
+ {
+  "brand": "TCL",
+  "name": "TCL L10+",
+  "device": "Tokyo",
+  "model": "5128Y"
  },
  {
   "brand": "TCL",
@@ -131113,6 +131179,12 @@
  },
  {
   "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1S",
+  "device": "Tokyo",
+  "model": "5028Y_RU"
+ },
+ {
+  "brand": "TCT (Alcatel)",
   "name": "Alcatel 1T 7 WIFI",
   "device": "U3A_7_WIFI",
   "model": "8068"
@@ -131398,6 +131470,36 @@
   "name": "Alcatel 3L",
   "device": "Benz",
   "model": "HEYOU50"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 3L",
+  "device": "TokyoPro",
+  "model": "5029D"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 3L",
+  "device": "TokyoPro",
+  "model": "5029D_EEA"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 3L",
+  "device": "TokyoPro",
+  "model": "5029D_RU"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 3L",
+  "device": "TokyoPro",
+  "model": "5029Y_EEA"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 3L",
+  "device": "TokyoPro",
+  "model": "5029Y_RU"
  },
  {
   "brand": "TCT (Alcatel)",
@@ -137551,6 +137653,12 @@
  },
  {
   "brand": "Toshiba",
+  "name": "Taiwan",
+  "device": "laoshan",
+  "model": "U7900"
+ },
+ {
+  "brand": "Toshiba",
   "name": "Thrive 7",
   "device": "tostab04",
   "model": "AT1S0"
@@ -139114,6 +139222,12 @@
   "name": "K910",
   "device": "kitonw",
   "model": "Lenovo K910"
+ },
+ {
+  "brand": "VNPT Technology",
+  "name": "VNPT SmartBox 2x",
+  "device": "vnptt_smb_v2x",
+  "model": "VNPT SmartBox 2x"
  },
  {
   "brand": "VORCOM",
@@ -141409,9 +141523,27 @@
  },
  {
   "brand": "Vivo",
+  "name": "V1913A",
+  "device": "PD1913",
+  "model": "V1913A"
+ },
+ {
+  "brand": "Vivo",
+  "name": "V1914A",
+  "device": "PD1914",
+  "model": "V1914A"
+ },
+ {
+  "brand": "Vivo",
   "name": "V1916A",
   "device": "PD1916",
   "model": "V1916A"
+ },
+ {
+  "brand": "Vivo",
+  "name": "V1921A",
+  "device": "PD1921",
+  "model": "V1921A"
  },
  {
   "brand": "Vivo",
@@ -141451,6 +141583,12 @@
  },
  {
   "brand": "Vivo",
+  "name": "V1934A",
+  "device": "PD1934",
+  "model": "V1934A"
+ },
+ {
+  "brand": "Vivo",
   "name": "V1936A",
   "device": "PD1936",
   "model": "V1936A"
@@ -141460,6 +141598,24 @@
   "name": "V1936AL",
   "device": "PD1936G",
   "model": "V1936AL"
+ },
+ {
+  "brand": "Vivo",
+  "name": "V1938A",
+  "device": "PD1938",
+  "model": "V1938T"
+ },
+ {
+  "brand": "Vivo",
+  "name": "V1938CT",
+  "device": "PD1938",
+  "model": "V1938CT"
+ },
+ {
+  "brand": "Vivo",
+  "name": "V1941A",
+  "device": "PD1941",
+  "model": "V1941A"
  },
  {
   "brand": "Vivo",
@@ -141901,6 +142057,12 @@
  },
  {
   "brand": "Vivo",
+  "name": "vivo 1907",
+  "device": "1907",
+  "model": "vivo 1907"
+ },
+ {
+  "brand": "Vivo",
   "name": "vivo X21i A",
   "device": "PD1801",
   "model": "vivo X21i A"
@@ -142129,6 +142291,24 @@
  },
  {
   "brand": "Vivo",
+  "name": "vivo 1909",
+  "device": "1909",
+  "model": "vivo 1909"
+ },
+ {
+  "brand": "Vivo",
+  "name": "vivo 1910",
+  "device": "1910",
+  "model": "vivo 1910"
+ },
+ {
+  "brand": "Vivo",
+  "name": "vivo 1910",
+  "device": "1910N",
+  "model": "vivo 1910"
+ },
+ {
+  "brand": "Vivo",
   "name": "vivo 1912",
   "device": "1912",
   "model": "vivo 1912"
@@ -142141,15 +142321,45 @@
  },
  {
   "brand": "Vivo",
+  "name": "vivo 1914",
+  "device": "1811",
+  "model": "vivo 1914"
+ },
+ {
+  "brand": "Vivo",
+  "name": "vivo 1915",
+  "device": "1915",
+  "model": "vivo 1915"
+ },
+ {
+  "brand": "Vivo",
   "name": "vivo 1916",
   "device": "1916",
   "model": "vivo 1916"
  },
  {
   "brand": "Vivo",
+  "name": "vivo 1917",
+  "device": "1917",
+  "model": "vivo 1917"
+ },
+ {
+  "brand": "Vivo",
+  "name": "vivo 1919",
+  "device": "1919",
+  "model": "vivo 1919"
+ },
+ {
+  "brand": "Vivo",
   "name": "vivo 1920",
   "device": "1920",
   "model": "vivo 1920"
+ },
+ {
+  "brand": "Vivo",
+  "name": "vivo 1921",
+  "device": "1921",
+  "model": "vivo 1921"
  },
  {
   "brand": "Vivo",
@@ -158143,6 +158353,12 @@
  },
  {
   "brand": "iQual",
+  "name": "T10G",
+  "device": "T10G",
+  "model": "T10G"
+ },
+ {
+  "brand": "iQual",
   "name": "T10L",
   "device": "T10L",
   "model": "T10L"
@@ -158338,6 +158554,12 @@
   "name": "Y57",
   "device": "iRULU_Y57",
   "model": "Y57"
+ },
+ {
+  "brand": "iRulu",
+  "name": "Y57P_EEA",
+  "device": "Y57P",
+  "model": "Y57P"
  },
  {
   "brand": "iRulu",

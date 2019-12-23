@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-12-22
+Last sync is 2019-12-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -749,6 +749,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Amgoo|AMGOO|AM518|AM518|
 |Amgoo|Amgoo|AM518|AM518|
 |Aminocom|Amigo|Amigo|Amigo7|
+|Aminocom|Amigo7xSCB|Amigo7xSCB|Amigo7xSCB|
 |Aminocom|Kamai 7B|Kamai7B|Kamai7B|
 |Aminocom|Kamai7|Kamai7|Kamai7|
 |Aminocom|Kamai7B|Kamai7B|Kamai7B|
@@ -1503,6 +1504,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ZenFone Max Pro M1 (ZB602KL) (WW) / Max Pro M1 (ZB601KL) (IN)|ASUS_X00T_6|ASUS_X00TD|
 |Asus|ZenFone Max Pro M1 (ZB602KL) (WW) / Max Pro M1 (ZB601KL) (IN)|ASUS_X00T_6|ASUS_X00TDB|
 |Asus|ZenFone Max Pro M1 (ZB602KL) (WW) / Max Pro M1 (ZB601KL) (IN)|ASUS_X00T_6|ZB602KL|
+|Asus|ZenFone Max Pro M1 (ZB602KL) (WW) / Max Pro M1 (ZB601KL) (IN)|ASUS_X00T_8|ASUS_X00TD|
 |Asus|ZenFone Max Pro M1 (ZB602KL) (WW) / Max Pro M1 (ZB601KL) (IN)|ASUS_X00T_8|ASUS_X00TDB|
 |Asus|ZenFone Max Pro M2 (ZB631KL) (WW) / Max Pro M2 (ZB630KL) (IN)|ASUS_X01BD_1|ASUS_X01BDA|
 |Asus|ZenFone Max Pro M2 (ZB631KL) (WW) / Max Pro M2 (ZB630KL) (IN)|ASUS_X01BD_1|ZB631KL|
@@ -5178,6 +5180,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gear Mobile|GM10|GM10|GM10|
 |Gear Mobile|GM30|GM30|GM30|
 |Gear Mobile|GM7|GM7|GM7|
+|Gear Mobile|Space|Space|Space|
 |Geecoo|G1|G1|G1|
 |Geecoo|G1_3g|G1_3g|G1_3g|
 |Geecoo|G2|G2|G2|
@@ -5383,6 +5386,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gionee|GIONEE M7L|GIONEE_SW17G07|GIONEE M7L|
 |Gionee|GIONEE X1|GIONEE_SWW1631|GIONEE X1|
 |Gionee|GIONEE_M100|GIONEE_M100|M100|
+|Gionee|GIONEE_M11|GIONEE_M11|M11|
 |Gionee|GN152|GiONEE_CBL7320|GN152|
 |Gionee|GN3001|GiONEE_GBL7523|GN3001|
 |Gionee|GN3001L|GiONEE_GBL7523|GN3001L|
@@ -6924,6 +6928,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U964|HS7731ESP|Hisense U964|
 |Hisense|Hisense U965|HS6580MT|Hisense Hi 1 PRO|
 |Hisense|Hisense U965|HS6580MT|Hisense U965|
+|Hisense|Hong kong|laoshan|HKU7A|
 |Hisense|I300T|I300T|Hisense I300T|
 |Hisense|I56D2G|HS8929QC|Andromax I56D2G|
 |Hisense|I630U|I630U|Hisense I630U|
@@ -14938,6 +14943,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia 2 V|EVW|Nokia 2 V|
 |Nokia|Nokia 2.1|E2M|Nokia 2.1|
 |Nokia|Nokia 2.2|WSP_sprout|Nokia 2.2|
+|Nokia|Nokia 2.3|IRM_sprout|Nokia 2.3|
 |Nokia|Nokia 3|NE1|TA-1020|
 |Nokia|Nokia 3|NE1|TA-1028|
 |Nokia|Nokia 3|NE1|TA-1032|
@@ -15803,6 +15809,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|Eco12 v3 Plus|ecov3p12|Eco v3 plus|
 |Panasonic|Eco9 v1|Eco|Eco9 v1|
 |Panasonic|Eco9 v2|Ecov2|Eco9 v2|
+|Panasonic|EcoFW 10|ecofw10|Eco v3 plus|
 |Panasonic|Elite 11|Elite11|Elite|
 |Panasonic|Elite 11|Elite11|Elite 11|
 |Panasonic|Elite 12|Elite12|Elite|
@@ -16294,6 +16301,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Polaroid|L9|L9|L9|
 |Polaroid|MID1028|MID1028|MID1028|
 |Polaroid|MID1048PHE|MID1048PHE|MID1048PHE|
+|Polaroid|MID1095PR001|MID1095PR001|MID1095PR001|
 |Polaroid|MID1264|MID1264|MID1264|
 |Polaroid|MID3810PVE02|MID3810PVE02|MID3810PVE02|
 |Polaroid|MID4004JBL|MID4004JBL|MID4004JBL|
@@ -21200,6 +21208,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TAGITAL|T7K_PLUS|T7K-PLUS|T7K_PLUS|
 |TASKPHONE|T20|T20P|T20|
 |TCL|Beyond TV|BeyondTV|BeyondTV|
+|TCL|BeyondTV2|BeyondTV|BeyondTV2|
 |TCL|C9|A3A_XL_4G|5199I|
 |TCL|GO5c|U3A_PLUS_4G|5033E|
 |TCL|L55E6700UDS|movo_la|movo_la|
@@ -21221,6 +21230,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL C7|A3A_PLUS|5158A|
 |TCL|TCL C9 Plus|Venice|5148I|
 |TCL|TCL L10|Faraday|5124J|
+|TCL|TCL L10+|Tokyo|5128A|
+|TCL|TCL L10+|Tokyo|5128Y|
 |TCL|TCL L5|U3A_PLUS_4G|5133A|
 |TCL|TCL L9|U5A_PLUS_4G|5159A|
 |TCL|TCL L9|U5A_PLUS_4G|5159J|
@@ -21857,6 +21868,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1S|Tokyo|5028D_RU|
 |TCT (Alcatel)|Alcatel 1S|Tokyo|5028Y|
 |TCT (Alcatel)|Alcatel 1S|Tokyo|5028Y_EEA|
+|TCT (Alcatel)|Alcatel 1S|Tokyo|5028Y_RU|
 |TCT (Alcatel)|Alcatel 1T 7 WIFI|U3A_7_WIFI|8068|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007G|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007U|
@@ -21905,6 +21917,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 3L|Benz|5039U|
 |TCT (Alcatel)|Alcatel 3L|Benz|5039Y_RU|
 |TCT (Alcatel)|Alcatel 3L|Benz|HEYOU50|
+|TCT (Alcatel)|Alcatel 3L|TokyoPro|5029D|
+|TCT (Alcatel)|Alcatel 3L|TokyoPro|5029D_EEA|
+|TCT (Alcatel)|Alcatel 3L|TokyoPro|5029D_RU|
+|TCT (Alcatel)|Alcatel 3L|TokyoPro|5029Y_EEA|
+|TCT (Alcatel)|Alcatel 3L|TokyoPro|5029Y_RU|
 |TCT (Alcatel)|Alcatel 3T 10|A3A_10_4G|8088M|
 |TCT (Alcatel)|Alcatel 3T 8|A3A_8_4G|9027F|
 |TCT (Alcatel)|Alcatel 3T 8|A3A_8_4G|9027Q|
@@ -22930,6 +22947,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Toshiba|L9450|l9450|l9450|
 |Toshiba|Mozart|Mozart|Mozart|
 |Toshiba|STB10|TOSPASB|TOSPASB|
+|Toshiba|Taiwan|laoshan|U7900|
 |Toshiba|Thrive 7|tostab04|AT1S0|
 |Toshiba|Toshiba Chromebook 2 (2015 Edition)|gandof_cheets|Toshiba Chromebook 2 (2015 Edition)|
 |Toshiba|tt300/tt301/tt302|Mozart|Mozart|
@@ -23191,6 +23209,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VBox|XTi|DTP9539|XTi|
 |VENSTAR|VENSTAR2050|VENSTAR2050|VENSTAR2050|
 |VIBE Z|K910|kitonw|Lenovo K910|
+|VNPT Technology|VNPT SmartBox 2x|vnptt_smb_v2x|VNPT SmartBox 2x|
 |VORCOM|S7-classic|S7-classic|S7-classic|
 |VSN|V.35|up11_h1_vsn|V.35|
 |VT|MB300|MB300|SmartTV|
@@ -23573,15 +23592,22 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V1838A|PD1838|V1838A|
 |Vivo|V1901A|PD1901|V1901A|
 |Vivo|V1911A|PD1911|V1911A|
+|Vivo|V1913A|PD1913|V1913A|
+|Vivo|V1914A|PD1914|V1914A|
 |Vivo|V1916A|PD1916|V1916A|
+|Vivo|V1921A|PD1921|V1921A|
 |Vivo|V1922A|PD1922|V1922A|
 |Vivo|V1923A|PD1923|V1923A|
 |Vivo|V1924A|PD1924|V1924A|
 |Vivo|V1928A|PD1928|V1928A|
 |Vivo|V1930A|PD1930|V1930A|
 |Vivo|V1932A|PD1932|V1932A|
+|Vivo|V1934A|PD1934|V1934A|
 |Vivo|V1936A|PD1936|V1936A|
 |Vivo|V1936AL|PD1936G|V1936AL|
+|Vivo|V1938A|PD1938|V1938T|
+|Vivo|V1938CT|PD1938|V1938CT|
+|Vivo|V1941A|PD1941|V1941A|
 |Vivo|V1945A|PD1945|V1945A|
 |Vivo|V1Max|Y37|vivo Y37|
 |Vivo|V3|PD1524|vivo V3|
@@ -23655,6 +23681,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Z1 Pro|1951|vivo 1951|
 |Vivo|Z3i|PD1813C|V1813A|
 |Vivo|Z3i|PD1813E|V1813A|
+|Vivo|vivo 1907|1907|vivo 1907|
 |Vivo|vivo X21i A|PD1801|vivo X21i A|
 |Vivo|vivo Y75s|PD1708C|vivo Y75s|
 |Vivo|vivo Y85A|PD1730|vivo Y85A|
@@ -23693,10 +23720,18 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo 1904|1904|vivo 1904|
 |Vivo|vivo 1906|1906|vivo 1906|
 |Vivo|vivo 1907|1907|vivo 1907|
+|Vivo|vivo 1909|1909|vivo 1909|
+|Vivo|vivo 1910|1910|vivo 1910|
+|Vivo|vivo 1910|1910N|vivo 1910|
 |Vivo|vivo 1912|1912|vivo 1912|
 |Vivo|vivo 1913|1913|vivo 1913|
+|Vivo|vivo 1914|1811|vivo 1914|
+|Vivo|vivo 1915|1915|vivo 1915|
 |Vivo|vivo 1916|1916|vivo 1916|
+|Vivo|vivo 1917|1917|vivo 1917|
+|Vivo|vivo 1919|1919|vivo 1919|
 |Vivo|vivo 1920|1920|vivo 1920|
+|Vivo|vivo 1921|1921|vivo 1921|
 |Vivo|vivo NEX A|PD1806|vivo NEX A|
 |Vivo|vivo NEX S|PD1805|vivo NEX S|
 |Vivo|vivo S1|PD1831|V1831A|
@@ -26362,6 +26397,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iQandT|N3|N3|N3|
 |iQandT|N6|N6|N6|
 |iQandT|N8|iQT_N8|iQ&T N8|
+|iQual|T10G|T10G|T10G|
 |iQual|T10L|T10L|T10L|
 |iQual|T7G|T7G|T7G|
 |iQual|T7L|T7L|T7L|
@@ -26395,6 +26431,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iRulu|X77|X77|X77|
 |iRulu|Y57|Y57|Y57|
 |iRulu|Y57|iRULU_Y57|Y57|
+|iRulu|Y57P_EEA|Y57P|Y57P|
 |iRulu|iRULU_G36|iRULU_G36|G36|
 |iSWAG|ALPHA|Alpha|Alpha|
 |iSWAG|APOLLO|APOLLO|APOLLO|
