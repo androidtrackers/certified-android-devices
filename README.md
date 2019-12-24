@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-12-23
+Last sync is 2019-12-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -629,6 +629,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|V2 Viper Xe|V2_Viper_Xe|V2_Viper_Xe|
 |AllView|V3 Viper|V3_Viper|V3_Viper|
 |AllView|V4 Viper|V4_Viper|V4_Viper|
+|AllView|V4 Viper PRO|V4_Viper_PRO|V4_Viper_PRO|
 |AllView|Viva 1001G|Viva_1001G|Viva_1001G|
 |AllView|Viva 1003G|Viva_1003G|Viva_1003G|
 |AllView|Viva 1003G Lite|Viva_1003G_Lite|Viva_1003G_Lite|
@@ -1998,6 +1999,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|FOX POWER|BQru-4583|BQru-4583|
 |BQru|FOX POWER|BQru-4583|BQru-4583|
 |BRAVA|DU-500|DU-500|DU-500|
+|BRAVA|DU-600|DU_600|DU-600|
 |BRIGMTON|BTPC-1024QC|BTPC-1024QC|BTPC-1024QC|
 |BRIGMTON|BTPC-1025OC|BTPC-1025OC|BTPC-1025OC|
 |BRIGMTON|Spain|BTPC-801QC|BTPC-801QC|
@@ -2365,6 +2367,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Energy X 2|BLU_Energy_X_2|Energy X 2|
 |Blu|Energy X LTE|BLU_Energy_X_LTE|Energy X LTE|
 |Blu|G5|G0090|G5|
+|Blu|G60|G0270WW|G60|
 |Blu|G9|G0130WW|G9|
 |Blu|G9|G0130WW_SR|G9|
 |Blu|G9 PRO|G0230WW|G9 PRO|
@@ -4345,6 +4348,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Elephone|Soldier|Soldier|Soldier|
 |Elephone|U|Elephone_U|U|
 |Elephone|U2|U2|U2|
+|Elephone|U3H|U3H|U3H|
 |Elephone|U_Pro|U_Pro|U_Pro|
 |Elephone|W3|W3|W3|
 |Elevate|G50|G50|G50|
@@ -15154,6 +15158,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Olive Oil|OliveOil Model 3|wecct3|CT3|
 |Olivetti|Graphos A10|Graphos_A10|Graphos A10|
 |Olivetti|OP110|OP110|OP110|
+|Olla|Note3|Note3|Note3|
 |Ollee|T07TR1W|T07TR1W|T07TR1W|
 |Ollee|T08HM3MSA9|T08HM3MSA9|T08HM3MSA9|
 |Ollee|XT080|XT080|XT080|
@@ -15190,6 +15195,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Onkyo|DP-X1A|Rai_Zin2R_64|DP-X1A|
 |Onn (Walmart)|100005207|100005207|100005207|
 |Onn (Walmart)|100005208|100005208|100005208|
+|Onn (Walmart)|100005208-CA|100005208-CA|100005208-CA|
 |Onn (Walmart)|100005209|100005209|100005209|
 |Onn (Walmart)|ONA19TB002|ONA19TB002|ONA19TB002|
 |Onn (Walmart)|ONA19TB003|ONA19TB003|ONA19TB003|
@@ -17015,6 +17021,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|10 Viking Pro|RCT6303W87DK|RCT6303W87DK|
 |RCA|10 Viking Pro|RCT6303W87M|RCT6303W87M|
 |RCA|10 Viking Pro|RCT6303W87M7|RCT6303W87M7|
+|RCA|10 Viking Pro|RCT6A03W13M|RCT6A03W13M|
 |RCA|10 Viking Pro|RCT6K03W13|RCT6K03W13|
 |RCA|11 Delta Pro|RCT6613W23P|RCT6613W23P|
 |RCA|11 Galileo Pro|RCT6513W87|RCT6513W87|
@@ -21048,6 +21055,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stylo|S57_ALURE|S57_ALURE|S57_ALURE|
 |Stylo|S57_AZURE|S57_AZURE|S57_AZURE|
 |Stylo|S61_JAZZ|S61_JAZZ|S61 JAZZ|
+|Stylo|S64 ALPHA|S64_ALPHA|S64_ALPHA|
 |Stylo|S9 TOPAZ|S9_TOPAZ|STYLO_S9_TOPAZ|
 |Stylo|STYLO MAX|Stylo_Max|MAX|
 |Stylo|STYLOF1|STYLOF1|STYLO F1|
@@ -21145,6 +21153,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|S501|SYMPHONY_S501|S501|
 |Symphony|SYMTAB25|SYMTAB25|SYMTAB25|
 |Symphony|SYMTAB60|SYMTAB60|SYMTAB60|
+|Symphony|Symphony_Z50|Symphony_Z50|Symphony Z50|
 |Symphony|Symphony_Z9|Z9|Symphony Z9|
 |Symphony|V100|V100|V100|
 |Symphony|V102|V102|V102|
@@ -21846,6 +21855,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|Optus X Start|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002A|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002D|
+|TCT (Alcatel)|Alcatel 1B|Seoul|5002D_RU|
 |TCT (Alcatel)|Alcatel 1C|Curie|5003D|
 |TCT (Alcatel)|Alcatel 1C|Curie|5003D_EEA|
 |TCT (Alcatel)|Alcatel 1C|Curie|Listo SP50|
@@ -23039,6 +23049,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Turbokids|Princess|Princess|Princess|
 |Turbokids|Princess 3G|Princess_3G|Princess 3G|
 |Turbokids|Turbokids-TMNT|Turbokids_TMNT|Turbokids-TMNT|
+|Turbokids|Turbokids3GNEW|Turbokids3GNEW|Turbokids3GNEW|
 |Turbokids|TurbokidsP|TurbokidsP|TurbokidsP|
 |Turbokids|TurbokidsS5|TurbokidsS5|TurbokidsS5|
 |Turbokids|Turbokids_Star|Turbokids_Star|Turbokids_Star|

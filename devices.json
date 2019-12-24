@@ -3745,6 +3745,12 @@
  },
  {
   "brand": "AllView",
+  "name": "V4 Viper PRO",
+  "device": "V4_Viper_PRO",
+  "model": "V4_Viper_PRO"
+ },
+ {
+  "brand": "AllView",
   "name": "Viva 1001G",
   "device": "Viva_1001G",
   "model": "Viva_1001G"
@@ -11958,6 +11964,12 @@
   "model": "DU-500"
  },
  {
+  "brand": "BRAVA",
+  "name": "DU-600",
+  "device": "DU_600",
+  "model": "DU-600"
+ },
+ {
   "brand": "BRIGMTON",
   "name": "BTPC-1024QC",
   "device": "BTPC-1024QC",
@@ -14158,6 +14170,12 @@
   "name": "G5",
   "device": "G0090",
   "model": "G5"
+ },
+ {
+  "brand": "Blu",
+  "name": "G60",
+  "device": "G0270WW",
+  "model": "G60"
  },
  {
   "brand": "Blu",
@@ -26038,6 +26056,12 @@
   "name": "U2",
   "device": "U2",
   "model": "U2"
+ },
+ {
+  "brand": "Elephone",
+  "name": "U3H",
+  "device": "U3H",
+  "model": "U3H"
  },
  {
   "brand": "Elephone",
@@ -90894,6 +90918,12 @@
   "model": "OP110"
  },
  {
+  "brand": "Olla",
+  "name": "Note3",
+  "device": "Note3",
+  "model": "Note3"
+ },
+ {
   "brand": "Ollee",
   "name": "T07TR1W",
   "device": "T07TR1W",
@@ -91108,6 +91138,12 @@
   "name": "100005208",
   "device": "100005208",
   "model": "100005208"
+ },
+ {
+  "brand": "Onn (Walmart)",
+  "name": "100005208-CA",
+  "device": "100005208-CA",
+  "model": "100005208-CA"
  },
  {
   "brand": "Onn (Walmart)",
@@ -102058,6 +102094,12 @@
   "name": "10 Viking Pro",
   "device": "RCT6303W87M7",
   "model": "RCT6303W87M7"
+ },
+ {
+  "brand": "RCA",
+  "name": "10 Viking Pro",
+  "device": "RCT6A03W13M",
+  "model": "RCT6A03W13M"
  },
  {
   "brand": "RCA",
@@ -126259,6 +126301,12 @@
  },
  {
   "brand": "Stylo",
+  "name": "S64 ALPHA",
+  "device": "S64_ALPHA",
+  "model": "S64_ALPHA"
+ },
+ {
+  "brand": "Stylo",
   "name": "S9 TOPAZ",
   "device": "S9_TOPAZ",
   "model": "STYLO_S9_TOPAZ"
@@ -126838,6 +126886,12 @@
   "name": "SYMTAB60",
   "device": "SYMTAB60",
   "model": "SYMTAB60"
+ },
+ {
+  "brand": "Symphony",
+  "name": "Symphony_Z50",
+  "device": "Symphony_Z50",
+  "model": "Symphony Z50"
  },
  {
   "brand": "Symphony",
@@ -131044,6 +131098,12 @@
   "name": "Alcatel 1B",
   "device": "Seoul",
   "model": "5002D"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1B",
+  "device": "Seoul",
+  "model": "5002D_RU"
  },
  {
   "brand": "TCT (Alcatel)",
@@ -138202,6 +138262,12 @@
   "name": "Turbokids-TMNT",
   "device": "Turbokids_TMNT",
   "model": "Turbokids-TMNT"
+ },
+ {
+  "brand": "Turbokids",
+  "name": "Turbokids3GNEW",
+  "device": "Turbokids3GNEW",
+  "model": "Turbokids3GNEW"
  },
  {
   "brand": "Turbokids",
