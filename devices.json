@@ -22249,6 +22249,12 @@
  },
  {
   "brand": "Danew",
+  "name": "Dslide_1020",
+  "device": "Dslide_1020",
+  "model": "Dslide_1020"
+ },
+ {
+  "brand": "Danew",
   "name": "Dslide_113",
   "device": "Dslide_113",
   "model": "Dslide_113"
@@ -40591,6 +40597,18 @@
  },
  {
   "brand": "Hisense",
+  "name": "EM",
+  "device": "hamamatsucho",
+  "model": "HiSmart 2K ATV4"
+ },
+ {
+  "brand": "Hisense",
+  "name": "EM",
+  "device": "laoshan",
+  "model": "HAT4KDTV"
+ },
+ {
+  "brand": "Hisense",
   "name": "F10",
   "device": "HS6737MT",
   "model": "BM001"
@@ -42901,6 +42919,12 @@
  },
  {
   "brand": "Hisense",
+  "name": "US",
+  "device": "xinhaoshan",
+  "model": "HiSmart 4K ATV4"
+ },
+ {
+  "brand": "Hisense",
   "name": "VH777",
   "device": "VH777",
   "model": "VH777"
@@ -43070,6 +43094,12 @@
  {
   "brand": "Hisense",
   "name": "fushan_em",
+  "device": "hamamatsucho",
+  "model": "HiSmart 2K ATV4"
+ },
+ {
+  "brand": "Hisense",
+  "name": "fushan_emeu",
   "device": "hamamatsucho",
   "model": "HiSmart 2K ATV4"
  },
@@ -57094,6 +57124,12 @@
   "name": "Zafiro",
   "device": "Zafiro",
   "model": "Zafiro"
+ },
+ {
+  "brand": "Iproda",
+  "name": "T1045LI",
+  "device": "T1045LI",
+  "model": "T1045LI"
  },
  {
   "brand": "Irbis",
@@ -103189,6 +103225,12 @@
  },
  {
   "brand": "Remdun",
+  "name": "RD15QE",
+  "device": "RD15QE",
+  "model": "RD15QE"
+ },
+ {
+  "brand": "Remdun",
   "name": "RD52E",
   "device": "RD52E",
   "model": "RD52E"
@@ -131089,6 +131131,12 @@
  },
  {
   "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1",
+  "device": "U3A_PLUS_4G",
+  "model": "Orange Rise 54_Alcatel_5033D"
+ },
+ {
+  "brand": "TCT (Alcatel)",
   "name": "Alcatel 1B",
   "device": "Seoul",
   "model": "5002A"
@@ -143532,6 +143580,12 @@
   "model": "Smart 2K ATV4"
  },
  {
+  "brand": "Vu Televisions",
+  "name": "xiaoyushan-vu",
+  "device": "xiaoyushan",
+  "model": "HiSmartTV A4"
+ },
+ {
   "brand": "Vue Micro",
   "name": "Vue7LV",
   "device": "Vue7LV",
@@ -145606,6 +145660,12 @@
   "name": "x40",
   "device": "X40",
   "model": "X40"
+ },
+ {
+  "brand": "Winnovo",
+  "name": "M86",
+  "device": "M86",
+  "model": "M86"
  },
  {
   "brand": "Winnovo",
@@ -159226,6 +159286,18 @@
   "name": "ZT 216",
   "device": "ZT_216",
   "model": "ZT 216"
+ },
+ {
+  "brand": "zyrex",
+  "name": "ZT216_1",
+  "device": "ZT216_1",
+  "model": "ZT216_1"
+ },
+ {
+  "brand": "zyrex",
+  "name": "ZT_216",
+  "device": "ZT_216",
+  "model": "ZT_216"
  },
  {
   "brand": "zyrex",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-12-24
+Last sync is 2019-12-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3713,6 +3713,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Danew|Dslide714|Dslide714|Dslide714|
 |Danew|Dslide716|Dslide716|Dslide716|
 |Danew|Dslide971DC|Dslide971DC|Dslide971DC|
+|Danew|Dslide_1020|Dslide_1020|Dslide_1020|
 |Danew|Dslide_113|Dslide_113|Dslide_113|
 |Danew|G27|G27|G27|
 |Danew|KECHAODA_S10|KECHAODA_S10|KECHAODA_S10|
@@ -6770,6 +6771,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|EG98|EG98|EG98|
 |Hisense|EG98|EG98TW|EG98|
 |Hisense|EG981|EG981|HS-EG981|
+|Hisense|EM|hamamatsucho|HiSmart 2K ATV4|
+|Hisense|EM|laoshan|HAT4KDTV|
 |Hisense|F10|HS6737MT|BM001|
 |Hisense|F10|HS6737MT|Hisense F10|
 |Hisense|F10|HS6737MT|Hisense L675 PRO|
@@ -7155,6 +7158,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|U988E-2|U988E_2|HS-U988|
 |Hisense|U989|HS6580MT|Hisense U989|
 |Hisense|U989 Pro|HS6580MT|Hisense U989 Pro|
+|Hisense|US|xinhaoshan|HiSmart 4K ATV4|
 |Hisense|VH777|VH777|VH777|
 |Hisense|VIDAA_TV|Hi3751|VIDAA_TV|
 |Hisense|VIDAA_TV|Hi3751v551|VIDAA_TV|
@@ -7184,6 +7188,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|e76mini|HS8937QC|Hisense E76mini|
 |Hisense|fushan|harajuku|HiSmart 2K ATV4|
 |Hisense|fushan_em|hamamatsucho|HiSmart 2K ATV4|
+|Hisense|fushan_emeu|hamamatsucho|HiSmart 2K ATV4|
 |Hisense|l676be|HS8929QC|Hisense L676|
 |Hisense|l691|msm8226|HS-L691|
 |Hisense|l830|HS8937QC|Hisense L830|
@@ -9521,6 +9526,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ipro|X1|IPRO_X1|X1|
 |Ipro|XPLAY|XPLAY|XPLAY|
 |Ipro|Zafiro|Zafiro|Zafiro|
+|Iproda|T1045LI|T1045LI|T1045LI|
 |Irbis|IRBIS TZ175|TZ175|TZ175|
 |Irbis|IRBIS TZ176|TZ176|TZ176|
 |Irbis|IRBIS TZ178|TZ178|TZ178|
@@ -17203,6 +17209,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reliance|RC555L|RC555L|RC555L|
 |Reliance|Smartphone JS LS-5010|LS-5010|LS-5010|
 |Remdun|RD-52|RD52|RD52|
+|Remdun|RD15QE|RD15QE|RD15QE|
 |Remdun|RD52E|RD52E|RD52E|
 |Remdun|RD62E|RD62E|RD62E|
 |Remdun|RD86|RD86|RD86|
@@ -21853,6 +21860,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|Alcatel T 5033T|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|HEYOU10|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|Optus X Start|
+|TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|Orange Rise 54_Alcatel_5033D|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002A|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002D|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002D_RU|
@@ -23927,6 +23935,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vsun|MERCURY Tough|MERCURY_Tough|MERCURY Tough|
 |Vsun|SATURN Selfie|SATURN_SELFIE|SATURN SELFIE|
 |Vu Televisions|India|hamamatsucho|Smart 2K ATV4|
+|Vu Televisions|xiaoyushan-vu|xiaoyushan|HiSmartTV A4|
 |Vue Micro|Vue7LV|Vue7LV|7LV|
 |Vue Micro|Vue81V|Vue81V|81V|
 |Vulcan|Koral 7W4|HT0704W08|HT0704W08|
@@ -24273,6 +24282,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Winmax|Tiger_X10|TIGER_X10|TIGER_X10|
 |Winmax|X50|X50|X50|
 |Winmax|x40|X40|X40|
+|Winnovo|M86|M86|M86|
 |Winnovo|T10|T10|T10|
 |Winnovo|T7_eea|T7|T7|
 |Winnovo|T8|T8|T8|
@@ -26543,4 +26553,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |xTouch|XTOUCH X|XTouch_X|XTouch X|
 |xTouch|XTOUCH X10|XTOUCH_X10|XTOUCH X10|
 |zyrex|ZT 216|ZT_216|ZT 216|
+|zyrex|ZT216_1|ZT216_1|ZT216_1|
+|zyrex|ZT_216|ZT_216|ZT_216|
 |zyrex|Zyrex ZA833|ZA833|ZA833|
