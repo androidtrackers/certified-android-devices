@@ -19561,6 +19561,12 @@
  },
  {
   "brand": "Coolpad",
+  "name": "1803",
+  "device": "Coolpad_1803",
+  "model": "1803"
+ },
+ {
+  "brand": "Coolpad",
   "name": "1825-I01",
   "device": "1825-I01",
   "model": "1825-I01"
@@ -20230,6 +20236,12 @@
   "name": "Coolmini",
   "device": "Coolmini",
   "model": "Coolmini"
+ },
+ {
+  "brand": "Coolpad",
+  "name": "Coolpad 1821",
+  "device": "1821",
+  "model": "1821"
  },
  {
   "brand": "Coolpad",

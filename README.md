@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-12-25
+Last sync is 2019-12-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3265,6 +3265,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Coolpad||msm7627a_sku3|7260A|
 |Coolpad||msm8660_9900|9900|
 |Coolpad||msm8660_CP8950|8950|
+|Coolpad|1803|Coolpad_1803|1803|
 |Coolpad|1825-I01|1825-I01|1825-I01|
 |Coolpad|1826|Cool_3_Pro|1826|
 |Coolpad|1903|1903|1903|
@@ -3377,6 +3378,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Coolpad|Cool C1|cool_c1|C106-9|
 |Coolpad|Cool C1|cool_c1|C107-9|
 |Coolpad|Coolmini|Coolmini|Coolmini|
+|Coolpad|Coolpad 1821|1821|1821|
 |Coolpad|Coolpad 3310A|ventura|Coolpad 3310A|
 |Coolpad|Coolpad 3636a_m|cp3636a|cp3636a|
 |Coolpad|Coolpad 5370_I00|CoolpadE2|coolpad E2|
