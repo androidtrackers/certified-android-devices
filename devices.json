@@ -8972,6 +8972,12 @@
  {
   "brand": "Asus",
   "name": "ZenFone Max Pro M1 (ZB602KL) (WW) / Max Pro M1 (ZB601KL) (IN)",
+  "device": "ASUS_X00T_2",
+  "model": "ASUS_X00TDB"
+ },
+ {
+  "brand": "Asus",
+  "name": "ZenFone Max Pro M1 (ZB602KL) (WW) / Max Pro M1 (ZB601KL) (IN)",
   "device": "ASUS_X00T_3",
   "model": "ASUS_X00TD"
  },
@@ -11452,6 +11458,12 @@
   "name": "BQ-5015L FIRST",
   "device": "BQru-5015L",
   "model": "BQ-5015L"
+ },
+ {
+  "brand": "BQru",
+  "name": "BQ-5016G",
+  "device": "BQru-5016G",
+  "model": "BQ-5016G"
  },
  {
   "brand": "BQru",
@@ -15817,6 +15829,12 @@
  },
  {
   "brand": "CHAINWAY",
+  "name": "C66_EEA",
+  "device": "C66",
+  "model": "C66"
+ },
+ {
+  "brand": "CHAINWAY",
   "name": "C71",
   "device": "C71",
   "model": "C71"
@@ -15824,6 +15842,12 @@
  {
   "brand": "CHAINWAY",
   "name": "P80",
+  "device": "P80",
+  "model": "P80"
+ },
+ {
+  "brand": "CHAINWAY",
+  "name": "P80_EEA",
   "device": "P80",
   "model": "P80"
  },
@@ -32131,6 +32155,12 @@
  },
  {
   "brand": "Gionee",
+  "name": "F10 Plus",
+  "device": "F10_Plus",
+  "model": "GIONEE F10 Plus"
+ },
+ {
+  "brand": "Gionee",
   "name": "F100",
   "device": "GIONEE_GBL7358",
   "model": "F100"
@@ -39256,6 +39286,12 @@
   "name": "NAUTIZ_X6",
   "device": "NAUTIZ_X6",
   "model": "NAUTIZ_X6"
+ },
+ {
+  "brand": "Handheld Group",
+  "name": "Nautiz X41",
+  "device": "albatross_EEA",
+  "model": "Nautiz X41"
  },
  {
   "brand": "Handheld Group",
@@ -57730,6 +57766,12 @@
   "name": "IS520.1",
   "device": "IS520_1",
   "model": "IS520_1"
+ },
+ {
+  "brand": "Isafe",
+  "name": "IS655",
+  "device": "IS655",
+  "model": "IS655"
  },
  {
   "brand": "Isafe",
@@ -78607,6 +78649,12 @@
  },
  {
   "brand": "Maxcom",
+  "name": "MS572",
+  "device": "MS572",
+  "model": "MS572"
+ },
+ {
+  "brand": "Maxcom",
   "name": "RS-401",
   "device": "RS_401",
   "model": "RS-401"
@@ -81564,6 +81612,12 @@
   "model": "MT003-19"
  },
  {
+  "brand": "Mightier",
+  "name": "MT003-20",
+  "device": "MT003-20",
+  "model": "MT003-20"
+ },
+ {
   "brand": "Migu",
   "name": "MGV2002",
   "device": "MGV2002",
@@ -82063,6 +82117,12 @@
  },
  {
   "brand": "Mobicell",
+  "name": "BEAM",
+  "device": "BEAM",
+  "model": "BEAM"
+ },
+ {
+  "brand": "Mobicell",
   "name": "BERRY",
   "device": "BERRY",
   "model": "BERRY"
@@ -82135,6 +82195,18 @@
  },
  {
   "brand": "Mobicell",
+  "name": "FAME",
+  "device": "FAME",
+  "model": "FAME"
+ },
+ {
+  "brand": "Mobicell",
+  "name": "FAME_DS",
+  "device": "FAME_DS",
+  "model": "FAME_DS"
+ },
+ {
+  "brand": "Mobicell",
   "name": "FENDY_DS",
   "device": "FENDY_DS",
   "model": "FENDY_DS"
@@ -82171,6 +82243,12 @@
  },
  {
   "brand": "Mobicell",
+  "name": "GLO",
+  "device": "GLO",
+  "model": "GLO"
+ },
+ {
+  "brand": "Mobicell",
   "name": "GLO_2",
   "device": "GLO_2",
   "model": "GLO 2"
@@ -82186,6 +82264,12 @@
   "name": "HERO X",
   "device": "HERO_X",
   "model": "HERO_X"
+ },
+ {
+  "brand": "Mobicell",
+  "name": "HERO_DS",
+  "device": "HERO_DS",
+  "model": "HERO_DS"
  },
  {
   "brand": "Mobicell",
@@ -82345,6 +82429,18 @@
  },
  {
   "brand": "Mobicell",
+  "name": "RIO_BN",
+  "device": "RIO_BN",
+  "model": "RIO_BN"
+ },
+ {
+  "brand": "Mobicell",
+  "name": "RIO_DS",
+  "device": "RIO_DS",
+  "model": "RIO_DS"
+ },
+ {
+  "brand": "Mobicell",
   "name": "RIO_RW",
   "device": "RIO_RW",
   "model": "RIO_RW"
@@ -82354,6 +82450,12 @@
   "name": "RIO_SS",
   "device": "RIO_SS",
   "model": "RIO_SS"
+ },
+ {
+  "brand": "Mobicell",
+  "name": "RUBY",
+  "device": "RUBY",
+  "model": "RUBY"
  },
  {
   "brand": "Mobicell",
@@ -105139,6 +105241,12 @@
  },
  {
   "brand": "Samsung",
+  "name": "Galaxy A01",
+  "device": "a01q",
+  "model": "SM-A015F"
+ },
+ {
+  "brand": "Samsung",
   "name": "Galaxy A10",
   "device": "a10",
   "model": "SM-A105F"
@@ -116707,6 +116815,12 @@
  },
  {
   "brand": "Samsung",
+  "name": "Galaxy Tab S6 5G",
+  "device": "gts6x",
+  "model": "SM-T866N"
+ },
+ {
+  "brand": "Samsung",
   "name": "Galaxy Tab2 10.1",
   "device": "espresso10att",
   "model": "SAMSUNG-SGH-I497"
@@ -117826,6 +117940,12 @@
   "name": "Galaxy XCover Field Pro",
   "device": "haechiy19",
   "model": "SM-G889F"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy XCover FieldPro",
+  "device": "haechiy19",
+  "model": "SM-G889G"
  },
  {
   "brand": "Samsung",
@@ -127515,6 +127635,12 @@
   "brand": "TCL",
   "name": "TCL PLEX",
   "device": "T1",
+  "model": "T780H"
+ },
+ {
+  "brand": "TCL",
+  "name": "TCL PLEX",
+  "device": "T1_L1",
   "model": "T780H"
  },
  {
@@ -140212,6 +140338,12 @@
   "name": "Pro_L_5045_4G",
   "device": "Pro_L_5045_4G",
   "model": "Pro_L_5045_4G"
+ },
+ {
+  "brand": "Vertex",
+  "name": "Pro_P300_4G",
+  "device": "Pro_P300_4G",
+  "model": "Pro_P300_4G"
  },
  {
   "brand": "Vertex",
@@ -158748,6 +158880,12 @@
   "model": "iTab_XPLUS_10_1"
  },
  {
+  "brand": "iTree",
+  "name": "S898",
+  "device": "S898",
+  "model": "S898"
+ },
+ {
   "brand": "iVOOMi",
   "name": "Me 1",
   "device": "Me_1",
@@ -159304,6 +159442,12 @@
   "name": "ZT216_1",
   "device": "ZT216_1",
   "model": "ZT216_1"
+ },
+ {
+  "brand": "zyrex",
+  "name": "ZT8332_1",
+  "device": "ZT8332_1",
+  "model": "ZT8332_1"
  },
  {
   "brand": "zyrex",
