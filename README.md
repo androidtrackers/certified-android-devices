@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-12-27
+Last sync is 2019-12-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2335,6 +2335,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|C5X|C0000UU|C5X|
 |Blu|C5X|C0010LL|C5X|
 |Blu|C6|C031P|C6|
+|Blu|C6 2019|C090EQ|C6 2019|
 |Blu|C6L|C0030|C6L|
 |Blu|C6x|C090P|C6x|
 |Blu|D500|D500|D500|
@@ -2369,6 +2370,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Energy X 2|BLU_Energy_X_2|Energy X 2|
 |Blu|Energy X LTE|BLU_Energy_X_LTE|Energy X LTE|
 |Blu|G5|G0090|G5|
+|Blu|G5 Plus|G0180LL|G5 Plus|
 |Blu|G60|G0270WW|G60|
 |Blu|G9|G0130WW|G9|
 |Blu|G9|G0130WW_SR|G9|
@@ -4431,6 +4433,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Energizer|PowerMaxP550S|PowerMaxP550S|P550S|
 |Energizer|PowerMaxP600S|PowerMaxP600S|PowerMaxP600S|
 |Energizer|S550|S550|S550|
+|Energizer|Ultimate U710S|Ultimate_U710S|Ultimate U710S|
 |EnergySistem|adelroth|adelroth|Energy Tablet Pro 4|
 |Enspert||E-TAB|E-TAB|
 |Enspert||ESP_E301|ESP_E301BK|
@@ -9932,6 +9935,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KONKA|RE1|RE1|RE1|
 |KONKA|RU1|RU1|RU1|
 |KONKA|SE1|SE1|SE1|
+|KONKA|SE2|SE2|SE2|
 |KONKA|SP3|SP3|SP3|
 |KONKA|SP9|SP9|SP9|
 |KONKA|TE1011|TE1011|TE1011|
@@ -11812,6 +11816,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|V2s|V2s|V2s M|
 |Lava|V5|V5|LAVA V5|
 |Lava|V5|V5|V5|
+|Lava|V7|LE9920_P|LE9920_P|
 |Lava|X10|X10|LavaX10|
 |Lava|X10|X10|X10|
 |Lava|X11|X11|X11|
@@ -11855,6 +11860,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|Z91|Z91|Z91|
 |Lava|Z92|Z92|Z92|
 |Lava|ZX|ZX|ZX|
+|Lava|iris 54|LH9930|LAVA LH9930|
+|Lava|iris 54|LH9931|LAVA LH9931|
 |Lava|iris 821|iris821|iris821|
 |Lava|iris 880|iris880|iris880|
 |Lava|iris Fuel F2|IFF2|Fuel F2|
@@ -12727,6 +12734,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logic Mobility|LOGIC_L5D|LOGIC_L5D|LOGIC_L5D|
 |Logic Mobility|T10B|T10B|T10B|
 |Logic Mobility|T3G|T3G|T3G|
+|Logic Mobility|T4G|T4G|T4G|
 |Logic Mobility|T7_plus|T7_plus|T7_plus|
 |Logic Mobility|X4 Plus|X4|Logic X4 Plus|
 |Logic Mobility|X5A|LOGIC_X5A|LOGIC X5A|
@@ -16989,7 +16997,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Qsmart|QSmart X10|X10|QSmart X10|
 |Qsmart|QSmart X20|X20|QSmart X20|
 |Qsmart|QSmart X40|X40|QSmart X40|
+|Qsmart|Smart HD Pro|Smart_HD_Pro|Smart HD Pro|
 |Qsmart|View|View|View|
+|Qsmart|i10 2019|i10_2019|i10 2019|
+|Qsmart|i5i 2019|QSmart_i5i_2019|QSmart i5i 2019|
 |Qtouch|Q01A|Q01A|Q01A|
 |Qtouch|Q05A|Q05A|Q05A|
 |Qtouch|QS701|QS701|QS701|
@@ -23173,6 +23184,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Ulfone_S11|Ulefone_S11|Ulefone_S11|
 |Umax|10Qa_3G|10Qa_3G|VisionBook_10Qa_3G|
 |Umax|7Qa_3G|7Qa_3G|7Qa_3G|
+|Umax|8A_Plus_eea|8A_Plus_eea|8A_Plus|
 |Umax|MediaTek|8Qa_3G|8Qa_3G|
 |Umax|U452TL|U452TL|U452TL|
 |Umax|UMAX|visionbook_P55_LTE|visionbook P55 LTE|

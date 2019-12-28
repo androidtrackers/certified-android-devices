@@ -13981,6 +13981,12 @@
  },
  {
   "brand": "Blu",
+  "name": "C6 2019",
+  "device": "C090EQ",
+  "model": "C6 2019"
+ },
+ {
+  "brand": "Blu",
   "name": "C6L",
   "device": "C0030",
   "model": "C6L"
@@ -14182,6 +14188,12 @@
   "name": "G5",
   "device": "G0090",
   "model": "G5"
+ },
+ {
+  "brand": "Blu",
+  "name": "G5 Plus",
+  "device": "G0180LL",
+  "model": "G5 Plus"
  },
  {
   "brand": "Blu",
@@ -26554,6 +26566,12 @@
   "name": "S550",
   "device": "S550",
   "model": "S550"
+ },
+ {
+  "brand": "Energizer",
+  "name": "Ultimate U710S",
+  "device": "Ultimate_U710S",
+  "model": "Ultimate U710S"
  },
  {
   "brand": "EnergySistem",
@@ -59563,6 +59581,12 @@
  },
  {
   "brand": "KONKA",
+  "name": "SE2",
+  "device": "SE2",
+  "model": "SE2"
+ },
+ {
+  "brand": "KONKA",
   "name": "SP3",
   "device": "SP3",
   "model": "SP3"
@@ -70843,6 +70867,12 @@
  },
  {
   "brand": "Lava",
+  "name": "V7",
+  "device": "LE9920_P",
+  "model": "LE9920_P"
+ },
+ {
+  "brand": "Lava",
   "name": "X10",
   "device": "X10",
   "model": "LavaX10"
@@ -71098,6 +71128,18 @@
   "name": "ZX",
   "device": "ZX",
   "model": "ZX"
+ },
+ {
+  "brand": "Lava",
+  "name": "iris 54",
+  "device": "LH9930",
+  "model": "LAVA LH9930"
+ },
+ {
+  "brand": "Lava",
+  "name": "iris 54",
+  "device": "LH9931",
+  "model": "LAVA LH9931"
  },
  {
   "brand": "Lava",
@@ -76330,6 +76372,12 @@
   "name": "T3G",
   "device": "T3G",
   "model": "T3G"
+ },
+ {
+  "brand": "Logic Mobility",
+  "name": "T4G",
+  "device": "T4G",
+  "model": "T4G"
  },
  {
   "brand": "Logic Mobility",
@@ -101905,9 +101953,27 @@
  },
  {
   "brand": "Qsmart",
+  "name": "Smart HD Pro",
+  "device": "Smart_HD_Pro",
+  "model": "Smart HD Pro"
+ },
+ {
+  "brand": "Qsmart",
   "name": "View",
   "device": "View",
   "model": "View"
+ },
+ {
+  "brand": "Qsmart",
+  "name": "i10 2019",
+  "device": "i10_2019",
+  "model": "i10 2019"
+ },
+ {
+  "brand": "Qsmart",
+  "name": "i5i 2019",
+  "device": "QSmart_i5i_2019",
+  "model": "QSmart i5i 2019"
  },
  {
   "brand": "Qtouch",
@@ -139006,6 +139072,12 @@
   "name": "7Qa_3G",
   "device": "7Qa_3G",
   "model": "7Qa_3G"
+ },
+ {
+  "brand": "Umax",
+  "name": "8A_Plus_eea",
+  "device": "8A_Plus_eea",
+  "model": "8A_Plus"
  },
  {
   "brand": "Umax",
