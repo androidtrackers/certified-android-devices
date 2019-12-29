@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-12-28
+Last sync is 2019-12-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12321,6 +12321,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|L38011|k5|Lenovo L38011|
 |Lenovo|L38021|k5_cmcc|Lenovo L38021|
 |Lenovo|LAVIE Tab E|X704F|PC-TE510HAW|
+|Lenovo|LAVIE Tab E 10FHD2|LAVIETabE10FHD2|LAVIE Tab E 10FHD2|
 |Lenovo|LAVIE Tab E 7SD1|LAVIETabE7SD1|LAVIE Tab E 7SD1|
 |Lenovo|LIFETAB E10310|LIFETAB_E10310|LIFETAB_E10310|
 |Lenovo|LIFETAB E7310|LIFETAB_E7310|LIFETAB_E7310|
