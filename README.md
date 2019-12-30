@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-12-29
+Last sync is 2019-12-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14395,6 +14395,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M7I-3G|M7I-3G|M7I-3G|
 |Multilaser|M7I-3G|astar-ococci|ML01-M7S-Quad-Core|
 |Multilaser|M7SQC Plus|M7SQC_Plus|M7SQC_Plus|
+|Multilaser|M7SQC Plus|ML-JI22-M7SQC_Plus|M7SQC_Plus|
 |Multilaser|M7SQC_ Plus|ML-JI22-M7SQC_Plus|M7SQC_Plus|
 |Multilaser|M7S_LITE|ML-JI07-M7S-LITE|M7S_LITE|
 |Multilaser|M7S_PLUS|ML-JI08-M7S-PLUS|M7S_PLUS|
@@ -15233,6 +15234,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Onn (Walmart)|100005209|100005209|100005209|
 |Onn (Walmart)|ONA19TB002|ONA19TB002|ONA19TB002|
 |Onn (Walmart)|ONA19TB003|ONA19TB003|ONA19TB003|
+|Onn (Walmart)|TBBVNC100005207|TBBVNC100005207|TBBVNC100005207|
 |Ooredoo|Ooredoo TV|diw387oor|DIW387_UHD_OOR|
 |Ooredoo|Smart10_Pro|Smart10_Pro|Smart10_Pro|
 |Opay|M1 Lite|M1_Lite|M1 Lite|
@@ -22748,6 +22750,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO K9|TECNO-K9|TECNO K9|
 |Tecno|TECNO P904|TECNO-P904|TECNO P904|
 |Tecno|TECNO POP 2s Pro|TECNO-KB2j|TECNO KB2j|
+|Tecno|TECNO POP 3|TECNO-BB2|TECNO BB2|
 |Tecno|TECNO R6S|TECNO-R6|TECNO R6S|
 |Tecno|TECNO RB7S|TECNO-RB7S|TECNO RB7S|
 |Tecno|TECNO S1 Lite|TECNO-S1Lite|TECNO S1 Lite|
@@ -23020,6 +23023,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Trekstor|SurfTab xintron i 7.0|st70408_4_coho|st70408_4|
 |Trekstor|SurfTab xintron i 7.0|st70408_4_coho|st70408_4_coho|
 |Trekstor|TFMTKAW01232|TFMTKAW01232|TFMTKAW01232|
+|Trekstor|THMTKAL01232_eea|THMTKAL01232|Trekstor Surftab Y10|
 |Trekstor|THMTKAW04232_eea|THMTKAW04232|PEAQ PET 100|
 |Trekstor|Trekstor Surftab B10|THMTKAW01232|Trekstor Surftab B10|
 |Trekstor|Trekstor Surftab theatre S11|TFMTKAW01332|Trekstor Surftab theatre S11|
@@ -26406,6 +26410,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iGet|SMART_W101|SMART_W101|SMART_W101|
 |iGet|SMART_W10X_EEA|SMART_W10X_EEA|SMART_W10X_EEA|
 |iHunt|Alien X|Alien_X|Alien_X|
+|iHunt|Alien X Apex 2020|Alien_X_Apex_2020|Alien_X_Apex_2020|
 |iHunt|Alien X Lite|Alien_X_Lite|Alien X Lite|
 |iHunt|AlienXLite2020|AlienXLite2020|AlienXLite2020|
 |iHunt|Alien_X_ApeX|Alien_X_ApeX|Alien_X_ApeX|

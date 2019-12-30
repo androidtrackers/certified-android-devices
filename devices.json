@@ -86341,6 +86341,12 @@
  },
  {
   "brand": "Multilaser",
+  "name": "M7SQC Plus",
+  "device": "ML-JI22-M7SQC_Plus",
+  "model": "M7SQC_Plus"
+ },
+ {
+  "brand": "Multilaser",
   "name": "M7SQC_ Plus",
   "device": "ML-JI22-M7SQC_Plus",
   "model": "M7SQC_Plus"
@@ -91366,6 +91372,12 @@
   "name": "ONA19TB003",
   "device": "ONA19TB003",
   "model": "ONA19TB003"
+ },
+ {
+  "brand": "Onn (Walmart)",
+  "name": "TBBVNC100005207",
+  "device": "TBBVNC100005207",
+  "model": "TBBVNC100005207"
  },
  {
   "brand": "Ooredoo",
@@ -136459,6 +136471,12 @@
  },
  {
   "brand": "Tecno",
+  "name": "TECNO POP 3",
+  "device": "TECNO-BB2",
+  "model": "TECNO BB2"
+ },
+ {
+  "brand": "Tecno",
   "name": "TECNO R6S",
   "device": "TECNO-R6",
   "model": "TECNO R6S"
@@ -138088,6 +138106,12 @@
   "name": "TFMTKAW01232",
   "device": "TFMTKAW01232",
   "model": "TFMTKAW01232"
+ },
+ {
+  "brand": "Trekstor",
+  "name": "THMTKAL01232_eea",
+  "device": "THMTKAL01232",
+  "model": "Trekstor Surftab Y10"
  },
  {
   "brand": "Trekstor",
@@ -158404,6 +158428,12 @@
   "name": "Alien X",
   "device": "Alien_X",
   "model": "Alien_X"
+ },
+ {
+  "brand": "iHunt",
+  "name": "Alien X Apex 2020",
+  "device": "Alien_X_Apex_2020",
+  "model": "Alien_X_Apex_2020"
  },
  {
   "brand": "iHunt",
