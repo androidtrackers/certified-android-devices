@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2019-12-30
+Last sync is 2019-12-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1716,6 +1716,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|Azumi_A5_AC15|Azumi_A5_AC15|A5|
 |Azumi|Azumi_AKANE|Azumi_AKANE|Azumi AKANE|
 |Azumi|Azumi_Extend_Akaru_55_QL|Extend_Akaru_55_QL|Azumi Extend Akaru 55 QL|
+|Azumi|Azumi_IKU_54|Azumi_IKU_54|Azumi IKU 54|
 |Azumi|Azumi_IKU_A55_MB|Azumi_IKU_A55_MB|IKU A55|
 |Azumi|Azumi_K55QL_AC04|Azumi_K55QL_AC04|Azumi K55QL|
 |Azumi|Azumi_KIREI_A45_D|KIREI_A45_D|Azumi_KIREI_A45_D|
@@ -1749,6 +1750,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|KIREI A5Q PLUS|Azumi_KIREI_A5Q_PLUS_AC06|KIREI A5Q PLUS|
 |Azumi|KIREI A5Q PLUS|Azumi_KIREI_A5Q_PLUS_AC11|KIREI A5Q PLUS|
 |Azumi|M5PLUS_AC24|Azumi_M5PLUS_AC24|M5+|
+|Azumi|M5s|Azumi_M5s|M5s|
 |Azumi|NOBU A55|NOBU_A55_AC01|Azumi NOBU A55|
 |Azumi|Nobu A55|NOBU_A55|Azumi NOBU A55|
 |Azumi|Speed 4|Azumi_Speed_4|Azumi Speed 4|
@@ -2652,6 +2654,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CHCNAV|LT700|LT700|LT700|
 |CHN TELECOM|CHN-UCAN MJ|lefhd|CHN-UCAN MJ|
 |CILICO|C6|C6|C6|
+|CILICO|F880|F880|F880|
 |CJHelloVision|CJ680CL|cj680cl|GX-CJ680CL|
 |CJHelloVision|Hello TV Smart|SX930C_CJ|SX930C_CJ|
 |CJHelloVision|viewing|kr101|kr101|
@@ -6943,6 +6946,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense T5|HS6737MT|Hisense T5|
 |Hisense|Hisense T5 Pro|HS6737MT|Hisense T5 Pro|
 |Hisense|Hisense T965|HS6580MT|Hisense T965|
+|Hisense|Hisense U964|HS7731ESP|Hisense U40 Lite|
 |Hisense|Hisense U964|HS7731ESP|Hisense U964|
 |Hisense|Hisense U965|HS6580MT|Hisense Hi 1 PRO|
 |Hisense|Hisense U965|HS6580MT|Hisense U965|
@@ -20243,6 +20247,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SimiMobile|S502|S502|S502|
 |SimiMobile|S507|S507|S507|
 |SimiMobile|S630|S630|S630|
+|SimiMobile|S630M|S630M|S630M|
 |Singtech|H1s|H1s|H1s|
 |Singtech|H2|Singtech_H2|H2|
 |Singtech|Infinity_I1|Infinity_I1|Infinity_I1|
@@ -26014,6 +26019,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A3 2019|P932F20|ZTE Blade A3 Lite|
 |ZTE|ZTE Blade A3 2019|P932K20|ZTE Blade A3 2019|
 |ZTE|ZTE Blade A3 2019RU|P932F20|ZTE Blade A3 2019RU|
+|ZTE|ZTE Blade A3 2020|P932F50|ZTE Blade A3 2020|
 |ZTE|ZTE Blade A3 Lite|P932F20|ZTE Blade A3 Lite|
 |ZTE|ZTE Blade A5 2019|P963F30|ZTE Blade A5 2019|
 |ZTE|ZTE Blade A5 2019|P963F30P|ZTE Blade A5 2019|

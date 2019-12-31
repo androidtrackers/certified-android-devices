@@ -10267,6 +10267,12 @@
  },
  {
   "brand": "Azumi",
+  "name": "Azumi_IKU_54",
+  "device": "Azumi_IKU_54",
+  "model": "Azumi IKU 54"
+ },
+ {
+  "brand": "Azumi",
   "name": "Azumi_IKU_A55_MB",
   "device": "Azumi_IKU_A55_MB",
   "model": "IKU A55"
@@ -10462,6 +10468,12 @@
   "name": "M5PLUS_AC24",
   "device": "Azumi_M5PLUS_AC24",
   "model": "M5+"
+ },
+ {
+  "brand": "Azumi",
+  "name": "M5s",
+  "device": "Azumi_M5s",
+  "model": "M5s"
  },
  {
   "brand": "Azumi",
@@ -15880,6 +15892,12 @@
   "name": "C6",
   "device": "C6",
   "model": "C6"
+ },
+ {
+  "brand": "CILICO",
+  "name": "F880",
+  "device": "F880",
+  "model": "F880"
  },
  {
   "brand": "CJHelloVision",
@@ -41626,6 +41644,12 @@
   "name": "Hisense T965",
   "device": "HS6580MT",
   "model": "Hisense T965"
+ },
+ {
+  "brand": "Hisense",
+  "name": "Hisense U964",
+  "device": "HS7731ESP",
+  "model": "Hisense U40 Lite"
  },
  {
   "brand": "Hisense",
@@ -121428,6 +121452,12 @@
   "model": "S630"
  },
  {
+  "brand": "SimiMobile",
+  "name": "S630M",
+  "device": "S630M",
+  "model": "S630M"
+ },
+ {
   "brand": "Singtech",
   "name": "H1s",
   "device": "H1s",
@@ -156052,6 +156082,12 @@
   "name": "ZTE Blade A3 2019RU",
   "device": "P932F20",
   "model": "ZTE Blade A3 2019RU"
+ },
+ {
+  "brand": "ZTE",
+  "name": "ZTE Blade A3 2020",
+  "device": "P932F50",
+  "model": "ZTE Blade A3 2020"
  },
  {
   "brand": "ZTE",
