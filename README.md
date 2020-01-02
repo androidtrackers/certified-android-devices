@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-01-01
+Last sync is 2020-01-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1176,7 +1176,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Artel|ALO|ALO|ALO|
 |Artel|Android TV|R1|ATV R1|
 |Artel|Android TV|R2|ATV R2|
+|Artel|Artel Tomchi|Artel_Tomchi|Artel Tomchi|
 |Artel|Artel U5|U5|U5|
+|Artel|Artel_Premium|Artel_Premium|Artel Premium|
 |Artel|GAP YOQ|GAP_YOQ|GAP YOQ|
 |Artel|Starpad_T-181|Starpad|Starpad_T-181|
 |Artel|U1|U1|U1|
@@ -1970,6 +1972,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-6015L Universe|BQru-6015L|BQ-6015L|
 |BQru|BQ-6035L|BQru-6035L|BQ-6035L|
 |BQru|BQ-6040L|BQru-6040L|BQ-6040L|
+|BQru|BQ-6042|BQru-6042L|BQ-6042L|
 |BQru|BQ-6200L Aurora|BQru-6200L|BQ-6200L|
 |BQru|BQ-6424L|BQru-6424L|BQ-6424L|
 |BQru|BQ-7000G|BQru-7000G|BQ-7000G|
@@ -1998,6 +2001,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQru-5521L|BQru_5521L|BQ-5521L|
 |BQru|BQru-7082|BQru-7082|BQru-7082|
 |BQru|BQru-7083|BQru-7083|BQru-7083|
+|BQru|BQru_6022G|BQru_6022G|BQ-6022G|
 |BQru|Bqru-5037|BQru-5037|BQru-5037|
 |BQru|CRYSTAL|BQru-5054|BQru-5054|
 |BQru|FOX POWER|BQru-4583|BQru-4583|
@@ -2696,6 +2700,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Camfone|Honey_Y2s|Honey_Y2s|Honey Y2s|
 |Camfone|Mega 10|Mega_10|Mega 10|
 |Canal Digital|OnePlace|canal_sat_bcm|S70CDS|
+|Candi|Cola S|Candi_M671M3|M671M3|
 |Candor|PHS-601|phs601|PHS-601|
 |Canguro|M75TG|M75TG|M75TG|
 |Canguro|M77XG|M77XG|M77XG|
@@ -3652,6 +3657,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|P380i|P380i|P380i|
 |DEXP|P410|P410|P410|
 |DEXP|P510|P510|P510|
+|DEXP|R110|R110|R110|
 |DEXP|S180|S180|S180|
 |DEXP|S190|S190|S190|
 |DEXP|S270i|S270i|S270i|
@@ -4479,6 +4485,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Envizen Digital|V917G|GK-MID9022|V917G|
 |Envizen Digital|VMD1029|VMD1029|VMD1029|
 |Epson|STI6110|Bushi|STI6110|
+|Epson|embt4|embt4|EMBT4|
 |Equator|Axis|Axis|Axis|
 |Ergo|B502 Basic|B502_Basic|B502 Basic|
 |Ergo|B504_Unit|B504_Unit|B504_Unit|
@@ -7325,6 +7332,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hoozo|MZ10863|MZ10863|MZ10863|
 |Hot Pepper|Ghost|HPP-GS1|HPP-GS1|
 |Hot Pepper|H5|H5|H5|
+|Hot Pepper|Serrano|HPP-L55B|HPP-L55B|
 |Hot Pepper|VLE5|VLE5|VLE5|
 |Hot Pepper|VLE5|VLE5A|VLE5A|
 |Hotwav|A1|A1|A1|
@@ -7848,6 +7856,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HONOR 20|HWYAL|YAL-AL00|
 |Huawei|HONOR 20|HWYAL|YAL-L21|
 |Huawei|HONOR 20|HWYAL|YAL-TL00|
+|Huawei|HONOR 20 LITE|HWMAR|MAR-LX1R|
 |Huawei|HONOR 20 PRO|HWYAL|YAL-AL10|
 |Huawei|HONOR 20 PRO|HWYAL|YAL-L41|
 |Huawei|HONOR 20S|HWMAR|MAR-LX1H|
@@ -9111,6 +9120,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IView|Retailer Stores|730TPC|730TPC|
 |IView|SupraPad i700|g01i|i700|
 |IView|SupraPad i785Q|anchor|i785Q|
+|IWRIST|IWRIST_M8|IWRIST_M8|IWRIST_M8|
 |IZZI Telecom|HP2714|HPH65|HP2714|
 |Ice Phone|Mini|ice_phone_mini|Ice-Phone Mini|
 |Icon|Portal_10i|Portal_10i|NTMC17|
@@ -12968,6 +12978,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MINIX|MINIX NEO T5|DV8553|DV8553|
 |MIRAY|MIDM_737|MIDM_737|MIDM_737|
 |MIRAY|MIDM_F10|MIDM_F10|MIDM_F10|
+|MITSUSHIBA|MITSUSHIBA|TP-10-0232P3G|TP-10-0232P3G|
 |MJS|T2702|T2702|T2702|
 |MLAB|MB4 WIFI|MB4_WIFI|MB4 WIFI|
 |MLAB|MB4_3G|MB4_3G|MB4_3G|
@@ -15239,6 +15250,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Onn (Walmart)|ONA19TB002|ONA19TB002|ONA19TB002|
 |Onn (Walmart)|ONA19TB003|ONA19TB003|ONA19TB003|
 |Onn (Walmart)|TBBVNC100005207|TBBVNC100005207|TBBVNC100005207|
+|Onn (Walmart)|TBBVNC100005208|TBBVNC100005208|TBBVNC100005208|
 |Ooredoo|Ooredoo TV|diw387oor|DIW387_UHD_OOR|
 |Ooredoo|Smart10_Pro|Smart10_Pro|Smart10_Pro|
 |Opay|M1 Lite|M1_Lite|M1 Lite|
@@ -15889,6 +15901,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|FZ-A1|toughpad|FZ-A1B|
 |Panasonic|FZ-A1B|toughpad|FZ-A1B|
 |Panasonic|FZ-A2A|fz_a2a|FZ-A2A|
+|Panasonic|FZ-A3|FZ-A3|FZ-A3|
 |Panasonic|FZ-B2|fz_b2bb|FZ-B2B|
 |Panasonic|FZ-B2D|fz_b2d|FZ-B2D|
 |Panasonic|FZ-L1|FZ-L1|FZ-L1|
@@ -16972,6 +16985,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |QMobile|i8i 2019|i8i_2019|QMobile i8i 2019|
 |QMobile|i8i PRO|i8i_PRO|QMobile i8i PRO|
 |QMobile|i8i_Pro_\xe2\x85\xa1|i8i_Pro_II|QMobile i8i Pro II|
+|QOCA|QT-133W-aa2|QF5|QT-133W-aa2|
 |QOOQ|QOOQV3|QOOQ|QOOQ|
 |QPS Digital Electronics|KIDS01|KIDS01|KIDS01|
 |QPS Digital Electronics|T1|T1|T1|
@@ -17364,6 +17378,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SMT_TSC|FLAME X555|FLAME_X555|FLAME_X555|
 |SOLO|Inspire_U5|Inspire_U5|Inspire_U5|
 |SOLO|Inspire_U5_PLUS|Inspire_U5_PLUS|Inspire_U5_PLUS|
+|SORIANA|BE_ets|BE_ets|BE_ets|
 |SOSMART|T5|SOSMART_T5|SOSMART_T5|
 |SPC Mobile|GRAVITY_3G_2019_eea|GRAVITY_3G|GRAVITY 3G_2019|
 |SPC Mobile|L50|SPC_L50|L50|
@@ -21115,6 +21130,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stylo|V|V|V|
 |Stylo|VS5502|VS5502|VS5502|
 |Stylo|VS571|VS571|VS571|
+|Stylos|STTCE37|STTCE37|STTCE37|
 |Stylos|TARISTAB2|TARISTAB2|TARISTAB2|
 |Stylos|TARISTAB4|TARISTAB4|TARISTAB4|
 |Stylos|Tab8|Tab8|Tab8|
@@ -21905,6 +21921,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|Orange Rise 54_Alcatel_5033D|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002A|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002D|
+|TCT (Alcatel)|Alcatel 1B|Seoul|5002D_EEA|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002D_RU|
 |TCT (Alcatel)|Alcatel 1C|Curie|5003D|
 |TCT (Alcatel)|Alcatel 1C|Curie|5003D_EEA|
@@ -22603,6 +22620,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P80X_EEA|P80X|P80X|
 |Teclast|T30_EEA|T30|T30_EEA|
 |Teclast|T30_ROW|T30|T30_ROW|
+|Teclast|tPad8|tPad8|tPad8|
 |Tecno|A7S|TECNO-A7S|TECNO-A7S|
 |Tecno|C5|TECNO-C5|TECNO-C5|
 |Tecno|C7|TECNO-C7|TECNO-C7|
@@ -23192,6 +23210,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Ulefone_S7|Ulefone_S7|Ulefone S7|
 |Ulefone|Ulefone_X|Ulefone_X|Ulefone_X|
 |Ulefone|Ulfone_S11|Ulefone_S11|Ulefone_S11|
+|Umax|10A_LTE_eea|10A_LTE|10A_LTE_eea|
 |Umax|10Qa_3G|10Qa_3G|VisionBook_10Qa_3G|
 |Umax|7Qa_3G|7Qa_3G|7Qa_3G|
 |Umax|8A_Plus_eea|8A_Plus_eea|8A_Plus|

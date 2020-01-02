@@ -7027,9 +7027,21 @@
  },
  {
   "brand": "Artel",
+  "name": "Artel Tomchi",
+  "device": "Artel_Tomchi",
+  "model": "Artel Tomchi"
+ },
+ {
+  "brand": "Artel",
   "name": "Artel U5",
   "device": "U5",
   "model": "U5"
+ },
+ {
+  "brand": "Artel",
+  "name": "Artel_Premium",
+  "device": "Artel_Premium",
+  "model": "Artel Premium"
  },
  {
   "brand": "Artel",
@@ -11791,6 +11803,12 @@
  },
  {
   "brand": "BQru",
+  "name": "BQ-6042",
+  "device": "BQru-6042L",
+  "model": "BQ-6042L"
+ },
+ {
+  "brand": "BQru",
   "name": "BQ-6200L Aurora",
   "device": "BQru-6200L",
   "model": "BQ-6200L"
@@ -11956,6 +11974,12 @@
   "name": "BQru-7083",
   "device": "BQru-7083",
   "model": "BQru-7083"
+ },
+ {
+  "brand": "BQru",
+  "name": "BQru_6022G",
+  "device": "BQru_6022G",
+  "model": "BQ-6022G"
  },
  {
   "brand": "BQru",
@@ -16144,6 +16168,12 @@
   "name": "OnePlace",
   "device": "canal_sat_bcm",
   "model": "S70CDS"
+ },
+ {
+  "brand": "Candi",
+  "name": "Cola S",
+  "device": "Candi_M671M3",
+  "model": "M671M3"
  },
  {
   "brand": "Candor",
@@ -21883,6 +21913,12 @@
  },
  {
   "brand": "DEXP",
+  "name": "R110",
+  "device": "R110",
+  "model": "R110"
+ },
+ {
+  "brand": "DEXP",
   "name": "S180",
   "device": "S180",
   "model": "S180"
@@ -26842,6 +26878,12 @@
   "name": "STI6110",
   "device": "Bushi",
   "model": "STI6110"
+ },
+ {
+  "brand": "Epson",
+  "name": "embt4",
+  "device": "embt4",
+  "model": "EMBT4"
  },
  {
   "brand": "Equator",
@@ -43921,6 +43963,12 @@
  },
  {
   "brand": "Hot Pepper",
+  "name": "Serrano",
+  "device": "HPP-L55B",
+  "model": "HPP-L55B"
+ },
+ {
+  "brand": "Hot Pepper",
   "name": "VLE5",
   "device": "VLE5",
   "model": "VLE5"
@@ -47056,6 +47104,12 @@
   "name": "HONOR 20",
   "device": "HWYAL",
   "model": "YAL-TL00"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HONOR 20 LITE",
+  "device": "HWMAR",
+  "model": "MAR-LX1R"
  },
  {
   "brand": "Huawei",
@@ -54634,6 +54688,12 @@
   "name": "SupraPad i785Q",
   "device": "anchor",
   "model": "i785Q"
+ },
+ {
+  "brand": "IWRIST",
+  "name": "IWRIST_M8",
+  "device": "IWRIST_M8",
+  "model": "IWRIST_M8"
  },
  {
   "brand": "IZZI Telecom",
@@ -77778,6 +77838,12 @@
   "model": "MIDM_F10"
  },
  {
+  "brand": "MITSUSHIBA",
+  "name": "MITSUSHIBA",
+  "device": "TP-10-0232P3G",
+  "model": "TP-10-0232P3G"
+ },
+ {
   "brand": "MJS",
   "name": "T2702",
   "device": "T2702",
@@ -91404,6 +91470,12 @@
   "model": "TBBVNC100005207"
  },
  {
+  "brand": "Onn (Walmart)",
+  "name": "TBBVNC100005208",
+  "device": "TBBVNC100005208",
+  "model": "TBBVNC100005208"
+ },
+ {
   "brand": "Ooredoo",
   "name": "Ooredoo TV",
   "device": "diw387oor",
@@ -95302,6 +95374,12 @@
   "name": "FZ-A2A",
   "device": "fz_a2a",
   "model": "FZ-A2A"
+ },
+ {
+  "brand": "Panasonic",
+  "name": "FZ-A3",
+  "device": "FZ-A3",
+  "model": "FZ-A3"
  },
  {
   "brand": "Panasonic",
@@ -101802,6 +101880,12 @@
   "model": "QMobile i8i Pro II"
  },
  {
+  "brand": "QOCA",
+  "name": "QT-133W-aa2",
+  "device": "QF5",
+  "model": "QT-133W-aa2"
+ },
+ {
   "brand": "QOOQ",
   "name": "QOOQV3",
   "device": "QOOQ",
@@ -104152,6 +104236,12 @@
   "name": "Inspire_U5_PLUS",
   "device": "Inspire_U5_PLUS",
   "model": "Inspire_U5_PLUS"
+ },
+ {
+  "brand": "SORIANA",
+  "name": "BE_ets",
+  "device": "BE_ets",
+  "model": "BE_ets"
  },
  {
   "brand": "SOSMART",
@@ -126661,6 +126751,12 @@
  },
  {
   "brand": "Stylos",
+  "name": "STTCE37",
+  "device": "STTCE37",
+  "model": "STTCE37"
+ },
+ {
+  "brand": "Stylos",
   "name": "TARISTAB2",
   "device": "TARISTAB2",
   "model": "TARISTAB2"
@@ -131403,6 +131499,12 @@
   "brand": "TCT (Alcatel)",
   "name": "Alcatel 1B",
   "device": "Seoul",
+  "model": "5002D_EEA"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1B",
+  "device": "Seoul",
   "model": "5002D_RU"
  },
  {
@@ -135588,6 +135690,12 @@
   "model": "T30_ROW"
  },
  {
+  "brand": "Teclast",
+  "name": "tPad8",
+  "device": "tPad8",
+  "model": "tPad8"
+ },
+ {
   "brand": "Tecno",
   "name": "A7S",
   "device": "TECNO-A7S",
@@ -139120,6 +139228,12 @@
   "name": "Ulfone_S11",
   "device": "Ulefone_S11",
   "model": "Ulefone_S11"
+ },
+ {
+  "brand": "Umax",
+  "name": "10A_LTE_eea",
+  "device": "10A_LTE",
+  "model": "10A_LTE_eea"
  },
  {
   "brand": "Umax",
