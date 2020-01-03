@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-01-02
+Last sync is 2020-01-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -446,6 +446,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aelion|i8|Aelion_i8|i8|
 |Aeon Communication (IN)|AE1020|AE1020|AE1020|
 |Affix|T737|AFFIX_T737|AFFIX T737|
+|AfriOne|CYGNUS|CYGNUS|CYGNUS|
 |AfriOne|CYGNUSX|CYGNUSX|CYGNUSX|
 |AfriOne|ChampionPro|ChampionPro|ChampionPro|
 |AfriOne|Gravity Z2|Gravity_Z2|Gravity Z2|
@@ -691,6 +692,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|X5_Soul_Style|X5_Soul_Style|X5_Soul_Style|
 |AllView|X6 Soul Xtreme|X6_Soul_Xtreme|X6_Soul_Xtreme|
 |AllView|X6 Soul mini|X6_Soul_mini|X6_Soul_mini|
+|AllView|X7 Soul Style|X7_Soul_Style|X7_Soul_Style|
 |Alldocube|T1001|T1001|T1001|
 |Alldocube|T701|T701|T701|
 |Alldocube|T806|T806|T806|
@@ -2658,7 +2660,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CHCNAV|LT700|LT700|LT700|
 |CHN TELECOM|CHN-UCAN MJ|lefhd|CHN-UCAN MJ|
 |CILICO|C6|C6|C6|
-|CILICO|F880|F880|F880|
 |CJHelloVision|CJ680CL|cj680cl|GX-CJ680CL|
 |CJHelloVision|Hello TV Smart|SX930C_CJ|SX930C_CJ|
 |CJHelloVision|viewing|kr101|kr101|
@@ -11770,6 +11771,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Laser|MID-787|MID-787|MID-787|
 |Laser|MID-787V8|MID-787V8|MID-787V8|
 |Laser|MID-790IPS|MID-790IPS|MID-790IPS|
+|Laser|MID_1090IPSV9|MID_1090IPSV9|MID_1090IPSV9|
 |Lava|A1|LAVAA1|LAVAA1|
 |Lava|A3|LAVA_A3|LAVA_A3|
 |Lava|A3_mini|A3_mini|A3_mini|
@@ -13659,6 +13661,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mint|Pearl_Neo|Pearl_Neo|Pearl_Neo|
 |Mintt|A1|A1|A1|
 |Mintt|CoolMinttA3|CoolMinttA3|CoolMinttA3|
+|Mintt|CoolMinttBlaze|CoolMinttBlaze|CoolMinttBlaze|
 |Mintt|CoolMinttDUO3|CoolMinttDUO3|CoolMinttDUO3|
 |Mintt|CoolMinttM2|CoolMinttM2|CoolMinttM2|
 |Mintt|CoolMintt_A3|CoolMintt_A3|CoolMinttA3|
@@ -13726,6 +13729,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|COSMO|COSMO|COSMO|
 |Mobicell|Candy|Candy|Candy|
 |Mobicell|DANDY|DANDY|DANDY|
+|Mobicell|DANDY_ZAM|DANDY_ZAM|DANDY_ZAM|
 |Mobicell|ECHO|ECHO|ECHO|
 |Mobicell|EGO|EGO|EGO|
 |Mobicell|FAME|FAME|FAME|
@@ -23212,6 +23216,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Ulfone_S11|Ulefone_S11|Ulefone_S11|
 |Umax|10A_LTE_eea|10A_LTE|10A_LTE_eea|
 |Umax|10Qa_3G|10Qa_3G|VisionBook_10Qa_3G|
+|Umax|7A_Plus_eea|7A_Plus|7A_Plus|
 |Umax|7Qa_3G|7Qa_3G|7Qa_3G|
 |Umax|8A_Plus_eea|8A_Plus_eea|8A_Plus|
 |Umax|MediaTek|8Qa_3G|8Qa_3G|
@@ -23261,6 +23266,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unistrong|UT30_EEA|UT30|UT30|
 |Unitech|EA500Plus|EA500Plus|EA500Plus|
 |Unitech|EA510|EA510|EA510|
+|Unitech|EA630|EA630|EA630|
 |Unitech|PA760|PA760|PA760|
 |Unitech|TB85|TB85|TB85|
 |United Group|KSTB6020|KSTB6020|KSTB6020|
@@ -23576,6 +23582,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vgo Tel|Venture V8|VentureV8|Venture V8|
 |Vgo Tel|VentureV10|VentureV10|VentureV10|
 |Vgo Tel|i Smart|i_Smart|i_Smart|
+|Victurio|VI106|VI106|VI106|
 |Victurio|VI86|VI86|VI86|
 |Victurio|VI87|VI87|VI87|
 |Vida|GINI_D9|GINI_D9|GINI_D9|
@@ -26440,6 +26447,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iHunt|AlienXLite2020|AlienXLite2020|AlienXLite2020|
 |iHunt|Alien_X_ApeX|Alien_X_ApeX|Alien_X_ApeX|
 |iHunt|Like 4U|Like_4U|Like_4U|
+|iHunt|Like_7|Like_7|Like_7|
 |iHunt|Like_Hi5|Like_Hi5|Like Hi5|
 |iHunt|S10 Tank PRO 2020|S10_Tank_PRO_2020|S10 Tank PRO 2020|
 |iHunt|S100ApeX|S100ApeX|S100ApeX|

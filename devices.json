@@ -2647,6 +2647,12 @@
  },
  {
   "brand": "AfriOne",
+  "name": "CYGNUS",
+  "device": "CYGNUS",
+  "model": "CYGNUS"
+ },
+ {
+  "brand": "AfriOne",
   "name": "CYGNUSX",
   "device": "CYGNUSX",
   "model": "CYGNUSX"
@@ -4114,6 +4120,12 @@
   "name": "X6 Soul mini",
   "device": "X6_Soul_mini",
   "model": "X6_Soul_mini"
+ },
+ {
+  "brand": "AllView",
+  "name": "X7 Soul Style",
+  "device": "X7_Soul_Style",
+  "model": "X7_Soul_Style"
  },
  {
   "brand": "Alldocube",
@@ -15916,12 +15928,6 @@
   "name": "C6",
   "device": "C6",
   "model": "C6"
- },
- {
-  "brand": "CILICO",
-  "name": "F880",
-  "device": "F880",
-  "model": "F880"
  },
  {
   "brand": "CJHelloVision",
@@ -70590,6 +70596,12 @@
   "model": "MID-790IPS"
  },
  {
+  "brand": "Laser",
+  "name": "MID_1090IPSV9",
+  "device": "MID_1090IPSV9",
+  "model": "MID_1090IPSV9"
+ },
+ {
   "brand": "Lava",
   "name": "A1",
   "device": "LAVAA1",
@@ -81925,6 +81937,12 @@
  },
  {
   "brand": "Mintt",
+  "name": "CoolMinttBlaze",
+  "device": "CoolMinttBlaze",
+  "model": "CoolMinttBlaze"
+ },
+ {
+  "brand": "Mintt",
   "name": "CoolMinttDUO3",
   "device": "CoolMinttDUO3",
   "model": "CoolMinttDUO3"
@@ -82324,6 +82342,12 @@
   "name": "DANDY",
   "device": "DANDY",
   "model": "DANDY"
+ },
+ {
+  "brand": "Mobicell",
+  "name": "DANDY_ZAM",
+  "device": "DANDY_ZAM",
+  "model": "DANDY_ZAM"
  },
  {
   "brand": "Mobicell",
@@ -139243,6 +139267,12 @@
  },
  {
   "brand": "Umax",
+  "name": "7A_Plus_eea",
+  "device": "7A_Plus",
+  "model": "7A_Plus"
+ },
+ {
+  "brand": "Umax",
   "name": "7Qa_3G",
   "device": "7Qa_3G",
   "model": "7Qa_3G"
@@ -139534,6 +139564,12 @@
   "name": "EA510",
   "device": "EA510",
   "model": "EA510"
+ },
+ {
+  "brand": "Unitech",
+  "name": "EA630",
+  "device": "EA630",
+  "model": "EA630"
  },
  {
   "brand": "Unitech",
@@ -141424,6 +141460,12 @@
   "name": "i Smart",
   "device": "i_Smart",
   "model": "i_Smart"
+ },
+ {
+  "brand": "Victurio",
+  "name": "VI106",
+  "device": "VI106",
+  "model": "VI106"
  },
  {
   "brand": "Victurio",
@@ -158608,6 +158650,12 @@
   "name": "Like 4U",
   "device": "Like_4U",
   "model": "Like_4U"
+ },
+ {
+  "brand": "iHunt",
+  "name": "Like_7",
+  "device": "Like_7",
+  "model": "Like_7"
  },
  {
   "brand": "iHunt",
