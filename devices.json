@@ -15930,6 +15930,12 @@
   "model": "C6"
  },
  {
+  "brand": "CILICO",
+  "name": "F880",
+  "device": "F880",
+  "model": "F880"
+ },
+ {
   "brand": "CJHelloVision",
   "name": "CJ680CL",
   "device": "cj680cl",
@@ -94369,6 +94375,12 @@
  },
  {
   "brand": "Oukitel",
+  "name": "WP6",
+  "device": "WP6",
+  "model": "WP6"
+ },
+ {
+  "brand": "Oukitel",
   "name": "Y4800",
   "device": "Y4800",
   "model": "Y4800"
@@ -131533,6 +131545,12 @@
  },
  {
   "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1B",
+  "device": "Seoul",
+  "model": "5002F_RU"
+ },
+ {
+  "brand": "TCT (Alcatel)",
   "name": "Alcatel 1C",
   "device": "Curie",
   "model": "5003D"
@@ -139342,6 +139360,12 @@
   "name": "A5 Pro",
   "device": "A5_Pro",
   "model": "A5_Pro"
+ },
+ {
+  "brand": "Umidigi",
+  "name": "A7",
+  "device": "A7",
+  "model": "A7"
  },
  {
   "brand": "Umidigi",

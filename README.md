@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-01-03
+Last sync is 2020-01-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2660,6 +2660,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CHCNAV|LT700|LT700|LT700|
 |CHN TELECOM|CHN-UCAN MJ|lefhd|CHN-UCAN MJ|
 |CILICO|C6|C6|C6|
+|CILICO|F880|F880|F880|
 |CJHelloVision|CJ680CL|cj680cl|GX-CJ680CL|
 |CJHelloVision|Hello TV Smart|SX930C_CJ|SX930C_CJ|
 |CJHelloVision|viewing|kr101|kr101|
@@ -15733,6 +15734,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|WP2|WP2|WP2|
 |Oukitel|WP5|WP5|WP5|
 |Oukitel|WP5000|WP5000|WP5000|
+|Oukitel|WP6|WP6|WP6|
 |Oukitel|Y4800|Y4800|Y4800|
 |Overmax|Livecore7032|Livecore7032|Livecore7032|
 |Overmax|OV-Qualcore-1023-3G|OV-Qualcore-1023-3G|OV-Qualcore-1023-3G|
@@ -21927,6 +21929,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002D|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002D_EEA|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002D_RU|
+|TCT (Alcatel)|Alcatel 1B|Seoul|5002F_RU|
 |TCT (Alcatel)|Alcatel 1C|Curie|5003D|
 |TCT (Alcatel)|Alcatel 1C|Curie|5003D_EEA|
 |TCT (Alcatel)|Alcatel 1C|Curie|Listo SP50|
@@ -23229,6 +23232,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|A3|A3|A3|
 |Umidigi|A3_Pro|A3_Pro|A3_Pro|
 |Umidigi|A5 Pro|A5_Pro|A5_Pro|
+|Umidigi|A7|A7|A7|
 |Umidigi|F1|F1|F1|
 |Umidigi|F1_EEA|F1|F1|
 |Umidigi|One|One|One|
