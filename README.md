@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-01-04
+Last sync is 2020-01-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6569,6 +6569,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Handheld Group|NAUTIZ X6|NAUTIZ_X6|NAUTIZ_X6|
 |Handheld Group|NAUTIZ_X6|NAUTIZ_X6|NAUTIZ_X6|
 |Handheld Group|Nautiz X41|albatross_EEA|Nautiz X41|
+|Handheld Group|Nautiz X41|albatross_GL|Nautiz X41|
 |Handheld Group|Nautiz_X2|NAUTIZ_X2|NAUTIZ_X2|
 |Handheld Group|Nautiz_X9|Nautiz_X9|Nautiz_X9|
 |HannSpree|HSG1279|HANNSpad|HSG1279|
@@ -14730,6 +14731,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NEONIQ|NQT-1014GIQ|NQT-1014GIQ|NQT-1014GIQ|
 |NEONIQ|NQT-73GIQ|NQT-73GIQ|NQT-73GIQ|
 |NESO|N810 i7|N810_i7_1|N810 i7|
+|NEWSUN|S9|S9|S9|
 |NGM Italia SRL|Danamic Now|DynamicNow|Now|
 |NGM Italia SRL|Dynamic Racing 3|NGM_Dynamic_Racing_3|Dynamic Racing 3|
 |NGM Italia SRL|Dynamic_Stylo|NGM_Dynamic_Stylo|NGM_Dynamic_Stylo|

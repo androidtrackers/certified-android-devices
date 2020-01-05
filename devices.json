@@ -39385,6 +39385,12 @@
  },
  {
   "brand": "Handheld Group",
+  "name": "Nautiz X41",
+  "device": "albatross_GL",
+  "model": "Nautiz X41"
+ },
+ {
+  "brand": "Handheld Group",
   "name": "Nautiz_X2",
   "device": "NAUTIZ_X2",
   "model": "NAUTIZ_X2"
@@ -88348,6 +88354,12 @@
   "name": "N810 i7",
   "device": "N810_i7_1",
   "model": "N810 i7"
+ },
+ {
+  "brand": "NEWSUN",
+  "name": "S9",
+  "device": "S9",
+  "model": "S9"
  },
  {
   "brand": "NGM Italia SRL",
