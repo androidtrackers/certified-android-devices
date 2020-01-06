@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-01-05
+Last sync is 2020-01-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3754,6 +3754,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datalogic|MEMOR 1|M1_AOSP|Memor 1|
 |Datalogic|MEMOR 1|M1_HANDHELD|Memor 1|
 |Datalogic|MEMOR 1|M1_PISTOL|Memor 1|
+|Datalogic|Q10_WLAN|Q10A|Memor 20|
 |Datamini|K508101|K508101|K508101|
 |Datamini|K908H4G|K908H4G|K908H4G|
 |Datamini|T74G|T74G|T74G|
@@ -4583,6 +4584,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Evertek|E7224HG|E7224HG|E7224HG|
 |Evertek|M10|M10|M10|
 |Evertek|M10 Nano|M10_Nano|M10 Nano|
+|Evertek|M10_Max|EVERTEK_M10_Max|M10+Max|
 |Evertek|V4|V4|EVERTEK V4|
 |Evertek|V4 Nano|V4_Nano|V4 Nano|
 |Evertek|V4+|V4_Plus|V4+|
@@ -10255,6 +10257,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|DuraForce PRO 2 with Sapphire shield|E6910|E6910|
 |Kyocera|DuraForce PRO with Sapphire Shield|E6810|E6810|
 |Kyocera|DuraForce PRO with Sapphire Shield|E6810_3GB|E6810|
+|Kyocera|DuraForce Pro 2|E6920|E6921|
 |Kyocera|DuraForce Pro 2|E6920|KYOCERA-E6920|
 |Kyocera|DuraForce XD|E6790|KYOCERA-E6790|
 |Kyocera|DuraForce XD|E6790TM|E6790TM|
@@ -22350,6 +22353,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|TCL 738M|Rio5C|TCL J738M|
 |TCT (Alcatel)|TCL 750|x1_plus|TCL 750|
 |TCT (Alcatel)|TCL 950|idol4s_cn|TCL 950|
+|TCT (Alcatel)|TCL A2X|Tokyo_TF|A508DL|
 |TCT (Alcatel)|TCL A506|TCL_A506|TCL A506|
 |TCT (Alcatel)|TCL A865|TCL_A865|TCL A865|
 |TCT (Alcatel)|TCL A988|one_touch_993D_gsm|ALCATEL ONE TOUCH 993D|
@@ -23235,6 +23239,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|A3_Pro|A3_Pro|A3_Pro|
 |Umidigi|A5 Pro|A5_Pro|A5_Pro|
 |Umidigi|A7|A7|A7|
+|Umidigi|A7|A7_EEA|A7|
 |Umidigi|F1|F1|F1|
 |Umidigi|F1_EEA|F1|F1|
 |Umidigi|One|One|One|
@@ -23274,6 +23279,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unitech|EA510|EA510|EA510|
 |Unitech|EA630|EA630|EA630|
 |Unitech|PA760|PA760|PA760|
+|Unitech|PA760_EE|PA760|PA760|
+|Unitech|PA760_FP|PA760|PA760|
 |Unitech|TB85|TB85|TB85|
 |United Group|KSTB6020|KSTB6020|KSTB6020|
 |Unnecto|U4560|U4560|U4560|
@@ -26061,6 +26068,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A531|P932F10|ZTE Blade A531|
 |ZTE|ZTE Blade A7 2019|P963F02|ZTE Blade A7 2019|
 |ZTE|ZTE Blade A7 2019RU|P963F02|ZTE Blade A7 2019RU|
+|ZTE|ZTE Blade A7 2020|P662F02D|ZTE Blade A7 2020|
 |ZTE|ZTE Blade A7 2020RU|P662F02D|ZTE Blade A7 2020RU|
 |ZTE|ZTE Blade A7s|P662F02|ZTE Blade A7s|
 |ZTE|ZTE Blade L110|ZTE_BLADE_L110|ZTE Blade L110|

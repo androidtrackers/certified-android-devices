@@ -22494,6 +22494,12 @@
   "model": "Memor 1"
  },
  {
+  "brand": "Datalogic",
+  "name": "Q10_WLAN",
+  "device": "Q10A",
+  "model": "Memor 20"
+ },
+ {
   "brand": "Datamini",
   "name": "K508101",
   "device": "K508101",
@@ -27466,6 +27472,12 @@
   "name": "M10 Nano",
   "device": "M10_Nano",
   "model": "M10 Nano"
+ },
+ {
+  "brand": "Evertek",
+  "name": "M10_Max",
+  "device": "EVERTEK_M10_Max",
+  "model": "M10+Max"
  },
  {
   "brand": "Evertek",
@@ -61498,6 +61510,12 @@
   "name": "DuraForce PRO with Sapphire Shield",
   "device": "E6810_3GB",
   "model": "E6810"
+ },
+ {
+  "brand": "Kyocera",
+  "name": "DuraForce Pro 2",
+  "device": "E6920",
+  "model": "E6921"
  },
  {
   "brand": "Kyocera",
@@ -134071,6 +134089,12 @@
  },
  {
   "brand": "TCT (Alcatel)",
+  "name": "TCL A2X",
+  "device": "Tokyo_TF",
+  "model": "A508DL"
+ },
+ {
+  "brand": "TCT (Alcatel)",
   "name": "TCL A506",
   "device": "TCL_A506",
   "model": "TCL A506"
@@ -139381,6 +139405,12 @@
  },
  {
   "brand": "Umidigi",
+  "name": "A7",
+  "device": "A7_EEA",
+  "model": "A7"
+ },
+ {
+  "brand": "Umidigi",
   "name": "F1",
   "device": "F1",
   "model": "F1"
@@ -139610,6 +139640,18 @@
  {
   "brand": "Unitech",
   "name": "PA760",
+  "device": "PA760",
+  "model": "PA760"
+ },
+ {
+  "brand": "Unitech",
+  "name": "PA760_EE",
+  "device": "PA760",
+  "model": "PA760"
+ },
+ {
+  "brand": "Unitech",
+  "name": "PA760_FP",
   "device": "PA760",
   "model": "PA760"
  },
@@ -156334,6 +156376,12 @@
   "name": "ZTE Blade A7 2019RU",
   "device": "P963F02",
   "model": "ZTE Blade A7 2019RU"
+ },
+ {
+  "brand": "ZTE",
+  "name": "ZTE Blade A7 2020",
+  "device": "P662F02D",
+  "model": "ZTE Blade A7 2020"
  },
  {
   "brand": "ZTE",
