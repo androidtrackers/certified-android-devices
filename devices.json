@@ -4483,6 +4483,12 @@
  },
  {
   "brand": "Aminocom",
+  "name": "Amigo7x",
+  "device": "Amigo7x",
+  "model": "Amigo7x"
+ },
+ {
+  "brand": "Aminocom",
   "name": "Amigo7xSCB",
   "device": "Amigo7xSCB",
   "model": "Amigo7xSCB"
@@ -10099,6 +10105,18 @@
  },
  {
   "brand": "Azumi",
+  "name": "A4",
+  "device": "Azumi_A4_AC12OM",
+  "model": "A4"
+ },
+ {
+  "brand": "Azumi",
+  "name": "A4 Go",
+  "device": "Azumi_A4_AC25B",
+  "model": "A4"
+ },
+ {
+  "brand": "Azumi",
   "name": "A40 Style Plus",
   "device": "A40_Style_Plus",
   "model": "A40_Style_Plus"
@@ -10119,6 +10137,18 @@
   "brand": "Azumi",
   "name": "A4_AC19",
   "device": "Azumi_A4_AC19",
+  "model": "A4"
+ },
+ {
+  "brand": "Azumi",
+  "name": "A4_AC24B",
+  "device": "Azumi_A4_AC24B",
+  "model": "A4"
+ },
+ {
+  "brand": "Azumi",
+  "name": "A4_B",
+  "device": "Azumi_A4_B",
   "model": "A4"
  },
  {
@@ -10246,6 +10276,18 @@
   "name": "Azumi K55QL",
   "device": "Azumi_K55QLB",
   "model": "Azumi K55QL"
+ },
+ {
+  "brand": "Azumi",
+  "name": "Azumi K55QL",
+  "device": "Azumi_K55QL_AC15",
+  "model": "K55QL"
+ },
+ {
+  "brand": "Azumi",
+  "name": "Azumi V5",
+  "device": "Azumi_V5_AC04",
+  "model": "Azumi_V5"
  },
  {
   "brand": "Azumi",
@@ -10453,6 +10495,12 @@
  },
  {
   "brand": "Azumi",
+  "name": "K55QL_AC12",
+  "device": "Azumi_K55QL_AC12",
+  "model": "K55QL"
+ },
+ {
+  "brand": "Azumi",
   "name": "K5QL",
   "device": "Azumi_K5QL",
   "model": "Azumi K5QL"
@@ -10486,6 +10534,12 @@
   "name": "KIREI A5Q PLUS",
   "device": "Azumi_KIREI_A5Q_PLUS_AC11",
   "model": "KIREI A5Q PLUS"
+ },
+ {
+  "brand": "Azumi",
+  "name": "M5PLUS",
+  "device": "Azumi_M5PLUS",
+  "model": "M5+"
  },
  {
   "brand": "Azumi",
@@ -10537,6 +10591,24 @@
  },
  {
   "brand": "Azumi",
+  "name": "V4_AC04",
+  "device": "Azumi_V4_AC04",
+  "model": "Azumi V4"
+ },
+ {
+  "brand": "Azumi",
+  "name": "V4_AC23",
+  "device": "Azumi_V4_AC23",
+  "model": "V4"
+ },
+ {
+  "brand": "Azumi",
+  "name": "V4_AC25",
+  "device": "Azumi_V4_AC25",
+  "model": "V4"
+ },
+ {
+  "brand": "Azumi",
   "name": "V5+",
   "device": "AZUMI_V5PLUS_AC27",
   "model": "V5+"
@@ -10546,6 +10618,18 @@
   "name": "V54_AC24",
   "device": "Azumi_V54_AC24",
   "model": "V54"
+ },
+ {
+  "brand": "Azumi",
+  "name": "V5PLUS_AC25",
+  "device": "Azumi_V5PLUS_AC25",
+  "model": "V5+"
+ },
+ {
+  "brand": "Azumi",
+  "name": "V6",
+  "device": "Azumi_V6",
+  "model": "Azumi V6"
  },
  {
   "brand": "BDQ",
@@ -10760,6 +10844,12 @@
  {
   "brand": "BMobile",
   "name": "AX1017",
+  "device": "Bmobile_AX1017_MV12",
+  "model": "AX1017"
+ },
+ {
+  "brand": "BMobile",
+  "name": "AX1017",
   "device": "Bmobile_AX1017_TG05",
   "model": "AX1017"
  },
@@ -10903,6 +10993,24 @@
  },
  {
   "brand": "BMobile",
+  "name": "AX1076+",
+  "device": "Bmobile_AX1076P_MV03",
+  "model": "AX1076+"
+ },
+ {
+  "brand": "BMobile",
+  "name": "AX1076+",
+  "device": "Bmobile_AX1076P_MV05",
+  "model": "AX1076+"
+ },
+ {
+  "brand": "BMobile",
+  "name": "AX1076+",
+  "device": "Bmobile_AX1076P_MV12",
+  "model": "AX1076+"
+ },
+ {
+  "brand": "BMobile",
   "name": "AX1077",
   "device": "Bmobile_AX1077",
   "model": "AX1077"
@@ -10936,6 +11044,36 @@
   "name": "AX1077+",
   "device": "Bmobile_AX1077_MTG07",
   "model": "AX1077+"
+ },
+ {
+  "brand": "BMobile",
+  "name": "AX1080",
+  "device": "Bmobile_AX1080",
+  "model": "AX1080"
+ },
+ {
+  "brand": "BMobile",
+  "name": "AX1082",
+  "device": "Bmobile_AX1082_MV07",
+  "model": "AX1082"
+ },
+ {
+  "brand": "BMobile",
+  "name": "AX1082",
+  "device": "Bmobile_AX1082_MV15",
+  "model": "AX1082"
+ },
+ {
+  "brand": "BMobile",
+  "name": "AX1082",
+  "device": "Bmobile_AX1082_TG",
+  "model": "AX1082"
+ },
+ {
+  "brand": "BMobile",
+  "name": "AX1082",
+  "device": "Bmobile_AX1082_TG07",
+  "model": "AX1082"
  },
  {
   "brand": "BMobile",
@@ -11131,9 +11269,21 @@
  },
  {
   "brand": "BMobile",
+  "name": "AX824+",
+  "device": "Bmobile_AX824PLUS_MV03",
+  "model": "AX824+"
+ },
+ {
+  "brand": "BMobile",
   "name": "AX824A",
   "device": "Bmobile_AX824A",
   "model": "AX824A"
+ },
+ {
+  "brand": "BMobile",
+  "name": "AX824Plus",
+  "device": "Bmobile_AX824Plus_MV15",
+  "model": "AX824+"
  },
  {
   "brand": "BMobile",
@@ -11212,6 +11362,12 @@
   "name": "AX959",
   "device": "Bmobile_AX959",
   "model": "AX959"
+ },
+ {
+  "brand": "BMobile",
+  "name": "AX960",
+  "device": "Bmobile_AX960_MV15",
+  "model": "AX960"
  },
  {
   "brand": "BMobile",
@@ -11302,6 +11458,12 @@
   "name": "X10",
   "device": "Bmobile_X10_MV03",
   "model": "X10"
+ },
+ {
+  "brand": "BMobile",
+  "name": "X11",
+  "device": "Bmobile_X11",
+  "model": "Bmobile X11"
  },
  {
   "brand": "BQru",
@@ -15874,6 +16036,18 @@
   "name": "HS29779-18",
   "device": "HS29779-18",
   "model": "HS29779-18"
+ },
+ {
+  "brand": "CG Corp",
+  "name": "Android TV",
+  "device": "R1",
+  "model": "ATV R1"
+ },
+ {
+  "brand": "CG Corp",
+  "name": "Android TV",
+  "device": "R2",
+  "model": "ATV R2"
  },
  {
   "brand": "CG Mobile",
@@ -25207,6 +25381,12 @@
  },
  {
   "brand": "Dragontouch",
+  "name": "NotePad_Y80",
+  "device": "NotePad_Y80",
+  "model": "NotePad_Y80"
+ },
+ {
+  "brand": "Dragontouch",
   "name": "Notepad_Go_803",
   "device": "Notepad_Go_803",
   "model": "Notepad_Go_803"
@@ -27538,6 +27718,12 @@
   "name": "M10_Max",
   "device": "EVERTEK_M10_Max",
   "model": "M10+Max"
+ },
+ {
+  "brand": "Evertek",
+  "name": "M10_Pro",
+  "device": "Evertek_M10_Pro",
+  "model": "M10_Pro"
  },
  {
   "brand": "Evertek",
@@ -33976,6 +34162,12 @@
   "name": "eye3",
   "device": "UY3-PCW",
   "model": "eye3"
+ },
+ {
+  "brand": "HMR NETWORKS",
+  "name": "HMR NETWORKS (PTY) LTD",
+  "device": "HMR5012",
+  "model": "HMR5012"
  },
  {
   "brand": "HOMTOM",
@@ -54214,6 +54406,24 @@
   "name": "Koral_10X2",
   "device": "HT1004X16",
   "model": "Koral_10X2"
+ },
+ {
+  "brand": "Hyundai",
+  "name": "Koral_10XL",
+  "device": "Koral_10XL",
+  "model": "HT1004LI16"
+ },
+ {
+  "brand": "Hyundai",
+  "name": "Koral_10XL_Plus",
+  "device": "Koral_10XL_Plus",
+  "model": "HT1002LI32"
+ },
+ {
+  "brand": "Hyundai",
+  "name": "Koral_7XL",
+  "device": "Koral_7XL",
+  "model": "HT0701LI16"
  },
  {
   "brand": "Hyundai",
@@ -74929,6 +75139,12 @@
  },
  {
   "brand": "Lenovo",
+  "name": "Lenovo Tab M8",
+  "device": "8705X",
+  "model": "Lenovo TB-8705X"
+ },
+ {
+  "brand": "Lenovo",
   "name": "Lenovo Tab P10",
   "device": "X705F",
   "model": "Lenovo TB-X705F"
@@ -94248,6 +94464,18 @@
   "model": "RC555L"
  },
  {
+  "brand": "Orient",
+  "name": "Android TV",
+  "device": "R1",
+  "model": "ATV R1"
+ },
+ {
+  "brand": "Orient",
+  "name": "Android TV",
+  "device": "R2",
+  "model": "ATV R2"
+ },
+ {
   "brand": "Oukitel",
   "name": "C10",
   "device": "C10",
@@ -94732,6 +94960,12 @@
   "name": "Kova_PCB-T730",
   "device": "Kova_PCB-T730",
   "model": "Kova_PCB-T730"
+ },
+ {
+  "brand": "PCBOX",
+  "name": "PCB-T732",
+  "device": "MID7015A-MK",
+  "model": "Kova 2 Plus PCB-T732"
  },
  {
   "brand": "PCD Argentina",
@@ -120385,15 +120619,15 @@
  },
  {
   "brand": "Sharp",
-  "name": "AQUOS sense3",
-  "device": "SH-M12",
-  "model": "SH-M12"
- },
- {
-  "brand": "Sharp",
   "name": "AQUOS sense3 SH-02M",
   "device": "SH-02M",
   "model": "SH-02M"
+ },
+ {
+  "brand": "Sharp",
+  "name": "AQUOS sense3 SH-M12",
+  "device": "SH-M12",
+  "model": "SH-M12"
  },
  {
   "brand": "Sharp",
@@ -122401,6 +122635,12 @@
  },
  {
   "brand": "Skyworth",
+  "name": "Asia",
+  "device": "open_uhd_ap",
+  "model": "open_uhd"
+ },
+ {
+  "brand": "Skyworth",
   "name": "Euro",
   "device": "SW3_ATV",
   "model": "SWTV"
@@ -122416,6 +122656,12 @@
   "name": "Europe",
   "device": "globe_eu",
   "model": "globe"
+ },
+ {
+  "brand": "Skyworth",
+  "name": "Hong Kong",
+  "device": "open_uhd_hk",
+  "model": "open_uhd"
  },
  {
   "brand": "Skyworth",
@@ -135388,6 +135634,30 @@
   "name": "TM9S775",
   "device": "MID908A-K",
   "model": "TM9S775"
+ },
+ {
+  "brand": "TO21COMMS",
+  "name": "TOP10",
+  "device": "TOP10",
+  "model": "TOP10"
+ },
+ {
+  "brand": "TOPELOTEK",
+  "name": "KIDS709",
+  "device": "KIDS709",
+  "model": "KIDS709"
+ },
+ {
+  "brand": "TOPELOTEK",
+  "name": "TOPELOTEK",
+  "device": "KIDS08",
+  "model": "KIDS08"
+ },
+ {
+  "brand": "TOPELOTEK",
+  "name": "TOPELOTEK",
+  "device": "KIDS09",
+  "model": "KIDS09"
  },
  {
   "brand": "TOSCIDO",

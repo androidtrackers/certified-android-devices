@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-01-07
+Last sync is 2020-01-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -752,6 +752,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Amgoo|AMGOO|AM518|AM518|
 |Amgoo|Amgoo|AM518|AM518|
 |Aminocom|Amigo|Amigo|Amigo7|
+|Aminocom|Amigo7x|Amigo7x|Amigo7x|
 |Aminocom|Amigo7xSCB|Amigo7xSCB|Amigo7xSCB|
 |Aminocom|Kamai 7B|Kamai7B|Kamai7B|
 |Aminocom|Kamai7|Kamai7|Kamai7|
@@ -1688,10 +1689,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Axxa Mobile|GEM|GEM|GEM|
 |Azumi|A4|A4|Azumi A4|
 |Azumi|A4|A4_AC25|Azumi A4|
+|Azumi|A4|Azumi_A4_AC12OM|A4|
+|Azumi|A4 Go|Azumi_A4_AC25B|A4|
 |Azumi|A40 Style Plus|A40_Style_Plus|A40_Style_Plus|
 |Azumi|A40C|A40C|A40C|
 |Azumi|A4V|Azumi_A4v|Azumi A4v|
 |Azumi|A4_AC19|Azumi_A4_AC19|A4|
+|Azumi|A4_AC24B|Azumi_A4_AC24B|A4|
+|Azumi|A4_B|Azumi_A4_B|A4|
 |Azumi|A50 Style Plus|A50_Style_Plus|A50_Style_Plus|
 |Azumi|A50LT|A50LT|A50LT|
 |Azumi|A53|Azumi_A53|A53|
@@ -1713,6 +1718,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|Azumi A5|A5|Azumi A5|
 |Azumi|Azumi A5C|AZUMI_A5C|A5C|
 |Azumi|Azumi K55QL|Azumi_K55QLB|Azumi K55QL|
+|Azumi|Azumi K55QL|Azumi_K55QL_AC15|K55QL|
+|Azumi|Azumi V5|Azumi_V5_AC04|Azumi_V5|
 |Azumi|Azumi V54|Azumi_V54_AC01|V54|
 |Azumi|Azumi V54|Azumi_V54_AC23|V54|
 |Azumi|Azumi_ V5_ AC05|Azumi_V5_AC05|V5|
@@ -1747,12 +1754,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|IRO_A4_Q_Pro|IRO_A4_Q_PRO|Azumi_IRO_A4_Q_PRO|
 |Azumi|IRO_A55_Q_Pro|IRO_A55_Q_Pro|Azumi IRO A55 Q Pro|
 |Azumi|IRO_A6_Q|IRO_A6_Q|IRO A6 Q|
+|Azumi|K55QL_AC12|Azumi_K55QL_AC12|K55QL|
 |Azumi|K5QL|Azumi_K5QL|Azumi K5QL|
 |Azumi|KINZO A55 OLi|KINZO_A55_OLi|Azumi_KINZO_A55_OLi|
 |Azumi|KINZO A55QL|KINZO_A55_OLi_CL|Azumi_KINZO_A55_OLi|
 |Azumi|KINZO ICHI A5 QL|KINZO_ichi_A5_QL_NA|KINZO_ichi_A5_QL|
 |Azumi|KIREI A5Q PLUS|Azumi_KIREI_A5Q_PLUS_AC06|KIREI A5Q PLUS|
 |Azumi|KIREI A5Q PLUS|Azumi_KIREI_A5Q_PLUS_AC11|KIREI A5Q PLUS|
+|Azumi|M5PLUS|Azumi_M5PLUS|M5+|
 |Azumi|M5PLUS_AC24|Azumi_M5PLUS_AC24|M5+|
 |Azumi|M5s|Azumi_M5s|M5s|
 |Azumi|NOBU A55|NOBU_A55_AC01|Azumi NOBU A55|
@@ -1761,8 +1770,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|Speed 5|Azumi_Speed_5B|Azumi Speed 5|
 |Azumi|Speed 55|Speed_55|Speed_55|
 |Azumi|T7 3G|T7_3G|Azumi_T7_3G|
+|Azumi|V4_AC04|Azumi_V4_AC04|Azumi V4|
+|Azumi|V4_AC23|Azumi_V4_AC23|V4|
+|Azumi|V4_AC25|Azumi_V4_AC25|V4|
 |Azumi|V5+|AZUMI_V5PLUS_AC27|V5+|
 |Azumi|V54_AC24|Azumi_V54_AC24|V54|
+|Azumi|V5PLUS_AC25|Azumi_V5PLUS_AC25|V5+|
+|Azumi|V6|Azumi_V6|Azumi V6|
 |BDQ|SMART_B19|SMART_B19|SMART_B19|
 |BDQ|Smart_Camon|Smart_Camon|Smart_Camon|
 |BEISTA|K105|K105|K105|
@@ -1798,6 +1812,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|AX1015|Bmobile_AX1015|AX1015|
 |BMobile|AX1015|Bmobile_AX1015A|AX1015|
 |BMobile|AX1016|Bmobile_AX1016|AX1016|
+|BMobile|AX1017|Bmobile_AX1017_MV12|AX1017|
 |BMobile|AX1017|Bmobile_AX1017_TG05|AX1017|
 |BMobile|AX1020|Bmobile|AX1020|
 |BMobile|AX1020|Bmobile_AX1020|AX1020|
@@ -1822,12 +1837,20 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|AX1073PLUSMV18|Bmobile_AX1073PLUSMV18|AX1073PLUSMV18|
 |BMobile|AX1074|Bmobile_AX1074|AX1074|
 |BMobile|AX1075|Bmobile_AX1075|AX1075|
+|BMobile|AX1076+|Bmobile_AX1076P_MV03|AX1076+|
+|BMobile|AX1076+|Bmobile_AX1076P_MV05|AX1076+|
+|BMobile|AX1076+|Bmobile_AX1076P_MV12|AX1076+|
 |BMobile|AX1077|Bmobile_AX1077|AX1077|
 |BMobile|AX1077+|Bmobile_AX1077PLUS|AX1077+|
 |BMobile|AX1077+|Bmobile_AX1077_MAS|AX1077+|
 |BMobile|AX1077+|Bmobile_AX1077_MTG05|AX1077+|
 |BMobile|AX1077+|Bmobile_AX1077_MTG06|AX1077+|
 |BMobile|AX1077+|Bmobile_AX1077_MTG07|AX1077+|
+|BMobile|AX1080|Bmobile_AX1080|AX1080|
+|BMobile|AX1082|Bmobile_AX1082_MV07|AX1082|
+|BMobile|AX1082|Bmobile_AX1082_MV15|AX1082|
+|BMobile|AX1082|Bmobile_AX1082_TG|AX1082|
+|BMobile|AX1082|Bmobile_AX1082_TG07|AX1082|
 |BMobile|AX1085|Bmobile_AX1085|AX1085|
 |BMobile|AX1091|Bmobile_AX1091|AX1091|
 |BMobile|AX1091|Bmobile_AX1091|Bmobile_AX1091|
@@ -1860,7 +1883,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|AX823|Bmobile_AX823|AX823|
 |BMobile|AX823|Bmobile_AX823a|AX823|
 |BMobile|AX824|Bmobile_AX824_MV03|AX824|
+|BMobile|AX824+|Bmobile_AX824PLUS_MV03|AX824+|
 |BMobile|AX824A|Bmobile_AX824A|AX824A|
+|BMobile|AX824Plus|Bmobile_AX824Plus_MV15|AX824+|
 |BMobile|AX825|Bmobile_AX825|AX825|
 |BMobile|AX829|Bmobile_AX829|AX829|
 |BMobile|AX830|Bmobile_AX830|AX830|
@@ -1874,6 +1899,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|AX950|Bmobile_AX950|AX950|
 |BMobile|AX951|Bmobile_AX951|AX951|
 |BMobile|AX959|Bmobile_AX959|AX959|
+|BMobile|AX960|Bmobile_AX960_MV15|AX960|
 |BMobile|AX965|Bmobile_AX965|AX965|
 |BMobile|Bella|Bella|Bella|
 |BMobile|Bmobile AX1076|Bmobile_AX1076|AX1076|
@@ -1889,6 +1915,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|Bmoblie AX683|Bmobile_AX683_MV04|AX683|
 |BMobile|FUN 4|Bmobile_FUN_4_2018|FUN 4 2018|
 |BMobile|X10|Bmobile_X10_MV03|X10|
+|BMobile|X11|Bmobile_X11|Bmobile X11|
 |BQru|5060|BQru-5060|BQru-5060|
 |BQru|5701L Slim|BQru-5701L|BQ-5701L|
 |BQru|BQ 5503 NICE 2|BQru_5503|BQru-5503|
@@ -2651,6 +2678,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CEM Global|Continental|CE10412-26|CE10412-26|
 |CEM Global|Continential|CE10402-16|CE10402-16|
 |CEM Global|HS29779-18|HS29779-18|HS29779-18|
+|CG Corp|Android TV|R1|ATV R1|
+|CG Corp|Android TV|R2|ATV R2|
 |CG Mobile|Blaze G|Blaze_G|Blaze G|
 |CG Mobile|Blaze N|Blaze_N|Blaze N|
 |CG Mobile|EON Blaze Pro|CG_EON_Blaze_Pro|CG_EON_Blaze_Pro|
@@ -4206,6 +4235,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dragontouch|M10|M10|M10|
 |Dragontouch|M7|M7|M7|
 |Dragontouch|MAX_10|MAX_10|MAX 10|
+|Dragontouch|NotePad_Y80|NotePad_Y80|NotePad_Y80|
 |Dragontouch|Notepad_Go_803|Notepad_Go_803|Notepad_Go_803|
 |Dragontouch|V10|V10|V10|
 |Dragontouch|X10|X10A|X10|
@@ -4595,6 +4625,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Evertek|M10|M10|M10|
 |Evertek|M10 Nano|M10_Nano|M10 Nano|
 |Evertek|M10_Max|EVERTEK_M10_Max|M10+Max|
+|Evertek|M10_Pro|Evertek_M10_Pro|M10_Pro|
 |Evertek|V4|V4|EVERTEK V4|
 |Evertek|V4 Nano|V4_Nano|V4 Nano|
 |Evertek|V4+|V4_Plus|V4+|
@@ -5668,6 +5699,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HDD SAT|Tab_i_excess|Tab_i_excess|Tab_i_excess|
 |HKC|A79 Tablet|EM62|A79|
 |HKT|eye3|UY3-PCW|eye3|
+|HMR NETWORKS|HMR NETWORKS (PTY) LTD|HMR5012|HMR5012|
 |HOMTOM|C13|C13|C13|
 |HOMTOM|C2|C2|C2|
 |HOMTOM|C8|C8|C8|
@@ -9041,6 +9073,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|Koral 10W2|HT1003W16|HT1003W16|
 |Hyundai|Koral 10XL|HT1004L16|HT1004L16|
 |Hyundai|Koral_10X2|HT1004X16|Koral_10X2|
+|Hyundai|Koral_10XL|Koral_10XL|HT1004LI16|
+|Hyundai|Koral_10XL_Plus|Koral_10XL_Plus|HT1002LI32|
+|Hyundai|Koral_7XL|Koral_7XL|HT0701LI16|
 |Hyundai|L500U|L500U|L500U|
 |Hyundai|L501|L501|L501|
 |Hyundai|L502|Hyundai_L502|L502|
@@ -12493,6 +12528,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M8|8505FS|Lenovo TB-8505FS|
 |Lenovo|Lenovo Tab M8|8505N|Lenovo TB-8505N|
 |Lenovo|Lenovo Tab M8|8505X|Lenovo TB-8505X|
+|Lenovo|Lenovo Tab M8|8705X|Lenovo TB-8705X|
 |Lenovo|Lenovo Tab P10|X705F|Lenovo TB-X705F|
 |Lenovo|Lenovo Tab P10|X705L|Lenovo TB-X705L|
 |Lenovo|Lenovo Tab V7|PB-6505M|Lenovo PB-6505M|
@@ -15713,6 +15749,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Orbic|R370H|R370H|R370L|
 |Orbic|RC506LT|Orbic-RC506LT|RC506LT|
 |Orbic|Wonder|RC555L|RC555L|
+|Orient|Android TV|R1|ATV R1|
+|Orient|Android TV|R2|ATV R2|
 |Oukitel|C10|C10|C10|
 |Oukitel|C10 Pro|C10_Pro|C10 Pro|
 |Oukitel|C11|C11|C11|
@@ -15794,6 +15832,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PCBOX|Curi_Lite_PCB-T103|mid1008|PCB-T103 CURI LITE|
 |PCBOX|Kova-PCB-T730|Kova-PCB-T730|Kova-PCB-T730|
 |PCBOX|Kova_PCB-T730|Kova_PCB-T730|Kova_PCB-T730|
+|PCBOX|PCB-T732|MID7015A-MK|Kova 2 Plus PCB-T732|
 |PCD Argentina|610|610|610|
 |PCD Argentina|PCD508|PCD508|PCD508|
 |PCD Argentina|PCD509|PCD509|PCD509|
@@ -20069,8 +20108,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS sense2 SHV43|MZW|SHV43|
 |Sharp|AQUOS sense2 SHV43|MZW-u|SHV43-u|
 |Sharp|AQUOS sense3|PCZ-u|SHV45-u|
-|Sharp|AQUOS sense3|SH-M12|SH-M12|
 |Sharp|AQUOS sense3 SH-02M|SH-02M|SH-02M|
+|Sharp|AQUOS sense3 SH-M12|SH-M12|SH-M12|
 |Sharp|AQUOS sense3 SHV45|PCZ|SHV45|
 |Sharp|AQUOS sense3 basic (907SH)|SG907SH|907SH|
 |Sharp|AQUOS sense3 lite|SH-RM12|SH-RM12|
@@ -20405,9 +20444,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Skyworth|Asia|SW3_ATV|SWTV|
 |Skyworth|Asia|globe_ap|globe|
 |Skyworth|Asia|open_fhd_ap|open_fhd|
+|Skyworth|Asia|open_uhd_ap|open_uhd|
 |Skyworth|Euro|SW3_ATV|SWTV|
 |Skyworth|Europe|SW3H_ATV|SWTV|
 |Skyworth|Europe|globe_eu|globe|
+|Skyworth|Hong Kong|open_uhd_hk|open_uhd|
 |Skyworth|North America|SW3_ATV|SWTV|
 |Skyworth|North America|globe_na|globe|
 |Skyworth|North America|shimbashi|2K TV|
@@ -22570,6 +22611,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TM Cell|X40L|X40L|X40L|
 |TM Cell|X50A|X50A|X50A|
 |TMAX|TM9S775|MID908A-K|TM9S775|
+|TO21COMMS|TOP10|TOP10|TOP10|
+|TOPELOTEK|KIDS709|KIDS709|KIDS709|
+|TOPELOTEK|TOPELOTEK|KIDS08|KIDS08|
+|TOPELOTEK|TOPELOTEK|KIDS09|KIDS09|
 |TOSCIDO|X102|X102|X102|
 |TOUCHSMART|QUICKTAB|Quicktab|Quicktab|
 |TPS|MTC 982o|MTC_982O|MTC_982O|
