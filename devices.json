@@ -16195,6 +16195,12 @@
  },
  {
   "brand": "CILICO",
+  "name": "F750",
+  "device": "F750",
+  "model": "F750"
+ },
+ {
+  "brand": "CILICO",
   "name": "F880",
   "device": "F880",
   "model": "F880"
@@ -25459,9 +25465,21 @@
  },
  {
   "brand": "Dragontouch",
+  "name": "NotePad_101_B_EEA",
+  "device": "NotePad_101_B",
+  "model": "NotePad_101_B_EEA"
+ },
+ {
+  "brand": "Dragontouch",
   "name": "NotePad_Y80",
   "device": "NotePad_Y80",
   "model": "NotePad_Y80"
+ },
+ {
+  "brand": "Dragontouch",
+  "name": "Notepad_Go_801_EEA",
+  "device": "Notepad_Go_801",
+  "model": "Notepad_Go_801_EEA"
  },
  {
   "brand": "Dragontouch",
@@ -44376,6 +44394,12 @@
   "model": "YK_P30"
  },
  {
+  "brand": "Hoozo",
+  "name": "YK_P30_EEA",
+  "device": "YK_P30_EEA",
+  "model": "YK_P30_EEA"
+ },
+ {
   "brand": "Hot Pepper",
   "name": "Ghost",
   "device": "HPP-GS1",
@@ -54988,6 +55012,12 @@
   "name": "",
   "device": "msm7627_surf",
   "model": "INQ Mayfair (EU)"
+ },
+ {
+  "brand": "INSYS",
+  "name": "HK9-4010_EEA",
+  "device": "HK9-4010",
+  "model": "HK9-4010"
  },
  {
   "brand": "INSYS",
@@ -86881,6 +86911,12 @@
  },
  {
   "brand": "Mpgio",
+  "name": "Legend_A",
+  "device": "Legend_A",
+  "model": "Legend_A"
+ },
+ {
+  "brand": "Mpgio",
   "name": "MPGIO_8",
   "device": "MPGIO_8",
   "model": "MPGIO_8"
@@ -87442,6 +87478,12 @@
   "name": "Hammer Blade 2 Pro",
   "device": "Hammer_Blade2_PRO",
   "model": "Hammer_Blade2_PRO"
+ },
+ {
+  "brand": "MyPhone (PL)",
+  "name": "Hammer IRON 3 LTE",
+  "device": "Hammer_IRON_3_LTE",
+  "model": "Hammer_IRON_3_LTE"
  },
  {
   "brand": "MyPhone (PL)",
@@ -100327,6 +100369,18 @@
  },
  {
   "brand": "Prestigio",
+  "name": "HP10A4L",
+  "device": "HP10A4L",
+  "model": "PMT4991_4G"
+ },
+ {
+  "brand": "Prestigio",
+  "name": "HP10A5L",
+  "device": "HP10A5L",
+  "model": "PMT4891_4G_EEA"
+ },
+ {
+  "brand": "Prestigio",
   "name": "LS96A7G",
   "device": "LS96A7G",
   "model": "PMT3196_3G"
@@ -104974,6 +105028,12 @@
   "name": "GRAVITY_3G_2019_eea",
   "device": "GRAVITY_3G",
   "model": "GRAVITY 3G_2019"
+ },
+ {
+  "brand": "SPC Mobile",
+  "name": "GRAVITY_OCTACORE",
+  "device": "GRAVITY_OCTACORE",
+  "model": "GRAVITY_OCTACORE"
  },
  {
   "brand": "SPC Mobile",
@@ -128641,6 +128701,12 @@
  },
  {
   "brand": "TCL",
+  "name": "TCL T9x",
+  "device": "TokyoPro",
+  "model": "5129Y"
+ },
+ {
+  "brand": "TCL",
   "name": "Union TV",
   "device": "UnionTV",
   "model": "UnionTV"
@@ -132735,6 +132801,12 @@
   "brand": "TCT (Alcatel)",
   "name": "Alcatel 3L",
   "device": "TokyoPro",
+  "model": "5029Y"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 3L",
+  "device": "TokyoPro",
   "model": "5029Y_EEA"
  },
  {
@@ -135835,6 +135907,12 @@
  },
  {
   "brand": "TM Cell",
+  "name": "LOGIC_X60_PLUS",
+  "device": "LOGIC_X60_PLUS",
+  "model": "LOGIC_X60_PLUS"
+ },
+ {
+  "brand": "TM Cell",
   "name": "X40L",
   "device": "X40L",
   "model": "X40L"
@@ -136498,6 +136576,12 @@
   "name": "T30_ROW",
   "device": "T30",
   "model": "T30_ROW"
+ },
+ {
+  "brand": "Teclast",
+  "name": "X_ROW",
+  "device": "X_ROW",
+  "model": "X_ROW"
  },
  {
   "brand": "Teclast",
@@ -140572,6 +140656,12 @@
   "name": "G4",
   "device": "G4",
   "model": "G4"
+ },
+ {
+  "brand": "VANTEC",
+  "name": "G5",
+  "device": "G5",
+  "model": "G5"
  },
  {
   "brand": "VBox",
@@ -147232,6 +147322,12 @@
   "name": "X2",
   "device": "X2",
   "model": "X2"
+ },
+ {
+  "brand": "X-TIGI",
+  "name": "Hope10_Pro",
+  "device": "Hope10_Pro",
+  "model": "Hope10 Pro"
  },
  {
   "brand": "X-TIGI",
