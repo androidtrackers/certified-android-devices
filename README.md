@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-01-10
+Last sync is 2020-01-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2616,6 +2616,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Brandt|BSTAR|BSTAR|BSTAR|
 |Brandt|BSTAR+|BSTAR_PLUS|BSTAR+|
 |Brantel|E-tel_i10|E-tel_i10|E-tel i10|
+|Brasiltec|B1|B1|B1|
 |Bravis|A509_Jeans|A509_Jeans|A509_Jeans|
 |Bravis|A510_Jeans_4G|A510_Jeans_4G|A510_Jeans_4G|
 |Bravis|A511 Harmony|A511_Harmony|A511 Harmony|
@@ -4417,6 +4418,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Elephone|A5|A5|A5|
 |Elephone|A6_Max|A6_Max|A6_Max|
 |Elephone|A6_mini|A6_mini|A6_mini|
+|Elephone|A7H|A7H|A7H|
 |Elephone|Elephone S8|S8|S8|
 |Elephone|P11|P11|P11|
 |Elephone|P8 3D|P8_3D|P8_3D|
@@ -6628,6 +6630,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|W860|W860|W860|
 |Haier|haier lesure L7|Haier_Leisure_L7|HM-N700-FL|
 |Haier|i50|i50|Haier_i50|
+|Hamic|POCKET|POCKET|POCKET|
 |Hamlet|Hamlet_XZPAD412W|XZPAD412W|Hamlet_XZPAD412W|
 |Hamlet|XZPAD412LTE|XZPAD412LTE|XZPAD412LTE|
 |Handheld Group|ALGIZ RT8|ALGIZ_RT8|ALGIZ_RT8|
@@ -9794,6 +9797,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|S33|itel-S33|itel S33|
 |Itel|S41|itel_S41|itel S41|
 |Itel|S42|itel-S42|itel S42|
+|Itel|SP591|itel-W6004|itel W6004|
 |Itel|it1355|itel_it1355|itel it1355|
 |Itel|it1355M|itel_it1355M|itel it1355M|
 |Itel|it1407|itel_it1407|itel it1407|
@@ -14830,6 +14834,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NEONIQ|NQT-1014GIQ|NQT-1014GIQ|NQT-1014GIQ|
 |NEONIQ|NQT-73GIQ|NQT-73GIQ|NQT-73GIQ|
 |NESO|N810 i7|N810_i7_1|N810 i7|
+|NEWSUN|S20|S20|S20|
 |NEWSUN|S9|S9|S9|
 |NGM Italia SRL|Danamic Now|DynamicNow|Now|
 |NGM Italia SRL|Dynamic Racing 3|NGM_Dynamic_Racing_3|Dynamic Racing 3|
@@ -17588,6 +17593,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |STG Telecom|STG A1 Pro|STG_A1_Pro|STG A1 Pro|
 |STG Telecom|STG S1|STG_S1|STG S1|
 |STG Telecom|STG X1|STG_X1|STG X1|
+|STG Telecom|STG_C10|STG_C10|STG_C10|
 |STG Telecom|STG_S1|STG_S1|STG S1|
 |STIP|MS9|MS9|MS9|
 |STK(Santok)|Evo_2|Evo_2|Evo 2|

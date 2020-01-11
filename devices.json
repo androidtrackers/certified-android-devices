@@ -15666,6 +15666,12 @@
   "model": "E-tel i10"
  },
  {
+  "brand": "Brasiltec",
+  "name": "B1",
+  "device": "B1",
+  "model": "B1"
+ },
+ {
   "brand": "Bravis",
   "name": "A509_Jeans",
   "device": "A509_Jeans",
@@ -26470,6 +26476,12 @@
   "name": "A6_mini",
   "device": "A6_mini",
   "model": "A6_mini"
+ },
+ {
+  "brand": "Elephone",
+  "name": "A7H",
+  "device": "A7H",
+  "model": "A7H"
  },
  {
   "brand": "Elephone",
@@ -39736,6 +39748,12 @@
   "name": "i50",
   "device": "i50",
   "model": "Haier_i50"
+ },
+ {
+  "brand": "Hamic",
+  "name": "POCKET",
+  "device": "POCKET",
+  "model": "POCKET"
  },
  {
   "brand": "Hamlet",
@@ -58732,6 +58750,12 @@
   "name": "S42",
   "device": "itel-S42",
   "model": "itel S42"
+ },
+ {
+  "brand": "Itel",
+  "name": "SP591",
+  "device": "itel-W6004",
+  "model": "itel W6004"
  },
  {
   "brand": "Itel",
@@ -88951,6 +88975,12 @@
  },
  {
   "brand": "NEWSUN",
+  "name": "S20",
+  "device": "S20",
+  "model": "S20"
+ },
+ {
+  "brand": "NEWSUN",
   "name": "S9",
   "device": "S9",
   "model": "S9"
@@ -105496,6 +105526,12 @@
   "name": "STG X1",
   "device": "STG_X1",
   "model": "STG X1"
+ },
+ {
+  "brand": "STG Telecom",
+  "name": "STG_C10",
+  "device": "STG_C10",
+  "model": "STG_C10"
  },
  {
   "brand": "STG Telecom",
