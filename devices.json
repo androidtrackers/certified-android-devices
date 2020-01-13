@@ -2557,6 +2557,12 @@
  },
  {
   "brand": "Advance",
+  "name": "PR7145",
+  "device": "PR7145",
+  "model": "PR7145"
+ },
+ {
+  "brand": "Advance",
   "name": "Pr5747",
   "device": "Pr5747",
   "model": "Pr5747"
@@ -10098,6 +10104,12 @@
   "model": "Axioo_AX4"
  },
  {
+  "brand": "Axioo",
+  "name": "PICOpad_7H_R8",
+  "device": "PICOpad_7H_R8",
+  "model": "PICOpad_7H_R8"
+ },
+ {
   "brand": "Axxa Mobile",
   "name": "GEM",
   "device": "GEM",
@@ -10822,6 +10834,12 @@
   "name": "PlatinumTAB10",
   "device": "PlatinumTAB10",
   "model": "PlatinumTAB10"
+ },
+ {
+  "brand": "BLUEING",
+  "name": "M1867G",
+  "device": "M1867G",
+  "model": "M1867G"
  },
  {
   "brand": "BMPRO",
@@ -26364,6 +26382,12 @@
   "model": "M5501_B"
  },
  {
+  "brand": "Einstein",
+  "name": "ENTAB3",
+  "device": "ENTAB3",
+  "model": "EinsteinT3"
+ },
+ {
   "brand": "Ekotek",
   "name": "Sonata",
   "device": "Sonata",
@@ -31129,6 +31153,12 @@
  },
  {
   "brand": "G-Tab",
+  "name": "P733",
+  "device": "P733",
+  "model": "P733"
+ },
+ {
+  "brand": "G-Tab",
   "name": "Q2",
   "device": "Q2",
   "model": "Q2"
@@ -31210,6 +31240,12 @@
   "name": "President_smart_5",
   "device": "President_smart_5",
   "model": "President_smart_5"
+ },
+ {
+  "brand": "GFive",
+  "name": "Speedo_1",
+  "device": "Speedo_1",
+  "model": "Speedo_1"
  },
  {
   "brand": "GFive",
@@ -34036,6 +34072,12 @@
   "name": "Xmini4G",
   "device": "Xmini4G",
   "model": "Xmini4G"
+ },
+ {
+  "brand": "Grolier",
+  "name": "GSR2",
+  "device": "GSR2",
+  "model": "GSR2"
  },
  {
   "brand": "Grundig",
@@ -55096,6 +55138,12 @@
   "name": "VIATABQX740",
   "device": "VIATABQX740",
   "model": "VIATABQX740"
+ },
+ {
+  "brand": "ITOS",
+  "name": "IC_61",
+  "device": "IC_61",
+  "model": "IC_61"
  },
  {
   "brand": "ITOS",
@@ -92160,6 +92208,12 @@
   "model": "TBBVNC100005208"
  },
  {
+  "brand": "Onn (Walmart)",
+  "name": "TBBVNC100005209",
+  "device": "TBBVNC100005209",
+  "model": "TBBVNC100005209"
+ },
+ {
   "brand": "Ooredoo",
   "name": "Ooredoo TV",
   "device": "diw387oor",
@@ -98302,6 +98356,12 @@
   "name": "Pixus_Blast",
   "device": "Pixus_Blast",
   "model": "Pixus_Blast"
+ },
+ {
+  "brand": "Pixus",
+  "name": "Pixus_Sprint",
+  "device": "Sprint",
+  "model": "Pixus_Sprint"
  },
  {
   "brand": "Plaisio",
@@ -140830,6 +140890,12 @@
   "name": "Vega Q7128",
   "device": "Vega_Q7128",
   "model": "Vega Q7128"
+ },
+ {
+  "brand": "Veidoo",
+  "name": "T7",
+  "device": "T7",
+  "model": "T7"
  },
  {
   "brand": "Veidoo",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-01-12
+Last sync is 2020-01-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -431,6 +431,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advance|HL6256|HL6256|HL6256|
 |Advance|HL6577|HL6577|HL6577|
 |Advance|HL7257|HL7257|HL7257|
+|Advance|PR7145|PR7145|PR7145|
 |Advance|Pr5747|Pr5747|Pr5747|
 |Advance|Pr6146|Pr6146|Pr6146|
 |Advance|Pr6150|Pr6150|Pr6150|
@@ -1688,6 +1689,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Avvio|Mint_M353|Mint_M353|Mint_M353|
 |Avvio|Q503|Avvio_Q503|Avvio_Q503|
 |Axioo|Axioo AX4|Axioo_AX4|Axioo_AX4|
+|Axioo|PICOpad_7H_R8|PICOpad_7H_R8|PICOpad_7H_R8|
 |Axxa Mobile|GEM|GEM|GEM|
 |Azumi|A4|A4|Azumi A4|
 |Azumi|A4|A4_AC25|Azumi A4|
@@ -1809,6 +1811,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BLOW|BlackTAB7|BlackTAB7|BlackTAB7|
 |BLOW|KidsTAB7_EEA|KidsTAB7|KidsTAB7|
 |BLOW|PlatinumTAB10|PlatinumTAB10|PlatinumTAB10|
+|BLUEING|M1867G|M1867G|M1867G|
 |BMPRO|BMPRO7DI|BMPRO7DI|BMPRO7DI|
 |BMXC|K107|K107|K107|
 |BMXC|K107_EEA|K107-EEA|K107-EEA|
@@ -4399,6 +4402,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Edcon|Verssed Platinum VP3.0|VERSSED_Vp3|VERSSED vp3|
 |Edong|LOL-775|LOL_775|LOL-775|
 |Eigou|M5501_B|M5501_B|M5501_B|
+|Einstein|ENTAB3|ENTAB3|EinsteinT3|
 |Ekotek|Sonata|Sonata|Sonata|
 |Eks Mobility|S45U|S45U|EKS S45U|
 |Eks Mobility|S5LS|S5LS|S5LS|
@@ -5193,6 +5197,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Tab|G4|G4|G4|
 |G-Tab|G5|G5|G5|
 |G-Tab|P2000|P2000|P2000|
+|G-Tab|P733|P733|P733|
 |G-Tab|Q2|Q2|Q2|
 |G-Tab|Q69|Q69|Q69|
 |G-TiDE|EXTREME X9|EXTREME_X9|EXTREME X9|
@@ -5207,6 +5212,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GFive|PRESIDENT_GOLD_9|PRESIDENT_GOLD_9|PRESIDENT_GOLD_9|
 |GFive|President_Classic_9|President_Classic_9|President_Classic_9|
 |GFive|President_smart_5|President_smart_5|President_smart_5|
+|GFive|Speedo_1|Speedo_1|Speedo_1|
 |GFive|Xhero_7|Xhero_7|Xhero_7|
 |GIGI|U1|GIGI_U1|GIGI_U1|
 |GIRASOLE|X9|X9|X9|
@@ -5678,6 +5684,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Greentel|Xmini|P4072|Xmini|
 |Greentel|Xmini|Xmini|Xmini|
 |Greentel|Xmini4G|Xmini4G|Xmini4G|
+|Grolier|GSR2|GSR2|GSR2|
 |Grundig|GTB1030|TA10CA2|TA10CA2|
 |Grundig|GTB1050|GTB1050|GTB 1050|
 |Grundig|GTB850|GTB850|GTB 850|
@@ -9188,6 +9195,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IQ Touch|VIATABQX1040|VIATABQX1040|VIATABQX1040|
 |IQ Touch|VIATABQX730|VIATABQX730|VIATABQX730|
 |IQ Touch|VIATABQX740|VIATABQX740|VIATABQX740|
+|ITOS|IC_61|IC_61|IC_61|
 |ITOS|IT_51|IT_51|IT_51|
 |IUNI|N1|IUNI_N1|IUNI N1|
 |IUSA|TR10CS1|TR10CS1_7|TR10CS1|
@@ -15365,6 +15373,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Onn (Walmart)|ONA19TB003|ONA19TB003|ONA19TB003|
 |Onn (Walmart)|TBBVNC100005207|TBBVNC100005207|TBBVNC100005207|
 |Onn (Walmart)|TBBVNC100005208|TBBVNC100005208|TBBVNC100005208|
+|Onn (Walmart)|TBBVNC100005209|TBBVNC100005209|TBBVNC100005209|
 |Ooredoo|Ooredoo TV|diw387oor|DIW387_UHD_OOR|
 |Ooredoo|Smart10_Pro|Smart10_Pro|Smart10_Pro|
 |Opay|M1 Lite|M1_Lite|M1 Lite|
@@ -16389,6 +16398,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pixela|PIX-SMB400|tennouji|PIX-SMB400|
 |Pixela|PIX_VP100|kyobashi|PIX-VP100|
 |Pixus|Pixus_Blast|Pixus_Blast|Pixus_Blast|
+|Pixus|Pixus_Sprint|Sprint|Pixus_Sprint|
 |Plaisio|A2|Turbo-X_A2|Turbo-X_A2|
 |Plaisio|A4|A4|A4|
 |Plaisio|Aqua|Aqua|Aqua|
@@ -23477,6 +23487,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vava|XP3|XP3|XP3|
 |Vaxcare|VAX114|VAX114|VAX114|
 |Vega|Vega Q7128|Vega_Q7128|Vega Q7128|
+|Veidoo|T7|T7|T7|
 |Veidoo|VEIDOO_T8|VEIDOO_T8|T8|
 |Venso|CX-508|CX-508|CX-508|
 |Venso|Venso CX-551|Venso_CX_551|Venso CX-551|
