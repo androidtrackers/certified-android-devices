@@ -24,6 +24,12 @@
   "model": "DIW362P 1U1"
  },
  {
+  "brand": "1&1",
+  "name": "1&1 TV Box",
+  "device": "diw387_1u1",
+  "model": "DIW387 1U1"
+ },
+ {
   "brand": "10.or",
   "name": "10or_G2",
   "device": "G2",
@@ -16171,6 +16177,12 @@
  },
  {
   "brand": "CHAINWAY",
+  "name": "C61",
+  "device": "C61",
+  "model": "C61"
+ },
+ {
+  "brand": "CHAINWAY",
   "name": "C66",
   "device": "C66",
   "model": "C66"
@@ -26062,6 +26074,12 @@
   "name": "K502",
   "device": "K502",
   "model": "K502"
+ },
+ {
+  "brand": "EPIKONE",
+  "name": "K503T",
+  "device": "K503T",
+  "model": "K503T"
  },
  {
   "brand": "EPIKONE",
@@ -61813,6 +61831,12 @@
  },
  {
   "brand": "Kubo",
+  "name": "F99",
+  "device": "F99",
+  "model": "F99"
+ },
+ {
+  "brand": "Kubo",
   "name": "K5",
   "device": "K5",
   "model": "K5"
@@ -91942,6 +91966,12 @@
   "name": "OP110",
   "device": "OP110",
   "model": "OP110"
+ },
+ {
+  "brand": "Olla",
+  "name": "M8",
+  "device": "M8",
+  "model": "M8"
  },
  {
   "brand": "Olla",
@@ -132421,6 +132451,12 @@
  },
  {
   "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1A",
+  "device": "Seoul",
+  "model": "5002F_RU"
+ },
+ {
+  "brand": "TCT (Alcatel)",
   "name": "Alcatel 1B",
   "device": "Seoul",
   "model": "5002A"
@@ -132447,7 +132483,7 @@
   "brand": "TCT (Alcatel)",
   "name": "Alcatel 1B",
   "device": "Seoul",
-  "model": "5002F_RU"
+  "model": "5002X"
  },
  {
   "brand": "TCT (Alcatel)",
@@ -132802,6 +132838,12 @@
   "name": "Alcatel 3",
   "device": "Gauss",
   "model": "5053Y_RU"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 3",
+  "device": "TokyoPro",
+  "model": "5029E"
  },
  {
   "brand": "TCT (Alcatel)",
@@ -142885,6 +142927,12 @@
  },
  {
   "brand": "Vivax",
+  "name": "TPC-102_4G_eea",
+  "device": "TPC-102_4G",
+  "model": "VIVAX TPC-102 4G"
+ },
+ {
+  "brand": "Vivax",
   "name": "TPC-704-3G",
   "device": "TPC-704-3G",
   "model": "TPC-704-3G"
@@ -147154,6 +147202,18 @@
   "name": "T10",
   "device": "T10",
   "model": "T10"
+ },
+ {
+  "brand": "Winnovo",
+  "name": "T10LTE_eea",
+  "device": "T10LTE",
+  "model": "T10LTE"
+ },
+ {
+  "brand": "Winnovo",
+  "name": "T113_eea",
+  "device": "T113",
+  "model": "T113"
  },
  {
   "brand": "Winnovo",
@@ -159814,6 +159874,12 @@
   "name": "iHunt S90 Apex",
   "device": "S90_Apex",
   "model": "S90_Apex"
+ },
+ {
+  "brand": "iHunt",
+  "name": "iHunt_S60_Discovery_Pro_2020",
+  "device": "iHunt_S60_Discovery_Pro_2020",
+  "model": "iHunt_S60_Discovery_Pro_2020"
  },
  {
   "brand": "iLa Mobile",

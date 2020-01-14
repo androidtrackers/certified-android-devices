@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-01-13
+Last sync is 2020-01-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9,6 +9,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |||FJL21|FJL21|
 |||hws7721g|MediaPad 7 Youth 2|
 |1&1|1&1 Puck|diw362_1u1|DIW362P 1U1|
+|1&1|1&1 TV Box|diw387_1u1|DIW387 1U1|
 |10.or|10or_G2|G2|10or G2|
 |10.or|D|10or_D|D|
 |10.or|E|E|E|
@@ -2700,6 +2701,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CG Mobile|OMEGA 8|CG_Omega_8|Omega 8|
 |CG Mobile|Omega6|OMEGA6|CG_OMEGA6|
 |CGV (France)|Ultimate T8|Ultimate_T8|CGV_Ultimate T8|
+|CHAINWAY|C61|C61|C61|
 |CHAINWAY|C66|C66|C66|
 |CHAINWAY|C66_EEA|C66|C66|
 |CHAINWAY|C71|C71|C71|
@@ -4349,6 +4351,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EPIKONE|K501|K501|K501|
 |EPIKONE|K501_Plus|K501_Plus|K501 Plus|
 |EPIKONE|K502|K502|K502|
+|EPIKONE|K503T|K503T|K503T|
 |EPIKONE|K504|K504|K504|
 |EPIKONE|K510|K510|K510|
 |EPIKONE|K511|K511|K511|
@@ -10307,6 +10310,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kruger&Matz|MOVE8mini|MOVE8mini|MOVE8mini|
 |Kruger&Matz|MOVE9|MOVE9|MOVE9|
 |Kruger&Matz|MOVE_8.1|MOVE_8_1|MOVE_8|
+|Kubo|F99|F99|F99|
 |Kubo|K5|K5|K5|
 |Kudae|K10 PRO|K10_PRO|K10 PRO|
 |Kudae|K101|K101|K101|
@@ -15329,6 +15333,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Olive Oil|OliveOil Model 3|wecct3|CT3|
 |Olivetti|Graphos A10|Graphos_A10|Graphos A10|
 |Olivetti|OP110|OP110|OP110|
+|Olla|M8|M8|M8|
 |Olla|Note3|Note3|Note3|
 |Ollee|T07TR1W|T07TR1W|T07TR1W|
 |Ollee|T08HM3MSA9|T08HM3MSA9|T08HM3MSA9|
@@ -22075,11 +22080,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|HEYOU10|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|Optus X Start|
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|Orange Rise 54_Alcatel_5033D|
+|TCT (Alcatel)|Alcatel 1A|Seoul|5002F_RU|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002A|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002D|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002D_EEA|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002D_RU|
-|TCT (Alcatel)|Alcatel 1B|Seoul|5002F_RU|
+|TCT (Alcatel)|Alcatel 1B|Seoul|5002X|
 |TCT (Alcatel)|Alcatel 1C|Curie|5003D|
 |TCT (Alcatel)|Alcatel 1C|Curie|5003D_EEA|
 |TCT (Alcatel)|Alcatel 1C|Curie|Listo SP50|
@@ -22139,6 +22145,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 3|Gauss|5053Y|
 |TCT (Alcatel)|Alcatel 3|Gauss|5053Y_EEA|
 |TCT (Alcatel)|Alcatel 3|Gauss|5053Y_RU|
+|TCT (Alcatel)|Alcatel 3|TokyoPro|5029E|
 |TCT (Alcatel)|Alcatel 3C|5006|5006A|
 |TCT (Alcatel)|Alcatel 3C|5006|5006G|
 |TCT (Alcatel)|Alcatel 3L|A3A_LITE|5034D|
@@ -23819,6 +23826,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivax|FUN S20|FUN_S20|FUN_S20|
 |Vivax|Point X502|Point_X502|Point X502|
 |Vivax|Point_X2|Point_X2|Point_X2|
+|Vivax|TPC-102_4G_eea|TPC-102_4G|VIVAX TPC-102 4G|
 |Vivax|TPC-704-3G|TPC-704-3G|TPC-704-3G|
 |Vivax|TPC_8043G|TPC_8043G|TPC_8043G|
 |Vivax|VIVAX Fun_S1|FUN_S1|FUN S1|
@@ -24531,6 +24539,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Winmax|x40|X40|X40|
 |Winnovo|M86|M86|M86|
 |Winnovo|T10|T10|T10|
+|Winnovo|T10LTE_eea|T10LTE|T10LTE|
+|Winnovo|T113_eea|T113|T113|
 |Winnovo|T7_eea|T7|T7|
 |Winnovo|T8|T8|T8|
 |Winnovo|T8_eea|T8|T8|
@@ -26641,6 +26651,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iHunt|Tian_P7000|Tian_P7000|Tian_P7000|
 |iHunt|TitanP6000|TitanP6000|TitanP6000|
 |iHunt|iHunt S90 Apex|S90_Apex|S90_Apex|
+|iHunt|iHunt_S60_Discovery_Pro_2020|iHunt_S60_Discovery_Pro_2020|iHunt_S60_Discovery_Pro_2020|
 |iLa Mobile|D1|D1|D1|
 |iLa Mobile|E1 Plus|E1_Plus|E1 Plus|
 |iLa Mobile|ILA C1|ILA_C1|ILA C1|
