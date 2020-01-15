@@ -3799,6 +3799,12 @@
  },
  {
   "brand": "AllView",
+  "name": "Viva 803G",
+  "device": "Viva_803G",
+  "model": "Viva_803G"
+ },
+ {
+  "brand": "AllView",
   "name": "Viva C701",
   "device": "Viva_C701",
   "model": "Viva_C701"
@@ -16951,6 +16957,12 @@
  },
  {
   "brand": "Ceibal",
+  "name": "ACRUX",
+  "device": "ACRUX",
+  "model": "ACRUX"
+ },
+ {
+  "brand": "Ceibal",
   "name": "Ibirapita",
   "device": "A81F",
   "model": "A81F"
@@ -17908,6 +17920,12 @@
   "name": "Flare S8",
   "device": "X930",
   "model": "Flare S8"
+ },
+ {
+  "brand": "Cherry Mobile",
+  "name": "Flare S8 2020",
+  "device": "X930B",
+  "model": "Flare S8 2020"
  },
  {
   "brand": "Cherry Mobile",
@@ -21556,6 +21574,12 @@
   "name": "K-Ranger",
   "device": "K-Ranger",
   "model": "K-Ranger_RU"
+ },
+ {
+  "brand": "Custom",
+  "name": "P-Ranger",
+  "device": "P-Ranger",
+  "model": "P-Ranger"
  },
  {
   "brand": "Cutepad",
@@ -32059,6 +32083,12 @@
  },
  {
   "brand": "Ghia",
+  "name": "Venus7",
+  "device": "Venus7",
+  "model": "Venus7"
+ },
+ {
+  "brand": "Ghia",
   "name": "ZEUS 3G",
   "device": "N2",
   "model": "GHIA_ZEUS_3G"
@@ -33574,6 +33604,12 @@
   "name": "X2",
   "device": "X2",
   "model": "X2"
+ },
+ {
+  "brand": "Go Mobile",
+  "name": "X6",
+  "device": "GM",
+  "model": "X6"
  },
  {
   "brand": "GoClever",
@@ -61255,6 +61291,12 @@
  },
  {
   "brand": "Klipad",
+  "name": "KL502",
+  "device": "KL502",
+  "model": "KL502"
+ },
+ {
+  "brand": "Klipad",
   "name": "KL600",
   "device": "KLIPAD_KL600",
   "model": "KLIPAD_KL600"
@@ -78631,6 +78673,12 @@
  },
  {
   "brand": "MLS Innovation",
+  "name": "iQM1518",
+  "device": "iQM1518",
+  "model": "iQM1518"
+ },
+ {
+  "brand": "MLS Innovation",
   "name": "iQM960L",
   "device": "iQM960L",
   "model": "iQM960L"
@@ -91720,6 +91768,12 @@
   "name": "QuartzT10-3",
   "device": "QuartzT10-3",
   "model": "QuartzT10-3"
+ },
+ {
+  "brand": "ORBYS",
+  "name": "F20",
+  "device": "F20",
+  "model": "F20"
  },
  {
   "brand": "OTHO",
@@ -119077,6 +119131,12 @@
  },
  {
   "brand": "Samsung",
+  "name": "Galaxy XCover Pro",
+  "device": "xcoverpro",
+  "model": "SM-G715U1"
+ },
+ {
+  "brand": "Samsung",
   "name": "Galaxy XCover4",
   "device": "xcover4lte",
   "model": "SM-G390F"
@@ -122569,6 +122629,12 @@
  },
  {
   "brand": "Siragon",
+  "name": "SP-6000",
+  "device": "SP-6000",
+  "model": "SP-6000"
+ },
+ {
+  "brand": "Siragon",
   "name": "SP-7050",
   "device": "SP-7050",
   "model": "SP-7050"
@@ -123472,6 +123538,12 @@
   "name": "tphone P",
   "device": "P840F12",
   "model": "T5211"
+ },
+ {
+  "brand": "Smile",
+  "name": "A955Z",
+  "device": "A955Z",
+  "model": "A955Z"
  },
  {
   "brand": "Smooth",
@@ -145501,6 +145573,12 @@
  },
  {
   "brand": "Walton",
+  "name": "Primo H9",
+  "device": "Primo_H9",
+  "model": "Primo H9"
+ },
+ {
+  "brand": "Walton",
   "name": "Primo HM4",
   "device": "Primo_HM4",
   "model": "Primo HM4"
@@ -146794,6 +146872,18 @@
   "name": "View3 Pro",
   "device": "W-P611",
   "model": "W-P611-TVM"
+ },
+ {
+  "brand": "Wiko",
+  "name": "View4",
+  "device": "W-V830",
+  "model": "W-V830-EEA"
+ },
+ {
+  "brand": "Wiko",
+  "name": "View4 Lite",
+  "device": "W-V730",
+  "model": "W-V730-TVM"
  },
  {
   "brand": "Wiko",
@@ -160858,6 +160948,12 @@
   "name": "S10",
   "device": "S10",
   "model": "S10"
+ },
+ {
+  "brand": "xTouch",
+  "name": "S20",
+  "device": "S20",
+  "model": "S20"
  },
  {
   "brand": "xTouch",

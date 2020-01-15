@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-01-14
+Last sync is 2020-01-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -638,6 +638,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|Viva 1001G|Viva_1001G|Viva_1001G|
 |AllView|Viva 1003G|Viva_1003G|Viva_1003G|
 |AllView|Viva 1003G Lite|Viva_1003G_Lite|Viva_1003G_Lite|
+|AllView|Viva 803G|Viva_803G|Viva_803G|
 |AllView|Viva C701|Viva_C701|Viva_C701|
 |AllView|Viva C702|Viva_C702|Viva_C702|
 |AllView|Viva C703|Viva_C703|Viva_C703|
@@ -2830,6 +2831,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cavion|base10.3g silver|base10_3g_silver|base10_3g_silver|
 |Ceibal|A102|A102|A102|
 |Ceibal|A81G_Ibi|A81G_Ibi|A81G_Ibi|
+|Ceibal|ACRUX|ACRUX|ACRUX|
 |Ceibal|Ibirapita|A81F|A81F|
 |Ceibal|KIL-TAB82WIFI|KIL-TAB82WIFI|KIL-TAB82WIFI|
 |Ceibal|Kil-82WFDC|Kil-82WFDC|Kil-82WFDC|
@@ -2990,6 +2992,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cherry Mobile|Flare S7 Plus|Flare_S7_Plus|Flare S7 Plus|
 |Cherry Mobile|Flare S7 Power|Flare_S7_Power|Flare_S7_Power|
 |Cherry Mobile|Flare S8|X930|Flare S8|
+|Cherry Mobile|Flare S8 2020|X930B|Flare S8 2020|
 |Cherry Mobile|Flare S8 Max|X970|Flare S8 Max|
 |Cherry Mobile|Flare S8e|H1990|Flare S8e|
 |Cherry Mobile|Flare Tab|A830|Flare Tab|
@@ -3598,6 +3601,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Custom|K-Ranger|K-Ranger|K-Ranger|
 |Custom|K-Ranger|K-Ranger|K-Ranger_ROW|
 |Custom|K-Ranger|K-Ranger|K-Ranger_RU|
+|Custom|P-Ranger|P-Ranger|P-Ranger|
 |Cutepad|Tab_4_M7078|Tab_4_M7078|Tab_4_M7078|
 |Cyrus|CM17|CM17|CM17|
 |Cyrus|CS22|CS22|CS22|
@@ -5348,6 +5352,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ghia|VECTOR10.1|VECTOR10_1|VECTOR10.1|
 |Ghia|VECTOR10Plus|VECTOR10Plus|VECTOR10Plus|
 |Ghia|VECTOR_SLIM2|VECTOR_SLIM2|VECTOR_SLIM2|
+|Ghia|Venus7|Venus7|Venus7|
 |Ghia|ZEUS 3G|N2|GHIA_ZEUS_3G|
 |Gigabyte||G1317S|GSmart G1317S|
 |Gigabyte|9788|9788|9788|
@@ -5601,6 +5606,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Go Mobile|GO404|GO404|GO404|
 |Go Mobile|X1|X1|X1|
 |Go Mobile|X2|X2|X2|
+|Go Mobile|X6|GM|X6|
 |GoClever|INSIGNIA 550i|INSIGNIA_550i|INSIGNIA_550i|
 |GoClever|QUANTUM 1010N|QUANTUM_1010N|QUANTUM_1010N|
 |GoClever|QUANTUM 400 LITE|QUANTUM_400_LITE|QUANTUM_400_LITE|
@@ -10214,6 +10220,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Klipad|KL4898|KL4898|KL4898|
 |Klipad|KL4898_A50|KL4898_A50|KL4898_A50|
 |Klipad|KL500|KL500|KL500|
+|Klipad|KL502|KL502|KL502|
 |Klipad|KL600|KLIPAD_KL600|KLIPAD_KL600|
 |Klipad|KL600B|KLIPAD_KL600B|KL600B|
 |Klipad|KL601|KL601|KL601|
@@ -13110,6 +13117,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MLS Innovation|iQD10S|iQD10S|iQD10S|
 |MLS Innovation|iQG550|iQG550|iQG550|
 |MLS Innovation|iQL550|iQL550|iQL550|
+|MLS Innovation|iQM1518|iQM1518|iQM1518|
 |MLS Innovation|iQM960L|iQM960L|iQM960L|
 |MLS Innovation|iQME100|iQME100|iQME100|
 |MLS Innovation|iQN700|iQN700|iQN700|
@@ -15292,6 +15300,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONDA TLC|T9 S|T9S|T9S|
 |ONYX|AKA Model A|Model_A|Model A|
 |ONYX|QuartzT10-3|QuartzT10-3|QuartzT10-3|
+|ORBYS|F20|F20|F20|
 |OTHO|T1|T1|T1|
 |OTHO|T3|T3|T3|
 |OTK|BM57 lite|BM57_lite|BM57_lite|
@@ -19851,6 +19860,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy XCover Field Pro|haechiy19|SM-G889F|
 |Samsung|Galaxy XCover FieldPro|haechiy19|SM-G889G|
 |Samsung|Galaxy XCover FieldPro|haechiy19lteatt|SM-G889A|
+|Samsung|Galaxy XCover Pro|xcoverpro|SM-G715U1|
 |Samsung|Galaxy XCover4|xcover4lte|SM-G390F|
 |Samsung|Galaxy Xcover|GT-S5690|GT-S5690|
 |Samsung|Galaxy Xcover|GT-S5690L|GT-S5690L|
@@ -20433,6 +20443,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sintel|SINTEL-X1|SINTEL_X1|SINTEL-X1|
 |Siragon|SP-5000|SP-5000|Siragon SP-5000|
 |Siragon|SP-5250|SP-5250|SP-5250|
+|Siragon|SP-6000|SP-6000|SP-6000|
 |Siragon|SP-7050|SP-7050|SP-7050|
 |Siragon|SP-7100|SP-7100|SP-7100|
 |Siragon|TB-5300|TB-5300|TB-5300|
@@ -20584,6 +20595,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smartron|Srtphone|rimo02a|T5524|
 |Smartron|tphone|rimo01a|T5511|
 |Smartron|tphone P|P840F12|T5211|
+|Smile|A955Z|A955Z|A955Z|
 |Smooth|S2|S2|S2|
 |Smooth|S2_Advance|SSmooth_S2_Advance|S2 Advance|
 |Snopow|M10|M10|M10|
@@ -24255,6 +24267,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|Primo H7|Primo_H7|Primo H7|
 |Walton|Primo H7s|Primo_H7s|Primo H7s|
 |Walton|Primo H8 Pro|Primo_H8_Pro|Primo H8 Pro|
+|Walton|Primo H9|Primo_H9|Primo H9|
 |Walton|Primo HM4|Primo_HM4|Primo HM4|
 |Walton|Primo HM4+|Primo_HM4_PLUS|Primo HM4+|
 |Walton|Primo HM4i|Primo_HM4i|Primo HM4i|
@@ -24471,6 +24484,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|View3 Pro|W-P611|W-P611-EEA|
 |Wiko|View3 Pro|W-P611|W-P611-OPE|
 |Wiko|View3 Pro|W-P611|W-P611-TVM|
+|Wiko|View4|W-V830|W-V830-EEA|
+|Wiko|View4 Lite|W-V730|W-V730-TVM|
 |Wiko|W-K200|W-K200|W-K200|
 |Wiko|WAX|s8515|WAX|
 |Wiko|WC300|WC300|WC300|
@@ -26815,6 +26830,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |xTouch|E4|E4|E4|
 |xTouch|E5|E5|E5|
 |xTouch|S10|S10|S10|
+|xTouch|S20|S20|S20|
 |xTouch|X10|X10|X10|
 |xTouch|X9|X9_16GB|X9_16GB|
 |xTouch|XBOT_SENIOR|XBot_Senior|X Bot Senior|
