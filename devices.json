@@ -11498,6 +11498,12 @@
  {
   "brand": "BMobile",
   "name": "Bmobile AX960",
+  "device": "Bmobile_AX960",
+  "model": "AX960"
+ },
+ {
+  "brand": "BMobile",
+  "name": "Bmobile AX960",
   "device": "Bmobile_AX960_MV03",
   "model": "AX960"
  },
@@ -13987,6 +13993,12 @@
  },
  {
   "brand": "Blaupunkt",
+  "name": "Blaupunkt",
+  "device": "bangbae",
+  "model": "BLAUPUNKT 4K Android TV"
+ },
+ {
+  "brand": "Blaupunkt",
   "name": "Blaupunkt SL 01",
   "device": "Blaupunkt_SL_01",
   "model": "Blaupunkt SL 01"
@@ -15874,6 +15886,12 @@
   "name": "Bubblegum",
   "device": "Bubblegum",
   "model": "Bubblegum"
+ },
+ {
+  "brand": "Buddy Phone",
+  "name": "P1",
+  "device": "BP",
+  "model": "P1"
  },
  {
   "brand": "Buddy Phone",
@@ -18418,6 +18436,12 @@
   "name": "CLARMIN C1",
   "device": "CLARMIN_C1",
   "model": "CLARMIN C1"
+ },
+ {
+  "brand": "Classpro",
+  "name": "SAUDI ARABIC",
+  "device": "samseong",
+  "model": "AI PONT"
  },
  {
   "brand": "Clementoni",
@@ -22873,6 +22897,12 @@
  },
  {
   "brand": "Datalogic",
+  "name": "Memor 20",
+  "device": "Q10",
+  "model": "Memor 20"
+ },
+ {
+  "brand": "Datalogic",
   "name": "Q10_WLAN",
   "device": "Q10A",
   "model": "Memor 20"
@@ -23374,6 +23404,12 @@
   "name": "TIQ-104",
   "device": "TIQ104",
   "model": "TIQ-104"
+ },
+ {
+  "brand": "DiDi (Japan)",
+  "name": "DDT-001",
+  "device": "DDT-001",
+  "model": "DDT-001"
  },
  {
   "brand": "DiMora Mobile",
@@ -31285,6 +31321,12 @@
  },
  {
   "brand": "GFive",
+  "name": "Speedo",
+  "device": "Speedo",
+  "model": "Speedo"
+ },
+ {
+  "brand": "GFive",
   "name": "Speedo_1",
   "device": "Speedo_1",
   "model": "Speedo_1"
@@ -33676,6 +33718,12 @@
   "name": "F3Prime",
   "device": "F3Prime",
   "model": "F3Prime"
+ },
+ {
+  "brand": "Gol Mobile",
+  "name": "F4",
+  "device": "F4",
+  "model": "F4"
  },
  {
   "brand": "Gol Mobile",
@@ -54739,6 +54787,12 @@
  },
  {
   "brand": "Hyundai",
+  "name": "Russia",
+  "device": "samseong",
+  "model": "AI PONT"
+ },
+ {
+  "brand": "Hyundai",
   "name": "Seoul 9",
   "device": "Seoul_9",
   "model": "Seoul 9"
@@ -59404,6 +59458,12 @@
   "name": "XG200",
   "device": "XG200",
   "model": "XG200"
+ },
+ {
+  "brand": "Janam",
+  "name": "XG4",
+  "device": "XG4",
+  "model": "XG4"
  },
  {
   "brand": "Janam",
@@ -78733,6 +78793,12 @@
  },
  {
   "brand": "MOBULAA",
+  "name": "K1",
+  "device": "K1",
+  "model": "K1"
+ },
+ {
+  "brand": "MOBULAA",
   "name": "S6",
   "device": "S6",
   "model": "S6"
@@ -89746,6 +89812,12 @@
   "name": "T500 3G",
   "device": "T500_3G",
   "model": "T500 3G"
+ },
+ {
+  "brand": "Navitel",
+  "name": "T505PRO",
+  "device": "T505PRO",
+  "model": "T505PRO"
  },
  {
   "brand": "Navitel",
@@ -112195,6 +112267,12 @@
  },
  {
   "brand": "Samsung",
+  "name": "Galaxy Note10 Lite",
+  "device": "r7",
+  "model": "SM-N770F"
+ },
+ {
+  "brand": "Samsung",
   "name": "Galaxy Note10+",
   "device": "SC-01M",
   "model": "SC-01M"
@@ -114016,6 +114094,12 @@
   "name": "Galaxy S10 5G",
   "device": "beyondxq",
   "model": "SM-G977U"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy S10 Lite",
+  "device": "r5q",
+  "model": "SM-G770F"
  },
  {
   "brand": "Samsung",
@@ -119133,6 +119217,12 @@
   "brand": "Samsung",
   "name": "Galaxy XCover Pro",
   "device": "xcoverpro",
+  "model": "SM-G715FN"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy XCover Pro",
+  "device": "xcoverpro",
   "model": "SM-G715U1"
  },
  {
@@ -122629,6 +122719,12 @@
  },
  {
   "brand": "Siragon",
+  "name": "SP-5300",
+  "device": "SP-5300",
+  "model": "SP-5300"
+ },
+ {
+  "brand": "Siragon",
   "name": "SP-6000",
   "device": "SP-6000",
   "model": "SP-6000"
@@ -123394,6 +123490,12 @@
   "name": "M520",
   "device": "M520",
   "model": "M520"
+ },
+ {
+  "brand": "Smartex",
+  "name": "M530",
+  "device": "M530",
+  "model": "M530"
  },
  {
   "brand": "Smartex",
@@ -136123,6 +136225,12 @@
  },
  {
   "brand": "TM Cell",
+  "name": "UNONU_W60_PLUSt",
+  "device": "UNONU_W60_PLUS",
+  "model": "UNONU_W60_PLUS"
+ },
+ {
+  "brand": "TM Cell",
   "name": "X40L",
   "device": "X40L",
   "model": "X40L"
@@ -138646,6 +138754,12 @@
   "name": "TEO104G",
   "device": "TEO104G",
   "model": "TEO104G"
+ },
+ {
+  "brand": "Thomson",
+  "name": "TEO10A",
+  "device": "TEO10A1BK32",
+  "model": "TEO10A"
  },
  {
   "brand": "Thomson",
@@ -145009,6 +145123,12 @@
  },
  {
   "brand": "Vorago",
+  "name": "PAD-7-KIDS",
+  "device": "PAD-7-KIDS",
+  "model": "PAD-7-KIDS"
+ },
+ {
+  "brand": "Vorago",
   "name": "PAD-7-V5",
   "device": "PAD-7-V5",
   "model": "PAD-7-V5"
@@ -147283,6 +147403,12 @@
  },
  {
   "brand": "Winnovo",
+  "name": "H10Pro_eea",
+  "device": "H10Pro",
+  "model": "H10Pro"
+ },
+ {
+  "brand": "Winnovo",
   "name": "M86",
   "device": "M86",
   "model": "M86"
@@ -147298,6 +147424,12 @@
   "name": "T10LTE_eea",
   "device": "T10LTE",
   "model": "T10LTE"
+ },
+ {
+  "brand": "Winnovo",
+  "name": "T113",
+  "device": "T113",
+  "model": "T113"
  },
  {
   "brand": "Winnovo",
@@ -158388,6 +158520,12 @@
   "model": "Zettaly Avy ZA-407"
  },
  {
+  "brand": "Zexelon",
+  "name": "ZTAB01B",
+  "device": "ZTAB01B",
+  "model": "ZTAB01B"
+ },
+ {
   "brand": "Zilo",
   "name": "Zilo",
   "device": "Zilo",
@@ -159170,6 +159308,12 @@
  {
   "brand": "d.light",
   "name": "M1000",
+  "device": "M1000",
+  "model": "M1000"
+ },
+ {
+  "brand": "d.light",
+  "name": "M1000D",
   "device": "M1000",
   "model": "M1000"
  },
@@ -159970,6 +160114,12 @@
   "name": "iHunt_S60_Discovery_Pro_2020",
   "device": "iHunt_S60_Discovery_Pro_2020",
   "model": "iHunt_S60_Discovery_Pro_2020"
+ },
+ {
+  "brand": "iLa Mobile",
+  "name": "C3",
+  "device": "C3",
+  "model": "C3"
  },
  {
   "brand": "iLa Mobile",
