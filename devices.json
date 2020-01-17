@@ -2827,6 +2827,12 @@
  },
  {
   "brand": "Aiwa",
+  "name": "ASIA MIDDLE EAST AFRICA EU",
+  "device": "samseong",
+  "model": "AI PONT"
+ },
+ {
+  "brand": "Aiwa",
   "name": "AW790",
   "device": "AW790",
   "model": "AW790"
@@ -16086,6 +16092,12 @@
   "model": "noa_G1"
  },
  {
+  "brand": "CANAL-PLUS",
+  "name": "CANALATV1",
+  "device": "HY40A2",
+  "model": "CANALATV1"
+ },
+ {
   "brand": "CBN Media",
   "name": "g-mee1",
   "device": "g-mee1",
@@ -16978,6 +16990,12 @@
   "name": "ACRUX",
   "device": "ACRUX",
   "model": "ACRUX"
+ },
+ {
+  "brand": "Ceibal",
+  "name": "BETELGEUSE",
+  "device": "BETELGEUSE",
+  "model": "BETELGEUSE"
  },
  {
   "brand": "Ceibal",
@@ -21325,6 +21343,18 @@
  },
  {
   "brand": "Crosscall",
+  "name": "CORE-M4",
+  "device": "CORE-M4",
+  "model": "CORE-M4"
+ },
+ {
+  "brand": "Crosscall",
+  "name": "CORE-M4 GO",
+  "device": "CORE-M4-GO",
+  "model": "CORE-M4 GO"
+ },
+ {
+  "brand": "Crosscall",
   "name": "Core- X3",
   "device": "HS8917QC",
   "model": "Core-X3"
@@ -21724,6 +21754,12 @@
   "name": "KTAB",
   "device": "KTAB",
   "model": "KTAB"
+ },
+ {
+  "brand": "DEXP",
+  "name": "A.350",
+  "device": "A350",
+  "model": "A350"
  },
  {
   "brand": "DEXP",
@@ -29772,6 +29808,12 @@
   "model": "Bolt"
  },
  {
+  "brand": "Fone Haus",
+  "name": "CoolminttTribe",
+  "device": "CoolMinttTribe",
+  "model": "CoolMinttTribe"
+ },
+ {
   "brand": "Fonos",
   "name": "FONOS O2",
   "device": "O2",
@@ -31330,6 +31372,12 @@
   "name": "Speedo_1",
   "device": "Speedo_1",
   "model": "Speedo_1"
+ },
+ {
+  "brand": "GFive",
+  "name": "Stark",
+  "device": "Stark",
+  "model": "Stark"
  },
  {
   "brand": "GFive",
@@ -43878,6 +43926,12 @@
   "model": "vision2_1"
  },
  {
+  "brand": "Hitachi",
+  "name": "SAUDI ARABIC/Iraq Australia",
+  "device": "samseong",
+  "model": "AI PONT"
+ },
+ {
   "brand": "Hiya",
   "name": "5-0",
   "device": "5-0",
@@ -54788,6 +54842,12 @@
  {
   "brand": "Hyundai",
   "name": "Russia",
+  "device": "ikebukuro",
+  "model": "AI PONT"
+ },
+ {
+  "brand": "Hyundai",
+  "name": "Russia",
   "device": "samseong",
   "model": "AI PONT"
  },
@@ -61588,6 +61648,12 @@
   "name": "Agora 6 Plus",
   "device": "Kogan_Agora_6Plus",
   "model": "Kogan Agora 6Plus"
+ },
+ {
+  "brand": "Kogan",
+  "name": "Australia",
+  "device": "samseong",
+  "model": "AI PONT"
  },
  {
   "brand": "Kogan",
@@ -70303,6 +70369,12 @@
  },
  {
   "brand": "LGE",
+  "name": "W20",
+  "device": "Neo2ALP",
+  "model": "LM-X210LMW"
+ },
+ {
+  "brand": "LGE",
   "name": "W30",
   "device": "LM-X440IM",
   "model": "LM-X440IM"
@@ -78697,6 +78769,12 @@
  },
  {
   "brand": "MLS Innovation",
+  "name": "iQ1653",
+  "device": "iQ1653",
+  "model": "iQ1653"
+ },
+ {
+  "brand": "MLS Innovation",
   "name": "iQ411M",
   "device": "iQ411M",
   "model": "iQ411M"
@@ -80980,6 +81058,12 @@
   "name": "N635",
   "device": "chiron_pro",
   "model": "N635"
+ },
+ {
+  "brand": "MiTAC",
+  "name": "N651",
+  "device": "centaur",
+  "model": "N651"
  },
  {
   "brand": "Micromax",
@@ -89832,6 +89916,12 @@
   "model": "NAVITEL T707 3G"
  },
  {
+  "brand": "Navitel",
+  "name": "T737PRO",
+  "device": "T737PRO",
+  "model": "T737PRO"
+ },
+ {
   "brand": "Navon",
   "name": "D455",
   "device": "D455",
@@ -97699,6 +97789,12 @@
  },
  {
   "brand": "Philco",
+  "name": "Brazil",
+  "device": "sindorim",
+  "model": "AI PONT"
+ },
+ {
+  "brand": "Philco",
   "name": "PCS01",
   "device": "PCS01",
   "model": "PCS01"
@@ -100894,6 +100990,12 @@
   "name": "PMT3101_4G",
   "device": "CF10A1L",
   "model": "PMT3101_4G"
+ },
+ {
+  "brand": "Prestigio",
+  "name": "PMT3103_W_RU",
+  "device": "JR10A1W",
+  "model": "PMT3103_W_RU"
  },
  {
   "brand": "Prestigio",
@@ -104233,6 +104335,18 @@
  },
  {
   "brand": "Redmi",
+  "name": "Mi 9T Pro",
+  "device": "raphaelin",
+  "model": "Redmi K20 Pro"
+ },
+ {
+  "brand": "Redmi",
+  "name": "Mi 9T",
+  "device": "davinci",
+  "model": "Mi 9T"
+ },
+ {
+  "brand": "Redmi",
   "name": "Redmi 7A",
   "device": "pine",
   "model": "Redmi 7A"
@@ -104251,6 +104365,12 @@
  },
  {
   "brand": "Redmi",
+  "name": "Redmi 6",
+  "device": "cereus",
+  "model": "Redmi 6"
+ },
+ {
+  "brand": "Redmi",
   "name": "Redmi 7",
   "device": "onc",
   "model": "Redmi 7"
@@ -104266,6 +104386,24 @@
   "name": "Redmi 7A",
   "device": "pine",
   "model": "Redmi 7A"
+ },
+ {
+  "brand": "Redmi",
+  "name": "Redmi 8",
+  "device": "olive",
+  "model": "Redmi 8"
+ },
+ {
+  "brand": "Redmi",
+  "name": "Redmi 8A",
+  "device": "olivelite",
+  "model": "Redmi 8A"
+ },
+ {
+  "brand": "Redmi",
+  "name": "Redmi 8A Dual",
+  "device": "olivewood",
+  "model": "Redmi 8A Dual"
  },
  {
   "brand": "Redmi",
@@ -104305,9 +104443,51 @@
  },
  {
   "brand": "Redmi",
+  "name": "Redmi K30",
+  "device": "phoenix",
+  "model": "Redmi K30"
+ },
+ {
+  "brand": "Redmi",
+  "name": "Redmi K30 5G",
+  "device": "picasso",
+  "model": "Redmi K30 5G"
+ },
+ {
+  "brand": "Redmi",
   "name": "Redmi Note 7",
   "device": "lavender",
   "model": "Redmi Note 7"
+ },
+ {
+  "brand": "Redmi",
+  "name": "Redmi Note 8",
+  "device": "ginkgo",
+  "model": "GINKGO"
+ },
+ {
+  "brand": "Redmi",
+  "name": "Redmi Note 8",
+  "device": "ginkgo",
+  "model": "Redmi Note 8"
+ },
+ {
+  "brand": "Redmi",
+  "name": "Redmi Note 8 Pro",
+  "device": "begonia",
+  "model": "Redmi Note 8 Pro"
+ },
+ {
+  "brand": "Redmi",
+  "name": "Redmi Note 8T",
+  "device": "willow",
+  "model": "Redmi Note 8T"
+ },
+ {
+  "brand": "Redmi",
+  "name": "Redmi Note 8T",
+  "device": "willow",
+  "model": "willow"
  },
  {
   "brand": "Redway",
@@ -105058,6 +105238,12 @@
   "name": "SHIFT6m",
   "device": "SHIFT6m",
   "model": "SHIFT6m"
+ },
+ {
+  "brand": "SHINON",
+  "name": "Iraq",
+  "device": "samseong",
+  "model": "AI PONT"
  },
  {
   "brand": "SK Broadband",
@@ -127717,6 +127903,12 @@
  },
  {
   "brand": "Stylo",
+  "name": "S40_LIFE",
+  "device": "S40_LIFE",
+  "model": "S40_LIFE"
+ },
+ {
+  "brand": "Stylo",
   "name": "S40_VINO_PLUS",
   "device": "S40_VINO_PLUS",
   "model": "S40 VINO PLUS"
@@ -132661,6 +132853,12 @@
  },
  {
   "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1B",
+  "device": "Seoul",
+  "model": "5002X_EEA"
+ },
+ {
+  "brand": "TCT (Alcatel)",
   "name": "Alcatel 1C",
   "device": "Curie",
   "model": "5003D"
@@ -136134,6 +136332,12 @@
   "model": "tmn smart a8"
  },
  {
+  "brand": "TDS",
+  "name": "VIP6102W",
+  "device": "vip6102w",
+  "model": "VIP6102W"
+ },
+ {
   "brand": "TERRA",
   "name": "GPAD702",
   "device": "GPAD702",
@@ -136894,6 +137098,12 @@
   "name": "T30_ROW",
   "device": "T30",
   "model": "T30_ROW"
+ },
+ {
+  "brand": "Teclast",
+  "name": "T30_RU",
+  "device": "T30",
+  "model": "T30_RU"
  },
  {
   "brand": "Teclast",
@@ -138682,6 +138892,18 @@
   "name": "5014G_EEA",
   "device": "5014G",
   "model": "5014G"
+ },
+ {
+  "brand": "Thomson",
+  "name": "Algeria",
+  "device": "ikebukuro",
+  "model": "AI PONT"
+ },
+ {
+  "brand": "Thomson",
+  "name": "Algeria",
+  "device": "samseong",
+  "model": "AI PONT"
  },
  {
   "brand": "Thomson",
@@ -145254,6 +145476,12 @@
   "model": "Star"
  },
  {
+  "brand": "Vsmart",
+  "name": "Vietnam",
+  "device": "samseong",
+  "model": "VINATV 4K"
+ },
+ {
   "brand": "Vsun",
   "name": "MARS Touch",
   "device": "MARS_TOUCH",
@@ -145288,6 +145516,12 @@
   "name": "India",
   "device": "hamamatsucho",
   "model": "Smart 2K ATV4"
+ },
+ {
+  "brand": "Vu Televisions",
+  "name": "India",
+  "device": "samseong",
+  "model": "AI PONT"
  },
  {
   "brand": "Vu Televisions",
@@ -145645,6 +145879,12 @@
  },
  {
   "brand": "Walton",
+  "name": "Primo GH8",
+  "device": "Primo_GH8",
+  "model": "Primo GH8"
+ },
+ {
+  "brand": "Walton",
   "name": "Primo GM2",
   "device": "Primo_GM2",
   "model": "Primo GM2"
@@ -145864,6 +146104,12 @@
   "name": "Primo S6 infinity",
   "device": "Primo_S6_infinity",
   "model": "Primo S6 infinity"
+ },
+ {
+  "brand": "Walton",
+  "name": "Primo S7 Pro",
+  "device": "Primo_S7_Pro",
+  "model": "Primo S7 Pro"
  },
  {
   "brand": "Walton",
@@ -147331,6 +147577,12 @@
  },
  {
   "brand": "Wings",
+  "name": "W1",
+  "device": "W1",
+  "model": "W1"
+ },
+ {
+  "brand": "Wings",
   "name": "W6",
   "device": "W6",
   "model": "W6"
@@ -148453,6 +148705,12 @@
  },
  {
   "brand": "Xiaomi",
+  "name": "MI PLAY",
+  "device": "lotus",
+  "model": "MI PLAY"
+ },
+ {
+  "brand": "Xiaomi",
   "name": "MI6",
   "device": "sagit",
   "model": "MI 6"
@@ -148567,6 +148825,24 @@
  },
  {
   "brand": "Xiaomi",
+  "name": "Mi 9 Lite",
+  "device": "pyxis",
+  "model": "Mi 9 Lite"
+ },
+ {
+  "brand": "Xiaomi",
+  "name": "Mi 9 SE",
+  "device": "grus",
+  "model": "MI 9 SE"
+ },
+ {
+  "brand": "Xiaomi",
+  "name": "Mi 9 SE",
+  "device": "grus",
+  "model": "Mi 9 SE"
+ },
+ {
+  "brand": "Xiaomi",
   "name": "Mi 9T",
   "device": "davinci",
   "model": "Mi 9T"
@@ -148633,9 +148909,21 @@
  },
  {
   "brand": "Xiaomi",
+  "name": "Mi Note 10",
+  "device": "tucana",
+  "model": "Mi Note 10"
+ },
+ {
+  "brand": "Xiaomi",
   "name": "Mi Note2",
   "device": "scorpio",
   "model": "Mi Note 2"
+ },
+ {
+  "brand": "Xiaomi",
+  "name": "Mi9 Pro 5G",
+  "device": "crux",
+  "model": "Mi9 Pro 5G"
  },
  {
   "brand": "Xiaomi",
@@ -148720,6 +149008,12 @@
   "name": "MiTV2",
   "device": "entrapment",
   "model": "MiTV2"
+ },
+ {
+  "brand": "Xiaomi",
+  "name": "MiTV4C",
+  "device": "matrix",
+  "model": "MiTV4C"
  },
  {
   "brand": "Xiaomi",
