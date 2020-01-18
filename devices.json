@@ -12883,6 +12883,18 @@
  },
  {
   "brand": "Beneve",
+  "name": "M1035S",
+  "device": "M1035S",
+  "model": "M1035S"
+ },
+ {
+  "brand": "Beneve",
+  "name": "M1035SE",
+  "device": "M1035SE_EEA",
+  "model": "M1035SE"
+ },
+ {
+  "brand": "Beneve",
   "name": "M7133",
   "device": "M7133",
   "model": "M7133"
@@ -21697,6 +21709,18 @@
  },
  {
   "brand": "D-Tech",
+  "name": "DT07",
+  "device": "DT07",
+  "model": "DT07"
+ },
+ {
+  "brand": "D-Tech",
+  "name": "DT10-TAB4G",
+  "device": "DT10-TAB4G",
+  "model": "DT10-TAB4G"
+ },
+ {
+  "brand": "D-Tech",
   "name": "H70_G",
   "device": "H70_G",
   "model": "H70_G"
@@ -24778,6 +24802,12 @@
   "name": "QC804GM",
   "device": "QC804GM",
   "model": "QC804GM"
+ },
+ {
+  "brand": "Dixon",
+  "name": "HK7-3502",
+  "device": "HK7-3502",
+  "model": "HK7-3502"
  },
  {
   "brand": "Dixon",
@@ -58195,6 +58225,12 @@
  },
  {
   "brand": "Irbis",
+  "name": "TZ180",
+  "device": "TZ180",
+  "model": "TZ180"
+ },
+ {
+  "brand": "Irbis",
   "name": "TZ183",
   "device": "TZ183",
   "model": "TZ183"
@@ -58222,6 +58258,12 @@
   "name": "TZ55",
   "device": "TZ55",
   "model": "TZ55"
+ },
+ {
+  "brand": "Irbis",
+  "name": "TZ711",
+  "device": "TZ711",
+  "model": "TZ711"
  },
  {
   "brand": "Irbis",
@@ -58312,6 +58354,12 @@
   "name": "TZ772",
   "device": "TZ772",
   "model": "TZ772"
+ },
+ {
+  "brand": "Irbis",
+  "name": "TZ773",
+  "device": "TZ773",
+  "model": "TZ773"
  },
  {
   "brand": "Irbis",
@@ -78733,6 +78781,12 @@
  },
  {
   "brand": "MLAB",
+  "name": "MB8866",
+  "device": "MB8866",
+  "model": "MB8866"
+ },
+ {
+  "brand": "MLAB",
   "name": "MLAB_TABLET_KID",
   "device": "MLAB_TABLET_KID",
   "model": "MLAB_TABLET_KID"
@@ -79750,6 +79804,12 @@
   "name": "Parrot_3G",
   "device": "Parrot_3G",
   "model": "Parrot_3G"
+ },
+ {
+  "brand": "Maxtron",
+  "name": "MAXTRON_M2",
+  "device": "MAXTRON_M2",
+  "model": "MAXTRON M2"
  },
  {
   "brand": "Maxtron",
@@ -83026,6 +83086,18 @@
   "name": "MITO_A19_2GB",
   "device": "MITO_A19_2GB",
   "model": "MITO_A19_2GB"
+ },
+ {
+  "brand": "Mito",
+  "name": "MITO_T7A",
+  "device": "MITO_T7A",
+  "model": "MITO_T7A"
+ },
+ {
+  "brand": "Mito",
+  "name": "MITO_T8A",
+  "device": "MITO_T8A",
+  "model": "MITO_T8A"
  },
  {
   "brand": "Mito",
@@ -92185,6 +92257,18 @@
  },
  {
   "brand": "Olla",
+  "name": "M5",
+  "device": "M5",
+  "model": "M5"
+ },
+ {
+  "brand": "Olla",
+  "name": "M6",
+  "device": "M6",
+  "model": "M6"
+ },
+ {
+  "brand": "Olla",
   "name": "M8",
   "device": "M8",
   "model": "M8"
@@ -99540,6 +99624,12 @@
   "model": "R255B"
  },
  {
+  "brand": "Polytron",
+  "name": "T7001",
+  "device": "T7001",
+  "model": "T7001"
+ },
+ {
   "brand": "Porsche",
   "name": "Porsche",
   "device": "sdis1",
@@ -100720,6 +100810,12 @@
   "name": "HP10A5L",
   "device": "HP10A5L",
   "model": "PMT4891_4G_EEA"
+ },
+ {
+  "brand": "Prestigio",
+  "name": "HP8A6L",
+  "device": "HP8A6L",
+  "model": "PMT4238_4G_EEA"
  },
  {
   "brand": "Prestigio",
@@ -105568,6 +105664,30 @@
   "name": "S19",
   "device": "S19",
   "model": "S19"
+ },
+ {
+  "brand": "SPC Mobile",
+  "name": "SPC GEN",
+  "device": "SPC_GEN",
+  "model": "SPC GEN"
+ },
+ {
+  "brand": "SPC Mobile",
+  "name": "SPC GEN MAX",
+  "device": "SPC_GEN_MAX",
+  "model": "SPC GEN MAX"
+ },
+ {
+  "brand": "SPC Mobile",
+  "name": "SPC SMART",
+  "device": "SPC_SMART",
+  "model": "SPC SMART"
+ },
+ {
+  "brand": "SPC Mobile",
+  "name": "SPC SMART LITE",
+  "device": "SPC_SMART_LITE",
+  "model": "SPC SMART LITE"
  },
  {
   "brand": "SPC Mobile",
@@ -137077,6 +137197,12 @@
  },
  {
   "brand": "Teclast",
+  "name": "P10_HD_EEA",
+  "device": "P10_HD_EEA",
+  "model": "P10_HD_EEA"
+ },
+ {
+  "brand": "Teclast",
   "name": "P80X",
   "device": "P80X",
   "model": "P80X"
@@ -141259,6 +141385,18 @@
  },
  {
   "brand": "Vankyo",
+  "name": "S21",
+  "device": "S21",
+  "model": "S21"
+ },
+ {
+  "brand": "Vankyo",
+  "name": "S21_EEA",
+  "device": "S21_EEA",
+  "model": "S21_EEA"
+ },
+ {
+  "brand": "Vankyo",
   "name": "S7",
   "device": "S7",
   "model": "S7"
@@ -141268,6 +141406,18 @@
   "name": "S7_EEA",
   "device": "S7_EEA",
   "model": "S7_EEA"
+ },
+ {
+  "brand": "Vankyo",
+  "name": "Vankyo_S10",
+  "device": "Vankyo_S10",
+  "model": "Vankyo_S10"
+ },
+ {
+  "brand": "Vankyo",
+  "name": "Vankyo_S10_EEA",
+  "device": "Vankyo_S10_EEA",
+  "model": "Vankyo_S10_EEA"
  },
  {
   "brand": "Vankyo",
@@ -147772,6 +147922,12 @@
   "name": "IRAW801",
   "device": "IRAW801",
   "model": "IRAW801"
+ },
+ {
+  "brand": "Wishtel",
+  "name": "IRA_DUO",
+  "device": "IRA_DUO",
+  "model": "IRA_DUO"
  },
  {
   "brand": "Wistron",
@@ -160960,6 +161116,12 @@
   "name": "iV_301",
   "device": "iV_301",
   "model": "iV_301"
+ },
+ {
+  "brand": "iWaylink",
+  "name": "TC601",
+  "device": "TC601_GWL",
+  "model": "TC601_GWL"
  },
  {
   "brand": "iYOU",
