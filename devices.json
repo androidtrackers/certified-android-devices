@@ -128971,6 +128971,12 @@
  },
  {
   "brand": "Symphony",
+  "name": "i68",
+  "device": "i68",
+  "model": "i68"
+ },
+ {
+  "brand": "Symphony",
   "name": "i90",
   "device": "i90",
   "model": "i90"
@@ -158410,6 +158416,12 @@
   "name": "tmn smart a7",
   "device": "sailboat",
   "model": "tmn smart a7"
+ },
+ {
+  "brand": "ZUKU",
+  "name": "DV8330-T2",
+  "device": "DV8330-T2",
+  "model": "DV8330-T2"
  },
  {
   "brand": "Zaith",

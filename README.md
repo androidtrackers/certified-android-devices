@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-01-18
+Last sync is 2020-01-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -21500,6 +21500,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|i50|i50|i50|
 |Symphony|i60|i60|i60|
 |Symphony|i65|i65|i65|
+|Symphony|i68|i68|i68|
 |Symphony|i90|i90|i90|
 |Symphony|i95|i95|i95|
 |Symphony|roarV95|roarV95|roarV95|
@@ -26407,6 +26408,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|tmn smart a15|atlas40|tmn smart a15|
 |ZTE|tmn smart a60|kiska|tmn smart a60|
 |ZTE|tmn smart a7|sailboat|tmn smart a7|
+|ZUKU|DV8330-T2|DV8330-T2|DV8330-T2|
 |Zaith|Z3211G|Z3211G|Z3211G|
 |Zatec|JOY|JOY|JOY|
 |Zatec|JOY_PLUS|JOY_PLUS|JOY_PLUS|
