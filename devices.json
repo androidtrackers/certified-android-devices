@@ -2178,6 +2178,18 @@
   "model": "One"
  },
  {
+  "brand": "Adreamer (Shenzhen)",
+  "name": "TH10",
+  "device": "TH10",
+  "model": "TH10"
+ },
+ {
+  "brand": "Adreamer (Shenzhen)",
+  "name": "TH10_Tab",
+  "device": "TH10_Tab",
+  "model": "TH10_Tab"
+ },
+ {
   "brand": "Advan digital",
   "name": "5041",
   "device": "ADVAN_5041",
@@ -10423,6 +10435,12 @@
  },
  {
   "brand": "Azumi",
+  "name": "Azumi_V54_AC04",
+  "device": "Azumi_V54_AC04",
+  "model": "Azumi_V54"
+ },
+ {
+  "brand": "Azumi",
   "name": "Azumi_V54_MB",
   "device": "Azumi_V54_MB",
   "model": "V54"
@@ -16288,6 +16306,18 @@
   "name": "F880",
   "device": "F880",
   "model": "F880"
+ },
+ {
+  "brand": "CIRKUIT PLANET (ESPANA)",
+  "name": "SMARTLIFE",
+  "device": "SL-TAB07116",
+  "model": "SL-TAB07116"
+ },
+ {
+  "brand": "CIRKUIT PLANET (ESPANA)",
+  "name": "SMARTLIFE",
+  "device": "SL-TAB10232",
+  "model": "SL-TAB10232"
  },
  {
   "brand": "CJHelloVision",
@@ -22231,6 +22261,12 @@
  },
  {
   "brand": "DEXP",
+  "name": "K21",
+  "device": "K21",
+  "model": "K21"
+ },
+ {
+  "brand": "DEXP",
   "name": "L110",
   "device": "L110",
   "model": "L110"
@@ -22378,6 +22414,12 @@
   "name": "P510",
   "device": "P510",
   "model": "P510"
+ },
+ {
+  "brand": "DEXP",
+  "name": "Q110",
+  "device": "Q110",
+  "model": "Q110"
  },
  {
   "brand": "DEXP",
@@ -29848,6 +29890,12 @@
   "name": "FONOS O2",
   "device": "O2",
   "model": "O2"
+ },
+ {
+  "brand": "Formuler",
+  "name": "GTV",
+  "device": "GTV",
+  "model": "GTV"
  },
  {
   "brand": "Fossil",
@@ -57384,6 +57432,12 @@
   "model": "BT210"
  },
  {
+  "brand": "Intelbras",
+  "name": "IZY01",
+  "device": "DV8038",
+  "model": "IZY01"
+ },
+ {
   "brand": "Intenso",
   "name": "Tab734",
   "device": "Tab734",
@@ -78787,6 +78841,12 @@
  },
  {
   "brand": "MLAB",
+  "name": "MLAB_KIDS_PLUS",
+  "device": "MLAB_KIDS_PLUS",
+  "model": "MLAB_KIDS_PLUS"
+ },
+ {
+  "brand": "MLAB",
   "name": "MLAB_TABLET_KID",
   "device": "MLAB_TABLET_KID",
   "model": "MLAB_TABLET_KID"
@@ -81118,6 +81178,18 @@
   "name": "N635",
   "device": "chiron_pro",
   "model": "N635"
+ },
+ {
+  "brand": "MiTAC",
+  "name": "N635_8",
+  "device": "skating",
+  "model": "N635_8"
+ },
+ {
+  "brand": "MiTAC",
+  "name": "N650",
+  "device": "prometheus",
+  "model": "N650"
  },
  {
   "brand": "MiTAC",
@@ -89904,6 +89976,18 @@
   "model": "X1LTE"
  },
  {
+  "brand": "Nautilus",
+  "name": "NFTM-MED",
+  "device": "nftm_med",
+  "model": "NFTM-MED"
+ },
+ {
+  "brand": "Nautilus",
+  "name": "NFTM-SMA",
+  "device": "nftm_sma",
+  "model": "NFTM-SMA"
+ },
+ {
   "brand": "Navcity",
   "name": "NAVCITY NP-752",
   "device": "NP_752",
@@ -90604,6 +90688,12 @@
   "name": "NLS-MT9052-RU",
   "device": "NLS-MT9052-GL",
   "model": "NLS-MT90"
+ },
+ {
+  "brand": "Newland",
+  "name": "NLS-NFT10",
+  "device": "NLS-NFT10-RU",
+  "model": "NLS-NFT10"
  },
  {
   "brand": "Newsday",
@@ -101089,6 +101179,12 @@
  },
  {
   "brand": "Prestigio",
+  "name": "PMT3103_W",
+  "device": "JR10A1W",
+  "model": "PMT3103_W"
+ },
+ {
+  "brand": "Prestigio",
   "name": "PMT3103_W_RU",
   "device": "JR10A1W",
   "model": "PMT3103_W_RU"
@@ -104500,6 +104596,12 @@
   "name": "Redmi 8A Dual",
   "device": "olivewood",
   "model": "Redmi 8A Dual"
+ },
+ {
+  "brand": "Redmi",
+  "name": "Redmi 8A Dual",
+  "device": "olivewood",
+  "model": "Redmi 8A Pro"
  },
  {
   "brand": "Redmi",
@@ -145494,6 +145596,12 @@
   "model": "Jax_S"
  },
  {
+  "brand": "Voo",
+  "name": "DV8220",
+  "device": "DV8220",
+  "model": "DV8220"
+ },
+ {
   "brand": "Vorago",
   "name": "PAD-7",
   "device": "PAD-7",
@@ -146440,6 +146548,12 @@
   "name": "WeTek",
   "device": "wh220",
   "model": "Air"
+ },
+ {
+  "brand": "Webfleet Solutions",
+  "name": "PRO 8475",
+  "device": "triton",
+  "model": "PRO 8475"
  },
  {
   "brand": "Weimei",
@@ -147403,12 +147517,6 @@
  },
  {
   "brand": "Wiko",
-  "name": "View4 Lite",
-  "device": "W-V730",
-  "model": "W-V730-TVM"
- },
- {
-  "brand": "Wiko",
   "name": "W-K200",
   "device": "W-K200",
   "model": "W-K200"
@@ -148360,6 +148468,12 @@
   "name": "MoGo",
   "device": "xgimiapollo",
   "model": "MoGo"
+ },
+ {
+  "brand": "XGIMI",
+  "name": "MoGo Pro",
+  "device": "xgimiapollo",
+  "model": "MoGo Pro"
  },
  {
   "brand": "XL Axiata",
@@ -149772,6 +149886,12 @@
   "model": "MAX1"
  },
  {
+  "brand": "Yokis",
+  "name": "WS107_eea",
+  "device": "WS107",
+  "model": "WS107"
+ },
+ {
   "brand": "Yota Devices",
   "name": "C9660",
   "device": "yotaphone",
@@ -149896,6 +150016,12 @@
   "name": "M2",
   "device": "M2",
   "model": "M2"
+ },
+ {
+  "brand": "ZOOMME",
+  "name": "M6",
+  "device": "M6",
+  "model": "M6"
  },
  {
   "brand": "ZOOMME",
