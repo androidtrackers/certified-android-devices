@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-01-20
+Last sync is 2020-01-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -510,6 +510,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Alcor|Alcor|Zest_Q708I|Zest_Q708I|
 |Alcor|Comet_O118LR|Comet_O118LR|Comet_O118LR|
 |Aldo Mobile|S12|S12|S12|
+|Aldo Mobile|T10S|T10S|T10S|
+|Aldo Mobile|T8Q-4G|T8Q-4G|T8Q-4G|
 |Algar|GIU6770|GIU6770|GIU6770|
 |Alhafidh|Android TV|R1|ATV R1|
 |Alhafidh|Android TV|R2|ATV R2|
@@ -1906,6 +1908,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|AX825|Bmobile_AX825|AX825|
 |BMobile|AX829|Bmobile_AX829|AX829|
 |BMobile|AX830|Bmobile_AX830|AX830|
+|BMobile|AX830|Bmobile_AX830MV15|AX830|
 |BMobile|AX905|Bmobile_AX905|AX905|
 |BMobile|AX920|Bmobile_AX920|AX920|
 |BMobile|AX921|Bmobile_AX921|AX921|
@@ -2179,6 +2182,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Binatone|Smart 63|SMART63|SMART63|
 |Binatone|Smart 66|SMART66|SMART66|
 |BioRugged|BIOWOLF8F30|BIOWOLF8F30|BIOWOLF8F30|
+|BioRugged|BioWolf_C|BioWolf_C|BioWolf_C|
 |Bird|A7|A7|A7|
 |Bird|E5018|E5018|E5018|
 |Bird|Energy|Energy|Energy|
@@ -4386,6 +4390,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EPIKONE|K534|K534|K534|
 |EPIKONE|K535|K535|K535|
 |EPIKONE|K536|K536|K536|
+|EPIKONE|K545|K545|K545|
+|EPIKONE|K546|K546|K546|
 |EPIKONE|K573|K573|K573|
 |EPIKONE|K600|K600|K600|
 |EPIKONE|K601|K601|K601|
@@ -10298,6 +10304,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kodak|Smartway_T1|Smartway_T1|Smartway_T1|
 |Kogan|Agora 6 Plus|Kogan_Agora_6Plus|Kogan Agora 6Plus|
 |Kogan|Australia|samseong|AI PONT|
+|Kogan|Australia|shibuya|KoganTVAP|
 |Kogan|Kogan Agora 8 Plus|Agora_8_Plus|Agora 8 Plus|
 |Kogan|Kogan Agora 9|Kogan_Agora_9|Kogan Agora 9|
 |Kogan|Kogan Agora Go|Agora_Go|Agora Go|
@@ -11697,6 +11704,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|Swift|swift|GT540f|
 |LGE|TBD|aka|LG-F520K|
 |LGE|TR3BF|Hi3751V811|65TR3BF|
+|LGE|TR3BF|Hi3751V811|86TR3BF|
 |LGE|Thrill 4G|cosmo_310-410|LG-P925|
 |LGE|Thrill 4G|p925|LG-P925|
 |LGE|V10|pplus|LG-F600K|
@@ -11750,7 +11758,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|VU3|vu3|LG-F300L|
 |LGE|VU3|vu3|LG-F300S|
 |LGE|W10|LMX130IM|LMX130IM|
-|LGE|W20|Neo2ALP|LM-X210LMW|
+|LGE|W10 Alpha|Neo2ALP|LM-X210LMW|
 |LGE|W30|LM-X440IM|LM-X440IM|
 |LGE|W30|LM-X440ZM|LM-X440ZM|
 |LGE|W30|LM-X440ZMW|LM-X440ZMW|
@@ -12084,6 +12092,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LeTV|uMax85|DemeterDV|uMax85|
 |LeTV|x600|x600|X600|
 |Leader Phone|Alphatel_T1|Alphatel_T1|Alphatel_T1|
+|Leader Phone|B-50|B-50|LP_B-50|
 |Leader Phone|INFINITY light|LP_INFINITY_light|INFINITY_light|
 |Leader Phone|LP_Spectrum_S2|LP_Spectrum_S2|LP_Spectrum_S2|
 |Leader Phone|N-45|N_45|N-45|
@@ -12908,6 +12917,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logic Mobility|T10B|T10B|T10B|
 |Logic Mobility|T3G|T3G|T3G|
 |Logic Mobility|T4G|T4G|T4G|
+|Logic Mobility|T7W|T7W|LOGIC T7W|
 |Logic Mobility|T7_plus|T7_plus|T7_plus|
 |Logic Mobility|X4 Plus|X4|Logic X4 Plus|
 |Logic Mobility|X5A|LOGIC_X5A|LOGIC X5A|
@@ -15001,6 +15011,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NanoTech|Nuvola NP-1|nuvola|Nuvola NP-1|
 |Naomi Phone|Ambar|NAOMIPHONE_Ambar|NAOMIPHONE Ambar|
 |Natcom|X1LTE|X1LTE|X1LTE|
+|Nautilus|NFTM-LAR|nftm_lar|NFTM-LAR|
 |Nautilus|NFTM-MED|nftm_med|NFTM-MED|
 |Nautilus|NFTM-SMA|nftm_sma|NFTM-SMA|
 |Navcity|NAVCITY NP-752|NP_752|NP-752|
@@ -20072,6 +20083,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sanyo|CEH1|CEH1|CEH1|
 |Sanyo|CER2|CER2|CER2|
 |Sanyo|CER3|CER3|CER3|
+|Sasktel|HMB2213PW22WA|HMB2213PW22WA|HMB2213PW22WA|
 |Sasktel|SaskTel maxTV Stream|HMB2213PW22WA|HMB2213PW22WA|
 |Schok|FreedomTurboXL|SFT57216|FreedomTurboXL|
 |Schok|SCHOK|SM7216H|SM7216H|
@@ -23168,6 +23180,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telma|Telma F1XS4G|Telma_F1XS4G|Telma F1XS4G|
 |Telma|Telma i401|telma_i401|telma i401|
 |TeloSystems|TE580P|TE580P|TE580P|
+|Telus|HMB2213PW22TS|HMB2213PW22TS|HMB2213PW22TS|
 |Telus|Pik TV Media Box|HMB2213PW22TS|HMB2213PW22TS|
 |Teracube|Teracube_One|Teracube_One|Teracube One|
 |Tesco|Hudl 2|HTF8A4|Hudl 2|
@@ -24295,6 +24308,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vsmart|Joy 2+|V420A|Joy 2+|
 |Vsmart|Live|V620A|Live|
 |Vsmart|Star|V320A|Star|
+|Vsmart|VINATV 4K|TR2001|VINATV 4K|
 |Vsmart|Vietnam|samseong|VINATV 4K|
 |Vsun|MARS Touch|MARS_TOUCH|MARS TOUCH|
 |Vsun|MARS Nocam|MARS_NOCAM|MARS NOCAM|
@@ -26659,6 +26673,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |dazen|dazen 6A|dazen_6A|dazen 6A|
 |dazen|dazen 6E|dazen_6E|dazen 6E|
 |duraMOBI|DK66|DK66|DK66|
+|eBox|EBOX|uiw4020ebx|EBOX TV|
 |eBox|EBoxTv|diw387eb|EboxTV|
 |eSTREAM 4K|IPA-1104HDH-01|eSTREAM4K_4x4|IPA-1104HDH-01|
 |eSTREAM 4K|IPA1104HDW-02|kunlun|IPA1104HDW-02|
@@ -26965,5 +26980,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |zyrex|ZT 216|ZT_216|ZT 216|
 |zyrex|ZT216_1|ZT216_1|ZT216_1|
 |zyrex|ZT8332_1|ZT8332_1|ZT8332_1|
+|zyrex|ZT8332_3|ZT8332_3|ZT8332_3|
 |zyrex|ZT_216|ZT_216|ZT_216|
 |zyrex|Zyrex ZA833|ZA833|ZA833|

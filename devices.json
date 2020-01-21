@@ -3030,6 +3030,18 @@
   "model": "S12"
  },
  {
+  "brand": "Aldo Mobile",
+  "name": "T10S",
+  "device": "T10S",
+  "model": "T10S"
+ },
+ {
+  "brand": "Aldo Mobile",
+  "name": "T8Q-4G",
+  "device": "T8Q-4G",
+  "model": "T8Q-4G"
+ },
+ {
   "brand": "Algar",
   "name": "GIU6770",
   "device": "GIU6770",
@@ -11407,6 +11419,12 @@
  },
  {
   "brand": "BMobile",
+  "name": "AX830",
+  "device": "Bmobile_AX830MV15",
+  "model": "AX830"
+ },
+ {
+  "brand": "BMobile",
   "name": "AX905",
   "device": "Bmobile_AX905",
   "model": "AX905"
@@ -13042,6 +13060,12 @@
   "name": "BIOWOLF8F30",
   "device": "BIOWOLF8F30",
   "model": "BIOWOLF8F30"
+ },
+ {
+  "brand": "BioRugged",
+  "name": "BioWolf_C",
+  "device": "BioWolf_C",
+  "model": "BioWolf_C"
  },
  {
   "brand": "Bird",
@@ -26284,6 +26308,18 @@
   "name": "K536",
   "device": "K536",
   "model": "K536"
+ },
+ {
+  "brand": "EPIKONE",
+  "name": "K545",
+  "device": "K545",
+  "model": "K545"
+ },
+ {
+  "brand": "EPIKONE",
+  "name": "K546",
+  "device": "K546",
+  "model": "K546"
  },
  {
   "brand": "EPIKONE",
@@ -61759,6 +61795,12 @@
  },
  {
   "brand": "Kogan",
+  "name": "Australia",
+  "device": "shibuya",
+  "model": "KoganTVAP"
+ },
+ {
+  "brand": "Kogan",
   "name": "Kogan Agora 8 Plus",
   "device": "Agora_8_Plus",
   "model": "Agora 8 Plus"
@@ -70153,6 +70195,12 @@
  },
  {
   "brand": "LGE",
+  "name": "TR3BF",
+  "device": "Hi3751V811",
+  "model": "86TR3BF"
+ },
+ {
+  "brand": "LGE",
   "name": "Thrill 4G",
   "device": "cosmo_310-410",
   "model": "LG-P925"
@@ -70471,7 +70519,7 @@
  },
  {
   "brand": "LGE",
-  "name": "W20",
+  "name": "W10 Alpha",
   "device": "Neo2ALP",
   "model": "LM-X210LMW"
  },
@@ -72472,6 +72520,12 @@
   "name": "Alphatel_T1",
   "device": "Alphatel_T1",
   "model": "Alphatel_T1"
+ },
+ {
+  "brand": "Leader Phone",
+  "name": "B-50",
+  "device": "B-50",
+  "model": "LP_B-50"
  },
  {
   "brand": "Leader Phone",
@@ -77416,6 +77470,12 @@
   "name": "T4G",
   "device": "T4G",
   "model": "T4G"
+ },
+ {
+  "brand": "Logic Mobility",
+  "name": "T7W",
+  "device": "T7W",
+  "model": "LOGIC T7W"
  },
  {
   "brand": "Logic Mobility",
@@ -89974,6 +90034,12 @@
   "name": "X1LTE",
   "device": "X1LTE",
   "model": "X1LTE"
+ },
+ {
+  "brand": "Nautilus",
+  "name": "NFTM-LAR",
+  "device": "nftm_lar",
+  "model": "NFTM-LAR"
  },
  {
   "brand": "Nautilus",
@@ -120403,6 +120469,12 @@
  },
  {
   "brand": "Sasktel",
+  "name": "HMB2213PW22WA",
+  "device": "HMB2213PW22WA",
+  "model": "HMB2213PW22WA"
+ },
+ {
+  "brand": "Sasktel",
   "name": "SaskTel maxTV Stream",
   "device": "HMB2213PW22WA",
   "model": "HMB2213PW22WA"
@@ -138979,6 +139051,12 @@
  },
  {
   "brand": "Telus",
+  "name": "HMB2213PW22TS",
+  "device": "HMB2213PW22TS",
+  "model": "HMB2213PW22TS"
+ },
+ {
+  "brand": "Telus",
   "name": "Pik TV Media Box",
   "device": "HMB2213PW22TS",
   "model": "HMB2213PW22TS"
@@ -145738,6 +145816,12 @@
   "name": "Star",
   "device": "V320A",
   "model": "Star"
+ },
+ {
+  "brand": "Vsmart",
+  "name": "VINATV 4K",
+  "device": "TR2001",
+  "model": "VINATV 4K"
  },
  {
   "brand": "Vsmart",
@@ -159925,6 +160009,12 @@
  },
  {
   "brand": "eBox",
+  "name": "EBOX",
+  "device": "uiw4020ebx",
+  "model": "EBOX TV"
+ },
+ {
+  "brand": "eBox",
   "name": "EBoxTv",
   "device": "diw387eb",
   "model": "EboxTV"
@@ -161758,6 +161848,12 @@
   "name": "ZT8332_1",
   "device": "ZT8332_1",
   "model": "ZT8332_1"
+ },
+ {
+  "brand": "zyrex",
+  "name": "ZT8332_3",
+  "device": "ZT8332_3",
+  "model": "ZT8332_3"
  },
  {
   "brand": "zyrex",
