@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-01-22
+Last sync is 2020-01-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -559,6 +559,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|AX501Q|AX501Q|AX501Q|
 |AllView|AX502|AX502|AX502|
 |AllView|AX503|AX503|AX503|
+|AllView|Allview 2K TV|shinagawa|Allview 2K TV|
 |AllView|C6 Duo|C6_Duo|C6_Duo|
 |AllView|C6 Quad 4G|C6_Quad_4G|C6Quad_4G|
 |AllView|E2 Jump|ALLVIEW_E2_Jump|E2_Jump|
@@ -1713,6 +1714,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|A50LT|A50LT|A50LT|
 |Azumi|A53|Azumi_A53|A53|
 |Azumi|A57B|Azumi_A57B|A57B|
+|Azumi|A57h|Azumi_A57h|A57|
 |Azumi|A5B|Azumi_A5B_BD|A5B|
 |Azumi|A5_AC11|A5_AC11|A5|
 |Azumi|AT7|AT7|AT7|
@@ -5339,6 +5341,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |General Mobile|GM 6 s|GM6_s_sprout|GM6|
 |General Mobile|GM 8|GM8_sprout|GM 8|
 |General Mobile|GM 8 d|GM8_d_sprout|GM 8 d|
+|General Mobile|GM 9 Go|G008|G008|
+|General Mobile|GM 9 Go|G008_d|G008|
 |General Mobile|GM 9 Pro|GM9PRO_d_sprout|GM 9 Pro d|
 |General Mobile|GM 9 Pro|GM9PRO_sprout|GM 9 Pro|
 |General Mobile|GM5 Plus|gm5plus_s_sprout|GM 5 Plus|
@@ -8003,6 +8007,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HONOR 9X|HWSTK-HF|STK-L22|
 |Huawei|HONOR 9X|HWSTK-HF|STK-LX1|
 |Huawei|HONOR 9X|HWSTK-HF|STK-LX3|
+|Huawei|HONOR 9X lite|HWJSN-H|JSN-L21|
+|Huawei|HONOR 9X lite|HWJSN-H|JSN-L22|
+|Huawei|HONOR 9X lite|HWJSN-H|JSN-L23|
 |Huawei|HONOR V20|HWPCT|PCT-TL10|
 |Huawei|HONOR View20|HWPCT|PCT-AL10|
 |Huawei|HONOR View20|HWPCT|PCT-L29|
@@ -13276,6 +13283,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mantra|MFSTAB_74G|MFSTAB_74G|MFSTAB_74G|
 |Mantra|mTerminal100|Start|Start|
 |MarQ|DV6067H|DV6067H|DV6067H|
+|Mara Phones|MARA Z|Mara_Z_sprout|Mara Z|
+|Mara Phones|Mara X|Mara_X_sc|Mara X|
+|Mara Phones|Mara X dual|Mara_X|Mara X dual|
+|Mara Phones|Mara Z d|Mara_Z_d_sprout|Mara Z d|
 |Marshall|London|KB-1501|London|
 |Marvie|MARVIE_CT4|MARVIE-CT4|CT4|
 |Mascom|Mascom_L850|Mascom_L850|Mascom_L850|
@@ -15014,6 +15025,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nautilus|NFTM-LAR|nftm_lar|NFTM-LAR|
 |Nautilus|NFTM-MED|nftm_med|NFTM-MED|
 |Nautilus|NFTM-SMA|nftm_sma|NFTM-SMA|
+|Nautilus|NFTM-XSMA|nftm_xsma|NFTM-XSMA|
 |Navcity|NAVCITY NP-752|NP_752|NP-752|
 |Navcity|NAVCITY NP-852|NP-852|NP-852|
 |Navcity|NAVCITY NP-855|NP_855|NP-855|
@@ -20293,6 +20305,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS zero|SH-Z10|SH-Z10|
 |Sharp|AQUOS zero|SH-Z10A|SH-Z10A|
 |Sharp|AQUOS zero (SH-M10)|SH-M10|SH-M10|
+|Sharp|AQUOS zero2 SH-01M|SH-01M|SH-01M|
 |Sharp|AQUOS \xe3\x82\xb1\xe3\x83\xbc\xe3\x82\xbf\xe3\x82\xa4 SH-02L|SH-02L|SH-02L|
 |Sharp|AQUOS \xe3\x82\xb1\xe3\x83\xbc\xe3\x82\xbf\xe3\x82\xa4 SH-06G|SH-06G|SH-06G|
 |Sharp|Android One S1|kaleido_sprout|S1|
@@ -20623,6 +20636,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Skyworth|Europe|SW3H_ATV|SWTV|
 |Skyworth|Europe|globe_eu|globe|
 |Skyworth|Hong Kong|open_uhd_hk|open_uhd|
+|Skyworth|METZ 2K TV|shinagawa|METZ 2K TV|
 |Skyworth|North America|SW3_ATV|SWTV|
 |Skyworth|North America|globe_na|globe|
 |Skyworth|North America|shimbashi|2K TV|
@@ -21577,6 +21591,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL L10+|Tokyo|5128A|
 |TCL|TCL L10+|Tokyo|5128Y|
 |TCL|TCL L5|U3A_PLUS_4G|5133A|
+|TCL|TCL L7|Seoul|5102I|
 |TCL|TCL L9|U5A_PLUS_4G|5159A|
 |TCL|TCL L9|U5A_PLUS_4G|5159J|
 |TCL|TCL L9 Plus|Wright|5101A|
@@ -22196,6 +22211,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002D|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002D_EEA|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002D_RU|
+|TCT (Alcatel)|Alcatel 1B|Seoul|5002F|
+|TCT (Alcatel)|Alcatel 1B|Seoul|5002J|
+|TCT (Alcatel)|Alcatel 1B|Seoul|5002L|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002X|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002X_EEA|
 |TCT (Alcatel)|Alcatel 1C|Curie|5003D|
@@ -23193,6 +23211,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tesla|Smartphone 3.4|Tesla_SP3_4|Tesla_SP3_4|
 |Tesla|Smartphone 6.4 Lite|Tesla_SP6_4_Lite|Tesla_SP6_4_Lite|
 |Tesla|Tablet_L7_1|Tablet_L7_1|Tesla L7.1|
+|Tesla|Tesla 2K TV|shinagawa|Tesla 2K TV|
 |Tesla|Tesla Smartphone 3.3|Tesla_SP3_3|Tesla_SP3.3|
 |Tesla|Tesla Smartphone 6.3|Tesla_SP6_3|Tesla_SP6.3|
 |Tesla|Tesla Smartphone 9.1|L6195|Tesla_SP9.1|

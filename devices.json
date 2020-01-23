@@ -3325,6 +3325,12 @@
  },
  {
   "brand": "AllView",
+  "name": "Allview 2K TV",
+  "device": "shinagawa",
+  "model": "Allview 2K TV"
+ },
+ {
+  "brand": "AllView",
   "name": "C6 Duo",
   "device": "C6_Duo",
   "model": "C6_Duo"
@@ -10246,6 +10252,12 @@
   "name": "A57B",
   "device": "Azumi_A57B",
   "model": "A57B"
+ },
+ {
+  "brand": "Azumi",
+  "name": "A57h",
+  "device": "Azumi_A57h",
+  "model": "A57"
  },
  {
   "brand": "Azumi",
@@ -32005,6 +32017,18 @@
  },
  {
   "brand": "General Mobile",
+  "name": "GM 9 Go",
+  "device": "G008",
+  "model": "G008"
+ },
+ {
+  "brand": "General Mobile",
+  "name": "GM 9 Go",
+  "device": "G008_d",
+  "model": "G008"
+ },
+ {
+  "brand": "General Mobile",
   "name": "GM 9 Pro",
   "device": "GM9PRO_d_sprout",
   "model": "GM 9 Pro d"
@@ -47986,6 +48010,24 @@
   "name": "HONOR 9X",
   "device": "HWSTK-HF",
   "model": "STK-LX3"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HONOR 9X lite",
+  "device": "HWJSN-H",
+  "model": "JSN-L21"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HONOR 9X lite",
+  "device": "HWJSN-H",
+  "model": "JSN-L22"
+ },
+ {
+  "brand": "Huawei",
+  "name": "HONOR 9X lite",
+  "device": "HWJSN-H",
+  "model": "JSN-L23"
  },
  {
   "brand": "Huawei",
@@ -79626,6 +79668,30 @@
   "model": "DV6067H"
  },
  {
+  "brand": "Mara Phones",
+  "name": "MARA Z",
+  "device": "Mara_Z_sprout",
+  "model": "Mara Z"
+ },
+ {
+  "brand": "Mara Phones",
+  "name": "Mara X",
+  "device": "Mara_X_sc",
+  "model": "Mara X"
+ },
+ {
+  "brand": "Mara Phones",
+  "name": "Mara X dual",
+  "device": "Mara_X",
+  "model": "Mara X dual"
+ },
+ {
+  "brand": "Mara Phones",
+  "name": "Mara Z d",
+  "device": "Mara_Z_d_sprout",
+  "model": "Mara Z d"
+ },
+ {
   "brand": "Marshall",
   "name": "London",
   "device": "KB-1501",
@@ -90052,6 +90118,12 @@
   "name": "NFTM-SMA",
   "device": "nftm_sma",
   "model": "NFTM-SMA"
+ },
+ {
+  "brand": "Nautilus",
+  "name": "NFTM-XSMA",
+  "device": "nftm_xsma",
+  "model": "NFTM-XSMA"
  },
  {
   "brand": "Navcity",
@@ -121729,6 +121801,12 @@
  },
  {
   "brand": "Sharp",
+  "name": "AQUOS zero2 SH-01M",
+  "device": "SH-01M",
+  "model": "SH-01M"
+ },
+ {
+  "brand": "Sharp",
   "name": "AQUOS \\xe3\\x82\\xb1\\xe3\\x83\\xbc\\xe3\\x82\\xbf\\xe3\\x82\\xa4 SH-02L",
   "device": "SH-02L",
   "model": "SH-02L"
@@ -123706,6 +123784,12 @@
   "name": "Hong Kong",
   "device": "open_uhd_hk",
   "model": "open_uhd"
+ },
+ {
+  "brand": "Skyworth",
+  "name": "METZ 2K TV",
+  "device": "shinagawa",
+  "model": "METZ 2K TV"
  },
  {
   "brand": "Skyworth",
@@ -129433,6 +129517,12 @@
  },
  {
   "brand": "TCL",
+  "name": "TCL L7",
+  "device": "Seoul",
+  "model": "5102I"
+ },
+ {
+  "brand": "TCL",
   "name": "TCL L9",
   "device": "U5A_PLUS_4G",
   "model": "5159A"
@@ -133144,6 +133234,24 @@
   "name": "Alcatel 1B",
   "device": "Seoul",
   "model": "5002D_RU"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1B",
+  "device": "Seoul",
+  "model": "5002F"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1B",
+  "device": "Seoul",
+  "model": "5002J"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1B",
+  "device": "Seoul",
+  "model": "5002L"
  },
  {
   "brand": "TCT (Alcatel)",
@@ -139126,6 +139234,12 @@
   "name": "Tablet_L7_1",
   "device": "Tablet_L7_1",
   "model": "Tesla L7.1"
+ },
+ {
+  "brand": "Tesla",
+  "name": "Tesla 2K TV",
+  "device": "shinagawa",
+  "model": "Tesla 2K TV"
  },
  {
   "brand": "Tesla",
