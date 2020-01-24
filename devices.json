@@ -108115,6 +108115,12 @@
  },
  {
   "brand": "Samsung",
+  "name": "Galaxy A71",
+  "device": "a71",
+  "model": "SM-A715F"
+ },
+ {
+  "brand": "Samsung",
   "name": "Galaxy A8",
   "device": "SCV32",
   "model": "SCV32"
@@ -121801,9 +121807,21 @@
  },
  {
   "brand": "Sharp",
+  "name": "AQUOS zero2 906SH",
+  "device": "SG906SH",
+  "model": "906SH"
+ },
+ {
+  "brand": "Sharp",
   "name": "AQUOS zero2 SH-01M",
   "device": "SH-01M",
   "model": "SH-01M"
+ },
+ {
+  "brand": "Sharp",
+  "name": "AQUOS zero2 SHV47",
+  "device": "QDA",
+  "model": "SHV47"
  },
  {
   "brand": "Sharp",
@@ -129523,6 +129541,12 @@
  },
  {
   "brand": "TCL",
+  "name": "TCL L7",
+  "device": "Seoul",
+  "model": "5102M"
+ },
+ {
+  "brand": "TCL",
   "name": "TCL L9",
   "device": "U5A_PLUS_4G",
   "model": "5159A"
@@ -133245,6 +133269,12 @@
   "brand": "TCT (Alcatel)",
   "name": "Alcatel 1B",
   "device": "Seoul",
+  "model": "5002I"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1B",
+  "device": "Seoul",
   "model": "5002J"
  },
  {
@@ -133252,6 +133282,18 @@
   "name": "Alcatel 1B",
   "device": "Seoul",
   "model": "5002L"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1B",
+  "device": "Seoul",
+  "model": "5002M"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1B",
+  "device": "Seoul",
+  "model": "5002S"
  },
  {
   "brand": "TCT (Alcatel)",
@@ -133408,6 +133450,12 @@
   "name": "Alcatel 1T 7 WIFI",
   "device": "U3A_7_WIFI",
   "model": "8068"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1V",
+  "device": "Tokyo_Lite",
+  "model": "5007A"
  },
  {
   "brand": "TCT (Alcatel)",

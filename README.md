@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-01-23
+Last sync is 2020-01-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -18024,6 +18024,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A70|a70q|SM-A705YN|
 |Samsung|Galaxy A70s|a70s|SM-A7070|
 |Samsung|Galaxy A70s|a70s|SM-A707F|
+|Samsung|Galaxy A71|a71|SM-A715F|
 |Samsung|Galaxy A8|SCV32|SCV32|
 |Samsung|Galaxy A8|a8elte|SM-A800F|
 |Samsung|Galaxy A8|a8elte|SM-A800YZ|
@@ -20305,7 +20306,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS zero|SH-Z10|SH-Z10|
 |Sharp|AQUOS zero|SH-Z10A|SH-Z10A|
 |Sharp|AQUOS zero (SH-M10)|SH-M10|SH-M10|
+|Sharp|AQUOS zero2 906SH|SG906SH|906SH|
 |Sharp|AQUOS zero2 SH-01M|SH-01M|SH-01M|
+|Sharp|AQUOS zero2 SHV47|QDA|SHV47|
 |Sharp|AQUOS \xe3\x82\xb1\xe3\x83\xbc\xe3\x82\xbf\xe3\x82\xa4 SH-02L|SH-02L|SH-02L|
 |Sharp|AQUOS \xe3\x82\xb1\xe3\x83\xbc\xe3\x82\xbf\xe3\x82\xa4 SH-06G|SH-06G|SH-06G|
 |Sharp|Android One S1|kaleido_sprout|S1|
@@ -21592,6 +21595,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL L10+|Tokyo|5128Y|
 |TCL|TCL L5|U3A_PLUS_4G|5133A|
 |TCL|TCL L7|Seoul|5102I|
+|TCL|TCL L7|Seoul|5102M|
 |TCL|TCL L9|U5A_PLUS_4G|5159A|
 |TCL|TCL L9|U5A_PLUS_4G|5159J|
 |TCL|TCL L9 Plus|Wright|5101A|
@@ -22212,8 +22216,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002D_EEA|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002D_RU|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002F|
+|TCT (Alcatel)|Alcatel 1B|Seoul|5002I|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002J|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002L|
+|TCT (Alcatel)|Alcatel 1B|Seoul|5002M|
+|TCT (Alcatel)|Alcatel 1B|Seoul|5002S|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002X|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002X_EEA|
 |TCT (Alcatel)|Alcatel 1C|Curie|5003D|
@@ -22240,6 +22247,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1S|Tokyo|5028Y_EEA|
 |TCT (Alcatel)|Alcatel 1S|Tokyo|5028Y_RU|
 |TCT (Alcatel)|Alcatel 1T 7 WIFI|U3A_7_WIFI|8068|
+|TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007A|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007G|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007U|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007U_EEA|
