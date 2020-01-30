@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-01-29
+Last sync is 2020-01-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -187,6 +187,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|Acer Chromebook R13|elm_cheets|Acer Chromebook R13 (CB5-312T)|
 |Acer|Acer Holo360|acer_c01|C01|
 |Acer|Acer One 10 T4-129L|AcerO10T4129L|Acer One 10 T4-129L|
+|Acer|Acer One 10 T4-129LI|AcerO10T412LI|Acer One 10 T4-129LI|
 |Acer|Acer One 7|Acer_One_7_4G|Acer One 7 4G|
 |Acer|Acer One 7 4G|Acer_One_7_4G|Acer One 7 4G|
 |Acer|Aspire A3|aa3-600|AA3-600|
@@ -2001,6 +2002,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-5512L STRIKE FORWARD|BQru-5512L|BQ-5512L|
 |BQru|BQ-5517L TWIN PRO|BQru-5517L|BQ-5517L|
 |BQru|BQ-5518G|BQru-5518G|BQ-5518G|
+|BQru|BQ-5519G|BQru-5519G|BQ-5519G|
 |BQru|BQ-5519L Tele2|BQru-5519L|BQ-5519L|
 |BQru|BQ-5520L Silk|BQru-5520L|BQ-5520L|
 |BQru|BQ-5521 STRIKE POWER MAX|BQru-5521|BQru-5521|
@@ -3648,9 +3650,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEA Factory|KTAB|KTAB|KTAB|
 |DEXP|A.350|A350|A350|
 |DEXP|A150|A150|A150|
+|DEXP|A160|A160|A160|
 |DEXP|A240|A240|A240|
+|DEXP|A250|A250|A250|
 |DEXP|AL140|AL140|AL140|
 |DEXP|AL240|AL240|AL240|
+|DEXP|AL250|AL250|AL250|
 |DEXP|AS160|AS160|AS160|
 |DEXP|AS260|AS260|AS260|
 |DEXP|B11|B11|B11|
@@ -3664,6 +3669,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|B450|B450|B450|
 |DEXP|BL150|BL150|BL150|
 |DEXP|BL250|BL250|BL250|
+|DEXP|BL350|BL350|BL350|
 |DEXP|BS150|BS150|BS150|
 |DEXP|BS155|BS155|BS155|
 |DEXP|BS160|BS160|BS160|
@@ -3748,7 +3754,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|P410|P410|P410|
 |DEXP|P510|P510|P510|
 |DEXP|Q110|Q110|Q110|
+|DEXP|Q210|Q210|Q210|
+|DEXP|Q310|Q310|Q310|
 |DEXP|R110|R110|R110|
+|DEXP|R180|R180|R180|
 |DEXP|S180|S180|S180|
 |DEXP|S190|S190|S190|
 |DEXP|S270i|S270i|S270i|
@@ -3757,6 +3766,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|S370|S370|S370|
 |DEXP|S470|S470|S470|
 |DEXP|S570|S570|S570|
+|DEXP|S670|S670|S670|
 |DEXP|S770|S770|S770|
 |DEXP|Senior|SENIOR|SENIOR|
 |DEXP|T155|T155|T155|
@@ -4646,6 +4656,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Evercoss|M55B|M55B|M55B|
 |Evercoss|M55C|M55C|M55C|
 |Evercoss|M70|M70|M70|
+|Evercoss|M80|EVERCOSS_M80|M80|
 |Evercoss|One X|A65_sprout|EVERCOSS A65|
 |Evercoss|R40K|R40K|R40K|
 |Evercoss|R45|EVERCOSS_R45|R45|
@@ -4678,6 +4689,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Evercoss|U70A|EVERCOSS_U70A|U70A|
 |Evercoss|U70B|U70B|U70B|
 |Evercoss|U70C|U70C|U70C|
+|Evercoss|X7A|X7A|X7A|
+|Evercoss|X8|X8|X8|
 |Everex|Fine 7B|Fine_7B|Fine 7B|
 |Everis|E0109|E0109|E0109|
 |Everis|E0111|E0111|E0111|
@@ -5366,6 +5379,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Getac|Z710|z710|Getac Z710|
 |Getac|ZX70|zx70|ZX70|
 |Getac|ZX70|zx70|zx70|
+|Getac|ZX70G2|zx70g2|ZX70G2|
 |Getnord|LYNX|LYNX|LYNX|
 |Ghia|A7LED2|A7LED2|A7LED2|
 |Ghia|Beetle7|Beetle7|Beetle7|
@@ -9804,6 +9818,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Isafe|IS530|IS530|IS530|
 |Isafe|IS655|IS655|IS655|
 |Isafe|IS910.1|IS910_1|IS910_1|
+|Isafe|IS930|IS930|IS930|
 |Itel|A11|itel_A11|itel A11|
 |Itel|A12|itel_A12|itel A12|
 |Itel|A13|itel_A13|itel A13|
@@ -10307,6 +10322,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kodak|Ektra|KodakEktra|Ektra|
 |Kodak|IM5|IM5|IM5|
 |Kodak|KODAK_SMARTWAY_L1|KODAK_SMARTWAY_L1|KODAK_SMARTWAY_L1|
+|Kodak|KODAK_SMARTWAY_T2|KODAK_SMARTWAY_T2|KODAK_SMARTWAY_T2|
 |Kodak|SP4|SP4|SP4|
 |Kodak|Smartway_T1|Smartway_T1|Smartway_T1|
 |Kogan|Agora 6 Plus|Kogan_Agora_6Plus|Kogan Agora 6Plus|
@@ -15362,6 +15378,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |O\'NICE|O\'NICE I-TOUCH M1|ONICE_I-TOUCH_M1|i-touch M1|
 |OASYS|OAS_9301|OAS_9301|OAS_9301|
 |OASYS|TEG9300|TEG9300|TEG9300|
+|OASYS|TEG9300-M|TEG9300-M|TEG9300-M|
 |ODYS|GOAL_10_PLUS_3G|GOAL_10_PLUS_3G|GOAL_10_PLUS_3G|
 |ODYS|JUNIOR_8_PRO_EEA|JUNIOR_8_PRO|JUNIOR_8_PRO|
 |ODYS|MAVEN_X10_HD_LTE|MAVEN_X10_HD_LTE|MAVEN_X10_HD_LTE|
@@ -17591,6 +17608,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SEMP TCL|GO3E|GO3E|GO3E|
 |SEMP TCL|GO5E|GO5E|GO5E|
 |SERVO|P20|P20|P20|
+|SEWOO|NBP_65|NBP_65|NBP-65|
 |SFR|G8800|stb_dvb_sfr|SFR-G8800|
 |SFR|STARADDICT 4|staraddict4|STARADDICT 4|
 |SFR|STARXTREM3|STARXTREM3|STARXTREM3|
@@ -23773,7 +23791,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vertex|Luck_M_5000N_4G|Luck_M_5000N_4G|Luck_M_5000N_4G|
 |Vertex|Luck_XS_3097_3G|Luck_XS_3097_3G|Luck_XS_3097_3G|
 |Vertex|Pro_L_5045_4G|Pro_L_5045_4G|Pro_L_5045_4G|
+|Vertex|Pro_P200_4G|Pro_P200_4G|Pro_P200_4G|
 |Vertex|Pro_P300_4G|Pro_P300_4G|Pro_P300_4G|
+|Vertex|Pro_P300_4G|Pro_P310_4G|Pro_P310_4G|
 |Vertex|S1|GlocalMe_S1|G1701|
 |Vertex|Tab_4G_10_1|Tab_4G_10-1|Tab 4G 10-1|
 |Vertex|Tab_4G_8-1|Tab_4G_8-1|Tab 4G 8-1|
@@ -24290,6 +24310,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vonino|Pluri Q8 TM|Pluri_Q8|Pluri_Q8|
 |Vonino|Pluri_B7_TM|Pluri_B7_TM|Pluri_B7_TM|
 |Vonino|Pluri_G7|Pluri_G7|Pluri G7|
+|Vonino|Pluri_M7_2020|Pluri_M7_2020|Pluri_M7_2020|
 |Vonino|Pluri_M8|Pluri_M8|Pluri_M8|
 |Vonino|Volt S|Volt_S|Volt S|
 |Vonino|Volt_S|Volt_S_A7|Volt_S_A7|

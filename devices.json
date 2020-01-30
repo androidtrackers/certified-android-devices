@@ -1093,6 +1093,12 @@
  },
  {
   "brand": "Acer",
+  "name": "Acer One 10 T4-129LI",
+  "device": "AcerO10T412LI",
+  "model": "Acer One 10 T4-129LI"
+ },
+ {
+  "brand": "Acer",
   "name": "Acer One 7",
   "device": "Acer_One_7_4G",
   "model": "Acer One 7 4G"
@@ -11977,6 +11983,12 @@
  },
  {
   "brand": "BQru",
+  "name": "BQ-5519G",
+  "device": "BQru-5519G",
+  "model": "BQ-5519G"
+ },
+ {
+  "brand": "BQru",
   "name": "BQ-5519L Tele2",
   "device": "BQru-5519L",
   "model": "BQ-5519L"
@@ -21859,9 +21871,21 @@
  },
  {
   "brand": "DEXP",
+  "name": "A160",
+  "device": "A160",
+  "model": "A160"
+ },
+ {
+  "brand": "DEXP",
   "name": "A240",
   "device": "A240",
   "model": "A240"
+ },
+ {
+  "brand": "DEXP",
+  "name": "A250",
+  "device": "A250",
+  "model": "A250"
  },
  {
   "brand": "DEXP",
@@ -21874,6 +21898,12 @@
   "name": "AL240",
   "device": "AL240",
   "model": "AL240"
+ },
+ {
+  "brand": "DEXP",
+  "name": "AL250",
+  "device": "AL250",
+  "model": "AL250"
  },
  {
   "brand": "DEXP",
@@ -21952,6 +21982,12 @@
   "name": "BL250",
   "device": "BL250",
   "model": "BL250"
+ },
+ {
+  "brand": "DEXP",
+  "name": "BL350",
+  "device": "BL350",
+  "model": "BL350"
  },
  {
   "brand": "DEXP",
@@ -22459,9 +22495,27 @@
  },
  {
   "brand": "DEXP",
+  "name": "Q210",
+  "device": "Q210",
+  "model": "Q210"
+ },
+ {
+  "brand": "DEXP",
+  "name": "Q310",
+  "device": "Q310",
+  "model": "Q310"
+ },
+ {
+  "brand": "DEXP",
   "name": "R110",
   "device": "R110",
   "model": "R110"
+ },
+ {
+  "brand": "DEXP",
+  "name": "R180",
+  "device": "R180",
+  "model": "R180"
  },
  {
   "brand": "DEXP",
@@ -22510,6 +22564,12 @@
   "name": "S570",
   "device": "S570",
   "model": "S570"
+ },
+ {
+  "brand": "DEXP",
+  "name": "S670",
+  "device": "S670",
+  "model": "S670"
  },
  {
   "brand": "DEXP",
@@ -27847,6 +27907,12 @@
  },
  {
   "brand": "Evercoss",
+  "name": "M80",
+  "device": "EVERCOSS_M80",
+  "model": "M80"
+ },
+ {
+  "brand": "Evercoss",
   "name": "One X",
   "device": "A65_sprout",
   "model": "EVERCOSS A65"
@@ -28036,6 +28102,18 @@
   "name": "U70C",
   "device": "U70C",
   "model": "U70C"
+ },
+ {
+  "brand": "Evercoss",
+  "name": "X7A",
+  "device": "X7A",
+  "model": "X7A"
+ },
+ {
+  "brand": "Evercoss",
+  "name": "X8",
+  "device": "X8",
+  "model": "X8"
  },
  {
   "brand": "Everex",
@@ -32164,6 +32242,12 @@
   "name": "ZX70",
   "device": "zx70",
   "model": "zx70"
+ },
+ {
+  "brand": "Getac",
+  "name": "ZX70G2",
+  "device": "zx70g2",
+  "model": "ZX70G2"
  },
  {
   "brand": "Getnord",
@@ -58794,6 +58878,12 @@
   "model": "IS910_1"
  },
  {
+  "brand": "Isafe",
+  "name": "IS930",
+  "device": "IS930",
+  "model": "IS930"
+ },
+ {
   "brand": "Itel",
   "name": "A11",
   "device": "itel_A11",
@@ -61810,6 +61900,12 @@
   "name": "KODAK_SMARTWAY_L1",
   "device": "KODAK_SMARTWAY_L1",
   "model": "KODAK_SMARTWAY_L1"
+ },
+ {
+  "brand": "Kodak",
+  "name": "KODAK_SMARTWAY_T2",
+  "device": "KODAK_SMARTWAY_T2",
+  "model": "KODAK_SMARTWAY_T2"
  },
  {
   "brand": "Kodak",
@@ -92142,6 +92238,12 @@
   "model": "TEG9300"
  },
  {
+  "brand": "OASYS",
+  "name": "TEG9300-M",
+  "device": "TEG9300-M",
+  "model": "TEG9300-M"
+ },
+ {
   "brand": "ODYS",
   "name": "GOAL_10_PLUS_3G",
   "device": "GOAL_10_PLUS_3G",
@@ -105514,6 +105616,12 @@
   "name": "P20",
   "device": "P20",
   "model": "P20"
+ },
+ {
+  "brand": "SEWOO",
+  "name": "NBP_65",
+  "device": "NBP_65",
+  "model": "NBP-65"
  },
  {
   "brand": "SFR",
@@ -142609,9 +142717,21 @@
  },
  {
   "brand": "Vertex",
+  "name": "Pro_P200_4G",
+  "device": "Pro_P200_4G",
+  "model": "Pro_P200_4G"
+ },
+ {
+  "brand": "Vertex",
   "name": "Pro_P300_4G",
   "device": "Pro_P300_4G",
   "model": "Pro_P300_4G"
+ },
+ {
+  "brand": "Vertex",
+  "name": "Pro_P300_4G",
+  "device": "Pro_P310_4G",
+  "model": "Pro_P310_4G"
  },
  {
   "brand": "Vertex",
@@ -145708,6 +145828,12 @@
   "name": "Pluri_G7",
   "device": "Pluri_G7",
   "model": "Pluri G7"
+ },
+ {
+  "brand": "Vonino",
+  "name": "Pluri_M7_2020",
+  "device": "Pluri_M7_2020",
+  "model": "Pluri_M7_2020"
  },
  {
   "brand": "Vonino",
