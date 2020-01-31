@@ -60120,6 +60120,12 @@
   "model": "Cedar CT8"
  },
  {
+  "brand": "Juniper Systems",
+  "name": "Mesa3",
+  "device": "MS3A",
+  "model": "MS3A"
+ },
+ {
   "brand": "Just5",
   "name": "CF8",
   "device": "CF8",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-01-30
+Last sync is 2020-01-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10025,6 +10025,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Jivi|Xtreme_7|Xtreme_7|Xtreme_7|
 |Jooyon|J110A|J110A|J110A|
 |Juniper Systems|Cedar CT8|CT8|Cedar CT8|
+|Juniper Systems|Mesa3|MS3A|MS3A|
 |Just5|CF8|CF8|CF8|
 |Just5|COSMO L707|COSMO_L707|COSMO_L707|
 |Just5|COSMO_L808|COSMO_L808|COSMO L808|
