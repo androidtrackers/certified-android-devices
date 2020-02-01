@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-01-31
+Last sync is 2020-02-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -105,6 +105,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AT&T|AT&T TV|c71kw200|c71kw200|
 |AT&T|AT&T TV|c71kw400|AT&T TV|
 |AT&T|QS5509A|QS5509QL|QS5509A|
+|AT&T|U202AA|U202AA|U202AA|
 |AT&T|U304AA|U304AA|U304AA|
 |ATM (Brazil)|R5Plus|R5Plus|R5Plus|
 |AURII|AURII ULTRA|AURII_ULTRA|AURII ULTRA|
@@ -21483,6 +21484,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Supraim|SN10|SN10|SN10|
 |Surgephone|SURGE|VOLT_5XL|VOLT_5XL|
 |Surtab|SURTAB|SURTAB_74G|SURTAB_74G|
+|Suunto|Suunto 7|salmon|Suunto 7|
 |Sweam|S55E|Senwa_S55E|S55E|
 |Sweam|Sweam|sweam|sweam|
 |Swipe|Elite 4G|Elite_4G|Elite 4G|

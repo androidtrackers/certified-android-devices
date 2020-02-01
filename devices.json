@@ -601,6 +601,12 @@
  },
  {
   "brand": "AT&T",
+  "name": "U202AA",
+  "device": "U202AA",
+  "model": "U202AA"
+ },
+ {
+  "brand": "AT&T",
   "name": "U304AA",
   "device": "U304AA",
   "model": "U304AA"
@@ -128866,6 +128872,12 @@
   "name": "SURTAB",
   "device": "SURTAB_74G",
   "model": "SURTAB_74G"
+ },
+ {
+  "brand": "Suunto",
+  "name": "Suunto 7",
+  "device": "salmon",
+  "model": "Suunto 7"
  },
  {
   "brand": "Sweam",
