@@ -1105,6 +1105,12 @@
  },
  {
   "brand": "Acer",
+  "name": "Acer One 10 T8-129L",
+  "device": "Acer_One_10_T8-129L",
+  "model": "Acer_One_10_T8-129L"
+ },
+ {
+  "brand": "Acer",
   "name": "Acer One 7",
   "device": "Acer_One_7_4G",
   "model": "Acer One 7 4G"
@@ -16242,13 +16248,13 @@
   "model": "HS29779-18"
  },
  {
-  "brand": "CG Corp",
+  "brand": "CG Inspiring Life",
   "name": "Android TV",
   "device": "R1",
   "model": "ATV R1"
  },
  {
-  "brand": "CG Corp",
+  "brand": "CG Inspiring Life",
   "name": "Android TV",
   "device": "R2",
   "model": "ATV R2"
@@ -44854,6 +44860,12 @@
   "name": "H5",
   "device": "H5",
   "model": "H5"
+ },
+ {
+  "brand": "Hot Pepper",
+  "name": "Serrano",
+  "device": "HPP-L55",
+  "model": "HPP-L55"
  },
  {
   "brand": "Hot Pepper",
@@ -120510,6 +120522,12 @@
   "model": "FX9"
  },
  {
+  "brand": "Sandata",
+  "name": "Sandata",
+  "device": "Sandata_T5",
+  "model": "T5"
+ },
+ {
   "brand": "Sankey",
   "name": "TAB1012FKY",
   "device": "TAB1012FKY",
@@ -141960,6 +141978,12 @@
   "model": "VAX114"
  },
  {
+  "brand": "Vaxcare",
+  "name": "VaxCare",
+  "device": "VaxHub2",
+  "model": "VaxHub2"
+ },
+ {
   "brand": "Vega",
   "name": "Vega Q7128",
   "device": "Vega_Q7128",
@@ -145858,6 +145882,12 @@
   "name": "Pluri_M8",
   "device": "Pluri_M8",
   "model": "Pluri_M8"
+ },
+ {
+  "brand": "Vonino",
+  "name": "Pluri_M8_2020",
+  "device": "Pluri_M8_2020",
+  "model": "Pluri_M8_2020"
  },
  {
   "brand": "Vonino",

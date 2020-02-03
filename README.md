@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-02-02
+Last sync is 2020-02-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -189,6 +189,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|Acer Holo360|acer_c01|C01|
 |Acer|Acer One 10 T4-129L|AcerO10T4129L|Acer One 10 T4-129L|
 |Acer|Acer One 10 T4-129LI|AcerO10T412LI|Acer One 10 T4-129LI|
+|Acer|Acer One 10 T8-129L|Acer_One_10_T8-129L|Acer_One_10_T8-129L|
 |Acer|Acer One 7|Acer_One_7_4G|Acer One 7 4G|
 |Acer|Acer One 7 4G|Acer_One_7_4G|Acer One 7 4G|
 |Acer|Aspire A3|aa3-600|AA3-600|
@@ -2712,8 +2713,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CEM Global|Continental|CE10412-26|CE10412-26|
 |CEM Global|Continential|CE10402-16|CE10402-16|
 |CEM Global|HS29779-18|HS29779-18|HS29779-18|
-|CG Corp|Android TV|R1|ATV R1|
-|CG Corp|Android TV|R2|ATV R2|
+|CG Inspiring Life|Android TV|R1|ATV R1|
+|CG Inspiring Life|Android TV|R2|ATV R2|
 |CG Mobile|Blaze G|Blaze_G|Blaze G|
 |CG Mobile|Blaze N|Blaze_N|Blaze N|
 |CG Mobile|EON Blaze Pro|CG_EON_Blaze_Pro|CG_EON_Blaze_Pro|
@@ -7481,6 +7482,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hoozo|YK_P30_EEA|YK_P30_EEA|YK_P30_EEA|
 |Hot Pepper|Ghost|HPP-GS1|HPP-GS1|
 |Hot Pepper|H5|H5|H5|
+|Hot Pepper|Serrano|HPP-L55|HPP-L55|
 |Hot Pepper|Serrano|HPP-L55B|HPP-L55B|
 |Hot Pepper|VLE5|VLE5|VLE5|
 |Hot Pepper|VLE5|VLE5A|VLE5A|
@@ -20090,6 +20092,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samtech|TWIFI-04|TWIFI-04|TWIFI-04|
 |Samtech|TWIFI-06|TWIFI-06|TWIFI-06|
 |Sanaeko|FX9|SANAEKO|FX9|
+|Sandata|Sandata|Sandata_T5|T5|
 |Sankey|TAB1012FKY|TAB1012FKY|TAB1012FKY|
 |Sankey|TAB7A3G05|TAB7A3G05|TAB7A3G05|
 |Sansei|TS10A1|TS10A1|TS10A1|
@@ -23665,6 +23668,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vava|X2|X2|X2|
 |Vava|XP3|XP3|XP3|
 |Vaxcare|VAX114|VAX114|VAX114|
+|Vaxcare|VaxCare|VaxHub2|VaxHub2|
 |Vega|Vega Q7128|Vega_Q7128|Vega Q7128|
 |Veidoo|T7|T7|T7|
 |Veidoo|VEIDOO_T8|VEIDOO_T8|T8|
@@ -24315,6 +24319,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vonino|Pluri_G7|Pluri_G7|Pluri G7|
 |Vonino|Pluri_M7_2020|Pluri_M7_2020|Pluri_M7_2020|
 |Vonino|Pluri_M8|Pluri_M8|Pluri_M8|
+|Vonino|Pluri_M8_2020|Pluri_M8_2020|Pluri_M8_2020|
 |Vonino|Volt S|Volt_S|Volt S|
 |Vonino|Volt_S|Volt_S_A7|Volt_S_A7|
 |Vonino|Volt_X|Volt_X|Volt_X|
