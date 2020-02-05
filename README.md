@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-02-04
+Last sync is 2020-02-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3571,6 +3571,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Covia|CP-W5s|CP-W5s|CP-W5s|
 |Covia|g06+|g06|g06|
 |Crema|CREMA0810T|crema0810t|CREMA0810T|
+|Cricket|U304AC|U304AC|U304AC|
 |Cristor|Glory_Z1|Glory_Z1|Glory Z1|
 |Cristor|Trendy_1|Trendy_1|Trendy 1|
 |Cristor|Trendy_2|Trendy_2|Trendy 2|
