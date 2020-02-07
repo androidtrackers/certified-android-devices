@@ -10945,6 +10945,12 @@
  },
  {
   "brand": "BLOW",
+  "name": "LaserTAB10",
+  "device": "LaserTAB10",
+  "model": "LaserTAB10"
+ },
+ {
+  "brand": "BLOW",
   "name": "PlatinumTAB10",
   "device": "PlatinumTAB10",
   "model": "PlatinumTAB10"
@@ -16816,6 +16822,12 @@
   "name": "DT-X400R",
   "device": "dtx400r",
   "model": "DT-X400R"
+ },
+ {
+  "brand": "Casio",
+  "name": "ET-L10",
+  "device": "ET-L10",
+  "model": "ET-L10"
  },
  {
   "brand": "Casio",
@@ -59071,6 +59083,12 @@
  },
  {
   "brand": "Isafe",
+  "name": "IS520",
+  "device": "IS520",
+  "model": "IS520"
+ },
+ {
+  "brand": "Isafe",
   "name": "IS520.1",
   "device": "IS520_1",
   "model": "IS520_1"
@@ -71152,6 +71170,12 @@
   "name": "K3102_W",
   "device": "K3102_W",
   "model": "K3102_W"
+ },
+ {
+  "brand": "LIFE Digital",
+  "name": "K3102_WIFI",
+  "device": "K3102_WIFI",
+  "model": "K3102 WIFI"
  },
  {
   "brand": "LINNEX",
@@ -95760,6 +95784,12 @@
   "model": "Orange Niva"
  },
  {
+  "brand": "Orange TV",
+  "name": "Descodificador Orange TV",
+  "device": "KSTB6130",
+  "model": "KSTB6130"
+ },
+ {
   "brand": "Orbic",
   "name": "R370H",
   "device": "R370H",
@@ -103957,6 +103987,12 @@
  },
  {
   "brand": "Qsmart",
+  "name": "QSmart Rocket",
+  "device": "Rocket",
+  "model": "QSmart Rocket"
+ },
+ {
+  "brand": "Qsmart",
   "name": "QSmart X10",
   "device": "X10",
   "model": "QSmart X10"
@@ -105334,6 +105370,12 @@
   "name": "M7Go_2019",
   "device": "M7Go_2019",
   "model": "M7Go_2019"
+ },
+ {
+  "brand": "Reeder",
+  "name": "M7S",
+  "device": "M7S",
+  "model": "M7S"
  },
  {
   "brand": "Reeder",
@@ -138109,6 +138151,12 @@
  },
  {
   "brand": "Teclast",
+  "name": "X_EEA",
+  "device": "X_EEA",
+  "model": "X_EEA"
+ },
+ {
+  "brand": "Teclast",
   "name": "X_ROW",
   "device": "X_ROW",
   "model": "X_ROW"
@@ -141823,6 +141871,12 @@
  },
  {
   "brand": "Umidigi",
+  "name": "F2",
+  "device": "F2",
+  "model": "F2"
+ },
+ {
+  "brand": "Umidigi",
   "name": "One",
   "device": "One",
   "model": "One"
@@ -143188,6 +143242,12 @@
   "name": "S1",
   "device": "GlocalMe_S1",
   "model": "G1701"
+ },
+ {
+  "brand": "Vertex",
+  "name": "Smart Touch",
+  "device": "smart_touch",
+  "model": "smart_touch"
  },
  {
   "brand": "Vertex",

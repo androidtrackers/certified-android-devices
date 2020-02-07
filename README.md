@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-02-06
+Last sync is 2020-02-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1829,6 +1829,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BLOVEDREAM|PDA|PDA|PDA|
 |BLOW|BlackTAB7|BlackTAB7|BlackTAB7|
 |BLOW|KidsTAB7_EEA|KidsTAB7|KidsTAB7|
+|BLOW|LaserTAB10|LaserTAB10|LaserTAB10|
 |BLOW|PlatinumTAB10|PlatinumTAB10|PlatinumTAB10|
 |BLUEING|M1867G|M1867G|M1867G|
 |BMPRO|BMPRO7DI|BMPRO7DI|BMPRO7DI|
@@ -2808,6 +2809,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Carrefour|CT826|CT826|CT826|
 |Casio|DT-X400|dtx400|DT-X400|
 |Casio|DT-X400R|dtx400r|DT-X400R|
+|Casio|ET-L10|ET-L10|ET-L10|
 |Casio|IT-G400|itg400|IT-G400|
 |Casio|IT-G650|itg650|IT-G650|
 |Casio|Smart Outdoor Watch WSD-F10|koi|CASIO WSD-F10|
@@ -9850,6 +9852,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Iris|VOX POP Pro|VOX_POP_Pro|VOX POP Pro|
 |Iris|VOX POP plus|VOX_POP_plus|VOX POP plus|
 |Iris|Vox_5S|Vox_5S|Vox_5S|
+|Isafe|IS520|IS520|IS520|
 |Isafe|IS520.1|IS520_1|IS520_1|
 |Isafe|IS530|IS530|IS530|
 |Isafe|IS655|IS655|IS655|
@@ -11864,6 +11867,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LIAONING YIYATONG|IRULU_MID|IRULU_MID|X10|
 |LIFE Digital|K3102_4G|K3102_4G|ITELL K3102 4G|
 |LIFE Digital|K3102_W|K3102_W|K3102_W|
+|LIFE Digital|K3102_WIFI|K3102_WIFI|K3102 WIFI|
 |LINNEX|LI22|LI22|LI22|
 |LINSAY|F-7HD2CORE / F-7HD4CORE / F-10HD2CORE /F-10XHD4CORE|F-7HD2CORE|LINSAY F-7HD2CORE/F-7HD4CORE/F-10HD2CORE/F-10XHD4CORE|
 |LLA|VIP6102W-LLA|vip6102w|VIP6102W|
@@ -15965,6 +15969,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Orange|Sego|Orange_Sego|Orange Sego|
 |Orange|Zilo|Orange_Zilo|Zilo|
 |Orange|idol S|Diablo_LTE|Orange Niva|
+|Orange TV|Descodificador Orange TV|KSTB6130|KSTB6130|
 |Orbic|R370H|R370H|R370L|
 |Orbic|RC506LT|Orbic-RC506LT|RC506LT|
 |Orbic|Wonder|RC555L|RC555L|
@@ -17331,6 +17336,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Qsmart|LT950|LT950|LT950|
 |Qsmart|Mark 2|MARK_2|Mark 2|
 |Qsmart|QSmart Canopus|Canopus|QSmart_Canopus|
+|Qsmart|QSmart Rocket|Rocket|QSmart Rocket|
 |Qsmart|QSmart X10|X10|QSmart X10|
 |Qsmart|QSmart X20|X20|QSmart X20|
 |Qsmart|QSmart X40|X40|QSmart X40|
@@ -17561,6 +17567,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reeder|M10_Pro_LTE|M10_Pro_LTE|M10 Pro LTE|
 |Reeder|M7 Plus|reeder_M7Plus|M7Plus|
 |Reeder|M7Go_2019|M7Go_2019|M7Go_2019|
+|Reeder|M7S|M7S|M7S|
 |Reeder|M8S|reeder_M8S|reeder_M8S|
 |Reeder|M8_Go|M8_Go|M8_Go|
 |Reeder|P10|P10|P10|
@@ -23023,6 +23030,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|T30_EEA|T30|T30_EEA|
 |Teclast|T30_ROW|T30|T30_ROW|
 |Teclast|T30_RU|T30|T30_RU|
+|Teclast|X_EEA|X_EEA|X_EEA|
 |Teclast|X_ROW|X_ROW|X_ROW|
 |Teclast|tPad8|tPad8|tPad8|
 |Tecno|A7S|TECNO-A7S|TECNO-A7S|
@@ -23642,6 +23650,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|A7|A7_EEA|A7|
 |Umidigi|F1|F1|F1|
 |Umidigi|F1_EEA|F1|F1|
+|Umidigi|F2|F2|F2|
 |Umidigi|One|One|One|
 |Umidigi|One Max|One_Max|One Max|
 |Umidigi|One Max E|One_Max|One Max|
@@ -23870,6 +23879,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vertex|Pro_P300_4G|Pro_P300_4G|Pro_P300_4G|
 |Vertex|Pro_P300_4G|Pro_P310_4G|Pro_P310_4G|
 |Vertex|S1|GlocalMe_S1|G1701|
+|Vertex|Smart Touch|smart_touch|smart_touch|
 |Vertex|Smart_S_100_4G|Smart_S_100_4G|Smart_S_100_4G|
 |Vertex|Tab_4G_10_1|Tab_4G_10-1|Tab 4G 10-1|
 |Vertex|Tab_4G_8-1|Tab_4G_8-1|Tab 4G 8-1|
