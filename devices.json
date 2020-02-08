@@ -134425,6 +134425,12 @@
  },
  {
   "brand": "TCT (Alcatel)",
+  "name": "Alcatel 3V",
+  "device": "Morgan_4G",
+  "model": "5032W"
+ },
+ {
+  "brand": "TCT (Alcatel)",
   "name": "Alcatel 3X",
   "device": "A3A_PLUS",
   "model": "5058A"
@@ -158809,6 +158815,12 @@
  },
  {
   "brand": "ZTE",
+  "name": "ZTE Axon 10 Pro",
+  "device": "P855A21",
+  "model": "ZTE A2020N3 Pro"
+ },
+ {
+  "brand": "ZTE",
   "name": "ZTE BLADE A0605",
   "device": "P809F15",
   "model": "ZTE BLADE A0605"
@@ -159151,6 +159163,12 @@
  },
  {
   "brand": "ZTE",
+  "name": "ZTE Blade A5 2020",
+  "device": "P963F50",
+  "model": "ZTE Blade A5 2020"
+ },
+ {
+  "brand": "ZTE",
   "name": "ZTE Blade A5 2020RU",
   "device": "P963F50",
   "model": "ZTE Blade A5 2020RU"
@@ -159189,6 +159207,12 @@
   "brand": "ZTE",
   "name": "ZTE Blade A7 2020RU",
   "device": "P662F02D",
+  "model": "ZTE Blade A7 2020RU"
+ },
+ {
+  "brand": "ZTE",
+  "name": "ZTE Blade A7 2020RU",
+  "device": "P662F02_D1",
   "model": "ZTE Blade A7 2020RU"
  },
  {

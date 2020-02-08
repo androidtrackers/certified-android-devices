@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-02-07
+Last sync is 2020-02-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -22409,6 +22409,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 3V|A3A_XL_4G|5099D_RU|
 |TCT (Alcatel)|Alcatel 3V|A3A_XL_4G|5099I|
 |TCT (Alcatel)|Alcatel 3V|A3A_XL_4G|5099U|
+|TCT (Alcatel)|Alcatel 3V|Morgan_4G|5032W|
 |TCT (Alcatel)|Alcatel 3X|A3A_PLUS|5058A|
 |TCT (Alcatel)|Alcatel 3X|A3A_PLUS|5058I|
 |TCT (Alcatel)|Alcatel 3X|A3A_PLUS|5058I_RU|
@@ -26473,6 +26474,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Axon 10 Pro|P855A02|ZTE A2020 Pro|
 |ZTE|ZTE Axon 10 Pro|P855A03|ZTE Axon 10 Pro|
 |ZTE|ZTE Axon 10 Pro|P855A03_NA|ZTE A2020U Pro|
+|ZTE|ZTE Axon 10 Pro|P855A21|ZTE A2020N3 Pro|
 |ZTE|ZTE BLADE A0605|P809F15|ZTE BLADE A0605|
 |ZTE|ZTE BLADE A0605|P809F15|ZTE BLADE A6 MAX|
 |ZTE|ZTE BLADE A0620|P840F12|ZTE BLADE A0620|
@@ -26530,6 +26532,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A5 2019|P963F30|ZTE Blade A5 2019|
 |ZTE|ZTE Blade A5 2019|P963F30P|ZTE Blade A5 2019|
 |ZTE|ZTE Blade A5 2019RU|P963F30P|ZTE Blade A5 2019RU|
+|ZTE|ZTE Blade A5 2020|P963F50|ZTE Blade A5 2020|
 |ZTE|ZTE Blade A5 2020RU|P963F50|ZTE Blade A5 2020RU|
 |ZTE|ZTE Blade A522|P817E53|ZTE Blade A522|
 |ZTE|ZTE Blade A531|P932F10|ZTE Blade A531|
@@ -26537,6 +26540,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A7 2019RU|P963F02|ZTE Blade A7 2019RU|
 |ZTE|ZTE Blade A7 2020|P662F02D|ZTE Blade A7 2020|
 |ZTE|ZTE Blade A7 2020RU|P662F02D|ZTE Blade A7 2020RU|
+|ZTE|ZTE Blade A7 2020RU|P662F02_D1|ZTE Blade A7 2020RU|
 |ZTE|ZTE Blade A7s|P662F02|ZTE Blade A7s|
 |ZTE|ZTE Blade L110|ZTE_BLADE_L110|ZTE Blade L110|
 |ZTE|ZTE Blade L130|P731F30|ZTE Blade L130|
