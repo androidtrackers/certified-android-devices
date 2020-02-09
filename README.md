@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-02-08
+Last sync is 2020-02-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9440,6 +9440,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|S5|Infinix-X652A|Infinix X652A|
 |Infinix|S5 Lite|Infinix-X652B|Infinix X652B|
 |Infinix|S5 Lite|Infinix-X652C|Infinix X652C|
+|Infinix|S5 Pro|Infinix-X660|Infinix X660|
 |Infinix|SURF 2|INFINIX_X511|Infinix X511|
 |Infinix|Smart 2|Infinix-X5515|Infinix X5515|
 |Infinix|Smart 2|Infinix-X5515F|Infinix X5515F|
@@ -23171,6 +23172,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|SPARK 3|TECNO-KB7j|TECNO KB7j|
 |Tecno|SPARK 3 Pro|TECNO-KB8|TECNO KB8|
 |Tecno|SPARK 4|TECNO-KC8|TECNO KC8|
+|Tecno|SPARK 4|TECNO-KC8S|TECNO KC8S|
 |Tecno|SPARK 4 Lite|TECNO-BB4k|TECNO BB4k|
 |Tecno|SPARK CM|TECNO-KA9|TECNO KA9|
 |Tecno|SPARK Plus|TECNO-K9|TECNO K9|

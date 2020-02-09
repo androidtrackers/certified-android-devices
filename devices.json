@@ -56611,6 +56611,12 @@
  },
  {
   "brand": "Infinix",
+  "name": "S5\u00a0Pro",
+  "device": "Infinix-X660",
+  "model": "Infinix X660"
+ },
+ {
+  "brand": "Infinix",
   "name": "SURF 2",
   "device": "INFINIX_X511",
   "model": "Infinix X511"
@@ -138994,6 +139000,12 @@
   "name": "SPARK 4",
   "device": "TECNO-KC8",
   "model": "TECNO KC8"
+ },
+ {
+  "brand": "Tecno",
+  "name": "SPARK 4",
+  "device": "TECNO-KC8S",
+  "model": "TECNO KC8S"
  },
  {
   "brand": "Tecno",
