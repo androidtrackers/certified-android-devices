@@ -30,6 +30,12 @@
   "model": "DIW387 1U1"
  },
  {
+  "brand": "1&1",
+  "name": "DIW387-1&1",
+  "device": "diw387_1u1",
+  "model": "DIW387 1U1"
+ },
+ {
   "brand": "10.or",
   "name": "10or_G2",
   "device": "G2",
@@ -7140,6 +7146,12 @@
   "model": "Wizard_1"
  },
  {
+  "brand": "Arris",
+  "name": "VIP6102W",
+  "device": "vip6102w",
+  "model": "VIP6102W"
+ },
+ {
   "brand": "Artek",
   "name": "Beat",
   "device": "Beat",
@@ -9634,6 +9646,12 @@
   "name": "RT101A",
   "device": "RT101A",
   "model": "RT101A9"
+ },
+ {
+  "brand": "Athesi",
+  "name": "RT80A",
+  "device": "RT80A",
+  "model": "RT80A9"
  },
  {
   "brand": "Atria Convergence Technologies",
@@ -14308,6 +14326,12 @@
   "name": "A250",
   "device": "A250",
   "model": "A250"
+ },
+ {
+  "brand": "Blu",
+  "name": "A30",
+  "device": "A30",
+  "model": "A30"
  },
  {
   "brand": "Blu",
@@ -24160,6 +24184,12 @@
   "name": "ismart",
   "device": "MID1016-MK",
   "model": "MID1016-MK"
+ },
+ {
+  "brand": "Digicel",
+  "name": "DL3",
+  "device": "DL3",
+  "model": "DL3"
  },
  {
   "brand": "Digicel",
@@ -44905,6 +44935,36 @@
  },
  {
   "brand": "Honeywell",
+  "name": "CN80",
+  "device": "CN80G-L0-C",
+  "model": "CN80"
+ },
+ {
+  "brand": "Honeywell",
+  "name": "CN80",
+  "device": "CN80G-L0-C-B",
+  "model": "CN80"
+ },
+ {
+  "brand": "Honeywell",
+  "name": "CN80",
+  "device": "CN80G-L0-N",
+  "model": "CN80"
+ },
+ {
+  "brand": "Honeywell",
+  "name": "CN80",
+  "device": "CN80G-L0-N-B",
+  "model": "CN80"
+ },
+ {
+  "brand": "Honeywell",
+  "name": "CN80",
+  "device": "CN80G-L1-N",
+  "model": "CN80"
+ },
+ {
+  "brand": "Honeywell",
   "name": "CN85",
   "device": "CN85-L0-C",
   "model": "CN85"
@@ -45098,7 +45158,19 @@
  {
   "brand": "Honeywell",
   "name": "EDA61K",
+  "device": "EDA61K-0C",
+  "model": "EDA61K"
+ },
+ {
+  "brand": "Honeywell",
+  "name": "EDA61K",
   "device": "EDA61K-0U",
+  "model": "EDA61K"
+ },
+ {
+  "brand": "Honeywell",
+  "name": "EDA61K",
+  "device": "EDA61K-1C",
   "model": "EDA61K"
  },
  {
@@ -45136,6 +45208,18 @@
   "name": "EdA50",
   "device": "eda50-211",
   "model": "EDA50"
+ },
+ {
+  "brand": "Honeywell",
+  "name": "TA60A",
+  "device": "TA60A-L0-C",
+  "model": "TA60A"
+ },
+ {
+  "brand": "Honeywell",
+  "name": "TA60A",
+  "device": "TA60A-L1-C",
+  "model": "TA60A"
  },
  {
   "brand": "Honeywell",
@@ -56146,6 +56230,12 @@
   "name": "A20",
   "device": "A20",
   "model": "A20"
+ },
+ {
+  "brand": "IkuMobile",
+  "name": "A30",
+  "device": "A30",
+  "model": "A30"
  },
  {
   "brand": "IkuMobile",
@@ -79735,6 +79825,12 @@
  },
  {
   "brand": "MSI",
+  "name": "NB32-Gen2",
+  "device": "NB32-Gen2",
+  "model": "NB32-Gen2"
+ },
+ {
+  "brand": "MSI",
   "name": "ND52-Gen2",
   "device": "ND52-Gen2",
   "model": "ND52-Gen2"
@@ -84109,6 +84205,12 @@
  },
  {
   "brand": "Mobicell",
+  "name": "FEVER_PLUS_H",
+  "device": "FEVER_PLUS_H",
+  "model": "FEVER_PLUS_H"
+ },
+ {
+  "brand": "Mobicell",
   "name": "FRIO",
   "device": "FRIO",
   "model": "FRIO"
@@ -84475,6 +84577,12 @@
  },
  {
   "brand": "Mobicell",
+  "name": "X1",
+  "device": "X1",
+  "model": "X1"
+ },
+ {
+  "brand": "Mobicell",
   "name": "X4",
   "device": "X4",
   "model": "X4"
@@ -84490,6 +84598,12 @@
   "name": "ZOOM",
   "device": "ZOOM",
   "model": "ZOOM"
+ },
+ {
+  "brand": "Mobicell",
+  "name": "ZOOM_H",
+  "device": "ZOOM_H",
+  "model": "ZOOM-H"
  },
  {
   "brand": "Mobicell",
@@ -101881,6 +101995,12 @@
  },
  {
   "brand": "Prestigio",
+  "name": "MUZE E5 LTE",
+  "device": "TL55B3L",
+  "model": "PSP5545DUO"
+ },
+ {
+  "brand": "Prestigio",
   "name": "MUZE U3 LTE",
   "device": "BW50B1L",
   "model": "PSP3515DUO"
@@ -105880,6 +106000,12 @@
   "name": "RD86E",
   "device": "RD86E",
   "model": "RD86E"
+ },
+ {
+  "brand": "Remdun",
+  "name": "RD86QE",
+  "device": "RD86QE",
+  "model": "RD86QE"
  },
  {
   "brand": "Reveal 16i",
@@ -162658,6 +162784,12 @@
   "name": "iV_301",
   "device": "iV_301",
   "model": "iV_301"
+ },
+ {
+  "brand": "iWaylink",
+  "name": "MC401",
+  "device": "MC401_GWL",
+  "model": "MC401_GWL"
  },
  {
   "brand": "iWaylink",

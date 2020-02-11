@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-02-10
+Last sync is 2020-02-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10,6 +10,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |||hws7721g|MediaPad 7 Youth 2|
 |1&1|1&1 Puck|diw362_1u1|DIW362P 1U1|
 |1&1|1&1 TV Box|diw387_1u1|DIW387 1U1|
+|1&1|DIW387-1&1|diw387_1u1|DIW387 1U1|
 |10.or|10or_G2|G2|10or G2|
 |10.or|D|10or_D|D|
 |10.or|E|E|E|
@@ -1195,6 +1196,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ark|Impulse P2|Impulse_P2|Impulse_P2|
 |Ark|S504|S504|S504|
 |Ark|Wizard 1|Wizard_1|Wizard_1|
+|Arris|VIP6102W|vip6102w|VIP6102W|
 |Artek|Beat|Beat|Beat|
 |Artel|ALO|ALO|ALO|
 |Artel|Android TV|R1|ATV R1|
@@ -1611,6 +1613,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Athesi|AP6301|AP6301|AP6301|
 |Athesi|AT-E8T|AT-E8T|AT-E8T|
 |Athesi|RT101A|RT101A|RT101A9|
+|Athesi|RT80A|RT80A|RT80A9|
 |Atria Convergence Technologies|ACT|B860H_V1|B860H|
 |Attila|Magic_1|Magic_1|Magic_1|
 |Auchan|AUCHAN|Q7T9INK|Q7T9INK|
@@ -2390,6 +2393,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|A-200|A200|A200|
 |Blu|A200|A200|A200|
 |Blu|A250|A250|A250|
+|Blu|A30|A30|A30|
 |Blu|ADVANCE 4.0 L2|BLU_ADVANCE_4_0_L2|BLU ADVANCE 4.0 L2|
 |Blu|ADVANCE 4.0 L3|Advance_4_0_L3|Advance 4.0 L3|
 |Blu|ADVANCE 5.0 HD|Advance_5_0_HD|Advance 5.0 HD|
@@ -4032,6 +4036,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DigiLand|TP1_N|TP1_N|TP1_N|
 |DigiLand|TPC-705Kids_EEA|MID7015A-MK|TPC-705Kids|
 |DigiLand|ismart|MID1016-MK|MID1016-MK|
+|Digicel|DL3|DL3|DL3|
 |Digicel|DL501|DL501|DL501|
 |Digicel|Digi K1|Digi_K1|Digi_K1|
 |Digicel|GO Onyx|GO_Onyx|GO Onyx|
@@ -7489,6 +7494,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|CN80|CN80-L0-N|CN80|
 |Honeywell|CN80|CN80-L1-C|CN80|
 |Honeywell|CN80|CN80-L1-N|CN80|
+|Honeywell|CN80|CN80G-L0-C|CN80|
+|Honeywell|CN80|CN80G-L0-C-B|CN80|
+|Honeywell|CN80|CN80G-L0-N|CN80|
+|Honeywell|CN80|CN80G-L0-N-B|CN80|
+|Honeywell|CN80|CN80G-L1-N|CN80|
 |Honeywell|CN85|CN85-L0-C|CN85|
 |Honeywell|CN85|CN85-L1-C|CN85|
 |Honeywell|CT40|CT40-L0-C|CT40|
@@ -7521,13 +7531,17 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|EDA50K|eda50k-1|Glory EDA50K|
 |Honeywell|EDA51|EDA51-0|EDA51|
 |Honeywell|EDA51|EDA51-1|EDA51|
+|Honeywell|EDA61K|EDA61K-0C|EDA61K|
 |Honeywell|EDA61K|EDA61K-0U|EDA61K|
+|Honeywell|EDA61K|EDA61K-1C|EDA61K|
 |Honeywell|EDA61K|EDA61K-1U|EDA61K|
 |Honeywell|EDA70|eda70-0|EDA70|
 |Honeywell|EDA70|eda70-3|EDA70|
 |Honeywell|EDA71|EDA71-0|EDA71_G|
 |Honeywell|EDA71|EDA71-1|EDA71_G|
 |Honeywell|EdA50|eda50-211|EDA50|
+|Honeywell|TA60A|TA60A-L0-C|TA60A|
+|Honeywell|TA60A|TA60A-L1-C|TA60A|
 |Honeywell|VM1A|VM1A-L0-N|VM1A|
 |Honeywell|VM1A|VM1A-L0-P|VM1A|
 |Honeywell|VM3A|VM3A-L0-N|VM3A|
@@ -9363,6 +9377,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ikon|IK-787|IK-787|IK-787|
 |Ikon|IK-869|IK-869|IK-869|
 |IkuMobile|A20|A20|A20|
+|IkuMobile|A30|A30|A30|
 |IkuMobile|I3|I3|IKU i3|
 |IkuMobile|IKU_T3|IKU_T3|IKU_T3|
 |IkuMobile|IKU_T_max|IKU_T_max|IKU_T_max|
@@ -13294,6 +13309,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MOVIC|S5501|S5501|S5501|
 |MPman|MPDC1006|MPDC1006|MPDC1006|
 |MPman|MPDC706|MPDC706|MPDC706|
+|MSI|NB32-Gen2|NB32-Gen2|NB32-Gen2|
 |MSI|ND52-Gen2|ND52-Gen2|ND52-Gen2|
 |MSI|Primo73|N71J|Primo73|
 |MSI|Primo76|N728|Primo76|
@@ -14023,6 +14039,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|FAME_DS|FAME_DS|FAME_DS|
 |Mobicell|FENDY_DS|FENDY_DS|FENDY_DS|
 |Mobicell|FEVER|FEVER|FEVER|
+|Mobicell|FEVER_PLUS_H|FEVER_PLUS_H|FEVER_PLUS_H|
 |Mobicell|FRIO|FRIO|FRIO|
 |Mobicell|Fever_Plus|Fever_Plus|Fever_Plus|
 |Mobicell|Fever_Plus_J|Fever_Plus_J|Fever_Plus_J|
@@ -14084,9 +14101,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|V4|V4|V4|
 |Mobicell|VEGA|VEGA|VEGA|
 |Mobicell|VENUS_G|VENUS_G|VENUS_G|
+|Mobicell|X1|X1|X1|
 |Mobicell|X4|X4|X4|
 |Mobicell|ZEN|ZEN|ZEN|
 |Mobicell|ZOOM|ZOOM|ZOOM|
+|Mobicell|ZOOM_H|ZOOM_H|ZOOM-H|
 |Mobicell|Zoom|ZOOM|ZOOM|
 |MobiiStar|C1 Lite|C1_Lite|C1 Lite|
 |MobiiStar|C1 Power|mobiistar_C1_Power|mobiistar C1 Power|
@@ -16985,6 +17004,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|MULTIPAD WIZE 3331 3G|PN10A01G|PMT3331_3G|
 |Prestigio|MULTIPAD WIZE 3341 3G|PN10A01G|PMT3341_3G|
 |Prestigio|MULTIPAD WIZE 3787 3G|PMT3777_3G|PMT3787_3G|
+|Prestigio|MUZE E5 LTE|TL55B3L|PSP5545DUO|
 |Prestigio|MUZE U3 LTE|BW50B1L|PSP3515DUO|
 |Prestigio|MUZE V3|TL49B4L|PSP3495DUO|
 |Prestigio|MultiPad Thunder 7.0i|g01p|PMT3377_Wi|
@@ -17652,6 +17672,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Remdun|RD62E|RD62E|RD62E|
 |Remdun|RD86|RD86|RD86|
 |Remdun|RD86E|RD86E|RD86E|
+|Remdun|RD86QE|RD86QE|RD86QE|
 |Reveal 16i|rk3399_rvlEEA_box|rk3399_reveal16i_box|Reveal 16i|
 |Reveal 16i|rk3399_rvl_box|rk3399_reveal16i_box|Reveal 16i|
 |Revko|BE XL|BE_xl|BE_xl|
@@ -27115,6 +27136,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iVOOMi|i2|i2|i2|
 |iVOOMi|i2 Lite|i2_Lite|i2_Lite|
 |iVOOMi|iV_301|iV_301|iV_301|
+|iWaylink|MC401|MC401_GWL|MC401_GWL|
 |iWaylink|TC601|TC601_GWL|TC601_GWL|
 |iYOU|iYOU_M1|iYOU_M1|iYOU_M1|
 |imose|BAM-II|BAM-II|BAM-II|
