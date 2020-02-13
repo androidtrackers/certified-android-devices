@@ -9655,6 +9655,12 @@
  },
  {
   "brand": "Athesi",
+  "name": "E6A",
+  "device": "E6A",
+  "model": "E6A"
+ },
+ {
+  "brand": "Athesi",
   "name": "RT101A",
   "device": "RT101A",
   "model": "RT101A9"
@@ -15712,6 +15718,12 @@
   "name": "EF501",
   "device": "EF501",
   "model": "EF501"
+ },
+ {
+  "brand": "Bluebird",
+  "name": "EF501",
+  "device": "EF501",
+  "model": "EF501R_RU"
  },
  {
   "brand": "Bluebird",
@@ -56827,6 +56839,12 @@
  },
  {
   "brand": "Infinix",
+  "name": "Infinix HOT 9 Pro",
+  "device": "Infinix-X655F",
+  "model": "Infinix X655F"
+ },
+ {
+  "brand": "Infinix",
   "name": "Infinix NOTE 5",
   "device": "Infinix-X604_sprout",
   "model": "Infinix X604"
@@ -59881,6 +59899,12 @@
  },
  {
   "brand": "Itel",
+  "name": "Vision1",
+  "device": "itel-L6005",
+  "model": "itel L6005"
+ },
+ {
+  "brand": "Itel",
   "name": "it1355",
   "device": "itel_it1355",
   "model": "itel it1355"
@@ -60158,6 +60182,12 @@
  {
   "brand": "Itel",
   "name": "itel A23",
+  "device": "itel-A23",
+  "model": "itel A23R"
+ },
+ {
+  "brand": "Itel",
+  "name": "itel A23",
   "device": "itel-A23F",
   "model": "itel A23"
  },
@@ -60235,6 +60265,12 @@
  },
  {
   "brand": "Itel",
+  "name": "itel AC12",
+  "device": "itel-A14",
+  "model": "itel A14"
+ },
+ {
+  "brand": "Itel",
   "name": "itel AC32",
   "device": "itel-A16S",
   "model": "itel A16S"
@@ -60274,6 +60310,12 @@
   "name": "itel S32LTE",
   "device": "itel-S32LTE",
   "model": "itel S32LTE"
+ },
+ {
+  "brand": "Itel",
+  "name": "itel Vision1(P36 Play)",
+  "device": "itel-L6005",
+  "model": "itel L6005"
  },
  {
   "brand": "Itel",
@@ -78301,9 +78343,21 @@
  },
  {
   "brand": "Logic Instrument",
+  "name": "Logic Instrument Fieldbook 57",
+  "device": "lifb57",
+  "model": "Logic Instrument Fieldbook F57"
+ },
+ {
+  "brand": "Logic Instrument",
   "name": "Logic Instrument Fieldbook KS80",
   "device": "lifbks80",
   "model": "Logic Instrument Fieldbook KS80"
+ },
+ {
+  "brand": "Logic Instrument",
+  "name": "Logic Instrument Fieldbook N101",
+  "device": "lifbn101",
+  "model": "Logic Instrument Fieldbook N101"
  },
  {
   "brand": "Logic Instrument",
@@ -84166,6 +84220,12 @@
   "name": "MITO_A19_2GB",
   "device": "MITO_A19_2GB",
   "model": "MITO_A19_2GB"
+ },
+ {
+  "brand": "Mito",
+  "name": "MITO_T18",
+  "device": "MITO_T18",
+  "model": "MITO_T18"
  },
  {
   "brand": "Mito",
@@ -91561,6 +91621,12 @@
  },
  {
   "brand": "Neffos",
+  "name": "Neffos A5",
+  "device": "A5",
+  "model": "Neffos A5"
+ },
+ {
+  "brand": "Neffos",
   "name": "Neffos C9 Max",
   "device": "C9_Max",
   "model": "Neffos C9 Max"
@@ -95914,6 +95980,36 @@
   "name": "Reno2 Z \u4e2d\u56fd\u7248",
   "device": "OP4A43",
   "model": "PCKM80"
+ },
+ {
+  "brand": "Oppo",
+  "name": "Reno3 5G \u4e2d\u56fd\u7248",
+  "device": "OP4ADD",
+  "model": "PDCM00"
+ },
+ {
+  "brand": "Oppo",
+  "name": "Reno3 Pro",
+  "device": "OP4C5FL1",
+  "model": "CPH2035"
+ },
+ {
+  "brand": "Oppo",
+  "name": "Reno3 Pro",
+  "device": "OP4C5FL1",
+  "model": "CPH2036"
+ },
+ {
+  "brand": "Oppo",
+  "name": "Reno3 Pro",
+  "device": "OP4C5FL1",
+  "model": "CPH2037"
+ },
+ {
+  "brand": "Oppo",
+  "name": "Reno3 Pro 5G\u4e2d\u56fd\u7248",
+  "device": "OP4A9D",
+  "model": "PCRM00"
  },
  {
   "brand": "Oppo",
@@ -106267,6 +106363,12 @@
  },
  {
   "brand": "Remdun",
+  "name": "RD51QE",
+  "device": "RD51QE",
+  "model": "RD51QE"
+ },
+ {
+  "brand": "Remdun",
   "name": "RD52E",
   "device": "RD52E",
   "model": "RD52E"
@@ -113269,6 +113371,12 @@
  },
  {
   "brand": "Samsung",
+  "name": "Galaxy M31",
+  "device": "m31",
+  "model": "SM-M315F"
+ },
+ {
+  "brand": "Samsung",
   "name": "Galaxy M40",
   "device": "m40",
   "model": "SM-M405F"
@@ -116254,6 +116362,18 @@
   "name": "Galaxy S2 X",
   "device": "SGH-T989D",
   "model": "SGH-T989D"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy S20",
+  "device": "x1s",
+  "model": "SM-G980F"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy S20+",
+  "device": "y2s",
+  "model": "SM-G985F"
  },
  {
   "brand": "Samsung",
@@ -121336,6 +121456,36 @@
   "name": "Galaxy Young2 Pro",
   "device": "young2ve3g",
   "model": "SM-G130BU"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Z Flip",
+  "device": "bloomq",
+  "model": "SM-F7000"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Z Flip",
+  "device": "bloomq",
+  "model": "SM-F700F"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Z Flip",
+  "device": "bloomq",
+  "model": "SM-F700N"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Z Flip",
+  "device": "bloomq",
+  "model": "SM-F700U1"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy Z Flip",
+  "device": "bloomq",
+  "model": "SM-F700W"
  },
  {
   "brand": "Samsung",
@@ -139909,6 +140059,12 @@
  },
  {
   "brand": "Tecno",
+  "name": "TECNO POP 2 Air",
+  "device": "TECNO-SC7S",
+  "model": "TECNO SC7S"
+ },
+ {
+  "brand": "Tecno",
   "name": "TECNO POP 2s Pro",
   "device": "TECNO-KB2j",
   "model": "TECNO KB2j"
@@ -150940,6 +151096,30 @@
   "name": "MIX 3",
   "device": "perseus",
   "model": "Mi MIX 3"
+ },
+ {
+  "brand": "Xiaomi",
+  "name": "Mi 10",
+  "device": "umi",
+  "model": "Mi 10"
+ },
+ {
+  "brand": "Xiaomi",
+  "name": "Mi 10",
+  "device": "umi",
+  "model": "Umi"
+ },
+ {
+  "brand": "Xiaomi",
+  "name": "Mi 10 Pro",
+  "device": "cmi",
+  "model": "Cmi"
+ },
+ {
+  "brand": "Xiaomi",
+  "name": "Mi 10 Pro",
+  "device": "cmi",
+  "model": "Mi 10 Pro"
  },
  {
   "brand": "Xiaomi",

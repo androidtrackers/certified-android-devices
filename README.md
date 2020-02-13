@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-02-12
+Last sync is 2020-02-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1614,6 +1614,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Athesi|AP5801|AP5801|AP5801|
 |Athesi|AP6301|AP6301|AP6301|
 |Athesi|AT-E8T|AT-E8T|AT-E8T|
+|Athesi|E6A|E6A|E6A|
 |Athesi|RT101A|RT101A|RT101A9|
 |Athesi|RT80A|RT80A|RT80A9|
 |Atria Convergence Technologies|ACT|B860H_V1|B860H|
@@ -2624,6 +2625,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bluebird|EF401|EF401|EF401|
 |Bluebird|EF500|EF500|EF500|
 |Bluebird|EF501|EF501|EF501|
+|Bluebird|EF501|EF501|EF501R_RU|
 |Bluebird|RP350|RP350|RP350|
 |Bluebird|RT080|RT080|RT080|
 |Bluebird|SF550|SF550|SF550|
@@ -9476,6 +9478,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623B|
 |Infinix|Infinix HOT 7|Infinix-X625C|Infinix X625C|
 |Infinix|Infinix HOT 7 pro|Infinix-X625C|Infinix X625C|
+|Infinix|Infinix HOT 9 Pro|Infinix-X655F|Infinix X655F|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604B|
 |Infinix|Infinix NOTE 5 Stylus|Infinix-X605_sprout|Infinix X605|
@@ -9985,6 +9988,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|S41|itel_S41|itel S41|
 |Itel|S42|itel-S42|itel S42|
 |Itel|SP591|itel-W6004|itel W6004|
+|Itel|Vision1|itel-L6005|itel L6005|
 |Itel|it1355|itel_it1355|itel it1355|
 |Itel|it1355M|itel_it1355M|itel it1355M|
 |Itel|it1407|itel_it1407|itel it1407|
@@ -10031,6 +10035,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel A16 Plus|itel-A16-Plus-BD|itel A16 Plus|
 |Itel|itel A20|itel-A20|itel A20|
 |Itel|itel A23|itel-A23|itel A23|
+|Itel|itel A23|itel-A23|itel A23R|
 |Itel|itel A23|itel-A23F|itel A23|
 |Itel|itel A23|itel-A23S|itel A23S|
 |Itel|itel A31|itel_A31|itel A31|
@@ -10044,6 +10049,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel A52 Lite|itel-A52-Lite|itel A52 Lite|
 |Itel|itel A52S Lite|itel-A52S-Lite|itel A52S Lite|
 |Itel|itel A55 LTE|itel-L6003P|itel L6003P|
+|Itel|itel AC12|itel-A14|itel A14|
 |Itel|itel AC32|itel-A16S|itel A16S|
 |Itel|itel Alpha Lite|itel-W5008|itel W5008|
 |Itel|itel MC20|itel-A23F|itel A23|
@@ -10051,6 +10057,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel Prime 4|itel_Prime4|itel Prime 4|
 |Itel|itel S12|itel-S12|itel S12|
 |Itel|itel S32LTE|itel-S32LTE|itel S32LTE|
+|Itel|itel Vision1(P36 Play)|itel-L6005|itel L6005|
 |Itel|itel W4003|itel-W4003|itel W4003|
 |Itel|itel W5001P|itel-W5001P|itel W5001P|
 |Itel|itel W5503|itel-W5503|itel W5503|
@@ -13055,7 +13062,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logic Instrument|Fieldbook F1|lifbf1|Logic Instrument Fieldbook F1|
 |Logic Instrument|Fieldbook F53|lifbf53|Logic Instrument Fieldbook F53|
 |Logic Instrument|Fieldbook K80|lifbk80|Logic Instrument Fieldbook K80|
+|Logic Instrument|Logic Instrument Fieldbook 57|lifb57|Logic Instrument Fieldbook F57|
 |Logic Instrument|Logic Instrument Fieldbook KS80|lifbks80|Logic Instrument Fieldbook KS80|
+|Logic Instrument|Logic Instrument Fieldbook N101|lifbn101|Logic Instrument Fieldbook N101|
 |Logic Instrument|Logic Instrument Fieldbook N80|lifbn80|Logic Instrument Fieldbook N80|
 |Logic Mobility|L57|Logic_L57|Logic L57|
 |Logic Mobility|L5G|L5G|L5G|
@@ -14033,6 +14042,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mito|MITO T85|T85|MITO T85|
 |Mito|MITO_A19_1GB|MITO_A19_1GB|MITO_A19_1GB|
 |Mito|MITO_A19_2GB|MITO_A19_2GB|MITO_A19_2GB|
+|Mito|MITO_T18|MITO_T18|MITO_T18|
 |Mito|MITO_T7A|MITO_T7A|MITO_T7A|
 |Mito|MITO_T8A|MITO_T8A|MITO_T8A|
 |Mito|Mito_A36_W1|MITO_A36_W1|MITO_A36_W1|
@@ -15265,6 +15275,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Neffos|C5L|QC601|TP601B|
 |Neffos|C5L|QC601|TP601C|
 |Neffos|C5L|QC601|TP601E|
+|Neffos|Neffos A5|A5|Neffos A5|
 |Neffos|Neffos C9 Max|C9_Max|Neffos C9 Max|
 |Neffos|Neffos C9s|C9s|Neffos C9s|
 |Neffos|Neffos C5 Plus|C5_Plus|Neffos C5 Plus|
@@ -15991,6 +16002,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno2 Z|OP4B65L1|CPH1945|
 |Oppo|Reno2 Z|OP4B65L1|CPH1951|
 |Oppo|Reno2 Z 中国版|OP4A43|PCKM80|
+|Oppo|Reno3 5G 中国版|OP4ADD|PDCM00|
+|Oppo|Reno3 Pro|OP4C5FL1|CPH2035|
+|Oppo|Reno3 Pro|OP4C5FL1|CPH2036|
+|Oppo|Reno3 Pro|OP4C5FL1|CPH2037|
+|Oppo|Reno3 Pro 5G中国版|OP4A9D|PCRM00|
 |Oppo|U3|U3|U3|
 |Oppo|U707|U707|U707|
 |Oppo|U707T|U707T|U707T|
@@ -17716,6 +17732,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reliance|Smartphone JS LS-5010|LS-5010|LS-5010|
 |Remdun|RD-52|RD52|RD52|
 |Remdun|RD15QE|RD15QE|RD15QE|
+|Remdun|RD51QE|RD51QE|RD51QE|
 |Remdun|RD52E|RD52E|RD52E|
 |Remdun|RD62E|RD62E|RD62E|
 |Remdun|RD86|RD86|RD86|
@@ -18883,6 +18900,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M30s|m30s|SM-M3070|
 |Samsung|Galaxy M30s|m30s|SM-M307F|
 |Samsung|Galaxy M30s|m30s|SM-M307FN|
+|Samsung|Galaxy M31|m31|SM-M315F|
 |Samsung|Galaxy M40|m40|SM-M405F|
 |Samsung|Galaxy Mega 2|mega23g|SM-G750H|
 |Samsung|Galaxy Mega 5.8|crater|GT-I9152|
@@ -19381,6 +19399,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S2 Skyrocket|SGH-I727|SGH-I727|
 |Samsung|Galaxy S2 Wimax|ISW11SC|ISW11SC|
 |Samsung|Galaxy S2 X|SGH-T989D|SGH-T989D|
+|Samsung|Galaxy S20|x1s|SM-G980F|
+|Samsung|Galaxy S20+|y2s|SM-G985F|
 |Samsung|Galaxy S3|SC-03E|SC-03E|
 |Samsung|Galaxy S3|c1att|SGH-I748|
 |Samsung|Galaxy S3|c1ktt|SHV-E210K|
@@ -20228,6 +20248,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Young2|young2ds2g|SM-G130E|
 |Samsung|Galaxy Young2|young2nfc3g|SM-G130HN|
 |Samsung|Galaxy Young2 Pro|young2ve3g|SM-G130BU|
+|Samsung|Galaxy Z Flip|bloomq|SM-F7000|
+|Samsung|Galaxy Z Flip|bloomq|SM-F700F|
+|Samsung|Galaxy Z Flip|bloomq|SM-F700N|
+|Samsung|Galaxy Z Flip|bloomq|SM-F700U1|
+|Samsung|Galaxy Z Flip|bloomq|SM-F700W|
 |Samsung|Galaxy player 70 Plus|YP-GB70D|YP-GB70D|
 |Samsung|Galaxy view|gvltektt|SM-T677NK|
 |Samsung|Galaxy view|gvltelgt|SM-T677NL|
@@ -23323,6 +23348,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO K7|TECNO-K7|TECNO K7|
 |Tecno|TECNO K9|TECNO-K9|TECNO K9|
 |Tecno|TECNO P904|TECNO-P904|TECNO P904|
+|Tecno|TECNO POP 2 Air|TECNO-SC7S|TECNO SC7S|
 |Tecno|TECNO POP 2s Pro|TECNO-KB2j|TECNO KB2j|
 |Tecno|TECNO POP 3|TECNO-BB2|TECNO BB2|
 |Tecno|TECNO R6S|TECNO-R6|TECNO R6S|
@@ -25162,6 +25188,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|MIX 2S|polaris|Mi MIX 2S|
 |Xiaomi|MIX 3|perseus|MIX 3|
 |Xiaomi|MIX 3|perseus|Mi MIX 3|
+|Xiaomi|Mi 10|umi|Mi 10|
+|Xiaomi|Mi 10|umi|Umi|
+|Xiaomi|Mi 10 Pro|cmi|Cmi|
+|Xiaomi|Mi 10 Pro|cmi|Mi 10 Pro|
 |Xiaomi|Mi 3|pisces|MI 3|
 |Xiaomi|Mi 4c|libra|Mi-4c|
 |Xiaomi|Mi 4i|ferrari|Mi 4i|
