@@ -450,6 +450,12 @@
   "model": "TG996"
  },
  {
+  "brand": "ALLSOLA",
+  "name": "ALLSOLA_ASV1",
+  "device": "ALLSOLA_ASV1",
+  "model": "ALLSOLA_ASV1"
+ },
+ {
   "brand": "AMTC",
   "name": "MD1001 Tablet",
   "device": "MD1001",
@@ -622,6 +628,12 @@
   "name": "U304AA",
   "device": "U304AA",
   "model": "U304AA"
+ },
+ {
+  "brand": "ATM (Brazil)",
+  "name": "R5",
+  "device": "R5",
+  "model": "R5"
  },
  {
   "brand": "ATM (Brazil)",
@@ -7384,6 +7396,12 @@
   "name": "Ascom Myco Wi-Fi",
   "device": "ABBA",
   "model": "SH1"
+ },
+ {
+  "brand": "Ascom Wireless Solutions",
+  "name": "SH2_ADAA",
+  "device": "ADAA",
+  "model": "Ascom Myco 3 DECT Wi-Fi"
  },
  {
   "brand": "Ashna",
@@ -14642,6 +14660,12 @@
  {
   "brand": "Blu",
   "name": "C5 2019",
+  "device": "C110",
+  "model": "C5 2019"
+ },
+ {
+  "brand": "Blu",
+  "name": "C5 2019",
   "device": "C111",
   "model": "C5 2019"
  },
@@ -14716,6 +14740,12 @@
   "name": "C6x",
   "device": "C090P",
   "model": "C6x"
+ },
+ {
+  "brand": "Blu",
+  "name": "D10",
+  "device": "D10",
+  "model": "D10"
  },
  {
   "brand": "Blu",
@@ -14911,6 +14941,12 @@
  },
  {
   "brand": "Blu",
+  "name": "G0290WW",
+  "device": "G0290WW",
+  "model": "G80"
+ },
+ {
+  "brand": "Blu",
   "name": "G5",
   "device": "G0090",
   "model": "G5"
@@ -14919,6 +14955,12 @@
   "brand": "Blu",
   "name": "G5 Plus",
   "device": "G0180LL",
+  "model": "G5 Plus"
+ },
+ {
+  "brand": "Blu",
+  "name": "G5 Plus",
+  "device": "G0190",
   "model": "G5 Plus"
  },
  {
@@ -17068,6 +17110,12 @@
   "name": "CT1050",
   "device": "TVE9603",
   "model": "TVE9603I"
+ },
+ {
+  "brand": "Carrefour",
+  "name": "CT1085_ 32GB",
+  "device": "CT1085_32GB",
+  "model": "CT1085_32GB"
  },
  {
   "brand": "Carrefour",
@@ -29676,6 +29724,12 @@
   "model": "Nopal"
  },
  {
+  "brand": "Figi",
+  "name": "Note 1",
+  "device": "Note_1",
+  "model": "Note 1"
+ },
+ {
   "brand": "Figo",
   "name": "A9",
   "device": "A9",
@@ -35026,6 +35080,12 @@
   "name": "FW6950",
   "device": "GPLUS_FW6950",
   "model": "GPLUS_FW6950"
+ },
+ {
+  "brand": "Gplus",
+  "name": "GNE-N001S",
+  "device": "GNE-N001S",
+  "model": "GNE-N001S"
  },
  {
   "brand": "Gplus",
@@ -56152,6 +56212,12 @@
   "name": "CTGED02",
   "device": "CTGED02",
   "model": "CTGED02"
+ },
+ {
+  "brand": "ICOM",
+  "name": "CTGED03",
+  "device": "CTGED03",
+  "model": "CTGED03"
  },
  {
   "brand": "IDC",
@@ -84768,6 +84834,12 @@
   "model": "HotahOTG"
  },
  {
+  "brand": "MobiIoT",
+  "name": "Hotah",
+  "device": "HotahOTG_V",
+  "model": "HotahOTG"
+ },
+ {
   "brand": "MobiOcean",
   "name": "MOT102",
   "device": "MOT102",
@@ -85141,6 +85213,12 @@
  },
  {
   "brand": "Mobicell",
+  "name": "RIO_GN",
+  "device": "RIO_GN",
+  "model": "RIO_GN"
+ },
+ {
+  "brand": "Mobicell",
   "name": "RIO_RW",
   "device": "RIO_RW",
   "model": "RIO_RW"
@@ -85150,6 +85228,12 @@
   "name": "RIO_SS",
   "device": "RIO_SS",
   "model": "RIO_SS"
+ },
+ {
+  "brand": "Mobicell",
+  "name": "RIO_ZAM",
+  "device": "RIO_ZAM",
+  "model": "RIO_ZAM"
  },
  {
   "brand": "Mobicell",
@@ -90408,6 +90492,12 @@
   "model": "Myria_L600"
  },
  {
+  "brand": "Myros",
+  "name": "E70 Ultra",
+  "device": "E70_Ultra",
+  "model": "E70 Ultra"
+ },
+ {
   "brand": "Mytron",
   "name": "Pad_60",
   "device": "Pad_60",
@@ -91066,6 +91156,12 @@
   "name": "MW75QF6",
   "device": "MW75QF6",
   "model": "MW75QF6"
+ },
+ {
+  "brand": "NEWSUN",
+  "name": "S13",
+  "device": "S13",
+  "model": "S13"
  },
  {
   "brand": "NEWSUN",
@@ -106990,6 +107086,18 @@
   "name": "R45",
   "device": "Revel_R45",
   "model": "R45"
+ },
+ {
+  "brand": "Rhino",
+  "name": "C10",
+  "device": "Rhino_C10",
+  "model": "C10"
+ },
+ {
+  "brand": "Rhino",
+  "name": "T8",
+  "device": "Rhino_T8",
+  "model": "T8"
  },
  {
   "brand": "Rinno",
@@ -130171,6 +130279,12 @@
  },
  {
   "brand": "StarMobile",
+  "name": "Y15",
+  "device": "Y15",
+  "model": "Y15"
+ },
+ {
+  "brand": "StarMobile",
   "name": "up_octa",
   "device": "UP_Octa",
   "model": "UP Octa"
@@ -140767,6 +140881,12 @@
  },
  {
   "brand": "Tecno",
+  "name": "TECNO CAMON 15",
+  "device": "TECNO-CD7",
+  "model": "TECNO CD7"
+ },
+ {
+  "brand": "Tecno",
   "name": "TECNO CAMON iACE 2",
   "device": "TECNO-KB2",
   "model": "TECNO KB2"
@@ -144196,6 +144316,12 @@
   "name": "VNPT SmartBox 2x",
   "device": "vnptt_smb_v2x",
   "model": "VNPT SmartBox 2x"
+ },
+ {
+  "brand": "VOLFEN",
+  "name": "NEXO_TAB_10",
+  "device": "NEXO_TAB_10",
+  "model": "NEXO_TAB_10"
  },
  {
   "brand": "VORCOM",
@@ -164581,6 +164707,12 @@
  },
  {
   "brand": "teXet",
+  "name": "TM-5082",
+  "device": "TM-5082",
+  "model": "TM-5082"
+ },
+ {
+  "brand": "teXet",
   "name": "TM-5083",
   "device": "TM-5083",
   "model": "TM-5083"
@@ -164740,6 +164872,12 @@
   "name": "S20",
   "device": "S20",
   "model": "S20"
+ },
+ {
+  "brand": "xTouch",
+  "name": "S40",
+  "device": "S40",
+  "model": "S40"
  },
  {
   "brand": "xTouch",
