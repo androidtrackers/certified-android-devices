@@ -847,6 +847,12 @@
  },
  {
   "brand": "Accent",
+  "name": "FAST10",
+  "device": "FAST10",
+  "model": "FAST10"
+ },
+ {
+  "brand": "Accent",
   "name": "FAST7 3G",
   "device": "FAST7_3G",
   "model": "FAST7 3G"
@@ -4300,6 +4306,12 @@
   "name": "X7 Soul Style",
   "device": "X7_Soul_Style",
   "model": "X7_Soul_Style"
+ },
+ {
+  "brand": "AllView",
+  "name": "X7_Soul_Pro_EEA",
+  "device": "X7_Soul_Pro",
+  "model": "X7_Soul_Pro"
  },
  {
   "brand": "Alldocube",
@@ -31906,6 +31918,12 @@
   "name": "Patio100",
   "device": "Patio100_3G",
   "model": "Patio100_3G"
+ },
+ {
+  "brand": "Fujitsu",
+  "name": "Patio600",
+  "device": "Patio600",
+  "model": "Patio600"
  },
  {
   "brand": "Fujitsu",
@@ -66169,6 +66187,18 @@
  },
  {
   "brand": "LGE",
+  "name": "K51S",
+  "device": "mdh35lm",
+  "model": "LM-K510"
+ },
+ {
+  "brand": "LGE",
+  "name": "K61",
+  "device": "mdh40lm",
+  "model": "LM-Q630"
+ },
+ {
+  "brand": "LGE",
   "name": "L Bello",
   "device": "luv80ds",
   "model": "LG-D335"
@@ -92047,6 +92077,12 @@
  },
  {
   "brand": "NYX Mobile",
+  "name": "L604",
+  "device": "L604",
+  "model": "L604"
+ },
+ {
+  "brand": "NYX Mobile",
   "name": "NICKEL",
   "device": "NICKEL",
   "model": "NICKEL"
@@ -113410,6 +113446,24 @@
   "name": "Galaxy J2 Core",
   "device": "j2corelte",
   "model": "SM-J260Y"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy J2 Core",
+  "device": "j2corey20lte",
+  "model": "SM-J260FU"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy J2 Core",
+  "device": "j2corey20lte",
+  "model": "SM-J260GU"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy J2 Core",
+  "device": "j2corey20lte",
+  "model": "SM-J260MU"
  },
  {
   "brand": "Samsung",
@@ -140017,6 +140071,12 @@
  },
  {
   "brand": "TVUp",
+  "name": "HP5116",
+  "device": "HPA12_8GB",
+  "model": "HP5116"
+ },
+ {
+  "brand": "TVUp",
   "name": "Mediacenter 6G 4K",
   "device": "SEI300T",
   "model": "Mediacenter 6G 4K"
@@ -144994,6 +145054,12 @@
   "name": "S20",
   "device": "S20",
   "model": "S20"
+ },
+ {
+  "brand": "Vankyo",
+  "name": "S20_EEA",
+  "device": "S20_EEA",
+  "model": "S20_EEA"
  },
  {
   "brand": "Vankyo",

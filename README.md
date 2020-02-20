@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-02-19
+Last sync is 2020-02-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -146,6 +146,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Accent|Accent Camelon C6 Plus|CAMELEON_C6_PLUS|CAMELEON_C6_PLUS|
 |Accent|C5|C5|C5|
 |Accent|CAMELEON C5|CAMELEON_C5|CAMELEON C5|
+|Accent|FAST10|FAST10|FAST10|
 |Accent|FAST7 3G|FAST7_3G|FAST7 3G|
 |Accent|FAST73G|FAST73G|FAST73G|
 |Accent|KIDZY70|KIDZY70|KIDZY70|
@@ -722,6 +723,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|X6 Soul Xtreme|X6_Soul_Xtreme|X6_Soul_Xtreme|
 |AllView|X6 Soul mini|X6_Soul_mini|X6_Soul_mini|
 |AllView|X7 Soul Style|X7_Soul_Style|X7_Soul_Style|
+|AllView|X7_Soul_Pro_EEA|X7_Soul_Pro|X7_Soul_Pro|
 |Alldocube|T1001|T1001|T1001|
 |Alldocube|T701|T701|T701|
 |Alldocube|T806|T806|T806|
@@ -5323,6 +5325,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fujitsu|M555|M555|M555|
 |Fujitsu|Patio100|Patio100|Patio100|
 |Fujitsu|Patio100|Patio100_3G|Patio100_3G|
+|Fujitsu|Patio600|Patio600|Patio600|
 |Fujitsu|REGZA Phone IS11T|TSI11|IS11T|
 |Fujitsu|REGZA Phone T-01C|tg03|IS04|
 |Fujitsu|REGZA Phone T-01C|tg03|T-01C|
@@ -11033,6 +11036,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|K4 (2017)|lv1|LGL157BL|
 |LGE|K4 (2017)|lv1|LGL57BL|
 |LGE|K50S|mmh45lm|LM-X540|
+|LGE|K51S|mdh35lm|LM-K510|
+|LGE|K61|mdh40lm|LM-Q630|
 |LGE|L Bello|luv80ds|LG-D335|
 |LGE|L Bello|luv80ds|LG-D335E|
 |LGE|L Bello|luv80ds|LG-D337|
@@ -15346,6 +15351,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NYX Mobile|HIT|NYX_HIT|NYX_HIT|
 |NYX Mobile|ICE|ICE|ICE|
 |NYX Mobile|KiN|KiN|KiN|
+|NYX Mobile|L604|L604|L604|
 |NYX Mobile|NICKEL|NICKEL|NICKEL|
 |NYX Mobile|NOBA|NOBA|NOBA|
 |NYX Mobile|REX|Rex|Rex|
@@ -18907,6 +18913,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy J2 Core|j2corelte|SM-J260G|
 |Samsung|Galaxy J2 Core|j2corelte|SM-J260M|
 |Samsung|Galaxy J2 Core|j2corelte|SM-J260Y|
+|Samsung|Galaxy J2 Core|j2corey20lte|SM-J260FU|
+|Samsung|Galaxy J2 Core|j2corey20lte|SM-J260GU|
+|Samsung|Galaxy J2 Core|j2corey20lte|SM-J260MU|
 |Samsung|Galaxy J2 Prime|grandpplte|SM-G532G|
 |Samsung|Galaxy J2 Prime|grandpplte|SM-G532M|
 |Samsung|Galaxy J2 Pro|j2xlteins|SM-J210F|
@@ -23341,6 +23350,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TUFF|T500|T500|T500|
 |TUNTUN English|DREAM PAD|delight|ITP-R408W|
 |TUPAD|TU7_58212_18222|TU7_58212|TU7_18222|
+|TVUp|HP5116|HPA12_8GB|HP5116|
 |TVUp|Mediacenter 6G 4K|SEI300T|Mediacenter 6G 4K|
 |TWOE|2E E450A 2018|E450A2018|2E E450 2018|
 |TWOE|E500A_2019|E500A_2019|E500A_2019|
@@ -24171,6 +24181,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VT|MB300|MB300|SmartTV|
 |Valo Innovations|TAB0001NG|TAB0001NG|TAB0001NG|
 |Vankyo|S20|S20|S20|
+|Vankyo|S20_EEA|S20_EEA|S20_EEA|
 |Vankyo|S21|S21|S21|
 |Vankyo|S21_EEA|S21_EEA|S21_EEA|
 |Vankyo|S30|S30|S30|
