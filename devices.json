@@ -19273,6 +19273,12 @@
  },
  {
   "brand": "Clementoni",
+  "name": "MFClempad_9",
+  "device": "MFClempad_9",
+  "model": "MFC7_2019"
+ },
+ {
+  "brand": "Clementoni",
   "name": "My First Clempad 6.0",
   "device": "MFC_6",
   "model": "MFC_6"
@@ -72600,6 +72606,12 @@
   "model": "LT_X5"
  },
  {
+  "brand": "LT Electronics",
+  "name": "SPURT_K600",
+  "device": "SPURT_K600",
+  "model": "K600"
+ },
+ {
   "brand": "LUMUS",
   "name": "INNOSR545",
   "device": "INNOSR545",
@@ -73284,6 +73296,12 @@
   "model": "MID_1090IPSV9"
  },
  {
+  "brand": "Laser",
+  "name": "MID_787V9",
+  "device": "MID_787V9",
+  "model": "MID_787V9"
+ },
+ {
   "brand": "Lava",
   "name": "A1",
   "device": "LAVAA1",
@@ -73660,6 +73678,12 @@
   "name": "V7s Prime",
   "device": "LE9940_W",
   "model": "LAVA LE9940_W"
+ },
+ {
+  "brand": "Lava",
+  "name": "V8",
+  "device": "LE9910",
+  "model": "LE9910"
  },
  {
   "brand": "Lava",
@@ -81484,6 +81508,12 @@
   "name": "MFSTAB",
   "device": "MFSTAB",
   "model": "MFSTAB"
+ },
+ {
+  "brand": "Mantra",
+  "name": "MFSTABII",
+  "device": "MFSTABII",
+  "model": "MFSTABII"
  },
  {
   "brand": "Mantra",
@@ -107922,6 +107952,12 @@
   "model": "F1Plus"
  },
  {
+  "brand": "S&T Global",
+  "name": "8788_7",
+  "device": "8788_7",
+  "model": "8788_7"
+ },
+ {
   "brand": "S-tell",
   "name": "M555i",
   "device": "M555i",
@@ -108490,6 +108526,12 @@
   "name": "L60 Turbo",
   "device": "L60_Turbo",
   "model": "L60 Turbo"
+ },
+ {
+  "brand": "SPC Mobile",
+  "name": "L70_Lite",
+  "device": "L70_Lite",
+  "model": "L70_Lite"
  },
  {
   "brand": "SPC Mobile",
@@ -126907,6 +126949,12 @@
  },
  {
   "brand": "Smart (BD)",
+  "name": "MQ703G_1",
+  "device": "MQ703G_1",
+  "model": "MQ703G_1"
+ },
+ {
+  "brand": "Smart (BD)",
   "name": "SQ811G",
   "device": "SQ811G",
   "model": "SQ811G"
@@ -136501,6 +136549,12 @@
  },
  {
   "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1SE",
+  "device": "Jakarta",
+  "model": "5030D_EEA"
+ },
+ {
+  "brand": "TCT (Alcatel)",
   "name": "Alcatel 1T 7 WIFI",
   "device": "U3A_7_WIFI",
   "model": "8068"
@@ -144976,6 +145030,12 @@
   "name": "VPA051",
   "device": "VPA051",
   "model": "VPA051"
+ },
+ {
+  "brand": "VALIFONE",
+  "name": "V700",
+  "device": "V700",
+  "model": "V700"
  },
  {
   "brand": "VALTECH",
@@ -164530,6 +164590,12 @@
   "name": "SMART_L102",
   "device": "iGET_SMART_L102",
   "model": "SMART_L102"
+ },
+ {
+  "brand": "iGet",
+  "name": "SMART_L103_eea",
+  "device": "SMART_L103",
+  "model": "SMART_L103_eea"
  },
  {
   "brand": "iGet",

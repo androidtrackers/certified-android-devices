@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-02-20
+Last sync is 2020-02-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3217,6 +3217,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Clementoni|Clemphone 7.0|ClemPhone_7|ClemPhone_7|
 |Clementoni|MFC_2018|MFC_2018|MFC_2018|
 |Clementoni|MFC_8|MFC_8|MFC_8|
+|Clementoni|MFClempad_9|MFClempad_9|MFC7_2019|
 |Clementoni|My First Clempad 6.0|MFC_6|MFC_6|
 |Clementoni|My First Clempad 7|MFC_7|MFC_7|
 |Clementoni|My First Clempad HR|MFC_HR|MFC_HR|
@@ -12105,6 +12106,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LT Electronics|LT_S10_Lite|LT_S10_Lite|LT_S10_Lite|
 |LT Electronics|LT_S9_NOTE|LT_S9_NOTE|LT_S9_NOTE|
 |LT Electronics|LT_X5|LT_X5|LT_X5|
+|LT Electronics|SPURT_K600|SPURT_K600|K600|
 |LUMUS|INNOSR545|INNOSR545|INNOSR545|
 |LUMUS|NEOSC600|NEOSC600|NEOSC600|
 |LUMUS|NEOSR620|NEOSR620|NEOSR620|
@@ -12219,6 +12221,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Laser|MID-787V8|MID-787V8|MID-787V8|
 |Laser|MID-790IPS|MID-790IPS|MID-790IPS|
 |Laser|MID_1090IPSV9|MID_1090IPSV9|MID_1090IPSV9|
+|Laser|MID_787V9|MID_787V9|MID_787V9|
 |Lava|A1|LAVAA1|LAVAA1|
 |Lava|A3|LAVA_A3|LAVA_A3|
 |Lava|A3_mini|A3_mini|A3_mini|
@@ -12282,6 +12285,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|V7|LE9920_P|LE9920_P|
 |Lava|V7 Prime|LE9940|LAVA LE9940|
 |Lava|V7s Prime|LE9940_W|LAVA LE9940_W|
+|Lava|V8|LE9910|LE9910|
 |Lava|X10|X10|LavaX10|
 |Lava|X10|X10|X10|
 |Lava|X11|X11|X11|
@@ -13586,6 +13590,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mango|Mango_SQ7|Mango_SQ7|Mango_SQ7|
 |Manta|MSP4507|MSP4507|MSP4507|
 |Mantra|MFSTAB|MFSTAB|MFSTAB|
+|Mantra|MFSTABII|MFSTABII|MFSTABII|
 |Mantra|MFSTAB_74G|MFSTAB_74G|MFSTAB_74G|
 |Mantra|MISTAB_74G|MISTAB_74G|MISTAB_74G|
 |Mantra|mDESK|mDESK|mDESK|
@@ -17992,6 +17997,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ruio|S5006|RUIO_S5006|S5006|
 |Rumie|RT-1708|RT-1708|RT-1708|
 |Runbo|F1Plus|F1Plus|F1Plus|
+|S&T Global|8788_7|8788_7|8788_7|
 |S-tell|M555i|M555i|M555i|
 |S-tell|M558|M558|M558|
 |S-tell|M578|M578|M578|
@@ -18087,6 +18093,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Mobile|L60|SPC_L60|L60|
 |SPC Mobile|L60 Pro|L60_Pro|L60 Pro|
 |SPC Mobile|L60 Turbo|L60_Turbo|L60 Turbo|
+|SPC Mobile|L70_Lite|L70_Lite|L70_Lite|
 |SPC Mobile|L70_PRO|L70_PRO|L70_PRO|
 |SPC Mobile|L80|L80|L80|
 |SPC Mobile|S19|S19|S19|
@@ -21156,6 +21163,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smart|Slide Lite|Slide_Lite|Slide Lite|
 |Smart|Smart PRIME II|Smart_PRIME_II|Smart PRIME II|
 |Smart|hero A1|hero_A1|hero A1|
+|Smart (BD)|MQ703G_1|MQ703G_1|MQ703G_1|
 |Smart (BD)|SQ811G|SQ811G|SQ811G|
 |SmartPad|SM181301|SM181301|SM181301|
 |SmartPad|Smartpad V7|Smartpad-V7|Smartpad-V7|
@@ -22755,6 +22763,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1S|Tokyo|5028Y_EEA|
 |TCT (Alcatel)|Alcatel 1S|Tokyo|5028Y_RU|
 |TCT (Alcatel)|Alcatel 1S|Tokyo_CAN|5007O|
+|TCT (Alcatel)|Alcatel 1SE|Jakarta|5030D_EEA|
 |TCT (Alcatel)|Alcatel 1T 7 WIFI|U3A_7_WIFI|8068|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007A|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007G|
@@ -24168,6 +24177,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |V7|Zyro|zyro|V7 Zyro|
 |VAIO|VA-10J|VA-10J|JCI VA-10J|
 |VAIO|VPA051|VPA051|VPA051|
+|VALIFONE|V700|V700|V700|
 |VALTECH|TAB7Q804VAL|TAB7Q804VAL|TAB7Q804VAL|
 |VANTEC|G4|G4|G4|
 |VANTEC|G5|G5|G5|
@@ -27427,6 +27437,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iGet|SMART_G81|SMART_G81|SMART_G81|
 |iGet|SMART_G81H|SMART_G81H|SMART_G81H|
 |iGet|SMART_L102|iGET_SMART_L102|SMART_L102|
+|iGet|SMART_L103_eea|SMART_L103|SMART_L103_eea|
 |iGet|SMART_W101|SMART_W101|SMART_W101|
 |iGet|SMART_W10X_EEA|SMART_W10X_EEA|SMART_W10X_EEA|
 |iHunt|Alien X|Alien_X|Alien_X|
