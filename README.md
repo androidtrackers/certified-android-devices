@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-02-21
+Last sync is 2020-02-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -448,6 +448,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advance|HL7257|HL7257|HL7257|
 |Advance|PR7145|PR7145|PR7145|
 |Advance|Pr5747|Pr5747|Pr5747|
+|Advance|Pr5950|Pr5950|Pr5950|
 |Advance|Pr6146|Pr6146|Pr6146|
 |Advance|Pr6150|Pr6150|Pr6150|
 |Advance|Pr7547|Pr7547|Pr7547|
@@ -2138,6 +2139,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BYD|X910|X910|XOLO X910|
 |BYD|Zippers|Zippers|Vexia Zippers|
 |BYJUS|ITM03081|BYJUS|ITM03081|
+|BYJUS|LRN10|LRN10|LRN10|
 |Bang & Olufsen|BeoVision|bno_MT5593Uplus_EU|QM153E|
 |Bangho|Bangho_AERO7|Bangho_AERO7|Bangho_AERO7|
 |Barel|Base_7_2_Quad|Base_7_2_Quad|Cavion Base 7.2 Quad|
@@ -12333,6 +12335,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|Z92|Z92|Z92|
 |Lava|ZX|ZX|ZX|
 |Lava|ir59|LE9930|LAVA LE9930|
+|Lava|iris 46|LH9950|LAVA LH9950|
 |Lava|iris 54|LH9930|LAVA LH9930|
 |Lava|iris 54|LH9931|LAVA LH9931|
 |Lava|iris 821|iris821|iris821|
@@ -13709,8 +13712,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mediacom|10edge|10edge|10edge|
 |Mediacom|1AEC|1AEC|1AEC|
 |Mediacom|1AY|1AY|1AY|
+|Mediacom|1AZ_EEA|1AZ|1AZ_eea|
+|Mediacom|1BEC_eea|1BEC_eea|1BEC|
 |Mediacom|1BY|1BY|1BY|
 |Mediacom|1CY_EEA|1CY|1CY|
+|Mediacom|1DY4G_eea|1DY4G_eea|1DY4G|
 |Mediacom|7BY|7BY|7BY|
 |Mediacom|7CY_eea|7CY|7CY|
 |Mediacom|7DY_EEA|7DY|7DY|
@@ -16883,6 +16889,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pioneer|SDA-8TAB|SDA_8TAB|SDA-8TAB|
 |Pioneer|XDP-100R|Fu_Zin_32|XDP-100R|
 |Pioneer|XDP-300R|Fu_Zin2R_32|XDP-300R|
+|Pitney Bowes|Pitney Bowes C-Series|ELINK2|CSD-ELINK2|
 |Pitney Bowes|SendPro C Series|TitanX2|CSD-TXT2|
 |Pixela|4K SmartTuner|tennouji|PIX-SMB400|
 |Pixela|KSTB5043|KSTB5043|KSTB5043|
@@ -21163,6 +21170,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smart|Slide Lite|Slide_Lite|Slide Lite|
 |Smart|Smart PRIME II|Smart_PRIME_II|Smart PRIME II|
 |Smart|hero A1|hero_A1|hero A1|
+|Smart (BD)|MQ703G|MQ703G|MQ703G|
 |Smart (BD)|MQ703G_1|MQ703G_1|MQ703G_1|
 |Smart (BD)|SQ811G|SQ811G|SQ811G|
 |SmartPad|SM181301|SM181301|SM181301|

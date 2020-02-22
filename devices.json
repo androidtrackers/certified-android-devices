@@ -2659,6 +2659,12 @@
  },
  {
   "brand": "Advance",
+  "name": "Pr5950",
+  "device": "Pr5950",
+  "model": "Pr5950"
+ },
+ {
+  "brand": "Advance",
   "name": "Pr6146",
   "device": "Pr6146",
   "model": "Pr6146"
@@ -12796,6 +12802,12 @@
   "name": "ITM03081",
   "device": "BYJUS",
   "model": "ITM03081"
+ },
+ {
+  "brand": "BYJUS",
+  "name": "LRN10",
+  "device": "LRN10",
+  "model": "LRN10"
  },
  {
   "brand": "Bang & Olufsen",
@@ -73969,6 +73981,12 @@
  },
  {
   "brand": "Lava",
+  "name": "iris 46",
+  "device": "LH9950",
+  "model": "LAVA LH9950"
+ },
+ {
+  "brand": "Lava",
   "name": "iris 54",
   "device": "LH9930",
   "model": "LAVA LH9930"
@@ -82225,6 +82243,18 @@
  },
  {
   "brand": "Mediacom",
+  "name": "1AZ_EEA",
+  "device": "1AZ",
+  "model": "1AZ_eea"
+ },
+ {
+  "brand": "Mediacom",
+  "name": "1BEC_eea",
+  "device": "1BEC_eea",
+  "model": "1BEC"
+ },
+ {
+  "brand": "Mediacom",
   "name": "1BY",
   "device": "1BY",
   "model": "1BY"
@@ -82234,6 +82264,12 @@
   "name": "1CY_EEA",
   "device": "1CY",
   "model": "1CY"
+ },
+ {
+  "brand": "Mediacom",
+  "name": "1DY4G_eea",
+  "device": "1DY4G_eea",
+  "model": "1DY4G"
  },
  {
   "brand": "Mediacom",
@@ -101266,6 +101302,12 @@
   "name": "XDP-300R",
   "device": "Fu_Zin2R_32",
   "model": "XDP-300R"
+ },
+ {
+  "brand": "Pitney Bowes",
+  "name": "Pitney Bowes C-Series",
+  "device": "ELINK2",
+  "model": "CSD-ELINK2"
  },
  {
   "brand": "Pitney Bowes",
@@ -126946,6 +126988,12 @@
   "name": "hero A1",
   "device": "hero_A1",
   "model": "hero A1"
+ },
+ {
+  "brand": "Smart (BD)",
+  "name": "MQ703G",
+  "device": "MQ703G",
+  "model": "MQ703G"
  },
  {
   "brand": "Smart (BD)",
