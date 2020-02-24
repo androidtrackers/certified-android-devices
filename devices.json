@@ -17089,6 +17089,12 @@
  },
  {
   "brand": "Camfone",
+  "name": "ACTION",
+  "device": "ACTION",
+  "model": "ACTION"
+ },
+ {
+  "brand": "Camfone",
   "name": "CamPad P7",
   "device": "CamPad_P7",
   "model": "CamPad_P7"
@@ -26473,6 +26479,12 @@
  },
  {
   "brand": "Dragontouch",
+  "name": "KidzPad_Y80",
+  "device": "KidzPad_Y80",
+  "model": "KidzPad_Y80"
+ },
+ {
+  "brand": "Dragontouch",
   "name": "M10",
   "device": "M10",
   "model": "M10"
@@ -26494,6 +26506,12 @@
   "name": "MAX_10_EEA",
   "device": "MAX_10_EEA",
   "model": "MAX 10"
+ },
+ {
+  "brand": "Dragontouch",
+  "name": "NotePad_101_B",
+  "device": "NotePad_101_B",
+  "model": "NotePad_101_B"
  },
  {
   "brand": "Dragontouch",
@@ -42889,6 +42907,12 @@
  },
  {
   "brand": "Hisense",
+  "name": "H5500F",
+  "device": "harajuku",
+  "model": "HiSmart 2K ATV4"
+ },
+ {
+  "brand": "Hisense",
   "name": "H800T",
   "device": "H800T",
   "model": "HS-H800T"
@@ -45181,12 +45205,6 @@
  },
  {
   "brand": "Hisense",
-  "name": "fushan",
-  "device": "harajuku",
-  "model": "HiSmart 2K ATV4"
- },
- {
-  "brand": "Hisense",
   "name": "fushan_em",
   "device": "hamamatsucho",
   "model": "HiSmart 2K ATV4"
@@ -45250,6 +45268,12 @@
   "name": "vision2_1",
   "device": "vision2_1",
   "model": "vision2_1"
+ },
+ {
+  "brand": "Hisense",
+  "name": "xiaoyushan-em",
+  "device": "xiaoyushan",
+  "model": "HiSmartTV A4"
  },
  {
   "brand": "Hitachi",
@@ -61104,6 +61128,12 @@
   "model": "XA401"
  },
  {
+  "brand": "JAY-TECH",
+  "name": "TPC-G109_EEA",
+  "device": "TPC-G109",
+  "model": "TPC-G109"
+ },
+ {
   "brand": "JLab",
   "name": "PRO-7",
   "device": "polaris-p1gms",
@@ -64618,6 +64648,18 @@
   "name": "Lamia_L01",
   "device": "Lamia_L01",
   "model": "Lamia L01"
+ },
+ {
+  "brand": "LBQ (UK)",
+  "name": "LbQ-F10v2",
+  "device": "LbQ-F10v2",
+  "model": "K102L"
+ },
+ {
+  "brand": "LBQ (UK)",
+  "name": "LbQ_F8v2",
+  "device": "LbQ_F8v2",
+  "model": "LbQ-F8v2"
  },
  {
   "brand": "LEOMO",
@@ -73867,6 +73909,12 @@
  },
  {
   "brand": "Lava",
+  "name": "Z42 Pro",
+  "device": "AF9020",
+  "model": "AF9020"
+ },
+ {
+  "brand": "Lava",
   "name": "Z50",
   "device": "Z50",
   "model": "Z50"
@@ -73972,6 +74020,12 @@
   "name": "ZX",
   "device": "ZX",
   "model": "ZX"
+ },
+ {
+  "brand": "Lava",
+  "name": "benco Y30",
+  "device": "AF9030",
+  "model": "LAVA AF9030"
  },
  {
   "brand": "Lava",
@@ -82798,6 +82852,12 @@
   "name": "microstar E10319",
   "device": "E10319",
   "model": "E10319"
+ },
+ {
+  "brand": "MegaFon",
+  "name": "KM8-ATV-MF",
+  "device": "MF8_ATV",
+  "model": "KM8-ATV-MF"
  },
  {
   "brand": "MegaFon",
@@ -102247,6 +102307,12 @@
  },
  {
   "brand": "Polytron",
+  "name": "PDB-F2",
+  "device": "PDB_F2",
+  "model": "PDB-F2"
+ },
+ {
+  "brand": "Polytron",
   "name": "POLYTRON P552",
   "device": "POLYTRON_P552",
   "model": "POLYTRON_P552"
@@ -109264,6 +109330,12 @@
   "name": "NEON_RAY",
   "device": "NEON_RAY",
   "model": "NEON_RAY"
+ },
+ {
+  "brand": "Safaricom",
+  "name": "NEON_RAY_PRO",
+  "device": "NEON_RAY_PRO",
+  "model": "NEON_RAY_PRO"
  },
  {
   "brand": "Safaricom",
@@ -127314,6 +127386,12 @@
   "model": "ServiceChecKIT_EEA"
  },
  {
+  "brand": "So ! Generation",
+  "name": "T8116",
+  "device": "T8116",
+  "model": "T8116"
+ },
+ {
   "brand": "Soda",
   "name": "E1",
   "device": "soda_CSW1702",
@@ -139962,6 +140040,12 @@
   "model": "VIP6102W"
  },
  {
+  "brand": "TECHNOLOGIA Y CRATIVIDAD",
+  "name": "M103H",
+  "device": "M103H",
+  "model": "M103H"
+ },
+ {
   "brand": "TERRA",
   "name": "GPAD702",
   "device": "GPAD702",
@@ -140136,10 +140220,22 @@
   "model": "TPS-SC10"
  },
  {
+  "brand": "TREQ",
+  "name": "SmarTab-8",
+  "device": "SmarTab-8",
+  "model": "SmarTab-8"
+ },
+ {
   "brand": "TSUNAMi",
   "name": "Tablet Tsunami TSTA080D1",
   "device": "MG080D1T",
   "model": "MG080D1T"
+ },
+ {
+  "brand": "TTS-group",
+  "name": "IT10268",
+  "device": "IT10268",
+  "model": "IT10268"
  },
  {
   "brand": "TUFEN",
@@ -142276,6 +142372,12 @@
   "name": "Telemor T9502",
   "device": "T9502",
   "model": "Telemor T9502"
+ },
+ {
+  "brand": "Telenet",
+  "name": "TADAAM Box",
+  "device": "sti6160d332",
+  "model": "TADAAM Box"
  },
  {
   "brand": "Telenor",
@@ -150412,6 +150514,12 @@
   "name": "Kate",
   "device": "Wenu",
   "model": "Kate"
+ },
+ {
+  "brand": "Westgate",
+  "name": "Westgate_T801",
+  "device": "Westgate-T801",
+  "model": "T801"
  },
  {
   "brand": "Westinghouse",
@@ -163974,6 +164082,12 @@
   "model": "Smart-Ex02 ROW"
  },
  {
+  "brand": "efioo",
+  "name": "efiootabn7a",
+  "device": "efiootabn7a",
+  "model": "Tab N7a"
+ },
+ {
   "brand": "halotel",
   "name": "H8502",
   "device": "H8502",
@@ -165664,6 +165778,18 @@
   "name": "TM-5583",
   "device": "TM-5583",
   "model": "TM-5583"
+ },
+ {
+  "brand": "teXet",
+  "name": "TM-5702",
+  "device": "TM-5702",
+  "model": "TM-5702"
+ },
+ {
+  "brand": "teXet",
+  "name": "TM-5703",
+  "device": "TM-5703",
+  "model": "TM-5703"
  },
  {
   "brand": "teXet",

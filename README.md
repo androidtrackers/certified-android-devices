@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-02-23
+Last sync is 2020-02-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2853,6 +2853,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CZ Electronics|Mint_Jane|Mint_Jane|M5E01|
 |Camelus|L10|TR-10HBT|L10|
 |Camelus|L7|TR-7U|L7|
+|Camfone|ACTION|ACTION|ACTION|
 |Camfone|CamPad P7|CamPad_P7|CamPad_P7|
 |Camfone|Hero 11|Hero_11|Hero 11|
 |Camfone|Hero 12|Hero_12|Hero 12|
@@ -4417,10 +4418,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doro|Liberto 825|825A|825_T-Mobile|
 |Dotpad|Fire V8|FIRE_V8|FIRE_V8|
 |Dragontouch|K8|K8|K8|
+|Dragontouch|KidzPad_Y80|KidzPad_Y80|KidzPad_Y80|
 |Dragontouch|M10|M10|M10|
 |Dragontouch|M7|M7|M7|
 |Dragontouch|MAX_10|MAX_10|MAX 10|
 |Dragontouch|MAX_10_EEA|MAX_10_EEA|MAX 10|
+|Dragontouch|NotePad_101_B|NotePad_101_B|NotePad_101_B|
 |Dragontouch|NotePad_101_B_EEA|NotePad_101_B|NotePad_101_B_EEA|
 |Dragontouch|NotePad_Y80|NotePad_Y80|NotePad_Y80|
 |Dragontouch|Notepad_Go_801_EEA|Notepad_Go_801|Notepad_Go_801_EEA|
@@ -7153,6 +7156,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|G1|G1|G1|
 |Hisense|G2-3GP|G2-3GP|G2-3GP|
 |Hisense|G610M|G610M|Hisense G610M|
+|Hisense|H5500F|harajuku|HiSmart 2K ATV4|
 |Hisense|H800T|H800T|HS-H800T|
 |Hisense|H910|HS8929QC|Hisense H910|
 |Hisense|H910|HS8939QC|Hisense H910|
@@ -7535,7 +7539,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|c20ae|HS8929QC|C20|
 |Hisense|c20fe-3|HS8929QC|Hisense C20|
 |Hisense|e76mini|HS8937QC|Hisense E76mini|
-|Hisense|fushan|harajuku|HiSmart 2K ATV4|
 |Hisense|fushan_em|hamamatsucho|HiSmart 2K ATV4|
 |Hisense|fushan_emeu|hamamatsucho|HiSmart 2K ATV4|
 |Hisense|l676be|HS8929QC|Hisense L676|
@@ -7547,6 +7550,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|lt971|LT971|LT971|
 |Hisense|u972|HS7731SP|U972|
 |Hisense|vision2_1|vision2_1|vision2_1|
+|Hisense|xiaoyushan-em|xiaoyushan|HiSmartTV A4|
 |Hitachi|SAUDI ARABIC/Iraq Australia|samseong|AI PONT|
 |Hiya|5-0|5-0|5-0|
 |Hiya|5-0|5_0|5-0|
@@ -10189,6 +10193,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel W5503|itel-W5503|itel W5503|
 |Itworks|TM705|TM705|NID_7010|
 |J:COM|XA401|XA401|XA401|
+|JAY-TECH|TPC-G109_EEA|TPC-G109|TPC-G109|
 |JLab|PRO-7|polaris-p1gms|JLab PRO-7|
 |JP Sacouto|Flag Mill v2|MG101A2T_BT|Flag Mill v2|
 |JP Sacouto|Flag Mill v2|MG101A2T_BT_A50|Flag Mill v2|
@@ -10775,6 +10780,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyowon|All&G PAD|mypad2|KA-E410W|
 |Kzen|Eva_E01|Eva_E01|Eva_E01|
 |Kzen|Lamia_L01|Lamia_L01|Lamia L01|
+|LBQ (UK)|LbQ-F10v2|LbQ-F10v2|K102L|
+|LBQ (UK)|LbQ_F8v2|LbQ_F8v2|LbQ-F8v2|
 |LEOMO|LEM-TS1|LMS|LEM-TS1|
 |LEOMO|LEM-TS1　|LMS|LEM-TS1|
 |LEVEL TV|32F1D|osaki|2K AI Smart TV|
@@ -12316,6 +12323,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|Z25|Z25|Z25|
 |Lava|Z30|AH9910|AH9910|
 |Lava|Z40|Z40|Z40|
+|Lava|Z42 Pro|AF9020|AF9020|
 |Lava|Z50|Z50|Z50|
 |Lava|Z50_Pro|Z50_Pro|Z50_Pro|
 |Lava|Z51|Z51|Z51|
@@ -12334,6 +12342,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|Z91|Z91|Z91|
 |Lava|Z92|Z92|Z92|
 |Lava|ZX|ZX|ZX|
+|Lava|benco Y30|AF9030|LAVA AF9030|
 |Lava|ir59|LE9930|LAVA LE9930|
 |Lava|iris 46|LH9950|LAVA LH9950|
 |Lava|iris 54|LH9930|LAVA LH9930|
@@ -13805,6 +13814,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Medion|X5520|B5532|B5532|
 |Medion|X6001|X6001|MEDION X6001|
 |Medion|microstar E10319|E10319|E10319|
+|MegaFon|KM8-ATV-MF|MF8_ATV|KM8-ATV-MF|
 |MegaFon|Login 3|MFLogin3|MegaFon Login 3|
 |MegaFon|MFLogin3T|MFLogin3T|MFLogin3T|
 |MegaFon|MFLoginPh|MFLoginPh|MFLoginPh|
@@ -17046,6 +17056,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Polaroid|V7|nuclear-M7021|V7|
 |Polytron|P500|P500|P500|
 |Polytron|P551S|P551S|P551S|
+|Polytron|PDB-F2|PDB_F2|PDB-F2|
 |Polytron|POLYTRON P552|POLYTRON_P552|POLYTRON_P552|
 |Polytron|POLYTRON R2509|POLYTRON_R2509|POLYTRON R2509|
 |Polytron|POLYTRON R2509SE|POLYTRON_R2509SE|POLYTRON R2509SE|
@@ -18216,6 +18227,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Safaricom|NEON PLUS|NEON_PLUS|NEON PLUS|
 |Safaricom|NEON_NOVA|NEON_NOVA|NEON_NOVA|
 |Safaricom|NEON_RAY|NEON_RAY|NEON_RAY|
+|Safaricom|NEON_RAY_PRO|NEON_RAY_PRO|NEON_RAY_PRO|
 |Safaricom|Neon Storm|Neon_Storm|Neon Storm|
 |Safaricom|SFCSTB2LITE|SFCSTB2LITE|SFCSTB2LITE|
 |Sagemcom|Wibox|dtiw384wb|m384wb|
@@ -21224,6 +21236,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smooth|S2_Advance|SSmooth_S2_Advance|S2 Advance|
 |Snopow|M10|M10|M10|
 |Snopow|ServiceChecKIT|ServiceChecKIT_EEA|ServiceChecKIT_EEA|
+|So ! Generation|T8116|T8116|T8116|
 |Soda|E1|soda_CSW1702|soda E1|
 |Soda|FIRE|soda_CSW1803|soda FIRE|
 |Soda|s2|soda_CSW1802|soda S2|
@@ -23332,6 +23345,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|tmn smarta8|ONE_TOUCH_991D_gsm|moche smart a8|
 |TCT (Alcatel)|tmn smarta8|ONE_TOUCH_991D_gsm|tmn smart a8|
 |TDS|VIP6102W|vip6102w|VIP6102W|
+|TECHNOLOGIA Y CRATIVIDAD|M103H|M103H|M103H|
 |TERRA|GPAD702|GPAD702|GPAD702|
 |TERRA|TERRA PAD 101|TERRA_PAD_101|TERRA_PAD_101|
 |TERRA|TERRA_PAD_1005|TERRA_PAD_1005|TERRA_PAD_1005|
@@ -23361,7 +23375,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TPS|MTC 982o|MTC_982O|MTC_982O|
 |TPS|SMART Sprint|SMARTSprint|SMART Sprint|
 |TPS|TPS-SC10|TPS-SC10|TPS-SC10|
+|TREQ|SmarTab-8|SmarTab-8|SmarTab-8|
 |TSUNAMi|Tablet Tsunami TSTA080D1|MG080D1T|MG080D1T|
+|TTS-group|IT10268|IT10268|IT10268|
 |TUFEN|Q718|Q718|Q718|
 |TUFEN|Q738|Q738|Q738|
 |TUFF|T500|T500|T500|
@@ -23718,6 +23734,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telemor|T8408|Telemor_T8408|T8408|
 |Telemor|T9501|T9501|T9501|
 |Telemor|Telemor T9502|T9502|Telemor T9502|
+|Telenet|TADAAM Box|sti6160d332|TADAAM Box|
 |Telenor|Elite57|Elite57|Elite57|
 |Telenor|Infinity K|Infinity_K|Infinity_K|
 |Telenor|Infinity a2|b3680|Infinity_a2|
@@ -25074,6 +25091,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Welgate|WA-U420D|WA-U420D|WA-U420D|
 |Welwitcha|P20|P20|P20|
 |Wenu|Kate|Wenu|Kate|
+|Westgate|Westgate_T801|Westgate-T801|T801|
 |Westinghouse|W10TWF19|W10TWF19|W10TWF19|
 |Westinghouse|W7T3G19|W7T3G19|W7T3G19|
 |Westinghouse|W7TBL19|W7TBL19|W7TBL19|
@@ -27334,6 +27352,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |eSTREAM 4K|IPA1104HDW-02|kunlun|IPA1104HDW-02|
 |ecom|Ex-Handy 10|Ex-Handy10|Ex-Handy 10 ROW|
 |ecom|Smart-Ex02|Smart-Ex02|Smart-Ex02 ROW|
+|efioo|efiootabn7a|efiootabn7a|Tab N7a|
 |halotel|H8502|H8502|H8502|
 |i-Buddie|TA10CA1|TA10CA1|TA10CA1|
 |i-Buddie|TA10CA2|TA10CA2|TA10CA2|
@@ -27616,6 +27635,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |teXet|TM-5084|TM-5084|TM-5084|
 |teXet|TM-5201|TM-5201|TM-5201|
 |teXet|TM-5583|TM-5583|TM-5583|
+|teXet|TM-5702|TM-5702|TM-5702|
+|teXet|TM-5703|TM-5703|TM-5703|
 |teXet|Texet TM-5571|tm5571|TM-5571|
 |teXet|Texet TM-5581|tm5581|TM-5581|
 |teXet|Texet TM-5584|TM-5584|TM-5584|
