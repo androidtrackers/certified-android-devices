@@ -23382,6 +23382,12 @@
   "model": "DG7TBIPSPA"
  },
  {
+  "brand": "DIADEM",
+  "name": "CUTE_5",
+  "device": "CUTE_5",
+  "model": "CUTE 5"
+ },
+ {
   "brand": "DIFRNCE",
   "name": "DIT702201",
   "device": "DIT702201",
@@ -24520,6 +24526,12 @@
   "name": "DL1026",
   "device": "DL1026",
   "model": "DL1026"
+ },
+ {
+  "brand": "DigiLand",
+  "name": "DL1031",
+  "device": "mid1031",
+  "model": "mid1031_mp_64"
  },
  {
   "brand": "DigiLand",
@@ -26515,15 +26527,21 @@
  },
  {
   "brand": "Dragontouch",
-  "name": "NotePad_101_B_EEA",
-  "device": "NotePad_101_B",
-  "model": "NotePad_101_B_EEA"
+  "name": "NotePad_102",
+  "device": "NotePad_102",
+  "model": "NotePad_102"
  },
  {
   "brand": "Dragontouch",
   "name": "NotePad_Y80",
   "device": "NotePad_Y80",
   "model": "NotePad_Y80"
+ },
+ {
+  "brand": "Dragontouch",
+  "name": "Notepad_Go_801",
+  "device": "Notepad_Go_801",
+  "model": "Notepad_Go_801"
  },
  {
   "brand": "Dragontouch",
@@ -26941,6 +26959,12 @@
  },
  {
   "brand": "EKO",
+  "name": "Australia",
+  "device": "nippori",
+  "model": "EKO Android TV 2K"
+ },
+ {
+  "brand": "EKO",
   "name": "EKO OMEGA LTE Q60",
   "device": "EKO_OMEGA_LTE_Q60",
   "model": "EKO OMEGA LTE Q60"
@@ -26980,6 +27004,12 @@
   "name": "Star 6.0 G65",
   "device": "Star_6_0_G65",
   "model": "Star 6.0 G65"
+ },
+ {
+  "brand": "EL (Africa)",
+  "name": "W60",
+  "device": "W60",
+  "model": "W60"
  },
  {
   "brand": "ELO Touch",
@@ -32359,9 +32389,21 @@
  },
  {
   "brand": "G-Tab",
+  "name": "G9",
+  "device": "G9",
+  "model": "G9"
+ },
+ {
+  "brand": "G-Tab",
   "name": "P2000",
   "device": "P2000",
   "model": "P2000"
+ },
+ {
+  "brand": "G-Tab",
+  "name": "P7000",
+  "device": "P7000",
+  "model": "P7000"
  },
  {
   "brand": "G-Tab",
@@ -41446,6 +41488,18 @@
   "name": "HERCLS L925",
   "device": "L925",
   "model": "L925"
+ },
+ {
+  "brand": "Hero",
+  "name": "HERO 4ALL",
+  "device": "HERO_4ALL",
+  "model": "HERO 4ALL"
+ },
+ {
+  "brand": "Hero",
+  "name": "HERO B1",
+  "device": "HERO_B1",
+  "model": "HERO B1"
  },
  {
   "brand": "HexaByte",
@@ -57091,6 +57145,12 @@
  },
  {
   "brand": "IkuMobile",
+  "name": "A6",
+  "device": "A6",
+  "model": "A6"
+ },
+ {
+  "brand": "IkuMobile",
   "name": "I3",
   "device": "I3",
   "model": "IKU i3"
@@ -57142,6 +57202,18 @@
   "name": "T4",
   "device": "T4",
   "model": "T4"
+ },
+ {
+  "brand": "IkuMobile",
+  "name": "Y2",
+  "device": "Y2",
+  "model": "Y2"
+ },
+ {
+  "brand": "IkuMobile",
+  "name": "Y3",
+  "device": "Y3",
+  "model": "Y3"
  },
  {
   "brand": "IkuMobile",
@@ -60991,6 +61063,12 @@
  },
  {
   "brand": "Itel",
+  "name": "itel A47",
+  "device": "itel-L5505",
+  "model": "itel L5505"
+ },
+ {
+  "brand": "Itel",
   "name": "itel A52",
   "device": "itel-A52",
   "model": "itel A52"
@@ -63506,6 +63584,12 @@
  {
   "brand": "Kogan",
   "name": "Australia",
+  "device": "nippori",
+  "model": "Kogan SmarterTV 2K"
+ },
+ {
+  "brand": "Kogan",
+  "name": "Australia",
   "device": "samseong",
   "model": "AI PONT"
  },
@@ -63994,6 +64078,12 @@
   "name": "BASIO4",
   "device": "KYV47",
   "model": "KYV47"
+ },
+ {
+  "brand": "Kyocera",
+  "name": "BASIO4",
+  "device": "KYV47",
+  "model": "KYV47-u"
  },
  {
   "brand": "Kyocera",
@@ -72607,6 +72697,12 @@
  },
  {
   "brand": "LT Electronics",
+  "name": "LT C4300",
+  "device": "LT_C4300",
+  "model": "LT C4300"
+ },
+ {
+  "brand": "LT Electronics",
   "name": "LT-NOTE-10S",
   "device": "LT-NOTE-10S",
   "model": "LT-NOTE 10S"
@@ -73903,9 +73999,21 @@
  },
  {
   "brand": "Lava",
+  "name": "Z30",
+  "device": "AN9910",
+  "model": "AN9910"
+ },
+ {
+  "brand": "Lava",
   "name": "Z40",
   "device": "Z40",
   "model": "Z40"
+ },
+ {
+  "brand": "Lava",
+  "name": "Z41 2GB",
+  "device": "LN9910_2GB",
+  "model": "LN9910_2GB"
  },
  {
   "brand": "Lava",
@@ -79843,6 +79951,12 @@
  },
  {
   "brand": "Logicom",
+  "name": "La Tab 109 HD",
+  "device": "LaTab109HD",
+  "model": "La Tab 109 HD"
+ },
+ {
+  "brand": "Logicom",
   "name": "La Tab 113",
   "device": "La_Tab_113",
   "model": "La_Tab_113"
@@ -79918,6 +80032,12 @@
   "name": "La_Tab_Link_101",
   "device": "La_Tab_Link_101",
   "model": "LOGICOM La Tab Link 101"
+ },
+ {
+  "brand": "Logicom",
+  "name": "La_Tab_Link_71_P",
+  "device": "La_Tab_Link_71_P",
+  "model": "La_Tab_Link_71_P"
  },
  {
   "brand": "Logicom",
@@ -92167,6 +92287,12 @@
  },
  {
   "brand": "NYX Mobile",
+  "name": "Cobalt",
+  "device": "Cobalt",
+  "model": "Cobalt"
+ },
+ {
+  "brand": "NYX Mobile",
   "name": "FIT",
   "device": "FIT",
   "model": "FIT"
@@ -92242,6 +92368,24 @@
   "name": "SHADE",
   "device": "NYX_SHADE",
   "model": "NYX_SHADE"
+ },
+ {
+  "brand": "NYX Mobile",
+  "name": "SILVERGT",
+  "device": "SILVERGT",
+  "model": "SILVER"
+ },
+ {
+  "brand": "NYX Mobile",
+  "name": "SILVERMX",
+  "device": "SILVERMX",
+  "model": "SILVER"
+ },
+ {
+  "brand": "NYX Mobile",
+  "name": "Scorpio",
+  "device": "Scorpio",
+  "model": "Scorpio"
  },
  {
   "brand": "NYX Mobile",
@@ -94822,6 +94966,12 @@
   "name": "Note3",
   "device": "Note3",
   "model": "Note3"
+ },
+ {
+  "brand": "Olla",
+  "name": "V9",
+  "device": "V9",
+  "model": "V9"
  },
  {
   "brand": "Ollee",
@@ -106108,6 +106258,12 @@
   "name": "QSmart X40",
   "device": "X40",
   "model": "QSmart X40"
+ },
+ {
+  "brand": "Qsmart",
+  "name": "Rocket_Lite",
+  "device": "Rocket_Lite",
+  "model": "Rocket Lite"
  },
  {
   "brand": "Qsmart",
@@ -123570,6 +123726,12 @@
   "model": "CER3"
  },
  {
+  "brand": "Sapphire",
+  "name": "Sapphire Phone",
+  "device": "Sapphire_Phone",
+  "model": "Sapphire Phone"
+ },
+ {
   "brand": "Sasktel",
   "name": "HMB2213PW22WA",
   "device": "HMB2213PW22WA",
@@ -140179,6 +140341,12 @@
  },
  {
   "brand": "TOPELOTEK",
+  "name": "KIDS710",
+  "device": "KIDS710",
+  "model": "KIDS710"
+ },
+ {
+  "brand": "TOPELOTEK",
   "name": "TOPELOTEK",
   "device": "KIDS08",
   "model": "KIDS08"
@@ -140830,6 +140998,12 @@
   "name": "P10_HD_EEA",
   "device": "P10_HD_EEA",
   "model": "P10_HD_EEA"
+ },
+ {
+  "brand": "Teclast",
+  "name": "P10_HD_ROW",
+  "device": "P10_HD_ROW",
+  "model": "P10_HD_ROW"
  },
  {
   "brand": "Teclast",
@@ -147730,6 +147904,12 @@
   "name": "V1924A",
   "device": "PD1924",
   "model": "V1924A"
+ },
+ {
+  "brand": "Vivo",
+  "name": "V1926",
+  "device": "1926",
+  "model": "V1926"
  },
  {
   "brand": "Vivo",
