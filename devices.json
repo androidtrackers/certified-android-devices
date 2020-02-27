@@ -450,12 +450,6 @@
   "model": "TG996"
  },
  {
-  "brand": "ALLSOLA",
-  "name": "ALLSOLA_ASV1",
-  "device": "ALLSOLA_ASV1",
-  "model": "ALLSOLA_ASV1"
- },
- {
   "brand": "AMTC",
   "name": "MD1001 Tablet",
   "device": "MD1001",
@@ -9772,6 +9766,18 @@
   "name": "RT101A",
   "device": "RT101A",
   "model": "RT101A9"
+ },
+ {
+  "brand": "Athesi",
+  "name": "RT4500_EEA",
+  "device": "RT4500",
+  "model": "RT4500"
+ },
+ {
+  "brand": "Athesi",
+  "name": "RT55_EEA",
+  "device": "RT55",
+  "model": "RT55"
  },
  {
   "brand": "Athesi",
@@ -22195,6 +22201,12 @@
  },
  {
   "brand": "Ctroniq",
+  "name": "Ctroniq_Snook_W70",
+  "device": "Ctroniq_Snook_W70",
+  "model": "Ctroniq_Snook_W70"
+ },
+ {
+  "brand": "Ctroniq",
   "name": "K9",
   "device": "K9",
   "model": "K9"
@@ -24721,6 +24733,12 @@
  },
  {
   "brand": "Digicel",
+  "name": "DL3_3G",
+  "device": "DL3_3G",
+  "model": "DL3_3G"
+ },
+ {
+  "brand": "Digicel",
   "name": "DL501",
   "device": "DL501",
   "model": "DL501"
@@ -25708,6 +25726,12 @@
   "name": "QC804GM",
   "device": "QC804GM",
   "model": "QC804GM"
+ },
+ {
+  "brand": "Dixon",
+  "name": "DN6015",
+  "device": "DN6015",
+  "model": "DN6015"
  },
  {
   "brand": "Dixon",
@@ -32626,6 +32650,12 @@
   "name": "U1",
   "device": "GIGI_U1",
   "model": "GIGI_U1"
+ },
+ {
+  "brand": "GIRASOLE",
+  "name": "TAB5",
+  "device": "TAB5",
+  "model": "TAB5"
  },
  {
   "brand": "GIRASOLE",
@@ -46125,12 +46155,6 @@
   "brand": "Honeywell",
   "name": "VM3A",
   "device": "VM3A-L0-P",
-  "model": "VM3A"
- },
- {
-  "brand": "Honeywell",
-  "name": "WM3A",
-  "device": "VM3A-L0-N",
   "model": "VM3A"
  },
  {
@@ -63439,6 +63463,12 @@
  },
  {
   "brand": "Klipad",
+  "name": "KL6889B",
+  "device": "KL6889B",
+  "model": "KL6889B"
+ },
+ {
+  "brand": "Klipad",
   "name": "KL7590",
   "device": "KL7590",
   "model": "KL7590"
@@ -80167,6 +80197,12 @@
  },
  {
   "brand": "Logicom",
+  "name": "La_Tab_Stand",
+  "device": "La_Tab_Stand",
+  "model": "La Tab Stand"
+ },
+ {
+  "brand": "Logicom",
   "name": "Le Connect",
   "device": "Le_Connect",
   "model": "Le_Connect"
@@ -81058,6 +81094,12 @@
   "name": "MITSUSHIBA",
   "device": "TP-10-0232P3G",
   "model": "TP-10-0232P3G"
+ },
+ {
+  "brand": "MITSUSHIBA",
+  "name": "TP-07-016",
+  "device": "TP-07-016",
+  "model": "TP-07-016"
  },
  {
   "brand": "MJS",
@@ -84811,6 +84853,12 @@
  },
  {
   "brand": "Micromax",
+  "name": "Ione Note",
+  "device": "N8305",
+  "model": "ione note"
+ },
+ {
+  "brand": "Micromax",
   "name": "MAD",
   "device": "A94",
   "model": "Micromax A94"
@@ -84868,6 +84916,12 @@
   "name": "Micromax Canvax 1(2018)",
   "device": "C1A",
   "model": "Micromax C1A"
+ },
+ {
+  "brand": "Micromax",
+  "name": "Micromax Kicka 6",
+  "device": "N4120",
+  "model": "Micromax N4120"
  },
  {
   "brand": "Micromax",
@@ -103603,6 +103657,12 @@
  },
  {
   "brand": "Premio",
+  "name": "S75",
+  "device": "S75",
+  "model": "PREMIO S75"
+ },
+ {
+  "brand": "Premio",
   "name": "X1",
   "device": "186HS2080531",
   "model": "186HS2080531"
@@ -108091,21 +108151,9 @@
  },
  {
   "brand": "Rhino",
-  "name": "C10",
-  "device": "Rhino_C10",
-  "model": "C10"
- },
- {
-  "brand": "Rhino",
   "name": "T5SE",
   "device": "Rhino_T5SE",
   "model": "T5SE-001"
- },
- {
-  "brand": "Rhino",
-  "name": "T8",
-  "device": "Rhino_T8",
-  "model": "T8"
  },
  {
   "brand": "Rinno",
@@ -121921,6 +121969,12 @@
  },
  {
   "brand": "Samsung",
+  "name": "Galaxy Tab S6 Lite",
+  "device": "gta4xl",
+  "model": "SM-P615"
+ },
+ {
+  "brand": "Samsung",
   "name": "Galaxy Tab2 10.1",
   "device": "espresso10att",
   "model": "SAMSUNG-SGH-I497"
@@ -123724,12 +123778,6 @@
   "name": "FX9",
   "device": "SANAEKO",
   "model": "FX9"
- },
- {
-  "brand": "Sandata",
-  "name": "Sandata",
-  "device": "Sandata_T5",
-  "model": "T5"
  },
  {
   "brand": "Sankey",
@@ -131773,6 +131821,12 @@
  },
  {
   "brand": "Stylo",
+  "name": "Ithemba",
+  "device": "Ithemba",
+  "model": "Ithemba"
+ },
+ {
+  "brand": "Stylo",
   "name": "Luna",
   "device": "Luna",
   "model": "Luna"
@@ -131836,6 +131890,12 @@
   "name": "S50",
   "device": "STYLO_S50_Granite",
   "model": "S50"
+ },
+ {
+  "brand": "Stylo",
+  "name": "S501",
+  "device": "S501",
+  "model": "Stylo S501"
  },
  {
   "brand": "Stylo",
@@ -145776,12 +145836,6 @@
   "model": "VAX114"
  },
  {
-  "brand": "Vaxcare",
-  "name": "VaxCare",
-  "device": "VaxHub2",
-  "model": "VaxHub2"
- },
- {
   "brand": "Vega",
   "name": "Vega Q7128",
   "device": "Vega_Q7128",
@@ -147910,6 +147964,18 @@
   "name": "1818N",
   "device": "1818N",
   "model": "vivo 1818"
+ },
+ {
+  "brand": "Vivo",
+  "name": "I1927",
+  "device": "I1928",
+  "model": "I1927"
+ },
+ {
+  "brand": "Vivo",
+  "name": "I1928",
+  "device": "I1928",
+  "model": "I1928"
  },
  {
   "brand": "Vivo",
@@ -154396,6 +154462,18 @@
   "name": "YotaPhone2",
   "device": "yotaphone2",
   "model": "YD201"
+ },
+ {
+  "brand": "Yuho",
+  "name": "Netra_Lite",
+  "device": "Netra_Lite",
+  "model": "Netra_Lite"
+ },
+ {
+  "brand": "Yuho",
+  "name": "Netra_Plus",
+  "device": "Netra_Plus",
+  "model": "Netra_Plus"
  },
  {
   "brand": "Yuho",
