@@ -41827,6 +41827,12 @@
  },
  {
   "brand": "Hiking",
+  "name": "A20",
+  "device": "A20",
+  "model": "A20"
+ },
+ {
+  "brand": "Hiking",
   "name": "A21",
   "device": "A21",
   "model": "A21"
@@ -105889,6 +105895,12 @@
  },
  {
   "brand": "QMobile",
+  "name": "Rocket Pro",
+  "device": "Rocket_Pro",
+  "model": "Rocket Pro"
+ },
+ {
+  "brand": "QMobile",
   "name": "S1 Lite",
   "device": "S1_Lite",
   "model": "QMobile S1 Lite"
@@ -108478,6 +108490,12 @@
   "name": "P850",
   "device": "P850",
   "model": "P850"
+ },
+ {
+  "brand": "SAGI",
+  "name": "E5501",
+  "device": "E5501",
+  "model": "E5501"
  },
  {
   "brand": "SAKAISIO",
@@ -143911,6 +143929,12 @@
  },
  {
   "brand": "Touchmate",
+  "name": "TM-MID795",
+  "device": "TM-MID795",
+  "model": "TM-MID795"
+ },
+ {
+  "brand": "Touchmate",
   "name": "TM_MID792WP",
   "device": "TM_MID792WP",
   "model": "TM-MID792WP"
@@ -143932,6 +143956,12 @@
   "name": "T700_TABLET",
   "device": "T700_TABLET",
   "model": "T700"
+ },
+ {
+  "brand": "Transvision",
+  "name": "TRANSVISION-OTT-Box",
+  "device": "UHD_I56AD_TRV",
+  "model": "TRANSVISION-OTT-Box"
  },
  {
   "brand": "Transvision",
@@ -145672,6 +145702,12 @@
   "name": "NEXO_TAB_10",
   "device": "NEXO_TAB_10",
   "model": "NEXO_TAB_10"
+ },
+ {
+  "brand": "VOLFEN",
+  "name": "Nexo TAB 7",
+  "device": "Nexo-TAB-7",
+  "model": "Nexo-TAB-7"
  },
  {
   "brand": "VORCOM",
@@ -148240,6 +148276,12 @@
   "name": "V1945A",
   "device": "PD1945",
   "model": "V1945A"
+ },
+ {
+  "brand": "Vivo",
+  "name": "V1955A",
+  "device": "PD1955",
+  "model": "V1955A"
  },
  {
   "brand": "Vivo",
@@ -154462,6 +154504,12 @@
   "name": "YotaPhone2",
   "device": "yotaphone2",
   "model": "YD201"
+ },
+ {
+  "brand": "Yuho",
+  "name": "Candy_Pro",
+  "device": "Candy_Pro",
+  "model": "Candy_Pro"
  },
  {
   "brand": "Yuho",
@@ -162295,6 +162343,12 @@
  },
  {
   "brand": "ZTE",
+  "name": "ZTE 2050",
+  "device": "P671S50",
+  "model": "ZTE 2050"
+ },
+ {
+  "brand": "ZTE",
   "name": "ZTE 2050RU",
   "device": "P671F50_D",
   "model": "ZTE 2050RU"
@@ -162766,6 +162820,12 @@
   "name": "ZTE Blade A3 2020",
   "device": "P932F50",
   "model": "ZTE Blade A3 2020"
+ },
+ {
+  "brand": "ZTE",
+  "name": "ZTE Blade A3 2020RU",
+  "device": "P932F50",
+  "model": "ZTE Blade A3 2020RU"
  },
  {
   "brand": "ZTE",

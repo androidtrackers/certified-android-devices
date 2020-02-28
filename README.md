@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-02-27
+Last sync is 2020-02-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6976,6 +6976,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |High_Q|ELT10101H9|ELT10101H9|ELT10101H9|
 |Hihi|HIHI-40KH-TAB-01|HIHI-40KH-TAB|HIHI-40KH-TAB-01|
 |Hiking|A19|A19|A19|
+|Hiking|A20|A20|A20|
 |Hiking|A21|A21|A21|
 |Hiking|HIKING_A18|HIKING_A18|HIKING_A18|
 |Hiking|HK-MH501|HK-MH501|HK-MH501|
@@ -17653,6 +17654,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |QMobile|QMobile S15|S15|QMobile S15|
 |QMobile|QNote|QMobile_QNote|QMobile QNote|
 |QMobile|Qmobile S8 Plus|QMobile_S8_Plus|S8 Plus|
+|QMobile|Rocket Pro|Rocket_Pro|Rocket Pro|
 |QMobile|S1 Lite|S1_Lite|QMobile S1 Lite|
 |QMobile|S1 PRO|S1_PRO|QMobile S1 PRO|
 |QMobile|S2 Plus|S2_Plus|QMobile S2 Plus|
@@ -18085,6 +18087,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |S-tell|P760|P760|P760|
 |S-tell|P771|S-TELL|P771|
 |S-tell|P850|P850|P850|
+|SAGI|E5501|E5501|E5501|
 |SAKAISIO|FP-U320-711-WIFI|U320-WF|FP-U320-711-WIFI|
 |SAKAISIO|FP-U320-711-WWAN|U320-3G|FP-U320-711-WWAN|
 |SARL WISE TECHNOLOGIE|P1_Plus|P1_Plus|P1+|
@@ -23990,10 +23993,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Touchmate|TM-MID1065|TM-MID1065|TM-MID1065|
 |Touchmate|TM-MID792SB|TM_MID792SB|TM-MID792SB|
 |Touchmate|TM-MID794|TM-MID794|TM-MID794|
+|Touchmate|TM-MID795|TM-MID795|TM-MID795|
 |Touchmate|TM_MID792WP|TM_MID792WP|TM-MID792WP|
 |Touchmate|TOUCHMATE-TM-MID811A|TM-MID811A|TOUCHMATE-TM-MID811A|
 |Toughshield|R200|R200|R200|
 |Toughshield|T700_TABLET|T700_TABLET|T700|
+|Transvision|TRANSVISION-OTT-Box|UHD_I56AD_TRV|TRANSVISION-OTT-Box|
 |Transvision|Transvision|USB6_IR80|TRANSVISION-iTV|
 |Trekstor|SurfTab ST70204-3|TREKM7100KLD|SurfTab ST70204-3|
 |Trekstor|SurfTab breeze 9.6 quad|SurfTab|TrekStor SurfTab breeze 9.6 quad|
@@ -24284,6 +24289,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VIBE Z|K910|kitonw|Lenovo K910|
 |VNPT Technology|VNPT SmartBox 2x|vnptt_smb_v2x|VNPT SmartBox 2x|
 |VOLFEN|NEXO_TAB_10|NEXO_TAB_10|NEXO_TAB_10|
+|VOLFEN|Nexo TAB 7|Nexo-TAB-7|Nexo-TAB-7|
 |VORCOM|S7-classic|S7-classic|S7-classic|
 |VSN|V.35|up11_h1_vsn|V.35|
 |VT|MB300|MB300|SmartTV|
@@ -24712,6 +24718,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V1938CT|PD1938|V1938CT|
 |Vivo|V1941A|PD1941|V1941A|
 |Vivo|V1945A|PD1945|V1945A|
+|Vivo|V1955A|PD1955|V1955A|
 |Vivo|V1Max|Y37|vivo Y37|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
@@ -25749,6 +25756,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Yokis|WS107_eea|WS107|WS107|
 |Yota Devices|C9660|yotaphone|C9660|
 |Yota Devices|YotaPhone2|yotaphone2|YD201|
+|Yuho|Candy_Pro|Candy_Pro|Candy_Pro|
 |Yuho|Netra_Lite|Netra_Lite|Netra_Lite|
 |Yuho|Netra_Plus|Netra_Plus|Netra_Plus|
 |Yuho|O2 PRO|YUHO_O2_PRO|YUHO_O2_PRO|
@@ -27054,6 +27062,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZPAD|gevjon|K90U|
 |ZTE|ZTE 2050|P671F50|ZTE 2050|
 |ZTE|ZTE 2050|P671F50_D|ZTE 2050|
+|ZTE|ZTE 2050|P671S50|ZTE 2050|
 |ZTE|ZTE 2050RU|P671F50_D|ZTE 2050RU|
 |ZTE|ZTE A0616|P637S15|ZTE A0616|
 |ZTE|ZTE A0620|P840S13|ZTE A0620|
@@ -27133,6 +27142,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A3 2019|P932K20|ZTE Blade A3 2019|
 |ZTE|ZTE Blade A3 2019RU|P932F20|ZTE Blade A3 2019RU|
 |ZTE|ZTE Blade A3 2020|P932F50|ZTE Blade A3 2020|
+|ZTE|ZTE Blade A3 2020RU|P932F50|ZTE Blade A3 2020RU|
 |ZTE|ZTE Blade A3 Lite|P932F20|ZTE Blade A3 Lite|
 |ZTE|ZTE Blade A5 2019|P963F30|ZTE Blade A5 2019|
 |ZTE|ZTE Blade A5 2019|P963F30P|ZTE Blade A5 2019|
