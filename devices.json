@@ -121993,6 +121993,12 @@
  },
  {
   "brand": "Samsung",
+  "name": "Galaxy Tab S6 Lite",
+  "device": "gta4xlwifi",
+  "model": "SM-P610"
+ },
+ {
+  "brand": "Samsung",
   "name": "Galaxy Tab2 10.1",
   "device": "espresso10att",
   "model": "SAMSUNG-SGH-I497"
@@ -126370,12 +126376,6 @@
   "name": "ADT-2",
   "device": "adt2",
   "model": "ADT-2"
- },
- {
-  "brand": "Shenzhen SEI Robotics",
-  "name": "AMLogic Ref",
-  "device": "franklin",
-  "model": "franklin"
  },
  {
   "brand": "Shuttle",

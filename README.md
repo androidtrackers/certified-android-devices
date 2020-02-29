@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-02-28
+Last sync is 2020-02-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -20337,6 +20337,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S6|gts6lwifi|SM-T860|
 |Samsung|Galaxy Tab S6 5G|gts6x|SM-T866N|
 |Samsung|Galaxy Tab S6 Lite|gta4xl|SM-P615|
+|Samsung|Galaxy Tab S6 Lite|gta4xlwifi|SM-P610|
 |Samsung|Galaxy Tab2 10.1|espresso10att|SAMSUNG-SGH-I497|
 |Samsung|Galaxy Tab2 10.1|espresso10can|SGH-I497|
 |Samsung|Galaxy Tab2 10.1|espresso10rf|GT-P5100|
@@ -21067,7 +21068,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Shenzhen Jiuzhou|DTP9503|DTP9503|DTP9503|
 |Shenzhen Jiuzhou|DTP9710|DTP9710|DTP9710|
 |Shenzhen SEI Robotics|ADT-2|adt2|ADT-2|
-|Shenzhen SEI Robotics|AMLogic Ref|franklin|franklin|
 |Shuttle|PNT-7045|PNT-7045|PNT-7045|
 |SiAL|Bic camera|Si01BB|Si01BB|
 |SiAL|Si01BE|Si01BE|Si01BE|
