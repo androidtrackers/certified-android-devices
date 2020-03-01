@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-02-29
+Last sync is 2020-03-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -22118,6 +22118,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|V128|V128|V128|
 |Symphony|V130|V130|V130|
 |Symphony|V140|V140|V140|
+|Symphony|V141|V141|V141|
 |Symphony|V142|V142|V142|
 |Symphony|V145|V145|V145|
 |Symphony|V155|V155|V155|
@@ -22152,6 +22153,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|i60|i60|i60|
 |Symphony|i65|i65|i65|
 |Symphony|i68|i68|i68|
+|Symphony|i72|i72|i72|
 |Symphony|i74|i74|i74|
 |Symphony|i90|i90|i90|
 |Symphony|i95|i95|i95|

@@ -132679,6 +132679,12 @@
  },
  {
   "brand": "Symphony",
+  "name": "V141",
+  "device": "V141",
+  "model": "V141"
+ },
+ {
+  "brand": "Symphony",
   "name": "V142",
   "device": "V142",
   "model": "V142"
@@ -132880,6 +132886,12 @@
   "name": "i68",
   "device": "i68",
   "model": "i68"
+ },
+ {
+  "brand": "Symphony",
+  "name": "i72",
+  "device": "i72",
+  "model": "i72"
  },
  {
   "brand": "Symphony",
