@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-03-01
+Last sync is 2020-03-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2117,6 +2117,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BRAVA|DU 400|DU_400|DU_400|
 |BRAVA|DU-500|DU-500|DU-500|
 |BRAVA|DU-600|DU_600|DU-600|
+|BRAVE|BT7X1|BT7X1|BT7X1|
 |BRIGMTON|BTPC-1023OC4G_EEA|BTPC-1023OC4G|BTPC-1023OC4G|
 |BRIGMTON|BTPC-1024QC|BTPC-1024QC|BTPC-1024QC|
 |BRIGMTON|BTPC-1025OC|BTPC-1025OC|BTPC-1025OC|
@@ -2273,6 +2274,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bittium|Tough Mobile|granite|Bittium Tough Mobile|
 |Bittium|granite|granite|Bittium Tough Mobile|
 |Bizringer|8BIZ18|8BIZ18|8BIZ18|
+|Blabloo|Space1Blue|Space1Blue|Space1Blue|
 |Black Bear|B6 Master|B6_Master|B6 Master|
 |Black Bear|B6_Note_X|B6_Note_X|B6 Note X|
 |BlackBerry|Aurora|bbc100|BBC100-1|
@@ -2827,6 +2829,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CILICO|C6|C6|C6|
 |CILICO|F750|F750|F750|
 |CILICO|F880|F880|F880|
+|CIMRL|tab10|tab10|tab10|
 |CIRKUIT PLANET (ESPANA)|SMARTLIFE|SL-TAB07116|SL-TAB07116|
 |CIRKUIT PLANET (ESPANA)|SMARTLIFE|SL-TAB10232|SL-TAB10232|
 |CJHelloVision|CJ680CL|cj680cl|GX-CJ680CL|
@@ -3989,6 +3992,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datsun|D6000|D6000|D6000|
 |Datsun|Datsun_D5001|Datsun_D5001|Datsun_D5001|
 |Datsun|Datsun_D5500|D5500|DATSUN_D5500|
+|DayMark|IT119345|IT119345|IT119345|
+|DayMark|IT119411|IT119411|IT119411|
 |Ddm|ANDY 5EI|AM5E3I047|ANDY 5EI|
 |DeWALT|DeWalt md501|md501|md501|
 |Dell||Dell_Grappa|Dell Aero|
@@ -9460,6 +9465,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ICOM|CTGED03|CTGED03|CTGED03|
 |IDC|EVO_G4|EVO_G4|EVO G4|
 |IDEA|i4901|i4901|i4901|
+|IDONDRDO|Discovery-X1|Discovery-X1|Discovery-X1|
 |IDspire|IRA_Biometric|TPSeries_1|IRA_Biometric|
 |IDspire|TPSeries_1|TPSeries_1|TPSeries_1|
 |IKALL|N4|N4|N4|
@@ -12155,6 +12161,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LT Electronics|LT_S9_NOTE|LT_S9_NOTE|LT_S9_NOTE|
 |LT Electronics|LT_X5|LT_X5|LT_X5|
 |LT Electronics|SPURT_K300|SPURT_K300|K300|
+|LT Electronics|SPURT_K500|SPURT_K500|K500|
 |LT Electronics|SPURT_K600|SPURT_K600|K600|
 |LUMUS|INNOSR545|INNOSR545|INNOSR545|
 |LUMUS|NEOSC600|NEOSC600|NEOSC600|
@@ -13243,6 +13250,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lexibook|Tablet Phone|MFS100|MFS100|
 |Lgcns|LPT_200AR|LPT_200AR|LPT_200AR|
 |Lgcns|LPT_201AR|LPT_201AR|LPT_201AR|
+|Life mobile|LM1|LM1|LM1|
 |LifeWatch|"V | FGL-00004"|hp6577_cts|
 |Lilus|TAL-750|TAL-750|TAL-750|
 |Lin|LIN|LINTAB_TB701|LINTAB_TB701|
@@ -13567,6 +13575,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MOVIC|MOVIC-W2|MOVIC-W2|MOVIC-W2|
 |MOVIC|Movic F4501|F4501|Movic F4501|
 |MOVIC|S5501|S5501|S5501|
+|MOVISUN|TAB-S1|TAB-S1|TAB-S1|
 |MPman|MPDC1006|MPDC1006|MPDC1006|
 |MPman|MPDC706|MPDC706|MPDC706|
 |MSI|NB32-Gen2|NB32-Gen2|NB32-Gen2|
@@ -13742,6 +13751,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maxwest|Panda_7|Panda_7|Panda_7|
 |Maxwest|Ranger 5|Ranger_5|Ranger_5|
 |Maxwest|TAB-9G|TAB-9G|TAB-9G|
+|Maze_speed|SSB1000T|SSB1000T|SSB1000T|
 |MeanIT|C4|C4|C4|
 |MeanIT|meanIT C80C81|meanIT_C80C81|meanIT_C80C81|
 |MeanIT|meanIT-X10|meanIT-X10|meanIT X10|
@@ -18245,6 +18255,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |STG Telecom|STG A1 Pro|STG_A1_Pro|STG A1 Pro|
 |STG Telecom|STG S1|STG_S1|STG S1|
 |STG Telecom|STG X1|STG_X1|STG X1|
+|STG Telecom|STG_A1|STG_A1|STG A1|
 |STG Telecom|STG_B10|STG_B10|STG_B10|
 |STG Telecom|STG_C10|STG_C10|STG_C10|
 |STG Telecom|STG_S1|STG_S1|STG S1|
@@ -19202,6 +19213,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M20|m20lte|SM-M205FN|
 |Samsung|Galaxy M20|m20lte|SM-M205G|
 |Samsung|Galaxy M20|m20lte|SM-M205M|
+|Samsung|Galaxy M21|m21|SM-M215F|
 |Samsung|Galaxy M30|m30lte|SM-M305F|
 |Samsung|Galaxy M30|m30lte|SM-M305M|
 |Samsung|Galaxy M30s|m30s|SM-M3070|
@@ -19707,6 +19719,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S2 Wimax|ISW11SC|ISW11SC|
 |Samsung|Galaxy S2 X|SGH-T989D|SGH-T989D|
 |Samsung|Galaxy S20|x1s|SM-G980F|
+|Samsung|Galaxy S20 5G|SC-51A|SC-51A|
+|Samsung|Galaxy S20 5G|SCG01|SCG01|
 |Samsung|Galaxy S20 5G|x1q|SM-G9810|
 |Samsung|Galaxy S20 5G|x1q|SM-G981N|
 |Samsung|Galaxy S20 5G|x1q|SM-G981U|
@@ -20886,6 +20900,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS zero (SH-M10)|SH-M10|SH-M10|
 |Sharp|AQUOS zero2 906SH|SG906SH|906SH|
 |Sharp|AQUOS zero2 SH-01M|SH-01M|SH-01M|
+|Sharp|AQUOS zero2 SH-M13|SH-M13|SH-M13|
 |Sharp|AQUOS zero2 SHV47|QDA|SHV47|
 |Sharp|AQUOS ケータイ SH-02L|SH-02L|SH-02L|
 |Sharp|AQUOS ケータイ SH-06G|SH-06G|SH-06G|
@@ -27694,6 +27709,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |koobee|S12|koobee_S12|S12|
 |koobee|S16|koobee_S16|S16|
 |koobee|koobee_K10|koobee_K10|K10|
+|koobee|koobee_S12|koobee_S12|S12|
 |mytel|M9501|M9501|M9501|
 |mytel|M9502|M9502|M9502|
 |mytel|M9503|M9503|M9503|

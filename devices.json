@@ -12672,6 +12672,12 @@
   "model": "DU-600"
  },
  {
+  "brand": "BRAVE",
+  "name": "BT7X1",
+  "device": "BT7X1",
+  "model": "BT7X1"
+ },
+ {
   "brand": "BRIGMTON",
   "name": "BTPC-1023OC4G_EEA",
   "device": "BTPC-1023OC4G",
@@ -13606,6 +13612,12 @@
   "name": "8BIZ18",
   "device": "8BIZ18",
   "model": "8BIZ18"
+ },
+ {
+  "brand": "Blabloo",
+  "name": "Space1Blue",
+  "device": "Space1Blue",
+  "model": "Space1Blue"
  },
  {
   "brand": "Black Bear",
@@ -16930,6 +16942,12 @@
   "name": "F880",
   "device": "F880",
   "model": "F880"
+ },
+ {
+  "brand": "CIMRL",
+  "name": "tab10",
+  "device": "tab10",
+  "model": "tab10"
  },
  {
   "brand": "CIRKUIT PLANET (ESPANA)",
@@ -23902,6 +23920,18 @@
   "name": "Datsun_D5500",
   "device": "D5500",
   "model": "DATSUN_D5500"
+ },
+ {
+  "brand": "DayMark",
+  "name": "IT119345",
+  "device": "IT119345",
+  "model": "IT119345"
+ },
+ {
+  "brand": "DayMark",
+  "name": "IT119411",
+  "device": "IT119411",
+  "model": "IT119411"
  },
  {
   "brand": "Ddm",
@@ -56730,6 +56760,12 @@
   "model": "i4901"
  },
  {
+  "brand": "IDONDRDO",
+  "name": "Discovery-X1",
+  "device": "Discovery-X1",
+  "model": "Discovery-X1"
+ },
+ {
   "brand": "IDspire",
   "name": "IRA_Biometric",
   "device": "TPSeries_1",
@@ -72901,6 +72937,12 @@
  },
  {
   "brand": "LT Electronics",
+  "name": "SPURT_K500",
+  "device": "SPURT_K500",
+  "model": "K500"
+ },
+ {
+  "brand": "LT Electronics",
   "name": "SPURT_K600",
   "device": "SPURT_K600",
   "model": "K600"
@@ -79428,6 +79470,12 @@
   "model": "LPT_201AR"
  },
  {
+  "brand": "Life mobile",
+  "name": "LM1",
+  "device": "LM1",
+  "model": "LM1"
+ },
+ {
   "brand": "LifeWatch",
   "name": "\"V ",
   "device": " FGL-00004\"",
@@ -81372,6 +81420,12 @@
   "model": "S5501"
  },
  {
+  "brand": "MOVISUN",
+  "name": "TAB-S1",
+  "device": "TAB-S1",
+  "model": "TAB-S1"
+ },
+ {
   "brand": "MPman",
   "name": "MPDC1006",
   "device": "MPDC1006",
@@ -82420,6 +82474,12 @@
   "name": "TAB-9G",
   "device": "TAB-9G",
   "model": "TAB-9G"
+ },
+ {
+  "brand": "Maze_speed",
+  "name": "SSB1000T",
+  "device": "SSB1000T",
+  "model": "SSB1000T"
  },
  {
   "brand": "MeanIT",
@@ -109441,6 +109501,12 @@
  },
  {
   "brand": "STG Telecom",
+  "name": "STG_A1",
+  "device": "STG_A1",
+  "model": "STG A1"
+ },
+ {
+  "brand": "STG Telecom",
   "name": "STG_B10",
   "device": "STG_B10",
   "model": "STG_B10"
@@ -115183,6 +115249,12 @@
  },
  {
   "brand": "Samsung",
+  "name": "Galaxy M21",
+  "device": "m21",
+  "model": "SM-M215F"
+ },
+ {
+  "brand": "Samsung",
   "name": "Galaxy M30",
   "device": "m30lte",
   "model": "SM-M305F"
@@ -118210,6 +118282,18 @@
   "name": "Galaxy S20",
   "device": "x1s",
   "model": "SM-G980F"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy S20 5G",
+  "device": "SC-51A",
+  "model": "SC-51A"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy S20 5G",
+  "device": "SCG01",
+  "model": "SCG01"
  },
  {
   "brand": "Samsung",
@@ -125284,6 +125368,12 @@
   "name": "AQUOS zero2 SH-01M",
   "device": "SH-01M",
   "model": "SH-01M"
+ },
+ {
+  "brand": "Sharp",
+  "name": "AQUOS zero2 SH-M13",
+  "device": "SH-M13",
+  "model": "SH-M13"
  },
  {
   "brand": "Sharp",
@@ -166132,6 +166222,12 @@
   "name": "koobee_K10",
   "device": "koobee_K10",
   "model": "K10"
+ },
+ {
+  "brand": "koobee",
+  "name": "koobee_S12",
+  "device": "koobee_S12",
+  "model": "S12"
  },
  {
   "brand": "mytel",
