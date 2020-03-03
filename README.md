@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-03-02
+Last sync is 2020-03-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -877,6 +877,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aprix|Tab64_T|Tab64_T|Tab64_T|
 |Aprix|Tab8ii|Tab8ii|Tab8ii|
 |Aprix|X4|Aprix_X4|Aprix_X4|
+|Aqua|APAC|hanyang|AQUA Android TV|
 |Aqua|S1 Jazz|S1_Jazz|S1 Jazz|
 |Arcelik|B55L 9682 5AS|arcelik_eu|arcelik_uhd_powermax_at|
 |Archos||A101S|ARCHOS 101G9|
@@ -1962,6 +1963,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|AX824A|Bmobile_AX824A|AX824A|
 |BMobile|AX824Plus|Bmobile_AX824Plus_MV15|AX824+|
 |BMobile|AX825|Bmobile_AX825|AX825|
+|BMobile|AX826|Bmobile_AX826|AX826|
 |BMobile|AX829|Bmobile_AX829|AX829|
 |BMobile|AX830|Bmobile_AX830|AX830|
 |BMobile|AX830|Bmobile_AX830MV15|AX830|
@@ -2522,6 +2524,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G6|G0210|G6|
 |Blu|G60|G0270WW|G60|
 |Blu|G70|G0250WW|G70|
+|Blu|G8|G0170|G8|
 |Blu|G9|G0130WW|G9|
 |Blu|G9|G0130WW_SR|G9|
 |Blu|G9 PRO|G0230WW|G9 PRO|
@@ -2798,6 +2801,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |C5 Mobile|noa X2 Plus|noa_x2_Plus|noa X2 Plus|
 |C5 Mobile|noa_G1|noa_G1|noa_G1|
 |CANAL-PLUS|CANALATV1|HY40A2|CANALATV1|
+|CBN Media|connect|connect|connect|
 |CBN Media|g-mee1|g-mee1|g-mee1|
 |CCC|AirStick|ts201|AIrStick|
 |CCC|AirStick|ts201|AirStick|
@@ -6782,8 +6786,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|AD6B1H|AD6B1H|Smartfren Andromax AD6B1H|
 |Haier|AL40|AL40|Haier_AL40|
 |Haier|AP54|ts18_ap54_kliver|AP54|
+|Haier|APAC|hanyang|Haitech Android TV|
 |Haier|APAC|hanyang|haierATV|
 |Haier|APAC|nippori|haierATVnippori|
+|Haier|"APAC|EU"|hanyang|
 |Haier|AT7003|AT7003|AT7003|
 |Haier|Alpha A1|A1|A1|
 |Haier|Alpha A3|A3|A3|
@@ -11736,6 +11742,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG Watch Style|angelfish|LG Watch Style|
 |LGE|LG Watch Urbane|bass|LG Watch Urbane|
 |LGE|LG Watch Urbane 2nd Edition LTE|nemo|LG Watch Urbane|
+|LGE|LG Watch W7|narwhal|LG Watch W7|
 |LGE|LG Wine Smart|cf|LG-H410|
 |LGE|LG Wine Smart Jazz|cf|LG-F610K|
 |LGE|LG Wine Smart Jazz|cf|LG-F610S|
@@ -12011,6 +12018,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|Phoenix 3|lv1|LG-M150|
 |LGE|Premier|m209|LGL61AL|
 |LGE|Premier|m209|LGL62VL|
+|LGE|Q51|mdh30lm|LM-Q510N|
 |LGE|Q8|anna|LG-H970|
 |LGE|Q8|anna|LGM-X800K|
 |LGE|Q8|anna|LGM-X800L|
@@ -13564,6 +13572,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MLS Innovation|iQW511T|iQW511T|iQW511T|
 |MLS Innovation|iQW608|iQW608|iQW608|
 |MLS Innovation|iQW626|iQW626|iQW626|
+|MNC NOW|CYBORG001|HP40A3|CYBORG001|
 |MOBO|MB_530|MB_530|MB_530|
 |MOBULAA|K1|K1|K1|
 |MOBULAA|S6|S6|S6|
@@ -13611,6 +13620,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MTN-E70|MTN-E70|MTN-E70|MTN-E70|
 |MTR (MY)|MT9|MT9|MT9|
 |MTS (RU)|B866|B866_MTS_OTT|B866|
+|MTS (RU)|Russia|B866_MTS_IPTV|B866|
 |MTT|Master|Master|M.T.T. Master|
 |MTT|Smart Fun|SmartFun|M.T.T. Smart Fun|
 |MTab|MT3|MT3|MT3|
@@ -13774,6 +13784,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mecer|TF10EA2|TF10EA2_11|TF10EA2|
 |Mecer|TF10MK1|TF10MK1_2|TF10MK1|
 |Mecer|TF10MK1|TF10MK1_3|TF10MK1|
+|Mecool|KM1|KM1|KM1|
 |Mecool|KM3|KM3|KM3|
 |Mecool|KM8|KM8|KM8|
 |Mecool|KM9PRO|KM9PRO|KM9PRO|
@@ -14263,6 +14274,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mio Tab|MioTab|MioTab2016|MioTab 2016|
 |Mio Tab|MioTab2017|MioTab2017|MioTab2017|
 |Mio Tab|Mio_Tab_2019|Mio_Tab_2019|Mio_Tab_2019|
+|Mione|Mione_Pro|MIONEI|Mione_Pro|
 |Miophone|Mio Phone|MioPhone2016|Mio Phone 2016|
 |Miophone|Mio Phone|MioPhone2017|MioPhone2017|
 |Mirage|43T|MI-JI-43T|MI-JI-43T|
@@ -14490,6 +14502,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobvoi|TicWatch E2/S2|tunny|TicWatch S2|
 |Mobvoi|TicWatch Pro|catfish|TicWatch Pro|
 |Mobvoi|TicWatch Pro 4G|catshark|TicWatch Pro 4G|
+|Mobvoi|TicWatch Pro BT|catfish_ext|TicWatch Pro|
 |Mobvoi|Ticwatch Pro 4G|catshark|TicWatch Pro 4G|
 |Mobvoi|Ticwatch S Smartwatch; Ticwatch E Smartwatch|mooneye|Ticwatch E|
 |Mobvoi|Ticwatch S Smartwatch; Ticwatch E Smartwatch|mooneye|Ticwatch S|
@@ -22152,6 +22165,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|V98|V98|V98|
 |Symphony|V99+|V99plus|V99+|
 |Symphony|Z10|Z10|SYMPHONY Z10|
+|Symphony|Z15|Z15|Z15|
 |Symphony|Z20|Z20|Z20|
 |Symphony|Z25|Z25|Z25|
 |Symphony|ZVII|ZVII|ZVII|
@@ -22161,6 +22175,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|i100|i100|i100|
 |Symphony|i120|i120|i120|
 |Symphony|i15|i15|i15|
+|Symphony|i18|i18|i18|
 |Symphony|i20|i20|i20|
 |Symphony|i25|Symphonyi25|i25|
 |Symphony|i30|i30|i30|
@@ -24249,6 +24264,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Uneone|SD57|SD57|SD57|
 |Uneone|SD70|SD70|SD70|
 |Uneone|SD80|SD80|SD80|
+|Unifi-TV|unifi-TV|HP40A3|unifi-TV|
 |Unifone|Armor_5S|Armor_5S|Armor 5S|
 |Unifone|U5_Breeze|U5_Breeze|U5_Breeze|
 |Unihertz|Atom|Atom|Atom|
@@ -24735,6 +24751,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V1938CT|PD1938|V1938CT|
 |Vivo|V1941A|PD1941|V1941A|
 |Vivo|V1945A|PD1945|V1945A|
+|Vivo|V1950A|PD1950|V1950A|
 |Vivo|V1955A|PD1955|V1955A|
 |Vivo|V1Max|Y37|vivo Y37|
 |Vivo|V3|PD1524|vivo V3|
@@ -27512,6 +27529,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iBRIT|Z2|Z2|Z2|
 |iBRIT|Z2Lite|Z2Lite|Z2Lite|
 |iBRIT|i2|i2|i2|
+|iBRIT|i5Plus|i5Plus|i5Plus|
 |iBRIT|iBRIT SpeedX|SpeedX|SpeedX|
 |iBall|Avid|Avid|Avid|
 |iBall|Blaze_V4|Blaze_V4|Blaze_V4|
@@ -27679,6 +27697,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iSWAG|ISWAG_VIPER|ISWAG_VIPER|ISWAG VIPER|
 |iSWAG|ODIN|ODIN|ODIN|
 |iSWAG|STREAM7|STREAM7|STREAM7|
+|iTab XPLUS|iTAB-A1|iTAB-A1|iTAB-A1|
 |iTab XPLUS|iTab_XPLUS_10_1|iTab_XPLUS_10_1|iTab_XPLUS_10_1|
 |iTree|S898|S898|S898|
 |iVOOMi|Me 1|Me_1|iV 505|
@@ -27759,6 +27778,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |tecmobile|OmnisOne|OmnisOne|Omnis One|
 |truevisions|N9106H-B|HB_N9106H_B_truevisions|N9106H-B|
 |truevisions|N9106H-C|HB_N9106H_C_truevisions|N9106H-C|
+|truevisions|STI6030_TRUE_TV_A01	|TV_A01|STI6030_TRUE_TV_A01|
 |ucall|EASY1|EASY1|EASY1|
 |unitel|P45|P45|P45|
 |unitel|U901|U901|U901|

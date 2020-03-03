@@ -5233,6 +5233,12 @@
  },
  {
   "brand": "Aqua",
+  "name": "APAC",
+  "device": "hanyang",
+  "model": "AQUA Android TV"
+ },
+ {
+  "brand": "Aqua",
   "name": "S1 Jazz",
   "device": "S1_Jazz",
   "model": "S1 Jazz"
@@ -11743,6 +11749,12 @@
  },
  {
   "brand": "BMobile",
+  "name": "AX826",
+  "device": "Bmobile_AX826",
+  "model": "AX826"
+ },
+ {
+  "brand": "BMobile",
   "name": "AX829",
   "device": "Bmobile_AX829",
   "model": "AX829"
@@ -15103,6 +15115,12 @@
  },
  {
   "brand": "Blu",
+  "name": "G8",
+  "device": "G0170",
+  "model": "G8"
+ },
+ {
+  "brand": "Blu",
   "name": "G9",
   "device": "G0130WW",
   "model": "G9"
@@ -16756,6 +16774,12 @@
   "name": "CANALATV1",
   "device": "HY40A2",
   "model": "CANALATV1"
+ },
+ {
+  "brand": "CBN Media",
+  "name": "connect",
+  "device": "connect",
+  "model": "connect"
  },
  {
   "brand": "CBN Media",
@@ -40665,6 +40689,12 @@
   "brand": "Haier",
   "name": "APAC",
   "device": "hanyang",
+  "model": "Haitech Android TV"
+ },
+ {
+  "brand": "Haier",
+  "name": "APAC",
+  "device": "hanyang",
   "model": "haierATV"
  },
  {
@@ -40672,6 +40702,12 @@
   "name": "APAC",
   "device": "nippori",
   "model": "haierATVnippori"
+ },
+ {
+  "brand": "Haier",
+  "name": "\"APAC",
+  "device": "EU\"",
+  "model": "hanyang"
  },
  {
   "brand": "Haier",
@@ -70387,6 +70423,12 @@
  },
  {
   "brand": "LGE",
+  "name": "LG Watch W7",
+  "device": "narwhal",
+  "model": "LG Watch W7"
+ },
+ {
+  "brand": "LGE",
   "name": "LG Wine Smart",
   "device": "cf",
   "model": "LG-H410"
@@ -72034,6 +72076,12 @@
   "name": "Premier",
   "device": "m209",
   "model": "LGL62VL"
+ },
+ {
+  "brand": "LGE",
+  "name": "Q51",
+  "device": "mdh30lm",
+  "model": "LM-Q510N"
  },
  {
   "brand": "LGE",
@@ -81354,6 +81402,12 @@
   "model": "iQW626"
  },
  {
+  "brand": "MNC NOW",
+  "name": "CYBORG001",
+  "device": "HP40A3",
+  "model": "CYBORG001"
+ },
+ {
   "brand": "MOBO",
   "name": "MB_530",
   "device": "MB_530",
@@ -81633,6 +81687,12 @@
   "brand": "MTS (RU)",
   "name": "B866",
   "device": "B866_MTS_OTT",
+  "model": "B866"
+ },
+ {
+  "brand": "MTS (RU)",
+  "name": "Russia",
+  "device": "B866_MTS_IPTV",
   "model": "B866"
  },
  {
@@ -82612,6 +82672,12 @@
   "name": "TF10MK1",
   "device": "TF10MK1_3",
   "model": "TF10MK1"
+ },
+ {
+  "brand": "Mecool",
+  "name": "KM1",
+  "device": "KM1",
+  "model": "KM1"
  },
  {
   "brand": "Mecool",
@@ -85548,6 +85614,12 @@
   "model": "Mio_Tab_2019"
  },
  {
+  "brand": "Mione",
+  "name": "Mione_Pro",
+  "device": "MIONEI",
+  "model": "Mione_Pro"
+ },
+ {
   "brand": "Miophone",
   "name": "Mio Phone",
   "device": "MioPhone2016",
@@ -86908,6 +86980,12 @@
   "name": "TicWatch Pro 4G",
   "device": "catshark",
   "model": "TicWatch Pro 4G"
+ },
+ {
+  "brand": "Mobvoi",
+  "name": "TicWatch Pro BT",
+  "device": "catfish_ext",
+  "model": "TicWatch Pro"
  },
  {
   "brand": "Mobvoi",
@@ -132883,6 +132961,12 @@
  },
  {
   "brand": "Symphony",
+  "name": "Z15",
+  "device": "Z15",
+  "model": "Z15"
+ },
+ {
+  "brand": "Symphony",
   "name": "Z20",
   "device": "Z20",
   "model": "Z20"
@@ -132934,6 +133018,12 @@
   "name": "i15",
   "device": "i15",
   "model": "i15"
+ },
+ {
+  "brand": "Symphony",
+  "name": "i18",
+  "device": "i18",
+  "model": "i18"
  },
  {
   "brand": "Symphony",
@@ -145464,6 +145554,12 @@
   "model": "SD80"
  },
  {
+  "brand": "Unifi-TV",
+  "name": "unifi-TV",
+  "device": "HP40A3",
+  "model": "unifi-TV"
+ },
+ {
   "brand": "Unifone",
   "name": "Armor_5S",
   "device": "Armor_5S",
@@ -148378,6 +148474,12 @@
   "name": "V1945A",
   "device": "PD1945",
   "model": "V1945A"
+ },
+ {
+  "brand": "Vivo",
+  "name": "V1950A",
+  "device": "PD1950",
+  "model": "V1950A"
  },
  {
   "brand": "Vivo",
@@ -165043,6 +165145,12 @@
  },
  {
   "brand": "iBRIT",
+  "name": "i5Plus",
+  "device": "i5Plus",
+  "model": "i5Plus"
+ },
+ {
+  "brand": "iBRIT",
   "name": "iBRIT SpeedX",
   "device": "SpeedX",
   "model": "SpeedX"
@@ -166045,6 +166153,12 @@
  },
  {
   "brand": "iTab XPLUS",
+  "name": "iTAB-A1",
+  "device": "iTAB-A1",
+  "model": "iTAB-A1"
+ },
+ {
+  "brand": "iTab XPLUS",
   "name": "iTab_XPLUS_10_1",
   "device": "iTab_XPLUS_10_1",
   "model": "iTab_XPLUS_10_1"
@@ -166522,6 +166636,12 @@
   "name": "N9106H-C",
   "device": "HB_N9106H_C_truevisions",
   "model": "N9106H-C"
+ },
+ {
+  "brand": "truevisions",
+  "name": "STI6030_TRUE_TV_A01\t",
+  "device": "TV_A01",
+  "model": "STI6030_TRUE_TV_A01"
  },
  {
   "brand": "ucall",
