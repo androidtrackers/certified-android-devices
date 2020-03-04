@@ -109230,6 +109230,12 @@
   "model": "X3"
  },
  {
+  "brand": "SPC Mobile",
+  "name": "X5",
+  "device": "X5",
+  "model": "X5"
+ },
+ {
   "brand": "SPC Universe",
   "name": "Blink_10_1",
   "device": "Blink_10_1",
@@ -144334,6 +144340,12 @@
   "name": "Trifone_X7",
   "device": "Trifone_X7",
   "model": "Trifone_X7"
+ },
+ {
+  "brand": "Trifone",
+  "name": "X701",
+  "device": "X701",
+  "model": "X701"
  },
  {
   "brand": "Trimble Navigation",

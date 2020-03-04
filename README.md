@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-03-03
+Last sync is 2020-03-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -18210,6 +18210,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Mobile|SPC SMART MAX|SPC_SMART_MAX|SPC SMART MAX|
 |SPC Mobile|X1|SPC_X1|X1|
 |SPC Mobile|X3|SPC_X3|X3|
+|SPC Mobile|X5|X5|X5|
 |SPC Universe|Blink_10_1|Blink_10_1|Blink 10.1|
 |SPC Universe|FLOW_7|FLOW_7|FLOW 7|
 |SPC Universe|GRAVITY|GRAVITY|GRAVITY|
@@ -24061,6 +24062,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Trifone|T-FASHION|T-FASHION|T-FASHION|
 |Trifone|TRI_POWER|TRIFONE_TRI_POWER|TRI_POWER|
 |Trifone|Trifone_X7|Trifone_X7|Trifone_X7|
+|Trifone|X701|X701|X701|
 |Trimble Navigation|MM50|EE773X_4G|MobileMapper50_4G|
 |Trimble Navigation|MM50|EE773X_4G|TDC100_4G|
 |Trimble Navigation|MM50|EE773X_WiFi|MobileMapper50_WiFi|
