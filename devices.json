@@ -7380,6 +7380,36 @@
   "model": "S6"
  },
  {
+  "brand": "Ascom",
+  "name": "Ascom Myco 3",
+  "device": "ABAA",
+  "model": "Ascom Myco 3 Wi-Fi"
+ },
+ {
+  "brand": "Ascom",
+  "name": "Ascom Myco 3",
+  "device": "ABBA",
+  "model": "Ascom Myco 3 Wi-Fi EU"
+ },
+ {
+  "brand": "Ascom",
+  "name": "Ascom Myco 3",
+  "device": "ACAA",
+  "model": "Ascom Myco 3 Cellular Wi-Fi"
+ },
+ {
+  "brand": "Ascom",
+  "name": "Ascom Myco 3",
+  "device": "ACBA",
+  "model": "Ascom Myco 3 Cellular Wi-Fi EU"
+ },
+ {
+  "brand": "Ascom",
+  "name": "Ascom Myco 3",
+  "device": "ADAA",
+  "model": "Ascom Myco 3 DECT Wi-Fi"
+ },
+ {
   "brand": "Ascom Wireless Solutions",
   "name": "Ascom Myco 2 Cellular",
   "device": "ACBB",
@@ -7396,36 +7426,6 @@
   "name": "Ascom Myco 2 WiFi",
   "device": "ACBA",
   "model": "SH1"
- },
- {
-  "brand": "Ascom Wireless Solutions",
-  "name": "Ascom Myco 3",
-  "device": "ABAA",
-  "model": "Ascom Myco 3 Wi-Fi"
- },
- {
-  "brand": "Ascom Wireless Solutions",
-  "name": "Ascom Myco 3",
-  "device": "ABBA",
-  "model": "Ascom Myco 3 Wi-Fi EU"
- },
- {
-  "brand": "Ascom Wireless Solutions",
-  "name": "Ascom Myco 3",
-  "device": "ACAA",
-  "model": "Ascom Myco 3 Cellular Wi-Fi"
- },
- {
-  "brand": "Ascom Wireless Solutions",
-  "name": "Ascom Myco 3",
-  "device": "ACBA",
-  "model": "Ascom Myco 3 Cellular Wi-Fi EU"
- },
- {
-  "brand": "Ascom Wireless Solutions",
-  "name": "Ascom Myco 3",
-  "device": "ADAA",
-  "model": "Ascom Myco 3 DECT Wi-Fi"
  },
  {
   "brand": "Ascom Wireless Solutions",
@@ -33345,6 +33345,12 @@
   "brand": "Get",
   "name": "Get Box",
   "device": "dciw387get",
+  "model": "Get boX"
+ },
+ {
+  "brand": "Get",
+  "name": "Get Box",
+  "device": "dciw387get",
   "model": "Get box"
  },
  {
@@ -41446,6 +41452,12 @@
   "name": "i50",
   "device": "i50",
   "model": "Haier_i50"
+ },
+ {
+  "brand": "HaloBop (ShenZhen)",
+  "name": "BG001",
+  "device": "HelloGenius",
+  "model": "BG001"
  },
  {
   "brand": "Hamic",
@@ -57538,6 +57550,12 @@
   "name": "eco_s",
   "device": "eco_s",
   "model": "eco_s"
+ },
+ {
+  "brand": "IndiHome",
+  "name": "B860H V5.0",
+  "device": "B860HV5_Telkom",
+  "model": "B860H V5.0"
  },
  {
   "brand": "Inet-Tablet",
@@ -83005,6 +83023,12 @@
  },
  {
   "brand": "Medion",
+  "name": "LIFETAB E1070X",
+  "device": "E1070X",
+  "model": "LIFETAB E1070X"
+ },
+ {
+  "brand": "Medion",
   "name": "LIFETAB E723X",
   "device": "LIFETAB_E723X",
   "model": "LIFETAB_E723X"
@@ -97639,6 +97663,12 @@
  },
  {
   "brand": "Oppo",
+  "name": "Reno3",
+  "device": "OP4B9EL1",
+  "model": "CPH2043"
+ },
+ {
+  "brand": "Oppo",
   "name": "Reno3 5G \u4e2d\u56fd\u7248",
   "device": "OP4ADD",
   "model": "PDCM00"
@@ -107734,6 +107764,12 @@
   "name": "realme X2Pro",
   "device": "RMX1931L1",
   "model": "RMX1931"
+ },
+ {
+  "brand": "Realme",
+  "name": "realme X50 5G \u79fb\u52a8\u7248",
+  "device": "RMX2025CN",
+  "model": "RMX2025"
  },
  {
   "brand": "Realme",
@@ -124609,12 +124645,6 @@
  },
  {
   "brand": "Sharp",
-  "name": "4T-C50BL2EF2AB",
-  "device": "sindang",
-  "model": "AQUOS_TVE19A"
- },
- {
-  "brand": "Sharp",
   "name": "\"4T-C60AL1H",
   "device": "4T-C70AL1H\"",
   "model": "lc_xxeos5h"
@@ -125590,6 +125620,12 @@
   "name": "EB-WX1GJ/EB-W51GJ",
   "device": "Galapagos",
   "model": "EB-WX1GJ"
+ },
+ {
+  "brand": "Sharp",
+  "name": "EU",
+  "device": "sindang",
+  "model": "AQUOS_TVE19A"
  },
  {
   "brand": "Sharp",
@@ -127396,6 +127432,12 @@
   "name": "UHD2",
   "device": "IC1110",
   "model": "IC1110"
+ },
+ {
+  "brand": "SkyLife",
+  "name": "UHD_S56AT",
+  "device": "INTEKS19SS",
+  "model": "UHD_S56AT"
  },
  {
   "brand": "SkyLife",
@@ -132952,6 +132994,12 @@
   "name": "V98",
   "device": "V98",
   "model": "V98"
+ },
+ {
+  "brand": "Symphony",
+  "name": "V99",
+  "device": "V99",
+  "model": "V99"
  },
  {
   "brand": "Symphony",

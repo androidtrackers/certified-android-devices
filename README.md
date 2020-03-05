@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-03-04
+Last sync is 2020-03-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1235,14 +1235,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asanzo|ASANZO A2|ASANZO_A2|ASANZO A2|
 |Asanzo|S3 Plus|ASANZO_S3_PLUS|ASANZO_S3_PLUS|
 |Asanzo|S6|S6|S6|
+|Ascom|Ascom Myco 3|ABAA|Ascom Myco 3 Wi-Fi|
+|Ascom|Ascom Myco 3|ABBA|Ascom Myco 3 Wi-Fi EU|
+|Ascom|Ascom Myco 3|ACAA|Ascom Myco 3 Cellular Wi-Fi|
+|Ascom|Ascom Myco 3|ACBA|Ascom Myco 3 Cellular Wi-Fi EU|
+|Ascom|Ascom Myco 3|ADAA|Ascom Myco 3 DECT Wi-Fi|
 |Ascom Wireless Solutions|Ascom Myco 2 Cellular|ACBB|SH1|
 |Ascom Wireless Solutions|Ascom Myco 2 WiFi|ABBB|SH1|
 |Ascom Wireless Solutions|Ascom Myco 2 WiFi|ACBA|SH1|
-|Ascom Wireless Solutions|Ascom Myco 3|ABAA|Ascom Myco 3 Wi-Fi|
-|Ascom Wireless Solutions|Ascom Myco 3|ABBA|Ascom Myco 3 Wi-Fi EU|
-|Ascom Wireless Solutions|Ascom Myco 3|ACAA|Ascom Myco 3 Cellular Wi-Fi|
-|Ascom Wireless Solutions|Ascom Myco 3|ACBA|Ascom Myco 3 Cellular Wi-Fi EU|
-|Ascom Wireless Solutions|Ascom Myco 3|ADAA|Ascom Myco 3 DECT Wi-Fi|
 |Ascom Wireless Solutions|Ascom Myco Cellular|ACBA|SH1|
 |Ascom Wireless Solutions|Ascom Myco Cellular|myco_gms|SH1|
 |Ascom Wireless Solutions|Ascom Myco Wi-Fi|ABBA|SH1|
@@ -5562,6 +5562,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Geniora|GEN1|GEN1|GEN1|
 |Geo (GeoTechVision)|GEO10|GEO10|GEO10X|
 |Gesellschaft für SMK mBH|Tough Mobile|granite|CP600|
+|Get|Get Box|dciw387get|Get boX|
 |Get|Get Box|dciw387get|Get box|
 |Getac|MX50|mx50|MX50|
 |Getac|MX50|mx50|mx50|
@@ -6913,6 +6914,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|W860|W860|W860|
 |Haier|haier lesure L7|Haier_Leisure_L7|HM-N700-FL|
 |Haier|i50|i50|Haier_i50|
+|HaloBop (ShenZhen)|BG001|HelloGenius|BG001|
 |Hamic|POCKET|POCKET|POCKET|
 |Hamlet|Hamlet_XZPAD412W|XZPAD412W|Hamlet_XZPAD412W|
 |Hamlet|XZPAD412LTE|XZPAD412LTE|XZPAD412LTE|
@@ -9595,6 +9597,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Inco|MINI|MINI|MINI|
 |Inco|Rouge1|Rouge1|Rouge1|
 |Inco|eco_s|eco_s|eco_s|
+|IndiHome|B860H V5.0|B860HV5_Telkom|B860H V5.0|
 |Inet-Tablet|D711HC_PG|D711HC_PG|D711HC_PG|
 |Inet-Tablet|D7911L3BC_OGS|D7911L3BC_OGS|D7911L3BC_OGS|
 |Infinity|10.1-v2|Infinity-101-v2|Infinity-10.1-v2|
@@ -13839,6 +13842,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Medion|LIFETAB E10320|LIFETAB_E10320|MICROSTAR_E10319|
 |Medion|LIFETAB E1041X|E1041X|E1041X|
 |Medion|LIFETAB E1060X|E1060X|E1060X|
+|Medion|LIFETAB E1070X|E1070X|LIFETAB E1070X|
 |Medion|LIFETAB E723X|LIFETAB_E723X|LIFETAB_E723X|
 |Medion|LIFETAB E7313|LIFETAB_E7313|LIFETAB_E7313|
 |Medion|LIFETAB E7316|LIFETAB_E7316|LIFETAB_E7316|
@@ -16278,6 +16282,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno2 Z|OP4B65L1|CPH1945|
 |Oppo|Reno2 Z|OP4B65L1|CPH1951|
 |Oppo|Reno2 Z 中国版|OP4A43|PCKM80|
+|Oppo|Reno3|OP4B9EL1|CPH2043|
 |Oppo|Reno3 5G 中国版|OP4ADD|PDCM00|
 |Oppo|Reno3 Pro|OP4C5FL1|CPH2035|
 |Oppo|Reno3 Pro|OP4C5FL1|CPH2036|
@@ -17961,6 +17966,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme X2|RMX1993L1|RMX1993|
 |Realme|realme X2Pro|RMX1931CN|RMX1931|
 |Realme|realme X2Pro|RMX1931L1|RMX1931|
+|Realme|realme X50 5G 移动版|RMX2025CN|RMX2025|
 |Realme|realme XT|RMX1921|RMX1921|
 |Realme|realme XT|RMX1921L1|RMX1921|
 |Realme|realme XT|RMX1922|RMX1922|
@@ -20773,7 +20779,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|4T-C50BJ8T|gangnam|TVX19B|
 |Sharp|4T-C50BK1X|gangnam|AQUOS-TVX19B|
 |Sharp|4T-C50BK1X|jamsil|AQUOS-TVX19D|
-|Sharp|4T-C50BL2EF2AB|sindang|AQUOS_TVE19A|
 |Sharp|"4T-C60AL1H|4T-C70AL1H"|lc_xxeos5h|
 |Sharp|"4T-C60AM1H|4T-C70AM1H"|lc_xxdem6h|
 |Sharp|"4T-C60ANAA|4T-C70ANAA|4T-C60ASAA|
@@ -20937,6 +20942,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|EB-A71GJ|EB-A71GJ|EB-A71GJ|
 |Sharp|EB-WX1GJ/EB-W51GJ|Galapagos|EB-W51GJ|
 |Sharp|EB-WX1GJ/EB-W51GJ|Galapagos|EB-WX1GJ|
+|Sharp|EU|sindang|AQUOS_TVE19A|
 |Sharp|FS8014|SE3|FS8014|
 |Sharp|GALAPAGOS SoftBank 003SH|SBM003SH|SBM003SH|
 |Sharp|GALAPAGOS SoftBank 005SH|SBM005SH|SBM005SH|
@@ -21238,6 +21244,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|pro selfie|PRO_SELFIE|PRO_SELFIE|
 |SkyLife|Skylife android 2nd TV|DMTS18SS|USI-7000NA|
 |SkyLife|UHD2|IC1110|IC1110|
+|SkyLife|UHD_S56AT|INTEKS19SS|UHD_S56AT|
 |SkyLife|skylife LTE TV|DMTS17SS|DMT_1621|
 |Skyview|M5|M5|M5|
 |Skyworth|APAC|SW3H_ATV|SWTV|
@@ -22164,6 +22171,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|V96|V96|V96|
 |Symphony|V97|V97|V97|
 |Symphony|V98|V98|V98|
+|Symphony|V99|V99|V99|
 |Symphony|V99+|V99plus|V99+|
 |Symphony|Z10|Z10|SYMPHONY Z10|
 |Symphony|Z15|Z15|Z15|
