@@ -2856,6 +2856,30 @@
   "model": "DV8535"
  },
  {
+  "brand": "Airpha",
+  "name": "Halo3_Pro",
+  "device": "Halo3",
+  "model": "Halo3"
+ },
+ {
+  "brand": "Airpha",
+  "name": "Halo3_Pro",
+  "device": "Halo3_Pro",
+  "model": "Halo3_Pro"
+ },
+ {
+  "brand": "Airpha",
+  "name": "Sense2",
+  "device": "Sense2",
+  "model": "Sense2"
+ },
+ {
+  "brand": "Airpha",
+  "name": "Sense2_Pro",
+  "device": "Sense2_Pro",
+  "model": "Sense2_Pro"
+ },
+ {
   "brand": "Airtab",
   "name": "AT8-N",
   "device": "AT8-N",
@@ -17047,6 +17071,18 @@
  },
  {
   "brand": "CORN",
+  "name": "R20",
+  "device": "R20",
+  "model": "CORN R20"
+ },
+ {
+  "brand": "CORN",
+  "name": "R60",
+  "device": "R60",
+  "model": "CORN R60"
+ },
+ {
+  "brand": "CORN",
   "name": "Star7_3G",
   "device": "Star7_3G",
   "model": "Star7 3G"
@@ -17650,6 +17686,12 @@
   "name": "Cat S41",
   "device": "CatS41",
   "model": "S41"
+ },
+ {
+  "brand": "Cat",
+  "name": "Cat S42",
+  "device": "S42",
+  "model": "S42"
  },
  {
   "brand": "Cat",
@@ -54781,30 +54823,6 @@
  },
  {
   "brand": "Huawei",
-  "name": "nova 5",
-  "device": "HWSEA",
-  "model": "SEA-AL00"
- },
- {
-  "brand": "Huawei",
-  "name": "nova 5",
-  "device": "HWSEA",
-  "model": "SEA-TL00"
- },
- {
-  "brand": "Huawei",
-  "name": "nova 5 Pro",
-  "device": "HWSEA-A",
-  "model": "SEA-AL10"
- },
- {
-  "brand": "Huawei",
-  "name": "nova 5 Pro",
-  "device": "HWSEA-A",
-  "model": "SEA-TL10"
- },
- {
-  "brand": "Huawei",
   "name": "nova 5i",
   "device": "HWGLK",
   "model": "GLK-AL00"
@@ -63196,6 +63214,18 @@
   "name": "A8",
   "device": "A8",
   "model": "A8M"
+ },
+ {
+  "brand": "Kenxinda",
+  "name": "A9",
+  "device": "A9",
+  "model": "A9"
+ },
+ {
+  "brand": "Kenxinda",
+  "name": "D58",
+  "device": "D58",
+  "model": "D58"
  },
  {
   "brand": "Kenxinda",
@@ -77332,6 +77362,12 @@
   "name": "Lenovo N Series Chromebook",
   "device": "reks_cheets",
   "model": "Braswell Chrome OS Device"
+ },
+ {
+  "brand": "Lenovo",
+  "name": "Lenovo N Series Chromebook",
+  "device": "reks_cheets",
+  "model": "Intel Braswell Chromebook"
  },
  {
   "brand": "Lenovo",
@@ -154684,6 +154720,12 @@
   "name": "M631Y",
   "device": "M631Y",
   "model": "M631Y"
+ },
+ {
+  "brand": "Yes",
+  "name": "SEI500Y",
+  "device": "SEI500Y",
+  "model": "yes"
  },
  {
   "brand": "Yes",

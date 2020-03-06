@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-03-05
+Last sync is 2020-03-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -481,6 +481,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ainol|Q88A_EEA|Q88A_EEA|Q88A|
 |AirTV|AirTV Mini|kunlun|AirTV Mini|
 |AirTV|DV8535|DV8535|DV8535|
+|Airpha|Halo3_Pro|Halo3|Halo3|
+|Airpha|Halo3_Pro|Halo3_Pro|Halo3_Pro|
+|Airpha|Sense2|Sense2|Sense2|
+|Airpha|Sense2_Pro|Sense2_Pro|Sense2_Pro|
 |Airtab|AT8-N|AT8-N|AT8-N|
 |Airtel|HP2707|AirtelOTTBox|HP2707|
 |Airtel|SH960S-AT|ganesa|SH960S-AT|
@@ -2846,6 +2850,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CORN|C5|C5|C5|
 |CORN|C55|C55|C55|
 |CORN|CORN C10|CORN_C10|C10|
+|CORN|R20|R20|CORN R20|
+|CORN|R60|R60|CORN R60|
 |CORN|Star7_3G|Star7_3G|Star7 3G|
 |CP Plus|CP-MUD-M721|CP-MUD-M721|CP-MUD-M721|
 |CX Argentina|CX9011|CX9011|CX9011|
@@ -2947,6 +2953,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cat|B15Q|CatB15Q|B15Q|
 |Cat|Cat S31|CatS31|S31|
 |Cat|Cat S41|CatS41|S41|
+|Cat|Cat S42|S42|S42|
 |Cat|Cat S48c|CatS48c|S48c|
 |Cat|Cat S52|CatS52|S52|
 |Cat|Cat S61|CatS61|S61|
@@ -9135,10 +9142,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|nova 4|HWVCE|VCE-TL00|
 |Huawei|nova 4e|HWMAR|MAR-AL00|
 |Huawei|nova 4e|HWMAR|MAR-TL00|
-|Huawei|nova 5|HWSEA|SEA-AL00|
-|Huawei|nova 5|HWSEA|SEA-TL00|
-|Huawei|nova 5 Pro|HWSEA-A|SEA-AL10|
-|Huawei|nova 5 Pro|HWSEA-A|SEA-TL10|
 |Huawei|nova 5i|HWGLK|GLK-AL00|
 |Huawei|nova lite|HWPRA-H|PRA-LX2|
 |Huawei|nova lite|HWPRA-H|PRA-LX3|
@@ -10538,6 +10541,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kenwood|KWSA80K|XP8800|KWSA80K|
 |Kenxinda|A1|A1|A1|
 |Kenxinda|A8|A8|A8M|
+|Kenxinda|A9|A9|A9|
+|Kenxinda|D58|D58|D58|
 |Kenxinda|K10|K10|K10|
 |Kenxinda|K20M|K20M|K20M|
 |Kenxinda|K30M|K30M|K30M|
@@ -12894,6 +12899,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo K9|K9|Lenovo L38043|
 |Lenovo|Lenovo Mirage Solo|vega|VR-1541F|
 |Lenovo|Lenovo N Series Chromebook|reks_cheets|Braswell Chrome OS Device|
+|Lenovo|Lenovo N Series Chromebook|reks_cheets|Intel Braswell Chromebook|
 |Lenovo|Lenovo N Series Chromebook|reks_cheets|Lenovo Intel Braswell Chromebook|
 |Lenovo|Lenovo N300|Lindos2|Lenovo N300|
 |Lenovo|Lenovo PHAB2|PB2|Lenovo PB2-650M|
@@ -25786,6 +25792,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Yekani|T3A Trend|T3A_Trend|Trend|
 |Yes|Altitude 2|M651G_MY|M651G_MY|
 |Yes|M631Y|M631Y|M631Y|
+|Yes|SEI500Y|SEI500Y|yes|
 |Yes|STING|dwi765yes|STING|
 |YesTeL|Note_30_pro|Note_30_pro|Note 30 pro|
 |YesTeL|X7_EEA|X7_EEA|X7_EEA|
