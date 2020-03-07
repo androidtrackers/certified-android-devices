@@ -137379,7 +137379,19 @@
   "brand": "TCT (Alcatel)",
   "name": "Alcatel 1SE",
   "device": "Jakarta",
+  "model": "5030D"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1SE",
+  "device": "Jakarta",
   "model": "5030D_EEA"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 1SE",
+  "device": "Jakarta",
+  "model": "5030D_RU"
  },
  {
   "brand": "TCT (Alcatel)",

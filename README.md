@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-03-06
+Last sync is 2020-03-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -22901,7 +22901,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1S|Tokyo|5028Y_EEA|
 |TCT (Alcatel)|Alcatel 1S|Tokyo|5028Y_RU|
 |TCT (Alcatel)|Alcatel 1S|Tokyo_CAN|5007O|
+|TCT (Alcatel)|Alcatel 1SE|Jakarta|5030D|
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030D_EEA|
+|TCT (Alcatel)|Alcatel 1SE|Jakarta|5030D_RU|
 |TCT (Alcatel)|Alcatel 1T 7 WIFI|U3A_7_WIFI|8068|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007A|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007G|
