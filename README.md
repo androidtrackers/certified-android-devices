@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-03-08
+Last sync is 2020-03-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4143,6 +4143,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DigiLand|TPC-705Kids_EEA|MID7015A-MK|TPC-705Kids|
 |DigiLand|ismart|MID1016-MK|MID1016-MK|
 |Digicel|DL3|DL3|DL3|
+|Digicel|DL3Plus|DL3Plus|DL3Plus|
 |Digicel|DL3_3G|DL3_3G|DL3_3G|
 |Digicel|DL501|DL501|DL501|
 |Digicel|Digi K1|Digi_K1|Digi_K1|
@@ -4555,6 +4556,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EONSmartBox|SDOTT0202|DV8519|SDOTT0202|
 |EPIKONE|K400|K400|K400|
 |EPIKONE|K405|K405|K405|
+|EPIKONE|K406|K406|K406|
 |EPIKONE|K500|K500|K500|
 |EPIKONE|K501|K501|K501|
 |EPIKONE|K501_Plus|K501_Plus|K501 Plus|
@@ -4580,6 +4582,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EPIKONE|X507|X507|X507|
 |EPIKONE|X507T|X507T|X507T|
 |EPIKONE|X572|X572|X572|
+|EPIKONE|X610|X610|X610|
 |EPIKONE|k503|K503|K503|
 |ESI Enterprises|CKT3|CKT3|CKT3|
 |ESI Enterprises|DT101Bv51|DT101Bv51|DT101Bv51|
@@ -9958,7 +9961,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Invens|F1|F1|F1|
 |Invens|F2|F2|F2|
 |Invens|Fighter|Fighter|Fighter|
+|Invens|K1|K1|K1|
 |Invens|MAX3|MAX3|MAX3|
+|Invens|MAX5|MAX5|MAX5|
 |Invens|MAX8|MAX8|MAX8|
 |Invens|MAX9|MAX9|MAX9|
 |Invens|MAX_1|MAX_1|MAX_1|
@@ -22960,6 +22965,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 3L|TokyoPro|5029Y|
 |TCT (Alcatel)|Alcatel 3L|TokyoPro|5029Y_EEA|
 |TCT (Alcatel)|Alcatel 3L|TokyoPro|5029Y_RU|
+|TCT (Alcatel)|Alcatel 3L|TokyoPro|HEYOU60|
 |TCT (Alcatel)|Alcatel 3T 10|A3A_10_4G|8088M|
 |TCT (Alcatel)|Alcatel 3T 8|A3A_8_4G|9027F|
 |TCT (Alcatel)|Alcatel 3T 8|A3A_8_4G|9027Q|

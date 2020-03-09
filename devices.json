@@ -24829,6 +24829,12 @@
  },
  {
   "brand": "Digicel",
+  "name": "DL3Plus",
+  "device": "DL3Plus",
+  "model": "DL3Plus"
+ },
+ {
+  "brand": "Digicel",
   "name": "DL3_3G",
   "device": "DL3_3G",
   "model": "DL3_3G"
@@ -27301,6 +27307,12 @@
  },
  {
   "brand": "EPIKONE",
+  "name": "K406",
+  "device": "K406",
+  "model": "K406"
+ },
+ {
+  "brand": "EPIKONE",
   "name": "K500",
   "device": "K500",
   "model": "K500"
@@ -27448,6 +27460,12 @@
   "name": "X572",
   "device": "X572",
   "model": "X572"
+ },
+ {
+  "brand": "EPIKONE",
+  "name": "X610",
+  "device": "X610",
+  "model": "X610"
  },
  {
   "brand": "EPIKONE",
@@ -59719,9 +59737,21 @@
  },
  {
   "brand": "Invens",
+  "name": "K1",
+  "device": "K1",
+  "model": "K1"
+ },
+ {
+  "brand": "Invens",
   "name": "MAX3",
   "device": "MAX3",
   "model": "MAX3"
+ },
+ {
+  "brand": "Invens",
+  "name": "MAX5",
+  "device": "MAX5",
+  "model": "MAX5"
  },
  {
   "brand": "Invens",
@@ -137728,6 +137758,12 @@
   "name": "Alcatel 3L",
   "device": "TokyoPro",
   "model": "5029Y_RU"
+ },
+ {
+  "brand": "TCT (Alcatel)",
+  "name": "Alcatel 3L",
+  "device": "TokyoPro",
+  "model": "HEYOU60"
  },
  {
   "brand": "TCT (Alcatel)",
