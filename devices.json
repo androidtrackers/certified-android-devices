@@ -21601,6 +21601,12 @@
  },
  {
   "brand": "Coolpad",
+  "name": "Coolpad 3706AS",
+  "device": "apollo",
+  "model": "CP3706AS"
+ },
+ {
+  "brand": "Coolpad",
   "name": "Coolpad 5370_I00",
   "device": "CoolpadE2",
   "model": "coolpad E2"
@@ -23964,6 +23970,12 @@
   "model": "T84G"
  },
  {
+  "brand": "Datamini",
+  "name": "TPOS74G-IGF720",
+  "device": "TPOS74G-IGF720",
+  "model": "TPOS74G-IGF720"
+ },
+ {
   "brand": "Datsun",
   "name": "D5000",
   "device": "D5000",
@@ -24622,6 +24634,12 @@
   "name": "CompumaxBlue",
   "device": "mid1024_e",
   "model": "Compumax_Blue_6030-805-0001"
+ },
+ {
+  "brand": "DigiLand",
+  "name": "DC-7015",
+  "device": "MID7015A-MK",
+  "model": "DC-7015"
  },
  {
   "brand": "DigiLand",
@@ -25729,6 +25747,12 @@
  },
  {
   "brand": "DishTV-NZ",
+  "name": "A7070",
+  "device": "STB",
+  "model": "A7070"
+ },
+ {
+  "brand": "DishTV-NZ",
   "name": "SV10",
   "device": "HiCast",
   "model": "SV10"
@@ -26275,6 +26299,12 @@
  },
  {
   "brand": "Doogee",
+  "name": "X95",
+  "device": "X95",
+  "model": "X95"
+ },
+ {
+  "brand": "Doogee",
   "name": "X9S",
   "device": "X9S",
   "model": "X9S"
@@ -26716,6 +26746,12 @@
   "name": "NotePad_101_B",
   "device": "NotePad_101_B",
   "model": "NotePad_101_B"
+ },
+ {
+  "brand": "Dragontouch",
+  "name": "NotePad_101_B_EEA",
+  "device": "NotePad_101_B",
+  "model": "NotePad_101_B_EEA"
  },
  {
   "brand": "Dragontouch",
@@ -45356,6 +45392,12 @@
  {
   "brand": "Hisense",
   "name": "VIDAA_TV",
+  "device": "Hi3751v351",
+  "model": "VIDAA_TV"
+ },
+ {
+  "brand": "Hisense",
+  "name": "VIDAA_TV",
   "device": "Hi3751v551",
   "model": "VIDAA_TV"
  },
@@ -46047,6 +46089,18 @@
   "brand": "Honeywell",
   "name": "CT40",
   "device": "CT40-L1-C",
+  "model": "CT40"
+ },
+ {
+  "brand": "Honeywell",
+  "name": "CT40P",
+  "device": "CT40P-L1-D",
+  "model": "CT40"
+ },
+ {
+  "brand": "Honeywell",
+  "name": "CT40P-L0-D",
+  "device": "CT40P-L0-D",
   "model": "CT40"
  },
  {
@@ -62542,6 +62596,12 @@
   "name": "SP3",
   "device": "SP3",
   "model": "SP3"
+ },
+ {
+  "brand": "KONKA",
+  "name": "SP5",
+  "device": "SP5",
+  "model": "SP5"
  },
  {
   "brand": "KONKA",
@@ -79602,6 +79662,12 @@
   "model": "LPT_201AR"
  },
  {
+  "brand": "Life Stick",
+  "name": "LifeStick",
+  "device": "ts201",
+  "model": "LifeStick"
+ },
+ {
   "brand": "Life mobile",
   "name": "LM1",
   "device": "LM1",
@@ -82522,6 +82588,18 @@
   "name": "Gravity_5_GO",
   "device": "Gravity_5_GO",
   "model": "Gravity_5_GO"
+ },
+ {
+  "brand": "Maxwest",
+  "name": "Gravity_6P",
+  "device": "Gravity_6P",
+  "model": "Gravity_6P"
+ },
+ {
+  "brand": "Maxwest",
+  "name": "Gravity_6P_Plus",
+  "device": "Gravity_6P_Plus",
+  "model": "Gravity_6P_Plus"
  },
  {
   "brand": "Maxwest",
@@ -90187,6 +90265,12 @@
  },
  {
   "brand": "Mpman",
+  "name": "PH60",
+  "device": "PH60",
+  "model": "PH60"
+ },
+ {
+  "brand": "Mpman",
   "name": "PH604",
   "device": "PH604",
   "model": "PH604"
@@ -95602,6 +95686,18 @@
   "name": "DP-X1A",
   "device": "Rai_Zin2R_64",
   "model": "DP-X1A"
+ },
+ {
+  "brand": "Onn (Walmart)",
+  "name": "\tonn_100003561",
+  "device": "mid8011",
+  "model": "100003561"
+ },
+ {
+  "brand": "Onn (Walmart)",
+  "name": "100003562",
+  "device": "mid1035_mq",
+  "model": "100003562"
  },
  {
   "brand": "Onn (Walmart)",
@@ -102420,6 +102516,18 @@
   "model": "PM90"
  },
  {
+  "brand": "Point of view",
+  "name": "PVT-R78-3288",
+  "device": "PVT-R78-3288",
+  "model": "PVT-R78-3288"
+ },
+ {
+  "brand": "Point of view",
+  "name": "TAB-PTDF-116",
+  "device": "TAB-PTDF-116",
+  "model": "TAB-PTDF-116"
+ },
+ {
   "brand": "PointMobile",
   "name": "PM451",
   "device": "PM451",
@@ -106723,6 +106831,12 @@
  },
  {
   "brand": "Qsmart",
+  "name": "View Max",
+  "device": "View_Max",
+  "model": "View Max"
+ },
+ {
+  "brand": "Qsmart",
   "name": "i10 2019",
   "device": "i10_2019",
   "model": "i10 2019"
@@ -107596,6 +107710,12 @@
   "name": "Glam",
   "device": "Glam",
   "model": "Glam"
+ },
+ {
+  "brand": "RT Project",
+  "name": "SHOCK6",
+  "device": "SHOCK6",
+  "model": "SHOCK6"
  },
  {
   "brand": "RT Project",
@@ -115402,6 +115522,18 @@
   "name": "Galaxy M10s",
   "device": "m10s",
   "model": "SM-M107F"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy M11",
+  "device": "m11q",
+  "model": "SM-M115F"
+ },
+ {
+  "brand": "Samsung",
+  "name": "Galaxy M11",
+  "device": "m11q",
+  "model": "SM-M115M"
  },
  {
   "brand": "Samsung",
@@ -124039,7 +124171,7 @@
  },
  {
   "brand": "Samsung",
-  "name": "\u4e09\u661fW20 5G",
+  "name": "\u4e09\u661fW20",
   "device": "zodiac",
   "model": "SM-W2020"
  },
@@ -140916,6 +141048,12 @@
   "model": "TOP10"
  },
  {
+  "brand": "TONE",
+  "name": "TONE e20",
+  "device": "TONE_e20",
+  "model": "TONE e20"
+ },
+ {
   "brand": "TOPELOTEK",
   "name": "KIDS708",
   "device": "KIDS708",
@@ -141274,6 +141412,12 @@
   "name": "TTBKB10-01",
   "device": "TTBKB10-01",
   "model": "Tanoshi 2-in-1"
+ },
+ {
+  "brand": "TataSky",
+  "name": "Tata Sky Binge Plus",
+  "device": "usw4026tat",
+  "model": "Tata Sky Binge Plus"
  },
  {
   "brand": "TazTag",
@@ -154771,15 +154915,15 @@
  },
  {
   "brand": "Yes",
-  "name": "SEI500Y",
-  "device": "SEI500Y",
-  "model": "yes"
- },
- {
-  "brand": "Yes",
   "name": "STING",
   "device": "dwi765yes",
   "model": "STING"
+ },
+ {
+  "brand": "Yes",
+  "name": "yes",
+  "device": "SEI500Y",
+  "model": "yes"
  },
  {
   "brand": "YesTeL",
@@ -154858,6 +155002,12 @@
   "name": "YotaPhone2",
   "device": "yotaphone2",
   "model": "YD201"
+ },
+ {
+  "brand": "Yuho",
+  "name": "Candy",
+  "device": "Candy",
+  "model": "Candy"
  },
  {
   "brand": "Yuho",
