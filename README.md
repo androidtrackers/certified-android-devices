@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-03-10
+Last sync is 2020-03-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -746,6 +746,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Allfine|PC1038Q|fine10_Joy|PC1038Q|
 |Allouette|PSY7020SKD|PSY7020SKD|PSY7020SKD|
 |Alphascan|SAT2242 WorkTab|ADP_WW|G2SMNT|
+|Altice|ALTICE S43|S43|S43|
 |Altice|ALTICE S60|S60|S60|
 |Altice|ALTICE S70|S70|S70|
 |Altice|AlTICE S11|S11|S11|
@@ -5893,6 +5894,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gol Mobile|Team_7|Team_7|Team 7.0|
 |Goldmaster|BENGAL_6|BENGAL_6|BENGAL_6|
 |Goldmaster|F_4|F_4|F_4|
+|Goldtech|GT10-B16|GT10-B16|GT10-B16|
 |Goldtech|GT7-B16|GT7-B16|GT7-B16|
 |Gome|GOME C7|GOME_C7|GOME_2018X07A|
 |Gome|GOME C7 Note mini|GOME_C7_Note_Mini|GOME_C7_Note|
@@ -10592,6 +10594,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kinetic|RSTV-A4K-16|DV8219|RSTV-A4K-16|
 |Kingcomm|C500|C500|Kingcomm C500|
 |Kingcomm|E550|E550|Kingcomm E550|
+|Kinstone|SA070|Kinstone_SA070|SA070|
 |Kioto|MID1021|MID1021|MID1021|
 |Kioto|MID1028|MID1028|MID1028|
 |Kioto|MID1036|MID1036|MID1036|
@@ -20405,6 +20408,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S6 5G|gts6x|SM-T866N|
 |Samsung|Galaxy Tab S6 Lite|gta4xl|SM-P615|
 |Samsung|Galaxy Tab S6 Lite|gta4xlwifi|SM-P610|
+|Samsung|Galaxy Tab S6 Lite|gta4xlwifi|SM-P610X|
 |Samsung|Galaxy Tab2 10.1|espresso10att|SAMSUNG-SGH-I497|
 |Samsung|Galaxy Tab2 10.1|espresso10can|SGH-I497|
 |Samsung|Galaxy Tab2 10.1|espresso10rf|GT-P5100|
@@ -24349,6 +24353,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unonu|X4G|X4G|UNONU X4G|
 |Unonu|X4G|X4G|X4G|
 |Uphone|SPURT R3|SPURT_R3|SPURT R3|
+|Upserve|5-Inches|5-Inches|5-Inches|
 |Urovo|DT40|DT40|DT40|
 |Urovo|DT50|DT50|DT50|
 |Urovo|P8100|P8100|P8100|
@@ -24712,6 +24717,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Virzo|V501C|V501C|V501C|
 |Virzo|V505c|V505c|V505c|
 |Virzo|VT701|VT701|VT701|
+|Vision Technology|Android TV|R1|ATV R1|
+|Vision Technology|Android TV|R2|ATV R2|
 |Visiontech|PVT-8-A50-R1|PVT-8-A50-R1|PVT-8-A50-R1|
 |Visiontouch|Inspire|VisionTouchInspire|Vision Touch Inspire|
 |Visiontouch|Life|VisionTouchLife|VisionTouchLife|

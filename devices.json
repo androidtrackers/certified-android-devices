@@ -4447,6 +4447,12 @@
  },
  {
   "brand": "Altice",
+  "name": "ALTICE S43",
+  "device": "S43",
+  "model": "S43"
+ },
+ {
+  "brand": "Altice",
   "name": "ALTICE S60",
   "device": "S60",
   "model": "S60"
@@ -35329,6 +35335,12 @@
  },
  {
   "brand": "Goldtech",
+  "name": "GT10-B16",
+  "device": "GT10-B16",
+  "model": "GT10-B16"
+ },
+ {
+  "brand": "Goldtech",
   "name": "GT7-B16",
   "device": "GT7-B16",
   "model": "GT7-B16"
@@ -63520,6 +63532,12 @@
   "name": "E550",
   "device": "E550",
   "model": "Kingcomm E550"
+ },
+ {
+  "brand": "Kinstone",
+  "name": "SA070",
+  "device": "Kinstone_SA070",
+  "model": "SA070"
  },
  {
   "brand": "Kioto",
@@ -122401,6 +122419,12 @@
  },
  {
   "brand": "Samsung",
+  "name": "Galaxy Tab S6 Lite",
+  "device": "gta4xlwifi",
+  "model": "SM-P610X"
+ },
+ {
+  "brand": "Samsung",
   "name": "Galaxy Tab2 10.1",
   "device": "espresso10att",
   "model": "SAMSUNG-SGH-I497"
@@ -146064,6 +146088,12 @@
   "model": "SPURT R3"
  },
  {
+  "brand": "Upserve",
+  "name": "5-Inches",
+  "device": "5-Inches",
+  "model": "5-Inches"
+ },
+ {
   "brand": "Urovo",
   "name": "DT40",
   "device": "DT40",
@@ -148240,6 +148270,18 @@
   "name": "VT701",
   "device": "VT701",
   "model": "VT701"
+ },
+ {
+  "brand": "Vision Technology",
+  "name": "Android TV",
+  "device": "R1",
+  "model": "ATV R1"
+ },
+ {
+  "brand": "Vision Technology",
+  "name": "Android TV",
+  "device": "R2",
+  "model": "ATV R2"
  },
  {
   "brand": "Visiontech",
