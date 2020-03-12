@@ -11,6 +11,95 @@ GIT_OAUTH_TOKEN = environ['GIT_OAUTH_TOKEN_XFU']
 BOT_TOKEN = environ['bottoken']
 TODAY = str(date.today())
 
+BY_DEVICE = {}
+BY_MODEL = {}
+BY_BRAND = {}
+BY_NAME = {}
+
+
+def save_data(data_list):
+    """Save Data to various files"""
+    markdown = open('README.md', 'w', encoding="utf-8")
+    markdown.write('# Google Play Certified Android devices\n')
+    markdown.write('Last sync is {}\n\nhttps://support.google.com/googleplay/'
+                   'answer/1727131?hl=en\n\n'.format(TODAY))
+    markdown.write('|Retail Branding|Marketing Name|Device|Model|\n')
+    markdown.write('|---|---|---|---|\n')
+    for line in data_list[1:]:
+        i = line.strip().split(",")
+        try:
+            brand = i[0].strip()
+            name = i[1].strip()
+            device = i[2].strip()
+            model = i[3].strip()
+            markdown.write('|{}|{}|{}|{}|\n'.format(brand, name, device, model))
+            add_device(brand, name, device, model)
+            add_model(brand, name, device, model)
+            add_brand(brand, name, device, model)
+            add_name(brand, name, device, model)
+        except IndexError:
+            pass
+    with open("by_device.json", "w") as json_file:
+        json.dump(BY_DEVICE, json_file, indent=1, ensure_ascii=False)
+    with open("by_model.json", "w") as json_file:
+        json.dump(BY_MODEL, json_file, indent=1, ensure_ascii=False)
+    with open("by_brand.json", "w") as json_file:
+        json.dump(BY_BRAND, json_file, indent=1, ensure_ascii=False)
+    with open("by_name.json", "w") as json_file:
+        json.dump(BY_NAME, json_file, indent=1, ensure_ascii=False)
+
+
+def add_device(brand, name, device, model):
+    """add device to devices dict"""
+    try:
+        updated = BY_DEVICE[device] + [{'brand': brand, 'name': name, 'model': model}]
+        BY_DEVICE.update({
+            device: updated
+        })
+    except KeyError:
+        BY_DEVICE.update({
+            device: [{'brand': brand, 'name': name, 'model': model}]
+        })
+
+
+def add_model(brand, name, device, model):
+    """add device to models dict"""
+    try:
+        updated = BY_MODEL[model] + [{'brand': brand, 'name': name, 'device': device}]
+        BY_MODEL.update({
+            model: updated
+        })
+    except KeyError:
+        BY_MODEL.update({
+            model: [{'brand': brand, 'name': name, 'device': device}]
+        })
+
+
+def add_brand(brand, name, device, model):
+    """add device to brand dict"""
+    try:
+        updated = BY_BRAND[brand] + [{'device': device, 'name': name, 'model': model}]
+        BY_BRAND.update({
+            brand: updated
+        })
+    except KeyError:
+        BY_BRAND.update({
+            brand: [{'device': device, 'name': name, 'model': model}]
+        })
+
+
+def add_name(brand, name, device, model):
+    """add device to names dict"""
+    try:
+        updated = BY_NAME[name] + [{'brand': brand, 'device': device, 'model': model}]
+        BY_NAME.update({
+            name: updated
+        })
+    except KeyError:
+        BY_NAME.update({
+            name: [{'brand': brand, 'device': device, 'model': model}]
+        })
+
 
 def fetch():
     """
@@ -20,26 +109,7 @@ def fetch():
     response = get(url)
     data = (response.content.decode('utf-16'))
     data_list = list(data.split('\n'))
-    with open('README.md', 'w', encoding="utf-8") as markdown,\
-            open('devices.json', 'w') as json_out:
-        markdown.write('# Google Play Certified Android devices\n')
-        markdown.write('Last sync is {}\n\nhttps://support.google.com/googleplay/'
-                       'answer/1727131?hl=en\n\n'.format(TODAY))
-        markdown.write('|Retail Branding|Marketing Name|Device|Model|\n')
-        markdown.write('|---|---|---|---|\n')
-        devices = []
-        for line in data_list[1:]:
-            i = line.strip().replace("  ", " ").split(",")
-            try:
-                brand = i[0]
-                name = i[1]
-                device = i[2]
-                model = i[3]
-                markdown.write('|{}|{}|{}|{}|\n'.format(brand, name, device, model))
-                devices.append({'brand': brand, 'name': name, 'device': device, 'model': model})
-            except IndexError:
-                pass
-        json.dump(devices, json_out, indent=1)
+    return data_list
 
 
 def diff_files():
@@ -71,10 +141,10 @@ def post_to_tg():
             codename = info[3]
             model = info[4]
             telegram_message = f"New certified device added!: \n" \
-                f"Brand: *{brand}*\n" \
-                f"Name: *{name}*\n" \
-                f"*Codename:* `{codename}`\n" \
-                f"Model: *{model}*"
+                               f"Brand: *{brand}*\n" \
+                               f"Name: *{name}*\n" \
+                               f"*Codename:* `{codename}`\n" \
+                               f"Model: *{model}*"
             params = (
                 ('chat_id', telegram_chat),
                 ('text', telegram_message),
@@ -94,7 +164,7 @@ def git_commit_push():
     """
     git add - git commit - git push
     """
-    system("git add README.md devices.json && git -c \"user.name=XiaomiFirmwareUpdater\" "
+    system("git add README.md *.json && git -c \"user.name=XiaomiFirmwareUpdater\" "
            "-c \"user.email=xiaomifirmwareupdater@gmail.com\" "
            "commit -m \"[skip ci] sync: {0}\" && "" \
            ""git push -q https://{1}@github.com/androidtrackers/"
@@ -108,7 +178,8 @@ def main():
     """
     if path.exists('README.md'):
         rename('README.md', 'old.md')
-    fetch()
+    data_list = fetch()
+    save_data(data_list)
     diff_files()
     post_to_tg()
     git_commit_push()
