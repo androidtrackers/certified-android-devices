@@ -39007,6 +39007,11 @@
    "model": "K5"
   },
   {
+   "brand": "Oppo",
+   "device": "OP4AA7",
+   "model": "PCNM00"
+  },
+  {
    "brand": "Oukitel",
    "device": "K5",
    "model": "K5"
@@ -66681,13 +66686,6 @@
    "model": "MAR-TL00"
   }
  ],
- "nova 5i": [
-  {
-   "brand": "Huawei",
-   "device": "HWGLK",
-   "model": "GLK-AL00"
-  }
- ],
  "nova lite": [
   {
    "brand": "Huawei",
@@ -77747,6 +77745,13 @@
    "brand": "LEVEL TV",
    "device": "osaki",
    "model": "2K AI Smart TV"
+  }
+ ],
+ "EY-TAB8161G": [
+  {
+   "brand": "LEYO",
+   "device": "EY-TAB8161G",
+   "model": "EY-TAB8161G"
   }
  ],
  "070 touch": [
@@ -95696,6 +95701,11 @@
    "brand": "Micromax",
    "device": "A91",
    "model": "Micromax A91"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP4ACF",
+   "model": "PCPM00"
   }
  ],
  "B5 Pro": [
@@ -107437,6 +107447,13 @@
    "model": "A11f"
   }
  ],
+ "A11n中国版": [
+  {
+   "brand": "Oppo",
+   "device": "OP4A54",
+   "model": "PCHM00"
+  }
+ ],
  "A11t": [
   {
    "brand": "Oppo",
@@ -108279,6 +108296,39 @@
    "brand": "Oppo",
    "device": "PAHM00",
    "model": "PAHM00"
+  }
+ ],
+ "Find X2": [
+  {
+   "brand": "Oppo",
+   "device": "OP4BA1L1",
+   "model": "CPH2023"
+  }
+ ],
+ "Find X2 Pro": [
+  {
+   "brand": "Oppo",
+   "device": "OP4BA2L1",
+   "model": "CPH2025"
+  }
+ ],
+ "Find X2 Pro 中国版": [
+  {
+   "brand": "Oppo",
+   "device": "OP4A7A",
+   "model": "PDEM30"
+  }
+ ],
+ "Find X2 中国版": [
+  {
+   "brand": "Oppo",
+   "device": "OP4A77",
+   "model": "PDEM10"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP4A77",
+   "model": "PDET10"
   }
  ],
  "Find5": [
@@ -109317,6 +109367,13 @@
    "brand": "Oppo",
    "device": "OP4A9D",
    "model": "PCRM00"
+  }
+ ],
+ "Reno3 元气版 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP4AB5",
+   "model": "PCLM50"
   }
  ],
  "U707": [
@@ -133437,6 +133494,11 @@
    "brand": "Samsung",
    "device": "gta4xl",
    "model": "SM-P615"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gta4xl",
+   "model": "SM-P617"
   },
   {
    "brand": "Samsung",

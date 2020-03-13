@@ -63282,13 +63282,6 @@
    "model": "VCE-TL00"
   }
  ],
- "HWGLK": [
-  {
-   "brand": "Huawei",
-   "name": "nova 5i",
-   "model": "GLK-AL00"
-  }
- ],
  "hws8701": [
   {
    "brand": "Huawei",
@@ -73679,6 +73672,13 @@
    "brand": "LEOMO",
    "name": "LEM-TS1",
    "model": "LEM-TS1"
+  }
+ ],
+ "EY-TAB8161G": [
+  {
+   "brand": "LEYO",
+   "name": "EY-TAB8161G",
+   "model": "EY-TAB8161G"
   }
  ],
  "AS855": [
@@ -106461,14 +106461,12 @@
    "model": "PCHT10"
   }
  ],
- "A11w": [
+ "OP4A54": [
   {
    "brand": "Oppo",
-   "name": "A11w",
-   "model": "A11w"
-  }
- ],
- "OP4A54": [
+   "name": "A11n中国版",
+   "model": "PCHM00"
+  },
   {
    "brand": "Oppo",
    "name": "A11x 中国版",
@@ -106478,6 +106476,13 @@
    "brand": "Oppo",
    "name": "A11x 中国版",
    "model": "PCHT30"
+  }
+ ],
+ "A11w": [
+  {
+   "brand": "Oppo",
+   "name": "A11w",
+   "model": "A11w"
   }
  ],
  "A31t": [
@@ -106944,6 +106949,13 @@
    "model": "PCAT10"
   }
  ],
+ "OP4ACF": [
+  {
+   "brand": "Oppo",
+   "name": "A91",
+   "model": "PCPM00"
+  }
+ ],
  "OP46F3": [
   {
    "brand": "Oppo",
@@ -107327,6 +107339,39 @@
    "model": "PAHM00"
   }
  ],
+ "OP4BA1L1": [
+  {
+   "brand": "Oppo",
+   "name": "Find X2",
+   "model": "CPH2023"
+  }
+ ],
+ "OP4BA2L1": [
+  {
+   "brand": "Oppo",
+   "name": "Find X2 Pro",
+   "model": "CPH2025"
+  }
+ ],
+ "OP4A7A": [
+  {
+   "brand": "Oppo",
+   "name": "Find X2 Pro 中国版",
+   "model": "PDEM30"
+  }
+ ],
+ "OP4A77": [
+  {
+   "brand": "Oppo",
+   "name": "Find X2 中国版",
+   "model": "PDEM10"
+  },
+  {
+   "brand": "Oppo",
+   "name": "Find X2 中国版",
+   "model": "PDET10"
+  }
+ ],
  "PBCM30": [
   {
    "brand": "Oppo",
@@ -107351,6 +107396,13 @@
    "brand": "Oppo",
    "name": "K3",
    "model": "CPH1955"
+  }
+ ],
+ "OP4AA7": [
+  {
+   "brand": "Oppo",
+   "name": "K5",
+   "model": "PCNM00"
   }
  ],
  "N1mini": [
@@ -108306,6 +108358,13 @@
    "brand": "Oppo",
    "name": "Reno3 Pro 5G中国版",
    "model": "PCRM00"
+  }
+ ],
+ "OP4AB5": [
+  {
+   "brand": "Oppo",
+   "name": "Reno3 元气版 5G",
+   "model": "PCLM50"
   }
  ],
  "U707": [
@@ -135121,6 +135180,11 @@
    "brand": "Samsung",
    "name": "Galaxy Tab S6 Lite",
    "model": "SM-P615"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S6 Lite",
+   "model": "SM-P617"
   }
  ],
  "gta4xlwifi": [

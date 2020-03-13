@@ -64569,13 +64569,6 @@
    "device": "HWMAR"
   }
  ],
- "GLK-AL00": [
-  {
-   "brand": "Huawei",
-   "name": "nova 5i",
-   "device": "HWGLK"
-  }
- ],
  "PRA-LX2": [
   {
    "brand": "Huawei",
@@ -75986,6 +75979,13 @@
    "brand": "LEOMO",
    "name": "LEM-TS1",
    "device": "LMS"
+  }
+ ],
+ "EY-TAB8161G": [
+  {
+   "brand": "LEYO",
+   "name": "EY-TAB8161G",
+   "device": "EY-TAB8161G"
   }
  ],
  "LG-AS855": [
@@ -109908,6 +109908,13 @@
    "device": "A11"
   }
  ],
+ "PCHM00": [
+  {
+   "brand": "Oppo",
+   "name": "A11n中国版",
+   "device": "OP4A54"
+  }
+ ],
  "A11t": [
   {
    "brand": "Oppo",
@@ -110545,6 +110552,13 @@
    "device": "OP46F1"
   }
  ],
+ "PCPM00": [
+  {
+   "brand": "Oppo",
+   "name": "A91",
+   "device": "OP4ACF"
+  }
+ ],
  "PCEM00": [
   {
    "brand": "Oppo",
@@ -110954,6 +110968,41 @@
    "device": "PAHM00"
   }
  ],
+ "CPH2023": [
+  {
+   "brand": "Oppo",
+   "name": "Find X2",
+   "device": "OP4BA1L1"
+  }
+ ],
+ "CPH2025": [
+  {
+   "brand": "Oppo",
+   "name": "Find X2 Pro",
+   "device": "OP4BA2L1"
+  }
+ ],
+ "PDEM30": [
+  {
+   "brand": "Oppo",
+   "name": "Find X2 Pro 中国版",
+   "device": "OP4A7A"
+  }
+ ],
+ "PDEM10": [
+  {
+   "brand": "Oppo",
+   "name": "Find X2 中国版",
+   "device": "OP4A77"
+  }
+ ],
+ "PDET10": [
+  {
+   "brand": "Oppo",
+   "name": "Find X2 中国版",
+   "device": "OP4A77"
+  }
+ ],
  "X909T": [
   {
    "brand": "Oppo",
@@ -110992,6 +111041,13 @@
    "brand": "Oppo",
    "name": "K3",
    "device": "OP486B"
+  }
+ ],
+ "PCNM00": [
+  {
+   "brand": "Oppo",
+   "name": "K5",
+   "device": "OP4AA7"
   }
  ],
  "N5111": [
@@ -112089,6 +112145,13 @@
    "brand": "Oppo",
    "name": "Reno3 Pro 5G中国版",
    "device": "OP4A9D"
+  }
+ ],
+ "PCLM50": [
+  {
+   "brand": "Oppo",
+   "name": "Reno3 元气版 5G",
+   "device": "OP4AB5"
   }
  ],
  "U707": [
@@ -139714,6 +139777,13 @@
   }
  ],
  "SM-P615": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S6 Lite",
+   "device": "gta4xl"
+  }
+ ],
+ "SM-P617": [
   {
    "brand": "Samsung",
    "name": "Galaxy Tab S6 Lite",

@@ -47046,11 +47046,6 @@
    "model": "MAR-TL00"
   },
   {
-   "device": "HWGLK",
-   "name": "nova 5i",
-   "model": "GLK-AL00"
-  },
-  {
    "device": "HWPRA-H",
    "name": "nova lite",
    "model": "PRA-LX2"
@@ -55881,6 +55876,13 @@
    "device": "osaki",
    "name": "32F1D",
    "model": "2K AI Smart TV"
+  }
+ ],
+ "LEYO": [
+  {
+   "device": "EY-TAB8161G",
+   "name": "EY-TAB8161G",
+   "model": "EY-TAB8161G"
   }
  ],
  "LGE": [
@@ -82140,6 +82142,11 @@
    "model": "A11f"
   },
   {
+   "device": "OP4A54",
+   "name": "A11n中国版",
+   "model": "PCHM00"
+  },
+  {
    "device": "A11",
    "name": "A11t",
    "model": "A11t"
@@ -82605,6 +82612,11 @@
    "model": "PCAT10"
   },
   {
+   "device": "OP4ACF",
+   "name": "A91",
+   "model": "PCPM00"
+  },
+  {
    "device": "OP46F3",
    "name": "A9x",
    "model": "PCEM00"
@@ -82905,6 +82917,31 @@
    "model": "PAHM00"
   },
   {
+   "device": "OP4BA1L1",
+   "name": "Find X2",
+   "model": "CPH2023"
+  },
+  {
+   "device": "OP4BA2L1",
+   "name": "Find X2 Pro",
+   "model": "CPH2025"
+  },
+  {
+   "device": "OP4A7A",
+   "name": "Find X2 Pro 中国版",
+   "model": "PDEM30"
+  },
+  {
+   "device": "OP4A77",
+   "name": "Find X2 中国版",
+   "model": "PDEM10"
+  },
+  {
+   "device": "OP4A77",
+   "name": "Find X2 中国版",
+   "model": "PDET10"
+  },
+  {
    "device": "FIND5",
    "name": "Find5",
    "model": "X909"
@@ -82933,6 +82970,11 @@
    "device": "OP486B",
    "name": "K3",
    "model": "CPH1955"
+  },
+  {
+   "device": "OP4AA7",
+   "name": "K5",
+   "model": "PCNM00"
   },
   {
    "device": "N1",
@@ -83753,6 +83795,11 @@
    "device": "OP4A9D",
    "name": "Reno3 Pro 5G中国版",
    "model": "PCRM00"
+  },
+  {
+   "device": "OP4AB5",
+   "name": "Reno3 元气版 5G",
+   "model": "PCLM50"
   },
   {
    "device": "U3",
@@ -104564,6 +104611,11 @@
    "device": "gta4xl",
    "name": "Galaxy Tab S6 Lite",
    "model": "SM-P615"
+  },
+  {
+   "device": "gta4xl",
+   "name": "Galaxy Tab S6 Lite",
+   "model": "SM-P617"
   },
   {
    "device": "gta4xlwifi",

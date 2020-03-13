@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-03-12
+Last sync is 2020-03-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9160,7 +9160,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|nova 4|HWVCE|VCE-TL00|
 |Huawei|nova 4e|HWMAR|MAR-AL00|
 |Huawei|nova 4e|HWMAR|MAR-TL00|
-|Huawei|nova 5i|HWGLK|GLK-AL00|
 |Huawei|nova lite|HWPRA-H|PRA-LX2|
 |Huawei|nova lite|HWPRA-H|PRA-LX3|
 |Huawei|nova plus|HWMLA|HUAWEI MLA-L01|
@@ -10867,6 +10866,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LEOMO|LEM-TS1|LMS|LEM-TS1|
 |LEOMO|LEM-TS1|LMS|LEM-TS1|
 |LEVEL TV|32F1D|osaki|2K AI Smart TV|
+|LEYO|EY-TAB8161G|EY-TAB8161G|EY-TAB8161G|
 |LGE||AS855|LG-AS855|
 |LGE||LGP970|LG-P970|
 |LGE||US855|USCC-US855|
@@ -16002,6 +16002,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A11 中国版|OP4A4D|PCHM10|
 |Oppo|A11 中国版|OP4A4D|PCHT10|
 |Oppo|A11f|A11|A11f|
+|Oppo|A11n中国版|OP4A54|PCHM00|
 |Oppo|A11t|A11|A11t|
 |Oppo|A11w|A11w|A11w|
 |Oppo|A11x 中国版|OP4A54|PCHM30|
@@ -16095,6 +16096,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A9 2020|OP4B80L1|CPH1941|
 |Oppo|A9 中国版|OP46F1|PCAM10|
 |Oppo|A9 中国版|OP46F1|PCAT10|
+|Oppo|A91|OP4ACF|PCPM00|
 |Oppo|A9x|OP46F3|PCEM00|
 |Oppo|A9x|OP46F3|PCET00|
 |Oppo|AX5s|CPH1920|CPH1920|
@@ -16155,12 +16157,18 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Find X|PAFM00|PAFM00|
 |Oppo|Find X|PAFT00|PAFT00|
 |Oppo|Find X 兰博基尼|PAHM00|PAHM00|
+|Oppo|Find X2|OP4BA1L1|CPH2023|
+|Oppo|Find X2 Pro|OP4BA2L1|CPH2025|
+|Oppo|Find X2 Pro 中国版|OP4A7A|PDEM30|
+|Oppo|Find X2 中国版|OP4A77|PDEM10|
+|Oppo|Find X2 中国版|OP4A77|PDET10|
 |Oppo|Find5|FIND5|X909|
 |Oppo|Find5|FIND5|X909T|
 |Oppo|K1|PBCM30|PBCM30|
 |Oppo|K3|OP4679|PCGM00|
 |Oppo|K3|OP4679|PCGT00|
 |Oppo|K3|OP486B|CPH1955|
+|Oppo|K5|OP4AA7|PCNM00|
 |Oppo|N1|N1|N1|
 |Oppo|N1 mimi|N1mini|N5111|
 |Oppo|N1 mimi|N1mini|N5116|
@@ -16325,6 +16333,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno3 Pro|OP4C5FL1|CPH2036|
 |Oppo|Reno3 Pro|OP4C5FL1|CPH2037|
 |Oppo|Reno3 Pro 5G中国版|OP4A9D|PCRM00|
+|Oppo|Reno3 元气版 5G|OP4AB5|PCLM50|
 |Oppo|U3|U3|U3|
 |Oppo|U707|U707|U707|
 |Oppo|U707T|U707T|U707T|
@@ -20416,6 +20425,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S6|gts6lwifi|SM-T860|
 |Samsung|Galaxy Tab S6 5G|gts6x|SM-T866N|
 |Samsung|Galaxy Tab S6 Lite|gta4xl|SM-P615|
+|Samsung|Galaxy Tab S6 Lite|gta4xl|SM-P617|
 |Samsung|Galaxy Tab S6 Lite|gta4xlwifi|SM-P610|
 |Samsung|Galaxy Tab S6 Lite|gta4xlwifi|SM-P610X|
 |Samsung|Galaxy Tab2 10.1|espresso10att|SAMSUNG-SGH-I497|
