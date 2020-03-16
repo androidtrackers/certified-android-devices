@@ -4138,6 +4138,13 @@
    "model": "IPA-1104HDH-01"
   }
  ],
+ "Ampila": [
+  {
+   "device": "sti6160d327",
+   "name": "sti6160d327",
+   "model": "ampliaTV"
+  }
+ ],
  "Amplify": [
   {
    "device": "TL10RA3_1",
@@ -27437,6 +27444,11 @@
   }
  ],
  "Freebox": [
+  {
+   "device": "fbx8am",
+   "name": "Freebox Player POP",
+   "model": "Freebox Player POP"
+  },
   {
    "device": "fbx6lc",
    "name": "Mini 4K",
@@ -53837,6 +53849,11 @@
    "device": "KZG_Scope",
    "name": "KZG Scope",
    "model": "KZG Scope"
+  },
+  {
+   "device": "KZG_Scope",
+   "name": "KZG_Scope",
+   "model": "KZG Scope"
   }
  ],
  "Kaicom": [
@@ -62573,6 +62590,11 @@
    "device": "SPURT_K300",
    "name": "SPURT_K300",
    "model": "K300"
+  },
+  {
+   "device": "SPURT_K400",
+   "name": "SPURT_K400",
+   "model": "K400"
   },
   {
    "device": "SPURT_K500",
@@ -79231,6 +79253,11 @@
    "model": "NOA_N8"
   },
   {
+   "device": "NOA_P1",
+   "name": "NOA_P1",
+   "model": "P1"
+  },
+  {
    "device": "NextSE",
    "name": "NextSE",
    "model": "NextSE"
@@ -86717,6 +86744,11 @@
    "model": "PCS01"
   },
   {
+   "device": "PHILCO_TP7A6",
+   "name": "PHILCO_TP7A6",
+   "model": "TP7A6"
+  },
+  {
    "device": "PTB7PA",
    "name": "PTB7PAP_ PTB7PAB _ PTB7PAR",
    "model": "PTB7PAP_PTB7PAB_PTB7PAR"
@@ -94130,6 +94162,16 @@
    "device": "STG_S20",
    "name": "STG_S20",
    "model": "STG S20"
+  },
+  {
+   "device": "STG_S30",
+   "name": "STG_S30",
+   "model": "STG S30"
+  },
+  {
+   "device": "STG_X1",
+   "name": "STG_X1",
+   "model": "STG X1"
   }
  ],
  "STIP": [
@@ -109205,6 +109247,11 @@
    "device": "globe_sa",
    "name": "South America",
    "model": "globe"
+  },
+  {
+   "device": "shinjuku",
+   "name": "South America",
+   "model": "SA 2K TV"
   },
   {
    "device": "SW3H_ATV",
@@ -140872,6 +140919,48 @@
    "device": "M6",
    "name": "M6",
    "model": "M6"
+  }
+ ],
+ "benco": [
+  {
+   "device": "AF9030",
+   "name": "benco Y30",
+   "model": "AF9030"
+  },
+  {
+   "device": "AH9910",
+   "name": "benco Y41",
+   "model": "AH9910"
+  },
+  {
+   "device": "AN9910",
+   "name": "benco Y41",
+   "model": "AN9910"
+  },
+  {
+   "device": "AF9010",
+   "name": "benco Y50",
+   "model": "AF9010"
+  },
+  {
+   "device": "AF9010_F",
+   "name": "benco Y50",
+   "model": "AF9010_F"
+  },
+  {
+   "device": "AF9020",
+   "name": "benco Y50",
+   "model": "AF9020"
+  },
+  {
+   "device": "LH9921",
+   "name": "v6",
+   "model": "LH9921"
+  },
+  {
+   "device": "LE9920_P",
+   "name": "v7",
+   "model": "LE9920_P"
   }
  ],
  "boxchip": [

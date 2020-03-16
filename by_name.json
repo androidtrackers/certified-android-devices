@@ -12004,6 +12004,13 @@
    "model": "IPA-1104HDH-01"
   }
  ],
+ "sti6160d327": [
+  {
+   "brand": "Ampila",
+   "device": "sti6160d327",
+   "model": "ampliaTV"
+  }
+ ],
  "TL10RA3": [
   {
    "brand": "Amplify",
@@ -44321,6 +44328,13 @@
    "model": "TONE m15"
   }
  ],
+ "Freebox Player POP": [
+  {
+   "brand": "Freebox",
+   "device": "fbx8am",
+   "model": "Freebox Player POP"
+  }
+ ],
  "Mini 4K": [
   {
    "brand": "Freebox",
@@ -75141,6 +75155,13 @@
    "model": "KZG Scope"
   }
  ],
+ "KZG_Scope": [
+  {
+   "brand": "KZG (Ke Zhi Guang)",
+   "device": "KZG_Scope",
+   "model": "KZG Scope"
+  }
+ ],
  "H702": [
   {
    "brand": "Kaicom",
@@ -84617,6 +84638,13 @@
    "model": "K300"
   }
  ],
+ "SPURT_K400": [
+  {
+   "brand": "LT Electronics",
+   "device": "SPURT_K400",
+   "model": "K400"
+  }
+ ],
  "SPURT_K500": [
   {
    "brand": "LT Electronics",
@@ -86187,6 +86215,11 @@
    "brand": "Lava",
    "device": "AF9030",
    "model": "LAVA AF9030"
+  },
+  {
+   "brand": "benco",
+   "device": "AF9030",
+   "model": "AF9030"
   }
  ],
  "ir59": [
@@ -104097,6 +104130,13 @@
    "model": "iQ&T N8"
   }
  ],
+ "NOA_P1": [
+  {
+   "brand": "NOA Mobile",
+   "device": "NOA_P1",
+   "model": "P1"
+  }
+ ],
  "NextSE": [
   {
    "brand": "NOA Mobile",
@@ -113055,6 +113095,13 @@
    "brand": "Philco",
    "device": "PCS01",
    "model": "PCS01"
+  }
+ ],
+ "PHILCO_TP7A6": [
+  {
+   "brand": "Philco",
+   "device": "PHILCO_TP7A6",
+   "model": "TP7A6"
   }
  ],
  "PTB7PAP_ PTB7PAB _ PTB7PAR": [
@@ -122295,6 +122342,20 @@
    "brand": "STG Telecom",
    "device": "STG_S20",
    "model": "STG S20"
+  }
+ ],
+ "STG_S30": [
+  {
+   "brand": "STG Telecom",
+   "device": "STG_S30",
+   "model": "STG S30"
+  }
+ ],
+ "STG_X1": [
+  {
+   "brand": "STG Telecom",
+   "device": "STG_X1",
+   "model": "STG X1"
   }
  ],
  "MS9": [
@@ -139134,6 +139195,11 @@
    "brand": "Skyworth",
    "device": "globe_sa",
    "model": "globe"
+  },
+  {
+   "brand": "Skyworth",
+   "device": "shinjuku",
+   "model": "SA 2K TV"
   },
   {
    "brand": "TCL",
@@ -174510,6 +174576,49 @@
    "brand": "beafon",
    "device": "Class_C250",
    "model": "Class_C250"
+  }
+ ],
+ "benco Y41": [
+  {
+   "brand": "benco",
+   "device": "AH9910",
+   "model": "AH9910"
+  },
+  {
+   "brand": "benco",
+   "device": "AN9910",
+   "model": "AN9910"
+  }
+ ],
+ "benco Y50": [
+  {
+   "brand": "benco",
+   "device": "AF9010",
+   "model": "AF9010"
+  },
+  {
+   "brand": "benco",
+   "device": "AF9010_F",
+   "model": "AF9010_F"
+  },
+  {
+   "brand": "benco",
+   "device": "AF9020",
+   "model": "AF9020"
+  }
+ ],
+ "v6": [
+  {
+   "brand": "benco",
+   "device": "LH9921",
+   "model": "LH9921"
+  }
+ ],
+ "v7": [
+  {
+   "brand": "benco",
+   "device": "LE9920_P",
+   "model": "LE9920_P"
   }
  ],
  "S900Plus": [

@@ -6380,6 +6380,13 @@
    "device": "eSTREAM4K_4x4"
   }
  ],
+ "ampliaTV": [
+  {
+   "brand": "Ampila",
+   "name": "sti6160d327",
+   "device": "sti6160d327"
+  }
+ ],
  "TL10RA3": [
   {
    "brand": "Amplify",
@@ -20434,6 +20441,11 @@
   },
   {
    "brand": "NOA Mobile",
+   "name": "NOA_P1",
+   "device": "NOA_P1"
+  },
+  {
+   "brand": "NOA Mobile",
    "name": "P1",
    "device": "NOA_P1"
   },
@@ -33016,6 +33028,11 @@
    "brand": "EPIKONE",
    "name": "K400",
    "device": "K400"
+  },
+  {
+   "brand": "LT Electronics",
+   "name": "SPURT_K400",
+   "device": "SPURT_K400"
   }
  ],
  "K405": [
@@ -38311,6 +38328,13 @@
    "brand": "Freebit",
    "name": "Tone m15",
    "device": "TONE_m15"
+  }
+ ],
+ "Freebox Player POP": [
+  {
+   "brand": "Freebox",
+   "name": "Freebox Player POP",
+   "device": "fbx8am"
   }
  ],
  "Freebox Player Mini": [
@@ -73325,6 +73349,11 @@
    "brand": "KZG (Ke Zhi Guang)",
    "name": "KZG Scope",
    "device": "KZG_Scope"
+  },
+  {
+   "brand": "KZG (Ke Zhi Guang)",
+   "name": "KZG_Scope",
+   "device": "KZG_Scope"
   }
  ],
  "H702": [
@@ -86045,6 +86074,11 @@
    "brand": "Lava",
    "name": "V7",
    "device": "LE9920_P"
+  },
+  {
+   "brand": "benco",
+   "name": "v7",
+   "device": "LE9920_P"
   }
  ],
  "LAVA LE9940": [
@@ -86234,12 +86268,22 @@
    "brand": "Lava",
    "name": "Z30",
    "device": "AH9910"
+  },
+  {
+   "brand": "benco",
+   "name": "benco Y41",
+   "device": "AH9910"
   }
  ],
  "AN9910": [
   {
    "brand": "Lava",
    "name": "Z30",
+   "device": "AN9910"
+  },
+  {
+   "brand": "benco",
+   "name": "benco Y41",
    "device": "AN9910"
   }
  ],
@@ -86261,6 +86305,11 @@
   {
    "brand": "Lava",
    "name": "Z42 Pro",
+   "device": "AF9020"
+  },
+  {
+   "brand": "benco",
+   "name": "benco Y50",
    "device": "AF9020"
   }
  ],
@@ -86601,6 +86650,11 @@
   {
    "brand": "Lava",
    "name": "op200",
+   "device": "AF9010"
+  },
+  {
+   "brand": "benco",
+   "name": "benco Y50",
    "device": "AF9010"
   }
  ],
@@ -115813,6 +115867,13 @@
    "device": "PCS01"
   }
  ],
+ "TP7A6": [
+  {
+   "brand": "Philco",
+   "name": "PHILCO_TP7A6",
+   "device": "PHILCO_TP7A6"
+  }
+ ],
  "PTB7PAP_PTB7PAB_PTB7PAR": [
   {
    "brand": "Philco",
@@ -125275,6 +125336,11 @@
    "brand": "STG Telecom",
    "name": "STG X1",
    "device": "STG_X1"
+  },
+  {
+   "brand": "STG Telecom",
+   "name": "STG_X1",
+   "device": "STG_X1"
   }
  ],
  "STG_B10": [
@@ -125296,6 +125362,13 @@
    "brand": "STG Telecom",
    "name": "STG_S20",
    "device": "STG_S20"
+  }
+ ],
+ "STG S30": [
+  {
+   "brand": "STG Telecom",
+   "name": "STG_S30",
+   "device": "STG_S30"
   }
  ],
  "MS9": [
@@ -145738,6 +145811,13 @@
    "brand": "Skyworth",
    "name": "Skyworth",
    "device": "grape"
+  }
+ ],
+ "SA 2K TV": [
+  {
+   "brand": "Skyworth",
+   "name": "South America",
+   "device": "shinjuku"
   }
  ],
  "DV8220": [
@@ -186184,6 +186264,27 @@
    "brand": "beafon",
    "name": "Class_C250",
    "device": "Class_C250"
+  }
+ ],
+ "AF9030": [
+  {
+   "brand": "benco",
+   "name": "benco Y30",
+   "device": "AF9030"
+  }
+ ],
+ "AF9010_F": [
+  {
+   "brand": "benco",
+   "name": "benco Y50",
+   "device": "AF9010_F"
+  }
+ ],
+ "LH9921": [
+  {
+   "brand": "benco",
+   "name": "v6",
+   "device": "LH9921"
   }
  ],
  "S900Plus": [

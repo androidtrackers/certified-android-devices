@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-03-15
+Last sync is 2020-03-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -800,6 +800,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aminocom|Kamai7|Kamai7|Kamai7|
 |Aminocom|Kamai7B|Kamai7B|Kamai7B|
 |Aminocom|eSTREAM4K|eSTREAM4K_4x4|IPA-1104HDH-01|
+|Ampila|sti6160d327|sti6160d327|ampliaTV|
 |Amplify|TL10RA3|TL10RA3_1|TL10RA3|
 |Amplify|TR10CD3|TR10CD3_1|TR10CD3|
 |Amplify|TR10CD3|TR10CD3_2|TR10CD3|
@@ -5290,6 +5291,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Freebit|A55J|arima6735_65u_l1|TONE m15|
 |Freebit|TONE m15|TONE_m15|TONE m15|
 |Freebit|Tone m15|TONE_m15|TONE m15|
+|Freebox|Freebox Player POP|fbx8am|Freebox Player POP|
 |Freebox|Mini 4K|fbx6lc|Freebox Player Mini|
 |Freebox|Mini 4K|fbx6lcv2|Freebox Player Mini v2|
 |Freetel|Cricket Wave|Cricket_Wave|FTU18A00|
@@ -10475,6 +10477,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTV|PureKTV|DV8219|PureKTV|
 |KZG (Ke Zhi Guang)|Dream one|Dream_one|Dream one|
 |KZG (Ke Zhi Guang)|KZG Scope|KZG_Scope|KZG Scope|
+|KZG (Ke Zhi Guang)|KZG_Scope|KZG_Scope|KZG Scope|
 |Kaicom|H702|H702|H702|
 |Kaicom|K901|K901|K901|
 |Kalley|BLACK_PRO|BLACK_PRO|BLACK_PRO|
@@ -12201,6 +12204,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LT Electronics|LT_S9_NOTE|LT_S9_NOTE|LT_S9_NOTE|
 |LT Electronics|LT_X5|LT_X5|LT_X5|
 |LT Electronics|SPURT_K300|SPURT_K300|K300|
+|LT Electronics|SPURT_K400|SPURT_K400|K400|
 |LT Electronics|SPURT_K500|SPURT_K500|K500|
 |LT Electronics|SPURT_K600|SPURT_K600|K600|
 |LUMUS|INNOSR545|INNOSR545|INNOSR545|
@@ -15455,6 +15459,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NOA Mobile|N20|NOA_N20|N20|
 |NOA Mobile|N7|NOA_N7|N7|
 |NOA Mobile|N8|NOA_N8|NOA_N8|
+|NOA Mobile|NOA_P1|NOA_P1|P1|
 |NOA Mobile|NextSE|NextSE|NextSE|
 |NOA Mobile|P1|NOA_P1|P1|
 |NOA Mobile|Primo_4G|Primo_4G|Primo_4G|
@@ -16901,6 +16906,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Perseo TV|Perseo TV Home 2nd Generation Ranger|DV8219|Perseo TV Home 2nd Generation Ranger|
 |Philco|Brazil|sindorim|AI PONT|
 |Philco|PCS01|PCS01|PCS01|
+|Philco|PHILCO_TP7A6|PHILCO_TP7A6|TP7A6|
 |Philco|PTB7PAP_ PTB7PAB _ PTB7PAR|PTB7PA|PTB7PAP_PTB7PAB_PTB7PAR|
 |Philco|PTB7QSG_3G|PTB7QSG_3G|PTB7QSG_3G|
 |Philco|PTB7R|PTB7R|PTB7R|
@@ -18332,6 +18338,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |STG Telecom|STG_C10|STG_C10|STG_C10|
 |STG Telecom|STG_S1|STG_S1|STG S1|
 |STG Telecom|STG_S20|STG_S20|STG S20|
+|STG Telecom|STG_S30|STG_S30|STG S30|
+|STG Telecom|STG_X1|STG_X1|STG X1|
 |STIP|MS9|MS9|MS9|
 |STK(Santok)|Evo_2|Evo_2|Evo 2|
 |STK(Santok)|Hero X|STK_Hero_X|STK_Hero_X|
@@ -21325,6 +21333,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Skyworth|South Africa|open_fhd_sa|open_fhd|
 |Skyworth|South America|SW3_ATV|SWTV|
 |Skyworth|South America|globe_sa|globe|
+|Skyworth|South America|shinjuku|SA 2K TV|
 |Skyworth|Taiwan|SW3H_ATV|SWTV|
 |SledovaniTV|DV8220|DV8220|DV8220|
 |Smadl|Matri8|Matri8|Matri8|
@@ -27508,6 +27517,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |beafon|Class_C250|Class_C250|Class_C250|
 |beafon|M5|M5|M5|
 |beafon|M6|M6|M6|
+|benco|benco Y30|AF9030|AF9030|
+|benco|benco Y41|AH9910|AH9910|
+|benco|benco Y41|AN9910|AN9910|
+|benco|benco Y50|AF9010|AF9010|
+|benco|benco Y50|AF9010_F|AF9010_F|
+|benco|benco Y50|AF9020|AF9020|
+|benco|v6|LH9921|LH9921|
+|benco|v7|LE9920_P|LE9920_P|
 |boxchip|S900Plus|S900Plus|S900Plus|
 |bq|Aquaris A4.5|Aquaris_A45_sprout|Aquaris A4.5|
 |bq|Aquaris A4.5|Aquaris_A45_sprout|Aquaris_A4.5|
