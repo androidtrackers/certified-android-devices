@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-03-16
+Last sync is 2020-03-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5291,7 +5291,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Freebit|A55J|arima6735_65u_l1|TONE m15|
 |Freebit|TONE m15|TONE_m15|TONE m15|
 |Freebit|Tone m15|TONE_m15|TONE m15|
-|Freebox|Freebox Player POP|fbx8am|Freebox Player POP|
 |Freebox|Mini 4K|fbx6lc|Freebox Player Mini|
 |Freebox|Mini 4K|fbx6lcv2|Freebox Player Mini v2|
 |Freetel|Cricket Wave|Cricket_Wave|FTU18A00|
@@ -11457,6 +11456,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG K40|mh4x|LM-X420|
 |LGE|LG K40|mmh4x|LM-X420|
 |LGE|LG K40S|mmh55lm|LM-X430|
+|LGE|LG K41S|mdh15lm|LM-K410|
 |LGE|LG K5|d3|LG-X220|
 |LGE|LG K50|mmh4p-pr|802LG|
 |LGE|LG K50|mmh4p-pr|KF1919|
@@ -11854,6 +11854,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG-D157f|w35ds|LG-D157f|
 |LGE|LG-E985T|gvarfhd|LG-E985|
 |LGE|LG-E985T|gvarfhd|LG-E985T|
+|LGE|LG-K41S|mdh15lm|LM-K410|
 |LGE|LGL22|g2|LGL22|
 |LGE|LM-X120|mmh6lm|LM-X120|
 |LGE|LM-X420|mmh4|LM-X420|
@@ -14000,6 +14001,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mgt electric|M2|M2|M2|
 |Mgt electric|MGT_T4|T4|T4|
 |Mgt electric|Super|Super|Super|
+|MiTAC|N630|surfing_pro|N630|
 |MiTAC|N635|chiron_pro|N635|
 |MiTAC|N635_8|skating|N635_8|
 |MiTAC|N650|prometheus|N650|
@@ -14703,6 +14705,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|HS1|Motorola_HS1|Motorola_HS1|
 |Motorola|Iron Rock|umts_irock|XT627|
 |Motorola|Lenovo K10|pokerp|Lenovo K10|
+|Motorola|Lenovo K11|fiji|Lenovo K11|
+|Motorola|Lenovo K11 Power|blackjack|Lenovo K11 Power|
 |Motorola|Master Touch|umts_primus|XT621|
 |Motorola|Master Touch XT621|umts_primus|XT621|
 |Motorola|Milestone2|umts_milestone2|A953|
@@ -14947,12 +14951,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto e5 plus|rhannah|Moto E|
 |Motorola|moto e5 plus|rhannah|moto e5 plus|
 |Motorola|moto e6|surfna|moto e6|
+|Motorola|moto e6|surfna|moto e6 (XT2005DL)|
 |Motorola|moto e6|surfna|moto g(6)|
 |Motorola|moto e6 play|bali|moto e6 play|
+|Motorola|moto e6s|fiji|moto e6|
+|Motorola|moto e6s|fiji|moto e6s|
 |Motorola|moto e⁶ plus|pokerp|moto e(6) plus|
 |Motorola|moto e⁶ˢ|pokerp|moto e(6s)|
 |Motorola|moto g power|sofia|moto g power|
 |Motorola|moto g power|sofia|moto g(7)|
+|Motorola|moto g power (XT2041DL)|sofia|moto g power (XT2041DL)|
 |Motorola|moto g stylus|sofiap|moto g stylus|
 |Motorola|moto g stylus|sofiap|moto g(7)|
 |Motorola|moto g(6)|ali|XT1925-10|
@@ -14983,6 +14991,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g(7) power|ocean|moto g(7) power|
 |Motorola|moto g(7) power|ocean_n|moto g(7) power|
 |Motorola|moto g(7) supra|ocean|moto g(7) supra|
+|Motorola|moto g(8)|rav|moto g(7)|
+|Motorola|moto g(8)|rav|moto g(8)|
 |Motorola|moto g(8) play|lima|moto g(7) play|
 |Motorola|moto g(8) play|lima|moto g(8) play|
 |Motorola|moto g(8) plus|doha|moto g(7)|
@@ -14990,6 +15000,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g(8) plus|doha_n|moto g(8) plus|
 |Motorola|moto g(8) power|sofiar|moto g(7)|
 |Motorola|moto g(8) power|sofiar|moto g(8) power|
+|Motorola|moto g(8) power lite|blackjack|moto g(8) power lite|
+|Motorola|moto g(8) power lite|blackjack|moto g8 power lite|
 |Motorola|moto g6 play|jeter|Moto G Play|
 |Motorola|moto g6 play|jeter|moto g(6) play|
 |Motorola|moto p30|robusta|XT1943-1|
@@ -16531,6 +16543,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PCD Argentina|PL570|PL570|PL570|
 |PCD Argentina|PL571|PL571|PL571|
 |PCD Argentina|PL620|PL620|PL620|
+|PILOT|Israel|samseong|AI PONT|
 |PLDT|Smart Page 8 Pro|Smart_Page_8_Pro|Smart_Page_8_Pro|
 |POC|POC2|CBL7509MM|POC2|
 |POCO|POCO X2|phoenixin|POCO X2|
@@ -17234,6 +17247,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|S450|S450|S450|
 |Positivo|S480|S480|S480|
 |Positivo|S550|S550|S550|
+|Positivo|SP2|SP2|SP2|
 |Positivo|SX1000|SX1000|Positivo SX1000|
 |Positivo|Selfie|S455|S455|
 |Positivo|Slim|S510|Positivo Slim|
@@ -17265,6 +17279,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|Twist Metal 32G|S531|Twist Metal 32GB|
 |Positivo|Twist Mini|S430B|Twist Mini|
 |Positivo|Twist Mini (2018)|S431|Twist Mini|
+|Positivo|Twist SE|SP2|S545|
+|Positivo|Twist SE|SP2|Twist SE|
 |Positivo|Twist Tab|T770|Twist Tab|
 |Positivo|Twist Tab Kids|T770|Twist Tab Kids|
 |Positivo|Twist XL|S555|Twist XL|
@@ -17833,6 +17849,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Qsmart|QSmart X10|X10|QSmart X10|
 |Qsmart|QSmart X20|X20|QSmart X20|
 |Qsmart|QSmart X40|X40|QSmart X40|
+|Qsmart|QSmart i4i|i4i|QSmart i4i|
 |Qsmart|Rocket_Lite|Rocket_Lite|Rocket Lite|
 |Qsmart|Smart HD Pro|Smart_HD_Pro|Smart HD Pro|
 |Qsmart|View|View|View|
@@ -18465,9 +18482,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy 070|hendrix|YP-GI2|
 |Samsung|Galaxy A|archer|SHW-M100S|
 |Samsung|Galaxy A|archer|archer|
+|Samsung|Galaxy A01|a01q|SM-A015A|
 |Samsung|Galaxy A01|a01q|SM-A015F|
 |Samsung|Galaxy A01|a01q|SM-A015G|
 |Samsung|Galaxy A01|a01q|SM-A015M|
+|Samsung|Galaxy A01|a01q|SM-A015T1|
+|Samsung|Galaxy A01|a01q|SM-A015V|
 |Samsung|Galaxy A10|a10|SM-A105F|
 |Samsung|Galaxy A10|a10|SM-A105FN|
 |Samsung|Galaxy A10|a10|SM-A105G|
@@ -18480,6 +18500,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A10e|a10ekx|SM-A102N|
 |Samsung|Galaxy A10s|a10s|SM-A107F|
 |Samsung|Galaxy A10s|a10s|SM-A107M|
+|Samsung|Galaxy A11|a11q|SM-A115F|
+|Samsung|Galaxy A11|a11q|SM-A115M|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260F|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260G|
 |Samsung|Galaxy A20|SC-02M|SC-02M|
@@ -18594,6 +18616,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A50s|a50s|SM-A5070|
 |Samsung|Galaxy A50s|a50s|SM-A507FN|
 |Samsung|Galaxy A51|a51|SM-A515F|
+|Samsung|Galaxy A51|a51|SM-A515U|
+|Samsung|Galaxy A51|a51|SM-A515W|
 |Samsung|Galaxy A6|a6elteaio|SM-A600AZ|
 |Samsung|Galaxy A6|a6elteatt|SM-A600A|
 |Samsung|Galaxy A6|a6eltemtr|SM-A600T1|
@@ -22300,12 +22324,17 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|Smartphone|A5A_INFINI|5086D|
 |TCL|Smartphone|A5A_INFINI|5186D|
 |TCL|South America|tcl|Percee TV|
+|TCL|TCL 10 Pro|T1_PRO|T799B|
+|TCL|TCL 10 Pro|T1_PRO|T799H|
+|TCL|TCL 10L|T1_LITE|T770B|
+|TCL|TCL 10L|T1_LITE|T770H|
 |TCL|TCL C5|A3A|5152D|
 |TCL|TCL C5|Gauss|5153A|
 |TCL|TCL C5|Gauss|5153K|
 |TCL|TCL C7|A3A_PLUS|5158A|
 |TCL|TCL C9 Plus|Venice|5148I|
 |TCL|TCL L10|Faraday|5124J|
+|TCL|TCL L10+|Jakarta|5130J|
 |TCL|TCL L10+|Tokyo|5128A|
 |TCL|TCL L10+|Tokyo|5128Y|
 |TCL|TCL L5|U3A_PLUS_4G|5133A|
@@ -22322,6 +22351,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL T7|A5A_INFINI|5186A|
 |TCL|TCL T9|Venice|5148A|
 |TCL|TCL T9x|TokyoPro|5129Y|
+|TCL|TKEE MINI|Hulk_7_KIDS_WIFI|8093|
 |TCL|Union TV|UnionTV|UnionTV|
 |TCT (Alcatel)||A556C|A556C|
 |TCT (Alcatel)||A919_gsm|TCL A919|
@@ -24112,6 +24142,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Touchmate|TOUCHMATE-TM-MID811A|TM-MID811A|TOUCHMATE-TM-MID811A|
 |Toughshield|R200|R200|R200|
 |Toughshield|T700_TABLET|T700_TABLET|T700|
+|Transvision|SEI500TR|SEI500TR|TRANSVISION-Xstream|
 |Transvision|TRANSVISION-OTT-Box|UHD_I56AD_TRV|TRANSVISION-OTT-Box|
 |Transvision|Transvision|USB6_IR80|TRANSVISION-iTV|
 |Trekstor|SurfTab ST70204-3|TREKM7100KLD|SurfTab ST70204-3|
@@ -24839,6 +24870,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V1945A|PD1945|V1945A|
 |Vivo|V1950A|PD1950|V1950A|
 |Vivo|V1955A|PD1955|V1955A|
+|Vivo|V1963A|PD1963|V1963A|
 |Vivo|V1Max|Y37|vivo Y37|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
@@ -25231,6 +25263,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|Primo H7s|Primo_H7s|Primo H7s|
 |Walton|Primo H8 Pro|Primo_H8_Pro|Primo H8 Pro|
 |Walton|Primo H9|Primo_H9|Primo H9|
+|Walton|Primo H9 Pro|Primo_H9_Pro|Primo H9 Pro|
 |Walton|Primo HM4|Primo_HM4|Primo HM4|
 |Walton|Primo HM4+|Primo_HM4_PLUS|Primo HM4+|
 |Walton|Primo HM4i|Primo_HM4i|Primo HM4i|

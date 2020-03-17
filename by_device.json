@@ -4103,6 +4103,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "PILOT",
+   "name": "Israel",
+   "model": "AI PONT"
+  },
+  {
    "brand": "SHINON",
    "name": "Iraq",
    "model": "AI PONT"
@@ -39107,13 +39112,6 @@
    "brand": "Freebit",
    "name": "Tone m15",
    "model": "TONE m15"
-  }
- ],
- "fbx8am": [
-  {
-   "brand": "Freebox",
-   "name": "Freebox Player POP",
-   "model": "Freebox Player POP"
   }
  ],
  "fbx6lc": [
@@ -77762,6 +77760,18 @@
    "model": "LM-X430"
   }
  ],
+ "mdh15lm": [
+  {
+   "brand": "LGE",
+   "name": "LG K41S",
+   "model": "LM-K410"
+  },
+  {
+   "brand": "LGE",
+   "name": "LG-K41S",
+   "model": "LM-K410"
+  }
+ ],
  "d3": [
   {
    "brand": "LGE",
@@ -93531,6 +93541,13 @@
    "model": "Super"
   }
  ],
+ "surfing_pro": [
+  {
+   "brand": "MiTAC",
+   "name": "N630",
+   "model": "N630"
+  }
+ ],
  "chiron_pro": [
   {
    "brand": "MiTAC",
@@ -98285,6 +98302,40 @@
    "model": "moto e(6s)"
   }
  ],
+ "fiji": [
+  {
+   "brand": "Motorola",
+   "name": "Lenovo K11",
+   "model": "Lenovo K11"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto e6s",
+   "model": "moto e6"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto e6s",
+   "model": "moto e6s"
+  }
+ ],
+ "blackjack": [
+  {
+   "brand": "Motorola",
+   "name": "Lenovo K11 Power",
+   "model": "Lenovo K11 Power"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g(8) power lite",
+   "model": "moto g(8) power lite"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g(8) power lite",
+   "model": "moto g8 power lite"
+  }
+ ],
  "umts_primus": [
   {
    "brand": "Motorola",
@@ -99645,6 +99696,11 @@
   {
    "brand": "Motorola",
    "name": "moto e6",
+   "model": "moto e6 (XT2005DL)"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto e6",
    "model": "moto g(6)"
   }
  ],
@@ -99665,6 +99721,11 @@
    "brand": "Motorola",
    "name": "moto g power",
    "model": "moto g(7)"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g power (XT2041DL)",
+   "model": "moto g power (XT2041DL)"
   }
  ],
  "sofiap": [
@@ -99877,6 +99938,18 @@
    "brand": "Motorola",
    "name": "moto g(7) power",
    "model": "moto g(7) power"
+  }
+ ],
+ "rav": [
+  {
+   "brand": "Motorola",
+   "name": "moto g(8)",
+   "model": "moto g(7)"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g(8)",
+   "model": "moto g(8)"
   }
  ],
  "lima": [
@@ -114601,6 +114674,23 @@
    "model": "S480"
   }
  ],
+ "SP2": [
+  {
+   "brand": "Positivo",
+   "name": "SP2",
+   "model": "SP2"
+  },
+  {
+   "brand": "Positivo",
+   "name": "Twist SE",
+   "model": "S545"
+  },
+  {
+   "brand": "Positivo",
+   "name": "Twist SE",
+   "model": "Twist SE"
+  }
+ ],
  "SX1000": [
   {
    "brand": "Positivo",
@@ -118345,6 +118435,13 @@
    "brand": "xTouch",
    "name": "X40",
    "model": "X40"
+  }
+ ],
+ "i4i": [
+  {
+   "brand": "Qsmart",
+   "name": "QSmart i4i",
+   "model": "QSmart i4i"
   }
  ],
  "Rocket_Lite": [
@@ -122596,6 +122693,11 @@
   {
    "brand": "Samsung",
    "name": "Galaxy A01",
+   "model": "SM-A015A"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A01",
    "model": "SM-A015F"
   },
   {
@@ -122607,6 +122709,16 @@
    "brand": "Samsung",
    "name": "Galaxy A01",
    "model": "SM-A015M"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A01",
+   "model": "SM-A015T1"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A01",
+   "model": "SM-A015V"
   }
  ],
  "a10e": [
@@ -122648,6 +122760,18 @@
    "brand": "Samsung",
    "name": "Galaxy A10s",
    "model": "SM-A107M"
+  }
+ ],
+ "a11q": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A11",
+   "model": "SM-A115F"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A11",
+   "model": "SM-A115M"
   }
  ],
  "a2corelte": [
@@ -123270,6 +123394,16 @@
    "brand": "Samsung",
    "name": "Galaxy A51",
    "model": "SM-A515F"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A51",
+   "model": "SM-A515U"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A51",
+   "model": "SM-A515W"
   }
  ],
  "a6elteaio": [
@@ -147435,6 +147569,30 @@
    "model": "Percee TV"
   }
  ],
+ "T1_PRO": [
+  {
+   "brand": "TCL",
+   "name": "TCL 10 Pro",
+   "model": "T799B"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL 10 Pro",
+   "model": "T799H"
+  }
+ ],
+ "T1_LITE": [
+  {
+   "brand": "TCL",
+   "name": "TCL 10L",
+   "model": "T770B"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL 10L",
+   "model": "T770H"
+  }
+ ],
  "A3A": [
   {
    "brand": "TCL",
@@ -147668,6 +147826,28 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1S",
    "model": "5024J"
+  }
+ ],
+ "Jakarta": [
+  {
+   "brand": "TCL",
+   "name": "TCL L10+",
+   "model": "5130J"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1SE",
+   "model": "5030D"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1SE",
+   "model": "5030D_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1SE",
+   "model": "5030D_RU"
   }
  ],
  "Tokyo": [
@@ -147982,6 +148162,23 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 3L",
    "model": "HEYOU60"
+  }
+ ],
+ "Hulk_7_KIDS_WIFI": [
+  {
+   "brand": "TCL",
+   "name": "TKEE MINI",
+   "model": "8093"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "smart tab 7",
+   "model": "8052"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "smart tab 7",
+   "model": "8052_RU"
   }
  ],
  "UnionTV": [
@@ -151760,23 +151957,6 @@
    "model": "5007O"
   }
  ],
- "Jakarta": [
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "Alcatel 1SE",
-   "model": "5030D"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "Alcatel 1SE",
-   "model": "5030D_EEA"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "Alcatel 1SE",
-   "model": "5030D_RU"
-  }
- ],
  "Dive_73": [
   {
    "brand": "TCT (Alcatel)",
@@ -153763,18 +153943,6 @@
    "brand": "TCT (Alcatel)",
    "name": "smart tab 7",
    "model": "8051_RU"
-  }
- ],
- "Hulk_7_KIDS_WIFI": [
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "smart tab 7",
-   "model": "8052"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "smart tab 7",
-   "model": "8052_RU"
   }
  ],
  "FERMI_TF": [
@@ -157545,6 +157713,13 @@
    "brand": "Toughshield",
    "name": "T700_TABLET",
    "model": "T700"
+  }
+ ],
+ "SEI500TR": [
+  {
+   "brand": "Transvision",
+   "name": "SEI500TR",
+   "model": "TRANSVISION-Xstream"
   }
  ],
  "UHD_I56AD_TRV": [
@@ -161976,6 +162151,13 @@
    "model": "V1955A"
   }
  ],
+ "PD1963": [
+  {
+   "brand": "Vivo",
+   "name": "V1963A",
+   "model": "V1963A"
+  }
+ ],
  "Y37": [
   {
    "brand": "Vivo",
@@ -164533,6 +164715,13 @@
    "brand": "Walton",
    "name": "Primo H9",
    "model": "Primo H9"
+  }
+ ],
+ "Primo_H9_Pro": [
+  {
+   "brand": "Walton",
+   "name": "Primo H9 Pro",
+   "model": "Primo H9 Pro"
   }
  ],
  "Primo_HM4": [

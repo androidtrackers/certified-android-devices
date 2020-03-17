@@ -27445,11 +27445,6 @@
  ],
  "Freebox": [
   {
-   "device": "fbx8am",
-   "name": "Freebox Player POP",
-   "model": "Freebox Player POP"
-  },
-  {
    "device": "fbx6lc",
    "name": "Mini 4K",
    "model": "Freebox Player Mini"
@@ -58839,6 +58834,11 @@
    "model": "LM-X430"
   },
   {
+   "device": "mdh15lm",
+   "name": "LG K41S",
+   "model": "LM-K410"
+  },
+  {
    "device": "d3",
    "name": "LG K5",
    "model": "LG-X220"
@@ -60822,6 +60822,11 @@
    "device": "gvarfhd",
    "name": "LG-E985T",
    "model": "LG-E985T"
+  },
+  {
+   "device": "mdh15lm",
+   "name": "LG-K41S",
+   "model": "LM-K410"
   },
   {
    "device": "g2",
@@ -71818,6 +71823,11 @@
  ],
  "MiTAC": [
   {
+   "device": "surfing_pro",
+   "name": "N630",
+   "model": "N630"
+  },
+  {
    "device": "chiron_pro",
    "name": "N635",
    "model": "N635"
@@ -75407,6 +75417,16 @@
    "model": "Lenovo K10"
   },
   {
+   "device": "fiji",
+   "name": "Lenovo K11",
+   "model": "Lenovo K11"
+  },
+  {
+   "device": "blackjack",
+   "name": "Lenovo K11 Power",
+   "model": "Lenovo K11 Power"
+  },
+  {
    "device": "umts_primus",
    "name": "Master Touch",
    "model": "XT621"
@@ -76629,12 +76649,27 @@
   {
    "device": "surfna",
    "name": "moto e6",
+   "model": "moto e6 (XT2005DL)"
+  },
+  {
+   "device": "surfna",
+   "name": "moto e6",
    "model": "moto g(6)"
   },
   {
    "device": "bali",
    "name": "moto e6 play",
    "model": "moto e6 play"
+  },
+  {
+   "device": "fiji",
+   "name": "moto e6s",
+   "model": "moto e6"
+  },
+  {
+   "device": "fiji",
+   "name": "moto e6s",
+   "model": "moto e6s"
   },
   {
    "device": "pokerp",
@@ -76655,6 +76690,11 @@
    "device": "sofia",
    "name": "moto g power",
    "model": "moto g(7)"
+  },
+  {
+   "device": "sofia",
+   "name": "moto g power (XT2041DL)",
+   "model": "moto g power (XT2041DL)"
   },
   {
    "device": "sofiap",
@@ -76807,6 +76847,16 @@
    "model": "moto g(7) supra"
   },
   {
+   "device": "rav",
+   "name": "moto g(8)",
+   "model": "moto g(7)"
+  },
+  {
+   "device": "rav",
+   "name": "moto g(8)",
+   "model": "moto g(8)"
+  },
+  {
    "device": "lima",
    "name": "moto g(8) play",
    "model": "moto g(7) play"
@@ -76840,6 +76890,16 @@
    "device": "sofiar",
    "name": "moto g(8) power",
    "model": "moto g(8) power"
+  },
+  {
+   "device": "blackjack",
+   "name": "moto g(8) power lite",
+   "model": "moto g(8) power lite"
+  },
+  {
+   "device": "blackjack",
+   "name": "moto g(8) power lite",
+   "model": "moto g8 power lite"
   },
   {
    "device": "jeter",
@@ -84819,6 +84879,13 @@
    "model": "PL620"
   }
  ],
+ "PILOT": [
+  {
+   "device": "samseong",
+   "name": "Israel",
+   "model": "AI PONT"
+  }
+ ],
  "PLDT": [
   {
    "device": "Smart_Page_8_Pro",
@@ -88430,6 +88497,11 @@
    "model": "S550"
   },
   {
+   "device": "SP2",
+   "name": "SP2",
+   "model": "SP2"
+  },
+  {
    "device": "SX1000",
    "name": "SX1000",
    "model": "Positivo SX1000"
@@ -88583,6 +88655,16 @@
    "device": "S431",
    "name": "Twist Mini (2018)",
    "model": "Twist Mini"
+  },
+  {
+   "device": "SP2",
+   "name": "Twist SE",
+   "model": "S545"
+  },
+  {
+   "device": "SP2",
+   "name": "Twist SE",
+   "model": "Twist SE"
   },
   {
    "device": "T770",
@@ -91481,6 +91563,11 @@
    "device": "X40",
    "name": "QSmart X40",
    "model": "QSmart X40"
+  },
+  {
+   "device": "i4i",
+   "name": "QSmart i4i",
+   "model": "QSmart i4i"
   },
   {
    "device": "Rocket_Lite",
@@ -94817,6 +94904,11 @@
   {
    "device": "a01q",
    "name": "Galaxy A01",
+   "model": "SM-A015A"
+  },
+  {
+   "device": "a01q",
+   "name": "Galaxy A01",
    "model": "SM-A015F"
   },
   {
@@ -94828,6 +94920,16 @@
    "device": "a01q",
    "name": "Galaxy A01",
    "model": "SM-A015M"
+  },
+  {
+   "device": "a01q",
+   "name": "Galaxy A01",
+   "model": "SM-A015T1"
+  },
+  {
+   "device": "a01q",
+   "name": "Galaxy A01",
+   "model": "SM-A015V"
   },
   {
    "device": "a10",
@@ -94888,6 +94990,16 @@
    "device": "a10s",
    "name": "Galaxy A10s",
    "model": "SM-A107M"
+  },
+  {
+   "device": "a11q",
+   "name": "Galaxy A11",
+   "model": "SM-A115F"
+  },
+  {
+   "device": "a11q",
+   "name": "Galaxy A11",
+   "model": "SM-A115M"
   },
   {
    "device": "a2corelte",
@@ -95458,6 +95570,16 @@
    "device": "a51",
    "name": "Galaxy A51",
    "model": "SM-A515F"
+  },
+  {
+   "device": "a51",
+   "name": "Galaxy A51",
+   "model": "SM-A515U"
+  },
+  {
+   "device": "a51",
+   "name": "Galaxy A51",
+   "model": "SM-A515W"
   },
   {
    "device": "a6elteaio",
@@ -114222,6 +114344,26 @@
    "model": "Percee TV"
   },
   {
+   "device": "T1_PRO",
+   "name": "TCL 10 Pro",
+   "model": "T799B"
+  },
+  {
+   "device": "T1_PRO",
+   "name": "TCL 10 Pro",
+   "model": "T799H"
+  },
+  {
+   "device": "T1_LITE",
+   "name": "TCL 10L",
+   "model": "T770B"
+  },
+  {
+   "device": "T1_LITE",
+   "name": "TCL 10L",
+   "model": "T770H"
+  },
+  {
    "device": "A3A",
    "name": "TCL C5",
    "model": "5152D"
@@ -114250,6 +114392,11 @@
    "device": "Faraday",
    "name": "TCL L10",
    "model": "5124J"
+  },
+  {
+   "device": "Jakarta",
+   "name": "TCL L10+",
+   "model": "5130J"
   },
   {
    "device": "Tokyo",
@@ -114330,6 +114477,11 @@
    "device": "TokyoPro",
    "name": "TCL T9x",
    "model": "5129Y"
+  },
+  {
+   "device": "Hulk_7_KIDS_WIFI",
+   "name": "TKEE MINI",
+   "model": "8093"
   },
   {
    "device": "UnionTV",
@@ -123468,6 +123620,11 @@
  ],
  "Transvision": [
   {
+   "device": "SEI500TR",
+   "name": "SEI500TR",
+   "model": "TRANSVISION-Xstream"
+  },
+  {
    "device": "UHD_I56AD_TRV",
    "name": "TRANSVISION-OTT-Box",
    "model": "TRANSVISION-OTT-Box"
@@ -127285,6 +127442,11 @@
    "model": "V1955A"
   },
   {
+   "device": "PD1963",
+   "name": "V1963A",
+   "model": "V1963A"
+  },
+  {
    "device": "Y37",
    "name": "V1Max",
    "model": "vivo Y37"
@@ -129293,6 +129455,11 @@
    "device": "Primo_H9",
    "name": "Primo H9",
    "model": "Primo H9"
+  },
+  {
+   "device": "Primo_H9_Pro",
+   "name": "Primo H9 Pro",
+   "model": "Primo H9 Pro"
   },
   {
    "device": "Primo_HM4",

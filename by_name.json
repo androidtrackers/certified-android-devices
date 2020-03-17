@@ -44328,13 +44328,6 @@
    "model": "TONE m15"
   }
  ],
- "Freebox Player POP": [
-  {
-   "brand": "Freebox",
-   "device": "fbx8am",
-   "model": "Freebox Player POP"
-  }
- ],
  "Mini 4K": [
   {
    "brand": "Freebox",
@@ -80430,6 +80423,13 @@
    "model": "LM-X430"
   }
  ],
+ "LG K41S": [
+  {
+   "brand": "LGE",
+   "device": "mdh15lm",
+   "model": "LM-K410"
+  }
+ ],
  "LG K5": [
   {
    "brand": "LGE",
@@ -82701,6 +82701,13 @@
    "brand": "LGE",
    "device": "gvarfhd",
    "model": "LG-E985T"
+  }
+ ],
+ "LG-K41S": [
+  {
+   "brand": "LGE",
+   "device": "mdh15lm",
+   "model": "LM-K410"
   }
  ],
  "LGL22": [
@@ -88689,6 +88696,11 @@
    "brand": "Lenovo",
    "device": "L38083",
    "model": "Lenovo L38083"
+  },
+  {
+   "brand": "Motorola",
+   "device": "fiji",
+   "model": "Lenovo K11"
   }
  ],
  "Lenovo K8": [
@@ -95601,6 +95613,13 @@
    "model": "Super"
   }
  ],
+ "N630": [
+  {
+   "brand": "MiTAC",
+   "device": "surfing_pro",
+   "model": "N630"
+  }
+ ],
  "N635": [
   {
    "brand": "MiTAC",
@@ -99516,6 +99535,13 @@
    "model": "Lenovo K10"
   }
  ],
+ "Lenovo K11 Power": [
+  {
+   "brand": "Motorola",
+   "device": "blackjack",
+   "model": "Lenovo K11 Power"
+  }
+ ],
  "Master Touch": [
   {
    "brand": "Motorola",
@@ -100890,6 +100916,11 @@
   {
    "brand": "Motorola",
    "device": "surfna",
+   "model": "moto e6 (XT2005DL)"
+  },
+  {
+   "brand": "Motorola",
+   "device": "surfna",
    "model": "moto g(6)"
   }
  ],
@@ -100898,6 +100929,18 @@
    "brand": "Motorola",
    "device": "bali",
    "model": "moto e6 play"
+  }
+ ],
+ "moto e6s": [
+  {
+   "brand": "Motorola",
+   "device": "fiji",
+   "model": "moto e6"
+  },
+  {
+   "brand": "Motorola",
+   "device": "fiji",
+   "model": "moto e6s"
   }
  ],
  "moto e⁶ plus": [
@@ -100924,6 +100967,13 @@
    "brand": "Motorola",
    "device": "sofia",
    "model": "moto g(7)"
+  }
+ ],
+ "moto g power (XT2041DL)": [
+  {
+   "brand": "Motorola",
+   "device": "sofia",
+   "model": "moto g power (XT2041DL)"
   }
  ],
  "moto g stylus": [
@@ -101096,6 +101146,18 @@
    "model": "moto g(7) supra"
   }
  ],
+ "moto g(8)": [
+  {
+   "brand": "Motorola",
+   "device": "rav",
+   "model": "moto g(7)"
+  },
+  {
+   "brand": "Motorola",
+   "device": "rav",
+   "model": "moto g(8)"
+  }
+ ],
  "moto g(8) play": [
   {
    "brand": "Motorola",
@@ -101135,6 +101197,18 @@
    "brand": "Motorola",
    "device": "sofiar",
    "model": "moto g(8) power"
+  }
+ ],
+ "moto g(8) power lite": [
+  {
+   "brand": "Motorola",
+   "device": "blackjack",
+   "model": "moto g(8) power lite"
+  },
+  {
+   "brand": "Motorola",
+   "device": "blackjack",
+   "model": "moto g8 power lite"
   }
  ],
  "moto g6 play": [
@@ -110698,6 +110772,18 @@
    "model": "PL620"
   }
  ],
+ "Israel": [
+  {
+   "brand": "PILOT",
+   "device": "samseong",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Sansui",
+   "device": "SAN-8487",
+   "model": "SAN-8487"
+  }
+ ],
  "Smart Page 8 Pro": [
   {
    "brand": "PLDT",
@@ -115201,6 +115287,13 @@
    "model": "S480"
   }
  ],
+ "SP2": [
+  {
+   "brand": "Positivo",
+   "device": "SP2",
+   "model": "SP2"
+  }
+ ],
  "SX1000": [
   {
    "brand": "Positivo",
@@ -115402,6 +115495,18 @@
    "brand": "Positivo",
    "device": "S431",
    "model": "Twist Mini"
+  }
+ ],
+ "Twist SE": [
+  {
+   "brand": "Positivo",
+   "device": "SP2",
+   "model": "S545"
+  },
+  {
+   "brand": "Positivo",
+   "device": "SP2",
+   "model": "Twist SE"
   }
  ],
  "Twist Tab": [
@@ -119117,6 +119222,13 @@
    "brand": "Qsmart",
    "device": "X40",
    "model": "QSmart X40"
+  }
+ ],
+ "QSmart i4i": [
+  {
+   "brand": "Qsmart",
+   "device": "i4i",
+   "model": "QSmart i4i"
   }
  ],
  "Rocket_Lite": [
@@ -122906,6 +123018,11 @@
   {
    "brand": "Samsung",
    "device": "a01q",
+   "model": "SM-A015A"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a01q",
    "model": "SM-A015F"
   },
   {
@@ -122917,6 +123034,16 @@
    "brand": "Samsung",
    "device": "a01q",
    "model": "SM-A015M"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a01q",
+   "model": "SM-A015T1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a01q",
+   "model": "SM-A015V"
   }
  ],
  "Galaxy A10": [
@@ -122983,6 +123110,18 @@
    "brand": "Samsung",
    "device": "a10s",
    "model": "SM-A107M"
+  }
+ ],
+ "Galaxy A11": [
+  {
+   "brand": "Samsung",
+   "device": "a11q",
+   "model": "SM-A115F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a11q",
+   "model": "SM-A115M"
   }
  ],
  "Galaxy A2 Core": [
@@ -123591,6 +123730,16 @@
    "brand": "Samsung",
    "device": "a51",
    "model": "SM-A515F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a51",
+   "model": "SM-A515U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a51",
+   "model": "SM-A515W"
   }
  ],
  "Galaxy A6": [
@@ -135352,13 +135501,6 @@
    "model": "Sansui Fun"
   }
  ],
- "Israel": [
-  {
-   "brand": "Sansui",
-   "device": "SAN-8487",
-   "model": "SAN-8487"
-  }
- ],
  "Nitro": [
   {
    "brand": "Sansui",
@@ -144880,6 +145022,30 @@
    "model": "5186D"
   }
  ],
+ "TCL 10 Pro": [
+  {
+   "brand": "TCL",
+   "device": "T1_PRO",
+   "model": "T799B"
+  },
+  {
+   "brand": "TCL",
+   "device": "T1_PRO",
+   "model": "T799H"
+  }
+ ],
+ "TCL 10L": [
+  {
+   "brand": "TCL",
+   "device": "T1_LITE",
+   "model": "T770B"
+  },
+  {
+   "brand": "TCL",
+   "device": "T1_LITE",
+   "model": "T770H"
+  }
+ ],
  "TCL C5": [
   {
    "brand": "TCL",
@@ -144919,6 +145085,11 @@
   }
  ],
  "TCL L10+": [
+  {
+   "brand": "TCL",
+   "device": "Jakarta",
+   "model": "5130J"
+  },
   {
    "brand": "TCL",
    "device": "Tokyo",
@@ -145016,6 +145187,13 @@
    "brand": "TCL",
    "device": "TokyoPro",
    "model": "5129Y"
+  }
+ ],
+ "TKEE MINI": [
+  {
+   "brand": "TCL",
+   "device": "Hulk_7_KIDS_WIFI",
+   "model": "8093"
   }
  ],
  "Union TV": [
@@ -155031,6 +155209,13 @@
    "model": "T700"
   }
  ],
+ "SEI500TR": [
+  {
+   "brand": "Transvision",
+   "device": "SEI500TR",
+   "model": "TRANSVISION-Xstream"
+  }
+ ],
  "TRANSVISION-OTT-Box": [
   {
    "brand": "Transvision",
@@ -159516,6 +159701,13 @@
    "model": "V1955A"
   }
  ],
+ "V1963A": [
+  {
+   "brand": "Vivo",
+   "device": "PD1963",
+   "model": "V1963A"
+  }
+ ],
  "V1Max": [
   {
    "brand": "Vivo",
@@ -162020,6 +162212,13 @@
    "brand": "Walton",
    "device": "Primo_H9",
    "model": "Primo H9"
+  }
+ ],
+ "Primo H9 Pro": [
+  {
+   "brand": "Walton",
+   "device": "Primo_H9_Pro",
+   "model": "Primo H9 Pro"
   }
  ],
  "Primo HM4": [

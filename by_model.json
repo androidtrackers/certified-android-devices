@@ -4057,6 +4057,11 @@
    "device": "samseong"
   },
   {
+   "brand": "PILOT",
+   "name": "Israel",
+   "device": "samseong"
+  },
+  {
    "brand": "Philco",
    "name": "Brazil",
    "device": "sindorim"
@@ -38328,13 +38333,6 @@
    "brand": "Freebit",
    "name": "Tone m15",
    "device": "TONE_m15"
-  }
- ],
- "Freebox Player POP": [
-  {
-   "brand": "Freebox",
-   "name": "Freebox Player POP",
-   "device": "fbx8am"
   }
  ],
  "Freebox Player Mini": [
@@ -80347,6 +80345,18 @@
    "device": "mmh55lm"
   }
  ],
+ "LM-K410": [
+  {
+   "brand": "LGE",
+   "name": "LG K41S",
+   "device": "mdh15lm"
+  },
+  {
+   "brand": "LGE",
+   "name": "LG-K41S",
+   "device": "mdh15lm"
+  }
+ ],
  "LG-X220": [
   {
    "brand": "LGE",
@@ -96895,6 +96905,13 @@
    "device": "Super"
   }
  ],
+ "N630": [
+  {
+   "brand": "MiTAC",
+   "name": "N630",
+   "device": "surfing_pro"
+  }
+ ],
  "N635": [
   {
    "brand": "MiTAC",
@@ -101668,6 +101685,20 @@
    "device": "pokerp"
   }
  ],
+ "Lenovo K11": [
+  {
+   "brand": "Motorola",
+   "name": "Lenovo K11",
+   "device": "fiji"
+  }
+ ],
+ "Lenovo K11 Power": [
+  {
+   "brand": "Motorola",
+   "name": "Lenovo K11 Power",
+   "device": "blackjack"
+  }
+ ],
  "XT621": [
   {
    "brand": "Motorola",
@@ -103126,6 +103157,18 @@
    "brand": "Motorola",
    "name": "moto e6",
    "device": "surfna"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto e6s",
+   "device": "fiji"
+  }
+ ],
+ "moto e6 (XT2005DL)": [
+  {
+   "brand": "Motorola",
+   "name": "moto e6",
+   "device": "surfna"
   }
  ],
  "moto g(6)": [
@@ -103160,6 +103203,13 @@
    "brand": "Motorola",
    "name": "moto e6 play",
    "device": "bali"
+  }
+ ],
+ "moto e6s": [
+  {
+   "brand": "Motorola",
+   "name": "moto e6s",
+   "device": "fiji"
   }
  ],
  "moto e(6) plus": [
@@ -103206,6 +103256,11 @@
   },
   {
    "brand": "Motorola",
+   "name": "moto g(8)",
+   "device": "rav"
+  },
+  {
+   "brand": "Motorola",
    "name": "moto g(8) plus",
    "device": "doha"
   },
@@ -103213,6 +103268,13 @@
    "brand": "Motorola",
    "name": "moto g(8) power",
    "device": "sofiar"
+  }
+ ],
+ "moto g power (XT2041DL)": [
+  {
+   "brand": "Motorola",
+   "name": "moto g power (XT2041DL)",
+   "device": "sofia"
   }
  ],
  "moto g stylus": [
@@ -103351,6 +103413,13 @@
    "device": "ocean"
   }
  ],
+ "moto g(8)": [
+  {
+   "brand": "Motorola",
+   "name": "moto g(8)",
+   "device": "rav"
+  }
+ ],
  "moto g(8) play": [
   {
    "brand": "Motorola",
@@ -103375,6 +103444,20 @@
    "brand": "Motorola",
    "name": "moto g(8) power",
    "device": "sofiar"
+  }
+ ],
+ "moto g(8) power lite": [
+  {
+   "brand": "Motorola",
+   "name": "moto g(8) power lite",
+   "device": "blackjack"
+  }
+ ],
+ "moto g8 power lite": [
+  {
+   "brand": "Motorola",
+   "name": "moto g(8) power lite",
+   "device": "blackjack"
   }
  ],
  "XT1943-1": [
@@ -117992,6 +118075,13 @@
    "device": "S480"
   }
  ],
+ "SP2": [
+  {
+   "brand": "Positivo",
+   "name": "SP2",
+   "device": "SP2"
+  }
+ ],
  "Positivo SX1000": [
   {
    "brand": "Positivo",
@@ -118198,6 +118288,20 @@
    "brand": "Positivo",
    "name": "Twist Mini (2018)",
    "device": "S431"
+  }
+ ],
+ "S545": [
+  {
+   "brand": "Positivo",
+   "name": "Twist SE",
+   "device": "SP2"
+  }
+ ],
+ "Twist SE": [
+  {
+   "brand": "Positivo",
+   "name": "Twist SE",
+   "device": "SP2"
   }
  ],
  "Twist Tab": [
@@ -122016,6 +122120,13 @@
    "brand": "Qsmart",
    "name": "QSmart X40",
    "device": "X40"
+  }
+ ],
+ "QSmart i4i": [
+  {
+   "brand": "Qsmart",
+   "name": "QSmart i4i",
+   "device": "i4i"
   }
  ],
  "Rocket Lite": [
@@ -126266,6 +126377,13 @@
    "device": "archer"
   }
  ],
+ "SM-A015A": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A01",
+   "device": "a01q"
+  }
+ ],
  "SM-A015F": [
   {
    "brand": "Samsung",
@@ -126281,6 +126399,20 @@
   }
  ],
  "SM-A015M": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A01",
+   "device": "a01q"
+  }
+ ],
+ "SM-A015T1": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A01",
+   "device": "a01q"
+  }
+ ],
+ "SM-A015V": [
   {
    "brand": "Samsung",
    "name": "Galaxy A01",
@@ -126369,6 +126501,20 @@
    "brand": "Samsung",
    "name": "Galaxy A10s",
    "device": "a10s"
+  }
+ ],
+ "SM-A115F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A11",
+   "device": "a11q"
+  }
+ ],
+ "SM-A115M": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A11",
+   "device": "a11q"
   }
  ],
  "SM-A260F": [
@@ -127151,6 +127297,20 @@
   }
  ],
  "SM-A515F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A51",
+   "device": "a51"
+  }
+ ],
+ "SM-A515U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A51",
+   "device": "a51"
+  }
+ ],
+ "SM-A515W": [
   {
    "brand": "Samsung",
    "name": "Galaxy A51",
@@ -152086,6 +152246,34 @@
    "device": "A5A_INFINI"
   }
  ],
+ "T799B": [
+  {
+   "brand": "TCL",
+   "name": "TCL 10 Pro",
+   "device": "T1_PRO"
+  }
+ ],
+ "T799H": [
+  {
+   "brand": "TCL",
+   "name": "TCL 10 Pro",
+   "device": "T1_PRO"
+  }
+ ],
+ "T770B": [
+  {
+   "brand": "TCL",
+   "name": "TCL 10L",
+   "device": "T1_LITE"
+  }
+ ],
+ "T770H": [
+  {
+   "brand": "TCL",
+   "name": "TCL 10L",
+   "device": "T1_LITE"
+  }
+ ],
  "5152D": [
   {
    "brand": "TCL",
@@ -152126,6 +152314,13 @@
    "brand": "TCL",
    "name": "TCL L10",
    "device": "Faraday"
+  }
+ ],
+ "5130J": [
+  {
+   "brand": "TCL",
+   "name": "TCL L10+",
+   "device": "Jakarta"
   }
  ],
  "5128A": [
@@ -152236,6 +152431,13 @@
    "brand": "TCL",
    "name": "TCL T9x",
    "device": "TokyoPro"
+  }
+ ],
+ "8093": [
+  {
+   "brand": "TCL",
+   "name": "TKEE MINI",
+   "device": "Hulk_7_KIDS_WIFI"
   }
  ],
  "UnionTV": [
@@ -164345,6 +164547,13 @@
    "device": "R200"
   }
  ],
+ "TRANSVISION-Xstream": [
+  {
+   "brand": "Transvision",
+   "name": "SEI500TR",
+   "device": "SEI500TR"
+  }
+ ],
  "TRANSVISION-OTT-Box": [
   {
    "brand": "Transvision",
@@ -168975,6 +169184,13 @@
    "device": "PD1955"
   }
  ],
+ "V1963A": [
+  {
+   "brand": "Vivo",
+   "name": "V1963A",
+   "device": "PD1963"
+  }
+ ],
  "vivo Y37": [
   {
    "brand": "Vivo",
@@ -171475,6 +171691,13 @@
    "brand": "Walton",
    "name": "Primo H9",
    "device": "Primo_H9"
+  }
+ ],
+ "Primo H9 Pro": [
+  {
+   "brand": "Walton",
+   "name": "Primo H9 Pro",
+   "device": "Primo_H9_Pro"
   }
  ],
  "Primo HM4": [
