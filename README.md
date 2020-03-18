@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-03-17
+Last sync is 2020-03-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9579,6 +9579,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ikimobile|GO5_55|GO5_55|GO5_55|
 |Ikimobile|KF45|KF45|KF45|
 |Ikimobile|Tab4you_6|Tab4you_6|Tab4you_6|
+|Ikon|IK-1025|IK-1025|IK-1025|
 |Ikon|IK-7108|IK-7108|IK-7108|
 |Ikon|IK-787|IK-787|IK-787|
 |Ikon|IK-869|IK-869|IK-869|
@@ -11763,6 +11764,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG V35 ThinQ|judyp|LM-V350N|
 |LGE|LG V50 ThinQ|flashlmdd|LM-V500|
 |LGE|LG V50 ThinQ|flashlmdd|LM-V500N|
+|LGE|LG V60 ThinQ|timelm|LM-V600|
+|LGE|LG V60 ThinQ|timelm|LM-V600N|
 |LGE|LG Venice|u0_cdma|LG-LG730|
 |LGE|LG Viper 4G LTE|cayman|LG-LS840|
 |LGE|LG Volt|my70ds|LG-H422|
@@ -12418,6 +12421,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|Z30|AN9910|AN9910|
 |Lava|Z40|Z40|Z40|
 |Lava|Z41 2GB|LN9910_2GB|LN9910_2GB|
+|Lava|Z42|AF9010_F|AF9010_F|
 |Lava|Z42 Pro|AF9020|AF9020|
 |Lava|Z50|Z50|Z50|
 |Lava|Z50_Pro|Z50_Pro|Z50_Pro|
@@ -20956,6 +20960,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS R3 SH-04L|SH-04L|SH-04L|
 |Sharp|AQUOS R3 SH-R10A|SH-R10|SH-R10A|
 |Sharp|AQUOS R3 SHV44|NAX|SHV44|
+|Sharp|AQUOS R5G 908SH|SG908SH|908SH|
+|Sharp|AQUOS R5G SH-51A|SH-51A|SH-51A|
 |Sharp|AQUOS SERIE SHL25|SHL25|SHL25|
 |Sharp|AQUOS SERIE SHV32|SHV32|SHV32|
 |Sharp|AQUOS SERIE SHV34|SHV34|SHV34|
@@ -21468,6 +21474,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|BRAVIA 4K UR2|BRAVIA_UR2_4K|BRAVIA 4K UR2|
 |Sony|BRAVIA 4K UR3|BRAVIA_UR3|BRAVIA 4K UR3|
 |Sony|BRAVIA Smart Stick|NSZGU1|NSZ-GU1|
+|Sony|BRAVIA_VU|BRAVIA_VU1|BRAVIA VU1|
 |Sony|Ericsson Live with Walkman|WT19a|WT19a|
 |Sony|Ericsson Live with Walkman|WT19i|WT19i|
 |Sony|Internet TV|asura|Internet TV|
@@ -23051,6 +23058,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 3L|TokyoPro|5029Y|
 |TCT (Alcatel)|Alcatel 3L|TokyoPro|5029Y_EEA|
 |TCT (Alcatel)|Alcatel 3L|TokyoPro|5029Y_RU|
+|TCT (Alcatel)|Alcatel 3L|TokyoPro|Alpha 20|
 |TCT (Alcatel)|Alcatel 3L|TokyoPro|HEYOU60|
 |TCT (Alcatel)|Alcatel 3T 10|A3A_10_4G|8088M|
 |TCT (Alcatel)|Alcatel 3T 8|A3A_8_4G|9027F|
@@ -24382,6 +24390,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unifone|Armor_5S|Armor_5S|Armor 5S|
 |Unifone|U5_Breeze|U5_Breeze|U5_Breeze|
 |Unihertz|Atom|Atom|Atom|
+|Unihertz|Atom_XL|Atom_XL|Atom_XL|
 |Unihertz|Titan|Titan|Titan|
 |Unistrong|UT10|UT10|UT10|
 |Unistrong|UT12|UT12|UT12|

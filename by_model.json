@@ -67343,6 +67343,13 @@
    "device": "Tab4you_6"
   }
  ],
+ "IK-1025": [
+  {
+   "brand": "Ikon",
+   "name": "IK-1025",
+   "device": "IK-1025"
+  }
+ ],
  "IK-7108": [
   {
    "brand": "Ikon",
@@ -82392,6 +82399,20 @@
    "device": "flashlmdd"
   }
  ],
+ "LM-V600": [
+  {
+   "brand": "LGE",
+   "name": "LG V60 ThinQ",
+   "device": "timelm"
+  }
+ ],
+ "LM-V600N": [
+  {
+   "brand": "LGE",
+   "name": "LG V60 ThinQ",
+   "device": "timelm"
+  }
+ ],
  "LG-LG730": [
   {
    "brand": "LGE",
@@ -86309,6 +86330,18 @@
    "brand": "Lava",
    "name": "Z41 2GB",
    "device": "LN9910_2GB"
+  }
+ ],
+ "AF9010_F": [
+  {
+   "brand": "Lava",
+   "name": "Z42",
+   "device": "AF9010_F"
+  },
+  {
+   "brand": "benco",
+   "name": "benco Y50",
+   "device": "AF9010_F"
   }
  ],
  "AF9020": [
@@ -143327,6 +143360,20 @@
    "device": "NAX"
   }
  ],
+ "908SH": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS R5G 908SH",
+   "device": "SG908SH"
+  }
+ ],
+ "SH-51A": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS R5G SH-51A",
+   "device": "SH-51A"
+  }
+ ],
  "SHL25": [
   {
    "brand": "Sharp",
@@ -146743,6 +146790,13 @@
    "brand": "Sony",
    "name": "BRAVIA Smart Stick",
    "device": "NSZGU1"
+  }
+ ],
+ "BRAVIA VU1": [
+  {
+   "brand": "Sony",
+   "name": "BRAVIA_VU",
+   "device": "BRAVIA_VU1"
   }
  ],
  "WT19a": [
@@ -157384,6 +157438,13 @@
    "device": "TokyoPro"
   }
  ],
+ "Alpha 20": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3L",
+   "device": "TokyoPro"
+  }
+ ],
  "HEYOU60": [
   {
    "brand": "TCT (Alcatel)",
@@ -165999,6 +166060,13 @@
    "brand": "Unifone",
    "name": "U5_Breeze",
    "device": "U5_Breeze"
+  }
+ ],
+ "Atom_XL": [
+  {
+   "brand": "Unihertz",
+   "name": "Atom_XL",
+   "device": "Atom_XL"
   }
  ],
  "UT10": [
@@ -186494,13 +186562,6 @@
    "brand": "benco",
    "name": "benco Y30",
    "device": "AF9030"
-  }
- ],
- "AF9010_F": [
-  {
-   "brand": "benco",
-   "name": "benco Y50",
-   "device": "AF9010_F"
   }
  ],
  "LH9921": [

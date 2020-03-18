@@ -49213,6 +49213,11 @@
  ],
  "Ikon": [
   {
+   "device": "IK-1025",
+   "name": "IK-1025",
+   "model": "IK-1025"
+  },
+  {
    "device": "IK-7108",
    "name": "IK-7108",
    "model": "IK-7108"
@@ -60369,6 +60374,16 @@
    "model": "LM-V500N"
   },
   {
+   "device": "timelm",
+   "name": "LG V60 ThinQ",
+   "model": "LM-V600"
+  },
+  {
+   "device": "timelm",
+   "name": "LG V60 ThinQ",
+   "model": "LM-V600N"
+  },
+  {
    "device": "u0_cdma",
    "name": "LG Venice",
    "model": "LG-LG730"
@@ -63686,6 +63701,11 @@
    "device": "LN9910_2GB",
    "name": "Z41 2GB",
    "model": "LN9910_2GB"
+  },
+  {
+   "device": "AF9010_F",
+   "name": "Z42",
+   "model": "AF9010_F"
   },
   {
    "device": "AF9020",
@@ -107322,6 +107342,16 @@
    "model": "SHV44"
   },
   {
+   "device": "SG908SH",
+   "name": "AQUOS R5G 908SH",
+   "model": "908SH"
+  },
+  {
+   "device": "SH-51A",
+   "name": "AQUOS R5G SH-51A",
+   "model": "SH-51A"
+  },
+  {
    "device": "SHL25",
    "name": "AQUOS SERIE SHL25",
    "model": "SHL25"
@@ -109966,6 +109996,11 @@
    "device": "NSZGU1",
    "name": "BRAVIA Smart Stick",
    "model": "NSZ-GU1"
+  },
+  {
+   "device": "BRAVIA_VU1",
+   "name": "BRAVIA_VU",
+   "model": "BRAVIA VU1"
   },
   {
    "device": "WT19a",
@@ -117983,6 +118018,11 @@
   {
    "device": "TokyoPro",
    "name": "Alcatel 3L",
+   "model": "Alpha 20"
+  },
+  {
+   "device": "TokyoPro",
+   "name": "Alcatel 3L",
    "model": "HEYOU60"
   },
   {
@@ -124882,6 +124922,11 @@
    "device": "Atom",
    "name": "Atom",
    "model": "Atom"
+  },
+  {
+   "device": "Atom_XL",
+   "name": "Atom_XL",
+   "model": "Atom_XL"
   },
   {
    "device": "Titan",
