@@ -65725,6 +65725,27 @@
    "model": "Infinix X625C"
   }
  ],
+ "Infinix-X655": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 9",
+   "model": "Infinix X655"
+  }
+ ],
+ "Infinix-X655C": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 9",
+   "model": "Infinix X655C"
+  }
+ ],
+ "Infinix-X655D": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 9",
+   "model": "Infinix X655D"
+  }
+ ],
  "Infinix-X655F": [
   {
    "brand": "Infinix",
@@ -65759,6 +65780,13 @@
    "brand": "Infinix",
    "name": "Infinix NOTE 5 Stylus",
    "model": "Infinix X605"
+  }
+ ],
+ "Infinix-X656": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix NOTE 7 Lite",
+   "model": "Infinix X656"
   }
  ],
  "Infinix-X5010": [
@@ -159167,6 +159195,13 @@
    "model": "U5_Breeze"
   }
  ],
+ "Atom_L": [
+  {
+   "brand": "Unihertz",
+   "name": "Atom_L",
+   "model": "Atom_L"
+  }
+ ],
  "Atom_XL": [
   {
    "brand": "Unihertz",
@@ -176334,6 +176369,11 @@
   {
    "brand": "ZTE",
    "name": "ZTE Blade A3 2019",
+   "model": "P500"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A3 2019",
    "model": "ZTE Blade A3 2019"
   },
   {
@@ -176560,6 +176600,13 @@
    "brand": "ZTE",
    "name": "ZTE Blade L8RU",
    "model": "ZTE Blade L8RU"
+  }
+ ],
+ "P671F60": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade V 2020",
+   "model": "ZTE 9000"
   }
  ],
  "P671F20": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-03-18
+Last sync is 2020-03-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9668,10 +9668,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623B|
 |Infinix|Infinix HOT 7|Infinix-X625C|Infinix X625C|
 |Infinix|Infinix HOT 7 pro|Infinix-X625C|Infinix X625C|
+|Infinix|Infinix HOT 9|Infinix-X655|Infinix X655|
+|Infinix|Infinix HOT 9|Infinix-X655C|Infinix X655C|
+|Infinix|Infinix HOT 9|Infinix-X655D|Infinix X655D|
 |Infinix|Infinix HOT 9 Pro|Infinix-X655F|Infinix X655F|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604B|
 |Infinix|Infinix NOTE 5 Stylus|Infinix-X605_sprout|Infinix X605|
+|Infinix|Infinix NOTE 7 Lite|Infinix-X656|Infinix X656|
 |Infinix|Infinix Note 5|Infinix-X604_sprout|Infinix X604|
 |Infinix|Infinix Note 5|Infinix-X604_sprout|Infinix X604B|
 |Infinix|Infinix X5010|Infinix-X5010|Infinix X5010|
@@ -24390,6 +24394,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unifone|Armor_5S|Armor_5S|Armor 5S|
 |Unifone|U5_Breeze|U5_Breeze|U5_Breeze|
 |Unihertz|Atom|Atom|Atom|
+|Unihertz|Atom_L|Atom_L|Atom_L|
 |Unihertz|Atom_XL|Atom_XL|Atom_XL|
 |Unihertz|Titan|Titan|Titan|
 |Unistrong|UT10|UT10|UT10|
@@ -27304,6 +27309,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE BV0870|P840V71|ZTE BV0870|
 |ZTE|ZTE Blade 10 Vita|P963F01|ZTE Blade 10 Vita|
 |ZTE|ZTE Blade A0722|P817F18|ZTE Blade A0722|
+|ZTE|ZTE Blade A3 2019|P932F20|P500|
 |ZTE|ZTE Blade A3 2019|P932F20|ZTE Blade A3 2019|
 |ZTE|ZTE Blade A3 2019|P932F20|ZTE Blade A3 Lite|
 |ZTE|ZTE Blade A3 2019|P932K20|ZTE Blade A3 2019|
@@ -27332,6 +27338,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade L5|P172A40|ZTE Blade L5|
 |ZTE|ZTE Blade L8|P731F20|ZTE Blade L8|
 |ZTE|ZTE Blade L8RU|P731F20|ZTE Blade L8RU|
+|ZTE|ZTE Blade V 2020|P671F60|ZTE 9000|
 |ZTE|ZTE Blade V10|P671F20|ZTE Blade V10|
 |ZTE|ZTE Blade V10 Vita|P963F01|ZTE Blade V10 Vita|
 |ZTE|ZTE Blade V10 Vita RU|P963F01|ZTE Blade V10 Vita RU|
