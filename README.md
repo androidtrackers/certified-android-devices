@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-03-19
+Last sync is 2020-03-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -22320,6 +22320,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TASKPHONE|T20|T20P|T20|
 |TCL|Beyond TV|BeyondTV|BeyondTV|
 |TCL|BeyondTV2|BeyondTV|BeyondTV2|
+|TCL|BeyondTV5|BeyondTV|BeyondTV5|
 |TCL|C9|A3A_XL_4G|5199I|
 |TCL|GO5c|U3A_PLUS_4G|5033E|
 |TCL|L55E6700UDS|movo_la|movo_la|
