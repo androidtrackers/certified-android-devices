@@ -21818,6 +21818,13 @@
    "model": "B50_CHT"
   }
  ],
+ "China Taiwan": [
+  {
+   "brand": "BenQ",
+   "device": "samseong",
+   "model": "AI PONT"
+  }
+ ],
  "F3": [
   {
    "brand": "BenQ",
@@ -121097,13 +121104,6 @@
    "model": "Power"
   }
  ],
- "T5SE": [
-  {
-   "brand": "Rhino",
-   "device": "Rhino_T5SE",
-   "model": "T5SE-001"
-  }
- ],
  "R455": [
   {
    "brand": "Rinno",
@@ -144397,6 +144397,13 @@
    "model": "VS700"
   }
  ],
+ "Africa & Asia Pacific": [
+  {
+   "brand": "Syinix",
+   "device": "samseong",
+   "model": "AI PONT"
+  }
+ ],
  "E90": [
   {
    "brand": "Symphony",
@@ -153633,6 +153640,20 @@
    "brand": "Tecno",
    "device": "TECNO-KC6S",
    "model": "TECNO KC6S"
+  }
+ ],
+ "TECNO SPARK 5": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KD7h",
+   "model": "TECNO KD7h"
+  }
+ ],
+ "TECNO SPARK 5 Pro": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KD7",
+   "model": "TECNO KD7"
   }
  ],
  "TECNO SPARK Go": [
@@ -173331,6 +173352,11 @@
   }
  ],
  "ZTE Blade A5 2020": [
+  {
+   "brand": "ZTE",
+   "device": "P963F50",
+   "model": "Blade A5 2020-T"
+  },
   {
    "brand": "ZTE",
    "device": "P963F50",

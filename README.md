@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-03-20
+Last sync is 2020-03-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2197,6 +2197,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|B505|B505|B505|
 |BenQ|B506|B506_TW|B506_TW|
 |BenQ|B50_CHT|B50|B50_CHT|
+|BenQ|China Taiwan|samseong|AI PONT|
 |BenQ|F3|F3|F3|
 |BenQ|F4|benq_a3s|BenQ A3s|
 |BenQ|F5|BENQ_F5|BenQ F5|
@@ -18143,7 +18144,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Revo|Pearl|Pearl|Pearl|
 |Revo|Power|Power|Power|
 |Revtel|R45|Revel_R45|R45|
-|Rhino|T5SE|Rhino_T5SE|T5SE-001|
 |Rinno|R455|R455|R455|
 |Rinno|R505|Rinno_R505|R505|
 |Rinno|R520|R520|R520|
@@ -22219,6 +22219,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Swisstone|swisstone SD 510|SD5103G|swisstone SD 510|
 |Swisstone|swisstone SD 530|SD5304G|swisstone SD 530|
 |Switel|VS700|VS700|VS700|
+|Syinix|Africa & Asia Pacific|samseong|AI PONT|
 |Symphony|E90|E90|E90|
 |Symphony|E95|E95|E95|
 |Symphony|G10|G10|Symphony G10|
@@ -23883,6 +23884,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 4 Air|TECNO-KC1j|TECNO KC1j|
 |Tecno|TECNO SPARK 4 Air|TECNO-KC6|TECNO KC6|
 |Tecno|TECNO SPARK 4 Air|TECNO-KC6S|TECNO KC6S|
+|Tecno|TECNO SPARK 5|TECNO-KD7h|TECNO KD7h|
+|Tecno|TECNO SPARK 5 Pro|TECNO-KD7|TECNO KD7|
 |Tecno|TECNO SPARK Go|TECNO-KC1|TECNO KC1|
 |Tecno|TECNO W5|TECNO-W5|TECNO-W5|
 |Tecno|TECNO WX4 Pro S|TECNO-WX4-Pro|TECNO WX4 Pro S|
@@ -27321,6 +27324,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A5 2019|P963F30|ZTE Blade A5 2019|
 |ZTE|ZTE Blade A5 2019|P963F30P|ZTE Blade A5 2019|
 |ZTE|ZTE Blade A5 2019RU|P963F30P|ZTE Blade A5 2019RU|
+|ZTE|ZTE Blade A5 2020|P963F50|Blade A5 2020-T|
 |ZTE|ZTE Blade A5 2020|P963F50|ZTE Blade A5 2020|
 |ZTE|ZTE Blade A5 2020RU|P963F50|ZTE Blade A5 2020RU|
 |ZTE|ZTE Blade A522|P817E53|ZTE Blade A522|

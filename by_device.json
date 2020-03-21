@@ -4053,6 +4053,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "BenQ",
+   "name": "China Taiwan",
+   "model": "AI PONT"
+  },
+  {
    "brand": "Changhong",
    "name": "AP(Indonesia etc.)/MENA",
    "model": "AI PONT"
@@ -4110,6 +4115,11 @@
   {
    "brand": "SHINON",
    "name": "Iraq",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Syinix",
+   "name": "Africa & Asia Pacific",
    "model": "AI PONT"
   },
   {
@@ -120398,13 +120408,6 @@
    "model": "R45"
   }
  ],
- "Rhino_T5SE": [
-  {
-   "brand": "Rhino",
-   "name": "T5SE",
-   "model": "T5SE-001"
-  }
- ],
  "R455": [
   {
    "brand": "Rinno",
@@ -156077,6 +156080,20 @@
    "model": "TECNO KC6S"
   }
  ],
+ "TECNO-KD7h": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 5",
+   "model": "TECNO KD7h"
+  }
+ ],
+ "TECNO-KD7": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 5 Pro",
+   "model": "TECNO KD7"
+  }
+ ],
  "TECNO-KC1": [
   {
    "brand": "Tecno",
@@ -176515,6 +176532,11 @@
   }
  ],
  "P963F50": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A5 2020",
+   "model": "Blade A5 2020-T"
+  },
   {
    "brand": "ZTE",
    "name": "ZTE Blade A5 2020",

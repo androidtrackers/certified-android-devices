@@ -11269,6 +11269,11 @@
    "model": "B50_CHT"
   },
   {
+   "device": "samseong",
+   "name": "China Taiwan",
+   "model": "AI PONT"
+  },
+  {
    "device": "F3",
    "name": "F3",
    "model": "F3"
@@ -93103,13 +93108,6 @@
    "model": "R45"
   }
  ],
- "Rhino": [
-  {
-   "device": "Rhino_T5SE",
-   "name": "T5SE",
-   "model": "T5SE-001"
-  }
- ],
  "Rinno": [
   {
    "device": "R455",
@@ -113801,6 +113799,13 @@
    "model": "VS700"
   }
  ],
+ "Syinix": [
+  {
+   "device": "samseong",
+   "name": "Africa & Asia Pacific",
+   "model": "AI PONT"
+  }
+ ],
  "Symphony": [
   {
    "device": "E90",
@@ -122227,6 +122232,16 @@
    "device": "TECNO-KC6S",
    "name": "TECNO SPARK 4 Air",
    "model": "TECNO KC6S"
+  },
+  {
+   "device": "TECNO-KD7h",
+   "name": "TECNO SPARK 5",
+   "model": "TECNO KD7h"
+  },
+  {
+   "device": "TECNO-KD7",
+   "name": "TECNO SPARK 5 Pro",
+   "model": "TECNO KD7"
   },
   {
    "device": "TECNO-KC1",
@@ -139891,6 +139906,11 @@
    "device": "P963F30P",
    "name": "ZTE Blade A5 2019RU",
    "model": "ZTE Blade A5 2019RU"
+  },
+  {
+   "device": "P963F50",
+   "name": "ZTE Blade A5 2020",
+   "model": "Blade A5 2020-T"
   },
   {
    "device": "P963F50",

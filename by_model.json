@@ -3992,6 +3992,11 @@
    "device": "samseong"
   },
   {
+   "brand": "BenQ",
+   "name": "China Taiwan",
+   "device": "samseong"
+  },
+  {
    "brand": "Changhong",
    "name": "AP(Indonesia etc.)/MENA",
    "device": "ikebukuro"
@@ -4074,6 +4079,11 @@
   {
    "brand": "SHINON",
    "name": "Iraq",
+   "device": "samseong"
+  },
+  {
+   "brand": "Syinix",
+   "name": "Africa & Asia Pacific",
    "device": "samseong"
   },
   {
@@ -124096,13 +124106,6 @@
    "device": "Pearl"
   }
  ],
- "T5SE-001": [
-  {
-   "brand": "Rhino",
-   "name": "T5SE",
-   "device": "Rhino_T5SE"
-  }
- ],
  "R455": [
   {
    "brand": "Rinno",
@@ -162886,6 +162889,20 @@
    "device": "TECNO-KC6S"
   }
  ],
+ "TECNO KD7h": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 5",
+   "device": "TECNO-KD7h"
+  }
+ ],
+ "TECNO KD7": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 5 Pro",
+   "device": "TECNO-KD7"
+  }
+ ],
  "TECNO KC1": [
   {
    "brand": "Tecno",
@@ -185108,6 +185125,13 @@
    "brand": "ZTE",
    "name": "ZTE Blade A5 2019RU",
    "device": "P963F30P"
+  }
+ ],
+ "Blade A5 2020-T": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A5 2020",
+   "device": "P963F50"
   }
  ],
  "ZTE Blade A5 2020": [
