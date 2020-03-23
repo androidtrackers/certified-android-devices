@@ -8593,6 +8593,11 @@
    "model": "A7"
   },
   {
+   "brand": "Lenovo",
+   "device": "AK47",
+   "model": "Lenovo L19111"
+  },
+  {
    "brand": "Nuu",
    "device": "N5002WE",
    "model": "N5002W"
@@ -33101,6 +33106,20 @@
    "brand": "Crosscall",
    "device": "HS8917QC",
    "model": "Core-X3"
+  }
+ ],
+ "Core-T4": [
+  {
+   "brand": "Crosscall",
+   "device": "L810",
+   "model": "Core-T4"
+  }
+ ],
+ "Core-X4": [
+  {
+   "brand": "Crosscall",
+   "device": "L762",
+   "model": "Core-X4"
   }
  ],
  "ODYSSEY": [
@@ -136764,6 +136783,13 @@
    "brand": "Sharp",
    "device": "SH-51A",
    "model": "SH-51A"
+  }
+ ],
+ "AQUOS R5G SHG01": [
+  {
+   "brand": "Sharp",
+   "device": "TGD",
+   "model": "SHG01"
   }
  ],
  "AQUOS SERIE SHL25": [

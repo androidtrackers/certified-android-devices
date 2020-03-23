@@ -19167,6 +19167,16 @@
    "model": "Core-X3"
   },
   {
+   "device": "L810",
+   "name": "Core-T4",
+   "model": "Core-T4"
+  },
+  {
+   "device": "L762",
+   "name": "Core-X4",
+   "model": "Core-X4"
+  },
+  {
    "device": "ODYSSEY3G",
    "name": "ODYSSEY",
    "model": "ODYSSEY"
@@ -65568,6 +65578,11 @@
    "model": "LNV-Lenovo A690e"
   },
   {
+   "device": "AK47",
+   "name": "A7",
+   "model": "Lenovo L19111"
+  },
+  {
    "device": "A7-30GC",
    "name": "A7-30GC",
    "model": "Lenovo TAB 2 A7-30GC"
@@ -107368,6 +107383,11 @@
    "device": "SH-51A",
    "name": "AQUOS R5G SH-51A",
    "model": "SH-51A"
+  },
+  {
+   "device": "TGD",
+   "name": "AQUOS R5G SHG01",
+   "model": "SHG01"
   },
   {
    "device": "SHL25",

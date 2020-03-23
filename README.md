@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-03-22
+Last sync is 2020-03-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3715,6 +3715,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Crosscall|CORE-M4|CORE-M4|CORE-M4|
 |Crosscall|CORE-M4 GO|CORE-M4-GO|CORE-M4 GO|
 |Crosscall|Core- X3|HS8917QC|Core-X3|
+|Crosscall|Core-T4|L810|Core-T4|
+|Crosscall|Core-X4|L762|Core-X4|
 |Crosscall|ODYSSEY|ODYSSEY3G|ODYSSEY|
 |Crosscall|TREKKER- X3|HS8952QC|TREKKER-X3|
 |Crosscall|TREKKER-M1 CORE|HS8909QC|TREKKER-M1 CORE|
@@ -12790,6 +12792,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|A6800|A6800|Lenovo A6800|
 |Lenovo|A688t|A688t|Lenovo A688t|
 |Lenovo|A690e|A690e|LNV-Lenovo A690e|
+|Lenovo|A7|AK47|Lenovo L19111|
 |Lenovo|A7-30GC|A7-30GC|Lenovo TAB 2 A7-30GC|
 |Lenovo|A7-30H|A7-30H|Lenovo TAB 2 A7-30D|
 |Lenovo|A7-30H|A7-30H|Lenovo TAB 2 A7-30H|
@@ -20966,6 +20969,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS R3 SHV44|NAX|SHV44|
 |Sharp|AQUOS R5G 908SH|SG908SH|908SH|
 |Sharp|AQUOS R5G SH-51A|SH-51A|SH-51A|
+|Sharp|AQUOS R5G SHG01|TGD|SHG01|
 |Sharp|AQUOS SERIE SHL25|SHL25|SHL25|
 |Sharp|AQUOS SERIE SHV32|SHV32|SHV32|
 |Sharp|AQUOS SERIE SHV34|SHV34|SHV34|

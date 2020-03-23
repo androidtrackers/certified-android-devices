@@ -27092,6 +27092,20 @@
    "device": "HS8917QC"
   }
  ],
+ "Core-T4": [
+  {
+   "brand": "Crosscall",
+   "name": "Core-T4",
+   "device": "L810"
+  }
+ ],
+ "Core-X4": [
+  {
+   "brand": "Crosscall",
+   "name": "Core-X4",
+   "device": "L762"
+  }
+ ],
  "ODYSSEY": [
   {
    "brand": "Crosscall",
@@ -88803,6 +88817,13 @@
    "device": "A690e"
   }
  ],
+ "Lenovo L19111": [
+  {
+   "brand": "Lenovo",
+   "name": "A7",
+   "device": "AK47"
+  }
+ ],
  "Lenovo TAB 2 A7-30GC": [
   {
    "brand": "Lenovo",
@@ -143408,6 +143429,13 @@
    "brand": "Sharp",
    "name": "AQUOS R5G SH-51A",
    "device": "SH-51A"
+  }
+ ],
+ "SHG01": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS R5G SHG01",
+   "device": "TGD"
   }
  ],
  "SHL25": [

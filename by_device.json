@@ -27486,6 +27486,20 @@
    "model": "HLTE212T"
   }
  ],
+ "L810": [
+  {
+   "brand": "Crosscall",
+   "name": "Core-T4",
+   "model": "Core-T4"
+  }
+ ],
+ "L762": [
+  {
+   "brand": "Crosscall",
+   "name": "Core-X4",
+   "model": "Core-X4"
+  }
+ ],
  "ODYSSEY3G": [
   {
    "brand": "Crosscall",
@@ -85468,6 +85482,13 @@
    "model": "LNV-Lenovo A690e"
   }
  ],
+ "AK47": [
+  {
+   "brand": "Lenovo",
+   "name": "A7",
+   "model": "Lenovo L19111"
+  }
+ ],
  "A7-30GC": [
   {
    "brand": "Lenovo",
@@ -138613,6 +138634,13 @@
    "brand": "Sharp",
    "name": "AQUOS R5G SH-51A",
    "model": "SH-51A"
+  }
+ ],
+ "TGD": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS R5G SHG01",
+   "model": "SHG01"
   }
  ],
  "SHL25": [
