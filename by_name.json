@@ -31188,6 +31188,13 @@
    "model": "Plume L3 Plus"
   }
  ],
+ "Plume_L4_Pro_EEA": [
+  {
+   "brand": "Condor",
+   "device": "Plume_L4_Pro",
+   "model": "Plume L4 Pro"
+  }
+ ],
  "Plume_L4_Pro_TE": [
   {
    "brand": "Condor",
@@ -60228,6 +60235,13 @@
    "brand": "How",
    "device": "HT705",
    "model": "HT-705"
+  }
+ ],
+ "HT-705PRO": [
+  {
+   "brand": "How",
+   "device": "HT-705PRO",
+   "model": "HT-705PRO"
   }
  ],
  "HT-705XS": [
@@ -120497,6 +120511,20 @@
    "model": "RMX1922"
   }
  ],
+ "RealtekHank": [
+  {
+   "brand": "Realtek",
+   "device": "RealtekHank",
+   "model": "RealtekHank"
+  }
+ ],
+ "RealtekThor": [
+  {
+   "brand": "Realtek",
+   "device": "RealtekThor",
+   "model": "RealtekThor"
+  }
+ ],
  "RS405": [
   {
    "brand": "Realtime",
@@ -120551,6 +120579,18 @@
    "brand": "Red-X",
    "device": "RX4618",
    "model": "RX4618"
+  }
+ ],
+ "K30 PRO": [
+  {
+   "brand": "Redmi",
+   "device": "lmi",
+   "model": "Lmi"
+  },
+  {
+   "brand": "Redmi",
+   "device": "lmi",
+   "model": "Redmi K30 Pro"
   }
  ],
  "Mi  9T  Pro": [
@@ -124062,6 +124102,11 @@
    "brand": "Samsung",
    "device": "a71",
    "model": "SM-A715F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a71",
+   "model": "SM-A715W"
   }
  ],
  "Galaxy A8": [
@@ -144991,6 +145036,13 @@
    "model": "TAG Heuer"
   }
  ],
+ "Connected 2020": [
+  {
+   "brand": "TAG Heuer",
+   "device": "orbital",
+   "model": "TAG Heuer"
+  }
+ ],
  "Connected Modular 41": [
   {
    "brand": "TAG Heuer",
@@ -155232,6 +155284,13 @@
    "brand": "Toshiba",
    "device": "gandof_cheets",
    "model": "Toshiba Chromebook 2 (2015 Edition)"
+  }
+ ],
+ "fushan_euT": [
+  {
+   "brand": "Toshiba",
+   "device": "hamamatsucho",
+   "model": "Smart TV"
   }
  ],
  "tt300/tt301/tt302": [
@@ -165747,6 +165806,13 @@
    "brand": "Xiaomi",
    "device": "tiare",
    "model": "Redmi Go"
+  }
+ ],
+ "Redmi K30 Pro Zoom Edition": [
+  {
+   "brand": "Xiaomi",
+   "device": "lmipro",
+   "model": "Redmi K30 Pro Zoom Edition"
   }
  ],
  "Redmi Note 3": [

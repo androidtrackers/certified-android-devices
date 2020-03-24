@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-03-23
+Last sync is 2020-03-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3418,6 +3418,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Condor|Plume_L2_Pro|Plume_L2_Pro|Plume L2 Pro|
 |Condor|Plume_L2_Pro_EEA|Plume_L2_Pro|Plume L2 Pro|
 |Condor|Plume_L3_Plus|Plume_L3_Plus|Plume L3 Plus|
+|Condor|Plume_L4_Pro_EEA|Plume_L4_Pro|Plume L4 Pro|
 |Condor|Plume_L4_Pro_TE|Plume_L4_Pro|Plume L4 Pro|
 |Condor|SP530|SP530|Griffe T2|
 |Condor|SP638|SP638|Plume L3 Smart|
@@ -7791,6 +7792,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |How|HT-704|HT704|HT-704|
 |How|HT-704plus|HT704plus|HT-704plus|
 |How|HT-705|HT705|HT-705|
+|How|HT-705PRO|HT-705PRO|HT-705PRO|
 |How|HT-705XS|HT-705XS|HT-705XS|
 |How|HT-705_Go|HT-705_Go|HT-705 Go|
 |How|HT704-G|704-G|704-G|
@@ -18056,6 +18058,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme XT|RMX1921|RMX1921|
 |Realme|realme XT|RMX1921L1|RMX1921|
 |Realme|realme XT|RMX1922|RMX1922|
+|Realtek|RealtekHank|RealtekHank|RealtekHank|
+|Realtek|RealtekThor|RealtekThor|RealtekThor|
 |Realtime|RS405|RS405|RS405|
 |Realtime|RT503|RT503|RT503|
 |Realtime|RT8|RT8|RT8|
@@ -18064,6 +18068,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Red Mobile|Quick_5_0|Quick_5_0|Quick 5.0|
 |Red-X|RX3503|RX3503|RX3503|
 |Red-X|RX4618|RX4618|RX4618|
+|Redmi|K30 PRO|lmi|Lmi|
+|Redmi|K30 PRO|lmi|Redmi K30 Pro|
 |Redmi|Mi  9T  Pro|raphaelin|Redmi K20 Pro|
 |Redmi|Mi 9T|davinci|Mi 9T|
 |Redmi|Redmi  7A|pine|Redmi 7A|
@@ -18685,6 +18691,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A70s|a70s|SM-A7070|
 |Samsung|Galaxy A70s|a70s|SM-A707F|
 |Samsung|Galaxy A71|a71|SM-A715F|
+|Samsung|Galaxy A71|a71|SM-A715W|
 |Samsung|Galaxy A8|SCV32|SCV32|
 |Samsung|Galaxy A8|a8elte|SM-A800F|
 |Samsung|Galaxy A8|a8elte|SM-A800YZ|
@@ -22316,6 +22323,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |T-Mobile|Telekom_Puls|T-Tab|Telekom Puls|
 |TA71CA5_JP|"JP SA COUTO|S.A. _MG070A2T"|TA71CA5_1|
 |TAG Heuer|Connected|glacier|TAG Heuer|
+|TAG Heuer|Connected 2020|orbital|TAG Heuer|
 |TAG Heuer|Connected Modular 41|spectralite|TAG Heuer|
 |TAG Heuer|Connected Modular 45|anthracite|TAG Heuer|
 |TAG Heuer|Connected Modular 45 (China)|anthracite|TAG Heuer|
@@ -24147,6 +24155,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Toshiba|Taiwan|laoshan|U7900|
 |Toshiba|Thrive 7|tostab04|AT1S0|
 |Toshiba|Toshiba Chromebook 2 (2015 Edition)|gandof_cheets|Toshiba Chromebook 2 (2015 Edition)|
+|Toshiba|fushan_euT|hamamatsucho|Smart TV|
 |Toshiba|tt300/tt301/tt302|Mozart|Mozart|
 |Toshiba Tec Corporation|TBL-300|TBL-300|TBL-300|
 |Touch plus|770G|770G|770G|
@@ -25857,6 +25866,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Redmi 7A|pine|Redmi 7A|
 |Xiaomi|Redmi 8|olive|Redmi 8|
 |Xiaomi|Redmi Go|tiare|Redmi Go|
+|Xiaomi|Redmi K30 Pro Zoom Edition|lmipro|Redmi K30 Pro Zoom Edition|
 |Xiaomi|Redmi Note 3|hennessy|Redmi Note 3|
 |Xiaomi|Redmi Note 3|kate|Redmi Note 3|
 |Xiaomi|Redmi Note 3|kenzo|Redmi Note 3|

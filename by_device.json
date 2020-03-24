@@ -25147,6 +25147,11 @@
   },
   {
    "brand": "Condor",
+   "name": "Plume_L4_Pro_EEA",
+   "model": "Plume L4 Pro"
+  },
+  {
+   "brand": "Condor",
    "name": "Plume_L4_Pro_TE",
    "model": "Plume L4 Pro"
   }
@@ -40189,6 +40194,11 @@
    "model": "HiSmart 2K ATV4"
   },
   {
+   "brand": "Toshiba",
+   "name": "fushan_euT",
+   "model": "Smart TV"
+  },
+  {
    "brand": "Vu Televisions",
    "name": "India",
    "model": "Smart 2K ATV4"
@@ -54689,6 +54699,13 @@
    "brand": "How",
    "name": "HT-705",
    "model": "HT-705"
+  }
+ ],
+ "HT-705PRO": [
+  {
+   "brand": "How",
+   "name": "HT-705PRO",
+   "model": "HT-705PRO"
   }
  ],
  "HT-705XS": [
@@ -119835,6 +119852,20 @@
    "model": "RMX1922"
   }
  ],
+ "RealtekHank": [
+  {
+   "brand": "Realtek",
+   "name": "RealtekHank",
+   "model": "RealtekHank"
+  }
+ ],
+ "RealtekThor": [
+  {
+   "brand": "Realtek",
+   "name": "RealtekThor",
+   "model": "RealtekThor"
+  }
+ ],
  "RS405": [
   {
    "brand": "Realtime",
@@ -119889,6 +119920,18 @@
    "brand": "Red-X",
    "name": "RX4618",
    "model": "RX4618"
+  }
+ ],
+ "lmi": [
+  {
+   "brand": "Redmi",
+   "name": "K30 PRO",
+   "model": "Lmi"
+  },
+  {
+   "brand": "Redmi",
+   "name": "K30 PRO",
+   "model": "Redmi K30 Pro"
   }
  ],
  "raphaelin": [
@@ -123843,6 +123886,11 @@
    "brand": "Samsung",
    "name": "Galaxy A71",
    "model": "SM-A715F"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A71",
+   "model": "SM-A715W"
   }
  ],
  "SCV32": [
@@ -147388,6 +147436,13 @@
    "model": "TA71CA5_1"
   }
  ],
+ "orbital": [
+  {
+   "brand": "TAG Heuer",
+   "name": "Connected 2020",
+   "model": "TAG Heuer"
+  }
+ ],
  "spectralite": [
   {
    "brand": "TAG Heuer",
@@ -168256,6 +168311,13 @@
    "brand": "Xiaomi",
    "name": "Redmi 6A",
    "model": "Redmi 6A"
+  }
+ ],
+ "lmipro": [
+  {
+   "brand": "Xiaomi",
+   "name": "Redmi K30 Pro Zoom Edition",
+   "model": "Redmi K30 Pro Zoom Edition"
   }
  ],
  "hennessy": [

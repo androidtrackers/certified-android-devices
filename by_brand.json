@@ -17657,6 +17657,11 @@
   },
   {
    "device": "Plume_L4_Pro",
+   "name": "Plume_L4_Pro_EEA",
+   "model": "Plume L4 Pro"
+  },
+  {
+   "device": "Plume_L4_Pro",
    "name": "Plume_L4_Pro_TE",
    "model": "Plume L4 Pro"
   },
@@ -40197,6 +40202,11 @@
    "device": "HT705",
    "name": "HT-705",
    "model": "HT-705"
+  },
+  {
+   "device": "HT-705PRO",
+   "name": "HT-705PRO",
+   "model": "HT-705PRO"
   },
   {
    "device": "HT-705XS",
@@ -92640,6 +92650,18 @@
    "model": "RMX1922"
   }
  ],
+ "Realtek": [
+  {
+   "device": "RealtekHank",
+   "name": "RealtekHank",
+   "model": "RealtekHank"
+  },
+  {
+   "device": "RealtekThor",
+   "name": "RealtekThor",
+   "model": "RealtekThor"
+  }
+ ],
  "Realtime": [
   {
    "device": "RS405",
@@ -92689,6 +92711,16 @@
   }
  ],
  "Redmi": [
+  {
+   "device": "lmi",
+   "name": "K30 PRO",
+   "model": "Lmi"
+  },
+  {
+   "device": "lmi",
+   "name": "K30 PRO",
+   "model": "Redmi K30 Pro"
+  },
   {
    "device": "raphaelin",
    "name": "Mi  9T  Pro",
@@ -95913,6 +95945,11 @@
    "device": "a71",
    "name": "Galaxy A71",
    "model": "SM-A715F"
+  },
+  {
+   "device": "a71",
+   "name": "Galaxy A71",
+   "model": "SM-A715W"
   },
   {
    "device": "SCV32",
@@ -114294,6 +114331,11 @@
    "model": "TAG Heuer"
   },
   {
+   "device": "orbital",
+   "name": "Connected 2020",
+   "model": "TAG Heuer"
+  },
+  {
    "device": "spectralite",
    "name": "Connected Modular 41",
    "model": "TAG Heuer"
@@ -123635,6 +123677,11 @@
    "model": "Toshiba Chromebook 2 (2015 Edition)"
   },
   {
+   "device": "hamamatsucho",
+   "name": "fushan_euT",
+   "model": "Smart TV"
+  },
+  {
    "device": "Mozart",
    "name": "tt300/tt301/tt302",
    "model": "Mozart"
@@ -132521,6 +132568,11 @@
    "device": "tiare",
    "name": "Redmi Go",
    "model": "Redmi Go"
+  },
+  {
+   "device": "lmipro",
+   "name": "Redmi K30 Pro Zoom Edition",
+   "model": "Redmi K30 Pro Zoom Edition"
   },
   {
    "device": "hennessy",
