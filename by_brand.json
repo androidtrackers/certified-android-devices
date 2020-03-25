@@ -53636,6 +53636,11 @@
    "model": "C02BB1"
   },
   {
+   "device": "sti6030d111",
+   "name": "STA3000",
+   "model": "STA3000"
+  },
+  {
    "device": "H02ST1",
    "name": "STW2000",
    "model": "STW2000"
@@ -86881,6 +86886,11 @@
    "model": "PCS01"
   },
   {
+   "device": "PCS02",
+   "name": "PCS02",
+   "model": "PCS02"
+  },
+  {
    "device": "PHILCO_TP7A6",
    "name": "PHILCO_TP7A6",
    "model": "TP7A6"
@@ -87381,6 +87391,13 @@
    "device": "Philips_V377",
    "name": "Xenium V377",
    "model": "Philips V377"
+  }
+ ],
+ "Phoenix": [
+  {
+   "device": "PHONETABPRO",
+   "name": "PHONETABPRO",
+   "model": "PHONETABPRO"
   }
  ],
  "Phone Max": [
@@ -121516,6 +121533,11 @@
    "model": "TECNO CC6"
   },
   {
+   "device": "TECNO-CD6",
+   "name": "CAMON 15 Air",
+   "model": "TECNO CD6"
+  },
+  {
    "device": "TECNO-C7",
    "name": "CAMON C7",
    "model": "TECNO-C7"
@@ -122014,6 +122036,16 @@
    "device": "TECNO-LC6a",
    "name": "Pouvoir 3 Air",
    "model": "TECNO LC6a"
+  },
+  {
+   "device": "TECNO-LC7",
+   "name": "Pouvoir 4",
+   "model": "TECNO LC7"
+  },
+  {
+   "device": "TECNO-LC8",
+   "name": "Pouvoir 4 Pro",
+   "model": "TECNO LC8"
   },
   {
    "device": "TECNO-R6",
@@ -127121,6 +127153,11 @@
    "device": "V505c",
    "name": "V505c",
    "model": "V505c"
+  },
+  {
+   "device": "V608C",
+   "name": "V608C",
+   "model": "V608C"
   },
   {
    "device": "VT701",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-03-24
+Last sync is 2020-03-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10438,6 +10438,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KDDI|CablePlus STB|C02AS|C02AS|
 |KDDI|Cableplus STB-2|C02AS5|C02AS5|
 |KDDI|Power Up Unit|C02BB1|C02BB1|
+|KDDI|STA3000|sti6030d111|STA3000|
 |KDDI|STW2000|H02ST1|STW2000|
 |KDDI|SmartTV Box|C01AS|SMARTTVBOX|
 |KEMPLER STRAUSS|KEMP1HEAD|KEMP1HEAD|KEMP1HEAD|
@@ -16933,6 +16934,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Perseo TV|Perseo TV Home 2nd Generation Ranger|DV8219|Perseo TV Home 2nd Generation Ranger|
 |Philco|Brazil|sindorim|AI PONT|
 |Philco|PCS01|PCS01|PCS01|
+|Philco|PCS02|PCS02|PCS02|
 |Philco|PHILCO_TP7A6|PHILCO_TP7A6|TP7A6|
 |Philco|PTB7PAP_ PTB7PAB _ PTB7PAR|PTB7PA|PTB7PAP_PTB7PAB_PTB7PAR|
 |Philco|PTB7QSG_3G|PTB7QSG_3G|PTB7QSG_3G|
@@ -17033,6 +17035,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|X818|X818_RU|Philips X818|
 |Philips|Xenium S386|S386|Philips S386|
 |Philips|Xenium V377|Philips_V377|Philips V377|
+|Phoenix|PHONETABPRO|PHONETABPRO|PHONETABPRO|
 |Phone Max|Rocky 2|Rocky_2|Rocky 2|
 |Phone Max|Rocky_1|Rocky_1|Rocky_1|
 |Phone Max|S4G|S4G|S4G|
@@ -23740,6 +23743,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|CAMON 12|TECNO-CC7|TECNO CC7|
 |Tecno|CAMON 12|TECNO-CC7S|TECNO CC7S|
 |Tecno|CAMON 12 Air|TECNO-CC6|TECNO CC6|
+|Tecno|CAMON 15 Air|TECNO-CD6|TECNO CD6|
 |Tecno|CAMON C7|TECNO-C7|TECNO-C7|
 |Tecno|CAMON CM|TECNO-CA6|TECNO CA6|
 |Tecno|CAMON I Ace|TECNO-IN1|TECNO IN1|
@@ -23840,6 +23844,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|Pouvoir 3|TECNO-LB7|TECNO LB7|
 |Tecno|Pouvoir 3 Air|TECNO-LC6|TECNO LC6|
 |Tecno|Pouvoir 3 Air|TECNO-LC6a|TECNO LC6a|
+|Tecno|Pouvoir 4|TECNO-LC7|TECNO LC7|
+|Tecno|Pouvoir 4 Pro|TECNO-LC8|TECNO LC8|
 |Tecno|R6|TECNO-R6|TECNO R6|
 |Tecno|R6+|TECNO-RA6|TECNO RA6|
 |Tecno|R7 4G|TECNO-F2LTE|TECNO RA7|
@@ -24809,6 +24815,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ViewSonic|ViewPadi8Q|vsi8q_1_coho|vsi8q_1_coho|
 |Virzo|V501C|V501C|V501C|
 |Virzo|V505c|V505c|V505c|
+|Virzo|V608C|V608C|V608C|
 |Virzo|VT701|VT701|VT701|
 |Vision Technology|Android TV|R1|ATV R1|
 |Vision Technology|Android TV|R2|ATV R2|

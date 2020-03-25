@@ -74923,6 +74923,13 @@
    "model": "C02BB1"
   }
  ],
+ "STA3000": [
+  {
+   "brand": "KDDI",
+   "device": "sti6030d111",
+   "model": "STA3000"
+  }
+ ],
  "STW2000": [
   {
    "brand": "KDDI",
@@ -113273,6 +113280,13 @@
    "model": "PCS01"
   }
  ],
+ "PCS02": [
+  {
+   "brand": "Philco",
+   "device": "PCS02",
+   "model": "PCS02"
+  }
+ ],
  "PHILCO_TP7A6": [
   {
    "brand": "Philco",
@@ -113929,6 +113943,13 @@
    "brand": "Philips",
    "device": "Philips_V377",
    "model": "Philips V377"
+  }
+ ],
+ "PHONETABPRO": [
+  {
+   "brand": "Phoenix",
+   "device": "PHONETABPRO",
+   "model": "PHONETABPRO"
   }
  ],
  "Rocky 2": [
@@ -152802,6 +152823,13 @@
    "model": "TECNO CC6"
   }
  ],
+ "CAMON 15 Air": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-CD6",
+   "model": "TECNO CD6"
+  }
+ ],
  "CAMON C7": [
   {
    "brand": "Tecno",
@@ -153393,6 +153421,20 @@
    "brand": "Tecno",
    "device": "TECNO-LC6a",
    "model": "TECNO LC6a"
+  }
+ ],
+ "Pouvoir 4": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-LC7",
+   "model": "TECNO LC7"
+  }
+ ],
+ "Pouvoir 4 Pro": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-LC8",
+   "model": "TECNO LC8"
   }
  ],
  "R6+": [
@@ -159292,6 +159334,13 @@
    "brand": "Virzo",
    "device": "V505c",
    "model": "V505c"
+  }
+ ],
+ "V608C": [
+  {
+   "brand": "Virzo",
+   "device": "V608C",
+   "model": "V608C"
   }
  ],
  "VT701": [
