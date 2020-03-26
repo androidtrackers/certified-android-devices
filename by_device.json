@@ -4319,6 +4319,68 @@
    "model": "Flix TV Box"
   }
  ],
+ "shibuya": [
+  {
+   "brand": "Akino",
+   "name": "IN-32SE9",
+   "model": "AkinoTV"
+  },
+  {
+   "brand": "EcoStar",
+   "name": "EcostarTV",
+   "model": "EcostarTV"
+  },
+  {
+   "brand": "Kodak",
+   "name": "KodakTV",
+   "model": "KodakTV"
+  },
+  {
+   "brand": "Kogan",
+   "name": "Australia",
+   "model": "KoganTVAP"
+  },
+  {
+   "brand": "Motorola",
+   "name": "Motorola Android 9.0 TV",
+   "model": "FlipkartTV"
+  },
+  {
+   "brand": "Orient",
+   "name": "OrientTV",
+   "model": "OrientTV"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "GS655",
+   "model": "GS655"
+  },
+  {
+   "brand": "Sanyo",
+   "name": "SanyoTV",
+   "model": "SanyoTV"
+  },
+  {
+   "brand": "Singer",
+   "name": "SingerTV",
+   "model": "SingerTV"
+  },
+  {
+   "brand": "Skyworth",
+   "name": "APAC 2K TV",
+   "model": "SWTV"
+  },
+  {
+   "brand": "Telefunken",
+   "name": "TelefunkenTV",
+   "model": "TelefunkenTV"
+  },
+  {
+   "brand": "Thomson",
+   "name": "ThomsonTV",
+   "model": "ThomsonTV"
+  }
+ ],
  "ac70plv6": [
   {
    "brand": "Alba",
@@ -34274,58 +34336,6 @@
    "brand": "Echo Mobiles",
    "name": "Stellar 4G",
    "model": "Stellar 4G"
-  }
- ],
- "shibuya": [
-  {
-   "brand": "EcoStar",
-   "name": "EcostarTV",
-   "model": "EcostarTV"
-  },
-  {
-   "brand": "Kodak",
-   "name": "KodakTV",
-   "model": "KodakTV"
-  },
-  {
-   "brand": "Kogan",
-   "name": "Australia",
-   "model": "KoganTVAP"
-  },
-  {
-   "brand": "Motorola",
-   "name": "Motorola Android 9.0 TV",
-   "model": "FlipkartTV"
-  },
-  {
-   "brand": "Orient",
-   "name": "OrientTV",
-   "model": "OrientTV"
-  },
-  {
-   "brand": "Panasonic",
-   "name": "GS655",
-   "model": "GS655"
-  },
-  {
-   "brand": "Sanyo",
-   "name": "SanyoTV",
-   "model": "SanyoTV"
-  },
-  {
-   "brand": "Singer",
-   "name": "SingerTV",
-   "model": "SingerTV"
-  },
-  {
-   "brand": "Skyworth",
-   "name": "APAC 2K TV",
-   "model": "SWTV"
-  },
-  {
-   "brand": "Thomson",
-   "name": "ThomsonTV",
-   "model": "ThomsonTV"
   }
  ],
  "MotionE11": [
@@ -65912,6 +65922,20 @@
    "brand": "Infinix",
    "name": "NOTE 3 Pro",
    "model": "Infinix_X601_LTE"
+  }
+ ],
+ "Infinix-X690": [
+  {
+   "brand": "Infinix",
+   "name": "NOTE 7",
+   "model": "Infinix X690"
+  }
+ ],
+ "Infinix-X690B": [
+  {
+   "brand": "Infinix",
+   "name": "NOTE 7",
+   "model": "Infinix X690B"
   }
  ],
  "Infinix-X610": [
@@ -112686,6 +112710,18 @@
    "model": "PTB7R"
   }
  ],
+ "shinjuku": [
+  {
+   "brand": "Philco",
+   "name": "PhilcoTV",
+   "model": "PhilcoTV"
+  },
+  {
+   "brand": "Skyworth",
+   "name": "South America",
+   "model": "SA 2K TV"
+  }
+ ],
  "TP10A3N": [
   {
    "brand": "Philco",
@@ -141341,13 +141377,6 @@
    "model": "globe"
   }
  ],
- "shinjuku": [
-  {
-   "brand": "Skyworth",
-   "name": "South America",
-   "model": "SA 2K TV"
-  }
- ],
  "DV8220": [
   {
    "brand": "SledovaniTV",
@@ -166619,6 +166648,13 @@
    "brand": "Wiko",
    "name": "Y60",
    "model": "W-K510-TH"
+  }
+ ],
+ "W-K560": [
+  {
+   "brand": "Wiko",
+   "name": "Y61",
+   "model": "W-K560-TVM"
   }
  ],
  "W-V720": [

@@ -9933,6 +9933,13 @@
    "model": "AX-117ATV"
   }
  ],
+ "IN-32SE9": [
+  {
+   "brand": "Akino",
+   "device": "shibuya",
+   "model": "AkinoTV"
+  }
+ ],
  "ALBA 7 TABLET": [
   {
    "brand": "Alba",
@@ -70087,6 +70094,18 @@
    "model": "Infinix X571-LTE"
   }
  ],
+ "NOTE 7": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X690",
+   "model": "Infinix X690"
+  },
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X690B",
+   "model": "Infinix X690B"
+  }
+ ],
  "Note 6": [
   {
    "brand": "Infinix",
@@ -113308,6 +113327,13 @@
    "model": "PTB7R"
   }
  ],
+ "PhilcoTV": [
+  {
+   "brand": "Philco",
+   "device": "shinjuku",
+   "model": "PhilcoTV"
+  }
+ ],
  "TP10A3N": [
   {
    "brand": "Philco",
@@ -154190,6 +154216,13 @@
    "model": "TF6"
   }
  ],
+ "TelefunkenTV": [
+  {
+   "brand": "Telefunken",
+   "device": "shibuya",
+   "model": "TelefunkenTV"
+  }
+ ],
  "VP73_Telefunken": [
   {
    "brand": "Telefunken",
@@ -164057,6 +164090,13 @@
    "brand": "Wiko",
    "device": "W-K510DG",
    "model": "W-K510-TH"
+  }
+ ],
+ "Y61": [
+  {
+   "brand": "Wiko",
+   "device": "W-K560",
+   "model": "W-K560-TVM"
   }
  ],
  "sunny4 Plus": [

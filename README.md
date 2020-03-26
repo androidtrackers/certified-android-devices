@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-03-25
+Last sync is 2020-03-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -513,6 +513,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Akai|MD1063|MD1063|MD1063|
 |Akari|AX-115ATV|DV8035|AX-115ATV|
 |Akari|AX-117ATV|DV8219|AX-117ATV|
+|Akino|IN-32SE9|shibuya|AkinoTV|
 |Alba|ALBA 7 TABLET|ac70plv6|ALBA 7 TABLET|
 |Alba|Alba 4G Plus|ac57crs|Alba 4G Plus|
 |Alba|Alba 6|ac60crs|Alba 6|
@@ -9696,6 +9697,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|NOTE 4|Infinix-X572|Infinix X572-LTE|
 |Infinix|NOTE 4 Pro|Infinix-X571|Infinix X571|
 |Infinix|NOTE 4 Pro|Infinix-X571|Infinix X571-LTE|
+|Infinix|NOTE 7|Infinix-X690|Infinix X690|
+|Infinix|NOTE 7|Infinix-X690B|Infinix X690B|
 |Infinix|Note 6|Infinix-X610|Infinix X610B|
 |Infinix|RACE Blot2|Infinix_X454|Infinix X454|
 |Infinix|RACE Bolt 3|X455|Infinix X455|
@@ -16939,6 +16942,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philco|PTB7PAP_ PTB7PAB _ PTB7PAR|PTB7PA|PTB7PAP_PTB7PAB_PTB7PAR|
 |Philco|PTB7QSG_3G|PTB7QSG_3G|PTB7QSG_3G|
 |Philco|PTB7R|PTB7R|PTB7R|
+|Philco|PhilcoTV|shinjuku|PhilcoTV|
 |Philco|TP10A3N|TP10A3N|TP10A3N|
 |Philco|TP7A4BB|TP7A4BB|TP7A4BB|
 |Philco|TP7A4N|TP7A4N|TP7A4N|
@@ -23977,6 +23981,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telefunken|TF501_EC|TF501_EC|TF501_EC|
 |Telefunken|TF5X|TF5X|TF5X|
 |Telefunken|TF6|TF6|TF6|
+|Telefunken|TelefunkenTV|shibuya|TelefunkenTV|
 |Telefunken|VP73_Telefunken|Telefunken|VP73_Telefunken|
 |Telego|F10|F10|F10|
 |Telego|F8|F8|F8|
@@ -25564,6 +25569,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|Y60|W-K510|W-K510S-OPE|
 |Wiko|Y60|W-K510|W-K510S-SWI|
 |Wiko|Y60|W-K510DG|W-K510-TH|
+|Wiko|Y61|W-K560|W-K560-TVM|
 |Wiko|Y80|W-V720|W-V720-CA|
 |Wiko|Y80|W-V720|W-V720-EEA|
 |Wiko|Y80|W-V720|W-V720-OPE|

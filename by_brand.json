@@ -2665,6 +2665,13 @@
    "model": "AX-117ATV"
   }
  ],
+ "Akino": [
+  {
+   "device": "shibuya",
+   "name": "IN-32SE9",
+   "model": "AkinoTV"
+  }
+ ],
  "Alba": [
   {
    "device": "ac70plv6",
@@ -49820,6 +49827,16 @@
    "model": "Infinix X571-LTE"
   },
   {
+   "device": "Infinix-X690",
+   "name": "NOTE 7",
+   "model": "Infinix X690"
+  },
+  {
+   "device": "Infinix-X690B",
+   "name": "NOTE 7",
+   "model": "Infinix X690B"
+  },
+  {
    "device": "Infinix-X610",
    "name": "Note 6",
    "model": "Infinix X610B"
@@ -86911,6 +86928,11 @@
    "model": "PTB7R"
   },
   {
+   "device": "shinjuku",
+   "name": "PhilcoTV",
+   "model": "PhilcoTV"
+  },
+  {
    "device": "TP10A3N",
    "name": "TP10A3N",
    "model": "TP10A3N"
@@ -122723,6 +122745,11 @@
    "model": "TF6"
   },
   {
+   "device": "shibuya",
+   "name": "TelefunkenTV",
+   "model": "TelefunkenTV"
+  },
+  {
    "device": "Telefunken",
    "name": "VP73_Telefunken",
    "model": "VP73_Telefunken"
@@ -130998,6 +131025,11 @@
    "device": "W-K510DG",
    "name": "Y60",
    "model": "W-K510-TH"
+  },
+  {
+   "device": "W-K560",
+   "name": "Y61",
+   "model": "W-K560-TVM"
   },
   {
    "device": "W-V720",
