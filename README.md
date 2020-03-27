@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-03-26
+Last sync is 2020-03-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17015,6 +17015,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|S337|S337_BG|Philips S337|
 |Philips|S337|scx35_sp7731gea_hd|Philips S337|
 |Philips|S395|S395|Philips S395|
+|Philips|Smart TV|sindap|PHILIPS 4K TV|
 |Philips|T8 PI7000|Tablet_8|PI7000|
 |Philips|TLE722G|TLE722G|TLE722G|
 |Philips|TLE732|TLE732|TLE732|
@@ -23027,6 +23028,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030D|
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030D_EEA|
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030D_RU|
+|TCT (Alcatel)|Alcatel 1SE|Jakarta|5030F|
 |TCT (Alcatel)|Alcatel 1T 7 WIFI|U3A_7_WIFI|8068|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007A|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007G|

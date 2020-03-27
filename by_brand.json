@@ -87295,6 +87295,11 @@
    "model": "Philips S395"
   },
   {
+   "device": "sindap",
+   "name": "Smart TV",
+   "model": "PHILIPS 4K TV"
+  },
+  {
    "device": "Tablet_8",
    "name": "T8 PI7000",
    "model": "PI7000"
@@ -117865,6 +117870,11 @@
    "device": "Jakarta",
    "name": "Alcatel 1SE",
    "model": "5030D_RU"
+  },
+  {
+   "device": "Jakarta",
+   "name": "Alcatel 1SE",
+   "model": "5030F"
   },
   {
    "device": "U3A_7_WIFI",

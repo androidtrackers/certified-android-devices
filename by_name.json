@@ -113809,6 +113809,13 @@
    "model": "Philips S395"
   }
  ],
+ "Smart TV": [
+  {
+   "brand": "Philips",
+   "device": "sindap",
+   "model": "PHILIPS 4K TV"
+  }
+ ],
  "T8 PI7000": [
   {
    "brand": "Philips",
@@ -148602,6 +148609,11 @@
    "brand": "TCT (Alcatel)",
    "device": "Jakarta",
    "model": "5030D_RU"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Jakarta",
+   "model": "5030F"
   }
  ],
  "Alcatel 1T 7 WIFI": [

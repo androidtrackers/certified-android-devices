@@ -116534,6 +116534,11 @@
    "brand": "Philips",
    "name": "Philips SmartTV",
    "device": "freesia"
+  },
+  {
+   "brand": "Philips",
+   "name": "Smart TV",
+   "device": "sindap"
   }
  ],
  "PHILIPS 4k TV": [
@@ -157217,6 +157222,13 @@
   }
  ],
  "5030D_RU": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1SE",
+   "device": "Jakarta"
+  }
+ ],
+ "5030F": [
   {
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1SE",

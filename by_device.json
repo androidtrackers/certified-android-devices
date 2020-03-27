@@ -113235,6 +113235,13 @@
    "model": "Philips S395"
   }
  ],
+ "sindap": [
+  {
+   "brand": "Philips",
+   "name": "Smart TV",
+   "model": "PHILIPS 4K TV"
+  }
+ ],
  "Tablet_8": [
   {
    "brand": "Philips",
@@ -148069,6 +148076,11 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1SE",
    "model": "5030D_RU"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1SE",
+   "model": "5030F"
   }
  ],
  "Tokyo": [
