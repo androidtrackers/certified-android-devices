@@ -123509,11 +123509,32 @@
    "device": "RMX1973"
   }
  ],
+ "RMX2001": [
+  {
+   "brand": "Realme",
+   "name": "realme 6",
+   "device": "RMX2001L1"
+  }
+ ],
+ "RMX2041": [
+  {
+   "brand": "Realme",
+   "name": "realme 6i",
+   "device": "RMX2041"
+  }
+ ],
  "RMX1946": [
   {
    "brand": "Realme",
    "name": "realme C2",
    "device": "RMX1946"
+  }
+ ],
+ "RMX2022": [
+  {
+   "brand": "Realme",
+   "name": "realme C3",
+   "device": "RMX2022"
   }
  ],
  "RMX1991": [

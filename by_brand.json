@@ -92639,9 +92639,24 @@
    "model": "RMX1973"
   },
   {
+   "device": "RMX2001L1",
+   "name": "realme 6",
+   "model": "RMX2001"
+  },
+  {
+   "device": "RMX2041",
+   "name": "realme 6i",
+   "model": "RMX2041"
+  },
+  {
    "device": "RMX1946",
    "name": "realme C2",
    "model": "RMX1946"
+  },
+  {
+   "device": "RMX2022",
+   "name": "realme C3",
+   "model": "RMX2022"
   },
   {
    "device": "RMX1971CN",
