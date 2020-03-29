@@ -75250,6 +75250,13 @@
    "device": "Beyond"
   }
  ],
+ "8076": [
+  {
+   "brand": "Kurio",
+   "name": "Kurio Tab",
+   "device": "Hulk_7_KIDS_WIFI"
+  }
+ ],
  "01519": [
   {
    "brand": "Kurio",
@@ -123502,6 +123509,32 @@
    "device": "RMX1971CN"
   }
  ],
+ "RMX2030": [
+  {
+   "brand": "Realme",
+   "name": "realme 5i",
+   "device": "RMX2030"
+  },
+  {
+   "brand": "Realme",
+   "name": "realme 5i",
+   "device": "RMX2030L1"
+  }
+ ],
+ "RMX2031": [
+  {
+   "brand": "Realme",
+   "name": "realme 5i",
+   "device": "RMX2031"
+  }
+ ],
+ "RMX2032": [
+  {
+   "brand": "Realme",
+   "name": "realme 5i",
+   "device": "RMX2032"
+  }
+ ],
  "RMX1973": [
   {
    "brand": "Realme",
@@ -123516,11 +123549,32 @@
    "device": "RMX2001L1"
   }
  ],
+ "RMX2003": [
+  {
+   "brand": "Realme",
+   "name": "realme 6",
+   "device": "RMX2003L1"
+  }
+ ],
+ "RMX2040": [
+  {
+   "brand": "Realme",
+   "name": "realme 6i",
+   "device": "RMX2040"
+  }
+ ],
  "RMX2041": [
   {
    "brand": "Realme",
    "name": "realme 6i",
    "device": "RMX2041"
+  }
+ ],
+ "RMX2042": [
+  {
+   "brand": "Realme",
+   "name": "realme 6i",
+   "device": "RMX2042"
   }
  ],
  "RMX1946": [
@@ -123530,11 +123584,32 @@
    "device": "RMX1946"
   }
  ],
+ "RMX2020": [
+  {
+   "brand": "Realme",
+   "name": "realme C3",
+   "device": "RMX2020"
+  }
+ ],
+ "RMX2021": [
+  {
+   "brand": "Realme",
+   "name": "realme C3",
+   "device": "RMX2021"
+  }
+ ],
  "RMX2022": [
   {
    "brand": "Realme",
    "name": "realme C3",
    "device": "RMX2022"
+  }
+ ],
+ "RMX2027": [
+  {
+   "brand": "Realme",
+   "name": "realme C3",
+   "device": "RMX2027"
   }
  ],
  "RMX1991": [
@@ -157250,6 +157325,13 @@
   }
  ],
  "5030F": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1SE",
+   "device": "Jakarta"
+  }
+ ],
+ "5030U": [
   {
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1SE",

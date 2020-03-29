@@ -55315,6 +55315,11 @@
  ],
  "Kurio": [
   {
+   "device": "Hulk_7_KIDS_WIFI",
+   "name": "Kurio Tab",
+   "model": "8076"
+  },
+  {
    "device": "M7006A",
    "name": "TabGo Next Connect",
    "model": "01519"
@@ -92629,6 +92634,26 @@
    "model": "RMX1971"
   },
   {
+   "device": "RMX2030",
+   "name": "realme 5i",
+   "model": "RMX2030"
+  },
+  {
+   "device": "RMX2030L1",
+   "name": "realme 5i",
+   "model": "RMX2030"
+  },
+  {
+   "device": "RMX2031",
+   "name": "realme 5i",
+   "model": "RMX2031"
+  },
+  {
+   "device": "RMX2032",
+   "name": "realme 5i",
+   "model": "RMX2032"
+  },
+  {
    "device": "RMX1971",
    "name": "realme 5pro",
    "model": "RMX1971"
@@ -92644,9 +92669,24 @@
    "model": "RMX2001"
   },
   {
+   "device": "RMX2003L1",
+   "name": "realme 6",
+   "model": "RMX2003"
+  },
+  {
+   "device": "RMX2040",
+   "name": "realme 6i",
+   "model": "RMX2040"
+  },
+  {
    "device": "RMX2041",
    "name": "realme 6i",
    "model": "RMX2041"
+  },
+  {
+   "device": "RMX2042",
+   "name": "realme 6i",
+   "model": "RMX2042"
   },
   {
    "device": "RMX1946",
@@ -92654,9 +92694,24 @@
    "model": "RMX1946"
   },
   {
+   "device": "RMX2020",
+   "name": "realme C3",
+   "model": "RMX2020"
+  },
+  {
+   "device": "RMX2021",
+   "name": "realme C3",
+   "model": "RMX2021"
+  },
+  {
    "device": "RMX2022",
    "name": "realme C3",
    "model": "RMX2022"
+  },
+  {
+   "device": "RMX2027",
+   "name": "realme C3",
+   "model": "RMX2027"
   },
   {
    "device": "RMX1971CN",
@@ -117890,6 +117945,11 @@
    "device": "Jakarta",
    "name": "Alcatel 1SE",
    "model": "5030F"
+  },
+  {
+   "device": "Jakarta",
+   "name": "Alcatel 1SE",
+   "model": "5030U"
   },
   {
    "device": "U3A_7_WIFI",

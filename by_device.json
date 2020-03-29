@@ -72938,6 +72938,28 @@
    "model": "Beyond"
   }
  ],
+ "Hulk_7_KIDS_WIFI": [
+  {
+   "brand": "Kurio",
+   "name": "Kurio Tab",
+   "model": "8076"
+  },
+  {
+   "brand": "TCL",
+   "name": "TKEE MINI",
+   "model": "8093"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "smart tab 7",
+   "model": "8052"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "smart tab 7",
+   "model": "8052_RU"
+  }
+ ],
  "M7006A": [
   {
    "brand": "Kurio",
@@ -119832,6 +119854,34 @@
    "model": "RMX1971"
   }
  ],
+ "RMX2030": [
+  {
+   "brand": "Realme",
+   "name": "realme 5i",
+   "model": "RMX2030"
+  }
+ ],
+ "RMX2030L1": [
+  {
+   "brand": "Realme",
+   "name": "realme 5i",
+   "model": "RMX2030"
+  }
+ ],
+ "RMX2031": [
+  {
+   "brand": "Realme",
+   "name": "realme 5i",
+   "model": "RMX2031"
+  }
+ ],
+ "RMX2032": [
+  {
+   "brand": "Realme",
+   "name": "realme 5i",
+   "model": "RMX2032"
+  }
+ ],
  "RMX1973": [
   {
    "brand": "Realme",
@@ -119846,11 +119896,32 @@
    "model": "RMX2001"
   }
  ],
+ "RMX2003L1": [
+  {
+   "brand": "Realme",
+   "name": "realme 6",
+   "model": "RMX2003"
+  }
+ ],
+ "RMX2040": [
+  {
+   "brand": "Realme",
+   "name": "realme 6i",
+   "model": "RMX2040"
+  }
+ ],
  "RMX2041": [
   {
    "brand": "Realme",
    "name": "realme 6i",
    "model": "RMX2041"
+  }
+ ],
+ "RMX2042": [
+  {
+   "brand": "Realme",
+   "name": "realme 6i",
+   "model": "RMX2042"
   }
  ],
  "RMX1946": [
@@ -119860,11 +119931,32 @@
    "model": "RMX1946"
   }
  ],
+ "RMX2020": [
+  {
+   "brand": "Realme",
+   "name": "realme C3",
+   "model": "RMX2020"
+  }
+ ],
+ "RMX2021": [
+  {
+   "brand": "Realme",
+   "name": "realme C3",
+   "model": "RMX2021"
+  }
+ ],
  "RMX2022": [
   {
    "brand": "Realme",
    "name": "realme C3",
    "model": "RMX2022"
+  }
+ ],
+ "RMX2027": [
+  {
+   "brand": "Realme",
+   "name": "realme C3",
+   "model": "RMX2027"
   }
  ],
  "RMX1971CN": [
@@ -148102,6 +148194,11 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1SE",
    "model": "5030F"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1SE",
+   "model": "5030U"
   }
  ],
  "Tokyo": [
@@ -148421,23 +148518,6 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 3L",
    "model": "HEYOU60"
-  }
- ],
- "Hulk_7_KIDS_WIFI": [
-  {
-   "brand": "TCL",
-   "name": "TKEE MINI",
-   "model": "8093"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "smart tab 7",
-   "model": "8052"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "smart tab 7",
-   "model": "8052_RU"
   }
  ],
  "UnionTV": [

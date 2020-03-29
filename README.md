@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-03-28
+Last sync is 2020-03-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10755,6 +10755,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kult|KT05|KT05|KT05|
 |Kult|Kult Ambition|Ambition|Ambition|
 |Kult|Kult Beyond|Beyond|Beyond|
+|Kurio|Kurio Tab|Hulk_7_KIDS_WIFI|8076|
 |Kurio|TabGo Next Connect|M7006A|01519|
 |Kyocera||SCP-8600|Zio|
 |Kyocera||WX06K|WX06K|
@@ -18053,12 +18054,22 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme 5|RMX1926|RMX1926|
 |Realme|realme 5Pro|RMX1971|RMX1971|
 |Realme|realme 5Pro|RMX1971L1|RMX1971|
+|Realme|realme 5i|RMX2030|RMX2030|
+|Realme|realme 5i|RMX2030L1|RMX2030|
+|Realme|realme 5i|RMX2031|RMX2031|
+|Realme|realme 5i|RMX2032|RMX2032|
 |Realme|realme 5pro|RMX1971|RMX1971|
 |Realme|realme 5pro|RMX1973|RMX1973|
 |Realme|realme 6|RMX2001L1|RMX2001|
+|Realme|realme 6|RMX2003L1|RMX2003|
+|Realme|realme 6i|RMX2040|RMX2040|
 |Realme|realme 6i|RMX2041|RMX2041|
+|Realme|realme 6i|RMX2042|RMX2042|
 |Realme|realme C2|RMX1946|RMX1946|
+|Realme|realme C3|RMX2020|RMX2020|
+|Realme|realme C3|RMX2021|RMX2021|
 |Realme|realme C3|RMX2022|RMX2022|
+|Realme|realme C3|RMX2027|RMX2027|
 |Realme|realme Q|RMX1971CN|RMX1971|
 |Realme|realme X2|RMX1991CN|RMX1991|
 |Realme|realme X2|RMX1992L1|RMX1992|
@@ -23032,6 +23043,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030D_EEA|
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030D_RU|
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030F|
+|TCT (Alcatel)|Alcatel 1SE|Jakarta|5030U|
 |TCT (Alcatel)|Alcatel 1T 7 WIFI|U3A_7_WIFI|8068|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007A|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007G|
