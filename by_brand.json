@@ -90670,6 +90670,13 @@
    "model": "T9120"
   }
  ],
+ "Prodigi Connect12": [
+  {
+   "device": "connect",
+   "name": "Prodigi Connect 12",
+   "model": "Prodigi Connect 12"
+  }
+ ],
  "Professional Mobile": [
   {
    "device": "Pro_V5",
@@ -117945,6 +117952,11 @@
    "device": "Jakarta",
    "name": "Alcatel 1SE",
    "model": "5030F"
+  },
+  {
+   "device": "Jakarta",
+   "name": "Alcatel 1SE",
+   "model": "5030J"
   },
   {
    "device": "Jakarta",

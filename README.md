@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-03-29
+Last sync is 2020-03-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17676,6 +17676,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prixton|T1800Q＿Plus|T1800Q_Plus|T1800Q Plus|
 |Prixton|T7014Q_Plus|T7014Q_Plus|T7014Q_Plus|
 |Prixton|T9120_EEA|T9120|T9120|
+|Prodigi Connect12|Prodigi Connect 12|connect|Prodigi Connect 12|
 |Professional Mobile|Pro V5|Pro_V5|Pro V5|
 |Proline|H10885M|H10885M|H10885M|
 |Proline|H10888M|H10888M|H10888M|
@@ -23043,6 +23044,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030D_EEA|
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030D_RU|
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030F|
+|TCT (Alcatel)|Alcatel 1SE|Jakarta|5030J|
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030U|
 |TCT (Alcatel)|Alcatel 1T 7 WIFI|U3A_7_WIFI|8068|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007A|

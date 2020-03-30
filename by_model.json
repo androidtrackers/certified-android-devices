@@ -121016,6 +121016,13 @@
    "device": "T9120"
   }
  ],
+ "Prodigi Connect 12": [
+  {
+   "brand": "Prodigi Connect12",
+   "name": "Prodigi Connect 12",
+   "device": "connect"
+  }
+ ],
  "Pro V5": [
   {
    "brand": "Professional Mobile",
@@ -157325,6 +157332,13 @@
   }
  ],
  "5030F": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1SE",
+   "device": "Jakarta"
+  }
+ ],
+ "5030J": [
   {
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1SE",

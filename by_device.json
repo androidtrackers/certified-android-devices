@@ -20958,6 +20958,11 @@
    "brand": "CBN Media",
    "name": "connect",
    "model": "connect"
+  },
+  {
+   "brand": "Prodigi Connect12",
+   "name": "Prodigi Connect 12",
+   "model": "Prodigi Connect 12"
   }
  ],
  "g-mee1": [
@@ -148194,6 +148199,11 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1SE",
    "model": "5030F"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1SE",
+   "model": "5030J"
   },
   {
    "brand": "TCT (Alcatel)",
