@@ -3507,6 +3507,13 @@
    "model": "7039"
   }
  ],
+ "ADVAN_TAB_8": [
+  {
+   "brand": "Advan digital",
+   "name": "TAB 8",
+   "model": "8002"
+  }
+ ],
  "X7_Max": [
   {
    "brand": "Advan digital",
@@ -10076,6 +10083,11 @@
    "brand": "Symphony",
    "name": "G10",
    "model": "Symphony G10"
+  },
+  {
+   "brand": "iMuz",
+   "name": "G10",
+   "model": "G10"
   }
  ],
  "K10": [
@@ -16359,6 +16371,38 @@
    "model": "M7042F"
   }
  ],
+ "bangbae": [
+  {
+   "brand": "Bauhn",
+   "name": "BAUHN",
+   "model": "BAUHN 4K Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "Blaupunkt",
+   "model": "BLAUPUNKT 4K Android TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Hyundai",
+   "model": "Hyundai 4K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "EU 4K Android TV"
+  },
+  {
+   "brand": "Polaroid",
+   "name": "Polaroid",
+   "model": "Polaroid 4K Android TV"
+  },
+  {
+   "brand": "SCHNEIDER",
+   "name": "SCHNEIDER",
+   "model": "SCHNEIDER 4K Android TV"
+  }
+ ],
  "granite": [
   {
    "brand": "Becrypt",
@@ -18231,33 +18275,6 @@
    "brand": "Blaupunkt",
    "name": "BP_6010",
    "model": "BP_6010"
-  }
- ],
- "bangbae": [
-  {
-   "brand": "Blaupunkt",
-   "name": "Blaupunkt",
-   "model": "BLAUPUNKT 4K Android TV"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "Hyundai",
-   "model": "Hyundai 4K Android TV"
-  },
-  {
-   "brand": "JVC",
-   "name": "JVC",
-   "model": "EU 4K Android TV"
-  },
-  {
-   "brand": "Polaroid",
-   "name": "Polaroid",
-   "model": "Polaroid 4K Android TV"
-  },
-  {
-   "brand": "SCHNEIDER",
-   "name": "SCHNEIDER",
-   "model": "SCHNEIDER 4K Android TV"
   }
  ],
  "Blaupunkt_SL_01": [
@@ -33424,6 +33441,13 @@
    "model": "W1"
   }
  ],
+ "W2": [
+  {
+   "brand": "Duubee",
+   "name": "W2",
+   "model": "W2"
+  }
+ ],
  "Eclipse_G400M": [
   {
    "brand": "E-Boda",
@@ -35572,6 +35596,13 @@
    "model": "V570_BIG_BEN"
   }
  ],
+ "Essential": [
+  {
+   "brand": "Essential Products",
+   "name": "Essential",
+   "model": "Essential"
+  }
+ ],
  "mata": [
   {
    "brand": "Essential Products",
@@ -36383,6 +36414,13 @@
    "brand": "Evolveo",
    "name": "EVOLVEO StrongPhone G8",
    "model": "EVOLVEO StrongPhone G8"
+  }
+ ],
+ "StrongPhone_G9": [
+  {
+   "brand": "Evolveo",
+   "name": "EVOLVEO StrongPhone G9",
+   "model": "EVOLVEO StrongPhone G9"
   }
  ],
  "StrongPhoneG5": [
@@ -40300,6 +40338,13 @@
    "brand": "Umiio",
    "name": "Q2",
    "model": "Q2"
+  }
+ ],
+ "Q4": [
+  {
+   "brand": "G-Tab",
+   "name": "Q4",
+   "model": "Q4"
   }
  ],
  "Q69": [
@@ -53375,6 +53420,13 @@
   }
  ],
  "MSD6A938": [
+  {
+   "brand": "Hisense",
+   "name": "VIDAA_TV",
+   "model": "VIDAA_TV"
+  }
+ ],
+ "MTK9632": [
   {
    "brand": "Hisense",
    "name": "VIDAA_TV",
@@ -68039,6 +68091,13 @@
    "model": "T1045LI"
   }
  ],
+ "T7044NP": [
+  {
+   "brand": "Iproda",
+   "name": "T7044NP",
+   "model": "T7044NP"
+  }
+ ],
  "TZ175": [
   {
    "brand": "Irbis",
@@ -73052,6 +73111,11 @@
    "brand": "Kyocera",
    "name": "BASIO4",
    "model": "KYV47"
+  },
+  {
+   "brand": "Kyocera",
+   "name": "BASIO4",
+   "model": "KYV47-j"
   },
   {
    "brand": "Kyocera",
@@ -81538,6 +81602,13 @@
    "model": "L108MR"
   }
  ],
+ "LP_Pro1": [
+  {
+   "brand": "LP (TN)",
+   "name": "LP_Pro1",
+   "model": "LP_Pro1"
+  }
+ ],
  "LP_T70": [
   {
    "brand": "LP (TN)",
@@ -88864,6 +88935,20 @@
    "model": "LPT_201AR"
   }
  ],
+ "W101": [
+  {
+   "brand": "Libre",
+   "name": "W101",
+   "model": "W101"
+  }
+ ],
+ "W808": [
+  {
+   "brand": "Libre",
+   "name": "W808",
+   "model": "W808"
+  }
+ ],
  "LM1": [
   {
    "brand": "Life mobile",
@@ -95808,6 +95893,11 @@
  "MIONEI": [
   {
    "brand": "Mione",
+   "name": "A10",
+   "model": "A10"
+  },
+  {
+   "brand": "Mione",
    "name": "Mione_Pro",
    "model": "Mione_Pro"
   }
@@ -100151,6 +100241,11 @@
    "brand": "Motorola",
    "name": "moto g(8) plus",
    "model": "moto g(8) plus"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g(8) plus",
+   "model": "motorola one vision plus"
   }
  ],
  "sofiar": [
@@ -111519,6 +111614,13 @@
    "brand": "Panasonic",
    "name": "JT-C52",
    "model": "JT-C52"
+  }
+ ],
+ "JT-C60": [
+  {
+   "brand": "Panasonic",
+   "name": "JT-C60",
+   "model": "JT-C60"
   }
  ],
  "KX-PRXA10": [
@@ -148297,6 +148399,11 @@
   {
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1B",
+   "model": "5002D_TR"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1B",
    "model": "5002F"
   },
   {
@@ -167839,6 +167946,23 @@
    "model": "MI PLAY"
   }
  ],
+ "umi": [
+  {
+   "brand": "Xiaomi",
+   "name": "MI 10",
+   "model": "Mi 10"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 10",
+   "model": "Mi 10"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 10",
+   "model": "Umi"
+  }
+ ],
  "taurus": [
   {
    "brand": "Xiaomi",
@@ -168140,18 +168264,6 @@
    "brand": "Xiaomi",
    "name": "MIX 3",
    "model": "Mi MIX 3"
-  }
- ],
- "umi": [
-  {
-   "brand": "Xiaomi",
-   "name": "Mi 10",
-   "model": "Mi 10"
-  },
-  {
-   "brand": "Xiaomi",
-   "name": "Mi 10",
-   "model": "Umi"
   }
  ],
  "cmi": [

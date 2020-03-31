@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-03-30
+Last sync is 2020-03-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -419,6 +419,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advan digital|T2K|T2K|T2K|
 |Advan digital|TAB 10|ADVAN_TAB_10|1010|
 |Advan digital|TAB 7|ADVAN_TAB_7|7039|
+|Advan digital|TAB 8|ADVAN_TAB_8|8002|
 |Advan digital|X7 Max|X7_Max|7301|
 |Advan digital|X7 Pro|ADVAN_7008|7008|
 |Advan digital|X7 Pro|ADVAN_X7_Pro|X7 Pro|
@@ -2166,6 +2167,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Barnes and Noble|Nook Tablet 7”|st16c7bnn|BNTV450|
 |Battcell|M7042F|M7042F|M7042F|
 |Bauhn|Australia|hanyang|Tempo Android TV|
+|Bauhn|BAUHN|bangbae|BAUHN 4K Android TV|
 |Becrypt|Convex 430|granite|Becrypt Convex 430|
 |Becrypt|Convex 430|granite|Becrypt Indigo 430|
 |Beeline|Beebox|SWG2001A|SWG2001A-A|
@@ -4503,6 +4505,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dunns|Smarty II|Smarty_II|Smarty_II|
 |Duubee|D601L|Gaia|D601L|
 |Duubee|W1|W1|W1|
+|Duubee|W2|W2|W2|
 |E-Boda|Eclipse G400M|Eclipse_G400M|Eclipse_G400M|
 |E-Boda|Eclipse G500HD|E-Boda_Eclipse_G500HD|Eclipse G500HD|
 |E-Boda|Eclipse G500M|Eclipse_G500M|Eclipse_G500M|
@@ -4806,6 +4809,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Erito|Android TV|R1|ATV R1|
 |Erito|Android TV|R2|ATV R2|
 |Erito|Vietnam|samseong|AI PONT|
+|Essential Products|Essential|Essential|Essential|
 |Essential Products|PH-1|mata|PH-1|
 |EssentielB|Black Diamond|bird77_a_cu_ics2|Essentielb-Black Diamond|
 |EssentielB|Pyxis|pyxis_boulanger|Essentielb-Pixis|
@@ -4911,6 +4915,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Evolveo|EVOLVEO StrongPhone G6|EVOLVEO_StrongPhone_G6|EVOLVEO StrongPhone G6|
 |Evolveo|EVOLVEO StrongPhone G7|StrongPhone_G7|EVOLVEO StrongPhone G7|
 |Evolveo|EVOLVEO StrongPhone G8|EVOLVEOG8|EVOLVEO StrongPhone G8|
+|Evolveo|EVOLVEO StrongPhone G9|StrongPhone_G9|EVOLVEO StrongPhone G9|
 |Evolveo|GM6 DS|StrongPhoneG5|EVOLVEO StrongPhone G5|
 |Evolveo|StrongPhone Q9|StrongPhoneQ9|StrongPhoneQ9|
 |Evoo|EV-A-101-1|EV-A-101-1|EV-A-101-1|
@@ -5458,6 +5463,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Tab|P7000|P7000|P7000|
 |G-Tab|P733|P733|P733|
 |G-Tab|Q2|Q2|Q2|
+|G-Tab|Q4|Q4|Q4|
 |G-Tab|Q69|Q69|Q69|
 |G-Tab|S10|S10|S10|
 |G-TiDE|EXTREME X9|EXTREME_X9|EXTREME X9|
@@ -7589,6 +7595,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|VIDAA_TV|MSD6A828|VIDAA_TV|
 |Hisense|VIDAA_TV|MSD6A838|VIDAA_TV|
 |Hisense|VIDAA_TV|MSD6A938|VIDAA_TV|
+|Hisense|VIDAA_TV|MTK9632|VIDAA_TV|
 |Hisense|VIDAA_TV|NOVA72673|VIDAA_TV|
 |Hisense|VIDAA_TV|NOVA72685|VIDAA_TV|
 |Hisense|VIDAA_TV|mt5861|VIDAA_TV|
@@ -10029,6 +10036,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ipro|XPLAY|XPLAY|XPLAY|
 |Ipro|Zafiro|Zafiro|Zafiro|
 |Iproda|T1045LI|T1045LI|T1045LI|
+|Iproda|T7044NP|T7044NP|T7044NP|
 |Irbis|IRBIS TZ175|TZ175|TZ175|
 |Irbis|IRBIS TZ176|TZ176|TZ176|
 |Irbis|IRBIS TZ178|TZ178|TZ178|
@@ -10768,6 +10776,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|BASIO|KYV32|KYV32|
 |Kyocera|BASIO 3|KYV43|KYV43|
 |Kyocera|BASIO4|KYV47|KYV47|
+|Kyocera|BASIO4|KYV47|KYV47-j|
 |Kyocera|BASIO4|KYV47|KYV47-u|
 |Kyocera|Brigadier|E6782|E6782|
 |Kyocera|DIGNO|KYI11|ISW11K|
@@ -12206,6 +12215,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LINSAY|F-7HD2CORE / F-7HD4CORE / F-10HD2CORE /F-10XHD4CORE|F-7HD2CORE|LINSAY F-7HD2CORE/F-7HD4CORE/F-10HD2CORE/F-10XHD4CORE|
 |LLA|VIP6102W-LLA|vip6102w|VIP6102W|
 |LOOQS|L108MR|L108MR|L108MR|
+|LP (TN)|LP_Pro1|LP_Pro1|LP_Pro1|
 |LP (TN)|LP_T70|LP_T70|LP_T70|
 |LP (TN)|N-50|LP_N_50|N-50|
 |LP (TN)|N-57|LP_N_57|N-57|
@@ -13315,6 +13325,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lexibook|Tablet Phone|MFS100|MFS100|
 |Lgcns|LPT_200AR|LPT_200AR|LPT_200AR|
 |Lgcns|LPT_201AR|LPT_201AR|LPT_201AR|
+|Libre|W101|W101|W101|
+|Libre|W808|W808|W808|
 |Life Stick|LifeStick|ts201|LifeStick|
 |Life mobile|LM1|LM1|LM1|
 |LifeWatch|"V|FGL-00004"|hp6577_cts|
@@ -14336,6 +14348,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mio Tab|MioTab|MioTab2016|MioTab 2016|
 |Mio Tab|MioTab2017|MioTab2017|MioTab2017|
 |Mio Tab|Mio_Tab_2019|Mio_Tab_2019|Mio_Tab_2019|
+|Mione|A10|MIONEI|A10|
 |Mione|Mione_Pro|MIONEI|Mione_Pro|
 |Miophone|Mio Phone|MioPhone2016|Mio Phone 2016|
 |Miophone|Mio Phone|MioPhone2017|MioPhone2017|
@@ -15017,6 +15030,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g(8) plus|doha|moto g(7)|
 |Motorola|moto g(8) plus|doha|moto g(8) plus|
 |Motorola|moto g(8) plus|doha_n|moto g(8) plus|
+|Motorola|moto g(8) plus|doha_n|motorola one vision plus|
 |Motorola|moto g(8) power|sofiar|moto g(7)|
 |Motorola|moto g(8) power|sofiar|moto g(8) power|
 |Motorola|moto g(8) power lite|blackjack|moto g(8) power lite|
@@ -16756,6 +16770,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|IPSC 4|ipsc4|IPSC4|
 |Panasonic|JT-B1|B1|JT-B1|
 |Panasonic|JT-C52|JT-C52|JT-C52|
+|Panasonic|JT-C60|JT-C60|JT-C60|
 |Panasonic|KX-PRXA10|KX-PRXA10|Panasonic KX-PRXA10|
 |Panasonic|KX-PRXA15|KX-PRXA15|Panasonic KX-PRXA15|
 |Panasonic|LUMIX CM1|DMC-CM1|DMC-CM1|
@@ -23008,6 +23023,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002D|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002D_EEA|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002D_RU|
+|TCT (Alcatel)|Alcatel 1B|Seoul|5002D_TR|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002F|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002I|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002J|
@@ -25771,6 +25787,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|MI  MAX  3|nitrogen|MI MAX 3|
 |Xiaomi|MI  PLAY|lotus|MI PLAY|
 |Xiaomi|MI  PLAY|lotus|lotus|
+|Xiaomi|MI 10|umi|Mi 10|
 |Xiaomi|MI 2|aries|MI 2|
 |Xiaomi|MI 2|aries|MI 2S|
 |Xiaomi|MI 2A|taurus|MI 2A|
@@ -27838,6 +27855,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iLife|KIDS-TAB-5|KIDS-TAB-5|KIDS-TAB-5|
 |iLife|KIDS_TAB_6|KIDS_TAB_6|KIDS_TAB_6|
 |iLife|MISA|MISA|MISA|
+|iMuz|G10|G10|G10|
 |iMuz|RA10|RA10|RA10|
 |iMuz|muPADT7|muPADT7|muPADT7|
 |iNFONE|INFONE XE|INFONE_XE|INFONE XE|

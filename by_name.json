@@ -6880,6 +6880,11 @@
    "model": "IdeaPadA10"
   },
   {
+   "brand": "Mione",
+   "device": "MIONEI",
+   "model": "A10"
+  },
+  {
    "brand": "Mito",
    "device": "A10_sprout",
    "model": "MITO A10"
@@ -9246,6 +9251,13 @@
    "brand": "Advan digital",
    "device": "ADVAN_TAB_7",
    "model": "7039"
+  }
+ ],
+ "TAB 8": [
+  {
+   "brand": "Advan digital",
+   "device": "ADVAN_TAB_8",
+   "model": "8002"
   }
  ],
  "X7 Max": [
@@ -15427,6 +15439,11 @@
    "brand": "Symphony",
    "device": "G10",
    "model": "Symphony G10"
+  },
+  {
+   "brand": "iMuz",
+   "device": "G10",
+   "model": "G10"
   }
  ],
  "K10": [
@@ -21535,6 +21552,13 @@
    "brand": "Kogan",
    "device": "shibuya",
    "model": "KoganTVAP"
+  }
+ ],
+ "BAUHN": [
+  {
+   "brand": "Bauhn",
+   "device": "bangbae",
+   "model": "BAUHN 4K Android TV"
   }
  ],
  "Convex 430": [
@@ -38802,6 +38826,23 @@
    "model": "W1"
   }
  ],
+ "W2": [
+  {
+   "brand": "Duubee",
+   "device": "W2",
+   "model": "W2"
+  },
+  {
+   "brand": "Hisense",
+   "device": "EG606_YE",
+   "model": "W2"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO_W2",
+   "model": "TECNO W2"
+  }
+ ],
  "Eclipse G400M": [
   {
    "brand": "E-Boda",
@@ -40899,6 +40940,13 @@
    "model": "VINATV 4K"
   }
  ],
+ "Essential": [
+  {
+   "brand": "Essential Products",
+   "device": "Essential",
+   "model": "Essential"
+  }
+ ],
  "PH-1": [
   {
    "brand": "Essential Products",
@@ -41696,6 +41744,13 @@
    "brand": "Evolveo",
    "device": "EVOLVEOG8",
    "model": "EVOLVEO StrongPhone G8"
+  }
+ ],
+ "EVOLVEO StrongPhone G9": [
+  {
+   "brand": "Evolveo",
+   "device": "StrongPhone_G9",
+   "model": "EVOLVEO StrongPhone G9"
   }
  ],
  "GM6 DS": [
@@ -45455,6 +45510,13 @@
    "brand": "Umiio",
    "device": "Q2",
    "model": "Q2"
+  }
+ ],
+ "Q4": [
+  {
+   "brand": "G-Tab",
+   "device": "Q4",
+   "model": "Q4"
   }
  ],
  "Q69": [
@@ -58971,6 +59033,11 @@
   },
   {
    "brand": "Hisense",
+   "device": "MTK9632",
+   "model": "VIDAA_TV"
+  },
+  {
+   "brand": "Hisense",
    "device": "NOVA72673",
    "model": "VIDAA_TV"
   },
@@ -59009,18 +59076,6 @@
    "brand": "Hisense",
    "device": "vision2_5",
    "model": "vision2_5"
-  }
- ],
- "W2": [
-  {
-   "brand": "Hisense",
-   "device": "EG606_YE",
-   "model": "W2"
-  },
-  {
-   "brand": "Tecno",
-   "device": "TECNO_W2",
-   "model": "TECNO W2"
   }
  ],
  "W270BD": [
@@ -72169,6 +72224,13 @@
    "model": "T1045LI"
   }
  ],
+ "T7044NP": [
+  {
+   "brand": "Iproda",
+   "device": "T7044NP",
+   "model": "T7044NP"
+  }
+ ],
  "IRBIS TZ175": [
   {
    "brand": "Irbis",
@@ -77137,6 +77199,11 @@
    "brand": "Kyocera",
    "device": "KYV47",
    "model": "KYV47"
+  },
+  {
+   "brand": "Kyocera",
+   "device": "KYV47",
+   "model": "KYV47-j"
   },
   {
    "brand": "Kyocera",
@@ -84649,6 +84716,13 @@
    "model": "L108MR"
   }
  ],
+ "LP_Pro1": [
+  {
+   "brand": "LP (TN)",
+   "device": "LP_Pro1",
+   "model": "LP_Pro1"
+  }
+ ],
  "LP_T70": [
   {
    "brand": "LP (TN)",
@@ -91058,6 +91132,20 @@
    "brand": "Lgcns",
    "device": "LPT_201AR",
    "model": "LPT_201AR"
+  }
+ ],
+ "W101": [
+  {
+   "brand": "Libre",
+   "device": "W101",
+   "model": "W101"
+  }
+ ],
+ "W808": [
+  {
+   "brand": "Libre",
+   "device": "W808",
+   "model": "W808"
   }
  ],
  "LM1": [
@@ -101308,6 +101396,11 @@
    "brand": "Motorola",
    "device": "doha_n",
    "model": "moto g(8) plus"
+  },
+  {
+   "brand": "Motorola",
+   "device": "doha_n",
+   "model": "motorola one vision plus"
   }
  ],
  "moto g(8) power": [
@@ -112164,6 +112257,13 @@
    "brand": "Panasonic",
    "device": "JT-C52",
    "model": "JT-C52"
+  }
+ ],
+ "JT-C60": [
+  {
+   "brand": "Panasonic",
+   "device": "JT-C60",
+   "model": "JT-C60"
   }
  ],
  "KX-PRXA10": [
@@ -148517,6 +148617,11 @@
   {
    "brand": "TCT (Alcatel)",
    "device": "Seoul",
+   "model": "5002D_TR"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Seoul",
    "model": "5002F"
   },
   {
@@ -165247,6 +165352,13 @@
    "brand": "Xiaomi",
    "device": "lotus",
    "model": "lotus"
+  }
+ ],
+ "MI 10": [
+  {
+   "brand": "Xiaomi",
+   "device": "umi",
+   "model": "Mi 10"
   }
  ],
  "MI 2": [
