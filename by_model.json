@@ -31523,14 +31523,12 @@
    "device": "BL7000"
   }
  ],
- "MIX Lite": [
+ "MIX": [
   {
    "brand": "Doogee",
-   "name": "MIX Lite",
-   "device": "t766_dg_a66"
-  }
- ],
- "MIX": [
+   "name": "MIX",
+   "device": "t766_dg_n_mix"
+  },
   {
    "brand": "Doogee",
    "name": "Mix",
@@ -31545,6 +31543,13 @@
    "brand": "Xiaomi",
    "name": "MIX",
    "device": "lithium"
+  }
+ ],
+ "MIX Lite": [
+  {
+   "brand": "Doogee",
+   "name": "MIX Lite",
+   "device": "t766_dg_a66"
   }
  ],
  "N10": [
@@ -123761,6 +123766,20 @@
    "device": "RMX2025CN"
   }
  ],
+ "RMX2071": [
+  {
+   "brand": "Realme",
+   "name": "realme X50 Pro",
+   "device": "RMX2071CN"
+  }
+ ],
+ "RMX2076": [
+  {
+   "brand": "Realme",
+   "name": "realme X50 Pro",
+   "device": "RMX2076L1"
+  }
+ ],
  "RMX1921": [
   {
    "brand": "Realme",
@@ -127304,6 +127323,20 @@
    "device": "a30s"
   }
  ],
+ "SM-A315F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A31",
+   "device": "a31"
+  }
+ ],
+ "SM-A315G": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A31",
+   "device": "a31"
+  }
+ ],
  "SM-A405FM": [
   {
    "brand": "Samsung",
@@ -127698,6 +127731,13 @@
   }
  ],
  "SM-A515U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A51",
+   "device": "a51"
+  }
+ ],
+ "SM-A515U1": [
   {
    "brand": "Samsung",
    "name": "Galaxy A51",
@@ -141658,7 +141698,21 @@
    "device": "xcoverpro"
   }
  ],
+ "SM-G715U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy XCover Pro",
+   "device": "xcoverpro"
+  }
+ ],
  "SM-G715U1": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy XCover Pro",
+   "device": "xcoverpro"
+  }
+ ],
+ "SM-G715W": [
   {
    "brand": "Samsung",
    "name": "Galaxy XCover Pro",
@@ -157231,6 +157285,13 @@
   }
  ],
  "5002S": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1B",
+   "device": "Seoul"
+  }
+ ],
+ "5002U": [
   {
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1B",

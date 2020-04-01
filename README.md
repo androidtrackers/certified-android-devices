@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-03-31
+Last sync is 2020-04-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4340,6 +4340,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|BL5000|BL5000|BL5000|
 |Doogee|BL5500_Lite|BL5500_Lite|BL5500_Lite|
 |Doogee|BL7000|BL7000|BL7000|
+|Doogee|MIX|t766_dg_n_mix|MIX|
 |Doogee|MIX Lite|t766_dg_a66|MIX Lite|
 |Doogee|Mix|MIX|MIX|
 |Doogee|N10|Y7|N10|
@@ -18093,6 +18094,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme X2Pro|RMX1931CN|RMX1931|
 |Realme|realme X2Pro|RMX1931L1|RMX1931|
 |Realme|realme X50 5G 移动版|RMX2025CN|RMX2025|
+|Realme|realme X50 Pro|RMX2071CN|RMX2071|
+|Realme|realme X50 Pro|RMX2076L1|RMX2076|
 |Realme|realme XT|RMX1921|RMX1921|
 |Realme|realme XT|RMX1921L1|RMX1921|
 |Realme|realme XT|RMX1922|RMX1922|
@@ -18614,6 +18617,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A30s|a30s|SM-A307G|
 |Samsung|Galaxy A30s|a30s|SM-A307GN|
 |Samsung|Galaxy A30s|a30s|SM-A307GT|
+|Samsung|Galaxy A31|a31|SM-A315F|
+|Samsung|Galaxy A31|a31|SM-A315G|
 |Samsung|Galaxy A40|a40|SM-A405FM|
 |Samsung|Galaxy A40|a40|SM-A405FN|
 |Samsung|Galaxy A40|a40|SM-A405S|
@@ -18672,6 +18677,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A50s|a50s|SM-A507FN|
 |Samsung|Galaxy A51|a51|SM-A515F|
 |Samsung|Galaxy A51|a51|SM-A515U|
+|Samsung|Galaxy A51|a51|SM-A515U1|
 |Samsung|Galaxy A51|a51|SM-A515W|
 |Samsung|Galaxy A6|a6elteaio|SM-A600AZ|
 |Samsung|Galaxy A6|a6elteatt|SM-A600A|
@@ -20706,7 +20712,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy XCover FieldPro|haechiy19|SM-G889G|
 |Samsung|Galaxy XCover FieldPro|haechiy19lteatt|SM-G889A|
 |Samsung|Galaxy XCover Pro|xcoverpro|SM-G715FN|
+|Samsung|Galaxy XCover Pro|xcoverpro|SM-G715U|
 |Samsung|Galaxy XCover Pro|xcoverpro|SM-G715U1|
+|Samsung|Galaxy XCover Pro|xcoverpro|SM-G715W|
 |Samsung|Galaxy XCover4|xcover4lte|SM-G390F|
 |Samsung|Galaxy Xcover|GT-S5690|GT-S5690|
 |Samsung|Galaxy Xcover|GT-S5690L|GT-S5690L|
@@ -23030,6 +23038,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002L|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002M|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002S|
+|TCT (Alcatel)|Alcatel 1B|Seoul|5002U|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002X|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002X_EEA|
 |TCT (Alcatel)|Alcatel 1C|Curie|5003D|

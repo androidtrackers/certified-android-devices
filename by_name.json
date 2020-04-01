@@ -37443,6 +37443,28 @@
    "model": "BL7000"
   }
  ],
+ "MIX": [
+  {
+   "brand": "Doogee",
+   "device": "t766_dg_n_mix",
+   "model": "MIX"
+  },
+  {
+   "brand": "Ulefone",
+   "device": "t816_gq_ulefone",
+   "model": "MIX"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "lithium",
+   "model": "MIX"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "lithium",
+   "model": "lithium"
+  }
+ ],
  "MIX Lite": [
   {
    "brand": "Doogee",
@@ -120735,6 +120757,18 @@
    "model": "RMX2025"
   }
  ],
+ "realme X50 Pro": [
+  {
+   "brand": "Realme",
+   "device": "RMX2071CN",
+   "model": "RMX2071"
+  },
+  {
+   "brand": "Realme",
+   "device": "RMX2076L1",
+   "model": "RMX2076"
+  }
+ ],
  "realme XT": [
   {
    "brand": "Realme",
@@ -123779,6 +123813,18 @@
    "model": "SM-A307GT"
   }
  ],
+ "Galaxy A31": [
+  {
+   "brand": "Samsung",
+   "device": "a31",
+   "model": "SM-A315F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a31",
+   "model": "SM-A315G"
+  }
+ ],
  "Galaxy A40": [
   {
    "brand": "Samsung",
@@ -124085,6 +124131,11 @@
    "brand": "Samsung",
    "device": "a51",
    "model": "SM-A515U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a51",
+   "model": "SM-A515U1"
   },
   {
    "brand": "Samsung",
@@ -135128,7 +135179,17 @@
   {
    "brand": "Samsung",
    "device": "xcoverpro",
+   "model": "SM-G715U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "xcoverpro",
    "model": "SM-G715U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "xcoverpro",
+   "model": "SM-G715W"
   }
  ],
  "Galaxy XCover4": [
@@ -148652,6 +148713,11 @@
   {
    "brand": "TCT (Alcatel)",
    "device": "Seoul",
+   "model": "5002U"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Seoul",
    "model": "5002X"
   },
   {
@@ -156645,23 +156711,6 @@
    "brand": "Ulefone",
    "device": "Armor_X6",
    "model": "Armor_X6"
-  }
- ],
- "MIX": [
-  {
-   "brand": "Ulefone",
-   "device": "t816_gq_ulefone",
-   "model": "MIX"
-  },
-  {
-   "brand": "Xiaomi",
-   "device": "lithium",
-   "model": "MIX"
-  },
-  {
-   "brand": "Xiaomi",
-   "device": "lithium",
-   "model": "lithium"
   }
  ],
  "MIX S": [

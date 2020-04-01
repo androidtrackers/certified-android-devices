@@ -32244,6 +32244,13 @@
    "model": "BL7000"
   }
  ],
+ "t766_dg_n_mix": [
+  {
+   "brand": "Doogee",
+   "name": "MIX",
+   "model": "MIX"
+  }
+ ],
  "t766_dg_a66": [
   {
    "brand": "Doogee",
@@ -120115,6 +120122,20 @@
    "model": "RMX2025"
   }
  ],
+ "RMX2071CN": [
+  {
+   "brand": "Realme",
+   "name": "realme X50 Pro",
+   "model": "RMX2071"
+  }
+ ],
+ "RMX2076L1": [
+  {
+   "brand": "Realme",
+   "name": "realme X50 Pro",
+   "model": "RMX2076"
+  }
+ ],
  "RMX1921": [
   {
    "brand": "Realme",
@@ -123527,6 +123548,18 @@
    "model": "SM-A307GT"
   }
  ],
+ "a31": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A31",
+   "model": "SM-A315F"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A31",
+   "model": "SM-A315G"
+  }
+ ],
  "a40": [
   {
    "brand": "Samsung",
@@ -123809,6 +123842,11 @@
    "brand": "Samsung",
    "name": "Galaxy A51",
    "model": "SM-A515U"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A51",
+   "model": "SM-A515U1"
   },
   {
    "brand": "Samsung",
@@ -136915,7 +136953,17 @@
   {
    "brand": "Samsung",
    "name": "Galaxy XCover Pro",
+   "model": "SM-G715U"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy XCover Pro",
    "model": "SM-G715U1"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy XCover Pro",
+   "model": "SM-G715W"
   }
  ],
  "xcover4lte": [
@@ -148430,6 +148478,11 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1B",
    "model": "5002S"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1B",
+   "model": "5002U"
   },
   {
    "brand": "TCT (Alcatel)",

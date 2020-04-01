@@ -22432,6 +22432,11 @@
    "model": "BL7000"
   },
   {
+   "device": "t766_dg_n_mix",
+   "name": "MIX",
+   "model": "MIX"
+  },
+  {
    "device": "t766_dg_a66",
    "name": "MIX Lite",
    "model": "MIX Lite"
@@ -92833,6 +92838,16 @@
    "model": "RMX2025"
   },
   {
+   "device": "RMX2071CN",
+   "name": "realme X50 Pro",
+   "model": "RMX2071"
+  },
+  {
+   "device": "RMX2076L1",
+   "name": "realme X50 Pro",
+   "model": "RMX2076"
+  },
+  {
    "device": "RMX1921",
    "name": "realme XT",
    "model": "RMX1921"
@@ -95570,6 +95585,16 @@
    "model": "SM-A307GT"
   },
   {
+   "device": "a31",
+   "name": "Galaxy A31",
+   "model": "SM-A315F"
+  },
+  {
+   "device": "a31",
+   "name": "Galaxy A31",
+   "model": "SM-A315G"
+  },
+  {
    "device": "a40",
    "name": "Galaxy A40",
    "model": "SM-A405FM"
@@ -95858,6 +95883,11 @@
    "device": "a51",
    "name": "Galaxy A51",
    "model": "SM-A515U"
+  },
+  {
+   "device": "a51",
+   "name": "Galaxy A51",
+   "model": "SM-A515U1"
   },
   {
    "device": "a51",
@@ -106032,7 +106062,17 @@
   {
    "device": "xcoverpro",
    "name": "Galaxy XCover Pro",
+   "model": "SM-G715U"
+  },
+  {
+   "device": "xcoverpro",
+   "name": "Galaxy XCover Pro",
    "model": "SM-G715U1"
+  },
+  {
+   "device": "xcoverpro",
+   "name": "Galaxy XCover Pro",
+   "model": "SM-G715W"
   },
   {
    "device": "xcover4lte",
@@ -117884,6 +117924,11 @@
    "device": "Seoul",
    "name": "Alcatel 1B",
    "model": "5002S"
+  },
+  {
+   "device": "Seoul",
+   "name": "Alcatel 1B",
+   "model": "5002U"
   },
   {
    "device": "Seoul",
