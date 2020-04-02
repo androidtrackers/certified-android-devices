@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-04-01
+Last sync is 2020-04-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12974,8 +12974,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo S820|S820|Lenovo S820|
 |Lenovo|Lenovo Smart Tab M10 FHD Plus with Amazon Alexa|X606FA|Lenovo TB-X606FA|
 |Lenovo|Lenovo Smart Tab M10 FHD Plus with Amazon Alexa|X606XA|Lenovo TB-X606XA|
+|Lenovo|Lenovo Smart Tab M8|8505FS|Lenovo TB-8505FS|
 |Lenovo|Lenovo Smart Tab M8|8705F|Lenovo TB-8705F|
-|Lenovo|Lenovo Smart Tab M8|8705N|Lenovo TB-8705N|
 |Lenovo|Lenovo Smrat Tab M8|8505XC|Lenovo TB-8505XC|
 |Lenovo|Lenovo Smrat Tab M8|8505XS|Lenovo TB-8505XS|
 |Lenovo|Lenovo TAB|TB-8803F|Lenovo TB-8803F|
@@ -13039,13 +13039,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo TAB4 8 Plus|TB-8704X|Lenovo TB-8704X|
 |Lenovo|Lenovo TAB4 8 REL|TB-8604F|Lenovo TB-8604F|
 |Lenovo|Lenovo TAB4 8 REL|TB-8X04F|Lenovo TB-8X04F|
-|Lenovo|Lenovo TAB5|801LV|801LV|
 |Lenovo|Lenovo TB-8304F1|TB-8304F1|Lenovo TB-8304F1|
 |Lenovo|Lenovo Tab 7 Essential|7304I|Lenovo TB-7304I|
 |Lenovo|Lenovo Tab 7 Essential|TB-7304I|Lenovo TB-7304I|
 |Lenovo|Lenovo Tab 7 Essential|TB-7304N|Lenovo TB-7304N|
 |Lenovo|Lenovo Tab 7 Essential|TB-7304X|Lenovo TB-7304X|
 |Lenovo|Lenovo Tab E10|X104F|Lenovo TB-X104F|
+|Lenovo|Lenovo Tab E10|X104F1|Lenovo TB-X104F1|
 |Lenovo|Lenovo Tab E10|X104L|Lenovo TB-X104L|
 |Lenovo|Lenovo Tab E10|X104N|Lenovo TB-X104N|
 |Lenovo|Lenovo Tab E10|X104X|Lenovo TB-X104X|
@@ -13053,6 +13053,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab E7|TB7104I|Lenovo TB-7104I|
 |Lenovo|Lenovo Tab M10 (FHD)|X605F|Lenovo TB-X605F|
 |Lenovo|Lenovo Tab M10 (FHD)|X605L|Lenovo TB-X605L|
+|Lenovo|Lenovo Tab M10 (FHD)|X605M|Lenovo TB-X605M|
 |Lenovo|Lenovo Tab M10 (HD)|TB-X505F|Lenovo TB-X505F|
 |Lenovo|Lenovo Tab M10 (HD)|TB-X505L|Lenovo TB-X505L|
 |Lenovo|Lenovo Tab M10 (HD)|TB-X505N|Lenovo TB-X505N|
@@ -13060,18 +13061,19 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M10 FHD Plus|X606F|Lenovo TB-X606F|
 |Lenovo|Lenovo Tab M10 FHD Plus|X606M|Lenovo TB-X606M|
 |Lenovo|Lenovo Tab M10 FHD Plus|X606X|Lenovo TB-X606X|
+|Lenovo|Lenovo Tab M10 FHD Rel|801LV|801LV|
 |Lenovo|Lenovo Tab M10 Plus|X606V|Lenovo TB-X606V|
-|Lenovo|Lenovo Tab M10(FHD)|X605M|Lenovo TB-X605M|
 |Lenovo|Lenovo Tab M7|7305F|Lenovo TB-7305F|
-|Lenovo|Lenovo Tab M7|7305I|Lenovo TB-7305I|
-|Lenovo|Lenovo Tab M7|7305X|Lenovo TB-7305X|
 |Lenovo|Lenovo Tab M8|8505F|Lenovo TB-8505F|
 |Lenovo|Lenovo Tab M8|8505FS|Lenovo TB-8505FS|
 |Lenovo|Lenovo Tab M8|8505N|Lenovo TB-8505N|
 |Lenovo|Lenovo Tab M8|8505X|Lenovo TB-8505X|
+|Lenovo|Lenovo Tab M8|8705F|Lenovo TB-8705F|
+|Lenovo|Lenovo Tab M8|8705N|Lenovo TB-8705N|
 |Lenovo|Lenovo Tab M8|8705X|Lenovo TB-8705X|
 |Lenovo|Lenovo Tab P10|X705F|Lenovo TB-X705F|
 |Lenovo|Lenovo Tab P10|X705L|Lenovo TB-X705L|
+|Lenovo|Lenovo Tab P10|X705M|Lenovo TB-X705M|
 |Lenovo|Lenovo Tab V7|PB-6505M|Lenovo PB-6505M|
 |Lenovo|Lenovo Tab V7|PB-6505MC|Lenovo PB-6505MC|
 |Lenovo|Lenovo Tab V7|PB-6505NC|Lenovo PB-6505NC|
@@ -13081,8 +13083,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Z6 Pro 5G|cream|Lenovo L79041|
 |Lenovo|Lenovo-9|zap|Lenovo L78031|
 |Lenovo|LenovoTAB2 A7-30DC|A7-30HC|Lenovo TAB 2 A7-30DC|
-|Lenovo|LenovoTB-X104F1|X104F1|Lenovo TB-X104F1|
-|Lenovo|LenovoTB-X104F1_EEA|X104F1|Lenovo TB-X104F1|
 |Lenovo|LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1；AQUOS 58U1; AQUOS 60LX765A|jazz|AQUOS 58U1|
 |Lenovo|LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1；AQUOS 58U1; AQUOS 60LX765A|jazz|AQUOS 60LX765A|
 |Lenovo|LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1；AQUOS 58U1; AQUOS 60LX765A|jazz|AQUOS 60UE20A|
@@ -13190,13 +13190,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|TAB S8-50LC|S8-50LC|Lenovo TAB S8-50LC|
 |Lenovo|TAB4 10 Plus|X704Y|Lenovo TB-X704Y|
 |Lenovo|TAB4 8|TB-8504L|Lenovo TB-8504L|
-|Lenovo|TB-X104F1|X104F1|Lenovo TB-X104F1|
 |Lenovo|TB3-601LV|601LV|601LV|
 |Lenovo|TB3-602LV|602LV|602LV|
 |Lenovo|TB3-X70I|TB3-X70I|Lenovo TB3-X70I|
 |Lenovo|TBD|kunlun2|Lenovo L38111|
 |Lenovo|Tab 7 Essential|7304F|Lenovo TB-7304F|
-|Lenovo|Tab P10|X705M|Lenovo TB-X705M|
+|Lenovo|Tab M7|7305F|Lenovo TB-7305F|
+|Lenovo|Tab M7|7305I|Lenovo TB-7305I|
+|Lenovo|Tab M7|7305X|Lenovo TB-7305X|
 |Lenovo|ThinkPad 11e Chromebook 3rd Gen|ultima_cheets|Lenovo ThinkPad 11e 3rd Gen Chromebook|
 |Lenovo|ThinkPad 11e Chromebook 3rd Gen|ultima_cheets|ThinkPad 11e Chromebook 3rd Gen (Yoga/Clamshell)|
 |Lenovo|ThinkVision28|ThinkVision28|ThinkVision28|
@@ -25081,6 +25082,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo 1919|1919|vivo 1919|
 |Vivo|vivo 1920|1920|vivo 1920|
 |Vivo|vivo 1921|1921|vivo 1921|
+|Vivo|vivo 1933|1933|vivo 1933|
+|Vivo|vivo 1935|1935|vivo 1935|
 |Vivo|vivo NEX A|PD1806|vivo NEX A|
 |Vivo|vivo NEX S|PD1805|vivo NEX S|
 |Vivo|vivo S1|PD1831|V1831A|

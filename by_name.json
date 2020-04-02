@@ -89076,13 +89076,13 @@
  "Lenovo Smart Tab M8": [
   {
    "brand": "Lenovo",
-   "device": "8705F",
-   "model": "Lenovo TB-8705F"
+   "device": "8505FS",
+   "model": "Lenovo TB-8505FS"
   },
   {
    "brand": "Lenovo",
-   "device": "8705N",
-   "model": "Lenovo TB-8705N"
+   "device": "8705F",
+   "model": "Lenovo TB-8705F"
   }
  ],
  "Lenovo Smrat Tab M8": [
@@ -89444,13 +89444,6 @@
    "model": "Lenovo TB-8X04F"
   }
  ],
- "Lenovo TAB5": [
-  {
-   "brand": "Lenovo",
-   "device": "801LV",
-   "model": "801LV"
-  }
- ],
  "Lenovo TB-8304F1": [
   {
    "brand": "Lenovo",
@@ -89485,6 +89478,11 @@
    "brand": "Lenovo",
    "device": "X104F",
    "model": "Lenovo TB-X104F"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "X104F1",
+   "model": "Lenovo TB-X104F1"
   },
   {
    "brand": "Lenovo",
@@ -89524,6 +89522,11 @@
    "brand": "Lenovo",
    "device": "X605L",
    "model": "Lenovo TB-X605L"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "X605M",
+   "model": "Lenovo TB-X605M"
   }
  ],
  "Lenovo Tab M10 (HD)": [
@@ -89565,6 +89568,13 @@
    "model": "Lenovo TB-X606X"
   }
  ],
+ "Lenovo Tab M10 FHD Rel": [
+  {
+   "brand": "Lenovo",
+   "device": "801LV",
+   "model": "801LV"
+  }
+ ],
  "Lenovo Tab M10 Plus": [
   {
    "brand": "Lenovo",
@@ -89572,28 +89582,11 @@
    "model": "Lenovo TB-X606V"
   }
  ],
- "Lenovo Tab M10(FHD)": [
-  {
-   "brand": "Lenovo",
-   "device": "X605M",
-   "model": "Lenovo TB-X605M"
-  }
- ],
  "Lenovo Tab M7": [
   {
    "brand": "Lenovo",
    "device": "7305F",
    "model": "Lenovo TB-7305F"
-  },
-  {
-   "brand": "Lenovo",
-   "device": "7305I",
-   "model": "Lenovo TB-7305I"
-  },
-  {
-   "brand": "Lenovo",
-   "device": "7305X",
-   "model": "Lenovo TB-7305X"
   }
  ],
  "Lenovo Tab M8": [
@@ -89619,6 +89612,16 @@
   },
   {
    "brand": "Lenovo",
+   "device": "8705F",
+   "model": "Lenovo TB-8705F"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "8705N",
+   "model": "Lenovo TB-8705N"
+  },
+  {
+   "brand": "Lenovo",
    "device": "8705X",
    "model": "Lenovo TB-8705X"
   }
@@ -89633,6 +89636,11 @@
    "brand": "Lenovo",
    "device": "X705L",
    "model": "Lenovo TB-X705L"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "X705M",
+   "model": "Lenovo TB-X705M"
   }
  ],
  "Lenovo Tab V7": [
@@ -89690,20 +89698,6 @@
    "brand": "Lenovo",
    "device": "A7-30HC",
    "model": "Lenovo TAB 2 A7-30DC"
-  }
- ],
- "LenovoTB-X104F1": [
-  {
-   "brand": "Lenovo",
-   "device": "X104F1",
-   "model": "Lenovo TB-X104F1"
-  }
- ],
- "LenovoTB-X104F1_EEA": [
-  {
-   "brand": "Lenovo",
-   "device": "X104F1",
-   "model": "Lenovo TB-X104F1"
   }
  ],
  "LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1；AQUOS 58U1; AQUOS 60LX765A": [
@@ -90333,13 +90327,6 @@
    "model": "Lenovo TB-8504L"
   }
  ],
- "TB-X104F1": [
-  {
-   "brand": "Lenovo",
-   "device": "X104F1",
-   "model": "Lenovo TB-X104F1"
-  }
- ],
  "TB3-601LV": [
   {
    "brand": "Lenovo",
@@ -90368,11 +90355,21 @@
    "model": "Lenovo TB-7304F"
   }
  ],
- "Tab P10": [
+ "Tab M7": [
   {
    "brand": "Lenovo",
-   "device": "X705M",
-   "model": "Lenovo TB-X705M"
+   "device": "7305F",
+   "model": "Lenovo TB-7305F"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "7305I",
+   "model": "Lenovo TB-7305I"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "7305X",
+   "model": "Lenovo TB-7305X"
   }
  ],
  "ThinkPad 11e Chromebook 3rd Gen": [
@@ -161025,6 +161022,20 @@
    "brand": "Vivo",
    "device": "1921",
    "model": "vivo 1921"
+  }
+ ],
+ "vivo 1933": [
+  {
+   "brand": "Vivo",
+   "device": "1933",
+   "model": "vivo 1933"
+  }
+ ],
+ "vivo 1935": [
+  {
+   "brand": "Vivo",
+   "device": "1935",
+   "model": "vivo 1935"
   }
  ],
  "vivo NEX A": [
