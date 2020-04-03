@@ -61789,6 +61789,13 @@
    "model": "MAR-LX1H"
   }
  ],
+ "HONOR 20e": [
+  {
+   "brand": "Huawei",
+   "device": "HWHRY-HF",
+   "model": "HRY-LX1T"
+  }
+ ],
  "HONOR 20i": [
   {
    "brand": "Huawei",
@@ -62616,6 +62623,23 @@
    "brand": "Huawei",
    "device": "HWDUB-Q",
    "model": "DUB-LX3"
+  }
+ ],
+ "HUAWEI Y8s": [
+  {
+   "brand": "Huawei",
+   "device": "HWJKM-H",
+   "model": "JKM-LX1"
+  },
+  {
+   "brand": "Huawei",
+   "device": "HWJKM-H",
+   "model": "JKM-LX2"
+  },
+  {
+   "brand": "Huawei",
+   "device": "HWJKM-H",
+   "model": "JKM-LX3"
   }
  ],
  "HUAWEI Y9 2018": [
@@ -89587,6 +89611,16 @@
    "brand": "Lenovo",
    "device": "7305F",
    "model": "Lenovo TB-7305F"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "7305I",
+   "model": "Lenovo TB-7305I"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "7305X",
+   "model": "Lenovo TB-7305X"
   }
  ],
  "Lenovo Tab M8": [
@@ -89670,6 +89704,23 @@
    "brand": "Lenovo",
    "device": "X2-CU",
    "model": "Lenovo X2-CU"
+  }
+ ],
+ "Lenovo YOGA Tab 3 Plus": [
+  {
+   "brand": "Lenovo",
+   "device": "YT-X703F",
+   "model": "Lenovo YT-X703F"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "YT-X703L",
+   "model": "Lenovo YT-X703L"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "YT-X703X",
+   "model": "Lenovo YT-X703X"
   }
  ],
  "Lenovo Z5 Pro": [
@@ -90355,23 +90406,6 @@
    "model": "Lenovo TB-7304F"
   }
  ],
- "Tab M7": [
-  {
-   "brand": "Lenovo",
-   "device": "7305F",
-   "model": "Lenovo TB-7305F"
-  },
-  {
-   "brand": "Lenovo",
-   "device": "7305I",
-   "model": "Lenovo TB-7305I"
-  },
-  {
-   "brand": "Lenovo",
-   "device": "7305X",
-   "model": "Lenovo TB-7305X"
-  }
- ],
  "ThinkPad 11e Chromebook 3rd Gen": [
   {
    "brand": "Lenovo",
@@ -90629,23 +90663,6 @@
    "brand": "Lenovo",
    "device": "YT3",
    "model": "Lenovo YT3-X90Z"
-  }
- ],
- "YOGA Tab 3 Plus": [
-  {
-   "brand": "Lenovo",
-   "device": "YT-X703F",
-   "model": "Lenovo YT-X703F"
-  },
-  {
-   "brand": "Lenovo",
-   "device": "YT-X703L",
-   "model": "Lenovo YT-X703L"
-  },
-  {
-   "brand": "Lenovo",
-   "device": "YT-X703X",
-   "model": "Lenovo YT-X703X"
   }
  ],
  "YOGA Tablet Pro-1050L/Yoga Tablet 2": [

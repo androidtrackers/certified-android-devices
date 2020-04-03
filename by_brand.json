@@ -42721,6 +42721,11 @@
   },
   {
    "device": "HWHRY-HF",
+   "name": "HONOR 20e",
+   "model": "HRY-LX1T"
+  },
+  {
+   "device": "HWHRY-HF",
    "name": "HONOR 20i",
    "model": "HRY-AL00Ta"
   },
@@ -43433,6 +43438,21 @@
    "device": "HWDUB-Q",
    "name": "HUAWEI Y7s",
    "model": "DUB-LX3"
+  },
+  {
+   "device": "HWJKM-H",
+   "name": "HUAWEI Y8s",
+   "model": "JKM-LX1"
+  },
+  {
+   "device": "HWJKM-H",
+   "name": "HUAWEI Y8s",
+   "model": "JKM-LX2"
+  },
+  {
+   "device": "HWJKM-H",
+   "name": "HUAWEI Y8s",
+   "model": "JKM-LX3"
   },
   {
    "device": "HWFLA-H",
@@ -66940,6 +66960,16 @@
    "model": "Lenovo TB-7305F"
   },
   {
+   "device": "7305I",
+   "name": "Lenovo Tab M7",
+   "model": "Lenovo TB-7305I"
+  },
+  {
+   "device": "7305X",
+   "name": "Lenovo Tab M7",
+   "model": "Lenovo TB-7305X"
+  },
+  {
    "device": "8505F",
    "name": "Lenovo Tab M8",
    "model": "Lenovo TB-8505F"
@@ -67013,6 +67043,21 @@
    "device": "X2-CU",
    "name": "Lenovo X2-CU/VIBE X2",
    "model": "Lenovo X2-CU"
+  },
+  {
+   "device": "YT-X703F",
+   "name": "Lenovo YOGA Tab 3 Plus",
+   "model": "Lenovo YT-X703F"
+  },
+  {
+   "device": "YT-X703L",
+   "name": "Lenovo YOGA Tab 3 Plus",
+   "model": "Lenovo YT-X703L"
+  },
+  {
+   "device": "YT-X703X",
+   "name": "Lenovo YOGA Tab 3 Plus",
+   "model": "Lenovo YT-X703X"
   },
   {
    "device": "heart",
@@ -67595,21 +67640,6 @@
    "model": "Lenovo TB-7304F"
   },
   {
-   "device": "7305F",
-   "name": "Tab M7",
-   "model": "Lenovo TB-7305F"
-  },
-  {
-   "device": "7305I",
-   "name": "Tab M7",
-   "model": "Lenovo TB-7305I"
-  },
-  {
-   "device": "7305X",
-   "name": "Tab M7",
-   "model": "Lenovo TB-7305X"
-  },
-  {
    "device": "ultima_cheets",
    "name": "ThinkPad 11e Chromebook 3rd Gen",
    "model": "Lenovo ThinkPad 11e 3rd Gen Chromebook"
@@ -67833,21 +67863,6 @@
    "device": "YT3",
    "name": "YOGA Tab 3 PRO 10”",
    "model": "Lenovo YT3-X90Z"
-  },
-  {
-   "device": "YT-X703F",
-   "name": "YOGA Tab 3 Plus",
-   "model": "Lenovo YT-X703F"
-  },
-  {
-   "device": "YT-X703L",
-   "name": "YOGA Tab 3 Plus",
-   "model": "Lenovo YT-X703L"
-  },
-  {
-   "device": "YT-X703X",
-   "name": "YOGA Tab 3 Plus",
-   "model": "Lenovo YT-X703X"
   },
   {
    "device": "YT2",

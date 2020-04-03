@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-04-02
+Last sync is 2020-04-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8294,6 +8294,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HONOR 20 PRO|HWYAL|YAL-AL10|
 |Huawei|HONOR 20 PRO|HWYAL|YAL-L41|
 |Huawei|HONOR 20S|HWMAR|MAR-LX1H|
+|Huawei|HONOR 20e|HWHRY-HF|HRY-LX1T|
 |Huawei|HONOR 20i|HWHRY-HF|HRY-AL00Ta|
 |Huawei|HONOR 4X|hwChe2|Che2-L12|
 |Huawei|HONOR 8A Pro|HWJAT-M|JAT-L29|
@@ -8437,6 +8438,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI Y7s|HWDUB-Q|DUB-LX1|
 |Huawei|HUAWEI Y7s|HWDUB-Q|DUB-LX2|
 |Huawei|HUAWEI Y7s|HWDUB-Q|DUB-LX3|
+|Huawei|HUAWEI Y8s|HWJKM-H|JKM-LX1|
+|Huawei|HUAWEI Y8s|HWJKM-H|JKM-LX2|
+|Huawei|HUAWEI Y8s|HWJKM-H|JKM-LX3|
 |Huawei|HUAWEI Y9 2018|HWFLA-H|FLA-LX1|
 |Huawei|HUAWEI Y9 2018|HWFLA-H|FLA-LX2|
 |Huawei|HUAWEI Y9 2018|HWFLA-H|FLA-LX3|
@@ -13064,6 +13068,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M10 FHD Rel|801LV|801LV|
 |Lenovo|Lenovo Tab M10 Plus|X606V|Lenovo TB-X606V|
 |Lenovo|Lenovo Tab M7|7305F|Lenovo TB-7305F|
+|Lenovo|Lenovo Tab M7|7305I|Lenovo TB-7305I|
+|Lenovo|Lenovo Tab M7|7305X|Lenovo TB-7305X|
 |Lenovo|Lenovo Tab M8|8505F|Lenovo TB-8505F|
 |Lenovo|Lenovo Tab M8|8505FS|Lenovo TB-8505FS|
 |Lenovo|Lenovo Tab M8|8505N|Lenovo TB-8505N|
@@ -13079,6 +13085,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab V7|PB-6505NC|Lenovo PB-6505NC|
 |Lenovo|Lenovo Tab V7|PB-6505Y|Lenovo PB-6505Y|
 |Lenovo|Lenovo X2-CU/VIBE X2|X2-CU|Lenovo X2-CU|
+|Lenovo|Lenovo YOGA Tab 3 Plus|YT-X703F|Lenovo YT-X703F|
+|Lenovo|Lenovo YOGA Tab 3 Plus|YT-X703L|Lenovo YT-X703L|
+|Lenovo|Lenovo YOGA Tab 3 Plus|YT-X703X|Lenovo YT-X703X|
 |Lenovo|Lenovo Z5 Pro|heart|Lenovo L78032|
 |Lenovo|Lenovo Z6 Pro 5G|cream|Lenovo L79041|
 |Lenovo|Lenovo-9|zap|Lenovo L78031|
@@ -13195,9 +13204,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|TB3-X70I|TB3-X70I|Lenovo TB3-X70I|
 |Lenovo|TBD|kunlun2|Lenovo L38111|
 |Lenovo|Tab 7 Essential|7304F|Lenovo TB-7304F|
-|Lenovo|Tab M7|7305F|Lenovo TB-7305F|
-|Lenovo|Tab M7|7305I|Lenovo TB-7305I|
-|Lenovo|Tab M7|7305X|Lenovo TB-7305X|
 |Lenovo|ThinkPad 11e Chromebook 3rd Gen|ultima_cheets|Lenovo ThinkPad 11e 3rd Gen Chromebook|
 |Lenovo|ThinkPad 11e Chromebook 3rd Gen|ultima_cheets|ThinkPad 11e Chromebook 3rd Gen (Yoga/Clamshell)|
 |Lenovo|ThinkVision28|ThinkVision28|ThinkVision28|
@@ -13243,9 +13249,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|YOGA Tab 3 PRO 10”|YT3|Lenovo YT3-X90X|
 |Lenovo|YOGA Tab 3 PRO 10”|YT3|Lenovo YT3-X90Y|
 |Lenovo|YOGA Tab 3 PRO 10”|YT3|Lenovo YT3-X90Z|
-|Lenovo|YOGA Tab 3 Plus|YT-X703F|Lenovo YT-X703F|
-|Lenovo|YOGA Tab 3 Plus|YT-X703L|Lenovo YT-X703L|
-|Lenovo|YOGA Tab 3 Plus|YT-X703X|Lenovo YT-X703X|
 |Lenovo|YOGA Tablet Pro-1050L/Yoga Tablet 2|YT2|YOGA Tablet 2-1050L|
 |Lenovo|YOGA Tablet Pro-1050LC/Yoga Tablet 2|YT2|YOGA Tablet 2-1050LC|
 |Lenovo|YOGA Tablet Pro-1380F/Yoga Tablet 2 Pro|YT2|YOGA Tablet 2 Pro-1380F|

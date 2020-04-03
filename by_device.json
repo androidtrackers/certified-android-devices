@@ -58130,6 +58130,11 @@
   },
   {
    "brand": "Huawei",
+   "name": "HONOR 20e",
+   "model": "HRY-LX1T"
+  },
+  {
+   "brand": "Huawei",
    "name": "HONOR 20i",
    "model": "HRY-AL00Ta"
   },
@@ -59607,6 +59612,48 @@
    "model": "LDN-TL20"
   }
  ],
+ "HWJKM-H": [
+  {
+   "brand": "Huawei",
+   "name": "HUAWEI Y8s",
+   "model": "JKM-LX1"
+  },
+  {
+   "brand": "Huawei",
+   "name": "HUAWEI Y8s",
+   "model": "JKM-LX2"
+  },
+  {
+   "brand": "Huawei",
+   "name": "HUAWEI Y8s",
+   "model": "JKM-LX3"
+  },
+  {
+   "brand": "Huawei",
+   "name": "HUAWEI Y9 2019",
+   "model": "JKM-LX1"
+  },
+  {
+   "brand": "Huawei",
+   "name": "HUAWEI Y9 2019",
+   "model": "JKM-LX2"
+  },
+  {
+   "brand": "Huawei",
+   "name": "HUAWEI Y9 2019",
+   "model": "JKM-LX3"
+  },
+  {
+   "brand": "Huawei",
+   "name": "华为畅享9 Plus",
+   "model": "JKM-AL00"
+  },
+  {
+   "brand": "Huawei",
+   "name": "华为畅享9 Plus",
+   "model": "JKM-TL00"
+  }
+ ],
  "HWFLA-H": [
   {
    "brand": "Huawei",
@@ -59647,33 +59694,6 @@
    "brand": "Huawei",
    "name": "华为畅享8 Plus",
    "model": "FLA-TL10"
-  }
- ],
- "HWJKM-H": [
-  {
-   "brand": "Huawei",
-   "name": "HUAWEI Y9 2019",
-   "model": "JKM-LX1"
-  },
-  {
-   "brand": "Huawei",
-   "name": "HUAWEI Y9 2019",
-   "model": "JKM-LX2"
-  },
-  {
-   "brand": "Huawei",
-   "name": "HUAWEI Y9 2019",
-   "model": "JKM-LX3"
-  },
-  {
-   "brand": "Huawei",
-   "name": "华为畅享9 Plus",
-   "model": "JKM-AL00"
-  },
-  {
-   "brand": "Huawei",
-   "name": "华为畅享9 Plus",
-   "model": "JKM-TL00"
   }
  ],
  "HWBAC": [
@@ -87261,11 +87281,20 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab M7",
    "model": "Lenovo TB-7305F"
-  },
+  }
+ ],
+ "7305I": [
   {
    "brand": "Lenovo",
-   "name": "Tab M7",
-   "model": "Lenovo TB-7305F"
+   "name": "Lenovo Tab M7",
+   "model": "Lenovo TB-7305I"
+  }
+ ],
+ "7305X": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M7",
+   "model": "Lenovo TB-7305X"
   }
  ],
  "8505F": [
@@ -87357,6 +87386,27 @@
    "brand": "Lenovo",
    "name": "Lenovo X2-CU/VIBE X2",
    "model": "Lenovo X2-CU"
+  }
+ ],
+ "YT-X703F": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo YOGA Tab 3 Plus",
+   "model": "Lenovo YT-X703F"
+  }
+ ],
+ "YT-X703L": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo YOGA Tab 3 Plus",
+   "model": "Lenovo YT-X703L"
+  }
+ ],
+ "YT-X703X": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo YOGA Tab 3 Plus",
+   "model": "Lenovo YT-X703X"
   }
  ],
  "heart": [
@@ -88114,20 +88164,6 @@
    "model": "Lenovo TB-7304F"
   }
  ],
- "7305I": [
-  {
-   "brand": "Lenovo",
-   "name": "Tab M7",
-   "model": "Lenovo TB-7305I"
-  }
- ],
- "7305X": [
-  {
-   "brand": "Lenovo",
-   "name": "Tab M7",
-   "model": "Lenovo TB-7305X"
-  }
- ],
  "ultima_cheets": [
   {
    "brand": "Lenovo",
@@ -88407,27 +88443,6 @@
    "brand": "Lenovo",
    "name": "YOGA Tab 3 PRO 10”",
    "model": "Lenovo YT3-X90Z"
-  }
- ],
- "YT-X703F": [
-  {
-   "brand": "Lenovo",
-   "name": "YOGA Tab 3 Plus",
-   "model": "Lenovo YT-X703F"
-  }
- ],
- "YT-X703L": [
-  {
-   "brand": "Lenovo",
-   "name": "YOGA Tab 3 Plus",
-   "model": "Lenovo YT-X703L"
-  }
- ],
- "YT-X703X": [
-  {
-   "brand": "Lenovo",
-   "name": "YOGA Tab 3 Plus",
-   "model": "Lenovo YT-X703X"
   }
  ],
  "YT2": [
