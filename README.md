@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-04-03
+Last sync is 2020-04-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4335,6 +4335,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Docomo|d-01K|d-01K|d-01K|
 |Docomo|d-02K|d-02K|d-02K|
 |Dolamee|D8|DV8235|D8|
+|Dom.ru|Movix Pro|SEI200|Movix Pro|
 |Doogee|BL12000|Selfie|BL12000|
 |Doogee|BL12000 PRO|t758_dg_a67t_n|BL12000 PRO|
 |Doogee|BL5000|BL5000|BL5000|
