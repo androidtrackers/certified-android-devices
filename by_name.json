@@ -85702,6 +85702,11 @@
    "brand": "Lava",
    "device": "A52",
    "model": "A52"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP4C77L1",
+   "model": "CPH2061"
   }
  ],
  "A67": [
@@ -85740,6 +85745,11 @@
    "brand": "Micromax",
    "device": "A72",
    "model": "Micromax A72"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP4C72L1",
+   "model": "CPH2067"
   }
  ],
  "A73": [
@@ -108302,6 +108312,13 @@
    "brand": "Oppo",
    "device": "OP46F1",
    "model": "PCAT10"
+  }
+ ],
+ "A92": [
+  {
+   "brand": "Oppo",
+   "device": "OP4C72L1",
+   "model": "CPH2059"
   }
  ],
  "A9x": [

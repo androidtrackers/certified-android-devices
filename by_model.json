@@ -110697,6 +110697,13 @@
    "device": "A51"
   }
  ],
+ "CPH2061": [
+  {
+   "brand": "Oppo",
+   "name": "A52",
+   "device": "OP4C77L1"
+  }
+ ],
  "OPPO A53": [
   {
    "brand": "Oppo",
@@ -110824,6 +110831,13 @@
    "brand": "Oppo",
    "name": "A7",
    "device": "PBFT00"
+  }
+ ],
+ "CPH2067": [
+  {
+   "brand": "Oppo",
+   "name": "A72",
+   "device": "OP4C72L1"
   }
  ],
  "OPPO A73": [
@@ -110965,6 +110979,13 @@
    "brand": "Oppo",
    "name": "A91",
    "device": "OP4ACF"
+  }
+ ],
+ "CPH2059": [
+  {
+   "brand": "Oppo",
+   "name": "A92",
+   "device": "OP4C72L1"
   }
  ],
  "PCEM00": [

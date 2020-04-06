@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-04-05
+Last sync is 2020-04-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -16113,6 +16113,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A51fa|A51|A51f|
 |Oppo|A51kc|A51kc|A51kc|
 |Oppo|A51w|A51|A51w|
+|Oppo|A52|OP4C77L1|CPH2061|
 |Oppo|A53|A53|OPPO A53|
 |Oppo|A53f|A53|A53f|
 |Oppo|A53fw|A53|A53fw|
@@ -16132,6 +16133,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A7|CPH1905|CPH1905|
 |Oppo|A7|PBFM00|PBFM00|
 |Oppo|A7|PBFT00|PBFT00|
+|Oppo|A72|OP4C72L1|CPH2067|
 |Oppo|A73|A73|OPPO A73|
 |Oppo|A73|A79|OPPO A73|
 |Oppo|A73t|A73t|OPPO A73t|
@@ -16153,6 +16155,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A9 中国版|OP46F1|PCAM10|
 |Oppo|A9 中国版|OP46F1|PCAT10|
 |Oppo|A91|OP4ACF|PCPM00|
+|Oppo|A92|OP4C72L1|CPH2059|
 |Oppo|A9x|OP46F3|PCEM00|
 |Oppo|A9x|OP46F3|PCET00|
 |Oppo|AX5s|CPH1920|CPH1920|

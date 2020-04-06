@@ -107210,6 +107210,13 @@
    "model": "A51kc"
   }
  ],
+ "OP4C77L1": [
+  {
+   "brand": "Oppo",
+   "name": "A52",
+   "model": "CPH2061"
+  }
+ ],
  "A53": [
   {
    "brand": "Oppo",
@@ -107300,6 +107307,18 @@
    "brand": "Oppo",
    "name": "A7",
    "model": "PBFT00"
+  }
+ ],
+ "OP4C72L1": [
+  {
+   "brand": "Oppo",
+   "name": "A72",
+   "model": "CPH2067"
+  },
+  {
+   "brand": "Oppo",
+   "name": "A92",
+   "model": "CPH2059"
   }
  ],
  "A73t": [

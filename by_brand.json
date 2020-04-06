@@ -82705,6 +82705,11 @@
    "model": "A51w"
   },
   {
+   "device": "OP4C77L1",
+   "name": "A52",
+   "model": "CPH2061"
+  },
+  {
    "device": "A53",
    "name": "A53",
    "model": "OPPO A53"
@@ -82798,6 +82803,11 @@
    "device": "PBFT00",
    "name": "A7",
    "model": "PBFT00"
+  },
+  {
+   "device": "OP4C72L1",
+   "name": "A72",
+   "model": "CPH2067"
   },
   {
    "device": "A73",
@@ -82903,6 +82913,11 @@
    "device": "OP4ACF",
    "name": "A91",
    "model": "PCPM00"
+  },
+  {
+   "device": "OP4C72L1",
+   "name": "A92",
+   "model": "CPH2059"
   },
   {
    "device": "OP46F3",
