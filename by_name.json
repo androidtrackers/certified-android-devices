@@ -35157,9 +35157,7 @@
    "brand": "Datalogic",
    "device": "Q10",
    "model": "Memor 20"
-  }
- ],
- "Q10_WLAN": [
+  },
   {
    "brand": "Datalogic",
    "device": "Q10A",
@@ -37811,6 +37809,11 @@
   {
    "brand": "Doogee",
    "device": "s6061_dg_a50_m",
+   "model": "X7"
+  },
+  {
+   "brand": "Evercoss",
+   "device": "X7",
    "model": "X7"
   },
   {
@@ -90538,6 +90541,13 @@
    "model": "Lenovo K51c78"
   }
  ],
+ "VR-S3": [
+  {
+   "brand": "Lenovo",
+   "device": "VRS3",
+   "model": "VR-S3"
+  }
+ ],
  "X2 Pro": [
   {
    "brand": "Lenovo",
@@ -106019,6 +106029,13 @@
    "model": "Nokia 1 Plus"
   }
  ],
+ "Nokia 1.3": [
+  {
+   "brand": "Nokia",
+   "device": "DRX",
+   "model": "Nokia 1.3"
+  }
+ ],
  "Nokia 2": [
   {
    "brand": "Nokia",
@@ -108137,6 +108154,13 @@
    "brand": "Oppo",
    "device": "A51",
    "model": "A51w"
+  }
+ ],
+ "A52 中国版": [
+  {
+   "brand": "Oppo",
+   "device": "OP4AE7",
+   "model": "PDAM10"
   }
  ],
  "A53f": [
@@ -123436,6 +123460,13 @@
    "model": "archer"
   }
  ],
+ "Galaxy A Quantum": [
+  {
+   "brand": "Samsung",
+   "device": "a71x",
+   "model": "SM-A716S"
+  }
+ ],
  "Galaxy A01": [
   {
    "brand": "Samsung",
@@ -123861,6 +123892,11 @@
    "brand": "Samsung",
    "device": "a31",
    "model": "SM-A315G"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a31",
+   "model": "SM-A315N"
   }
  ],
  "Galaxy A40": [
@@ -124437,6 +124473,18 @@
    "brand": "Samsung",
    "device": "a71",
    "model": "SM-A715W"
+  }
+ ],
+ "Galaxy A71 5G": [
+  {
+   "brand": "Samsung",
+   "device": "a71x",
+   "model": "SM-A7160"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a71x",
+   "model": "SM-A716B"
   }
  ],
  "Galaxy A8": [
@@ -130467,6 +130515,11 @@
    "brand": "Samsung",
    "device": "r5q",
    "model": "SM-G770F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "r5q",
+   "model": "SM-G770U1"
   }
  ],
  "Galaxy S10+": [
@@ -135206,6 +135259,13 @@
    "brand": "Samsung",
    "device": "haechiy19lteatt",
    "model": "SM-G889A"
+  }
+ ],
+ "Galaxy XCover Filed Pro": [
+  {
+   "brand": "Samsung",
+   "device": "haechiy19",
+   "model": "SM-G889YB"
   }
  ],
  "Galaxy XCover Pro": [
@@ -144343,6 +144403,13 @@
    "model": "Stylo S40"
   }
  ],
+ "Stylo_Viva": [
+  {
+   "brand": "Stylo",
+   "device": "Stylo_Viva",
+   "model": "Stylo_Viva"
+  }
+ ],
  "TAB2": [
   {
    "brand": "Stylo",
@@ -149197,6 +149264,11 @@
    "brand": "TCT (Alcatel)",
    "device": "TokyoPro",
    "model": "5029D_RU"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "TokyoPro",
+   "model": "5029D_TR"
   },
   {
    "brand": "TCT (Alcatel)",
@@ -170918,6 +170990,13 @@
    "brand": "ZTE",
    "device": "roamer2",
    "model": "RACER III mini"
+  }
+ ],
+ "RED MAGIC 5G": [
+  {
+   "brand": "ZTE",
+   "device": "NX659J",
+   "model": "NX659J"
   }
  ],
  "Racer": [

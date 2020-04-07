@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-04-06
+Last sync is 2020-04-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4004,7 +4004,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datalogic|MEMOR 1|M1_HANDHELD|Memor 1|
 |Datalogic|MEMOR 1|M1_PISTOL|Memor 1|
 |Datalogic|Memor 20|Q10|Memor 20|
-|Datalogic|Q10_WLAN|Q10A|Memor 20|
+|Datalogic|Memor 20|Q10A|Memor 20|
 |Datamini|K508101|K508101|K508101|
 |Datamini|K908H4G|K908H4G|K908H4G|
 |Datamini|T74G|T74G|T74G|
@@ -4882,6 +4882,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Evercoss|U70A|EVERCOSS_U70A|U70A|
 |Evercoss|U70B|U70B|U70B|
 |Evercoss|U70C|U70C|U70C|
+|Evercoss|X7|X7|X7|
 |Evercoss|X7A|X7A|X7A|
 |Evercoss|X8|X8|X8|
 |Everex|Fine 7B|Fine_7B|Fine 7B|
@@ -13224,6 +13225,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|VIBE X3 Lite|A7010a48|Lenovo A7010a48|
 |Lenovo|VIBE X3 Lite|k5fp|Lenovo K51c78|
 |Lenovo|VIBE X3 Lite|k5fp_m|Lenovo K51c78|
+|Lenovo|VR-S3|VRS3|VR-S3|
 |Lenovo|X2|X2-AP|Lenovo X2-AP|
 |Lenovo|X2|X2-EU|Lenovo X2-EU|
 |Lenovo|X2 Pro|s7|Lenovo X2Pt5|
@@ -15752,6 +15754,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|N1|Nokia_N1|N1|
 |Nokia|Nokia 1|FRT|Nokia 1|
 |Nokia|Nokia 1 Plus|ANT|Nokia 1 Plus|
+|Nokia|Nokia 1.3|DRX|Nokia 1.3|
 |Nokia|Nokia 2|E1M|Nokia 2|
 |Nokia|Nokia 2 V|EVW|Nokia 2 V|
 |Nokia|Nokia 2.1|E2M|Nokia 2.1|
@@ -16114,6 +16117,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A51kc|A51kc|A51kc|
 |Oppo|A51w|A51|A51w|
 |Oppo|A52|OP4C77L1|CPH2061|
+|Oppo|A52 中国版|OP4AE7|PDAM10|
 |Oppo|A53|A53|OPPO A53|
 |Oppo|A53f|A53|A53f|
 |Oppo|A53fw|A53|A53fw|
@@ -18548,6 +18552,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy 070|hendrix|YP-GI2|
 |Samsung|Galaxy A|archer|SHW-M100S|
 |Samsung|Galaxy A|archer|archer|
+|Samsung|Galaxy A Quantum|a71x|SM-A716S|
 |Samsung|Galaxy A01|a01q|SM-A015A|
 |Samsung|Galaxy A01|a01q|SM-A015F|
 |Samsung|Galaxy A01|a01q|SM-A015G|
@@ -18627,6 +18632,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A30s|a30s|SM-A307GT|
 |Samsung|Galaxy A31|a31|SM-A315F|
 |Samsung|Galaxy A31|a31|SM-A315G|
+|Samsung|Galaxy A31|a31|SM-A315N|
 |Samsung|Galaxy A40|a40|SM-A405FM|
 |Samsung|Galaxy A40|a40|SM-A405FN|
 |Samsung|Galaxy A40|a40|SM-A405S|
@@ -18744,6 +18750,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A70s|a70s|SM-A707F|
 |Samsung|Galaxy A71|a71|SM-A715F|
 |Samsung|Galaxy A71|a71|SM-A715W|
+|Samsung|Galaxy A71 5G|a71x|SM-A7160|
+|Samsung|Galaxy A71 5G|a71x|SM-A716B|
 |Samsung|Galaxy A8|SCV32|SCV32|
 |Samsung|Galaxy A8|a8elte|SM-A800F|
 |Samsung|Galaxy A8|a8elte|SM-A800YZ|
@@ -19840,6 +19848,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S10 5G|beyondxq|SM-G977T|
 |Samsung|Galaxy S10 5G|beyondxq|SM-G977U|
 |Samsung|Galaxy S10 Lite|r5q|SM-G770F|
+|Samsung|Galaxy S10 Lite|r5q|SM-G770U1|
 |Samsung|Galaxy S10+|SC-04L|SC-04L|
 |Samsung|Galaxy S10+|SCV42|SCV42|
 |Samsung|Galaxy S10+|beyond2|SM-G975F|
@@ -20719,6 +20728,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy XCover Field Pro|haechiy19|SM-G889F|
 |Samsung|Galaxy XCover FieldPro|haechiy19|SM-G889G|
 |Samsung|Galaxy XCover FieldPro|haechiy19lteatt|SM-G889A|
+|Samsung|Galaxy XCover Filed Pro|haechiy19|SM-G889YB|
 |Samsung|Galaxy XCover Pro|xcoverpro|SM-G715FN|
 |Samsung|Galaxy XCover Pro|xcoverpro|SM-G715U|
 |Samsung|Galaxy XCover Pro|xcoverpro|SM-G715U1|
@@ -22210,6 +22220,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stylo|STYLO_S61|STYLO_S61|STYLO SM61 MAGIC+|
 |Stylo|STYLO_S61|STYLO_S61|STYLO SV61 VECTOR+|
 |Stylo|Stylo S40|S40_Vida|Stylo S40|
+|Stylo|Stylo_Viva|Stylo_Viva|Stylo_Viva|
 |Stylo|TAB2|TAB2|TAB2|
 |Stylo|Ultra|Ultra|Ultra|
 |Stylo|V|V|V|
@@ -23132,6 +23143,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 3L|TokyoPro|5029D|
 |TCT (Alcatel)|Alcatel 3L|TokyoPro|5029D_EEA|
 |TCT (Alcatel)|Alcatel 3L|TokyoPro|5029D_RU|
+|TCT (Alcatel)|Alcatel 3L|TokyoPro|5029D_TR|
 |TCT (Alcatel)|Alcatel 3L|TokyoPro|5029Y|
 |TCT (Alcatel)|Alcatel 3L|TokyoPro|5029Y_EEA|
 |TCT (Alcatel)|Alcatel 3L|TokyoPro|5029Y_RU|
@@ -26915,6 +26927,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Quartz|platy|ZW10|
 |ZTE|R83|demeter|ZTE R83|
 |ZTE|RACER III mini|roamer2|RACER III mini|
+|ZTE|RED MAGIC 5G|NX659J|NX659J|
 |ZTE|Racer|mooncake|Carl|
 |ZTE|Racer|mooncake|MTC 916|
 |ZTE|Racer|mooncake|MTS-SP100|

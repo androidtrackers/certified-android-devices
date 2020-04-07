@@ -20665,7 +20665,7 @@
   },
   {
    "device": "Q10A",
-   "name": "Q10_WLAN",
+   "name": "Memor 20",
    "model": "Memor 20"
   }
  ],
@@ -25288,6 +25288,11 @@
    "device": "U70C",
    "name": "U70C",
    "model": "U70C"
+  },
+  {
+   "device": "X7",
+   "name": "X7",
+   "model": "X7"
   },
   {
    "device": "X7A",
@@ -67742,6 +67747,11 @@
    "model": "Lenovo K51c78"
   },
   {
+   "device": "VRS3",
+   "name": "VR-S3",
+   "model": "VR-S3"
+  },
+  {
    "device": "X2-AP",
    "name": "X2",
    "model": "Lenovo X2-AP"
@@ -80804,6 +80814,11 @@
    "model": "Nokia 1 Plus"
   },
   {
+   "device": "DRX",
+   "name": "Nokia 1.3",
+   "model": "Nokia 1.3"
+  },
+  {
    "device": "E1M",
    "name": "Nokia 2",
    "model": "Nokia 2"
@@ -82708,6 +82723,11 @@
    "device": "OP4C77L1",
    "name": "A52",
    "model": "CPH2061"
+  },
+  {
+   "device": "OP4AE7",
+   "name": "A52 中国版",
+   "model": "PDAM10"
   },
   {
    "device": "A53",
@@ -95242,6 +95262,11 @@
    "model": "archer"
   },
   {
+   "device": "a71x",
+   "name": "Galaxy A Quantum",
+   "model": "SM-A716S"
+  },
+  {
    "device": "a01q",
    "name": "Galaxy A01",
    "model": "SM-A015A"
@@ -95635,6 +95660,11 @@
    "device": "a31",
    "name": "Galaxy A31",
    "model": "SM-A315G"
+  },
+  {
+   "device": "a31",
+   "name": "Galaxy A31",
+   "model": "SM-A315N"
   },
   {
    "device": "a40",
@@ -96220,6 +96250,16 @@
    "device": "a71",
    "name": "Galaxy A71",
    "model": "SM-A715W"
+  },
+  {
+   "device": "a71x",
+   "name": "Galaxy A71 5G",
+   "model": "SM-A7160"
+  },
+  {
+   "device": "a71x",
+   "name": "Galaxy A71 5G",
+   "model": "SM-A716B"
   },
   {
    "device": "SCV32",
@@ -101702,6 +101742,11 @@
    "model": "SM-G770F"
   },
   {
+   "device": "r5q",
+   "name": "Galaxy S10 Lite",
+   "model": "SM-G770U1"
+  },
+  {
    "device": "SC-04L",
    "name": "Galaxy S10+",
    "model": "SC-04L"
@@ -106095,6 +106140,11 @@
    "device": "haechiy19lteatt",
    "name": "Galaxy XCover FieldPro",
    "model": "SM-G889A"
+  },
+  {
+   "device": "haechiy19",
+   "name": "Galaxy XCover Filed Pro",
+   "model": "SM-G889YB"
   },
   {
    "device": "xcoverpro",
@@ -113728,6 +113778,11 @@
    "model": "Stylo S40"
   },
   {
+   "device": "Stylo_Viva",
+   "name": "Stylo_Viva",
+   "model": "Stylo_Viva"
+  },
+  {
    "device": "TAB2",
    "name": "TAB2",
    "model": "TAB2"
@@ -118396,6 +118451,11 @@
    "device": "TokyoPro",
    "name": "Alcatel 3L",
    "model": "5029D_RU"
+  },
+  {
+   "device": "TokyoPro",
+   "name": "Alcatel 3L",
+   "model": "5029D_TR"
   },
   {
    "device": "TokyoPro",
@@ -137873,6 +137933,11 @@
    "device": "roamer2",
    "name": "RACER III mini",
    "model": "RACER III mini"
+  },
+  {
+   "device": "NX659J",
+   "name": "RED MAGIC 5G",
+   "model": "NX659J"
   },
   {
    "device": "mooncake",
