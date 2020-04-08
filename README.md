@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-04-07
+Last sync is 2020-04-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2002,6 +2002,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|Bmobile_AX752|Bmobile_AX752|AX752|
 |BMobile|Bmoblie AX683|Bmobile_AX683_MV04|AX683|
 |BMobile|FUN 4|Bmobile_FUN_4_2018|FUN 4 2018|
+|BMobile|Speed 5|Bmobile_SPEED5|Speed 5|
 |BMobile|X10|Bmobile_X10_MV03|X10|
 |BMobile|X11|Bmobile_X11|Bmobile X11|
 |BQru|5060|BQru-5060|BQru-5060|
@@ -6824,6 +6825,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|AP54|ts18_ap54_kliver|AP54|
 |Haier|APAC|hanyang|Haitech Android TV|
 |Haier|APAC|hanyang|haierATV|
+|Haier|APAC|nippori|CANDY Android TV 2K|
 |Haier|APAC|nippori|haierATVnippori|
 |Haier|"APAC|EU"|hanyang|
 |Haier|AT7003|AT7003|AT7003|
@@ -6900,6 +6902,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|LE48M7000CF|LE48M7000CF|LE48M7000CF|
 |Haier|LE49U5000A|LE49U5000A|LE49U5000A|
 |Haier|LE55M7000CF|LE55M7000CF|LE55M7000CF|
+|Haier|Latin America|hanyang|Haier 4K Android TV|
 |Haier|Logicom S9782|Logicom-S9782|Logicom-S9782|
 |Haier|M7808|M7808|M7808|
 |Haier|MD-01P|MD-01P|MD-01P|
@@ -6914,6 +6917,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|NEO8-1|NEO8-1|NEO8-1|
 |Haier|"North America|Mexico|Central America"|
 |Haier|P2|P2|P2|
+|Haier|PA|nippori|Haitech Android TV 2K|
 |Haier|PAD1021|PAD1021|PAD1021|
 |Haier|PAD1042|PAD1042|PAD1042|
 |Haier|PAD712|PAD712|PAD712|
@@ -9691,6 +9695,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 9|Infinix-X655|Infinix X655|
 |Infinix|Infinix HOT 9|Infinix-X655C|Infinix X655C|
 |Infinix|Infinix HOT 9|Infinix-X655D|Infinix X655D|
+|Infinix|Infinix HOT 9 Play|Infinix-X680|Infinix X680|
 |Infinix|Infinix HOT 9 Pro|Infinix-X655F|Infinix X655F|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604B|
@@ -10192,6 +10197,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|P32|itel-P32|itel P32|
 |Itel|P33|itel-W5504|itel W5504|
 |Itel|P33 Plus|itel-W6001|itel W6001|
+|Itel|P36|itel-W6501|itel W6501|
 |Itel|P51|P51|itel P51|
 |Itel|Prime 4|itel_Prime4|itel Prime 4|
 |Itel|S11|S11|itel S11|
@@ -10213,6 +10219,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|S42|itel-S42|itel S42|
 |Itel|SP591|itel-W6004|itel W6004|
 |Itel|Vision1|itel-L6005|itel L6005|
+|Itel|Vision1 Plus(P36 Pro LTE)|itel-L6501|itel L6501|
 |Itel|it1355|itel_it1355|itel it1355|
 |Itel|it1355M|itel_it1355M|itel it1355M|
 |Itel|it1407|itel_it1407|itel it1407|
@@ -15751,6 +15758,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Noblex|NBX-T7014|E270BSA|NBX-T7014|
 |Noblex|T7A6INC|T7A6INC|T7A6INC|
 |Noblex|T7A6N|Tablet|T7A6N|
+|Nokia|C2|NBL|Nebula|
+|Nokia|C2|NBL|Nokia C2|
 |Nokia|N1|Nokia_N1|N1|
 |Nokia|Nokia 1|FRT|Nokia 1|
 |Nokia|Nokia 1 Plus|ANT|Nokia 1 Plus|
@@ -17738,6 +17747,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Proscan|PLT9774G|PLT9774G|PLT9774G|
 |Proscan|PLT9999G|PLT9999G|PLT9999G|
 |Protab|PTBPT5QCB7|PTBPT5QCB7|PTBPT5QCB7|
+|QBell|EU|hanyang|QBELL Android TV|
+|QBell|EU|nippori|QBELL Android TV 2K|
 |QBell|QPHONE_10_1|QPHONE_10_1|QPHONE_10.1|
 |QBell|QPHONE_9_3|QPHONE_9_3|QPHONE_9_3|
 |QBell|QTAB10|QTAB10|QTAB10|
@@ -17763,6 +17774,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |QMobile|Evok Power Lite|Evok_Power_Lite|QMobile Evok Power Lite|
 |QMobile|Fire|Fire|Fire|
 |QMobile|GLi 2020|GLi_2020|GLi 2020|
+|QMobile|GLi Lite|GLi_Lite|GLi Lite|
+|QMobile|Grande|QSmart_Grande|Grande|
 |QMobile|HD Plus|QMobile_HD_Plus|HD Plus|
 |QMobile|J1|J1|QMobile J1|
 |QMobile|J2|J2|QMobile J2|
@@ -17854,6 +17867,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |QMobile|i6 Metal HD|i6_Metal_HD|i6 Metal HD|
 |QMobile|i6 Metal ONE|i6_Metal_ONE|QMobile i6 Metal ONE|
 |QMobile|i6 Metal One|i6_Metal_ONE_new|QMobile i6 Metal ONE|
+|QMobile|i7i 2020|i7i_2020|i7i 2020|
 |QMobile|i7i PRO|i7i_PRO|QMobile i7i PRO|
 |QMobile|i8i|i8i|QMobile i8i|
 |QMobile|i8i 2019|i8i_2019|QMobile i8i 2019|
@@ -17909,6 +17923,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Qsmart|i10 2019|i10_2019|i10 2019|
 |Qsmart|i10_2020|i10_2020|i10 2020|
 |Qsmart|i5i 2019|QSmart_i5i_2019|QSmart i5i 2019|
+|Qsmart|i6i_2020|QSmart_i6i_2020|i6i 2020|
 |Qtouch|Q01A|Q01A|Q01A|
 |Qtouch|Q05A|Q05A|Q05A|
 |Qtouch|QS31|QS31|QS31|
@@ -18249,6 +18264,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ruio|S5006|RUIO_S5006|S5006|
 |Rumie|RT-1708|RT-1708|RT-1708|
 |Runbo|F1Plus|F1Plus|F1Plus|
+|S Vision|Australia|hanyang|Svision Android TV|
+|S Vision|Australia|nippori|Svision Android TV 2K|
 |S&T Global|8788_7|8788_7|8788_7|
 |S-tell|M555i|M555i|M555i|
 |S-tell|M558|M558|M558|

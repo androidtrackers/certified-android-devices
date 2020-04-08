@@ -12636,6 +12636,11 @@
   {
    "brand": "Haier",
    "device": "nippori",
+   "model": "CANDY Android TV 2K"
+  },
+  {
+   "brand": "Haier",
+   "device": "nippori",
    "model": "haierATVnippori"
   },
   {
@@ -19129,6 +19134,11 @@
    "brand": "Azumi",
    "device": "Azumi_Speed_5B",
    "model": "Azumi Speed 5"
+  },
+  {
+   "brand": "BMobile",
+   "device": "Bmobile_SPEED5",
+   "model": "Speed 5"
   }
  ],
  "Speed 55": [
@@ -21552,6 +21562,16 @@
    "brand": "Kogan",
    "device": "shibuya",
    "model": "KoganTVAP"
+  },
+  {
+   "brand": "S Vision",
+   "device": "hanyang",
+   "model": "Svision Android TV"
+  },
+  {
+   "brand": "S Vision",
+   "device": "nippori",
+   "model": "Svision Android TV 2K"
   }
  ],
  "BAUHN": [
@@ -24012,6 +24032,16 @@
    "brand": "HOMTOM",
    "device": "C2",
    "model": "C2"
+  },
+  {
+   "brand": "Nokia",
+   "device": "NBL",
+   "model": "Nebula"
+  },
+  {
+   "brand": "Nokia",
+   "device": "NBL",
+   "model": "Nokia C2"
   }
  ],
  "C4": [
@@ -54720,6 +54750,13 @@
    "model": "LE55M7000CF"
   }
  ],
+ "Latin America": [
+  {
+   "brand": "Haier",
+   "device": "hanyang",
+   "model": "Haier 4K Android TV"
+  }
+ ],
  "Logicom S9782": [
   {
    "brand": "Haier",
@@ -54809,6 +54846,13 @@
    "brand": "Haier",
    "device": "Mexico",
    "model": "Central America\""
+  }
+ ],
+ "PA": [
+  {
+   "brand": "Haier",
+   "device": "nippori",
+   "model": "Haitech Android TV 2K"
   }
  ],
  "PAD1021": [
@@ -70077,6 +70121,13 @@
    "model": "Infinix X655D"
   }
  ],
+ "Infinix HOT 9 Play": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X680",
+   "model": "Infinix X680"
+  }
+ ],
  "Infinix HOT 9 Pro": [
   {
    "brand": "Infinix",
@@ -73340,6 +73391,13 @@
    "model": "itel W6001"
   }
  ],
+ "P36": [
+  {
+   "brand": "Itel",
+   "device": "itel-W6501",
+   "model": "itel W6501"
+  }
+ ],
  "P51": [
   {
    "brand": "Itel",
@@ -73452,6 +73510,13 @@
    "brand": "Itel",
    "device": "itel-L6005",
    "model": "itel L6005"
+  }
+ ],
+ "Vision1 Plus(P36 Pro LTE)": [
+  {
+   "brand": "Itel",
+   "device": "itel-L6501",
+   "model": "itel L6501"
   }
  ],
  "it1355": [
@@ -118576,6 +118641,23 @@
    "model": "PTBPT5QCB7"
   }
  ],
+ "EU": [
+  {
+   "brand": "QBell",
+   "device": "hanyang",
+   "model": "QBELL Android TV"
+  },
+  {
+   "brand": "QBell",
+   "device": "nippori",
+   "model": "QBELL Android TV 2K"
+  },
+  {
+   "brand": "Sharp",
+   "device": "sindang",
+   "model": "AQUOS_TVE19A"
+  }
+ ],
  "QPHONE_10_1": [
   {
    "brand": "QBell",
@@ -118686,6 +118768,20 @@
    "brand": "QMobile",
    "device": "GLi_2020",
    "model": "GLi 2020"
+  }
+ ],
+ "GLi Lite": [
+  {
+   "brand": "QMobile",
+   "device": "GLi_Lite",
+   "model": "GLi Lite"
+  }
+ ],
+ "Grande": [
+  {
+   "brand": "QMobile",
+   "device": "QSmart_Grande",
+   "model": "Grande"
   }
  ],
  "HD Plus": [
@@ -119272,6 +119368,13 @@
    "model": "QMobile i6 Metal ONE"
   }
  ],
+ "i7i 2020": [
+  {
+   "brand": "QMobile",
+   "device": "i7i_2020",
+   "model": "i7i 2020"
+  }
+ ],
  "i7i PRO": [
   {
    "brand": "QMobile",
@@ -119611,6 +119714,13 @@
    "brand": "Qsmart",
    "device": "i10_2020",
    "model": "i10 2020"
+  }
+ ],
+ "i6i_2020": [
+  {
+   "brand": "Qsmart",
+   "device": "QSmart_i6i_2020",
+   "model": "i6i 2020"
   }
  ],
  "Q01A": [
@@ -137738,13 +137848,6 @@
    "brand": "Sharp",
    "device": "Galapagos",
    "model": "EB-WX1GJ"
-  }
- ],
- "EU": [
-  {
-   "brand": "Sharp",
-   "device": "sindang",
-   "model": "AQUOS_TVE19A"
   }
  ],
  "FS8014": [

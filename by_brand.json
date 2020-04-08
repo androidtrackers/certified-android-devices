@@ -10264,6 +10264,11 @@
    "model": "FUN 4 2018"
   },
   {
+   "device": "Bmobile_SPEED5",
+   "name": "Speed 5",
+   "model": "Speed 5"
+  },
+  {
    "device": "Bmobile_X10_MV03",
    "name": "X10",
    "model": "X10"
@@ -35300,6 +35305,11 @@
   {
    "device": "nippori",
    "name": "APAC",
+   "model": "CANDY Android TV 2K"
+  },
+  {
+   "device": "nippori",
+   "name": "APAC",
    "model": "haierATVnippori"
   },
   {
@@ -35678,6 +35688,11 @@
    "model": "LE55M7000CF"
   },
   {
+   "device": "hanyang",
+   "name": "Latin America",
+   "model": "Haier 4K Android TV"
+  },
+  {
    "device": "Logicom-S9782",
    "name": "Logicom S9782",
    "model": "Logicom-S9782"
@@ -35746,6 +35761,11 @@
    "device": "P2",
    "name": "P2",
    "model": "P2"
+  },
+  {
+   "device": "nippori",
+   "name": "PA",
+   "model": "Haitech Android TV 2K"
   },
   {
    "device": "PAD1021",
@@ -49799,6 +49819,11 @@
    "model": "Infinix X655D"
   },
   {
+   "device": "Infinix-X680",
+   "name": "Infinix HOT 9 Play",
+   "model": "Infinix X680"
+  },
+  {
    "device": "Infinix-X655F",
    "name": "Infinix HOT 9 Pro",
    "model": "Infinix X655F"
@@ -52348,6 +52373,11 @@
    "model": "itel W6001"
   },
   {
+   "device": "itel-W6501",
+   "name": "P36",
+   "model": "itel W6501"
+  },
+  {
    "device": "P51",
    "name": "P51",
    "model": "itel P51"
@@ -52451,6 +52481,11 @@
    "device": "itel-L6005",
    "name": "Vision1",
    "model": "itel L6005"
+  },
+  {
+   "device": "itel-L6501",
+   "name": "Vision1 Plus(P36 Pro LTE)",
+   "model": "itel L6501"
   },
   {
    "device": "itel_it1355",
@@ -80799,6 +80834,16 @@
  ],
  "Nokia": [
   {
+   "device": "NBL",
+   "name": "C2",
+   "model": "Nebula"
+  },
+  {
+   "device": "NBL",
+   "name": "C2",
+   "model": "Nokia C2"
+  },
+  {
    "device": "Nokia_N1",
    "name": "N1",
    "model": "N1"
@@ -90996,6 +91041,16 @@
  ],
  "QBell": [
   {
+   "device": "hanyang",
+   "name": "EU",
+   "model": "QBELL Android TV"
+  },
+  {
+   "device": "nippori",
+   "name": "EU",
+   "model": "QBELL Android TV 2K"
+  },
+  {
    "device": "QPHONE_10_1",
    "name": "QPHONE_10_1",
    "model": "QPHONE_10.1"
@@ -91125,6 +91180,16 @@
    "device": "GLi_2020",
    "name": "GLi 2020",
    "model": "GLi 2020"
+  },
+  {
+   "device": "GLi_Lite",
+   "name": "GLi Lite",
+   "model": "GLi Lite"
+  },
+  {
+   "device": "QSmart_Grande",
+   "name": "Grande",
+   "model": "Grande"
   },
   {
    "device": "QMobile_HD_Plus",
@@ -91582,6 +91647,11 @@
    "model": "QMobile i6 Metal ONE"
   },
   {
+   "device": "i7i_2020",
+   "name": "i7i 2020",
+   "model": "i7i 2020"
+  },
+  {
    "device": "i7i_PRO",
    "name": "i7i PRO",
    "model": "QMobile i7i PRO"
@@ -91873,6 +91943,11 @@
    "device": "QSmart_i5i_2019",
    "name": "i5i 2019",
    "model": "QSmart i5i 2019"
+  },
+  {
+   "device": "QSmart_i6i_2020",
+   "name": "i6i_2020",
+   "model": "i6i 2020"
   }
  ],
  "Qtouch": [
@@ -93663,6 +93738,18 @@
    "device": "F1Plus",
    "name": "F1Plus",
    "model": "F1Plus"
+  }
+ ],
+ "S Vision": [
+  {
+   "device": "hanyang",
+   "name": "Australia",
+   "model": "Svision Android TV"
+  },
+  {
+   "device": "nippori",
+   "name": "Australia",
+   "model": "Svision Android TV 2K"
   }
  ],
  "S&T Global": [

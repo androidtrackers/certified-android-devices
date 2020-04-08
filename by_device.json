@@ -7225,9 +7225,24 @@
    "model": "haierATV"
   },
   {
+   "brand": "Haier",
+   "name": "Latin America",
+   "model": "Haier 4K Android TV"
+  },
+  {
    "brand": "Kogan",
    "name": "Australia",
    "model": "Kogan SmarterTV"
+  },
+  {
+   "brand": "QBell",
+   "name": "EU",
+   "model": "QBELL Android TV"
+  },
+  {
+   "brand": "S Vision",
+   "name": "Australia",
+   "model": "Svision Android TV"
   }
  ],
  "S1_Jazz": [
@@ -15181,6 +15196,13 @@
    "brand": "BMobile",
    "name": "FUN 4",
    "model": "FUN 4 2018"
+  }
+ ],
+ "Bmobile_SPEED5": [
+  {
+   "brand": "BMobile",
+   "name": "Speed 5",
+   "model": "Speed 5"
   }
  ],
  "Bmobile_X10_MV03": [
@@ -33778,12 +33800,32 @@
   {
    "brand": "Haier",
    "name": "APAC",
+   "model": "CANDY Android TV 2K"
+  },
+  {
+   "brand": "Haier",
+   "name": "APAC",
    "model": "haierATVnippori"
+  },
+  {
+   "brand": "Haier",
+   "name": "PA",
+   "model": "Haitech Android TV 2K"
   },
   {
    "brand": "Kogan",
    "name": "Australia",
    "model": "Kogan SmarterTV 2K"
+  },
+  {
+   "brand": "QBell",
+   "name": "EU",
+   "model": "QBELL Android TV 2K"
+  },
+  {
+   "brand": "S Vision",
+   "name": "Australia",
+   "model": "Svision Android TV 2K"
   }
  ],
  "EKO_OMEGA_LTE_Q60": [
@@ -65910,6 +65952,13 @@
    "model": "Infinix X655D"
   }
  ],
+ "Infinix-X680": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 9 Play",
+   "model": "Infinix X680"
+  }
+ ],
  "Infinix-X655F": [
   {
    "brand": "Infinix",
@@ -69219,6 +69268,13 @@
    "model": "itel W6001"
   }
  ],
+ "itel-W6501": [
+  {
+   "brand": "Itel",
+   "name": "P36",
+   "model": "itel W6501"
+  }
+ ],
  "P51": [
   {
    "brand": "Itel",
@@ -69363,6 +69419,13 @@
    "brand": "Itel",
    "name": "itel Vision1(P36 Play)",
    "model": "itel L6005"
+  }
+ ],
+ "itel-L6501": [
+  {
+   "brand": "Itel",
+   "name": "Vision1 Plus(P36 Pro LTE)",
+   "model": "itel L6501"
   }
  ],
  "itel_it1355": [
@@ -104950,6 +105013,18 @@
    "model": "T7A6N"
   }
  ],
+ "NBL": [
+  {
+   "brand": "Nokia",
+   "name": "C2",
+   "model": "Nebula"
+  },
+  {
+   "brand": "Nokia",
+   "name": "C2",
+   "model": "Nokia C2"
+  }
+ ],
  "Nokia_N1": [
   {
    "brand": "Nokia",
@@ -117956,6 +118031,20 @@
    "model": "GLi 2020"
   }
  ],
+ "GLi_Lite": [
+  {
+   "brand": "QMobile",
+   "name": "GLi Lite",
+   "model": "GLi Lite"
+  }
+ ],
+ "QSmart_Grande": [
+  {
+   "brand": "QMobile",
+   "name": "Grande",
+   "model": "Grande"
+  }
+ ],
  "QMobile_HD_Plus": [
   {
    "brand": "QMobile",
@@ -118540,6 +118629,13 @@
    "model": "QMobile i6 Metal ONE"
   }
  ],
+ "i7i_2020": [
+  {
+   "brand": "QMobile",
+   "name": "i7i 2020",
+   "model": "i7i 2020"
+  }
+ ],
  "i7i_PRO": [
   {
    "brand": "QMobile",
@@ -118880,6 +118976,13 @@
    "brand": "Qsmart",
    "name": "i5i 2019",
    "model": "QSmart i5i 2019"
+  }
+ ],
+ "QSmart_i6i_2020": [
+  {
+   "brand": "Qsmart",
+   "name": "i6i_2020",
+   "model": "i6i 2020"
   }
  ],
  "Q01A": [
