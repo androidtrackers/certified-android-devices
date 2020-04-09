@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-04-08
+Last sync is 2020-04-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2599,6 +2599,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|STUDIO G PLUS HD|Studio_G_Plus_HD|Studio G Plus HD|
 |Blu|STUDIO M HD|BLU_STUDIO_M_HD|STUDIO M HD|
 |Blu|STUDIO M LTE|BLU_STUDIO_M_LTE|STUDIO M LTE|
+|Blu|STUDIO M4 PLUS|S850U|Studio M4 Plus|
 |Blu|STUDIO MAX|Studio_Max|Studio Max|
 |Blu|STUDIO ONE PLUS|BLU_STUDIO_ONE_PLUS|BLU STUDIO ONE PLUS|
 |Blu|STUDIO SELFIE 2|BLU_STUDIO_SELFIE_2|BLU STUDIO SELFIE 2|
@@ -16126,6 +16127,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A51kc|A51kc|A51kc|
 |Oppo|A51w|A51|A51w|
 |Oppo|A52|OP4C77L1|CPH2061|
+|Oppo|A52|OP4C7BL1|CPH2069|
 |Oppo|A52 中国版|OP4AE7|PDAM10|
 |Oppo|A53|A53|OPPO A53|
 |Oppo|A53f|A53|A53f|
@@ -23190,6 +23192,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 3X|Venice|5048Y|
 |TCT (Alcatel)|Alcatel 3X|Venice|5048Y_EEA|
 |TCT (Alcatel)|Alcatel 3X|Venice|5048Y_RU|
+|TCT (Alcatel)|Alcatel 3X Plus|TokyoPro|5029A|
 |TCT (Alcatel)|Alcatel 5|A5A_INFINI|5086A|
 |TCT (Alcatel)|Alcatel 5|A5A_INFINI|5086Y|
 |TCT (Alcatel)|Alcatel 5V|A5X|5060A|
@@ -23829,6 +23832,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|CAMON 12|TECNO-CC7S|TECNO CC7S|
 |Tecno|CAMON 12 Air|TECNO-CC6|TECNO CC6|
 |Tecno|CAMON 15 Air|TECNO-CD6|TECNO CD6|
+|Tecno|CAMON 15 Premier|TECNO-CD8j|TECNO CD8j|
+|Tecno|CAMON 15 Pro|TECNO-CD8|TECNO CD8|
 |Tecno|CAMON C7|TECNO-C7|TECNO-C7|
 |Tecno|CAMON CM|TECNO-CA6|TECNO CA6|
 |Tecno|CAMON I Ace|TECNO-IN1|TECNO IN1|

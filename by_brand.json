@@ -13333,6 +13333,11 @@
    "model": "STUDIO M LTE"
   },
   {
+   "device": "S850U",
+   "name": "STUDIO M4 PLUS",
+   "model": "Studio M4 Plus"
+  },
+  {
    "device": "Studio_Max",
    "name": "STUDIO MAX",
    "model": "Studio Max"
@@ -82770,6 +82775,11 @@
    "model": "CPH2061"
   },
   {
+   "device": "OP4C7BL1",
+   "name": "A52",
+   "model": "CPH2069"
+  },
+  {
    "device": "OP4AE7",
    "name": "A52 中国版",
    "model": "PDAM10"
@@ -118690,6 +118700,11 @@
    "model": "5048Y_RU"
   },
   {
+   "device": "TokyoPro",
+   "name": "Alcatel 3X Plus",
+   "model": "5029A"
+  },
+  {
    "device": "A5A_INFINI",
    "name": "Alcatel 5",
    "model": "5086A"
@@ -121971,6 +121986,16 @@
    "device": "TECNO-CD6",
    "name": "CAMON 15 Air",
    "model": "TECNO CD6"
+  },
+  {
+   "device": "TECNO-CD8j",
+   "name": "CAMON 15 Premier",
+   "model": "TECNO CD8j"
+  },
+  {
+   "device": "TECNO-CD8",
+   "name": "CAMON 15 Pro",
+   "model": "TECNO CD8"
   },
   {
    "device": "TECNO-C7",

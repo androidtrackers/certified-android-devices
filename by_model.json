@@ -19136,6 +19136,13 @@
    "device": "BLU_STUDIO_M_LTE"
   }
  ],
+ "Studio M4 Plus": [
+  {
+   "brand": "Blu",
+   "name": "STUDIO M4 PLUS",
+   "device": "S850U"
+  }
+ ],
  "Studio Max": [
   {
    "brand": "Blu",
@@ -110786,6 +110793,13 @@
    "device": "OP4C77L1"
   }
  ],
+ "CPH2069": [
+  {
+   "brand": "Oppo",
+   "name": "A52",
+   "device": "OP4C7BL1"
+  }
+ ],
  "PDAM10": [
   {
    "brand": "Oppo",
@@ -158345,6 +158359,13 @@
    "device": "Venice"
   }
  ],
+ "5029A": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3X Plus",
+   "device": "TokyoPro"
+  }
+ ],
  "5086A": [
   {
    "brand": "TCT (Alcatel)",
@@ -162528,6 +162549,20 @@
    "brand": "Tecno",
    "name": "CAMON 15 Air",
    "device": "TECNO-CD6"
+  }
+ ],
+ "TECNO CD8j": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 15 Premier",
+   "device": "TECNO-CD8j"
+  }
+ ],
+ "TECNO CD8": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 15 Pro",
+   "device": "TECNO-CD8"
   }
  ],
  "TECNO CA6": [

@@ -19509,6 +19509,13 @@
    "model": "STUDIO M LTE"
   }
  ],
+ "S850U": [
+  {
+   "brand": "Blu",
+   "name": "STUDIO M4 PLUS",
+   "model": "Studio M4 Plus"
+  }
+ ],
  "Studio_Max": [
   {
    "brand": "Blu",
@@ -107328,6 +107335,13 @@
    "model": "CPH2061"
   }
  ],
+ "OP4C7BL1": [
+  {
+   "brand": "Oppo",
+   "name": "A52",
+   "model": "CPH2069"
+  }
+ ],
  "OP4AE7": [
   {
    "brand": "Oppo",
@@ -148907,6 +148921,11 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 3L",
    "model": "HEYOU60"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3X Plus",
+   "model": "5029A"
   }
  ],
  "UnionTV": [
@@ -155708,6 +155727,20 @@
    "brand": "Tecno",
    "name": "CAMON 15 Air",
    "model": "TECNO CD6"
+  }
+ ],
+ "TECNO-CD8j": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 15 Premier",
+   "model": "TECNO CD8j"
+  }
+ ],
+ "TECNO-CD8": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 15 Pro",
+   "model": "TECNO CD8"
   }
  ],
  "TECNO-CA6": [
