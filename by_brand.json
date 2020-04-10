@@ -94230,6 +94230,11 @@
    "model": "GRAVITY_OCTACORE"
   },
   {
+   "device": "Gravity_Max",
+   "name": "Gravity_Max_EEA",
+   "model": "Gravity Max"
+  },
+  {
    "device": "L100",
    "name": "L100",
    "model": "L100"

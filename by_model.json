@@ -125482,6 +125482,18 @@
    "device": "GRAVITY_OCTACORE"
   }
  ],
+ "Gravity Max": [
+  {
+   "brand": "SPC Mobile",
+   "name": "Gravity_Max_EEA",
+   "device": "Gravity_Max"
+  },
+  {
+   "brand": "SPC Universe",
+   "name": "Gravity_Max",
+   "device": "Gravity_Max"
+  }
+ ],
  "L100": [
   {
    "brand": "SPC Mobile",
@@ -125709,13 +125721,6 @@
    "brand": "SPC Universe",
    "name": "Gravity_2019",
    "device": "GRAVITY_2019"
-  }
- ],
- "Gravity Max": [
-  {
-   "brand": "SPC Universe",
-   "name": "Gravity_Max",
-   "device": "Gravity_Max"
   }
  ],
  "LAIKA": [

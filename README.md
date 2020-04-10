@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-04-09
+Last sync is 2020-04-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -18350,6 +18350,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SOSMART|T5|SOSMART_T5|SOSMART_T5|
 |SPC Mobile|GRAVITY_3G_2019_eea|GRAVITY_3G|GRAVITY 3G_2019|
 |SPC Mobile|GRAVITY_OCTACORE|GRAVITY_OCTACORE|GRAVITY_OCTACORE|
+|SPC Mobile|Gravity_Max_EEA|Gravity_Max|Gravity Max|
 |SPC Mobile|L100|L100|L100|
 |SPC Mobile|L50|SPC_L50|L50|
 |SPC Mobile|L50E|L50E|SPC L50E|
