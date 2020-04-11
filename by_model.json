@@ -103771,13 +103771,6 @@
    "device": "doha_n"
   }
  ],
- "motorola one vision plus": [
-  {
-   "brand": "Motorola",
-   "name": "moto g(8) plus",
-   "device": "doha_n"
-  }
- ],
  "moto g(8) power": [
   {
    "brand": "Motorola",
@@ -103875,6 +103868,13 @@
    "brand": "Motorola",
    "name": "motorola one vision",
    "device": "kane_sprout"
+  }
+ ],
+ "motorola one vision plus": [
+  {
+   "brand": "Motorola",
+   "name": "motorola one vision plus",
+   "device": "doha_n"
   }
  ],
  "motorola one zoom": [

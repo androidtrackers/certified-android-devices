@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-04-10
+Last sync is 2020-04-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -15046,7 +15046,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g(8) plus|doha|moto g(7)|
 |Motorola|moto g(8) plus|doha|moto g(8) plus|
 |Motorola|moto g(8) plus|doha_n|moto g(8) plus|
-|Motorola|moto g(8) plus|doha_n|motorola one vision plus|
 |Motorola|moto g(8) power|sofiar|moto g(7)|
 |Motorola|moto g(8) power|sofiar|moto g(8) power|
 |Motorola|moto g(8) power lite|blackjack|moto g(8) power lite|
@@ -15066,6 +15065,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola one power|chef_sprout|moto x4|
 |Motorola|motorola one power|chef_sprout|motorola one power|
 |Motorola|motorola one vision|kane_sprout|motorola one vision|
+|Motorola|motorola one vision plus|doha_n|motorola one vision plus|
 |Motorola|motorola one zoom|parker|moto z4|
 |Motorola|motorola one zoom|parker|motorola one zoom|
 |Motorola|motorola p50|kane|XT1970-5|

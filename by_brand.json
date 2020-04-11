@@ -77128,11 +77128,6 @@
    "model": "moto g(8) plus"
   },
   {
-   "device": "doha_n",
-   "name": "moto g(8) plus",
-   "model": "motorola one vision plus"
-  },
-  {
    "device": "sofiar",
    "name": "moto g(8) power",
    "model": "moto g(7)"
@@ -77226,6 +77221,11 @@
    "device": "kane_sprout",
    "name": "motorola one vision",
    "model": "motorola one vision"
+  },
+  {
+   "device": "doha_n",
+   "name": "motorola one vision plus",
+   "model": "motorola one vision plus"
   },
   {
    "device": "parker",
