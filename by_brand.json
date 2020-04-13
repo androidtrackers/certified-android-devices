@@ -95799,6 +95799,11 @@
    "model": "SM-A3058"
   },
   {
+   "device": "a41",
+   "name": "Galaxy A41",
+   "model": "SM-A415F"
+  },
+  {
    "device": "a53g",
    "name": "Galaxy A5",
    "model": "SM-A500H"
@@ -105282,6 +105287,11 @@
    "device": "gta4xl",
    "name": "Galaxy Tab S6 Lite",
    "model": "SM-P615"
+  },
+  {
+   "device": "gta4xl",
+   "name": "Galaxy Tab S6 Lite",
+   "model": "SM-P615N"
   },
   {
    "device": "gta4xl",
@@ -133500,6 +133510,11 @@
    "device": "EPIC_T",
    "name": "EPIC_T",
    "model": "EPIC T"
+  },
+  {
+   "device": "LIV1",
+   "name": "LIV1",
+   "model": "LIV1"
   },
   {
    "device": "MAX1",

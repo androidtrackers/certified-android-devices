@@ -127605,6 +127605,13 @@
    "device": "a30c"
   }
  ],
+ "SM-A415F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A41",
+   "device": "a41"
+  }
+ ],
  "SM-A500H": [
   {
    "brand": "Samsung",
@@ -140698,6 +140705,13 @@
   }
  ],
  "SM-P615": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S6 Lite",
+   "device": "gta4xl"
+  }
+ ],
+ "SM-P615N": [
   {
    "brand": "Samsung",
    "name": "Galaxy Tab S6 Lite",
@@ -176578,6 +176592,13 @@
    "brand": "Yezz",
    "name": "EPIC_T",
    "device": "EPIC_T"
+  }
+ ],
+ "LIV1": [
+  {
+   "brand": "Yezz",
+   "name": "LIV1",
+   "device": "LIV1"
   }
  ],
  "WS107": [

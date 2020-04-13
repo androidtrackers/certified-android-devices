@@ -124064,6 +124064,13 @@
    "model": "SM-A3058"
   }
  ],
+ "Galaxy A41": [
+  {
+   "brand": "Samsung",
+   "device": "a41",
+   "model": "SM-A415F"
+  }
+ ],
  "Galaxy A5": [
   {
    "brand": "Samsung",
@@ -134332,6 +134339,11 @@
    "brand": "Samsung",
    "device": "gta4xl",
    "model": "SM-P615"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gta4xl",
+   "model": "SM-P615N"
   },
   {
    "brand": "Samsung",
@@ -166894,6 +166906,13 @@
    "brand": "Yezz",
    "device": "EPIC_T",
    "model": "EPIC T"
+  }
+ ],
+ "LIV1": [
+  {
+   "brand": "Yezz",
+   "device": "LIV1",
+   "model": "LIV1"
   }
  ],
  "WS107_eea": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-04-12
+Last sync is 2020-04-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -18659,6 +18659,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A40s|a30c|SM-A3050|
 |Samsung|Galaxy A40s|a30c|SM-A3051|
 |Samsung|Galaxy A40s|a30c|SM-A3058|
+|Samsung|Galaxy A41|a41|SM-A415F|
 |Samsung|Galaxy A5|a53g|SM-A500H|
 |Samsung|Galaxy A5|a5lte|SM-A500F|
 |Samsung|Galaxy A5|a5lte|SM-A500G|
@@ -20556,6 +20557,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S6|gts6lwifi|SM-T860|
 |Samsung|Galaxy Tab S6 5G|gts6x|SM-T866N|
 |Samsung|Galaxy Tab S6 Lite|gta4xl|SM-P615|
+|Samsung|Galaxy Tab S6 Lite|gta4xl|SM-P615N|
 |Samsung|Galaxy Tab S6 Lite|gta4xl|SM-P617|
 |Samsung|Galaxy Tab S6 Lite|gta4xlwifi|SM-P610|
 |Samsung|Galaxy Tab S6 Lite|gta4xlwifi|SM-P610X|
@@ -26044,6 +26046,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Yezz|5EQ|5EQ|5EQ|
 |Yezz|E400A|E400A|E400A|
 |Yezz|EPIC_T|EPIC_T|EPIC T|
+|Yezz|LIV1|LIV1|LIV1|
 |Yezz|MAX1|MAX1|MAX1|
 |Yokis|WS107_eea|WS107|WS107|
 |Yota Devices|C9660|yotaphone|C9660|
