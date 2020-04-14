@@ -6479,6 +6479,13 @@
    "model": "PD470"
   }
  ],
+ "Andrino": [
+  {
+   "brand": "ANDRINO",
+   "device": "bangbae",
+   "model": "andrino 4K Android TV"
+  }
+ ],
  "A1 Neo": [
   {
    "brand": "ANEE",
@@ -10436,6 +10443,13 @@
    "brand": "AllView",
    "device": "A9_Lite",
    "model": "A9_Lite"
+  }
+ ],
+ "ALLVIEW": [
+  {
+   "brand": "AllView",
+   "device": "bangbae",
+   "model": "ALLVIEW 4K Android TV"
   }
  ],
  "AX4 Nano Plus": [
@@ -22962,6 +22976,13 @@
    "brand": "Blackshark",
    "device": "darklighter",
    "model": "DLT-H0"
+  }
+ ],
+ "KLE-H0": [
+  {
+   "brand": "Blackshark",
+   "device": "klein",
+   "model": "SHARK KLE-H0"
   }
  ],
  "Shark": [
@@ -37655,6 +37676,11 @@
  "S80": [
   {
    "brand": "Doogee",
+   "device": "S80",
+   "model": "S80"
+  },
+  {
+   "brand": "Premio",
    "device": "S80",
    "model": "S80"
   }
@@ -74144,6 +74170,16 @@
    "brand": "JVC",
    "device": "bangbae",
    "model": "EU 4K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "device": "bangbae",
+   "model": "Engel 4K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "device": "bangbae",
+   "model": "JVC 4K Android TV"
   }
  ],
  "JVC J20": [
@@ -75221,6 +75257,13 @@
    "brand": "KONKA",
    "device": "KM7012BK",
    "model": "KM7012BK"
+  }
+ ],
+ "KONKA": [
+  {
+   "brand": "KONKA",
+   "device": "seocho",
+   "model": "KONKA 4K Android TV"
   }
  ],
  "RE1": [
@@ -101607,6 +101650,13 @@
    "model": "moto z4"
   }
  ],
+ "motorola edge plus": [
+  {
+   "brand": "Motorola",
+   "device": "burton",
+   "model": "motorola edge plus"
+  }
+ ],
  "motorola one": [
   {
    "brand": "Motorola",
@@ -107213,6 +107263,13 @@
    "brand": "OK (Mediamark)",
    "device": "osaki",
    "model": "2K AI Smart TV"
+  }
+ ],
+ "OK": [
+  {
+   "brand": "OK (Mediamark)",
+   "device": "bangbae",
+   "model": "OK 4K Android TV"
   }
  ],
  "PI Plus": [
@@ -113665,6 +113722,13 @@
    "model": "QM161E"
   }
  ],
+ "4K UHD LED Android TV with Ambilight 3-sided and Google Assistant": [
+  {
+   "brand": "Philips",
+   "device": "PH9M_EA_5599",
+   "model": "TPM191L"
+  }
+ ],
  "4K UHD Razor Slim LED TV powered by Android™": [
   {
    "brand": "Philips",
@@ -116557,6 +116621,13 @@
    "brand": "Premio",
    "device": "Premio_S72",
    "model": "S72"
+  }
+ ],
+ "S73": [
+  {
+   "brand": "Premio",
+   "device": "S73",
+   "model": "S73"
   }
  ],
  "S75": [
@@ -145888,6 +145959,13 @@
    "model": "5148A"
   }
  ],
+ "TCL T9+": [
+  {
+   "brand": "TCL",
+   "device": "TokyoPro",
+   "model": "5129A"
+  }
+ ],
  "TCL T9x": [
   {
    "brand": "TCL",
@@ -160514,6 +160592,13 @@
    "brand": "Vivo",
    "device": "PD1955",
    "model": "V1955A"
+  }
+ ],
+ "V1962A": [
+  {
+   "brand": "Vivo",
+   "device": "PD1962",
+   "model": "V1962A"
   }
  ],
  "V1963A": [

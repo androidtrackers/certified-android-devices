@@ -715,6 +715,13 @@
    "device": "PD470"
   }
  ],
+ "andrino 4K Android TV": [
+  {
+   "brand": "ANDRINO",
+   "name": "Andrino",
+   "device": "bangbae"
+  }
+ ],
  "A1_Neo": [
   {
    "brand": "ANEE",
@@ -4751,6 +4758,13 @@
    "brand": "AllView",
    "name": "A9 Lite",
    "device": "A9_Lite"
+  }
+ ],
+ "ALLVIEW 4K Android TV": [
+  {
+   "brand": "AllView",
+   "name": "ALLVIEW",
+   "device": "bangbae"
   }
  ],
  "AX4Nano_plus": [
@@ -17274,6 +17288,13 @@
    "brand": "Blackshark",
    "name": "Black Shark 2 Pro",
    "device": "darklighter"
+  }
+ ],
+ "SHARK KLE-H0": [
+  {
+   "brand": "Blackshark",
+   "name": "KLE-H0",
+   "device": "klein"
   }
  ],
  "SKR-H0": [
@@ -31661,6 +31682,11 @@
  "S80": [
   {
    "brand": "Doogee",
+   "name": "S80",
+   "device": "S80"
+  },
+  {
+   "brand": "Premio",
    "name": "S80",
    "device": "S80"
   }
@@ -72259,6 +72285,20 @@
    "device": "bangbae"
   }
  ],
+ "Engel 4K Android TV": [
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "device": "bangbae"
+  }
+ ],
+ "JVC 4K Android TV": [
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "device": "bangbae"
+  }
+ ],
  "J20": [
   {
    "brand": "JVC",
@@ -73350,6 +73390,13 @@
    "brand": "KONKA",
    "name": "KM7012BK",
    "device": "KM7012BK"
+  }
+ ],
+ "KONKA 4K Android TV": [
+  {
+   "brand": "KONKA",
+   "name": "KONKA",
+   "device": "seocho"
   }
  ],
  "RE1": [
@@ -103830,6 +103877,13 @@
    "device": "parker"
   }
  ],
+ "motorola edge plus": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge plus",
+   "device": "burton"
+  }
+ ],
  "motorola one action": [
   {
    "brand": "Motorola",
@@ -109649,6 +109703,13 @@
    "brand": "ODYS",
    "name": "FALCON_10_PLUS_3G",
    "device": "FALCON_10_PLUS_3G"
+  }
+ ],
+ "OK 4K Android TV": [
+  {
+   "brand": "OK (Mediamark)",
+   "name": "OK",
+   "device": "bangbae"
   }
  ],
  "PI Plus": [
@@ -116474,6 +116535,13 @@
    "device": "QM16XE_UB"
   }
  ],
+ "TPM191L": [
+  {
+   "brand": "Philips",
+   "name": "4K UHD LED Android TV with Ambilight 3-sided and Google Assistant",
+   "device": "PH9M_EA_5599"
+  }
+ ],
  "QV151E": [
   {
    "brand": "Philips",
@@ -119398,6 +119466,13 @@
    "brand": "Premio",
    "name": "S72",
    "device": "Premio_S72"
+  }
+ ],
+ "S73": [
+  {
+   "brand": "Premio",
+   "name": "S73",
+   "device": "S73"
   }
  ],
  "PREMIO S75": [
@@ -153196,6 +153271,13 @@
    "device": "Venice"
   }
  ],
+ "5129A": [
+  {
+   "brand": "TCL",
+   "name": "TCL T9+",
+   "device": "TokyoPro"
+  }
+ ],
  "5129Y": [
   {
    "brand": "TCL",
@@ -170085,6 +170167,13 @@
    "brand": "Vivo",
    "name": "V1955A",
    "device": "PD1955"
+  }
+ ],
+ "V1962A": [
+  {
+   "brand": "Vivo",
+   "name": "V1962A",
+   "device": "PD1962"
   }
  ],
  "V1963A": [

@@ -639,6 +639,63 @@
    "model": "PD470"
   }
  ],
+ "bangbae": [
+  {
+   "brand": "ANDRINO",
+   "name": "Andrino",
+   "model": "andrino 4K Android TV"
+  },
+  {
+   "brand": "AllView",
+   "name": "ALLVIEW",
+   "model": "ALLVIEW 4K Android TV"
+  },
+  {
+   "brand": "Bauhn",
+   "name": "BAUHN",
+   "model": "BAUHN 4K Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "Blaupunkt",
+   "model": "BLAUPUNKT 4K Android TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Hyundai",
+   "model": "Hyundai 4K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "EU 4K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "Engel 4K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "JVC 4K Android TV"
+  },
+  {
+   "brand": "OK (Mediamark)",
+   "name": "OK",
+   "model": "OK 4K Android TV"
+  },
+  {
+   "brand": "Polaroid",
+   "name": "Polaroid",
+   "model": "Polaroid 4K Android TV"
+  },
+  {
+   "brand": "SCHNEIDER",
+   "name": "SCHNEIDER",
+   "model": "SCHNEIDER 4K Android TV"
+  }
+ ],
  "A1_Neo": [
   {
    "brand": "ANEE",
@@ -16393,38 +16450,6 @@
    "model": "M7042F"
   }
  ],
- "bangbae": [
-  {
-   "brand": "Bauhn",
-   "name": "BAUHN",
-   "model": "BAUHN 4K Android TV"
-  },
-  {
-   "brand": "Blaupunkt",
-   "name": "Blaupunkt",
-   "model": "BLAUPUNKT 4K Android TV"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "Hyundai",
-   "model": "Hyundai 4K Android TV"
-  },
-  {
-   "brand": "JVC",
-   "name": "JVC",
-   "model": "EU 4K Android TV"
-  },
-  {
-   "brand": "Polaroid",
-   "name": "Polaroid",
-   "model": "Polaroid 4K Android TV"
-  },
-  {
-   "brand": "SCHNEIDER",
-   "name": "SCHNEIDER",
-   "model": "SCHNEIDER 4K Android TV"
-  }
- ],
  "granite": [
   {
    "brand": "Becrypt",
@@ -17679,6 +17704,13 @@
    "brand": "Blackshark",
    "name": "黑鲨游戏手机 2 Pro",
    "model": "DLT-A0"
+  }
+ ],
+ "klein": [
+  {
+   "brand": "Blackshark",
+   "name": "KLE-H0",
+   "model": "SHARK KLE-H0"
   }
  ],
  "shark": [
@@ -32443,6 +32475,11 @@
  "S80": [
   {
    "brand": "Doogee",
+   "name": "S80",
+   "model": "S80"
+  },
+  {
+   "brand": "Premio",
    "name": "S80",
    "model": "S80"
   }
@@ -71124,6 +71161,13 @@
    "model": "KM7012BK"
   }
  ],
+ "seocho": [
+  {
+   "brand": "KONKA",
+   "name": "KONKA",
+   "model": "KONKA 4K Android TV"
+  }
+ ],
  "RE1": [
   {
    "brand": "KONKA",
@@ -100426,6 +100470,13 @@
    "model": "moto z4"
   }
  ],
+ "burton": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge plus",
+   "model": "motorola edge plus"
+  }
+ ],
  "troika": [
   {
    "brand": "Motorola",
@@ -113120,6 +113171,13 @@
    "model": "QM161E"
   }
  ],
+ "PH9M_EA_5599": [
+  {
+   "brand": "Philips",
+   "name": "4K UHD LED Android TV with Ambilight 3-sided and Google Assistant",
+   "model": "TPM191L"
+  }
+ ],
  "QV151E": [
   {
    "brand": "Philips",
@@ -115988,6 +116046,13 @@
    "brand": "Premio",
    "name": "S72",
    "model": "S72"
+  }
+ ],
+ "S73": [
+  {
+   "brand": "Premio",
+   "name": "S73",
+   "model": "S73"
   }
  ],
  "S75": [
@@ -148886,6 +148951,11 @@
  "TokyoPro": [
   {
    "brand": "TCL",
+   "name": "TCL T9+",
+   "model": "5129A"
+  },
+  {
+   "brand": "TCL",
    "name": "TCL T9x",
    "model": "5129Y"
   },
@@ -162983,6 +163053,13 @@
    "brand": "Vivo",
    "name": "V1955A",
    "model": "V1955A"
+  }
+ ],
+ "PD1962": [
+  {
+   "brand": "Vivo",
+   "name": "V1962A",
+   "model": "V1962A"
   }
  ],
  "PD1963": [

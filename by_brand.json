@@ -432,6 +432,13 @@
    "model": "PD470"
   }
  ],
+ "ANDRINO": [
+  {
+   "device": "bangbae",
+   "name": "Andrino",
+   "model": "andrino 4K Android TV"
+  }
+ ],
  "ANEE": [
   {
    "device": "A1_Neo",
@@ -3018,6 +3025,11 @@
    "device": "A9_Lite",
    "name": "A9 Lite",
    "model": "A9_Lite"
+  },
+  {
+   "device": "bangbae",
+   "name": "ALLVIEW",
+   "model": "ALLVIEW 4K Android TV"
   },
   {
    "device": "AX4Nano_plus",
@@ -12058,6 +12070,11 @@
    "device": "darklighter",
    "name": "Black Shark 2 Pro",
    "model": "DLT-H0"
+  },
+  {
+   "device": "klein",
+   "name": "KLE-H0",
+   "model": "SHARK KLE-H0"
   },
   {
    "device": "shark",
@@ -52990,6 +53007,16 @@
    "model": "EU 4K Android TV"
   },
   {
+   "device": "bangbae",
+   "name": "JVC",
+   "model": "Engel 4K Android TV"
+  },
+  {
+   "device": "bangbae",
+   "name": "JVC",
+   "model": "JVC 4K Android TV"
+  },
+  {
    "device": "Cunda",
    "name": "JVC J20",
    "model": "J20"
@@ -53841,6 +53868,11 @@
    "device": "KM7012BK",
    "name": "KM7012BK",
    "model": "KM7012BK"
+  },
+  {
+   "device": "seocho",
+   "name": "KONKA",
+   "model": "KONKA 4K Android TV"
   },
   {
    "device": "RE1",
@@ -77183,6 +77215,11 @@
    "model": "moto z4"
   },
   {
+   "device": "burton",
+   "name": "motorola edge plus",
+   "model": "motorola edge plus"
+  },
+  {
    "device": "deen_sprout",
    "name": "motorola one",
    "model": "motorola one"
@@ -81794,6 +81831,11 @@
    "device": "osaki",
    "name": "ODL 32760HN-TAB",
    "model": "2K AI Smart TV"
+  },
+  {
+   "device": "bangbae",
+   "name": "OK",
+   "model": "OK 4K Android TV"
   }
  ],
  "OKWU": [
@@ -87199,6 +87241,11 @@
    "model": "QM161E"
   },
   {
+   "device": "PH9M_EA_5599",
+   "name": "4K UHD LED Android TV with Ambilight 3-sided and Google Assistant",
+   "model": "TPM191L"
+  },
+  {
    "device": "QV151E",
    "name": "4K UHD Razor Slim LED TV powered by Android™",
    "model": "QV151E"
@@ -89495,9 +89542,19 @@
    "model": "S72"
   },
   {
+   "device": "S73",
+   "name": "S73",
+   "model": "S73"
+  },
+  {
    "device": "S75",
    "name": "S75",
    "model": "PREMIO S75"
+  },
+  {
+   "device": "S80",
+   "name": "S80",
+   "model": "S80"
   },
   {
    "device": "186HS2080531",
@@ -115049,6 +115106,11 @@
   },
   {
    "device": "TokyoPro",
+   "name": "TCL T9+",
+   "model": "5129A"
+  },
+  {
+   "device": "TokyoPro",
    "name": "TCL T9x",
    "model": "5129Y"
   },
@@ -128114,6 +128176,11 @@
    "device": "PD1955",
    "name": "V1955A",
    "model": "V1955A"
+  },
+  {
+   "device": "PD1962",
+   "name": "V1962A",
+   "model": "V1962A"
   },
   {
    "device": "PD1963",

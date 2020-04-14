@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-04-13
+Last sync is 2020-04-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -84,6 +84,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AMTC|MD7008|MD7008A|MD7008|
 |AMTC|MD7081|MD7081A|MD7081|
 |AMobile|PD470|PD470|PD470|
+|ANDRINO|Andrino|bangbae|andrino 4K Android TV|
 |ANEE|A1 Neo|A1_Neo|A1_Neo|
 |ANS|L50|L50|L50|
 |ANS|L51|L51|L51|
@@ -580,6 +581,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|A8 Lite TM|A8_Lite|A8_Lite_TM|
 |AllView|A9  Plus|A9_Plus|A9_Plus|
 |AllView|A9 Lite|A9_Lite|A9_Lite|
+|AllView|ALLVIEW|bangbae|ALLVIEW 4K Android TV|
 |AllView|AX4 Nano Plus|AX4Nano_plus|AX4Nano_plus|
 |AllView|AX501Q|AX501Q|AX501Q|
 |AllView|AX502|AX502|AX502|
@@ -2346,6 +2348,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackshark|Black Shark 2|skywalker|SKW-A0|
 |Blackshark|Black Shark 2|skywalker|SKW-H0|
 |Blackshark|Black Shark 2 Pro|darklighter|DLT-H0|
+|Blackshark|KLE-H0|klein|SHARK KLE-H0|
 |Blackshark|Shark|shark|SKR-H0|
 |Blackshark|Shark 1S|bullhead|AWM-A0|
 |Blackshark|黑鲨游戏手机 2 Pro|darklighter|DLT-A0|
@@ -10318,6 +10321,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|Central America|samseong|AI PONT|
 |JVC|DM65UXR\DM65USR\DM85UXR|mstarnapoli_atsc|DM65UXR|
 |JVC|JVC|bangbae|EU 4K Android TV|
+|JVC|JVC|bangbae|Engel 4K Android TV|
+|JVC|JVC|bangbae|JVC 4K Android TV|
 |JVC|JVC J20|Cunda|J20|
 |JVC|LT-32K397|osaki|2K AI Smart TV|
 |JVL (Australia)|JVL070TAB812BLK|JVL070TAB812BLK|JVL070TAB812BLK|
@@ -10477,6 +10482,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KISA phone|KPAU04|KPAU04|KPAU04|
 |KNC (LK)|TPC_XTE10D|TPC_XTE10D|TPC_XTE10D|
 |KONKA|KM7012BK|KM7012BK|KM7012BK|
+|KONKA|KONKA|seocho|KONKA 4K Android TV|
 |KONKA|RE1|RE1|RE1|
 |KONKA|RU1|RU1|RU1|
 |KONKA|SE1|SE1|SE1|
@@ -15057,6 +15063,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto z3 play|beckham|Moto Z3 Play|
 |Motorola|moto z4|foles|Moto Z3 Play|
 |Motorola|moto z4|foles|moto z4|
+|Motorola|motorola edge plus|burton|motorola edge plus|
 |Motorola|motorola one|deen_sprout|motorola one|
 |Motorola|motorola one action|troika|motorola one action|
 |Motorola|motorola one action|troika_sprout|motorola one action|
@@ -15944,6 +15951,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ODYS|FALCON_10_PLUS_3G|FALCON_10_PLUS_3G|FALCON_10_PLUS_3G|
 |OK (Mediamark)|Italy|samseong|AI PONT|
 |OK (Mediamark)|ODL 32760HN-TAB|osaki|2K AI Smart TV|
+|OK (Mediamark)|OK|bangbae|OK 4K Android TV|
 |OKWU|PI Plus|PI_Plus|PI Plus|
 |ONDA TLC|T7 Pro|T7_PRO|T7_PRO|
 |ONDA TLC|T9 S|T9S|T9S|
@@ -16995,6 +17003,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|4K OLED TV powered by Android|PH7M_LT_5596|TPM171E|
 |Philips|4K Razor Slim LED TV powered by Android TV™|MT5593Uplus|QM151E|
 |Philips|4K Razor Slim OLED TV powered by Android TV|QM16XE_UB|QM161E|
+|Philips|4K UHD LED Android TV with Ambilight 3-sided and Google Assistant|PH9M_EA_5599|TPM191L|
 |Philips|4K UHD Razor Slim LED TV powered by Android™|QV151E|QV151E|
 |Philips|4K Ultra Slim LED TV powered by Android|QM16XE_U|QM163E|
 |Philips|Android 2014|philipstv|AND1E|
@@ -17443,7 +17452,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Premio|S70|S70|S70|
 |Premio|S71|S71|S71|
 |Premio|S72|Premio_S72|S72|
+|Premio|S73|S73|S73|
 |Premio|S75|S75|PREMIO S75|
+|Premio|S80|S80|S80|
 |Premio|X1|186HS2080531|186HS2080531|
 |Premio|X80|X80|X80|
 |Premio|X81|X81|X81|
@@ -22462,6 +22473,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL PLEX|T1_L1|T780H|
 |TCL|TCL T7|A5A_INFINI|5186A|
 |TCL|TCL T9|Venice|5148A|
+|TCL|TCL T9+|TokyoPro|5129A|
 |TCL|TCL T9x|TokyoPro|5129Y|
 |TCL|TKEE MINI|Hulk_7_KIDS_WIFI|8093|
 |TCL|Union TV|UnionTV|UnionTV|
@@ -25002,6 +25014,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V1945A|PD1945|V1945A|
 |Vivo|V1950A|PD1950|V1950A|
 |Vivo|V1955A|PD1955|V1955A|
+|Vivo|V1962A|PD1962|V1962A|
 |Vivo|V1963A|PD1963|V1963A|
 |Vivo|V1Max|Y37|vivo Y37|
 |Vivo|V3|PD1524|vivo V3|
