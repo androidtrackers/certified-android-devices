@@ -7054,6 +7054,13 @@
    "device": "hanyang"
   }
  ],
+ "AQUA Android TV 2K": [
+  {
+   "brand": "Aqua",
+   "name": "APAC",
+   "device": "nippori"
+  }
+ ],
  "S1 Jazz": [
   {
    "brand": "Aqua",
@@ -27560,6 +27567,13 @@
   }
  ],
  "P-Ranger": [
+  {
+   "brand": "Custom",
+   "name": "P-Ranger",
+   "device": "P-Ranger"
+  }
+ ],
+ "P-Ranger_ROW": [
   {
    "brand": "Custom",
    "name": "P-Ranger",
@@ -52402,6 +52416,13 @@
    "brand": "Hisense",
    "name": "Hisense E MAX",
    "device": "SC9863A_RU"
+  }
+ ],
+ "HLTE229E": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense E40",
+   "device": "HLTE229E"
   }
  ],
  "Hisense E76MINIM": [
@@ -92718,6 +92739,13 @@
    "device": "L55A"
   }
  ],
+ "L55SCLARO": [
+  {
+   "brand": "Logic Mobility",
+   "name": "L55SCLARO",
+   "device": "L55SCLARO"
+  }
+ ],
  "Logic L57": [
   {
    "brand": "Logic Mobility",
@@ -103870,6 +103898,11 @@
    "brand": "Motorola",
    "name": "moto z4",
    "device": "foles"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge",
+   "device": "racer"
   },
   {
    "brand": "Motorola",
@@ -118309,6 +118342,13 @@
    "brand": "Polaroid",
    "name": "V7",
    "device": "nuclear-M7021"
+  }
+ ],
+ "Polestar": [
+  {
+   "brand": "Polestar",
+   "name": "Polestar",
+   "device": "ihu_abl_car"
   }
  ],
  "P500": [
@@ -157809,6 +157849,13 @@
    "device": "Tokyo"
   }
  ],
+ "5028D_TR": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1S",
+   "device": "Tokyo"
+  }
+ ],
  "5028Y": [
   {
    "brand": "TCT (Alcatel)",
@@ -157859,6 +157906,20 @@
   }
  ],
  "5030F": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1SE",
+   "device": "Jakarta"
+  }
+ ],
+ "5030F_EEA": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1SE",
+   "device": "Jakarta"
+  }
+ ],
+ "5030I": [
   {
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1SE",
@@ -175389,6 +175450,20 @@
    "brand": "Xiaomi",
    "name": "Hong Mi",
    "device": "HM2013022"
+  }
+ ],
+ "Redmi K30 Pro 5G Zoom Edition": [
+  {
+   "brand": "Xiaomi",
+   "name": "K30 PRO",
+   "device": "lmiinpro"
+  }
+ ],
+ "Redmi K30 Pro 5G": [
+  {
+   "brand": "Xiaomi",
+   "name": "K30 pro",
+   "device": "lmiin"
   }
  ],
  "MI 8 Explorer Edition": [

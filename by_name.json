@@ -12638,6 +12638,11 @@
    "model": "AQUA Android TV"
   },
   {
+   "brand": "Aqua",
+   "device": "nippori",
+   "model": "AQUA Android TV 2K"
+  },
+  {
    "brand": "Haier",
    "device": "hanyang",
    "model": "Haitech Android TV"
@@ -33604,6 +33609,11 @@
    "brand": "Custom",
    "device": "P-Ranger",
    "model": "P-Ranger"
+  },
+  {
+   "brand": "Custom",
+   "device": "P-Ranger",
+   "model": "P-Ranger_ROW"
   }
  ],
  "Tab_4_M7078": [
@@ -57369,6 +57379,13 @@
    "brand": "Hisense",
    "device": "SC9863A_RU",
    "model": "Hisense E MAX"
+  }
+ ],
+ "Hisense E40": [
+  {
+   "brand": "Hisense",
+   "device": "HLTE229E",
+   "model": "HLTE229E"
   }
  ],
  "Hisense E76MINIM": [
@@ -91513,6 +91530,13 @@
    "model": "L55A"
   }
  ],
+ "L55SCLARO": [
+  {
+   "brand": "Logic Mobility",
+   "device": "L55SCLARO",
+   "model": "L55SCLARO"
+  }
+ ],
  "L57": [
   {
    "brand": "Logic Mobility",
@@ -101647,6 +101671,13 @@
   {
    "brand": "Motorola",
    "device": "foles",
+   "model": "moto z4"
+  }
+ ],
+ "motorola edge": [
+  {
+   "brand": "Motorola",
+   "device": "racer",
    "model": "moto z4"
   }
  ],
@@ -115529,6 +115560,13 @@
    "model": "CARBON_PRO4543"
   }
  ],
+ "Polestar": [
+  {
+   "brand": "Polestar",
+   "device": "ihu_abl_car",
+   "model": "Polestar"
+  }
+ ],
  "P500": [
   {
    "brand": "Polytron",
@@ -121123,6 +121161,11 @@
    "brand": "Redmi",
    "device": "lmi",
    "model": "Redmi K30 Pro"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "lmiinpro",
+   "model": "Redmi K30 Pro 5G Zoom Edition"
   }
  ],
  "Mi  9T  Pro": [
@@ -149153,6 +149196,11 @@
   {
    "brand": "TCT (Alcatel)",
    "device": "Tokyo",
+   "model": "5028D_TR"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Tokyo",
    "model": "5028Y"
   },
   {
@@ -149191,6 +149239,16 @@
    "brand": "TCT (Alcatel)",
    "device": "Jakarta",
    "model": "5030F"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Jakarta",
+   "model": "5030F_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Jakarta",
+   "model": "5030I"
   },
   {
    "brand": "TCT (Alcatel)",
@@ -165729,6 +165787,13 @@
    "brand": "Xiaomi",
    "device": "HM2013022",
    "model": "2013022"
+  }
+ ],
+ "K30 pro": [
+  {
+   "brand": "Xiaomi",
+   "device": "lmiin",
+   "model": "Redmi K30 Pro 5G"
   }
  ],
  "MI  8  Explorer  Edition": [

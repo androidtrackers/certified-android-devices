@@ -7302,6 +7302,48 @@
    "model": "Svision Android TV"
   }
  ],
+ "nippori": [
+  {
+   "brand": "Aqua",
+   "name": "APAC",
+   "model": "AQUA Android TV 2K"
+  },
+  {
+   "brand": "EKO",
+   "name": "Australia",
+   "model": "EKO Android TV 2K"
+  },
+  {
+   "brand": "Haier",
+   "name": "APAC",
+   "model": "CANDY Android TV 2K"
+  },
+  {
+   "brand": "Haier",
+   "name": "APAC",
+   "model": "haierATVnippori"
+  },
+  {
+   "brand": "Haier",
+   "name": "PA",
+   "model": "Haitech Android TV 2K"
+  },
+  {
+   "brand": "Kogan",
+   "name": "Australia",
+   "model": "Kogan SmarterTV 2K"
+  },
+  {
+   "brand": "QBell",
+   "name": "EU",
+   "model": "QBELL Android TV 2K"
+  },
+  {
+   "brand": "S Vision",
+   "name": "Australia",
+   "model": "Svision Android TV 2K"
+  }
+ ],
  "S1_Jazz": [
   {
    "brand": "Aqua",
@@ -28235,6 +28277,11 @@
    "brand": "Custom",
    "name": "P-Ranger",
    "model": "P-Ranger"
+  },
+  {
+   "brand": "Custom",
+   "name": "P-Ranger",
+   "model": "P-Ranger_ROW"
   }
  ],
  "Tab_4_M7078": [
@@ -33833,43 +33880,6 @@
    "brand": "EKO",
    "name": "Ara 5.7 A5719",
    "model": "Ara 5.7 A5719"
-  }
- ],
- "nippori": [
-  {
-   "brand": "EKO",
-   "name": "Australia",
-   "model": "EKO Android TV 2K"
-  },
-  {
-   "brand": "Haier",
-   "name": "APAC",
-   "model": "CANDY Android TV 2K"
-  },
-  {
-   "brand": "Haier",
-   "name": "APAC",
-   "model": "haierATVnippori"
-  },
-  {
-   "brand": "Haier",
-   "name": "PA",
-   "model": "Haitech Android TV 2K"
-  },
-  {
-   "brand": "Kogan",
-   "name": "Australia",
-   "model": "Kogan SmarterTV 2K"
-  },
-  {
-   "brand": "QBell",
-   "name": "EU",
-   "model": "QBELL Android TV 2K"
-  },
-  {
-   "brand": "S Vision",
-   "name": "Australia",
-   "model": "Svision Android TV 2K"
   }
  ],
  "EKO_OMEGA_LTE_Q60": [
@@ -52344,6 +52354,13 @@
    "brand": "Hisense",
    "name": "Hisense E MAX",
    "model": "Hisense E MAX"
+  }
+ ],
+ "HLTE229E": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense E40",
+   "model": "HLTE229E"
   }
  ],
  "HS6580MT": [
@@ -89308,6 +89325,13 @@
    "model": "L55A"
   }
  ],
+ "L55SCLARO": [
+  {
+   "brand": "Logic Mobility",
+   "name": "L55SCLARO",
+   "model": "L55SCLARO"
+  }
+ ],
  "Logic_L57": [
   {
    "brand": "Logic Mobility",
@@ -100467,6 +100491,13 @@
   {
    "brand": "Motorola",
    "name": "moto z4",
+   "model": "moto z4"
+  }
+ ],
+ "racer": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge",
    "model": "moto z4"
   }
  ],
@@ -114987,6 +115018,13 @@
    "brand": "Polaroid",
    "name": "V7",
    "model": "V7"
+  }
+ ],
+ "ihu_abl_car": [
+  {
+   "brand": "Polestar",
+   "name": "Polestar",
+   "model": "Polestar"
   }
  ],
  "P500": [
@@ -148663,6 +148701,16 @@
   {
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1SE",
+   "model": "5030F_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1SE",
+   "model": "5030I"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1SE",
    "model": "5030J"
   },
   {
@@ -148701,6 +148749,11 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1S",
    "model": "5028D_RU"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1S",
+   "model": "5028D_TR"
   },
   {
    "brand": "TCT (Alcatel)",
@@ -168294,6 +168347,20 @@
    "brand": "Xiaomi",
    "name": "Hong Mi",
    "model": "2013022"
+  }
+ ],
+ "lmiinpro": [
+  {
+   "brand": "Xiaomi",
+   "name": "K30 PRO",
+   "model": "Redmi K30 Pro 5G Zoom Edition"
+  }
+ ],
+ "lmiin": [
+  {
+   "brand": "Xiaomi",
+   "name": "K30 pro",
+   "model": "Redmi K30 Pro 5G"
   }
  ],
  "ursa": [

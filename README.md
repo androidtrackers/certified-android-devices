@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-04-14
+Last sync is 2020-04-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -888,6 +888,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aprix|Tab8ii|Tab8ii|Tab8ii|
 |Aprix|X4|Aprix_X4|Aprix_X4|
 |Aqua|APAC|hanyang|AQUA Android TV|
+|Aqua|APAC|nippori|AQUA Android TV 2K|
 |Aqua|S1 Jazz|S1_Jazz|S1 Jazz|
 |Arcelik|B55L 9682 5AS|arcelik_eu|arcelik_uhd_powermax_at|
 |Archos||A101S|ARCHOS 101G9|
@@ -3775,6 +3776,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Custom|K-Ranger|K-Ranger|K-Ranger_ROW|
 |Custom|K-Ranger|K-Ranger|K-Ranger_RU|
 |Custom|P-Ranger|P-Ranger|P-Ranger|
+|Custom|P-Ranger|P-Ranger|P-Ranger_ROW|
 |Cutepad|Tab_4_M7078|Tab_4_M7078|Tab_4_M7078|
 |Cyrus|CM17|CM17|CM17|
 |Cyrus|CS22|CS22|CS22|
@@ -7347,6 +7349,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense  Infinity  H12|HSSDM450QC|Hisense H12|
 |Hisense|Hisense  Infinity  H12|HSSDM450QC|Hisense Infinity H12|
 |Hisense|Hisense E MAX|SC9863A_RU|Hisense E MAX|
+|Hisense|Hisense E40|HLTE229E|HLTE229E|
 |Hisense|Hisense E76MINIM|HS8937QC|Hisense E76MINIM|
 |Hisense|Hisense E77|HS8937QC|Hisense E77|
 |Hisense|Hisense F15|HS6739MT|Hisense F15|
@@ -13378,6 +13381,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logic Instrument|Logic Instrument Fieldbook N101|lifbn101|Logic Instrument Fieldbook N101|
 |Logic Instrument|Logic Instrument Fieldbook N80|lifbn80|Logic Instrument Fieldbook N80|
 |Logic Mobility|L55A|L55A|L55A|
+|Logic Mobility|L55SCLARO|L55SCLARO|L55SCLARO|
 |Logic Mobility|L57|Logic_L57|Logic L57|
 |Logic Mobility|L5G|L5G|L5G|
 |Logic Mobility|LOGIC L50T|LOGIC_L50T|LOGIC L50T|
@@ -15063,6 +15067,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto z3 play|beckham|Moto Z3 Play|
 |Motorola|moto z4|foles|Moto Z3 Play|
 |Motorola|moto z4|foles|moto z4|
+|Motorola|motorola edge|racer|moto z4|
 |Motorola|motorola edge plus|burton|motorola edge plus|
 |Motorola|motorola one|deen_sprout|motorola one|
 |Motorola|motorola one action|troika|motorola one action|
@@ -17278,6 +17283,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Polaroid|SOHO|SOHO|SOHO|
 |Polaroid|V45M|V45M|CARBON_PRO4543|
 |Polaroid|V7|nuclear-M7021|V7|
+|Polestar|Polestar|ihu_abl_car|Polestar|
 |Polytron|P500|P500|P500|
 |Polytron|P551S|P551S|P551S|
 |Polytron|PDB-F2|PDB_F2|PDB-F2|
@@ -23114,6 +23120,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1S|Tokyo|5028D|
 |TCT (Alcatel)|Alcatel 1S|Tokyo|5028D_EEA|
 |TCT (Alcatel)|Alcatel 1S|Tokyo|5028D_RU|
+|TCT (Alcatel)|Alcatel 1S|Tokyo|5028D_TR|
 |TCT (Alcatel)|Alcatel 1S|Tokyo|5028Y|
 |TCT (Alcatel)|Alcatel 1S|Tokyo|5028Y_EEA|
 |TCT (Alcatel)|Alcatel 1S|Tokyo|5028Y_RU|
@@ -23122,6 +23129,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030D_EEA|
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030D_RU|
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030F|
+|TCT (Alcatel)|Alcatel 1SE|Jakarta|5030F_EEA|
+|TCT (Alcatel)|Alcatel 1SE|Jakarta|5030I|
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030J|
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030U|
 |TCT (Alcatel)|Alcatel 1T 7 WIFI|U3A_7_WIFI|8068|
@@ -25850,6 +25859,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|HM NOTE 1W|lcsh92_wet_jb9|HM NOTE 1W|
 |Xiaomi|HM Note 2|hermes|Redmi Note 2|
 |Xiaomi|Hong Mi|HM2013022|2013022|
+|Xiaomi|K30 PRO|lmiinpro|Redmi K30 Pro 5G Zoom Edition|
+|Xiaomi|K30 pro|lmiin|Redmi K30 Pro 5G|
 |Xiaomi|MI  8  Explorer  Edition|ursa|MI 8 Explorer Edition|
 |Xiaomi|MI  8  Pro|equuleus|MI 8 Pro|
 |Xiaomi|MI  8  Pro|equuleus|MI 8 UD|

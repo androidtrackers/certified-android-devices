@@ -4600,6 +4600,11 @@
    "model": "AQUA Android TV"
   },
   {
+   "device": "nippori",
+   "name": "APAC",
+   "model": "AQUA Android TV 2K"
+  },
+  {
    "device": "S1_Jazz",
    "name": "S1 Jazz",
    "model": "S1 Jazz"
@@ -19477,6 +19482,11 @@
    "device": "P-Ranger",
    "name": "P-Ranger",
    "model": "P-Ranger"
+  },
+  {
+   "device": "P-Ranger",
+   "name": "P-Ranger",
+   "model": "P-Ranger_ROW"
   }
  ],
  "Cutepad": [
@@ -37959,6 +37969,11 @@
    "device": "SC9863A_RU",
    "name": "Hisense E MAX",
    "model": "Hisense E MAX"
+  },
+  {
+   "device": "HLTE229E",
+   "name": "Hisense E40",
+   "model": "HLTE229E"
   },
   {
    "device": "HS8937QC",
@@ -68552,6 +68567,11 @@
    "model": "L55A"
   },
   {
+   "device": "L55SCLARO",
+   "name": "L55SCLARO",
+   "model": "L55SCLARO"
+  },
+  {
    "device": "Logic_L57",
    "name": "L57",
    "model": "Logic L57"
@@ -77212,6 +77232,11 @@
   {
    "device": "foles",
    "name": "moto z4",
+   "model": "moto z4"
+  },
+  {
+   "device": "racer",
+   "name": "motorola edge",
    "model": "moto z4"
   },
   {
@@ -88654,6 +88679,13 @@
    "device": "nuclear-M7021",
    "name": "V7",
    "model": "V7"
+  }
+ ],
+ "Polestar": [
+  {
+   "device": "ihu_abl_car",
+   "name": "Polestar",
+   "model": "Polestar"
   }
  ],
  "Polytron": [
@@ -118314,6 +118346,11 @@
   {
    "device": "Tokyo",
    "name": "Alcatel 1S",
+   "model": "5028D_TR"
+  },
+  {
+   "device": "Tokyo",
+   "name": "Alcatel 1S",
    "model": "5028Y"
   },
   {
@@ -118350,6 +118387,16 @@
    "device": "Jakarta",
    "name": "Alcatel 1SE",
    "model": "5030F"
+  },
+  {
+   "device": "Jakarta",
+   "name": "Alcatel 1SE",
+   "model": "5030F_EEA"
+  },
+  {
+   "device": "Jakarta",
+   "name": "Alcatel 1SE",
+   "model": "5030I"
   },
   {
    "device": "Jakarta",
@@ -132502,6 +132549,16 @@
    "device": "HM2013022",
    "name": "Hong Mi",
    "model": "2013022"
+  },
+  {
+   "device": "lmiinpro",
+   "name": "K30 PRO",
+   "model": "Redmi K30 Pro 5G Zoom Edition"
+  },
+  {
+   "device": "lmiin",
+   "name": "K30 pro",
+   "model": "Redmi K30 Pro 5G"
   },
   {
    "device": "ursa",
