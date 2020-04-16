@@ -107670,6 +107670,27 @@
    "model": "HD1925"
   }
  ],
+ "OnePlus 8": [
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus8",
+   "model": "IN2013"
+  }
+ ],
+ "OnePlus 8 5G": [
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus8TMO",
+   "model": "IN2017"
+  }
+ ],
+ "OnePlus 8 Pro": [
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus8Pro",
+   "model": "IN2023"
+  }
+ ],
  "OnePlus2": [
   {
    "brand": "OnePlus",

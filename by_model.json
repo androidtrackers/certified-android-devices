@@ -110158,6 +110158,27 @@
    "device": "OnePlus7TProNR"
   }
  ],
+ "IN2013": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 8",
+   "device": "OnePlus8"
+  }
+ ],
+ "IN2017": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 8 5G",
+   "device": "OnePlus8TMO"
+  }
+ ],
+ "IN2023": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 8 Pro",
+   "device": "OnePlus8Pro"
+  }
+ ],
  "ONEPLUS A5000": [
   {
    "brand": "OnePlus",

@@ -82279,6 +82279,21 @@
    "model": "HD1925"
   },
   {
+   "device": "OnePlus8",
+   "name": "OnePlus 8",
+   "model": "IN2013"
+  },
+  {
+   "device": "OnePlus8TMO",
+   "name": "OnePlus 8 5G",
+   "model": "IN2017"
+  },
+  {
+   "device": "OnePlus8Pro",
+   "name": "OnePlus 8 Pro",
+   "model": "IN2023"
+  },
+  {
    "device": "OnePlus2",
    "name": "OnePlus2",
    "model": "ONE A2003"
