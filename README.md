@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-04-16
+Last sync is 2020-04-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17362,6 +17362,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|Twist SE|SP2|S545|
 |Positivo|Twist SE|SP2|Twist SE|
 |Positivo|Twist Tab|T770|Twist Tab|
+|Positivo|Twist Tab Kids|T770|Twist Tab|
 |Positivo|Twist Tab Kids|T770|Twist Tab Kids|
 |Positivo|Twist XL|S555|Twist XL|
 |Positivo|Union US2070|US2070|Positivo US2070|
