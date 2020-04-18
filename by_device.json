@@ -21323,6 +21323,13 @@
    "model": "C45"
   }
  ],
+ "Neo_4": [
+  {
+   "brand": "CLIO",
+   "name": "Neo 4",
+   "model": "Neo 4"
+  }
+ ],
  "m811": [
   {
    "brand": "CMCC",
@@ -120308,6 +120315,11 @@
    "brand": "Realme",
    "name": "realme 5i",
    "model": "RMX2030"
+  },
+  {
+   "brand": "Realme",
+   "name": "realme 6i",
+   "model": "RMX2190"
   }
  ],
  "RMX2030L1": [
@@ -157431,6 +157443,13 @@
    "brand": "Telefunken",
    "name": "VP73_Telefunken",
    "model": "VP73_Telefunken"
+  }
+ ],
+ "DMTS19TIA": [
+  {
+   "brand": "Telegenic",
+   "name": "TELEGENIC-AML-1",
+   "model": "TELEGENIC-AML-1"
   }
  ],
  "TP-MDM107": [

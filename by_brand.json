@@ -14712,6 +14712,13 @@
    "model": "C45"
   }
  ],
+ "CLIO": [
+  {
+   "device": "Neo_4",
+   "name": "Neo 4",
+   "model": "Neo 4"
+  }
+ ],
  "CMCC": [
   {
    "device": "m811",
@@ -93019,6 +93026,11 @@
    "model": "RMX2003"
   },
   {
+   "device": "RMX2030",
+   "name": "realme 6i",
+   "model": "RMX2190"
+  },
+  {
    "device": "RMX2040",
    "name": "realme 6i",
    "model": "RMX2040"
@@ -123335,6 +123347,13 @@
    "device": "Telefunken",
    "name": "VP73_Telefunken",
    "model": "VP73_Telefunken"
+  }
+ ],
+ "Telegenic": [
+  {
+   "device": "DMTS19TIA",
+   "name": "TELEGENIC-AML-1",
+   "model": "TELEGENIC-AML-1"
   }
  ],
  "Telego": [

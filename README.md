@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-04-17
+Last sync is 2020-04-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2856,6 +2856,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CJHelloVision|Hello TV Smart|SX930C_CJ|SX930C_CJ|
 |CJHelloVision|viewing|kr101|kr101|
 |CLEVER|C45|C45|C45|
+|CLIO|Neo 4|Neo_4|Neo 4|
 |CMCC|M811|m811|M811|
 |CMCC|M811|m811hk|M811|
 |COPAN|Aplus|Aplus|Aplus|
@@ -18129,6 +18130,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme 5pro|RMX1973|RMX1973|
 |Realme|realme 6|RMX2001L1|RMX2001|
 |Realme|realme 6|RMX2003L1|RMX2003|
+|Realme|realme 6i|RMX2030|RMX2190|
 |Realme|realme 6i|RMX2040|RMX2040|
 |Realme|realme 6i|RMX2041|RMX2041|
 |Realme|realme 6i|RMX2042|RMX2042|
@@ -24097,6 +24099,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telefunken|TF6|TF6|TF6|
 |Telefunken|TelefunkenTV|shibuya|TelefunkenTV|
 |Telefunken|VP73_Telefunken|Telefunken|VP73_Telefunken|
+|Telegenic|TELEGENIC-AML-1|DMTS19TIA|TELEGENIC-AML-1|
 |Telego|F10|F10|F10|
 |Telego|F8|F8|F8|
 |Telelynx|TP-MDM107|TP-MDM107|TP-MDM107|
