@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-04-19
+Last sync is 2020-04-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10659,6 +10659,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Klipad|7588AN|tulip-d9003|7588AN|
 |Klipad|7588AN|tulip-d9003|KL3838|
 |Klipad|KL1018|KL1018|KL1018|
+|Klipad|KL1018E|KL1018E_EEA|KL1018E_EEA|
 |Klipad|KL1088|KL1088|KL1088|
 |Klipad|KL300|KL300|KL300|
 |Klipad|KL3669_EEA|KL3669_EEA|KL3669_EEA|
@@ -17771,6 +17772,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Proscan|PLT9774G|PLT9774G|PLT9774G|
 |Proscan|PLT9999G|PLT9999G|PLT9999G|
 |Protab|PTBPT5QCB7|PTBPT5QCB7|PTBPT5QCB7|
+|Punos|Punos_10|Punos_10|Punos 10|
+|Punos|Punos_7|Punos_7|Punos 7|
 |QBell|EU|hanyang|QBELL Android TV|
 |QBell|EU|nippori|QBELL Android TV 2K|
 |QBell|QPHONE_10_1|QPHONE_10_1|QPHONE_10.1|
@@ -23965,6 +23968,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|Pouvoir 3 Air|TECNO-LC6|TECNO LC6|
 |Tecno|Pouvoir 3 Air|TECNO-LC6a|TECNO LC6a|
 |Tecno|Pouvoir 4|TECNO-LC7|TECNO LC7|
+|Tecno|Pouvoir 4|TECNO-LC7|TECNO LC7S|
 |Tecno|Pouvoir 4 Pro|TECNO-LC8|TECNO LC8|
 |Tecno|R6|TECNO-R6|TECNO R6|
 |Tecno|R6+|TECNO-RA6|TECNO RA6|

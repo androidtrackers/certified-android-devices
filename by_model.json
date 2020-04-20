@@ -74601,6 +74601,13 @@
    "device": "KL1018"
   }
  ],
+ "KL1018E_EEA": [
+  {
+   "brand": "Klipad",
+   "name": "KL1018E",
+   "device": "KL1018E_EEA"
+  }
+ ],
  "KL1088": [
   {
    "brand": "Klipad",
@@ -121653,6 +121660,20 @@
    "device": "PTBPT5QCB7"
   }
  ],
+ "Punos 10": [
+  {
+   "brand": "Punos",
+   "name": "Punos_10",
+   "device": "Punos_10"
+  }
+ ],
+ "Punos 7": [
+  {
+   "brand": "Punos",
+   "name": "Punos_7",
+   "device": "Punos_7"
+  }
+ ],
  "QBELL Android TV": [
   {
    "brand": "QBell",
@@ -163459,6 +163480,13 @@
   }
  ],
  "TECNO LC7": [
+  {
+   "brand": "Tecno",
+   "name": "Pouvoir 4",
+   "device": "TECNO-LC7"
+  }
+ ],
+ "TECNO LC7S": [
   {
    "brand": "Tecno",
    "name": "Pouvoir 4",

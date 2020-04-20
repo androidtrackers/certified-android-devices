@@ -54817,6 +54817,11 @@
    "model": "KL1018"
   },
   {
+   "device": "KL1018E_EEA",
+   "name": "KL1018E",
+   "model": "KL1018E_EEA"
+  },
+  {
    "device": "KL1088",
    "name": "KL1088",
    "model": "KL1088"
@@ -91165,6 +91170,18 @@
    "model": "PTBPT5QCB7"
   }
  ],
+ "Punos": [
+  {
+   "device": "Punos_10",
+   "name": "Punos_10",
+   "model": "Punos 10"
+  },
+  {
+   "device": "Punos_7",
+   "name": "Punos_7",
+   "model": "Punos 7"
+  }
+ ],
  "QBell": [
   {
    "device": "hanyang",
@@ -122657,6 +122674,11 @@
    "device": "TECNO-LC7",
    "name": "Pouvoir 4",
    "model": "TECNO LC7"
+  },
+  {
+   "device": "TECNO-LC7",
+   "name": "Pouvoir 4",
+   "model": "TECNO LC7S"
   },
   {
    "device": "TECNO-LC8",

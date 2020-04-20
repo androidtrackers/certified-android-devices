@@ -76450,6 +76450,13 @@
    "model": "KL1018"
   }
  ],
+ "KL1018E": [
+  {
+   "brand": "Klipad",
+   "device": "KL1018E_EEA",
+   "model": "KL1018E_EEA"
+  }
+ ],
  "KL1088": [
   {
    "brand": "Klipad",
@@ -118797,6 +118804,20 @@
    "model": "PTBPT5QCB7"
   }
  ],
+ "Punos_10": [
+  {
+   "brand": "Punos",
+   "device": "Punos_10",
+   "model": "Punos 10"
+  }
+ ],
+ "Punos_7": [
+  {
+   "brand": "Punos",
+   "device": "Punos_7",
+   "model": "Punos 7"
+  }
+ ],
  "EU": [
   {
    "brand": "QBell",
@@ -154175,6 +154196,11 @@
    "brand": "Tecno",
    "device": "TECNO-LC7",
    "model": "TECNO LC7"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-LC7",
+   "model": "TECNO LC7S"
   }
  ],
  "Pouvoir 4 Pro": [
