@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-04-20
+Last sync is 2020-04-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2204,6 +2204,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|B505|B505|B505|
 |BenQ|B506|B506_TW|B506_TW|
 |BenQ|B50_CHT|B50|B50_CHT|
+|BenQ|China Taiwan|ikebukuro|AI PONT|
 |BenQ|China Taiwan|samseong|AI PONT|
 |BenQ|F3|F3|F3|
 |BenQ|F4|benq_a3s|BenQ A3s|
@@ -6049,6 +6050,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HOMTOM|H5|H5|H5|
 |HOMTOM|HT16S|HT16S|HT16S|
 |HOMTOM|HT70|HT70|HT70|
+|HOMTOM|HT80|HT80|HT80|
 |HOMTOM|P30 pro|P30_Pro|P30 Pro|
 |HOMTOM|S16|S16|S16|
 |HOMTOM|S17|S17|S17|
@@ -7004,6 +7006,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hi TFG|Boost Max|Boost_Max|Boost_Max|
 |Hi TFG|Crusader|Crusader|Crusader|
 |Hi TFG|Spitfire|Spitfire|Spitfire|
+|Hi-online|HMR5450|HMR5450|HMR5450|
 |HighScreen|Bay|Bay|Bay|
 |HighScreen|Easy Power|Easy-Power|Easy-Power|
 |HighScreen|Easy Power Pro|Easy-Power-Pro|Easy-Power-Pro|
@@ -11538,6 +11541,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG K8s|mcv1s|LM-X220QMA|
 |LGE|LG K9|cv109|LM-X210|
 |LGE|LG L39C|l4ii_cdma|LGL39C|
+|LGE|LG L455DL|mdh10lm|LGL455DL|
 |LGE|LG LEON™ LTE|c50|LG-H345|
 |LGE|LG Lancet|c50|VS820|
 |LGE|LG Leon|my50|LG-H320|
@@ -12107,6 +12111,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|Premier|m209|LGL61AL|
 |LGE|Premier|m209|LGL62VL|
 |LGE|Q51|mdh30lm|LM-Q510N|
+|LGE|Q61|mdh40lm|LM-Q630N|
 |LGE|Q8|anna|LG-H970|
 |LGE|Q8|anna|LGM-X800K|
 |LGE|Q8|anna|LGM-X800L|
@@ -18116,6 +18121,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Razer|Phone 2|linus|Phone 2|
 |Razer|Razer Phone|cheryl|Phone|
 |Razer|Razer phone|cheryl_ckh|Phone|
+|Realme|India|ikebukuro|AI PONT|
 |Realme|realme 2 Pro|RMX1801|RMX1801|
 |Realme|realme 3Pro|RMX1851|RMX1851|
 |Realme|realme 5|RMX1911L1|RMX1911|
@@ -20583,6 +20589,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S6|gts6lwifi|SM-T860|
 |Samsung|Galaxy Tab S6 5G|gts6x|SM-T866N|
 |Samsung|Galaxy Tab S6 Lite|gta4xl|SM-P615|
+|Samsung|Galaxy Tab S6 Lite|gta4xl|SM-P615C|
 |Samsung|Galaxy Tab S6 Lite|gta4xl|SM-P615N|
 |Samsung|Galaxy Tab S6 Lite|gta4xl|SM-P617|
 |Samsung|Galaxy Tab S6 Lite|gta4xlwifi|SM-P610|
@@ -22343,6 +22350,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Swisstone|swisstone SD 510|SD5103G|swisstone SD 510|
 |Swisstone|swisstone SD 530|SD5304G|swisstone SD 530|
 |Switel|VS700|VS700|VS700|
+|Syinix|Africa & Asia Pacific|ikebukuro|AI PONT|
 |Syinix|Africa & Asia Pacific|samseong|AI PONT|
 |Symphony|E90|E90|E90|
 |Symphony|E95|E95|E95|
@@ -23218,6 +23226,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 3X|A3A_PLUS|5058J|
 |TCT (Alcatel)|Alcatel 3X|A3A_PLUS|5058T|
 |TCT (Alcatel)|Alcatel 3X|A3A_PLUS|5058Y|
+|TCT (Alcatel)|Alcatel 3X|Milan|5061U_EEA|
 |TCT (Alcatel)|Alcatel 3X|Venice|5048A|
 |TCT (Alcatel)|Alcatel 3X|Venice|5048I|
 |TCT (Alcatel)|Alcatel 3X|Venice|5048U|
@@ -24984,8 +24993,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|1601|1601|vivo 1601|
 |Vivo|1601|1601|vivo 1713|
 |Vivo|1609|1609|vivo 1609|
-|Vivo|1818|1818|vivo 1818|
-|Vivo|1818N|1818N|vivo 1818|
 |Vivo|I1927|I1928|I1927|
 |Vivo|I1928|I1928|I1928|
 |Vivo|NEX A|PD1806B|vivo NEX A|
@@ -25138,6 +25145,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo 1815|1815|vivo 1815|
 |Vivo|vivo 1816|1816|vivo 1816|
 |Vivo|vivo 1817|1817|vivo 1817|
+|Vivo|vivo 1818|1818|vivo 1818|
+|Vivo|vivo 1818|1818N|vivo 1818|
 |Vivo|vivo 1818|PD1832|V1832A|
 |Vivo|vivo 1819|1819|vivo 1819|
 |Vivo|vivo 1819|1819N|vivo 1819|
@@ -27421,6 +27430,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Axon 10 Pro|P855A03|ZTE Axon 10 Pro|
 |ZTE|ZTE Axon 10 Pro|P855A03_NA|ZTE A2020U Pro|
 |ZTE|ZTE Axon 10 Pro|P855A21|ZTE A2020N3 Pro|
+|ZTE|ZTE Axon 11 5G|P725A12|ZTE A2021|
 |ZTE|ZTE BLADE A0605|P809F15|ZTE BLADE A0605|
 |ZTE|ZTE BLADE A0605|P809F15|ZTE BLADE A6 MAX|
 |ZTE|ZTE BLADE A0620|P840F12|ZTE BLADE A0620|
@@ -27786,6 +27796,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |dazen|dazen 6E|dazen_6E|dazen 6E|
 |duraMOBI|DK66|DK66|DK66|
 |eBox|EBoxTv|diw387eb|EboxTV|
+|eBox|Ebox|diw387eb|EboxTV|
 |eSTREAM 4K|IPA-1104HDH-01|eSTREAM4K_4x4|IPA-1104HDH-01|
 |eSTREAM 4K|IPA1104HDW-02|kunlun|IPA1104HDW-02|
 |ecom|Ex-Handy 10|Ex-Handy10|Ex-Handy 10 ROW|

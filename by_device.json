@@ -16778,6 +16778,63 @@
    "model": "B506_TW"
   }
  ],
+ "ikebukuro": [
+  {
+   "brand": "BenQ",
+   "name": "China Taiwan",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Changhong",
+   "name": "AP(Indonesia etc.)/MENA",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Changhong",
+   "name": "AP(Indonesia etc.)/MENA",
+   "model": "CHiQ AI Center"
+  },
+  {
+   "brand": "Condor",
+   "name": "Algeria",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Russia",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Micromax",
+   "name": "India",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Realme",
+   "name": "India",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "SHINON",
+   "name": "Iraq",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Syinix",
+   "name": "Africa & Asia Pacific",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Thomson",
+   "name": "Algeria",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Vu Televisions",
+   "name": "India",
+   "model": "AI PONT"
+  }
+ ],
  "F3": [
   {
    "brand": "BenQ",
@@ -22785,48 +22842,6 @@
    "brand": "Samsung",
    "name": "Galaxy Tab Q",
    "model": "SM-T2519"
-  }
- ],
- "ikebukuro": [
-  {
-   "brand": "Changhong",
-   "name": "AP(Indonesia etc.)/MENA",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Changhong",
-   "name": "AP(Indonesia etc.)/MENA",
-   "model": "CHiQ AI Center"
-  },
-  {
-   "brand": "Condor",
-   "name": "Algeria",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "Russia",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Micromax",
-   "name": "India",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "SHINON",
-   "name": "Iraq",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Thomson",
-   "name": "Algeria",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Vu Televisions",
-   "name": "India",
-   "model": "AI PONT"
   }
  ],
  "GIU6060": [
@@ -44424,6 +44439,13 @@
    "model": "HT70"
   }
  ],
+ "HT80": [
+  {
+   "brand": "HOMTOM",
+   "name": "HT80",
+   "model": "HT80"
+  }
+ ],
  "P30_Pro": [
   {
    "brand": "HOMTOM",
@@ -50300,6 +50322,13 @@
    "brand": "Hi TFG",
    "name": "Spitfire",
    "model": "Spitfire"
+  }
+ ],
+ "HMR5450": [
+  {
+   "brand": "Hi-online",
+   "name": "HMR5450",
+   "model": "HMR5450"
   }
  ],
  "Bay": [
@@ -76193,6 +76222,11 @@
    "brand": "LGE",
    "name": "K61",
    "model": "LM-Q630"
+  },
+  {
+   "brand": "LGE",
+   "name": "Q61",
+   "model": "LM-Q630N"
   }
  ],
  "luv80ds": [
@@ -78333,6 +78367,13 @@
    "brand": "LGE",
    "name": "LG L39C",
    "model": "LGL39C"
+  }
+ ],
+ "mdh10lm": [
+  {
+   "brand": "LGE",
+   "name": "LG L455DL",
+   "model": "LGL455DL"
   }
  ],
  "c50": [
@@ -136241,6 +136282,11 @@
   {
    "brand": "Samsung",
    "name": "Galaxy Tab S6 Lite",
+   "model": "SM-P615C"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S6 Lite",
    "model": "SM-P615N"
   },
   {
@@ -146702,6 +146748,11 @@
    "brand": "Starlight",
    "name": "Milan",
    "model": "Milan"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3X",
+   "model": "5061U_EEA"
   }
  ],
  "Milan_Pro": [
@@ -162837,20 +162888,6 @@
    "model": "vivo 1609"
   }
  ],
- "1818": [
-  {
-   "brand": "Vivo",
-   "name": "1818",
-   "model": "vivo 1818"
-  }
- ],
- "1818N": [
-  {
-   "brand": "Vivo",
-   "name": "1818N",
-   "model": "vivo 1818"
-  }
- ],
  "I1928": [
   {
    "brand": "Vivo",
@@ -163927,6 +163964,20 @@
    "brand": "Vivo",
    "name": "vivo 1817",
    "model": "vivo 1817"
+  }
+ ],
+ "1818": [
+  {
+   "brand": "Vivo",
+   "name": "vivo 1818",
+   "model": "vivo 1818"
+  }
+ ],
+ "1818N": [
+  {
+   "brand": "Vivo",
+   "name": "vivo 1818",
+   "model": "vivo 1818"
   }
  ],
  "PD1832": [
@@ -177350,6 +177401,13 @@
    "model": "ZTE A2020U Pro"
   }
  ],
+ "P725A12": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Axon 11 5G",
+   "model": "ZTE A2021"
+  }
+ ],
  "P809F12": [
   {
    "brand": "ZTE",
@@ -179278,6 +179336,11 @@
   {
    "brand": "eBox",
    "name": "EBoxTv",
+   "model": "EboxTV"
+  },
+  {
+   "brand": "eBox",
+   "name": "Ebox",
    "model": "EboxTV"
   }
  ],

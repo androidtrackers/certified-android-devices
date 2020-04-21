@@ -11308,6 +11308,11 @@
    "model": "B50_CHT"
   },
   {
+   "device": "ikebukuro",
+   "name": "China Taiwan",
+   "model": "AI PONT"
+  },
+  {
    "device": "samseong",
    "name": "China Taiwan",
    "model": "AI PONT"
@@ -31413,6 +31418,11 @@
    "model": "HT70"
   },
   {
+   "device": "HT80",
+   "name": "HT80",
+   "model": "HT80"
+  },
+  {
    "device": "P30_Pro",
    "name": "P30 pro",
    "model": "P30 Pro"
@@ -36232,6 +36242,13 @@
    "device": "Spitfire",
    "name": "Spitfire",
    "model": "Spitfire"
+  }
+ ],
+ "Hi-online": [
+  {
+   "device": "HMR5450",
+   "name": "HMR5450",
+   "model": "HMR5450"
   }
  ],
  "HighScreen": [
@@ -59252,6 +59269,11 @@
    "model": "LGL39C"
   },
   {
+   "device": "mdh10lm",
+   "name": "LG L455DL",
+   "model": "LGL455DL"
+  },
+  {
    "device": "c50",
    "name": "LG LEON™ LTE",
    "model": "LG-H345"
@@ -62095,6 +62117,11 @@
    "device": "mdh30lm",
    "name": "Q51",
    "model": "LM-Q510N"
+  },
+  {
+   "device": "mdh40lm",
+   "name": "Q61",
+   "model": "LM-Q630N"
   },
   {
    "device": "anna",
@@ -92958,6 +92985,11 @@
  ],
  "Realme": [
   {
+   "device": "ikebukuro",
+   "name": "India",
+   "model": "AI PONT"
+  },
+  {
    "device": "RMX1801",
    "name": "realme 2 Pro",
    "model": "RMX1801"
@@ -105429,6 +105461,11 @@
   {
    "device": "gta4xl",
    "name": "Galaxy Tab S6 Lite",
+   "model": "SM-P615C"
+  },
+  {
+   "device": "gta4xl",
+   "name": "Galaxy Tab S6 Lite",
    "model": "SM-P615N"
   },
   {
@@ -114443,6 +114480,11 @@
  ],
  "Syinix": [
   {
+   "device": "ikebukuro",
+   "name": "Africa & Asia Pacific",
+   "model": "AI PONT"
+  },
+  {
    "device": "samseong",
    "name": "Africa & Asia Pacific",
    "model": "AI PONT"
@@ -118836,6 +118878,11 @@
    "device": "A3A_PLUS",
    "name": "Alcatel 3X",
    "model": "5058Y"
+  },
+  {
+   "device": "Milan",
+   "name": "Alcatel 3X",
+   "model": "5061U_EEA"
   },
   {
    "device": "Venice",
@@ -128036,16 +128083,6 @@
    "model": "vivo 1609"
   },
   {
-   "device": "1818",
-   "name": "1818",
-   "model": "vivo 1818"
-  },
-  {
-   "device": "1818N",
-   "name": "1818N",
-   "model": "vivo 1818"
-  },
-  {
    "device": "I1928",
    "name": "I1927",
    "model": "I1927"
@@ -128804,6 +128841,16 @@
    "device": "1817",
    "name": "vivo 1817",
    "model": "vivo 1817"
+  },
+  {
+   "device": "1818",
+   "name": "vivo 1818",
+   "model": "vivo 1818"
+  },
+  {
+   "device": "1818N",
+   "name": "vivo 1818",
+   "model": "vivo 1818"
   },
   {
    "device": "PD1832",
@@ -140417,6 +140464,11 @@
    "model": "ZTE A2020N3 Pro"
   },
   {
+   "device": "P725A12",
+   "name": "ZTE Axon 11 5G",
+   "model": "ZTE A2021"
+  },
+  {
    "device": "P809F15",
    "name": "ZTE BLADE A0605",
    "model": "ZTE BLADE A0605"
@@ -142305,6 +142357,11 @@
   {
    "device": "diw387eb",
    "name": "EBoxTv",
+   "model": "EboxTV"
+  },
+  {
+   "device": "diw387eb",
+   "name": "Ebox",
    "model": "EboxTV"
   }
  ],
