@@ -42997,6 +42997,13 @@
    "device": "nami_cheets"
   }
  ],
+ "kukui": [
+  {
+   "brand": "Google",
+   "name": "Mediatek MT8183 Tablet",
+   "device": "kukui_cheets"
+  }
+ ],
  "Lenovo N23 Yoga/Flex 11 Chromebook": [
   {
    "brand": "Google",
@@ -50025,6 +50032,13 @@
    "brand": "Haus",
    "name": "HAUS JS408",
    "device": "HAUS_JS408"
+  }
+ ],
+ "JS409": [
+  {
+   "brand": "Haus",
+   "name": "JS409",
+   "device": "JS409"
   }
  ],
  "JS550": [
@@ -75522,6 +75536,13 @@
   }
  ],
  "8076": [
+  {
+   "brand": "Kurio",
+   "name": "Kurio Tab",
+   "device": "Hulk_7_KIDS_WIFI"
+  }
+ ],
+ "8076_EEA": [
   {
    "brand": "Kurio",
    "name": "Kurio Tab",
@@ -121442,6 +121463,13 @@
    "brand": "Pritom",
    "name": "P7PRO_EEA",
    "device": "P7PRO_EEA"
+  }
+ ],
+ "M10 Pro": [
+  {
+   "brand": "Pritom",
+   "name": "USA",
+   "device": "M10"
   }
  ],
  "T1700Q": [

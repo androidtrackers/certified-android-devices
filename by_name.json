@@ -40557,6 +40557,11 @@
    "brand": "Ematic",
    "device": "Jetstream",
    "model": "AGT418"
+  },
+  {
+   "brand": "Pritom",
+   "device": "M10",
+   "model": "M10 Pro"
   }
  ],
  "EM_I8180": [
@@ -49004,6 +49009,13 @@
    "model": "nami"
   }
  ],
+ "Mediatek MT8183 Tablet": [
+  {
+   "brand": "Google",
+   "device": "kukui_cheets",
+   "model": "kukui"
+  }
+ ],
  "Mediatek MTK8173 Chromebook": [
   {
    "brand": "Google",
@@ -55392,6 +55404,13 @@
    "brand": "Haus",
    "device": "HAUS_JS408",
    "model": "HAUS JS408"
+  }
+ ],
+ "JS409": [
+  {
+   "brand": "Haus",
+   "device": "JS409",
+   "model": "JS409"
   }
  ],
  "JS550": [
@@ -77350,6 +77369,11 @@
    "brand": "Kurio",
    "device": "Hulk_7_KIDS_WIFI",
    "model": "8076"
+  },
+  {
+   "brand": "Kurio",
+   "device": "Hulk_7_KIDS_WIFI",
+   "model": "8076_EEA"
   }
  ],
  "TabGo Next Connect": [

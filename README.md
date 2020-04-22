@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-04-21
+Last sync is 2020-04-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5948,6 +5948,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Intel Comet Lake U Chromebook|hatch_cheets|hatch|
 |Google|Intel Gemini Lake Chromebook|octopus_cheets|octopus|
 |Google|Intel Kaby Lake U Chromebook|nami_cheets|nami|
+|Google|Mediatek MT8183 Tablet|kukui_cheets|kukui|
 |Google|Mediatek MTK8173 Chromebook|hana_cheets|Lenovo N23 Yoga/Flex 11 Chromebook|
 |Google|Mediatek MTK8173 Chromebook|hana_cheets|Mediatek MT8173 Chromebook|
 |Google|Mediatek MTK8173 Chromebook|hana_cheets|Mediatek MTK8173 Chromebook|
@@ -6992,6 +6993,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hathway|DVB-ATV100|SEI111H|DVB-ATV100|
 |Hathway|OTH-100|SEI103|OTH-100|
 |Haus|HAUS JS408|HAUS_JS408|HAUS JS408|
+|Haus|JS409|JS409|JS409|
 |Haus|JS550|JS550|JS550|
 |Helio|Helio S5|Helio_S5|Helio S5|
 |Helio|S10|S10|S10|
@@ -10793,6 +10795,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kult|Kult Ambition|Ambition|Ambition|
 |Kult|Kult Beyond|Beyond|Beyond|
 |Kurio|Kurio Tab|Hulk_7_KIDS_WIFI|8076|
+|Kurio|Kurio Tab|Hulk_7_KIDS_WIFI|8076_EEA|
 |Kurio|TabGo Next Connect|M7006A|01519|
 |Kyocera||SCP-8600|Zio|
 |Kyocera||WX06K|WX06K|
@@ -17739,6 +17742,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|K7|K7|K7|
 |Pritom|P7PRO|P7PRO|P7PRO|
 |Pritom|P7PRO_EEA|P7PRO_EEA|P7PRO_EEA|
+|Pritom|USA|M10|M10 Pro|
 |Prixton|T1700Q|T1700Q|T1700Q|
 |Prixton|T1800Q＿Plus|T1800Q_Plus|T1800Q Plus|
 |Prixton|T7014Q_Plus|T7014Q_Plus|T7014Q_Plus|

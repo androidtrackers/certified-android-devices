@@ -33342,6 +33342,11 @@
    "model": "M10"
   },
   {
+   "brand": "Pritom",
+   "name": "USA",
+   "model": "M10 Pro"
+  },
+  {
    "brand": "Snopow",
    "name": "M10",
    "model": "M10"
@@ -43752,6 +43757,13 @@
    "model": "nami"
   }
  ],
+ "kukui_cheets": [
+  {
+   "brand": "Google",
+   "name": "Mediatek MT8183 Tablet",
+   "model": "kukui"
+  }
+ ],
  "hana_cheets": [
   {
    "brand": "Google",
@@ -50226,6 +50238,13 @@
    "brand": "Haus",
    "name": "HAUS JS408",
    "model": "HAUS JS408"
+  }
+ ],
+ "JS409": [
+  {
+   "brand": "Haus",
+   "name": "JS409",
+   "model": "JS409"
   }
  ],
  "JS550": [
@@ -73237,6 +73256,11 @@
    "brand": "Kurio",
    "name": "Kurio Tab",
    "model": "8076"
+  },
+  {
+   "brand": "Kurio",
+   "name": "Kurio Tab",
+   "model": "8076_EEA"
   },
   {
    "brand": "TCL",

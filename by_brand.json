@@ -30874,6 +30874,11 @@
    "model": "nami"
   },
   {
+   "device": "kukui_cheets",
+   "name": "Mediatek MT8183 Tablet",
+   "model": "kukui"
+  },
+  {
    "device": "hana_cheets",
    "name": "Mediatek MTK8173 Chromebook",
    "model": "Lenovo N23 Yoga/Flex 11 Chromebook"
@@ -36160,6 +36165,11 @@
    "device": "HAUS_JS408",
    "name": "HAUS JS408",
    "model": "HAUS JS408"
+  },
+  {
+   "device": "JS409",
+   "name": "JS409",
+   "model": "JS409"
   },
   {
    "device": "JS550",
@@ -55511,6 +55521,11 @@
    "device": "Hulk_7_KIDS_WIFI",
    "name": "Kurio Tab",
    "model": "8076"
+  },
+  {
+   "device": "Hulk_7_KIDS_WIFI",
+   "name": "Kurio Tab",
+   "model": "8076_EEA"
   },
   {
    "device": "M7006A",
@@ -90993,6 +91008,11 @@
    "device": "P7PRO_EEA",
    "name": "P7PRO_EEA",
    "model": "P7PRO_EEA"
+  },
+  {
+   "device": "M10",
+   "name": "USA",
+   "model": "M10 Pro"
   }
  ],
  "Prixton": [
