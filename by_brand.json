@@ -13065,6 +13065,11 @@
    "model": "G9 PRO"
   },
   {
+   "device": "G0310WW",
+   "name": "G90",
+   "model": "G90"
+  },
+  {
    "device": "BLU_GRAND_5_5_HD",
    "name": "GRAND 5.5 HD",
    "model": "BLU GRAND 5.5 HD"
@@ -50005,6 +50010,11 @@
    "model": "Infinix X690B"
   },
   {
+   "device": "Infinix-X690C",
+   "name": "NOTE 7",
+   "model": "Infinix X690C"
+  },
+  {
    "device": "Infinix-X610",
    "name": "Note 6",
    "model": "Infinix X610B"
@@ -59289,6 +59299,11 @@
    "model": "LGL455DL"
   },
   {
+   "device": "mdh10lm",
+   "name": "LG L455DL",
+   "model": "LM-K400"
+  },
+  {
    "device": "c50",
    "name": "LG LEON™ LTE",
    "model": "LG-H345"
@@ -62132,6 +62147,11 @@
    "device": "mdh30lm",
    "name": "Q51",
    "model": "LM-Q510N"
+  },
+  {
+   "device": "mdh40lm",
+   "name": "Q61",
+   "model": "LM-Q630"
   },
   {
    "device": "mdh40lm",
@@ -107639,6 +107659,11 @@
    "model": "AQUOS-8KTVJ19"
   },
   {
+   "device": "tcme8tsj",
+   "name": "8T-C**CX1",
+   "model": "AQUOS-8KTVJ20"
+  },
+  {
    "device": "lcd_xxgae9a",
    "name": "8T-CxxAXAA",
    "model": "LCD-xxGAE9A"
@@ -114810,6 +114835,11 @@
    "device": "Z25",
    "name": "Z25",
    "model": "Z25"
+  },
+  {
+   "device": "Z30",
+   "name": "Z30",
+   "model": "Z30"
   },
   {
    "device": "ZVII",
@@ -122888,6 +122918,11 @@
    "model": "TECNO BB4k"
   },
   {
+   "device": "TECNO-KD6",
+   "name": "SPARK 5 Air",
+   "model": "TECNO KD6"
+  },
+  {
    "device": "TECNO-KA9",
    "name": "SPARK CM",
    "model": "TECNO KA9"
@@ -128148,11 +128183,6 @@
    "model": "vivo V1"
   },
   {
-   "device": "1907N",
-   "name": "V17 Neo",
-   "model": "vivo 1907"
-  },
-  {
    "device": "PD1730E",
    "name": "V1730EA",
    "model": "V1730EA"
@@ -128914,6 +128944,11 @@
   },
   {
    "device": "1907",
+   "name": "vivo 1907",
+   "model": "vivo 1907"
+  },
+  {
+   "device": "1907N",
    "name": "vivo 1907",
    "model": "vivo 1907"
   },

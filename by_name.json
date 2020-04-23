@@ -24586,6 +24586,13 @@
    "model": "G9 PRO"
   }
  ],
+ "G90": [
+  {
+   "brand": "Blu",
+   "device": "G0310WW",
+   "model": "G90"
+  }
+ ],
  "GRAND 5.5 HD": [
   {
    "brand": "Blu",
@@ -70361,6 +70368,11 @@
    "brand": "Infinix",
    "device": "Infinix-X690B",
    "model": "Infinix X690B"
+  },
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X690C",
+   "model": "Infinix X690C"
   }
  ],
  "Note 6": [
@@ -81030,6 +81042,11 @@
    "brand": "LGE",
    "device": "mdh10lm",
    "model": "LGL455DL"
+  },
+  {
+   "brand": "LGE",
+   "device": "mdh10lm",
+   "model": "LM-K400"
   }
  ],
  "LG LEON™ LTE": [
@@ -84275,6 +84292,11 @@
   {
    "brand": "LGE",
    "device": "mdh40lm",
+   "model": "LM-Q630"
+  },
+  {
+   "brand": "LGE",
+   "device": "mdh40lm",
    "model": "LM-Q630N"
   }
  ],
@@ -86532,6 +86554,11 @@
    "brand": "Lava",
    "device": "AN9910",
    "model": "AN9910"
+  },
+  {
+   "brand": "Symphony",
+   "device": "Z30",
+   "model": "Z30"
   }
  ],
  "Z40": [
@@ -137032,6 +137059,13 @@
    "model": "AQUOS-8KTVJ19"
   }
  ],
+ "8T-C**CX1": [
+  {
+   "brand": "Sharp",
+   "device": "tcme8tsj",
+   "model": "AQUOS-8KTVJ20"
+  }
+ ],
  "8T-CxxAXAA": [
   {
    "brand": "Sharp",
@@ -154415,6 +154449,13 @@
    "model": "TECNO BB4k"
   }
  ],
+ "SPARK 5 Air": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KD6",
+   "model": "TECNO KD6"
+  }
+ ],
  "SPARK CM": [
   {
    "brand": "Tecno",
@@ -160515,13 +160556,6 @@
    "model": "vivo Y71A"
   }
  ],
- "V17 Neo": [
-  {
-   "brand": "Vivo",
-   "device": "1907N",
-   "model": "vivo 1907"
-  }
- ],
  "V1730EA": [
   {
    "brand": "Vivo",
@@ -161496,6 +161530,11 @@
   {
    "brand": "Vivo",
    "device": "1907",
+   "model": "vivo 1907"
+  },
+  {
+   "brand": "Vivo",
+   "device": "1907N",
    "model": "vivo 1907"
   }
  ],

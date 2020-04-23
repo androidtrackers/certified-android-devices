@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-04-22
+Last sync is 2020-04-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2545,6 +2545,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G9|G0130WW_SR|G9|
 |Blu|G9 PRO|G0230WW|G9 PRO|
 |Blu|G9 PRO|G0231WW|G9 PRO|
+|Blu|G90|G0310WW|G90|
 |Blu|GRAND 5.5 HD|BLU_GRAND_5_5_HD|BLU GRAND 5.5 HD|
 |Blu|Grand 5.5 HD II|G210Q|Grand 5.5 HD II|
 |Blu|Grand Energy|Grand_Energy|Grand Energy|
@@ -9731,6 +9732,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|NOTE 4 Pro|Infinix-X571|Infinix X571-LTE|
 |Infinix|NOTE 7|Infinix-X690|Infinix X690|
 |Infinix|NOTE 7|Infinix-X690B|Infinix X690B|
+|Infinix|NOTE 7|Infinix-X690C|Infinix X690C|
 |Infinix|Note 6|Infinix-X610|Infinix X610B|
 |Infinix|RACE Blot2|Infinix_X454|Infinix X454|
 |Infinix|RACE Bolt 3|X455|Infinix X455|
@@ -11545,6 +11547,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG K9|cv109|LM-X210|
 |LGE|LG L39C|l4ii_cdma|LGL39C|
 |LGE|LG L455DL|mdh10lm|LGL455DL|
+|LGE|LG L455DL|mdh10lm|LM-K400|
 |LGE|LG LEON™ LTE|c50|LG-H345|
 |LGE|LG Lancet|c50|VS820|
 |LGE|LG Leon|my50|LG-H320|
@@ -12114,6 +12117,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|Premier|m209|LGL61AL|
 |LGE|Premier|m209|LGL62VL|
 |LGE|Q51|mdh30lm|LM-Q510N|
+|LGE|Q61|mdh40lm|LM-Q630|
 |LGE|Q61|mdh40lm|LM-Q630N|
 |LGE|Q8|anna|LG-H970|
 |LGE|Q8|anna|LGM-X800K|
@@ -21015,6 +21019,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|4T-C60BK2UD|guro|AQUOS-TVU19A|
 |Sharp|507SH|eve_sprout|507SH|
 |Sharp|8T-C**BW1|tcme8sj|AQUOS-8KTVJ19|
+|Sharp|8T-C**CX1|tcme8tsj|AQUOS-8KTVJ20|
 |Sharp|8T-CxxAXAA|lcd_xxgae9a|LCD-xxGAE9A|
 |Sharp|A01SH|A01SH|A01SH|
 |Sharp|A1|TSL|FS8002|
@@ -22416,6 +22421,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|Z15|Z15|Z15|
 |Symphony|Z20|Z20|Z20|
 |Symphony|Z25|Z25|Z25|
+|Symphony|Z30|Z30|Z30|
 |Symphony|ZVII|ZVII|ZVII|
 |Symphony|ZVIII|ZVIII|ZVIII|
 |Symphony|i10|i10|i10|
@@ -24010,6 +24016,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|SPARK 4|TECNO-KC8|TECNO KC8|
 |Tecno|SPARK 4|TECNO-KC8S|TECNO KC8S|
 |Tecno|SPARK 4 Lite|TECNO-BB4k|TECNO BB4k|
+|Tecno|SPARK 5 Air|TECNO-KD6|TECNO KD6|
 |Tecno|SPARK CM|TECNO-KA9|TECNO KA9|
 |Tecno|SPARK Go Plus|TECNO-BB4k|TECNO BB4k|
 |Tecno|SPARK Plus|TECNO-K9|TECNO K9|
@@ -25006,7 +25013,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|PD1612|PD1612|vivo Y67|
 |Vivo|PD1731D|PD1731D|vivo Y71A|
 |Vivo|V1|V1|vivo V1|
-|Vivo|V17 Neo|1907N|vivo 1907|
 |Vivo|V1730EA|PD1730E|V1730EA|
 |Vivo|V1731CA|PD1731C|V1731CA|
 |Vivo|V1732A|PD1732|V1732A|
@@ -25160,6 +25166,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo 1904|1904|vivo 1904|
 |Vivo|vivo 1906|1906|vivo 1906|
 |Vivo|vivo 1907|1907|vivo 1907|
+|Vivo|vivo 1907|1907N|vivo 1907|
 |Vivo|vivo 1909|1909|vivo 1909|
 |Vivo|vivo 1910|1910|vivo 1910|
 |Vivo|vivo 1910|1910N|vivo 1910|

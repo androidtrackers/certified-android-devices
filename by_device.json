@@ -19233,6 +19233,13 @@
    "model": "G9 PRO"
   }
  ],
+ "G0310WW": [
+  {
+   "brand": "Blu",
+   "name": "G90",
+   "model": "G90"
+  }
+ ],
  "BLU_GRAND_5_5_HD": [
   {
    "brand": "Blu",
@@ -66216,6 +66223,13 @@
    "model": "Infinix X690B"
   }
  ],
+ "Infinix-X690C": [
+  {
+   "brand": "Infinix",
+   "name": "NOTE 7",
+   "model": "Infinix X690C"
+  }
+ ],
  "Infinix-X610": [
   {
    "brand": "Infinix",
@@ -76250,6 +76264,11 @@
   {
    "brand": "LGE",
    "name": "Q61",
+   "model": "LM-Q630"
+  },
+  {
+   "brand": "LGE",
+   "name": "Q61",
    "model": "LM-Q630N"
   }
  ],
@@ -78398,6 +78417,11 @@
    "brand": "LGE",
    "name": "LG L455DL",
    "model": "LGL455DL"
+  },
+  {
+   "brand": "LGE",
+   "name": "LG L455DL",
+   "model": "LM-K400"
   }
  ],
  "c50": [
@@ -138893,6 +138917,13 @@
    "model": "AQUOS-8KTVJ19"
   }
  ],
+ "tcme8tsj": [
+  {
+   "brand": "Sharp",
+   "name": "8T-C**CX1",
+   "model": "AQUOS-8KTVJ20"
+  }
+ ],
  "lcd_xxgae9a": [
   {
    "brand": "Sharp",
@@ -148065,6 +148096,13 @@
    "model": "Z20"
   }
  ],
+ "Z30": [
+  {
+   "brand": "Symphony",
+   "name": "Z30",
+   "model": "Z30"
+  }
+ ],
  "ZVII": [
   {
    "brand": "Symphony",
@@ -156891,6 +156929,13 @@
    "model": "TECNO BB4k"
   }
  ],
+ "TECNO-KD6": [
+  {
+   "brand": "Tecno",
+   "name": "SPARK 5 Air",
+   "model": "TECNO KD6"
+  }
+ ],
  "TECNO-KA9": [
   {
    "brand": "Tecno",
@@ -162969,13 +163014,6 @@
    "model": "vivo Y71A"
   }
  ],
- "1907N": [
-  {
-   "brand": "Vivo",
-   "name": "V17 Neo",
-   "model": "vivo 1907"
-  }
- ],
  "PD1730E": [
   {
    "brand": "Vivo",
@@ -164051,6 +164089,13 @@
    "brand": "Vivo",
    "name": "vivo 1906",
    "model": "vivo 1906"
+  }
+ ],
+ "1907N": [
+  {
+   "brand": "Vivo",
+   "name": "vivo 1907",
+   "model": "vivo 1907"
   }
  ],
  "1909": [

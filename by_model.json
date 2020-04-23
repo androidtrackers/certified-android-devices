@@ -18707,6 +18707,13 @@
    "device": "G0231WW"
   }
  ],
+ "G90": [
+  {
+   "brand": "Blu",
+   "name": "G90",
+   "device": "G0310WW"
+  }
+ ],
  "BLU GRAND 5.5 HD": [
   {
    "brand": "Blu",
@@ -68379,6 +68386,13 @@
    "device": "Infinix-X690B"
   }
  ],
+ "Infinix X690C": [
+  {
+   "brand": "Infinix",
+   "name": "NOTE 7",
+   "device": "Infinix-X690C"
+  }
+ ],
  "Infinix X610B": [
   {
    "brand": "Infinix",
@@ -78469,6 +78483,11 @@
    "brand": "LGE",
    "name": "K61",
    "device": "mdh40lm"
+  },
+  {
+   "brand": "LGE",
+   "name": "Q61",
+   "device": "mdh40lm"
   }
  ],
  "LG-D335": [
@@ -80975,6 +80994,13 @@
   }
  ],
  "LGL455DL": [
+  {
+   "brand": "LGE",
+   "name": "LG L455DL",
+   "device": "mdh10lm"
+  }
+ ],
+ "LM-K400": [
   {
    "brand": "LGE",
    "name": "LG L455DL",
@@ -143720,6 +143746,13 @@
    "device": "tcme8sj"
   }
  ],
+ "AQUOS-8KTVJ20": [
+  {
+   "brand": "Sharp",
+   "name": "8T-C**CX1",
+   "device": "tcme8tsj"
+  }
+ ],
  "LCD-xxGAE9A": [
   {
    "brand": "Sharp",
@@ -152888,6 +152921,13 @@
    "brand": "Symphony",
    "name": "Z20",
    "device": "Z20"
+  }
+ ],
+ "Z30": [
+  {
+   "brand": "Symphony",
+   "name": "Z30",
+   "device": "Z30"
   }
  ],
  "ZVII": [
@@ -163778,6 +163818,13 @@
    "device": "TECNO-BB4k"
   }
  ],
+ "TECNO KD6": [
+  {
+   "brand": "Tecno",
+   "name": "SPARK 5 Air",
+   "device": "TECNO-KD6"
+  }
+ ],
  "TECNO KA9": [
   {
    "brand": "Tecno",
@@ -170087,23 +170134,6 @@
    "device": "V1"
   }
  ],
- "vivo 1907": [
-  {
-   "brand": "Vivo",
-   "name": "V17 Neo",
-   "device": "1907N"
-  },
-  {
-   "brand": "Vivo",
-   "name": "vivo  1907",
-   "device": "1907"
-  },
-  {
-   "brand": "Vivo",
-   "name": "vivo 1907",
-   "device": "1907"
-  }
- ],
  "V1730EA": [
   {
    "brand": "Vivo",
@@ -170878,6 +170908,23 @@
    "brand": "Vivo",
    "name": "Z1 Pro",
    "device": "1951"
+  }
+ ],
+ "vivo 1907": [
+  {
+   "brand": "Vivo",
+   "name": "vivo  1907",
+   "device": "1907"
+  },
+  {
+   "brand": "Vivo",
+   "name": "vivo 1907",
+   "device": "1907"
+  },
+  {
+   "brand": "Vivo",
+   "name": "vivo 1907",
+   "device": "1907N"
   }
  ],
  "vivo X21i A": [
