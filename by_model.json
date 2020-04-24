@@ -2740,6 +2740,11 @@
    "device": "R1"
   },
   {
+   "brand": "Master-G",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
    "brand": "Micromax",
    "name": "R1",
    "device": "R1"
@@ -2803,6 +2808,11 @@
   },
   {
    "brand": "Erito",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Master-G",
    "name": "Android TV",
    "device": "R2"
   },
@@ -90931,6 +90941,11 @@
   {
    "brand": "Lenovo",
    "name": "Lenovo Tab M10 FHD Plus",
+   "device": "X606X"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M10 Plus",
    "device": "X606X"
   }
  ],

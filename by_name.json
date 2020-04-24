@@ -8432,6 +8432,16 @@
    "model": "LG Google TV G3 KR"
   },
   {
+   "brand": "Master-G",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Master-G",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
    "brand": "Micromax",
    "device": "R2",
    "model": "ATV R2"
@@ -89859,6 +89869,11 @@
    "brand": "Lenovo",
    "device": "X606V",
    "model": "Lenovo TB-X606V"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "X606X",
+   "model": "Lenovo TB-X606X"
   }
  ],
  "Lenovo Tab M7": [

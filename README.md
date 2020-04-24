@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-04-23
+Last sync is 2020-04-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13100,6 +13100,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M10 FHD Plus|X606X|Lenovo TB-X606X|
 |Lenovo|Lenovo Tab M10 FHD Rel|801LV|801LV|
 |Lenovo|Lenovo Tab M10 Plus|X606V|Lenovo TB-X606V|
+|Lenovo|Lenovo Tab M10 Plus|X606X|Lenovo TB-X606X|
 |Lenovo|Lenovo Tab M7|7305F|Lenovo TB-7305F|
 |Lenovo|Lenovo Tab M7|7305I|Lenovo TB-7305I|
 |Lenovo|Lenovo Tab M7|7305X|Lenovo TB-7305X|
@@ -13817,6 +13818,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Masstel|Tab8plus|Tab8Plus|Tab8Plus|
 |Masstel|X3|Masstel_X3|Masstel X3|
 |Masstel|X8|Masstel_X8|Masstel_X8|
+|Master-G|Android TV|R1|ATV R1|
+|Master-G|Android TV|R2|ATV R2|
 |MauritiusTelcom|HE2704|MTIPTVBox|HE2704|
 |Maxcom|MS453|MS453|MS453|
 |Maxcom|MS457|MS457|MS457|

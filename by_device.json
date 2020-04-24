@@ -2969,6 +2969,11 @@
    "model": "ATV R1"
   },
   {
+   "brand": "Master-G",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
    "brand": "Micromax",
    "name": "R1",
    "model": "ATV R1"
@@ -3044,6 +3049,11 @@
    "brand": "M4tel",
    "name": "M4 R2",
    "model": "M4_R2"
+  },
+  {
+   "brand": "Master-G",
+   "name": "Android TV",
+   "model": "ATV R2"
   },
   {
    "brand": "Micromax",
@@ -87522,6 +87532,11 @@
   {
    "brand": "Lenovo",
    "name": "Lenovo Tab M10 FHD Plus",
+   "model": "Lenovo TB-X606X"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M10 Plus",
    "model": "Lenovo TB-X606X"
   }
  ],

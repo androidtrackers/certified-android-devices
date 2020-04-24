@@ -67128,6 +67128,11 @@
    "model": "Lenovo TB-X606V"
   },
   {
+   "device": "X606X",
+   "name": "Lenovo Tab M10 Plus",
+   "model": "Lenovo TB-X606X"
+  },
+  {
    "device": "7305F",
    "name": "Lenovo Tab M7",
    "model": "Lenovo TB-7305F"
@@ -70865,6 +70870,18 @@
    "device": "Masstel_X8",
    "name": "X8",
    "model": "Masstel_X8"
+  }
+ ],
+ "Master-G": [
+  {
+   "device": "R1",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
   }
  ],
  "MauritiusTelcom": [
