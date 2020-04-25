@@ -6322,6 +6322,11 @@
    "model": "ATV R2"
   },
   {
+   "device": "shinagawa",
+   "name": "Artel 2K TV",
+   "model": "Artel 2K TV"
+  },
+  {
    "device": "Artel_Tomchi",
    "name": "Artel Tomchi",
    "model": "Artel Tomchi"
@@ -115285,6 +115290,11 @@
    "model": "T780H"
   },
   {
+   "device": "Milan",
+   "name": "TCL T Pro",
+   "model": "5161A"
+  },
+  {
    "device": "A5A_INFINI",
    "name": "TCL T7",
    "model": "5186A"
@@ -118945,6 +118955,11 @@
    "device": "A3A_PLUS",
    "name": "Alcatel 3X",
    "model": "5058Y"
+  },
+  {
+   "device": "Milan",
+   "name": "Alcatel 3X",
+   "model": "5061A"
   },
   {
    "device": "Milan",
@@ -129993,6 +130008,11 @@
    "model": "Joy 2+"
   },
   {
+   "device": "casuarina",
+   "name": "Joy 3",
+   "model": "Joy 3"
+  },
+  {
    "device": "V620A",
    "name": "Live",
    "model": "Live"
@@ -130001,6 +130021,11 @@
    "device": "V320A",
    "name": "Star",
    "model": "Star"
+  },
+  {
+   "device": "sugarcane",
+   "name": "Star 3",
+   "model": "Star 3"
   },
   {
    "device": "TR2001",

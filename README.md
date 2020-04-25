@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-04-24
+Last sync is 2020-04-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1230,6 +1230,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Artel|ALO|ALO|ALO|
 |Artel|Android TV|R1|ATV R1|
 |Artel|Android TV|R2|ATV R2|
+|Artel|Artel 2K TV|shinagawa|Artel 2K TV|
 |Artel|Artel Tomchi|Artel_Tomchi|Artel Tomchi|
 |Artel|Artel U5|U5|U5|
 |Artel|Artel_Premium|Artel_Premium|Artel Premium|
@@ -22507,6 +22508,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL L9S|Tokyo_Lite|5107J|
 |TCL|TCL PLEX|T1|T780H|
 |TCL|TCL PLEX|T1_L1|T780H|
+|TCL|TCL T Pro|Milan|5161A|
 |TCL|TCL T7|A5A_INFINI|5186A|
 |TCL|TCL T9|Venice|5148A|
 |TCL|TCL T9+|TokyoPro|5129A|
@@ -23239,6 +23241,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 3X|A3A_PLUS|5058J|
 |TCT (Alcatel)|Alcatel 3X|A3A_PLUS|5058T|
 |TCT (Alcatel)|Alcatel 3X|A3A_PLUS|5058Y|
+|TCT (Alcatel)|Alcatel 3X|Milan|5061A|
 |TCT (Alcatel)|Alcatel 3X|Milan|5061U_EEA|
 |TCT (Alcatel)|Alcatel 3X|Venice|5048A|
 |TCT (Alcatel)|Alcatel 3X|Venice|5048I|
@@ -25369,8 +25372,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vsmart|Joy 1 +|PQ4002|Joy 1+|
 |Vsmart|Joy 1+|PQ4002|Joy 1+|
 |Vsmart|Joy 2+|V420A|Joy 2+|
+|Vsmart|Joy 3|casuarina|Joy 3|
 |Vsmart|Live|V620A|Live|
 |Vsmart|Star|V320A|Star|
+|Vsmart|Star 3|sugarcane|Star 3|
 |Vsmart|VINATV 4K|TR2001|VINATV 4K|
 |Vsmart|Vietnam|samseong|VINATV 4K|
 |Vsun|MARS  Touch|MARS_TOUCH|MARS TOUCH|

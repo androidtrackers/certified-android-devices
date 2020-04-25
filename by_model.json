@@ -9420,6 +9420,13 @@
    "device": "ALO"
   }
  ],
+ "Artel 2K TV": [
+  {
+   "brand": "Artel",
+   "name": "Artel 2K TV",
+   "device": "shinagawa"
+  }
+ ],
  "Artel Tomchi": [
   {
    "brand": "Artel",
@@ -153491,6 +153498,13 @@
    "device": "T1_L1"
   }
  ],
+ "5161A": [
+  {
+   "brand": "TCL",
+   "name": "TCL T Pro",
+   "device": "Milan"
+  }
+ ],
  "5186A": [
   {
    "brand": "TCL",
@@ -158664,6 +158678,13 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 3X",
    "device": "A3A_PLUS"
+  }
+ ],
+ "5061A": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3X",
+   "device": "Milan"
   }
  ],
  "5061U_EEA": [
@@ -172433,11 +172454,25 @@
    "device": "V420A"
   }
  ],
+ "Joy 3": [
+  {
+   "brand": "Vsmart",
+   "name": "Joy 3",
+   "device": "casuarina"
+  }
+ ],
  "Star": [
   {
    "brand": "Vsmart",
    "name": "Star",
    "device": "V320A"
+  }
+ ],
+ "Star 3": [
+  {
+   "brand": "Vsmart",
+   "name": "Star 3",
+   "device": "sugarcane"
   }
  ],
  "VINATV 4K": [

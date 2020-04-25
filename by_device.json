@@ -4968,6 +4968,11 @@
    "model": "Allview 2K TV"
   },
   {
+   "brand": "Artel",
+   "name": "Artel 2K TV",
+   "model": "Artel 2K TV"
+  },
+  {
    "brand": "Iris",
    "name": "Iris 2K TV",
    "model": "Iris 2K TV"
@@ -146820,6 +146825,16 @@
    "model": "Milan"
   },
   {
+   "brand": "TCL",
+   "name": "TCL T Pro",
+   "model": "5161A"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3X",
+   "model": "5061A"
+  },
+  {
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 3X",
    "model": "5061U_EEA"
@@ -165350,6 +165365,13 @@
    "model": "Joy 2+"
   }
  ],
+ "casuarina": [
+  {
+   "brand": "Vsmart",
+   "name": "Joy 3",
+   "model": "Joy 3"
+  }
+ ],
  "V620A": [
   {
    "brand": "Vsmart",
@@ -165362,6 +165384,13 @@
    "brand": "Vsmart",
    "name": "Star",
    "model": "Star"
+  }
+ ],
+ "sugarcane": [
+  {
+   "brand": "Vsmart",
+   "name": "Star 3",
+   "model": "Star 3"
   }
  ],
  "TR2001": [
