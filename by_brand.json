@@ -39460,6 +39460,11 @@
    "model": "HAT4KDTV"
   },
   {
+   "device": "laoshan",
+   "name": "laoshan_laser",
+   "model": "HAT4KDTV"
+  },
+  {
    "device": "LT971",
    "name": "lt971",
    "model": "LT971"
@@ -130033,6 +130038,11 @@
    "model": "VINATV 4K"
   },
   {
+   "device": "TR2002",
+   "name": "VINTV 2K",
+   "model": "VINTV 2K"
+  },
+  {
    "device": "samseong",
    "name": "Vietnam",
    "model": "VINATV 4K"
@@ -132756,9 +132766,19 @@
    "model": "2013022"
   },
   {
+   "device": "lmi",
+   "name": "K30 PRO",
+   "model": "POCO F2 Pro"
+  },
+  {
    "device": "lmiinpro",
    "name": "K30 PRO",
    "model": "Redmi K30 Pro 5G Zoom Edition"
+  },
+  {
+   "device": "lmi",
+   "name": "K30 Pro",
+   "model": "POCO F2 Pro"
   },
   {
    "device": "lmiin",
@@ -133109,6 +133129,11 @@
    "device": "cmi",
    "name": "Mi 10 Pro",
    "model": "Mi 10 Pro"
+  },
+  {
+   "device": "monet",
+   "name": "Mi 10 lite 5G",
+   "model": "M2002J9G"
   },
   {
    "device": "pisces",

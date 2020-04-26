@@ -17102,6 +17102,11 @@
    "model": "HAT4KDTV"
   },
   {
+   "brand": "Hisense",
+   "name": "laoshan_laser",
+   "model": "HAT4KDTV"
+  },
+  {
    "brand": "Toshiba",
    "name": "Taiwan",
    "model": "U7900"
@@ -120714,6 +120719,16 @@
    "brand": "Redmi",
    "name": "K30 PRO",
    "model": "Redmi K30 Pro"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "K30 PRO",
+   "model": "POCO F2 Pro"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "K30 Pro",
+   "model": "POCO F2 Pro"
   }
  ],
  "raphaelin": [
@@ -165400,6 +165415,13 @@
    "model": "VINATV 4K"
   }
  ],
+ "TR2002": [
+  {
+   "brand": "Vsmart",
+   "name": "VINTV 2K",
+   "model": "VINTV 2K"
+  }
+ ],
  "MARS_TOUCH": [
   {
    "brand": "Vsun",
@@ -168991,6 +169013,13 @@
    "brand": "Xiaomi",
    "name": "Mi 10 Pro",
    "model": "Mi 10 Pro"
+  }
+ ],
+ "monet": [
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 10 lite 5G",
+   "model": "M2002J9G"
   }
  ],
  "pisces": [

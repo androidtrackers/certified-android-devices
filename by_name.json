@@ -59400,6 +59400,13 @@
    "model": "HAT4KDTV"
   }
  ],
+ "laoshan_laser": [
+  {
+   "brand": "Hisense",
+   "device": "laoshan",
+   "model": "HAT4KDTV"
+  }
+ ],
  "lt971": [
   {
    "brand": "Hisense",
@@ -121334,6 +121341,11 @@
   },
   {
    "brand": "Xiaomi",
+   "device": "lmi",
+   "model": "POCO F2 Pro"
+  },
+  {
+   "brand": "Xiaomi",
    "device": "lmiinpro",
    "model": "Redmi K30 Pro 5G Zoom Edition"
   }
@@ -162880,6 +162892,13 @@
    "model": "VINATV 4K"
   }
  ],
+ "VINTV 2K": [
+  {
+   "brand": "Vsmart",
+   "device": "TR2002",
+   "model": "VINTV 2K"
+  }
+ ],
  "MARS  Touch": [
   {
    "brand": "Vsun",
@@ -166020,6 +166039,13 @@
    "model": "2013022"
   }
  ],
+ "K30 Pro": [
+  {
+   "brand": "Xiaomi",
+   "device": "lmi",
+   "model": "POCO F2 Pro"
+  }
+ ],
  "K30 pro": [
   {
    "brand": "Xiaomi",
@@ -166438,6 +166464,13 @@
    "brand": "Xiaomi",
    "device": "cmi",
    "model": "Mi 10 Pro"
+  }
+ ],
+ "Mi 10 lite 5G": [
+  {
+   "brand": "Xiaomi",
+   "device": "monet",
+   "model": "M2002J9G"
   }
  ],
  "Mi 3": [

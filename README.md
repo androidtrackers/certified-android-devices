@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-04-25
+Last sync is 2020-04-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7646,6 +7646,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|laoshan|xiaoyushan|HAT4KDTV|
 |Hisense|laoshan|xiaoyushan|HiSmartTV A4|
 |Hisense|laoshan_emH|laoshan|HAT4KDTV|
+|Hisense|laoshan_laser|laoshan|HAT4KDTV|
 |Hisense|lt971|LT971|LT971|
 |Hisense|u972|HS7731SP|U972|
 |Hisense|vision2_1|vision2_1|vision2_1|
@@ -25377,6 +25378,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vsmart|Star|V320A|Star|
 |Vsmart|Star 3|sugarcane|Star 3|
 |Vsmart|VINATV 4K|TR2001|VINATV 4K|
+|Vsmart|VINTV 2K|TR2002|VINTV 2K|
 |Vsmart|Vietnam|samseong|VINATV 4K|
 |Vsun|MARS  Touch|MARS_TOUCH|MARS TOUCH|
 |Vsun|MARS Nocam|MARS_NOCAM|MARS NOCAM|
@@ -25898,7 +25900,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|HM NOTE 1W|lcsh92_wet_jb9|HM NOTE 1W|
 |Xiaomi|HM Note 2|hermes|Redmi Note 2|
 |Xiaomi|Hong Mi|HM2013022|2013022|
+|Xiaomi|K30 PRO|lmi|POCO F2 Pro|
 |Xiaomi|K30 PRO|lmiinpro|Redmi K30 Pro 5G Zoom Edition|
+|Xiaomi|K30 Pro|lmi|POCO F2 Pro|
 |Xiaomi|K30 pro|lmiin|Redmi K30 Pro 5G|
 |Xiaomi|MI  8  Explorer  Edition|ursa|MI 8 Explorer Edition|
 |Xiaomi|MI  8  Pro|equuleus|MI 8 Pro|
@@ -25969,6 +25973,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Mi 10|umi|Umi|
 |Xiaomi|Mi 10 Pro|cmi|Cmi|
 |Xiaomi|Mi 10 Pro|cmi|Mi 10 Pro|
+|Xiaomi|Mi 10 lite 5G|monet|M2002J9G|
 |Xiaomi|Mi 3|pisces|MI 3|
 |Xiaomi|Mi 4c|libra|Mi-4c|
 |Xiaomi|Mi 4i|ferrari|Mi 4i|

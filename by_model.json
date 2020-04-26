@@ -51631,6 +51631,11 @@
    "brand": "Hisense",
    "name": "laoshan_emH",
    "device": "laoshan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "laoshan_laser",
+   "device": "laoshan"
   }
  ],
  "BM001": [
@@ -172487,6 +172492,13 @@
    "device": "samseong"
   }
  ],
+ "VINTV 2K": [
+  {
+   "brand": "Vsmart",
+   "name": "VINTV 2K",
+   "device": "TR2002"
+  }
+ ],
  "MARS TOUCH": [
   {
    "brand": "Vsun",
@@ -175709,6 +175721,18 @@
    "device": "HM2013022"
   }
  ],
+ "POCO F2 Pro": [
+  {
+   "brand": "Xiaomi",
+   "name": "K30 PRO",
+   "device": "lmi"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "K30 Pro",
+   "device": "lmi"
+  }
+ ],
  "Redmi K30 Pro 5G Zoom Edition": [
   {
    "brand": "Xiaomi",
@@ -176197,6 +176221,13 @@
    "brand": "Xiaomi",
    "name": "Mi 10 Pro",
    "device": "cmi"
+  }
+ ],
+ "M2002J9G": [
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 10 lite 5G",
+   "device": "monet"
   }
  ],
  "MI 3": [
