@@ -118569,6 +118569,11 @@
   {
    "device": "Jakarta",
    "name": "Alcatel 1SE",
+   "model": "5030F_TR"
+  },
+  {
+   "device": "Jakarta",
+   "name": "Alcatel 1SE",
    "model": "5030I"
   },
   {
@@ -118969,7 +118974,22 @@
   {
    "device": "Milan",
    "name": "Alcatel 3X",
+   "model": "5061K_TR"
+  },
+  {
+   "device": "Milan",
+   "name": "Alcatel 3X",
+   "model": "5061U"
+  },
+  {
+   "device": "Milan",
+   "name": "Alcatel 3X",
    "model": "5061U_EEA"
+  },
+  {
+   "device": "Milan",
+   "name": "Alcatel 3X",
+   "model": "5061U_TR"
   },
   {
    "device": "Venice",

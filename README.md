@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-04-26
+Last sync is 2020-04-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -23163,6 +23163,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030D_RU|
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030F|
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030F_EEA|
+|TCT (Alcatel)|Alcatel 1SE|Jakarta|5030F_TR|
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030I|
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030J|
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030U|
@@ -23243,7 +23244,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 3X|A3A_PLUS|5058T|
 |TCT (Alcatel)|Alcatel 3X|A3A_PLUS|5058Y|
 |TCT (Alcatel)|Alcatel 3X|Milan|5061A|
+|TCT (Alcatel)|Alcatel 3X|Milan|5061K_TR|
+|TCT (Alcatel)|Alcatel 3X|Milan|5061U|
 |TCT (Alcatel)|Alcatel 3X|Milan|5061U_EEA|
+|TCT (Alcatel)|Alcatel 3X|Milan|5061U_TR|
 |TCT (Alcatel)|Alcatel 3X|Venice|5048A|
 |TCT (Alcatel)|Alcatel 3X|Venice|5048I|
 |TCT (Alcatel)|Alcatel 3X|Venice|5048U|

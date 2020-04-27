@@ -158132,6 +158132,13 @@
    "device": "Jakarta"
   }
  ],
+ "5030F_TR": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1SE",
+   "device": "Jakarta"
+  }
+ ],
  "5030I": [
   {
    "brand": "TCT (Alcatel)",
@@ -158692,7 +158699,28 @@
    "device": "Milan"
   }
  ],
+ "5061K_TR": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3X",
+   "device": "Milan"
+  }
+ ],
+ "5061U": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3X",
+   "device": "Milan"
+  }
+ ],
  "5061U_EEA": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3X",
+   "device": "Milan"
+  }
+ ],
+ "5061U_TR": [
   {
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 3X",

@@ -146852,7 +146852,22 @@
   {
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 3X",
+   "model": "5061K_TR"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3X",
+   "model": "5061U"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3X",
    "model": "5061U_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3X",
+   "model": "5061U_TR"
   }
  ],
  "Milan_Pro": [
@@ -148919,6 +148934,11 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1SE",
    "model": "5030F_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1SE",
+   "model": "5030F_TR"
   },
   {
    "brand": "TCT (Alcatel)",

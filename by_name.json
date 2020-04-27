@@ -149454,6 +149454,11 @@
   {
    "brand": "TCT (Alcatel)",
    "device": "Jakarta",
+   "model": "5030F_TR"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Jakarta",
    "model": "5030I"
   },
   {
@@ -149874,7 +149879,22 @@
   {
    "brand": "TCT (Alcatel)",
    "device": "Milan",
+   "model": "5061K_TR"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Milan",
+   "model": "5061U"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Milan",
    "model": "5061U_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Milan",
+   "model": "5061U_TR"
   },
   {
    "brand": "TCT (Alcatel)",
