@@ -373,6 +373,13 @@
    "model": "Hisense Infinity H12"
   }
  ],
+ "SHARKL5": [
+  {
+   "brand": "AG Mobile",
+   "name": "AGM A10",
+   "model": "AGM A10"
+  }
+ ],
  "T91EUE1": [
   {
    "brand": "AG Mobile",
@@ -4158,6 +4165,11 @@
   },
   {
    "brand": "Hyundai",
+   "name": "Israel",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Hyundai",
    "name": "Russia",
    "model": "AI PONT"
   },
@@ -6108,6 +6120,11 @@
   }
  ],
  "S43": [
+  {
+   "brand": "Altice",
+   "name": "ALTICE S43",
+   "model": "ALTICE_S43"
+  },
   {
    "brand": "Altice",
    "name": "ALTICE S43",
@@ -17828,8 +17845,20 @@
  "klein": [
   {
    "brand": "Blackshark",
+   "name": "KLE-A0",
+   "model": "SHARK KLE-A0"
+  },
+  {
+   "brand": "Blackshark",
    "name": "KLE-H0",
    "model": "SHARK KLE-H0"
+  }
+ ],
+ "mobius": [
+  {
+   "brand": "Blackshark",
+   "name": "MBU-A0",
+   "model": "SHARK MBU-A0"
   }
  ],
  "shark": [
@@ -28558,6 +28587,13 @@
    "brand": "DEXP",
    "name": "AL350",
    "model": "AL350"
+  }
+ ],
+ "AS155": [
+  {
+   "brand": "DEXP",
+   "name": "AS155",
+   "model": "AS155"
   }
  ],
  "AS160": [
@@ -51248,6 +51284,13 @@
    "model": "Hisense P1"
   }
  ],
+ "HLTE202N": [
+  {
+   "brand": "Hisense",
+   "name": "A5",
+   "model": "HLTE202N"
+  }
+ ],
  "HS8976QC": [
   {
    "brand": "Hisense",
@@ -51821,6 +51864,13 @@
    "model": "Hisense H910"
   }
  ],
+ "HITV101C": [
+  {
+   "brand": "Hisense",
+   "name": "HITV101C",
+   "model": "HITV101C"
+  }
+ ],
  "HSSDA450QC": [
   {
    "brand": "Hisense",
@@ -51840,6 +51890,23 @@
    "brand": "Hisense",
    "name": "HLTE213T",
    "model": "HLTE213T"
+  }
+ ],
+ "SC9863A": [
+  {
+   "brand": "Hisense",
+   "name": "HLTE230E",
+   "model": "Hisense Infinity H40 Lite"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense H40 Lite",
+   "model": "HLTE230E"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense H40 Lite",
+   "model": "Hisense H40 Lite"
   }
  ],
  "HSSDM636QC": [
@@ -52497,6 +52564,45 @@
    "brand": "Hisense",
    "name": "Hisense F8 MINI",
    "model": "Hisense F8 MINI"
+  }
+ ],
+ "HLTE321E": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense H40",
+   "model": "Hisense H40"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense H40",
+   "model": "Hisense Infinity H40"
+  }
+ ],
+ "SC9832E": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense Infinity E30 Lite",
+   "model": "Hisense Infinity E30 Lite"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense U40",
+   "model": "Hisense U40"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense U963",
+   "model": "HLTE100E_10"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense U963",
+   "model": "Hisense U963"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense U963",
+   "model": "Hisense V40"
   }
  ],
  "HS7731ESP": [
@@ -53266,6 +53372,18 @@
    "model": "MEDION X4701"
   }
  ],
+ "HLTE226E": [
+  {
+   "brand": "Hisense",
+   "name": "Mexico",
+   "model": "Hisense Infinity H40 Rock"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Mexico",
+   "model": "Hisense Rocks 6"
+  }
+ ],
  "x4701ae": [
   {
    "brand": "Hisense",
@@ -53648,6 +53766,13 @@
   }
  ],
  "MTK9632": [
+  {
+   "brand": "Hisense",
+   "name": "VIDAA_TV",
+   "model": "VIDAA_TV"
+  }
+ ],
+ "MTK9652": [
   {
    "brand": "Hisense",
    "name": "VIDAA_TV",
@@ -73229,6 +73354,13 @@
    "model": "MOVE8mini"
   }
  ],
+ "MOVE8mini_Q": [
+  {
+   "brand": "Kruger&Matz",
+   "name": "MOVE8mini",
+   "model": "MOVE8mini"
+  }
+ ],
  "MOVE9": [
   {
    "brand": "Kruger&Matz",
@@ -83615,6 +83747,13 @@
    "brand": "Lava",
    "name": "Z61_2GB",
    "model": "Z61_2GB"
+  }
+ ],
+ "Z61P": [
+  {
+   "brand": "Lava",
+   "name": "Z61P",
+   "model": "Lava Z61P"
   }
  ],
  "Z70": [
@@ -94027,6 +94166,20 @@
    "brand": "Meizu",
    "name": "meizu 16Xs",
    "model": "meizu 16Xs"
+  }
+ ],
+ "meizu17": [
+  {
+   "brand": "Meizu",
+   "name": "meizu 17",
+   "model": "meizu 17"
+  }
+ ],
+ "meizu17Pro": [
+  {
+   "brand": "Meizu",
+   "name": "meizu 17 Pro",
+   "model": "meizu 17 Pro"
   }
  ],
  "meizuC9": [
@@ -142969,6 +143122,13 @@
    "model": "NSZ-GU1"
   }
  ],
+ "BRAVIA_VH1": [
+  {
+   "brand": "Sony",
+   "name": "BRAVIA VH1",
+   "model": "BRAVIA VH1"
+  }
+ ],
  "BRAVIA_VU1": [
   {
    "brand": "Sony",
@@ -159756,6 +159916,13 @@
    "brand": "Ulefone",
    "name": "Armor_X2",
    "model": "Armor_X2"
+  }
+ ],
+ "Armor_X7_Q": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor X7",
+   "model": "Armor X7"
   }
  ],
  "Armor_3": [

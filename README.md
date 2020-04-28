@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-04-27
+Last sync is 2020-04-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -49,6 +49,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AG Mobile|AG Go Tab Access 2|AG_Go_Tab_Access_2|AG_Go_Tab_Access_2|
 |AG Mobile|AG Ultra2|AG_Ultra2|Ultra 2|
 |AG Mobile|AGM  H1|HSSDM450QC|AGM H1|
+|AG Mobile|AGM A10|SHARKL5|AGM A10|
 |AG Mobile|AGM A9|HSSDM450QC|AGM A9|
 |AG Mobile|AGM A9|HSSDM450QC|Android|
 |AG Mobile|AGM X3|T91EUE1|AGM X3|
@@ -750,6 +751,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Allfine|PC1038Q|fine10_Joy|PC1038Q|
 |Allouette|PSY7020SKD|PSY7020SKD|PSY7020SKD|
 |Alphascan|SAT2242 WorkTab|ADP_WW|G2SMNT|
+|Altice|ALTICE S43|S43|ALTICE_S43|
 |Altice|ALTICE S43|S43|S43|
 |Altice|ALTICE S60|S60|S60|
 |Altice|ALTICE S70|S70|S70|
@@ -2351,7 +2353,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackshark|Black Shark 2|skywalker|SKW-A0|
 |Blackshark|Black Shark 2|skywalker|SKW-H0|
 |Blackshark|Black Shark 2 Pro|darklighter|DLT-H0|
+|Blackshark|KLE-A0|klein|SHARK KLE-A0|
 |Blackshark|KLE-H0|klein|SHARK KLE-H0|
+|Blackshark|MBU-A0|mobius|SHARK MBU-A0|
 |Blackshark|Shark|shark|SKR-H0|
 |Blackshark|Shark 1S|bullhead|AWM-A0|
 |Blackshark|黑鲨游戏手机 2 Pro|darklighter|DLT-A0|
@@ -3814,6 +3818,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|AL240|AL240|AL240|
 |DEXP|AL250|AL250|AL250|
 |DEXP|AL350|AL350|AL350|
+|DEXP|AS155|AS155|AS155|
 |DEXP|AS160|AS160|AS160|
 |DEXP|AS260|AS260|AS260|
 |DEXP|B11|B11|B11|
@@ -7139,6 +7144,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|A2|HS8937QC|Hisense A2|
 |Hisense|A2M|HS8953QC|Hisense A2M|
 |Hisense|A2T|HS8953QC|Hisense A2T|
+|Hisense|A5|HLTE202N|HLTE202N|
 |Hisense|AGM  X2|HS8976QC|AGM X2|
 |Hisense|AGM  X2|HS8976QC|X2 SE|
 |Hisense|AGM  X2|HS8976QC|X2_SE|
@@ -7255,6 +7261,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|H910|HS8929QC|Hisense H910|
 |Hisense|H910|HS8939QC|Hisense H910|
 |Hisense|H910-F01|HS8939QC|Hisense H910|
+|Hisense|HITV101C|HITV101C|HITV101C|
 |Hisense|HITV300C|HS8937QC|HITV300C|
 |Hisense|HITV512C|HSSDA450QC|HITV512C|
 |Hisense|HLTE100M|HS9850SC|HLTE100M|
@@ -7263,6 +7270,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|HLTE210T|HS8937QC|HLTE210T|
 |Hisense|HLTE212T|HS8917QC|HLTE212T|
 |Hisense|HLTE213T|HSSDM439QC|HLTE213T|
+|Hisense|HLTE230E|SC9863A|Hisense Infinity H40 Lite|
 |Hisense|HLTE300E_ 02|HS8937QC|HLTE300E|
 |Hisense|HLTE300E_ 02|HS8937QC|HLTE300E_02|
 |Hisense|HLTE300E_ 02|HS8937QC|Hisense Infinity H11|
@@ -7371,6 +7379,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense F35|HS6739MT|Hisense F35|
 |Hisense|Hisense F8 MINI|HSSC9850|Hisense F8 MINI|
 |Hisense|Hisense H20|HSSDM636QC|HLTE510T|
+|Hisense|Hisense H40|HLTE321E|Hisense H40|
+|Hisense|Hisense H40|HLTE321E|Hisense Infinity H40|
+|Hisense|Hisense H40 Lite|SC9863A|HLTE230E|
+|Hisense|Hisense H40 Lite|SC9863A|Hisense H40 Lite|
+|Hisense|Hisense Infinity E30 Lite|SC9832E|Hisense Infinity E30 Lite|
 |Hisense|Hisense Infinity H12 Pro|HSSDM636QC|Hisense Infinity H12 Pro|
 |Hisense|Hisense M36|HS8909QC|Hisense M36|
 |Hisense|Hisense P1|HS8953QC|Hisense P1|
@@ -7378,6 +7391,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense T5|HS6737MT|Hisense T5|
 |Hisense|Hisense T5 Pro|HS6737MT|Hisense T5 Pro|
 |Hisense|Hisense T965|HS6580MT|Hisense T965|
+|Hisense|Hisense U40|SC9832E|Hisense U40|
+|Hisense|Hisense U963|SC9832E|HLTE100E_10|
+|Hisense|Hisense U963|SC9832E|Hisense U963|
+|Hisense|Hisense U963|SC9832E|Hisense V40|
 |Hisense|Hisense U964|HS7731ESP|Hisense U40 Lite|
 |Hisense|Hisense U964|HS7731ESP|Hisense U964|
 |Hisense|Hisense U965|HS6580MT|Hisense Hi 1 PRO|
@@ -7545,6 +7562,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|M821T|HS8916QC|SMART 4G HD Voice|
 |Hisense|MEDION E4001|E4001|MEDION E4001|
 |Hisense|MEDION X4701|x4701|MEDION X4701|
+|Hisense|Mexico|HLTE226E|Hisense Infinity H40 Rock|
+|Hisense|Mexico|HLTE226E|Hisense Rocks 6|
 |Hisense|Oysters Pacific 800|x4701ae|Oysters Pacific 800|
 |Hisense|PX10|PX10|PX10|
 |Hisense|PX1900|atm7039c|PX1900|
@@ -7618,6 +7637,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|VIDAA_TV|MSD6A838|VIDAA_TV|
 |Hisense|VIDAA_TV|MSD6A938|VIDAA_TV|
 |Hisense|VIDAA_TV|MTK9632|VIDAA_TV|
+|Hisense|VIDAA_TV|MTK9652|VIDAA_TV|
 |Hisense|VIDAA_TV|NOVA72673|VIDAA_TV|
 |Hisense|VIDAA_TV|NOVA72685|VIDAA_TV|
 |Hisense|VIDAA_TV|mt5861|VIDAA_TV|
@@ -9485,6 +9505,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|Hyundai Koral_7XL|HT0701L16|HT0701L16|
 |Hyundai|Hyundai_Eternity_G50|HT1G50K|Hyundai_Eternity_G50|
 |Hyundai|Hyundai_Eternity_G60|HT3G60L|Hyundai_Eternity_G60|
+|Hyundai|Israel|samseong|AI PONT|
 |Hyundai|Koral 10W2|HT1003W16|HT1003W16|
 |Hyundai|Koral 10XL|HT1004L16|HT1004L16|
 |Hyundai|Koral_10X2|HT1004X16|Koral_10X2|
@@ -10787,6 +10808,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kruger&Matz|MOVE 7|MOVE_7|MOVE_7|
 |Kruger&Matz|MOVE8|MOVE_8|MOVE_8|
 |Kruger&Matz|MOVE8mini|MOVE8mini|MOVE8mini|
+|Kruger&Matz|MOVE8mini|MOVE8mini_Q|MOVE8mini|
 |Kruger&Matz|MOVE9|MOVE9|MOVE9|
 |Kruger&Matz|MOVE_8.1|MOVE_8_1|MOVE_8|
 |Kubo|F99|F99|F99|
@@ -12497,6 +12519,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|Z60s|Z60s|Z60s|
 |Lava|Z61|Z61|Z61|
 |Lava|Z61-2GB|Z61_2GB|Z61_2GB|
+|Lava|Z61P|Z61P|Lava Z61P|
 |Lava|Z61_2GB|Z61_2GB|Z61_2GB|
 |Lava|Z70|Z70|Z70|
 |Lava|Z80|Z80|Z80|
@@ -14061,6 +14084,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Meizu|PRO 7|PRO7S|PRO 7-S|
 |Meizu|PRO 7 Plus|PRO7Plus|PRO 7 Plus|
 |Meizu|meizu 16Xs|meizu16Xs|meizu 16Xs|
+|Meizu|meizu 17|meizu17|meizu 17|
+|Meizu|meizu 17 Pro|meizu17Pro|meizu 17 Pro|
 |Meizu|meizu C9|meizuC9|meizu C9|
 |Meizu|meizu C9 pro|meizuC9pro|meizu C9 pro|
 |Meizu|meizu M10|meizuM10|meizu M10|
@@ -21622,6 +21647,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|BRAVIA 4K UR2|BRAVIA_UR2_4K|BRAVIA 4K UR2|
 |Sony|BRAVIA 4K UR3|BRAVIA_UR3|BRAVIA 4K UR3|
 |Sony|BRAVIA Smart Stick|NSZGU1|NSZ-GU1|
+|Sony|BRAVIA VH1|BRAVIA_VH1|BRAVIA VH1|
 |Sony|BRAVIA_VU|BRAVIA_VU1|BRAVIA VU1|
 |Sony|Ericsson Live with Walkman|WT19a|WT19a|
 |Sony|Ericsson Live with Walkman|WT19i|WT19i|
@@ -24469,6 +24495,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor 6|Armor_6|Armor_6|
 |Ulefone|Armor X|Armor_X|Armor_X|
 |Ulefone|Armor X2|Armor_X2|Armor_X2|
+|Ulefone|Armor X7|Armor_X7_Q|Armor X7|
 |Ulefone|Armor6|Armor_6|Armor_6|
 |Ulefone|Armor_3|Armor_3|Armor_3|
 |Ulefone|Armor_3W|Armor_3W|Armor_3W|

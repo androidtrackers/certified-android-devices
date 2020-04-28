@@ -410,6 +410,13 @@
    "device": "HSSDM450QC"
   }
  ],
+ "AGM A10": [
+  {
+   "brand": "AG Mobile",
+   "name": "AGM A10",
+   "device": "SHARKL5"
+  }
+ ],
  "AGM A9": [
   {
    "brand": "AG Mobile",
@@ -4057,6 +4064,11 @@
   },
   {
    "brand": "Hyundai",
+   "name": "Israel",
+   "device": "samseong"
+  },
+  {
+   "brand": "Hyundai",
    "name": "Russia",
    "device": "ikebukuro"
   },
@@ -5972,6 +5984,13 @@
    "brand": "Allouette",
    "name": "PSY7020SKD",
    "device": "PSY7020SKD"
+  }
+ ],
+ "ALTICE_S43": [
+  {
+   "brand": "Altice",
+   "name": "ALTICE S43",
+   "device": "S43"
   }
  ],
  "S43": [
@@ -17329,11 +17348,25 @@
    "device": "darklighter"
   }
  ],
+ "SHARK KLE-A0": [
+  {
+   "brand": "Blackshark",
+   "name": "KLE-A0",
+   "device": "klein"
+  }
+ ],
  "SHARK KLE-H0": [
   {
    "brand": "Blackshark",
    "name": "KLE-H0",
    "device": "klein"
+  }
+ ],
+ "SHARK MBU-A0": [
+  {
+   "brand": "Blackshark",
+   "name": "MBU-A0",
+   "device": "mobius"
   }
  ],
  "SKR-H0": [
@@ -27858,6 +27891,13 @@
    "brand": "DEXP",
    "name": "AL350",
    "device": "AL350"
+  }
+ ],
+ "AS155": [
+  {
+   "brand": "DEXP",
+   "name": "AS155",
+   "device": "AS155"
   }
  ],
  "AS160": [
@@ -51064,6 +51104,13 @@
    "device": "HS8953QC"
   }
  ],
+ "HLTE202N": [
+  {
+   "brand": "Hisense",
+   "name": "A5",
+   "device": "HLTE202N"
+  }
+ ],
  "AGM X2": [
   {
    "brand": "Hisense",
@@ -51885,6 +51932,13 @@
    "device": "HS8939QC"
   }
  ],
+ "HITV101C": [
+  {
+   "brand": "Hisense",
+   "name": "HITV101C",
+   "device": "HITV101C"
+  }
+ ],
  "HITV300C": [
   {
    "brand": "Hisense",
@@ -51939,6 +51993,13 @@
    "brand": "Hisense",
    "name": "HLTE213T",
    "device": "HSSDM439QC"
+  }
+ ],
+ "Hisense Infinity H40 Lite": [
+  {
+   "brand": "Hisense",
+   "name": "HLTE230E",
+   "device": "SC9863A"
   }
  ],
  "HLTE300E": [
@@ -52595,6 +52656,41 @@
    "device": "HSSDM636QC"
   }
  ],
+ "Hisense H40": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense H40",
+   "device": "HLTE321E"
+  }
+ ],
+ "Hisense Infinity H40": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense H40",
+   "device": "HLTE321E"
+  }
+ ],
+ "HLTE230E": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense H40 Lite",
+   "device": "SC9863A"
+  }
+ ],
+ "Hisense H40 Lite": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense H40 Lite",
+   "device": "SC9863A"
+  }
+ ],
+ "Hisense Infinity E30 Lite": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense Infinity E30 Lite",
+   "device": "SC9832E"
+  }
+ ],
  "Hisense Infinity H12 Pro": [
   {
    "brand": "Hisense",
@@ -52647,6 +52743,39 @@
    "brand": "Hisense",
    "name": "Hisense T965",
    "device": "HS6580MT"
+  }
+ ],
+ "Hisense U40": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U40",
+   "device": "SC9832E"
+  }
+ ],
+ "HLTE100E_10": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U963",
+   "device": "SC9832E"
+  }
+ ],
+ "Hisense U963": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U963",
+   "device": "SC9832E"
+  },
+  {
+   "brand": "Hisense",
+   "name": "U963",
+   "device": "HS7331CSC"
+  }
+ ],
+ "Hisense V40": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U963",
+   "device": "SC9832E"
   }
  ],
  "Hisense U40 Lite": [
@@ -53785,6 +53914,20 @@
    "device": "x4701"
   }
  ],
+ "Hisense Infinity H40 Rock": [
+  {
+   "brand": "Hisense",
+   "name": "Mexico",
+   "device": "HLTE226E"
+  }
+ ],
+ "Hisense Rocks 6": [
+  {
+   "brand": "Hisense",
+   "name": "Mexico",
+   "device": "HLTE226E"
+  }
+ ],
  "Oysters Pacific 800": [
   {
    "brand": "Hisense",
@@ -54115,13 +54258,6 @@
    "device": "U800E_1"
   }
  ],
- "Hisense U963": [
-  {
-   "brand": "Hisense",
-   "name": "U963",
-   "device": "HS7331CSC"
-  }
- ],
  "RIVIERA U963": [
   {
    "brand": "Hisense",
@@ -54248,6 +54384,11 @@
    "brand": "Hisense",
    "name": "VIDAA_TV",
    "device": "MTK9632"
+  },
+  {
+   "brand": "Hisense",
+   "name": "VIDAA_TV",
+   "device": "MTK9652"
   },
   {
    "brand": "Hisense",
@@ -75520,6 +75661,11 @@
    "brand": "Kruger&Matz",
    "name": "MOVE8mini",
    "device": "MOVE8mini"
+  },
+  {
+   "brand": "Kruger&Matz",
+   "name": "MOVE8mini",
+   "device": "MOVE8mini_Q"
   }
  ],
  "MOVE9": [
@@ -86901,6 +87047,13 @@
    "device": "Z61_2GB"
   }
  ],
+ "Lava Z61P": [
+  {
+   "brand": "Lava",
+   "name": "Z61P",
+   "device": "Z61P"
+  }
+ ],
  "Z70": [
   {
    "brand": "Lava",
@@ -97343,6 +97496,20 @@
    "brand": "Meizu",
    "name": "meizu 16Xs",
    "device": "meizu16Xs"
+  }
+ ],
+ "meizu 17": [
+  {
+   "brand": "Meizu",
+   "name": "meizu 17",
+   "device": "meizu17"
+  }
+ ],
+ "meizu 17 Pro": [
+  {
+   "brand": "Meizu",
+   "name": "meizu 17 Pro",
+   "device": "meizu17Pro"
   }
  ],
  "meizu C9": [
@@ -147803,6 +147970,13 @@
    "device": "NSZGU1"
   }
  ],
+ "BRAVIA VH1": [
+  {
+   "brand": "Sony",
+   "name": "BRAVIA VH1",
+   "device": "BRAVIA_VH1"
+  }
+ ],
  "BRAVIA VU1": [
   {
    "brand": "Sony",
@@ -166714,6 +166888,13 @@
    "brand": "Ulefone",
    "name": "Armor_X2",
    "device": "Armor_X2"
+  }
+ ],
+ "Armor X7": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor X7",
+   "device": "Armor_X7_Q"
   }
  ],
  "Armor_3": [

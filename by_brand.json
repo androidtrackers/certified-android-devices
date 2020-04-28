@@ -251,6 +251,11 @@
    "model": "AGM H1"
   },
   {
+   "device": "SHARKL5",
+   "name": "AGM A10",
+   "model": "AGM A10"
+  },
+  {
    "device": "HSSDM450QC",
    "name": "AGM A9",
    "model": "AGM A9"
@@ -3883,6 +3888,11 @@
   }
  ],
  "Altice": [
+  {
+   "device": "S43",
+   "name": "ALTICE S43",
+   "model": "ALTICE_S43"
+  },
   {
    "device": "S43",
    "name": "ALTICE S43",
@@ -12088,8 +12098,18 @@
   },
   {
    "device": "klein",
+   "name": "KLE-A0",
+   "model": "SHARK KLE-A0"
+  },
+  {
+   "device": "klein",
    "name": "KLE-H0",
    "model": "SHARK KLE-H0"
+  },
+  {
+   "device": "mobius",
+   "name": "MBU-A0",
+   "model": "SHARK MBU-A0"
   },
   {
    "device": "shark",
@@ -19688,6 +19708,11 @@
    "device": "AL350",
    "name": "AL350",
    "model": "AL350"
+  },
+  {
+   "device": "AS155",
+   "name": "AS155",
+   "model": "AS155"
   },
   {
    "device": "AS160",
@@ -36925,6 +36950,11 @@
    "model": "Hisense A2T"
   },
   {
+   "device": "HLTE202N",
+   "name": "A5",
+   "model": "HLTE202N"
+  },
+  {
    "device": "HS8976QC",
    "name": "AGM  X2",
    "model": "AGM X2"
@@ -37505,6 +37535,11 @@
    "model": "Hisense H910"
   },
   {
+   "device": "HITV101C",
+   "name": "HITV101C",
+   "model": "HITV101C"
+  },
+  {
    "device": "HS8937QC",
    "name": "HITV300C",
    "model": "HITV300C"
@@ -37543,6 +37578,11 @@
    "device": "HSSDM439QC",
    "name": "HLTE213T",
    "model": "HLTE213T"
+  },
+  {
+   "device": "SC9863A",
+   "name": "HLTE230E",
+   "model": "Hisense Infinity H40 Lite"
   },
   {
    "device": "HS8937QC",
@@ -38085,6 +38125,31 @@
    "model": "HLTE510T"
   },
   {
+   "device": "HLTE321E",
+   "name": "Hisense H40",
+   "model": "Hisense H40"
+  },
+  {
+   "device": "HLTE321E",
+   "name": "Hisense H40",
+   "model": "Hisense Infinity H40"
+  },
+  {
+   "device": "SC9863A",
+   "name": "Hisense H40 Lite",
+   "model": "HLTE230E"
+  },
+  {
+   "device": "SC9863A",
+   "name": "Hisense H40 Lite",
+   "model": "Hisense H40 Lite"
+  },
+  {
+   "device": "SC9832E",
+   "name": "Hisense Infinity E30 Lite",
+   "model": "Hisense Infinity E30 Lite"
+  },
+  {
    "device": "HSSDM636QC",
    "name": "Hisense Infinity H12 Pro",
    "model": "Hisense Infinity H12 Pro"
@@ -38118,6 +38183,26 @@
    "device": "HS6580MT",
    "name": "Hisense T965",
    "model": "Hisense T965"
+  },
+  {
+   "device": "SC9832E",
+   "name": "Hisense U40",
+   "model": "Hisense U40"
+  },
+  {
+   "device": "SC9832E",
+   "name": "Hisense U963",
+   "model": "HLTE100E_10"
+  },
+  {
+   "device": "SC9832E",
+   "name": "Hisense U963",
+   "model": "Hisense U963"
+  },
+  {
+   "device": "SC9832E",
+   "name": "Hisense U963",
+   "model": "Hisense V40"
   },
   {
    "device": "HS7731ESP",
@@ -38955,6 +39040,16 @@
    "model": "MEDION X4701"
   },
   {
+   "device": "HLTE226E",
+   "name": "Mexico",
+   "model": "Hisense Infinity H40 Rock"
+  },
+  {
+   "device": "HLTE226E",
+   "name": "Mexico",
+   "model": "Hisense Rocks 6"
+  },
+  {
    "device": "x4701ae",
    "name": "Oysters Pacific 800",
    "model": "Oysters Pacific 800"
@@ -39316,6 +39411,11 @@
   },
   {
    "device": "MTK9632",
+   "name": "VIDAA_TV",
+   "model": "VIDAA_TV"
+  },
+  {
+   "device": "MTK9652",
    "name": "VIDAA_TV",
    "model": "VIDAA_TV"
   },
@@ -48695,6 +48795,11 @@
    "model": "Hyundai_Eternity_G60"
   },
   {
+   "device": "samseong",
+   "name": "Israel",
+   "model": "AI PONT"
+  },
+  {
    "device": "HT1003W16",
    "name": "Koral 10W2",
    "model": "HT1003W16"
@@ -55471,6 +55576,11 @@
   },
   {
    "device": "MOVE8mini",
+   "name": "MOVE8mini",
+   "model": "MOVE8mini"
+  },
+  {
+   "device": "MOVE8mini_Q",
    "name": "MOVE8mini",
    "model": "MOVE8mini"
   },
@@ -64093,6 +64203,11 @@
    "model": "Z61_2GB"
   },
   {
+   "device": "Z61P",
+   "name": "Z61P",
+   "model": "Lava Z61P"
+  },
+  {
    "device": "Z61_2GB",
    "name": "Z61_2GB",
    "model": "Z61_2GB"
@@ -72129,6 +72244,16 @@
    "device": "meizu16Xs",
    "name": "meizu 16Xs",
    "model": "meizu 16Xs"
+  },
+  {
+   "device": "meizu17",
+   "name": "meizu 17",
+   "model": "meizu 17"
+  },
+  {
+   "device": "meizu17Pro",
+   "name": "meizu 17 Pro",
+   "model": "meizu 17 Pro"
   },
   {
    "device": "meizuC9",
@@ -110762,6 +110887,11 @@
    "model": "NSZ-GU1"
   },
   {
+   "device": "BRAVIA_VH1",
+   "name": "BRAVIA VH1",
+   "model": "BRAVIA VH1"
+  },
+  {
    "device": "BRAVIA_VU1",
    "name": "BRAVIA_VU",
    "model": "BRAVIA VU1"
@@ -125327,6 +125457,11 @@
    "device": "Armor_X2",
    "name": "Armor X2",
    "model": "Armor_X2"
+  },
+  {
+   "device": "Armor_X7_Q",
+   "name": "Armor X7",
+   "model": "Armor X7"
   },
   {
    "device": "Armor_6",
