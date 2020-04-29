@@ -4103,6 +4103,11 @@
    "device": "samseong"
   },
   {
+   "brand": "ORCA",
+   "name": "KUWAIT",
+   "device": "samseong"
+  },
+  {
    "brand": "PILOT",
    "name": "Israel",
    "device": "samseong"
@@ -13213,6 +13218,11 @@
   {
    "brand": "Azumi",
    "name": "V5",
+   "device": "Azumi_V5_AC23B"
+  },
+  {
+   "brand": "Azumi",
+   "name": "V5",
    "device": "Azumi_V5_AC25S"
   },
   {
@@ -13380,6 +13390,11 @@
    "brand": "Azumi",
    "name": "Azumi V5",
    "device": "Azumi_V5_AC04"
+  },
+  {
+   "brand": "Azumi",
+   "name": "V5",
+   "device": "Azumi_V5_AC20"
   }
  ],
  "V54": [
@@ -49475,6 +49490,13 @@
    "device": "L52"
   }
  ],
+ "Haier 2K Android TV": [
+  {
+   "brand": "Haier",
+   "name": "LATAM",
+   "device": "nippori"
+  }
+ ],
  "LE32U5000A": [
   {
    "brand": "Haier",
@@ -68645,6 +68667,20 @@
    "brand": "Infinix",
    "name": "S5 Pro",
    "device": "Infinix-X660"
+  }
+ ],
+ "Infinix X660B": [
+  {
+   "brand": "Infinix",
+   "name": "S5 Pro",
+   "device": "Infinix-X660B"
+  }
+ ],
+ "Infinix X660C": [
+  {
+   "brand": "Infinix",
+   "name": "S5 Pro",
+   "device": "Infinix-X660C"
   }
  ],
  "Infinix X511": [
@@ -103931,6 +103967,13 @@
    "device": "pokerp"
   }
  ],
+ "moto g fast": [
+  {
+   "brand": "Motorola",
+   "name": "moto g fast",
+   "device": "rav"
+  }
+ ],
  "moto g power": [
   {
    "brand": "Motorola",
@@ -108474,6 +108517,13 @@
    "brand": "Newland",
    "name": "NLS-NFT10",
    "device": "NLS-NFT10-RU"
+  }
+ ],
+ "NLS-N7": [
+  {
+   "brand": "Newland",
+   "name": "Newland NLS-N7",
+   "device": "NLS-N7-GL"
   }
  ],
  "Newsday_A1": [
@@ -127518,6 +127568,13 @@
    "device": "a01q"
   }
  ],
+ "SM-S111DL": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A01",
+   "device": "a01q"
+  }
+ ],
  "SM-A105F": [
   {
    "brand": "Samsung",
@@ -133277,6 +133334,20 @@
    "brand": "Samsung",
    "name": "Galaxy M Style",
    "device": "vastoicmcc"
+  }
+ ],
+ "SM-M015F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M01",
+   "device": "m01q"
+  }
+ ],
+ "SM-M015G": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M01",
+   "device": "m01q"
   }
  ],
  "SM-M105F": [
@@ -158867,6 +158938,13 @@
   }
  ],
  "5061A": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3X",
+   "device": "Milan"
+  }
+ ],
+ "5061K_EEA": [
   {
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 3X",

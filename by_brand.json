@@ -9457,6 +9457,16 @@
    "model": "V5"
   },
   {
+   "device": "Azumi_V5_AC20",
+   "name": "V5",
+   "model": "Azumi_V5"
+  },
+  {
+   "device": "Azumi_V5_AC23B",
+   "name": "V5",
+   "model": "V5"
+  },
+  {
    "device": "Azumi_V5_AC25S",
    "name": "V5",
    "model": "V5"
@@ -35737,6 +35747,11 @@
    "model": "L52"
   },
   {
+   "device": "nippori",
+   "name": "LATAM",
+   "model": "Haier 2K Android TV"
+  },
+  {
    "device": "LE32U5000A",
    "name": "LE32U5000A",
    "model": "LE32U5000A"
@@ -50193,6 +50208,16 @@
    "device": "Infinix-X660",
    "name": "S5 Pro",
    "model": "Infinix X660"
+  },
+  {
+   "device": "Infinix-X660B",
+   "name": "S5 Pro",
+   "model": "Infinix X660B"
+  },
+  {
+   "device": "Infinix-X660C",
+   "name": "S5 Pro",
+   "model": "Infinix X660C"
   },
   {
    "device": "INFINIX_X511",
@@ -77206,6 +77231,11 @@
    "model": "moto e(6s)"
   },
   {
+   "device": "rav",
+   "name": "moto g fast",
+   "model": "moto g fast"
+  },
+  {
    "device": "sofia",
    "name": "moto g power",
    "model": "moto g power"
@@ -80825,6 +80855,11 @@
    "device": "NLS-NFT10-RU",
    "name": "NLS-NFT10",
    "model": "NLS-NFT10"
+  },
+  {
+   "device": "NLS-N7-GL",
+   "name": "Newland NLS-N7",
+   "model": "NLS-N7"
   }
  ],
  "Newsday": [
@@ -82125,6 +82160,13 @@
    "device": "F20",
    "name": "F20",
    "model": "F20"
+  }
+ ],
+ "ORCA": [
+  {
+   "device": "samseong",
+   "name": "KUWAIT",
+   "model": "AI PONT"
   }
  ],
  "OTHO": [
@@ -95761,6 +95803,11 @@
    "model": "SM-A015V"
   },
   {
+   "device": "a01q",
+   "name": "Galaxy A01",
+   "model": "SM-S111DL"
+  },
+  {
    "device": "a10",
    "name": "Galaxy A10",
    "model": "SM-A105F"
@@ -99894,6 +99941,16 @@
    "device": "vastoicmcc",
    "name": "Galaxy M Style",
    "model": "GT-I8258"
+  },
+  {
+   "device": "m01q",
+   "name": "Galaxy M01",
+   "model": "SM-M015F"
+  },
+  {
+   "device": "m01q",
+   "name": "Galaxy M01",
+   "model": "SM-M015G"
   },
   {
    "device": "m10lte",
@@ -119100,6 +119157,11 @@
    "device": "Milan",
    "name": "Alcatel 3X",
    "model": "5061A"
+  },
+  {
+   "device": "Milan",
+   "name": "Alcatel 3X",
+   "model": "5061K_EEA"
   },
   {
    "device": "Milan",

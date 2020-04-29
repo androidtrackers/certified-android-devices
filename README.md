@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-04-28
+Last sync is 2020-04-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1845,6 +1845,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|V4_AC23|Azumi_V4_AC23|V4|
 |Azumi|V4_AC25|Azumi_V4_AC25|V4|
 |Azumi|V5|Azumi_V5_AC15|V5|
+|Azumi|V5|Azumi_V5_AC20|Azumi_V5|
+|Azumi|V5|Azumi_V5_AC23B|V5|
 |Azumi|V5|Azumi_V5_AC25S|V5|
 |Azumi|V5+|AZUMI_V5PLUS_AC27|V5+|
 |Azumi|V54_AC24|Azumi_V54_AC24|V54|
@@ -6911,6 +6913,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|L11|HM-G152-FL|HM-G152-FL|
 |Haier|L50|M916-D500-PAK|L50|
 |Haier|L52|Haier_L52|L52|
+|Haier|LATAM|nippori|Haier 2K Android TV|
 |Haier|LE32U5000A|LE32U5000A|LE32U5000A|
 |Haier|LE39M7000CF|LE39M7000CF|LE39M7000CF|
 |Haier|LE40U5000A|LE40U5000A|LE40U5000A|
@@ -9769,6 +9772,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|S5 Lite|Infinix-X652B|Infinix X652B|
 |Infinix|S5 Lite|Infinix-X652C|Infinix X652C|
 |Infinix|S5 Pro|Infinix-X660|Infinix X660|
+|Infinix|S5 Pro|Infinix-X660B|Infinix X660B|
+|Infinix|S5 Pro|Infinix-X660C|Infinix X660C|
 |Infinix|SURF 2|INFINIX_X511|Infinix X511|
 |Infinix|Smart 2|Infinix-X5515|Infinix X5515|
 |Infinix|Smart 2|Infinix-X5515F|Infinix X5515F|
@@ -15060,6 +15065,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto e6s|fiji|moto e6s|
 |Motorola|moto e⁶ plus|pokerp|moto e(6) plus|
 |Motorola|moto e⁶ˢ|pokerp|moto e(6s)|
+|Motorola|moto g fast|rav|moto g fast|
 |Motorola|moto g power|sofia|moto g power|
 |Motorola|moto g power|sofia|moto g(7)|
 |Motorola|moto g power (XT2041DL)|sofia|moto g power (XT2041DL)|
@@ -15761,6 +15767,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Newland|NLS-MT9052-RU|NLS-MT9052-GL|NLS-MT90|
 |Newland|NLS-NFT10|NLS-NFT10-GL|NLS-NFT10|
 |Newland|NLS-NFT10|NLS-NFT10-RU|NLS-NFT10|
+|Newland|Newland NLS-N7|NLS-N7-GL|NLS-N7|
 |Newsday|A1|Newsday_A1|Newsday_A1|
 |Newsday|A2|Newsday_A2|Newsday_A2|
 |Newsday|E1|Newsday_E1|Newsday_E1|
@@ -16007,6 +16014,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONYX|AKA Model A|Model_A|Model A|
 |ONYX|QuartzT10-3|QuartzT10-3|QuartzT10-3|
 |ORBYS|F20|F20|F20|
+|ORCA|KUWAIT|samseong|AI PONT|
 |OTHO|T1|T1|T1|
 |OTHO|T3|T3|T3|
 |OTK|BM57 lite|BM57_lite|BM57_lite|
@@ -18649,6 +18657,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A01|a01q|SM-A015M|
 |Samsung|Galaxy A01|a01q|SM-A015T1|
 |Samsung|Galaxy A01|a01q|SM-A015V|
+|Samsung|Galaxy A01|a01q|SM-S111DL|
 |Samsung|Galaxy A10|a10|SM-A105F|
 |Samsung|Galaxy A10|a10|SM-A105FN|
 |Samsung|Galaxy A10|a10|SM-A105G|
@@ -19476,6 +19485,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M Style|SHW-M340L|SHW-M340L|
 |Samsung|Galaxy M Style|SHW-M340S|SHW-M340S|
 |Samsung|Galaxy M Style|vastoicmcc|GT-I8258|
+|Samsung|Galaxy M01|m01q|SM-M015F|
+|Samsung|Galaxy M01|m01q|SM-M015G|
 |Samsung|Galaxy M10|m10lte|SM-M105F|
 |Samsung|Galaxy M10|m10lte|SM-M105G|
 |Samsung|Galaxy M10|m10lte|SM-M105M|
@@ -23270,6 +23281,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 3X|A3A_PLUS|5058T|
 |TCT (Alcatel)|Alcatel 3X|A3A_PLUS|5058Y|
 |TCT (Alcatel)|Alcatel 3X|Milan|5061A|
+|TCT (Alcatel)|Alcatel 3X|Milan|5061K_EEA|
 |TCT (Alcatel)|Alcatel 3X|Milan|5061K_TR|
 |TCT (Alcatel)|Alcatel 3X|Milan|5061U|
 |TCT (Alcatel)|Alcatel 3X|Milan|5061U_EEA|

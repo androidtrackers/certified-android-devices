@@ -4194,6 +4194,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "ORCA",
+   "name": "KUWAIT",
+   "model": "AI PONT"
+  },
+  {
    "brand": "PILOT",
    "name": "Israel",
    "model": "AI PONT"
@@ -7354,6 +7359,11 @@
    "brand": "Haier",
    "name": "APAC",
    "model": "haierATVnippori"
+  },
+  {
+   "brand": "Haier",
+   "name": "LATAM",
+   "model": "Haier 2K Android TV"
   },
   {
    "brand": "Haier",
@@ -14197,6 +14207,20 @@
   }
  ],
  "Azumi_V5_AC15": [
+  {
+   "brand": "Azumi",
+   "name": "V5",
+   "model": "V5"
+  }
+ ],
+ "Azumi_V5_AC20": [
+  {
+   "brand": "Azumi",
+   "name": "V5",
+   "model": "Azumi_V5"
+  }
+ ],
+ "Azumi_V5_AC23B": [
   {
    "brand": "Azumi",
    "name": "V5",
@@ -66464,6 +66488,20 @@
    "model": "Infinix X660"
   }
  ],
+ "Infinix-X660B": [
+  {
+   "brand": "Infinix",
+   "name": "S5 Pro",
+   "model": "Infinix X660B"
+  }
+ ],
+ "Infinix-X660C": [
+  {
+   "brand": "Infinix",
+   "name": "S5 Pro",
+   "model": "Infinix X660C"
+  }
+ ],
  "INFINIX_X511": [
   {
    "brand": "Infinix",
@@ -100448,6 +100486,23 @@
    "model": "moto e6 play"
   }
  ],
+ "rav": [
+  {
+   "brand": "Motorola",
+   "name": "moto g fast",
+   "model": "moto g fast"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g(8)",
+   "model": "moto g(7)"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g(8)",
+   "model": "moto g(8)"
+  }
+ ],
  "sofia": [
   {
    "brand": "Motorola",
@@ -100675,18 +100730,6 @@
    "brand": "Motorola",
    "name": "moto g(7) power",
    "model": "moto g(7) power"
-  }
- ],
- "rav": [
-  {
-   "brand": "Motorola",
-   "name": "moto g(8)",
-   "model": "moto g(7)"
-  },
-  {
-   "brand": "Motorola",
-   "name": "moto g(8)",
-   "model": "moto g(8)"
   }
  ],
  "lima": [
@@ -105013,6 +105056,13 @@
    "brand": "Newland",
    "name": "NLS-NFT10",
    "model": "NLS-NFT10"
+  }
+ ],
+ "NLS-N7-GL": [
+  {
+   "brand": "Newland",
+   "name": "Newland NLS-N7",
+   "model": "NLS-N7"
   }
  ],
  "Newsday_A1": [
@@ -123800,6 +123850,11 @@
    "brand": "Samsung",
    "name": "Galaxy A01",
    "model": "SM-A015V"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A01",
+   "model": "SM-S111DL"
   }
  ],
  "a10e": [
@@ -128984,6 +129039,18 @@
    "brand": "Samsung",
    "name": "Galaxy M Style",
    "model": "GT-I8258"
+  }
+ ],
+ "m01q": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M01",
+   "model": "SM-M015F"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M01",
+   "model": "SM-M015G"
   }
  ],
  "m10lte": [
@@ -147008,6 +147075,11 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 3X",
    "model": "5061A"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3X",
+   "model": "5061K_EEA"
   },
   {
    "brand": "TCT (Alcatel)",

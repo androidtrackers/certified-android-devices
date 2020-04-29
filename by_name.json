@@ -19232,6 +19232,16 @@
   },
   {
    "brand": "Azumi",
+   "device": "Azumi_V5_AC20",
+   "model": "Azumi_V5"
+  },
+  {
+   "brand": "Azumi",
+   "device": "Azumi_V5_AC23B",
+   "model": "V5"
+  },
+  {
+   "brand": "Azumi",
    "device": "Azumi_V5_AC25S",
    "model": "V5"
   },
@@ -54830,6 +54840,13 @@
    "model": "L52"
   }
  ],
+ "LATAM": [
+  {
+   "brand": "Haier",
+   "device": "nippori",
+   "model": "Haier 2K Android TV"
+  }
+ ],
  "LE32U5000A": [
   {
    "brand": "Haier",
@@ -70610,6 +70627,16 @@
    "brand": "Infinix",
    "device": "Infinix-X660",
    "model": "Infinix X660"
+  },
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X660B",
+   "model": "Infinix X660B"
+  },
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X660C",
+   "model": "Infinix X660C"
   }
  ],
  "SURF 2": [
@@ -101674,6 +101701,13 @@
    "model": "moto e(6s)"
   }
  ],
+ "moto g fast": [
+  {
+   "brand": "Motorola",
+   "device": "rav",
+   "model": "moto g fast"
+  }
+ ],
  "moto g power": [
   {
    "brand": "Motorola",
@@ -106118,6 +106152,13 @@
    "model": "NLS-NFT10"
   }
  ],
+ "Newland NLS-N7": [
+  {
+   "brand": "Newland",
+   "device": "NLS-N7-GL",
+   "model": "NLS-N7"
+  }
+ ],
  "Newsday_N2+": [
   {
    "brand": "Newsday",
@@ -107635,6 +107676,13 @@
    "brand": "ONYX",
    "device": "QuartzT10-3",
    "model": "QuartzT10-3"
+  }
+ ],
+ "KUWAIT": [
+  {
+   "brand": "ORCA",
+   "device": "samseong",
+   "model": "AI PONT"
   }
  ],
  "BM57 lite": [
@@ -124079,6 +124127,11 @@
    "brand": "Samsung",
    "device": "a01q",
    "model": "SM-A015V"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a01q",
+   "model": "SM-S111DL"
   }
  ],
  "Galaxy A10": [
@@ -128571,6 +128624,18 @@
    "brand": "Samsung",
    "device": "vastoicmcc",
    "model": "GT-I8258"
+  }
+ ],
+ "Galaxy M01": [
+  {
+   "brand": "Samsung",
+   "device": "m01q",
+   "model": "SM-M015F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "m01q",
+   "model": "SM-M015G"
   }
  ],
  "Galaxy M10": [
@@ -150037,6 +150102,11 @@
    "brand": "TCT (Alcatel)",
    "device": "Milan",
    "model": "5061A"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Milan",
+   "model": "5061K_EEA"
   },
   {
    "brand": "TCT (Alcatel)",
