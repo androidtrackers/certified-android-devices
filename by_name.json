@@ -114113,6 +114113,11 @@
   {
    "brand": "Philips",
    "device": "PH9M_EA_5599",
+   "model": "TPM191E"
+  },
+  {
+   "brand": "Philips",
+   "device": "PH9M_EA_5599",
    "model": "TPM191L"
   }
  ],
@@ -144307,6 +144312,13 @@
    "brand": "Spectralink",
    "device": "Versity",
    "model": "Versity 9653"
+  }
+ ],
+ "AM801": [
+  {
+   "brand": "Speedmind",
+   "device": "AM801",
+   "model": "AM801"
   }
  ],
  "Pr6145": [

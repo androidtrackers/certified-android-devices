@@ -87551,6 +87551,11 @@
   {
    "device": "PH9M_EA_5599",
    "name": "4K UHD LED Android TV with Ambilight 3-sided and Google Assistant",
+   "model": "TPM191E"
+  },
+  {
+   "device": "PH9M_EA_5599",
+   "name": "4K UHD LED Android TV with Ambilight 3-sided and Google Assistant",
    "model": "TPM191L"
   },
   {
@@ -113703,6 +113708,11 @@
   }
  ],
  "Speedmind": [
+  {
+   "device": "AM801",
+   "name": "AM801",
+   "model": "AM801"
+  },
   {
    "device": "Pr6145",
    "name": "Pr6145",

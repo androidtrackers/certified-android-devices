@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-04-29
+Last sync is 2020-04-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17063,6 +17063,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|4K OLED TV powered by Android|PH7M_LT_5596|TPM171E|
 |Philips|4K Razor Slim LED TV powered by Android TV™|MT5593Uplus|QM151E|
 |Philips|4K Razor Slim OLED TV powered by Android TV|QM16XE_UB|QM161E|
+|Philips|4K UHD LED Android TV with Ambilight 3-sided and Google Assistant|PH9M_EA_5599|TPM191E|
 |Philips|4K UHD LED Android TV with Ambilight 3-sided and Google Assistant|PH9M_EA_5599|TPM191L|
 |Philips|4K UHD Razor Slim LED TV powered by Android™|QV151E|QV151E|
 |Philips|4K Ultra Slim LED TV powered by Android|QM16XE_U|QM163E|
@@ -22206,6 +22207,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Spectralink|Versity|Versity|Versity 9553|
 |Spectralink|Versity|Versity|Versity 9640|
 |Spectralink|Versity|Versity|Versity 9653|
+|Speedmind|AM801|AM801|AM801|
 |Speedmind|Pr6145|Pr6145|Pr6145|
 |Spice|Dream Uno|Mi-498_sprout|Spice Mi-498|
 |Spice|Dream Uno|Mi-498_sprout|Spice Mi-498H|

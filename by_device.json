@@ -113558,6 +113558,11 @@
   {
    "brand": "Philips",
    "name": "4K UHD LED Android TV with Ambilight 3-sided and Google Assistant",
+   "model": "TPM191E"
+  },
+  {
+   "brand": "Philips",
+   "name": "4K UHD LED Android TV with Ambilight 3-sided and Google Assistant",
    "model": "TPM191L"
   }
  ],
@@ -146765,6 +146770,13 @@
    "brand": "Spectralink",
    "name": "Versity",
    "model": "Versity 9653"
+  }
+ ],
+ "AM801": [
+  {
+   "brand": "Speedmind",
+   "name": "AM801",
+   "model": "AM801"
   }
  ],
  "Pr6145": [
