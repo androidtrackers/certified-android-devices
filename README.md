@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-04-30
+Last sync is 2020-05-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -16085,6 +16085,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 7T Pro 5G|OnePlus7TProNR|HD1925|
 |OnePlus|OnePlus 8|OnePlus8|IN2013|
 |OnePlus|OnePlus 8 5G|OnePlus8TMO|IN2017|
+|OnePlus|OnePlus 8 5G UW|OnePlus8VZW|IN2019|
 |OnePlus|OnePlus 8 Pro|OnePlus8Pro|IN2023|
 |OnePlus|OnePlus2|OnePlus2|ONE A2003|
 |OnePlus|OnePlus3|OnePlus3|ONEPLUS A3000|

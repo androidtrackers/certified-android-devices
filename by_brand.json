@@ -82557,6 +82557,11 @@
    "model": "IN2017"
   },
   {
+   "device": "OnePlus8VZW",
+   "name": "OnePlus 8 5G UW",
+   "model": "IN2019"
+  },
+  {
    "device": "OnePlus8Pro",
    "name": "OnePlus 8 Pro",
    "model": "IN2023"
