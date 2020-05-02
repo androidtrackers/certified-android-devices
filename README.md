@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-05-01
+Last sync is 2020-05-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -24266,6 +24266,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Thomson|Thomson T50|Thomson_T50|Thomson T50|
 |Thomson|ThomsonTV|shibuya|ThomsonTV|
 |Thuraya|Thuraya X5-Touch|X5-Touch|Thuraya X5-Touch|
+|TiVo Stream 4K|TiVo Stream 4K|SEI400TV|TiVo Stream 4K|
 |Tigers|TIS001|TIS001|TIS001|
 |Tigers|TIS001A|TIS001A|TIS001A|
 |Tigers|TIS001B|TIS001B|TIS001B|

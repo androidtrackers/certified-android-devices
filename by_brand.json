@@ -124230,6 +124230,13 @@
    "model": "Thuraya X5-Touch"
   }
  ],
+ "TiVo Stream 4K": [
+  {
+   "device": "SEI400TV",
+   "name": "TiVo Stream 4K",
+   "model": "TiVo Stream 4K"
+  }
+ ],
  "Tigers": [
   {
    "device": "TIS001",
