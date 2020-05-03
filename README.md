@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-05-02
+Last sync is 2020-05-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -15118,6 +15118,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto z4|foles|Moto Z3 Play|
 |Motorola|moto z4|foles|moto z4|
 |Motorola|motorola edge|racer|moto z4|
+|Motorola|motorola edge|racer|motorola edge|
 |Motorola|motorola edge plus|burton|motorola edge plus|
 |Motorola|motorola one|deen_sprout|motorola one|
 |Motorola|motorola one action|troika|motorola one action|

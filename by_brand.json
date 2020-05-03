@@ -77496,6 +77496,11 @@
    "model": "moto z4"
   },
   {
+   "device": "racer",
+   "name": "motorola edge",
+   "model": "motorola edge"
+  },
+  {
    "device": "burton",
    "name": "motorola edge plus",
    "model": "motorola edge plus"

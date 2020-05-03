@@ -104251,6 +104251,13 @@
    "device": "parker"
   }
  ],
+ "motorola edge": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge",
+   "device": "racer"
+  }
+ ],
  "motorola edge plus": [
   {
    "brand": "Motorola",
