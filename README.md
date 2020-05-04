@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-05-03
+Last sync is 2020-05-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -23285,6 +23285,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 3X|A3A_PLUS|5058T|
 |TCT (Alcatel)|Alcatel 3X|A3A_PLUS|5058Y|
 |TCT (Alcatel)|Alcatel 3X|Milan|5061A|
+|TCT (Alcatel)|Alcatel 3X|Milan|5061K|
 |TCT (Alcatel)|Alcatel 3X|Milan|5061K_EEA|
 |TCT (Alcatel)|Alcatel 3X|Milan|5061K_TR|
 |TCT (Alcatel)|Alcatel 3X|Milan|5061U|
