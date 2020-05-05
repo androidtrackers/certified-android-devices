@@ -70313,6 +70313,43 @@
    "model": "DM65UXR"
   }
  ],
+ "seocho": [
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "JVC 4K Android TV"
+  },
+  {
+   "brand": "KONKA",
+   "name": "KONKA",
+   "model": "KONKA 4K Android TV"
+  },
+  {
+   "brand": "MTC",
+   "name": "Hangsung",
+   "model": "Hansung 4K Android TV"
+  },
+  {
+   "brand": "MTC",
+   "name": "SmartEver",
+   "model": "SmartEver 4K Android TV"
+  },
+  {
+   "brand": "Umax",
+   "name": "UMAX",
+   "model": "UMAX 4K Android TV"
+  },
+  {
+   "brand": "iRiver",
+   "name": "iRiver",
+   "model": "Iriver 4K Android TV"
+  },
+  {
+   "brand": "truvii",
+   "name": "Truvii",
+   "model": "Truvii 4K Android TV"
+  }
+ ],
  "Cunda": [
   {
    "brand": "JVC",
@@ -71428,13 +71465,6 @@
    "brand": "KONKA",
    "name": "KM7012BK",
    "model": "KM7012BK"
-  }
- ],
- "seocho": [
-  {
-   "brand": "KONKA",
-   "name": "KONKA",
-   "model": "KONKA 4K Android TV"
   }
  ],
  "RE1": [
@@ -112130,6 +112160,11 @@
    "model": "GX655"
   },
   {
+   "brand": "Panasonic",
+   "name": "Panasonic TV",
+   "model": "GX655"
+  },
+  {
    "brand": "Skyworth",
    "name": "APAC",
    "model": "SWTV"
@@ -113425,6 +113460,11 @@
   {
    "brand": "Philco",
    "name": "Brazil",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "THEHAM",
+   "name": "Korea",
    "model": "AI PONT"
   }
  ],
@@ -123846,6 +123886,11 @@
   {
    "brand": "Samsung",
    "name": "Galaxy A01",
+   "model": "SM-A015AZ"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A01",
    "model": "SM-A015F"
   },
   {
@@ -124586,6 +124631,23 @@
    "brand": "Samsung",
    "name": "Galaxy A51",
    "model": "SM-A515W"
+  }
+ ],
+ "a51x": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A51 5G",
+   "model": "SM-A5160"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A51 5G",
+   "model": "SM-A516B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A51 5G",
+   "model": "SM-A516N"
   }
  ],
  "a6elteaio": [
@@ -163632,6 +163694,13 @@
    "model": "V1963A"
   }
  ],
+ "PD1965": [
+  {
+   "brand": "Vivo",
+   "name": "V1965A",
+   "model": "V1965A"
+  }
+ ],
  "Y37": [
   {
    "brand": "Vivo",
@@ -164520,6 +164589,13 @@
    "brand": "Vivo",
    "name": "vivo 1935",
    "model": "vivo 1935"
+  }
+ ],
+ "1937": [
+  {
+   "brand": "Vivo",
+   "name": "vivo 1937",
+   "model": "vivo 1937"
   }
  ],
  "PD1806": [
@@ -167903,6 +167979,11 @@
    "brand": "Wiko",
    "name": "Y61",
    "model": "W-K560-TVM"
+  },
+  {
+   "brand": "Wiko",
+   "name": "Y61",
+   "model": "W-K560-TVM1G"
   }
  ],
  "W-V720": [

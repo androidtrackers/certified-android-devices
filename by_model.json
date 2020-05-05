@@ -4143,6 +4143,11 @@
    "device": "samseong"
   },
   {
+   "brand": "THEHAM",
+   "name": "Korea",
+   "device": "sindorim"
+  },
+  {
    "brand": "Thomson",
    "name": "Algeria",
    "device": "ikebukuro"
@@ -72581,6 +72586,11 @@
    "brand": "JVC",
    "name": "JVC",
    "device": "bangbae"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "device": "seocho"
   }
  ],
  "J20": [
@@ -95180,6 +95190,20 @@
    "device": "Vodafone_785"
   }
  ],
+ "Hansung 4K Android TV": [
+  {
+   "brand": "MTC",
+   "name": "Hangsung",
+   "device": "seocho"
+  }
+ ],
+ "SmartEver 4K Android TV": [
+  {
+   "brand": "MTC",
+   "name": "SmartEver",
+   "device": "seocho"
+  }
+ ],
  "Smart_Light": [
   {
    "brand": "MTC",
@@ -115524,6 +115548,11 @@
    "brand": "Panasonic",
    "name": "GX655",
    "device": "SW3_ATV"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "Panasonic TV",
+   "device": "SW3H_ATV"
   }
  ],
  "GX700C": [
@@ -127554,6 +127583,13 @@
    "device": "a01q"
   }
  ],
+ "SM-A015AZ": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A01",
+   "device": "a01q"
+  }
+ ],
  "SM-A015F": [
   {
    "brand": "Samsung",
@@ -128527,6 +128563,27 @@
    "brand": "Samsung",
    "name": "Galaxy A51",
    "device": "a51"
+  }
+ ],
+ "SM-A5160": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A51 5G",
+   "device": "a51x"
+  }
+ ],
+ "SM-A516B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A51 5G",
+   "device": "a51x"
+  }
+ ],
+ "SM-A516N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A51 5G",
+   "device": "a51x"
   }
  ],
  "SM-A600AZ": [
@@ -167340,6 +167397,13 @@
    "device": "U452TL"
   }
  ],
+ "UMAX 4K Android TV": [
+  {
+   "brand": "Umax",
+   "name": "UMAX",
+   "device": "seocho"
+  }
+ ],
  "visionbook P55 LTE": [
   {
    "brand": "Umax",
@@ -170792,6 +170856,13 @@
    "device": "PD1963"
   }
  ],
+ "V1965A": [
+  {
+   "brand": "Vivo",
+   "name": "V1965A",
+   "device": "PD1965"
+  }
+ ],
  "vivo Y37": [
   {
    "brand": "Vivo",
@@ -171637,6 +171708,13 @@
    "brand": "Vivo",
    "name": "vivo 1935",
    "device": "1935"
+  }
+ ],
+ "vivo 1937": [
+  {
+   "brand": "Vivo",
+   "name": "vivo 1937",
+   "device": "1937"
   }
  ],
  "vivo NEX S": [
@@ -174985,6 +175063,13 @@
   }
  ],
  "W-K560-TVM": [
+  {
+   "brand": "Wiko",
+   "name": "Y61",
+   "device": "W-K560"
+  }
+ ],
+ "W-K560-TVM1G": [
   {
    "brand": "Wiko",
    "name": "Y61",
@@ -189781,6 +189866,13 @@
    "device": "itq700"
   }
  ],
+ "Iriver 4K Android TV": [
+  {
+   "brand": "iRiver",
+   "name": "iRiver",
+   "device": "seocho"
+  }
+ ],
  "L21": [
   {
    "brand": "iRulu",
@@ -190398,6 +190490,13 @@
    "brand": "truevisions",
    "name": "N9106H-C",
    "device": "HB_N9106H_C_truevisions"
+  }
+ ],
+ "Truvii 4K Android TV": [
+  {
+   "brand": "truvii",
+   "name": "Truvii",
+   "device": "seocho"
   }
  ],
  "EASY1": [

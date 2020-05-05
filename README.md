@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-05-04
+Last sync is 2020-05-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10362,6 +10362,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|JVC|bangbae|EU 4K Android TV|
 |JVC|JVC|bangbae|Engel 4K Android TV|
 |JVC|JVC|bangbae|JVC 4K Android TV|
+|JVC|JVC|seocho|JVC 4K Android TV|
 |JVC|JVC J20|Cunda|J20|
 |JVC|LT-32K397|osaki|2K AI Smart TV|
 |JVL (Australia)|JVL070TAB812BLK|JVL070TAB812BLK|JVL070TAB812BLK|
@@ -13740,6 +13741,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MSota|Nobby X800|Nobby_X800|Nobby X800|
 |MSota|Nobby X800 Pro|Nobby_X800_Pro|Nobby X800 Pro|
 |MTC|982|MTC_982|MTC 982|
+|MTC|Hangsung|seocho|Hansung 4K Android TV|
+|MTC|SmartEver|seocho|SmartEver 4K Android TV|
 |MTC|Smart_Light|Smart_Light|Smart_Light|
 |MTC|Vodafone Smart mini|Vodafone_875|MTC 970H|
 |MTN Group|5982C3|MTN-TBW5982C3|MTN-TBW5982C3|
@@ -16909,6 +16912,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|Panasonic P90 3G|Panasonic_P90_3G|Panasonic P90 3G|
 |Panasonic|Panasonic P95|P95|Panasonic P95|
 |Panasonic|Panasonic T70|T70|Panasonic T70|
+|Panasonic|Panasonic TV|SW3H_ATV|GX655|
 |Panasonic|RSE1708|RSE1708|RSE1708|
 |Panasonic|SDU|SDU|9 inch SDU|
 |Panasonic|SDU|SDU|SDU|
@@ -18655,6 +18659,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A|archer|archer|
 |Samsung|Galaxy A Quantum|a71x|SM-A716S|
 |Samsung|Galaxy A01|a01q|SM-A015A|
+|Samsung|Galaxy A01|a01q|SM-A015AZ|
 |Samsung|Galaxy A01|a01q|SM-A015F|
 |Samsung|Galaxy A01|a01q|SM-A015G|
 |Samsung|Galaxy A01|a01q|SM-A015M|
@@ -18796,6 +18801,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A51|a51|SM-A515U|
 |Samsung|Galaxy A51|a51|SM-A515U1|
 |Samsung|Galaxy A51|a51|SM-A515W|
+|Samsung|Galaxy A51 5G|a51x|SM-A5160|
+|Samsung|Galaxy A51 5G|a51x|SM-A516B|
+|Samsung|Galaxy A51 5G|a51x|SM-A516N|
 |Samsung|Galaxy A6|a6elteaio|SM-A600AZ|
 |Samsung|Galaxy A6|a6elteatt|SM-A600A|
 |Samsung|Galaxy A6|a6eltemtr|SM-A600T1|
@@ -23789,6 +23797,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TESPRO|Mayumi U1|Mayumi_U1|Mayumi U1|
 |TG&Co.|TG-L800S|PHX|TG-L800S|
 |TG&Co.|TG-L900S|JGR|TG-L900S|
+|THEHAM|Korea|sindorim|AI PONT|
 |THL|Knight 2|Knight_2|Knight 2|
 |THTF|"TSINGHUA TONGFANG CO.|LTD."|TR10CD1_3|
 |TIM|TIM BOX|uzw4010tim|TIM_BOX|
@@ -24568,6 +24577,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umax|8A_Plus_eea|8A_Plus_eea|8A_Plus|
 |Umax|MediaTek|8Qa_3G|8Qa_3G|
 |Umax|U452TL|U452TL|U452TL|
+|Umax|UMAX|seocho|UMAX 4K Android TV|
 |Umax|UMAX|visionbook_P55_LTE|visionbook P55 LTE|
 |Umax|VisionBook P50 Plus LTE|P50Plus_LTE|VisionBook_P50Plus_LTE|
 |Umax|VisionBook P55 X2 LTE|VisionBook_P55_X2_LTE|VisionBook P55 X2 LTE|
@@ -25109,6 +25119,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V1955A|PD1955|V1955A|
 |Vivo|V1962A|PD1962|V1962A|
 |Vivo|V1963A|PD1963|V1963A|
+|Vivo|V1965A|PD1965|V1965A|
 |Vivo|V1Max|Y37|vivo Y37|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
@@ -25237,6 +25248,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo 1921|1921|vivo 1921|
 |Vivo|vivo 1933|1933|vivo 1933|
 |Vivo|vivo 1935|1935|vivo 1935|
+|Vivo|vivo 1937|1937|vivo 1937|
 |Vivo|vivo NEX A|PD1806|vivo NEX A|
 |Vivo|vivo NEX S|PD1805|vivo NEX S|
 |Vivo|vivo S1|PD1831|V1831A|
@@ -25773,6 +25785,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|Y60|W-K510|W-K510S-SWI|
 |Wiko|Y60|W-K510DG|W-K510-TH|
 |Wiko|Y61|W-K560|W-K560-TVM|
+|Wiko|Y61|W-K560|W-K560-TVM1G|
 |Wiko|Y80|W-V720|W-V720-CA|
 |Wiko|Y80|W-V720|W-V720-EEA|
 |Wiko|Y80|W-V720|W-V720-OPE|
@@ -28067,6 +28080,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iRiver|Wow TAB +|itq701|ITQ701|
 |iRiver|Wow(Window of the world)|itq700|ITQ700|
 |iRiver|Wow(Window of the world)|itq700|YBMK01|
+|iRiver|iRiver|seocho|Iriver 4K Android TV|
 |iRulu|Irulu|octopus-masu|X10|
 |iRulu|L20|L20|L20|
 |iRulu|L21|L21|L21|
@@ -28173,6 +28187,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |truevisions|N9106H-B|HB_N9106H_B_truevisions|N9106H-B|
 |truevisions|N9106H-C|HB_N9106H_C_truevisions|N9106H-C|
 |truevisions|STI6030_TRUE_TV_A01|TV_A01|STI6030_TRUE_TV_A01|
+|truvii|Truvii|seocho|Truvii 4K Android TV|
 |ucall|EASY1|EASY1|EASY1|
 |unitel|P45|P45|P45|
 |unitel|U901|U901|U901|

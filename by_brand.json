@@ -53216,6 +53216,11 @@
    "model": "JVC 4K Android TV"
   },
   {
+   "device": "seocho",
+   "name": "JVC",
+   "model": "JVC 4K Android TV"
+  },
+  {
    "device": "Cunda",
    "name": "JVC J20",
    "model": "J20"
@@ -70434,6 +70439,16 @@
    "model": "MTC 982"
   },
   {
+   "device": "seocho",
+   "name": "Hangsung",
+   "model": "Hansung 4K Android TV"
+  },
+  {
+   "device": "seocho",
+   "name": "SmartEver",
+   "model": "SmartEver 4K Android TV"
+  },
+  {
    "device": "Smart_Light",
    "name": "Smart_Light",
    "model": "Smart_Light"
@@ -86751,6 +86766,11 @@
    "model": "Panasonic T70"
   },
   {
+   "device": "SW3H_ATV",
+   "name": "Panasonic TV",
+   "model": "GX655"
+  },
+  {
    "device": "RSE1708",
    "name": "RSE1708",
    "model": "RSE1708"
@@ -95795,6 +95815,11 @@
   {
    "device": "a01q",
    "name": "Galaxy A01",
+   "model": "SM-A015AZ"
+  },
+  {
+   "device": "a01q",
+   "name": "Galaxy A01",
    "model": "SM-A015F"
   },
   {
@@ -96496,6 +96521,21 @@
    "device": "a51",
    "name": "Galaxy A51",
    "model": "SM-A515W"
+  },
+  {
+   "device": "a51x",
+   "name": "Galaxy A51 5G",
+   "model": "SM-A5160"
+  },
+  {
+   "device": "a51x",
+   "name": "Galaxy A51 5G",
+   "model": "SM-A516B"
+  },
+  {
+   "device": "a51x",
+   "name": "Galaxy A51 5G",
+   "model": "SM-A516N"
   },
   {
    "device": "a6elteaio",
@@ -121711,6 +121751,13 @@
    "model": "TG-L900S"
   }
  ],
+ "THEHAM": [
+  {
+   "device": "sindorim",
+   "name": "Korea",
+   "model": "AI PONT"
+  }
+ ],
  "THL": [
   {
    "device": "Knight_2",
@@ -125830,6 +125877,11 @@
    "model": "U452TL"
   },
   {
+   "device": "seocho",
+   "name": "UMAX",
+   "model": "UMAX 4K Android TV"
+  },
+  {
    "device": "visionbook_P55_LTE",
    "name": "UMAX",
    "model": "visionbook P55 LTE"
@@ -128669,6 +128721,11 @@
    "model": "V1963A"
   },
   {
+   "device": "PD1965",
+   "name": "V1965A",
+   "model": "V1965A"
+  },
+  {
    "device": "Y37",
    "name": "V1Max",
    "model": "vivo Y37"
@@ -129307,6 +129364,11 @@
    "device": "1935",
    "name": "vivo 1935",
    "model": "vivo 1935"
+  },
+  {
+   "device": "1937",
+   "name": "vivo 1937",
+   "model": "vivo 1937"
   },
   {
    "device": "PD1806",
@@ -132071,6 +132133,11 @@
    "device": "W-K560",
    "name": "Y61",
    "model": "W-K560-TVM"
+  },
+  {
+   "device": "W-K560",
+   "name": "Y61",
+   "model": "W-K560-TVM1G"
   },
   {
    "device": "W-V720",
@@ -143779,6 +143846,11 @@
    "device": "itq700",
    "name": "Wow(Window of the world)",
    "model": "YBMK01"
+  },
+  {
+   "device": "seocho",
+   "name": "iRiver",
+   "model": "Iriver 4K Android TV"
   }
  ],
  "iRulu": [
@@ -144361,6 +144433,13 @@
    "device": "TV_A01",
    "name": "STI6030_TRUE_TV_A01",
    "model": "STI6030_TRUE_TV_A01"
+  }
+ ],
+ "truvii": [
+  {
+   "device": "seocho",
+   "name": "Truvii",
+   "model": "Truvii 4K Android TV"
   }
  ],
  "ucall": [
