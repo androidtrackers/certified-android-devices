@@ -36970,6 +36970,11 @@
    "model": "HLTE202N"
   },
   {
+   "device": "HLTE730T",
+   "name": "A6L",
+   "model": "HLTE730T"
+  },
+  {
    "device": "HS8976QC",
    "name": "AGM  X2",
    "model": "AGM X2"
@@ -77411,6 +77416,11 @@
    "model": "moto g(7) power"
   },
   {
+   "device": "ocean_t",
+   "name": "moto g(7) power",
+   "model": "moto g(7) power"
+  },
+  {
    "device": "ocean",
    "name": "moto g(7) supra",
    "model": "moto g(7) supra"
@@ -79189,6 +79199,13 @@
    "device": "NID_7010",
    "name": "NID_7010",
    "model": "NID_7010"
+  }
+ ],
+ "NCTC": [
+  {
+   "device": "KSTB2020",
+   "name": "KSTB2020",
+   "model": "KSTB2020"
   }
  ],
  "NEC": [
@@ -110273,6 +110290,11 @@
  ],
  "SkyLife": [
   {
+   "device": "KSTB2019",
+   "name": "KSTB2019",
+   "model": "KSTB2019"
+  },
+  {
    "device": "DMTS18SS",
    "name": "Skylife android 2nd TV",
    "model": "USI-7000NA"
@@ -114102,6 +114124,13 @@
    "device": "star_plus_plus",
    "name": "star_plus_plus",
    "model": "star_plus_plus"
+  }
+ ],
+ "Stofa": [
+  {
+   "device": "IC1130",
+   "name": "IC1130",
+   "model": "IC1130"
   }
  ],
  "Storex": [
@@ -118862,6 +118891,11 @@
    "device": "Tokyo_Lite",
    "name": "Alcatel 1V",
    "model": "5007U_RU"
+  },
+  {
+   "device": "Tokyo_Lite",
+   "name": "Alcatel 1V",
+   "model": "5007U_TR"
   },
   {
    "device": "Wright",

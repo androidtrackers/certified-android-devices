@@ -56136,6 +56136,13 @@
    "model": "Hisense A2T"
   }
  ],
+ "A6L": [
+  {
+   "brand": "Hisense",
+   "device": "HLTE730T",
+   "model": "HLTE730T"
+  }
+ ],
  "AGM  X2": [
   {
    "brand": "Hisense",
@@ -101907,6 +101914,11 @@
    "brand": "Motorola",
    "device": "ocean_n",
    "model": "moto g(7) power"
+  },
+  {
+   "brand": "Motorola",
+   "device": "ocean_t",
+   "model": "moto g(7) power"
   }
  ],
  "moto g(7) supra": [
@@ -104163,6 +104175,13 @@
    "brand": "NAXA",
    "device": "NID_7010",
    "model": "NID_7010"
+  }
+ ],
+ "KSTB2020": [
+  {
+   "brand": "NCTC",
+   "device": "KSTB2020",
+   "model": "KSTB2020"
   }
  ],
  "101T 　MEDIAS": [
@@ -140480,6 +140499,13 @@
    "model": "PRO_SELFIE"
   }
  ],
+ "KSTB2019": [
+  {
+   "brand": "SkyLife",
+   "device": "KSTB2019",
+   "model": "KSTB2019"
+  }
+ ],
  "Skylife android 2nd TV": [
   {
    "brand": "SkyLife",
@@ -144812,6 +144838,13 @@
    "brand": "Starlight",
    "device": "star_plus_plus",
    "model": "star_plus_plus"
+  }
+ ],
+ "IC1130": [
+  {
+   "brand": "Stofa",
+   "device": "IC1130",
+   "model": "IC1130"
   }
  ],
  "eZee'Tab7Q11-M": [
@@ -149803,6 +149836,11 @@
    "brand": "TCT (Alcatel)",
    "device": "Tokyo_Lite",
    "model": "5007U_RU"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Tokyo_Lite",
+   "model": "5007U_TR"
   },
   {
    "brand": "TCT (Alcatel)",

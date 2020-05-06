@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-05-05
+Last sync is 2020-05-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7148,6 +7148,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|A2M|HS8953QC|Hisense A2M|
 |Hisense|A2T|HS8953QC|Hisense A2T|
 |Hisense|A5|HLTE202N|HLTE202N|
+|Hisense|A6L|HLTE730T|HLTE730T|
 |Hisense|AGM  X2|HS8976QC|AGM X2|
 |Hisense|AGM  X2|HS8976QC|X2 SE|
 |Hisense|AGM  X2|HS8976QC|X2_SE|
@@ -15101,6 +15102,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g(7) power|ocean|moto g(6) play|
 |Motorola|moto g(7) power|ocean|moto g(7) power|
 |Motorola|moto g(7) power|ocean_n|moto g(7) power|
+|Motorola|moto g(7) power|ocean_t|moto g(7) power|
 |Motorola|moto g(7) supra|ocean|moto g(7) supra|
 |Motorola|moto g(8)|rav|moto g(7)|
 |Motorola|moto g(8)|rav|moto g(8)|
@@ -15447,6 +15449,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NAVA|P68|P68|P68|
 |NAXA|NID-7011|NID-7011|NID-7011|
 |NAXA|NID_7010|NID_7010|NID_7010|
+|NCTC|KSTB2020|KSTB2020|KSTB2020|
 |NEC|101T 　MEDIAS|NEC-101|NEC-101T|
 |NEC|AGT10|AGT10|N8730-411|
 |NEC|AGT10|AGT10|N8730-41101|
@@ -21533,6 +21536,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|SKY_Pro_III|SKY_Pro_III|SKY_Pro_III|
 |Sky Devices|Sky Vision2|Sky_Vision2|Sky Vision2|
 |Sky Devices|pro selfie|PRO_SELFIE|PRO_SELFIE|
+|SkyLife|KSTB2019|KSTB2019|KSTB2019|
 |SkyLife|Skylife android 2nd TV|DMTS18SS|USI-7000NA|
 |SkyLife|UHD2|IC1110|IC1110|
 |SkyLife|UHD_S56AT|INTEKS19SS|UHD_S56AT|
@@ -22284,6 +22288,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Starlight|star_X|star_X|star_X|
 |Starlight|star_phone_x|star_phone_x|star_phone_x|
 |Starlight|star_plus_plus|star_plus_plus|star_plus_plus|
+|Stofa|IC1130|IC1130|IC1130|
 |Storex|eZee'Tab7Q11-M|Tab7Q11|Tab7Q11|
 |Storex|eZeeTab10D12-S|eZeeTab10D12-S|eZeeTab10D12-S|
 |Storex|eZeeTab7D15-M|eZeeTab7D15-M|eZeeTab7D15-M|
@@ -23222,6 +23227,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007U|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007U_EEA|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007U_RU|
+|TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007U_TR|
 |TCT (Alcatel)|Alcatel 1V|Wright|5001A|
 |TCT (Alcatel)|Alcatel 1V|Wright|5001D_EEA|
 |TCT (Alcatel)|Alcatel 1V|Wright|5001D_RU|

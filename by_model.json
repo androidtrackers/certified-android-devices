@@ -51138,6 +51138,13 @@
    "device": "HLTE202N"
   }
  ],
+ "HLTE730T": [
+  {
+   "brand": "Hisense",
+   "name": "A6L",
+   "device": "HLTE730T"
+  }
+ ],
  "AGM X2": [
   {
    "brand": "Hisense",
@@ -104176,6 +104183,11 @@
    "brand": "Motorola",
    "name": "moto g(7) power",
    "device": "ocean_n"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g(7) power",
+   "device": "ocean_t"
   }
  ],
  "moto g(7) supra": [
@@ -106410,6 +106422,13 @@
    "brand": "NAXA",
    "name": "NID-7011",
    "device": "NID-7011"
+  }
+ ],
+ "KSTB2020": [
+  {
+   "brand": "NCTC",
+   "name": "KSTB2020",
+   "device": "KSTB2020"
   }
  ],
  "NEC-101T": [
@@ -147210,6 +147229,13 @@
    "device": "PRO_SELFIE"
   }
  ],
+ "KSTB2019": [
+  {
+   "brand": "SkyLife",
+   "name": "KSTB2019",
+   "device": "KSTB2019"
+  }
+ ],
  "USI-7000NA": [
   {
    "brand": "SkyLife",
@@ -152078,6 +152104,13 @@
    "brand": "Starlight",
    "name": "star_plus_plus",
    "device": "star_plus_plus"
+  }
+ ],
+ "IC1130": [
+  {
+   "brand": "Stofa",
+   "name": "IC1130",
+   "device": "IC1130"
   }
  ],
  "Tab7Q11": [
@@ -158526,6 +158559,13 @@
   }
  ],
  "5007U_RU": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1V",
+   "device": "Tokyo_Lite"
+  }
+ ],
+ "5007U_TR": [
   {
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1V",
