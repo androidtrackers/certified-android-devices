@@ -34150,6 +34150,13 @@
    "model": "GDENTMY7317"
   }
  ],
+ "CHOTT0102": [
+  {
+   "brand": "EONSmartBox",
+   "name": "CHOTT0102",
+   "model": "CHOTT0102"
+  }
+ ],
  "DV8519": [
   {
    "brand": "EONSmartBox",
@@ -99759,6 +99766,16 @@
    "brand": "Motorola",
    "name": "Moto G Turbo Edition",
    "model": "MotoG3-TE"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10X 4G",
+   "model": "M2003J15SC"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 9",
+   "model": "M2003J15SC"
   }
  ],
  "peregrine": [
@@ -105702,6 +105719,13 @@
    "brand": "Nokia",
    "name": "Nokia 5.1 Plus",
    "model": "Nokia 5.1 Plus"
+  }
+ ],
+ "CAP_sprout": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia 5.3",
+   "model": "Nokia 5.3"
   }
  ],
  "D1C": [
@@ -123991,6 +124015,11 @@
    "brand": "Samsung",
    "name": "Galaxy A11",
    "model": "SM-A115M"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A11",
+   "model": "SM-A115U"
   }
  ],
  "a2corelte": [
@@ -124110,6 +124139,13 @@
    "brand": "Samsung",
    "name": "Galaxy A20s",
    "model": "SM-A207M"
+  }
+ ],
+ "a21s": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A21s",
+   "model": "SM-A217F"
   }
  ],
  "a33g": [

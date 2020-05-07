@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-05-06
+Last sync is 2020-05-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4590,6 +4590,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ENIE|EH3|EH3|EH3|
 |ENIE|ENIE_E2|ENIE_E2|ENIE_E2|
 |ENTITY|GDENTMY7317|GDENTMY7317|GDENTMY7317|
+|EONSmartBox|CHOTT0102|CHOTT0102|CHOTT0102|
 |EONSmartBox|SDOTT0202|DV8519|SDOTT0202|
 |EPIKONE|K400|K400|K400|
 |EPIKONE|K405|K405|K405|
@@ -15862,6 +15863,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia 5.1|CO2N_sprout|Nokia 5.1|
 |Nokia|Nokia 5.1|CO2_sprout|Nokia 5.1|
 |Nokia|Nokia 5.1 Plus|PDA_sprout|Nokia 5.1 Plus|
+|Nokia|Nokia 5.3|CAP_sprout|Nokia 5.3|
 |Nokia|Nokia 6|D1C|TA-1000|
 |Nokia|Nokia 6|D1C|TA-1003|
 |Nokia|Nokia 6|PL2|TA-1054|
@@ -18233,6 +18235,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi  7A|pine|Redmi 7A|
 |Redmi|Redmi  7A|pine|pine|
 |Redmi|Redmi  Note  7|lavender|Redmi Note 7|
+|Redmi|Redmi 10X 4G|merlin|M2003J15SC|
 |Redmi|Redmi 6|cereus|Redmi 6|
 |Redmi|Redmi 7|onc|Redmi 7|
 |Redmi|Redmi 7|onc|Redmi Y3|
@@ -18256,6 +18259,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 8 pro|begoniain|Redmi Note 8 Pro|
 |Redmi|Redmi Note 8T|willow|Redmi Note 8T|
 |Redmi|Redmi Note 8T|willow|willow|
+|Redmi|Redmi Note 9|merlin|M2003J15SC|
 |Redway|redway10|redway10|redway10|
 |Redway|redway_7|redway_7|redway_7|
 |Reeder|A8i Q2|A8i-Q2|A8i-Q2|
@@ -18683,6 +18687,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A10s|a10s|SM-A107M|
 |Samsung|Galaxy A11|a11q|SM-A115F|
 |Samsung|Galaxy A11|a11q|SM-A115M|
+|Samsung|Galaxy A11|a11q|SM-A115U|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260F|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260G|
 |Samsung|Galaxy A20|SC-02M|SC-02M|
@@ -18702,6 +18707,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A20s|a20s|SM-A2070|
 |Samsung|Galaxy A20s|a20s|SM-A207F|
 |Samsung|Galaxy A20s|a20s|SM-A207M|
+|Samsung|Galaxy A21s|a21s|SM-A217F|
 |Samsung|Galaxy A3|a33g|SM-A300H|
 |Samsung|Galaxy A3|a3lte|SM-A300F|
 |Samsung|Galaxy A3|a3lte|SM-A300M|

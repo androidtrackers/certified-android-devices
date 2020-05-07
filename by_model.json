@@ -33270,6 +33270,13 @@
    "device": "GDENTMY7317"
   }
  ],
+ "CHOTT0102": [
+  {
+   "brand": "EONSmartBox",
+   "name": "CHOTT0102",
+   "device": "CHOTT0102"
+  }
+ ],
  "SDOTT0202": [
   {
    "brand": "EONSmartBox",
@@ -109145,6 +109152,13 @@
    "device": "PDA_sprout"
   }
  ],
+ "Nokia 5.3": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia 5.3",
+   "device": "CAP_sprout"
+  }
+ ],
  "TA-1000": [
   {
    "brand": "Nokia",
@@ -124727,6 +124741,18 @@
    "device": "lavender"
   }
  ],
+ "M2003J15SC": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10X 4G",
+   "device": "merlin"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 9",
+   "device": "merlin"
+  }
+ ],
  "Redmi 6": [
   {
    "brand": "Redmi",
@@ -127749,6 +127775,13 @@
    "device": "a11q"
   }
  ],
+ "SM-A115U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A11",
+   "device": "a11q"
+  }
+ ],
  "SM-A260F": [
   {
    "brand": "Samsung",
@@ -127880,6 +127913,13 @@
    "brand": "Samsung",
    "name": "Galaxy A20s",
    "device": "a20s"
+  }
+ ],
+ "SM-A217F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A21s",
+   "device": "a21s"
   }
  ],
  "SM-A300H": [

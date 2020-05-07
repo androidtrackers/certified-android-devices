@@ -39453,6 +39453,13 @@
    "model": "GDENTMY7317"
   }
  ],
+ "CHOTT0102": [
+  {
+   "brand": "EONSmartBox",
+   "device": "CHOTT0102",
+   "model": "CHOTT0102"
+  }
+ ],
  "SDOTT0202": [
   {
    "brand": "EONSmartBox",
@@ -106746,6 +106753,13 @@
    "model": "Nokia 5.1 Plus"
   }
  ],
+ "Nokia 5.3": [
+  {
+   "brand": "Nokia",
+   "device": "CAP_sprout",
+   "model": "Nokia 5.3"
+  }
+ ],
  "Nokia 6": [
   {
    "brand": "Nokia",
@@ -121653,6 +121667,13 @@
    "model": "Redmi Note 7"
   }
  ],
+ "Redmi 10X 4G": [
+  {
+   "brand": "Redmi",
+   "device": "merlin",
+   "model": "M2003J15SC"
+  }
+ ],
  "Redmi 6": [
   {
    "brand": "Redmi",
@@ -121821,6 +121842,13 @@
    "brand": "Redmi",
    "device": "willow",
    "model": "willow"
+  }
+ ],
+ "Redmi Note 9": [
+  {
+   "brand": "Redmi",
+   "device": "merlin",
+   "model": "M2003J15SC"
   }
  ],
  "redway10": [
@@ -124277,6 +124305,11 @@
    "brand": "Samsung",
    "device": "a11q",
    "model": "SM-A115M"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a11q",
+   "model": "SM-A115U"
   }
  ],
  "Galaxy A2 Core": [
@@ -124380,6 +124413,13 @@
    "brand": "Samsung",
    "device": "a20s",
    "model": "SM-A207M"
+  }
+ ],
+ "Galaxy A21s": [
+  {
+   "brand": "Samsung",
+   "device": "a21s",
+   "model": "SM-A217F"
   }
  ],
  "Galaxy A3": [
