@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-05-07
+Last sync is 2020-05-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3466,6 +3466,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Conquest|S11|conquest-S11|S11|
 |Conquest|conquest_S16|conquest_S16|conquest_S16|
 |Conquest|conquest_S16_RU|conquest_S16|conquest_S16|
+|Contex|Contex|yeongdeungpo|AiPlus4K|
 |Contixo|CONTIXO_V8|CONTIXO-V8|V8|
 |Contixo|K101|K101|K101|
 |Contixo|K102|K102|K102|
@@ -3762,6 +3763,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|ECHO|CUBOT_ECHO|CUBOT ECHO|
 |Cubot|J5|J5|J5|
 |Cubot|J7|J7|J7|
+|Cubot|KING KONG CS|KING_KONG_CS|KING KONG CS|
 |Cubot|KINGKONG_MINI|KINGKONG_MINI|KINGKONG_MINI|
 |Cubot|KING_KONG_3|KING_KONG_3|KING_KONG_3|
 |Cubot|MANITO|CUBOT_MANITO|CUBOT_MANITO|
@@ -3787,6 +3789,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Custom|K-Ranger|K-Ranger|K-Ranger_RU|
 |Custom|P-Ranger|P-Ranger|P-Ranger|
 |Custom|P-Ranger|P-Ranger|P-Ranger_ROW|
+|Custom|P-Ranger|P-Ranger|P-Ranger_RU|
 |Cutepad|Tab_4_M7078|Tab_4_M7078|Tab_4_M7078|
 |Cyrus|CM17|CM17|CM17|
 |Cyrus|CS22|CS22|CS22|
@@ -8355,6 +8358,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HONOR 9X|HWSTK-HF|STK-L22|
 |Huawei|HONOR 9X|HWSTK-HF|STK-LX1|
 |Huawei|HONOR 9X|HWSTK-HF|STK-LX3|
+|Huawei|HONOR 9X Lite|HWJSN-H|JSN-L21|
 |Huawei|HONOR 9X lite|HWJSN-H|JSN-L21|
 |Huawei|HONOR 9X lite|HWJSN-H|JSN-L22|
 |Huawei|HONOR 9X lite|HWJSN-H|JSN-L23|
@@ -10346,6 +10350,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel W5503|itel-W5503|itel W5503|
 |Itworks|TM705|TM705|NID_7010|
 |J:COM|XA401|XA401|XA401|
+|JAY-TECH|TPC-G1010|TPC-G1010_EEA|TPC-G1010|
 |JAY-TECH|TPC-G109_EEA|TPC-G109|TPC-G109|
 |JLab|PRO-7|polaris-p1gms|JLab PRO-7|
 |JP Sacouto|Flag Mill v2|MG101A2T_BT|Flag Mill v2|
@@ -10364,6 +10369,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|JVC|bangbae|EU 4K Android TV|
 |JVC|JVC|bangbae|Engel 4K Android TV|
 |JVC|JVC|bangbae|JVC 4K Android TV|
+|JVC|JVC|bangbae|JVC EU 4K Android TV|
 |JVC|JVC|seocho|JVC 4K Android TV|
 |JVC|JVC J20|Cunda|J20|
 |JVC|LT-32K397|osaki|2K AI Smart TV|
@@ -18197,6 +18203,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme 5pro|RMX1973|RMX1973|
 |Realme|realme 6|RMX2001L1|RMX2001|
 |Realme|realme 6|RMX2003L1|RMX2003|
+|Realme|realme 6Pro|RMX2061L1|RMX2061|
+|Realme|realme 6Pro|RMX2063L1|RMX2063|
 |Realme|realme 6i|RMX2030|RMX2190|
 |Realme|realme 6i|RMX2040|RMX2040|
 |Realme|realme 6i|RMX2041|RMX2041|
@@ -18260,6 +18268,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 8T|willow|Redmi Note 8T|
 |Redmi|Redmi Note 8T|willow|willow|
 |Redmi|Redmi Note 9|merlin|M2003J15SC|
+|Redmi|Redmi Note 9 Pro|joyeuse|Redmi Note 9 Pro|
 |Redway|redway10|redway10|redway10|
 |Redway|redway_7|redway_7|redway_7|
 |Reeder|A8i Q2|A8i-Q2|A8i-Q2|
@@ -18685,6 +18694,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A10e|a10ekx|SM-A102N|
 |Samsung|Galaxy A10s|a10s|SM-A107F|
 |Samsung|Galaxy A10s|a10s|SM-A107M|
+|Samsung|Galaxy A11|a11q|SM-A115A|
 |Samsung|Galaxy A11|a11q|SM-A115F|
 |Samsung|Galaxy A11|a11q|SM-A115M|
 |Samsung|Galaxy A11|a11q|SM-A115U|
@@ -21707,6 +21717,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 1|J9180|J9180|
 |Sony|Xperia 1|SO-03L|SO-03L|
 |Sony|Xperia 1|SOV40|SOV40|
+|Sony|Xperia 1 II|SO-51A|SO-51A|
 |Sony|Xperia 1 Professional Edition|J9150|J9150|
 |Sony|Xperia 10|I3113|I3113|
 |Sony|Xperia 10|I3123|I3123|
@@ -25261,6 +25272,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo 1933|1933|vivo 1933|
 |Vivo|vivo 1935|1935|vivo 1935|
 |Vivo|vivo 1937|1937|vivo 1937|
+|Vivo|vivo 2010|1902|vivo 1902|
+|Vivo|vivo 2010|1902|vivo 2010|
 |Vivo|vivo NEX A|PD1806|vivo NEX A|
 |Vivo|vivo NEX S|PD1805|vivo NEX S|
 |Vivo|vivo S1|PD1831|V1831A|
@@ -26045,6 +26058,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|MIX 3|perseus|Mi MIX 3|
 |Xiaomi|Mi 10|umi|Mi 10|
 |Xiaomi|Mi 10|umi|Umi|
+|Xiaomi|Mi 10 Lite zoom|vangogh|M2002J9E|
 |Xiaomi|Mi 10 Pro|cmi|Cmi|
 |Xiaomi|Mi 10 Pro|cmi|Mi 10 Pro|
 |Xiaomi|Mi 10 lite 5G|monet|M2002J9G|
@@ -26068,6 +26082,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Mi MIX 3 5G|andromeda|Mi MIX 3 5G|
 |Xiaomi|Mi Note|virgo|MI NOTE LTE|
 |Xiaomi|Mi Note 10|tucana|Mi Note 10|
+|Xiaomi|Mi Note 10 Lite|toco|Mi Note 10 Lite|
+|Xiaomi|Mi Note 10 Lite|toco|toco|
 |Xiaomi|Mi Note2|scorpio|Mi Note 2|
 |Xiaomi|Mi smart projector|eva|MiProjM05|
 |Xiaomi|Mi9 Pro 5G|crux|Mi9 Pro 5G|
@@ -28205,6 +28221,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |unitel|U901|U901|U901|
 |unitel|U902|U902|U902|
 |unitel|Unitel_Smart_1|Unitel_Smart_1|Unitel Smart 1|
+|vatenick|v7|v7|v7|
 |videocon|Delite 11|V503630|V503630|
 |videocon|Krypton 22+|V505024|V505024|
 |videocon|Metal Pro 1|V505820|V505820|

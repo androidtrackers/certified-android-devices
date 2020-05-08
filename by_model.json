@@ -25376,6 +25376,13 @@
    "device": "conquest_S16"
   }
  ],
+ "AiPlus4K": [
+  {
+   "brand": "Contex",
+   "name": "Contex",
+   "device": "yeongdeungpo"
+  }
+ ],
  "V8": [
   {
    "brand": "Contixo",
@@ -27476,6 +27483,13 @@
    "device": "J5"
   }
  ],
+ "KING KONG CS": [
+  {
+   "brand": "Cubot",
+   "name": "KING KONG CS",
+   "device": "KING_KONG_CS"
+  }
+ ],
  "KINGKONG_MINI": [
   {
    "brand": "Cubot",
@@ -27673,6 +27687,13 @@
   }
  ],
  "P-Ranger_ROW": [
+  {
+   "brand": "Custom",
+   "name": "P-Ranger",
+   "device": "P-Ranger"
+  }
+ ],
+ "P-Ranger_RU": [
   {
    "brand": "Custom",
    "name": "P-Ranger",
@@ -59260,6 +59281,11 @@
  "JSN-L21": [
   {
    "brand": "Huawei",
+   "name": "HONOR 9X Lite",
+   "device": "HWJSN-H"
+  },
+  {
+   "brand": "Huawei",
    "name": "HONOR 9X lite",
    "device": "HWJSN-H"
   },
@@ -72489,6 +72515,13 @@
    "device": "XA401"
   }
  ],
+ "TPC-G1010": [
+  {
+   "brand": "JAY-TECH",
+   "name": "TPC-G1010",
+   "device": "TPC-G1010_EEA"
+  }
+ ],
  "TPC-G109": [
   {
    "brand": "JAY-TECH",
@@ -72605,6 +72638,13 @@
    "brand": "JVC",
    "name": "JVC",
    "device": "seocho"
+  }
+ ],
+ "JVC EU 4K Android TV": [
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "device": "bangbae"
   }
  ],
  "J20": [
@@ -124456,6 +124496,20 @@
    "device": "RMX2003L1"
   }
  ],
+ "RMX2061": [
+  {
+   "brand": "Realme",
+   "name": "realme 6Pro",
+   "device": "RMX2061L1"
+  }
+ ],
+ "RMX2063": [
+  {
+   "brand": "Realme",
+   "name": "realme 6Pro",
+   "device": "RMX2063L1"
+  }
+ ],
  "RMX2190": [
   {
    "brand": "Realme",
@@ -124900,6 +124954,13 @@
    "brand": "Redmi",
    "name": "Redmi Note 8T",
    "device": "willow"
+  }
+ ],
+ "Redmi Note 9 Pro": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 9 Pro",
+   "device": "joyeuse"
   }
  ],
  "redway10": [
@@ -127759,6 +127820,13 @@
    "brand": "Samsung",
    "name": "Galaxy A10s",
    "device": "a10s"
+  }
+ ],
+ "SM-A115A": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A11",
+   "device": "a11q"
   }
  ],
  "SM-A115F": [
@@ -148414,6 +148482,13 @@
    "brand": "Sony",
    "name": "Xperia 1",
    "device": "SOV40"
+  }
+ ],
+ "SO-51A": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 1 II",
+   "device": "SO-51A"
   }
  ],
  "J9150": [
@@ -171213,6 +171288,11 @@
    "brand": "Vivo",
    "name": "vivo 1902",
    "device": "1902"
+  },
+  {
+   "brand": "Vivo",
+   "name": "vivo 2010",
+   "device": "1902"
   }
  ],
  "vivo Y21": [
@@ -171795,6 +171875,13 @@
    "brand": "Vivo",
    "name": "vivo 1937",
    "device": "1937"
+  }
+ ],
+ "vivo 2010": [
+  {
+   "brand": "Vivo",
+   "name": "vivo 2010",
+   "device": "1902"
   }
  ],
  "vivo NEX S": [
@@ -176703,6 +176790,13 @@
    "device": "umi"
   }
  ],
+ "M2002J9E": [
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 10 Lite zoom",
+   "device": "vangogh"
+  }
+ ],
  "Cmi": [
   {
    "brand": "Xiaomi",
@@ -176818,6 +176912,20 @@
    "brand": "Xiaomi",
    "name": "Mi MIX 3 5G",
    "device": "andromeda"
+  }
+ ],
+ "Mi Note 10 Lite": [
+  {
+   "brand": "Xiaomi",
+   "name": "Mi Note 10 Lite",
+   "device": "toco"
+  }
+ ],
+ "toco": [
+  {
+   "brand": "Xiaomi",
+   "name": "Mi Note 10 Lite",
+   "device": "toco"
   }
  ],
  "Mi Note 2": [
@@ -190612,6 +190720,13 @@
    "brand": "unitel",
    "name": "Unitel_Smart_1",
    "device": "Unitel_Smart_1"
+  }
+ ],
+ "v7": [
+  {
+   "brand": "vatenick",
+   "name": "v7",
+   "device": "v7"
   }
  ],
  "V503630": [

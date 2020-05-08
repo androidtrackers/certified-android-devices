@@ -688,6 +688,11 @@
    "model": "JVC 4K Android TV"
   },
   {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "JVC EU 4K Android TV"
+  },
+  {
    "brand": "OK (Mediamark)",
    "name": "OK",
    "model": "OK 4K Android TV"
@@ -1635,6 +1640,11 @@
    "brand": "Acer",
    "name": "Iconia Tab A100 (VanGogh)",
    "model": "A101"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 10 Lite zoom",
+   "model": "M2002J9E"
   }
  ],
  "a110": [
@@ -25672,6 +25682,13 @@
    "model": "conquest_S16"
   }
  ],
+ "yeongdeungpo": [
+  {
+   "brand": "Contex",
+   "name": "Contex",
+   "model": "AiPlus4K"
+  }
+ ],
  "CONTIXO-V8": [
   {
    "brand": "Contixo",
@@ -28184,6 +28201,13 @@
    "model": "J7"
   }
  ],
+ "KING_KONG_CS": [
+  {
+   "brand": "Cubot",
+   "name": "KING KONG CS",
+   "model": "KING KONG CS"
+  }
+ ],
  "KINGKONG_MINI": [
   {
    "brand": "Cubot",
@@ -28384,6 +28408,11 @@
    "brand": "Custom",
    "name": "P-Ranger",
    "model": "P-Ranger_ROW"
+  },
+  {
+   "brand": "Custom",
+   "name": "P-Ranger",
+   "model": "P-Ranger_RU"
   }
  ],
  "Tab_4_M7078": [
@@ -58926,6 +58955,11 @@
  "HWJSN-H": [
   {
    "brand": "Huawei",
+   "name": "HONOR 9X Lite",
+   "model": "JSN-L21"
+  },
+  {
+   "brand": "Huawei",
    "name": "HONOR 9X lite",
    "model": "JSN-L21"
   },
@@ -70234,6 +70268,13 @@
    "brand": "J:COM",
    "name": "XA401",
    "model": "XA401"
+  }
+ ],
+ "TPC-G1010_EEA": [
+  {
+   "brand": "JAY-TECH",
+   "name": "TPC-G1010",
+   "model": "TPC-G1010"
   }
  ],
  "TPC-G109": [
@@ -120804,6 +120845,20 @@
    "model": "RMX2003"
   }
  ],
+ "RMX2061L1": [
+  {
+   "brand": "Realme",
+   "name": "realme 6Pro",
+   "model": "RMX2061"
+  }
+ ],
+ "RMX2063L1": [
+  {
+   "brand": "Realme",
+   "name": "realme 6Pro",
+   "model": "RMX2063"
+  }
+ ],
  "RMX2040": [
   {
    "brand": "Realme",
@@ -121212,6 +121267,13 @@
    "brand": "SK Telesys",
    "name": "ITP-E410W",
    "model": "ITP-E410W"
+  }
+ ],
+ "joyeuse": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 9 Pro",
+   "model": "Redmi Note 9 Pro"
   }
  ],
  "redway10": [
@@ -124006,6 +124068,11 @@
   }
  ],
  "a11q": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A11",
+   "model": "SM-A115A"
+  },
   {
    "brand": "Samsung",
    "name": "Galaxy A11",
@@ -143563,6 +143630,13 @@
    "brand": "Sony",
    "name": "Xperia 1",
    "model": "SOV40"
+  }
+ ],
+ "SO-51A": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 1 II",
+   "model": "SO-51A"
   }
  ],
  "J9150": [
@@ -164567,6 +164641,16 @@
    "brand": "Vivo",
    "name": "vivo 1902",
    "model": "vivo 1902"
+  },
+  {
+   "brand": "Vivo",
+   "name": "vivo 2010",
+   "model": "vivo 1902"
+  },
+  {
+   "brand": "Vivo",
+   "name": "vivo 2010",
+   "model": "vivo 2010"
   }
  ],
  "1906": [
@@ -169566,6 +169650,18 @@
    "brand": "Xiaomi",
    "name": "Mi MIX 3 5G",
    "model": "Mi MIX 3 5G"
+  }
+ ],
+ "toco": [
+  {
+   "brand": "Xiaomi",
+   "name": "Mi Note 10 Lite",
+   "model": "Mi Note 10 Lite"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Mi Note 10 Lite",
+   "model": "toco"
   }
  ],
  "eva": [
@@ -181836,6 +181932,13 @@
    "brand": "unitel",
    "name": "Unitel_Smart_1",
    "model": "Unitel Smart 1"
+  }
+ ],
+ "v7": [
+  {
+   "brand": "vatenick",
+   "name": "v7",
+   "model": "v7"
   }
  ],
  "V503630": [
