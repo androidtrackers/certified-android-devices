@@ -98029,6 +98029,11 @@
    "brand": "Mobvoi",
    "name": "TicWatch C2",
    "model": "TicWatch C2"
+  },
+  {
+   "brand": "Mobvoi",
+   "name": "TicWatch C2",
+   "model": "TicWatch C2+"
   }
  ],
  "tunny": [
@@ -149323,6 +149328,11 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 3X",
    "model": "5048Y_RU"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3X",
+   "model": "5048Y_TR"
   }
  ],
  "Faraday": [

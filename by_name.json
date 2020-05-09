@@ -99716,6 +99716,11 @@
    "brand": "Mobvoi",
    "device": "skipjack",
    "model": "TicWatch C2"
+  },
+  {
+   "brand": "Mobvoi",
+   "device": "skipjack",
+   "model": "TicWatch C2+"
   }
  ],
  "TicWatch E2/S2": [
@@ -150386,6 +150391,11 @@
    "brand": "TCT (Alcatel)",
    "device": "Venice",
    "model": "5048Y_RU"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Venice",
+   "model": "5048Y_TR"
   }
  ],
  "Alcatel 3X Plus": [

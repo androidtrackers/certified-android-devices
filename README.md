@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-05-08
+Last sync is 2020-05-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14659,6 +14659,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|V.45|VSN|V.45S|
 |Mobiwire|VSN V.45|up06_h26_v45|V.45|
 |Mobvoi|TicWatch C2|skipjack|TicWatch C2|
+|Mobvoi|TicWatch C2|skipjack|TicWatch C2+|
 |Mobvoi|TicWatch E2/S2|tunny|TicWatch E2|
 |Mobvoi|TicWatch E2/S2|tunny|TicWatch S2|
 |Mobvoi|TicWatch Pro|catfish|TicWatch Pro|
@@ -23329,6 +23330,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 3X|Venice|5048Y|
 |TCT (Alcatel)|Alcatel 3X|Venice|5048Y_EEA|
 |TCT (Alcatel)|Alcatel 3X|Venice|5048Y_RU|
+|TCT (Alcatel)|Alcatel 3X|Venice|5048Y_TR|
 |TCT (Alcatel)|Alcatel 3X Plus|TokyoPro|5029A|
 |TCT (Alcatel)|Alcatel 5|A5A_INFINI|5086A|
 |TCT (Alcatel)|Alcatel 5|A5A_INFINI|5086Y|

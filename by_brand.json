@@ -75181,6 +75181,11 @@
    "model": "TicWatch C2"
   },
   {
+   "device": "skipjack",
+   "name": "TicWatch C2",
+   "model": "TicWatch C2+"
+  },
+  {
    "device": "tunny",
    "name": "TicWatch E2/S2",
    "model": "TicWatch E2"
@@ -119403,6 +119408,11 @@
    "device": "Venice",
    "name": "Alcatel 3X",
    "model": "5048Y_RU"
+  },
+  {
+   "device": "Venice",
+   "name": "Alcatel 3X",
+   "model": "5048Y_TR"
   },
   {
    "device": "TokyoPro",
