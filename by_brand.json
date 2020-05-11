@@ -85388,6 +85388,11 @@
    "model": "WP7"
   },
   {
+   "device": "Y1000",
+   "name": "Y1000",
+   "model": "Y1000"
+  },
+  {
    "device": "Y4800",
    "name": "Y4800",
    "model": "Y4800"
@@ -130940,6 +130945,11 @@
    "device": "Primo_HM4i",
    "name": "Primo HM4i",
    "model": "Primo HM4i"
+  },
+  {
+   "device": "Primo_HM5",
+   "name": "Primo HM5",
+   "model": "Primo HM5"
   },
   {
    "device": "Primo_N3",

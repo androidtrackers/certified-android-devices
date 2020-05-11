@@ -111434,6 +111434,18 @@
    "model": "WP7"
   }
  ],
+ "Y1000": [
+  {
+   "brand": "Oukitel",
+   "device": "Y1000",
+   "model": "Y1000"
+  },
+  {
+   "brand": "Positivo BGH",
+   "device": "Y1000",
+   "model": "Y1000"
+  }
+ ],
  "Y4800": [
   {
    "brand": "Oukitel",
@@ -116952,13 +116964,6 @@
    "brand": "Positivo BGH",
    "device": "W750",
    "model": "Positivo BGH W750"
-  }
- ],
- "Y1000": [
-  {
-   "brand": "Positivo BGH",
-   "device": "Y1000",
-   "model": "Y1000"
   }
  ],
  "Y1010": [
@@ -164000,6 +164005,13 @@
    "brand": "Walton",
    "device": "Primo_HM4i",
    "model": "Primo HM4i"
+  }
+ ],
+ "Primo HM5": [
+  {
+   "brand": "Walton",
+   "device": "Primo_HM5",
+   "model": "Primo HM5"
   }
  ],
  "Primo N3": [

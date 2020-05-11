@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-05-10
+Last sync is 2020-05-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -16644,6 +16644,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|WP5000|WP5000|WP5000|
 |Oukitel|WP6|WP6|WP6|
 |Oukitel|WP7|WP7|WP7|
+|Oukitel|Y1000|Y1000|Y1000|
 |Oukitel|Y4800|Y4800|Y4800|
 |Overmax|Livecore7032|Livecore7032|Livecore7032|
 |Overmax|OV-Qualcore-1023-3G|OV-Qualcore-1023-3G|OV-Qualcore-1023-3G|
@@ -25552,6 +25553,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|Primo HM4|Primo_HM4|Primo HM4|
 |Walton|Primo HM4+|Primo_HM4_PLUS|Primo HM4+|
 |Walton|Primo HM4i|Primo_HM4i|Primo HM4i|
+|Walton|Primo HM5|Primo_HM5|Primo HM5|
 |Walton|Primo N3|Primo_N3|Primo N3|
 |Walton|Primo N4|PRIMO_N4|PRIMO N4|
 |Walton|Primo NF3|Primo_NF3|Primo NF3|
