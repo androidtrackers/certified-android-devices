@@ -4137,6 +4137,68 @@
    "model": "AT702"
   }
  ],
+ "ikebukuro": [
+  {
+   "brand": "Aiwa",
+   "name": "ASIA MIDDLE EAST  AFRICA  EU",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "BenQ",
+   "name": "China Taiwan",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Changhong",
+   "name": "AP(Indonesia etc.)/MENA",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Changhong",
+   "name": "AP(Indonesia etc.)/MENA",
+   "model": "CHiQ AI Center"
+  },
+  {
+   "brand": "Condor",
+   "name": "Algeria",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Russia",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Micromax",
+   "name": "India",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Realme",
+   "name": "India",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "SHINON",
+   "name": "Iraq",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Syinix",
+   "name": "Africa & Asia Pacific",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Thomson",
+   "name": "Algeria",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Vu Televisions",
+   "name": "India",
+   "model": "AI PONT"
+  }
+ ],
  "samseong": [
   {
    "brand": "Aiwa",
@@ -16842,63 +16904,6 @@
    "brand": "BenQ",
    "name": "B506",
    "model": "B506_TW"
-  }
- ],
- "ikebukuro": [
-  {
-   "brand": "BenQ",
-   "name": "China Taiwan",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Changhong",
-   "name": "AP(Indonesia etc.)/MENA",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Changhong",
-   "name": "AP(Indonesia etc.)/MENA",
-   "model": "CHiQ AI Center"
-  },
-  {
-   "brand": "Condor",
-   "name": "Algeria",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "Russia",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Micromax",
-   "name": "India",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Realme",
-   "name": "India",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "SHINON",
-   "name": "Iraq",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Syinix",
-   "name": "Africa & Asia Pacific",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Thomson",
-   "name": "Algeria",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Vu Televisions",
-   "name": "India",
-   "model": "AI PONT"
   }
  ],
  "F3": [
@@ -37134,6 +37139,13 @@
    "brand": "Hurricane",
    "name": "Vega",
    "model": "Vega"
+  }
+ ],
+ "EGL1529I": [
+  {
+   "brand": "Express Gifts Limited",
+   "name": "EGL1529I",
+   "model": "EGL1529I"
   }
  ],
  "EGL15QF6": [
@@ -81904,6 +81916,18 @@
    "model": "LM-V450"
   }
  ],
+ "caymanlm": [
+  {
+   "brand": "LGE",
+   "name": "VELVET",
+   "model": "LM-G900"
+  },
+  {
+   "brand": "LGE",
+   "name": "VELVET",
+   "model": "LM-G900N"
+  }
+ ],
  "vu3": [
   {
    "brand": "LGE",
@@ -100586,6 +100610,18 @@
    "model": "moto e6 play"
   }
  ],
+ "ginna": [
+  {
+   "brand": "Motorola",
+   "name": "moto e7",
+   "model": "moto e"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto e7",
+   "model": "moto e7"
+  }
+ ],
  "rav": [
   {
    "brand": "Motorola",
@@ -106728,6 +106764,13 @@
    "model": "TEG9300-M"
   }
  ],
+ "DV8519-BOX": [
+  {
+   "brand": "OBOX",
+   "name": "OBOX4K.20",
+   "model": "OBOX4k.20"
+  }
+ ],
  "GOAL_10_PLUS_3G": [
   {
    "brand": "ODYS",
@@ -107426,6 +107469,13 @@
    "brand": "OpelMobile",
    "name": "Smart X6",
    "model": "Opel Mobile SmartX6"
+  }
+ ],
+ "SmartX1": [
+  {
+   "brand": "OpelMobile",
+   "name": "SmartX1",
+   "model": "OpelMobile_SmartX1"
   }
  ],
  "CIUS-7": [
@@ -116463,6 +116513,13 @@
    "model": "PBTAB100-2G4"
   }
  ],
+ "MAXI_20": [
+  {
+   "brand": "Premier",
+   "name": "MAXI 20",
+   "model": "MAXI 20"
+  }
+ ],
  "TAB-7001-16G": [
   {
    "brand": "Premier",
@@ -125143,6 +125200,13 @@
    "brand": "Samsung",
    "name": "Galaxy A71",
    "model": "SM-A715W"
+  }
+ ],
+ "a71xq": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A71 5G",
+   "model": "SM-A716U"
   }
  ],
  "SCV32": [
@@ -142046,6 +142110,13 @@
    "model": "SP-5300"
   }
  ],
+ "SP-5400": [
+  {
+   "brand": "Siragon",
+   "name": "SP-5400",
+   "model": "SP-5400"
+  }
+ ],
  "SP-6000": [
   {
    "brand": "Siragon",
@@ -148871,6 +148942,13 @@
    "brand": "TASKPHONE",
    "name": "T20",
    "model": "T20"
+  }
+ ],
+ "TATV_8000": [
+  {
+   "brand": "TBC (TW)",
+   "name": "TATV_8000",
+   "model": "TATV-8000"
   }
  ],
  "BeyondTV": [
@@ -161298,6 +161376,13 @@
    "model": "VAX114"
   }
  ],
+ "DV8519-Vectra": [
+  {
+   "brand": "Vectra",
+   "name": "Vectra",
+   "model": "Vectra 4K Box"
+  }
+ ],
  "Vega_Q7128": [
   {
    "brand": "Vega",
@@ -163864,6 +163949,13 @@
    "brand": "Vivo",
    "name": "V1965A",
    "model": "V1965A"
+  }
+ ],
+ "PD1981": [
+  {
+   "brand": "Vivo",
+   "name": "V1981A",
+   "model": "V1981A"
   }
  ],
  "Y37": [
@@ -167870,6 +167962,13 @@
    "brand": "Wiko",
    "name": "U307AS",
    "model": "U307AS"
+  }
+ ],
+ "U520AS": [
+  {
+   "brand": "Wiko",
+   "name": "U520AS",
+   "model": "Wiko U520AS"
   }
  ],
  "v12dnlite": [

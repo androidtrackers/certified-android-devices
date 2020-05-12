@@ -4020,6 +4020,11 @@
   {
    "brand": "Aiwa",
    "name": "ASIA MIDDLE EAST  AFRICA  EU",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "Aiwa",
+   "name": "ASIA MIDDLE EAST  AFRICA  EU",
    "device": "samseong"
   },
   {
@@ -36220,6 +36225,13 @@
    "brand": "Explay",
    "name": "Winner 8",
    "device": "T4730"
+  }
+ ],
+ "EGL1529I": [
+  {
+   "brand": "Express Gifts Limited",
+   "name": "EGL1529I",
+   "device": "EGL1529I"
   }
  ],
  "EGL15QF6": [
@@ -85138,6 +85150,20 @@
    "device": "mh2lm"
   }
  ],
+ "LM-G900": [
+  {
+   "brand": "LGE",
+   "name": "VELVET",
+   "device": "caymanlm"
+  }
+ ],
+ "LM-G900N": [
+  {
+   "brand": "LGE",
+   "name": "VELVET",
+   "device": "caymanlm"
+  }
+ ],
  "LG-F300K": [
   {
    "brand": "LGE",
@@ -104038,6 +104064,20 @@
    "device": "fiji"
   }
  ],
+ "moto e": [
+  {
+   "brand": "Motorola",
+   "name": "moto e7",
+   "device": "ginna"
+  }
+ ],
+ "moto e7": [
+  {
+   "brand": "Motorola",
+   "name": "moto e7",
+   "device": "ginna"
+  }
+ ],
  "moto e(6) plus": [
   {
    "brand": "Motorola",
@@ -110127,6 +110167,13 @@
    "device": "TEG9300-M"
   }
  ],
+ "OBOX4k.20": [
+  {
+   "brand": "OBOX",
+   "name": "OBOX4K.20",
+   "device": "DV8519-BOX"
+  }
+ ],
  "GOAL_10_PLUS_3G": [
   {
    "brand": "ODYS",
@@ -110837,6 +110884,13 @@
    "brand": "OpelMobile",
    "name": "Smart X6",
    "device": "SmartX6"
+  }
+ ],
+ "OpelMobile_SmartX1": [
+  {
+   "brand": "OpelMobile",
+   "name": "SmartX1",
+   "device": "SmartX1"
   }
  ],
  "CIUS-7": [
@@ -119882,6 +119936,13 @@
    "brand": "Precision Biometric",
    "name": "PBTAB100-2G4",
    "device": "PBTAB100-2G4"
+  }
+ ],
+ "MAXI 20": [
+  {
+   "brand": "Premier",
+   "name": "MAXI 20",
+   "device": "MAXI_20"
   }
  ],
  "TAB-7001-16G": [
@@ -129146,6 +129207,13 @@
    "brand": "Samsung",
    "name": "Galaxy A71 5G",
    "device": "a71x"
+  }
+ ],
+ "SM-A716U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A71 5G",
+   "device": "a71xq"
   }
  ],
  "SCV32": [
@@ -146889,6 +146957,13 @@
    "device": "SP-5300"
   }
  ],
+ "SP-5400": [
+  {
+   "brand": "Siragon",
+   "name": "SP-5400",
+   "device": "SP-5400"
+  }
+ ],
  "SP-6000": [
   {
    "brand": "Siragon",
@@ -153703,6 +153778,13 @@
    "brand": "TAGITAL",
    "name": "T7K_PLUS",
    "device": "T7K-PLUS"
+  }
+ ],
+ "TATV-8000": [
+  {
+   "brand": "TBC (TW)",
+   "name": "TATV_8000",
+   "device": "TATV_8000"
   }
  ],
  "BeyondTV": [
@@ -168337,6 +168419,13 @@
    "device": "VAX114"
   }
  ],
+ "Vectra 4K Box": [
+  {
+   "brand": "Vectra",
+   "name": "Vectra",
+   "device": "DV8519-Vectra"
+  }
+ ],
  "Vega Q7128": [
   {
    "brand": "Vega",
@@ -171035,6 +171124,13 @@
    "brand": "Vivo",
    "name": "V1965A",
    "device": "PD1965"
+  }
+ ],
+ "V1981A": [
+  {
+   "brand": "Vivo",
+   "name": "V1981A",
+   "device": "PD1981"
   }
  ],
  "vivo Y37": [
@@ -174914,6 +175010,13 @@
    "brand": "Wiko",
    "name": "U307AS",
    "device": "U307AS"
+  }
+ ],
+ "Wiko U520AS": [
+  {
+   "brand": "Wiko",
+   "name": "U520AS",
+   "device": "U520AS"
   }
  ],
  "W-P311-OPE": [

@@ -9824,6 +9824,11 @@
  "ASIA MIDDLE EAST  AFRICA  EU": [
   {
    "brand": "Aiwa",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Aiwa",
    "device": "samseong",
    "model": "AI PONT"
   }
@@ -42433,6 +42438,13 @@
    "brand": "Explay",
    "device": "T4730",
    "model": "Winner8"
+  }
+ ],
+ "EGL1529I": [
+  {
+   "brand": "Express Gifts Limited",
+   "device": "EGL1529I",
+   "model": "EGL1529I"
   }
  ],
  "EGL15QF6": [
@@ -84933,6 +84945,18 @@
    "model": "LM-V510N"
   }
  ],
+ "VELVET": [
+  {
+   "brand": "LGE",
+   "device": "caymanlm",
+   "model": "LM-G900"
+  },
+  {
+   "brand": "LGE",
+   "device": "caymanlm",
+   "model": "LM-G900N"
+  }
+ ],
  "VU3": [
   {
    "brand": "LGE",
@@ -101763,6 +101787,18 @@
    "model": "moto e6s"
   }
  ],
+ "moto e7": [
+  {
+   "brand": "Motorola",
+   "device": "ginna",
+   "model": "moto e"
+  },
+  {
+   "brand": "Motorola",
+   "device": "ginna",
+   "model": "moto e7"
+  }
+ ],
  "moto e⁶ plus": [
   {
    "brand": "Motorola",
@@ -107652,6 +107688,13 @@
    "model": "TEG9300-M"
   }
  ],
+ "OBOX4K.20": [
+  {
+   "brand": "OBOX",
+   "device": "DV8519-BOX",
+   "model": "OBOX4k.20"
+  }
+ ],
  "GOAL_10_PLUS_3G": [
   {
    "brand": "ODYS",
@@ -108370,6 +108413,13 @@
    "brand": "OpelMobile",
    "device": "SmartX6",
    "model": "Opel Mobile SmartX6"
+  }
+ ],
+ "SmartX1": [
+  {
+   "brand": "OpelMobile",
+   "device": "SmartX1",
+   "model": "OpelMobile_SmartX1"
   }
  ],
  "Active 5.0": [
@@ -117013,6 +117063,13 @@
    "model": "PBTAB100-2G4"
   }
  ],
+ "MAXI 20": [
+  {
+   "brand": "Premier",
+   "device": "MAXI_20",
+   "model": "MAXI 20"
+  }
+ ],
  "TAB-7001-16G": [
   {
    "brand": "Premier",
@@ -125323,6 +125380,11 @@
    "brand": "Samsung",
    "device": "a71x",
    "model": "SM-A716B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a71xq",
+   "model": "SM-A716U"
   }
  ],
  "Galaxy A8": [
@@ -140147,6 +140209,13 @@
    "model": "SP-5300"
   }
  ],
+ "SP-5400": [
+  {
+   "brand": "Siragon",
+   "device": "SP-5400",
+   "model": "SP-5400"
+  }
+ ],
  "SP-6000": [
   {
    "brand": "Siragon",
@@ -146390,6 +146459,13 @@
    "brand": "TAGITAL",
    "device": "T7K-PLUS",
    "model": "T7K_PLUS"
+  }
+ ],
+ "TATV_8000": [
+  {
+   "brand": "TBC (TW)",
+   "device": "TATV_8000",
+   "model": "TATV-8000"
   }
  ],
  "Beyond TV": [
@@ -158847,6 +158923,13 @@
    "model": "VAX114"
   }
  ],
+ "Vectra": [
+  {
+   "brand": "Vectra",
+   "device": "DV8519-Vectra",
+   "model": "Vectra 4K Box"
+  }
+ ],
  "Vega Q7128": [
   {
    "brand": "Vega",
@@ -161402,6 +161485,13 @@
    "brand": "Vivo",
    "device": "PD1965",
    "model": "V1965A"
+  }
+ ],
+ "V1981A": [
+  {
+   "brand": "Vivo",
+   "device": "PD1981",
+   "model": "V1981A"
   }
  ],
  "V1Max": [
@@ -165256,6 +165346,13 @@
    "brand": "Wiko",
    "device": "U307AS",
    "model": "U307AS"
+  }
+ ],
+ "U520AS": [
+  {
+   "brand": "Wiko",
+   "device": "U520AS",
+   "model": "Wiko U520AS"
   }
  ],
  "VIEW": [

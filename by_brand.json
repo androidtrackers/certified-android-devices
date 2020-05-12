@@ -2583,6 +2583,11 @@
  ],
  "Aiwa": [
   {
+   "device": "ikebukuro",
+   "name": "ASIA MIDDLE EAST  AFRICA  EU",
+   "model": "AI PONT"
+  },
+  {
    "device": "samseong",
    "name": "ASIA MIDDLE EAST  AFRICA  EU",
    "model": "AI PONT"
@@ -25911,6 +25916,11 @@
   }
  ],
  "Express Gifts Limited": [
+  {
+   "device": "EGL1529I",
+   "name": "EGL1529I",
+   "model": "EGL1529I"
+  },
   {
    "device": "EGL15QF6",
    "name": "EGL15QF6",
@@ -62761,6 +62771,16 @@
    "model": "LM-V510N"
   },
   {
+   "device": "caymanlm",
+   "name": "VELVET",
+   "model": "LM-G900"
+  },
+  {
+   "device": "caymanlm",
+   "name": "VELVET",
+   "model": "LM-G900N"
+  },
+  {
    "device": "vu3",
    "name": "VU3",
    "model": "LG-F300K"
@@ -77283,6 +77303,16 @@
    "model": "moto e6s"
   },
   {
+   "device": "ginna",
+   "name": "moto e7",
+   "model": "moto e"
+  },
+  {
+   "device": "ginna",
+   "name": "moto e7",
+   "model": "moto e7"
+  },
+  {
    "device": "pokerp",
    "name": "moto e⁶ plus",
    "model": "moto e(6) plus"
@@ -82139,6 +82169,13 @@
    "model": "TEG9300-M"
   }
  ],
+ "OBOX": [
+  {
+   "device": "DV8519-BOX",
+   "name": "OBOX4K.20",
+   "model": "OBOX4k.20"
+  }
+ ],
  "ODYS": [
   {
    "device": "GOAL_10_PLUS_3G",
@@ -82821,6 +82858,11 @@
    "device": "SmartX6",
    "name": "Smart X6",
    "model": "Opel Mobile SmartX6"
+  },
+  {
+   "device": "SmartX1",
+   "name": "SmartX1",
+   "model": "OpelMobile_SmartX1"
   }
  ],
  "OpenPeak": [
@@ -89853,6 +89895,11 @@
   }
  ],
  "Premier": [
+  {
+   "device": "MAXI_20",
+   "name": "MAXI 20",
+   "model": "MAXI 20"
+  },
   {
    "device": "TAB-7001-16G",
    "name": "TAB-7001-16G",
@@ -96940,6 +96987,11 @@
    "device": "a71x",
    "name": "Galaxy A71 5G",
    "model": "SM-A716B"
+  },
+  {
+   "device": "a71xq",
+   "name": "Galaxy A71 5G",
+   "model": "SM-A716U"
   },
   {
    "device": "SCV32",
@@ -110024,6 +110076,11 @@
    "model": "SP-5300"
   },
   {
+   "device": "SP-5400",
+   "name": "SP-5400",
+   "model": "SP-5400"
+  },
+  {
    "device": "SP-6000",
    "name": "SP-6000",
    "model": "SP-6000"
@@ -115454,6 +115511,13 @@
    "device": "T20P",
    "name": "T20",
    "model": "T20"
+  }
+ ],
+ "TBC (TW)": [
+  {
+   "device": "TATV_8000",
+   "name": "TATV_8000",
+   "model": "TATV-8000"
   }
  ],
  "TCL": [
@@ -126772,6 +126836,13 @@
    "model": "VAX114"
   }
  ],
+ "Vectra": [
+  {
+   "device": "DV8519-Vectra",
+   "name": "Vectra",
+   "model": "Vectra 4K Box"
+  }
+ ],
  "Vega": [
   {
    "device": "Vega_Q7128",
@@ -128860,6 +128931,11 @@
    "device": "PD1965",
    "name": "V1965A",
    "model": "V1965A"
+  },
+  {
+   "device": "PD1981",
+   "name": "V1981A",
+   "model": "V1981A"
   },
   {
    "device": "Y37",
@@ -131984,6 +132060,11 @@
    "device": "U307AS",
    "name": "U307AS",
    "model": "U307AS"
+  },
+  {
+   "device": "U520AS",
+   "name": "U520AS",
+   "model": "Wiko U520AS"
   },
   {
    "device": "v12dnlite",

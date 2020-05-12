@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-05-11
+Last sync is 2020-05-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -497,6 +497,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiuto|AT1002|AT1002|AT1002|
 |Aiuto|AT701|AT701|AT701|
 |Aiuto|AT702|AT702|AT702|
+|Aiwa|ASIA MIDDLE EAST  AFRICA  EU|ikebukuro|AI PONT|
 |Aiwa|ASIA MIDDLE EAST  AFRICA  EU|samseong|AI PONT|
 |Aiwa|AW790|AW790|AW790|
 |Aiwa|AWM501|AWM501|AWM501|
@@ -5000,6 +5001,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Explay|Winner|T4728|Winner|
 |Explay|Winner 7|T4729|Winner7|
 |Explay|Winner 8|T4730|Winner8|
+|Express Gifts Limited|EGL1529I|EGL1529I|EGL1529I|
 |Express Gifts Limited|EGL15QF6|EGL15QF6|EGL15QF6|
 |Express Gifts Limited|EGLM103|EGLM103|EGLM103|
 |Express Gifts Limited|EGLMW1528I|EGLMW1528I|EGLMW1528I|
@@ -12239,6 +12241,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|V50 ThinQ|flashlm|LM-V450|
 |LGE|V50 ThinQ|flashlmdd|LM-V500|
 |LGE|V50S ThinQ|mh2lm|LM-V510N|
+|LGE|VELVET|caymanlm|LM-G900|
+|LGE|VELVET|caymanlm|LM-G900N|
 |LGE|VU3|vu3|LG-F300K|
 |LGE|VU3|vu3|LG-F300L|
 |LGE|VU3|vu3|LG-F300S|
@@ -15075,6 +15079,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto e6 play|bali|moto e6 play|
 |Motorola|moto e6s|fiji|moto e6|
 |Motorola|moto e6s|fiji|moto e6s|
+|Motorola|moto e7|ginna|moto e|
+|Motorola|moto e7|ginna|moto e7|
 |Motorola|moto e⁶ plus|pokerp|moto e(6) plus|
 |Motorola|moto e⁶ˢ|pokerp|moto e(6s)|
 |Motorola|moto g fast|rav|moto g fast|
@@ -16011,6 +16017,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OASYS|OAS_9301|OAS_9301|OAS_9301|
 |OASYS|TEG9300|TEG9300|TEG9300|
 |OASYS|TEG9300-M|TEG9300-M|TEG9300-M|
+|OBOX|OBOX4K.20|DV8519-BOX|OBOX4k.20|
 |ODYS|GOAL_10_PLUS_3G|GOAL_10_PLUS_3G|GOAL_10_PLUS_3G|
 |ODYS|JUNIOR_8_PRO_EEA|JUNIOR_8_PRO|JUNIOR_8_PRO|
 |ODYS|MAVEN_X10_HD_LTE|MAVEN_X10_HD_LTE|MAVEN_X10_HD_LTE|
@@ -16135,6 +16142,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OpelMobile|EasySmart|EasySmart|EasySmart|
 |OpelMobile|EasySmart 2|Easy_Smart_2|Easy_Smart_2|
 |OpelMobile|Smart X6|SmartX6|Opel Mobile SmartX6|
+|OpelMobile|SmartX1|SmartX1|OpelMobile_SmartX1|
 |OpenPeak||CIUS-7|CIUS-7|
 |OpenPeak||CIUS-7-AT|CIUS-7-AT|
 |OpenPeak||cius|cius|
@@ -17512,6 +17520,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Powerway|DRN_EEA|DRN_EEA|DRN_EEA|
 |Precision Biometric|PBTAB100-1G3|PBTAB100-1G3|PBTAB100-1G3|
 |Precision Biometric|PBTAB100-2G4|PBTAB100-2G4|PBTAB100-2G4|
+|Premier|MAXI 20|MAXI_20|MAXI 20|
 |Premier|TAB-7001-16G|TAB-7001-16G|TAB-7001-16G|
 |Premio|185FT5050231|185FT5050231|185FT5050231|
 |Premio|186FT1080231|186FT1080231|186FT1080231|
@@ -18884,6 +18893,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A71|a71|SM-A715W|
 |Samsung|Galaxy A71 5G|a71x|SM-A7160|
 |Samsung|Galaxy A71 5G|a71x|SM-A716B|
+|Samsung|Galaxy A71 5G|a71xq|SM-A716U|
 |Samsung|Galaxy A8|SCV32|SCV32|
 |Samsung|Galaxy A8|a8elte|SM-A800F|
 |Samsung|Galaxy A8|a8elte|SM-A800YZ|
@@ -21484,6 +21494,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Siragon|SP-5000|SP-5000|Siragon SP-5000|
 |Siragon|SP-5250|SP-5250|SP-5250|
 |Siragon|SP-5300|SP-5300|SP-5300|
+|Siragon|SP-5400|SP-5400|SP-5400|
 |Siragon|SP-6000|SP-6000|SP-6000|
 |Siragon|SP-7050|SP-7050|SP-7050|
 |Siragon|SP-7100|SP-7100|SP-7100|
@@ -22540,6 +22551,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TAG-TECH|TAG_TAB_II|TAG_TAB_II|TAG TAB II|
 |TAGITAL|T7K_PLUS|T7K-PLUS|T7K_PLUS|
 |TASKPHONE|T20|T20P|T20|
+|TBC (TW)|TATV_8000|TATV_8000|TATV-8000|
 |TCL|Beyond TV|BeyondTV|BeyondTV|
 |TCL|BeyondTV2|BeyondTV|BeyondTV2|
 |TCL|BeyondTV5|BeyondTV|BeyondTV5|
@@ -24740,6 +24752,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vava|X2|X2|X2|
 |Vava|XP3|XP3|XP3|
 |Vaxcare|VAX114|VAX114|VAX114|
+|Vectra|Vectra|DV8519-Vectra|Vectra 4K Box|
 |Vega|Vega Q7128|Vega_Q7128|Vega Q7128|
 |Veidoo|T20|T20|T20|
 |Veidoo|T7|T7|T7|
@@ -25146,6 +25159,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V1962A|PD1962|V1962A|
 |Vivo|V1963A|PD1963|V1963A|
 |Vivo|V1965A|PD1965|V1965A|
+|Vivo|V1981A|PD1981|V1981A|
 |Vivo|V1Max|Y37|vivo Y37|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
@@ -25754,6 +25768,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|U PULSE|v3961|U PULSE|
 |Wiko|U PULSE LITE|v3971|U PULSE LITE|
 |Wiko|U307AS|U307AS|U307AS|
+|Wiko|U520AS|U520AS|Wiko U520AS|
 |Wiko|VIEW|v12dnlite|View|
 |Wiko|VIEW|v12enlite|View|
 |Wiko|VIEW3|W-P311|W-P311-OPE|
