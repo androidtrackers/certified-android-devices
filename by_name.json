@@ -10127,13 +10127,6 @@
    "model": "T7Q-4G"
   }
  ],
- "T8Q-4G": [
-  {
-   "brand": "Aldo Mobile",
-   "device": "T8Q-4G",
-   "model": "T8Q-4G"
-  }
- ],
  "T8S": [
   {
    "brand": "Aldo Mobile",
@@ -22246,20 +22239,6 @@
    "model": "TAB-BEG-01"
   }
  ],
- "M1035S": [
-  {
-   "brand": "Beneve",
-   "device": "M1035S",
-   "model": "M1035S"
-  }
- ],
- "M1035SE": [
-  {
-   "brand": "Beneve",
-   "device": "M1035SE_EEA",
-   "model": "M1035SE"
-  }
- ],
  "M7133": [
   {
    "brand": "Beneve",
@@ -25946,6 +25925,13 @@
    "brand": "Bluebird",
    "device": "EF501",
    "model": "EF501R_RU"
+  }
+ ],
+ "EF501R": [
+  {
+   "brand": "Bluebird",
+   "device": "EF501",
+   "model": "EF501"
   }
  ],
  "HF450": [
@@ -31573,13 +31559,6 @@
    "brand": "Conquest",
    "device": "conquest_S16",
    "model": "conquest_S16"
-  }
- ],
- "Contex": [
-  {
-   "brand": "Contex",
-   "device": "yeongdeungpo",
-   "model": "AiPlus4K"
   }
  ],
  "CONTIXO_V8": [
@@ -38730,13 +38709,6 @@
    "model": "NotePad_101_B_EEA"
   }
  ],
- "NotePad_102": [
-  {
-   "brand": "Dragontouch",
-   "device": "NotePad_102",
-   "model": "NotePad_102"
-  }
- ],
  "NotePad_Y80": [
   {
    "brand": "Dragontouch",
@@ -42644,6 +42616,11 @@
    "brand": "Itel",
    "device": "itel-A15",
    "model": "itel A15R"
+  },
+  {
+   "brand": "TVB",
+   "device": "A151",
+   "model": "A15"
   },
   {
    "brand": "Vmobile",
@@ -92014,18 +91991,6 @@
    "model": "T4G"
   }
  ],
- "T7W": [
-  {
-   "brand": "Logic Mobility",
-   "device": "T7W",
-   "model": "LOGIC T7W"
-  },
-  {
-   "brand": "iQual",
-   "device": "T7W",
-   "model": "T7W"
-  }
- ],
  "T7_plus": [
   {
    "brand": "Logic Mobility",
@@ -98392,20 +98357,6 @@
    "brand": "Mito",
    "device": "MITO_T7",
    "model": "MITO_T7"
-  }
- ],
- "MITO_T7A": [
-  {
-   "brand": "Mito",
-   "device": "MITO_T7A",
-   "model": "MITO_T7A"
-  }
- ],
- "MITO_T8A": [
-  {
-   "brand": "Mito",
-   "device": "MITO_T8A",
-   "model": "MITO_T8A"
   }
  ],
  "Mito_A35": [
@@ -106835,6 +106786,11 @@
  "Nokia 5.3": [
   {
    "brand": "Nokia",
+   "device": "CAP",
+   "model": "Nokia 5.3"
+  },
+  {
+   "brand": "Nokia",
    "device": "CAP_sprout",
    "model": "Nokia 5.3"
   }
@@ -108413,6 +108369,13 @@
    "brand": "OpelMobile",
    "device": "SmartX6",
    "model": "Opel Mobile SmartX6"
+  }
+ ],
+ "SmartJX": [
+  {
+   "brand": "OpelMobile",
+   "device": "SmartJX",
+   "model": "OpelMobile_SmartJX"
   }
  ],
  "SmartX1": [
@@ -146719,6 +146682,11 @@
    "brand": "TCL",
    "device": "Milan",
    "model": "5161A"
+  },
+  {
+   "brand": "TCL",
+   "device": "Milan",
+   "model": "5161K"
   }
  ],
  "TCL T7": [
@@ -150417,6 +150385,11 @@
    "brand": "TCT (Alcatel)",
    "device": "Milan",
    "model": "5061K_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Milan",
+   "model": "5061K_RU"
   },
   {
    "brand": "TCT (Alcatel)",
@@ -158923,7 +158896,7 @@
    "model": "VAX114"
   }
  ],
- "Vectra": [
+ "Vectra 4K Box": [
   {
    "brand": "Vectra",
    "device": "DV8519-Vectra",
@@ -178244,6 +178217,13 @@
    "model": "T7L"
   }
  ],
+ "T7W": [
+  {
+   "brand": "iQual",
+   "device": "T7W",
+   "model": "T7W"
+  }
+ ],
  "B12017": [
   {
    "brand": "iRainbow",
@@ -179138,13 +179118,6 @@
    "brand": "zyrex",
    "device": "ZT8332_1",
    "model": "ZT8332_1"
-  }
- ],
- "ZT8332_3": [
-  {
-   "brand": "zyrex",
-   "device": "ZT8332_3",
-   "model": "ZT8332_3"
   }
  ],
  "ZT_216": [

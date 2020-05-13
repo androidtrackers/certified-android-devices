@@ -2802,11 +2802,6 @@
    "model": "T7Q-4G"
   },
   {
-   "device": "T8Q-4G",
-   "name": "T8Q-4G",
-   "model": "T8Q-4G"
-  },
-  {
    "device": "T8S",
    "name": "T8S",
    "model": "T8S"
@@ -11522,16 +11517,6 @@
  ],
  "Beneve": [
   {
-   "device": "M1035S",
-   "name": "M1035S",
-   "model": "M1035S"
-  },
-  {
-   "device": "M1035SE_EEA",
-   "name": "M1035SE",
-   "model": "M1035SE"
-  },
-  {
    "device": "M7133",
    "name": "M7133",
    "model": "M7133"
@@ -13892,6 +13877,11 @@
    "device": "EF501",
    "name": "EF501",
    "model": "EF501R_RU"
+  },
+  {
+   "device": "EF501",
+   "name": "EF501R",
+   "model": "EF501"
   },
   {
    "device": "HF450",
@@ -17911,13 +17901,6 @@
    "device": "conquest_S16",
    "name": "conquest_S16_RU",
    "model": "conquest_S16"
-  }
- ],
- "Contex": [
-  {
-   "device": "yeongdeungpo",
-   "name": "Contex",
-   "model": "AiPlus4K"
   }
  ],
  "Contixo": [
@@ -23235,11 +23218,6 @@
    "device": "NotePad_101_B",
    "name": "NotePad_101_B_EEA",
    "model": "NotePad_101_B_EEA"
-  },
-  {
-   "device": "NotePad_102",
-   "name": "NotePad_102",
-   "model": "NotePad_102"
   },
   {
    "device": "NotePad_Y80",
@@ -68928,11 +68906,6 @@
    "model": "T4G"
   },
   {
-   "device": "T7W",
-   "name": "T7W",
-   "model": "LOGIC T7W"
-  },
-  {
    "device": "T7_plus",
    "name": "T7_plus",
    "model": "T7_plus"
@@ -74168,16 +74141,6 @@
    "device": "MITO_T7",
    "name": "MITO_T7",
    "model": "MITO_T7"
-  },
-  {
-   "device": "MITO_T7A",
-   "name": "MITO_T7A",
-   "model": "MITO_T7A"
-  },
-  {
-   "device": "MITO_T8A",
-   "name": "MITO_T8A",
-   "model": "MITO_T8A"
   },
   {
    "device": "Mito_A35",
@@ -81436,6 +81399,11 @@
    "model": "Nokia 5.1 Plus"
   },
   {
+   "device": "CAP",
+   "name": "Nokia 5.3",
+   "model": "Nokia 5.3"
+  },
+  {
    "device": "CAP_sprout",
    "name": "Nokia 5.3",
    "model": "Nokia 5.3"
@@ -82858,6 +82826,11 @@
    "device": "SmartX6",
    "name": "Smart X6",
    "model": "Opel Mobile SmartX6"
+  },
+  {
+   "device": "SmartJX",
+   "name": "SmartJX",
+   "model": "OpelMobile_SmartJX"
   },
   {
    "device": "SmartX1",
@@ -115737,6 +115710,11 @@
    "model": "5161A"
   },
   {
+   "device": "Milan",
+   "name": "TCL T Pro",
+   "model": "5161K"
+  },
+  {
    "device": "A5A_INFINI",
    "name": "TCL T7",
    "model": "5186A"
@@ -119426,6 +119404,11 @@
   {
    "device": "Milan",
    "name": "Alcatel 3X",
+   "model": "5061K_RU"
+  },
+  {
+   "device": "Milan",
+   "name": "Alcatel 3X",
    "model": "5061K_TR"
   },
   {
@@ -122144,6 +122127,13 @@
    "device": "TU7_58212",
    "name": "TU7_58212_18222",
    "model": "TU7_18222"
+  }
+ ],
+ "TVB": [
+  {
+   "device": "A151",
+   "name": "A15",
+   "model": "A15"
   }
  ],
  "TVUp": [
@@ -126839,7 +126829,7 @@
  "Vectra": [
   {
    "device": "DV8519-Vectra",
-   "name": "Vectra",
+   "name": "Vectra 4K Box",
    "model": "Vectra 4K Box"
   }
  ],
@@ -144854,11 +144844,6 @@
    "device": "ZT8332_1",
    "name": "ZT8332_1",
    "model": "ZT8332_1"
-  },
-  {
-   "device": "ZT8332_3",
-   "name": "ZT8332_3",
-   "model": "ZT8332_3"
   },
   {
    "device": "ZT_216",
