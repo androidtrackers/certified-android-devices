@@ -62519,6 +62519,18 @@
    "model": "POT-LX3"
   }
  ],
+ "HUAWEI P smart 2020": [
+  {
+   "brand": "Huawei",
+   "device": "HWPOT-H",
+   "model": "POT-LX1A"
+  },
+  {
+   "brand": "Huawei",
+   "device": "HWPOT-H",
+   "model": "POT-LX3"
+  }
+ ],
  "HUAWEI P smart Pro": [
   {
    "brand": "Huawei",
@@ -63091,6 +63103,13 @@
   }
  ],
  "HUAWEI nova lite 3": [
+  {
+   "brand": "Huawei",
+   "device": "HWPOT-H",
+   "model": "POT-LX2J"
+  }
+ ],
+ "HUAWEI nova lite 3+": [
   {
    "brand": "Huawei",
    "device": "HWPOT-H",

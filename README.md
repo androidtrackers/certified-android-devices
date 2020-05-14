@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-05-13
+Last sync is 2020-05-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8407,6 +8407,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI P smart 2019|HWPOT-H|POT-LX1|
 |Huawei|HUAWEI P smart 2019|HWPOT-H|POT-LX1AF|
 |Huawei|HUAWEI P smart 2019|HWPOT-H|POT-LX3|
+|Huawei|HUAWEI P smart 2020|HWPOT-H|POT-LX1A|
+|Huawei|HUAWEI P smart 2020|HWPOT-H|POT-LX3|
 |Huawei|HUAWEI P smart Pro|HWSTK-HF|STK-L21|
 |Huawei|HUAWEI P smart Pro|HWSTK-HF|STK-LX1|
 |Huawei|HUAWEI P smart Z|HWSTK-HF|STK-LX1|
@@ -8507,6 +8509,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|HUAWEI nova 5T Pro|HWYAL|YAL-L41|
 |Huawei|HUAWEI nova lite 2|HWFIG-H|704HW|
 |Huawei|HUAWEI nova lite 3|HWPOT-H|POT-LX2J|
+|Huawei|HUAWEI nova lite 3+|HWPOT-H|POT-LX2J|
 |Huawei|HUAWEI nova lite for Y!mobile|HWPRA-H|608HW|
 |Huawei|HUWEI MediaPad T3|HWKobe-Q|KOB-L09|
 |Huawei|HUWEI MediaPad T3|HWKobe-Q|KOB-W09|

@@ -59668,6 +59668,18 @@
    "brand": "Huawei",
    "name": "HUAWEI P smart 2019",
    "device": "HWPOT-H"
+  },
+  {
+   "brand": "Huawei",
+   "name": "HUAWEI P smart 2020",
+   "device": "HWPOT-H"
+  }
+ ],
+ "POT-LX1A": [
+  {
+   "brand": "Huawei",
+   "name": "HUAWEI P smart 2020",
+   "device": "HWPOT-H"
   }
  ],
  "STK-L21": [
@@ -60276,6 +60288,11 @@
   {
    "brand": "Huawei",
    "name": "HUAWEI nova lite 3",
+   "device": "HWPOT-H"
+  },
+  {
+   "brand": "Huawei",
+   "name": "HUAWEI nova lite 3+",
    "device": "HWPOT-H"
   }
  ],

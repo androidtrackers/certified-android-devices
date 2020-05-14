@@ -43293,6 +43293,16 @@
    "model": "POT-LX3"
   },
   {
+   "device": "HWPOT-H",
+   "name": "HUAWEI P smart 2020",
+   "model": "POT-LX1A"
+  },
+  {
+   "device": "HWPOT-H",
+   "name": "HUAWEI P smart 2020",
+   "model": "POT-LX3"
+  },
+  {
    "device": "HWSTK-HF",
    "name": "HUAWEI P smart Pro",
    "model": "STK-L21"
@@ -43790,6 +43800,11 @@
   {
    "device": "HWPOT-H",
    "name": "HUAWEI nova lite 3",
+   "model": "POT-LX2J"
+  },
+  {
+   "device": "HWPOT-H",
+   "name": "HUAWEI nova lite 3+",
    "model": "POT-LX2J"
   },
   {
