@@ -2176,6 +2176,11 @@
    "model": "8002"
   },
   {
+   "device": "ADVAN_TAB_10",
+   "name": "TAB_10",
+   "model": "1010"
+  },
+  {
    "device": "X7_Max",
    "name": "X7 Max",
    "model": "7301"
@@ -13875,13 +13880,13 @@
   },
   {
    "device": "EF501",
-   "name": "EF501",
-   "model": "EF501R_RU"
+   "name": "EF501R",
+   "model": "EF501"
   },
   {
    "device": "EF501",
    "name": "EF501R",
-   "model": "EF501"
+   "model": "EF501R_RU"
   },
   {
    "device": "HF450",
@@ -28202,6 +28207,11 @@
    "device": "daitou",
    "name": "POE-SMB400-FN1",
    "model": "POE-SMB400-FN1"
+  },
+  {
+   "device": "peach",
+   "name": "Smart TV",
+   "model": "FUNAI 4K TV"
   }
  ],
  "Fusion5": [
@@ -74651,6 +74661,11 @@
    "model": "TRIP"
   },
   {
+   "device": "TITAN",
+   "name": "Titan",
+   "model": "TITAN"
+  },
+  {
    "device": "TREDNY",
    "name": "Trendy",
    "model": "TREDNY"
@@ -77416,6 +77431,11 @@
    "model": "moto g(7)"
   },
   {
+   "device": "channel",
+   "name": "moto g(7) optimo (XT1952DL)",
+   "model": "moto g(7) optimo (XT1952DL)"
+  },
+  {
    "device": "ocean",
    "name": "moto g(7) optimo maxx(XT1955DL)",
    "model": "moto g(7) optimo maxx(XT1955DL)"
@@ -77424,11 +77444,6 @@
    "device": "channel",
    "name": "moto g(7) play",
    "model": "moto g(6)"
-  },
-  {
-   "device": "channel",
-   "name": "moto g(7) play",
-   "model": "moto g(7) optimo (XT1952DL)"
   },
   {
    "device": "channel",
@@ -96044,6 +96059,11 @@
   {
    "device": "a11q",
    "name": "Galaxy A11",
+   "model": "SM-A115AZ"
+  },
+  {
+   "device": "a11q",
+   "name": "Galaxy A11",
    "model": "SM-A115F"
   },
   {
@@ -111301,6 +111321,11 @@
    "device": "SO-51A",
    "name": "Xperia 1 II",
    "model": "SO-51A"
+  },
+  {
+   "device": "SOG01",
+   "name": "Xperia 1 II",
+   "model": "SOG01"
   },
   {
    "device": "J9150",

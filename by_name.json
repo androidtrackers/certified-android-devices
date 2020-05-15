@@ -9284,6 +9284,13 @@
    "model": "8002"
   }
  ],
+ "TAB_10": [
+  {
+   "brand": "Advan digital",
+   "device": "ADVAN_TAB_10",
+   "model": "1010"
+  }
+ ],
  "X7 Max": [
   {
    "brand": "Advan digital",
@@ -25920,11 +25927,6 @@
    "brand": "Bluebird",
    "device": "EF501",
    "model": "EF501"
-  },
-  {
-   "brand": "Bluebird",
-   "device": "EF501",
-   "model": "EF501R_RU"
   }
  ],
  "EF501R": [
@@ -25932,6 +25934,11 @@
    "brand": "Bluebird",
    "device": "EF501",
    "model": "EF501"
+  },
+  {
+   "brand": "Bluebird",
+   "device": "EF501",
+   "model": "EF501R_RU"
   }
  ],
  "HF450": [
@@ -28358,6 +28365,11 @@
    "brand": "Cell_C",
    "device": "Titan",
    "model": "Titan"
+  },
+  {
+   "brand": "Mobicell",
+   "device": "TITAN",
+   "model": "TITAN"
   },
   {
    "brand": "Unihertz",
@@ -45412,6 +45424,18 @@
    "brand": "Funai Electric",
    "device": "daitou",
    "model": "POE-SMB400-FN1"
+  }
+ ],
+ "Smart TV": [
+  {
+   "brand": "Funai Electric",
+   "device": "peach",
+   "model": "FUNAI 4K TV"
+  },
+  {
+   "brand": "Philips",
+   "device": "sindap",
+   "model": "PHILIPS 4K TV"
   }
  ],
  "F104Bv2_PRO": [
@@ -101914,6 +101938,13 @@
    "model": "moto g(7)"
   }
  ],
+ "moto g(7) optimo (XT1952DL)": [
+  {
+   "brand": "Motorola",
+   "device": "channel",
+   "model": "moto g(7) optimo (XT1952DL)"
+  }
+ ],
  "moto g(7) optimo maxx(XT1955DL)": [
   {
    "brand": "Motorola",
@@ -101926,11 +101957,6 @@
    "brand": "Motorola",
    "device": "channel",
    "model": "moto g(6)"
-  },
-  {
-   "brand": "Motorola",
-   "device": "channel",
-   "model": "moto g(7) optimo (XT1952DL)"
   },
   {
    "brand": "Motorola",
@@ -114693,13 +114719,6 @@
    "model": "Philips S395"
   }
  ],
- "Smart TV": [
-  {
-   "brand": "Philips",
-   "device": "sindap",
-   "model": "PHILIPS 4K TV"
-  }
- ],
  "T8 PI7000": [
   {
    "brand": "Philips",
@@ -124406,6 +124425,11 @@
    "brand": "Samsung",
    "device": "a11q",
    "model": "SM-A115A"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a11q",
+   "model": "SM-A115AZ"
   },
   {
    "brand": "Samsung",
@@ -141657,6 +141681,11 @@
    "brand": "Sony",
    "device": "SO-51A",
    "model": "SO-51A"
+  },
+  {
+   "brand": "Sony",
+   "device": "SOG01",
+   "model": "SOG01"
   }
  ],
  "Xperia 1 Professional Edition": [

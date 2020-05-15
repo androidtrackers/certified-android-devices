@@ -3372,6 +3372,11 @@
    "brand": "Advan digital",
    "name": "TAB 10",
    "device": "ADVAN_TAB_10"
+  },
+  {
+   "brand": "Advan digital",
+   "name": "TAB_10",
+   "device": "ADVAN_TAB_10"
   }
  ],
  "7039": [
@@ -19958,7 +19963,7 @@
  "EF501R_RU": [
   {
    "brand": "Bluebird",
-   "name": "EF501",
+   "name": "EF501R",
    "device": "EF501"
   }
  ],
@@ -39409,6 +39414,13 @@
    "brand": "Funai Electric",
    "name": "POE-SMB400-FN1",
    "device": "daitou"
+  }
+ ],
+ "FUNAI 4K TV": [
+  {
+   "brand": "Funai Electric",
+   "name": "Smart TV",
+   "device": "peach"
   }
  ],
  "F104Bv2_PRO": [
@@ -100605,6 +100617,13 @@
    "device": "TRIP"
   }
  ],
+ "TITAN": [
+  {
+   "brand": "Mobicell",
+   "name": "Titan",
+   "device": "TITAN"
+  }
+ ],
  "TREDNY": [
   {
    "brand": "Mobicell",
@@ -104198,18 +104217,18 @@
    "device": "lake_n"
   }
  ],
+ "moto g(7) optimo (XT1952DL)": [
+  {
+   "brand": "Motorola",
+   "name": "moto g(7) optimo (XT1952DL)",
+   "device": "channel"
+  }
+ ],
  "moto g(7) optimo maxx(XT1955DL)": [
   {
    "brand": "Motorola",
    "name": "moto g(7) optimo maxx(XT1955DL)",
    "device": "ocean"
-  }
- ],
- "moto g(7) optimo (XT1952DL)": [
-  {
-   "brand": "Motorola",
-   "name": "moto g(7) play",
-   "device": "channel"
   }
  ],
  "moto g(7) play": [
@@ -127885,6 +127904,13 @@
    "device": "a11q"
   }
  ],
+ "SM-A115AZ": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A11",
+   "device": "a11q"
+  }
+ ],
  "SM-A115F": [
   {
    "brand": "Samsung",
@@ -148559,6 +148585,13 @@
    "brand": "Sony",
    "name": "Xperia 1 II",
    "device": "SO-51A"
+  }
+ ],
+ "SOG01": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 1 II",
+   "device": "SOG01"
   }
  ],
  "J9150": [

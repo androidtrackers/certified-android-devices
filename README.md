@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-05-14
+Last sync is 2020-05-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -422,6 +422,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advan digital|TAB 10|ADVAN_TAB_10|1010|
 |Advan digital|TAB 7|ADVAN_TAB_7|7039|
 |Advan digital|TAB 8|ADVAN_TAB_8|8002|
+|Advan digital|TAB_10|ADVAN_TAB_10|1010|
 |Advan digital|X7 Max|X7_Max|7301|
 |Advan digital|X7 Pro|ADVAN_7008|7008|
 |Advan digital|X7 Pro|ADVAN_X7_Pro|X7 Pro|
@@ -2706,8 +2707,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bluebird|EF401|EF401|EF401_RU|
 |Bluebird|EF500|EF500|EF500|
 |Bluebird|EF501|EF501|EF501|
-|Bluebird|EF501|EF501|EF501R_RU|
 |Bluebird|EF501R|EF501|EF501|
+|Bluebird|EF501R|EF501|EF501R_RU|
 |Bluebird|HF450|HF450|HF450|
 |Bluebird|HF550|HF550|HF550|
 |Bluebird|HF550|HF550|HF550_RU|
@@ -5440,6 +5441,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fujitsu|arrows Tab M01T|M01T|M01T|
 |Funai Electric||smdkv210|ALM-001J|
 |Funai Electric|POE-SMB400-FN1|daitou|POE-SMB400-FN1|
+|Funai Electric|Smart TV|peach|FUNAI 4K TV|
 |Fusion5|F104Bv2_PRO|F104Bv2_PRO|F104Bv2_PRO|
 |Fusion5|F104BvII_PRO|F104BvII_PRO|F104BvII_PRO|
 |Fusion5|F105Dv2|F105Dv2|F105Dv2|
@@ -14557,6 +14559,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|TRENDY 2|TRENDY_2|TRENDY 2|
 |Mobicell|TRENDY_LITE|TRENDY_LITE|TRENDY_LITE|
 |Mobicell|TRIP|TRIP|TRIP|
+|Mobicell|Titan|TITAN|TITAN|
 |Mobicell|Trendy|TREDNY|TREDNY|
 |Mobicell|Trendy|TRENDY|TRENDY|
 |Mobicell|Trendy Plus|TRENDY_PLUS|TRENDY PLUS|
@@ -15102,9 +15105,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g(7)|river|moto g(6)|
 |Motorola|moto g(7)|river|moto g(7)|
 |Motorola|moto g(7)|river_n|moto g(7)|
+|Motorola|moto g(7) optimo (XT1952DL)|channel|moto g(7) optimo (XT1952DL)|
 |Motorola|moto g(7) optimo maxx(XT1955DL)|ocean|moto g(7) optimo maxx(XT1955DL)|
 |Motorola|moto g(7) play|channel|moto g(6)|
-|Motorola|moto g(7) play|channel|moto g(7) optimo (XT1952DL)|
 |Motorola|moto g(7) play|channel|moto g(7) play|
 |Motorola|moto g(7) plus|lake|XT1965-6|
 |Motorola|moto g(7) plus|lake_n|moto g(6) plus|
@@ -18704,6 +18707,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A10s|a10s|SM-A107F|
 |Samsung|Galaxy A10s|a10s|SM-A107M|
 |Samsung|Galaxy A11|a11q|SM-A115A|
+|Samsung|Galaxy A11|a11q|SM-A115AZ|
 |Samsung|Galaxy A11|a11q|SM-A115F|
 |Samsung|Galaxy A11|a11q|SM-A115M|
 |Samsung|Galaxy A11|a11q|SM-A115U|
@@ -21729,6 +21733,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 1|SO-03L|SO-03L|
 |Sony|Xperia 1|SOV40|SOV40|
 |Sony|Xperia 1 II|SO-51A|SO-51A|
+|Sony|Xperia 1 II|SOG01|SOG01|
 |Sony|Xperia 1 Professional Edition|J9150|J9150|
 |Sony|Xperia 10|I3113|I3113|
 |Sony|Xperia 10|I3123|I3123|

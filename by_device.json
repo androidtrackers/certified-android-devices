@@ -3582,6 +3582,11 @@
    "brand": "Advan digital",
    "name": "TAB 10",
    "model": "1010"
+  },
+  {
+   "brand": "Advan digital",
+   "name": "TAB_10",
+   "model": "1010"
   }
  ],
  "ADVAN_TAB_7": [
@@ -20423,13 +20428,13 @@
   },
   {
    "brand": "Bluebird",
-   "name": "EF501",
-   "model": "EF501R_RU"
+   "name": "EF501R",
+   "model": "EF501"
   },
   {
    "brand": "Bluebird",
    "name": "EF501R",
-   "model": "EF501"
+   "model": "EF501R_RU"
   }
  ],
  "HF450": [
@@ -40249,6 +40254,13 @@
    "brand": "Funai Electric",
    "name": "POE-SMB400-FN1",
    "model": "POE-SMB400-FN1"
+  }
+ ],
+ "peach": [
+  {
+   "brand": "Funai Electric",
+   "name": "Smart TV",
+   "model": "FUNAI 4K TV"
   }
  ],
  "F104Bv2_PRO": [
@@ -97325,6 +97337,13 @@
    "model": "TRIP"
   }
  ],
+ "TITAN": [
+  {
+   "brand": "Mobicell",
+   "name": "Titan",
+   "model": "TITAN"
+  }
+ ],
  "TREDNY": [
   {
    "brand": "Mobicell",
@@ -100742,6 +100761,33 @@
    "model": "moto g(7)"
   }
  ],
+ "channel": [
+  {
+   "brand": "Motorola",
+   "name": "moto g(7) optimo (XT1952DL)",
+   "model": "moto g(7) optimo (XT1952DL)"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g(7) play",
+   "model": "moto g(6)"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g(7) play",
+   "model": "moto g(7) play"
+  },
+  {
+   "brand": "T-Mobile",
+   "name": "REVVLRY",
+   "model": "REVVLRY"
+  },
+  {
+   "brand": "T-Mobile",
+   "name": "REVVLRY",
+   "model": "REVVLry"
+  }
+ ],
  "ocean": [
   {
    "brand": "Motorola",
@@ -100762,33 +100808,6 @@
    "brand": "Motorola",
    "name": "moto g(7) supra",
    "model": "moto g(7) supra"
-  }
- ],
- "channel": [
-  {
-   "brand": "Motorola",
-   "name": "moto g(7) play",
-   "model": "moto g(6)"
-  },
-  {
-   "brand": "Motorola",
-   "name": "moto g(7) play",
-   "model": "moto g(7) optimo (XT1952DL)"
-  },
-  {
-   "brand": "Motorola",
-   "name": "moto g(7) play",
-   "model": "moto g(7) play"
-  },
-  {
-   "brand": "T-Mobile",
-   "name": "REVVLRY",
-   "model": "REVVLRY"
-  },
-  {
-   "brand": "T-Mobile",
-   "name": "REVVLRY",
-   "model": "REVVLry"
   }
  ],
  "lake": [
@@ -124116,6 +124135,11 @@
   {
    "brand": "Samsung",
    "name": "Galaxy A11",
+   "model": "SM-A115AZ"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A11",
    "model": "SM-A115F"
   },
   {
@@ -143691,6 +143715,13 @@
    "brand": "Sony",
    "name": "Xperia 1 II",
    "model": "SO-51A"
+  }
+ ],
+ "SOG01": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 1 II",
+   "model": "SOG01"
   }
  ],
  "J9150": [
