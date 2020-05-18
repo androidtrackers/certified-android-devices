@@ -36974,6 +36974,13 @@
    "device": "ba201"
   }
  ],
+ "FlowBox-F1": [
+  {
+   "brand": "Flow",
+   "name": "FlowBox-F1",
+   "device": "HP40A2"
+  }
+ ],
  "F": [
   {
    "brand": "Fluo",
@@ -99731,6 +99738,13 @@
    "device": "CoolMintt_A3"
   }
  ],
+ "CoolMinttA5": [
+  {
+   "brand": "Mintt",
+   "name": "CoolMinttA5",
+   "device": "CoolMinttA5"
+  }
+ ],
  "CoolMinttBlaze": [
   {
    "brand": "Mintt",
@@ -148629,6 +148643,13 @@
    "device": "I4193"
   }
  ],
+ "XQ-AU52": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 II",
+   "device": "XQ-AU52"
+  }
+ ],
  "I3213": [
   {
    "brand": "Sony",
@@ -149084,6 +149105,20 @@
    "brand": "Sony",
    "name": "Xperia L3",
    "device": "I4332"
+  }
+ ],
+ "XQ-AD51": [
+  {
+   "brand": "Sony",
+   "name": "Xperia L4",
+   "device": "XQ-AD51"
+  }
+ ],
+ "XQ-AD52": [
+  {
+   "brand": "Sony",
+   "name": "Xperia L4",
+   "device": "XQ-AD52"
   }
  ],
  "C1904": [
@@ -162335,6 +162370,34 @@
    "device": "Xess-mini"
   }
  ],
+ "9013A": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "alcatel 1T7 4G",
+   "device": "King_Kong_7_4G"
+  }
+ ],
+ "9013T": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "alcatel 1T7 4G",
+   "device": "King_Kong_7_4G"
+  }
+ ],
+ "9013X": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "alcatel 1T7 4G",
+   "device": "King_Kong_7_4G"
+  }
+ ],
+ "9013X_EEA": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "alcatel 1T7 4G",
+   "device": "King_Kong_7_4G"
+  }
+ ],
  "5008A": [
   {
    "brand": "TCT (Alcatel)",
@@ -164518,6 +164581,13 @@
   }
  ],
  "TECNO KD6": [
+  {
+   "brand": "Tecno",
+   "name": "SPARK 5 Air",
+   "device": "TECNO-KD6"
+  }
+ ],
+ "TECNO KD6a": [
   {
    "brand": "Tecno",
    "name": "SPARK 5 Air",
@@ -167794,6 +167864,18 @@
    "brand": "Umidigi",
    "name": "S3_Pro",
    "device": "S3_Pro"
+  }
+ ],
+ "S5 Pro": [
+  {
+   "brand": "Umidigi",
+   "name": "S5 Pro",
+   "device": "S5_Pro"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "S5_Pro_EEA",
+   "device": "S5_Pro"
   }
  ],
  "UMIDIGI X": [

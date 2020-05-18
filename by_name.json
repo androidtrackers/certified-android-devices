@@ -43132,6 +43132,13 @@
    "model": "ba101"
   }
  ],
+ "FlowBox-F1": [
+  {
+   "brand": "Flow",
+   "device": "HP40A2",
+   "model": "FlowBox-F1"
+  }
+ ],
  "F": [
   {
    "brand": "Fluo",
@@ -98147,6 +98154,13 @@
    "model": "CoolMinttA3"
   }
  ],
+ "CoolMinttA5": [
+  {
+   "brand": "Mintt",
+   "device": "CoolMinttA5",
+   "model": "CoolMinttA5"
+  }
+ ],
  "CoolMinttBlaze": [
   {
    "brand": "Mintt",
@@ -141717,6 +141731,13 @@
    "model": "I4193"
   }
  ],
+ "Xperia 10 II": [
+  {
+   "brand": "Sony",
+   "device": "XQ-AU52",
+   "model": "XQ-AU52"
+  }
+ ],
  "Xperia 10 Plus": [
   {
    "brand": "Sony",
@@ -142120,6 +142141,18 @@
    "brand": "Sony",
    "device": "I4332",
    "model": "I4332"
+  }
+ ],
+ "Xperia L4": [
+  {
+   "brand": "Sony",
+   "device": "XQ-AD51",
+   "model": "XQ-AD51"
+  },
+  {
+   "brand": "Sony",
+   "device": "XQ-AD52",
+   "model": "XQ-AD52"
   }
  ],
  "Xperia M": [
@@ -153174,6 +153207,28 @@
    "model": "TCL Xess C15BA"
   }
  ],
+ "alcatel 1T7 4G": [
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "King_Kong_7_4G",
+   "model": "9013A"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "King_Kong_7_4G",
+   "model": "9013T"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "King_Kong_7_4G",
+   "model": "9013X"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "King_Kong_7_4G",
+   "model": "9013X_EEA"
+  }
+ ],
  "alcatel 1X": [
   {
    "brand": "TCT (Alcatel)",
@@ -155095,6 +155150,11 @@
    "brand": "Tecno",
    "device": "TECNO-KD6",
    "model": "TECNO KD6"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KD6",
+   "model": "TECNO KD6a"
   }
  ],
  "SPARK CM": [
@@ -158309,6 +158369,20 @@
    "brand": "Umidigi",
    "device": "S3_Pro",
    "model": "S3_Pro"
+  }
+ ],
+ "S5 Pro": [
+  {
+   "brand": "Umidigi",
+   "device": "S5_Pro",
+   "model": "S5 Pro"
+  }
+ ],
+ "S5_Pro_EEA": [
+  {
+   "brand": "Umidigi",
+   "device": "S5_Pro",
+   "model": "S5 Pro"
   }
  ],
  "UMIDIGI X": [

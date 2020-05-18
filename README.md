@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-05-17
+Last sync is 2020-05-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5102,6 +5102,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Flnet|BANDOTT|ba101|ba101|
 |Flnet|BANDOTT Sandwich|ba201|ba201|
 |Flnet|BandOTT|ba101|ba101|
+|Flow|FlowBox-F1|HP40A2|FlowBox-F1|
 |Fluo|F|F|F|
 |Fluo|F Plus|F_Plus|F_Plus|
 |Fluo|F2|F2|F2|
@@ -14420,6 +14421,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mint|Pearl_Neo|Pearl_Neo|Pearl_Neo|
 |Mintt|A1|A1|A1|
 |Mintt|CoolMinttA3|CoolMinttA3|CoolMinttA3|
+|Mintt|CoolMinttA5|CoolMinttA5|CoolMinttA5|
 |Mintt|CoolMinttBlaze|CoolMinttBlaze|CoolMinttBlaze|
 |Mintt|CoolMinttDUO3|CoolMinttDUO3|CoolMinttDUO3|
 |Mintt|CoolMinttM2|CoolMinttM2|CoolMinttM2|
@@ -21739,6 +21741,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 10|I3123|I3123|
 |Sony|Xperia 10|I4113|I4113|
 |Sony|Xperia 10|I4193|I4193|
+|Sony|Xperia 10 II|XQ-AU52|XQ-AU52|
 |Sony|Xperia 10 Plus|I3213|I3213|
 |Sony|Xperia 10 Plus|I3223|I3223|
 |Sony|Xperia 10 Plus|I4213|I4213|
@@ -21804,6 +21807,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia L3|I3312|I3312|
 |Sony|Xperia L3|I4312|I4312|
 |Sony|Xperia L3|I4332|I4332|
+|Sony|Xperia L4|XQ-AD51|XQ-AD51|
+|Sony|Xperia L4|XQ-AD52|XQ-AD52|
 |Sony|Xperia M|C1904|C1904|
 |Sony|Xperia M|C1905|C1905|
 |Sony|Xperia M Dual|C2005|C2005|
@@ -23796,6 +23801,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|X50D|X50D|X50D|
 |TCT (Alcatel)|Xess mini|Xess-mini|TCL Xess miniC15BA|
 |TCT (Alcatel)|Xess-mini|Xess-mini|TCL Xess C15BA|
+|TCT (Alcatel)|alcatel 1T7 4G|King_Kong_7_4G|9013A|
+|TCT (Alcatel)|alcatel 1T7 4G|King_Kong_7_4G|9013T|
+|TCT (Alcatel)|alcatel 1T7 4G|King_Kong_7_4G|9013X|
+|TCT (Alcatel)|alcatel 1T7 4G|King_Kong_7_4G|9013X_EEA|
 |TCT (Alcatel)|alcatel 1X|Edison|5008A|
 |TCT (Alcatel)|alcatel 1X|Edison|5008D|
 |TCT (Alcatel)|alcatel 1X|Edison|5008D_EEA|
@@ -24124,6 +24133,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|SPARK 4|TECNO-KC8S|TECNO KC8S|
 |Tecno|SPARK 4 Lite|TECNO-BB4k|TECNO BB4k|
 |Tecno|SPARK 5 Air|TECNO-KD6|TECNO KD6|
+|Tecno|SPARK 5 Air|TECNO-KD6|TECNO KD6a|
 |Tecno|SPARK CM|TECNO-KA9|TECNO KA9|
 |Tecno|SPARK Go Plus|TECNO-BB4k|TECNO BB4k|
 |Tecno|SPARK Plus|TECNO-K9|TECNO K9|
@@ -24649,6 +24659,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|Power_3_EEA|Power_3|Power_3|
 |Umidigi|S2PRO|S2_PRO|S2_PRO|
 |Umidigi|S3_Pro|S3_Pro|S3_Pro|
+|Umidigi|S5 Pro|S5_Pro|S5 Pro|
+|Umidigi|S5_Pro_EEA|S5_Pro|S5 Pro|
 |Umidigi|UMIDIGI X|UMIDIGI_X|UMIDIGI X|
 |Umidigi|Z2|Z2|Z2|
 |Umidigi|Z2 Pro|Z2_PRO|Z2_PRO|
