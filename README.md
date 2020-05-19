@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-05-18
+Last sync is 2020-05-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2378,6 +2378,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|BV4000|BV4000|BV4000|
 |Blackview|BV4000Pro_RU|BV4000Pro|BV4000Pro-RU|
 |Blackview|BV5500|BV5500|BV5500|
+|Blackview|BV5500PLUS|BV5500Plus|BV5500Plus|
 |Blackview|BV5500Pro|BV5500Pro|BV5500Pro|
 |Blackview|BV5800|BV5800|BV5800|
 |Blackview|BV5800PRO|BV5800_PRO|BV5800 PRO|
@@ -3818,6 +3819,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|A160|A160|A160|
 |DEXP|A240|A240|A240|
 |DEXP|A250|A250|A250|
+|DEXP|A340|A340|A340|
 |DEXP|AL140|AL140|AL140|
 |DEXP|AL240|AL240|AL240|
 |DEXP|AL250|AL250|AL250|
@@ -4746,6 +4748,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ematic|Jetstream AGT418|DV8235|AGT419|
 |Ematic|Jetstream AGT418|DV8235|Jetstream AGT418|
 |Ematic|PBS Kids PlayPad|PBSKD12|PBSKD12|
+|Ematic|PBSKD7200|PBSKD7200|PBSKD7200|
 |Ematic|Sprout Channel Cubby|Cubby|SproutChannelCubby|
 |Ematic|USA|Jetstream|AGT418|
 |Emdoor|EM_I8180|em_i8180|em_i8180|
@@ -7667,10 +7670,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|e76mini|HS8937QC|Hisense E76mini|
 |Hisense|fushan_em|hamamatsucho|HiSmart 2K ATV4|
 |Hisense|fushan_emeu|hamamatsucho|HiSmart 2K ATV4|
+|Hisense|fushan_sa|hamamatsucho|HiSmart 2K ATV4|
 |Hisense|l676be|HS8929QC|Hisense L676|
 |Hisense|l691|msm8226|HS-L691|
 |Hisense|l830|HS8937QC|Hisense L830|
 |Hisense|l830|HS8937QC|STARXTREM 6|
+|Hisense|laohushan|laohushan|HiSmart 4K A4FFM|
 |Hisense|laoshan|laoshan|HAT4KDTV|
 |Hisense|laoshan|xiaoyushan|HAT4KDTV|
 |Hisense|laoshan|xiaoyushan|HiSmartTV A4|
@@ -10586,6 +10591,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kalley|K-BOOK73G|K_BOOK73G|K-BOOK73G|
 |Kalley|Klic|SA|K4-02 4G|
 |Kalley|Silver P5|P5|P5|
+|Kalley|xiaoyushan_kalley|xiaoyushan|HiSmartTV A4|
 |Kanji|KANJI_AC05|KANJI-AC05|KJ-AC05|
 |Kanji|KJ_AC05|KJAC05|KJ_AC05|
 |Kanji|KJ_ALFARK|KJ_ALFARK|KJ-ALFARK|
@@ -10640,6 +10646,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Karvy|KA7Q3|KA7Q3|KA7Q3|
 |Kbro|N97_A1_3796|A1_3796|N97_A1_3796|
 |Keian|KI-R10|KI-R10|KI-R10|
+|Keian|KI-R10S|KI-R10S|KI-R10S|
 |Keian|KI-R7|KI-R7|KI-R7|
 |Kempler Strauss|Alumini 3 Plus|Alumini_3_Plus|Alumini_3_Plus|
 |Kempler Strauss|KEMPLER 8|KEMPLER_8|KEMPLER_8|
@@ -15081,15 +15088,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto e6s|fiji|moto e6|
 |Motorola|moto e6s|fiji|moto e6s|
 |Motorola|moto e7|ginna|moto e|
-|Motorola|moto e7|ginna|moto e7|
 |Motorola|moto e⁶ plus|pokerp|moto e(6) plus|
 |Motorola|moto e⁶ˢ|pokerp|moto e(6s)|
 |Motorola|moto g fast|rav|moto g fast|
 |Motorola|moto g power|sofia|moto g power|
-|Motorola|moto g power|sofia|moto g(7)|
 |Motorola|moto g power (XT2041DL)|sofia|moto g power (XT2041DL)|
 |Motorola|moto g stylus|sofiap|moto g stylus|
-|Motorola|moto g stylus|sofiap|moto g(7)|
 |Motorola|moto g(6)|ali|XT1925-10|
 |Motorola|moto g(6)|ali|moto g(6)|
 |Motorola|moto g(6)|ali|moto g(6) (XT1925DL)|
@@ -15119,14 +15123,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g(7) power|ocean_n|moto g(7) power|
 |Motorola|moto g(7) power|ocean_t|moto g(7) power|
 |Motorola|moto g(7) supra|ocean|moto g(7) supra|
-|Motorola|moto g(8)|rav|moto g(7)|
 |Motorola|moto g(8)|rav|moto g(8)|
 |Motorola|moto g(8) play|lima|moto g(7) play|
 |Motorola|moto g(8) play|lima|moto g(8) play|
 |Motorola|moto g(8) plus|doha|moto g(7)|
 |Motorola|moto g(8) plus|doha|moto g(8) plus|
 |Motorola|moto g(8) plus|doha_n|moto g(8) plus|
-|Motorola|moto g(8) power|sofiar|moto g(7)|
 |Motorola|moto g(8) power|sofiar|moto g(8) power|
 |Motorola|moto g(8) power lite|blackjack|moto g(8) power lite|
 |Motorola|moto g(8) power lite|blackjack|moto g8 power lite|
@@ -15137,7 +15139,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto z3 play|beckham|Moto Z3 Play|
 |Motorola|moto z4|foles|Moto Z3 Play|
 |Motorola|moto z4|foles|moto z4|
-|Motorola|motorola edge|racer|moto z4|
 |Motorola|motorola edge|racer|motorola edge|
 |Motorola|motorola edge plus|burton|motorola edge plus|
 |Motorola|motorola one|deen_sprout|motorola one|
@@ -18207,6 +18208,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme 5|RMX1919|RMX1919|
 |Realme|realme 5|RMX1925|RMX1925|
 |Realme|realme 5|RMX1926|RMX1926|
+|Realme|realme 5|RMX1927|RMX1927|
 |Realme|realme 5Pro|RMX1971|RMX1971|
 |Realme|realme 5Pro|RMX1971L1|RMX1971|
 |Realme|realme 5i|RMX2030|RMX2030|
@@ -18236,6 +18238,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme X2Pro|RMX1931L1|RMX1931|
 |Realme|realme X50 5G 移动版|RMX2025CN|RMX2025|
 |Realme|realme X50 Pro|RMX2071CN|RMX2071|
+|Realme|realme X50 Pro|RMX2075L1|RMX2075|
 |Realme|realme X50 Pro|RMX2076L1|RMX2076|
 |Realme|realme XT|RMX1921|RMX1921|
 |Realme|realme XT|RMX1921L1|RMX1921|
@@ -18362,6 +18365,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ruggear|RG655|RG655|RG655|
 |Ruggear|RG720|RG720|RG720|
 |Ruggear|RG725|RG725|RG725|
+|Ruggear|RG725_P_EEA|RG725|RG725|
 |Ruggear|RG725_P_ROW|RG725|RG725|
 |Ruggear|RG730|rg730|RugGear RG730|
 |Ruggear|RG740B|RG740B|RG740B|
@@ -18554,6 +18558,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |STG Telecom|STG A1|STG_A1|STG A1|
 |STG Telecom|STG A1 Pro|STG_A1_Pro|STG A1 Pro|
 |STG Telecom|STG S1|STG_S1|STG S1|
+|STG Telecom|STG S10|STG_S10|STG S10|
 |STG Telecom|STG X1|STG_X1|STG X1|
 |STG Telecom|STG_A1|STG_A1|STG A1|
 |STG Telecom|STG_B10|STG_B10|STG_B10|
@@ -21066,6 +21071,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Senwa|S45|Senwa_S45|S45|
 |Senwa|S50|Senwa_S50|S50|
 |Senwa|Senwa_LS5018|Senwa_LS5018|LS5018|
+|Senwa|Senwa_LS5018F|Senwa_LS5018F|LS5018F|
 |Senwa|Senwa_S571|Senwa_S571|S571|
 |Senwa|Telcel S6000|Telcel_S6000|S6000|
 |Senwa|Telcel_LS50|Telcel_LS50|LS50|
@@ -21095,6 +21101,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|"4T-C**AM1/AN1/AL1|8T-C**AX1/AW1"|tcsu2uj|
 |Sharp|4T-C**BL1/BJ1/BN1|tcmeruj|AQUOS-TVJ19|
 |Sharp|4T-C**BN1/BL1|tcmeruj|AQUOS-TVJ19B|
+|Sharp|4T-C**BN1H/BL1H|tcmeruj|AQUOS-TVJ20B|
 |Sharp|4T-C50AG1T|LCD_50FOCAG1T|LCD_50FOCAG1T|
 |Sharp|4T-C50BDXA;4T-C50BDKA;4T-C50BDMA;4T-C50BDCA;4T-C50BDZA|Lcd_50sumtcca_xa|LCD_50SUMTCCA_XA|
 |Sharp|4T-C50BJ8T|gangnam|TVX19B|
@@ -21559,13 +21566,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|Platinum M5|Platinum_M5|Platinum_M5|
 |Sky Devices|Platinum View2|PLATINUM_VIEW2|PLATINUM_VIEW2|
 |Sky Devices|Platinum_UNO|Platinum_UNO|Platinum_UNO|
+|Sky Devices|Prestige2|SKY_Prestige2_FP|SKY Prestige2|
 |Sky Devices|SKY 5.0LM|SKY_50LM|SKY 5.0LM|
 |Sky Devices|SKY 5.0Pro II|SKY_50Pro_II|SKY 5.0Pro II|
 |Sky Devices|SKY 55M|SKY_55M|SKY 55M|
 |Sky Devices|SKY Black|Negro_SKY_Black|SKY Black|
 |Sky Devices|SKY Black|SKY_Black|SKY Black|
 |Sky Devices|SKY Prestige|SKY_Prestige|SKY Prestige|
+|Sky Devices|SKY Prestige2|Sky_Prestige2_NFP|Sky Prestige2|
 |Sky Devices|SKY VISION1|SKYVISION|SKYVISION|
+|Sky Devices|SKY Volt|SKY_Volt|SKY Volt|
 |Sky Devices|SKY_Pro_III|SKY_Pro_III|SKY_Pro_III|
 |Sky Devices|Sky Vision2|Sky_Vision2|Sky Vision2|
 |Sky Devices|pro selfie|PRO_SELFIE|PRO_SELFIE|
@@ -22588,6 +22598,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL C7|A3A_PLUS|5158A|
 |TCL|TCL C9 Plus|Venice|5148I|
 |TCL|TCL L10|Faraday|5124J|
+|TCL|TCL L10+|Jakarta|5130I|
 |TCL|TCL L10+|Jakarta|5130J|
 |TCL|TCL L10+|Tokyo|5128A|
 |TCL|TCL L10+|Tokyo|5128Y|
@@ -28190,6 +28201,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iWaylink|TC601|TC601_GWL|TC601_GWL|
 |iYOU|iYOU_M1|iYOU_M1|iYOU_M1|
 |imose|BAM-II|BAM-II|BAM-II|
+|indigi|G4i|G4i|G4i|
 |intelkom|meanIT_C1|meanIT_C1|meanIT_C1|
 |intelkom|meanIT_C2|meanIT_C2|meanIT_C2|
 |intelkom|meanIT_X2|meanIT_X2|meanIT_X2|

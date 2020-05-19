@@ -23289,6 +23289,13 @@
    "model": "BV5500"
   }
  ],
+ "BV5500PLUS": [
+  {
+   "brand": "Blackview",
+   "device": "BV5500Plus",
+   "model": "BV5500Plus"
+  }
+ ],
  "BV5500Pro": [
   {
    "brand": "Blackview",
@@ -33914,6 +33921,13 @@
    "model": "A240"
   }
  ],
+ "A340": [
+  {
+   "brand": "DEXP",
+   "device": "A340",
+   "model": "A340"
+  }
+ ],
  "AL140": [
   {
    "brand": "DEXP",
@@ -40630,6 +40644,13 @@
    "brand": "Ematic",
    "device": "PBSKD12",
    "model": "PBSKD12"
+  }
+ ],
+ "PBSKD7200": [
+  {
+   "brand": "Ematic",
+   "device": "PBSKD7200",
+   "model": "PBSKD7200"
   }
  ],
  "Sprout Channel Cubby": [
@@ -59544,6 +59565,13 @@
    "model": "HiSmart 2K ATV4"
   }
  ],
+ "fushan_sa": [
+  {
+   "brand": "Hisense",
+   "device": "hamamatsucho",
+   "model": "HiSmart 2K ATV4"
+  }
+ ],
  "l676be": [
   {
    "brand": "Hisense",
@@ -59568,6 +59596,13 @@
    "brand": "Hisense",
    "device": "HS8937QC",
    "model": "STARXTREM 6"
+  }
+ ],
+ "laohushan": [
+  {
+   "brand": "Hisense",
+   "device": "laohushan",
+   "model": "HiSmart 4K A4FFM"
   }
  ],
  "laoshan": [
@@ -75945,6 +75980,13 @@
    "model": "P5"
   }
  ],
+ "xiaoyushan_kalley": [
+  {
+   "brand": "Kalley",
+   "device": "xiaoyushan",
+   "model": "HiSmartTV A4"
+  }
+ ],
  "KANJI_AC05": [
   {
    "brand": "Kanji",
@@ -76317,6 +76359,13 @@
    "brand": "Keian",
    "device": "KI-R10",
    "model": "KI-R10"
+  }
+ ],
+ "KI-R10S": [
+  {
+   "brand": "Keian",
+   "device": "KI-R10S",
+   "model": "KI-R10S"
   }
  ],
  "KI-R7": [
@@ -101800,11 +101849,6 @@
    "brand": "Motorola",
    "device": "ginna",
    "model": "moto e"
-  },
-  {
-   "brand": "Motorola",
-   "device": "ginna",
-   "model": "moto e7"
   }
  ],
  "moto e⁶ plus": [
@@ -101833,11 +101877,6 @@
    "brand": "Motorola",
    "device": "sofia",
    "model": "moto g power"
-  },
-  {
-   "brand": "Motorola",
-   "device": "sofia",
-   "model": "moto g(7)"
   }
  ],
  "moto g power (XT2041DL)": [
@@ -101852,11 +101891,6 @@
    "brand": "Motorola",
    "device": "sofiap",
    "model": "moto g stylus"
-  },
-  {
-   "brand": "Motorola",
-   "device": "sofiap",
-   "model": "moto g(7)"
   }
  ],
  "moto g(6)": [
@@ -102028,11 +102062,6 @@
   {
    "brand": "Motorola",
    "device": "rav",
-   "model": "moto g(7)"
-  },
-  {
-   "brand": "Motorola",
-   "device": "rav",
    "model": "moto g(8)"
   }
  ],
@@ -102066,11 +102095,6 @@
   }
  ],
  "moto g(8) power": [
-  {
-   "brand": "Motorola",
-   "device": "sofiar",
-   "model": "moto g(7)"
-  },
   {
    "brand": "Motorola",
    "device": "sofiar",
@@ -102135,11 +102159,6 @@
   }
  ],
  "motorola edge": [
-  {
-   "brand": "Motorola",
-   "device": "racer",
-   "model": "moto z4"
-  },
   {
    "brand": "Motorola",
    "device": "racer",
@@ -110729,6 +110748,11 @@
    "brand": "Realme",
    "device": "RMX1926",
    "model": "RMX1926"
+  },
+  {
+   "brand": "Realme",
+   "device": "RMX1927",
+   "model": "RMX1927"
   }
  ],
  "realme C1": [
@@ -121648,6 +121672,11 @@
   },
   {
    "brand": "Realme",
+   "device": "RMX2075L1",
+   "model": "RMX2075"
+  },
+  {
+   "brand": "Realme",
    "device": "RMX2076L1",
    "model": "RMX2076"
   }
@@ -122510,6 +122539,13 @@
   }
  ],
  "RG725": [
+  {
+   "brand": "Ruggear",
+   "device": "RG725",
+   "model": "RG725"
+  }
+ ],
+ "RG725_P_EEA": [
   {
    "brand": "Ruggear",
    "device": "RG725",
@@ -123717,6 +123753,13 @@
    "brand": "STG Telecom",
    "device": "STG_S1",
    "model": "STG S1"
+  }
+ ],
+ "STG S10": [
+  {
+   "brand": "STG Telecom",
+   "device": "STG_S10",
+   "model": "STG S10"
   }
  ],
  "STG X1": [
@@ -137350,6 +137393,13 @@
    "model": "LS5018"
   }
  ],
+ "Senwa_LS5018F": [
+  {
+   "brand": "Senwa",
+   "device": "Senwa_LS5018F",
+   "model": "LS5018F"
+  }
+ ],
  "Senwa_S571": [
   {
    "brand": "Senwa",
@@ -137514,6 +137564,13 @@
    "brand": "Sharp",
    "device": "tcmeruj",
    "model": "AQUOS-TVJ19B"
+  }
+ ],
+ "4T-C**BN1H/BL1H": [
+  {
+   "brand": "Sharp",
+   "device": "tcmeruj",
+   "model": "AQUOS-TVJ20B"
   }
  ],
  "4T-C50AG1T": [
@@ -140632,6 +140689,13 @@
    "model": "Platinum_UNO"
   }
  ],
+ "Prestige2": [
+  {
+   "brand": "Sky Devices",
+   "device": "SKY_Prestige2_FP",
+   "model": "SKY Prestige2"
+  }
+ ],
  "SKY 5.0LM": [
   {
    "brand": "Sky Devices",
@@ -140672,11 +140736,25 @@
    "model": "SKY Prestige"
   }
  ],
+ "SKY Prestige2": [
+  {
+   "brand": "Sky Devices",
+   "device": "Sky_Prestige2_NFP",
+   "model": "Sky Prestige2"
+  }
+ ],
  "SKY VISION1": [
   {
    "brand": "Sky Devices",
    "device": "SKYVISION",
    "model": "SKYVISION"
+  }
+ ],
+ "SKY Volt": [
+  {
+   "brand": "Sky Devices",
+   "device": "SKY_Volt",
+   "model": "SKY Volt"
   }
  ],
  "SKY_Pro_III": [
@@ -146675,6 +146753,11 @@
   }
  ],
  "TCL L10+": [
+  {
+   "brand": "TCL",
+   "device": "Jakarta",
+   "model": "5130I"
+  },
   {
    "brand": "TCL",
    "device": "Jakarta",
@@ -178703,6 +178786,13 @@
    "brand": "imose",
    "device": "BAM-II",
    "model": "BAM-II"
+  }
+ ],
+ "G4i": [
+  {
+   "brand": "indigi",
+   "device": "G4i",
+   "model": "G4i"
   }
  ],
  "meanIT_C1": [
