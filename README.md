@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-05-19
+Last sync is 2020-05-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7282,6 +7282,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|HLTE210T|HS8937QC|HLTE210T|
 |Hisense|HLTE212T|HS8917QC|HLTE212T|
 |Hisense|HLTE213T|HSSDM439QC|HLTE213T|
+|Hisense|HLTE229E|HLTE229E_01|HLTE229E|
 |Hisense|HLTE230E|SC9863A|Hisense Infinity H40 Lite|
 |Hisense|HLTE300E_ 02|HS8937QC|HLTE300E|
 |Hisense|HLTE300E_ 02|HS8937QC|HLTE300E_02|
@@ -7293,6 +7294,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|HLTE500T|HSSDM630QC|HLTE500T|
 |Hisense|HLTE501N|HSSDM660QC|HLTE501N|
 |Hisense|HLTE510M|HSSDM636QC|HLTE510M|
+|Hisense|HNR550T|HNR550T|HNR550T|
 |Hisense|HS- G610|HS8916QC|HS-G610|
 |Hisense|HS- L682|HS8916QC|HS-L682|
 |Hisense|HS-E600M|E600M|HS-E600M|
@@ -7378,6 +7380,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense  Infinity  H12|HSSDM450QC|Hisense Infinity H12|
 |Hisense|Hisense E MAX|SC9863A_RU|Hisense E MAX|
 |Hisense|Hisense E40|HLTE229E|HLTE229E|
+|Hisense|Hisense E40|HLTE229E_10|HLTE229E|
+|Hisense|Hisense E40|HLTE229E_11|HLTE229E|
 |Hisense|Hisense E76MINIM|HS8937QC|Hisense E76MINIM|
 |Hisense|Hisense E77|HS8937QC|Hisense E77|
 |Hisense|Hisense F15|HS6739MT|Hisense F15|
@@ -9751,6 +9755,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 9|Infinix-X655C|Infinix X655C|
 |Infinix|Infinix HOT 9|Infinix-X655D|Infinix X655D|
 |Infinix|Infinix HOT 9 Play|Infinix-X680|Infinix X680|
+|Infinix|Infinix HOT 9 Play|Infinix-X680B|Infinix X680B|
 |Infinix|Infinix HOT 9 Pro|Infinix-X655F|Infinix X655F|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604B|
@@ -18738,6 +18743,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A20s|a20s|SM-A207F|
 |Samsung|Galaxy A20s|a20s|SM-A207M|
 |Samsung|Galaxy A21s|a21s|SM-A217F|
+|Samsung|Galaxy A21s|a21s|SM-A217M|
+|Samsung|Galaxy A21s|a21s|SM-A217N|
 |Samsung|Galaxy A3|a33g|SM-A300H|
 |Samsung|Galaxy A3|a3lte|SM-A300F|
 |Samsung|Galaxy A3|a3lte|SM-A300M|
@@ -20072,6 +20079,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S20 Ultra 5G|z3q|SM-G988W|
 |Samsung|Galaxy S20 Ultra 5G|z3s|SM-G988B|
 |Samsung|Galaxy S20+|y2s|SM-G985F|
+|Samsung|Galaxy S20+ 5G|SC-52A|SC-52A|
+|Samsung|Galaxy S20+ 5G|SCG02|SCG02|
 |Samsung|Galaxy S20+ 5G|y2q|SM-G9860|
 |Samsung|Galaxy S20+ 5G|y2q|SM-G986N|
 |Samsung|Galaxy S20+ 5G|y2q|SM-G986U|
@@ -21252,6 +21261,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS zero2 906SH|SG906SH|906SH|
 |Sharp|AQUOS zero2 SH-01M|SH-01M|SH-01M|
 |Sharp|AQUOS zero2 SH-M13|SH-M13|SH-M13|
+|Sharp|AQUOS zero2 SH-Z20|SH-Z20|SH-Z20|
 |Sharp|AQUOS zero2 SHV47|QDA|SHV47|
 |Sharp|AQUOS ケータイ SH-02L|SH-02L|SH-02L|
 |Sharp|AQUOS ケータイ SH-06G|SH-06G|SH-06G|

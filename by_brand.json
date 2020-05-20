@@ -37642,6 +37642,11 @@
    "model": "HLTE213T"
   },
   {
+   "device": "HLTE229E_01",
+   "name": "HLTE229E",
+   "model": "HLTE229E"
+  },
+  {
    "device": "SC9863A",
    "name": "HLTE230E",
    "model": "Hisense Infinity H40 Lite"
@@ -37695,6 +37700,11 @@
    "device": "HSSDM636QC",
    "name": "HLTE510M",
    "model": "HLTE510M"
+  },
+  {
+   "device": "HNR550T",
+   "name": "HNR550T",
+   "model": "HNR550T"
   },
   {
    "device": "HS8916QC",
@@ -38118,6 +38128,16 @@
   },
   {
    "device": "HLTE229E",
+   "name": "Hisense E40",
+   "model": "HLTE229E"
+  },
+  {
+   "device": "HLTE229E_10",
+   "name": "Hisense E40",
+   "model": "HLTE229E"
+  },
+  {
+   "device": "HLTE229E_11",
    "name": "Hisense E40",
    "model": "HLTE229E"
   },
@@ -50105,6 +50125,11 @@
    "device": "Infinix-X680",
    "name": "Infinix HOT 9 Play",
    "model": "Infinix X680"
+  },
+  {
+   "device": "Infinix-X680B",
+   "name": "Infinix HOT 9 Play",
+   "model": "Infinix X680B"
   },
   {
    "device": "Infinix-X655F",
@@ -96214,6 +96239,16 @@
    "model": "SM-A217F"
   },
   {
+   "device": "a21s",
+   "name": "Galaxy A21s",
+   "model": "SM-A217M"
+  },
+  {
+   "device": "a21s",
+   "name": "Galaxy A21s",
+   "model": "SM-A217N"
+  },
+  {
    "device": "a33g",
    "name": "Galaxy A3",
    "model": "SM-A300H"
@@ -102884,6 +102919,16 @@
    "model": "SM-G985F"
   },
   {
+   "device": "SC-52A",
+   "name": "Galaxy S20+ 5G",
+   "model": "SC-52A"
+  },
+  {
+   "device": "SCG02",
+   "name": "Galaxy S20+ 5G",
+   "model": "SCG02"
+  },
+  {
    "device": "y2q",
    "name": "Galaxy S20+ 5G",
    "model": "SM-G9860"
@@ -108832,6 +108877,11 @@
    "device": "SH-M13",
    "name": "AQUOS zero2 SH-M13",
    "model": "SH-M13"
+  },
+  {
+   "device": "SH-Z20",
+   "name": "AQUOS zero2 SH-Z20",
+   "model": "SH-Z20"
   },
   {
    "device": "QDA",

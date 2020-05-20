@@ -52089,6 +52089,28 @@
    "device": "HSSDM439QC"
   }
  ],
+ "HLTE229E": [
+  {
+   "brand": "Hisense",
+   "name": "HLTE229E",
+   "device": "HLTE229E_01"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense E40",
+   "device": "HLTE229E"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense E40",
+   "device": "HLTE229E_10"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense E40",
+   "device": "HLTE229E_11"
+  }
+ ],
  "Hisense Infinity H40 Lite": [
   {
    "brand": "Hisense",
@@ -52164,6 +52186,13 @@
    "brand": "Hisense",
    "name": "HLTE510M",
    "device": "HSSDM636QC"
+  }
+ ],
+ "HNR550T": [
+  {
+   "brand": "Hisense",
+   "name": "HNR550T",
+   "device": "HNR550T"
   }
  ],
  "HS-G610": [
@@ -52650,13 +52679,6 @@
    "brand": "Hisense",
    "name": "Hisense E MAX",
    "device": "SC9863A_RU"
-  }
- ],
- "HLTE229E": [
-  {
-   "brand": "Hisense",
-   "name": "Hisense E40",
-   "device": "HLTE229E"
   }
  ],
  "Hisense E76MINIM": [
@@ -68535,6 +68557,13 @@
    "brand": "Infinix",
    "name": "Infinix HOT 9 Play",
    "device": "Infinix-X680"
+  }
+ ],
+ "Infinix X680B": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 9 Play",
+   "device": "Infinix-X680B"
   }
  ],
  "Infinix X655F": [
@@ -128125,6 +128154,20 @@
    "device": "a21s"
   }
  ],
+ "SM-A217M": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A21s",
+   "device": "a21s"
+  }
+ ],
+ "SM-A217N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A21s",
+   "device": "a21s"
+  }
+ ],
  "SM-A300H": [
   {
    "brand": "Samsung",
@@ -137324,6 +137367,20 @@
    "device": "y2s"
   }
  ],
+ "SC-52A": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S20+ 5G",
+   "device": "SC-52A"
+  }
+ ],
+ "SCG02": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S20+ 5G",
+   "device": "SCG02"
+  }
+ ],
  "SM-G9860": [
   {
    "brand": "Samsung",
@@ -145358,6 +145415,13 @@
    "brand": "Sharp",
    "name": "AQUOS zero2 SH-M13",
    "device": "SH-M13"
+  }
+ ],
+ "SH-Z20": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS zero2 SH-Z20",
+   "device": "SH-Z20"
   }
  ],
  "SHV47": [
