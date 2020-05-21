@@ -138570,7 +138570,7 @@
    "model": "SHV45"
   }
  ],
- "AQUOS sense3 basic (907SH)": [
+ "AQUOS sense3 basic": [
   {
    "brand": "Sharp",
    "device": "SG907SH",
@@ -153525,6 +153525,11 @@
   {
    "brand": "TCT (Alcatel)",
    "device": "Hulk_7_KIDS_WIFI",
+   "model": "8052_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Hulk_7_KIDS_WIFI",
    "model": "8052_RU"
   }
  ],
@@ -166020,6 +166025,20 @@
    "brand": "Wings",
    "device": "W6",
    "model": "W6"
+  }
+ ],
+ "W7": [
+  {
+   "brand": "Wings",
+   "device": "W7",
+   "model": "W7"
+  }
+ ],
+ "WX": [
+  {
+   "brand": "Wings",
+   "device": "WX",
+   "model": "WX"
   }
  ],
  "City S": [

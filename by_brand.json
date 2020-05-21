@@ -108815,7 +108815,7 @@
   },
   {
    "device": "SG907SH",
-   "name": "AQUOS sense3 basic (907SH)",
+   "name": "AQUOS sense3 basic",
    "model": "907SH"
   },
   {
@@ -122031,6 +122031,11 @@
   {
    "device": "Hulk_7_KIDS_WIFI",
    "name": "smart tab 7",
+   "model": "8052_EEA"
+  },
+  {
+   "device": "Hulk_7_KIDS_WIFI",
+   "name": "smart tab 7",
    "model": "8052_RU"
   },
   {
@@ -132700,6 +132705,16 @@
    "device": "W6",
    "name": "W6",
    "model": "W6"
+  },
+  {
+   "device": "W7",
+   "name": "W7",
+   "model": "W7"
+  },
+  {
+   "device": "WX",
+   "name": "WX",
+   "model": "WX"
   }
  ],
  "Wink": [

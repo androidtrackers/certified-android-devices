@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-05-20
+Last sync is 2020-05-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -21248,7 +21248,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS sense3 SH-02M|SH-02M|SH-02M|
 |Sharp|AQUOS sense3 SH-M12|SH-M12|SH-M12|
 |Sharp|AQUOS sense3 SHV45|PCZ|SHV45|
-|Sharp|AQUOS sense3 basic (907SH)|SG907SH|907SH|
+|Sharp|AQUOS sense3 basic|SG907SH|907SH|
 |Sharp|AQUOS sense3 lite|SH-RM12|SH-RM12|
 |Sharp|AQUOS sense3 plus (901SH)|SG901SH|901SH|
 |Sharp|AQUOS sense3 plus SH-M11|SH-M11|SH-M11|
@@ -23853,6 +23853,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|smart tab 7|Hulk_7_GL_WIFI|8051_EEA|
 |TCT (Alcatel)|smart tab 7|Hulk_7_GL_WIFI|8051_RU|
 |TCT (Alcatel)|smart tab 7|Hulk_7_KIDS_WIFI|8052|
+|TCT (Alcatel)|smart tab 7|Hulk_7_KIDS_WIFI|8052_EEA|
 |TCT (Alcatel)|smart tab 7|Hulk_7_KIDS_WIFI|8052_RU|
 |TCT (Alcatel)|tbd|FERMI_TF|A501DL|
 |TCT (Alcatel)|tbd|Mickey6TFUMTS|A576BL|
@@ -25894,6 +25895,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Winds Mobile|WINDS-T3|WINDS-T3|T3|
 |Wings|W1|W1|W1|
 |Wings|W6|W6|W6|
+|Wings|W7|W7|W7|
+|Wings|WX|WX|WX|
 |Wink|City S|Wink_City_S|Wink_City_S|
 |Wink|Glory_SE|Wink_Glory_SE|Wink Glory SE|
 |Wink|Share SE|Wink_Share_SE|Wink_Share_SE|

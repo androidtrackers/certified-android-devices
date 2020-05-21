@@ -145329,7 +145329,7 @@
  "907SH": [
   {
    "brand": "Sharp",
-   "name": "AQUOS sense3 basic (907SH)",
+   "name": "AQUOS sense3 basic",
    "device": "SG907SH"
   }
  ],
@@ -162723,6 +162723,13 @@
    "device": "Hulk_7_KIDS_WIFI"
   }
  ],
+ "8052_EEA": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "smart tab 7",
+   "device": "Hulk_7_KIDS_WIFI"
+  }
+ ],
  "8052_RU": [
   {
    "brand": "TCT (Alcatel)",
@@ -175771,6 +175778,20 @@
    "brand": "Wings",
    "name": "W6",
    "device": "W6"
+  }
+ ],
+ "W7": [
+  {
+   "brand": "Wings",
+   "name": "W7",
+   "device": "W7"
+  }
+ ],
+ "WX": [
+  {
+   "brand": "Wings",
+   "name": "WX",
+   "device": "WX"
   }
  ],
  "Wink_City_S": [

@@ -73660,6 +73660,11 @@
   {
    "brand": "TCT (Alcatel)",
    "name": "smart tab 7",
+   "model": "8052_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "smart tab 7",
    "model": "8052_RU"
   }
  ],
@@ -140467,7 +140472,7 @@
  "SG907SH": [
   {
    "brand": "Sharp",
-   "name": "AQUOS sense3 basic (907SH)",
+   "name": "AQUOS sense3 basic",
    "model": "907SH"
   }
  ],
@@ -168640,6 +168645,20 @@
    "brand": "Wings",
    "name": "W6",
    "model": "W6"
+  }
+ ],
+ "W7": [
+  {
+   "brand": "Wings",
+   "name": "W7",
+   "model": "W7"
+  }
+ ],
+ "WX": [
+  {
+   "brand": "Wings",
+   "name": "WX",
+   "model": "WX"
   }
  ],
  "Wink_City_S": [
