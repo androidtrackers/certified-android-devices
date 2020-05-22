@@ -6718,6 +6718,13 @@
    "model": "Amigo7x"
   }
  ],
+ "Amigo7xESP": [
+  {
+   "brand": "Aminocom",
+   "name": "Amigo7xESP",
+   "model": "Amigo7xESP"
+  }
+ ],
  "Amigo7xSCB": [
   {
    "brand": "Aminocom",
@@ -39006,6 +39013,11 @@
    "brand": "Fossil",
    "name": "Fossil Sport",
    "model": "MK Go"
+  },
+  {
+   "brand": "Fossil",
+   "name": "Fossil Sport",
+   "model": "MKGO"
   },
   {
    "brand": "Fossil",
@@ -80549,6 +80561,13 @@
    "model": "L-01L"
   }
  ],
+ "L-41A": [
+  {
+   "brand": "LGE",
+   "name": "LG style3",
+   "model": "L-41A"
+  }
+ ],
  "w35": [
   {
    "brand": "LGE",
@@ -120851,6 +120870,42 @@
    "model": "Phone"
   }
  ],
+ "RMX2020": [
+  {
+   "brand": "Realme",
+   "name": "RMX2020",
+   "model": "RMX2020"
+  },
+  {
+   "brand": "Realme",
+   "name": "realme C3",
+   "model": "RMX2020"
+  }
+ ],
+ "RMX2027": [
+  {
+   "brand": "Realme",
+   "name": "RMX2027",
+   "model": "RMX2027"
+  },
+  {
+   "brand": "Realme",
+   "name": "realme C3",
+   "model": "RMX2027"
+  }
+ ],
+ "RMX2040": [
+  {
+   "brand": "Realme",
+   "name": "RMX2040",
+   "model": "RMX2040"
+  },
+  {
+   "brand": "Realme",
+   "name": "realme 6i",
+   "model": "RMX2040"
+  }
+ ],
  "RMX1801": [
   {
    "brand": "Realme",
@@ -120994,13 +121049,6 @@
    "model": "RMX2063"
   }
  ],
- "RMX2040": [
-  {
-   "brand": "Realme",
-   "name": "realme 6i",
-   "model": "RMX2040"
-  }
- ],
  "RMX2041": [
   {
    "brand": "Realme",
@@ -121022,13 +121070,6 @@
    "model": "RMX1946"
   }
  ],
- "RMX2020": [
-  {
-   "brand": "Realme",
-   "name": "realme C3",
-   "model": "RMX2020"
-  }
- ],
  "RMX2021": [
   {
    "brand": "Realme",
@@ -121041,13 +121082,6 @@
    "brand": "Realme",
    "name": "realme C3",
    "model": "RMX2022"
-  }
- ],
- "RMX2027": [
-  {
-   "brand": "Realme",
-   "name": "realme C3",
-   "model": "RMX2027"
   }
  ],
  "RMX1971CN": [
@@ -140413,6 +140447,13 @@
    "model": "SH-M07"
   }
  ],
+ "MZW-u": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense2",
+   "model": "SHV43-u"
+  }
+ ],
  "SH-M08": [
   {
    "brand": "Sharp",
@@ -140432,13 +140473,6 @@
    "brand": "Sharp",
    "name": "AQUOS sense2 SHV43",
    "model": "SHV43"
-  }
- ],
- "MZW-u": [
-  {
-   "brand": "Sharp",
-   "name": "AQUOS sense2 SHV43",
-   "model": "SHV43-u"
   }
  ],
  "PCZ-u": [
@@ -170761,6 +170795,13 @@
    "model": "YD201"
   }
  ],
+ "Amigo7xYUF": [
+  {
+   "brand": "Youfone",
+   "name": "Amigo7xYUF",
+   "model": "Amigo7xYUF"
+  }
+ ],
  "Candy_Pro": [
   {
    "brand": "Yuho",
@@ -180412,6 +180453,27 @@
    "brand": "eBox",
    "name": "Ebox",
    "model": "EboxTV"
+  }
+ ],
+ "SEI500TV": [
+  {
+   "brand": "eSTREAM 4K",
+   "name": "Pyxis",
+   "model": "Pyxis"
+  }
+ ],
+ "SEI500MC": [
+  {
+   "brand": "eSTREAM 4K",
+   "name": "Pyxis-Midco",
+   "model": "Pyxis-Midco"
+  }
+ ],
+ "SEI500RCN": [
+  {
+   "brand": "eSTREAM 4K",
+   "name": "Pyxis-RCN",
+   "model": "Pyxis-RCN"
   }
  ],
  "Ex-Handy10": [

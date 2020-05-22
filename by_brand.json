@@ -4152,6 +4152,11 @@
    "model": "Amigo7x"
   },
   {
+   "device": "Amigo7xESP",
+   "name": "Amigo7xESP",
+   "model": "Amigo7xESP"
+  },
+  {
    "device": "Amigo7xSCB",
    "name": "Amigo7xSCB",
    "model": "Amigo7xSCB"
@@ -27204,6 +27209,11 @@
    "device": "darter",
    "name": "Fossil Sport",
    "model": "MK Go"
+  },
+  {
+   "device": "darter",
+   "name": "Fossil Sport",
+   "model": "MKGO"
   },
   {
    "device": "darter",
@@ -61391,6 +61401,11 @@
    "model": "L-01L"
   },
   {
+   "device": "L-41A",
+   "name": "LG style3",
+   "model": "L-41A"
+  },
+  {
    "device": "x5",
    "name": "LG-AS876",
    "model": "AS876"
@@ -93420,6 +93435,21 @@
    "model": "AI PONT"
   },
   {
+   "device": "RMX2020",
+   "name": "RMX2020",
+   "model": "RMX2020"
+  },
+  {
+   "device": "RMX2027",
+   "name": "RMX2027",
+   "model": "RMX2027"
+  },
+  {
+   "device": "RMX2040",
+   "name": "RMX2040",
+   "model": "RMX2040"
+  },
+  {
    "device": "RMX1801",
    "name": "realme 2 Pro",
    "model": "RMX1801"
@@ -108774,6 +108804,11 @@
    "model": "SH-M07"
   },
   {
+   "device": "MZW-u",
+   "name": "AQUOS sense2",
+   "model": "SHV43-u"
+  },
+  {
    "device": "SH-M08",
    "name": "AQUOS sense2 (SH-M08)",
    "model": "SH-M08"
@@ -108787,11 +108822,6 @@
    "device": "MZW",
    "name": "AQUOS sense2 SHV43",
    "model": "SHV43"
-  },
-  {
-   "device": "MZW-u",
-   "name": "AQUOS sense2 SHV43",
-   "model": "SHV43-u"
   },
   {
    "device": "PCZ-u",
@@ -134670,6 +134700,13 @@
    "model": "YD201"
   }
  ],
+ "Youfone": [
+  {
+   "device": "Amigo7xYUF",
+   "name": "Amigo7xYUF",
+   "model": "Amigo7xYUF"
+  }
+ ],
  "Yuho": [
   {
    "device": "Candy",
@@ -143272,6 +143309,21 @@
    "device": "kunlun",
    "name": "IPA1104HDW-02",
    "model": "IPA1104HDW-02"
+  },
+  {
+   "device": "SEI500TV",
+   "name": "Pyxis",
+   "model": "Pyxis"
+  },
+  {
+   "device": "SEI500MC",
+   "name": "Pyxis-Midco",
+   "model": "Pyxis-Midco"
+  },
+  {
+   "device": "SEI500RCN",
+   "name": "Pyxis-RCN",
+   "model": "Pyxis-RCN"
   }
  ],
  "ecom": [

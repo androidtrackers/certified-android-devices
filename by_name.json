@@ -12034,6 +12034,13 @@
    "model": "Amigo7x"
   }
  ],
+ "Amigo7xESP": [
+  {
+   "brand": "Aminocom",
+   "device": "Amigo7xESP",
+   "model": "Amigo7xESP"
+  }
+ ],
  "Amigo7xSCB": [
   {
    "brand": "Aminocom",
@@ -41196,6 +41203,11 @@
    "brand": "EssentielB",
    "device": "pyxis_boulanger",
    "model": "Essentielb-Pixis"
+  },
+  {
+   "brand": "eSTREAM 4K",
+   "device": "SEI500TV",
+   "model": "Pyxis"
   }
  ],
  "ST7001 Tablet": [
@@ -44311,6 +44323,11 @@
    "brand": "Fossil",
    "device": "darter",
    "model": "MK Go"
+  },
+  {
+   "brand": "Fossil",
+   "device": "darter",
+   "model": "MKGO"
   },
   {
    "brand": "Fossil",
@@ -83493,6 +83510,13 @@
    "model": "L-01L"
   }
  ],
+ "LG style3": [
+  {
+   "brand": "LGE",
+   "device": "L-41A",
+   "model": "L-41A"
+  }
+ ],
  "LG-AS876": [
   {
    "brand": "LGE",
@@ -121536,6 +121560,27 @@
    "model": "Phone"
   }
  ],
+ "RMX2020": [
+  {
+   "brand": "Realme",
+   "device": "RMX2020",
+   "model": "RMX2020"
+  }
+ ],
+ "RMX2027": [
+  {
+   "brand": "Realme",
+   "device": "RMX2027",
+   "model": "RMX2027"
+  }
+ ],
+ "RMX2040": [
+  {
+   "brand": "Realme",
+   "device": "RMX2040",
+   "model": "RMX2040"
+  }
+ ],
  "realme 5Pro": [
   {
    "brand": "Realme",
@@ -138516,6 +138561,13 @@
    "model": "SH-M07"
   }
  ],
+ "AQUOS sense2": [
+  {
+   "brand": "Sharp",
+   "device": "MZW-u",
+   "model": "SHV43-u"
+  }
+ ],
  "AQUOS sense2 (SH-M08)": [
   {
    "brand": "Sharp",
@@ -138535,11 +138587,6 @@
    "brand": "Sharp",
    "device": "MZW",
    "model": "SHV43"
-  },
-  {
-   "brand": "Sharp",
-   "device": "MZW-u",
-   "model": "SHV43-u"
   }
  ],
  "AQUOS sense3": [
@@ -168274,6 +168321,13 @@
    "model": "YD201"
   }
  ],
+ "Amigo7xYUF": [
+  {
+   "brand": "Youfone",
+   "device": "Amigo7xYUF",
+   "model": "Amigo7xYUF"
+  }
+ ],
  "Candy_Pro": [
   {
    "brand": "Yuho",
@@ -177407,6 +177461,20 @@
    "brand": "eSTREAM 4K",
    "device": "kunlun",
    "model": "IPA1104HDW-02"
+  }
+ ],
+ "Pyxis-Midco": [
+  {
+   "brand": "eSTREAM 4K",
+   "device": "SEI500MC",
+   "model": "Pyxis-Midco"
+  }
+ ],
+ "Pyxis-RCN": [
+  {
+   "brand": "eSTREAM 4K",
+   "device": "SEI500RCN",
+   "model": "Pyxis-RCN"
   }
  ],
  "Ex-Handy 10": [

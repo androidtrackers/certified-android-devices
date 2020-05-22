@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-05-21
+Last sync is 2020-05-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -802,6 +802,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Amgoo|Amgoo|AM518|AM518|
 |Aminocom|Amigo|Amigo|Amigo7|
 |Aminocom|Amigo7x|Amigo7x|Amigo7x|
+|Aminocom|Amigo7xESP|Amigo7xESP|Amigo7xESP|
 |Aminocom|Amigo7xSCB|Amigo7xSCB|Amigo7xSCB|
 |Aminocom|Kamai 7B|Kamai7B|Kamai7B|
 |Aminocom|Kamai7|Kamai7|Kamai7|
@@ -5244,6 +5245,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fossil|Fossil Sport|darter|Fadelite|
 |Fossil|Fossil Sport|darter|Hugo|
 |Fossil|Fossil Sport|darter|MK Go|
+|Fossil|Fossil Sport|darter|MKGO|
 |Fossil|Fossil Sport|darter|PumaSmartwatch|
 |Fossil|Fossil Sport|darter|Q Sport 41|
 |Fossil|Fossil Sport|darter|Q Sport 43|
@@ -11965,6 +11967,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG optimus it L-05D|l_dcm|L-05D|
 |LGE|LG optimus it L-05E|L05E|L-05E|
 |LGE|LG style2|L-01L|L-01L|
+|LGE|LG style3|L-41A|L-41A|
 |LGE|LG-AS876|x5|AS876|
 |LGE|LG-D150|w35|LG-D150|
 |LGE|LG-D157f|w35ds|LG-D157f|
@@ -18206,6 +18209,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Razer|Razer Phone|cheryl|Phone|
 |Razer|Razer phone|cheryl_ckh|Phone|
 |Realme|India|ikebukuro|AI PONT|
+|Realme|RMX2020|RMX2020|RMX2020|
+|Realme|RMX2027|RMX2027|RMX2027|
+|Realme|RMX2040|RMX2040|RMX2040|
 |Realme|realme 2 Pro|RMX1801|RMX1801|
 |Realme|realme 3Pro|RMX1851|RMX1851|
 |Realme|realme 5|RMX1911L1|RMX1911|
@@ -21240,10 +21246,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS sense basic|SG702SH|702SH|
 |Sharp|AQUOS sense lite (SH-M05)|SH-M05|SH-M05|
 |Sharp|AQUOS sense plus (SH-M07)|SH-M07|SH-M07|
+|Sharp|AQUOS sense2|MZW-u|SHV43-u|
 |Sharp|AQUOS sense2 (SH-M08)|SH-M08|SH-M08|
 |Sharp|AQUOS sense2 SH-01L|SH-01L|SH-01L|
 |Sharp|AQUOS sense2 SHV43|MZW|SHV43|
-|Sharp|AQUOS sense2 SHV43|MZW-u|SHV43-u|
 |Sharp|AQUOS sense3|PCZ-u|SHV45-u|
 |Sharp|AQUOS sense3 SH-02M|SH-02M|SH-02M|
 |Sharp|AQUOS sense3 SH-M12|SH-M12|SH-M12|
@@ -26270,6 +26276,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Yokis|WS107_eea|WS107|WS107|
 |Yota Devices|C9660|yotaphone|C9660|
 |Yota Devices|YotaPhone2|yotaphone2|YD201|
+|Youfone|Amigo7xYUF|Amigo7xYUF|Amigo7xYUF|
 |Yuho|Candy|Candy|Candy|
 |Yuho|Candy_Pro|Candy_Pro|Candy_Pro|
 |Yuho|Netra_Lite|Netra_Lite|Netra_Lite|
@@ -27974,6 +27981,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |eBox|Ebox|diw387eb|EboxTV|
 |eSTREAM 4K|IPA-1104HDH-01|eSTREAM4K_4x4|IPA-1104HDH-01|
 |eSTREAM 4K|IPA1104HDW-02|kunlun|IPA1104HDW-02|
+|eSTREAM 4K|Pyxis|SEI500TV|Pyxis|
+|eSTREAM 4K|Pyxis-Midco|SEI500MC|Pyxis-Midco|
+|eSTREAM 4K|Pyxis-RCN|SEI500RCN|Pyxis-RCN|
 |ecom|Ex-Handy 10|Ex-Handy10|Ex-Handy 10 ROW|
 |ecom|Smart-Ex02|Smart-Ex02|Smart-Ex02 ROW|
 |efioo|efiootabn7a|efiootabn7a|Tab N7a|
