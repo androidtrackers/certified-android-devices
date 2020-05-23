@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-05-22
+Last sync is 2020-05-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2890,6 +2890,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CZ Electronics|MX16|Mint_Diamond|MX16|
 |CZ Electronics|Mint_Iris|Mint_Iris|M7L_Sapphire|
 |CZ Electronics|Mint_Jane|Mint_Jane|M5E01|
+|Cablecolor|GIU3A00|GIU3A00|GIU3A00|
 |Camelus|L10|TR-10HBT|L10|
 |Camelus|L7|TR-7U|L7|
 |Camfone|ACTION|ACTION|ACTION|
