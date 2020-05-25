@@ -21185,6 +21185,13 @@
    "device": "m811hk"
   }
  ],
+ "ST 60": [
+  {
+   "brand": "CONKER",
+   "name": "ST60",
+   "device": "ST_60"
+  }
+ ],
  "Aplus": [
   {
    "brand": "COPAN",
@@ -33968,6 +33975,18 @@
    "device": "A7H"
   }
  ],
+ "E10": [
+  {
+   "brand": "Elephone",
+   "name": "E10",
+   "device": "E10"
+  },
+  {
+   "brand": "Hisense",
+   "name": "E10",
+   "device": "HS8909QC"
+  }
+ ],
  "P11": [
   {
    "brand": "Elephone",
@@ -39220,6 +39239,13 @@
    "brand": "Fujitsu",
    "name": "F-12C",
    "device": "f11eif"
+  }
+ ],
+ "F-41A": [
+  {
+   "brand": "Fujitsu",
+   "name": "F-41A",
+   "device": "F41A"
   }
  ],
  "FARTM9334P1": [
@@ -51424,13 +51450,6 @@
   {
    "brand": "Hisense",
    "name": "D5",
-   "device": "HS8909QC"
-  }
- ],
- "E10": [
-  {
-   "brand": "Hisense",
-   "name": "E10",
    "device": "HS8909QC"
   }
  ],
@@ -68585,6 +68604,13 @@
    "brand": "Infinix",
    "name": "Infinix HOT 9 Play",
    "device": "Infinix-X680B"
+  }
+ ],
+ "Infinix X680C": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 9 Play",
+   "device": "Infinix-X680C"
   }
  ],
  "Infinix X655F": [
@@ -137341,6 +137367,13 @@
   }
  ],
  "SM-G981U1": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S20 5G",
+   "device": "x1q"
+  }
+ ],
+ "SM-G981V": [
   {
    "brand": "Samsung",
    "name": "Galaxy S20 5G",

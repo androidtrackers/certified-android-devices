@@ -14786,6 +14786,13 @@
    "model": "M811"
   }
  ],
+ "CONKER": [
+  {
+   "device": "ST_60",
+   "name": "ST60",
+   "model": "ST 60"
+  }
+ ],
  "COPAN": [
   {
    "device": "Aplus",
@@ -24253,6 +24260,11 @@
    "model": "A7H"
   },
   {
+   "device": "E10",
+   "name": "E10",
+   "model": "E10"
+  },
+  {
    "device": "S8",
    "name": "Elephone S8",
    "model": "S8"
@@ -28054,6 +28066,11 @@
    "device": "f11eif",
    "name": "F-12C",
    "model": "F-12C"
+  },
+  {
+   "device": "F41A",
+   "name": "F-41A",
+   "model": "F-41A"
   },
   {
    "device": "FARTM9334",
@@ -50147,6 +50164,11 @@
    "device": "Infinix-X680B",
    "name": "Infinix HOT 9 Play",
    "model": "Infinix X680B"
+  },
+  {
+   "device": "Infinix-X680C",
+   "name": "Infinix HOT 9 Play",
+   "model": "Infinix X680C"
   },
   {
    "device": "Infinix-X655F",
@@ -102909,6 +102931,11 @@
    "device": "x1q",
    "name": "Galaxy S20 5G",
    "model": "SM-G981U1"
+  },
+  {
+   "device": "x1q",
+   "name": "Galaxy S20 5G",
+   "model": "SM-G981V"
   },
   {
    "device": "x1q",

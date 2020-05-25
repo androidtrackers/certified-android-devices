@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-05-24
+Last sync is 2020-05-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2870,6 +2870,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CLIO|Neo 4|Neo_4|Neo 4|
 |CMCC|M811|m811|M811|
 |CMCC|M811|m811hk|M811|
+|CONKER|ST60|ST_60|ST 60|
 |COPAN|Aplus|Aplus|Aplus|
 |CORN|C5|C5|C5|
 |CORN|C55|C55|C55|
@@ -4685,6 +4686,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Elephone|A6_Max|A6_Max|A6_Max|
 |Elephone|A6_mini|A6_mini|A6_mini|
 |Elephone|A7H|A7H|A7H|
+|Elephone|E10|E10|E10|
 |Elephone|Elephone S8|S8|S8|
 |Elephone|P11|P11|P11|
 |Elephone|P8 3D|P8_3D|P8_3D|
@@ -5410,6 +5412,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fujitsu|F-09D ANTEPRIMA|F09D|F-09D|
 |Fujitsu|F-09E|F09E|F-09E|
 |Fujitsu|F-12C|f11eif|F-12C|
+|Fujitsu|F-41A|F41A|F-41A|
 |Fujitsu|FARTM9334P1|FARTM9334|FARTM9334P1|
 |Fujitsu|FARTM933KZ|FARTM933KZ|FARTM933KZ|
 |Fujitsu|FARTMB611Y|FARTMB611Y|FARTMB611Y|
@@ -9759,6 +9762,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 9|Infinix-X655D|Infinix X655D|
 |Infinix|Infinix HOT 9 Play|Infinix-X680|Infinix X680|
 |Infinix|Infinix HOT 9 Play|Infinix-X680B|Infinix X680B|
+|Infinix|Infinix HOT 9 Play|Infinix-X680C|Infinix X680C|
 |Infinix|Infinix HOT 9 Pro|Infinix-X655F|Infinix X655F|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604B|
@@ -20077,6 +20081,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S20 5G|x1q|SM-G981N|
 |Samsung|Galaxy S20 5G|x1q|SM-G981U|
 |Samsung|Galaxy S20 5G|x1q|SM-G981U1|
+|Samsung|Galaxy S20 5G|x1q|SM-G981V|
 |Samsung|Galaxy S20 5G|x1q|SM-G981W|
 |Samsung|Galaxy S20 5G|x1s|SM-G981B|
 |Samsung|Galaxy S20 Ultra 5G|z3q|SM-G9880|

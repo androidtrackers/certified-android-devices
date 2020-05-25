@@ -27233,6 +27233,13 @@
    "model": "M811"
   }
  ],
+ "ST60": [
+  {
+   "brand": "CONKER",
+   "device": "ST_60",
+   "model": "ST 60"
+  }
+ ],
  "Aplus": [
   {
    "brand": "COPAN",
@@ -40161,6 +40168,18 @@
    "model": "A7H"
   }
  ],
+ "E10": [
+  {
+   "brand": "Elephone",
+   "device": "E10",
+   "model": "E10"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HS8909QC",
+   "model": "E10"
+  }
+ ],
  "Elephone S8": [
   {
    "brand": "Elephone",
@@ -45223,6 +45242,13 @@
    "brand": "Fujitsu",
    "device": "f11eif",
    "model": "F-12C"
+  }
+ ],
+ "F-41A": [
+  {
+   "brand": "Fujitsu",
+   "device": "F41A",
+   "model": "F-41A"
   }
  ],
  "FARTM9334P1": [
@@ -56418,13 +56444,6 @@
    "brand": "Hisense",
    "device": "HS6735MT",
    "model": "D2-M"
-  }
- ],
- "E10": [
-  {
-   "brand": "Hisense",
-   "device": "HS8909QC",
-   "model": "E10"
   }
  ],
  "E100T": [
@@ -70577,6 +70596,11 @@
    "brand": "Infinix",
    "device": "Infinix-X680B",
    "model": "Infinix X680B"
+  },
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X680C",
+   "model": "Infinix X680C"
   }
  ],
  "Infinix HOT 9 Pro": [
@@ -131921,6 +131945,11 @@
    "brand": "Samsung",
    "device": "x1q",
    "model": "SM-G981U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "x1q",
+   "model": "SM-G981V"
   },
   {
    "brand": "Samsung",

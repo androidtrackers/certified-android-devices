@@ -21499,6 +21499,13 @@
    "model": "M811"
   }
  ],
+ "ST_60": [
+  {
+   "brand": "CONKER",
+   "name": "ST60",
+   "model": "ST 60"
+  }
+ ],
  "Aplus": [
   {
    "brand": "COPAN",
@@ -34844,6 +34851,13 @@
    "model": "A7H"
   }
  ],
+ "E10": [
+  {
+   "brand": "Elephone",
+   "name": "E10",
+   "model": "E10"
+  }
+ ],
  "P11": [
   {
    "brand": "Elephone",
@@ -40062,6 +40076,13 @@
    "brand": "Fujitsu",
    "name": "F-12C",
    "model": "F-12C"
+  }
+ ],
+ "F41A": [
+  {
+   "brand": "Fujitsu",
+   "name": "F-41A",
+   "model": "F-41A"
   }
  ],
  "FARTM9334": [
@@ -66405,6 +66426,13 @@
    "brand": "Infinix",
    "name": "Infinix HOT 9 Play",
    "model": "Infinix X680B"
+  }
+ ],
+ "Infinix-X680C": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 9 Play",
+   "model": "Infinix X680C"
   }
  ],
  "Infinix-X655F": [
@@ -132857,6 +132885,11 @@
    "brand": "Samsung",
    "name": "Galaxy S20 5G",
    "model": "SM-G981U1"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S20 5G",
+   "model": "SM-G981V"
   },
   {
    "brand": "Samsung",
