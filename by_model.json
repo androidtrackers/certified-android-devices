@@ -4033,6 +4033,16 @@
    "device": "samseong"
   },
   {
+   "brand": "Aiwa",
+   "name": "Philippines",
+   "device": "sindorim"
+  },
+  {
+   "brand": "Alpha",
+   "name": "Serbia",
+   "device": "samseong"
+  },
+  {
    "brand": "BenQ",
    "name": "China Taiwan",
    "device": "ikebukuro"
@@ -4051,6 +4061,11 @@
    "brand": "Changhong",
    "name": "AP(Indonesia etc.)/MENA",
    "device": "samseong"
+  },
+  {
+   "brand": "Changhong",
+   "name": "SA",
+   "device": "sindorim"
   },
   {
    "brand": "Classpro",
@@ -4096,6 +4111,16 @@
    "brand": "JVC",
    "name": "Central America",
    "device": "samseong"
+  },
+  {
+   "brand": "JVC",
+   "name": "Panama",
+   "device": "sindorim"
+  },
+  {
+   "brand": "Kogan",
+   "name": "Australia",
+   "device": "ikebukuro"
   },
   {
    "brand": "Kogan",
@@ -49754,6 +49779,13 @@
    "brand": "Haier",
    "name": "NEO8-1",
    "device": "NEO8-1"
+  }
+ ],
+ "haierATVuguisudani": [
+  {
+   "brand": "Haier",
+   "name": "North America",
+   "device": "uguisudani"
   }
  ],
  "Central America\"": [
@@ -114986,6 +115018,18 @@
    "device": "Altus4K43"
   }
  ],
+ "PANASONIC TV": [
+  {
+   "brand": "Panasonic",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "TCL",
+   "name": "Percee TV",
+   "device": "tcl_eu"
+  }
+ ],
  "PanasonicTV": [
   {
    "brand": "Panasonic",
@@ -124839,6 +124883,27 @@
    "brand": "Realme",
    "name": "realme X50 Pro",
    "device": "RMX2076L1"
+  }
+ ],
+ "RMX2141": [
+  {
+   "brand": "Realme",
+   "name": "realme X50m 5G",
+   "device": "RMX2141CN"
+  }
+ ],
+ "RMX2142": [
+  {
+   "brand": "Realme",
+   "name": "realme X50m 5G",
+   "device": "RMX2142CN"
+  }
+ ],
+ "RMX2052": [
+  {
+   "brand": "Realme",
+   "name": "realme X50t 5G",
+   "device": "RMX2052CN"
   }
  ],
  "RMX1921": [
@@ -144080,6 +144145,20 @@
    "device": "ST5000"
   }
  ],
+ "Seiki Android TV": [
+  {
+   "brand": "Seiki",
+   "name": "North America",
+   "device": "hongik"
+  }
+ ],
+ "Seiki Android TV 2K": [
+  {
+   "brand": "Seiki",
+   "name": "North America",
+   "device": "uguisudani"
+  }
+ ],
  "T856G": [
   {
    "brand": "Selectron",
@@ -154129,13 +154208,6 @@
    "device": "tcl_eu"
   }
  ],
- "PANASONIC TV": [
-  {
-   "brand": "TCL",
-   "name": "Percee TV",
-   "device": "tcl_eu"
-  }
- ],
  "Percee TV": [
   {
    "brand": "TCL",
@@ -162675,6 +162747,13 @@
    "device": "Edison"
   }
  ],
+ "9032X_EEA": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "alcatel 3T8",
+   "device": "Apollo_8_4G"
+  }
+ ],
  "5012D": [
   {
    "brand": "TCT (Alcatel)",
@@ -168277,6 +168356,13 @@
    "device": "Atom_XL"
   }
  ],
+ "Unionaire Android TV 2K": [
+  {
+   "brand": "Unionaire",
+   "name": "Africa",
+   "device": "nippori"
+  }
+ ],
  "UT10": [
   {
    "brand": "Unistrong",
@@ -171471,6 +171557,13 @@
    "brand": "Vivo",
    "name": "V1981A",
    "device": "PD1981"
+  }
+ ],
+ "V1990A": [
+  {
+   "brand": "Vivo",
+   "name": "V1990A",
+   "device": "PD1990"
   }
  ],
  "vivo Y37": [
@@ -188944,6 +189037,13 @@
    "brand": "Zuum",
    "name": "STELLAR Z",
    "device": "STELLAR_Z"
+  }
+ ],
+ "Stellar Max": [
+  {
+   "brand": "Zuum",
+   "name": "Stellar Max",
+   "device": "Stellar_Max"
   }
  ],
  "ULTRA Z": [

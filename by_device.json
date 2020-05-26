@@ -3001,6 +3001,11 @@
    "model": "ATV R1"
   },
   {
+   "brand": "Panasonic",
+   "name": "Android TV",
+   "model": "PANASONIC TV"
+  },
+  {
    "brand": "Thomson",
    "name": "Android TV",
    "model": "ATV R1"
@@ -4174,6 +4179,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "Kogan",
+   "name": "Australia",
+   "model": "AI PONT"
+  },
+  {
    "brand": "Micromax",
    "name": "India",
    "model": "AI PONT"
@@ -4208,6 +4218,11 @@
   {
    "brand": "Aiwa",
    "name": "ASIA MIDDLE EAST  AFRICA  EU",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Alpha",
+   "name": "Serbia",
    "model": "AI PONT"
   },
   {
@@ -4367,6 +4382,33 @@
    "brand": "Aiwa",
    "name": "Aiwa",
    "model": "KSTB6043"
+  }
+ ],
+ "sindorim": [
+  {
+   "brand": "Aiwa",
+   "name": "Philippines",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Changhong",
+   "name": "SA",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "JVC",
+   "name": "Panama",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Philco",
+   "name": "Brazil",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "THEHAM",
+   "name": "Korea",
+   "model": "AI PONT"
   }
  ],
  "AIWA_Z9": [
@@ -7461,6 +7503,11 @@
    "brand": "S Vision",
    "name": "Australia",
    "model": "Svision Android TV 2K"
+  },
+  {
+   "brand": "Unionaire",
+   "name": "Africa",
+   "model": "Unionaire Android TV 2K"
   }
  ],
  "S1_Jazz": [
@@ -49971,6 +50018,18 @@
    "brand": "Haier",
    "name": "NEO8-1",
    "model": "NEO8-1"
+  }
+ ],
+ "uguisudani": [
+  {
+   "brand": "Haier",
+   "name": "North America",
+   "model": "haierATVuguisudani"
+  },
+  {
+   "brand": "Seiki",
+   "name": "North America",
+   "model": "Seiki Android TV 2K"
   }
  ],
  "Mexico": [
@@ -113724,18 +113783,6 @@
    "model": "PR7RKTNF"
   }
  ],
- "sindorim": [
-  {
-   "brand": "Philco",
-   "name": "Brazil",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "THEHAM",
-   "name": "Korea",
-   "model": "AI PONT"
-  }
- ],
  "PCS01": [
   {
    "brand": "Philco",
@@ -121187,6 +121234,27 @@
    "brand": "Realme",
    "name": "realme X50 Pro",
    "model": "RMX2076"
+  }
+ ],
+ "RMX2141CN": [
+  {
+   "brand": "Realme",
+   "name": "realme X50m 5G",
+   "model": "RMX2141"
+  }
+ ],
+ "RMX2142CN": [
+  {
+   "brand": "Realme",
+   "name": "realme X50m 5G",
+   "model": "RMX2142"
+  }
+ ],
+ "RMX2052CN": [
+  {
+   "brand": "Realme",
+   "name": "realme X50t 5G",
+   "model": "RMX2052"
   }
  ],
  "RMX1921": [
@@ -139203,6 +139271,13 @@
    "model": "ST5000"
   }
  ],
+ "hongik": [
+  {
+   "brand": "Seiki",
+   "name": "North America",
+   "model": "Seiki Android TV"
+  }
+ ],
  "T856G": [
   {
    "brand": "Selectron",
@@ -155896,6 +155971,13 @@
    "model": "5008Y_RU"
   }
  ],
+ "Apollo_8_4G": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "alcatel 3T8",
+   "model": "9032X_EEA"
+  }
+ ],
  "one_touch_D920": [
   {
    "brand": "TCT (Alcatel)",
@@ -164275,6 +164357,13 @@
    "brand": "Vivo",
    "name": "V1981A",
    "model": "V1981A"
+  }
+ ],
+ "PD1990": [
+  {
+   "brand": "Vivo",
+   "name": "V1990A",
+   "model": "V1990A"
   }
  ],
  "Y37": [
@@ -180078,6 +180167,13 @@
    "brand": "Zuum",
    "name": "STELLAR Z",
    "model": "STELLAR Z"
+  }
+ ],
+ "Stellar_Max": [
+  {
+   "brand": "Zuum",
+   "name": "Stellar Max",
+   "model": "Stellar Max"
   }
  ],
  "Ultra_Z": [

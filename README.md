@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-05-25
+Last sync is 2020-05-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -509,6 +509,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiwa|AWM599|AWM599|AWM599|
 |Aiwa|AWM999|AWM999|AWM999|
 |Aiwa|Aiwa|KSTB6043|KSTB6043|
+|Aiwa|Philippines|sindorim|AI PONT|
 |Aiwa|Z9|AIWA_Z9|Z9|
 |Aiwa|Z9 PLUS|AIWA_Z9_PLUS|Z9 PLUS|
 |Akai|FZ101|FZ101|FZ101|
@@ -751,6 +752,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Allfine|M721|86S|M721|
 |Allfine|PC1038Q|fine10_Joy|PC1038Q|
 |Allouette|PSY7020SKD|PSY7020SKD|PSY7020SKD|
+|Alpha|Serbia|samseong|AI PONT|
 |Alphascan|SAT2242 WorkTab|ADP_WW|G2SMNT|
 |Altice|ALTICE S43|S43|ALTICE_S43|
 |Altice|ALTICE S43|S43|S43|
@@ -3084,6 +3086,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Changhong|AP(Indonesia etc.)/MENA|samseong|CHiQ AI Center|
 |Changhong|GIU6060|GIU6060|GIU6060|
 |Changhong|GIU6860|GIU6860|GIU6860|
+|Changhong|SA|sindorim|AI PONT|
 |Channel Master|Stream+|dwt765cha|CM-7600|
 |Chemist Warehouse|JR-MB603|JR_MB603|JR_MB603|
 |Chenrui|M40|M40|M40|
@@ -6949,6 +6952,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|NEO7-1|NEO7-1|NEO7-1|
 |Haier|NEO7-2|NEO7-2|NEO7-2|
 |Haier|NEO8-1|NEO8-1|NEO8-1|
+|Haier|North America|uguisudani|haierATVuguisudani|
 |Haier|"North America|Mexico|Central America"|
 |Haier|P2|P2|P2|
 |Haier|PA|nippori|Haitech Android TV 2K|
@@ -10394,6 +10398,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|JVC|seocho|JVC 4K Android TV|
 |JVC|JVC J20|Cunda|J20|
 |JVC|LT-32K397|osaki|2K AI Smart TV|
+|JVC|Panama|sindorim|AI PONT|
 |JVL (Australia)|JVL070TAB812BLK|JVL070TAB812BLK|JVL070TAB812BLK|
 |JVL (Australia)|JVL101TAB811BLK|JVL101TAB811BLK|JVL101TAB811BLK|
 |JabrBox|H460|H460|H460|
@@ -10785,6 +10790,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kodak|Smartway_T1|Smartway_T1|Smartway_T1|
 |Kogan|Agora 6 Plus|Kogan_Agora_6Plus|Kogan Agora 6Plus|
 |Kogan|Australia|hanyang|Kogan SmarterTV|
+|Kogan|Australia|ikebukuro|AI PONT|
 |Kogan|Australia|nippori|Kogan SmarterTV 2K|
 |Kogan|Australia|samseong|AI PONT|
 |Kogan|Australia|shibuya|KoganTVAP|
@@ -16762,6 +16768,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|Altus 32|Altus32|Altus 32|
 |Panasonic|Altus 4K 24|Altus4K24|Qualcomm elite|
 |Panasonic|Altus4K43|Altus4K43|Qualcomm elite|
+|Panasonic|Android TV|R1|PANASONIC TV|
 |Panasonic|Asia|globe_ap|PanasonicTV|
 |Panasonic|Boukenkun-reciever|VW_RCBKK1|VW_RCBKK1|
 |Panasonic|EB-4063-X|EB-4063-X|EB-4063-X|
@@ -18256,6 +18263,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme X50 Pro|RMX2071CN|RMX2071|
 |Realme|realme X50 Pro|RMX2075L1|RMX2075|
 |Realme|realme X50 Pro|RMX2076L1|RMX2076|
+|Realme|realme X50m 5G|RMX2141CN|RMX2141|
+|Realme|realme X50m 5G|RMX2142CN|RMX2142|
+|Realme|realme X50t 5G|RMX2052CN|RMX2052|
 |Realme|realme XT|RMX1921|RMX1921|
 |Realme|realme XT|RMX1921L1|RMX1921|
 |Realme|realme XT|RMX1922|RMX1922|
@@ -21069,6 +21079,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Seeken|SG3|Seeken_SG3|SG3|
 |Seeken|ST-107|ST-107|ST-107|
 |Seemahale Telecoms|ST5000|ST5000|ST5000|
+|Seiki|North America|hongik|Seiki Android TV|
+|Seiki|North America|uguisudani|Seiki Android TV 2K|
 |Selectron|T856G|T856G|T856G|
 |Selfix|SELFIX_ES732_EXPERIUS|EXPERIUS|SELFIX_ES732_EXPERIUS|
 |Selfix|X7|X7|X7|
@@ -23846,6 +23858,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|alcatel 1X|Edison|5008Y|
 |TCT (Alcatel)|alcatel 1X|Edison|5008Y_EEA|
 |TCT (Alcatel)|alcatel 1X|Edison|5008Y_RU|
+|TCT (Alcatel)|alcatel 3T8|Apollo_8_4G|9032X_EEA|
 |TCT (Alcatel)|alcatel PIXI 4 (5.5)|PIXI4_55_3G|5012D|
 |TCT (Alcatel)|alcatel PIXI 4 (5.5)|PIXI4_55_3G|5012F|
 |TCT (Alcatel)|alcatel PIXI 4 (5.5)|PIXI4_55_3G|5012G|
@@ -24722,6 +24735,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unihertz|Atom_L|Atom_L|Atom_L|
 |Unihertz|Atom_XL|Atom_XL|Atom_XL|
 |Unihertz|Titan|Titan|Titan|
+|Unionaire|Africa|nippori|Unionaire Android TV 2K|
 |Unistrong|UT10|UT10|UT10|
 |Unistrong|UT12|UT12|UT12|
 |Unistrong|UT30|UT30|UT30|
@@ -25212,6 +25226,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V1963A|PD1963|V1963A|
 |Vivo|V1965A|PD1965|V1965A|
 |Vivo|V1981A|PD1981|V1981A|
+|Vivo|V1990A|PD1990|V1990A|
 |Vivo|V1Max|Y37|vivo Y37|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
@@ -27912,6 +27927,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zuum|STELLAR PLUS|STELLAR_PLUS|STELLAR PLUS|
 |Zuum|STELLAR PRO|STELLAR_PRO|STELLAR PRO|
 |Zuum|STELLAR Z|STELLAR_Z|STELLAR Z|
+|Zuum|Stellar Max|Stellar_Max|Stellar Max|
 |Zuum|ULTRA Z|Ultra_Z|ULTRA Z|
 |Zuum|ZUUM AKUS|AKUS|AKUS|
 |Zuum|ZUUM GRANT|GRANT|GRANT|

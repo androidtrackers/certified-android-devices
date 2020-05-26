@@ -8479,6 +8479,11 @@
    "model": "ATV R2"
   },
   {
+   "brand": "Panasonic",
+   "device": "R1",
+   "model": "PANASONIC TV"
+  },
+  {
    "brand": "Thomson",
    "device": "R1",
    "model": "ATV R1"
@@ -9901,6 +9906,13 @@
    "brand": "Aiwa",
    "device": "KSTB6043",
    "model": "KSTB6043"
+  }
+ ],
+ "Philippines": [
+  {
+   "brand": "Aiwa",
+   "device": "sindorim",
+   "model": "AI PONT"
   }
  ],
  "Z9": [
@@ -11606,6 +11618,13 @@
    "brand": "Allouette",
    "device": "PSY7020SKD",
    "model": "PSY7020SKD"
+  }
+ ],
+ "Serbia": [
+  {
+   "brand": "Alpha",
+   "device": "samseong",
+   "model": "AI PONT"
   }
  ],
  "SAT2242 WorkTab": [
@@ -21620,6 +21639,11 @@
   },
   {
    "brand": "Kogan",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Kogan",
    "device": "nippori",
    "model": "Kogan SmarterTV 2K"
   },
@@ -28809,6 +28833,13 @@
    "brand": "Changhong",
    "device": "GIU6860",
    "model": "GIU6860"
+  }
+ ],
+ "SA": [
+  {
+   "brand": "Changhong",
+   "device": "sindorim",
+   "model": "AI PONT"
   }
  ],
  "Stream+": [
@@ -55111,6 +55142,38 @@
    "model": "NEO8-1"
   }
  ],
+ "North America": [
+  {
+   "brand": "Haier",
+   "device": "uguisudani",
+   "model": "haierATVuguisudani"
+  },
+  {
+   "brand": "Seiki",
+   "device": "hongik",
+   "model": "Seiki Android TV"
+  },
+  {
+   "brand": "Seiki",
+   "device": "uguisudani",
+   "model": "Seiki Android TV 2K"
+  },
+  {
+   "brand": "Skyworth",
+   "device": "SW3_ATV",
+   "model": "SWTV"
+  },
+  {
+   "brand": "Skyworth",
+   "device": "globe_na",
+   "model": "globe"
+  },
+  {
+   "brand": "Skyworth",
+   "device": "shimbashi",
+   "model": "2K TV"
+  }
+ ],
  "\"North America": [
   {
    "brand": "Haier",
@@ -74668,6 +74731,13 @@
    "brand": "JVC",
    "device": "osaki",
    "model": "2K AI Smart TV"
+  }
+ ],
+ "Panama": [
+  {
+   "brand": "JVC",
+   "device": "sindorim",
+   "model": "AI PONT"
   }
  ],
  "JVL070TAB812BLK": [
@@ -121786,6 +121856,25 @@
    "model": "RMX2076"
   }
  ],
+ "realme X50m 5G": [
+  {
+   "brand": "Realme",
+   "device": "RMX2141CN",
+   "model": "RMX2141"
+  },
+  {
+   "brand": "Realme",
+   "device": "RMX2142CN",
+   "model": "RMX2142"
+  }
+ ],
+ "realme X50t 5G": [
+  {
+   "brand": "Realme",
+   "device": "RMX2052CN",
+   "model": "RMX2052"
+  }
+ ],
  "realme XT": [
   {
    "brand": "Realme",
@@ -140999,23 +141088,6 @@
    "model": "METZ 2K TV"
   }
  ],
- "North America": [
-  {
-   "brand": "Skyworth",
-   "device": "SW3_ATV",
-   "model": "SWTV"
-  },
-  {
-   "brand": "Skyworth",
-   "device": "globe_na",
-   "model": "globe"
-  },
-  {
-   "brand": "Skyworth",
-   "device": "shimbashi",
-   "model": "2K TV"
-  }
- ],
  "Skyworth": [
   {
    "brand": "Skyworth",
@@ -153493,6 +153565,13 @@
    "model": "5008Y_RU"
   }
  ],
+ "alcatel 3T8": [
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Apollo_8_4G",
+   "model": "9032X_EEA"
+  }
+ ],
  "alcatel PIXI 4 (5.5)": [
   {
    "brand": "TCT (Alcatel)",
@@ -158771,6 +158850,13 @@
    "model": "Atom_XL"
   }
  ],
+ "Africa": [
+  {
+   "brand": "Unionaire",
+   "device": "nippori",
+   "model": "Unionaire Android TV 2K"
+  }
+ ],
  "UT10": [
   {
    "brand": "Unistrong",
@@ -161814,6 +161900,13 @@
    "brand": "Vivo",
    "device": "PD1981",
    "model": "V1981A"
+  }
+ ],
+ "V1990A": [
+  {
+   "brand": "Vivo",
+   "device": "PD1990",
+   "model": "V1990A"
   }
  ],
  "V1Max": [
@@ -177014,6 +177107,13 @@
    "brand": "Zuum",
    "device": "STELLAR_Z",
    "model": "STELLAR Z"
+  }
+ ],
+ "Stellar Max": [
+  {
+   "brand": "Zuum",
+   "device": "Stellar_Max",
+   "model": "Stellar Max"
   }
  ],
  "ULTRA Z": [

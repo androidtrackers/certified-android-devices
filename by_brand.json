@@ -2643,6 +2643,11 @@
    "model": "KSTB6043"
   },
   {
+   "device": "sindorim",
+   "name": "Philippines",
+   "model": "AI PONT"
+  },
+  {
    "device": "AIWA_Z9",
    "name": "Z9",
    "model": "Z9"
@@ -3883,6 +3888,13 @@
    "device": "PSY7020SKD",
    "name": "PSY7020SKD",
    "model": "PSY7020SKD"
+  }
+ ],
+ "Alpha": [
+  {
+   "device": "samseong",
+   "name": "Serbia",
+   "model": "AI PONT"
   }
  ],
  "Alphascan": [
@@ -15928,6 +15940,11 @@
    "device": "GIU6860",
    "name": "GIU6860",
    "model": "GIU6860"
+  },
+  {
+   "device": "sindorim",
+   "name": "SA",
+   "model": "AI PONT"
   }
  ],
  "Channel Master": [
@@ -35933,6 +35950,11 @@
    "model": "NEO8-1"
   },
   {
+   "device": "uguisudani",
+   "name": "North America",
+   "model": "haierATVuguisudani"
+  },
+  {
    "device": "Mexico",
    "name": "\"North America",
    "model": "Central America\""
@@ -53380,6 +53402,11 @@
    "device": "osaki",
    "name": "LT-32K397",
    "model": "2K AI Smart TV"
+  },
+  {
+   "device": "sindorim",
+   "name": "Panama",
+   "model": "AI PONT"
   }
  ],
  "JVL (Australia)": [
@@ -55459,6 +55486,11 @@
    "device": "hanyang",
    "name": "Australia",
    "model": "Kogan SmarterTV"
+  },
+  {
+   "device": "ikebukuro",
+   "name": "Australia",
+   "model": "AI PONT"
   },
   {
    "device": "nippori",
@@ -86026,6 +86058,11 @@
    "model": "Qualcomm elite"
   },
   {
+   "device": "R1",
+   "name": "Android TV",
+   "model": "PANASONIC TV"
+  },
+  {
    "device": "globe_ap",
    "name": "Asia",
    "model": "PanasonicTV"
@@ -93672,6 +93709,21 @@
    "device": "RMX2076L1",
    "name": "realme X50 Pro",
    "model": "RMX2076"
+  },
+  {
+   "device": "RMX2141CN",
+   "name": "realme X50m 5G",
+   "model": "RMX2141"
+  },
+  {
+   "device": "RMX2142CN",
+   "name": "realme X50m 5G",
+   "model": "RMX2142"
+  },
+  {
+   "device": "RMX2052CN",
+   "name": "realme X50t 5G",
+   "model": "RMX2052"
   },
   {
    "device": "RMX1921",
@@ -107907,6 +107959,18 @@
    "model": "ST5000"
   }
  ],
+ "Seiki": [
+  {
+   "device": "hongik",
+   "name": "North America",
+   "model": "Seiki Android TV"
+  },
+  {
+   "device": "uguisudani",
+   "name": "North America",
+   "model": "Seiki Android TV 2K"
+  }
+ ],
  "Selectron": [
   {
    "device": "T856G",
@@ -121998,6 +122062,11 @@
    "model": "5008Y_RU"
   },
   {
+   "device": "Apollo_8_4G",
+   "name": "alcatel 3T8",
+   "model": "9032X_EEA"
+  },
+  {
    "device": "PIXI4_55_3G",
    "name": "alcatel PIXI 4 (5.5)",
    "model": "5012D"
@@ -126634,6 +126703,13 @@
    "model": "Titan"
   }
  ],
+ "Unionaire": [
+  {
+   "device": "nippori",
+   "name": "Africa",
+   "model": "Unionaire Android TV 2K"
+  }
+ ],
  "Unistrong": [
   {
    "device": "UT10",
@@ -129202,6 +129278,11 @@
    "device": "PD1981",
    "name": "V1981A",
    "model": "V1981A"
+  },
+  {
+   "device": "PD1990",
+   "name": "V1990A",
+   "model": "V1990A"
   },
   {
    "device": "Y37",
@@ -142942,6 +143023,11 @@
    "device": "STELLAR_Z",
    "name": "STELLAR Z",
    "model": "STELLAR Z"
+  },
+  {
+   "device": "Stellar_Max",
+   "name": "Stellar Max",
+   "model": "Stellar Max"
   },
   {
    "device": "Ultra_Z",
