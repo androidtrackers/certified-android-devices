@@ -64918,6 +64918,20 @@
    "model": "Eternity_G25"
   }
  ],
+ "HT4P7128LB": [
+  {
+   "brand": "Hyundai",
+   "name": "Eternity_P7",
+   "model": "Eternity_P7"
+  }
+ ],
+ "HT4P764LB": [
+  {
+   "brand": "Hyundai",
+   "name": "Eternity_P7",
+   "model": "Eternity_P7"
+  }
+ ],
  "HDT-7433H": [
   {
    "brand": "Hyundai",
@@ -65009,6 +65023,20 @@
    "model": "Hyundai_Eternity_G50"
   }
  ],
+ "HT1G50KFBK": [
+  {
+   "brand": "Hyundai",
+   "name": "Hyundai_Eternity_G50W",
+   "model": "Hyundai_Eternity_G50W"
+  }
+ ],
+ "HT2G57L": [
+  {
+   "brand": "Hyundai",
+   "name": "Hyundai_Eternity_G57",
+   "model": "Hyundai_Eternity_G57L"
+  }
+ ],
  "HT3G60L": [
   {
    "brand": "Hyundai",
@@ -65037,6 +65065,13 @@
    "model": "Koral_10X2"
   }
  ],
+ "Koral_10X3": [
+  {
+   "brand": "Hyundai",
+   "name": "Koral_10X3",
+   "model": "HT1002W32"
+  }
+ ],
  "Koral_10XL": [
   {
    "brand": "Hyundai",
@@ -65049,6 +65084,13 @@
    "brand": "Hyundai",
    "name": "Koral_10XL_Plus",
    "model": "HT1002LI32"
+  }
+ ],
+ "Koral_7W4X": [
+  {
+   "brand": "Hyundai",
+   "name": "Koral_7W4X",
+   "model": "HT0701W16"
   }
  ],
  "Koral_7XL": [
@@ -82479,6 +82521,13 @@
    "brand": "LP (TN)",
    "name": "N-57",
    "model": "N-57"
+  }
+ ],
+ "Vyper_PRO": [
+  {
+   "brand": "LP (TN)",
+   "name": "VYPER PRO",
+   "model": "Vyper PRO"
   }
  ],
  "K100": [
@@ -108800,6 +108849,11 @@
    "brand": "Oppo",
    "name": "Find X2 Pro",
    "model": "CPH2025"
+  },
+  {
+   "brand": "Oppo",
+   "name": "Find X2 Pro",
+   "model": "OPG01"
   }
  ],
  "OP4A7A": [
@@ -149249,6 +149303,13 @@
    "model": "i65"
   }
  ],
+ "i66": [
+  {
+   "brand": "Symphony",
+   "name": "i66",
+   "model": "i66"
+  }
+ ],
  "i68": [
   {
    "brand": "Symphony",
@@ -163648,6 +163709,13 @@
    "brand": "Victurio",
    "name": "VI87",
    "model": "VI87"
+  }
+ ],
+ "EGO_plus": [
+  {
+   "brand": "Vida",
+   "name": "EGO_plus",
+   "model": "EGO plus"
   }
  ],
  "GINI_D9": [

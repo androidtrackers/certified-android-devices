@@ -48908,6 +48908,16 @@
    "model": "Eternity_G25"
   },
   {
+   "device": "HT4P7128LB",
+   "name": "Eternity_P7",
+   "model": "Eternity_P7"
+  },
+  {
+   "device": "HT4P764LB",
+   "name": "Eternity_P7",
+   "model": "Eternity_P7"
+  },
+  {
    "device": "HDT-7433H",
    "name": "HDT-7433H",
    "model": "HDT-7433H"
@@ -48983,6 +48993,16 @@
    "model": "Hyundai_Eternity_G50"
   },
   {
+   "device": "HT1G50KFBK",
+   "name": "Hyundai_Eternity_G50W",
+   "model": "Hyundai_Eternity_G50W"
+  },
+  {
+   "device": "HT2G57L",
+   "name": "Hyundai_Eternity_G57",
+   "model": "Hyundai_Eternity_G57L"
+  },
+  {
    "device": "HT3G60L",
    "name": "Hyundai_Eternity_G60",
    "model": "Hyundai_Eternity_G60"
@@ -49008,6 +49028,11 @@
    "model": "Koral_10X2"
   },
   {
+   "device": "Koral_10X3",
+   "name": "Koral_10X3",
+   "model": "HT1002W32"
+  },
+  {
    "device": "Koral_10XL",
    "name": "Koral_10XL",
    "model": "HT1004LI16"
@@ -49016,6 +49041,11 @@
    "device": "Koral_10XL_Plus",
    "name": "Koral_10XL_Plus",
    "model": "HT1002LI32"
+  },
+  {
+   "device": "Koral_7W4X",
+   "name": "Koral_7W4X",
+   "model": "HT0701W16"
   },
   {
    "device": "Koral_7XL",
@@ -63256,6 +63286,11 @@
    "device": "LP_N_57",
    "name": "N-57",
    "model": "N-57"
+  },
+  {
+   "device": "Vyper_PRO",
+   "name": "VYPER PRO",
+   "model": "Vyper PRO"
   }
  ],
  "LT Electronics": [
@@ -83955,6 +83990,11 @@
    "device": "OP4BA2L1",
    "name": "Find X2 Pro",
    "model": "CPH2025"
+  },
+  {
+   "device": "OP4BA2L1",
+   "name": "Find X2 Pro",
+   "model": "OPG01"
   },
   {
    "device": "OP4A7A",
@@ -115717,6 +115757,11 @@
    "model": "i65"
   },
   {
+   "device": "i66",
+   "name": "i66",
+   "model": "i66"
+  },
+  {
    "device": "i68",
    "name": "i68",
    "model": "i68"
@@ -128722,6 +128767,11 @@
   }
  ],
  "Vida": [
+  {
+   "device": "EGO_plus",
+   "name": "EGO_plus",
+   "model": "EGO plus"
+  },
   {
    "device": "GINI_D9",
    "name": "GINI_D9",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-05-27
+Last sync is 2020-05-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9526,6 +9526,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|Eternity W42|W25042L|W25042L|
 |Hyundai|Eternity W44|W25544L|W25544L|
 |Hyundai|Eternity_G25|Eternity_G25|Eternity_G25|
+|Hyundai|Eternity_P7|HT4P7128LB|Eternity_P7|
+|Hyundai|Eternity_P7|HT4P764LB|Eternity_P7|
 |Hyundai|HDT-7433H|HDT-7433H|HDT-7433H|
 |Hyundai|HDT-7433X|HDT-7433X|HDT-7433X|
 |Hyundai|HT0702W08|HT0702W08|HT0702W08|
@@ -9541,13 +9543,17 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|Hyundai Koral_7M4|HT0704K08|HT0704K08|
 |Hyundai|Hyundai Koral_7XL|HT0701L16|HT0701L16|
 |Hyundai|Hyundai_Eternity_G50|HT1G50K|Hyundai_Eternity_G50|
+|Hyundai|Hyundai_Eternity_G50W|HT1G50KFBK|Hyundai_Eternity_G50W|
+|Hyundai|Hyundai_Eternity_G57|HT2G57L|Hyundai_Eternity_G57L|
 |Hyundai|Hyundai_Eternity_G60|HT3G60L|Hyundai_Eternity_G60|
 |Hyundai|Israel|samseong|AI PONT|
 |Hyundai|Koral 10W2|HT1003W16|HT1003W16|
 |Hyundai|Koral 10XL|HT1004L16|HT1004L16|
 |Hyundai|Koral_10X2|HT1004X16|Koral_10X2|
+|Hyundai|Koral_10X3|Koral_10X3|HT1002W32|
 |Hyundai|Koral_10XL|Koral_10XL|HT1004LI16|
 |Hyundai|Koral_10XL_Plus|Koral_10XL_Plus|HT1002LI32|
+|Hyundai|Koral_7W4X|Koral_7W4X|HT0701W16|
 |Hyundai|Koral_7XL|Koral_7XL|HT0701LI16|
 |Hyundai|L465|L465|L465|
 |Hyundai|L500U|L500U|L500U|
@@ -12334,6 +12340,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LP (TN)|LP_T70|LP_T70|LP_T70|
 |LP (TN)|N-50|LP_N_50|N-50|
 |LP (TN)|N-57|LP_N_57|N-57|
+|LP (TN)|VYPER PRO|Vyper_PRO|Vyper PRO|
 |LT Electronics|K100|K100|K100|
 |LT Electronics|K200|K200|K200|
 |LT Electronics|LT C4300|LT_C4300|LT C4300|
@@ -16359,6 +16366,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Find X 兰博基尼|PAHM00|PAHM00|
 |Oppo|Find X2|OP4BA1L1|CPH2023|
 |Oppo|Find X2 Pro|OP4BA2L1|CPH2025|
+|Oppo|Find X2 Pro|OP4BA2L1|OPG01|
 |Oppo|Find X2 Pro 中国版|OP4A7A|PDEM30|
 |Oppo|Find X2 中国版|OP4A77|PDEM10|
 |Oppo|Find X2 中国版|OP4A77|PDET10|
@@ -22593,6 +22601,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|i50|i50|i50|
 |Symphony|i60|i60|i60|
 |Symphony|i65|i65|i65|
+|Symphony|i66|i66|i66|
 |Symphony|i68|i68|i68|
 |Symphony|i72|i72|i72|
 |Symphony|i74|i74|i74|
@@ -25119,6 +25128,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Victurio|VI106|VI106|VI106|
 |Victurio|VI86|VI86|VI86|
 |Victurio|VI87|VI87|VI87|
+|Vida|EGO_plus|EGO_plus|EGO plus|
 |Vida|GINI_D9|GINI_D9|GINI_D9|
 |Vida|V401|VIDA_V401|VIDA-V401|
 |Vida|V555K|V555K|V555K|
