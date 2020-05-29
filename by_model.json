@@ -1906,6 +1906,11 @@
    "brand": "Acer",
    "name": "CloudMobile S500",
    "device": "a9"
+  },
+  {
+   "brand": "HiMedia",
+   "name": "S500",
+   "device": "HiBox"
   }
  ],
  "DA220HQL": [
@@ -9637,6 +9642,11 @@
    "brand": "Mintt",
    "name": "A1",
    "device": "A1"
+  },
+  {
+   "brand": "Teeno",
+   "name": "A1",
+   "device": "A1_EEA"
   },
   {
    "brand": "X-Age",
@@ -68783,6 +68793,13 @@
    "device": "Infinix-X656"
   }
  ],
+ "Infinix X680D": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix SMART 4 Plus",
+   "device": "Infinix-X680D"
+  }
+ ],
  "Infinix X5010": [
   {
    "brand": "Infinix",
@@ -75174,6 +75191,13 @@
    "brand": "Kiowa",
    "name": "X4_LTE",
    "device": "X4_LTE"
+  }
+ ],
+ "KIVI 4K Android TV": [
+  {
+   "brand": "Kivi",
+   "name": "UA",
+   "device": "bangbae"
   }
  ],
  "7588AN": [
@@ -125782,6 +125806,13 @@
    "device": "T107"
   }
  ],
+ "RT-G1": [
+  {
+   "brand": "RockTek",
+   "name": "RT-G1",
+   "device": "RTBox"
+  }
+ ],
  "Quartzo UP": [
   {
    "brand": "Rockcel",
@@ -149100,6 +149131,13 @@
    "brand": "Sony",
    "name": "Xperia 10",
    "device": "I4193"
+  }
+ ],
+ "A001SO": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 II",
+   "device": "A001SO"
   }
  ],
  "XQ-AU52": [

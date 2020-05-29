@@ -15252,6 +15252,11 @@
    "model": "FS8002"
   },
   {
+   "brand": "Teeno",
+   "device": "A1_EEA",
+   "model": "A1"
+  },
+  {
    "brand": "X-Age",
    "device": "A1",
    "model": "A1"
@@ -55816,6 +55821,13 @@
    "model": "HMR5450"
   }
  ],
+ "S500": [
+  {
+   "brand": "HiMedia",
+   "device": "HiBox",
+   "model": "S500"
+  }
+ ],
  "Bay": [
   {
    "brand": "HighScreen",
@@ -70804,6 +70816,13 @@
    "model": "Infinix X604B"
   }
  ],
+ "Infinix SMART 4 Plus": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X680D",
+   "model": "Infinix X680D"
+  }
+ ],
  "Infinix X5010": [
   {
    "brand": "Infinix",
@@ -77063,6 +77082,13 @@
    "brand": "Kiowa",
    "device": "X4_LTE",
    "model": "X4_LTE"
+  }
+ ],
+ "UA": [
+  {
+   "brand": "Kivi",
+   "device": "bangbae",
+   "model": "KIVI 4K Android TV"
   }
  ],
  "7588AN": [
@@ -122764,6 +122790,13 @@
    "model": "T107"
   }
  ],
+ "RT-G1": [
+  {
+   "brand": "RockTek",
+   "device": "RTBox",
+   "model": "RT-G1"
+  }
+ ],
  "Quartzo UP": [
   {
    "brand": "Rockcel",
@@ -142189,6 +142222,11 @@
   }
  ],
  "Xperia 10 II": [
+  {
+   "brand": "Sony",
+   "device": "A001SO",
+   "model": "A001SO"
+  },
   {
    "brand": "Sony",
    "device": "XQ-AU52",

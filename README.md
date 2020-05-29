@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-05-28
+Last sync is 2020-05-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7042,6 +7042,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hi TFG|Crusader|Crusader|Crusader|
 |Hi TFG|Spitfire|Spitfire|Spitfire|
 |Hi-online|HMR5450|HMR5450|HMR5450|
+|HiMedia|S500|HiBox|S500|
 |HighScreen|Bay|Bay|Bay|
 |HighScreen|Easy Power|Easy-Power|Easy-Power|
 |HighScreen|Easy Power Pro|Easy-Power-Pro|Easy-Power-Pro|
@@ -9786,6 +9787,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix NOTE 7 Lite|Infinix-X656|Infinix X656|
 |Infinix|Infinix Note 5|Infinix-X604_sprout|Infinix X604|
 |Infinix|Infinix Note 5|Infinix-X604_sprout|Infinix X604B|
+|Infinix|Infinix SMART 4 Plus|Infinix-X680D|Infinix X680D|
 |Infinix|Infinix X5010|Infinix-X5010|Infinix X5010|
 |Infinix|Infinix X510|Infinix_X510_sprout|Infinix X510|
 |Infinix|Infinix X559|Infinix-X559|Infinix X559|
@@ -10741,6 +10743,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kiowa|X4 Plus|X4_Plus|X4_Plus|
 |Kiowa|X4_CRISTAL|X4_CRISTAL|X4_CRISTAL|
 |Kiowa|X4_LTE|X4_LTE|X4_LTE|
+|Kivi|UA|bangbae|KIVI 4K Android TV|
 |Klipad|7588AN|tulip-d9003|7588AN|
 |Klipad|7588AN|tulip-d9003|KL3838|
 |Klipad|KL1018|KL1018|KL1018|
@@ -18394,6 +18397,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rinno|R520|R520|R520|
 |Rinno|R550|R550|R550|
 |Rixun|T107|T107|T107|
+|RockTek|RT-G1|RTBox|RT-G1|
 |Rockcel|Quartzo UP|Quartzo_UP|Quartzo UP|
 |Rockcel|Quartzo Up|Quartzo_up|Quartzo_up|
 |Rockcel|Quartzo_4G|Quartzo_4G|Quartzo_4G|
@@ -21809,6 +21813,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 10|I3123|I3123|
 |Sony|Xperia 10|I4113|I4113|
 |Sony|Xperia 10|I4193|I4193|
+|Sony|Xperia 10 II|A001SO|A001SO|
 |Sony|Xperia 10 II|XQ-AU52|XQ-AU52|
 |Sony|Xperia 10 Plus|I3213|I3213|
 |Sony|Xperia 10 Plus|I3223|I3223|
@@ -24274,6 +24279,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|i5|TECNO-i5|TECNO i5|
 |Tecno|i5-Pro|TECNO-i5-Pro|TECNO i5 Pro|
 |Tecno|i7|TECNO-i7|TECNO i7|
+|Teeno|A1|A1_EEA|A1|
 |Teeno|TEENO S9|TEENO_S9|TEENO_S9|
 |Teesso|X2|X2|X2|
 |Teesso|X3|Teesso_X3|Teesso X3|

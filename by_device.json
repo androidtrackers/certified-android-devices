@@ -693,6 +693,11 @@
    "model": "JVC EU 4K Android TV"
   },
   {
+   "brand": "Kivi",
+   "name": "UA",
+   "model": "KIVI 4K Android TV"
+  },
+  {
    "brand": "OK (Mediamark)",
    "name": "OK",
    "model": "OK 4K Android TV"
@@ -50652,6 +50657,13 @@
    "model": "HMR5450"
   }
  ],
+ "HiBox": [
+  {
+   "brand": "HiMedia",
+   "name": "S500",
+   "model": "S500"
+  }
+ ],
  "Bay": [
   {
    "brand": "HighScreen",
@@ -66630,6 +66642,13 @@
    "brand": "Infinix",
    "name": "Infinix NOTE 7 Lite",
    "model": "Infinix X656"
+  }
+ ],
+ "Infinix-X680D": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix SMART 4 Plus",
+   "model": "Infinix X680D"
   }
  ],
  "Infinix-X5010": [
@@ -122102,6 +122121,13 @@
    "model": "T107"
   }
  ],
+ "RTBox": [
+  {
+   "brand": "RockTek",
+   "name": "RT-G1",
+   "model": "RT-G1"
+  }
+ ],
  "Quartzo_UP": [
   {
    "brand": "Rockcel",
@@ -144233,6 +144259,13 @@
    "model": "I4193"
   }
  ],
+ "A001SO": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 II",
+   "model": "A001SO"
+  }
+ ],
  "XQ-AU52": [
   {
    "brand": "Sony",
@@ -158537,6 +158570,13 @@
    "brand": "Tecno",
    "name": "i7",
    "model": "TECNO i7"
+  }
+ ],
+ "A1_EEA": [
+  {
+   "brand": "Teeno",
+   "name": "A1",
+   "model": "A1"
   }
  ],
  "TEENO_S9": [

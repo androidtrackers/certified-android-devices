@@ -36434,6 +36434,13 @@
    "model": "HMR5450"
   }
  ],
+ "HiMedia": [
+  {
+   "device": "HiBox",
+   "name": "S500",
+   "model": "S500"
+  }
+ ],
  "HighScreen": [
   {
    "device": "Bay",
@@ -50288,6 +50295,11 @@
    "model": "Infinix X604B"
   },
   {
+   "device": "Infinix-X680D",
+   "name": "Infinix SMART 4 Plus",
+   "model": "Infinix X680D"
+  },
+  {
    "device": "Infinix-X5010",
    "name": "Infinix X5010",
    "model": "Infinix X5010"
@@ -55233,6 +55245,13 @@
    "device": "X4_LTE",
    "name": "X4_LTE",
    "model": "X4_LTE"
+  }
+ ],
+ "Kivi": [
+  {
+   "device": "bangbae",
+   "name": "UA",
+   "model": "KIVI 4K Android TV"
   }
  ],
  "Klipad": [
@@ -94400,6 +94419,13 @@
    "model": "T107"
   }
  ],
+ "RockTek": [
+  {
+   "device": "RTBox",
+   "name": "RT-G1",
+   "model": "RT-G1"
+  }
+ ],
  "Rockcel": [
   {
    "device": "Quartzo_UP",
@@ -111713,6 +111739,11 @@
    "model": "I4193"
   },
   {
+   "device": "A001SO",
+   "name": "Xperia 10 II",
+   "model": "A001SO"
+  },
+  {
    "device": "XQ-AU52",
    "name": "Xperia 10 II",
    "model": "XQ-AU52"
@@ -124235,6 +124266,11 @@
   }
  ],
  "Teeno": [
+  {
+   "device": "A1_EEA",
+   "name": "A1",
+   "model": "A1"
+  },
   {
    "device": "TEENO_S9",
    "name": "TEENO S9",
