@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-05-29
+Last sync is 2020-05-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -16743,6 +16743,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PILOT|Israel|samseong|AI PONT|
 |PLDT|Smart Page 8 Pro|Smart_Page_8_Pro|Smart_Page_8_Pro|
 |POC|POC2|CBL7509MM|POC2|
+|POCO|POCO F2 Pro|lmi|POCO F2 Pro|
 |POCO|POCO X2|phoenixin|POCO X2|
 |POPTEL|P60|P60|P60|
 |POPTEL|P8|P8|P8|
@@ -26115,9 +26116,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|HM NOTE 1W|lcsh92_wet_jb9|HM NOTE 1W|
 |Xiaomi|HM Note 2|hermes|Redmi Note 2|
 |Xiaomi|Hong Mi|HM2013022|2013022|
-|Xiaomi|K30 PRO|lmi|POCO F2 Pro|
 |Xiaomi|K30 PRO|lmiinpro|Redmi K30 Pro 5G Zoom Edition|
-|Xiaomi|K30 Pro|lmi|POCO F2 Pro|
 |Xiaomi|K30 pro|lmiin|Redmi K30 Pro 5G|
 |Xiaomi|MI  8  Explorer  Edition|ursa|MI 8 Explorer Edition|
 |Xiaomi|MI  8  Pro|equuleus|MI 8 Pro|

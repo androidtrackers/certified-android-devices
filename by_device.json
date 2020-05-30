@@ -111471,6 +111471,23 @@
    "model": "POC2"
   }
  ],
+ "lmi": [
+  {
+   "brand": "POCO",
+   "name": "POCO F2 Pro",
+   "model": "POCO F2 Pro"
+  },
+  {
+   "brand": "Redmi",
+   "name": "K30 PRO",
+   "model": "Lmi"
+  },
+  {
+   "brand": "Redmi",
+   "name": "K30 PRO",
+   "model": "Redmi K30 Pro"
+  }
+ ],
  "phoenixin": [
   {
    "brand": "POCO",
@@ -121517,28 +121534,6 @@
    "brand": "Red-X",
    "name": "RX4618",
    "model": "RX4618"
-  }
- ],
- "lmi": [
-  {
-   "brand": "Redmi",
-   "name": "K30 PRO",
-   "model": "Lmi"
-  },
-  {
-   "brand": "Redmi",
-   "name": "K30 PRO",
-   "model": "Redmi K30 Pro"
-  },
-  {
-   "brand": "Xiaomi",
-   "name": "K30 PRO",
-   "model": "POCO F2 Pro"
-  },
-  {
-   "brand": "Xiaomi",
-   "name": "K30 Pro",
-   "model": "POCO F2 Pro"
   }
  ],
  "raphaelin": [

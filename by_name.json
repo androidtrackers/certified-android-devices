@@ -112163,6 +112163,13 @@
    "model": "POC2"
   }
  ],
+ "POCO F2 Pro": [
+  {
+   "brand": "POCO",
+   "device": "lmi",
+   "model": "POCO F2 Pro"
+  }
+ ],
  "POCO X2": [
   {
    "brand": "POCO",
@@ -122152,11 +122159,6 @@
    "brand": "Redmi",
    "device": "lmi",
    "model": "Redmi K30 Pro"
-  },
-  {
-   "brand": "Xiaomi",
-   "device": "lmi",
-   "model": "POCO F2 Pro"
   },
   {
    "brand": "Xiaomi",
@@ -167380,13 +167382,6 @@
    "brand": "Xiaomi",
    "device": "HM2013022",
    "model": "2013022"
-  }
- ],
- "K30 Pro": [
-  {
-   "brand": "Xiaomi",
-   "device": "lmi",
-   "model": "POCO F2 Pro"
   }
  ],
  "K30 pro": [

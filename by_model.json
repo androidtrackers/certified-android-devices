@@ -114885,6 +114885,13 @@
    "device": "CBL7509MM"
   }
  ],
+ "POCO F2 Pro": [
+  {
+   "brand": "POCO",
+   "name": "POCO F2 Pro",
+   "device": "lmi"
+  }
+ ],
  "POCO X2": [
   {
    "brand": "POCO",
@@ -177130,18 +177137,6 @@
    "brand": "Xiaomi",
    "name": "Hong Mi",
    "device": "HM2013022"
-  }
- ],
- "POCO F2 Pro": [
-  {
-   "brand": "Xiaomi",
-   "name": "K30 PRO",
-   "device": "lmi"
-  },
-  {
-   "brand": "Xiaomi",
-   "name": "K30 Pro",
-   "device": "lmi"
   }
  ],
  "Redmi K30 Pro 5G Zoom Edition": [

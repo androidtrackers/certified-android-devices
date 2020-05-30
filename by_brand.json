@@ -85919,6 +85919,11 @@
  ],
  "POCO": [
   {
+   "device": "lmi",
+   "name": "POCO F2 Pro",
+   "model": "POCO F2 Pro"
+  },
+  {
    "device": "phoenixin",
    "name": "POCO X2",
    "model": "POCO X2"
@@ -133877,19 +133882,9 @@
    "model": "2013022"
   },
   {
-   "device": "lmi",
-   "name": "K30 PRO",
-   "model": "POCO F2 Pro"
-  },
-  {
    "device": "lmiinpro",
    "name": "K30 PRO",
    "model": "Redmi K30 Pro 5G Zoom Edition"
-  },
-  {
-   "device": "lmi",
-   "name": "K30 Pro",
-   "model": "POCO F2 Pro"
   },
   {
    "device": "lmiin",
