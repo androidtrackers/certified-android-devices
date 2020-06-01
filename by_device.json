@@ -668,6 +668,16 @@
    "model": "BLAUPUNKT 4K Android TV"
   },
   {
+   "brand": "Continental Edison",
+   "name": "Continential_Edison",
+   "model": "Continental 4K Android TV"
+  },
+  {
+   "brand": "Hitachi",
+   "name": "Hitachi",
+   "model": "Hitachi 4K Android TV"
+  },
+  {
    "brand": "Hyundai",
    "name": "Hyundai",
    "model": "Hyundai 4K Android TV"
@@ -18599,6 +18609,33 @@
    "model": "BP_6010"
   }
  ],
+ "komagome": [
+  {
+   "brand": "Blaupunkt",
+   "name": "Blaupunkt",
+   "model": "BLAUPUNKT 2K Android TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Hyundai",
+   "model": "Hyundai 2K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "EU 2K Android TV"
+  },
+  {
+   "brand": "Kivi",
+   "name": "KIVI",
+   "model": "KIVI 2K Android TV"
+  },
+  {
+   "brand": "Polaroid",
+   "name": "Polaroid",
+   "model": "Polaroid 2K Android TV"
+  }
+ ],
  "Blaupunkt_SL_01": [
   {
    "brand": "Blaupunkt",
@@ -25837,6 +25874,13 @@
    "model": "LA703R"
   }
  ],
+ "V80": [
+  {
+   "brand": "Contixo",
+   "name": "V80",
+   "model": "V80"
+  }
+ ],
  "CONTIXO-V9": [
   {
    "brand": "Contixo",
@@ -29159,6 +29203,13 @@
    "brand": "DEXP",
    "name": "G355",
    "model": "G355"
+  }
+ ],
+ "G450": [
+  {
+   "brand": "DEXP",
+   "name": "G450",
+   "model": "G450"
   }
  ],
  "G550": [
@@ -70684,6 +70735,11 @@
    "model": "JVC 4K Android TV"
   },
   {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "SA 4K Android TV"
+  },
+  {
    "brand": "KONKA",
    "name": "KONKA",
    "model": "KONKA 4K Android TV"
@@ -70830,6 +70886,13 @@
    "brand": "Janam",
    "name": "XT30",
    "model": "XT30"
+  }
+ ],
+ "Amigo7xJDS": [
+  {
+   "brand": "Japan Digital Serve",
+   "name": "Amigo7xJDS",
+   "model": "Amigo7xJDS"
   }
  ],
  "IRIS_ITAB05": [
@@ -140798,6 +140861,13 @@
    "model": "907SH"
   }
  ],
+ "VIF": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense3 basic",
+   "model": "SHV48"
+  }
+ ],
  "SH-RM12": [
   {
    "brand": "Sharp",
@@ -144259,6 +144329,13 @@
    "brand": "Sony",
    "name": "Xperia 10 II",
    "model": "A001SO"
+  }
+ ],
+ "XQ-AU51": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 II",
+   "model": "XQ-AU51"
   }
  ],
  "XQ-AU52": [
@@ -148617,6 +148694,13 @@
    "model": "SUGAR Y12s"
   }
  ],
+ "SUGAR_Y13s": [
+  {
+   "brand": "Sugar",
+   "name": "SUGAR Y13s",
+   "model": "SUGAR Y13s"
+  }
+ ],
  "p201as": [
   {
    "brand": "Sugar",
@@ -149753,6 +149837,13 @@
    "brand": "TCL",
    "name": "TCL 10 Pro",
    "model": "T799H"
+  }
+ ],
+ "Oakland": [
+  {
+   "brand": "TCL",
+   "name": "TCL 10 SE",
+   "model": "T766H_EEA"
   }
  ],
  "T1_LITE": [
@@ -167172,6 +167263,13 @@
    "brand": "Walton",
    "name": "Primo GH8",
    "model": "Primo GH8"
+  }
+ ],
+ "Primo_GH9": [
+  {
+   "brand": "Walton",
+   "name": "Primo GH9",
+   "model": "Primo GH9"
   }
  ],
  "Primo_GM2": [

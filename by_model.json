@@ -18056,6 +18056,13 @@
    "device": "bangbae"
   }
  ],
+ "BLAUPUNKT 2K Android TV": [
+  {
+   "brand": "Blaupunkt",
+   "name": "Blaupunkt",
+   "device": "komagome"
+  }
+ ],
  "Blaupunkt SL 01": [
   {
    "brand": "Blaupunkt",
@@ -25459,6 +25466,13 @@
    "device": "conquest_S16"
   }
  ],
+ "Continental 4K Android TV": [
+  {
+   "brand": "Continental Edison",
+   "name": "Continential_Edison",
+   "device": "bangbae"
+  }
+ ],
  "V8": [
   {
    "brand": "Contixo",
@@ -25512,6 +25526,13 @@
    "brand": "Contixo",
    "name": "LA703R",
    "device": "LA703R"
+  }
+ ],
+ "V80": [
+  {
+   "brand": "Contixo",
+   "name": "V80",
+   "device": "V80"
   }
  ],
  "V9": [
@@ -28422,6 +28443,13 @@
    "brand": "DEXP",
    "name": "G355",
    "device": "G355"
+  }
+ ],
+ "G450": [
+  {
+   "brand": "DEXP",
+   "name": "G450",
+   "device": "G450"
   }
  ],
  "G550": [
@@ -54796,6 +54824,13 @@
    "device": "vision2_1"
   }
  ],
+ "Hitachi 4K Android TV": [
+  {
+   "brand": "Hitachi",
+   "name": "Hitachi",
+   "device": "bangbae"
+  }
+ ],
  "5-0": [
   {
    "brand": "Hiya",
@@ -67122,6 +67157,13 @@
    "device": "bangbae"
   }
  ],
+ "Hyundai 2K Android TV": [
+  {
+   "brand": "Hyundai",
+   "name": "Hyundai",
+   "device": "komagome"
+  }
+ ],
  "Hyundai_Eternity_G50L": [
   {
    "brand": "Hyundai",
@@ -72926,6 +72968,20 @@
    "device": "bangbae"
   }
  ],
+ "EU 2K Android TV": [
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "device": "komagome"
+  }
+ ],
+ "SA 4K Android TV": [
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "device": "seocho"
+  }
+ ],
  "J20": [
   {
    "brand": "JVC",
@@ -73037,6 +73093,13 @@
    "brand": "Janam",
    "name": "XT30",
    "device": "XT30"
+  }
+ ],
+ "Amigo7xJDS": [
+  {
+   "brand": "Japan Digital Serve",
+   "name": "Amigo7xJDS",
+   "device": "Amigo7xJDS"
   }
  ],
  "IRIS_ITAB05": [
@@ -75191,6 +75254,13 @@
    "brand": "Kiowa",
    "name": "X4_LTE",
    "device": "X4_LTE"
+  }
+ ],
+ "KIVI 2K Android TV": [
+  {
+   "brand": "Kivi",
+   "name": "KIVI",
+   "device": "komagome"
   }
  ],
  "KIVI 4K Android TV": [
@@ -119213,6 +119283,13 @@
    "device": "bangbae"
   }
  ],
+ "Polaroid 2K Android TV": [
+  {
+   "brand": "Polaroid",
+   "name": "Polaroid",
+   "device": "komagome"
+  }
+ ],
  "SIGMA-5": [
   {
    "brand": "Polaroid",
@@ -145678,6 +145755,13 @@
    "device": "SG907SH"
   }
  ],
+ "SHV48": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense3 basic",
+   "device": "VIF"
+  }
+ ],
  "SH-RM12": [
   {
    "brand": "Sharp",
@@ -149145,6 +149229,13 @@
    "brand": "Sony",
    "name": "Xperia 10 II",
    "device": "A001SO"
+  }
+ ],
+ "XQ-AU51": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 II",
+   "device": "XQ-AU51"
   }
  ],
  "XQ-AU52": [
@@ -153400,6 +153491,13 @@
    "device": "SUGAR_Y12s"
   }
  ],
+ "SUGAR Y13s": [
+  {
+   "brand": "Sugar",
+   "name": "SUGAR Y13s",
+   "device": "SUGAR_Y13s"
+  }
+ ],
  "SUGAR Y15": [
   {
    "brand": "Sugar",
@@ -154469,6 +154567,13 @@
    "brand": "TCL",
    "name": "TCL 10 Pro",
    "device": "T1_PRO"
+  }
+ ],
+ "T766H_EEA": [
+  {
+   "brand": "TCL",
+   "name": "TCL 10 SE",
+   "device": "Oakland"
   }
  ],
  "T770B": [
@@ -174326,6 +174431,13 @@
    "brand": "Walton",
    "name": "Primo GH8",
    "device": "Primo_GH8"
+  }
+ ],
+ "Primo GH9": [
+  {
+   "brand": "Walton",
+   "name": "Primo GH9",
+   "device": "Primo_GH9"
   }
  ],
  "Primo GM2": [

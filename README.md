@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-05-31
+Last sync is 2020-06-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2448,6 +2448,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|Atlantis_A10_G403|Atlantis_A10_G403|Atlantis_A10_G403|
 |Blaupunkt|BP_6010|BP_6010|BP_6010|
 |Blaupunkt|Blaupunkt|bangbae|BLAUPUNKT 4K Android TV|
+|Blaupunkt|Blaupunkt|komagome|BLAUPUNKT 2K Android TV|
 |Blaupunkt|Blaupunkt SL 01|Blaupunkt_SL_01|Blaupunkt SL 01|
 |Blaupunkt|Blaupunkt SL 02|Blaupunkt_SL_02|Blaupunkt SL 02|
 |Blaupunkt|Blaupunkt SL 04|Blaupunkt_SL_04|Blaupunkt SL 04|
@@ -3476,11 +3477,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Conquest|S11|conquest-S11|S11|
 |Conquest|conquest_S16|conquest_S16|conquest_S16|
 |Conquest|conquest_S16_RU|conquest_S16|conquest_S16|
+|Continental Edison|Continential_Edison|bangbae|Continental 4K Android TV|
 |Contixo|CONTIXO_V8|CONTIXO-V8|V8|
 |Contixo|K101|K101|K101|
 |Contixo|K102|K102|K102|
 |Contixo|K4|K4|K4|
 |Contixo|LA703R|LA703R|LA703R|
+|Contixo|V80|V80|V80|
 |Contixo|V9|CONTIXO-V9|V9|
 |Coolpad||7019_msm7627a|Coolpad 7019|
 |Coolpad||7560U|Nivo|
@@ -3890,6 +3893,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|G253|G253|G253|
 |DEXP|G255|G255|G255|
 |DEXP|G355|G355|G355|
+|DEXP|G450|G450|G450|
 |DEXP|G550|G550|G550|
 |DEXP|GL255|GL255|GL255|
 |DEXP|GL355|GL355|GL355|
@@ -7705,6 +7709,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|u972|HS7731SP|U972|
 |Hisense|vision2_1|vision2_1|vision2_1|
 |Hisense|xiaoyushan-em|xiaoyushan|HiSmartTV A4|
+|Hitachi|Hitachi|bangbae|Hitachi 4K Android TV|
 |Hitachi|SAUDI ARABIC/Iraq Australia|samseong|AI PONT|
 |Hiya|5-0|5-0|5-0|
 |Hiya|5-0|5_0|5-0|
@@ -9537,6 +9542,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HT0802W16/Koral_8W2|HT0802W16|Koral_8W2|
 |Hyundai|HY1-5085|HY1_5085|HY1-5085|
 |Hyundai|Hyundai|bangbae|Hyundai 4K Android TV|
+|Hyundai|Hyundai|komagome|Hyundai 2K Android TV|
 |Hyundai|Hyundai Eternity G50L|HT1G50L|Hyundai_Eternity_G50L|
 |Hyundai|Hyundai Koral 10W|HT1002W16|HT1002W16|
 |Hyundai|Hyundai Koral 10X|HT1003X16|HT1003X16|
@@ -10409,7 +10415,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|JVC|bangbae|Engel 4K Android TV|
 |JVC|JVC|bangbae|JVC 4K Android TV|
 |JVC|JVC|bangbae|JVC EU 4K Android TV|
+|JVC|JVC|komagome|EU 2K Android TV|
 |JVC|JVC|seocho|JVC 4K Android TV|
+|JVC|JVC|seocho|SA 4K Android TV|
 |JVC|JVC J20|Cunda|J20|
 |JVC|LT-32K397|osaki|2K AI Smart TV|
 |JVC|Panama|sindorim|AI PONT|
@@ -10428,6 +10436,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Janam|XT3|XT3|XT3|
 |Janam|XT30|XT30|XT30|
 |Janam|XT75|XM75|XM75|
+|Japan Digital Serve|Amigo7xJDS|Amigo7xJDS|Amigo7xJDS|
 |JapanTaxi|IRIS ITAB05|IRIS_ITAB05|IRIS_ITAB05|
 |Jenesis|A94GT_Plus|A94GT_Plus|A94GT_Plus|
 |Jenesis|JT07-81B|JT07-81B|JT07-81B|
@@ -10743,6 +10752,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kiowa|X4 Plus|X4_Plus|X4_Plus|
 |Kiowa|X4_CRISTAL|X4_CRISTAL|X4_CRISTAL|
 |Kiowa|X4_LTE|X4_LTE|X4_LTE|
+|Kivi|KIVI|komagome|KIVI 2K Android TV|
 |Kivi|UA|bangbae|KIVI 4K Android TV|
 |Klipad|7588AN|tulip-d9003|7588AN|
 |Klipad|7588AN|tulip-d9003|KL3838|
@@ -17411,6 +17421,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Polaroid|PTAB751|STJR76|PTAB751|
 |Polaroid|Phantom 5|Phantom5|PRO5023|
 |Polaroid|Polaroid|bangbae|Polaroid 4K Android TV|
+|Polaroid|Polaroid|komagome|Polaroid 2K Android TV|
 |Polaroid|SIGMA 5|SIGMA-5|SIGMA-5|
 |Polaroid|SOHO|SOHO|SOHO|
 |Polaroid|V45M|V45M|CARBON_PRO4543|
@@ -21300,6 +21311,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS sense3 SH-M12|SH-M12|SH-M12|
 |Sharp|AQUOS sense3 SHV45|PCZ|SHV45|
 |Sharp|AQUOS sense3 basic|SG907SH|907SH|
+|Sharp|AQUOS sense3 basic|VIF|SHV48|
 |Sharp|AQUOS sense3 lite|SH-RM12|SH-RM12|
 |Sharp|AQUOS sense3 plus (901SH)|SG901SH|901SH|
 |Sharp|AQUOS sense3 plus SH-M11|SH-M11|SH-M11|
@@ -21815,6 +21827,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 10|I4113|I4113|
 |Sony|Xperia 10|I4193|I4193|
 |Sony|Xperia 10 II|A001SO|A001SO|
+|Sony|Xperia 10 II|XQ-AU51|XQ-AU51|
 |Sony|Xperia 10 II|XQ-AU52|XQ-AU52|
 |Sony|Xperia 10 Plus|I3213|I3213|
 |Sony|Xperia 10 Plus|I3223|I3223|
@@ -22487,6 +22500,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sugar|SUGAR T10|p312cs_tw|SUGAR T10|
 |Sugar|SUGAR Y12|p101bs|SUGAR Y12|
 |Sugar|SUGAR Y12s|SUGAR_Y12s|SUGAR Y12s|
+|Sugar|SUGAR Y13s|SUGAR_Y13s|SUGAR Y13s|
 |Sugar|SUGAR Y15|p201as|SUGAR Y15|
 |Sugar|SUGAR Y16|SUGAR_Y16|SUGAR Y16|
 |Sugar|SUGAR_P11|SUGAR_P11|SUGAR_P11|
@@ -22655,6 +22669,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|South America|tcl|Percee TV|
 |TCL|TCL 10 Pro|T1_PRO|T799B|
 |TCL|TCL 10 Pro|T1_PRO|T799H|
+|TCL|TCL 10 SE|Oakland|T766H_EEA|
 |TCL|TCL 10L|T1_LITE|T770B|
 |TCL|TCL 10L|T1_LITE|T770H|
 |TCL|TCL C5|A3A|5152D|
@@ -25658,6 +25673,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|Primo GH7|Primo_GH7|Primo GH7|
 |Walton|Primo GH7i|Primo_GH7i|Primo GH7i|
 |Walton|Primo GH8|Primo_GH8|Primo GH8|
+|Walton|Primo GH9|Primo_GH9|Primo GH9|
 |Walton|Primo GM2|Primo_GM2|Primo GM2|
 |Walton|Primo GM2 Plus|Primo_GM2_Plus|Primo GM2 Plus|
 |Walton|Primo GM3|Primo_GM3|Primo GM3|
