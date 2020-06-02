@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-06-01
+Last sync is 2020-06-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -399,6 +399,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advan digital|G2 Pro|ADVAN_G2_Pro|6004|
 |Advan digital|G3|ADVAN_G3|6001|
 |Advan digital|G3 Pro|ADVAN_G3_Pro|6002|
+|Advan digital|G5|ADVAN_G5|6201|
 |Advan digital|I Tab|ADVAN_i_Tab|i7_Plus|
 |Advan digital|I55A|I55A|I55A|
 |Advan digital|I5E|ADVAN_I5E|I5E|
@@ -591,6 +592,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|AX501Q|AX501Q|AX501Q|
 |AllView|AX502|AX502|AX502|
 |AllView|AX503|AX503|AX503|
+|AllView|Allview|komagome|ALLVIEW 2K Android TV|
 |AllView|Allview 2K TV|shinagawa|Allview 2K TV|
 |AllView|C6 Duo|C6_Duo|C6_Duo|
 |AllView|C6 Quad 4G|C6_Quad_4G|C6Quad_4G|
@@ -2874,6 +2876,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CJHelloVision|viewing|kr101|kr101|
 |CLEVER|C45|C45|C45|
 |CLIO|Neo 4|Neo_4|Neo 4|
+|CLIO|Neo_4_Plus|Neo_4_Plus|Neo 4 Plus|
 |CMCC|M811|m811|M811|
 |CMCC|M811|m811hk|M811|
 |CONKER|ST60|ST_60|ST 60|
@@ -3088,6 +3091,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Changhong|AP(Indonesia etc.)/MENA|ikebukuro|CHiQ AI Center|
 |Changhong|AP(Indonesia etc.)/MENA|samseong|AI PONT|
 |Changhong|AP(Indonesia etc.)/MENA|samseong|CHiQ AI Center|
+|Changhong|Central America|sindorim|AI PONT|
 |Changhong|GIU6060|GIU6060|GIU6060|
 |Changhong|GIU6860|GIU6860|GIU6860|
 |Changhong|SA|sindorim|AI PONT|
@@ -3473,10 +3477,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Connectce|Connect Core 6|Connect_Core_6|CP6001A|
 |Connex|CTAB-1044|CTAB-1044|CTAB-1044|
 |Connex|CTAB1044hn|CTAB1044hn|CTAB1044hn|
+|Connexion TV|VIP6102W|vip6102w|VIP6102W|
 |Conquest|CONQUEST S12Pro|S12Pro|S12Pro|
 |Conquest|S11|conquest-S11|S11|
 |Conquest|conquest_S16|conquest_S16|conquest_S16|
 |Conquest|conquest_S16_RU|conquest_S16|conquest_S16|
+|Contex|Contex|yeongdeungpo|AiPlus4K|
+|Continental Edison|CE10402|CE10402|CE10402|
+|Continental Edison|Continental Edison|yeongdeungpo|B UHD Android TV|
 |Continental Edison|Continential_Edison|bangbae|Continental 4K Android TV|
 |Contixo|CONTIXO_V8|CONTIXO-V8|V8|
 |Contixo|K101|K101|K101|
@@ -3762,6 +3770,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ctroniq|K9|K9|K9|
 |Cubot|CUBOT CHEETAH 2|CUBOT_CHEETAH_2|CUBOT CHEETAH 2|
 |Cubot|CUBOT H3|CUBOT_H3|CUBOT H3|
+|Cubot|CUBOT J9|CUBOT_J9|CUBOT J9|
 |Cubot|CUBOT MAGIC|CUBOT_MAGIC|CUBOT MAGIC|
 |Cubot|CUBOT MAGIC|CUBOT_R9|CUBOT R9|
 |Cubot|CUBOT NOTE Plus|CUBOT_NOTE_Plus|CUBOT NOTE Plus|
@@ -9517,6 +9526,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|Blade_C6|Blade_C6|Blade_C6|
 |Hyundai|Blade_C7|Blade_C7|Blade_C7|
 |Hyundai|CAR AVN SYSTEM|koecn|TCC893X_EVM|
+|Hyundai|Columbia|sindorim|AI PONT|
 |Hyundai|E435 Plus|E435_Plus|E435 Plus|
 |Hyundai|E456GO|E465GO|E465GO|
 |Hyundai|E475|E475|E475|
@@ -9959,6 +9969,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infocus|NewTab F1|f1|NewTab F1|
 |Infocus|Smart503|MC2|Smart503|
 |Infocus|T3000|P7M|T3000|
+|Infocus|TAIWAN|sindorim|AI PONT|
 |Infocus|VZH|VZH|VZH|
 |Infocus|VZU|VZH|VZU|
 |Infocus|Vision 3 Lite|BU2|IF9008|
@@ -10596,6 +10607,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KOOLNEE|RAINBOW|RAINBOW|RAINBOW|
 |KOOOK|C600|GBC_bravo|C600|
 |KRIP|K4b|K4b|K4b|
+|KRIP|K4m|K4m|K4m|
 |KRIP|K5|K5|K5|
 |KRIP|K55h|K55h|K55h|
 |KRIP|K5b|K5b|K5b|
@@ -15605,6 +15617,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NEONIQ|NQT-1013GIQ|NQT-1013GIQ|NQT-1013GIQ|
 |NEONIQ|NQT-1014GIQ|NQT-1014GIQ|NQT-1014GIQ|
 |NEONIQ|NQT-73GIQ|NQT-73GIQ|NQT-73GIQ|
+|NEONIQ|NQT_7W|NQT-7W|NQT-7W|
 |NESO|N810 i7|N810_i7_1|N810 i7|
 |NETGREEN|H10|H10|H10|
 |NETGREEN|MW75QF6|MW75QF6|MW75QF6|
@@ -17588,6 +17601,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Premio|186HS1050531|186HS1050531|186HS1050531|
 |Premio|186HS1080233|186HS1080233|P570|
 |Premio|187HT1020331|187HT1020331|P710|
+|Premio|AXE_II|Premio|AXE_II|
 |Premio|Axe|HMR5510|Axe|
 |Premio|P490|P490|P490|
 |Premio|P520|P520|P520|
@@ -17870,6 +17884,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prime|X6_Pro|X6_Pro|X6_Pro|
 |Primux|Primux_ioxphone|Primux_ioxphone|Primux_ioxphone|
 |Prince Mobile|PC9|PC9|PC9|
+|Prism|Korea|sindorim|AI PONT|
 |Pritom|K7|K7|K7|
 |Pritom|P7PRO|P7PRO|P7PRO|
 |Pritom|P7PRO_EEA|P7PRO_EEA|P7PRO_EEA|
@@ -18296,10 +18311,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme X2|RMX1993L1|RMX1993|
 |Realme|realme X2Pro|RMX1931CN|RMX1931|
 |Realme|realme X2Pro|RMX1931L1|RMX1931|
+|Realme|realme X3|RMX2081L1|RMX2081|
+|Realme|realme X3|RMX2085L1|RMX2085|
+|Realme|realme X3|RMX2086L1|RMX2086|
 |Realme|realme X50 5G 移动版|RMX2025CN|RMX2025|
 |Realme|realme X50 Pro|RMX2071CN|RMX2071|
 |Realme|realme X50 Pro|RMX2075L1|RMX2075|
 |Realme|realme X50 Pro|RMX2076L1|RMX2076|
+|Realme|realme X50 Pro Play|RMX2072CN|RMX2072|
 |Realme|realme X50m 5G|RMX2141CN|RMX2141|
 |Realme|realme X50m 5G|RMX2142CN|RMX2142|
 |Realme|realme X50t 5G|RMX2052CN|RMX2052|
@@ -21639,6 +21658,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|Platinum G5|Platinum_G5|Platinum_G5|
 |Sky Devices|Platinum G55|Platinum_G55|Platinum_G55|
 |Sky Devices|Platinum M5|Platinum_M5|Platinum_M5|
+|Sky Devices|Platinum P4|Platinum_P4|Platinum_P4|
 |Sky Devices|Platinum View2|PLATINUM_VIEW2|PLATINUM_VIEW2|
 |Sky Devices|Platinum_UNO|Platinum_UNO|Platinum_UNO|
 |Sky Devices|Prestige2|SKY_Prestige2_FP|SKY Prestige2|
@@ -22498,6 +22518,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sugar|SUGAR S20|x600as_hk|SUGAR S20|
 |Sugar|SUGAR S20s|x600as|SUGAR S20s|
 |Sugar|SUGAR T10|p312cs_tw|SUGAR T10|
+|Sugar|SUGAR T30|v830_64|SUGAR T30|
 |Sugar|SUGAR Y12|p101bs|SUGAR Y12|
 |Sugar|SUGAR Y12s|SUGAR_Y12s|SUGAR Y12s|
 |Sugar|SUGAR Y13s|SUGAR_Y13s|SUGAR Y13s|
@@ -22612,6 +22633,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|i10|i10|i10|
 |Symphony|i10 plus|i10_plus|i10 plus|
 |Symphony|i100|i100|i100|
+|Symphony|i12|i12|i12|
 |Symphony|i120|i120|i120|
 |Symphony|i15|i15|i15|
 |Symphony|i18|i18|i18|
@@ -23412,6 +23434,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 3L|TokyoPro|5029Y_RU|
 |TCT (Alcatel)|Alcatel 3L|TokyoPro|Alpha 20|
 |TCT (Alcatel)|Alcatel 3L|TokyoPro|HEYOU60|
+|TCT (Alcatel)|Alcatel 3L|TokyoPro|TECTOY|
 |TCT (Alcatel)|Alcatel 3T 10|A3A_10_4G|8088M|
 |TCT (Alcatel)|Alcatel 3T 8|A3A_8_4G|9027F|
 |TCT (Alcatel)|Alcatel 3T 8|A3A_8_4G|9027Q|
@@ -25278,6 +25301,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V1963A|PD1963|V1963A|
 |Vivo|V1965A|PD1965|V1965A|
 |Vivo|V1981A|PD1981|V1981A|
+|Vivo|V1986A|PD1986|V1986A|
 |Vivo|V1990A|PD1990|V1990A|
 |Vivo|V1Max|Y37|vivo Y37|
 |Vivo|V3|PD1524|vivo V3|
@@ -26021,6 +26045,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wishtel|IRA_DUO|IRA_DUO|IRA_DUO|
 |Wistron|DW-21(A)|DA-21|DW-21(A)|
 |Wistron|W1011A|w1011a|W1011A|
+|Witooth|South korea|sindorim|AI PONT|
 |Wizphone|WP003|WP003|WP003|
 |Wizphone|WP005|WP005|WP005|
 |Wizz|DV-PTB1080|DV-PTB1080|DV-PTB1080|
@@ -28374,6 +28399,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |unitel|U902|U902|U902|
 |unitel|Unitel_Smart_1|Unitel_Smart_1|Unitel Smart 1|
 |vatenick|v7|v7|v7|
+|vatenick|v7-EEA|v7-EEA|v7-EEA|
 |videocon|Delite 11|V503630|V503630|
 |videocon|Krypton 22+|V505024|V505024|
 |videocon|Metal Pro 1|V505820|V505820|

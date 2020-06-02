@@ -3462,6 +3462,13 @@
    "model": "6002"
   }
  ],
+ "ADVAN_G5": [
+  {
+   "brand": "Advan digital",
+   "name": "G5",
+   "model": "6201"
+  }
+ ],
  "ADVAN_i_Tab": [
   {
    "brand": "Advan digital",
@@ -4419,7 +4426,22 @@
   },
   {
    "brand": "Changhong",
+   "name": "Central America",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Changhong",
    "name": "SA",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Columbia",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Infocus",
+   "name": "TAIWAN",
    "model": "AI PONT"
   },
   {
@@ -4433,8 +4455,18 @@
    "model": "AI PONT"
   },
   {
+   "brand": "Prism",
+   "name": "Korea",
+   "model": "AI PONT"
+  },
+  {
    "brand": "THEHAM",
    "name": "Korea",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Witooth",
+   "name": "South korea",
    "model": "AI PONT"
   }
  ],
@@ -5122,6 +5154,38 @@
    "brand": "AllView",
    "name": "AX503",
    "model": "AX503"
+  }
+ ],
+ "komagome": [
+  {
+   "brand": "AllView",
+   "name": "Allview",
+   "model": "ALLVIEW 2K Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "Blaupunkt",
+   "model": "BLAUPUNKT 2K Android TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Hyundai",
+   "model": "Hyundai 2K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "EU 2K Android TV"
+  },
+  {
+   "brand": "Kivi",
+   "name": "KIVI",
+   "model": "KIVI 2K Android TV"
+  },
+  {
+   "brand": "Polaroid",
+   "name": "Polaroid",
+   "model": "Polaroid 2K Android TV"
   }
  ],
  "shinagawa": [
@@ -9887,6 +9951,11 @@
  "vip6102w": [
   {
    "brand": "Arris",
+   "name": "VIP6102W",
+   "model": "VIP6102W"
+  },
+  {
+   "brand": "Connexion TV",
    "name": "VIP6102W",
    "model": "VIP6102W"
   },
@@ -18609,33 +18678,6 @@
    "model": "BP_6010"
   }
  ],
- "komagome": [
-  {
-   "brand": "Blaupunkt",
-   "name": "Blaupunkt",
-   "model": "BLAUPUNKT 2K Android TV"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "Hyundai",
-   "model": "Hyundai 2K Android TV"
-  },
-  {
-   "brand": "JVC",
-   "name": "JVC",
-   "model": "EU 2K Android TV"
-  },
-  {
-   "brand": "Kivi",
-   "name": "KIVI",
-   "model": "KIVI 2K Android TV"
-  },
-  {
-   "brand": "Polaroid",
-   "name": "Polaroid",
-   "model": "Polaroid 2K Android TV"
-  }
- ],
  "Blaupunkt_SL_01": [
   {
    "brand": "Blaupunkt",
@@ -21603,6 +21645,13 @@
    "brand": "CLIO",
    "name": "Neo 4",
    "model": "Neo 4"
+  }
+ ],
+ "Neo_4_Plus": [
+  {
+   "brand": "CLIO",
+   "name": "Neo_4_Plus",
+   "model": "Neo 4 Plus"
   }
  ],
  "m811": [
@@ -25824,6 +25873,25 @@
    "model": "conquest_S16"
   }
  ],
+ "yeongdeungpo": [
+  {
+   "brand": "Contex",
+   "name": "Contex",
+   "model": "AiPlus4K"
+  },
+  {
+   "brand": "Continental Edison",
+   "name": "Continental Edison",
+   "model": "B UHD Android TV"
+  }
+ ],
+ "CE10402": [
+  {
+   "brand": "Continental Edison",
+   "name": "CE10402",
+   "model": "CE10402"
+  }
+ ],
  "CONTIXO-V8": [
   {
    "brand": "Contixo",
@@ -28240,6 +28308,13 @@
    "brand": "Cubot",
    "name": "CUBOT H3",
    "model": "CUBOT H3"
+  }
+ ],
+ "CUBOT_J9": [
+  {
+   "brand": "Cubot",
+   "name": "CUBOT J9",
+   "model": "CUBOT J9"
   }
  ],
  "CUBOT_MAGIC": [
@@ -71985,6 +72060,13 @@
    "model": "K4b"
   }
  ],
+ "K4m": [
+  {
+   "brand": "KRIP",
+   "name": "K4m",
+   "model": "K4m"
+  }
+ ],
  "K55h": [
   {
    "brand": "KRIP",
@@ -104122,6 +104204,13 @@
    "model": "NQT-73GIQ"
   }
  ],
+ "NQT-7W": [
+  {
+   "brand": "NEONIQ",
+   "name": "NQT_7W",
+   "model": "NQT-7W"
+  }
+ ],
  "N810_i7_1": [
   {
    "brand": "NESO",
@@ -116975,6 +117064,13 @@
    "model": "P710"
   }
  ],
+ "Premio": [
+  {
+   "brand": "Premio",
+   "name": "AXE_II",
+   "model": "AXE_II"
+  }
+ ],
  "HMR5510": [
   {
    "brand": "Premio",
@@ -121459,6 +121555,27 @@
    "model": "RMX1931"
   }
  ],
+ "RMX2081L1": [
+  {
+   "brand": "Realme",
+   "name": "realme X3",
+   "model": "RMX2081"
+  }
+ ],
+ "RMX2085L1": [
+  {
+   "brand": "Realme",
+   "name": "realme X3",
+   "model": "RMX2085"
+  }
+ ],
+ "RMX2086L1": [
+  {
+   "brand": "Realme",
+   "name": "realme X3",
+   "model": "RMX2086"
+  }
+ ],
  "RMX2025CN": [
   {
    "brand": "Realme",
@@ -121485,6 +121602,13 @@
    "brand": "Realme",
    "name": "realme X50 Pro",
    "model": "RMX2076"
+  }
+ ],
+ "RMX2072CN": [
+  {
+   "brand": "Realme",
+   "name": "realme X50 Pro Play",
+   "model": "RMX2072"
   }
  ],
  "RMX2141CN": [
@@ -143058,6 +143182,13 @@
    "model": "Platinum_M5"
   }
  ],
+ "Platinum_P4": [
+  {
+   "brand": "Sky Devices",
+   "name": "Platinum P4",
+   "model": "Platinum_P4"
+  }
+ ],
  "PLATINUM_VIEW2": [
   {
    "brand": "Sky Devices",
@@ -148680,6 +148811,13 @@
    "model": "SUGAR T10"
   }
  ],
+ "v830_64": [
+  {
+   "brand": "Sugar",
+   "name": "SUGAR T30",
+   "model": "SUGAR T30"
+  }
+ ],
  "p101bs": [
   {
    "brand": "Sugar",
@@ -149357,6 +149495,13 @@
    "brand": "Symphony",
    "name": "i100",
    "model": "i100"
+  }
+ ],
+ "i12": [
+  {
+   "brand": "Symphony",
+   "name": "i12",
+   "model": "i12"
   }
  ],
  "i120": [
@@ -150502,6 +150647,11 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 3L",
    "model": "HEYOU60"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3L",
+   "model": "TECTOY"
   },
   {
    "brand": "TCT (Alcatel)",
@@ -164687,6 +164837,13 @@
    "brand": "Vivo",
    "name": "V1981A",
    "model": "V1981A"
+  }
+ ],
+ "PD1986": [
+  {
+   "brand": "Vivo",
+   "name": "V1986A",
+   "model": "V1986A"
   }
  ],
  "PD1990": [
@@ -182899,6 +183056,13 @@
    "brand": "vatenick",
    "name": "v7",
    "model": "v7"
+  }
+ ],
+ "v7-EEA": [
+  {
+   "brand": "vatenick",
+   "name": "v7-EEA",
+   "model": "v7-EEA"
   }
  ],
  "V503630": [

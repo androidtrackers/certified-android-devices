@@ -2061,6 +2061,11 @@
    "model": "6002"
   },
   {
+   "device": "ADVAN_G5",
+   "name": "G5",
+   "model": "6201"
+  },
+  {
    "device": "ADVAN_i_Tab",
    "name": "I Tab",
    "model": "i7_Plus"
@@ -3075,6 +3080,11 @@
    "device": "AX503",
    "name": "AX503",
    "model": "AX503"
+  },
+  {
+   "device": "komagome",
+   "name": "Allview",
+   "model": "ALLVIEW 2K Android TV"
   },
   {
    "device": "shinagawa",
@@ -14804,6 +14814,11 @@
    "device": "Neo_4",
    "name": "Neo 4",
    "model": "Neo 4"
+  },
+  {
+   "device": "Neo_4_Plus",
+   "name": "Neo_4_Plus",
+   "model": "Neo 4 Plus"
   }
  ],
  "CMCC": [
@@ -15950,6 +15965,11 @@
    "device": "samseong",
    "name": "AP(Indonesia etc.)/MENA",
    "model": "CHiQ AI Center"
+  },
+  {
+   "device": "sindorim",
+   "name": "Central America",
+   "model": "AI PONT"
   },
   {
    "device": "GIU6060",
@@ -17947,6 +17967,13 @@
    "model": "CTAB1044hn"
   }
  ],
+ "Connexion TV": [
+  {
+   "device": "vip6102w",
+   "name": "VIP6102W",
+   "model": "VIP6102W"
+  }
+ ],
  "Conquest": [
   {
    "device": "S12Pro",
@@ -17969,7 +17996,24 @@
    "model": "conquest_S16"
   }
  ],
+ "Contex": [
+  {
+   "device": "yeongdeungpo",
+   "name": "Contex",
+   "model": "AiPlus4K"
+  }
+ ],
  "Continental Edison": [
+  {
+   "device": "CE10402",
+   "name": "CE10402",
+   "model": "CE10402"
+  },
+  {
+   "device": "yeongdeungpo",
+   "name": "Continental Edison",
+   "model": "B UHD Android TV"
+  },
   {
    "device": "bangbae",
    "name": "Continential_Edison",
@@ -19420,6 +19464,11 @@
    "device": "CUBOT_H3",
    "name": "CUBOT H3",
    "model": "CUBOT H3"
+  },
+  {
+   "device": "CUBOT_J9",
+   "name": "CUBOT J9",
+   "model": "CUBOT J9"
   },
   {
    "device": "CUBOT_MAGIC",
@@ -48867,6 +48916,11 @@
    "model": "TCC893X_EVM"
   },
   {
+   "device": "sindorim",
+   "name": "Columbia",
+   "model": "AI PONT"
+  },
+  {
    "device": "E435_Plus",
    "name": "E435 Plus",
    "model": "E435 Plus"
@@ -51157,6 +51211,11 @@
    "device": "P7M",
    "name": "T3000",
    "model": "T3000"
+  },
+  {
+   "device": "sindorim",
+   "name": "TAIWAN",
+   "model": "AI PONT"
   },
   {
    "device": "VZH",
@@ -54462,6 +54521,11 @@
    "device": "K4b",
    "name": "K4b",
    "model": "K4b"
+  },
+  {
+   "device": "K4m",
+   "name": "K4m",
+   "model": "K4m"
   },
   {
    "device": "K5",
@@ -80003,6 +80067,11 @@
    "device": "NQT-73GIQ",
    "name": "NQT-73GIQ",
    "model": "NQT-73GIQ"
+  },
+  {
+   "device": "NQT-7W",
+   "name": "NQT_7W",
+   "model": "NQT-7W"
   }
  ],
  "NESO": [
@@ -90252,6 +90321,11 @@
    "model": "P710"
   },
   {
+   "device": "Premio",
+   "name": "AXE_II",
+   "model": "AXE_II"
+  },
+  {
    "device": "HMR5510",
    "name": "Axe",
    "model": "Axe"
@@ -91670,6 +91744,13 @@
    "device": "PC9",
    "name": "PC9",
    "model": "PC9"
+  }
+ ],
+ "Prism": [
+  {
+   "device": "sindorim",
+   "name": "Korea",
+   "model": "AI PONT"
   }
  ],
  "Pritom": [
@@ -93884,6 +93965,21 @@
    "model": "RMX1931"
   },
   {
+   "device": "RMX2081L1",
+   "name": "realme X3",
+   "model": "RMX2081"
+  },
+  {
+   "device": "RMX2085L1",
+   "name": "realme X3",
+   "model": "RMX2085"
+  },
+  {
+   "device": "RMX2086L1",
+   "name": "realme X3",
+   "model": "RMX2086"
+  },
+  {
    "device": "RMX2025CN",
    "name": "realme X50 5G 移动版",
    "model": "RMX2025"
@@ -93902,6 +93998,11 @@
    "device": "RMX2076L1",
    "name": "realme X50 Pro",
    "model": "RMX2076"
+  },
+  {
+   "device": "RMX2072CN",
+   "name": "realme X50 Pro Play",
+   "model": "RMX2072"
   },
   {
    "device": "RMX2141CN",
@@ -110825,6 +110926,11 @@
    "model": "Platinum_M5"
   },
   {
+   "device": "Platinum_P4",
+   "name": "Platinum P4",
+   "model": "Platinum_P4"
+  },
+  {
    "device": "PLATINUM_VIEW2",
    "name": "Platinum View2",
    "model": "PLATINUM_VIEW2"
@@ -115216,6 +115322,11 @@
    "model": "SUGAR T10"
   },
   {
+   "device": "v830_64",
+   "name": "SUGAR T30",
+   "model": "SUGAR T30"
+  },
+  {
    "device": "p101bs",
    "name": "SUGAR Y12",
    "model": "SUGAR Y12"
@@ -115820,6 +115931,11 @@
    "device": "i100",
    "name": "i100",
    "model": "i100"
+  },
+  {
+   "device": "i12",
+   "name": "i12",
+   "model": "i12"
   },
   {
    "device": "i120",
@@ -119840,6 +119956,11 @@
    "device": "TokyoPro",
    "name": "Alcatel 3L",
    "model": "HEYOU60"
+  },
+  {
+   "device": "TokyoPro",
+   "name": "Alcatel 3L",
+   "model": "TECTOY"
   },
   {
    "device": "A3A_10_4G",
@@ -129550,6 +129671,11 @@
    "model": "V1981A"
   },
   {
+   "device": "PD1986",
+   "name": "V1986A",
+   "model": "V1986A"
+  },
+  {
    "device": "PD1990",
    "name": "V1990A",
    "model": "V1990A"
@@ -133373,6 +133499,13 @@
    "device": "w1011a",
    "name": "W1011A",
    "model": "W1011A"
+  }
+ ],
+ "Witooth": [
+  {
+   "device": "sindorim",
+   "name": "South korea",
+   "model": "AI PONT"
   }
  ],
  "Wizphone": [
@@ -145414,6 +145547,11 @@
    "device": "v7",
    "name": "v7",
    "model": "v7"
+  },
+  {
+   "device": "v7-EEA",
+   "name": "v7-EEA",
+   "model": "v7-EEA"
   }
  ],
  "videocon": [
