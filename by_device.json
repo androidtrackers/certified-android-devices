@@ -7554,6 +7554,11 @@
    "brand": "S Vision",
    "name": "Australia",
    "model": "Svision Android TV"
+  },
+  {
+   "brand": "Soniq",
+   "name": "Australia",
+   "model": "SONIQ Android TV"
   }
  ],
  "nippori": [
@@ -20561,6 +20566,13 @@
    "brand": "Bluboo",
    "name": "X Pro",
    "model": "X Pro"
+  }
+ ],
+ "MID1016BT001": [
+  {
+   "brand": "BlueTech",
+   "name": "MID1016BT001",
+   "model": "MID1016BT001"
   }
  ],
  "BM180": [
@@ -35142,6 +35154,13 @@
    "model": "PX"
   }
  ],
+ "PX_Pro": [
+  {
+   "brand": "Elephone",
+   "name": "PX_Pro",
+   "model": "PX_Pro"
+  }
+ ],
  "Soldier": [
   {
    "brand": "Elephone",
@@ -47885,6 +47904,18 @@
    "brand": "HTC",
    "name": "HTC Desire 19s",
    "model": "HTC Desire 19s"
+  }
+ ],
+ "htc_bymdugl": [
+  {
+   "brand": "HTC",
+   "name": "HTC Desire 20 Pro",
+   "model": "HTC 2Q9J10000"
+  },
+  {
+   "brand": "HTC",
+   "name": "HTC Desire 20 Pro",
+   "model": "HTC Desire 20 Pro"
   }
  ],
  "htc_bre2pdugl": [
@@ -91613,6 +91644,11 @@
    "brand": "M3 Mobile",
    "name": "M3 UL20F",
    "model": "M3UL20F"
+  },
+  {
+   "brand": "M3 Mobile",
+   "name": "M3UL20F_EEA",
+   "model": "M3UL20F"
   }
  ],
  "M3UL20W": [
@@ -91620,12 +91656,22 @@
    "brand": "M3 Mobile",
    "name": "M3 UL20W",
    "model": "M3UL20W"
+  },
+  {
+   "brand": "M3 Mobile",
+   "name": "M3UL20W_EEA",
+   "model": "M3UL20W"
   }
  ],
  "M3UL20X": [
   {
    "brand": "M3 Mobile",
    "name": "M3 UL20X",
+   "model": "M3UL20X"
+  },
+  {
+   "brand": "M3 Mobile",
+   "name": "M3UL20X_EEA",
    "model": "M3UL20X"
   }
  ],
@@ -105884,6 +105930,13 @@
    "brand": "Nextel",
    "name": "V.45",
    "model": "V.45"
+  }
+ ],
+ "Nextgear_n1": [
+  {
+   "brand": "Nextgear",
+   "name": "Nextgear n1",
+   "model": "Nextgear n1"
   }
  ],
  "S800c": [
@@ -121051,6 +121104,18 @@
    "brand": "Sceptre",
    "name": "A322BV-SRC",
    "model": "2K Smart TV"
+  }
+ ],
+ "gangbyeon": [
+  {
+   "brand": "RCA",
+   "name": "US",
+   "model": "4K Smart TV"
+  },
+  {
+   "brand": "SYLVANIA",
+   "name": "US",
+   "model": "4K Smart TV"
   }
  ],
  "RCT6873W42BMF8": [
@@ -148811,6 +148876,13 @@
    "model": "SUGAR T10"
   }
  ],
+ "v730_64": [
+  {
+   "brand": "Sugar",
+   "name": "SUGAR T20",
+   "model": "SUGAR T20"
+  }
+ ],
  "v830_64": [
   {
    "brand": "Sugar",
@@ -149989,6 +150061,11 @@
    "brand": "TCL",
    "name": "TCL 10 SE",
    "model": "T766H_EEA"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL 10 SE",
+   "model": "T766U"
   }
  ],
  "T1_LITE": [
@@ -156415,6 +156492,11 @@
   {
    "brand": "TCT (Alcatel)",
    "name": "alcatel 3T8",
+   "model": "9032T"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "alcatel 3T8",
    "model": "9032X_EEA"
   }
  ],
@@ -156450,6 +156532,11 @@
    "brand": "TCT (Alcatel)",
    "name": "smart tab 7",
    "model": "8051_RU"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "smart tab 7",
+   "model": "8051_TR"
   }
  ],
  "FERMI_TF": [
@@ -161193,6 +161280,13 @@
    "model": "Armor X7"
   }
  ],
+ "Armor_X7_Pro": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor X7 Pro",
+   "model": "Armor X7 Pro"
+  }
+ ],
  "Armor_3": [
   {
    "brand": "Ulefone",
@@ -161564,6 +161658,18 @@
    "brand": "Umidigi",
    "name": "A7",
    "model": "A7"
+  }
+ ],
+ "A7_Pro": [
+  {
+   "brand": "Umidigi",
+   "name": "A7 Pro",
+   "model": "A7 Pro"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "A7 Pro EEA",
+   "model": "A7 Pro"
   }
  ],
  "One_Max": [
@@ -169510,6 +169616,13 @@
    "brand": "Wishtel",
    "name": "IRA07",
    "model": "IRA07"
+  }
+ ],
+ "IRA102017I": [
+  {
+   "brand": "Wishtel",
+   "name": "IRA102017I",
+   "model": "IRA102017I"
   }
  ],
  "IRAW7258": [

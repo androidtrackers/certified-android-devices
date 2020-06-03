@@ -13899,6 +13899,13 @@
    "model": "X Pro"
   }
  ],
+ "BlueTech": [
+  {
+   "device": "MID1016BT001",
+   "name": "MID1016BT001",
+   "model": "MID1016BT001"
+  }
+ ],
  "Bluebird": [
   {
    "device": "BM180",
@@ -24398,6 +24405,11 @@
    "model": "PX"
   },
   {
+   "device": "PX_Pro",
+   "name": "PX_Pro",
+   "model": "PX_Pro"
+  },
+  {
    "device": "Soldier",
    "name": "Soldier",
    "model": "Soldier"
@@ -33924,6 +33936,16 @@
    "device": "htc_zddugl",
    "name": "HTC Desire 19s",
    "model": "HTC Desire 19s"
+  },
+  {
+   "device": "htc_bymdugl",
+   "name": "HTC Desire 20 Pro",
+   "model": "HTC 2Q9J10000"
+  },
+  {
+   "device": "htc_bymdugl",
+   "name": "HTC Desire 20 Pro",
+   "model": "HTC Desire 20 Pro"
   },
   {
    "device": "htc_a3ul",
@@ -70244,6 +70266,21 @@
    "device": "M3SL10",
    "name": "M3SL10",
    "model": "M3SL10"
+  },
+  {
+   "device": "M3UL20F",
+   "name": "M3UL20F_EEA",
+   "model": "M3UL20F"
+  },
+  {
+   "device": "M3UL20W",
+   "name": "M3UL20W_EEA",
+   "model": "M3UL20W"
+  },
+  {
+   "device": "M3UL20X",
+   "name": "M3UL20X_EEA",
+   "model": "M3UL20X"
   }
  ],
  "M4tel": [
@@ -81458,6 +81495,13 @@
    "device": "H26-VSN",
    "name": "V.45",
    "model": "V.45"
+  }
+ ],
+ "Nextgear": [
+  {
+   "device": "Nextgear_n1",
+   "name": "Nextgear n1",
+   "model": "Nextgear n1"
   }
  ],
  "Nikon": [
@@ -93569,6 +93613,11 @@
    "model": "2K Smart TV"
   },
   {
+   "device": "gangbyeon",
+   "name": "US",
+   "model": "4K Smart TV"
+  },
+  {
    "device": "RCT6873W42BMF8",
    "name": "Voyager",
    "model": "RCT6873W42BMF8"
@@ -95971,6 +96020,11 @@
    "device": "SLTDVD9220-C",
    "name": "SLTDVD9220_C",
    "model": "SLTDVD9220-C"
+  },
+  {
+   "device": "gangbyeon",
+   "name": "US",
+   "model": "4K Smart TV"
   }
  ],
  "Safaricom": [
@@ -111637,6 +111691,11 @@
  ],
  "Soniq": [
   {
+   "device": "hanyang",
+   "name": "Australia",
+   "model": "SONIQ Android TV"
+  },
+  {
    "device": "osaki",
    "name": "G32HW60A",
    "model": "2K AI Smart TV"
@@ -115322,6 +115381,11 @@
    "model": "SUGAR T10"
   },
   {
+   "device": "v730_64",
+   "name": "SUGAR T20",
+   "model": "SUGAR T20"
+  },
+  {
    "device": "v830_64",
    "name": "SUGAR T30",
    "model": "SUGAR T30"
@@ -116244,6 +116308,11 @@
    "device": "Oakland",
    "name": "TCL 10 SE",
    "model": "T766H_EEA"
+  },
+  {
+   "device": "Oakland",
+   "name": "TCL 10 SE",
+   "model": "T766U"
   },
   {
    "device": "T1_LITE",
@@ -122425,6 +122494,11 @@
   {
    "device": "Apollo_8_4G",
    "name": "alcatel 3T8",
+   "model": "9032T"
+  },
+  {
+   "device": "Apollo_8_4G",
+   "name": "alcatel 3T8",
    "model": "9032X_EEA"
   },
   {
@@ -122516,6 +122590,11 @@
    "device": "Hulk_7_GL_WIFI",
    "name": "smart tab 7",
    "model": "8051_RU"
+  },
+  {
+   "device": "Hulk_7_GL_WIFI",
+   "name": "smart tab 7",
+   "model": "8051_TR"
   },
   {
    "device": "Hulk_7_KIDS_WIFI",
@@ -126511,6 +126590,11 @@
    "model": "Armor X7"
   },
   {
+   "device": "Armor_X7_Pro",
+   "name": "Armor X7 Pro",
+   "model": "Armor X7 Pro"
+  },
+  {
    "device": "Armor_6",
    "name": "Armor6",
    "model": "Armor_6"
@@ -126858,6 +126942,16 @@
    "device": "A7_EEA",
    "name": "A7",
    "model": "A7"
+  },
+  {
+   "device": "A7_Pro",
+   "name": "A7 Pro",
+   "model": "A7 Pro"
+  },
+  {
+   "device": "A7_Pro",
+   "name": "A7 Pro EEA",
+   "model": "A7 Pro"
   },
   {
    "device": "F1",
@@ -133472,6 +133566,11 @@
    "device": "IRA07",
    "name": "IRA07",
    "model": "IRA07"
+  },
+  {
+   "device": "IRA102017I",
+   "name": "IRA102017I",
+   "model": "IRA102017I"
   },
   {
    "device": "IRAW7258",

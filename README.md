@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-06-02
+Last sync is 2020-06-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2711,6 +2711,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bluboo|S8 Plus a|S8_plus_a|S8_plus_a|
 |Bluboo|S8a|BLUBOO_S8a|S8a|
 |Bluboo|X Pro|X_Pro|X Pro|
+|BlueTech|MID1016BT001|MID1016BT001|MID1016BT001|
 |Bluebird|BM180|BM180|BM180|
 |Bluebird|EF400|EF400|EF400|
 |Bluebird|EF401|EF401|EF401|
@@ -4712,6 +4713,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Elephone|P8 3D|P8_3D|P8_3D|
 |Elephone|P8 Max|P8_Max|P8_Max|
 |Elephone|PX|PX|PX|
+|Elephone|PX_Pro|PX_Pro|PX_Pro|
 |Elephone|Soldier|Soldier|Soldier|
 |Elephone|U|Elephone_U|U|
 |Elephone|U2|U2|U2|
@@ -6548,6 +6550,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HTC|HTC 5G Hub|htc_rtxspcs|HTC 5G Hub|
 |HTC|HTC Desire 19s|htc_zddugl|2Q8L10000|
 |HTC|HTC Desire 19s|htc_zddugl|HTC Desire 19s|
+|HTC|HTC Desire 20 Pro|htc_bymdugl|HTC 2Q9J10000|
+|HTC|HTC Desire 20 Pro|htc_bymdugl|HTC Desire 20 Pro|
 |HTC|HTC Desire 610|htc_a3ul|HTC Desire 610|
 |HTC|HTC Desire 628 dual sim|htc_v36bml_dugl|HTC 2PVG2|
 |HTC|HTC Desire 628 dual sim|htc_v36bml_dugl|HTC Desire 628 dual sim|
@@ -13708,6 +13712,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M3 Mobile|M3 UL20X|M3UL20X|M3UL20X|
 |M3 Mobile|M3-SL10|M3-SL10|M3-SL10|
 |M3 Mobile|M3SL10|M3SL10|M3SL10|
+|M3 Mobile|M3UL20F_EEA|M3UL20F|M3UL20F|
+|M3 Mobile|M3UL20W_EEA|M3UL20W|M3UL20W|
+|M3 Mobile|M3UL20X_EEA|M3UL20X|M3UL20X|
 |M4tel|M4 B1|M4_B1|M4_B1|
 |M4tel|M4 B2|M4_B2|M4_B2|
 |M4tel|M4 B3|M4_B3|M4_B3|
@@ -15880,6 +15887,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nextel|V.35|up11_vsn_h1_single|Nextel V.35|
 |Nextel|V.45|H26-VSN|NII Nextel|
 |Nextel|V.45|H26-VSN|V.45|
+|Nextgear|Nextgear n1|Nextgear_n1|Nextgear n1|
 |Nikon|COOLPIX|S800c|COOLPIX S800c|
 |Nikon|COOLPIX S810c|s810c|COOLPIX S810c|
 |Nixon|The Mission|sculpin|The Mission|
@@ -18237,6 +18245,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|RLTP5573|RLTP5573|RLTP5573|
 |RCA|RS43F2-EU|osaki|2K AI Smart TV|
 |RCA|RTA3201|kanda|2K Smart TV|
+|RCA|US|gangbyeon|4K Smart TV|
 |RCA|Voyager|RCT6873W42BMF8|RCT6873W42BMF8|
 |RCA|Voyager|RCT6873W42BMF9E|RCT6873W42BMF9E|
 |RCA|Voyager III|RCT6973MDN|RCT6973MDN|
@@ -18687,6 +18696,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SUPERSONIC|TAB7091|TAB7091|TAB7091|
 |SYLVANIA|SL321AN|kanda|2K Smart TV|
 |SYLVANIA|SLTDVD9220_C|SLTDVD9220-C|SLTDVD9220-C|
+|SYLVANIA|US|gangbyeon|4K Smart TV|
 |Safaricom|NEON LITE|NEON_LITE|NEON LITE|
 |Safaricom|NEON PLUS|NEON_PLUS|NEON PLUS|
 |Safaricom|NEON_NOVA|NEON_NOVA|NEON_NOVA|
@@ -21791,6 +21801,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sonimtech|XP7700Z1|XP7700Z1|Smart-Ex 01|
 |Sonimtech|XP7705|XP7705|XP7700|
 |Sonimtech|XP8|XP8800|XP8800|
+|Soniq|Australia|hanyang|SONIQ Android TV|
 |Soniq|G32HW60A|osaki|2K AI Smart TV|
 |Soniq|PT0719A|PT0719A|PT0719A|
 |Soniq|PT1019A|PT1019A|PT1019A|
@@ -22518,6 +22529,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sugar|SUGAR S20|x600as_hk|SUGAR S20|
 |Sugar|SUGAR S20s|x600as|SUGAR S20s|
 |Sugar|SUGAR T10|p312cs_tw|SUGAR T10|
+|Sugar|SUGAR T20|v730_64|SUGAR T20|
 |Sugar|SUGAR T30|v830_64|SUGAR T30|
 |Sugar|SUGAR Y12|p101bs|SUGAR Y12|
 |Sugar|SUGAR Y12s|SUGAR_Y12s|SUGAR Y12s|
@@ -22692,6 +22704,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 10 Pro|T1_PRO|T799B|
 |TCL|TCL 10 Pro|T1_PRO|T799H|
 |TCL|TCL 10 SE|Oakland|T766H_EEA|
+|TCL|TCL 10 SE|Oakland|T766U|
 |TCL|TCL 10L|T1_LITE|T770B|
 |TCL|TCL 10L|T1_LITE|T770H|
 |TCL|TCL C5|A3A|5152D|
@@ -23927,6 +23940,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|alcatel 1X|Edison|5008Y|
 |TCT (Alcatel)|alcatel 1X|Edison|5008Y_EEA|
 |TCT (Alcatel)|alcatel 1X|Edison|5008Y_RU|
+|TCT (Alcatel)|alcatel 3T8|Apollo_8_4G|9032T|
 |TCT (Alcatel)|alcatel 3T8|Apollo_8_4G|9032X_EEA|
 |TCT (Alcatel)|alcatel PIXI 4 (5.5)|PIXI4_55_3G|5012D|
 |TCT (Alcatel)|alcatel PIXI 4 (5.5)|PIXI4_55_3G|5012F|
@@ -23946,6 +23960,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|smart tab 7|Hulk_7_GL_WIFI|8051|
 |TCT (Alcatel)|smart tab 7|Hulk_7_GL_WIFI|8051_EEA|
 |TCT (Alcatel)|smart tab 7|Hulk_7_GL_WIFI|8051_RU|
+|TCT (Alcatel)|smart tab 7|Hulk_7_GL_WIFI|8051_TR|
 |TCT (Alcatel)|smart tab 7|Hulk_7_KIDS_WIFI|8052|
 |TCT (Alcatel)|smart tab 7|Hulk_7_KIDS_WIFI|8052_EEA|
 |TCT (Alcatel)|smart tab 7|Hulk_7_KIDS_WIFI|8052_RU|
@@ -24697,6 +24712,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor X5|Armor_X5_Q|Armor X5|
 |Ulefone|Armor X5 Q|Armor_X5_Q|Armor X5|
 |Ulefone|Armor X7|Armor_X7_Q|Armor X7|
+|Ulefone|Armor X7 Pro|Armor_X7_Pro|Armor X7 Pro|
 |Ulefone|Armor6|Armor_6|Armor_6|
 |Ulefone|Armor_3|Armor_3|Armor_3|
 |Ulefone|Armor_3W|Armor_3W|Armor_3W|
@@ -24766,6 +24782,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|A5 Pro|A5_Pro|A5_Pro|
 |Umidigi|A7|A7|A7|
 |Umidigi|A7|A7_EEA|A7|
+|Umidigi|A7 Pro|A7_Pro|A7 Pro|
+|Umidigi|A7 Pro EEA|A7_Pro|A7 Pro|
 |Umidigi|F1|F1|F1|
 |Umidigi|F1_EEA|F1|F1|
 |Umidigi|F2|F2|F2|
@@ -26040,6 +26058,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wishtel|102017|102017|102017|
 |Wishtel|IRA|IRA|IRAI1705|
 |Wishtel|IRA07|IRA07|IRA07|
+|Wishtel|IRA102017I|IRA102017I|IRA102017I|
 |Wishtel|IRAW7258|IRAW7258|IRAW7258|
 |Wishtel|IRAW801|IRAW801|IRAW801|
 |Wishtel|IRA_DUO|IRA_DUO|IRA_DUO|
