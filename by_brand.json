@@ -12268,6 +12268,11 @@
    "model": "BV5500Plus"
   },
   {
+   "device": "BV5500Plus",
+   "name": "BV5500Plus",
+   "model": "BV5500Plus"
+  },
+  {
    "device": "BV5500Pro",
    "name": "BV5500Pro",
    "model": "BV5500Pro"
@@ -31971,6 +31976,13 @@
    "model": "HP Slate 7 Voice Tab"
   }
  ],
+ "HRSolutions": [
+  {
+   "device": "HRS2000",
+   "name": "HRS2000",
+   "model": "HRS2000"
+  }
+ ],
  "HTC": [
   {
    "device": "express",
@@ -48539,6 +48551,13 @@
    "device": "HWMLA",
    "name": "麦芒5",
    "model": "MLA-AL10"
+  }
+ ],
+ "Hublot": [
+  {
+   "device": "halibut",
+   "name": "Hublot Big Bang e",
+   "model": "Big Bang e"
   }
  ],
  "HumaxDigital": [
@@ -112006,6 +112025,11 @@
    "device": "I4293",
    "name": "Xperia 10 Plus",
    "model": "I4293"
+  },
+  {
+   "device": "SOV43",
+   "name": "Xperia 10II",
+   "model": "SOV43"
   },
   {
    "device": "901SO",

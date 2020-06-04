@@ -17631,6 +17631,11 @@
    "brand": "Blackview",
    "name": "BV5500PLUS",
    "device": "BV5500Plus"
+  },
+  {
+   "brand": "Blackview",
+   "name": "BV5500Plus",
+   "device": "BV5500Plus"
   }
  ],
  "BV5500Pro": [
@@ -44527,6 +44532,13 @@
    "device": "balsa"
   }
  ],
+ "HRS2000": [
+  {
+   "brand": "HRSolutions",
+   "name": "HRS2000",
+   "device": "HRS2000"
+  }
+ ],
  "HTC Flyer": [
   {
    "brand": "HTC",
@@ -66612,6 +66624,13 @@
    "brand": "Huawei",
    "name": "麦芒5",
    "device": "HWMLA"
+  }
+ ],
+ "Big Bang e": [
+  {
+   "brand": "Hublot",
+   "name": "Hublot Big Bang e",
+   "device": "halibut"
   }
  ],
  "Descodificador Orange TV": [
@@ -149475,6 +149494,13 @@
    "brand": "Sony",
    "name": "Xperia 10 Plus",
    "device": "I4293"
+  }
+ ],
+ "SOV43": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10II",
+   "device": "SOV43"
   }
  ],
  "901SO": [

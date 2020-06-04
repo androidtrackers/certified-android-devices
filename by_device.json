@@ -18202,6 +18202,11 @@
    "brand": "Blackview",
    "name": "BV5500PLUS",
    "model": "BV5500Plus"
+  },
+  {
+   "brand": "Blackview",
+   "name": "BV5500Plus",
+   "model": "BV5500Plus"
   }
  ],
  "BV5500Pro": [
@@ -45330,6 +45335,13 @@
    "model": "HP_10_Tablet"
   }
  ],
+ "HRS2000": [
+  {
+   "brand": "HRSolutions",
+   "name": "HRS2000",
+   "model": "HRS2000"
+  }
+ ],
  "express": [
   {
    "brand": "HTC",
@@ -64516,6 +64528,13 @@
    "brand": "Huawei",
    "name": "麦芒4",
    "model": "HUAWEI RIO-AL00"
+  }
+ ],
+ "halibut": [
+  {
+   "brand": "Hublot",
+   "name": "Hublot Big Bang e",
+   "model": "Big Bang e"
   }
  ],
  "b604tnw": [
@@ -144567,6 +144586,13 @@
    "brand": "Sony",
    "name": "Xperia 10 Plus",
    "model": "I4293"
+  }
+ ],
+ "SOV43": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10II",
+   "model": "SOV43"
   }
  ],
  "901SO": [

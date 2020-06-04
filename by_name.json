@@ -23400,6 +23400,13 @@
    "model": "BV5500Plus"
   }
  ],
+ "BV5500Plus": [
+  {
+   "brand": "Blackview",
+   "device": "BV5500Plus",
+   "model": "BV5500Plus"
+  }
+ ],
  "BV5500Pro": [
   {
    "brand": "Blackview",
@@ -50676,6 +50683,13 @@
    "model": "HP Slate 7 Voice Tab"
   }
  ],
+ "HRS2000": [
+  {
+   "brand": "HRSolutions",
+   "device": "HRS2000",
+   "model": "HRS2000"
+  }
+ ],
  "HTC One X9 dual sim": [
   {
    "brand": "HTC",
@@ -68601,6 +68615,13 @@
    "brand": "Huawei",
    "device": "HWMLA",
    "model": "MLA-AL10"
+  }
+ ],
+ "Hublot Big Bang e": [
+  {
+   "brand": "Hublot",
+   "device": "halibut",
+   "model": "Big Bang e"
   }
  ],
  "Descodificador Orange TV": [
@@ -142536,6 +142557,13 @@
    "brand": "Sony",
    "device": "I4293",
    "model": "I4293"
+  }
+ ],
+ "Xperia 10II": [
+  {
+   "brand": "Sony",
+   "device": "SOV43",
+   "model": "SOV43"
   }
  ],
  "Xperia 5": [

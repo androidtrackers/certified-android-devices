@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-06-03
+Last sync is 2020-06-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2386,6 +2386,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|BV4000Pro_RU|BV4000Pro|BV4000Pro-RU|
 |Blackview|BV5500|BV5500|BV5500|
 |Blackview|BV5500PLUS|BV5500Plus|BV5500Plus|
+|Blackview|BV5500Plus|BV5500Plus|BV5500Plus|
 |Blackview|BV5500Pro|BV5500Pro|BV5500Pro|
 |Blackview|BV5800|BV5800|BV5800|
 |Blackview|BV5800PRO|BV5800_PRO|BV5800 PRO|
@@ -6157,6 +6158,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HP|SlateBook 14|200a|HP SlateBook 14 PC|
 |HP|Tablet 10|balsa|HP_10_Tablet|
 |HP|Voice Tab 7|almond|HP Slate 7 Voice Tab|
+|HRSolutions|HRS2000|HRS2000|HRS2000|
 |HTC||express|HTC Flyer|
 |HTC||express|PG41200|
 |HTC||expresskt|HTC_P515E|
@@ -9453,6 +9455,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|麦芒5|HWMLA|HUAWEI MLA-AL10|
 |Huawei|麦芒5|HWMLA|MLA-AL00|
 |Huawei|麦芒5|HWMLA|MLA-AL10|
+|Hublot|Hublot Big Bang e|halibut|Big Bang e|
 |HumaxDigital|Descodificador Orange TV|b604tnw|Descodificador Orange TV|
 |HumaxDigital|H5_DLIVE|h5mini|H5_DLIVE|
 |HumaxDigital|TMAU400|tmau400|tmau400|
@@ -21864,6 +21867,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 10 Plus|I3223|I3223|
 |Sony|Xperia 10 Plus|I4213|I4213|
 |Sony|Xperia 10 Plus|I4293|I4293|
+|Sony|Xperia 10II|SOV43|SOV43|
 |Sony|Xperia 5|901SO|901SO|
 |Sony|Xperia 5|J8210|J8210|
 |Sony|Xperia 5|J8270|J8270|
