@@ -27513,6 +27513,11 @@
    "brand": "Camelus",
    "device": "TR-10HBT",
    "model": "L10"
+  },
+  {
+   "brand": "Pritom",
+   "device": "L10",
+   "model": "L10"
   }
  ],
  "L7": [
@@ -81598,6 +81603,13 @@
    "model": "LM-X320"
   }
  ],
+ "LG K31": [
+  {
+   "brand": "LGE",
+   "device": "mdh5lm",
+   "model": "LM-K300"
+  }
+ ],
  "LG K4": [
   {
    "brand": "LGE",
@@ -109872,6 +109884,13 @@
    "model": "CPH1909"
   }
  ],
+ "CPH2009": [
+  {
+   "brand": "Oppo",
+   "device": "OP4C2DL1",
+   "model": "CPH2009"
+  }
+ ],
  "F11": [
   {
    "brand": "Oppo",
@@ -109995,6 +110014,13 @@
    "brand": "Oppo",
    "device": "OP4BA1L1",
    "model": "CPH2023"
+  }
+ ],
+ "Find X2 Lite": [
+  {
+   "brand": "Oppo",
+   "device": "OP4C41L1",
+   "model": "CPH2005"
   }
  ],
  "Find X2 Pro": [
@@ -111043,6 +111069,11 @@
   }
  ],
  "Reno3 Pro": [
+  {
+   "brand": "Oppo",
+   "device": "OP4C2DL1",
+   "model": "CPH2009"
+  },
   {
    "brand": "Oppo",
    "device": "OP4C5FL1",
@@ -146432,13 +146463,6 @@
    "model": "SUGAR Y12s"
   }
  ],
- "SUGAR Y13s": [
-  {
-   "brand": "Sugar",
-   "device": "SUGAR_Y13s",
-   "model": "SUGAR Y13s"
-  }
- ],
  "SUGAR Y15": [
   {
    "brand": "Sugar",
@@ -147372,6 +147396,13 @@
    "brand": "TCL",
    "device": "U3A_PLUS_4G",
    "model": "5033E"
+  }
+ ],
+ "HotelTV": [
+  {
+   "brand": "TCL",
+   "device": "HotelTV",
+   "model": "WelcomeTV"
   }
  ],
  "L55E6700UDS": [

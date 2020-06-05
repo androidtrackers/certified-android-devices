@@ -21468,6 +21468,11 @@
    "device": "TR-10HBT"
   },
   {
+   "brand": "Pritom",
+   "name": "L10",
+   "device": "L10"
+  },
+  {
    "brand": "Southern Telecom",
    "name": "Polaroid L10/P1000",
    "device": "L10"
@@ -81445,6 +81450,13 @@
    "device": "mh5lm-8m"
   }
  ],
+ "LM-K300": [
+  {
+   "brand": "LGE",
+   "name": "LG K31",
+   "device": "mdh5lm"
+  }
+ ],
  "LG-K120GT": [
   {
    "brand": "LGE",
@@ -112488,6 +112500,18 @@
    "device": "CPH1909"
   }
  ],
+ "CPH2009": [
+  {
+   "brand": "Oppo",
+   "name": "CPH2009",
+   "device": "OP4C2DL1"
+  },
+  {
+   "brand": "Oppo",
+   "name": "Reno3 Pro",
+   "device": "OP4C2DL1"
+  }
+ ],
  "CPH1911": [
   {
    "brand": "Oppo",
@@ -112661,6 +112685,13 @@
    "brand": "Oppo",
    "name": "Find X2",
    "device": "OP4BA1L1"
+  }
+ ],
+ "CPH2005": [
+  {
+   "brand": "Oppo",
+   "name": "Find X2 Lite",
+   "device": "OP4C41L1"
   }
  ],
  "CPH2025": [
@@ -153735,13 +153766,6 @@
    "device": "SUGAR_Y12s"
   }
  ],
- "SUGAR Y13s": [
-  {
-   "brand": "Sugar",
-   "name": "SUGAR Y13s",
-   "device": "SUGAR_Y13s"
-  }
- ],
  "SUGAR Y15": [
   {
    "brand": "Sugar",
@@ -154724,6 +154748,13 @@
    "brand": "TCL",
    "name": "GO5c",
    "device": "U3A_PLUS_4G"
+  }
+ ],
+ "WelcomeTV": [
+  {
+   "brand": "TCL",
+   "name": "HotelTV",
+   "device": "HotelTV"
   }
  ],
  "movo_la": [

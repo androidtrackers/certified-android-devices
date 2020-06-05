@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-06-04
+Last sync is 2020-06-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11614,6 +11614,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG K30|mcv3|LM-X410PM|
 |LGE|LG K30|mh5lm-8m|LGL322DL|
 |LGE|LG K30|mh5lm-8m|LM-X320|
+|LGE|LG K31|mdh5lm|LM-K300|
 |LGE|LG K4|e1q|LG-K120GT|
 |LGE|LG K4|e1q|LG-K121|
 |LGE|LG K4|e1q|VS425|
@@ -16378,6 +16379,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|CPH1893RU|CPH1893|CPH1893|
 |Oppo|CPH1903|CPH1903|CPH1903|
 |Oppo|CPH1909|CPH1909|CPH1909|
+|Oppo|CPH2009|OP4C2DL1|CPH2009|
 |Oppo|F11|OP4883|CPH1911|
 |Oppo|F11|OP4883|CPH1913|
 |Oppo|F11|OP4883|CPH1915|
@@ -16402,6 +16404,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Find X|PAFT00|PAFT00|
 |Oppo|Find X 兰博基尼|PAHM00|PAHM00|
 |Oppo|Find X2|OP4BA1L1|CPH2023|
+|Oppo|Find X2 Lite|OP4C41L1|CPH2005|
 |Oppo|Find X2 Pro|OP4BA2L1|CPH2025|
 |Oppo|Find X2 Pro|OP4BA2L1|OPG01|
 |Oppo|Find X2 Pro 中国版|OP4A7A|PDEM30|
@@ -16574,6 +16577,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno2 Z 中国版|OP4A43|PCKM80|
 |Oppo|Reno3|OP4B9EL1|CPH2043|
 |Oppo|Reno3 5G 中国版|OP4ADD|PDCM00|
+|Oppo|Reno3 Pro|OP4C2DL1|CPH2009|
 |Oppo|Reno3 Pro|OP4C5FL1|CPH2035|
 |Oppo|Reno3 Pro|OP4C5FL1|CPH2036|
 |Oppo|Reno3 Pro|OP4C5FL1|CPH2037|
@@ -17897,6 +17901,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prince Mobile|PC9|PC9|PC9|
 |Prism|Korea|sindorim|AI PONT|
 |Pritom|K7|K7|K7|
+|Pritom|L10|L10|L10|
 |Pritom|P7PRO|P7PRO|P7PRO|
 |Pritom|P7PRO_EEA|P7PRO_EEA|P7PRO_EEA|
 |Pritom|USA|M10|M10 Pro|
@@ -22537,7 +22542,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sugar|SUGAR T30|v830_64|SUGAR T30|
 |Sugar|SUGAR Y12|p101bs|SUGAR Y12|
 |Sugar|SUGAR Y12s|SUGAR_Y12s|SUGAR Y12s|
-|Sugar|SUGAR Y13s|SUGAR_Y13s|SUGAR Y13s|
 |Sugar|SUGAR Y15|p201as|SUGAR Y15|
 |Sugar|SUGAR Y16|SUGAR_Y16|SUGAR Y16|
 |Sugar|SUGAR_P11|SUGAR_P11|SUGAR_P11|
@@ -22692,6 +22696,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|BeyondTV5|BeyondTV|BeyondTV5|
 |TCL|C9|A3A_XL_4G|5199I|
 |TCL|GO5c|U3A_PLUS_4G|5033E|
+|TCL|HotelTV|HotelTV|WelcomeTV|
 |TCL|L55E6700UDS|movo_la|movo_la|
 |TCL|LE50UHDE5692G|movo|movo|
 |TCL|LT10|U3A_10_WIFI|8182|

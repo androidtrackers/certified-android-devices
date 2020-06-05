@@ -78938,6 +78938,13 @@
    "model": "LML414DL"
   }
  ],
+ "mdh5lm": [
+  {
+   "brand": "LGE",
+   "name": "LG K31",
+   "model": "LM-K300"
+  }
+ ],
  "e1q": [
   {
    "brand": "LGE",
@@ -108922,6 +108929,18 @@
    "model": "CPH1909"
   }
  ],
+ "OP4C2DL1": [
+  {
+   "brand": "Oppo",
+   "name": "CPH2009",
+   "model": "CPH2009"
+  },
+  {
+   "brand": "Oppo",
+   "name": "Reno3 Pro",
+   "model": "CPH2009"
+  }
+ ],
  "OP4883": [
   {
    "brand": "Oppo",
@@ -109085,6 +109104,13 @@
    "brand": "Oppo",
    "name": "Find X2",
    "model": "CPH2023"
+  }
+ ],
+ "OP4C41L1": [
+  {
+   "brand": "Oppo",
+   "name": "Find X2 Lite",
+   "model": "CPH2005"
   }
  ],
  "OP4BA2L1": [
@@ -118855,6 +118881,18 @@
    "brand": "Prince Mobile",
    "name": "PC9",
    "model": "PC9"
+  }
+ ],
+ "L10": [
+  {
+   "brand": "Pritom",
+   "name": "L10",
+   "model": "L10"
+  },
+  {
+   "brand": "Southern Telecom",
+   "name": "Polaroid L10/P1000",
+   "model": "L10"
   }
  ],
  "P7PRO": [
@@ -147705,13 +147743,6 @@
    "model": "PDT9000"
   }
  ],
- "L10": [
-  {
-   "brand": "Southern Telecom",
-   "name": "Polaroid L10/P1000",
-   "model": "L10"
-  }
- ],
  "P700": [
   {
    "brand": "Southern Telecom",
@@ -148930,13 +148961,6 @@
    "model": "SUGAR Y12s"
   }
  ],
- "SUGAR_Y13s": [
-  {
-   "brand": "Sugar",
-   "name": "SUGAR Y13s",
-   "model": "SUGAR Y13s"
-  }
- ],
  "p201as": [
   {
    "brand": "Sugar",
@@ -149989,6 +150013,13 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1",
    "model": "Orange Rise 54_Alcatel_5033D"
+  }
+ ],
+ "HotelTV": [
+  {
+   "brand": "TCL",
+   "name": "HotelTV",
+   "model": "WelcomeTV"
   }
  ],
  "movo_la": [

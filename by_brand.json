@@ -59660,6 +59660,11 @@
    "model": "LM-X320"
   },
   {
+   "device": "mdh5lm",
+   "name": "LG K31",
+   "model": "LM-K300"
+  },
+  {
    "device": "e1q",
    "name": "LG K4",
    "model": "LG-K120GT"
@@ -84072,6 +84077,11 @@
    "model": "CPH1909"
   },
   {
+   "device": "OP4C2DL1",
+   "name": "CPH2009",
+   "model": "CPH2009"
+  },
+  {
    "device": "OP4883",
    "name": "F11",
    "model": "CPH1911"
@@ -84190,6 +84200,11 @@
    "device": "OP4BA1L1",
    "name": "Find X2",
    "model": "CPH2023"
+  },
+  {
+   "device": "OP4C41L1",
+   "name": "Find X2 Lite",
+   "model": "CPH2005"
   },
   {
    "device": "OP4BA2L1",
@@ -85050,6 +85065,11 @@
    "device": "OP4ADD",
    "name": "Reno3 5G 中国版",
    "model": "PDCM00"
+  },
+  {
+   "device": "OP4C2DL1",
+   "name": "Reno3 Pro",
+   "model": "CPH2009"
   },
   {
    "device": "OP4C5FL1",
@@ -91821,6 +91841,11 @@
    "device": "K7",
    "name": "K7",
    "model": "K7"
+  },
+  {
+   "device": "L10",
+   "name": "L10",
+   "model": "L10"
   },
   {
    "device": "P7PRO",
@@ -115425,11 +115450,6 @@
    "model": "SUGAR Y12s"
   },
   {
-   "device": "SUGAR_Y13s",
-   "name": "SUGAR Y13s",
-   "model": "SUGAR Y13s"
-  },
-  {
    "device": "p201as",
    "name": "SUGAR Y15",
    "model": "SUGAR Y15"
@@ -116252,6 +116272,11 @@
    "device": "U3A_PLUS_4G",
    "name": "GO5c",
    "model": "5033E"
+  },
+  {
+   "device": "HotelTV",
+   "name": "HotelTV",
+   "model": "WelcomeTV"
   },
   {
    "device": "movo_la",
