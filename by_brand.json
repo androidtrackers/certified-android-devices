@@ -116364,6 +116364,11 @@
    "model": "T766U"
   },
   {
+   "device": "Oakland",
+   "name": "TCL 10 SE",
+   "model": "T766U_EEA"
+  },
+  {
    "device": "T1_LITE",
    "name": "TCL 10L",
    "model": "T770B"

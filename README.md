@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-06-05
+Last sync is 2020-06-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -22714,6 +22714,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 10 Pro|T1_PRO|T799H|
 |TCL|TCL 10 SE|Oakland|T766H_EEA|
 |TCL|TCL 10 SE|Oakland|T766U|
+|TCL|TCL 10 SE|Oakland|T766U_EEA|
 |TCL|TCL 10L|T1_LITE|T770B|
 |TCL|TCL 10L|T1_LITE|T770H|
 |TCL|TCL C5|A3A|5152D|
