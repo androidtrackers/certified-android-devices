@@ -6539,6 +6539,13 @@
    "model": "Z600"
   }
  ],
+ "Ashtel": [
+  {
+   "device": "RAVOZ_Z5_Lite",
+   "name": "RAVOZ Z5 Lite",
+   "model": "RAVOZ Z5 Lite"
+  }
+ ],
  "Asianet": [
   {
    "device": "D8109N",
@@ -26169,6 +26176,13 @@
    "device": "GK738_3G",
    "name": "GK738_3G",
    "model": "GK738_3G"
+  }
+ ],
+ "FELUX": [
+  {
+   "device": "LUXE_3",
+   "name": "LUXE 3",
+   "model": "LUXE 3"
   }
  ],
  "FFFSMARTLIFE": [
@@ -58090,6 +58104,11 @@
    "model": "LM-X540"
   },
   {
+   "device": "mdh30xlm",
+   "name": "K51",
+   "model": "LM-K500"
+  },
+  {
    "device": "mdh35lm",
    "name": "K51S",
    "model": "LM-K510"
@@ -83215,6 +83234,11 @@
    "model": "ONA19TB003"
   },
   {
+   "device": "ONA19TB007",
+   "name": "ONA19TB007",
+   "model": "ONA19TB007"
+  },
+  {
    "device": "TBBVNC100005207",
    "name": "TBBVNC100005207",
    "model": "TBBVNC100005207"
@@ -96744,6 +96768,11 @@
    "model": "SM-A207M"
   },
   {
+   "device": "a21",
+   "name": "Galaxy A21",
+   "model": "SM-A215U"
+  },
+  {
    "device": "a21s",
    "name": "Galaxy A21s",
    "model": "SM-A217F"
@@ -97284,6 +97313,16 @@
    "model": "SM-A516N"
   },
   {
+   "device": "a51x",
+   "name": "Galaxy A51 5G",
+   "model": "SM-A516U"
+  },
+  {
+   "device": "a51x",
+   "name": "Galaxy A51 5G",
+   "model": "SM-A516U1"
+  },
+  {
    "device": "a6elteaio",
    "name": "Galaxy A6",
    "model": "SM-A600AZ"
@@ -97582,6 +97621,11 @@
    "device": "a71xq",
    "name": "Galaxy A71 5G",
    "model": "SM-A716U"
+  },
+  {
+   "device": "a71xq",
+   "name": "Galaxy A71 5G",
+   "model": "SM-A716V"
   },
   {
    "device": "SCV32",
@@ -106496,6 +106540,11 @@
   {
    "device": "gts6l",
    "name": "Galaxy Tab S6",
+   "model": "SM-T865N"
+  },
+  {
+   "device": "gts6l",
+   "name": "Galaxy Tab S6",
    "model": "SM-T867"
   },
   {
@@ -112022,6 +112071,11 @@
    "model": "A001SO"
   },
   {
+   "device": "SO-41A",
+   "name": "Xperia 10 II",
+   "model": "SO-41A"
+  },
+  {
    "device": "XQ-AU51",
    "name": "Xperia 10 II",
    "model": "XQ-AU51"
@@ -116001,6 +116055,11 @@
    "model": "Z15"
   },
   {
+   "device": "Z16",
+   "name": "Z16",
+   "model": "Z16"
+  },
+  {
    "device": "Z20",
    "name": "Z20",
    "model": "Z20"
@@ -116009,6 +116068,11 @@
    "device": "Z25",
    "name": "Z25",
    "model": "Z25"
+  },
+  {
+   "device": "Z28",
+   "name": "Z28",
+   "model": "Z28"
   },
   {
    "device": "Z30",
@@ -119754,6 +119818,11 @@
    "device": "Jakarta",
    "name": "Alcatel 1SE",
    "model": "5030D_RU"
+  },
+  {
+   "device": "Jakarta",
+   "name": "Alcatel 1SE",
+   "model": "5030E"
   },
   {
    "device": "Jakarta",
@@ -129510,6 +129579,11 @@
    "device": "Point_X2",
    "name": "Point_X2",
    "model": "Point_X2"
+  },
+  {
+   "device": "Point_X503",
+   "name": "Point_X503",
+   "model": "Point_X503"
   },
   {
    "device": "TPC-102_4G",

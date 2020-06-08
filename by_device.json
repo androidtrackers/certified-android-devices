@@ -10333,6 +10333,13 @@
    "model": "Z600"
   }
  ],
+ "RAVOZ_Z5_Lite": [
+  {
+   "brand": "Ashtel",
+   "name": "RAVOZ Z5 Lite",
+   "model": "RAVOZ Z5 Lite"
+  }
+ ],
  "D8109N": [
   {
    "brand": "Asianet",
@@ -37532,6 +37539,13 @@
    "brand": "FCC Movil",
    "name": "GK738_3G",
    "model": "GK738_3G"
+  }
+ ],
+ "LUXE_3": [
+  {
+   "brand": "FELUX",
+   "name": "LUXE 3",
+   "model": "LUXE 3"
   }
  ],
  "FFFTAB10": [
@@ -77046,6 +77060,13 @@
    "model": "LM-X540"
   }
  ],
+ "mdh30xlm": [
+  {
+   "brand": "LGE",
+   "name": "K51",
+   "model": "LM-K500"
+  }
+ ],
  "mdh35lm": [
   {
    "brand": "LGE",
@@ -107946,6 +107967,13 @@
    "model": "ONA19TB003"
   }
  ],
+ "ONA19TB007": [
+  {
+   "brand": "Onn (Walmart)",
+   "name": "ONA19TB007",
+   "model": "ONA19TB007"
+  }
+ ],
  "TBBVNC100005207": [
   {
    "brand": "Onn (Walmart)",
@@ -124986,6 +125014,13 @@
    "model": "SM-A207M"
   }
  ],
+ "a21": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A21",
+   "model": "SM-A215U"
+  }
+ ],
  "a21s": [
   {
    "brand": "Samsung",
@@ -125560,6 +125595,16 @@
    "brand": "Samsung",
    "name": "Galaxy A51 5G",
    "model": "SM-A516N"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A51 5G",
+   "model": "SM-A516U"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A51 5G",
+   "model": "SM-A516U1"
   }
  ],
  "a6elteaio": [
@@ -125928,6 +125973,11 @@
    "brand": "Samsung",
    "name": "Galaxy A71 5G",
    "model": "SM-A716U"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A71 5G",
+   "model": "SM-A716V"
   }
  ],
  "SCV32": [
@@ -137561,6 +137611,11 @@
   {
    "brand": "Samsung",
    "name": "Galaxy Tab S6",
+   "model": "SM-T865N"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S6",
    "model": "SM-T867"
   },
   {
@@ -144584,6 +144639,13 @@
    "model": "A001SO"
   }
  ],
+ "SO-41A": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 II",
+   "model": "SO-41A"
+  }
+ ],
  "XQ-AU51": [
   {
    "brand": "Sony",
@@ -149577,11 +149639,25 @@
    "model": "Z15"
   }
  ],
+ "Z16": [
+  {
+   "brand": "Symphony",
+   "name": "Z16",
+   "model": "Z16"
+  }
+ ],
  "Z20": [
   {
    "brand": "Symphony",
    "name": "Z20",
    "model": "Z20"
+  }
+ ],
+ "Z28": [
+  {
+   "brand": "Symphony",
+   "name": "Z28",
+   "model": "Z28"
   }
  ],
  "Z30": [
@@ -150412,6 +150488,11 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1SE",
    "model": "5030D_RU"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1SE",
+   "model": "5030E"
   },
   {
    "brand": "TCT (Alcatel)",
@@ -164586,6 +164667,13 @@
    "brand": "Vivax",
    "name": "Point_X2",
    "model": "Point_X2"
+  }
+ ],
+ "Point_X503": [
+  {
+   "brand": "Vivax",
+   "name": "Point_X503",
+   "model": "Point_X503"
   }
  ],
  "TPC-102_4G": [

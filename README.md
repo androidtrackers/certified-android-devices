@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-06-07
+Last sync is 2020-06-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1271,6 +1271,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ashna|X55|X55|X55|
 |Ashna|X66|X66|X66|
 |Ashna|Z600|Z600|Z600|
+|Ashtel|RAVOZ Z5 Lite|RAVOZ_Z5_Lite|RAVOZ Z5 Lite|
 |Asianet|D8109N|D8109N|D8109N|
 |Aspera|A45|A45|A45|
 |Aspera|A4G|A4G|A4G|
@@ -5047,6 +5048,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FBC|M24IS810|MX24|TDA02|
 |FBC|M24IS820|fst01ms|M24IS820|
 |FCC Movil|GK738_3G|GK738_3G|GK738_3G|
+|FELUX|LUXE 3|LUXE_3|LUXE 3|
 |FFFSMARTLIFE|FFFTAB10|FFFTAB10|FFFTAB10|
 |FFFSMARTLIFE|FFFTAB7|FFFTAB7|FFFTAB7|
 |FIREFLY MOBILE|AURII_AMUSE_3G|AURII_AMUSE_3G|AURII_AMUSE_3G|
@@ -11300,6 +11302,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|K4 (2017)|lv1|LGL157BL|
 |LGE|K4 (2017)|lv1|LGL57BL|
 |LGE|K50S|mmh45lm|LM-X540|
+|LGE|K51|mdh30xlm|LM-K500|
 |LGE|K51S|mdh35lm|LM-K510|
 |LGE|K61|mdh40lm|LM-Q630|
 |LGE|L Bello|luv80ds|LG-D335|
@@ -16209,6 +16212,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Onn (Walmart)|100005209|100005209|100005209|
 |Onn (Walmart)|ONA19TB002|ONA19TB002|ONA19TB002|
 |Onn (Walmart)|ONA19TB003|ONA19TB003|ONA19TB003|
+|Onn (Walmart)|ONA19TB007|ONA19TB007|ONA19TB007|
 |Onn (Walmart)|TBBVNC100005207|TBBVNC100005207|TBBVNC100005207|
 |Onn (Walmart)|TBBVNC100005208|TBBVNC100005208|TBBVNC100005208|
 |Onn (Walmart)|TBBVNC100005209|TBBVNC100005209|TBBVNC100005209|
@@ -18838,6 +18842,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A20s|a20s|SM-A2070|
 |Samsung|Galaxy A20s|a20s|SM-A207F|
 |Samsung|Galaxy A20s|a20s|SM-A207M|
+|Samsung|Galaxy A21|a21|SM-A215U|
 |Samsung|Galaxy A21s|a21s|SM-A217F|
 |Samsung|Galaxy A21s|a21s|SM-A217M|
 |Samsung|Galaxy A21s|a21s|SM-A217N|
@@ -18946,6 +18951,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A51 5G|a51x|SM-A5160|
 |Samsung|Galaxy A51 5G|a51x|SM-A516B|
 |Samsung|Galaxy A51 5G|a51x|SM-A516N|
+|Samsung|Galaxy A51 5G|a51x|SM-A516U|
+|Samsung|Galaxy A51 5G|a51x|SM-A516U1|
 |Samsung|Galaxy A6|a6elteaio|SM-A600AZ|
 |Samsung|Galaxy A6|a6elteatt|SM-A600A|
 |Samsung|Galaxy A6|a6eltemtr|SM-A600T1|
@@ -19006,6 +19013,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A71 5G|a71x|SM-A7160|
 |Samsung|Galaxy A71 5G|a71x|SM-A716B|
 |Samsung|Galaxy A71 5G|a71xq|SM-A716U|
+|Samsung|Galaxy A71 5G|a71xq|SM-A716V|
 |Samsung|Galaxy A8|SCV32|SCV32|
 |Samsung|Galaxy A8|a8elte|SM-A800F|
 |Samsung|Galaxy A8|a8elte|SM-A800YZ|
@@ -20788,6 +20796,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S5e|gts4lvwifi|SM-T720|
 |Samsung|Galaxy Tab S5e|gts4lvwifichn|SM-T720|
 |Samsung|Galaxy Tab S6|gts6l|SM-T865|
+|Samsung|Galaxy Tab S6|gts6l|SM-T865N|
 |Samsung|Galaxy Tab S6|gts6l|SM-T867|
 |Samsung|Galaxy Tab S6|gts6l|SM-T867R4|
 |Samsung|Galaxy Tab S6|gts6l|SM-T867U|
@@ -21866,6 +21875,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 10|I4113|I4113|
 |Sony|Xperia 10|I4193|I4193|
 |Sony|Xperia 10 II|A001SO|A001SO|
+|Sony|Xperia 10 II|SO-41A|SO-41A|
 |Sony|Xperia 10 II|XQ-AU51|XQ-AU51|
 |Sony|Xperia 10 II|XQ-AU52|XQ-AU52|
 |Sony|Xperia 10 Plus|I3213|I3213|
@@ -22645,8 +22655,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|V99+|V99plus|V99+|
 |Symphony|Z10|Z10|SYMPHONY Z10|
 |Symphony|Z15|Z15|Z15|
+|Symphony|Z16|Z16|Z16|
 |Symphony|Z20|Z20|Z20|
 |Symphony|Z25|Z25|Z25|
+|Symphony|Z28|Z28|Z28|
 |Symphony|Z30|Z30|Z30|
 |Symphony|ZVII|ZVII|ZVII|
 |Symphony|ZVIII|ZVIII|ZVIII|
@@ -23392,6 +23404,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030D|
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030D_EEA|
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030D_RU|
+|TCT (Alcatel)|Alcatel 1SE|Jakarta|5030E|
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030F|
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030F_EEA|
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030F_TR|
@@ -25268,6 +25281,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivax|FUN S20|FUN_S20|FUN_S20|
 |Vivax|Point X502|Point_X502|Point X502|
 |Vivax|Point_X2|Point_X2|Point_X2|
+|Vivax|Point_X503|Point_X503|Point_X503|
 |Vivax|TPC-102_4G_eea|TPC-102_4G|VIVAX TPC-102 4G|
 |Vivax|TPC-704-3G|TPC-704-3G|TPC-704-3G|
 |Vivax|TPC_8043G|TPC_8043G|TPC_8043G|
