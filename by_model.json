@@ -4107,6 +4107,11 @@
    "device": "samseong"
   },
   {
+   "brand": "Estla",
+   "name": "Korea",
+   "device": "sindorim"
+  },
+  {
    "brand": "Hitachi",
    "name": "SAUDI ARABIC/Iraq Australia",
    "device": "samseong"
@@ -104507,6 +104512,18 @@
    "device": "chef"
   }
  ],
+ "moto e": [
+  {
+   "brand": "Motorola",
+   "name": "moto e",
+   "device": "ginna"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto e7",
+   "device": "ginna"
+  }
+ ],
  "moto e5 cruise": [
   {
    "brand": "Motorola",
@@ -104622,13 +104639,6 @@
    "brand": "Motorola",
    "name": "moto e6s",
    "device": "fiji"
-  }
- ],
- "moto e": [
-  {
-   "brand": "Motorola",
-   "name": "moto e7",
-   "device": "ginna"
   }
  ],
  "moto e(6) plus": [
@@ -111433,6 +111443,13 @@
    "device": "Easy_Smart_2"
   }
  ],
+ "Smart_J2": [
+  {
+   "brand": "OpelMobile",
+   "name": "Opel Mobile_Smart_J2",
+   "device": "Smart_J2"
+  }
+ ],
  "Opel Mobile SmartX6": [
   {
    "brand": "OpelMobile",
@@ -111997,6 +112014,13 @@
   }
  ],
  "PDAM10": [
+  {
+   "brand": "Oppo",
+   "name": "A52 中国版",
+   "device": "OP4AE7"
+  }
+ ],
+ "PDAT10": [
   {
    "brand": "Oppo",
    "name": "A52 中国版",
@@ -122659,6 +122683,13 @@
    "device": "Proline_FalconXL"
   }
  ],
+ "H1010": [
+  {
+   "brand": "Proline",
+   "name": "base10.3g silver",
+   "device": "H1010"
+  }
+ ],
  "PLT1065G": [
   {
    "brand": "Proscan",
@@ -125602,6 +125633,20 @@
    "device": "lavender"
   }
  ],
+ "M2004J7AC": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10X",
+   "device": "atom"
+  }
+ ],
+ "atom": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10X",
+   "device": "atom"
+  }
+ ],
  "M2003J15SC": [
   {
    "brand": "Redmi",
@@ -125612,6 +125657,20 @@
    "brand": "Redmi",
    "name": "Redmi Note 9",
    "device": "merlin"
+  }
+ ],
+ "M2004J7BC": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10X pro",
+   "device": "bomb"
+  }
+ ],
+ "bomb": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10X pro",
+   "device": "bomb"
   }
  ],
  "Redmi 6": [
@@ -125768,6 +125827,16 @@
    "brand": "Redmi",
    "name": "Redmi Note 9 Pro",
    "device": "joyeuse"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Redmi Note 9 Pro",
+   "device": "curtana"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Redmi Note 9S",
+   "device": "curtana"
   }
  ],
  "redway10": [
@@ -178697,6 +178766,27 @@
    "device": "ugg"
   }
  ],
+ "curtana": [
+  {
+   "brand": "Xiaomi",
+   "name": "Redmi Note 9 Pro",
+   "device": "curtana"
+  }
+ ],
+ "Redmi Note 9S": [
+  {
+   "brand": "Xiaomi",
+   "name": "Redmi Note 9S",
+   "device": "curtana"
+  }
+ ],
+ "Redmi Note 9 Pro Max": [
+  {
+   "brand": "Xiaomi",
+   "name": "Redmi Note 9S",
+   "device": "excalibur"
+  }
+ ],
  "Redmi Pro": [
   {
    "brand": "Xiaomi",
@@ -179050,6 +179140,13 @@
    "brand": "Yezz",
    "name": "EPIC_T",
    "device": "EPIC_T"
+  }
+ ],
+ "GO1": [
+  {
+   "brand": "Yezz",
+   "name": "GO1",
+   "device": "GO1"
   }
  ],
  "LIV1": [

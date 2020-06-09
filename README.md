@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-06-08
+Last sync is 2020-06-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4880,6 +4880,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Estar|MID7399|MID7399|eSTAR BEAUTY 3 HD Quad core|
 |Estar|eSTAR BEAUTY 2 HD Quad core|MID7388|eSTAR BEAUTY 2 HD Quad core|
 |Estar|eSTAR GRAND HD Quad Core|MID1298|eSTAR GRAND HD Quad core|
+|Estla|Korea|sindorim|AI PONT|
 |Eten|ET660|ETEN|ET660|
 |Etuline|ETL-S4521|u939e_2|ETL-S4521|
 |Etuline|ETL-S5042|u970_4|ETL-S5042|
@@ -15134,6 +15135,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|XT605|umts_jorian|XT605|
 |Motorola|XT627|umts_irock|XT627|
 |Motorola|moto P30 NOTE|chef|XT1942-1|
+|Motorola|moto e|ginna|moto e|
 |Motorola|moto e(5) cruise|james|moto e5 cruise|
 |Motorola|moto e(5) cruise|james|moto e5 play|
 |Motorola|moto e(5) play|james|moto e5 play|
@@ -16222,6 +16224,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Opay|V9 Pro|V9_Pro|V9 Pro|
 |OpelMobile|EasySmart|EasySmart|EasySmart|
 |OpelMobile|EasySmart 2|Easy_Smart_2|Easy_Smart_2|
+|OpelMobile|Opel Mobile_Smart_J2|Smart_J2|Smart_J2|
 |OpelMobile|Smart X6|SmartX6|Opel Mobile SmartX6|
 |OpelMobile|SmartJX|SmartJX|OpelMobile_SmartJX|
 |OpelMobile|SmartX1|SmartX1|OpelMobile_SmartX1|
@@ -16304,6 +16307,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A52|OP4C77L1|CPH2061|
 |Oppo|A52|OP4C7BL1|CPH2069|
 |Oppo|A52 中国版|OP4AE7|PDAM10|
+|Oppo|A52 中国版|OP4AE7|PDAT10|
 |Oppo|A53|A53|OPPO A53|
 |Oppo|A53f|A53|A53f|
 |Oppo|A53fw|A53|A53fw|
@@ -17921,6 +17925,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Proline|H7885M|H7885M|H7885M|
 |Proline|M504|M504|M504|
 |Proline|Proline FalconXL|Proline_FalconXL|Proline_FalconXL|
+|Proline|base10.3g silver|H1010|H1010|
 |Proscan|PLT1065G|PLT1065G|PLT1065G|
 |Proscan|PLT1077G(1GB/8GB)|PLT1077G|PLT1077G|
 |Proscan|PLT1077G_16G|PLT1077G_16G|PLT1077G_16G|
@@ -18363,7 +18368,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi  7A|pine|Redmi 7A|
 |Redmi|Redmi  7A|pine|pine|
 |Redmi|Redmi  Note  7|lavender|Redmi Note 7|
+|Redmi|Redmi 10X|atom|M2004J7AC|
+|Redmi|Redmi 10X|atom|atom|
 |Redmi|Redmi 10X 4G|merlin|M2003J15SC|
+|Redmi|Redmi 10X pro|bomb|M2004J7BC|
+|Redmi|Redmi 10X pro|bomb|bomb|
 |Redmi|Redmi 6|cereus|Redmi 6|
 |Redmi|Redmi 7|onc|Redmi 7|
 |Redmi|Redmi 7|onc|Redmi Y3|
@@ -26355,6 +26364,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Redmi Note 5A|ugg|Redmi Note 5A|
 |Xiaomi|Redmi Note 5A|ugg|Redmi Y1|
 |Xiaomi|Redmi Note 5A|ugglite|Redmi Note 5A|
+|Xiaomi|Redmi Note 9 Pro|curtana|Redmi Note 9 Pro|
+|Xiaomi|Redmi Note 9 Pro|curtana|curtana|
+|Xiaomi|Redmi Note 9S|curtana|Redmi Note 9 Pro|
+|Xiaomi|Redmi Note 9S|curtana|Redmi Note 9S|
+|Xiaomi|Redmi Note 9S|excalibur|Redmi Note 9 Pro Max|
 |Xiaomi|Redmi Pro|omega|Redmi Pro|
 |Xiaomi|Redmi S2|ysl|Redmi S2|
 |Xiaomi|TELEBEE|once|MIBOX3|
@@ -26417,6 +26431,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Yezz|5EQ|5EQ|5EQ|
 |Yezz|E400A|E400A|E400A|
 |Yezz|EPIC_T|EPIC_T|EPIC T|
+|Yezz|GO1|GO1|GO1|
 |Yezz|LIV1|LIV1|LIV1|
 |Yezz|MAX1|MAX1|MAX1|
 |Yokis|WS107_eea|WS107|WS107|

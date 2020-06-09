@@ -28281,6 +28281,11 @@
    "brand": "Cavion",
    "device": "base10_3g_silver",
    "model": "base10_3g_silver"
+  },
+  {
+   "brand": "Proline",
+   "device": "H1010",
+   "model": "H1010"
   }
  ],
  "A102": [
@@ -41537,6 +41542,23 @@
    "brand": "Estar",
    "device": "MID1298",
    "model": "eSTAR GRAND HD Quad core"
+  }
+ ],
+ "Korea": [
+  {
+   "brand": "Estla",
+   "device": "sindorim",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Prism",
+   "device": "sindorim",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "THEHAM",
+   "device": "sindorim",
+   "model": "AI PONT"
   }
  ],
  "ET660": [
@@ -102246,6 +102268,13 @@
    "model": "XT1942-1"
   }
  ],
+ "moto e": [
+  {
+   "brand": "Motorola",
+   "device": "ginna",
+   "model": "moto e"
+  }
+ ],
  "moto e(5) cruise": [
   {
    "brand": "Motorola",
@@ -109027,6 +109056,13 @@
    "model": "Easy_Smart_2"
   }
  ],
+ "Opel Mobile_Smart_J2": [
+  {
+   "brand": "OpelMobile",
+   "device": "Smart_J2",
+   "model": "Smart_J2"
+  }
+ ],
  "Smart X6": [
   {
    "brand": "OpelMobile",
@@ -109479,6 +109515,11 @@
    "brand": "Oppo",
    "device": "OP4AE7",
    "model": "PDAM10"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP4AE7",
+   "model": "PDAT10"
   }
  ],
  "A53f": [
@@ -119709,18 +119750,6 @@
    "model": "PC9"
   }
  ],
- "Korea": [
-  {
-   "brand": "Prism",
-   "device": "sindorim",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "THEHAM",
-   "device": "sindorim",
-   "model": "AI PONT"
-  }
- ],
  "P7PRO": [
   {
    "brand": "Pritom",
@@ -122548,11 +122577,35 @@
    "model": "Redmi Note 7"
   }
  ],
+ "Redmi 10X": [
+  {
+   "brand": "Redmi",
+   "device": "atom",
+   "model": "M2004J7AC"
+  },
+  {
+   "brand": "Redmi",
+   "device": "atom",
+   "model": "atom"
+  }
+ ],
  "Redmi 10X 4G": [
   {
    "brand": "Redmi",
    "device": "merlin",
    "model": "M2003J15SC"
+  }
+ ],
+ "Redmi 10X pro": [
+  {
+   "brand": "Redmi",
+   "device": "bomb",
+   "model": "M2004J7BC"
+  },
+  {
+   "brand": "Redmi",
+   "device": "bomb",
+   "model": "bomb"
   }
  ],
  "Redmi 6": [
@@ -122737,6 +122790,16 @@
    "brand": "Redmi",
    "device": "joyeuse",
    "model": "Redmi Note 9 Pro"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "curtana",
+   "model": "Redmi Note 9 Pro"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "curtana",
+   "model": "curtana"
   }
  ],
  "redway10": [
@@ -168834,6 +168897,23 @@
    "model": "Redmi Note 5A"
   }
  ],
+ "Redmi Note 9S": [
+  {
+   "brand": "Xiaomi",
+   "device": "curtana",
+   "model": "Redmi Note 9 Pro"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "curtana",
+   "model": "Redmi Note 9S"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "excalibur",
+   "model": "Redmi Note 9 Pro Max"
+  }
+ ],
  "Redmi Pro": [
   {
    "brand": "Xiaomi",
@@ -169215,6 +169295,13 @@
    "brand": "Yezz",
    "device": "EPIC_T",
    "model": "EPIC T"
+  }
+ ],
+ "GO1": [
+  {
+   "brand": "Yezz",
+   "device": "GO1",
+   "model": "GO1"
   }
  ],
  "LIV1": [

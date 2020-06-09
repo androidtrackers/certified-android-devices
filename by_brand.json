@@ -25290,6 +25290,13 @@
    "model": "eSTAR GRAND HD Quad core"
   }
  ],
+ "Estla": [
+  {
+   "device": "sindorim",
+   "name": "Korea",
+   "model": "AI PONT"
+  }
+ ],
  "Eten": [
   {
    "device": "ETEN",
@@ -77606,6 +77613,11 @@
    "model": "XT1942-1"
   },
   {
+   "device": "ginna",
+   "name": "moto e",
+   "model": "moto e"
+  },
+  {
    "device": "james",
    "name": "moto e(5) cruise",
    "model": "moto e5 cruise"
@@ -83290,6 +83302,11 @@
    "model": "Easy_Smart_2"
   },
   {
+   "device": "Smart_J2",
+   "name": "Opel Mobile_Smart_J2",
+   "model": "Smart_J2"
+  },
+  {
    "device": "SmartX6",
    "name": "Smart X6",
    "model": "Opel Mobile SmartX6"
@@ -83704,6 +83721,11 @@
    "device": "OP4AE7",
    "name": "A52 中国版",
    "model": "PDAM10"
+  },
+  {
+   "device": "OP4AE7",
+   "name": "A52 中国版",
+   "model": "PDAT10"
   },
   {
    "device": "A53",
@@ -91953,6 +91975,11 @@
    "device": "Proline_FalconXL",
    "name": "Proline FalconXL",
    "model": "Proline_FalconXL"
+  },
+  {
+   "device": "H1010",
+   "name": "base10.3g silver",
+   "model": "H1010"
   }
  ],
  "Proscan": [
@@ -94249,9 +94276,29 @@
    "model": "Redmi Note 7"
   },
   {
+   "device": "atom",
+   "name": "Redmi 10X",
+   "model": "M2004J7AC"
+  },
+  {
+   "device": "atom",
+   "name": "Redmi 10X",
+   "model": "atom"
+  },
+  {
    "device": "merlin",
    "name": "Redmi 10X 4G",
    "model": "M2003J15SC"
+  },
+  {
+   "device": "bomb",
+   "name": "Redmi 10X pro",
+   "model": "M2004J7BC"
+  },
+  {
+   "device": "bomb",
+   "name": "Redmi 10X pro",
+   "model": "bomb"
   },
   {
    "device": "cereus",
@@ -135101,6 +135148,31 @@
    "model": "Redmi Note 5A"
   },
   {
+   "device": "curtana",
+   "name": "Redmi Note 9 Pro",
+   "model": "Redmi Note 9 Pro"
+  },
+  {
+   "device": "curtana",
+   "name": "Redmi Note 9 Pro",
+   "model": "curtana"
+  },
+  {
+   "device": "curtana",
+   "name": "Redmi Note 9S",
+   "model": "Redmi Note 9 Pro"
+  },
+  {
+   "device": "curtana",
+   "name": "Redmi Note 9S",
+   "model": "Redmi Note 9S"
+  },
+  {
+   "device": "excalibur",
+   "name": "Redmi Note 9S",
+   "model": "Redmi Note 9 Pro Max"
+  },
+  {
    "device": "omega",
    "name": "Redmi Pro",
    "model": "Redmi Pro"
@@ -135439,6 +135511,11 @@
    "device": "EPIC_T",
    "name": "EPIC_T",
    "model": "EPIC T"
+  },
+  {
+   "device": "GO1",
+   "name": "GO1",
+   "model": "GO1"
   },
   {
    "device": "LIV1",
