@@ -21684,6 +21684,11 @@
    "model": "NS-P16AT785HD"
   },
   {
+   "device": "mid7015_mk_32",
+   "name": "ONN",
+   "model": "100005206"
+  },
+  {
    "device": "Kova_2_PCB-T731",
    "name": "PCBOX",
    "model": "PCB-T731"
@@ -39898,6 +39903,11 @@
    "model": "Hitachi 4K Android TV"
   },
   {
+   "device": "shinjuku",
+   "name": "HitachiTV",
+   "model": "HitachiTV"
+  },
+  {
    "device": "samseong",
    "name": "SAUDI ARABIC/Iraq Australia",
    "model": "AI PONT"
@@ -54603,6 +54613,11 @@
    "device": "K5b",
    "name": "K5b",
    "model": "K5b"
+  },
+  {
+   "device": "K5c",
+   "name": "K5c",
+   "model": "K5c"
   },
   {
    "device": "K6",
@@ -93306,6 +93321,21 @@
  ],
  "RAVOZ": [
   {
+   "device": "RAVOZ_Z3_Pro",
+   "name": "RAVOZ Z3 Pro",
+   "model": "RAVOZ Z3 Pro"
+  },
+  {
+   "device": "RAVOZ_Z5_Pro",
+   "name": "RAVOZ Z5 Pro",
+   "model": "RAVOZ Z5 Pro"
+  },
+  {
+   "device": "RAVOZ_Z6_Lite",
+   "name": "RAVOZ Z6 Lite",
+   "model": "RAVOZ Z6 Lite"
+  },
+  {
    "device": "RAVOZ_Z4",
    "name": "RAVOZ_Z4",
    "model": "RAVOZ_Z4"
@@ -108738,7 +108768,7 @@
   },
   {
    "device": "tcmeruj",
-   "name": "4T-C**BL1/BJ1/BN1",
+   "name": "4T-C**BL1/BJ1/BN1/CL1/CN1/CQ1",
    "model": "AQUOS-TVJ19"
   },
   {
@@ -122674,6 +122704,11 @@
   {
    "device": "Apollo_8_4G",
    "name": "alcatel 3T8",
+   "model": "9032X"
+  },
+  {
+   "device": "Apollo_8_4G",
+   "name": "alcatel 3T8",
    "model": "9032X_EEA"
   },
   {
@@ -126853,6 +126888,11 @@
    "device": "MIX_2",
    "name": "MIX_2",
    "model": "MIX_2"
+  },
+  {
+   "device": "Note_8P",
+   "name": "Note 8P",
+   "model": "Note 8P"
   },
   {
    "device": "Note_7P",

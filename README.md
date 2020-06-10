@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-06-09
+Last sync is 2020-06-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4196,6 +4196,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DigiLand|NBDVDTAB9|NBDVDTAB9|NBDVDTAB9|
 |DigiLand|NS-P16AT08|mid8005|NS-P16AT08|
 |DigiLand|NS-P16AT785HD|MID7802RA|NS-P16AT785HD|
+|DigiLand|ONN|mid7015_mk_32|100005206|
 |DigiLand|PCBOX|Kova_2_PCB-T731|PCB-T731|
 |DigiLand|SLTDVD1023|mdt1005|SLTDVD1023|
 |DigiLand|TP1_N|TP1_N|TP1_N|
@@ -7728,6 +7729,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|vision2_1|vision2_1|vision2_1|
 |Hisense|xiaoyushan-em|xiaoyushan|HiSmartTV A4|
 |Hitachi|Hitachi|bangbae|Hitachi 4K Android TV|
+|Hitachi|HitachiTV|shinjuku|HitachiTV|
 |Hitachi|SAUDI ARABIC/Iraq Australia|samseong|AI PONT|
 |Hiya|5-0|5-0|5-0|
 |Hiya|5-0|5_0|5-0|
@@ -10621,6 +10623,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KRIP|K5|K5|K5|
 |KRIP|K55h|K55h|K55h|
 |KRIP|K5b|K5b|K5b|
+|KRIP|K5c|K5c|K5c|
 |KRIP|K6|K6|K6|
 |KRIP|K65|K65|K65|
 |KRIP|K700A|KRIP_K700A|K700A|
@@ -18182,6 +18185,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Quatro|Quatro 10|Quatro_10|Quatro 10|
 |Quatro|Quatro_8|Quatro_8|Quatro 8|
 |Quickline|Quickline UHD Box|dciw387|M387_QL|
+|RAVOZ|RAVOZ Z3 Pro|RAVOZ_Z3_Pro|RAVOZ Z3 Pro|
+|RAVOZ|RAVOZ Z5 Pro|RAVOZ_Z5_Pro|RAVOZ Z5 Pro|
+|RAVOZ|RAVOZ Z6 Lite|RAVOZ_Z6_Lite|RAVOZ Z6 Lite|
 |RAVOZ|RAVOZ_Z4|RAVOZ_Z4|RAVOZ_Z4|
 |RAVOZ|RAVOZ_Z6|RAVOZ_Z6|RAVOZ_Z6|
 |RCA|10 Viking|RCT6A03W13|RCT6A03W13|
@@ -21225,7 +21231,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|306SH|SG306SH|306SH|
 |Sharp|401SH|SG401SH|401SH|
 |Sharp|"4T-C**AM1/AN1/AL1|8T-C**AX1/AW1"|tcsu2uj|
-|Sharp|4T-C**BL1/BJ1/BN1|tcmeruj|AQUOS-TVJ19|
+|Sharp|4T-C**BL1/BJ1/BN1/CL1/CN1/CQ1|tcmeruj|AQUOS-TVJ19|
 |Sharp|4T-C**BN1/BL1|tcmeruj|AQUOS-TVJ19B|
 |Sharp|4T-C**BN1H/BL1H|tcmeruj|AQUOS-TVJ20B|
 |Sharp|4T-C50AG1T|LCD_50FOCAG1T|LCD_50FOCAG1T|
@@ -23974,6 +23980,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|alcatel 1X|Edison|5008Y_EEA|
 |TCT (Alcatel)|alcatel 1X|Edison|5008Y_RU|
 |TCT (Alcatel)|alcatel 3T8|Apollo_8_4G|9032T|
+|TCT (Alcatel)|alcatel 3T8|Apollo_8_4G|9032X|
 |TCT (Alcatel)|alcatel 3T8|Apollo_8_4G|9032X_EEA|
 |TCT (Alcatel)|alcatel PIXI 4 (5.5)|PIXI4_55_3G|5012D|
 |TCT (Alcatel)|alcatel PIXI 4 (5.5)|PIXI4_55_3G|5012F|
@@ -24763,6 +24770,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|MIX|t816_gq_ulefone|MIX|
 |Ulefone|MIX S|t815_gq_ulefone|MIX_S|
 |Ulefone|MIX_2|MIX_2|MIX_2|
+|Ulefone|Note 8P|Note_8P|Note 8P|
 |Ulefone|Note_7P|Note_7P|Note_7P|
 |Ulefone|P6000_Plus|P6000_Plus|P6000_Plus|
 |Ulefone|Power 2|Power_2|Power_2|

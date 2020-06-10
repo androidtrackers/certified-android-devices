@@ -36447,6 +36447,13 @@
    "model": "NS-P16AT785HD"
   }
  ],
+ "ONN": [
+  {
+   "brand": "DigiLand",
+   "device": "mid7015_mk_32",
+   "model": "100005206"
+  }
+ ],
  "PCBOX": [
   {
    "brand": "DigiLand",
@@ -60052,6 +60059,13 @@
    "model": "Hitachi 4K Android TV"
   }
  ],
+ "HitachiTV": [
+  {
+   "brand": "Hitachi",
+   "device": "shinjuku",
+   "model": "HitachiTV"
+  }
+ ],
  "SAUDI ARABIC/Iraq Australia": [
   {
    "brand": "Hitachi",
@@ -76278,6 +76292,13 @@
    "brand": "KRIP",
    "device": "K5b",
    "model": "K5b"
+  }
+ ],
+ "K5c": [
+  {
+   "brand": "KRIP",
+   "device": "K5c",
+   "model": "K5c"
   }
  ],
  "K6": [
@@ -121432,6 +121453,27 @@
    "model": "M387_QL"
   }
  ],
+ "RAVOZ Z3 Pro": [
+  {
+   "brand": "RAVOZ",
+   "device": "RAVOZ_Z3_Pro",
+   "model": "RAVOZ Z3 Pro"
+  }
+ ],
+ "RAVOZ Z5 Pro": [
+  {
+   "brand": "RAVOZ",
+   "device": "RAVOZ_Z5_Pro",
+   "model": "RAVOZ Z5 Pro"
+  }
+ ],
+ "RAVOZ Z6 Lite": [
+  {
+   "brand": "RAVOZ",
+   "device": "RAVOZ_Z6_Lite",
+   "model": "RAVOZ Z6 Lite"
+  }
+ ],
  "RAVOZ_Z4": [
   {
    "brand": "RAVOZ",
@@ -138394,7 +138436,7 @@
    "model": "tcsu2uj"
   }
  ],
- "4T-C**BL1/BJ1/BN1": [
+ "4T-C**BL1/BJ1/BN1/CL1/CN1/CQ1": [
   {
    "brand": "Sharp",
    "device": "tcmeruj",
@@ -154319,6 +154361,11 @@
   {
    "brand": "TCT (Alcatel)",
    "device": "Apollo_8_4G",
+   "model": "9032X"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Apollo_8_4G",
    "model": "9032X_EEA"
   }
  ],
@@ -159114,6 +159161,13 @@
    "brand": "Ulefone",
    "device": "MIX_2",
    "model": "MIX_2"
+  }
+ ],
+ "Note 8P": [
+  {
+   "brand": "Ulefone",
+   "device": "Note_8P",
+   "model": "Note 8P"
   }
  ],
  "Note_7P": [

@@ -31345,6 +31345,13 @@
    "model": "NS-P16AT785HD"
   }
  ],
+ "mid7015_mk_32": [
+  {
+   "brand": "DigiLand",
+   "name": "ONN",
+   "model": "100005206"
+  }
+ ],
  "Kova_2_PCB-T731": [
   {
    "brand": "DigiLand",
@@ -54402,6 +54409,23 @@
    "model": "vision2_1"
   }
  ],
+ "shinjuku": [
+  {
+   "brand": "Hitachi",
+   "name": "HitachiTV",
+   "model": "HitachiTV"
+  },
+  {
+   "brand": "Philco",
+   "name": "PhilcoTV",
+   "model": "PhilcoTV"
+  },
+  {
+   "brand": "Skyworth",
+   "name": "South America",
+   "model": "SA 2K TV"
+  }
+ ],
  "5-0": [
   {
    "brand": "Hiya",
@@ -72158,6 +72182,13 @@
    "brand": "KRIP",
    "name": "K5b",
    "model": "K5b"
+  }
+ ],
+ "K5c": [
+  {
+   "brand": "KRIP",
+   "name": "K5c",
+   "model": "K5c"
   }
  ],
  "K6": [
@@ -114316,18 +114347,6 @@
    "model": "PTB7R"
   }
  ],
- "shinjuku": [
-  {
-   "brand": "Philco",
-   "name": "PhilcoTV",
-   "model": "PhilcoTV"
-  },
-  {
-   "brand": "Skyworth",
-   "name": "South America",
-   "model": "SA 2K TV"
-  }
- ],
  "TP10A3N": [
   {
    "brand": "Philco",
@@ -120692,6 +120711,27 @@
    "brand": "Quickline",
    "name": "Quickline UHD Box",
    "model": "M387_QL"
+  }
+ ],
+ "RAVOZ_Z3_Pro": [
+  {
+   "brand": "RAVOZ",
+   "name": "RAVOZ Z3 Pro",
+   "model": "RAVOZ Z3 Pro"
+  }
+ ],
+ "RAVOZ_Z5_Pro": [
+  {
+   "brand": "RAVOZ",
+   "name": "RAVOZ Z5 Pro",
+   "model": "RAVOZ Z5 Pro"
+  }
+ ],
+ "RAVOZ_Z6_Lite": [
+  {
+   "brand": "RAVOZ",
+   "name": "RAVOZ Z6 Lite",
+   "model": "RAVOZ Z6 Lite"
   }
  ],
  "RAVOZ_Z4": [
@@ -140225,7 +140265,7 @@
  "tcmeruj": [
   {
    "brand": "Sharp",
-   "name": "4T-C**BL1/BJ1/BN1",
+   "name": "4T-C**BL1/BJ1/BN1/CL1/CN1/CQ1",
    "model": "AQUOS-TVJ19"
   },
   {
@@ -156696,6 +156736,11 @@
   {
    "brand": "TCT (Alcatel)",
    "name": "alcatel 3T8",
+   "model": "9032X"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "alcatel 3T8",
    "model": "9032X_EEA"
   }
  ],
@@ -161580,6 +161625,13 @@
    "brand": "Ulefone",
    "name": "MIX S",
    "model": "MIX_S"
+  }
+ ],
+ "Note_8P": [
+  {
+   "brand": "Ulefone",
+   "name": "Note 8P",
+   "model": "Note 8P"
   }
  ],
  "Note_7P": [

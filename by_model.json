@@ -30552,6 +30552,13 @@
    "device": "MID7802RA"
   }
  ],
+ "100005206": [
+  {
+   "brand": "DigiLand",
+   "name": "ONN",
+   "device": "mid7015_mk_32"
+  }
+ ],
  "PCB-T731": [
   {
    "brand": "DigiLand",
@@ -54974,6 +54981,13 @@
    "device": "bangbae"
   }
  ],
+ "HitachiTV": [
+  {
+   "brand": "Hitachi",
+   "name": "HitachiTV",
+   "device": "shinjuku"
+  }
+ ],
  "5-0": [
   {
    "brand": "Hiya",
@@ -74371,6 +74385,13 @@
    "brand": "KRIP",
    "name": "K5b",
    "device": "K5b"
+  }
+ ],
+ "K5c": [
+  {
+   "brand": "KRIP",
+   "name": "K5c",
+   "device": "K5c"
   }
  ],
  "K6": [
@@ -124360,6 +124381,27 @@
    "device": "dciw387"
   }
  ],
+ "RAVOZ Z3 Pro": [
+  {
+   "brand": "RAVOZ",
+   "name": "RAVOZ Z3 Pro",
+   "device": "RAVOZ_Z3_Pro"
+  }
+ ],
+ "RAVOZ Z5 Pro": [
+  {
+   "brand": "RAVOZ",
+   "name": "RAVOZ Z5 Pro",
+   "device": "RAVOZ_Z5_Pro"
+  }
+ ],
+ "RAVOZ Z6 Lite": [
+  {
+   "brand": "RAVOZ",
+   "name": "RAVOZ Z6 Lite",
+   "device": "RAVOZ_Z6_Lite"
+  }
+ ],
  "RAVOZ_Z4": [
   {
    "brand": "RAVOZ",
@@ -145128,7 +145170,7 @@
  "AQUOS-TVJ19": [
   {
    "brand": "Sharp",
-   "name": "4T-C**BL1/BJ1/BN1",
+   "name": "4T-C**BL1/BJ1/BN1/CL1/CN1/CQ1",
    "device": "tcmeruj"
   }
  ],
@@ -163540,6 +163582,13 @@
    "device": "Apollo_8_4G"
   }
  ],
+ "9032X": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "alcatel 3T8",
+   "device": "Apollo_8_4G"
+  }
+ ],
  "9032X_EEA": [
   {
    "brand": "TCT (Alcatel)",
@@ -168653,6 +168702,13 @@
    "brand": "Ulefone",
    "name": "MIX_2",
    "device": "MIX_2"
+  }
+ ],
+ "Note 8P": [
+  {
+   "brand": "Ulefone",
+   "name": "Note 8P",
+   "device": "Note_8P"
   }
  ],
  "Note_7P": [
