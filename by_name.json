@@ -32000,6 +32000,13 @@
    "model": "1932"
   }
  ],
+ "1939": [
+  {
+   "brand": "Coolpad",
+   "device": "coolpad_Cool_X",
+   "model": "1939"
+  }
+ ],
  "3300A": [
   {
    "brand": "Coolpad",
@@ -33223,6 +33230,13 @@
    "brand": "Coolpad",
    "device": "Y92-9",
    "model": "Coolpad Y92-9"
+  }
+ ],
+ "coolpad N7 Plus": [
+  {
+   "brand": "Coolpad",
+   "device": "coolpad_N7_Plus",
+   "model": "2032"
   }
  ],
  "cp3648A": [
@@ -86830,6 +86844,13 @@
    "model": "MID_1090IPSV9"
   }
  ],
+ "MID_785": [
+  {
+   "brand": "Laser",
+   "device": "MID_785",
+   "model": "MID_785"
+  }
+ ],
  "MID_787V9": [
   {
    "brand": "Laser",
@@ -86842,6 +86863,13 @@
    "brand": "Laser",
    "device": "MID_789",
    "model": "MID_789"
+  }
+ ],
+ "MID_789IPS": [
+  {
+   "brand": "Laser",
+   "device": "MID_789IPS",
+   "model": "MID_789IPS"
   }
  ],
  "A3_mini": [
@@ -126032,6 +126060,11 @@
    "brand": "Samsung",
    "device": "a51x",
    "model": "SM-A516U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a51xq",
+   "model": "SM-A516V"
   }
  ],
  "Galaxy A6": [
@@ -126307,6 +126340,11 @@
    "brand": "Samsung",
    "device": "a71xq",
    "model": "SM-A716U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a71xq",
+   "model": "SM-A716U1"
   },
   {
    "brand": "Samsung",

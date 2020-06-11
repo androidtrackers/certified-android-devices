@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-06-10
+Last sync is 2020-06-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3541,6 +3541,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Coolpad|1904|1904|1904|
 |Coolpad|1921|1921|1921|
 |Coolpad|1932|1932|1932|
+|Coolpad|1939|coolpad_Cool_X|1939|
 |Coolpad|3300A|3300A|Coolpad 3300A|
 |Coolpad|3320A|cp3320a|Coolpad 3320A|
 |Coolpad|3503I|CP3503I|Coolpad 3503I|
@@ -3720,6 +3721,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Coolpad|Y91-921|Y91|Coolpad Y891|
 |Coolpad|Y91-921|Y91|Coolpad Y91-921|
 |Coolpad|Y92-9|Y92-9|Coolpad Y92-9|
+|Coolpad|coolpad N7 Plus|coolpad_N7_Plus|2032|
 |Coolpad|cp3648A|cp3648a|cp3648A|
 |Coolpad|cp3648AT|cp3648at|cp3648AT|
 |Coolpad|cp7236|msm8610_w7_cp7236|Coolpad 7236|
@@ -12512,8 +12514,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Laser|MID-790IPS|MID-790IPS|MID-790IPS|
 |Laser|MID_1087V9|MID_1087V9|MID_1087V9|
 |Laser|MID_1090IPSV9|MID_1090IPSV9|MID_1090IPSV9|
+|Laser|MID_785|MID_785|MID_785|
 |Laser|MID_787V9|MID_787V9|MID_787V9|
 |Laser|MID_789|MID_789|MID_789|
+|Laser|MID_789IPS|MID_789IPS|MID_789IPS|
 |Lava|A1|LAVAA1|LAVAA1|
 |Lava|A3|LAVA_A3|LAVA_A3|
 |Lava|A3_mini|A3_mini|A3_mini|
@@ -18968,6 +18972,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A51 5G|a51x|SM-A516N|
 |Samsung|Galaxy A51 5G|a51x|SM-A516U|
 |Samsung|Galaxy A51 5G|a51x|SM-A516U1|
+|Samsung|Galaxy A51 5G|a51xq|SM-A516V|
 |Samsung|Galaxy A6|a6elteaio|SM-A600AZ|
 |Samsung|Galaxy A6|a6elteatt|SM-A600A|
 |Samsung|Galaxy A6|a6eltemtr|SM-A600T1|
@@ -19028,6 +19033,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A71 5G|a71x|SM-A7160|
 |Samsung|Galaxy A71 5G|a71x|SM-A716B|
 |Samsung|Galaxy A71 5G|a71xq|SM-A716U|
+|Samsung|Galaxy A71 5G|a71xq|SM-A716U1|
 |Samsung|Galaxy A71 5G|a71xq|SM-A716V|
 |Samsung|Galaxy A8|SCV32|SCV32|
 |Samsung|Galaxy A8|a8elte|SM-A800F|

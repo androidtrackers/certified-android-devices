@@ -25976,6 +25976,13 @@
    "device": "1932"
   }
  ],
+ "1939": [
+  {
+   "brand": "Coolpad",
+   "name": "1939",
+   "device": "coolpad_Cool_X"
+  }
+ ],
  "Coolpad 3300A": [
   {
    "brand": "Coolpad",
@@ -27209,6 +27216,13 @@
    "brand": "Coolpad",
    "name": "Y92-9",
    "device": "Y92-9"
+  }
+ ],
+ "2032": [
+  {
+   "brand": "Coolpad",
+   "name": "coolpad N7 Plus",
+   "device": "coolpad_N7_Plus"
   }
  ],
  "cp3648A": [
@@ -86984,6 +86998,13 @@
    "device": "MID_1090IPSV9"
   }
  ],
+ "MID_785": [
+  {
+   "brand": "Laser",
+   "name": "MID_785",
+   "device": "MID_785"
+  }
+ ],
  "MID_787V9": [
   {
    "brand": "Laser",
@@ -86996,6 +87017,13 @@
    "brand": "Laser",
    "name": "MID_789",
    "device": "MID_789"
+  }
+ ],
+ "MID_789IPS": [
+  {
+   "brand": "Laser",
+   "name": "MID_789IPS",
+   "device": "MID_789IPS"
   }
  ],
  "LAVAA1": [
@@ -129692,6 +129720,13 @@
    "device": "a51x"
   }
  ],
+ "SM-A516V": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A51 5G",
+   "device": "a51xq"
+  }
+ ],
  "SM-A600AZ": [
   {
    "brand": "Samsung",
@@ -130116,6 +130151,13 @@
   }
  ],
  "SM-A716U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A71 5G",
+   "device": "a71xq"
+  }
+ ],
+ "SM-A716U1": [
   {
    "brand": "Samsung",
    "name": "Galaxy A71 5G",

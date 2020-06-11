@@ -18303,6 +18303,11 @@
    "model": "1932"
   },
   {
+   "device": "coolpad_Cool_X",
+   "name": "1939",
+   "model": "1939"
+  },
+  {
    "device": "3300A",
    "name": "3300A",
    "model": "Coolpad 3300A"
@@ -19196,6 +19201,11 @@
    "device": "Y92-9",
    "name": "Y92-9",
    "model": "Coolpad Y92-9"
+  },
+  {
+   "device": "coolpad_N7_Plus",
+   "name": "coolpad N7 Plus",
+   "model": "2032"
   },
   {
    "device": "cp3648a",
@@ -64198,6 +64208,11 @@
    "model": "MID_1090IPSV9"
   },
   {
+   "device": "MID_785",
+   "name": "MID_785",
+   "model": "MID_785"
+  },
+  {
    "device": "MID_787V9",
    "name": "MID_787V9",
    "model": "MID_787V9"
@@ -64206,6 +64221,11 @@
    "device": "MID_789",
    "name": "MID_789",
    "model": "MID_789"
+  },
+  {
+   "device": "MID_789IPS",
+   "name": "MID_789IPS",
+   "model": "MID_789IPS"
   }
  ],
  "Lava": [
@@ -97400,6 +97420,11 @@
    "model": "SM-A516U1"
   },
   {
+   "device": "a51xq",
+   "name": "Galaxy A51 5G",
+   "model": "SM-A516V"
+  },
+  {
    "device": "a6elteaio",
    "name": "Galaxy A6",
    "model": "SM-A600AZ"
@@ -97698,6 +97723,11 @@
    "device": "a71xq",
    "name": "Galaxy A71 5G",
    "model": "SM-A716U"
+  },
+  {
+   "device": "a71xq",
+   "name": "Galaxy A71 5G",
+   "model": "SM-A716U1"
   },
   {
    "device": "a71xq",
