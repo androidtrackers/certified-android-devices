@@ -4194,6 +4194,11 @@
    "model": "Amigo7xSCB"
   },
   {
+   "device": "Amigo7xcCN",
+   "name": "Amigo7xcCN",
+   "model": "Amigo7xcCN"
+  },
+  {
    "device": "Kamai7B",
    "name": "Kamai 7B",
    "model": "Kamai7B"
@@ -12245,6 +12250,11 @@
    "model": "A8 MAX"
   },
   {
+   "device": "A80",
+   "name": "A80",
+   "model": "A80"
+  },
+  {
    "device": "A80Pro",
    "name": "A80Pro",
    "model": "A80Pro"
@@ -18074,6 +18084,11 @@
    "device": "CONTIXO-V9",
    "name": "V9",
    "model": "V9"
+  },
+  {
+   "device": "V90",
+   "name": "V90",
+   "model": "V90"
   }
  ],
  "Coolpad": [
@@ -19954,6 +19969,11 @@
    "device": "BL155",
    "name": "BL155",
    "model": "BL155"
+  },
+  {
+   "device": "BL160",
+   "name": "BL160",
+   "model": "BL160"
   },
   {
    "device": "BL250",
@@ -40830,6 +40850,11 @@
    "model": "HT-705XS"
   },
   {
+   "device": "HOW_HT_705_G_PLUS",
+   "name": "HT_705_G_PLUS",
+   "model": "HT-705-G PLUS"
+  },
+  {
    "device": "sp7731c_1h10",
    "name": "kids 3g",
    "model": "kids 3g"
@@ -49186,6 +49211,21 @@
    "device": "samseong",
    "name": "Israel",
    "model": "AI PONT"
+  },
+  {
+   "device": "Koral_7WB1",
+   "name": "Koral",
+   "model": "7WB1"
+  },
+  {
+   "device": "Koral_7WD1",
+   "name": "Koral",
+   "model": "7WD1"
+  },
+  {
+   "device": "Koral_8WC1",
+   "name": "Koral",
+   "model": "8WC1"
   },
   {
    "device": "HT1003W16",
@@ -63489,6 +63529,11 @@
  "LLA": [
   {
    "device": "vip6102w",
+   "name": "VIP6102W",
+   "model": "VIP6102W"
+  },
+  {
+   "device": "vip6102w",
    "name": "VIP6102W-LLA",
    "model": "VIP6102W"
   }
@@ -67848,6 +67893,11 @@
    "device": "8505X",
    "name": "Lenovo Tab M8",
    "model": "Lenovo TB-8505X"
+  },
+  {
+   "device": "8505XC",
+   "name": "Lenovo Tab M8",
+   "model": "Lenovo TB-8505XC"
   },
   {
    "device": "8705F",
@@ -93974,11 +94024,6 @@
    "model": "RMX2020"
   },
   {
-   "device": "RMX2027",
-   "name": "RMX2027",
-   "model": "RMX2027"
-  },
-  {
    "device": "RMX2040",
    "name": "RMX2040",
    "model": "RMX2040"
@@ -94126,6 +94171,11 @@
   {
    "device": "RMX2027",
    "name": "realme C3",
+   "model": "RMX2027"
+  },
+  {
+   "device": "RMX2027",
+   "name": "realme C3i",
    "model": "RMX2027"
   },
   {
@@ -110988,6 +111038,11 @@
    "device": "Elite_B5",
    "name": "Elite B5",
    "model": "Elite_B5"
+  },
+  {
+   "device": "Elite_B55",
+   "name": "Elite B55",
+   "model": "Elite_B55"
   },
   {
    "device": "Elite_C5",

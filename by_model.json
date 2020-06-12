@@ -6544,6 +6544,13 @@
    "device": "Amigo7xSCB"
   }
  ],
+ "Amigo7xcCN": [
+  {
+   "brand": "Aminocom",
+   "name": "Amigo7xcCN",
+   "device": "Amigo7xcCN"
+  }
+ ],
  "Kamai7B": [
   {
    "brand": "Aminocom",
@@ -9519,6 +9526,11 @@
   },
   {
    "brand": "Connexion TV",
+   "name": "VIP6102W",
+   "device": "vip6102w"
+  },
+  {
+   "brand": "LLA",
    "name": "VIP6102W",
    "device": "vip6102w"
   },
@@ -17598,6 +17610,13 @@
    "device": "A8_MAX"
   }
  ],
+ "A80": [
+  {
+   "brand": "Blackview",
+   "name": "A80",
+   "device": "A80"
+  }
+ ],
  "A80Pro": [
   {
    "brand": "Blackview",
@@ -25663,6 +25682,13 @@
    "device": "v9"
   }
  ],
+ "V90": [
+  {
+   "brand": "Contixo",
+   "name": "V90",
+   "device": "V90"
+  }
+ ],
  "Coolpad 7019": [
   {
    "brand": "Coolpad",
@@ -28261,6 +28287,13 @@
    "brand": "DEXP",
    "name": "BL155",
    "device": "BL155"
+  }
+ ],
+ "BL160": [
+  {
+   "brand": "DEXP",
+   "name": "BL160",
+   "device": "BL160"
   }
  ],
  "BL250": [
@@ -56078,6 +56111,13 @@
    "device": "704-G"
   }
  ],
+ "HT-705-G PLUS": [
+  {
+   "brand": "How",
+   "name": "HT_705_G_PLUS",
+   "device": "HOW_HT_705_G_PLUS"
+  }
+ ],
  "kids 3g": [
   {
    "brand": "How",
@@ -67410,6 +67450,27 @@
    "brand": "Hyundai",
    "name": "Hyundai_Eternity_G60",
    "device": "HT3G60L"
+  }
+ ],
+ "7WB1": [
+  {
+   "brand": "Hyundai",
+   "name": "Koral",
+   "device": "Koral_7WB1"
+  }
+ ],
+ "7WD1": [
+  {
+   "brand": "Hyundai",
+   "name": "Koral",
+   "device": "Koral_7WD1"
+  }
+ ],
+ "8WC1": [
+  {
+   "brand": "Hyundai",
+   "name": "Koral",
+   "device": "Koral_8WC1"
   }
  ],
  "HT1003W16": [
@@ -91242,6 +91303,11 @@
   {
    "brand": "Lenovo",
    "name": "Lenovo Smrat Tab M8",
+   "device": "8505XC"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M8",
    "device": "8505XC"
   }
  ],
@@ -125234,18 +125300,6 @@
    "device": "RMX2020"
   }
  ],
- "RMX2027": [
-  {
-   "brand": "Realme",
-   "name": "RMX2027",
-   "device": "RMX2027"
-  },
-  {
-   "brand": "Realme",
-   "name": "realme C3",
-   "device": "RMX2027"
-  }
- ],
  "RMX2040": [
   {
    "brand": "Realme",
@@ -125423,6 +125477,18 @@
    "brand": "Realme",
    "name": "realme C3",
    "device": "RMX2022"
+  }
+ ],
+ "RMX2027": [
+  {
+   "brand": "Realme",
+   "name": "realme C3",
+   "device": "RMX2027"
+  },
+  {
+   "brand": "Realme",
+   "name": "realme C3i",
+   "device": "RMX2027"
   }
  ],
  "RMX1991": [
@@ -148133,6 +148199,13 @@
    "brand": "Sky Devices",
    "name": "Elite B5",
    "device": "Elite_B5"
+  }
+ ],
+ "Elite_B55": [
+  {
+   "brand": "Sky Devices",
+   "name": "Elite B55",
+   "device": "Elite_B55"
   }
  ],
  "Elite C5": [

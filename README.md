@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-06-11
+Last sync is 2020-06-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -810,6 +810,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aminocom|Amigo7x|Amigo7x|Amigo7x|
 |Aminocom|Amigo7xESP|Amigo7xESP|Amigo7xESP|
 |Aminocom|Amigo7xSCB|Amigo7xSCB|Amigo7xSCB|
+|Aminocom|Amigo7xcCN|Amigo7xcCN|Amigo7xcCN|
 |Aminocom|Kamai 7B|Kamai7B|Kamai7B|
 |Aminocom|Kamai7|Kamai7|Kamai7|
 |Aminocom|Kamai7B|Kamai7B|Kamai7B|
@@ -2381,6 +2382,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|A7|A7|A7|
 |Blackview|A7PRO|A7Pro|A7Pro|
 |Blackview|A8 MAX|A8_MAX|A8 MAX|
+|Blackview|A80|A80|A80|
 |Blackview|A80Pro|A80Pro|A80Pro|
 |Blackview|A9 Pro|A9_Pro|A9_Pro|
 |Blackview|BV4000|BV4000|BV4000|
@@ -3496,6 +3498,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Contixo|LA703R|LA703R|LA703R|
 |Contixo|V80|V80|V80|
 |Contixo|V9|CONTIXO-V9|V9|
+|Contixo|V90|V90|V90|
 |Coolpad||7019_msm7627a|Coolpad 7019|
 |Coolpad||7560U|Nivo|
 |Coolpad||801E|801E|
@@ -3864,6 +3867,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|B450|B450|B450|
 |DEXP|BL150|BL150|BL150|
 |DEXP|BL155|BL155|BL155|
+|DEXP|BL160|BL160|BL160|
 |DEXP|BL250|BL250|BL250|
 |DEXP|BL350|BL350|BL350|
 |DEXP|BS150|BS150|BS150|
@@ -7910,6 +7914,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |How|HT704-G|704-G|704-G|
 |How|HT705GO|HT705GO-01|HT-705|
 |How|HT_705XS|HT-705XS|HT-705XS|
+|How|HT_705_G_PLUS|HOW_HT_705_G_PLUS|HT-705-G PLUS|
 |How|kids 3g|sp7731c_1h10|kids 3g|
 |Huangmi|F8|F8|F8|
 |Huawei||C8600|C8600|
@@ -9578,6 +9583,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|Hyundai_Eternity_G57|HT2G57L|Hyundai_Eternity_G57L|
 |Hyundai|Hyundai_Eternity_G60|HT3G60L|Hyundai_Eternity_G60|
 |Hyundai|Israel|samseong|AI PONT|
+|Hyundai|Koral|Koral_7WB1|7WB1|
+|Hyundai|Koral|Koral_7WD1|7WD1|
+|Hyundai|Koral|Koral_8WC1|8WC1|
 |Hyundai|Koral 10W2|HT1003W16|HT1003W16|
 |Hyundai|Koral 10XL|HT1004L16|HT1004L16|
 |Hyundai|Koral_10X2|HT1004X16|Koral_10X2|
@@ -12376,6 +12384,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LIFE Digital|K3102_WIFI|K3102_WIFI|K3102 WIFI|
 |LINNEX|LI22|LI22|LI22|
 |LINSAY|F-7HD2CORE / F-7HD4CORE / F-10HD2CORE /F-10XHD4CORE|F-7HD2CORE|LINSAY F-7HD2CORE/F-7HD4CORE/F-10HD2CORE/F-10XHD4CORE|
+|LLA|VIP6102W|vip6102w|VIP6102W|
 |LLA|VIP6102W-LLA|vip6102w|VIP6102W|
 |LOOQS|L108MR|L108MR|L108MR|
 |LP (TN)|LP_Pro1|LP_Pro1|LP_Pro1|
@@ -13238,6 +13247,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M8|8505FS|Lenovo TB-8505FS|
 |Lenovo|Lenovo Tab M8|8505N|Lenovo TB-8505N|
 |Lenovo|Lenovo Tab M8|8505X|Lenovo TB-8505X|
+|Lenovo|Lenovo Tab M8|8505XC|Lenovo TB-8505XC|
 |Lenovo|Lenovo Tab M8|8705F|Lenovo TB-8705F|
 |Lenovo|Lenovo Tab M8|8705N|Lenovo TB-8705N|
 |Lenovo|Lenovo Tab M8|8705X|Lenovo TB-8705X|
@@ -18310,7 +18320,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Razer|Razer phone|cheryl_ckh|Phone|
 |Realme|India|ikebukuro|AI PONT|
 |Realme|RMX2020|RMX2020|RMX2020|
-|Realme|RMX2027|RMX2027|RMX2027|
 |Realme|RMX2040|RMX2040|RMX2040|
 |Realme|realme 2 Pro|RMX1801|RMX1801|
 |Realme|realme 3Pro|RMX1851|RMX1851|
@@ -18341,6 +18350,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme C3|RMX2021|RMX2021|
 |Realme|realme C3|RMX2022|RMX2022|
 |Realme|realme C3|RMX2027|RMX2027|
+|Realme|realme C3i|RMX2027|RMX2027|
 |Realme|realme Q|RMX1971CN|RMX1971|
 |Realme|realme X2|RMX1991CN|RMX1991|
 |Realme|realme X2|RMX1992L1|RMX1992|
@@ -21668,6 +21678,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|Elite A5|Elite_A5|Elite A5|
 |Sky Devices|Elite A55|Elite_A55|Elite_A55|
 |Sky Devices|Elite B5|Elite_B5|Elite_B5|
+|Sky Devices|Elite B55|Elite_B55|Elite_B55|
 |Sky Devices|Elite C5|Elite_C5|Elite C5|
 |Sky Devices|Elite Go|Elite_Go|Elite Go|
 |Sky Devices|Elite Go|Elite_Go_HN|Elite Go|
