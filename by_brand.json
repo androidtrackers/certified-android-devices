@@ -6351,7 +6351,7 @@
  "Arris": [
   {
    "device": "vip6102w",
-   "name": "VIP6102W",
+   "name": "VIP6102W Genesis",
    "model": "VIP6102W"
   }
  ],
@@ -64246,6 +64246,11 @@
    "device": "MID_1087V9",
    "name": "MID_1087V9",
    "model": "MID_1087V9"
+  },
+  {
+   "device": "MID_1089IPS",
+   "name": "MID_1089IPS",
+   "model": "MID_1089IPS"
   },
   {
    "device": "MID_1090IPSV9",
@@ -131358,6 +131363,11 @@
    "model": "Magnet_M10"
   },
   {
+   "device": "Magnet_M10_2020",
+   "name": "Magnet_M10_2020",
+   "model": "Magnet_M10_2020"
+  },
+  {
    "device": "Magnet_W10",
    "name": "Magnet_W10",
    "model": "Magnet_W10"
@@ -133507,6 +133517,11 @@
    "device": "W-K510DG",
    "name": "Y60",
    "model": "W-K510-TH"
+  },
+  {
+   "device": "W-K560",
+   "name": "Y61",
+   "model": "W-K560-EEA"
   },
   {
    "device": "W-K560",

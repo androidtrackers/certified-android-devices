@@ -15054,29 +15054,9 @@
    "model": "Wizard_1"
   }
  ],
- "VIP6102W": [
+ "VIP6102W Genesis": [
   {
    "brand": "Arris",
-   "device": "vip6102w",
-   "model": "VIP6102W"
-  },
-  {
-   "brand": "Connexion TV",
-   "device": "vip6102w",
-   "model": "VIP6102W"
-  },
-  {
-   "brand": "LLA",
-   "device": "vip6102w",
-   "model": "VIP6102W"
-  },
-  {
-   "brand": "TDS",
-   "device": "vip6102w",
-   "model": "VIP6102W"
-  },
-  {
-   "brand": "Vodafone",
    "device": "vip6102w",
    "model": "VIP6102W"
   }
@@ -31741,6 +31721,28 @@
    "brand": "Connex",
    "device": "CTAB1044hn",
    "model": "CTAB1044hn"
+  }
+ ],
+ "VIP6102W": [
+  {
+   "brand": "Connexion TV",
+   "device": "vip6102w",
+   "model": "VIP6102W"
+  },
+  {
+   "brand": "LLA",
+   "device": "vip6102w",
+   "model": "VIP6102W"
+  },
+  {
+   "brand": "TDS",
+   "device": "vip6102w",
+   "model": "VIP6102W"
+  },
+  {
+   "brand": "Vodafone",
+   "device": "vip6102w",
+   "model": "VIP6102W"
   }
  ],
  "CONQUEST S12Pro": [
@@ -86892,6 +86894,13 @@
    "brand": "Laser",
    "device": "MID_1087V9",
    "model": "MID_1087V9"
+  }
+ ],
+ "MID_1089IPS": [
+  {
+   "brand": "Laser",
+   "device": "MID_1089IPS",
+   "model": "MID_1089IPS"
   }
  ],
  "MID_1090IPSV9": [
@@ -164466,6 +164475,13 @@
    "model": "Magnet_M10"
   }
  ],
+ "Magnet_M10_2020": [
+  {
+   "brand": "Vonino",
+   "device": "Magnet_M10_2020",
+   "model": "Magnet_M10_2020"
+  }
+ ],
  "Magnet_W10": [
   {
    "brand": "Vonino",
@@ -167078,6 +167094,11 @@
   }
  ],
  "Y61": [
+  {
+   "brand": "Wiko",
+   "device": "W-K560",
+   "model": "W-K560-EEA"
+  },
   {
    "brand": "Wiko",
    "device": "W-K560",

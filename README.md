@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-06-12
+Last sync is 2020-06-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1236,7 +1236,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ark|Impulse P2|Impulse_P2|Impulse_P2|
 |Ark|S504|S504|S504|
 |Ark|Wizard 1|Wizard_1|Wizard_1|
-|Arris|VIP6102W|vip6102w|VIP6102W|
+|Arris|VIP6102W Genesis|vip6102w|VIP6102W|
 |Artek|Beat|Beat|Beat|
 |Artel|ALO|ALO|ALO|
 |Artel|Android TV|R1|ATV R1|
@@ -12522,6 +12522,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Laser|MID-787V8|MID-787V8|MID-787V8|
 |Laser|MID-790IPS|MID-790IPS|MID-790IPS|
 |Laser|MID_1087V9|MID_1087V9|MID_1087V9|
+|Laser|MID_1089IPS|MID_1089IPS|MID_1089IPS|
 |Laser|MID_1090IPSV9|MID_1090IPSV9|MID_1090IPSV9|
 |Laser|MID_785|MID_785|MID_785|
 |Laser|MID_787V9|MID_787V9|MID_787V9|
@@ -25632,6 +25633,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vonino|Magnet M1_A7|Magnet_M1_A7|Magnet M1|
 |Vonino|Magnet_M1|Magnet_M1|Magnet M1|
 |Vonino|Magnet_M10|Magnet_M10|Magnet_M10|
+|Vonino|Magnet_M10_2020|Magnet_M10_2020|Magnet_M10_2020|
 |Vonino|Magnet_W10|Magnet_W10|Magnet_W10|
 |Vonino|MusicPAD|MusicPAD|MusicPAD|
 |Vonino|Navo  P|Navo_P|Navo_P|
@@ -26049,6 +26051,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|Y60|W-K510|W-K510S-OPE|
 |Wiko|Y60|W-K510|W-K510S-SWI|
 |Wiko|Y60|W-K510DG|W-K510-TH|
+|Wiko|Y61|W-K560|W-K560-EEA|
 |Wiko|Y61|W-K560|W-K560-TVM|
 |Wiko|Y61|W-K560|W-K560-TVM1G|
 |Wiko|Y80|W-V720|W-V720-CA|

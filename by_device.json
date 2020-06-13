@@ -9973,7 +9973,7 @@
  "vip6102w": [
   {
    "brand": "Arris",
-   "name": "VIP6102W",
+   "name": "VIP6102W Genesis",
    "model": "VIP6102W"
   },
   {
@@ -83761,6 +83761,13 @@
    "brand": "Laser",
    "name": "MID_1087V9",
    "model": "MID_1087V9"
+  }
+ ],
+ "MID_1089IPS": [
+  {
+   "brand": "Laser",
+   "name": "MID_1089IPS",
+   "model": "MID_1089IPS"
   }
  ],
  "MID_1090IPSV9": [
@@ -166970,6 +166977,13 @@
    "model": "Magnet_M10"
   }
  ],
+ "Magnet_M10_2020": [
+  {
+   "brand": "Vonino",
+   "name": "Magnet_M10_2020",
+   "model": "Magnet_M10_2020"
+  }
+ ],
  "Magnet_W10": [
   {
    "brand": "Vonino",
@@ -169633,6 +169647,11 @@
   }
  ],
  "W-K560": [
+  {
+   "brand": "Wiko",
+   "name": "Y61",
+   "model": "W-K560-EEA"
+  },
   {
    "brand": "Wiko",
    "name": "Y61",
