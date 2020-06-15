@@ -29326,6 +29326,18 @@
    "device": "S10_Plus"
   }
  ],
+ "RD86QE": [
+  {
+   "brand": "DSIC",
+   "name": "RD86QE",
+   "device": "RD86QE"
+  },
+  {
+   "brand": "Remdun",
+   "name": "RD86QE",
+   "device": "RD86QE"
+  }
+ ],
  "DH-B301K": [
   {
    "brand": "Daehap",
@@ -107780,6 +107792,13 @@
    "device": "GF214-NEO"
   }
  ],
+ "GF215-REY": [
+  {
+   "brand": "NEO",
+   "name": "GF215-REY",
+   "device": "GF214-NEO"
+  }
+ ],
  "NQT-1013GIQ": [
   {
    "brand": "NEONIQ",
@@ -126300,13 +126319,6 @@
    "brand": "Remdun",
    "name": "RD86E",
    "device": "RD86E"
-  }
- ],
- "RD86QE": [
-  {
-   "brand": "Remdun",
-   "name": "RD86QE",
-   "device": "RD86QE"
   }
  ],
  "Reveal 16i": [
@@ -149739,6 +149751,13 @@
    "device": "SOG01"
   }
  ],
+ "XQ-AT52": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 1 II",
+   "device": "XQ-AT52"
+  }
+ ],
  "J9150": [
   {
    "brand": "Sony",
@@ -155176,6 +155195,20 @@
   }
  ],
  "T766H_EEA": [
+  {
+   "brand": "TCL",
+   "name": "TCL 10 SE",
+   "device": "Oakland"
+  }
+ ],
+ "T766H_TR": [
+  {
+   "brand": "TCL",
+   "name": "TCL 10 SE",
+   "device": "Oakland"
+  }
+ ],
+ "T766J": [
   {
    "brand": "TCL",
    "name": "TCL 10 SE",
@@ -163641,6 +163674,13 @@
    "device": "King_Kong_7_4G"
   }
  ],
+ "9013X_TR": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "alcatel 1T7 4G",
+   "device": "King_Kong_7_4G"
+  }
+ ],
  "5008A": [
   {
    "brand": "TCT (Alcatel)",
@@ -165870,6 +165910,13 @@
    "brand": "Tecno",
    "name": "SPARK 5 Air",
    "device": "TECNO-KD6"
+  }
+ ],
+ "TECNO KE6": [
+  {
+   "brand": "Tecno",
+   "name": "SPARK 6 Air",
+   "device": "TECNO-KE6"
   }
  ],
  "TECNO KA9": [

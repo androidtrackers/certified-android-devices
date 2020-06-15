@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-06-14
+Last sync is 2020-06-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4017,6 +4017,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DO Mobile|Mate1|Mate1|DO_S1|
 |DO Mobile|Mate1|Mate1|Mate1|
 |DO Mobile|S10_Plus|S10_Plus|S10_Plus|
+|DSIC|RD86QE|RD86QE|RD86QE|
 |DTC products|S10|S10|S10|
 |DTC products|S30|S30|S30|
 |DTV (Thai)|P3|Digital_Life_P3|P3|
@@ -15648,6 +15649,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NEC|PC-TE510JAW|PC-TE510JAW|PC-TE510JAW|
 |NEC|PC-TE510N1B|LaVieTab|LaVieTab PC-TE510N1B|
 |NEO|GF214-NEO|GF214-NEO|GF214-NEO|
+|NEO|GF215-REY|GF214-NEO|GF215-REY|
 |NEONIQ|NQT-1013GIQ|NQT-1013GIQ|NQT-1013GIQ|
 |NEONIQ|NQT-1014GIQ|NQT-1014GIQ|NQT-1014GIQ|
 |NEONIQ|NQT-73GIQ|NQT-73GIQ|NQT-73GIQ|
@@ -21902,6 +21904,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 1|SOV40|SOV40|
 |Sony|Xperia 1 II|SO-51A|SO-51A|
 |Sony|Xperia 1 II|SOG01|SOG01|
+|Sony|Xperia 1 II|XQ-AT52|XQ-AT52|
 |Sony|Xperia 1 Professional Edition|J9150|J9150|
 |Sony|Xperia 10|I3113|I3113|
 |Sony|Xperia 10|I3123|I3123|
@@ -22759,6 +22762,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 10 Pro|T1_PRO|T799H|
 |TCL|TCL 10 SE|Oakland|T766H|
 |TCL|TCL 10 SE|Oakland|T766H_EEA|
+|TCL|TCL 10 SE|Oakland|T766H_TR|
+|TCL|TCL 10 SE|Oakland|T766J|
 |TCL|TCL 10 SE|Oakland|T766U|
 |TCL|TCL 10 SE|Oakland|T766U_EEA|
 |TCL|TCL 10L|T1_LITE|T770B|
@@ -23989,6 +23994,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|alcatel 1T7 4G|King_Kong_7_4G|9013T|
 |TCT (Alcatel)|alcatel 1T7 4G|King_Kong_7_4G|9013X|
 |TCT (Alcatel)|alcatel 1T7 4G|King_Kong_7_4G|9013X_EEA|
+|TCT (Alcatel)|alcatel 1T7 4G|King_Kong_7_4G|9013X_TR|
 |TCT (Alcatel)|alcatel 1X|Edison|5008A|
 |TCT (Alcatel)|alcatel 1X|Edison|5008D|
 |TCT (Alcatel)|alcatel 1X|Edison|5008D_EEA|
@@ -24323,6 +24329,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|SPARK 4 Lite|TECNO-BB4k|TECNO BB4k|
 |Tecno|SPARK 5 Air|TECNO-KD6|TECNO KD6|
 |Tecno|SPARK 5 Air|TECNO-KD6|TECNO KD6a|
+|Tecno|SPARK 6 Air|TECNO-KE6|TECNO KE6|
 |Tecno|SPARK CM|TECNO-KA9|TECNO KA9|
 |Tecno|SPARK Go Plus|TECNO-BB4k|TECNO BB4k|
 |Tecno|SPARK Plus|TECNO-K9|TECNO K9|

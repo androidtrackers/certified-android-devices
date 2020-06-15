@@ -30083,6 +30083,18 @@
    "model": "S10_Plus"
   }
  ],
+ "RD86QE": [
+  {
+   "brand": "DSIC",
+   "name": "RD86QE",
+   "model": "RD86QE"
+  },
+  {
+   "brand": "Remdun",
+   "name": "RD86QE",
+   "model": "RD86QE"
+  }
+ ],
  "S30": [
   {
    "brand": "DTC products",
@@ -104424,6 +104436,11 @@
    "brand": "NEO",
    "name": "GF214-NEO",
    "model": "GF214-NEO"
+  },
+  {
+   "brand": "NEO",
+   "name": "GF215-REY",
+   "model": "GF215-REY"
   }
  ],
  "NQT-1013GIQ": [
@@ -122566,13 +122583,6 @@
    "brand": "Remdun",
    "name": "RD86E",
    "model": "RD86E"
-  }
- ],
- "RD86QE": [
-  {
-   "brand": "Remdun",
-   "name": "RD86QE",
-   "model": "RD86QE"
   }
  ],
  "rk3399_reveal16i_box": [
@@ -144806,6 +144816,13 @@
    "model": "SOG01"
   }
  ],
+ "XQ-AT52": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 1 II",
+   "model": "XQ-AT52"
+  }
+ ],
  "J9150": [
   {
    "brand": "Sony",
@@ -150408,6 +150425,16 @@
    "brand": "TCL",
    "name": "TCL 10 SE",
    "model": "T766H_EEA"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL 10 SE",
+   "model": "T766H_TR"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL 10 SE",
+   "model": "T766J"
   },
   {
    "brand": "TCL",
@@ -156801,6 +156828,11 @@
    "brand": "TCT (Alcatel)",
    "name": "alcatel 1T7 4G",
    "model": "9013X_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "alcatel 1T7 4G",
+   "model": "9013X_TR"
   }
  ],
  "Edison": [
@@ -158843,6 +158875,13 @@
    "brand": "Tecno",
    "name": "SPARK 5 Air",
    "model": "TECNO KD6a"
+  }
+ ],
+ "TECNO-KE6": [
+  {
+   "brand": "Tecno",
+   "name": "SPARK 6 Air",
+   "model": "TECNO KE6"
   }
  ],
  "TECNO-KA9": [

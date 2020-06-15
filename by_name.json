@@ -35350,6 +35350,18 @@
    "model": "S10_Plus"
   }
  ],
+ "RD86QE": [
+  {
+   "brand": "DSIC",
+   "device": "RD86QE",
+   "model": "RD86QE"
+  },
+  {
+   "brand": "Remdun",
+   "device": "RD86QE",
+   "model": "RD86QE"
+  }
+ ],
  "DH-B301K": [
   {
    "brand": "Daehap",
@@ -105530,6 +105542,13 @@
    "model": "GF214-NEO"
   }
  ],
+ "GF215-REY": [
+  {
+   "brand": "NEO",
+   "device": "GF214-NEO",
+   "model": "GF215-REY"
+  }
+ ],
  "NQT-1013GIQ": [
   {
    "brand": "NEONIQ",
@@ -123256,13 +123275,6 @@
    "brand": "Remdun",
    "device": "RD86E",
    "model": "RD86E"
-  }
- ],
- "RD86QE": [
-  {
-   "brand": "Remdun",
-   "device": "RD86QE",
-   "model": "RD86QE"
   }
  ],
  "rk3399_rvlEEA_box": [
@@ -142796,6 +142808,11 @@
    "brand": "Sony",
    "device": "SOG01",
    "model": "SOG01"
+  },
+  {
+   "brand": "Sony",
+   "device": "XQ-AT52",
+   "model": "XQ-AT52"
   }
  ],
  "Xperia 1 Professional Edition": [
@@ -147794,6 +147811,16 @@
    "brand": "TCL",
    "device": "Oakland",
    "model": "T766H_EEA"
+  },
+  {
+   "brand": "TCL",
+   "device": "Oakland",
+   "model": "T766H_TR"
+  },
+  {
+   "brand": "TCL",
+   "device": "Oakland",
+   "model": "T766J"
   },
   {
    "brand": "TCL",
@@ -154424,6 +154451,11 @@
    "brand": "TCT (Alcatel)",
    "device": "King_Kong_7_4G",
    "model": "9013X_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "King_Kong_7_4G",
+   "model": "9013X_TR"
   }
  ],
  "alcatel 1X": [
@@ -156372,6 +156404,13 @@
    "brand": "Tecno",
    "device": "TECNO-KD6",
    "model": "TECNO KD6a"
+  }
+ ],
+ "SPARK 6 Air": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KE6",
+   "model": "TECNO KE6"
   }
  ],
  "SPARK CM": [

@@ -20735,6 +20735,13 @@
    "model": "S10_Plus"
   }
  ],
+ "DSIC": [
+  {
+   "device": "RD86QE",
+   "name": "RD86QE",
+   "model": "RD86QE"
+  }
+ ],
  "DTC products": [
   {
    "device": "S10",
@@ -80232,6 +80239,11 @@
    "device": "GF214-NEO",
    "name": "GF214-NEO",
    "model": "GF214-NEO"
+  },
+  {
+   "device": "GF214-NEO",
+   "name": "GF215-REY",
+   "model": "GF215-REY"
   }
  ],
  "NEONIQ": [
@@ -112208,6 +112220,11 @@
    "model": "SOG01"
   },
   {
+   "device": "XQ-AT52",
+   "name": "Xperia 1 II",
+   "model": "XQ-AT52"
+  },
+  {
    "device": "J9150",
    "name": "Xperia 1 Professional Edition",
    "model": "J9150"
@@ -116593,6 +116610,16 @@
    "device": "Oakland",
    "name": "TCL 10 SE",
    "model": "T766H_EEA"
+  },
+  {
+   "device": "Oakland",
+   "name": "TCL 10 SE",
+   "model": "T766H_TR"
+  },
+  {
+   "device": "Oakland",
+   "name": "TCL 10 SE",
+   "model": "T766J"
   },
   {
    "device": "Oakland",
@@ -122747,6 +122774,11 @@
    "model": "9013X_EEA"
   },
   {
+   "device": "King_Kong_7_4G",
+   "name": "alcatel 1T7 4G",
+   "model": "9013X_TR"
+  },
+  {
    "device": "Edison",
    "name": "alcatel 1X",
    "model": "5008A"
@@ -124507,6 +124539,11 @@
    "device": "TECNO-KD6",
    "name": "SPARK 5 Air",
    "model": "TECNO KD6a"
+  },
+  {
+   "device": "TECNO-KE6",
+   "name": "SPARK 6 Air",
+   "model": "TECNO KE6"
   },
   {
    "device": "TECNO-KA9",
