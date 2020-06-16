@@ -877,6 +877,13 @@
    "model": "TitaniumHD"
   }
  ],
+ "Acepad": [
+  {
+   "device": "A121",
+   "name": "A121",
+   "model": "A121"
+  }
+ ],
  "Acer": [
   {
    "device": "C6",
@@ -2712,6 +2719,11 @@
    "device": "shibuya",
    "name": "IN-32SE9",
    "model": "AkinoTV"
+  },
+  {
+   "device": "laoshan",
+   "name": "laoshan-emA",
+   "model": "HAT4KDTV"
   }
  ],
  "Alba": [
@@ -12640,6 +12652,11 @@
    "device": "Blaupunkt_SM_02",
    "name": "Blaupunkt_SM_02",
    "model": "Blaupunkt_SM_02"
+  },
+  {
+   "device": "nippori",
+   "name": "Czech/Ukraine/Russia",
+   "model": "BLAUPUNKT Android TV 2K"
   },
   {
    "device": "Discovery_A10_302",
@@ -23418,6 +23435,11 @@
    "model": "NotePad_101_B_EEA"
   },
   {
+   "device": "NotePad_102",
+   "name": "NotePad_102",
+   "model": "NotePad_102"
+  },
+  {
    "device": "NotePad_Y80",
    "name": "NotePad_Y80",
    "model": "NotePad_Y80"
@@ -25092,6 +25114,13 @@
    "device": "S3015",
    "name": "S3015",
    "model": "S3015"
+  }
+ ],
+ "Entity": [
+  {
+   "device": "ENT1529I20",
+   "name": "ENT1529I20",
+   "model": "ENT1529I20"
   }
  ],
  "Envizen": [
@@ -29134,6 +29163,11 @@
   }
  ],
  "Geanee": [
+  {
+   "device": "ADP-503G",
+   "name": "ADP-503G",
+   "model": "ADP-503G"
+  },
   {
    "device": "FXC-5A",
    "name": "FXC-5A",
@@ -35813,6 +35847,11 @@
    "model": "D2-961G"
   },
   {
+   "device": "nippori",
+   "name": "EU",
+   "model": "HEC Android TV 2K"
+  },
+  {
    "device": "E13",
    "name": "Elegance E13",
    "model": "E13"
@@ -38393,6 +38432,11 @@
    "model": "HLTE229E"
   },
   {
+   "device": "HLTE229E_10",
+   "name": "Hisense E40",
+   "model": "Hisense E40"
+  },
+  {
    "device": "HLTE229E_11",
    "name": "Hisense E40",
    "model": "HLTE229E"
@@ -39846,6 +39890,11 @@
    "device": "HS8937QC",
    "name": "e76mini",
    "model": "Hisense E76mini"
+  },
+  {
+   "device": "hamamatsucho",
+   "name": "fushan_2",
+   "model": "HiSmart TV"
   },
   {
    "device": "hamamatsucho",
@@ -49225,6 +49274,11 @@
    "model": "7WB1"
   },
   {
+   "device": "Koral_7WC1",
+   "name": "Koral",
+   "model": "7WC1"
+  },
+  {
    "device": "Koral_7WD1",
    "name": "Koral",
    "model": "7WD1"
@@ -53659,6 +53713,11 @@
    "device": "mstarnapoli_atsc",
    "name": "DM65UXR\\DM65USR\\DM85UXR",
    "model": "DM65UXR"
+  },
+  {
+   "device": "sadang",
+   "name": "Dixons",
+   "model": "UK 4K Android TV"
   },
   {
    "device": "bangbae",
@@ -58183,6 +58242,11 @@
    "model": "LM-X540"
   },
   {
+   "device": "mdh30lm",
+   "name": "K51",
+   "model": "LM-K500"
+  },
+  {
    "device": "mdh30xlm",
    "name": "K51",
    "model": "LM-K500"
@@ -61071,6 +61135,16 @@
    "device": "e1q",
    "name": "LG Rebel",
    "model": "LGL44VL"
+  },
+  {
+   "device": "mdh30lm",
+   "name": "LG Reflect",
+   "model": "LGL555DL"
+  },
+  {
+   "device": "mdh30lm",
+   "name": "LG Reflect",
+   "model": "LM-K500"
   },
   {
    "device": "bryce",
@@ -74478,6 +74552,11 @@
    "device": "Pearl_Neo",
    "name": "Pearl_Neo",
    "model": "Pearl_Neo"
+  },
+  {
+   "device": "ULTRAMINTT_X5",
+   "name": "ULTRAMINTT_X5",
+   "model": "ULTRAMINTT X5"
   }
  ],
  "Mintt": [
@@ -74540,6 +74619,11 @@
    "device": "Mintt_Tab_T1",
    "name": "Mintt_Tab_T1",
    "model": "Mintt_Tab_T1"
+  },
+  {
+   "device": "ULTRAMINTT_Y5",
+   "name": "ULTRAMINTT Y5",
+   "model": "ULTRAMINTT Y5"
   },
   {
    "device": "UltraMinttS2",
@@ -77880,6 +77964,11 @@
    "model": "moto g power (XT2041DL)"
   },
   {
+   "device": "sofiap_sprout",
+   "name": "moto g pro",
+   "model": "moto g pro"
+  },
+  {
    "device": "sofiap",
    "name": "moto g stylus",
    "model": "moto g stylus"
@@ -81147,6 +81236,16 @@
    "device": "NID9009",
    "name": "NID9009",
    "model": "NID-9009"
+  },
+  {
+   "device": "NID_1055",
+   "name": "Naxa",
+   "model": "NID-1055"
+  },
+  {
+   "device": "NID_7055",
+   "name": "Naxa",
+   "model": "NID-7055"
   }
  ],
  "Ncredible": [
@@ -83336,6 +83435,16 @@
    "device": "100005209",
    "name": "100005209",
    "model": "100005209"
+  },
+  {
+   "device": "100011885",
+   "name": "100011885",
+   "model": "100011885"
+  },
+  {
+   "device": "100011886",
+   "name": "100011886",
+   "model": "100011886"
   },
   {
    "device": "ONA19TB002",
@@ -93435,6 +93544,11 @@
  ],
  "RCA": [
   {
+   "device": "RCT6716Q25",
+   "name": "RCA RCT6716Q25",
+   "model": "RCT6716Q25"
+  },
+  {
    "device": "RCT6A03W13",
    "name": "10 Viking",
    "model": "RCT6A03W13"
@@ -93553,6 +93667,11 @@
    "device": "MD7081",
    "name": "DAA730R / RCA DAA738R",
    "model": "DAA738R"
+  },
+  {
+   "device": "DRP2091Q",
+   "name": "DRP2091Q",
+   "model": "DRP2091Q"
   },
   {
    "device": "RCT6A03W13FU",
@@ -93808,6 +93927,11 @@
    "device": "RCT6A06E12",
    "name": "RCT6A06E12",
    "model": "RCT6A06E12"
+  },
+  {
+   "device": "RCT6A06Q22",
+   "name": "RCT6A06Q22",
+   "model": "RCT6A06Q22"
   },
   {
    "device": "RLTP5573",
@@ -122834,6 +122958,11 @@
    "model": "9032X_EEA"
   },
   {
+   "device": "Apollo_8_4G",
+   "name": "alcatel 3T8",
+   "model": "9032X_TR"
+  },
+  {
    "device": "PIXI4_55_3G",
    "name": "alcatel PIXI 4 (5.5)",
    "model": "5012D"
@@ -123476,6 +123605,11 @@
   }
  ],
  "TazTag": [
+  {
+   "device": "TazPad-FAP30",
+   "name": "TazPad-FAP30",
+   "model": "TazPad-FAP30"
+  },
   {
    "device": "Tazpad-FAP60",
    "name": "Tazpad-FAP60",
@@ -130680,6 +130814,11 @@
    "device": "1906",
    "name": "vivo 1906",
    "model": "vivo 1906"
+  },
+  {
+   "device": "1906",
+   "name": "vivo 1906",
+   "model": "vivo 2007"
   },
   {
    "device": "1907",

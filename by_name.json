@@ -7146,6 +7146,13 @@
    "model": "TitaniumHD"
   }
  ],
+ "A121": [
+  {
+   "brand": "Acepad",
+   "device": "A121",
+   "model": "A121"
+  }
+ ],
  "A1-713": [
   {
    "brand": "Acer",
@@ -10042,6 +10049,13 @@
    "brand": "Akino",
    "device": "shibuya",
    "model": "AkinoTV"
+  }
+ ],
+ "laoshan-emA": [
+  {
+   "brand": "Akino",
+   "device": "laoshan",
+   "model": "HAT4KDTV"
   }
  ],
  "ALBA 7 TABLET": [
@@ -23936,6 +23950,13 @@
    "brand": "Blaupunkt",
    "device": "Blaupunkt_SM_02",
    "model": "Blaupunkt_SM_02"
+  }
+ ],
+ "Czech/Ukraine/Russia": [
+  {
+   "brand": "Blaupunkt",
+   "device": "nippori",
+   "model": "BLAUPUNKT Android TV 2K"
   }
  ],
  "Discovery_A10_302": [
@@ -39027,6 +39048,13 @@
    "model": "NotePad_101_B_EEA"
   }
  ],
+ "NotePad_102": [
+  {
+   "brand": "Dragontouch",
+   "device": "NotePad_102",
+   "model": "NotePad_102"
+  }
+ ],
  "NotePad_Y80": [
   {
    "brand": "Dragontouch",
@@ -41306,6 +41334,13 @@
    "brand": "Entel",
    "device": "S3015",
    "model": "S3015"
+  }
+ ],
+ "ENT1529I20": [
+  {
+   "brand": "Entity",
+   "device": "ENT1529I20",
+   "model": "ENT1529I20"
   }
  ],
  "ClickTabDSh18": [
@@ -46608,6 +46643,13 @@
    "brand": "Gasei S.A.",
    "device": "SENSE704G",
    "model": "SENSE704G"
+  }
+ ],
+ "ADP-503G": [
+  {
+   "brand": "Geanee",
+   "device": "ADP-503G",
+   "model": "ADP-503G"
   }
  ],
  "FXC-5A": [
@@ -55003,6 +55045,28 @@
    "model": "D2-961G"
   }
  ],
+ "EU": [
+  {
+   "brand": "Haier",
+   "device": "nippori",
+   "model": "HEC Android TV 2K"
+  },
+  {
+   "brand": "QBell",
+   "device": "hanyang",
+   "model": "QBELL Android TV"
+  },
+  {
+   "brand": "QBell",
+   "device": "nippori",
+   "model": "QBELL Android TV 2K"
+  },
+  {
+   "brand": "Sharp",
+   "device": "sindang",
+   "model": "AQUOS_TVE19A"
+  }
+ ],
  "Elegance E13": [
   {
    "brand": "Haier",
@@ -58035,6 +58099,11 @@
   },
   {
    "brand": "Hisense",
+   "device": "HLTE229E_10",
+   "model": "Hisense E40"
+  },
+  {
+   "brand": "Hisense",
    "device": "HLTE229E_11",
    "model": "HLTE229E"
   }
@@ -59998,6 +60067,13 @@
    "brand": "Hisense",
    "device": "HS8937QC",
    "model": "Hisense E76mini"
+  }
+ ],
+ "fushan_2": [
+  {
+   "brand": "Hisense",
+   "device": "hamamatsucho",
+   "model": "HiSmart TV"
   }
  ],
  "fushan_em": [
@@ -69522,6 +69598,11 @@
   },
   {
    "brand": "Hyundai",
+   "device": "Koral_7WC1",
+   "model": "7WC1"
+  },
+  {
+   "brand": "Hyundai",
    "device": "Koral_7WD1",
    "model": "7WD1"
   },
@@ -75115,6 +75196,13 @@
    "model": "DM65UXR"
   }
  ],
+ "Dixons": [
+  {
+   "brand": "JVC",
+   "device": "sadang",
+   "model": "UK 4K Android TV"
+  }
+ ],
  "JVC": [
   {
    "brand": "JVC",
@@ -79984,6 +80072,11 @@
  "K51": [
   {
    "brand": "LGE",
+   "device": "mdh30lm",
+   "model": "LM-K500"
+  },
+  {
+   "brand": "LGE",
    "device": "mdh30xlm",
    "model": "LM-K500"
   }
@@ -83229,6 +83322,18 @@
    "brand": "LGE",
    "device": "e1q",
    "model": "LGL44VL"
+  }
+ ],
+ "LG Reflect": [
+  {
+   "brand": "LGE",
+   "device": "mdh30lm",
+   "model": "LGL555DL"
+  },
+  {
+   "brand": "LGE",
+   "device": "mdh30lm",
+   "model": "LM-K500"
   }
  ],
  "LG Revolution": [
@@ -98907,6 +99012,13 @@
    "model": "Pearl_Neo"
   }
  ],
+ "ULTRAMINTT_X5": [
+  {
+   "brand": "Mint",
+   "device": "ULTRAMINTT_X5",
+   "model": "ULTRAMINTT X5"
+  }
+ ],
  "CoolMinttA3": [
   {
    "brand": "Mintt",
@@ -98975,6 +99087,13 @@
    "brand": "Mintt",
    "device": "Mintt_Tab_T1",
    "model": "Mintt_Tab_T1"
+  }
+ ],
+ "ULTRAMINTT Y5": [
+  {
+   "brand": "Mintt",
+   "device": "ULTRAMINTT_Y5",
+   "model": "ULTRAMINTT Y5"
   }
  ],
  "UltraMinttS2": [
@@ -102602,6 +102721,13 @@
    "brand": "Motorola",
    "device": "sofia",
    "model": "moto g power (XT2041DL)"
+  }
+ ],
+ "moto g pro": [
+  {
+   "brand": "Motorola",
+   "device": "sofiap_sprout",
+   "model": "moto g pro"
   }
  ],
  "moto g stylus": [
@@ -106653,6 +106779,18 @@
    "model": "NID-9009"
   }
  ],
+ "Naxa": [
+  {
+   "brand": "Naxa",
+   "device": "NID_1055",
+   "model": "NID-1055"
+  },
+  {
+   "brand": "Naxa",
+   "device": "NID_7055",
+   "model": "NID-7055"
+  }
+ ],
  "NV8": [
   {
    "brand": "Ncredible",
@@ -109104,6 +109242,20 @@
    "brand": "Onn (Walmart)",
    "device": "100005209",
    "model": "100005209"
+  }
+ ],
+ "100011885": [
+  {
+   "brand": "Onn (Walmart)",
+   "device": "100011885",
+   "model": "100011885"
+  }
+ ],
+ "100011886": [
+  {
+   "brand": "Onn (Walmart)",
+   "device": "100011886",
+   "model": "100011886"
   }
  ],
  "ONA19TB002": [
@@ -120181,23 +120333,6 @@
    "model": "Punos 7"
   }
  ],
- "EU": [
-  {
-   "brand": "QBell",
-   "device": "hanyang",
-   "model": "QBELL Android TV"
-  },
-  {
-   "brand": "QBell",
-   "device": "nippori",
-   "model": "QBELL Android TV 2K"
-  },
-  {
-   "brand": "Sharp",
-   "device": "sindang",
-   "model": "AQUOS_TVE19A"
-  }
- ],
  "QPHONE_10_1": [
   {
    "brand": "QBell",
@@ -121606,6 +121741,13 @@
    "model": "RAVOZ_Z6"
   }
  ],
+ "RCA RCT6716Q25": [
+  {
+   "brand": "RCA",
+   "device": "RCT6716Q25",
+   "model": "RCT6716Q25"
+  }
+ ],
  "10 Viking": [
   {
    "brand": "RCA",
@@ -121754,6 +121896,13 @@
    "brand": "RCA",
    "device": "MD7081",
    "model": "DAA738R"
+  }
+ ],
+ "DRP2091Q": [
+  {
+   "brand": "RCA",
+   "device": "DRP2091Q",
+   "model": "DRP2091Q"
   }
  ],
  "Gemini 10 pro": [
@@ -122104,6 +122253,13 @@
    "brand": "RCA",
    "device": "RCT6A06E12",
    "model": "RCT6A06E12"
+  }
+ ],
+ "RCT6A06Q22": [
+  {
+   "brand": "RCA",
+   "device": "RCT6A06Q22",
+   "model": "RCT6A06Q22"
   }
  ],
  "RLTP5573": [
@@ -154515,6 +154671,11 @@
    "brand": "TCT (Alcatel)",
    "device": "Apollo_8_4G",
    "model": "9032X_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Apollo_8_4G",
+   "model": "9032X_TR"
   }
  ],
  "alcatel PIXI 4 (5.5)": [
@@ -155221,6 +155382,13 @@
    "brand": "TataSky",
    "device": "usw4026tat",
    "model": "Tata Sky Binge Plus"
+  }
+ ],
+ "TazPad-FAP30": [
+  {
+   "brand": "TazTag",
+   "device": "TazPad-FAP30",
+   "model": "TazPad-FAP30"
   }
  ],
  "Tazpad-FAP60": [
@@ -163626,6 +163794,11 @@
    "brand": "Vivo",
    "device": "1906",
    "model": "vivo 1906"
+  },
+  {
+   "brand": "Vivo",
+   "device": "1906",
+   "model": "vivo 2007"
   }
  ],
  "vivo 1907": [

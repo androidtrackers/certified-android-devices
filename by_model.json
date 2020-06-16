@@ -1320,6 +1320,13 @@
    "device": "TitaniumHD"
   }
  ],
+ "A121": [
+  {
+   "brand": "Acepad",
+   "name": "A121",
+   "device": "A121"
+  }
+ ],
  "Acer E320": [
   {
    "brand": "Acer",
@@ -4398,6 +4405,38 @@
    "brand": "Akino",
    "name": "IN-32SE9",
    "device": "shibuya"
+  }
+ ],
+ "HAT4KDTV": [
+  {
+   "brand": "Akino",
+   "name": "laoshan-emA",
+   "device": "laoshan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "EM",
+   "device": "laoshan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "laoshan",
+   "device": "laoshan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "laoshan",
+   "device": "xiaoyushan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "laoshan_emH",
+   "device": "laoshan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "laoshan_laser",
+   "device": "laoshan"
   }
  ],
  "ALBA 7 TABLET": [
@@ -18176,6 +18215,13 @@
    "brand": "Blaupunkt",
    "name": "Blaupunkt_SM_02",
    "device": "Blaupunkt_SM_02"
+  }
+ ],
+ "BLAUPUNKT Android TV 2K": [
+  {
+   "brand": "Blaupunkt",
+   "name": "Czech/Ukraine/Russia",
+   "device": "nippori"
   }
  ],
  "Discovery_A10_302": [
@@ -32924,6 +32970,13 @@
    "device": "NotePad_101_B"
   }
  ],
+ "NotePad_102": [
+  {
+   "brand": "Dragontouch",
+   "name": "NotePad_102",
+   "device": "NotePad_102"
+  }
+ ],
  "NotePad_Y80": [
   {
    "brand": "Dragontouch",
@@ -35182,6 +35235,13 @@
    "brand": "Entel",
    "name": "S3015",
    "device": "S3015"
+  }
+ ],
+ "ENT1529I20": [
+  {
+   "brand": "Entity",
+   "name": "ENT1529I20",
+   "device": "ENT1529I20"
   }
  ],
  "ClickTabDSh18": [
@@ -40650,6 +40710,13 @@
    "brand": "Gasei S.A.",
    "name": "SENSE704G",
    "device": "SENSE704G"
+  }
+ ],
+ "ADP-503G": [
+  {
+   "brand": "Geanee",
+   "name": "ADP-503G",
+   "device": "ADP-503G"
   }
  ],
  "FXC-5A": [
@@ -49625,6 +49692,13 @@
    "device": "D2-961G"
   }
  ],
+ "HEC Android TV 2K": [
+  {
+   "brand": "Haier",
+   "name": "EU",
+   "device": "nippori"
+  }
+ ],
  "E13": [
   {
    "brand": "Haier",
@@ -52124,33 +52198,6 @@
    "device": "hamamatsucho"
   }
  ],
- "HAT4KDTV": [
-  {
-   "brand": "Hisense",
-   "name": "EM",
-   "device": "laoshan"
-  },
-  {
-   "brand": "Hisense",
-   "name": "laoshan",
-   "device": "laoshan"
-  },
-  {
-   "brand": "Hisense",
-   "name": "laoshan",
-   "device": "xiaoyushan"
-  },
-  {
-   "brand": "Hisense",
-   "name": "laoshan_emH",
-   "device": "laoshan"
-  },
-  {
-   "brand": "Hisense",
-   "name": "laoshan_laser",
-   "device": "laoshan"
-  }
- ],
  "BM001": [
   {
    "brand": "Hisense",
@@ -53051,6 +53098,13 @@
    "brand": "Hisense",
    "name": "Hisense E MAX",
    "device": "SC9863A_RU"
+  }
+ ],
+ "Hisense E40": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense E40",
+   "device": "HLTE229E_10"
   }
  ],
  "Hisense E76MINIM": [
@@ -54967,6 +55021,13 @@
    "brand": "Hisense",
    "name": "e76mini",
    "device": "HS8937QC"
+  }
+ ],
+ "HiSmart TV": [
+  {
+   "brand": "Hisense",
+   "name": "fushan_2",
+   "device": "hamamatsucho"
   }
  ],
  "Hisense L830": [
@@ -67471,6 +67532,13 @@
    "device": "Koral_7WB1"
   }
  ],
+ "7WC1": [
+  {
+   "brand": "Hyundai",
+   "name": "Koral",
+   "device": "Koral_7WC1"
+  }
+ ],
  "7WD1": [
   {
    "brand": "Hyundai",
@@ -73184,6 +73252,13 @@
    "brand": "JVC",
    "name": "DM65UXR\\DM65USR\\DM85UXR",
    "device": "mstarnapoli_atsc"
+  }
+ ],
+ "UK 4K Android TV": [
+  {
+   "brand": "JVC",
+   "name": "Dixons",
+   "device": "sadang"
   }
  ],
  "EU 4K Android TV": [
@@ -79378,7 +79453,17 @@
   {
    "brand": "LGE",
    "name": "K51",
+   "device": "mdh30lm"
+  },
+  {
+   "brand": "LGE",
+   "name": "K51",
    "device": "mdh30xlm"
+  },
+  {
+   "brand": "LGE",
+   "name": "LG Reflect",
+   "device": "mdh30lm"
   }
  ],
  "LM-K510": [
@@ -83324,6 +83409,13 @@
    "brand": "LGE",
    "name": "LG Rebel",
    "device": "e1q"
+  }
+ ],
+ "LGL555DL": [
+  {
+   "brand": "LGE",
+   "name": "LG Reflect",
+   "device": "mdh30lm"
   }
  ],
  "VS910 4G": [
@@ -100421,6 +100513,13 @@
    "device": "Pearl_Neo"
   }
  ],
+ "ULTRAMINTT X5": [
+  {
+   "brand": "Mint",
+   "name": "ULTRAMINTT_X5",
+   "device": "ULTRAMINTT_X5"
+  }
+ ],
  "CoolMinttA3": [
   {
    "brand": "Mintt",
@@ -100487,6 +100586,13 @@
    "brand": "Mintt",
    "name": "Mintt_Tab_T1",
    "device": "Mintt_Tab_T1"
+  }
+ ],
+ "ULTRAMINTT Y5": [
+  {
+   "brand": "Mintt",
+   "name": "ULTRAMINTT Y5",
+   "device": "ULTRAMINTT_Y5"
   }
  ],
  "UltraMinttS2": [
@@ -104810,6 +104916,13 @@
    "device": "sofia"
   }
  ],
+ "moto g pro": [
+  {
+   "brand": "Motorola",
+   "name": "moto g pro",
+   "device": "sofiap_sprout"
+  }
+ ],
  "moto g stylus": [
   {
    "brand": "Motorola",
@@ -108912,6 +109025,20 @@
    "device": "NID9009"
   }
  ],
+ "NID-1055": [
+  {
+   "brand": "Naxa",
+   "name": "Naxa",
+   "device": "NID_1055"
+  }
+ ],
+ "NID-7055": [
+  {
+   "brand": "Naxa",
+   "name": "Naxa",
+   "device": "NID_7055"
+  }
+ ],
  "NV8": [
   {
    "brand": "Ncredible",
@@ -111498,6 +111625,20 @@
    "brand": "Onn (Walmart)",
    "name": "100005209",
    "device": "100005209"
+  }
+ ],
+ "100011885": [
+  {
+   "brand": "Onn (Walmart)",
+   "name": "100011885",
+   "device": "100011885"
+  }
+ ],
+ "100011886": [
+  {
+   "brand": "Onn (Walmart)",
+   "name": "100011886",
+   "device": "100011886"
   }
  ],
  "ONA19TB002": [
@@ -124536,6 +124677,13 @@
    "device": "RAVOZ_Z6"
   }
  ],
+ "RCT6716Q25": [
+  {
+   "brand": "RCA",
+   "name": "RCA RCT6716Q25",
+   "device": "RCT6716Q25"
+  }
+ ],
  "RCT6A03W13": [
   {
    "brand": "RCA",
@@ -124712,6 +124860,13 @@
    "brand": "RCA",
    "name": "DAA730R / RCA DAA738R",
    "device": "MD7081"
+  }
+ ],
+ "DRP2091Q": [
+  {
+   "brand": "RCA",
+   "name": "DRP2091Q",
+   "device": "DRP2091Q"
   }
  ],
  "RCT6A03W13FU": [
@@ -125048,6 +125203,13 @@
    "brand": "RCA",
    "name": "RCT6A06E12",
    "device": "RCT6A06E12"
+  }
+ ],
+ "RCT6A06Q22": [
+  {
+   "brand": "RCA",
+   "name": "RCT6A06Q22",
+   "device": "RCT6A06Q22"
   }
  ],
  "RLTP5573": [
@@ -163758,6 +163920,13 @@
    "device": "Apollo_8_4G"
   }
  ],
+ "9032X_TR": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "alcatel 3T8",
+   "device": "Apollo_8_4G"
+  }
+ ],
  "5012D": [
   {
    "brand": "TCT (Alcatel)",
@@ -164487,6 +164656,13 @@
    "brand": "TataSky",
    "name": "Tata Sky Binge Plus",
    "device": "usw4026tat"
+  }
+ ],
+ "TazPad-FAP30": [
+  {
+   "brand": "TazTag",
+   "name": "TazPad-FAP30",
+   "device": "TazPad-FAP30"
   }
  ],
  "Tazpad-FAP60": [
@@ -173403,6 +173579,13 @@
   }
  ],
  "vivo 1906": [
+  {
+   "brand": "Vivo",
+   "name": "vivo 1906",
+   "device": "1906"
+  }
+ ],
+ "vivo 2007": [
   {
    "brand": "Vivo",
    "name": "vivo 1906",
