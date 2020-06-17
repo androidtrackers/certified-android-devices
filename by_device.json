@@ -10042,12 +10042,12 @@
   },
   {
    "brand": "Connexion TV",
-   "name": "VIP6102W",
+   "name": "VIP6102W FCGOV",
    "model": "VIP6102W"
   },
   {
    "brand": "LLA",
-   "name": "VIP6102W",
+   "name": "VIP6102W LLA-PA",
    "model": "VIP6102W"
   },
   {
@@ -40733,6 +40733,13 @@
    "model": "F105DvII"
   }
  ],
+ "F704Bv2_EEA": [
+  {
+   "brand": "Fusion5",
+   "name": "F704Bv2_EEA",
+   "model": "F704Bv2_EEA"
+  }
+ ],
  "Fusion5_F104B": [
   {
    "brand": "Fusion5",
@@ -70783,6 +70790,13 @@
    "model": "itel A23S"
   }
  ],
+ "itel-L5007": [
+  {
+   "brand": "Itel",
+   "name": "itel A24",
+   "model": "itel L5007"
+  }
+ ],
  "itel_A31": [
   {
    "brand": "Itel",
@@ -72628,6 +72642,18 @@
    "brand": "Kanji",
    "name": "KJ_YU_BI",
    "model": "KJ_YU_BI"
+  }
+ ],
+ "KM_SH368AT": [
+  {
+   "brand": "KaonMedia",
+   "name": "KM_SH368AT",
+   "model": "KM_SH368AT"
+  },
+  {
+   "brand": "StarHub",
+   "name": "Android TV Set-Top Box",
+   "model": "KM_SH368AT"
   }
  ],
  "KSTB6077": [
@@ -106045,6 +106071,13 @@
    "brand": "Newland",
    "name": "NLS-NFT10",
    "model": "NLS-NFT10"
+  }
+ ],
+ "NLS-MT90-GL": [
+  {
+   "brand": "Newland",
+   "name": "Newland NLS-MT90",
+   "model": "NLS-MT90"
   }
  ],
  "NLS-N7-GL": [
@@ -144966,6 +144999,13 @@
    "model": "SOG01"
   }
  ],
+ "XQ-AT51": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 1 II",
+   "model": "XQ-AT51"
+  }
+ ],
  "XQ-AT52": [
   {
    "brand": "Sony",
@@ -148518,13 +148558,6 @@
    "brand": "Sprint",
    "name": "Slate 8 Tablet",
    "model": "AQT80"
-  }
- ],
- "KM_SH368AT": [
-  {
-   "brand": "StarHub",
-   "name": "Android TV Set-Top Box",
-   "model": "KM_SH368AT"
   }
  ],
  "PLAY_Click_LTE": [
@@ -161683,6 +161716,13 @@
    "model": "Y10G001S4M_EEA"
   }
  ],
+ "Y10G007S4MI_EEA": [
+  {
+   "brand": "UNOWHY",
+   "name": "Y10G007S4MI_EEA",
+   "model": "Y10G007S4MI_EEA"
+  }
+ ],
  "iRULU-X11": [
   {
    "brand": "USA111",
@@ -165454,6 +165494,18 @@
    "model": "V1936AL"
   }
  ],
+ "1937": [
+  {
+   "brand": "Vivo",
+   "name": "V1937",
+   "model": "V1937"
+  },
+  {
+   "brand": "Vivo",
+   "name": "vivo 1937",
+   "model": "vivo 1937"
+  }
+ ],
  "PD1938": [
   {
    "brand": "Vivo",
@@ -166439,13 +166491,6 @@
    "brand": "Vivo",
    "name": "vivo 1935",
    "model": "vivo 1935"
-  }
- ],
- "1937": [
-  {
-   "brand": "Vivo",
-   "name": "vivo 1937",
-   "model": "vivo 1937"
   }
  ],
  "PD1806": [

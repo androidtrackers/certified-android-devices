@@ -31744,24 +31744,9 @@
    "model": "CTAB1044hn"
   }
  ],
- "VIP6102W": [
+ "VIP6102W FCGOV": [
   {
    "brand": "Connexion TV",
-   "device": "vip6102w",
-   "model": "VIP6102W"
-  },
-  {
-   "brand": "LLA",
-   "device": "vip6102w",
-   "model": "VIP6102W"
-  },
-  {
-   "brand": "TDS",
-   "device": "vip6102w",
-   "model": "VIP6102W"
-  },
-  {
-   "brand": "Vodafone",
    "device": "vip6102w",
    "model": "VIP6102W"
   }
@@ -45886,6 +45871,13 @@
    "brand": "Fusion5",
    "device": "F105DvII",
    "model": "F105DvII"
+  }
+ ],
+ "F704Bv2_EEA": [
+  {
+   "brand": "Fusion5",
+   "device": "F704Bv2_EEA",
+   "model": "F704Bv2_EEA"
   }
  ],
  "Fusion5": [
@@ -74894,6 +74886,13 @@
    "model": "itel A23S"
   }
  ],
+ "itel A24": [
+  {
+   "brand": "Itel",
+   "device": "itel-L5007",
+   "model": "itel L5007"
+  }
+ ],
  "itel A31": [
   {
    "brand": "Itel",
@@ -76728,6 +76727,13 @@
    "brand": "Kanji",
    "device": "KJ_YU_BI",
    "model": "KJ_YU_BI"
+  }
+ ],
+ "KM_SH368AT": [
+  {
+   "brand": "KaonMedia",
+   "device": "KM_SH368AT",
+   "model": "KM_SH368AT"
   }
  ],
  "KSTB6077": [
@@ -86083,6 +86089,13 @@
    "brand": "LINSAY",
    "device": "F-7HD2CORE",
    "model": "LINSAY F-7HD2CORE/F-7HD4CORE/F-10HD2CORE/F-10XHD4CORE"
+  }
+ ],
+ "VIP6102W LLA-PA": [
+  {
+   "brand": "LLA",
+   "device": "vip6102w",
+   "model": "VIP6102W"
   }
  ],
  "VIP6102W-LLA": [
@@ -107185,6 +107198,13 @@
    "brand": "Newland",
    "device": "NLS-NFT10-RU",
    "model": "NLS-NFT10"
+  }
+ ],
+ "Newland NLS-MT90": [
+  {
+   "brand": "Newland",
+   "device": "NLS-MT90-GL",
+   "model": "NLS-MT90"
   }
  ],
  "Newland NLS-N7": [
@@ -142967,6 +142987,11 @@
   },
   {
    "brand": "Sony",
+   "device": "XQ-AT51",
+   "model": "XQ-AT51"
+  },
+  {
+   "brand": "Sony",
    "device": "XQ-AT52",
    "model": "XQ-AT52"
   }
@@ -154835,6 +154860,18 @@
    "model": "tmn smart a8"
   }
  ],
+ "VIP6102W": [
+  {
+   "brand": "TDS",
+   "device": "vip6102w",
+   "model": "VIP6102W"
+  },
+  {
+   "brand": "Vodafone",
+   "device": "vip6102w",
+   "model": "VIP6102W"
+  }
+ ],
  "M103H": [
   {
    "brand": "TECHNOLOGIA Y CRATIVIDAD",
@@ -159205,6 +159242,13 @@
    "model": "Y10G001S4M_EEA"
   }
  ],
+ "Y10G007S4MI_EEA": [
+  {
+   "brand": "UNOWHY",
+   "device": "Y10G007S4MI_EEA",
+   "model": "Y10G007S4MI_EEA"
+  }
+ ],
  "IRULU X11": [
   {
    "brand": "USA111",
@@ -163018,6 +163062,13 @@
    "brand": "Vivo",
    "device": "PD1936G",
    "model": "V1936AL"
+  }
+ ],
+ "V1937": [
+  {
+   "brand": "Vivo",
+   "device": "1937",
+   "model": "V1937"
   }
  ],
  "V1938A": [

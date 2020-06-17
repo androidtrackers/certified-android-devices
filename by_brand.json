@@ -18016,7 +18016,7 @@
  "Connexion TV": [
   {
    "device": "vip6102w",
-   "name": "VIP6102W",
+   "name": "VIP6102W FCGOV",
    "model": "VIP6102W"
   }
  ],
@@ -28512,6 +28512,11 @@
    "device": "F105DvII",
    "name": "F105DvII",
    "model": "F105DvII"
+  },
+  {
+   "device": "F704Bv2_EEA",
+   "name": "F704Bv2_EEA",
+   "model": "F704Bv2_EEA"
   },
   {
    "device": "Fusion5_F104B",
@@ -53463,6 +53468,11 @@
    "model": "itel A23S"
   },
   {
+   "device": "itel-L5007",
+   "name": "itel A24",
+   "model": "itel L5007"
+  },
+  {
    "device": "itel_A31",
    "name": "itel A31",
    "model": "itel A31"
@@ -54954,6 +54964,11 @@
   }
  ],
  "KaonMedia": [
+  {
+   "device": "KM_SH368AT",
+   "name": "KM_SH368AT",
+   "model": "KM_SH368AT"
+  },
   {
    "device": "KSTB6077",
    "name": "KSTB6077",
@@ -63610,7 +63625,7 @@
  "LLA": [
   {
    "device": "vip6102w",
-   "name": "VIP6102W",
+   "name": "VIP6102W LLA-PA",
    "model": "VIP6102W"
   },
   {
@@ -81595,6 +81610,11 @@
    "device": "NLS-NFT10-RU",
    "name": "NLS-NFT10",
    "model": "NLS-NFT10"
+  },
+  {
+   "device": "NLS-MT90-GL",
+   "name": "Newland NLS-MT90",
+   "model": "NLS-MT90"
   },
   {
    "device": "NLS-N7-GL",
@@ -112344,6 +112364,11 @@
    "model": "SOG01"
   },
   {
+   "device": "XQ-AT51",
+   "name": "Xperia 1 II",
+   "model": "XQ-AT51"
+  },
+  {
    "device": "XQ-AT52",
    "name": "Xperia 1 II",
    "model": "XQ-AT52"
@@ -126934,6 +126959,11 @@
    "device": "Y10G001S4M",
    "name": "Y10G001S4M_EEA",
    "model": "Y10G001S4M_EEA"
+  },
+  {
+   "device": "Y10G007S4MI_EEA",
+   "name": "Y10G007S4MI_EEA",
+   "model": "Y10G007S4MI_EEA"
   }
  ],
  "USA111": [
@@ -130194,6 +130224,11 @@
    "device": "PD1936G",
    "name": "V1936AL",
    "model": "V1936AL"
+  },
+  {
+   "device": "1937",
+   "name": "V1937",
+   "model": "V1937"
   },
   {
    "device": "PD1938",

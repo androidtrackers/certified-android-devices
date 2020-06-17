@@ -9565,12 +9565,12 @@
   },
   {
    "brand": "Connexion TV",
-   "name": "VIP6102W",
+   "name": "VIP6102W FCGOV",
    "device": "vip6102w"
   },
   {
    "brand": "LLA",
-   "name": "VIP6102W",
+   "name": "VIP6102W LLA-PA",
    "device": "vip6102w"
   },
   {
@@ -39883,6 +39883,13 @@
    "brand": "Fusion5",
    "name": "F105DvII",
    "device": "F105DvII"
+  }
+ ],
+ "F704Bv2_EEA": [
+  {
+   "brand": "Fusion5",
+   "name": "F704Bv2_EEA",
+   "device": "F704Bv2_EEA"
   }
  ],
  "Fusion5_F104B": [
@@ -72987,6 +72994,13 @@
    "device": "itel-A23S"
   }
  ],
+ "itel L5007": [
+  {
+   "brand": "Itel",
+   "name": "itel A24",
+   "device": "itel-L5007"
+  }
+ ],
  "itel A31": [
   {
    "brand": "Itel",
@@ -74840,6 +74854,18 @@
    "brand": "Kanji",
    "name": "KJ_YU_BI",
    "device": "KJ_YU_BI"
+  }
+ ],
+ "KM_SH368AT": [
+  {
+   "brand": "KaonMedia",
+   "name": "KM_SH368AT",
+   "device": "KM_SH368AT"
+  },
+  {
+   "brand": "StarHub",
+   "name": "Android TV Set-Top Box",
+   "device": "KM_SH368AT"
   }
  ],
  "KSTB6077": [
@@ -109462,6 +109488,11 @@
    "brand": "Newland",
    "name": "NLS-MT9052-RU",
    "device": "NLS-MT9052-GL"
+  },
+  {
+   "brand": "Newland",
+   "name": "Newland NLS-MT90",
+   "device": "NLS-MT90-GL"
   }
  ],
  "NLS-NFT10": [
@@ -149913,6 +149944,13 @@
    "device": "SOG01"
   }
  ],
+ "XQ-AT51": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 1 II",
+   "device": "XQ-AT51"
+  }
+ ],
  "XQ-AT52": [
   {
    "brand": "Sony",
@@ -153424,13 +153462,6 @@
    "brand": "Sprint",
    "name": "Slate 8 Tablet",
    "device": "NKS_AQT80"
-  }
- ],
- "KM_SH368AT": [
-  {
-   "brand": "StarHub",
-   "name": "Android TV Set-Top Box",
-   "device": "KM_SH368AT"
   }
  ],
  "Mobiistar Zumbo J2": [
@@ -168799,6 +168830,13 @@
    "device": "Y10G001S4M"
   }
  ],
+ "Y10G007S4MI_EEA": [
+  {
+   "brand": "UNOWHY",
+   "name": "Y10G007S4MI_EEA",
+   "device": "Y10G007S4MI_EEA"
+  }
+ ],
  "iRULU X11": [
   {
    "brand": "USA111",
@@ -172743,6 +172781,13 @@
    "brand": "Vivo",
    "name": "V1936AL",
    "device": "PD1936G"
+  }
+ ],
+ "V1937": [
+  {
+   "brand": "Vivo",
+   "name": "V1937",
+   "device": "1937"
   }
  ],
  "V1938T": [

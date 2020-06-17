@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-06-16
+Last sync is 2020-06-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3485,7 +3485,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Connectce|Connect Core 6|Connect_Core_6|CP6001A|
 |Connex|CTAB-1044|CTAB-1044|CTAB-1044|
 |Connex|CTAB1044hn|CTAB1044hn|CTAB1044hn|
-|Connexion TV|VIP6102W|vip6102w|VIP6102W|
+|Connexion TV|VIP6102W FCGOV|vip6102w|VIP6102W|
 |Conquest|CONQUEST S12Pro|S12Pro|S12Pro|
 |Conquest|S11|conquest-S11|S11|
 |Conquest|conquest_S16|conquest_S16|conquest_S16|
@@ -5496,6 +5496,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fusion5|F104BvII_PRO|F104BvII_PRO|F104BvII_PRO|
 |Fusion5|F105Dv2|F105Dv2|F105Dv2|
 |Fusion5|F105DvII|F105DvII|F105DvII|
+|Fusion5|F704Bv2_EEA|F704Bv2_EEA|F704Bv2_EEA|
 |Fusion5|Fusion5|Fusion5_F104B|Fusion5_F104B|
 |Fusion5|Fusion5|W104Plus|W104Plus|
 |Fusion5|Fusion5_108|Fusion5_108|Fusion5_108|
@@ -10407,6 +10408,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel A23|itel-A23|itel A23R|
 |Itel|itel A23|itel-A23F|itel A23|
 |Itel|itel A23|itel-A23S|itel A23S|
+|Itel|itel A24|itel-L5007|itel L5007|
 |Itel|itel A31|itel_A31|itel A31|
 |Itel|itel A36|itel-W5505|itel W5505|
 |Itel|itel A40|itel-A40|itel A40|
@@ -10687,6 +10689,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kanji|KJ_OB03|KJ_OB03|KJ_OB03|
 |Kanji|KJ_YUBI|KJ_YUBI|KJ_YUBI|
 |Kanji|KJ_YU_BI|KJ_YU_BI|KJ_YU_BI|
+|KaonMedia|KM_SH368AT|KM_SH368AT|KM_SH368AT|
 |KaonMedia|KSTB6077|KSTB6077|KSTB6077|
 |Kapsys|SmartVision2|r889|KAP11000|
 |Karbonn|A1 Indian|A1_Indian|A1 Indian|
@@ -12399,7 +12402,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LIFE Digital|K3102_WIFI|K3102_WIFI|K3102 WIFI|
 |LINNEX|LI22|LI22|LI22|
 |LINSAY|F-7HD2CORE / F-7HD4CORE / F-10HD2CORE /F-10XHD4CORE|F-7HD2CORE|LINSAY F-7HD2CORE/F-7HD4CORE/F-10HD2CORE/F-10XHD4CORE|
-|LLA|VIP6102W|vip6102w|VIP6102W|
+|LLA|VIP6102W LLA-PA|vip6102w|VIP6102W|
 |LLA|VIP6102W-LLA|vip6102w|VIP6102W|
 |LOOQS|L108MR|L108MR|L108MR|
 |LP (TN)|LP_Pro1|LP_Pro1|LP_Pro1|
@@ -15907,6 +15910,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Newland|NLS-MT9052-RU|NLS-MT9052-GL|NLS-MT90|
 |Newland|NLS-NFT10|NLS-NFT10-GL|NLS-NFT10|
 |Newland|NLS-NFT10|NLS-NFT10-RU|NLS-NFT10|
+|Newland|Newland NLS-MT90|NLS-MT90-GL|NLS-MT90|
 |Newland|Newland NLS-N7|NLS-N7-GL|NLS-N7|
 |Newsday|A1|Newsday_A1|Newsday_A1|
 |Newsday|A2|Newsday_A2|Newsday_A2|
@@ -21928,6 +21932,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 1|SOV40|SOV40|
 |Sony|Xperia 1 II|SO-51A|SO-51A|
 |Sony|Xperia 1 II|SOG01|SOG01|
+|Sony|Xperia 1 II|XQ-AT51|XQ-AT51|
 |Sony|Xperia 1 II|XQ-AT52|XQ-AT52|
 |Sony|Xperia 1 Professional Edition|J9150|J9150|
 |Sony|Xperia 10|I3113|I3113|
@@ -24780,6 +24785,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |UNOWHY|UNOWHY|QOOQ-V50|QOOQ-V50|
 |UNOWHY|UNOWHY|SQOOL-V41|SQOOL-V41|
 |UNOWHY|Y10G001S4M_EEA|Y10G001S4M|Y10G001S4M_EEA|
+|UNOWHY|Y10G007S4MI_EEA|Y10G007S4MI_EEA|Y10G007S4MI_EEA|
 |USA111|IRULU X11|iRULU-X11|iRULU X11|
 |USA111|IRULU X9|X9|X9|
 |USA111|Irulu X7|X7|X7|
@@ -25402,6 +25408,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V1934A|PD1934|V1934A|
 |Vivo|V1936A|PD1936|V1936A|
 |Vivo|V1936AL|PD1936G|V1936AL|
+|Vivo|V1937|1937|V1937|
 |Vivo|V1938A|PD1938|V1938T|
 |Vivo|V1938CT|PD1938|V1938CT|
 |Vivo|V1941A|PD1941|V1941A|
