@@ -36106,6 +36106,13 @@
    "model": "ENT1529I20"
   }
  ],
+ "ENT15QF220": [
+  {
+   "brand": "Entity",
+   "name": "ENT15QF220",
+   "model": "ENT15QF220"
+  }
+ ],
  "ClickTabDSh18": [
   {
    "brand": "Envizen",
@@ -40731,6 +40738,13 @@
    "brand": "Fusion5",
    "name": "F105DvII",
    "model": "F105DvII"
+  }
+ ],
+ "F704Bv2": [
+  {
+   "brand": "Fusion5",
+   "name": "F704Bv2",
+   "model": "F704Bv2"
   }
  ],
  "F704Bv2_EEA": [
@@ -88673,6 +88687,13 @@
    "model": "801LV"
   }
  ],
+ "X306F": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M10 HD (2nd Gen)",
+   "model": "Lenovo TB-X306F"
+  }
+ ],
  "X606V": [
   {
    "brand": "Lenovo",
@@ -101337,8 +101358,8 @@
   },
   {
    "brand": "Motorola",
-   "name": "moto e7",
-   "model": "moto e"
+   "name": "moto e (XT2052DL)",
+   "model": "moto e (XT2052DL)"
   }
  ],
  "james": [
@@ -101821,6 +101842,30 @@
    "brand": "Motorola",
    "name": "motorola one action",
    "model": "motorola one action"
+  }
+ ],
+ "astro": [
+  {
+   "brand": "Motorola",
+   "name": "motorola one fusion",
+   "model": "motorola one"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola one fusion",
+   "model": "motorola one fusion"
+  }
+ ],
+ "liber": [
+  {
+   "brand": "Motorola",
+   "name": "motorola one fusion+",
+   "model": "motorola one fusion+"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola one fusion+",
+   "model": "motorola one mid"
   }
  ],
  "def": [
@@ -115974,6 +116019,13 @@
    "model": "PM45"
   }
  ],
+ "PM451": [
+  {
+   "brand": "Point Mobile",
+   "name": "PM451",
+   "model": "PM451"
+  }
+ ],
  "pm45e": [
   {
    "brand": "Point Mobile",
@@ -116056,13 +116108,6 @@
    "brand": "Point of view",
    "name": "TAB-PTDF-116",
    "model": "TAB-PTDF-116"
-  }
- ],
- "PM451": [
-  {
-   "brand": "PointMobile",
-   "name": "PM451",
-   "model": "PM451"
   }
  ],
  "pike": [
@@ -123185,6 +123230,13 @@
    "model": "E5501"
   }
  ],
+ "STS570": [
+  {
+   "brand": "SAIET",
+   "name": "STS570",
+   "model": "STS570"
+  }
+ ],
  "U320-3G": [
   {
    "brand": "SAKAISIO",
@@ -125694,6 +125746,20 @@
    "brand": "Samsung",
    "name": "Galaxy A40s",
    "model": "SM-A3058"
+  }
+ ],
+ "SC-41A": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A41",
+   "model": "SC-41A"
+  }
+ ],
+ "SCV48": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A41",
+   "model": "SCV48"
   }
  ],
  "a41": [
@@ -141256,6 +141322,13 @@
    "brand": "Sharp",
    "name": "AQUOS R5G SH-51A",
    "model": "SH-51A"
+  }
+ ],
+ "Banagher": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS R5G SH-RM14",
+   "model": "SH-M14"
   }
  ],
  "TGD": [
@@ -161843,6 +161916,13 @@
    "brand": "Ulefone",
    "name": "Armor6",
    "model": "Armor_6"
+  }
+ ],
+ "Armor_7_Q": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor 7",
+   "model": "Armor 7"
   }
  ],
  "Armor_X": [

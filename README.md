@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-06-17
+Last sync is 2020-06-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4849,6 +4849,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Entel|OWN I62S|OWN-I62S|OWN-I62S|
 |Entel|S3015|S3015|S3015|
 |Entity|ENT1529I20|ENT1529I20|ENT1529I20|
+|Entity|ENT15QF220|ENT15QF220|ENT15QF220|
 |Envizen|ClickTabDSh18|ClickTabDSh18|ClickTabDSh18|
 |Envizen|V1018A|V1018A|V1018A|
 |Envizen|VMD9002|VMD9002|VMD9002|
@@ -5496,6 +5497,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fusion5|F104BvII_PRO|F104BvII_PRO|F104BvII_PRO|
 |Fusion5|F105Dv2|F105Dv2|F105Dv2|
 |Fusion5|F105DvII|F105DvII|F105DvII|
+|Fusion5|F704Bv2|F704Bv2|F704Bv2|
 |Fusion5|F704Bv2_EEA|F704Bv2_EEA|F704Bv2_EEA|
 |Fusion5|Fusion5|Fusion5_F104B|Fusion5_F104B|
 |Fusion5|Fusion5|W104Plus|W104Plus|
@@ -13257,6 +13259,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M10 FHD Plus|X606M|Lenovo TB-X606M|
 |Lenovo|Lenovo Tab M10 FHD Plus|X606X|Lenovo TB-X606X|
 |Lenovo|Lenovo Tab M10 FHD Rel|801LV|801LV|
+|Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306F|Lenovo TB-X306F|
 |Lenovo|Lenovo Tab M10 Plus|X606V|Lenovo TB-X606V|
 |Lenovo|Lenovo Tab M10 Plus|X606X|Lenovo TB-X606X|
 |Lenovo|Lenovo Tab M7|7305F|Lenovo TB-7305F|
@@ -15174,6 +15177,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|XT627|umts_irock|XT627|
 |Motorola|moto P30 NOTE|chef|XT1942-1|
 |Motorola|moto e|ginna|moto e|
+|Motorola|moto e (XT2052DL)|ginna|moto e (XT2052DL)|
 |Motorola|moto e(5) cruise|james|moto e5 cruise|
 |Motorola|moto e(5) cruise|james|moto e5 play|
 |Motorola|moto e(5) play|james|moto e5 play|
@@ -15201,7 +15205,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto e6 play|bali|moto e6 play|
 |Motorola|moto e6s|fiji|moto e6|
 |Motorola|moto e6s|fiji|moto e6s|
-|Motorola|moto e7|ginna|moto e|
 |Motorola|moto e⁶ plus|pokerp|moto e(6) plus|
 |Motorola|moto e⁶ˢ|pokerp|moto e(6s)|
 |Motorola|moto g fast|rav|moto g fast|
@@ -15259,6 +15262,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola one|deen_sprout|motorola one|
 |Motorola|motorola one action|troika|motorola one action|
 |Motorola|motorola one action|troika_sprout|motorola one action|
+|Motorola|motorola one fusion|astro|motorola one|
+|Motorola|motorola one fusion|astro|motorola one fusion|
+|Motorola|motorola one fusion+|liber|motorola one fusion+|
+|Motorola|motorola one fusion+|liber|motorola one mid|
 |Motorola|motorola one hyper|def|motorola one hyper|
 |Motorola|motorola one macro|lima|motorola one macro|
 |Motorola|motorola one power|chef_sprout|moto x4|
@@ -17419,6 +17426,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pluzz|PLUZZ_PL5010|PL5010|PLUZZ_PL5010|
 |Pluzz|PLUZZ_PL5510|PLUZZ_PL5510|PLUZZ_PL5510|
 |Point Mobile|PM45|pm45|PM45|
+|Point Mobile|PM451|PM451|PM451|
 |Point Mobile|PM45E|pm45e|PM45E|
 |Point Mobile|PM550|pm550|PM550|
 |Point Mobile|PM550R|pm550r|PM550|
@@ -17431,7 +17439,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Point Mobile|PM90|pm90|PM90|
 |Point of view|PVT-R78-3288|PVT-R78-3288|PVT-R78-3288|
 |Point of view|TAB-PTDF-116|TAB-PTDF-116|TAB-PTDF-116|
-|PointMobile|PM451|PM451|PM451|
 |Pokini|K6|K6|K6|
 |Polar|M600|pike|Polar M600|
 |Polaris|Condroid_X7|polaris-Condroid_X7|Condroid_X7|
@@ -18563,6 +18570,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |S-tell|P771|S-TELL|P771|
 |S-tell|P850|P850|P850|
 |SAGI|E5501|E5501|E5501|
+|SAIET|STS570|STS570|STS570|
 |SAKAISIO|FP-U320-711-WIFI|U320-WF|FP-U320-711-WIFI|
 |SAKAISIO|FP-U320-711-WWAN|U320-3G|FP-U320-711-WWAN|
 |SARL WISE TECHNOLOGIE|P1_Plus|P1_Plus|P1+|
@@ -18953,6 +18961,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A40s|a30c|SM-A3050|
 |Samsung|Galaxy A40s|a30c|SM-A3051|
 |Samsung|Galaxy A40s|a30c|SM-A3058|
+|Samsung|Galaxy A41|SC-41A|SC-41A|
+|Samsung|Galaxy A41|SCV48|SCV48|
 |Samsung|Galaxy A41|a41|SM-A415F|
 |Samsung|Galaxy A5|a53g|SM-A500H|
 |Samsung|Galaxy A5|a5lte|SM-A500F|
@@ -21377,6 +21387,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS R3 SHV44|NAX|SHV44|
 |Sharp|AQUOS R5G 908SH|SG908SH|908SH|
 |Sharp|AQUOS R5G SH-51A|SH-51A|SH-51A|
+|Sharp|AQUOS R5G SH-RM14|Banagher|SH-M14|
 |Sharp|AQUOS R5G SHG01|TGD|SHG01|
 |Sharp|AQUOS SERIE SHL25|SHL25|SHL25|
 |Sharp|AQUOS SERIE SHV32|SHV32|SHV32|
@@ -24804,6 +24815,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor 2|Armor_2|Armor_2|
 |Ulefone|Armor 2S|Armor_2S|Armor_2S|
 |Ulefone|Armor 6|Armor_6|Armor_6|
+|Ulefone|Armor 7|Armor_7_Q|Armor 7|
 |Ulefone|Armor X|Armor_X|Armor_X|
 |Ulefone|Armor X2|Armor_X2|Armor_X2|
 |Ulefone|Armor X5|Armor_X5_Q|Armor X5|

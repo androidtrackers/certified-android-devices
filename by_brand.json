@@ -25121,6 +25121,11 @@
    "device": "ENT1529I20",
    "name": "ENT1529I20",
    "model": "ENT1529I20"
+  },
+  {
+   "device": "ENT15QF220",
+   "name": "ENT15QF220",
+   "model": "ENT15QF220"
   }
  ],
  "Envizen": [
@@ -28512,6 +28517,11 @@
    "device": "F105DvII",
    "name": "F105DvII",
    "model": "F105DvII"
+  },
+  {
+   "device": "F704Bv2",
+   "name": "F704Bv2",
+   "model": "F704Bv2"
   },
   {
    "device": "F704Bv2_EEA",
@@ -67951,6 +67961,11 @@
    "model": "801LV"
   },
   {
+   "device": "X306F",
+   "name": "Lenovo Tab M10 HD (2nd Gen)",
+   "model": "Lenovo TB-X306F"
+  },
+  {
    "device": "X606V",
    "name": "Lenovo Tab M10 Plus",
    "model": "Lenovo TB-X606V"
@@ -77814,6 +77829,11 @@
    "model": "moto e"
   },
   {
+   "device": "ginna",
+   "name": "moto e (XT2052DL)",
+   "model": "moto e (XT2052DL)"
+  },
+  {
    "device": "james",
    "name": "moto e(5) cruise",
    "model": "moto e5 cruise"
@@ -77947,11 +77967,6 @@
    "device": "fiji",
    "name": "moto e6s",
    "model": "moto e6s"
-  },
-  {
-   "device": "ginna",
-   "name": "moto e7",
-   "model": "moto e"
   },
   {
    "device": "pokerp",
@@ -78237,6 +78252,26 @@
    "device": "troika_sprout",
    "name": "motorola one action",
    "model": "motorola one action"
+  },
+  {
+   "device": "astro",
+   "name": "motorola one fusion",
+   "model": "motorola one"
+  },
+  {
+   "device": "astro",
+   "name": "motorola one fusion",
+   "model": "motorola one fusion"
+  },
+  {
+   "device": "liber",
+   "name": "motorola one fusion+",
+   "model": "motorola one fusion+"
+  },
+  {
+   "device": "liber",
+   "name": "motorola one fusion+",
+   "model": "motorola one mid"
   },
   {
    "device": "def",
@@ -89401,6 +89436,11 @@
    "model": "PM45"
   },
   {
+   "device": "PM451",
+   "name": "PM451",
+   "model": "PM451"
+  },
+  {
    "device": "pm45e",
    "name": "PM45E",
    "model": "PM45E"
@@ -89461,13 +89501,6 @@
    "device": "TAB-PTDF-116",
    "name": "TAB-PTDF-116",
    "model": "TAB-PTDF-116"
-  }
- ],
- "PointMobile": [
-  {
-   "device": "PM451",
-   "name": "PM451",
-   "model": "PM451"
   }
  ],
  "Pokini": [
@@ -95305,6 +95338,13 @@
    "model": "E5501"
   }
  ],
+ "SAIET": [
+  {
+   "device": "STS570",
+   "name": "STS570",
+   "model": "STS570"
+  }
+ ],
  "SAKAISIO": [
   {
    "device": "U320-WF",
@@ -97329,6 +97369,16 @@
    "device": "a30c",
    "name": "Galaxy A40s",
    "model": "SM-A3058"
+  },
+  {
+   "device": "SC-41A",
+   "name": "Galaxy A41",
+   "model": "SC-41A"
+  },
+  {
+   "device": "SCV48",
+   "name": "Galaxy A41",
+   "model": "SCV48"
   },
   {
    "device": "a41",
@@ -109501,6 +109551,11 @@
    "device": "SH-51A",
    "name": "AQUOS R5G SH-51A",
    "model": "SH-51A"
+  },
+  {
+   "device": "Banagher",
+   "name": "AQUOS R5G SH-RM14",
+   "model": "SH-M14"
   },
   {
    "device": "TGD",
@@ -127064,6 +127119,11 @@
    "device": "Armor_6",
    "name": "Armor 6",
    "model": "Armor_6"
+  },
+  {
+   "device": "Armor_7_Q",
+   "name": "Armor 7",
+   "model": "Armor 7"
   },
   {
    "device": "Armor_X",

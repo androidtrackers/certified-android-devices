@@ -41328,6 +41328,13 @@
    "model": "ENT1529I20"
   }
  ],
+ "ENT15QF220": [
+  {
+   "brand": "Entity",
+   "device": "ENT15QF220",
+   "model": "ENT15QF220"
+  }
+ ],
  "ClickTabDSh18": [
   {
    "brand": "Envizen",
@@ -45871,6 +45878,13 @@
    "brand": "Fusion5",
    "device": "F105DvII",
    "model": "F105DvII"
+  }
+ ],
+ "F704Bv2": [
+  {
+   "brand": "Fusion5",
+   "device": "F704Bv2",
+   "model": "F704Bv2"
   }
  ],
  "F704Bv2_EEA": [
@@ -91011,6 +91025,13 @@
    "model": "801LV"
   }
  ],
+ "Lenovo Tab M10 HD (2nd Gen)": [
+  {
+   "brand": "Lenovo",
+   "device": "X306F",
+   "model": "Lenovo TB-X306F"
+  }
+ ],
  "Lenovo Tab M10 Plus": [
   {
    "brand": "Lenovo",
@@ -102539,6 +102560,13 @@
    "model": "moto e"
   }
  ],
+ "moto e (XT2052DL)": [
+  {
+   "brand": "Motorola",
+   "device": "ginna",
+   "model": "moto e (XT2052DL)"
+  }
+ ],
  "moto e(5) cruise": [
   {
    "brand": "Motorola",
@@ -102692,13 +102720,6 @@
    "brand": "Motorola",
    "device": "fiji",
    "model": "moto e6s"
-  }
- ],
- "moto e7": [
-  {
-   "brand": "Motorola",
-   "device": "ginna",
-   "model": "moto e"
   }
  ],
  "moto e⁶ plus": [
@@ -103046,6 +103067,30 @@
    "brand": "Motorola",
    "device": "troika_sprout",
    "model": "motorola one action"
+  }
+ ],
+ "motorola one fusion": [
+  {
+   "brand": "Motorola",
+   "device": "astro",
+   "model": "motorola one"
+  },
+  {
+   "brand": "Motorola",
+   "device": "astro",
+   "model": "motorola one fusion"
+  }
+ ],
+ "motorola one fusion+": [
+  {
+   "brand": "Motorola",
+   "device": "liber",
+   "model": "motorola one fusion+"
+  },
+  {
+   "brand": "Motorola",
+   "device": "liber",
+   "model": "motorola one mid"
   }
  ],
  "motorola one hyper": [
@@ -116548,6 +116593,13 @@
    "model": "PM45"
   }
  ],
+ "PM451": [
+  {
+   "brand": "Point Mobile",
+   "device": "PM451",
+   "model": "PM451"
+  }
+ ],
  "PM45E": [
   {
    "brand": "Point Mobile",
@@ -116628,13 +116680,6 @@
    "brand": "Point of view",
    "device": "TAB-PTDF-116",
    "model": "TAB-PTDF-116"
-  }
- ],
- "PM451": [
-  {
-   "brand": "PointMobile",
-   "device": "PM451",
-   "model": "PM451"
   }
  ],
  "M600": [
@@ -123874,6 +123919,13 @@
    "model": "E5501"
   }
  ],
+ "STS570": [
+  {
+   "brand": "SAIET",
+   "device": "STS570",
+   "model": "STS570"
+  }
+ ],
  "FP-U320-711-WIFI": [
   {
    "brand": "SAKAISIO",
@@ -126004,6 +126056,16 @@
   }
  ],
  "Galaxy A41": [
+  {
+   "brand": "Samsung",
+   "device": "SC-41A",
+   "model": "SC-41A"
+  },
+  {
+   "brand": "Samsung",
+   "device": "SCV48",
+   "model": "SCV48"
+  },
   {
    "brand": "Samsung",
    "device": "a41",
@@ -139415,6 +139477,13 @@
    "brand": "Sharp",
    "device": "SH-51A",
    "model": "SH-51A"
+  }
+ ],
+ "AQUOS R5G SH-RM14": [
+  {
+   "brand": "Sharp",
+   "device": "Banagher",
+   "model": "SH-M14"
   }
  ],
  "AQUOS R5G SHG01": [
@@ -159369,6 +159438,13 @@
    "brand": "Ulefone",
    "device": "Armor_6",
    "model": "Armor_6"
+  }
+ ],
+ "Armor 7": [
+  {
+   "brand": "Ulefone",
+   "device": "Armor_7_Q",
+   "model": "Armor 7"
   }
  ],
  "Armor X": [
