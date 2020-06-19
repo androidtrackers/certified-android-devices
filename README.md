@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-06-18
+Last sync is 2020-06-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17683,6 +17683,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Premio|P530|P530|P530|
 |Premio|P540|P540|P540|
 |Premio|PREMIO P450|P450|P450|
+|Premio|PREMIO_S50|PREMIO_S50|PREMIO S50|
 |Premio|Premio P420|Premio_P420|Premio P420|
 |Premio|Premio P610|Premio_P610|P610|
 |Premio|Premio P620|Premio_P620|P620|
@@ -18439,6 +18440,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 8A|olivelite|Redmi 8A|
 |Redmi|Redmi 8A Dual|olivewood|Redmi 8A Dual|
 |Redmi|Redmi 8A Dual|olivewood|Redmi 8A Pro|
+|Redmi|Redmi 9|galahad|M2004J19C|
+|Redmi|Redmi 9|galahad|galahad|
+|Redmi|Redmi 9|lancelot|M2004J19C|
 |Redmi|Redmi K20|davinci|Mi 9T|
 |Redmi|Redmi K20|davinci|Redmi K20|
 |Redmi|Redmi K20|davinciin|Redmi K20|
@@ -18447,6 +18451,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi K20 Pro|raphael|Redmi K20 Pro Premium Edition|
 |Redmi|Redmi K30|phoenix|Redmi K30|
 |Redmi|Redmi K30 5G|picasso|Redmi K30 5G|
+|Redmi|Redmi K30i 5G|picasso|Redmi K30i 5G|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Redmi|Redmi Note 8|ginkgo|GINKGO|
 |Redmi|Redmi Note 8|ginkgo|Redmi Note 8|
@@ -18455,7 +18460,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 8T|willow|Redmi Note 8T|
 |Redmi|Redmi Note 8T|willow|willow|
 |Redmi|Redmi Note 9|merlin|M2003J15SC|
+|Redmi|Redmi Note 9|merlinnfc|M2003J15SC|
+|Redmi|Redmi Note 9 Pro|curtana|Redmi Note 9 Pro|
+|Redmi|Redmi Note 9 Pro|curtana|curtana|
 |Redmi|Redmi Note 9 Pro|joyeuse|Redmi Note 9 Pro|
+|Redmi|Redmi Note 9S|curtana|Redmi Note 9 Pro|
+|Redmi|Redmi Note 9S|curtana|Redmi Note 9S|
+|Redmi|Redmi Note 9S|excalibur|Redmi Note 9 Pro Max|
 |Redway|redway10|redway10|redway10|
 |Redway|redway_7|redway_7|redway_7|
 |Reeder|A8i Q2|A8i-Q2|A8i-Q2|
@@ -23861,6 +23872,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Pixo 7|PIXO7|I212|
 |TCT (Alcatel)|Pixo 7|PIXO7|I213|
 |TCT (Alcatel)|Pop4|POP455C|Pop4|
+|TCT (Alcatel)|REVVL 5G|Seattle_5G|T790W|
 |TCT (Alcatel)|S4035_4G|Pop355|S4035_4G|
 |TCT (Alcatel)|SHINE LITE|shine_lite|5080D|
 |TCT (Alcatel)|SHINE LITE|shine_lite|5080X|
@@ -26445,11 +26457,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Redmi Note 5A|ugg|Redmi Note 5A|
 |Xiaomi|Redmi Note 5A|ugg|Redmi Y1|
 |Xiaomi|Redmi Note 5A|ugglite|Redmi Note 5A|
-|Xiaomi|Redmi Note 9 Pro|curtana|Redmi Note 9 Pro|
-|Xiaomi|Redmi Note 9 Pro|curtana|curtana|
-|Xiaomi|Redmi Note 9S|curtana|Redmi Note 9 Pro|
-|Xiaomi|Redmi Note 9S|curtana|Redmi Note 9S|
-|Xiaomi|Redmi Note 9S|excalibur|Redmi Note 9 Pro Max|
 |Xiaomi|Redmi Pro|omega|Redmi Pro|
 |Xiaomi|Redmi S2|ysl|Redmi S2|
 |Xiaomi|TELEBEE|once|MIBOX3|
@@ -27856,6 +27863,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Axon 10 Pro|P855A03_NA|ZTE A2020U Pro|
 |ZTE|ZTE Axon 10 Pro|P855A21|ZTE A2020N3 Pro|
 |ZTE|ZTE Axon 11 5G|P725A12|ZTE A2021|
+|ZTE|ZTE Axon 11 5G|P725A12|ZTE A2021H|
 |ZTE|ZTE BLADE A0605|P809F15|ZTE BLADE A0605|
 |ZTE|ZTE BLADE A0605|P809F15|ZTE BLADE A6 MAX|
 |ZTE|ZTE BLADE A0620|P840F12|ZTE BLADE A0620|

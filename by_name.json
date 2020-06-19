@@ -118239,6 +118239,13 @@
    "model": "P450"
   }
  ],
+ "PREMIO_S50": [
+  {
+   "brand": "Premio",
+   "device": "PREMIO_S50",
+   "model": "PREMIO S50"
+  }
+ ],
  "Premio P420": [
   {
    "brand": "Premio",
@@ -123066,6 +123073,23 @@
    "model": "Redmi 8A Pro"
   }
  ],
+ "Redmi 9": [
+  {
+   "brand": "Redmi",
+   "device": "galahad",
+   "model": "M2004J19C"
+  },
+  {
+   "brand": "Redmi",
+   "device": "galahad",
+   "model": "galahad"
+  },
+  {
+   "brand": "Redmi",
+   "device": "lancelot",
+   "model": "M2004J19C"
+  }
+ ],
  "Redmi K20": [
   {
    "brand": "Redmi",
@@ -123112,6 +123136,13 @@
    "brand": "Redmi",
    "device": "picasso",
    "model": "Redmi K30 5G"
+  }
+ ],
+ "Redmi K30i 5G": [
+  {
+   "brand": "Redmi",
+   "device": "picasso",
+   "model": "Redmi K30i 5G"
   }
  ],
  "Redmi Note 7": [
@@ -123164,23 +123195,45 @@
    "brand": "Redmi",
    "device": "merlin",
    "model": "M2003J15SC"
+  },
+  {
+   "brand": "Redmi",
+   "device": "merlinnfc",
+   "model": "M2003J15SC"
   }
  ],
  "Redmi Note 9 Pro": [
   {
    "brand": "Redmi",
-   "device": "joyeuse",
-   "model": "Redmi Note 9 Pro"
-  },
-  {
-   "brand": "Xiaomi",
    "device": "curtana",
    "model": "Redmi Note 9 Pro"
   },
   {
-   "brand": "Xiaomi",
+   "brand": "Redmi",
    "device": "curtana",
    "model": "curtana"
+  },
+  {
+   "brand": "Redmi",
+   "device": "joyeuse",
+   "model": "Redmi Note 9 Pro"
+  }
+ ],
+ "Redmi Note 9S": [
+  {
+   "brand": "Redmi",
+   "device": "curtana",
+   "model": "Redmi Note 9 Pro"
+  },
+  {
+   "brand": "Redmi",
+   "device": "curtana",
+   "model": "Redmi Note 9S"
+  },
+  {
+   "brand": "Redmi",
+   "device": "excalibur",
+   "model": "Redmi Note 9 Pro Max"
   }
  ],
  "redway10": [
@@ -153646,6 +153699,13 @@
    "model": "Pop4"
   }
  ],
+ "REVVL 5G": [
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Seattle_5G",
+   "model": "T790W"
+  }
+ ],
  "S4035_4G": [
   {
    "brand": "TCT (Alcatel)",
@@ -169418,23 +169478,6 @@
    "model": "Redmi Note 5A"
   }
  ],
- "Redmi Note 9S": [
-  {
-   "brand": "Xiaomi",
-   "device": "curtana",
-   "model": "Redmi Note 9 Pro"
-  },
-  {
-   "brand": "Xiaomi",
-   "device": "curtana",
-   "model": "Redmi Note 9S"
-  },
-  {
-   "brand": "Xiaomi",
-   "device": "excalibur",
-   "model": "Redmi Note 9 Pro Max"
-  }
- ],
  "Redmi Pro": [
   {
    "brand": "Xiaomi",
@@ -176642,6 +176685,11 @@
    "brand": "ZTE",
    "device": "P725A12",
    "model": "ZTE A2021"
+  },
+  {
+   "brand": "ZTE",
+   "device": "P725A12",
+   "model": "ZTE A2021H"
   }
  ],
  "ZTE BLADE A0605": [
