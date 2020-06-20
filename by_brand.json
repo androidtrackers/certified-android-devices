@@ -23445,6 +23445,11 @@
    "model": "NotePad_Y80"
   },
   {
+   "device": "Notepad102",
+   "name": "Notepad102",
+   "model": "Notepad 102"
+  },
+  {
    "device": "Notepad_Go_801",
    "name": "Notepad_Go_801",
    "model": "Notepad_Go_801"
@@ -24090,6 +24095,11 @@
    "device": "X400",
    "name": "X400",
    "model": "X400"
+  },
+  {
+   "device": "X410",
+   "name": "X410",
+   "model": "X410"
   },
   {
    "device": "X500",
@@ -71299,6 +71309,11 @@
    "device": "mu_1",
    "name": "mu 1",
    "model": "1"
+  },
+  {
+   "device": "mu6",
+   "name": "mu6",
+   "model": "mu6"
   }
  ],
  "Mach Speed": [
@@ -74713,6 +74728,11 @@
    "device": "MIONEI",
    "name": "Mione_Pro",
    "model": "Mione_Pro"
+  },
+  {
+   "device": "mione_S20",
+   "name": "mione_S20",
+   "model": "mione_S20"
   }
  ],
  "Miophone": [
@@ -111541,6 +111561,11 @@
    "model": "SKY 55M"
   },
   {
+   "device": "Neg10_SKY_Black",
+   "name": "SKY Black",
+   "model": "SKY Black"
+  },
+  {
    "device": "Negro_SKY_Black",
    "name": "SKY Black",
    "model": "SKY Black"
@@ -117034,6 +117059,11 @@
    "device": "TokyoPro",
    "name": "TCL T9x",
    "model": "5129Y"
+  },
+  {
+   "device": "Thor_8_4G_VZW",
+   "name": "TCL TAB",
+   "model": "9048S"
   },
   {
    "device": "Hulk_7_KIDS_WIFI",
@@ -125902,6 +125932,11 @@
    "model": "TIS001C"
   },
   {
+   "device": "TIS001_S4",
+   "name": "TIS001_S4",
+   "model": "TIS001_S4"
+  },
+  {
    "device": "TIS_001",
    "name": "TIS_001",
    "model": "TIS_001"
@@ -127184,6 +127219,11 @@
    "device": "Armor_7_Q",
    "name": "Armor 7",
    "model": "Armor 7"
+  },
+  {
+   "device": "Armor_9",
+   "name": "Armor 9",
+   "model": "Armor 9"
   },
   {
    "device": "Armor_X",
@@ -134715,6 +134755,11 @@
    "device": "XGT",
    "name": "XGT",
    "model": "XGT"
+  },
+  {
+   "device": "XGT-T901-E",
+   "name": "XGT-T901-E",
+   "model": "XGT-T901-E"
   },
   {
    "device": "XGTB-A",
@@ -143961,6 +144006,11 @@
    "device": "K79",
    "name": "K79",
    "model": "K79"
+  },
+  {
+   "device": "K70",
+   "name": "k70",
+   "model": "K70"
   }
  ],
  "Zoom": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-06-19
+Last sync is 2020-06-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4535,6 +4535,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dragontouch|NotePad_101_B_EEA|NotePad_101_B|NotePad_101_B_EEA|
 |Dragontouch|NotePad_102|NotePad_102|NotePad_102|
 |Dragontouch|NotePad_Y80|NotePad_Y80|NotePad_Y80|
+|Dragontouch|Notepad102|Notepad102|Notepad 102|
 |Dragontouch|Notepad_Go_801|Notepad_Go_801|Notepad_Go_801|
 |Dragontouch|Notepad_Go_801_EEA|Notepad_Go_801|Notepad_Go_801_EEA|
 |Dragontouch|Notepad_Go_803|Notepad_Go_803|Notepad_Go_803|
@@ -4656,6 +4657,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EPIKONE|T700|T700|T700|
 |EPIKONE|TX800|TX800|TX800|
 |EPIKONE|X400|X400|X400|
+|EPIKONE|X410|X410|X410|
 |EPIKONE|X500|X500|X500|
 |EPIKONE|X503|X503|X503|
 |EPIKONE|X507|X507|X507|
@@ -13903,6 +13905,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MTab|MT3|MT3|MT3|
 |MU (TH)|3|3|3|
 |MU (TH)|mu 1|mu_1|1|
+|MU (TH)|mu6|mu6|mu6|
 |Mach Speed|xtreme|X_treme_Play_Tab|X-treme Play Tab|
 |MachSpeed (Apollo Brands)|STR-9.6-Tablet|STR_96_Tablet|STR-9.6-Tablet|
 |MachSpeed (Apollo Brands)|Trio Stealth_10 Tablet|D_10AL|Trio Stealth_10|
@@ -14565,6 +14568,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mio Tab|Mio_Tab_2019|Mio_Tab_2019|Mio_Tab_2019|
 |Mione|A10|MIONEI|A10|
 |Mione|Mione_Pro|MIONEI|Mione_Pro|
+|Mione|mione_S20|mione_S20|mione_S20|
 |Miophone|Mio Phone|MioPhone2016|Mio Phone 2016|
 |Miophone|Mio Phone|MioPhone2017|MioPhone2017|
 |Mirage|43T|MI-JI-43T|MI-JI-43T|
@@ -21777,6 +21781,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|SKY 5.0LM|SKY_50LM|SKY 5.0LM|
 |Sky Devices|SKY 5.0Pro II|SKY_50Pro_II|SKY 5.0Pro II|
 |Sky Devices|SKY 55M|SKY_55M|SKY 55M|
+|Sky Devices|SKY Black|Neg10_SKY_Black|SKY Black|
 |Sky Devices|SKY Black|Negro_SKY_Black|SKY Black|
 |Sky Devices|SKY Black|SKY_Black|SKY Black|
 |Sky Devices|SKY Prestige|SKY_Prestige|SKY Prestige|
@@ -22846,6 +22851,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL T9|Venice|5148A|
 |TCL|TCL T9+|TokyoPro|5129A|
 |TCL|TCL T9x|TokyoPro|5129Y|
+|TCL|TCL TAB|Thor_8_4G_VZW|9048S|
 |TCL|TKEE MINI|Hulk_7_KIDS_WIFI|8093|
 |TCL|Union TV|UnionTV|UnionTV|
 |TCT (Alcatel)||A556C|A556C|
@@ -24588,6 +24594,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tigers|TIS001A|TIS001A|TIS001A|
 |Tigers|TIS001B|TIS001B|TIS001B|
 |Tigers|TIS001C|TIS001C|TIS001C|
+|Tigers|TIS001_S4|TIS001_S4|TIS001_S4|
 |Tigers|TIS_001|TIS_001|TIS_001|
 |Tiitan|T54|T54|T54|
 |Time2|TIME2|TP1060J|TP1060J|
@@ -24828,6 +24835,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor 2S|Armor_2S|Armor_2S|
 |Ulefone|Armor 6|Armor_6|Armor_6|
 |Ulefone|Armor 7|Armor_7_Q|Armor 7|
+|Ulefone|Armor 9|Armor_9|Armor 9|
 |Ulefone|Armor X|Armor_X|Armor_X|
 |Ulefone|Armor X2|Armor_X2|Armor_X2|
 |Ulefone|Armor X5|Armor_X5_Q|Armor X5|
@@ -26277,6 +26285,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xgody|T702E_EEA|T702E_EEA|T702E_EEA|
 |Xgody|X24_EU|X24_EU|X24_EU|
 |Xgody|XGT|XGT|XGT|
+|Xgody|XGT-T901-E|XGT-T901-E|XGT-T901-E|
 |Xgody|XGTB-A|XGTB-A|XGTB-A|
 |Xgody|XGT_EEA|XGT_EEA|XGT_EEA|
 |Xiaomi|China|braveheart|MiTV|
@@ -28109,6 +28118,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zonko|K78|K78|K78|
 |Zonko|K78_EEA|K78_EEA|K78_EEA|
 |Zonko|K79|K79|K79|
+|Zonko|k70|K70|K70|
 |Zoom|LitePro|LitePro|LitePro|
 |Zoom|Social|SOCIAL|SOCIAL|
 |Zoom|ULTRA|ULTRA|ULTRA|

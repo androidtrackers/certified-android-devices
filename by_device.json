@@ -33869,6 +33869,13 @@
    "model": "NotePad_Y80"
   }
  ],
+ "Notepad102": [
+  {
+   "brand": "Dragontouch",
+   "name": "Notepad102",
+   "model": "Notepad 102"
+  }
+ ],
  "Notepad_Go_801": [
   {
    "brand": "Dragontouch",
@@ -34745,6 +34752,13 @@
    "brand": "Positivo",
    "name": "X400",
    "model": "X400"
+  }
+ ],
+ "X410": [
+  {
+   "brand": "EPIKONE",
+   "name": "X410",
+   "model": "X410"
   }
  ],
  "X500": [
@@ -93037,6 +93051,13 @@
    "model": "1"
   }
  ],
+ "mu6": [
+  {
+   "brand": "MU (TH)",
+   "name": "mu6",
+   "model": "mu6"
+  }
+ ],
  "X_treme_Play_Tab": [
   {
    "brand": "Mach Speed",
@@ -97409,6 +97430,13 @@
    "brand": "Mione",
    "name": "Mione_Pro",
    "model": "Mione_Pro"
+  }
+ ],
+ "mione_S20": [
+  {
+   "brand": "Mione",
+   "name": "mione_S20",
+   "model": "mione_S20"
   }
  ],
  "MioPhone2016": [
@@ -143950,6 +143978,13 @@
    "model": "SKY 55M"
   }
  ],
+ "Neg10_SKY_Black": [
+  {
+   "brand": "Sky Devices",
+   "name": "SKY Black",
+   "model": "SKY Black"
+  }
+ ],
  "Negro_SKY_Black": [
   {
    "brand": "Sky Devices",
@@ -151441,6 +151476,13 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 3X Plus",
    "model": "5029A"
+  }
+ ],
+ "Thor_8_4G_VZW": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB",
+   "model": "9048S"
   }
  ],
  "UnionTV": [
@@ -160480,6 +160522,13 @@
    "model": "TIS001C"
   }
  ],
+ "TIS001_S4": [
+  {
+   "brand": "Tigers",
+   "name": "TIS001_S4",
+   "model": "TIS001_S4"
+  }
+ ],
  "TIS_001": [
   {
    "brand": "Tigers",
@@ -161997,6 +162046,13 @@
    "brand": "Ulefone",
    "name": "Armor 7",
    "model": "Armor 7"
+  }
+ ],
+ "Armor_9": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor 9",
+   "model": "Armor 9"
   }
  ],
  "Armor_X": [
@@ -170951,6 +171007,13 @@
    "brand": "Xgody",
    "name": "XGT",
    "model": "XGT"
+  }
+ ],
+ "XGT-T901-E": [
+  {
+   "brand": "Xgody",
+   "name": "XGT-T901-E",
+   "model": "XGT-T901-E"
   }
  ],
  "XGTB-A": [
@@ -181313,6 +181376,13 @@
    "brand": "Zonko",
    "name": "K79",
    "model": "K79"
+  }
+ ],
+ "K70": [
+  {
+   "brand": "Zonko",
+   "name": "k70",
+   "model": "K70"
   }
  ],
  "LitePro": [
