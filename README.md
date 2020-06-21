@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-06-20
+Last sync is 2020-06-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -27978,6 +27978,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE_V971LM|ZTE_V971LM|ZTE_V971LM|
 |ZTE|ZTE_V97L|ZTE_V97L|ZTE_V97L|
 |ZTE|ZTE Grand X View 3|K83CA|K83CA|
+|ZTE|ZTG01|Z6750K|ZTG01|
 |ZTE|ZTU31|P852F52|ZTU31|
 |ZTE|ZXY-ZTE_N8010|N8010_YM|ZXY-ZTE_N8010|
 |ZTE|ZXY-ZTE_V6700|V6700|ZTE V6700|

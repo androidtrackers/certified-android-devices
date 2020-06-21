@@ -143276,6 +143276,11 @@
    "model": "K83CA"
   },
   {
+   "device": "Z6750K",
+   "name": "ZTG01",
+   "model": "ZTG01"
+  },
+  {
    "device": "P852F52",
    "name": "ZTU31",
    "model": "ZTU31"
