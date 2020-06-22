@@ -14098,6 +14098,13 @@
    "model": "BSS50"
   }
  ],
+ "Bluslate": [
+  {
+   "device": "Bluslate8",
+   "name": "Bluslate8",
+   "model": "Bluslate8"
+  }
+ ],
  "Bmobility": [
   {
    "device": "Belle",
@@ -14621,6 +14628,13 @@
    "device": "noa_G1",
    "name": "noa_G1",
    "model": "noa_G1"
+  }
+ ],
+ "CALME": [
+  {
+   "device": "LT5",
+   "name": "LT5",
+   "model": "LT5"
   }
  ],
  "CANAL-PLUS": [
@@ -38482,6 +38496,16 @@
    "model": "Hisense F15"
   },
   {
+   "device": "HS6739MT",
+   "name": "Hisense F16",
+   "model": "Hisense F16"
+  },
+  {
+   "device": "HS6739MT",
+   "name": "Hisense F16",
+   "model": "Hisense Infinity E6"
+  },
+  {
    "device": "HS6580MT",
    "name": "Hisense F17",
    "model": "Hisense F17"
@@ -38595,6 +38619,11 @@
    "device": "SC9832E",
    "name": "Hisense U40",
    "model": "Hisense U40"
+  },
+  {
+   "device": "HS7731ESP",
+   "name": "Hisense U605",
+   "model": "Hisense U605"
   },
   {
    "device": "SC9832E",
@@ -39612,6 +39641,11 @@
    "model": "E2281SS"
   },
   {
+   "device": "hamamatsucho",
+   "name": "Smart TV",
+   "model": "Smart TV"
+  },
+  {
    "device": "rk3028a",
    "name": "SoundTab MA-317",
    "model": "Hisense SoundTab MA-317"
@@ -39967,16 +40001,6 @@
    "model": "HAT4KDTV"
   },
   {
-   "device": "xiaoyushan",
-   "name": "laoshan",
-   "model": "HAT4KDTV"
-  },
-  {
-   "device": "xiaoyushan",
-   "name": "laoshan",
-   "model": "HiSmartTV A4"
-  },
-  {
    "device": "laoshan",
    "name": "laoshan_emH",
    "model": "HAT4KDTV"
@@ -40000,6 +40024,16 @@
    "device": "vision2_1",
    "name": "vision2_1",
    "model": "vision2_1"
+  },
+  {
+   "device": "xiaoyushan",
+   "name": "xiaoyushan",
+   "model": "HAT4KDTV"
+  },
+  {
+   "device": "xiaoyushan",
+   "name": "xiaoyushan",
+   "model": "HiSmartTV A4"
   },
   {
    "device": "xiaoyushan",
@@ -81580,6 +81614,13 @@
    "model": "ViewPad-Kids-7A"
   }
  ],
+ "Net+": [
+  {
+   "device": "uzx4020nps",
+   "name": "TV",
+   "model": "TV"
+  }
+ ],
  "Netgear": [
   {
    "device": "NeoTV",
@@ -95927,6 +95968,11 @@
    "model": "L80"
   },
   {
+   "device": "Lightyear",
+   "name": "Lightyear",
+   "model": "Lightyear"
+  },
+  {
    "device": "S19",
    "name": "S19",
    "model": "S19"
@@ -97078,6 +97124,11 @@
   {
    "device": "a11q",
    "name": "Galaxy A11",
+   "model": "SM-A115AP"
+  },
+  {
+   "device": "a11q",
+   "name": "Galaxy A11",
    "model": "SM-A115AZ"
   },
   {
@@ -97094,6 +97145,16 @@
    "device": "a11q",
    "name": "Galaxy A11",
    "model": "SM-A115U"
+  },
+  {
+   "device": "a11q",
+   "name": "Galaxy A11",
+   "model": "SM-A115U1"
+  },
+  {
+   "device": "a11q",
+   "name": "Galaxy A11",
+   "model": "SM-A115W"
   },
   {
    "device": "a2corelte",
@@ -103884,6 +103945,11 @@
    "device": "x1s",
    "name": "Galaxy S20 5G",
    "model": "SM-G981B"
+  },
+  {
+   "device": "SCG03",
+   "name": "Galaxy S20 Ultra 5G",
+   "model": "SCG03"
   },
   {
    "device": "z3q",

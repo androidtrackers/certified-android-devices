@@ -4425,11 +4425,6 @@
   },
   {
    "brand": "Hisense",
-   "name": "laoshan",
-   "device": "xiaoyushan"
-  },
-  {
-   "brand": "Hisense",
    "name": "laoshan_emH",
    "device": "laoshan"
   },
@@ -4437,6 +4432,11 @@
    "brand": "Hisense",
    "name": "laoshan_laser",
    "device": "laoshan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "xiaoyushan",
+   "device": "xiaoyushan"
   }
  ],
  "ALBA 7 TABLET": [
@@ -20327,6 +20327,13 @@
    "device": "BSS50"
   }
  ],
+ "Bluslate8": [
+  {
+   "brand": "Bluslate",
+   "name": "Bluslate8",
+   "device": "Bluslate8"
+  }
+ ],
  "Belle": [
   {
    "brand": "Bmobility",
@@ -21100,6 +21107,13 @@
    "brand": "C5 Mobile",
    "name": "noa_G1",
    "device": "noa_G1"
+  }
+ ],
+ "LT5": [
+  {
+   "brand": "CALME",
+   "name": "LT5",
+   "device": "LT5"
   }
  ],
  "CANALATV1": [
@@ -24560,6 +24574,11 @@
    "brand": "Cogeco",
    "name": "TV",
    "device": "uiw4020cog"
+  },
+  {
+   "brand": "Net+",
+   "name": "TV",
+   "device": "uzx4020nps"
   }
  ],
  "TF10EA2": [
@@ -40137,6 +40156,11 @@
    "device": "hamamatsucho"
   },
   {
+   "brand": "Hisense",
+   "name": "Smart TV",
+   "device": "hamamatsucho"
+  },
+  {
    "brand": "Toshiba",
    "name": "fushan_euT",
    "device": "hamamatsucho"
@@ -53163,6 +53187,20 @@
    "device": "HS6739MT"
   }
  ],
+ "Hisense F16": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense F16",
+   "device": "HS6739MT"
+  }
+ ],
+ "Hisense Infinity E6": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense F16",
+   "device": "HS6739MT"
+  }
+ ],
  "Hisense F17": [
   {
    "brand": "Hisense",
@@ -53327,6 +53365,13 @@
    "brand": "Hisense",
    "name": "Hisense U40",
    "device": "SC9832E"
+  }
+ ],
+ "Hisense U605": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U605",
+   "device": "HS7731ESP"
   }
  ],
  "HLTE100E_10": [
@@ -55086,28 +55131,6 @@
    "device": "laohushan"
   }
  ],
- "HiSmartTV A4": [
-  {
-   "brand": "Hisense",
-   "name": "laoshan",
-   "device": "xiaoyushan"
-  },
-  {
-   "brand": "Hisense",
-   "name": "xiaoyushan-em",
-   "device": "xiaoyushan"
-  },
-  {
-   "brand": "Kalley",
-   "name": "xiaoyushan_kalley",
-   "device": "xiaoyushan"
-  },
-  {
-   "brand": "Vu Televisions",
-   "name": "xiaoyushan-vu",
-   "device": "xiaoyushan"
-  }
- ],
  "LT971": [
   {
    "brand": "Hisense",
@@ -55127,6 +55150,28 @@
    "brand": "Hisense",
    "name": "vision2_1",
    "device": "vision2_1"
+  }
+ ],
+ "HiSmartTV A4": [
+  {
+   "brand": "Hisense",
+   "name": "xiaoyushan",
+   "device": "xiaoyushan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "xiaoyushan-em",
+   "device": "xiaoyushan"
+  },
+  {
+   "brand": "Kalley",
+   "name": "xiaoyushan_kalley",
+   "device": "xiaoyushan"
+  },
+  {
+   "brand": "Vu Televisions",
+   "name": "xiaoyushan-vu",
+   "device": "xiaoyushan"
   }
  ],
  "Hitachi 4K Android TV": [
@@ -127656,6 +127701,18 @@
    "device": "L80"
   }
  ],
+ "Lightyear": [
+  {
+   "brand": "SPC Mobile",
+   "name": "Lightyear",
+   "device": "Lightyear"
+  },
+  {
+   "brand": "SPC Universe",
+   "name": "Lightyear",
+   "device": "Lightyear"
+  }
+ ],
  "S19": [
   {
    "brand": "SPC Mobile",
@@ -127787,13 +127844,6 @@
    "brand": "SPC Universe",
    "name": "Laika",
    "device": "Laika"
-  }
- ],
- "Lightyear": [
-  {
-   "brand": "SPC Universe",
-   "name": "Lightyear",
-   "device": "Lightyear"
   }
  ],
  "HEAVEN 10.1": [
@@ -129215,6 +129265,13 @@
    "device": "a11q"
   }
  ],
+ "SM-A115AP": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A11",
+   "device": "a11q"
+  }
+ ],
  "SM-A115AZ": [
   {
    "brand": "Samsung",
@@ -129237,6 +129294,20 @@
   }
  ],
  "SM-A115U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A11",
+   "device": "a11q"
+  }
+ ],
+ "SM-A115U1": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A11",
+   "device": "a11q"
+  }
+ ],
+ "SM-A115W": [
   {
    "brand": "Samsung",
    "name": "Galaxy A11",
@@ -138608,6 +138679,13 @@
    "brand": "Samsung",
    "name": "Galaxy S20 5G",
    "device": "x1s"
+  }
+ ],
+ "SCG03": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S20 Ultra 5G",
+   "device": "SCG03"
   }
  ],
  "SM-G9880": [

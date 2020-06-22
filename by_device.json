@@ -20832,6 +20832,13 @@
    "model": "BSS50"
   }
  ],
+ "Bluslate8": [
+  {
+   "brand": "Bluslate",
+   "name": "Bluslate8",
+   "model": "Bluslate8"
+  }
+ ],
  "Belle": [
   {
    "brand": "Bmobility",
@@ -21459,6 +21466,13 @@
    "brand": "C5 Mobile",
    "name": "noa_G1",
    "model": "noa_G1"
+  }
+ ],
+ "LT5": [
+  {
+   "brand": "CALME",
+   "name": "LT5",
+   "model": "LT5"
   }
  ],
  "HY40A2": [
@@ -40996,6 +41010,11 @@
   },
   {
    "brand": "Hisense",
+   "name": "Smart TV",
+   "model": "Smart TV"
+  },
+  {
+   "brand": "Hisense",
    "name": "fushan_2",
    "model": "HiSmart TV"
   },
@@ -53106,6 +53125,16 @@
   },
   {
    "brand": "Hisense",
+   "name": "Hisense F16",
+   "model": "Hisense F16"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense F16",
+   "model": "Hisense Infinity E6"
+  },
+  {
+   "brand": "Hisense",
    "name": "Hisense F18",
    "model": "Hisense F18"
   },
@@ -53252,6 +53281,11 @@
   }
  ],
  "HS7731ESP": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U605",
+   "model": "Hisense U605"
+  },
   {
    "brand": "Hisense",
    "name": "Hisense U964",
@@ -54523,15 +54557,29 @@
    "model": "HiSmart 4K A4FFM"
   }
  ],
+ "LT971": [
+  {
+   "brand": "Hisense",
+   "name": "lt971",
+   "model": "LT971"
+  }
+ ],
+ "vision2_1": [
+  {
+   "brand": "Hisense",
+   "name": "vision2_1",
+   "model": "vision2_1"
+  }
+ ],
  "xiaoyushan": [
   {
    "brand": "Hisense",
-   "name": "laoshan",
+   "name": "xiaoyushan",
    "model": "HAT4KDTV"
   },
   {
    "brand": "Hisense",
-   "name": "laoshan",
+   "name": "xiaoyushan",
    "model": "HiSmartTV A4"
   },
   {
@@ -54548,20 +54596,6 @@
    "brand": "Vu Televisions",
    "name": "xiaoyushan-vu",
    "model": "HiSmartTV A4"
-  }
- ],
- "LT971": [
-  {
-   "brand": "Hisense",
-   "name": "lt971",
-   "model": "LT971"
-  }
- ],
- "vision2_1": [
-  {
-   "brand": "Hisense",
-   "name": "vision2_1",
-   "model": "vision2_1"
   }
  ],
  "shinjuku": [
@@ -106052,6 +106086,13 @@
    "model": "ViewPad-Kids-7A"
   }
  ],
+ "uzx4020nps": [
+  {
+   "brand": "Net+",
+   "name": "TV",
+   "model": "TV"
+  }
+ ],
  "NeoTV": [
   {
    "brand": "Netgear",
@@ -123902,6 +123943,18 @@
    "model": "L80"
   }
  ],
+ "Lightyear": [
+  {
+   "brand": "SPC Mobile",
+   "name": "Lightyear",
+   "model": "Lightyear"
+  },
+  {
+   "brand": "SPC Universe",
+   "name": "Lightyear",
+   "model": "Lightyear"
+  }
+ ],
  "S19": [
   {
    "brand": "SPC Mobile",
@@ -124052,13 +124105,6 @@
    "brand": "SPC Universe",
    "name": "Laika",
    "model": "Laika"
-  }
- ],
- "Lightyear": [
-  {
-   "brand": "SPC Universe",
-   "name": "Lightyear",
-   "model": "Lightyear"
   }
  ],
  "heaven-10_1": [
@@ -125407,6 +125453,11 @@
   {
    "brand": "Samsung",
    "name": "Galaxy A11",
+   "model": "SM-A115AP"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A11",
    "model": "SM-A115AZ"
   },
   {
@@ -125423,6 +125474,16 @@
    "brand": "Samsung",
    "name": "Galaxy A11",
    "model": "SM-A115U"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A11",
+   "model": "SM-A115U1"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A11",
+   "model": "SM-A115W"
   }
  ],
  "a2corelte": [
@@ -134051,6 +134112,13 @@
    "brand": "Samsung",
    "name": "Galaxy S20 5G",
    "model": "SM-G981W"
+  }
+ ],
+ "SCG03": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S20 Ultra 5G",
+   "model": "SCG03"
   }
  ],
  "z3q": [

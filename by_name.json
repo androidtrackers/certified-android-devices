@@ -26226,6 +26226,13 @@
    "model": "BSS50"
   }
  ],
+ "Bluslate8": [
+  {
+   "brand": "Bluslate",
+   "device": "Bluslate8",
+   "model": "Bluslate8"
+  }
+ ],
  "Belle": [
   {
    "brand": "Bmobility",
@@ -27075,6 +27082,13 @@
    "brand": "C5 Mobile",
    "device": "noa_G1",
    "model": "noa_G1"
+  }
+ ],
+ "LT5": [
+  {
+   "brand": "CALME",
+   "device": "LT5",
+   "model": "LT5"
   }
  ],
  "CANALATV1": [
@@ -30612,6 +30626,11 @@
    "brand": "Hisense",
    "device": "hisense_gx1200v",
    "model": "hisense_gx1200v"
+  },
+  {
+   "brand": "Net+",
+   "device": "uzx4020nps",
+   "model": "TV"
   }
  ],
  "TF10EA2": [
@@ -45861,6 +45880,11 @@
    "model": "FUNAI 4K TV"
   },
   {
+   "brand": "Hisense",
+   "device": "hamamatsucho",
+   "model": "Smart TV"
+  },
+  {
    "brand": "Philips",
    "device": "sindap",
    "model": "PHILIPS 4K TV"
@@ -58149,6 +58173,18 @@
    "model": "Hisense F15"
   }
  ],
+ "Hisense F16": [
+  {
+   "brand": "Hisense",
+   "device": "HS6739MT",
+   "model": "Hisense F16"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HS6739MT",
+   "model": "Hisense Infinity E6"
+  }
+ ],
  "Hisense F17": [
   {
    "brand": "Hisense",
@@ -58300,6 +58336,13 @@
    "brand": "Hisense",
    "device": "SC9832E",
    "model": "Hisense U40"
+  }
+ ],
+ "Hisense U605": [
+  {
+   "brand": "Hisense",
+   "device": "HS7731ESP",
+   "model": "Hisense U605"
   }
  ],
  "Hisense U963": [
@@ -60155,16 +60198,6 @@
    "brand": "Hisense",
    "device": "laoshan",
    "model": "HAT4KDTV"
-  },
-  {
-   "brand": "Hisense",
-   "device": "xiaoyushan",
-   "model": "HAT4KDTV"
-  },
-  {
-   "brand": "Hisense",
-   "device": "xiaoyushan",
-   "model": "HiSmartTV A4"
   }
  ],
  "laoshan_emH": [
@@ -60200,6 +60233,18 @@
    "brand": "Hisense",
    "device": "vision2_1",
    "model": "vision2_1"
+  }
+ ],
+ "xiaoyushan": [
+  {
+   "brand": "Hisense",
+   "device": "xiaoyushan",
+   "model": "HAT4KDTV"
+  },
+  {
+   "brand": "Hisense",
+   "device": "xiaoyushan",
+   "model": "HiSmartTV A4"
   }
  ],
  "xiaoyushan-em": [
@@ -124566,6 +124611,18 @@
    "model": "L80"
   }
  ],
+ "Lightyear": [
+  {
+   "brand": "SPC Mobile",
+   "device": "Lightyear",
+   "model": "Lightyear"
+  },
+  {
+   "brand": "SPC Universe",
+   "device": "Lightyear",
+   "model": "Lightyear"
+  }
+ ],
  "S19": [
   {
    "brand": "SPC Mobile",
@@ -124697,13 +124754,6 @@
    "brand": "SPC Universe",
    "device": "Laika",
    "model": "Laika"
-  }
- ],
- "Lightyear": [
-  {
-   "brand": "SPC Universe",
-   "device": "Lightyear",
-   "model": "Lightyear"
   }
  ],
  "heaven_10_1": [
@@ -125738,6 +125788,11 @@
   {
    "brand": "Samsung",
    "device": "a11q",
+   "model": "SM-A115AP"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a11q",
    "model": "SM-A115AZ"
   },
   {
@@ -125754,6 +125809,16 @@
    "brand": "Samsung",
    "device": "a11q",
    "model": "SM-A115U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a11q",
+   "model": "SM-A115U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a11q",
+   "model": "SM-A115W"
   }
  ],
  "Galaxy A2 Core": [
@@ -133152,6 +133217,11 @@
   }
  ],
  "Galaxy S20 Ultra 5G": [
+  {
+   "brand": "Samsung",
+   "device": "SCG03",
+   "model": "SCG03"
+  },
   {
    "brand": "Samsung",
    "device": "z3q",

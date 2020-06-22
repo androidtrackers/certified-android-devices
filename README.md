@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-06-21
+Last sync is 2020-06-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2748,6 +2748,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bluedot|BNT_1012W|BNT_1012W|BNT-1012|
 |Bluesky|BSS45|BSS45|BSS45|
 |Bluesky|BSS50|BSS50|BSS50|
+|Bluslate|Bluslate8|Bluslate8|Bluslate8|
 |Bmobility|Belle|Belle|Belle|
 |Bmobility|Benji|Benji|Benji|
 |Booken|Cybook Tablet|cybtt10_bk|Cybook-Tablet|
@@ -2843,6 +2844,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |C5 Mobile|noa X Plus|noa_X_plus|noa X plus|
 |C5 Mobile|noa X2 Plus|noa_x2_Plus|noa X2 Plus|
 |C5 Mobile|noa_G1|noa_G1|noa_G1|
+|CALME|LT5|LT5|LT5|
 |CANAL-PLUS|CANALATV1|HY40A2|CANALATV1|
 |CBN Media|connect|connect|connect|
 |CBN Media|g-mee1|g-mee1|g-mee1|
@@ -7444,6 +7446,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense E76MINIM|HS8937QC|Hisense E76MINIM|
 |Hisense|Hisense E77|HS8937QC|Hisense E77|
 |Hisense|Hisense F15|HS6739MT|Hisense F15|
+|Hisense|Hisense F16|HS6739MT|Hisense F16|
+|Hisense|Hisense F16|HS6739MT|Hisense Infinity E6|
 |Hisense|Hisense F17|HS6580MT|Hisense F17|
 |Hisense|Hisense F17|HS6580MT|Hisense Infinity E7|
 |Hisense|Hisense F18|HS6739MT|Hisense F18|
@@ -7467,6 +7471,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense T5 Pro|HS6737MT|Hisense T5 Pro|
 |Hisense|Hisense T965|HS6580MT|Hisense T965|
 |Hisense|Hisense U40|SC9832E|Hisense U40|
+|Hisense|Hisense U605|HS7731ESP|Hisense U605|
 |Hisense|Hisense U963|SC9832E|HLTE100E_10|
 |Hisense|Hisense U963|SC9832E|Hisense U963|
 |Hisense|Hisense U963|SC9832E|Hisense V40|
@@ -7670,6 +7675,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Sero7|rk3168|E2171SS|
 |Hisense|Sero7 LE|rk3026|E2371|
 |Hisense|Sero8|rk3188|E2281SS|
+|Hisense|Smart TV|hamamatsucho|Smart TV|
 |Hisense|SoundTab MA-317|rk3028a|Hisense SoundTab MA-317|
 |Hisense|SoundTab MA-327|rk3028a|Hisense SoundTab MA-327|
 |Hisense|T963|HS7331CSC|Hisense T963|
@@ -7741,13 +7747,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|l830|HS8937QC|STARXTREM 6|
 |Hisense|laohushan|laohushan|HiSmart 4K A4FFM|
 |Hisense|laoshan|laoshan|HAT4KDTV|
-|Hisense|laoshan|xiaoyushan|HAT4KDTV|
-|Hisense|laoshan|xiaoyushan|HiSmartTV A4|
 |Hisense|laoshan_emH|laoshan|HAT4KDTV|
 |Hisense|laoshan_laser|laoshan|HAT4KDTV|
 |Hisense|lt971|LT971|LT971|
 |Hisense|u972|HS7731SP|U972|
 |Hisense|vision2_1|vision2_1|vision2_1|
+|Hisense|xiaoyushan|xiaoyushan|HAT4KDTV|
+|Hisense|xiaoyushan|xiaoyushan|HiSmartTV A4|
 |Hisense|xiaoyushan-em|xiaoyushan|HiSmartTV A4|
 |Hitachi|Hitachi|bangbae|Hitachi 4K Android TV|
 |Hitachi|HitachiTV|shinjuku|HitachiTV|
@@ -15906,6 +15912,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Neostra|Neostra-R10C|Neostra-R10C|Neostra-R10C|
 |Neostra|Neostra-R7|Neostra-R7|Neostra-R7|
 |Neostra|ViewPad 7A|ViewPad-Kids-7A|ViewPad-Kids-7A|
+|Net+|TV|uzx4020nps|TV|
 |Netgear|NeoTVPrime|NeoTV|GTV100|
 |Netmak|NETPAD7|NM-NETPAD7|NM-NETPAD7|
 |Neusoft|S611|S611|S611|
@@ -18677,6 +18684,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Mobile|L70_Lite|L70_Lite|L70_Lite|
 |SPC Mobile|L70_PRO|L70_PRO|L70_PRO|
 |SPC Mobile|L80|L80|L80|
+|SPC Mobile|Lightyear|Lightyear|Lightyear|
 |SPC Mobile|S19|S19|S19|
 |SPC Mobile|SPC GEN|SPC_GEN|SPC GEN|
 |SPC Mobile|SPC GEN LITE|SPC_GEN_LITE|SPC GEN LITE|
@@ -18902,10 +18910,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A10s|a10s|SM-A107F|
 |Samsung|Galaxy A10s|a10s|SM-A107M|
 |Samsung|Galaxy A11|a11q|SM-A115A|
+|Samsung|Galaxy A11|a11q|SM-A115AP|
 |Samsung|Galaxy A11|a11q|SM-A115AZ|
 |Samsung|Galaxy A11|a11q|SM-A115F|
 |Samsung|Galaxy A11|a11q|SM-A115M|
 |Samsung|Galaxy A11|a11q|SM-A115U|
+|Samsung|Galaxy A11|a11q|SM-A115U1|
+|Samsung|Galaxy A11|a11q|SM-A115W|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260F|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260G|
 |Samsung|Galaxy A20|SC-02M|SC-02M|
@@ -20264,6 +20275,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S20 5G|x1q|SM-G981V|
 |Samsung|Galaxy S20 5G|x1q|SM-G981W|
 |Samsung|Galaxy S20 5G|x1s|SM-G981B|
+|Samsung|Galaxy S20 Ultra 5G|SCG03|SCG03|
 |Samsung|Galaxy S20 Ultra 5G|z3q|SM-G9880|
 |Samsung|Galaxy S20 Ultra 5G|z3q|SM-G988N|
 |Samsung|Galaxy S20 Ultra 5G|z3q|SM-G988U|
