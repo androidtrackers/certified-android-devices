@@ -16707,6 +16707,13 @@
    "model": "M823"
   }
  ],
+ "China Network System (CNS)": [
+  {
+   "device": "BCM72604",
+   "name": "STB-9642C1",
+   "model": "STB-9642C1"
+  }
+ ],
  "Chuwi": [
   {
    "device": "Hi9Air",
@@ -24552,6 +24559,11 @@
    "model": "U3H"
   },
   {
+   "device": "U5",
+   "name": "U5",
+   "model": "U5"
+  },
+  {
    "device": "U_Pro",
    "name": "U_Pro",
    "model": "U_Pro"
@@ -30573,6 +30585,11 @@
    "device": "Gtel_X5pro",
    "name": "Gtel_X5pro",
    "model": "Gtel_X5pro"
+  },
+  {
+   "device": "F205_Pro",
+   "name": "India",
+   "model": "GIONEE F205 Pro"
   },
   {
    "device": "M2",
@@ -38503,6 +38520,21 @@
    "model": "Hisense E20"
   },
   {
+   "device": "HS6763MT",
+   "name": "Hisense E30",
+   "model": "HLTE220E"
+  },
+  {
+   "device": "HS6763MT",
+   "name": "Hisense E30",
+   "model": "Hisense E30"
+  },
+  {
+   "device": "HS6763MT",
+   "name": "Hisense E30",
+   "model": "Hisense Infinity E30"
+  },
+  {
    "device": "HLTE229E",
    "name": "Hisense E40",
    "model": "HLTE229E"
@@ -38553,6 +38585,16 @@
    "model": "Hisense Infinity E6"
   },
   {
+   "device": "SC9863A",
+   "name": "Hisense F16",
+   "model": "HLTE221E.20"
+  },
+  {
+   "device": "SC9863A",
+   "name": "Hisense F16",
+   "model": "Hisense F16"
+  },
+  {
    "device": "HS6580MT",
    "name": "Hisense F17",
    "model": "Hisense F17"
@@ -38566,6 +38608,21 @@
    "device": "HS6739MT",
    "name": "Hisense F18",
    "model": "Hisense F18"
+  },
+  {
+   "device": "SC9863A",
+   "name": "Hisense F19",
+   "model": "HLTE223E"
+  },
+  {
+   "device": "SC9863A",
+   "name": "Hisense F19",
+   "model": "HLTE223E.40"
+  },
+  {
+   "device": "SC9863A",
+   "name": "Hisense F19",
+   "model": "Hisense F19"
   },
   {
    "device": "HS6737MT",
@@ -40754,6 +40811,11 @@
    "device": "HZ0011",
    "name": "HZ0011",
    "model": "HZ0011"
+  },
+  {
+   "device": "HZ1012",
+   "name": "HZ1012",
+   "model": "HZ1012"
   },
   {
    "device": "MR768",
@@ -56182,6 +56244,11 @@
    "model": "NET_MAX"
   },
   {
+   "device": "NET_ONE",
+   "name": "NET_ONE",
+   "model": "NET_ONE"
+  },
+  {
    "device": "NET_TITAN",
    "name": "NET_TITAN",
    "model": "NET_TITAN"
@@ -71537,6 +71604,11 @@
    "device": "TAB_711_4G",
    "name": "TAB_711_4G",
    "model": "TAB 711 4G"
+  },
+  {
+   "device": "TAB_811_4G",
+   "name": "TAB_811_4G",
+   "model": "TAB_811_4G"
   }
  ],
  "Making Life Simple": [
@@ -93278,6 +93350,11 @@
    "model": "P6"
   },
   {
+   "device": "Q7_Tablet",
+   "name": "Q7_Tablet",
+   "model": "Q7_Tablet"
+  },
+  {
    "device": "THOR",
    "name": "THOR",
    "model": "THOR"
@@ -95452,6 +95529,11 @@
    "device": "i7Plus",
    "name": "Ruio_i7Plus",
    "model": "i7Plus"
+  },
+  {
+   "device": "Ruio_i7Ultra",
+   "name": "Ruio_i7Ultra",
+   "model": "Ruio_i7Ultra"
   },
   {
    "device": "RUIO_S4",
@@ -112043,6 +112125,13 @@
    "device": "SQ811G",
    "name": "SQ811G",
    "model": "SQ811G"
+  }
+ ],
+ "Smart-Tech TV": [
+  {
+   "device": "yeongdeungpo",
+   "name": "SmartTech",
+   "model": "AiPlus4K"
   }
  ],
  "SmartPad": [

@@ -29887,6 +29887,13 @@
    "model": "M823"
   }
  ],
+ "STB-9642C1": [
+  {
+   "brand": "China Network System (CNS)",
+   "device": "BCM72604",
+   "model": "STB-9642C1"
+  }
+ ],
  "CHUWI": [
   {
    "brand": "Chuwi",
@@ -40611,6 +40618,33 @@
    "model": "U3H"
   }
  ],
+ "U5": [
+  {
+   "brand": "Elephone",
+   "device": "U5",
+   "model": "U5"
+  },
+  {
+   "brand": "Newsday",
+   "device": "GIGI_U5",
+   "model": "U5"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "BUZZ6T4G",
+   "model": "5044A"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "BUZZ6T4G",
+   "model": "5044P"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "BUZZ6T4G",
+   "model": "5044Y"
+  }
+ ],
  "U_Pro": [
   {
    "brand": "Elephone",
@@ -48527,6 +48561,38 @@
    "brand": "Gionee",
    "device": "Gtel_X5pro",
    "model": "Gtel_X5pro"
+  }
+ ],
+ "India": [
+  {
+   "brand": "Gionee",
+   "device": "F205_Pro",
+   "model": "GIONEE F205 Pro"
+  },
+  {
+   "brand": "Micromax",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Realme",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Vu Televisions",
+   "device": "hamamatsucho",
+   "model": "Smart 2K ATV4"
+  },
+  {
+   "brand": "Vu Televisions",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Vu Televisions",
+   "device": "samseong",
+   "model": "AI PONT"
   }
  ],
  "M2": [
@@ -58187,6 +58253,23 @@
    "model": "Hisense E20"
   }
  ],
+ "Hisense E30": [
+  {
+   "brand": "Hisense",
+   "device": "HS6763MT",
+   "model": "HLTE220E"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HS6763MT",
+   "model": "Hisense E30"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HS6763MT",
+   "model": "Hisense Infinity E30"
+  }
+ ],
  "Hisense E40": [
   {
    "brand": "Hisense",
@@ -58245,6 +58328,16 @@
    "brand": "Hisense",
    "device": "HS6739MT",
    "model": "Hisense Infinity E6"
+  },
+  {
+   "brand": "Hisense",
+   "device": "SC9863A",
+   "model": "HLTE221E.20"
+  },
+  {
+   "brand": "Hisense",
+   "device": "SC9863A",
+   "model": "Hisense F16"
   }
  ],
  "Hisense F17": [
@@ -58264,6 +58357,23 @@
    "brand": "Hisense",
    "device": "HS6739MT",
    "model": "Hisense F18"
+  }
+ ],
+ "Hisense F19": [
+  {
+   "brand": "Hisense",
+   "device": "SC9863A",
+   "model": "HLTE223E"
+  },
+  {
+   "brand": "Hisense",
+   "device": "SC9863A",
+   "model": "HLTE223E.40"
+  },
+  {
+   "brand": "Hisense",
+   "device": "SC9863A",
+   "model": "Hisense F19"
   }
  ],
  "Hisense F24": [
@@ -61108,6 +61218,13 @@
    "brand": "Hoozo",
    "device": "HZ0011",
    "model": "HZ0011"
+  }
+ ],
+ "HZ1012": [
+  {
+   "brand": "Hoozo",
+   "device": "HZ1012",
+   "model": "HZ1012"
   }
  ],
  "MR768": [
@@ -78315,6 +78432,13 @@
    "model": "NET_MAX"
   }
  ],
+ "NET_ONE": [
+  {
+   "brand": "Krono",
+   "device": "NET_ONE",
+   "model": "NET_ONE"
+  }
+ ],
  "NET_TITAN": [
   {
    "brand": "Krono",
@@ -95471,6 +95595,13 @@
    "model": "TAB 711 4G"
   }
  ],
+ "TAB_811_4G": [
+  {
+   "brand": "Majestic",
+   "device": "TAB_811_4G",
+   "model": "TAB_811_4G"
+  }
+ ],
  "Brace": [
   {
    "brand": "Making Life Simple",
@@ -98626,33 +98757,6 @@
    "brand": "QMobile",
    "device": "QMobile_Evok_Power",
    "model": "QMobile Evok Power"
-  }
- ],
- "India": [
-  {
-   "brand": "Micromax",
-   "device": "ikebukuro",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Realme",
-   "device": "ikebukuro",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Vu Televisions",
-   "device": "hamamatsucho",
-   "model": "Smart 2K ATV4"
-  },
-  {
-   "brand": "Vu Televisions",
-   "device": "ikebukuro",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Vu Televisions",
-   "device": "samseong",
-   "model": "AI PONT"
   }
  ],
  "Infinity N Series N12": [
@@ -107461,28 +107565,6 @@
    "brand": "Newsday",
    "device": "Newsday_N2_",
    "model": "Newsday_N2+"
-  }
- ],
- "U5": [
-  {
-   "brand": "Newsday",
-   "device": "GIGI_U5",
-   "model": "U5"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "device": "BUZZ6T4G",
-   "model": "5044A"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "device": "BUZZ6T4G",
-   "model": "5044P"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "device": "BUZZ6T4G",
-   "model": "5044Y"
   }
  ],
  "journey one": [
@@ -121436,6 +121518,13 @@
    "model": "P19"
   }
  ],
+ "Q7_Tablet": [
+  {
+   "brand": "QUBO",
+   "device": "Q7_Tablet",
+   "model": "Q7_Tablet"
+  }
+ ],
  "THOR": [
   {
    "brand": "QUBO",
@@ -124074,6 +124163,13 @@
    "brand": "Ruio",
    "device": "i7Plus",
    "model": "i7Plus"
+  }
+ ],
+ "Ruio_i7Ultra": [
+  {
+   "brand": "Ruio",
+   "device": "Ruio_i7Ultra",
+   "model": "Ruio_i7Ultra"
   }
  ],
  "RT-1708": [
@@ -142638,6 +142734,13 @@
    "brand": "Smart (BD)",
    "device": "SQ811G",
    "model": "SQ811G"
+  }
+ ],
+ "SmartTech": [
+  {
+   "brand": "Smart-Tech TV",
+   "device": "yeongdeungpo",
+   "model": "AiPlus4K"
   }
  ],
  "SM181301": [

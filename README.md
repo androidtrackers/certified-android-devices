@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-06-23
+Last sync is 2020-06-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3235,6 +3235,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |China Mobile|A5|M654G|M654G|
 |China Mobile|M762G|M762G|M762G|
 |China Mobile|n1 max|m823_cmcc|M823|
+|China Network System (CNS)|STB-9642C1|BCM72604|STB-9642C1|
 |Chuwi|CHUWI|Hi9Air|Hi9Air|
 |Chuwi|Hi9|Hi9|Hi9|
 |Chuwi|Hi9Pro|Hi9Pro|Hi9Pro|
@@ -4740,6 +4741,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Elephone|U|Elephone_U|U|
 |Elephone|U2|U2|U2|
 |Elephone|U3H|U3H|U3H|
+|Elephone|U5|U5|U5|
 |Elephone|U_Pro|U_Pro|U_Pro|
 |Elephone|W3|W3|W3|
 |Elevate|G50|G50|G50|
@@ -5887,6 +5889,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gionee|GN9010L|GiONEE_CBL7513|GN9010L|
 |Gionee|GN9012|GIONEE_GBL7529|GN9012|
 |Gionee|Gtel_X5pro|Gtel_X5pro|Gtel_X5pro|
+|Gionee|India|F205_Pro|GIONEE F205 Pro|
 |Gionee|M2|M2|M2|
 |Gionee|M2017|GIONEE_GBL8918|M2017|
 |Gionee|M2mini|GiONEE_WBW5612|M2mini|
@@ -7447,6 +7450,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense E MAX|SC9863A_RU|Hisense E MAX|
 |Hisense|Hisense E20|HLTE103E_21|Hisense E20|
 |Hisense|Hisense E20|HLTE103E_22|Hisense E20|
+|Hisense|Hisense E30|HS6763MT|HLTE220E|
+|Hisense|Hisense E30|HS6763MT|Hisense E30|
+|Hisense|Hisense E30|HS6763MT|Hisense Infinity E30|
 |Hisense|Hisense E40|HLTE229E|HLTE229E|
 |Hisense|Hisense E40|HLTE229E_10|HLTE229E|
 |Hisense|Hisense E40|HLTE229E_10|Hisense E40|
@@ -7457,9 +7463,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense F15|HS6739MT|Hisense F15|
 |Hisense|Hisense F16|HS6739MT|Hisense F16|
 |Hisense|Hisense F16|HS6739MT|Hisense Infinity E6|
+|Hisense|Hisense F16|SC9863A|HLTE221E.20|
+|Hisense|Hisense F16|SC9863A|Hisense F16|
 |Hisense|Hisense F17|HS6580MT|Hisense F17|
 |Hisense|Hisense F17|HS6580MT|Hisense Infinity E7|
 |Hisense|Hisense F18|HS6739MT|Hisense F18|
+|Hisense|Hisense F19|SC9863A|HLTE223E|
+|Hisense|Hisense F19|SC9863A|HLTE223E.40|
+|Hisense|Hisense F19|SC9863A|Hisense F19|
 |Hisense|Hisense F24|HS6737MT|Hisense F24|
 |Hisense|Hisense F27|HS6739MT|Hisense F27|
 |Hisense|Hisense F28M|HS8937QC|HLTE210M|
@@ -7894,6 +7905,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hoozo|HZ0010|HZ0010|HZ0010|
 |Hoozo|HZ0010J|HZ0010J|HZ0010J|
 |Hoozo|HZ0011|HZ0011|HZ0011|
+|Hoozo|HZ1012|HZ1012|HZ1012|
 |Hoozo|MR768|MR768|MR768|
 |Hoozo|MR7863|MR7863|MR7863|
 |Hoozo|MZ10863|MZ10863|MZ10863|
@@ -10920,6 +10932,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Krono|NET_LITE|NET_LITE|NET_LITE|
 |Krono|NET_MATRIX|NET_MATRIX|NET_MATRIX|
 |Krono|NET_MAX|NET_MAX|NET_MAX|
+|Krono|NET_ONE|NET_ONE|NET_ONE|
 |Krono|NET_TITAN|NET_TITAN|NET_TITAN|
 |Krono|NET_VOLT|NET_VOLT|NET_VOLT|
 |Krono|SKY|SKY|SKY|
@@ -13947,6 +13960,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Majestic|TAB-714|TAB-714|TAB-714|
 |Majestic|TAB-746|TAB-746|TAB-746|
 |Majestic|TAB_711_4G|TAB_711_4G|TAB 711 4G|
+|Majestic|TAB_811_4G|TAB_811_4G|TAB_811_4G|
 |Making Life Simple|Brace|iQM801|iQM801|
 |Making Life Simple|MLS Novel 3G|iQ181011N|iQ181011N|
 |Making Life Simple|MLS iQ1452aN|iQ1452aN|iQ1452aN|
@@ -18178,6 +18192,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |QUBO|MINERVA_32GB|MINERVA_32GB|MINERVA_32GB|
 |QUBO|P19|P19|P19|
 |QUBO|P6|P6|P6|
+|QUBO|Q7_Tablet|Q7_Tablet|Q7_Tablet|
 |QUBO|THOR|THOR|THOR|
 |Qilive|Q.3778|Q3778|Q.3778|
 |Qilive|Q10S55IN4G|Q10S55IN4G|Q10S55IN4G|
@@ -18594,6 +18609,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ruio|Ruio_S4 Plus|S4Plus|S4Plus|
 |Ruio|Ruio_S5Plus|Ruio_S5Plus|Ruio_S5Plus|
 |Ruio|Ruio_i7Plus|i7Plus|i7Plus|
+|Ruio|Ruio_i7Ultra|Ruio_i7Ultra|Ruio_i7Ultra|
 |Ruio|S4|RUIO_S4|RUIO_S4|
 |Ruio|S5006|RUIO_S5006|S5006|
 |Rumie|RT-1708|RT-1708|RT-1708|
@@ -21873,6 +21889,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smart (BD)|MQ703G|MQ703G|MQ703G|
 |Smart (BD)|MQ703G_1|MQ703G_1|MQ703G_1|
 |Smart (BD)|SQ811G|SQ811G|SQ811G|
+|Smart-Tech TV|SmartTech|yeongdeungpo|AiPlus4K|
 |SmartPad|SM181301|SM181301|SM181301|
 |SmartPad|Smartpad V7|Smartpad-V7|Smartpad-V7|
 |SmartPad|Smartpad-V10|Smartpad-V10|Smartpad-V10|

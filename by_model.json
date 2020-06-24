@@ -9641,6 +9641,11 @@
    "device": "U5"
   },
   {
+   "brand": "Elephone",
+   "name": "U5",
+   "device": "U5"
+  },
+  {
    "brand": "Newsday",
    "name": "U5",
    "device": "GIGI_U5"
@@ -23864,6 +23869,13 @@
    "device": "m823_cmcc"
   }
  ],
+ "STB-9642C1": [
+  {
+   "brand": "China Network System (CNS)",
+   "name": "STB-9642C1",
+   "device": "BCM72604"
+  }
+ ],
  "Hi9Air": [
   {
    "brand": "Chuwi",
@@ -25658,6 +25670,11 @@
   {
    "brand": "Contex",
    "name": "Contex",
+   "device": "yeongdeungpo"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "name": "SmartTech",
    "device": "yeongdeungpo"
   }
  ],
@@ -42643,6 +42660,13 @@
    "device": "Gtel_X5pro"
   }
  ],
+ "GIONEE F205 Pro": [
+  {
+   "brand": "Gionee",
+   "name": "India",
+   "device": "F205_Pro"
+  }
+ ],
  "M2017": [
   {
    "brand": "Gionee",
@@ -53231,6 +53255,27 @@
    "device": "HLTE103E_22"
   }
  ],
+ "HLTE220E": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense E30",
+   "device": "HS6763MT"
+  }
+ ],
+ "Hisense E30": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense E30",
+   "device": "HS6763MT"
+  }
+ ],
+ "Hisense Infinity E30": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense E30",
+   "device": "HS6763MT"
+  }
+ ],
  "Hisense E40": [
   {
    "brand": "Hisense",
@@ -53264,6 +53309,11 @@
    "brand": "Hisense",
    "name": "Hisense F16",
    "device": "HS6739MT"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense F16",
+   "device": "SC9863A"
   }
  ],
  "Hisense Infinity E6": [
@@ -53271,6 +53321,13 @@
    "brand": "Hisense",
    "name": "Hisense F16",
    "device": "HS6739MT"
+  }
+ ],
+ "HLTE221E.20": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense F16",
+   "device": "SC9863A"
   }
  ],
  "Hisense F17": [
@@ -53292,6 +53349,27 @@
    "brand": "Hisense",
    "name": "Hisense F18",
    "device": "HS6739MT"
+  }
+ ],
+ "HLTE223E": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense F19",
+   "device": "SC9863A"
+  }
+ ],
+ "HLTE223E.40": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense F19",
+   "device": "SC9863A"
+  }
+ ],
+ "Hisense F19": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense F19",
+   "device": "SC9863A"
   }
  ],
  "Hisense F24": [
@@ -56009,6 +56087,13 @@
    "brand": "Hoozo",
    "name": "HZ0011",
    "device": "HZ0011"
+  }
+ ],
+ "HZ1012": [
+  {
+   "brand": "Hoozo",
+   "name": "HZ1012",
+   "device": "HZ1012"
   }
  ],
  "MR768": [
@@ -76439,6 +76524,13 @@
    "device": "NET_MAX"
   }
  ],
+ "NET_ONE": [
+  {
+   "brand": "Krono",
+   "name": "NET_ONE",
+   "device": "NET_ONE"
+  }
+ ],
  "NET_TITAN": [
   {
    "brand": "Krono",
@@ -96637,6 +96729,13 @@
    "brand": "Majestic",
    "name": "TAB_711_4G",
    "device": "TAB_711_4G"
+  }
+ ],
+ "TAB_811_4G": [
+  {
+   "brand": "Majestic",
+   "name": "TAB_811_4G",
+   "device": "TAB_811_4G"
   }
  ],
  "iQM801": [
@@ -124355,6 +124454,13 @@
    "device": "P19"
   }
  ],
+ "Q7_Tablet": [
+  {
+   "brand": "QUBO",
+   "name": "Q7_Tablet",
+   "device": "Q7_Tablet"
+  }
+ ],
  "THOR": [
   {
    "brand": "QUBO",
@@ -127110,6 +127216,13 @@
    "brand": "Ruio",
    "name": "Ruio_i7Plus",
    "device": "i7Plus"
+  }
+ ],
+ "Ruio_i7Ultra": [
+  {
+   "brand": "Ruio",
+   "name": "Ruio_i7Ultra",
+   "device": "Ruio_i7Ultra"
   }
  ],
  "RUIO_S4": [
