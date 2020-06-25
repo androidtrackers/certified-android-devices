@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-06-24
+Last sync is 2020-06-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -18974,6 +18974,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A20s|a20s|SM-A207F|
 |Samsung|Galaxy A20s|a20s|SM-A207M|
 |Samsung|Galaxy A21|a21|SM-A215U|
+|Samsung|Galaxy A21|a21|SM-A215W|
 |Samsung|Galaxy A21s|a21s|SM-A217F|
 |Samsung|Galaxy A21s|a21s|SM-A217M|
 |Samsung|Galaxy A21s|a21s|SM-A217N|

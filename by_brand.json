@@ -97446,6 +97446,11 @@
    "model": "SM-A215U"
   },
   {
+   "device": "a21",
+   "name": "Galaxy A21",
+   "model": "SM-A215W"
+  },
+  {
    "device": "a21s",
    "name": "Galaxy A21s",
    "model": "SM-A217F"
