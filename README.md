@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-06-25
+Last sync is 2020-06-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -18934,6 +18934,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A01|a01q|SM-A015V|
 |Samsung|Galaxy A01|a01q|SM-S111DL|
 |Samsung|Galaxy A01 Core|a01core|SM-A013F|
+|Samsung|Galaxy A01 Core|a01core|SM-A013G|
 |Samsung|Galaxy A10|a10|SM-A105F|
 |Samsung|Galaxy A10|a10|SM-A105FN|
 |Samsung|Galaxy A10|a10|SM-A105G|
@@ -26620,6 +26621,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZOOMME|M3|M3|M3|
 |ZOOMME|M6|M6|M6|
 |ZOOMME|Z1|Z1|Z1|
+|ZOOMSMART|LT600T|LT600T|LT600T|
 |ZOOMSMART|LT800|LT800|LT800|
 |ZTE||BUL_P726G|ZTE-RACER|
 |ZTE||D930|D930|

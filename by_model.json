@@ -129418,6 +129418,13 @@
    "device": "a01core"
   }
  ],
+ "SM-A013G": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A01 Core",
+   "device": "a01core"
+  }
+ ],
  "SM-A105F": [
   {
    "brand": "Samsung",
@@ -180371,6 +180378,13 @@
    "brand": "ZMBIZI",
    "name": "ZMBIZI",
    "device": "ZMBIZI_Z1"
+  }
+ ],
+ "LT600T": [
+  {
+   "brand": "ZOOMSMART",
+   "name": "LT600T",
+   "device": "LT600T"
   }
  ],
  "LT800": [

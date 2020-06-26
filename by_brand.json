@@ -97246,6 +97246,11 @@
    "model": "SM-A013F"
   },
   {
+   "device": "a01core",
+   "name": "Galaxy A01 Core",
+   "model": "SM-A013G"
+  },
+  {
    "device": "a10",
    "name": "Galaxy A10",
    "model": "SM-A105F"
@@ -136495,6 +136500,11 @@
   }
  ],
  "ZOOMSMART": [
+  {
+   "device": "LT600T",
+   "name": "LT600T",
+   "model": "LT600T"
+  },
   {
    "device": "LT800",
    "name": "LT800",
