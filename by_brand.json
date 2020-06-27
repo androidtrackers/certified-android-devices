@@ -84949,6 +84949,11 @@
    "model": "CPH1833"
   },
   {
+   "device": "CPH1833L1",
+   "name": "R15 Pro",
+   "model": "CPH1833"
+  },
+  {
    "device": "PACM00",
    "name": "R15 中国版",
    "model": "PACM00"

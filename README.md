@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-06-26
+Last sync is 2020-06-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -16549,6 +16549,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|R15|CPH1835|CPH1835|
 |Oppo|R15 Pro|CPH1831|CPH1831|
 |Oppo|R15 Pro|CPH1833|CPH1833|
+|Oppo|R15 Pro|CPH1833L1|CPH1833|
 |Oppo|R15 中国版|PACM00|PACM00|
 |Oppo|R15 中国版|PACT00|PACT00|
 |Oppo|R15 梦境版|PAAM00|PAAM00|
