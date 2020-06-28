@@ -9884,12 +9884,21 @@
    "model": "AT702"
   }
  ],
- "ASIA MIDDLE EAST  AFRICA  EU": [
+ "AFL0065S": [
+  {
+   "brand": "Aiwa",
+   "device": "sindorim",
+   "model": "AI PONT"
+  }
+ ],
+ "AW-LED32G7K": [
   {
    "brand": "Aiwa",
    "device": "ikebukuro",
    "model": "AI PONT"
-  },
+  }
+ ],
+ "AW-LED50X6FL": [
   {
    "brand": "Aiwa",
    "device": "samseong",
@@ -9957,13 +9966,6 @@
    "brand": "Aiwa",
    "device": "KSTB6043",
    "model": "KSTB6043"
-  }
- ],
- "Philippines": [
-  {
-   "brand": "Aiwa",
-   "device": "sindorim",
-   "model": "AI PONT"
   }
  ],
  "Z9": [
@@ -11699,7 +11701,7 @@
    "model": "PSY7020SKD"
   }
  ],
- "Serbia": [
+ "Alpha 43G7NUA": [
   {
    "brand": "Alpha",
    "device": "samseong",
@@ -21721,29 +21723,14 @@
    "model": "EKO Android TV 2K"
   },
   {
-   "brand": "JVC",
-   "device": "samseong",
-   "model": "AI PONT"
-  },
-  {
    "brand": "Kogan",
    "device": "hanyang",
    "model": "Kogan SmarterTV"
   },
   {
    "brand": "Kogan",
-   "device": "ikebukuro",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Kogan",
    "device": "nippori",
    "model": "Kogan SmarterTV 2K"
-  },
-  {
-   "brand": "Kogan",
-   "device": "samseong",
-   "model": "AI PONT"
   },
   {
    "brand": "Kogan",
@@ -22066,12 +22053,14 @@
    "model": "B50_CHT"
   }
  ],
- "China Taiwan": [
+ "E40-520": [
   {
    "brand": "BenQ",
    "device": "ikebukuro",
    "model": "AI PONT"
-  },
+  }
+ ],
+ "E55-720": [
   {
    "brand": "BenQ",
    "device": "samseong",
@@ -28953,37 +28942,10 @@
    "model": "q7"
   }
  ],
- "AP(Indonesia etc.)/MENA": [
-  {
-   "brand": "Changhong",
-   "device": "ikebukuro",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Changhong",
-   "device": "ikebukuro",
-   "model": "CHiQ AI Center"
-  },
-  {
-   "brand": "Changhong",
-   "device": "samseong",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Changhong",
-   "device": "samseong",
-   "model": "CHiQ AI Center"
-  }
- ],
  "Central America": [
   {
    "brand": "Changhong",
    "device": "sindorim",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "JVC",
-   "device": "samseong",
    "model": "AI PONT"
   }
  ],
@@ -29001,11 +28963,35 @@
    "model": "GIU6860"
   }
  ],
+ "L32H7": [
+  {
+   "brand": "Changhong",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Changhong",
+   "device": "ikebukuro",
+   "model": "CHiQ AI Center"
+  }
+ ],
  "SA": [
   {
    "brand": "Changhong",
    "device": "sindorim",
    "model": "AI PONT"
+  }
+ ],
+ "U50H7": [
+  {
+   "brand": "Changhong",
+   "device": "samseong",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Changhong",
+   "device": "samseong",
+   "model": "CHiQ AI Center"
   }
  ],
  "Stream+": [
@@ -30115,7 +30101,7 @@
    "model": "CLARMIN C1"
   }
  ],
- "SAUDI ARABIC": [
+ "CGS55UHD": [
   {
    "brand": "Classpro",
    "device": "samseong",
@@ -30998,6 +30984,13 @@
    "model": "SmartPad-3G_C-708"
   }
  ],
+ "32SD520": [
+  {
+   "brand": "Condor",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  }
+ ],
  "A9": [
   {
    "brand": "Condor",
@@ -31013,23 +31006,6 @@
    "brand": "Kenxinda",
    "device": "A9",
    "model": "A9"
-  }
- ],
- "Algeria": [
-  {
-   "brand": "Condor",
-   "device": "ikebukuro",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Thomson",
-   "device": "ikebukuro",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Thomson",
-   "device": "samseong",
-   "model": "AI PONT"
   }
  ],
  "Allure  M1": [
@@ -41068,6 +41044,13 @@
    "model": "PBSKD12"
   }
  ],
+ "PBSKD7001": [
+  {
+   "brand": "Ematic",
+   "device": "PBSKD7001",
+   "model": "PBSKD7001"
+  }
+ ],
  "PBSKD7200": [
   {
    "brand": "Ematic",
@@ -41606,11 +41589,6 @@
    "brand": "Erito",
    "device": "samseong",
    "model": "AI PONT"
-  },
-  {
-   "brand": "Vsmart",
-   "device": "samseong",
-   "model": "VINATV 4K"
   }
  ],
  "Essential": [
@@ -41737,19 +41715,9 @@
    "model": "eSTAR GRAND HD Quad core"
   }
  ],
- "Korea": [
+ "AA650UHD THE SMART PRO": [
   {
    "brand": "Estla",
-   "device": "sindorim",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Prism",
-   "device": "sindorim",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "THEHAM",
    "device": "sindorim",
    "model": "AI PONT"
   }
@@ -48570,29 +48538,9 @@
    "model": "GIONEE F205 Pro"
   },
   {
-   "brand": "Micromax",
-   "device": "ikebukuro",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Realme",
-   "device": "ikebukuro",
-   "model": "AI PONT"
-  },
-  {
    "brand": "Vu Televisions",
    "device": "hamamatsucho",
    "model": "Smart 2K ATV4"
-  },
-  {
-   "brand": "Vu Televisions",
-   "device": "ikebukuro",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Vu Televisions",
-   "device": "samseong",
-   "model": "AI PONT"
   }
  ],
  "M2": [
@@ -60457,7 +60405,7 @@
    "model": "HitachiTV"
   }
  ],
- "SAUDI ARABIC/Iraq Australia": [
+ "LD50CHS04U": [
   {
    "brand": "Hitachi",
    "device": "samseong",
@@ -69581,18 +69529,6 @@
    "model": "TCC893X_EVM"
   }
  ],
- "Columbia": [
-  {
-   "brand": "Hyundai",
-   "device": "ikebukuro",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Hyundai",
-   "device": "sindorim",
-   "model": "AI PONT"
-  }
- ],
  "E435 Plus": [
   {
    "brand": "Hyundai",
@@ -69715,6 +69651,34 @@
    "model": "Eternity_P7"
   }
  ],
+ "H-LED32ES5008": [
+  {
+   "brand": "Hyundai",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  }
+ ],
+ "H-LED32ES5108": [
+  {
+   "brand": "Hyundai",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  }
+ ],
+ "H-LED50EU7008": [
+  {
+   "brand": "Hyundai",
+   "device": "samseong",
+   "model": "AI PONT"
+  }
+ ],
+ "HATV-58AA100": [
+  {
+   "brand": "Hyundai",
+   "device": "samseong",
+   "model": "AI PONT"
+  }
+ ],
  "HDT-7433H": [
   {
    "brand": "Hyundai",
@@ -69755,6 +69719,13 @@
    "brand": "Hyundai",
    "device": "HY1_5085",
    "model": "HY1-5085"
+  }
+ ],
+ "HYLED5520A4KM": [
+  {
+   "brand": "Hyundai",
+   "device": "sindorim",
+   "model": "AI PONT"
   }
  ],
  "Hyundai": [
@@ -69837,23 +69808,6 @@
    "brand": "Hyundai",
    "device": "HT3G60L",
    "model": "Hyundai_Eternity_G60"
-  }
- ],
- "Israel": [
-  {
-   "brand": "Hyundai",
-   "device": "samseong",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "PILOT",
-   "device": "samseong",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Sansui",
-   "device": "SAN-8487",
-   "model": "SAN-8487"
   }
  ],
  "Koral": [
@@ -69995,23 +69949,6 @@
    "brand": "Hyundai",
    "device": "L601F",
    "model": "L601F"
-  }
- ],
- "Russia": [
-  {
-   "brand": "Hyundai",
-   "device": "ikebukuro",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Hyundai",
-   "device": "samseong",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "MTS (RU)",
-   "device": "B866_MTS_IPTV",
-   "model": "B866"
   }
  ],
  "Seoul 9": [
@@ -74610,6 +74547,11 @@
    "brand": "Lava",
    "device": "A55",
    "model": "A55"
+  },
+  {
+   "brand": "Prism",
+   "device": "sindorim",
+   "model": "AI PONT"
   }
  ],
  "A62": [
@@ -75534,7 +75476,21 @@
    "model": "2K AI Smart TV"
   }
  ],
- "Panama": [
+ "LT-50KD507": [
+  {
+   "brand": "JVC",
+   "device": "samseong",
+   "model": "AI PONT"
+  }
+ ],
+ "LT-50N7115A": [
+  {
+   "brand": "JVC",
+   "device": "samseong",
+   "model": "AI PONT"
+  }
+ ],
+ "LT-55KB597": [
   {
    "brand": "JVC",
    "device": "sindorim",
@@ -78243,6 +78199,20 @@
    "brand": "Kogan",
    "device": "Kogan_Agora_6Plus",
    "model": "Kogan Agora 6Plus"
+  }
+ ],
+ "KALED32RH9210STA": [
+  {
+   "brand": "Kogan",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  }
+ ],
+ "KALED50XU9210STA": [
+  {
+   "brand": "Kogan",
+   "device": "samseong",
+   "model": "AI PONT"
   }
  ],
  "Kogan Agora 8 Plus": [
@@ -95420,6 +95390,13 @@
    "model": "B866"
   }
  ],
+ "Russia": [
+  {
+   "brand": "MTS (RU)",
+   "device": "B866_MTS_IPTV",
+   "model": "B866"
+  }
+ ],
  "Master": [
   {
    "brand": "MTT",
@@ -97708,6 +97685,13 @@
    "brand": "MiTAC",
    "device": "centaur",
    "model": "N651"
+  }
+ ],
+ "32CAM6SHD": [
+  {
+   "brand": "Micromax",
+   "device": "ikebukuro",
+   "model": "AI PONT"
   }
  ],
  "A111": [
@@ -109032,11 +109016,6 @@
    "brand": "OK (Mediamark)",
    "device": "ikebukuro",
    "model": "AI PONT"
-  },
-  {
-   "brand": "OK (Mediamark)",
-   "device": "samseong",
-   "model": "AI PONT"
   }
  ],
  "ODL 32760HN-TAB": [
@@ -109044,6 +109023,13 @@
    "brand": "OK (Mediamark)",
    "device": "osaki",
    "model": "2K AI Smart TV"
+  }
+ ],
+ "ODL50672U-TAB": [
+  {
+   "brand": "OK (Mediamark)",
+   "device": "samseong",
+   "model": "AI PONT"
   }
  ],
  "OK": [
@@ -109088,7 +109074,7 @@
    "model": "QuartzT10-3"
   }
  ],
- "KUWAIT": [
+ "OR-50UX400S": [
   {
    "brand": "ORCA",
    "device": "samseong",
@@ -113131,6 +113117,13 @@
    "model": "PL620"
   }
  ],
+ "PQ55CH": [
+  {
+   "brand": "PILOT",
+   "device": "samseong",
+   "model": "AI PONT"
+  }
+ ],
  "Smart Page 8 Pro": [
   {
    "brand": "PLDT",
@@ -115537,13 +115530,6 @@
    "model": "Perseo TV Home 2nd Generation Ranger"
   }
  ],
- "Brazil": [
-  {
-   "brand": "Philco",
-   "device": "sindorim",
-   "model": "AI PONT"
-  }
- ],
  "PCS01": [
   {
    "brand": "Philco",
@@ -115577,6 +115563,13 @@
    "brand": "Philco",
    "device": "PTB7R",
    "model": "PTB7R"
+  }
+ ],
+ "PTV55G71AGBLS-4K-VA": [
+  {
+   "brand": "Philco",
+   "device": "sindorim",
+   "model": "AI PONT"
   }
  ],
  "PhilcoTV": [
@@ -123023,6 +123016,13 @@
    "model": "RMX1971"
   }
  ],
+ "realme TV 32": [
+  {
+   "brand": "Realme",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  }
+ ],
  "realme X2": [
   {
    "brand": "Realme",
@@ -124478,12 +124478,14 @@
    "model": "SHIFT6m"
   }
  ],
- "Iraq": [
+ "SH32G7S": [
   {
    "brand": "SHINON",
    "device": "ikebukuro",
    "model": "AI PONT"
-  },
+  }
+ ],
+ "SH55G7K": [
   {
    "brand": "SHINON",
    "device": "samseong",
@@ -138641,6 +138643,13 @@
    "model": "Sansui Fun"
   }
  ],
+ "Israel": [
+  {
+   "brand": "Sansui",
+   "device": "SAN-8487",
+   "model": "SAN-8487"
+  }
+ ],
  "Nitro": [
   {
    "brand": "Sansui",
@@ -147690,12 +147699,14 @@
    "model": "VS700"
   }
  ],
- "Africa & Asia Pacific": [
+ "32A1S": [
   {
    "brand": "Syinix",
    "device": "ikebukuro",
    "model": "AI PONT"
-  },
+  }
+ ],
+ "55A1S": [
   {
    "brand": "Syinix",
    "device": "samseong",
@@ -155440,6 +155451,13 @@
    "model": "TG-L900S"
   }
  ],
+ "U751UHD IPS SMART HDR 2020C": [
+  {
+   "brand": "THEHAM",
+   "device": "sindorim",
+   "model": "AI PONT"
+  }
+ ],
  "Knight 2": [
   {
    "brand": "THL",
@@ -158194,11 +158212,25 @@
    "model": "TH805"
   }
  ],
+ "32TG6A9": [
+  {
+   "brand": "Thomson",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  }
+ ],
  "5014G_EEA": [
   {
    "brand": "Thomson",
    "device": "5014G",
    "model": "5014G"
+  }
+ ],
+ "50TG7UA9X": [
+  {
+   "brand": "Thomson",
+   "device": "samseong",
+   "model": "AI PONT"
   }
  ],
  "Delight TH201": [
@@ -165621,6 +165653,13 @@
    "model": "VOTO V5X"
   }
  ],
+ "55KD6800": [
+  {
+   "brand": "Vsmart",
+   "device": "samseong",
+   "model": "VINATV 4K"
+  }
+ ],
  "Active 1": [
   {
    "brand": "Vsmart",
@@ -165764,6 +165803,20 @@
    "brand": "Vsun",
    "device": "SATURN_SELFIE",
    "model": "SATURN SELFIE"
+  }
+ ],
+ "43UA": [
+  {
+   "brand": "Vu Televisions",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  }
+ ],
+ "50CA": [
+  {
+   "brand": "Vu Televisions",
+   "device": "samseong",
+   "model": "AI PONT"
   }
  ],
  "xiaoyushan-vu": [
@@ -168284,7 +168337,7 @@
    "model": "W1011A"
   }
  ],
- "South korea": [
+ "S5520GG": [
   {
    "brand": "Witooth",
    "device": "sindorim",

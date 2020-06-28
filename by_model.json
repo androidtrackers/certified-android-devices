@@ -4050,42 +4050,32 @@
  "AI PONT": [
   {
    "brand": "Aiwa",
-   "name": "ASIA MIDDLE EAST  AFRICA  EU",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "Aiwa",
-   "name": "ASIA MIDDLE EAST  AFRICA  EU",
-   "device": "samseong"
-  },
-  {
-   "brand": "Aiwa",
-   "name": "Philippines",
+   "name": "AFL0065S",
    "device": "sindorim"
   },
   {
+   "brand": "Aiwa",
+   "name": "AW-LED32G7K",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "Aiwa",
+   "name": "AW-LED50X6FL",
+   "device": "samseong"
+  },
+  {
    "brand": "Alpha",
-   "name": "Serbia",
+   "name": "Alpha 43G7NUA",
    "device": "samseong"
   },
   {
    "brand": "BenQ",
-   "name": "China Taiwan",
+   "name": "E40-520",
    "device": "ikebukuro"
   },
   {
    "brand": "BenQ",
-   "name": "China Taiwan",
-   "device": "samseong"
-  },
-  {
-   "brand": "Changhong",
-   "name": "AP(Indonesia etc.)/MENA",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "Changhong",
-   "name": "AP(Indonesia etc.)/MENA",
+   "name": "E55-720",
    "device": "samseong"
   },
   {
@@ -4095,17 +4085,27 @@
   },
   {
    "brand": "Changhong",
+   "name": "L32H7",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "Changhong",
    "name": "SA",
    "device": "sindorim"
   },
   {
+   "brand": "Changhong",
+   "name": "U50H7",
+   "device": "samseong"
+  },
+  {
    "brand": "Classpro",
-   "name": "SAUDI ARABIC",
+   "name": "CGS55UHD",
    "device": "samseong"
   },
   {
    "brand": "Condor",
-   "name": "Algeria",
+   "name": "32SD520",
    "device": "ikebukuro"
   },
   {
@@ -4115,38 +4115,38 @@
   },
   {
    "brand": "Estla",
-   "name": "Korea",
+   "name": "AA650UHD THE SMART PRO",
    "device": "sindorim"
   },
   {
    "brand": "Hitachi",
-   "name": "SAUDI ARABIC/Iraq Australia",
+   "name": "LD50CHS04U",
    "device": "samseong"
   },
   {
    "brand": "Hyundai",
-   "name": "Columbia",
+   "name": "H-LED32ES5008",
    "device": "ikebukuro"
   },
   {
    "brand": "Hyundai",
-   "name": "Columbia",
+   "name": "H-LED32ES5108",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "H-LED50EU7008",
+   "device": "samseong"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "HATV-58AA100",
+   "device": "samseong"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "HYLED5520A4KM",
    "device": "sindorim"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "Israel",
-   "device": "samseong"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "Russia",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "Russia",
-   "device": "samseong"
   },
   {
    "brand": "Infocus",
@@ -4155,32 +4155,32 @@
   },
   {
    "brand": "JVC",
-   "name": "Australia",
+   "name": "LT-50KD507",
    "device": "samseong"
   },
   {
    "brand": "JVC",
-   "name": "Central America",
+   "name": "LT-50N7115A",
    "device": "samseong"
   },
   {
    "brand": "JVC",
-   "name": "Panama",
+   "name": "LT-55KB597",
    "device": "sindorim"
   },
   {
    "brand": "Kogan",
-   "name": "Australia",
+   "name": "KALED32RH9210STA",
    "device": "ikebukuro"
   },
   {
    "brand": "Kogan",
-   "name": "Australia",
+   "name": "KALED50XU9210STA",
    "device": "samseong"
   },
   {
    "brand": "Micromax",
-   "name": "India",
+   "name": "32CAM6SHD",
    "device": "ikebukuro"
   },
   {
@@ -4190,82 +4190,82 @@
   },
   {
    "brand": "OK (Mediamark)",
-   "name": "Italy",
+   "name": "ODL50672U-TAB",
    "device": "samseong"
   },
   {
    "brand": "ORCA",
-   "name": "KUWAIT",
+   "name": "OR-50UX400S",
    "device": "samseong"
   },
   {
    "brand": "PILOT",
-   "name": "Israel",
+   "name": "PQ55CH",
    "device": "samseong"
   },
   {
    "brand": "Philco",
-   "name": "Brazil",
+   "name": "PTV55G71AGBLS-4K-VA",
    "device": "sindorim"
   },
   {
    "brand": "Prism",
-   "name": "Korea",
+   "name": "A55",
    "device": "sindorim"
   },
   {
    "brand": "Realme",
-   "name": "India",
+   "name": "realme TV 32",
    "device": "ikebukuro"
   },
   {
    "brand": "SHINON",
-   "name": "Iraq",
+   "name": "SH32G7S",
    "device": "ikebukuro"
   },
   {
    "brand": "SHINON",
-   "name": "Iraq",
+   "name": "SH55G7K",
    "device": "samseong"
   },
   {
    "brand": "Syinix",
-   "name": "Africa & Asia Pacific",
+   "name": "32A1S",
    "device": "ikebukuro"
   },
   {
    "brand": "Syinix",
-   "name": "Africa & Asia Pacific",
+   "name": "55A1S",
    "device": "samseong"
   },
   {
    "brand": "THEHAM",
-   "name": "Korea",
+   "name": "U751UHD IPS SMART HDR 2020C",
    "device": "sindorim"
   },
   {
    "brand": "Thomson",
-   "name": "Algeria",
+   "name": "32TG6A9",
    "device": "ikebukuro"
   },
   {
    "brand": "Thomson",
-   "name": "Algeria",
+   "name": "50TG7UA9X",
    "device": "samseong"
   },
   {
    "brand": "Vu Televisions",
-   "name": "India",
+   "name": "43UA",
    "device": "ikebukuro"
   },
   {
    "brand": "Vu Televisions",
-   "name": "India",
+   "name": "50CA",
    "device": "samseong"
   },
   {
    "brand": "Witooth",
-   "name": "South korea",
+   "name": "S5520GG",
    "device": "sindorim"
   }
  ],
@@ -22951,18 +22951,6 @@
    "device": "q7"
   }
  ],
- "CHiQ AI Center": [
-  {
-   "brand": "Changhong",
-   "name": "AP(Indonesia etc.)/MENA",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "Changhong",
-   "name": "AP(Indonesia etc.)/MENA",
-   "device": "samseong"
-  }
- ],
  "GIU6060": [
   {
    "brand": "Changhong",
@@ -22975,6 +22963,18 @@
    "brand": "Changhong",
    "name": "GIU6860",
    "device": "GIU6860"
+  }
+ ],
+ "CHiQ AI Center": [
+  {
+   "brand": "Changhong",
+   "name": "L32H7",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "Changhong",
+   "name": "U50H7",
+   "device": "samseong"
   }
  ],
  "CM-7600": [
@@ -34885,6 +34885,13 @@
    "brand": "Ematic",
    "name": "PBS Kids PlayPad",
    "device": "PBSKD12"
+  }
+ ],
+ "PBSKD7001": [
+  {
+   "brand": "Ematic",
+   "name": "PBSKD7001",
+   "device": "PBSKD7001"
   }
  ],
  "PBSKD7200": [
@@ -175398,6 +175405,18 @@
    "device": "VOTO_V5X"
   }
  ],
+ "VINATV 4K": [
+  {
+   "brand": "Vsmart",
+   "name": "55KD6800",
+   "device": "samseong"
+  },
+  {
+   "brand": "Vsmart",
+   "name": "VINATV 4K",
+   "device": "TR2001"
+  }
+ ],
  "Active 1": [
   {
    "brand": "Vsmart",
@@ -175488,18 +175507,6 @@
    "brand": "Vsmart",
    "name": "Star 3",
    "device": "sugarcane"
-  }
- ],
- "VINATV 4K": [
-  {
-   "brand": "Vsmart",
-   "name": "VINATV 4K",
-   "device": "TR2001"
-  },
-  {
-   "brand": "Vsmart",
-   "name": "Vietnam",
-   "device": "samseong"
   }
  ],
  "VINTV 2K": [

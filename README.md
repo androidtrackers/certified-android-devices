@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-06-27
+Last sync is 2020-06-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -501,8 +501,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiuto|AT1002|AT1002|AT1002|
 |Aiuto|AT701|AT701|AT701|
 |Aiuto|AT702|AT702|AT702|
-|Aiwa|ASIA MIDDLE EAST  AFRICA  EU|ikebukuro|AI PONT|
-|Aiwa|ASIA MIDDLE EAST  AFRICA  EU|samseong|AI PONT|
+|Aiwa|AFL0065S|sindorim|AI PONT|
+|Aiwa|AW-LED32G7K|ikebukuro|AI PONT|
+|Aiwa|AW-LED50X6FL|samseong|AI PONT|
 |Aiwa|AW790|AW790|AW790|
 |Aiwa|AWM501|AWM501|AWM501|
 |Aiwa|AWM509|AWM509|AWM509|
@@ -512,7 +513,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiwa|AWM599|AWM599|AWM599|
 |Aiwa|AWM999|AWM999|AWM999|
 |Aiwa|Aiwa|KSTB6043|KSTB6043|
-|Aiwa|Philippines|sindorim|AI PONT|
 |Aiwa|Z9|AIWA_Z9|Z9|
 |Aiwa|Z9 PLUS|AIWA_Z9_PLUS|Z9 PLUS|
 |Akai|FZ101|FZ101|FZ101|
@@ -759,7 +759,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Allfine|M721|86S|M721|
 |Allfine|PC1038Q|fine10_Joy|PC1038Q|
 |Allouette|PSY7020SKD|PSY7020SKD|PSY7020SKD|
-|Alpha|Serbia|samseong|AI PONT|
+|Alpha|Alpha 43G7NUA|samseong|AI PONT|
 |Alphascan|SAT2242 WorkTab|ADP_WW|G2SMNT|
 |Altice|ALTICE S43|S43|ALTICE_S43|
 |Altice|ALTICE S43|S43|S43|
@@ -2222,8 +2222,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|B505|B505|B505|
 |BenQ|B506|B506_TW|B506_TW|
 |BenQ|B50_CHT|B50|B50_CHT|
-|BenQ|China Taiwan|ikebukuro|AI PONT|
-|BenQ|China Taiwan|samseong|AI PONT|
+|BenQ|E40-520|ikebukuro|AI PONT|
+|BenQ|E55-720|samseong|AI PONT|
 |BenQ|F3|F3|F3|
 |BenQ|F4|benq_a3s|BenQ A3s|
 |BenQ|F5|BENQ_F5|BenQ F5|
@@ -3099,14 +3099,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CenturyLink|PureTV|ctl_iptv_mrvl|CTLPlayer|
 |CenturyLink|PureTV|ctl_iptv_mrvl|S60CLI|
 |Chanbly|q7|q7|q7|
-|Changhong|AP(Indonesia etc.)/MENA|ikebukuro|AI PONT|
-|Changhong|AP(Indonesia etc.)/MENA|ikebukuro|CHiQ AI Center|
-|Changhong|AP(Indonesia etc.)/MENA|samseong|AI PONT|
-|Changhong|AP(Indonesia etc.)/MENA|samseong|CHiQ AI Center|
 |Changhong|Central America|sindorim|AI PONT|
 |Changhong|GIU6060|GIU6060|GIU6060|
 |Changhong|GIU6860|GIU6860|GIU6860|
+|Changhong|L32H7|ikebukuro|AI PONT|
+|Changhong|L32H7|ikebukuro|CHiQ AI Center|
 |Changhong|SA|sindorim|AI PONT|
+|Changhong|U50H7|samseong|AI PONT|
+|Changhong|U50H7|samseong|CHiQ AI Center|
 |Channel Master|Stream+|dwt765cha|CM-7600|
 |Chemist Warehouse|JR-MB603|JR_MB603|JR_MB603|
 |Chenrui|M40|M40|M40|
@@ -3267,7 +3267,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Clarmin|B8Lite|B8Lite|B8Lite|
 |Clarmin|B8plus|B8plus|B8plus|
 |Clarmin|CLARMIN C1|CLARMIN_C1|CLARMIN C1|
-|Classpro|SAUDI ARABIC|samseong|AI PONT|
+|Classpro|CGS55UHD|samseong|AI PONT|
 |Clementoni|CLEMPAD_2018|CLEMPAD_2018|CLEMPAD_2018|
 |Clementoni|Clempad 4.4 Basic Special|Clempad2_special|Clempad2_special|
 |Clementoni|Clempad 4.4 Plus|Clempad2_plus|Clempad2_plus|
@@ -3384,8 +3384,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Concord|Plus-9_C778|Plus-9_C778|Plus-9_C778|
 |Concord|Plus_M19_C779|Plus_M19_C779|Plus_M19_C779|
 |Concord|SmartPad-3G_C-708|SmartPad_3G|SmartPad-3G_C-708|
+|Condor|32SD520|ikebukuro|AI PONT|
 |Condor|A9|PGN_507|PGN-507|
-|Condor|Algeria|ikebukuro|AI PONT|
 |Condor|Allure  M1|Allure_M1|Allure M1|
 |Condor|Allure A55 Plus|PGN613|PGN613|
 |Condor|Allure M1|Allure_M1|Allure M1|
@@ -4798,6 +4798,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ematic|Jetstream AGT418|DV8235|AGT419|
 |Ematic|Jetstream AGT418|DV8235|Jetstream AGT418|
 |Ematic|PBS Kids PlayPad|PBSKD12|PBSKD12|
+|Ematic|PBSKD7001|PBSKD7001|PBSKD7001|
 |Ematic|PBSKD7200|PBSKD7200|PBSKD7200|
 |Ematic|PBSKD7201|PBSKD7201|PBSKD7201|
 |Ematic|Sprout Channel Cubby|Cubby|SproutChannelCubby|
@@ -4904,7 +4905,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Estar|MID7399|MID7399|eSTAR BEAUTY 3 HD Quad core|
 |Estar|eSTAR BEAUTY 2 HD Quad core|MID7388|eSTAR BEAUTY 2 HD Quad core|
 |Estar|eSTAR GRAND HD Quad Core|MID1298|eSTAR GRAND HD Quad core|
-|Estla|Korea|sindorim|AI PONT|
+|Estla|AA650UHD THE SMART PRO|sindorim|AI PONT|
 |Eten|ET660|ETEN|ET660|
 |Etuline|ETL-S4521|u939e_2|ETL-S4521|
 |Etuline|ETL-S5042|u970_4|ETL-S5042|
@@ -7780,7 +7781,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|xiaoyushan-em|xiaoyushan|HiSmartTV A4|
 |Hitachi|Hitachi|bangbae|Hitachi 4K Android TV|
 |Hitachi|HitachiTV|shinjuku|HitachiTV|
-|Hitachi|SAUDI ARABIC/Iraq Australia|samseong|AI PONT|
+|Hitachi|LD50CHS04U|samseong|AI PONT|
 |Hiya|5-0|5-0|5-0|
 |Hiya|5-0|5_0|5-0|
 |Hiya|5-0|HIYA_5_0|5-0|
@@ -9590,8 +9591,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|Blade_C6|Blade_C6|Blade_C6|
 |Hyundai|Blade_C7|Blade_C7|Blade_C7|
 |Hyundai|CAR AVN SYSTEM|koecn|TCC893X_EVM|
-|Hyundai|Columbia|ikebukuro|AI PONT|
-|Hyundai|Columbia|sindorim|AI PONT|
 |Hyundai|E435 Plus|E435_Plus|E435 Plus|
 |Hyundai|E456GO|E465GO|E465GO|
 |Hyundai|E475|E475|E475|
@@ -9609,6 +9608,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|Eternity_G25|Eternity_G25|Eternity_G25|
 |Hyundai|Eternity_P7|HT4P7128LB|Eternity_P7|
 |Hyundai|Eternity_P7|HT4P764LB|Eternity_P7|
+|Hyundai|H-LED32ES5008|ikebukuro|AI PONT|
+|Hyundai|H-LED32ES5108|ikebukuro|AI PONT|
+|Hyundai|H-LED50EU7008|samseong|AI PONT|
+|Hyundai|HATV-58AA100|samseong|AI PONT|
 |Hyundai|HDT-7433H|HDT-7433H|HDT-7433H|
 |Hyundai|HDT-7433X|HDT-7433X|HDT-7433X|
 |Hyundai|HT0702W08|HT0702W08|HT0702W08|
@@ -9616,6 +9619,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HT0705W08/Koral_7W4|HT0705W08|Koral 7W4|
 |Hyundai|HT0802W16/Koral_8W2|HT0802W16|Koral_8W2|
 |Hyundai|HY1-5085|HY1_5085|HY1-5085|
+|Hyundai|HYLED5520A4KM|sindorim|AI PONT|
 |Hyundai|Hyundai|bangbae|Hyundai 4K Android TV|
 |Hyundai|Hyundai|komagome|Hyundai 2K Android TV|
 |Hyundai|Hyundai Eternity G50L|HT1G50L|Hyundai_Eternity_G50L|
@@ -9628,7 +9632,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|Hyundai_Eternity_G50W|HT1G50KFBK|Hyundai_Eternity_G50W|
 |Hyundai|Hyundai_Eternity_G57|HT2G57L|Hyundai_Eternity_G57L|
 |Hyundai|Hyundai_Eternity_G60|HT3G60L|Hyundai_Eternity_G60|
-|Hyundai|Israel|samseong|AI PONT|
 |Hyundai|Koral|Koral_7WB1|7WB1|
 |Hyundai|Koral|Koral_7WC1|7WC1|
 |Hyundai|Koral|Koral_7WD1|7WD1|
@@ -9650,8 +9653,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|L553|L553|L553|
 |Hyundai|L575|L575|L575|
 |Hyundai|L601F|L601F|L601F|
-|Hyundai|Russia|ikebukuro|AI PONT|
-|Hyundai|Russia|samseong|AI PONT|
 |Hyundai|Seoul 9|Seoul_9|Seoul 9|
 |Hyundai|Seoul X|Seoul_X|Seoul X|
 |Hyundai|Seoul_S8|Seoul_S8|Seoul S8|
@@ -10490,8 +10491,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JP Sacouto|mymaga CLASS Plus 2|MG101A4T|mymaga CLASS Plus 2|
 |JVC||gener|RY-AP1|
 |JVC|4K_Edition|Android_TV_BOX|4K_Edition|
-|JVC|Australia|samseong|AI PONT|
-|JVC|Central America|samseong|AI PONT|
 |JVC|DM65UXR\DM65USR\DM85UXR|mstarnapoli_atsc|DM65UXR|
 |JVC|Dixons|sadang|UK 4K Android TV|
 |JVC|JVC|bangbae|EU 4K Android TV|
@@ -10503,7 +10502,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|JVC|seocho|SA 4K Android TV|
 |JVC|JVC J20|Cunda|J20|
 |JVC|LT-32K397|osaki|2K AI Smart TV|
-|JVC|Panama|sindorim|AI PONT|
+|JVC|LT-50KD507|samseong|AI PONT|
+|JVC|LT-50N7115A|samseong|AI PONT|
+|JVC|LT-55KB597|sindorim|AI PONT|
 |JVL (Australia)|JVL070TAB812BLK|JVL070TAB812BLK|JVL070TAB812BLK|
 |JVL (Australia)|JVL101TAB811BLK|JVL101TAB811BLK|JVL101TAB811BLK|
 |JabrBox|H460|H460|H460|
@@ -10902,10 +10903,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kodak|Smartway_T1|Smartway_T1|Smartway_T1|
 |Kogan|Agora 6 Plus|Kogan_Agora_6Plus|Kogan Agora 6Plus|
 |Kogan|Australia|hanyang|Kogan SmarterTV|
-|Kogan|Australia|ikebukuro|AI PONT|
 |Kogan|Australia|nippori|Kogan SmarterTV 2K|
-|Kogan|Australia|samseong|AI PONT|
 |Kogan|Australia|shibuya|KoganTVAP|
+|Kogan|KALED32RH9210STA|ikebukuro|AI PONT|
+|Kogan|KALED50XU9210STA|samseong|AI PONT|
 |Kogan|Kogan Agora 8 Plus|Agora_8_Plus|Agora 8 Plus|
 |Kogan|Kogan Agora 9|Kogan_Agora_9|Kogan Agora 9|
 |Kogan|Kogan Agora Go|Agora_Go|Agora Go|
@@ -14290,6 +14291,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MiTAC|N635_8|skating|N635_8|
 |MiTAC|N650|prometheus|N650|
 |MiTAC|N651|centaur|N651|
+|Micromax|32CAM6SHD|ikebukuro|AI PONT|
 |Micromax|A110|s9081|Micromax A110|
 |Micromax|A111|A111|A111|
 |Micromax|A116|A116|A116|
@@ -14494,7 +14496,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Micromax|Evok Dual Note|E4817|Micromax E4817|
 |Micromax|Evok Note|E453|Micromax E453|
 |Micromax|Evok Power|Q4260|Micromax Q4260|
-|Micromax|India|ikebukuro|AI PONT|
 |Micromax|Infinity N Series N12|N8301|N8301|
 |Micromax|Ione Note|N8305|ione note|
 |Micromax|MAD|A94|Micromax A94|
@@ -16205,8 +16206,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ODYS|XELIO_HD10|XELIO_HD10|XELIO_HD10|
 |ODYS|FALCON_10_PLUS_3G|FALCON_10_PLUS_3G|FALCON_10_PLUS_3G|
 |OK (Mediamark)|Italy|ikebukuro|AI PONT|
-|OK (Mediamark)|Italy|samseong|AI PONT|
 |OK (Mediamark)|ODL 32760HN-TAB|osaki|2K AI Smart TV|
+|OK (Mediamark)|ODL50672U-TAB|samseong|AI PONT|
 |OK (Mediamark)|OK|bangbae|OK 4K Android TV|
 |OKWU|PI Plus|PI_Plus|PI Plus|
 |ONDA TLC|T7 Pro|T7_PRO|T7_PRO|
@@ -16214,7 +16215,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONYX|AKA Model A|Model_A|Model A|
 |ONYX|QuartzT10-3|QuartzT10-3|QuartzT10-3|
 |ORBYS|F20|F20|F20|
-|ORCA|KUWAIT|samseong|AI PONT|
+|ORCA|OR-50UX400S|samseong|AI PONT|
 |OTHO|T1|T1|T1|
 |OTHO|T3|T3|T3|
 |OTK|BM57 lite|BM57_lite|BM57_lite|
@@ -16884,7 +16885,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PCD Argentina|PL570|PL570|PL570|
 |PCD Argentina|PL571|PL571|PL571|
 |PCD Argentina|PL620|PL620|PL620|
-|PILOT|Israel|samseong|AI PONT|
+|PILOT|PQ55CH|samseong|AI PONT|
 |PLDT|Smart Page 8 Pro|Smart_Page_8_Pro|Smart_Page_8_Pro|
 |POC|POC2|CBL7509MM|POC2|
 |POCO|POCO F2 Pro|lmi|POCO F2 Pro|
@@ -17263,13 +17264,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Penta|PENTA_73AAQ1|ETBA0604|PENTA_73AAQ1|
 |Performance|PR7RKTNF|PR7RKTNF|PR7RKTNF|
 |Perseo TV|Perseo TV Home 2nd Generation Ranger|DV8219|Perseo TV Home 2nd Generation Ranger|
-|Philco|Brazil|sindorim|AI PONT|
 |Philco|PCS01|PCS01|PCS01|
 |Philco|PCS02|PCS02|PCS02|
 |Philco|PHILCO_TP7A6|PHILCO_TP7A6|TP7A6|
 |Philco|PTB7PAP_ PTB7PAB _ PTB7PAR|PTB7PA|PTB7PAP_PTB7PAB_PTB7PAR|
 |Philco|PTB7QSG_3G|PTB7QSG_3G|PTB7QSG_3G|
 |Philco|PTB7R|PTB7R|PTB7R|
+|Philco|PTV55G71AGBLS-4K-VA|sindorim|AI PONT|
 |Philco|PhilcoTV|shinjuku|PhilcoTV|
 |Philco|TP10A3N|TP10A3N|TP10A3N|
 |Philco|TP7A4BB|TP7A4BB|TP7A4BB|
@@ -18006,7 +18007,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prime|X6_Pro|X6_Pro|X6_Pro|
 |Primux|Primux_ioxphone|Primux_ioxphone|Primux_ioxphone|
 |Prince Mobile|PC9|PC9|PC9|
-|Prism|Korea|sindorim|AI PONT|
+|Prism|A55|sindorim|AI PONT|
 |Pritom|K7|K7|K7|
 |Pritom|L10|L10|L10|
 |Pritom|P7PRO|P7PRO|P7PRO|
@@ -18404,7 +18405,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Razer|Phone 2|linus|Phone 2|
 |Razer|Razer Phone|cheryl|Phone|
 |Razer|Razer phone|cheryl_ckh|Phone|
-|Realme|India|ikebukuro|AI PONT|
 |Realme|RMX2020|RMX2020|RMX2020|
 |Realme|RMX2040|RMX2040|RMX2040|
 |Realme|realme 2 Pro|RMX1801|RMX1801|
@@ -18438,6 +18438,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme C3|RMX2027|RMX2027|
 |Realme|realme C3i|RMX2027|RMX2027|
 |Realme|realme Q|RMX1971CN|RMX1971|
+|Realme|realme TV 32|ikebukuro|AI PONT|
 |Realme|realme X2|RMX1991CN|RMX1991|
 |Realme|realme X2|RMX1992L1|RMX1992|
 |Realme|realme X2|RMX1993L1|RMX1993|
@@ -18660,8 +18661,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SGINO|6S|6S|6S|
 |SGINO|SGINO6|SGINO6|SGINO6|
 |SHIFT|SHIFT6m|SHIFT6m|SHIFT6m|
-|SHINON|Iraq|ikebukuro|AI PONT|
-|SHINON|Iraq|samseong|AI PONT|
+|SHINON|SH32G7S|ikebukuro|AI PONT|
+|SHINON|SH55G7K|samseong|AI PONT|
 |SIAFU|M5855|M5855|M5855|
 |SK Broadband|B tv smart|BHX-S100|BHX-S100|
 |SK Broadband|B tv smart|BKO-S200|BKO-S200|
@@ -22741,8 +22742,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Swisstone|swisstone SD 510|SD5103G|swisstone SD 510|
 |Swisstone|swisstone SD 530|SD5304G|swisstone SD 530|
 |Switel|VS700|VS700|VS700|
-|Syinix|Africa & Asia Pacific|ikebukuro|AI PONT|
-|Syinix|Africa & Asia Pacific|samseong|AI PONT|
+|Syinix|32A1S|ikebukuro|AI PONT|
+|Syinix|55A1S|samseong|AI PONT|
 |Symphony|E90|E90|E90|
 |Symphony|E95|E95|E95|
 |Symphony|G10|G10|Symphony G10|
@@ -24157,7 +24158,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TESPRO|Mayumi U1|Mayumi_U1|Mayumi U1|
 |TG&Co.|TG-L800S|PHX|TG-L800S|
 |TG&Co.|TG-L900S|JGR|TG-L900S|
-|THEHAM|Korea|sindorim|AI PONT|
+|THEHAM|U751UHD IPS SMART HDR 2020C|sindorim|AI PONT|
 |THL|Knight 2|Knight_2|Knight 2|
 |THTF|"TSINGHUA TONGFANG CO.|LTD."|TR10CD1_3|
 |TIM|TIM BOX|uzw4010tim|TIM_BOX|
@@ -24619,9 +24620,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tesla|Tesla_SP9_2|Tesla_SP9_2|Tesla_SP9_2|
 |Tetratab|TF10EA2|TF10EA2_Medical_1|CASEBOOK_3|
 |Thinpad|TH805|TH805|TH805|
+|Thomson|32TG6A9|ikebukuro|AI PONT|
 |Thomson|5014G_EEA|5014G|5014G|
-|Thomson|Algeria|ikebukuro|AI PONT|
-|Thomson|Algeria|samseong|AI PONT|
+|Thomson|50TG7UA9X|samseong|AI PONT|
 |Thomson|Android TV|R1|ATV R1|
 |Thomson|Android TV|R2|ATV R2|
 |Thomson|Delight TH201|Delight_TH201|Delight TH201|
@@ -25816,6 +25817,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Voto|VOTO V3|VOTO_V3|VOTO V3|
 |Voto|VX|VX|VX|
 |Voto|Voto V5X|VOTO_V5X|VOTO V5X|
+|Vsmart|55KD6800|samseong|VINATV 4K|
 |Vsmart|Active 1|PQ6001|Active 1|
 |Vsmart|Active 1 +|PQ6002|Active 1+|
 |Vsmart|Active 1+|PQ6002|Active 1+|
@@ -25833,15 +25835,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vsmart|Star 3|sugarcane|Star 3|
 |Vsmart|VINATV 4K|TR2001|VINATV 4K|
 |Vsmart|VINTV 2K|TR2002|VINTV 2K|
-|Vsmart|Vietnam|samseong|VINATV 4K|
 |Vsun|MARS  Touch|MARS_TOUCH|MARS TOUCH|
 |Vsun|MARS Nocam|MARS_NOCAM|MARS NOCAM|
 |Vsun|MARS Note|MARS_NOTE|MARS NOTE|
 |Vsun|MERCURY Tough|MERCURY_Tough|MERCURY Tough|
 |Vsun|SATURN Selfie|SATURN_SELFIE|SATURN SELFIE|
+|Vu Televisions|43UA|ikebukuro|AI PONT|
+|Vu Televisions|50CA|samseong|AI PONT|
 |Vu Televisions|India|hamamatsucho|Smart 2K ATV4|
-|Vu Televisions|India|ikebukuro|AI PONT|
-|Vu Televisions|India|samseong|AI PONT|
 |Vu Televisions|xiaoyushan-vu|xiaoyushan|HiSmartTV A4|
 |Vue Micro|Vue7LV|Vue7LV|7LV|
 |Vue Micro|Vue81V|Vue81V|81V|
@@ -26257,7 +26258,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wishtel|IRA_DUO|IRA_DUO|IRA_DUO|
 |Wistron|DW-21(A)|DA-21|DW-21(A)|
 |Wistron|W1011A|w1011a|W1011A|
-|Witooth|South korea|sindorim|AI PONT|
+|Witooth|S5520GG|sindorim|AI PONT|
 |Wizphone|WP003|WP003|WP003|
 |Wizphone|WP005|WP005|WP005|
 |Wizz|DV-PTB1080|DV-PTB1080|DV-PTB1080|
