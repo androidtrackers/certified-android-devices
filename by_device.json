@@ -71363,6 +71363,13 @@
    "model": "Truvii 4K Android TV"
   }
  ],
+ "sugamo": [
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "US 2K Android TV"
+  }
+ ],
  "Cunda": [
   {
    "brand": "JVC",
@@ -71373,6 +71380,13 @@
    "brand": "Vestel",
    "name": "Vestel Z20",
    "model": "Venus Z20"
+  }
+ ],
+ "tabata": [
+  {
+   "brand": "JVC",
+   "name": "UK",
+   "model": "UK 2K Android TV"
   }
  ],
  "JVL070TAB812BLK": [
@@ -85717,6 +85731,13 @@
    "model": "Z9A"
   }
  ],
+ "EAGLE_1069": [
+  {
+   "brand": "Lechpol",
+   "name": "EAGLE1069",
+   "model": "KM1069"
+  }
+ ],
  "LIVE4_KM0438": [
   {
    "brand": "Lechpol",
@@ -97343,6 +97364,13 @@
    "model": "e-tab_style_REV3"
   }
  ],
+ "etab_LTE": [
+  {
+   "brand": "Microtech",
+   "name": "etab_LTE",
+   "model": "ETL101AL"
+  }
+ ],
  "MT003-19": [
   {
    "brand": "Mightier",
@@ -98288,6 +98316,13 @@
    "brand": "Mobicell",
    "name": "PLUM",
    "model": "PLUM"
+  }
+ ],
+ "PULSE_1": [
+  {
+   "brand": "Mobicell",
+   "name": "PULSE_1",
+   "model": "PULSE_1"
   }
  ],
  "PURE": [
@@ -180670,6 +180705,13 @@
    "brand": "ZTE",
    "name": "ZTE Blade A3 2020RU",
    "model": "ZTE Blade A3 2020RU"
+  }
+ ],
+ "Z5157": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A3v",
+   "model": "Z5157V"
   }
  ],
  "P963F30": [

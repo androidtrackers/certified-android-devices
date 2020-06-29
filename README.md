@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-06-28
+Last sync is 2020-06-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10500,11 +10500,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|JVC|komagome|EU 2K Android TV|
 |JVC|JVC|seocho|JVC 4K Android TV|
 |JVC|JVC|seocho|SA 4K Android TV|
+|JVC|JVC|sugamo|US 2K Android TV|
 |JVC|JVC J20|Cunda|J20|
 |JVC|LT-32K397|osaki|2K AI Smart TV|
 |JVC|LT-50KD507|samseong|AI PONT|
 |JVC|LT-50N7115A|samseong|AI PONT|
 |JVC|LT-55KB597|sindorim|AI PONT|
+|JVC|UK|tabata|UK 2K Android TV|
 |JVL (Australia)|JVL070TAB812BLK|JVL070TAB812BLK|JVL070TAB812BLK|
 |JVL (Australia)|JVL101TAB811BLK|JVL101TAB811BLK|JVL101TAB811BLK|
 |JabrBox|H460|H460|H460|
@@ -12804,6 +12806,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Leagoo|Z7|Z7|Z7|
 |Leagoo|Z9|Z9|Z9|
 |Leagoo|Z9A|Z9A|Z9A|
+|Lechpol|EAGLE1069|EAGLE_1069|KM1069|
 |Lechpol|LIVE 4 KM0438|LIVE4_KM0438|LIVE4_KM0438|
 |Lechpol|LIVE 4 KM0439|LIVE4_KM0439|KrugerMatz_LIVE4|
 |Lechpol|LIVE 4 KM0439|LIVE4_KM0439|LIVE4_KM0439|
@@ -14554,6 +14557,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Microtech|Microtech_e-tab_Style|Microtech_etabStyle|Microtech_etabStyle|
 |Microtech|e-tab_Style|e-tab_Style|e-tab_Style|
 |Microtech|e-tab_style_rev.3|e-tab_style_REV3|e-tab_style_REV3|
+|Microtech|etab_LTE|etab_LTE|ETL101AL|
 |Mightier|MT003-19|MT003-19|MT003-19|
 |Mightier|MT003-20|MT003-20|MT003-20|
 |Migu|MGV2002|MGV2002|MGV2002|
@@ -14697,6 +14701,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|ONYX|ONYX|ONYX|
 |Mobicell|PLAY|PLAY|PLAY|
 |Mobicell|PLUM|PLUM|PLUM|
+|Mobicell|PULSE_1|PULSE_1|PULSE_1|
 |Mobicell|PURE|PURE|PURE|
 |Mobicell|PURE MINI|PURE_MINI|PURE MINI|
 |Mobicell|PURE_PLUS|PURE_PLUS|PURE PLUS|
@@ -27991,6 +27996,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A3 2020|P932F50|ZTE Blade A3 2020|
 |ZTE|ZTE Blade A3 2020RU|P932F50|ZTE Blade A3 2020RU|
 |ZTE|ZTE Blade A3 Lite|P932F20|ZTE Blade A3 Lite|
+|ZTE|ZTE Blade A3v|Z5157|Z5157V|
 |ZTE|ZTE Blade A5 2019|P963F30|ZTE Blade A5 2019|
 |ZTE|ZTE Blade A5 2019|P963F30P|ZTE Blade A5 2019|
 |ZTE|ZTE Blade A5 2019RU|P963F30P|ZTE Blade A5 2019RU|

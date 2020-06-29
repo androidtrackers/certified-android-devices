@@ -75460,6 +75460,11 @@
    "brand": "JVC",
    "device": "seocho",
    "model": "SA 4K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "device": "sugamo",
+   "model": "US 2K Android TV"
   }
  ],
  "JVC J20": [
@@ -75495,6 +75500,13 @@
    "brand": "JVC",
    "device": "sindorim",
    "model": "AI PONT"
+  }
+ ],
+ "UK": [
+  {
+   "brand": "JVC",
+   "device": "tabata",
+   "model": "UK 2K Android TV"
   }
  ],
  "JVL070TAB812BLK": [
@@ -88833,6 +88845,13 @@
    "model": "Z9A"
   }
  ],
+ "EAGLE1069": [
+  {
+   "brand": "Lechpol",
+   "device": "EAGLE_1069",
+   "model": "KM1069"
+  }
+ ],
  "LIVE 4 KM0438": [
   {
    "brand": "Lechpol",
@@ -99141,6 +99160,13 @@
    "model": "e-tab_style_REV3"
   }
  ],
+ "etab_LTE": [
+  {
+   "brand": "Microtech",
+   "device": "etab_LTE",
+   "model": "ETL101AL"
+  }
+ ],
  "MT003-19": [
   {
    "brand": "Mightier",
@@ -100033,6 +100059,13 @@
    "brand": "Mobicell",
    "device": "PLUM",
    "model": "PLUM"
+  }
+ ],
+ "PULSE_1": [
+  {
+   "brand": "Mobicell",
+   "device": "PULSE_1",
+   "model": "PULSE_1"
   }
  ],
  "PURE": [
@@ -177545,6 +177578,13 @@
    "brand": "ZTE",
    "device": "P932F20",
    "model": "ZTE Blade A3 Lite"
+  }
+ ],
+ "ZTE Blade A3v": [
+  {
+   "brand": "ZTE",
+   "device": "Z5157",
+   "model": "Z5157V"
   }
  ],
  "ZTE Blade A5 2019": [

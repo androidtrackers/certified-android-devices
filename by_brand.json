@@ -53948,6 +53948,11 @@
    "model": "SA 4K Android TV"
   },
   {
+   "device": "sugamo",
+   "name": "JVC",
+   "model": "US 2K Android TV"
+  },
+  {
    "device": "Cunda",
    "name": "JVC J20",
    "model": "J20"
@@ -53971,6 +53976,11 @@
    "device": "sindorim",
    "name": "LT-55KB597",
    "model": "AI PONT"
+  },
+  {
+   "device": "tabata",
+   "name": "UK",
+   "model": "UK 2K Android TV"
   }
  ],
  "JVL (Australia)": [
@@ -65690,6 +65700,11 @@
  ],
  "Lechpol": [
   {
+   "device": "EAGLE_1069",
+   "name": "EAGLE1069",
+   "model": "KM1069"
+  },
+  {
    "device": "LIVE4_KM0438",
    "name": "LIVE 4 KM0438",
    "model": "LIVE4_KM0438"
@@ -74650,6 +74665,11 @@
    "device": "e-tab_style_REV3",
    "name": "e-tab_style_rev.3",
    "model": "e-tab_style_REV3"
+  },
+  {
+   "device": "etab_LTE",
+   "name": "etab_LTE",
+   "model": "ETL101AL"
   }
  ],
  "Mightier": [
@@ -75395,6 +75415,11 @@
    "device": "PLUM",
    "name": "PLUM",
    "model": "PLUM"
+  },
+  {
+   "device": "PULSE_1",
+   "name": "PULSE_1",
+   "model": "PULSE_1"
   },
   {
    "device": "PURE",
@@ -143351,6 +143376,11 @@
    "device": "P932F20",
    "name": "ZTE Blade A3 Lite",
    "model": "ZTE Blade A3 Lite"
+  },
+  {
+   "device": "Z5157",
+   "name": "ZTE Blade A3v",
+   "model": "Z5157V"
   },
   {
    "device": "P963F30",
