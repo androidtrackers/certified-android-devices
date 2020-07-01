@@ -18091,7 +18091,7 @@
  "Contex": [
   {
    "device": "yeongdeungpo",
-   "name": "Contex",
+   "name": "Egypt",
    "model": "AiPlus4K"
   }
  ],
@@ -22946,6 +22946,11 @@
    "device": "S80Lite",
    "name": "S80Lite",
    "model": "S80Lite"
+  },
+  {
+   "device": "S88Pro",
+   "name": "S88Pro",
+   "model": "S88Pro"
   },
   {
    "device": "S90C",
@@ -28408,6 +28413,11 @@
    "device": "F41A",
    "name": "F-41A",
    "model": "F-41A"
+  },
+  {
+   "device": "F51A",
+   "name": "F-51A",
+   "model": "F-51A"
   },
   {
    "device": "FARTM9334",
@@ -54007,6 +54017,11 @@
   {
    "device": "seocho",
    "name": "JVC",
+   "model": "JVC US 4K Android TV"
+  },
+  {
+   "device": "seocho",
+   "name": "JVC",
    "model": "SA 4K Android TV"
   },
   {
@@ -55875,6 +55890,11 @@
    "device": "KL300",
    "name": "KL300",
    "model": "KL300"
+  },
+  {
+   "device": "KL3669E_EEA",
+   "name": "KL3669E_EEA",
+   "model": "KL3669E_EEA"
   },
   {
    "device": "KL3669_EEA",
@@ -94294,6 +94314,11 @@
    "model": "RCT6691W3"
   },
   {
+   "device": "RCT6716Q24",
+   "name": "RCT6716Q24",
+   "model": "RCT6716Q24"
+  },
+  {
    "device": "RCT6773W22",
    "name": "RCT6773W22",
    "model": "RCT6773W22"
@@ -94342,6 +94367,11 @@
    "device": "RCT6A06Q22",
    "name": "RCT6A06Q22",
    "model": "RCT6A06Q22"
+  },
+  {
+   "device": "RCT6B03Q23",
+   "name": "RCT6B03Q23",
+   "model": "RCT6B03Q23"
   },
   {
    "device": "RLTP5573",
@@ -97576,6 +97606,11 @@
    "device": "a21",
    "name": "Galaxy A21",
    "model": "SM-A215U"
+  },
+  {
+   "device": "a21",
+   "name": "Galaxy A21",
+   "model": "SM-A215U1"
   },
   {
    "device": "a21",
@@ -109063,6 +109098,13 @@
    "model": "ETAB_I7043G_VP3"
   }
  ],
+ "Sansui TV": [
+  {
+   "device": "yeongdeungpo",
+   "name": "Canada",
+   "model": "AiPlus4K"
+  }
+ ],
  "Sanyo": [
   {
    "device": "CEM1",
@@ -112275,6 +112317,11 @@
   }
  ],
  "Smart-Tech TV": [
+  {
+   "device": "tamachi",
+   "name": "France",
+   "model": "AiPlus2K"
+  },
   {
    "device": "yeongdeungpo",
    "name": "SmartTech",
@@ -124076,6 +124123,11 @@
    "device": "Amazing_A55",
    "name": "Amazing_A55",
    "model": "Amazing_A55"
+  },
+  {
+   "device": "Amazing_A57",
+   "name": "Amazing_A57",
+   "model": "Amazing_A57"
   }
  ],
  "Takara": [
@@ -141155,6 +141207,16 @@
    "model": "ZTE-U X850"
   },
   {
+   "device": "NX659J-EEA",
+   "name": "Red Magic 5G",
+   "model": "NX659J"
+  },
+  {
+   "device": "NX651J-EEA",
+   "name": "Red Magic 5G lite",
+   "model": "NX651J"
+  },
+  {
    "device": "P635E40",
    "name": "Rook from EE",
    "model": "Rook from EE"
@@ -143868,6 +143930,11 @@
    "device": "K78",
    "name": "myPad P5",
    "model": "myPad P5"
+  },
+  {
+   "device": "NX651J",
+   "name": "nubia Play",
+   "model": "NX651J"
   },
   {
    "device": "NX501",

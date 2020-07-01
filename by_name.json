@@ -31804,7 +31804,7 @@
    "model": "conquest_S16"
   }
  ],
- "Contex": [
+ "Egypt": [
   {
    "brand": "Contex",
    "device": "yeongdeungpo",
@@ -38292,6 +38292,13 @@
    "brand": "Doogee",
    "device": "S80Lite",
    "model": "S80Lite"
+  }
+ ],
+ "S88Pro": [
+  {
+   "brand": "Doogee",
+   "device": "S88Pro",
+   "model": "S88Pro"
   }
  ],
  "S90C": [
@@ -45722,6 +45729,13 @@
    "brand": "Fujitsu",
    "device": "F41A",
    "model": "F-41A"
+  }
+ ],
+ "F-51A": [
+  {
+   "brand": "Fujitsu",
+   "device": "F51A",
+   "model": "F-51A"
   }
  ],
  "FARTM9334P1": [
@@ -75512,6 +75526,11 @@
   {
    "brand": "JVC",
    "device": "seocho",
+   "model": "JVC US 4K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "device": "seocho",
    "model": "SA 4K Android TV"
   },
   {
@@ -77874,6 +77893,13 @@
    "brand": "Klipad",
    "device": "KL300",
    "model": "KL300"
+  }
+ ],
+ "KL3669E_EEA": [
+  {
+   "brand": "Klipad",
+   "device": "KL3669E_EEA",
+   "model": "KL3669E_EEA"
   }
  ],
  "KL3669_EEA": [
@@ -122660,6 +122686,13 @@
    "model": "RCT6691W3"
   }
  ],
+ "RCT6716Q24": [
+  {
+   "brand": "RCA",
+   "device": "RCT6716Q24",
+   "model": "RCT6716Q24"
+  }
+ ],
  "RCT6773W22": [
   {
    "brand": "RCA",
@@ -122728,6 +122761,13 @@
    "brand": "RCA",
    "device": "RCT6A06Q22",
    "model": "RCT6A06Q22"
+  }
+ ],
+ "RCT6B03Q23": [
+  {
+   "brand": "RCA",
+   "device": "RCT6B03Q23",
+   "model": "RCT6B03Q23"
   }
  ],
  "RLTP5573": [
@@ -126307,6 +126347,11 @@
    "brand": "Samsung",
    "device": "a21",
    "model": "SM-A215U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a21",
+   "model": "SM-A215U1"
   },
   {
    "brand": "Samsung",
@@ -138829,6 +138874,13 @@
    "model": "Sansui_Switch"
   }
  ],
+ "Canada": [
+  {
+   "brand": "Sansui TV",
+   "device": "yeongdeungpo",
+   "model": "AiPlus4K"
+  }
+ ],
  "55CE6139M1": [
   {
    "brand": "Sanyo",
@@ -142911,6 +142963,13 @@
    "brand": "Smart (BD)",
    "device": "SQ811G",
    "model": "SQ811G"
+  }
+ ],
+ "France": [
+  {
+   "brand": "Smart-Tech TV",
+   "device": "tamachi",
+   "model": "AiPlus2K"
   }
  ],
  "SmartTech": [
@@ -155948,6 +156007,13 @@
    "brand": "TaiwanMobile",
    "device": "Amazing_A55",
    "model": "Amazing_A55"
+  }
+ ],
+ "Amazing_A57": [
+  {
+   "brand": "TaiwanMobile",
+   "device": "Amazing_A57",
+   "model": "Amazing_A57"
   }
  ],
  "MID 107": [
@@ -174930,6 +174996,20 @@
    "model": "ZTE-U X850"
   }
  ],
+ "Red Magic 5G": [
+  {
+   "brand": "ZTE",
+   "device": "NX659J-EEA",
+   "model": "NX659J"
+  }
+ ],
+ "Red Magic 5G lite": [
+  {
+   "brand": "ZTE",
+   "device": "NX651J-EEA",
+   "model": "NX651J"
+  }
+ ],
  "Rook from EE": [
   {
    "brand": "ZTE",
@@ -178232,6 +178312,13 @@
    "brand": "ZTE",
    "device": "K78",
    "model": "myPad P5"
+  }
+ ],
+ "nubia Play": [
+  {
+   "brand": "ZTE",
+   "device": "NX651J",
+   "model": "NX651J"
   }
  ],
  "nubia Z5": [

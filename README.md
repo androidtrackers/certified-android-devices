@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-06-30
+Last sync is 2020-07-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3498,7 +3498,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Conquest|S11|conquest-S11|S11|
 |Conquest|conquest_S16|conquest_S16|conquest_S16|
 |Conquest|conquest_S16_RU|conquest_S16|conquest_S16|
-|Contex|Contex|yeongdeungpo|AiPlus4K|
+|Contex|Egypt|yeongdeungpo|AiPlus4K|
 |Continental Edison|CE10402|CE10402|CE10402|
 |Continental Edison|Continental Edison|yeongdeungpo|B UHD Android TV|
 |Continental Edison|Continential_Edison|bangbae|Continental 4K Android TV|
@@ -4436,6 +4436,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|S70Lite|S70Lite|S70Lite|
 |Doogee|S80|S80|S80|
 |Doogee|S80Lite|S80Lite|S80Lite|
+|Doogee|S88Pro|S88Pro|S88Pro|
 |Doogee|S90C|S90C|S90C|
 |Doogee|S90Pro|S90Pro|S90Pro|
 |Doogee|S90pro|S90Pro|S90Pro|
@@ -5474,6 +5475,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fujitsu|F-09E|F09E|F-09E|
 |Fujitsu|F-12C|f11eif|F-12C|
 |Fujitsu|F-41A|F41A|F-41A|
+|Fujitsu|F-51A|F51A|F-51A|
 |Fujitsu|FARTM9334P1|FARTM9334|FARTM9334P1|
 |Fujitsu|FARTM933KZ|FARTM933KZ|FARTM933KZ|
 |Fujitsu|FARTMB611Y|FARTMB611Y|FARTMB611Y|
@@ -10511,6 +10513,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|JVC|bangbae|JVC EU 4K Android TV|
 |JVC|JVC|komagome|EU 2K Android TV|
 |JVC|JVC|seocho|JVC 4K Android TV|
+|JVC|JVC|seocho|JVC US 4K Android TV|
 |JVC|JVC|seocho|SA 4K Android TV|
 |JVC|JVC|sugamo|US 2K Android TV|
 |JVC|JVC J20|Cunda|J20|
@@ -10861,6 +10864,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Klipad|KL1018E|KL1018E_EEA|KL1018E_EEA|
 |Klipad|KL1088|KL1088|KL1088|
 |Klipad|KL300|KL300|KL300|
+|Klipad|KL3669E_EEA|KL3669E_EEA|KL3669E_EEA|
 |Klipad|KL3669_EEA|KL3669_EEA|KL3669_EEA|
 |Klipad|KL3889|KL3889|KL3889|
 |Klipad|KL450|KL450|KL450|
@@ -18376,6 +18380,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|RCT6672W23|RCT6672W23|RCT6672W23|
 |RCA|RCT6673W-V1|RCT6673W-V1|RCT6673W-V1|
 |RCA|RCT6691W3|RCT6691W3|RCT6691W3|
+|RCA|RCT6716Q24|RCT6716Q24|RCT6716Q24|
 |RCA|RCT6773W22|RCT6773W22|RCT6773W22|
 |RCA|RCT6773W42B|RCT6773W42B|RCT6773W42B|
 |RCA|RCT6873W42BMF9A|RCT6873W42BMF9A|RCT6873W42BMF9A|
@@ -18386,6 +18391,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|RCT6973W43R|RCT6973W43R|RCT6973W43R|
 |RCA|RCT6A06E12|RCT6A06E12|RCT6A06E12|
 |RCA|RCT6A06Q22|RCT6A06Q22|RCT6A06Q22|
+|RCA|RCT6B03Q23|RCT6B03Q23|RCT6B03Q23|
 |RCA|RLTP5573|RLTP5573|RLTP5573|
 |RCA|RS43F2-EU|osaki|2K AI Smart TV|
 |RCA|RTA3201|kanda|2K Smart TV|
@@ -19000,6 +19006,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A20s|a20s|SM-A207F|
 |Samsung|Galaxy A20s|a20s|SM-A207M|
 |Samsung|Galaxy A21|a21|SM-A215U|
+|Samsung|Galaxy A21|a21|SM-A215U1|
 |Samsung|Galaxy A21|a21|SM-A215W|
 |Samsung|Galaxy A21s|a21s|SM-A217F|
 |Samsung|Galaxy A21s|a21s|SM-A217M|
@@ -21295,6 +21302,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sansui|"Tab 7"""|ETAB_I7043G|ETAB I7043G|
 |Sansui|"Tab 7"""|ETAB_I7043G|ETAB_I7043G|
 |Sansui|"Tab 7"""|ETAB_I7043G_VP3|ETAB_I7043G_VP3|
+|Sansui TV|Canada|yeongdeungpo|AiPlus4K|
 |Sanyo|55CE6139M1|CEM1|CEM1|
 |Sanyo|Benesse|31TL04|31TL04|
 |Sanyo|Benesse|40TL04|40TL04|
@@ -21918,6 +21926,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smart (BD)|MQ703G|MQ703G|MQ703G|
 |Smart (BD)|MQ703G_1|MQ703G_1|MQ703G_1|
 |Smart (BD)|SQ811G|SQ811G|SQ811G|
+|Smart-Tech TV|France|tamachi|AiPlus2K|
 |Smart-Tech TV|SmartTech|yeongdeungpo|AiPlus4K|
 |SmartPad|SM181301|SM181301|SM181301|
 |SmartPad|Smartpad V7|Smartpad-V7|Smartpad-V7|
@@ -24238,6 +24247,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TaiwanMobile|Amazing_A32|Amazing_A32|Amazing_A32|
 |TaiwanMobile|Amazing_A35|Amazing_A35|Amazing_A35|
 |TaiwanMobile|Amazing_A55|Amazing_A55|Amazing_A55|
+|TaiwanMobile|Amazing_A57|Amazing_A57|Amazing_A57|
 |Takara|MID 107|MID107|MID107|
 |Takara|MID169|MID169|MID169|
 |Takara|MID210|MID210|MID210|
@@ -27551,6 +27561,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Racer|mooncake|ZTE-RACER|
 |ZTE|Racer|mooncake|ZTE-U V852|
 |ZTE|Racer|mooncake|ZTE-U X850|
+|ZTE|Red Magic 5G|NX659J-EEA|NX659J|
+|ZTE|Red Magic 5G lite|NX651J-EEA|NX651J|
 |ZTE|Rook from EE|P635E40|Rook from EE|
 |ZTE|S118|P189S10|Grand S Lite|
 |ZTE|S118|P189S10|ZTE S118|
@@ -28094,6 +28106,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|dtac phone M1|P635A50|dtac phone M1|
 |ZTE|myPad P5|K78|Amazing_P5|
 |ZTE|myPad P5|K78|myPad P5|
+|ZTE|nubia Play|NX651J|NX651J|
 |ZTE|nubia Z5|NX501|nubia Z5|
 |ZTE|sapphire lte|sapphire4g|Z3001S|
 |ZTE|tmn smart a15|atlas40|tmn smart a15|

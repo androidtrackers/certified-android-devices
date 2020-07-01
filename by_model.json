@@ -25705,7 +25705,12 @@
  "AiPlus4K": [
   {
    "brand": "Contex",
-   "name": "Contex",
+   "name": "Egypt",
+   "device": "yeongdeungpo"
+  },
+  {
+   "brand": "Sansui TV",
+   "name": "Canada",
    "device": "yeongdeungpo"
   },
   {
@@ -32338,6 +32343,13 @@
    "brand": "Doogee",
    "name": "S80Lite",
    "device": "S80Lite"
+  }
+ ],
+ "S88Pro": [
+  {
+   "brand": "Doogee",
+   "name": "S88Pro",
+   "device": "S88Pro"
   }
  ],
  "S90C": [
@@ -39781,6 +39793,13 @@
    "brand": "Fujitsu",
    "name": "F-41A",
    "device": "F41A"
+  }
+ ],
+ "F-51A": [
+  {
+   "brand": "Fujitsu",
+   "name": "F-51A",
+   "device": "F51A"
   }
  ],
  "FARTM9334P1": [
@@ -73659,6 +73678,13 @@
    "device": "komagome"
   }
  ],
+ "JVC US 4K Android TV": [
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "device": "seocho"
+  }
+ ],
  "SA 4K Android TV": [
   {
    "brand": "JVC",
@@ -76034,6 +76060,13 @@
    "brand": "Klipad",
    "name": "KL300",
    "device": "KL300"
+  }
+ ],
+ "KL3669E_EEA": [
+  {
+   "brand": "Klipad",
+   "name": "KL3669E_EEA",
+   "device": "KL3669E_EEA"
   }
  ],
  "KL3669_EEA": [
@@ -125690,6 +125723,13 @@
    "device": "RCT6691W3"
   }
  ],
+ "RCT6716Q24": [
+  {
+   "brand": "RCA",
+   "name": "RCT6716Q24",
+   "device": "RCT6716Q24"
+  }
+ ],
  "RCT6773W22": [
   {
    "brand": "RCA",
@@ -125758,6 +125798,13 @@
    "brand": "RCA",
    "name": "RCT6A06Q22",
    "device": "RCT6A06Q22"
+  }
+ ],
+ "RCT6B03Q23": [
+  {
+   "brand": "RCA",
+   "name": "RCT6B03Q23",
+   "device": "RCT6B03Q23"
   }
  ],
  "RLTP5573": [
@@ -129872,6 +129919,13 @@
   }
  ],
  "SM-A215U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A21",
+   "device": "a21"
+  }
+ ],
+ "SM-A215U1": [
   {
    "brand": "Samsung",
    "name": "Galaxy A21",
@@ -149762,6 +149816,13 @@
    "device": "SQ811G"
   }
  ],
+ "AiPlus2K": [
+  {
+   "brand": "Smart-Tech TV",
+   "name": "France",
+   "device": "tamachi"
+  }
+ ],
  "SM181301": [
   {
    "brand": "SmartPad",
@@ -165260,6 +165321,13 @@
    "brand": "TaiwanMobile",
    "name": "Amazing_A55",
    "device": "Amazing_A55"
+  }
+ ],
+ "Amazing_A57": [
+  {
+   "brand": "TaiwanMobile",
+   "name": "Amazing_A57",
+   "device": "Amazing_A57"
   }
  ],
  "MID107": [
@@ -186824,6 +186892,11 @@
    "brand": "ZTE",
    "name": "RED MAGIC 5G",
    "device": "NX659J"
+  },
+  {
+   "brand": "ZTE",
+   "name": "Red Magic 5G",
+   "device": "NX659J-EEA"
   }
  ],
  "Carl": [
@@ -186922,6 +186995,18 @@
    "brand": "ZTE",
    "name": "Racer",
    "device": "mooncake"
+  }
+ ],
+ "NX651J": [
+  {
+   "brand": "ZTE",
+   "name": "Red Magic 5G lite",
+   "device": "NX651J-EEA"
+  },
+  {
+   "brand": "ZTE",
+   "name": "nubia Play",
+   "device": "NX651J"
   }
  ],
  "Rook from EE": [
