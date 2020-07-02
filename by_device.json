@@ -721,7 +721,7 @@
   },
   {
    "brand": "Kivi",
-   "name": "UA",
+   "name": "KIVI",
    "model": "KIVI 4K Android TV"
   },
   {
@@ -53529,6 +53529,18 @@
    "model": "Hisense F8 MINI"
   }
  ],
+ "HLTE315E": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense H30",
+   "model": "Hisense H30"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense H30",
+   "model": "Hisense Infinity H30"
+  }
+ ],
  "HLTE321E": [
   {
    "brand": "Hisense",
@@ -67373,6 +67385,13 @@
    "brand": "Infinix",
    "name": "Infinix HOT 9 Play",
    "model": "Infinix X680C"
+  }
+ ],
+ "Infinix-X680E": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 9 Play",
+   "model": "Infinix X680E"
   }
  ],
  "Infinix-X655F": [
@@ -91017,6 +91036,13 @@
    "brand": "Logic Mobility",
    "name": "L55A",
    "model": "L55A"
+  }
+ ],
+ "L55B": [
+  {
+   "brand": "Logic Mobility",
+   "name": "L55B",
+   "model": "L55B"
   }
  ],
  "L55SCLARO": [
@@ -141990,6 +142016,11 @@
   }
  ],
  "Banagher": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS R5G SH-R50",
+   "model": "SH-R50"
+  },
   {
    "brand": "Sharp",
    "name": "AQUOS R5G SH-RM14",

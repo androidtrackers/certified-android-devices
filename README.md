@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-07-01
+Last sync is 2020-07-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7492,6 +7492,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense F35|HS6739MT|Hisense F35|
 |Hisense|Hisense F8 MINI|HSSC9850|Hisense F8 MINI|
 |Hisense|Hisense H20|HSSDM636QC|HLTE510T|
+|Hisense|Hisense H30|HLTE315E|Hisense H30|
+|Hisense|Hisense H30|HLTE315E|Hisense Infinity H30|
 |Hisense|Hisense H40|HLTE321E|Hisense H40|
 |Hisense|Hisense H40|HLTE321E|Hisense Infinity H40|
 |Hisense|Hisense H40 Lite|SC9863A|HLTE230E|
@@ -9880,6 +9882,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 9 Play|Infinix-X680|Infinix X680|
 |Infinix|Infinix HOT 9 Play|Infinix-X680B|Infinix X680B|
 |Infinix|Infinix HOT 9 Play|Infinix-X680C|Infinix X680C|
+|Infinix|Infinix HOT 9 Play|Infinix-X680E|Infinix X680E|
 |Infinix|Infinix HOT 9 Pro|Infinix-X655F|Infinix X655F|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604B|
@@ -10856,8 +10859,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kiowa|X4 Plus|X4_Plus|X4_Plus|
 |Kiowa|X4_CRISTAL|X4_CRISTAL|X4_CRISTAL|
 |Kiowa|X4_LTE|X4_LTE|X4_LTE|
+|Kivi|KIVI|bangbae|KIVI 4K Android TV|
 |Kivi|KIVI|komagome|KIVI 2K Android TV|
-|Kivi|UA|bangbae|KIVI 4K Android TV|
 |Klipad|7588AN|tulip-d9003|7588AN|
 |Klipad|7588AN|tulip-d9003|KL3838|
 |Klipad|KL1018|KL1018|KL1018|
@@ -13619,6 +13622,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logic Instrument|Logic Instrument Fieldbook N101|lifbn101|Logic Instrument Fieldbook N101|
 |Logic Instrument|Logic Instrument Fieldbook N80|lifbn80|Logic Instrument Fieldbook N80|
 |Logic Mobility|L55A|L55A|L55A|
+|Logic Mobility|L55B|L55B|L55B|
 |Logic Mobility|L55SCLARO|L55SCLARO|L55SCLARO|
 |Logic Mobility|L57|Logic_L57|Logic L57|
 |Logic Mobility|L5G|L5G|L5G|
@@ -21489,6 +21493,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS R3 SHV44|NAX|SHV44|
 |Sharp|AQUOS R5G 908SH|SG908SH|908SH|
 |Sharp|AQUOS R5G SH-51A|SH-51A|SH-51A|
+|Sharp|AQUOS R5G SH-R50|Banagher|SH-R50|
 |Sharp|AQUOS R5G SH-RM14|Banagher|SH-M14|
 |Sharp|AQUOS R5G SHG01|TGD|SHG01|
 |Sharp|AQUOS SERIE SHL25|SHL25|SHL25|

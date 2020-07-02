@@ -58478,6 +58478,18 @@
    "model": "HLTE510T"
   }
  ],
+ "Hisense H30": [
+  {
+   "brand": "Hisense",
+   "device": "HLTE315E",
+   "model": "Hisense H30"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HLTE315E",
+   "model": "Hisense Infinity H30"
+  }
+ ],
  "Hisense H40": [
   {
    "brand": "Hisense",
@@ -71475,6 +71487,11 @@
    "brand": "Infinix",
    "device": "Infinix-X680C",
    "model": "Infinix X680C"
+  },
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X680E",
+   "model": "Infinix X680E"
   }
  ],
  "Infinix HOT 9 Pro": [
@@ -77844,15 +77861,13 @@
  "KIVI": [
   {
    "brand": "Kivi",
-   "device": "komagome",
-   "model": "KIVI 2K Android TV"
-  }
- ],
- "UA": [
-  {
-   "brand": "Kivi",
    "device": "bangbae",
    "model": "KIVI 4K Android TV"
+  },
+  {
+   "brand": "Kivi",
+   "device": "komagome",
+   "model": "KIVI 2K Android TV"
   }
  ],
  "7588AN": [
@@ -93196,6 +93211,13 @@
    "brand": "Logic Mobility",
    "device": "L55A",
    "model": "L55A"
+  }
+ ],
+ "L55B": [
+  {
+   "brand": "Logic Mobility",
+   "device": "L55B",
+   "model": "L55B"
   }
  ],
  "L55SCLARO": [
@@ -140089,6 +140111,13 @@
    "brand": "Sharp",
    "device": "SH-51A",
    "model": "SH-51A"
+  }
+ ],
+ "AQUOS R5G SH-R50": [
+  {
+   "brand": "Sharp",
+   "device": "Banagher",
+   "model": "SH-R50"
   }
  ],
  "AQUOS R5G SH-RM14": [

@@ -38732,6 +38732,16 @@
    "model": "HLTE510T"
   },
   {
+   "device": "HLTE315E",
+   "name": "Hisense H30",
+   "model": "Hisense H30"
+  },
+  {
+   "device": "HLTE315E",
+   "name": "Hisense H30",
+   "model": "Hisense Infinity H30"
+  },
+  {
    "device": "HLTE321E",
    "name": "Hisense H40",
    "model": "Hisense H40"
@@ -50794,6 +50804,11 @@
    "model": "Infinix X680C"
   },
   {
+   "device": "Infinix-X680E",
+   "name": "Infinix HOT 9 Play",
+   "model": "Infinix X680E"
+  },
+  {
    "device": "Infinix-X655F",
    "name": "Infinix HOT 9 Pro",
    "model": "Infinix X655F"
@@ -55850,14 +55865,14 @@
  ],
  "Kivi": [
   {
+   "device": "bangbae",
+   "name": "KIVI",
+   "model": "KIVI 4K Android TV"
+  },
+  {
    "device": "komagome",
    "name": "KIVI",
    "model": "KIVI 2K Android TV"
-  },
-  {
-   "device": "bangbae",
-   "name": "UA",
-   "model": "KIVI 4K Android TV"
   }
  ],
  "Klipad": [
@@ -69807,6 +69822,11 @@
    "device": "L55A",
    "name": "L55A",
    "model": "L55A"
+  },
+  {
+   "device": "L55B",
+   "name": "L55B",
+   "model": "L55B"
   },
   {
    "device": "L55SCLARO",
@@ -110075,6 +110095,11 @@
    "device": "SH-51A",
    "name": "AQUOS R5G SH-51A",
    "model": "SH-51A"
+  },
+  {
+   "device": "Banagher",
+   "name": "AQUOS R5G SH-R50",
+   "model": "SH-R50"
   },
   {
    "device": "Banagher",
