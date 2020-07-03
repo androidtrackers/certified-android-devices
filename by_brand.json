@@ -3004,6 +3004,11 @@
    "model": "A10_Plus"
   },
   {
+   "device": "A20_Lite",
+   "name": "A20 Lite",
+   "model": "A20_Lite"
+  },
+  {
    "device": "A5_Easy",
    "name": "A5 Easy",
    "model": "A5_Easy"
@@ -11621,6 +11626,13 @@
    "device": "M755",
    "name": "M755",
    "model": "M755"
+  }
+ ],
+ "Benten": [
+  {
+   "device": "T8",
+   "name": "T8",
+   "model": "T8"
   }
  ],
  "Bentley": [
@@ -49492,6 +49504,11 @@
    "device": "sindorim",
    "name": "HYLED5520A4KM",
    "model": "AI PONT"
+  },
+  {
+   "device": "HY_BDL163G_001_EEA",
+   "name": "HY_BDL163G_001",
+   "model": "HY-BDL163G-001"
   },
   {
    "device": "bangbae",
@@ -125106,6 +125123,11 @@
    "model": "TECNO BB4"
   },
   {
+   "device": "TECNO-BC3",
+   "name": "POP 4 Pro",
+   "model": "TECNO BC3"
+  },
+  {
    "device": "TECNO-F3",
    "name": "POP1",
    "model": "TECNO F3"
@@ -135898,6 +135920,11 @@
    "device": "anglee",
    "name": "\"Mi Laser Projector 150\"\"\"",
    "model": "MiProjA1"
+  },
+  {
+   "device": "angleeUHD",
+   "name": "Mi Laser Projector 4K",
+   "model": "MiProjL1"
   },
   {
    "device": "andromeda",

@@ -10461,6 +10461,13 @@
    "model": "A10_Plus"
   }
  ],
+ "A20 Lite": [
+  {
+   "brand": "AllView",
+   "device": "A20_Lite",
+   "model": "A20_Lite"
+  }
+ ],
  "A5 Easy": [
   {
    "brand": "AllView",
@@ -22401,6 +22408,38 @@
    "brand": "Beneve",
    "device": "M755",
    "model": "M755"
+  }
+ ],
+ "T8": [
+  {
+   "brand": "Benten",
+   "device": "T8",
+   "model": "T8"
+  },
+  {
+   "brand": "Leagoo",
+   "device": "T8",
+   "model": "T8"
+  },
+  {
+   "brand": "Mito",
+   "device": "T8",
+   "model": "T8"
+  },
+  {
+   "brand": "Reeder",
+   "device": "reeder_T8",
+   "model": "reeder_T8"
+  },
+  {
+   "brand": "Seatel",
+   "device": "seatel_T8",
+   "model": "Seatel T8"
+  },
+  {
+   "brand": "Winnovo",
+   "device": "T8",
+   "model": "T8"
   }
  ],
  "B20X": [
@@ -69851,6 +69890,13 @@
    "model": "AI PONT"
   }
  ],
+ "HY_BDL163G_001": [
+  {
+   "brand": "Hyundai",
+   "device": "HY_BDL163G_001_EEA",
+   "model": "HY-BDL163G-001"
+  }
+ ],
  "Hyundai": [
   {
    "brand": "Hyundai",
@@ -88856,33 +88902,6 @@
    "brand": "Leagoo",
    "device": "T5c",
    "model": "T5c"
-  }
- ],
- "T8": [
-  {
-   "brand": "Leagoo",
-   "device": "T8",
-   "model": "T8"
-  },
-  {
-   "brand": "Mito",
-   "device": "T8",
-   "model": "T8"
-  },
-  {
-   "brand": "Reeder",
-   "device": "reeder_T8",
-   "model": "reeder_T8"
-  },
-  {
-   "brand": "Seatel",
-   "device": "seatel_T8",
-   "model": "Seatel T8"
-  },
-  {
-   "brand": "Winnovo",
-   "device": "T8",
-   "model": "T8"
   }
  ],
  "T8s": [
@@ -157115,6 +157134,13 @@
    "model": "TECNO BB4"
   }
  ],
+ "POP 4 Pro": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-BC3",
+   "model": "TECNO BC3"
+  }
+ ],
  "POP1": [
   {
    "brand": "Tecno",
@@ -169886,6 +169912,13 @@
    "brand": "Xiaomi",
    "device": "anglee",
    "model": "MiProjA1"
+  }
+ ],
+ "Mi Laser Projector 4K": [
+  {
+   "brand": "Xiaomi",
+   "device": "angleeUHD",
+   "model": "MiProjL1"
   }
  ],
  "Mi MIX 3 5G": [

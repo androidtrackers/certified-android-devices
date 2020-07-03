@@ -4854,6 +4854,13 @@
    "device": "A10_Plus"
   }
  ],
+ "A20_Lite": [
+  {
+   "brand": "AllView",
+   "name": "A20 Lite",
+   "device": "A20_Lite"
+  }
+ ],
  "A5_Easy": [
   {
    "brand": "AllView",
@@ -16768,6 +16775,38 @@
    "brand": "Beneve",
    "name": "M755",
    "device": "M755"
+  }
+ ],
+ "T8": [
+  {
+   "brand": "Benten",
+   "name": "T8",
+   "device": "T8"
+  },
+  {
+   "brand": "Leagoo",
+   "name": "T8",
+   "device": "T8"
+  },
+  {
+   "brand": "Mito",
+   "name": "T8",
+   "device": "T8"
+  },
+  {
+   "brand": "Veidoo",
+   "name": "VEIDOO_T8",
+   "device": "VEIDOO_T8"
+  },
+  {
+   "brand": "Winnovo",
+   "name": "T8",
+   "device": "T8"
+  },
+  {
+   "brand": "Winnovo",
+   "name": "T8_eea",
+   "device": "T8"
   }
  ],
  "BENTLEY ENTERTAINMENT TABLET": [
@@ -67840,6 +67879,13 @@
    "device": "HY1_5085"
   }
  ],
+ "HY-BDL163G-001": [
+  {
+   "brand": "Hyundai",
+   "name": "HY_BDL163G_001",
+   "device": "HY_BDL163G_001_EEA"
+  }
+ ],
  "Hyundai 4K Android TV": [
   {
    "brand": "Hyundai",
@@ -89008,33 +89054,6 @@
    "brand": "Leagoo",
    "name": "T5c",
    "device": "T5c"
-  }
- ],
- "T8": [
-  {
-   "brand": "Leagoo",
-   "name": "T8",
-   "device": "T8"
-  },
-  {
-   "brand": "Mito",
-   "name": "T8",
-   "device": "T8"
-  },
-  {
-   "brand": "Veidoo",
-   "name": "VEIDOO_T8",
-   "device": "VEIDOO_T8"
-  },
-  {
-   "brand": "Winnovo",
-   "name": "T8",
-   "device": "T8"
-  },
-  {
-   "brand": "Winnovo",
-   "name": "T8_eea",
-   "device": "T8"
   }
  ],
  "T8s": [
@@ -166611,6 +166630,13 @@
    "device": "TECNO-BB4"
   }
  ],
+ "TECNO BC3": [
+  {
+   "brand": "Tecno",
+   "name": "POP 4 Pro",
+   "device": "TECNO-BC3"
+  }
+ ],
  "TECNO AB7": [
   {
    "brand": "Tecno",
@@ -179759,6 +179785,13 @@
    "brand": "Xiaomi",
    "name": "\"Mi Laser Projector 150\"\"\"",
    "device": "anglee"
+  }
+ ],
+ "MiProjL1": [
+  {
+   "brand": "Xiaomi",
+   "name": "Mi Laser Projector 4K",
+   "device": "angleeUHD"
   }
  ],
  "Mi MIX 3 5G": [

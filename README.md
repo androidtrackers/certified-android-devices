@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-07-02
+Last sync is 2020-07-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -576,6 +576,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|A10 Lite 2GB|A10_Lite_2GB|A10_Lite_2GB|
 |AllView|A10 Max|A10_Max|A10_Max|
 |AllView|A10 Plus|A10_Plus|A10_Plus|
+|AllView|A20 Lite|A20_Lite|A20_Lite|
 |AllView|A5 Easy|A5_Easy|A5_Easy|
 |AllView|A5 Easy|A5_Easy|A5_Easy_TM|
 |AllView|A5 Lite|A5_Lite|A5_Lite|
@@ -2265,6 +2266,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Beneve|M7133E|M7133E|M7133E|
 |Beneve|M7133E3|M7133E3|M7133E3|
 |Beneve|M755|M755|M755|
+|Benten|T8|T8|T8|
 |Bentley|SDIS1|sdis1|BENTLEY ENTERTAINMENT TABLET|
 |Bentley|Tab|sdis1|BENTLEY ENTERTAINMENT TABLET|
 |Bertoli|B20X|B20X|B20X|
@@ -9636,6 +9638,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HT0802W16/Koral_8W2|HT0802W16|Koral_8W2|
 |Hyundai|HY1-5085|HY1_5085|HY1-5085|
 |Hyundai|HYLED5520A4KM|sindorim|AI PONT|
+|Hyundai|HY_BDL163G_001|HY_BDL163G_001_EEA|HY-BDL163G-001|
 |Hyundai|Hyundai|bangbae|Hyundai 4K Android TV|
 |Hyundai|Hyundai|komagome|Hyundai 2K Android TV|
 |Hyundai|Hyundai Eternity G50L|HT1G50L|Hyundai_Eternity_G50L|
@@ -24438,6 +24441,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|POP 2S|TECNO-RA8|TECNO RA8|
 |Tecno|POP 2s|TECNO-KB2h|TECNO KB2h|
 |Tecno|POP 3 Plus|TECNO-BB4|TECNO BB4|
+|Tecno|POP 4 Pro|TECNO-BC3|TECNO BC3|
 |Tecno|POP1|TECNO-F3|TECNO F3|
 |Tecno|Phantom 9|TECNO-AB7|TECNO AB7|
 |Tecno|Phantom6|Phantom6|Phantom6|
@@ -26510,6 +26514,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Mi A3|laurel_sprout|Mi A3|
 |Xiaomi|Mi Box|once|MIBOX3|
 |Xiaomi|"Mi Laser Projector 150"""|anglee|MiProjA1|
+|Xiaomi|Mi Laser Projector 4K|angleeUHD|MiProjL1|
 |Xiaomi|Mi MIX 3 5G|andromeda|Mi MIX 3 5G|
 |Xiaomi|Mi Note|virgo|MI NOTE LTE|
 |Xiaomi|Mi Note 10|tucana|Mi Note 10|

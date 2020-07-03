@@ -5134,6 +5134,13 @@
    "model": "A10_Plus"
   }
  ],
+ "A20_Lite": [
+  {
+   "brand": "AllView",
+   "name": "A20 Lite",
+   "model": "A20_Lite"
+  }
+ ],
  "A5_Easy": [
   {
    "brand": "AllView",
@@ -17534,6 +17541,33 @@
    "brand": "Beneve",
    "name": "M755",
    "model": "M755"
+  }
+ ],
+ "T8": [
+  {
+   "brand": "Benten",
+   "name": "T8",
+   "model": "T8"
+  },
+  {
+   "brand": "Leagoo",
+   "name": "T8",
+   "model": "T8"
+  },
+  {
+   "brand": "Mito",
+   "name": "T8",
+   "model": "T8"
+  },
+  {
+   "brand": "Winnovo",
+   "name": "T8",
+   "model": "T8"
+  },
+  {
+   "brand": "Winnovo",
+   "name": "T8_eea",
+   "model": "T8"
   }
  ],
  "B20X": [
@@ -65744,6 +65778,13 @@
    "model": "HY1-5085"
   }
  ],
+ "HY_BDL163G_001_EEA": [
+  {
+   "brand": "Hyundai",
+   "name": "HY_BDL163G_001",
+   "model": "HY-BDL163G-001"
+  }
+ ],
  "HT1G50L": [
   {
    "brand": "Hyundai",
@@ -85757,28 +85798,6 @@
    "brand": "Leagoo",
    "name": "T5c",
    "model": "T5c"
-  }
- ],
- "T8": [
-  {
-   "brand": "Leagoo",
-   "name": "T8",
-   "model": "T8"
-  },
-  {
-   "brand": "Mito",
-   "name": "T8",
-   "model": "T8"
-  },
-  {
-   "brand": "Winnovo",
-   "name": "T8",
-   "model": "T8"
-  },
-  {
-   "brand": "Winnovo",
-   "name": "T8_eea",
-   "model": "T8"
   }
  ],
  "T8s": [
@@ -159567,6 +159586,13 @@
    "model": "TECNO BB4"
   }
  ],
+ "TECNO-BC3": [
+  {
+   "brand": "Tecno",
+   "name": "POP 4 Pro",
+   "model": "TECNO BC3"
+  }
+ ],
  "TECNO-F3": [
   {
    "brand": "Tecno",
@@ -172347,6 +172373,13 @@
    "brand": "Xiaomi",
    "name": "\"Mi Laser Projector 150\"\"\"",
    "model": "MiProjA1"
+  }
+ ],
+ "angleeUHD": [
+  {
+   "brand": "Xiaomi",
+   "name": "Mi Laser Projector 4K",
+   "model": "MiProjL1"
   }
  ],
  "andromeda": [
