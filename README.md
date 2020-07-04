@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-07-03
+Last sync is 2020-07-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3800,6 +3800,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|CUBOT R11|CUBOT_R11|CUBOT R11|
 |Cubot|CUBOT X18|CUBOT_X18|CUBOT X18|
 |Cubot|CUBOT_A5|CUBOT_A5|CUBOT A5|
+|Cubot|CUBOT_J3|CUBOT_J3|CUBOT_J3|
 |Cubot|CUBOT_J3_PRO|CUBOT_J3_PRO|CUBOT J3 PRO|
 |Cubot|CUBOT_NOVA|CUBOT_NOVA|CUBOT_NOVA|
 |Cubot|CUBOT_POWER|CUBOT_POWER|CUBOT_POWER|
