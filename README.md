@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-07-05
+Last sync is 2020-07-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -554,6 +554,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aligator|ALIGATOR S5520|ALIGATOR_S5520|ALIGATOR_S5520|
 |Aligator|ALIGATOR S5540|ALIGATOR_S5540|ALIGATOR S5540|
 |Aligator|ALIGATOR S6000|ALIGATOR_S6000|ALIGATOR S6000|
+|Aligator|ALIGATOR S6500|ALIGATOR_S6500|ALIGATOR S6500|
 |Aligator|ALIGATOR_RX710_EEA|ALIGATOR_RX710|ALIGATOR RX710|
 |Aligator|Aligator S5066|Aligator_S5066|Aligator_S5066|
 |Aligator|RX460|RX460|RX460|
@@ -6344,6 +6345,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HTC|Desire 12+|htc_brepuhl|HTC Desire 12+|
 |HTC|Desire 12s|htc_bre2dugl|HTC 2Q721|
 |HTC|Desire 12s|htc_bre2dugl|HTC Desire 12s|
+|HTC|Desire 12s|htc_bre2exdugl|EXODUS 1s|
+|HTC|Desire 12s|htc_bre2exdugl|HTC Desire 12s|
 |HTC|Desire 200|gtou|HTC Desire 200|
 |HTC|Desire 200|gtou|HTC_Desire_200|
 |HTC|Desire 210 dual sim|htc_v0_dug|HTC Desire 210 dual sim|
@@ -24511,6 +24514,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO POP 2X Plus|TECNO-RB8S|TECNO RB8S|
 |Tecno|TECNO POP 2s Pro|TECNO-KB2j|TECNO KB2j|
 |Tecno|TECNO POP 3|TECNO-BB2|TECNO BB2|
+|Tecno|TECNO POP 4|TECNO-BC2|TECNO BC2|
 |Tecno|TECNO R6S|TECNO-R6|TECNO R6S|
 |Tecno|TECNO RB7S|TECNO-RB7S|TECNO RB7S|
 |Tecno|TECNO S1 Lite|TECNO-S1Lite|TECNO S1 Lite|
@@ -24829,6 +24833,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Trend Solar|TS-X|TRENDPHONE2_0|TS-X|
 |Trevi|KID-Tab-7-S03_EEA|KID-Tab-7-S03_EEA|KID-Tab-7-S03|
 |Trevi|Retailer Stores|KID_TAB_7_S02|KID_TAB_7_S02|
+|TriaPlay|TriaPlayBox|TriaPlayBox|TriaPlayBox|
 |Trifone|Passion-1S|Passion-1S|Passion-1S|
 |Trifone|Passion-Plus|Passion-Plus|Passion-Plus|
 |Trifone|Passion1|Passion1|Passion1|
@@ -24996,6 +25001,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Ulfone_S11|Ulefone_S11|Ulefone_S11|
 |Umax|10A_LTE_eea|10A_LTE|10A_LTE_eea|
 |Umax|10Qa_3G|10Qa_3G|VisionBook_10Qa_3G|
+|Umax|7A_3G|7A_3G|7A_3G|
 |Umax|7A_Plus_eea|7A_Plus|7A_Plus|
 |Umax|7Qa_3G|7Qa_3G|7Qa_3G|
 |Umax|8A_Plus_eea|8A_Plus_eea|8A_Plus|
@@ -25116,6 +25122,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VNPT Technology|VNPT SmartBox 2x|vnptt_smb_v2x|VNPT SmartBox 2x|
 |VOLFEN|NEXO_TAB_10|NEXO_TAB_10|NEXO_TAB_10|
 |VOLFEN|Nexo TAB 7|Nexo-TAB-7|Nexo-TAB-7|
+|VOLIA|VOL001|VOL001|VOL001|
 |VORCOM|S7-classic|S7-classic|S7-classic|
 |VSN|V.35|up11_h1_vsn|V.35|
 |VT|MB300|MB300|SmartTV|

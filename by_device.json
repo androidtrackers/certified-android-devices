@@ -4950,6 +4950,13 @@
    "model": "ALIGATOR S6000"
   }
  ],
+ "ALIGATOR_S6500": [
+  {
+   "brand": "Aligator",
+   "name": "ALIGATOR S6500",
+   "model": "ALIGATOR S6500"
+  }
+ ],
  "ALIGATOR_RX710": [
   {
    "brand": "Aligator",
@@ -46967,6 +46974,18 @@
    "brand": "HTC",
    "name": "Desire 12s",
    "model": "HTC 2Q721"
+  },
+  {
+   "brand": "HTC",
+   "name": "Desire 12s",
+   "model": "HTC Desire 12s"
+  }
+ ],
+ "htc_bre2exdugl": [
+  {
+   "brand": "HTC",
+   "name": "Desire 12s",
+   "model": "EXODUS 1s"
   },
   {
    "brand": "HTC",
@@ -160024,6 +160043,13 @@
    "model": "TECNO BB2"
   }
  ],
+ "TECNO-BC2": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO POP 4",
+   "model": "TECNO BC2"
+  }
+ ],
  "TECNO-RB7S": [
   {
    "brand": "Tecno",
@@ -162030,6 +162056,13 @@
    "model": "KID_TAB_7_S02"
   }
  ],
+ "TriaPlayBox": [
+  {
+   "brand": "TriaPlay",
+   "name": "TriaPlayBox",
+   "model": "TriaPlayBox"
+  }
+ ],
  "Passion-1S": [
   {
    "brand": "Trifone",
@@ -163032,6 +163065,13 @@
    "model": "VisionBook_10Qa_3G"
   }
  ],
+ "7A_3G": [
+  {
+   "brand": "Umax",
+   "name": "7A_3G",
+   "model": "7A_3G"
+  }
+ ],
  "7A_Plus": [
   {
    "brand": "Umax",
@@ -163710,6 +163750,13 @@
    "brand": "VOLFEN",
    "name": "Nexo TAB 7",
    "model": "Nexo-TAB-7"
+  }
+ ],
+ "VOL001": [
+  {
+   "brand": "VOLIA",
+   "name": "VOL001",
+   "model": "VOL001"
   }
  ],
  "S7-classic": [
