@@ -9853,6 +9853,13 @@
    "device": "S6"
   }
  ],
+ "Ascom Myco 3 DECT Wi-Fi EU": [
+  {
+   "brand": "Ascom",
+   "name": "Ascom Myco 3",
+   "device": "ADAA"
+  }
+ ],
  "Ascom Myco 3 Wi-Fi": [
   {
    "brand": "Ascom",
@@ -14295,6 +14302,20 @@
    "brand": "BMXC",
    "name": "ST-920",
    "device": "ST-920"
+  }
+ ],
+ "XQ107": [
+  {
+   "brand": "BMXC",
+   "name": "XQ107",
+   "device": "XQ107"
+  }
+ ],
+ "XQ107-EEA": [
+  {
+   "brand": "BMXC",
+   "name": "XQ107-EEA",
+   "device": "XQ107-EEA"
   }
  ],
  "AX1010": [
@@ -27651,6 +27672,13 @@
    "device": "U304AC"
   }
  ],
+ "U705AC": [
+  {
+   "brand": "Cricket",
+   "name": "U705AC",
+   "device": "U705AC"
+  }
+ ],
  "Glory Z1": [
   {
    "brand": "Cristor",
@@ -39284,6 +39312,13 @@
    "brand": "Freebit",
    "name": "Tone m15",
    "device": "TONE_m15"
+  }
+ ],
+ "Freebox Player POP": [
+  {
+   "brand": "Freebox",
+   "name": "Freebox Player POP",
+   "device": "fbx8am"
   }
  ],
  "Freebox Player Mini": [
@@ -96806,6 +96841,13 @@
    "device": "3"
   }
  ],
+ "8": [
+  {
+   "brand": "MU (TH)",
+   "name": "8",
+   "device": "8"
+  }
+ ],
  "1": [
   {
    "brand": "MU (TH)",
@@ -106794,6 +106836,11 @@
   }
  ],
  "Android TV": [
+  {
+   "brand": "My",
+   "name": "Android TV",
+   "device": "tokyo"
+  },
   {
    "brand": "My",
    "name": "Android TV",
@@ -169740,6 +169787,13 @@
    "device": "Y10G007S4MI_EEA"
   }
  ],
+ "Y10G007S4M_EEA": [
+  {
+   "brand": "UNOWHY",
+   "name": "Y10G007S4M_EEA",
+   "device": "Y10G007S4M_EEA"
+  }
+ ],
  "iRULU X11": [
   {
    "brand": "USA111",
@@ -173817,6 +173871,27 @@
    "brand": "Vivo",
    "name": "V1Max",
    "device": "Y37"
+  }
+ ],
+ "V2001A": [
+  {
+   "brand": "Vivo",
+   "name": "V2001A",
+   "device": "PD2001"
+  }
+ ],
+ "V2002A": [
+  {
+   "brand": "Vivo",
+   "name": "V2002A",
+   "device": "PD2002"
+  }
+ ],
+ "V2005A": [
+  {
+   "brand": "Vivo",
+   "name": "V2005A",
+   "device": "PD2005"
   }
  ],
  "vivo V3": [
@@ -191987,6 +192062,13 @@
    "brand": "eSTREAM 4K",
    "name": "Pyxis-RCN",
    "device": "SEI500RCN"
+  }
+ ],
+ "KAZ-N20": [
+  {
+   "brand": "eTalk",
+   "name": "KAZ-N20",
+   "device": "KAZ-N20"
   }
  ],
  "Ex-Handy 10 ROW": [

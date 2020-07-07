@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-07-06
+Last sync is 2020-07-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1264,6 +1264,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asanzo|ASANZO A2|ASANZO_A2|ASANZO A2|
 |Asanzo|S3 Plus|ASANZO_S3_PLUS|ASANZO_S3_PLUS|
 |Asanzo|S6|S6|S6|
+|Ascom|Ascom Myco 3|ADAA|Ascom Myco 3 DECT Wi-Fi EU|
 |Ascom|Ascom Myco 3|ABAA|Ascom Myco 3 Wi-Fi|
 |Ascom|Ascom Myco 3|ABBA|Ascom Myco 3 Wi-Fi EU|
 |Ascom|Ascom Myco 3|ACAA|Ascom Myco 3 Cellular Wi-Fi|
@@ -1913,6 +1914,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMXC|N107|N107|N107|
 |BMXC|N107_EEA|N107-EEA|N107-EEA|
 |BMXC|ST-920|ST-920|ST-920|
+|BMXC|XQ107|XQ107|XQ107|
+|BMXC|XQ107-EEA|XQ107-EEA|XQ107-EEA|
 |BMobile|AX1010|Bmobile_AX1010|AX1010|
 |BMobile|AX1010|Bmobile_AX1010|Bmobile AX1010|
 |BMobile|AX1015|Bmobile_AX1015|AX1015|
@@ -3768,6 +3771,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Covia|g06+|g06|g06|
 |Crema|CREMA0810T|crema0810t|CREMA0810T|
 |Cricket|U304AC|U304AC|U304AC|
+|Cricket|U705AC|U705AC|U705AC|
 |Cristor|Glory_Z1|Glory_Z1|Glory Z1|
 |Cristor|Trendy_1|Trendy_1|Trendy 1|
 |Cristor|Trendy_2|Trendy_2|Trendy 2|
@@ -5400,6 +5404,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Freebit|A55J|arima6735_65u_l1|TONE m15|
 |Freebit|TONE m15|TONE_m15|TONE m15|
 |Freebit|Tone m15|TONE_m15|TONE m15|
+|Freebox|Freebox Player POP|fbx8am|Freebox Player POP|
 |Freebox|Mini 4K|fbx6lc|Freebox Player Mini|
 |Freebox|Mini 4K|fbx6lcv2|Freebox Player Mini v2|
 |Freetel|Cricket Wave|Cricket_Wave|FTU18A00|
@@ -13974,6 +13979,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MTT|Smart Fun|SmartFun|M.T.T. Smart Fun|
 |MTab|MT3|MT3|MT3|
 |MU (TH)|3|3|3|
+|MU (TH)|8|8|8|
 |MU (TH)|mu 1|mu_1|1|
 |MU (TH)|mu6|mu6|mu6|
 |Mach Speed|xtreme|X_treme_Play_Tab|X-treme Play Tab|
@@ -15492,6 +15498,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|Multilaser H|Multilaser_H|Multilaser H|
 |Multilaser|Multilaser_F|Multilaser_F|Multilaser_F|
 |Multilaser|OBASMART 3|OBASMART_3|OBASMART_3|
+|My|Android TV|tokyo|Android TV|
 |My|Android TV|yeoksam|Android TV|
 |My|Android TV|yeoksam|AndroidTV|
 |My|Android TV|yeoksam|Cosmos|
@@ -24925,6 +24932,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |UNOWHY|UNOWHY|SQOOL-V41|SQOOL-V41|
 |UNOWHY|Y10G001S4M_EEA|Y10G001S4M|Y10G001S4M_EEA|
 |UNOWHY|Y10G007S4MI_EEA|Y10G007S4MI_EEA|Y10G007S4MI_EEA|
+|UNOWHY|Y10G007S4M_EEA|Y10G007S4M_EEA|Y10G007S4M_EEA|
 |USA111|IRULU X11|iRULU-X11|iRULU X11|
 |USA111|IRULU X9|X9|X9|
 |USA111|Irulu X7|X7|X7|
@@ -25566,6 +25574,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V1986A|PD1986|V1986A|
 |Vivo|V1990A|PD1990|V1990A|
 |Vivo|V1Max|Y37|vivo Y37|
+|Vivo|V2001A|PD2001|V2001A|
+|Vivo|V2002A|PD2002|V2002A|
+|Vivo|V2005A|PD2005|V2005A|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
 |Vivo|V3Lite|V3Lite|vivo V3Lite|
@@ -28382,6 +28393,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |eSTREAM 4K|Pyxis|SEI500TV|Pyxis|
 |eSTREAM 4K|Pyxis-Midco|SEI500MC|Pyxis-Midco|
 |eSTREAM 4K|Pyxis-RCN|SEI500RCN|Pyxis-RCN|
+|eTalk|KAZ-N20|KAZ-N20|KAZ-N20|
 |ecom|Ex-Handy 10|Ex-Handy10|Ex-Handy 10 ROW|
 |ecom|Smart-Ex02|Smart-Ex02|Smart-Ex02 ROW|
 |efioo|efiootabn7a|efiootabn7a|Tab N7a|

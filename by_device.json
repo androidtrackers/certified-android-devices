@@ -10380,6 +10380,18 @@
    "model": "S6"
   }
  ],
+ "ADAA": [
+  {
+   "brand": "Ascom",
+   "name": "Ascom Myco 3",
+   "model": "Ascom Myco 3 DECT Wi-Fi EU"
+  },
+  {
+   "brand": "Ascom",
+   "name": "Ascom Myco 3",
+   "model": "Ascom Myco 3 DECT Wi-Fi"
+  }
+ ],
  "ABAA": [
   {
    "brand": "Ascom",
@@ -10421,13 +10433,6 @@
    "brand": "Ascom Wireless Solutions",
    "name": "Ascom Myco Cellular",
    "model": "SH1"
-  }
- ],
- "ADAA": [
-  {
-   "brand": "Ascom",
-   "name": "Ascom Myco 3",
-   "model": "Ascom Myco 3 DECT Wi-Fi"
   }
  ],
  "ACBB": [
@@ -15008,6 +15013,20 @@
    "brand": "BMXC",
    "name": "ST-920",
    "model": "ST-920"
+  }
+ ],
+ "XQ107": [
+  {
+   "brand": "BMXC",
+   "name": "XQ107",
+   "model": "XQ107"
+  }
+ ],
+ "XQ107-EEA": [
+  {
+   "brand": "BMXC",
+   "name": "XQ107-EEA",
+   "model": "XQ107-EEA"
   }
  ],
  "Bmobile_AX1010": [
@@ -28047,6 +28066,13 @@
    "model": "U304AC"
   }
  ],
+ "U705AC": [
+  {
+   "brand": "Cricket",
+   "name": "U705AC",
+   "model": "U705AC"
+  }
+ ],
  "Glory_Z1": [
   {
    "brand": "Cristor",
@@ -40172,6 +40198,13 @@
    "brand": "Freebit",
    "name": "Tone m15",
    "model": "TONE m15"
+  }
+ ],
+ "fbx8am": [
+  {
+   "brand": "Freebox",
+   "name": "Freebox Player POP",
+   "model": "Freebox Player POP"
   }
  ],
  "fbx6lc": [
@@ -93525,6 +93558,13 @@
    "model": "3"
   }
  ],
+ "8": [
+  {
+   "brand": "MU (TH)",
+   "name": "8",
+   "model": "8"
+  }
+ ],
  "mu_1": [
   {
    "brand": "MU (TH)",
@@ -103388,6 +103428,13 @@
    "brand": "Multilaser",
    "name": "OBASMART 3",
    "model": "OBASMART_3"
+  }
+ ],
+ "tokyo": [
+  {
+   "brand": "My",
+   "name": "Android TV",
+   "model": "Android TV"
   }
  ],
  "yeoksam": [
@@ -162614,6 +162661,13 @@
    "model": "Y10G007S4MI_EEA"
   }
  ],
+ "Y10G007S4M_EEA": [
+  {
+   "brand": "UNOWHY",
+   "name": "Y10G007S4M_EEA",
+   "model": "Y10G007S4M_EEA"
+  }
+ ],
  "iRULU-X11": [
   {
    "brand": "USA111",
@@ -166519,6 +166573,27 @@
    "brand": "Vivo",
    "name": "V1Max",
    "model": "vivo Y37"
+  }
+ ],
+ "PD2001": [
+  {
+   "brand": "Vivo",
+   "name": "V2001A",
+   "model": "V2001A"
+  }
+ ],
+ "PD2002": [
+  {
+   "brand": "Vivo",
+   "name": "V2002A",
+   "model": "V2002A"
+  }
+ ],
+ "PD2005": [
+  {
+   "brand": "Vivo",
+   "name": "V2005A",
+   "model": "V2005A"
   }
  ],
  "PD1524": [
@@ -182980,6 +183055,13 @@
    "brand": "eSTREAM 4K",
    "name": "Pyxis-RCN",
    "model": "Pyxis-RCN"
+  }
+ ],
+ "KAZ-N20": [
+  {
+   "brand": "eTalk",
+   "name": "KAZ-N20",
+   "model": "KAZ-N20"
   }
  ],
  "Ex-Handy10": [

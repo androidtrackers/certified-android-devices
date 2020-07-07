@@ -6502,6 +6502,11 @@
  ],
  "Ascom": [
   {
+   "device": "ADAA",
+   "name": "Ascom Myco 3",
+   "model": "Ascom Myco 3 DECT Wi-Fi EU"
+  },
+  {
    "device": "ABAA",
    "name": "Ascom Myco 3",
    "model": "Ascom Myco 3 Wi-Fi"
@@ -9823,6 +9828,16 @@
    "device": "ST-920",
    "name": "ST-920",
    "model": "ST-920"
+  },
+  {
+   "device": "XQ107",
+   "name": "XQ107",
+   "model": "XQ107"
+  },
+  {
+   "device": "XQ107-EEA",
+   "name": "XQ107-EEA",
+   "model": "XQ107-EEA"
   }
  ],
  "BMobile": [
@@ -19458,6 +19473,11 @@
    "device": "U304AC",
    "name": "U304AC",
    "model": "U304AC"
+  },
+  {
+   "device": "U705AC",
+   "name": "U705AC",
+   "model": "U705AC"
   }
  ],
  "Cristor": [
@@ -28037,6 +28057,11 @@
   }
  ],
  "Freebox": [
+  {
+   "device": "fbx8am",
+   "name": "Freebox Player POP",
+   "model": "Freebox Player POP"
+  },
   {
    "device": "fbx6lc",
    "name": "Mini 4K",
@@ -71668,6 +71693,11 @@
    "model": "3"
   },
   {
+   "device": "8",
+   "name": "8",
+   "model": "8"
+  },
+  {
    "device": "mu_1",
    "name": "mu 1",
    "model": "1"
@@ -79443,6 +79473,11 @@
   }
  ],
  "My": [
+  {
+   "device": "tokyo",
+   "name": "Android TV",
+   "model": "Android TV"
+  },
   {
    "device": "yeoksam",
    "name": "Android TV",
@@ -127679,6 +127714,11 @@
    "device": "Y10G007S4MI_EEA",
    "name": "Y10G007S4MI_EEA",
    "model": "Y10G007S4MI_EEA"
+  },
+  {
+   "device": "Y10G007S4M_EEA",
+   "name": "Y10G007S4M_EEA",
+   "model": "Y10G007S4M_EEA"
   }
  ],
  "USA111": [
@@ -131036,6 +131076,21 @@
    "device": "Y37",
    "name": "V1Max",
    "model": "vivo Y37"
+  },
+  {
+   "device": "PD2001",
+   "name": "V2001A",
+   "model": "V2001A"
+  },
+  {
+   "device": "PD2002",
+   "name": "V2002A",
+   "model": "V2002A"
+  },
+  {
+   "device": "PD2005",
+   "name": "V2005A",
+   "model": "V2005A"
   },
   {
    "device": "PD1524",
@@ -145384,6 +145439,13 @@
    "device": "SEI500RCN",
    "name": "Pyxis-RCN",
    "model": "Pyxis-RCN"
+  }
+ ],
+ "eTalk": [
+  {
+   "device": "KAZ-N20",
+   "name": "KAZ-N20",
+   "model": "KAZ-N20"
   }
  ],
  "ecom": [
