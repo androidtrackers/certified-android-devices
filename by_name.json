@@ -6158,6 +6158,11 @@
    "brand": "AG Mobile",
    "device": "SHARKL5",
    "model": "AGM A10"
+  },
+  {
+   "brand": "AG Mobile",
+   "device": "SHARKL5",
+   "model": "Android"
   }
  ],
  "AGM A9": [
@@ -22468,6 +22473,11 @@
    "model": "Seatel T8"
   },
   {
+   "brand": "Teclast",
+   "device": "T8",
+   "model": "T8"
+  },
+  {
    "brand": "Winnovo",
    "device": "T8",
    "model": "T8"
@@ -27478,6 +27488,13 @@
    "model": "ST 60"
   }
  ],
+ "YS-CK0001": [
+  {
+   "brand": "COOKIE",
+   "device": "YS-CK0001",
+   "model": "YS-CK0001"
+  }
+ ],
  "Aplus": [
   {
    "brand": "COPAN",
@@ -29028,6 +29045,16 @@
    "brand": "Changhong",
    "device": "sindorim",
    "model": "AI PONT"
+  },
+  {
+   "brand": "Durabrand",
+   "device": "hanyang",
+   "model": "Durabrand 4K Android TV"
+  },
+  {
+   "brand": "Durabrand",
+   "device": "nippori",
+   "model": "Durabrand 2K Android TV"
   }
  ],
  "GIU6060": [
@@ -39343,6 +39370,13 @@
    "brand": "Dragontouch",
    "device": "Notepad_Go_803",
    "model": "Notepad_Go_803"
+  }
+ ],
+ "S10M": [
+  {
+   "brand": "Dragontouch",
+   "device": "S10M",
+   "model": "S10M"
   }
  ],
  "X80 Plus": [
@@ -58534,6 +58568,11 @@
   {
    "brand": "Hisense",
    "device": "SC9863A",
+   "model": "Hisense E40 Lite"
+  },
+  {
+   "brand": "Hisense",
+   "device": "SC9863A",
    "model": "Hisense F19"
   }
  ],
@@ -77641,6 +77680,13 @@
    "model": "6Cb"
   }
  ],
+ "A1s": [
+  {
+   "brand": "Kenxinda",
+   "device": "A1s",
+   "model": "A1s"
+  }
+ ],
  "D58": [
   {
    "brand": "Kenxinda",
@@ -82329,6 +82375,11 @@
   }
  ],
  "LG K31": [
+  {
+   "brand": "LGE",
+   "device": "mdh5lm",
+   "model": "LGL355DL"
+  },
   {
    "brand": "LGE",
    "device": "mdh5lm",
@@ -116715,6 +116766,13 @@
    "model": "Pixus_Sprint"
   }
  ],
+ "Pixus_Touch_7_3G": [
+  {
+   "brand": "Pixus",
+   "device": "Pixus_Touch_7_3G",
+   "model": "Pixus_Touch_7_3G"
+  }
+ ],
  "Aqua": [
   {
    "brand": "Plaisio",
@@ -130867,6 +130925,13 @@
    "brand": "Samsung",
    "device": "m01q",
    "model": "SM-M015G"
+  }
+ ],
+ "Galaxy M01 Core": [
+  {
+   "brand": "Samsung",
+   "device": "a01core",
+   "model": "SM-M013F"
   }
  ],
  "Galaxy M01s": [
@@ -154603,6 +154668,13 @@
    "model": "TAB 7 DUAL CORE"
   }
  ],
+ "TCL 10 5G": [
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Seattle_VZW",
+   "model": "T790S"
+  }
+ ],
  "TCL 302U": [
   {
    "brand": "TCT (Alcatel)",
@@ -170755,6 +170827,13 @@
    "model": "Note 30 pro"
   }
  ],
+ "T5_EEA": [
+  {
+   "brand": "YesTeL",
+   "device": "T5_EEA",
+   "model": "T5_EEA"
+  }
+ ],
  "X7_EEA": [
   {
    "brand": "YesTeL",
@@ -170823,6 +170902,13 @@
    "brand": "Yezz",
    "device": "LIV1",
    "model": "LIV1"
+  }
+ ],
+ "LIV2_LTE": [
+  {
+   "brand": "Yezz",
+   "device": "LIV2_LTE",
+   "model": "LIV2_LTE"
   }
  ],
  "WS107_eea": [

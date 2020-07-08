@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-07-07
+Last sync is 2020-07-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -51,6 +51,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AG Mobile|AG Ultra2|AG_Ultra2|Ultra 2|
 |AG Mobile|AGM  H1|HSSDM450QC|AGM H1|
 |AG Mobile|AGM A10|SHARKL5|AGM A10|
+|AG Mobile|AGM A10|SHARKL5|Android|
 |AG Mobile|AGM A9|HSSDM450QC|AGM A9|
 |AG Mobile|AGM A9|HSSDM450QC|Android|
 |AG Mobile|AGM X3|T91EUE1|AGM X3|
@@ -2901,6 +2902,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CMCC|M811|m811|M811|
 |CMCC|M811|m811hk|M811|
 |CONKER|ST60|ST_60|ST 60|
+|COOKIE|YS-CK0001|YS-CK0001|YS-CK0001|
 |COPAN|Aplus|Aplus|Aplus|
 |CORN|C5|C5|C5|
 |CORN|C55|C55|C55|
@@ -4563,6 +4565,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dragontouch|Notepad_Go_801|Notepad_Go_801|Notepad_Go_801|
 |Dragontouch|Notepad_Go_801_EEA|Notepad_Go_801|Notepad_Go_801_EEA|
 |Dragontouch|Notepad_Go_803|Notepad_Go_803|Notepad_Go_803|
+|Dragontouch|S10M|S10M|S10M|
 |Dragontouch|V10|V10|V10|
 |Dragontouch|X10|X10A|X10|
 |Dragontouch|X10|tulip-d210|X10|
@@ -4589,6 +4592,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dunns|Dunns Slinger|DunnsSlinger|Dunns Slinger|
 |Dunns|ETAB_M9041G|ETAB_M9041G|ETAB_M9041G|
 |Dunns|Smarty II|Smarty_II|Smarty_II|
+|Durabrand|Central America|hanyang|Durabrand 4K Android TV|
+|Durabrand|Central America|nippori|Durabrand 2K Android TV|
 |Duubee|D601L|Gaia|D601L|
 |Duubee|W1|W1|W1|
 |Duubee|W2|W2|W2|
@@ -7495,6 +7500,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense F18|HS6739MT|Hisense F18|
 |Hisense|Hisense F19|SC9863A|HLTE223E|
 |Hisense|Hisense F19|SC9863A|HLTE223E.40|
+|Hisense|Hisense F19|SC9863A|Hisense E40 Lite|
 |Hisense|Hisense F19|SC9863A|Hisense F19|
 |Hisense|Hisense F24|HS6737MT|Hisense F24|
 |Hisense|Hisense F27|HS6739MT|Hisense F27|
@@ -10825,6 +10831,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kenwood|KWSA80K|XP8800|KWSA80K|
 |Kenxinda|6Cb|6Cb|6Cb|
 |Kenxinda|A1|A1|A1|
+|Kenxinda|A1s|A1s|A1s|
 |Kenxinda|A8|A8|A8M|
 |Kenxinda|A9|A9|A9|
 |Kenxinda|D58|D58|D58|
@@ -11718,6 +11725,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG K30|mcv3|LM-X410PM|
 |LGE|LG K30|mh5lm-8m|LGL322DL|
 |LGE|LG K30|mh5lm-8m|LM-X320|
+|LGE|LG K31|mdh5lm|LGL355DL|
 |LGE|LG K31|mdh5lm|LM-K300|
 |LGE|LG K4|e1q|LG-K120GT|
 |LGE|LG K4|e1q|LG-K121|
@@ -17454,6 +17462,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pixus|Pixus_Blast|Pixus_Blast|Pixus_Blast|
 |Pixus|Pixus_Joker|Pixus_Joker|Pixus_Joker|
 |Pixus|Pixus_Sprint|Sprint|Pixus_Sprint|
+|Pixus|Pixus_Touch_7_3G|Pixus_Touch_7_3G|Pixus_Touch_7_3G|
 |Plaisio|A2|Turbo-X_A2|Turbo-X_A2|
 |Plaisio|A4|A4|A4|
 |Plaisio|Aqua|Aqua|Aqua|
@@ -19837,6 +19846,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M Style|vastoicmcc|GT-I8258|
 |Samsung|Galaxy M01|m01q|SM-M015F|
 |Samsung|Galaxy M01|m01q|SM-M015G|
+|Samsung|Galaxy M01 Core|a01core|SM-M013F|
 |Samsung|Galaxy M01s|a10s|SM-M017F|
 |Samsung|Galaxy M10|m10lte|SM-M105F|
 |Samsung|Galaxy M10|m10lte|SM-M105G|
@@ -24023,6 +24033,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|TAB 7 DUAL CORE|T015|TAB 7 DUAL CORE|
 |TCT (Alcatel)|TAB 7 DUAL CORE|T017|TAB 7 DUAL CORE|
 |TCT (Alcatel)|TBD|Seoul_TF|A507DL|
+|TCT (Alcatel)|TCL 10 5G|Seattle_VZW|T790S|
 |TCT (Alcatel)|TCL 302U|Festa5_CU|TCL 302U|
 |TCT (Alcatel)|TCL 520|shine_lite|TCL 520|
 |TCT (Alcatel)|TCL 562|shine_plus|562|
@@ -24349,6 +24360,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|T30_EEA|T30|T30_EEA|
 |Teclast|T30_ROW|T30|T30_ROW|
 |Teclast|T30_RU|T30|T30_RU|
+|Teclast|T8|T8|T8|
 |Teclast|X_EEA|X_EEA|X_EEA|
 |Teclast|X_ROW|X_ROW|X_ROW|
 |Teclast|tPad8|tPad8|tPad8|
@@ -26653,6 +26665,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Yes|STING|dwi765yes|STING|
 |Yes|yes|SEI500Y|yes|
 |YesTeL|Note_30_pro|Note_30_pro|Note 30 pro|
+|YesTeL|T5_EEA|T5_EEA|T5_EEA|
 |YesTeL|X7_EEA|X7_EEA|X7_EEA|
 |Yezz|4E|4E|4E|
 |Yezz|5.5M|5_5M|5.5M|
@@ -26663,6 +26676,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Yezz|EPIC_T|EPIC_T|EPIC T|
 |Yezz|GO1|GO1|GO1|
 |Yezz|LIV1|LIV1|LIV1|
+|Yezz|LIV2_LTE|LIV2_LTE|LIV2_LTE|
 |Yezz|MAX1|MAX1|MAX1|
 |Yokis|WS107_eea|WS107|WS107|
 |Yota Devices|C9660|yotaphone|C9660|

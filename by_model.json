@@ -424,14 +424,19 @@
    "device": "SHARKL5"
   }
  ],
- "AGM A9": [
+ "Android": [
+  {
+   "brand": "AG Mobile",
+   "name": "AGM A10",
+   "device": "SHARKL5"
+  },
   {
    "brand": "AG Mobile",
    "name": "AGM A9",
    "device": "HSSDM450QC"
   }
  ],
- "Android": [
+ "AGM A9": [
   {
    "brand": "AG Mobile",
    "name": "AGM A9",
@@ -16822,6 +16827,11 @@
    "device": "T8"
   },
   {
+   "brand": "Teclast",
+   "name": "T8",
+   "device": "T8"
+  },
+  {
    "brand": "Veidoo",
    "name": "VEIDOO_T8",
    "device": "VEIDOO_T8"
@@ -21544,6 +21554,13 @@
    "brand": "CONKER",
    "name": "ST60",
    "device": "ST_60"
+  }
+ ],
+ "YS-CK0001": [
+  {
+   "brand": "COOKIE",
+   "name": "YS-CK0001",
+   "device": "YS-CK0001"
   }
  ],
  "Aplus": [
@@ -33258,6 +33275,13 @@
    "device": "Notepad_Go_803"
   }
  ],
+ "S10M": [
+  {
+   "brand": "Dragontouch",
+   "name": "S10M",
+   "device": "S10M"
+  }
+ ],
  "X80 Plus": [
   {
    "brand": "Dragontouch",
@@ -33397,6 +33421,20 @@
    "brand": "Dunns",
    "name": "Smarty II",
    "device": "Smarty_II"
+  }
+ ],
+ "Durabrand 4K Android TV": [
+  {
+   "brand": "Durabrand",
+   "name": "Central America",
+   "device": "hanyang"
+  }
+ ],
+ "Durabrand 2K Android TV": [
+  {
+   "brand": "Durabrand",
+   "name": "Central America",
+   "device": "nippori"
   }
  ],
  "D601L": [
@@ -53592,6 +53630,13 @@
   }
  ],
  "HLTE223E.40": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense F19",
+   "device": "SC9863A"
+  }
+ ],
+ "Hisense E40 Lite": [
   {
    "brand": "Hisense",
    "name": "Hisense F19",
@@ -75827,6 +75872,13 @@
    "device": "6Cb"
   }
  ],
+ "A1s": [
+  {
+   "brand": "Kenxinda",
+   "name": "A1s",
+   "device": "A1s"
+  }
+ ],
  "A8M": [
   {
    "brand": "Kenxinda",
@@ -82219,6 +82271,13 @@
    "brand": "LGE",
    "name": "LG K30",
    "device": "mh5lm-8m"
+  }
+ ],
+ "LGL355DL": [
+  {
+   "brand": "LGE",
+   "name": "LG K31",
+   "device": "mdh5lm"
   }
  ],
  "LM-K300": [
@@ -119559,6 +119618,13 @@
    "device": "Sprint"
   }
  ],
+ "Pixus_Touch_7_3G": [
+  {
+   "brand": "Pixus",
+   "name": "Pixus_Touch_7_3G",
+   "device": "Pixus_Touch_7_3G"
+  }
+ ],
  "Turbo-X_A2": [
   {
    "brand": "Plaisio",
@@ -135706,6 +135772,13 @@
    "brand": "Samsung",
    "name": "Galaxy M01",
    "device": "m01q"
+  }
+ ],
+ "SM-M013F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M01 Core",
+   "device": "a01core"
   }
  ],
  "SM-M017F": [
@@ -163890,6 +163963,13 @@
    "device": "Seoul_TF"
   }
  ],
+ "T790S": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "TCL 10 5G",
+   "device": "Seattle_VZW"
+  }
+ ],
  "TCL 302U": [
   {
    "brand": "TCT (Alcatel)",
@@ -180622,6 +180702,13 @@
    "device": "Note_30_pro"
   }
  ],
+ "T5_EEA": [
+  {
+   "brand": "YesTeL",
+   "name": "T5_EEA",
+   "device": "T5_EEA"
+  }
+ ],
  "X7_EEA": [
   {
    "brand": "YesTeL",
@@ -180690,6 +180777,13 @@
    "brand": "Yezz",
    "name": "LIV1",
    "device": "LIV1"
+  }
+ ],
+ "LIV2_LTE": [
+  {
+   "brand": "Yezz",
+   "name": "LIV2_LTE",
+   "device": "LIV2_LTE"
   }
  ],
  "WS107": [

@@ -261,6 +261,11 @@
    "model": "AGM A10"
   },
   {
+   "device": "SHARKL5",
+   "name": "AGM A10",
+   "model": "Android"
+  },
+  {
    "device": "HSSDM450QC",
    "name": "AGM A9",
    "model": "AGM A9"
@@ -14957,6 +14962,13 @@
    "model": "ST 60"
   }
  ],
+ "COOKIE": [
+  {
+   "device": "YS-CK0001",
+   "name": "YS-CK0001",
+   "model": "YS-CK0001"
+  }
+ ],
  "COPAN": [
   {
    "device": "Aplus",
@@ -23597,6 +23609,11 @@
    "model": "Notepad_Go_803"
   },
   {
+   "device": "S10M",
+   "name": "S10M",
+   "model": "S10M"
+  },
+  {
    "device": "V10",
    "name": "V10",
    "model": "V10"
@@ -23733,6 +23750,18 @@
    "device": "Smarty_II",
    "name": "Smarty II",
    "model": "Smarty_II"
+  }
+ ],
+ "Durabrand": [
+  {
+   "device": "hanyang",
+   "name": "Central America",
+   "model": "Durabrand 4K Android TV"
+  },
+  {
+   "device": "nippori",
+   "name": "Central America",
+   "model": "Durabrand 2K Android TV"
   }
  ],
  "Duubee": [
@@ -38747,6 +38776,11 @@
    "device": "SC9863A",
    "name": "Hisense F19",
    "model": "HLTE223E.40"
+  },
+  {
+   "device": "SC9863A",
+   "name": "Hisense F19",
+   "model": "Hisense E40 Lite"
   },
   {
    "device": "SC9863A",
@@ -55677,6 +55711,11 @@
    "model": "A1"
   },
   {
+   "device": "A1s",
+   "name": "A1s",
+   "model": "A1s"
+  },
+  {
    "device": "A8",
    "name": "A8",
    "model": "A8M"
@@ -60202,6 +60241,11 @@
    "device": "mh5lm-8m",
    "name": "LG K30",
    "model": "LM-X320"
+  },
+  {
+   "device": "mdh5lm",
+   "name": "LG K31",
+   "model": "LGL355DL"
   },
   {
    "device": "mdh5lm",
@@ -89572,6 +89616,11 @@
    "device": "Sprint",
    "name": "Pixus_Sprint",
    "model": "Pixus_Sprint"
+  },
+  {
+   "device": "Pixus_Touch_7_3G",
+   "name": "Pixus_Touch_7_3G",
+   "model": "Pixus_Touch_7_3G"
   }
  ],
  "Plaisio": [
@@ -101763,6 +101812,11 @@
    "device": "m01q",
    "name": "Galaxy M01",
    "model": "SM-M015G"
+  },
+  {
+   "device": "a01core",
+   "name": "Galaxy M01 Core",
+   "model": "SM-M013F"
   },
   {
    "device": "a10s",
@@ -122941,6 +122995,11 @@
    "model": "A507DL"
   },
   {
+   "device": "Seattle_VZW",
+   "name": "TCL 10 5G",
+   "model": "T790S"
+  },
+  {
    "device": "Festa5_CU",
    "name": "TCL 302U",
    "model": "TCL 302U"
@@ -124659,6 +124718,11 @@
    "device": "T30",
    "name": "T30_RU",
    "model": "T30_RU"
+  },
+  {
+   "device": "T8",
+   "name": "T8",
+   "model": "T8"
   },
   {
    "device": "X_EEA",
@@ -136649,6 +136713,11 @@
    "model": "Note 30 pro"
   },
   {
+   "device": "T5_EEA",
+   "name": "T5_EEA",
+   "model": "T5_EEA"
+  },
+  {
    "device": "X7_EEA",
    "name": "X7_EEA",
    "model": "X7_EEA"
@@ -136699,6 +136768,11 @@
    "device": "LIV1",
    "name": "LIV1",
    "model": "LIV1"
+  },
+  {
+   "device": "LIV2_LTE",
+   "name": "LIV2_LTE",
+   "model": "LIV2_LTE"
   },
   {
    "device": "MAX1",
