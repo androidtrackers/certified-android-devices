@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-07-08
+Last sync is 2020-07-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -463,6 +463,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advance|Sp5730|Sp5730|Sp5730|
 |Advance|TR3947|TR3947|TR3947|
 |Advance|TR4986|Tablet_adv_v1|ADVANCE|
+|Advance|Tablet_Advance|Tablet_adv_v1|ADVANCE|
 |Advance|Tr3946|Tr3946|Tr3946|
 |Advance|Tr4986|Tablet_adv_v1|ADVANCE|
 |Advance|Tr4986|Tr4986|Tr4986|
@@ -9636,9 +9637,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|Eternity G23|G25523K|G25523K|
 |Hyundai|Eternity G24|G25524K|G25524K|
 |Hyundai|Eternity G27|G24027K|G24027K|
+|Hyundai|Eternity H68|H25568K|Eternity_H68|
 |Hyundai|Eternity W42|W25042L|W25042L|
 |Hyundai|Eternity W44|W25544L|W25544L|
 |Hyundai|Eternity_G25|Eternity_G25|Eternity_G25|
+|Hyundai|Eternity_H66|H25566K|Eternity_H66|
 |Hyundai|Eternity_P7|HT4P7128LB|Eternity_P7|
 |Hyundai|Eternity_P7|HT4P764LB|Eternity_P7|
 |Hyundai|H-LED32ES5008|ikebukuro|AI PONT|
@@ -15407,6 +15410,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Movitel|M9102B|M9102B|M9102B|
 |Movitel|M9103|M9103|M9103|
 |Movitel|Movitel_M9104|Movitel_M9104|Movitel_M9104|
+|Moxee Technologies|MT-T800|MT-T800|MT-T800|
 |Moxee Technologies|X10|X10|X10|
 |Moxee Technologies|X100|X100|X100|
 |MozaTab|MTN_E1|MTN_E1|TU10MK1|
@@ -23998,6 +24002,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Pixo 7|PIXO7|I213|
 |TCT (Alcatel)|Pop4|POP455C|Pop4|
 |TCT (Alcatel)|REVVL 5G|Seattle_5G|T790W|
+|TCT (Alcatel)|REVVL 5G|Seattle_5G|T790Z|
 |TCT (Alcatel)|S4035_4G|Pop355|S4035_4G|
 |TCT (Alcatel)|SHINE LITE|shine_lite|5080D|
 |TCT (Alcatel)|SHINE LITE|shine_lite|5080X|
@@ -24225,6 +24230,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TG&Co.|TG-L900S|JGR|TG-L900S|
 |THEHAM|U751UHD IPS SMART HDR 2020C|sindorim|AI PONT|
 |THL|Knight 2|Knight_2|Knight 2|
+|THOMSON_KODAK|PATH_7XPRO|LEDTV32HD|PATH_7XPRO|
+|THOMSON_KODAK|PATH_UHDXANDROID|LEDTVUHD|PATH_UHDXANDROID|
 |THTF|"TSINGHUA TONGFANG CO.|LTD."|TR10CD1_3|
 |TIM|TIM BOX|uzw4010tim|TIM_BOX|
 |TIM|TIMvision|dwt765ti|skipper|
@@ -24910,6 +24917,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TuCEL|TC504B|TC504B|TC504B|
 |TuCEL|TL554B|TL554B|TL554B|
 |Tunisie Telecom|Star Trail by TT|startrail3_tt|StarTrail TT|
+|Turbo-X|Turbo_X8|Turbo_X8|Turbo_X8|
 |Turbokids|Monsterpad_3G|Monsterpad_3G|Monsterpad 3G|
 |Turbokids|Princess|Princess|Princess|
 |Turbokids|Princess 3G|Princess_3G|Princess 3G|
@@ -25914,6 +25922,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vsmart|Live|V620A|Live|
 |Vsmart|Star|V320A|Star|
 |Vsmart|Star 3|sugarcane|Star 3|
+|Vsmart|Star 4|willowpro|Star 4|
 |Vsmart|VINATV 4K|TR2001|VINATV 4K|
 |Vsmart|VINTV 2K|TR2002|VINTV 2K|
 |Vsun|MARS  Touch|MARS_TOUCH|MARS TOUCH|

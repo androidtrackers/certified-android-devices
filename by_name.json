@@ -9627,6 +9627,13 @@
    "model": "ADVANCE"
   }
  ],
+ "Tablet_Advance": [
+  {
+   "brand": "Advance",
+   "device": "Tablet_adv_v1",
+   "model": "ADVANCE"
+  }
+ ],
  "Tr3946": [
   {
    "brand": "Advance",
@@ -69886,6 +69893,13 @@
    "model": "G24027K"
   }
  ],
+ "Eternity H68": [
+  {
+   "brand": "Hyundai",
+   "device": "H25568K",
+   "model": "Eternity_H68"
+  }
+ ],
  "Eternity W42": [
   {
    "brand": "Hyundai",
@@ -69905,6 +69919,13 @@
    "brand": "Hyundai",
    "device": "Eternity_G25",
    "model": "Eternity_G25"
+  }
+ ],
+ "Eternity_H66": [
+  {
+   "brand": "Hyundai",
+   "device": "H25566K",
+   "model": "Eternity_H66"
   }
  ],
  "Eternity_P7": [
@@ -103985,6 +104006,13 @@
    "brand": "Movitel",
    "device": "Movitel_M9104",
    "model": "Movitel_M9104"
+  }
+ ],
+ "MT-T800": [
+  {
+   "brand": "Moxee Technologies",
+   "device": "MT-T800",
+   "model": "MT-T800"
   }
  ],
  "MTN_E1": [
@@ -154483,6 +154511,11 @@
    "brand": "TCT (Alcatel)",
    "device": "Seattle_5G",
    "model": "T790W"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Seattle_5G",
+   "model": "T790Z"
   }
  ],
  "S4035_4G": [
@@ -155869,6 +155902,20 @@
    "brand": "THL",
    "device": "Knight_2",
    "model": "Knight 2"
+  }
+ ],
+ "PATH_7XPRO": [
+  {
+   "brand": "THOMSON_KODAK",
+   "device": "LEDTV32HD",
+   "model": "PATH_7XPRO"
+  }
+ ],
+ "PATH_UHDXANDROID": [
+  {
+   "brand": "THOMSON_KODAK",
+   "device": "LEDTVUHD",
+   "model": "PATH_UHDXANDROID"
   }
  ],
  "\"TSINGHUA TONGFANG CO.": [
@@ -160035,6 +160082,13 @@
    "brand": "Tunisie Telecom",
    "device": "startrail3_tt",
    "model": "StarTrail TT"
+  }
+ ],
+ "Turbo_X8": [
+  {
+   "brand": "Turbo-X",
+   "device": "Turbo_X8",
+   "model": "Turbo_X8"
   }
  ],
  "Monsterpad_3G": [
@@ -166272,6 +166326,13 @@
    "brand": "Vsmart",
    "device": "sugarcane",
    "model": "Star 3"
+  }
+ ],
+ "Star 4": [
+  {
+   "brand": "Vsmart",
+   "device": "willowpro",
+   "model": "Star 4"
   }
  ],
  "VINATV 4K": [

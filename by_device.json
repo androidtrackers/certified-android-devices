@@ -3932,6 +3932,11 @@
   },
   {
    "brand": "Advance",
+   "name": "Tablet_Advance",
+   "model": "ADVANCE"
+  },
+  {
+   "brand": "Advance",
    "name": "Tr4986",
    "model": "ADVANCE"
   }
@@ -65799,6 +65804,13 @@
    "model": "G24027K"
   }
  ],
+ "H25568K": [
+  {
+   "brand": "Hyundai",
+   "name": "Eternity H68",
+   "model": "Eternity_H68"
+  }
+ ],
  "W25042L": [
   {
    "brand": "Hyundai",
@@ -65818,6 +65830,13 @@
    "brand": "Hyundai",
    "name": "Eternity_G25",
    "model": "Eternity_G25"
+  }
+ ],
+ "H25566K": [
+  {
+   "brand": "Hyundai",
+   "name": "Eternity_H66",
+   "model": "Eternity_H66"
   }
  ],
  "HT4P7128LB": [
@@ -102809,6 +102828,13 @@
    "brand": "Movitel",
    "name": "Movitel_M9104",
    "model": "Movitel_M9104"
+  }
+ ],
+ "MT-T800": [
+  {
+   "brand": "Moxee Technologies",
+   "name": "MT-T800",
+   "model": "MT-T800"
   }
  ],
  "MTN_E1": [
@@ -157186,6 +157212,11 @@
    "brand": "TCT (Alcatel)",
    "name": "REVVL 5G",
    "model": "T790W"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "REVVL 5G",
+   "model": "T790Z"
   }
  ],
  "PIXI4_55_3G": [
@@ -158183,6 +158214,20 @@
    "brand": "THL",
    "name": "Knight 2",
    "model": "Knight 2"
+  }
+ ],
+ "LEDTV32HD": [
+  {
+   "brand": "THOMSON_KODAK",
+   "name": "PATH_7XPRO",
+   "model": "PATH_7XPRO"
+  }
+ ],
+ "LEDTVUHD": [
+  {
+   "brand": "THOMSON_KODAK",
+   "name": "PATH_UHDXANDROID",
+   "model": "PATH_UHDXANDROID"
   }
  ],
  "LTD.\"": [
@@ -162526,6 +162571,13 @@
    "brand": "Tunisie Telecom",
    "name": "Star Trail by TT",
    "model": "StarTrail TT"
+  }
+ ],
+ "Turbo_X8": [
+  {
+   "brand": "Turbo-X",
+   "name": "Turbo_X8",
+   "model": "Turbo_X8"
   }
  ],
  "Monsterpad_3G": [
@@ -168767,6 +168819,13 @@
    "brand": "Vsmart",
    "name": "Star 3",
    "model": "Star 3"
+  }
+ ],
+ "willowpro": [
+  {
+   "brand": "Vsmart",
+   "name": "Star 4",
+   "model": "Star 4"
   }
  ],
  "TR2001": [

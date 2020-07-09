@@ -2385,6 +2385,11 @@
    "model": "ADVANCE"
   },
   {
+   "device": "Tablet_adv_v1",
+   "name": "Tablet_Advance",
+   "model": "ADVANCE"
+  },
+  {
    "device": "Tr3946",
    "name": "Tr3946",
    "model": "Tr3946"
@@ -49500,6 +49505,11 @@
    "model": "G24027K"
   },
   {
+   "device": "H25568K",
+   "name": "Eternity H68",
+   "model": "Eternity_H68"
+  },
+  {
    "device": "W25042L",
    "name": "Eternity W42",
    "model": "W25042L"
@@ -49513,6 +49523,11 @@
    "device": "Eternity_G25",
    "name": "Eternity_G25",
    "model": "Eternity_G25"
+  },
+  {
+   "device": "H25566K",
+   "name": "Eternity_H66",
+   "model": "Eternity_H66"
   },
   {
    "device": "HT4P7128LB",
@@ -79012,6 +79027,11 @@
   }
  ],
  "Moxee Technologies": [
+  {
+   "device": "MT-T800",
+   "name": "MT-T800",
+   "model": "MT-T800"
+  },
   {
    "device": "X10",
    "name": "X10",
@@ -122820,6 +122840,11 @@
    "model": "T790W"
   },
   {
+   "device": "Seattle_5G",
+   "name": "REVVL 5G",
+   "model": "T790Z"
+  },
+  {
    "device": "Pop355",
    "name": "S4035_4G",
    "model": "S4035_4G"
@@ -123969,6 +123994,18 @@
    "device": "Knight_2",
    "name": "Knight 2",
    "model": "Knight 2"
+  }
+ ],
+ "THOMSON_KODAK": [
+  {
+   "device": "LEDTV32HD",
+   "name": "PATH_7XPRO",
+   "model": "PATH_7XPRO"
+  },
+  {
+   "device": "LEDTVUHD",
+   "name": "PATH_UHDXANDROID",
+   "model": "PATH_UHDXANDROID"
   }
  ],
  "THTF": [
@@ -127592,6 +127629,13 @@
    "device": "startrail3_tt",
    "name": "Star Trail by TT",
    "model": "StarTrail TT"
+  }
+ ],
+ "Turbo-X": [
+  {
+   "device": "Turbo_X8",
+   "name": "Turbo_X8",
+   "model": "Turbo_X8"
   }
  ],
  "Turbokids": [
@@ -132808,6 +132852,11 @@
    "device": "sugarcane",
    "name": "Star 3",
    "model": "Star 3"
+  },
+  {
+   "device": "willowpro",
+   "name": "Star 4",
+   "model": "Star 4"
   },
   {
    "device": "TR2001",
