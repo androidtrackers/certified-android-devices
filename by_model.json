@@ -9112,6 +9112,13 @@
    "device": "ac55ses"
   }
  ],
+ "Archos T 80 W": [
+  {
+   "brand": "Archos",
+   "name": "Archos T 80 W",
+   "device": "act80w"
+  }
+ ],
  "Qilive 45": [
   {
    "brand": "Archos",
@@ -47793,6 +47800,11 @@
    "brand": "HTC",
    "name": "HTC 5G Hub",
    "device": "htc_rtx"
+  },
+  {
+   "brand": "HTC",
+   "name": "HTC 5G Hub",
+   "device": "htc_rtxcmcc"
   },
   {
    "brand": "HTC",

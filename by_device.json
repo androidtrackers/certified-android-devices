@@ -9712,6 +9712,13 @@
    "model": "Archos Sense 55 S"
   }
  ],
+ "act80w": [
+  {
+   "brand": "Archos",
+   "name": "Archos T 80 W",
+   "model": "Archos T 80 W"
+  }
+ ],
  "ac80cpl": [
   {
    "brand": "Archos",
@@ -48412,6 +48419,13 @@
    "name": "HTC 5G HUB",
    "model": "HTC 5G Hub"
   },
+  {
+   "brand": "HTC",
+   "name": "HTC 5G Hub",
+   "model": "HTC 5G Hub"
+  }
+ ],
+ "htc_rtxcmcc": [
   {
    "brand": "HTC",
    "name": "HTC 5G Hub",

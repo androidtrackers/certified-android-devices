@@ -14599,6 +14599,13 @@
    "model": "Archos Sense 55 S"
   }
  ],
+ "Archos T 80 W": [
+  {
+   "brand": "Archos",
+   "device": "act80w",
+   "model": "Archos T 80 W"
+  }
+ ],
  "Archos80cpl_loreal": [
   {
    "brand": "Archos",
@@ -53382,6 +53389,11 @@
   {
    "brand": "HTC",
    "device": "htc_rtx",
+   "model": "HTC 5G Hub"
+  },
+  {
+   "brand": "HTC",
+   "device": "htc_rtxcmcc",
    "model": "HTC 5G Hub"
   },
   {

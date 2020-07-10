@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-07-09
+Last sync is 2020-07-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1170,6 +1170,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Archos|Archos Sense 55 DC|ac55sedc|Archos Sense 55 DC|
 |Archos|Archos Sense 55 DC|ac55sedcv2|Archos Phone|
 |Archos|Archos Sense 55 S|ac55ses|Archos Sense 55 S|
+|Archos|Archos T 80 W|act80w|Archos T 80 W|
 |Archos|Archos80cpl_loreal|ac80cpl|Archos 80c Platinum|
 |Archos|Auchan QiLive 45|ql45|Qilive 45|
 |Archos|Auchan QiLive 50|ql50|Qilive 50|
@@ -6611,6 +6612,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HTC|HTC 10 evo|htc_acawhl|HTC 10 evo|
 |HTC|HTC 5G HUB|htc_rtx|HTC 5G Hub|
 |HTC|HTC 5G Hub|htc_rtx|HTC 5G Hub|
+|HTC|HTC 5G Hub|htc_rtxcmcc|HTC 5G Hub|
 |HTC|HTC 5G Hub|htc_rtxspcs|HTC 5G Hub|
 |HTC|HTC Desire 19s|htc_zddugl|2Q8L10000|
 |HTC|HTC Desire 19s|htc_zddugl|HTC Desire 19s|
