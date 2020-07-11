@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-07-10
+Last sync is 2020-07-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5890,6 +5890,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gionee|GIONEE F205L|GIONEE_SW17G18|GIONEE F205L|
 |Gionee|GIONEE GN5007|GIONEE_BJ17G16|GIONEE GN5007|
 |Gionee|GIONEE GN5007L|GIONEE_BJ17G16|GIONEE GN5007L|
+|Gionee|GIONEE H601|GIONEE_H601|GIONEE S12|
 |Gionee|GIONEE M7L|GIONEE_SW17G07|GIONEE M7L|
 |Gionee|GIONEE X1|GIONEE_SWW1631|GIONEE X1|
 |Gionee|GIONEE_M100|GIONEE_M100|M100|
