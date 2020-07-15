@@ -1332,6 +1332,13 @@
    "model": "FAST10"
   }
  ],
+ "FAST7": [
+  {
+   "brand": "Accent",
+   "name": "FAST7",
+   "model": "FAST7"
+  }
+ ],
  "FAST7_3G": [
   {
    "brand": "Accent",
@@ -3230,6 +3237,11 @@
    "brand": "Adart",
    "name": "S4090",
    "model": "S4090"
+  },
+  {
+   "brand": "Aligator",
+   "name": "S4090",
+   "model": "S4090"
   }
  ],
  "ALIGATOR_S5060": [
@@ -4687,6 +4699,11 @@
    "brand": "Motorola",
    "name": "Motorola Android 9.0 TV",
    "model": "FlipkartTV"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "Y Series",
+   "model": "Y Series"
   },
   {
    "brand": "Orient",
@@ -18966,6 +18983,13 @@
    "model": "Tab8"
   }
  ],
+ "Tab8_NEU": [
+  {
+   "brand": "Blackview",
+   "name": "Tab8_NEU",
+   "model": "Tab8"
+  }
+ ],
  "Atlantis_A10_G403": [
   {
    "brand": "Blaupunkt",
@@ -31939,6 +31963,13 @@
    "model": "Digicom Tribe"
   }
  ],
+ "V7_LTE": [
+  {
+   "brand": "Digicom",
+   "name": "V7_LTE",
+   "model": "V7_LTE"
+  }
+ ],
  "TA70CA1": [
   {
    "brand": "Digilite",
@@ -35116,6 +35147,11 @@
    "brand": "EPIKONE",
    "name": "K600",
    "model": "K600"
+  },
+  {
+   "brand": "EPIKONE",
+   "name": "K601",
+   "model": "K600"
   }
  ],
  "K601": [
@@ -37237,6 +37273,33 @@
    "model": "meizu X8"
   }
  ],
+ "X9": [
+  {
+   "brand": "Evercoss",
+   "name": "X9",
+   "model": "X9"
+  },
+  {
+   "brand": "FPT Trading",
+   "name": "FPT X9",
+   "model": "FPT_X9"
+  },
+  {
+   "brand": "GIRASOLE",
+   "name": "X9",
+   "model": "X9"
+  },
+  {
+   "brand": "Neffos",
+   "name": "Neffos X9",
+   "model": "Neffos_X9"
+  },
+  {
+   "brand": "USA111",
+   "name": "IRULU X9",
+   "model": "X9"
+  }
+ ],
  "Fine_7B": [
   {
    "brand": "Everex",
@@ -38231,28 +38294,6 @@
    "brand": "FPT Trading",
    "name": "FPT X3",
    "model": "FPT X3"
-  }
- ],
- "X9": [
-  {
-   "brand": "FPT Trading",
-   "name": "FPT X9",
-   "model": "FPT_X9"
-  },
-  {
-   "brand": "GIRASOLE",
-   "name": "X9",
-   "model": "X9"
-  },
-  {
-   "brand": "Neffos",
-   "name": "Neffos X9",
-   "model": "Neffos_X9"
-  },
-  {
-   "brand": "USA111",
-   "name": "IRULU X9",
-   "model": "X9"
   }
  ],
  "FPT_X15": [
@@ -40050,6 +40091,11 @@
    "model": "K2"
   },
   {
+   "brand": "Lesia",
+   "name": "K2",
+   "model": "K2"
+  },
+  {
    "brand": "iBRIT",
    "name": "K2",
    "model": "K2"
@@ -40312,6 +40358,13 @@
    "brand": "Foxtel",
    "name": "Foxtel Now box",
    "model": "Foxtel Now box"
+  }
+ ],
+ "Free_Liberty_Plus": [
+  {
+   "brand": "Free",
+   "name": "Free_Liberty_Plus",
+   "model": "Free_Liberty_Plus"
   }
  ],
  "Liberty": [
@@ -43631,6 +43684,13 @@
    "brand": "Gionee",
    "name": "M7 Power",
    "model": "M7 Power"
+  }
+ ],
+ "GIONEE_H601": [
+  {
+   "brand": "Gionee",
+   "name": "GIONEE H601",
+   "model": "GIONEE S12"
   }
  ],
  "GIONEE_SW17G07": [
@@ -50043,6 +50103,13 @@
    "brand": "HTC",
    "name": "Wildfire E1 Plus",
    "model": "Wildfire E1 Plus"
+  }
+ ],
+ "Wildfire_E2": [
+  {
+   "brand": "HTC",
+   "name": "Wildfire E2",
+   "model": "Wildfire E2"
   }
  ],
  "marvel": [
@@ -74695,6 +74762,13 @@
    "model": "SKY PLUS"
   }
  ],
+ "SKY55": [
+  {
+   "brand": "Konrow",
+   "name": "SKY55",
+   "model": "SKY55_EEA"
+  }
+ ],
  "Sky": [
   {
    "brand": "Konrow",
@@ -79955,6 +80029,11 @@
    "brand": "LGE",
    "name": "LG K31",
    "model": "LM-K300"
+  },
+  {
+   "brand": "LGE",
+   "name": "Q31",
+   "model": "LM-Q310N"
   }
  ],
  "e1q": [
@@ -83768,6 +83847,13 @@
    "brand": "LP (TN)",
    "name": "N-57+",
    "model": "N-57"
+  }
+ ],
+ "N-60": [
+  {
+   "brand": "LP (TN)",
+   "name": "N-60",
+   "model": "N-60"
   }
  ],
  "Vyper_PRO": [
@@ -91491,6 +91577,18 @@
    "model": "LOGIC X50"
   }
  ],
+ "X50A": [
+  {
+   "brand": "Logic Mobility",
+   "name": "X50A",
+   "model": "X50A"
+  },
+  {
+   "brand": "TM Cell",
+   "name": "X50A",
+   "model": "X50A"
+  }
+ ],
  "X55G": [
   {
    "brand": "Logic Mobility",
@@ -92228,6 +92326,13 @@
    "brand": "Logicom",
    "name": "Logikids 4",
    "model": "logikids4"
+  }
+ ],
+ "Logikids_6": [
+  {
+   "brand": "Logicom",
+   "name": "Logikids_6",
+   "model": "Logikids_6"
   }
  ],
  "Mbot51": [
@@ -110280,6 +110385,11 @@
   },
   {
    "brand": "Oppo",
+   "name": "Reno3 5G",
+   "model": "A001OP"
+  },
+  {
+   "brand": "Oppo",
    "name": "Reno3 Pro",
    "model": "CPH2009"
   }
@@ -111459,6 +111569,11 @@
   }
  ],
  "OP4BAFL1": [
+  {
+   "brand": "Oppo",
+   "name": "Reno3 A",
+   "model": "A002OP"
+  },
   {
    "brand": "Oppo",
    "name": "Reno3 A",
@@ -120296,6 +120411,13 @@
    "model": "L10"
   }
  ],
+ "L10_EEA": [
+  {
+   "brand": "Pritom",
+   "name": "L10_EEA",
+   "model": "L10_EEA"
+  }
+ ],
  "P7PRO": [
   {
    "brand": "Pritom",
@@ -120308,6 +120430,13 @@
    "brand": "Pritom",
    "name": "P7PRO_EEA",
    "model": "P7PRO_EEA"
+  }
+ ],
+ "T10M": [
+  {
+   "brand": "Pritom",
+   "name": "T10M",
+   "model": "T10M"
   }
  ],
  "T1700Q": [
@@ -121434,6 +121563,13 @@
    "brand": "QPS Digital Electronics",
    "name": "T1mini",
    "model": "T1mini"
+  }
+ ],
+ "V7_Pro": [
+  {
+   "brand": "QTab",
+   "name": "V7_Pro",
+   "model": "V7_Pro"
   }
  ],
  "Hermes": [
@@ -152520,6 +152656,11 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1V",
    "model": "5007U_TR"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1V",
+   "model": "HEYOU40"
   }
  ],
  "T1_L1": [
@@ -158623,13 +158764,6 @@
    "model": "X40L"
   }
  ],
- "X50A": [
-  {
-   "brand": "TM Cell",
-   "name": "X50A",
-   "model": "X50A"
-  }
- ],
  "MID908A-K": [
   {
    "brand": "TMAX",
@@ -161702,6 +161836,20 @@
    "model": "TIS001"
   }
  ],
+ "TIS001-T2": [
+  {
+   "brand": "Tigers",
+   "name": "TIS001",
+   "model": "TIS001-T2"
+  }
+ ],
+ "TIS001-S3": [
+  {
+   "brand": "Tigers",
+   "name": "TIS001-S3",
+   "model": "TIS001-S3"
+  }
+ ],
  "TIS001A": [
   {
    "brand": "Tigers",
@@ -163418,11 +163566,25 @@
    "model": "MIX_S"
   }
  ],
+ "Note_8": [
+  {
+   "brand": "Ulefone",
+   "name": "Note 8",
+   "model": "Note 8"
+  }
+ ],
  "Note_8P": [
   {
    "brand": "Ulefone",
    "name": "Note 8P",
    "model": "Note 8P"
+  }
+ ],
+ "Note_9P": [
+  {
+   "brand": "Ulefone",
+   "name": "Note 9P",
+   "model": "Note 9P"
   }
  ],
  "Note_7P": [
@@ -171725,6 +171887,13 @@
    "brand": "Winnovo",
    "name": "M86",
    "model": "M86"
+  }
+ ],
+ "P20-Tab": [
+  {
+   "brand": "Winnovo",
+   "name": "P20-Tab",
+   "model": "P20-Tab"
   }
  ],
  "T10LTE": [
@@ -185697,6 +185866,13 @@
    "model": "ZT216_1"
   }
  ],
+ "ZT216_2": [
+  {
+   "brand": "zyrex",
+   "name": "ZT216_2",
+   "model": "ZT216_2"
+  }
+ ],
  "ZT216_3": [
   {
    "brand": "zyrex",
@@ -185737,6 +185913,13 @@
    "brand": "zyrex",
    "name": "Zyrex  ZA833",
    "model": "ZA833"
+  }
+ ],
+ "ZT216_7": [
+  {
+   "brand": "zyrex",
+   "name": "zyrex",
+   "model": "ZT216_7"
   }
  ]
 }
