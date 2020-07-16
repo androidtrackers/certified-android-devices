@@ -4048,6 +4048,11 @@
    "model": "S32_Plus"
   },
   {
+   "device": "S33",
+   "name": "S33",
+   "model": "S33"
+  },
+  {
    "device": "HS6737MT",
    "name": "S41",
    "model": "S41"
@@ -19952,6 +19957,11 @@
    "model": "CM17"
   },
   {
+   "device": "CM17XA",
+   "name": "CM17XA",
+   "model": "CM17XA"
+  },
+  {
    "device": "CS22",
    "name": "CS22",
    "model": "CS22"
@@ -24794,6 +24804,11 @@
    "device": "G55_LITE",
    "name": "G55_LITE",
    "model": "G55 LITE"
+  },
+  {
+   "device": "G5",
+   "name": "LUNA G5",
+   "model": "LUNA G5"
   },
   {
    "device": "LUNA_G50",
@@ -35885,6 +35900,11 @@
    "model": "USCCADR6230US"
   },
   {
+   "device": "Wildfire_R70",
+   "name": "Wildfire_R70",
+   "model": "Wildfire R70"
+  },
+  {
    "device": "htc_ocla1_sprout",
    "name": "X2-HT",
    "model": "X2-HT"
@@ -36048,6 +36068,11 @@
    "device": "HAFURY_UMAX",
    "name": "HAFURY UMAX",
    "model": "HAFURY UMAX"
+  },
+  {
+   "device": "K30",
+   "name": "K30",
+   "model": "K30"
   },
   {
    "device": "M20",
@@ -52763,6 +52788,11 @@
    "model": "Amber5S_Pro"
   },
   {
+   "device": "Amber5s_Plus",
+   "name": "Amber5s Plus",
+   "model": "Amber5s Plus"
+  },
+  {
    "device": "Amber6",
    "name": "Amber6",
    "model": "Amber6"
@@ -67933,6 +67963,11 @@
    "model": "Lenovo L38021"
   },
   {
+   "device": "L38082",
+   "name": "L38082",
+   "model": "Lenovo L38082"
+  },
+  {
    "device": "X704F",
    "name": "LAVIE Tab E",
    "model": "PC-TE510HAW"
@@ -72784,6 +72819,13 @@
    "device": "meanIT_X6",
    "name": "meanIT_X6",
    "model": "meanIT_X6"
+  }
+ ],
+ "Meberry": [
+  {
+   "device": "M6",
+   "name": "M6",
+   "model": "M6"
   }
  ],
  "Mecer": [
@@ -89716,9 +89758,19 @@
    "model": "Philips X818"
   },
   {
+   "device": "S266",
+   "name": "Xenium S266",
+   "model": "Xenium S266"
+  },
+  {
    "device": "S386",
    "name": "Xenium S386",
    "model": "Philips S386"
+  },
+  {
+   "device": "S566",
+   "name": "Xenium S566",
+   "model": "Xenium S566"
   },
   {
    "device": "Philips_V377",
@@ -123396,7 +123448,7 @@
   },
   {
    "device": "Seattle_VZW",
-   "name": "TCL 10 5G",
+   "name": "TCL 10 5G UW",
    "model": "T790S"
   },
   {
@@ -123818,6 +123870,11 @@
    "device": "DIABLOXPLUS",
    "name": "TCL S960T",
    "model": "TCL S960T"
+  },
+  {
+   "device": "Dubai_VZW",
+   "name": "TCL SIGNA",
+   "model": "5004S"
   },
   {
    "device": "evoque_cn",
@@ -128332,6 +128389,11 @@
    "device": "Armor_7_Q",
    "name": "Armor 7",
    "model": "Armor 7"
+  },
+  {
+   "device": "Armor_8",
+   "name": "Armor 8",
+   "model": "Armor 8"
   },
   {
    "device": "Armor_9",
@@ -133854,6 +133916,11 @@
    "device": "WBW5616WA",
    "name": "Primo RM2 mini",
    "model": "Primo RM2 mini"
+  },
+  {
+   "device": "Primo_RM4",
+   "name": "Primo RM4",
+   "model": "Primo RM4"
   },
   {
    "device": "Primo_RX5",

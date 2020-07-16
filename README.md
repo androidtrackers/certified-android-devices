@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-07-15
+Last sync is 2020-07-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -782,6 +782,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Altice|S32|S32|S32|
 |Altice|S32_NFC|S32_NFC|S32_NFC|
 |Altice|S32_Plus|S32_Plus|S32_Plus|
+|Altice|S33|S33|S33|
 |Altice|S41|HS6737MT|S41|
 |Altice|S42|S42|S42|
 |Altice|S51|HS6737MT|S51|
@@ -3862,6 +3863,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Custom|P-Ranger|P-Ranger|P-Ranger_RU|
 |Cutepad|Tab_4_M7078|Tab_4_M7078|Tab_4_M7078|
 |Cyrus|CM17|CM17|CM17|
+|Cyrus|CM17XA|CM17XA|CM17XA|
 |Cyrus|CS22|CS22|CS22|
 |Cyrus|CS22XA|CS22XA|CS22XA|
 |Cyrus|CS22XA_EEA|CS22XA_EEA|CS22XA_EEA|
@@ -4786,6 +4788,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Elephone|W3|W3|W3|
 |Elevate|G50|G50|G50|
 |Elevate|G55_LITE|G55_LITE|G55 LITE|
+|Elevate|LUNA G5|G5|LUNA G5|
 |Elevate|LUNA G50|LUNA_G50|LUNA G50|
 |Elevate|LUNA G58|G58|LUNA G58|
 |Elevate|LUNA G60|G60|LUNA G60|
@@ -6933,6 +6936,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HTC|Wildfire S A515c|marvelc|HTC Wildfire S A515c|
 |HTC|Wildfire S A515c|marvelc|HTC-PG762|
 |HTC|Wildfire S A515c|marvelc|USCCADR6230US|
+|HTC|Wildfire_R70|Wildfire_R70|Wildfire R70|
 |HTC|X2-HT|htc_ocla1_sprout|X2-HT|
 |HTC|desire 400 dual sim|cp2dug|HTC Desire 400 dual sim|
 |HTC|desire 608t|cp3dtg|HTC 608t|
@@ -6964,6 +6968,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hafury|GT20|GT20|GT20|
 |Hafury|HAFURY MIX|HAFURY_MIX|HAFURY MIX|
 |Hafury|HAFURY UMAX|HAFURY_UMAX|HAFURY UMAX|
+|Hafury|K30|K30|K30|
 |Hafury|M20|M20|M20|
 |Hafury|NOTE 10|NOTE_10|NOTE 10|
 |Haier|A-TT00|A-TT00|A-TT00|
@@ -10265,6 +10270,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Inverse Net|LT101|LT101|LT101|
 |Ipro|Amber5S|Amber5S|Amber5S|
 |Ipro|Amber5S_Pro|Amber5S_Pro|Amber5S_Pro|
+|Ipro|Amber5s Plus|Amber5s_Plus|Amber5s Plus|
 |Ipro|Amber6|Amber6|Amber6|
 |Ipro|Amber7S|Amber7S|Amber7S|
 |Ipro|Benny|Benny|Benny|
@@ -13249,6 +13255,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|K920/VIBE Z2 Pro|kingdomt|Lenovo K920|
 |Lenovo|L38011|k5|Lenovo L38011|
 |Lenovo|L38021|k5_cmcc|Lenovo L38021|
+|Lenovo|L38082|L38082|Lenovo L38082|
 |Lenovo|LAVIE Tab E|X704F|PC-TE510HAW|
 |Lenovo|LAVIE Tab E 10FHD2|LAVIETabE10FHD2|LAVIE Tab E 10FHD2|
 |Lenovo|LAVIE Tab E 7SD1|LAVIETabE7SD1|LAVIE Tab E 7SD1|
@@ -14184,6 +14191,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MeanIT|meanIT_K7|meanIT_K7|meanIT_K7|
 |MeanIT|meanIT_X1|meanIT_X1|meanIT_X1|
 |MeanIT|meanIT_X6|meanIT_X6|meanIT_X6|
+|Meberry|M6|M6|M6|
 |Mecer|101P51C|101P51C|101P51C|
 |Mecer|101P51D|101P51D|101P51D|
 |Mecer|800P31C|800P31C|800P31C|
@@ -17482,7 +17490,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|X818|X818|Philips X818|
 |Philips|X818|X818_EE|Philips X818|
 |Philips|X818|X818_RU|Philips X818|
+|Philips|Xenium S266|S266|Xenium S266|
 |Philips|Xenium S386|S386|Philips S386|
+|Philips|Xenium S566|S566|Xenium S566|
 |Philips|Xenium V377|Philips_V377|Philips V377|
 |Phoenix|PHONETABPRO|PHONETABPRO|PHONETABPRO|
 |Phone Max|Rocky 2|Rocky_2|Rocky 2|
@@ -24111,7 +24121,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|TAB 7 DUAL CORE|T015|TAB 7 DUAL CORE|
 |TCT (Alcatel)|TAB 7 DUAL CORE|T017|TAB 7 DUAL CORE|
 |TCT (Alcatel)|TBD|Seoul_TF|A507DL|
-|TCT (Alcatel)|TCL 10 5G|Seattle_VZW|T790S|
+|TCT (Alcatel)|TCL 10 5G UW|Seattle_VZW|T790S|
 |TCT (Alcatel)|TCL 302U|Festa5_CU|TCL 302U|
 |TCT (Alcatel)|TCL 520|shine_lite|TCL 520|
 |TCT (Alcatel)|TCL 562|shine_plus|562|
@@ -24196,6 +24206,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|TCL S950T|DIABLOX|TCL S950T|
 |TCT (Alcatel)|TCL S960|DIABLOXPLUS|TCL S960|
 |TCT (Alcatel)|TCL S960T|DIABLOXPLUS|TCL S960T|
+|TCT (Alcatel)|TCL SIGNA|Dubai_VZW|5004S|
 |TCT (Alcatel)|TCL T500L|evoque_cn|TCL T500L|
 |TCT (Alcatel)|TCL XL2|EDISON_TF|A503DL|
 |TCT (Alcatel)|TCL Y900|Scribe5HD_GSM|TCL Y900|
@@ -25050,6 +25061,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor 2S|Armor_2S|Armor_2S|
 |Ulefone|Armor 6|Armor_6|Armor_6|
 |Ulefone|Armor 7|Armor_7_Q|Armor 7|
+|Ulefone|Armor 8|Armor_8|Armor 8|
 |Ulefone|Armor 9|Armor_9|Armor 9|
 |Ulefone|Armor X|Armor_X|Armor_X|
 |Ulefone|Armor X2|Armor_X2|Armor_X2|
@@ -26116,6 +26128,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|Primo R6 Max|Primo_R6_Max|Primo R6 Max|
 |Walton|Primo RH3|Primo_RH3|Primo RH3|
 |Walton|Primo RM2 mini|WBW5616WA|Primo RM2 mini|
+|Walton|Primo RM4|Primo_RM4|Primo RM4|
 |Walton|Primo RX5|Primo_RX5|Primo RX5|
 |Walton|Primo RX6|Primo_RX6|Primo RX6|
 |Walton|Primo RX7|Primo_RX7|Primo RX7|

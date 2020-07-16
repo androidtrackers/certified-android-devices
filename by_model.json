@@ -6362,6 +6362,13 @@
    "device": "S32_Plus"
   }
  ],
+ "S33": [
+  {
+   "brand": "Altice",
+   "name": "S33",
+   "device": "S33"
+  }
+ ],
  "S41": [
   {
    "brand": "Altice",
@@ -19413,6 +19420,11 @@
    "device": "M6"
   },
   {
+   "brand": "Meberry",
+   "name": "M6",
+   "device": "M6"
+  },
+  {
    "brand": "Meizu",
    "name": "M6",
    "device": "meizu_M6"
@@ -28371,6 +28383,13 @@
    "device": "CM17"
   }
  ],
+ "CM17XA": [
+  {
+   "brand": "Cyrus",
+   "name": "CM17XA",
+   "device": "CM17XA"
+  }
+ ],
  "CS22": [
   {
    "brand": "Cyrus",
@@ -34830,6 +34849,13 @@
    "brand": "Elevate",
    "name": "G55_LITE",
    "device": "G55_LITE"
+  }
+ ],
+ "LUNA G5": [
+  {
+   "brand": "Elevate",
+   "name": "LUNA G5",
+   "device": "G5"
   }
  ],
  "LUNA G50": [
@@ -49840,6 +49866,13 @@
    "device": "marvelc"
   }
  ],
+ "Wildfire R70": [
+  {
+   "brand": "HTC",
+   "name": "Wildfire_R70",
+   "device": "Wildfire_R70"
+  }
+ ],
  "X2-HT": [
   {
    "brand": "HTC",
@@ -50025,6 +50058,13 @@
    "brand": "Hafury",
    "name": "HAFURY UMAX",
    "device": "HAFURY_UMAX"
+  }
+ ],
+ "K30": [
+  {
+   "brand": "Hafury",
+   "name": "K30",
+   "device": "K30"
   }
  ],
  "M20": [
@@ -72012,6 +72052,13 @@
    "device": "Amber5S_Pro"
   }
  ],
+ "Amber5s Plus": [
+  {
+   "brand": "Ipro",
+   "name": "Amber5s Plus",
+   "device": "Amber5s_Plus"
+  }
+ ],
  "Amber6": [
   {
    "brand": "Ipro",
@@ -91971,6 +92018,18 @@
    "device": "k5_cmcc"
   }
  ],
+ "Lenovo L38082": [
+  {
+   "brand": "Lenovo",
+   "name": "L38082",
+   "device": "L38082"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo K11",
+   "device": "L38082"
+  }
+ ],
  "PC-TE510HAW": [
   {
    "brand": "Lenovo",
@@ -92067,13 +92126,6 @@
    "brand": "Lenovo",
    "name": "Lenovo A6 Note",
    "device": "Lenovo_A6_Note"
-  }
- ],
- "Lenovo L38082": [
-  {
-   "brand": "Lenovo",
-   "name": "Lenovo K11",
-   "device": "L38082"
   }
  ],
  "Lenovo L38083": [
@@ -119785,11 +119837,25 @@
    "device": "X588_RU"
   }
  ],
+ "Xenium S266": [
+  {
+   "brand": "Philips",
+   "name": "Xenium S266",
+   "device": "S266"
+  }
+ ],
  "Philips S386": [
   {
    "brand": "Philips",
    "name": "Xenium S386",
    "device": "S386"
+  }
+ ],
+ "Xenium S566": [
+  {
+   "brand": "Philips",
+   "name": "Xenium S566",
+   "device": "S566"
   }
  ],
  "PHONETABPRO": [
@@ -164491,7 +164557,7 @@
  "T790S": [
   {
    "brand": "TCT (Alcatel)",
-   "name": "TCL 10 5G",
+   "name": "TCL 10 5G UW",
    "device": "Seattle_VZW"
   }
  ],
@@ -165018,6 +165084,13 @@
    "brand": "TCT (Alcatel)",
    "name": "TCL S960T",
    "device": "DIABLOXPLUS"
+  }
+ ],
+ "5004S": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "TCL SIGNA",
+   "device": "Dubai_VZW"
   }
  ],
  "TCL T500L": [
@@ -170564,6 +170637,13 @@
    "brand": "Ulefone",
    "name": "Armor 7",
    "device": "Armor_7_Q"
+  }
+ ],
+ "Armor 8": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor 8",
+   "device": "Armor_8"
   }
  ],
  "Armor 9": [
@@ -177397,6 +177477,13 @@
    "brand": "Walton",
    "name": "Primo RM2 mini",
    "device": "WBW5616WA"
+  }
+ ],
+ "Primo RM4": [
+  {
+   "brand": "Walton",
+   "name": "Primo RM4",
+   "device": "Primo_RM4"
   }
  ],
  "Primo RX5": [
