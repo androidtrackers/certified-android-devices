@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-07-16
+Last sync is 2020-07-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3788,6 +3788,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Covia|g06+|g06|g06|
 |Crema|CREMA0810T|crema0810t|CREMA0810T|
 |Cricket|U304AC|U304AC|U304AC|
+|Cricket|U325AC|U325AC|U325AC|
 |Cricket|U705AC|U705AC|U705AC|
 |Cristor|Glory_Z1|Glory_Z1|Glory Z1|
 |Cristor|Trendy_1|Trendy_1|Trendy 1|
@@ -3864,6 +3865,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cutepad|Tab_4_M7078|Tab_4_M7078|Tab_4_M7078|
 |Cyrus|CM17|CM17|CM17|
 |Cyrus|CM17XA|CM17XA|CM17XA|
+|Cyrus|CM17XA_EEA|CM17XA|CM17XA_EEA|
 |Cyrus|CS22|CS22|CS22|
 |Cyrus|CS22XA|CS22XA|CS22XA|
 |Cyrus|CS22XA_EEA|CS22XA_EEA|CS22XA_EEA|
@@ -9652,6 +9654,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|A25563L|A25563L|A25563L|
 |Hyundai|A26062L|A26062L|A26062L|
 |Hyundai|A26062k|A26062K|A26062K|
+|Hyundai|Android TV|R1|ATV R1|
+|Hyundai|Android TV|R2|ATV R2|
 |Hyundai|Blade_C5|Blade_C5|Blade_C5|
 |Hyundai|Blade_C6|Blade_C6|Blade_C6|
 |Hyundai|Blade_C7|Blade_C7|Blade_C7|
@@ -11455,6 +11459,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|K51|mdh30xlm|LM-K500|
 |LGE|K51S|mdh35lm|LM-K510|
 |LGE|K61|mdh40lm|LM-Q630|
+|LGE|K71|mdh50lm|LM-Q730|
 |LGE|L Bello|luv80ds|LG-D335|
 |LGE|L Bello|luv80ds|LG-D335E|
 |LGE|L Bello|luv80ds|LG-D337|
@@ -11730,6 +11735,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG Gx|omega|LG-F310L|
 |LGE|LG Gx|omegar|LG-F310LR|
 |LGE|LG Harmony|lv517|LG-M257|
+|LGE|LG Harmony 4|mdh10xlm|LM-K400|
 |LGE|LG Joy|y30|LG-H220|
 |LGE|LG Joy|y30dsf|LG-H222|
 |LGE|LG Joy|y30f|LG-H221|
@@ -12670,6 +12676,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Laser|MID_1089IPS|MID_1089IPS|MID_1089IPS|
 |Laser|MID_1090IPSV9|MID_1090IPSV9|MID_1090IPSV9|
 |Laser|MID_785|MID_785|MID_785|
+|Laser|MID_785A100|MID-785A100|MID_785A100|
 |Laser|MID_787V9|MID_787V9|MID_787V9|
 |Laser|MID_789|MID_789|MID_789|
 |Laser|MID_789IPS|MID_789IPS|MID_789IPS|
@@ -18444,6 +18451,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|DAA730R / RCA DAA738R|MD7081|DAA730R|
 |RCA|DAA730R / RCA DAA738R|MD7081|DAA738R|
 |RCA|DRP2091Q|DRP2091Q|DRP2091Q|
+|RCA|DRP29101QD|DRP29101QD|DRP29101QD|
+|RCA|DRP29101QT|DRP29101QT|DRP29101QT|
 |RCA|Gemini 10 pro|RCT6A03W13FU|RCT6A03W13FU|
 |RCA|Juno 10|RCT6A03W12EU|RCT6A03W12EU|
 |RCA|Mercury 7|CT9973W43M|CT9973W43M|
@@ -22055,6 +22064,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smartab|ST8200|ST8200|ST8200|
 |Smartab|STJR700|STJR700|STJR700|
 |Smartab|STJR76|STJR76|STJR76|
+|Smartbook|S204G|S204G|S204G|
 |Smartec|Atractivo|Atractivo|Atractivo|
 |Smartec|MiCA|MiCA|MiCA|
 |Smartec|N4|N4|N4|
@@ -26147,6 +26157,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|Primo S6 Dual|Primo_S6_Dual|Primo S6 Dual|
 |Walton|RX7 Mini|RX7_Mini|RX7 Mini|
 |Walton|Walton Primo X5|Primo_X5|Walton Primo X5|
+|Wansa|WUD55JOA63S|samseong|AI PONT|
 |Warner Bros|Avengers|Avengers|Avengers|
 |Warner Bros|DC_Comics_G9|DC_Comics_G9|DC_Comics_G9|
 |Wave 8|WV8O|WV8O|WV8O|

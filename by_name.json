@@ -8447,6 +8447,16 @@
    "model": "ATV R2"
   },
   {
+   "brand": "Hyundai",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Hyundai",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
    "brand": "Intex",
    "device": "R1",
    "model": "ATV R1"
@@ -33809,6 +33819,13 @@
    "model": "U304AC"
   }
  ],
+ "U325AC": [
+  {
+   "brand": "Cricket",
+   "device": "U325AC",
+   "model": "U325AC"
+  }
+ ],
  "U705AC": [
   {
    "brand": "Cricket",
@@ -34397,6 +34414,13 @@
    "brand": "Cyrus",
    "device": "CM17XA",
    "model": "CM17XA"
+  }
+ ],
+ "CM17XA_EEA": [
+  {
+   "brand": "Cyrus",
+   "device": "CM17XA",
+   "model": "CM17XA_EEA"
   }
  ],
  "CS22": [
@@ -80924,6 +80948,13 @@
    "model": "LM-Q630"
   }
  ],
+ "K71": [
+  {
+   "brand": "LGE",
+   "device": "mdh50lm",
+   "model": "LM-Q730"
+  }
+ ],
  "L Bello": [
   {
    "brand": "LGE",
@@ -82461,6 +82492,13 @@
    "brand": "LGE",
    "device": "lv517",
    "model": "LG-M257"
+  }
+ ],
+ "LG Harmony 4": [
+  {
+   "brand": "LGE",
+   "device": "mdh10xlm",
+   "model": "LM-K400"
   }
  ],
  "LG Joy": [
@@ -87913,6 +87951,13 @@
    "brand": "Laser",
    "device": "MID_785",
    "model": "MID_785"
+  }
+ ],
+ "MID_785A100": [
+  {
+   "brand": "Laser",
+   "device": "MID-785A100",
+   "model": "MID_785A100"
   }
  ],
  "MID_787V9": [
@@ -123109,6 +123154,20 @@
    "model": "DRP2091Q"
   }
  ],
+ "DRP29101QD": [
+  {
+   "brand": "RCA",
+   "device": "DRP29101QD",
+   "model": "DRP29101QD"
+  }
+ ],
+ "DRP29101QT": [
+  {
+   "brand": "RCA",
+   "device": "DRP29101QT",
+   "model": "DRP29101QT"
+  }
+ ],
  "Gemini 10 pro": [
   {
    "brand": "RCA",
@@ -143837,6 +143896,13 @@
    "brand": "Smartab",
    "device": "STJR76",
    "model": "STJR76"
+  }
+ ],
+ "S204G": [
+  {
+   "brand": "Smartbook",
+   "device": "S204G",
+   "model": "S204G"
   }
  ],
  "Atractivo": [
@@ -167867,6 +167933,13 @@
    "brand": "Walton",
    "device": "Primo_X5",
    "model": "Walton Primo X5"
+  }
+ ],
+ "WUD55JOA63S": [
+  {
+   "brand": "Wansa",
+   "device": "samseong",
+   "model": "AI PONT"
   }
  ],
  "Avengers": [

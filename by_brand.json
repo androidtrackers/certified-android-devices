@@ -19564,6 +19564,11 @@
    "model": "U304AC"
   },
   {
+   "device": "U325AC",
+   "name": "U325AC",
+   "model": "U325AC"
+  },
+  {
    "device": "U705AC",
    "name": "U705AC",
    "model": "U705AC"
@@ -19960,6 +19965,11 @@
    "device": "CM17XA",
    "name": "CM17XA",
    "model": "CM17XA"
+  },
+  {
+   "device": "CM17XA",
+   "name": "CM17XA_EEA",
+   "model": "CM17XA_EEA"
   },
   {
    "device": "CS22",
@@ -49584,6 +49594,16 @@
    "model": "A26062K"
   },
   {
+   "device": "R1",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
    "device": "Blade_C5",
    "name": "Blade_C5",
    "model": "Blade_C5"
@@ -58899,6 +58919,11 @@
    "model": "LM-Q630"
   },
   {
+   "device": "mdh50lm",
+   "name": "K71",
+   "model": "LM-Q730"
+  },
+  {
    "device": "luv80ds",
    "name": "L Bello",
    "model": "LG-D335"
@@ -60272,6 +60297,11 @@
    "device": "lv517",
    "name": "LG Harmony",
    "model": "LG-M257"
+  },
+  {
+   "device": "mdh10xlm",
+   "name": "LG Harmony 4",
+   "model": "LM-K400"
   },
   {
    "device": "y30",
@@ -65014,6 +65044,11 @@
    "device": "MID_785",
    "name": "MID_785",
    "model": "MID_785"
+  },
+  {
+   "device": "MID-785A100",
+   "name": "MID_785A100",
+   "model": "MID_785A100"
   },
   {
    "device": "MID_787V9",
@@ -94652,6 +94687,16 @@
    "model": "DRP2091Q"
   },
   {
+   "device": "DRP29101QD",
+   "name": "DRP29101QD",
+   "model": "DRP29101QD"
+  },
+  {
+   "device": "DRP29101QT",
+   "name": "DRP29101QT",
+   "model": "DRP29101QT"
+  },
+  {
    "device": "RCT6A03W13FU",
    "name": "Gemini 10 pro",
    "model": "RCT6A03W13FU"
@@ -112983,6 +113028,13 @@
    "device": "STJR76",
    "name": "STJR76",
    "model": "STJR76"
+  }
+ ],
+ "Smartbook": [
+  {
+   "device": "S204G",
+   "name": "S204G",
+   "model": "S204G"
   }
  ],
  "Smartec": [
@@ -134011,6 +134063,13 @@
    "device": "Primo_X5",
    "name": "Walton Primo X5",
    "model": "Walton Primo X5"
+  }
+ ],
+ "Wansa": [
+  {
+   "device": "samseong",
+   "name": "WUD55JOA63S",
+   "model": "AI PONT"
   }
  ],
  "Warner Bros": [

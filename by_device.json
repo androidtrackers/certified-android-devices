@@ -3049,6 +3049,11 @@
    "model": "ATV R1"
   },
   {
+   "brand": "Hyundai",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
    "brand": "Intex",
    "name": "Android TV",
    "model": "ATV R1"
@@ -3127,6 +3132,11 @@
   },
   {
    "brand": "Erito",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Hyundai",
    "name": "Android TV",
    "model": "ATV R2"
   },
@@ -4490,6 +4500,11 @@
   {
    "brand": "Vu Televisions",
    "name": "50CA",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Wansa",
+   "name": "WUD55JOA63S",
    "model": "AI PONT"
   }
  ],
@@ -28232,6 +28247,13 @@
    "model": "U304AC"
   }
  ],
+ "U325AC": [
+  {
+   "brand": "Cricket",
+   "name": "U325AC",
+   "model": "U325AC"
+  }
+ ],
  "U705AC": [
   {
    "brand": "Cricket",
@@ -29186,6 +29208,11 @@
    "brand": "Cyrus",
    "name": "CM17XA",
    "model": "CM17XA"
+  },
+  {
+   "brand": "Cyrus",
+   "name": "CM17XA_EEA",
+   "model": "CM17XA_EEA"
   }
  ],
  "CS22": [
@@ -78196,6 +78223,18 @@
    "model": "LM-Q630N"
   }
  ],
+ "mdh50lm": [
+  {
+   "brand": "LGE",
+   "name": "K71",
+   "model": "LM-Q730"
+  },
+  {
+   "brand": "LGE",
+   "name": "Stylo 6",
+   "model": "LM-Q730"
+  }
+ ],
  "luv80ds": [
   {
    "brand": "LGE",
@@ -79769,6 +79808,13 @@
    "brand": "LGE",
    "name": "LG Gx",
    "model": "LG-F310LR"
+  }
+ ],
+ "mdh10xlm": [
+  {
+   "brand": "LGE",
+   "name": "LG Harmony 4",
+   "model": "LM-K400"
   }
  ],
  "y30": [
@@ -83305,13 +83351,6 @@
    "model": "VS835"
   }
  ],
- "mdh50lm": [
-  {
-   "brand": "LGE",
-   "name": "Stylo 6",
-   "model": "LM-Q730"
-  }
- ],
  "Hi3751V811": [
   {
    "brand": "LGE",
@@ -84806,6 +84845,13 @@
    "brand": "Laser",
    "name": "MID_785",
    "model": "MID_785"
+  }
+ ],
+ "MID-785A100": [
+  {
+   "brand": "Laser",
+   "name": "MID_785A100",
+   "model": "MID_785A100"
   }
  ],
  "MID_787V9": [
@@ -122467,6 +122513,20 @@
    "model": "DRP2091Q"
   }
  ],
+ "DRP29101QD": [
+  {
+   "brand": "RCA",
+   "name": "DRP29101QD",
+   "model": "DRP29101QD"
+  }
+ ],
+ "DRP29101QT": [
+  {
+   "brand": "RCA",
+   "name": "DRP29101QT",
+   "model": "DRP29101QT"
+  }
+ ],
  "RCT6A03W13FU": [
   {
    "brand": "RCA",
@@ -145714,6 +145774,13 @@
    "brand": "Smartab",
    "name": "STJR700",
    "model": "STJR700"
+  }
+ ],
+ "S204G": [
+  {
+   "brand": "Smartbook",
+   "name": "S204G",
+   "model": "S204G"
   }
  ],
  "Atractivo": [

@@ -2780,6 +2780,11 @@
    "device": "R1"
   },
   {
+   "brand": "Hyundai",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
    "brand": "Intex",
    "name": "Android TV",
    "device": "R1"
@@ -2853,6 +2858,11 @@
   },
   {
    "brand": "Erito",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Hyundai",
    "name": "Android TV",
    "device": "R2"
   },
@@ -4305,6 +4315,11 @@
   {
    "brand": "Vu Televisions",
    "name": "50CA",
+   "device": "samseong"
+  },
+  {
+   "brand": "Wansa",
+   "name": "WUD55JOA63S",
    "device": "samseong"
   },
   {
@@ -27806,6 +27821,13 @@
    "device": "U304AC"
   }
  ],
+ "U325AC": [
+  {
+   "brand": "Cricket",
+   "name": "U325AC",
+   "device": "U325AC"
+  }
+ ],
  "U705AC": [
   {
    "brand": "Cricket",
@@ -28387,6 +28409,13 @@
   {
    "brand": "Cyrus",
    "name": "CM17XA",
+   "device": "CM17XA"
+  }
+ ],
+ "CM17XA_EEA": [
+  {
+   "brand": "Cyrus",
+   "name": "CM17XA_EEA",
    "device": "CM17XA"
   }
  ],
@@ -80374,6 +80403,18 @@
    "device": "mdh40lm"
   }
  ],
+ "LM-Q730": [
+  {
+   "brand": "LGE",
+   "name": "K71",
+   "device": "mdh50lm"
+  },
+  {
+   "brand": "LGE",
+   "name": "Stylo 6",
+   "device": "mdh50lm"
+  }
+ ],
  "LG-D335": [
   {
    "brand": "LGE",
@@ -82303,6 +82344,18 @@
    "device": "lv517"
   }
  ],
+ "LM-K400": [
+  {
+   "brand": "LGE",
+   "name": "LG Harmony 4",
+   "device": "mdh10xlm"
+  },
+  {
+   "brand": "LGE",
+   "name": "LG L455DL",
+   "device": "mdh10lm"
+  }
+ ],
  "LG-H220": [
   {
    "brand": "LGE",
@@ -82892,13 +82945,6 @@
   }
  ],
  "LGL455DL": [
-  {
-   "brand": "LGE",
-   "name": "LG L455DL",
-   "device": "mdh10lm"
-  }
- ],
- "LM-K400": [
   {
    "brand": "LGE",
    "name": "LG L455DL",
@@ -86418,13 +86464,6 @@
    "device": "mph1"
   }
  ],
- "LM-Q730": [
-  {
-   "brand": "LGE",
-   "name": "Stylo 6",
-   "device": "mdh50lm"
-  }
- ],
  "GT540": [
   {
    "brand": "LGE",
@@ -88111,6 +88150,13 @@
    "brand": "Laser",
    "name": "MID_785",
    "device": "MID_785"
+  }
+ ],
+ "MID_785A100": [
+  {
+   "brand": "Laser",
+   "name": "MID_785A100",
+   "device": "MID-785A100"
   }
  ],
  "MID_787V9": [
@@ -126161,6 +126207,20 @@
    "device": "DRP2091Q"
   }
  ],
+ "DRP29101QD": [
+  {
+   "brand": "RCA",
+   "name": "DRP29101QD",
+   "device": "DRP29101QD"
+  }
+ ],
+ "DRP29101QT": [
+  {
+   "brand": "RCA",
+   "name": "DRP29101QT",
+   "device": "DRP29101QT"
+  }
+ ],
  "RCT6A03W13FU": [
   {
    "brand": "RCA",
@@ -150682,6 +150742,13 @@
    "brand": "Smartab",
    "name": "STJR76",
    "device": "STJR76"
+  }
+ ],
+ "S204G": [
+  {
+   "brand": "Smartbook",
+   "name": "S204G",
+   "device": "S204G"
   }
  ],
  "Atractivo": [
