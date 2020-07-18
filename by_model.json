@@ -103368,6 +103368,13 @@
    "device": "MH-CHANNELS"
   }
  ],
+ "PDBM11ADL": [
+  {
+   "brand": "Mola TV",
+   "name": "PDBM11ADL",
+   "device": "DV8235_P"
+  }
+ ],
  "M10PRO": [
   {
    "brand": "Molvu",

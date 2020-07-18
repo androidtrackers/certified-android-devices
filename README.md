@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-07-17
+Last sync is 2020-07-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14958,6 +14958,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Modecom|Horizon Lite Plus|HORIZON_LITE_PLUS|HORIZON LITE PLUS|
 |Modecom|Xino Z46 X4+|xino_z46|Xino Z46 X4+|
 |Mohu|MH-CHANNELS|MH-CHANNELS|MH-CHANNELS|
+|Mola TV|PDBM11ADL|DV8235_P|PDBM11ADL|
 |Molvu|M10PRO|M10PRO|M10PRO|
 |Molvu|V7S|V7S|V7S|
 |Mondial|TB-MONDIAL|TB_MONDIAL|TB_MONDIAL|
