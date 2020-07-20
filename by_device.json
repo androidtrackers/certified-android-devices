@@ -49,6 +49,18 @@
    "model": "DIW387 1U1"
   }
  ],
+ "X306X": [
+  {
+   "brand": "1&1",
+   "name": "Lenovo Tab M10 HD(2nd Gen)",
+   "model": "Lenovo TB-X306X"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M10 HD(2nd Gen)",
+   "model": "Lenovo TB-X306X"
+  }
+ ],
  "G2": [
   {
    "brand": "10.or",
@@ -3049,6 +3061,11 @@
    "model": "ATV R1"
   },
   {
+   "brand": "Hitachi",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
    "brand": "Hyundai",
    "name": "Android TV",
    "model": "ATV R1"
@@ -3069,6 +3086,11 @@
    "model": "ATV R1"
   },
   {
+   "brand": "Nokia",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
    "brand": "Orient",
    "name": "Android TV",
    "model": "ATV R1"
@@ -3077,6 +3099,11 @@
    "brand": "Panasonic",
    "name": "Android TV",
    "model": "PANASONIC TV"
+  },
+  {
+   "brand": "Singer",
+   "name": "Android TV",
+   "model": "ATV R1"
   },
   {
    "brand": "Thomson",
@@ -3136,6 +3163,11 @@
    "model": "ATV R2"
   },
   {
+   "brand": "Hitachi",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
    "brand": "Hyundai",
    "name": "Android TV",
    "model": "ATV R2"
@@ -3157,6 +3189,11 @@
   },
   {
    "brand": "Micromax",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Nokia",
    "name": "Android TV",
    "model": "ATV R2"
   },
@@ -25546,6 +25583,13 @@
    "model": "Concord M15"
   }
  ],
+ "Concord_Range_S9": [
+  {
+   "brand": "Concord",
+   "name": "Concord_Range_S9",
+   "model": "Concord_Range_S9"
+  }
+ ],
  "Dream_Edition_C-754": [
   {
    "brand": "Concord",
@@ -34388,6 +34432,13 @@
    "model": "S10M"
   }
  ],
+ "S10M_EEA": [
+  {
+   "brand": "Dragontouch",
+   "name": "S10M_EEA",
+   "model": "S10M_EEA"
+  }
+ ],
  "X10A": [
   {
    "brand": "Dragontouch",
@@ -34648,6 +34699,13 @@
    "brand": "E-Tel",
    "name": "E-tel_Q5",
    "model": "E-tel_Q5"
+  }
+ ],
+ "E-tel_i20": [
+  {
+   "brand": "E-Tel",
+   "name": "E-tel_i20",
+   "model": "E-tel_i20"
   }
  ],
  "E-tel_i250": [
@@ -84819,6 +84877,13 @@
    "model": "MID_1085"
   }
  ],
+ "MID-1085A100": [
+  {
+   "brand": "Laser",
+   "name": "MID_1085A100",
+   "model": "MID_1085A100"
+  }
+ ],
  "MID_1087V9": [
   {
    "brand": "Laser",
@@ -106894,6 +106959,18 @@
    "brand": "Ncredible",
    "name": "NV8-HD",
    "model": "NV8"
+  }
+ ],
+ "D2140-Cosmos": [
+  {
+   "brand": "Nebula",
+   "name": "D2140-Cosmos",
+   "model": "D2140"
+  },
+  {
+   "brand": "Nebula",
+   "name": "D2150",
+   "model": "D2150"
   }
  ],
  "DM8260": [
@@ -137648,6 +137725,13 @@
    "brand": "Samsung",
    "name": "Galaxy Style Duos",
    "model": "SCH-I829"
+  }
+ ],
+ "gta4l": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy TAB A7",
+   "model": "SM-T505"
   }
  ],
  "gtactive2lteue": [

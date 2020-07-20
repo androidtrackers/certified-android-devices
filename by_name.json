@@ -5842,6 +5842,18 @@
    "model": "DIW387 1U1"
   }
  ],
+ "Lenovo Tab M10 HD(2nd Gen)": [
+  {
+   "brand": "1&1",
+   "device": "X306X",
+   "model": "Lenovo TB-X306X"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "X306X",
+   "model": "Lenovo TB-X306X"
+  }
+ ],
  "10or_G2": [
   {
    "brand": "10.or",
@@ -8447,6 +8459,16 @@
    "model": "ATV R2"
   },
   {
+   "brand": "Hitachi",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Hitachi",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
    "brand": "Hyundai",
    "device": "R1",
    "model": "ATV R1"
@@ -8517,6 +8539,16 @@
    "model": "Cosmos"
   },
   {
+   "brand": "Nokia",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Nokia",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
    "brand": "Orient",
    "device": "R1",
    "model": "ATV R1"
@@ -8535,6 +8567,11 @@
    "brand": "Panasonic",
    "device": "R2",
    "model": "PANASONIC TV"
+  },
+  {
+   "brand": "Singer",
+   "device": "R1",
+   "model": "ATV R1"
   },
   {
    "brand": "Thomson",
@@ -31178,6 +31215,13 @@
    "model": "Concord M15"
   }
  ],
+ "Concord_Range_S9": [
+  {
+   "brand": "Concord",
+   "device": "Concord_Range_S9",
+   "model": "Concord_Range_S9"
+  }
+ ],
  "Dream_Edition_C-754": [
   {
    "brand": "Concord",
@@ -39547,6 +39591,13 @@
    "model": "S10M"
   }
  ],
+ "S10M_EEA": [
+  {
+   "brand": "Dragontouch",
+   "device": "S10M_EEA",
+   "model": "S10M_EEA"
+  }
+ ],
  "X80 Plus": [
   {
    "brand": "Dragontouch",
@@ -39810,6 +39861,13 @@
    "brand": "E-Tel",
    "device": "E-tel_Q5",
    "model": "E-tel_Q5"
+  }
+ ],
+ "E-tel_i20": [
+  {
+   "brand": "E-Tel",
+   "device": "E-tel_i20",
+   "model": "E-tel_i20"
   }
  ],
  "E-tel_i250": [
@@ -87925,6 +87983,13 @@
    "model": "MID_1085"
   }
  ],
+ "MID_1085A100": [
+  {
+   "brand": "Laser",
+   "device": "MID-1085A100",
+   "model": "MID_1085A100"
+  }
+ ],
  "MID_1087V9": [
   {
    "brand": "Laser",
@@ -107905,6 +107970,20 @@
    "brand": "Ncredible",
    "device": "NV8-HD",
    "model": "NV8"
+  }
+ ],
+ "D2140-Cosmos": [
+  {
+   "brand": "Nebula",
+   "device": "D2140-Cosmos",
+   "model": "D2140"
+  }
+ ],
+ "D2150": [
+  {
+   "brand": "Nebula",
+   "device": "D2140-Cosmos",
+   "model": "D2150"
   }
  ],
  "D2241": [
@@ -136280,6 +136359,13 @@
    "brand": "Samsung",
    "device": "aruba3gduosctc",
    "model": "SCH-I829"
+  }
+ ],
+ "Galaxy TAB A7": [
+  {
+   "brand": "Samsung",
+   "device": "gta4l",
+   "model": "SM-T505"
   }
  ],
  "Galaxy TAB Active2": [

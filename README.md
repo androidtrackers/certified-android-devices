@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-07-19
+Last sync is 2020-07-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11,6 +11,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |1&1|1&1 Puck|diw362_1u1|DIW362P 1U1|
 |1&1|1&1 TV Box|diw387_1u1|DIW387 1U1|
 |1&1|DIW387-1&1|diw387_1u1|DIW387 1U1|
+|1&1|Lenovo Tab M10 HD(2nd Gen)|X306X|Lenovo TB-X306X|
 |10.or|10or_G2|G2|10or G2|
 |10.or|D|10or_D|D|
 |10.or|E|E|E|
@@ -3404,6 +3405,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Compaq|CT101|fireball|CT101|
 |Concord|C-708|C-708|C-708|
 |Concord|Concord M15|Concord_M15|Concord M15|
+|Concord|Concord_Range_S9|Concord_Range_S9|Concord_Range_S9|
 |Concord|Dream_Edition_C-754|Dream_Edition_C-754|Dream_Edition_C-754|
 |Concord|Plus-7_C777|Plus-7_C777|Plus-7_C777|
 |Concord|Plus-9_C778|Plus-9_C778|Plus-9_C778|
@@ -4586,6 +4588,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dragontouch|Notepad_Go_801_EEA|Notepad_Go_801|Notepad_Go_801_EEA|
 |Dragontouch|Notepad_Go_803|Notepad_Go_803|Notepad_Go_803|
 |Dragontouch|S10M|S10M|S10M|
+|Dragontouch|S10M_EEA|S10M_EEA|S10M_EEA|
 |Dragontouch|V10|V10|V10|
 |Dragontouch|X10|X10A|X10|
 |Dragontouch|X10|tulip-d210|X10|
@@ -4625,6 +4628,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |E-TACHI|A8_SMART|A8_SMART|A8_SMART|
 |E-Tel|E-tel_M1|E-tel_M1|E-tel_M1|
 |E-Tel|E-tel_Q5|E-tel_Q5|E-tel_Q5|
+|E-Tel|E-tel_i20|E-tel_i20|E-tel_i20|
 |E-Tel|E-tel_i250|E-tel_i250|E-tel_i250|
 |E-Tel|M4|M4|M4|
 |E-Tel|Q25|Q25|Q25|
@@ -7846,6 +7850,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|xiaoyushan|xiaoyushan|HiSmartTV A4|
 |Hisense|xiaoyushan-em|xiaoyushan|HiSmartTV A4|
 |Hisense|xinhaoshan|xinhaoshan|HiSmart 4K ATV4|
+|Hitachi|Android TV|R1|ATV R1|
+|Hitachi|Android TV|R2|ATV R2|
 |Hitachi|Hitachi|bangbae|Hitachi 4K Android TV|
 |Hitachi|HitachiTV|shinjuku|HitachiTV|
 |Hitachi|LD50CHS04U|samseong|AI PONT|
@@ -12672,6 +12678,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Laser|MID-787V8|MID-787V8|MID-787V8|
 |Laser|MID-790IPS|MID-790IPS|MID-790IPS|
 |Laser|MID_1085|MID_1085|MID_1085|
+|Laser|MID_1085A100|MID-1085A100|MID_1085A100|
 |Laser|MID_1087V9|MID_1087V9|MID_1087V9|
 |Laser|MID_1089IPS|MID_1089IPS|MID_1089IPS|
 |Laser|MID_1090IPSV9|MID_1090IPSV9|MID_1090IPSV9|
@@ -13395,6 +13402,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M10 FHD Rel|801LV|801LV|
 |Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306F|Lenovo TB-X306F|
 |Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306FC_PRC|Lenovo TB-X306FC_PRC|
+|Lenovo|Lenovo Tab M10 HD(2nd Gen)|X306X|Lenovo TB-X306X|
 |Lenovo|Lenovo Tab M10 Plus|X606V|Lenovo TB-X606V|
 |Lenovo|Lenovo Tab M10 Plus|X606X|Lenovo TB-X606X|
 |Lenovo|Lenovo Tab M7|7305F|Lenovo TB-7305F|
@@ -16016,6 +16024,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Naxa|Naxa|NID_7055|NID-7055|
 |Ncredible|NV8|NV8|NV8|
 |Ncredible|NV8-HD|NV8-HD|NV8|
+|Nebula|D2140-Cosmos|D2140-Cosmos|D2140|
+|Nebula|D2150|D2140-Cosmos|D2150|
 |Nebula|D2241|DM8260|D2241|
 |Nebula|D2421|DM8261|D2421|
 |Necnon|M002K-2|M002K-2|M002K-2|
@@ -16138,6 +16148,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Noblex|NoblexTV|shinjuku|NoblexTV|
 |Noblex|T7A6INC|T7A6INC|T7A6INC|
 |Noblex|T7A6N|Tablet|T7A6N|
+|Nokia|Android TV|R1|ATV R1|
+|Nokia|Android TV|R2|ATV R2|
 |Nokia|C2|NBL|Nebula|
 |Nokia|C2|NBL|Nokia C2|
 |Nokia|N1|Nokia_N1|N1|
@@ -20811,6 +20823,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Stellar|jaspervzw|SCH-I200PP|
 |Samsung|Galaxy Stratosphere2|aegis2vzw|SCH-I415|
 |Samsung|Galaxy Style Duos|aruba3gduosctc|SCH-I829|
+|Samsung|Galaxy TAB A7|gta4l|SM-T505|
 |Samsung|Galaxy TAB Active2|gtactive2lteue|SM-T397U|
 |Samsung|Galaxy TAB3 Lite|goyairis3g|SM-T116IR|
 |Samsung|Galaxy Tab|GT-P1000|GT-P1000|
@@ -21907,6 +21920,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SimiMobile|S507|S507|S507|
 |SimiMobile|S630|S630|S630|
 |SimiMobile|S630M|S630M|S630M|
+|Singer|Android TV|R1|ATV R1|
 |Singer|SingerTV|shibuya|SingerTV|
 |Singtech|H1s|H1s|H1s|
 |Singtech|H2|Singtech_H2|H2|

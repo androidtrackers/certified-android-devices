@@ -31,6 +31,11 @@
    "device": "diw387_1u1",
    "name": "DIW387-1&1",
    "model": "DIW387 1U1"
+  },
+  {
+   "device": "X306X",
+   "name": "Lenovo Tab M10 HD(2nd Gen)",
+   "model": "Lenovo TB-X306X"
   }
  ],
  "10.or": [
@@ -17614,6 +17619,11 @@
    "model": "Concord M15"
   },
   {
+   "device": "Concord_Range_S9",
+   "name": "Concord_Range_S9",
+   "model": "Concord_Range_S9"
+  },
+  {
    "device": "Dream_Edition_C-754",
    "name": "Dream_Edition_C-754",
    "model": "Dream_Edition_C-754"
@@ -23716,6 +23726,11 @@
    "model": "S10M"
   },
   {
+   "device": "S10M_EEA",
+   "name": "S10M_EEA",
+   "model": "S10M_EEA"
+  },
+  {
    "device": "V10",
    "name": "V10",
    "model": "V10"
@@ -23927,6 +23942,11 @@
    "device": "E-tel_Q5",
    "name": "E-tel_Q5",
    "model": "E-tel_Q5"
+  },
+  {
+   "device": "E-tel_i20",
+   "name": "E-tel_i20",
+   "model": "E-tel_i20"
   },
   {
    "device": "E-tel_i250",
@@ -40513,6 +40533,16 @@
   }
  ],
  "Hitachi": [
+  {
+   "device": "R1",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
   {
    "device": "bangbae",
    "name": "Hitachi",
@@ -65026,6 +65056,11 @@
    "model": "MID_1085"
   },
   {
+   "device": "MID-1085A100",
+   "name": "MID_1085A100",
+   "model": "MID_1085A100"
+  },
+  {
    "device": "MID_1087V9",
    "name": "MID_1087V9",
    "model": "MID_1087V9"
@@ -68661,6 +68696,11 @@
    "device": "X306FC_PRC",
    "name": "Lenovo Tab M10 HD (2nd Gen)",
    "model": "Lenovo TB-X306FC_PRC"
+  },
+  {
+   "device": "X306X",
+   "name": "Lenovo Tab M10 HD(2nd Gen)",
+   "model": "Lenovo TB-X306X"
   },
   {
    "device": "X606V",
@@ -82152,6 +82192,16 @@
  ],
  "Nebula": [
   {
+   "device": "D2140-Cosmos",
+   "name": "D2140-Cosmos",
+   "model": "D2140"
+  },
+  {
+   "device": "D2140-Cosmos",
+   "name": "D2150",
+   "model": "D2150"
+  },
+  {
    "device": "DM8260",
    "name": "D2241",
    "model": "D2241"
@@ -82815,6 +82865,16 @@
   }
  ],
  "Nokia": [
+  {
+   "device": "R1",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
   {
    "device": "NBL",
    "name": "C2",
@@ -106653,6 +106713,11 @@
    "model": "SCH-I829"
   },
   {
+   "device": "gta4l",
+   "name": "Galaxy TAB A7",
+   "model": "SM-T505"
+  },
+  {
    "device": "gtactive2lteue",
    "name": "Galaxy TAB Active2",
    "model": "SM-T397U"
@@ -112212,6 +112277,11 @@
   }
  ],
  "Singer": [
+  {
+   "device": "R1",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
   {
    "device": "shibuya",
    "name": "SingerTV",
