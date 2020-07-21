@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-07-20
+Last sync is 2020-07-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -471,6 +471,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advance|Tr4986|Tr4986|Tr4986|
 |Advantage|I101MTK|I101MTK|I101MTK|
 |Advantage Air|PIC10GS8|PIC10GS8|PIC10GS8|
+|Advantage Air|PIC7GS10-A|PIC7GS10-A|PIC7GS10-A|
 |Advantage Air|PIC7GS8|PIC7GS8|PIC7GS8|
 |Advantage Air|PIC8GS8|PIC8GS8|PIC8GS8|
 |Aelion|i8|Aelion_i8|i8|
@@ -4911,6 +4912,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Entel|S3015|S3015|S3015|
 |Entity|ENT1529I20|ENT1529I20|ENT1529I20|
 |Entity|ENT15QF220|ENT15QF220|ENT15QF220|
+|Entity|ENT75QF620_EEA|ENT75QF620|ENT75QF620|
 |Envizen|ClickTabDSh18|ClickTabDSh18|ClickTabDSh18|
 |Envizen|V1018A|V1018A|V1018A|
 |Envizen|VMD9002|VMD9002|VMD9002|
@@ -5027,6 +5029,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Evertek|M10 Nano|M10_Nano|M10 Nano|
 |Evertek|M10_Max|EVERTEK_M10_Max|M10+Max|
 |Evertek|M10_Pro|Evertek_M10_Pro|M10_Pro|
+|Evertek|M20|M20|M20|
 |Evertek|V4|V4|EVERTEK V4|
 |Evertek|V4 Nano|V4_Nano|V4 Nano|
 |Evertek|V4+|V4_Plus|V4+|
@@ -5345,6 +5348,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fone Haus|Bolt|Bolt|Bolt|
 |Fone Haus|CoolminttTribe|CoolMinttTribe|CoolMinttTribe|
 |Fonos|FONOS O2|O2|O2|
+|Fonos|O3_EEA|O3|O3|
 |Ford|Omni 8|Omni8|Omni8|
 |Formuler|GTV|GTV|GTV|
 |Fossil|Fossil Gen 5|triggerfish|Lexington 2|
@@ -6390,6 +6394,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HTC|Desire 12s|htc_bre2dugl|HTC Desire 12s|
 |HTC|Desire 12s|htc_bre2exdugl|EXODUS 1s|
 |HTC|Desire 12s|htc_bre2exdugl|HTC Desire 12s|
+|HTC|Desire 20 Pro|htc_bymdugl|2Q9J100|
+|HTC|Desire 20 Pro|htc_bymdugl|HTC Desire 20 Pro|
 |HTC|Desire 200|gtou|HTC Desire 200|
 |HTC|Desire 200|gtou|HTC_Desire_200|
 |HTC|Desire 210 dual sim|htc_v0_dug|HTC Desire 210 dual sim|
@@ -6956,6 +6962,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HTC|myTouch 4G|glacier|HTC Panache|
 |HTC|myTouch 4G Slide|doubleshot|myTouch_4G_Slide|
 |HUAVI|Eastaeon - Mediatek|KHATARH10mini|KHATAR H-10 mini|
+|HUAVI|KHATAR H-20 PRO|KHATARH20PRO|KHATAR H-20 PRO|
 |HYUNDAI_MAESTRO|HDT-7427GU|HDT-7427GU|HDT-7427GU|
 |HYUNDAI_MAESTRO|HDT-7433X|HDT-7433X|HDT-7433X|
 |HYUNDAI_MAESTRO|HDT-9421G|HDT-9421G|HDT-9421G|
@@ -7516,6 +7523,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense  Infinity  H12|HSSDM450QC|Hisense H12|
 |Hisense|Hisense  Infinity  H12|HSSDM450QC|Hisense Infinity H12|
 |Hisense|Hisense E MAX|SC9863A_RU|Hisense E MAX|
+|Hisense|Hisense E20|HLTE103E_20|HLTE103E|
 |Hisense|Hisense E20|HLTE103E_21|Hisense E20|
 |Hisense|Hisense E20|HLTE103E_22|Hisense E20|
 |Hisense|Hisense E30|HS6763MT|HLTE220E|
@@ -7874,6 +7882,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hometech|EMEA|ALFA_7RS|ALFA 7RS|
 |Hometech|HT_7RT Tablet PC|HT_7RT|HT_7RT|
 |Hometech|HT_8MZ|HT_8MZ|HT_8MZ|
+|Hometech|Turkey|ALFA_7MRC|ALFA_7MRC|
 |"Hon Hai Precision Industry Co.|Ltd."||EP10_wifi|
 |"Hon Hai Precision Industry Co.|Ltd."||EP5A_wifi|
 |"Hon Hai Precision Industry Co.|Ltd."|Germany|S9714|
@@ -9897,6 +9906,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinity|10.1-v2|Infinity-101-v2|Infinity-10.1-v2|
 |Infinity|10.1-v3|Infinity_101_v3|Infinity-10.1-v3|
 |Infinity|Infinity|Infinity|Infinity|
+|Infinix|32X1|ikebukuro|AI PONT|
 |Infinix|Africa & Asia Pacific|samseong|AI PONT|
 |Infinix|HOT 2|Infinix_X510|Infinix X510|
 |Infinix|HOT 3|INFINIX-X554|Infinix HOT 3 Pro|
@@ -9957,6 +9967,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix Note 5|Infinix-X604_sprout|Infinix X604B|
 |Infinix|Infinix SMART 4|Infinix-X680|Infinix X680|
 |Infinix|Infinix SMART 4 Plus|Infinix-X680D|Infinix X680D|
+|Infinix|Infinix SMART 5|Infinix-X657|Infinix X657|
 |Infinix|Infinix X5010|Infinix-X5010|Infinix X5010|
 |Infinix|Infinix X510|Infinix_X510_sprout|Infinix X510|
 |Infinix|Infinix X559|Infinix-X559|Infinix X559|
@@ -10588,6 +10599,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|JVC|sugamo|US 2K Android TV|
 |JVC|JVC J20|Cunda|J20|
 |JVC|LT-32K397|osaki|2K AI Smart TV|
+|JVC|LT-32N3115A|ikebukuro|AI PONT|
 |JVC|LT-50KD507|samseong|AI PONT|
 |JVC|LT-50N7115A|samseong|AI PONT|
 |JVC|LT-55KB597|sindorim|AI PONT|
@@ -10920,6 +10932,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kinetic|RSTV-A4K-16|DV8219|RSTV-A4K-16|
 |Kingcomm|C500|C500|Kingcomm C500|
 |Kingcomm|E550|E550|Kingcomm E550|
+|Kinstone|SA070|Kinstone_SA070|KJ-YUBI|
 |Kinstone|SA070|Kinstone_SA070|SA070|
 |Kioto|MID1021|MID1021|MID1021|
 |Kioto|MID1028|MID1028|MID1028|
@@ -13935,6 +13948,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M4tel|M4 SS4458-R|M4-SS4458-R|M4-SS4458-R|
 |M4tel|R2 Plus|R2_Plus|R2_Plus|
 |MAG|MAG425A|MAG425A|MAG425A|
+|MAG|MAG500A|MAG500A|MAG500A|
 |MASTERTECH|M2M-3T|M2M-3T|M2M-3T|
 |MAXX|Grand Prime|Grand_Prime|Grand Prime|
 |MAZE|Alpha|Alpha|Alpha|
@@ -14166,6 +14180,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maximus|P7_Plus|P7_Plus|P7 Plus|
 |Maxis|NeXT M2|VFD610|VFD 610|
 |Maxis|NeXT X1|VFD710|VFD 710|
+|Maxon|MX50|Maxon_MX50|MX50|
 |Maxpac|Parrot_3G|Parrot_3G|Parrot_3G|
 |Maxtron|MAXTRON Genio|MAXTRON_Genio|MAXTRON Genio|
 |Maxtron|MAXTRON_M2|MAXTRON_M2|MAXTRON M2|
@@ -18948,6 +18963,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |STF Mobile|aura ULTRA|aura_ULTRA|aura ULTRA|
 |STG Telecom|STG A1|STG_A1|STG A1|
 |STG Telecom|STG A1 Pro|STG_A1_Pro|STG A1 Pro|
+|STG Telecom|STG H10|STG_H10|STG H10|
 |STG Telecom|STG S1|STG_S1|STG S1|
 |STG Telecom|STG S10|STG_S10|STG S10|
 |STG Telecom|STG X1|STG_X1|STG X1|
@@ -19973,6 +19989,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M30s|m30s|SM-M307F|
 |Samsung|Galaxy M30s|m30s|SM-M307FN|
 |Samsung|Galaxy M31|m31|SM-M315F|
+|Samsung|Galaxy M31s|m31s|SM-M317F|
 |Samsung|Galaxy M40|m40|SM-M405F|
 |Samsung|Galaxy Mega 2|mega23g|SM-G750H|
 |Samsung|Galaxy Mega 5.8|crater|GT-I9152|
@@ -23042,6 +23059,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|Smartphone|A5A_INFINI|5086D|
 |TCL|Smartphone|A5A_INFINI|5186D|
 |TCL|South America|tcl|Percee TV|
+|TCL|TCL 10 Plus|Boston|T782H|
 |TCL|TCL 10 Pro|T1_PRO|T799B|
 |TCL|TCL 10 Pro|T1_PRO|T799H|
 |TCL|TCL 10 SE|Oakland|T766H|
@@ -24334,6 +24352,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TERRA|TERRA PAD 101|TERRA_PAD_101|TERRA_PAD_101|
 |TERRA|TERRA_PAD_1005|TERRA_PAD_1005|TERRA_PAD_1005|
 |TERRA|TERRA_PAD_1005POKO|TERRA_PAD_1005POKO|TERRA_PAD_1005POKO|
+|TERRA|TERRA_PAD_1006|TERRA_PAD_1006|TERRA_PAD_1006|
 |TES (Touch Embedded Solutions)|igs-series|igs-series|igs-series|
 |TES (Touch Embedded Solutions)|igs-series-gen2|igs-series-gen2|igs-series-gen2|
 |TESPRO|Mayumi U1|Mayumi_U1|Mayumi U1|
@@ -24632,6 +24651,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|SPARK 5 Air|TECNO-KD6|TECNO KD6|
 |Tecno|SPARK 5 Air|TECNO-KD6|TECNO KD6a|
 |Tecno|SPARK 6 Air|TECNO-KE6|TECNO KE6|
+|Tecno|SPARK 6 Air|TECNO-KE6j|TECNO KE6j|
 |Tecno|SPARK CM|TECNO-KA9|TECNO KA9|
 |Tecno|SPARK Go Plus|TECNO-BB4k|TECNO BB4k|
 |Tecno|SPARK Plus|TECNO-K9|TECNO K9|
@@ -25059,6 +25079,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ULCOOL|U1|U1|U1|
 |ULCOOL|U2|U2|U2|
 |UNILORIN|UNI10IN|UNI10IN|UNI10IN|
+|UNITED TV|LED32HS72A9|ikebukuro|AI PONT|
 |UNOWHY|QOOQ|QOOQ|QOOQ|
 |UNOWHY|QOOQ|QOOQ-V41|QOOQ-V41|
 |UNOWHY|SQOOL-V4|SQOOL-V4|SQOOL-V4|
@@ -26811,6 +26832,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Yezz|5E|5E|5E|
 |Yezz|5E4|5E4|5E4|
 |Yezz|5EQ|5EQ|5EQ|
+|Yezz|ART1|ART1|ART1|
 |Yezz|E400A|E400A|E400A|
 |Yezz|EPIC_T|EPIC_T|EPIC T|
 |Yezz|GO1|GO1|GO1|
@@ -28242,10 +28264,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A7 2020RU|P662F02D|ZTE Blade A7 2020RU|
 |ZTE|ZTE Blade A7 2020RU|P662F02_D1|ZTE Blade A7 2020RU|
 |ZTE|ZTE Blade A7s|P662F02|ZTE Blade A7s|
+|ZTE|ZTE Blade A7s 2020|P963F03|ZTE A7020|
 |ZTE|ZTE Blade L110|ZTE_BLADE_L110|ZTE Blade L110|
 |ZTE|ZTE Blade L130|P731F30|ZTE Blade L130|
 |ZTE|ZTE Blade L130|P731K30|ZTE Blade L130|
 |ZTE|ZTE Blade L130RU|P731F30|ZTE Blade L130RU|
+|ZTE|ZTE Blade L210|P731F50|ZTE Blade L210|
 |ZTE|ZTE Blade L5|P172A40|ZTE Blade L5|
 |ZTE|ZTE Blade L8|P731F20|ZTE Blade L8|
 |ZTE|ZTE Blade L8RU|P731F20|ZTE Blade L8RU|
@@ -28686,6 +28710,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iHunt|TITAN P11000 PRO|TITAN_P11000_PRO|TITAN_P11000_PRO|
 |iHunt|Tian_P3000|Tian_P3000|Tian_P3000|
 |iHunt|Tian_P7000|Tian_P7000|Tian_P7000|
+|iHunt|Titan P8000 PRO 2021|Titan_P8000_PRO_2021|Titan P8000 PRO 2021|
 |iHunt|TitanP6000|TitanP6000|TitanP6000|
 |iHunt|iHunt S90 Apex|S90_Apex|S90_Apex|
 |iHunt|iHunt_S60_Discovery_Pro_2020|iHunt_S60_Discovery_Pro_2020|iHunt_S60_Discovery_Pro_2020|

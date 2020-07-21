@@ -9726,6 +9726,13 @@
    "model": "PIC10GS8"
   }
  ],
+ "PIC7GS10-A": [
+  {
+   "brand": "Advantage Air",
+   "device": "PIC7GS10-A",
+   "model": "PIC7GS10-A"
+  }
+ ],
  "PIC7GS8": [
   {
    "brand": "Advantage Air",
@@ -41855,6 +41862,13 @@
    "model": "ENT15QF220"
   }
  ],
+ "ENT75QF620_EEA": [
+  {
+   "brand": "Entity",
+   "device": "ENT75QF620",
+   "model": "ENT75QF620"
+  }
+ ],
  "ClickTabDSh18": [
   {
    "brand": "Envizen",
@@ -42716,6 +42730,18 @@
    "brand": "Evertek",
    "device": "Evertek_M10_Pro",
    "model": "M10_Pro"
+  }
+ ],
+ "M20": [
+  {
+   "brand": "Evertek",
+   "device": "M20",
+   "model": "M20"
+  },
+  {
+   "brand": "Hafury",
+   "device": "M20",
+   "model": "M20"
   }
  ],
  "V4": [
@@ -45176,6 +45202,13 @@
    "model": "O2"
   }
  ],
+ "O3_EEA": [
+  {
+   "brand": "Fonos",
+   "device": "O3",
+   "model": "O3"
+  }
+ ],
  "Omni 8": [
   {
    "brand": "Ford",
@@ -47586,6 +47619,11 @@
    "brand": "Getac",
    "device": "mx50",
    "model": "mx50"
+  },
+  {
+   "brand": "Maxon",
+   "device": "Maxon_MX50",
+   "model": "MX50"
   }
  ],
  "Z710": [
@@ -52189,6 +52227,18 @@
    "model": "HTC Desire 12s"
   }
  ],
+ "Desire 20 Pro": [
+  {
+   "brand": "HTC",
+   "device": "htc_bymdugl",
+   "model": "2Q9J100"
+  },
+  {
+   "brand": "HTC",
+   "device": "htc_bymdugl",
+   "model": "HTC Desire 20 Pro"
+  }
+ ],
  "Desire 200": [
   {
    "brand": "HTC",
@@ -55354,6 +55404,13 @@
    "model": "KHATAR H-10 mini"
   }
  ],
+ "KHATAR H-20 PRO": [
+  {
+   "brand": "HUAVI",
+   "device": "KHATARH20PRO",
+   "model": "KHATAR H-20 PRO"
+  }
+ ],
  "HDT-7427GU": [
   {
    "brand": "HYUNDAI_MAESTRO",
@@ -55488,13 +55545,6 @@
    "brand": "LGE",
    "device": "mh5lm-8m",
    "model": "LM-X320"
-  }
- ],
- "M20": [
-  {
-   "brand": "Hafury",
-   "device": "M20",
-   "model": "M20"
   }
  ],
  "NOTE 10": [
@@ -58760,6 +58810,11 @@
  "Hisense E20": [
   {
    "brand": "Hisense",
+   "device": "HLTE103E_20",
+   "model": "HLTE103E"
+  },
+  {
+   "brand": "Hisense",
    "device": "HLTE103E_21",
    "model": "Hisense E20"
   },
@@ -61126,6 +61181,13 @@
    "brand": "Hometech",
    "device": "HT_8MZ",
    "model": "HT_8MZ"
+  }
+ ],
+ "Turkey": [
+  {
+   "brand": "Hometech",
+   "device": "ALFA_7MRC",
+   "model": "ALFA_7MRC"
   }
  ],
  "Ltd.\"": [
@@ -71724,6 +71786,13 @@
    "model": "Infinity"
   }
  ],
+ "32X1": [
+  {
+   "brand": "Infinix",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  }
+ ],
  "Africa & Asia Pacific": [
   {
    "brand": "Infinix",
@@ -72064,6 +72133,13 @@
    "brand": "Infinix",
    "device": "Infinix-X680D",
    "model": "Infinix X680D"
+  }
+ ],
+ "Infinix SMART 5": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X657",
+   "model": "Infinix X657"
   }
  ],
  "Infinix X5010": [
@@ -76090,6 +76166,13 @@
    "model": "2K AI Smart TV"
   }
  ],
+ "LT-32N3115A": [
+  {
+   "brand": "JVC",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  }
+ ],
  "LT-50KD507": [
   {
    "brand": "JVC",
@@ -78327,6 +78410,11 @@
   }
  ],
  "SA070": [
+  {
+   "brand": "Kinstone",
+   "device": "Kinstone_SA070",
+   "model": "KJ-YUBI"
+  },
   {
    "brand": "Kinstone",
    "device": "Kinstone_SA070",
@@ -95330,6 +95418,13 @@
    "brand": "MAG",
    "device": "MAG425A",
    "model": "MAG425A"
+  }
+ ],
+ "MAG500A": [
+  {
+   "brand": "MAG",
+   "device": "MAG500A",
+   "model": "MAG500A"
   }
  ],
  "M2M-3T": [
@@ -126323,6 +126418,13 @@
    "model": "STG A1 Pro"
   }
  ],
+ "STG H10": [
+  {
+   "brand": "STG Telecom",
+   "device": "STG_H10",
+   "model": "STG H10"
+  }
+ ],
  "STG S1": [
   {
    "brand": "STG Telecom",
@@ -131777,6 +131879,13 @@
    "brand": "Samsung",
    "device": "m31",
    "model": "SM-M315F"
+  }
+ ],
+ "Galaxy M31s": [
+  {
+   "brand": "Samsung",
+   "device": "m31s",
+   "model": "SM-M317F"
   }
  ],
  "Galaxy M40": [
@@ -149605,6 +149714,13 @@
    "model": "5186D"
   }
  ],
+ "TCL 10 Plus": [
+  {
+   "brand": "TCL",
+   "device": "Boston",
+   "model": "T782H"
+  }
+ ],
  "TCL 10 Pro": [
   {
    "brand": "TCL",
@@ -156602,6 +156718,13 @@
    "model": "TERRA_PAD_1005POKO"
   }
  ],
+ "TERRA_PAD_1006": [
+  {
+   "brand": "TERRA",
+   "device": "TERRA_PAD_1006",
+   "model": "TERRA_PAD_1006"
+  }
+ ],
  "igs-series": [
   {
    "brand": "TES (Touch Embedded Solutions)",
@@ -158339,6 +158462,11 @@
    "brand": "Tecno",
    "device": "TECNO-KE6",
    "model": "TECNO KE6"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KE6j",
+   "model": "TECNO KE6j"
   }
  ],
  "SPARK CM": [
@@ -161007,6 +161135,13 @@
    "brand": "UNILORIN",
    "device": "UNI10IN",
    "model": "UNI10IN"
+  }
+ ],
+ "LED32HS72A9": [
+  {
+   "brand": "UNITED TV",
+   "device": "ikebukuro",
+   "model": "AI PONT"
   }
  ],
  "QOOQ": [
@@ -171792,6 +171927,13 @@
    "model": "5EQ"
   }
  ],
+ "ART1": [
+  {
+   "brand": "Yezz",
+   "device": "ART1",
+   "model": "ART1"
+  }
+ ],
  "E400A": [
   {
    "brand": "Yezz",
@@ -179191,6 +179333,13 @@
    "model": "ZTE Blade A7s"
   }
  ],
+ "ZTE Blade A7s 2020": [
+  {
+   "brand": "ZTE",
+   "device": "P963F03",
+   "model": "ZTE A7020"
+  }
+ ],
  "ZTE Blade L110": [
   {
    "brand": "ZTE",
@@ -179215,6 +179364,13 @@
    "brand": "ZTE",
    "device": "P731F30",
    "model": "ZTE Blade L130RU"
+  }
+ ],
+ "ZTE Blade L210": [
+  {
+   "brand": "ZTE",
+   "device": "P731F50",
+   "model": "ZTE Blade L210"
   }
  ],
  "ZTE Blade L5": [
@@ -182010,6 +182166,13 @@
    "brand": "iHunt",
    "device": "Tian_P7000",
    "model": "Tian_P7000"
+  }
+ ],
+ "Titan P8000 PRO 2021": [
+  {
+   "brand": "iHunt",
+   "device": "Titan_P8000_PRO_2021",
+   "model": "Titan P8000 PRO 2021"
   }
  ],
  "TitanP6000": [
