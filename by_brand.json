@@ -22776,6 +22776,13 @@
    "model": "X12"
   }
  ],
+ "Dintech": [
+  {
+   "device": "STAB8765B2-16",
+   "name": "STAB8765B2-16",
+   "model": "STAB8765B2-16"
+  }
+ ],
  "Dish": [
   {
    "device": "uiw4010ech",
@@ -71357,8 +71364,18 @@
   },
   {
    "device": "M3SM15N",
+   "name": "M3SM15N",
+   "model": "M3SM15N"
+  },
+  {
+   "device": "M3SM15N",
    "name": "M3SM15N_EEA",
    "model": "M3SM15N"
+  },
+  {
+   "device": "M3SM15X",
+   "name": "M3SM15X",
+   "model": "M3SM15X"
   },
   {
    "device": "M3SM15X",
@@ -84390,6 +84407,11 @@
    "model": "IN2023"
   },
   {
+   "device": "Nord",
+   "name": "OnePlus Nord",
+   "model": "AC2003"
+  },
+  {
    "device": "OnePlus2",
    "name": "OnePlus2",
    "model": "ONE A2003"
@@ -85403,11 +85425,6 @@
    "model": "CPH1909"
   },
   {
-   "device": "OP4C2DL1",
-   "name": "CPH2009",
-   "model": "CPH2009"
-  },
-  {
    "device": "OP4883",
    "name": "F11",
    "model": "CPH1911"
@@ -85531,6 +85548,11 @@
    "device": "OP4C41L1",
    "name": "Find X2 Lite",
    "model": "CPH2005"
+  },
+  {
+   "device": "OP4C2DL1",
+   "name": "Find X2 Neo/Reno3 Pro",
+   "model": "CPH2009"
   },
   {
    "device": "OP4BA2L1",
@@ -118141,6 +118163,11 @@
    "model": "Percee TV"
   },
   {
+   "device": "Seattle",
+   "name": "TCL 10 5G",
+   "model": "T790Y"
+  },
+  {
    "device": "Boston",
    "name": "TCL 10 Plus",
    "model": "T782H"
@@ -123661,6 +123688,16 @@
    "device": "T017",
    "name": "TAB 7 DUAL CORE",
    "model": "TAB 7 DUAL CORE"
+  },
+  {
+   "device": "Dubai_Plus_ATT",
+   "name": "TBC",
+   "model": "Alcatel_5004C"
+  },
+  {
+   "device": "Seoul_ATT",
+   "name": "TBD",
+   "model": "Alcatel_5002C"
   },
   {
    "device": "Seoul_TF",
@@ -129624,6 +129661,43 @@
    "device": "MB300",
    "name": "MB300",
    "model": "SmartTV"
+  }
+ ],
+ "VUCATIMES": [
+  {
+   "device": "E10",
+   "name": "HAOQIN",
+   "model": "E10"
+  },
+  {
+   "device": "N10",
+   "name": "N10",
+   "model": "N10"
+  },
+  {
+   "device": "N10",
+   "name": "N10_EEA",
+   "model": "N10"
+  },
+  {
+   "device": "N7",
+   "name": "N7",
+   "model": "N7"
+  },
+  {
+   "device": "N8",
+   "name": "N8",
+   "model": "N8"
+  },
+  {
+   "device": "N8_EEA",
+   "name": "N8_EEA",
+   "model": "N8_EEA"
+  },
+  {
+   "device": "N7",
+   "name": "VUCATIMES",
+   "model": "N7"
   }
  ],
  "Valo Innovations": [

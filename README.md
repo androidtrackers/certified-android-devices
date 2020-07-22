@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-07-21
+Last sync is 2020-07-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4406,6 +4406,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dingding|X11|X11|X11|
 |Dingding|X11S|X11S|X11S|
 |Dingding|X12|X12|X12|
+|Dintech|STAB8765B2-16|STAB8765B2-16|STAB8765B2-16|
 |Dish|AirTV Player|uiw4010ech|AirTV Player|
 |Dish|EVOLVE|dish_cable_bcm|SH960C-DS|
 |Dish|SV10|HiCast|SV10|
@@ -13922,7 +13923,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M3 Mobile|M3 UL20X|M3UL20X|M3UL20X|
 |M3 Mobile|M3-SL10|M3-SL10|M3-SL10|
 |M3 Mobile|M3SL10|M3SL10|M3SL10|
+|M3 Mobile|M3SM15N|M3SM15N|M3SM15N|
 |M3 Mobile|M3SM15N_EEA|M3SM15N|M3SM15N|
+|M3 Mobile|M3SM15X|M3SM15X|M3SM15X|
 |M3 Mobile|M3SM15X_EEA|M3SM15X|M3SM15X|
 |M3 Mobile|M3UL20F_EEA|M3UL20F|M3UL20F|
 |M3 Mobile|M3UL20W_EEA|M3UL20W|M3UL20W|
@@ -16436,6 +16439,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 8 5G|OnePlus8TMO|IN2017|
 |OnePlus|OnePlus 8 5G UW|OnePlus8VZW|IN2019|
 |OnePlus|OnePlus 8 Pro|OnePlus8Pro|IN2023|
+|OnePlus|OnePlus Nord|Nord|AC2003|
 |OnePlus|OnePlus2|OnePlus2|ONE A2003|
 |OnePlus|OnePlus3|OnePlus3|ONEPLUS A3000|
 |OnePlus|OnePlus3T|OnePlus3T|ONEPLUS A3000|
@@ -16635,7 +16639,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|CPH1893RU|CPH1893|CPH1893|
 |Oppo|CPH1903|CPH1903|CPH1903|
 |Oppo|CPH1909|CPH1909|CPH1909|
-|Oppo|CPH2009|OP4C2DL1|CPH2009|
 |Oppo|F11|OP4883|CPH1911|
 |Oppo|F11|OP4883|CPH1913|
 |Oppo|F11|OP4883|CPH1915|
@@ -16661,6 +16664,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Find X 兰博基尼|PAHM00|PAHM00|
 |Oppo|Find X2|OP4BA1L1|CPH2023|
 |Oppo|Find X2 Lite|OP4C41L1|CPH2005|
+|Oppo|Find X2 Neo/Reno3 Pro|OP4C2DL1|CPH2009|
 |Oppo|Find X2 Pro|OP4BA2L1|CPH2025|
 |Oppo|Find X2 Pro|OP4BA2L1|OPG01|
 |Oppo|Find X2 Pro 中国版|OP4A7A|PDEM30|
@@ -23059,6 +23063,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|Smartphone|A5A_INFINI|5086D|
 |TCL|Smartphone|A5A_INFINI|5186D|
 |TCL|South America|tcl|Percee TV|
+|TCL|TCL 10 5G|Seattle|T790Y|
 |TCL|TCL 10 Plus|Boston|T782H|
 |TCL|TCL 10 Pro|T1_PRO|T799B|
 |TCL|TCL 10 Pro|T1_PRO|T799H|
@@ -24163,6 +24168,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|T70|PIXO7|T70|
 |TCT (Alcatel)|TAB 7 DUAL CORE|T015|TAB 7 DUAL CORE|
 |TCT (Alcatel)|TAB 7 DUAL CORE|T017|TAB 7 DUAL CORE|
+|TCT (Alcatel)|TBC|Dubai_Plus_ATT|Alcatel_5004C|
+|TCT (Alcatel)|TBD|Seoul_ATT|Alcatel_5002C|
 |TCT (Alcatel)|TBD|Seoul_TF|A507DL|
 |TCT (Alcatel)|TCL 10 5G UW|Seattle_VZW|T790S|
 |TCT (Alcatel)|TCL 302U|Festa5_CU|TCL 302U|
@@ -25292,6 +25299,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VORCOM|S7-classic|S7-classic|S7-classic|
 |VSN|V.35|up11_h1_vsn|V.35|
 |VT|MB300|MB300|SmartTV|
+|VUCATIMES|HAOQIN|E10|E10|
+|VUCATIMES|N10|N10|N10|
+|VUCATIMES|N10_EEA|N10|N10|
+|VUCATIMES|N7|N7|N7|
+|VUCATIMES|N8|N8|N8|
+|VUCATIMES|N8_EEA|N8_EEA|N8_EEA|
+|VUCATIMES|VUCATIMES|N7|N7|
 |Valo Innovations|TAB0001NG|TAB0001NG|TAB0001NG|
 |Vankyo|QTAB1010X|QTAB1010X_EEA|QTAB1010X|
 |Vankyo|S20|S20|S20|

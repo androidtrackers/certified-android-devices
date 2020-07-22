@@ -33100,6 +33100,13 @@
    "model": "X12"
   }
  ],
+ "STAB8765B2-16": [
+  {
+   "brand": "Dintech",
+   "name": "STAB8765B2-16",
+   "model": "STAB8765B2-16"
+  }
+ ],
  "uiw4010ech": [
   {
    "brand": "Dish",
@@ -35813,6 +35820,11 @@
   {
    "brand": "Elephone",
    "name": "E10",
+   "model": "E10"
+  },
+  {
+   "brand": "VUCATIMES",
+   "name": "HAOQIN",
    "model": "E10"
   }
  ],
@@ -93100,6 +93112,11 @@
   },
   {
    "brand": "M3 Mobile",
+   "name": "M3SM15N",
+   "model": "M3SM15N"
+  },
+  {
+   "brand": "M3 Mobile",
    "name": "M3SM15N_EEA",
    "model": "M3SM15N"
   }
@@ -93108,6 +93125,11 @@
   {
    "brand": "M3 Mobile",
    "name": "M3 SM15X",
+   "model": "M3SM15X"
+  },
+  {
+   "brand": "M3 Mobile",
+   "name": "M3SM15X",
    "model": "M3SM15X"
   },
   {
@@ -109504,6 +109526,13 @@
    "model": "IN2023"
   }
  ],
+ "Nord": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord",
+   "model": "AC2003"
+  }
+ ],
  "OnePlus3T": [
   {
    "brand": "OnePlus",
@@ -110660,23 +110689,6 @@
    "model": "CPH1909"
   }
  ],
- "OP4C2DL1": [
-  {
-   "brand": "Oppo",
-   "name": "CPH2009",
-   "model": "CPH2009"
-  },
-  {
-   "brand": "Oppo",
-   "name": "Reno3 5G",
-   "model": "A001OP"
-  },
-  {
-   "brand": "Oppo",
-   "name": "Reno3 Pro",
-   "model": "CPH2009"
-  }
- ],
  "OP4883": [
   {
    "brand": "Oppo",
@@ -110847,6 +110859,23 @@
    "brand": "Oppo",
    "name": "Find X2 Lite",
    "model": "CPH2005"
+  }
+ ],
+ "OP4C2DL1": [
+  {
+   "brand": "Oppo",
+   "name": "Find X2 Neo/Reno3 Pro",
+   "model": "CPH2009"
+  },
+  {
+   "brand": "Oppo",
+   "name": "Reno3 5G",
+   "model": "A001OP"
+  },
+  {
+   "brand": "Oppo",
+   "name": "Reno3 Pro",
+   "model": "CPH2009"
   }
  ],
  "OP4BA2L1": [
@@ -152354,6 +152383,13 @@
    "model": "Percee TV"
   }
  ],
+ "Seattle": [
+  {
+   "brand": "TCL",
+   "name": "TCL 10 5G",
+   "model": "T790Y"
+  }
+ ],
  "T1_PRO": [
   {
    "brand": "TCL",
@@ -158170,6 +158206,20 @@
    "brand": "TCT (Alcatel)",
    "name": "TAB 7 DUAL CORE",
    "model": "TAB 7 DUAL CORE"
+  }
+ ],
+ "Dubai_Plus_ATT": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "TBC",
+   "model": "Alcatel_5004C"
+  }
+ ],
+ "Seoul_ATT": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "TBD",
+   "model": "Alcatel_5002C"
   }
  ],
  "Seoul_TF": [
@@ -164834,6 +164884,44 @@
    "brand": "VT",
    "name": "MB300",
    "model": "SmartTV"
+  }
+ ],
+ "N10": [
+  {
+   "brand": "VUCATIMES",
+   "name": "N10",
+   "model": "N10"
+  },
+  {
+   "brand": "VUCATIMES",
+   "name": "N10_EEA",
+   "model": "N10"
+  }
+ ],
+ "N7": [
+  {
+   "brand": "VUCATIMES",
+   "name": "N7",
+   "model": "N7"
+  },
+  {
+   "brand": "VUCATIMES",
+   "name": "VUCATIMES",
+   "model": "N7"
+  }
+ ],
+ "N8": [
+  {
+   "brand": "VUCATIMES",
+   "name": "N8",
+   "model": "N8"
+  }
+ ],
+ "N8_EEA": [
+  {
+   "brand": "VUCATIMES",
+   "name": "N8_EEA",
+   "model": "N8_EEA"
   }
  ],
  "TAB0001NG": [

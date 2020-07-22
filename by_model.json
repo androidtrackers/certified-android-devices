@@ -32250,6 +32250,13 @@
    "device": "X12"
   }
  ],
+ "STAB8765B2-16": [
+  {
+   "brand": "Dintech",
+   "name": "STAB8765B2-16",
+   "device": "STAB8765B2-16"
+  }
+ ],
  "AirTV Player": [
   {
    "brand": "Dish",
@@ -32575,6 +32582,16 @@
    "brand": "NOA Mobile",
    "name": "N10",
    "device": "NOA_N10"
+  },
+  {
+   "brand": "VUCATIMES",
+   "name": "N10",
+   "device": "N10"
+  },
+  {
+   "brand": "VUCATIMES",
+   "name": "N10_EEA",
+   "device": "N10"
   }
  ],
  "N100": [
@@ -34859,6 +34876,11 @@
    "brand": "Hisense",
    "name": "E10",
    "device": "HS8909QC"
+  },
+  {
+   "brand": "VUCATIMES",
+   "name": "HAOQIN",
+   "device": "E10"
   }
  ],
  "P11": [
@@ -96427,6 +96449,11 @@
   },
   {
    "brand": "M3 Mobile",
+   "name": "M3SM15N",
+   "device": "M3SM15N"
+  },
+  {
+   "brand": "M3 Mobile",
    "name": "M3SM15N_EEA",
    "device": "M3SM15N"
   }
@@ -96435,6 +96462,11 @@
   {
    "brand": "M3 Mobile",
    "name": "M3 SM15X",
+   "device": "M3SM15X"
+  },
+  {
+   "brand": "M3 Mobile",
+   "name": "M3SM15X",
    "device": "M3SM15X"
   },
   {
@@ -109567,6 +109599,16 @@
    "brand": "NOA Mobile",
    "name": "N7",
    "device": "NOA_N7"
+  },
+  {
+   "brand": "VUCATIMES",
+   "name": "N7",
+   "device": "N7"
+  },
+  {
+   "brand": "VUCATIMES",
+   "name": "VUCATIMES",
+   "device": "N7"
   }
  ],
  "NOA_N8": [
@@ -112905,6 +112947,13 @@
    "device": "OnePlus8Pro"
   }
  ],
+ "AC2003": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord",
+   "device": "Nord"
+  }
+ ],
  "ONEPLUS A5000": [
   {
    "brand": "OnePlus",
@@ -114236,18 +114285,6 @@
    "device": "CPH1909"
   }
  ],
- "CPH2009": [
-  {
-   "brand": "Oppo",
-   "name": "CPH2009",
-   "device": "OP4C2DL1"
-  },
-  {
-   "brand": "Oppo",
-   "name": "Reno3 Pro",
-   "device": "OP4C2DL1"
-  }
- ],
  "CPH1911": [
   {
    "brand": "Oppo",
@@ -114428,6 +114465,18 @@
    "brand": "Oppo",
    "name": "Find X2 Lite",
    "device": "OP4C41L1"
+  }
+ ],
+ "CPH2009": [
+  {
+   "brand": "Oppo",
+   "name": "Find X2 Neo/Reno3 Pro",
+   "device": "OP4C2DL1"
+  },
+  {
+   "brand": "Oppo",
+   "name": "Reno3 Pro",
+   "device": "OP4C2DL1"
   }
  ],
  "CPH2025": [
@@ -157170,6 +157219,13 @@
    "device": "A5A_INFINI"
   }
  ],
+ "T790Y": [
+  {
+   "brand": "TCL",
+   "name": "TCL 10 5G",
+   "device": "Seattle"
+  }
+ ],
  "T782H": [
   {
    "brand": "TCL",
@@ -164828,6 +164884,20 @@
    "device": "T017"
   }
  ],
+ "Alcatel_5004C": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "TBC",
+   "device": "Dubai_Plus_ATT"
+  }
+ ],
+ "Alcatel_5002C": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "TBD",
+   "device": "Seoul_ATT"
+  }
+ ],
  "A507DL": [
   {
    "brand": "TCT (Alcatel)",
@@ -172039,6 +172109,20 @@
    "brand": "VT",
    "name": "MB300",
    "device": "MB300"
+  }
+ ],
+ "N8": [
+  {
+   "brand": "VUCATIMES",
+   "name": "N8",
+   "device": "N8"
+  }
+ ],
+ "N8_EEA": [
+  {
+   "brand": "VUCATIMES",
+   "name": "N8_EEA",
+   "device": "N8_EEA"
   }
  ],
  "TAB0001NG": [
