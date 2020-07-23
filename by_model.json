@@ -10998,6 +10998,20 @@
    "device": "ASUS_Z01QD_1"
   }
  ],
+ "ASUS_I003DD": [
+  {
+   "brand": "Asus",
+   "name": "ROG Phone III",
+   "device": "ASUS_I003_1"
+  }
+ ],
+ "ZS661KS": [
+  {
+   "brand": "Asus",
+   "name": "ROG Phone III",
+   "device": "ASUS_I003_1"
+  }
+ ],
  "ASUS_I001D": [
   {
    "brand": "Asus",
@@ -80498,6 +80512,13 @@
    "device": "lv517"
   }
  ],
+ "LM-K200": [
+  {
+   "brand": "LGE",
+   "name": "K22",
+   "device": "dh0lm"
+  }
+ ],
  "LG-AS110": [
   {
    "brand": "LGE",
@@ -80531,6 +80552,13 @@
    "brand": "LGE",
    "name": "K4 (2017)",
    "device": "lv1"
+  }
+ ],
+ "LM-K420": [
+  {
+   "brand": "LGE",
+   "name": "K42",
+   "device": "meh15lm"
   }
  ],
  "LM-X540": [
@@ -84477,6 +84505,20 @@
    "device": "cv5an"
   }
  ],
+ "LM-Q620": [
+  {
+   "brand": "LGE",
+   "name": "LG Q70",
+   "device": "mh3"
+  }
+ ],
+ "LM-Q730N": [
+  {
+   "brand": "LGE",
+   "name": "LG Q70",
+   "device": "mh3-pl"
+  }
+ ],
  "LM-Q925K": [
   {
    "brand": "LGE",
@@ -84964,6 +85006,11 @@
    "brand": "LGE",
    "name": "LG V60 ThinQ",
    "device": "timelm"
+  },
+  {
+   "brand": "LGE",
+   "name": "V60 ThinQ",
+   "device": "timelm"
   }
  ],
  "LM-V600N": [
@@ -84971,6 +85018,13 @@
    "brand": "LGE",
    "name": "LG V60 ThinQ",
    "device": "timelm"
+  }
+ ],
+ "L-51A": [
+  {
+   "brand": "LGE",
+   "name": "LG V60 ThinQ 5G",
+   "device": "L-51A"
   }
  ],
  "LG-LG730": [
@@ -86539,6 +86593,13 @@
    "device": "cv7an"
   }
  ],
+ "LM-Q920N": [
+  {
+   "brand": "LGE",
+   "name": "Q92",
+   "device": "acelm"
+  }
+ ],
  "801LG": [
   {
    "brand": "LGE",
@@ -87006,6 +87067,13 @@
    "brand": "LGE",
    "name": "V50S ThinQ",
    "device": "mh2lm"
+  }
+ ],
+ "A001LG": [
+  {
+   "brand": "LGE",
+   "name": "V60 ThinQ",
+   "device": "timelm"
   }
  ],
  "LM-G900": [
@@ -97614,6 +97682,13 @@
    "brand": "Zuk",
    "name": "Z1",
    "device": "Z1"
+  }
+ ],
+ "DV6067Y-T": [
+  {
+   "brand": "MagentaTV",
+   "name": "DV6067Y-T",
+   "device": "DV6067Y_TVStick"
   }
  ],
  "OTT-G1": [
@@ -112847,6 +112922,13 @@
    "brand": "OnePlus",
    "name": "X",
    "device": "OnePlus"
+  }
+ ],
+ "ONEPLUS A6000": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 6",
+   "device": "OnePlus6"
   }
  ],
  "ONEPLUS A6003": [
@@ -170844,6 +170926,13 @@
    "device": "QOOQ-V41"
   }
  ],
+ "S10G001S4M_EEA": [
+  {
+   "brand": "UNOWHY",
+   "name": "S10G001S4M_EEA",
+   "device": "S10G001S4M_EEA"
+  }
+ ],
  "SQOOL-V4": [
   {
    "brand": "UNOWHY",
@@ -180253,6 +180342,13 @@
   {
    "brand": "XGIMI",
    "name": "MoGo Pro",
+   "device": "xgimiapollo"
+  }
+ ],
+ "P_FHD_2020": [
+  {
+   "brand": "XGIMI",
+   "name": "P_FHD_2020",
    "device": "xgimiapollo"
   }
  ],

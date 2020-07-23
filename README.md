@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-07-22
+Last sync is 2020-07-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1409,6 +1409,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|R Series Tablet (R1001ML)|ASUS_P00L_M1|P00L|
 |Asus|ROG Phone|ASUS_Z01QD_1|ASUS_Z01QD|
 |Asus|ROG Phone|ASUS_Z01QD_1|ZS600KL|
+|Asus|ROG Phone III|ASUS_I003_1|ASUS_I003DD|
+|Asus|ROG Phone III|ASUS_I003_1|ZS661KS|
 |Asus|ROG Phone ll|ASUS_I001_1|ASUS_I001D|
 |Asus|ROG Phone ll|ASUS_I001_1|ZS660KL|
 |Asus|RTC-700A|RTC-tablet|RTC-tablet|
@@ -11468,12 +11470,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|Intuition|batman_vzw|VS950 4G|
 |LGE|JOJO|L-02K|L-02K|
 |LGE|K20|lv517|RS501|
+|LGE|K22|dh0lm|LM-K200|
 |LGE|K3 2017|lv0|LG-AS110|
 |LGE|K3 2017|lv0|LGUS110|
 |LGE|K30|mh5lm-8m|LM-X320|
 |LGE|K4|lv1|LG-M151|
 |LGE|K4 (2017)|lv1|LGL157BL|
 |LGE|K4 (2017)|lv1|LGL57BL|
+|LGE|K42|meh15lm|LM-K420|
 |LGE|K50S|mmh45lm|LM-X540|
 |LGE|K51|mdh30lm|LM-K500|
 |LGE|K51|mdh30xlm|LM-K500|
@@ -12050,6 +12054,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG Q7+|cv5an|LM-Q727K|
 |LGE|LG Q7+|cv5an|LM-Q727L|
 |LGE|LG Q7+|cv5an|LM-Q727S|
+|LGE|LG Q70|mh3|LM-Q620|
+|LGE|LG Q70|mh3-pl|LM-Q730N|
 |LGE|LG Q9|falcon|LM-Q925K|
 |LGE|LG Q9|falcon|LM-Q925L|
 |LGE|LG Q9|falcon|LM-Q925S|
@@ -12120,6 +12126,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG V50 ThinQ|flashlmdd|LM-V500N|
 |LGE|LG V60 ThinQ|timelm|LM-V600|
 |LGE|LG V60 ThinQ|timelm|LM-V600N|
+|LGE|LG V60 ThinQ 5G|L-51A|L-51A|
 |LGE|LG Venice|u0_cdma|LG-LG730|
 |LGE|LG Viper 4G LTE|cayman|LG-LS840|
 |LGE|LG Volt|my70ds|LG-H422|
@@ -12422,6 +12429,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|Q8|cv7an|LM-Q815K|
 |LGE|Q8|cv7an|LM-Q815L|
 |LGE|Q8|cv7an|LM-Q815S|
+|LGE|Q92|acelm|LM-Q920N|
 |LGE|QStylus|cv7a|801LG|
 |LGE|QStylus|cv7a|LM-Q710XM|
 |LGE|QStylus|mcv7a|LM-Q710.FG|
@@ -12499,6 +12507,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|V50 ThinQ|flashlm|LM-V450|
 |LGE|V50 ThinQ|flashlmdd|LM-V500|
 |LGE|V50S ThinQ|mh2lm|LM-V510N|
+|LGE|V60 ThinQ|timelm|A001LG|
+|LGE|V60 ThinQ|timelm|LM-V600|
 |LGE|VELVET|caymanlm|LM-G900|
 |LGE|VELVET|caymanlm|LM-G900N|
 |LGE|VELVET|caymanslm|LM-G910|
@@ -14085,6 +14095,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mafe|M825|M825|M825|
 |Mafe|M8_Plus|M8_Plus|M8_Plus|
 |Mafe|Z1|Z1|Z1|
+|MagentaTV|DV6067Y-T|DV6067Y_TVStick|DV6067Y-T|
 |MagentaTV|OTT-G1|DV6067Y|OTT-G1|
 |Majestic|TAB 611 3G|TAB_611_3G|TAB 611 3G|
 |Majestic|TAB-714|TAB-714|TAB-714|
@@ -16425,6 +16436,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|One|A0001|A0001|
 |OnePlus|One|A0001|One|
 |OnePlus|OnePlus|OnePlus|ONE E1003|
+|OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6000|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6003|
 |OnePlus|OnePlus 7|OnePlus7|GM1905|
 |OnePlus|OnePlus 7 Pro|OP7ProNRSpr|GM1925|
@@ -25089,6 +25101,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |UNITED TV|LED32HS72A9|ikebukuro|AI PONT|
 |UNOWHY|QOOQ|QOOQ|QOOQ|
 |UNOWHY|QOOQ|QOOQ-V41|QOOQ-V41|
+|UNOWHY|S10G001S4M_EEA|S10G001S4M_EEA|S10G001S4M_EEA|
 |UNOWHY|SQOOL-V4|SQOOL-V4|SQOOL-V4|
 |UNOWHY|UNOWHY|QOOQ-V50|QOOQ-V50|
 |UNOWHY|UNOWHY|SQOOL-V41|SQOOL-V41|
@@ -26588,6 +26601,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |XGIMI|Halo|xgimiapollo|Halo|
 |XGIMI|MoGo|xgimiapollo|MoGo|
 |XGIMI|MoGo Pro|xgimiapollo|MoGo Pro|
+|XGIMI|P_FHD_2020|xgimiapollo|P_FHD_2020|
 |XL Axiata|AX512|DV8252|AX512|
 |XL Axiata|XL Home Pow|STI6xxx|STI6030|
 |XTRATECH_IGUANAPAD|X8MT16|X8MT16|X8MT16|

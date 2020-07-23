@@ -11578,6 +11578,18 @@
    "model": "ZS600KL"
   }
  ],
+ "ASUS_I003_1": [
+  {
+   "brand": "Asus",
+   "name": "ROG Phone III",
+   "model": "ASUS_I003DD"
+  },
+  {
+   "brand": "Asus",
+   "name": "ROG Phone III",
+   "model": "ZS661KS"
+  }
+ ],
  "ASUS_I001_1": [
   {
    "brand": "Asus",
@@ -78288,6 +78300,13 @@
    "model": "VS501"
   }
  ],
+ "dh0lm": [
+  {
+   "brand": "LGE",
+   "name": "K22",
+   "model": "LM-K200"
+  }
+ ],
  "lv0": [
   {
    "brand": "LGE",
@@ -78320,6 +78339,13 @@
    "brand": "LGE",
    "name": "LG K30",
    "model": "LM-X320"
+  }
+ ],
+ "meh15lm": [
+  {
+   "brand": "LGE",
+   "name": "K42",
+   "model": "LM-K420"
   }
  ],
  "mmh45lm": [
@@ -81686,6 +81712,20 @@
    "model": "LM-Q727S"
   }
  ],
+ "mh3": [
+  {
+   "brand": "LGE",
+   "name": "LG Q70",
+   "model": "LM-Q620"
+  }
+ ],
+ "mh3-pl": [
+  {
+   "brand": "LGE",
+   "name": "LG Q70",
+   "model": "LM-Q730N"
+  }
+ ],
  "d2": [
   {
    "brand": "LGE",
@@ -82022,6 +82062,23 @@
    "brand": "LGE",
    "name": "LG V60 ThinQ",
    "model": "LM-V600N"
+  },
+  {
+   "brand": "LGE",
+   "name": "V60 ThinQ",
+   "model": "A001LG"
+  },
+  {
+   "brand": "LGE",
+   "name": "V60 ThinQ",
+   "model": "LM-V600"
+  }
+ ],
+ "L-51A": [
+  {
+   "brand": "LGE",
+   "name": "LG V60 ThinQ 5G",
+   "model": "L-51A"
   }
  ],
  "my70ds": [
@@ -83445,6 +83502,13 @@
    "brand": "LGE",
    "name": "Q8",
    "model": "LM-Q815S"
+  }
+ ],
+ "acelm": [
+  {
+   "brand": "LGE",
+   "name": "Q92",
+   "model": "LM-Q920N"
   }
  ],
  "JSG": [
@@ -94292,6 +94356,13 @@
    "brand": "Mafe",
    "name": "M8_Plus",
    "model": "M8_Plus"
+  }
+ ],
+ "DV6067Y_TVStick": [
+  {
+   "brand": "MagentaTV",
+   "name": "DV6067Y-T",
+   "model": "DV6067Y-T"
   }
  ],
  "DV6067Y": [
@@ -109429,6 +109500,11 @@
   }
  ],
  "OnePlus6": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 6",
+   "model": "ONEPLUS A6000"
+  },
   {
    "brand": "OnePlus",
    "name": "OnePlus 6",
@@ -163657,6 +163733,13 @@
    "model": "QOOQ-V41"
   }
  ],
+ "S10G001S4M_EEA": [
+  {
+   "brand": "UNOWHY",
+   "name": "S10G001S4M_EEA",
+   "model": "S10G001S4M_EEA"
+  }
+ ],
  "SQOOL-V4": [
   {
    "brand": "UNOWHY",
@@ -172931,6 +173014,11 @@
    "brand": "XGIMI",
    "name": "MoGo Pro",
    "model": "MoGo Pro"
+  },
+  {
+   "brand": "XGIMI",
+   "name": "P_FHD_2020",
+   "model": "P_FHD_2020"
   }
  ],
  "DV8252": [

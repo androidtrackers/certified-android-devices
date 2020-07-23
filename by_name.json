@@ -16457,6 +16457,18 @@
    "model": "ZS600KL"
   }
  ],
+ "ROG Phone III": [
+  {
+   "brand": "Asus",
+   "device": "ASUS_I003_1",
+   "model": "ASUS_I003DD"
+  },
+  {
+   "brand": "Asus",
+   "device": "ASUS_I003_1",
+   "model": "ZS661KS"
+  }
+ ],
  "ROG Phone ll": [
   {
    "brand": "Asus",
@@ -79007,6 +79019,11 @@
    "brand": "Komu",
    "device": "K22",
    "model": "K22"
+  },
+  {
+   "brand": "LGE",
+   "device": "dh0lm",
+   "model": "LM-K200"
   }
  ],
  "CITY": [
@@ -81076,6 +81093,13 @@
    "brand": "LGE",
    "device": "lv1",
    "model": "LGL57BL"
+  }
+ ],
+ "K42": [
+  {
+   "brand": "LGE",
+   "device": "meh15lm",
+   "model": "LM-K420"
   }
  ],
  "K50S": [
@@ -84316,6 +84340,18 @@
    "model": "LM-Q727S"
   }
  ],
+ "LG Q70": [
+  {
+   "brand": "LGE",
+   "device": "mh3",
+   "model": "LM-Q620"
+  },
+  {
+   "brand": "LGE",
+   "device": "mh3-pl",
+   "model": "LM-Q730N"
+  }
+ ],
  "LG Q9": [
   {
    "brand": "LGE",
@@ -84736,6 +84772,13 @@
    "brand": "LGE",
    "device": "timelm",
    "model": "LM-V600N"
+  }
+ ],
+ "LG V60 ThinQ 5G": [
+  {
+   "brand": "LGE",
+   "device": "L-51A",
+   "model": "L-51A"
   }
  ],
  "LG Venice": [
@@ -86464,6 +86507,13 @@
    "model": "LM-Q815S"
   }
  ],
+ "Q92": [
+  {
+   "brand": "LGE",
+   "device": "acelm",
+   "model": "LM-Q920N"
+  }
+ ],
  "QStylus": [
   {
    "brand": "LGE",
@@ -86821,6 +86871,18 @@
    "brand": "LGE",
    "device": "mh2lm",
    "model": "LM-V510N"
+  }
+ ],
+ "V60 ThinQ": [
+  {
+   "brand": "LGE",
+   "device": "timelm",
+   "model": "A001LG"
+  },
+  {
+   "brand": "LGE",
+   "device": "timelm",
+   "model": "LM-V600"
   }
  ],
  "VELVET": [
@@ -96406,6 +96468,13 @@
    "brand": "Zuk",
    "device": "k9",
    "model": "ZUK Z1"
+  }
+ ],
+ "DV6067Y-T": [
+  {
+   "brand": "MagentaTV",
+   "device": "DV6067Y_TVStick",
+   "model": "DV6067Y-T"
   }
  ],
  "OTT-G1": [
@@ -110350,6 +110419,11 @@
   }
  ],
  "OnePlus 6": [
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus6",
+   "model": "ONEPLUS A6000"
+  },
   {
    "brand": "OnePlus",
    "device": "OnePlus6",
@@ -161223,6 +161297,13 @@
    "model": "QOOQ-V41"
   }
  ],
+ "S10G001S4M_EEA": [
+  {
+   "brand": "UNOWHY",
+   "device": "S10G001S4M_EEA",
+   "model": "S10G001S4M_EEA"
+  }
+ ],
  "SQOOL-V4": [
   {
    "brand": "UNOWHY",
@@ -170454,6 +170535,13 @@
    "brand": "XGIMI",
    "device": "xgimiapollo",
    "model": "MoGo Pro"
+  }
+ ],
+ "P_FHD_2020": [
+  {
+   "brand": "XGIMI",
+   "device": "xgimiapollo",
+   "model": "P_FHD_2020"
   }
  ],
  "AX512": [
