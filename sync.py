@@ -3,6 +3,7 @@
 
 import difflib
 import json
+import codecs
 from datetime import date
 from os import rename, path, system, environ
 from requests import get, post
@@ -107,7 +108,7 @@ def fetch():
     """
     url = "http://storage.googleapis.com/play_public/supported_devices.csv"
     response = get(url)
-    data = (response.content.decode('utf-16'))
+    data = codecs.escape_decode(response.content)[0].decode('utf-16')
     data_list = list(data.split('\n'))
     return data_list
 
