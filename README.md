@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-07-23
+Last sync is 2020-07-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9911,6 +9911,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinity|Infinity|Infinity|Infinity|
 |Infinix|32X1|ikebukuro|AI PONT|
 |Infinix|Africa & Asia Pacific|samseong|AI PONT|
+|Infinix|HOT 10 lite|Infinix-X657B|Infinix X657B|
 |Infinix|HOT 2|Infinix_X510|Infinix X510|
 |Infinix|HOT 3|INFINIX-X554|Infinix HOT 3 Pro|
 |Infinix|HOT 3|INFINIX-X554|Infinix-X554|
@@ -21397,6 +21398,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Flip|bloomq|SM-F700U|
 |Samsung|Galaxy Z Flip|bloomq|SM-F700U1|
 |Samsung|Galaxy Z Flip|bloomq|SM-F700W|
+|Samsung|Galaxy Z Flip 5G|bloomxq|SM-F7070|
+|Samsung|Galaxy Z Flip 5G|bloomxq|SM-F707B|
+|Samsung|Galaxy Z Flip 5G|bloomxq|SM-F707N|
+|Samsung|Galaxy Z Flip 5G|bloomxq|SM-F707U|
+|Samsung|Galaxy Z Flip 5G|bloomxq|SM-F707U1|
+|Samsung|Galaxy Z Flip 5G|bloomxq|SM-F707W|
 |Samsung|Galaxy player 70 Plus|YP-GB70D|YP-GB70D|
 |Samsung|Galaxy view|gvltektt|SM-T677NK|
 |Samsung|Galaxy view|gvltelgt|SM-T677NL|
@@ -23736,6 +23743,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002U|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002X|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002X_EEA|
+|TCT (Alcatel)|Alcatel 1C|Curie|5003A|
 |TCT (Alcatel)|Alcatel 1C|Curie|5003D|
 |TCT (Alcatel)|Alcatel 1C|Curie|5003D_EEA|
 |TCT (Alcatel)|Alcatel 1C|Curie|Listo SP50|

@@ -69774,6 +69774,13 @@
    "device": "Infinity"
   }
  ],
+ "Infinix X657B": [
+  {
+   "brand": "Infinix",
+   "name": "HOT 10 lite",
+   "device": "Infinix-X657B"
+  }
+ ],
  "Infinix X510": [
   {
    "brand": "Infinix",
@@ -146335,6 +146342,48 @@
    "device": "bloomq"
   }
  ],
+ "SM-F7070": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Flip 5G",
+   "device": "bloomxq"
+  }
+ ],
+ "SM-F707B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Flip 5G",
+   "device": "bloomxq"
+  }
+ ],
+ "SM-F707N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Flip 5G",
+   "device": "bloomxq"
+  }
+ ],
+ "SM-F707U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Flip 5G",
+   "device": "bloomxq"
+  }
+ ],
+ "SM-F707U1": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Flip 5G",
+   "device": "bloomxq"
+  }
+ ],
+ "SM-F707W": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Flip 5G",
+   "device": "bloomxq"
+  }
+ ],
  "YP-GB70D": [
   {
    "brand": "Samsung",
@@ -161975,6 +162024,13 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1B",
    "device": "Seoul"
+  }
+ ],
+ "5003A": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1C",
+   "device": "Curie"
   }
  ],
  "5003D": [

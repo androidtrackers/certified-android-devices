@@ -50961,6 +50961,11 @@
    "model": "AI PONT"
   },
   {
+   "device": "Infinix-X657B",
+   "name": "HOT 10 lite",
+   "model": "Infinix X657B"
+  },
+  {
    "device": "Infinix_X510",
    "name": "HOT 2",
    "model": "Infinix X510"
@@ -109587,6 +109592,36 @@
    "model": "SM-F700W"
   },
   {
+   "device": "bloomxq",
+   "name": "Galaxy Z Flip 5G",
+   "model": "SM-F7070"
+  },
+  {
+   "device": "bloomxq",
+   "name": "Galaxy Z Flip 5G",
+   "model": "SM-F707B"
+  },
+  {
+   "device": "bloomxq",
+   "name": "Galaxy Z Flip 5G",
+   "model": "SM-F707N"
+  },
+  {
+   "device": "bloomxq",
+   "name": "Galaxy Z Flip 5G",
+   "model": "SM-F707U"
+  },
+  {
+   "device": "bloomxq",
+   "name": "Galaxy Z Flip 5G",
+   "model": "SM-F707U1"
+  },
+  {
+   "device": "bloomxq",
+   "name": "Galaxy Z Flip 5G",
+   "model": "SM-F707W"
+  },
+  {
    "device": "YP-GB70D",
    "name": "Galaxy player 70 Plus",
    "model": "YP-GB70D"
@@ -121528,6 +121563,11 @@
    "device": "Seoul",
    "name": "Alcatel 1B",
    "model": "5002X_EEA"
+  },
+  {
+   "device": "Curie",
+   "name": "Alcatel 1C",
+   "model": "5003A"
   },
   {
    "device": "Curie",
