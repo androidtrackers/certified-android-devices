@@ -15838,6 +15838,18 @@
    "model": "P002"
   }
  ],
+ "Asus ROG Phone 3": [
+  {
+   "brand": "Asus",
+   "device": "ASUS_I003_1",
+   "model": "ASUS_I003DD"
+  },
+  {
+   "brand": "Asus",
+   "device": "ASUS_I003_1",
+   "model": "ZS661KS"
+  }
+ ],
  "Chromebook C202SA/C300SA/C301SA": [
   {
    "brand": "Asus",
@@ -16455,18 +16467,6 @@
    "brand": "Asus",
    "device": "ASUS_Z01QD_1",
    "model": "ZS600KL"
-  }
- ],
- "ROG Phone III": [
-  {
-   "brand": "Asus",
-   "device": "ASUS_I003_1",
-   "model": "ASUS_I003DD"
-  },
-  {
-   "brand": "Asus",
-   "device": "ASUS_I003_1",
-   "model": "ZS661KS"
   }
  ],
  "ROG Phone ll": [
@@ -86678,6 +86678,11 @@
   },
   {
    "brand": "TCT (Alcatel)",
+   "device": "Seoul_ATT",
+   "model": "Alcatel_5002R"
+  },
+  {
+   "brand": "TCT (Alcatel)",
    "device": "Seoul_TF",
    "model": "A507DL"
   }
@@ -122946,6 +122951,13 @@
    "brand": "Wiko",
    "device": "W_P200",
    "model": "View Max"
+  }
+ ],
+ "View Max Pro": [
+  {
+   "brand": "Qsmart",
+   "device": "View_Max_Pro",
+   "model": "View Max Pro"
   }
  ],
  "i10 2019": [

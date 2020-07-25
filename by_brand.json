@@ -6798,6 +6798,16 @@
    "model": "P002"
   },
   {
+   "device": "ASUS_I003_1",
+   "name": "Asus ROG Phone 3",
+   "model": "ASUS_I003DD"
+  },
+  {
+   "device": "ASUS_I003_1",
+   "name": "Asus ROG Phone 3",
+   "model": "ZS661KS"
+  },
+  {
    "device": "terra_cheets",
    "name": "Chromebook C202SA/C300SA/C301SA",
    "model": "ASUS Chromebook C202SA"
@@ -7251,16 +7261,6 @@
    "device": "ASUS_Z01QD_1",
    "name": "ROG Phone",
    "model": "ZS600KL"
-  },
-  {
-   "device": "ASUS_I003_1",
-   "name": "ROG Phone III",
-   "model": "ASUS_I003DD"
-  },
-  {
-   "device": "ASUS_I003_1",
-   "name": "ROG Phone III",
-   "model": "ZS661KS"
   },
   {
    "device": "ASUS_I001_1",
@@ -94479,6 +94479,11 @@
    "model": "View Max"
   },
   {
+   "device": "View_Max_Pro",
+   "name": "View Max Pro",
+   "model": "View Max Pro"
+  },
+  {
    "device": "i10_2019",
    "name": "i10 2019",
    "model": "i10 2019"
@@ -123798,6 +123803,11 @@
    "device": "Seoul_ATT",
    "name": "TBD",
    "model": "Alcatel_5002C"
+  },
+  {
+   "device": "Seoul_ATT",
+   "name": "TBD",
+   "model": "Alcatel_5002R"
   },
   {
    "device": "Seoul_TF",

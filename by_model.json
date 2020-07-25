@@ -10386,6 +10386,20 @@
    "device": "P002_2"
   }
  ],
+ "ASUS_I003DD": [
+  {
+   "brand": "Asus",
+   "name": "Asus ROG Phone 3",
+   "device": "ASUS_I003_1"
+  }
+ ],
+ "ZS661KS": [
+  {
+   "brand": "Asus",
+   "name": "Asus ROG Phone 3",
+   "device": "ASUS_I003_1"
+  }
+ ],
  "ASUS Chromebook C202SA": [
   {
    "brand": "Asus",
@@ -10996,20 +11010,6 @@
    "brand": "Asus",
    "name": "ROG Phone",
    "device": "ASUS_Z01QD_1"
-  }
- ],
- "ASUS_I003DD": [
-  {
-   "brand": "Asus",
-   "name": "ROG Phone III",
-   "device": "ASUS_I003_1"
-  }
- ],
- "ZS661KS": [
-  {
-   "brand": "Asus",
-   "name": "ROG Phone III",
-   "device": "ASUS_I003_1"
   }
  ],
  "ASUS_I001D": [
@@ -125943,6 +125943,13 @@
    "device": "Smart_HD_Pro"
   }
  ],
+ "View Max Pro": [
+  {
+   "brand": "Qsmart",
+   "name": "View Max Pro",
+   "device": "View_Max_Pro"
+  }
+ ],
  "i10 2019": [
   {
    "brand": "Qsmart",
@@ -165030,6 +165037,13 @@
   }
  ],
  "Alcatel_5002C": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "TBD",
+   "device": "Seoul_ATT"
+  }
+ ],
+ "Alcatel_5002R": [
   {
    "brand": "TCT (Alcatel)",
    "name": "TBD",

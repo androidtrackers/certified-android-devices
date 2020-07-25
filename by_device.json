@@ -10886,6 +10886,18 @@
    "model": "P002"
   }
  ],
+ "ASUS_I003_1": [
+  {
+   "brand": "Asus",
+   "name": "Asus ROG Phone 3",
+   "model": "ASUS_I003DD"
+  },
+  {
+   "brand": "Asus",
+   "name": "Asus ROG Phone 3",
+   "model": "ZS661KS"
+  }
+ ],
  "terra_cheets": [
   {
    "brand": "Asus",
@@ -11576,18 +11588,6 @@
    "brand": "Asus",
    "name": "ROG Phone",
    "model": "ZS600KL"
-  }
- ],
- "ASUS_I003_1": [
-  {
-   "brand": "Asus",
-   "name": "ROG Phone III",
-   "model": "ASUS_I003DD"
-  },
-  {
-   "brand": "Asus",
-   "name": "ROG Phone III",
-   "model": "ZS661KS"
   }
  ],
  "ASUS_I001_1": [
@@ -122234,6 +122234,13 @@
    "model": "View Max"
   }
  ],
+ "View_Max_Pro": [
+  {
+   "brand": "Qsmart",
+   "name": "View Max Pro",
+   "model": "View Max Pro"
+  }
+ ],
  "i10_2019": [
   {
    "brand": "Qsmart",
@@ -158340,6 +158347,11 @@
    "brand": "TCT (Alcatel)",
    "name": "TBD",
    "model": "Alcatel_5002C"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "TBD",
+   "model": "Alcatel_5002R"
   }
  ],
  "Seoul_TF": [

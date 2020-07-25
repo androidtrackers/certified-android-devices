@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-07-24
+Last sync is 2020-07-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1318,6 +1318,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ASUSPRO Tablet (M1000CL)|P01T_M|P01T|
 |Asus|ASUSPRO Tablet (M700C)|P01W_M|P01W|
 |Asus|ASUSPRO Tablet (M700KL)|P002_M|P002|
+|Asus|Asus ROG Phone 3|ASUS_I003_1|ASUS_I003DD|
+|Asus|Asus ROG Phone 3|ASUS_I003_1|ZS661KS|
 |Asus|Chromebook C202SA/C300SA/C301SA|terra_cheets|ASUS Chromebook C202SA|
 |Asus|Chromebook Flip C100PA|minnie_cheets|ASUS Chromebook Flip C100PA|
 |Asus|Chromebook Flip C101PA|bob_cheets|ASUS Chromebook Flip C101PA|
@@ -1409,8 +1411,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|R Series Tablet (R1001ML)|ASUS_P00L_M1|P00L|
 |Asus|ROG Phone|ASUS_Z01QD_1|ASUS_Z01QD|
 |Asus|ROG Phone|ASUS_Z01QD_1|ZS600KL|
-|Asus|ROG Phone III|ASUS_I003_1|ASUS_I003DD|
-|Asus|ROG Phone III|ASUS_I003_1|ZS661KS|
 |Asus|ROG Phone ll|ASUS_I001_1|ASUS_I001D|
 |Asus|ROG Phone ll|ASUS_I001_1|ZS660KL|
 |Asus|RTC-700A|RTC-tablet|RTC-tablet|
@@ -18411,6 +18411,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Qsmart|Smart HD Pro|Smart_HD_Pro|Smart HD Pro|
 |Qsmart|View|View|View|
 |Qsmart|View Max|View_Max|View Max|
+|Qsmart|View Max Pro|View_Max_Pro|View Max Pro|
 |Qsmart|i10 2019|i10_2019|i10 2019|
 |Qsmart|i10_2020|i10_2020|i10 2020|
 |Qsmart|i5i 2019|QSmart_i5i_2019|QSmart i5i 2019|
@@ -24190,6 +24191,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|TAB 7 DUAL CORE|T017|TAB 7 DUAL CORE|
 |TCT (Alcatel)|TBC|Dubai_Plus_ATT|Alcatel_5004C|
 |TCT (Alcatel)|TBD|Seoul_ATT|Alcatel_5002C|
+|TCT (Alcatel)|TBD|Seoul_ATT|Alcatel_5002R|
 |TCT (Alcatel)|TBD|Seoul_TF|A507DL|
 |TCT (Alcatel)|TCL 10 5G UW|Seattle_VZW|T790S|
 |TCT (Alcatel)|TCL 302U|Festa5_CU|TCL 302U|
