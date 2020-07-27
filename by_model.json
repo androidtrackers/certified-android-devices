@@ -6737,6 +6737,13 @@
    "device": "Amigo7xESP"
   }
  ],
+ "GO Android TV Box": [
+  {
+   "brand": "Aminocom",
+   "name": "Amigo7xGM",
+   "device": "Amigo7xGM"
+  }
+ ],
  "Amigo7xSCB": [
   {
    "brand": "Aminocom",
@@ -10386,20 +10393,6 @@
    "device": "P002_2"
   }
  ],
- "ASUS_I003DD": [
-  {
-   "brand": "Asus",
-   "name": "Asus ROG Phone 3",
-   "device": "ASUS_I003_1"
-  }
- ],
- "ZS661KS": [
-  {
-   "brand": "Asus",
-   "name": "Asus ROG Phone 3",
-   "device": "ASUS_I003_1"
-  }
- ],
  "ASUS Chromebook C202SA": [
   {
    "brand": "Asus",
@@ -11010,6 +11003,20 @@
    "brand": "Asus",
    "name": "ROG Phone",
    "device": "ASUS_Z01QD_1"
+  }
+ ],
+ "ASUS_I003DD": [
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 3",
+   "device": "ASUS_I003_1"
+  }
+ ],
+ "ZS661KS": [
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 3",
+   "device": "ASUS_I003_1"
   }
  ],
  "ASUS_I001D": [
@@ -22302,6 +22309,11 @@
  "S20": [
   {
    "brand": "Casper",
+   "name": "S20",
+   "device": "S20"
+  },
+  {
+   "brand": "G-Tab",
    "name": "S20",
    "device": "S20"
   },
@@ -106303,6 +106315,13 @@
    "device": "pokerp"
   }
  ],
+ "moto g 5G plus": [
+  {
+   "brand": "Motorola",
+   "name": "moto g 5G plus",
+   "device": "nairo"
+  }
+ ],
  "moto g fast": [
   {
    "brand": "Motorola",
@@ -110526,7 +110545,7 @@
  "D2140": [
   {
    "brand": "Nebula",
-   "name": "D2140-Cosmos",
+   "name": "D2140",
    "device": "D2140-Cosmos"
   }
  ],
@@ -116494,6 +116513,13 @@
    "brand": "Oukitel",
    "name": "C19",
    "device": "C19"
+  }
+ ],
+ "C19 Pro": [
+  {
+   "brand": "Oukitel",
+   "name": "C19 Pro",
+   "device": "C19_Pro"
   }
  ],
  "C6 Pro": [
@@ -157539,6 +157565,13 @@
    "device": "Seoul"
   }
  ],
+ "5102P": [
+  {
+   "brand": "TCL",
+   "name": "TCL L7",
+   "device": "Seoul"
+  }
+ ],
  "5159A": [
   {
    "brand": "TCL",
@@ -161936,6 +161969,13 @@
   }
  ],
  "5002A": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1B",
+   "device": "Seoul"
+  }
+ ],
+ "5002B": [
   {
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1B",
@@ -191729,6 +191769,13 @@
    "brand": "ZTE",
    "name": "ZTE Blade V1000RU",
    "device": "P671F20D"
+  }
+ ],
+ "ZTE 8000": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade V2020 Vita",
+   "device": "P671F70"
   }
  ],
  "ZTE Blade V8 Arc": [

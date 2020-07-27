@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-07-26
+Last sync is 2020-07-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -822,6 +822,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aminocom|Amigo|Amigo|Amigo7|
 |Aminocom|Amigo7x|Amigo7x|Amigo7x|
 |Aminocom|Amigo7xESP|Amigo7xESP|Amigo7xESP|
+|Aminocom|Amigo7xGM|Amigo7xGM|GO Android TV Box|
 |Aminocom|Amigo7xSCB|Amigo7xSCB|Amigo7xSCB|
 |Aminocom|Amigo7xcCN|Amigo7xcCN|Amigo7xcCN|
 |Aminocom|Kamai 7B|Kamai7B|Kamai7B|
@@ -1318,8 +1319,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ASUSPRO Tablet (M1000CL)|P01T_M|P01T|
 |Asus|ASUSPRO Tablet (M700C)|P01W_M|P01W|
 |Asus|ASUSPRO Tablet (M700KL)|P002_M|P002|
-|Asus|Asus ROG Phone 3|ASUS_I003_1|ASUS_I003DD|
-|Asus|Asus ROG Phone 3|ASUS_I003_1|ZS661KS|
 |Asus|Chromebook C202SA/C300SA/C301SA|terra_cheets|ASUS Chromebook C202SA|
 |Asus|Chromebook Flip C100PA|minnie_cheets|ASUS Chromebook Flip C100PA|
 |Asus|Chromebook Flip C101PA|bob_cheets|ASUS Chromebook Flip C101PA|
@@ -1411,6 +1410,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|R Series Tablet (R1001ML)|ASUS_P00L_M1|P00L|
 |Asus|ROG Phone|ASUS_Z01QD_1|ASUS_Z01QD|
 |Asus|ROG Phone|ASUS_Z01QD_1|ZS600KL|
+|Asus|ROG Phone 3|ASUS_I003_1|ASUS_I003DD|
+|Asus|ROG Phone 3|ASUS_I003_1|ZS661KS|
 |Asus|ROG Phone ll|ASUS_I001_1|ASUS_I001D|
 |Asus|ROG Phone ll|ASUS_I001_1|ZS660KL|
 |Asus|RTC-700A|RTC-tablet|RTC-tablet|
@@ -5618,6 +5619,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Tab|Q4|Q4|Q4|
 |G-Tab|Q69|Q69|Q69|
 |G-Tab|S10|S10|S10|
+|G-Tab|S20|S20|S20|
 |G-TiDE|EXTREME X9|EXTREME_X9|EXTREME X9|
 |G-TiDE|FANS7|FANS7|G-TiDE FANS7|
 |G-TiDE EXTREME|EX10|EX10|EX10|
@@ -15402,6 +15404,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto e6s|fiji|moto e6s|
 |Motorola|moto e⁶ plus|pokerp|moto e(6) plus|
 |Motorola|moto e⁶ˢ|pokerp|moto e(6s)|
+|Motorola|moto g 5G plus|nairo|moto g 5G plus|
 |Motorola|moto g fast|rav|moto g fast|
 |Motorola|moto g power|sofia|moto g power|
 |Motorola|moto g power (XT2041DL)|sofia|moto g power (XT2041DL)|
@@ -16054,7 +16057,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Naxa|Naxa|NID_7055|NID-7055|
 |Ncredible|NV8|NV8|NV8|
 |Ncredible|NV8-HD|NV8-HD|NV8|
-|Nebula|D2140-Cosmos|D2140-Cosmos|D2140|
+|Nebula|D2140|D2140-Cosmos|D2140|
 |Nebula|D2150|D2140-Cosmos|D2150|
 |Nebula|D2241|DM8260|D2241|
 |Nebula|D2421|DM8261|D2421|
@@ -16969,6 +16972,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|C17 Pro|C17_Pro|C17 Pro|
 |Oukitel|C18 Pro|C18_Pro|C18_Pro|
 |Oukitel|C19|C19|C19|
+|Oukitel|C19 Pro|C19_Pro|C19 Pro|
 |Oukitel|C6 Pro|C6_Pro|C6 Pro|
 |Oukitel|C8|C8|C8|
 |Oukitel|C8 4G|C8_4G|C8 4G|
@@ -23109,6 +23113,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL L5|U3A_PLUS_4G|5133A|
 |TCL|TCL L7|Seoul|5102I|
 |TCL|TCL L7|Seoul|5102M|
+|TCL|TCL L7|Seoul|5102P|
 |TCL|TCL L9|U5A_PLUS_4G|5159A|
 |TCL|TCL L9|U5A_PLUS_4G|5159J|
 |TCL|TCL L9 Plus|Wright|5101A|
@@ -23731,6 +23736,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1|U3A_PLUS_4G|Orange Rise 54_Alcatel_5033D|
 |TCT (Alcatel)|Alcatel 1A|Seoul|5002F_RU|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002A|
+|TCT (Alcatel)|Alcatel 1B|Seoul|5002B|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002D|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002D_EEA|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002D_RU|
@@ -28320,6 +28326,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade V1000|P671F20|ZTE Blade V10|
 |ZTE|ZTE Blade V1000|P671F20|ZTE Blade V1000|
 |ZTE|ZTE Blade V1000RU|P671F20D|ZTE Blade V1000RU|
+|ZTE|ZTE Blade V2020 Vita|P671F70|ZTE 8000|
 |ZTE|ZTE Blade V770|P852F52|ZTE Blade V770|
 |ZTE|ZTE Blade V8 Arc|P840V80|ZTE Blade V8 Arc|
 |ZTE|ZTE Blade V9|P450S10|ZTE V0900|

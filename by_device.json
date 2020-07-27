@@ -7105,6 +7105,13 @@
    "model": "Amigo7xESP"
   }
  ],
+ "Amigo7xGM": [
+  {
+   "brand": "Aminocom",
+   "name": "Amigo7xGM",
+   "model": "GO Android TV Box"
+  }
+ ],
  "Amigo7xSCB": [
   {
    "brand": "Aminocom",
@@ -10886,18 +10893,6 @@
    "model": "P002"
   }
  ],
- "ASUS_I003_1": [
-  {
-   "brand": "Asus",
-   "name": "Asus ROG Phone 3",
-   "model": "ASUS_I003DD"
-  },
-  {
-   "brand": "Asus",
-   "name": "Asus ROG Phone 3",
-   "model": "ZS661KS"
-  }
- ],
  "terra_cheets": [
   {
    "brand": "Asus",
@@ -11588,6 +11583,18 @@
    "brand": "Asus",
    "name": "ROG Phone",
    "model": "ZS600KL"
+  }
+ ],
+ "ASUS_I003_1": [
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 3",
+   "model": "ASUS_I003DD"
+  },
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 3",
+   "model": "ZS661KS"
   }
  ],
  "ASUS_I001_1": [
@@ -22697,6 +22704,11 @@
  "S20": [
   {
    "brand": "Casper",
+   "name": "S20",
+   "model": "S20"
+  },
+  {
+   "brand": "G-Tab",
    "name": "S20",
    "model": "S20"
   },
@@ -102827,6 +102839,13 @@
    "model": "moto e6 play"
   }
  ],
+ "nairo": [
+  {
+   "brand": "Motorola",
+   "name": "moto g 5G plus",
+   "model": "moto g 5G plus"
+  }
+ ],
  "rav": [
   {
    "brand": "Motorola",
@@ -107167,7 +107186,7 @@
  "D2140-Cosmos": [
   {
    "brand": "Nebula",
-   "name": "D2140-Cosmos",
+   "name": "D2140",
    "model": "D2140"
   },
   {
@@ -113043,6 +113062,13 @@
    "brand": "Oukitel",
    "name": "C19",
    "model": "C19"
+  }
+ ],
+ "C19_Pro": [
+  {
+   "brand": "Oukitel",
+   "name": "C19 Pro",
+   "model": "C19 Pro"
   }
  ],
  "C6_Pro": [
@@ -152939,6 +152965,11 @@
    "model": "5102M"
   },
   {
+   "brand": "TCL",
+   "name": "TCL L7",
+   "model": "5102P"
+  },
+  {
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1A",
    "model": "5002F_RU"
@@ -152947,6 +152978,11 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1B",
    "model": "5002A"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1B",
+   "model": "5002B"
   },
   {
    "brand": "TCT (Alcatel)",
@@ -182720,6 +182756,13 @@
    "brand": "ZTE",
    "name": "ZTE Blade V1000RU",
    "model": "ZTE Blade V1000RU"
+  }
+ ],
+ "P671F70": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade V2020 Vita",
+   "model": "ZTE 8000"
   }
  ],
  "P840V80": [

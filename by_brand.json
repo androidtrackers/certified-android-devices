@@ -4256,6 +4256,11 @@
    "model": "Amigo7xESP"
   },
   {
+   "device": "Amigo7xGM",
+   "name": "Amigo7xGM",
+   "model": "GO Android TV Box"
+  },
+  {
    "device": "Amigo7xSCB",
    "name": "Amigo7xSCB",
    "model": "Amigo7xSCB"
@@ -6798,16 +6803,6 @@
    "model": "P002"
   },
   {
-   "device": "ASUS_I003_1",
-   "name": "Asus ROG Phone 3",
-   "model": "ASUS_I003DD"
-  },
-  {
-   "device": "ASUS_I003_1",
-   "name": "Asus ROG Phone 3",
-   "model": "ZS661KS"
-  },
-  {
    "device": "terra_cheets",
    "name": "Chromebook C202SA/C300SA/C301SA",
    "model": "ASUS Chromebook C202SA"
@@ -7261,6 +7256,16 @@
    "device": "ASUS_Z01QD_1",
    "name": "ROG Phone",
    "model": "ZS600KL"
+  },
+  {
+   "device": "ASUS_I003_1",
+   "name": "ROG Phone 3",
+   "model": "ASUS_I003DD"
+  },
+  {
+   "device": "ASUS_I003_1",
+   "name": "ROG Phone 3",
+   "model": "ZS661KS"
   },
   {
    "device": "ASUS_I001_1",
@@ -29154,6 +29159,11 @@
    "device": "S10",
    "name": "S10",
    "model": "S10"
+  },
+  {
+   "device": "S20",
+   "name": "S20",
+   "model": "S20"
   }
  ],
  "G-TiDE": [
@@ -78986,6 +78996,11 @@
    "model": "moto e(6s)"
   },
   {
+   "device": "nairo",
+   "name": "moto g 5G plus",
+   "model": "moto g 5G plus"
+  },
+  {
    "device": "rav",
    "name": "moto g fast",
    "model": "moto g fast"
@@ -82347,7 +82362,7 @@
  "Nebula": [
   {
    "device": "D2140-Cosmos",
-   "name": "D2140-Cosmos",
+   "name": "D2140",
    "model": "D2140"
   },
   {
@@ -87087,6 +87102,11 @@
    "device": "C19",
    "name": "C19",
    "model": "C19"
+  },
+  {
+   "device": "C19_Pro",
+   "name": "C19 Pro",
+   "model": "C19 Pro"
   },
   {
    "device": "C6_Pro",
@@ -118393,6 +118413,11 @@
    "model": "5102M"
   },
   {
+   "device": "Seoul",
+   "name": "TCL L7",
+   "model": "5102P"
+  },
+  {
    "device": "U5A_PLUS_4G",
    "name": "TCL L9",
    "model": "5159A"
@@ -121503,6 +121528,11 @@
    "device": "Seoul",
    "name": "Alcatel 1B",
    "model": "5002A"
+  },
+  {
+   "device": "Seoul",
+   "name": "Alcatel 1B",
+   "model": "5002B"
   },
   {
    "device": "Seoul",
@@ -145040,6 +145070,11 @@
    "device": "P671F20D",
    "name": "ZTE Blade V1000RU",
    "model": "ZTE Blade V1000RU"
+  },
+  {
+   "device": "P671F70",
+   "name": "ZTE Blade V2020 Vita",
+   "model": "ZTE 8000"
   },
   {
    "device": "P852F52",
