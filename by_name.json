@@ -27365,6 +27365,13 @@
    "model": "noa_G1"
   }
  ],
+ "Australian/EU": [
+  {
+   "brand": "CAIXUN",
+   "device": "yeongdeungpo",
+   "model": "AiPlus4K"
+  }
+ ],
  "LT5": [
   {
    "brand": "CALME",
@@ -28565,6 +28572,13 @@
    "brand": "Cat",
    "device": "CatS61",
    "model": "S61B"
+  }
+ ],
+ "Cat S62 Pro": [
+  {
+   "brand": "Cat",
+   "device": "S62Pro",
+   "model": "S62 Pro"
   }
  ],
  "CatS50c": [
@@ -113562,6 +113576,13 @@
    "model": "Orange Rise 55"
   }
  ],
+ "Orange Nola play": [
+  {
+   "brand": "Orange",
+   "device": "Nola_play",
+   "model": "Orange Nola play"
+  }
+ ],
  "Orange Rise 33": [
   {
    "brand": "Orange",
@@ -138438,6 +138459,11 @@
    "brand": "Samsung",
    "device": "gts7xl",
    "model": "SM-T976N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gts7xl",
+   "model": "SM-T978U"
   }
  ],
  "Galaxy Tab2 10.1": [
@@ -144295,6 +144321,13 @@
    "brand": "Starlight",
    "device": "Safari",
    "model": "Safari"
+  }
+ ],
+ "Safari_ 2plus": [
+  {
+   "brand": "Smadl",
+   "device": "Safari_2plus",
+   "model": "Safari_2plus"
   }
  ],
  "Smailo 2GO": [
@@ -159110,6 +159143,13 @@
    "brand": "Tecno",
    "device": "TECNO-R6",
    "model": "TECNO R6S"
+  }
+ ],
+ "TECNO R7+": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-RC6",
+   "model": "TECNO RC6"
   }
  ],
  "TECNO RB7S": [
@@ -179792,6 +179832,11 @@
   }
  ],
  "ZTE Blade A3 2020": [
+  {
+   "brand": "ZTE",
+   "device": "P932F50",
+   "model": "Blade A3 2020-T"
+  },
   {
    "brand": "ZTE",
    "device": "P932F50",

@@ -21457,6 +21457,28 @@
    "device": "noa_G1"
   }
  ],
+ "AiPlus4K": [
+  {
+   "brand": "CAIXUN",
+   "name": "Australian/EU",
+   "device": "yeongdeungpo"
+  },
+  {
+   "brand": "Contex",
+   "name": "Egypt",
+   "device": "yeongdeungpo"
+  },
+  {
+   "brand": "Sansui TV",
+   "name": "Canada",
+   "device": "yeongdeungpo"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "name": "SmartTech",
+   "device": "yeongdeungpo"
+  }
+ ],
  "LT5": [
   {
    "brand": "CALME",
@@ -22594,6 +22616,13 @@
    "brand": "Cat",
    "name": "Cat S61B",
    "device": "CatS61"
+  }
+ ],
+ "S62 Pro": [
+  {
+   "brand": "Cat",
+   "name": "Cat S62 Pro",
+   "device": "S62Pro"
   }
  ],
  "S50c": [
@@ -26047,23 +26076,6 @@
    "brand": "Conquest",
    "name": "conquest_S16_RU",
    "device": "conquest_S16"
-  }
- ],
- "AiPlus4K": [
-  {
-   "brand": "Contex",
-   "name": "Egypt",
-   "device": "yeongdeungpo"
-  },
-  {
-   "brand": "Sansui TV",
-   "name": "Canada",
-   "device": "yeongdeungpo"
-  },
-  {
-   "brand": "Smart-Tech TV",
-   "name": "SmartTech",
-   "device": "yeongdeungpo"
   }
  ],
  "CE10402": [
@@ -116372,6 +116384,13 @@
    "device": "Rise_55"
   }
  ],
+ "Orange Nola play": [
+  {
+   "brand": "Orange",
+   "name": "Orange Nola play",
+   "device": "Nola_play"
+  }
+ ],
  "Orange_Rise_33": [
   {
    "brand": "Orange",
@@ -144982,6 +145001,13 @@
    "device": "gts7xl"
   }
  ],
+ "SM-T978U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S7+ 5G",
+   "device": "gts7xl"
+  }
+ ],
  "SAMSUNG-SGH-I497": [
   {
    "brand": "Samsung",
@@ -151183,6 +151209,13 @@
    "brand": "Starlight",
    "name": "Safari",
    "device": "Safari"
+  }
+ ],
+ "Safari_2plus": [
+  {
+   "brand": "Smadl",
+   "name": "Safari_ 2plus",
+   "device": "Safari_2plus"
   }
  ],
  "Smailo_2GO": [
@@ -168711,6 +168744,13 @@
    "brand": "Tecno",
    "name": "TECNO R6S",
    "device": "TECNO-R6"
+  }
+ ],
+ "TECNO RC6": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO R7+",
+   "device": "TECNO-RC6"
   }
  ],
  "TECNO RB7S": [
@@ -191886,6 +191926,13 @@
    "brand": "ZTE",
    "name": "ZTE Blade A3 2019RU",
    "device": "P932F20"
+  }
+ ],
+ "Blade A3 2020-T": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A3 2020",
+   "device": "P932F50"
   }
  ],
  "ZTE Blade A3 2020": [

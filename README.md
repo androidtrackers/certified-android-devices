@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-07-28
+Last sync is 2020-07-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2874,6 +2874,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |C5 Mobile|noa X Plus|noa_X_plus|noa X plus|
 |C5 Mobile|noa X2 Plus|noa_x2_Plus|noa X2 Plus|
 |C5 Mobile|noa_G1|noa_G1|noa_G1|
+|CAIXUN|Australian/EU|yeongdeungpo|AiPlus4K|
 |CALME|LT5|LT5|LT5|
 |CANAL-PLUS|CANALATV1|HY40A2|CANALATV1|
 |CBN Media|connect|connect|connect|
@@ -3037,6 +3038,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cat|Cat S52|CatS52|S52|
 |Cat|Cat S61|CatS61|S61|
 |Cat|Cat S61B|CatS61|S61B|
+|Cat|Cat S62 Pro|S62Pro|S62 Pro|
 |Cat|CatS50c|CatS50c|S50c|
 |Cat|S30|CatS30|S30|
 |Cat|S40|CatS40|S40|
@@ -16951,6 +16953,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Orange|Nura|M812|Orange Nura|
 |Orange|Nura2|m823_orange|Nura 2|
 |Orange|Orange|Rise_55|Orange Rise 55|
+|Orange|Orange Nola play|Nola_play|Orange Nola play|
 |Orange|Orange Rise 33|Rise33|Orange_Rise_33|
 |Orange|Orange Rise 53|Rise_53|Orange Rise 53|
 |Orange|Orange_Tab_7_4G|Orange_Tab_7_4G|Orange_Tab_7_4G|
@@ -21189,6 +21192,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S7+|gts7xlwifi|SM-T970|
 |Samsung|Galaxy Tab S7+ 5G|gts7xl|SM-T976B|
 |Samsung|Galaxy Tab S7+ 5G|gts7xl|SM-T976N|
+|Samsung|Galaxy Tab S7+ 5G|gts7xl|SM-T978U|
 |Samsung|Galaxy Tab2 10.1|espresso10att|SAMSUNG-SGH-I497|
 |Samsung|Galaxy Tab2 10.1|espresso10can|SGH-I497|
 |Samsung|Galaxy Tab2 10.1|espresso10rf|GT-P5100|
@@ -22126,6 +22130,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smadl|Matri8|Matri8|Matri8|
 |Smadl|SMADL|Matri2|Matri2|
 |Smadl|Safari|Safari|Safari|
+|Smadl|Safari_ 2plus|Safari_2plus|Safari_2plus|
 |Smailo|Smailo 2GO|Smailo_2GO|Smailo_2GO|
 |Smart|ATV device|tcl_eu|ATV|
 |Smart|Advance Pro|Advance_Pro|Advance Pro|
@@ -24753,6 +24758,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO POP 3|TECNO-BB2|TECNO BB2|
 |Tecno|TECNO POP 4|TECNO-BC2|TECNO BC2|
 |Tecno|TECNO R6S|TECNO-R6|TECNO R6S|
+|Tecno|TECNO R7+|TECNO-RC6|TECNO RC6|
 |Tecno|TECNO RB7S|TECNO-RB7S|TECNO RB7S|
 |Tecno|TECNO S1 Lite|TECNO-S1Lite|TECNO S1 Lite|
 |Tecno|TECNO SA2S|TECNO-SA2S|TECNO SA2S|
@@ -28342,6 +28348,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A3 2019|P932F20|ZTE Blade A3 Lite|
 |ZTE|ZTE Blade A3 2019|P932K20|ZTE Blade A3 2019|
 |ZTE|ZTE Blade A3 2019RU|P932F20|ZTE Blade A3 2019RU|
+|ZTE|ZTE Blade A3 2020|P932F50|Blade A3 2020-T|
 |ZTE|ZTE Blade A3 2020|P932F50|ZTE Blade A3 2020|
 |ZTE|ZTE Blade A3 2020RU|P932F50|ZTE Blade A3 2020RU|
 |ZTE|ZTE Blade A3 Lite|P932F20|ZTE Blade A3 Lite|

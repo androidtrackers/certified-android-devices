@@ -21867,6 +21867,33 @@
    "model": "noa_G1"
   }
  ],
+ "yeongdeungpo": [
+  {
+   "brand": "CAIXUN",
+   "name": "Australian/EU",
+   "model": "AiPlus4K"
+  },
+  {
+   "brand": "Contex",
+   "name": "Egypt",
+   "model": "AiPlus4K"
+  },
+  {
+   "brand": "Continental Edison",
+   "name": "Continental Edison",
+   "model": "B UHD Android TV"
+  },
+  {
+   "brand": "Sansui TV",
+   "name": "Canada",
+   "model": "AiPlus4K"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "name": "SmartTech",
+   "model": "AiPlus4K"
+  }
+ ],
  "LT5": [
   {
    "brand": "CALME",
@@ -22998,6 +23025,13 @@
    "brand": "Cat",
    "name": "Cat S61B",
    "model": "S61B"
+  }
+ ],
+ "S62Pro": [
+  {
+   "brand": "Cat",
+   "name": "Cat S62 Pro",
+   "model": "S62 Pro"
   }
  ],
  "CatS50c": [
@@ -26438,28 +26472,6 @@
    "brand": "Conquest",
    "name": "conquest_S16_RU",
    "model": "conquest_S16"
-  }
- ],
- "yeongdeungpo": [
-  {
-   "brand": "Contex",
-   "name": "Egypt",
-   "model": "AiPlus4K"
-  },
-  {
-   "brand": "Continental Edison",
-   "name": "Continental Edison",
-   "model": "B UHD Android TV"
-  },
-  {
-   "brand": "Sansui TV",
-   "name": "Canada",
-   "model": "AiPlus4K"
-  },
-  {
-   "brand": "Smart-Tech TV",
-   "name": "SmartTech",
-   "model": "AiPlus4K"
   }
  ],
  "CE10402": [
@@ -112697,6 +112709,13 @@
    "model": "Orange Rise 55"
   }
  ],
+ "Nola_play": [
+  {
+   "brand": "Orange",
+   "name": "Orange Nola play",
+   "model": "Orange Nola play"
+  }
+ ],
  "Rise33": [
   {
    "brand": "Orange",
@@ -140174,6 +140193,11 @@
    "brand": "Samsung",
    "name": "Galaxy Tab S7+ 5G",
    "model": "SM-T976N"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S7+ 5G",
+   "model": "SM-T978U"
   }
  ],
  "gts7xlwifi": [
@@ -146171,6 +146195,13 @@
    "brand": "Starlight",
    "name": "Safari",
    "model": "Safari"
+  }
+ ],
+ "Safari_2plus": [
+  {
+   "brand": "Smadl",
+   "name": "Safari_ 2plus",
+   "model": "Safari_2plus"
   }
  ],
  "Smailo_2GO": [
@@ -161554,6 +161585,13 @@
    "brand": "Tecno",
    "name": "TECNO POP 4",
    "model": "TECNO BC2"
+  }
+ ],
+ "TECNO-RC6": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO R7+",
+   "model": "TECNO RC6"
   }
  ],
  "TECNO-RB7S": [
@@ -182906,6 +182944,11 @@
   }
  ],
  "P932F50": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A3 2020",
+   "model": "Blade A3 2020-T"
+  },
   {
    "brand": "ZTE",
    "name": "ZTE Blade A3 2020",
