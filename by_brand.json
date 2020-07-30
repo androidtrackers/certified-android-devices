@@ -232,6 +232,11 @@
    "device": "IPBox",
    "name": "ACT4K1007",
    "model": "ACT4K1007"
+  },
+  {
+   "device": "IPBox",
+   "name": "Skyworth",
+   "model": "ACT4K1007"
   }
  ],
  "AG Mobile": [
@@ -2590,6 +2595,11 @@
   }
  ],
  "Airtel": [
+  {
+   "device": "AirtelOTTBox",
+   "name": "Airtel",
+   "model": "HP2707"
+  },
   {
    "device": "AirtelOTTBox",
    "name": "HP2707",
@@ -71053,6 +71063,11 @@
   {
    "device": "Le_Hola",
    "name": "Le Hola",
+   "model": "Le Hola"
+  },
+  {
+   "device": "Le_Hola",
+   "name": "Le Hola",
    "model": "Le_Hola"
   },
   {
@@ -113238,11 +113253,6 @@
    "model": "SWTV"
   },
   {
-   "device": "AirtelOTTBox",
-   "name": "Airtel",
-   "model": "HP2707"
-  },
-  {
    "device": "SW3_ATV",
    "name": "Asia",
    "model": "SWTV"
@@ -113301,11 +113311,6 @@
    "device": "shimbashi",
    "name": "North America",
    "model": "2K TV"
-  },
-  {
-   "device": "IPBox",
-   "name": "Skyworth",
-   "model": "ACT4K1007"
   },
   {
    "device": "grape",
@@ -130209,6 +130214,11 @@
    "model": "Z10"
   },
   {
+   "device": "Z1",
+   "name": "Z12",
+   "model": "Z1"
+  },
+  {
    "device": "Z1_EEA",
    "name": "Z1_EEA",
    "model": "Z1_EEA"
@@ -137328,6 +137338,11 @@
    "device": "umi",
    "name": "Mi 10",
    "model": "Umi"
+  },
+  {
+   "device": "monet",
+   "name": "Mi 10 Lite 5G",
+   "model": "XIG01"
   },
   {
    "device": "vangogh",
@@ -145790,6 +145805,11 @@
    "device": "TC20KB",
    "name": "TC20KB",
    "model": "TC20"
+  },
+  {
+   "device": "TC21",
+   "name": "TC21",
+   "model": "TC21"
   },
   {
    "device": "TC25FM",

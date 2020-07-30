@@ -332,7 +332,7 @@
    "model": "ACT4K1007"
   },
   {
-   "brand": "Skyworth",
+   "brand": "ACT",
    "name": "Skyworth",
    "model": "ACT4K1007"
   }
@@ -2970,6 +2970,11 @@
    "model": "Z1"
   },
   {
+   "brand": "Vankyo",
+   "name": "Z12",
+   "model": "Z1"
+  },
+  {
    "brand": "ZOOMME",
    "name": "Z1",
    "model": "Z1"
@@ -4235,12 +4240,12 @@
  "AirtelOTTBox": [
   {
    "brand": "Airtel",
-   "name": "HP2707",
+   "name": "Airtel",
    "model": "HP2707"
   },
   {
-   "brand": "Skyworth",
-   "name": "Airtel",
+   "brand": "Airtel",
+   "name": "HP2707",
    "model": "HP2707"
   }
  ],
@@ -92733,6 +92738,11 @@
   {
    "brand": "Logicom",
    "name": "Le Hola",
+   "model": "Le Hola"
+  },
+  {
+   "brand": "Logicom",
+   "name": "Le Hola",
    "model": "Le_Hola"
   }
  ],
@@ -174109,6 +174119,23 @@
    "model": "Mi MIX 3"
   }
  ],
+ "monet": [
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 10 Lite 5G",
+   "model": "XIG01"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 10 lite 5G",
+   "model": "M2002J9G"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 10 lite 5G",
+   "model": "M2002J9S"
+  }
+ ],
  "cmi": [
   {
    "brand": "Xiaomi",
@@ -174119,18 +174146,6 @@
    "brand": "Xiaomi",
    "name": "Mi 10 Pro",
    "model": "Mi 10 Pro"
-  }
- ],
- "monet": [
-  {
-   "brand": "Xiaomi",
-   "name": "Mi 10 lite 5G",
-   "model": "M2002J9G"
-  },
-  {
-   "brand": "Xiaomi",
-   "name": "Mi 10 lite 5G",
-   "model": "M2002J9S"
   }
  ],
  "pisces": [
@@ -183551,6 +183566,13 @@
    "brand": "Zebra",
    "name": "TC20KB",
    "model": "TC20"
+  }
+ ],
+ "TC21": [
+  {
+   "brand": "Zebra",
+   "name": "TC21",
+   "model": "TC21"
   }
  ],
  "TC25FM": [

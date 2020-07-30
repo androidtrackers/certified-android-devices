@@ -389,7 +389,7 @@
    "device": "IPBox"
   },
   {
-   "brand": "Skyworth",
+   "brand": "ACT",
    "name": "Skyworth",
    "device": "IPBox"
   }
@@ -4067,12 +4067,12 @@
  "HP2707": [
   {
    "brand": "Airtel",
-   "name": "HP2707",
+   "name": "Airtel",
    "device": "AirtelOTTBox"
   },
   {
-   "brand": "Skyworth",
-   "name": "Airtel",
+   "brand": "Airtel",
+   "name": "HP2707",
    "device": "AirtelOTTBox"
   }
  ],
@@ -96125,6 +96125,13 @@
    "device": "Le_Hello"
   }
  ],
+ "Le Hola": [
+  {
+   "brand": "Logicom",
+   "name": "Le Hola",
+   "device": "Le_Hola"
+  }
+ ],
  "Le_Hola": [
   {
    "brand": "Logicom",
@@ -97834,6 +97841,11 @@
   {
    "brand": "Vankyo",
    "name": "Z1",
+   "device": "Z1"
+  },
+  {
+   "brand": "Vankyo",
+   "name": "Z12",
    "device": "Z1"
   },
   {
@@ -181588,6 +181600,13 @@
    "device": "umi"
   }
  ],
+ "XIG01": [
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 10 Lite 5G",
+   "device": "monet"
+  }
+ ],
  "M2002J9E": [
   {
    "brand": "Xiaomi",
@@ -192621,6 +192640,13 @@
    "brand": "Zebra",
    "name": "TC20KB",
    "device": "TC20KB"
+  }
+ ],
+ "TC21": [
+  {
+   "brand": "Zebra",
+   "name": "TC21",
+   "device": "TC21"
   }
  ],
  "TC25": [

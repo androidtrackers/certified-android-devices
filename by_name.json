@@ -6130,6 +6130,18 @@
    "model": "ACT4K1007"
   }
  ],
+ "Skyworth": [
+  {
+   "brand": "ACT",
+   "device": "IPBox",
+   "model": "ACT4K1007"
+  },
+  {
+   "brand": "Skyworth",
+   "device": "grape",
+   "model": "HPA02"
+  }
+ ],
  "AG BOOST 2": [
   {
    "brand": "AG Mobile",
@@ -9918,6 +9930,13 @@
    "brand": "Airtab",
    "device": "AT8-N",
    "model": "AT8-N"
+  }
+ ],
+ "Airtel": [
+  {
+   "brand": "Airtel",
+   "device": "AirtelOTTBox",
+   "model": "HP2707"
   }
  ],
  "HP2707": [
@@ -94891,6 +94910,11 @@
   {
    "brand": "Logicom",
    "device": "Le_Hola",
+   "model": "Le Hola"
+  },
+  {
+   "brand": "Logicom",
+   "device": "Le_Hola",
    "model": "Le_Hola"
   }
  ],
@@ -122702,6 +122726,11 @@
    "brand": "QMobile",
    "device": "CBL7521QM",
    "model": "Z12"
+  },
+  {
+   "brand": "Vankyo",
+   "device": "Z1",
+   "model": "Z1"
   }
  ],
  "Z12 PRO": [
@@ -144197,13 +144226,6 @@
    "model": "SWTV"
   }
  ],
- "Airtel": [
-  {
-   "brand": "Skyworth",
-   "device": "AirtelOTTBox",
-   "model": "HP2707"
-  }
- ],
  "Euro": [
   {
    "brand": "Skyworth",
@@ -144235,18 +144257,6 @@
    "brand": "Skyworth",
    "device": "shinagawa",
    "model": "METZ 2K TV"
-  }
- ],
- "Skyworth": [
-  {
-   "brand": "Skyworth",
-   "device": "IPBox",
-   "model": "ACT4K1007"
-  },
-  {
-   "brand": "Skyworth",
-   "device": "grape",
-   "model": "HPA02"
   }
  ],
  "South Africa": [
@@ -171642,6 +171652,13 @@
    "model": "Umi"
   }
  ],
+ "Mi 10 Lite 5G": [
+  {
+   "brand": "Xiaomi",
+   "device": "monet",
+   "model": "XIG01"
+  }
+ ],
  "Mi 10 Lite zoom": [
   {
    "brand": "Xiaomi",
@@ -180609,6 +180626,13 @@
    "brand": "Zebra",
    "device": "TC20KB",
    "model": "TC20"
+  }
+ ],
+ "TC21": [
+  {
+   "brand": "Zebra",
+   "device": "TC21",
+   "model": "TC21"
   }
  ],
  "TC25": [

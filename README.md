@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-07-29
+Last sync is 2020-07-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -46,6 +46,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ACE France|URBAN 2|URBAN_2|URBAN 2|
 |ACKEES|V10401|V10401|V10401|
 |ACT|ACT4K1007|IPBox|ACT4K1007|
+|ACT|Skyworth|IPBox|ACT4K1007|
 |AG Mobile|AG BOOST 2|BOOST2|E4010|
 |AG Mobile|AG Flair|AG_Flair|Flair|
 |AG Mobile|AG Go Tab Access 2|AG_Go_Tab_Access_2|AG_Go_Tab_Access_2|
@@ -499,6 +500,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Airpha|Sense2|Sense2|Sense2|
 |Airpha|Sense2_Pro|Sense2_Pro|Sense2_Pro|
 |Airtab|AT8-N|AT8-N|AT8-N|
+|Airtel|Airtel|AirtelOTTBox|HP2707|
 |Airtel|HP2707|AirtelOTTBox|HP2707|
 |Airtel|SH960S-AT|ganesa|SH960S-AT|
 |Airtel|XStream Smart Box|hsw4026atl|XStream_Smart_Box_001|
@@ -13863,6 +13865,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logicom|Le Fit|LeFit|LeFit|
 |Logicom|Le Fit FR|LeFitFR|Le Fit FR|
 |Logicom|Le HELLO|Le_Hello|Le_Hello|
+|Logicom|Le Hola|Le_Hola|Le Hola|
 |Logicom|Le Hola|Le_Hola|Le_Hola|
 |Logicom|Le Hop|Logicom_LeHop|Le Hop|
 |Logicom|Le Lift|LeLift|Le Lift|
@@ -22106,7 +22109,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Skyview|M5|M5|M5|
 |Skyworth|APAC|SW3H_ATV|SWTV|
 |Skyworth|APAC 2K TV|shibuya|SWTV|
-|Skyworth|Airtel|AirtelOTTBox|HP2707|
 |Skyworth|Asia|SW3_ATV|SWTV|
 |Skyworth|Asia|globe_ap|globe|
 |Skyworth|Asia|open_fhd_ap|open_fhd|
@@ -22119,7 +22121,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Skyworth|North America|SW3_ATV|SWTV|
 |Skyworth|North America|globe_na|globe|
 |Skyworth|North America|shimbashi|2K TV|
-|Skyworth|Skyworth|IPBox|ACT4K1007|
 |Skyworth|Skyworth|grape|HPA02|
 |Skyworth|South Africa|open_fhd_sa|open_fhd|
 |Skyworth|South America|SW3_ATV|SWTV|
@@ -25405,6 +25406,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vankyo|Vankyo_S10_EEA|Vankyo_S10_EEA|Vankyo_S10_EEA|
 |Vankyo|Z1|Z1|Z1|
 |Vankyo|Z10|Z10|Z10|
+|Vankyo|Z12|Z1|Z1|
 |Vankyo|Z1_EEA|Z1_EEA|Z1_EEA|
 |Vankyo|Z4|Z4|Z4|
 |Vankyo|Z4_EEA|Z4_EEA|Z4_EEA|
@@ -26786,6 +26788,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|MIX 3|perseus|Mi MIX 3|
 |Xiaomi|Mi 10|umi|Mi 10|
 |Xiaomi|Mi 10|umi|Umi|
+|Xiaomi|Mi 10 Lite 5G|monet|XIG01|
 |Xiaomi|Mi 10 Lite zoom|vangogh|M2002J9E|
 |Xiaomi|Mi 10 Pro|cmi|Cmi|
 |Xiaomi|Mi 10 Pro|cmi|Mi 10 Pro|
@@ -28466,6 +28469,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|TC20|TC20RD|TC20|
 |Zebra|TC20|TC20RT|TC20|
 |Zebra|TC20KB|TC20KB|TC20|
+|Zebra|TC21|TC21|TC21|
 |Zebra|TC25|TC25FM|TC25|
 |Zebra|TC51|TC51|TC51|
 |Zebra|TC51|TC51HC|TC51|
