@@ -18756,6 +18756,13 @@
    "device": "B110DL"
   }
  ],
+ "B130DL": [
+  {
+   "brand": "Blu",
+   "name": "B130DL",
+   "device": "B130DL"
+  }
+ ],
  "Dash XL": [
   {
    "brand": "Blu",
@@ -128723,6 +128730,13 @@
    "device": "rg730"
   }
  ],
+ "M675M4": [
+  {
+   "brand": "Ruio",
+   "name": "Cola Plus 4G",
+   "device": "M675M4"
+  }
+ ],
  "S5506": [
   {
    "brand": "Ruio",
@@ -156044,6 +156058,13 @@
    "device": "ST9009"
   }
  ],
+ "SX": [
+  {
+   "brand": "Strawberry",
+   "name": "SX",
+   "device": "SX"
+  }
+ ],
  "Strawberry SX": [
   {
    "brand": "Strawberry",
@@ -169099,6 +169120,13 @@
    "brand": "Teeno",
    "name": "TEENO S9",
    "device": "TEENO_S9"
+  }
+ ],
+ "TEENO_i12": [
+  {
+   "brand": "Teeno",
+   "name": "TEENO_i12",
+   "device": "TEENO_i12"
   }
  ],
  "Teesso X3": [

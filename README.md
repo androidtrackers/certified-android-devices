@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-07-30
+Last sync is 2020-07-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2523,6 +2523,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Advance_A7|A210|Advance A7|
 |Blu|Advance A5 Plus LTE|A0031WW|Advance A5 Plus LTE|
 |Blu|B110DL|B110DL|B110DL|
+|Blu|B130DL|B130DL|B130DL|
 |Blu|BLU Dash XL|Dash_XL|Dash XL|
 |Blu|BLU Grand M3|G0070WW|Grand M3|
 |Blu|BLU S1|S0320WW|BLU_S1|
@@ -18831,6 +18832,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ruggear|RugGear rg730|rg730|rg730|
 |Ruio|Cola|M671M3|M671M3|
 |Ruio|Cola 4G|M671M4|M671M4|
+|Ruio|Cola Plus 4G|M675M4|M675M4|
 |Ruio|RUIO S5506|S5506|S5506|
 |Ruio|RUIO i7c Tablet|i7c|i7c|
 |Ruio|RUIO_S518|RUIO_S518|S518|
@@ -22873,6 +22875,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Storex|eZeeTab7D15-M|eZeeTab7D15-M|eZeeTab7D15-M|
 |Storex|eZee’Tab7D14-S|STOREX7526|NID_7010|
 |Strawberry|ST9009|ST9009|ST9009|
+|Strawberry|SX|SX|SX|
 |Strawberry|SX|SX|Strawberry SX|
 |Stream|B1|B1|B1|
 |Stream|B1s|B1s|B1s|
@@ -24811,6 +24814,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tectoy|TECTOY ON 128GB|TokyoPro|TECTOY_5029Y|
 |Teeno|A1|A1_EEA|A1|
 |Teeno|TEENO S9|TEENO_S9|TEENO_S9|
+|Teeno|TEENO_i12|TEENO_i12|TEENO_i12|
 |Teesso|X2|X2|X2|
 |Teesso|X3|Teesso_X3|Teesso X3|
 |TekSavvy|TekSavvy_DV8219|DV8219|TekSavvy_DV8219|

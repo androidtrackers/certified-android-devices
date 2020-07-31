@@ -24467,6 +24467,13 @@
    "model": "B110DL"
   }
  ],
+ "B130DL": [
+  {
+   "brand": "Blu",
+   "device": "B130DL",
+   "model": "B130DL"
+  }
+ ],
  "BLU Dash XL": [
   {
    "brand": "Blu",
@@ -125643,6 +125650,13 @@
    "model": "M671M4"
   }
  ],
+ "Cola Plus 4G": [
+  {
+   "brand": "Ruio",
+   "device": "M675M4",
+   "model": "M675M4"
+  }
+ ],
  "RUIO S5506": [
   {
    "brand": "Ruio",
@@ -148631,6 +148645,11 @@
   {
    "brand": "Strawberry",
    "device": "SX",
+   "model": "SX"
+  },
+  {
+   "brand": "Strawberry",
+   "device": "SX",
    "model": "Strawberry SX"
   }
  ],
@@ -159451,6 +159470,13 @@
    "brand": "Teeno",
    "device": "TEENO_S9",
    "model": "TEENO_S9"
+  }
+ ],
+ "TEENO_i12": [
+  {
+   "brand": "Teeno",
+   "device": "TEENO_i12",
+   "model": "TEENO_i12"
   }
  ],
  "TekSavvy_DV8219": [

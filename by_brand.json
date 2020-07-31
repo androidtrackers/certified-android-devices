@@ -12967,6 +12967,11 @@
    "model": "B110DL"
   },
   {
+   "device": "B130DL",
+   "name": "B130DL",
+   "model": "B130DL"
+  },
+  {
    "device": "Dash_XL",
    "name": "BLU Dash XL",
    "model": "Dash XL"
@@ -96675,6 +96680,11 @@
    "model": "M671M4"
   },
   {
+   "device": "M675M4",
+   "name": "Cola Plus 4G",
+   "model": "M675M4"
+  },
+  {
    "device": "S5506",
    "name": "RUIO S5506",
    "model": "S5506"
@@ -117157,6 +117167,11 @@
   {
    "device": "SX",
    "name": "SX",
+   "model": "SX"
+  },
+  {
+   "device": "SX",
+   "name": "SX",
    "model": "Strawberry SX"
   }
  ],
@@ -127009,6 +127024,11 @@
    "device": "TEENO_S9",
    "name": "TEENO S9",
    "model": "TEENO_S9"
+  },
+  {
+   "device": "TEENO_i12",
+   "name": "TEENO_i12",
+   "model": "TEENO_i12"
   }
  ],
  "Teesso": [
