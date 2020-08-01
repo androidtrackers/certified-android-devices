@@ -39305,6 +39305,11 @@
   {
    "device": "HS7731ESP",
    "name": "Hisense U964",
+   "model": "HWCD100E"
+  },
+  {
+   "device": "HS7731ESP",
+   "name": "Hisense U964",
    "model": "Hisense U40 Lite"
   },
   {

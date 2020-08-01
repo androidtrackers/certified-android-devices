@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-07-31
+Last sync is 2020-08-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7603,6 +7603,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U963|SC9832E|HLTE100E_10|
 |Hisense|Hisense U963|SC9832E|Hisense U963|
 |Hisense|Hisense U963|SC9832E|Hisense V40|
+|Hisense|Hisense U964|HS7731ESP|HWCD100E|
 |Hisense|Hisense U964|HS7731ESP|Hisense U40 Lite|
 |Hisense|Hisense U964|HS7731ESP|Hisense U964|
 |Hisense|Hisense U965|HS6580MT|Hisense Hi 1 PRO|
