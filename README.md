@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-08-01
+Last sync is 2020-08-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -24773,6 +24773,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 4 Air|TECNO-KC1j|TECNO KC1j|
 |Tecno|TECNO SPARK 4 Air|TECNO-KC6|TECNO KC6|
 |Tecno|TECNO SPARK 4 Air|TECNO-KC6S|TECNO KC6S|
+|Tecno|TECNO SPARK 5|TECNO-KD7h|TECNO KD7S|
 |Tecno|TECNO SPARK 5|TECNO-KD7h|TECNO KD7h|
 |Tecno|TECNO SPARK 5 Pro|TECNO-KD7|TECNO KD7|
 |Tecno|TECNO SPARK Go|TECNO-KC1|TECNO KC1|
