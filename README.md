@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-08-02
+Last sync is 2020-08-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4577,6 +4577,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doro|Doro 8035|DSB0170|Doro 8035|
 |Doro|Doro 8040|DSB0090|Doro 8040|
 |Doro|Doro 8042|DSB0110|Doro 8042|
+|Doro|Doro 8050|DSB0230|Doro 8050|
 |Doro|Doro 824|825A|Doro 824|
 |Doro|Liberto 810|Liberto810|Doro Liberto 810|
 |Doro|Liberto 810|Liberto810|Doro Liberto 810-orange|
@@ -19166,6 +19167,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A01|a01q|SM-A015G|
 |Samsung|Galaxy A01|a01q|SM-A015M|
 |Samsung|Galaxy A01|a01q|SM-A015T1|
+|Samsung|Galaxy A01|a01q|SM-A015U|
+|Samsung|Galaxy A01|a01q|SM-A015U1|
 |Samsung|Galaxy A01|a01q|SM-A015V|
 |Samsung|Galaxy A01|a01q|SM-S111DL|
 |Samsung|Galaxy A01 Core|a01core|SM-A013F|
@@ -21943,6 +21946,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|Yahoo! Phone SoftBank 009SH Y|SBM009SHY|SBM009SHY|
 |Sharp|Z2|TSP|FS8002|
 |Sharp|Z3|VN3N|FS8009|
+|Sharp|dtab d-41A|d-41A|d-41A|
 |Sharp|lcd_xxbel7a_c|lcd_xxbel7a_c|LCD-xxBEL7A-C|
 |Sharp|z3|VN3N|FS8009|
 |Sharp|シンプルスマホ３|SG509SH|509SH|
@@ -23287,8 +23291,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|3T10 4G|Aquaman_10_4G|8094M|
 |TCT (Alcatel)|3T10 4G|Aquaman_10_4G|8094T|
 |TCT (Alcatel)|3T10 4G|Aquaman_10_4G|8094T_EEA|
+|TCT (Alcatel)|3T10 4G|Aquaman_10_4G|8094T_RU|
+|TCT (Alcatel)|3T10 4G|Aquaman_10_4G|8094T_TR|
 |TCT (Alcatel)|3T10 4G|Aquaman_10_4G|8094X|
 |TCT (Alcatel)|3T10 4G|Aquaman_10_4G|8094X_EEA|
+|TCT (Alcatel)|3T10 4G|Aquaman_10_4G|8094X_RU|
+|TCT (Alcatel)|3T10 4G|Aquaman_10_4G|8094X_TR|
 |TCT (Alcatel)|4013M|Pixi3-4|4013M|
 |TCT (Alcatel)|4014A|Pixi3-4|4014A|
 |TCT (Alcatel)|4014M|Pixi3-4|4014M|
@@ -23897,6 +23905,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 3L|TokyoPro|5029D_EEA|
 |TCT (Alcatel)|Alcatel 3L|TokyoPro|5029D_RU|
 |TCT (Alcatel)|Alcatel 3L|TokyoPro|5029D_TR|
+|TCT (Alcatel)|Alcatel 3L|TokyoPro|5029F|
 |TCT (Alcatel)|Alcatel 3L|TokyoPro|5029Y|
 |TCT (Alcatel)|Alcatel 3L|TokyoPro|5029Y_EEA|
 |TCT (Alcatel)|Alcatel 3L|TokyoPro|5029Y_RU|
@@ -26223,6 +26232,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Waf|F808NM|F808NM|F808NM|
 |Waf|THMTKAW01216_eea|THMTKAW01216|Surftab WAF|
 |Walton|LT750|LT750|LT750|
+|Walton|PRIMO D10|PRIMO_D10|PRIMO D10|
 |Walton|PRIMO NH4|PRIMO_NH4|PRIMO NH4|
 |Walton|PRIMO_S7|Primo_S7|Primo S7|
 |Walton|Primo D9|Primo_D9|Primo D9|
@@ -28462,6 +28472,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|L10A|L10A|L10A|
 |Zebra|L10AW|L10AW|L10AW|
 |Zebra|MC18|MC18|MC18N0|
+|Zebra|MC3300x|MC3300x|MC3300x|
 |Zebra|MC330K|MC33|MC33|
 |Zebra|MC330K|MC33C|MC33|
 |Zebra|MC36|cardhu|MC36|

@@ -23673,6 +23673,11 @@
    "model": "Doro 8042"
   },
   {
+   "device": "DSB0230",
+   "name": "Doro 8050",
+   "model": "Doro 8050"
+  },
+  {
    "device": "825A",
    "name": "Doro 824",
    "model": "Doro 824"
@@ -98442,6 +98447,16 @@
   {
    "device": "a01q",
    "name": "Galaxy A01",
+   "model": "SM-A015U"
+  },
+  {
+   "device": "a01q",
+   "name": "Galaxy A01",
+   "model": "SM-A015U1"
+  },
+  {
+   "device": "a01q",
+   "name": "Galaxy A01",
    "model": "SM-A015V"
   },
   {
@@ -112379,6 +112394,11 @@
    "model": "FS8009"
   },
   {
+   "device": "d-41A",
+   "name": "dtab d-41A",
+   "model": "d-41A"
+  },
+  {
    "device": "lcd_xxbel7a_c",
    "name": "lcd_xxbel7a_c",
    "model": "LCD-xxBEL7A-C"
@@ -119295,12 +119315,32 @@
   {
    "device": "Aquaman_10_4G",
    "name": "3T10 4G",
+   "model": "8094T_RU"
+  },
+  {
+   "device": "Aquaman_10_4G",
+   "name": "3T10 4G",
+   "model": "8094T_TR"
+  },
+  {
+   "device": "Aquaman_10_4G",
+   "name": "3T10 4G",
    "model": "8094X"
   },
   {
    "device": "Aquaman_10_4G",
    "name": "3T10 4G",
    "model": "8094X_EEA"
+  },
+  {
+   "device": "Aquaman_10_4G",
+   "name": "3T10 4G",
+   "model": "8094X_RU"
+  },
+  {
+   "device": "Aquaman_10_4G",
+   "name": "3T10 4G",
+   "model": "8094X_TR"
   },
   {
    "device": "Pixi3-4",
@@ -122341,6 +122381,11 @@
    "device": "TokyoPro",
    "name": "Alcatel 3L",
    "model": "5029D_TR"
+  },
+  {
+   "device": "TokyoPro",
+   "name": "Alcatel 3L",
+   "model": "5029F"
   },
   {
    "device": "TokyoPro",
@@ -134415,6 +134460,11 @@
    "model": "LT750"
   },
   {
+   "device": "PRIMO_D10",
+   "name": "PRIMO D10",
+   "model": "PRIMO D10"
+  },
+  {
    "device": "PRIMO_NH4",
    "name": "PRIMO NH4",
    "model": "PRIMO NH4"
@@ -145770,6 +145820,11 @@
    "device": "MC18",
    "name": "MC18",
    "model": "MC18N0"
+  },
+  {
+   "device": "MC3300x",
+   "name": "MC3300x",
+   "model": "MC3300x"
   },
   {
    "device": "MC33",

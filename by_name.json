@@ -39507,6 +39507,13 @@
    "model": "Doro 8042"
   }
  ],
+ "Doro 8050": [
+  {
+   "brand": "Doro",
+   "device": "DSB0230",
+   "model": "Doro 8050"
+  }
+ ],
  "Doro 824": [
   {
    "brand": "Doro",
@@ -127504,6 +127511,16 @@
   {
    "brand": "Samsung",
    "device": "a01q",
+   "model": "SM-A015U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a01q",
+   "model": "SM-A015U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a01q",
    "model": "SM-A015V"
   },
   {
@@ -143127,6 +143144,13 @@
    "model": "FS8009"
   }
  ],
+ "dtab d-41A": [
+  {
+   "brand": "Sharp",
+   "device": "d-41A",
+   "model": "d-41A"
+  }
+ ],
  "lcd_xxbel7a_c": [
   {
    "brand": "Sharp",
@@ -150586,12 +150610,32 @@
   {
    "brand": "TCT (Alcatel)",
    "device": "Aquaman_10_4G",
+   "model": "8094T_RU"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Aquaman_10_4G",
+   "model": "8094T_TR"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Aquaman_10_4G",
    "model": "8094X"
   },
   {
    "brand": "TCT (Alcatel)",
    "device": "Aquaman_10_4G",
    "model": "8094X_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Aquaman_10_4G",
+   "model": "8094X_RU"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Aquaman_10_4G",
+   "model": "8094X_TR"
   }
  ],
  "4013M": [
@@ -154064,6 +154108,11 @@
    "brand": "TCT (Alcatel)",
    "device": "TokyoPro",
    "model": "5029D_TR"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "TokyoPro",
+   "model": "5029F"
   },
   {
    "brand": "TCT (Alcatel)",
@@ -168265,6 +168314,13 @@
    "model": "LT750"
   }
  ],
+ "PRIMO D10": [
+  {
+   "brand": "Walton",
+   "device": "PRIMO_D10",
+   "model": "PRIMO D10"
+  }
+ ],
  "PRIMO NH4": [
   {
    "brand": "Walton",
@@ -180579,6 +180635,13 @@
    "brand": "Zebra",
    "device": "MC18",
    "model": "MC18N0"
+  }
+ ],
+ "MC3300x": [
+  {
+   "brand": "Zebra",
+   "device": "MC3300x",
+   "model": "MC3300x"
   }
  ],
  "MC330K": [

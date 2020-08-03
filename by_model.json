@@ -33457,6 +33457,13 @@
    "device": "DSB0110"
   }
  ],
+ "Doro 8050": [
+  {
+   "brand": "Doro",
+   "name": "Doro 8050",
+   "device": "DSB0230"
+  }
+ ],
  "Doro Liberto 810": [
   {
    "brand": "Doro",
@@ -130998,6 +131005,20 @@
    "device": "a01q"
   }
  ],
+ "SM-A015U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A01",
+   "device": "a01q"
+  }
+ ],
+ "SM-A015U1": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A01",
+   "device": "a01q"
+  }
+ ],
  "SM-A015V": [
   {
    "brand": "Samsung",
@@ -150004,6 +150025,13 @@
    "device": "VN3N"
   }
  ],
+ "d-41A": [
+  {
+   "brand": "Sharp",
+   "name": "dtab d-41A",
+   "device": "d-41A"
+  }
+ ],
  "LCD-xxBEL7A-C": [
   {
    "brand": "Sharp",
@@ -158842,6 +158870,20 @@
    "device": "Aquaman_10_4G"
   }
  ],
+ "8094T_RU": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "3T10 4G",
+   "device": "Aquaman_10_4G"
+  }
+ ],
+ "8094T_TR": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "3T10 4G",
+   "device": "Aquaman_10_4G"
+  }
+ ],
  "8094X": [
   {
    "brand": "TCT (Alcatel)",
@@ -158850,6 +158892,20 @@
   }
  ],
  "8094X_EEA": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "3T10 4G",
+   "device": "Aquaman_10_4G"
+  }
+ ],
+ "8094X_RU": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "3T10 4G",
+   "device": "Aquaman_10_4G"
+  }
+ ],
+ "8094X_TR": [
   {
    "brand": "TCT (Alcatel)",
    "name": "3T10 4G",
@@ -163078,6 +163134,13 @@
   }
  ],
  "5029D_TR": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3L",
+   "device": "TokyoPro"
+  }
+ ],
+ "5029F": [
   {
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 3L",
@@ -178063,6 +178126,13 @@
    "device": "LT750"
   }
  ],
+ "PRIMO D10": [
+  {
+   "brand": "Walton",
+   "name": "PRIMO D10",
+   "device": "PRIMO_D10"
+  }
+ ],
  "PRIMO NH4": [
   {
    "brand": "Walton",
@@ -192601,6 +192671,13 @@
    "brand": "Zebra",
    "name": "MC18",
    "device": "MC18"
+  }
+ ],
+ "MC3300x": [
+  {
+   "brand": "Zebra",
+   "name": "MC3300x",
+   "device": "MC3300x"
   }
  ],
  "MC33": [

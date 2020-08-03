@@ -34384,6 +34384,11 @@
    "brand": "Doro",
    "name": "DSB-0230",
    "model": "DSB-0230"
+  },
+  {
+   "brand": "Doro",
+   "name": "Doro 8050",
+   "model": "Doro 8050"
   }
  ],
  "DSB0170": [
@@ -127211,6 +127216,16 @@
   {
    "brand": "Samsung",
    "name": "Galaxy A01",
+   "model": "SM-A015U"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A01",
+   "model": "SM-A015U1"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A01",
    "model": "SM-A015V"
   },
   {
@@ -145048,6 +145063,13 @@
    "model": "FS8009"
   }
  ],
+ "d-41A": [
+  {
+   "brand": "Sharp",
+   "name": "dtab d-41A",
+   "model": "d-41A"
+  }
+ ],
  "lcd_xxbel7a_c": [
   {
    "brand": "Sharp",
@@ -153558,6 +153580,11 @@
   {
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 3L",
+   "model": "5029F"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3L",
    "model": "5029Y"
   },
   {
@@ -154568,12 +154595,32 @@
   {
    "brand": "TCT (Alcatel)",
    "name": "3T10 4G",
+   "model": "8094T_RU"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "3T10 4G",
+   "model": "8094T_TR"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "3T10 4G",
    "model": "8094X"
   },
   {
    "brand": "TCT (Alcatel)",
    "name": "3T10 4G",
    "model": "8094X_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "3T10 4G",
+   "model": "8094X_RU"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "3T10 4G",
+   "model": "8094X_TR"
   }
  ],
  "PLAY_P1": [
@@ -170713,6 +170760,13 @@
    "model": "LT750"
   }
  ],
+ "PRIMO_D10": [
+  {
+   "brand": "Walton",
+   "name": "PRIMO D10",
+   "model": "PRIMO D10"
+  }
+ ],
  "PRIMO_NH4": [
   {
    "brand": "Walton",
@@ -183518,6 +183572,13 @@
    "brand": "Zebra",
    "name": "MC18",
    "model": "MC18N0"
+  }
+ ],
+ "MC3300x": [
+  {
+   "brand": "Zebra",
+   "name": "MC3300x",
+   "model": "MC3300x"
   }
  ],
  "MC33": [
