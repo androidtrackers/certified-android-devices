@@ -746,6 +746,13 @@
    "device": "PD470"
   }
  ],
+ "ANAM 4K Android TV": [
+  {
+   "brand": "ANAM",
+   "name": "ANAM",
+   "device": "seocho"
+  }
+ ],
  "andrino 4K Android TV": [
   {
    "brand": "ANDRINO",
@@ -17886,6 +17893,13 @@
    "device": "bullhead"
   }
  ],
+ "SKR-A0": [
+  {
+   "brand": "Blackshark",
+   "name": "黑鲨游戏手机",
+   "device": "shark"
+  }
+ ],
  "DLT-A0": [
   {
    "brand": "Blackshark",
@@ -18577,6 +18591,13 @@
    "brand": "Nuvision",
    "name": "TM1088",
    "device": "fiber-wifibt"
+  }
+ ],
+ "Guardian": [
+  {
+   "brand": "Blaupunkt",
+   "name": "Guardian",
+   "device": "Guardian"
   }
  ],
  "MP3-A 2K TV": [
@@ -20115,6 +20136,11 @@
   },
   {
    "brand": "Trend Mobile",
+   "name": "T5",
+   "device": "T5"
+  },
+  {
+   "brand": "YesTeL",
    "name": "T5",
    "device": "T5"
   }
@@ -26138,6 +26164,11 @@
   },
   {
    "brand": "Kudae",
+   "name": "K101",
+   "device": "K101"
+  },
+  {
+   "brand": "Zonko",
    "name": "K101",
    "device": "K101"
   }
@@ -34157,6 +34188,20 @@
    "device": "nippori"
   }
  ],
+ "EKO 4K Android TV": [
+  {
+   "brand": "EKO",
+   "name": "EKO",
+   "device": "bangbae"
+  }
+ ],
+ "EKO 2K Android TV": [
+  {
+   "brand": "EKO",
+   "name": "EKO",
+   "device": "komagome"
+  }
+ ],
  "EKO OMEGA LTE Q60": [
   {
    "brand": "EKO",
@@ -35012,6 +35057,13 @@
    "brand": "VUCATIMES",
    "name": "HAOQIN",
    "device": "E10"
+  }
+ ],
+ "E10_Pro": [
+  {
+   "brand": "Elephone",
+   "name": "E10_Pro",
+   "device": "E10_Pro"
   }
  ],
  "P11": [
@@ -74506,6 +74558,13 @@
    "device": "seocho"
   }
  ],
+ "JVC 2K Android TV": [
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "device": "sugamo"
+  }
+ ],
  "US 2K Android TV": [
   {
    "brand": "JVC",
@@ -75752,6 +75811,13 @@
    "brand": "KRIP",
    "name": "K55h",
    "device": "K55h"
+  }
+ ],
+ "K57": [
+  {
+   "brand": "KRIP",
+   "name": "K57",
+   "device": "K57"
   }
  ],
  "K5b": [
@@ -78695,6 +78761,13 @@
    "brand": "LEYO",
    "name": "EY-TAB8161G",
    "device": "EY-TAB8161G"
+  }
+ ],
+ "K1100UA": [
+  {
+   "brand": "LG HelloVision",
+   "name": "K1100UA",
+   "device": "K1100UA"
   }
  ],
  "LG-AS855": [
@@ -97553,6 +97626,13 @@
    "device": "Vodafone_785"
   }
  ],
+ "ENTV 4K Android TV": [
+  {
+   "brand": "MTC",
+   "name": "ENTV",
+   "device": "seocho"
+  }
+ ],
  "Hansung 4K Android TV": [
   {
    "brand": "MTC",
@@ -98170,6 +98250,20 @@
    "brand": "MarQ",
    "name": "DV6067H",
    "device": "DV6067H"
+  }
+ ],
+ "MarQ 4K Android TV": [
+  {
+   "brand": "MarQ",
+   "name": "MarQ",
+   "device": "bangbae"
+  }
+ ],
+ "MarQ 2K Android TV": [
+  {
+   "brand": "MarQ",
+   "name": "MarQ",
+   "device": "komagome"
   }
  ],
  "Mara Z": [
@@ -156240,6 +156334,13 @@
    "device": "S40_VINO_PLUS"
   }
  ],
+ "S40_VISTA": [
+  {
+   "brand": "Stylo",
+   "name": "S40_VISTA",
+   "device": "S40_VISTA"
+  }
+ ],
  "S49 ECO": [
   {
    "brand": "Stylo",
@@ -172025,6 +172126,13 @@
    "device": "Ulefone_X"
   }
  ],
+ "10A_3G": [
+  {
+   "brand": "Umax",
+   "name": "10A_3G",
+   "device": "10A_3G"
+  }
+ ],
  "10A_LTE_eea": [
   {
    "brand": "Umax",
@@ -182526,6 +182634,13 @@
    "brand": "Yes",
    "name": "Altitude 2",
    "device": "M651G_MY"
+  }
+ ],
+ "M685Y4": [
+  {
+   "brand": "Yes",
+   "name": "Altitude 3",
+   "device": "M685Y4"
   }
  ],
  "M631Y": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-08-03
+Last sync is 2020-08-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -89,6 +89,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AMTC|MD7008|MD7008A|MD7008|
 |AMTC|MD7081|MD7081A|MD7081|
 |AMobile|PD470|PD470|PD470|
+|ANAM|ANAM|seocho|ANAM 4K Android TV|
 |ANDRINO|Andrino|bangbae|andrino 4K Android TV|
 |ANEE|A1 Neo|A1_Neo|A1_Neo|
 |ANS|L50|L50|L50|
@@ -2400,6 +2401,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackshark|MBU-H0|mobius|SHARK MBU-H0|
 |Blackshark|Shark|shark|SKR-H0|
 |Blackshark|Shark 1S|bullhead|AWM-A0|
+|Blackshark|黑鲨游戏手机|shark|SKR-A0|
 |Blackshark|黑鲨游戏手机 2 Pro|darklighter|DLT-A0|
 |Blacksonic|BS7|BS7|BS7|
 |Blacksonic|BS7-3G|BS7-3G|BS7-3G|
@@ -2496,6 +2498,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|Czech/Ukraine/Russia|nippori|BLAUPUNKT Android TV 2K|
 |Blaupunkt|Discovery_A10_302|Discovery_A10_302|Discovery_A10_302|
 |Blaupunkt|Endeavour101|Blaupunkt|Endeavour101|
+|Blaupunkt|Guardian|Guardian|Guardian|
 |Blaupunkt|MP3TV|shinjuku|MP3-A 2K TV|
 |Blaupunkt|SL05|SL05|SL05|
 |Blaupunkt|SLplus02|SLplus02|SLplus02|
@@ -4682,6 +4685,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EKO|Ara 5.7 A5719|A5719|Ara 5.7 A5719|
 |EKO|Australia|hanyang|Ayonz Android TV|
 |EKO|Australia|nippori|EKO Android TV 2K|
+|EKO|EKO|bangbae|EKO 4K Android TV|
+|EKO|EKO|komagome|EKO 2K Android TV|
 |EKO|EKO OMEGA LTE Q60|EKO_OMEGA_LTE_Q60|EKO OMEGA LTE Q60|
 |EKO|EKO OMEGA Q55|EKO_OMEGA_Q55|EKO OMEGA Q55|
 |EKO|EKO Star LTE G60|EKO_Star_LTE_G60|EKO Star LTE G60|
@@ -4799,6 +4804,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Elephone|A6_mini|A6_mini|A6_mini|
 |Elephone|A7H|A7H|A7H|
 |Elephone|E10|E10|E10|
+|Elephone|E10_Pro|E10_Pro|E10_Pro|
 |Elephone|Elephone S8|S8|S8|
 |Elephone|P11|P11|P11|
 |Elephone|P8 3D|P8_3D|P8_3D|
@@ -10626,6 +10632,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|JVC|seocho|JVC 4K Android TV|
 |JVC|JVC|seocho|JVC US 4K Android TV|
 |JVC|JVC|seocho|SA 4K Android TV|
+|JVC|JVC|sugamo|JVC 2K Android TV|
 |JVC|JVC|sugamo|US 2K Android TV|
 |JVC|JVC J20|Cunda|J20|
 |JVC|LT-32K397|osaki|2K AI Smart TV|
@@ -10812,6 +10819,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KRIP|K4m|K4m|K4m|
 |KRIP|K5|K5|K5|
 |KRIP|K55h|K55h|K55h|
+|KRIP|K57|K57|K57|
 |KRIP|K5b|K5b|K5b|
 |KRIP|K5c|K5c|K5c|
 |KRIP|K6|K6|K6|
@@ -11244,6 +11252,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LEOMO|LEM-TS1|LMS|LEM-TS1|
 |LEVEL TV|32F1D|osaki|2K AI Smart TV|
 |LEYO|EY-TAB8161G|EY-TAB8161G|EY-TAB8161G|
+|LG HelloVision|K1100UA|K1100UA|K1100UA|
 |LGE||AS855|LG-AS855|
 |LGE||LGP970|LG-P970|
 |LGE||US855|USCC-US855|
@@ -14084,6 +14093,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MSota|Nobby X800|Nobby_X800|Nobby X800|
 |MSota|Nobby X800 Pro|Nobby_X800_Pro|Nobby X800 Pro|
 |MTC|982|MTC_982|MTC 982|
+|MTC|ENTV|seocho|ENTV 4K Android TV|
 |MTC|Hangsung|seocho|Hansung 4K Android TV|
 |MTC|SmartEver|seocho|SmartEver 4K Android TV|
 |MTC|Smart_Light|Smart_Light|Smart_Light|
@@ -14169,6 +14179,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mantra|mDESK|mDESK|mDESK|
 |Mantra|mTerminal100|Start|Start|
 |MarQ|DV6067H|DV6067H|DV6067H|
+|MarQ|MarQ|bangbae|MarQ 4K Android TV|
+|MarQ|MarQ|komagome|MarQ 2K Android TV|
 |Mara Phones|MARA Z|Mara_Z_sprout|Mara Z|
 |Mara Phones|Mara X|Mara_X_sc|Mara X|
 |Mara Phones|Mara X dual|Mara_X|Mara X dual|
@@ -22908,6 +22920,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stylo|S40_EBONY|S40_EBONY|S40_EBONY|
 |Stylo|S40_LIFE|S40_LIFE|S40_LIFE|
 |Stylo|S40_VINO_PLUS|S40_VINO_PLUS|S40 VINO PLUS|
+|Stylo|S40_VISTA|S40_VISTA|S40_VISTA|
 |Stylo|S49 ECO|S49_ECO|S49 ECO|
 |Stylo|S49 MONO|S49_MONO|S49 MONO|
 |Stylo|S49_Cobalt|S49_cobalt|S49 cobalt|
@@ -25271,6 +25284,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Ulefone_S7|Ulefone_S7|Ulefone S7|
 |Ulefone|Ulefone_X|Ulefone_X|Ulefone_X|
 |Ulefone|Ulfone_S11|Ulefone_S11|Ulefone_S11|
+|Umax|10A_3G|10A_3G|10A_3G|
 |Umax|10A_LTE_eea|10A_LTE|10A_LTE_eea|
 |Umax|10Qa_3G|10Qa_3G|VisionBook_10Qa_3G|
 |Umax|7A_3G|7A_3G|7A_3G|
@@ -26944,10 +26958,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Yandex|Amber|Amber|YNDX-000SB|
 |Yekani|T3A  Trend|T3A_Trend|Trend|
 |Yes|Altitude 2|M651G_MY|M651G_MY|
+|Yes|Altitude 3|M685Y4|M685Y4|
 |Yes|M631Y|M631Y|M631Y|
 |Yes|STING|dwi765yes|STING|
 |Yes|yes|SEI500Y|yes|
 |YesTeL|Note_30_pro|Note_30_pro|Note 30 pro|
+|YesTeL|T5|T5|T5|
 |YesTeL|T5_EEA|T5_EEA|T5_EEA|
 |YesTeL|X7_EEA|X7_EEA|X7_EEA|
 |Yezz|4E|4E|4E|
@@ -28563,6 +28579,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zonda|AWM533|AWM533|AWM533|
 |Zong 4G|Z1|Z1|Z1|
 |Zong 4G|Z2|Z2|Z2|
+|Zonko|K101|K101|K101|
 |Zonko|K101_EEA|K101_EEA|K101_EEA|
 |Zonko|K105|K105|K105|
 |Zonko|K105_EEA|K105_EEA|K105_EEA|

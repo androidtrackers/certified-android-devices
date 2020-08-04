@@ -457,6 +457,13 @@
    "model": "PD470"
   }
  ],
+ "ANAM": [
+  {
+   "device": "seocho",
+   "name": "ANAM",
+   "model": "ANAM 4K Android TV"
+  }
+ ],
  "ANDRINO": [
   {
    "device": "bangbae",
@@ -12344,6 +12351,11 @@
    "model": "AWM-A0"
   },
   {
+   "device": "shark",
+   "name": "黑鲨游戏手机",
+   "model": "SKR-A0"
+  },
+  {
    "device": "darklighter",
    "name": "黑鲨游戏手机 2 Pro",
    "model": "DLT-A0"
@@ -12828,6 +12840,11 @@
    "device": "Blaupunkt",
    "name": "Endeavour101",
    "model": "Endeavour101"
+  },
+  {
+   "device": "Guardian",
+   "name": "Guardian",
+   "model": "Guardian"
   },
   {
    "device": "shinjuku",
@@ -24228,6 +24245,16 @@
    "model": "EKO Android TV 2K"
   },
   {
+   "device": "bangbae",
+   "name": "EKO",
+   "model": "EKO 4K Android TV"
+  },
+  {
+   "device": "komagome",
+   "name": "EKO",
+   "model": "EKO 2K Android TV"
+  },
+  {
    "device": "EKO_OMEGA_LTE_Q60",
    "name": "EKO OMEGA LTE Q60",
    "model": "EKO OMEGA LTE Q60"
@@ -24863,6 +24890,11 @@
    "device": "E10",
    "name": "E10",
    "model": "E10"
+  },
+  {
+   "device": "E10_Pro",
+   "name": "E10_Pro",
+   "model": "E10_Pro"
   },
   {
    "device": "S8",
@@ -54598,6 +54630,11 @@
   {
    "device": "sugamo",
    "name": "JVC",
+   "model": "JVC 2K Android TV"
+  },
+  {
+   "device": "sugamo",
+   "name": "JVC",
    "model": "US 2K Android TV"
   },
   {
@@ -55590,6 +55627,11 @@
    "device": "K55h",
    "name": "K55h",
    "model": "K55h"
+  },
+  {
+   "device": "K57",
+   "name": "K57",
+   "model": "K57"
   },
   {
    "device": "K5b",
@@ -57846,6 +57888,13 @@
    "device": "EY-TAB8161G",
    "name": "EY-TAB8161G",
    "model": "EY-TAB8161G"
+  }
+ ],
+ "LG HelloVision": [
+  {
+   "device": "K1100UA",
+   "name": "K1100UA",
+   "model": "K1100UA"
   }
  ],
  "LGE": [
@@ -72223,6 +72272,11 @@
   },
   {
    "device": "seocho",
+   "name": "ENTV",
+   "model": "ENTV 4K Android TV"
+  },
+  {
+   "device": "seocho",
    "name": "Hangsung",
    "model": "Hansung 4K Android TV"
   },
@@ -72683,6 +72737,16 @@
    "device": "DV6067H",
    "name": "DV6067H",
    "model": "DV6067H"
+  },
+  {
+   "device": "bangbae",
+   "name": "MarQ",
+   "model": "MarQ 4K Android TV"
+  },
+  {
+   "device": "komagome",
+   "name": "MarQ",
+   "model": "MarQ 2K Android TV"
   }
  ],
  "Mara Phones": [
@@ -117336,6 +117400,11 @@
    "model": "S40 VINO PLUS"
   },
   {
+   "device": "S40_VISTA",
+   "name": "S40_VISTA",
+   "model": "S40_VISTA"
+  },
+  {
    "device": "S49_ECO",
    "name": "S49 ECO",
    "model": "S49 ECO"
@@ -129463,6 +129532,11 @@
  ],
  "Umax": [
   {
+   "device": "10A_3G",
+   "name": "10A_3G",
+   "model": "10A_3G"
+  },
+  {
    "device": "10A_LTE",
    "name": "10A_LTE_eea",
    "model": "10A_LTE_eea"
@@ -138146,6 +138220,11 @@
    "model": "M651G_MY"
   },
   {
+   "device": "M685Y4",
+   "name": "Altitude 3",
+   "model": "M685Y4"
+  },
+  {
    "device": "M631Y",
    "name": "M631Y",
    "model": "M631Y"
@@ -138166,6 +138245,11 @@
    "device": "Note_30_pro",
    "name": "Note_30_pro",
    "model": "Note 30 pro"
+  },
+  {
+   "device": "T5",
+   "name": "T5",
+   "model": "T5"
   },
   {
    "device": "T5_EEA",
@@ -146298,6 +146382,11 @@
   }
  ],
  "Zonko": [
+  {
+   "device": "K101",
+   "name": "K101",
+   "model": "K101"
+  },
   {
    "device": "K101_EEA",
    "name": "K101_EEA",

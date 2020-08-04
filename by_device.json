@@ -680,6 +680,63 @@
    "model": "PD470"
   }
  ],
+ "seocho": [
+  {
+   "brand": "ANAM",
+   "name": "ANAM",
+   "model": "ANAM 4K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "JVC 4K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "JVC US 4K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "SA 4K Android TV"
+  },
+  {
+   "brand": "KONKA",
+   "name": "KONKA",
+   "model": "KONKA 4K Android TV"
+  },
+  {
+   "brand": "MTC",
+   "name": "ENTV",
+   "model": "ENTV 4K Android TV"
+  },
+  {
+   "brand": "MTC",
+   "name": "Hangsung",
+   "model": "Hansung 4K Android TV"
+  },
+  {
+   "brand": "MTC",
+   "name": "SmartEver",
+   "model": "SmartEver 4K Android TV"
+  },
+  {
+   "brand": "Umax",
+   "name": "UMAX",
+   "model": "UMAX 4K Android TV"
+  },
+  {
+   "brand": "iRiver",
+   "name": "iRiver",
+   "model": "Iriver 4K Android TV"
+  },
+  {
+   "brand": "truvii",
+   "name": "Truvii",
+   "model": "Truvii 4K Android TV"
+  }
+ ],
  "bangbae": [
   {
    "brand": "ANDRINO",
@@ -705,6 +762,11 @@
    "brand": "Continental Edison",
    "name": "Continential_Edison",
    "model": "Continental 4K Android TV"
+  },
+  {
+   "brand": "EKO",
+   "name": "EKO",
+   "model": "EKO 4K Android TV"
   },
   {
    "brand": "Hitachi",
@@ -740,6 +802,11 @@
    "brand": "Kivi",
    "name": "KIVI",
    "model": "KIVI 4K Android TV"
+  },
+  {
+   "brand": "MarQ",
+   "name": "MarQ",
+   "model": "MarQ 4K Android TV"
   },
   {
    "brand": "OK (Mediamark)",
@@ -5409,6 +5476,11 @@
    "model": "BLAUPUNKT 2K Android TV"
   },
   {
+   "brand": "EKO",
+   "name": "EKO",
+   "model": "EKO 2K Android TV"
+  },
+  {
    "brand": "Hyundai",
    "name": "Hyundai",
    "model": "Hyundai 2K Android TV"
@@ -5422,6 +5494,11 @@
    "brand": "Kivi",
    "name": "KIVI",
    "model": "KIVI 2K Android TV"
+  },
+  {
+   "brand": "MarQ",
+   "name": "MarQ",
+   "model": "MarQ 2K Android TV"
   },
   {
    "brand": "Polaroid",
@@ -18482,6 +18559,11 @@
    "brand": "Blackshark",
    "name": "Shark",
    "model": "SKR-H0"
+  },
+  {
+   "brand": "Blackshark",
+   "name": "黑鲨游戏手机",
+   "model": "SKR-A0"
   }
  ],
  "bullhead": [
@@ -19173,6 +19255,13 @@
    "brand": "Blaupunkt",
    "name": "Endeavour101",
    "model": "Endeavour101"
+  }
+ ],
+ "Guardian": [
+  {
+   "brand": "Blaupunkt",
+   "name": "Guardian",
+   "model": "Guardian"
   }
  ],
  "shinjuku": [
@@ -26517,6 +26606,11 @@
    "brand": "Kudae",
    "name": "K101",
    "model": "K101"
+  },
+  {
+   "brand": "Zonko",
+   "name": "K101",
+   "model": "K101"
   }
  ],
  "K102": [
@@ -33766,6 +33860,11 @@
    "brand": "Trend Mobile",
    "name": "T5",
    "model": "T5"
+  },
+  {
+   "brand": "YesTeL",
+   "name": "T5",
+   "model": "T5"
   }
  ],
  "T5S": [
@@ -35955,6 +36054,13 @@
    "brand": "VUCATIMES",
    "name": "HAOQIN",
    "model": "E10"
+  }
+ ],
+ "E10_Pro": [
+  {
+   "brand": "Elephone",
+   "name": "E10_Pro",
+   "model": "E10_Pro"
   }
  ],
  "P11": [
@@ -72266,54 +72372,12 @@
    "model": "UK 4K Android TV"
   }
  ],
- "seocho": [
-  {
-   "brand": "JVC",
-   "name": "JVC",
-   "model": "JVC 4K Android TV"
-  },
-  {
-   "brand": "JVC",
-   "name": "JVC",
-   "model": "JVC US 4K Android TV"
-  },
-  {
-   "brand": "JVC",
-   "name": "JVC",
-   "model": "SA 4K Android TV"
-  },
-  {
-   "brand": "KONKA",
-   "name": "KONKA",
-   "model": "KONKA 4K Android TV"
-  },
-  {
-   "brand": "MTC",
-   "name": "Hangsung",
-   "model": "Hansung 4K Android TV"
-  },
-  {
-   "brand": "MTC",
-   "name": "SmartEver",
-   "model": "SmartEver 4K Android TV"
-  },
-  {
-   "brand": "Umax",
-   "name": "UMAX",
-   "model": "UMAX 4K Android TV"
-  },
-  {
-   "brand": "iRiver",
-   "name": "iRiver",
-   "model": "Iriver 4K Android TV"
-  },
-  {
-   "brand": "truvii",
-   "name": "Truvii",
-   "model": "Truvii 4K Android TV"
-  }
- ],
  "sugamo": [
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "JVC 2K Android TV"
+  },
   {
    "brand": "JVC",
    "name": "JVC",
@@ -73554,6 +73618,13 @@
    "brand": "KRIP",
    "name": "K55h",
    "model": "K55h"
+  }
+ ],
+ "K57": [
+  {
+   "brand": "KRIP",
+   "name": "K57",
+   "model": "K57"
   }
  ],
  "K5b": [
@@ -76465,6 +76536,13 @@
    "brand": "LEYO",
    "name": "EY-TAB8161G",
    "model": "EY-TAB8161G"
+  }
+ ],
+ "K1100UA": [
+  {
+   "brand": "LG HelloVision",
+   "name": "K1100UA",
+   "model": "K1100UA"
   }
  ],
  "AS855": [
@@ -151321,6 +151399,13 @@
    "model": "S40 VINO PLUS"
   }
  ],
+ "S40_VISTA": [
+  {
+   "brand": "Stylo",
+   "name": "S40_VISTA",
+   "model": "S40_VISTA"
+  }
+ ],
  "S49_ECO": [
   {
    "brand": "Stylo",
@@ -164763,6 +164848,13 @@
    "model": "Ulefone_X"
   }
  ],
+ "10A_3G": [
+  {
+   "brand": "Umax",
+   "name": "10A_3G",
+   "model": "10A_3G"
+  }
+ ],
  "10A_LTE": [
   {
    "brand": "Umax",
@@ -174975,6 +175067,13 @@
    "brand": "Yes",
    "name": "Altitude 2",
    "model": "M651G_MY"
+  }
+ ],
+ "M685Y4": [
+  {
+   "brand": "Yes",
+   "name": "Altitude 3",
+   "model": "M685Y4"
   }
  ],
  "M631Y": [
