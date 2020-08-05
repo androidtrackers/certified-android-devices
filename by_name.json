@@ -28596,6 +28596,11 @@
    "brand": "Cat",
    "device": "S42",
    "model": "S42"
+  },
+  {
+   "brand": "Cat",
+   "device": "S42G",
+   "model": "S42"
   }
  ],
  "Cat S48c": [
@@ -72563,6 +72568,13 @@
    "brand": "Infinix",
    "device": "Infinix-X660C",
    "model": "Infinix X660C"
+  }
+ ],
+ "SMART 5": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X657C",
+   "model": "Infinix X657C"
   }
  ],
  "SURF 2": [
@@ -150664,6 +150676,13 @@
    "model": "5019D"
   }
  ],
+ "1T10  WIFI": [
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Aquaman_10_WIFI",
+   "model": "8091_EEA"
+  }
+ ],
  "1T10 SMART": [
   {
    "brand": "TCT (Alcatel)",
@@ -156050,6 +156069,30 @@
    "brand": "TCT (Alcatel)",
    "device": "POP455C",
    "model": "Pop4"
+  }
+ ],
+ "REVVL 4": [
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Tokyo_Lite_4G",
+   "model": "5007W"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Tokyo_Lite_4G",
+   "model": "5007Z"
+  }
+ ],
+ "REVVL 4+": [
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Porto",
+   "model": "5062W"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Porto",
+   "model": "5062Z"
   }
  ],
  "REVVL 5G": [

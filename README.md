@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-08-04
+Last sync is 2020-08-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3040,6 +3040,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cat|Cat S31|CatS31|S31|
 |Cat|Cat S41|CatS41|S41|
 |Cat|Cat S42|S42|S42|
+|Cat|Cat S42|S42G|S42|
 |Cat|Cat S48c|CatS48c|S48c|
 |Cat|Cat S52|CatS52|S52|
 |Cat|Cat S61|CatS61|S61|
@@ -10034,6 +10035,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|S5 Pro|Infinix-X660|Infinix X660|
 |Infinix|S5 Pro|Infinix-X660B|Infinix X660B|
 |Infinix|S5 Pro|Infinix-X660C|Infinix X660C|
+|Infinix|SMART 5|Infinix-X657C|Infinix X657C|
 |Infinix|SURF 2|INFINIX_X511|Infinix X511|
 |Infinix|Smart 2|Infinix-X5515|Infinix X5515|
 |Infinix|Smart 2|Infinix-X5515F|Infinix X5515F|
@@ -23297,6 +23299,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)||one_touch_996_gsm|Orange_infinity_996|
 |TCT (Alcatel)|ALCATEL ONETOUCH PIXI 3 (3.5)|PIXI3_35|SoshPhone_mini|
 |TCT (Alcatel)|ALCATEL ONETOUCH PIXI 3 (4.5)|PIXI3_45_4G|5017X|
+|TCT (Alcatel)|1T10  WIFI|Aquaman_10_WIFI|8091_EEA|
 |TCT (Alcatel)|1T10 SMART|Aquaman_10_Smart_WIFI|8092|
 |TCT (Alcatel)|1T10 SMART|Aquaman_10_Smart_WIFI|8092_EEA|
 |TCT (Alcatel)|3T10 4G|A3A_10_4G|8088G|
@@ -24236,6 +24239,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Pixo 7|PIXO7|I212|
 |TCT (Alcatel)|Pixo 7|PIXO7|I213|
 |TCT (Alcatel)|Pop4|POP455C|Pop4|
+|TCT (Alcatel)|REVVL 4|Tokyo_Lite_4G|5007W|
+|TCT (Alcatel)|REVVL 4|Tokyo_Lite_4G|5007Z|
+|TCT (Alcatel)|REVVL 4+|Porto|5062W|
+|TCT (Alcatel)|REVVL 4+|Porto|5062Z|
 |TCT (Alcatel)|REVVL 5G|Seattle_5G|T790W|
 |TCT (Alcatel)|REVVL 5G|Seattle_5G|T790Z|
 |TCT (Alcatel)|S4035_4G|Pop355|S4035_4G|

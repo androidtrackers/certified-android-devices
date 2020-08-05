@@ -15704,6 +15704,11 @@
    "model": "S42"
   },
   {
+   "device": "S42G",
+   "name": "Cat S42",
+   "model": "S42"
+  },
+  {
    "device": "CatS48c",
    "name": "Cat S48c",
    "model": "S48c"
@@ -51580,6 +51585,11 @@
    "device": "Infinix-X660C",
    "name": "S5 Pro",
    "model": "Infinix X660C"
+  },
+  {
+   "device": "Infinix-X657C",
+   "name": "SMART 5",
+   "model": "Infinix X657C"
   },
   {
    "device": "INFINIX_X511",
@@ -119347,6 +119357,11 @@
    "model": "5017X"
   },
   {
+   "device": "Aquaman_10_WIFI",
+   "name": "1T10  WIFI",
+   "model": "8091_EEA"
+  },
+  {
    "device": "Aquaman_10_Smart_WIFI",
    "name": "1T10 SMART",
    "model": "8092"
@@ -124040,6 +124055,26 @@
    "device": "POP455C",
    "name": "Pop4",
    "model": "Pop4"
+  },
+  {
+   "device": "Tokyo_Lite_4G",
+   "name": "REVVL 4",
+   "model": "5007W"
+  },
+  {
+   "device": "Tokyo_Lite_4G",
+   "name": "REVVL 4",
+   "model": "5007Z"
+  },
+  {
+   "device": "Porto",
+   "name": "REVVL 4+",
+   "model": "5062W"
+  },
+  {
+   "device": "Porto",
+   "name": "REVVL 4+",
+   "model": "5062Z"
   },
   {
    "device": "Seattle_5G",

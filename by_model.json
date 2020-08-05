@@ -6487,6 +6487,11 @@
    "brand": "Cat",
    "name": "Cat S42",
    "device": "S42"
+  },
+  {
+   "brand": "Cat",
+   "name": "Cat S42",
+   "device": "S42G"
   }
  ],
  "S51": [
@@ -70610,6 +70615,13 @@
    "brand": "Infinix",
    "name": "S5 Pro",
    "device": "Infinix-X660C"
+  }
+ ],
+ "Infinix X657C": [
+  {
+   "brand": "Infinix",
+   "name": "SMART 5",
+   "device": "Infinix-X657C"
   }
  ],
  "Infinix X511": [
@@ -158922,6 +158934,13 @@
    "device": "PIXI3_45_4G"
   }
  ],
+ "8091_EEA": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "1T10  WIFI",
+   "device": "Aquaman_10_WIFI"
+  }
+ ],
  "8092": [
   {
    "brand": "TCT (Alcatel)",
@@ -165350,6 +165369,34 @@
    "brand": "TCT (Alcatel)",
    "name": "Pop4",
    "device": "POP455C"
+  }
+ ],
+ "5007W": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "REVVL 4",
+   "device": "Tokyo_Lite_4G"
+  }
+ ],
+ "5007Z": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "REVVL 4",
+   "device": "Tokyo_Lite_4G"
+  }
+ ],
+ "5062W": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "REVVL 4+",
+   "device": "Porto"
+  }
+ ],
+ "5062Z": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "REVVL 4+",
+   "device": "Porto"
   }
  ],
  "T790W": [
