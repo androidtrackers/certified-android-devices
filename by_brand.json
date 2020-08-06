@@ -10498,6 +10498,11 @@
    "model": "AX688"
   },
   {
+   "device": "Bmobile_AX688",
+   "name": "Bmobile_AX688",
+   "model": "AX688+"
+  },
+  {
    "device": "Bmobile_AX751_PLUS",
    "name": "Bmobile_AX751_PLUS",
    "model": "AX751+"
@@ -28796,11 +28801,6 @@
    "model": "F-12C"
   },
   {
-   "device": "F41A",
-   "name": "F-41A",
-   "model": "F-41A"
-  },
-  {
    "device": "F51A",
    "name": "F-51A",
    "model": "F-51A"
@@ -28949,6 +28949,11 @@
    "device": "TONEm17",
    "name": "TONE m17",
    "model": "TONE-m17"
+  },
+  {
+   "device": "F41A",
+   "name": "arrows Be4 F-41A",
+   "model": "F-41A"
   },
   {
    "device": "M02",
@@ -51127,6 +51132,16 @@
    "model": "AI PONT"
   },
   {
+   "device": "Infinix-X682B",
+   "name": "HOT 10",
+   "model": "Infinix X682B"
+  },
+  {
+   "device": "Infinix-X682C",
+   "name": "HOT 10",
+   "model": "Infinix X682C"
+  },
+  {
    "device": "Infinix-X657B",
    "name": "HOT 10 lite",
    "model": "Infinix X657B"
@@ -51455,6 +51470,11 @@
    "device": "Infinix-X572",
    "name": "Infinix X572",
    "model": "Infinix X572"
+  },
+  {
+   "device": "Infinix-X687",
+   "name": "Infinix ZERO8",
+   "model": "Infinix X687"
   },
   {
    "device": "X601",
@@ -103819,6 +103839,76 @@
    "model": "SCH-I605"
   },
   {
+   "device": "c1s",
+   "name": "Galaxy Note20",
+   "model": "SM-N980F"
+  },
+  {
+   "device": "c1q",
+   "name": "Galaxy Note20 5G",
+   "model": "SM-N9810"
+  },
+  {
+   "device": "c1q",
+   "name": "Galaxy Note20 5G",
+   "model": "SM-N981N"
+  },
+  {
+   "device": "c1q",
+   "name": "Galaxy Note20 5G",
+   "model": "SM-N981U"
+  },
+  {
+   "device": "c1q",
+   "name": "Galaxy Note20 5G",
+   "model": "SM-N981U1"
+  },
+  {
+   "device": "c1q",
+   "name": "Galaxy Note20 5G",
+   "model": "SM-N981W"
+  },
+  {
+   "device": "c1s",
+   "name": "Galaxy Note20 5G",
+   "model": "SM-N981B"
+  },
+  {
+   "device": "c2s",
+   "name": "Galaxy Note20 Ultra",
+   "model": "SM-N985F"
+  },
+  {
+   "device": "c2q",
+   "name": "Galaxy Note20 Ultra 5G",
+   "model": "SM-N9860"
+  },
+  {
+   "device": "c2q",
+   "name": "Galaxy Note20 Ultra 5G",
+   "model": "SM-N986N"
+  },
+  {
+   "device": "c2q",
+   "name": "Galaxy Note20 Ultra 5G",
+   "model": "SM-N986U"
+  },
+  {
+   "device": "c2q",
+   "name": "Galaxy Note20 Ultra 5G",
+   "model": "SM-N986U1"
+  },
+  {
+   "device": "c2q",
+   "name": "Galaxy Note20 Ultra 5G",
+   "model": "SM-N986W"
+  },
+  {
+   "device": "c2s",
+   "name": "Galaxy Note20 Ultra 5G",
+   "model": "SM-N986B"
+  },
+  {
    "device": "SC-01F",
    "name": "Galaxy Note3",
    "model": "SC-01F"
@@ -113081,6 +113171,11 @@
    "model": "Elite M5Plus"
   },
   {
+   "device": "Elite_P5",
+   "name": "Elite P5",
+   "model": "Elite P5"
+  },
+  {
    "device": "Elite_T4",
    "name": "Elite T4",
    "model": "Elite T4"
@@ -113420,6 +113515,16 @@
    "device": "shimbashi",
    "name": "North America",
    "model": "2K TV"
+  },
+  {
+   "device": "SW4H",
+   "name": "SWTV-20AE",
+   "model": "SWTV-20AE"
+  },
+  {
+   "device": "SW4H",
+   "name": "SWTV-20SA",
+   "model": "SWTV-20SA"
   },
   {
    "device": "grape",
@@ -118417,6 +118522,36 @@
    "device": "A70AXLTMO",
    "name": "REVVL 2 PLUS",
    "model": "REVVL 2 PLUS"
+  },
+  {
+   "device": "Tokyo_Lite_4G",
+   "name": "REVVL 4",
+   "model": "5007W"
+  },
+  {
+   "device": "Tokyo_Lite_4G",
+   "name": "REVVL 4",
+   "model": "5007Z"
+  },
+  {
+   "device": "Porto",
+   "name": "REVVL 4+",
+   "model": "5062W"
+  },
+  {
+   "device": "Porto",
+   "name": "REVVL 4+",
+   "model": "5062Z"
+  },
+  {
+   "device": "Seattle_5G",
+   "name": "REVVL 5G",
+   "model": "T790W"
+  },
+  {
+   "device": "Seattle_5G",
+   "name": "REVVL 5G",
+   "model": "T790Z"
   },
   {
    "device": "channel",
@@ -124057,36 +124192,6 @@
    "model": "Pop4"
   },
   {
-   "device": "Tokyo_Lite_4G",
-   "name": "REVVL 4",
-   "model": "5007W"
-  },
-  {
-   "device": "Tokyo_Lite_4G",
-   "name": "REVVL 4",
-   "model": "5007Z"
-  },
-  {
-   "device": "Porto",
-   "name": "REVVL 4+",
-   "model": "5062W"
-  },
-  {
-   "device": "Porto",
-   "name": "REVVL 4+",
-   "model": "5062Z"
-  },
-  {
-   "device": "Seattle_5G",
-   "name": "REVVL 5G",
-   "model": "T790W"
-  },
-  {
-   "device": "Seattle_5G",
-   "name": "REVVL 5G",
-   "model": "T790Z"
-  },
-  {
    "device": "Pop355",
    "name": "S4035_4G",
    "model": "S4035_4G"
@@ -126854,6 +126959,11 @@
    "device": "TECNO-CD7",
    "name": "TECNO CAMON 15",
    "model": "TECNO CD7"
+  },
+  {
+   "device": "TECNO-CE9",
+   "name": "TECNO CAMON 16 Premier",
+   "model": "TECNO CE9"
   },
   {
    "device": "TECNO-KB2",
@@ -136173,6 +136283,16 @@
    "device": "W-V720",
    "name": "Y80",
    "model": "W-V720-TVM"
+  },
+  {
+   "device": "W-V680",
+   "name": "Y81",
+   "model": "W-V680-EEA"
+  },
+  {
+   "device": "W-V680",
+   "name": "Y81",
+   "model": "W-V680-OPE"
   },
   {
    "device": "W-K360",

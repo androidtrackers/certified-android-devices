@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-08-05
+Last sync is 2020-08-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2046,6 +2046,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|Bmobile AX960|Bmobile_AX960_MV03|AX960|
 |BMobile|Bmobile_AX1077|Bmobile_AX1077A|AX1077|
 |BMobile|Bmobile_AX688|Bmobile_AX688|AX688|
+|BMobile|Bmobile_AX688|Bmobile_AX688|AX688+|
 |BMobile|Bmobile_AX751_PLUS|Bmobile_AX751_PLUS|AX751+|
 |BMobile|Bmobile_AX752|Bmobile_AX752|AX752|
 |BMobile|Bmoblie AX683|Bmobile_AX683_MV04|AX683|
@@ -5548,7 +5549,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fujitsu|F-09D ANTEPRIMA|F09D|F-09D|
 |Fujitsu|F-09E|F09E|F-09E|
 |Fujitsu|F-12C|f11eif|F-12C|
-|Fujitsu|F-41A|F41A|F-41A|
 |Fujitsu|F-51A|F51A|F-51A|
 |Fujitsu|FARTM9334P1|FARTM9334|FARTM9334P1|
 |Fujitsu|FARTM933KZ|FARTM933KZ|FARTM933KZ|
@@ -5579,6 +5579,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fujitsu|SZJ-JS101|SZJ101|SZJ-JS101|
 |Fujitsu|TM20|STF|TM20|
 |Fujitsu|TONE m17|TONEm17|TONE-m17|
+|Fujitsu|arrows Be4 F-41A|F41A|F-41A|
 |Fujitsu|arrows M02|M02|M02|
 |Fujitsu|arrows M03|M03|arrowsM03|
 |Fujitsu|arrows M04|M04|arrowsM04|
@@ -9943,6 +9944,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinity|Infinity|Infinity|Infinity|
 |Infinix|32X1|ikebukuro|AI PONT|
 |Infinix|Africa & Asia Pacific|samseong|AI PONT|
+|Infinix|HOT 10|Infinix-X682B|Infinix X682B|
+|Infinix|HOT 10|Infinix-X682C|Infinix X682C|
 |Infinix|HOT 10 lite|Infinix-X657B|Infinix X657B|
 |Infinix|HOT 2|Infinix_X510|Infinix X510|
 |Infinix|HOT 3|INFINIX-X554|Infinix HOT 3 Pro|
@@ -10009,6 +10012,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix X559|Infinix-X559|Infinix X559|
 |Infinix|Infinix X571|Infinix-X571|Infinix X571|
 |Infinix|Infinix X572|Infinix-X572|Infinix X572|
+|Infinix|Infinix ZERO8|Infinix-X687|Infinix X687|
 |Infinix|NOTE 3|X601|Infinix NOTE 3|
 |Infinix|NOTE 3 Pro|X601-3G|Infinix NOTE 3 Pro|
 |Infinix|NOTE 3 Pro|X601-LTE|Infinix NOTE 3 Pro|
@@ -20241,6 +20245,20 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Note2|t0ltetmo|SGH-T889|
 |Samsung|Galaxy Note2|t0lteusc|SCH-R950|
 |Samsung|Galaxy Note2|t0ltevzw|SCH-I605|
+|Samsung|Galaxy Note20|c1s|SM-N980F|
+|Samsung|Galaxy Note20 5G|c1q|SM-N9810|
+|Samsung|Galaxy Note20 5G|c1q|SM-N981N|
+|Samsung|Galaxy Note20 5G|c1q|SM-N981U|
+|Samsung|Galaxy Note20 5G|c1q|SM-N981U1|
+|Samsung|Galaxy Note20 5G|c1q|SM-N981W|
+|Samsung|Galaxy Note20 5G|c1s|SM-N981B|
+|Samsung|Galaxy Note20 Ultra|c2s|SM-N985F|
+|Samsung|Galaxy Note20 Ultra 5G|c2q|SM-N9860|
+|Samsung|Galaxy Note20 Ultra 5G|c2q|SM-N986N|
+|Samsung|Galaxy Note20 Ultra 5G|c2q|SM-N986U|
+|Samsung|Galaxy Note20 Ultra 5G|c2q|SM-N986U1|
+|Samsung|Galaxy Note20 Ultra 5G|c2q|SM-N986W|
+|Samsung|Galaxy Note20 Ultra 5G|c2s|SM-N986B|
 |Samsung|Galaxy Note3|SC-01F|SC-01F|
 |Samsung|Galaxy Note3|SC-02F|SC-02F|
 |Samsung|Galaxy Note3|SCL22|SCL22|
@@ -22075,6 +22093,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|Elite M5Plus|Elite_M5Plus|Elite M5Plus|
 |Sky Devices|Elite M5Plus|Elite_M5Plus_PA|Elite M5Plus|
 |Sky Devices|Elite M5Plus|Elite_M5Plus_SAL|Elite M5Plus|
+|Sky Devices|Elite P5|Elite_P5|Elite P5|
 |Sky Devices|Elite T4|Elite_T4|Elite T4|
 |Sky Devices|Elite T45|Elite_T45|Elite T45|
 |Sky Devices|Elite T55|Elite_T55_HN|Elite T55|
@@ -22142,6 +22161,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Skyworth|North America|SW3_ATV|SWTV|
 |Skyworth|North America|globe_na|globe|
 |Skyworth|North America|shimbashi|2K TV|
+|Skyworth|SWTV-20AE|SW4H|SWTV-20AE|
+|Skyworth|SWTV-20SA|SW4H|SWTV-20SA|
 |Skyworth|Skyworth|grape|HPA02|
 |Skyworth|South Africa|open_fhd_sa|open_fhd|
 |Skyworth|South America|SW3_ATV|SWTV|
@@ -23115,6 +23136,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |T-Mobile|REVVL 2|A30ATMO|REVVL 2|
 |T-Mobile|REVVL 2|A30ATMO|REVVL_2_5052W|
 |T-Mobile|REVVL 2 PLUS|A70AXLTMO|REVVL 2 PLUS|
+|T-Mobile|REVVL 4|Tokyo_Lite_4G|5007W|
+|T-Mobile|REVVL 4|Tokyo_Lite_4G|5007Z|
+|T-Mobile|REVVL 4+|Porto|5062W|
+|T-Mobile|REVVL 4+|Porto|5062Z|
+|T-Mobile|REVVL 5G|Seattle_5G|T790W|
+|T-Mobile|REVVL 5G|Seattle_5G|T790Z|
 |T-Mobile|REVVLRY|channel|REVVLRY|
 |T-Mobile|REVVLRY|channel|REVVLry|
 |T-Mobile|REVVLRY+|lake_n|REVVLRY+|
@@ -24239,12 +24266,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Pixo 7|PIXO7|I212|
 |TCT (Alcatel)|Pixo 7|PIXO7|I213|
 |TCT (Alcatel)|Pop4|POP455C|Pop4|
-|TCT (Alcatel)|REVVL 4|Tokyo_Lite_4G|5007W|
-|TCT (Alcatel)|REVVL 4|Tokyo_Lite_4G|5007Z|
-|TCT (Alcatel)|REVVL 4+|Porto|5062W|
-|TCT (Alcatel)|REVVL 4+|Porto|5062Z|
-|TCT (Alcatel)|REVVL 5G|Seattle_5G|T790W|
-|TCT (Alcatel)|REVVL 5G|Seattle_5G|T790Z|
 |TCT (Alcatel)|S4035_4G|Pop355|S4035_4G|
 |TCT (Alcatel)|SHINE LITE|shine_lite|5080D|
 |TCT (Alcatel)|SHINE LITE|shine_lite|5080X|
@@ -24780,6 +24801,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CAMON 12 Air|TECNO-KC3|TECNO KC3|
 |Tecno|TECNO CAMON 12 Pro|TECNO-CC9|TECNO CC9|
 |Tecno|TECNO CAMON 15|TECNO-CD7|TECNO CD7|
+|Tecno|TECNO CAMON 16 Premier|TECNO-CE9|TECNO CE9|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|
 |Tecno|TECNO CAMON iACE 2x|TECNO-KB2j|TECNO KB2j|
 |Tecno|TECNO CX Air|TECNO-CX-Air|TECNO CX Air|
@@ -26567,6 +26589,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|Y80|W-V720|W-V720-OPE|
 |Wiko|Y80|W-V720|W-V720-SUN|
 |Wiko|Y80|W-V720|W-V720-TVM|
+|Wiko|Y81|W-V680|W-V680-EEA|
+|Wiko|Y81|W-V680|W-V680-OPE|
 |Wiko|sunny4 Plus|W-K360|W-K360-TV|
 |Wileyfox|Spark|porridge|Wileyfox Spark|
 |Wileyfox|Spark|porridge|Wileyfox Spark +|
