@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-08-06
+Last sync is 2020-08-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1912,6 +1912,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BKAV|Bphone|Bphone|Bphone B1114|
 |BKAV|Bphone|Bphone|Bphone B1115|
 |BKAV|Bphone|Bphone|Bphone B1116|
+|BKAV|Bphone B86|Bphone_B86|Bphone B86|
 |BLECK|BE dg|BE_dg|BE_dg|
 |BLECK|BE fr|BE_fr|BE_fr|
 |BLECK|BE_et|BE_et|BE_et|
@@ -2507,6 +2508,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|SM_02_2019|SM_02_2019|SM 02 2019|
 |Blaupunkt|Soundphone_S1|Soundphone_S1|Soundphone_S1|
 |Blaupunkt|TX01|TX01|TX01|
+|Blaupunkt|"Ukraine|Czech"|hanyang|
 |Blu|A-200|A200|A200|
 |Blu|A200|A200|A200|
 |Blu|A250|A250|A250|
@@ -3289,6 +3291,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cipherlab|RK95|RK95|RK95|
 |Cipherlab|RS30|Mercury|CipherLab RS30|
 |Cipherlab|RS31|RS31|RS31|
+|Cipherlab|RS35|RS35|RS35|
 |Cipherlab|RS51_HS|RS51_HS|RS51_HS|
 |Cipherlab|Saturn|RS50|RS50|
 |Cisco|CP-DX650|CP-DX650|CP-DX650|
@@ -6132,6 +6135,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel 3a XL|bonito|Pixel 3a XL|
 |Google|Pixel 4|flame|Pixel 4|
 |Google|Pixel 4 XL|coral|Pixel 4 XL|
+|Google|Pixel 4a|sunfish|Pixel 4a|
 |Google|Pixel C|dragon|Pixel C|
 |Google|Pixel Slate|nocturne_cheets|Google Pixel Slate|
 |Google|Pixel Slate|nocturne_cheets|Pixel Slate|
@@ -10468,6 +10472,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Isafe|IS655|IS655|IS655|
 |Isafe|IS910.1|IS910_1|IS910_1|
 |Isafe|IS930|IS930|IS930|
+|Iskon|wh220_iskon|wh220_iskon|Iskon.TV|
 |Itel|A11|itel_A11|itel A11|
 |Itel|A12|itel_A12|itel A12|
 |Itel|A13|itel_A13|itel A13|
@@ -10810,6 +10815,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KONKA|RU1|RU1|RU1|
 |KONKA|SE1|SE1|SE1|
 |KONKA|SE2|SE2|SE2|
+|KONKA|SP10|SP10|SP10|
 |KONKA|SP3|SP3|SP3|
 |KONKA|SP5|SP5|SP5|
 |KONKA|SP9|SP9|SP9|
@@ -13471,6 +13477,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M10 FHD Rel|801LV|801LV|
 |Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306F|Lenovo TB-X306F|
 |Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306FC_PRC|Lenovo TB-X306FC_PRC|
+|Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306NC_PRC|Lenovo TB-X306NC_PRC|
 |Lenovo|Lenovo Tab M10 HD(2nd Gen)|X306X|Lenovo TB-X306X|
 |Lenovo|Lenovo Tab M10 Plus|X606V|Lenovo TB-X606V|
 |Lenovo|Lenovo Tab M10 Plus|X606X|Lenovo TB-X606X|
@@ -16234,6 +16241,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Android TV|R2|ATV R2|
 |Nokia|C2|NBL|Nebula|
 |Nokia|C2|NBL|Nokia C2|
+|Nokia|DVN2KA01|DV6068H_Nokia|DVN2KA01|
 |Nokia|N1|Nokia_N1|N1|
 |Nokia|Nokia 1|FRT|Nokia 1|
 |Nokia|Nokia 1 Plus|ANT|Nokia 1 Plus|
@@ -23329,6 +23337,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|1T10  WIFI|Aquaman_10_WIFI|8091_EEA|
 |TCT (Alcatel)|1T10 SMART|Aquaman_10_Smart_WIFI|8092|
 |TCT (Alcatel)|1T10 SMART|Aquaman_10_Smart_WIFI|8092_EEA|
+|TCT (Alcatel)|1T10 SMART|Aquaman_10_Smart_WIFI|8092_TR|
 |TCT (Alcatel)|3T10 4G|A3A_10_4G|8088G|
 |TCT (Alcatel)|3T10 4G|A3A_10_4G|8088X|
 |TCT (Alcatel)|3T10 4G|Aquaman_10_4G|8094M|
@@ -24604,6 +24613,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Techpad|816|816|816|
 |Techpad|GamePad|GamePad|GamePad|
 |Techpad|K13|K13|K13|
+|Techpad|M5Go|M5Go|M5Go|
 |Techpad|M5Plus|M5Plus|M5Plus|
 |Techpad|M6|M6|M6|
 |Techpad|M6 Plus|M6Plus|M6Plus|

@@ -19846,6 +19846,13 @@
    "model": "Bphone B1116"
   }
  ],
+ "Bphone B86": [
+  {
+   "brand": "BKAV",
+   "device": "Bphone_B86",
+   "model": "Bphone B86"
+  }
+ ],
  "BE dg": [
   {
    "brand": "BLECK",
@@ -24334,6 +24341,23 @@
    "brand": "Blaupunkt",
    "device": "TX01",
    "model": "TX01"
+  }
+ ],
+ "\"Ukraine": [
+  {
+   "brand": "Blaupunkt",
+   "device": "Czech\"",
+   "model": "hanyang"
+  },
+  {
+   "brand": "ZTE",
+   "device": "Kazakhstan",
+   "model": "Azerbaijan\""
+  },
+  {
+   "brand": "ZTE",
+   "device": "Kazakhstan",
+   "model": "Azerbaijan\""
   }
  ],
  "A-200": [
@@ -30352,6 +30376,13 @@
    "brand": "Cipherlab",
    "device": "RS31",
    "model": "RS31"
+  }
+ ],
+ "RS35": [
+  {
+   "brand": "Cipherlab",
+   "device": "RS35",
+   "model": "RS35"
   }
  ],
  "RS51_HS": [
@@ -50505,6 +50536,13 @@
    "brand": "Google",
    "device": "coral",
    "model": "Pixel 4 XL"
+  }
+ ],
+ "Pixel 4a": [
+  {
+   "brand": "Google",
+   "device": "sunfish",
+   "model": "Pixel 4a"
   }
  ],
  "Pixel C": [
@@ -75336,6 +75374,13 @@
    "model": "IS930"
   }
  ],
+ "wh220_iskon": [
+  {
+   "brand": "Iskon",
+   "device": "wh220_iskon",
+   "model": "Iskon.TV"
+  }
+ ],
  "A11": [
   {
    "brand": "Itel",
@@ -77603,6 +77648,13 @@
    "brand": "KONKA",
    "device": "SE2",
    "model": "SE2"
+  }
+ ],
+ "SP10": [
+  {
+   "brand": "KONKA",
+   "device": "SP10",
+   "model": "SP10"
   }
  ],
  "SP3": [
@@ -92466,6 +92518,11 @@
    "brand": "Lenovo",
    "device": "X306FC_PRC",
    "model": "Lenovo TB-X306FC_PRC"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "X306NC_PRC",
+   "model": "Lenovo TB-X306NC_PRC"
   }
  ],
  "Lenovo Tab M10 Plus": [
@@ -109298,6 +109355,13 @@
    "brand": "Noblex",
    "device": "Tablet",
    "model": "T7A6N"
+  }
+ ],
+ "DVN2KA01": [
+  {
+   "brand": "Nokia",
+   "device": "DV6068H_Nokia",
+   "model": "DVN2KA01"
   }
  ],
  "Nokia 1": [
@@ -150852,6 +150916,11 @@
    "brand": "TCT (Alcatel)",
    "device": "Aquaman_10_Smart_WIFI",
    "model": "8092_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Aquaman_10_Smart_WIFI",
+   "model": "8092_TR"
   }
  ],
  "3T10 4G": [
@@ -158267,6 +158336,13 @@
    "brand": "Techpad",
    "device": "K13",
    "model": "K13"
+  }
+ ],
+ "M5Go": [
+  {
+   "brand": "Techpad",
+   "device": "M5Go",
+   "model": "M5Go"
   }
  ],
  "M5Plus": [
@@ -178105,18 +178181,6 @@
    "brand": "ZTE",
    "device": "noah",
    "model": "Z968"
-  }
- ],
- "\"Ukraine": [
-  {
-   "brand": "ZTE",
-   "device": "Kazakhstan",
-   "model": "Azerbaijan\""
-  },
-  {
-   "brand": "ZTE",
-   "device": "Kazakhstan",
-   "model": "Azerbaijan\""
   }
  ],
  "Ultym 5.2": [

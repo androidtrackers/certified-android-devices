@@ -9812,6 +9812,11 @@
    "device": "Bphone",
    "name": "Bphone",
    "model": "Bphone B1116"
+  },
+  {
+   "device": "Bphone_B86",
+   "name": "Bphone B86",
+   "model": "Bphone B86"
   }
  ],
  "BLECK": [
@@ -12885,6 +12890,11 @@
    "device": "TX01",
    "name": "TX01",
    "model": "TX01"
+  },
+  {
+   "device": "Czech\"",
+   "name": "\"Ukraine",
+   "model": "hanyang"
   }
  ],
  "Blu": [
@@ -16993,6 +17003,11 @@
    "device": "RS31",
    "name": "RS31",
    "model": "RS31"
+  },
+  {
+   "device": "RS35",
+   "name": "RS35",
+   "model": "RS35"
   },
   {
    "device": "RS51_HS",
@@ -31846,6 +31861,11 @@
    "device": "coral",
    "name": "Pixel 4 XL",
    "model": "Pixel 4 XL"
+  },
+  {
+   "device": "sunfish",
+   "name": "Pixel 4a",
+   "model": "Pixel 4a"
   },
   {
    "device": "dragon",
@@ -53794,6 +53814,13 @@
    "model": "IS930"
   }
  ],
+ "Iskon": [
+  {
+   "device": "wh220_iskon",
+   "name": "wh220_iskon",
+   "model": "Iskon.TV"
+  }
+ ],
  "Itel": [
   {
    "device": "itel_A11",
@@ -55576,6 +55603,11 @@
    "device": "SE2",
    "name": "SE2",
    "model": "SE2"
+  },
+  {
+   "device": "SP10",
+   "name": "SP10",
+   "model": "SP10"
   },
   {
    "device": "SP3",
@@ -69053,6 +69085,11 @@
    "device": "X306FC_PRC",
    "name": "Lenovo Tab M10 HD (2nd Gen)",
    "model": "Lenovo TB-X306FC_PRC"
+  },
+  {
+   "device": "X306NC_PRC",
+   "name": "Lenovo Tab M10 HD (2nd Gen)",
+   "model": "Lenovo TB-X306NC_PRC"
   },
   {
    "device": "X306X",
@@ -83308,6 +83345,11 @@
    "device": "NBL",
    "name": "C2",
    "model": "Nokia C2"
+  },
+  {
+   "device": "DV6068H_Nokia",
+   "name": "DVN2KA01",
+   "model": "DVN2KA01"
   },
   {
    "device": "Nokia_N1",
@@ -119507,6 +119549,11 @@
    "model": "8092_EEA"
   },
   {
+   "device": "Aquaman_10_Smart_WIFI",
+   "name": "1T10 SMART",
+   "model": "8092_TR"
+  },
+  {
    "device": "A3A_10_4G",
    "name": "3T10 4G",
    "model": "8088G"
@@ -125968,6 +126015,11 @@
    "device": "K13",
    "name": "K13",
    "model": "K13"
+  },
+  {
+   "device": "M5Go",
+   "name": "M5Go",
+   "model": "M5Go"
   },
   {
    "device": "M5Plus",

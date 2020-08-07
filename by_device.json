@@ -15135,6 +15135,13 @@
    "model": "Bphone B1116"
   }
  ],
+ "Bphone_B86": [
+  {
+   "brand": "BKAV",
+   "name": "Bphone B86",
+   "model": "Bphone B86"
+  }
+ ],
  "BE_dg": [
   {
    "brand": "BLECK",
@@ -19336,6 +19343,13 @@
    "brand": "Blaupunkt",
    "name": "TX01",
    "model": "TX01"
+  }
+ ],
+ "Czech\"": [
+  {
+   "brand": "Blaupunkt",
+   "name": "\"Ukraine",
+   "model": "hanyang"
   }
  ],
  "A200": [
@@ -24839,6 +24853,13 @@
    "brand": "Cipherlab",
    "name": "RS31",
    "model": "RS31"
+  }
+ ],
+ "RS35": [
+  {
+   "brand": "Cipherlab",
+   "name": "RS35",
+   "model": "RS35"
   }
  ],
  "RS51_HS": [
@@ -45402,6 +45423,13 @@
    "brand": "Google",
    "name": "Pixel 4 XL",
    "model": "Pixel 4 XL"
+  }
+ ],
+ "sunfish": [
+  {
+   "brand": "Google",
+   "name": "Pixel 4a",
+   "model": "Pixel 4a"
   }
  ],
  "dragon": [
@@ -71327,6 +71355,13 @@
    "model": "IS930"
   }
  ],
+ "wh220_iskon": [
+  {
+   "brand": "Iskon",
+   "name": "wh220_iskon",
+   "model": "Iskon.TV"
+  }
+ ],
  "itel_A11": [
   {
    "brand": "Itel",
@@ -73581,6 +73616,18 @@
    "brand": "KONKA",
    "name": "SE2",
    "model": "SE2"
+  }
+ ],
+ "SP10": [
+  {
+   "brand": "KONKA",
+   "name": "SP10",
+   "model": "SP10"
+  },
+  {
+   "brand": "Unnion Technologies",
+   "name": "Unnion SP10",
+   "model": "SP10"
   }
  ],
  "SP3": [
@@ -90170,6 +90217,13 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab M10 HD (2nd Gen)",
    "model": "Lenovo TB-X306FC_PRC"
+  }
+ ],
+ "X306NC_PRC": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M10 HD (2nd Gen)",
+   "model": "Lenovo TB-X306NC_PRC"
   }
  ],
  "X606V": [
@@ -108255,6 +108309,13 @@
    "brand": "Nokia",
    "name": "C2",
    "model": "Nokia C2"
+  }
+ ],
+ "DV6068H_Nokia": [
+  {
+   "brand": "Nokia",
+   "name": "DVN2KA01",
+   "model": "DVN2KA01"
   }
  ],
  "Nokia_N1": [
@@ -154822,6 +154883,11 @@
    "brand": "TCT (Alcatel)",
    "name": "1T10 SMART",
    "model": "8092_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "1T10 SMART",
+   "model": "8092_TR"
   }
  ],
  "A3A_10_4G": [
@@ -160577,6 +160643,13 @@
    "model": "K13"
   }
  ],
+ "M5Go": [
+  {
+   "brand": "Techpad",
+   "name": "M5Go",
+   "model": "M5Go"
+  }
+ ],
  "M5Plus": [
   {
    "brand": "Techpad",
@@ -165481,13 +165554,6 @@
    "brand": "Unnion Technologies",
    "name": "UNSP7",
    "model": "UNSP7"
-  }
- ],
- "SP10": [
-  {
-   "brand": "Unnion Technologies",
-   "name": "Unnion SP10",
-   "model": "SP10"
   }
  ],
  "UNONU_U4001": [
