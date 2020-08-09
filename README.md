@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-08-08
+Last sync is 2020-08-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7566,6 +7566,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense E40|HLTE229E_10|HLTE229E|
 |Hisense|Hisense E40|HLTE229E_10|Hisense E40|
 |Hisense|Hisense E40|HLTE229E_11|HLTE229E|
+|Hisense|Hisense E40|HLTE229E_11|Hisense E40|
 |Hisense|Hisense E40|HLTE229E_12|HLTE229E|
 |Hisense|Hisense E76MINIM|HS8937QC|Hisense E76MINIM|
 |Hisense|Hisense E77|HS8937QC|Hisense E77|
@@ -11255,6 +11256,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|zio|msm7627_surf|Zio|
 |Kyocera|zio|pls8600|Zio|
 |Kyocera|おてがるスマホ01|KYV44_u2|KYV44_u2|
+|Kyocera|かんたんスマホ２|A001KC|A001KC|
 |Kyowon|All&G PAD|mypad2|KA-E410W|
 |Kzen|Eva_E01|Eva_E01|Eva_E01|
 |Kzen|Lamia_L01|Lamia_L01|Lamia L01|
@@ -24665,6 +24667,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|CAMON 12|TECNO-CC7S|TECNO CC7S|
 |Tecno|CAMON 12 Air|TECNO-CC6|TECNO CC6|
 |Tecno|CAMON 15 Air|TECNO-CD6|TECNO CD6|
+|Tecno|CAMON 15 Air|TECNO-CD6|TECNO CD6S|
 |Tecno|CAMON 15 Premier|TECNO-CD8j|TECNO CD8j|
 |Tecno|CAMON 15 Pro|TECNO-CD8|TECNO CD8|
 |Tecno|CAMON C7|TECNO-C7|TECNO-C7|

@@ -59128,6 +59128,11 @@
   },
   {
    "brand": "Hisense",
+   "device": "HLTE229E_11",
+   "model": "Hisense E40"
+  },
+  {
+   "brand": "Hisense",
    "device": "HLTE229E_12",
    "model": "HLTE229E"
   }
@@ -80561,6 +80566,13 @@
    "brand": "Kyocera",
    "device": "KYV44_u2",
    "model": "KYV44_u2"
+  }
+ ],
+ "かんたんスマホ２": [
+  {
+   "brand": "Kyocera",
+   "device": "A001KC",
+   "model": "A001KC"
   }
  ],
  "All&G PAD": [
@@ -158631,6 +158643,11 @@
    "brand": "Tecno",
    "device": "TECNO-CD6",
    "model": "TECNO CD6"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-CD6",
+   "model": "TECNO CD6S"
   }
  ],
  "CAMON 15 Premier": [

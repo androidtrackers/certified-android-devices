@@ -39120,6 +39120,11 @@
    "model": "HLTE229E"
   },
   {
+   "device": "HLTE229E_11",
+   "name": "Hisense E40",
+   "model": "Hisense E40"
+  },
+  {
    "device": "HLTE229E_12",
    "name": "Hisense E40",
    "model": "HLTE229E"
@@ -57893,6 +57898,11 @@
    "device": "KYV44_u2",
    "name": "おてがるスマホ01",
    "model": "KYV44_u2"
+  },
+  {
+   "device": "A001KC",
+   "name": "かんたんスマホ２",
+   "model": "A001KC"
   }
  ],
  "Kyowon": [
@@ -126281,6 +126291,11 @@
    "device": "TECNO-CD6",
    "name": "CAMON 15 Air",
    "model": "TECNO CD6"
+  },
+  {
+   "device": "TECNO-CD6",
+   "name": "CAMON 15 Air",
+   "model": "TECNO CD6S"
   },
   {
    "device": "TECNO-CD8j",

@@ -54187,6 +54187,11 @@
    "brand": "Hisense",
    "name": "Hisense E40",
    "device": "HLTE229E_10"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense E40",
+   "device": "HLTE229E_11"
   }
  ],
  "Hisense E76MINIM": [
@@ -78792,6 +78797,13 @@
    "brand": "Kyocera",
    "name": "おてがるスマホ01",
    "device": "KYV44_u2"
+  }
+ ],
+ "A001KC": [
+  {
+   "brand": "Kyocera",
+   "name": "かんたんスマホ２",
+   "device": "A001KC"
   }
  ],
  "KA-E410W": [
@@ -168149,6 +168161,13 @@
   }
  ],
  "TECNO CD6": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 15 Air",
+   "device": "TECNO-CD6"
+  }
+ ],
+ "TECNO CD6S": [
   {
    "brand": "Tecno",
    "name": "CAMON 15 Air",
