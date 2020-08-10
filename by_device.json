@@ -85785,6 +85785,13 @@
    "model": "iris90"
   }
  ],
+ "Z66": [
+  {
+   "brand": "Lava",
+   "name": "LAVA Z66",
+   "model": "Lava Z66"
+  }
+ ],
  "LE9810": [
   {
    "brand": "Lava",
@@ -108311,18 +108318,6 @@
    "model": "T7A6N"
   }
  ],
- "NBL": [
-  {
-   "brand": "Nokia",
-   "name": "C2",
-   "model": "Nebula"
-  },
-  {
-   "brand": "Nokia",
-   "name": "C2",
-   "model": "Nokia C2"
-  }
- ],
  "DV6068H_Nokia": [
   {
    "brand": "Nokia",
@@ -108727,6 +108722,18 @@
    "brand": "Nokia",
    "name": "Nokia C1",
    "model": "Nokia C1"
+  }
+ ],
+ "NBL": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C2",
+   "model": "Nebula"
+  },
+  {
+   "brand": "Nokia",
+   "name": "Nokia C2",
+   "model": "Nokia C2"
   }
  ],
  "DRG": [
@@ -168668,6 +168675,13 @@
    "model": "V2012A"
   }
  ],
+ "PD2023": [
+  {
+   "brand": "Vivo",
+   "name": "V2023A",
+   "model": "V2023A"
+  }
+ ],
  "PD1524": [
   {
    "brand": "Vivo",
@@ -183745,6 +183759,13 @@
    "brand": "ZTE",
    "name": "sapphire lte",
    "model": "Z3001S"
+  }
+ ],
+ "A155": [
+  {
+   "brand": "ZUKU",
+   "name": "A151",
+   "model": "A151"
   }
  ],
  "DV8330-T2": [

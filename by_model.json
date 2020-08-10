@@ -89037,6 +89037,13 @@
    "device": "iris90"
   }
  ],
+ "Lava Z66": [
+  {
+   "brand": "Lava",
+   "name": "LAVA Z66",
+   "device": "Z66"
+  }
+ ],
  "LAVA LE9810": [
   {
    "brand": "Lava",
@@ -111759,20 +111766,6 @@
    "device": "Tablet"
   }
  ],
- "Nebula": [
-  {
-   "brand": "Nokia",
-   "name": "C2",
-   "device": "NBL"
-  }
- ],
- "Nokia C2": [
-  {
-   "brand": "Nokia",
-   "name": "C2",
-   "device": "NBL"
-  }
- ],
  "DVN2KA01": [
   {
    "brand": "Nokia",
@@ -112172,6 +112165,20 @@
    "brand": "Nokia",
    "name": "Nokia C1",
    "device": "RKU"
+  }
+ ],
+ "Nebula": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C2",
+   "device": "NBL"
+  }
+ ],
+ "Nokia C2": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C2",
+   "device": "NBL"
   }
  ],
  "Nokia X5": [
@@ -176110,6 +176117,13 @@
    "device": "PD2012"
   }
  ],
+ "V2023A": [
+  {
+   "brand": "Vivo",
+   "name": "V2023A",
+   "device": "PD2023"
+  }
+ ],
  "vivo V3": [
   {
    "brand": "Vivo",
@@ -192918,6 +192932,13 @@
    "brand": "ZTE",
    "name": "tmn smart a7",
    "device": "sailboat"
+  }
+ ],
+ "A151": [
+  {
+   "brand": "ZUKU",
+   "name": "A151",
+   "device": "A155"
   }
  ],
  "DV8330-T2": [

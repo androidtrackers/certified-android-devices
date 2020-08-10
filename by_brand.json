@@ -65672,6 +65672,11 @@
    "model": "iris90"
   },
   {
+   "device": "Z66",
+   "name": "LAVA Z66",
+   "model": "Lava Z66"
+  },
+  {
    "device": "LE9810",
    "name": "LE9810",
    "model": "LAVA LE9810"
@@ -83347,16 +83352,6 @@
    "model": "ATV R2"
   },
   {
-   "device": "NBL",
-   "name": "C2",
-   "model": "Nebula"
-  },
-  {
-   "device": "NBL",
-   "name": "C2",
-   "model": "Nokia C2"
-  },
-  {
    "device": "DV6068H_Nokia",
    "name": "DVN2KA01",
    "model": "DVN2KA01"
@@ -83665,6 +83660,16 @@
    "device": "RKU",
    "name": "Nokia C1",
    "model": "Nokia C1"
+  },
+  {
+   "device": "NBL",
+   "name": "Nokia C2",
+   "model": "Nebula"
+  },
+  {
+   "device": "NBL",
+   "name": "Nokia C2",
+   "model": "Nokia C2"
   },
   {
    "device": "PDA",
@@ -132806,6 +132811,11 @@
    "model": "V2012A"
   },
   {
+   "device": "PD2023",
+   "name": "V2023A",
+   "model": "V2023A"
+  },
+  {
    "device": "PD1524",
    "name": "V3",
    "model": "vivo V3"
@@ -145979,6 +145989,11 @@
   }
  ],
  "ZUKU": [
+  {
+   "device": "A155",
+   "name": "A151",
+   "model": "A151"
+  },
   {
    "device": "DV8330-T2",
    "name": "DV8330-T2",

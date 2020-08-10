@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-08-09
+Last sync is 2020-08-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12798,6 +12798,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|Iris 50_Pro|iris_50_Pro|iris 50 Pro|
 |Lava|Iris820|iris820|iris820|
 |Lava|Iris90|iris90|iris90|
+|Lava|LAVA Z66|Z66|Lava Z66|
 |Lava|LE9810|LE9810|LAVA LE9810|
 |Lava|LE9820|LE9820|LAVA LE9820|
 |Lava|LE9910|LE9910|LE9910|
@@ -16241,8 +16242,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Noblex|T7A6N|Tablet|T7A6N|
 |Nokia|Android TV|R1|ATV R1|
 |Nokia|Android TV|R2|ATV R2|
-|Nokia|C2|NBL|Nebula|
-|Nokia|C2|NBL|Nokia C2|
 |Nokia|DVN2KA01|DV6068H_Nokia|DVN2KA01|
 |Nokia|N1|Nokia_N1|N1|
 |Nokia|Nokia 1|FRT|Nokia 1|
@@ -16305,6 +16304,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia 9|AOP|Nokia 9|
 |Nokia|Nokia 9|AOP_sprout|Nokia 9|
 |Nokia|Nokia C1|RKU|Nokia C1|
+|Nokia|Nokia C2|NBL|Nebula|
+|Nokia|Nokia C2|NBL|Nokia C2|
 |Nokia|Nokia X5|PDA|Nokia X5|
 |Nokia|Nokia X6|DRG|Nokia X6|
 |Nokia|Nokia X7|PNX|Nokia X7|
@@ -25910,6 +25911,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2005A|PD2005|V2005A|
 |Vivo|V2011A|PD2011|V2011A|
 |Vivo|V2012A|PD2012|V2012A|
+|Vivo|V2023A|PD2023|V2023A|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
 |Vivo|V3Lite|V3Lite|vivo V3Lite|
@@ -28504,6 +28506,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|tmn smart a15|atlas40|tmn smart a15|
 |ZTE|tmn smart a60|kiska|tmn smart a60|
 |ZTE|tmn smart a7|sailboat|tmn smart a7|
+|ZUKU|A151|A155|A151|
 |ZUKU|DV8330-T2|DV8330-T2|DV8330-T2|
 |Zaith|Z3211G|Z3211G|Z3211G|
 |Zatec|JOY|JOY|JOY|
