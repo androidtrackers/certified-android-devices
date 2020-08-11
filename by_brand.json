@@ -13879,6 +13879,11 @@
    "model": "BLU STUDIO X MINI"
   },
   {
+   "device": "S970EQ",
+   "name": "Studio X10",
+   "model": "Studio X10"
+  },
+  {
    "device": "S532",
    "name": "Studio X8 HD",
    "model": "Studio X8 HD"
@@ -15438,6 +15443,11 @@
    "model": "TVE9603I"
   },
   {
+   "device": "CT1056_32GB",
+   "name": "CT1056_32GB",
+   "model": "CT1056_32GB"
+  },
+  {
    "device": "CT1085_32GB",
    "name": "CT1085_ 32GB",
    "model": "CT1085_32GB"
@@ -16279,11 +16289,6 @@
    "model": "CHiQ AI Center"
   },
   {
-   "device": "sindorim",
-   "name": "SA",
-   "model": "AI PONT"
-  },
-  {
    "device": "samseong",
    "name": "U50H7",
    "model": "AI PONT"
@@ -16292,6 +16297,11 @@
    "device": "samseong",
    "name": "U50H7",
    "model": "CHiQ AI Center"
+  },
+  {
+   "device": "sindorim",
+   "name": "U58H7",
+   "model": "AI PONT"
   }
  ],
  "Channel Master": [
@@ -17712,6 +17722,16 @@
   }
  ],
  "Compaq": [
+  {
+   "device": "R1",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
   {
    "device": "fireball",
    "name": "CT101",
@@ -51153,7 +51173,7 @@
   },
   {
    "device": "samseong",
-   "name": "Africa & Asia Pacific",
+   "name": "55X1",
    "model": "AI PONT"
   },
   {
@@ -77125,6 +77145,11 @@
    "model": "STARXTREM5"
   },
   {
+   "device": "Smart_N11",
+   "name": "Smart N11",
+   "model": "SmartN11"
+  },
+  {
    "device": "Tala",
    "name": "Tala",
    "model": "Tala"
@@ -79585,22 +79610,12 @@
   {
    "device": "astro",
    "name": "motorola one fusion",
-   "model": "motorola one"
-  },
-  {
-   "device": "astro",
-   "name": "motorola one fusion",
    "model": "motorola one fusion"
   },
   {
    "device": "liber",
    "name": "motorola one fusion+",
    "model": "motorola one fusion+"
-  },
-  {
-   "device": "liber",
-   "name": "motorola one fusion+",
-   "model": "motorola one mid"
   },
   {
    "device": "def",
@@ -84331,14 +84346,14 @@
  ],
  "OK (Mediamark)": [
   {
-   "device": "ikebukuro",
-   "name": "Italy",
-   "model": "AI PONT"
-  },
-  {
    "device": "osaki",
    "name": "ODL 32760HN-TAB",
    "model": "2K AI Smart TV"
+  },
+  {
+   "device": "ikebukuro",
+   "name": "ODL 32770H-TAB",
+   "model": "AI PONT"
   },
   {
    "device": "samseong",
@@ -97880,6 +97895,11 @@
    "model": "STG X3"
   },
   {
+   "device": "STG-KeyTab",
+   "name": "STG-KeyTab",
+   "model": "STG-KeyTab"
+  },
+  {
    "device": "STG_A1",
    "name": "STG_A1",
    "model": "STG A1"
@@ -110498,6 +110518,16 @@
    "device": "CEM1",
    "name": "55CE6139M1",
    "model": "CEM1"
+  },
+  {
+   "device": "R1",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
   },
   {
    "device": "31TL04",
@@ -126191,6 +126221,11 @@
    "model": "P80X"
   },
   {
+   "device": "P80h_EEA",
+   "name": "P80h_EEA",
+   "model": "P80h_EEA"
+  },
+  {
    "device": "T30",
    "name": "T30_EEA",
    "model": "T30_EEA"
@@ -130098,6 +130133,16 @@
    "device": "Atom_XL",
    "name": "Atom_XL",
    "model": "Atom_XL"
+  },
+  {
+   "device": "Jelly2",
+   "name": "Jelly2",
+   "model": "Jelly2"
+  },
+  {
+   "device": "Jelly2_JP",
+   "name": "Jelly2_JP",
+   "model": "Jelly2_JP"
   },
   {
    "device": "Titan",
@@ -141873,6 +141918,11 @@
    "model": "K83"
   },
   {
+   "device": "K83",
+   "name": "K83V",
+   "model": "K83V"
+  },
+  {
    "device": "K85",
    "name": "K85",
    "model": "K85"
@@ -145256,6 +145306,11 @@
    "device": "P662S02",
    "name": "ZTE A7010",
    "model": "ZTE A7010"
+  },
+  {
+   "device": "P963F03",
+   "name": "ZTE A7020",
+   "model": "ZTE A7020"
   },
   {
    "device": "calbee",

@@ -8453,6 +8453,16 @@
    "model": "ATV R2"
   },
   {
+   "brand": "Compaq",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Compaq",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
    "brand": "Condor",
    "device": "R2",
    "model": "ATV R2"
@@ -8586,6 +8596,16 @@
    "brand": "Panasonic",
    "device": "R2",
    "model": "PANASONIC TV"
+  },
+  {
+   "brand": "Sanyo",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Sanyo",
+   "device": "R2",
+   "model": "ATV R2"
   },
   {
    "brand": "Singer",
@@ -25928,6 +25948,13 @@
    "model": "BLU STUDIO X MINI"
   }
  ],
+ "Studio X10": [
+  {
+   "brand": "Blu",
+   "device": "S970EQ",
+   "model": "Studio X10"
+  }
+ ],
  "Studio X8 HD": [
   {
    "brand": "Blu",
@@ -28202,6 +28229,13 @@
    "model": "TVE9603I"
   }
  ],
+ "CT1056_32GB": [
+  {
+   "brand": "Carrefour",
+   "device": "CT1056_32GB",
+   "model": "CT1056_32GB"
+  }
+ ],
  "CT1085_ 32GB": [
   {
    "brand": "Carrefour",
@@ -29393,13 +29427,6 @@
    "model": "CHiQ AI Center"
   }
  ],
- "SA": [
-  {
-   "brand": "Changhong",
-   "device": "sindorim",
-   "model": "AI PONT"
-  }
- ],
  "U50H7": [
   {
    "brand": "Changhong",
@@ -29410,6 +29437,13 @@
    "brand": "Changhong",
    "device": "samseong",
    "model": "CHiQ AI Center"
+  }
+ ],
+ "U58H7": [
+  {
+   "brand": "Changhong",
+   "device": "sindorim",
+   "model": "AI PONT"
   }
  ],
  "Stream+": [
@@ -72087,7 +72121,7 @@
    "model": "AI PONT"
   }
  ],
- "Africa & Asia Pacific": [
+ "55X1": [
   {
    "brand": "Infinix",
    "device": "samseong",
@@ -102283,6 +102317,13 @@
    "model": "STARXTREM5"
   }
  ],
+ "Smart N11": [
+  {
+   "brand": "Mobiwire",
+   "device": "Smart_N11",
+   "model": "SmartN11"
+  }
+ ],
  "Tala": [
   {
    "brand": "Mobiwire",
@@ -104780,11 +104821,6 @@
   {
    "brand": "Motorola",
    "device": "astro",
-   "model": "motorola one"
-  },
-  {
-   "brand": "Motorola",
-   "device": "astro",
    "model": "motorola one fusion"
   }
  ],
@@ -104793,11 +104829,6 @@
    "brand": "Motorola",
    "device": "liber",
    "model": "motorola one fusion+"
-  },
-  {
-   "brand": "Motorola",
-   "device": "liber",
-   "model": "motorola one mid"
   }
  ],
  "motorola one hyper": [
@@ -110525,18 +110556,18 @@
    "model": "FALCON_10_PLUS_3G"
   }
  ],
- "Italy": [
-  {
-   "brand": "OK (Mediamark)",
-   "device": "ikebukuro",
-   "model": "AI PONT"
-  }
- ],
  "ODL 32760HN-TAB": [
   {
    "brand": "OK (Mediamark)",
    "device": "osaki",
    "model": "2K AI Smart TV"
+  }
+ ],
+ "ODL 32770H-TAB": [
+  {
+   "brand": "OK (Mediamark)",
+   "device": "ikebukuro",
+   "model": "AI PONT"
   }
  ],
  "ODL50672U-TAB": [
@@ -127084,6 +127115,13 @@
    "brand": "STG Telecom",
    "device": "STG_X3",
    "model": "STG X3"
+  }
+ ],
+ "STG-KeyTab": [
+  {
+   "brand": "STG Telecom",
+   "device": "STG-KeyTab",
+   "model": "STG-KeyTab"
   }
  ],
  "STG_A1": [
@@ -158548,6 +158586,13 @@
    "model": "P80X"
   }
  ],
+ "P80h_EEA": [
+  {
+   "brand": "Teclast",
+   "device": "P80h_EEA",
+   "model": "P80h_EEA"
+  }
+ ],
  "T30_EEA": [
   {
    "brand": "Teclast",
@@ -163089,6 +163134,20 @@
    "brand": "Unihertz",
    "device": "Atom_XL",
    "model": "Atom_XL"
+  }
+ ],
+ "Jelly2": [
+  {
+   "brand": "Unihertz",
+   "device": "Jelly2",
+   "model": "Jelly2"
+  }
+ ],
+ "Jelly2_JP": [
+  {
+   "brand": "Unihertz",
+   "device": "Jelly2_JP",
+   "model": "Jelly2_JP"
   }
  ],
  "Africa": [
@@ -175784,6 +175843,13 @@
    "model": "K83"
   }
  ],
+ "K83V": [
+  {
+   "brand": "ZTE",
+   "device": "K83",
+   "model": "K83V"
+  }
+ ],
  "K85": [
   {
    "brand": "ZTE",
@@ -179882,6 +179948,13 @@
    "brand": "ZTE",
    "device": "P662S02",
    "model": "ZTE A7010"
+  }
+ ],
+ "ZTE A7020": [
+  {
+   "brand": "ZTE",
+   "device": "P963F03",
+   "model": "ZTE A7020"
   }
  ],
  "ZTE AVID 4": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-08-10
+Last sync is 2020-08-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2705,6 +2705,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Studio View|S812P|Studio View|
 |Blu|Studio View XL|S790Q|Studio View XL|
 |Blu|Studio X Mini|BLU_STUDIO_X_MINI|BLU STUDIO X MINI|
+|Blu|Studio X10|S970EQ|Studio X10|
 |Blu|Studio X8 HD|S532|Studio X8 HD|
 |Blu|Studio_J8M|S0450WW|Studio J8M|
 |Blu|Studio_View|S810P|Studio View|
@@ -2988,6 +2989,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Carrefour|CT1000|Carrefour|CT1000|
 |Carrefour|CT1020W|M1010FP|CT1020W|
 |Carrefour|CT1050|TVE9603|TVE9603I|
+|Carrefour|CT1056_32GB|CT1056_32GB|CT1056_32GB|
 |Carrefour|CT1085_ 32GB|CT1085_32GB|CT1085_32GB|
 |Carrefour|CT726|CT726|CT726|
 |Carrefour|CT735_16GB|CT735_16GB|CT735_16GB|
@@ -3149,9 +3151,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Changhong|GIU6860|GIU6860|GIU6860|
 |Changhong|L32H7|ikebukuro|AI PONT|
 |Changhong|L32H7|ikebukuro|CHiQ AI Center|
-|Changhong|SA|sindorim|AI PONT|
 |Changhong|U50H7|samseong|AI PONT|
 |Changhong|U50H7|samseong|CHiQ AI Center|
+|Changhong|U58H7|sindorim|AI PONT|
 |Channel Master|Stream+|dwt765cha|CM-7600|
 |Chemist Warehouse|JR-MB603|JR_MB603|JR_MB603|
 |Chenrui|M40|M40|M40|
@@ -3423,6 +3425,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Compal||cap2|Andy|
 |Compal||penguin|AX 8.6|
 |Compal|TANK 4.5|ka09|TANK 4.5|
+|Compaq|Android TV|R1|ATV R1|
+|Compaq|Android TV|R2|ATV R2|
 |Compaq|CT101|fireball|CT101|
 |Concord|C-708|C-708|C-708|
 |Concord|Concord M15|Concord_M15|Concord M15|
@@ -9948,7 +9952,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinity|10.1-v3|Infinity_101_v3|Infinity-10.1-v3|
 |Infinity|Infinity|Infinity|Infinity|
 |Infinix|32X1|ikebukuro|AI PONT|
-|Infinix|Africa & Asia Pacific|samseong|AI PONT|
+|Infinix|55X1|samseong|AI PONT|
 |Infinix|HOT 10|Infinix-X682B|Infinix X682B|
 |Infinix|HOT 10|Infinix-X682C|Infinix X682C|
 |Infinix|HOT 10 lite|Infinix-X657B|Infinix X657B|
@@ -15033,6 +15037,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|STARSHINE 5|Cygnus_mini|STARSHINE_5|
 |Mobiwire|STARSHINE 5|Cygnus_mini|Smart_A25|
 |Mobiwire|STARXTREM 5|STARXTREM5|STARXTREM5|
+|Mobiwire|Smart N11|Smart_N11|SmartN11|
 |Mobiwire|Tala|Tala|Tala|
 |Mobiwire|Telenor SmartPlus|Telenor_SmartPlus|Telenor_SmartPlus|
 |Mobiwire|Telstra Lite Plus|Telstra_Lite_Plus|Telstra Lite Plus|
@@ -15519,10 +15524,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola one|deen_sprout|motorola one|
 |Motorola|motorola one action|troika|motorola one action|
 |Motorola|motorola one action|troika_sprout|motorola one action|
-|Motorola|motorola one fusion|astro|motorola one|
 |Motorola|motorola one fusion|astro|motorola one fusion|
 |Motorola|motorola one fusion+|liber|motorola one fusion+|
-|Motorola|motorola one fusion+|liber|motorola one mid|
 |Motorola|motorola one hyper|def|motorola one hyper|
 |Motorola|motorola one macro|lima|motorola one macro|
 |Motorola|motorola one power|chef_sprout|moto x4|
@@ -16431,8 +16434,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ODYS|Titan_10_LTE|Titan_10_LTE|Titan_10_LTE|
 |ODYS|XELIO_HD10|XELIO_HD10|XELIO_HD10|
 |ODYS|FALCON_10_PLUS_3G|FALCON_10_PLUS_3G|FALCON_10_PLUS_3G|
-|OK (Mediamark)|Italy|ikebukuro|AI PONT|
 |OK (Mediamark)|ODL 32760HN-TAB|osaki|2K AI Smart TV|
+|OK (Mediamark)|ODL 32770H-TAB|ikebukuro|AI PONT|
 |OK (Mediamark)|ODL50672U-TAB|samseong|AI PONT|
 |OK (Mediamark)|OK|bangbae|OK 4K Android TV|
 |OKWU|PI Plus|PI_Plus|PI Plus|
@@ -19056,6 +19059,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |STG Telecom|STG X1|STG_X1|STG X1|
 |STG Telecom|STG X2|STG_X2|STG X2|
 |STG Telecom|STG X3|STG_X3|STG X3|
+|STG Telecom|STG-KeyTab|STG-KeyTab|STG-KeyTab|
 |STG Telecom|STG_A1|STG_A1|STG A1|
 |STG Telecom|STG_B10|STG_B10|STG_B10|
 |STG Telecom|STG_C10|STG_C10|STG_C10|
@@ -21574,6 +21578,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sansui|"Tab 7"""|ETAB_I7043G_VP3|ETAB_I7043G_VP3|
 |Sansui TV|Canada|yeongdeungpo|AiPlus4K|
 |Sanyo|55CE6139M1|CEM1|CEM1|
+|Sanyo|Android TV|R1|ATV R1|
+|Sanyo|Android TV|R2|ATV R2|
 |Sanyo|Benesse|31TL04|31TL04|
 |Sanyo|Benesse|40TL04|40TL04|
 |Sanyo|Benesse|41EA04|41EA04|
@@ -24647,6 +24653,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P10_HD_ROW|P10_HD_ROW|P10_HD_ROW|
 |Teclast|P80X|P80X|P80X|
 |Teclast|P80X_EEA|P80X|P80X|
+|Teclast|P80h_EEA|P80h_EEA|P80h_EEA|
 |Teclast|T30_EEA|T30|T30_EEA|
 |Teclast|T30_ROW|T30|T30_ROW|
 |Teclast|T30_RU|T30|T30_RU|
@@ -25394,6 +25401,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unihertz|Atom|Atom|Atom|
 |Unihertz|Atom_L|Atom_L|Atom_L|
 |Unihertz|Atom_XL|Atom_XL|Atom_XL|
+|Unihertz|Jelly2|Jelly2|Jelly2|
+|Unihertz|Jelly2_JP|Jelly2_JP|Jelly2_JP|
 |Unihertz|Titan|Titan|Titan|
 |Unionaire|Africa|nippori|Unionaire Android TV 2K|
 |Unistrong|UT10|UT10|UT10|
@@ -27683,6 +27692,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|K813|P809K50|ZTE-K813|
 |ZTE|K83|K83|Amazing_P8|
 |ZTE|K83|K83|K83|
+|ZTE|K83V|K83|K83V|
 |ZTE|K85|K85|K85|
 |ZTE|K88|jasmine|K88|
 |ZTE|K92|primrose|K92|
@@ -28360,6 +28370,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE A606|P639S10|ZTE A606|
 |ZTE|ZTE A7000|P671S02|ZTE A7000|
 |ZTE|ZTE A7010|P662S02|ZTE A7010|
+|ZTE|ZTE A7020|P963F03|ZTE A7020|
 |ZTE|ZTE AVID 4|calbee|Z855|
 |ZTE|ZTE AVID 559|Z559DL|Z559DL|
 |ZTE|ZTE Avid 579|Z5156|Z5156CC|

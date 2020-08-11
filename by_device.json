@@ -3123,6 +3123,11 @@
    "model": "ATV R1"
   },
   {
+   "brand": "Compaq",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
    "brand": "Denka",
    "name": "Android TV",
    "model": "ATV R1"
@@ -3173,6 +3178,11 @@
    "model": "PANASONIC TV"
   },
   {
+   "brand": "Sanyo",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
    "brand": "Singer",
    "name": "Android TV",
    "model": "ATV R1"
@@ -3216,6 +3226,11 @@
   },
   {
    "brand": "Casper",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Compaq",
    "name": "Android TV",
    "model": "ATV R2"
   },
@@ -3278,6 +3293,11 @@
    "brand": "Panasonic",
    "name": "Android TV",
    "model": "PANASONIC TV"
+  },
+  {
+   "brand": "Sanyo",
+   "name": "Android TV",
+   "model": "ATV R2"
   },
   {
    "brand": "Thomson",
@@ -4376,7 +4396,7 @@
   },
   {
    "brand": "Changhong",
-   "name": "SA",
+   "name": "U58H7",
    "model": "AI PONT"
   },
   {
@@ -4483,7 +4503,7 @@
   },
   {
    "brand": "OK (Mediamark)",
-   "name": "Italy",
+   "name": "ODL 32770H-TAB",
    "model": "AI PONT"
   },
   {
@@ -4585,7 +4605,7 @@
   },
   {
    "brand": "Infinix",
-   "name": "Africa & Asia Pacific",
+   "name": "55X1",
    "model": "AI PONT"
   },
   {
@@ -20758,6 +20778,13 @@
    "model": "BLU STUDIO X MINI"
   }
  ],
+ "S970EQ": [
+  {
+   "brand": "Blu",
+   "name": "Studio X10",
+   "model": "Studio X10"
+  }
+ ],
  "S532": [
   {
    "brand": "Blu",
@@ -22734,6 +22761,13 @@
    "brand": "Carrefour",
    "name": "CT1050",
    "model": "TVE9603I"
+  }
+ ],
+ "CT1056_32GB": [
+  {
+   "brand": "Carrefour",
+   "name": "CT1056_32GB",
+   "model": "CT1056_32GB"
   }
  ],
  "CT1085_32GB": [
@@ -100598,6 +100632,13 @@
    "model": "S4040"
   }
  ],
+ "Smart_N11": [
+  {
+   "brand": "Mobiwire",
+   "name": "Smart N11",
+   "model": "SmartN11"
+  }
+ ],
  "Tala": [
   {
    "brand": "Mobiwire",
@@ -103600,11 +103641,6 @@
   {
    "brand": "Motorola",
    "name": "motorola one fusion",
-   "model": "motorola one"
-  },
-  {
-   "brand": "Motorola",
-   "name": "motorola one fusion",
    "model": "motorola one fusion"
   }
  ],
@@ -103613,11 +103649,6 @@
    "brand": "Motorola",
    "name": "motorola one fusion+",
    "model": "motorola one fusion+"
-  },
-  {
-   "brand": "Motorola",
-   "name": "motorola one fusion+",
-   "model": "motorola one mid"
   }
  ],
  "def": [
@@ -126466,6 +126497,13 @@
    "brand": "STG Telecom",
    "name": "STG X3",
    "model": "STG X3"
+  }
+ ],
+ "STG-KeyTab": [
+  {
+   "brand": "STG Telecom",
+   "name": "STG-KeyTab",
+   "model": "STG-KeyTab"
   }
  ],
  "STG_B10": [
@@ -160866,6 +160904,13 @@
    "model": "P80X"
   }
  ],
+ "P80h_EEA": [
+  {
+   "brand": "Teclast",
+   "name": "P80h_EEA",
+   "model": "P80h_EEA"
+  }
+ ],
  "X_EEA": [
   {
    "brand": "Teclast",
@@ -165465,6 +165510,20 @@
    "brand": "Unihertz",
    "name": "Atom_XL",
    "model": "Atom_XL"
+  }
+ ],
+ "Jelly2": [
+  {
+   "brand": "Unihertz",
+   "name": "Jelly2",
+   "model": "Jelly2"
+  }
+ ],
+ "Jelly2_JP": [
+  {
+   "brand": "Unihertz",
+   "name": "Jelly2_JP",
+   "model": "Jelly2_JP"
   }
  ],
  "UT10": [
@@ -180007,6 +180066,11 @@
   },
   {
    "brand": "ZTE",
+   "name": "K83V",
+   "model": "K83V"
+  },
+  {
+   "brand": "ZTE",
    "name": "ZTE ZPAD8",
    "model": "K83V"
   }
@@ -183212,6 +183276,18 @@
    "model": "ZTE A7010"
   }
  ],
+ "P963F03": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE A7020",
+   "model": "ZTE A7020"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A7s 2020",
+   "model": "ZTE A7020"
+  }
+ ],
  "calbee": [
   {
    "brand": "ZTE",
@@ -183544,13 +183620,6 @@
    "brand": "ZTE",
    "name": "ZTE Blade A7 2020RU",
    "model": "ZTE Blade A7 2020RU"
-  }
- ],
- "P963F03": [
-  {
-   "brand": "ZTE",
-   "name": "ZTE Blade A7s 2020",
-   "model": "ZTE A7020"
   }
  ],
  "P731F30": [

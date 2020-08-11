@@ -2789,6 +2789,11 @@
    "device": "R1"
   },
   {
+   "brand": "Compaq",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
    "brand": "Denka",
    "name": "Android TV",
    "device": "R1"
@@ -2830,6 +2835,11 @@
   },
   {
    "brand": "Orient",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "Sanyo",
    "name": "Android TV",
    "device": "R1"
   },
@@ -2881,6 +2891,11 @@
    "device": "R2"
   },
   {
+   "brand": "Compaq",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
    "brand": "Condor",
    "name": "Android TV",
    "device": "R2"
@@ -2922,6 +2937,11 @@
   },
   {
    "brand": "Orient",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Sanyo",
    "name": "Android TV",
    "device": "R2"
   },
@@ -4190,13 +4210,13 @@
   },
   {
    "brand": "Changhong",
-   "name": "SA",
-   "device": "sindorim"
+   "name": "U50H7",
+   "device": "samseong"
   },
   {
    "brand": "Changhong",
-   "name": "U50H7",
-   "device": "samseong"
+   "name": "U58H7",
+   "device": "sindorim"
   },
   {
    "brand": "Classpro",
@@ -4260,7 +4280,7 @@
   },
   {
    "brand": "Infinix",
-   "name": "Africa & Asia Pacific",
+   "name": "55X1",
    "device": "samseong"
   },
   {
@@ -4305,7 +4325,7 @@
   },
   {
    "brand": "OK (Mediamark)",
-   "name": "Italy",
+   "name": "ODL 32770H-TAB",
    "device": "ikebukuro"
   },
   {
@@ -20121,6 +20141,13 @@
    "device": "BLU_STUDIO_X_MINI"
   }
  ],
+ "Studio X10": [
+  {
+   "brand": "Blu",
+   "name": "Studio X10",
+   "device": "S970EQ"
+  }
+ ],
  "Studio X8 HD": [
   {
    "brand": "Blu",
@@ -22286,6 +22313,13 @@
    "brand": "Carrefour",
    "name": "CT1050",
    "device": "TVE9603"
+  }
+ ],
+ "CT1056_32GB": [
+  {
+   "brand": "Carrefour",
+   "name": "CT1056_32GB",
+   "device": "CT1056_32GB"
   }
  ],
  "CT1085_32GB": [
@@ -103894,6 +103928,13 @@
    "device": "Cygnus_mini"
   }
  ],
+ "SmartN11": [
+  {
+   "brand": "Mobiwire",
+   "name": "Smart N11",
+   "device": "Smart_N11"
+  }
+ ],
  "Tala": [
   {
    "brand": "Mobiwire",
@@ -106358,11 +106399,6 @@
    "brand": "Motorola",
    "name": "motorola one",
    "device": "deen_sprout"
-  },
-  {
-   "brand": "Motorola",
-   "name": "motorola one fusion",
-   "device": "astro"
   }
  ],
  "XT389": [
@@ -107031,13 +107067,6 @@
   }
  ],
  "motorola one fusion+": [
-  {
-   "brand": "Motorola",
-   "name": "motorola one fusion+",
-   "device": "liber"
-  }
- ],
- "motorola one mid": [
   {
    "brand": "Motorola",
    "name": "motorola one fusion+",
@@ -130243,6 +130272,13 @@
    "brand": "STG Telecom",
    "name": "STG X3",
    "device": "STG_X3"
+  }
+ ],
+ "STG-KeyTab": [
+  {
+   "brand": "STG Telecom",
+   "name": "STG-KeyTab",
+   "device": "STG-KeyTab"
   }
  ],
  "STG_B10": [
@@ -168024,6 +168060,13 @@
    "device": "P80X"
   }
  ],
+ "P80h_EEA": [
+  {
+   "brand": "Teclast",
+   "name": "P80h_EEA",
+   "device": "P80h_EEA"
+  }
+ ],
  "T30_EEA": [
   {
    "brand": "Teclast",
@@ -172795,6 +172838,20 @@
    "brand": "Unihertz",
    "name": "Atom_XL",
    "device": "Atom_XL"
+  }
+ ],
+ "Jelly2": [
+  {
+   "brand": "Unihertz",
+   "name": "Jelly2",
+   "device": "Jelly2"
+  }
+ ],
+ "Jelly2_JP": [
+  {
+   "brand": "Unihertz",
+   "name": "Jelly2_JP",
+   "device": "Jelly2_JP"
   }
  ],
  "Unionaire Android TV 2K": [
@@ -187828,6 +187885,18 @@
    "device": "K83"
   }
  ],
+ "K83V": [
+  {
+   "brand": "ZTE",
+   "name": "K83V",
+   "device": "K83"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE ZPAD8",
+   "device": "K83"
+  }
+ ],
  "K85": [
   {
    "brand": "ZTE",
@@ -192152,6 +192221,18 @@
    "device": "P662S02"
   }
  ],
+ "ZTE A7020": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE A7020",
+   "device": "P963F03"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A7s 2020",
+   "device": "P963F03"
+  }
+ ],
  "Z855": [
   {
    "brand": "ZTE",
@@ -192613,13 +192694,6 @@
    "device": "P662F02"
   }
  ],
- "ZTE A7020": [
-  {
-   "brand": "ZTE",
-   "name": "ZTE Blade A7s 2020",
-   "device": "P963F03"
-  }
- ],
  "ZTE Blade L130": [
   {
    "brand": "ZTE",
@@ -192799,13 +192873,6 @@
    "brand": "ZTE",
    "name": "ZTE ZFive C LTE",
    "device": "msm8909"
-  }
- ],
- "K83V": [
-  {
-   "brand": "ZTE",
-   "name": "ZTE ZPAD8",
-   "device": "K83"
   }
  ],
  "ZTE-V9VITA": [
