@@ -6502,6 +6502,11 @@
    "model": "Artel 2K TV"
   },
   {
+   "device": "Artel_Quadro_Pro",
+   "name": "Artel Quadro Pro",
+   "model": "Artel Quadro Pro"
+  },
+  {
    "device": "Artel_Tomchi",
    "name": "Artel Tomchi",
    "model": "Artel Tomchi"
@@ -75961,6 +75966,11 @@
    "model": "ULTRAMINTT A5"
   },
   {
+   "device": "ULTRAMINTT_Y3",
+   "name": "ULTRAMINTT Y3",
+   "model": "ULTRAMINTT Y3"
+  },
+  {
    "device": "ULTRAMINTT_Y5",
    "name": "ULTRAMINTT Y5",
    "model": "ULTRAMINTT Y5"
@@ -76322,6 +76332,11 @@
    "device": "Candy",
    "name": "Candy",
    "model": "Candy"
+  },
+  {
+   "device": "CHROME_LTE",
+   "name": "Chrome LTE",
+   "model": "CHROME LTE"
   },
   {
    "device": "DANDY",
@@ -88928,6 +88943,11 @@
    "model": "DMC-CM1"
   },
   {
+   "device": "NEXT821",
+   "name": "NEXT Eco4K 12",
+   "model": "NEXT"
+  },
+  {
    "device": "pana2_1",
    "name": "P-01D",
    "model": "P-01D"
@@ -89266,6 +89286,11 @@
    "device": "theaterv3",
    "name": "Theater v3",
    "model": "theaterv3"
+  },
+  {
+   "device": "Theater12",
+   "name": "Theater12",
+   "model": "Theater"
   },
   {
    "device": "WA-P7",
@@ -98121,6 +98146,11 @@
    "device": "kanda",
    "name": "SL321AN",
    "model": "2K Smart TV"
+  },
+  {
+   "device": "mdt1005_mk_32",
+   "name": "SLTDVD1024",
+   "model": "SLTDVD1024"
   },
   {
    "device": "SLTDVD9220-C",
@@ -118029,6 +118059,13 @@
    "model": "SN10"
   }
  ],
+ "Surface": [
+  {
+   "device": "duo",
+   "name": "Surface Duo",
+   "model": "Surface Duo"
+  }
+ ],
  "Surgephone": [
   {
    "device": "VOLT_5XL",
@@ -118736,6 +118773,11 @@
   }
  ],
  "TCL": [
+  {
+   "device": "Aquaman_10_KDDI",
+   "name": "3T10 WIFI KDDI",
+   "model": "8194"
+  },
   {
    "device": "BeyondTV",
    "name": "Beyond TV",
@@ -119582,6 +119624,11 @@
    "device": "Aquaman_10_WIFI",
    "name": "1T10  WIFI",
    "model": "8091_EEA"
+  },
+  {
+   "device": "Aquaman_10_WIFI",
+   "name": "1T10  WIFI",
+   "model": "8091_TR"
   },
   {
    "device": "Aquaman_10_Smart_WIFI",
@@ -127026,6 +127073,11 @@
    "device": "TECNO-KA9",
    "name": "SPARK CM",
    "model": "TECNO KA9"
+  },
+  {
+   "device": "TECNO-KE5",
+   "name": "SPARK Go 2020",
+   "model": "TECNO KE5"
   },
   {
    "device": "TECNO-BB4k",

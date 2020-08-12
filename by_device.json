@@ -10411,6 +10411,13 @@
    "model": "ALO"
   }
  ],
+ "Artel_Quadro_Pro": [
+  {
+   "brand": "Artel",
+   "name": "Artel Quadro Pro",
+   "model": "Artel Quadro Pro"
+  }
+ ],
  "Artel_Tomchi": [
   {
    "brand": "Artel",
@@ -99061,6 +99068,13 @@
    "model": "ULTRAMINTT A5"
   }
  ],
+ "ULTRAMINTT_Y3": [
+  {
+   "brand": "Mintt",
+   "name": "ULTRAMINTT Y3",
+   "model": "ULTRAMINTT Y3"
+  }
+ ],
  "ULTRAMINTT_Y5": [
   {
    "brand": "Mintt",
@@ -99524,6 +99538,13 @@
    "brand": "Yuho",
    "name": "Candy",
    "model": "Candy"
+  }
+ ],
+ "CHROME_LTE": [
+  {
+   "brand": "Mobicell",
+   "name": "Chrome LTE",
+   "model": "CHROME LTE"
   }
  ],
  "DANDY": [
@@ -115416,6 +115437,13 @@
    "model": "DMC-CM1"
   }
  ],
+ "NEXT821": [
+  {
+   "brand": "Panasonic",
+   "name": "NEXT Eco4K 12",
+   "model": "NEXT"
+  }
+ ],
  "pana2_1": [
   {
    "brand": "Panasonic",
@@ -115851,6 +115879,13 @@
    "brand": "Panasonic",
    "name": "Theater v3",
    "model": "theaterv3"
+  }
+ ],
+ "Theater12": [
+  {
+   "brand": "Panasonic",
+   "name": "Theater12",
+   "model": "Theater"
   }
  ],
  "WA-P7": [
@@ -126777,6 +126812,13 @@
    "brand": "SUPERSONIC",
    "name": "TAB7091",
    "model": "TAB7091"
+  }
+ ],
+ "mdt1005_mk_32": [
+  {
+   "brand": "SYLVANIA",
+   "name": "SLTDVD1024",
+   "model": "SLTDVD1024"
   }
  ],
  "SLTDVD9220-C": [
@@ -152198,6 +152240,13 @@
    "model": "SN10"
   }
  ],
+ "duo": [
+  {
+   "brand": "Surface",
+   "name": "Surface Duo",
+   "model": "Surface Duo"
+  }
+ ],
  "VOLT_5XL": [
   {
    "brand": "Surgephone",
@@ -152961,6 +153010,13 @@
    "brand": "TBC (TW)",
    "name": "TATV_8000",
    "model": "TATV-8000"
+  }
+ ],
+ "Aquaman_10_KDDI": [
+  {
+   "brand": "TCL",
+   "name": "3T10 WIFI KDDI",
+   "model": "8194"
   }
  ],
  "BeyondTV": [
@@ -154928,6 +154984,11 @@
    "brand": "TCT (Alcatel)",
    "name": "1T10  WIFI",
    "model": "8091_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "1T10  WIFI",
+   "model": "8091_TR"
   }
  ],
  "Aquaman_10_Smart_WIFI": [
@@ -161967,6 +162028,13 @@
    "brand": "Tecno",
    "name": "SPARK CM",
    "model": "TECNO KA9"
+  }
+ ],
+ "TECNO-KE5": [
+  {
+   "brand": "Tecno",
+   "name": "SPARK Go 2020",
+   "model": "TECNO KE5"
   }
  ],
  "TECNO-K9": [

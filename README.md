@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-08-11
+Last sync is 2020-08-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1264,6 +1264,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Artel|Android TV|R1|ATV R1|
 |Artel|Android TV|R2|ATV R2|
 |Artel|Artel 2K TV|shinagawa|Artel 2K TV|
+|Artel|Artel Quadro Pro|Artel_Quadro_Pro|Artel Quadro Pro|
 |Artel|Artel Tomchi|Artel_Tomchi|Artel Tomchi|
 |Artel|Artel U5|U5|U5|
 |Artel|Artel_Premium|Artel_Premium|Artel Premium|
@@ -14807,6 +14808,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mintt|M1|M1|M1|
 |Mintt|Mintt_Tab_T1|Mintt_Tab_T1|Mintt_Tab_T1|
 |Mintt|ULTRAMINTT A5|ULTRAMINTT_A5|ULTRAMINTT A5|
+|Mintt|ULTRAMINTT Y3|ULTRAMINTT_Y3|ULTRAMINTT Y3|
 |Mintt|ULTRAMINTT Y5|ULTRAMINTT_Y5|ULTRAMINTT Y5|
 |Mintt|UltraMinttS2|UltraMinttS2|UltraMinttS2|
 |Mintt|UltraMinttX2|UltraMinttX2|UltraMinttX2|
@@ -14876,6 +14878,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|COSMO|COSMO|COSMO|
 |Mobicell|CRAZE|CRAZE|CRAZE|
 |Mobicell|Candy|Candy|Candy|
+|Mobicell|Chrome LTE|CHROME_LTE|CHROME LTE|
 |Mobicell|DANDY|DANDY|DANDY|
 |Mobicell|DANDY_RW|DANDY_RW|DANDY_RW|
 |Mobicell|DANDY_ZAM|DANDY_ZAM|DANDY_ZAM|
@@ -17326,6 +17329,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|KX-PRXA10|KX-PRXA10|Panasonic KX-PRXA10|
 |Panasonic|KX-PRXA15|KX-PRXA15|Panasonic KX-PRXA15|
 |Panasonic|LUMIX CM1|DMC-CM1|DMC-CM1|
+|Panasonic|NEXT Eco4K 12|NEXT821|NEXT|
 |Panasonic|P-01D|pana2_1|P-01D|
 |Panasonic|P-01K|P-01K|P-01K|
 |Panasonic|P-02D|pana2_2|P-02D|
@@ -17394,6 +17398,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|TH-65DX400C|TH_65DX400C|TH_65DX400C|
 |Panasonic|Tab 8|Tab_8|Tab 8|
 |Panasonic|Theater v3|theaterv3|theaterv3|
+|Panasonic|Theater12|Theater12|Theater|
 |Panasonic|Translation device|WA-P7|WA-P7|
 |Panasonic|UN-MT300|A1|Panasonic UN-MT300|
 |Panasonic|UN-W700|F1|Panasonic UN-W700|
@@ -19103,6 +19108,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SUPERSONIC|SC_774KT|SC_774KT|SC_774KT|
 |SUPERSONIC|TAB7091|TAB7091|TAB7091|
 |SYLVANIA|SL321AN|kanda|2K Smart TV|
+|SYLVANIA|SLTDVD1024|mdt1005_mk_32|SLTDVD1024|
 |SYLVANIA|SLTDVD9220_C|SLTDVD9220-C|SLTDVD9220-C|
 |SYLVANIA|US|gangbyeon|4K Smart TV|
 |Safaricom|NEON LITE|NEON_LITE|NEON LITE|
@@ -23041,6 +23047,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Supraim|AQ21|AQ21|AQ21|
 |Supraim|AYCON|AYCON|AYCON|
 |Supraim|SN10|SN10|SN10|
+|Surface|Surface Duo|duo|Surface Duo|
 |Surgephone|SURGE|VOLT_5XL|VOLT_5XL|
 |Surtab|SURTAB|SURTAB_74G|SURTAB_74G|
 |Suunto|Suunto 7|salmon|Suunto 7|
@@ -23175,6 +23182,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TAGITAL|T7K_PLUS|T7K-PLUS|T7K_PLUS|
 |TASKPHONE|T20|T20P|T20|
 |TBC (TW)|TATV_8000|TATV_8000|TATV-8000|
+|TCL|3T10 WIFI KDDI|Aquaman_10_KDDI|8194|
 |TCL|Beyond TV|BeyondTV|BeyondTV|
 |TCL|BeyondTV2|BeyondTV|BeyondTV2|
 |TCL|BeyondTV5|BeyondTV|BeyondTV5|
@@ -23344,6 +23352,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|ALCATEL ONETOUCH PIXI 3 (3.5)|PIXI3_35|SoshPhone_mini|
 |TCT (Alcatel)|ALCATEL ONETOUCH PIXI 3 (4.5)|PIXI3_45_4G|5017X|
 |TCT (Alcatel)|1T10  WIFI|Aquaman_10_WIFI|8091_EEA|
+|TCT (Alcatel)|1T10  WIFI|Aquaman_10_WIFI|8091_TR|
 |TCT (Alcatel)|1T10 SMART|Aquaman_10_Smart_WIFI|8092|
 |TCT (Alcatel)|1T10 SMART|Aquaman_10_Smart_WIFI|8092_EEA|
 |TCT (Alcatel)|1T10 SMART|Aquaman_10_Smart_WIFI|8092_TR|
@@ -24814,6 +24823,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|SPARK 6 Air|TECNO-KE6|TECNO KE6|
 |Tecno|SPARK 6 Air|TECNO-KE6j|TECNO KE6j|
 |Tecno|SPARK CM|TECNO-KA9|TECNO KA9|
+|Tecno|SPARK Go 2020|TECNO-KE5|TECNO KE5|
 |Tecno|SPARK Go Plus|TECNO-BB4k|TECNO BB4k|
 |Tecno|SPARK Plus|TECNO-K9|TECNO K9|
 |Tecno|SPARK Pro|TECNO-K8|TECNO K8|

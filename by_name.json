@@ -15314,6 +15314,13 @@
    "model": "Artel 2K TV"
   }
  ],
+ "Artel Quadro Pro": [
+  {
+   "brand": "Artel",
+   "device": "Artel_Quadro_Pro",
+   "model": "Artel Quadro Pro"
+  }
+ ],
  "Artel Tomchi": [
   {
    "brand": "Artel",
@@ -100815,6 +100822,13 @@
    "model": "ULTRAMINTT A5"
   }
  ],
+ "ULTRAMINTT Y3": [
+  {
+   "brand": "Mintt",
+   "device": "ULTRAMINTT_Y3",
+   "model": "ULTRAMINTT Y3"
+  }
+ ],
  "ULTRAMINTT Y5": [
   {
    "brand": "Mintt",
@@ -101231,6 +101245,13 @@
    "brand": "Yuho",
    "device": "Candy",
    "model": "Candy"
+  }
+ ],
+ "Chrome LTE": [
+  {
+   "brand": "Mobicell",
+   "device": "CHROME_LTE",
+   "model": "CHROME LTE"
   }
  ],
  "DANDY": [
@@ -116036,6 +116057,13 @@
    "model": "DMC-CM1"
   }
  ],
+ "NEXT Eco4K 12": [
+  {
+   "brand": "Panasonic",
+   "device": "NEXT821",
+   "model": "NEXT"
+  }
+ ],
  "P-01D": [
   {
    "brand": "Panasonic",
@@ -116432,6 +116460,13 @@
    "brand": "Panasonic",
    "device": "theaterv3",
    "model": "theaterv3"
+  }
+ ],
+ "Theater12": [
+  {
+   "brand": "Panasonic",
+   "device": "Theater12",
+   "model": "Theater"
   }
  ],
  "Translation device": [
@@ -127408,6 +127443,13 @@
    "brand": "SYLVANIA",
    "device": "kanda",
    "model": "2K Smart TV"
+  }
+ ],
+ "SLTDVD1024": [
+  {
+   "brand": "SYLVANIA",
+   "device": "mdt1005_mk_32",
+   "model": "SLTDVD1024"
   }
  ],
  "SLTDVD9220_C": [
@@ -149701,6 +149743,13 @@
    "model": "SN10"
   }
  ],
+ "Surface Duo": [
+  {
+   "brand": "Surface",
+   "device": "duo",
+   "model": "Surface Duo"
+  }
+ ],
  "SURGE": [
   {
    "brand": "Surgephone",
@@ -150499,6 +150548,13 @@
    "model": "TATV-8000"
   }
  ],
+ "3T10 WIFI KDDI": [
+  {
+   "brand": "TCL",
+   "device": "Aquaman_10_KDDI",
+   "model": "8194"
+  }
+ ],
  "Beyond TV": [
   {
    "brand": "TCL",
@@ -150963,6 +151019,11 @@
    "brand": "TCT (Alcatel)",
    "device": "Aquaman_10_WIFI",
    "model": "8091_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Aquaman_10_WIFI",
+   "model": "8091_TR"
   }
  ],
  "1T10 SMART": [
@@ -159494,6 +159555,13 @@
    "brand": "Tecno",
    "device": "TECNO-KA9",
    "model": "TECNO KA9"
+  }
+ ],
+ "SPARK Go 2020": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KE5",
+   "model": "TECNO KE5"
   }
  ],
  "SPARK Go Plus": [
