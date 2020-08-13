@@ -3069,6 +3069,11 @@
    "model": "Z120"
   },
   {
+   "brand": "Mafe",
+   "name": "Z2",
+   "model": "Z2"
+  },
+  {
    "brand": "Umidigi",
    "name": "Z2",
    "model": "Z2"
@@ -4017,6 +4022,13 @@
    "brand": "Advance",
    "name": "HL7257",
    "model": "HL7257"
+  }
+ ],
+ "HL9000": [
+  {
+   "brand": "Advance",
+   "name": "HL9000",
+   "model": "HL9000"
   }
  ],
  "PR7145": [
@@ -10411,6 +10423,20 @@
    "model": "ALO"
   }
  ],
+ "Artel_Air": [
+  {
+   "brand": "Artel",
+   "name": "Artel Air",
+   "model": "Artel Air"
+  }
+ ],
+ "Artel_Quadro": [
+  {
+   "brand": "Artel",
+   "name": "Artel Quadro",
+   "model": "Artel Quadro"
+  }
+ ],
  "Artel_Quadro_Pro": [
   {
    "brand": "Artel",
@@ -10772,6 +10798,25 @@
    "brand": "Ashtel",
    "name": "RAVOZ Z5 Lite",
    "model": "RAVOZ Z5 Lite"
+  }
+ ],
+ "RAVOZ_R7": [
+  {
+   "brand": "Ashtel",
+   "name": "RAVOZ Z7",
+   "model": "RAVOZ R7"
+  },
+  {
+   "brand": "Bluedigit",
+   "name": "RAVOZ R7",
+   "model": "RAVOZ R7"
+  }
+ ],
+ "RAVOZ_Z5": [
+  {
+   "brand": "Ashtel",
+   "name": "RAVOZ_Z5",
+   "model": "RAVOZ Z5"
   }
  ],
  "D8109N": [
@@ -21315,13 +21360,6 @@
    "model": "RAVOZ R4"
   }
  ],
- "RAVOZ_R7": [
-  {
-   "brand": "Bluedigit",
-   "name": "RAVOZ R7",
-   "model": "RAVOZ R7"
-  }
- ],
  "RAVOZ_R8": [
   {
    "brand": "Bluedigit",
@@ -24490,6 +24528,13 @@
    "brand": "Cherry Mobile",
    "name": "Flare Y3 mini",
    "model": "Flare Y3 mini"
+  }
+ ],
+ "H2050": [
+  {
+   "brand": "Cherry Mobile",
+   "name": "Flare Y5",
+   "model": "Flare Y5"
   }
  ],
  "Flare_Y6": [
@@ -31850,6 +31895,11 @@
    "brand": "Dialog",
    "name": "N9106H_B",
    "model": "N9106H_B"
+  },
+  {
+   "brand": "Dialog",
+   "name": "Sri Lanka",
+   "model": "N9106H_B"
   }
  ],
  "SEI103": [
@@ -33535,6 +33585,13 @@
    "brand": "Diva",
    "name": "QC804GM",
    "model": "QC804GM"
+  }
+ ],
+ "ACK1010": [
+  {
+   "brand": "Dixon",
+   "name": "ACK1010",
+   "model": "ACK1010"
   }
  ],
  "DN6015": [
@@ -41989,6 +42046,33 @@
    "model": "C3"
   }
  ],
+ "C9": [
+  {
+   "brand": "G-Tab",
+   "name": "C9",
+   "model": "C9"
+  },
+  {
+   "brand": "HOMTOM",
+   "name": "C9",
+   "model": "C9"
+  },
+  {
+   "brand": "Hurricane",
+   "name": "Vortex",
+   "model": "HURRICANE VORTEX"
+  },
+  {
+   "brand": "Neffos",
+   "name": "Neffos C9",
+   "model": "Neffos_C9"
+  },
+  {
+   "brand": "Oukitel",
+   "name": "C9",
+   "model": "C9"
+  }
+ ],
  "F1": [
   {
    "brand": "G-Tab",
@@ -46023,28 +46107,6 @@
    "brand": "HOMTOM",
    "name": "C2",
    "model": "C2"
-  }
- ],
- "C9": [
-  {
-   "brand": "HOMTOM",
-   "name": "C9",
-   "model": "C9"
-  },
-  {
-   "brand": "Hurricane",
-   "name": "Vortex",
-   "model": "HURRICANE VORTEX"
-  },
-  {
-   "brand": "Neffos",
-   "name": "Neffos C9",
-   "model": "Neffos_C9"
-  },
-  {
-   "brand": "Oukitel",
-   "name": "C9",
-   "model": "C9"
   }
  ],
  "H1": [
@@ -50591,7 +50653,19 @@
    "model": "Wildfire E"
   }
  ],
+ "Wildfire_E_Lite": [
+  {
+   "brand": "HTC",
+   "name": "Wildfire E Lite",
+   "model": "Wildfire E Lite"
+  }
+ ],
  "Wildfire-E1": [
+  {
+   "brand": "HTC",
+   "name": "Wildfire E1",
+   "model": "HTC Wildfire E1"
+  },
   {
    "brand": "HTC",
    "name": "Wildfire E1",
@@ -50602,6 +50676,11 @@
   {
    "brand": "HTC",
    "name": "Wildfire E1 Plus",
+   "model": "Wildfire E1 Plus"
+  },
+  {
+   "brand": "HTC",
+   "name": "Wildfire_E1_Plus",
    "model": "Wildfire E1 Plus"
   }
  ],
@@ -54351,6 +54430,11 @@
    "brand": "Hisense",
    "name": "Hisense E40",
    "model": "HLTE229E"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense E40",
+   "model": "Hisense V40"
   }
  ],
  "HS6580MT": [
@@ -73988,6 +74072,13 @@
    "brand": "Kalley",
    "name": "Klic",
    "model": "K4-02 4G"
+  }
+ ],
+ "SILVER_MAX": [
+  {
+   "brand": "Kalley",
+   "name": "SILVER_MAX",
+   "model": "SILVER_MAX"
   }
  ],
  "P5": [
@@ -99082,6 +99173,13 @@
    "model": "ULTRAMINTT Y5"
   }
  ],
+ "ULTRAMINTT_P3": [
+  {
+   "brand": "Mintt",
+   "name": "ULTRAMINTT_P3",
+   "model": "COOLMINTT P3"
+  }
+ ],
  "UltraMinttS2": [
   {
    "brand": "Mintt",
@@ -123103,6 +123201,13 @@
    "model": "M387_QL"
   }
  ],
+ "RAVOZ_Z3": [
+  {
+   "brand": "RAVOZ",
+   "name": "RAVOZ Z3",
+   "model": "RAVOZ Z3"
+  }
+ ],
  "RAVOZ_Z3_Pro": [
   {
    "brand": "RAVOZ",
@@ -123124,6 +123229,13 @@
    "model": "RAVOZ Z6 Lite"
   }
  ],
+ "RAVOZ_Z7": [
+  {
+   "brand": "RAVOZ",
+   "name": "RAVOZ Z7",
+   "model": "RAVOZ Z7"
+  }
+ ],
  "RAVOZ_Z4": [
   {
    "brand": "RAVOZ",
@@ -123136,6 +123248,13 @@
    "brand": "RAVOZ",
    "name": "RAVOZ_Z6",
    "model": "RAVOZ_Z6"
+  }
+ ],
+ "RAVOZ_Z8": [
+  {
+   "brand": "RAVOZ",
+   "name": "RAVOZ_Z8",
+   "model": "RAVOZ Z8"
   }
  ],
  "RCT6716Q25": [
@@ -126480,6 +126599,13 @@
    "brand": "STG Telecom",
    "name": "STG A1 Pro",
    "model": "STG A1 Pro"
+  }
+ ],
+ "STG_A2_Pro": [
+  {
+   "brand": "STG Telecom",
+   "name": "STG A2 Pro",
+   "model": "STG A2 Pro"
   }
  ],
  "STG_H10": [
@@ -142082,6 +142208,18 @@
    "brand": "Samsung",
    "name": "Galaxy Z Flip 5G",
    "model": "SM-F707W"
+  }
+ ],
+ "f2q": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold2 5G",
+   "model": "SM-F916U1"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold2 5G",
+   "model": "SM-F916W"
   }
  ],
  "YP-GB70D": [
@@ -164918,6 +165056,18 @@
    "model": "Armor 9"
   }
  ],
+ "Armor_9E": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor 9E",
+   "model": "Armor 9E"
+  },
+  {
+   "brand": "Ulefone",
+   "name": "Armor_9E",
+   "model": "Armor 9E"
+  }
+ ],
  "Armor_X": [
   {
    "brand": "Ulefone",
@@ -170478,6 +170628,13 @@
    "model": "Magnet M1"
   }
  ],
+ "Magnet_G10": [
+  {
+   "brand": "Vonino",
+   "name": "Magnet_G10",
+   "model": "Magnet_G10"
+  }
+ ],
  "Magnet_M1": [
   {
    "brand": "Vonino",
@@ -170619,6 +170776,13 @@
    "model": "Pluri_M8_2020"
   }
  ],
+ "Pluri_M8_2020_A10": [
+  {
+   "brand": "Vonino",
+   "name": "Pluri_M8_2020_A10",
+   "model": "Pluri_M8_2020_A10"
+  }
+ ],
  "Volt_S": [
   {
    "brand": "Vonino",
@@ -170669,6 +170833,13 @@
    "brand": "Vonino",
    "name": "Xavy_T7",
    "model": "Xavy_T7"
+  }
+ ],
+ "Xavy_G8": [
+  {
+   "brand": "Vonino",
+   "name": "Xavy_G8",
+   "model": "Xavy_G8"
   }
  ],
  "Xylo_P": [
@@ -184798,6 +184969,11 @@
   {
    "brand": "Zopo",
    "name": "ZOPO Flash X3",
+   "model": "ZOPO Flash X3"
+  },
+  {
+   "brand": "Zopo",
+   "name": "ZOPO_Flash_X3",
    "model": "ZOPO Flash X3"
   }
  ],

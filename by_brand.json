@@ -2362,6 +2362,11 @@
    "model": "HL7257"
   },
   {
+   "device": "HL9000",
+   "name": "HL9000",
+   "model": "HL9000"
+  },
+  {
    "device": "PR7145",
    "name": "PR7145",
    "model": "PR7145"
@@ -6502,6 +6507,16 @@
    "model": "Artel 2K TV"
   },
   {
+   "device": "Artel_Air",
+   "name": "Artel Air",
+   "model": "Artel Air"
+  },
+  {
+   "device": "Artel_Quadro",
+   "name": "Artel Quadro",
+   "model": "Artel Quadro"
+  },
+  {
    "device": "Artel_Quadro_Pro",
    "name": "Artel Quadro Pro",
    "model": "Artel Quadro Pro"
@@ -6677,6 +6692,16 @@
    "device": "RAVOZ_Z5_Lite",
    "name": "RAVOZ Z5 Lite",
    "model": "RAVOZ Z5 Lite"
+  },
+  {
+   "device": "RAVOZ_R7",
+   "name": "RAVOZ Z7",
+   "model": "RAVOZ R7"
+  },
+  {
+   "device": "RAVOZ_Z5",
+   "name": "RAVOZ_Z5",
+   "model": "RAVOZ Z5"
   }
  ],
  "Asianet": [
@@ -16742,6 +16767,11 @@
    "model": "Flare Y3 mini"
   },
   {
+   "device": "H2050",
+   "name": "Flare Y5",
+   "model": "Flare Y5"
+  },
+  {
    "device": "Flare_Y6",
    "name": "Flare Y6",
    "model": "Flare Y6"
@@ -21868,6 +21898,11 @@
    "device": "SEI103",
    "name": "SEI103DL",
    "model": "SEI103DL"
+  },
+  {
+   "device": "N9106H_B_Dialog",
+   "name": "Sri Lanka",
+   "model": "N9106H_B"
   }
  ],
  "Dialog Blaze": [
@@ -23058,6 +23093,11 @@
   }
  ],
  "Dixon": [
+  {
+   "device": "ACK1010",
+   "name": "ACK1010",
+   "model": "ACK1010"
+  },
   {
    "device": "DN6015",
    "name": "DN6015",
@@ -29265,6 +29305,11 @@
    "device": "C3",
    "name": "C3",
    "model": "C3"
+  },
+  {
+   "device": "C9",
+   "name": "C9",
+   "model": "C9"
   },
   {
    "device": "F1",
@@ -36108,6 +36153,16 @@
    "model": "Wildfire E"
   },
   {
+   "device": "Wildfire_E_Lite",
+   "name": "Wildfire E Lite",
+   "model": "Wildfire E Lite"
+  },
+  {
+   "device": "Wildfire-E1",
+   "name": "Wildfire E1",
+   "model": "HTC Wildfire E1"
+  },
+  {
    "device": "Wildfire-E1",
    "name": "Wildfire E1",
    "model": "Wildfire E1"
@@ -36156,6 +36211,11 @@
    "device": "marvelc",
    "name": "Wildfire S A515c",
    "model": "USCCADR6230US"
+  },
+  {
+   "device": "Wildfire_E1_Plus",
+   "name": "Wildfire_E1_Plus",
+   "model": "Wildfire E1 Plus"
   },
   {
    "device": "Wildfire_R70",
@@ -39153,6 +39213,11 @@
    "device": "HLTE229E_12",
    "name": "Hisense E40",
    "model": "HLTE229E"
+  },
+  {
+   "device": "HLTE229E_12",
+   "name": "Hisense E40",
+   "model": "Hisense V40"
   },
   {
    "device": "HS8937QC",
@@ -55901,6 +55966,11 @@
    "model": "K4-02 4G"
   },
   {
+   "device": "SILVER_MAX",
+   "name": "SILVER_MAX",
+   "model": "SILVER_MAX"
+  },
+  {
    "device": "P5",
    "name": "Silver P5",
    "model": "P5"
@@ -72613,6 +72683,11 @@
    "device": "Z1",
    "name": "Z1",
    "model": "Z1"
+  },
+  {
+   "device": "Z2",
+   "name": "Z2",
+   "model": "Z2"
   }
  ],
  "MagentaTV": [
@@ -75974,6 +76049,11 @@
    "device": "ULTRAMINTT_Y5",
    "name": "ULTRAMINTT Y5",
    "model": "ULTRAMINTT Y5"
+  },
+  {
+   "device": "ULTRAMINTT_P3",
+   "name": "ULTRAMINTT_P3",
+   "model": "COOLMINTT P3"
   },
   {
    "device": "UltraMinttS2",
@@ -95148,6 +95228,11 @@
  ],
  "RAVOZ": [
   {
+   "device": "RAVOZ_Z3",
+   "name": "RAVOZ Z3",
+   "model": "RAVOZ Z3"
+  },
+  {
    "device": "RAVOZ_Z3_Pro",
    "name": "RAVOZ Z3 Pro",
    "model": "RAVOZ Z3 Pro"
@@ -95163,6 +95248,11 @@
    "model": "RAVOZ Z6 Lite"
   },
   {
+   "device": "RAVOZ_Z7",
+   "name": "RAVOZ Z7",
+   "model": "RAVOZ Z7"
+  },
+  {
    "device": "RAVOZ_Z4",
    "name": "RAVOZ_Z4",
    "model": "RAVOZ_Z4"
@@ -95171,6 +95261,11 @@
    "device": "RAVOZ_Z6",
    "name": "RAVOZ_Z6",
    "model": "RAVOZ_Z6"
+  },
+  {
+   "device": "RAVOZ_Z8",
+   "name": "RAVOZ_Z8",
+   "model": "RAVOZ Z8"
   }
  ],
  "RCA": [
@@ -97888,6 +97983,11 @@
    "device": "STG_A1_Pro",
    "name": "STG A1 Pro",
    "model": "STG A1 Pro"
+  },
+  {
+   "device": "STG_A2_Pro",
+   "name": "STG A2 Pro",
+   "model": "STG A2 Pro"
   },
   {
    "device": "STG_H10",
@@ -110159,6 +110259,16 @@
    "device": "bloomxq",
    "name": "Galaxy Z Flip 5G",
    "model": "SM-F707W"
+  },
+  {
+   "device": "f2q",
+   "name": "Galaxy Z Fold2 5G",
+   "model": "SM-F916U1"
+  },
+  {
+   "device": "f2q",
+   "name": "Galaxy Z Fold2 5G",
+   "model": "SM-F916W"
   },
   {
    "device": "YP-GB70D",
@@ -129554,6 +129664,11 @@
    "model": "Armor 9"
   },
   {
+   "device": "Armor_9E",
+   "name": "Armor 9E",
+   "model": "Armor 9E"
+  },
+  {
    "device": "Armor_X",
    "name": "Armor X",
    "model": "Armor_X"
@@ -129632,6 +129747,11 @@
    "device": "Armor_7E",
    "name": "Armor_7E",
    "model": "Armor 7E"
+  },
+  {
+   "device": "Armor_9E",
+   "name": "Armor_9E",
+   "model": "Armor 9E"
   },
   {
    "device": "Armor_X2",
@@ -134221,6 +134341,11 @@
    "model": "Magnet M1"
   },
   {
+   "device": "Magnet_G10",
+   "name": "Magnet_G10",
+   "model": "Magnet_G10"
+  },
+  {
    "device": "Magnet_M1",
    "name": "Magnet_M1",
    "model": "Magnet M1"
@@ -134326,6 +134451,11 @@
    "model": "Pluri_M8_2020"
   },
   {
+   "device": "Pluri_M8_2020_A10",
+   "name": "Pluri_M8_2020_A10",
+   "model": "Pluri_M8_2020_A10"
+  },
+  {
    "device": "Volt_S",
    "name": "Volt S",
    "model": "Volt S"
@@ -134354,6 +134484,11 @@
    "device": "Xavy_T7",
    "name": "Xavy T7 A6",
    "model": "Xavy_T7"
+  },
+  {
+   "device": "Xavy_G8",
+   "name": "Xavy_G8",
+   "model": "Xavy_G8"
   },
   {
    "device": "Xavy_L8",
@@ -146828,6 +146963,11 @@
   {
    "device": "ZOPO_Flash_X3",
    "name": "ZOPO Flash X3",
+   "model": "ZOPO Flash X3"
+  },
+  {
+   "device": "ZOPO_Flash_X3",
+   "name": "ZOPO_Flash_X3",
    "model": "ZOPO Flash X3"
   }
  ],

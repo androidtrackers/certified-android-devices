@@ -3714,6 +3714,13 @@
    "device": "HL7257"
   }
  ],
+ "HL9000": [
+  {
+   "brand": "Advance",
+   "name": "HL9000",
+   "device": "HL9000"
+  }
+ ],
  "PR7145": [
   {
    "brand": "Advance",
@@ -9841,6 +9848,20 @@
    "device": "shinagawa"
   }
  ],
+ "Artel Air": [
+  {
+   "brand": "Artel",
+   "name": "Artel Air",
+   "device": "Artel_Air"
+  }
+ ],
+ "Artel Quadro": [
+  {
+   "brand": "Artel",
+   "name": "Artel Quadro",
+   "device": "Artel_Quadro"
+  }
+ ],
  "Artel Quadro Pro": [
   {
    "brand": "Artel",
@@ -10153,6 +10174,25 @@
    "brand": "Ashtel",
    "name": "RAVOZ Z5 Lite",
    "device": "RAVOZ_Z5_Lite"
+  }
+ ],
+ "RAVOZ R7": [
+  {
+   "brand": "Ashtel",
+   "name": "RAVOZ Z7",
+   "device": "RAVOZ_R7"
+  },
+  {
+   "brand": "Bluedigit",
+   "name": "RAVOZ R7",
+   "device": "RAVOZ_R7"
+  }
+ ],
+ "RAVOZ Z5": [
+  {
+   "brand": "Ashtel",
+   "name": "RAVOZ_Z5",
+   "device": "RAVOZ_Z5"
   }
  ],
  "D8109N": [
@@ -20703,13 +20743,6 @@
    "device": "RAVOZ_R4"
   }
  ],
- "RAVOZ R7": [
-  {
-   "brand": "Bluedigit",
-   "name": "RAVOZ R7",
-   "device": "RAVOZ_R7"
-  }
- ],
  "RAVOZ R8": [
   {
    "brand": "Bluedigit",
@@ -24071,6 +24104,13 @@
    "brand": "Cherry Mobile",
    "name": "Flare Y3 mini",
    "device": "Flare_Y3_mini"
+  }
+ ],
+ "Flare Y5": [
+  {
+   "brand": "Cherry Mobile",
+   "name": "Flare Y5",
+   "device": "H2050"
   }
  ],
  "Flare Y6": [
@@ -30984,6 +31024,11 @@
    "brand": "Dialog",
    "name": "N9106H_B",
    "device": "N9106H_B_Dialog"
+  },
+  {
+   "brand": "Dialog",
+   "name": "Sri Lanka",
+   "device": "N9106H_B_Dialog"
   }
  ],
  "SEI103DL": [
@@ -32622,6 +32667,13 @@
    "brand": "Diva",
    "name": "QC804GM",
    "device": "QC804GM"
+  }
+ ],
+ "ACK1010": [
+  {
+   "brand": "Dixon",
+   "name": "ACK1010",
+   "device": "ACK1010"
   }
  ],
  "DN6015": [
@@ -41066,6 +41118,23 @@
    "device": "C3"
   }
  ],
+ "C9": [
+  {
+   "brand": "G-Tab",
+   "name": "C9",
+   "device": "C9"
+  },
+  {
+   "brand": "HOMTOM",
+   "name": "C9",
+   "device": "C9"
+  },
+  {
+   "brand": "Oukitel",
+   "name": "C9",
+   "device": "C9"
+  }
+ ],
  "F1": [
   {
    "brand": "G-Tab",
@@ -45237,18 +45306,6 @@
    "brand": "HOMTOM",
    "name": "C13",
    "device": "C13"
-  }
- ],
- "C9": [
-  {
-   "brand": "HOMTOM",
-   "name": "C9",
-   "device": "C9"
-  },
-  {
-   "brand": "Oukitel",
-   "name": "C9",
-   "device": "C9"
   }
  ],
  "H1": [
@@ -50246,6 +50303,20 @@
    "device": "Wildfire_E"
   }
  ],
+ "Wildfire E Lite": [
+  {
+   "brand": "HTC",
+   "name": "Wildfire E Lite",
+   "device": "Wildfire_E_Lite"
+  }
+ ],
+ "HTC Wildfire E1": [
+  {
+   "brand": "HTC",
+   "name": "Wildfire E1",
+   "device": "Wildfire-E1"
+  }
+ ],
  "Wildfire E1": [
   {
    "brand": "HTC",
@@ -50257,6 +50328,11 @@
   {
    "brand": "HTC",
    "name": "Wildfire E1 Plus",
+   "device": "Wildfire_E1_Plus"
+  },
+  {
+   "brand": "HTC",
+   "name": "Wildfire_E1_Plus",
    "device": "Wildfire_E1_Plus"
   }
  ],
@@ -54235,6 +54311,18 @@
    "device": "HLTE229E_11"
   }
  ],
+ "Hisense V40": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense E40",
+   "device": "HLTE229E_12"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense U963",
+   "device": "SC9832E"
+  }
+ ],
  "Hisense E76MINIM": [
   {
    "brand": "Hisense",
@@ -54550,13 +54638,6 @@
   }
  ],
  "HLTE100E_10": [
-  {
-   "brand": "Hisense",
-   "name": "Hisense U963",
-   "device": "SC9832E"
-  }
- ],
- "Hisense V40": [
   {
    "brand": "Hisense",
    "name": "Hisense U963",
@@ -76193,6 +76274,13 @@
    "brand": "Kalley",
    "name": "Klic",
    "device": "SA"
+  }
+ ],
+ "SILVER_MAX": [
+  {
+   "brand": "Kalley",
+   "name": "SILVER_MAX",
+   "device": "SILVER_MAX"
   }
  ],
  "KJ-AC05": [
@@ -98117,6 +98205,28 @@
    "device": "Z1"
   }
  ],
+ "Z2": [
+  {
+   "brand": "Mafe",
+   "name": "Z2",
+   "device": "Z2"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "Z2",
+   "device": "Z2"
+  },
+  {
+   "brand": "Zong 4G",
+   "name": "Z2",
+   "device": "Z2"
+  },
+  {
+   "brand": "iBRIT",
+   "name": "Z2",
+   "device": "Z2"
+  }
+ ],
  "DV6067Y-T": [
   {
    "brand": "MagentaTV",
@@ -102416,6 +102526,13 @@
    "brand": "Mintt",
    "name": "ULTRAMINTT Y5",
    "device": "ULTRAMINTT_Y5"
+  }
+ ],
+ "COOLMINTT P3": [
+  {
+   "brand": "Mintt",
+   "name": "ULTRAMINTT_P3",
+   "device": "ULTRAMINTT_P3"
   }
  ],
  "UltraMinttS2": [
@@ -126826,6 +126943,13 @@
    "device": "dciw387"
   }
  ],
+ "RAVOZ Z3": [
+  {
+   "brand": "RAVOZ",
+   "name": "RAVOZ Z3",
+   "device": "RAVOZ_Z3"
+  }
+ ],
  "RAVOZ Z3 Pro": [
   {
    "brand": "RAVOZ",
@@ -126847,6 +126971,13 @@
    "device": "RAVOZ_Z6_Lite"
   }
  ],
+ "RAVOZ Z7": [
+  {
+   "brand": "RAVOZ",
+   "name": "RAVOZ Z7",
+   "device": "RAVOZ_Z7"
+  }
+ ],
  "RAVOZ_Z4": [
   {
    "brand": "RAVOZ",
@@ -126859,6 +126990,13 @@
    "brand": "RAVOZ",
    "name": "RAVOZ_Z6",
    "device": "RAVOZ_Z6"
+  }
+ ],
+ "RAVOZ Z8": [
+  {
+   "brand": "RAVOZ",
+   "name": "RAVOZ_Z8",
+   "device": "RAVOZ_Z8"
   }
  ],
  "RCT6716Q25": [
@@ -130255,6 +130393,13 @@
    "brand": "STG Telecom",
    "name": "STG A1 Pro",
    "device": "STG_A1_Pro"
+  }
+ ],
+ "STG A2 Pro": [
+  {
+   "brand": "STG Telecom",
+   "name": "STG A2 Pro",
+   "device": "STG_A2_Pro"
   }
  ],
  "STG H10": [
@@ -147107,6 +147252,20 @@
    "brand": "Samsung",
    "name": "Galaxy Z Flip 5G",
    "device": "bloomxq"
+  }
+ ],
+ "SM-F916U1": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold2 5G",
+   "device": "f2q"
+  }
+ ],
+ "SM-F916W": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold2 5G",
+   "device": "f2q"
   }
  ],
  "YP-GB70D": [
@@ -172201,6 +172360,18 @@
    "device": "Armor_9"
   }
  ],
+ "Armor 9E": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor 9E",
+   "device": "Armor_9E"
+  },
+  {
+   "brand": "Ulefone",
+   "name": "Armor_9E",
+   "device": "Armor_9E"
+  }
+ ],
  "Armor_X": [
   {
    "brand": "Ulefone",
@@ -172744,23 +172915,6 @@
    "brand": "Umidigi",
    "name": "UMIDIGI X",
    "device": "UMIDIGI_X"
-  }
- ],
- "Z2": [
-  {
-   "brand": "Umidigi",
-   "name": "Z2",
-   "device": "Z2"
-  },
-  {
-   "brand": "Zong 4G",
-   "name": "Z2",
-   "device": "Z2"
-  },
-  {
-   "brand": "iBRIT",
-   "name": "Z2",
-   "device": "Z2"
   }
  ],
  "Z2_PRO": [
@@ -177910,6 +178064,13 @@
    "device": "Magnet_M1"
   }
  ],
+ "Magnet_G10": [
+  {
+   "brand": "Vonino",
+   "name": "Magnet_G10",
+   "device": "Magnet_G10"
+  }
+ ],
  "Magnet_M10": [
   {
    "brand": "Vonino",
@@ -178044,6 +178205,13 @@
    "device": "Pluri_M8_2020"
   }
  ],
+ "Pluri_M8_2020_A10": [
+  {
+   "brand": "Vonino",
+   "name": "Pluri_M8_2020_A10",
+   "device": "Pluri_M8_2020_A10"
+  }
+ ],
  "Volt S": [
   {
    "brand": "Vonino",
@@ -178094,6 +178262,13 @@
    "brand": "Vonino",
    "name": "Xavy_T7",
    "device": "Xavy_T7"
+  }
+ ],
+ "Xavy_G8": [
+  {
+   "brand": "Vonino",
+   "name": "Xavy_G8",
+   "device": "Xavy_G8"
   }
  ],
  "Xylo P": [
@@ -193941,6 +194116,11 @@
   {
    "brand": "Zopo",
    "name": "ZOPO Flash X3",
+   "device": "ZOPO_Flash_X3"
+  },
+  {
+   "brand": "Zopo",
+   "name": "ZOPO_Flash_X3",
    "device": "ZOPO_Flash_X3"
   }
  ],
