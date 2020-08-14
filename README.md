@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-08-13
+Last sync is 2020-08-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -15824,6 +15824,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Myphone|myT3 DTV|myT3_DTV|myT3 DTV|
 |Myphone|myT5 DTV|myT5_DTV|myT5 DTV|
 |Myphone|myT6 DTV|myT6_DTV|myT6 DTV|
+|Myphone|myT6S|myT6S|myT6S|
+|Myphone|myT8|myT8|myT8|
 |Myphone|myX1|MY807|MY807|
 |Myphone|myX12|myX12|myX12|
 |Myphone|myX2|myX2|myX2|
@@ -17037,6 +17039,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Orbic|R370H|R370H|R370L|
 |Orbic|RC506LT|Orbic-RC506LT|RC506LT|
 |Orbic|Wonder|RC555L|RC555L|
+|Ordissimo|Ordissimo LeNumero2|LeNumero2|LeNumero2|
 |Orient|Android TV|R1|ATV R1|
 |Orient|Android TV|R2|ATV R2|
 |Orient|OrientTV|shibuya|OrientTV|
@@ -17056,6 +17059,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|C18 Pro|C18_Pro|C18_Pro|
 |Oukitel|C19|C19|C19|
 |Oukitel|C19 Pro|C19_Pro|C19 Pro|
+|Oukitel|C21|C21|C21|
 |Oukitel|C6 Pro|C6_Pro|C6 Pro|
 |Oukitel|C8|C8|C8|
 |Oukitel|C8 4G|C8_4G|C8 4G|
@@ -18281,6 +18285,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|L10_EEA|L10_EEA|L10_EEA|
 |Pritom|P7PRO|P7PRO|P7PRO|
 |Pritom|P7PRO_EEA|P7PRO_EEA|P7PRO_EEA|
+|Pritom|PRITOM|M10_EEA|M10_EEA|
 |Pritom|USA|M10|M10 Pro|
 |Prixton|T1700Q|T1700Q|T1700Q|
 |Prixton|T1800Q＿Plus|T1800Q_Plus|T1800Q Plus|
@@ -24845,7 +24850,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|SPARK 6 Air|TECNO-KE6|TECNO KE6|
 |Tecno|SPARK 6 Air|TECNO-KE6j|TECNO KE6j|
 |Tecno|SPARK CM|TECNO-KA9|TECNO KA9|
-|Tecno|SPARK Go 2020|TECNO-KE5|TECNO KE5|
 |Tecno|SPARK Go Plus|TECNO-BB4k|TECNO BB4k|
 |Tecno|SPARK Plus|TECNO-K9|TECNO K9|
 |Tecno|SPARK Pro|TECNO-K8|TECNO K8|
@@ -28486,6 +28490,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A5 2019|P963F30P|ZTE Blade A5 2019|
 |ZTE|ZTE Blade A5 2019RU|P963F30P|ZTE Blade A5 2019RU|
 |ZTE|ZTE Blade A5 2020|P963F50|Blade A5 2020-T|
+|ZTE|ZTE Blade A5 2020|P963F50|Z-Ultra|
 |ZTE|ZTE Blade A5 2020|P963F50|ZTE Blade A5 2020|
 |ZTE|ZTE Blade A5 2020RU|P963F50|ZTE Blade A5 2020RU|
 |ZTE|ZTE Blade A522|P817E53|ZTE Blade A522|

@@ -109056,6 +109056,20 @@
    "device": "myT6_DTV"
   }
  ],
+ "myT6S": [
+  {
+   "brand": "Myphone",
+   "name": "myT6S",
+   "device": "myT6S"
+  }
+ ],
+ "myT8": [
+  {
+   "brand": "Myphone",
+   "name": "myT8",
+   "device": "myT8"
+  }
+ ],
  "MY807": [
   {
    "brand": "Myphone",
@@ -116995,6 +117009,13 @@
    "device": "RC555L"
   }
  ],
+ "LeNumero2": [
+  {
+   "brand": "Ordissimo",
+   "name": "Ordissimo LeNumero2",
+   "device": "LeNumero2"
+  }
+ ],
  "OrientTV": [
   {
    "brand": "Orient",
@@ -117105,6 +117126,13 @@
    "brand": "Oukitel",
    "name": "C19 Pro",
    "device": "C19_Pro"
+  }
+ ],
+ "C21": [
+  {
+   "brand": "Oukitel",
+   "name": "C21",
+   "device": "C21"
   }
  ],
  "C6 Pro": [
@@ -125138,6 +125166,13 @@
    "brand": "Pritom",
    "name": "P7PRO_EEA",
    "device": "P7PRO_EEA"
+  }
+ ],
+ "M10_EEA": [
+  {
+   "brand": "Pritom",
+   "name": "PRITOM",
+   "device": "M10_EEA"
   }
  ],
  "M10 Pro": [
@@ -169407,13 +169442,6 @@
    "device": "TECNO-KA9"
   }
  ],
- "TECNO KE5": [
-  {
-   "brand": "Tecno",
-   "name": "SPARK Go 2020",
-   "device": "TECNO-KE5"
-  }
- ],
  "TECNO K9": [
   {
    "brand": "Tecno",
@@ -192862,6 +192890,13 @@
   }
  ],
  "Blade A5 2020-T": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A5 2020",
+   "device": "P963F50"
+  }
+ ],
+ "Z-Ultra": [
   {
    "brand": "ZTE",
    "name": "ZTE Blade A5 2020",
