@@ -10034,6 +10034,13 @@
    "model": "AI PONT"
   }
  ],
+ "AIWA 2K TV": [
+  {
+   "brand": "Aiwa",
+   "device": "shinagawa",
+   "model": "AIWA 2K TV"
+  }
+ ],
  "AW-LED32G7K": [
   {
    "brand": "Aiwa",
@@ -12141,6 +12148,13 @@
    "brand": "Altron",
    "device": "GI-530",
    "model": "GI-530"
+  }
+ ],
+ "OB-1021": [
+  {
+   "brand": "Altron",
+   "device": "OB-1021",
+   "model": "OB-1021"
   }
  ],
  "OB-627": [
@@ -19995,6 +20009,13 @@
    "brand": "BLOW",
    "device": "PlatinumTAB10",
    "model": "PlatinumTAB10"
+  }
+ ],
+ "PlatinumTAB10_4G_V2": [
+  {
+   "brand": "BLOW",
+   "device": "PlatinumTAB10_4G_V2",
+   "model": "PlatinumTAB10_4G_V2"
   }
  ],
  "M1867G": [
@@ -40237,6 +40258,13 @@
    "model": "NEBUPOS3"
   }
  ],
+ "EchosonicTV": [
+  {
+   "brand": "ECHOSONIC",
+   "device": "shinagawa",
+   "model": "EchosonicTV"
+  }
+ ],
  "RealPad MA7BX2": [
   {
    "brand": "ECS",
@@ -40474,6 +40502,27 @@
    "brand": "EKO",
    "device": "Star_6_0_G65",
    "model": "Star 6.0 G65"
+  }
+ ],
+ "Star_5.5_G55": [
+  {
+   "brand": "EKO",
+   "device": "Star_5_5_G55",
+   "model": "Star 5.5 G55"
+  }
+ ],
+ "Star_6.0_G65": [
+  {
+   "brand": "EKO",
+   "device": "Star_6_0_G65",
+   "model": "Star 6.0 G65"
+  }
+ ],
+ "D68": [
+  {
+   "brand": "EL (Africa)",
+   "device": "D68",
+   "model": "D68"
   }
  ],
  "W60": [
@@ -46077,6 +46126,13 @@
    "model": "FTJ17A00"
   }
  ],
+ "FreshTV": [
+  {
+   "brand": "Fresh",
+   "device": "shinagawa",
+   "model": "FreshTV"
+  }
+ ],
  "801FJ": [
   {
    "brand": "Fujitsu",
@@ -47803,6 +47859,20 @@
    "model": "Etab5"
   }
  ],
+ "GM 20": [
+  {
+   "brand": "General Mobile",
+   "device": "G301",
+   "model": "G301"
+  }
+ ],
+ "GM 20 PRO": [
+  {
+   "brand": "General Mobile",
+   "device": "G501",
+   "model": "G501"
+  }
+ ],
  "GM 6 d": [
   {
    "brand": "General Mobile",
@@ -48042,6 +48112,13 @@
    "model": "A7LED2"
   }
  ],
+ "A7_3G": [
+  {
+   "brand": "Ghia",
+   "device": "A7_3G",
+   "model": "A7_3G"
+  }
+ ],
  "A7_SLIM": [
   {
    "brand": "Ghia",
@@ -48236,6 +48313,13 @@
    "brand": "Ghia",
    "device": "VECTOR_SLIM2",
    "model": "VECTOR_SLIM2"
+  }
+ ],
+ "Vector_3G": [
+  {
+   "brand": "Ghia",
+   "device": "Vector_3G",
+   "model": "Vector_3G"
   }
  ],
  "Venus7": [
@@ -50880,6 +50964,13 @@
    "brand": "Greentel",
    "device": "X1_Light",
    "model": "X1 Light"
+  }
+ ],
+ "X1_Light_Lte": [
+  {
+   "brand": "Greentel",
+   "device": "X1_Light_Lte",
+   "model": "X1_Light_Lte"
   }
  ],
  "Xmini": [
@@ -62251,6 +62342,13 @@
    "model": "HZ1012"
   }
  ],
+ "MA768": [
+  {
+   "brand": "Hoozo",
+   "device": "MA768",
+   "model": "MA768"
+  }
+ ],
  "MR768": [
   {
    "brand": "Hoozo",
@@ -72621,13 +72719,6 @@
    "model": "Infinix X572"
   }
  ],
- "Infinix ZERO8": [
-  {
-   "brand": "Infinix",
-   "device": "Infinix-X687",
-   "model": "Infinix X687"
-  }
- ],
  "NOTE 3": [
   {
    "brand": "Infinix",
@@ -75792,6 +75883,11 @@
    "brand": "Panasonic",
    "device": "P31",
    "model": "Panasonic P31"
+  },
+  {
+   "brand": "Vankyo",
+   "device": "P31",
+   "model": "P31"
   }
  ],
  "P32": [
@@ -87718,6 +87814,13 @@
    "brand": "LNMBBS",
    "device": "P40-EEA",
    "model": "P40-EEA"
+  }
+ ],
+ "P401": [
+  {
+   "brand": "LNMBBS",
+   "device": "P401",
+   "model": "P401"
   }
  ],
  "L108MR": [
@@ -118852,6 +118955,13 @@
    "model": "BDL1064PR001"
   }
  ],
+ "BDL424": [
+  {
+   "brand": "Polaroid",
+   "device": "BDL424",
+   "model": "BDL424"
+  }
+ ],
  "BDL5048": [
   {
    "brand": "Polaroid",
@@ -121316,6 +121426,13 @@
    "model": "PMT4137_4G"
   }
  ],
+ "PMT4137_4G_EEA": [
+  {
+   "brand": "Prestigio",
+   "device": "HP70A10L",
+   "model": "PMT4137_4G_EEA"
+  }
+ ],
  "PMT4138_4G_EEA": [
   {
    "brand": "Prestigio",
@@ -121328,6 +121445,13 @@
    "brand": "Prestigio",
    "device": "HP70A2G",
    "model": "PMT4227_3G_RU"
+  }
+ ],
+ "PMT4231_4G_D_RU": [
+  {
+   "brand": "Prestigio",
+   "device": "TC10A2L",
+   "model": "PMT4231_4G_D_RU"
   }
  ],
  "PMT4317_3G_RU": [
@@ -150704,6 +150828,13 @@
    "model": "TAG-DC"
   }
  ],
+ "TAG-TABKIDS": [
+  {
+   "brand": "TAG-TECH",
+   "device": "TAG-TABKIDS",
+   "model": "TT-III"
+  }
+ ],
  "TAG_TAB_II": [
   {
    "brand": "TAG-TECH",
@@ -150975,6 +151106,11 @@
   },
   {
    "brand": "TCL",
+   "device": "Jakarta",
+   "model": "5130M"
+  },
+  {
+   "brand": "TCL",
    "device": "Tokyo",
    "model": "5128A"
   },
@@ -151192,6 +151328,11 @@
   }
  ],
  "1T10  WIFI": [
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Aquaman_10_WIFI",
+   "model": "8091"
+  },
   {
    "brand": "TCT (Alcatel)",
    "device": "Aquaman_10_WIFI",
@@ -158810,6 +158951,13 @@
    "model": "P10_HD_ROW"
   }
  ],
+ "P20_EEA": [
+  {
+   "brand": "Teclast",
+   "device": "P20_EEA",
+   "model": "P20_EEA"
+  }
+ ],
  "P80X": [
   {
    "brand": "Teclast",
@@ -159790,13 +159938,6 @@
    "model": "TECNO CD7"
   }
  ],
- "TECNO CAMON 16 Premier": [
-  {
-   "brand": "Tecno",
-   "device": "TECNO-CE9",
-   "model": "TECNO CE9"
-  }
- ],
  "TECNO CAMON iACE 2": [
   {
    "brand": "Tecno",
@@ -160635,6 +160776,13 @@
    "brand": "Telma",
    "device": "telma_i401",
    "model": "telma i401"
+  }
+ ],
+ "Telma_F1_Max_4G": [
+  {
+   "brand": "Telma",
+   "device": "Telma_F1_Max_4G",
+   "model": "Telma_F1_Max_4G"
   }
  ],
  "telma_i401": [
@@ -171581,6 +171729,13 @@
    "model": "X-TIGI_JOY8 Mate"
   }
  ],
+ "KIDS_TAB": [
+  {
+   "brand": "X-TIGI",
+   "device": "KIDS_TAB",
+   "model": "KIDS_TAB"
+  }
+ ],
  "Kids7_Pro": [
   {
    "brand": "X-TIGI",
@@ -173299,6 +173454,13 @@
    "brand": "Yandex",
    "device": "Amber",
    "model": "YNDX-000SB"
+  }
+ ],
+ "YASIN 2K TV": [
+  {
+   "brand": "Yasin",
+   "device": "shinagawa",
+   "model": "YASIN 2K TV"
   }
  ],
  "T3A  Trend": [
