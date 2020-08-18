@@ -8396,6 +8396,13 @@
    "model": "R726"
   }
  ],
+ "ACONATIC": [
+  {
+   "brand": "Aconatic",
+   "device": "bangbae",
+   "model": "Aconatic 4K Android TV"
+  }
+ ],
  "Android TV": [
   {
    "brand": "Aconatic",
@@ -15356,6 +15363,13 @@
    "model": "Artel Quadro Pro"
   }
  ],
+ "Artel Tesla": [
+  {
+   "brand": "Artel",
+   "device": "Artel_Tesla",
+   "model": "Artel Tesla"
+  }
+ ],
  "Artel Tomchi": [
   {
    "brand": "Artel",
@@ -21496,6 +21510,13 @@
    "model": "BQ-6015L"
   }
  ],
+ "BQ-6030G": [
+  {
+   "brand": "BQru",
+   "device": "BQru-6030G",
+   "model": "BQ-6030G"
+  }
+ ],
  "BQ-6035L": [
   {
    "brand": "BQru",
@@ -25205,6 +25226,13 @@
    "brand": "Blu",
    "device": "G0310WW",
    "model": "G90"
+  }
+ ],
+ "G90 PRO": [
+  {
+   "brand": "Blu",
+   "device": "G0370WW",
+   "model": "G90 PRO"
   }
  ],
  "GRAND 5.5 HD": [
@@ -31490,6 +31518,13 @@
    "model": "Concord M15"
   }
  ],
+ "Concord_RANGE_HS": [
+  {
+   "brand": "Concord",
+   "device": "Concord_RANGE_HS",
+   "model": "Concord_RANGE_HS"
+  }
+ ],
  "Concord_Range_S9": [
   {
    "brand": "Concord",
@@ -33527,6 +33562,13 @@
    "brand": "Coolpad",
    "device": "pollux",
    "model": "POL-A0"
+  }
+ ],
+ "Coolpad Tasker": [
+  {
+   "brand": "Coolpad",
+   "device": "CP3667AT",
+   "model": "CP3667AT"
   }
  ],
  "Coolpad VCR-I0": [
@@ -36406,6 +36448,13 @@
    "brand": "Datalogic",
    "device": "Q10A",
    "model": "Memor 20"
+  }
+ ],
+ "Memor K": [
+  {
+   "brand": "Datalogic",
+   "device": "memor_k",
+   "model": "Memor K"
   }
  ],
  "K508101": [
@@ -56102,6 +56151,13 @@
    "model": "A1"
   }
  ],
+ "Alpha A2": [
+  {
+   "brand": "Haier",
+   "device": "A2",
+   "model": "A2"
+  }
+ ],
  "Alpha A3": [
   {
    "brand": "Haier",
@@ -70909,6 +70965,13 @@
    "model": "HY1-5085"
   }
  ],
+ "HYLED4321AiM": [
+  {
+   "brand": "Hyundai",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  }
+ ],
  "HYLED5015A4KM": [
   {
    "brand": "Hyundai",
@@ -76700,6 +76763,11 @@
   {
    "brand": "JVC",
    "device": "seocho",
+   "model": "JVC SA 4K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "device": "seocho",
    "model": "JVC US 4K Android TV"
   },
   {
@@ -76733,6 +76801,13 @@
   }
  ],
  "LT-32N3115A": [
+  {
+   "brand": "JVC",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  }
+ ],
+ "LT-40KB308": [
   {
    "brand": "JVC",
    "device": "ikebukuro",
@@ -77842,6 +77917,11 @@
    "brand": "KONKA",
    "device": "seocho",
    "model": "KONKA 4K Android TV"
+  },
+  {
+   "brand": "KONKA",
+   "device": "sugamo",
+   "model": "KONKA 2K Android TV"
   }
  ],
  "RE1": [
@@ -94068,6 +94148,13 @@
    "model": "Lenovo TB-X804F"
   }
  ],
+ "拯救者电竞手机": [
+  {
+   "brand": "Lenovo",
+   "device": "moba",
+   "model": "Lenovo L79031"
+  }
+ ],
  "LEOTEC": [
   {
    "brand": "Leotec",
@@ -97436,11 +97523,25 @@
    "model": "Mara X dual"
   }
  ],
+ "Mara X1 d": [
+  {
+   "brand": "Mara Phones",
+   "device": "Mara_X1_d",
+   "model": "Mara Phones X1"
+  }
+ ],
  "Mara Z d": [
   {
    "brand": "Mara Phones",
    "device": "Mara_Z_d_sprout",
    "model": "Mara Z d"
+  }
+ ],
+ "Mara Z1 d": [
+  {
+   "brand": "Mara Phones",
+   "device": "Mara_Z1_d",
+   "model": "Mara Phones Z1"
   }
  ],
  "London": [
@@ -99122,6 +99223,13 @@
    "brand": "Meizu",
    "device": "PRO7Plus",
    "model": "PRO 7 Plus"
+  }
+ ],
+ "PRO7S": [
+  {
+   "brand": "Meizu",
+   "device": "PRO7S",
+   "model": "PRO 7-S"
   }
  ],
  "meizu 16Xs": [
@@ -107172,6 +107280,13 @@
    "model": "Warrior"
   }
  ],
+ "NAV X1": [
+  {
+   "brand": "NAV Global",
+   "device": "NAV_X1",
+   "model": "NAV X1"
+  }
+ ],
  "P68": [
   {
    "brand": "NAVA",
@@ -115024,6 +115139,13 @@
    "model": "POCO F2 Pro"
   }
  ],
+ "POCO M2 Pro": [
+  {
+   "brand": "POCO",
+   "device": "gram",
+   "model": "POCO M2 Pro"
+  }
+ ],
  "POCO X2": [
   {
    "brand": "POCO",
@@ -117463,6 +117585,13 @@
    "brand": "Philco",
    "device": "PTB7R",
    "model": "PTB7R"
+  }
+ ],
+ "PTV40G71AGBL-VA": [
+  {
+   "brand": "Philco",
+   "device": "ikebukuro",
+   "model": "AI PONT"
   }
  ],
  "PTV55G71AGBLS-4K-VA": [
@@ -124344,6 +124473,13 @@
    "model": "RC7T3G19"
   }
  ],
+ "RCA": [
+  {
+   "brand": "RCA",
+   "device": "seocho",
+   "model": "RCA 4K Android TV"
+  }
+ ],
  "RCA DRP2091": [
   {
    "brand": "RCA",
@@ -125468,6 +125604,16 @@
    "brand": "Redmi",
    "device": "dandelion",
    "model": "M2006C3LC"
+  },
+  {
+   "brand": "Redmi",
+   "device": "dandelion",
+   "model": "M2006C3LVG"
+  },
+  {
+   "brand": "Redmi",
+   "device": "dandelion",
+   "model": "dandelion"
   }
  ],
  "Redmi K20": [
@@ -126004,6 +126150,13 @@
    "brand": "Rinno",
    "device": "R550",
    "model": "R550"
+  }
+ ],
+ "RLED-AND42CHG6F": [
+  {
+   "brand": "Riviera",
+   "device": "ikebukuro",
+   "model": "AI PONT"
   }
  ],
  "T107": [
@@ -143660,6 +143813,13 @@
    "model": "FS8025"
   }
  ],
+ "Sharp": [
+  {
+   "brand": "Sharp",
+   "device": "ewha",
+   "model": "AQUOS-TVE19G"
+  }
+ ],
  "Sharp A Click": [
   {
    "brand": "Sharp",
@@ -158175,6 +158335,13 @@
    "model": "TR10CD1_3"
   }
  ],
+ "ONEtv": [
+  {
+   "brand": "TIGO",
+   "device": "vip6102w",
+   "model": "ONEtv"
+  }
+ ],
  "TIM BOX": [
   {
    "brand": "TIM",
@@ -158970,6 +159137,11 @@
    "brand": "Teclast",
    "device": "P80X",
    "model": "P80X"
+  },
+  {
+   "brand": "Teclast",
+   "device": "P80X",
+   "model": "P80X_EEA"
   }
  ],
  "P80h_EEA": [
@@ -162581,6 +162753,13 @@
    "model": "Turbopad1016NEW"
   }
  ],
+ "TVSTAR": [
+  {
+   "brand": "Tvstar",
+   "device": "seocho",
+   "model": "TVSTAR 4K Android TV"
+  }
+ ],
  "UKA_Dream_1": [
   {
    "brand": "UKA-Dream",
@@ -162925,6 +163104,11 @@
   {
    "brand": "Ulefone",
    "device": "Armor_7E",
+   "model": "Armor 7E"
+  },
+  {
+   "brand": "Ulefone",
+   "device": "Armor_7E_Q",
    "model": "Armor 7E"
   }
  ],
@@ -166736,6 +166920,13 @@
    "brand": "Vivo",
    "device": "PD2023",
    "model": "V2023A"
+  }
+ ],
+ "V2024": [
+  {
+   "brand": "Vivo",
+   "device": "1920",
+   "model": "V2024"
   }
  ],
  "V3Lite": [
@@ -170871,6 +171062,11 @@
   {
    "brand": "Wiko",
    "device": "W-V830",
+   "model": "W-V830-ID"
+  },
+  {
+   "brand": "Wiko",
+   "device": "W-V830",
    "model": "W-V830-OPE"
   }
  ],
@@ -170879,6 +171075,11 @@
    "brand": "Wiko",
    "device": "W-V730",
    "model": "W-V730-EEA"
+  },
+  {
+   "brand": "Wiko",
+   "device": "W-V730",
+   "model": "W-V730-ID"
   },
   {
    "brand": "Wiko",
@@ -171070,6 +171271,11 @@
    "brand": "Wiko",
    "device": "W-K560",
    "model": "W-K560-EEA"
+  },
+  {
+   "brand": "Wiko",
+   "device": "W-K560",
+   "model": "W-K560-ID"
   },
   {
    "brand": "Wiko",
@@ -183060,6 +183266,13 @@
    "brand": "i-Buddie",
    "device": "TG08RK",
    "model": "TG08RK"
+  }
+ ],
+ "TG08RK1": [
+  {
+   "brand": "i-Buddie",
+   "device": "TG08RK1",
+   "model": "TG08RK1"
   }
  ],
  "TM75A-V2": [
