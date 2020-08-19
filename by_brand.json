@@ -10508,6 +10508,11 @@
    "model": "AX965"
   },
   {
+   "device": "Bmobile_B50Pro_MV03",
+   "name": "B50 PRO",
+   "model": "B50Pro"
+  },
+  {
    "device": "Bella",
    "name": "Bella",
    "model": "Bella"
@@ -51706,6 +51711,11 @@
    "model": "Infinix X572"
   },
   {
+   "device": "Infinix-X687",
+   "name": "Infinix ZERO8",
+   "model": "Infinix X687"
+  },
+  {
    "device": "X601",
    "name": "NOTE 3",
    "model": "Infinix NOTE 3"
@@ -83754,6 +83764,11 @@
   },
   {
    "device": "PAN_sprout",
+   "name": "Nokia 4.2",
+   "model": "Nokia 4.2"
+  },
+  {
+   "device": "Panther_00EEE",
    "name": "Nokia 4.2",
    "model": "Nokia 4.2"
   },
@@ -122823,6 +122838,11 @@
   {
    "device": "Jakarta",
    "name": "Alcatel 1SE",
+   "model": "5030M"
+  },
+  {
+   "device": "Jakarta",
+   "name": "Alcatel 1SE",
    "model": "5030U"
   },
   {
@@ -127457,6 +127477,11 @@
    "model": "TECNO KA9"
   },
   {
+   "device": "TECNO-KE5",
+   "name": "SPARK Go 2020",
+   "model": "TECNO KE5"
+  },
+  {
    "device": "TECNO-BB4k",
    "name": "SPARK Go Plus",
    "model": "TECNO BB4k"
@@ -127495,6 +127520,11 @@
    "device": "TECNO-CD7",
    "name": "TECNO CAMON 15",
    "model": "TECNO CD7"
+  },
+  {
+   "device": "TECNO-CE9",
+   "name": "TECNO CAMON 16 Premier",
+   "model": "TECNO CE9"
   },
   {
    "device": "TECNO-KB2",

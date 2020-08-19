@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-08-18
+Last sync is 2020-08-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2048,6 +2048,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|AX959|Bmobile_AX959|AX959|
 |BMobile|AX960|Bmobile_AX960_MV15|AX960|
 |BMobile|AX965|Bmobile_AX965|AX965|
+|BMobile|B50 PRO|Bmobile_B50Pro_MV03|B50Pro|
 |BMobile|Bella|Bella|Bella|
 |BMobile|Bmobile AX1076|Bmobile_AX1076|AX1076|
 |BMobile|Bmobile AX1082|Bmobile_AX1082|AX1082|
@@ -10058,6 +10059,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix X559|Infinix-X559|Infinix X559|
 |Infinix|Infinix X571|Infinix-X571|Infinix X571|
 |Infinix|Infinix X572|Infinix-X572|Infinix X572|
+|Infinix|Infinix ZERO8|Infinix-X687|Infinix X687|
 |Infinix|NOTE 3|X601|Infinix NOTE 3|
 |Infinix|NOTE 3 Pro|X601-3G|Infinix NOTE 3 Pro|
 |Infinix|NOTE 3 Pro|X601-LTE|Infinix NOTE 3 Pro|
@@ -16322,6 +16324,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia 3.1 Plus|ROO_sprout|Nokia 3.1 Plus|
 |Nokia|Nokia 3.2|DPL_sprout|Nokia 3.2|
 |Nokia|Nokia 4.2|PAN_sprout|Nokia 4.2|
+|Nokia|Nokia 4.2|Panther_00EEE|Nokia 4.2|
 |Nokia|Nokia 5|ND1|TA-1024|
 |Nokia|Nokia 5|ND1|TA-1027|
 |Nokia|Nokia 5|ND1|TA-1044|
@@ -23989,6 +23992,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030F_TR|
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030I|
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030J|
+|TCT (Alcatel)|Alcatel 1SE|Jakarta|5030M|
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030U|
 |TCT (Alcatel)|Alcatel 1T 7 WIFI|U3A_7_WIFI|8068|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007A|
@@ -24897,6 +24901,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|SPARK 6 Air|TECNO-KE6|TECNO KE6|
 |Tecno|SPARK 6 Air|TECNO-KE6j|TECNO KE6j|
 |Tecno|SPARK CM|TECNO-KA9|TECNO KA9|
+|Tecno|SPARK Go 2020|TECNO-KE5|TECNO KE5|
 |Tecno|SPARK Go Plus|TECNO-BB4k|TECNO BB4k|
 |Tecno|SPARK Plus|TECNO-K9|TECNO K9|
 |Tecno|SPARK Pro|TECNO-K8|TECNO K8|
@@ -24905,6 +24910,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CAMON 12 Air|TECNO-KC3|TECNO KC3|
 |Tecno|TECNO CAMON 12 Pro|TECNO-CC9|TECNO CC9|
 |Tecno|TECNO CAMON 15|TECNO-CD7|TECNO CD7|
+|Tecno|TECNO CAMON 16 Premier|TECNO-CE9|TECNO CE9|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|
 |Tecno|TECNO CAMON iACE 2x|TECNO-KB2j|TECNO KB2j|
 |Tecno|TECNO CX Air|TECNO-CX-Air|TECNO CX Air|

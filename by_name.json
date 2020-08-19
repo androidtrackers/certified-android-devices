@@ -20763,6 +20763,13 @@
    "model": "AX965"
   }
  ],
+ "B50 PRO": [
+  {
+   "brand": "BMobile",
+   "device": "Bmobile_B50Pro_MV03",
+   "model": "B50Pro"
+  }
+ ],
  "Bella": [
   {
    "brand": "BMobile",
@@ -72782,6 +72789,13 @@
    "model": "Infinix X572"
   }
  ],
+ "Infinix ZERO8": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X687",
+   "model": "Infinix X687"
+  }
+ ],
  "NOTE 3": [
   {
    "brand": "Infinix",
@@ -109910,6 +109924,11 @@
   {
    "brand": "Nokia",
    "device": "PAN_sprout",
+   "model": "Nokia 4.2"
+  },
+  {
+   "brand": "Nokia",
+   "device": "Panther_00EEE",
    "model": "Nokia 4.2"
   }
  ],
@@ -154755,6 +154774,11 @@
   {
    "brand": "TCT (Alcatel)",
    "device": "Jakarta",
+   "model": "5030M"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Jakarta",
    "model": "5030U"
   }
  ],
@@ -160054,6 +160078,13 @@
    "model": "TECNO KA9"
   }
  ],
+ "SPARK Go 2020": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KE5",
+   "model": "TECNO KE5"
+  }
+ ],
  "SPARK Go Plus": [
   {
    "brand": "Tecno",
@@ -160108,6 +160139,13 @@
    "brand": "Tecno",
    "device": "TECNO-CD7",
    "model": "TECNO CD7"
+  }
+ ],
+ "TECNO CAMON 16 Premier": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-CE9",
+   "model": "TECNO CE9"
   }
  ],
  "TECNO CAMON iACE 2": [
