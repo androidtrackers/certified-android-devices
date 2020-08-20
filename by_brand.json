@@ -16997,6 +16997,16 @@
    "model": "Superion S1 DTV"
   },
   {
+   "device": "Superion_S2",
+   "name": "Superion S2",
+   "model": "Superion_S2"
+  },
+  {
+   "device": "Superion_S2_Plus",
+   "name": "Superion S2+",
+   "model": "Superion_S2_Plus"
+  },
+  {
    "device": "Touch_HD",
    "name": "Touch HD",
    "model": "Cherry_Mobile_Touch_HD"
@@ -29399,6 +29409,11 @@
    "device": "F1",
    "name": "F1",
    "model": "F1"
+  },
+  {
+   "device": "F2",
+   "name": "F2",
+   "model": "F2"
   },
   {
    "device": "G4",
@@ -50356,6 +50371,11 @@
    "model": "HTSH10W216"
   },
   {
+   "device": "Koral_10WB1",
+   "name": "Koral",
+   "model": "10WB1"
+  },
+  {
    "device": "Koral_7WB1",
    "name": "Koral",
    "model": "7WB1"
@@ -51122,6 +51142,11 @@
    "device": "IK-869",
    "name": "IK-869",
    "model": "IK-869"
+  },
+  {
+   "device": "IK-1028",
+   "name": "IKON",
+   "model": "IK-1028"
   }
  ],
  "IkuMobile": [
@@ -128550,6 +128575,11 @@
    "model": "TEOX102"
   },
   {
+   "device": "TEOX103",
+   "name": "TEOX103",
+   "model": "TEOX103"
+  },
+  {
    "device": "L35_A",
    "name": "THOMSON SEREA500",
    "model": "THOMSON SEREA500"
@@ -146214,6 +146244,11 @@
    "device": "Z5157",
    "name": "ZTE Blade A3v",
    "model": "Z5157V"
+  },
+  {
+   "device": "Z5157",
+   "name": "ZTE Blade A3v",
+   "model": "Z5157Y"
   },
   {
    "device": "P963F30",

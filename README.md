@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-08-19
+Last sync is 2020-08-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3291,6 +3291,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cherry Mobile|Superion Radar Deluxe 2|Radar_Deluxe_2|Radar Deluxe 2|
 |Cherry Mobile|Superion Radar Duluxe|Radar_Deluxe|Superion Radar Deluxe|
 |Cherry Mobile|Superion S1 DTV|A800|Superion S1 DTV|
+|Cherry Mobile|Superion S2|Superion_S2|Superion_S2|
+|Cherry Mobile|Superion S2+|Superion_S2_Plus|Superion_S2_Plus|
 |Cherry Mobile|Touch HD|Touch_HD|Cherry_Mobile_Touch_HD|
 |Cherry Mobile|ZP785|ZP785|ZP785|
 |China Mobile|A3|M651G|M651G|
@@ -5665,6 +5667,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Tab|C3|C3|C3|
 |G-Tab|C9|C9|C9|
 |G-Tab|F1|F1|F1|
+|G-Tab|F2|F2|F2|
 |G-Tab|G4|G4|G4|
 |G-Tab|G5|G5|G5|
 |G-Tab|G9|G9|G9|
@@ -9804,6 +9807,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|Hyundai_Eternity_G57|HT2G57L|Hyundai_Eternity_G57L|
 |Hyundai|Hyundai_Eternity_G60|HT3G60L|Hyundai_Eternity_G60|
 |Hyundai|Hyundai_Home|Hyundai_Home|HTSH10W216|
+|Hyundai|Koral|Koral_10WB1|10WB1|
 |Hyundai|Koral|Koral_7WB1|7WB1|
 |Hyundai|Koral|Koral_7WC1|7WC1|
 |Hyundai|Koral|Koral_7WD1|7WD1|
@@ -9946,6 +9950,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ikon|IK-7108|IK-7108|IK-7108|
 |Ikon|IK-787|IK-787|IK-787|
 |Ikon|IK-869|IK-869|IK-869|
+|Ikon|IKON|IK-1028|IK-1028|
 |IkuMobile|A10|A10|A10|
 |IkuMobile|A20|A20|A20|
 |IkuMobile|A30|A30|A30|
@@ -25104,6 +25109,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Thomson|TEO13P|TEO13P|TEO13P|
 |Thomson|TEO7RK|TEO7RK|TEO7RK|
 |Thomson|TEOX102|TEOX102|TEOX102|
+|Thomson|TEOX103|TEOX103|TEOX103|
 |Thomson|THOMSON SEREA500|L35_A|THOMSON SEREA500|
 |Thomson|THOMSON_TEO10S|TEO10S|TEO10S|
 |Thomson|TLink 455|TLINK455|TLINK455|
@@ -28548,6 +28554,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A3 2020RU|P932F50|ZTE Blade A3 2020RU|
 |ZTE|ZTE Blade A3 Lite|P932F20|ZTE Blade A3 Lite|
 |ZTE|ZTE Blade A3v|Z5157|Z5157V|
+|ZTE|ZTE Blade A3v|Z5157|Z5157Y|
 |ZTE|ZTE Blade A5 2019|P963F30|ZTE Blade A5 2019|
 |ZTE|ZTE Blade A5 2019|P963F30P|ZTE Blade A5 2019|
 |ZTE|ZTE Blade A5 2019RU|P963F30P|ZTE Blade A5 2019RU|

@@ -24926,6 +24926,20 @@
    "model": "Lenovo A800"
   }
  ],
+ "Superion_S2": [
+  {
+   "brand": "Cherry Mobile",
+   "name": "Superion S2",
+   "model": "Superion_S2"
+  }
+ ],
+ "Superion_S2_Plus": [
+  {
+   "brand": "Cherry Mobile",
+   "name": "Superion S2+",
+   "model": "Superion_S2_Plus"
+  }
+ ],
  "Touch_HD": [
   {
    "brand": "Cherry Mobile",
@@ -39624,6 +39638,11 @@
  "F2": [
   {
    "brand": "Fluo",
+   "name": "F2",
+   "model": "F2"
+  },
+  {
+   "brand": "G-Tab",
    "name": "F2",
    "model": "F2"
   },
@@ -67038,6 +67057,13 @@
    "model": "HTSH10W216"
   }
  ],
+ "Koral_10WB1": [
+  {
+   "brand": "Hyundai",
+   "name": "Koral",
+   "model": "10WB1"
+  }
+ ],
  "Koral_7WB1": [
   {
    "brand": "Hyundai",
@@ -68016,6 +68042,13 @@
    "brand": "Ikon",
    "name": "IK-869",
    "model": "IK-869"
+  }
+ ],
+ "IK-1028": [
+  {
+   "brand": "Ikon",
+   "name": "IKON",
+   "model": "IK-1028"
   }
  ],
  "I3": [
@@ -163774,6 +163807,13 @@
    "model": "TEOX102"
   }
  ],
+ "TEOX103": [
+  {
+   "brand": "Thomson",
+   "name": "TEOX103",
+   "model": "TEOX103"
+  }
+ ],
  "L35_A": [
   {
    "brand": "Thomson",
@@ -184172,6 +184212,11 @@
    "brand": "ZTE",
    "name": "ZTE Blade A3v",
    "model": "Z5157V"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A3v",
+   "model": "Z5157Y"
   }
  ],
  "P963F30": [
