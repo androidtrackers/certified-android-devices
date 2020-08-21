@@ -29416,6 +29416,11 @@
    "model": "F2"
   },
   {
+   "device": "F4",
+   "name": "F4",
+   "model": "F4"
+  },
+  {
    "device": "G4",
    "name": "G4",
    "model": "G4"
@@ -71436,6 +71441,11 @@
    "model": "La_Tab_115"
   },
   {
+   "device": "La_Tab_292",
+   "name": "La_Tab_292",
+   "model": "La Tab 292"
+  },
+  {
    "device": "La_Tab_74",
    "name": "La_Tab_74",
    "model": "La_Tab_74"
@@ -72906,6 +72916,11 @@
    "device": "TAB_847_3G",
    "name": "TAB_847_3G",
    "model": "TAB_847_3G"
+  },
+  {
+   "device": "TAB_911_3G",
+   "name": "TAB_911_3G",
+   "model": "TAB_911_3G"
   }
  ],
  "Making Life Simple": [
@@ -91347,6 +91362,11 @@
    "device": "TAB-PTDF-116",
    "name": "TAB-PTDF-116",
    "model": "TAB-PTDF-116"
+  },
+  {
+   "device": "TABLET_PC",
+   "name": "TAB_ASR_7232_3G_SERIES",
+   "model": "TAB_ASR_7232_3G_SERIES"
   }
  ],
  "Pokini": [
@@ -97044,6 +97064,18 @@
    "model": "R45"
   }
  ],
+ "Rhino": [
+  {
+   "device": "Rhino_C10",
+   "name": "C10",
+   "model": "C10"
+  },
+  {
+   "device": "Rhino_T8",
+   "name": "T8",
+   "model": "T8"
+  }
+ ],
  "Rindo": [
   {
    "device": "ikebukuro",
@@ -98470,6 +98502,11 @@
   }
  ],
  "SUPERSONIC": [
+  {
+   "device": "SC-2110",
+   "name": "SC-2110",
+   "model": "SC-2110"
+  },
   {
    "device": "SC-4317BT",
    "name": "SC-4317BT",
@@ -113129,6 +113166,11 @@
    "device": "adt2",
    "name": "ADT-2",
    "model": "ADT-2"
+  },
+  {
+   "device": "SEI103",
+   "name": "SEI103V",
+   "model": "ANDROID TV MEDIA BOX"
   }
  ],
  "Shuttle": [
@@ -130335,6 +130377,11 @@
    "model": "8Qa_3G"
   },
   {
+   "device": "T8_3G",
+   "name": "T8_3G_eea",
+   "model": "T8_3G"
+  },
+  {
    "device": "U452TL",
    "name": "U452TL",
    "model": "U452TL"
@@ -137748,6 +137795,11 @@
    "device": "X-ViewTablet7",
    "name": "X-View",
    "model": "X-ViewTablet7"
+  },
+  {
+   "device": "X-ViewGamer10",
+   "name": "X-ViewGamer10",
+   "model": "X-ViewGamer10"
   },
   {
    "device": "X-ViewTablet10",
@@ -149810,6 +149862,11 @@
    "device": "ZT216_1",
    "name": "ZT216_1",
    "model": "ZT216_1"
+  },
+  {
+   "device": "ZT216_19",
+   "name": "ZT216_19",
+   "model": "ZT216_19"
   },
   {
    "device": "ZT216_2",

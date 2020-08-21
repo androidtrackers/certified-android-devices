@@ -17173,6 +17173,11 @@
    "device": "T8"
   },
   {
+   "brand": "Rhino",
+   "name": "T8",
+   "device": "Rhino_T8"
+  },
+  {
    "brand": "Teclast",
    "name": "T8",
    "device": "T8"
@@ -22022,6 +22027,11 @@
    "brand": "Oukitel",
    "name": "C10",
    "device": "C10"
+  },
+  {
+   "brand": "Rhino",
+   "name": "C10",
+   "device": "Rhino_C10"
   }
  ],
  "CORN R20": [
@@ -41314,6 +41324,18 @@
    "device": "F1"
   }
  ],
+ "F4": [
+  {
+   "brand": "G-Tab",
+   "name": "F4",
+   "device": "F4"
+  },
+  {
+   "brand": "Gol Mobile",
+   "name": "F4",
+   "device": "F4"
+  }
+ ],
  "P2000": [
   {
    "brand": "G-Tab",
@@ -44514,13 +44536,6 @@
    "brand": "Gol Mobile",
    "name": "F3Prime",
    "device": "F3Prime"
-  }
- ],
- "F4": [
-  {
-   "brand": "Gol Mobile",
-   "name": "F4",
-   "device": "F4"
   }
  ],
  "F9": [
@@ -96639,6 +96654,13 @@
    "device": "La_Tab_115"
   }
  ],
+ "La Tab 292": [
+  {
+   "brand": "Logicom",
+   "name": "La_Tab_292",
+   "device": "La_Tab_292"
+  }
+ ],
  "La_Tab_74": [
   {
    "brand": "Logicom",
@@ -98517,6 +98539,13 @@
    "brand": "Majestic",
    "name": "TAB_847_3G",
    "device": "TAB_847_3G"
+  }
+ ],
+ "TAB_911_3G": [
+  {
+   "brand": "Majestic",
+   "name": "TAB_911_3G",
+   "device": "TAB_911_3G"
   }
  ],
  "iQM801": [
@@ -121895,6 +121924,13 @@
    "device": "TAB-PTDF-116"
   }
  ],
+ "TAB_ASR_7232_3G_SERIES": [
+  {
+   "brand": "Point of view",
+   "name": "TAB_ASR_7232_3G_SERIES",
+   "device": "TABLET_PC"
+  }
+ ],
  "Polar M600": [
   {
    "brand": "Polar",
@@ -131012,6 +131048,13 @@
    "brand": "STK(Santok)",
    "name": "cayenne",
    "device": "cayenne"
+  }
+ ],
+ "SC-2110": [
+  {
+   "brand": "SUPERSONIC",
+   "name": "SC-2110",
+   "device": "SC-2110"
   }
  ],
  "SC-4317BT": [
@@ -151005,6 +151048,13 @@
    "brand": "Shenzhen SEI Robotics",
    "name": "ADT-2",
    "device": "adt2"
+  }
+ ],
+ "ANDROID TV MEDIA BOX": [
+  {
+   "brand": "Shenzhen SEI Robotics",
+   "name": "SEI103V",
+   "device": "SEI103"
   }
  ],
  "PNT-7045": [
@@ -173199,6 +173249,13 @@
    "device": "8Qa_3G"
   }
  ],
+ "T8_3G": [
+  {
+   "brand": "Umax",
+   "name": "T8_3G_eea",
+   "device": "T8_3G"
+  }
+ ],
  "U452TL": [
   {
    "brand": "Umax",
@@ -182134,6 +182191,13 @@
    "brand": "X-View",
    "name": "X-View",
    "device": "X-ViewTablet7"
+  }
+ ],
+ "X-ViewGamer10": [
+  {
+   "brand": "X-View",
+   "name": "X-ViewGamer10",
+   "device": "X-ViewGamer10"
   }
  ],
  "X-ViewTablet10": [
@@ -197338,6 +197402,13 @@
    "brand": "zyrex",
    "name": "ZT216_1",
    "device": "ZT216_1"
+  }
+ ],
+ "ZT216_19": [
+  {
+   "brand": "zyrex",
+   "name": "ZT216_19",
+   "device": "ZT216_19"
   }
  ],
  "ZT216_2": [

@@ -32059,6 +32059,11 @@
    "brand": "Hathway",
    "name": "OTH-100",
    "model": "OTH-100"
+  },
+  {
+   "brand": "Shenzhen SEI Robotics",
+   "name": "SEI103V",
+   "model": "ANDROID TV MEDIA BOX"
   }
  ],
  "5701A": [
@@ -42274,6 +42279,18 @@
    "model": "F1"
   }
  ],
+ "F4": [
+  {
+   "brand": "G-Tab",
+   "name": "F4",
+   "model": "F4"
+  },
+  {
+   "brand": "Gol Mobile",
+   "name": "F4",
+   "model": "F4"
+  }
+ ],
  "G9": [
   {
    "brand": "G-Tab",
@@ -45413,13 +45430,6 @@
    "brand": "Gol Mobile",
    "name": "F3Prime",
    "model": "F3Prime"
-  }
- ],
- "F4": [
-  {
-   "brand": "Gol Mobile",
-   "name": "F4",
-   "model": "F4"
   }
  ],
  "F9_PLUS": [
@@ -93262,6 +93272,13 @@
    "model": "La_Tab_115"
   }
  ],
+ "La_Tab_292": [
+  {
+   "brand": "Logicom",
+   "name": "La_Tab_292",
+   "model": "La Tab 292"
+  }
+ ],
  "La_Tab_74": [
   {
    "brand": "Logicom",
@@ -95186,6 +95203,13 @@
    "brand": "Majestic",
    "name": "TAB_847_3G",
    "model": "TAB_847_3G"
+  }
+ ],
+ "TAB_911_3G": [
+  {
+   "brand": "Majestic",
+   "name": "TAB_911_3G",
+   "model": "TAB_911_3G"
   }
  ],
  "iQM801": [
@@ -118529,6 +118553,13 @@
    "model": "TAB-PTDF-116"
   }
  ],
+ "TABLET_PC": [
+  {
+   "brand": "Point of view",
+   "name": "TAB_ASR_7232_3G_SERIES",
+   "model": "TAB_ASR_7232_3G_SERIES"
+  }
+ ],
  "pike": [
   {
    "brand": "Polar",
@@ -125499,6 +125530,20 @@
    "model": "R45"
   }
  ],
+ "Rhino_C10": [
+  {
+   "brand": "Rhino",
+   "name": "C10",
+   "model": "C10"
+  }
+ ],
+ "Rhino_T8": [
+  {
+   "brand": "Rhino",
+   "name": "T8",
+   "model": "T8"
+  }
+ ],
  "R455": [
   {
    "brand": "Rinno",
@@ -127230,6 +127275,13 @@
    "brand": "STK(Santok)",
    "name": "cayenne",
    "model": "STK Ace"
+  }
+ ],
+ "SC-2110": [
+  {
+   "brand": "SUPERSONIC",
+   "name": "SC-2110",
+   "model": "SC-2110"
   }
  ],
  "SC-4317BT": [
@@ -165856,6 +165908,13 @@
    "model": "8Qa_3G"
   }
  ],
+ "T8_3G": [
+  {
+   "brand": "Umax",
+   "name": "T8_3G_eea",
+   "model": "T8_3G"
+  }
+ ],
  "U452TL": [
   {
    "brand": "Umax",
@@ -174669,6 +174728,13 @@
    "brand": "X-View",
    "name": "X-View",
    "model": "X-ViewTablet7"
+  }
+ ],
+ "X-ViewGamer10": [
+  {
+   "brand": "X-View",
+   "name": "X-ViewGamer10",
+   "model": "X-ViewGamer10"
   }
  ],
  "X-ViewTablet10": [
@@ -188205,6 +188271,13 @@
    "brand": "zyrex",
    "name": "ZT216_1",
    "model": "ZT216_1"
+  }
+ ],
+ "ZT216_19": [
+  {
+   "brand": "zyrex",
+   "name": "ZT216_19",
+   "model": "ZT216_19"
   }
  ],
  "ZT216_2": [

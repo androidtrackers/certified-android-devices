@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-08-20
+Last sync is 2020-08-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5668,6 +5668,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Tab|C9|C9|C9|
 |G-Tab|F1|F1|F1|
 |G-Tab|F2|F2|F2|
+|G-Tab|F4|F4|F4|
 |G-Tab|G4|G4|G4|
 |G-Tab|G5|G5|G5|
 |G-Tab|G9|G9|G9|
@@ -13938,6 +13939,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logicom|La_Tab_105_P|La_Tab_105_P|La_Tab_105_P|
 |Logicom|La_Tab_114|La_Tab_114|La_Tab_114|
 |Logicom|La_Tab_115|La_Tab_115|La_Tab_115|
+|Logicom|La_Tab_292|La_Tab_292|La Tab 292|
 |Logicom|La_Tab_74|La_Tab_74|La_Tab_74|
 |Logicom|La_Tab_Link_101|La_Tab_Link_101|LOGICOM La Tab Link 101|
 |Logicom|La_Tab_Link_71_P|La_Tab_Link_71_P|La_Tab_Link_71_P|
@@ -14214,6 +14216,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Majestic|TAB_711_4G|TAB_711_4G|TAB 711 4G|
 |Majestic|TAB_811_4G|TAB_811_4G|TAB_811_4G|
 |Majestic|TAB_847_3G|TAB_847_3G|TAB_847_3G|
+|Majestic|TAB_911_3G|TAB_911_3G|TAB_911_3G|
 |Making Life Simple|Brace|iQM801|iQM801|
 |Making Life Simple|MLS Novel 3G|iQ181011N|iQ181011N|
 |Making Life Simple|MLS iQ1452aN|iQ1452aN|iQ1452aN|
@@ -17797,6 +17800,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Point Mobile|PM90|pm90|PM90|
 |Point of view|PVT-R78-3288|PVT-R78-3288|PVT-R78-3288|
 |Point of view|TAB-PTDF-116|TAB-PTDF-116|TAB-PTDF-116|
+|Point of view|TAB_ASR_7232_3G_SERIES|TABLET_PC|TAB_ASR_7232_3G_SERIES|
 |Pokini|K6|K6|K6|
 |Polar|M600|pike|Polar M600|
 |Polaris|Condroid_X7|polaris-Condroid_X7|Condroid_X7|
@@ -18906,6 +18910,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Revo|Pearl|Pearl|Pearl|
 |Revo|Power|Power|Power|
 |Revtel|R45|Revel_R45|R45|
+|Rhino|C10|Rhino_C10|C10|
+|Rhino|T8|Rhino_T8|T8|
 |Rindo|R-32B6600|ikebukuro|AI PONT|
 |Rinno|R455|R455|R455|
 |Rinno|R505|Rinno_R505|R505|
@@ -19171,6 +19177,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |STK(Santok)|Sync 5z|STK_Sync_5z|STK Sync 5z|
 |STK(Santok)|Transporter 1|STK_Transporter_1|STK_Transporter_1|
 |STK(Santok)|cayenne|cayenne|STK Ace|
+|SUPERSONIC|SC-2110|SC-2110|SC-2110|
 |SUPERSONIC|SC-4317BT|SC-4317BT|SC-4317BT|
 |SUPERSONIC|SC-774KT|SC-774KT|SC-774KT|
 |SUPERSONIC|SC-813|SC-813|SC-813|
@@ -22089,6 +22096,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Shenzhen Jiuzhou|DTP9503|DTP9503|DTP9503|
 |Shenzhen Jiuzhou|DTP9710|DTP9710|DTP9710|
 |Shenzhen SEI Robotics|ADT-2|adt2|ADT-2|
+|Shenzhen SEI Robotics|SEI103V|SEI103|ANDROID TV MEDIA BOX|
 |Shuttle|PNT-7045|PNT-7045|PNT-7045|
 |SiAL|Bic camera|Si01BB|Si01BB|
 |SiAL|Si01BE|Si01BE|Si01BE|
@@ -25441,6 +25449,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umax|7Qa_3G|7Qa_3G|7Qa_3G|
 |Umax|8A_Plus_eea|8A_Plus_eea|8A_Plus|
 |Umax|MediaTek|8Qa_3G|8Qa_3G|
+|Umax|T8_3G_eea|T8_3G|T8_3G|
 |Umax|U452TL|U452TL|U452TL|
 |Umax|UMAX|seocho|UMAX 4K Android TV|
 |Umax|UMAX|visionbook_P55_LTE|visionbook P55 LTE|
@@ -26868,6 +26877,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |X-View|AMBER_KIDS|AMBER_KIDS|AMBER_KIDS|
 |X-View|PROTON_AMBER_HD|Proton_Amber_HD|Proton_Amber_HD|
 |X-View|X-View|X-ViewTablet7|X-ViewTablet7|
+|X-View|X-ViewGamer10|X-ViewGamer10|X-ViewGamer10|
 |X-View|X-ViewTablet10|X-ViewTablet10|X-ViewTablet10|
 |XGIMI|Halo|xgimiapollo|Halo|
 |XGIMI|MoGo|xgimiapollo|MoGo|
@@ -29228,6 +29238,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |xTouch|XTOUCH X10|XTOUCH_X10|XTOUCH X10|
 |zyrex|ZT 216|ZT_216|ZT 216|
 |zyrex|ZT216_1|ZT216_1|ZT216_1|
+|zyrex|ZT216_19|ZT216_19|ZT216_19|
 |zyrex|ZT216_2|ZT216_2|ZT216_2|
 |zyrex|ZT216_3|ZT216_3|ZT216_3|
 |zyrex|ZT216_4|ZT216_4|ZT216_4|
