@@ -33953,6 +33953,13 @@
    "device": "T10M"
   }
  ],
+ "T10M_EEA": [
+  {
+   "brand": "Dragontouch",
+   "name": "T10M_EEA",
+   "device": "T10M_EEA"
+  }
+ ],
  "X80 Plus": [
   {
    "brand": "Dragontouch",
@@ -37025,6 +37032,13 @@
    "brand": "Everis",
    "name": "E0114",
    "device": "E0114"
+  }
+ ],
+ "EW2021": [
+  {
+   "brand": "Everpad",
+   "name": "EW2021",
+   "device": "EVERPAD-EW2021"
   }
  ],
  "HappyKids": [
@@ -73782,6 +73796,13 @@
    "device": "Vox_5S"
   }
  ],
+ "IS330": [
+  {
+   "brand": "Isafe",
+   "name": "IS330",
+   "device": "IS330"
+  }
+ ],
  "IS520": [
   {
    "brand": "Isafe",
@@ -89118,6 +89139,13 @@
    "device": "MID_1089IPS"
   }
  ],
+ "MID_1089IPSA100": [
+  {
+   "brand": "Laser",
+   "name": "MID_1089IPSA100",
+   "device": "MID_1089IPSA100"
+  }
+ ],
  "MID_1090IPSV9": [
   {
    "brand": "Laser",
@@ -89153,11 +89181,25 @@
    "device": "MID_789"
   }
  ],
+ "MID_789A100": [
+  {
+   "brand": "Laser",
+   "name": "MID_789A100",
+   "device": "MID_789A100"
+  }
+ ],
  "MID_789IPS": [
   {
    "brand": "Laser",
    "name": "MID_789IPS",
    "device": "MID_789IPS"
+  }
+ ],
+ "MID_789IPSA100": [
+  {
+   "brand": "Laser",
+   "name": "MID_789IPSA100",
+   "device": "MID_789IPSA100"
   }
  ],
  "LAVAA1": [
@@ -98875,6 +98917,13 @@
    "brand": "Masstel",
    "name": "LT52",
    "device": "Masstel_LT52"
+  }
+ ],
+ "Tab10Ultra": [
+  {
+   "brand": "Masstel",
+   "name": "Masstel",
+   "device": "Tab10Ultra"
   }
  ],
  "Masstel_Juno_Q5": [
@@ -113252,6 +113301,13 @@
    "device": "N5702L"
   }
  ],
+ "S6501L": [
+  {
+   "brand": "Nuu",
+   "name": "NUU G5",
+   "device": "S6501LA"
+  }
+ ],
  "S5701L": [
   {
    "brand": "Nuu",
@@ -113290,6 +113346,13 @@
    "brand": "Nuu",
    "name": "X6mini",
    "device": "S5702LA"
+  }
+ ],
+ "S5704L": [
+  {
+   "brand": "Nuu",
+   "name": "X6mini",
+   "device": "S5704LE"
   }
  ],
  "TM101A530L": [
@@ -172526,6 +172589,13 @@
    "brand": "Turbokids",
    "name": "TurbokidsS5",
    "device": "TurbokidsS5"
+  }
+ ],
+ "Turbokids Star": [
+  {
+   "brand": "Turbokids",
+   "name": "TurbokidsStarA100",
+   "device": "TurbokidsStarA100"
   }
  ],
  "Turbokids_Star": [

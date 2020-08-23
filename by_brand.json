@@ -24009,6 +24009,11 @@
    "model": "T10M"
   },
   {
+   "device": "T10M_EEA",
+   "name": "T10M_EEA",
+   "model": "T10M_EEA"
+  },
+  {
    "device": "V10",
    "name": "V10",
    "model": "V10"
@@ -26351,6 +26356,11 @@
   }
  ],
  "Everpad": [
+  {
+   "device": "EVERPAD-EW2021",
+   "name": "EW2021",
+   "model": "EW2021"
+  },
   {
    "device": "HappyKids",
    "name": "HappyKids",
@@ -54033,6 +54043,11 @@
  ],
  "Isafe": [
   {
+   "device": "IS330",
+   "name": "IS330",
+   "model": "IS330"
+  },
+  {
    "device": "IS520",
    "name": "IS520",
    "model": "IS520"
@@ -65739,6 +65754,11 @@
    "model": "MID_1089IPS"
   },
   {
+   "device": "MID_1089IPSA100",
+   "name": "MID_1089IPSA100",
+   "model": "MID_1089IPSA100"
+  },
+  {
    "device": "MID_1090IPSV9",
    "name": "MID_1090IPSV9",
    "model": "MID_1090IPSV9"
@@ -65764,9 +65784,19 @@
    "model": "MID_789"
   },
   {
+   "device": "MID_789A100",
+   "name": "MID_789A100",
+   "model": "MID_789A100"
+  },
+  {
    "device": "MID_789IPS",
    "name": "MID_789IPS",
    "model": "MID_789IPS"
+  },
+  {
+   "device": "MID_789IPSA100",
+   "name": "MID_789IPSA100",
+   "model": "MID_789IPSA100"
   }
  ],
  "Lava": [
@@ -73188,6 +73218,11 @@
    "device": "Masstel_LT52",
    "name": "LT52",
    "model": "Masstel LT52"
+  },
+  {
+   "device": "Tab10Ultra",
+   "name": "Masstel",
+   "model": "Tab10Ultra"
   },
   {
    "device": "Masstel_Juno_Q5",
@@ -84460,6 +84495,11 @@
    "model": "N5702L"
   },
   {
+   "device": "S6501LA",
+   "name": "NUU G5",
+   "model": "S6501L"
+  },
+  {
    "device": "S5701L",
    "name": "NUU M4X_PRO",
    "model": "S5701L"
@@ -84493,6 +84533,11 @@
    "device": "S5702LA",
    "name": "X6mini",
    "model": "S5702L"
+  },
+  {
+   "device": "S5704LE",
+   "name": "X6mini",
+   "model": "S5704L"
   },
   {
    "device": "Z8",
@@ -129750,6 +129795,11 @@
    "device": "TurbokidsS5",
    "name": "TurbokidsS5",
    "model": "TurbokidsS5"
+  },
+  {
+   "device": "TurbokidsStarA100",
+   "name": "TurbokidsStarA100",
+   "model": "Turbokids Star"
   },
   {
    "device": "Turbokids_Star",

@@ -34974,6 +34974,13 @@
    "model": "T10M"
   }
  ],
+ "T10M_EEA": [
+  {
+   "brand": "Dragontouch",
+   "name": "T10M_EEA",
+   "model": "T10M_EEA"
+  }
+ ],
  "X10A": [
   {
    "brand": "Dragontouch",
@@ -38020,6 +38027,13 @@
    "brand": "Everis",
    "name": "E0114",
    "model": "E0114"
+  }
+ ],
+ "EVERPAD-EW2021": [
+  {
+   "brand": "Everpad",
+   "name": "EW2021",
+   "model": "EW2021"
   }
  ],
  "HappyKids": [
@@ -71678,6 +71692,13 @@
    "model": "Vox_5S"
   }
  ],
+ "IS330": [
+  {
+   "brand": "Isafe",
+   "name": "IS330",
+   "model": "IS330"
+  }
+ ],
  "IS520": [
   {
    "brand": "Isafe",
@@ -85843,6 +85864,13 @@
    "model": "MID_1089IPS"
   }
  ],
+ "MID_1089IPSA100": [
+  {
+   "brand": "Laser",
+   "name": "MID_1089IPSA100",
+   "model": "MID_1089IPSA100"
+  }
+ ],
  "MID_1090IPSV9": [
   {
    "brand": "Laser",
@@ -85878,11 +85906,25 @@
    "model": "MID_789"
   }
  ],
+ "MID_789A100": [
+  {
+   "brand": "Laser",
+   "name": "MID_789A100",
+   "model": "MID_789A100"
+  }
+ ],
  "MID_789IPS": [
   {
    "brand": "Laser",
    "name": "MID_789IPS",
    "model": "MID_789IPS"
+  }
+ ],
+ "MID_789IPSA100": [
+  {
+   "brand": "Laser",
+   "name": "MID_789IPSA100",
+   "model": "MID_789IPSA100"
   }
  ],
  "LAVAA1": [
@@ -95532,6 +95574,13 @@
    "brand": "Masstel",
    "name": "LT52",
    "model": "Masstel LT52"
+  }
+ ],
+ "Tab10Ultra": [
+  {
+   "brand": "Masstel",
+   "name": "Masstel",
+   "model": "Tab10Ultra"
   }
  ],
  "Masstel_Juno_Q5": [
@@ -109815,6 +109864,13 @@
    "model": "N5702L"
   }
  ],
+ "S6501LA": [
+  {
+   "brand": "Nuu",
+   "name": "NUU G5",
+   "model": "S6501L"
+  }
+ ],
  "S5701L": [
   {
    "brand": "Nuu",
@@ -109853,6 +109909,13 @@
    "brand": "Nuu",
    "name": "X6mini",
    "model": "S5702L"
+  }
+ ],
+ "S5704LE": [
+  {
+   "brand": "Nuu",
+   "name": "X6mini",
+   "model": "S5704L"
   }
  ],
  "TM101A530L": [
@@ -165205,6 +165268,13 @@
    "brand": "Turbokids",
    "name": "TurbokidsS5",
    "model": "TurbokidsS5"
+  }
+ ],
+ "TurbokidsStarA100": [
+  {
+   "brand": "Turbokids",
+   "name": "TurbokidsStarA100",
+   "model": "Turbokids Star"
   }
  ],
  "Turbokids_Star": [

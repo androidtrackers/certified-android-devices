@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-08-22
+Last sync is 2020-08-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4643,6 +4643,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dragontouch|S10M|S10M|S10M|
 |Dragontouch|S10M_EEA|S10M_EEA|S10M_EEA|
 |Dragontouch|T10M|T10M|T10M|
+|Dragontouch|T10M_EEA|T10M_EEA|T10M_EEA|
 |Dragontouch|V10|V10|V10|
 |Dragontouch|X10|X10A|X10|
 |Dragontouch|X10|tulip-d210|X10|
@@ -5082,6 +5083,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Everis|E0112|E0112|E0112|
 |Everis|E0113|E0113|E0113|
 |Everis|E0114|E0114|E0114|
+|Everpad|EW2021|EVERPAD-EW2021|EW2021|
 |Everpad|HappyKids|HappyKids|HappyKids|
 |Evertek|E7224HG|E7224HG|E7224HG|
 |Evertek|Hero|Hero|Hero|
@@ -10515,6 +10517,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Iris|VOX POP Pro|VOX_POP_Pro|VOX POP Pro|
 |Iris|VOX POP plus|VOX_POP_plus|VOX POP plus|
 |Iris|Vox_5S|Vox_5S|Vox_5S|
+|Isafe|IS330|IS330|IS330|
 |Isafe|IS520|IS520|IS520|
 |Isafe|IS520.1|IS520_1|IS520_1|
 |Isafe|IS530|IS530|IS530|
@@ -12811,12 +12814,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Laser|MID_1085A100|MID-1085A100|MID_1085A100|
 |Laser|MID_1087V9|MID_1087V9|MID_1087V9|
 |Laser|MID_1089IPS|MID_1089IPS|MID_1089IPS|
+|Laser|MID_1089IPSA100|MID_1089IPSA100|MID_1089IPSA100|
 |Laser|MID_1090IPSV9|MID_1090IPSV9|MID_1090IPSV9|
 |Laser|MID_785|MID_785|MID_785|
 |Laser|MID_785A100|MID-785A100|MID_785A100|
 |Laser|MID_787V9|MID_787V9|MID_787V9|
 |Laser|MID_789|MID_789|MID_789|
+|Laser|MID_789A100|MID_789A100|MID_789A100|
 |Laser|MID_789IPS|MID_789IPS|MID_789IPS|
+|Laser|MID_789IPSA100|MID_789IPSA100|MID_789IPSA100|
 |Lava|A1|LAVAA1|LAVAA1|
 |Lava|A3|LAVA_A3|LAVA_A3|
 |Lava|A3_mini|A3_mini|A3_mini|
@@ -14266,6 +14272,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mascom|Mascom_S750|Mascom_S750|Mascom S750|
 |Masstel|Juno_Q6|Masstel_Juno_Q6|Juno Q6|
 |Masstel|LT52|Masstel_LT52|Masstel LT52|
+|Masstel|Masstel|Tab10Ultra|Tab10Ultra|
 |Masstel|Masstel Juno Q5|Masstel_Juno_Q5|Masstel_Juno_Q5|
 |Masstel|Masstel Juno Q5 Plus|Masstel_Juno_Q5Plus|Masstel_Juno_Q5Plus|
 |Masstel|Masstel Juno Q7|Masstel_Juno_Q7|Juno Q7|
@@ -16458,6 +16465,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuu|NUU A3|N5001WA|A3|
 |Nuu|NUU A3 (TC)|N5001WA|A3|
 |Nuu|NUU G3|N5702L|N5702L|
+|Nuu|NUU G5|S6501LA|S6501L|
 |Nuu|NUU M4X_PRO|S5701L|S5701L|
 |Nuu|NUU R1|R5001LA|R5001L|
 |Nuu|NUU_A2|S4001W|S4001W|
@@ -16465,6 +16473,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuu|X5|NUU_X5|NUU_X5|
 |Nuu|X6|S5702LA|S5702L|
 |Nuu|X6mini|S5702LA|S5702L|
+|Nuu|X6mini|S5704LE|S5704L|
 |Nuu|Z8|Z8|Z8|
 |Nuvision|TM101A530L|TM101A530L|TM101A530L|
 |Nuvision|TM101A540N|mid1008a-l|TM101A540N|
@@ -25330,6 +25339,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Turbokids|Turbokids3GNEW|Turbokids3GNEW|Turbokids3GNEW|
 |Turbokids|TurbokidsP|TurbokidsP|TurbokidsP|
 |Turbokids|TurbokidsS5|TurbokidsS5|TurbokidsS5|
+|Turbokids|TurbokidsStarA100|TurbokidsStarA100|Turbokids Star|
 |Turbokids|Turbokids_Star|Turbokids_Star|Turbokids_Star|
 |Turbonet|ADR1776|ADR1776|ADR1776|
 |Turbonet|TN451A1|TN451A1|TN451A1|
