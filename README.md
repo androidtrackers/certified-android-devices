@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-08-23
+Last sync is 2020-08-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2515,6 +2515,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|Endeavour101|Blaupunkt|Endeavour101|
 |Blaupunkt|Guardian|Guardian|Guardian|
 |Blaupunkt|MP3TV|shinjuku|MP3-A 2K TV|
+|Blaupunkt|OT19|OT19|OT19|
 |Blaupunkt|SL05|SL05|SL05|
 |Blaupunkt|SLplus02|SLplus02|SLplus02|
 |Blaupunkt|SM 05|Blaupunkt_SM_05|Blaupunkt SM 05|
@@ -3069,6 +3070,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cat|S30|CatS30|S30|
 |Cat|S40|CatS40|S40|
 |Cat|S50|CatS50|S50|
+|Cat|S62Pro|S62Pro|S62 Pro|
 |Cathay|AS01M|AS01M|AS01M|
 |Cavion|Base_5.0|Cavion_Base_5_0|Cavion_Base_5_0|
 |Cavion|Base_72_GO|Base_72_GO|Base_72_GO|
@@ -4982,6 +4984,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Envizen Digital|VMD1029|VMD1029|VMD1029|
 |Epson|STI6110|Bushi|STI6110|
 |Epson|embt4|embt4|EMBT4|
+|Epson|embt4ru|embt4|EMBT4|
 |Equator|Axis|Axis|Axis|
 |Ergo|B502 Basic|B502_Basic|B502 Basic|
 |Ergo|B504_Unit|B504_Unit|B504_Unit|
@@ -16615,6 +16618,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Onn (Walmart)|100011885|100011885|100011885|
 |Onn (Walmart)|100011886|100011886|100011886|
 |Onn (Walmart)|100015685-A|100015685-A|100015685-A|
+|Onn (Walmart)|100015685-E|100015685-E|100015685-E|
 |Onn (Walmart)|ONA19TB002|ONA19TB002|ONA19TB002|
 |Onn (Walmart)|ONA19TB003|ONA19TB003|ONA19TB003|
 |Onn (Walmart)|ONA19TB007|ONA19TB007|ONA19TB007|
@@ -17810,6 +17814,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Point of view|PVT-R78-3288|PVT-R78-3288|PVT-R78-3288|
 |Point of view|TAB-PTDF-116|TAB-PTDF-116|TAB-PTDF-116|
 |Point of view|TAB_ASR_7232_3G_SERIES|TABLET_PC|TAB_ASR_7232_3G_SERIES|
+|Point of view|TAB_TS101S_LTE|TAB_TS101S_LTE|TAB_TS101S_LTE|
 |Pokini|K6|K6|K6|
 |Polar|M600|pike|Polar M600|
 |Polaris|Condroid_X7|polaris-Condroid_X7|Condroid_X7|
@@ -18837,6 +18842,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 9|galahad|M2004J19C|
 |Redmi|Redmi 9|galahad|galahad|
 |Redmi|Redmi 9|lancelot|M2004J19C|
+|Redmi|Redmi 9 Prime|lancelot|M2004J19C|
 |Redmi|Redmi 9A|dandelion|M2006C3LC|
 |Redmi|Redmi 9A|dandelion|M2006C3LVG|
 |Redmi|Redmi 9A|dandelion|dandelion|
@@ -21693,6 +21699,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Schok|FreedomTurboXL|SFT57216|FreedomTurboXL|
 |Schok|SCHOK|SM7216H|SM7216H|
 |Schok|freedom turbo|SFT5216|freedom turbo|
+|Schok|freedom turbo XL|freedom_turbo_XL|freedom turbo XL|
 |Schok|mini_SM7216|SM7216|SM7216|
 |Scope|F503V|F503V|F503V|
 |Scope|SP1099R|SP1099R|SP1099R|

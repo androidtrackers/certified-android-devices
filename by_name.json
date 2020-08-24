@@ -24427,6 +24427,13 @@
    "model": "MP3-A 2K TV"
   }
  ],
+ "OT19": [
+  {
+   "brand": "Blaupunkt",
+   "device": "OT19",
+   "model": "OT19"
+  }
+ ],
  "SL05": [
   {
    "brand": "Blaupunkt",
@@ -28836,6 +28843,13 @@
    "brand": "Stylo",
    "device": "STYLO_S50_Granite",
    "model": "S50"
+  }
+ ],
+ "S62Pro": [
+  {
+   "brand": "Cat",
+   "device": "S62Pro",
+   "model": "S62 Pro"
   }
  ],
  "AS01M": [
@@ -42399,6 +42413,13 @@
   }
  ],
  "embt4": [
+  {
+   "brand": "Epson",
+   "device": "embt4",
+   "model": "EMBT4"
+  }
+ ],
+ "embt4ru": [
   {
    "brand": "Epson",
    "device": "embt4",
@@ -111661,6 +111682,13 @@
    "model": "100015685-A"
   }
  ],
+ "100015685-E": [
+  {
+   "brand": "Onn (Walmart)",
+   "device": "100015685-E",
+   "model": "100015685-E"
+  }
+ ],
  "ONA19TB002": [
   {
    "brand": "Onn (Walmart)",
@@ -119168,6 +119196,13 @@
    "model": "TAB_ASR_7232_3G_SERIES"
   }
  ],
+ "TAB_TS101S_LTE": [
+  {
+   "brand": "Point of view",
+   "device": "TAB_TS101S_LTE",
+   "model": "TAB_TS101S_LTE"
+  }
+ ],
  "M600": [
   {
    "brand": "Polar",
@@ -125740,6 +125775,13 @@
    "device": "galahad",
    "model": "galahad"
   },
+  {
+   "brand": "Redmi",
+   "device": "lancelot",
+   "model": "M2004J19C"
+  }
+ ],
+ "Redmi 9 Prime": [
   {
    "brand": "Redmi",
    "device": "lancelot",
@@ -141495,6 +141537,13 @@
    "brand": "Schok",
    "device": "SFT5216",
    "model": "freedom turbo"
+  }
+ ],
+ "freedom turbo XL": [
+  {
+   "brand": "Schok",
+   "device": "freedom_turbo_XL",
+   "model": "freedom turbo XL"
   }
  ],
  "mini_SM7216": [

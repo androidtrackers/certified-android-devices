@@ -18767,6 +18767,13 @@
    "device": "shinjuku"
   }
  ],
+ "OT19": [
+  {
+   "brand": "Blaupunkt",
+   "name": "OT19",
+   "device": "OT19"
+  }
+ ],
  "SL05": [
   {
    "brand": "Blaupunkt",
@@ -22846,6 +22853,11 @@
   {
    "brand": "Cat",
    "name": "Cat S62 Pro",
+   "device": "S62Pro"
+  },
+  {
+   "brand": "Cat",
+   "name": "S62Pro",
    "device": "S62Pro"
   }
  ],
@@ -36366,6 +36378,11 @@
   {
    "brand": "Epson",
    "name": "embt4",
+   "device": "embt4"
+  },
+  {
+   "brand": "Epson",
+   "name": "embt4ru",
    "device": "embt4"
   }
  ],
@@ -114151,6 +114168,13 @@
    "device": "100015685-A"
   }
  ],
+ "100015685-E": [
+  {
+   "brand": "Onn (Walmart)",
+   "name": "100015685-E",
+   "device": "100015685-E"
+  }
+ ],
  "ONA19TB002": [
   {
    "brand": "Onn (Walmart)",
@@ -121994,6 +122018,13 @@
    "device": "TABLET_PC"
   }
  ],
+ "TAB_TS101S_LTE": [
+  {
+   "brand": "Point of view",
+   "name": "TAB_TS101S_LTE",
+   "device": "TAB_TS101S_LTE"
+  }
+ ],
  "Polar M600": [
   {
    "brand": "Polar",
@@ -128876,6 +128907,11 @@
   {
    "brand": "Redmi",
    "name": "Redmi 9",
+   "device": "lancelot"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 9 Prime",
    "device": "lancelot"
   }
  ],
@@ -148310,6 +148346,13 @@
    "brand": "Schok",
    "name": "freedom turbo",
    "device": "SFT5216"
+  }
+ ],
+ "freedom turbo XL": [
+  {
+   "brand": "Schok",
+   "name": "freedom turbo XL",
+   "device": "freedom_turbo_XL"
   }
  ],
  "SM7216": [

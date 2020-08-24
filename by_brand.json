@@ -12927,6 +12927,11 @@
    "model": "MP3-A 2K TV"
   },
   {
+   "device": "OT19",
+   "name": "OT19",
+   "model": "OT19"
+  },
+  {
    "device": "SL05",
    "name": "SL05",
    "model": "SL05"
@@ -15847,6 +15852,11 @@
    "device": "CatS50",
    "name": "S50",
    "model": "S50"
+  },
+  {
+   "device": "S62Pro",
+   "name": "S62Pro",
+   "model": "S62 Pro"
   }
  ],
  "Cathay": [
@@ -25819,6 +25829,11 @@
   {
    "device": "embt4",
    "name": "embt4",
+   "model": "EMBT4"
+  },
+  {
+   "device": "embt4",
+   "name": "embt4ru",
    "model": "EMBT4"
   }
  ],
@@ -85311,6 +85326,11 @@
    "model": "100015685-A"
   },
   {
+   "device": "100015685-E",
+   "name": "100015685-E",
+   "model": "100015685-E"
+  },
+  {
    "device": "ONA19TB002",
    "name": "ONA19TB002",
    "model": "ONA19TB002"
@@ -91412,6 +91432,11 @@
    "device": "TABLET_PC",
    "name": "TAB_ASR_7232_3G_SERIES",
    "model": "TAB_ASR_7232_3G_SERIES"
+  },
+  {
+   "device": "TAB_TS101S_LTE",
+   "name": "TAB_TS101S_LTE",
+   "model": "TAB_TS101S_LTE"
   }
  ],
  "Pokini": [
@@ -96678,6 +96703,11 @@
   {
    "device": "lancelot",
    "name": "Redmi 9",
+   "model": "M2004J19C"
+  },
+  {
+   "device": "lancelot",
+   "name": "Redmi 9 Prime",
    "model": "M2004J19C"
   },
   {
@@ -111113,6 +111143,11 @@
    "device": "SFT5216",
    "name": "freedom turbo",
    "model": "freedom turbo"
+  },
+  {
+   "device": "freedom_turbo_XL",
+   "name": "freedom turbo XL",
+   "model": "freedom turbo XL"
   },
   {
    "device": "SM7216",

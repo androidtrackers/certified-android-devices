@@ -19475,6 +19475,13 @@
    "model": "SA 2K TV"
   }
  ],
+ "OT19": [
+  {
+   "brand": "Blaupunkt",
+   "name": "OT19",
+   "model": "OT19"
+  }
+ ],
  "SL05": [
   {
    "brand": "Blaupunkt",
@@ -23344,6 +23351,11 @@
   {
    "brand": "Cat",
    "name": "Cat S62 Pro",
+   "model": "S62 Pro"
+  },
+  {
+   "brand": "Cat",
+   "name": "S62Pro",
    "model": "S62 Pro"
   }
  ],
@@ -37329,6 +37341,11 @@
   {
    "brand": "Epson",
    "name": "embt4",
+   "model": "EMBT4"
+  },
+  {
+   "brand": "Epson",
+   "name": "embt4ru",
    "model": "EMBT4"
   }
  ],
@@ -110706,6 +110723,13 @@
    "model": "100015685-A"
   }
  ],
+ "100015685-E": [
+  {
+   "brand": "Onn (Walmart)",
+   "name": "100015685-E",
+   "model": "100015685-E"
+  }
+ ],
  "ONA19TB002": [
   {
    "brand": "Onn (Walmart)",
@@ -118623,6 +118647,13 @@
    "model": "TAB_ASR_7232_3G_SERIES"
   }
  ],
+ "TAB_TS101S_LTE": [
+  {
+   "brand": "Point of view",
+   "name": "TAB_TS101S_LTE",
+   "model": "TAB_TS101S_LTE"
+  }
+ ],
  "pike": [
   {
    "brand": "Polar",
@@ -125093,6 +125124,11 @@
   {
    "brand": "Redmi",
    "name": "Redmi 9",
+   "model": "M2004J19C"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 9 Prime",
    "model": "M2004J19C"
   }
  ],
@@ -143259,6 +143295,13 @@
    "brand": "Schok",
    "name": "freedom turbo",
    "model": "freedom turbo"
+  }
+ ],
+ "freedom_turbo_XL": [
+  {
+   "brand": "Schok",
+   "name": "freedom turbo XL",
+   "model": "freedom turbo XL"
   }
  ],
  "SM7216": [
