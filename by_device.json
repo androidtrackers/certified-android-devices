@@ -1022,6 +1022,13 @@
    "model": "U304AA"
   }
  ],
+ "U318AA": [
+  {
+   "brand": "AT&T",
+   "name": "U318AA",
+   "model": "U318AA"
+  }
+ ],
  "U705AA": [
   {
    "brand": "AT&T",
@@ -4093,6 +4100,13 @@
    "model": "Pr7547"
   }
  ],
+ "SP4872": [
+  {
+   "brand": "Advance",
+   "name": "SP4872",
+   "model": "SP4872"
+  }
+ ],
  "Sp5730": [
   {
    "brand": "Advance",
@@ -4578,6 +4592,11 @@
   {
    "brand": "JVC",
    "name": "LT-40KB308",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "JVC",
+   "name": "LT-40N5115A",
    "model": "AI PONT"
   },
   {
@@ -15438,6 +15457,13 @@
    "model": "M107-EEA"
   }
  ],
+ "M863": [
+  {
+   "brand": "BMXC",
+   "name": "M863",
+   "model": "M863"
+  }
+ ],
  "N107": [
   {
    "brand": "BMXC",
@@ -21787,6 +21813,18 @@
    "brand": "Brantel",
    "name": "E-tel_i10",
    "model": "E-tel i10"
+  }
+ ],
+ "Q30": [
+  {
+   "brand": "Brantel",
+   "name": "Q30",
+   "model": "Q30"
+  },
+  {
+   "brand": "E-Tel",
+   "name": "Q30",
+   "model": "Q30"
   }
  ],
  "B1": [
@@ -32393,6 +32431,13 @@
    "model": "DL9002"
   }
  ],
+ "mid1032_mr": [
+  {
+   "brand": "DigiLand",
+   "name": "Digiland_mid1032_mr",
+   "model": "DL1036"
+  }
+ ],
  "EVERPAD": [
   {
    "brand": "DigiLand",
@@ -32706,6 +32751,11 @@
   }
  ],
  "CS7216MG": [
+  {
+   "brand": "Digma",
+   "name": "CITI_Kids",
+   "model": "CITI Kids CS7216MG"
+  },
   {
    "brand": "Digma",
    "name": "CITI_Kids_CS7216MG",
@@ -35303,13 +35353,6 @@
    "model": "Q25"
   }
  ],
- "Q30": [
-  {
-   "brand": "E-Tel",
-   "name": "Q30",
-   "model": "Q30"
-  }
- ],
  "i240": [
   {
    "brand": "E-Tel",
@@ -36004,6 +36047,27 @@
    "brand": "ESI Enterprises",
    "name": "Trinity T900",
    "model": "Trinity T900"
+  }
+ ],
+ "HEROSP001": [
+  {
+   "brand": "ETERNITY",
+   "name": "HEROSP001",
+   "model": "SP-001"
+  }
+ ],
+ "mid1032_mk": [
+  {
+   "brand": "EVEREST-EVERPAD",
+   "name": "DC-1032",
+   "model": "DC-1032"
+  }
+ ],
+ "mid7015_mk": [
+  {
+   "brand": "EVEREST-EVERPAD",
+   "name": "DC-8015",
+   "model": "DC-8015"
   }
  ],
  "EX10S4": [
@@ -37330,14 +37394,12 @@
    "model": "VMD1029"
   }
  ],
- "Bushi": [
+ "embt4": [
   {
    "brand": "Epson",
-   "name": "STI6110",
-   "model": "STI6110"
-  }
- ],
- "embt4": [
+   "name": "Epson",
+   "model": "EMBT4"
+  },
   {
    "brand": "Epson",
    "name": "embt4",
@@ -37345,8 +37407,20 @@
   },
   {
    "brand": "Epson",
+   "name": "embt4cn",
+   "model": "EMBT4"
+  },
+  {
+   "brand": "Epson",
    "name": "embt4ru",
    "model": "EMBT4"
+  }
+ ],
+ "Bushi": [
+  {
+   "brand": "Epson",
+   "name": "STI6110",
+   "model": "STI6110"
   }
  ],
  "Axis": [
@@ -37718,6 +37792,58 @@
    "brand": "Evercoss",
    "name": "M55C",
    "model": "M55C"
+  }
+ ],
+ "M6": [
+  {
+   "brand": "Evercoss",
+   "name": "M6",
+   "model": "M6"
+  },
+  {
+   "brand": "Hotwav",
+   "name": "M6",
+   "model": "M6"
+  },
+  {
+   "brand": "Meberry",
+   "name": "M6",
+   "model": "M6"
+  },
+  {
+   "brand": "Meitu",
+   "name": "M6",
+   "model": "MP1503"
+  },
+  {
+   "brand": "Olla",
+   "name": "M6",
+   "model": "M6"
+  },
+  {
+   "brand": "Techpad",
+   "name": "M6",
+   "model": "M6"
+  },
+  {
+   "brand": "Vernee",
+   "name": "M6",
+   "model": "M6"
+  },
+  {
+   "brand": "Xplore Technologies",
+   "name": "M6",
+   "model": "M6"
+  },
+  {
+   "brand": "ZOOMME",
+   "name": "M6",
+   "model": "M6"
+  },
+  {
+   "brand": "beafon",
+   "name": "M6",
+   "model": "M6"
   }
  ],
  "M70": [
@@ -41980,6 +42106,13 @@
    "model": "F104BvII_PRO"
   }
  ],
+ "F104EvII_EEA": [
+  {
+   "brand": "Fusion5",
+   "name": "F104EvII_EEA",
+   "model": "F104EvII_EEA"
+  }
+ ],
  "F105Dv2": [
   {
    "brand": "Fusion5",
@@ -42370,6 +42503,13 @@
    "brand": "Umiio",
    "name": "Q2",
    "model": "Q2"
+  }
+ ],
+ "Q2S": [
+  {
+   "brand": "G-Tab",
+   "name": "Q2S",
+   "model": "Q2S"
   }
  ],
  "Q4": [
@@ -43440,6 +43580,13 @@
    "brand": "Ghia",
    "name": "GTPND7",
    "model": "GTPND7"
+  }
+ ],
+ "GTVR10S": [
+  {
+   "brand": "Ghia",
+   "name": "GTVR10S",
+   "model": "GTVR10S"
   }
  ],
  "TREO_TAB8G": [
@@ -52281,6 +52428,13 @@
    "model": "HSG1376"
   }
  ],
+ "HSG1415": [
+  {
+   "brand": "HannSpree",
+   "name": "HSG1415",
+   "model": "HSG1415"
+  }
+ ],
  "atom": [
   {
    "brand": "Harman TV",
@@ -57176,53 +57330,6 @@
    "brand": "Hotwav",
    "name": "M5i",
    "model": "M5i"
-  }
- ],
- "M6": [
-  {
-   "brand": "Hotwav",
-   "name": "M6",
-   "model": "M6"
-  },
-  {
-   "brand": "Meberry",
-   "name": "M6",
-   "model": "M6"
-  },
-  {
-   "brand": "Meitu",
-   "name": "M6",
-   "model": "MP1503"
-  },
-  {
-   "brand": "Olla",
-   "name": "M6",
-   "model": "M6"
-  },
-  {
-   "brand": "Techpad",
-   "name": "M6",
-   "model": "M6"
-  },
-  {
-   "brand": "Vernee",
-   "name": "M6",
-   "model": "M6"
-  },
-  {
-   "brand": "Xplore Technologies",
-   "name": "M6",
-   "model": "M6"
-  },
-  {
-   "brand": "ZOOMME",
-   "name": "M6",
-   "model": "M6"
-  },
-  {
-   "brand": "beafon",
-   "name": "M6",
-   "model": "M6"
   }
  ],
  "Magic_11": [
@@ -66785,6 +66892,13 @@
    "model": "PNC550"
   }
  ],
+ "7LB1": [
+  {
+   "brand": "Hyundai",
+   "name": "7LB1",
+   "model": "7LB1"
+  }
+ ],
  "A25563L": [
   {
    "brand": "Hyundai",
@@ -67147,6 +67261,13 @@
    "model": "HT1004L16"
   }
  ],
+ "10LB1": [
+  {
+   "brand": "Hyundai",
+   "name": "Koral_10LB1",
+   "model": "10LB1"
+  }
+ ],
  "HT1004X16": [
   {
    "brand": "Hyundai",
@@ -67173,6 +67294,13 @@
    "brand": "Hyundai",
    "name": "Koral_10XL_Plus",
    "model": "HT1002LI32"
+  }
+ ],
+ "7LC1": [
+  {
+   "brand": "Hyundai",
+   "name": "Koral_7LC1",
+   "model": "7LC1"
   }
  ],
  "Koral_7W4X": [
@@ -95192,6 +95320,16 @@
    "brand": "Olla",
    "name": "M8",
    "model": "M8"
+  },
+  {
+   "brand": "Winnovo",
+   "name": "M8_EEA",
+   "model": "M8"
+  },
+  {
+   "brand": "Winnovo",
+   "name": "Winnovo",
+   "model": "M8"
   }
  ],
  "M825": [
@@ -104581,6 +104719,13 @@
    "brand": "Multilaser",
    "name": "Kidpad-3G",
    "model": "Kidpad-3G"
+  }
+ ],
+ "ML-JI0A-M10-4G": [
+  {
+   "brand": "Multilaser",
+   "name": "M10 4G",
+   "model": "M10-4G"
   }
  ],
  "ML-JI06-M10-3G": [
@@ -118090,6 +118235,13 @@
    "brand": "Pioneer",
    "name": "XDP-300R",
    "model": "XDP-300R"
+  }
+ ],
+ "Piranha8032": [
+  {
+   "brand": "Piranha",
+   "name": "Piranha8032",
+   "model": "Piranha8032"
   }
  ],
  "ELINK2": [
@@ -146771,6 +146923,20 @@
    "model": "Elite Go"
   }
  ],
+ "Elite_H5": [
+  {
+   "brand": "Sky Devices",
+   "name": "Elite H5",
+   "model": "Elite H5"
+  }
+ ],
+ "Elite_H55": [
+  {
+   "brand": "Sky Devices",
+   "name": "Elite H55",
+   "model": "Elite H55"
+  }
+ ],
  "Elite_M45": [
   {
    "brand": "Sky Devices",
@@ -146839,6 +147005,13 @@
    "brand": "Sky Devices",
    "name": "Elite T6",
    "model": "Elite T6"
+  }
+ ],
+ "Elite_P55": [
+  {
+   "brand": "Sky Devices",
+   "name": "Elite_P55",
+   "model": "Elite P55"
   }
  ],
  "Fuego_4_0T_EC": [
@@ -147026,6 +147199,13 @@
    "brand": "Sky Devices",
    "name": "Platinum View2",
    "model": "PLATINUM_VIEW2"
+  }
+ ],
+ "Platinum_H5_PLUS": [
+  {
+   "brand": "Sky Devices",
+   "name": "Platinum_H5",
+   "model": "Platinum H5"
   }
  ],
  "Platinum_UNO": [
@@ -151573,6 +151753,13 @@
    "brand": "SoyMomo",
    "name": "SoyMomo_Lite_V1_EEA",
    "model": "SoyMomo_Lite_V1"
+  }
+ ],
+ "SoyMomo_Pro_EU_V1": [
+  {
+   "brand": "SoyMomo",
+   "name": "SoyMomo_Pro_EU_V1",
+   "model": "SoyMomo_Pro_EU_V1"
   }
  ],
  "Pro_V1": [
@@ -176069,6 +176256,13 @@
    "model": "XP8105"
   }
  ],
+ "XP8105A": [
+  {
+   "brand": "Xplore Technologies",
+   "name": "XP8105A",
+   "model": "XP8105A"
+  }
+ ],
  "XP8776": [
   {
    "brand": "Xplore Technologies",
@@ -179830,6 +180024,13 @@
    "brand": "ZTE",
    "name": "Blade A7 2019-T",
    "model": "Blade A7 2019-T"
+  }
+ ],
+ "Z6350T": [
+  {
+   "brand": "ZTE",
+   "name": "Blade A7S 2020-T",
+   "model": "Blade A7S 2020-T"
   }
  ],
  "coeus": [
