@@ -1265,6 +1265,13 @@
    "model": "AZDroid"
   }
  ],
+ "A1046G": [
+  {
+   "brand": "AZPEN",
+   "name": "A1046G",
+   "model": "A1046G"
+  }
+ ],
  "A1052": [
   {
    "brand": "AZPEN",
@@ -1284,6 +1291,13 @@
    "brand": "AZPEN",
    "name": "A780",
    "model": "A780"
+  }
+ ],
+ "A780B": [
+  {
+   "brand": "AZPEN",
+   "name": "A780B",
+   "model": "A780B"
   }
  ],
  "wing-ibt": [
@@ -7177,6 +7191,13 @@
    "brand": "Altron",
    "name": "OB_421",
    "model": "OB_421"
+  }
+ ],
+ "OB_627": [
+  {
+   "brand": "Altron",
+   "name": "OB_627",
+   "model": "OB_627"
   }
  ],
  "Azumi_KIREI_A5Q_PLUS_AC06": [
@@ -31682,6 +31703,13 @@
    "model": "CS-1A13"
   }
  ],
+ "drallion_cheets": [
+  {
+   "brand": "Dell",
+   "name": "Latitude 7000",
+   "model": "drallion"
+  }
+ ],
  "streak": [
   {
    "brand": "Dell",
@@ -33501,6 +33529,13 @@
    "brand": "Digma",
    "name": "Plane_8549S_4G",
    "model": "Plane_8549S_4G_PS8162PL"
+  }
+ ],
+ "TS1221PL": [
+  {
+   "brand": "Digma",
+   "name": "TS1221PL",
+   "model": "Optima 10 A501S 4G TS1221PL"
   }
  ],
  "VS5037PL": [
@@ -35970,6 +36005,13 @@
    "brand": "EPIKONE",
    "name": "X507T",
    "model": "X507T"
+  }
+ ],
+ "X547": [
+  {
+   "brand": "EPIKONE",
+   "name": "X547",
+   "model": "X547"
   }
  ],
  "X572": [
@@ -43168,6 +43210,11 @@
   {
    "brand": "General Mobile",
    "name": "GM 20 PRO",
+   "model": "G501"
+  },
+  {
+   "brand": "General Mobile",
+   "name": "GM 20 Pro",
    "model": "G501"
   }
  ],
@@ -72026,6 +72073,13 @@
    "model": "itel A32F"
   }
  ],
+ "itel-W5002": [
+  {
+   "brand": "Itel",
+   "name": "A35",
+   "model": "itel W5002"
+  }
+ ],
  "itel_A41": [
   {
    "brand": "Itel",
@@ -75392,6 +75446,13 @@
    "brand": "Klipad",
    "name": "KL3669_EEA",
    "model": "KL3669_EEA"
+  }
+ ],
+ "KL3678E_EEA": [
+  {
+   "brand": "Klipad",
+   "name": "KL3678E_EEA",
+   "model": "KL3678E_EEA"
   }
  ],
  "KL3889": [
@@ -79264,13 +79325,6 @@
    "brand": "LGE",
    "name": "LG K30",
    "model": "LM-X320"
-  }
- ],
- "meh15lm": [
-  {
-   "brand": "LGE",
-   "name": "K42",
-   "model": "LM-K420"
   }
  ],
  "mmh45lm": [
@@ -83332,6 +83386,13 @@
    "brand": "LGE",
    "name": "LG-E985T",
    "model": "LG-E985T"
+  }
+ ],
+ "meh15lm": [
+  {
+   "brand": "LGE",
+   "name": "LM-K420",
+   "model": "LM-K420"
   }
  ],
  "mmh6lm": [
@@ -92599,6 +92660,11 @@
   {
    "brand": "Linsay",
    "name": "F10XIPS",
+   "model": "F10XIPS"
+  },
+  {
+   "brand": "Linsay",
+   "name": "F10XIPS",
    "model": "LINSAY F10XIPS"
   }
  ],
@@ -92607,6 +92673,13 @@
    "brand": "Linsay",
    "name": "F7HD4CORE",
    "model": "F7HD4CORE"
+  }
+ ],
+ "F7UHD": [
+  {
+   "brand": "Linsay",
+   "name": "F7UHD",
+   "model": "F7UHD"
   }
  ],
  "F_10XHD": [
@@ -92768,6 +92841,13 @@
    "brand": "Logic Mobility",
    "name": "LOGIC L50T",
    "model": "LOGIC L50T"
+  }
+ ],
+ "LOGIC_L4T": [
+  {
+   "brand": "Logic Mobility",
+   "name": "LOGIC_L4T_1",
+   "model": "LOGIC L4T"
   }
  ],
  "LOGIC_L55S": [
@@ -104569,6 +104649,13 @@
    "brand": "Movitel",
    "name": "M9105",
    "model": "M9105"
+  }
+ ],
+ "M9106": [
+  {
+   "brand": "Movitel",
+   "name": "M9106",
+   "model": "M9106"
   }
  ],
  "Movitel_M9104": [
@@ -120386,6 +120473,13 @@
    "model": "PREMIO S75"
   }
  ],
+ "S81": [
+  {
+   "brand": "Premio",
+   "name": "S81",
+   "model": "S81"
+  }
+ ],
  "186HS2080531": [
   {
    "brand": "Premio",
@@ -124377,6 +124471,13 @@
    "model": "RCT6873W42M"
   }
  ],
+ "RCT6876Q22": [
+  {
+   "brand": "RCA",
+   "name": "RCT6876Q22",
+   "model": "RCT6876Q22"
+  }
+ ],
  "RCT6973W43": [
   {
    "brand": "RCA",
@@ -127556,6 +127657,13 @@
    "model": "SC-813"
   }
  ],
+ "SC-9810": [
+  {
+   "brand": "SUPERSONIC",
+   "name": "SC-9810",
+   "model": "SC-9810"
+  }
+ ],
  "SC4009DL": [
   {
    "brand": "SUPERSONIC",
@@ -128545,6 +128653,11 @@
    "brand": "Samsung",
    "name": "Galaxy A21",
    "model": "SM-A215W"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A21",
+   "model": "SM-S215DL"
   }
  ],
  "a21s": [
@@ -133785,6 +133898,13 @@
    "model": "SM-M405F"
   }
  ],
+ "m51": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M51",
+   "model": "SM-M515F"
+  }
+ ],
  "mega23g": [
   {
    "brand": "Samsung",
@@ -137160,6 +137280,11 @@
   {
    "brand": "Samsung",
    "name": "Galaxy S20 Ultra 5G",
+   "model": "SM-G988Q"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S20 Ultra 5G",
    "model": "SM-G988U"
   },
   {
@@ -139377,13 +139502,6 @@
    "model": "SCH-I829"
   }
  ],
- "gta4l": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy TAB A7",
-   "model": "SM-T505"
-  }
- ],
  "gtactive2lteue": [
   {
    "brand": "Samsung",
@@ -140427,6 +140545,30 @@
    "brand": "Samsung",
    "name": "Galaxy Tab A with S Pen",
    "model": "SM-P200"
+  }
+ ],
+ "gta4l": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab A7",
+   "model": "SM-T505"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab A7",
+   "model": "SM-T505C"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab A7",
+   "model": "SM-T505N"
+  }
+ ],
+ "gta4lwifi": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab A7",
+   "model": "SM-T500"
   }
  ],
  "rubenslte": [
@@ -146255,6 +146397,13 @@
    "brand": "Sharp",
    "name": "シンプルスマホ４",
    "model": "704SH"
+  }
+ ],
+ "OI6": [
+  {
+   "brand": "Sharp",
+   "name": "シンプルスマホ５",
+   "model": "A001SH"
   }
  ],
  "SR01MW": [
@@ -161792,6 +161941,20 @@
    "model": "M20_4G"
   }
  ],
+ "P10SE_EEA": [
+  {
+   "brand": "Teclast",
+   "name": "P10SE_EEA",
+   "model": "P10SE_EEA"
+  }
+ ],
+ "P10SE_ROW": [
+  {
+   "brand": "Teclast",
+   "name": "P10SE_ROW",
+   "model": "P10SE_ROW"
+  }
+ ],
  "P10S_EEA": [
   {
    "brand": "Teclast",
@@ -161825,6 +161988,13 @@
    "brand": "Teclast",
    "name": "P20_EEA",
    "model": "P20_EEA"
+  }
+ ],
+ "P20_RUS": [
+  {
+   "brand": "Teclast",
+   "name": "P20_RUS",
+   "model": "P20_RUS"
   }
  ],
  "P80X": [
@@ -165861,6 +166031,13 @@
    "model": "Armor X5"
   }
  ],
+ "Armor_X5_Pro": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor X5 Pro",
+   "model": "Armor X5 Pro"
+  }
+ ],
  "Armor_X7_Q": [
   {
    "brand": "Ulefone",
@@ -166938,6 +167115,13 @@
    "brand": "VUCATIMES",
    "name": "N8_EEA",
    "model": "N8_EEA"
+  }
+ ],
+ "VucaPad_N20": [
+  {
+   "brand": "VUCATIMES",
+   "name": "VucaPad_N20",
+   "model": "VucaPad_N20"
   }
  ],
  "TAB0001NG": [

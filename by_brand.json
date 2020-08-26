@@ -744,6 +744,11 @@
  ],
  "AZPEN": [
   {
+   "device": "A1046G",
+   "name": "A1046G",
+   "model": "A1046G"
+  },
+  {
    "device": "A1052",
    "name": "A1052",
    "model": "A1052"
@@ -757,6 +762,11 @@
    "device": "A780",
    "name": "A780",
    "model": "A780"
+  },
+  {
+   "device": "A780B",
+   "name": "A780B",
+   "model": "A780B"
   },
   {
    "device": "wing-ibt",
@@ -4200,6 +4210,11 @@
    "device": "OB_421",
    "name": "OB_421",
    "model": "OB_421"
+  },
+  {
+   "device": "OB_627",
+   "name": "OB_627",
+   "model": "OB_627"
   }
  ],
  "Americamovil": [
@@ -21657,6 +21672,11 @@
    "model": "CS-1A13"
   },
   {
+   "device": "drallion_cheets",
+   "name": "Latitude 7000",
+   "model": "drallion"
+  },
+  {
    "device": "streak",
    "name": "Streak",
    "model": "001DL"
@@ -22991,6 +23011,11 @@
    "device": "PS8162PL",
    "name": "Plane_8549S_4G",
    "model": "Plane_8549S_4G_PS8162PL"
+  },
+  {
+   "device": "TS1221PL",
+   "name": "TS1221PL",
+   "model": "Optima 10 A501S 4G TS1221PL"
   },
   {
    "device": "VS5036PL",
@@ -24763,6 +24788,11 @@
    "device": "X507T",
    "name": "X507T",
    "model": "X507T"
+  },
+  {
+   "device": "X547",
+   "name": "X547",
+   "model": "X547"
   },
   {
    "device": "X572",
@@ -30152,6 +30182,11 @@
   {
    "device": "G501",
    "name": "GM 20 PRO",
+   "model": "G501"
+  },
+  {
+   "device": "G501",
+   "name": "GM 20 Pro",
    "model": "G501"
   },
   {
@@ -54276,6 +54311,11 @@
    "model": "itel A32F"
   },
   {
+   "device": "itel-W5002",
+   "name": "A35",
+   "model": "itel W5002"
+  },
+  {
    "device": "itel_A41",
    "name": "A41",
    "model": "itel A41"
@@ -57007,6 +57047,11 @@
    "model": "KL3669_EEA"
   },
   {
+   "device": "KL3678E_EEA",
+   "name": "KL3678E_EEA",
+   "model": "KL3678E_EEA"
+  },
+  {
    "device": "KL3889",
    "name": "KL3889",
    "model": "KL3889"
@@ -59672,11 +59717,6 @@
    "device": "lv1",
    "name": "K4 (2017)",
    "model": "LGL57BL"
-  },
-  {
-   "device": "meh15lm",
-   "name": "K42",
-   "model": "LM-K420"
   },
   {
    "device": "mmh45lm",
@@ -63392,6 +63432,11 @@
    "device": "g2",
    "name": "LGL22",
    "model": "LGL22"
+  },
+  {
+   "device": "meh15lm",
+   "name": "LM-K420",
+   "model": "LM-K420"
   },
   {
    "device": "mmh6lm",
@@ -70965,12 +71010,22 @@
   {
    "device": "F10XIPS",
    "name": "F10XIPS",
+   "model": "F10XIPS"
+  },
+  {
+   "device": "F10XIPS",
+   "name": "F10XIPS",
    "model": "LINSAY F10XIPS"
   },
   {
    "device": "F7HD4CORE",
    "name": "F7HD4CORE",
    "model": "F7HD4CORE"
+  },
+  {
+   "device": "F7UHD",
+   "name": "F7UHD",
+   "model": "F7UHD"
   },
   {
    "device": "F_10XHD",
@@ -71106,6 +71161,11 @@
    "device": "LOGIC_L50T",
    "name": "LOGIC L50T",
    "model": "LOGIC L50T"
+  },
+  {
+   "device": "LOGIC_L4T",
+   "name": "LOGIC_L4T_1",
+   "model": "LOGIC L4T"
   },
   {
    "device": "LOGIC_L55S",
@@ -80330,6 +80390,11 @@
    "device": "M9105",
    "name": "M9105",
    "model": "M9105"
+  },
+  {
+   "device": "M9106",
+   "name": "M9106",
+   "model": "M9106"
   },
   {
    "device": "Movitel_M9104",
@@ -92876,6 +92941,11 @@
    "model": "S80"
   },
   {
+   "device": "S81",
+   "name": "S81",
+   "model": "S81"
+  },
+  {
    "device": "186HS2080531",
    "name": "X1",
    "model": "186HS2080531"
@@ -96109,6 +96179,11 @@
    "model": "RCT6873W42M"
   },
   {
+   "device": "RCT6876Q22",
+   "name": "RCT6876Q22",
+   "model": "RCT6876Q22"
+  },
+  {
    "device": "RCT6973W43",
    "name": "RCT6973W43",
    "model": "RCT6973W43"
@@ -98714,6 +98789,11 @@
    "model": "SC-813"
   },
   {
+   "device": "SC-9810",
+   "name": "SC-9810",
+   "model": "SC-9810"
+  },
+  {
    "device": "SC4009DL",
    "name": "SC4009DL",
    "model": "SC-4009DL"
@@ -99492,6 +99572,11 @@
    "device": "a21",
    "name": "Galaxy A21",
    "model": "SM-A215W"
+  },
+  {
+   "device": "a21",
+   "name": "Galaxy A21",
+   "model": "SM-S215DL"
   },
   {
    "device": "a21s",
@@ -103669,6 +103754,11 @@
    "model": "SM-M405F"
   },
   {
+   "device": "m51",
+   "name": "Galaxy M51",
+   "model": "SM-M515F"
+  },
+  {
    "device": "mega23g",
    "name": "Galaxy Mega 2",
    "model": "SM-G750H"
@@ -106296,6 +106386,11 @@
   {
    "device": "z3q",
    "name": "Galaxy S20 Ultra 5G",
+   "model": "SM-G988Q"
+  },
+  {
+   "device": "z3q",
+   "name": "Galaxy S20 Ultra 5G",
    "model": "SM-G988U"
   },
   {
@@ -107984,11 +108079,6 @@
    "model": "SCH-I829"
   },
   {
-   "device": "gta4l",
-   "name": "Galaxy TAB A7",
-   "model": "SM-T505"
-  },
-  {
    "device": "gtactive2lteue",
    "name": "Galaxy TAB Active2",
    "model": "SM-T397U"
@@ -108772,6 +108862,26 @@
    "device": "gtexswifi",
    "name": "Galaxy Tab A6",
    "model": "SM-T280"
+  },
+  {
+   "device": "gta4l",
+   "name": "Galaxy Tab A7",
+   "model": "SM-T505"
+  },
+  {
+   "device": "gta4l",
+   "name": "Galaxy Tab A7",
+   "model": "SM-T505C"
+  },
+  {
+   "device": "gta4l",
+   "name": "Galaxy Tab A7",
+   "model": "SM-T505N"
+  },
+  {
+   "device": "gta4lwifi",
+   "name": "Galaxy Tab A7",
+   "model": "SM-T500"
   },
   {
    "device": "rubenslte",
@@ -113321,6 +113431,11 @@
    "device": "SG704SH",
    "name": "シンプルスマホ４",
    "model": "704SH"
+  },
+  {
+   "device": "OI6",
+   "name": "シンプルスマホ５",
+   "model": "A001SH"
   },
   {
    "device": "SR01MW",
@@ -126918,6 +127033,16 @@
    "model": "M20_4G"
   },
   {
+   "device": "P10SE_EEA",
+   "name": "P10SE_EEA",
+   "model": "P10SE_EEA"
+  },
+  {
+   "device": "P10SE_ROW",
+   "name": "P10SE_ROW",
+   "model": "P10SE_ROW"
+  },
+  {
    "device": "P10S_EEA",
    "name": "P10S_EEA",
    "model": "P10S_EEA"
@@ -126941,6 +127066,11 @@
    "device": "P20_EEA",
    "name": "P20_EEA",
    "model": "P20_EEA"
+  },
+  {
+   "device": "P20_RUS",
+   "name": "P20_RUS",
+   "model": "P20_RUS"
   },
   {
    "device": "P80X",
@@ -130286,6 +130416,11 @@
    "model": "Armor X5"
   },
   {
+   "device": "Armor_X5_Pro",
+   "name": "Armor X5 Pro",
+   "model": "Armor X5 Pro"
+  },
+  {
    "device": "Armor_X5_Q",
    "name": "Armor X5 Q",
    "model": "Armor X5"
@@ -131328,6 +131463,11 @@
    "device": "N7",
    "name": "VUCATIMES",
    "model": "N7"
+  },
+  {
+   "device": "VucaPad_N20",
+   "name": "VucaPad_N20",
+   "model": "VucaPad_N20"
   }
  ],
  "Valo Innovations": [
