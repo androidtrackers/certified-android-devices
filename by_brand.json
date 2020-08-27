@@ -7997,6 +7997,16 @@
    "model": "ZS630KL"
   },
   {
+   "device": "ASUS_I002D",
+   "name": "ZenFone 7 / 7 Pro (ZS670KS/ZS671KS)",
+   "model": "ASUS_I002D"
+  },
+  {
+   "device": "ASUS_I002D",
+   "name": "ZenFone 7 / 7 Pro (ZS670KS/ZS671KS)",
+   "model": "ZS670KS"
+  },
+  {
    "device": "ASUS_A002_1",
    "name": "ZenFone AR",
    "model": "ASUS_A002A"
@@ -10231,6 +10241,16 @@
    "device": "Bmobile_AX1077_MTG07",
    "name": "AX1077+",
    "model": "AX1077+"
+  },
+  {
+   "device": "Bmobile_AX1078_TG05",
+   "name": "AX1078",
+   "model": "AX1078"
+  },
+  {
+   "device": "Bmobile_AX1078_TG06",
+   "name": "AX1078_TG06",
+   "model": "AX1078"
   },
   {
    "device": "Bmobile_AX1080",
@@ -14963,6 +14983,11 @@
   }
  ],
  "CANAL-PLUS": [
+  {
+   "device": "HY40A2",
+   "name": "CANALATV1",
+   "model": "CANAL PLUS BOX"
+  },
   {
    "device": "HY40A2",
    "name": "CANALATV1",
@@ -69560,6 +69585,11 @@
    "model": "Lenovo TB-X306F"
   },
   {
+   "device": "X306FA",
+   "name": "Lenovo Tab M10 HD (2nd Gen)",
+   "model": "Lenovo TB-X306FA"
+  },
+  {
    "device": "X306FC_PRC",
    "name": "Lenovo Tab M10 HD (2nd Gen)",
    "model": "Lenovo TB-X306FC_PRC"
@@ -119754,6 +119784,11 @@
   {
    "device": "Jakarta",
    "name": "TCL L10+",
+   "model": "5030E_TCL"
+  },
+  {
+   "device": "Jakarta",
+   "name": "TCL L10+",
    "model": "5130I"
   },
   {
@@ -119870,6 +119905,11 @@
    "device": "Thor_8_4G_VZW",
    "name": "TCL TAB",
    "model": "9048S"
+  },
+  {
+   "device": "Thor_8_4G_VZW",
+   "name": "TCL TAB kids",
+   "model": "9049L"
   },
   {
    "device": "Hulk_7_KIDS_WIFI",
@@ -123016,7 +123056,17 @@
   {
    "device": "Seoul",
    "name": "Alcatel 1B",
+   "model": "5002F_EEA"
+  },
+  {
+   "device": "Seoul",
+   "name": "Alcatel 1B",
    "model": "5002H"
+  },
+  {
+   "device": "Seoul",
+   "name": "Alcatel 1B",
+   "model": "5002H_TR"
   },
   {
    "device": "Seoul",
@@ -137159,6 +137209,26 @@
    "device": "W-V730",
    "name": "View4 Lite",
    "model": "W-V730-TVM"
+  },
+  {
+   "device": "W-V851",
+   "name": "View5",
+   "model": "W-V851-EEA"
+  },
+  {
+   "device": "W-V851",
+   "name": "View5",
+   "model": "W-V851-OPE"
+  },
+  {
+   "device": "W-V850",
+   "name": "View5 Plus",
+   "model": "W-V850-EEA"
+  },
+  {
+   "device": "W-V850",
+   "name": "View5 Plus",
+   "model": "W-V850-OPE"
   },
   {
    "device": "W-K200",

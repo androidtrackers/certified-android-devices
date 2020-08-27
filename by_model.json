@@ -12009,6 +12009,20 @@
    "device": "ASUS_I01WD"
   }
  ],
+ "ASUS_I002D": [
+  {
+   "brand": "Asus",
+   "name": "ZenFone 7 / 7 Pro (ZS670KS/ZS671KS)",
+   "device": "ASUS_I002D"
+  }
+ ],
+ "ZS670KS": [
+  {
+   "brand": "Asus",
+   "name": "ZenFone 7 / 7 Pro (ZS670KS/ZS671KS)",
+   "device": "ASUS_I002D"
+  }
+ ],
  "ASUS_A002A": [
   {
    "brand": "Asus",
@@ -14943,6 +14957,18 @@
    "brand": "BMobile",
    "name": "AX1077+",
    "device": "Bmobile_AX1077_MTG07"
+  }
+ ],
+ "AX1078": [
+  {
+   "brand": "BMobile",
+   "name": "AX1078",
+   "device": "Bmobile_AX1078_TG05"
+  },
+  {
+   "brand": "BMobile",
+   "name": "AX1078_TG06",
+   "device": "Bmobile_AX1078_TG06"
   }
  ],
  "AX1080": [
@@ -21767,6 +21793,13 @@
    "brand": "CALME",
    "name": "LT5",
    "device": "LT5"
+  }
+ ],
+ "CANAL PLUS BOX": [
+  {
+   "brand": "CANAL-PLUS",
+   "name": "CANALATV1",
+   "device": "HY40A2"
   }
  ],
  "CANALATV1": [
@@ -94232,6 +94265,13 @@
    "device": "X306F"
   }
  ],
+ "Lenovo TB-X306FA": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M10 HD (2nd Gen)",
+   "device": "X306FA"
+  }
+ ],
  "Lenovo TB-X306FC_PRC": [
   {
    "brand": "Lenovo",
@@ -159344,6 +159384,13 @@
    "device": "Faraday"
   }
  ],
+ "5030E_TCL": [
+  {
+   "brand": "TCL",
+   "name": "TCL L10+",
+   "device": "Jakarta"
+  }
+ ],
  "5130I": [
   {
    "brand": "TCL",
@@ -159507,6 +159554,13 @@
   {
    "brand": "TCL",
    "name": "TCL TAB",
+   "device": "Thor_8_4G_VZW"
+  }
+ ],
+ "9049L": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB kids",
    "device": "Thor_8_4G_VZW"
   }
  ],
@@ -163957,7 +164011,21 @@
    "device": "Seoul"
   }
  ],
+ "5002F_EEA": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1B",
+   "device": "Seoul"
+  }
+ ],
  "5002H": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1B",
+   "device": "Seoul"
+  }
+ ],
+ "5002H_TR": [
   {
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1B",
@@ -181565,6 +181633,34 @@
    "brand": "Wiko",
    "name": "View4 Lite",
    "device": "W-V730"
+  }
+ ],
+ "W-V851-EEA": [
+  {
+   "brand": "Wiko",
+   "name": "View5",
+   "device": "W-V851"
+  }
+ ],
+ "W-V851-OPE": [
+  {
+   "brand": "Wiko",
+   "name": "View5",
+   "device": "W-V851"
+  }
+ ],
+ "W-V850-EEA": [
+  {
+   "brand": "Wiko",
+   "name": "View5 Plus",
+   "device": "W-V850"
+  }
+ ],
+ "W-V850-OPE": [
+  {
+   "brand": "Wiko",
+   "name": "View5 Plus",
+   "device": "W-V850"
   }
  ],
  "W-K200": [

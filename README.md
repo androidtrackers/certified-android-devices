@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-08-26
+Last sync is 2020-08-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1557,6 +1557,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ZenFone 6 (A601CG)|ASUS_Z002|ASUS_Z002|
 |Asus|ZenFone 6 (ZS630KL) (WW) / 6Z (ZS630KL) (IN)|ASUS_I01WD|ASUS_I01WD|
 |Asus|ZenFone 6 (ZS630KL) (WW) / 6Z (ZS630KL) (IN)|ASUS_I01WD|ZS630KL|
+|Asus|ZenFone 7 / 7 Pro (ZS670KS/ZS671KS)|ASUS_I002D|ASUS_I002D|
+|Asus|ZenFone 7 / 7 Pro (ZS670KS/ZS671KS)|ASUS_I002D|ZS670KS|
 |Asus|ZenFone AR|ASUS_A002_1|ASUS_A002A|
 |Asus|ZenFone AR (ZS571KL)|ASUS_A002|ASUS_A002|
 |Asus|ZenFone Ares (ZS572KL)|ASUS_A002_2|ASUS_A002|
@@ -1993,6 +1995,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|AX1077+|Bmobile_AX1077_MTG05|AX1077+|
 |BMobile|AX1077+|Bmobile_AX1077_MTG06|AX1077+|
 |BMobile|AX1077+|Bmobile_AX1077_MTG07|AX1077+|
+|BMobile|AX1078|Bmobile_AX1078_TG05|AX1078|
+|BMobile|AX1078_TG06|Bmobile_AX1078_TG06|AX1078|
 |BMobile|AX1080|Bmobile_AX1080|AX1080|
 |BMobile|AX1082|Bmobile_AX1082_MV07|AX1082|
 |BMobile|AX1082|Bmobile_AX1082_MV15|AX1082|
@@ -2908,6 +2912,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |C5 Mobile|noa_G1|noa_G1|noa_G1|
 |CAIXUN|Australian/EU|yeongdeungpo|AiPlus4K|
 |CALME|LT5|LT5|LT5|
+|CANAL-PLUS|CANALATV1|HY40A2|CANAL PLUS BOX|
 |CANAL-PLUS|CANALATV1|HY40A2|CANALATV1|
 |CBN Media|connect|connect|connect|
 |CBN Media|g-mee1|g-mee1|g-mee1|
@@ -13570,6 +13575,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M10 FHD Plus|X606X|Lenovo TB-X606X|
 |Lenovo|Lenovo Tab M10 FHD Rel|801LV|801LV|
 |Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306F|Lenovo TB-X306F|
+|Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306FA|Lenovo TB-X306FA|
 |Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306FC_PRC|Lenovo TB-X306FC_PRC|
 |Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306NC_PRC|Lenovo TB-X306NC_PRC|
 |Lenovo|Lenovo Tab M10 HD(2nd Gen)|X306X|Lenovo TB-X306X|
@@ -23374,6 +23380,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL C7|A3A_PLUS|5158A|
 |TCL|TCL C9 Plus|Venice|5148I|
 |TCL|TCL L10|Faraday|5124J|
+|TCL|TCL L10+|Jakarta|5030E_TCL|
 |TCL|TCL L10+|Jakarta|5130I|
 |TCL|TCL L10+|Jakarta|5130J|
 |TCL|TCL L10+|Jakarta|5130M|
@@ -23398,6 +23405,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL T9+|TokyoPro|5129A|
 |TCL|TCL T9x|TokyoPro|5129Y|
 |TCL|TCL TAB|Thor_8_4G_VZW|9048S|
+|TCL|TCL TAB kids|Thor_8_4G_VZW|9049L|
 |TCL|TKEE MINI|Hulk_7_KIDS_WIFI|8093|
 |TCL|Union TV|UnionTV|UnionTV|
 |TCT (Alcatel)||A556C|A556C|
@@ -24026,7 +24034,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002D_TR|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002E|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002F|
+|TCT (Alcatel)|Alcatel 1B|Seoul|5002F_EEA|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002H|
+|TCT (Alcatel)|Alcatel 1B|Seoul|5002H_TR|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002I|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002J|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002L|
@@ -26759,6 +26769,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|View4 Lite|W-V730|W-V730-ID|
 |Wiko|View4 Lite|W-V730|W-V730-OPE|
 |Wiko|View4 Lite|W-V730|W-V730-TVM|
+|Wiko|View5|W-V851|W-V851-EEA|
+|Wiko|View5|W-V851|W-V851-OPE|
+|Wiko|View5 Plus|W-V850|W-V850-EEA|
+|Wiko|View5 Plus|W-V850|W-V850-OPE|
 |Wiko|W-K200|W-K200|W-K200|
 |Wiko|WAX|s8515|WAX|
 |Wiko|WC300|WC300|WC300|

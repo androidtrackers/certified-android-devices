@@ -12665,6 +12665,18 @@
    "model": "ZS630KL"
   }
  ],
+ "ASUS_I002D": [
+  {
+   "brand": "Asus",
+   "name": "ZenFone 7 / 7 Pro (ZS670KS/ZS671KS)",
+   "model": "ASUS_I002D"
+  },
+  {
+   "brand": "Asus",
+   "name": "ZenFone 7 / 7 Pro (ZS670KS/ZS671KS)",
+   "model": "ZS670KS"
+  }
+ ],
  "ASUS_A002_1": [
   {
    "brand": "Asus",
@@ -15802,6 +15814,20 @@
    "brand": "BMobile",
    "name": "AX1077+",
    "model": "AX1077+"
+  }
+ ],
+ "Bmobile_AX1078_TG05": [
+  {
+   "brand": "BMobile",
+   "name": "AX1078",
+   "model": "AX1078"
+  }
+ ],
+ "Bmobile_AX1078_TG06": [
+  {
+   "brand": "BMobile",
+   "name": "AX1078_TG06",
+   "model": "AX1078"
   }
  ],
  "Bmobile_AX1080": [
@@ -22267,6 +22293,11 @@
   }
  ],
  "HY40A2": [
+  {
+   "brand": "CANAL-PLUS",
+   "name": "CANALATV1",
+   "model": "CANAL PLUS BOX"
+  },
   {
    "brand": "CANAL-PLUS",
    "name": "CANALATV1",
@@ -90858,6 +90889,13 @@
    "model": "Lenovo TB-X306F"
   }
  ],
+ "X306FA": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M10 HD (2nd Gen)",
+   "model": "Lenovo TB-X306FA"
+  }
+ ],
  "X306FC_PRC": [
   {
    "brand": "Lenovo",
@@ -154599,6 +154637,11 @@
   {
    "brand": "TCL",
    "name": "TCL L10+",
+   "model": "5030E_TCL"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL L10+",
    "model": "5130I"
   },
   {
@@ -154783,7 +154826,17 @@
   {
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1B",
+   "model": "5002F_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1B",
    "model": "5002H"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1B",
+   "model": "5002H_TR"
   },
   {
    "brand": "TCT (Alcatel)",
@@ -155071,6 +155124,11 @@
    "brand": "TCL",
    "name": "TCL TAB",
    "model": "9048S"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL TAB kids",
+   "model": "9049L"
   }
  ],
  "UnionTV": [
@@ -174188,6 +174246,30 @@
    "brand": "Wiko",
    "name": "View4 Lite",
    "model": "W-V730-TVM"
+  }
+ ],
+ "W-V851": [
+  {
+   "brand": "Wiko",
+   "name": "View5",
+   "model": "W-V851-EEA"
+  },
+  {
+   "brand": "Wiko",
+   "name": "View5",
+   "model": "W-V851-OPE"
+  }
+ ],
+ "W-V850": [
+  {
+   "brand": "Wiko",
+   "name": "View5 Plus",
+   "model": "W-V850-EEA"
+  },
+  {
+   "brand": "Wiko",
+   "name": "View5 Plus",
+   "model": "W-V850-OPE"
   }
  ],
  "W-K200": [
