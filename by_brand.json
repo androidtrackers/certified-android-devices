@@ -52060,6 +52060,11 @@
    "model": "Infinix X660C"
   },
   {
+   "device": "Infinix-X657B",
+   "name": "SMART 5",
+   "model": "Infinix X657B"
+  },
+  {
    "device": "Infinix-X657C",
    "name": "SMART 5",
    "model": "Infinix X657C"
@@ -80353,6 +80358,11 @@
    "device": "Jappy_Kids",
    "name": "Jappy_Kids",
    "model": "Jappy_Kids"
+  },
+  {
+   "device": "vip5242a",
+   "name": "Telefonica ATV",
+   "model": "VIP5242A"
   }
  ],
  "Movitel": [
@@ -114246,6 +114256,11 @@
    "model": "Platinum H5"
   },
   {
+   "device": "Platinum_J5",
+   "name": "Platinum_J5",
+   "model": "Platinum J5"
+  },
+  {
    "device": "Platinum_UNO",
    "name": "Platinum_UNO",
    "model": "Platinum_UNO"
@@ -135528,6 +135543,11 @@
    "model": "Live"
   },
   {
+   "device": "cassia",
+   "name": "Live 4",
+   "model": "Live 4"
+  },
+  {
    "device": "V320A",
    "name": "Star",
    "model": "Star"
@@ -149360,6 +149380,11 @@
    "device": "RA10",
    "name": "RA10",
    "model": "RA10"
+  },
+  {
+   "device": "muPAD_L10",
+   "name": "muPAD L10",
+   "model": "muPAD L10"
   },
   {
    "device": "muPADT7",

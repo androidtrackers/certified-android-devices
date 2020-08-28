@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-08-27
+Last sync is 2020-08-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10128,6 +10128,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|S5 Pro|Infinix-X660|Infinix X660|
 |Infinix|S5 Pro|Infinix-X660B|Infinix X660B|
 |Infinix|S5 Pro|Infinix-X660C|Infinix X660C|
+|Infinix|SMART 5|Infinix-X657B|Infinix X657B|
 |Infinix|SMART 5|Infinix-X657C|Infinix X657C|
 |Infinix|SURF 2|INFINIX_X511|Infinix X511|
 |Infinix|Smart 2|Infinix-X5515|Infinix X5515|
@@ -15669,6 +15670,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Moviltelco Trade S.L|A76|A76|A76|
 |Moviltelco Trade S.L|A86|A86|A86|
 |Movistar|Jappy_Kids|Jappy_Kids|Jappy_Kids|
+|Movistar|Telefonica ATV|vip5242a|VIP5242A|
 |Movitel|M8414|Movitel_M8414|M8414|
 |Movitel|M8415|M8415|M8415|
 |Movitel|M8416|M8416|M8416|
@@ -22304,6 +22306,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|Platinum P4|Platinum_P4|Platinum_P4|
 |Sky Devices|Platinum View2|PLATINUM_VIEW2|PLATINUM_VIEW2|
 |Sky Devices|Platinum_H5|Platinum_H5_PLUS|Platinum H5|
+|Sky Devices|Platinum_J5|Platinum_J5|Platinum J5|
 |Sky Devices|Platinum_UNO|Platinum_UNO|Platinum_UNO|
 |Sky Devices|Prestige2|SKY_Prestige2_FP|SKY Prestige2|
 |Sky Devices|SKY 5.0LM|SKY_50LM|SKY 5.0LM|
@@ -26444,6 +26447,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vsmart|Joy 2+|V420A|Joy 2+|
 |Vsmart|Joy 3|casuarina|Joy 3|
 |Vsmart|Live|V620A|Live|
+|Vsmart|Live 4|cassia|Live 4|
 |Vsmart|Star|V320A|Star|
 |Vsmart|Star 3|sugarcane|Star 3|
 |Vsmart|Star 4|willowpro|Star 4|
@@ -29154,6 +29158,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iLife|MISA|MISA|MISA|
 |iMuz|G10|G10|G10|
 |iMuz|RA10|RA10|RA10|
+|iMuz|muPAD L10|muPAD_L10|muPAD L10|
 |iMuz|muPADT7|muPADT7|muPADT7|
 |iNFONE|INFONE XE|INFONE_XE|INFONE XE|
 |iNFONE|X_RAINBOW|X_RAINBOW|X_RAINBOW|

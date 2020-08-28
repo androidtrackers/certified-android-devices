@@ -70633,6 +70633,11 @@
    "brand": "Infinix",
    "name": "HOT 10 lite",
    "device": "Infinix-X657B"
+  },
+  {
+   "brand": "Infinix",
+   "name": "SMART 5",
+   "device": "Infinix-X657B"
   }
  ],
  "Infinix X510": [
@@ -108046,6 +108051,13 @@
    "brand": "Movistar",
    "name": "Jappy_Kids",
    "device": "Jappy_Kids"
+  }
+ ],
+ "VIP5242A": [
+  {
+   "brand": "Movistar",
+   "name": "Telefonica ATV",
+   "device": "vip5242a"
   }
  ],
  "M8414": [
@@ -152427,6 +152439,13 @@
    "device": "Platinum_H5_PLUS"
   }
  ],
+ "Platinum J5": [
+  {
+   "brand": "Sky Devices",
+   "name": "Platinum_J5",
+   "device": "Platinum_J5"
+  }
+ ],
  "Platinum_UNO": [
   {
    "brand": "Sky Devices",
@@ -179587,6 +179606,13 @@
    "device": "casuarina"
   }
  ],
+ "Live 4": [
+  {
+   "brand": "Vsmart",
+   "name": "Live 4",
+   "device": "cassia"
+  }
+ ],
  "Star": [
   {
    "brand": "Vsmart",
@@ -197016,6 +197042,13 @@
    "brand": "iMuz",
    "name": "RA10",
    "device": "RA10"
+  }
+ ],
+ "muPAD L10": [
+  {
+   "brand": "iMuz",
+   "name": "muPAD L10",
+   "device": "muPAD_L10"
   }
  ],
  "muPADT7": [
