@@ -21284,6 +21284,11 @@
  ],
  "DSIC": [
   {
+   "device": "ds6",
+   "name": "Mobilebase DS6",
+   "model": "DS6"
+  },
+  {
    "device": "RD86QE",
    "name": "RD86QE",
    "model": "RD86QE"
@@ -21313,6 +21318,11 @@
    "device": "10_Plus",
    "name": "10 Plus",
    "model": "10 Plus"
+  },
+  {
+   "device": "Tablet-P8_A",
+   "name": "Tablet-P8_A",
+   "model": "Tablet-P8_A"
   },
   {
    "device": "Tablet-P8_EEA",
@@ -23390,6 +23400,11 @@
    "device": "N20",
    "name": "N20",
    "model": "N20"
+  },
+  {
+   "device": "N20Pro",
+   "name": "N20Pro",
+   "model": "N20Pro"
   },
   {
    "device": "S30",
@@ -26499,6 +26514,11 @@
    "device": "HappyKids",
    "name": "HappyKids",
    "model": "HappyKids"
+  },
+  {
+   "device": "EVERPAD-SC730",
+   "name": "SC730",
+   "model": "SC730"
   }
  ],
  "Evertek": [
@@ -50261,6 +50281,11 @@
    "device": "PNC550",
    "name": "PNC550",
    "model": "PNC550"
+  },
+  {
+   "device": "PNC550",
+   "name": "PNC550_P_TU",
+   "model": "PNC550"
   }
  ],
  "Hyundai": [
@@ -56020,6 +56045,11 @@
    "device": "Kempler_X_Pro",
    "name": "Kempler_X_Pro",
    "model": "Kempler_X_Pro"
+  },
+  {
+   "device": "ZKEMPLER",
+   "name": "ZKEMPLER",
+   "model": "ZKEMPLER"
   }
  ],
  "KISA phone": [
@@ -74549,6 +74579,13 @@
    "model": "MT3A"
   }
  ],
+ "Megacable": [
+  {
+   "device": "B866V2_ZTE",
+   "name": "Mexico",
+   "model": "Xview+"
+  }
+ ],
  "Megahouse": [
   {
    "device": "CP-D403",
@@ -76246,6 +76283,11 @@
   }
  ],
  "Microtech": [
+  {
+   "device": "ETW101GT_EEA",
+   "name": "ETW101GT_EEA",
+   "model": "ETW101GT"
+  },
   {
    "device": "Microtech_etabStyle",
    "name": "Microtech_e-tab_Style",
@@ -113728,6 +113770,11 @@
  ],
  "Silver line": [
   {
+   "device": "SL1021",
+   "name": "SL1021",
+   "model": "SL1021"
+  },
+  {
    "device": "SL1068",
    "name": "SL1068",
    "model": "SL1068"
@@ -126460,6 +126507,11 @@
  ],
  "TOPELOTEK": [
   {
+   "device": "KIDS06",
+   "name": "KIDS06",
+   "model": "KIDS06"
+  },
+  {
    "device": "KIDS708",
    "name": "KIDS708",
    "model": "KIDS708"
@@ -126486,6 +126538,16 @@
   }
  ],
  "TOSCIDO": [
+  {
+   "device": "P101",
+   "name": "P101",
+   "model": "P101"
+  },
+  {
+   "device": "P101-EEA",
+   "name": "P101-EEA",
+   "model": "P101-EEA"
+  },
   {
    "device": "X102",
    "name": "X102",

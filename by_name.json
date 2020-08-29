@@ -36296,6 +36296,13 @@
    "model": "S10_Plus"
   }
  ],
+ "Mobilebase DS6": [
+  {
+   "brand": "DSIC",
+   "device": "ds6",
+   "model": "DS6"
+  }
+ ],
  "RD86QE": [
   {
    "brand": "DSIC",
@@ -36318,6 +36325,13 @@
    "brand": "HP",
    "device": "torsa",
    "model": "HP 10 Plus"
+  }
+ ],
+ "Tablet-P8_A": [
+  {
+   "brand": "DUODUOGO",
+   "device": "Tablet-P8_A",
+   "model": "Tablet-P8_A"
   }
  ],
  "Tablet-P8_EEA": [
@@ -39040,6 +39054,13 @@
    "brand": "NOA Mobile",
    "device": "NOA_N20",
    "model": "N20"
+  }
+ ],
+ "N20Pro": [
+  {
+   "brand": "Doogee",
+   "device": "N20Pro",
+   "model": "N20Pro"
   }
  ],
  "S40Lite": [
@@ -43326,6 +43347,13 @@
    "brand": "Everpad",
    "device": "HappyKids",
    "model": "HappyKids"
+  }
+ ],
+ "SC730": [
+  {
+   "brand": "Everpad",
+   "device": "EVERPAD-SC730",
+   "model": "SC730"
   }
  ],
  "E7224HG": [
@@ -61164,6 +61192,11 @@
    "brand": "Hisense",
    "device": "HLTE226E",
    "model": "Hisense Rocks 6"
+  },
+  {
+   "brand": "Megacable",
+   "device": "B866V2_ZTE",
+   "model": "Xview+"
   }
  ],
  "Oysters Pacific 800": [
@@ -70974,6 +71007,13 @@
    "model": "PNC550"
   }
  ],
+ "PNC550_P_TU": [
+  {
+   "brand": "Hytera",
+   "device": "PNC550",
+   "model": "PNC550"
+  }
+ ],
  "7LB1": [
   {
    "brand": "Hyundai",
@@ -78224,6 +78264,13 @@
    "brand": "KEMPLER STRAUSS",
    "device": "Kempler_X_Pro",
    "model": "Kempler_X_Pro"
+  }
+ ],
+ "ZKEMPLER": [
+  {
+   "brand": "KEMPLER STRAUSS",
+   "device": "ZKEMPLER",
+   "model": "ZKEMPLER"
   }
  ],
  "KPAU04": [
@@ -101246,6 +101293,13 @@
    "brand": "Micromax",
    "device": "YUTOPIA",
    "model": "YU5050"
+  }
+ ],
+ "ETW101GT_EEA": [
+  {
+   "brand": "Microtech",
+   "device": "ETW101GT_EEA",
+   "model": "ETW101GT"
   }
  ],
  "Microtech_e-tab_Style": [
@@ -144867,6 +144921,13 @@
    "model": "Blackphone 2"
   }
  ],
+ "SL1021": [
+  {
+   "brand": "Silver line",
+   "device": "SL1021",
+   "model": "SL1021"
+  }
+ ],
  "SL1068": [
   {
    "brand": "Silver line",
@@ -159034,6 +159095,13 @@
    "model": "TONE e20"
   }
  ],
+ "KIDS06": [
+  {
+   "brand": "TOPELOTEK",
+   "device": "KIDS06",
+   "model": "KIDS06"
+  }
+ ],
  "KIDS708": [
   {
    "brand": "TOPELOTEK",
@@ -159065,6 +159133,20 @@
    "brand": "TOPELOTEK",
    "device": "KIDS09",
    "model": "KIDS09"
+  }
+ ],
+ "P101": [
+  {
+   "brand": "TOSCIDO",
+   "device": "P101",
+   "model": "P101"
+  }
+ ],
+ "P101-EEA": [
+  {
+   "brand": "TOSCIDO",
+   "device": "P101-EEA",
+   "model": "P101-EEA"
   }
  ],
  "X102": [

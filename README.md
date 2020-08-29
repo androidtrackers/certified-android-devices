@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-08-28
+Last sync is 2020-08-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4122,11 +4122,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DO Mobile|Mate1|Mate1|DO_S1|
 |DO Mobile|Mate1|Mate1|Mate1|
 |DO Mobile|S10_Plus|S10_Plus|S10_Plus|
+|DSIC|Mobilebase DS6|ds6|DS6|
 |DSIC|RD86QE|RD86QE|RD86QE|
 |DTC products|S10|S10|S10|
 |DTC products|S30|S30|S30|
 |DTV (Thai)|P3|Digital_Life_P3|P3|
 |DUODUOGO|10 Plus|10_Plus|10 Plus|
+|DUODUOGO|Tablet-P8_A|Tablet-P8_A|Tablet-P8_A|
 |DUODUOGO|Tablet-P8_EEA|Tablet-P8_EEA|Tablet-P8_EEA|
 |Daehap|DH-B301K|DH-B301K|DH-B301K|
 |Dahl Sweden|People Plus|People_Plus|People_Plus|
@@ -4522,6 +4524,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|N10_EEA|Y7|N10|
 |Doogee|N10_EEA|Y7|N10_EEA|
 |Doogee|N20|N20|N20|
+|Doogee|N20Pro|N20Pro|N20Pro|
 |Doogee|S30|S30|S30|
 |Doogee|S40|S40|S40|
 |Doogee|S40Lite|S40Lite|S40Lite|
@@ -5111,6 +5114,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Everis|E0114|E0114|E0114|
 |Everpad|EW2021|EVERPAD-EW2021|EW2021|
 |Everpad|HappyKids|HappyKids|HappyKids|
+|Everpad|SC730|EVERPAD-SC730|SC730|
 |Evertek|E7224HG|E7224HG|E7224HG|
 |Evertek|Hero|Hero|Hero|
 |Evertek|M10|M10|M10|
@@ -9785,6 +9789,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hykker|Smart Box Android TV|DV8038|Smart Box Android TV|
 |Hytera|PDC550|PDC550|PDC550|
 |Hytera|PNC550|PNC550|PNC550|
+|Hytera|PNC550_P_TU|PNC550|PNC550|
 |Hyundai|7LB1|7LB1|7LB1|
 |Hyundai|A25563L|A25563L|A25563L|
 |Hyundai|A26062L|A26062L|A26062L|
@@ -10898,6 +10903,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KEMPLER STRAUSS|KEMPLER_P1|KEMPLER_P1|KEMPLER_P1|
 |KEMPLER STRAUSS|KEMPLER_X_TV|KEMPLER_X_TV|KEMPLER_X_TV|
 |KEMPLER STRAUSS|Kempler_X_Pro|Kempler_X_Pro|Kempler_X_Pro|
+|KEMPLER STRAUSS|ZKEMPLER|ZKEMPLER|ZKEMPLER|
 |KISA phone|KPAU04|KPAU04|KPAU04|
 |KNC (LK)|TPC_XTE10D|TPC_XTE10D|TPC_XTE10D|
 |KONKA|KM7012BK|KM7012BK|KM7012BK|
@@ -14529,6 +14535,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MegaFon|MS4B|Viper_LTE|ALCATEL ONE TOUCH 7030Y|
 |MegaFon|MS4B|Viper_LTE|MS4B|
 |MegaFon|MT3A|MT3A|MT3A|
+|Megacable|Mexico|B866V2_ZTE|Xview+|
 |Megahouse|CP-D403|CP-D403|CP-D403|
 |Meiigoo|S8|MEIIGOO_S8|S8|
 |Meiigoo|S9|S9|S9|
@@ -14865,6 +14872,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Micromax|Yunique 2 Plus|YU5012|YU5012|
 |Micromax|Yuphoria|YUPHORIA|YU5010|
 |Micromax|Yutopia|YUTOPIA|YU5050|
+|Microtech|ETW101GT_EEA|ETW101GT_EEA|ETW101GT|
 |Microtech|Microtech_e-tab_Style|Microtech_etabStyle|Microtech_etabStyle|
 |Microtech|e-tab_Style|e-tab_Style|e-tab_Style|
 |Microtech|e-tab_style_rev.3|e-tab_style_REV3|e-tab_style_REV3|
@@ -22204,6 +22212,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sigma Mobile|X_Style_Tab_A104|X_Style_Tab_A104|X_Style_Tab_A104|
 |Sigma Mobile|X_style_Tab_A83|X_style_Tab_A83|X_style_Tab_A83|
 |Silent Circle|Blackphone 2|BP2|Blackphone 2|
+|Silver line|SL1021|SL1021|SL1021|
 |Silver line|SL1068|SL1068|SL1068|
 |Silver line|SL729|SL729|SL729|
 |Silver line|SL868G|SL868G|SL868G|
@@ -24708,11 +24717,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TMAX|TM9S775|MID908A-K|TM9S775|
 |TO21COMMS|TOP10|TOP10|TOP10|
 |TONE|TONE e20|TONE_e20|TONE e20|
+|TOPELOTEK|KIDS06|KIDS06|KIDS06|
 |TOPELOTEK|KIDS708|KIDS708|KIDS708|
 |TOPELOTEK|KIDS709|KIDS709|KIDS709|
 |TOPELOTEK|KIDS710|KIDS710|KIDS710|
 |TOPELOTEK|TOPELOTEK|KIDS08|KIDS08|
 |TOPELOTEK|TOPELOTEK|KIDS09|KIDS09|
+|TOSCIDO|P101|P101|P101|
+|TOSCIDO|P101-EEA|P101-EEA|P101-EEA|
 |TOSCIDO|X102|X102|X102|
 |TOUCHSMART|QUICKTAB|Quicktab|Quicktab|
 |TPS|MTC 982o|MTC_982O|MTC_982O|

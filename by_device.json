@@ -31190,6 +31190,13 @@
    "model": "S10_Plus"
   }
  ],
+ "ds6": [
+  {
+   "brand": "DSIC",
+   "name": "Mobilebase DS6",
+   "model": "DS6"
+  }
+ ],
  "RD86QE": [
   {
    "brand": "DSIC",
@@ -31231,6 +31238,13 @@
    "brand": "DUODUOGO",
    "name": "10 Plus",
    "model": "10 Plus"
+  }
+ ],
+ "Tablet-P8_A": [
+  {
+   "brand": "DUODUOGO",
+   "name": "Tablet-P8_A",
+   "model": "Tablet-P8_A"
   }
  ],
  "Tablet-P8_EEA": [
@@ -34090,6 +34104,13 @@
    "brand": "Doogee",
    "name": "N20",
    "model": "N20"
+  }
+ ],
+ "N20Pro": [
+  {
+   "brand": "Doogee",
+   "name": "N20Pro",
+   "model": "N20Pro"
   }
  ],
  "S40": [
@@ -38257,6 +38278,13 @@
    "brand": "Everpad",
    "name": "HappyKids",
    "model": "HappyKids"
+  }
+ ],
+ "EVERPAD-SC730": [
+  {
+   "brand": "Everpad",
+   "name": "SC730",
+   "model": "SC730"
   }
  ],
  "E7224HG": [
@@ -66968,6 +66996,11 @@
    "brand": "Hytera",
    "name": "PNC550",
    "model": "PNC550"
+  },
+  {
+   "brand": "Hytera",
+   "name": "PNC550_P_TU",
+   "model": "PNC550"
   }
  ],
  "7LB1": [
@@ -74193,6 +74226,13 @@
    "brand": "KEMPLER STRAUSS",
    "name": "Kempler_X_Pro",
    "model": "Kempler_X_Pro"
+  }
+ ],
+ "ZKEMPLER": [
+  {
+   "brand": "KEMPLER STRAUSS",
+   "name": "ZKEMPLER",
+   "model": "ZKEMPLER"
   }
  ],
  "KPAU04": [
@@ -97284,6 +97324,13 @@
    "model": "MT3A"
   }
  ],
+ "B866V2_ZTE": [
+  {
+   "brand": "Megacable",
+   "name": "Mexico",
+   "model": "Xview+"
+  }
+ ],
  "CP-D403": [
   {
    "brand": "Megahouse",
@@ -99469,6 +99516,13 @@
    "brand": "Micromax",
    "name": "Yutopia",
    "model": "YU5050"
+  }
+ ],
+ "ETW101GT_EEA": [
+  {
+   "brand": "Microtech",
+   "name": "ETW101GT_EEA",
+   "model": "ETW101GT"
   }
  ],
  "Microtech_etabStyle": [
@@ -116446,6 +116500,11 @@
   {
    "brand": "Panasonic",
    "name": "Panasonic P101",
+   "model": "P101"
+  },
+  {
+   "brand": "TOSCIDO",
+   "name": "P101",
    "model": "P101"
   }
  ],
@@ -146741,6 +146800,13 @@
    "model": "Blackphone 2"
   }
  ],
+ "SL1021": [
+  {
+   "brand": "Silver line",
+   "name": "SL1021",
+   "model": "SL1021"
+  }
+ ],
  "SL1068": [
   {
    "brand": "Silver line",
@@ -161286,6 +161352,13 @@
    "model": "TONE e20"
   }
  ],
+ "KIDS06": [
+  {
+   "brand": "TOPELOTEK",
+   "name": "KIDS06",
+   "model": "KIDS06"
+  }
+ ],
  "KIDS708": [
   {
    "brand": "TOPELOTEK",
@@ -161319,6 +161392,13 @@
    "brand": "TOPELOTEK",
    "name": "TOPELOTEK",
    "model": "KIDS09"
+  }
+ ],
+ "P101-EEA": [
+  {
+   "brand": "TOSCIDO",
+   "name": "P101-EEA",
+   "model": "P101-EEA"
   }
  ],
  "X102": [
