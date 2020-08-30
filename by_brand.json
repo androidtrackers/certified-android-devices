@@ -96899,6 +96899,11 @@
    "model": "Redmi Note 7"
   },
   {
+   "device": "apricot",
+   "name": "Redmi 10X",
+   "model": "M2004J7AC"
+  },
+  {
    "device": "atom",
    "name": "Redmi 10X",
    "model": "M2004J7AC"
@@ -96912,6 +96917,11 @@
    "device": "merlin",
    "name": "Redmi 10X 4G",
    "model": "M2003J15SC"
+  },
+  {
+   "device": "banana",
+   "name": "Redmi 10X Pro",
+   "model": "M2004J7BC"
   },
   {
    "device": "bomb",
@@ -96991,12 +97001,32 @@
   {
    "device": "dandelion",
    "name": "Redmi 9A",
+   "model": "M2006C3LG"
+  },
+  {
+   "device": "dandelion",
+   "name": "Redmi 9A",
+   "model": "M2006C3LI"
+  },
+  {
+   "device": "dandelion",
+   "name": "Redmi 9A",
    "model": "M2006C3LVG"
   },
   {
    "device": "dandelion",
    "name": "Redmi 9A",
    "model": "dandelion"
+  },
+  {
+   "device": "angelica",
+   "name": "Redmi 9C",
+   "model": "M2006C3MG"
+  },
+  {
+   "device": "angelica",
+   "name": "Redmi 9C",
+   "model": "angelica"
   },
   {
    "device": "davinci",
@@ -97037,6 +97067,11 @@
    "device": "picasso",
    "name": "Redmi K30 5G",
    "model": "Redmi K30 5G"
+  },
+  {
+   "device": "cezanne",
+   "name": "Redmi K30 Ultra",
+   "model": "M2006J10C"
   },
   {
    "device": "picasso",
@@ -138925,6 +138960,11 @@
    "device": "cmi",
    "name": "Mi 10 Pro",
    "model": "Mi 10 Pro"
+  },
+  {
+   "device": "cas",
+   "name": "Mi 10 Ultra",
+   "model": "M2007J1SC"
   },
   {
    "device": "monet",

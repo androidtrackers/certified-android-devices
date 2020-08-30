@@ -125405,6 +125405,25 @@
    "model": "Z717VL"
   }
  ],
+ "apricot": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10X",
+   "model": "M2004J7AC"
+  }
+ ],
+ "banana": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10X Pro",
+   "model": "M2004J7BC"
+  },
+  {
+   "brand": "ZTE",
+   "name": "",
+   "model": "ZTE-C N780"
+  }
+ ],
  "bomb": [
   {
    "brand": "Redmi",
@@ -125503,6 +125522,16 @@
   {
    "brand": "Redmi",
    "name": "Redmi 9A",
+   "model": "M2006C3LG"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 9A",
+   "model": "M2006C3LI"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 9A",
    "model": "M2006C3LVG"
   },
   {
@@ -125514,6 +125543,18 @@
    "brand": "ZTE",
    "name": "Zmax 3",
    "model": "Z978"
+  }
+ ],
+ "angelica": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 9C",
+   "model": "M2006C3MG"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 9C",
+   "model": "angelica"
   }
  ],
  "davinciin": [
@@ -125550,6 +125591,13 @@
    "brand": "Redmi",
    "name": "Redmi K30",
    "model": "Redmi K30"
+  }
+ ],
+ "cezanne": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi K30 Ultra",
+   "model": "M2006J10C"
   }
  ],
  "ginkgo": [
@@ -176094,6 +176142,13 @@
    "model": "Mi 10 Pro"
   }
  ],
+ "cas": [
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 10 Ultra",
+   "model": "M2007J1SC"
+  }
+ ],
  "pisces": [
   {
    "brand": "Xiaomi",
@@ -177954,13 +178009,6 @@
    "brand": "ZTE",
    "name": "tmn smart a15",
    "model": "tmn smart a15"
-  }
- ],
- "banana": [
-  {
-   "brand": "ZTE",
-   "name": "",
-   "model": "ZTE-C N780"
   }
  ],
  "blade": [

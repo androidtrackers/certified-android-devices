@@ -129157,6 +129157,11 @@
   {
    "brand": "Redmi",
    "name": "Redmi 10X",
+   "device": "apricot"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10X",
    "device": "atom"
   }
  ],
@@ -129185,6 +129190,11 @@
   }
  ],
  "M2004J7BC": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10X Pro",
+   "device": "banana"
+  },
   {
    "brand": "Redmi",
    "name": "Redmi 10X pro",
@@ -129293,6 +129303,20 @@
    "device": "dandelion"
   }
  ],
+ "M2006C3LG": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 9A",
+   "device": "dandelion"
+  }
+ ],
+ "M2006C3LI": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 9A",
+   "device": "dandelion"
+  }
+ ],
  "M2006C3LVG": [
   {
    "brand": "Redmi",
@@ -129305,6 +129329,20 @@
    "brand": "Redmi",
    "name": "Redmi 9A",
    "device": "dandelion"
+  }
+ ],
+ "M2006C3MG": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 9C",
+   "device": "angelica"
+  }
+ ],
+ "angelica": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 9C",
+   "device": "angelica"
   }
  ],
  "Redmi K20": [
@@ -129350,6 +129388,13 @@
    "brand": "Redmi",
    "name": "Redmi K30 5G",
    "device": "picasso"
+  }
+ ],
+ "M2006J10C": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi K30 Ultra",
+   "device": "cezanne"
   }
  ],
  "Redmi K30i 5G": [
@@ -183695,6 +183740,13 @@
    "brand": "Xiaomi",
    "name": "Mi 10 Pro",
    "device": "cmi"
+  }
+ ],
+ "M2007J1SC": [
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 10 Ultra",
+   "device": "cas"
   }
  ],
  "M2002J9G": [

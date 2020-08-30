@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-08-29
+Last sync is 2020-08-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -18879,9 +18879,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi  7A|pine|Redmi 7A|
 |Redmi|Redmi  7A|pine|pine|
 |Redmi|Redmi  Note  7|lavender|Redmi Note 7|
+|Redmi|Redmi 10X|apricot|M2004J7AC|
 |Redmi|Redmi 10X|atom|M2004J7AC|
 |Redmi|Redmi 10X|atom|atom|
 |Redmi|Redmi 10X 4G|merlin|M2003J15SC|
+|Redmi|Redmi 10X Pro|banana|M2004J7BC|
 |Redmi|Redmi 10X pro|bomb|M2004J7BC|
 |Redmi|Redmi 10X pro|bomb|bomb|
 |Redmi|Redmi 6|cereus|Redmi 6|
@@ -18897,8 +18899,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 9|lancelot|M2004J19C|
 |Redmi|Redmi 9 Prime|lancelot|M2004J19C|
 |Redmi|Redmi 9A|dandelion|M2006C3LC|
+|Redmi|Redmi 9A|dandelion|M2006C3LG|
+|Redmi|Redmi 9A|dandelion|M2006C3LI|
 |Redmi|Redmi 9A|dandelion|M2006C3LVG|
 |Redmi|Redmi 9A|dandelion|dandelion|
+|Redmi|Redmi 9C|angelica|M2006C3MG|
+|Redmi|Redmi 9C|angelica|angelica|
 |Redmi|Redmi K20|davinci|Mi 9T|
 |Redmi|Redmi K20|davinci|Redmi K20|
 |Redmi|Redmi K20|davinciin|Redmi K20|
@@ -18907,6 +18913,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi K20 Pro|raphael|Redmi K20 Pro Premium Edition|
 |Redmi|Redmi K30|phoenix|Redmi K30|
 |Redmi|Redmi K30 5G|picasso|Redmi K30 5G|
+|Redmi|Redmi K30 Ultra|cezanne|M2006J10C|
 |Redmi|Redmi K30i 5G|picasso|Redmi K30i 5G|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Redmi|Redmi Note 8|ginkgo|GINKGO|
@@ -27099,6 +27106,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Mi 10 Lite zoom|vangogh|M2002J9E|
 |Xiaomi|Mi 10 Pro|cmi|Cmi|
 |Xiaomi|Mi 10 Pro|cmi|Mi 10 Pro|
+|Xiaomi|Mi 10 Ultra|cas|M2007J1SC|
 |Xiaomi|Mi 10 lite 5G|monet|M2002J9G|
 |Xiaomi|Mi 10 lite 5G|monet|M2002J9S|
 |Xiaomi|Mi 3|pisces|MI 3|
