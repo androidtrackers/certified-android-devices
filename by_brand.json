@@ -10021,6 +10021,11 @@
    "model": "M863"
   },
   {
+   "device": "M863-EEA",
+   "name": "M863-EEA",
+   "model": "M863-EEA"
+  },
+  {
    "device": "N107",
    "name": "N107",
    "model": "N107"
@@ -10833,6 +10838,11 @@
    "device": "BQru-5044",
    "name": "BQ-5044 Strike LTE",
    "model": "BQru-5044"
+  },
+  {
+   "device": "BQru-5045L",
+   "name": "BQ-5045L",
+   "model": "BQ-5045L"
   },
   {
    "device": "BQru-5056",
@@ -27192,6 +27202,13 @@
    "model": "FPT X50"
   }
  ],
+ "FUNKER": [
+  {
+   "device": "E500i",
+   "name": "E500i",
+   "model": "E500i"
+  }
+ ],
  "FaceVsion": [
   {
    "device": "OC1020A",
@@ -29137,6 +29154,11 @@
    "device": "f11eif",
    "name": "F-12C",
    "model": "F-12C"
+  },
+  {
+   "device": "F42A",
+   "name": "F-42A",
+   "model": "F-42A"
   },
   {
    "device": "F51A",
@@ -56954,6 +56976,11 @@
    "device": "Kids_and_Us",
    "name": "KIDSPAD",
    "model": "KIDSPAD"
+  },
+  {
+   "device": "KIDSPAD_V2",
+   "name": "KIDSPAD_V2",
+   "model": "KIDSPAD_V2"
   }
  ],
  "Kimfly": [
@@ -127807,6 +127834,11 @@
    "model": "TECNO F3"
   },
   {
+   "device": "TECNO-LD7",
+   "name": "POVA",
+   "model": "TECNO LD7"
+  },
+  {
    "device": "TECNO-AB7",
    "name": "Phantom 9",
    "model": "TECNO AB7"
@@ -139943,6 +139975,13 @@
    "device": "ZMBIZI_Z1",
    "name": "ZMBIZI",
    "model": "ZMBIZI Z1"
+  }
+ ],
+ "ZOLON": [
+  {
+   "device": "M30",
+   "name": "M30",
+   "model": "M30"
   }
  ],
  "ZOOMME": [

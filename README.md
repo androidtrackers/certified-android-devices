@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-08-30
+Last sync is 2020-08-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1951,6 +1951,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMXC|M107|M107|M107|
 |BMXC|M107|M107-EEA|M107-EEA|
 |BMXC|M863|M863|M863|
+|BMXC|M863-EEA|M863-EEA|M863-EEA|
 |BMXC|N107|N107|N107|
 |BMXC|N107_EEA|N107-EEA|N107-EEA|
 |BMXC|ST-920|ST-920|ST-920|
@@ -2113,6 +2114,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-5033 Shark|BQru_5033|BQru-5033|
 |BQru|BQ-5035 Velvet|BQru-5035|BQru-5035|
 |BQru|BQ-5044 Strike LTE|BQru-5044|BQru-5044|
+|BQru|BQ-5045L|BQru-5045L|BQ-5045L|
 |BQru|BQ-5056 Fresh|BQru-5056|BQ-5056|
 |BQru|BQ-5057 Strike 2|BQru_5057|BQru-5057|
 |BQru|BQ-5058 Strike Power Easy|BQru-5058|BQru_BQru-5058|
@@ -5240,6 +5242,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FPT Trading|FPT_X15|FPT_X15|FPT_X15|
 |FPT Trading|FPT_X50|FPT_X50|FPT X50|
 |FPT Trading|X50|FPT_X50|FPT X50|
+|FUNKER|E500i|E500i|E500i|
 |FaceVsion|OC1020A|OC1020A|FV-FG6|
 |Facime|FLEET_7|FLEET_7|FLEET_7|
 |Fairphone|FP2|FP2|FP2|
@@ -5615,6 +5618,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fujitsu|F-09D ANTEPRIMA|F09D|F-09D|
 |Fujitsu|F-09E|F09E|F-09E|
 |Fujitsu|F-12C|f11eif|F-12C|
+|Fujitsu|F-42A|F42A|F-42A|
 |Fujitsu|F-51A|F51A|F-51A|
 |Fujitsu|FARTM9334P1|FARTM9334|FARTM9334P1|
 |Fujitsu|FARTM933KZ|FARTM933KZ|FARTM933KZ|
@@ -11074,6 +11078,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kiano|Elegance61P_EEA|Elegance61P_EEA|Elegance61P_EEA|
 |Kiano|Slim_Tab_8|Slim_Tab_8|Slim_Tab_8|
 |Kids_and_Us|KIDSPAD|Kids_and_Us|KIDSPAD|
+|Kids_and_Us|KIDSPAD_V2|KIDSPAD_V2|KIDSPAD_V2|
 |Kimfly|E1|E1|E1|
 |Kimfly|KIMFLY ES|ES|ES|
 |Kimfly|Kimfly MC|MC|MC|
@@ -24965,6 +24970,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|POP 3 Plus|TECNO-BB4|TECNO BB4|
 |Tecno|POP 4 Pro|TECNO-BC3|TECNO BC3|
 |Tecno|POP1|TECNO-F3|TECNO F3|
+|Tecno|POVA|TECNO-LD7|TECNO LD7|
 |Tecno|Phantom 9|TECNO-AB7|TECNO AB7|
 |Tecno|Phantom6|Phantom6|Phantom6|
 |Tecno|Phantom6 plus|Phantom6-Plus|Phantom6-Plus|
@@ -27293,6 +27299,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZENTALITY|C-705|C-705|C-705|
 |ZLINE|ZLINE_Z_742|ZLINE_Z_742|Z_742|
 |ZMBIZI|ZMBIZI|ZMBIZI_Z1|ZMBIZI Z1|
+|ZOLON|M30|M30|M30|
 |ZOOMME|M2|M2|M2|
 |ZOOMME|M3|M3|M3|
 |ZOOMME|M6|M6|M6|

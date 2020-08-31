@@ -14674,6 +14674,13 @@
    "device": "M863"
   }
  ],
+ "M863-EEA": [
+  {
+   "brand": "BMXC",
+   "name": "M863-EEA",
+   "device": "M863-EEA"
+  }
+ ],
  "N107": [
   {
    "brand": "BMXC",
@@ -15781,6 +15788,13 @@
    "brand": "BQru",
    "name": "BQ-5044 Strike LTE",
    "device": "BQru-5044"
+  }
+ ],
+ "BQ-5045L": [
+  {
+   "brand": "BQru",
+   "name": "BQ-5045L",
+   "device": "BQru-5045L"
   }
  ],
  "BQ-5056": [
@@ -38234,6 +38248,13 @@
    "device": "FPT_X50"
   }
  ],
+ "E500i": [
+  {
+   "brand": "FUNKER",
+   "name": "E500i",
+   "device": "E500i"
+  }
+ ],
  "FV-FG6": [
   {
    "brand": "FaceVsion",
@@ -40942,6 +40963,13 @@
    "brand": "Fujitsu",
    "name": "F-12C",
    "device": "f11eif"
+  }
+ ],
+ "F-42A": [
+  {
+   "brand": "Fujitsu",
+   "name": "F-42A",
+   "device": "F42A"
   }
  ],
  "F-51A": [
@@ -77532,6 +77560,13 @@
    "brand": "Kids_and_Us",
    "name": "KIDSPAD",
    "device": "Kids_and_Us"
+  }
+ ],
+ "KIDSPAD_V2": [
+  {
+   "brand": "Kids_and_Us",
+   "name": "KIDSPAD_V2",
+   "device": "KIDSPAD_V2"
   }
  ],
  "E1": [
@@ -170188,6 +170223,13 @@
    "device": "TECNO-BC3"
   }
  ],
+ "TECNO LD7": [
+  {
+   "brand": "Tecno",
+   "name": "POVA",
+   "device": "TECNO-LD7"
+  }
+ ],
  "TECNO AB7": [
   {
    "brand": "Tecno",
@@ -184864,6 +184906,13 @@
    "brand": "ZMBIZI",
    "name": "ZMBIZI",
    "device": "ZMBIZI_Z1"
+  }
+ ],
+ "M30": [
+  {
+   "brand": "ZOLON",
+   "name": "M30",
+   "device": "M30"
   }
  ],
  "LT600T": [

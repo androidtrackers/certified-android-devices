@@ -20140,6 +20140,13 @@
    "model": "M863"
   }
  ],
+ "M863-EEA": [
+  {
+   "brand": "BMXC",
+   "device": "M863-EEA",
+   "model": "M863-EEA"
+  }
+ ],
  "N107": [
   {
    "brand": "BMXC",
@@ -21249,6 +21256,13 @@
    "brand": "BQru",
    "device": "BQru-5044",
    "model": "BQru-5044"
+  }
+ ],
+ "BQ-5045L": [
+  {
+   "brand": "BQru",
+   "device": "BQru-5045L",
+   "model": "BQ-5045L"
   }
  ],
  "BQ-5056 Fresh": [
@@ -44324,6 +44338,13 @@
    "model": "FPT X50"
   }
  ],
+ "E500i": [
+  {
+   "brand": "FUNKER",
+   "device": "E500i",
+   "model": "E500i"
+  }
+ ],
  "FLEET_7": [
   {
    "brand": "Facime",
@@ -46865,6 +46886,13 @@
    "brand": "Fujitsu",
    "device": "f11eif",
    "model": "F-12C"
+  }
+ ],
+ "F-42A": [
+  {
+   "brand": "Fujitsu",
+   "device": "F42A",
+   "model": "F-42A"
   }
  ],
  "F-51A": [
@@ -61075,6 +61103,11 @@
    "brand": "Hisense",
    "device": "HS8909QC",
    "model": "Hisense M30"
+  },
+  {
+   "brand": "ZOLON",
+   "device": "M30",
+   "model": "M30"
   }
  ],
  "M30M": [
@@ -79372,6 +79405,13 @@
    "brand": "Kids_and_Us",
    "device": "Kids_and_Us",
    "model": "KIDSPAD"
+  }
+ ],
+ "KIDSPAD_V2": [
+  {
+   "brand": "Kids_and_Us",
+   "device": "KIDSPAD_V2",
+   "model": "KIDSPAD_V2"
   }
  ],
  "E1": [
@@ -160546,6 +160586,13 @@
    "brand": "Tecno",
    "device": "TECNO-F3",
    "model": "TECNO F3"
+  }
+ ],
+ "POVA": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-LD7",
+   "model": "TECNO LD7"
   }
  ],
  "Phantom 9": [
