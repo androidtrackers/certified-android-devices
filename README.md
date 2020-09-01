@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-08-31
+Last sync is 2020-09-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3188,6 +3188,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Chemist Warehouse|JR-MB603|JR_MB603|JR_MB603|
 |Chenrui|M40|M40|M40|
 |Cherry Mobile|A810|A810|Superion S1 Plus DTV|
+|Cherry Mobile|A890|A890|A890|
 |Cherry Mobile|Cherry S8 Deluxe|Flare_S8_Deluxe|Flare_S8_Deluxe|
 |Cherry Mobile|Cherry W900 LTE|al7|W900 LTE|
 |Cherry Mobile|CherryRoam|CherryRoam|CherryRoam|
@@ -7040,6 +7041,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HTC|U12+|htc_imeuhl|HTC 2Q552|
 |HTC|U12+|htc_imeuhl|HTC U12+|
 |HTC|U12+|htc_imeuhljp|HTC U12+|
+|HTC|U20 5G|htc_flhdugl|2Q9F100|
+|HTC|U20 5G|htc_flhdugl|HTC U20 5G|
 |HTC|Velocity 4G|holiday|HTC PH39100|
 |HTC|Velocity 4G|holiday|HTC Raider X710e|
 |HTC|Velocity 4G|holiday|HTC Velocity 4G|
@@ -7419,6 +7422,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|A2M|HS8953QC|Hisense A2M|
 |Hisense|A2T|HS8953QC|Hisense A2T|
 |Hisense|A5|HLTE202N|HLTE202N|
+|Hisense|A5 Pro|HLTE203T|HLTE203T|
 |Hisense|A6L|HLTE730T|HLTE730T|
 |Hisense|AGM  X2|HS8976QC|AGM X2|
 |Hisense|AGM  X2|HS8976QC|X2 SE|
@@ -7457,6 +7461,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|E200T|E200T|HS-E200T|
 |Hisense|E2070|mt8312|E2070|
 |Hisense|E20T|HS8952QC|Hisense E20T|
+|Hisense|E22|HITV102C|HITV102C|
 |Hisense|E2371CH|rk3026|E2371CH|
 |Hisense|E260T|E260T|HS-E260T|
 |Hisense|E260U|E260U|Hisense E260U|
@@ -7535,6 +7540,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|H910|HS8939QC|Hisense H910|
 |Hisense|H910-F01|HS8939QC|Hisense H910|
 |Hisense|HITV101C|HITV101C|HITV101C|
+|Hisense|HITV105C|HITV105C|HITV105C|
 |Hisense|HITV300C|HS8937QC|HITV300C|
 |Hisense|HITV512C|HSSDA450QC|HITV512C|
 |Hisense|HLTE100M|HS9850SC|HLTE100M|
@@ -7707,6 +7713,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U964|HS7731ESP|Hisense U964|
 |Hisense|Hisense U965|HS6580MT|Hisense Hi 1 PRO|
 |Hisense|Hisense U965|HS6580MT|Hisense U965|
+|Hisense|Hisense V40|HLTE229E_13|Hisense V40|
 |Hisense|I300T|I300T|Hisense I300T|
 |Hisense|I56D2G|HS8929QC|Andromax I56D2G|
 |Hisense|I630U|I630U|Hisense I630U|
@@ -8105,6 +8112,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|EDA71|EDA71-0|EDA71_G|
 |Honeywell|EDA71|EDA71-1|EDA71_G|
 |Honeywell|EdA50|eda50-211|EDA50|
+|Honeywell|T60A|TA60A-L1-C|TA60A|
 |Honeywell|TA60A|TA60A-L0-C|TA60A|
 |Honeywell|TA60A|TA60A-L1-C|TA60A|
 |Honeywell|VM1A|VM1A-L0-N|VM1A|
@@ -10908,6 +10916,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KEMPLER STRAUSS|KEMPLER_X_TV|KEMPLER_X_TV|KEMPLER_X_TV|
 |KEMPLER STRAUSS|Kempler_X_Pro|Kempler_X_Pro|Kempler_X_Pro|
 |KEMPLER STRAUSS|ZKEMPLER|ZKEMPLER|ZKEMPLER|
+|KEYENCE|BTA700|BTA700|BTA700|
 |KISA phone|KPAU04|KPAU04|KPAU04|
 |KNC (LK)|TPC_XTE10D|TPC_XTE10D|TPC_XTE10D|
 |KONKA|KM7012BK|KM7012BK|KM7012BK|
@@ -12671,6 +12680,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|VU3|vu3|LG-F300K|
 |LGE|VU3|vu3|LG-F300L|
 |LGE|VU3|vu3|LG-F300S|
+|LGE|Velvet|caymanlm|LM-G900|
 |LGE|W10|LMX130IM|LMX130IM|
 |LGE|W10 Alpha|Neo2ALP|LM-X210LMW|
 |LGE|W30|LM-X440IM|LM-X440IM|
@@ -13471,6 +13481,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo A5|L18021|Lenovo L18021|
 |Lenovo|Lenovo A5s|A5s|Lenovo L18081|
 |Lenovo|Lenovo A6 Note|Lenovo_A6_Note|Lenovo L19041|
+|Lenovo|Lenovo A8|AK57|L10041|
+|Lenovo|Lenovo A8|AK57|Lenovo L10041|
 |Lenovo|Lenovo K11|L38082|Lenovo L38082|
 |Lenovo|Lenovo K11|L38083|Lenovo L38083|
 |Lenovo|Lenovo K8|brady_f|Lenovo K|
@@ -13901,6 +13913,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logic Mobility|L57|Logic_L57|Logic L57|
 |Logic Mobility|L5G|L5G|L5G|
 |Logic Mobility|LOGIC L50T|LOGIC_L50T|LOGIC L50T|
+|Logic Mobility|LOGIC L61|LOGIC_L61|LOGIC L61|
 |Logic Mobility|LOGIC_L4T_1|LOGIC_L4T|LOGIC L4T|
 |Logic Mobility|LOGIC_L55S|LOGIC_L55S|LOGIC L55S|
 |Logic Mobility|LOGIC_L5D|LOGIC_L5D|LOGIC_L5D|
@@ -15726,6 +15739,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M10A|M10A|M10A|
 |Multilaser|M10A-Lite|M10A-Lite|M10A-Lite|
 |Multilaser|M10A_3G|M10A_3G|M10A_3G|
+|Multilaser|M10A_Lite|ML_SO0A_M10A_Lite|M10A_Lite|
 |Multilaser|M7 3G PLUS|ML-JI11-M7_3G_PLUS|M7_3G_PLUS|
 |Multilaser|M7 3G PLUS|ML_WI0A_M7_3G_PLUS|M7_3G_PLUS|
 |Multilaser|M7 3G Plus|ML_WI12_M7_3G_PLUS|M7_3G_PLUS|
@@ -17663,6 +17677,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|4K Razor Slim LED TV powered by Android TV™|MT5593Uplus|QM151E|
 |Philips|4K Razor Slim OLED TV powered by Android TV|QM16XE_UB|QM161E|
 |Philips|4K UHD LED Android TV with Ambilight 3-sided and Google Assistant|PH9M_EA_5599|TPM191E|
+|Philips|4K UHD LED Android TV with Ambilight 3-sided and Google Assistant|PH9M_EA_5599|TPM191KN|
 |Philips|4K UHD LED Android TV with Ambilight 3-sided and Google Assistant|PH9M_EA_5599|TPM191L|
 |Philips|4K UHD Razor Slim LED TV powered by Android™|QV151E|QV151E|
 |Philips|4K Ultra Slim LED TV powered by Android|QM16XE_U|QM163E|
@@ -18740,6 +18755,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|RCA RCT6B86E12|RCT6B86E12|RCT6B86E12|
 |RCA|RCA RCT6S03W12|RCT6S03W12|RCT6S03W12|
 |RCA|RCA RCT6S03W14|RCT6S03W14|RCT6S03W14|
+|RCA|RCARENO5011619|RCARENO5011619|RCARENO5011619|
 |RCA|RCA_G2|RCA_G2|RCA G2|
 |RCA|RCS13101T|RCS13101T|RCS13101T|
 |RCA|RCT6002W46|RCT6002W46|RCT6002W46|
@@ -22535,11 +22551,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 5|J8210|J8210|
 |Sony|Xperia 5|J8270|J8270|
 |Sony|Xperia 5|J9210|J9210|
+|Sony|Xperia 5|J9260|J9260|
 |Sony|Xperia 5|SO-01M|SO-01M|
 |Sony|Xperia 5|SOV41|SOV41|
 |Sony|Xperia 8|902SO|902SO|
 |Sony|Xperia 8|SOV42|SOV42|
 |Sony|Xperia 8|SOV42-u|SOV42-u|
+|Sony|Xperia 8 Lite|J3273|J3273|
 |Sony|Xperia A|SO-04E|SO-04E|
 |Sony|Xperia A2|SO-04F|SO-04F|
 |Sony|Xperia A4|SO-04G|SO-04G|
@@ -25042,6 +25060,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO POP 2s Pro|TECNO-KB2j|TECNO KB2j|
 |Tecno|TECNO POP 3|TECNO-BB2|TECNO BB2|
 |Tecno|TECNO POP 4|TECNO-BC2|TECNO BC2|
+|Tecno|TECNO POP 4 Air|TECNO-BC1|TECNO BC1|
 |Tecno|TECNO R6S|TECNO-R6|TECNO R6S|
 |Tecno|TECNO R7+|TECNO-RC6|TECNO RC6|
 |Tecno|TECNO RB7S|TECNO-RB7S|TECNO RB7S|
@@ -26137,10 +26156,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2002A|PD2019|V2002A|
 |Vivo|V2002A|PD2019|V2019A|
 |Vivo|V2005A|PD2005|V2005A|
+|Vivo|V2006|2006|V2006|
 |Vivo|V2011A|PD2011|V2011A|
 |Vivo|V2012A|PD2012|V2012A|
 |Vivo|V2023A|PD2023|V2023A|
 |Vivo|V2024|1920|V2024|
+|Vivo|V2024A|PD2024|V2024A|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
 |Vivo|V3Lite|V3Lite|vivo V3Lite|

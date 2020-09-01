@@ -23745,6 +23745,13 @@
    "device": "A810"
   }
  ],
+ "A890": [
+  {
+   "brand": "Cherry Mobile",
+   "name": "A890",
+   "device": "A890"
+  }
+ ],
  "Flare_S8_Deluxe": [
   {
    "brand": "Cherry Mobile",
@@ -50704,6 +50711,20 @@
    "device": "htc_imeuhl"
   }
  ],
+ "2Q9F100": [
+  {
+   "brand": "HTC",
+   "name": "U20 5G",
+   "device": "htc_flhdugl"
+  }
+ ],
+ "HTC U20 5G": [
+  {
+   "brand": "HTC",
+   "name": "U20 5G",
+   "device": "htc_flhdugl"
+  }
+ ],
  "HTC PH39100": [
   {
    "brand": "HTC",
@@ -53271,6 +53292,13 @@
    "device": "HLTE202N"
   }
  ],
+ "HLTE203T": [
+  {
+   "brand": "Hisense",
+   "name": "A5 Pro",
+   "device": "HLTE203T"
+  }
+ ],
  "HLTE730T": [
   {
    "brand": "Hisense",
@@ -53517,6 +53545,13 @@
    "brand": "Hisense",
    "name": "E20T",
    "device": "HS8952QC"
+  }
+ ],
+ "HITV102C": [
+  {
+   "brand": "Hisense",
+   "name": "E22",
+   "device": "HITV102C"
   }
  ],
  "E2371CH": [
@@ -54075,6 +54110,13 @@
    "brand": "Hisense",
    "name": "HITV101C",
    "device": "HITV101C"
+  }
+ ],
+ "HITV105C": [
+  {
+   "brand": "Hisense",
+   "name": "HITV105C",
+   "device": "HITV105C"
   }
  ],
  "HITV300C": [
@@ -54797,6 +54839,11 @@
    "brand": "Hisense",
    "name": "Hisense U963",
    "device": "SC9832E"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense V40",
+   "device": "HLTE229E_13"
   }
  ],
  "Hisense E76MINIM": [
@@ -57612,6 +57659,11 @@
   }
  ],
  "TA60A": [
+  {
+   "brand": "Honeywell",
+   "name": "T60A",
+   "device": "TA60A-L1-C"
+  },
   {
    "brand": "Honeywell",
    "name": "TA60A",
@@ -76414,6 +76466,13 @@
    "device": "ZKEMPLER"
   }
  ],
+ "BTA700": [
+  {
+   "brand": "KEYENCE",
+   "name": "BTA700",
+   "device": "BTA700"
+  }
+ ],
  "KPAU04": [
   {
    "brand": "KISA phone",
@@ -88132,6 +88191,11 @@
    "brand": "LGE",
    "name": "VELVET",
    "device": "caymanlm"
+  },
+  {
+   "brand": "LGE",
+   "name": "Velvet",
+   "device": "caymanlm"
   }
  ],
  "LM-G900N": [
@@ -93522,6 +93586,20 @@
    "device": "Lenovo_A6_Note"
   }
  ],
+ "L10041": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo A8",
+   "device": "AK57"
+  }
+ ],
+ "Lenovo L10041": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo A8",
+   "device": "AK57"
+  }
+ ],
  "Lenovo L38083": [
   {
    "brand": "Lenovo",
@@ -96343,6 +96421,13 @@
    "brand": "Logic Mobility",
    "name": "LOGIC L50T",
    "device": "LOGIC_L50T"
+  }
+ ],
+ "LOGIC L61": [
+  {
+   "brand": "Logic Mobility",
+   "name": "LOGIC L61",
+   "device": "LOGIC_L61"
   }
  ],
  "LOGIC L4T": [
@@ -108416,6 +108501,13 @@
    "brand": "Multilaser",
    "name": "M10A_3G",
    "device": "M10A_3G"
+  }
+ ],
+ "M10A_Lite": [
+  {
+   "brand": "Multilaser",
+   "name": "M10A_Lite",
+   "device": "ML_SO0A_M10A_Lite"
   }
  ],
  "M7_3G_PLUS": [
@@ -121070,6 +121162,13 @@
    "device": "PH9M_EA_5599"
   }
  ],
+ "TPM191KN": [
+  {
+   "brand": "Philips",
+   "name": "4K UHD LED Android TV with Ambilight 3-sided and Google Assistant",
+   "device": "PH9M_EA_5599"
+  }
+ ],
  "TPM191L": [
   {
    "brand": "Philips",
@@ -128202,6 +128301,13 @@
    "brand": "RCA",
    "name": "RCA RCT6S03W14",
    "device": "RCT6S03W14"
+  }
+ ],
+ "RCARENO5011619": [
+  {
+   "brand": "RCA",
+   "name": "RCARENO5011619",
+   "device": "RCARENO5011619"
   }
  ],
  "RCA G2": [
@@ -154036,6 +154142,13 @@
    "device": "J9210"
   }
  ],
+ "J9260": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 5",
+   "device": "J9260"
+  }
+ ],
  "SO-01M": [
   {
    "brand": "Sony",
@@ -154069,6 +154182,13 @@
    "brand": "Sony",
    "name": "Xperia 8",
    "device": "SOV42-u"
+  }
+ ],
+ "J3273": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 8 Lite",
+   "device": "J3273"
   }
  ],
  "SO-04E": [
@@ -170697,6 +170817,13 @@
    "device": "TECNO-BC2"
   }
  ],
+ "TECNO BC1": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO POP 4 Air",
+   "device": "TECNO-BC1"
+  }
+ ],
  "TECNO R6S": [
   {
    "brand": "Tecno",
@@ -177627,6 +177754,13 @@
    "device": "PD2005"
   }
  ],
+ "V2006": [
+  {
+   "brand": "Vivo",
+   "name": "V2006",
+   "device": "2006"
+  }
+ ],
  "V2011A": [
   {
    "brand": "Vivo",
@@ -177653,6 +177787,13 @@
    "brand": "Vivo",
    "name": "V2024",
    "device": "1920"
+  }
+ ],
+ "V2024A": [
+  {
+   "brand": "Vivo",
+   "name": "V2024A",
+   "device": "PD2024"
   }
  ],
  "vivo V3": [

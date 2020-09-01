@@ -29705,6 +29705,13 @@
    "model": "Superion S1 Plus DTV"
   }
  ],
+ "A890": [
+  {
+   "brand": "Cherry Mobile",
+   "device": "A890",
+   "model": "A890"
+  }
+ ],
  "Cherry S8 Deluxe": [
   {
    "brand": "Cherry Mobile",
@@ -56004,6 +56011,18 @@
    "model": "HTC U12+"
   }
  ],
+ "U20 5G": [
+  {
+   "brand": "HTC",
+   "device": "htc_flhdugl",
+   "model": "2Q9F100"
+  },
+  {
+   "brand": "HTC",
+   "device": "htc_flhdugl",
+   "model": "HTC U20 5G"
+  }
+ ],
  "Velocity 4G": [
   {
    "brand": "HTC",
@@ -58269,6 +58288,18 @@
    "model": "Hisense A2T"
   }
  ],
+ "A5 Pro": [
+  {
+   "brand": "Hisense",
+   "device": "HLTE203T",
+   "model": "HLTE203T"
+  },
+  {
+   "brand": "Umidigi",
+   "device": "A5_Pro",
+   "model": "A5_Pro"
+  }
+ ],
  "A6L": [
   {
    "brand": "Hisense",
@@ -58495,6 +58526,13 @@
    "brand": "Hisense",
    "device": "HS8952QC",
    "model": "Hisense E20T"
+  }
+ ],
+ "E22": [
+  {
+   "brand": "Hisense",
+   "device": "HITV102C",
+   "model": "HITV102C"
   }
  ],
  "E2371CH": [
@@ -58994,6 +59032,13 @@
    "brand": "Hisense",
    "device": "HITV101C",
    "model": "HITV101C"
+  }
+ ],
+ "HITV105C": [
+  {
+   "brand": "Hisense",
+   "device": "HITV105C",
+   "model": "HITV105C"
   }
  ],
  "HITV300C": [
@@ -60053,6 +60098,13 @@
    "brand": "Hisense",
    "device": "HS6580MT",
    "model": "Hisense U965"
+  }
+ ],
+ "Hisense V40": [
+  {
+   "brand": "Hisense",
+   "device": "HLTE229E_13",
+   "model": "Hisense V40"
   }
  ],
  "I300T": [
@@ -62662,6 +62714,13 @@
    "brand": "Honeywell",
    "device": "eda50-211",
    "model": "EDA50"
+  }
+ ],
+ "T60A": [
+  {
+   "brand": "Honeywell",
+   "device": "TA60A-L1-C",
+   "model": "TA60A"
   }
  ],
  "TA60A": [
@@ -78306,6 +78365,13 @@
    "model": "ZKEMPLER"
   }
  ],
+ "BTA700": [
+  {
+   "brand": "KEYENCE",
+   "device": "BTA700",
+   "model": "BTA700"
+  }
+ ],
  "KPAU04": [
   {
    "brand": "KISA phone",
@@ -88017,6 +88083,13 @@
    "model": "LG-F300S"
   }
  ],
+ "Velvet": [
+  {
+   "brand": "LGE",
+   "device": "caymanlm",
+   "model": "LM-G900"
+  }
+ ],
  "W10": [
   {
    "brand": "LGE",
@@ -92618,6 +92691,18 @@
    "model": "Lenovo L19041"
   }
  ],
+ "Lenovo A8": [
+  {
+   "brand": "Lenovo",
+   "device": "AK57",
+   "model": "L10041"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "AK57",
+   "model": "Lenovo L10041"
+  }
+ ],
  "Lenovo K11": [
   {
    "brand": "Lenovo",
@@ -95172,6 +95257,13 @@
    "brand": "Logic Mobility",
    "device": "LOGIC_L50T",
    "model": "LOGIC L50T"
+  }
+ ],
+ "LOGIC L61": [
+  {
+   "brand": "Logic Mobility",
+   "device": "LOGIC_L61",
+   "model": "LOGIC L61"
   }
  ],
  "LOGIC_L4T_1": [
@@ -106178,6 +106270,13 @@
    "brand": "Multilaser",
    "device": "M10A_3G",
    "model": "M10A_3G"
+  }
+ ],
+ "M10A_Lite": [
+  {
+   "brand": "Multilaser",
+   "device": "ML_SO0A_M10A_Lite",
+   "model": "M10A_Lite"
   }
  ],
  "M7 3G PLUS": [
@@ -118223,6 +118322,11 @@
   {
    "brand": "Philips",
    "device": "PH9M_EA_5599",
+   "model": "TPM191KN"
+  },
+  {
+   "brand": "Philips",
+   "device": "PH9M_EA_5599",
    "model": "TPM191L"
   }
  ],
@@ -125163,6 +125267,13 @@
    "brand": "RCA",
    "device": "RCT6S03W14",
    "model": "RCT6S03W14"
+  }
+ ],
+ "RCARENO5011619": [
+  {
+   "brand": "RCA",
+   "device": "RCARENO5011619",
+   "model": "RCARENO5011619"
   }
  ],
  "RCA_G2": [
@@ -146925,6 +147036,11 @@
   },
   {
    "brand": "Sony",
+   "device": "J9260",
+   "model": "J9260"
+  },
+  {
+   "brand": "Sony",
    "device": "SO-01M",
    "model": "SO-01M"
   },
@@ -146949,6 +147065,13 @@
    "brand": "Sony",
    "device": "SOV42-u",
    "model": "SOV42-u"
+  }
+ ],
+ "Xperia 8 Lite": [
+  {
+   "brand": "Sony",
+   "device": "J3273",
+   "model": "J3273"
   }
  ],
  "Xperia A": [
@@ -161021,6 +161144,13 @@
    "model": "TECNO BC2"
   }
  ],
+ "TECNO POP 4 Air": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-BC1",
+   "model": "TECNO BC1"
+  }
+ ],
  "TECNO R6S": [
   {
    "brand": "Tecno",
@@ -164323,13 +164453,6 @@
    "brand": "Umidigi",
    "device": "A3X",
    "model": "A3X"
-  }
- ],
- "A5 Pro": [
-  {
-   "brand": "Umidigi",
-   "device": "A5_Pro",
-   "model": "A5_Pro"
   }
  ],
  "A7 Pro": [
@@ -167770,6 +167893,13 @@
    "model": "V2005A"
   }
  ],
+ "V2006": [
+  {
+   "brand": "Vivo",
+   "device": "2006",
+   "model": "V2006"
+  }
+ ],
  "V2011A": [
   {
    "brand": "Vivo",
@@ -167796,6 +167926,13 @@
    "brand": "Vivo",
    "device": "1920",
    "model": "V2024"
+  }
+ ],
+ "V2024A": [
+  {
+   "brand": "Vivo",
+   "device": "PD2024",
+   "model": "V2024A"
   }
  ],
  "V3Lite": [

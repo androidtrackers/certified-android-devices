@@ -16482,6 +16482,11 @@
    "model": "Superion S1 Plus DTV"
   },
   {
+   "device": "A890",
+   "name": "A890",
+   "model": "A890"
+  },
+  {
    "device": "Flare_S8_Deluxe",
    "name": "Cherry S8 Deluxe",
    "model": "Flare_S8_Deluxe"
@@ -36438,6 +36443,16 @@
    "model": "HTC U12+"
   },
   {
+   "device": "htc_flhdugl",
+   "name": "U20 5G",
+   "model": "2Q9F100"
+  },
+  {
+   "device": "htc_flhdugl",
+   "name": "U20 5G",
+   "model": "HTC U20 5G"
+  },
+  {
    "device": "holiday",
    "name": "Velocity 4G",
    "model": "HTC PH39100"
@@ -38395,6 +38410,11 @@
    "model": "HLTE202N"
   },
   {
+   "device": "HLTE203T",
+   "name": "A5 Pro",
+   "model": "HLTE203T"
+  },
+  {
    "device": "HLTE730T",
    "name": "A6L",
    "model": "HLTE730T"
@@ -38583,6 +38603,11 @@
    "device": "HS8952QC",
    "name": "E20T",
    "model": "Hisense E20T"
+  },
+  {
+   "device": "HITV102C",
+   "name": "E22",
+   "model": "HITV102C"
   },
   {
    "device": "rk3026",
@@ -38973,6 +38998,11 @@
    "device": "HITV101C",
    "name": "HITV101C",
    "model": "HITV101C"
+  },
+  {
+   "device": "HITV105C",
+   "name": "HITV105C",
+   "model": "HITV105C"
   },
   {
    "device": "HS8937QC",
@@ -39833,6 +39863,11 @@
    "device": "HS6580MT",
    "name": "Hisense U965",
    "model": "Hisense U965"
+  },
+  {
+   "device": "HLTE229E_13",
+   "name": "Hisense V40",
+   "model": "Hisense V40"
   },
   {
    "device": "I300T",
@@ -41839,6 +41874,11 @@
    "device": "eda50-211",
    "name": "EdA50",
    "model": "EDA50"
+  },
+  {
+   "device": "TA60A-L1-C",
+   "name": "T60A",
+   "model": "TA60A"
   },
   {
    "device": "TA60A-L0-C",
@@ -56074,6 +56114,13 @@
    "model": "ZKEMPLER"
   }
  ],
+ "KEYENCE": [
+  {
+   "device": "BTA700",
+   "name": "BTA700",
+   "model": "BTA700"
+  }
+ ],
  "KISA phone": [
   {
    "device": "KPAU04",
@@ -65001,6 +65048,11 @@
    "model": "LG-F300S"
   },
   {
+   "device": "caymanlm",
+   "name": "Velvet",
+   "model": "LM-G900"
+  },
+  {
    "device": "LMX130IM",
    "name": "W10",
    "model": "LMX130IM"
@@ -69067,6 +69119,16 @@
    "model": "Lenovo L19041"
   },
   {
+   "device": "AK57",
+   "name": "Lenovo A8",
+   "model": "L10041"
+  },
+  {
+   "device": "AK57",
+   "name": "Lenovo A8",
+   "model": "Lenovo L10041"
+  },
+  {
    "device": "L38082",
    "name": "Lenovo K11",
    "model": "Lenovo L38082"
@@ -71253,6 +71315,11 @@
    "device": "LOGIC_L50T",
    "name": "LOGIC L50T",
    "model": "LOGIC L50T"
+  },
+  {
+   "device": "LOGIC_L61",
+   "name": "LOGIC L61",
+   "model": "LOGIC L61"
   },
   {
    "device": "LOGIC_L4T",
@@ -80654,6 +80721,11 @@
    "device": "M10A_3G",
    "name": "M10A_3G",
    "model": "M10A_3G"
+  },
+  {
+   "device": "ML_SO0A_M10A_Lite",
+   "name": "M10A_Lite",
+   "model": "M10A_Lite"
   },
   {
    "device": "ML-JI11-M7_3G_PLUS",
@@ -90659,6 +90731,11 @@
   {
    "device": "PH9M_EA_5599",
    "name": "4K UHD LED Android TV with Ambilight 3-sided and Google Assistant",
+   "model": "TPM191KN"
+  },
+  {
+   "device": "PH9M_EA_5599",
+   "name": "4K UHD LED Android TV with Ambilight 3-sided and Google Assistant",
    "model": "TPM191L"
   },
   {
@@ -96166,6 +96243,11 @@
    "device": "RCT6S03W14",
    "name": "RCA RCT6S03W14",
    "model": "RCT6S03W14"
+  },
+  {
+   "device": "RCARENO5011619",
+   "name": "RCARENO5011619",
+   "model": "RCARENO5011619"
   },
   {
    "device": "RCA_G2",
@@ -115457,6 +115539,11 @@
    "model": "J9210"
   },
   {
+   "device": "J9260",
+   "name": "Xperia 5",
+   "model": "J9260"
+  },
+  {
    "device": "SO-01M",
    "name": "Xperia 5",
    "model": "SO-01M"
@@ -115480,6 +115567,11 @@
    "device": "SOV42-u",
    "name": "Xperia 8",
    "model": "SOV42-u"
+  },
+  {
+   "device": "J3273",
+   "name": "Xperia 8 Lite",
+   "model": "J3273"
   },
   {
    "device": "SO-04E",
@@ -128194,6 +128286,11 @@
    "model": "TECNO BC2"
   },
   {
+   "device": "TECNO-BC1",
+   "name": "TECNO POP 4 Air",
+   "model": "TECNO BC1"
+  },
+  {
    "device": "TECNO-R6",
    "name": "TECNO R6S",
    "model": "TECNO R6S"
@@ -133969,6 +134066,11 @@
    "model": "V2005A"
   },
   {
+   "device": "2006",
+   "name": "V2006",
+   "model": "V2006"
+  },
+  {
    "device": "PD2011",
    "name": "V2011A",
    "model": "V2011A"
@@ -133987,6 +134089,11 @@
    "device": "1920",
    "name": "V2024",
    "model": "V2024"
+  },
+  {
+   "device": "PD2024",
+   "name": "V2024A",
+   "model": "V2024A"
   },
   {
    "device": "PD1524",
