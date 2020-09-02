@@ -18553,6 +18553,11 @@
  ],
  "Contixo": [
   {
+   "device": "K101A",
+   "name": "K101A",
+   "model": "K101A"
+  },
+  {
    "device": "CONTIXO-V8",
    "name": "CONTIXO_V8",
    "model": "V8"
@@ -55260,6 +55265,11 @@
    "model": "AI PONT"
   },
   {
+   "device": "sindorim",
+   "name": "LT-50KC507",
+   "model": "AI PONT"
+  },
+  {
    "device": "samseong",
    "name": "LT-50KD507",
    "model": "AI PONT"
@@ -55614,6 +55624,11 @@
    "device": "J110A",
    "name": "J110A",
    "model": "J110A"
+  },
+  {
+   "device": "sindorim",
+   "name": "JSG55UHD-D2",
+   "model": "AI PONT"
   }
  ],
  "Juniper Systems": [
@@ -56112,13 +56127,6 @@
    "device": "ZKEMPLER",
    "name": "ZKEMPLER",
    "model": "ZKEMPLER"
-  }
- ],
- "KEYENCE": [
-  {
-   "device": "BTA700",
-   "name": "BTA700",
-   "model": "BTA700"
   }
  ],
  "KISA phone": [
@@ -73992,6 +74000,11 @@
    "device": "C4",
    "name": "C4",
    "model": "C4"
+  },
+  {
+   "device": "MTAB32_EEA",
+   "name": "MTAB32_EEA",
+   "model": "meanIT K10"
   },
   {
    "device": "meanIT_C80C81",
@@ -94491,6 +94504,11 @@
    "model": "K7"
   },
   {
+   "device": "K7",
+   "name": "K7_EEA",
+   "model": "K7"
+  },
+  {
    "device": "L10",
    "name": "L10",
    "model": "L10"
@@ -112679,6 +112697,11 @@
    "model": "SHV45-u"
   },
   {
+   "device": "SH-M12",
+   "name": "AQUOS sense3",
+   "model": "SH-M12-y"
+  },
+  {
    "device": "SH-02M",
    "name": "AQUOS sense3 SH-02M",
    "model": "SH-02M"
@@ -118010,6 +118033,11 @@
   }
  ],
  "SoyMomo": [
+  {
+   "device": "SoyMomo_Lite_V2",
+   "name": "LATAM and America",
+   "model": "SoyMomo_Lite_V2"
+  },
   {
    "device": "S8-RK3368",
    "name": "S8-RK3368",

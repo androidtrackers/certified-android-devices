@@ -4352,6 +4352,11 @@
   },
   {
    "brand": "JVC",
+   "name": "LT-50KC507",
+   "device": "sindorim"
+  },
+  {
+   "brand": "JVC",
    "name": "LT-50KD507",
    "device": "samseong"
   },
@@ -4363,6 +4368,11 @@
   {
    "brand": "JVC",
    "name": "LT-55KB597",
+   "device": "sindorim"
+  },
+  {
+   "brand": "Jooyon",
+   "name": "JSG55UHD-D2",
    "device": "sindorim"
   },
   {
@@ -26493,6 +26503,13 @@
    "brand": "Continential",
    "name": "CE10412",
    "device": "CE10412"
+  }
+ ],
+ "K101A": [
+  {
+   "brand": "Contixo",
+   "name": "K101A",
+   "device": "K101A"
   }
  ],
  "V8": [
@@ -76466,13 +76483,6 @@
    "device": "ZKEMPLER"
   }
  ],
- "BTA700": [
-  {
-   "brand": "KEYENCE",
-   "name": "BTA700",
-   "device": "BTA700"
-  }
- ],
  "KPAU04": [
   {
    "brand": "KISA phone",
@@ -77375,6 +77385,11 @@
   {
    "brand": "Pritom",
    "name": "K7",
+   "device": "K7"
+  },
+  {
+   "brand": "Pritom",
+   "name": "K7_EEA",
    "device": "K7"
   }
  ],
@@ -99871,6 +99886,13 @@
    "brand": "Maze_speed",
    "name": "SSB1000T",
    "device": "SSB1000T"
+  }
+ ],
+ "meanIT K10": [
+  {
+   "brand": "MeanIT",
+   "name": "MTAB32_EEA",
+   "device": "MTAB32_EEA"
   }
  ],
  "meanIT_C80C81": [
@@ -150402,6 +150424,13 @@
    "device": "PCZ-u"
   }
  ],
+ "SH-M12-y": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense3",
+   "device": "SH-M12"
+  }
+ ],
  "SH-02M": [
   {
    "brand": "Sharp",
@@ -157235,6 +157264,13 @@
    "brand": "Southern Telecom",
    "name": "a4",
    "device": "a4"
+  }
+ ],
+ "SoyMomo_Lite_V2": [
+  {
+   "brand": "SoyMomo",
+   "name": "LATAM and America",
+   "device": "SoyMomo_Lite_V2"
   }
  ],
  "S8-RK3368": [

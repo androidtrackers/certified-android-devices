@@ -32567,6 +32567,13 @@
    "model": "CE10412"
   }
  ],
+ "K101A": [
+  {
+   "brand": "Contixo",
+   "device": "K101A",
+   "model": "K101A"
+  }
+ ],
  "CONTIXO_V8": [
   {
    "brand": "Contixo",
@@ -77281,6 +77288,13 @@
    "model": "AI PONT"
   }
  ],
+ "LT-50KC507": [
+  {
+   "brand": "JVC",
+   "device": "sindorim",
+   "model": "AI PONT"
+  }
+ ],
  "LT-50KD507": [
   {
    "brand": "JVC",
@@ -77744,6 +77758,13 @@
    "brand": "Jooyon",
    "device": "J110A",
    "model": "J110A"
+  }
+ ],
+ "JSG55UHD-D2": [
+  {
+   "brand": "Jooyon",
+   "device": "sindorim",
+   "model": "AI PONT"
   }
  ],
  "Cedar CT8": [
@@ -78363,13 +78384,6 @@
    "brand": "KEMPLER STRAUSS",
    "device": "ZKEMPLER",
    "model": "ZKEMPLER"
-  }
- ],
- "BTA700": [
-  {
-   "brand": "KEYENCE",
-   "device": "BTA700",
-   "model": "BTA700"
   }
  ],
  "KPAU04": [
@@ -98647,6 +98661,13 @@
    "brand": "Maze_speed",
    "device": "SSB1000T",
    "model": "SSB1000T"
+  }
+ ],
+ "MTAB32_EEA": [
+  {
+   "brand": "MeanIT",
+   "device": "MTAB32_EEA",
+   "model": "meanIT K10"
   }
  ],
  "meanIT C80C81": [
@@ -123162,6 +123183,13 @@
    "model": "PC9"
   }
  ],
+ "K7_EEA": [
+  {
+   "brand": "Pritom",
+   "device": "K7",
+   "model": "K7"
+  }
+ ],
  "L10_EEA": [
   {
    "brand": "Pritom",
@@ -143508,6 +143536,11 @@
    "brand": "Sharp",
    "device": "PCZ-u",
    "model": "SHV45-u"
+  },
+  {
+   "brand": "Sharp",
+   "device": "SH-M12",
+   "model": "SH-M12-y"
   }
  ],
  "AQUOS sense3 SH-02M": [
@@ -149776,6 +149809,13 @@
    "brand": "Southern Telecom",
    "device": "a4",
    "model": "a4"
+  }
+ ],
+ "LATAM and America": [
+  {
+   "brand": "SoyMomo",
+   "device": "SoyMomo_Lite_V2",
+   "model": "SoyMomo_Lite_V2"
   }
  ],
  "S8-RK3368": [

@@ -4476,7 +4476,17 @@
   },
   {
    "brand": "JVC",
+   "name": "LT-50KC507",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "JVC",
    "name": "LT-55KB597",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Jooyon",
+   "name": "JSG55UHD-D2",
    "model": "AI PONT"
   },
   {
@@ -26957,6 +26967,13 @@
    "brand": "Continential",
    "name": "CE10412",
    "model": "CE10412"
+  }
+ ],
+ "K101A": [
+  {
+   "brand": "Contixo",
+   "name": "K101A",
+   "model": "K101A"
   }
  ],
  "CONTIXO-V8": [
@@ -74315,13 +74332,6 @@
    "model": "ZKEMPLER"
   }
  ],
- "BTA700": [
-  {
-   "brand": "KEYENCE",
-   "name": "BTA700",
-   "model": "BTA700"
-  }
- ],
  "KPAU04": [
   {
    "brand": "KISA phone",
@@ -75181,6 +75191,11 @@
   {
    "brand": "Pritom",
    "name": "K7",
+   "model": "K7"
+  },
+  {
+   "brand": "Pritom",
+   "name": "K7_EEA",
    "model": "K7"
   }
  ],
@@ -96548,6 +96563,13 @@
    "brand": "MeanIT",
    "name": "C4",
    "model": "C4"
+  }
+ ],
+ "MTAB32_EEA": [
+  {
+   "brand": "MeanIT",
+   "name": "MTAB32_EEA",
+   "model": "meanIT K10"
   }
  ],
  "meanIT_C80C81": [
@@ -145349,18 +145371,23 @@
    "model": "SHV45-u"
   }
  ],
+ "SH-M12": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense3",
+   "model": "SH-M12-y"
+  },
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense3 SH-M12",
+   "model": "SH-M12"
+  }
+ ],
  "SH-02M": [
   {
    "brand": "Sharp",
    "name": "AQUOS sense3 SH-02M",
    "model": "SH-02M"
-  }
- ],
- "SH-M12": [
-  {
-   "brand": "Sharp",
-   "name": "AQUOS sense3 SH-M12",
-   "model": "SH-M12"
   }
  ],
  "PCZ": [
@@ -152205,6 +152232,13 @@
    "brand": "Southern Telecom",
    "name": "Streamachine",
    "model": "X13"
+  }
+ ],
+ "SoyMomo_Lite_V2": [
+  {
+   "brand": "SoyMomo",
+   "name": "LATAM and America",
+   "model": "SoyMomo_Lite_V2"
   }
  ],
  "S8-RK3368": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-09-01
+Last sync is 2020-09-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3587,6 +3587,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Continental Edison|Continental Edison|yeongdeungpo|B UHD Android TV|
 |Continental Edison|Continential_Edison|bangbae|Continental 4K Android TV|
 |Continential|CE10412|CE10412|CE10412|
+|Contixo|K101A|K101A|K101A|
 |Contixo|CONTIXO_V8|CONTIXO-V8|V8|
 |Contixo|K101|K101|K101|
 |Contixo|K102|K102|K102|
@@ -10756,6 +10757,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|LT-32N3115A|ikebukuro|AI PONT|
 |JVC|LT-40KB308|ikebukuro|AI PONT|
 |JVC|LT-40N5115A|ikebukuro|AI PONT|
+|JVC|LT-50KC507|sindorim|AI PONT|
 |JVC|LT-50KD507|samseong|AI PONT|
 |JVC|LT-50N7115A|samseong|AI PONT|
 |JVC|LT-55KB597|sindorim|AI PONT|
@@ -10822,6 +10824,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Jivi|Xtreme_3x|Xtreme_3x|Xtreme_3x|
 |Jivi|Xtreme_7|Xtreme_7|Xtreme_7|
 |Jooyon|J110A|J110A|J110A|
+|Jooyon|JSG55UHD-D2|sindorim|AI PONT|
 |Juniper Systems|Cedar CT8|CT8|Cedar CT8|
 |Juniper Systems|Mesa3|MS3A|MS3A|
 |Just5|CF8|CF8|CF8|
@@ -10916,7 +10919,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KEMPLER STRAUSS|KEMPLER_X_TV|KEMPLER_X_TV|KEMPLER_X_TV|
 |KEMPLER STRAUSS|Kempler_X_Pro|Kempler_X_Pro|Kempler_X_Pro|
 |KEMPLER STRAUSS|ZKEMPLER|ZKEMPLER|ZKEMPLER|
-|KEYENCE|BTA700|BTA700|BTA700|
 |KISA phone|KPAU04|KPAU04|KPAU04|
 |KNC (LK)|TPC_XTE10D|TPC_XTE10D|TPC_XTE10D|
 |KONKA|KM7012BK|KM7012BK|KM7012BK|
@@ -14420,6 +14422,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maxwest|TAB-9G|TAB-9G|TAB-9G|
 |Maze_speed|SSB1000T|SSB1000T|SSB1000T|
 |MeanIT|C4|C4|C4|
+|MeanIT|MTAB32_EEA|MTAB32_EEA|meanIT K10|
 |MeanIT|meanIT C80C81|meanIT_C80C81|meanIT_C80C81|
 |MeanIT|meanIT-X10|meanIT-X10|meanIT X10|
 |MeanIT|meanIT_C10C11|meanIT_C10C11|meanIT_C10C11|
@@ -18415,6 +18418,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prince Mobile|PC9|PC9|PC9|
 |Prism|A55|sindorim|AI PONT|
 |Pritom|K7|K7|K7|
+|Pritom|K7_EEA|K7|K7|
 |Pritom|L10|L10|L10|
 |Pritom|L10_EEA|L10_EEA|L10_EEA|
 |Pritom|P7PRO|P7PRO|P7PRO|
@@ -21997,6 +22001,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS sense2 SH-01L|SH-01L|SH-01L|
 |Sharp|AQUOS sense2 SHV43|MZW|SHV43|
 |Sharp|AQUOS sense3|PCZ-u|SHV45-u|
+|Sharp|AQUOS sense3|SH-M12|SH-M12-y|
 |Sharp|AQUOS sense3 SH-02M|SH-02M|SH-02M|
 |Sharp|AQUOS sense3 SH-M12|SH-M12|SH-M12|
 |Sharp|AQUOS sense3 SHV45|PCZ|SHV45|
@@ -23043,6 +23048,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Southern Telecom|Smartab ST7|ST7|ST7/ST7x|
 |Southern Telecom|Streamachine|X13|X13|
 |Southern Telecom|a4|a4|a4|
+|SoyMomo|LATAM and America|SoyMomo_Lite_V2|SoyMomo_Lite_V2|
 |SoyMomo|S8-RK3368|S8-RK3368|S8-RK3368|
 |SoyMomo|SoyMomo_Lite_V1|SoyMomo_Lite_V1|SoyMomo_Lite_V1|
 |SoyMomo|SoyMomo_Lite_V1_EEA|SoyMomo_Lite_V1|SoyMomo_Lite_V1|
