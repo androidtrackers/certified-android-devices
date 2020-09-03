@@ -2651,6 +2651,11 @@
    "device": "T10"
   },
   {
+   "brand": "WONGKUO",
+   "name": "T10",
+   "device": "T10"
+  },
+  {
    "brand": "Winnovo",
    "name": "T10",
    "device": "T10"
@@ -4110,6 +4115,13 @@
    "brand": "Airpha",
    "name": "Halo3_Pro",
    "device": "Halo3_Pro"
+  }
+ ],
+ "Halo4 Pro": [
+  {
+   "brand": "Airpha",
+   "name": "Halo4 Pro",
+   "device": "Halo4_Pro"
   }
  ],
  "Sense2": [
@@ -6294,6 +6306,13 @@
    "brand": "Positivo",
    "name": "T701 TV",
    "device": "T701"
+  }
+ ],
+ "T701_X": [
+  {
+   "brand": "Alldocube",
+   "name": "T701_X",
+   "device": "T701_X"
   }
  ],
  "T806": [
@@ -22195,6 +22214,13 @@
    "device": "Star7_3G"
   }
  ],
+ "Star8_3G": [
+  {
+   "brand": "CORN",
+   "name": "Star8_3G",
+   "device": "Star8_3G"
+  }
+ ],
  "CP-MUD-M721": [
   {
    "brand": "CP Plus",
@@ -34714,11 +34740,30 @@
    "device": "Star_6_0_G65"
   }
  ],
+ "D60 Pro": [
+  {
+   "brand": "EL (Africa)",
+   "name": "D60_Pro",
+   "device": "D60_Pro"
+  }
+ ],
  "D68": [
   {
    "brand": "EL (Africa)",
    "name": "D68",
    "device": "D68"
+  }
+ ],
+ "W45S": [
+  {
+   "brand": "EL (Africa)",
+   "name": "W45S",
+   "device": "W45S"
+  },
+  {
+   "brand": "Kenxinda",
+   "name": "W45S",
+   "device": "W45S"
   }
  ],
  "W60": [
@@ -40987,13 +41032,6 @@
    "brand": "Fujitsu",
    "name": "F-12C",
    "device": "f11eif"
-  }
- ],
- "F-42A": [
-  {
-   "brand": "Fujitsu",
-   "name": "F-42A",
-   "device": "F42A"
   }
  ],
  "F-51A": [
@@ -52609,6 +52647,13 @@
    "brand": "Hiking",
    "name": "A21",
    "device": "A21"
+  }
+ ],
+ "A22": [
+  {
+   "brand": "Hiking",
+   "name": "A22",
+   "device": "A22"
   }
  ],
  "HIKING_A18": [
@@ -70042,6 +70087,13 @@
    "device": "INOI_5X_Lite"
   }
  ],
+ "INOI 5 2021": [
+  {
+   "brand": "INOI",
+   "name": "INOI_5_2021",
+   "device": "INOI_5_2021"
+  }
+ ],
  "INOI_5i": [
   {
    "brand": "INOI",
@@ -70469,6 +70521,13 @@
    "device": "IK-1028"
   }
  ],
+ "iKU A50": [
+  {
+   "brand": "IkuMobile",
+   "name": "A50",
+   "device": "A50"
+  }
+ ],
  "IKU i3": [
   {
    "brand": "IkuMobile",
@@ -70481,6 +70540,13 @@
    "brand": "IkuMobile",
    "name": "IKU A4",
    "device": "A4"
+  }
+ ],
+ "IKU A40": [
+  {
+   "brand": "IkuMobile",
+   "name": "IKU A40",
+   "device": "A40"
   }
  ],
  "IKU_T3": [
@@ -75301,6 +75367,13 @@
    "device": "Android_TV_BOX"
   }
  ],
+ "AV-10NT310": [
+  {
+   "brand": "JVC",
+   "name": "AV-10NT310",
+   "device": "AV-10NT310"
+  }
+ ],
  "DM65UXR": [
   {
    "brand": "JVC",
@@ -76483,6 +76556,13 @@
    "device": "ZKEMPLER"
   }
  ],
+ "BTA700": [
+  {
+   "brand": "KEYENCE",
+   "name": "BTA700",
+   "device": "BTA700"
+  }
+ ],
  "KPAU04": [
   {
    "brand": "KISA phone",
@@ -77522,13 +77602,6 @@
    "brand": "Kenxinda",
    "name": "W41",
    "device": "W41"
-  }
- ],
- "W45S": [
-  {
-   "brand": "Kenxinda",
-   "name": "W45S",
-   "device": "W45S"
   }
  ],
  "W50M": [
@@ -111211,6 +111284,13 @@
    "device": "NOGAPAD7G"
   }
  ],
+ "NX-20PRO1": [
+  {
+   "brand": "NSPRE",
+   "name": "NX-20PRO1",
+   "device": "NX-20PRO1"
+  }
+ ],
  "SHIELD Android TV": [
   {
    "brand": "NVIDIA",
@@ -121048,6 +121128,13 @@
    "device": "DV8219"
   }
  ],
+ "Hit P10": [
+  {
+   "brand": "Philco",
+   "name": "Hit P10",
+   "device": "Hit_P10"
+  }
+ ],
  "PCS01": [
   {
    "brand": "Philco",
@@ -124239,6 +124326,13 @@
    "device": "S81"
   }
  ],
+ "S82": [
+  {
+   "brand": "Premio",
+   "name": "S82",
+   "device": "S82"
+  }
+ ],
  "186HS2080531": [
   {
    "brand": "Premio",
@@ -125180,6 +125274,13 @@
    "brand": "Prestigio",
    "name": "PMT4227_3G_RU",
    "device": "HP70A2G"
+  }
+ ],
+ "PMT4231_4G_D_EEA": [
+  {
+   "brand": "Prestigio",
+   "name": "PMT4231_4G_D_EEA",
+   "device": "TC10A2L"
   }
  ],
  "PMT4231_4G_D_RU": [
@@ -130214,6 +130315,13 @@
    "brand": "Ruggear",
    "name": "RugGear rg730",
    "device": "rg730"
+  }
+ ],
+ "A870": [
+  {
+   "brand": "Ruio",
+   "name": "A870",
+   "device": "A870"
   }
  ],
  "M675M4": [
@@ -146667,6 +146775,13 @@
    "device": "gts7lwifi"
   }
  ],
+ "SM-T878U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S7 5G",
+   "device": "gts7l"
+  }
+ ],
  "SM-T975": [
   {
    "brand": "Samsung",
@@ -148366,6 +148481,34 @@
    "brand": "Samsung",
    "name": "Galaxy Z Flip 5G",
    "device": "bloomxq"
+  }
+ ],
+ "SM-F9160": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold2 5G",
+   "device": "f2q"
+  }
+ ],
+ "SM-F916B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold2 5G",
+   "device": "f2q"
+  }
+ ],
+ "SM-F916N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold2 5G",
+   "device": "f2q"
+  }
+ ],
+ "SM-F916U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold2 5G",
+   "device": "f2q"
   }
  ],
  "SM-F916U1": [
@@ -152402,6 +152545,11 @@
    "brand": "Sky Devices",
    "name": "Elite A5",
    "device": "Elite_A5"
+  },
+  {
+   "brand": "Sky Devices",
+   "name": "Elite A5",
+   "device": "Elite_AMS"
   }
  ],
  "Elite_A55": [
@@ -152777,6 +152925,11 @@
    "brand": "Sky Devices",
    "name": "SKY Black",
    "device": "SKY_Black"
+  },
+  {
+   "brand": "Sky Devices",
+   "name": "SKY Black",
+   "device": "TIBLA28"
   }
  ],
  "SKY Prestige": [
@@ -157754,6 +157907,13 @@
    "device": "RIO_STAR"
   }
  ],
+ "STARLIGHT Android TV": [
+  {
+   "brand": "Starlight",
+   "name": "Rumania",
+   "device": "yeongdeungpo"
+  }
+ ],
  "STAR PRO": [
   {
    "brand": "Starlight",
@@ -159448,6 +159608,18 @@
    "brand": "TCL",
    "name": "BeyondTV2",
    "device": "BeyondTV"
+  }
+ ],
+ "Smart TV Pro": [
+  {
+   "brand": "TCL",
+   "name": "BeyondTV4",
+   "device": "BeyondTV4"
+  },
+  {
+   "brand": "TCL",
+   "name": "BeyondTV6",
+   "device": "BeyondTV4"
   }
  ],
  "BeyondTV5": [
@@ -172985,6 +173157,13 @@
    "device": "TriaPlayBox"
   }
  ],
+ "A23 Max": [
+  {
+   "brand": "Trident",
+   "name": "A23 Max",
+   "device": "A23_Max"
+  }
+ ],
  "Passion-1S": [
   {
    "brand": "Trifone",
@@ -174875,6 +175054,13 @@
    "device": "VucaPad_N20"
   }
  ],
+ "VucaPad_N20_LTE": [
+  {
+   "brand": "VUCATIMES",
+   "name": "VucaPad_N20_LTE",
+   "device": "VucaPad_N20_LTE"
+  }
+ ],
  "TAB0001NG": [
   {
    "brand": "Valo Innovations",
@@ -174887,6 +175073,13 @@
    "brand": "Vankyo",
    "name": "P31",
    "device": "P31"
+  }
+ ],
+ "P31-E": [
+  {
+   "brand": "Vankyo",
+   "name": "P31-E",
+   "device": "P31-E_EEA"
   }
  ],
  "QTAB1010X": [
@@ -182890,6 +183083,13 @@
    "brand": "X-TIGI",
    "name": "Hope7_Mate",
    "device": "Hope7_Mate"
+  }
+ ],
+ "Hope7 Max": [
+  {
+   "brand": "X-TIGI",
+   "name": "Hope7_Max",
+   "device": "Hope7_Max"
   }
  ],
  "JOY10_LTE": [

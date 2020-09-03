@@ -2614,6 +2614,11 @@
    "model": "Halo3_Pro"
   },
   {
+   "device": "Halo4_Pro",
+   "name": "Halo4 Pro",
+   "model": "Halo4 Pro"
+  },
+  {
    "device": "Sense2",
    "name": "Sense2",
    "model": "Sense2"
@@ -3936,6 +3941,11 @@
    "device": "T701",
    "name": "T701",
    "model": "T701"
+  },
+  {
+   "device": "T701_X",
+   "name": "T701_X",
+   "model": "T701_X"
   },
   {
    "device": "T806",
@@ -15309,6 +15319,11 @@
    "device": "Star7_3G",
    "name": "Star7_3G",
    "model": "Star7 3G"
+  },
+  {
+   "device": "Star8_3G",
+   "name": "Star8_3G",
+   "model": "Star8_3G"
   }
  ],
  "CP Plus": [
@@ -24594,9 +24609,19 @@
  ],
  "EL (Africa)": [
   {
+   "device": "D60_Pro",
+   "name": "D60_Pro",
+   "model": "D60 Pro"
+  },
+  {
    "device": "D68",
    "name": "D68",
    "model": "D68"
+  },
+  {
+   "device": "W45S",
+   "name": "W45S",
+   "model": "W45S"
   },
   {
    "device": "W60",
@@ -29164,11 +29189,6 @@
    "device": "f11eif",
    "name": "F-12C",
    "model": "F-12C"
-  },
-  {
-   "device": "F42A",
-   "name": "F-42A",
-   "model": "F-42A"
   },
   {
    "device": "F51A",
@@ -37927,6 +37947,11 @@
    "device": "A21",
    "name": "A21",
    "model": "A21"
+  },
+  {
+   "device": "A22",
+   "name": "A22",
+   "model": "A22"
   },
   {
    "device": "HIKING_A18",
@@ -51074,6 +51099,11 @@
    "model": "INOI_5X_Lite"
   },
   {
+   "device": "INOI_5_2021",
+   "name": "INOI_5_2021",
+   "model": "INOI 5 2021"
+  },
+  {
    "device": "INOI_5i",
    "name": "INOI_5i",
    "model": "INOI_5i"
@@ -51447,6 +51477,11 @@
    "model": "A30"
   },
   {
+   "device": "A50",
+   "name": "A50",
+   "model": "iKU A50"
+  },
+  {
    "device": "A6",
    "name": "A6",
    "model": "A6"
@@ -51460,6 +51495,11 @@
    "device": "A4",
    "name": "IKU A4",
    "model": "IKU A4"
+  },
+  {
+   "device": "A40",
+   "name": "IKU A40",
+   "model": "IKU A40"
   },
   {
    "device": "IKU_T3",
@@ -55175,6 +55215,11 @@
    "model": "4K_Edition"
   },
   {
+   "device": "AV-10NT310",
+   "name": "AV-10NT310",
+   "model": "AV-10NT310"
+  },
+  {
    "device": "mstarnapoli_atsc",
    "name": "DM65UXR\\DM65USR\\DM85UXR",
    "model": "DM65UXR"
@@ -56127,6 +56172,13 @@
    "device": "ZKEMPLER",
    "name": "ZKEMPLER",
    "model": "ZKEMPLER"
+  }
+ ],
+ "KEYENCE": [
+  {
+   "device": "BTA700",
+   "name": "BTA700",
+   "model": "BTA700"
   }
  ],
  "KISA phone": [
@@ -82812,6 +82864,13 @@
    "model": "NOGAPAD7G"
   }
  ],
+ "NSPRE": [
+  {
+   "device": "NX-20PRO1",
+   "name": "NX-20PRO1",
+   "model": "NX-20PRO1"
+  }
+ ],
  "NVIDIA": [
   {
    "device": "foster",
@@ -90630,6 +90689,11 @@
  ],
  "Philco": [
   {
+   "device": "Hit_P10",
+   "name": "Hit P10",
+   "model": "Hit P10"
+  },
+  {
    "device": "PCS01",
    "name": "PCS01",
    "model": "PCS01"
@@ -93145,6 +93209,11 @@
    "model": "S81"
   },
   {
+   "device": "S82",
+   "name": "S82",
+   "model": "S82"
+  },
+  {
    "device": "186HS2080531",
    "name": "X1",
    "model": "186HS2080531"
@@ -93827,6 +93896,11 @@
    "device": "HP70A2G",
    "name": "PMT4227_3G_RU",
    "model": "PMT4227_3G_RU"
+  },
+  {
+   "device": "TC10A2L",
+   "name": "PMT4231_4G_D_EEA",
+   "model": "PMT4231_4G_D_EEA"
   },
   {
    "device": "TC10A2L",
@@ -97782,6 +97856,11 @@
   }
  ],
  "Ruio": [
+  {
+   "device": "A870",
+   "name": "A870",
+   "model": "A870"
+  },
   {
    "device": "M671M3",
    "name": "Cola",
@@ -109818,6 +109897,11 @@
    "model": "SM-T870"
   },
   {
+   "device": "gts7l",
+   "name": "Galaxy Tab S7 5G",
+   "model": "SM-T878U"
+  },
+  {
    "device": "gts7xl",
    "name": "Galaxy Tab S7+",
    "model": "SM-T975"
@@ -111116,6 +111200,26 @@
    "device": "bloomxq",
    "name": "Galaxy Z Flip 5G",
    "model": "SM-F707W"
+  },
+  {
+   "device": "f2q",
+   "name": "Galaxy Z Fold2 5G",
+   "model": "SM-F9160"
+  },
+  {
+   "device": "f2q",
+   "name": "Galaxy Z Fold2 5G",
+   "model": "SM-F916B"
+  },
+  {
+   "device": "f2q",
+   "name": "Galaxy Z Fold2 5G",
+   "model": "SM-F916N"
+  },
+  {
+   "device": "f2q",
+   "name": "Galaxy Z Fold2 5G",
+   "model": "SM-F916U"
   },
   {
    "device": "f2q",
@@ -114230,6 +114334,11 @@
    "model": "Elite A5"
   },
   {
+   "device": "Elite_AMS",
+   "name": "Elite A5",
+   "model": "Elite A5"
+  },
+  {
    "device": "Elite_A55",
    "name": "Elite A55",
    "model": "Elite_A55"
@@ -114511,6 +114620,11 @@
   },
   {
    "device": "SKY_Black",
+   "name": "SKY Black",
+   "model": "SKY Black"
+  },
+  {
+   "device": "TIBLA28",
    "name": "SKY Black",
    "model": "SKY Black"
   },
@@ -118417,6 +118531,11 @@
    "model": "RIO STAR"
   },
   {
+   "device": "yeongdeungpo",
+   "name": "Rumania",
+   "model": "STARLIGHT Android TV"
+  },
+  {
    "device": "STAR_PRO",
    "name": "STAR PRO",
    "model": "STAR PRO"
@@ -119836,9 +119955,19 @@
    "model": "BeyondTV2"
   },
   {
+   "device": "BeyondTV4",
+   "name": "BeyondTV4",
+   "model": "Smart TV Pro"
+  },
+  {
    "device": "BeyondTV",
    "name": "BeyondTV5",
    "model": "BeyondTV5"
+  },
+  {
+   "device": "BeyondTV4",
+   "name": "BeyondTV6",
+   "model": "Smart TV Pro"
   },
   {
    "device": "A3A_XL_4G",
@@ -130081,6 +130210,13 @@
    "model": "TriaPlayBox"
   }
  ],
+ "Trident": [
+  {
+   "device": "A23_Max",
+   "name": "A23 Max",
+   "model": "A23 Max"
+  }
+ ],
  "Trifone": [
   {
    "device": "Passion-1S",
@@ -131787,6 +131923,11 @@
    "device": "VucaPad_N20",
    "name": "VucaPad_N20",
    "model": "VucaPad_N20"
+  },
+  {
+   "device": "VucaPad_N20_LTE",
+   "name": "VucaPad_N20_LTE",
+   "model": "VucaPad_N20_LTE"
   }
  ],
  "Valo Innovations": [
@@ -131801,6 +131942,11 @@
    "device": "P31",
    "name": "P31",
    "model": "P31"
+  },
+  {
+   "device": "P31-E_EEA",
+   "name": "P31-E",
+   "model": "P31-E"
   },
   {
    "device": "QTAB1010X_EEA",
@@ -136053,6 +136199,13 @@
    "model": "Willfon_Pad_02"
   }
  ],
+ "WONGKUO": [
+  {
+   "device": "T10",
+   "name": "T10",
+   "model": "T10"
+  }
+ ],
  "Wacom": [
   {
    "device": "CintiqCompanionHybrid13HD",
@@ -138328,6 +138481,11 @@
    "device": "Hope7_Mate",
    "name": "Hope7_Mate",
    "model": "Hope7_Mate"
+  },
+  {
+   "device": "Hope7_Max",
+   "name": "Hope7_Max",
+   "model": "Hope7 Max"
   },
   {
    "device": "MID",
