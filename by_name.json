@@ -89026,6 +89026,13 @@
    "model": "Ilium M7"
   }
  ],
+ "Ilium M7T": [
+  {
+   "brand": "Lanix",
+   "device": "Ilium_M7T",
+   "model": "Ilium M7T"
+  }
+ ],
  "Ilium M9": [
   {
    "brand": "Lanix",
@@ -97051,6 +97058,13 @@
    "brand": "MDC Store",
    "device": "Prime_S",
    "model": "Prime_S"
+  }
+ ],
+ "MEO TV Box 4K": [
+  {
+   "brand": "MEO(Portugal)",
+   "device": "DV8555-MEO",
+   "model": "MEO TV Box 4K"
   }
  ],
  "Any 302": [
@@ -181802,6 +181816,13 @@
    "brand": "ZTE",
    "device": "P840S18",
    "model": "ZTE A0722"
+  }
+ ],
+ "ZTE A20 5G": [
+  {
+   "brand": "ZTE",
+   "device": "P725A02",
+   "model": "ZTE A2121"
   }
  ],
  "ZTE A2017": [

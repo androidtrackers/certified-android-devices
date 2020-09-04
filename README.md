@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-09-03
+Last sync is 2020-09-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12823,6 +12823,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lanix|Ilium M5|Ilium_M5|Ilium M5|
 |Lanix|Ilium M5s|Ilium_M5s|Ilium M5s|
 |Lanix|Ilium M7|Ilium_M7|Ilium M7|
+|Lanix|Ilium M7T|Ilium_M7T|Ilium M7T|
 |Lanix|Ilium M9|Ilium_M9|Ilium M9|
 |Lanix|Ilium M9s|Ilium_M9s|Ilium M9s|
 |Lanix|Ilium PAD i7|ILIUM_PADi7|Ilium PAD i7|
@@ -14177,6 +14178,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MDC Store|Nova Pro|Nova_Pro|Nova Pro|
 |MDC Store|Optima|Optima|Optima|
 |MDC Store|Prime_S|Prime_S|Prime_S|
+|MEO(Portugal)|MEO TV Box 4K|DV8555-MEO|MEO TV Box 4K|
 |MG Series|Any 302|TR10CS2_3|TR10CS2|
 |MG series|Any 302|TR10CS1_15|TR10CS1|
 |MG series|Any 302|TR10CS2_2|TR10CS2|
@@ -28654,6 +28656,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE A0620|P840S13|ZTE A0620|
 |ZTE|ZTE A0622|P817S13|ZTE A0622|
 |ZTE|ZTE A0722|P840S18|ZTE A0722|
+|ZTE|ZTE A20 5G|P725A02|ZTE A2121|
 |ZTE|ZTE A2017|msm8996|ZTE A2017|
 |ZTE|ZTE A2017G|ailsa_ii|ZTE A2017G|
 |ZTE|ZTE A2017U|ailsa_ii|ZTE A2017U|

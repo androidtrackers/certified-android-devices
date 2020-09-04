@@ -65803,6 +65803,11 @@
    "model": "Ilium M7"
   },
   {
+   "device": "Ilium_M7T",
+   "name": "Ilium M7T",
+   "model": "Ilium M7T"
+  },
+  {
    "device": "Ilium_M9",
    "name": "Ilium M9",
    "model": "Ilium M9"
@@ -72667,6 +72672,13 @@
    "device": "Prime_S",
    "name": "Prime_S",
    "model": "Prime_S"
+  }
+ ],
+ "MEO(Portugal)": [
+  {
+   "device": "DV8555-MEO",
+   "name": "MEO TV Box 4K",
+   "model": "MEO TV Box 4K"
   }
  ],
  "MG Series": [
@@ -146766,6 +146778,11 @@
    "device": "P840S18",
    "name": "ZTE A0722",
    "model": "ZTE A0722"
+  },
+  {
+   "device": "P725A02",
+   "name": "ZTE A20 5G",
+   "model": "ZTE A2121"
   },
   {
    "device": "msm8996",
