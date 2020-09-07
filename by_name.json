@@ -21053,6 +21053,13 @@
    "model": "BQru-5503"
   }
  ],
+ "BQ-1024L": [
+  {
+   "brand": "BQru",
+   "device": "BQru-1024L",
+   "model": "BQ-1024L"
+  }
+ ],
  "BQ-1045G": [
   {
    "brand": "BQru",
@@ -21747,6 +21754,13 @@
    "brand": "BQru",
    "device": "BQru-8068L",
    "model": "BQ-8068L"
+  }
+ ],
+ "BQ-8077L": [
+  {
+   "brand": "BQru",
+   "device": "BQru-8077L",
+   "model": "BQ-8077L"
   }
  ],
  "BQru-1022L": [
@@ -40143,6 +40157,11 @@
    "brand": "Gionee",
    "device": "GIONEE_SW17G07",
    "model": "GIONEE M7"
+  },
+  {
+   "brand": "Meberry",
+   "device": "M7",
+   "model": "M7"
   }
  ],
  "MAX_10": [
@@ -47630,6 +47649,18 @@
    "brand": "G-Tab",
    "device": "Q4",
    "model": "Q4"
+  }
+ ],
+ "Q5": [
+  {
+   "brand": "G-Tab",
+   "device": "Q5",
+   "model": "Q5"
+  },
+  {
+   "brand": "ViewSonic",
+   "device": "Q5",
+   "model": "Viewphone Q5"
   }
  ],
  "Q69": [
@@ -70924,6 +70955,13 @@
    "model": "Icon"
   }
  ],
+ "Iris_Plus": [
+  {
+   "brand": "Hurricane",
+   "device": "Iris_Plus",
+   "model": "Iris_Plus"
+  }
+ ],
  "LINK": [
   {
    "brand": "Hurricane",
@@ -93580,6 +93618,13 @@
    "model": "Lenovo TB-X705M"
   }
  ],
+ "Lenovo Tab P11 Pro": [
+  {
+   "brand": "Lenovo",
+   "device": "J706F",
+   "model": "Lenovo TB-J706F"
+  }
+ ],
  "Lenovo Tab V7": [
   {
    "brand": "Lenovo",
@@ -103248,6 +103293,13 @@
    "model": "Kicka 5 Plus"
   }
  ],
+ "Kicka 5 Plus 4G": [
+  {
+   "brand": "Mobiwire",
+   "device": "K5P_4G",
+   "model": "Kicka 5 Plus 4G"
+  }
+ ],
  "Kicka Zoom": [
   {
    "brand": "Mobiwire",
@@ -105776,6 +105828,13 @@
    "brand": "Motorola",
    "device": "blackjack",
    "model": "moto g8 power lite"
+  }
+ ],
+ "moto g(9) plus": [
+  {
+   "brand": "Motorola",
+   "device": "odessa",
+   "model": "moto g(9) plus"
   }
  ],
  "moto g6 play": [
@@ -111731,6 +111790,13 @@
    "model": "QuartzT10-3"
   }
  ],
+ "F21": [
+  {
+   "brand": "ORBYS",
+   "device": "F21",
+   "model": "F21"
+  }
+ ],
  "OR-50UX400S": [
   {
    "brand": "ORCA",
@@ -115969,6 +116035,13 @@
    "brand": "Packard Bell",
    "device": "A5700",
    "model": "A5700"
+  }
+ ],
+ "DAYTONA-G12": [
+  {
+   "brand": "Packard Bell",
+   "device": "DAYTONA-G12",
+   "model": "DAYTONA-G12"
   }
  ],
  "M10400": [
@@ -139491,6 +139564,11 @@
   },
   {
    "brand": "Samsung",
+   "device": "gta4l",
+   "model": "SM-T507"
+  },
+  {
+   "brand": "Samsung",
    "device": "gta4lwifi",
    "model": "SM-T500"
   }
@@ -146180,6 +146258,13 @@
    "model": "SWTV-20AE"
   }
  ],
+ "SWTV-20NA": [
+  {
+   "brand": "Skyworth",
+   "device": "SW4H",
+   "model": "SWTV-20NA"
+  }
+ ],
  "SWTV-20SA": [
   {
    "brand": "Skyworth",
@@ -152085,6 +152170,73 @@
    "model": "TATV-8000"
   }
  ],
+ "3T10 4G": [
+  {
+   "brand": "TCL",
+   "device": "Aquaman_10_4G",
+   "model": "8094T"
+  },
+  {
+   "brand": "TCL",
+   "device": "Aquaman_10_4G",
+   "model": "8094X"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "A3A_10_4G",
+   "model": "8088G"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "A3A_10_4G",
+   "model": "8088X"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Aquaman_10_4G",
+   "model": "8094M"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Aquaman_10_4G",
+   "model": "8094T"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Aquaman_10_4G",
+   "model": "8094T_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Aquaman_10_4G",
+   "model": "8094T_RU"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Aquaman_10_4G",
+   "model": "8094T_TR"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Aquaman_10_4G",
+   "model": "8094X"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Aquaman_10_4G",
+   "model": "8094X_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Aquaman_10_4G",
+   "model": "8094X_RU"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Aquaman_10_4G",
+   "model": "8094X_TR"
+  }
+ ],
  "3T10 WIFI KDDI": [
   {
    "brand": "TCL",
@@ -152614,63 +152766,6 @@
    "brand": "TCT (Alcatel)",
    "device": "Aquaman_10_Smart_WIFI",
    "model": "8092_TR"
-  }
- ],
- "3T10 4G": [
-  {
-   "brand": "TCT (Alcatel)",
-   "device": "A3A_10_4G",
-   "model": "8088G"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "device": "A3A_10_4G",
-   "model": "8088X"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "device": "Aquaman_10_4G",
-   "model": "8094M"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "device": "Aquaman_10_4G",
-   "model": "8094T"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "device": "Aquaman_10_4G",
-   "model": "8094T_EEA"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "device": "Aquaman_10_4G",
-   "model": "8094T_RU"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "device": "Aquaman_10_4G",
-   "model": "8094T_TR"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "device": "Aquaman_10_4G",
-   "model": "8094X"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "device": "Aquaman_10_4G",
-   "model": "8094X_EEA"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "device": "Aquaman_10_4G",
-   "model": "8094X_RU"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "device": "Aquaman_10_4G",
-   "model": "8094X_TR"
   }
  ],
  "4013M": [
@@ -155627,6 +155722,16 @@
   {
    "brand": "TCT (Alcatel)",
    "device": "Seoul",
+   "model": "5002H_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Seoul",
+   "model": "5002H_RU"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Seoul",
    "model": "5002H_TR"
   },
   {
@@ -155663,6 +155768,11 @@
    "brand": "TCT (Alcatel)",
    "device": "Seoul",
    "model": "5002U"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Seoul",
+   "model": "5002V"
   },
   {
    "brand": "TCT (Alcatel)",
@@ -155866,6 +155976,13 @@
    "brand": "TCT (Alcatel)",
    "device": "Jakarta",
    "model": "5030U"
+  }
+ ],
+ "Alcatel 1SE elite edition": [
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Jakarta_Lite",
+   "model": "4087U"
   }
  ],
  "Alcatel 1T 7 WIFI": [
@@ -158926,6 +159043,18 @@
    "brand": "TCT (Alcatel)",
    "device": "U50A_ATT",
    "model": "5041C"
+  }
+ ],
+ "TKEE MAX": [
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Aquaman_10_Kids_WIFI",
+   "model": "8095"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Aquaman_10_Kids_WIFI",
+   "model": "8095_EEA"
   }
  ],
  "Telenor_Smart": [
@@ -167332,13 +167461,6 @@
    "model": "V8802"
   }
  ],
- "Q5": [
-  {
-   "brand": "ViewSonic",
-   "device": "Q5",
-   "model": "Viewphone Q5"
-  }
- ],
  "VIEWSONIC": [
   {
    "brand": "ViewSonic",
@@ -168170,6 +168292,34 @@
    "brand": "Vivo",
    "device": "PD2024",
    "model": "V2024A"
+  }
+ ],
+ "V2027": [
+  {
+   "brand": "Vivo",
+   "device": "2027",
+   "model": "V2027"
+  }
+ ],
+ "V2028": [
+  {
+   "brand": "Vivo",
+   "device": "2027",
+   "model": "V2028"
+  }
+ ],
+ "V2029": [
+  {
+   "brand": "Vivo",
+   "device": "2027",
+   "model": "V2029"
+  }
+ ],
+ "V2032": [
+  {
+   "brand": "Vivo",
+   "device": "2027",
+   "model": "V2032"
   }
  ],
  "V3Lite": [
@@ -169227,6 +169377,20 @@
    "brand": "Viwa",
    "device": "VIWA_VISION",
    "model": "VISION"
+  }
+ ],
+ "VIWA_V10": [
+  {
+   "brand": "Viwa",
+   "device": "VIWA_V10",
+   "model": "VIWA_V10"
+  }
+ ],
+ "VIWA_V20": [
+  {
+   "brand": "Viwa",
+   "device": "VIWA_V20",
+   "model": "VIWA_V20"
   }
  ],
  "StreamPlayer": [
@@ -181217,6 +181381,13 @@
    "brand": "ZTE",
    "device": "Z6201",
    "model": "Z6201V"
+  }
+ ],
+ "Z6250CC": [
+  {
+   "brand": "ZTE",
+   "device": "Z6250",
+   "model": "Z6250CC"
   }
  ],
  "Z6410": [

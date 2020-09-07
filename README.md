@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-09-06
+Last sync is 2020-09-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2083,6 +2083,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|5060|BQru-5060|BQru-5060|
 |BQru|5701L Slim|BQru-5701L|BQ-5701L|
 |BQru|BQ 5503 NICE 2|BQru_5503|BQru-5503|
+|BQru|BQ-1024L|BQru-1024L|BQ-1024L|
 |BQru|BQ-1045G|BQru-1045|BQ-1045|
 |BQru|BQ-1045G|BQru-1045G_2019|BQ-1045G|
 |BQru|BQ-1056L|BQru_1056L|BQru-1056L|
@@ -2183,6 +2184,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-8041L|BQru-8041L|BQ-8041L|
 |BQru|BQ-8067L|BQru-8067L|BQ-8067L|
 |BQru|BQ-8068L|BQru-8068L|BQ-8068L|
+|BQru|BQ-8077L|BQru-8077L|BQ-8077L|
 |BQru|BQru-1022L|BQru-1022L|BQ-1022L|
 |BQru|BQru-1077L|BQru-1077L|BQ-1077L|
 |BQru|BQru-1077L_2019|BQru-1077L_2019|BQ-1077L|
@@ -5721,6 +5723,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Tab|Q2|Q2|Q2|
 |G-Tab|Q2S|Q2S|Q2S|
 |G-Tab|Q4|Q4|Q4|
+|G-Tab|Q5|Q5|Q5|
 |G-Tab|Q69|Q69|Q69|
 |G-Tab|S10|S10|S10|
 |G-Tab|S20|S20|S20|
@@ -9771,6 +9774,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hurricane|INFINITY|INFINITY|INFINITY|
 |Hurricane|Icon|Icon|Icon|
 |Hurricane|Iris|Iris|Iris|
+|Hurricane|Iris_Plus|Iris_Plus|Iris_Plus|
 |Hurricane|LINK|LINK|LINK|
 |Hurricane|Lynx|Lynx|Lynx|
 |Hurricane|Onyx|Hurricane_Onyx|Onyx|
@@ -13633,6 +13637,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab P10|X705F|Lenovo TB-X705F|
 |Lenovo|Lenovo Tab P10|X705L|Lenovo TB-X705L|
 |Lenovo|Lenovo Tab P10|X705M|Lenovo TB-X705M|
+|Lenovo|Lenovo Tab P11 Pro|J706F|Lenovo TB-J706F|
 |Lenovo|Lenovo Tab V7|PB-6505M|Lenovo PB-6505M|
 |Lenovo|Lenovo Tab V7|PB-6505MC|Lenovo PB-6505MC|
 |Lenovo|Lenovo Tab V7|PB-6505NC|Lenovo PB-6505NC|
@@ -14442,6 +14447,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MeanIT|meanIT_X1|meanIT_X1|meanIT_X1|
 |MeanIT|meanIT_X6|meanIT_X6|meanIT_X6|
 |Meberry|M6|M6|M6|
+|Meberry|M7|M7|M7|
 |Mecer|101P51C|101P51C|101P51C|
 |Mecer|101P51D|101P51D|101P51D|
 |Mecer|800P31C|800P31C|800P31C|
@@ -15170,6 +15176,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|Kicka 4 Plus|Kicka_4_Plus|Kicka_4_Plus|
 |Mobiwire|Kicka 5|Kicka_5|Kicka 5|
 |Mobiwire|Kicka 5 Plus|Kicka_5_Plus|Kicka 5 Plus|
+|Mobiwire|Kicka 5 Plus 4G|K5P_4G|Kicka 5 Plus 4G|
 |Mobiwire|Kicka Zoom|Kicka_Zoom|Kicka Zoom|
 |Mobiwire|Kiona|Kiona|Kiona|
 |Mobiwire|Kohana|Kohana|Kohana|
@@ -15661,6 +15668,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g(8) power|sofiar|moto g(8) power|
 |Motorola|moto g(8) power lite|blackjack|moto g(8) power lite|
 |Motorola|moto g(8) power lite|blackjack|moto g8 power lite|
+|Motorola|moto g(9) plus|odessa|moto g(9) plus|
 |Motorola|moto g6 play|jeter|Moto G Play|
 |Motorola|moto g6 play|jeter|moto g(6) play|
 |Motorola|moto p30|robusta|XT1943-1|
@@ -16604,6 +16612,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONYX|AKA Model A|Model_A|Model A|
 |ONYX|QuartzT10-3|QuartzT10-3|QuartzT10-3|
 |ORBYS|F20|F20|F20|
+|ORBYS|F21|F21|F21|
 |ORCA|OR-50UX400S|samseong|AI PONT|
 |OTHO|T1|T1|T1|
 |OTHO|T3|T3|T3|
@@ -17307,6 +17316,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Packard Bell|A4000|A4000|A4000|
 |Packard Bell|A5000|A5000|A5000|
 |Packard Bell|A5700|A5700|A5700|
+|Packard Bell|DAYTONA-G12|DAYTONA-G12|DAYTONA-G12|
 |Packard Bell|M10400|M10400|M10400|
 |Packard Bell|M10500|M10500|M10500|
 |Packard Bell|M10600|M10600|M10600|
@@ -21314,6 +21324,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A7|gta4l|SM-T505|
 |Samsung|Galaxy Tab A7|gta4l|SM-T505C|
 |Samsung|Galaxy Tab A7|gta4l|SM-T505N|
+|Samsung|Galaxy Tab A7|gta4l|SM-T507|
 |Samsung|Galaxy Tab A7|gta4lwifi|SM-T500|
 |Samsung|Galaxy Tab Active|rubenslte|SM-T365|
 |Samsung|Galaxy Tab Active|rubenslte|SM-T365Y|
@@ -22409,6 +22420,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Skyworth|North America|globe_na|globe|
 |Skyworth|North America|shimbashi|2K TV|
 |Skyworth|SWTV-20AE|SW4H|SWTV-20AE|
+|Skyworth|SWTV-20NA|SW4H|SWTV-20NA|
 |Skyworth|SWTV-20SA|SW4H|SWTV-20SA|
 |Skyworth|Skyworth|grape|HPA02|
 |Skyworth|South Africa|open_fhd_sa|open_fhd|
@@ -23412,6 +23424,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TAGITAL|T7K_PLUS|T7K-PLUS|T7K_PLUS|
 |TASKPHONE|T20|T20P|T20|
 |TBC (TW)|TATV_8000|TATV_8000|TATV-8000|
+|TCL|3T10 4G|Aquaman_10_4G|8094T|
+|TCL|3T10 4G|Aquaman_10_4G|8094X|
 |TCL|3T10 WIFI KDDI|Aquaman_10_KDDI|8194|
 |TCL|Beyond TV|BeyondTV|BeyondTV|
 |TCL|BeyondTV2|BeyondTV|BeyondTV2|
@@ -24111,6 +24125,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002F|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002F_EEA|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002H|
+|TCT (Alcatel)|Alcatel 1B|Seoul|5002H_EEA|
+|TCT (Alcatel)|Alcatel 1B|Seoul|5002H_RU|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002H_TR|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002I|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002J|
@@ -24119,6 +24135,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002S|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002T|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002U|
+|TCT (Alcatel)|Alcatel 1B|Seoul|5002V|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002X|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002X_EEA|
 |TCT (Alcatel)|Alcatel 1C|Curie|5003A|
@@ -24158,6 +24175,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030J|
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030M|
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030U|
+|TCT (Alcatel)|Alcatel 1SE elite edition|Jakarta_Lite|4087U|
 |TCT (Alcatel)|Alcatel 1T 7 WIFI|U3A_7_WIFI|8068|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007A|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007G|
@@ -24677,6 +24695,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|TCL_Xess_P17AA|Xess|TCL Xess P17AA|
 |TCT (Alcatel)|TCL_Xess_P17AA_OS|Xess|TCL Xess P17AA|
 |TCT (Alcatel)|TETRA|U50A_ATT|5041C|
+|TCT (Alcatel)|TKEE MAX|Aquaman_10_Kids_WIFI|8095|
+|TCT (Alcatel)|TKEE MAX|Aquaman_10_Kids_WIFI|8095_EEA|
 |TCT (Alcatel)|Telenor_Smart|one_touch_985_gsm|Telenor_Smart|
 |TCT (Alcatel)|Telenor_Smart_Mini|SOUL4|Telenor Smart Mini|
 |TCT (Alcatel)|U3|U3_3G|4049D|
@@ -26198,6 +26218,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2023A|PD2023|V2023A|
 |Vivo|V2024|1920|V2024|
 |Vivo|V2024A|PD2024|V2024A|
+|Vivo|V2027|2027|V2027|
+|Vivo|V2028|2027|V2028|
+|Vivo|V2029|2027|V2029|
+|Vivo|V2032|2027|V2032|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
 |Vivo|V3Lite|V3Lite|vivo V3Lite|
@@ -26367,6 +26391,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Viwa|LIGHT X|LIGHT_X|LIGHT X|
 |Viwa|M4|M4|M4|
 |Viwa|VISION|VIWA_VISION|VISION|
+|Viwa|VIWA_V10|VIWA_V10|VIWA_V10|
+|Viwa|VIWA_V20|VIWA_V20|VIWA_V20|
 |Viwa|X2|VIWA_X2|X2|
 |Vizio|StreamPlayer|VAP430|VAP430|
 |Vizio|VTAB1008|VTAB1008|VTAB1008|
@@ -28569,6 +28595,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z557BL|msm8909|Z557BL|
 |ZTE|Z559DL|Z559DL|Z559DL|
 |ZTE|Z6201V|Z6201|Z6201V|
+|ZTE|Z6250CC|Z6250|Z6250CC|
 |ZTE|Z6410|Z6410|Z6410S|
 |ZTE|Z6530M|Z6530|Z6530M|
 |ZTE|Z6530V|Z6530|Z6530V|
