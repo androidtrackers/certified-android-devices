@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-09-08
+Last sync is 2020-09-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -698,6 +698,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|V3 Viper|V3_Viper|V3_Viper|
 |AllView|V4 Viper|V4_Viper|V4_Viper|
 |AllView|V4 Viper PRO|V4_Viper_PRO|V4_Viper_PRO|
+|AllView|Viva  H1003 LTE|Viva_H1003_LTE|Viva_H1003_LTE|
 |AllView|Viva 1001G|Viva_1001G|Viva_1001G|
 |AllView|Viva 1003G|Viva_1003G|Viva_1003G|
 |AllView|Viva 1003G Lite|Viva_1003G_Lite|Viva_1003G_Lite|
@@ -2587,6 +2588,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|C5L|C0040LL|C5L|
 |Blu|C5L|C0050|C5L|
 |Blu|C5L|C0051LL|C5L|
+|Blu|C5L_2020|C0070WW|C5L 2020|
 |Blu|C5X|C0000UU|C5X|
 |Blu|C5X|C0010LL|C5X|
 |Blu|C6|C031P|C6|
@@ -2631,6 +2633,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G5|G0090|G5|
 |Blu|G5 Plus|G0180LL|G5 Plus|
 |Blu|G5 Plus|G0190|G5 Plus|
+|Blu|G50|G0330WW|G50|
+|Blu|G50 Plus|G0350WW|G50 Plus|
 |Blu|G6|G0210|G6|
 |Blu|G60|G0270WW|G60|
 |Blu|G70|G0250WW|G70|
@@ -4254,6 +4258,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Denso Wave|BHT-1800QWBG-1-A7|BHT-1800QWBG-1-A7|BHT-1800QWBG-1-A7|
 |Denso Wave|BHT-1800QWBG-2-A7|BHT-1800QWBG-2-A7|BHT-1800QWBG-2-A7|
 |Denso Wave|BHT-1800QWBG-3-A7|BHT-1800QWBG-3-A7|BHT-1800QWBG-3-A7|
+|Denver Electronics|SCQ-50001G|SCQ-50001G|SCQ-50001G|
 |Denver Electronics|SDQ-55034L|SDQ-55034L|SDQ-55034L|
 |Denver Electronics|SDQ-55044L|SDQ-55044L|SDQ-55044L|
 |Denver Electronics|SDQ-57004L|SDQ-57004L|SDQ-57004L|
@@ -4291,6 +4296,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Diamond|PSPCL30A0|PSPCL30A0|PSPCL30A0|
 |Dicle|DTABC2|DTABC2|DTABC2|
 |Dicle|DTABPLUS|DTABPLUS|DTABPLUS|
+|Dicle_Tab|Dicle_Tab_Active|Active|Active|
 |Digi|Digi C1|Digi_C1|Digi C1|
 |Digi|Digi C2|Digi_C2|Digi C2|
 |Digi|Digi K2|Digi_K2|Digi K2|
@@ -6046,6 +6052,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gionee|GIONEE GN5007L|GIONEE_BJ17G16|GIONEE GN5007L|
 |Gionee|GIONEE H601|GIONEE_H601|GIONEE S12|
 |Gionee|GIONEE M7L|GIONEE_SW17G07|GIONEE M7L|
+|Gionee|GIONEE MAX|GIONEE_MAX|GIONEE MAX|
 |Gionee|GIONEE X1|GIONEE_SWW1631|GIONEE X1|
 |Gionee|GIONEE_M100|GIONEE_M100|M100|
 |Gionee|GIONEE_M11|GIONEE_M11|M11|
@@ -10124,6 +10131,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 9 Play|Infinix-X680B|Infinix X680B|
 |Infinix|Infinix HOT 9 Play|Infinix-X680C|Infinix X680C|
 |Infinix|Infinix HOT 9 Play|Infinix-X680E|Infinix X680E|
+|Infinix|Infinix HOT 9 Play|Infinix-X680F|Infinix X680F|
 |Infinix|Infinix HOT 9 Pro|Infinix-X655F|Infinix X655F|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604B|
@@ -12763,6 +12771,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LOOQS|L108MR|L108MR|L108MR|
 |LP (TN)|LP_Pro1|LP_Pro1|LP_Pro1|
 |LP (TN)|LP_T70|LP_T70|LP_T70|
+|LP (TN)|Lisa Pro|Lisa_Pro|Lisa Pro|
 |LP (TN)|N-50|LP_N_50|N-50|
 |LP (TN)|N-57|LP_N_57|N-57|
 |LP (TN)|N-57+|N-57-Plus|N-57|
@@ -17370,6 +17379,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|55DX600C|DX600C|TH-55DX600C|
 |Panasonic|AS650C|AS650C|AS650C|
 |Panasonic|AX600C|AX600C|AX600C|
+|Panasonic|Active Surface|surface7|surface7|
 |Panasonic|Altus 18|Altus18|Altus 18|
 |Panasonic|Altus 24|Altus24|Altus 24|
 |Panasonic|Altus 32|Altus32|Altus 32|
@@ -24948,6 +24958,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Techpad|X6|X6|X6|
 |Techpad|i700|i700|Tech Pad i700|
 |Techsonic|TECHR720W|TECHR720W|TECHR720W|
+|Teclast|APEX_P10HD_PRO|APEX_P10HD_PRO|APEX_P10HD_PRO|
 |Teclast|M20_4G|M20_4G|M20_4G|
 |Teclast|P10SE_EEA|P10SE_EEA|P10SE_EEA|
 |Teclast|P10SE_ROW|P10SE_ROW|P10SE_ROW|
@@ -28912,6 +28923,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|L10A|L10A|L10A|
 |Zebra|L10AW|L10AW|L10AW|
 |Zebra|MC18|MC18|MC18N0|
+|Zebra|MC2200|MC2200|MC2200|
 |Zebra|MC3300x|MC3300x|MC3300x|
 |Zebra|MC3300x|MC3300xC|MC3300x|
 |Zebra|MC330K|MC33|MC33|

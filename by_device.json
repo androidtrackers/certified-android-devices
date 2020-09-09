@@ -6238,6 +6238,13 @@
    "model": "V4_Viper_PRO"
   }
  ],
+ "Viva_H1003_LTE": [
+  {
+   "brand": "AllView",
+   "name": "Viva  H1003 LTE",
+   "model": "Viva_H1003_LTE"
+  }
+ ],
  "Viva_1001G": [
   {
    "brand": "AllView",
@@ -20051,6 +20058,13 @@
    "model": "C5L"
   }
  ],
+ "C0070WW": [
+  {
+   "brand": "Blu",
+   "name": "C5L_2020",
+   "model": "C5L 2020"
+  }
+ ],
  "C0000UU": [
   {
    "brand": "Blu",
@@ -20341,6 +20355,20 @@
    "brand": "Blu",
    "name": "G5 Plus",
    "model": "G5 Plus"
+  }
+ ],
+ "G0330WW": [
+  {
+   "brand": "Blu",
+   "name": "G50",
+   "model": "G50"
+  }
+ ],
+ "G0350WW": [
+  {
+   "brand": "Blu",
+   "name": "G50 Plus",
+   "model": "G50 Plus"
   }
  ],
  "G0210": [
@@ -32117,6 +32145,13 @@
    "model": "BHT-1800QWBG-3-A7"
   }
  ],
+ "SCQ-50001G": [
+  {
+   "brand": "Denver Electronics",
+   "name": "SCQ-50001G",
+   "model": "SCQ-50001G"
+  }
+ ],
  "SDQ-55034L": [
   {
    "brand": "Denver Electronics",
@@ -32390,6 +32425,13 @@
    "brand": "Dicle",
    "name": "DTABPLUS",
    "model": "DTABPLUS"
+  }
+ ],
+ "Active": [
+  {
+   "brand": "Dicle_Tab",
+   "name": "Dicle_Tab_Active",
+   "model": "Active"
   }
  ],
  "Digi_C1": [
@@ -44930,6 +44972,13 @@
    "brand": "Gionee",
    "name": "M7",
    "model": "GIONEE M7"
+  }
+ ],
+ "GIONEE_MAX": [
+  {
+   "brand": "Gionee",
+   "name": "GIONEE MAX",
+   "model": "GIONEE MAX"
   }
  ],
  "GIONEE_SWW1631": [
@@ -69242,6 +69291,13 @@
    "model": "Infinix X680E"
   }
  ],
+ "Infinix-X680F": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 9 Play",
+   "model": "Infinix X680F"
+  }
+ ],
  "Infinix-X655F": [
   {
    "brand": "Infinix",
@@ -85548,6 +85604,13 @@
    "brand": "LP (TN)",
    "name": "LP_T70",
    "model": "LP_T70"
+  }
+ ],
+ "Lisa_Pro": [
+  {
+   "brand": "LP (TN)",
+   "name": "Lisa Pro",
+   "model": "Lisa Pro"
   }
  ],
  "LP_N_50": [
@@ -115719,6 +115782,13 @@
    "brand": "Panasonic",
    "name": "AX600C",
    "model": "AX600C"
+  }
+ ],
+ "surface7": [
+  {
+   "brand": "Panasonic",
+   "name": "Active Surface",
+   "model": "surface7"
   }
  ],
  "Altus18": [
@@ -162839,6 +162909,13 @@
    "model": "TECHR720W"
   }
  ],
+ "APEX_P10HD_PRO": [
+  {
+   "brand": "Teclast",
+   "name": "APEX_P10HD_PRO",
+   "model": "APEX_P10HD_PRO"
+  }
+ ],
  "M20_4G": [
   {
    "brand": "Teclast",
@@ -186370,6 +186447,13 @@
    "brand": "Zebra",
    "name": "MC18",
    "model": "MC18N0"
+  }
+ ],
+ "MC2200": [
+  {
+   "brand": "Zebra",
+   "name": "MC2200",
+   "model": "MC2200"
   }
  ],
  "MC3300x": [

@@ -11364,6 +11364,13 @@
    "model": "V4_Viper_PRO"
   }
  ],
+ "Viva  H1003 LTE": [
+  {
+   "brand": "AllView",
+   "device": "Viva_H1003_LTE",
+   "model": "Viva_H1003_LTE"
+  }
+ ],
  "Viva 1001G": [
   {
    "brand": "AllView",
@@ -24992,6 +24999,13 @@
    "model": "TP601E"
   }
  ],
+ "C5L_2020": [
+  {
+   "brand": "Blu",
+   "device": "C0070WW",
+   "model": "C5L 2020"
+  }
+ ],
  "C5X": [
   {
    "brand": "Blu",
@@ -25290,6 +25304,30 @@
    "brand": "Blu",
    "device": "G0190",
    "model": "G5 Plus"
+  }
+ ],
+ "G50": [
+  {
+   "brand": "Blu",
+   "device": "G0330WW",
+   "model": "G50"
+  },
+  {
+   "brand": "Elevate",
+   "device": "G50",
+   "model": "G50"
+  },
+  {
+   "brand": "Haier",
+   "device": "HM-G551-FL",
+   "model": "G50"
+  }
+ ],
+ "G50 Plus": [
+  {
+   "brand": "Blu",
+   "device": "G0350WW",
+   "model": "G50 Plus"
   }
  ],
  "G6": [
@@ -37091,6 +37129,13 @@
    "model": "BHT-1800QWBG-3-A7"
   }
  ],
+ "SCQ-50001G": [
+  {
+   "brand": "Denver Electronics",
+   "device": "SCQ-50001G",
+   "model": "SCQ-50001G"
+  }
+ ],
  "SDQ-55034L": [
   {
    "brand": "Denver Electronics",
@@ -37353,6 +37398,13 @@
    "brand": "Dicle",
    "device": "DTABPLUS",
    "model": "DTABPLUS"
+  }
+ ],
+ "Dicle_Tab_Active": [
+  {
+   "brand": "Dicle_Tab",
+   "device": "Active",
+   "model": "Active"
   }
  ],
  "Digi C1": [
@@ -41859,18 +41911,6 @@
    "brand": "Tecno",
    "device": "TECNO-W3",
    "model": "TECNO-W3"
-  }
- ],
- "G50": [
-  {
-   "brand": "Elevate",
-   "device": "G50",
-   "model": "G50"
-  },
-  {
-   "brand": "Haier",
-   "device": "HM-G551-FL",
-   "model": "G50"
   }
  ],
  "G55_LITE": [
@@ -49832,6 +49872,13 @@
    "brand": "Gionee",
    "device": "GIONEE_SW17G07",
    "model": "GIONEE M7L"
+  }
+ ],
+ "GIONEE MAX": [
+  {
+   "brand": "Gionee",
+   "device": "GIONEE_MAX",
+   "model": "GIONEE MAX"
   }
  ],
  "GIONEE X1": [
@@ -73290,6 +73337,11 @@
    "brand": "Infinix",
    "device": "Infinix-X680E",
    "model": "Infinix X680E"
+  },
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X680F",
+   "model": "Infinix X680F"
   }
  ],
  "Infinix HOT 9 Pro": [
@@ -88629,6 +88681,13 @@
    "brand": "LP (TN)",
    "device": "LP_T70",
    "model": "LP_T70"
+  }
+ ],
+ "Lisa Pro": [
+  {
+   "brand": "LP (TN)",
+   "device": "Lisa_Pro",
+   "model": "Lisa Pro"
   }
  ],
  "N-50": [
@@ -116377,6 +116436,13 @@
    "brand": "Panasonic",
    "device": "AX600C",
    "model": "AX600C"
+  }
+ ],
+ "Active Surface": [
+  {
+   "brand": "Panasonic",
+   "device": "surface7",
+   "model": "surface7"
   }
  ],
  "Altus 18": [
@@ -160551,6 +160617,13 @@
    "model": "TECHR720W"
   }
  ],
+ "APEX_P10HD_PRO": [
+  {
+   "brand": "Teclast",
+   "device": "APEX_P10HD_PRO",
+   "model": "APEX_P10HD_PRO"
+  }
+ ],
  "M20_4G": [
   {
    "brand": "Teclast",
@@ -183499,6 +183572,13 @@
    "brand": "Zebra",
    "device": "MC18",
    "model": "MC18N0"
+  }
+ ],
+ "MC2200": [
+  {
+   "brand": "Zebra",
+   "device": "MC2200",
+   "model": "MC2200"
   }
  ],
  "MC3300x": [

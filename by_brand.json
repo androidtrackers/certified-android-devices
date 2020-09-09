@@ -3616,6 +3616,11 @@
    "model": "V4_Viper_PRO"
   },
   {
+   "device": "Viva_H1003_LTE",
+   "name": "Viva  H1003 LTE",
+   "model": "Viva_H1003_LTE"
+  },
+  {
    "device": "Viva_1001G",
    "name": "Viva 1001G",
    "model": "Viva_1001G"
@@ -13289,6 +13294,11 @@
    "model": "C5L"
   },
   {
+   "device": "C0070WW",
+   "name": "C5L_2020",
+   "model": "C5L 2020"
+  },
+  {
    "device": "C0000UU",
    "name": "C5X",
    "model": "C5X"
@@ -13507,6 +13517,16 @@
    "device": "G0190",
    "name": "G5 Plus",
    "model": "G5 Plus"
+  },
+  {
+   "device": "G0330WW",
+   "name": "G50",
+   "model": "G50"
+  },
+  {
+   "device": "G0350WW",
+   "name": "G50 Plus",
+   "model": "G50 Plus"
   },
   {
    "device": "G0210",
@@ -21984,6 +22004,11 @@
  ],
  "Denver Electronics": [
   {
+   "device": "SCQ-50001G",
+   "name": "SCQ-50001G",
+   "model": "SCQ-50001G"
+  },
+  {
    "device": "SDQ-55034L",
    "name": "SDQ-55034L",
    "model": "SDQ-55034L"
@@ -22179,6 +22204,13 @@
    "device": "DTABPLUS",
    "name": "DTABPLUS",
    "model": "DTABPLUS"
+  }
+ ],
+ "Dicle_Tab": [
+  {
+   "device": "Active",
+   "name": "Dicle_Tab_Active",
+   "model": "Active"
   }
  ],
  "Digi": [
@@ -31398,6 +31430,11 @@
    "device": "GIONEE_SW17G07",
    "name": "GIONEE M7L",
    "model": "GIONEE M7L"
+  },
+  {
+   "device": "GIONEE_MAX",
+   "name": "GIONEE MAX",
+   "model": "GIONEE MAX"
   },
   {
    "device": "GIONEE_SWW1631",
@@ -52044,6 +52081,11 @@
    "model": "Infinix X680E"
   },
   {
+   "device": "Infinix-X680F",
+   "name": "Infinix HOT 9 Play",
+   "model": "Infinix X680F"
+  },
+  {
    "device": "Infinix-X655F",
    "name": "Infinix HOT 9 Pro",
    "model": "Infinix X655F"
@@ -65481,6 +65523,11 @@
    "device": "LP_T70",
    "name": "LP_T70",
    "model": "LP_T70"
+  },
+  {
+   "device": "Lisa_Pro",
+   "name": "Lisa Pro",
+   "model": "Lisa Pro"
   },
   {
    "device": "LP_N_50",
@@ -89172,6 +89219,11 @@
    "device": "AX600C",
    "name": "AX600C",
    "model": "AX600C"
+  },
+  {
+   "device": "surface7",
+   "name": "Active Surface",
+   "model": "surface7"
   },
   {
    "device": "Altus18",
@@ -127732,6 +127784,11 @@
  ],
  "Teclast": [
   {
+   "device": "APEX_P10HD_PRO",
+   "name": "APEX_P10HD_PRO",
+   "model": "APEX_P10HD_PRO"
+  },
+  {
    "device": "M20_4G",
    "name": "M20_4G",
    "model": "M20_4G"
@@ -148074,6 +148131,11 @@
    "device": "MC18",
    "name": "MC18",
    "model": "MC18N0"
+  },
+  {
+   "device": "MC2200",
+   "name": "MC2200",
+   "model": "MC2200"
   },
   {
    "device": "MC3300x",
