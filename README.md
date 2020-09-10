@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-09-09
+Last sync is 2020-09-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2926,6 +2926,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CALME|LT5|LT5|LT5|
 |CANAL-PLUS|CANALATV1|HY40A2|CANAL PLUS BOX|
 |CANAL-PLUS|CANALATV1|HY40A2|CANALATV1|
+|CANAL-PLUS|Poland|HY40A2|CANAL PLUS BOX|
 |CBN Media|connect|connect|connect|
 |CBN Media|g-mee1|g-mee1|g-mee1|
 |CCC|AirStick|ts201|AIrStick|
@@ -2979,6 +2980,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CORN|R40|R40|R40|
 |CORN|R60|R60|CORN R60|
 |CORN|Star7_3G|Star7_3G|Star7 3G|
+|CORN|Star8|Corn_Star8|CORN Star8|
 |CORN|Star8_3G|Star8_3G|Star8_3G|
 |CP Plus|CP-MUD-M721|CP-MUD-M721|CP-MUD-M721|
 |CX Argentina|CX9011|CX9011|CX9011|
@@ -5715,6 +5717,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fxtec|Fxtec QX1000|QX1000|QX1000|
 |G Y P NEW TREE SA|VIEWPAD M10M|M10M|VIEWPAD M10M|
 |G-Guard|fushan_Guard|hamamatsucho|Smart TV|
+|G-Guard|xiaoyushan_emG|xiaoyushan|HiSmartTV A4|
 |G-TOUCH|Stella X|Stella_X|Stella X|
 |G-TOUCH|Stella XS|Stella_XS|Stella XS|
 |G-TOUCH|Stella_Omega|Stella_Omega|Stella Omega|
@@ -5731,6 +5734,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Tab|P733|P733|P733|
 |G-Tab|Q2|Q2|Q2|
 |G-Tab|Q2S|Q2S|Q2S|
+|G-Tab|Q3|Q3|Q3|
 |G-Tab|Q4|Q4|Q4|
 |G-Tab|Q5|Q5|Q5|
 |G-Tab|Q69|Q69|Q69|
@@ -6132,6 +6136,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gionee|S11|GIONEE_SW17G13|GIONEE S11|
 |Gionee|S11 lite|GIONEE_SW17G15|GIONEE S11 lite|
 |Gionee|S11L|GIONEE_SW17G13|GIONEE S11L|
+|Gionee|S12 Lite|S12_Lite|S12 Lite|
 |Gionee|S5.1|GN9005|GN9005|
 |Gionee|S5.1|S5_1|S5.1|
 |Gionee|S5.5|S5_5|S5.5|
@@ -6199,6 +6204,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gonna|Zebra|Zebra|Zebra|
 |Goo|g08|v12dn|View Prime|
 |Google|AMD Stoney Ridge Chromebook|grunt_cheets|grunt|
+|Google|APAC|SW3H_ATV|SWTV|
+|Google|Asia|SW3_ATV|SWTV|
 |Google|Chromebook 14 (CB3-431)|edgar_cheets|Acer Chromebook 14 (CB3-431)|
 |Google|Chromebook 14 (CB3-431)|edgar_cheets|Chromebook 14 (CB3-431)|
 |Google|Chromebook Pixel (2015)|samus_cheets|Google Chromebook Pixel (2015)|
@@ -8011,6 +8018,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|xiaoyushan|xiaoyushan|HAT4KDTV|
 |Hisense|xiaoyushan|xiaoyushan|HiSmartTV A4|
 |Hisense|xiaoyushan-em|xiaoyushan|HiSmartTV A4|
+|Hisense|xiaoyushan-sa|xiaoyushan|HiSmartTV A4|
+|Hisense|xiaoyushan_riviera|xiaoyushan|HiSmartTV A4|
 |Hisense|xinhaoshan|xinhaoshan|HiSmart 4K ATV4|
 |Hitachi|Android TV|R1|ATV R1|
 |Hitachi|Android TV|R2|ATV R2|
@@ -10766,6 +10775,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JP Sacouto|TF10EA2|TF10EA2_Medical_2|CASEBOOK_3|
 |JP Sacouto|Verdite Hill|JP_MOVE_S101|Verdite Hill|
 |JP Sacouto|mymaga CLASS Plus 2|MG101A4T|mymaga CLASS Plus 2|
+|JUSYEA|J3|JUSYEA_J3|J3|
 |JVC||gener|RY-AP1|
 |JVC|4K_Edition|Android_TV_BOX|4K_Edition|
 |JVC|AV-10NT310|AV-10NT310|AV-10NT310|
@@ -10960,6 +10970,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KONKA|SE1|SE1|SE1|
 |KONKA|SE2|SE2|SE2|
 |KONKA|SP10|SP10|SP10|
+|KONKA|SP20|SP20|SP20|
 |KONKA|SP3|SP3|SP3|
 |KONKA|SP5|SP5|SP5|
 |KONKA|SP9|SP9|SP9|
@@ -13637,6 +13648,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M10 FHD Plus|X606F|Lenovo TB-X606F|
 |Lenovo|Lenovo Tab M10 FHD Plus|X606M|Lenovo TB-X606M|
 |Lenovo|Lenovo Tab M10 FHD Plus|X606X|Lenovo TB-X606X|
+|Lenovo|Lenovo Tab M10 FHD Plus|X616M|Lenovo TB-X616M|
 |Lenovo|Lenovo Tab M10 FHD Rel|801LV|801LV|
 |Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306F|Lenovo TB-X306F|
 |Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306FA|Lenovo TB-X306FA|
@@ -22443,9 +22455,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SkyLife|UHD_S56AT|INTEKS19SS|UHD_S56AT|
 |SkyLife|skylife LTE TV|DMTS17SS|DMT_1621|
 |Skyview|M5|M5|M5|
-|Skyworth|APAC|SW3H_ATV|SWTV|
 |Skyworth|APAC 2K TV|shibuya|SWTV|
-|Skyworth|Asia|SW3_ATV|SWTV|
 |Skyworth|Asia|globe_ap|globe|
 |Skyworth|Asia|open_fhd_ap|open_fhd|
 |Skyworth|Asia|open_uhd_ap|open_uhd|
@@ -23236,6 +23246,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sts-tottori|JR-500|JR-500|JR-500|
 |Sts-tottori|JR-P2000|JR-P2000|JR-P2000|
 |Sts-tottori|TAB-A03|TAB-A03|TAB-A03-SD|
+|Stylo|BOLD PLUS|BOLD_PLUS|BOLD_PLUS|
 |Stylo|Destiny|Destiny|Destiny|
 |Stylo|Energy|Energy|Energy|
 |Stylo|Ithemba|Ithemba|Ithemba|
@@ -24972,6 +24983,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P80X_EEA|P80X|P80X|
 |Teclast|P80X_EEA|P80X|P80X_EEA|
 |Teclast|P80h_EEA|P80h_EEA|P80h_EEA|
+|Teclast|P80h_ROW|P80h_ROW|P80h_ROW|
 |Teclast|T30_EEA|T30|T30_EEA|
 |Teclast|T30_ROW|T30|T30_ROW|
 |Teclast|T30_RU|T30|T30_RU|
@@ -25447,6 +25459,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Toshiba|laoshan_Toshiba|laoshan|U7900|
 |Toshiba|tt300/tt301/tt302|Mozart|Mozart|
 |Toshiba|xiaoyushan_emT|xiaoyushan|HiSmartTV A4|
+|Toshiba|xiaoyushan_etT|xiaoyushan|HiSmartTV A4|
 |Toshiba Tec Corporation|TBL-300|TBL-300|TBL-300|
 |Touch plus|770G|770G|770G|
 |Touch plus|770N|770N|770N|
@@ -25830,6 +25843,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vankyo|Z4|Z4|Z4|
 |Vankyo|Z4_EEA|Z4_EEA|Z4_EEA|
 |Vankyo|s8|S8|S8|
+|Vastking|H20|H20|H20|
 |Vava|V1|V1|V1|
 |Vava|V1 Plus|V1_Plus|V1 Plus|
 |Vava|V2|V2|V2|
@@ -27083,6 +27097,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |X-PREMIUM|X1|X1|X1|
 |X-PREMIUM|X_1|X_1|X_1|
 |X-TEK|X2|X2|X2|
+|X-TIGI|A20S|A20S|A20S|
 |X-TIGI|A3|A3|A3|
 |X-TIGI|Hope10_Pro|Hope10_Pro|Hope10 Pro|
 |X-TIGI|Hope7_Mate|Hope7_Mate|Hope7_Mate|
@@ -27392,6 +27407,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |YesTeL|T5|T5|T5|
 |YesTeL|T5_EEA|T5_EEA|T5_EEA|
 |YesTeL|X7_EEA|X7_EEA|X7_EEA|
+|YesTeL|X8|YESTEL_X8|X8|
 |Yezz|4E|4E|4E|
 |Yezz|5.5M|5_5M|5.5M|
 |Yezz|5E|5E|5E|

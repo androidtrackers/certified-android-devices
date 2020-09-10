@@ -15052,6 +15052,11 @@
    "device": "HY40A2",
    "name": "CANALATV1",
    "model": "CANALATV1"
+  },
+  {
+   "device": "HY40A2",
+   "name": "Poland",
+   "model": "CANAL PLUS BOX"
   }
  ],
  "CBN Media": [
@@ -15359,6 +15364,11 @@
    "device": "Star7_3G",
    "name": "Star7_3G",
    "model": "Star7 3G"
+  },
+  {
+   "device": "Corn_Star8",
+   "name": "Star8",
+   "model": "CORN Star8"
   },
   {
    "device": "Star8_3G",
@@ -29653,6 +29663,11 @@
    "device": "hamamatsucho",
    "name": "fushan_Guard",
    "model": "Smart TV"
+  },
+  {
+   "device": "xiaoyushan",
+   "name": "xiaoyushan_emG",
+   "model": "HiSmartTV A4"
   }
  ],
  "G-TOUCH": [
@@ -29737,6 +29752,11 @@
    "device": "Q2S",
    "name": "Q2S",
    "model": "Q2S"
+  },
+  {
+   "device": "Q3",
+   "name": "Q3",
+   "model": "Q3"
   },
   {
    "device": "Q4",
@@ -31832,6 +31852,11 @@
    "model": "GIONEE S11L"
   },
   {
+   "device": "S12_Lite",
+   "name": "S12 Lite",
+   "model": "S12 Lite"
+  },
+  {
    "device": "GN9005",
    "name": "S5.1",
    "model": "GN9005"
@@ -32193,6 +32218,16 @@
    "device": "grunt_cheets",
    "name": "AMD Stoney Ridge Chromebook",
    "model": "grunt"
+  },
+  {
+   "device": "SW3H_ATV",
+   "name": "APAC",
+   "model": "SWTV"
+  },
+  {
+   "device": "SW3_ATV",
+   "name": "Asia",
+   "model": "SWTV"
   },
   {
    "device": "edgar_cheets",
@@ -41354,6 +41389,16 @@
   {
    "device": "xiaoyushan",
    "name": "xiaoyushan-em",
+   "model": "HiSmartTV A4"
+  },
+  {
+   "device": "xiaoyushan",
+   "name": "xiaoyushan-sa",
+   "model": "HiSmartTV A4"
+  },
+  {
+   "device": "xiaoyushan",
+   "name": "xiaoyushan_riviera",
    "model": "HiSmartTV A4"
   },
   {
@@ -55312,6 +55357,13 @@
    "model": "mymaga CLASS Plus 2"
   }
  ],
+ "JUSYEA": [
+  {
+   "device": "JUSYEA_J3",
+   "name": "J3",
+   "model": "J3"
+  }
+ ],
  "JVC": [
   {
    "device": "gener",
@@ -56344,6 +56396,11 @@
    "device": "SP10",
    "name": "SP10",
    "model": "SP10"
+  },
+  {
+   "device": "SP20",
+   "name": "SP20",
+   "model": "SP20"
   },
   {
    "device": "SP3",
@@ -69901,6 +69958,11 @@
    "device": "X606X",
    "name": "Lenovo Tab M10 FHD Plus",
    "model": "Lenovo TB-X606X"
+  },
+  {
+   "device": "X616M",
+   "name": "Lenovo Tab M10 FHD Plus",
+   "model": "Lenovo TB-X616M"
   },
   {
    "device": "801LV",
@@ -114963,18 +115025,8 @@
  ],
  "Skyworth": [
   {
-   "device": "SW3H_ATV",
-   "name": "APAC",
-   "model": "SWTV"
-  },
-  {
    "device": "shibuya",
    "name": "APAC 2K TV",
-   "model": "SWTV"
-  },
-  {
-   "device": "SW3_ATV",
-   "name": "Asia",
    "model": "SWTV"
   },
   {
@@ -119015,6 +119067,11 @@
   }
  ],
  "Stylo": [
+  {
+   "device": "BOLD_PLUS",
+   "name": "BOLD PLUS",
+   "model": "BOLD_PLUS"
+  },
   {
    "device": "Destiny",
    "name": "Destiny",
@@ -127854,6 +127911,11 @@
    "model": "P80h_EEA"
   },
   {
+   "device": "P80h_ROW",
+   "name": "P80h_ROW",
+   "model": "P80h_ROW"
+  },
+  {
    "device": "T30",
    "name": "T30_EEA",
    "model": "T30_EEA"
@@ -130321,6 +130383,11 @@
    "device": "xiaoyushan",
    "name": "xiaoyushan_emT",
    "model": "HiSmartTV A4"
+  },
+  {
+   "device": "xiaoyushan",
+   "name": "xiaoyushan_etT",
+   "model": "HiSmartTV A4"
   }
  ],
  "Toshiba Tec Corporation": [
@@ -132382,6 +132449,13 @@
    "device": "S8",
    "name": "s8",
    "model": "S8"
+  }
+ ],
+ "Vastking": [
+  {
+   "device": "H20",
+   "name": "H20",
+   "model": "H20"
   }
  ],
  "Vava": [
@@ -138853,6 +138927,11 @@
  ],
  "X-TIGI": [
   {
+   "device": "A20S",
+   "name": "A20S",
+   "model": "A20S"
+  },
+  {
    "device": "A3",
    "name": "A3",
    "model": "A3"
@@ -140440,6 +140519,11 @@
    "device": "X7_EEA",
    "name": "X7_EEA",
    "model": "X7_EEA"
+  },
+  {
+   "device": "YESTEL_X8",
+   "name": "X8",
+   "model": "X8"
   }
  ],
  "Yezz": [

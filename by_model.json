@@ -21914,6 +21914,11 @@
    "brand": "CANAL-PLUS",
    "name": "CANALATV1",
    "device": "HY40A2"
+  },
+  {
+   "brand": "CANAL-PLUS",
+   "name": "Poland",
+   "device": "HY40A2"
   }
  ],
  "CANALATV1": [
@@ -22283,6 +22288,13 @@
    "brand": "CORN",
    "name": "Star7_3G",
    "device": "Star7_3G"
+  }
+ ],
+ "CORN Star8": [
+  {
+   "brand": "CORN",
+   "name": "Star8",
+   "device": "Corn_Star8"
   }
  ],
  "Star8_3G": [
@@ -37333,6 +37345,11 @@
    "brand": "Evercoss",
    "name": "X8",
    "device": "X8"
+  },
+  {
+   "brand": "YesTeL",
+   "name": "X8",
+   "device": "YESTEL_X8"
   }
  ],
  "X9": [
@@ -41642,6 +41659,53 @@
    "device": "M10M"
   }
  ],
+ "HiSmartTV A4": [
+  {
+   "brand": "G-Guard",
+   "name": "xiaoyushan_emG",
+   "device": "xiaoyushan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "xiaoyushan",
+   "device": "xiaoyushan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "xiaoyushan-em",
+   "device": "xiaoyushan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "xiaoyushan-sa",
+   "device": "xiaoyushan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "xiaoyushan_riviera",
+   "device": "xiaoyushan"
+  },
+  {
+   "brand": "Kalley",
+   "name": "xiaoyushan_kalley",
+   "device": "xiaoyushan"
+  },
+  {
+   "brand": "Toshiba",
+   "name": "xiaoyushan_emT",
+   "device": "xiaoyushan"
+  },
+  {
+   "brand": "Toshiba",
+   "name": "xiaoyushan_etT",
+   "device": "xiaoyushan"
+  },
+  {
+   "brand": "Vu Televisions",
+   "name": "xiaoyushan-vu",
+   "device": "xiaoyushan"
+  }
+ ],
  "Stella X": [
   {
    "brand": "G-TOUCH",
@@ -41774,6 +41838,18 @@
    "brand": "G-Tab",
    "name": "Q2S",
    "device": "Q2S"
+  }
+ ],
+ "Q3": [
+  {
+   "brand": "G-Tab",
+   "name": "Q3",
+   "device": "Q3"
+  },
+  {
+   "brand": "Singtech",
+   "name": "Q3",
+   "device": "Q3"
   }
  ],
  "Q4": [
@@ -44602,6 +44678,13 @@
    "device": "GIONEE_SW17G13"
   }
  ],
+ "S12 Lite": [
+  {
+   "brand": "Gionee",
+   "name": "S12 Lite",
+   "device": "S12_Lite"
+  }
+ ],
  "GN9005": [
   {
    "brand": "Gionee",
@@ -45077,6 +45160,48 @@
    "brand": "Google",
    "name": "AMD Stoney Ridge Chromebook",
    "device": "grunt_cheets"
+  }
+ ],
+ "SWTV": [
+  {
+   "brand": "Google",
+   "name": "APAC",
+   "device": "SW3H_ATV"
+  },
+  {
+   "brand": "Google",
+   "name": "Asia",
+   "device": "SW3_ATV"
+  },
+  {
+   "brand": "Skyworth",
+   "name": "APAC 2K TV",
+   "device": "shibuya"
+  },
+  {
+   "brand": "Skyworth",
+   "name": "Euro",
+   "device": "SW3_ATV"
+  },
+  {
+   "brand": "Skyworth",
+   "name": "Europe",
+   "device": "SW3H_ATV"
+  },
+  {
+   "brand": "Skyworth",
+   "name": "North America",
+   "device": "SW3_ATV"
+  },
+  {
+   "brand": "Skyworth",
+   "name": "South America",
+   "device": "SW3_ATV"
+  },
+  {
+   "brand": "Skyworth",
+   "name": "Taiwan",
+   "device": "SW3H_ATV"
   }
  ],
  "Acer Chromebook 14 (CB3-431)": [
@@ -57093,33 +57218,6 @@
    "brand": "Hisense",
    "name": "vision2_1",
    "device": "vision2_1"
-  }
- ],
- "HiSmartTV A4": [
-  {
-   "brand": "Hisense",
-   "name": "xiaoyushan",
-   "device": "xiaoyushan"
-  },
-  {
-   "brand": "Hisense",
-   "name": "xiaoyushan-em",
-   "device": "xiaoyushan"
-  },
-  {
-   "brand": "Kalley",
-   "name": "xiaoyushan_kalley",
-   "device": "xiaoyushan"
-  },
-  {
-   "brand": "Toshiba",
-   "name": "xiaoyushan_emT",
-   "device": "xiaoyushan"
-  },
-  {
-   "brand": "Vu Televisions",
-   "name": "xiaoyushan-vu",
-   "device": "xiaoyushan"
   }
  ],
  "HiSmart 4K ATV4": [
@@ -75505,6 +75603,13 @@
    "device": "MG101A4T"
   }
  ],
+ "J3": [
+  {
+   "brand": "JUSYEA",
+   "name": "J3",
+   "device": "JUSYEA_J3"
+  }
+ ],
  "RY-AP1": [
   {
    "brand": "JVC",
@@ -76788,6 +76893,13 @@
    "brand": "Unnion Technologies",
    "name": "Unnion SP10",
    "device": "SP10"
+  }
+ ],
+ "SP20": [
+  {
+   "brand": "KONKA",
+   "name": "SP20",
+   "device": "SP20"
   }
  ],
  "SP3": [
@@ -94696,6 +94808,13 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab M10 Plus",
    "device": "X606X"
+  }
+ ],
+ "Lenovo TB-X616M": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M10 FHD Plus",
+   "device": "X616M"
   }
  ],
  "801LV": [
@@ -152679,13 +152798,6 @@
    "device": "Infinity_I_Mix"
   }
  ],
- "Q3": [
-  {
-   "brand": "Singtech",
-   "name": "Q3",
-   "device": "Q3"
-  }
- ],
  "Q7": [
   {
    "brand": "Singtech",
@@ -153358,48 +153470,6 @@
    "brand": "SkyLife",
    "name": "skylife LTE TV",
    "device": "DMTS17SS"
-  }
- ],
- "SWTV": [
-  {
-   "brand": "Skyworth",
-   "name": "APAC",
-   "device": "SW3H_ATV"
-  },
-  {
-   "brand": "Skyworth",
-   "name": "APAC 2K TV",
-   "device": "shibuya"
-  },
-  {
-   "brand": "Skyworth",
-   "name": "Asia",
-   "device": "SW3_ATV"
-  },
-  {
-   "brand": "Skyworth",
-   "name": "Euro",
-   "device": "SW3_ATV"
-  },
-  {
-   "brand": "Skyworth",
-   "name": "Europe",
-   "device": "SW3H_ATV"
-  },
-  {
-   "brand": "Skyworth",
-   "name": "North America",
-   "device": "SW3_ATV"
-  },
-  {
-   "brand": "Skyworth",
-   "name": "South America",
-   "device": "SW3_ATV"
-  },
-  {
-   "brand": "Skyworth",
-   "name": "Taiwan",
-   "device": "SW3H_ATV"
   }
  ],
  "globe": [
@@ -158501,6 +158571,13 @@
    "brand": "Sts-tottori",
    "name": "TAB-A03",
    "device": "TAB-A03"
+  }
+ ],
+ "BOLD_PLUS": [
+  {
+   "brand": "Stylo",
+   "name": "BOLD PLUS",
+   "device": "BOLD_PLUS"
   }
  ],
  "Ithemba": [
@@ -170216,6 +170293,13 @@
    "device": "P80h_EEA"
   }
  ],
+ "P80h_ROW": [
+  {
+   "brand": "Teclast",
+   "name": "P80h_ROW",
+   "device": "P80h_ROW"
+  }
+ ],
  "T30_EEA": [
   {
    "brand": "Teclast",
@@ -175607,6 +175691,13 @@
    "brand": "Vankyo",
    "name": "Z4_EEA",
    "device": "Z4_EEA"
+  }
+ ],
+ "H20": [
+  {
+   "brand": "Vastking",
+   "name": "H20",
+   "device": "H20"
   }
  ],
  "V1 Plus": [
@@ -183575,6 +183666,13 @@
    "brand": "X-PREMIUM",
    "name": "X_1",
    "device": "X_1"
+  }
+ ],
+ "A20S": [
+  {
+   "brand": "X-TIGI",
+   "name": "A20S",
+   "device": "A20S"
   }
  ],
  "Hope10 Pro": [
