@@ -13078,11 +13078,6 @@
    "model": "AQUA Android TV 2K"
   },
   {
-   "brand": "Google",
-   "device": "SW3H_ATV",
-   "model": "SWTV"
-  },
-  {
    "brand": "Haier",
    "device": "hanyang",
    "model": "Haitech Android TV"
@@ -14269,6 +14264,13 @@
    "brand": "Archos",
    "device": "ac40as3g",
    "model": "ALBA 4"
+  }
+ ],
+ "ARCHOS T101 4G": [
+  {
+   "brand": "Archos",
+   "device": "act1014g",
+   "model": "Archos T 101 4G"
   }
  ],
  "Alba 10": [
@@ -29826,6 +29828,13 @@
    "model": "Superion S1 Plus DTV"
   }
  ],
+ "A860": [
+  {
+   "brand": "Cherry Mobile",
+   "device": "A860",
+   "model": "A860"
+  }
+ ],
  "A890": [
   {
    "brand": "Cherry Mobile",
@@ -31479,6 +31488,11 @@
    "brand": "Cogeco",
    "device": "uiw4020cog",
    "model": "TV"
+  },
+  {
+   "brand": "Google",
+   "device": "SW3H_ATV",
+   "model": "SWTV"
   },
   {
    "brand": "Hisense",
@@ -93764,6 +93778,11 @@
  "Lenovo Tab M10 HD (2nd Gen)": [
   {
    "brand": "Lenovo",
+   "device": "J706L",
+   "model": "Lenovo TB-J706L"
+  },
+  {
+   "brand": "Lenovo",
    "device": "X306F",
    "model": "Lenovo TB-X306F"
   },
@@ -93890,6 +93909,11 @@
    "brand": "Lenovo",
    "device": "J706F",
    "model": "Lenovo TB-J706F"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "J706L",
+   "model": "Lenovo TB-J706L"
   }
  ],
  "Lenovo Tab V7": [
@@ -106316,6 +106340,23 @@
    "brand": "Motorola",
    "device": "olson",
    "model": "motorola razr"
+  }
+ ],
+ "motorola razr 5G": [
+  {
+   "brand": "Motorola",
+   "device": "smith",
+   "model": "XT2071-4"
+  },
+  {
+   "brand": "Motorola",
+   "device": "smith",
+   "model": "motorola razr (2020)"
+  },
+  {
+   "brand": "Motorola",
+   "device": "smith",
+   "model": "motorola razr 5G"
   }
  ],
  "LEX F10": [
@@ -127729,6 +127770,18 @@
    "model": "8788_7"
   }
  ],
+ "C20": [
+  {
+   "brand": "S&T Global",
+   "device": "C20",
+   "model": "C20"
+  },
+  {
+   "brand": "Sharp",
+   "device": "VGO",
+   "model": "SH-C02"
+  }
+ ],
  "M555i": [
   {
    "brand": "S-tell",
@@ -144243,13 +144296,6 @@
    "model": "SHV36"
   }
  ],
- "C20": [
-  {
-   "brand": "Sharp",
-   "device": "VGO",
-   "model": "SH-C02"
-  }
- ],
  "DM009SH": [
   {
    "brand": "Sharp",
@@ -150736,6 +150782,18 @@
    "model": "UP_XL"
   }
  ],
+ "Y11": [
+  {
+   "brand": "StarMobile",
+   "device": "Y11",
+   "model": "Y11"
+  },
+  {
+   "brand": "Vivo",
+   "device": "Y11",
+   "model": "vivo Y11"
+  }
+ ],
  "Y15": [
   {
    "brand": "StarMobile",
@@ -152769,6 +152827,13 @@
    "model": "5124J"
   }
  ],
+ "TCL L10 Lite": [
+  {
+   "brand": "TCL",
+   "device": "Jakarta_Lite",
+   "model": "4187M"
+  }
+ ],
  "TCL L10+": [
   {
    "brand": "TCL",
@@ -152934,6 +152999,13 @@
    "model": "8094T"
   }
  ],
+ "TCL TAB 8 4G": [
+  {
+   "brand": "TCL",
+   "device": "Apollo_8_4G",
+   "model": "9032X"
+  }
+ ],
  "TCL TAB kids": [
   {
    "brand": "TCL",
@@ -153056,6 +153128,11 @@
    "brand": "TCT (Alcatel)",
    "device": "Aquaman_10_Smart_WIFI",
    "model": "8092_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Aquaman_10_Smart_WIFI",
+   "model": "8092_RU"
   },
   {
    "brand": "TCT (Alcatel)",
@@ -156334,6 +156411,11 @@
   {
    "brand": "TCT (Alcatel)",
    "device": "Jakarta_Lite",
+   "model": "4087N"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Jakarta_Lite",
    "model": "4087U"
   }
  ],
@@ -159407,6 +159489,16 @@
    "brand": "TCT (Alcatel)",
    "device": "Aquaman_10_Kids_WIFI",
    "model": "8095_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Aquaman_10_Kids_WIFI",
+   "model": "8095_RU"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Aquaman_10_Kids_WIFI",
+   "model": "8095_TR"
   }
  ],
  "Telenor_Smart": [
@@ -168892,13 +168984,6 @@
    "brand": "Vivo",
    "device": "PD1610",
    "model": "vivo Xplay6"
-  }
- ],
- "Y11": [
-  {
-   "brand": "Vivo",
-   "device": "Y11",
-   "model": "vivo Y11"
   }
  ],
  "Y15S": [

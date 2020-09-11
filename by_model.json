@@ -8884,6 +8884,13 @@
    "device": "ac40ne"
   }
  ],
+ "Archos T 101 4G": [
+  {
+   "brand": "Archos",
+   "name": "ARCHOS T101 4G",
+   "device": "act1014g"
+  }
+ ],
  "ALBA 10 TABLET": [
   {
    "brand": "Archos",
@@ -23862,6 +23869,13 @@
    "brand": "Cherry Mobile",
    "name": "A810",
    "device": "A810"
+  }
+ ],
+ "A860": [
+  {
+   "brand": "Cherry Mobile",
+   "name": "A860",
+   "device": "A860"
   }
  ],
  "A890": [
@@ -45165,13 +45179,13 @@
  "SWTV": [
   {
    "brand": "Google",
-   "name": "APAC",
-   "device": "SW3H_ATV"
+   "name": "Asia",
+   "device": "SW3_ATV"
   },
   {
    "brand": "Google",
-   "name": "Asia",
-   "device": "SW3_ATV"
+   "name": "TV",
+   "device": "SW3H_ATV"
   },
   {
    "brand": "Skyworth",
@@ -57155,6 +57169,11 @@
    "brand": "Hisense",
    "name": "c20ae",
    "device": "HS8929QC"
+  },
+  {
+   "brand": "S&T Global",
+   "name": "C20",
+   "device": "C20"
   }
  ],
  "Hisense E76mini": [
@@ -94824,6 +94843,18 @@
    "device": "801LV"
   }
  ],
+ "Lenovo TB-J706L": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M10 HD (2nd Gen)",
+   "device": "J706L"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab P11 Pro",
+   "device": "J706L"
+  }
+ ],
  "Lenovo TB-X306F": [
   {
    "brand": "Lenovo",
@@ -108558,6 +108589,27 @@
    "brand": "Motorola",
    "name": "motorola razr",
    "device": "olson"
+  }
+ ],
+ "XT2071-4": [
+  {
+   "brand": "Motorola",
+   "name": "motorola razr 5G",
+   "device": "smith"
+  }
+ ],
+ "motorola razr (2020)": [
+  {
+   "brand": "Motorola",
+   "name": "motorola razr 5G",
+   "device": "smith"
+  }
+ ],
+ "motorola razr 5G": [
+  {
+   "brand": "Motorola",
+   "name": "motorola razr 5G",
+   "device": "smith"
   }
  ],
  "LEX F10": [
@@ -158209,6 +158261,13 @@
    "device": "UP_XL"
   }
  ],
+ "Y11": [
+  {
+   "brand": "StarMobile",
+   "name": "Y11",
+   "device": "Y11"
+  }
+ ],
  "Y15": [
   {
    "brand": "StarMobile",
@@ -160319,6 +160378,13 @@
    "device": "Faraday"
   }
  ],
+ "4187M": [
+  {
+   "brand": "TCL",
+   "name": "TCL L10 Lite",
+   "device": "Jakarta_Lite"
+  }
+ ],
  "5030E_TCL": [
   {
    "brand": "TCL",
@@ -160514,6 +160580,18 @@
    "brand": "TCT (Alcatel)",
    "name": "3T10 4G",
    "device": "Aquaman_10_4G"
+  }
+ ],
+ "9032X": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 8 4G",
+   "device": "Apollo_8_4G"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "alcatel 3T8",
+   "device": "Apollo_8_4G"
   }
  ],
  "9049L": [
@@ -161366,6 +161444,13 @@
   }
  ],
  "8092_EEA": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "1T10 SMART",
+   "device": "Aquaman_10_Smart_WIFI"
+  }
+ ],
+ "8092_RU": [
   {
    "brand": "TCT (Alcatel)",
    "name": "1T10 SMART",
@@ -165320,6 +165405,13 @@
    "device": "Jakarta"
   }
  ],
+ "4087N": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1SE elite edition",
+   "device": "Jakarta_Lite"
+  }
+ ],
  "4087U": [
   {
    "brand": "TCT (Alcatel)",
@@ -168790,6 +168882,20 @@
    "device": "Aquaman_10_Kids_WIFI"
   }
  ],
+ "8095_RU": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "TKEE MAX",
+   "device": "Aquaman_10_Kids_WIFI"
+  }
+ ],
+ "8095_TR": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "TKEE MAX",
+   "device": "Aquaman_10_Kids_WIFI"
+  }
+ ],
  "Telenor_Smart": [
   {
    "brand": "TCT (Alcatel)",
@@ -169076,13 +169182,6 @@
   }
  ],
  "9032T": [
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "alcatel 3T8",
-   "device": "Apollo_8_4G"
-  }
- ],
- "9032X": [
   {
    "brand": "TCT (Alcatel)",
    "name": "alcatel 3T8",

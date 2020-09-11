@@ -9573,6 +9573,13 @@
    "model": "Archos Access 40 3G"
   }
  ],
+ "act1014g": [
+  {
+   "brand": "Archos",
+   "name": "ARCHOS T101 4G",
+   "model": "Archos T 101 4G"
+  }
+ ],
  "ac101cplv3": [
   {
    "brand": "Archos",
@@ -24283,6 +24290,13 @@
    "brand": "Cherry Mobile",
    "name": "A810",
    "model": "Superion S1 Plus DTV"
+  }
+ ],
+ "A860": [
+  {
+   "brand": "Cherry Mobile",
+   "name": "A860",
+   "model": "A860"
   }
  ],
  "A890": [
@@ -46118,33 +46132,6 @@
    "model": "grunt"
   }
  ],
- "SW3H_ATV": [
-  {
-   "brand": "Google",
-   "name": "APAC",
-   "model": "SWTV"
-  },
-  {
-   "brand": "Panasonic",
-   "name": "GX655",
-   "model": "GX655"
-  },
-  {
-   "brand": "Panasonic",
-   "name": "Panasonic TV",
-   "model": "GX655"
-  },
-  {
-   "brand": "Skyworth",
-   "name": "Europe",
-   "model": "SWTV"
-  },
-  {
-   "brand": "Skyworth",
-   "name": "Taiwan",
-   "model": "SWTV"
-  }
- ],
  "SW3_ATV": [
   {
    "brand": "Google",
@@ -46483,6 +46470,33 @@
    "brand": "Google",
    "name": "Rockchip RK3288 Chromebook",
    "model": "Rockchip RK3288 Chromebook"
+  }
+ ],
+ "SW3H_ATV": [
+  {
+   "brand": "Google",
+   "name": "TV",
+   "model": "SWTV"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "GX655",
+   "model": "GX655"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "Panasonic TV",
+   "model": "GX655"
+  },
+  {
+   "brand": "Skyworth",
+   "name": "Europe",
+   "model": "SWTV"
+  },
+  {
+   "brand": "Skyworth",
+   "name": "Taiwan",
+   "model": "SWTV"
   }
  ],
  "GPLUS_F53": [
@@ -91501,6 +91515,18 @@
    "model": "801LV"
   }
  ],
+ "J706L": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M10 HD (2nd Gen)",
+   "model": "Lenovo TB-J706L"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab P11 Pro",
+   "model": "Lenovo TB-J706L"
+  }
+ ],
  "X306F": [
   {
    "brand": "Lenovo",
@@ -105167,6 +105193,23 @@
    "brand": "Motorola",
    "name": "motorola razr",
    "model": "motorola razr"
+  }
+ ],
+ "smith": [
+  {
+   "brand": "Motorola",
+   "name": "motorola razr 5G",
+   "model": "XT2071-4"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola razr 5G",
+   "model": "motorola razr (2020)"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola razr 5G",
+   "model": "motorola razr 5G"
   }
  ],
  "LEXF10": [
@@ -127048,6 +127091,13 @@
    "brand": "S&T Global",
    "name": "8788_7",
    "model": "8788_7"
+  }
+ ],
+ "C20": [
+  {
+   "brand": "S&T Global",
+   "name": "C20",
+   "model": "C20"
   }
  ],
  "M555i": [
@@ -153167,6 +153217,18 @@
    "model": "UP_XL"
   }
  ],
+ "Y11": [
+  {
+   "brand": "StarMobile",
+   "name": "Y11",
+   "model": "Y11"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y11",
+   "model": "vivo Y11"
+  }
+ ],
  "Y15": [
   {
    "brand": "StarMobile",
@@ -155564,6 +155626,23 @@
    "model": "5024J"
   }
  ],
+ "Jakarta_Lite": [
+  {
+   "brand": "TCL",
+   "name": "TCL L10 Lite",
+   "model": "4187M"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1SE elite edition",
+   "model": "4087N"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1SE elite edition",
+   "model": "4087U"
+  }
+ ],
  "Jakarta": [
   {
    "brand": "TCL",
@@ -156132,6 +156211,38 @@
    "brand": "TCT (Alcatel)",
    "name": "3T10 4G",
    "model": "8094X_TR"
+  }
+ ],
+ "Apollo_8_4G": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 8 4G",
+   "model": "9032X"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "alcatel 3T8",
+   "model": "9032T"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "alcatel 3T8",
+   "model": "9032X"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "alcatel 3T8",
+   "model": "9032X_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "alcatel 3T8",
+   "model": "9032X_RU"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "alcatel 3T8",
+   "model": "9032X_TR"
   }
  ],
  "UnionTV": [
@@ -157078,6 +157189,11 @@
    "brand": "TCT (Alcatel)",
    "name": "1T10 SMART",
    "model": "8092_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "1T10 SMART",
+   "model": "8092_RU"
   },
   {
    "brand": "TCT (Alcatel)",
@@ -159949,13 +160065,6 @@
    "model": "5007O"
   }
  ],
- "Jakarta_Lite": [
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "Alcatel 1SE elite edition",
-   "model": "4087U"
-  }
- ],
  "Dive_73": [
   {
    "brand": "TCT (Alcatel)",
@@ -161781,6 +161890,16 @@
    "brand": "TCT (Alcatel)",
    "name": "TKEE MAX",
    "model": "8095_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "TKEE MAX",
+   "model": "8095_RU"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "TKEE MAX",
+   "model": "8095_TR"
   }
  ],
  "U3_3G": [
@@ -161985,33 +162104,6 @@
    "brand": "TCT (Alcatel)",
    "name": "alcatel 1X",
    "model": "5008Y_RU"
-  }
- ],
- "Apollo_8_4G": [
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "alcatel 3T8",
-   "model": "9032T"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "alcatel 3T8",
-   "model": "9032X"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "alcatel 3T8",
-   "model": "9032X_EEA"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "alcatel 3T8",
-   "model": "9032X_RU"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "alcatel 3T8",
-   "model": "9032X_TR"
   }
  ],
  "one_touch_D920": [
@@ -171352,13 +171444,6 @@
    "brand": "Vivo",
    "name": "Xplay6",
    "model": "vivo Xplay6"
-  }
- ],
- "Y11": [
-  {
-   "brand": "Vivo",
-   "name": "Y11",
-   "model": "vivo Y11"
   }
  ],
  "Y15S": [

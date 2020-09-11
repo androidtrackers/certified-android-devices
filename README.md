@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-09-10
+Last sync is 2020-09-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1106,6 +1106,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Archos|97c Platinum|ac97cpl|Archos 97c Platinum|
 |Archos|ALBA 5|ac50cr4gv2|ALBA 5|
 |Archos|ALBA4|ac40as3g|ALBA 4|
+|Archos|ARCHOS T101 4G|act1014g|Archos T 101 4G|
 |Archos|Alba 10|ac101cplv3|ALBA 10 TABLET|
 |Archos|"Alba 10"""|ac101cpl|"Alba 10"""|
 |Archos|Alba 4|ac40he|"Alba 4.0"" Smartphone"|
@@ -3201,6 +3202,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Chemist Warehouse|JR-MB603|JR_MB603|JR_MB603|
 |Chenrui|M40|M40|M40|
 |Cherry Mobile|A810|A810|Superion S1 Plus DTV|
+|Cherry Mobile|A860|A860|A860|
 |Cherry Mobile|A890|A890|A890|
 |Cherry Mobile|Cherry S8 Deluxe|Flare_S8_Deluxe|Flare_S8_Deluxe|
 |Cherry Mobile|Cherry W900 LTE|al7|W900 LTE|
@@ -6204,7 +6206,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gonna|Zebra|Zebra|Zebra|
 |Goo|g08|v12dn|View Prime|
 |Google|AMD Stoney Ridge Chromebook|grunt_cheets|grunt|
-|Google|APAC|SW3H_ATV|SWTV|
 |Google|Asia|SW3_ATV|SWTV|
 |Google|Chromebook 14 (CB3-431)|edgar_cheets|Acer Chromebook 14 (CB3-431)|
 |Google|Chromebook 14 (CB3-431)|edgar_cheets|Chromebook 14 (CB3-431)|
@@ -6252,6 +6253,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Rockchip RK3288 Chromebook|jerry_cheets|Rockchip RK3288 Chromebook|
 |Google|Rockchip RK3288 Chromebook|mighty_cheets|RK3288 Chrome OS Device|
 |Google|Rockchip RK3288 Chromebook|mighty_cheets|Rockchip RK3288 Chromebook|
+|Google|TV|SW3H_ATV|SWTV|
 |Google|gcar emulator|generic_x86|Automotive SDK built for x86|
 |Gplus|F53|GPLUS_F53|GPLUS F53|
 |Gplus|F68+|F68|F68+|
@@ -13650,6 +13652,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M10 FHD Plus|X606X|Lenovo TB-X606X|
 |Lenovo|Lenovo Tab M10 FHD Plus|X616M|Lenovo TB-X616M|
 |Lenovo|Lenovo Tab M10 FHD Rel|801LV|801LV|
+|Lenovo|Lenovo Tab M10 HD (2nd Gen)|J706L|Lenovo TB-J706L|
 |Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306F|Lenovo TB-X306F|
 |Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306FA|Lenovo TB-X306FA|
 |Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306FC_PRC|Lenovo TB-X306FC_PRC|
@@ -13673,6 +13676,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab P10|X705L|Lenovo TB-X705L|
 |Lenovo|Lenovo Tab P10|X705M|Lenovo TB-X705M|
 |Lenovo|Lenovo Tab P11 Pro|J706F|Lenovo TB-J706F|
+|Lenovo|Lenovo Tab P11 Pro|J706L|Lenovo TB-J706L|
 |Lenovo|Lenovo Tab V7|PB-6505M|Lenovo PB-6505M|
 |Lenovo|Lenovo Tab V7|PB-6505MC|Lenovo PB-6505MC|
 |Lenovo|Lenovo Tab V7|PB-6505NC|Lenovo PB-6505NC|
@@ -15736,6 +15740,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola one zoom|parker|motorola one zoom|
 |Motorola|motorola p50|kane|XT1970-5|
 |Motorola|motorola razr|olson|motorola razr|
+|Motorola|motorola razr 5G|smith|XT2071-4|
+|Motorola|motorola razr 5G|smith|motorola razr (2020)|
+|Motorola|motorola razr 5G|smith|motorola razr 5G|
 |Motorola Solutions|LEX F10|LEXF10|LEX F10|
 |Motorola Solutions|LEX L10g|lexl10g|LEX L10g|
 |Motorola Solutions|LEX L10ig|lexl10ig|LEX L10ig|
@@ -19139,6 +19146,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |S Vision|Australia|hanyang|Svision Android TV|
 |S Vision|Australia|nippori|Svision Android TV 2K|
 |S&T Global|8788_7|8788_7|8788_7|
+|S&T Global|C20|C20|C20|
 |S-tell|M555i|M555i|M555i|
 |S-tell|M558|M558|M558|
 |S-tell|M578|M578|M578|
@@ -23188,6 +23196,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |StarMobile|UP Selfie|UP_Selfie|UP_Selfie|
 |StarMobile|UP Xtreme|UP_Xtreme|UP_Xtreme|
 |StarMobile|UP_XL|UP_XL|UP_XL|
+|StarMobile|Y11|Y11|Y11|
 |StarMobile|Y15|Y15|Y15|
 |StarMobile|up_octa|UP_Octa|UP Octa|
 |Starlight|C_Note|C_Note|C_Note|
@@ -23518,6 +23527,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL C7|A3A_PLUS|5158A|
 |TCL|TCL C9 Plus|Venice|5148I|
 |TCL|TCL L10|Faraday|5124J|
+|TCL|TCL L10 Lite|Jakarta_Lite|4187M|
 |TCL|TCL L10+|Jakarta|5030E_TCL|
 |TCL|TCL L10+|Jakarta|5130I|
 |TCL|TCL L10+|Jakarta|5130J|
@@ -23545,6 +23555,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB|Thor_8_4G_VZW|9048S|
 |TCL|TCL TAB 10 4G|Aquaman_10_4G|8094X|
 |TCL|TCL TAB 10 SMART|Aquaman_10_4G|8094T|
+|TCL|TCL TAB 8 4G|Apollo_8_4G|9032X|
 |TCL|TCL TAB kids|Thor_8_4G_VZW|9049L|
 |TCL|TKEE MINI|Hulk_7_KIDS_WIFI|8093|
 |TCL|Union TV|UnionTV|UnionTV|
@@ -23656,6 +23667,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|1T10  WIFI|Aquaman_10_WIFI|8091_TR|
 |TCT (Alcatel)|1T10 SMART|Aquaman_10_Smart_WIFI|8092|
 |TCT (Alcatel)|1T10 SMART|Aquaman_10_Smart_WIFI|8092_EEA|
+|TCT (Alcatel)|1T10 SMART|Aquaman_10_Smart_WIFI|8092_RU|
 |TCT (Alcatel)|1T10 SMART|Aquaman_10_Smart_WIFI|8092_TR|
 |TCT (Alcatel)|3T10 4G|A3A_10_4G|8088G|
 |TCT (Alcatel)|3T10 4G|A3A_10_4G|8088X|
@@ -24226,6 +24238,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030J|
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030M|
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030U|
+|TCT (Alcatel)|Alcatel 1SE elite edition|Jakarta_Lite|4087N|
 |TCT (Alcatel)|Alcatel 1SE elite edition|Jakarta_Lite|4087U|
 |TCT (Alcatel)|Alcatel 1T 7 WIFI|U3A_7_WIFI|8068|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007A|
@@ -24748,6 +24761,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|TETRA|U50A_ATT|5041C|
 |TCT (Alcatel)|TKEE MAX|Aquaman_10_Kids_WIFI|8095|
 |TCT (Alcatel)|TKEE MAX|Aquaman_10_Kids_WIFI|8095_EEA|
+|TCT (Alcatel)|TKEE MAX|Aquaman_10_Kids_WIFI|8095_RU|
+|TCT (Alcatel)|TKEE MAX|Aquaman_10_Kids_WIFI|8095_TR|
 |TCT (Alcatel)|Telenor_Smart|one_touch_985_gsm|Telenor_Smart|
 |TCT (Alcatel)|Telenor_Smart_Mini|SOUL4|Telenor Smart Mini|
 |TCT (Alcatel)|U3|U3_3G|4049D|
