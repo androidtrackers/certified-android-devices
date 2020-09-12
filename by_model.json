@@ -78575,6 +78575,13 @@
    "device": "shibuya"
   }
  ],
+ "SMARTWAY_F1": [
+  {
+   "brand": "Kodak",
+   "name": "SMARTWAY_F1",
+   "device": "SMARTWAY_F1"
+  }
+ ],
  "SP4": [
   {
    "brand": "Kodak",
@@ -82047,6 +82054,18 @@
    "brand": "LGE",
    "name": "K4 (2017)",
    "device": "lv1"
+  }
+ ],
+ "LM-K420": [
+  {
+   "brand": "LGE",
+   "name": "K42",
+   "device": "meh15lm"
+  },
+  {
+   "brand": "LGE",
+   "name": "LM-K420",
+   "device": "meh15lm"
   }
  ],
  "LM-X540": [
@@ -87135,13 +87154,6 @@
    "brand": "LGE",
    "name": "LGL22",
    "device": "g2"
-  }
- ],
- "LM-K420": [
-  {
-   "brand": "LGE",
-   "name": "LM-K420",
-   "device": "meh15lm"
   }
  ],
  "LM-X120": [
@@ -94881,6 +94893,13 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab M10 HD (2nd Gen)",
    "device": "X306NC_PRC"
+  }
+ ],
+ "Lenovo TB-X306XA": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M10 HD (2nd Gen)",
+   "device": "X306XA"
   }
  ],
  "Lenovo TB-X306X": [

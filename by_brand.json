@@ -57686,6 +57686,11 @@
    "model": "KodakTV"
   },
   {
+   "device": "SMARTWAY_F1",
+   "name": "SMARTWAY_F1",
+   "model": "SMARTWAY_F1"
+  },
+  {
    "device": "SP4",
    "name": "SP4",
    "model": "SP4"
@@ -60097,6 +60102,11 @@
    "device": "lv1",
    "name": "K4 (2017)",
    "model": "LGL57BL"
+  },
+  {
+   "device": "meh15lm",
+   "name": "K42",
+   "model": "LM-K420"
   },
   {
    "device": "mmh45lm",
@@ -70003,6 +70013,11 @@
    "device": "X306NC_PRC",
    "name": "Lenovo Tab M10 HD (2nd Gen)",
    "model": "Lenovo TB-X306NC_PRC"
+  },
+  {
+   "device": "X306XA",
+   "name": "Lenovo Tab M10 HD (2nd Gen)",
+   "model": "Lenovo TB-X306XA"
   },
   {
    "device": "X306X",

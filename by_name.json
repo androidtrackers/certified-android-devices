@@ -80429,6 +80429,13 @@
    "model": "KodakTV"
   }
  ],
+ "SMARTWAY_F1": [
+  {
+   "brand": "Kodak",
+   "device": "SMARTWAY_F1",
+   "model": "SMARTWAY_F1"
+  }
+ ],
  "SP4": [
   {
    "brand": "Kodak",
@@ -82606,6 +82613,13 @@
    "brand": "LGE",
    "device": "lv1",
    "model": "LGL57BL"
+  }
+ ],
+ "K42": [
+  {
+   "brand": "LGE",
+   "device": "meh15lm",
+   "model": "LM-K420"
   }
  ],
  "K50S": [
@@ -93800,6 +93814,11 @@
    "brand": "Lenovo",
    "device": "X306NC_PRC",
    "model": "Lenovo TB-X306NC_PRC"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "X306XA",
+   "model": "Lenovo TB-X306XA"
   }
  ],
  "Lenovo Tab M10 HD(2nd Gen)": [

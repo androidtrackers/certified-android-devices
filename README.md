@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-09-11
+Last sync is 2020-09-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11214,6 +11214,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kodak|KODAK_SMARTWAY_L1|KODAK_SMARTWAY_L1|KODAK_SMARTWAY_L1|
 |Kodak|KODAK_SMARTWAY_T2|KODAK_SMARTWAY_T2|KODAK_SMARTWAY_T2|
 |Kodak|KodakTV|shibuya|KodakTV|
+|Kodak|SMARTWAY_F1|SMARTWAY_F1|SMARTWAY_F1|
 |Kodak|SP4|SP4|SP4|
 |Kodak|Smartway_T1|Smartway_T1|Smartway_T1|
 |Kogan|Agora 6 Plus|Kogan_Agora_6Plus|Kogan Agora 6Plus|
@@ -11689,6 +11690,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|K4|lv1|LG-M151|
 |LGE|K4 (2017)|lv1|LGL157BL|
 |LGE|K4 (2017)|lv1|LGL57BL|
+|LGE|K42|meh15lm|LM-K420|
 |LGE|K50S|mmh45lm|LM-X540|
 |LGE|K51|mdh30lm|LM-K500|
 |LGE|K51|mdh30xlm|LM-K500|
@@ -13657,6 +13659,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306FA|Lenovo TB-X306FA|
 |Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306FC_PRC|Lenovo TB-X306FC_PRC|
 |Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306NC_PRC|Lenovo TB-X306NC_PRC|
+|Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306XA|Lenovo TB-X306XA|
 |Lenovo|Lenovo Tab M10 HD(2nd Gen)|X306X|Lenovo TB-X306X|
 |Lenovo|Lenovo Tab M10 Plus|X606V|Lenovo TB-X606V|
 |Lenovo|Lenovo Tab M10 Plus|X606X|Lenovo TB-X606X|

@@ -76409,6 +76409,13 @@
    "model": "KODAK_SMARTWAY_T2"
   }
  ],
+ "SMARTWAY_F1": [
+  {
+   "brand": "Kodak",
+   "name": "SMARTWAY_F1",
+   "model": "SMARTWAY_F1"
+  }
+ ],
  "SP4": [
   {
    "brand": "Kodak",
@@ -79925,6 +79932,18 @@
    "brand": "LGE",
    "name": "LG K30",
    "model": "LM-X320"
+  }
+ ],
+ "meh15lm": [
+  {
+   "brand": "LGE",
+   "name": "K42",
+   "model": "LM-K420"
+  },
+  {
+   "brand": "LGE",
+   "name": "LM-K420",
+   "model": "LM-K420"
   }
  ],
  "mmh45lm": [
@@ -83986,13 +84005,6 @@
    "brand": "LGE",
    "name": "LG-E985T",
    "model": "LG-E985T"
-  }
- ],
- "meh15lm": [
-  {
-   "brand": "LGE",
-   "name": "LM-K420",
-   "model": "LM-K420"
   }
  ],
  "mmh6lm": [
@@ -91553,6 +91565,13 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab M10 HD (2nd Gen)",
    "model": "Lenovo TB-X306NC_PRC"
+  }
+ ],
+ "X306XA": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M10 HD (2nd Gen)",
+   "model": "Lenovo TB-X306XA"
   }
  ],
  "X306X": [
