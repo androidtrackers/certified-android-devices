@@ -22713,6 +22713,13 @@
    "device": "CT735_16GB"
   }
  ],
+ "CT756_16GB": [
+  {
+   "brand": "Carrefour",
+   "name": "CT756_16GB",
+   "device": "CT756_16GB"
+  }
+ ],
  "CT820": [
   {
    "brand": "Carrefour",
@@ -32872,6 +32879,13 @@
    "device": "TS1221PL"
   }
  ],
+ "Optima 7 Z800 4G TS7225PL": [
+  {
+   "brand": "Digma",
+   "name": "TS7225PL",
+   "device": "TS7225PL"
+  }
+ ],
  "VOX FIRE 4G VS5037PL": [
   {
    "brand": "Digma",
@@ -41148,6 +41162,13 @@
    "brand": "Fujitsu",
    "name": "F-12C",
    "device": "f11eif"
+  }
+ ],
+ "F-42A": [
+  {
+   "brand": "Fujitsu",
+   "name": "F-42A",
+   "device": "F42A"
   }
  ],
  "F-51A": [
@@ -75908,6 +75929,20 @@
    "device": "J9S"
   }
  ],
+ "RobotPad-A1": [
+  {
+   "brand": "Jettom",
+   "name": "RobotPad-A1",
+   "device": "RobotPad-A1"
+  }
+ ],
+ "RobotPad-A1_EEA": [
+  {
+   "brand": "Jettom",
+   "name": "RobotPad-A1_EEA",
+   "device": "RobotPad-A1_EEA"
+  }
+ ],
  "Remix Mini": [
   {
    "brand": "Jide",
@@ -108127,6 +108162,13 @@
    "device": "rhannah"
   }
  ],
+ "moto e(7) plus": [
+  {
+   "brand": "Motorola",
+   "name": "moto e(7) plus",
+   "device": "guam"
+  }
+ ],
  "moto e5 (XT1920DL)": [
   {
    "brand": "Motorola",
@@ -108469,6 +108511,20 @@
    "device": "blackjack"
   }
  ],
+ "moto g(9)": [
+  {
+   "brand": "Motorola",
+   "name": "moto g(9)",
+   "device": "guamp"
+  }
+ ],
+ "moto g(9) play": [
+  {
+   "brand": "Motorola",
+   "name": "moto g(9) play",
+   "device": "guamp"
+  }
+ ],
  "moto g(9) plus": [
   {
    "brand": "Motorola",
@@ -108526,6 +108582,25 @@
    "brand": "Motorola",
    "name": "motorola edge plus",
    "device": "burton"
+  }
+ ],
+ "motorola one 5G": [
+  {
+   "brand": "Motorola",
+   "name": "motorola one 5G",
+   "device": "nairo"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola one 5G UW",
+   "device": "nairo"
+  }
+ ],
+ "motorola one 5G UW": [
+  {
+   "brand": "Motorola",
+   "name": "motorola one 5G UW",
+   "device": "nairo"
   }
  ],
  "motorola one action": [
@@ -108610,14 +108685,19 @@
    "device": "olson"
   }
  ],
- "XT2071-4": [
+ "motorola razr (2020)": [
+  {
+   "brand": "Motorola",
+   "name": "motorola razr (2020)",
+   "device": "smith"
+  },
   {
    "brand": "Motorola",
    "name": "motorola razr 5G",
    "device": "smith"
   }
  ],
- "motorola razr (2020)": [
+ "XT2071-4": [
   {
    "brand": "Motorola",
    "name": "motorola razr 5G",
@@ -151229,6 +151309,13 @@
    "device": "QDA"
   }
  ],
+ "SHG02": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS zero5G basic DX",
+   "device": "OJ6"
+  }
+ ],
  "SH-02L": [
   {
    "brand": "Sharp",
@@ -173800,6 +173887,13 @@
    "brand": "Trident",
    "name": "A23 Max",
    "device": "A23_Max"
+  }
+ ],
+ "A24": [
+  {
+   "brand": "Trident",
+   "name": "A24",
+   "device": "A24"
   }
  ],
  "Passion-1S": [

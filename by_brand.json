@@ -15678,6 +15678,11 @@
    "model": "CT735_16GB"
   },
   {
+   "device": "CT756_16GB",
+   "name": "CT756_16GB",
+   "model": "CT756_16GB"
+  },
+  {
    "device": "M878LP",
    "name": "CT820",
    "model": "CT820"
@@ -23165,6 +23170,11 @@
    "model": "Optima 10 A501S 4G TS1221PL"
   },
   {
+   "device": "TS7225PL",
+   "name": "TS7225PL",
+   "model": "Optima 7 Z800 4G TS7225PL"
+  },
+  {
    "device": "VS5036PL",
    "name": "VOX E502 4G VS5036PL",
    "model": "VOX E502 4G VS5036PL"
@@ -29266,6 +29276,11 @@
    "device": "f11eif",
    "name": "F-12C",
    "model": "F-12C"
+  },
+  {
+   "device": "F42A",
+   "name": "F-42A",
+   "model": "F-42A"
   },
   {
    "device": "F51A",
@@ -55630,6 +55645,18 @@
    "model": "J9S"
   }
  ],
+ "Jettom": [
+  {
+   "device": "RobotPad-A1",
+   "name": "RobotPad-A1",
+   "model": "RobotPad-A1"
+  },
+  {
+   "device": "RobotPad-A1_EEA",
+   "name": "RobotPad-A1_EEA",
+   "model": "RobotPad-A1_EEA"
+  }
+ ],
  "Jide": [
   {
    "device": "rm1g",
@@ -80260,6 +80287,11 @@
    "model": "moto e5 plus"
   },
   {
+   "device": "guam",
+   "name": "moto e(7) plus",
+   "model": "moto e(7) plus"
+  },
+  {
    "device": "nora",
    "name": "moto e5",
    "model": "moto e5 (XT1920DL)"
@@ -80600,6 +80632,16 @@
    "model": "moto g8 power lite"
   },
   {
+   "device": "guamp",
+   "name": "moto g(9)",
+   "model": "moto g(9)"
+  },
+  {
+   "device": "guamp",
+   "name": "moto g(9) play",
+   "model": "moto g(9) play"
+  },
+  {
    "device": "odessa",
    "name": "moto g(9) plus",
    "model": "moto g(9) plus"
@@ -80653,6 +80695,21 @@
    "device": "deen_sprout",
    "name": "motorola one",
    "model": "motorola one"
+  },
+  {
+   "device": "nairo",
+   "name": "motorola one 5G",
+   "model": "motorola one 5G"
+  },
+  {
+   "device": "nairo",
+   "name": "motorola one 5G UW",
+   "model": "motorola one 5G"
+  },
+  {
+   "device": "nairo",
+   "name": "motorola one 5G UW",
+   "model": "motorola one 5G UW"
   },
   {
    "device": "troika",
@@ -80723,6 +80780,11 @@
    "device": "olson",
    "name": "motorola razr",
    "model": "motorola razr"
+  },
+  {
+   "device": "smith",
+   "name": "motorola razr (2020)",
+   "model": "motorola razr (2020)"
   },
   {
    "device": "smith",
@@ -113271,6 +113333,11 @@
    "model": "SHV47"
   },
   {
+   "device": "OJ6",
+   "name": "AQUOS zero5G basic DX",
+   "model": "SHG02"
+  },
+  {
    "device": "SH-02L",
    "name": "AQUOS ケータイ SH-02L",
    "model": "SH-02L"
@@ -130705,6 +130772,11 @@
    "device": "A23_Max",
    "name": "A23 Max",
    "model": "A23 Max"
+  },
+  {
+   "device": "A24",
+   "name": "A24",
+   "model": "A24"
   }
  ],
  "Trifone": [

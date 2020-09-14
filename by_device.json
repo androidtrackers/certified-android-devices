@@ -23180,6 +23180,13 @@
    "model": "CT735_16GB"
   }
  ],
+ "CT756_16GB": [
+  {
+   "brand": "Carrefour",
+   "name": "CT756_16GB",
+   "model": "CT756_16GB"
+  }
+ ],
  "M878LP": [
   {
    "brand": "Carrefour",
@@ -33765,6 +33772,13 @@
    "model": "Optima 10 A501S 4G TS1221PL"
   }
  ],
+ "TS7225PL": [
+  {
+   "brand": "Digma",
+   "name": "TS7225PL",
+   "model": "Optima 7 Z800 4G TS7225PL"
+  }
+ ],
  "VS5037PL": [
   {
    "brand": "Digma",
@@ -42144,6 +42158,13 @@
    "brand": "Fujitsu",
    "name": "F-12C",
    "model": "F-12C"
+  }
+ ],
+ "F42A": [
+  {
+   "brand": "Fujitsu",
+   "name": "F-42A",
+   "model": "F-42A"
   }
  ],
  "F51A": [
@@ -73783,6 +73804,20 @@
    "model": "J9S"
   }
  ],
+ "RobotPad-A1": [
+  {
+   "brand": "Jettom",
+   "name": "RobotPad-A1",
+   "model": "RobotPad-A1"
+  }
+ ],
+ "RobotPad-A1_EEA": [
+  {
+   "brand": "Jettom",
+   "name": "RobotPad-A1_EEA",
+   "model": "RobotPad-A1_EEA"
+  }
+ ],
  "rm1g": [
   {
    "brand": "Jide",
@@ -98679,6 +98714,11 @@
    "brand": "Micromax",
    "name": "BOLT",
    "model": "Micromax A24"
+  },
+  {
+   "brand": "Trident",
+   "name": "A24",
+   "model": "A24"
   }
  ],
  "A34": [
@@ -104696,6 +104736,13 @@
    "model": "moto e5 plus"
   }
  ],
+ "guam": [
+  {
+   "brand": "Motorola",
+   "name": "moto e(7) plus",
+   "model": "moto e(7) plus"
+  }
+ ],
  "nora": [
   {
    "brand": "Motorola",
@@ -104785,6 +104832,21 @@
    "brand": "Motorola",
    "name": "moto g 5G plus",
    "model": "moto g 5G plus"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola one 5G",
+   "model": "motorola one 5G"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola one 5G UW",
+   "model": "motorola one 5G"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola one 5G UW",
+   "model": "motorola one 5G UW"
   }
  ],
  "rav": [
@@ -105080,6 +105142,18 @@
    "model": "moto g(8) power"
   }
  ],
+ "guamp": [
+  {
+   "brand": "Motorola",
+   "name": "moto g(9)",
+   "model": "moto g(9)"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g(9) play",
+   "model": "moto g(9) play"
+  }
+ ],
  "odessa": [
   {
    "brand": "Motorola",
@@ -105215,6 +105289,11 @@
   }
  ],
  "smith": [
+  {
+   "brand": "Motorola",
+   "name": "motorola razr (2020)",
+   "model": "motorola razr (2020)"
+  },
   {
    "brand": "Motorola",
    "name": "motorola razr 5G",
@@ -146123,6 +146202,13 @@
    "brand": "Sharp",
    "name": "AQUOS zero2 SHV47",
    "model": "SHV47"
+  }
+ ],
+ "OJ6": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS zero5G basic DX",
+   "model": "SHG02"
   }
  ],
  "SH-02L": [

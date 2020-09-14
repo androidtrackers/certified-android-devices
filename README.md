@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-09-13
+Last sync is 2020-09-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3036,6 +3036,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Carrefour|CT1085_ 32GB|CT1085_32GB|CT1085_32GB|
 |Carrefour|CT726|CT726|CT726|
 |Carrefour|CT735_16GB|CT735_16GB|CT735_16GB|
+|Carrefour|CT756_16GB|CT756_16GB|CT756_16GB|
 |Carrefour|CT820|M878LP|CT820|
 |Carrefour|CT826|CT826|CT826|
 |Casio|DT-X400|dtx400|DT-X400|
@@ -4483,6 +4484,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Digma|Plane_8548S_3G|PS8161PG|Plane_8548S_3G_PS8161PG|
 |Digma|Plane_8549S_4G|PS8162PL|Plane_8549S_4G_PS8162PL|
 |Digma|TS1221PL|TS1221PL|Optima 10 A501S 4G TS1221PL|
+|Digma|TS7225PL|TS7225PL|Optima 7 Z800 4G TS7225PL|
 |Digma|VOX E502 4G VS5036PL|VS5036PL|VOX E502 4G VS5036PL|
 |Digma|VOX FIRE 4G VS5037PL|VS5037PL|VOX FIRE 4G VS5037PL|
 |Digma|VOX_S508_3G|VS5031PG|VOX S508 3G VS5031PG|
@@ -5640,6 +5642,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fujitsu|F-09D ANTEPRIMA|F09D|F-09D|
 |Fujitsu|F-09E|F09E|F-09E|
 |Fujitsu|F-12C|f11eif|F-12C|
+|Fujitsu|F-42A|F42A|F-42A|
 |Fujitsu|F-51A|F51A|F-51A|
 |Fujitsu|FARTM9334P1|FARTM9334|FARTM9334P1|
 |Fujitsu|FARTM933KZ|FARTM933KZ|FARTM933KZ|
@@ -10826,6 +10829,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Jenesis|JT10-81B|JT10-81B|JT10-81B|
 |Jesy|J11|J11|J11|
 |Jesy|J9S|J9S|J9S|
+|Jettom|RobotPad-A1|RobotPad-A1|RobotPad-A1|
+|Jettom|RobotPad-A1_EEA|RobotPad-A1_EEA|RobotPad-A1_EEA|
 |Jide|Remix Mini|rm1g|Remix Mini|
 |Jimi|KN C4|JIMI_KNC4|JIMI_KNC4|
 |Jimi|Senwa S471|Senwa_S471|S471|
@@ -15650,6 +15655,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto e(5) play|james|moto e5 play|
 |Motorola|moto e(5) plus|rhannah|Moto E|
 |Motorola|moto e(5) plus|rhannah|moto e5 plus|
+|Motorola|moto e(7) plus|guam|moto e(7) plus|
 |Motorola|moto e5|nora|moto e5 (XT1920DL)|
 |Motorola|moto e5|nora_8917_n|moto e5|
 |Motorola|moto e5 go|rjames_go|moto e5 go|
@@ -15718,6 +15724,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g(8) power|sofiar|moto g(8) power|
 |Motorola|moto g(8) power lite|blackjack|moto g(8) power lite|
 |Motorola|moto g(8) power lite|blackjack|moto g8 power lite|
+|Motorola|moto g(9)|guamp|moto g(9)|
+|Motorola|moto g(9) play|guamp|moto g(9) play|
 |Motorola|moto g(9) plus|odessa|moto g(9) plus|
 |Motorola|moto g6 play|jeter|Moto G Play|
 |Motorola|moto g6 play|jeter|moto g(6) play|
@@ -15729,6 +15737,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge|racer|motorola edge|
 |Motorola|motorola edge plus|burton|motorola edge plus|
 |Motorola|motorola one|deen_sprout|motorola one|
+|Motorola|motorola one 5G|nairo|motorola one 5G|
+|Motorola|motorola one 5G UW|nairo|motorola one 5G|
+|Motorola|motorola one 5G UW|nairo|motorola one 5G UW|
 |Motorola|motorola one action|troika|motorola one action|
 |Motorola|motorola one action|troika_sprout|motorola one action|
 |Motorola|motorola one fusion|astro|motorola one fusion|
@@ -15743,6 +15754,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola one zoom|parker|motorola one zoom|
 |Motorola|motorola p50|kane|XT1970-5|
 |Motorola|motorola razr|olson|motorola razr|
+|Motorola|motorola razr (2020)|smith|motorola razr (2020)|
 |Motorola|motorola razr 5G|smith|XT2071-4|
 |Motorola|motorola razr 5G|smith|motorola razr (2020)|
 |Motorola|motorola razr 5G|smith|motorola razr 5G|
@@ -22113,6 +22125,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS zero2 SH-M13|SH-M13|SH-M13|
 |Sharp|AQUOS zero2 SH-Z20|SH-Z20|SH-Z20|
 |Sharp|AQUOS zero2 SHV47|QDA|SHV47|
+|Sharp|AQUOS zero5G basic DX|OJ6|SHG02|
 |Sharp|AQUOS ケータイ SH-02L|SH-02L|SH-02L|
 |Sharp|AQUOS ケータイ SH-06G|SH-06G|SH-06G|
 |Sharp|Android One S1|kaleido_sprout|S1|
@@ -25519,6 +25532,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Trevi|Retailer Stores|KID_TAB_7_S02|KID_TAB_7_S02|
 |TriaPlay|TriaPlayBox|TriaPlayBox|TriaPlayBox|
 |Trident|A23 Max|A23_Max|A23 Max|
+|Trident|A24|A24|A24|
 |Trifone|Passion-1S|Passion-1S|Passion-1S|
 |Trifone|Passion-Plus|Passion-Plus|Passion-Plus|
 |Trifone|Passion1|Passion1|Passion1|
