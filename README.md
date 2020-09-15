@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-09-14
+Last sync is 2020-09-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -521,6 +521,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiwa|AFL0065S|sindorim|AI PONT|
 |Aiwa|AIWA 2K TV|shinagawa|AIWA 2K TV|
 |Aiwa|AW-LED32G7K|ikebukuro|AI PONT|
+|Aiwa|AW-LED43GKF|ikebukuro|AI PONT|
 |Aiwa|AW-LED50X6FL|samseong|AI PONT|
 |Aiwa|AW790|AW790|AW790|
 |Aiwa|AWM501|AWM501|AWM501|
@@ -3894,6 +3895,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ctroniq|Ctroniq_Snook_W10|Ctroniq_Snook_W10|Ctroniq_Snook_W10|
 |Ctroniq|Ctroniq_Snook_W70|Ctroniq_Snook_W70|Ctroniq_Snook_W70|
 |Ctroniq|K9|K9|K9|
+|Cubot|C30|C30|C30|
 |Cubot|CUBOT CHEETAH 2|CUBOT_CHEETAH_2|CUBOT CHEETAH 2|
 |Cubot|CUBOT H3|CUBOT_H3|CUBOT H3|
 |Cubot|CUBOT J9|CUBOT_J9|CUBOT J9|
@@ -14327,6 +14329,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MTR (MY)|MT9|MT9|MT9|
 |MTS (RU)|B866|B866_MTS_OTT|B866|
 |MTS (RU)|Russia|B866_MTS_IPTV|B866|
+|MTS (RU)|Smart_Bit|Smart_Bit|Smart Bit|
 |MTT|Master|Master|M.T.T. Master|
 |MTT|Smart Fun|SmartFun|M.T.T. Smart Fun|
 |MTab|MT3|MT3|MT3|
@@ -14394,6 +14397,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MarQ|MarQ|komagome|MarQ 2K Android TV|
 |Mara Phones|Mara X1|Mara_X1|Mara Phones X1|
 |Mara Phones|MARA Z|Mara_Z_sprout|Mara Z|
+|Mara Phones|Mara S|Mara_S|Mara S|
 |Mara Phones|Mara X|Mara_X_sc|Mara X|
 |Mara Phones|Mara X dual|Mara_X|Mara X dual|
 |Mara Phones|Mara X1 d|Mara_X1_d|Mara Phones X1|
@@ -15248,6 +15252,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|STARSHINE 5|Cygnus_mini|STARSHINE_5|
 |Mobiwire|STARSHINE 5|Cygnus_mini|Smart_A25|
 |Mobiwire|STARXTREM 5|STARXTREM5|STARXTREM5|
+|Mobiwire|Smart E11|Smart_E11|SmartE11|
 |Mobiwire|Smart N11|Smart_N11|SmartN11|
 |Mobiwire|Tala|Tala|Tala|
 |Mobiwire|Telenor SmartPlus|Telenor_SmartPlus|Telenor_SmartPlus|
@@ -16750,6 +16755,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 7T Pro 5G|OnePlus7TProNR|HD1925|
 |OnePlus|OnePlus 8|OnePlus8|IN2010|
 |OnePlus|OnePlus 8|OnePlus8|IN2013|
+|OnePlus|OnePlus 8|OnePlus8Visible|IN2015|
 |OnePlus|OnePlus 8 5G|OnePlus8TMO|IN2017|
 |OnePlus|OnePlus 8 5G UW|OnePlus8VZW|IN2019|
 |OnePlus|OnePlus 8 Pro|OnePlus8Pro|IN2023|
@@ -17370,6 +17376,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO F2 Pro|lmi|POCO F2 Pro|
 |POCO|POCO M2 Pro|gram|POCO M2 Pro|
 |POCO|POCO X2|phoenixin|POCO X2|
+|POCO|POCO X3|karna|M2007J20CI|
+|POCO|POCO X3 NFC|surya|M2007J20CG|
 |POPTEL|P60|P60|P60|
 |POPTEL|P8|P8|P8|
 |POPTEL|P9000 MAX|P9000_MAX|P9000_MAX|
@@ -17409,6 +17417,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|43DX400C|DX01C|DX01C|
 |Panasonic|43GX580C|GX580C|9S61Z_ZQ20S|
 |Panasonic|48AX600C|mst918_4G|48AX600C|
+|Panasonic|4KTV-0SU|SW4H|4KTV-0SU|
 |Panasonic|55AX600C|mst918_4k2k|55AX600C|
 |Panasonic|55DX600C|DX600C|TH-55DX600C|
 |Panasonic|AS650C|AS650C|AS650C|
@@ -19015,6 +19024,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 8A|olivelite|Redmi 8A|
 |Redmi|Redmi 8A Dual|olivewood|Redmi 8A Dual|
 |Redmi|Redmi 8A Dual|olivewood|Redmi 8A Pro|
+|Redmi|Redmi 9|cattail|M2006C3MII|
+|Redmi|Redmi 9|cattail|cattail|
 |Redmi|Redmi 9|galahad|M2004J19C|
 |Redmi|Redmi 9|galahad|galahad|
 |Redmi|Redmi 9|lancelot|M2004J19C|
@@ -19026,6 +19037,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 9A|dandelion|dandelion|
 |Redmi|Redmi 9C|angelica|M2006C3MG|
 |Redmi|Redmi 9C|angelica|angelica|
+|Redmi|Redmi 9C NFC|angelican|M2006C3MNG|
+|Redmi|Redmi 9C NFC|angelican|angelican|
 |Redmi|Redmi K20|davinci|Mi 9T|
 |Redmi|Redmi K20|davinci|Redmi K20|
 |Redmi|Redmi K20|davinciin|Redmi K20|
@@ -19070,6 +19083,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reeder|P13 Blue|P13_Blue|P13_Blue|
 |Reeder|P13 Blue Maks|P13_Blue_Maks|P13_Blue_Maks|
 |Reeder|P13 Blue Max|P13_Blue_Max|P13_Blue_Max|
+|Reeder|P13 Blue Max Lite|P13_BML|P13 Blue Max Lite|
 |Reeder|P13_Black|P13_Black|P13_Black|
 |Reeder|P13_Lite|P13_Lite|P13_Lite|
 |Reeder|P9C|P9C|P9C|
@@ -22492,7 +22506,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Skyworth|North America|globe_na|globe|
 |Skyworth|North America|shimbashi|2K TV|
 |Skyworth|SWTV-20AE|SW4H|SWTV-20AE|
-|Skyworth|SWTV-20NA|SW4H|SWTV-20NA|
+|Skyworth|SWTV-20N|SW4H|SWTV-20NA|
 |Skyworth|SWTV-20SA|SW4H|SWTV-20SA|
 |Skyworth|Skyworth|grape|HPA02|
 |Skyworth|South Africa|open_fhd_sa|open_fhd|
@@ -22534,6 +22548,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smartab|ST7150-19|ST7150-19|ST7150-19|
 |Smartab|ST7160|ST7160|ST7160|
 |Smartab|ST7650|ST7650|ST7650|
+|Smartab|ST7680|ST7680|ST7680|
 |Smartab|ST8200|ST8200|ST8200|
 |Smartab|STJR700|STJR700|STJR700|
 |Smartab|STJR76|STJR76|STJR76|
@@ -25039,6 +25054,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|CAMON 15 Air|TECNO-CD6|TECNO CD6S|
 |Tecno|CAMON 15 Premier|TECNO-CD8j|TECNO CD8j|
 |Tecno|CAMON 15 Pro|TECNO-CD8|TECNO CD8|
+|Tecno|CAMON 16|TECNO-CE7|TECNO CE7|
+|Tecno|CAMON 16 Pro|TECNO-CE8|TECNO CE8|
 |Tecno|CAMON C7|TECNO-C7|TECNO-C7|
 |Tecno|CAMON CM|TECNO-CA6|TECNO CA6|
 |Tecno|CAMON I Ace|TECNO-IN1|TECNO IN1|
@@ -25175,6 +25192,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|SPARK 5 Air|TECNO-KD6|TECNO KD6a|
 |Tecno|SPARK 6 Air|TECNO-KE6|TECNO KE6|
 |Tecno|SPARK 6 Air|TECNO-KE6j|TECNO KE6j|
+|Tecno|SPARK 6 GO|TECNO-KE5j|TECNO KE5j|
 |Tecno|SPARK CM|TECNO-KA9|TECNO KA9|
 |Tecno|SPARK Go 2020|TECNO-KE5|TECNO KE5|
 |Tecno|SPARK Go Plus|TECNO-BB4k|TECNO BB4k|
@@ -27705,6 +27723,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|402ZT|ZTE-402ZT|402ZT|
 |ZTE|901ZT|P450A01|901ZT|
 |ZTE|902ZT|Z8851S|902ZT|
+|ZTE|A001ZT|Z6202S|A001ZT|
 |ZTE|A1 Alpha|P963F01D|A1 Alpha|
 |ZTE|A1P|ailsa|A1P|
 |ZTE|A1R|billy|A1|
@@ -28316,6 +28335,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Own One|P635A20|Own One|
 |ZTE|P545|P545|P545|
 |ZTE|P609|P609|P609|
+|ZTE|P650 Pro|Z6351O|P650 Pro|
 |ZTE|P_C880S|P_P635N34|ZTE P_C880S|
 |ZTE|Preo Teknosa P1|msm8916_32|Preo Teknosa P1|
 |ZTE|Q101T|P810T10|ZTE Q101T|
@@ -28775,6 +28795,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE 2050|P671F50_D|ZTE 2050|
 |ZTE|ZTE 2050|P671S50|ZTE 2050|
 |ZTE|ZTE 2050RU|P671F50_D|ZTE 2050RU|
+|ZTE|ZTE 8010|P963S05|ZTE 8010|
 |ZTE|ZTE A0616|P637S15|ZTE A0616|
 |ZTE|ZTE A0620|P840S13|ZTE A0620|
 |ZTE|ZTE A0622|P817S13|ZTE A0622|
@@ -28887,11 +28908,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A7 2020RU|P662F02_D1|ZTE Blade A7 2020RU|
 |ZTE|ZTE Blade A7s|P662F02|ZTE Blade A7s|
 |ZTE|ZTE Blade A7s 2020|P963F03|ZTE A7020|
+|ZTE|ZTE Blade A7s 2020|P963F03|ZTE A7020RU|
 |ZTE|ZTE Blade L110|ZTE_BLADE_L110|ZTE Blade L110|
 |ZTE|ZTE Blade L130|P731F30|ZTE Blade L130|
 |ZTE|ZTE Blade L130|P731K30|ZTE Blade L130|
 |ZTE|ZTE Blade L130RU|P731F30|ZTE Blade L130RU|
 |ZTE|ZTE Blade L210|P731F50|ZTE Blade L210|
+|ZTE|ZTE Blade L210RU|P731F50|ZTE Blade L210RU|
 |ZTE|ZTE Blade L5|P172A40|ZTE Blade L5|
 |ZTE|ZTE Blade L8|P731F20|ZTE Blade L8|
 |ZTE|ZTE Blade L8RU|P731F20|ZTE Blade L8RU|

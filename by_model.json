@@ -4226,6 +4226,11 @@
   },
   {
    "brand": "Aiwa",
+   "name": "AW-LED43GKF",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "Aiwa",
    "name": "AW-LED50X6FL",
    "device": "samseong"
   },
@@ -28710,6 +28715,13 @@
    "brand": "Oukitel",
    "name": "K9",
    "device": "K9"
+  }
+ ],
+ "C30": [
+  {
+   "brand": "Cubot",
+   "name": "C30",
+   "device": "C30"
   }
  ],
  "CUBOT CHEETAH 2": [
@@ -99290,6 +99302,13 @@
    "device": "B866_ZTE"
   }
  ],
+ "Smart Bit": [
+  {
+   "brand": "MTS (RU)",
+   "name": "Smart_Bit",
+   "device": "Smart_Bit"
+  }
+ ],
  "M.T.T. Master": [
   {
    "brand": "MTT",
@@ -99808,6 +99827,13 @@
    "brand": "Mara Phones",
    "name": "MARA Z",
    "device": "Mara_Z_sprout"
+  }
+ ],
+ "Mara S": [
+  {
+   "brand": "Mara Phones",
+   "name": "Mara S",
+   "device": "Mara_S"
   }
  ],
  "Mara X": [
@@ -105435,6 +105461,13 @@
    "brand": "Mobiwire",
    "name": "STARSHINE 5",
    "device": "Cygnus_mini"
+  }
+ ],
+ "SmartE11": [
+  {
+   "brand": "Mobiwire",
+   "name": "Smart E11",
+   "device": "Smart_E11"
   }
  ],
  "SmartN11": [
@@ -115136,6 +115169,13 @@
    "device": "OnePlus8"
   }
  ],
+ "IN2015": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 8",
+   "device": "OnePlus8Visible"
+  }
+ ],
  "IN2017": [
   {
    "brand": "OnePlus",
@@ -119239,6 +119279,20 @@
    "device": "phoenixin"
   }
  ],
+ "M2007J20CI": [
+  {
+   "brand": "POCO",
+   "name": "POCO X3",
+   "device": "karna"
+  }
+ ],
+ "M2007J20CG": [
+  {
+   "brand": "POCO",
+   "name": "POCO X3 NFC",
+   "device": "surya"
+  }
+ ],
  "P9000_MAX": [
   {
    "brand": "POPTEL",
@@ -119473,6 +119527,13 @@
    "brand": "Panasonic",
    "name": "48AX600C",
    "device": "mst918_4G"
+  }
+ ],
+ "4KTV-0SU": [
+  {
+   "brand": "Panasonic",
+   "name": "4KTV-0SU",
+   "device": "SW4H"
   }
  ],
  "55AX600C": [
@@ -130131,6 +130192,20 @@
    "device": "olivewood"
   }
  ],
+ "M2006C3MII": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 9",
+   "device": "cattail"
+  }
+ ],
+ "cattail": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 9",
+   "device": "cattail"
+  }
+ ],
  "M2004J19C": [
   {
    "brand": "Redmi",
@@ -130202,6 +130277,20 @@
    "brand": "Redmi",
    "name": "Redmi 9C",
    "device": "angelica"
+  }
+ ],
+ "M2006C3MNG": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 9C NFC",
+   "device": "angelican"
+  }
+ ],
+ "angelican": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 9C NFC",
+   "device": "angelican"
   }
  ],
  "Redmi K20": [
@@ -130463,6 +130552,13 @@
    "brand": "Reeder",
    "name": "P13 Blue Max",
    "device": "P13_Blue_Max"
+  }
+ ],
+ "P13 Blue Max Lite": [
+  {
+   "brand": "Reeder",
+   "name": "P13 Blue Max Lite",
+   "device": "P13_BML"
   }
  ],
  "P13_Black": [
@@ -153700,7 +153796,7 @@
  "SWTV-20NA": [
   {
    "brand": "Skyworth",
-   "name": "SWTV-20NA",
+   "name": "SWTV-20N",
    "device": "SW4H"
   }
  ],
@@ -153950,6 +154046,13 @@
    "brand": "Smartab",
    "name": "ST7650",
    "device": "ST7650"
+  }
+ ],
+ "ST7680": [
+  {
+   "brand": "Smartab",
+   "name": "ST7680",
+   "device": "ST7680"
   }
  ],
  "ST8200": [
@@ -170676,6 +170779,20 @@
    "device": "TECNO-CD8"
   }
  ],
+ "TECNO CE7": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 16",
+   "device": "TECNO-CE7"
+  }
+ ],
+ "TECNO CE8": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 16 Pro",
+   "device": "TECNO-CE8"
+  }
+ ],
  "TECNO CA6": [
   {
    "brand": "Tecno",
@@ -171621,6 +171738,13 @@
    "brand": "Tecno",
    "name": "SPARK 6 Air",
    "device": "TECNO-KE6j"
+  }
+ ],
+ "TECNO KE5j": [
+  {
+   "brand": "Tecno",
+   "name": "SPARK 6 GO",
+   "device": "TECNO-KE5j"
   }
  ],
  "TECNO KA9": [
@@ -187818,6 +187942,13 @@
    "device": "Z8851S"
   }
  ],
+ "A001ZT": [
+  {
+   "brand": "ZTE",
+   "name": "A001ZT",
+   "device": "Z6202S"
+  }
+ ],
  "A1 Alpha": [
   {
    "brand": "ZTE",
@@ -192025,6 +192156,13 @@
    "device": "P609"
   }
  ],
+ "P650 Pro": [
+  {
+   "brand": "ZTE",
+   "name": "P650 Pro",
+   "device": "Z6351O"
+  }
+ ],
  "ZTE P_C880S": [
   {
    "brand": "ZTE",
@@ -194939,6 +195077,13 @@
    "device": "P671F50_D"
   }
  ],
+ "ZTE 8010": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE 8010",
+   "device": "P963S05"
+  }
+ ],
  "ZTE A0616": [
   {
    "brand": "ZTE",
@@ -195522,6 +195667,13 @@
    "device": "P662F02"
   }
  ],
+ "ZTE A7020RU": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A7s 2020",
+   "device": "P963F03"
+  }
+ ],
  "ZTE Blade L130": [
   {
    "brand": "ZTE",
@@ -195545,6 +195697,13 @@
   {
    "brand": "ZTE",
    "name": "ZTE Blade L210",
+   "device": "P731F50"
+  }
+ ],
+ "ZTE Blade L210RU": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade L210RU",
    "device": "P731F50"
   }
  ],
