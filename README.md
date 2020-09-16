@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-09-15
+Last sync is 2020-09-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2099,6 +2099,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-1085L|BQru-1085L|BQ-1085L|
 |BQru|BQ-4001G|BQru-4001G|BQ-4001G|
 |BQru|BQ-4028UP!|BQru-4028|BQru-4028|
+|BQru|BQ-4030G Nice Mini|BQru-4030G|BQ-4030G|
 |BQru|BQ-4072 Strike Mini|BQru_4072|BQru-4072|
 |BQru|BQ-4077|BQru-4077|BQ-4077|
 |BQru|BQ-4500L|BQru-4500|BQru-4500|
@@ -2175,6 +2176,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-6035L|BQru-6035L|BQ-6035L|
 |BQru|BQ-6040L|BQru-6040L|BQ-6040L|
 |BQru|BQ-6042|BQru-6042L|BQ-6042L|
+|BQru|BQ-6045L Nice|BQru-6045L|BQ-6045L|
 |BQru|BQ-6200L Aurora|BQru-6200L|BQ-6200L|
 |BQru|BQ-6424L|BQru-6424L|BQ-6424L|
 |BQru|BQ-7000G|BQru-7000G|BQ-7000G|
@@ -10678,6 +10680,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|S15|itel-W6002|itel W6002|
 |Itel|S15|itel-W6002E|itel W6002E|
 |Itel|S15 Pro(VISION)|itel-L6002P|itel L6002P|
+|Itel|S16|itel-W6502|itel W6502|
 |Itel|S21|itel-S21|itel S21|
 |Itel|S31|S31|itel S31|
 |Itel|S32|itel-S32|itel S32|
@@ -12891,6 +12894,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lanix|Ilium X520|Ilium_X520|Ilium X520|
 |Lanix|Ilium X710|Ilium_X710|Ilium X710|
 |Lanix|Ilium_Alpha7|Ilium_Alpha7|Ilium Alpha 7|
+|Lanix|Ilium_Alpha_1TT|Ilium_Alpha_1TT|Ilium Alpha 1T|
+|Lanix|Ilium_Alpha_5T|Ilium_Alpha_5T|Ilium Alpha 5T|
 |Lanix|Ilium_L1100|Ilium_L1100|ILIUM L1100|
 |Lanix|Ilium_M8|Ilium_M8|Ilium_M8|
 |Lanix|Ilium_Pad_X8|Ilium_Pad_X8|Ilium_Pad_X8|
@@ -17280,6 +17285,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|C18 Pro|C18_Pro|C18_Pro|
 |Oukitel|C19|C19|C19|
 |Oukitel|C19 Pro|C19_Pro|C19 Pro|
+|Oukitel|C19 Pro_ROW|C19_Pro|C19 Pro|
 |Oukitel|C21|C21|C21|
 |Oukitel|C6 Pro|C6_Pro|C6 Pro|
 |Oukitel|C8|C8|C8|
@@ -19986,6 +19992,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Express|expresslte|GT-I8730T|
 |Samsung|Galaxy Express|expressziglteatt|SAMSUNG-SGH-I437Z|
 |Samsung|Galaxy Express2|wilcoxlte|SM-G3815|
+|Samsung|Galaxy F41|f41|SM-F415F|
 |Samsung|Galaxy Fame|SCH-I629|SCH-I629|
 |Samsung|Galaxy Fame|nevis|GT-S6810|
 |Samsung|Galaxy Fame|nevis|GT-S6810B|
@@ -22269,6 +22276,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|SH-06D NERV|SH06DNERV|SH-06DNERV|
 |Sharp|SH-H01|VZJ|SH-H01|
 |Sharp|SH-M04|SH-M04|SH-M04|
+|Sharp|SH-T01|OG6|SH-T01|
 |Sharp|SH80F|SH80F|SH80F|
 |Sharp|SH8118U|msm7627|SH8118U|
 |Sharp|SH8128U|msm7627|SH8128U|
@@ -25017,6 +25025,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Techsonic|TECHR720W|TECHR720W|TECHR720W|
 |Teclast|APEX_P10HD_PRO|APEX_P10HD_PRO|APEX_P10HD_PRO|
 |Teclast|M20_4G|M20_4G|M20_4G|
+|Teclast|M30_Pro_ROW|M30_Pro_ROW|M30_Pro_ROW|
 |Teclast|P10SE_EEA|P10SE_EEA|P10SE_EEA|
 |Teclast|P10SE_ROW|P10SE_ROW|P10SE_ROW|
 |Teclast|P10S_EEA|P10S_EEA|P10S_EEA|

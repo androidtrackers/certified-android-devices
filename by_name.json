@@ -21168,6 +21168,13 @@
    "model": "BQru-4028"
   }
  ],
+ "BQ-4030G Nice Mini": [
+  {
+   "brand": "BQru",
+   "device": "BQru-4030G",
+   "model": "BQ-4030G"
+  }
+ ],
  "BQ-4072 Strike Mini": [
   {
    "brand": "BQru",
@@ -21696,6 +21703,13 @@
    "brand": "BQru",
    "device": "BQru-6042L",
    "model": "BQ-6042L"
+  }
+ ],
+ "BQ-6045L Nice": [
+  {
+   "brand": "BQru",
+   "device": "BQru-6045L",
+   "model": "BQ-6045L"
   }
  ],
  "BQ-6200L Aurora": [
@@ -52087,6 +52101,11 @@
    "brand": "HOMTOM",
    "device": "S16",
    "model": "S16"
+  },
+  {
+   "brand": "Itel",
+   "device": "itel-W6502",
+   "model": "itel W6502"
   },
   {
    "brand": "koobee",
@@ -89529,6 +89548,20 @@
    "model": "Ilium Alpha 7"
   }
  ],
+ "Ilium_Alpha_1TT": [
+  {
+   "brand": "Lanix",
+   "device": "Ilium_Alpha_1TT",
+   "model": "Ilium Alpha 1T"
+  }
+ ],
+ "Ilium_Alpha_5T": [
+  {
+   "brand": "Lanix",
+   "device": "Ilium_Alpha_5T",
+   "model": "Ilium Alpha 5T"
+  }
+ ],
  "Ilium_L1100": [
   {
    "brand": "Lanix",
@@ -115857,6 +115890,13 @@
    "model": "C19 Pro"
   }
  ],
+ "C19 Pro_ROW": [
+  {
+   "brand": "Oukitel",
+   "device": "C19_Pro",
+   "model": "C19 Pro"
+  }
+ ],
  "C21": [
   {
    "brand": "Oukitel",
@@ -132394,6 +132434,13 @@
    "model": "SM-G3815"
   }
  ],
+ "Galaxy F41": [
+  {
+   "brand": "Samsung",
+   "device": "f41",
+   "model": "SM-F415F"
+  }
+ ],
  "Galaxy Fame": [
   {
    "brand": "Samsung",
@@ -145308,6 +145355,13 @@
    "brand": "Sharp",
    "device": "SH-M04",
    "model": "SH-M04"
+  }
+ ],
+ "SH-T01": [
+  {
+   "brand": "Sharp",
+   "device": "OG6",
+   "model": "SH-T01"
   }
  ],
  "SH80F": [
@@ -161002,6 +161056,13 @@
    "brand": "Teclast",
    "device": "M20_4G",
    "model": "M20_4G"
+  }
+ ],
+ "M30_Pro_ROW": [
+  {
+   "brand": "Teclast",
+   "device": "M30_Pro_ROW",
+   "model": "M30_Pro_ROW"
   }
  ],
  "P10SE_EEA": [

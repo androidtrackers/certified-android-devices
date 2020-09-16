@@ -10765,6 +10765,11 @@
    "model": "BQru-4028"
   },
   {
+   "device": "BQru-4030G",
+   "name": "BQ-4030G Nice Mini",
+   "model": "BQ-4030G"
+  },
+  {
    "device": "BQru_4072",
    "name": "BQ-4072 Strike Mini",
    "model": "BQru-4072"
@@ -11143,6 +11148,11 @@
    "device": "BQru-6042L",
    "name": "BQ-6042",
    "model": "BQ-6042L"
+  },
+  {
+   "device": "BQru-6045L",
+   "name": "BQ-6045L Nice",
+   "model": "BQ-6045L"
   },
   {
    "device": "BQru-6200L",
@@ -54862,6 +54872,11 @@
    "model": "itel L6002P"
   },
   {
+   "device": "itel-W6502",
+   "name": "S16",
+   "model": "itel W6502"
+  },
+  {
    "device": "itel-S21",
    "name": "S21",
    "model": "itel S21"
@@ -66149,6 +66164,16 @@
    "device": "Ilium_Alpha7",
    "name": "Ilium_Alpha7",
    "model": "Ilium Alpha 7"
+  },
+  {
+   "device": "Ilium_Alpha_1TT",
+   "name": "Ilium_Alpha_1TT",
+   "model": "Ilium Alpha 1T"
+  },
+  {
+   "device": "Ilium_Alpha_5T",
+   "name": "Ilium_Alpha_5T",
+   "model": "Ilium Alpha 5T"
   },
   {
    "device": "Ilium_L1100",
@@ -88686,6 +88711,11 @@
    "model": "C19 Pro"
   },
   {
+   "device": "C19_Pro",
+   "name": "C19 Pro_ROW",
+   "model": "C19 Pro"
+  },
+  {
    "device": "C21",
    "name": "C21",
    "model": "C21"
@@ -102584,6 +102614,11 @@
    "model": "SM-G3815"
   },
   {
+   "device": "f41",
+   "name": "Galaxy F41",
+   "model": "SM-F415F"
+  },
+  {
    "device": "SCH-I629",
    "name": "Galaxy Fame",
    "model": "SCH-I629"
@@ -114051,6 +114086,11 @@
    "device": "SH-M04",
    "name": "SH-M04",
    "model": "SH-M04"
+  },
+  {
+   "device": "OG6",
+   "name": "SH-T01",
+   "model": "SH-T01"
   },
   {
    "device": "SH80F",
@@ -128081,6 +128121,11 @@
    "device": "M20_4G",
    "name": "M20_4G",
    "model": "M20_4G"
+  },
+  {
+   "device": "M30_Pro_ROW",
+   "name": "M30_Pro_ROW",
+   "model": "M30_Pro_ROW"
   },
   {
    "device": "P10SE_EEA",
