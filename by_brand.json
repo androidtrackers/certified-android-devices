@@ -12720,6 +12720,11 @@
    "model": "BV6100"
   },
   {
+   "device": "BV6300Pro",
+   "name": "BV6300Pro",
+   "model": "BV6300Pro"
+  },
+  {
    "device": "BV6800Pro",
    "name": "BV6800Pro",
    "model": "BV6800Pro"
@@ -32162,6 +32167,11 @@
   }
  ],
  "Gol Mobile": [
+  {
+   "device": "F10",
+   "name": "F10",
+   "model": "F10"
+  },
   {
    "device": "F10_PRIME",
    "name": "F10_PRIME",
@@ -60168,6 +60178,11 @@
   {
    "device": "mdh30lm",
    "name": "K51",
+   "model": "LGL555DL"
+  },
+  {
+   "device": "mdh30lm",
+   "name": "K51",
    "model": "LM-K500"
   },
   {
@@ -65623,6 +65638,13 @@
    "model": "VIP6102W"
   }
  ],
+ "LLOYD": [
+  {
+   "device": "R1",
+   "name": "Android TV",
+   "model": "ATV R1"
+  }
+ ],
  "LNMBBS": [
   {
    "device": "P40-EEA",
@@ -70050,11 +70072,6 @@
    "device": "801LV",
    "name": "Lenovo Tab M10 FHD Rel",
    "model": "801LV"
-  },
-  {
-   "device": "J706L",
-   "name": "Lenovo Tab M10 HD (2nd Gen)",
-   "model": "Lenovo TB-J706L"
   },
   {
    "device": "X306F",
@@ -131190,6 +131207,13 @@
    "device": "TrueHPH07",
    "name": "TrueID TV",
    "model": "HPH07"
+  }
+ ],
+ "TrueIDTV": [
+  {
+   "device": "SEI600TID",
+   "name": "T3AMX3",
+   "model": "T3AMX3"
   }
  ],
  "TuCEL": [

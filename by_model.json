@@ -2840,6 +2840,11 @@
    "device": "R1"
   },
   {
+   "brand": "LLOYD",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
    "brand": "Master-G",
    "name": "Android TV",
    "device": "R1"
@@ -18477,6 +18482,13 @@
    "brand": "Blackview",
    "name": "BV6100",
    "device": "BV6100"
+  }
+ ],
+ "BV6300Pro": [
+  {
+   "brand": "Blackview",
+   "name": "BV6300Pro",
+   "device": "BV6300Pro"
   }
  ],
  "BV6800Pro": [
@@ -45099,6 +45111,18 @@
    "brand": "Ulefone",
    "name": "T2",
    "device": "T2"
+  }
+ ],
+ "F10": [
+  {
+   "brand": "Gol Mobile",
+   "name": "F10",
+   "device": "F10"
+  },
+  {
+   "brand": "Telego",
+   "name": "F10",
+   "device": "F10"
   }
  ],
  "F10_PRIME": [
@@ -82143,6 +82167,18 @@
    "device": "mmh45lm"
   }
  ],
+ "LGL555DL": [
+  {
+   "brand": "LGE",
+   "name": "K51",
+   "device": "mdh30lm"
+  },
+  {
+   "brand": "LGE",
+   "name": "LG Reflect",
+   "device": "mdh30lm"
+  }
+ ],
  "LM-K500": [
   {
    "brand": "LGE",
@@ -86141,13 +86177,6 @@
    "brand": "LGE",
    "name": "LG Rebel",
    "device": "e1q"
-  }
- ],
- "LGL555DL": [
-  {
-   "brand": "LGE",
-   "name": "LG Reflect",
-   "device": "mdh30lm"
   }
  ],
  "VS910 4G": [
@@ -94937,18 +94966,6 @@
    "device": "801LV"
   }
  ],
- "Lenovo TB-J706L": [
-  {
-   "brand": "Lenovo",
-   "name": "Lenovo Tab M10 HD (2nd Gen)",
-   "device": "J706L"
-  },
-  {
-   "brand": "Lenovo",
-   "name": "Lenovo Tab P11 Pro",
-   "device": "J706L"
-  }
- ],
  "Lenovo TB-X306F": [
   {
    "brand": "Lenovo",
@@ -95087,6 +95104,13 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab P11 Pro",
    "device": "J706F"
+  }
+ ],
+ "Lenovo TB-J706L": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab P11 Pro",
+   "device": "J706L"
   }
  ],
  "Lenovo PB-6505M": [
@@ -172553,13 +172577,6 @@
    "device": "DMTS19TIA"
   }
  ],
- "F10": [
-  {
-   "brand": "Telego",
-   "name": "F10",
-   "device": "F10"
-  }
- ],
  "TP-MDM107": [
   {
    "brand": "Telelynx",
@@ -174433,6 +174450,13 @@
    "brand": "True",
    "name": "TrueID TV",
    "device": "TrueHPH07"
+  }
+ ],
+ "T3AMX3": [
+  {
+   "brand": "TrueIDTV",
+   "name": "T3AMX3",
+   "device": "SEI600TID"
   }
  ],
  "TC504B": [

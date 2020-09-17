@@ -8554,6 +8554,11 @@
    "model": "LG Google TV G3 KR"
   },
   {
+   "brand": "LLOYD",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
    "brand": "Master-G",
    "device": "R1",
    "model": "ATV R1"
@@ -24114,6 +24119,13 @@
    "brand": "Blackview",
    "device": "BV6100",
    "model": "BV6100"
+  }
+ ],
+ "BV6300Pro": [
+  {
+   "brand": "Blackview",
+   "device": "BV6300Pro",
+   "model": "BV6300Pro"
   }
  ],
  "BV6800Pro": [
@@ -49682,6 +49694,11 @@
    "brand": "Gionee",
    "device": "F10",
    "model": "GIONEE F10"
+  },
+  {
+   "brand": "Gol Mobile",
+   "device": "F10",
+   "model": "F10"
   },
   {
    "brand": "Hisense",
@@ -82699,6 +82716,11 @@
   {
    "brand": "LGE",
    "device": "mdh30lm",
+   "model": "LGL555DL"
+  },
+  {
+   "brand": "LGE",
+   "device": "mdh30lm",
    "model": "LM-K500"
   },
   {
@@ -93870,11 +93892,6 @@
   }
  ],
  "Lenovo Tab M10 HD (2nd Gen)": [
-  {
-   "brand": "Lenovo",
-   "device": "J706L",
-   "model": "Lenovo TB-J706L"
-  },
   {
    "brand": "Lenovo",
    "device": "X306F",
@@ -164670,6 +164687,13 @@
    "brand": "True",
    "device": "TrueHPH07",
    "model": "HPH07"
+  }
+ ],
+ "T3AMX3": [
+  {
+   "brand": "TrueIDTV",
+   "device": "SEI600TID",
+   "model": "T3AMX3"
   }
  ],
  "TC504B": [

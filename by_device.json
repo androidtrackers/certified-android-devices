@@ -3192,6 +3192,11 @@
    "model": "ATV R1"
   },
   {
+   "brand": "LLOYD",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
    "brand": "Master-G",
    "name": "Android TV",
    "model": "ATV R1"
@@ -19175,6 +19180,13 @@
    "brand": "Blackview",
    "name": "BV6100",
    "model": "BV6100"
+  }
+ ],
+ "BV6300Pro": [
+  {
+   "brand": "Blackview",
+   "name": "BV6300Pro",
+   "model": "BV6300Pro"
   }
  ],
  "BV6800Pro": [
@@ -44882,6 +44894,11 @@
    "brand": "Gionee",
    "name": "F10",
    "model": "GIONEE F10"
+  },
+  {
+   "brand": "Gol Mobile",
+   "name": "F10",
+   "model": "F10"
   },
   {
    "brand": "Telego",
@@ -80025,6 +80042,11 @@
   {
    "brand": "LGE",
    "name": "K51",
+   "model": "LGL555DL"
+  },
+  {
+   "brand": "LGE",
+   "name": "K51",
    "model": "LM-K500"
   },
   {
@@ -91609,18 +91631,6 @@
    "model": "801LV"
   }
  ],
- "J706L": [
-  {
-   "brand": "Lenovo",
-   "name": "Lenovo Tab M10 HD (2nd Gen)",
-   "model": "Lenovo TB-J706L"
-  },
-  {
-   "brand": "Lenovo",
-   "name": "Lenovo Tab P11 Pro",
-   "model": "Lenovo TB-J706L"
-  }
- ],
  "X306F": [
   {
    "brand": "Lenovo",
@@ -91759,6 +91769,13 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab P11 Pro",
    "model": "Lenovo TB-J706F"
+  }
+ ],
+ "J706L": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab P11 Pro",
+   "model": "Lenovo TB-J706L"
   }
  ],
  "PB-6505M": [
@@ -167049,6 +167066,13 @@
    "brand": "True",
    "name": "TrueID TV",
    "model": "HPH07"
+  }
+ ],
+ "SEI600TID": [
+  {
+   "brand": "TrueIDTV",
+   "name": "T3AMX3",
+   "model": "T3AMX3"
   }
  ],
  "TC504B": [

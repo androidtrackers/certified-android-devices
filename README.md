@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-09-16
+Last sync is 2020-09-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2474,6 +2474,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|BV6000_RU|BV6000_RU|BV6000_RU|
 |Blackview|BV6000s|BV6000S|BV6000S|
 |Blackview|BV6100|BV6100|BV6100|
+|Blackview|BV6300Pro|BV6300Pro|BV6300Pro|
 |Blackview|BV6800Pro|BV6800Pro|BV6800Pro|
 |Blackview|BV6800Pro-RU|BV6800Pro_RU|BV6800Pro_RU|
 |Blackview|BV6800Pro_RU|BV6800Pro_RU|BV6800Pro_RU|
@@ -6195,6 +6196,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GoClever|Quantum 500 STEEL|FQ_500R|Quantum_500_STEEL|
 |GoClever|TQ700/QUANTUM 700/TAB|TQ700|TQ700|
 |Gobox|T2|T2|T2|
+|Gol Mobile|F10|F10|F10|
 |Gol Mobile|F10_PRIME|F10_PRIME|F10_PRIME|
 |Gol Mobile|F3Prime|F3Prime|F3Prime|
 |Gol Mobile|F4|F4|F4|
@@ -11702,6 +11704,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|K4 (2017)|lv1|LGL57BL|
 |LGE|K42|meh15lm|LM-K420|
 |LGE|K50S|mmh45lm|LM-X540|
+|LGE|K51|mdh30lm|LGL555DL|
 |LGE|K51|mdh30lm|LM-K500|
 |LGE|K51|mdh30xlm|LM-K500|
 |LGE|K51S|mdh35lm|LM-K510|
@@ -12791,6 +12794,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LLA|Orion|SEI500L|Orion|
 |LLA|VIP6102W LLA-PA|vip6102w|VIP6102W|
 |LLA|VIP6102W-LLA|vip6102w|VIP6102W|
+|LLOYD|Android TV|R1|ATV R1|
 |LNMBBS|P40-EEA|P40-EEA|P40-EEA|
 |LNMBBS|P401|P401|P401|
 |LOOQS|L108MR|L108MR|L108MR|
@@ -13666,7 +13670,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M10 FHD Plus|X606X|Lenovo TB-X606X|
 |Lenovo|Lenovo Tab M10 FHD Plus|X616M|Lenovo TB-X616M|
 |Lenovo|Lenovo Tab M10 FHD Rel|801LV|801LV|
-|Lenovo|Lenovo Tab M10 HD (2nd Gen)|J706L|Lenovo TB-J706L|
 |Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306F|Lenovo TB-X306F|
 |Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306FA|Lenovo TB-X306FA|
 |Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306FC_PRC|Lenovo TB-X306FC_PRC|
@@ -25614,6 +25617,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |True|SMART_MAX_4.0_PLUS|P909|SMART_MAX_4.0_PLUS|
 |True|TrueID TV|TV_A01|STI6030_TRUE_TV_A01|
 |True|TrueID TV|TrueHPH07|HPH07|
+|TrueIDTV|T3AMX3|SEI600TID|T3AMX3|
 |TuCEL|TC504B|TC504B|TC504B|
 |TuCEL|TL554B|TL554B|TL554B|
 |Tunisie Telecom|Star Trail by TT|startrail3_tt|StarTrail TT|
