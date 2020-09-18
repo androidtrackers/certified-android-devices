@@ -29748,6 +29748,13 @@
    "model": "J7"
   }
  ],
+ "J8": [
+  {
+   "brand": "Cubot",
+   "name": "J8",
+   "model": "J8"
+  }
+ ],
  "KING_KONG_CS": [
   {
    "brand": "Cubot",
@@ -37836,12 +37843,22 @@
    "brand": "Ergo",
    "name": "ERGO V552 Intense",
    "model": "ERGO V552 Intense"
+  },
+  {
+   "brand": "Ergo",
+   "name": "ERGO_V552_Intense",
+   "model": "ERGO V552 Intense"
   }
  ],
  "ERGO_V600_Vega": [
   {
    "brand": "Ergo",
    "name": "ERGO V600 Vega",
+   "model": "ERGO V600 Vega"
+  },
+  {
+   "brand": "Ergo",
+   "name": "ERGO_V600_Vega",
    "model": "ERGO V600 Vega"
   }
  ],
@@ -42890,6 +42907,11 @@
  "P2000": [
   {
    "brand": "G-Tab",
+   "name": "P2000",
+   "model": "P2000"
+  },
+  {
+   "brand": "Jettom",
    "name": "P2000",
    "model": "P2000"
   }

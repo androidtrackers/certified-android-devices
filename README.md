@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-09-17
+Last sync is 2020-09-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3916,6 +3916,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|ECHO|CUBOT_ECHO|CUBOT ECHO|
 |Cubot|J5|J5|J5|
 |Cubot|J7|J7|J7|
+|Cubot|J8|J8|J8|
 |Cubot|KING KONG CS|KING_KONG_CS|KING KONG CS|
 |Cubot|KINGKONG_MINI|KINGKONG_MINI|KINGKONG_MINI|
 |Cubot|KING_KONG_3|KING_KONG_3|KING_KONG_3|
@@ -5052,6 +5053,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ergo|ERGO V552 Intense|ERGO_V552_Intense|ERGO V552 Intense|
 |Ergo|ERGO V600 Vega|ERGO_V600_Vega|ERGO V600 Vega|
 |Ergo|ERGO_A556|ERGO_A556|ERGO_A556|
+|Ergo|ERGO_V552_Intense|ERGO_V552_Intense|ERGO V552 Intense|
+|Ergo|ERGO_V600_Vega|ERGO_V600_Vega|ERGO V600 Vega|
 |Ergo|F501_Magic|F501_Magic|F501_Magic|
 |Ergo|V500_Vector|V500_Vector|V500_Vector|
 |Ergo|V540_Level|V540_Level|V540_Level|
@@ -10836,6 +10839,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Jenesis|JT10-81B|JT10-81B|JT10-81B|
 |Jesy|J11|J11|J11|
 |Jesy|J9S|J9S|J9S|
+|Jettom|P2000|P2000|P2000|
 |Jettom|RobotPad-A1|RobotPad-A1|RobotPad-A1|
 |Jettom|RobotPad-A1_EEA|RobotPad-A1_EEA|RobotPad-A1_EEA|
 |Jide|Remix Mini|rm1g|Remix Mini|

@@ -34859,6 +34859,18 @@
    "model": "TECNO-J5"
   }
  ],
+ "J8": [
+  {
+   "brand": "Cubot",
+   "device": "J8",
+   "model": "J8"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-J8",
+   "model": "TECNO-J8"
+  }
+ ],
  "KING KONG CS": [
   {
    "brand": "Cubot",
@@ -42947,6 +42959,20 @@
    "model": "ERGO_A556"
   }
  ],
+ "ERGO_V552_Intense": [
+  {
+   "brand": "Ergo",
+   "device": "ERGO_V552_Intense",
+   "model": "ERGO V552 Intense"
+  }
+ ],
+ "ERGO_V600_Vega": [
+  {
+   "brand": "Ergo",
+   "device": "ERGO_V600_Vega",
+   "model": "ERGO V600 Vega"
+  }
+ ],
  "F501_Magic": [
   {
    "brand": "Ergo",
@@ -47789,6 +47815,11 @@
  "P2000": [
   {
    "brand": "G-Tab",
+   "device": "P2000",
+   "model": "P2000"
+  },
+  {
+   "brand": "Jettom",
    "device": "P2000",
    "model": "P2000"
   }
@@ -161594,13 +161625,6 @@
    "brand": "Tecno",
    "device": "qp16_tecno_h7s",
    "model": "H7S"
-  }
- ],
- "J8": [
-  {
-   "brand": "Tecno",
-   "device": "TECNO-J8",
-   "model": "TECNO-J8"
   }
  ],
  "L8": [

@@ -20222,6 +20222,11 @@
    "model": "J7"
   },
   {
+   "device": "J8",
+   "name": "J8",
+   "model": "J8"
+  },
+  {
    "device": "KING_KONG_CS",
    "name": "KING KONG CS",
    "model": "KING KONG CS"
@@ -26180,6 +26185,16 @@
    "device": "ERGO_A556",
    "name": "ERGO_A556",
    "model": "ERGO_A556"
+  },
+  {
+   "device": "ERGO_V552_Intense",
+   "name": "ERGO_V552_Intense",
+   "model": "ERGO V552 Intense"
+  },
+  {
+   "device": "ERGO_V600_Vega",
+   "name": "ERGO_V600_Vega",
+   "model": "ERGO V600 Vega"
   },
   {
    "device": "F501_Magic",
@@ -55681,6 +55696,11 @@
   }
  ],
  "Jettom": [
+  {
+   "device": "P2000",
+   "name": "P2000",
+   "model": "P2000"
+  },
   {
    "device": "RobotPad-A1",
    "name": "RobotPad-A1",
