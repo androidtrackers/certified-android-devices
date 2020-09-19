@@ -39344,6 +39344,13 @@
    "model": "S55_Lite"
   }
  ],
+ "S58Pro": [
+  {
+   "brand": "Doogee",
+   "device": "S58Pro",
+   "model": "S58Pro"
+  }
+ ],
  "S60": [
   {
    "brand": "Doogee",
@@ -88601,6 +88608,13 @@
    "model": "LM-X210LMW"
   }
  ],
+ "W11": [
+  {
+   "brand": "LGE",
+   "device": "Neo11LM",
+   "model": "LM-K310IM"
+  }
+ ],
  "W30": [
   {
    "brand": "LGE",
@@ -112269,6 +112283,13 @@
    "brand": "ODYS",
    "device": "NoteTab_Pro",
    "model": "NoteTab_Pro"
+  }
+ ],
+ "ODYS_SPACE_ONE_10": [
+  {
+   "brand": "ODYS",
+   "device": "T1011S",
+   "model": "SPACE_ONE10"
   }
  ],
  "PACE 10": [
@@ -142436,6 +142457,11 @@
    "brand": "Samsung",
    "device": "f2q",
    "model": "SM-F916N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "f2q",
+   "model": "SM-F916Q"
   },
   {
    "brand": "Samsung",

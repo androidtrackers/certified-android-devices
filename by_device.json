@@ -34424,6 +34424,13 @@
    "model": "S55_Lite"
   }
  ],
+ "S58Pro": [
+  {
+   "brand": "Doogee",
+   "name": "S58Pro",
+   "model": "S58Pro"
+  }
+ ],
  "t777_dg_m1_65_n": [
   {
    "brand": "Doogee",
@@ -85611,6 +85618,13 @@
    "model": "LM-X210LMW"
   }
  ],
+ "Neo11LM": [
+  {
+   "brand": "LGE",
+   "name": "W11",
+   "model": "LM-K310IM"
+  }
+ ],
  "LM-X440IM": [
   {
    "brand": "LGE",
@@ -111377,6 +111391,13 @@
    "brand": "ODYS",
    "name": "NoteTab_Pro",
    "model": "NoteTab_Pro"
+  }
+ ],
+ "T1011S": [
+  {
+   "brand": "ODYS",
+   "name": "ODYS_SPACE_ONE_10",
+   "model": "SPACE_ONE10"
   }
  ],
  "PACE10": [
@@ -144209,6 +144230,11 @@
    "brand": "Samsung",
    "name": "Galaxy Z Fold2 5G",
    "model": "SM-F916N"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold2 5G",
+   "model": "SM-F916Q"
   },
   {
    "brand": "Samsung",

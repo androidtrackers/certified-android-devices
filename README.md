@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-09-18
+Last sync is 2020-09-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4561,6 +4561,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|S50|t758_dg_m3t_n|S50|
 |Doogee|S55|S55|S55|
 |Doogee|S55_Lite|S55_Lite|S55_Lite|
+|Doogee|S58Pro|S58Pro|S58Pro|
 |Doogee|S60|S60|S60|
 |Doogee|S60 Lite|t777_dg_m1_65_n|S60 Lite|
 |Doogee|S60Lite|S60Lite|S60Lite|
@@ -12750,6 +12751,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|Velvet|caymanlm|LM-G900|
 |LGE|W10|LMX130IM|LMX130IM|
 |LGE|W10 Alpha|Neo2ALP|LM-X210LMW|
+|LGE|W11|Neo11LM|LM-K310IM|
 |LGE|W30|LM-X440IM|LM-X440IM|
 |LGE|W30|LM-X440ZM|LM-X440ZM|
 |LGE|W30|LM-X440ZMW|LM-X440ZMW|
@@ -16679,6 +16681,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ODYS|MAVEN_X10_HD_LTE|MAVEN_X10_HD_LTE|MAVEN_X10_HD_LTE|
 |ODYS|Maven_T10_pro|Maven_T10_pro|Maven_T10_pro|
 |ODYS|NoteTab_Pro|NoteTab_Pro|NoteTab_Pro|
+|ODYS|ODYS_SPACE_ONE_10|T1011S|SPACE_ONE10|
 |ODYS|PACE 10|PACE10|PACE10|
 |ODYS|THANOS_10|THANOS_10|THANOS_10|
 |ODYS|Titan_10_LTE|Titan_10_LTE|Titan_10_LTE|
@@ -21827,6 +21830,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F9160|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F916B|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F916N|
+|Samsung|Galaxy Z Fold2 5G|f2q|SM-F916Q|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F916U|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F916U1|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F916W|

@@ -23589,6 +23589,11 @@
    "model": "S55_Lite"
   },
   {
+   "device": "S58Pro",
+   "name": "S58Pro",
+   "model": "S58Pro"
+  },
+  {
    "device": "S60",
    "name": "S60",
    "model": "S60"
@@ -65406,6 +65411,11 @@
    "model": "LM-X210LMW"
   },
   {
+   "device": "Neo11LM",
+   "name": "W11",
+   "model": "LM-K310IM"
+  },
+  {
    "device": "LM-X440IM",
    "name": "W30",
    "model": "LM-X440IM"
@@ -85597,6 +85607,11 @@
    "device": "NoteTab_Pro",
    "name": "NoteTab_Pro",
    "model": "NoteTab_Pro"
+  },
+  {
+   "device": "T1011S",
+   "name": "ODYS_SPACE_ONE_10",
+   "model": "SPACE_ONE10"
   },
   {
    "device": "PACE10",
@@ -111789,6 +111804,11 @@
    "device": "f2q",
    "name": "Galaxy Z Fold2 5G",
    "model": "SM-F916N"
+  },
+  {
+   "device": "f2q",
+   "name": "Galaxy Z Fold2 5G",
+   "model": "SM-F916Q"
   },
   {
    "device": "f2q",
