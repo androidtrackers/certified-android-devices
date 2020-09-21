@@ -38009,6 +38009,13 @@
    "model": "eSTAR Grand IPS Quad core 3G"
   }
  ],
+ "MID1020L": [
+  {
+   "brand": "Estar",
+   "name": "MID1020L",
+   "model": "MID1020L"
+  }
+ ],
  "MID7399": [
   {
    "brand": "Estar",
@@ -69692,6 +69699,20 @@
    "brand": "Infinix",
    "name": "NOTE 7",
    "model": "Infinix X690C"
+  }
+ ],
+ "Infinix-X683": [
+  {
+   "brand": "Infinix",
+   "name": "NOTE 8i",
+   "model": "Infinix X683"
+  }
+ ],
+ "Infinix-X683B": [
+  {
+   "brand": "Infinix",
+   "name": "NOTE 8i",
+   "model": "Infinix X683B"
   }
  ],
  "Infinix-X610": [
@@ -115622,6 +115643,13 @@
    "model": "WP7"
   }
  ],
+ "WP8_Pro": [
+  {
+   "brand": "Oukitel",
+   "name": "WP8_Pro",
+   "model": "WP8 Pro"
+  }
+ ],
  "Y1000": [
   {
    "brand": "Oukitel",
@@ -155982,7 +156010,7 @@
   },
   {
    "brand": "TCL",
-   "name": "TCL L10+",
+   "name": "TCL T Pro",
    "model": "5130M"
   },
   {
@@ -156039,6 +156067,11 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1SE",
    "model": "5030U"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1SP",
+   "model": "5030E_RU"
   }
  ],
  "Tokyo": [

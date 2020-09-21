@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-09-20
+Last sync is 2020-09-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5078,6 +5078,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Estar|GO! IPS Quad core 3G|MID7458G|eSTAR GO! IPS Quad core 3G|
 |Estar|GRAND HD Quad Core|MID1198|eSTAR GRAND HD Quad core|
 |Estar|Grand IPS Quad core 3G|MID1258G|eSTAR Grand IPS Quad core 3G|
+|Estar|MID1020L|MID1020L|MID1020L|
 |Estar|MID7399|MID7399|eSTAR BEAUTY 3 HD Quad core|
 |Estar|eSTAR BEAUTY 2 HD Quad core|MID7388|eSTAR BEAUTY 2 HD Quad core|
 |Estar|eSTAR GRAND HD Quad Core|MID1298|eSTAR GRAND HD Quad core|
@@ -10183,6 +10184,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|NOTE 7|Infinix-X690|Infinix X690|
 |Infinix|NOTE 7|Infinix-X690B|Infinix X690B|
 |Infinix|NOTE 7|Infinix-X690C|Infinix X690C|
+|Infinix|NOTE 8i|Infinix-X683|Infinix X683|
+|Infinix|NOTE 8i|Infinix-X683B|Infinix X683B|
 |Infinix|Note 6|Infinix-X610|Infinix X610B|
 |Infinix|RACE Blot2|Infinix_X454|Infinix X454|
 |Infinix|RACE Bolt 3|X455|Infinix X455|
@@ -17342,6 +17345,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|WP5000|WP5000|WP5000|
 |Oukitel|WP6|WP6|WP6|
 |Oukitel|WP7|WP7|WP7|
+|Oukitel|WP8_Pro|WP8_Pro|WP8 Pro|
 |Oukitel|Y1000|Y1000|Y1000|
 |Oukitel|Y4800|Y4800|Y4800|
 |Overmax|Livecore7032|Livecore7032|Livecore7032|
@@ -23581,7 +23585,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL L10+|Jakarta|5030E_TCL|
 |TCL|TCL L10+|Jakarta|5130I|
 |TCL|TCL L10+|Jakarta|5130J|
-|TCL|TCL L10+|Jakarta|5130M|
 |TCL|TCL L10+|Tokyo|5128A|
 |TCL|TCL L10+|Tokyo|5128Y|
 |TCL|TCL L5|U3A_PLUS_4G|5133A|
@@ -23596,6 +23599,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL L9S|Tokyo_Lite|5107J|
 |TCL|TCL PLEX|T1|T780H|
 |TCL|TCL PLEX|T1_L1|T780H|
+|TCL|TCL T Pro|Jakarta|5130M|
 |TCL|TCL T Pro|Milan|5161A|
 |TCL|TCL T Pro|Milan|5161K|
 |TCL|TCL T7|A5A_INFINI|5186A|
@@ -24290,6 +24294,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1SE|Jakarta|5030U|
 |TCT (Alcatel)|Alcatel 1SE elite edition|Jakarta_Lite|4087N|
 |TCT (Alcatel)|Alcatel 1SE elite edition|Jakarta_Lite|4087U|
+|TCT (Alcatel)|Alcatel 1SP|Jakarta|5030E_RU|
 |TCT (Alcatel)|Alcatel 1T 7 WIFI|U3A_7_WIFI|8068|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007A|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007G|

@@ -43125,6 +43125,13 @@
    "model": "eSTAR Grand IPS Quad core 3G"
   }
  ],
+ "MID1020L": [
+  {
+   "brand": "Estar",
+   "device": "MID1020L",
+   "model": "MID1020L"
+  }
+ ],
  "MID7399": [
   {
    "brand": "Estar",
@@ -73705,6 +73712,18 @@
    "brand": "Infinix",
    "device": "Infinix-X571",
    "model": "Infinix X571-LTE"
+  }
+ ],
+ "NOTE 8i": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X683",
+   "model": "Infinix X683"
+  },
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X683B",
+   "model": "Infinix X683B"
   }
  ],
  "Note 6": [
@@ -116250,6 +116269,13 @@
    "model": "WP7"
   }
  ],
+ "WP8_Pro": [
+  {
+   "brand": "Oukitel",
+   "device": "WP8_Pro",
+   "model": "WP8 Pro"
+  }
+ ],
  "Y1000": [
   {
    "brand": "Oukitel",
@@ -153183,11 +153209,6 @@
   },
   {
    "brand": "TCL",
-   "device": "Jakarta",
-   "model": "5130M"
-  },
-  {
-   "brand": "TCL",
    "device": "Tokyo",
    "model": "5128A"
   },
@@ -153270,6 +153291,11 @@
   }
  ],
  "TCL T Pro": [
+  {
+   "brand": "TCL",
+   "device": "Jakarta",
+   "model": "5130M"
+  },
   {
    "brand": "TCL",
    "device": "Milan",
@@ -156748,6 +156774,13 @@
    "brand": "TCT (Alcatel)",
    "device": "Jakarta_Lite",
    "model": "4087U"
+  }
+ ],
+ "Alcatel 1SP": [
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Jakarta",
+   "model": "5030E_RU"
   }
  ],
  "Alcatel 1T 7 WIFI": [

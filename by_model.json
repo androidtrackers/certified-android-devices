@@ -37051,6 +37051,13 @@
    "device": "MID1258G"
   }
  ],
+ "MID1020L": [
+  {
+   "brand": "Estar",
+   "name": "MID1020L",
+   "device": "MID1020L"
+  }
+ ],
  "eSTAR BEAUTY 3 HD Quad core": [
   {
    "brand": "Estar",
@@ -71716,6 +71723,20 @@
    "brand": "Infinix",
    "name": "NOTE 7",
    "device": "Infinix-X690C"
+  }
+ ],
+ "Infinix X683": [
+  {
+   "brand": "Infinix",
+   "name": "NOTE 8i",
+   "device": "Infinix-X683"
+  }
+ ],
+ "Infinix X683B": [
+  {
+   "brand": "Infinix",
+   "name": "NOTE 8i",
+   "device": "Infinix-X683B"
   }
  ],
  "Infinix X610B": [
@@ -119052,6 +119073,13 @@
    "device": "WP7"
   }
  ],
+ "WP8 Pro": [
+  {
+   "brand": "Oukitel",
+   "name": "WP8_Pro",
+   "device": "WP8_Pro"
+  }
+ ],
  "Y1000": [
   {
    "brand": "Oukitel",
@@ -160743,13 +160771,6 @@
    "device": "Jakarta"
   }
  ],
- "5130M": [
-  {
-   "brand": "TCL",
-   "name": "TCL L10+",
-   "device": "Jakarta"
-  }
- ],
  "5128A": [
   {
    "brand": "TCL",
@@ -160844,6 +160865,13 @@
    "brand": "TCL",
    "name": "TCL PLEX",
    "device": "T1_L1"
+  }
+ ],
+ "5130M": [
+  {
+   "brand": "TCL",
+   "name": "TCL T Pro",
+   "device": "Jakarta"
   }
  ],
  "5161A": [
@@ -165754,6 +165782,13 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1SE elite edition",
    "device": "Jakarta_Lite"
+  }
+ ],
+ "5030E_RU": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1SP",
+   "device": "Jakarta"
   }
  ],
  "8068": [
