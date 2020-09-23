@@ -227,11 +227,6 @@
    "device": "IPBox",
    "name": "ACT4K1007",
    "model": "ACT4K1007"
-  },
-  {
-   "device": "IPBox",
-   "name": "Skyworth",
-   "model": "ACT4K1007"
   }
  ],
  "AG Mobile": [
@@ -2652,11 +2647,6 @@
   }
  ],
  "Airtel": [
-  {
-   "device": "AirtelOTTBox",
-   "name": "Airtel",
-   "model": "HP2707"
-  },
   {
    "device": "AirtelOTTBox",
    "name": "HP2707",
@@ -32355,11 +32345,6 @@
    "model": "grunt"
   },
   {
-   "device": "SW3_ATV",
-   "name": "Asia",
-   "model": "SWTV"
-  },
-  {
    "device": "edgar_cheets",
    "name": "Chromebook 14 (CB3-431)",
    "model": "Acer Chromebook 14 (CB3-431)"
@@ -32588,11 +32573,6 @@
    "device": "mighty_cheets",
    "name": "Rockchip RK3288 Chromebook",
    "model": "Rockchip RK3288 Chromebook"
-  },
-  {
-   "device": "SW3H_ATV",
-   "name": "TV",
-   "model": "SWTV"
   },
   {
    "device": "generic_x86",
@@ -52356,6 +52336,11 @@
    "model": "Infinix X687"
   },
   {
+   "device": "Infinix-X687B",
+   "name": "Infinix ZERO8",
+   "model": "Infinix X687B"
+  },
+  {
    "device": "X601",
    "name": "NOTE 3",
    "model": "Infinix NOTE 3"
@@ -55539,6 +55524,11 @@
    "device": "AV-10NT310",
    "name": "AV-10NT310",
    "model": "AV-10NT310"
+  },
+  {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
   },
   {
    "device": "mstarnapoli_atsc",
@@ -65773,6 +65763,11 @@
    "device": "R1",
    "name": "Android TV",
    "model": "ATV R1"
+  },
+  {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
   }
  ],
  "LNMBBS": [
@@ -78498,6 +78493,11 @@
    "model": "TicWatch Pro"
   },
   {
+   "device": "rubyfish",
+   "name": "TicWatch Pro 3 GPS",
+   "model": "TicWatch Pro 3 GPS"
+  },
+  {
    "device": "catshark",
    "name": "TicWatch Pro 4G",
    "model": "TicWatch Pro 4G"
@@ -80449,6 +80449,16 @@
    "model": "MZ617"
   },
   {
+   "device": "smith",
+   "name": "XT2071-4",
+   "model": "XT2071-4"
+  },
+  {
+   "device": "smith",
+   "name": "XT2071-4",
+   "model": "motorola razr (2020)"
+  },
+  {
    "device": "umts_jorian",
    "name": "XT605",
    "model": "XT605"
@@ -80996,16 +81006,6 @@
   {
    "device": "smith",
    "name": "motorola razr (2020)",
-   "model": "motorola razr (2020)"
-  },
-  {
-   "device": "smith",
-   "name": "motorola razr 5G",
-   "model": "XT2071-4"
-  },
-  {
-   "device": "smith",
-   "name": "motorola razr 5G",
    "model": "motorola razr (2020)"
   },
   {
@@ -84732,6 +84732,13 @@
    "device": "NB7850S",
    "name": "NB7850S",
    "model": "NB7850S"
+  }
+ ],
+ "NobleSkiodo": [
+  {
+   "device": "samseong",
+   "name": "43UDVRCHG7H",
+   "model": "AI PONT"
   }
  ],
  "Noblex": [
@@ -97545,6 +97552,11 @@
    "model": "RMX2001"
   },
   {
+   "device": "RMX2002L1",
+   "name": "realme 6",
+   "model": "RMX2002"
+  },
+  {
    "device": "RMX2003L1",
    "name": "realme 6",
    "model": "RMX2003"
@@ -97578,6 +97590,21 @@
    "device": "RMX2042",
    "name": "realme 6i",
    "model": "RMX2042"
+  },
+  {
+   "device": "RMX2002L1",
+   "name": "realme 6s",
+   "model": "RMX2002"
+  },
+  {
+   "device": "RMX2170L1",
+   "name": "realme 7 Pro",
+   "model": "RMX2170"
+  },
+  {
+   "device": "RE50BF",
+   "name": "realme C17",
+   "model": "RMX2101"
   },
   {
    "device": "RMX1946",
@@ -97620,6 +97647,26 @@
    "model": "AI PONT"
   },
   {
+   "device": "RMX2200CN",
+   "name": "realme V3 5G",
+   "model": "RMX2200"
+  },
+  {
+   "device": "RMX2201CN",
+   "name": "realme V3 5G",
+   "model": "RMX2201"
+  },
+  {
+   "device": "RMX2111CN",
+   "name": "realme V5 5G",
+   "model": "RMX2111"
+  },
+  {
+   "device": "RMX2112CN",
+   "name": "realme V5 5G",
+   "model": "RMX2112"
+  },
+  {
    "device": "RMX1991CN",
    "name": "realme X2",
    "model": "RMX1991"
@@ -97650,6 +97697,11 @@
    "model": "RMX2081"
   },
   {
+   "device": "RMX2083L1",
+   "name": "realme X3",
+   "model": "RMX2083"
+  },
+  {
    "device": "RMX2085L1",
    "name": "realme X3",
    "model": "RMX2085"
@@ -97658,6 +97710,11 @@
    "device": "RMX2086L1",
    "name": "realme X3",
    "model": "RMX2086"
+  },
+  {
+   "device": "RMX2144L1",
+   "name": "realme X50 5G",
+   "model": "RMX2144"
   },
   {
    "device": "RMX2025CN",
@@ -97728,6 +97785,26 @@
    "device": "RMX1922",
    "name": "realme XT",
    "model": "RMX1922"
+  },
+  {
+   "device": "RMX2050",
+   "name": "realme narzo 20A",
+   "model": "RMX2050"
+  },
+  {
+   "device": "RMX2121CN",
+   "name": "realme  X7Pro 5G",
+   "model": "RMX2121"
+  },
+  {
+   "device": "RE50C1",
+   "name": "realme 7i",
+   "model": "RMX2103"
+  },
+  {
+   "device": "RE50C1",
+   "name": "realme 7i",
+   "model": "RMX2104"
   }
  ],
  "Realtek": [
@@ -99853,6 +99930,11 @@
   }
  ],
  "SUPERSONIC": [
+  {
+   "device": "SC-2109",
+   "name": "SC-2109",
+   "model": "SC-2109"
+  },
   {
    "device": "SC-2110",
    "name": "SC-2110",
@@ -115517,6 +115599,11 @@
    "model": "SWTV"
   },
   {
+   "device": "SW3_ATV",
+   "name": "Asia",
+   "model": "SWTV"
+  },
+  {
    "device": "globe_ap",
    "name": "Asia",
    "model": "globe"
@@ -115610,6 +115697,11 @@
    "device": "shinjuku",
    "name": "South America",
    "model": "SA 2K TV"
+  },
+  {
+   "device": "SW3H_ATV",
+   "name": "TV",
+   "model": "SWTV"
   },
   {
    "device": "SW3H_ATV",
@@ -127633,6 +127725,13 @@
    "model": "TG-L900S"
   }
  ],
+ "THE UHD": [
+  {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
+  }
+ ],
  "THEHAM": [
   {
    "device": "sindorim",
@@ -129355,6 +129454,11 @@
    "device": "TECNO-CD7",
    "name": "TECNO CAMON 15",
    "model": "TECNO CD7"
+  },
+  {
+   "device": "TECNO-CE9h",
+   "name": "TECNO CAMON 16",
+   "model": "TECNO CE9h"
   },
   {
    "device": "TECNO-CE9",
@@ -144618,6 +144722,11 @@
    "model": "K85"
   },
   {
+   "device": "K87",
+   "name": "K87CA",
+   "model": "K87CA"
+  },
+  {
    "device": "jasmine",
    "name": "K88",
    "model": "K88"
@@ -147923,6 +148032,11 @@
    "model": "ZTE 2050RU"
   },
   {
+   "device": "P963F05",
+   "name": "ZTE 8010",
+   "model": "ZTE 8010"
+  },
+  {
    "device": "P963S05",
    "name": "ZTE 8010",
    "model": "ZTE 8010"
@@ -150431,6 +150545,11 @@
   },
   {
    "device": "i5Plus",
+   "name": "i5+",
+   "model": "i5+"
+  },
+  {
+   "device": "i5Plus",
    "name": "i5Plus",
    "model": "i5Plus"
   },
@@ -151462,6 +151581,13 @@
    "device": "G4i",
    "name": "G4i",
    "model": "G4i"
+  }
+ ],
+ "innos": [
+  {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
   }
  ],
  "intelkom": [

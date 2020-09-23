@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-09-22
+Last sync is 2020-09-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -45,7 +45,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ACE France|URBAN 2|URBAN_2|URBAN 2|
 |ACKEES|V10401|V10401|V10401|
 |ACT|ACT4K1007|IPBox|ACT4K1007|
-|ACT|Skyworth|IPBox|ACT4K1007|
 |AG Mobile|AG BOOST 2|BOOST2|E4010|
 |AG Mobile|AG Flair|AG_Flair|Flair|
 |AG Mobile|AG Go Tab Access 2|AG_Go_Tab_Access_2|AG_Go_Tab_Access_2|
@@ -511,7 +510,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Airpha|Sense2|Sense2|Sense2|
 |Airpha|Sense2_Pro|Sense2_Pro|Sense2_Pro|
 |Airtab|AT8-N|AT8-N|AT8-N|
-|Airtel|Airtel|AirtelOTTBox|HP2707|
 |Airtel|HP2707|AirtelOTTBox|HP2707|
 |Airtel|SH960S-AT|ganesa|SH960S-AT|
 |Airtel|XStream Smart Box|hsw4026atl|XStream_Smart_Box_001|
@@ -6231,7 +6229,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gonna|Zebra|Zebra|Zebra|
 |Goo|g08|v12dn|View Prime|
 |Google|AMD Stoney Ridge Chromebook|grunt_cheets|grunt|
-|Google|Asia|SW3_ATV|SWTV|
 |Google|Chromebook 14 (CB3-431)|edgar_cheets|Acer Chromebook 14 (CB3-431)|
 |Google|Chromebook 14 (CB3-431)|edgar_cheets|Chromebook 14 (CB3-431)|
 |Google|Chromebook Pixel (2015)|samus_cheets|Google Chromebook Pixel (2015)|
@@ -6278,7 +6275,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Rockchip RK3288 Chromebook|jerry_cheets|Rockchip RK3288 Chromebook|
 |Google|Rockchip RK3288 Chromebook|mighty_cheets|RK3288 Chrome OS Device|
 |Google|Rockchip RK3288 Chromebook|mighty_cheets|Rockchip RK3288 Chromebook|
-|Google|TV|SW3H_ATV|SWTV|
 |Google|gcar emulator|generic_x86|Automotive SDK built for x86|
 |Gplus|F53|GPLUS_F53|GPLUS F53|
 |Gplus|F68+|F68|F68+|
@@ -10186,6 +10182,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix X571|Infinix-X571|Infinix X571|
 |Infinix|Infinix X572|Infinix-X572|Infinix X572|
 |Infinix|Infinix ZERO8|Infinix-X687|Infinix X687|
+|Infinix|Infinix ZERO8|Infinix-X687B|Infinix X687B|
 |Infinix|NOTE 3|X601|Infinix NOTE 3|
 |Infinix|NOTE 3 Pro|X601-3G|Infinix NOTE 3 Pro|
 |Infinix|NOTE 3 Pro|X601-LTE|Infinix NOTE 3 Pro|
@@ -10811,6 +10808,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC||gener|RY-AP1|
 |JVC|4K_Edition|Android_TV_BOX|4K_Edition|
 |JVC|AV-10NT310|AV-10NT310|AV-10NT310|
+|JVC|Android TV|R2|ATV R2|
 |JVC|DM65UXR\DM65USR\DM85UXR|mstarnapoli_atsc|DM65UXR|
 |JVC|Dixons|sadang|UK 4K Android TV|
 |JVC|JVC|bangbae|EU 4K Android TV|
@@ -12821,6 +12819,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LLA|VIP6102W LLA-PA|vip6102w|VIP6102W|
 |LLA|VIP6102W-LLA|vip6102w|VIP6102W|
 |LLOYD|Android TV|R1|ATV R1|
+|LLOYD|Android TV|R2|ATV R2|
 |LNMBBS|P40-EEA|P40-EEA|P40-EEA|
 |LNMBBS|P401|P401|P401|
 |LOOQS|L108MR|L108MR|L108MR|
@@ -15302,6 +15301,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobvoi|TicWatch E2/S2|tunny|TicWatch E2|
 |Mobvoi|TicWatch E2/S2|tunny|TicWatch S2|
 |Mobvoi|TicWatch Pro|catfish|TicWatch Pro|
+|Mobvoi|TicWatch Pro 3 GPS|rubyfish|TicWatch Pro 3 GPS|
 |Mobvoi|TicWatch Pro 4G|catshark|TicWatch Pro 4G|
 |Mobvoi|TicWatch Pro BT|catfish_ext|TicWatch Pro|
 |Mobvoi|Ticwatch Pro 4G|catshark|TicWatch Pro 4G|
@@ -15687,6 +15687,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|XOOM|wingray|Xoom|
 |Motorola|XOOM 2|fleming|MZ609|
 |Motorola|XOOM 2|pasteur|MZ617|
+|Motorola|XT2071-4|smith|XT2071-4|
+|Motorola|XT2071-4|smith|motorola razr (2020)|
 |Motorola|XT605|umts_jorian|XT605|
 |Motorola|XT627|umts_irock|XT627|
 |Motorola|moto P30 NOTE|chef|XT1942-1|
@@ -15797,8 +15799,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola p50|kane|XT1970-5|
 |Motorola|motorola razr|olson|motorola razr|
 |Motorola|motorola razr (2020)|smith|motorola razr (2020)|
-|Motorola|motorola razr 5G|smith|XT2071-4|
-|Motorola|motorola razr 5G|smith|motorola razr (2020)|
 |Motorola|motorola razr 5G|smith|motorola razr 5G|
 |Motorola Solutions|LEX F10|LEXF10|LEX F10|
 |Motorola Solutions|LEX L10g|lexl10g|LEX L10g|
@@ -16512,6 +16512,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nobis|NB1022|RCT6203W46|NB1022|
 |Nobis|NB7022S|NB7022S|NB7022S|
 |Nobis|NB7850S|NB7850S|NB7850S|
+|NobleSkiodo|43UDVRCHG7H|samseong|AI PONT|
 |Noblex|Go Action|N551|N551|
 |Noblex|Go Move|N552|N552|
 |Noblex|Go Street|N504|N504|
@@ -19005,6 +19006,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme 5pro|RMX1971|RMX1971|
 |Realme|realme 5pro|RMX1973|RMX1973|
 |Realme|realme 6|RMX2001L1|RMX2001|
+|Realme|realme 6|RMX2002L1|RMX2002|
 |Realme|realme 6|RMX2003L1|RMX2003|
 |Realme|realme 6Pro|RMX2061L1|RMX2061|
 |Realme|realme 6Pro|RMX2063L1|RMX2063|
@@ -19012,6 +19014,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme 6i|RMX2040|RMX2040|
 |Realme|realme 6i|RMX2041|RMX2041|
 |Realme|realme 6i|RMX2042|RMX2042|
+|Realme|realme 6s|RMX2002L1|RMX2002|
+|Realme|realme 7 Pro|RMX2170L1|RMX2170|
+|Realme|realme C17|RE50BF|RMX2101|
 |Realme|realme C2|RMX1946|RMX1946|
 |Realme|realme C3|RMX2020|RMX2020|
 |Realme|realme C3|RMX2021|RMX2021|
@@ -19020,14 +19025,20 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme C3i|RMX2027|RMX2027|
 |Realme|realme Q|RMX1971CN|RMX1971|
 |Realme|realme TV 32|ikebukuro|AI PONT|
+|Realme|realme V3 5G|RMX2200CN|RMX2200|
+|Realme|realme V3 5G|RMX2201CN|RMX2201|
+|Realme|realme V5 5G|RMX2111CN|RMX2111|
+|Realme|realme V5 5G|RMX2112CN|RMX2112|
 |Realme|realme X2|RMX1991CN|RMX1991|
 |Realme|realme X2|RMX1992L1|RMX1992|
 |Realme|realme X2|RMX1993L1|RMX1993|
 |Realme|realme X2Pro|RMX1931CN|RMX1931|
 |Realme|realme X2Pro|RMX1931L1|RMX1931|
 |Realme|realme X3|RMX2081L1|RMX2081|
+|Realme|realme X3|RMX2083L1|RMX2083|
 |Realme|realme X3|RMX2085L1|RMX2085|
 |Realme|realme X3|RMX2086L1|RMX2086|
+|Realme|realme X50 5G|RMX2144L1|RMX2144|
 |Realme|realme X50 5G 移动版|RMX2025CN|RMX2025|
 |Realme|realme X50 Pro|RMX2071CN|RMX2071|
 |Realme|realme X50 Pro|RMX2075L1|RMX2075|
@@ -19042,6 +19053,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme XT|RMX1921|RMX1921|
 |Realme|realme XT|RMX1921L1|RMX1921|
 |Realme|realme XT|RMX1922|RMX1922|
+|Realme|realme narzo 20A|RMX2050|RMX2050|
+|Realme|realme  X7Pro 5G|RMX2121CN|RMX2121|
+|Realme|realme 7i|RE50C1|RMX2103|
+|Realme|realme 7i|RE50C1|RMX2104|
 |Realtek|RealtekHank|RealtekHank|RealtekHank|
 |Realtek|RealtekThor|RealtekThor|RealtekThor|
 |Realtime|RS405|RS405|RS405|
@@ -19440,6 +19455,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |STK(Santok)|Sync 5z|STK_Sync_5z|STK Sync 5z|
 |STK(Santok)|Transporter 1|STK_Transporter_1|STK_Transporter_1|
 |STK(Santok)|cayenne|cayenne|STK Ace|
+|SUPERSONIC|SC-2109|SC-2109|SC-2109|
 |SUPERSONIC|SC-2110|SC-2110|SC-2110|
 |SUPERSONIC|SC-4317BT|SC-4317BT|SC-4317BT|
 |SUPERSONIC|SC-774KT|SC-774KT|SC-774KT|
@@ -22551,6 +22567,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SkyLife|skylife LTE TV|DMTS17SS|DMT_1621|
 |Skyview|M5|M5|M5|
 |Skyworth|APAC 2K TV|shibuya|SWTV|
+|Skyworth|Asia|SW3_ATV|SWTV|
 |Skyworth|Asia|globe_ap|globe|
 |Skyworth|Asia|open_fhd_ap|open_fhd|
 |Skyworth|Asia|open_uhd_ap|open_uhd|
@@ -22570,6 +22587,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Skyworth|South America|SW3_ATV|SWTV|
 |Skyworth|South America|globe_sa|globe|
 |Skyworth|South America|shinjuku|SA 2K TV|
+|Skyworth|TV|SW3H_ATV|SWTV|
 |Skyworth|Taiwan|SW3H_ATV|SWTV|
 |SledovaniTV|DV8220|DV8220|DV8220|
 |Smadl|Matri8|Matri8|Matri8|
@@ -24941,6 +24959,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TESPRO|Mayumi U1|Mayumi_U1|Mayumi U1|
 |TG&Co.|TG-L800S|PHX|TG-L800S|
 |TG&Co.|TG-L900S|JGR|TG-L900S|
+|THE UHD|Android TV|R2|ATV R2|
 |THEHAM|U751UHD IPS SMART HDR 2020C|sindorim|AI PONT|
 |THL|Knight 2|Knight_2|Knight 2|
 |THOMSON_KODAK|PATH_7XPRO|LEDTV32HD|PATH_7XPRO|
@@ -25269,6 +25288,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CAMON 12 Air|TECNO-KC3|TECNO KC3|
 |Tecno|TECNO CAMON 12 Pro|TECNO-CC9|TECNO CC9|
 |Tecno|TECNO CAMON 15|TECNO-CD7|TECNO CD7|
+|Tecno|TECNO CAMON 16|TECNO-CE9h|TECNO CE9h|
 |Tecno|TECNO CAMON 16 Premier|TECNO-CE9|TECNO CE9|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|
 |Tecno|TECNO CAMON iACE 2x|TECNO-KB2j|TECNO KB2j|
@@ -28218,6 +28238,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|K83|K83|K83|
 |ZTE|K83V|K83|K83V|
 |ZTE|K85|K85|K85|
+|ZTE|K87CA|K87|K87CA|
 |ZTE|K88|jasmine|K88|
 |ZTE|K92|primrose|K92|
 |ZTE|K97|K97|K97|
@@ -28879,6 +28900,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE 2050|P671F50_D|ZTE 2050|
 |ZTE|ZTE 2050|P671S50|ZTE 2050|
 |ZTE|ZTE 2050RU|P671F50_D|ZTE 2050RU|
+|ZTE|ZTE 8010|P963F05|ZTE 8010|
 |ZTE|ZTE 8010|P963S05|ZTE 8010|
 |ZTE|ZTE A0616|P637S15|ZTE A0616|
 |ZTE|ZTE A0620|P840S13|ZTE A0620|
@@ -29364,6 +29386,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iBRIT|Z2|Z2|Z2|
 |iBRIT|Z2Lite|Z2Lite|Z2Lite|
 |iBRIT|i2|i2|i2|
+|iBRIT|i5+|i5Plus|i5+|
 |iBRIT|i5Plus|i5Plus|i5Plus|
 |iBRIT|iBRIT SpeedX|SpeedX|SpeedX|
 |iBall|Avid|Avid|Avid|
@@ -29558,6 +29581,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iYOU|iYOU_M1|iYOU_M1|iYOU_M1|
 |imose|BAM-II|BAM-II|BAM-II|
 |indigi|G4i|G4i|G4i|
+|innos|Android TV|R2|ATV R2|
 |intelkom|meanIT_C1|meanIT_C1|meanIT_C1|
 |intelkom|meanIT_C2|meanIT_C2|meanIT_C2|
 |intelkom|meanIT_X2|meanIT_X2|meanIT_X2|

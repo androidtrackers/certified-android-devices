@@ -375,11 +375,6 @@
    "brand": "ACT",
    "name": "ACT4K1007",
    "device": "IPBox"
-  },
-  {
-   "brand": "ACT",
-   "name": "Skyworth",
-   "device": "IPBox"
   }
  ],
  "E4010": [
@@ -2954,6 +2949,16 @@
    "device": "R2"
   },
   {
+   "brand": "JVC",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "LLOYD",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
    "brand": "Master-G",
    "name": "Android TV",
    "device": "R2"
@@ -2979,12 +2984,22 @@
    "device": "R2"
   },
   {
+   "brand": "THE UHD",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
    "brand": "Thomson",
    "name": "Android TV",
    "device": "R2"
   },
   {
    "brand": "Vision Technology",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "innos",
    "name": "Android TV",
    "device": "R2"
   }
@@ -4169,11 +4184,6 @@
  "HP2707": [
   {
    "brand": "Airtel",
-   "name": "Airtel",
-   "device": "AirtelOTTBox"
-  },
-  {
-   "brand": "Airtel",
    "name": "HP2707",
    "device": "AirtelOTTBox"
   }
@@ -4431,6 +4441,11 @@
   {
    "brand": "Nikkei",
    "name": "NI43UG7NA9",
+   "device": "samseong"
+  },
+  {
+   "brand": "NobleSkiodo",
+   "name": "43UDVRCHG7H",
    "device": "samseong"
   },
   {
@@ -45399,48 +45414,6 @@
    "device": "grunt_cheets"
   }
  ],
- "SWTV": [
-  {
-   "brand": "Google",
-   "name": "Asia",
-   "device": "SW3_ATV"
-  },
-  {
-   "brand": "Google",
-   "name": "TV",
-   "device": "SW3H_ATV"
-  },
-  {
-   "brand": "Skyworth",
-   "name": "APAC 2K TV",
-   "device": "shibuya"
-  },
-  {
-   "brand": "Skyworth",
-   "name": "Euro",
-   "device": "SW3_ATV"
-  },
-  {
-   "brand": "Skyworth",
-   "name": "Europe",
-   "device": "SW3H_ATV"
-  },
-  {
-   "brand": "Skyworth",
-   "name": "North America",
-   "device": "SW3_ATV"
-  },
-  {
-   "brand": "Skyworth",
-   "name": "South America",
-   "device": "SW3_ATV"
-  },
-  {
-   "brand": "Skyworth",
-   "name": "Taiwan",
-   "device": "SW3H_ATV"
-  }
- ],
  "Acer Chromebook 14 (CB3-431)": [
   {
    "brand": "Google",
@@ -71790,6 +71763,13 @@
    "brand": "Infinix",
    "name": "Infinix ZERO8",
    "device": "Infinix-X687"
+  }
+ ],
+ "Infinix X687B": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix ZERO8",
+   "device": "Infinix-X687B"
   }
  ],
  "Infinix NOTE 3": [
@@ -105846,6 +105826,13 @@
    "device": "catfish_ext"
   }
  ],
+ "TicWatch Pro 3 GPS": [
+  {
+   "brand": "Mobvoi",
+   "name": "TicWatch Pro 3 GPS",
+   "device": "rubyfish"
+  }
+ ],
  "TicWatch Pro 4G": [
   {
    "brand": "Mobvoi",
@@ -108420,6 +108407,25 @@
    "device": "wifi_hubble"
   }
  ],
+ "XT2071-4": [
+  {
+   "brand": "Motorola",
+   "name": "XT2071-4",
+   "device": "smith"
+  }
+ ],
+ "motorola razr (2020)": [
+  {
+   "brand": "Motorola",
+   "name": "XT2071-4",
+   "device": "smith"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola razr (2020)",
+   "device": "smith"
+  }
+ ],
  "XT605": [
   {
    "brand": "Motorola",
@@ -108998,25 +109004,6 @@
    "brand": "Motorola",
    "name": "motorola razr",
    "device": "olson"
-  }
- ],
- "motorola razr (2020)": [
-  {
-   "brand": "Motorola",
-   "name": "motorola razr (2020)",
-   "device": "smith"
-  },
-  {
-   "brand": "Motorola",
-   "name": "motorola razr 5G",
-   "device": "smith"
-  }
- ],
- "XT2071-4": [
-  {
-   "brand": "Motorola",
-   "name": "motorola razr 5G",
-   "device": "smith"
   }
  ],
  "motorola razr 5G": [
@@ -130058,6 +130045,18 @@
    "device": "RMX2001L1"
   }
  ],
+ "RMX2002": [
+  {
+   "brand": "Realme",
+   "name": "realme 6",
+   "device": "RMX2002L1"
+  },
+  {
+   "brand": "Realme",
+   "name": "realme 6s",
+   "device": "RMX2002L1"
+  }
+ ],
  "RMX2003": [
   {
    "brand": "Realme",
@@ -130100,6 +130099,20 @@
    "device": "RMX2042"
   }
  ],
+ "RMX2170": [
+  {
+   "brand": "Realme",
+   "name": "realme 7 Pro",
+   "device": "RMX2170L1"
+  }
+ ],
+ "RMX2101": [
+  {
+   "brand": "Realme",
+   "name": "realme C17",
+   "device": "RE50BF"
+  }
+ ],
  "RMX1946": [
   {
    "brand": "Realme",
@@ -130131,6 +130144,34 @@
    "brand": "Realme",
    "name": "realme C3i",
    "device": "RMX2027"
+  }
+ ],
+ "RMX2200": [
+  {
+   "brand": "Realme",
+   "name": "realme V3 5G",
+   "device": "RMX2200CN"
+  }
+ ],
+ "RMX2201": [
+  {
+   "brand": "Realme",
+   "name": "realme V3 5G",
+   "device": "RMX2201CN"
+  }
+ ],
+ "RMX2111": [
+  {
+   "brand": "Realme",
+   "name": "realme V5 5G",
+   "device": "RMX2111CN"
+  }
+ ],
+ "RMX2112": [
+  {
+   "brand": "Realme",
+   "name": "realme V5 5G",
+   "device": "RMX2112CN"
   }
  ],
  "RMX1991": [
@@ -130173,6 +130214,13 @@
    "device": "RMX2081L1"
   }
  ],
+ "RMX2083": [
+  {
+   "brand": "Realme",
+   "name": "realme X3",
+   "device": "RMX2083L1"
+  }
+ ],
  "RMX2085": [
   {
    "brand": "Realme",
@@ -130185,6 +130233,13 @@
    "brand": "Realme",
    "name": "realme X3",
    "device": "RMX2086L1"
+  }
+ ],
+ "RMX2144": [
+  {
+   "brand": "Realme",
+   "name": "realme X50 5G",
+   "device": "RMX2144L1"
   }
  ],
  "RMX2025": [
@@ -130275,6 +130330,34 @@
    "brand": "Realme",
    "name": "realme XT",
    "device": "RMX1922"
+  }
+ ],
+ "RMX2050": [
+  {
+   "brand": "Realme",
+   "name": "realme narzo 20A",
+   "device": "RMX2050"
+  }
+ ],
+ "RMX2121": [
+  {
+   "brand": "Realme",
+   "name": "realme  X7Pro 5G",
+   "device": "RMX2121CN"
+  }
+ ],
+ "RMX2103": [
+  {
+   "brand": "Realme",
+   "name": "realme 7i",
+   "device": "RE50C1"
+  }
+ ],
+ "RMX2104": [
+  {
+   "brand": "Realme",
+   "name": "realme 7i",
+   "device": "RE50C1"
   }
  ],
  "RealtekHank": [
@@ -132878,6 +132961,13 @@
    "brand": "STK(Santok)",
    "name": "cayenne",
    "device": "cayenne"
+  }
+ ],
+ "SC-2109": [
+  {
+   "brand": "SUPERSONIC",
+   "name": "SC-2109",
+   "device": "SC-2109"
   }
  ],
  "SC-2110": [
@@ -154100,6 +154190,48 @@
    "device": "DMTS17SS"
   }
  ],
+ "SWTV": [
+  {
+   "brand": "Skyworth",
+   "name": "APAC 2K TV",
+   "device": "shibuya"
+  },
+  {
+   "brand": "Skyworth",
+   "name": "Asia",
+   "device": "SW3_ATV"
+  },
+  {
+   "brand": "Skyworth",
+   "name": "Euro",
+   "device": "SW3_ATV"
+  },
+  {
+   "brand": "Skyworth",
+   "name": "Europe",
+   "device": "SW3H_ATV"
+  },
+  {
+   "brand": "Skyworth",
+   "name": "North America",
+   "device": "SW3_ATV"
+  },
+  {
+   "brand": "Skyworth",
+   "name": "South America",
+   "device": "SW3_ATV"
+  },
+  {
+   "brand": "Skyworth",
+   "name": "TV",
+   "device": "SW3H_ATV"
+  },
+  {
+   "brand": "Skyworth",
+   "name": "Taiwan",
+   "device": "SW3H_ATV"
+  }
+ ],
  "globe": [
   {
    "brand": "Skyworth",
@@ -172234,6 +172366,13 @@
    "brand": "Tecno",
    "name": "TECNO CAMON 15",
    "device": "TECNO-CD7"
+  }
+ ],
+ "TECNO CE9h": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO CAMON 16",
+   "device": "TECNO-CE9h"
   }
  ],
  "TECNO CE9": [
@@ -191378,6 +191517,13 @@
    "device": "K85"
   }
  ],
+ "K87CA": [
+  {
+   "brand": "ZTE",
+   "name": "K87CA",
+   "device": "K87"
+  }
+ ],
  "K88": [
   {
    "brand": "ZTE",
@@ -195624,6 +195770,11 @@
   {
    "brand": "ZTE",
    "name": "ZTE 8010",
+   "device": "P963F05"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE 8010",
    "device": "P963S05"
   }
  ],
@@ -198394,6 +198545,13 @@
    "brand": "iVOOMi",
    "name": "i2",
    "device": "i2"
+  }
+ ],
+ "i5+": [
+  {
+   "brand": "iBRIT",
+   "name": "i5+",
+   "device": "i5Plus"
   }
  ],
  "i5Plus": [

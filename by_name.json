@@ -6118,18 +6118,6 @@
    "model": "ACT4K1007"
   }
  ],
- "Skyworth": [
-  {
-   "brand": "ACT",
-   "device": "IPBox",
-   "model": "ACT4K1007"
-  },
-  {
-   "brand": "Skyworth",
-   "device": "grape",
-   "model": "HPA02"
-  }
- ],
  "AG BOOST 2": [
   {
    "brand": "AG Mobile",
@@ -8541,6 +8529,11 @@
    "model": "ATV R1"
   },
   {
+   "brand": "JVC",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
    "brand": "LGE",
    "device": "cosmo",
    "model": "LG Google TV"
@@ -8564,6 +8557,11 @@
    "brand": "LLOYD",
    "device": "R1",
    "model": "ATV R1"
+  },
+  {
+   "brand": "LLOYD",
+   "device": "R2",
+   "model": "ATV R2"
   },
   {
    "brand": "Master-G",
@@ -8646,6 +8644,11 @@
    "model": "ATV R1"
   },
   {
+   "brand": "THE UHD",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
    "brand": "Thomson",
    "device": "R1",
    "model": "ATV R1"
@@ -8662,6 +8665,11 @@
   },
   {
    "brand": "Vision Technology",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "innos",
    "device": "R2",
    "model": "ATV R2"
   }
@@ -10032,13 +10040,6 @@
    "brand": "Airtab",
    "device": "AT8-N",
    "model": "AT8-N"
-  }
- ],
- "Airtel": [
-  {
-   "brand": "Airtel",
-   "device": "AirtelOTTBox",
-   "model": "HP2707"
   }
  ],
  "HP2707": [
@@ -31604,11 +31605,6 @@
    "model": "TV"
   },
   {
-   "brand": "Google",
-   "device": "SW3H_ATV",
-   "model": "SWTV"
-  },
-  {
    "brand": "Hisense",
    "device": "hisense_gx1200v",
    "model": "hisense_gx1200v"
@@ -31617,6 +31613,11 @@
    "brand": "Net+",
    "device": "uzx4020nps",
    "model": "TV"
+  },
+  {
+   "brand": "Skyworth",
+   "device": "SW3H_ATV",
+   "model": "SWTV"
   }
  ],
  "TF10EA2": [
@@ -51374,33 +51375,6 @@
    "brand": "Google",
    "device": "grunt_cheets",
    "model": "grunt"
-  }
- ],
- "Asia": [
-  {
-   "brand": "Google",
-   "device": "SW3_ATV",
-   "model": "SWTV"
-  },
-  {
-   "brand": "Panasonic",
-   "device": "globe_ap",
-   "model": "PanasonicTV"
-  },
-  {
-   "brand": "Skyworth",
-   "device": "globe_ap",
-   "model": "globe"
-  },
-  {
-   "brand": "Skyworth",
-   "device": "open_fhd_ap",
-   "model": "open_fhd"
-  },
-  {
-   "brand": "Skyworth",
-   "device": "open_uhd_ap",
-   "model": "open_uhd"
   }
  ],
  "Chromebook 14 (CB3-431)": [
@@ -73811,6 +73785,11 @@
    "brand": "Infinix",
    "device": "Infinix-X687",
    "model": "Infinix X687"
+  },
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X687B",
+   "model": "Infinix X687B"
   }
  ],
  "NOTE 3": [
@@ -104229,6 +104208,13 @@
    "model": "TicWatch Pro"
   }
  ],
+ "TicWatch Pro 3 GPS": [
+  {
+   "brand": "Mobvoi",
+   "device": "rubyfish",
+   "model": "TicWatch Pro 3 GPS"
+  }
+ ],
  "TicWatch Pro 4G": [
   {
    "brand": "Mobvoi",
@@ -106095,6 +106081,18 @@
    "model": "MZ617"
   }
  ],
+ "XT2071-4": [
+  {
+   "brand": "Motorola",
+   "device": "smith",
+   "model": "XT2071-4"
+  },
+  {
+   "brand": "Motorola",
+   "device": "smith",
+   "model": "motorola razr (2020)"
+  }
+ ],
  "XT605": [
   {
    "brand": "Motorola",
@@ -106774,16 +106772,6 @@
   }
  ],
  "motorola razr 5G": [
-  {
-   "brand": "Motorola",
-   "device": "smith",
-   "model": "XT2071-4"
-  },
-  {
-   "brand": "Motorola",
-   "device": "smith",
-   "model": "motorola razr (2020)"
-  },
   {
    "brand": "Motorola",
    "device": "smith",
@@ -111311,6 +111299,13 @@
    "model": "NB7850S"
   }
  ],
+ "43UDVRCHG7H": [
+  {
+   "brand": "NobleSkiodo",
+   "device": "samseong",
+   "model": "AI PONT"
+  }
+ ],
  "Go Action": [
   {
    "brand": "Noblex",
@@ -115709,6 +115704,11 @@
    "brand": "Oppo",
    "device": "RMX2051CN",
    "model": "RMX2051"
+  },
+  {
+   "brand": "Realme",
+   "device": "RMX2144L1",
+   "model": "RMX2144"
   }
  ],
  "realme X青春版": [
@@ -117137,6 +117137,33 @@
    "brand": "Panasonic",
    "device": "Altus4K43",
    "model": "Qualcomm elite"
+  }
+ ],
+ "Asia": [
+  {
+   "brand": "Panasonic",
+   "device": "globe_ap",
+   "model": "PanasonicTV"
+  },
+  {
+   "brand": "Skyworth",
+   "device": "SW3_ATV",
+   "model": "SWTV"
+  },
+  {
+   "brand": "Skyworth",
+   "device": "globe_ap",
+   "model": "globe"
+  },
+  {
+   "brand": "Skyworth",
+   "device": "open_fhd_ap",
+   "model": "open_fhd"
+  },
+  {
+   "brand": "Skyworth",
+   "device": "open_uhd_ap",
+   "model": "open_uhd"
   }
  ],
  "Boukenkun-reciever": [
@@ -126940,6 +126967,11 @@
   },
   {
    "brand": "Realme",
+   "device": "RMX2002L1",
+   "model": "RMX2002"
+  },
+  {
+   "brand": "Realme",
    "device": "RMX2003L1",
    "model": "RMX2003"
   }
@@ -126976,6 +127008,27 @@
    "brand": "Realme",
    "device": "RMX2042",
    "model": "RMX2042"
+  }
+ ],
+ "realme 6s": [
+  {
+   "brand": "Realme",
+   "device": "RMX2002L1",
+   "model": "RMX2002"
+  }
+ ],
+ "realme 7 Pro": [
+  {
+   "brand": "Realme",
+   "device": "RMX2170L1",
+   "model": "RMX2170"
+  }
+ ],
+ "realme C17": [
+  {
+   "brand": "Realme",
+   "device": "RE50BF",
+   "model": "RMX2101"
   }
  ],
  "realme C3": [
@@ -127021,6 +127074,30 @@
    "model": "AI PONT"
   }
  ],
+ "realme V3 5G": [
+  {
+   "brand": "Realme",
+   "device": "RMX2200CN",
+   "model": "RMX2200"
+  },
+  {
+   "brand": "Realme",
+   "device": "RMX2201CN",
+   "model": "RMX2201"
+  }
+ ],
+ "realme V5 5G": [
+  {
+   "brand": "Realme",
+   "device": "RMX2111CN",
+   "model": "RMX2111"
+  },
+  {
+   "brand": "Realme",
+   "device": "RMX2112CN",
+   "model": "RMX2112"
+  }
+ ],
  "realme X2": [
   {
    "brand": "Realme",
@@ -127055,6 +127132,11 @@
    "brand": "Realme",
    "device": "RMX2081L1",
    "model": "RMX2081"
+  },
+  {
+   "brand": "Realme",
+   "device": "RMX2083L1",
+   "model": "RMX2083"
   },
   {
    "brand": "Realme",
@@ -127147,6 +127229,32 @@
    "brand": "Realme",
    "device": "RMX1922",
    "model": "RMX1922"
+  }
+ ],
+ "realme narzo 20A": [
+  {
+   "brand": "Realme",
+   "device": "RMX2050",
+   "model": "RMX2050"
+  }
+ ],
+ "realme  X7Pro 5G": [
+  {
+   "brand": "Realme",
+   "device": "RMX2121CN",
+   "model": "RMX2121"
+  }
+ ],
+ "realme 7i": [
+  {
+   "brand": "Realme",
+   "device": "RE50C1",
+   "model": "RMX2103"
+  },
+  {
+   "brand": "Realme",
+   "device": "RE50C1",
+   "model": "RMX2104"
   }
  ],
  "RealtekHank": [
@@ -129718,6 +129826,13 @@
    "brand": "STK(Santok)",
    "device": "cayenne",
    "model": "STK Ace"
+  }
+ ],
+ "SC-2109": [
+  {
+   "brand": "SUPERSONIC",
+   "device": "SC-2109",
+   "model": "SC-2109"
   }
  ],
  "SC-2110": [
@@ -147219,6 +147334,13 @@
    "model": "SWTV-20SA"
   }
  ],
+ "Skyworth": [
+  {
+   "brand": "Skyworth",
+   "device": "grape",
+   "model": "HPA02"
+  }
+ ],
  "South Africa": [
   {
    "brand": "Skyworth",
@@ -162512,6 +162634,13 @@
    "brand": "Tecno",
    "device": "TECNO-CD7",
    "model": "TECNO CD7"
+  }
+ ],
+ "TECNO CAMON 16": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-CE9h",
+   "model": "TECNO CE9h"
   }
  ],
  "TECNO CAMON 16 Premier": [
@@ -179277,6 +179406,13 @@
    "model": "K85"
   }
  ],
+ "K87CA": [
+  {
+   "brand": "ZTE",
+   "device": "K87",
+   "model": "K87CA"
+  }
+ ],
  "K88": [
   {
    "brand": "ZTE",
@@ -183270,6 +183406,11 @@
  "ZTE 8010": [
   {
    "brand": "ZTE",
+   "device": "P963F05",
+   "model": "ZTE 8010"
+  },
+  {
+   "brand": "ZTE",
    "device": "P963S05",
    "model": "ZTE 8010"
   }
@@ -186310,6 +186451,13 @@
    "brand": "iVOOMi",
    "device": "i2",
    "model": "i2"
+  }
+ ],
+ "i5+": [
+  {
+   "brand": "iBRIT",
+   "device": "i5Plus",
+   "model": "i5+"
   }
  ],
  "i5Plus": [
