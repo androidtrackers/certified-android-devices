@@ -19417,6 +19417,13 @@
    "device": "C6"
   }
  ],
+ "C6 2020": [
+  {
+   "brand": "Blu",
+   "name": "C6  2020",
+   "device": "C230EQ"
+  }
+ ],
  "C6 2019": [
   {
    "brand": "Blu",
@@ -19765,6 +19772,11 @@
   }
  ],
  "G70": [
+  {
+   "brand": "Blu",
+   "name": "G70",
+   "device": "G0151WW"
+  },
   {
    "brand": "Blu",
    "name": "G70",
@@ -71838,6 +71850,13 @@
    "device": "Infinix-X690C"
   }
  ],
+ "Infinix X692": [
+  {
+   "brand": "Infinix",
+   "name": "NOTE 8",
+   "device": "Infinix-X692"
+  }
+ ],
  "Infinix X683": [
   {
    "brand": "Infinix",
@@ -73065,6 +73084,13 @@
    "brand": "Innopia",
    "name": "IMTCTATV01",
    "device": "IMTCTATV01"
+  }
+ ],
+ "mbadge": [
+  {
+   "brand": "Innowi",
+   "name": "mbadge",
+   "device": "CB_UWA6N4C_47"
   }
  ],
  "S24": [
@@ -104500,6 +104526,13 @@
    "device": "HotahOTG_V"
   }
  ],
+ "MobiGo2": [
+  {
+   "brand": "MobiIoT",
+   "name": "Mobigo2",
+   "device": "MobiGo2"
+  }
+ ],
  "MOT102": [
   {
    "brand": "MobiOcean",
@@ -108414,18 +108447,6 @@
    "device": "smith"
   }
  ],
- "motorola razr (2020)": [
-  {
-   "brand": "Motorola",
-   "name": "XT2071-4",
-   "device": "smith"
-  },
-  {
-   "brand": "Motorola",
-   "name": "motorola razr (2020)",
-   "device": "smith"
-  }
- ],
  "XT605": [
   {
    "brand": "Motorola",
@@ -109004,6 +109025,13 @@
    "brand": "Motorola",
    "name": "motorola razr",
    "device": "olson"
+  }
+ ],
+ "motorola razr (2020)": [
+  {
+   "brand": "Motorola",
+   "name": "motorola razr (2020)",
+   "device": "smith"
   }
  ],
  "motorola razr 5G": [
@@ -117195,6 +117223,18 @@
    "brand": "Oppo",
    "name": "N5117",
    "device": "N5117"
+  }
+ ],
+ "OPPO Watch": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO Watch",
+   "device": "beluga"
+  },
+  {
+   "brand": "Oppo",
+   "name": "OPPO Watch",
+   "device": "orca"
   }
  ],
  "R1001": [
@@ -174580,6 +174620,13 @@
    "device": "A24"
   }
  ],
+ "A53 PRO": [
+  {
+   "brand": "Trident",
+   "name": "A53 PRO",
+   "device": "A53_PRO"
+  }
+ ],
  "Passion-1S": [
   {
    "brand": "Trifone",
@@ -176197,6 +176244,13 @@
    "brand": "Unnion Technologies",
    "name": "UNSP7",
    "device": "UNSP7"
+  }
+ ],
+ "UN55L": [
+  {
+   "brand": "Unonu",
+   "name": "UN55L",
+   "device": "UN55L"
   }
  ],
  "U4001": [

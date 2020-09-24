@@ -13349,6 +13349,11 @@
    "model": "C6"
   },
   {
+   "device": "C230EQ",
+   "name": "C6  2020",
+   "model": "C6 2020"
+  },
+  {
    "device": "C090EQ",
    "name": "C6 2019",
    "model": "C6 2019"
@@ -13572,6 +13577,11 @@
    "device": "G0270WW",
    "name": "G60",
    "model": "G60"
+  },
+  {
+   "device": "G0151WW",
+   "name": "G70",
+   "model": "G70"
   },
   {
    "device": "G0250WW",
@@ -52396,6 +52406,11 @@
    "model": "Infinix X690C"
   },
   {
+   "device": "Infinix-X692",
+   "name": "NOTE 8",
+   "model": "Infinix X692"
+  },
+  {
    "device": "Infinix-X683",
    "name": "NOTE 8i",
    "model": "Infinix X683"
@@ -53354,6 +53369,13 @@
    "device": "IMTCTATV01",
    "name": "IMTCTATV01",
    "model": "IMTCTATV01"
+  }
+ ],
+ "Innowi": [
+  {
+   "device": "CB_UWA6N4C_47",
+   "name": "mbadge",
+   "model": "mbadge"
   }
  ],
  "Inovacel": [
@@ -77509,6 +77531,11 @@
    "device": "HotahOTG_V",
    "name": "Hotah",
    "model": "HotahOTG"
+  },
+  {
+   "device": "MobiGo2",
+   "name": "Mobigo2",
+   "model": "MobiGo2"
   }
  ],
  "MobiOcean": [
@@ -80452,11 +80479,6 @@
    "device": "smith",
    "name": "XT2071-4",
    "model": "XT2071-4"
-  },
-  {
-   "device": "smith",
-   "name": "XT2071-4",
-   "model": "motorola razr (2020)"
   },
   {
    "device": "umts_jorian",
@@ -87548,6 +87570,16 @@
    "device": "N5117",
    "name": "N5117",
    "model": "N5117"
+  },
+  {
+   "device": "beluga",
+   "name": "OPPO Watch",
+   "model": "OPPO Watch"
+  },
+  {
+   "device": "orca",
+   "name": "OPPO Watch",
+   "model": "OPPO Watch"
   },
   {
    "device": "OPPO72_13076",
@@ -131313,6 +131345,11 @@
    "device": "A24",
    "name": "A24",
    "model": "A24"
+  },
+  {
+   "device": "A53_PRO",
+   "name": "A53 PRO",
+   "model": "A53 PRO"
   }
  ],
  "Trifone": [
@@ -132744,6 +132781,11 @@
   }
  ],
  "Unonu": [
+  {
+   "device": "UN55L",
+   "name": "UN55L",
+   "model": "UN55L"
+  },
   {
    "device": "UNONU_U4001",
    "name": "UNONU U4001",

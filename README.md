@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-09-23
+Last sync is 2020-09-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2599,6 +2599,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|C5X|C0000UU|C5X|
 |Blu|C5X|C0010LL|C5X|
 |Blu|C6|C031P|C6|
+|Blu|C6  2020|C230EQ|C6 2020|
 |Blu|C6 2019|C090EQ|C6 2019|
 |Blu|C6L|C0030|C6L|
 |Blu|C6x|C090P|C6x|
@@ -2644,6 +2645,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G50 Plus|G0350WW|G50 Plus|
 |Blu|G6|G0210|G6|
 |Blu|G60|G0270WW|G60|
+|Blu|G70|G0151WW|G70|
 |Blu|G70|G0250WW|G70|
 |Blu|G8|G0170|G8|
 |Blu|G9|G0130WW|G9|
@@ -10194,6 +10196,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|NOTE 7|Infinix-X690|Infinix X690|
 |Infinix|NOTE 7|Infinix-X690B|Infinix X690B|
 |Infinix|NOTE 7|Infinix-X690C|Infinix X690C|
+|Infinix|NOTE 8|Infinix-X692|Infinix X692|
 |Infinix|NOTE 8i|Infinix-X683|Infinix X683|
 |Infinix|NOTE 8i|Infinix-X683B|Infinix X683B|
 |Infinix|Note 6|Infinix-X610|Infinix X610B|
@@ -10384,6 +10387,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Innjoo|VISION LTE|VISION_LTE|VISION LTE|
 |Innjoo|VOOM_TAB_LTE|VOOM_TAB_LTE|VOOM_TAB_LTE|
 |Innopia|IMTCTATV01|IMTCTATV01|IMTCTATV01|
+|Innowi|mbadge|CB_UWA6N4C_47|mbadge|
 |Inovacel|INOVACEL S24|S24|S24|
 |Insignia|FLEX 8’’ LTE Android Tablet|ns_15t8lte|NS-15T8LTE|
 |Insignia|Flex 10.1|ns_14t004|NS-14T004|
@@ -15109,6 +15113,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobell|S61|S61|S61|
 |MobiIoT|Hotah|HotahOTG_N|HotahOTG|
 |MobiIoT|Hotah|HotahOTG_V|HotahOTG|
+|MobiIoT|Mobigo2|MobiGo2|MobiGo2|
 |MobiOcean|MOT102|MOT102|MOT102|
 |Mobicell|4U|4U|4U|
 |Mobicell|ARC|ARC|ARC|
@@ -15688,7 +15693,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|XOOM 2|fleming|MZ609|
 |Motorola|XOOM 2|pasteur|MZ617|
 |Motorola|XT2071-4|smith|XT2071-4|
-|Motorola|XT2071-4|smith|motorola razr (2020)|
 |Motorola|XT605|umts_jorian|XT605|
 |Motorola|XT627|umts_irock|XT627|
 |Motorola|moto P30 NOTE|chef|XT1942-1|
@@ -17054,6 +17058,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|N3|N3|N5209|
 |Oppo|N5110|N5110|N5110|
 |Oppo|N5117|N5117|N5117|
+|Oppo|OPPO Watch|beluga|OPPO Watch|
+|Oppo|OPPO Watch|orca|OPPO Watch|
 |Oppo|R1001|OPPO72_13076|R1001|
 |Oppo|R1001|R1001|R1001|
 |Oppo|R1011|R1011|R1011|
@@ -25637,6 +25643,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TriaPlay|TriaPlayBox|TriaPlayBox|TriaPlayBox|
 |Trident|A23 Max|A23_Max|A23 Max|
 |Trident|A24|A24|A24|
+|Trident|A53 PRO|A53_PRO|A53 PRO|
 |Trifone|Passion-1S|Passion-1S|Passion-1S|
 |Trifone|Passion-Plus|Passion-Plus|Passion-Plus|
 |Trifone|Passion1|Passion1|Passion1|
@@ -25907,6 +25914,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unnion Technologies|HH25|HH25|HH25|
 |Unnion Technologies|UNSP7|UNSP7|UNSP7|
 |Unnion Technologies|Unnion SP10|SP10|SP10|
+|Unonu|UN55L|UN55L|UN55L|
 |Unonu|UNONU U4001|UNONU_U4001|U4001|
 |Unonu|UNONU X5C|X5C|X5C|
 |Unonu|UNONU_L55D|UNONU_L55D|UNONU_L55D|

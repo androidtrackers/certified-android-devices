@@ -25094,6 +25094,13 @@
    "model": "C6"
   }
  ],
+ "C6  2020": [
+  {
+   "brand": "Blu",
+   "device": "C230EQ",
+   "model": "C6 2020"
+  }
+ ],
  "C6 2019": [
   {
    "brand": "Blu",
@@ -25429,6 +25436,11 @@
   }
  ],
  "G70": [
+  {
+   "brand": "Blu",
+   "device": "G0151WW",
+   "model": "G70"
+  },
   {
    "brand": "Blu",
    "device": "G0250WW",
@@ -73840,6 +73852,13 @@
    "model": "Infinix X571-LTE"
   }
  ],
+ "NOTE 8": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X692",
+   "model": "Infinix X692"
+  }
+ ],
  "NOTE 8i": [
   {
    "brand": "Infinix",
@@ -75039,6 +75058,13 @@
    "brand": "Innopia",
    "device": "IMTCTATV01",
    "model": "IMTCTATV01"
+  }
+ ],
+ "mbadge": [
+  {
+   "brand": "Innowi",
+   "device": "CB_UWA6N4C_47",
+   "model": "mbadge"
   }
  ],
  "INOVACEL S24": [
@@ -102898,6 +102924,13 @@
    "model": "Hotah"
   }
  ],
+ "Mobigo2": [
+  {
+   "brand": "MobiIoT",
+   "device": "MobiGo2",
+   "model": "MobiGo2"
+  }
+ ],
  "MOT102": [
   {
    "brand": "MobiOcean",
@@ -106086,11 +106119,6 @@
    "brand": "Motorola",
    "device": "smith",
    "model": "XT2071-4"
-  },
-  {
-   "brand": "Motorola",
-   "device": "smith",
-   "model": "motorola razr (2020)"
   }
  ],
  "XT605": [
@@ -114412,6 +114440,18 @@
    "brand": "Oppo",
    "device": "N5117",
    "model": "N5117"
+  }
+ ],
+ "OPPO Watch": [
+  {
+   "brand": "Oppo",
+   "device": "beluga",
+   "model": "OPPO Watch"
+  },
+  {
+   "brand": "Oppo",
+   "device": "orca",
+   "model": "OPPO Watch"
   }
  ],
  "R1001": [
@@ -164814,6 +164854,13 @@
    "model": "A24"
   }
  ],
+ "A53 PRO": [
+  {
+   "brand": "Trident",
+   "device": "A53_PRO",
+   "model": "A53 PRO"
+  }
+ ],
  "Passion-1S": [
   {
    "brand": "Trifone",
@@ -166473,6 +166520,13 @@
    "brand": "Unnion Technologies",
    "device": "SP10",
    "model": "SP10"
+  }
+ ],
+ "UN55L": [
+  {
+   "brand": "Unonu",
+   "device": "UN55L",
+   "model": "UN55L"
   }
  ],
  "UNONU U4001": [
