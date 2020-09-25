@@ -15100,6 +15100,11 @@
  "CANAL-PLUS": [
   {
    "device": "HY40A2",
+   "name": "CANAL Plus Box",
+   "model": "CANAL PLUS BOX"
+  },
+  {
+   "device": "HY40A2",
    "name": "CANALATV1",
    "model": "CANAL PLUS BOX"
   },
@@ -15107,11 +15112,6 @@
    "device": "HY40A2",
    "name": "CANALATV1",
    "model": "CANALATV1"
-  },
-  {
-   "device": "HY40A2",
-   "name": "Poland",
-   "model": "CANAL PLUS BOX"
   }
  ],
  "CBN Media": [
@@ -20166,6 +20166,11 @@
   }
  ],
  "Cubot": [
+  {
+   "device": "C20",
+   "name": "C20",
+   "model": "C20"
+  },
   {
    "device": "C30",
    "name": "C30",
@@ -32378,6 +32383,11 @@
    "device": "fizz_cheets",
    "name": "Chromebox",
    "model": "fizz"
+  },
+  {
+   "device": "sabrina",
+   "name": "Chromecast Google TV",
+   "model": "Chromecast"
   },
   {
    "device": "generic_x86_arm",
@@ -54027,6 +54037,11 @@
    "model": "Amber7S"
   },
   {
+   "device": "Amber8S",
+   "name": "Amber8S",
+   "model": "Amber8S"
+  },
+  {
    "device": "Benny",
    "name": "Benny",
    "model": "Benny"
@@ -66400,6 +66415,11 @@
    "model": "ILIUM_X100"
   },
   {
+   "device": "X120C",
+   "name": "X120C",
+   "model": "X120C"
+  },
+  {
    "device": "X230",
    "name": "X230",
    "model": "X230"
@@ -70236,16 +70256,6 @@
    "model": "Lenovo TB-X306FA"
   },
   {
-   "device": "X306FC_PRC",
-   "name": "Lenovo Tab M10 HD (2nd Gen)",
-   "model": "Lenovo TB-X306FC_PRC"
-  },
-  {
-   "device": "X306NC_PRC",
-   "name": "Lenovo Tab M10 HD (2nd Gen)",
-   "model": "Lenovo TB-X306NC_PRC"
-  },
-  {
    "device": "X306X",
    "name": "Lenovo Tab M10 HD (2nd Gen)",
    "model": "Lenovo TB-X306X"
@@ -70254,6 +70264,16 @@
    "device": "X306XA",
    "name": "Lenovo Tab M10 HD (2nd Gen)",
    "model": "Lenovo TB-X306XA"
+  },
+  {
+   "device": "X306FC_PRC",
+   "name": "Lenovo Tab M10 HD (2nd Gen) PRC",
+   "model": "Lenovo TB-X306FC_PRC"
+  },
+  {
+   "device": "X306NC_PRC",
+   "name": "Lenovo Tab M10 HD (2nd Gen) PRC",
+   "model": "Lenovo TB-X306NC_PRC"
   },
   {
    "device": "X306X",
@@ -95569,6 +95589,13 @@
    "model": "PTBPT5QCB7"
   }
  ],
+ "Proximus": [
+  {
+   "device": "uiw4020pxm",
+   "name": "Proximus TV",
+   "model": "decoder"
+  }
+ ],
  "Punos": [
   {
    "device": "Punos_10",
@@ -98196,6 +98223,11 @@
    "model": "Redmi Note 9 Pro"
   },
   {
+   "device": "excalibur",
+   "name": "Redmi Note 9 Pro Max",
+   "model": "Redmi Note 9 Pro Max"
+  },
+  {
    "device": "curtana",
    "name": "Redmi Note 9S",
    "model": "Redmi Note 9 Pro"
@@ -98204,11 +98236,6 @@
    "device": "curtana",
    "name": "Redmi Note 9S",
    "model": "Redmi Note 9S"
-  },
-  {
-   "device": "excalibur",
-   "name": "Redmi Note 9S",
-   "model": "Redmi Note 9 Pro Max"
   }
  ],
  "Redway": [
@@ -107571,6 +107598,46 @@
    "device": "x1s",
    "name": "Galaxy S20 5G",
    "model": "SM-G981B"
+  },
+  {
+   "device": "r8s",
+   "name": "Galaxy S20 FE",
+   "model": "SM-G780F"
+  },
+  {
+   "device": "r8q",
+   "name": "Galaxy S20 FE 5G",
+   "model": "SM-G7810"
+  },
+  {
+   "device": "r8q",
+   "name": "Galaxy S20 FE 5G",
+   "model": "SM-G781B"
+  },
+  {
+   "device": "r8q",
+   "name": "Galaxy S20 FE 5G",
+   "model": "SM-G781N"
+  },
+  {
+   "device": "r8q",
+   "name": "Galaxy S20 FE 5G",
+   "model": "SM-G781U"
+  },
+  {
+   "device": "r8q",
+   "name": "Galaxy S20 FE 5G",
+   "model": "SM-G781U1"
+  },
+  {
+   "device": "r8q",
+   "name": "Galaxy S20 FE 5G",
+   "model": "SM-G781V"
+  },
+  {
+   "device": "r8q",
+   "name": "Galaxy S20 FE 5G",
+   "model": "SM-G781W"
   },
   {
    "device": "SCG03",
@@ -127767,7 +127834,7 @@
  "THEHAM": [
   {
    "device": "sindorim",
-   "name": "U751UHD IPS SMART HDR 2020C",
+   "name": "UHD Android TV",
    "model": "AI PONT"
   }
  ],
@@ -137174,6 +137241,11 @@
    "model": "Active 3"
   },
   {
+   "device": "jacaranda",
+   "name": "Aris",
+   "model": "Aris"
+  },
+  {
    "device": "V220A",
    "name": "Bee",
    "model": "Bee"
@@ -137212,6 +137284,11 @@
    "device": "casuarina",
    "name": "Joy 3",
    "model": "Joy 3"
+  },
+  {
+   "device": "juniper",
+   "name": "Joy 4",
+   "model": "Joy 4"
   },
   {
    "device": "V620A",

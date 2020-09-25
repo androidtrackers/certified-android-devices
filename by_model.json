@@ -4525,7 +4525,7 @@
   },
   {
    "brand": "THEHAM",
-   "name": "U751UHD IPS SMART HDR 2020C",
+   "name": "UHD Android TV",
    "device": "sindorim"
   },
   {
@@ -22035,12 +22035,12 @@
  "CANAL PLUS BOX": [
   {
    "brand": "CANAL-PLUS",
-   "name": "CANALATV1",
+   "name": "CANAL Plus Box",
    "device": "HY40A2"
   },
   {
    "brand": "CANAL-PLUS",
-   "name": "Poland",
+   "name": "CANALATV1",
    "device": "HY40A2"
   }
  ],
@@ -28838,6 +28838,23 @@
    "brand": "Oukitel",
    "name": "K9",
    "device": "K9"
+  }
+ ],
+ "C20": [
+  {
+   "brand": "Cubot",
+   "name": "C20",
+   "device": "C20"
+  },
+  {
+   "brand": "Hisense",
+   "name": "c20ae",
+   "device": "HS8929QC"
+  },
+  {
+   "brand": "S&T Global",
+   "name": "C20",
+   "device": "C20"
   }
  ],
  "C30": [
@@ -45461,6 +45478,13 @@
    "device": "fizz_cheets"
   }
  ],
+ "Chromecast": [
+  {
+   "brand": "Google",
+   "name": "Chromecast Google TV",
+   "device": "sabrina"
+  }
+ ],
  "AOSP on IA Emulator": [
   {
    "brand": "Google",
@@ -57375,18 +57399,6 @@
    "brand": "Hisense",
    "name": "XOLO",
    "device": "us9230e1"
-  }
- ],
- "C20": [
-  {
-   "brand": "Hisense",
-   "name": "c20ae",
-   "device": "HS8929QC"
-  },
-  {
-   "brand": "S&T Global",
-   "name": "C20",
-   "device": "C20"
   }
  ],
  "Hisense E76mini": [
@@ -73880,6 +73892,13 @@
    "device": "Amber7S"
   }
  ],
+ "Amber8S": [
+  {
+   "brand": "Ipro",
+   "name": "Amber8S",
+   "device": "Amber8S"
+  }
+ ],
  "Benny": [
   {
    "brand": "Ipro",
@@ -89902,6 +89921,11 @@
    "brand": "Lanix",
    "name": "Ilium X120C",
    "device": "X120C"
+  },
+  {
+   "brand": "Lanix",
+   "name": "X120C",
+   "device": "X120C"
   }
  ],
  "Ilium X200": [
@@ -95204,20 +95228,6 @@
    "device": "X306FA"
   }
  ],
- "Lenovo TB-X306FC_PRC": [
-  {
-   "brand": "Lenovo",
-   "name": "Lenovo Tab M10 HD (2nd Gen)",
-   "device": "X306FC_PRC"
-  }
- ],
- "Lenovo TB-X306NC_PRC": [
-  {
-   "brand": "Lenovo",
-   "name": "Lenovo Tab M10 HD (2nd Gen)",
-   "device": "X306NC_PRC"
-  }
- ],
  "Lenovo TB-X306X": [
   {
    "brand": "Lenovo",
@@ -95235,6 +95245,20 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab M10 HD (2nd Gen)",
    "device": "X306XA"
+  }
+ ],
+ "Lenovo TB-X306FC_PRC": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M10 HD (2nd Gen) PRC",
+   "device": "X306FC_PRC"
+  }
+ ],
+ "Lenovo TB-X306NC_PRC": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M10 HD (2nd Gen) PRC",
+   "device": "X306NC_PRC"
   }
  ],
  "Lenovo TB-X606V": [
@@ -127502,6 +127526,13 @@
    "device": "PTBPT5QCB7"
   }
  ],
+ "decoder": [
+  {
+   "brand": "Proximus",
+   "name": "Proximus TV",
+   "device": "uiw4020pxm"
+  }
+ ],
  "Punos 10": [
   {
    "brand": "Punos",
@@ -130892,18 +130923,18 @@
    "device": "curtana"
   }
  ],
+ "Redmi Note 9 Pro Max": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 9 Pro Max",
+   "device": "excalibur"
+  }
+ ],
  "Redmi Note 9S": [
   {
    "brand": "Redmi",
    "name": "Redmi Note 9S",
    "device": "curtana"
-  }
- ],
- "Redmi Note 9 Pro Max": [
-  {
-   "brand": "Redmi",
-   "name": "Redmi Note 9S",
-   "device": "excalibur"
   }
  ],
  "redway10": [
@@ -143521,6 +143552,62 @@
    "brand": "Samsung",
    "name": "Galaxy S20 5G",
    "device": "x1s"
+  }
+ ],
+ "SM-G780F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S20 FE",
+   "device": "r8s"
+  }
+ ],
+ "SM-G7810": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S20 FE 5G",
+   "device": "r8q"
+  }
+ ],
+ "SM-G781B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S20 FE 5G",
+   "device": "r8q"
+  }
+ ],
+ "SM-G781N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S20 FE 5G",
+   "device": "r8q"
+  }
+ ],
+ "SM-G781U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S20 FE 5G",
+   "device": "r8q"
+  }
+ ],
+ "SM-G781U1": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S20 FE 5G",
+   "device": "r8q"
+  }
+ ],
+ "SM-G781V": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S20 FE 5G",
+   "device": "r8q"
+  }
+ ],
+ "SM-G781W": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S20 FE 5G",
+   "device": "r8q"
   }
  ],
  "SCG03": [
@@ -181725,6 +181812,13 @@
    "device": "coconut"
   }
  ],
+ "Aris": [
+  {
+   "brand": "Vsmart",
+   "name": "Aris",
+   "device": "jacaranda"
+  }
+ ],
  "Bee": [
   {
    "brand": "Vsmart",
@@ -181775,6 +181869,13 @@
    "brand": "Vsmart",
    "name": "Joy 3",
    "device": "casuarina"
+  }
+ ],
+ "Joy 4": [
+  {
+   "brand": "Vsmart",
+   "name": "Joy 4",
+   "device": "juniper"
   }
  ],
  "Live 4": [

@@ -27911,6 +27911,13 @@
    "model": "LT5"
   }
  ],
+ "CANAL Plus Box": [
+  {
+   "brand": "CANAL-PLUS",
+   "device": "HY40A2",
+   "model": "CANAL PLUS BOX"
+  }
+ ],
  "CANALATV1": [
   {
    "brand": "CANAL-PLUS",
@@ -27921,13 +27928,6 @@
    "brand": "CANAL-PLUS",
    "device": "HY40A2",
    "model": "CANALATV1"
-  }
- ],
- "Poland": [
-  {
-   "brand": "CANAL-PLUS",
-   "device": "HY40A2",
-   "model": "CANAL PLUS BOX"
   }
  ],
  "connect": [
@@ -34802,6 +34802,23 @@
    "brand": "Oukitel",
    "device": "K9",
    "model": "K9"
+  }
+ ],
+ "C20": [
+  {
+   "brand": "Cubot",
+   "device": "C20",
+   "model": "C20"
+  },
+  {
+   "brand": "S&T Global",
+   "device": "C20",
+   "model": "C20"
+  },
+  {
+   "brand": "Sharp",
+   "device": "VGO",
+   "model": "SH-C02"
   }
  ],
  "C30": [
@@ -51418,6 +51435,13 @@
    "brand": "Google",
    "device": "fizz_cheets",
    "model": "fizz"
+  }
+ ],
+ "Chromecast Google TV": [
+  {
+   "brand": "Google",
+   "device": "sabrina",
+   "model": "Chromecast"
   }
  ],
  "Emualtor": [
@@ -75798,6 +75822,13 @@
    "model": "Amber7S"
   }
  ],
+ "Amber8S": [
+  {
+   "brand": "Ipro",
+   "device": "Amber8S",
+   "model": "Amber8S"
+  }
+ ],
  "Benny": [
   {
    "brand": "Ipro",
@@ -89887,6 +89918,13 @@
    "model": "Ilium L910"
   }
  ],
+ "X120C": [
+  {
+   "brand": "Lanix",
+   "device": "X120C",
+   "model": "X120C"
+  }
+ ],
  "X230": [
   {
    "brand": "Lanix",
@@ -94151,16 +94189,6 @@
   },
   {
    "brand": "Lenovo",
-   "device": "X306FC_PRC",
-   "model": "Lenovo TB-X306FC_PRC"
-  },
-  {
-   "brand": "Lenovo",
-   "device": "X306NC_PRC",
-   "model": "Lenovo TB-X306NC_PRC"
-  },
-  {
-   "brand": "Lenovo",
    "device": "X306X",
    "model": "Lenovo TB-X306X"
   },
@@ -94168,6 +94196,18 @@
    "brand": "Lenovo",
    "device": "X306XA",
    "model": "Lenovo TB-X306XA"
+  }
+ ],
+ "Lenovo Tab M10 HD (2nd Gen) PRC": [
+  {
+   "brand": "Lenovo",
+   "device": "X306FC_PRC",
+   "model": "Lenovo TB-X306FC_PRC"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "X306NC_PRC",
+   "model": "Lenovo TB-X306NC_PRC"
   }
  ],
  "Lenovo Tab M10 HD(2nd Gen)": [
@@ -124609,6 +124649,13 @@
    "model": "PTBPT5QCB7"
   }
  ],
+ "Proximus TV": [
+  {
+   "brand": "Proximus",
+   "device": "uiw4020pxm",
+   "model": "decoder"
+  }
+ ],
  "Punos_10": [
   {
    "brand": "Punos",
@@ -127763,6 +127810,13 @@
    "model": "Redmi Note 9 Pro"
   }
  ],
+ "Redmi Note 9 Pro Max": [
+  {
+   "brand": "Redmi",
+   "device": "excalibur",
+   "model": "Redmi Note 9 Pro Max"
+  }
+ ],
  "Redmi Note 9S": [
   {
    "brand": "Redmi",
@@ -127773,11 +127827,6 @@
    "brand": "Redmi",
    "device": "curtana",
    "model": "Redmi Note 9S"
-  },
-  {
-   "brand": "Redmi",
-   "device": "excalibur",
-   "model": "Redmi Note 9 Pro Max"
   }
  ],
  "redway10": [
@@ -128479,18 +128528,6 @@
    "brand": "S&T Global",
    "device": "8788_7",
    "model": "8788_7"
-  }
- ],
- "C20": [
-  {
-   "brand": "S&T Global",
-   "device": "C20",
-   "model": "C20"
-  },
-  {
-   "brand": "Sharp",
-   "device": "VGO",
-   "model": "SH-C02"
   }
  ],
  "M555i": [
@@ -137990,6 +138027,50 @@
    "brand": "Samsung",
    "device": "x1s",
    "model": "SM-G981B"
+  }
+ ],
+ "Galaxy S20 FE": [
+  {
+   "brand": "Samsung",
+   "device": "r8s",
+   "model": "SM-G780F"
+  }
+ ],
+ "Galaxy S20 FE 5G": [
+  {
+   "brand": "Samsung",
+   "device": "r8q",
+   "model": "SM-G7810"
+  },
+  {
+   "brand": "Samsung",
+   "device": "r8q",
+   "model": "SM-G781B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "r8q",
+   "model": "SM-G781N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "r8q",
+   "model": "SM-G781U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "r8q",
+   "model": "SM-G781U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "r8q",
+   "model": "SM-G781V"
+  },
+  {
+   "brand": "Samsung",
+   "device": "r8q",
+   "model": "SM-G781W"
   }
  ],
  "Galaxy S20 Ultra 5G": [
@@ -160740,7 +160821,7 @@
    "model": "TG-L900S"
   }
  ],
- "U751UHD IPS SMART HDR 2020C": [
+ "UHD Android TV": [
   {
    "brand": "THEHAM",
    "device": "sindorim",
@@ -171800,6 +171881,13 @@
    "model": "Active 3"
   }
  ],
+ "Aris": [
+  {
+   "brand": "Vsmart",
+   "device": "jacaranda",
+   "model": "Aris"
+  }
+ ],
  "Bee": [
   {
    "brand": "Vsmart",
@@ -171852,6 +171940,13 @@
    "brand": "Vsmart",
    "device": "casuarina",
    "model": "Joy 3"
+  }
+ ],
+ "Joy 4": [
+  {
+   "brand": "Vsmart",
+   "device": "juniper",
+   "model": "Joy 4"
   }
  ],
  "Live 4": [

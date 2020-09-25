@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-09-24
+Last sync is 2020-09-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2935,9 +2935,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CAIXUN|Canada|yeongdeungpo|AiPlus4K|
 |CAIXUN|USA|yeongdeungpo|AiPlus4K|
 |CALME|LT5|LT5|LT5|
+|CANAL-PLUS|CANAL Plus Box|HY40A2|CANAL PLUS BOX|
 |CANAL-PLUS|CANALATV1|HY40A2|CANAL PLUS BOX|
 |CANAL-PLUS|CANALATV1|HY40A2|CANALATV1|
-|CANAL-PLUS|Poland|HY40A2|CANAL PLUS BOX|
 |CBN Media|connect|connect|connect|
 |CBN Media|g-mee1|g-mee1|g-mee1|
 |CCC|AirStick|ts201|AIrStick|
@@ -3905,6 +3905,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ctroniq|Ctroniq_Snook_W10|Ctroniq_Snook_W10|Ctroniq_Snook_W10|
 |Ctroniq|Ctroniq_Snook_W70|Ctroniq_Snook_W70|Ctroniq_Snook_W70|
 |Ctroniq|K9|K9|K9|
+|Cubot|C20|C20|C20|
 |Cubot|C30|C30|C30|
 |Cubot|CUBOT CHEETAH 2|CUBOT_CHEETAH_2|CUBOT CHEETAH 2|
 |Cubot|CUBOT H3|CUBOT_H3|CUBOT H3|
@@ -6236,6 +6237,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Chromebook Pixel (2015)|samus_cheets|Google Chromebook Pixel (2015)|
 |Google|Chromebox|fizz_cheets|Chromebox Reference|
 |Google|Chromebox|fizz_cheets|fizz|
+|Google|Chromecast Google TV|sabrina|Chromecast|
 |Google|Emualtor|generic_x86_arm|AOSP on IA Emulator|
 |Google|Emulator|generic_x86|Android SDK built for x86|
 |Google|Emulator|generic_x86_64|Android SDK built for x86_64|
@@ -10513,6 +10515,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ipro|Amber5s Plus|Amber5s_Plus|Amber5s Plus|
 |Ipro|Amber6|Amber6|Amber6|
 |Ipro|Amber7S|Amber7S|Amber7S|
+|Ipro|Amber8S|Amber8S|Amber8S|
 |Ipro|Benny|Benny|Benny|
 |Ipro|Jade7s|Jade7s|Jade7s|
 |Ipro|Jade8S|Jade8S|Jade8S|
@@ -12940,6 +12943,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lanix|LANIX_PAD_E7|ILIUM_PADE7V11|LANIX_PAD_E7|
 |Lanix|Llium L910|Ilium_L910|Ilium L910|
 |Lanix|X100|ILIUM_X100|ILIUM_X100|
+|Lanix|X120C|X120C|X120C|
 |Lanix|X230|X230|X230|
 |Lanix|X230A|X230A|X230A|
 |Lanix|X240|X240|X240|
@@ -13702,10 +13706,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M10 FHD Rel|801LV|801LV|
 |Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306F|Lenovo TB-X306F|
 |Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306FA|Lenovo TB-X306FA|
-|Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306FC_PRC|Lenovo TB-X306FC_PRC|
-|Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306NC_PRC|Lenovo TB-X306NC_PRC|
 |Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306X|Lenovo TB-X306X|
 |Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306XA|Lenovo TB-X306XA|
+|Lenovo|Lenovo Tab M10 HD (2nd Gen) PRC|X306FC_PRC|Lenovo TB-X306FC_PRC|
+|Lenovo|Lenovo Tab M10 HD (2nd Gen) PRC|X306NC_PRC|Lenovo TB-X306NC_PRC|
 |Lenovo|Lenovo Tab M10 HD(2nd Gen)|X306X|Lenovo TB-X306X|
 |Lenovo|Lenovo Tab M10 Plus|X606V|Lenovo TB-X606V|
 |Lenovo|Lenovo Tab M10 Plus|X606X|Lenovo TB-X606X|
@@ -18623,6 +18627,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Proscan|PLT9774G|PLT9774G|PLT9774G|
 |Proscan|PLT9999G|PLT9999G|PLT9999G|
 |Protab|PTBPT5QCB7|PTBPT5QCB7|PTBPT5QCB7|
+|Proximus|Proximus TV|uiw4020pxm|decoder|
 |Punos|Punos_10|Punos_10|Punos 10|
 |Punos|Punos_7|Punos_7|Punos 7|
 |QBell|EU|hanyang|QBELL Android TV|
@@ -19132,9 +19137,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 9 Pro|curtana|Redmi Note 9 Pro|
 |Redmi|Redmi Note 9 Pro|curtana|curtana|
 |Redmi|Redmi Note 9 Pro|joyeuse|Redmi Note 9 Pro|
+|Redmi|Redmi Note 9 Pro Max|excalibur|Redmi Note 9 Pro Max|
 |Redmi|Redmi Note 9S|curtana|Redmi Note 9 Pro|
 |Redmi|Redmi Note 9S|curtana|Redmi Note 9S|
-|Redmi|Redmi Note 9S|excalibur|Redmi Note 9 Pro Max|
 |Redway|redway10|redway10|redway10|
 |Redway|redway_7|redway_7|redway_7|
 |Reeder|A8i Q2|A8i-Q2|A8i-Q2|
@@ -20981,6 +20986,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S20 5G|x1q|SM-G981V|
 |Samsung|Galaxy S20 5G|x1q|SM-G981W|
 |Samsung|Galaxy S20 5G|x1s|SM-G981B|
+|Samsung|Galaxy S20 FE|r8s|SM-G780F|
+|Samsung|Galaxy S20 FE 5G|r8q|SM-G7810|
+|Samsung|Galaxy S20 FE 5G|r8q|SM-G781B|
+|Samsung|Galaxy S20 FE 5G|r8q|SM-G781N|
+|Samsung|Galaxy S20 FE 5G|r8q|SM-G781U|
+|Samsung|Galaxy S20 FE 5G|r8q|SM-G781U1|
+|Samsung|Galaxy S20 FE 5G|r8q|SM-G781V|
+|Samsung|Galaxy S20 FE 5G|r8q|SM-G781W|
 |Samsung|Galaxy S20 Ultra 5G|SCG03|SCG03|
 |Samsung|Galaxy S20 Ultra 5G|z3q|SM-G9880|
 |Samsung|Galaxy S20 Ultra 5G|z3q|SM-G988N|
@@ -24966,7 +24979,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TG&Co.|TG-L800S|PHX|TG-L800S|
 |TG&Co.|TG-L900S|JGR|TG-L900S|
 |THE UHD|Android TV|R2|ATV R2|
-|THEHAM|U751UHD IPS SMART HDR 2020C|sindorim|AI PONT|
+|THEHAM|UHD Android TV|sindorim|AI PONT|
 |THL|Knight 2|Knight_2|Knight 2|
 |THOMSON_KODAK|PATH_7XPRO|LEDTV32HD|PATH_7XPRO|
 |THOMSON_KODAK|PATH_UHDXANDROID|LEDTVUHD|PATH_UHDXANDROID|
@@ -26764,6 +26777,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vsmart|Active 1 +|PQ6002|Active 1+|
 |Vsmart|Active 1+|PQ6002|Active 1+|
 |Vsmart|Active 3|coconut|Active 3|
+|Vsmart|Aris|jacaranda|Aris|
 |Vsmart|Bee|V220A|Bee|
 |Vsmart|Bee|V220B|Bee|
 |Vsmart|Bee 3|clover|Bee 3|
@@ -26772,6 +26786,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vsmart|Joy 1+|PQ4002|Joy 1+|
 |Vsmart|Joy 2+|V420A|Joy 2+|
 |Vsmart|Joy 3|casuarina|Joy 3|
+|Vsmart|Joy 4|juniper|Joy 4|
 |Vsmart|Live|V620A|Live|
 |Vsmart|Live 4|cassia|Live 4|
 |Vsmart|Star|V320A|Star|

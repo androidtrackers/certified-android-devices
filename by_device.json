@@ -4544,7 +4544,7 @@
   },
   {
    "brand": "THEHAM",
-   "name": "U751UHD IPS SMART HDR 2020C",
+   "name": "UHD Android TV",
    "model": "AI PONT"
   },
   {
@@ -22524,6 +22524,11 @@
  "HY40A2": [
   {
    "brand": "CANAL-PLUS",
+   "name": "CANAL Plus Box",
+   "model": "CANAL PLUS BOX"
+  },
+  {
+   "brand": "CANAL-PLUS",
    "name": "CANALATV1",
    "model": "CANAL PLUS BOX"
   },
@@ -22531,11 +22536,6 @@
    "brand": "CANAL-PLUS",
    "name": "CANALATV1",
    "model": "CANALATV1"
-  },
-  {
-   "brand": "CANAL-PLUS",
-   "name": "Poland",
-   "model": "CANAL PLUS BOX"
   }
  ],
  "connect": [
@@ -29694,6 +29694,18 @@
    "brand": "Oukitel",
    "name": "K9",
    "model": "K9"
+  }
+ ],
+ "C20": [
+  {
+   "brand": "Cubot",
+   "name": "C20",
+   "model": "C20"
+  },
+  {
+   "brand": "S&T Global",
+   "name": "C20",
+   "model": "C20"
   }
  ],
  "C30": [
@@ -46406,6 +46418,13 @@
    "brand": "Google",
    "name": "Chromebox",
    "model": "fizz"
+  }
+ ],
+ "sabrina": [
+  {
+   "brand": "Google",
+   "name": "Chromecast Google TV",
+   "model": "Chromecast"
   }
  ],
  "generic_x86_arm": [
@@ -71795,6 +71814,13 @@
    "model": "Amber7S"
   }
  ],
+ "Amber8S": [
+  {
+   "brand": "Ipro",
+   "name": "Amber8S",
+   "model": "Amber8S"
+  }
+ ],
  "Benny": [
   {
    "brand": "Ipro",
@@ -86641,6 +86667,11 @@
    "brand": "Lanix",
    "name": "Ilium X120C",
    "model": "X120C"
+  },
+  {
+   "brand": "Lanix",
+   "name": "X120C",
+   "model": "X120C"
   }
  ],
  "Ilium_X200": [
@@ -91862,20 +91893,6 @@
    "model": "Lenovo TB-X306FA"
   }
  ],
- "X306FC_PRC": [
-  {
-   "brand": "Lenovo",
-   "name": "Lenovo Tab M10 HD (2nd Gen)",
-   "model": "Lenovo TB-X306FC_PRC"
-  }
- ],
- "X306NC_PRC": [
-  {
-   "brand": "Lenovo",
-   "name": "Lenovo Tab M10 HD (2nd Gen)",
-   "model": "Lenovo TB-X306NC_PRC"
-  }
- ],
  "X306X": [
   {
    "brand": "Lenovo",
@@ -91893,6 +91910,20 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab M10 HD (2nd Gen)",
    "model": "Lenovo TB-X306XA"
+  }
+ ],
+ "X306FC_PRC": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M10 HD (2nd Gen) PRC",
+   "model": "Lenovo TB-X306FC_PRC"
+  }
+ ],
+ "X306NC_PRC": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M10 HD (2nd Gen) PRC",
+   "model": "Lenovo TB-X306NC_PRC"
   }
  ],
  "X606V": [
@@ -123843,6 +123874,13 @@
    "model": "PTBPT5QCB7"
   }
  ],
+ "uiw4020pxm": [
+  {
+   "brand": "Proximus",
+   "name": "Proximus TV",
+   "model": "decoder"
+  }
+ ],
  "Punos_10": [
   {
    "brand": "Punos",
@@ -127093,7 +127131,7 @@
  "excalibur": [
   {
    "brand": "Redmi",
-   "name": "Redmi Note 9S",
+   "name": "Redmi Note 9 Pro Max",
    "model": "Redmi Note 9 Pro Max"
   }
  ],
@@ -127797,13 +127835,6 @@
    "brand": "S&T Global",
    "name": "8788_7",
    "model": "8788_7"
-  }
- ],
- "C20": [
-  {
-   "brand": "S&T Global",
-   "name": "C20",
-   "model": "C20"
   }
  ],
  "M555i": [
@@ -138867,6 +138898,50 @@
    "brand": "Samsung",
    "name": "Galaxy S20 5G",
    "model": "SM-G981W"
+  }
+ ],
+ "r8s": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S20 FE",
+   "model": "SM-G780F"
+  }
+ ],
+ "r8q": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S20 FE 5G",
+   "model": "SM-G7810"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S20 FE 5G",
+   "model": "SM-G781B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S20 FE 5G",
+   "model": "SM-G781N"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S20 FE 5G",
+   "model": "SM-G781U"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S20 FE 5G",
+   "model": "SM-G781U1"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S20 FE 5G",
+   "model": "SM-G781V"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S20 FE 5G",
+   "model": "SM-G781W"
   }
  ],
  "SCG03": [
@@ -174199,6 +174274,13 @@
    "model": "Active 3"
   }
  ],
+ "jacaranda": [
+  {
+   "brand": "Vsmart",
+   "name": "Aris",
+   "model": "Aris"
+  }
+ ],
  "V220A": [
   {
    "brand": "Vsmart",
@@ -174244,6 +174326,13 @@
    "brand": "Vsmart",
    "name": "Joy 3",
    "model": "Joy 3"
+  }
+ ],
+ "juniper": [
+  {
+   "brand": "Vsmart",
+   "name": "Joy 4",
+   "model": "Joy 4"
   }
  ],
  "V620A": [
