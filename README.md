@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-09-25
+Last sync is 2020-09-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -18126,7 +18126,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Polaroid|V45M|V45M|CARBON_PRO4543|
 |Polaroid|V7|nuclear-M7021|V7|
 |Polestar|Polestar|ihu_abl_car|Polestar|
-|Polestar|Polestar|ihu_emulator|Polestar 2|
+|Polestar|Polestar Emu|ihu_emulator|Polestar 2|
 |Polytron|P500|P500|P500|
 |Polytron|P551S|P551S|P551S|
 |Polytron|PDB-F2|PDB_F2|PDB-F2|

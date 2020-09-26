@@ -121356,7 +121356,9 @@
    "brand": "Polestar",
    "device": "ihu_abl_car",
    "model": "Polestar"
-  },
+  }
+ ],
+ "Polestar Emu": [
   {
    "brand": "Polestar",
    "device": "ihu_emulator",
