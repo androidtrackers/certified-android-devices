@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-09-26
+Last sync is 2020-09-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10055,6 +10055,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IWRIST|IWRIST_M7|IWRIST_M7|IWRIST_M7|
 |IWRIST|IWRIST_M8|IWRIST_M8|IWRIST_M8|
 |IZZI Telecom|HP2714|HPH65|HP2714|
+|IZZI Telecom|SKYWORTH-HY4002|HY40A1|SKYWORTH-HY4002|
 |Ice Phone|Mini|ice_phone_mini|Ice-Phone Mini|
 |Icon|Portal_10i|Portal_10i|NTMC17|
 |IguanaPad|XM14G|XM14G|XM14G|
@@ -10158,6 +10159,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|HOT5 Lite|Infinix-X559|Infinix X559|
 |Infinix|HOT5 Lite|X557|Infinix HOT 4|
 |Infinix|Hot 4 Pro|Infinix-X5511-13M|Infinix HOT 4 Pro|
+|Infinix|Infinix HOT 10 Lite|Infinix-X657B|Infinix X657B|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623B|
 |Infinix|Infinix HOT 7|Infinix-X625C|Infinix X625C|
@@ -19292,6 +19294,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SFR|Star Trail 6|STARTRAIL6|STARTRAIL6|
 |SFR|Star Trail III|mobiwire_startrail3|StarTrail III|
 |SFR.fr|DV8219_SFR|DV8219|DV8219_SFR|
+|SFR.fr|FR|DV8219|DV8219_SFR|
 |SGINO|6S|6S|6S|
 |SGINO|SGINO6|SGINO6|SGINO6|
 |SHIFT|SHIFT6m|SHIFT6m|SHIFT6m|
@@ -25297,6 +25300,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|SPARK 6 Air|TECNO-KE6|TECNO KE6|
 |Tecno|SPARK 6 Air|TECNO-KE6j|TECNO KE6j|
 |Tecno|SPARK 6 GO|TECNO-KE5j|TECNO KE5j|
+|Tecno|SPARK 6 Go|TECNO-KE5k|TECNO KE5k|
 |Tecno|SPARK CM|TECNO-KA9|TECNO KA9|
 |Tecno|SPARK Go 2020|TECNO-KE5|TECNO KE5|
 |Tecno|SPARK Go Plus|TECNO-BB4k|TECNO BB4k|

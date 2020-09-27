@@ -51667,6 +51667,11 @@
    "device": "HPH65",
    "name": "HP2714",
    "model": "HP2714"
+  },
+  {
+   "device": "HY40A1",
+   "name": "SKYWORTH-HY4002",
+   "model": "SKYWORTH-HY4002"
   }
  ],
  "Ice Phone": [
@@ -52214,6 +52219,11 @@
    "device": "Infinix-X5511-13M",
    "name": "Hot 4 Pro",
    "model": "Infinix HOT 4 Pro"
+  },
+  {
+   "device": "Infinix-X657B",
+   "name": "Infinix HOT 10 Lite",
+   "model": "Infinix X657B"
   },
   {
    "device": "Infinix-X623",
@@ -99076,6 +99086,11 @@
    "device": "DV8219",
    "name": "DV8219_SFR",
    "model": "DV8219_SFR"
+  },
+  {
+   "device": "DV8219",
+   "name": "FR",
+   "model": "DV8219_SFR"
   }
  ],
  "SGINO": [
@@ -129503,6 +129518,11 @@
    "device": "TECNO-KE5j",
    "name": "SPARK 6 GO",
    "model": "TECNO KE5j"
+  },
+  {
+   "device": "TECNO-KE5k",
+   "name": "SPARK 6 Go",
+   "model": "TECNO KE5k"
   },
   {
    "device": "TECNO-KA9",

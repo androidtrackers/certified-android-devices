@@ -5025,6 +5025,11 @@
    "model": "DV8219_SFR"
   },
   {
+   "brand": "SFR.fr",
+   "name": "FR",
+   "model": "DV8219_SFR"
+  },
+  {
    "brand": "TekSavvy",
    "name": "TekSavvy_DV8219",
    "model": "TekSavvy_DV8219"
@@ -68911,6 +68916,13 @@
    "model": "HP2714"
   }
  ],
+ "HY40A1": [
+  {
+   "brand": "IZZI Telecom",
+   "name": "SKYWORTH-HY4002",
+   "model": "SKYWORTH-HY4002"
+  }
+ ],
  "ice_phone_mini": [
   {
    "brand": "Ice Phone",
@@ -69300,6 +69312,11 @@
   {
    "brand": "Infinix",
    "name": "HOT 10 lite",
+   "model": "Infinix X657B"
+  },
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 10 Lite",
    "model": "Infinix X657B"
   },
   {
@@ -165121,6 +165138,13 @@
    "brand": "Tecno",
    "name": "SPARK 6 GO",
    "model": "TECNO KE5j"
+  }
+ ],
+ "TECNO-KE5k": [
+  {
+   "brand": "Tecno",
+   "name": "SPARK 6 Go",
+   "model": "TECNO KE5k"
   }
  ],
  "TECNO-KA9": [

@@ -72951,6 +72951,13 @@
    "model": "HP2714"
   }
  ],
+ "SKYWORTH-HY4002": [
+  {
+   "brand": "IZZI Telecom",
+   "device": "HY40A1",
+   "model": "SKYWORTH-HY4002"
+  }
+ ],
  "Mini": [
   {
    "brand": "Ice Phone",
@@ -73643,6 +73650,13 @@
    "brand": "Infinix",
    "device": "Infinix-X5511-13M",
    "model": "Infinix HOT 4 Pro"
+  }
+ ],
+ "Infinix HOT 10 Lite": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X657B",
+   "model": "Infinix X657B"
   }
  ],
  "Infinix HOT 6X": [
@@ -128798,6 +128812,13 @@
    "model": "DV8219_SFR"
   }
  ],
+ "FR": [
+  {
+   "brand": "SFR.fr",
+   "device": "DV8219",
+   "model": "DV8219_SFR"
+  }
+ ],
  "6S": [
   {
    "brand": "SGINO",
@@ -162687,6 +162708,13 @@
    "brand": "Tecno",
    "device": "TECNO-KE5j",
    "model": "TECNO KE5j"
+  }
+ ],
+ "SPARK 6 Go": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KE5k",
+   "model": "TECNO KE5k"
   }
  ],
  "SPARK CM": [
