@@ -1104,6 +1104,13 @@
    "device": "AZDroid"
   }
  ],
+ "Desert2": [
+  {
+   "brand": "AZOM TECH",
+   "name": "Desert2",
+   "device": "Desert2"
+  }
+ ],
  "A1046G": [
   {
    "brand": "AZPEN",
@@ -15745,6 +15752,11 @@
    "brand": "BQru",
    "name": "BQ-1085L",
    "device": "BQru-1085L"
+  },
+  {
+   "brand": "BQru",
+   "name": "BQ-1085L",
+   "device": "BQru-1085L_2020"
   }
  ],
  "BQ-4001G": [
@@ -16244,6 +16256,13 @@
    "device": "BQru-5732L"
   }
  ],
+ "BQ-5740G": [
+  {
+   "brand": "BQru",
+   "name": "BQ-5740G",
+   "device": "BQru-5740G"
+  }
+ ],
  "BQ-6000L": [
   {
    "brand": "BQru",
@@ -16326,6 +16345,11 @@
    "brand": "BQru",
    "name": "BQ-7000G",
    "device": "BQru-7000G"
+  },
+  {
+   "brand": "BQru",
+   "name": "BQ-7000G",
+   "device": "BQru-7000G_2020"
   }
  ],
  "BQ-7022": [
@@ -16354,6 +16378,11 @@
    "brand": "BQru",
    "name": "BQ-7040G",
    "device": "BQru-7040G"
+  },
+  {
+   "brand": "BQru",
+   "name": "BQ-7040G",
+   "device": "BQru-7040G_2020"
   }
  ],
  "BQru-7081": [
@@ -16850,6 +16879,13 @@
    "brand": "Bauhn",
    "name": "Australia",
    "device": "hanyang"
+  }
+ ],
+ "Bauhn Android TV 2K": [
+  {
+   "brand": "Bauhn",
+   "name": "Australia",
+   "device": "nippori"
   }
  ],
  "BAUHN 4K Android TV": [
@@ -37719,6 +37755,13 @@
    "device": "M20"
   }
  ],
+ "M20 Mini": [
+  {
+   "brand": "Evertek",
+   "name": "M20 Mini",
+   "device": "M20_Mini"
+  }
+ ],
  "EVERTEK V4": [
   {
    "brand": "Evertek",
@@ -52294,6 +52337,13 @@
    "device": "MXG408"
   }
  ],
+ "Korea\"": [
+  {
+   "brand": "Haier",
+   "name": "\"Mexico",
+   "device": "Central America"
+  }
+ ],
  "NEO10-1": [
   {
    "brand": "Haier",
@@ -52327,13 +52377,6 @@
    "brand": "Haier",
    "name": "North America",
    "device": "uguisudani"
-  }
- ],
- "Central America\"": [
-  {
-   "brand": "Haier",
-   "name": "\"North America",
-   "device": "Mexico"
   }
  ],
  "Haitech Android TV 2K": [
@@ -75948,6 +75991,13 @@
    "device": "AV-10NT310"
   }
  ],
+ "AV-11NT510": [
+  {
+   "brand": "JVC",
+   "name": "AV-11NT510",
+   "device": "AV-11NT510"
+  }
+ ],
  "DM65UXR": [
   {
    "brand": "JVC",
@@ -77953,6 +78003,13 @@
    "brand": "Karbonn",
    "name": "Titanium Vista 4G",
    "device": "TitaniumVista4G"
+  }
+ ],
+ "Titanium_S9Plus": [
+  {
+   "brand": "Karbonn",
+   "name": "Titanium_S9Plus",
+   "device": "Titanium_S9Plus"
   }
  ],
  "KA7Q3": [
@@ -97072,6 +97129,13 @@
    "device": "DCN88_72604_LN"
   }
  ],
+ "Linsar Android TV": [
+  {
+   "brand": "Linsar",
+   "name": "Australia",
+   "device": "hanyang"
+  }
+ ],
  "F10XIPS": [
   {
    "brand": "Linsay",
@@ -100798,6 +100862,13 @@
    "device": "meanIT_X6"
   }
  ],
+ "M7Pro": [
+  {
+   "brand": "Meberry",
+   "name": "M7Pro",
+   "device": "M7Pro"
+  }
+ ],
  "101P51C": [
   {
    "brand": "Mecer",
@@ -102157,6 +102228,11 @@
   {
    "brand": "MiTAC",
    "name": "N630",
+   "device": "surfing_pro"
+  },
+  {
+   "brand": "MiTAC",
+   "name": "surfing_pro",
    "device": "surfing_pro"
   }
  ],
@@ -119089,6 +119165,13 @@
    "device": "C21"
   }
  ],
+ "C22": [
+  {
+   "brand": "Oukitel",
+   "name": "C22",
+   "device": "C22"
+  }
+ ],
  "C6 Pro": [
   {
    "brand": "Oukitel",
@@ -123709,6 +123792,13 @@
    "brand": "Polaroid",
    "name": "A9x/PTAB935x",
    "device": "A9xPTAB935x"
+  }
+ ],
+ "Polaroid Android TV": [
+  {
+   "brand": "Polaroid",
+   "name": "Australia",
+   "device": "hanyang"
   }
  ],
  "BDL1064PR001": [
@@ -128413,6 +128503,20 @@
    "brand": "UNOWHY",
    "name": "QOOQ",
    "device": "QOOQ"
+  }
+ ],
+ "ASIUR-702": [
+  {
+   "brand": "QPS Digital Electronics",
+   "name": "ASIUR-702",
+   "device": "ASIUR-702"
+  }
+ ],
+ "ASIUR-703": [
+  {
+   "brand": "QPS Digital Electronics",
+   "name": "ASIUR-703",
+   "device": "ASIUR-703"
   }
  ],
  "KID15": [
@@ -153485,6 +153589,13 @@
    "device": "X-treme_PQ54"
   }
  ],
+ "X-treme_PQ54 MAX": [
+  {
+   "brand": "Sigma Mobile",
+   "name": "X-treme_PQ54 MAX",
+   "device": "X-treme_PQ54_MAX"
+  }
+ ],
  "X_Style_Tab_A103": [
   {
    "brand": "Sigma Mobile",
@@ -170846,6 +170957,13 @@
    "device": "TTBKB10-01"
   }
  ],
+ "TTBKB10-A1": [
+  {
+   "brand": "Tanoshi",
+   "name": "TTBKB10-A1",
+   "device": "TTBKB10-A1"
+  }
+ ],
  "Tata Sky Binge Plus": [
   {
    "brand": "TataSky",
@@ -171488,6 +171606,13 @@
    "brand": "Tecno",
    "name": "CAMON 16 Pro",
    "device": "TECNO-CE8"
+  }
+ ],
+ "TECNO CD6j": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 16 S",
+   "device": "TECNO-CD6j"
   }
  ],
  "TECNO CA6": [

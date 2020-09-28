@@ -732,6 +732,13 @@
    "model": "AZDroid"
   }
  ],
+ "AZOM TECH": [
+  {
+   "device": "Desert2",
+   "name": "Desert2",
+   "model": "Desert2"
+  }
+ ],
  "AZPEN": [
   {
    "device": "A1046G",
@@ -10765,6 +10772,11 @@
    "model": "BQ-1085L"
   },
   {
+   "device": "BQru-1085L_2020",
+   "name": "BQ-1085L",
+   "model": "BQ-1085L"
+  },
+  {
    "device": "BQru-4001G",
    "name": "BQ-4001G",
    "model": "BQ-4001G"
@@ -11120,6 +11132,11 @@
    "model": "BQ-5732L"
   },
   {
+   "device": "BQru-5740G",
+   "name": "BQ-5740G",
+   "model": "BQ-5740G"
+  },
+  {
    "device": "BQru-6000L",
    "name": "BQ-6000L Aurora",
    "model": "BQ-6000L"
@@ -11180,6 +11197,11 @@
    "model": "BQ-7000G"
   },
   {
+   "device": "BQru-7000G_2020",
+   "name": "BQ-7000G",
+   "model": "BQ-7000G"
+  },
+  {
    "device": "BQru-7022",
    "name": "BQ-7022G",
    "model": "BQ-7022"
@@ -11196,6 +11218,11 @@
   },
   {
    "device": "BQru-7040G",
+   "name": "BQ-7040G",
+   "model": "BQ-7040G"
+  },
+  {
+   "device": "BQru-7040G_2020",
    "name": "BQ-7040G",
    "model": "BQ-7040G"
   },
@@ -11572,6 +11599,11 @@
    "device": "hanyang",
    "name": "Australia",
    "model": "Tempo Android TV"
+  },
+  {
+   "device": "nippori",
+   "name": "Australia",
+   "model": "Bauhn Android TV 2K"
   },
   {
    "device": "bangbae",
@@ -26790,6 +26822,11 @@
    "model": "M20"
   },
   {
+   "device": "M20_Mini",
+   "name": "M20 Mini",
+   "model": "M20 Mini"
+  },
+  {
    "device": "V4",
    "name": "V4",
    "model": "EVERTEK V4"
@@ -37517,6 +37554,11 @@
    "model": "MXG408"
   },
   {
+   "device": "Central America",
+   "name": "\"Mexico",
+   "model": "Korea\""
+  },
+  {
    "device": "NEO10-1",
    "name": "NEO10-1",
    "model": "NEO10-1"
@@ -37540,11 +37582,6 @@
    "device": "uguisudani",
    "name": "North America",
    "model": "haierATVuguisudani"
-  },
-  {
-   "device": "Mexico",
-   "name": "\"North America",
-   "model": "Central America\""
   },
   {
    "device": "P2",
@@ -55573,6 +55610,11 @@
    "model": "AV-10NT310"
   },
   {
+   "device": "AV-11NT510",
+   "name": "AV-11NT510",
+   "model": "AV-11NT510"
+  },
+  {
    "device": "R2",
    "name": "Android TV",
    "model": "ATV R2"
@@ -57154,6 +57196,11 @@
    "device": "TitaniumVista4G",
    "name": "Titanium Vista 4G",
    "model": "Titanium Vista 4G"
+  },
+  {
+   "device": "Titanium_S9Plus",
+   "name": "Titanium_S9Plus",
+   "model": "Titanium_S9Plus"
   },
   {
    "device": "Karbonn_Titanium_S9_Plus",
@@ -71732,6 +71779,13 @@
    "model": "DCN88_72604_LN"
   }
  ],
+ "Linsar": [
+  {
+   "device": "hanyang",
+   "name": "Australia",
+   "model": "Linsar Android TV"
+  }
+ ],
  "Linsay": [
   {
    "device": "F10XIPS",
@@ -74643,6 +74697,11 @@
    "device": "M7",
    "name": "M7",
    "model": "M7"
+  },
+  {
+   "device": "M7Pro",
+   "name": "M7Pro",
+   "model": "M7Pro"
   }
  ],
  "Mecer": [
@@ -75716,6 +75775,11 @@
    "device": "centaur",
    "name": "N651",
    "model": "N651"
+  },
+  {
+   "device": "surfing_pro",
+   "name": "surfing_pro",
+   "model": "N630"
   }
  ],
  "Micromax": [
@@ -88998,6 +89062,11 @@
    "model": "C21"
   },
   {
+   "device": "C22",
+   "name": "C22",
+   "model": "C22"
+  },
+  {
    "device": "C6_Pro",
    "name": "C6 Pro",
    "model": "C6 Pro"
@@ -92715,6 +92784,11 @@
    "model": "A9x/PTAB935x"
   },
   {
+   "device": "hanyang",
+   "name": "Australia",
+   "model": "Polaroid Android TV"
+  },
+  {
    "device": "BDL1064PR001",
    "name": "BDL1064PR001",
    "model": "BDL1064PR001"
@@ -96281,6 +96355,16 @@
   }
  ],
  "QPS Digital Electronics": [
+  {
+   "device": "ASIUR-702",
+   "name": "ASIUR-702",
+   "model": "ASIUR-702"
+  },
+  {
+   "device": "ASIUR-703",
+   "name": "ASIUR-703",
+   "model": "ASIUR-703"
+  },
   {
    "device": "KID15",
    "name": "KID15",
@@ -115010,6 +115094,11 @@
    "model": "X-treme_PQ54"
   },
   {
+   "device": "X-treme_PQ54_MAX",
+   "name": "X-treme_PQ54 MAX",
+   "model": "X-treme_PQ54 MAX"
+  },
+  {
    "device": "X_Style_Tab_A103",
    "name": "X_Style_Tab_A103",
    "model": "X_Style_Tab_A103"
@@ -128315,6 +128404,11 @@
    "device": "TTBKB10-01",
    "name": "TTBKB10-01",
    "model": "Tanoshi 2-in-1"
+  },
+  {
+   "device": "TTBKB10-A1",
+   "name": "TTBKB10-A1",
+   "model": "TTBKB10-A1"
   }
  ],
  "TataSky": [
@@ -128828,6 +128922,11 @@
    "device": "TECNO-CE8",
    "name": "CAMON 16 Pro",
    "model": "TECNO CE8"
+  },
+  {
+   "device": "TECNO-CD6j",
+   "name": "CAMON 16 S",
+   "model": "TECNO CD6j"
   },
   {
    "device": "TECNO-C7",
