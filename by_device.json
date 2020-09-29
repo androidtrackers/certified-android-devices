@@ -635,6 +635,153 @@
    "model": "TG996"
   }
  ],
+ "samseong": [
+  {
+   "brand": "ALMATEEN",
+   "name": "LXL43G7H-AT",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Aiwa",
+   "name": "AW-LED50X6FL",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Alpha",
+   "name": "Alpha 43G7NUA",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Arrow",
+   "name": "RO-55LCS",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "BenQ",
+   "name": "E55-720",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Changhong",
+   "name": "U50H7",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Changhong",
+   "name": "U50H7",
+   "model": "CHiQ AI Center"
+  },
+  {
+   "brand": "Classpro",
+   "name": "CGS55UHD",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Erito",
+   "name": "Vietnam",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Hitachi",
+   "name": "LD50CHS04U",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "H-LED50EU7008",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "HATV-58AA100",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "HYLED5015A4KM",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Infinix",
+   "name": "55X1",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "JVC",
+   "name": "LT-50KD507",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "JVC",
+   "name": "LT-50N7115A",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Kogan",
+   "name": "KALED50XU9210STA",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Nikkei",
+   "name": "NI43UG7NA9",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "NobleSkiodo",
+   "name": "43UDVRCHG7H",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "OK (Mediamark)",
+   "name": "ODL50672U-TAB",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "ORCA",
+   "name": "OR-50UX400S",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "PILOT",
+   "name": "PQ55CH",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "SHINON",
+   "name": "SH55G7K",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Sansui TV",
+   "name": "JSC43ASUHD",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Syinix",
+   "name": "55A1S",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Thomson",
+   "name": "50TG7UA9X",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Vsmart",
+   "name": "55KD6800",
+   "model": "VINATV 4K"
+  },
+  {
+   "brand": "Vu Televisions",
+   "name": "50CA",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Wansa",
+   "name": "WUD55JOA63S",
+   "model": "AI PONT"
+  }
+ ],
  "MD1001": [
   {
    "brand": "AMTC",
@@ -4736,148 +4883,6 @@
   {
    "brand": "Vu Televisions",
    "name": "43UA",
-   "model": "AI PONT"
-  }
- ],
- "samseong": [
-  {
-   "brand": "Aiwa",
-   "name": "AW-LED50X6FL",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Alpha",
-   "name": "Alpha 43G7NUA",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Arrow",
-   "name": "RO-55LCS",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "BenQ",
-   "name": "E55-720",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Changhong",
-   "name": "U50H7",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Changhong",
-   "name": "U50H7",
-   "model": "CHiQ AI Center"
-  },
-  {
-   "brand": "Classpro",
-   "name": "CGS55UHD",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Erito",
-   "name": "Vietnam",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Hitachi",
-   "name": "LD50CHS04U",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "H-LED50EU7008",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "HATV-58AA100",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "HYLED5015A4KM",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Infinix",
-   "name": "55X1",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "JVC",
-   "name": "LT-50KD507",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "JVC",
-   "name": "LT-50N7115A",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Kogan",
-   "name": "KALED50XU9210STA",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Nikkei",
-   "name": "NI43UG7NA9",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "NobleSkiodo",
-   "name": "43UDVRCHG7H",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "OK (Mediamark)",
-   "name": "ODL50672U-TAB",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "ORCA",
-   "name": "OR-50UX400S",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "PILOT",
-   "name": "PQ55CH",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "SHINON",
-   "name": "SH55G7K",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Sansui TV",
-   "name": "JSC43ASUHD",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Syinix",
-   "name": "55A1S",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Thomson",
-   "name": "50TG7UA9X",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Vsmart",
-   "name": "55KD6800",
-   "model": "VINATV 4K"
-  },
-  {
-   "brand": "Vu Televisions",
-   "name": "50CA",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Wansa",
-   "name": "WUD55JOA63S",
    "model": "AI PONT"
   }
  ],
@@ -25441,6 +25446,13 @@
    "model": "Hi9Pro"
   }
  ],
+ "HipadX": [
+  {
+   "brand": "Chuwi",
+   "name": "HipadX_eea_1",
+   "model": "HiPad X"
+  }
+ ],
  "Surpad": [
   {
    "brand": "Chuwi",
@@ -32734,6 +32746,18 @@
    "model": "ViewPad_M10"
   }
  ],
+ "mid1016_mk_64": [
+  {
+   "brand": "DigiLand",
+   "name": "CompumaxBlue",
+   "model": "CompumaxBlue"
+  },
+  {
+   "brand": "Leotec",
+   "name": "mid1016_mk_64",
+   "model": "Supernova"
+  }
+ ],
  "mid1024_e": [
   {
    "brand": "DigiLand",
@@ -33861,6 +33885,13 @@
    "brand": "Digma",
    "name": "Optima_8027_3G",
    "model": "Optima_8027_3G_TS8211PG"
+  }
+ ],
+ "TS8227PL": [
+  {
+   "brand": "Digma",
+   "name": "Optima_8_Z801_4G",
+   "model": "Optima 8 Z801 4G TS8227PL"
   }
  ],
  "PS7210PG": [
@@ -35392,6 +35423,13 @@
    "model": "MAX-10"
   }
  ],
+ "MAX-10_EEA": [
+  {
+   "brand": "Dragontouch",
+   "name": "DragonTouch",
+   "model": "MAX-10_EEA"
+  }
+ ],
  "K8": [
   {
    "brand": "Dragontouch",
@@ -36600,6 +36638,16 @@
    "brand": "EVEREST-EVERPAD",
    "name": "DC-1032",
    "model": "DC-1032"
+  },
+  {
+   "brand": "PCBOX",
+   "name": "PCB-T104",
+   "model": "PCB-T104"
+  },
+  {
+   "brand": "ViewSonic",
+   "name": "ViewPad_M10_2_32",
+   "model": "ViewPad M10-2/32"
   }
  ],
  "mid7015_mk": [
@@ -38412,6 +38460,13 @@
    "brand": "beafon",
    "name": "M6",
    "model": "M6"
+  }
+ ],
+ "M60": [
+  {
+   "brand": "Evercoss",
+   "name": "M60",
+   "model": "M60"
   }
  ],
  "M70": [
@@ -45276,6 +45331,13 @@
    "model": "GIONEE F109N"
   }
  ],
+ "F11VE": [
+  {
+   "brand": "Gionee",
+   "name": "F11VE",
+   "model": "GIONEE F11VE"
+  }
+ ],
  "GIONEE_SW17G18": [
   {
    "brand": "Gionee",
@@ -52084,6 +52146,13 @@
    "model": "K30"
   }
  ],
+ "K30_PRO": [
+  {
+   "brand": "Hafury",
+   "name": "K30 PRO",
+   "model": "K30 PRO"
+  }
+ ],
  "NOTE_10": [
   {
    "brand": "Hafury",
@@ -55571,6 +55640,13 @@
    "model": "Hisense E20"
   }
  ],
+ "HLTE103E_24": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense E20",
+   "model": "HLTE103E E20"
+  }
+ ],
  "HS6763MT": [
   {
    "brand": "Hisense",
@@ -55593,6 +55669,11 @@
    "brand": "Hisense",
    "name": "Hisense E40",
    "model": "HLTE229E"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense E40",
+   "model": "Hisense E40"
   }
  ],
  "HLTE229E_10": [
@@ -57124,6 +57205,13 @@
    "brand": "Hisense",
    "name": "xinhaoshan",
    "model": "HiSmart 4K ATV4"
+  }
+ ],
+ "HNR552T": [
+  {
+   "brand": "Hisense",
+   "name": "天翼1号",
+   "model": "TYH201H"
   }
  ],
  "5-0": [
@@ -67717,6 +67805,13 @@
    "model": "PNC550"
   }
  ],
+ "10LA2": [
+  {
+   "brand": "Hyundai",
+   "name": "10LA2",
+   "model": "10LA2"
+  }
+ ],
  "7LB1": [
   {
    "brand": "Hyundai",
@@ -78202,6 +78297,13 @@
    "brand": "LBQ (UK)",
    "name": "LbQ_F8v2",
    "model": "LbQ-F8v2"
+  }
+ ],
+ "ACE_I": [
+  {
+   "brand": "LEGEND",
+   "name": "ACE_I",
+   "model": "ACE_I"
   }
  ],
  "LMS": [
@@ -93438,13 +93540,6 @@
    "model": "Supernova_i216"
   }
  ],
- "mid1016_mk_64": [
-  {
-   "brand": "Leotec",
-   "name": "mid1016_mk_64",
-   "model": "Supernova"
-  }
- ],
  "lephone_P2AF": [
   {
    "brand": "Lephone",
@@ -95811,6 +95906,13 @@
    "model": "Prime_S"
   }
  ],
+ "smartguide210_eea": [
+  {
+   "brand": "MEDER",
+   "name": "MEDER",
+   "model": "SmartGuide_2.10"
+  }
+ ],
  "DV8555-MEO": [
   {
    "brand": "MEO(Portugal)",
@@ -96921,6 +97023,13 @@
    "model": "DV6067H"
   }
  ],
+ "Mara_Z1": [
+  {
+   "brand": "Mara Phones",
+   "name": "Mara  Z1",
+   "model": "Mara Phones Z1"
+  }
+ ],
  "Mara_X1": [
   {
    "brand": "Mara Phones",
@@ -96933,6 +97042,13 @@
    "brand": "Mara Phones",
    "name": "MARA Z",
    "model": "Mara Z"
+  }
+ ],
+ "MaraPhones_R": [
+  {
+   "brand": "Mara Phones",
+   "name": "Mara Phones R",
+   "model": "Mara Phones R"
   }
  ],
  "Mara_S": [
@@ -106461,6 +106577,13 @@
    "model": "MLX8_4G"
   }
  ],
+ "ML_SO09_MLX8_4G": [
+  {
+   "brand": "Multilaser",
+   "name": "MLX8_4G",
+   "model": "MLX8_4G"
+  }
+ ],
  "ML-TI-MS40G": [
   {
    "brand": "Multilaser",
@@ -115599,6 +115722,13 @@
    "brand": "Orbic",
    "name": "RC506LT",
    "model": "RC506LT"
+  }
+ ],
+ "RC545L": [
+  {
+   "brand": "Orbic",
+   "name": "RC545L",
+   "model": "RC545L"
   }
  ],
  "RC555L": [
@@ -126788,6 +126918,13 @@
    "model": "RMX2052"
   }
  ],
+ "RMX2176CN": [
+  {
+   "brand": "Realme",
+   "name": "realme X7 5G",
+   "model": "RMX2176"
+  }
+ ],
  "RMX1921": [
   {
    "brand": "Realme",
@@ -127621,6 +127758,13 @@
    "brand": "Rhino",
    "name": "C10",
    "model": "C10"
+  }
+ ],
+ "Rhino_M10p": [
+  {
+   "brand": "Rhino",
+   "name": "M10p_001",
+   "model": "M10p"
   }
  ],
  "Rhino_T8": [
@@ -154861,6 +155005,13 @@
    "model": "TARISTAB4"
   }
  ],
+ "Tab2": [
+  {
+   "brand": "Stylos",
+   "name": "Tab2",
+   "model": "Tab2"
+  }
+ ],
  "AT703": [
   {
    "brand": "Stylus",
@@ -164156,6 +164307,11 @@
    "brand": "Teclast",
    "name": "P80X_EEA",
    "model": "P80X_EEA"
+  },
+  {
+   "brand": "Tesla",
+   "name": "P80X_ROW",
+   "model": "P80X"
   }
  ],
  "P80h_EEA": [
@@ -169576,6 +169732,13 @@
    "model": "CT9A03W23"
   }
  ],
+ "VCT9B06Q22": [
+  {
+   "brand": "Venturer",
+   "name": "VCT9B06Q22_eea",
+   "model": "VCT9B06Q22"
+  }
+ ],
  "V1401": [
   {
    "brand": "Venus",
@@ -170788,6 +170951,13 @@
    "brand": "Vestel",
    "name": "V TAB 9.7'' PRO",
    "model": "VT97PRO"
+  }
+ ],
+ "ATLAS": [
+  {
+   "brand": "Vestel",
+   "name": "V TAB Z1",
+   "model": "V TAB Z1"
   }
  ],
  "MELTEM": [
@@ -172284,6 +172454,13 @@
    "model": "V2025A"
   }
  ],
+ "2025": [
+  {
+   "brand": "Vivo",
+   "name": "V2025",
+   "model": "V2025"
+  }
+ ],
  "2026": [
   {
    "brand": "Vivo",
@@ -172318,6 +172495,13 @@
    "brand": "Vivo",
    "name": "V2028",
    "model": "V2028"
+  }
+ ],
+ "PD2031": [
+  {
+   "brand": "Vivo",
+   "name": "V2031A",
+   "model": "V2031A"
   }
  ],
  "PD2034": [
@@ -176978,7 +177162,24 @@
    "model": "T3"
   }
  ],
+ "W7_Q": [
+  {
+   "brand": "Wings",
+   "name": "W7 Q",
+   "model": "W7"
+  },
+  {
+   "brand": "Wings",
+   "name": "W7_Q_EEA",
+   "model": "W7"
+  }
+ ],
  "W4": [
+  {
+   "brand": "Wings",
+   "name": "W4",
+   "model": "W4"
+  },
   {
    "brand": "Wings",
    "name": "W4 EEA",
@@ -177156,6 +177357,13 @@
    "brand": "Winnovo",
    "name": "TS10",
    "model": "TS10"
+  }
+ ],
+ "TS10_EEA": [
+  {
+   "brand": "Winnovo",
+   "name": "TS10_EEA",
+   "model": "TS10_EEA"
   }
  ],
  "TS7": [
@@ -177752,6 +177960,13 @@
    "brand": "XGIMI",
    "name": "P_FHD_2020",
    "model": "P_FHD_2020"
+  }
+ ],
+ "XI_CEU55": [
+  {
+   "brand": "XION",
+   "name": "XI_CEU55",
+   "model": "XI_CEU55"
   }
  ],
  "DV8252": [
@@ -186968,6 +187183,13 @@
    "model": "K90U"
   }
  ],
+ "Z7750R": [
+  {
+   "brand": "ZTE",
+   "name": "ZR01",
+   "model": "ZR01"
+  }
+ ],
  "P671F50": [
   {
    "brand": "ZTE",
@@ -187004,6 +187226,11 @@
    "brand": "ZTE",
    "name": "ZTE 8010",
    "model": "ZTE 8010"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE 8010RU",
+   "model": "ZTE 8010RU"
   }
  ],
  "P963S05": [

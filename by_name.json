@@ -6470,6 +6470,13 @@
    "model": "TG996"
   }
  ],
+ "LXL43G7H-AT": [
+  {
+   "brand": "ALMATEEN",
+   "device": "samseong",
+   "model": "AI PONT"
+  }
+ ],
  "MD1001 Tablet": [
   {
    "brand": "AMTC",
@@ -30906,6 +30913,13 @@
    "model": "Hi9Pro"
   }
  ],
+ "HipadX_eea_1": [
+  {
+   "brand": "Chuwi",
+   "device": "HipadX",
+   "model": "HiPad X"
+  }
+ ],
  "Surpad": [
   {
    "brand": "Chuwi",
@@ -37716,6 +37730,11 @@
  "CompumaxBlue": [
   {
    "brand": "DigiLand",
+   "device": "mid1016_mk_64",
+   "model": "CompumaxBlue"
+  },
+  {
+   "brand": "DigiLand",
    "device": "mid1024_e",
    "model": "Compumax_Blue_6030-805-0001"
   }
@@ -38877,6 +38896,13 @@
    "brand": "Digma",
    "device": "TS8211PG",
    "model": "Optima_8027_3G_TS8211PG"
+  }
+ ],
+ "Optima_8_Z801_4G": [
+  {
+   "brand": "Digma",
+   "device": "TS8227PL",
+   "model": "Optima 8 Z801 4G TS8227PL"
   }
  ],
  "PS7210PG": [
@@ -40441,6 +40467,11 @@
    "brand": "Dragontouch",
    "device": "MAX-10",
    "model": "MAX-10"
+  },
+  {
+   "brand": "Dragontouch",
+   "device": "MAX-10_EEA",
+   "model": "MAX-10_EEA"
   }
  ],
  "K8": [
@@ -43461,6 +43492,13 @@
    "brand": "Evercoss",
    "device": "M55C",
    "model": "M55C"
+  }
+ ],
+ "M60": [
+  {
+   "brand": "Evercoss",
+   "device": "M60",
+   "model": "M60"
   }
  ],
  "M70": [
@@ -50100,6 +50138,13 @@
    "brand": "Gionee",
    "device": "GIONEE_SW17G09",
    "model": "GIONEE F109N"
+  }
+ ],
+ "F11VE": [
+  {
+   "brand": "Gionee",
+   "device": "F11VE",
+   "model": "GIONEE F11VE"
   }
  ],
  "F205": [
@@ -56974,6 +57019,28 @@
    "model": "LM-X320"
   }
  ],
+ "K30 PRO": [
+  {
+   "brand": "Hafury",
+   "device": "K30_PRO",
+   "model": "K30 PRO"
+  },
+  {
+   "brand": "Redmi",
+   "device": "lmi",
+   "model": "Lmi"
+  },
+  {
+   "brand": "Redmi",
+   "device": "lmi",
+   "model": "Redmi K30 Pro"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "lmiinpro",
+   "model": "Redmi K30 Pro 5G Zoom Edition"
+  }
+ ],
  "NOTE 10": [
   {
    "brand": "Hafury",
@@ -60289,6 +60356,11 @@
    "brand": "Hisense",
    "device": "HLTE103E_22",
    "model": "Hisense E20"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HLTE103E_24",
+   "model": "HLTE103E E20"
   }
  ],
  "Hisense E30": [
@@ -60313,6 +60385,11 @@
    "brand": "Hisense",
    "device": "HLTE229E",
    "model": "HLTE229E"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HLTE229E",
+   "model": "Hisense E40"
   },
   {
    "brand": "Hisense",
@@ -62586,6 +62663,13 @@
    "brand": "Hisense",
    "device": "xinhaoshan",
    "model": "HiSmart 4K ATV4"
+  }
+ ],
+ "天翼1号": [
+  {
+   "brand": "Hisense",
+   "device": "HNR552T",
+   "model": "TYH201H"
   }
  ],
  "Hitachi": [
@@ -71720,6 +71804,13 @@
    "brand": "Hytera",
    "device": "PNC550",
    "model": "PNC550"
+  }
+ ],
+ "10LA2": [
+  {
+   "brand": "Hyundai",
+   "device": "10LA2",
+   "model": "10LA2"
   }
  ],
  "7LB1": [
@@ -82182,6 +82273,13 @@
    "brand": "LBQ (UK)",
    "device": "LbQ_F8v2",
    "model": "LbQ-F8v2"
+  }
+ ],
+ "ACE_I": [
+  {
+   "brand": "LEGEND",
+   "device": "ACE_I",
+   "model": "ACE_I"
   }
  ],
  "LEM-TS1": [
@@ -97883,6 +97981,13 @@
    "model": "Prime_S"
   }
  ],
+ "MEDER": [
+  {
+   "brand": "MEDER",
+   "device": "smartguide210_eea",
+   "model": "SmartGuide_2.10"
+  }
+ ],
  "MEO TV Box 4K": [
   {
    "brand": "MEO(Portugal)",
@@ -99009,6 +99114,13 @@
    "model": "MarQ 2K Android TV"
   }
  ],
+ "Mara  Z1": [
+  {
+   "brand": "Mara Phones",
+   "device": "Mara_Z1",
+   "model": "Mara Phones Z1"
+  }
+ ],
  "Mara X1": [
   {
    "brand": "Mara Phones",
@@ -99021,6 +99133,13 @@
    "brand": "Mara Phones",
    "device": "Mara_Z_sprout",
    "model": "Mara Z"
+  }
+ ],
+ "Mara Phones R": [
+  {
+   "brand": "Mara Phones",
+   "device": "MaraPhones_R",
+   "model": "Mara Phones R"
   }
  ],
  "Mara S": [
@@ -107604,6 +107723,13 @@
   {
    "brand": "Multilaser",
    "device": "MLX8_4G",
+   "model": "MLX8_4G"
+  }
+ ],
+ "MLX8_4G": [
+  {
+   "brand": "Multilaser",
+   "device": "ML_SO09_MLX8_4G",
    "model": "MLX8_4G"
   }
  ],
@@ -116231,6 +116357,13 @@
    "model": "RC506LT"
   }
  ],
+ "RC545L": [
+  {
+   "brand": "Orbic",
+   "device": "RC545L",
+   "model": "RC545L"
+  }
+ ],
  "Wonder": [
   {
    "brand": "Orbic",
@@ -116859,6 +116992,13 @@
    "brand": "PCBOX",
    "device": "Kova_PCB-T730",
    "model": "Kova_PCB-T730"
+  }
+ ],
+ "PCB-T104": [
+  {
+   "brand": "PCBOX",
+   "device": "mid1032_mk",
+   "model": "PCB-T104"
   }
  ],
  "PCB-T732": [
@@ -127417,6 +127557,13 @@
    "model": "RMX2052"
   }
  ],
+ "realme X7 5G": [
+  {
+   "brand": "Realme",
+   "device": "RMX2176CN",
+   "model": "RMX2176"
+  }
+ ],
  "realme XT": [
   {
    "brand": "Realme",
@@ -127528,23 +127675,6 @@
    "brand": "Red-X",
    "device": "RX4618",
    "model": "RX4618"
-  }
- ],
- "K30 PRO": [
-  {
-   "brand": "Redmi",
-   "device": "lmi",
-   "model": "Lmi"
-  },
-  {
-   "brand": "Redmi",
-   "device": "lmi",
-   "model": "Redmi K30 Pro"
-  },
-  {
-   "brand": "Xiaomi",
-   "device": "lmiinpro",
-   "model": "Redmi K30 Pro 5G Zoom Edition"
   }
  ],
  "Mi  9T  Pro": [
@@ -128305,6 +128435,13 @@
    "brand": "Umidigi",
    "device": "Power",
    "model": "Power"
+  }
+ ],
+ "M10p_001": [
+  {
+   "brand": "Rhino",
+   "device": "Rhino_M10p",
+   "model": "M10p"
   }
  ],
  "R-32B6600": [
@@ -152391,6 +152528,13 @@
    "model": "TARISTAB4"
   }
  ],
+ "Tab2": [
+  {
+   "brand": "Stylos",
+   "device": "Tab2",
+   "model": "Tab2"
+  }
+ ],
  "AT703": [
   {
    "brand": "Stylus",
@@ -163169,6 +163313,11 @@
    "brand": "Tecno",
    "device": "TECNO_W4",
    "model": "TECNO_W4"
+  },
+  {
+   "brand": "Wings",
+   "device": "W4",
+   "model": "W4"
   }
  ],
  "W5": [
@@ -163882,6 +164031,13 @@
    "brand": "Tesla",
    "device": "TTM813G",
    "model": "TTM813G"
+  }
+ ],
+ "P80X_ROW": [
+  {
+   "brand": "Tesla",
+   "device": "P80X",
+   "model": "P80X"
   }
  ],
  "SMARTPHONE3.5": [
@@ -167249,6 +167405,13 @@
    "model": "CT9A03W23"
   }
  ],
+ "VCT9B06Q22_eea": [
+  {
+   "brand": "Venturer",
+   "device": "VCT9B06Q22",
+   "model": "VCT9B06Q22"
+  }
+ ],
  "V1401": [
   {
    "brand": "Venus",
@@ -168459,6 +168622,13 @@
    "model": "VT97PRO"
   }
  ],
+ "V TAB Z1": [
+  {
+   "brand": "Vestel",
+   "device": "ATLAS",
+   "model": "V TAB Z1"
+  }
+ ],
  "V TAB c1": [
   {
    "brand": "Vestel",
@@ -169107,6 +169277,13 @@
    "brand": "ViewSonic",
    "device": "mid1016_ma",
    "model": "ViewPad_M10"
+  }
+ ],
+ "ViewPad_M10_2_32": [
+  {
+   "brand": "ViewSonic",
+   "device": "mid1032_mk",
+   "model": "ViewPad M10-2/32"
   }
  ],
  "ViewPadi7Q": [
@@ -169919,6 +170096,13 @@
    "model": "V2024A"
   }
  ],
+ "V2025": [
+  {
+   "brand": "Vivo",
+   "device": "2025",
+   "model": "V2025"
+  }
+ ],
  "V2025A": [
   {
    "brand": "Vivo",
@@ -169957,6 +170141,13 @@
    "brand": "Vivo",
    "device": "2027",
    "model": "V2029"
+  }
+ ],
+ "V2031A": [
+  {
+   "brand": "Vivo",
+   "device": "PD2031",
+   "model": "V2031A"
   }
  ],
  "V2032": [
@@ -174536,6 +174727,13 @@
    "model": "T3"
   }
  ],
+ "W7 Q": [
+  {
+   "brand": "Wings",
+   "device": "W7_Q",
+   "model": "W7"
+  }
+ ],
  "W4 EEA": [
   {
    "brand": "Wings",
@@ -174554,6 +174752,13 @@
   {
    "brand": "Wings",
    "device": "W7",
+   "model": "W7"
+  }
+ ],
+ "W7_Q_EEA": [
+  {
+   "brand": "Wings",
+   "device": "W7_Q",
    "model": "W7"
   }
  ],
@@ -174744,6 +174949,13 @@
    "brand": "Winnovo",
    "device": "TS10",
    "model": "TS10"
+  }
+ ],
+ "TS10_EEA": [
+  {
+   "brand": "Winnovo",
+   "device": "TS10_EEA",
+   "model": "TS10_EEA"
   }
  ],
  "TS7": [
@@ -175358,6 +175570,13 @@
    "brand": "XGIMI",
    "device": "xgimiapollo",
    "model": "P_FHD_2020"
+  }
+ ],
+ "XI_CEU55": [
+  {
+   "brand": "XION",
+   "device": "XI_CEU55",
+   "model": "XI_CEU55"
   }
  ],
  "AX512": [
@@ -183679,6 +183898,13 @@
    "model": "K90U"
   }
  ],
+ "ZR01": [
+  {
+   "brand": "ZTE",
+   "device": "Z7750R",
+   "model": "ZR01"
+  }
+ ],
  "ZTE 2050": [
   {
    "brand": "ZTE",
@@ -183713,6 +183939,13 @@
    "brand": "ZTE",
    "device": "P963S05",
    "model": "ZTE 8010"
+  }
+ ],
+ "ZTE 8010RU": [
+  {
+   "brand": "ZTE",
+   "device": "P963F05",
+   "model": "ZTE 8010RU"
   }
  ],
  "ZTE A0616": [

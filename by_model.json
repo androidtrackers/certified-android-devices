@@ -701,6 +701,333 @@
    "device": "TG996"
   }
  ],
+ "AI PONT": [
+  {
+   "brand": "ALMATEEN",
+   "name": "LXL43G7H-AT",
+   "device": "samseong"
+  },
+  {
+   "brand": "Aiwa",
+   "name": "AFL0065S",
+   "device": "sindorim"
+  },
+  {
+   "brand": "Aiwa",
+   "name": "AW-LED32G7K",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "Aiwa",
+   "name": "AW-LED43GKF",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "Aiwa",
+   "name": "AW-LED50X6FL",
+   "device": "samseong"
+  },
+  {
+   "brand": "Alpha",
+   "name": "Alpha 43G7NUA",
+   "device": "samseong"
+  },
+  {
+   "brand": "Arrow",
+   "name": "RO-43LCS",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "Arrow",
+   "name": "RO-55LCS",
+   "device": "samseong"
+  },
+  {
+   "brand": "BenQ",
+   "name": "E40-520",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "BenQ",
+   "name": "E55-720",
+   "device": "samseong"
+  },
+  {
+   "brand": "Changhong",
+   "name": "Central America",
+   "device": "sindorim"
+  },
+  {
+   "brand": "Changhong",
+   "name": "L32H7",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "Changhong",
+   "name": "U50H7",
+   "device": "samseong"
+  },
+  {
+   "brand": "Changhong",
+   "name": "U58H7",
+   "device": "sindorim"
+  },
+  {
+   "brand": "Classpro",
+   "name": "CGS55UHD",
+   "device": "samseong"
+  },
+  {
+   "brand": "Condor",
+   "name": "32SD520",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "Erito",
+   "name": "Vietnam",
+   "device": "samseong"
+  },
+  {
+   "brand": "Estla",
+   "name": "AA650UHD THE SMART PRO",
+   "device": "sindorim"
+  },
+  {
+   "brand": "Hitachi",
+   "name": "LD50CHS04U",
+   "device": "samseong"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "H-LED32ES5008",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "H-LED32ES5108",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "H-LED50EU7008",
+   "device": "samseong"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "HATV-58AA100",
+   "device": "samseong"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "HYLED4321AiM",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "HYLED5015A4KM",
+   "device": "samseong"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "HYLED5520A4KM",
+   "device": "sindorim"
+  },
+  {
+   "brand": "Infinix",
+   "name": "32X1",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "Infinix",
+   "name": "55X1",
+   "device": "samseong"
+  },
+  {
+   "brand": "Infocus",
+   "name": "TAIWAN",
+   "device": "sindorim"
+  },
+  {
+   "brand": "JVC",
+   "name": "LT-32N3115A",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "JVC",
+   "name": "LT-40KB308",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "JVC",
+   "name": "LT-40N5115A",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "JVC",
+   "name": "LT-50KC507",
+   "device": "sindorim"
+  },
+  {
+   "brand": "JVC",
+   "name": "LT-50KD507",
+   "device": "samseong"
+  },
+  {
+   "brand": "JVC",
+   "name": "LT-50N7115A",
+   "device": "samseong"
+  },
+  {
+   "brand": "JVC",
+   "name": "LT-55KB597",
+   "device": "sindorim"
+  },
+  {
+   "brand": "Jooyon",
+   "name": "JSG55UHD-D2",
+   "device": "sindorim"
+  },
+  {
+   "brand": "Kogan",
+   "name": "KALED32RH9210STA",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "Kogan",
+   "name": "KALED50XU9210STA",
+   "device": "samseong"
+  },
+  {
+   "brand": "Micromax",
+   "name": "32CAM6SHD",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "Nikkei",
+   "name": "NI43UG7NA9",
+   "device": "samseong"
+  },
+  {
+   "brand": "NobleSkiodo",
+   "name": "43UDVRCHG7H",
+   "device": "samseong"
+  },
+  {
+   "brand": "OK (Mediamark)",
+   "name": "ODL 32770H-TAB",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "OK (Mediamark)",
+   "name": "ODL50672U-TAB",
+   "device": "samseong"
+  },
+  {
+   "brand": "ORCA",
+   "name": "OR-50UX400S",
+   "device": "samseong"
+  },
+  {
+   "brand": "PILOT",
+   "name": "PQ55CH",
+   "device": "samseong"
+  },
+  {
+   "brand": "Philco",
+   "name": "PTV40G71AGBL-VA",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "Philco",
+   "name": "PTV55G71AGBLS-4K-VA",
+   "device": "sindorim"
+  },
+  {
+   "brand": "Prism",
+   "name": "A55",
+   "device": "sindorim"
+  },
+  {
+   "brand": "Realme",
+   "name": "realme TV 32",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "Rindo",
+   "name": "R-32B6600",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "Riviera",
+   "name": "RLED-AND42CHG6F",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "SHINON",
+   "name": "SH32G7S",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "SHINON",
+   "name": "SH55G7K",
+   "device": "samseong"
+  },
+  {
+   "brand": "Sansui TV",
+   "name": "JSC43ASUHD",
+   "device": "samseong"
+  },
+  {
+   "brand": "Syinix",
+   "name": "32A1S",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "Syinix",
+   "name": "55A1S",
+   "device": "samseong"
+  },
+  {
+   "brand": "THEHAM",
+   "name": "UHD Android TV",
+   "device": "sindorim"
+  },
+  {
+   "brand": "Thomson",
+   "name": "32TG6A9",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "Thomson",
+   "name": "50TG7UA9X",
+   "device": "samseong"
+  },
+  {
+   "brand": "UNITED TV",
+   "name": "LED32HS72A9",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "Vu Televisions",
+   "name": "43UA",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "Vu Televisions",
+   "name": "50CA",
+   "device": "samseong"
+  },
+  {
+   "brand": "Wansa",
+   "name": "WUD55JOA63S",
+   "device": "samseong"
+  },
+  {
+   "brand": "Witooth",
+   "name": "S5520GG",
+   "device": "sindorim"
+  }
+ ],
  "MD1001": [
   {
    "brand": "AMTC",
@@ -4247,328 +4574,6 @@
    "brand": "Toshiba",
    "name": "AT10LE-A/AT15LE-A/AT10PE-A/AT15PE-A  (Japan: AT703)",
    "device": "tostab12BA"
-  }
- ],
- "AI PONT": [
-  {
-   "brand": "Aiwa",
-   "name": "AFL0065S",
-   "device": "sindorim"
-  },
-  {
-   "brand": "Aiwa",
-   "name": "AW-LED32G7K",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "Aiwa",
-   "name": "AW-LED43GKF",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "Aiwa",
-   "name": "AW-LED50X6FL",
-   "device": "samseong"
-  },
-  {
-   "brand": "Alpha",
-   "name": "Alpha 43G7NUA",
-   "device": "samseong"
-  },
-  {
-   "brand": "Arrow",
-   "name": "RO-43LCS",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "Arrow",
-   "name": "RO-55LCS",
-   "device": "samseong"
-  },
-  {
-   "brand": "BenQ",
-   "name": "E40-520",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "BenQ",
-   "name": "E55-720",
-   "device": "samseong"
-  },
-  {
-   "brand": "Changhong",
-   "name": "Central America",
-   "device": "sindorim"
-  },
-  {
-   "brand": "Changhong",
-   "name": "L32H7",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "Changhong",
-   "name": "U50H7",
-   "device": "samseong"
-  },
-  {
-   "brand": "Changhong",
-   "name": "U58H7",
-   "device": "sindorim"
-  },
-  {
-   "brand": "Classpro",
-   "name": "CGS55UHD",
-   "device": "samseong"
-  },
-  {
-   "brand": "Condor",
-   "name": "32SD520",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "Erito",
-   "name": "Vietnam",
-   "device": "samseong"
-  },
-  {
-   "brand": "Estla",
-   "name": "AA650UHD THE SMART PRO",
-   "device": "sindorim"
-  },
-  {
-   "brand": "Hitachi",
-   "name": "LD50CHS04U",
-   "device": "samseong"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "H-LED32ES5008",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "H-LED32ES5108",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "H-LED50EU7008",
-   "device": "samseong"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "HATV-58AA100",
-   "device": "samseong"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "HYLED4321AiM",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "HYLED5015A4KM",
-   "device": "samseong"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "HYLED5520A4KM",
-   "device": "sindorim"
-  },
-  {
-   "brand": "Infinix",
-   "name": "32X1",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "Infinix",
-   "name": "55X1",
-   "device": "samseong"
-  },
-  {
-   "brand": "Infocus",
-   "name": "TAIWAN",
-   "device": "sindorim"
-  },
-  {
-   "brand": "JVC",
-   "name": "LT-32N3115A",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "JVC",
-   "name": "LT-40KB308",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "JVC",
-   "name": "LT-40N5115A",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "JVC",
-   "name": "LT-50KC507",
-   "device": "sindorim"
-  },
-  {
-   "brand": "JVC",
-   "name": "LT-50KD507",
-   "device": "samseong"
-  },
-  {
-   "brand": "JVC",
-   "name": "LT-50N7115A",
-   "device": "samseong"
-  },
-  {
-   "brand": "JVC",
-   "name": "LT-55KB597",
-   "device": "sindorim"
-  },
-  {
-   "brand": "Jooyon",
-   "name": "JSG55UHD-D2",
-   "device": "sindorim"
-  },
-  {
-   "brand": "Kogan",
-   "name": "KALED32RH9210STA",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "Kogan",
-   "name": "KALED50XU9210STA",
-   "device": "samseong"
-  },
-  {
-   "brand": "Micromax",
-   "name": "32CAM6SHD",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "Nikkei",
-   "name": "NI43UG7NA9",
-   "device": "samseong"
-  },
-  {
-   "brand": "NobleSkiodo",
-   "name": "43UDVRCHG7H",
-   "device": "samseong"
-  },
-  {
-   "brand": "OK (Mediamark)",
-   "name": "ODL 32770H-TAB",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "OK (Mediamark)",
-   "name": "ODL50672U-TAB",
-   "device": "samseong"
-  },
-  {
-   "brand": "ORCA",
-   "name": "OR-50UX400S",
-   "device": "samseong"
-  },
-  {
-   "brand": "PILOT",
-   "name": "PQ55CH",
-   "device": "samseong"
-  },
-  {
-   "brand": "Philco",
-   "name": "PTV40G71AGBL-VA",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "Philco",
-   "name": "PTV55G71AGBLS-4K-VA",
-   "device": "sindorim"
-  },
-  {
-   "brand": "Prism",
-   "name": "A55",
-   "device": "sindorim"
-  },
-  {
-   "brand": "Realme",
-   "name": "realme TV 32",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "Rindo",
-   "name": "R-32B6600",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "Riviera",
-   "name": "RLED-AND42CHG6F",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "SHINON",
-   "name": "SH32G7S",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "SHINON",
-   "name": "SH55G7K",
-   "device": "samseong"
-  },
-  {
-   "brand": "Sansui TV",
-   "name": "JSC43ASUHD",
-   "device": "samseong"
-  },
-  {
-   "brand": "Syinix",
-   "name": "32A1S",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "Syinix",
-   "name": "55A1S",
-   "device": "samseong"
-  },
-  {
-   "brand": "THEHAM",
-   "name": "UHD Android TV",
-   "device": "sindorim"
-  },
-  {
-   "brand": "Thomson",
-   "name": "32TG6A9",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "Thomson",
-   "name": "50TG7UA9X",
-   "device": "samseong"
-  },
-  {
-   "brand": "UNITED TV",
-   "name": "LED32HS72A9",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "Vu Televisions",
-   "name": "43UA",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "Vu Televisions",
-   "name": "50CA",
-   "device": "samseong"
-  },
-  {
-   "brand": "Wansa",
-   "name": "WUD55JOA63S",
-   "device": "samseong"
-  },
-  {
-   "brand": "Witooth",
-   "name": "S5520GG",
-   "device": "sindorim"
   }
  ],
  "AIWA 2K TV": [
@@ -24957,6 +24962,13 @@
    "device": "Hi9Pro"
   }
  ],
+ "HiPad X": [
+  {
+   "brand": "Chuwi",
+   "name": "HipadX_eea_1",
+   "device": "HipadX"
+  }
+ ],
  "Surpad": [
   {
    "brand": "Chuwi",
@@ -31818,6 +31830,13 @@
    "device": "mid1016_ma"
   }
  ],
+ "CompumaxBlue": [
+  {
+   "brand": "DigiLand",
+   "name": "CompumaxBlue",
+   "device": "mid1016_mk_64"
+  }
+ ],
  "Compumax_Blue_6030-805-0001": [
   {
    "brand": "DigiLand",
@@ -32960,6 +32979,13 @@
    "brand": "Digma",
    "name": "Optima_8027_3G",
    "device": "TS8211PG"
+  }
+ ],
+ "Optima 8 Z801 4G TS8227PL": [
+  {
+   "brand": "Digma",
+   "name": "Optima_8_Z801_4G",
+   "device": "TS8227PL"
   }
  ],
  "Plane 7594 3G PS7210PG": [
@@ -34370,6 +34396,13 @@
    "brand": "Dragontouch",
    "name": "DragonTouch",
    "device": "MAX-10"
+  }
+ ],
+ "MAX-10_EEA": [
+  {
+   "brand": "Dragontouch",
+   "name": "DragonTouch",
+   "device": "MAX-10_EEA"
   }
  ],
  "K8": [
@@ -37370,6 +37403,13 @@
    "brand": "Evercoss",
    "name": "M55C",
    "device": "M55C"
+  }
+ ],
+ "M60": [
+  {
+   "brand": "Evercoss",
+   "name": "M60",
+   "device": "M60"
   }
  ],
  "M70": [
@@ -44269,6 +44309,13 @@
    "brand": "Gionee",
    "name": "GIONEE F109N",
    "device": "GIONEE_SW17G09"
+  }
+ ],
+ "GIONEE F11VE": [
+  {
+   "brand": "Gionee",
+   "name": "F11VE",
+   "device": "F11VE"
   }
  ],
  "GIONEE F205": [
@@ -51668,6 +51715,13 @@
    "device": "K30"
   }
  ],
+ "K30 PRO": [
+  {
+   "brand": "Hafury",
+   "name": "K30 PRO",
+   "device": "K30_PRO"
+  }
+ ],
  "NOTE 10": [
   {
    "brand": "Hafury",
@@ -55381,6 +55435,13 @@
    "device": "HLTE103E_22"
   }
  ],
+ "HLTE103E E20": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense E20",
+   "device": "HLTE103E_24"
+  }
+ ],
  "HLTE220E": [
   {
    "brand": "Hisense",
@@ -55403,6 +55464,11 @@
   }
  ],
  "Hisense E40": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense E40",
+   "device": "HLTE229E"
+  },
   {
    "brand": "Hisense",
    "name": "Hisense E40",
@@ -57512,6 +57578,13 @@
    "brand": "Hisense",
    "name": "xinhaoshan",
    "device": "xinhaoshan"
+  }
+ ],
+ "TYH201H": [
+  {
+   "brand": "Hisense",
+   "name": "天翼1号",
+   "device": "HNR552T"
   }
  ],
  "Hitachi 4K Android TV": [
@@ -69696,6 +69769,13 @@
    "device": "PNC550"
   }
  ],
+ "10LA2": [
+  {
+   "brand": "Hyundai",
+   "name": "10LA2",
+   "device": "10LA2"
+  }
+ ],
  "7LB1": [
   {
    "brand": "Hyundai",
@@ -80372,6 +80452,13 @@
    "brand": "LBQ (UK)",
    "name": "LbQ_F8v2",
    "device": "LbQ_F8v2"
+  }
+ ],
+ "ACE_I": [
+  {
+   "brand": "LEGEND",
+   "name": "ACE_I",
+   "device": "ACE_I"
   }
  ],
  "LEM-TS1": [
@@ -99034,6 +99121,13 @@
    "device": "Prime_S"
   }
  ],
+ "SmartGuide_2.10": [
+  {
+   "brand": "MEDER",
+   "name": "MEDER",
+   "device": "smartguide210_eea"
+  }
+ ],
  "MEO TV Box 4K": [
   {
    "brand": "MEO(Portugal)",
@@ -100198,6 +100292,18 @@
    "device": "komagome"
   }
  ],
+ "Mara Phones Z1": [
+  {
+   "brand": "Mara Phones",
+   "name": "Mara  Z1",
+   "device": "Mara_Z1"
+  },
+  {
+   "brand": "Mara Phones",
+   "name": "Mara Z1 d",
+   "device": "Mara_Z1_d"
+  }
+ ],
  "Mara Phones X1": [
   {
    "brand": "Mara Phones",
@@ -100215,6 +100321,13 @@
    "brand": "Mara Phones",
    "name": "MARA Z",
    "device": "Mara_Z_sprout"
+  }
+ ],
+ "Mara Phones R": [
+  {
+   "brand": "Mara Phones",
+   "name": "Mara Phones R",
+   "device": "MaraPhones_R"
   }
  ],
  "Mara S": [
@@ -100243,13 +100356,6 @@
    "brand": "Mara Phones",
    "name": "Mara Z d",
    "device": "Mara_Z_d_sprout"
-  }
- ],
- "Mara Phones Z1": [
-  {
-   "brand": "Mara Phones",
-   "name": "Mara Z1 d",
-   "device": "Mara_Z1_d"
   }
  ],
  "London": [
@@ -109834,6 +109940,11 @@
    "brand": "Multilaser",
    "name": "MLX8 4G",
    "device": "MLX8_4G"
+  },
+  {
+   "brand": "Multilaser",
+   "name": "MLX8_4G",
+   "device": "ML_SO09_MLX8_4G"
   }
  ],
  "MS40G": [
@@ -119022,6 +119133,13 @@
    "device": "Orbic-RC506LT"
   }
  ],
+ "RC545L": [
+  {
+   "brand": "Orbic",
+   "name": "RC545L",
+   "device": "RC545L"
+  }
+ ],
  "RC555L": [
   {
    "brand": "Orbic",
@@ -119617,6 +119735,13 @@
    "brand": "PCBOX",
    "name": "Kova_PCB-T730",
    "device": "Kova_PCB-T730"
+  }
+ ],
+ "PCB-T104": [
+  {
+   "brand": "PCBOX",
+   "name": "PCB-T104",
+   "device": "mid1032_mk"
   }
  ],
  "Kova 2 Plus PCB-T732": [
@@ -130500,6 +130625,13 @@
    "device": "RMX2052CN"
   }
  ],
+ "RMX2176": [
+  {
+   "brand": "Realme",
+   "name": "realme X7 5G",
+   "device": "RMX2176CN"
+  }
+ ],
  "RMX1921": [
   {
    "brand": "Realme",
@@ -131404,6 +131536,13 @@
    "brand": "Revo",
    "name": "Pearl",
    "device": "Pearl"
+  }
+ ],
+ "M10p": [
+  {
+   "brand": "Rhino",
+   "name": "M10p_001",
+   "device": "Rhino_M10p"
   }
  ],
  "R455": [
@@ -159866,6 +160005,13 @@
    "device": "TARISTAB4"
   }
  ],
+ "Tab2": [
+  {
+   "brand": "Stylos",
+   "name": "Tab2",
+   "device": "Tab2"
+  }
+ ],
  "AT703": [
   {
    "brand": "Stylus",
@@ -171400,6 +171546,11 @@
    "brand": "Teclast",
    "name": "P80X_EEA",
    "device": "P80X"
+  },
+  {
+   "brand": "Tesla",
+   "name": "P80X_ROW",
+   "device": "P80X"
   }
  ],
  "P80X_EEA": [
@@ -176984,6 +177135,13 @@
    "device": "CT9A03W23"
   }
  ],
+ "VCT9B06Q22": [
+  {
+   "brand": "Venturer",
+   "name": "VCT9B06Q22_eea",
+   "device": "VCT9B06Q22"
+  }
+ ],
  "V1401": [
   {
    "brand": "Venus",
@@ -178207,6 +178365,13 @@
    "device": "VT97PRO"
   }
  ],
+ "V TAB Z1": [
+  {
+   "brand": "Vestel",
+   "name": "V TAB Z1",
+   "device": "ATLAS"
+  }
+ ],
  "V TAB c1": [
   {
    "brand": "Vestel",
@@ -178952,6 +179117,13 @@
    "brand": "ViewSonic",
    "name": "ViewPad_M10",
    "device": "mid1016_ma"
+  }
+ ],
+ "ViewPad M10-2/32": [
+  {
+   "brand": "ViewSonic",
+   "name": "ViewPad_M10_2_32",
+   "device": "mid1032_mk"
   }
  ],
  "vsi7q_1": [
@@ -179813,6 +179985,13 @@
    "device": "PD2024"
   }
  ],
+ "V2025": [
+  {
+   "brand": "Vivo",
+   "name": "V2025",
+   "device": "2025"
+  }
+ ],
  "V2025A": [
   {
    "brand": "Vivo",
@@ -179851,6 +180030,13 @@
    "brand": "Vivo",
    "name": "V2029",
    "device": "2027"
+  }
+ ],
+ "V2031A": [
+  {
+   "brand": "Vivo",
+   "name": "V2031A",
+   "device": "PD2031"
   }
  ],
  "V2032": [
@@ -184516,7 +184702,29 @@
    "device": "MT7001"
   }
  ],
+ "W7": [
+  {
+   "brand": "Wings",
+   "name": "W7 Q",
+   "device": "W7_Q"
+  },
+  {
+   "brand": "Wings",
+   "name": "W7",
+   "device": "W7"
+  },
+  {
+   "brand": "Wings",
+   "name": "W7_Q_EEA",
+   "device": "W7_Q"
+  }
+ ],
  "W4": [
+  {
+   "brand": "Wings",
+   "name": "W4",
+   "device": "W4"
+  },
   {
    "brand": "Wings",
    "name": "W4 EEA",
@@ -184528,13 +184736,6 @@
    "brand": "Wings",
    "name": "W6",
    "device": "W6"
-  }
- ],
- "W7": [
-  {
-   "brand": "Wings",
-   "name": "W7",
-   "device": "W7"
   }
  ],
  "WX": [
@@ -184701,6 +184902,13 @@
    "brand": "Winnovo",
    "name": "TS10",
    "device": "TS10"
+  }
+ ],
+ "TS10_EEA": [
+  {
+   "brand": "Winnovo",
+   "name": "TS10_EEA",
+   "device": "TS10_EEA"
   }
  ],
  "TS7": [
@@ -185317,6 +185525,13 @@
    "brand": "XGIMI",
    "name": "P_FHD_2020",
    "device": "xgimiapollo"
+  }
+ ],
+ "XI_CEU55": [
+  {
+   "brand": "XION",
+   "name": "XI_CEU55",
+   "device": "XI_CEU55"
   }
  ],
  "AX512": [
@@ -196046,6 +196261,13 @@
    "device": "gevjon"
   }
  ],
+ "ZR01": [
+  {
+   "brand": "ZTE",
+   "name": "ZR01",
+   "device": "Z7750R"
+  }
+ ],
  "ZTE 2050": [
   {
    "brand": "ZTE",
@@ -196080,6 +196302,13 @@
    "brand": "ZTE",
    "name": "ZTE 8010",
    "device": "P963S05"
+  }
+ ],
+ "ZTE 8010RU": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE 8010RU",
+   "device": "P963F05"
   }
  ],
  "ZTE A0616": [
