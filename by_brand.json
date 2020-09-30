@@ -3125,6 +3125,11 @@
    "model": "A20_Lite"
   },
   {
+   "device": "A20_Max",
+   "name": "A20 Max",
+   "model": "A20_Max"
+  },
+  {
    "device": "A5_Easy",
    "name": "A5 Easy",
    "model": "A5_Easy"
@@ -71477,6 +71482,11 @@
    "model": "Lenovo Z90a40"
   },
   {
+   "device": "d-42A",
+   "name": "d-42A",
+   "model": "d-42A"
+  },
+  {
    "device": "ideatv_S52",
    "name": "ideatv S52",
    "model": "ideatv S52"
@@ -88996,6 +89006,11 @@
    "device": "Alto45",
    "name": "Roya",
    "model": "Orange Roya"
+  },
+  {
+   "device": "Sanza_touch",
+   "name": "Sanza_touch",
+   "model": "Orange Sanza touch"
   },
   {
    "device": "Orange_Sego",
@@ -116842,6 +116857,11 @@
    "device": "SOV43",
    "name": "Xperia 10 II",
    "model": "SOV43"
+  },
+  {
+   "device": "XQ-AU42",
+   "name": "Xperia 10 II",
+   "model": "XQ-AU42"
   },
   {
    "device": "XQ-AU51",

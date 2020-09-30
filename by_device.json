@@ -5588,6 +5588,13 @@
    "model": "A20_Lite"
   }
  ],
+ "A20_Max": [
+  {
+   "brand": "AllView",
+   "name": "A20 Max",
+   "model": "A20_Max"
+  }
+ ],
  "A5_Easy": [
   {
    "brand": "AllView",
@@ -93477,6 +93484,13 @@
    "model": "Lenovo Z90a40"
   }
  ],
+ "d-42A": [
+  {
+   "brand": "Lenovo",
+   "name": "d-42A",
+   "model": "d-42A"
+  }
+ ],
  "ideatv_S52": [
   {
    "brand": "Lenovo",
@@ -115645,6 +115659,13 @@
    "brand": "Orange",
    "name": "Rise_54",
    "model": "Orange Rise 54 EEA"
+  }
+ ],
+ "Sanza_touch": [
+  {
+   "brand": "Orange",
+   "name": "Sanza_touch",
+   "model": "Orange Sanza touch"
   }
  ],
  "Orange_Sego": [
@@ -150737,6 +150758,13 @@
    "brand": "Sony",
    "name": "Xperia 10 II",
    "model": "SOV43"
+  }
+ ],
+ "XQ-AU42": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 II",
+   "model": "XQ-AU42"
   }
  ],
  "XQ-AU51": [

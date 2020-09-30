@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-09-29
+Last sync is 2020-09-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -599,6 +599,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|A10 Max|A10_Max|A10_Max|
 |AllView|A10 Plus|A10_Plus|A10_Plus|
 |AllView|A20 Lite|A20_Lite|A20_Lite|
+|AllView|A20 Max|A20_Max|A20_Max|
 |AllView|A5 Easy|A5_Easy|A5_Easy|
 |AllView|A5 Easy|A5_Easy|A5_Easy_TM|
 |AllView|A5 Lite|A5_Lite|A5_Lite|
@@ -13949,6 +13950,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Z90/VIBE Shot|zoom_fdd|Lenovo Z90-7|
 |Lenovo|Z90/VIBE Shot|zoom_tdd|Lenovo Z90-3|
 |Lenovo|Z90a40/VIBE Shot|zoom_row|Lenovo Z90a40|
+|Lenovo|d-42A|d-42A|d-42A|
 |Lenovo|ideatv S52|ideatv_S52|ideatv S52|
 |Lenovo|ideatvK82 60LX750A  52LX750A  46LX750A  60LX850A  70LX850A 80LX850A|ideatv_K82|ideatv K82|
 |Lenovo|小新平板|TB-8804F|Lenovo TB-8804F|
@@ -17340,6 +17342,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Orange|Rise_54|Rise_54|Orange Rise 54|
 |Orange|Rise_54|Rise_54|Orange Rise 54 EEA|
 |Orange|Roya|Alto45|Orange Roya|
+|Orange|Sanza_touch|Sanza_touch|Orange Sanza touch|
 |Orange|Sego|Orange_Sego|Orange Sego|
 |Orange|Zilo|Orange_Zilo|Zilo|
 |Orange|idol S|Diablo_LTE|Orange Niva|
@@ -22804,6 +22807,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 10 II|A001SO|A001SO|
 |Sony|Xperia 10 II|SO-41A|SO-41A|
 |Sony|Xperia 10 II|SOV43|SOV43|
+|Sony|Xperia 10 II|XQ-AU42|XQ-AU42|
 |Sony|Xperia 10 II|XQ-AU51|XQ-AU51|
 |Sony|Xperia 10 II|XQ-AU52|XQ-AU52|
 |Sony|Xperia 10 Plus|I3213|I3213|
