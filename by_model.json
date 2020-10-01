@@ -41550,6 +41550,13 @@
    "device": "Patio600"
   }
  ],
+ "Patio730": [
+  {
+   "brand": "Fujitsu",
+   "name": "Patio730",
+   "device": "Patio730"
+  }
+ ],
  "IS11T": [
   {
    "brand": "Fujitsu",
@@ -114094,6 +114101,18 @@
    "device": "IRM_sprout"
   }
  ],
+ "Nokia 2.4": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia 2.4",
+   "device": "WVR"
+  },
+  {
+   "brand": "Nokia",
+   "name": "Nokia 2.4",
+   "device": "WVR_sprout"
+  }
+ ],
  "TA-1020": [
   {
    "brand": "Nokia",
@@ -114449,6 +114468,13 @@
    "brand": "Nokia",
    "name": "Nokia C2",
    "device": "NBL"
+  }
+ ],
+ "Nokia C3": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C3",
+   "device": "GMR"
   }
  ],
  "Nokia X5": [
@@ -152277,6 +152303,13 @@
    "device": "QDA"
   }
  ],
+ "A002SH": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS zero5G basic",
+   "device": "SGA002SH"
+  }
+ ],
  "SHG02": [
   {
    "brand": "Sharp",
@@ -154711,6 +154744,16 @@
   {
    "brand": "Skyworth",
    "name": "SWTV-20AE",
+   "device": "SW4H"
+  },
+  {
+   "brand": "Skyworth",
+   "name": "SWTV-20N",
+   "device": "SW4H"
+  },
+  {
+   "brand": "Skyworth",
+   "name": "SWTV-20SA",
    "device": "SW4H"
   }
  ],

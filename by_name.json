@@ -47502,6 +47502,13 @@
    "model": "Patio600"
   }
  ],
+ "Patio730": [
+  {
+   "brand": "Fujitsu",
+   "device": "Patio730",
+   "model": "Patio730"
+  }
+ ],
  "REGZA Phone IS11T": [
   {
    "brand": "Fujitsu",
@@ -111740,6 +111747,18 @@
    "model": "Nokia 2.3"
   }
  ],
+ "Nokia 2.4": [
+  {
+   "brand": "Nokia",
+   "device": "WVR",
+   "model": "Nokia 2.4"
+  },
+  {
+   "brand": "Nokia",
+   "device": "WVR_sprout",
+   "model": "Nokia 2.4"
+  }
+ ],
  "Nokia 3": [
   {
    "brand": "Nokia",
@@ -112065,6 +112084,13 @@
    "brand": "Nokia",
    "device": "NBL",
    "model": "Nokia C2"
+  }
+ ],
+ "Nokia C3": [
+  {
+   "brand": "Nokia",
+   "device": "GMR",
+   "model": "Nokia C3"
   }
  ],
  "Nokia X5": [
@@ -145367,6 +145393,13 @@
    "model": "SHV47"
   }
  ],
+ "AQUOS zero5G basic": [
+  {
+   "brand": "Sharp",
+   "device": "SGA002SH",
+   "model": "A002SH"
+  }
+ ],
  "AQUOS zero5G basic DX": [
   {
    "brand": "Sharp",
@@ -147733,10 +147766,20 @@
   {
    "brand": "Skyworth",
    "device": "SW4H",
+   "model": "SWTV-20AE"
+  },
+  {
+   "brand": "Skyworth",
+   "device": "SW4H",
    "model": "SWTV-20NA"
   }
  ],
  "SWTV-20SA": [
+  {
+   "brand": "Skyworth",
+   "device": "SW4H",
+   "model": "SWTV-20AE"
+  },
   {
    "brand": "Skyworth",
    "device": "SW4H",

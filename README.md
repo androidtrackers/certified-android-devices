@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-09-30
+Last sync is 2020-10-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5691,6 +5691,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fujitsu|Patio100|Patio100|Patio100|
 |Fujitsu|Patio100|Patio100_3G|Patio100_3G|
 |Fujitsu|Patio600|Patio600|Patio600|
+|Fujitsu|Patio730|Patio730|Patio730|
 |Fujitsu|REGZA Phone IS11T|TSI11|IS11T|
 |Fujitsu|REGZA Phone T-01C|tg03|IS04|
 |Fujitsu|REGZA Phone T-01C|tg03|T-01C|
@@ -16576,6 +16577,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia 2.1|E2M|Nokia 2.1|
 |Nokia|Nokia 2.2|WSP_sprout|Nokia 2.2|
 |Nokia|Nokia 2.3|IRM_sprout|Nokia 2.3|
+|Nokia|Nokia 2.4|WVR|Nokia 2.4|
+|Nokia|Nokia 2.4|WVR_sprout|Nokia 2.4|
 |Nokia|Nokia 3|NE1|TA-1020|
 |Nokia|Nokia 3|NE1|TA-1028|
 |Nokia|Nokia 3|NE1|TA-1032|
@@ -16631,6 +16634,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia C1|RKU|Nokia C1|
 |Nokia|Nokia C2|NBL|Nebula|
 |Nokia|Nokia C2|NBL|Nokia C2|
+|Nokia|Nokia C3|GMR|Nokia C3|
 |Nokia|Nokia X5|PDA|Nokia X5|
 |Nokia|Nokia X6|DRG|Nokia X6|
 |Nokia|Nokia X7|PNX|Nokia X7|
@@ -22272,6 +22276,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS zero2 SH-M13|SH-M13|SH-M13|
 |Sharp|AQUOS zero2 SH-Z20|SH-Z20|SH-Z20|
 |Sharp|AQUOS zero2 SHV47|QDA|SHV47|
+|Sharp|AQUOS zero5G basic|SGA002SH|A002SH|
 |Sharp|AQUOS zero5G basic DX|OJ6|SHG02|
 |Sharp|AQUOS ケータイ SH-02L|SH-02L|SH-02L|
 |Sharp|AQUOS ケータイ SH-06G|SH-06G|SH-06G|
@@ -22643,7 +22648,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Skyworth|North America|globe_na|globe|
 |Skyworth|North America|shimbashi|2K TV|
 |Skyworth|SWTV-20AE|SW4H|SWTV-20AE|
+|Skyworth|SWTV-20N|SW4H|SWTV-20AE|
 |Skyworth|SWTV-20N|SW4H|SWTV-20NA|
+|Skyworth|SWTV-20SA|SW4H|SWTV-20AE|
 |Skyworth|SWTV-20SA|SW4H|SWTV-20SA|
 |Skyworth|Skyworth|grape|HPA02|
 |Skyworth|South Africa|open_fhd_sa|open_fhd|

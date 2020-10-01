@@ -29527,6 +29527,11 @@
    "model": "Patio600"
   },
   {
+   "device": "Patio730",
+   "name": "Patio730",
+   "model": "Patio730"
+  },
+  {
    "device": "TSI11",
    "name": "REGZA Phone IS11T",
    "model": "IS11T"
@@ -85072,6 +85077,16 @@
    "model": "Nokia 2.3"
   },
   {
+   "device": "WVR",
+   "name": "Nokia 2.4",
+   "model": "Nokia 2.4"
+  },
+  {
+   "device": "WVR_sprout",
+   "name": "Nokia 2.4",
+   "model": "Nokia 2.4"
+  },
+  {
    "device": "NE1",
    "name": "Nokia 3",
    "model": "TA-1020"
@@ -85345,6 +85360,11 @@
    "device": "NBL",
    "name": "Nokia C2",
    "model": "Nokia C2"
+  },
+  {
+   "device": "GMR",
+   "name": "Nokia C3",
+   "model": "Nokia C3"
   },
   {
    "device": "PDA",
@@ -114094,6 +114114,11 @@
    "model": "SHV47"
   },
   {
+   "device": "SGA002SH",
+   "name": "AQUOS zero5G basic",
+   "model": "A002SH"
+  },
+  {
    "device": "OJ6",
    "name": "AQUOS zero5G basic DX",
    "model": "SHG02"
@@ -115995,7 +116020,17 @@
   {
    "device": "SW4H",
    "name": "SWTV-20N",
+   "model": "SWTV-20AE"
+  },
+  {
+   "device": "SW4H",
+   "name": "SWTV-20N",
    "model": "SWTV-20NA"
+  },
+  {
+   "device": "SW4H",
+   "name": "SWTV-20SA",
+   "model": "SWTV-20AE"
   },
   {
    "device": "SW4H",
