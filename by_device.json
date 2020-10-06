@@ -22061,6 +22061,13 @@
    "model": "BouygtelTV"
   }
  ],
+ "UZW4020BYT": [
+  {
+   "brand": "Bouygues Telecom",
+   "name": "BboxTV",
+   "model": "BboxTV"
+  }
+ ],
  "Bs_451": [
   {
    "brand": "Bouygues Telecom",
@@ -46672,6 +46679,13 @@
    "brand": "Google",
    "name": "Intel Kaby Lake U Chromebook",
    "model": "nami"
+  }
+ ],
+ "jacuzzi_cheets": [
+  {
+   "brand": "Google",
+   "name": "Mediatek MT8173 Chromebook",
+   "model": "jacuzzi"
   }
  ],
  "kukui_cheets": [
@@ -80490,6 +80504,18 @@
    "model": "LM-K510"
   }
  ],
+ "meh35lm": [
+  {
+   "brand": "LGE",
+   "name": "K52",
+   "model": "LM-K520"
+  },
+  {
+   "brand": "LGE",
+   "name": "K62",
+   "model": "LM-K525"
+  }
+ ],
  "mdh40lm": [
   {
    "brand": "LGE",
@@ -92219,6 +92245,13 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab P10",
    "model": "Lenovo TB-X705M"
+  }
+ ],
+ "J606F": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab P11",
+   "model": "Lenovo TB-J606F"
   }
  ],
  "J706F": [
@@ -121100,6 +121133,11 @@
    "brand": "Polestar",
    "name": "Polestar",
    "model": "Polestar"
+  },
+  {
+   "brand": "Volvo",
+   "name": "Volvo",
+   "model": "Volvo"
   }
  ],
  "ihu_emulator": [

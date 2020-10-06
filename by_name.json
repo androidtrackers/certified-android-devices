@@ -27194,6 +27194,13 @@
    "model": "BouygtelTV"
   }
  ],
+ "BboxTV": [
+  {
+   "brand": "Bouygues Telecom",
+   "device": "UZW4020BYT",
+   "model": "BboxTV"
+  }
+ ],
  "Bs 451": [
   {
    "brand": "Bouygues Telecom",
@@ -51645,6 +51652,13 @@
    "brand": "Google",
    "device": "nami_cheets",
    "model": "nami"
+  }
+ ],
+ "Mediatek MT8173 Chromebook": [
+  {
+   "brand": "Google",
+   "device": "jacuzzi_cheets",
+   "model": "jacuzzi"
   }
  ],
  "Mediatek MT8183 Tablet": [
@@ -83174,11 +83188,25 @@
    "model": "LM-K510"
   }
  ],
+ "K52": [
+  {
+   "brand": "LGE",
+   "device": "meh35lm",
+   "model": "LM-K520"
+  }
+ ],
  "K61": [
   {
    "brand": "LGE",
    "device": "mdh40lm",
    "model": "LM-Q630"
+  }
+ ],
+ "K62": [
+  {
+   "brand": "LGE",
+   "device": "meh35lm",
+   "model": "LM-K525"
   }
  ],
  "K71": [
@@ -94501,6 +94529,13 @@
    "brand": "Lenovo",
    "device": "X705M",
    "model": "Lenovo TB-X705M"
+  }
+ ],
+ "Lenovo Tab P11": [
+  {
+   "brand": "Lenovo",
+   "device": "J606F",
+   "model": "Lenovo TB-J606F"
   }
  ],
  "Lenovo Tab P11 Pro": [
@@ -171786,6 +171821,13 @@
    "brand": "Volt Mobile",
    "device": "VOLT_SV451_Vision",
    "model": "VOLT_SV451_Vision"
+  }
+ ],
+ "Volvo": [
+  {
+   "brand": "Volvo",
+   "device": "ihu_abl_car",
+   "model": "Volvo"
   }
  ],
  "Druid_L10": [

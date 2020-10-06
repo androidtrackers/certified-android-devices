@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-10-05
+Last sync is 2020-10-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2862,6 +2862,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Borqs|Falcon|falcon|falcon|
 |Bouygues Telecom|Bbox Brooklyn 4K|HMB9213NW|Bouygtel4K|
 |Bouygues Telecom|Bbox Miami|HMB4213H|BouygtelTV|
+|Bouygues Telecom|BboxTV|UZW4020BYT|BboxTV|
 |Bouygues Telecom|Bs 451|Bs_451|Bs 451|
 |BrailleNote|gryphon|gryphon|BrailleNote Touch +|
 |Brandcode|L1Fa|L1Fa|L1Fa|
@@ -6269,6 +6270,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Intel Comet Lake U Chromebook|hatch_cheets|hatch|
 |Google|Intel Gemini Lake Chromebook|octopus_cheets|octopus|
 |Google|Intel Kaby Lake U Chromebook|nami_cheets|nami|
+|Google|Mediatek MT8173 Chromebook|jacuzzi_cheets|jacuzzi|
 |Google|Mediatek MT8183 Tablet|kukui_cheets|kukui|
 |Google|Mediatek MTK8173 Chromebook|hana_cheets|Lenovo N23 Yoga/Flex 11 Chromebook|
 |Google|Mediatek MTK8173 Chromebook|hana_cheets|Mediatek MT8173 Chromebook|
@@ -11762,7 +11764,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|K51|mdh30lm|LM-K500|
 |LGE|K51|mdh30xlm|LM-K500|
 |LGE|K51S|mdh35lm|LM-K510|
+|LGE|K52|meh35lm|LM-K520|
 |LGE|K61|mdh40lm|LM-Q630|
+|LGE|K62|meh35lm|LM-K525|
 |LGE|K71|mdh50lm|LM-Q730|
 |LGE|L Bello|luv80ds|LG-D335|
 |LGE|L Bello|luv80ds|LG-D335E|
@@ -13754,6 +13758,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab P10|X705F|Lenovo TB-X705F|
 |Lenovo|Lenovo Tab P10|X705L|Lenovo TB-X705L|
 |Lenovo|Lenovo Tab P10|X705M|Lenovo TB-X705M|
+|Lenovo|Lenovo Tab P11|J606F|Lenovo TB-J606F|
 |Lenovo|Lenovo Tab P11 Pro|J706F|Lenovo TB-J706F|
 |Lenovo|Lenovo Tab P11 Pro|J706L|Lenovo TB-J706L|
 |Lenovo|Lenovo Tab V7|PB-6505M|Lenovo PB-6505M|
@@ -26764,6 +26769,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vodafone|Vodafone Smart mini 7 ve dual|U3_3G|VFD 311|
 |Vodafone|Vodafone TV|uiw4030vha|Vodafone TV|
 |Volt Mobile|VOLT_SV451_Vision|VOLT_SV451_Vision|VOLT_SV451_Vision|
+|Volvo|Volvo|ihu_abl_car|Volvo|
 |Vonino|Druid_L10|Druid_L10|Druid_L10|
 |Vonino|Epic E8|Epic_E8|Epic E8|
 |Vonino|Epic P7|Epic_P7|Epic_P7|

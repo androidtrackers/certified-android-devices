@@ -14692,6 +14692,11 @@
    "model": "BouygtelTV"
   },
   {
+   "device": "UZW4020BYT",
+   "name": "BboxTV",
+   "model": "BboxTV"
+  },
+  {
    "device": "Bs_451",
    "name": "Bs 451",
    "model": "Bs 451"
@@ -32547,6 +32552,11 @@
    "device": "nami_cheets",
    "name": "Intel Kaby Lake U Chromebook",
    "model": "nami"
+  },
+  {
+   "device": "jacuzzi_cheets",
+   "name": "Mediatek MT8173 Chromebook",
+   "model": "jacuzzi"
   },
   {
    "device": "kukui_cheets",
@@ -60474,9 +60484,19 @@
    "model": "LM-K510"
   },
   {
+   "device": "meh35lm",
+   "name": "K52",
+   "model": "LM-K520"
+  },
+  {
    "device": "mdh40lm",
    "name": "K61",
    "model": "LM-Q630"
+  },
+  {
+   "device": "meh35lm",
+   "name": "K62",
+   "model": "LM-K525"
   },
   {
    "device": "mdh50lm",
@@ -70500,6 +70520,11 @@
    "device": "X705M",
    "name": "Lenovo Tab P10",
    "model": "Lenovo TB-X705M"
+  },
+  {
+   "device": "J606F",
+   "name": "Lenovo Tab P11",
+   "model": "Lenovo TB-J606F"
   },
   {
    "device": "J706F",
@@ -137172,6 +137197,13 @@
    "device": "VOLT_SV451_Vision",
    "name": "VOLT_SV451_Vision",
    "model": "VOLT_SV451_Vision"
+  }
+ ],
+ "Volvo": [
+  {
+   "device": "ihu_abl_car",
+   "name": "Volvo",
+   "model": "Volvo"
   }
  ],
  "Vonino": [
