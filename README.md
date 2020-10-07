@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-10-06
+Last sync is 2020-10-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4748,6 +4748,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Duubee|D601L|Gaia|D601L|
 |Duubee|W1|W1|W1|
 |Duubee|W2|W2|W2|
+|Dynalink|STI6130-D350|sti6130d350|Dynalink TV Box|
 |E-Boda|Eclipse G400M|Eclipse_G400M|Eclipse_G400M|
 |E-Boda|Eclipse G500HD|E-Boda_Eclipse_G500HD|Eclipse G500HD|
 |E-Boda|Eclipse G500M|Eclipse_G500M|Eclipse_G500M|
@@ -12811,6 +12812,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|W30|LM-X440ZM|LM-X440ZM|
 |LGE|W30|LM-X440ZMW|LM-X440ZMW|
 |LGE|W30 Pro|Neo4LM|LM-X600IM|
+|LGE|W31|Neo31LM|LM-K315IM|
 |LGE|WM-LG8200|b6|LG-V425|
 |LGE|WM-LG8200|b6|WM-LG8200|
 |LGE|Wine Smart|cf|LGS01|
@@ -20700,6 +20702,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Note20 5G|c1q|SM-N981W|
 |Samsung|Galaxy Note20 5G|c1s|SM-N981B|
 |Samsung|Galaxy Note20 Ultra|c2s|SM-N985F|
+|Samsung|Galaxy Note20 Ultra 5G|SC-53A|SC-53A|
 |Samsung|Galaxy Note20 Ultra 5G|c2q|SM-N9860|
 |Samsung|Galaxy Note20 Ultra 5G|c2q|SM-N986N|
 |Samsung|Galaxy Note20 Ultra 5G|c2q|SM-N986U|

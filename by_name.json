@@ -40880,6 +40880,13 @@
    "model": "TECNO W2"
   }
  ],
+ "STI6130-D350": [
+  {
+   "brand": "Dynalink",
+   "device": "sti6130d350",
+   "model": "Dynalink TV Box"
+  }
+ ],
  "Eclipse G400M": [
   {
    "brand": "E-Boda",
@@ -89079,6 +89086,13 @@
    "model": "LM-X600IM"
   }
  ],
+ "W31": [
+  {
+   "brand": "LGE",
+   "device": "Neo31LM",
+   "model": "LM-K315IM"
+  }
+ ],
  "WM-LG8200": [
   {
    "brand": "LGE",
@@ -136504,6 +136518,11 @@
   }
  ],
  "Galaxy Note20 Ultra 5G": [
+  {
+   "brand": "Samsung",
+   "device": "SC-53A",
+   "model": "SC-53A"
+  },
   {
    "brand": "Samsung",
    "device": "c2q",

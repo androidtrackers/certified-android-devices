@@ -34757,6 +34757,13 @@
    "device": "EG606_YE"
   }
  ],
+ "Dynalink TV Box": [
+  {
+   "brand": "Dynalink",
+   "name": "STI6130-D350",
+   "device": "sti6130d350"
+  }
+ ],
  "Eclipse_G400M": [
   {
    "brand": "E-Boda",
@@ -89210,6 +89217,13 @@
    "device": "Neo4LM"
   }
  ],
+ "LM-K315IM": [
+  {
+   "brand": "LGE",
+   "name": "W31",
+   "device": "Neo31LM"
+  }
+ ],
  "LG-V425": [
   {
    "brand": "LGE",
@@ -141600,6 +141614,13 @@
    "brand": "Samsung",
    "name": "Galaxy Note20 Ultra",
    "device": "c2s"
+  }
+ ],
+ "SC-53A": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Note20 Ultra 5G",
+   "device": "SC-53A"
   }
  ],
  "SM-N9860": [
