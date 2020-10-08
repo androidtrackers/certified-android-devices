@@ -15419,6 +15419,13 @@
    "model": "ST 60"
   }
  ],
+ "CONVERGE": [
+  {
+   "device": "T7045PS",
+   "name": "T7045PS",
+   "model": "T7045PS"
+  }
+ ],
  "COOKIE": [
   {
    "device": "YS-CK0001",
@@ -32636,6 +32643,16 @@
    "model": "Pixel 4a"
   },
   {
+   "device": "bramble",
+   "name": "Pixel 4a (5G)",
+   "model": "Pixel 4a (5G)"
+  },
+  {
+   "device": "redfin",
+   "name": "Pixel 5",
+   "model": "Pixel 5"
+  },
+  {
    "device": "dragon",
    "name": "Pixel C",
    "model": "Pixel C"
@@ -32694,6 +32711,11 @@
    "device": "mighty_cheets",
    "name": "Rockchip RK3288 Chromebook",
    "model": "Rockchip RK3288 Chromebook"
+  },
+  {
+   "device": "generic_x86",
+   "name": "gcar emulator",
+   "model": "AOSP on x86"
   },
   {
    "device": "generic_x86",
@@ -117004,6 +117026,16 @@
    "device": "SOV41",
    "name": "Xperia 5",
    "model": "SOV41"
+  },
+  {
+   "device": "XQ-AS52",
+   "name": "Xperia 5 II",
+   "model": "XQ-AS52"
+  },
+  {
+   "device": "XQ-AS72",
+   "name": "Xperia 5 II",
+   "model": "XQ-AS72"
   },
   {
    "device": "902SO",

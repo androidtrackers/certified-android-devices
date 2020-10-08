@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-10-07
+Last sync is 2020-10-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2991,6 +2991,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CMCC|M811|m811|M811|
 |CMCC|M811|m811hk|M811|
 |CONKER|ST60|ST_60|ST 60|
+|CONVERGE|T7045PS|T7045PS|T7045PS|
 |COOKIE|YS-CK0001|YS-CK0001|YS-CK0001|
 |COPAN|Aplus|Aplus|Aplus|
 |CORN|C5|C5|C5|
@@ -6286,6 +6287,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel 4|flame|Pixel 4|
 |Google|Pixel 4 XL|coral|Pixel 4 XL|
 |Google|Pixel 4a|sunfish|Pixel 4a|
+|Google|Pixel 4a (5G)|bramble|Pixel 4a (5G)|
+|Google|Pixel 5|redfin|Pixel 5|
 |Google|Pixel C|dragon|Pixel C|
 |Google|Pixel Slate|nocturne_cheets|Google Pixel Slate|
 |Google|Pixel Slate|nocturne_cheets|Pixel Slate|
@@ -6298,6 +6301,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Rockchip RK3288 Chromebook|jerry_cheets|Rockchip RK3288 Chromebook|
 |Google|Rockchip RK3288 Chromebook|mighty_cheets|RK3288 Chrome OS Device|
 |Google|Rockchip RK3288 Chromebook|mighty_cheets|Rockchip RK3288 Chromebook|
+|Google|gcar emulator|generic_x86|AOSP on x86|
 |Google|gcar emulator|generic_x86|Automotive SDK built for x86|
 |Gplus|F53|GPLUS_F53|GPLUS F53|
 |Gplus|F68+|F68|F68+|
@@ -22836,6 +22840,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 5|J9260|J9260|
 |Sony|Xperia 5|SO-01M|SO-01M|
 |Sony|Xperia 5|SOV41|SOV41|
+|Sony|Xperia 5 II|XQ-AS52|XQ-AS52|
+|Sony|Xperia 5 II|XQ-AS72|XQ-AS72|
 |Sony|Xperia 8|902SO|902SO|
 |Sony|Xperia 8|SOV42|SOV42|
 |Sony|Xperia 8|SOV42-u|SOV42-u|

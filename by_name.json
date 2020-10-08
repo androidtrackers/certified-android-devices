@@ -28286,6 +28286,13 @@
    "model": "ST 60"
   }
  ],
+ "T7045PS": [
+  {
+   "brand": "CONVERGE",
+   "device": "T7045PS",
+   "model": "T7045PS"
+  }
+ ],
  "YS-CK0001": [
   {
    "brand": "COOKIE",
@@ -51762,6 +51769,20 @@
    "model": "Pixel 4a"
   }
  ],
+ "Pixel 4a (5G)": [
+  {
+   "brand": "Google",
+   "device": "bramble",
+   "model": "Pixel 4a (5G)"
+  }
+ ],
+ "Pixel 5": [
+  {
+   "brand": "Google",
+   "device": "redfin",
+   "model": "Pixel 5"
+  }
+ ],
  "Pixel C": [
   {
    "brand": "Google",
@@ -51835,6 +51856,11 @@
   }
  ],
  "gcar emulator": [
+  {
+   "brand": "Google",
+   "device": "generic_x86",
+   "model": "AOSP on x86"
+  },
   {
    "brand": "Google",
    "device": "generic_x86",
@@ -148908,6 +148934,18 @@
    "brand": "Sony",
    "device": "SOV41",
    "model": "SOV41"
+  }
+ ],
+ "Xperia 5 II": [
+  {
+   "brand": "Sony",
+   "device": "XQ-AS52",
+   "model": "XQ-AS52"
+  },
+  {
+   "brand": "Sony",
+   "device": "XQ-AS72",
+   "model": "XQ-AS72"
   }
  ],
  "Xperia 8": [
