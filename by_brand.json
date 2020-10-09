@@ -6181,6 +6181,11 @@
    "model": "Archos T 80 W"
   },
   {
+   "device": "act101x4g",
+   "name": "Archos T101X 4G",
+   "model": "Archos T 101X 4G"
+  },
+  {
    "device": "ac80cpl",
    "name": "Archos80cpl_loreal",
    "model": "Archos 80c Platinum"
@@ -32676,6 +32681,16 @@
    "device": "marlin",
    "name": "Pixel XL",
    "model": "Pixel XL"
+  },
+  {
+   "device": "atlas_cheets",
+   "name": "Pixelbook",
+   "model": "Google Pixelbook Go"
+  },
+  {
+   "device": "atlas_cheets",
+   "name": "Pixelbook",
+   "model": "atlas"
   },
   {
    "device": "eve_cheets",
@@ -101087,6 +101102,11 @@
    "device": "a20s",
    "name": "Galaxy A20s",
    "model": "SM-A207M"
+  },
+  {
+   "device": "SC-42A",
+   "name": "Galaxy A21",
+   "model": "SC-42A"
   },
   {
    "device": "a21",

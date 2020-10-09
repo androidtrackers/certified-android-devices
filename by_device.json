@@ -10234,6 +10234,13 @@
    "model": "Archos T 80 W"
   }
  ],
+ "act101x4g": [
+  {
+   "brand": "Archos",
+   "name": "Archos T101X 4G",
+   "model": "Archos T 101X 4G"
+  }
+ ],
  "ac80cpl": [
   {
    "brand": "Archos",
@@ -46844,6 +46851,18 @@
    "brand": "Google",
    "name": "Pixel XL",
    "model": "Pixel XL"
+  }
+ ],
+ "atlas_cheets": [
+  {
+   "brand": "Google",
+   "name": "Pixelbook",
+   "model": "Google Pixelbook Go"
+  },
+  {
+   "brand": "Google",
+   "name": "Pixelbook",
+   "model": "atlas"
   }
  ],
  "eve_cheets": [
@@ -130672,6 +130691,13 @@
    "brand": "Samsung",
    "name": "Galaxy A20s",
    "model": "SM-A207M"
+  }
+ ],
+ "SC-42A": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A21",
+   "model": "SC-42A"
   }
  ],
  "a21": [

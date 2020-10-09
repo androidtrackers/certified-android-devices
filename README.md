@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-10-08
+Last sync is 2020-10-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1201,6 +1201,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Archos|Archos Sense 55 DC|ac55sedcv2|Archos Phone|
 |Archos|Archos Sense 55 S|ac55ses|Archos Sense 55 S|
 |Archos|Archos T 80 W|act80w|Archos T 80 W|
+|Archos|Archos T101X 4G|act101x4g|Archos T 101X 4G|
 |Archos|Archos80cpl_loreal|ac80cpl|Archos 80c Platinum|
 |Archos|Auchan QiLive 45|ql45|Qilive 45|
 |Archos|Auchan QiLive 50|ql50|Qilive 50|
@@ -6294,6 +6295,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel Slate|nocturne_cheets|Pixel Slate|
 |Google|Pixel Slate|nocturne_cheets|nocturne|
 |Google|Pixel XL|marlin|Pixel XL|
+|Google|Pixelbook|atlas_cheets|Google Pixelbook Go|
+|Google|Pixelbook|atlas_cheets|atlas|
 |Google|Pixelbook|eve_cheets|Google Pixelbook|
 |Google|Project Tango Tablet Development Kit|yellowstone|Project Tango Tablet Development Kit|
 |Google|Project Tango Tablet Development Kit|yellowstone|Yellowstone|
@@ -19681,6 +19684,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A20s|a20s|SM-A2070|
 |Samsung|Galaxy A20s|a20s|SM-A207F|
 |Samsung|Galaxy A20s|a20s|SM-A207M|
+|Samsung|Galaxy A21|SC-42A|SC-42A|
 |Samsung|Galaxy A21|a21|SM-A215U|
 |Samsung|Galaxy A21|a21|SM-A215U1|
 |Samsung|Galaxy A21|a21|SM-A215W|

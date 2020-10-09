@@ -14919,6 +14919,13 @@
    "model": "Archos T 80 W"
   }
  ],
+ "Archos T101X 4G": [
+  {
+   "brand": "Archos",
+   "device": "act101x4g",
+   "model": "Archos T 101X 4G"
+  }
+ ],
  "Archos80cpl_loreal": [
   {
    "brand": "Archos",
@@ -51815,6 +51822,16 @@
   }
  ],
  "Pixelbook": [
+  {
+   "brand": "Google",
+   "device": "atlas_cheets",
+   "model": "Google Pixelbook Go"
+  },
+  {
+   "brand": "Google",
+   "device": "atlas_cheets",
+   "model": "atlas"
+  },
   {
    "brand": "Google",
    "device": "eve_cheets",
@@ -130980,6 +130997,11 @@
   }
  ],
  "Galaxy A21": [
+  {
+   "brand": "Samsung",
+   "device": "SC-42A",
+   "model": "SC-42A"
+  },
   {
    "brand": "Samsung",
    "device": "a21",

@@ -9508,6 +9508,13 @@
    "device": "act80w"
   }
  ],
+ "Archos T 101X 4G": [
+  {
+   "brand": "Archos",
+   "name": "Archos T101X 4G",
+   "device": "act101x4g"
+  }
+ ],
  "Qilive 45": [
   {
    "brand": "Archos",
@@ -45880,6 +45887,20 @@
    "brand": "Google",
    "name": "Pixel XL",
    "device": "marlin"
+  }
+ ],
+ "Google Pixelbook Go": [
+  {
+   "brand": "Google",
+   "name": "Pixelbook",
+   "device": "atlas_cheets"
+  }
+ ],
+ "atlas": [
+  {
+   "brand": "Google",
+   "name": "Pixelbook",
+   "device": "atlas_cheets"
   }
  ],
  "Google Pixelbook": [
@@ -134541,6 +134562,13 @@
    "brand": "Samsung",
    "name": "Galaxy A20s",
    "device": "a20s"
+  }
+ ],
+ "SC-42A": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A21",
+   "device": "SC-42A"
   }
  ],
  "SM-A215U": [
