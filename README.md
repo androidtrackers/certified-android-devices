@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-10-11
+Last sync is 2020-10-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2012,6 +2012,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|AX1077+|Bmobile_AX1077_MTG06|AX1077+|
 |BMobile|AX1077+|Bmobile_AX1077_MTG07|AX1077+|
 |BMobile|AX1078|Bmobile_AX1078_TG05|AX1078|
+|BMobile|AX1078|Bmobile_AX1078_TG07|AX1078|
 |BMobile|AX1078_TG06|Bmobile_AX1078_TG06|AX1078|
 |BMobile|AX1080|Bmobile_AX1080|AX1080|
 |BMobile|AX1082|Bmobile_AX1082_MV07|AX1082|
@@ -4727,6 +4728,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dragontouch|NotePad_Y80|NotePad_Y80|NotePad_Y80|
 |Dragontouch|Notepad102|Notepad102|Notepad 102|
 |Dragontouch|Notepad102_EEA|Notepad102_EEA|Notepad 102|
+|Dragontouch|NotepadGo801_EEA|NotepadGo801_EEA|Notepad_Go_801_EEA|
 |Dragontouch|Notepad_Go_801|Notepad_Go_801|Notepad_Go_801|
 |Dragontouch|Notepad_Go_801_EEA|Notepad_Go_801|Notepad_Go_801_EEA|
 |Dragontouch|Notepad_Go_803|Notepad_Go_803|Notepad_Go_803|
@@ -11311,6 +11313,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kodak|KODAK_SMARTWAY_L1|KODAK_SMARTWAY_L1|KODAK_SMARTWAY_L1|
 |Kodak|KODAK_SMARTWAY_T2|KODAK_SMARTWAY_T2|KODAK_SMARTWAY_T2|
 |Kodak|KodakTV|shibuya|KodakTV|
+|Kodak|SMARTWAY L2|SMARTWAY_L2|SMARTWAY L2|
 |Kodak|SP4|SP4|SP4|
 |Kodak|Smartway_T1|Smartway_T1|Smartway_T1|
 |Kogan|Agora 6 Plus|Kogan_Agora_6Plus|Kogan Agora 6Plus|
@@ -14201,10 +14204,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logicom|Le HELLO|Le_Hello|Le_Hello|
 |Logicom|Le Hola|Le_Hola|Le Hola|
 |Logicom|Le Hola|Le_Hola|Le_Hola|
+|Logicom|Le Hola FR|Le_Hola_FR|Le Hola FR|
 |Logicom|Le Hop|Logicom_LeHop|Le Hop|
 |Logicom|Le Lift|LeLift|Le Lift|
 |Logicom|Le Must|LeMust|Le Must|
 |Logicom|Le Must 2|LeMust2|Le Must 2|
+|Logicom|Le Prime|Le_Prime|Le Prime|
 |Logicom|Le Prime|Le_Prime|Le_Prime|
 |Logicom|Le Smooth|Le_Smooth|Le Smooth|
 |Logicom|Le Spark|Le_Spark|Le_Spark|
@@ -14394,6 +14399,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MNC NOW|CYBORG001|HP40A3|CYBORG001|
 |MOBO|MB_530|MB_530|MB_530|
 |MOBULAA|K1|K1|K1|
+|MOBULAA|NOTE2|NOTE2|NOTE2|
 |MOBULAA|S6|S6|S6|
 |MOVI|Movi Projector Phone|Movi|Movi Projector Phone|
 |MOVIC|A5501|A5501|A5501|
@@ -14624,6 +14630,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mecer|101P51D|101P51D|101P51D|
 |Mecer|800P31C|800P31C|800P31C|
 |Mecer|800P71D|800P71D|800P71D|
+|Mecer|M17QF6_3G|M17QF6_3G|M17QF6_3G|
 |Mecer|M785P|M785P|M785P|
 |Mecer|M86Q9-3G|M86Q9-3G|M86Q9-3G|
 |Mecer|MF716|MF716|MF716|
@@ -16092,6 +16099,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Myphone|Hammer Energy|Hammer_Energy|Hammer Energy|
 |Myphone|Hammer Energy 18x9|Hammer_Energy_18x9|Hammer_Energy_18x9|
 |Myphone|Hammer Energy 2|Hammer_Energy_2|Hammer_Energy_2|
+|Myphone|Hammer Explorer Pro|Hammer_Expl_Pro|Hammer_Explorer_Pro|
 |Myphone|Hammer IRON 3|Hammer_IRON_3|Hammer_IRON_3|
 |Myphone|Hammer Iron 3 LTE|Hammer_Iron_3_LTE|Hammer_Iron_3_LTE|
 |Myphone|Hammer_Active2|Hammer_Active2|Hammer_Active2|
@@ -16166,6 +16174,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Myphone|myT6S|myT6S|myT6S|
 |Myphone|myT8|myT8|myT8|
 |Myphone|myWX1 Lite|myWX1_Lite|myWX1 Lite|
+|Myphone|myWX1 Plus|myWX1_Plus|myWX1 Plus|
 |Myphone|myX1|MY807|MY807|
 |Myphone|myX12|myX12|myX12|
 |Myphone|myX2|myX2|myX2|
@@ -17923,6 +17932,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips||Philips_GGC3|SA3CNT|
 |Philips||Philips_PI5000|Philips_PI5000|
 |Philips||SA2CNTxx|Philips GoGear Connect|
+|Philips|2K Android TV|takao|2020 FHD Android TV|
 |Philips|4K & Full HD Slim LED TV powered by Android™|philips_MT5593FHT_EU|QM152E|
 |Philips|4K & Full HD Slim LED TV powered by Android™|philips_MT5593HT_LT|QM152E|
 |Philips|4K LED TV powered by Android|PH7M_EU_5596|TPM171E|
@@ -18178,6 +18188,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Polaroid|MIDI70WPDE|MIDI70WPDE|MIDI70WPDE|
 |Polaroid|MIDS185PR|MIDS185PR|MIDS185PR|
 |Polaroid|MIDS2410PR001|MIDS2410PR001|MIDS2410PR001|
+|Polaroid|Mobility3G|Mobility3G|Mobility3G|
 |Polaroid|P10/Q10/PTAB1040/PTAB1041|pq10-Polaroid|P10/Q10/PTAB1040/PTAB1041|
 |Polaroid|P1000|P1000|P1000|
 |Polaroid|P1001|P1001|P1001|
@@ -25843,6 +25854,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TuCEL|TC504B|TC504B|TC504B|
 |TuCEL|TL554B|TL554B|TL554B|
 |Tunisie Telecom|Star Trail by TT|startrail3_tt|StarTrail TT|
+|Turbo-X|"Turbo-X Fire II (2GB) Tablet 10.1"" WIFI"|Fire_II_WiFi|Fire_II_WiFi|
 |Turbo-X|Turbo_X8|Turbo_X8|Turbo_X8|
 |Turbokids|Monsterpad_3G|Monsterpad_3G|Monsterpad 3G|
 |Turbokids|Princess|Princess|Princess|
@@ -26971,6 +26983,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |W.e.|WeTab1004B|WeTab1004B|WeTab1004B|
 |WIIGO|WG-7650|WG-7650|WG-7650|
 |WILL (JP)|Willfon_Pad_02|Willfon_Pad_02|Willfon_Pad_02|
+|WINTEK|W405|W405|W405|
 |WONGKUO|T10|T10|T10|
 |Wacom|Cintiq Companion Hybrid 13HD|CintiqCompanionHybrid13HD|Cintiq Companion Hybrid 13HD|
 |Waf|F803YM|F803YM|F803YM|

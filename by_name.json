@@ -20570,6 +20570,11 @@
    "brand": "BMobile",
    "device": "Bmobile_AX1078_TG05",
    "model": "AX1078"
+  },
+  {
+   "brand": "BMobile",
+   "device": "Bmobile_AX1078_TG07",
+   "model": "AX1078"
   }
  ],
  "AX1078_TG06": [
@@ -40749,6 +40754,13 @@
    "brand": "Dragontouch",
    "device": "Notepad102_EEA",
    "model": "Notepad 102"
+  }
+ ],
+ "NotepadGo801_EEA": [
+  {
+   "brand": "Dragontouch",
+   "device": "NotepadGo801_EEA",
+   "model": "Notepad_Go_801_EEA"
   }
  ],
  "Notepad_Go_801": [
@@ -81173,6 +81185,13 @@
    "model": "KodakTV"
   }
  ],
+ "SMARTWAY L2": [
+  {
+   "brand": "Kodak",
+   "device": "SMARTWAY_L2",
+   "model": "SMARTWAY L2"
+  }
+ ],
  "SP4": [
   {
    "brand": "Kodak",
@@ -97327,6 +97346,13 @@
    "model": "Le_Hola"
   }
  ],
+ "Le Hola FR": [
+  {
+   "brand": "Logicom",
+   "device": "Le_Hola_FR",
+   "model": "Le Hola FR"
+  }
+ ],
  "Le Hop": [
   {
    "brand": "Logicom",
@@ -97356,6 +97382,11 @@
   }
  ],
  "Le Prime": [
+  {
+   "brand": "Logicom",
+   "device": "Le_Prime",
+   "model": "Le Prime"
+  },
   {
    "brand": "Logicom",
    "device": "Le_Prime",
@@ -98621,6 +98652,13 @@
    "brand": "MOBO",
    "device": "MB_530",
    "model": "MB_530"
+  }
+ ],
+ "NOTE2": [
+  {
+   "brand": "MOBULAA",
+   "device": "NOTE2",
+   "model": "NOTE2"
   }
  ],
  "Movi Projector Phone": [
@@ -100114,6 +100152,13 @@
    "brand": "Mecer",
    "device": "800P71D",
    "model": "800P71D"
+  }
+ ],
+ "M17QF6_3G": [
+  {
+   "brand": "Mecer",
+   "device": "M17QF6_3G",
+   "model": "M17QF6_3G"
   }
  ],
  "M785P": [
@@ -108701,6 +108746,13 @@
    "model": "Hammer_Energy_2"
   }
  ],
+ "Hammer Explorer Pro": [
+  {
+   "brand": "Myphone",
+   "device": "Hammer_Expl_Pro",
+   "model": "Hammer_Explorer_Pro"
+  }
+ ],
  "Hammer IRON 3": [
   {
    "brand": "Myphone",
@@ -109208,6 +109260,13 @@
    "brand": "Myphone",
    "device": "myWX1_Lite",
    "model": "myWX1 Lite"
+  }
+ ],
+ "myWX1 Plus": [
+  {
+   "brand": "Myphone",
+   "device": "myWX1_Plus",
+   "model": "myWX1 Plus"
   }
  ],
  "myX1": [
@@ -120064,6 +120123,13 @@
    "model": "TP7A4N"
   }
  ],
+ "2K Android TV": [
+  {
+   "brand": "Philips",
+   "device": "takao",
+   "model": "2020 FHD Android TV"
+  }
+ ],
  "4K & Full HD Slim LED TV powered by Android™": [
   {
    "brand": "Philips",
@@ -121723,6 +121789,13 @@
    "brand": "Polaroid",
    "device": "MIDS2410PR001",
    "model": "MIDS2410PR001"
+  }
+ ],
+ "Mobility3G": [
+  {
+   "brand": "Polaroid",
+   "device": "Mobility3G",
+   "model": "Mobility3G"
   }
  ],
  "P10/Q10/PTAB1040/PTAB1041": [
@@ -166162,6 +166235,13 @@
    "model": "StarTrail TT"
   }
  ],
+ "\"Turbo-X Fire II (2GB) Tablet 10.1\"\" WIFI\"": [
+  {
+   "brand": "Turbo-X",
+   "device": "Fire_II_WiFi",
+   "model": "Fire_II_WiFi"
+  }
+ ],
  "Turbo_X8": [
   {
    "brand": "Turbo-X",
@@ -173169,6 +173249,13 @@
    "brand": "WILL (JP)",
    "device": "Willfon_Pad_02",
    "model": "Willfon_Pad_02"
+  }
+ ],
+ "W405": [
+  {
+   "brand": "WINTEK",
+   "device": "W405",
+   "model": "W405"
   }
  ],
  "Cintiq Companion Hybrid 13HD": [
