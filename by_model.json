@@ -2028,6 +2028,13 @@
    "device": "Acer_One_7_4G"
   }
  ],
+ "Acer One 8 T4-82L": [
+  {
+   "brand": "Acer",
+   "name": "Acer One 8 T4-82L",
+   "device": "AcerOne8T482L"
+  }
+ ],
  "AA3-600": [
   {
    "brand": "Acer",
@@ -3554,6 +3561,13 @@
    "device": "One"
   }
  ],
+ "Adonis 4K Android TV": [
+  {
+   "brand": "Adonis",
+   "name": "Adonis",
+   "device": "seocho"
+  }
+ ],
  "TH10": [
   {
    "brand": "Adreamer (Shenzhen)",
@@ -4683,6 +4697,13 @@
    "brand": "Aiwa",
    "name": "Z9 PLUS",
    "device": "AIWA_Z9_PLUS"
+  }
+ ],
+ "AKAI 4K Android TV": [
+  {
+   "brand": "Akai",
+   "name": "AKAI",
+   "device": "bangbae"
   }
  ],
  "FZ101": [
@@ -15593,6 +15614,11 @@
   {
    "brand": "BMobile",
    "name": "B50 PRO",
+   "device": "Bmobile_B50Pro"
+  },
+  {
+   "brand": "BMobile",
+   "name": "B50 PRO",
    "device": "Bmobile_B50Pro_MV03"
   }
  ],
@@ -15994,6 +16020,13 @@
    "brand": "BQru",
    "name": "BQ-5045L",
    "device": "BQru-5045L"
+  }
+ ],
+ "BQ-5046L": [
+  {
+   "brand": "BQru",
+   "name": "BQ-5046L",
+   "device": "BQ-5046L"
   }
  ],
  "BQ-5056": [
@@ -16445,6 +16478,11 @@
    "brand": "BQru",
    "name": "BQ-7082G",
    "device": "BQru-7082G_2019"
+  },
+  {
+   "brand": "BQru",
+   "name": "BQ-7082G",
+   "device": "BQru-7082G_2020"
   }
  ],
  "BQ-7084G": [
@@ -16459,6 +16497,11 @@
    "brand": "BQru",
    "name": "BQ-7098G",
    "device": "BQru-7098G"
+  },
+  {
+   "brand": "BQru",
+   "name": "BQ-7098G",
+   "device": "BQru-7098G_2020"
   }
  ],
  "BQ-8041L": [
@@ -16941,6 +16984,13 @@
    "brand": "Bauhn",
    "name": "BAUHN",
    "device": "bangbae"
+  }
+ ],
+ "BAUHN 2K Android TV": [
+  {
+   "brand": "Bauhn",
+   "name": "Bauhn",
+   "device": "komagome"
   }
  ],
  "Becrypt Convex 430": [
@@ -19033,6 +19083,13 @@
    "brand": "Blaupunkt",
    "name": "Atlantis_A10_G403",
    "device": "Atlantis_A10_G403"
+  }
+ ],
+ "BP_6008": [
+  {
+   "brand": "Blaupunkt",
+   "name": "BP_6008",
+   "device": "BP_6008"
   }
  ],
  "BP_6010": [
@@ -25819,6 +25876,13 @@
    "device": "Cobalt_SM_6"
   }
  ],
+ "Cobia 2K Android TV": [
+  {
+   "brand": "Cobia",
+   "name": "Cobia",
+   "device": "sugamo"
+  }
+ ],
  "CTB761": [
   {
    "brand": "Coby",
@@ -28769,6 +28833,13 @@
    "device": "C-five-WIFI"
   }
  ],
+ "CP-G3": [
+  {
+   "brand": "Covia",
+   "name": "CP-G3",
+   "device": "CP-G3"
+  }
+ ],
  "CP-J55a": [
   {
    "brand": "Covia",
@@ -30074,6 +30145,13 @@
    "device": "ES850"
   }
  ],
+ "EX111": [
+  {
+   "brand": "DEXP",
+   "name": "EX111",
+   "device": "EX111"
+  }
+ ],
  "G250": [
   {
    "brand": "DEXP",
@@ -31140,6 +31218,13 @@
    "brand": "Datalogic",
    "name": "Memor K",
    "device": "memor_k"
+  }
+ ],
+ "Skorpio X5": [
+  {
+   "brand": "Datalogic",
+   "name": "Skorpio X5",
+   "device": "sx5"
   }
  ],
  "K508101": [
@@ -33744,11 +33829,30 @@
    "device": "N20Pro"
   }
  ],
+ "N30": [
+  {
+   "brand": "Doogee",
+   "name": "N30",
+   "device": "N30"
+  },
+  {
+   "brand": "Iris",
+   "name": "N30",
+   "device": "N30"
+  }
+ ],
  "S40Lite": [
   {
    "brand": "Doogee",
    "name": "S40Lite",
    "device": "S40Lite"
+  }
+ ],
+ "S40Pro": [
+  {
+   "brand": "Doogee",
+   "name": "S40Pro",
+   "device": "S40Pro"
   }
  ],
  "S55_Lite": [
@@ -33850,6 +33954,13 @@
    "brand": "Doogee",
    "name": "S95Pro",
    "device": "S95Pro"
+  }
+ ],
+ "S96Pro": [
+  {
+   "brand": "Doogee",
+   "name": "S96Pro",
+   "device": "S96Pro"
   }
  ],
  "Shoot_1": [
@@ -34831,6 +34942,13 @@
    "brand": "Dual",
    "name": "BDL0948",
    "device": "BDL0948"
+  }
+ ],
+ "Dual 4K Android TV": [
+  {
+   "brand": "Dual",
+   "name": "Dual",
+   "device": "bangbae"
   }
  ],
  "Dunns Slinger": [
@@ -37819,6 +37937,11 @@
    "brand": "Evercoss",
    "name": "X8",
    "device": "X8"
+  },
+  {
+   "brand": "Evercoss",
+   "name": "X8_3gb",
+   "device": "X8_3gb"
   },
   {
    "brand": "YesTeL",
@@ -42442,6 +42565,13 @@
    "device": "G7S54P3CR"
   }
  ],
+ "GABA 4K Android TV": [
+  {
+   "brand": "GABA",
+   "name": "GABA",
+   "device": "bangbae"
+  }
+ ],
  "GC-AA1": [
   {
    "brand": "GC(TECH)",
@@ -44049,6 +44179,13 @@
    "device": "GS370_Plus"
   }
  ],
+ "E940-2795-00": [
+  {
+   "brand": "Gigaset",
+   "name": "Gigaset GS4",
+   "device": "Gigaset_GS4"
+  }
+ ],
  "Maxwell-10": [
   {
    "brand": "Gigaset",
@@ -44556,6 +44693,13 @@
    "brand": "Gionee",
    "name": "F6L",
    "device": "GIONEE_SW17G15"
+  }
+ ],
+ "GIONEE F8 Neo": [
+  {
+   "brand": "Gionee",
+   "name": "F8_Neo",
+   "device": "F8_Neo"
   }
  ],
  "GIONEE F9": [
@@ -57841,6 +57985,13 @@
    "device": "bangbae"
   }
  ],
+ "Hitachi 2K Android TV": [
+  {
+   "brand": "Hitachi",
+   "name": "Hitachi",
+   "device": "komagome"
+  }
+ ],
  "HitachiTV": [
   {
    "brand": "Hitachi",
@@ -58489,6 +58640,18 @@
    "brand": "Honeywell",
    "name": "EDA50K",
    "device": "eda50k-1"
+  }
+ ],
+ "EDA50P": [
+  {
+   "brand": "Honeywell",
+   "name": "EDA50P",
+   "device": "EDA50P-0"
+  },
+  {
+   "brand": "Honeywell",
+   "name": "EDA50P",
+   "device": "EDA50P-1"
   }
  ],
  "EDA51": [
@@ -75063,13 +75226,6 @@
    "device": "shinagawa"
   }
  ],
- "N30": [
-  {
-   "brand": "Iris",
-   "name": "N30",
-   "device": "N30"
-  }
- ],
  "NEXT_P": [
   {
    "brand": "Iris",
@@ -76107,6 +76263,13 @@
    "device": "itel-L5505"
   }
  ],
+ "itel L6006": [
+  {
+   "brand": "Itel",
+   "name": "itel A48",
+   "device": "itel-L6006"
+  }
+ ],
  "itel A52": [
   {
    "brand": "Itel",
@@ -76415,6 +76578,20 @@
   }
  ],
  "JVC 2K Android TV": [
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "device": "sugamo"
+  }
+ ],
+ "JVC SA 2K Android TV": [
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "device": "sugamo"
+  }
+ ],
+ "JVC US 2K Android TV": [
   {
    "brand": "JVC",
    "name": "JVC",
@@ -76974,6 +77151,13 @@
    "brand": "Jyonetsu Kakaku",
    "name": "YMR8",
    "device": "YMR8"
+  }
+ ],
+ "K-Elec 4K Android TV": [
+  {
+   "brand": "K-ELEC",
+   "name": "K-ELEC",
+   "device": "bangbae"
   }
  ],
  "K_Lite_F1_4G": [
@@ -78360,6 +78544,13 @@
    "device": "KA7Q3"
   }
  ],
+ "N97_A1B_72115": [
+  {
+   "brand": "Kbro",
+   "name": "N97_A1B_72115",
+   "device": "A1B_72115"
+  }
+ ],
  "N97_A1_3796": [
   {
    "brand": "Kbro",
@@ -79292,6 +79483,13 @@
    "device": "SMARTWAY_L2"
   }
  ],
+ "SMARTWAY_F1": [
+  {
+   "brand": "Kodak",
+   "name": "SMARTWAY_F1",
+   "device": "SMARTWAY_F1"
+  }
+ ],
  "SP4": [
   {
    "brand": "Kodak",
@@ -79594,6 +79792,13 @@
    "brand": "Kruger&Matz",
    "name": "DRIVE 5",
    "device": "Drive_5"
+  }
+ ],
+ "DRIVE 8": [
+  {
+   "brand": "Kruger&Matz",
+   "name": "DRIVE 8",
+   "device": "DRIVE_8"
   }
  ],
  "DRIVE_6": [
@@ -80734,6 +80939,13 @@
    "brand": "LEGEND",
    "name": "ACE_I",
    "device": "ACE_I"
+  }
+ ],
+ "NEBULAE": [
+  {
+   "brand": "LEGEND",
+   "name": "NEBULAE",
+   "device": "NEBULAE"
   }
  ],
  "LEM-TS1": [
@@ -89852,6 +90064,13 @@
    "device": "K200"
   }
  ],
+ "K700": [
+  {
+   "brand": "LT Electronics",
+   "name": "K700",
+   "device": "SPURT_K700"
+  }
+ ],
  "LT C4300": [
   {
    "brand": "LT Electronics",
@@ -97554,6 +97773,20 @@
    "device": "hanyang"
   }
  ],
+ "Linsar 4K Android TV": [
+  {
+   "brand": "Linsar",
+   "name": "Linsar",
+   "device": "bangbae"
+  }
+ ],
+ "Linsar 2K Android TV": [
+  {
+   "brand": "Linsar",
+   "name": "Linsar",
+   "device": "komagome"
+  }
+ ],
  "F10XIPS": [
   {
    "brand": "Linsay",
@@ -98437,6 +98670,13 @@
    "brand": "Logicom",
    "name": "La_Tab_105_P",
    "device": "La_Tab_105_P"
+  }
+ ],
+ "La_Tab_105_P_Rev2": [
+  {
+   "brand": "Logicom",
+   "name": "La_Tab_105_P_Rev2_EEA",
+   "device": "La_Tab_105_P_Rev2"
   }
  ],
  "La_Tab_114": [
@@ -99418,6 +99658,11 @@
  "M200": [
   {
    "brand": "MDC Store",
+   "name": "M200",
+   "device": "M200"
+  },
+  {
+   "brand": "d.light",
    "name": "M200",
    "device": "M200"
   }
@@ -119254,6 +119499,13 @@
    "device": "oraimo-R401"
   }
  ],
+ "DV8555": [
+  {
+   "brand": "Orange",
+   "name": "DV8555",
+   "device": "DV8555-KPO"
+  }
+ ],
  "Orange Dive 30": [
   {
    "brand": "Orange",
@@ -120307,6 +120559,13 @@
    "brand": "POCO",
    "name": "POCO F2 Pro",
    "device": "lmi"
+  }
+ ],
+ "M2004J19PI": [
+  {
+   "brand": "POCO",
+   "name": "POCO M2",
+   "device": "shiva"
   }
  ],
  "POCO M2 Pro": [
@@ -121402,6 +121661,11 @@
    "brand": "Panasonic",
    "name": "FZ-N1EVF",
    "device": "FZ-N1EVF"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "FZ-N1EVFE",
+   "device": "FZ-N1EVFE"
   },
   {
    "brand": "Panasonic",
@@ -123063,6 +123327,11 @@
    "brand": "Philips",
    "name": "PHILIPS TV",
    "device": "cocina"
+  },
+  {
+   "brand": "Philips",
+   "name": "Smart TV",
+   "device": "hino"
   }
  ],
  "G3SMNTS22": [
@@ -125055,6 +125324,13 @@
    "brand": "Positivo",
    "name": "One",
    "device": "S420"
+  }
+ ],
+ "Positivo Q20": [
+  {
+   "brand": "Positivo",
+   "name": "Positivo Q20",
+   "device": "Q20"
   }
  ],
  "T1075B": [
@@ -132466,6 +132742,13 @@
    "brand": "SCHNEIDER",
    "name": "SCHNEIDER",
    "device": "bangbae"
+  }
+ ],
+ "SCHNEIDER 2K Android TV": [
+  {
+   "brand": "SCHNEIDER",
+   "name": "SCHNEIDER",
+   "device": "komagome"
   }
  ],
  "BBT1019863": [
@@ -150906,6 +151189,13 @@
    "device": "TWIFI-06"
   }
  ],
+ "TWIFI-07": [
+  {
+   "brand": "Samtech",
+   "name": "TWIFI_07",
+   "device": "TWIFI-07"
+  }
+ ],
  "FX9": [
   {
    "brand": "Sanaeko",
@@ -154258,6 +154548,13 @@
    "device": "SL1068"
   }
  ],
+ "SL721": [
+  {
+   "brand": "Silver line",
+   "name": "SL721",
+   "device": "SL721"
+  }
+ ],
  "SL729": [
   {
    "brand": "Silver line",
@@ -155697,6 +155994,13 @@
    "brand": "Snopow",
    "name": "ServiceChecKIT",
    "device": "ServiceChecKIT_EEA"
+  }
+ ],
+ "T8100": [
+  {
+   "brand": "So ! Generation",
+   "name": "T8100",
+   "device": "T8100"
   }
  ],
  "T8116": [
@@ -160230,6 +160534,13 @@
    "brand": "Stream",
    "name": "SHARK",
    "device": "SHARK"
+  }
+ ],
+ "Strong 2K Android TV": [
+  {
+   "brand": "Strong",
+   "name": "Strong",
+   "device": "komagome"
   }
  ],
  "JR-500": [
@@ -171305,6 +171616,13 @@
    "device": "KIDS06"
   }
  ],
+ "KIDS707": [
+  {
+   "brand": "TOPELOTEK",
+   "name": "KIDS707",
+   "device": "TOPELOTEK_KIDS707"
+  }
+ ],
  "KIDS708": [
   {
    "brand": "TOPELOTEK",
@@ -173829,6 +174147,20 @@
    "device": "TECNO-i7"
   }
  ],
+ "Tecnomaster 4K Android TV": [
+  {
+   "brand": "Tecnomaster",
+   "name": "Tecnomaster",
+   "device": "seocho"
+  }
+ ],
+ "Tecnomaster 2K Android TV": [
+  {
+   "brand": "Tecnomaster",
+   "name": "Tecnomaster",
+   "device": "sugamo"
+  }
+ ],
  "TECTOY_5029Y": [
   {
    "brand": "Tectoy",
@@ -176188,6 +176520,13 @@
    "brand": "Turbopad",
    "name": "Turbopad1016NEW",
    "device": "Turbopad1016NEW"
+  }
+ ],
+ "Tvera 4K Android TV": [
+  {
+   "brand": "Tvera",
+   "name": "Tvera",
+   "device": "seocho"
   }
  ],
  "TVSTAR 4K Android TV": [
@@ -187000,6 +187339,13 @@
    "brand": "Xiaomi",
    "name": "Mi 10T",
    "device": "apollo"
+  }
+ ],
+ "M2007J17G": [
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 10T Lite",
+   "device": "gauguin"
   }
  ],
  "M2007J3SG": [
@@ -198548,6 +198894,13 @@
    "device": "M72_Smart"
   }
  ],
+ "Zephir 2K Android TV": [
+  {
+   "brand": "Zepo",
+   "name": "Zephir",
+   "device": "komagome"
+  }
+ ],
  "Zettaly Avy ZA-407": [
   {
    "brand": "Zettaly",
@@ -200143,6 +200496,13 @@
    "brand": "iData",
    "name": "iData_K1",
    "device": "iData_K1"
+  }
+ ],
+ "iData T1": [
+  {
+   "brand": "iData",
+   "name": "iData T1",
+   "device": "T1"
   }
  ],
  "CT8": [
