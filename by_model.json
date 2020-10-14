@@ -29249,6 +29249,13 @@
    "device": "KING_KONG_CS"
   }
  ],
+ "KINGKONG MINI2": [
+  {
+   "brand": "Cubot",
+   "name": "KINGKONG MINI2",
+   "device": "KINGKONG_MINI2"
+  }
+ ],
  "KINGKONG_MINI": [
   {
    "brand": "Cubot",
@@ -69744,6 +69751,13 @@
    "device": "b604tnw"
   }
  ],
+ "FVP-4KGTR": [
+  {
+   "brand": "HumaxDigital",
+   "name": "FVP-4KGTR",
+   "device": "fvp4kgtr"
+  }
+ ],
  "H5_DLIVE": [
   {
    "brand": "HumaxDigital",
@@ -79455,6 +79469,13 @@
    "device": "IM5"
   }
  ],
+ "KODAK SMARTWAY T3": [
+  {
+   "brand": "Kodak",
+   "name": "KODAK SMARTWAY T3",
+   "device": "SMARTWAY_T3"
+  }
+ ],
  "KODAK_SMARTWAY_L1": [
   {
    "brand": "Kodak",
@@ -79474,6 +79495,13 @@
    "brand": "Kodak",
    "name": "KodakTV",
    "device": "shibuya"
+  }
+ ],
+ "KD50": [
+  {
+   "brand": "Kodak",
+   "name": "Kodak_KD50",
+   "device": "Kodak_KD50"
   }
  ],
  "SMARTWAY L2": [
@@ -83097,6 +83125,13 @@
    "brand": "LGE",
    "name": "Stylo 6",
    "device": "mdh50lm"
+  }
+ ],
+ "LM-K920": [
+  {
+   "brand": "LGE",
+   "name": "K92",
+   "device": "acexlm"
   }
  ],
  "LG-D335": [
@@ -142268,13 +142303,6 @@
    "brand": "Samsung",
    "name": "Galaxy Note20 Ultra",
    "device": "c2s"
-  }
- ],
- "SC-53A": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Note20 Ultra 5G",
-   "device": "SC-53A"
   }
  ],
  "SM-N9860": [

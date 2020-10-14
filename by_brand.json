@@ -20468,6 +20468,11 @@
    "model": "KING KONG CS"
   },
   {
+   "device": "KINGKONG_MINI2",
+   "name": "KINGKONG MINI2",
+   "model": "KINGKONG MINI2"
+  },
+  {
    "device": "KINGKONG_MINI",
    "name": "KINGKONG_MINI",
    "model": "KINGKONG_MINI"
@@ -50698,6 +50703,11 @@
    "model": "Descodificador Orange TV"
   },
   {
+   "device": "fvp4kgtr",
+   "name": "FVP-4KGTR",
+   "model": "FVP-4KGTR"
+  },
+  {
    "device": "h5mini",
    "name": "H5_DLIVE",
    "model": "H5_DLIVE"
@@ -58341,6 +58351,11 @@
    "model": "IM5"
   },
   {
+   "device": "SMARTWAY_T3",
+   "name": "KODAK SMARTWAY T3",
+   "model": "KODAK SMARTWAY T3"
+  },
+  {
    "device": "KODAK_SMARTWAY_L1",
    "name": "KODAK_SMARTWAY_L1",
    "model": "KODAK_SMARTWAY_L1"
@@ -58354,6 +58369,11 @@
    "device": "shibuya",
    "name": "KodakTV",
    "model": "KodakTV"
+  },
+  {
+   "device": "Kodak_KD50",
+   "name": "Kodak_KD50",
+   "model": "KD50"
   },
   {
    "device": "SMARTWAY_L2",
@@ -60859,6 +60879,11 @@
    "device": "mdh50lm",
    "name": "K71",
    "model": "LM-Q730"
+  },
+  {
+   "device": "acexlm",
+   "name": "K92",
+   "model": "LM-K920"
   },
   {
    "device": "luv80ds",
@@ -106697,11 +106722,6 @@
    "device": "c2s",
    "name": "Galaxy Note20 Ultra",
    "model": "SM-N985F"
-  },
-  {
-   "device": "SC-53A",
-   "name": "Galaxy Note20 Ultra 5G",
-   "model": "SC-53A"
   },
   {
    "device": "c2q",

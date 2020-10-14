@@ -30233,6 +30233,13 @@
    "model": "KING KONG CS"
   }
  ],
+ "KINGKONG_MINI2": [
+  {
+   "brand": "Cubot",
+   "name": "KINGKONG MINI2",
+   "model": "KINGKONG MINI2"
+  }
+ ],
  "KINGKONG_MINI": [
   {
    "brand": "Cubot",
@@ -67888,6 +67895,13 @@
    "model": "Descodificador Orange TV"
   }
  ],
+ "fvp4kgtr": [
+  {
+   "brand": "HumaxDigital",
+   "name": "FVP-4KGTR",
+   "model": "FVP-4KGTR"
+  }
+ ],
  "h5mini": [
   {
    "brand": "HumaxDigital",
@@ -77382,6 +77396,13 @@
    "model": "IM5"
   }
  ],
+ "SMARTWAY_T3": [
+  {
+   "brand": "Kodak",
+   "name": "KODAK SMARTWAY T3",
+   "model": "KODAK SMARTWAY T3"
+  }
+ ],
  "KODAK_SMARTWAY_L1": [
   {
    "brand": "Kodak",
@@ -77394,6 +77415,13 @@
    "brand": "Kodak",
    "name": "KODAK_SMARTWAY_T2",
    "model": "KODAK_SMARTWAY_T2"
+  }
+ ],
+ "Kodak_KD50": [
+  {
+   "brand": "Kodak",
+   "name": "Kodak_KD50",
+   "model": "KD50"
   }
  ],
  "SMARTWAY_L2": [
@@ -81069,6 +81097,13 @@
    "brand": "LGE",
    "name": "Stylo 6",
    "model": "LM-Q730"
+  }
+ ],
+ "acexlm": [
+  {
+   "brand": "LGE",
+   "name": "K92",
+   "model": "LM-K920"
   }
  ],
  "luv80ds": [
@@ -137816,13 +137851,6 @@
    "brand": "Samsung",
    "name": "Galaxy Note20 Ultra 5G",
    "model": "SM-N986B"
-  }
- ],
- "SC-53A": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Note20 Ultra 5G",
-   "model": "SC-53A"
   }
  ],
  "c2q": [

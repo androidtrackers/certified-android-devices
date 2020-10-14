@@ -35243,6 +35243,13 @@
    "model": "KING KONG CS"
   }
  ],
+ "KINGKONG MINI2": [
+  {
+   "brand": "Cubot",
+   "device": "KINGKONG_MINI2",
+   "model": "KINGKONG MINI2"
+  }
+ ],
  "KINGKONG_MINI": [
   {
    "brand": "Cubot",
@@ -71776,6 +71783,13 @@
    "model": "KSTB6130"
   }
  ],
+ "FVP-4KGTR": [
+  {
+   "brand": "HumaxDigital",
+   "device": "fvp4kgtr",
+   "model": "FVP-4KGTR"
+  }
+ ],
  "H5_DLIVE": [
   {
    "brand": "HumaxDigital",
@@ -81361,6 +81375,13 @@
    "model": "IM5"
   }
  ],
+ "KODAK SMARTWAY T3": [
+  {
+   "brand": "Kodak",
+   "device": "SMARTWAY_T3",
+   "model": "KODAK SMARTWAY T3"
+  }
+ ],
  "KODAK_SMARTWAY_L1": [
   {
    "brand": "Kodak",
@@ -81380,6 +81401,13 @@
    "brand": "Kodak",
    "device": "shibuya",
    "model": "KodakTV"
+  }
+ ],
+ "Kodak_KD50": [
+  {
+   "brand": "Kodak",
+   "device": "Kodak_KD50",
+   "model": "KD50"
   }
  ],
  "SMARTWAY L2": [
@@ -83681,6 +83709,18 @@
    "brand": "LGE",
    "device": "mdh50lm",
    "model": "LM-Q730"
+  }
+ ],
+ "K92": [
+  {
+   "brand": "LGE",
+   "device": "acexlm",
+   "model": "LM-K920"
+  },
+  {
+   "brand": "ZTE",
+   "device": "primrose",
+   "model": "K92"
   }
  ],
  "L Bello": [
@@ -137168,11 +137208,6 @@
  "Galaxy Note20 Ultra 5G": [
   {
    "brand": "Samsung",
-   "device": "SC-53A",
-   "model": "SC-53A"
-  },
-  {
-   "brand": "Samsung",
    "device": "c2q",
    "model": "SM-N9860"
   },
@@ -180939,13 +180974,6 @@
    "brand": "ZTE",
    "device": "jasmine",
    "model": "K88"
-  }
- ],
- "K92": [
-  {
-   "brand": "ZTE",
-   "device": "primrose",
-   "model": "K92"
   }
  ],
  "K97": [

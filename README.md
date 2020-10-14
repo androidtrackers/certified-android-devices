@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-10-13
+Last sync is 2020-10-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3962,6 +3962,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|J7|J7|J7|
 |Cubot|J8|J8|J8|
 |Cubot|KING KONG CS|KING_KONG_CS|KING KONG CS|
+|Cubot|KINGKONG MINI2|KINGKONG_MINI2|KINGKONG MINI2|
 |Cubot|KINGKONG_MINI|KINGKONG_MINI|KINGKONG_MINI|
 |Cubot|KING_KONG_3|KING_KONG_3|KING_KONG_3|
 |Cubot|MANITO|CUBOT_MANITO|CUBOT_MANITO|
@@ -9868,6 +9869,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|麦芒5|HWMLA|MLA-AL10|
 |Hublot|Hublot Big Bang e|halibut|Big Bang e|
 |HumaxDigital|Descodificador Orange TV|b604tnw|Descodificador Orange TV|
+|HumaxDigital|FVP-4KGTR|fvp4kgtr|FVP-4KGTR|
 |HumaxDigital|H5_DLIVE|h5mini|H5_DLIVE|
 |HumaxDigital|TMAU400|tmau400|tmau400|
 |HumaxDigital|VISION W1|vision|VISION W1|
@@ -11339,9 +11341,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kobo|Vox|pegasus|Vox|
 |Kodak|Ektra|KodakEktra|Ektra|
 |Kodak|IM5|IM5|IM5|
+|Kodak|KODAK SMARTWAY T3|SMARTWAY_T3|KODAK SMARTWAY T3|
 |Kodak|KODAK_SMARTWAY_L1|KODAK_SMARTWAY_L1|KODAK_SMARTWAY_L1|
 |Kodak|KODAK_SMARTWAY_T2|KODAK_SMARTWAY_T2|KODAK_SMARTWAY_T2|
 |Kodak|KodakTV|shibuya|KodakTV|
+|Kodak|Kodak_KD50|Kodak_KD50|KD50|
 |Kodak|SMARTWAY L2|SMARTWAY_L2|SMARTWAY L2|
 |Kodak|SMARTWAY_F1|SMARTWAY_F1|SMARTWAY_F1|
 |Kodak|SP4|SP4|SP4|
@@ -11835,6 +11839,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|K61|mdh40lm|LM-Q630|
 |LGE|K62|meh35lm|LM-K525|
 |LGE|K71|mdh50lm|LM-Q730|
+|LGE|K92|acexlm|LM-K920|
 |LGE|L Bello|luv80ds|LG-D335|
 |LGE|L Bello|luv80ds|LG-D335E|
 |LGE|L Bello|luv80ds|LG-D337|
@@ -20799,7 +20804,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Note20 5G|c1q|SM-N981W|
 |Samsung|Galaxy Note20 5G|c1s|SM-N981B|
 |Samsung|Galaxy Note20 Ultra|c2s|SM-N985F|
-|Samsung|Galaxy Note20 Ultra 5G|SC-53A|SC-53A|
 |Samsung|Galaxy Note20 Ultra 5G|c2q|SM-N9860|
 |Samsung|Galaxy Note20 Ultra 5G|c2q|SM-N986N|
 |Samsung|Galaxy Note20 Ultra 5G|c2q|SM-N986U|
