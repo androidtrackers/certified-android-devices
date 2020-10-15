@@ -3430,6 +3430,11 @@
    "model": "PANASONIC TV"
   },
   {
+   "brand": "SCHNEIDER",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
    "brand": "Sanyo",
    "name": "Android TV",
    "model": "ATV R1"
@@ -3517,7 +3522,7 @@
    "model": "ATV R2"
   },
   {
-   "brand": "LLOYD",
+   "brand": "Kalley",
    "name": "Android TV",
    "model": "ATV R2"
   },
@@ -3558,6 +3563,16 @@
   },
   {
    "brand": "Sanyo",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Singer",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Strong",
    "name": "Android TV",
    "model": "ATV R2"
   },
@@ -3929,6 +3944,13 @@
    "brand": "Advan digital",
    "name": "G5",
    "model": "6201"
+  }
+ ],
+ "ADVAN_G9": [
+  {
+   "brand": "Advan digital",
+   "name": "G9",
+   "model": "6501"
   }
  ],
  "ADVAN_i_Tab": [
@@ -41778,6 +41800,18 @@
    "model": "Lexington 2"
   }
  ],
+ "sole": [
+  {
+   "brand": "Fossil",
+   "name": "Fossil Gen 5e",
+   "model": "Fossil 5e"
+  },
+  {
+   "brand": "Fossil",
+   "name": "Fossil Gen 5e",
+   "model": "Fossil SS"
+  }
+ ],
  "darter": [
   {
    "brand": "Fossil",
@@ -43456,6 +43490,13 @@
    "brand": "Vu Televisions",
    "name": "xiaoyushan-vu",
    "model": "HiSmartTV A4"
+  }
+ ],
+ "Stella_Omega_Plus": [
+  {
+   "brand": "G-TOUCH",
+   "name": "Stella Omega Plus",
+   "model": "Stella Omega Plus"
   }
  ],
  "Stella_X": [
@@ -96107,6 +96148,11 @@
    "brand": "Mintt",
    "name": "M1",
    "model": "M1"
+  },
+  {
+   "brand": "ZOOMME",
+   "name": "M1",
+   "model": "M1"
   }
  ],
  "M2S": [
@@ -112443,6 +112489,13 @@
    "model": "S5702L"
   }
  ],
+ "S6003LA": [
+  {
+   "brand": "Nuu",
+   "name": "X6 Plus",
+   "model": "S6003L"
+  }
+ ],
  "S5704LE": [
   {
    "brand": "Nuu",
@@ -113110,6 +113163,25 @@
    "brand": "OnePlus",
    "name": "OnePlus 8 Pro",
    "model": "IN2023"
+  }
+ ],
+ "OnePlus8T": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 8T",
+   "model": "KB2005"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus8T",
+   "model": "KB2005"
+  }
+ ],
+ "OnePlus8TTMO": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 8T+ 5G",
+   "model": "KB2007"
   }
  ],
  "Nord": [

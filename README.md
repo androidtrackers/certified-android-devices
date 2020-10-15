@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-10-14
+Last sync is 2020-10-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -414,6 +414,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advan digital|G3|ADVAN_G3|6001|
 |Advan digital|G3 Pro|ADVAN_G3_Pro|6002|
 |Advan digital|G5|ADVAN_G5|6201|
+|Advan digital|G9|ADVAN_G9|6501|
 |Advan digital|I Tab|ADVAN_i_Tab|i7_Plus|
 |Advan digital|I55A|I55A|I55A|
 |Advan digital|I5E|ADVAN_I5E|I5E|
@@ -5546,6 +5547,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ford|Omni 8|Omni8|Omni8|
 |Formuler|GTV|GTV|GTV|
 |Fossil|Fossil Gen 5|triggerfish|Lexington 2|
+|Fossil|Fossil Gen 5e|sole|Fossil 5e|
+|Fossil|Fossil Gen 5e|sole|Fossil SS|
 |Fossil|Fossil Sport|darter|Fadelite|
 |Fossil|Fossil Sport|darter|Hugo|
 |Fossil|Fossil Sport|darter|MK Go|
@@ -5799,6 +5802,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G Y P NEW TREE SA|VIEWPAD M10M|M10M|VIEWPAD M10M|
 |G-Guard|fushan_Guard|hamamatsucho|Smart TV|
 |G-Guard|xiaoyushan_emG|xiaoyushan|HiSmartTV A4|
+|G-TOUCH|Stella Omega Plus|Stella_Omega_Plus|Stella Omega Plus|
 |G-TOUCH|Stella X|Stella_X|Stella X|
 |G-TOUCH|Stella XS|Stella_XS|Stella XS|
 |G-TOUCH|Stella_Omega|Stella_Omega|Stella Omega|
@@ -11138,6 +11142,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KZG (Ke Zhi Guang)|KZG_Scope|KZG_Scope|KZG Scope|
 |Kaicom|H702|H702|H702|
 |Kaicom|K901|K901|K901|
+|Kalley|Android TV|R2|ATV R2|
 |Kalley|BLACK_PRO|BLACK_PRO|BLACK_PRO|
 |Kalley|Black|Black|Black|
 |Kalley|ELEMENT MAX|ELEMENT_MAX|ELEMENT MAX|
@@ -12929,7 +12934,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LLA|VIP6102W LLA-PA|vip6102w|VIP6102W|
 |LLA|VIP6102W-LLA|vip6102w|VIP6102W|
 |LLOYD|Android TV|R1|ATV R1|
-|LLOYD|Android TV|R2|ATV R2|
 |LNMBBS|P40-EEA|P40-EEA|P40-EEA|
 |LNMBBS|P401|P401|P401|
 |LOOQS|F102-EEA|F102-EEA|F102-EEA|
@@ -16825,6 +16829,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuu|X4|X4|X4|
 |Nuu|X5|NUU_X5|NUU_X5|
 |Nuu|X6|S5702LA|S5702L|
+|Nuu|X6 Plus|S6003LA|S6003L|
 |Nuu|X6mini|S5702LA|S5702L|
 |Nuu|X6mini|S5704LE|S5704L|
 |Nuu|Z8|Z8|Z8|
@@ -16948,6 +16953,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 8 5G|OnePlus8TMO|IN2017|
 |OnePlus|OnePlus 8 5G UW|OnePlus8VZW|IN2019|
 |OnePlus|OnePlus 8 Pro|OnePlus8Pro|IN2023|
+|OnePlus|OnePlus 8T|OnePlus8T|KB2005|
+|OnePlus|OnePlus 8T+ 5G|OnePlus8TTMO|KB2007|
 |OnePlus|OnePlus Nord|Nord|AC2003|
 |OnePlus|OnePlus2|OnePlus2|ONE A2003|
 |OnePlus|OnePlus3|OnePlus3|ONEPLUS A3000|
@@ -16956,6 +16963,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus5T|OnePlus5T|ONEPLUS A5010|
 |OnePlus|OnePlus6T|OnePlus6T|ONEPLUS A6013|
 |OnePlus|OnePlus6T|OnePlus6TSingle|ONEPLUS A6013|
+|OnePlus|OnePlus8T|OnePlus8T|KB2005|
 |OnePlus|Oneplus_Dosa_IN|Oneplus_Dosa_IN|Oneplus_Dosa_IN|
 |OnePlus|X|OnePlus|ONE E1003|
 |OnePlus|Y Series|shibuya|Y Series|
@@ -19424,6 +19432,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SARL WISE TECHNOLOGIE|Wise_Tab|Wise_Tab|Wise_Tab|
 |SARL WISE TECHNOLOGIE|Wise_Tech_Wifi|Wise_Tech_Wifi|Wise Tech Wifi|
 |SBET|X7|X7|X7|
+|SCHNEIDER|Android TV|R1|ATV R1|
 |SCHNEIDER|SCHNEIDER|bangbae|SCHNEIDER 4K Android TV|
 |SCHNEIDER|SCHNEIDER|komagome|SCHNEIDER 2K Android TV|
 |SCIENTIA|BBT1019863|BBT1019863|BBT1019863|
@@ -22634,6 +22643,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SimiMobile|S630|S630|S630|
 |SimiMobile|S630M|S630M|S630M|
 |Singer|Android TV|R1|ATV R1|
+|Singer|Android TV|R2|ATV R2|
 |Singer|SingerTV|shibuya|SingerTV|
 |Singtech|H1s|H1s|H1s|
 |Singtech|H2|Singtech_H2|H2|
@@ -23543,6 +23553,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stream|PERLA|PERLA|PERLA|
 |Stream|S7|MIRROR|S7|
 |Stream|SHARK|SHARK|SHARK|
+|Strong|Android TV|R2|ATV R2|
 |Strong|Strong|komagome|Strong 2K Android TV|
 |Sts-tottori|JR-500|JR-500|JR-500|
 |Sts-tottori|JR-P2000|JR-P2000|JR-P2000|
@@ -27839,6 +27850,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZLINE|ZLINE_Z_742|ZLINE_Z_742|Z_742|
 |ZMBIZI|ZMBIZI|ZMBIZI_Z1|ZMBIZI Z1|
 |ZOLON|M30|M30|M30|
+|ZOOMME|M1|M1|M1|
 |ZOOMME|M2|M2|M2|
 |ZOOMME|M3|M3|M3|
 |ZOOMME|M6|M6|M6|

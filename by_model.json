@@ -3218,6 +3218,11 @@
    "device": "R1"
   },
   {
+   "brand": "SCHNEIDER",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
    "brand": "Sanyo",
    "name": "Android TV",
    "device": "R1"
@@ -3305,7 +3310,7 @@
    "device": "R2"
   },
   {
-   "brand": "LLOYD",
+   "brand": "Kalley",
    "name": "Android TV",
    "device": "R2"
   },
@@ -3331,6 +3336,16 @@
   },
   {
    "brand": "Sanyo",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Singer",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Strong",
    "name": "Android TV",
    "device": "R2"
   },
@@ -3748,6 +3763,13 @@
    "brand": "Advan digital",
    "name": "G5",
    "device": "ADVAN_G5"
+  }
+ ],
+ "6501": [
+  {
+   "brand": "Advan digital",
+   "name": "G9",
+   "device": "ADVAN_G9"
   }
  ],
  "i7_Plus": [
@@ -40507,6 +40529,20 @@
    "device": "triggerfish"
   }
  ],
+ "Fossil 5e": [
+  {
+   "brand": "Fossil",
+   "name": "Fossil Gen 5e",
+   "device": "sole"
+  }
+ ],
+ "Fossil SS": [
+  {
+   "brand": "Fossil",
+   "name": "Fossil Gen 5e",
+   "device": "sole"
+  }
+ ],
  "Fadelite": [
   {
    "brand": "Fossil",
@@ -42329,6 +42365,13 @@
    "brand": "Vu Televisions",
    "name": "xiaoyushan-vu",
    "device": "xiaoyushan"
+  }
+ ],
+ "Stella Omega Plus": [
+  {
+   "brand": "G-TOUCH",
+   "name": "Stella Omega Plus",
+   "device": "Stella_Omega_Plus"
   }
  ],
  "Stella X": [
@@ -99325,6 +99368,11 @@
    "brand": "Mintt",
    "name": "M1",
    "device": "M1"
+  },
+  {
+   "brand": "ZOOMME",
+   "name": "M1",
+   "device": "M1"
   }
  ],
  "M2S": [
@@ -115776,6 +115824,13 @@
    "device": "S5702LA"
   }
  ],
+ "S6003L": [
+  {
+   "brand": "Nuu",
+   "name": "X6 Plus",
+   "device": "S6003LA"
+  }
+ ],
  "S5704L": [
   {
    "brand": "Nuu",
@@ -116467,6 +116522,25 @@
    "brand": "OnePlus",
    "name": "OnePlus 8 Pro",
    "device": "OnePlus8Pro"
+  }
+ ],
+ "KB2005": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 8T",
+   "device": "OnePlus8T"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus8T",
+   "device": "OnePlus8T"
+  }
+ ],
+ "KB2007": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 8T+ 5G",
+   "device": "OnePlus8TTMO"
   }
  ],
  "AC2003": [

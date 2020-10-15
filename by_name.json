@@ -8555,6 +8555,11 @@
    "model": "ATV R2"
   },
   {
+   "brand": "Kalley",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
    "brand": "LGE",
    "device": "cosmo",
    "model": "LG Google TV"
@@ -8578,11 +8583,6 @@
    "brand": "LLOYD",
    "device": "R1",
    "model": "ATV R1"
-  },
-  {
-   "brand": "LLOYD",
-   "device": "R2",
-   "model": "ATV R2"
   },
   {
    "brand": "Master-G",
@@ -8650,6 +8650,11 @@
    "model": "PANASONIC TV"
   },
   {
+   "brand": "SCHNEIDER",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
    "brand": "Sanyo",
    "device": "R1",
    "model": "ATV R1"
@@ -8663,6 +8668,16 @@
    "brand": "Singer",
    "device": "R1",
    "model": "ATV R1"
+  },
+  {
+   "brand": "Singer",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Strong",
+   "device": "R2",
+   "model": "ATV R2"
   },
   {
    "brand": "THE UHD",
@@ -9286,6 +9301,28 @@
    "brand": "VANTEC",
    "device": "G5",
    "model": "G5"
+  }
+ ],
+ "G9": [
+  {
+   "brand": "Advan digital",
+   "device": "ADVAN_G9",
+   "model": "6501"
+  },
+  {
+   "brand": "Blu",
+   "device": "G0130WW",
+   "model": "G9"
+  },
+  {
+   "brand": "Blu",
+   "device": "G0130WW_SR",
+   "model": "G9"
+  },
+  {
+   "brand": "G-Tab",
+   "device": "G9",
+   "model": "G9"
   }
  ],
  "I Tab": [
@@ -25653,23 +25690,6 @@
    "brand": "Huawei",
    "device": "hwRIO-L03",
    "model": "HUAWEI RIO-L03"
-  }
- ],
- "G9": [
-  {
-   "brand": "Blu",
-   "device": "G0130WW",
-   "model": "G9"
-  },
-  {
-   "brand": "Blu",
-   "device": "G0130WW_SR",
-   "model": "G9"
-  },
-  {
-   "brand": "G-Tab",
-   "device": "G9",
-   "model": "G9"
   }
  ],
  "G9 PRO": [
@@ -46762,6 +46782,18 @@
    "model": "Lexington 2"
   }
  ],
+ "Fossil Gen 5e": [
+  {
+   "brand": "Fossil",
+   "device": "sole",
+   "model": "Fossil 5e"
+  },
+  {
+   "brand": "Fossil",
+   "device": "sole",
+   "model": "Fossil SS"
+  }
+ ],
  "Fossil Sport": [
   {
    "brand": "Fossil",
@@ -48260,6 +48292,13 @@
    "brand": "G-Guard",
    "device": "xiaoyushan",
    "model": "HiSmartTV A4"
+  }
+ ],
+ "Stella Omega Plus": [
+  {
+   "brand": "G-TOUCH",
+   "device": "Stella_Omega_Plus",
+   "model": "Stella Omega Plus"
   }
  ],
  "Stella X": [
@@ -98160,6 +98199,11 @@
    "brand": "Mintt",
    "device": "M1",
    "model": "M1"
+  },
+  {
+   "brand": "ZOOMME",
+   "device": "M1",
+   "model": "M1"
   }
  ],
  "M2S": [
@@ -113320,6 +113364,13 @@
    "model": "S4001W"
   }
  ],
+ "X6 Plus": [
+  {
+   "brand": "Nuu",
+   "device": "S6003LA",
+   "model": "S6003L"
+  }
+ ],
  "X6mini": [
   {
    "brand": "Nuu",
@@ -114009,6 +114060,20 @@
    "model": "IN2023"
   }
  ],
+ "OnePlus 8T": [
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus8T",
+   "model": "KB2005"
+  }
+ ],
+ "OnePlus 8T+ 5G": [
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus8TTMO",
+   "model": "KB2007"
+  }
+ ],
  "OnePlus Nord": [
   {
    "brand": "OnePlus",
@@ -114061,6 +114126,13 @@
    "brand": "OnePlus",
    "device": "OnePlus6TSingle",
    "model": "ONEPLUS A6013"
+  }
+ ],
+ "OnePlus8T": [
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus8T",
+   "model": "KB2005"
   }
  ],
  "Oneplus_Dosa_IN": [

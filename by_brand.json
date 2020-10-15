@@ -2146,6 +2146,11 @@
    "model": "6201"
   },
   {
+   "device": "ADVAN_G9",
+   "name": "G9",
+   "model": "6501"
+  },
+  {
    "device": "ADVAN_i_Tab",
    "name": "I Tab",
    "model": "i7_Plus"
@@ -28796,6 +28801,16 @@
    "model": "Lexington 2"
   },
   {
+   "device": "sole",
+   "name": "Fossil Gen 5e",
+   "model": "Fossil 5e"
+  },
+  {
+   "device": "sole",
+   "name": "Fossil Gen 5e",
+   "model": "Fossil SS"
+  },
+  {
    "device": "darter",
    "name": "Fossil Sport",
    "model": "Fadelite"
@@ -30094,6 +30109,11 @@
   }
  ],
  "G-TOUCH": [
+  {
+   "device": "Stella_Omega_Plus",
+   "name": "Stella Omega Plus",
+   "model": "Stella Omega Plus"
+  },
   {
    "device": "Stella_X",
    "name": "Stella X",
@@ -57284,6 +57304,11 @@
  ],
  "Kalley": [
   {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
    "device": "BLACK_PRO",
    "name": "BLACK_PRO",
    "model": "BLACK_PRO"
@@ -66343,11 +66368,6 @@
    "device": "R1",
    "name": "Android TV",
    "model": "ATV R1"
-  },
-  {
-   "device": "R2",
-   "name": "Android TV",
-   "model": "ATV R2"
   }
  ],
  "LNMBBS": [
@@ -86363,6 +86383,11 @@
    "model": "S5702L"
   },
   {
+   "device": "S6003LA",
+   "name": "X6 Plus",
+   "model": "S6003L"
+  },
+  {
    "device": "S5702LA",
    "name": "X6mini",
    "model": "S5702L"
@@ -87038,6 +87063,16 @@
    "model": "IN2023"
   },
   {
+   "device": "OnePlus8T",
+   "name": "OnePlus 8T",
+   "model": "KB2005"
+  },
+  {
+   "device": "OnePlus8TTMO",
+   "name": "OnePlus 8T+ 5G",
+   "model": "KB2007"
+  },
+  {
    "device": "Nord",
    "name": "OnePlus Nord",
    "model": "AC2003"
@@ -87076,6 +87111,11 @@
    "device": "OnePlus6TSingle",
    "name": "OnePlus6T",
    "model": "ONEPLUS A6013"
+  },
+  {
+   "device": "OnePlus8T",
+   "name": "OnePlus8T",
+   "model": "KB2005"
   },
   {
    "device": "Oneplus_Dosa_IN",
@@ -99755,6 +99795,11 @@
   }
  ],
  "SCHNEIDER": [
+  {
+   "device": "R1",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
   {
    "device": "bangbae",
    "name": "SCHNEIDER",
@@ -115954,6 +115999,11 @@
    "model": "ATV R1"
   },
   {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
    "device": "shibuya",
    "name": "SingerTV",
    "model": "SingerTV"
@@ -120602,6 +120652,11 @@
   }
  ],
  "Strong": [
+  {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
   {
    "device": "komagome",
    "name": "Strong",
@@ -142774,6 +142829,11 @@
   }
  ],
  "ZOOMME": [
+  {
+   "device": "M1",
+   "name": "M1",
+   "model": "M1"
+  },
   {
    "device": "M2",
    "name": "M2",
