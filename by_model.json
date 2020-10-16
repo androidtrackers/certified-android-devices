@@ -15644,6 +15644,13 @@
    "device": "Bmobile_B50Pro_MV03"
   }
  ],
+ "B55": [
+  {
+   "brand": "BMobile",
+   "name": "B55",
+   "device": "B55"
+  }
+ ],
  "Bella": [
   {
    "brand": "BMobile",
@@ -20835,6 +20842,11 @@
   }
  ],
  "T5 Plus": [
+  {
+   "brand": "Blu",
+   "name": "T5 Plus",
+   "device": "T0060TT"
+  },
   {
    "brand": "Blu",
    "name": "T5 Plus",
@@ -58246,6 +58258,11 @@
   },
   {
    "brand": "Honda",
+   "name": "Ridgline",
+   "device": "koelsch"
+  },
+  {
+   "brand": "Honda",
    "name": "Spirior",
    "device": "koelsch"
   }
@@ -79510,6 +79527,13 @@
    "brand": "Kodak",
    "name": "IM5",
    "device": "IM5"
+  }
+ ],
+ "KODAK SMARTWAY L1 PRO": [
+  {
+   "brand": "Kodak",
+   "name": "KODAK SMARTWAY L1 PRO",
+   "device": "L1_PRO"
   }
  ],
  "KODAK SMARTWAY T3": [
@@ -106776,6 +106800,13 @@
    "device": "catfish_ext"
   }
  ],
+ "TicWatch Pro 3": [
+  {
+   "brand": "Mobvoi",
+   "name": "TicWatch Pro 3 Cellular/LTE",
+   "device": "rover"
+  }
+ ],
  "TicWatch Pro 3 GPS": [
   {
    "brand": "Mobvoi",
@@ -117057,6 +117088,13 @@
    "device": "A31u"
   }
  ],
+ "PDVM00": [
+  {
+   "brand": "Oppo",
+   "name": "A32 中国版",
+   "device": "OP4E35"
+  }
+ ],
  "A33": [
   {
    "brand": "Oppo",
@@ -117370,6 +117408,34 @@
    "device": "A53"
   }
  ],
+ "CPH2127": [
+  {
+   "brand": "Oppo",
+   "name": "A53",
+   "device": "OP4EFDL1"
+  }
+ ],
+ "CPH2131": [
+  {
+   "brand": "Oppo",
+   "name": "A53",
+   "device": "OP4EFDL1"
+  }
+ ],
+ "CPH2133": [
+  {
+   "brand": "Oppo",
+   "name": "A53",
+   "device": "OP4EFDL1"
+  }
+ ],
+ "CPH2139": [
+  {
+   "brand": "Oppo",
+   "name": "A53",
+   "device": "OP4EFDL1"
+  }
+ ],
  "A53f": [
   {
    "brand": "Oppo",
@@ -117389,6 +117455,13 @@
    "brand": "Oppo",
    "name": "A53m",
    "device": "A53"
+  }
+ ],
+ "CPH2135": [
+  {
+   "brand": "Oppo",
+   "name": "A53s",
+   "device": "OP4EFDL1"
   }
  ],
  "A53w": [
@@ -117645,6 +117718,20 @@
    "brand": "Oppo",
    "name": "A92",
    "device": "OP4C72L1"
+  }
+ ],
+ "CPH2121": [
+  {
+   "brand": "Oppo",
+   "name": "A93",
+   "device": "OP4C51L1"
+  }
+ ],
+ "CPH2123": [
+  {
+   "brand": "Oppo",
+   "name": "A93",
+   "device": "OP4C51L1"
   }
  ],
  "PCEM00": [
@@ -117921,6 +118008,13 @@
    "brand": "Oppo",
    "name": "F11 Pro",
    "device": "OP4863"
+  }
+ ],
+ "CPH2119": [
+  {
+   "brand": "Oppo",
+   "name": "F17 Pro",
+   "device": "OP4C51L1"
   }
  ],
  "F1f": [
@@ -119161,6 +119255,13 @@
    "device": "OP4A57"
   }
  ],
+ "CPH2065": [
+  {
+   "brand": "Oppo",
+   "name": "Reno 4Z 5G",
+   "device": "OP4BDCL1"
+  }
+ ],
  "CPH1983": [
   {
    "brand": "Oppo",
@@ -119304,6 +119405,39 @@
    "brand": "Oppo",
    "name": "Reno3 元气版 5G",
    "device": "OP4AB5"
+  }
+ ],
+ "CPH2091": [
+  {
+   "brand": "Oppo",
+   "name": "Reno4 5G",
+   "device": "OP4C45L1"
+  }
+ ],
+ "CPH2209": [
+  {
+   "brand": "Oppo",
+   "name": "Reno4 F",
+   "device": "OP4C51L1"
+  }
+ ],
+ "CPH2125": [
+  {
+   "brand": "Oppo",
+   "name": "Reno4 Lite",
+   "device": "OP4C51L1"
+  }
+ ],
+ "CPH2089": [
+  {
+   "brand": "Oppo",
+   "name": "Reno4 Pro",
+   "device": "OP4C87L1"
+  },
+  {
+   "brand": "Oppo",
+   "name": "Reno4 Pro 5G",
+   "device": "OP4C87L1"
   }
  ],
  "U707": [
@@ -132016,6 +132150,13 @@
    "device": "excalibur"
   }
  ],
+ "M2007J17C": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 9 pro",
+   "device": "gauguinpro"
+  }
+ ],
  "Redmi Note 9S": [
   {
    "brand": "Redmi",
@@ -134228,6 +134369,48 @@
    "brand": "SUPERSONIC",
    "name": "TAB7091",
    "device": "TAB7091"
+  }
+ ],
+ "SWTV": [
+  {
+   "brand": "SWTV",
+   "name": "Asia",
+   "device": "SW3_ATV"
+  },
+  {
+   "brand": "SWTV",
+   "name": "Europe",
+   "device": "SW3H_ATV"
+  },
+  {
+   "brand": "SWTV",
+   "name": "North America",
+   "device": "SW3_ATV"
+  },
+  {
+   "brand": "SWTV",
+   "name": "South America",
+   "device": "SW3_ATV"
+  },
+  {
+   "brand": "SWTV",
+   "name": "TV",
+   "device": "SW3H_ATV"
+  },
+  {
+   "brand": "SWTV",
+   "name": "Taiwan",
+   "device": "SW3H_ATV"
+  },
+  {
+   "brand": "Skyworth",
+   "name": "APAC 2K TV",
+   "device": "shibuya"
+  },
+  {
+   "brand": "Skyworth",
+   "name": "Euro",
+   "device": "SW3_ATV"
   }
  ],
  "SLTDVD1024": [
@@ -155464,48 +155647,6 @@
    "device": "DMTS17SS"
   }
  ],
- "SWTV": [
-  {
-   "brand": "Skyworth",
-   "name": "APAC 2K TV",
-   "device": "shibuya"
-  },
-  {
-   "brand": "Skyworth",
-   "name": "Asia",
-   "device": "SW3_ATV"
-  },
-  {
-   "brand": "Skyworth",
-   "name": "Euro",
-   "device": "SW3_ATV"
-  },
-  {
-   "brand": "Skyworth",
-   "name": "Europe",
-   "device": "SW3H_ATV"
-  },
-  {
-   "brand": "Skyworth",
-   "name": "North America",
-   "device": "SW3_ATV"
-  },
-  {
-   "brand": "Skyworth",
-   "name": "South America",
-   "device": "SW3_ATV"
-  },
-  {
-   "brand": "Skyworth",
-   "name": "TV",
-   "device": "SW3H_ATV"
-  },
-  {
-   "brand": "Skyworth",
-   "name": "Taiwan",
-   "device": "SW3H_ATV"
-  }
- ],
  "globe": [
   {
    "brand": "Skyworth",
@@ -156829,6 +156970,20 @@
    "brand": "Sony",
    "name": "Xperia 5",
    "device": "SOV41"
+  }
+ ],
+ "A002SO": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 5 II",
+   "device": "A002SO"
+  }
+ ],
+ "SOG02": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 5 II",
+   "device": "SOG02"
   }
  ],
  "XQ-AS52": [

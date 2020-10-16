@@ -19349,6 +19349,26 @@
    "brand": "Oppo",
    "device": "A53",
    "model": "OPPO A53"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP4EFDL1",
+   "model": "CPH2127"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP4EFDL1",
+   "model": "CPH2131"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP4EFDL1",
+   "model": "CPH2133"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP4EFDL1",
+   "model": "CPH2139"
   }
  ],
  "A57B": [
@@ -21051,6 +21071,13 @@
    "brand": "BMobile",
    "device": "Bmobile_B50Pro_MV03",
    "model": "B50Pro"
+  }
+ ],
+ "B55": [
+  {
+   "brand": "BMobile",
+   "device": "B55",
+   "model": "B55"
   }
  ],
  "Bella": [
@@ -26607,6 +26634,11 @@
  "T5 Plus": [
   {
    "brand": "Blu",
+   "device": "T0060TT",
+   "model": "T5 Plus"
+  },
+  {
+   "brand": "Blu",
    "device": "T0070TT_TIGO",
    "model": "T5 Plus"
   }
@@ -31896,7 +31928,7 @@
    "model": "TV"
   },
   {
-   "brand": "Skyworth",
+   "brand": "SWTV",
    "device": "SW3H_ATV",
    "model": "SWTV"
   }
@@ -58198,6 +58230,11 @@
    "model": "haierATVuguisudani"
   },
   {
+   "brand": "SWTV",
+   "device": "SW3_ATV",
+   "model": "SWTV"
+  },
+  {
    "brand": "Seiki",
    "device": "hongik",
    "model": "Seiki Android TV"
@@ -58206,11 +58243,6 @@
    "brand": "Seiki",
    "device": "uguisudani",
    "model": "Seiki Android TV 2K"
-  },
-  {
-   "brand": "Skyworth",
-   "device": "SW3_ATV",
-   "model": "SWTV"
   },
   {
    "brand": "Skyworth",
@@ -63362,6 +63394,13 @@
   }
  ],
  "Ridgeline": [
+  {
+   "brand": "Honda",
+   "device": "koelsch",
+   "model": "MY15ADA"
+  }
+ ],
+ "Ridgline": [
   {
    "brand": "Honda",
    "device": "koelsch",
@@ -81412,6 +81451,13 @@
    "brand": "Kodak",
    "device": "IM5",
    "model": "IM5"
+  }
+ ],
+ "KODAK SMARTWAY L1 PRO": [
+  {
+   "brand": "Kodak",
+   "device": "L1_PRO",
+   "model": "KODAK SMARTWAY L1 PRO"
   }
  ],
  "KODAK SMARTWAY T3": [
@@ -105180,6 +105226,13 @@
    "model": "TicWatch Pro"
   }
  ],
+ "TicWatch Pro 3 Cellular/LTE": [
+  {
+   "brand": "Mobvoi",
+   "device": "rover",
+   "model": "TicWatch Pro 3"
+  }
+ ],
  "TicWatch Pro 3 GPS": [
   {
    "brand": "Mobvoi",
@@ -114589,6 +114642,13 @@
    "model": "A31u"
   }
  ],
+ "A32 中国版": [
+  {
+   "brand": "Oppo",
+   "device": "OP4E35",
+   "model": "PDVM00"
+  }
+ ],
  "A33": [
   {
    "brand": "Oppo",
@@ -114830,6 +114890,13 @@
    "model": "OPPO A53m"
   }
  ],
+ "A53s": [
+  {
+   "brand": "Oppo",
+   "device": "OP4EFDL1",
+   "model": "CPH2135"
+  }
+ ],
  "A53w": [
   {
    "brand": "Oppo",
@@ -114989,6 +115056,18 @@
    "brand": "Oppo",
    "device": "OP4C72L1",
    "model": "CPH2059"
+  }
+ ],
+ "A93": [
+  {
+   "brand": "Oppo",
+   "device": "OP4C51L1",
+   "model": "CPH2121"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP4C51L1",
+   "model": "CPH2123"
   }
  ],
  "A9x": [
@@ -115267,6 +115346,13 @@
    "brand": "Oppo",
    "device": "OP4863",
    "model": "CPH1987"
+  }
+ ],
+ "F17 Pro": [
+  {
+   "brand": "Oppo",
+   "device": "OP4C51L1",
+   "model": "CPH2119"
   }
  ],
  "F1f": [
@@ -116358,6 +116444,13 @@
    "model": "PCKM00"
   }
  ],
+ "Reno 4Z 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP4BDCL1",
+   "model": "CPH2065"
+  }
+ ],
  "Reno A": [
   {
    "brand": "Oppo",
@@ -116494,6 +116587,41 @@
    "brand": "Oppo",
    "device": "OP4AB5",
    "model": "PCLM50"
+  }
+ ],
+ "Reno4 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP4C45L1",
+   "model": "CPH2091"
+  }
+ ],
+ "Reno4 F": [
+  {
+   "brand": "Oppo",
+   "device": "OP4C51L1",
+   "model": "CPH2209"
+  }
+ ],
+ "Reno4 Lite": [
+  {
+   "brand": "Oppo",
+   "device": "OP4C51L1",
+   "model": "CPH2125"
+  }
+ ],
+ "Reno4 Pro": [
+  {
+   "brand": "Oppo",
+   "device": "OP4C87L1",
+   "model": "CPH2089"
+  }
+ ],
+ "Reno4 Pro 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP4C87L1",
+   "model": "CPH2089"
   }
  ],
  "U707": [
@@ -118277,7 +118405,7 @@
    "model": "PanasonicTV"
   },
   {
-   "brand": "Skyworth",
+   "brand": "SWTV",
    "device": "SW3_ATV",
    "model": "SWTV"
   },
@@ -128902,6 +129030,13 @@
    "model": "Redmi Note 9 Pro Max"
   }
  ],
+ "Redmi Note 9 pro": [
+  {
+   "brand": "Redmi",
+   "device": "gauguinpro",
+   "model": "M2007J17C"
+  }
+ ],
  "Redmi Note 9S": [
   {
    "brand": "Redmi",
@@ -131098,6 +131233,47 @@
    "brand": "SUPERSONIC",
    "device": "TAB7091",
    "model": "TAB7091"
+  }
+ ],
+ "Europe": [
+  {
+   "brand": "SWTV",
+   "device": "SW3H_ATV",
+   "model": "SWTV"
+  },
+  {
+   "brand": "Skyworth",
+   "device": "globe_eu",
+   "model": "globe"
+  }
+ ],
+ "South America": [
+  {
+   "brand": "SWTV",
+   "device": "SW3_ATV",
+   "model": "SWTV"
+  },
+  {
+   "brand": "Skyworth",
+   "device": "globe_sa",
+   "model": "globe"
+  },
+  {
+   "brand": "Skyworth",
+   "device": "shinjuku",
+   "model": "SA 2K TV"
+  },
+  {
+   "brand": "TCL",
+   "device": "tcl",
+   "model": "Percee TV"
+  }
+ ],
+ "Taiwan": [
+  {
+   "brand": "SWTV",
+   "device": "SW3H_ATV",
+   "model": "SWTV"
   }
  ],
  "SL321AN": [
@@ -148552,18 +148728,6 @@
    "model": "SWTV"
   }
  ],
- "Europe": [
-  {
-   "brand": "Skyworth",
-   "device": "SW3H_ATV",
-   "model": "SWTV"
-  },
-  {
-   "brand": "Skyworth",
-   "device": "globe_eu",
-   "model": "globe"
-  }
- ],
  "Hong Kong": [
   {
    "brand": "Skyworth",
@@ -148621,35 +148785,6 @@
    "brand": "Skyworth",
    "device": "open_fhd_sa",
    "model": "open_fhd"
-  }
- ],
- "South America": [
-  {
-   "brand": "Skyworth",
-   "device": "SW3_ATV",
-   "model": "SWTV"
-  },
-  {
-   "brand": "Skyworth",
-   "device": "globe_sa",
-   "model": "globe"
-  },
-  {
-   "brand": "Skyworth",
-   "device": "shinjuku",
-   "model": "SA 2K TV"
-  },
-  {
-   "brand": "TCL",
-   "device": "tcl",
-   "model": "Percee TV"
-  }
- ],
- "Taiwan": [
-  {
-   "brand": "Skyworth",
-   "device": "SW3H_ATV",
-   "model": "SWTV"
   }
  ],
  "DV8220": [
@@ -149687,6 +149822,16 @@
   }
  ],
  "Xperia 5 II": [
+  {
+   "brand": "Sony",
+   "device": "A002SO",
+   "model": "A002SO"
+  },
+  {
+   "brand": "Sony",
+   "device": "SOG02",
+   "model": "SOG02"
+  },
   {
    "brand": "Sony",
    "device": "XQ-AS52",

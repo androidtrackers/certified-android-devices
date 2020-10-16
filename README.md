@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-10-15
+Last sync is 2020-10-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2081,6 +2081,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|AX965|Bmobile_AX965|AX965|
 |BMobile|B50 PRO|Bmobile_B50Pro|B50Pro|
 |BMobile|B50 PRO|Bmobile_B50Pro_MV03|B50Pro|
+|BMobile|B55|B55|B55|
 |BMobile|Bella|Bella|Bella|
 |BMobile|Bmobile AX1076|Bmobile_AX1076|AX1076|
 |BMobile|Bmobile AX1082|Bmobile_AX1082|AX1082|
@@ -2785,6 +2786,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Studio_XL_2|Studio_XL_2|Studio M6 LTE|
 |Blu|Studio_XL_2|Studio_XL_2|Studio XL 2|
 |Blu|T5|T0050TT|T5|
+|Blu|T5 Plus|T0060TT|T5 Plus|
 |Blu|T5 Plus|T0070TT_TIGO|T5 Plus|
 |Blu|TOUCHBOOK M7|BLU_TOUCHBOOK_M7|BLU TOUCHBOOK M7|
 |Blu|Tank Xtreme 4.0|Tank_Xtreme_4_0|Tank Xtreme 4.0|
@@ -8169,6 +8171,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honda|NSX|koelsch|MY15ADA|
 |Honda|Pilot|koelsch|MY15ADA|
 |Honda|Ridgeline|koelsch|MY15ADA|
+|Honda|Ridgline|koelsch|MY15ADA|
 |Honda|S660|koelsch|MY19ADA|
 |Honda|Spirior|koelsch|MY15ADA|
 |Honda|Unit Assy AVN|h16|SiRFSoC Android|
@@ -11346,6 +11349,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kobo|Vox|pegasus|Vox|
 |Kodak|Ektra|KodakEktra|Ektra|
 |Kodak|IM5|IM5|IM5|
+|Kodak|KODAK SMARTWAY L1 PRO|L1_PRO|KODAK SMARTWAY L1 PRO|
 |Kodak|KODAK SMARTWAY T3|SMARTWAY_T3|KODAK SMARTWAY T3|
 |Kodak|KODAK_SMARTWAY_L1|KODAK_SMARTWAY_L1|KODAK_SMARTWAY_L1|
 |Kodak|KODAK_SMARTWAY_T2|KODAK_SMARTWAY_T2|KODAK_SMARTWAY_T2|
@@ -15438,6 +15442,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobvoi|TicWatch E2/S2|tunny|TicWatch E2|
 |Mobvoi|TicWatch E2/S2|tunny|TicWatch S2|
 |Mobvoi|TicWatch Pro|catfish|TicWatch Pro|
+|Mobvoi|TicWatch Pro 3 Cellular/LTE|rover|TicWatch Pro 3|
 |Mobvoi|TicWatch Pro 3 GPS|rubyfish|TicWatch Pro 3 GPS|
 |Mobvoi|TicWatch Pro 4G|catshark|TicWatch Pro 4G|
 |Mobvoi|TicWatch Pro BT|catfish_ext|TicWatch Pro|
@@ -17034,6 +17039,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A31|A31t|A31|
 |Oppo|A31c|A31c|A31c|
 |Oppo|A31u|A31u|A31u|
+|Oppo|A32 中国版|OP4E35|PDVM00|
 |Oppo|A33|A33|A33|
 |Oppo|A33f|A33|A33f|
 |Oppo|A33f|A33|A33fw|
@@ -17079,9 +17085,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A52 中国版|OP4AE7|PDAM10|
 |Oppo|A52 中国版|OP4AE7|PDAT10|
 |Oppo|A53|A53|OPPO A53|
+|Oppo|A53|OP4EFDL1|CPH2127|
+|Oppo|A53|OP4EFDL1|CPH2131|
+|Oppo|A53|OP4EFDL1|CPH2133|
+|Oppo|A53|OP4EFDL1|CPH2139|
 |Oppo|A53f|A53|A53f|
 |Oppo|A53fw|A53|A53fw|
 |Oppo|A53m|A53|OPPO A53m|
+|Oppo|A53s|OP4EFDL1|CPH2135|
 |Oppo|A53w|A53|A53w|
 |Oppo|A57|A57|OPPO A57|
 |Oppo|A57|A57|OPPO A57t|
@@ -17120,6 +17131,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A9 中国版|OP46F1|PCAT10|
 |Oppo|A91|OP4ACF|PCPM00|
 |Oppo|A92|OP4C72L1|CPH2059|
+|Oppo|A93|OP4C51L1|CPH2121|
+|Oppo|A93|OP4C51L1|CPH2123|
 |Oppo|A9x|OP46F3|PCEM00|
 |Oppo|A9x|OP46F3|PCET00|
 |Oppo|AX5s|CPH1920|CPH1920|
@@ -17162,6 +17175,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|F11|OP4883|CPH1915|
 |Oppo|F11 Pro|OP4863|CPH1969|
 |Oppo|F11 Pro|OP4863|CPH1987|
+|Oppo|F17 Pro|OP4C51L1|CPH2119|
 |Oppo|F1f|F1f|F1f|
 |Oppo|F1f|F1f|F1fw|
 |Oppo|F1f|F1f|F1w|
@@ -17345,6 +17359,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno 10倍变焦版|OP46C3|PCCT00|
 |Oppo|Reno 2|OP4B83L1|CPH1907|
 |Oppo|Reno 2 中国版|OP4A57|PCKM00|
+|Oppo|Reno 4Z 5G|OP4BDCL1|CPH2065|
 |Oppo|Reno A|OP47CFL1|CPH1983|
 |Oppo|Reno Ace|OP4A89|PCLM10|
 |Oppo|Reno Z|OP48A1|CPH1979|
@@ -17367,6 +17382,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno3 Pro|OP4C5FL1|CPH2037|
 |Oppo|Reno3 Pro 5G中国版|OP4A9D|PCRM00|
 |Oppo|Reno3 元气版 5G|OP4AB5|PCLM50|
+|Oppo|Reno4 5G|OP4C45L1|CPH2091|
+|Oppo|Reno4 F|OP4C51L1|CPH2209|
+|Oppo|Reno4 Lite|OP4C51L1|CPH2125|
+|Oppo|Reno4 Pro|OP4C87L1|CPH2089|
+|Oppo|Reno4 Pro 5G|OP4C87L1|CPH2089|
 |Oppo|U3|U3|U3|
 |Oppo|U707|U707|U707|
 |Oppo|U707T|U707T|U707T|
@@ -19297,6 +19317,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 9 Pro|curtana|curtana|
 |Redmi|Redmi Note 9 Pro|joyeuse|Redmi Note 9 Pro|
 |Redmi|Redmi Note 9 Pro Max|excalibur|Redmi Note 9 Pro Max|
+|Redmi|Redmi Note 9 pro|gauguinpro|M2007J17C|
 |Redmi|Redmi Note 9S|curtana|Redmi Note 9 Pro|
 |Redmi|Redmi Note 9S|curtana|Redmi Note 9S|
 |Redway|redway10|redway10|redway10|
@@ -19642,6 +19663,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SUPERSONIC|SC_4317BT|SC_4317BT|SC_4317BT|
 |SUPERSONIC|SC_774KT|SC_774KT|SC_774KT|
 |SUPERSONIC|TAB7091|TAB7091|TAB7091|
+|SWTV|Asia|SW3_ATV|SWTV|
+|SWTV|Europe|SW3H_ATV|SWTV|
+|SWTV|North America|SW3_ATV|SWTV|
+|SWTV|South America|SW3_ATV|SWTV|
+|SWTV|TV|SW3H_ATV|SWTV|
+|SWTV|Taiwan|SW3H_ATV|SWTV|
 |SYLVANIA|SL321AN|kanda|2K Smart TV|
 |SYLVANIA|SLTDVD1024|mdt1005_mk_32|SLTDVD1024|
 |SYLVANIA|SLTDVD9220_C|SLTDVD9220-C|SLTDVD9220-C|
@@ -22756,16 +22783,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SkyLife|skylife LTE TV|DMTS17SS|DMT_1621|
 |Skyview|M5|M5|M5|
 |Skyworth|APAC 2K TV|shibuya|SWTV|
-|Skyworth|Asia|SW3_ATV|SWTV|
 |Skyworth|Asia|globe_ap|globe|
 |Skyworth|Asia|open_fhd_ap|open_fhd|
 |Skyworth|Asia|open_uhd_ap|open_uhd|
 |Skyworth|Euro|SW3_ATV|SWTV|
-|Skyworth|Europe|SW3H_ATV|SWTV|
 |Skyworth|Europe|globe_eu|globe|
 |Skyworth|Hong Kong|open_uhd_hk|open_uhd|
 |Skyworth|METZ 2K TV|shinagawa|METZ 2K TV|
-|Skyworth|North America|SW3_ATV|SWTV|
 |Skyworth|North America|globe_na|globe|
 |Skyworth|North America|shimbashi|2K TV|
 |Skyworth|SWTV-20AE|SW4H|SWTV-20AE|
@@ -22775,11 +22799,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Skyworth|SWTV-20SA|SW4H|SWTV-20SA|
 |Skyworth|Skyworth|grape|HPA02|
 |Skyworth|South Africa|open_fhd_sa|open_fhd|
-|Skyworth|South America|SW3_ATV|SWTV|
 |Skyworth|South America|globe_sa|globe|
 |Skyworth|South America|shinjuku|SA 2K TV|
-|Skyworth|TV|SW3H_ATV|SWTV|
-|Skyworth|Taiwan|SW3H_ATV|SWTV|
 |SledovaniTV|DV8220|DV8220|DV8220|
 |Smadl|Matri8|Matri8|Matri8|
 |Smadl|SMADL|Matri2|Matri2|
@@ -22950,6 +22971,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 5|J9260|J9260|
 |Sony|Xperia 5|SO-01M|SO-01M|
 |Sony|Xperia 5|SOV41|SOV41|
+|Sony|Xperia 5 II|A002SO|A002SO|
+|Sony|Xperia 5 II|SOG02|SOG02|
 |Sony|Xperia 5 II|XQ-AS52|XQ-AS52|
 |Sony|Xperia 5 II|XQ-AS72|XQ-AS72|
 |Sony|Xperia 8|902SO|902SO|

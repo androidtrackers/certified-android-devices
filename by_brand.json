@@ -10679,6 +10679,11 @@
    "model": "B50Pro"
   },
   {
+   "device": "B55",
+   "name": "B55",
+   "model": "B55"
+  },
+  {
    "device": "Bella",
    "name": "Bella",
    "model": "Bella"
@@ -14287,6 +14292,11 @@
    "device": "T0050TT",
    "name": "T5",
    "model": "T5"
+  },
+  {
+   "device": "T0060TT",
+   "name": "T5 Plus",
+   "model": "T5 Plus"
   },
   {
    "device": "T0070TT_TIGO",
@@ -42186,6 +42196,11 @@
   },
   {
    "device": "koelsch",
+   "name": "Ridgline",
+   "model": "MY15ADA"
+  },
+  {
+   "device": "koelsch",
    "name": "S660",
    "model": "MY19ADA"
   },
@@ -58374,6 +58389,11 @@
    "device": "IM5",
    "name": "IM5",
    "model": "IM5"
+  },
+  {
+   "device": "L1_PRO",
+   "name": "KODAK SMARTWAY L1 PRO",
+   "model": "KODAK SMARTWAY L1 PRO"
   },
   {
    "device": "SMARTWAY_T3",
@@ -79214,6 +79234,11 @@
    "model": "TicWatch Pro"
   },
   {
+   "device": "rover",
+   "name": "TicWatch Pro 3 Cellular/LTE",
+   "model": "TicWatch Pro 3"
+  },
+  {
    "device": "rubyfish",
    "name": "TicWatch Pro 3 GPS",
    "model": "TicWatch Pro 3 GPS"
@@ -87486,6 +87511,11 @@
    "model": "A31u"
   },
   {
+   "device": "OP4E35",
+   "name": "A32 中国版",
+   "model": "PDVM00"
+  },
+  {
    "device": "A33",
    "name": "A33",
    "model": "A33"
@@ -87711,6 +87741,26 @@
    "model": "OPPO A53"
   },
   {
+   "device": "OP4EFDL1",
+   "name": "A53",
+   "model": "CPH2127"
+  },
+  {
+   "device": "OP4EFDL1",
+   "name": "A53",
+   "model": "CPH2131"
+  },
+  {
+   "device": "OP4EFDL1",
+   "name": "A53",
+   "model": "CPH2133"
+  },
+  {
+   "device": "OP4EFDL1",
+   "name": "A53",
+   "model": "CPH2139"
+  },
+  {
    "device": "A53",
    "name": "A53f",
    "model": "A53f"
@@ -87724,6 +87774,11 @@
    "device": "A53",
    "name": "A53m",
    "model": "OPPO A53m"
+  },
+  {
+   "device": "OP4EFDL1",
+   "name": "A53s",
+   "model": "CPH2135"
   },
   {
    "device": "A53",
@@ -87914,6 +87969,16 @@
    "device": "OP4C72L1",
    "name": "A92",
    "model": "CPH2059"
+  },
+  {
+   "device": "OP4C51L1",
+   "name": "A93",
+   "model": "CPH2121"
+  },
+  {
+   "device": "OP4C51L1",
+   "name": "A93",
+   "model": "CPH2123"
   },
   {
    "device": "OP46F3",
@@ -88124,6 +88189,11 @@
    "device": "OP4863",
    "name": "F11 Pro",
    "model": "CPH1987"
+  },
+  {
+   "device": "OP4C51L1",
+   "name": "F17 Pro",
+   "model": "CPH2119"
   },
   {
    "device": "F1f",
@@ -89041,6 +89111,11 @@
    "model": "PCKM00"
   },
   {
+   "device": "OP4BDCL1",
+   "name": "Reno 4Z 5G",
+   "model": "CPH2065"
+  },
+  {
    "device": "OP47CFL1",
    "name": "Reno A",
    "model": "CPH1983"
@@ -89149,6 +89224,31 @@
    "device": "OP4AB5",
    "name": "Reno3 元气版 5G",
    "model": "PCLM50"
+  },
+  {
+   "device": "OP4C45L1",
+   "name": "Reno4 5G",
+   "model": "CPH2091"
+  },
+  {
+   "device": "OP4C51L1",
+   "name": "Reno4 F",
+   "model": "CPH2209"
+  },
+  {
+   "device": "OP4C51L1",
+   "name": "Reno4 Lite",
+   "model": "CPH2125"
+  },
+  {
+   "device": "OP4C87L1",
+   "name": "Reno4 Pro",
+   "model": "CPH2089"
+  },
+  {
+   "device": "OP4C87L1",
+   "name": "Reno4 Pro 5G",
+   "model": "CPH2089"
   },
   {
    "device": "U3",
@@ -99057,6 +99157,11 @@
    "model": "Redmi Note 9 Pro Max"
   },
   {
+   "device": "gauguinpro",
+   "name": "Redmi Note 9 pro",
+   "model": "M2007J17C"
+  },
+  {
    "device": "curtana",
    "name": "Redmi Note 9S",
    "model": "Redmi Note 9 Pro"
@@ -100902,6 +101007,38 @@
    "device": "TAB7091",
    "name": "TAB7091",
    "model": "TAB7091"
+  }
+ ],
+ "SWTV": [
+  {
+   "device": "SW3_ATV",
+   "name": "Asia",
+   "model": "SWTV"
+  },
+  {
+   "device": "SW3H_ATV",
+   "name": "Europe",
+   "model": "SWTV"
+  },
+  {
+   "device": "SW3_ATV",
+   "name": "North America",
+   "model": "SWTV"
+  },
+  {
+   "device": "SW3_ATV",
+   "name": "South America",
+   "model": "SWTV"
+  },
+  {
+   "device": "SW3H_ATV",
+   "name": "TV",
+   "model": "SWTV"
+  },
+  {
+   "device": "SW3H_ATV",
+   "name": "Taiwan",
+   "model": "SWTV"
   }
  ],
  "SYLVANIA": [
@@ -116582,11 +116719,6 @@
    "model": "SWTV"
   },
   {
-   "device": "SW3_ATV",
-   "name": "Asia",
-   "model": "SWTV"
-  },
-  {
    "device": "globe_ap",
    "name": "Asia",
    "model": "globe"
@@ -116607,11 +116739,6 @@
    "model": "SWTV"
   },
   {
-   "device": "SW3H_ATV",
-   "name": "Europe",
-   "model": "SWTV"
-  },
-  {
    "device": "globe_eu",
    "name": "Europe",
    "model": "globe"
@@ -116625,11 +116752,6 @@
    "device": "shinagawa",
    "name": "METZ 2K TV",
    "model": "METZ 2K TV"
-  },
-  {
-   "device": "SW3_ATV",
-   "name": "North America",
-   "model": "SWTV"
   },
   {
    "device": "globe_na",
@@ -116677,11 +116799,6 @@
    "model": "open_fhd"
   },
   {
-   "device": "SW3_ATV",
-   "name": "South America",
-   "model": "SWTV"
-  },
-  {
    "device": "globe_sa",
    "name": "South America",
    "model": "globe"
@@ -116690,16 +116807,6 @@
    "device": "shinjuku",
    "name": "South America",
    "model": "SA 2K TV"
-  },
-  {
-   "device": "SW3H_ATV",
-   "name": "TV",
-   "model": "SWTV"
-  },
-  {
-   "device": "SW3H_ATV",
-   "name": "Taiwan",
-   "model": "SWTV"
   }
  ],
  "SledovaniTV": [
@@ -117596,6 +117703,16 @@
    "device": "SOV41",
    "name": "Xperia 5",
    "model": "SOV41"
+  },
+  {
+   "device": "A002SO",
+   "name": "Xperia 5 II",
+   "model": "A002SO"
+  },
+  {
+   "device": "SOG02",
+   "name": "Xperia 5 II",
+   "model": "SOG02"
   },
   {
    "device": "XQ-AS52",
