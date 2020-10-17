@@ -131247,6 +131247,37 @@
    "model": "globe"
   }
  ],
+ "SWTV-20AE": [
+  {
+   "brand": "SWTV",
+   "device": "SW4H",
+   "model": "SWTV-20AE"
+  }
+ ],
+ "SWTV-20N": [
+  {
+   "brand": "SWTV",
+   "device": "SW4H",
+   "model": "SWTV-20AE"
+  },
+  {
+   "brand": "SWTV",
+   "device": "SW4H",
+   "model": "SWTV-20NA"
+  }
+ ],
+ "SWTV-20SA": [
+  {
+   "brand": "SWTV",
+   "device": "SW4H",
+   "model": "SWTV-20AE"
+  },
+  {
+   "brand": "SWTV",
+   "device": "SW4H",
+   "model": "SWTV-20SA"
+  }
+ ],
  "South America": [
   {
    "brand": "SWTV",
@@ -148742,37 +148773,6 @@
    "model": "METZ 2K TV"
   }
  ],
- "SWTV-20AE": [
-  {
-   "brand": "Skyworth",
-   "device": "SW4H",
-   "model": "SWTV-20AE"
-  }
- ],
- "SWTV-20N": [
-  {
-   "brand": "Skyworth",
-   "device": "SW4H",
-   "model": "SWTV-20AE"
-  },
-  {
-   "brand": "Skyworth",
-   "device": "SW4H",
-   "model": "SWTV-20NA"
-  }
- ],
- "SWTV-20SA": [
-  {
-   "brand": "Skyworth",
-   "device": "SW4H",
-   "model": "SWTV-20AE"
-  },
-  {
-   "brand": "Skyworth",
-   "device": "SW4H",
-   "model": "SWTV-20SA"
-  }
- ],
  "Skyworth": [
   {
    "brand": "Skyworth",
@@ -155065,6 +155065,11 @@
   {
    "brand": "TCL",
    "device": "Seoul",
+   "model": "5102K"
+  },
+  {
+   "brand": "TCL",
+   "device": "Seoul",
    "model": "5102M"
   },
   {
@@ -158412,11 +158417,6 @@
    "brand": "TCT (Alcatel)",
    "device": "Seoul",
    "model": "5002X_EEA"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "device": "Seoul",
-   "model": "5102K"
   }
  ],
  "Alcatel 1C": [

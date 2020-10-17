@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-10-16
+Last sync is 2020-10-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -19666,6 +19666,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SWTV|Asia|SW3_ATV|SWTV|
 |SWTV|Europe|SW3H_ATV|SWTV|
 |SWTV|North America|SW3_ATV|SWTV|
+|SWTV|SWTV-20AE|SW4H|SWTV-20AE|
+|SWTV|SWTV-20N|SW4H|SWTV-20AE|
+|SWTV|SWTV-20N|SW4H|SWTV-20NA|
+|SWTV|SWTV-20SA|SW4H|SWTV-20AE|
+|SWTV|SWTV-20SA|SW4H|SWTV-20SA|
 |SWTV|South America|SW3_ATV|SWTV|
 |SWTV|TV|SW3H_ATV|SWTV|
 |SWTV|Taiwan|SW3H_ATV|SWTV|
@@ -22792,11 +22797,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Skyworth|METZ 2K TV|shinagawa|METZ 2K TV|
 |Skyworth|North America|globe_na|globe|
 |Skyworth|North America|shimbashi|2K TV|
-|Skyworth|SWTV-20AE|SW4H|SWTV-20AE|
-|Skyworth|SWTV-20N|SW4H|SWTV-20AE|
-|Skyworth|SWTV-20N|SW4H|SWTV-20NA|
-|Skyworth|SWTV-20SA|SW4H|SWTV-20AE|
-|Skyworth|SWTV-20SA|SW4H|SWTV-20SA|
 |Skyworth|Skyworth|grape|HPA02|
 |Skyworth|South Africa|open_fhd_sa|open_fhd|
 |Skyworth|South America|globe_sa|globe|
@@ -23868,6 +23868,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL L10+|Tokyo|5128Y|
 |TCL|TCL L5|U3A_PLUS_4G|5133A|
 |TCL|TCL L7|Seoul|5102I|
+|TCL|TCL L7|Seoul|5102K|
 |TCL|TCL L7|Seoul|5102M|
 |TCL|TCL L7|Seoul|5102P|
 |TCL|TCL L9|U5A_PLUS_4G|5159A|
@@ -24536,7 +24537,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002V|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002X|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002X_EEA|
-|TCT (Alcatel)|Alcatel 1B|Seoul|5102K|
 |TCT (Alcatel)|Alcatel 1C|Curie|5003A|
 |TCT (Alcatel)|Alcatel 1C|Curie|5003D|
 |TCT (Alcatel)|Alcatel 1C|Curie|5003D_EEA|

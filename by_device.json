@@ -117680,27 +117680,27 @@
    "model": "4KTV-0SU"
   },
   {
-   "brand": "Skyworth",
+   "brand": "SWTV",
    "name": "SWTV-20AE",
    "model": "SWTV-20AE"
   },
   {
-   "brand": "Skyworth",
+   "brand": "SWTV",
    "name": "SWTV-20N",
    "model": "SWTV-20AE"
   },
   {
-   "brand": "Skyworth",
+   "brand": "SWTV",
    "name": "SWTV-20N",
    "model": "SWTV-20NA"
   },
   {
-   "brand": "Skyworth",
+   "brand": "SWTV",
    "name": "SWTV-20SA",
    "model": "SWTV-20AE"
   },
   {
-   "brand": "Skyworth",
+   "brand": "SWTV",
    "name": "SWTV-20SA",
    "model": "SWTV-20SA"
   }
@@ -158019,6 +158019,11 @@
   {
    "brand": "TCL",
    "name": "TCL L7",
+   "model": "5102K"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL L7",
    "model": "5102M"
   },
   {
@@ -158150,11 +158155,6 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1B",
    "model": "5002X_EEA"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "Alcatel 1B",
-   "model": "5102K"
   },
   {
    "brand": "TCT (Alcatel)",

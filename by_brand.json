@@ -101026,6 +101026,31 @@
    "model": "SWTV"
   },
   {
+   "device": "SW4H",
+   "name": "SWTV-20AE",
+   "model": "SWTV-20AE"
+  },
+  {
+   "device": "SW4H",
+   "name": "SWTV-20N",
+   "model": "SWTV-20AE"
+  },
+  {
+   "device": "SW4H",
+   "name": "SWTV-20N",
+   "model": "SWTV-20NA"
+  },
+  {
+   "device": "SW4H",
+   "name": "SWTV-20SA",
+   "model": "SWTV-20AE"
+  },
+  {
+   "device": "SW4H",
+   "name": "SWTV-20SA",
+   "model": "SWTV-20SA"
+  },
+  {
    "device": "SW3_ATV",
    "name": "South America",
    "model": "SWTV"
@@ -116764,31 +116789,6 @@
    "model": "2K TV"
   },
   {
-   "device": "SW4H",
-   "name": "SWTV-20AE",
-   "model": "SWTV-20AE"
-  },
-  {
-   "device": "SW4H",
-   "name": "SWTV-20N",
-   "model": "SWTV-20AE"
-  },
-  {
-   "device": "SW4H",
-   "name": "SWTV-20N",
-   "model": "SWTV-20NA"
-  },
-  {
-   "device": "SW4H",
-   "name": "SWTV-20SA",
-   "model": "SWTV-20AE"
-  },
-  {
-   "device": "SW4H",
-   "name": "SWTV-20SA",
-   "model": "SWTV-20SA"
-  },
-  {
    "device": "grape",
    "name": "Skyworth",
    "model": "HPA02"
@@ -122300,6 +122300,11 @@
   {
    "device": "Seoul",
    "name": "TCL L7",
+   "model": "5102K"
+  },
+  {
+   "device": "Seoul",
+   "name": "TCL L7",
    "model": "5102M"
   },
   {
@@ -125638,11 +125643,6 @@
    "device": "Seoul",
    "name": "Alcatel 1B",
    "model": "5002X_EEA"
-  },
-  {
-   "device": "Seoul",
-   "name": "Alcatel 1B",
-   "model": "5102K"
   },
   {
    "device": "Curie",

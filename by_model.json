@@ -134413,6 +134413,37 @@
    "device": "SW3_ATV"
   }
  ],
+ "SWTV-20AE": [
+  {
+   "brand": "SWTV",
+   "name": "SWTV-20AE",
+   "device": "SW4H"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-20N",
+   "device": "SW4H"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-20SA",
+   "device": "SW4H"
+  }
+ ],
+ "SWTV-20NA": [
+  {
+   "brand": "SWTV",
+   "name": "SWTV-20N",
+   "device": "SW4H"
+  }
+ ],
+ "SWTV-20SA": [
+  {
+   "brand": "SWTV",
+   "name": "SWTV-20SA",
+   "device": "SW4H"
+  }
+ ],
  "SLTDVD1024": [
   {
    "brand": "SYLVANIA",
@@ -155707,37 +155738,6 @@
    "device": "shimbashi"
   }
  ],
- "SWTV-20AE": [
-  {
-   "brand": "Skyworth",
-   "name": "SWTV-20AE",
-   "device": "SW4H"
-  },
-  {
-   "brand": "Skyworth",
-   "name": "SWTV-20N",
-   "device": "SW4H"
-  },
-  {
-   "brand": "Skyworth",
-   "name": "SWTV-20SA",
-   "device": "SW4H"
-  }
- ],
- "SWTV-20NA": [
-  {
-   "brand": "Skyworth",
-   "name": "SWTV-20N",
-   "device": "SW4H"
-  }
- ],
- "SWTV-20SA": [
-  {
-   "brand": "Skyworth",
-   "name": "SWTV-20SA",
-   "device": "SW4H"
-  }
- ],
  "HPA02": [
   {
    "brand": "Skyworth",
@@ -162663,6 +162663,13 @@
    "device": "Seoul"
   }
  ],
+ "5102K": [
+  {
+   "brand": "TCL",
+   "name": "TCL L7",
+   "device": "Seoul"
+  }
+ ],
  "5102M": [
   {
    "brand": "TCL",
@@ -167388,13 +167395,6 @@
   }
  ],
  "5002X_EEA": [
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "Alcatel 1B",
-   "device": "Seoul"
-  }
- ],
- "5102K": [
   {
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1B",
