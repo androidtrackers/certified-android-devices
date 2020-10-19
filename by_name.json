@@ -25084,6 +25084,13 @@
    "model": "Advance L4"
   }
  ],
+ "Advance L5": [
+  {
+   "brand": "Blu",
+   "device": "A390T",
+   "model": "Advance L5"
+  }
+ ],
  "Advance_A7": [
   {
    "brand": "Blu",
@@ -25262,6 +25269,11 @@
   }
  ],
  "C5L": [
+  {
+   "brand": "Blu",
+   "device": "C0010TT",
+   "model": "C5L"
+  },
   {
    "brand": "Blu",
    "device": "C0040",
@@ -26600,6 +26612,11 @@
   }
  ],
  "T5": [
+  {
+   "brand": "Blu",
+   "device": "T0040TT",
+   "model": "T5"
+  },
   {
    "brand": "Blu",
    "device": "T0050TT",
@@ -34858,6 +34875,13 @@
    "brand": "Coppernic",
    "device": "C-One_v2_e-ID",
    "model": "C-One"
+  }
+ ],
+ "CTB1016G": [
+  {
+   "brand": "Core Innovations",
+   "device": "CTB1016G",
+   "model": "CTB1016G"
   }
  ],
  "CP-G3": [
@@ -74671,6 +74695,18 @@
    "model": "Infinix X657C"
   }
  ],
+ "SMART HD": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X612B",
+   "model": "Infinix X612B"
+  },
+  {
+   "brand": "Tecno",
+   "device": "Infinix-X612",
+   "model": "Infinix X612"
+  }
+ ],
  "SURF 2": [
   {
    "brand": "Infinix",
@@ -94999,6 +95035,11 @@
   },
   {
    "brand": "Lenovo",
+   "device": "X616F",
+   "model": "Lenovo TB-X616F"
+  },
+  {
+   "brand": "Lenovo",
    "device": "X616M",
    "model": "Lenovo TB-X616M"
   }
@@ -96846,6 +96887,13 @@
    "brand": "Listo",
    "device": "Listo",
    "model": "WEBPAD1002"
+  }
+ ],
+ "LUME": [
+  {
+   "brand": "LitByLeia",
+   "device": "LPD-10W",
+   "model": "LPD-10W"
   }
  ],
  "X15": [
@@ -128377,6 +128425,13 @@
    "model": "RMX1971"
   }
  ],
+ "realme Q2i 5G": [
+  {
+   "brand": "Realme",
+   "device": "RMX2200CN",
+   "model": "RMX2200"
+  }
+ ],
  "realme TV 32": [
   {
    "brand": "Realme",
@@ -128385,11 +128440,6 @@
   }
  ],
  "realme V3 5G": [
-  {
-   "brand": "Realme",
-   "device": "RMX2200CN",
-   "model": "RMX2200"
-  },
   {
    "brand": "Realme",
    "device": "RMX2201CN",
@@ -164038,13 +164088,6 @@
    "brand": "Tecno",
    "device": "TECNO-SA6",
    "model": "TECNO SA6S"
-  }
- ],
- "SMART HD": [
-  {
-   "brand": "Tecno",
-   "device": "Infinix-X612",
-   "model": "Infinix X612"
   }
  ],
  "SPARK": [

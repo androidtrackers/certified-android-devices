@@ -19331,6 +19331,11 @@
    "brand": "Blu",
    "name": "ADVANCE L5",
    "device": "A390"
+  },
+  {
+   "brand": "Blu",
+   "name": "Advance L5",
+   "device": "A390T"
   }
  ],
  "Advance 4.0M": [
@@ -19568,6 +19573,11 @@
   }
  ],
  "C5L": [
+  {
+   "brand": "Blu",
+   "name": "C5L",
+   "device": "C0010TT"
+  },
   {
    "brand": "Blu",
    "name": "C5L",
@@ -20815,6 +20825,11 @@
   }
  ],
  "T5": [
+  {
+   "brand": "Blu",
+   "name": "T5",
+   "device": "T0040TT"
+  },
   {
    "brand": "Blu",
    "name": "T5",
@@ -28865,6 +28880,13 @@
    "brand": "Coppernic",
    "name": "C-five",
    "device": "C-five-WIFI"
+  }
+ ],
+ "CTB1016G": [
+  {
+   "brand": "Core Innovations",
+   "name": "CTB1016G",
+   "device": "CTB1016G"
   }
  ],
  "CP-G3": [
@@ -72628,6 +72650,13 @@
    "device": "Infinix-X657C"
   }
  ],
+ "Infinix X612B": [
+  {
+   "brand": "Infinix",
+   "name": "SMART HD",
+   "device": "Infinix-X612B"
+  }
+ ],
  "Infinix X511": [
   {
    "brand": "Infinix",
@@ -95994,6 +96023,13 @@
    "device": "X606X"
   }
  ],
+ "Lenovo TB-X616F": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M10 FHD Plus",
+   "device": "X616F"
+  }
+ ],
  "Lenovo TB-X616M": [
   {
    "brand": "Lenovo",
@@ -97976,6 +98012,13 @@
    "brand": "Nuvision",
    "name": "TM1088",
    "device": "fiber-wifibt"
+  }
+ ],
+ "LPD-10W": [
+  {
+   "brand": "LitByLeia",
+   "name": "LUME",
+   "device": "LPD-10W"
   }
  ],
  "X15": [
@@ -131433,7 +131476,7 @@
  "RMX2200": [
   {
    "brand": "Realme",
-   "name": "realme V3 5G",
+   "name": "realme Q2i 5G",
    "device": "RMX2200CN"
   }
  ],

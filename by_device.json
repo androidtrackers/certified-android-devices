@@ -20215,6 +20215,13 @@
    "model": "Advance L4"
   }
  ],
+ "A390T": [
+  {
+   "brand": "Blu",
+   "name": "Advance L5",
+   "model": "Advance L5"
+  }
+ ],
  "A210": [
   {
    "brand": "Blu",
@@ -20403,6 +20410,13 @@
    "brand": "Blu",
    "name": "C5 PLUS",
    "model": "C5 Plus"
+  }
+ ],
+ "C0010TT": [
+  {
+   "brand": "Blu",
+   "name": "C5L",
+   "model": "C5L"
   }
  ],
  "C0040": [
@@ -21551,6 +21565,13 @@
    "brand": "Blu",
    "name": "Studio_XL_2",
    "model": "Studio XL 2"
+  }
+ ],
+ "T0040TT": [
+  {
+   "brand": "Blu",
+   "name": "T5",
+   "model": "T5"
   }
  ],
  "T0050TT": [
@@ -29481,6 +29502,13 @@
    "brand": "Coppernic",
    "name": "C-one",
    "model": "C-One"
+  }
+ ],
+ "CTB1016G": [
+  {
+   "brand": "Core Innovations",
+   "name": "CTB1016G",
+   "model": "CTB1016G"
   }
  ],
  "CP-G3": [
@@ -70721,6 +70749,13 @@
    "model": "Infinix X657C"
   }
  ],
+ "Infinix-X612B": [
+  {
+   "brand": "Infinix",
+   "name": "SMART HD",
+   "model": "Infinix X612B"
+  }
+ ],
  "INFINIX_X511": [
   {
    "brand": "Infinix",
@@ -92751,6 +92786,13 @@
    "model": "Lenovo TB-X606X"
   }
  ],
+ "X616F": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M10 FHD Plus",
+   "model": "Lenovo TB-X616F"
+  }
+ ],
  "X616M": [
   {
    "brand": "Lenovo",
@@ -94697,6 +94739,13 @@
    "brand": "Listo",
    "name": "WEBPAD1002",
    "model": "WEBPAD1002"
+  }
+ ],
+ "LPD-10W": [
+  {
+   "brand": "LitByLeia",
+   "name": "LUME",
+   "model": "LPD-10W"
   }
  ],
  "X15": [
@@ -127769,7 +127818,7 @@
  "RMX2200CN": [
   {
    "brand": "Realme",
-   "name": "realme V3 5G",
+   "name": "realme Q2i 5G",
    "model": "RMX2200"
   }
  ],

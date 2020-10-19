@@ -13334,6 +13334,11 @@
    "model": "Advance L4"
   },
   {
+   "device": "A390T",
+   "name": "Advance L5",
+   "model": "Advance L5"
+  },
+  {
    "device": "A210",
    "name": "Advance_A7",
    "model": "Advance A7"
@@ -13457,6 +13462,11 @@
    "device": "C130EQ",
    "name": "C5 PLUS",
    "model": "C5 Plus"
+  },
+  {
+   "device": "C0010TT",
+   "name": "C5L",
+   "model": "C5L"
   },
   {
    "device": "C0040",
@@ -14287,6 +14297,11 @@
    "device": "Studio_XL_2",
    "name": "Studio_XL_2",
    "model": "Studio XL 2"
+  },
+  {
+   "device": "T0040TT",
+   "name": "T5",
+   "model": "T5"
   },
   {
    "device": "T0050TT",
@@ -20183,6 +20198,13 @@
    "device": "C-One_v2_e-ID",
    "name": "C-one",
    "model": "C-One"
+  }
+ ],
+ "Core Innovations": [
+  {
+   "device": "CTB1016G",
+   "name": "CTB1016G",
+   "model": "CTB1016G"
   }
  ],
  "Covia": [
@@ -52995,6 +53017,11 @@
    "model": "Infinix X657C"
   },
   {
+   "device": "Infinix-X612B",
+   "name": "SMART HD",
+   "model": "Infinix X612B"
+  },
+  {
    "device": "INFINIX_X511",
    "name": "SURF 2",
    "model": "Infinix X511"
@@ -70839,6 +70866,11 @@
    "model": "Lenovo TB-X606X"
   },
   {
+   "device": "X616F",
+   "name": "Lenovo Tab M10 FHD Plus",
+   "model": "Lenovo TB-X616F"
+  },
+  {
    "device": "X616M",
    "name": "Lenovo Tab M10 FHD Plus",
    "model": "Lenovo TB-X616M"
@@ -72416,6 +72448,13 @@
    "device": "Listo",
    "name": "WEBPAD1002",
    "model": "WEBPAD1002"
+  }
+ ],
+ "LitByLeia": [
+  {
+   "device": "LPD-10W",
+   "name": "LUME",
+   "model": "LPD-10W"
   }
  ],
  "LiteTEL": [
@@ -98625,14 +98664,14 @@
    "model": "RMX1971"
   },
   {
+   "device": "RMX2200CN",
+   "name": "realme Q2i 5G",
+   "model": "RMX2200"
+  },
+  {
    "device": "ikebukuro",
    "name": "realme TV 32",
    "model": "AI PONT"
-  },
-  {
-   "device": "RMX2200CN",
-   "name": "realme V3 5G",
-   "model": "RMX2200"
   },
   {
    "device": "RMX2201CN",

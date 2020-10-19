@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-10-18
+Last sync is 2020-10-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2594,6 +2594,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Advance A6|A190|Advance A6|
 |Blu|Advance L4|A350|Advance L4|
 |Blu|Advance L4|A350A|Advance L4|
+|Blu|Advance L5|A390T|Advance L5|
 |Blu|Advance_A7|A210|Advance A7|
 |Blu|Advance A5 Plus LTE|A0031WW|Advance A5 Plus LTE|
 |Blu|B110DL|B110DL|B110DL|
@@ -2619,6 +2620,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|C5 2019|C111|C5 2019|
 |Blu|C5 LTE|C0010UU|C5 LTE|
 |Blu|C5 PLUS|C130EQ|C5 Plus|
+|Blu|C5L|C0010TT|C5L|
 |Blu|C5L|C0040|C5L|
 |Blu|C5L|C0040LL|C5L|
 |Blu|C5L|C0050|C5L|
@@ -2785,6 +2787,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Studio_View|S810P|Studio View|
 |Blu|Studio_XL_2|Studio_XL_2|Studio M6 LTE|
 |Blu|Studio_XL_2|Studio_XL_2|Studio XL 2|
+|Blu|T5|T0040TT|T5|
 |Blu|T5|T0050TT|T5|
 |Blu|T5 Plus|T0060TT|T5 Plus|
 |Blu|T5 Plus|T0070TT_TIGO|T5 Plus|
@@ -3909,6 +3912,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Coppernic|C-five|C-five|C-five|
 |Coppernic|C-five|C-five-WIFI|C-five|
 |Coppernic|C-one|C-One_v2_e-ID|C-One|
+|Core Innovations|CTB1016G|CTB1016G|CTB1016G|
 |Covia|CP-G3|CP-G3|CP-G3|
 |Covia|CP-J55a|x5090_rh_j9_covia|CP-J55a|
 |Covia|CP-J55aW|CP_J55aW|CP-J55aW|
@@ -10309,6 +10313,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|S5 Pro|Infinix-X660C|Infinix X660C|
 |Infinix|SMART 5|Infinix-X657B|Infinix X657B|
 |Infinix|SMART 5|Infinix-X657C|Infinix X657C|
+|Infinix|SMART HD|Infinix-X612B|Infinix X612B|
 |Infinix|SURF 2|INFINIX_X511|Infinix X511|
 |Infinix|Smart 2|Infinix-X5515|Infinix X5515|
 |Infinix|Smart 2|Infinix-X5515F|Infinix X5515F|
@@ -13817,6 +13822,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M10 FHD Plus|X606F|Lenovo TB-X606F|
 |Lenovo|Lenovo Tab M10 FHD Plus|X606M|Lenovo TB-X606M|
 |Lenovo|Lenovo Tab M10 FHD Plus|X606X|Lenovo TB-X606X|
+|Lenovo|Lenovo Tab M10 FHD Plus|X616F|Lenovo TB-X616F|
 |Lenovo|Lenovo Tab M10 FHD Plus|X616M|Lenovo TB-X616M|
 |Lenovo|Lenovo Tab M10 FHD Rel|801LV|801LV|
 |Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306F|Lenovo TB-X306F|
@@ -14126,6 +14132,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Linsay|LINSAY_F7HD4CORE|LINSAY-F7HD4CORE|LINSAY F7HD4CORE|
 |Lisheng|LS-Q878|LS-Q878|LS-Q878|
 |Listo|WEBPAD1002|Listo|WEBPAD1002|
+|LitByLeia|LUME|LPD-10W|LPD-10W|
 |LiteTEL|X15|X15|X15|
 |LiteTEL|X20|X20|X20|
 |LiteTEL|X30|X30|X30|
@@ -19213,8 +19220,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme C3|RMX2027|RMX2027|
 |Realme|realme C3i|RMX2027|RMX2027|
 |Realme|realme Q|RMX1971CN|RMX1971|
+|Realme|realme Q2i 5G|RMX2200CN|RMX2200|
 |Realme|realme TV 32|ikebukuro|AI PONT|
-|Realme|realme V3 5G|RMX2200CN|RMX2200|
 |Realme|realme V3 5G|RMX2201CN|RMX2201|
 |Realme|realme V5 5G|RMX2111CN|RMX2111|
 |Realme|realme V5 5G|RMX2112CN|RMX2112|
