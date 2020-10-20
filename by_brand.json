@@ -6864,6 +6864,11 @@
    "model": "A4G"
   },
   {
+   "device": "AS6",
+   "name": "AS6",
+   "model": "AS6"
+  },
+  {
    "device": "Aspera_Swift",
    "name": "Aspera Swift",
    "model": "Swift"
@@ -9356,6 +9361,11 @@
    "model": "PICOpad-7H"
   },
   {
+   "device": "PICOpad_7H_JE",
+   "name": "PICOpad_7H_JE",
+   "model": "PICOpad_7H_JE"
+  },
+  {
    "device": "PICOpad_7H_JL",
    "name": "PICOpad_7H_JL",
    "model": "PICOpad_7H_JL"
@@ -10667,6 +10677,11 @@
    "device": "Bmobile_AX965",
    "name": "AX965",
    "model": "AX965"
+  },
+  {
+   "device": "Bmobile_B50",
+   "name": "B50",
+   "model": "B50"
   },
   {
    "device": "Bmobile_B50Pro",
@@ -12742,6 +12757,11 @@
   {
    "device": "A60Pro",
    "name": "A60 Pro",
+   "model": "A60Pro"
+  },
+  {
+   "device": "A60Pro",
+   "name": "A60Pro",
    "model": "A60Pro"
   },
   {
@@ -23513,6 +23533,11 @@
    "model": "Optima 10 A501S 4G TS1221PL"
   },
   {
+   "device": "TS1229PL",
+   "name": "TS1229PL",
+   "model": "Optima 10 Z802 4G TS1229PL"
+  },
+  {
    "device": "TS7225PL",
    "name": "TS7225PL",
    "model": "Optima 7 Z800 4G TS7225PL"
@@ -25472,6 +25497,11 @@
  ],
  "EXO S.A.": [
   {
+   "device": "EXO_Wave_i716",
+   "name": "EXO_Wave_i716",
+   "model": "EXO_Wave_i716"
+  },
+  {
    "device": "Wave_i007Kids",
    "name": "Wave i007Kids",
    "model": "Wave i007Kids"
@@ -26708,7 +26738,7 @@
  "Estla": [
   {
    "device": "sindorim",
-   "name": "AA650UHD THE SMART PRO",
+   "name": "UHD Android TV",
    "model": "AI PONT"
   }
  ],
@@ -35746,6 +35776,16 @@
    "model": "HTC 5G Hub"
   },
   {
+   "device": "htc_srcdugl",
+   "name": "HTC Desire 12+",
+   "model": "2Q9U100"
+  },
+  {
+   "device": "htc_srcdugl",
+   "name": "HTC Desire 12+",
+   "model": "HTC Desire 20+"
+  },
+  {
    "device": "htc_zddugl",
    "name": "HTC Desire 19s",
    "model": "2Q8L10000"
@@ -35764,6 +35804,16 @@
    "device": "htc_bymdugl",
    "name": "HTC Desire 20 Pro",
    "model": "HTC Desire 20 Pro"
+  },
+  {
+   "device": "htc_srcdugl",
+   "name": "HTC Desire 20+",
+   "model": "2Q9U100"
+  },
+  {
+   "device": "htc_srcdugl",
+   "name": "HTC Desire 20+",
+   "model": "HTC Desire 20+"
   },
   {
    "device": "htc_a3ul",
@@ -38261,6 +38311,13 @@
    "model": "Nautiz_X9"
   }
  ],
+ "Handheld-Wireless": [
+  {
+   "device": "X6",
+   "name": "X6",
+   "model": "X6"
+  }
+ ],
  "HannSpree": [
   {
    "device": "HANNSpad",
@@ -39643,6 +39700,11 @@
    "model": "Hisense F32"
   },
   {
+   "device": "HNR551T",
+   "name": "F50+",
+   "model": "HNR551T"
+  },
+  {
    "device": "mt8389",
    "name": "F5070",
    "model": "F5070"
@@ -40451,6 +40513,16 @@
    "device": "HSSDM636QC",
    "name": "Hisense Infinity H12 Pro",
    "model": "Hisense Infinity H12 Pro"
+  },
+  {
+   "device": "HLTE230E_01",
+   "name": "Hisense Infinity H40 Lite",
+   "model": "HLTE230E_01"
+  },
+  {
+   "device": "HLTE230E_01",
+   "name": "Hisense Infinity H40 Lite",
+   "model": "Hisense Infinity H40 Lite"
   },
   {
    "device": "HLTE230E_20",
@@ -41581,6 +41653,11 @@
    "device": "hisense_gx1200v",
    "name": "TV",
    "model": "hisense_gx1200v"
+  },
+  {
+   "device": "MTK9639",
+   "name": "Toshiba_TV",
+   "model": "Toshiba_TV"
   },
   {
    "device": "HS7731CSP",
@@ -55290,6 +55367,11 @@
    "model": "itel A23P"
   },
   {
+   "device": "itel-L5006C",
+   "name": "A23 Pro",
+   "model": "itel L5006C"
+  },
+  {
    "device": "itel-L5006S",
    "name": "A23 Pro",
    "model": "itel L5006S"
@@ -56006,6 +56088,13 @@
    "model": "TPC-G109"
   }
  ],
+ "JEEMAK": [
+  {
+   "device": "M70",
+   "name": "M70",
+   "model": "M70"
+  }
+ ],
  "JLab": [
   {
    "device": "polaris-p1gms",
@@ -56563,7 +56652,7 @@
   },
   {
    "device": "sindorim",
-   "name": "JSG55UHD-D2",
+   "name": "UHD Android TV",
    "model": "AI PONT"
   }
  ],
@@ -67421,6 +67510,11 @@
    "model": "iris 50 Pro"
   },
   {
+   "device": "LN9910",
+   "name": "Iris61",
+   "model": "LN9910"
+  },
+  {
    "device": "iris820",
    "name": "Iris820",
    "model": "iris820"
@@ -72271,6 +72365,11 @@
    "model": "MFC149"
   },
   {
+   "device": "MFC149",
+   "name": "MFC149",
+   "model": "MFC149"
+  },
+  {
    "device": "MFC191",
    "name": "MFC191",
    "model": "S952"
@@ -75383,6 +75482,11 @@
    "device": "M17QF6_3G",
    "name": "M17QF6_3G",
    "model": "M17QF6_3G"
+  },
+  {
+   "device": "M17QF6_4G",
+   "name": "M17QF6_4G",
+   "model": "M17QF6_4G"
   },
   {
    "device": "M785P",
@@ -78570,6 +78674,11 @@
    "model": "R1 Plus"
   },
   {
+   "device": "R1PLUS_1",
+   "name": "R1Plus",
+   "model": "R1PLUS_1"
+  },
+  {
    "device": "R3",
    "name": "R3",
    "model": "R3"
@@ -78588,6 +78697,11 @@
    "device": "R7",
    "name": "R7",
    "model": "R7"
+  },
+  {
+   "device": "R7_1",
+   "name": "R7",
+   "model": "R7_1"
   },
   {
    "device": "R8",
@@ -82178,6 +82292,11 @@
    "device": "ML_SO0A_M10A_Lite",
    "name": "M10A_Lite",
    "model": "M10A_Lite"
+  },
+  {
+   "device": "ML_SO0G_M10_4G_PRO_PLUS",
+   "name": "M10_4G_PRO",
+   "model": "M10_4G_PRO"
   },
   {
    "device": "ML-JI11-M7_3G_PLUS",
@@ -96289,7 +96408,7 @@
  "Prism": [
   {
    "device": "sindorim",
-   "name": "A55",
+   "name": "UHD Android TV",
    "model": "AI PONT"
   }
  ],
@@ -98489,6 +98608,11 @@
    "model": "RMX2040"
   },
   {
+   "device": "RMX2200CN",
+   "name": "RMX2200",
+   "model": "RMX2200"
+  },
+  {
    "device": "RMX1801",
    "name": "realme 2 Pro",
    "model": "RMX1801"
@@ -98664,11 +98788,6 @@
    "model": "RMX1971"
   },
   {
-   "device": "RMX2200CN",
-   "name": "realme Q2i 5G",
-   "model": "RMX2200"
-  },
-  {
    "device": "ikebukuro",
    "name": "realme TV 32",
    "model": "AI PONT"
@@ -98820,7 +98939,7 @@
   },
   {
    "device": "RMX2121CN",
-   "name": "realme  X7Pro 5G",
+   "name": "realme  X7 Pro",
    "model": "RMX2121"
   },
   {
@@ -102408,6 +102527,11 @@
    "device": "a51",
    "name": "Galaxy A51",
    "model": "SM-S515DL"
+  },
+  {
+   "device": "SC-54A",
+   "name": "Galaxy A51 5G",
+   "model": "SC-54A"
   },
   {
    "device": "a51x",
@@ -106970,6 +107094,11 @@
    "model": "SM-N985F"
   },
   {
+   "device": "SCG06",
+   "name": "Galaxy Note20 Ultra 5G",
+   "model": "SCG06"
+  },
+  {
    "device": "c2q",
    "name": "Galaxy Note20 Ultra 5G",
    "model": "SM-N9860"
@@ -111273,6 +111402,26 @@
    "device": "gtactive2wifi",
    "name": "Galaxy Tab Active2",
    "model": "SM-T390"
+  },
+  {
+   "device": "gtactive3",
+   "name": "Galaxy Tab Active3",
+   "model": "SM-T575"
+  },
+  {
+   "device": "gtactive3",
+   "name": "Galaxy Tab Active3",
+   "model": "SM-T575N"
+  },
+  {
+   "device": "gtactive3",
+   "name": "Galaxy Tab Active3",
+   "model": "SM-T577"
+  },
+  {
+   "device": "gtactive3wifi",
+   "name": "Galaxy Tab Active3",
+   "model": "SM-T570"
   },
   {
    "device": "gtaxladwifikx",
@@ -116291,6 +116440,11 @@
    "model": "SP-5400"
   },
   {
+   "device": "SP-5450",
+   "name": "SP-5450",
+   "model": "SP-5450"
+  },
+  {
    "device": "SP-6000",
    "name": "SP-6000",
    "model": "SP-6000"
@@ -117632,6 +117786,11 @@
    "device": "XQ-AT52",
    "name": "Xperia 1 II",
    "model": "XQ-AT52"
+  },
+  {
+   "device": "XQ-AT72",
+   "name": "Xperia 1 II",
+   "model": "XQ-AT72"
   },
   {
    "device": "J9150",
@@ -132602,6 +132761,11 @@
    "device": "KID_TAB_7_S02",
    "name": "Retailer Stores",
    "model": "KID_TAB_7_S02"
+  },
+  {
+   "device": "Tab104GS2",
+   "name": "Tab104GS2",
+   "model": "Tab104GS2"
   }
  ],
  "TriaPlay": [
@@ -136558,6 +136722,11 @@
   {
    "device": "PD1901",
    "name": "V1901A",
+   "model": "V1901A"
+  },
+  {
+   "device": "PD1901",
+   "name": "V1901K",
    "model": "V1901A"
   },
   {
@@ -140952,7 +141121,7 @@
  "Witooth": [
   {
    "device": "sindorim",
-   "name": "S5520GG",
+   "name": "UHD Android TV",
    "model": "AI PONT"
   }
  ],
@@ -151764,6 +151933,18 @@
    "device": "efiootabn7a",
    "name": "efiootabn7a",
    "model": "Tab N7a"
+  }
+ ],
+ "geaneePro": [
+  {
+   "device": "JT10-X",
+   "name": "JT10-X",
+   "model": "JT10-X"
+  },
+  {
+   "device": "JT07-X",
+   "name": "JT70-X",
+   "model": "JT07-X"
   }
  ],
  "halotel": [

@@ -789,7 +789,7 @@
   },
   {
    "brand": "Estla",
-   "name": "AA650UHD THE SMART PRO",
+   "name": "UHD Android TV",
    "device": "sindorim"
   },
   {
@@ -884,7 +884,7 @@
   },
   {
    "brand": "Jooyon",
-   "name": "JSG55UHD-D2",
+   "name": "UHD Android TV",
    "device": "sindorim"
   },
   {
@@ -954,7 +954,7 @@
   },
   {
    "brand": "Prism",
-   "name": "A55",
+   "name": "UHD Android TV",
    "device": "sindorim"
   },
   {
@@ -1034,7 +1034,7 @@
   },
   {
    "brand": "Witooth",
-   "name": "S5520GG",
+   "name": "UHD Android TV",
    "device": "sindorim"
   }
  ],
@@ -10530,6 +10530,13 @@
    "device": "A4G"
   }
  ],
+ "AS6": [
+  {
+   "brand": "Aspera",
+   "name": "AS6",
+   "device": "AS6"
+  }
+ ],
  "GEM": [
   {
    "brand": "Aspera",
@@ -13792,6 +13799,13 @@
    "device": "PICOpad-7H"
   }
  ],
+ "PICOpad_7H_JE": [
+  {
+   "brand": "Axioo",
+   "name": "PICOpad_7H_JE",
+   "device": "PICOpad_7H_JE"
+  }
+ ],
  "PICOpad_7H_JL": [
   {
    "brand": "Axioo",
@@ -15632,6 +15646,18 @@
    "device": "Bmobile_AX965"
   }
  ],
+ "B50": [
+  {
+   "brand": "BMobile",
+   "name": "B50",
+   "device": "Bmobile_B50"
+  },
+  {
+   "brand": "BenQ",
+   "name": "B50",
+   "device": "B50"
+  }
+ ],
  "B50Pro": [
   {
    "brand": "BMobile",
@@ -17246,13 +17272,6 @@
    "device": "Agora_Lite"
   }
  ],
- "B50": [
-  {
-   "brand": "BenQ",
-   "name": "B50",
-   "device": "B50"
-  }
- ],
  "B502": [
   {
    "brand": "BenQ",
@@ -17834,6 +17853,11 @@
    "brand": "Go Mobile",
    "name": "X6",
    "device": "GM"
+  },
+  {
+   "brand": "Handheld-Wireless",
+   "name": "X6",
+   "device": "X6"
   },
   {
    "brand": "Techpad",
@@ -18554,6 +18578,11 @@
   {
    "brand": "Blackview",
    "name": "A60 Pro",
+   "device": "A60Pro"
+  },
+  {
+   "brand": "Blackview",
+   "name": "A60Pro",
    "device": "A60Pro"
   }
  ],
@@ -33399,6 +33428,13 @@
    "device": "TS1221PL"
   }
  ],
+ "Optima 10 Z802 4G TS1229PL": [
+  {
+   "brand": "Digma",
+   "name": "TS1229PL",
+   "device": "TS1229PL"
+  }
+ ],
  "Optima 7 Z800 4G TS7225PL": [
   {
    "brand": "Digma",
@@ -36001,6 +36037,13 @@
    "device": "EX7W1S"
   }
  ],
+ "EXO_Wave_i716": [
+  {
+   "brand": "EXO S.A.",
+   "name": "EXO_Wave_i716",
+   "device": "EXO_Wave_i716"
+  }
+ ],
  "Wave i007Kids": [
   {
    "brand": "EXO S.A.",
@@ -37759,6 +37802,11 @@
  "M70": [
   {
    "brand": "Evercoss",
+   "name": "M70",
+   "device": "M70"
+  },
+  {
+   "brand": "JEEMAK",
    "name": "M70",
    "device": "M70"
   }
@@ -50076,6 +50124,30 @@
    "device": "htc_rtxspcs"
   }
  ],
+ "2Q9U100": [
+  {
+   "brand": "HTC",
+   "name": "HTC Desire 12+",
+   "device": "htc_srcdugl"
+  },
+  {
+   "brand": "HTC",
+   "name": "HTC Desire 20+",
+   "device": "htc_srcdugl"
+  }
+ ],
+ "HTC Desire 20+": [
+  {
+   "brand": "HTC",
+   "name": "HTC Desire 12+",
+   "device": "htc_srcdugl"
+  },
+  {
+   "brand": "HTC",
+   "name": "HTC Desire 20+",
+   "device": "htc_srcdugl"
+  }
+ ],
  "2Q8L10000": [
   {
    "brand": "HTC",
@@ -55133,6 +55205,13 @@
    "device": "HS8937QC"
   }
  ],
+ "HNR551T": [
+  {
+   "brand": "Hisense",
+   "name": "F50+",
+   "device": "HNR551T"
+  }
+ ],
  "F5070": [
   {
    "brand": "Hisense",
@@ -55321,6 +55400,11 @@
    "brand": "Hisense",
    "name": "HLTE230E",
    "device": "SC9863A"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense Infinity H40 Lite",
+   "device": "HLTE230E_01"
   },
   {
    "brand": "Hisense",
@@ -56176,6 +56260,13 @@
    "brand": "Hisense",
    "name": "Hisense Infinity H12 Pro",
    "device": "HSSDM636QC"
+  }
+ ],
+ "HLTE230E_01": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense Infinity H40 Lite",
+   "device": "HLTE230E_01"
   }
  ],
  "Hisense M36": [
@@ -57677,6 +57768,23 @@
    "brand": "Hisense",
    "name": "TV",
    "device": "hisense_gx1200v"
+  }
+ ],
+ "Toshiba_TV": [
+  {
+   "brand": "Hisense",
+   "name": "Toshiba_TV",
+   "device": "MTK9639"
+  },
+  {
+   "brand": "Toshiba",
+   "name": "Toshiba_TV",
+   "device": "MTK9652"
+  },
+  {
+   "brand": "Toshiba",
+   "name": "Toshiba_TV",
+   "device": "NOVA72685"
   }
  ],
  "Hisense U601S": [
@@ -75563,6 +75671,13 @@
    "device": "itel-A23F"
   }
  ],
+ "itel L5006C": [
+  {
+   "brand": "Itel",
+   "name": "A23 Pro",
+   "device": "itel-L5006C"
+  }
+ ],
  "itel L5006S": [
   {
    "brand": "Itel",
@@ -91416,6 +91531,13 @@
    "device": "iris_50_Pro"
   }
  ],
+ "LN9910": [
+  {
+   "brand": "Lava",
+   "name": "Iris61",
+   "device": "LN9910"
+  }
+ ],
  "iris820": [
   {
    "brand": "Lava",
@@ -97811,6 +97933,11 @@
    "brand": "Lexibook",
    "name": "LexiTab® Master",
    "device": "MFC149"
+  },
+  {
+   "brand": "Lexibook",
+   "name": "MFC149",
+   "device": "MFC149"
   }
  ],
  "LBOX500": [
@@ -101767,6 +101894,13 @@
    "brand": "Mecer",
    "name": "M17QF6_3G",
    "device": "M17QF6_3G"
+  }
+ ],
+ "M17QF6_4G": [
+  {
+   "brand": "Mecer",
+   "name": "M17QF6_4G",
+   "device": "M17QF6_4G"
   }
  ],
  "M785P": [
@@ -105882,6 +106016,13 @@
    "device": "R1_Plus"
   }
  ],
+ "R1PLUS_1": [
+  {
+   "brand": "Mobicell",
+   "name": "R1Plus",
+   "device": "R1PLUS_1"
+  }
+ ],
  "R4": [
   {
    "brand": "Mobicell",
@@ -105906,6 +106047,13 @@
    "brand": "Oppo",
    "name": "R7",
    "device": "R7"
+  }
+ ],
+ "R7_1": [
+  {
+   "brand": "Mobicell",
+   "name": "R7",
+   "device": "R7_1"
   }
  ],
  "R8": [
@@ -110498,6 +110646,13 @@
    "brand": "Multilaser",
    "name": "M10A_Lite",
    "device": "ML_SO0A_M10A_Lite"
+  }
+ ],
+ "M10_4G_PRO": [
+  {
+   "brand": "Multilaser",
+   "name": "M10_4G_PRO",
+   "device": "ML_SO0G_M10_4G_PRO_PLUS"
   }
  ],
  "M7_3G_PLUS": [
@@ -131268,6 +131423,13 @@
    "device": "RMX2040"
   }
  ],
+ "RMX2200": [
+  {
+   "brand": "Realme",
+   "name": "RMX2200",
+   "device": "RMX2200CN"
+  }
+ ],
  "RMX1801": [
   {
    "brand": "Realme",
@@ -131473,13 +131635,6 @@
    "device": "RMX2027"
   }
  ],
- "RMX2200": [
-  {
-   "brand": "Realme",
-   "name": "realme Q2i 5G",
-   "device": "RMX2200CN"
-  }
- ],
  "RMX2201": [
   {
    "brand": "Realme",
@@ -131676,7 +131831,7 @@
  "RMX2121": [
   {
    "brand": "Realme",
-   "name": "realme  X7Pro 5G",
+   "name": "realme  X7 Pro",
    "device": "RMX2121CN"
   }
  ],
@@ -136305,6 +136460,13 @@
    "brand": "Samsung",
    "name": "Galaxy A51",
    "device": "a51"
+  }
+ ],
+ "SC-54A": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A51 5G",
+   "device": "SC-54A"
   }
  ],
  "SM-A5160": [
@@ -142636,6 +142798,13 @@
    "device": "c2s"
   }
  ],
+ "SCG06": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Note20 Ultra 5G",
+   "device": "SCG06"
+  }
+ ],
  "SM-N9860": [
   {
    "brand": "Samsung",
@@ -148525,6 +148694,34 @@
    "brand": "Samsung",
    "name": "Galaxy Tab Active2",
    "device": "gtactive2wifi"
+  }
+ ],
+ "SM-T575": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab Active3",
+   "device": "gtactive3"
+  }
+ ],
+ "SM-T575N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab Active3",
+   "device": "gtactive3"
+  }
+ ],
+ "SM-T577": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab Active3",
+   "device": "gtactive3"
+  }
+ ],
+ "SM-T570": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab Active3",
+   "device": "gtactive3wifi"
   }
  ],
  "SM-T583": [
@@ -155103,6 +155300,13 @@
    "device": "SP-5400"
   }
  ],
+ "SP-5450": [
+  {
+   "brand": "Siragon",
+   "name": "SP-5450",
+   "device": "SP-5450"
+  }
+ ],
  "SP-6000": [
   {
    "brand": "Siragon",
@@ -156859,6 +157063,13 @@
    "brand": "Sony",
    "name": "Xperia 1 II",
    "device": "XQ-AT52"
+  }
+ ],
+ "XQ-AT72": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 1 II",
+   "device": "XQ-AT72"
   }
  ],
  "J9150": [
@@ -175967,18 +176178,6 @@
    "device": "gandof_cheets"
   }
  ],
- "Toshiba_TV": [
-  {
-   "brand": "Toshiba",
-   "name": "Toshiba_TV",
-   "device": "MTK9652"
-  },
-  {
-   "brand": "Toshiba",
-   "name": "Toshiba_TV",
-   "device": "NOVA72685"
-  }
- ],
  "U7900": [
   {
    "brand": "Toshiba",
@@ -176239,6 +176438,13 @@
    "brand": "Trevi",
    "name": "Retailer Stores",
    "device": "KID_TAB_7_S02"
+  }
+ ],
+ "Tab104GS2": [
+  {
+   "brand": "Trevi",
+   "name": "Tab104GS2",
+   "device": "Tab104GS2"
   }
  ],
  "TriaPlayBox": [
@@ -180947,6 +181153,11 @@
   {
    "brand": "Vivo",
    "name": "V1901A",
+   "device": "PD1901"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V1901K",
    "device": "PD1901"
   }
  ],
@@ -200195,6 +200406,20 @@
    "brand": "efioo",
    "name": "efiootabn7a",
    "device": "efiootabn7a"
+  }
+ ],
+ "JT10-X": [
+  {
+   "brand": "geaneePro",
+   "name": "JT10-X",
+   "device": "JT10-X"
+  }
+ ],
+ "JT07-X": [
+  {
+   "brand": "geaneePro",
+   "name": "JT70-X",
+   "device": "JT07-X"
   }
  ],
  "H8502": [
