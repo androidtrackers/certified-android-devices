@@ -592,6 +592,11 @@
    "model": "AT&T TV"
   },
   {
+   "device": "c71kw400-4gb",
+   "name": "AT&T TV",
+   "model": "AT&T TV"
+  },
+  {
    "device": "QS5509QL",
    "name": "QS5509A",
    "model": "QS5509A"
@@ -1919,6 +1924,11 @@
    "device": "bangbae",
    "name": "ACONATIC",
    "model": "Aconatic 4K Android TV"
+  },
+  {
+   "device": "komagome",
+   "name": "Aconatic",
+   "model": "Aconatic 2K Android TV"
   },
   {
    "device": "R1",
@@ -18925,6 +18935,11 @@
    "device": "CE10412",
    "name": "CE10412",
    "model": "CE10412"
+  },
+  {
+   "device": "komagome",
+   "name": "Edison-Continential",
+   "model": "Continental 2K Android TV"
   }
  ],
  "Contixo": [
@@ -24816,6 +24831,13 @@
    "device": "sti6130d350",
    "name": "STI6130-D350",
    "model": "Dynalink TV Box"
+  }
+ ],
+ "Dyon": [
+  {
+   "device": "komagome",
+   "name": "Dyon",
+   "model": "Dyon 2K Android TV"
   }
  ],
  "E-Boda": [
@@ -56032,6 +56054,11 @@
    "model": "itel S12"
   },
   {
+   "device": "itel-W6503",
+   "name": "itel S16 Pro",
+   "model": "itel W6503"
+  },
+  {
    "device": "itel-S32LTE",
    "name": "itel S32LTE",
    "model": "itel S32LTE"
@@ -72692,6 +72719,11 @@
    "model": "T10L"
   },
   {
+   "device": "T10W",
+   "name": "T10W",
+   "model": "LOGIC T10W"
+  },
+  {
    "device": "T3G",
    "name": "T3G",
    "model": "T3G"
@@ -75131,6 +75163,11 @@
   },
   {
    "device": "MS571",
+   "name": "MS571",
+   "model": "MS571"
+  },
+  {
+   "device": "MS571_plus",
    "name": "MS571",
    "model": "MS571"
   },
@@ -122333,6 +122370,11 @@
   {
    "device": "Seattle",
    "name": "TCL 10 5G",
+   "model": "T790B"
+  },
+  {
+   "device": "Seattle",
+   "name": "TCL 10 5G",
    "model": "T790H"
   },
   {
@@ -122454,6 +122496,11 @@
    "device": "Jakarta",
    "name": "TCL L10+",
    "model": "5030E_TCL"
+  },
+  {
+   "device": "Jakarta",
+   "name": "TCL L10+",
+   "model": "5130E"
   },
   {
    "device": "Jakarta",
@@ -129756,6 +129803,11 @@
    "device": "SC777",
    "name": "SC777",
    "model": "SC777"
+  },
+  {
+   "device": "SC777-F",
+   "name": "SC777-F",
+   "model": "SC777-F"
   }
  ],
  "Techpad": [
@@ -133889,6 +133941,11 @@
    "device": "A7_Pro",
    "name": "A7 Pro EEA",
    "model": "A7 Pro"
+  },
+  {
+   "device": "BISON",
+   "name": "BISON",
+   "model": "BISON"
   },
   {
    "device": "F1",
@@ -140175,6 +140232,11 @@
    "device": "W-K380",
    "name": "Sunny5",
    "model": "W-K380-TVM"
+  },
+  {
+   "device": "W-K211",
+   "name": "Sunny5 Lite",
+   "model": "W-K211-TVM"
   },
   {
    "device": "P4901AC",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-10-20
+Last sync is 2020-10-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -112,6 +112,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AT&T|AT&T TV|c71kw200|AT&T TV|
 |AT&T|AT&T TV|c71kw200|c71kw200|
 |AT&T|AT&T TV|c71kw400|AT&T TV|
+|AT&T|AT&T TV|c71kw400-4gb|AT&T TV|
 |AT&T|QS5509A|QS5509QL|QS5509A|
 |AT&T|U202AA|U202AA|U202AA|
 |AT&T|U304AA|U304AA|U304AA|
@@ -371,6 +372,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|Z120|Z2|Z120|
 |Aceson|R726|R726|R726|
 |Aconatic|ACONATIC|bangbae|Aconatic 4K Android TV|
+|Aconatic|Aconatic|komagome|Aconatic 2K Android TV|
 |Aconatic|Android TV|R1|ATV R1|
 |Aconatic|Android TV|R2|ATV R2|
 |Aconatic|DV6068Y|DV6068Y|DV6068Y|
@@ -3659,6 +3661,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Continental Edison|Continental Edison|yeongdeungpo|B UHD Android TV|
 |Continental Edison|Continential_Edison|bangbae|Continental 4K Android TV|
 |Continential|CE10412|CE10412|CE10412|
+|Continential|Edison-Continential|komagome|Continental 2K Android TV|
 |Contixo|K101A|K101A|K101A|
 |Contixo|CONTIXO_V8|CONTIXO-V8|V8|
 |Contixo|K101|K101|K101|
@@ -4798,6 +4801,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Duubee|W1|W1|W1|
 |Duubee|W2|W2|W2|
 |Dynalink|STI6130-D350|sti6130d350|Dynalink TV Box|
+|Dyon|Dyon|komagome|Dyon 2K Android TV|
 |E-Boda|Eclipse G400M|Eclipse_G400M|Eclipse_G400M|
 |E-Boda|Eclipse G500HD|E-Boda_Eclipse_G500HD|Eclipse G500HD|
 |E-Boda|Eclipse G500M|Eclipse_G500M|Eclipse_G500M|
@@ -10906,6 +10910,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel P41|itel_P41|itel P41|
 |Itel|itel Prime 4|itel_Prime4|itel Prime 4|
 |Itel|itel S12|itel-S12|itel S12|
+|Itel|itel S16 Pro|itel-W6503|itel W6503|
 |Itel|itel S32LTE|itel-S32LTE|itel S32LTE|
 |Itel|itel Vision1(P36 Play)|itel-L6005|itel L6005|
 |Itel|itel W4003|itel-W4003|itel W4003|
@@ -14178,6 +14183,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logic Mobility|LOGIC_X60G|LOGIC_X60G|LOGIC_X60G|
 |Logic Mobility|T10B|T10B|T10B|
 |Logic Mobility|T10L|T10L|T10L|
+|Logic Mobility|T10W|T10W|LOGIC T10W|
 |Logic Mobility|T3G|T3G|T3G|
 |Logic Mobility|T4G|T4G|T4G|
 |Logic Mobility|T7_plus|T7_plus|T7_plus|
@@ -14641,6 +14647,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maxcom|MS515|MS515|MS515|
 |Maxcom|MS553|MS553|MS553|
 |Maxcom|MS571|MS571|MS571|
+|Maxcom|MS571|MS571_plus|MS571|
 |Maxcom|MS572|MS572|MS572|
 |Maxcom|RS-401|RS_401|RS-401|
 |Maxfone|MAX 1X|MAX_1X|MAX 1X|
@@ -23873,6 +23880,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|Smartphone|A5A_INFINI|5086D|
 |TCL|Smartphone|A5A_INFINI|5186D|
 |TCL|South America|tcl|Percee TV|
+|TCL|TCL 10 5G|Seattle|T790B|
 |TCL|TCL 10 5G|Seattle|T790H|
 |TCL|TCL 10 5G|Seattle|T790Y|
 |TCL|TCL 10 Plus|Boston|T782H|
@@ -23898,6 +23906,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL L10 Lite|Jakarta_Lite|4187M|
 |TCL|TCL L10 Lite|Jakarta_Lite|4187U|
 |TCL|TCL L10+|Jakarta|5030E_TCL|
+|TCL|TCL L10+|Jakarta|5130E|
 |TCL|TCL L10+|Jakarta|5130G|
 |TCL|TCL L10+|Jakarta|5130I|
 |TCL|TCL L10+|Jakarta|5130J|
@@ -25340,6 +25349,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Technicolor|Wind|uzw4030wnh|WIND|
 |Technicolor|Wind|uzw4030wnh|Wind|
 |Technocrat|SC777|SC777|SC777|
+|Technocrat|SC777-F|SC777-F|SC777-F|
 |Techpad|1016S|1016S|1016S|
 |Techpad|816|816|816|
 |Techpad|GamePad|GamePad|GamePad|
@@ -26131,6 +26141,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|A7|A7_EEA|A7|
 |Umidigi|A7 Pro|A7_Pro|A7 Pro|
 |Umidigi|A7 Pro EEA|A7_Pro|A7 Pro|
+|Umidigi|BISON|BISON|BISON|
 |Umidigi|F1|F1|F1|
 |Umidigi|F1_EEA|F1|F1|
 |Umidigi|F2|F2|F2|
@@ -27341,6 +27352,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|Sunny3 Mini|W_K101S|Sunny3 Mini|
 |Wiko|Sunny4|W-K130|W-K130-TMV|
 |Wiko|Sunny5|W-K380|W-K380-TVM|
+|Wiko|Sunny5 Lite|W-K211|W-K211-TVM|
 |Wiko|TOMMY|P4901AC|TOMMY|
 |Wiko|TOMMY|P4903LA|TOMMY|
 |Wiko|TOMMY2|T3931AC|TOMMY2|

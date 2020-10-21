@@ -6676,6 +6676,11 @@
    "brand": "AT&T",
    "device": "c71kw400",
    "model": "AT&T TV"
+  },
+  {
+   "brand": "AT&T",
+   "device": "c71kw400-4gb",
+   "model": "AT&T TV"
   }
  ],
  "QS5509A": [
@@ -8431,6 +8436,13 @@
    "brand": "Aconatic",
    "device": "bangbae",
    "model": "Aconatic 4K Android TV"
+  }
+ ],
+ "Aconatic": [
+  {
+   "brand": "Aconatic",
+   "device": "komagome",
+   "model": "Aconatic 2K Android TV"
   }
  ],
  "Android TV": [
@@ -33178,6 +33190,13 @@
    "model": "CE10412"
   }
  ],
+ "Edison-Continential": [
+  {
+   "brand": "Continential",
+   "device": "komagome",
+   "model": "Continental 2K Android TV"
+  }
+ ],
  "K101A": [
   {
    "brand": "Contixo",
@@ -41270,6 +41289,13 @@
    "brand": "Dynalink",
    "device": "sti6130d350",
    "model": "Dynalink TV Box"
+  }
+ ],
+ "Dyon": [
+  {
+   "brand": "Dyon",
+   "device": "komagome",
+   "model": "Dyon 2K Android TV"
   }
  ],
  "Eclipse G400M": [
@@ -78525,6 +78551,13 @@
    "model": "itel S12"
   }
  ],
+ "itel S16 Pro": [
+  {
+   "brand": "Itel",
+   "device": "itel-W6503",
+   "model": "itel W6503"
+  }
+ ],
  "itel S32LTE": [
   {
    "brand": "Itel",
@@ -97204,6 +97237,13 @@
    "model": "T10L"
   }
  ],
+ "T10W": [
+  {
+   "brand": "Logic Mobility",
+   "device": "T10W",
+   "model": "LOGIC T10W"
+  }
+ ],
  "T3G": [
   {
    "brand": "Logic Mobility",
@@ -100335,6 +100375,11 @@
   {
    "brand": "Maxcom",
    "device": "MS571",
+   "model": "MS571"
+  },
+  {
+   "brand": "Maxcom",
+   "device": "MS571_plus",
    "model": "MS571"
   }
  ],
@@ -155131,6 +155176,11 @@
   {
    "brand": "TCL",
    "device": "Seattle",
+   "model": "T790B"
+  },
+  {
+   "brand": "TCL",
+   "device": "Seattle",
    "model": "T790H"
   },
   {
@@ -155272,6 +155322,11 @@
    "brand": "TCL",
    "device": "Jakarta",
    "model": "5030E_TCL"
+  },
+  {
+   "brand": "TCL",
+   "device": "Jakarta",
+   "model": "5130E"
   },
   {
    "brand": "TCL",
@@ -163134,6 +163189,13 @@
    "model": "SC777"
   }
  ],
+ "SC777-F": [
+  {
+   "brand": "Technocrat",
+   "device": "SC777-F",
+   "model": "SC777-F"
+  }
+ ],
  "1016S": [
   {
    "brand": "Techpad",
@@ -167954,6 +168016,13 @@
    "brand": "Umidigi",
    "device": "A7_Pro",
    "model": "A7 Pro"
+  }
+ ],
+ "BISON": [
+  {
+   "brand": "Umidigi",
+   "device": "BISON",
+   "model": "BISON"
   }
  ],
  "F1_EEA": [
@@ -175540,6 +175609,13 @@
    "brand": "Wiko",
    "device": "W-K380",
    "model": "W-K380-TVM"
+  }
+ ],
+ "Sunny5 Lite": [
+  {
+   "brand": "Wiko",
+   "device": "W-K211",
+   "model": "W-K211-TVM"
   }
  ],
  "TOMMY": [

@@ -1176,6 +1176,13 @@
    "model": "AT&T TV"
   }
  ],
+ "c71kw400-4gb": [
+  {
+   "brand": "AT&T",
+   "name": "AT&T TV",
+   "model": "AT&T TV"
+  }
+ ],
  "QS5509QL": [
   {
    "brand": "AT&T",
@@ -3341,6 +3348,93 @@
    "brand": "Express Gifts Limited",
    "name": "R726",
    "model": "R726"
+  }
+ ],
+ "komagome": [
+  {
+   "brand": "Aconatic",
+   "name": "Aconatic",
+   "model": "Aconatic 2K Android TV"
+  },
+  {
+   "brand": "AllView",
+   "name": "Allview",
+   "model": "ALLVIEW 2K Android TV"
+  },
+  {
+   "brand": "Bauhn",
+   "name": "Bauhn",
+   "model": "BAUHN 2K Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "Blaupunkt",
+   "model": "BLAUPUNKT 2K Android TV"
+  },
+  {
+   "brand": "Continential",
+   "name": "Edison-Continential",
+   "model": "Continental 2K Android TV"
+  },
+  {
+   "brand": "Dyon",
+   "name": "Dyon",
+   "model": "Dyon 2K Android TV"
+  },
+  {
+   "brand": "EKO",
+   "name": "EKO",
+   "model": "EKO 2K Android TV"
+  },
+  {
+   "brand": "Hitachi",
+   "name": "Hitachi",
+   "model": "Hitachi 2K Android TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Hyundai",
+   "model": "Hyundai 2K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "EU 2K Android TV"
+  },
+  {
+   "brand": "Kivi",
+   "name": "KIVI",
+   "model": "KIVI 2K Android TV"
+  },
+  {
+   "brand": "Linsar",
+   "name": "Linsar",
+   "model": "Linsar 2K Android TV"
+  },
+  {
+   "brand": "MarQ",
+   "name": "MarQ",
+   "model": "MarQ 2K Android TV"
+  },
+  {
+   "brand": "Polaroid",
+   "name": "Polaroid",
+   "model": "Polaroid 2K Android TV"
+  },
+  {
+   "brand": "SCHNEIDER",
+   "name": "SCHNEIDER",
+   "model": "SCHNEIDER 2K Android TV"
+  },
+  {
+   "brand": "Strong",
+   "name": "Strong",
+   "model": "Strong 2K Android TV"
+  },
+  {
+   "brand": "Zepo",
+   "name": "Zephir",
+   "model": "Zephir 2K Android TV"
   }
  ],
  "R1": [
@@ -5795,78 +5889,6 @@
    "brand": "AllView",
    "name": "AX503",
    "model": "AX503"
-  }
- ],
- "komagome": [
-  {
-   "brand": "AllView",
-   "name": "Allview",
-   "model": "ALLVIEW 2K Android TV"
-  },
-  {
-   "brand": "Bauhn",
-   "name": "Bauhn",
-   "model": "BAUHN 2K Android TV"
-  },
-  {
-   "brand": "Blaupunkt",
-   "name": "Blaupunkt",
-   "model": "BLAUPUNKT 2K Android TV"
-  },
-  {
-   "brand": "EKO",
-   "name": "EKO",
-   "model": "EKO 2K Android TV"
-  },
-  {
-   "brand": "Hitachi",
-   "name": "Hitachi",
-   "model": "Hitachi 2K Android TV"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "Hyundai",
-   "model": "Hyundai 2K Android TV"
-  },
-  {
-   "brand": "JVC",
-   "name": "JVC",
-   "model": "EU 2K Android TV"
-  },
-  {
-   "brand": "Kivi",
-   "name": "KIVI",
-   "model": "KIVI 2K Android TV"
-  },
-  {
-   "brand": "Linsar",
-   "name": "Linsar",
-   "model": "Linsar 2K Android TV"
-  },
-  {
-   "brand": "MarQ",
-   "name": "MarQ",
-   "model": "MarQ 2K Android TV"
-  },
-  {
-   "brand": "Polaroid",
-   "name": "Polaroid",
-   "model": "Polaroid 2K Android TV"
-  },
-  {
-   "brand": "SCHNEIDER",
-   "name": "SCHNEIDER",
-   "model": "SCHNEIDER 2K Android TV"
-  },
-  {
-   "brand": "Strong",
-   "name": "Strong",
-   "model": "Strong 2K Android TV"
-  },
-  {
-   "brand": "Zepo",
-   "name": "Zephir",
-   "model": "Zephir 2K Android TV"
   }
  ],
  "C6_Duo": [
@@ -74626,6 +74648,13 @@
    "model": "itel S12"
   }
  ],
+ "itel-W6503": [
+  {
+   "brand": "Itel",
+   "name": "itel S16 Pro",
+   "model": "itel W6503"
+  }
+ ],
  "itel-S32LTE": [
   {
    "brand": "Itel",
@@ -95050,6 +95079,13 @@
    "model": "T10L"
   }
  ],
+ "T10W": [
+  {
+   "brand": "Logic Mobility",
+   "name": "T10W",
+   "model": "LOGIC T10W"
+  }
+ ],
  "T3G": [
   {
    "brand": "Logic Mobility",
@@ -98280,6 +98316,13 @@
   }
  ],
  "MS571": [
+  {
+   "brand": "Maxcom",
+   "name": "MS571",
+   "model": "MS571"
+  }
+ ],
+ "MS571_plus": [
   {
    "brand": "Maxcom",
    "name": "MS571",
@@ -157768,6 +157811,11 @@
   {
    "brand": "TCL",
    "name": "TCL 10 5G",
+   "model": "T790B"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL 10 5G",
    "model": "T790H"
   },
   {
@@ -158119,6 +158167,11 @@
    "brand": "TCL",
    "name": "TCL L10+",
    "model": "5030E_TCL"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL L10+",
+   "model": "5130E"
   },
   {
    "brand": "TCL",
@@ -165423,6 +165476,13 @@
    "model": "SC777"
   }
  ],
+ "SC777-F": [
+  {
+   "brand": "Technocrat",
+   "name": "SC777-F",
+   "model": "SC777-F"
+  }
+ ],
  "1016S": [
   {
    "brand": "Techpad",
@@ -170327,6 +170387,13 @@
    "brand": "Umidigi",
    "name": "A7 Pro EEA",
    "model": "A7 Pro"
+  }
+ ],
+ "BISON": [
+  {
+   "brand": "Umidigi",
+   "name": "BISON",
+   "model": "BISON"
   }
  ],
  "One_Max": [
@@ -177965,6 +178032,13 @@
    "brand": "Wiko",
    "name": "Sunny5",
    "model": "W-K380-TVM"
+  }
+ ],
+ "W-K211": [
+  {
+   "brand": "Wiko",
+   "name": "Sunny5 Lite",
+   "model": "W-K211-TVM"
   }
  ],
  "P4901AC": [
