@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-10-21
+Last sync is 2020-10-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2191,6 +2191,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-5731L Magic S|BQru-5731L|BQ-5731L|
 |BQru|BQ-5732L|BQru-5732L|BQ-5732L|
 |BQru|BQ-5740G|BQru-5740G|BQ-5740G|
+|BQru|BQ-5740G_7731|BQru-5740G_7731|BQ-5740G|
 |BQru|BQ-6000L Aurora|BQru-6000L|BQ-6000L|
 |BQru|BQ-6001 L|BQru-6001L|BQ-6001L|
 |BQru|BQ-6010G|BQru_6010G|BQ-6010G|
@@ -17490,6 +17491,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Orange|Nura|M812|Orange Nura|
 |Orange|Nura2|m823_orange|Nura 2|
 |Orange|Orange|Rise_55|Orange Rise 55|
+|Orange|Orange Neva play|Neva_play|Orange Neva play|
+|Orange|Orange Neva zen|Neva_zen|Orange Neva zen|
 |Orange|Orange Nola play|Nola_play|Orange Nola play|
 |Orange|Orange Rise 33|Rise33|Orange_Rise_33|
 |Orange|Orange Rise 53|Rise_53|Orange Rise 53|
@@ -19970,7 +19973,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A51|a51|SM-A515U1|
 |Samsung|Galaxy A51|a51|SM-A515W|
 |Samsung|Galaxy A51|a51|SM-S515DL|
-|Samsung|Galaxy A51 5G|SC-54A|SC-54A|
 |Samsung|Galaxy A51 5G|a51x|SM-A5160|
 |Samsung|Galaxy A51 5G|a51x|SM-A516B|
 |Samsung|Galaxy A51 5G|a51x|SM-A516N|
@@ -21748,6 +21750,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab Active3|gtactive3|SM-T575|
 |Samsung|Galaxy Tab Active3|gtactive3|SM-T575N|
 |Samsung|Galaxy Tab Active3|gtactive3|SM-T577|
+|Samsung|Galaxy Tab Active3|gtactive3|SM-T577U|
 |Samsung|Galaxy Tab Active3|gtactive3wifi|SM-T570|
 |Samsung|Galaxy Tab Advanced2|gtaxladwifikx|SM-T583|
 |Samsung|Galaxy Tab E|gtel3g|SM-T561M|

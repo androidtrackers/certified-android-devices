@@ -16409,6 +16409,11 @@
    "brand": "BQru",
    "name": "BQ-5740G",
    "device": "BQru-5740G"
+  },
+  {
+   "brand": "BQru",
+   "name": "BQ-5740G_7731",
+   "device": "BQru-5740G_7731"
   }
  ],
  "BQ-6000L": [
@@ -120109,6 +120114,20 @@
    "device": "Rise_55"
   }
  ],
+ "Orange Neva play": [
+  {
+   "brand": "Orange",
+   "name": "Orange Neva play",
+   "device": "Neva_play"
+  }
+ ],
+ "Orange Neva zen": [
+  {
+   "brand": "Orange",
+   "name": "Orange Neva zen",
+   "device": "Neva_zen"
+  }
+ ],
  "Orange Nola play": [
   {
    "brand": "Orange",
@@ -136507,13 +136526,6 @@
    "device": "a51"
   }
  ],
- "SC-54A": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy A51 5G",
-   "device": "SC-54A"
-  }
- ],
  "SM-A5160": [
   {
    "brand": "Samsung",
@@ -148756,6 +148768,13 @@
   }
  ],
  "SM-T577": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab Active3",
+   "device": "gtactive3"
+  }
+ ],
+ "SM-T577U": [
   {
    "brand": "Samsung",
    "name": "Galaxy Tab Active3",
