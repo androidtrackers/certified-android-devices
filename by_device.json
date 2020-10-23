@@ -17481,6 +17481,13 @@
    "model": "BQ-7082G"
   }
  ],
+ "BQru-7083G_Plus": [
+  {
+   "brand": "BQru",
+   "name": "BQ-7083G_Plus",
+   "model": "BQ-7083G"
+  }
+ ],
  "BQru-7084G": [
   {
    "brand": "BQru",
@@ -19553,6 +19560,13 @@
    "brand": "Blackview",
    "name": "BV6100",
    "model": "BV6100"
+  }
+ ],
+ "BV6300": [
+  {
+   "brand": "Blackview",
+   "name": "BV6300",
+   "model": "BV6300"
   }
  ],
  "BV6300Pro": [
@@ -69542,13 +69556,6 @@
    "model": "INOI_7i"
   }
  ],
- "inoiPad_mini_3G": [
-  {
-   "brand": "INOI",
-   "name": "inoiPad_mini_3G",
-   "model": "inoiPad mini 2+32 Wi-Fi+3G"
-  }
- ],
  "MID106-3G": [
   {
    "brand": "INOVALLEY",
@@ -69798,6 +69805,13 @@
    "brand": "IView",
    "name": "SupraPad i785Q",
    "model": "i785Q"
+  }
+ ],
+ "IWRIST_M11": [
+  {
+   "brand": "IWRIST",
+   "name": "IWRIST_M11",
+   "model": "IWRIST_M11"
   }
  ],
  "IWRIST_M7": [
@@ -70219,6 +70233,11 @@
   }
  ],
  "Infinix-X657B": [
+  {
+   "brand": "Infinix",
+   "name": "HOT 10 Lite",
+   "model": "Infinix X657B"
+  },
   {
    "brand": "Infinix",
    "name": "HOT 10 lite",
@@ -150284,6 +150303,13 @@
    "brand": "Siragon",
    "name": "SP-6100",
    "model": "SP-6100"
+  }
+ ],
+ "SP-6150": [
+  {
+   "brand": "Siragon",
+   "name": "SP-6150",
+   "model": "SP-6150"
   }
  ],
  "SP-7050": [

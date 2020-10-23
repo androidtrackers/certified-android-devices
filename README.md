@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-10-22
+Last sync is 2020-10-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2213,6 +2213,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-7081G|BQru-7081|BQru-7081|
 |BQru|BQ-7082G|BQru-7082G_2019|BQ-7082G|
 |BQru|BQ-7082G|BQru-7082G_2020|BQ-7082G|
+|BQru|BQ-7083G_Plus|BQru-7083G_Plus|BQ-7083G|
 |BQru|BQ-7084G|BQru-7084G|BQ-7084G|
 |BQru|BQ-7098G|BQru-7098G|BQ-7098G|
 |BQru|BQ-7098G|BQru-7098G_2020|BQ-7098G|
@@ -2508,6 +2509,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|BV6000_RU|BV6000_RU|BV6000_RU|
 |Blackview|BV6000s|BV6000S|BV6000S|
 |Blackview|BV6100|BV6100|BV6100|
+|Blackview|BV6300|BV6300|BV6300|
 |Blackview|BV6300Pro|BV6300Pro|BV6300Pro|
 |Blackview|BV6800Pro|BV6800Pro|BV6800Pro|
 |Blackview|BV6800Pro-RU|BV6800Pro_RU|BV6800Pro_RU|
@@ -10127,7 +10129,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |INOI|INOI_7_2020|INOI_7_2020|INOI 7 2020|
 |INOI|INOI_7_LITE|INOI_7_LITE|INOI_7_LITE|
 |INOI|INOI_7i|INOI_7i|INOI_7i|
-|INOI|inoiPad_mini_3G|inoiPad_mini_3G|inoiPad mini 2+32 Wi-Fi+3G|
 |INOVALLEY|MID_106_3G|MID106-3G|MID106-3G|
 |INOVALLEY|MID_109_Oreo_BTH|MID_109_Oreo_BTH|MID_109_Oreo_BTH|
 |INQ Mobile||camden|Camden|
@@ -10165,6 +10166,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IView|Retailer Stores|730TPC|730TPC|
 |IView|SupraPad i700|g01i|i700|
 |IView|SupraPad i785Q|anchor|i785Q|
+|IWRIST|IWRIST_M11|IWRIST_M11|IWRIST_M11|
 |IWRIST|IWRIST_M7|IWRIST_M7|IWRIST_M7|
 |IWRIST|IWRIST_M8|IWRIST_M8|IWRIST_M8|
 |IZZI Telecom|HP2714|HPH65|HP2714|
@@ -10232,6 +10234,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|55X1|samseong|AI PONT|
 |Infinix|HOT 10|Infinix-X682B|Infinix X682B|
 |Infinix|HOT 10|Infinix-X682C|Infinix X682C|
+|Infinix|HOT 10 Lite|Infinix-X657B|Infinix X657B|
 |Infinix|HOT 10 lite|Infinix-X657B|Infinix X657B|
 |Infinix|HOT 2|Infinix_X510|Infinix X510|
 |Infinix|HOT 3|INFINIX-X554|Infinix HOT 3 Pro|
@@ -22741,6 +22744,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Siragon|SP-5450|SP-5450|SP-5450|
 |Siragon|SP-6000|SP-6000|SP-6000|
 |Siragon|SP-6100|SP-6100|SP-6100|
+|Siragon|SP-6150|SP-6150|SP-6150|
 |Siragon|SP-7050|SP-7050|SP-7050|
 |Siragon|SP-7100|SP-7100|SP-7100|
 |Siragon|TB-5300|TB-5300|TB-5300|

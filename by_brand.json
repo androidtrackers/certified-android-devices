@@ -11341,6 +11341,11 @@
    "model": "BQ-7082G"
   },
   {
+   "device": "BQru-7083G_Plus",
+   "name": "BQ-7083G_Plus",
+   "model": "BQ-7083G"
+  },
+  {
    "device": "BQru-7084G",
    "name": "BQ-7084G",
    "model": "BQ-7084G"
@@ -12898,6 +12903,11 @@
    "device": "BV6100",
    "name": "BV6100",
    "model": "BV6100"
+  },
+  {
+   "device": "BV6300",
+   "name": "BV6300",
+   "model": "BV6300"
   },
   {
    "device": "BV6300Pro",
@@ -52031,11 +52041,6 @@
    "device": "INOI_7i",
    "name": "INOI_7i",
    "model": "INOI_7i"
-  },
-  {
-   "device": "inoiPad_mini_3G",
-   "name": "inoiPad_mini_3G",
-   "model": "inoiPad mini 2+32 Wi-Fi+3G"
   }
  ],
  "INOVALLEY": [
@@ -52246,6 +52251,11 @@
   }
  ],
  "IWRIST": [
+  {
+   "device": "IWRIST_M11",
+   "name": "IWRIST_M11",
+   "model": "IWRIST_M11"
+  },
   {
    "device": "IWRIST_M7",
    "name": "IWRIST_M7",
@@ -52614,6 +52624,11 @@
    "device": "Infinix-X682C",
    "name": "HOT 10",
    "model": "Infinix X682C"
+  },
+  {
+   "device": "Infinix-X657B",
+   "name": "HOT 10 Lite",
+   "model": "Infinix X657B"
   },
   {
    "device": "Infinix-X657B",
@@ -116505,6 +116520,11 @@
    "device": "SP-6100",
    "name": "SP-6100",
    "model": "SP-6100"
+  },
+  {
+   "device": "SP-6150",
+   "name": "SP-6150",
+   "model": "SP-6150"
   },
   {
    "device": "SP-7050",
