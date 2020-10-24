@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-10-23
+Last sync is 2020-10-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -23564,6 +23564,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sprint|HTC Bolt|htc_acawhl|2PYB2|
 |Sprint|Slate 8 Tablet|NKS_AQT80|AQT80|
 |StarHub|Android TV Set-Top Box|KM_SH368AT|KM_SH368AT|
+|StarHub|NVSH800H1|NVSH800H1|NVSH800H1|
 |StarMobile|Mobiistar_Zumbo_J2|Mobiistar_Zumbo_J2|Mobiistar Zumbo J2|
 |StarMobile|PLAY Click LTE|PLAY_Click_LTE|PLAY Click LTE|
 |StarMobile|Play Go|PLAY_GO|Starmobile PLAY GO|

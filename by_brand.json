@@ -120704,6 +120704,11 @@
    "device": "KM_SH368AT",
    "name": "Android TV Set-Top Box",
    "model": "KM_SH368AT"
+  },
+  {
+   "device": "NVSH800H1",
+   "name": "NVSH800H1",
+   "model": "NVSH800H1"
   }
  ],
  "StarMobile": [
