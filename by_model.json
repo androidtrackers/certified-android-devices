@@ -116,6 +116,13 @@
    "device": "G706"
   }
  ],
+ "TBBTV01": [
+  {
+   "brand": "3BBTV",
+   "name": "TBBTV01",
+   "device": "TBBTV01"
+  }
+ ],
  "GT10K3IPS": [
   {
    "brand": "3Go",
@@ -80027,6 +80034,13 @@
    "device": "KRONO_776PLUS"
   }
  ],
+ "NETWORK": [
+  {
+   "brand": "Krono",
+   "name": "NETWORK",
+   "device": "NETWORK"
+  }
+ ],
  "NET_LITE": [
   {
    "brand": "Krono",
@@ -99029,6 +99043,13 @@
    "device": "La_Tab_115"
   }
  ],
+ "La_Tab_124_HD_Plus": [
+  {
+   "brand": "Logicom",
+   "name": "La_Tab_124_HD_Plus_EEA",
+   "device": "La_Tab_124_HD_Plus"
+  }
+ ],
  "La Tab 292": [
   {
    "brand": "Logicom",
@@ -105314,13 +105335,6 @@
    "brand": "Mintt",
    "name": "CoolMintt_A3",
    "device": "CoolMintt_A3"
-  }
- ],
- "CoolMinttA5": [
-  {
-   "brand": "Mintt",
-   "name": "CoolMinttA5",
-   "device": "CoolMinttA5"
   }
  ],
  "CoolMinttBlaze": [
@@ -125457,6 +125471,13 @@
    "brand": "Polaroid",
    "name": "POMDTB002",
    "device": "POMDTB002"
+  }
+ ],
+ "POMDTB005": [
+  {
+   "brand": "Polaroid",
+   "name": "POMDTB005",
+   "device": "POMDTB005"
   }
  ],
  "PRO5023PW": [
@@ -177565,6 +177586,18 @@
    "device": "Note_7P"
   }
  ],
+ "Note 7T": [
+  {
+   "brand": "Ulefone",
+   "name": "Note_7T",
+   "device": "Note_7T"
+  },
+  {
+   "brand": "Ulefone",
+   "name": "Note_7T_EEA",
+   "device": "Note_7T"
+  }
+ ],
  "P6000_Plus": [
   {
    "brand": "Ulefone",
@@ -178118,6 +178151,13 @@
    "brand": "Unionaire",
    "name": "Africa",
    "device": "nippori"
+  }
+ ],
+ "s6w": [
+  {
+   "brand": "Uniscope",
+   "name": "s6w",
+   "device": "s6w"
   }
  ],
  "UT10": [
@@ -183785,6 +183825,13 @@
    "brand": "Vsmart",
    "name": "Aris",
    "device": "jacaranda"
+  }
+ ],
+ "Aris Pro": [
+  {
+   "brand": "Vsmart",
+   "name": "Aris Pro",
+   "device": "jacarandapro"
   }
  ],
  "Bee": [

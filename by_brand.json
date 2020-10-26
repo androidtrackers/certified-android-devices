@@ -67,6 +67,13 @@
    "model": "G706"
   }
  ],
+ "3BBTV": [
+  {
+   "device": "TBBTV01",
+   "name": "TBBTV01",
+   "model": "TBBTV01"
+  }
+ ],
  "3Go": [
   {
    "device": "GT10K3IPS",
@@ -58779,6 +58786,11 @@
    "model": "776PLUS"
   },
   {
+   "device": "NETWORK",
+   "name": "NETWORK",
+   "model": "NETWORK"
+  },
+  {
    "device": "NET_LITE",
    "name": "NET_LITE",
    "model": "NET_LITE"
@@ -73196,6 +73208,11 @@
    "model": "La_Tab_115"
   },
   {
+   "device": "La_Tab_124_HD_Plus",
+   "name": "La_Tab_124_HD_Plus_EEA",
+   "model": "La_Tab_124_HD_Plus"
+  },
+  {
    "device": "La_Tab_292",
    "name": "La_Tab_292",
    "model": "La Tab 292"
@@ -78101,11 +78118,6 @@
    "device": "CoolMinttA3",
    "name": "CoolMinttA3",
    "model": "CoolMinttA3"
-  },
-  {
-   "device": "CoolMinttA5",
-   "name": "CoolMinttA5",
-   "model": "CoolMinttA5"
   },
   {
    "device": "CoolMinttBlaze",
@@ -94047,6 +94059,11 @@
    "device": "POMDTB002",
    "name": "POMDTB002",
    "model": "POMDTB002"
+  },
+  {
+   "device": "POMDTB005",
+   "name": "POMDTB005",
+   "model": "POMDTB005"
   },
   {
    "device": "up06_h25_polaroid",
@@ -133699,6 +133716,16 @@
    "model": "Note_7P"
   },
   {
+   "device": "Note_7T",
+   "name": "Note_7T",
+   "model": "Note 7T"
+  },
+  {
+   "device": "Note_7T",
+   "name": "Note_7T_EEA",
+   "model": "Note 7T"
+  },
+  {
    "device": "P6000_Plus",
    "name": "P6000_Plus",
    "model": "P6000_Plus"
@@ -134227,6 +134254,13 @@
    "device": "nippori",
    "name": "Africa",
    "model": "Unionaire Android TV 2K"
+  }
+ ],
+ "Uniscope": [
+  {
+   "device": "s6w",
+   "name": "s6w",
+   "model": "s6w"
   }
  ],
  "Unistrong": [
@@ -138780,6 +138814,11 @@
    "device": "jacaranda",
    "name": "Aris",
    "model": "Aris"
+  },
+  {
+   "device": "jacarandapro",
+   "name": "Aris Pro",
+   "model": "Aris Pro"
   },
   {
    "device": "V220A",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-10-25
+Last sync is 2020-10-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17,6 +17,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |10.or|G|G|G|
 |10.or|G2|G2|G2|
 |3222222 Satelital|G706|G706|G706|
+|3BBTV|TBBTV01|TBBTV01|TBBTV01|
 |3Go|GT10K3IPS|GT10K3IPS|GT10K3IPS|
 |3Go|GT70053G|GT70053G|GT70053G|
 |3Go|GT7007EQC|GT7007EQC|GT7007EQC|
@@ -11423,6 +11424,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Konrow|Smartfive|KONROW_Smartfive|Smartfive|
 |Krik Krak|Freedom|Freedom|Freedom|
 |Krono|776PLUS|KRONO_776PLUS|776PLUS|
+|Krono|NETWORK|NETWORK|NETWORK|
 |Krono|NET_LITE|NET_LITE|NET_LITE|
 |Krono|NET_MATRIX|NET_MATRIX|NET_MATRIX|
 |Krono|NET_MAX|NET_MAX|NET_MAX|
@@ -14278,6 +14280,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logicom|La_Tab_105_P_Rev2_EEA|La_Tab_105_P_Rev2|La_Tab_105_P_Rev2|
 |Logicom|La_Tab_114|La_Tab_114|La_Tab_114|
 |Logicom|La_Tab_115|La_Tab_115|La_Tab_115|
+|Logicom|La_Tab_124_HD_Plus_EEA|La_Tab_124_HD_Plus|La_Tab_124_HD_Plus|
 |Logicom|La_Tab_292|La_Tab_292|La Tab 292|
 |Logicom|La_Tab_74|La_Tab_74|La_Tab_74|
 |Logicom|La_Tab_Link_101|La_Tab_Link_101|LOGICOM La Tab Link 101|
@@ -15221,7 +15224,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mint|ULTRAMINTT_X5|ULTRAMINTT_X5|ULTRAMINTT X5|
 |Mintt|A1|A1|A1|
 |Mintt|CoolMinttA3|CoolMinttA3|CoolMinttA3|
-|Mintt|CoolMinttA5|CoolMinttA5|CoolMinttA5|
 |Mintt|CoolMinttBlaze|CoolMinttBlaze|CoolMinttBlaze|
 |Mintt|CoolMinttDUO3|CoolMinttDUO3|CoolMinttDUO3|
 |Mintt|CoolMinttM2|CoolMinttM2|CoolMinttM2|
@@ -18319,6 +18321,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Polaroid|PMID7102DC|PMID7102DC|PMID7102DC|
 |Polaroid|POCMTV000|POCMTV000|POCMTV000|
 |Polaroid|POMDTB002|POMDTB002|POMDTB002|
+|Polaroid|POMDTB005|POMDTB005|POMDTB005|
 |Polaroid|PRO5023PW|up06_h25_polaroid|PRO5023PW|
 |Polaroid|PRO5043|PRO5043|PRO5043|
 |Polaroid|PRO5044PEE01|Polaroid_PRO5044PEE01|PRO5044PEE01|
@@ -26093,6 +26096,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Note 8P|Note_8P|Note 8P|
 |Ulefone|Note 9P|Note_9P|Note 9P|
 |Ulefone|Note_7P|Note_7P|Note_7P|
+|Ulefone|Note_7T|Note_7T|Note 7T|
+|Ulefone|Note_7T_EEA|Note_7T|Note 7T|
 |Ulefone|P6000_Plus|P6000_Plus|P6000_Plus|
 |Ulefone|Power 2|Power_2|Power_2|
 |Ulefone|Power 3|Power_3|Power_3|
@@ -26195,6 +26200,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unihertz|Jelly2_JP|Jelly2_JP|Jelly2_JP|
 |Unihertz|Titan|Titan|Titan|
 |Unionaire|Africa|nippori|Unionaire Android TV 2K|
+|Uniscope|s6w|s6w|s6w|
 |Unistrong|UT10|UT10|UT10|
 |Unistrong|UT12|UT12|UT12|
 |Unistrong|UT30|UT30|UT30|
@@ -27074,6 +27080,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vsmart|Active 1+|PQ6002|Active 1+|
 |Vsmart|Active 3|coconut|Active 3|
 |Vsmart|Aris|jacaranda|Aris|
+|Vsmart|Aris Pro|jacarandapro|Aris Pro|
 |Vsmart|Bee|V220A|Bee|
 |Vsmart|Bee|V220B|Bee|
 |Vsmart|Bee 3|clover|Bee 3|
