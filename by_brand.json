@@ -1084,6 +1084,11 @@
    "model": "A3-A40"
   },
   {
+   "device": "ACTAB721",
+   "name": "ACTAB721",
+   "model": "ACTAB721"
+  },
+  {
    "device": "C8n",
    "name": "AK330s",
    "model": "AK330S"
@@ -2201,6 +2206,11 @@
    "device": "ADVAN_NASA",
    "name": "NASA",
    "model": "5202"
+  },
+  {
+   "device": "ADVAN_NASA_Plus",
+   "name": "NASA_Plus",
+   "model": "5505"
   },
   {
    "device": "ADVAN_S40",
@@ -13576,6 +13586,11 @@
    "model": "C6L"
   },
   {
+   "device": "C0090WW",
+   "name": "C6L 2020",
+   "model": "C6L 2020"
+  },
+  {
    "device": "C090P",
    "name": "C6x",
    "model": "C6x"
@@ -13774,6 +13789,11 @@
    "device": "G0330WW",
    "name": "G50",
    "model": "G50"
+  },
+  {
+   "device": "G0390WW",
+   "name": "G50 MEGA",
+   "model": "G50 Mega"
   },
   {
    "device": "G0350WW",
@@ -16056,6 +16076,11 @@
    "model": "CASPER_L10_4.5G"
   },
   {
+   "device": "VIA_S48",
+   "name": "Casper VIA S48",
+   "model": "VIA_S48"
+  },
+  {
    "device": "VIA_X20",
    "name": "Casper VIA X20",
    "model": "VIA X20"
@@ -16159,6 +16184,11 @@
    "device": "VIA_E3",
    "name": "VIA_E3",
    "model": "VIA_E3"
+  },
+  {
+   "device": "VIA_E4",
+   "name": "VIA_E4",
+   "model": "VIA_E4"
   },
   {
    "device": "VIA_F3",
@@ -18110,6 +18140,11 @@
    "device": "CTB761",
    "name": "CTB761",
    "model": "CTB761"
+  },
+  {
+   "device": "MID7052",
+   "name": "MID7052",
+   "model": "MID7052"
   }
  ],
  "Code": [
@@ -18930,6 +18965,11 @@
  ],
  "Contex": [
   {
+   "device": "tamachi",
+   "name": "Egypt",
+   "model": "AiPlus2K"
+  },
+  {
    "device": "yeongdeungpo",
    "name": "Egypt",
    "model": "AiPlus4K"
@@ -18950,6 +18990,11 @@
    "device": "bangbae",
    "name": "Continential_Edison",
    "model": "Continental 4K Android TV"
+  },
+  {
+   "device": "tamachi",
+   "name": "France",
+   "model": "Continental Android TV"
   }
  ],
  "Continential": [
@@ -24576,6 +24621,11 @@
    "model": "MAX-10_EEA"
   },
   {
+   "device": "MAX_10",
+   "name": "Dragon_Touch",
+   "model": "MAX_10"
+  },
+  {
    "device": "K8",
    "name": "K8",
    "model": "K8"
@@ -26757,6 +26807,11 @@
    "device": "MID1258G",
    "name": "Grand IPS Quad core 3G",
    "model": "eSTAR Grand IPS Quad core 3G"
+  },
+  {
+   "device": "tamachi",
+   "name": "Lithuania",
+   "model": "eSTAR FHD Android TV"
   },
   {
    "device": "MID1020L",
@@ -30381,6 +30436,11 @@
    "device": "bangbae",
    "name": "GABA",
    "model": "GABA 4K Android TV"
+  },
+  {
+   "device": "komagome",
+   "name": "GABA",
+   "model": "GABA 2K Android TV"
   }
  ],
  "GC(TECH)": [
@@ -30518,6 +30578,11 @@
    "device": "E101GC4G",
    "name": "E101GC4G",
    "model": "E101GC4G"
+  },
+  {
+   "device": "E101GCM",
+   "name": "E101GCM",
+   "model": "E101GCM"
   }
  ],
  "GRID Communications (SG)": [
@@ -32853,6 +32918,11 @@
    "device": "fizz_cheets",
    "name": "Chromebox",
    "model": "fizz"
+  },
+  {
+   "device": "puff_cheets",
+   "name": "Chromebox",
+   "model": "puff"
   },
   {
    "device": "sabrina",
@@ -40354,6 +40424,11 @@
    "model": "Hisense E20"
   },
   {
+   "device": "HLTE103E_23",
+   "name": "Hisense E20",
+   "model": "Hisense E20"
+  },
+  {
    "device": "HLTE103E_24",
    "name": "Hisense E20",
    "model": "HLTE103E E20"
@@ -40602,6 +40677,11 @@
    "device": "HS6580MT",
    "name": "Hisense T965",
    "model": "Hisense T965"
+  },
+  {
+   "device": "HLTE100E_20",
+   "name": "Hisense U3 2021",
+   "model": "Hisense U3 2021"
   },
   {
    "device": "HLTE103E_30",
@@ -56260,6 +56340,11 @@
    "device": "komagome",
    "name": "JVC",
    "model": "EU 2K Android TV"
+  },
+  {
+   "device": "komagome",
+   "name": "JVC",
+   "model": "JVC EU 2K Android TV"
   },
   {
    "device": "seocho",
@@ -74076,6 +74161,13 @@
    "model": "TR10CD2"
   }
  ],
+ "MGS": [
+  {
+   "device": "komagome",
+   "name": "MGS",
+   "model": "MGS 2K Android TV"
+  }
+ ],
  "MINIX": [
   {
    "device": "DV8553",
@@ -74451,7 +74543,7 @@
   },
   {
    "device": "seocho",
-   "name": "Hangsung",
+   "name": "Hansung",
    "model": "Hansung 4K Android TV"
   },
   {
@@ -78120,6 +78212,11 @@
    "model": "CoolMinttA3"
   },
   {
+   "device": "CoolMinttA5",
+   "name": "CoolMinttA5",
+   "model": "CoolMinttA5"
+  },
+  {
    "device": "CoolMinttBlaze",
    "name": "CoolMinttBlaze",
    "model": "CoolMinttBlaze"
@@ -80277,6 +80374,11 @@
    "model": "XT901"
   },
   {
+   "device": "SW4H",
+   "name": "FlipkartTV",
+   "model": "FlipkartTV-20AE"
+  },
+  {
    "device": "umts_ruth",
    "name": "Flipout",
    "model": "MB511"
@@ -82161,6 +82263,11 @@
    "device": "M8421",
    "name": "M8421",
    "model": "M8421"
+  },
+  {
+   "device": "M8422",
+   "name": "M8422",
+   "model": "M8422"
   },
   {
    "device": "Movitel_M8601",
@@ -87328,6 +87435,16 @@
    "device": "Nord",
    "name": "OnePlus Nord",
    "model": "AC2003"
+  },
+  {
+   "device": "OnePlusN10",
+   "name": "OnePlus Nord N10 5G",
+   "model": "BE2029"
+  },
+  {
+   "device": "OnePlusN100",
+   "name": "OnePlus Nord N100",
+   "model": "BE2013"
   },
   {
    "device": "OnePlus2",
@@ -93871,6 +93988,11 @@
    "model": "BDLT107"
   },
   {
+   "device": "Connect4G",
+   "name": "Connect4G",
+   "model": "Connect4G"
+  },
+  {
    "device": "P5026A",
    "name": "Cosmo L",
    "model": "P5026A"
@@ -97973,6 +98095,13 @@
    "device": "dciw387",
    "name": "Quickline UHD Box",
    "model": "M387_QL"
+  }
+ ],
+ "RAMTECHNOLOGY": [
+  {
+   "device": "STAR",
+   "name": "Star",
+   "model": "STAR"
   }
  ],
  "RAVOZ": [
@@ -102338,6 +102467,16 @@
    "model": "SM-A415F"
   },
   {
+   "device": "a42xq",
+   "name": "Galaxy A42 5G",
+   "model": "SM-A4260"
+  },
+  {
+   "device": "a42xq",
+   "name": "Galaxy A42 5G",
+   "model": "SM-A426B"
+  },
+  {
    "device": "a53g",
    "name": "Galaxy A5",
    "model": "SM-A500H"
@@ -102611,6 +102750,11 @@
    "device": "a51",
    "name": "Galaxy A51",
    "model": "SM-S515DL"
+  },
+  {
+   "device": "SCG07",
+   "name": "Galaxy A51 5G",
+   "model": "SCG07"
   },
   {
    "device": "a51x",
@@ -113418,6 +113562,11 @@
    "model": "SM-F700W"
   },
   {
+   "device": "SCG04",
+   "name": "Galaxy Z Flip 5G",
+   "model": "SCG04"
+  },
+  {
    "device": "bloomxq",
    "name": "Galaxy Z Flip 5G",
    "model": "SM-F7070"
@@ -116337,6 +116486,11 @@
    "model": "SL1068"
   },
   {
+   "device": "SL1069",
+   "name": "SL1069",
+   "model": "SL1069"
+  },
+  {
    "device": "SL721",
    "name": "SL721",
    "model": "SL721"
@@ -116397,6 +116551,11 @@
    "device": "TangoTab_364",
    "name": "TangoTab_364",
    "model": "TangoTab_364"
+  },
+  {
+   "device": "TangoTab_X",
+   "name": "TangoTab_X",
+   "model": "TangoTab_X"
   }
  ],
  "SimiMobile": [
@@ -120860,6 +121019,11 @@
    "device": "RIO_STAR",
    "name": "RIO STAR",
    "model": "RIO STAR"
+  },
+  {
+   "device": "tamachi",
+   "name": "Rumania",
+   "model": "STARLIGHT Android TV"
   },
   {
    "device": "yeongdeungpo",
@@ -129874,6 +130038,11 @@
    "model": "1016S"
   },
   {
+   "device": "Tech_Pad_3G16",
+   "name": "3G_16",
+   "model": "3G_16"
+  },
+  {
    "device": "816",
    "name": "816",
    "model": "816"
@@ -133206,6 +133375,11 @@
   }
  ],
  "Turbo-X": [
+  {
+   "device": "tamachi",
+   "name": "Greece",
+   "model": "TURBO-X FHD Android TV"
+  },
   {
    "device": "Fire_II_WiFi",
    "name": "\"Turbo-X Fire II (2GB) Tablet 10.1\"\" WIFI\"",
@@ -140598,6 +140772,11 @@
    "model": "W-V851-OPE"
   },
   {
+   "device": "W-V851",
+   "name": "View5",
+   "model": "W-V851-TVM"
+  },
+  {
    "device": "W-V850",
    "name": "View5 Plus",
    "model": "W-V850-EEA"
@@ -141451,6 +141630,11 @@
    "device": "A3",
    "name": "A3",
    "model": "A3"
+  },
+  {
+   "device": "X-TIGI_A55",
+   "name": "A55",
+   "model": "A55"
   },
   {
    "device": "Hope10_Pro",
@@ -142855,6 +143039,11 @@
    "device": "X10MT16",
    "name": "X10MT16",
    "model": "X10MT16"
+  },
+  {
+   "device": "X10MT87",
+   "name": "X10MT87",
+   "model": "X10MT87"
   },
   {
    "device": "bnd8163_tb_n",
@@ -151171,7 +151360,7 @@
    "model": "M72 Smart"
   }
  ],
- "Zepo": [
+ "Zephir": [
   {
    "device": "komagome",
    "name": "Zephir",
@@ -151308,6 +151497,11 @@
   }
  ],
  "Zonko": [
+  {
+   "device": "K100",
+   "name": "K100",
+   "model": "K100"
+  },
   {
    "device": "K101",
    "name": "K101",
@@ -152955,6 +153149,11 @@
    "device": "muPADT7",
    "name": "muPADT7",
    "model": "muPADT7"
+  },
+  {
+   "device": "muPAD_K10",
+   "name": "muPAD_K10",
+   "model": "muPAD_K10"
   }
  ],
  "iNFONE": [
@@ -153927,6 +154126,11 @@
    "device": "ZT216_1",
    "name": "ZT216_1",
    "model": "ZT216_1"
+  },
+  {
+   "device": "ZT216_17",
+   "name": "ZT216_17",
+   "model": "ZT216_17"
   },
   {
    "device": "ZT216_19",
