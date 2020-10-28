@@ -49,6 +49,128 @@
    "model": "DIW387 1U1"
   }
  ],
+ "komagome": [
+  {
+   "brand": "1&1",
+   "name": "EDENWOOD",
+   "model": "EDENWOOD 2K Android TV"
+  },
+  {
+   "brand": "Aconatic",
+   "name": "Aconatic",
+   "model": "Aconatic 2K Android TV"
+  },
+  {
+   "brand": "AllView",
+   "name": "Allview",
+   "model": "ALLVIEW 2K Android TV"
+  },
+  {
+   "brand": "Bauhn",
+   "name": "Bauhn",
+   "model": "BAUHN 2K Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "Blaupunkt",
+   "model": "BLAUPUNKT 2K Android TV"
+  },
+  {
+   "brand": "Continential",
+   "name": "Edison-Continential",
+   "model": "Continental 2K Android TV"
+  },
+  {
+   "brand": "Dyon",
+   "name": "Dyon",
+   "model": "Dyon 2K Android TV"
+  },
+  {
+   "brand": "EKO",
+   "name": "EKO",
+   "model": "EKO 2K Android TV"
+  },
+  {
+   "brand": "ELEXIA",
+   "name": "ELEXIA",
+   "model": "ELEXIA 2K Android TV"
+  },
+  {
+   "brand": "GABA",
+   "name": "GABA",
+   "model": "GABA 2K Android TV"
+  },
+  {
+   "brand": "Hitachi",
+   "name": "Hitachi",
+   "model": "Hitachi 2K Android TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Hyundai",
+   "model": "Hyundai 2K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "EU 2K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "JVC EU 2K Android TV"
+  },
+  {
+   "brand": "Kivi",
+   "name": "KIVI",
+   "model": "KIVI 2K Android TV"
+  },
+  {
+   "brand": "Linsar",
+   "name": "Linsar",
+   "model": "Linsar 2K Android TV"
+  },
+  {
+   "brand": "MGS",
+   "name": "MGS",
+   "model": "MGS 2K Android TV"
+  },
+  {
+   "brand": "MarQ",
+   "name": "MarQ",
+   "model": "MarQ 2K Android TV"
+  },
+  {
+   "brand": "Polaroid",
+   "name": "Polaroid",
+   "model": "Polaroid 2K Android TV"
+  },
+  {
+   "brand": "QBell",
+   "name": "QBell",
+   "model": "QBell 2K Android TV"
+  },
+  {
+   "brand": "SCHNEIDER",
+   "name": "SCHNEIDER",
+   "model": "SCHNEIDER 2K Android TV"
+  },
+  {
+   "brand": "Strong",
+   "name": "Strong",
+   "model": "Strong 2K Android TV"
+  },
+  {
+   "brand": "Yasin",
+   "name": "YASIN",
+   "model": "YASIN 2K Android TV"
+  },
+  {
+   "brand": "Zephir",
+   "name": "Zephir",
+   "model": "Zephir 2K Android TV"
+  }
+ ],
  "G2": [
   {
    "brand": "10.or",
@@ -829,6 +951,11 @@
    "model": "Adonis 4K Android TV"
   },
   {
+   "brand": "Cobia",
+   "name": "Cobia",
+   "model": "Cobia 4K Android TV"
+  },
+  {
    "brand": "JVC",
    "name": "JVC",
    "model": "JVC 4K Android TV"
@@ -946,6 +1073,11 @@
    "model": "Dual 4K Android TV"
   },
   {
+   "brand": "Dyon",
+   "name": "Dyon",
+   "model": "Dyon 4K Android TV"
+  },
+  {
    "brand": "EKO",
    "name": "EKO",
    "model": "EKO 4K Android TV"
@@ -1016,6 +1148,11 @@
    "model": "Polaroid 4K Android TV"
   },
   {
+   "brand": "QBell",
+   "name": "QBell",
+   "model": "QBell 4K Android TV"
+  },
+  {
    "brand": "SCHNEIDER",
    "name": "SCHNEIDER",
    "model": "SCHNEIDER 4K Android TV"
@@ -1024,6 +1161,16 @@
    "brand": "Veon",
    "name": "VEON",
    "model": "VEON 4K Android TV"
+  },
+  {
+   "brand": "Yasin",
+   "name": "Yasin",
+   "model": "YASIN 4K Android TV"
+  },
+  {
+   "brand": "Zephir",
+   "name": "Zephir",
+   "model": "Zephir 4K Android TV"
   }
  ],
  "A1_Neo": [
@@ -3362,108 +3509,6 @@
    "brand": "Express Gifts Limited",
    "name": "R726",
    "model": "R726"
-  }
- ],
- "komagome": [
-  {
-   "brand": "Aconatic",
-   "name": "Aconatic",
-   "model": "Aconatic 2K Android TV"
-  },
-  {
-   "brand": "AllView",
-   "name": "Allview",
-   "model": "ALLVIEW 2K Android TV"
-  },
-  {
-   "brand": "Bauhn",
-   "name": "Bauhn",
-   "model": "BAUHN 2K Android TV"
-  },
-  {
-   "brand": "Blaupunkt",
-   "name": "Blaupunkt",
-   "model": "BLAUPUNKT 2K Android TV"
-  },
-  {
-   "brand": "Continential",
-   "name": "Edison-Continential",
-   "model": "Continental 2K Android TV"
-  },
-  {
-   "brand": "Dyon",
-   "name": "Dyon",
-   "model": "Dyon 2K Android TV"
-  },
-  {
-   "brand": "EKO",
-   "name": "EKO",
-   "model": "EKO 2K Android TV"
-  },
-  {
-   "brand": "GABA",
-   "name": "GABA",
-   "model": "GABA 2K Android TV"
-  },
-  {
-   "brand": "Hitachi",
-   "name": "Hitachi",
-   "model": "Hitachi 2K Android TV"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "Hyundai",
-   "model": "Hyundai 2K Android TV"
-  },
-  {
-   "brand": "JVC",
-   "name": "JVC",
-   "model": "EU 2K Android TV"
-  },
-  {
-   "brand": "JVC",
-   "name": "JVC",
-   "model": "JVC EU 2K Android TV"
-  },
-  {
-   "brand": "Kivi",
-   "name": "KIVI",
-   "model": "KIVI 2K Android TV"
-  },
-  {
-   "brand": "Linsar",
-   "name": "Linsar",
-   "model": "Linsar 2K Android TV"
-  },
-  {
-   "brand": "MGS",
-   "name": "MGS",
-   "model": "MGS 2K Android TV"
-  },
-  {
-   "brand": "MarQ",
-   "name": "MarQ",
-   "model": "MarQ 2K Android TV"
-  },
-  {
-   "brand": "Polaroid",
-   "name": "Polaroid",
-   "model": "Polaroid 2K Android TV"
-  },
-  {
-   "brand": "SCHNEIDER",
-   "name": "SCHNEIDER",
-   "model": "SCHNEIDER 2K Android TV"
-  },
-  {
-   "brand": "Strong",
-   "name": "Strong",
-   "model": "Strong 2K Android TV"
-  },
-  {
-   "brand": "Zephir",
-   "name": "Zephir",
-   "model": "Zephir 2K Android TV"
   }
  ],
  "R1": [
@@ -24528,6 +24573,23 @@
    "model": "ETRI02"
   }
  ],
+ "sadang": [
+  {
+   "brand": "Cello",
+   "name": "Cello",
+   "model": "cello UK 4K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "Dixons",
+   "model": "UK 4K Android TV"
+  },
+  {
+   "brand": "Linsar",
+   "name": "Linsar",
+   "model": "Linsar UK 4K Android TV"
+  }
+ ],
  "T1045PC": [
   {
    "brand": "Cello",
@@ -31925,6 +31987,13 @@
    "model": "DG7TBIPSBT"
   }
  ],
+ "DG7TBIPSDG": [
+  {
+   "brand": "DGTEC",
+   "name": "DG7TBIPSDG",
+   "model": "DG7TBIPSDG"
+  }
+ ],
  "DG7TBIPSG": [
   {
    "brand": "DGTEC",
@@ -32591,6 +32660,13 @@
    "brand": "TCT (Alcatel)",
    "name": "TCL J620",
    "model": "TCL J620"
+  }
+ ],
+ "Ltd\"": [
+  {
+   "brand": "Delephas",
+   "name": "\"Chang Co.",
+   "model": "seocho"
   }
  ],
  "Dell_Grappa": [
@@ -74981,13 +75057,6 @@
    "brand": "JVC",
    "name": "DM65UXR\\DM65USR\\DM85UXR",
    "model": "DM65UXR"
-  }
- ],
- "sadang": [
-  {
-   "brand": "JVC",
-   "name": "Dixons",
-   "model": "UK 4K Android TV"
   }
  ],
  "Cunda": [
@@ -127891,6 +127960,13 @@
    "model": "C330"
   }
  ],
+ "P710": [
+  {
+   "brand": "Rakuten",
+   "name": "Rakuten Hand",
+   "model": "P710"
+  }
+ ],
  "Cell": [
   {
    "brand": "Ratel",
@@ -166860,6 +166936,13 @@
    "model": "TECNO LD7"
   }
  ],
+ "TECNO-LD7j": [
+  {
+   "brand": "Tecno",
+   "name": "POVA",
+   "model": "TECNO LD7j"
+  }
+ ],
  "TECNO-AB7": [
   {
    "brand": "Tecno",
@@ -170691,6 +170774,13 @@
    "brand": "Umidigi",
    "name": "A7 Pro EEA",
    "model": "A7 Pro"
+  }
+ ],
+ "A7S": [
+  {
+   "brand": "Umidigi",
+   "name": "A7S",
+   "model": "A7S"
   }
  ],
  "BISON": [
@@ -176477,6 +176567,13 @@
    "model": "Bee"
   }
  ],
+ "rice": [
+  {
+   "brand": "Vsmart",
+   "name": "Bee Lite",
+   "model": "Bee Lite"
+  }
+ ],
  "PQ4001": [
   {
    "brand": "Vsmart",
@@ -181375,6 +181472,13 @@
    "brand": "Yezz",
    "name": "ART1",
    "model": "ART1"
+  }
+ ],
+ "ART1_PRO": [
+  {
+   "brand": "Yezz",
+   "name": "ART1_PRO",
+   "model": "ART1_PRO"
   }
  ],
  "E400A": [
@@ -189132,6 +189236,13 @@
    "brand": "ZTE",
    "name": "ZTE 8010",
    "model": "ZTE 8010"
+  }
+ ],
+ "P653S06": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE 8012N",
+   "model": "ZTE 8012N"
   }
  ],
  "P637S15": [

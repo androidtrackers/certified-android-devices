@@ -31,6 +31,11 @@
    "device": "diw387_1u1",
    "name": "DIW387-1&1",
    "model": "DIW387 1U1"
+  },
+  {
+   "device": "komagome",
+   "name": "EDENWOOD",
+   "model": "EDENWOOD 2K Android TV"
   }
  ],
  "10.or": [
@@ -16561,6 +16566,11 @@
  ],
  "Cello": [
   {
+   "device": "sadang",
+   "name": "Cello",
+   "model": "cello UK 4K Android TV"
+  },
+  {
    "device": "T1045PC",
    "name": "T1045PC",
    "model": "T1045PC"
@@ -18129,6 +18139,11 @@
   }
  ],
  "Cobia": [
+  {
+   "device": "seocho",
+   "name": "Cobia",
+   "model": "Cobia 4K Android TV"
+  },
   {
    "device": "sugamo",
    "name": "Cobia",
@@ -21637,6 +21652,11 @@
    "model": "DG7TBIPSBT"
   },
   {
+   "device": "DG7TBIPSDG",
+   "name": "DG7TBIPSDG",
+   "model": "DG7TBIPSDG"
+  },
+  {
    "device": "DG7TBIPSG",
    "name": "DG7TBIPSG",
    "model": "DG7TBIPSG"
@@ -22138,6 +22158,13 @@
    "device": "md501",
    "name": "DeWalt md501",
    "model": "md501"
+  }
+ ],
+ "Delephas": [
+  {
+   "device": "Ltd\"",
+   "name": "\"Chang Co.",
+   "model": "seocho"
   }
  ],
  "Dell": [
@@ -24907,6 +24934,11 @@
  ],
  "Dyon": [
   {
+   "device": "bangbae",
+   "name": "Dyon",
+   "model": "Dyon 4K Android TV"
+  },
+  {
    "device": "komagome",
    "name": "Dyon",
    "model": "Dyon 2K Android TV"
@@ -25223,6 +25255,13 @@
    "device": "W60",
    "name": "W60",
    "model": "W60"
+  }
+ ],
+ "ELEXIA": [
+  {
+   "device": "komagome",
+   "name": "ELEXIA",
+   "model": "ELEXIA 2K Android TV"
   }
  ],
  "ELO Touch": [
@@ -72625,6 +72664,11 @@
    "device": "komagome",
    "name": "Linsar",
    "model": "Linsar 2K Android TV"
+  },
+  {
+   "device": "sadang",
+   "name": "Linsar",
+   "model": "Linsar UK 4K Android TV"
   }
  ],
  "Linsay": [
@@ -96898,6 +96942,16 @@
    "model": "QBELL Android TV 2K"
   },
   {
+   "device": "bangbae",
+   "name": "QBell",
+   "model": "QBell 4K Android TV"
+  },
+  {
+   "device": "komagome",
+   "name": "QBell",
+   "model": "QBell 2K Android TV"
+  },
+  {
    "device": "QPHONE_10_1",
    "name": "QPHONE_10_1",
    "model": "QPHONE_10.1"
@@ -98724,6 +98778,11 @@
    "device": "C330",
    "name": "C330",
    "model": "C330"
+  },
+  {
+   "device": "P710",
+   "name": "Rakuten Hand",
+   "model": "P710"
   }
  ],
  "Ratel": [
@@ -130874,6 +130933,11 @@
    "model": "TECNO LD7"
   },
   {
+   "device": "TECNO-LD7j",
+   "name": "POVA",
+   "model": "TECNO LD7j"
+  },
+  {
    "device": "TECNO-AB7",
    "name": "Phantom 9",
    "model": "TECNO AB7"
@@ -134182,6 +134246,11 @@
    "device": "A7_Pro",
    "name": "A7 Pro EEA",
    "model": "A7 Pro"
+  },
+  {
+   "device": "A7S",
+   "name": "A7S",
+   "model": "A7S"
   },
   {
    "device": "BISON",
@@ -139010,6 +139079,11 @@
    "model": "Bee 3"
   },
   {
+   "device": "rice",
+   "name": "Bee Lite",
+   "model": "Bee Lite"
+  },
+  {
    "device": "PQ4001",
    "name": "Joy 1",
    "model": "Joy 1"
@@ -143192,9 +143266,19 @@
  ],
  "Yasin": [
   {
+   "device": "komagome",
+   "name": "YASIN",
+   "model": "YASIN 2K Android TV"
+  },
+  {
    "device": "shinagawa",
    "name": "YASIN 2K TV",
    "model": "YASIN 2K TV"
+  },
+  {
+   "device": "bangbae",
+   "name": "Yasin",
+   "model": "YASIN 4K Android TV"
   }
  ],
  "Yekani": [
@@ -143288,6 +143372,11 @@
    "device": "ART1",
    "name": "ART1",
    "model": "ART1"
+  },
+  {
+   "device": "ART1_PRO",
+   "name": "ART1_PRO",
+   "model": "ART1_PRO"
   },
   {
    "device": "E400A",
@@ -149999,6 +150088,11 @@
    "model": "ZTE 8010RU"
   },
   {
+   "device": "P653S06",
+   "name": "ZTE 8012N",
+   "model": "ZTE 8012N"
+  },
+  {
    "device": "P637S15",
    "name": "ZTE A0616",
    "model": "ZTE A0616"
@@ -151361,6 +151455,11 @@
   }
  ],
  "Zephir": [
+  {
+   "device": "bangbae",
+   "name": "Zephir",
+   "model": "Zephir 4K Android TV"
+  },
   {
    "device": "komagome",
    "name": "Zephir",

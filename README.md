@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-10-27
+Last sync is 2020-10-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11,6 +11,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |1&1|1&1 Puck|diw362_1u1|DIW362P 1U1|
 |1&1|1&1 TV Box|diw387_1u1|DIW387 1U1|
 |1&1|DIW387-1&1|diw387_1u1|DIW387 1U1|
+|1&1|EDENWOOD|komagome|EDENWOOD 2K Android TV|
 |10.or|10or_G2|G2|10or G2|
 |10.or|D|10or_D|D|
 |10.or|E|E|E|
@@ -3205,6 +3206,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cellacom|M531|M531|M531|
 |Cellacom|S51_lite|S51_lite|S51_lite|
 |Cellcom TV|SEI-S905X2|tai|SEI-S905X2|
+|Cello|Cello|sadang|cello UK 4K Android TV|
 |Cello|T1045PC|T1045PC|T1045PC|
 |Cello|T1045PN|T1045PN|T1045PN|
 |Cellon|A27|C8680|A27|
@@ -3506,6 +3508,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cobalt|SM5|Cobalt_SM_5|Cobalt_SM_5|
 |Cobalt|SM55|Cobalt_SM_55|Cobalt_SM_55|
 |Cobalt|SM6|Cobalt_SM_6|Cobalt_SM_6|
+|Cobia|Cobia|seocho|Cobia 4K Android TV|
 |Cobia|Cobia|sugamo|Cobia 2K Android TV|
 |Coby|CTB761|CTB761|CTB761|
 |Coby|MID7052|MID7052|MID7052|
@@ -4191,6 +4194,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEYI|DEYI-10M18|DEYI-10M18|DEYI-10M18|
 |DGTEC|DG101TBIPS|DG101TBIPS|DG101TBIPS|
 |DGTEC|DG7TBIPSBT|DG7TBIPSBT|DG7TBIPSBT|
+|DGTEC|DG7TBIPSDG|DG7TBIPSDG|DG7TBIPSDG|
 |DGTEC|DG7TBIPSG|DG7TBIPSG|DG7TBIPSG|
 |DGTEC|DG7TBIPSPA|DG7TBIPSPA|DG7TBIPSPA|
 |DIADEM|CUTE_5|CUTE_5|CUTE 5|
@@ -4284,6 +4288,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DayMark|IT119411|IT119411|IT119411|
 |Ddm|ANDY 5EI|AM5E3I047|ANDY 5EI|
 |DeWALT|DeWalt md501|md501|md501|
+|Delephas|"Chang Co.|Ltd"|seocho|
 |Dell||Dell_Grappa|Dell Aero|
 |Dell||Dell_Grappa|Mini_3iG|
 |Dell||Streak10Pro|Dell Streak 10 Pro|
@@ -4815,6 +4820,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Duubee|W1|W1|W1|
 |Duubee|W2|W2|W2|
 |Dynalink|STI6130-D350|sti6130d350|Dynalink TV Box|
+|Dyon|Dyon|bangbae|Dyon 4K Android TV|
 |Dyon|Dyon|komagome|Dyon 2K Android TV|
 |E-Boda|Eclipse G400M|Eclipse_G400M|Eclipse_G400M|
 |E-Boda|Eclipse G500HD|E-Boda_Eclipse_G500HD|Eclipse G500HD|
@@ -4875,6 +4881,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EL (Africa)|D68|D68|D68|
 |EL (Africa)|W45S|W45S|W45S|
 |EL (Africa)|W60|W60|W60|
+|ELEXIA|ELEXIA|komagome|ELEXIA 2K Android TV|
 |ELO Touch|Elo-i3-15Std|Elo-i3-15Std|Elo-i3-15Std|
 |ELO Touch|Elo-i3-PUCK|Elo-i3-PUCK|Elo-i3-PUCK|
 |ELO Touch|I-Series 3.0 for Android|Elo-i3-10Std|Elo-i3-10Std|
@@ -14167,6 +14174,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Linsar|Australia|hanyang|Linsar Android TV|
 |Linsar|Linsar|bangbae|Linsar 4K Android TV|
 |Linsar|Linsar|komagome|Linsar 2K Android TV|
+|Linsar|Linsar|sadang|Linsar UK 4K Android TV|
 |Linsay|F10XIPS|F10XIPS|F10XIPS|
 |Linsay|F10XIPS|F10XIPS|LINSAY F10XIPS|
 |Linsay|F7HD4CORE|F7HD4CORE|F7HD4CORE|
@@ -18878,6 +18886,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Punos|Punos_7|Punos_7|Punos 7|
 |QBell|EU|hanyang|QBELL Android TV|
 |QBell|EU|nippori|QBELL Android TV 2K|
+|QBell|QBell|bangbae|QBell 4K Android TV|
+|QBell|QBell|komagome|QBell 2K Android TV|
 |QBell|QPHONE_10_1|QPHONE_10_1|QPHONE_10.1|
 |QBell|QPHONE_9_3|QPHONE_9_3|QPHONE_9_3|
 |QBell|QTAB10|QTAB10|QTAB10|
@@ -19232,6 +19242,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Radger|IMP-F01K|IMP-F01K|IMP-F01K|
 |Rainbow|WIKO|s5501|RAINBOW|
 |Rakuten|C330|C330|C330|
+|Rakuten|Rakuten Hand|P710|P710|
 |Ratel|Cell|Cell|CELL|
 |Rayan|AM_TAB_7_03|AMAA703|AMA_A703|
 |Raylandz|H1 PLUS|PHOENIX_H1PLUS|PHOENIX_H1PLUS|
@@ -25560,6 +25571,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|POP 4 Pro|TECNO-BC3|TECNO BC3|
 |Tecno|POP1|TECNO-F3|TECNO F3|
 |Tecno|POVA|TECNO-LD7|TECNO LD7|
+|Tecno|POVA|TECNO-LD7j|TECNO LD7j|
 |Tecno|Phantom 9|TECNO-AB7|TECNO AB7|
 |Tecno|Phantom6|Phantom6|Phantom6|
 |Tecno|Phantom6 plus|Phantom6-Plus|Phantom6-Plus|
@@ -26188,6 +26200,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|A7|A7_EEA|A7|
 |Umidigi|A7 Pro|A7_Pro|A7 Pro|
 |Umidigi|A7 Pro EEA|A7_Pro|A7 Pro|
+|Umidigi|A7S|A7S|A7S|
 |Umidigi|BISON|BISON|BISON|
 |Umidigi|F1|F1|F1|
 |Umidigi|F1_EEA|F1|F1|
@@ -27118,6 +27131,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vsmart|Bee|V220A|Bee|
 |Vsmart|Bee|V220B|Bee|
 |Vsmart|Bee 3|clover|Bee 3|
+|Vsmart|Bee Lite|rice|Bee Lite|
 |Vsmart|Joy 1|PQ4001|Joy 1|
 |Vsmart|Joy 1 +|PQ4002|Joy 1+|
 |Vsmart|Joy 1+|PQ4002|Joy 1+|
@@ -27924,7 +27938,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |YUNTAB|YUNTAB-K107_EEA|YUNTAB-K107_EEA|YUNTAB-K107_EEA|
 |YUNTAB|YUNTAB-Q88|YUNTAB-Q88|YUNTAB-Q88|
 |Yandex|Amber|Amber|YNDX-000SB|
+|Yasin|YASIN|komagome|YASIN 2K Android TV|
 |Yasin|YASIN 2K TV|shinagawa|YASIN 2K TV|
+|Yasin|Yasin|bangbae|YASIN 4K Android TV|
 |Yekani|T3A  Trend|T3A_Trend|Trend|
 |Yes|Altitude 2|M651G_MY|M651G_MY|
 |Yes|Altitude 3|M685Y4|M685Y4|
@@ -27942,6 +27958,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Yezz|5E4|5E4|5E4|
 |Yezz|5EQ|5EQ|5EQ|
 |Yezz|ART1|ART1|ART1|
+|Yezz|ART1_PRO|ART1_PRO|ART1_PRO|
 |Yezz|E400A|E400A|E400A|
 |Yezz|EPIC_T|EPIC_T|EPIC T|
 |Yezz|GO1|GO1|GO1|
@@ -29279,6 +29296,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE 8010|P963F05|ZTE 8010|
 |ZTE|ZTE 8010|P963S05|ZTE 8010|
 |ZTE|ZTE 8010RU|P963F05|ZTE 8010RU|
+|ZTE|ZTE 8012N|P653S06|ZTE 8012N|
 |ZTE|ZTE A0616|P637S15|ZTE A0616|
 |ZTE|ZTE A0620|P840S13|ZTE A0620|
 |ZTE|ZTE A0622|P817S13|ZTE A0622|
@@ -29548,6 +29566,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zen|Zen Admire Swadesh+|ADMIRE_SWADESH_PLUS|ADMIRE SWADESH+|
 |Zen|Zen Cinemax Prime|ZEN_CINEMAX_PRIME|CINEMAX_PRIME|
 |Zen|Zen M72 Smart|M72_Smart|M72 Smart|
+|Zephir|Zephir|bangbae|Zephir 4K Android TV|
 |Zephir|Zephir|komagome|Zephir 2K Android TV|
 |Zettaly|ZA-407|ZA-407|Zettaly Avy ZA-407|
 |Zexelon|ZTAB01B|ZTAB01B|ZTAB01B|
