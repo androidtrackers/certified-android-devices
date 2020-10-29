@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-10-28
+Last sync is 2020-10-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1289,6 +1289,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ark|MemoPad_T1|MemoPad_T1|MemoPad_T1|
 |Ark|S504|S504|S504|
 |Ark|Wizard 1|Wizard_1|Wizard_1|
+|Arknikko|SophPad_X11|SophPad_X11|SophPad_X11|
 |Arris|VIP6102W Genesis|vip6102w|VIP6102W|
 |Arrow|RO-43LCS|ikebukuro|AI PONT|
 |Arrow|RO-55LCS|samseong|AI PONT|
@@ -1917,6 +1918,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|M5PLUS_AC24|Azumi_M5PLUS_AC24|M5+|
 |Azumi|M5s|Azumi_M5s|M5s|
 |Azumi|NOBU A55|NOBU_A55_AC01|Azumi NOBU A55|
+|Azumi|NOBU_A55_PRO|NOBU_A55_PRO|NOBU_A55_PRO|
 |Azumi|Nobu A55|NOBU_A55|Azumi NOBU A55|
 |Azumi|Speed 4|Azumi_Speed_4|Azumi Speed 4|
 |Azumi|Speed 5|Azumi_Speed_5B|Azumi Speed 5|
@@ -4274,7 +4276,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datalogic|Memor 20|Q10|Memor 20|
 |Datalogic|Memor 20|Q10A|Memor 20|
 |Datalogic|Memor K|memor_k|Memor K|
-|Datalogic|Skorpio X5|sx5|Skorpio X5|
 |Datamini|K508101|K508101|K508101|
 |Datamini|K908H4G|K908H4G|K908H4G|
 |Datamini|T74G|T74G|T74G|
@@ -4616,6 +4617,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dixon|DN6015|DN6015|DN6015|
 |Dixon|HK7-3502|HK7-3502|HK7-3502|
 |Dixon|KT5509|KT5509|KT5509|
+|Dixon|S90|S90|S90|
 |Dixon|TS_M103A|TS_M103A|TS_M103A|
 |Docomo|F-06F|F06F|F-06F|
 |Docomo|Japan|TT01|TT01|
@@ -6323,6 +6325,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gobox|T2|T2|T2|
 |Gol Mobile|F10|F10|F10|
 |Gol Mobile|F10_PRIME|F10_PRIME|F10_PRIME|
+|Gol Mobile|F11|F11|F11|
 |Gol Mobile|F3Prime|F3Prime|F3Prime|
 |Gol Mobile|F4|F4|F4|
 |Gol Mobile|F9|F9|F9|
@@ -11013,6 +11016,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Jesy|J11|J11|J11|
 |Jesy|J9S|J9S|J9S|
 |Jettom|P2000|P2000|P2000|
+|Jettom|P2000_EEA|P2000_EEA|P2000_EEA|
 |Jettom|RobotPad-A1|RobotPad-A1|RobotPad-A1|
 |Jettom|RobotPad-A1_EEA|RobotPad-A1_EEA|RobotPad-A1_EEA|
 |Jide|Remix Mini|rm1g|Remix Mini|
@@ -14511,6 +14515,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MLS Innovation|iQW608|iQW608|iQW608|
 |MLS Innovation|iQW626|iQW626|iQW626|
 |MNC NOW|CYBORG001|HP40A3|CYBORG001|
+|MOBILE KINGDOM|GENESIS_126|GENESIS_126|GENESIS_126|
 |MOBO|MB_530|MB_530|MB_530|
 |MOBULAA|K1|K1|K1|
 |MOBULAA|NOTE2|NOTE2|NOTE2|
@@ -16157,6 +16162,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|Multilaser G|Multilaser_G|Multilaser_G|
 |Multilaser|Multilaser G Max|Multilaser_G_Max|Multilaser_G_Max|
 |Multilaser|Multilaser G Pro|Multilaser_G_Pro|Multilaser_G_Pro|
+|Multilaser|Multilaser G Pro 2|Multilaser_GPRO2|Multilaser_GPRO2|
 |Multilaser|Multilaser G VIVO|Multilaser_G_VIVO|Multilaser_G_VIVO|
 |Multilaser|Multilaser H|Multilaser_H|Multilaser H|
 |Multilaser|Multilaser_F|Multilaser_F|Multilaser_F|
@@ -16807,6 +16813,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia 8 Sirocco|A1N_sprout|Nokia 8 Sirocco|
 |Nokia|Nokia 8.1|PNXN|Nokia 8.1|
 |Nokia|Nokia 8.1|PNX_sprout|Nokia 8.1|
+|Nokia|Nokia 8.3 5G|BGT|Nokia 8.3 5G|
+|Nokia|Nokia 8.3 5G|BGT_sprout|Nokia 8.3 5G|
 |Nokia|Nokia 9|AOP|Nokia 9|
 |Nokia|Nokia 9|AOP_sprout|Nokia 9|
 |Nokia|Nokia C1|RKU|Nokia C1|
@@ -18842,6 +18850,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|P7PRO_EEA|P7PRO_EEA|P7PRO_EEA|
 |Pritom|PRITOM|M10_EEA|M10_EEA|
 |Pritom|USA|M10|M10 Pro|
+|Prixton|Expert|Expert|Expert|
 |Prixton|T1700Q|T1700Q|T1700Q|
 |Prixton|T1800Q＿Plus|T1800Q_Plus|T1800Q Plus|
 |Prixton|T7014Q_Plus|T7014Q_Plus|T7014Q_Plus|
@@ -23043,6 +23052,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 1|SOV40|SOV40|
 |Sony|Xperia 1 II|SO-51A|SO-51A|
 |Sony|Xperia 1 II|SOG01|SOG01|
+|Sony|Xperia 1 II|XQ-AT42|XQ-AT42|
 |Sony|Xperia 1 II|XQ-AT51|XQ-AT51|
 |Sony|Xperia 1 II|XQ-AT52|XQ-AT52|
 |Sony|Xperia 1 II|XQ-AT72|XQ-AT72|
@@ -23069,6 +23079,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 5|SO-01M|SO-01M|
 |Sony|Xperia 5|SOV41|SOV41|
 |Sony|Xperia 5 II|A002SO|A002SO|
+|Sony|Xperia 5 II|SO-52A|SO-52A|
 |Sony|Xperia 5 II|SOG02|SOG02|
 |Sony|Xperia 5 II|XQ-AS52|XQ-AS52|
 |Sony|Xperia 5 II|XQ-AS72|XQ-AS72|
@@ -25312,6 +25323,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TO21COMMS|TOP10|TOP10|TOP10|
 |TONE|TONE e20|TONE_e20|TONE e20|
 |TOPELOTEK|KIDS06|KIDS06|KIDS06|
+|TOPELOTEK|KIDS08-X8|KIDS08-X8|KIDS08-X8|
 |TOPELOTEK|KIDS707|TOPELOTEK_KIDS707|KIDS707|
 |TOPELOTEK|KIDS708|KIDS708|KIDS708|
 |TOPELOTEK|KIDS709|KIDS709|KIDS709|

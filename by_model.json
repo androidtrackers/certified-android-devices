@@ -10127,6 +10127,13 @@
    "device": "Wizard_1"
   }
  ],
+ "SophPad_X11": [
+  {
+   "brand": "Arknikko",
+   "name": "SophPad_X11",
+   "device": "SophPad_X11"
+  }
+ ],
  "VIP6102W": [
   {
    "brand": "Arris",
@@ -14559,6 +14566,13 @@
    "brand": "Azumi",
    "name": "Nobu A55",
    "device": "NOBU_A55"
+  }
+ ],
+ "NOBU_A55_PRO": [
+  {
+   "brand": "Azumi",
+   "name": "NOBU_A55_PRO",
+   "device": "NOBU_A55_PRO"
   }
  ],
  "Azumi Speed 4": [
@@ -31453,13 +31467,6 @@
    "device": "memor_k"
   }
  ],
- "Skorpio X5": [
-  {
-   "brand": "Datalogic",
-   "name": "Skorpio X5",
-   "device": "sx5"
-  }
- ],
  "K508101": [
   {
    "brand": "Datamini",
@@ -33865,6 +33872,13 @@
    "brand": "Dixon",
    "name": "KT5509",
    "device": "KT5509"
+  }
+ ],
+ "S90": [
+  {
+   "brand": "Dixon",
+   "name": "S90",
+   "device": "S90"
   }
  ],
  "TS_M103A": [
@@ -46087,6 +46101,13 @@
    "brand": "Gol Mobile",
    "name": "F10_PRIME",
    "device": "F10_PRIME"
+  }
+ ],
+ "F11": [
+  {
+   "brand": "Gol Mobile",
+   "name": "F11",
+   "device": "F11"
   }
  ],
  "F3Prime": [
@@ -77227,6 +77248,13 @@
    "device": "J9S"
   }
  ],
+ "P2000_EEA": [
+  {
+   "brand": "Jettom",
+   "name": "P2000_EEA",
+   "device": "P2000_EEA"
+  }
+ ],
  "RobotPad-A1": [
   {
    "brand": "Jettom",
@@ -100594,6 +100622,13 @@
    "device": "HP40A3"
   }
  ],
+ "GENESIS_126": [
+  {
+   "brand": "MOBILE KINGDOM",
+   "name": "GENESIS_126",
+   "device": "GENESIS_126"
+  }
+ ],
  "MB_530": [
   {
    "brand": "MOBO",
@@ -111451,6 +111486,13 @@
    "device": "Multilaser_G_Pro"
   }
  ],
+ "Multilaser_GPRO2": [
+  {
+   "brand": "Multilaser",
+   "name": "Multilaser G Pro 2",
+   "device": "Multilaser_GPRO2"
+  }
+ ],
  "Multilaser_G_VIVO": [
   {
    "brand": "Multilaser",
@@ -115674,6 +115716,18 @@
    "brand": "Nokia",
    "name": "Nokia 8.1",
    "device": "PNX_sprout"
+  }
+ ],
+ "Nokia 8.3 5G": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia 8.3 5G",
+   "device": "BGT"
+  },
+  {
+   "brand": "Nokia",
+   "name": "Nokia 8.3 5G",
+   "device": "BGT_sprout"
   }
  ],
  "Nokia 9": [
@@ -129006,6 +129060,13 @@
    "brand": "Pritom",
    "name": "USA",
    "device": "M10"
+  }
+ ],
+ "Expert": [
+  {
+   "brand": "Prixton",
+   "name": "Expert",
+   "device": "Expert"
   }
  ],
  "T1700Q": [
@@ -157458,6 +157519,13 @@
    "device": "SOG01"
   }
  ],
+ "XQ-AT42": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 1 II",
+   "device": "XQ-AT42"
+  }
+ ],
  "XQ-AT51": [
   {
    "brand": "Sony",
@@ -157638,6 +157706,13 @@
    "brand": "Sony",
    "name": "Xperia 5 II",
    "device": "A002SO"
+  }
+ ],
+ "SO-52A": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 5 II",
+   "device": "SO-52A"
   }
  ],
  "SOG02": [
@@ -172558,6 +172633,13 @@
    "brand": "TOPELOTEK",
    "name": "KIDS06",
    "device": "KIDS06"
+  }
+ ],
+ "KIDS08-X8": [
+  {
+   "brand": "TOPELOTEK",
+   "name": "KIDS08-X8",
+   "device": "KIDS08-X8"
   }
  ],
  "KIDS707": [

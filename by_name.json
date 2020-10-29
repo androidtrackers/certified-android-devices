@@ -15566,6 +15566,13 @@
    "model": "Wizard_1"
   }
  ],
+ "SophPad_X11": [
+  {
+   "brand": "Arknikko",
+   "device": "SophPad_X11",
+   "model": "SophPad_X11"
+  }
+ ],
  "VIP6102W Genesis": [
   {
    "brand": "Arris",
@@ -19921,6 +19928,13 @@
    "brand": "Azumi",
    "device": "NOBU_A55_AC01",
    "model": "Azumi NOBU A55"
+  }
+ ],
+ "NOBU_A55_PRO": [
+  {
+   "brand": "Azumi",
+   "device": "NOBU_A55_PRO",
+   "model": "NOBU_A55_PRO"
   }
  ],
  "Nobu A55": [
@@ -37477,13 +37491,6 @@
    "model": "Memor K"
   }
  ],
- "Skorpio X5": [
-  {
-   "brand": "Datalogic",
-   "device": "sx5",
-   "model": "Skorpio X5"
-  }
- ],
  "K508101": [
   {
    "brand": "Datamini",
@@ -39789,6 +39796,18 @@
    "brand": "Dixon",
    "device": "KT5509",
    "model": "KT5509"
+  }
+ ],
+ "S90": [
+  {
+   "brand": "Dixon",
+   "device": "S90",
+   "model": "S90"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "sisleye",
+   "model": "Lenovo S90-e"
   }
  ],
  "TS_M103A": [
@@ -52118,6 +52137,28 @@
    "brand": "Gol Mobile",
    "device": "F10_PRIME",
    "model": "F10_PRIME"
+  }
+ ],
+ "F11": [
+  {
+   "brand": "Gol Mobile",
+   "device": "F11",
+   "model": "F11"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP4883",
+   "model": "CPH1911"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP4883",
+   "model": "CPH1913"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP4883",
+   "model": "CPH1915"
   }
  ],
  "F3Prime": [
@@ -79212,6 +79253,13 @@
    "model": "J9S"
   }
  ],
+ "P2000_EEA": [
+  {
+   "brand": "Jettom",
+   "device": "P2000_EEA",
+   "model": "P2000_EEA"
+  }
+ ],
  "RobotPad-A1": [
   {
    "brand": "Jettom",
@@ -96067,13 +96115,6 @@
    "model": "Lenovo S898t+"
   }
  ],
- "S90": [
-  {
-   "brand": "Lenovo",
-   "device": "sisleye",
-   "model": "Lenovo S90-e"
-  }
- ],
  "S90-A": [
   {
    "brand": "Lenovo",
@@ -99477,6 +99518,13 @@
    "brand": "MNC NOW",
    "device": "HP40A3",
    "model": "CYBORG001"
+  }
+ ],
+ "GENESIS_126": [
+  {
+   "brand": "MOBILE KINGDOM",
+   "device": "GENESIS_126",
+   "model": "GENESIS_126"
   }
  ],
  "MB_530": [
@@ -109233,6 +109281,13 @@
    "model": "Multilaser_G_Pro"
   }
  ],
+ "Multilaser G Pro 2": [
+  {
+   "brand": "Multilaser",
+   "device": "Multilaser_GPRO2",
+   "model": "Multilaser_GPRO2"
+  }
+ ],
  "Multilaser G VIVO": [
   {
    "brand": "Multilaser",
@@ -113314,6 +113369,18 @@
    "model": "Nokia 8.1"
   }
  ],
+ "Nokia 8.3 5G": [
+  {
+   "brand": "Nokia",
+   "device": "BGT",
+   "model": "Nokia 8.3 5G"
+  },
+  {
+   "brand": "Nokia",
+   "device": "BGT_sprout",
+   "model": "Nokia 8.3 5G"
+  }
+ ],
  "Nokia 9": [
   {
    "brand": "Nokia",
@@ -115829,23 +115896,6 @@
    "brand": "Oppo",
    "device": "CPH1909",
    "model": "CPH1909"
-  }
- ],
- "F11": [
-  {
-   "brand": "Oppo",
-   "device": "OP4883",
-   "model": "CPH1911"
-  },
-  {
-   "brand": "Oppo",
-   "device": "OP4883",
-   "model": "CPH1913"
-  },
-  {
-   "brand": "Oppo",
-   "device": "OP4883",
-   "model": "CPH1915"
   }
  ],
  "F11 Pro": [
@@ -126132,6 +126182,13 @@
    "brand": "Pritom",
    "device": "M10_EEA",
    "model": "M10_EEA"
+  }
+ ],
+ "Expert": [
+  {
+   "brand": "Prixton",
+   "device": "Expert",
+   "model": "Expert"
   }
  ],
  "T1700Q": [
@@ -150340,6 +150397,11 @@
   },
   {
    "brand": "Sony",
+   "device": "XQ-AT42",
+   "model": "XQ-AT42"
+  },
+  {
+   "brand": "Sony",
    "device": "XQ-AT51",
    "model": "XQ-AT51"
   },
@@ -150479,6 +150541,11 @@
    "brand": "Sony",
    "device": "A002SO",
    "model": "A002SO"
+  },
+  {
+   "brand": "Sony",
+   "device": "SO-52A",
+   "model": "SO-52A"
   },
   {
    "brand": "Sony",
@@ -163007,6 +163074,13 @@
    "brand": "TOPELOTEK",
    "device": "KIDS06",
    "model": "KIDS06"
+  }
+ ],
+ "KIDS08-X8": [
+  {
+   "brand": "TOPELOTEK",
+   "device": "KIDS08-X8",
+   "model": "KIDS08-X8"
   }
  ],
  "KIDS707": [

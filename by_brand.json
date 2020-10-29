@@ -6627,6 +6627,13 @@
    "model": "Wizard_1"
   }
  ],
+ "Arknikko": [
+  {
+   "device": "SophPad_X11",
+   "name": "SophPad_X11",
+   "model": "SophPad_X11"
+  }
+ ],
  "Arris": [
   {
    "device": "vip6102w",
@@ -9835,6 +9842,11 @@
    "device": "NOBU_A55_AC01",
    "name": "NOBU A55",
    "model": "Azumi NOBU A55"
+  },
+  {
+   "device": "NOBU_A55_PRO",
+   "name": "NOBU_A55_PRO",
+   "model": "NOBU_A55_PRO"
   },
   {
    "device": "NOBU_A55",
@@ -22078,11 +22090,6 @@
    "device": "memor_k",
    "name": "Memor K",
    "model": "Memor K"
-  },
-  {
-   "device": "sx5",
-   "name": "Skorpio X5",
-   "model": "Skorpio X5"
   }
  ],
  "Datamini": [
@@ -23876,6 +23883,11 @@
    "device": "KT5509",
    "name": "KT5509",
    "model": "KT5509"
+  },
+  {
+   "device": "S90",
+   "name": "S90",
+   "model": "S90"
   },
   {
    "device": "TS_M103A",
@@ -32835,6 +32847,11 @@
    "device": "F10_PRIME",
    "name": "F10_PRIME",
    "model": "F10_PRIME"
+  },
+  {
+   "device": "F11",
+   "name": "F11",
+   "model": "F11"
   },
   {
    "device": "F3Prime",
@@ -56607,6 +56624,11 @@
    "model": "P2000"
   },
   {
+   "device": "P2000_EEA",
+   "name": "P2000_EEA",
+   "model": "P2000_EEA"
+  },
+  {
    "device": "RobotPad-A1",
    "name": "RobotPad-A1",
    "model": "RobotPad-A1"
@@ -74421,6 +74443,13 @@
    "model": "CYBORG001"
   }
  ],
+ "MOBILE KINGDOM": [
+  {
+   "device": "GENESIS_126",
+   "name": "GENESIS_126",
+   "model": "GENESIS_126"
+  }
+ ],
  "MOBO": [
   {
    "device": "MB_530",
@@ -82879,6 +82908,11 @@
    "model": "Multilaser_G_Pro"
   },
   {
+   "device": "Multilaser_GPRO2",
+   "name": "Multilaser G Pro 2",
+   "model": "Multilaser_GPRO2"
+  },
+  {
    "device": "Multilaser_G_VIVO",
    "name": "Multilaser G VIVO",
    "model": "Multilaser_G_VIVO"
@@ -86267,6 +86301,16 @@
    "device": "PNX_sprout",
    "name": "Nokia 8.1",
    "model": "Nokia 8.1"
+  },
+  {
+   "device": "BGT",
+   "name": "Nokia 8.3 5G",
+   "model": "Nokia 8.3 5G"
+  },
+  {
+   "device": "BGT_sprout",
+   "name": "Nokia 8.3 5G",
+   "model": "Nokia 8.3 5G"
   },
   {
    "device": "AOP",
@@ -96705,6 +96749,11 @@
   }
  ],
  "Prixton": [
+  {
+   "device": "Expert",
+   "name": "Expert",
+   "model": "Expert"
+  },
   {
    "device": "T1700Q",
    "name": "T1700Q",
@@ -118085,6 +118134,11 @@
    "model": "SOG01"
   },
   {
+   "device": "XQ-AT42",
+   "name": "Xperia 1 II",
+   "model": "XQ-AT42"
+  },
+  {
    "device": "XQ-AT51",
    "name": "Xperia 1 II",
    "model": "XQ-AT51"
@@ -118213,6 +118267,11 @@
    "device": "A002SO",
    "name": "Xperia 5 II",
    "model": "A002SO"
+  },
+  {
+   "device": "SO-52A",
+   "name": "Xperia 5 II",
+   "model": "SO-52A"
   },
   {
    "device": "SOG02",
@@ -129576,6 +129635,11 @@
    "device": "KIDS06",
    "name": "KIDS06",
    "model": "KIDS06"
+  },
+  {
+   "device": "KIDS08-X8",
+   "name": "KIDS08-X8",
+   "model": "KIDS08-X8"
   },
   {
    "device": "TOPELOTEK_KIDS707",
