@@ -21395,6 +21395,13 @@
    "device": "EF501"
   }
  ],
+ "EF550": [
+  {
+   "brand": "Bluebird",
+   "name": "EF550",
+   "device": "EF550"
+  }
+ ],
  "HF450": [
   {
    "brand": "Bluebird",
@@ -105490,6 +105497,11 @@
    "brand": "Mint",
    "name": "MINT_LEGEND",
    "device": "MINT_LEGEND"
+  },
+  {
+   "brand": "Mobicell",
+   "name": "Legend",
+   "device": "Legend"
   }
  ],
  "Pearl+_M5PD": [
@@ -160513,6 +160525,13 @@
    "device": "TAB-750_G"
   }
  ],
+ "TB001": [
+  {
+   "brand": "Soultech",
+   "name": "TB001",
+   "device": "TB001"
+  }
+ ],
  "Connect 451": [
   {
    "brand": "Sourcing Creation",
@@ -172794,6 +172813,13 @@
    "brand": "TVUp",
    "name": "Mediacenter 6G 4K",
    "device": "SEI300T"
+  }
+ ],
+ "TVision": [
+  {
+   "brand": "TVision",
+   "name": "SEI400TM",
+   "device": "SEI400TM"
   }
  ],
  "2E E450 2018": [
@@ -189248,6 +189274,11 @@
   {
    "brand": "Yandex",
    "name": "Amber",
+   "device": "Amber"
+  },
+  {
+   "brand": "Yandex",
+   "name": "YNDX-000SB",
    "device": "Amber"
   }
  ],

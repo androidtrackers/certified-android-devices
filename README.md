@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-10-29
+Last sync is 2020-10-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2862,6 +2862,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bluebird|EF501|EF501|EF501|
 |Bluebird|EF501R|EF501|EF501|
 |Bluebird|EF501R|EF501|EF501R_RU|
+|Bluebird|EF550|EF550|EF550|
 |Bluebird|HF450|HF450|HF450|
 |Bluebird|HF550|HF550|HF550|
 |Bluebird|HF550|HF550|HF550_RU|
@@ -15360,6 +15361,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|HERO_DS|HERO_DS|HERO_DS|
 |Mobicell|HYPE|HYPE|HYPE|
 |Mobicell|Icon|Mobicel_Icon|Icon|
+|Mobicell|Legend|Legend|Legend|
 |Mobicell|METRO2|METRO2|MOBICEL METRO2|
 |Mobicell|Matrix|Matrix|Matrix|
 |Mobicell|Mobicel|Sonic|Sonic|
@@ -23519,6 +23521,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SonyAudio|NW-A100|icx1293|NW-A100Series|
 |SonyAudio|NW-ZX500|icx1295|NW-ZX500Series|
 |Sophix_Digix|TAB-750_G|TAB-750_G|TAB-750_G|
+|Soultech|TB001|TB001|TB001|
 |Sourcing Creation|Connect 451|Connect451|Connect 451|
 |Sourcing Creation|Connect 504|Q9|Connect504|
 |Sourcing Creation|Connect502|Connect502|Connect502|
@@ -25348,6 +25351,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TVB|A15|A151|A15|
 |TVUp|HP5116|HPA12_8GB|HP5116|
 |TVUp|Mediacenter 6G 4K|SEI300T|Mediacenter 6G 4K|
+|TVision|SEI400TM|SEI400TM|TVision|
 |TWOE|2E E450A 2018|E450A2018|2E E450 2018|
 |TWOE|E500A_2019|E500A_2019|E500A_2019|
 |TWOE|F534L|F534L|F534L|
@@ -27950,6 +27954,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |YUNTAB|YUNTAB-K107_EEA|YUNTAB-K107_EEA|YUNTAB-K107_EEA|
 |YUNTAB|YUNTAB-Q88|YUNTAB-Q88|YUNTAB-Q88|
 |Yandex|Amber|Amber|YNDX-000SB|
+|Yandex|YNDX-000SB|Amber|YNDX-000SB|
 |Yasin|YASIN|komagome|YASIN 2K Android TV|
 |Yasin|YASIN 2K TV|shinagawa|YASIN 2K TV|
 |Yasin|Yasin|bangbae|YASIN 4K Android TV|

@@ -14684,6 +14684,11 @@
    "model": "EF501R_RU"
   },
   {
+   "device": "EF550",
+   "name": "EF550",
+   "model": "EF550"
+  },
+  {
    "device": "HF450",
    "name": "HF450",
    "model": "HF450"
@@ -78828,6 +78833,11 @@
    "model": "Icon"
   },
   {
+   "device": "Legend",
+   "name": "Legend",
+   "model": "Legend"
+  },
+  {
    "device": "METRO2",
    "name": "METRO2",
    "model": "MOBICEL METRO2"
@@ -120475,6 +120485,13 @@
    "model": "TAB-750_G"
   }
  ],
+ "Soultech": [
+  {
+   "device": "TB001",
+   "name": "TB001",
+   "model": "TB001"
+  }
+ ],
  "Sourcing Creation": [
   {
    "device": "Connect451",
@@ -129784,6 +129801,13 @@
    "device": "SEI300T",
    "name": "Mediacenter 6G 4K",
    "model": "Mediacenter 6G 4K"
+  }
+ ],
+ "TVision": [
+  {
+   "device": "SEI400TM",
+   "name": "SEI400TM",
+   "model": "TVision"
   }
  ],
  "TWOE": [
@@ -143325,6 +143349,11 @@
   {
    "device": "Amber",
    "name": "Amber",
+   "model": "YNDX-000SB"
+  },
+  {
+   "device": "Amber",
+   "name": "YNDX-000SB",
    "model": "YNDX-000SB"
   }
  ],
