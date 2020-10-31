@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-10-30
+Last sync is 2020-10-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -23982,6 +23982,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL L10+|Tokyo|5128A|
 |TCL|TCL L10+|Tokyo|5128Y|
 |TCL|TCL L5|U3A_PLUS_4G|5133A|
+|TCL|TCL L7|Seoul|5102B|
 |TCL|TCL L7|Seoul|5102I|
 |TCL|TCL L7|Seoul|5102K|
 |TCL|TCL L7|Seoul|5102M|

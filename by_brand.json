@@ -122896,6 +122896,11 @@
   {
    "device": "Seoul",
    "name": "TCL L7",
+   "model": "5102B"
+  },
+  {
+   "device": "Seoul",
+   "name": "TCL L7",
    "model": "5102I"
   },
   {
