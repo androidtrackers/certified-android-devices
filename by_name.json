@@ -6922,6 +6922,13 @@
    "model": "A1052"
   }
  ],
+ "A1080": [
+  {
+   "brand": "AZPEN",
+   "device": "mid1032_mk_32",
+   "model": "A1080"
+  }
+ ],
  "A720": [
   {
    "brand": "AZPEN",
@@ -78875,6 +78882,13 @@
    "model": "TPC-G109"
   }
  ],
+ "M70E": [
+  {
+   "brand": "JEEMAK",
+   "device": "M70E",
+   "model": "M70E"
+  }
+ ],
  "PRO-7": [
   {
    "brand": "JLab",
@@ -100047,6 +100061,13 @@
    "model": "OTT-G1"
   }
  ],
+ "JACK": [
+  {
+   "brand": "Majestic",
+   "device": "JACK",
+   "model": "JACK"
+  }
+ ],
  "TAB 611 3G": [
   {
    "brand": "Majestic",
@@ -101056,6 +101077,13 @@
    "brand": "Mecer",
    "device": "M17QF6_4G",
    "model": "M17QF6_4G"
+  }
+ ],
+ "M76QF6": [
+  {
+   "brand": "Mecer",
+   "device": "M76QF6",
+   "model": "M76QF6"
   }
  ],
  "M785P": [
@@ -111983,6 +112011,13 @@
    "model": "Navon Supreme Pure"
   }
  ],
+ "NavonOrpheus3G2020": [
+  {
+   "brand": "Navon",
+   "device": "NavonOrpheus3G2020",
+   "model": "NavonOrpheus3G2020"
+  }
+ ],
  "Navon_Orpheus_3G": [
   {
    "brand": "Navon",
@@ -114264,6 +114299,13 @@
    "brand": "OK (Mediamark)",
    "device": "bangbae",
    "model": "OK 4K Android TV"
+  }
+ ],
+ "Okapi10_Simple": [
+  {
+   "brand": "OKAPI",
+   "device": "Okapi10_Simple",
+   "model": "Okapi10_Simple"
   }
  ],
  "PI Plus": [
@@ -118449,6 +118491,13 @@
    "brand": "PAPAGO",
    "device": "GoPad8",
    "model": "GoPad8"
+  }
+ ],
+ "EV1_PRO": [
+  {
+   "brand": "PARTNER MOBILE",
+   "device": "EV1_PRO",
+   "model": "EV1 PRO"
   }
  ],
  "PCSGOB10MVA-A": [
@@ -147053,6 +147102,13 @@
    "model": "SHV46"
   }
  ],
+ "AQUOS sense4 SH-41A": [
+  {
+   "brand": "Sharp",
+   "device": "Jerid",
+   "model": "SH-41A"
+  }
+ ],
  "AQUOS zero": [
   {
    "brand": "Sharp",
@@ -164930,6 +164986,11 @@
    "brand": "Tecno",
    "device": "TECNO-KE5j",
    "model": "TECNO KE5j"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KE5k",
+   "model": "TECNO KE5k"
   }
  ],
  "SPARK 6 Go": [

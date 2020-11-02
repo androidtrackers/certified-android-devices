@@ -775,6 +775,11 @@
    "model": "A1052"
   },
   {
+   "device": "mid1032_mk_32",
+   "name": "A1080",
+   "model": "A1080"
+  },
+  {
    "device": "wing-inet",
    "name": "A720",
    "model": "A720"
@@ -56288,6 +56293,11 @@
    "device": "M70",
    "name": "M70",
    "model": "M70"
+  },
+  {
+   "device": "M70E",
+   "name": "M70E",
+   "model": "M70E"
   }
  ],
  "JLab": [
@@ -74881,6 +74891,11 @@
  ],
  "Majestic": [
   {
+   "device": "JACK",
+   "name": "JACK",
+   "model": "JACK"
+  },
+  {
    "device": "TAB_611_3G",
    "name": "TAB 611 3G",
    "model": "TAB 611 3G"
@@ -75731,6 +75746,11 @@
    "device": "M17QF6_4G",
    "name": "M17QF6_4G",
    "model": "M17QF6_4G"
+  },
+  {
+   "device": "M76QF6",
+   "name": "M76QF6",
+   "model": "M76QF6"
   },
   {
    "device": "M785P",
@@ -85104,6 +85124,11 @@
    "model": "Navon Supreme Pure"
   },
   {
+   "device": "NavonOrpheus3G2020",
+   "name": "NavonOrpheus3G2020",
+   "model": "NavonOrpheus3G2020"
+  },
+  {
    "device": "Navon_Orpheus_3G",
    "name": "Navon_Orpheus_3G",
    "model": "Navon Orpheus 3G"
@@ -87055,6 +87080,13 @@
    "device": "bangbae",
    "name": "OK",
    "model": "OK 4K Android TV"
+  }
+ ],
+ "OKAPI": [
+  {
+   "device": "Okapi10_Simple",
+   "name": "Okapi10_Simple",
+   "model": "Okapi10_Simple"
   }
  ],
  "OKWU": [
@@ -90635,6 +90667,13 @@
    "device": "GoPad8",
    "name": "GoPad8",
    "model": "GoPad8"
+  }
+ ],
+ "PARTNER MOBILE": [
+  {
+   "device": "EV1_PRO",
+   "name": "EV1_PRO",
+   "model": "EV1 PRO"
   }
  ],
  "PATTERS": [
@@ -115389,6 +115428,11 @@
    "model": "SHV46"
   },
   {
+   "device": "Jerid",
+   "name": "AQUOS sense4 SH-41A",
+   "model": "SH-41A"
+  },
+  {
    "device": "SG801SH",
    "name": "AQUOS zero",
    "model": "801SH"
@@ -131284,6 +131328,11 @@
    "device": "TECNO-KE5j",
    "name": "SPARK 6 GO",
    "model": "TECNO KE5j"
+  },
+  {
+   "device": "TECNO-KE5k",
+   "name": "SPARK 6 GO",
+   "model": "TECNO KE5k"
   },
   {
    "device": "TECNO-KE5k",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-11-01
+Last sync is 2020-11-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -145,6 +145,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AZOM TECH|Desert2|Desert2|Desert2|
 |AZPEN|A1046G|A1046G|A1046G|
 |AZPEN|A1052|A1052|A1052|
+|AZPEN|A1080|mid1032_mk_32|A1080|
 |AZPEN|A720|wing-inet|A720|
 |AZPEN|A780|A780|A780|
 |AZPEN|A780B|A780B|A780B|
@@ -10954,6 +10955,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JAY-TECH|TPC-G1010|TPC-G1010_EEA|TPC-G1010|
 |JAY-TECH|TPC-G109_EEA|TPC-G109|TPC-G109|
 |JEEMAK|M70|M70|M70|
+|JEEMAK|M70E|M70E|M70E|
 |JLab|PRO-7|polaris-p1gms|JLab PRO-7|
 |JP Sacouto|Flag Mill v2|MG101A2T_BT|Flag Mill v2|
 |JP Sacouto|Flag Mill v2|MG101A2T_BT_A50|Flag Mill v2|
@@ -14593,6 +14595,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mafe|Z2|Z2|Z2|
 |MagentaTV|DV6067Y-T|DV6067Y_TVStick|DV6067Y-T|
 |MagentaTV|OTT-G1|DV6067Y|OTT-G1|
+|Majestic|JACK|JACK|JACK|
 |Majestic|TAB 611 3G|TAB_611_3G|TAB 611 3G|
 |Majestic|TAB-714|TAB-714|TAB-714|
 |Majestic|TAB-746|TAB-746|TAB-746|
@@ -14753,6 +14756,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mecer|800P71D|800P71D|800P71D|
 |Mecer|M17QF6_3G|M17QF6_3G|M17QF6_3G|
 |Mecer|M17QF6_4G|M17QF6_4G|M17QF6_4G|
+|Mecer|M76QF6|M76QF6|M76QF6|
 |Mecer|M785P|M785P|M785P|
 |Mecer|M86Q9-3G|M86Q9-3G|M86Q9-3G|
 |Mecer|MF716|MF716|MF716|
@@ -16586,6 +16590,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Navon|Infinity|Infinity|Navon_Infinity|
 |Navon|M505|M505_4G|M505_4G|
 |Navon|Navon Supreme  Pure|Supreme_Pure|Navon Supreme Pure|
+|Navon|NavonOrpheus3G2020|NavonOrpheus3G2020|NavonOrpheus3G2020|
 |Navon|Navon_Orpheus_3G|Navon_Orpheus_3G|Navon Orpheus 3G|
 |Navon|Pad 10|Pad_10|Pad_10|
 |Navon|Platinum 10 3G|Platinum_10_3G|Platinum 10 3G|
@@ -16957,6 +16962,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OK (Mediamark)|ODL 32770H-TAB|ikebukuro|AI PONT|
 |OK (Mediamark)|ODL50672U-TAB|samseong|AI PONT|
 |OK (Mediamark)|OK|bangbae|OK 4K Android TV|
+|OKAPI|Okapi10_Simple|Okapi10_Simple|Okapi10_Simple|
 |OKWU|PI Plus|PI_Plus|PI Plus|
 |ONDA TLC|T7 Pro|T7_PRO|T7_PRO|
 |ONDA TLC|T9 S|T9S|T9S|
@@ -17655,6 +17661,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oysters|T72HM3G|T72HM3G|T72HM3G|
 |Oysters|T72HMs 3G|T72HM3G|T72HMs_3G|
 |PAPAGO|GoPad8|GoPad8|GoPad8|
+|PARTNER MOBILE|EV1_PRO|EV1_PRO|EV1 PRO|
 |PATTERS|P7|P7|P7|
 |PAX (CN)|A50|A50|A50|
 |PC Smart|PCSGOB10MVA-A|PCSGOB10MVA-A|PCSGOB10MVA-A|
@@ -22521,6 +22528,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS sense3 plus SH-M11|SH-M11|SH-M11|
 |Sharp|AQUOS sense3 plus SH-RM11|SH-RM11|SH-RM11|
 |Sharp|AQUOS sense3 plus　サウンド SHV46|OBY|SHV46|
+|Sharp|AQUOS sense4 SH-41A|Jerid|SH-41A|
 |Sharp|AQUOS zero|SG801SH|801SH|
 |Sharp|AQUOS zero|SH-Z10|SH-Z10|
 |Sharp|AQUOS zero|SH-Z10A|SH-Z10A|
@@ -25640,6 +25648,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|SPARK 6 Air|TECNO-KE6|TECNO KE6|
 |Tecno|SPARK 6 Air|TECNO-KE6j|TECNO KE6j|
 |Tecno|SPARK 6 GO|TECNO-KE5j|TECNO KE5j|
+|Tecno|SPARK 6 GO|TECNO-KE5k|TECNO KE5k|
 |Tecno|SPARK 6 Go|TECNO-KE5k|TECNO KE5k|
 |Tecno|SPARK CM|TECNO-KA9|TECNO KA9|
 |Tecno|SPARK Go 2020|TECNO-KE5|TECNO KE5|

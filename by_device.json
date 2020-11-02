@@ -1622,6 +1622,13 @@
    "model": "A1052"
   }
  ],
+ "mid1032_mk_32": [
+  {
+   "brand": "AZPEN",
+   "name": "A1080",
+   "model": "A1080"
+  }
+ ],
  "wing-inet": [
   {
    "brand": "AZPEN",
@@ -74982,6 +74989,13 @@
    "model": "TPC-G109"
   }
  ],
+ "M70E": [
+  {
+   "brand": "JEEMAK",
+   "name": "M70E",
+   "model": "M70E"
+  }
+ ],
  "polaris-p1gms": [
   {
    "brand": "JLab",
@@ -98005,6 +98019,13 @@
    "model": "OTT-G1"
   }
  ],
+ "JACK": [
+  {
+   "brand": "Majestic",
+   "name": "JACK",
+   "model": "JACK"
+  }
+ ],
  "TAB_611_3G": [
   {
    "brand": "Majestic",
@@ -99052,6 +99073,13 @@
    "brand": "Mecer",
    "name": "M17QF6_4G",
    "model": "M17QF6_4G"
+  }
+ ],
+ "M76QF6": [
+  {
+   "brand": "Mecer",
+   "name": "M76QF6",
+   "model": "M76QF6"
   }
  ],
  "M785P": [
@@ -111028,6 +111056,13 @@
    "model": "Navon Supreme Pure"
   }
  ],
+ "NavonOrpheus3G2020": [
+  {
+   "brand": "Navon",
+   "name": "NavonOrpheus3G2020",
+   "model": "NavonOrpheus3G2020"
+  }
+ ],
  "Navon_Orpheus_3G": [
   {
    "brand": "Navon",
@@ -113368,6 +113403,13 @@
    "brand": "ODYS",
    "name": "FALCON_10_PLUS_3G",
    "model": "FALCON_10_PLUS_3G"
+  }
+ ],
+ "Okapi10_Simple": [
+  {
+   "brand": "OKAPI",
+   "name": "Okapi10_Simple",
+   "model": "Okapi10_Simple"
   }
  ],
  "PI_Plus": [
@@ -117855,6 +117897,13 @@
    "brand": "PAPAGO",
    "name": "GoPad8",
    "model": "GoPad8"
+  }
+ ],
+ "EV1_PRO": [
+  {
+   "brand": "PARTNER MOBILE",
+   "name": "EV1_PRO",
+   "model": "EV1 PRO"
   }
  ],
  "PCSGOB10MVA-A": [
@@ -148852,6 +148901,13 @@
    "model": "SHV46"
   }
  ],
+ "Jerid": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense4 SH-41A",
+   "model": "SH-41A"
+  }
+ ],
  "SG801SH": [
   {
    "brand": "Sharp",
@@ -167405,6 +167461,11 @@
   }
  ],
  "TECNO-KE5k": [
+  {
+   "brand": "Tecno",
+   "name": "SPARK 6 GO",
+   "model": "TECNO KE5k"
+  },
   {
    "brand": "Tecno",
    "name": "SPARK 6 Go",

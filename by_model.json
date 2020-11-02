@@ -1481,6 +1481,13 @@
    "device": "A1052"
   }
  ],
+ "A1080": [
+  {
+   "brand": "AZPEN",
+   "name": "A1080",
+   "device": "mid1032_mk_32"
+  }
+ ],
  "A720": [
   {
    "brand": "AZPEN",
@@ -76884,6 +76891,13 @@
    "device": "TPC-G109"
   }
  ],
+ "M70E": [
+  {
+   "brand": "JEEMAK",
+   "name": "M70E",
+   "device": "M70E"
+  }
+ ],
  "JLab PRO-7": [
   {
    "brand": "JLab",
@@ -101206,6 +101220,13 @@
    "device": "DV6067Y"
   }
  ],
+ "JACK": [
+  {
+   "brand": "Majestic",
+   "name": "JACK",
+   "device": "JACK"
+  }
+ ],
  "TAB 611 3G": [
   {
    "brand": "Majestic",
@@ -102228,6 +102249,13 @@
    "brand": "Mecer",
    "name": "M17QF6_4G",
    "device": "M17QF6_4G"
+  }
+ ],
+ "M76QF6": [
+  {
+   "brand": "Mecer",
+   "name": "M76QF6",
+   "device": "M76QF6"
   }
  ],
  "M785P": [
@@ -114268,6 +114296,13 @@
    "device": "Supreme_Pure"
   }
  ],
+ "NavonOrpheus3G2020": [
+  {
+   "brand": "Navon",
+   "name": "NavonOrpheus3G2020",
+   "device": "NavonOrpheus3G2020"
+  }
+ ],
  "Navon Orpheus 3G": [
   {
    "brand": "Navon",
@@ -116652,6 +116687,13 @@
    "brand": "OK (Mediamark)",
    "name": "OK",
    "device": "bangbae"
+  }
+ ],
+ "Okapi10_Simple": [
+  {
+   "brand": "OKAPI",
+   "name": "Okapi10_Simple",
+   "device": "Okapi10_Simple"
   }
  ],
  "PI Plus": [
@@ -121202,6 +121244,13 @@
    "brand": "PAPAGO",
    "name": "GoPad8",
    "device": "GoPad8"
+  }
+ ],
+ "EV1 PRO": [
+  {
+   "brand": "PARTNER MOBILE",
+   "name": "EV1_PRO",
+   "device": "EV1_PRO"
   }
  ],
  "PCSGOB10MVA-A": [
@@ -153979,6 +154028,13 @@
    "device": "OBY"
   }
  ],
+ "SH-41A": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense4 SH-41A",
+   "device": "Jerid"
+  }
+ ],
  "801SH": [
   {
    "brand": "Sharp",
@@ -174749,6 +174805,11 @@
   }
  ],
  "TECNO KE5k": [
+  {
+   "brand": "Tecno",
+   "name": "SPARK 6 GO",
+   "device": "TECNO-KE5k"
+  },
   {
    "brand": "Tecno",
    "name": "SPARK 6 Go",
