@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-11-02
+Last sync is 2020-11-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2115,6 +2115,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|5060|BQru-5060|BQru-5060|
 |BQru|5701L Slim|BQru-5701L|BQ-5701L|
 |BQru|BQ 5503 NICE 2|BQru_5503|BQru-5503|
+|BQru|BQ-1020L|BQru-1020L|BQ-1020L|
 |BQru|BQ-1024L|BQru-1024L|BQ-1024L|
 |BQru|BQ-1045G|BQru-1045|BQ-1045|
 |BQru|BQ-1045G|BQru-1045G_2019|BQ-1045G|
@@ -2204,12 +2205,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-6010G|BQru_6010G|BQ-6010G|
 |BQru|BQ-6015L Universe|BQru-6015L|BQ-6015L|
 |BQru|BQ-6030G|BQru-6030G|BQ-6030G|
+|BQru|BQ-6030G_7731|BQru-6030G_7731|BQ-6030G|
 |BQru|BQ-6035L|BQru-6035L|BQ-6035L|
 |BQru|BQ-6040L|BQru-6040L|BQ-6040L|
 |BQru|BQ-6042|BQru-6042L|BQ-6042L|
 |BQru|BQ-6045L Nice|BQru-6045L|BQ-6045L|
 |BQru|BQ-6200L Aurora|BQru-6200L|BQ-6200L|
 |BQru|BQ-6424L|BQru-6424L|BQ-6424L|
+|BQru|BQ-6630L|BQru-6630L|BQ-6630L|
 |BQru|BQ-7000G|BQru-7000G|BQ-7000G|
 |BQru|BQ-7000G|BQru-7000G_2020|BQ-7000G|
 |BQru|BQ-7022G|BQru-7022|BQ-7022|
@@ -2367,6 +2370,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Beneve|M7133E|M7133E|M7133E|
 |Beneve|M7133E3|M7133E3|M7133E3|
 |Beneve|M755|M755|M755|
+|Benten|T10|Benten_T10|T10|
 |Benten|T8|T8|T8|
 |Bentley|SDIS1|sdis1|BENTLEY ENTERTAINMENT TABLET|
 |Bentley|Tab|sdis1|BENTLEY ENTERTAINMENT TABLET|
@@ -3148,6 +3152,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Casper|VIA_S10|VIA_S10|VIA_S10|
 |Casper|VIA_S17|VIA_S17|VIA_S17|
 |Casper|VIA_S18|VIA_S18|VIA_S18|
+|Casper|VIA_S30|VIA_S30|VIA_S30|
 |Casper|VIA_T41|VIA_T41|VIA_T41|
 |Cat|B15|TOUGH|B15|
 |Cat|B15Q|B15Q|B15Q|
@@ -4815,6 +4820,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dtac|dtac_Phone_S2|dtacPhoneS2|dtac_Phone_S2|
 |Dual|BDL0948|BDL0948|BDL0948|
 |Dual|Dual|bangbae|Dual 4K Android TV|
+|Dual|Dual|komagome|Dual 2K Android TV|
 |Dunns|Dunns Slinger|DunnsSlinger|Dunns Slinger|
 |Dunns|ETAB_M9041G|ETAB_M9041G|ETAB_M9041G|
 |Dunns|Smarty II|Smarty_II|Smarty_II|
@@ -5080,6 +5086,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Emerson|EM9|EM9|EM9|
 |Emporia|Emporia SMART 3|S3|S3|
 |Emporia|S3mini|S3mini|S3mini|
+|Emporia|emporiaSMART.4|S4|S4|
 |Emtec|F400|f400|f400|
 |Emtec|Gaming Android Gem Box|F500|Gem Box F500|
 |Emtec|PBSKD7001|PBSKD7001|PBSKD7001|
@@ -5185,6 +5192,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Estar|Lithuania|tamachi|eSTAR FHD Android TV|
 |Estar|MID1020L|MID1020L|MID1020L|
 |Estar|MID7399|MID7399|eSTAR BEAUTY 3 HD Quad core|
+|Estar|MID7399_WW|MID7399_WW|MID7399_WW|
 |Estar|eSTAR BEAUTY 2 HD Quad core|MID7388|eSTAR BEAUTY 2 HD Quad core|
 |Estar|eSTAR GRAND HD Quad Core|MID1298|eSTAR GRAND HD Quad core|
 |Estla|UHD Android TV|sindorim|AI PONT|
@@ -5210,6 +5218,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Evercoss|M55C|M55C|M55C|
 |Evercoss|M6|M6|M6|
 |Evercoss|M60|M60|M60|
+|Evercoss|M6A|M6A|M6A|
 |Evercoss|M70|M70|M70|
 |Evercoss|M80|EVERCOSS_M80|M80|
 |Evercoss|One X|A65_sprout|EVERCOSS A65|
@@ -6197,6 +6206,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gionee|GIONEE M7L|GIONEE_SW17G07|GIONEE M7L|
 |Gionee|GIONEE MAX|GIONEE_MAX|GIONEE MAX|
 |Gionee|GIONEE X1|GIONEE_SWW1631|GIONEE X1|
+|Gionee|GIONEE_H603|GIONEE_H603|GIONEE M12|
+|Gionee|GIONEE_H603B|GIONEE_H603|GIONEE M12|
 |Gionee|GIONEE_M100|GIONEE_M100|M100|
 |Gionee|GIONEE_M11|GIONEE_M11|M11|
 |Gionee|GN152|GiONEE_CBL7320|GN152|
@@ -8207,6 +8218,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hometech|ALFA_7M|ALFA_7M|ALFA_7M|
 |Hometech|ALFA_7RC|ALFA_7RC|ALFA_7RC|
 |Hometech|EMEA|ALFA_7RS|ALFA 7RS|
+|Hometech|HOMETECH|mid7015_32|Alfa7LM|
 |Hometech|HT_7RT Tablet PC|HT_7RT|HT_7RT|
 |Hometech|HT_8MZ|HT_8MZ|HT_8MZ|
 |Hometech|Turkey|ALFA_7MRC|ALFA_7MRC|
@@ -8302,6 +8314,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|EDA50P|EDA50P-1|EDA50P|
 |Honeywell|EDA51|EDA51-0|EDA51|
 |Honeywell|EDA51|EDA51-1|EDA51|
+|Honeywell|EDA51K|EDA51K-0|EDA51K|
+|Honeywell|EDA51K|EDA51K-1|EDA51K|
 |Honeywell|EDA61K|EDA61K-0C|EDA61K|
 |Honeywell|EDA61K|EDA61K-0U|EDA61K|
 |Honeywell|EDA61K|EDA61K-1C|EDA61K|
@@ -10227,6 +10241,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IkuMobile|IKU_i1|IKU_i1|i1|
 |IkuMobile|K2|IKU_K2|K2|
 |IkuMobile|K3|K3|IKU K3|
+|IkuMobile|K5|K5|K5|
 |IkuMobile|T1|T1|iKU T1|
 |IkuMobile|T4|T4|T4|
 |IkuMobile|Y2|Y2|Y2|
@@ -10810,6 +10825,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|A22|itel-A22|itel A22|
 |Itel|A22 Pro|itel-A22-Pro|itel A22 Pro|
 |Itel|A23|itel-A23F|itel A23P|
+|Itel|A23|itel-L5006|itel L5006|
 |Itel|A23 Pro|itel-L5006C|itel L5006C|
 |Itel|A23 Pro|itel-L5006S|itel L5006S|
 |Itel|A25|itel-L5002|itel L5002|
@@ -11456,6 +11472,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Krik Krak|Freedom|Freedom|Freedom|
 |Krono|776PLUS|KRONO_776PLUS|776PLUS|
 |Krono|NETWORK|NETWORK|NETWORK|
+|Krono|NET_ADVANCE|NET_ADVANCE|NET_ADVANCE|
 |Krono|NET_LITE|NET_LITE|NET_LITE|
 |Krono|NET_MATRIX|NET_MATRIX|NET_MATRIX|
 |Krono|NET_MAX|NET_MAX|NET_MAX|
@@ -13219,9 +13236,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|R3|R3|R3|
 |Lava|R3 Prime|iris90|iris90|
 |Lava|T101|T101|T101|
+|Lava|T101N|T101N|T101N|
 |Lava|T71|T71|T71|
 |Lava|T71|T71WW|T71WW|
+|Lava|T71N|T71N|T71N|
 |Lava|T71_w|T71_w|T71_w|
+|Lava|T81N|T81N|T81N|
 |Lava|V2 3GB|V23GB|V23GB|
 |Lava|V2s|V2s|V2s|
 |Lava|V2s|V2s|V2s M|
@@ -14471,6 +14491,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MDC Store|Optima|Optima|Optima|
 |MDC Store|Prime_S|Prime_S|Prime_S|
 |MEDER|MEDER|smartguide210_eea|SmartGuide_2.10|
+|MEDER|SmartGuide210-464|SmartGuide210-464|SmartGuide210-464|
 |MEO(Portugal)|MEO TV Box 4K|DV8555-MEO|MEO TV Box 4K|
 |MG Series|Any 302|TR10CS2_3|TR10CS2|
 |MG series|Any 302|TR10CS1_15|TR10CS1|
@@ -14596,6 +14617,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MagentaTV|DV6067Y-T|DV6067Y_TVStick|DV6067Y-T|
 |MagentaTV|OTT-G1|DV6067Y|OTT-G1|
 |Majestic|JACK|JACK|JACK|
+|Majestic|JOE|JOE|JOE|
 |Majestic|TAB 611 3G|TAB_611_3G|TAB 611 3G|
 |Majestic|TAB-714|TAB-714|TAB-714|
 |Majestic|TAB-746|TAB-746|TAB-746|
@@ -16591,6 +16613,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Navon|M505|M505_4G|M505_4G|
 |Navon|Navon Supreme  Pure|Supreme_Pure|Navon Supreme Pure|
 |Navon|NavonOrpheus3G2020|NavonOrpheus3G2020|NavonOrpheus3G2020|
+|Navon|Navon_IQ7_2020|Navon_IQ7_2020|IQ7|
 |Navon|Navon_Orpheus_3G|Navon_Orpheus_3G|Navon Orpheus 3G|
 |Navon|Pad 10|Pad_10|Pad_10|
 |Navon|Platinum 10 3G|Platinum_10_3G|Platinum 10 3G|
@@ -16962,6 +16985,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OK (Mediamark)|ODL 32770H-TAB|ikebukuro|AI PONT|
 |OK (Mediamark)|ODL50672U-TAB|samseong|AI PONT|
 |OK (Mediamark)|OK|bangbae|OK 4K Android TV|
+|OKAPI|Okapi10|Okapi10|Okapi10|
+|OKAPI|Okapi10_S|Okapi10_S|Okapi10_S|
 |OKAPI|Okapi10_Simple|Okapi10_Simple|Okapi10_Simple|
 |OKWU|PI Plus|PI_Plus|PI Plus|
 |ONDA TLC|T7 Pro|T7_PRO|T7_PRO|
@@ -19044,6 +19069,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |QTab|V5|V5|V5|
 |QTab|V5_Plus|V5_Plus|V5_Plus|
 |QTab|V7_Pro|V7_Pro|V7_Pro|
+|QUBO|BIG1|BIG1|BIG1|
 |QUBO|Hermes|Hermes|Hermes|
 |QUBO|MINERVA|MINERVA|MINERVA|
 |QUBO|MINERVA_32GB|MINERVA_32GB|MINERVA_32GB|
@@ -19214,7 +19240,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|RCT6283W27|RCT6283W27|RCT6283W27|
 |RCA|RCT6293W23|RCT6293W23|RCT6293W23|
 |RCA|RCT6378W2|RCT6378W2|RCT6378W2|
+|RCA|RCT6513W87|RCT6513W87DK5eQm|RCT6513W87DK5eQm|
 |RCA|RCT6513W87DK5e|RCT6513W87DK5e|RCT6513W87DK5e|
+|RCA|RCT6513W87DK5eQ|RCT6513W87DK5eQ|RCT6513W87DK5eQ|
+|RCA|RCT6513W87DK5eQe|RCT6513W87DK5eQe|RCT6513W87DK5eQe|
 |RCA|RCT6573W23|RCT6573W23|RCT6573W23|
 |RCA|RCT6603W47|RCT6603W47DK|RCT6603W47DK|
 |RCA|RCT6672W23|RCT6672W23|RCT6672W23|
@@ -19223,6 +19252,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|RCT6716Q24|RCT6716Q24|RCT6716Q24|
 |RCA|RCT6773W22|RCT6773W22|RCT6773W22|
 |RCA|RCT6773W42B|RCT6773W42B|RCT6773W42B|
+|RCA|RCT6873W42BMF8QE|RCT6873W42BMF8QE|RCT6873W42BMF8QE|
 |RCA|RCT6873W42BMF9A|RCT6873W42BMF9A|RCT6873W42BMF9A|
 |RCA|RCT6873W42M|RCT6873W42M|RCT6873W42M|
 |RCA|RCT6876Q22|RCT6876Q22|RCT6876Q22|
@@ -19231,10 +19261,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|RCT6973W43M|RCT6973W43M|RCT6973W43M|
 |RCA|RCT6973W43MDEU|RCT6973W43MDEU|RCT6973W43MDEU|
 |RCA|RCT6973W43R|RCT6973W43R|RCT6973W43R|
+|RCA|RCT6A03W13Q|RCT6A03W13Q|RCT6A03W13Q|
 |RCA|RCT6A06E12|RCT6A06E12|RCT6A06E12|
 |RCA|RCT6A06Q22|RCT6A06Q22|RCT6A06Q22|
 |RCA|RCT6B03Q23|RCT6B03Q23|RCT6B03Q23|
 |RCA|RCT6B06Q23|RCT6B06Q23|RCT6B06Q23|
+|RCA|RCT6T48Q35|RCT6T48Q35|RCT6T48Q35|
 |RCA|RLTP5573|RLTP5573|RLTP5573|
 |RCA|RS43F2-EU|osaki|2K AI Smart TV|
 |RCA|RTA3201|kanda|2K Smart TV|
@@ -26227,6 +26259,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|A7 Pro|A7_Pro|A7 Pro|
 |Umidigi|A7 Pro EEA|A7_Pro|A7 Pro|
 |Umidigi|A7S|A7S|A7S|
+|Umidigi|A7S EEA|A7S|A7S|
 |Umidigi|BISON|BISON|BISON|
 |Umidigi|F1|F1|F1|
 |Umidigi|F1_EEA|F1|F1|

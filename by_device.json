@@ -81,6 +81,11 @@
    "model": "Continental 2K Android TV"
   },
   {
+   "brand": "Dual",
+   "name": "Dual",
+   "model": "Dual 2K Android TV"
+  },
+  {
    "brand": "Dyon",
    "name": "Dyon",
    "model": "Dyon 2K Android TV"
@@ -16850,6 +16855,13 @@
    "model": "BQru-5503"
   }
  ],
+ "BQru-1020L": [
+  {
+   "brand": "BQru",
+   "name": "BQ-1020L",
+   "model": "BQ-1020L"
+  }
+ ],
  "BQru-1024L": [
   {
    "brand": "BQru",
@@ -17471,6 +17483,13 @@
    "model": "BQ-6030G"
   }
  ],
+ "BQru-6030G_7731": [
+  {
+   "brand": "BQru",
+   "name": "BQ-6030G_7731",
+   "model": "BQ-6030G"
+  }
+ ],
  "BQru-6035L": [
   {
    "brand": "BQru",
@@ -17511,6 +17530,13 @@
    "brand": "BQru",
    "name": "BQ-6424L",
    "model": "BQ-6424L"
+  }
+ ],
+ "BQru-6630L": [
+  {
+   "brand": "BQru",
+   "name": "BQ-6630L",
+   "model": "BQ-6630L"
   }
  ],
  "BQru-7000G": [
@@ -18680,6 +18706,13 @@
    "brand": "Beneve",
    "name": "M755",
    "model": "M755"
+  }
+ ],
+ "Benten_T10": [
+  {
+   "brand": "Benten",
+   "name": "T10",
+   "model": "T10"
   }
  ],
  "T8": [
@@ -24166,6 +24199,13 @@
    "brand": "Casper",
    "name": "VIA_S18",
    "model": "VIA_S18"
+  }
+ ],
+ "VIA_S30": [
+  {
+   "brand": "Casper",
+   "name": "VIA_S30",
+   "model": "VIA_S30"
   }
  ],
  "VIA_T41": [
@@ -36810,6 +36850,11 @@
    "model": "K5"
   },
   {
+   "brand": "IkuMobile",
+   "name": "K5",
+   "model": "K5"
+  },
+  {
    "brand": "KRIP",
    "name": "K5",
    "model": "K5"
@@ -38320,6 +38365,13 @@
    "model": "S3mini"
   }
  ],
+ "S4": [
+  {
+   "brand": "Emporia",
+   "name": "emporiaSMART.4",
+   "model": "S4"
+  }
+ ],
  "f400": [
   {
    "brand": "Emtec",
@@ -39005,6 +39057,13 @@
    "model": "eSTAR BEAUTY 3 HD Quad core"
   }
  ],
+ "MID7399_WW": [
+  {
+   "brand": "Estar",
+   "name": "MID7399_WW",
+   "model": "MID7399_WW"
+  }
+ ],
  "MID7388": [
   {
    "brand": "Estar",
@@ -39216,6 +39275,13 @@
    "brand": "Evercoss",
    "name": "M60",
    "model": "M60"
+  }
+ ],
+ "M6A": [
+  {
+   "brand": "Evercoss",
+   "name": "M6A",
+   "model": "M6A"
   }
  ],
  "M70": [
@@ -46313,6 +46379,18 @@
    "brand": "Gionee",
    "name": "X1",
    "model": "GIONEE X1"
+  }
+ ],
+ "GIONEE_H603": [
+  {
+   "brand": "Gionee",
+   "name": "GIONEE_H603",
+   "model": "GIONEE M12"
+  },
+  {
+   "brand": "Gionee",
+   "name": "GIONEE_H603B",
+   "model": "GIONEE M12"
   }
  ],
  "GIONEE_M100": [
@@ -58312,6 +58390,13 @@
    "model": "ALFA 7RS"
   }
  ],
+ "mid7015_32": [
+  {
+   "brand": "Hometech",
+   "name": "HOMETECH",
+   "model": "Alfa7LM"
+  }
+ ],
  "HT_7RT": [
   {
    "brand": "Hometech",
@@ -58972,6 +59057,20 @@
    "brand": "Honeywell",
    "name": "EDA51",
    "model": "EDA51"
+  }
+ ],
+ "EDA51K-0": [
+  {
+   "brand": "Honeywell",
+   "name": "EDA51K",
+   "model": "EDA51K"
+  }
+ ],
+ "EDA51K-1": [
+  {
+   "brand": "Honeywell",
+   "name": "EDA51K",
+   "model": "EDA51K"
   }
  ],
  "EDA61K-0C": [
@@ -74058,6 +74157,13 @@
    "model": "itel A23"
   }
  ],
+ "itel-L5006": [
+  {
+   "brand": "Itel",
+   "name": "A23",
+   "model": "itel L5006"
+  }
+ ],
  "itel-L5006C": [
   {
    "brand": "Itel",
@@ -78191,6 +78297,13 @@
    "brand": "Krono",
    "name": "NETWORK",
    "model": "NETWORK"
+  }
+ ],
+ "NET_ADVANCE": [
+  {
+   "brand": "Krono",
+   "name": "NET_ADVANCE",
+   "model": "NET_ADVANCE"
   }
  ],
  "NET_LITE": [
@@ -88927,6 +89040,13 @@
    "model": "T101"
   }
  ],
+ "T101N": [
+  {
+   "brand": "Lava",
+   "name": "T101N",
+   "model": "T101N"
+  }
+ ],
  "T71": [
   {
    "brand": "Lava",
@@ -88941,11 +89061,25 @@
    "model": "T71WW"
   }
  ],
+ "T71N": [
+  {
+   "brand": "Lava",
+   "name": "T71N",
+   "model": "T71N"
+  }
+ ],
  "T71_w": [
   {
    "brand": "Lava",
    "name": "T71_w",
    "model": "T71_w"
+  }
+ ],
+ "T81N": [
+  {
+   "brand": "Lava",
+   "name": "T81N",
+   "model": "T81N"
   }
  ],
  "V23GB": [
@@ -97175,6 +97309,13 @@
    "model": "SmartGuide_2.10"
   }
  ],
+ "SmartGuide210-464": [
+  {
+   "brand": "MEDER",
+   "name": "SmartGuide210-464",
+   "model": "SmartGuide210-464"
+  }
+ ],
  "DV8555-MEO": [
   {
    "brand": "MEO(Portugal)",
@@ -98024,6 +98165,13 @@
    "brand": "Majestic",
    "name": "JACK",
    "model": "JACK"
+  }
+ ],
+ "JOE": [
+  {
+   "brand": "Majestic",
+   "name": "JOE",
+   "model": "JOE"
   }
  ],
  "TAB_611_3G": [
@@ -111063,6 +111211,13 @@
    "model": "NavonOrpheus3G2020"
   }
  ],
+ "Navon_IQ7_2020": [
+  {
+   "brand": "Navon",
+   "name": "Navon_IQ7_2020",
+   "model": "IQ7"
+  }
+ ],
  "Navon_Orpheus_3G": [
   {
    "brand": "Navon",
@@ -113403,6 +113558,20 @@
    "brand": "ODYS",
    "name": "FALCON_10_PLUS_3G",
    "model": "FALCON_10_PLUS_3G"
+  }
+ ],
+ "Okapi10": [
+  {
+   "brand": "OKAPI",
+   "name": "Okapi10",
+   "model": "Okapi10"
+  }
+ ],
+ "Okapi10_S": [
+  {
+   "brand": "OKAPI",
+   "name": "Okapi10_S",
+   "model": "Okapi10_S"
   }
  ],
  "Okapi10_Simple": [
@@ -126709,6 +126878,13 @@
    "model": "V7_Pro"
   }
  ],
+ "BIG1": [
+  {
+   "brand": "QUBO",
+   "name": "BIG1",
+   "model": "BIG1"
+  }
+ ],
  "Hermes": [
   {
    "brand": "QUBO",
@@ -127767,11 +127943,32 @@
    "model": "RCT6378W2"
   }
  ],
+ "RCT6513W87DK5eQm": [
+  {
+   "brand": "RCA",
+   "name": "RCT6513W87",
+   "model": "RCT6513W87DK5eQm"
+  }
+ ],
  "RCT6513W87DK5e": [
   {
    "brand": "RCA",
    "name": "RCT6513W87DK5e",
    "model": "RCT6513W87DK5e"
+  }
+ ],
+ "RCT6513W87DK5eQ": [
+  {
+   "brand": "RCA",
+   "name": "RCT6513W87DK5eQ",
+   "model": "RCT6513W87DK5eQ"
+  }
+ ],
+ "RCT6513W87DK5eQe": [
+  {
+   "brand": "RCA",
+   "name": "RCT6513W87DK5eQe",
+   "model": "RCT6513W87DK5eQe"
   }
  ],
  "RCT6573W23": [
@@ -127821,6 +128018,13 @@
    "brand": "RCA",
    "name": "RCT6773W42B",
    "model": "RCT6773W42B"
+  }
+ ],
+ "RCT6873W42BMF8QE": [
+  {
+   "brand": "RCA",
+   "name": "RCT6873W42BMF8QE",
+   "model": "RCT6873W42BMF8QE"
   }
  ],
  "RCT6873W42BMF9A": [
@@ -127879,6 +128083,13 @@
    "model": "RCT6973W43R"
   }
  ],
+ "RCT6A03W13Q": [
+  {
+   "brand": "RCA",
+   "name": "RCT6A03W13Q",
+   "model": "RCT6A03W13Q"
+  }
+ ],
  "RCT6A06E12": [
   {
    "brand": "RCA",
@@ -127905,6 +128116,13 @@
    "brand": "RCA",
    "name": "RCT6B06Q23",
    "model": "RCT6B06Q23"
+  }
+ ],
+ "RCT6T48Q35": [
+  {
+   "brand": "RCA",
+   "name": "RCT6T48Q35",
+   "model": "RCT6T48Q35"
   }
  ],
  "RLTP5573": [
@@ -170958,6 +171176,11 @@
   {
    "brand": "Umidigi",
    "name": "A7S",
+   "model": "A7S"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "A7S EEA",
    "model": "A7S"
   }
  ],

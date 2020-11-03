@@ -12359,6 +12359,11 @@
    "model": "T10"
   },
   {
+   "brand": "Benten",
+   "device": "Benten_T10",
+   "model": "T10"
+  },
+  {
    "brand": "TCT (Alcatel)",
    "device": "T10",
    "model": "one touch T10"
@@ -21351,6 +21356,13 @@
    "model": "BQru-5503"
   }
  ],
+ "BQ-1020L": [
+  {
+   "brand": "BQru",
+   "device": "BQru-1020L",
+   "model": "BQ-1020L"
+  }
+ ],
  "BQ-1024L": [
   {
    "brand": "BQru",
@@ -21968,6 +21980,13 @@
    "model": "BQ-6030G"
   }
  ],
+ "BQ-6030G_7731": [
+  {
+   "brand": "BQru",
+   "device": "BQru-6030G_7731",
+   "model": "BQ-6030G"
+  }
+ ],
  "BQ-6035L": [
   {
    "brand": "BQru",
@@ -22008,6 +22027,13 @@
    "brand": "BQru",
    "device": "BQru-6424L",
    "model": "BQ-6424L"
+  }
+ ],
+ "BQ-6630L": [
+  {
+   "brand": "BQru",
+   "device": "BQru-6630L",
+   "model": "BQ-6630L"
   }
  ],
  "BQ-7000G": [
@@ -29483,6 +29509,13 @@
    "brand": "Casper",
    "device": "VIA_S18",
    "model": "VIA_S18"
+  }
+ ],
+ "VIA_S30": [
+  {
+   "brand": "Casper",
+   "device": "VIA_S30",
+   "model": "VIA_S30"
   }
  ],
  "VIA_T41": [
@@ -41384,6 +41417,11 @@
    "model": "Dual 4K Android TV"
   },
   {
+   "brand": "Dual",
+   "device": "komagome",
+   "model": "Dual 2K Android TV"
+  },
+  {
    "brand": "MOVIC",
    "device": "Dual",
    "model": "Dual"
@@ -41690,6 +41728,11 @@
  "K5": [
   {
    "brand": "EKINOX",
+   "device": "K5",
+   "model": "K5"
+  },
+  {
+   "brand": "IkuMobile",
    "device": "K5",
    "model": "K5"
   },
@@ -43322,6 +43365,13 @@
    "model": "S3mini"
   }
  ],
+ "emporiaSMART.4": [
+  {
+   "brand": "Emporia",
+   "device": "S4",
+   "model": "S4"
+  }
+ ],
  "F400": [
   {
    "brand": "Emtec",
@@ -43967,6 +44017,13 @@
    "model": "eSTAR BEAUTY 3 HD Quad core"
   }
  ],
+ "MID7399_WW": [
+  {
+   "brand": "Estar",
+   "device": "MID7399_WW",
+   "model": "MID7399_WW"
+  }
+ ],
  "eSTAR BEAUTY 2 HD Quad core": [
   {
    "brand": "Estar",
@@ -44151,6 +44208,13 @@
    "brand": "Evercoss",
    "device": "M60",
    "model": "M60"
+  }
+ ],
+ "M6A": [
+  {
+   "brand": "Evercoss",
+   "device": "M6A",
+   "model": "M6A"
   }
  ],
  "M70": [
@@ -51069,6 +51133,20 @@
    "brand": "Gionee",
    "device": "GIONEE_SWW1631",
    "model": "GIONEE X1"
+  }
+ ],
+ "GIONEE_H603": [
+  {
+   "brand": "Gionee",
+   "device": "GIONEE_H603",
+   "model": "GIONEE M12"
+  }
+ ],
+ "GIONEE_H603B": [
+  {
+   "brand": "Gionee",
+   "device": "GIONEE_H603",
+   "model": "GIONEE M12"
   }
  ],
  "GIONEE_M100": [
@@ -63712,6 +63790,13 @@
    "model": "ALFA 7RS"
   }
  ],
+ "HOMETECH": [
+  {
+   "brand": "Hometech",
+   "device": "mid7015_32",
+   "model": "Alfa7LM"
+  }
+ ],
  "HT_7RT Tablet PC": [
   {
    "brand": "Hometech",
@@ -64279,6 +64364,18 @@
    "brand": "Honeywell",
    "device": "EDA51-1",
    "model": "EDA51"
+  }
+ ],
+ "EDA51K": [
+  {
+   "brand": "Honeywell",
+   "device": "EDA51K-0",
+   "model": "EDA51K"
+  },
+  {
+   "brand": "Honeywell",
+   "device": "EDA51K-1",
+   "model": "EDA51K"
   }
  ],
  "EDA61K": [
@@ -77930,6 +78027,11 @@
    "brand": "Itel",
    "device": "itel-A23F",
    "model": "itel A23P"
+  },
+  {
+   "brand": "Itel",
+   "device": "itel-L5006",
+   "model": "itel L5006"
   }
  ],
  "A23 Pro": [
@@ -82211,6 +82313,13 @@
    "brand": "Krono",
    "device": "NETWORK",
    "model": "NETWORK"
+  }
+ ],
+ "NET_ADVANCE": [
+  {
+   "brand": "Krono",
+   "device": "NET_ADVANCE",
+   "model": "NET_ADVANCE"
   }
  ],
  "NET_LITE": [
@@ -91944,6 +92053,13 @@
    "model": "iris90"
   }
  ],
+ "T101N": [
+  {
+   "brand": "Lava",
+   "device": "T101N",
+   "model": "T101N"
+  }
+ ],
  "T71": [
   {
    "brand": "Lava",
@@ -91956,11 +92072,25 @@
    "model": "T71WW"
   }
  ],
+ "T71N": [
+  {
+   "brand": "Lava",
+   "device": "T71N",
+   "model": "T71N"
+  }
+ ],
  "T71_w": [
   {
    "brand": "Lava",
    "device": "T71_w",
    "model": "T71_w"
+  }
+ ],
+ "T81N": [
+  {
+   "brand": "Lava",
+   "device": "T81N",
+   "model": "T81N"
   }
  ],
  "V2 3GB": [
@@ -99220,6 +99350,13 @@
    "model": "SmartGuide_2.10"
   }
  ],
+ "SmartGuide210-464": [
+  {
+   "brand": "MEDER",
+   "device": "SmartGuide210-464",
+   "model": "SmartGuide210-464"
+  }
+ ],
  "MEO TV Box 4K": [
   {
    "brand": "MEO(Portugal)",
@@ -100066,6 +100203,13 @@
    "brand": "Majestic",
    "device": "JACK",
    "model": "JACK"
+  }
+ ],
+ "JOE": [
+  {
+   "brand": "Majestic",
+   "device": "JOE",
+   "model": "JOE"
   }
  ],
  "TAB 611 3G": [
@@ -112018,6 +112162,13 @@
    "model": "NavonOrpheus3G2020"
   }
  ],
+ "Navon_IQ7_2020": [
+  {
+   "brand": "Navon",
+   "device": "Navon_IQ7_2020",
+   "model": "IQ7"
+  }
+ ],
  "Navon_Orpheus_3G": [
   {
    "brand": "Navon",
@@ -114299,6 +114450,20 @@
    "brand": "OK (Mediamark)",
    "device": "bangbae",
    "model": "OK 4K Android TV"
+  }
+ ],
+ "Okapi10": [
+  {
+   "brand": "OKAPI",
+   "device": "Okapi10",
+   "model": "Okapi10"
+  }
+ ],
+ "Okapi10_S": [
+  {
+   "brand": "OKAPI",
+   "device": "Okapi10_S",
+   "model": "Okapi10_S"
   }
  ],
  "Okapi10_Simple": [
@@ -127390,6 +127555,13 @@
    "model": "V7_Pro"
   }
  ],
+ "BIG1": [
+  {
+   "brand": "QUBO",
+   "device": "BIG1",
+   "model": "BIG1"
+  }
+ ],
  "Hermes": [
   {
    "brand": "QUBO",
@@ -128474,11 +128646,32 @@
    "model": "RCT6378W2"
   }
  ],
+ "RCT6513W87": [
+  {
+   "brand": "RCA",
+   "device": "RCT6513W87DK5eQm",
+   "model": "RCT6513W87DK5eQm"
+  }
+ ],
  "RCT6513W87DK5e": [
   {
    "brand": "RCA",
    "device": "RCT6513W87DK5e",
    "model": "RCT6513W87DK5e"
+  }
+ ],
+ "RCT6513W87DK5eQ": [
+  {
+   "brand": "RCA",
+   "device": "RCT6513W87DK5eQ",
+   "model": "RCT6513W87DK5eQ"
+  }
+ ],
+ "RCT6513W87DK5eQe": [
+  {
+   "brand": "RCA",
+   "device": "RCT6513W87DK5eQe",
+   "model": "RCT6513W87DK5eQe"
   }
  ],
  "RCT6573W23": [
@@ -128537,6 +128730,13 @@
    "model": "RCT6773W42B"
   }
  ],
+ "RCT6873W42BMF8QE": [
+  {
+   "brand": "RCA",
+   "device": "RCT6873W42BMF8QE",
+   "model": "RCT6873W42BMF8QE"
+  }
+ ],
  "RCT6873W42BMF9A": [
   {
    "brand": "RCA",
@@ -128593,6 +128793,13 @@
    "model": "RCT6973W43R"
   }
  ],
+ "RCT6A03W13Q": [
+  {
+   "brand": "RCA",
+   "device": "RCT6A03W13Q",
+   "model": "RCT6A03W13Q"
+  }
+ ],
  "RCT6A06E12": [
   {
    "brand": "RCA",
@@ -128619,6 +128826,13 @@
    "brand": "RCA",
    "device": "RCT6B06Q23",
    "model": "RCT6B06Q23"
+  }
+ ],
+ "RCT6T48Q35": [
+  {
+   "brand": "RCA",
+   "device": "RCT6T48Q35",
+   "model": "RCT6T48Q35"
   }
  ],
  "RLTP5573": [
@@ -168585,6 +168799,13 @@
    "brand": "Umidigi",
    "device": "A7_Pro",
    "model": "A7 Pro"
+  }
+ ],
+ "A7S EEA": [
+  {
+   "brand": "Umidigi",
+   "device": "A7S",
+   "model": "A7S"
   }
  ],
  "BISON": [

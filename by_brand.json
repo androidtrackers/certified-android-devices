@@ -10855,6 +10855,11 @@
    "model": "BQru-5503"
   },
   {
+   "device": "BQru-1020L",
+   "name": "BQ-1020L",
+   "model": "BQ-1020L"
+  },
+  {
    "device": "BQru-1024L",
    "name": "BQ-1024L",
    "model": "BQ-1024L"
@@ -11300,6 +11305,11 @@
    "model": "BQ-6030G"
   },
   {
+   "device": "BQru-6030G_7731",
+   "name": "BQ-6030G_7731",
+   "model": "BQ-6030G"
+  },
+  {
    "device": "BQru-6035L",
    "name": "BQ-6035L",
    "model": "BQ-6035L"
@@ -11328,6 +11338,11 @@
    "device": "BQru-6424L",
    "name": "BQ-6424L",
    "model": "BQ-6424L"
+  },
+  {
+   "device": "BQru-6630L",
+   "name": "BQ-6630L",
+   "model": "BQ-6630L"
   },
   {
    "device": "BQru-7000G",
@@ -12152,6 +12167,11 @@
   }
  ],
  "Benten": [
+  {
+   "device": "Benten_T10",
+   "name": "T10",
+   "model": "T10"
+  },
   {
    "device": "T8",
    "name": "T8",
@@ -16256,6 +16276,11 @@
    "device": "VIA_S18",
    "name": "VIA_S18",
    "model": "VIA_S18"
+  },
+  {
+   "device": "VIA_S30",
+   "name": "VIA_S30",
+   "model": "VIA_S30"
   },
   {
    "device": "VIA_T41",
@@ -24899,6 +24924,11 @@
    "device": "bangbae",
    "name": "Dual",
    "model": "Dual 4K Android TV"
+  },
+  {
+   "device": "komagome",
+   "name": "Dual",
+   "model": "Dual 2K Android TV"
   }
  ],
  "Dunns": [
@@ -26326,6 +26356,11 @@
    "device": "S3mini",
    "name": "S3mini",
    "model": "S3mini"
+  },
+  {
+   "device": "S4",
+   "name": "emporiaSMART.4",
+   "model": "S4"
   }
  ],
  "Emtec": [
@@ -26885,6 +26920,11 @@
    "model": "eSTAR BEAUTY 3 HD Quad core"
   },
   {
+   "device": "MID7399_WW",
+   "name": "MID7399_WW",
+   "model": "MID7399_WW"
+  },
+  {
    "device": "MID7388",
    "name": "eSTAR BEAUTY 2 HD Quad core",
    "model": "eSTAR BEAUTY 2 HD Quad core"
@@ -27020,6 +27060,11 @@
    "device": "M60",
    "name": "M60",
    "model": "M60"
+  },
+  {
+   "device": "M6A",
+   "name": "M6A",
+   "model": "M6A"
   },
   {
    "device": "M70",
@@ -32191,6 +32236,16 @@
    "device": "GIONEE_SWW1631",
    "name": "GIONEE X1",
    "model": "GIONEE X1"
+  },
+  {
+   "device": "GIONEE_H603",
+   "name": "GIONEE_H603",
+   "model": "GIONEE M12"
+  },
+  {
+   "device": "GIONEE_H603",
+   "name": "GIONEE_H603B",
+   "model": "GIONEE M12"
   },
   {
    "device": "GIONEE_M100",
@@ -42385,6 +42440,11 @@
    "model": "ALFA 7RS"
   },
   {
+   "device": "mid7015_32",
+   "name": "HOMETECH",
+   "model": "Alfa7LM"
+  },
+  {
    "device": "HT_7RT",
    "name": "HT_7RT Tablet PC",
    "model": "HT_7RT"
@@ -42864,6 +42924,16 @@
    "device": "EDA51-1",
    "name": "EDA51",
    "model": "EDA51"
+  },
+  {
+   "device": "EDA51K-0",
+   "name": "EDA51K",
+   "model": "EDA51K"
+  },
+  {
+   "device": "EDA51K-1",
+   "name": "EDA51K",
+   "model": "EDA51K"
   },
   {
    "device": "EDA61K-0C",
@@ -52579,6 +52649,11 @@
    "model": "IKU K3"
   },
   {
+   "device": "K5",
+   "name": "K5",
+   "model": "K5"
+  },
+  {
    "device": "T1",
    "name": "T1",
    "model": "iKU T1"
@@ -55560,6 +55635,11 @@
    "device": "itel-A23F",
    "name": "A23",
    "model": "itel A23P"
+  },
+  {
+   "device": "itel-L5006",
+   "name": "A23",
+   "model": "itel L5006"
   },
   {
    "device": "itel-L5006C",
@@ -58950,6 +59030,11 @@
    "device": "NETWORK",
    "name": "NETWORK",
    "model": "NETWORK"
+  },
+  {
+   "device": "NET_ADVANCE",
+   "name": "NET_ADVANCE",
+   "model": "NET_ADVANCE"
   },
   {
    "device": "NET_LITE",
@@ -67845,6 +67930,11 @@
    "model": "T101"
   },
   {
+   "device": "T101N",
+   "name": "T101N",
+   "model": "T101N"
+  },
+  {
    "device": "T71",
    "name": "T71",
    "model": "T71"
@@ -67855,9 +67945,19 @@
    "model": "T71WW"
   },
   {
+   "device": "T71N",
+   "name": "T71N",
+   "model": "T71N"
+  },
+  {
    "device": "T71_w",
    "name": "T71_w",
    "model": "T71_w"
+  },
+  {
+   "device": "T81N",
+   "name": "T81N",
+   "model": "T81N"
   },
   {
    "device": "V23GB",
@@ -74199,6 +74299,11 @@
    "device": "smartguide210_eea",
    "name": "MEDER",
    "model": "SmartGuide_2.10"
+  },
+  {
+   "device": "SmartGuide210-464",
+   "name": "SmartGuide210-464",
+   "model": "SmartGuide210-464"
   }
  ],
  "MEO(Portugal)": [
@@ -74894,6 +74999,11 @@
    "device": "JACK",
    "name": "JACK",
    "model": "JACK"
+  },
+  {
+   "device": "JOE",
+   "name": "JOE",
+   "model": "JOE"
   },
   {
    "device": "TAB_611_3G",
@@ -85129,6 +85239,11 @@
    "model": "NavonOrpheus3G2020"
   },
   {
+   "device": "Navon_IQ7_2020",
+   "name": "Navon_IQ7_2020",
+   "model": "IQ7"
+  },
+  {
    "device": "Navon_Orpheus_3G",
    "name": "Navon_Orpheus_3G",
    "model": "Navon Orpheus 3G"
@@ -87083,6 +87198,16 @@
   }
  ],
  "OKAPI": [
+  {
+   "device": "Okapi10",
+   "name": "Okapi10",
+   "model": "Okapi10"
+  },
+  {
+   "device": "Okapi10_S",
+   "name": "Okapi10_S",
+   "model": "Okapi10_S"
+  },
   {
    "device": "Okapi10_Simple",
    "name": "Okapi10_Simple",
@@ -97756,6 +97881,11 @@
  ],
  "QUBO": [
   {
+   "device": "BIG1",
+   "name": "BIG1",
+   "model": "BIG1"
+  },
+  {
    "device": "Hermes",
    "name": "Hermes",
    "model": "Hermes"
@@ -98630,9 +98760,24 @@
    "model": "RCT6378W2"
   },
   {
+   "device": "RCT6513W87DK5eQm",
+   "name": "RCT6513W87",
+   "model": "RCT6513W87DK5eQm"
+  },
+  {
    "device": "RCT6513W87DK5e",
    "name": "RCT6513W87DK5e",
    "model": "RCT6513W87DK5e"
+  },
+  {
+   "device": "RCT6513W87DK5eQ",
+   "name": "RCT6513W87DK5eQ",
+   "model": "RCT6513W87DK5eQ"
+  },
+  {
+   "device": "RCT6513W87DK5eQe",
+   "name": "RCT6513W87DK5eQe",
+   "model": "RCT6513W87DK5eQe"
   },
   {
    "device": "RCT6573W23",
@@ -98675,6 +98820,11 @@
    "model": "RCT6773W42B"
   },
   {
+   "device": "RCT6873W42BMF8QE",
+   "name": "RCT6873W42BMF8QE",
+   "model": "RCT6873W42BMF8QE"
+  },
+  {
    "device": "RCT6873W42BMF9A",
    "name": "RCT6873W42BMF9A",
    "model": "RCT6873W42BMF9A"
@@ -98715,6 +98865,11 @@
    "model": "RCT6973W43R"
   },
   {
+   "device": "RCT6A03W13Q",
+   "name": "RCT6A03W13Q",
+   "model": "RCT6A03W13Q"
+  },
+  {
    "device": "RCT6A06E12",
    "name": "RCT6A06E12",
    "model": "RCT6A06E12"
@@ -98733,6 +98888,11 @@
    "device": "RCT6B06Q23",
    "name": "RCT6B06Q23",
    "model": "RCT6B06Q23"
+  },
+  {
+   "device": "RCT6T48Q35",
+   "name": "RCT6T48Q35",
+   "model": "RCT6T48Q35"
   },
   {
    "device": "RLTP5573",
@@ -134392,6 +134552,11 @@
   {
    "device": "A7S",
    "name": "A7S",
+   "model": "A7S"
+  },
+  {
+   "device": "A7S",
+   "name": "A7S EEA",
    "model": "A7S"
   },
   {
