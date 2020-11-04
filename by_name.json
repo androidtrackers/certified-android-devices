@@ -6132,6 +6132,13 @@
    "model": "ACT4K1007"
   }
  ],
+ "D30": [
+  {
+   "brand": "ADOC",
+   "device": "D30",
+   "model": "D30"
+  }
+ ],
  "AG BOOST 2": [
   {
    "brand": "AG Mobile",
@@ -11592,6 +11599,13 @@
    "brand": "AllView",
    "device": "Viva_H1002_LTE",
    "model": "Viva_H1002_LTE"
+  }
+ ],
+ "Viva H1003 LTE PRO": [
+  {
+   "brand": "AllView",
+   "device": "H1003_LTE_PRO",
+   "model": "H1003_LTE_PRO"
   }
  ],
  "Viva H7 LTE": [
@@ -77047,6 +77061,13 @@
    "model": "Amber8S"
   }
  ],
+ "Amber8s Pro": [
+  {
+   "brand": "Ipro",
+   "device": "Amber8s_Pro",
+   "model": "Amber8s Pro"
+  }
+ ],
  "Benny": [
   {
    "brand": "Ipro",
@@ -80501,6 +80522,13 @@
    "brand": "KRIP",
    "device": "K5c",
    "model": "K5c"
+  }
+ ],
+ "K5d": [
+  {
+   "brand": "KRIP",
+   "device": "K5d",
+   "model": "K5d"
   }
  ],
  "K6": [
@@ -108985,6 +109013,11 @@
  "M10_4G_PRO": [
   {
    "brand": "Multilaser",
+   "device": "ML-SO0C_M10_4G_PRO_PLUS",
+   "model": "M10_4G_PRO"
+  },
+  {
+   "brand": "Multilaser",
    "device": "ML_SO0G_M10_4G_PRO_PLUS",
    "model": "M10_4G_PRO"
   }
@@ -117246,6 +117279,13 @@
    "model": "PCLM10"
   }
  ],
+ "Reno Ace2": [
+  {
+   "brand": "Oppo",
+   "device": "OP4AD9",
+   "model": "PDHM00"
+  }
+ ],
  "Reno Z": [
   {
    "brand": "Oppo",
@@ -117394,6 +117434,11 @@
  "Reno4 Pro": [
   {
    "brand": "Oppo",
+   "device": "OP4AF7",
+   "model": "PDNT00"
+  },
+  {
+   "brand": "Oppo",
    "device": "OP4C87L1",
    "model": "CPH2089"
   }
@@ -117403,6 +117448,25 @@
    "brand": "Oppo",
    "device": "OP4C87L1",
    "model": "CPH2089"
+  }
+ ],
+ "Reno4 Pro 中国版": [
+  {
+   "brand": "Oppo",
+   "device": "OP4AF7",
+   "model": "PDNM00"
+  }
+ ],
+ "Reno4 中国版": [
+  {
+   "brand": "Oppo",
+   "device": "OP4A47",
+   "model": "PDPM00"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP4A47",
+   "model": "PDPT00"
   }
  ],
  "U707": [
@@ -133445,6 +133509,11 @@
  "Galaxy A51 5G": [
   {
    "brand": "Samsung",
+   "device": "SC-54A",
+   "model": "SC-54A"
+  },
+  {
+   "brand": "Samsung",
    "device": "SCG07",
    "model": "SCG07"
   },
@@ -138407,6 +138476,11 @@
   }
  ],
  "Galaxy Note20 Ultra 5G": [
+  {
+   "brand": "Samsung",
+   "device": "SC-53A",
+   "model": "SC-53A"
+  },
   {
    "brand": "Samsung",
    "device": "SCG06",
@@ -164242,6 +164316,13 @@
    "model": "P80h_EEA"
   }
  ],
+ "P80h_KR": [
+  {
+   "brand": "Teclast",
+   "device": "P80h_KR",
+   "model": "P80h_KR"
+  }
+ ],
  "P80h_ROW": [
   {
    "brand": "Teclast",
@@ -169765,6 +169846,11 @@
   {
    "brand": "Verizon",
    "device": "JS8V",
+   "model": "Stream TV"
+  },
+  {
+   "brand": "Verizon",
+   "device": "sti6220d315",
    "model": "Stream TV"
   }
  ],

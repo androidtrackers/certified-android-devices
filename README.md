@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-11-03
+Last sync is 2020-11-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -47,6 +47,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ACE France|URBAN 2|URBAN_2|URBAN 2|
 |ACKEES|V10401|V10401|V10401|
 |ACT|ACT4K1007|IPBox|ACT4K1007|
+|ADOC|D30|D30|D30|
 |AG Mobile|AG BOOST 2|BOOST2|E4010|
 |AG Mobile|AG Flair|AG_Flair|Flair|
 |AG Mobile|AG Go Tab Access 2|AG_Go_Tab_Access_2|AG_Go_Tab_Access_2|
@@ -724,6 +725,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|Viva H10 LTE|Allview_VivaH10LTE_KK|VivaH10LTE|
 |AllView|Viva H1001 LTE|Viva_H1001_LTE|Viva_H1001_LTE|
 |AllView|Viva H1002 LTE|Viva_H1002_LTE|Viva_H1002_LTE|
+|AllView|Viva H1003 LTE PRO|H1003_LTE_PRO|H1003_LTE_PRO|
 |AllView|Viva H7 LTE|Allview_VivaH7LTE_KK|VivaH7LTE|
 |AllView|Viva H8 LTE|Allview_VivaH8LTE_KK|VivaH8LTE|
 |AllView|Viva H8 Life|H8_Life|H8_Life|
@@ -10679,6 +10681,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ipro|Amber6|Amber6|Amber6|
 |Ipro|Amber7S|Amber7S|Amber7S|
 |Ipro|Amber8S|Amber8S|Amber8S|
+|Ipro|Amber8s Pro|Amber8s_Pro|Amber8s Pro|
 |Ipro|Benny|Benny|Benny|
 |Ipro|Jade7s|Jade7s|Jade7s|
 |Ipro|Jade8S|Jade8S|Jade8S|
@@ -11204,6 +11207,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KRIP|K57|K57|K57|
 |KRIP|K5b|K5b|K5b|
 |KRIP|K5c|K5c|K5c|
+|KRIP|K5d|K5d|K5d|
 |KRIP|K6|K6|K6|
 |KRIP|K65|K65|K65|
 |KRIP|K700A|KRIP_K700A|K700A|
@@ -16117,6 +16121,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M10A-Lite|M10A-Lite|M10A-Lite|
 |Multilaser|M10A_3G|M10A_3G|M10A_3G|
 |Multilaser|M10A_Lite|ML_SO0A_M10A_Lite|M10A_Lite|
+|Multilaser|M10_4G_PRO|ML-SO0C_M10_4G_PRO_PLUS|M10_4G_PRO|
 |Multilaser|M10_4G_PRO|ML_SO0G_M10_4G_PRO_PLUS|M10_4G_PRO|
 |Multilaser|M7 3G PLUS|ML-JI11-M7_3G_PLUS|M7_3G_PLUS|
 |Multilaser|M7 3G PLUS|ML_WI0A_M7_3G_PLUS|M7_3G_PLUS|
@@ -17477,6 +17482,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno 4Z 5G|OP4BDCL1|CPH2065|
 |Oppo|Reno A|OP47CFL1|CPH1983|
 |Oppo|Reno Ace|OP4A89|PCLM10|
+|Oppo|Reno Ace2|OP4AD9|PDHM00|
 |Oppo|Reno Z|OP48A1|CPH1979|
 |Oppo|Reno Z|OP48A1L1|CPH1979|
 |Oppo|Reno Z 中国版|OP4699|PCDM10|
@@ -17500,8 +17506,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno4 5G|OP4C45L1|CPH2091|
 |Oppo|Reno4 F|OP4C51L1|CPH2209|
 |Oppo|Reno4 Lite|OP4C51L1|CPH2125|
+|Oppo|Reno4 Pro|OP4AF7|PDNT00|
 |Oppo|Reno4 Pro|OP4C87L1|CPH2089|
 |Oppo|Reno4 Pro 5G|OP4C87L1|CPH2089|
+|Oppo|Reno4 Pro 中国版|OP4AF7|PDNM00|
+|Oppo|Reno4 中国版|OP4A47|PDPM00|
+|Oppo|Reno4 中国版|OP4A47|PDPT00|
 |Oppo|U3|U3|U3|
 |Oppo|U707|U707|U707|
 |Oppo|U707T|U707T|U707T|
@@ -20067,6 +20077,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A51|a51|SM-A515U1|
 |Samsung|Galaxy A51|a51|SM-A515W|
 |Samsung|Galaxy A51|a51|SM-S515DL|
+|Samsung|Galaxy A51 5G|SC-54A|SC-54A|
 |Samsung|Galaxy A51 5G|SCG07|SCG07|
 |Samsung|Galaxy A51 5G|a51x|SM-A5160|
 |Samsung|Galaxy A51 5G|a51x|SM-A516B|
@@ -20980,6 +20991,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Note20 5G|c1q|SM-N981W|
 |Samsung|Galaxy Note20 5G|c1s|SM-N981B|
 |Samsung|Galaxy Note20 Ultra|c2s|SM-N985F|
+|Samsung|Galaxy Note20 Ultra 5G|SC-53A|SC-53A|
 |Samsung|Galaxy Note20 Ultra 5G|SCG06|SCG06|
 |Samsung|Galaxy Note20 Ultra 5G|c2q|SM-N9860|
 |Samsung|Galaxy Note20 Ultra 5G|c2q|SM-N986N|
@@ -25510,6 +25522,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P80X_EEA|P80X|P80X|
 |Teclast|P80X_EEA|P80X|P80X_EEA|
 |Teclast|P80h_EEA|P80h_EEA|P80h_EEA|
+|Teclast|P80h_KR|P80h_KR|P80h_KR|
 |Teclast|P80h_ROW|P80h_ROW|P80h_ROW|
 |Teclast|T30_EEA|T30|T30_EEA|
 |Teclast|T30_ROW|T30|T30_ROW|
@@ -26433,6 +26446,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VerD|E1|E1|E1|
 |VerD|E2|E2|E2|
 |Verizon|Stream TV|JS8V|Stream TV|
+|Verizon|Stream TV|sti6220d315|Stream TV|
 |Verizon Wireless|5059S|U50PLUS|5059S|
 |Verizon Wireless|Ellipsis 10|QTAIR7|QTAIR7|
 |Verizon Wireless|Ellipsis 7|QMV7A|QMV7A|
