@@ -1170,6 +1170,11 @@
    "model": "SCHNEIDER 4K Android TV"
   },
   {
+   "brand": "Strong",
+   "name": "Strong",
+   "model": "Strong 4K Android TV"
+  },
+  {
    "brand": "Veon",
    "name": "VEON",
    "model": "VEON 4K Android TV"
@@ -73284,6 +73289,23 @@
    "model": "Go"
   }
  ],
+ "S501": [
+  {
+   "brand": "Ipro",
+   "name": "S501",
+   "model": "S501"
+  },
+  {
+   "brand": "Quantum",
+   "name": "Twist Neo",
+   "model": "twist neo"
+  },
+  {
+   "brand": "Stylo",
+   "name": "S501",
+   "model": "Stylo S501"
+  }
+ ],
  "WePad": [
   {
    "brand": "Ipro",
@@ -113602,6 +113624,13 @@
    "model": "Okapi10"
   }
  ],
+ "Okapi10_Pro": [
+  {
+   "brand": "OKAPI",
+   "name": "Okapi10_Pro",
+   "model": "Okapi10 Pro"
+  }
+ ],
  "Okapi10_S": [
   {
    "brand": "OKAPI",
@@ -127436,18 +127465,6 @@
    "brand": "Quantum",
    "name": "Sky",
    "model": "Sky"
-  }
- ],
- "S501": [
-  {
-   "brand": "Quantum",
-   "name": "Twist Neo",
-   "model": "twist neo"
-  },
-  {
-   "brand": "Stylo",
-   "name": "S501",
-   "model": "Stylo S501"
   }
  ],
  "QX2": [
@@ -169812,6 +169829,13 @@
    "model": "T700"
   }
  ],
+ "T255": [
+  {
+   "brand": "Tpad",
+   "name": "T255",
+   "model": "T255"
+  }
+ ],
  "SEI500TR": [
   {
    "brand": "Transvision",
@@ -171806,6 +171830,13 @@
    "brand": "VALIFONE",
    "name": "V700",
    "model": "V700"
+  }
+ ],
+ "V710": [
+  {
+   "brand": "VALIFONE",
+   "name": "V710",
+   "model": "V710"
   }
  ],
  "TAB7Q804VAL": [
@@ -190842,6 +190873,13 @@
    "brand": "Zebra",
    "name": "WT6000",
    "model": "WT6000"
+  }
+ ],
+ "WT63B0": [
+  {
+   "brand": "Zebra",
+   "name": "WT6300",
+   "model": "WT6300"
   }
  ],
  "TBDG1073": [

@@ -55007,6 +55007,11 @@
    "model": "S401"
   },
   {
+   "device": "S501",
+   "name": "S501",
+   "model": "S501"
+  },
+  {
    "device": "WIN",
    "name": "WIN",
    "model": "WIN"
@@ -87229,6 +87234,11 @@
    "device": "Okapi10",
    "name": "Okapi10",
    "model": "Okapi10"
+  },
+  {
+   "device": "Okapi10_Pro",
+   "name": "Okapi10_Pro",
+   "model": "Okapi10 Pro"
   },
   {
    "device": "Okapi10_S",
@@ -121632,6 +121642,11 @@
    "model": "ATV R2"
   },
   {
+   "device": "bangbae",
+   "name": "Strong",
+   "model": "Strong 4K Android TV"
+  },
+  {
    "device": "komagome",
    "name": "Strong",
    "model": "Strong 2K Android TV"
@@ -133339,6 +133354,13 @@
    "model": "T700"
   }
  ],
+ "Tpad": [
+  {
+   "device": "T255",
+   "name": "T255",
+   "model": "T255"
+  }
+ ],
  "Transvision": [
   {
    "device": "SEI500TR",
@@ -135143,6 +135165,11 @@
    "device": "V700",
    "name": "V700",
    "model": "V700"
+  },
+  {
+   "device": "V710",
+   "name": "V710",
+   "model": "V710"
   }
  ],
  "VALTECH": [
@@ -151655,6 +151682,11 @@
    "device": "WT6000",
    "name": "WT6000",
    "model": "WT6000"
+  },
+  {
+   "device": "WT63B0",
+   "name": "WT6300",
+   "model": "WT6300"
   }
  ],
  "Zeki": [

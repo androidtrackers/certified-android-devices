@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-11-04
+Last sync is 2020-11-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10701,6 +10701,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ipro|Pro8S|Pro8S|Pro8S|
 |Ipro|Ruby5S|Ruby5S|Ruby5S|
 |Ipro|S401|S401|S401|
+|Ipro|S501|S501|S501|
 |Ipro|WIN|WIN|WIN|
 |Ipro|WePad|WePad|WePad|
 |Ipro|X1|IPRO_X1|X1|
@@ -16991,6 +16992,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OK (Mediamark)|ODL50672U-TAB|samseong|AI PONT|
 |OK (Mediamark)|OK|bangbae|OK 4K Android TV|
 |OKAPI|Okapi10|Okapi10|Okapi10|
+|OKAPI|Okapi10_Pro|Okapi10_Pro|Okapi10 Pro|
 |OKAPI|Okapi10_S|Okapi10_S|Okapi10_S|
 |OKAPI|Okapi10_Simple|Okapi10_Simple|Okapi10_Simple|
 |OKWU|PI Plus|PI_Plus|PI Plus|
@@ -23742,6 +23744,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stream|S7|MIRROR|S7|
 |Stream|SHARK|SHARK|SHARK|
 |Strong|Android TV|R2|ATV R2|
+|Strong|Strong|bangbae|Strong 4K Android TV|
 |Strong|Strong|komagome|Strong 2K Android TV|
 |Sts-tottori|JR-500|JR-500|JR-500|
 |Sts-tottori|JR-P2000|JR-P2000|JR-P2000|
@@ -26029,6 +26032,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Touchmate|TOUCHMATE-TM-MID811A|TM-MID811A|TOUCHMATE-TM-MID811A|
 |Toughshield|R200|R200|R200|
 |Toughshield|T700_TABLET|T700_TABLET|T700|
+|Tpad|T255|T255|T255|
 |Transvision|SEI500TR|SEI500TR|TRANSVISION-Xstream|
 |Transvision|TRANSVISION-OTT-Box|UHD_I56AD_TRV|TRANSVISION-OTT-Box|
 |Transvision|Transvision|USB6_IR80|TRANSVISION-iTV|
@@ -26367,6 +26371,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VAIO|VA-10J|VA-10J|JCI VA-10J|
 |VAIO|VPA051|VPA051|VPA051|
 |VALIFONE|V700|V700|V700|
+|VALIFONE|V710|V710|V710|
 |VALTECH|TAB7Q804VAL|TAB7Q804VAL|TAB7Q804VAL|
 |VANTEC|G4|G4|G4|
 |VANTEC|G5|G5|G5|
@@ -29605,6 +29610,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|VC80x|VC80x|VC80x|
 |Zebra|"VC8300 8"""|VC8308|VC8300|
 |Zebra|WT6000|WT6000|WT6000|
+|Zebra|WT6300|WT63B0|WT6300|
 |Zeki|TBDG1073|TBDG1073|TBDG1073|
 |Zeki|TBDG734|TBDG734|TBDG734|
 |Zeki|TBDG874 Tablet|TBDG874B|TBDG874|

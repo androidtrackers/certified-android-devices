@@ -75179,6 +75179,18 @@
    "device": "S401"
   }
  ],
+ "S501": [
+  {
+   "brand": "Ipro",
+   "name": "S501",
+   "device": "S501"
+  },
+  {
+   "brand": "Symphony",
+   "name": "S501",
+   "device": "SYMPHONY_S501"
+  }
+ ],
  "WePad": [
   {
    "brand": "Ipro",
@@ -116881,6 +116893,13 @@
    "brand": "OKAPI",
    "name": "Okapi10",
    "device": "Okapi10"
+  }
+ ],
+ "Okapi10 Pro": [
+  {
+   "brand": "OKAPI",
+   "name": "Okapi10_Pro",
+   "device": "Okapi10_Pro"
   }
  ],
  "Okapi10_S": [
@@ -161908,6 +161927,13 @@
    "device": "SHARK"
   }
  ],
+ "Strong 4K Android TV": [
+  {
+   "brand": "Strong",
+   "name": "Strong",
+   "device": "bangbae"
+  }
+ ],
  "Strong 2K Android TV": [
   {
    "brand": "Strong",
@@ -162789,13 +162815,6 @@
    "brand": "Symphony",
    "name": "Roar_V78",
    "device": "Roar_V78"
-  }
- ],
- "S501": [
-  {
-   "brand": "Symphony",
-   "name": "S501",
-   "device": "SYMPHONY_S501"
   }
  ],
  "SYMTAB25": [
@@ -177205,6 +177224,13 @@
    "device": "R200"
   }
  ],
+ "T255": [
+  {
+   "brand": "Tpad",
+   "name": "T255",
+   "device": "T255"
+  }
+ ],
  "TRANSVISION-Xstream": [
   {
    "brand": "Transvision",
@@ -179281,6 +179307,13 @@
    "brand": "VALIFONE",
    "name": "V700",
    "device": "V700"
+  }
+ ],
+ "V710": [
+  {
+   "brand": "VALIFONE",
+   "name": "V710",
+   "device": "V710"
   }
  ],
  "TAB7Q804VAL": [
@@ -200205,6 +200238,13 @@
    "brand": "Zebra",
    "name": "WT6000",
    "device": "WT6000"
+  }
+ ],
+ "WT6300": [
+  {
+   "brand": "Zebra",
+   "name": "WT6300",
+   "device": "WT63B0"
   }
  ],
  "TBDG1073": [

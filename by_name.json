@@ -77199,6 +77199,23 @@
    "model": "S401"
   }
  ],
+ "S501": [
+  {
+   "brand": "Ipro",
+   "device": "S501",
+   "model": "S501"
+  },
+  {
+   "brand": "Stylo",
+   "device": "S501",
+   "model": "Stylo S501"
+  },
+  {
+   "brand": "Symphony",
+   "device": "SYMPHONY_S501",
+   "model": "S501"
+  }
+ ],
  "WePad": [
   {
    "brand": "Ipro",
@@ -114490,6 +114507,13 @@
    "brand": "OKAPI",
    "device": "Okapi10",
    "model": "Okapi10"
+  }
+ ],
+ "Okapi10_Pro": [
+  {
+   "brand": "OKAPI",
+   "device": "Okapi10_Pro",
+   "model": "Okapi10 Pro"
   }
  ],
  "Okapi10_S": [
@@ -154399,6 +154423,11 @@
  "Strong": [
   {
    "brand": "Strong",
+   "device": "bangbae",
+   "model": "Strong 4K Android TV"
+  },
+  {
+   "brand": "Strong",
    "device": "komagome",
    "model": "Strong 2K Android TV"
   }
@@ -154506,18 +154535,6 @@
    "brand": "Stylo",
    "device": "S49_cobalt",
    "model": "S49 cobalt"
-  }
- ],
- "S501": [
-  {
-   "brand": "Stylo",
-   "device": "S501",
-   "model": "Stylo S501"
-  },
-  {
-   "brand": "Symphony",
-   "device": "SYMPHONY_S501",
-   "model": "S501"
   }
  ],
  "S50_BOLD": [
@@ -167384,6 +167401,13 @@
    "model": "T700"
   }
  ],
+ "T255": [
+  {
+   "brand": "Tpad",
+   "device": "T255",
+   "model": "T255"
+  }
+ ],
  "SEI500TR": [
   {
    "brand": "Transvision",
@@ -169478,6 +169502,13 @@
    "brand": "VALIFONE",
    "device": "V700",
    "model": "V700"
+  }
+ ],
+ "V710": [
+  {
+   "brand": "VALIFONE",
+   "device": "V710",
+   "model": "V710"
   }
  ],
  "TAB7Q804VAL": [
@@ -187979,6 +188010,13 @@
    "brand": "Zebra",
    "device": "WT6000",
    "model": "WT6000"
+  }
+ ],
+ "WT6300": [
+  {
+   "brand": "Zebra",
+   "device": "WT63B0",
+   "model": "WT6300"
   }
  ],
  "TBDG1073": [
