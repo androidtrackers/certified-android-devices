@@ -22241,6 +22241,13 @@
    "model": "EF550"
   }
  ],
+ "EF550R": [
+  {
+   "brand": "Bluebird",
+   "name": "EF550",
+   "model": "EF550R"
+  }
+ ],
  "HF450": [
   {
    "brand": "Bluebird",
@@ -38833,6 +38840,13 @@
    "brand": "Epson",
    "name": "embt4ru",
    "model": "EMBT4"
+  }
+ ],
+ "sti6200d101": [
+  {
+   "brand": "Epson",
+   "name": "Projector",
+   "model": "Projector"
   }
  ],
  "Bushi": [
@@ -93586,6 +93600,13 @@
    "model": "Lenovo TB-J606F"
   }
  ],
+ "J606L": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab P11",
+   "model": "Lenovo TB-J606L"
+  }
+ ],
  "J706F": [
   {
    "brand": "Lenovo",
@@ -103358,6 +103379,13 @@
    "model": "NEO"
   }
  ],
+ "Neo_LTE": [
+  {
+   "brand": "Mobicell",
+   "name": "NEO LTE",
+   "model": "Neo LTE"
+  }
+ ],
  "ONYX": [
   {
    "brand": "Mobicell",
@@ -112431,6 +112459,27 @@
    "brand": "Nokia",
    "name": "Nokia 3.2",
    "model": "Nokia 3.2"
+  }
+ ],
+ "DRS": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia 3.4",
+   "model": "Nokia 3.4"
+  }
+ ],
+ "DRSA_sprout": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia 3.4",
+   "model": "Nokia 3.4"
+  }
+ ],
+ "DRS_sprout": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia 3.4",
+   "model": "Nokia 3.4"
   }
  ],
  "PAN_sprout": [

@@ -14726,6 +14726,11 @@
    "model": "EF550"
   },
   {
+   "device": "EF550R",
+   "name": "EF550",
+   "model": "EF550R"
+  },
+  {
    "device": "HF450",
    "name": "HF450",
    "model": "HF450"
@@ -26708,6 +26713,11 @@
    "device": "embt4",
    "name": "Epson",
    "model": "EMBT4"
+  },
+  {
+   "device": "sti6200d101",
+   "name": "Projector",
+   "model": "Projector"
   },
   {
    "device": "Bushi",
@@ -71447,6 +71457,11 @@
    "model": "Lenovo TB-J606F"
   },
   {
+   "device": "J606L",
+   "name": "Lenovo Tab P11",
+   "model": "Lenovo TB-J606L"
+  },
+  {
    "device": "J706F",
    "name": "Lenovo Tab P11 Pro",
    "model": "Lenovo TB-J706F"
@@ -79040,6 +79055,11 @@
    "model": "NEO"
   },
   {
+   "device": "Neo_LTE",
+   "name": "NEO LTE",
+   "model": "Neo LTE"
+  },
+  {
    "device": "ONYX",
    "name": "ONYX",
    "model": "ONYX"
@@ -86303,6 +86323,21 @@
    "device": "DPL_sprout",
    "name": "Nokia 3.2",
    "model": "Nokia 3.2"
+  },
+  {
+   "device": "DRS",
+   "name": "Nokia 3.4",
+   "model": "Nokia 3.4"
+  },
+  {
+   "device": "DRSA_sprout",
+   "name": "Nokia 3.4",
+   "model": "Nokia 3.4"
+  },
+  {
+   "device": "DRS_sprout",
+   "name": "Nokia 3.4",
+   "model": "Nokia 3.4"
   },
   {
    "device": "PAN_sprout",

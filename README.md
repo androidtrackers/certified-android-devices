@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-11-05
+Last sync is 2020-11-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2870,6 +2870,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bluebird|EF501R|EF501|EF501|
 |Bluebird|EF501R|EF501|EF501R_RU|
 |Bluebird|EF550|EF550|EF550|
+|Bluebird|EF550|EF550R|EF550R|
 |Bluebird|HF450|HF450|HF450|
 |Bluebird|HF550|HF550|HF550|
 |Bluebird|HF550|HF550|HF550_RU|
@@ -5152,6 +5153,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Envizen Digital|V917G|GK-MID9022|V917G|
 |Envizen Digital|VMD1029|VMD1029|VMD1029|
 |Epson|Epson|embt4|EMBT4|
+|Epson|Projector|sti6200d101|Projector|
 |Epson|STI6110|Bushi|STI6110|
 |Epson|embt4|embt4|EMBT4|
 |Epson|embt4cn|embt4|EMBT4|
@@ -13935,6 +13937,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab P10|X705L|Lenovo TB-X705L|
 |Lenovo|Lenovo Tab P10|X705M|Lenovo TB-X705M|
 |Lenovo|Lenovo Tab P11|J606F|Lenovo TB-J606F|
+|Lenovo|Lenovo Tab P11|J606L|Lenovo TB-J606L|
 |Lenovo|Lenovo Tab P11 Pro|J706F|Lenovo TB-J706F|
 |Lenovo|Lenovo Tab P11 Pro|J706L|Lenovo TB-J706L|
 |Lenovo|Lenovo Tab V7|PB-6505M|Lenovo PB-6505M|
@@ -15402,6 +15405,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|Mobicel_R1|Mobicel_R1|Mobicel_R1|
 |Mobicell|Mobicel_R6|Mobicel_R6|Mobicel_R6|
 |Mobicell|NEO|NEO|NEO|
+|Mobicell|NEO LTE|Neo_LTE|Neo LTE|
 |Mobicell|ONYX|ONYX|ONYX|
 |Mobicell|PLAY|PLAY|PLAY|
 |Mobicell|PLUM|PLUM|PLUM|
@@ -16813,6 +16817,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia 3.1 Plus|ROON_sprout|Nokia 3.1 Plus|
 |Nokia|Nokia 3.1 Plus|ROO_sprout|Nokia 3.1 Plus|
 |Nokia|Nokia 3.2|DPL_sprout|Nokia 3.2|
+|Nokia|Nokia 3.4|DRS|Nokia 3.4|
+|Nokia|Nokia 3.4|DRSA_sprout|Nokia 3.4|
+|Nokia|Nokia 3.4|DRS_sprout|Nokia 3.4|
 |Nokia|Nokia 4.2|PAN_sprout|Nokia 4.2|
 |Nokia|Nokia 4.2|Panther_00EEE|Nokia 4.2|
 |Nokia|Nokia 5|ND1|TA-1024|
