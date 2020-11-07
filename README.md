@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-11-06
+Last sync is 2020-11-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10889,6 +10889,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|SP591|itel-W6004|itel W6004|
 |Itel|Vision1|itel-L6005|itel L6005|
 |Itel|Vision1 Plus(P36 Pro LTE)|itel-L6501|itel L6501|
+|Itel|Vision1Pro|itel-L6502|itel L6502|
 |Itel|it1355|itel_it1355|itel it1355|
 |Itel|it1355M|itel_it1355M|itel it1355M|
 |Itel|it1407|itel_it1407|itel it1407|
@@ -10926,6 +10927,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel A14|itel-A14|itel A14|
 |Itel|itel A14|itel-A14|itel A14TZ|
 |Itel|itel A14 Max|itel-W4003|itel W4003|
+|Itel|itel A14 Plus|itel-W4002|itel W4002|
 |Itel|itel A14S|itel-A14S|itel A14S|
 |Itel|itel A16|itel-A16|itel A16|
 |Itel|itel A16|itel-A16|itel A16TZ|
@@ -19692,6 +19694,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Mobile|L70_Lite|L70_Lite|L70_Lite|
 |SPC Mobile|L70_PRO|L70_PRO|L70_PRO|
 |SPC Mobile|L80|L80|L80|
+|SPC Mobile|L80_S|L80_S|L80_S|
 |SPC Mobile|Lightyear|Lightyear|Lightyear|
 |SPC Mobile|S19|S19|S19|
 |SPC Mobile|SPC GEN|SPC_GEN|SPC GEN|

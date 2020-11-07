@@ -78459,6 +78459,13 @@
    "model": "itel L6501"
   }
  ],
+ "Vision1Pro": [
+  {
+   "brand": "Itel",
+   "device": "itel-L6502",
+   "model": "itel L6502"
+  }
+ ],
  "it1355": [
   {
    "brand": "Itel",
@@ -78698,6 +78705,13 @@
    "brand": "Itel",
    "device": "itel-W4003",
    "model": "itel W4003"
+  }
+ ],
+ "itel A14 Plus": [
+  {
+   "brand": "Itel",
+   "device": "itel-W4002",
+   "model": "itel W4002"
   }
  ],
  "itel A14S": [
@@ -131460,6 +131474,13 @@
    "brand": "SPC Mobile",
    "device": "L80",
    "model": "L80"
+  }
+ ],
+ "L80_S": [
+  {
+   "brand": "SPC Mobile",
+   "device": "L80_S",
+   "model": "L80_S"
   }
  ],
  "Lightyear": [

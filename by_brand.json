@@ -55959,6 +55959,11 @@
    "model": "itel L6501"
   },
   {
+   "device": "itel-L6502",
+   "name": "Vision1Pro",
+   "model": "itel L6502"
+  },
+  {
    "device": "itel_it1355",
    "name": "it1355",
    "model": "itel it1355"
@@ -56142,6 +56147,11 @@
    "device": "itel-W4003",
    "name": "itel A14 Max",
    "model": "itel W4003"
+  },
+  {
+   "device": "itel-W4002",
+   "name": "itel A14 Plus",
+   "model": "itel W4002"
   },
   {
    "device": "itel-A14S",
@@ -101168,6 +101178,11 @@
    "device": "L80",
    "name": "L80",
    "model": "L80"
+  },
+  {
+   "device": "L80_S",
+   "name": "L80_S",
+   "model": "L80_S"
   },
   {
    "device": "Lightyear",
