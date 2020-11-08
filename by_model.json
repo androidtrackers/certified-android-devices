@@ -164032,6 +164032,20 @@
    "device": "Aquaman_10_4G"
   }
  ],
+ "9060X": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 10 HD 4G",
+   "device": "Aquaman_10_Pro"
+  }
+ ],
+ "9060X_EEA": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 10 HD 4G",
+   "device": "Aquaman_10_Pro"
+  }
+ ],
  "8094T": [
   {
    "brand": "TCL",

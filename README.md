@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-11-07
+Last sync is 2020-11-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -24069,6 +24069,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL T9x|TokyoPro|5129Y|
 |TCL|TCL TAB|Thor_8_4G_VZW|9048S|
 |TCL|TCL TAB 10 4G|Aquaman_10_4G|8094X|
+|TCL|TCL TAB 10 HD 4G|Aquaman_10_Pro|9060X|
+|TCL|TCL TAB 10 HD 4G|Aquaman_10_Pro|9060X_EEA|
 |TCL|TCL TAB 10 SMART|Aquaman_10_4G|8094T|
 |TCL|TCL TAB 8 4G|Apollo_8_4G|9032X|
 |TCL|TCL TAB kids|Thor_8_4G_VZW|9049L|
