@@ -4004,6 +4004,13 @@
    "device": "ADVAN_TAB_8"
   }
  ],
+ "8003": [
+  {
+   "brand": "Advan digital",
+   "name": "TAB Gallilea",
+   "device": "ADVAN_TAB_Gallilea"
+  }
+ ],
  "7301": [
   {
    "brand": "Advan digital",
@@ -18685,6 +18692,13 @@
    "device": "A60"
   }
  ],
+ "A60Plus": [
+  {
+   "brand": "Blackview",
+   "name": "A60 Plus",
+   "device": "A60Plus"
+  }
+ ],
  "A60Pro": [
   {
    "brand": "Blackview",
@@ -18756,6 +18770,13 @@
    "brand": "Blackview",
    "name": "BV4900",
    "device": "BV4900"
+  }
+ ],
+ "BV5100": [
+  {
+   "brand": "Blackview",
+   "name": "BV5100",
+   "device": "BV5100"
   }
  ],
  "BV5500": [
@@ -21319,6 +21340,11 @@
    "brand": "Kyocera",
    "name": "Android One S2",
    "device": "S2_sprout"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "S2",
+   "device": "S2"
   },
   {
    "brand": "Lexia Mobile",
@@ -29125,6 +29151,13 @@
    "device": "C-five-WIFI"
   }
  ],
+ "CRTB7001": [
+  {
+   "brand": "Core Innovations",
+   "name": "CRTB7001",
+   "device": "CRTB7001"
+  }
+ ],
  "CTB1016G": [
   {
    "brand": "Core Innovations",
@@ -29179,6 +29212,13 @@
    "brand": "Covia",
    "name": "g06+",
    "device": "g06"
+  }
+ ],
+ "DVT101B": [
+  {
+   "brand": "Creato",
+   "name": "DVT101B",
+   "device": "mdt1005_mk_32"
   }
  ],
  "CREMA0810T": [
@@ -31547,6 +31587,13 @@
    "device": "K908H4G"
   }
  ],
+ "T104G": [
+  {
+   "brand": "Datamini",
+   "name": "T104G",
+   "device": "T104G"
+  }
+ ],
  "T74G": [
   {
    "brand": "Datamini",
@@ -33516,6 +33563,13 @@
    "device": "TS7222PG"
   }
  ],
+ "Optima 7 A101 3G TT7223PG": [
+  {
+   "brand": "Digma",
+   "name": "Optima_7_A101_3G",
+   "device": "TT7223PG"
+  }
+ ],
  "Optima 8019N 4G TS8182ML": [
   {
    "brand": "Digma",
@@ -34551,6 +34605,11 @@
    "brand": "qunyiCO",
    "name": "Y10",
    "device": "Y10"
+  },
+  {
+   "brand": "qunyiCO",
+   "name": "Y10_EEA",
+   "device": "Y10_EEA"
   }
  ],
  "Y6": [
@@ -53092,6 +53151,13 @@
    "brand": "Haier",
    "name": "Hyasong T1",
    "device": "HyasongT1"
+  }
+ ],
+ "I4": [
+  {
+   "brand": "Haier",
+   "name": "I4",
+   "device": "I4"
   }
  ],
  "I50": [
@@ -75553,6 +75619,13 @@
    "device": "TZ721"
   }
  ],
+ "TZ722": [
+  {
+   "brand": "Irbis",
+   "name": "TZ722",
+   "device": "TZ722"
+  }
+ ],
  "TZ725": [
   {
    "brand": "Irbis",
@@ -79746,6 +79819,13 @@
    "device": "KL1018E_EEA"
   }
  ],
+ "KL1019": [
+  {
+   "brand": "Klipad",
+   "name": "KL1019_EEA",
+   "device": "KL1019_EEA"
+  }
+ ],
  "KL1088": [
   {
    "brand": "Klipad",
@@ -79800,6 +79880,13 @@
    "brand": "Klipad",
    "name": "KL456LD",
    "device": "KL456LD"
+  }
+ ],
+ "KL4889B": [
+  {
+   "brand": "Klipad",
+   "name": "KL4889B_EEA",
+   "device": "KL4889B"
   }
  ],
  "KL4890": [
@@ -90921,6 +91008,13 @@
    "device": "LW688"
   }
  ],
+ "LW788": [
+  {
+   "brand": "LW",
+   "name": "LW788",
+   "device": "LW788"
+  }
+ ],
  "LAIQ Glam": [
   {
    "brand": "Laiq",
@@ -100879,6 +100973,13 @@
    "brand": "MOBULAA",
    "name": "NOTE2",
    "device": "NOTE2"
+  }
+ ],
+ "Tab-1": [
+  {
+   "brand": "MOBULAA",
+   "name": "Tab-1",
+   "device": "Tab-1"
   }
  ],
  "Movi Projector Phone": [
@@ -129535,6 +129636,13 @@
    "device": "H1010"
   }
  ],
+ "NeoSmart5": [
+  {
+   "brand": "Prolink",
+   "name": "NeoSmart5",
+   "device": "NeoSmart5"
+  }
+ ],
  "PLT1065G": [
   {
    "brand": "Proscan",
@@ -130702,6 +130810,13 @@
    "brand": "QUBO",
    "name": "THOR",
    "device": "THOR"
+  }
+ ],
+ "X626": [
+  {
+   "brand": "QUBO",
+   "name": "X626",
+   "device": "X626"
   }
  ],
  "Q.3778": [
@@ -162243,6 +162358,13 @@
    "device": "TAB2"
   }
  ],
+ "TAB4": [
+  {
+   "brand": "Stylo",
+   "name": "TAB4",
+   "device": "TAB4"
+  }
+ ],
  "V": [
   {
    "brand": "Stylo",
@@ -164056,6 +164178,13 @@
    "brand": "TCT (Alcatel)",
    "name": "3T10 4G",
    "device": "Aquaman_10_4G"
+  }
+ ],
+ "9061": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 10s",
+   "device": "Aquaman_10_Pro"
   }
  ],
  "9032X": [
@@ -173162,6 +173291,13 @@
    "brand": "TOSCIDO",
    "name": "P101-EEA",
    "device": "P101-EEA"
+  }
+ ],
+ "T13-EEA": [
+  {
+   "brand": "TOSCIDO",
+   "name": "T13-EEA",
+   "device": "T13-EEA"
   }
  ],
  "X102": [
@@ -187579,6 +187715,13 @@
    "brand": "Wintouch",
    "name": "K72P",
    "device": "K72P"
+  }
+ ],
+ "K702": [
+  {
+   "brand": "Wintouch",
+   "name": "WINTOUCH_K702",
+   "device": "WINTOUCH_K702"
   }
  ],
  "Wise-Tech_M1": [

@@ -4325,6 +4325,13 @@
    "model": "8002"
   }
  ],
+ "ADVAN_TAB_Gallilea": [
+  {
+   "brand": "Advan digital",
+   "name": "TAB Gallilea",
+   "model": "8003"
+  }
+ ],
  "X7_Max": [
   {
    "brand": "Advan digital",
@@ -19537,6 +19544,13 @@
    "model": "A60"
   }
  ],
+ "A60Plus": [
+  {
+   "brand": "Blackview",
+   "name": "A60 Plus",
+   "model": "A60Plus"
+  }
+ ],
  "A60Pro": [
   {
    "brand": "Blackview",
@@ -19606,6 +19620,13 @@
    "brand": "Blackview",
    "name": "BV4900",
    "model": "BV4900"
+  }
+ ],
+ "BV5100": [
+  {
+   "brand": "Blackview",
+   "name": "BV5100",
+   "model": "BV5100"
   }
  ],
  "BV5500": [
@@ -22117,6 +22138,11 @@
    "brand": "IMO(In My Opinion)",
    "name": "IMO S2",
    "model": "IMO S2"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "S2",
+   "model": "S2"
   },
   {
    "brand": "Lexia Mobile",
@@ -29837,6 +29863,13 @@
    "model": "C-One"
   }
  ],
+ "CRTB7001": [
+  {
+   "brand": "Core Innovations",
+   "name": "CRTB7001",
+   "model": "CRTB7001"
+  }
+ ],
  "CTB1016G": [
   {
    "brand": "Core Innovations",
@@ -29891,6 +29924,18 @@
    "brand": "Covia",
    "name": "g06+",
    "model": "g06"
+  }
+ ],
+ "mdt1005_mk_32": [
+  {
+   "brand": "Creato",
+   "name": "DVT101B",
+   "model": "DVT101B"
+  },
+  {
+   "brand": "SYLVANIA",
+   "name": "SLTDVD1024",
+   "model": "SLTDVD1024"
   }
  ],
  "crema0810t": [
@@ -32662,6 +32707,13 @@
    "model": "K908H4G"
   }
  ],
+ "T104G": [
+  {
+   "brand": "Datamini",
+   "name": "T104G",
+   "model": "T104G"
+  }
+ ],
  "T74G": [
   {
    "brand": "Datamini",
@@ -34620,6 +34672,13 @@
    "brand": "Digma",
    "name": "Optima_7_A100S_3G_TS7222PG",
    "model": "Optima 7 A100S 3G TS7222PG"
+  }
+ ],
+ "TT7223PG": [
+  {
+   "brand": "Digma",
+   "name": "Optima_7_A101_3G",
+   "model": "Optima 7 A101 3G TT7223PG"
   }
  ],
  "TS8182ML": [
@@ -53656,6 +53715,13 @@
    "brand": "Haier",
    "name": "Hyasong T1",
    "model": "HyasongT1"
+  }
+ ],
+ "I4": [
+  {
+   "brand": "Haier",
+   "name": "I4",
+   "model": "I4"
   }
  ],
  "i50_b1b8": [
@@ -73675,6 +73741,13 @@
    "model": "TZ721"
   }
  ],
+ "TZ722": [
+  {
+   "brand": "Irbis",
+   "name": "TZ722",
+   "model": "TZ722"
+  }
+ ],
  "TZ725": [
   {
    "brand": "Irbis",
@@ -77710,6 +77783,13 @@
    "model": "KL1018E_EEA"
   }
  ],
+ "KL1019_EEA": [
+  {
+   "brand": "Klipad",
+   "name": "KL1019_EEA",
+   "model": "KL1019"
+  }
+ ],
  "KL1088": [
   {
    "brand": "Klipad",
@@ -77764,6 +77844,13 @@
    "brand": "Klipad",
    "name": "KL456LD",
    "model": "KL456LD"
+  }
+ ],
+ "KL4889B": [
+  {
+   "brand": "Klipad",
+   "name": "KL4889B_EEA",
+   "model": "KL4889B"
   }
  ],
  "KL4890": [
@@ -87833,6 +87920,13 @@
    "model": "LW688"
   }
  ],
+ "LW788": [
+  {
+   "brand": "LW",
+   "name": "LW788",
+   "model": "LW788"
+  }
+ ],
  "LAIQ_Glam": [
   {
    "brand": "Laiq",
@@ -97750,6 +97844,13 @@
    "brand": "MOBULAA",
    "name": "NOTE2",
    "model": "NOTE2"
+  }
+ ],
+ "Tab-1": [
+  {
+   "brand": "MOBULAA",
+   "name": "Tab-1",
+   "model": "Tab-1"
   }
  ],
  "Movi": [
@@ -125952,6 +126053,13 @@
    "model": "H1010"
   }
  ],
+ "NeoSmart5": [
+  {
+   "brand": "Prolink",
+   "name": "NeoSmart5",
+   "model": "NeoSmart5"
+  }
+ ],
  "PLT1065G": [
   {
    "brand": "Proscan",
@@ -127083,6 +127191,13 @@
    "brand": "QUBO",
    "name": "THOR",
    "model": "THOR"
+  }
+ ],
+ "X626": [
+  {
+   "brand": "QUBO",
+   "name": "X626",
+   "model": "X626"
   }
  ],
  "Q3778": [
@@ -131691,13 +131806,6 @@
    "brand": "SUPERSONIC",
    "name": "TAB7091",
    "model": "TAB7091"
-  }
- ],
- "mdt1005_mk_32": [
-  {
-   "brand": "SYLVANIA",
-   "name": "SLTDVD1024",
-   "model": "SLTDVD1024"
   }
  ],
  "SLTDVD9220-C": [
@@ -157253,6 +157361,13 @@
    "model": "TAB2"
   }
  ],
+ "TAB4": [
+  {
+   "brand": "Stylo",
+   "name": "TAB4",
+   "model": "TAB4"
+  }
+ ],
  "V": [
   {
    "brand": "Stylo",
@@ -159697,6 +159812,11 @@
    "brand": "TCL",
    "name": "TCL TAB 10 HD 4G",
    "model": "9060X_EEA"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 10s",
+   "model": "9061"
   }
  ],
  "Apollo_8_4G": [
@@ -165886,6 +166006,13 @@
    "brand": "TOSCIDO",
    "name": "P101-EEA",
    "model": "P101-EEA"
+  }
+ ],
+ "T13-EEA": [
+  {
+   "brand": "TOSCIDO",
+   "name": "T13-EEA",
+   "model": "T13-EEA"
   }
  ],
  "X102": [
@@ -179972,6 +180099,13 @@
    "model": "K72P"
   }
  ],
+ "WINTOUCH_K702": [
+  {
+   "brand": "Wintouch",
+   "name": "WINTOUCH_K702",
+   "model": "K702"
+  }
+ ],
  "Wise-Tech_M1": [
   {
    "brand": "Wise-Tech",
@@ -193885,6 +194019,13 @@
    "brand": "pendo",
    "name": "PNDPP44QC7",
    "model": "PNDPP44QC7"
+  }
+ ],
+ "Y10_EEA": [
+  {
+   "brand": "qunyiCO",
+   "name": "Y10_EEA",
+   "model": "Y10"
   }
  ],
  "BingeStick": [
