@@ -5066,6 +5066,11 @@
    "model": "CHiQ AI Center"
   },
   {
+   "brand": "Changhong",
+   "name": "L42G6F",
+   "model": "AI PONT"
+  },
+  {
    "brand": "Condor",
    "name": "32SD520",
    "model": "AI PONT"
@@ -5133,6 +5138,11 @@
   {
    "brand": "Philco",
    "name": "PTV40G71AGBL-VA",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Realme",
+   "name": "realme TV",
    "model": "AI PONT"
   },
   {
@@ -21053,6 +21063,13 @@
    "model": "G70"
   }
  ],
+ "G0251WW": [
+  {
+   "brand": "Blu",
+   "name": "G70",
+   "model": "G70"
+  }
+ ],
  "G0170": [
   {
    "brand": "Blu",
@@ -24691,6 +24708,23 @@
    "brand": "Elsys",
    "name": "ETRI02",
    "model": "ETRI02"
+  }
+ ],
+ "ueno": [
+  {
+   "brand": "Cello",
+   "name": "C2420G",
+   "model": "2K Android TV"
+  },
+  {
+   "brand": "Logik",
+   "name": "L32AHE19",
+   "model": "2K Android TV"
+  },
+  {
+   "brand": "RCA",
+   "name": "RCA",
+   "model": "2K Android TV"
   }
  ],
  "sadang": [
@@ -38582,6 +38616,11 @@
   },
   {
    "brand": "JVC",
+   "name": "Amtran",
+   "model": "2K AI Smart TV"
+  },
+  {
+   "brand": "JVC",
    "name": "LT-32K397",
    "model": "2K AI Smart TV"
   },
@@ -38603,6 +38642,11 @@
   {
    "brand": "Soniq",
    "name": "G32HW60A",
+   "model": "2K AI Smart TV"
+  },
+  {
+   "brand": "Walton",
+   "name": "32FD1",
    "model": "2K AI Smart TV"
   }
  ],
@@ -47325,6 +47369,11 @@
  "X2": [
   {
    "brand": "Go Mobile",
+   "name": "X2",
+   "model": "X2"
+  },
+  {
+   "brand": "Mira",
    "name": "X2",
    "model": "X2"
   },
@@ -69800,6 +69849,33 @@
    "model": "IMO Q4 Pro"
   }
  ],
+ "kanda": [
+  {
+   "brand": "IMPECCA",
+   "name": "IMP",
+   "model": "IMPECCA 2K Smart TV"
+  },
+  {
+   "brand": "KEMPLER STRAUSS",
+   "name": "32FD1",
+   "model": "2K Smart TV"
+  },
+  {
+   "brand": "RCA",
+   "name": "RTA3201",
+   "model": "2K Smart TV"
+  },
+  {
+   "brand": "SYLVANIA",
+   "name": "SL321AN",
+   "model": "2K Smart TV"
+  },
+  {
+   "brand": "Sceptre",
+   "name": "A322BV-SRC",
+   "model": "2K Smart TV"
+  }
+ ],
  "INOI_1_Lite": [
   {
    "brand": "INOI",
@@ -75342,6 +75418,38 @@
    "brand": "JVC",
    "name": "AV-11NT510",
    "model": "AV-11NT510"
+  }
+ ],
+ "gangbyeon": [
+  {
+   "brand": "JVC",
+   "name": "Amtran",
+   "model": "4K AI Smart TV"
+  },
+  {
+   "brand": "KEMPLER STRAUSS",
+   "name": "50F1",
+   "model": "4K Smart TV"
+  },
+  {
+   "brand": "RCA",
+   "name": "RCA",
+   "model": "4K AI Smart TV"
+  },
+  {
+   "brand": "RCA",
+   "name": "US",
+   "model": "4K Smart TV"
+  },
+  {
+   "brand": "Realme",
+   "name": "50F1",
+   "model": "4K AI Smart TV"
+  },
+  {
+   "brand": "SYLVANIA",
+   "name": "US",
+   "model": "4K Smart TV"
   }
  ],
  "mstarnapoli_atsc": [
@@ -87656,6 +87764,13 @@
    "model": "LINSAY F-7HD2CORE/F-7HD4CORE/F-10HD2CORE/F-10XHD4CORE"
   }
  ],
+ "Belgium": [
+  {
+   "brand": "LISTO",
+   "name": "\"France",
+   "model": "Germany"
+  }
+ ],
  "SEI500L": [
   {
    "brand": "LLA",
@@ -88641,6 +88756,13 @@
    "brand": "Lark",
    "name": "Ultimate X4 8s 3G",
    "model": "Ultimate X4 8s 3G"
+  }
+ ],
+ "GRAND": [
+  {
+   "brand": "Laser",
+   "name": "GRAND",
+   "model": "GRAND"
   }
  ],
  "MID-1087": [
@@ -93706,6 +93828,11 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab P11",
    "model": "Lenovo TB-J606F"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "XiaoXin Pad",
+   "model": "Lenovo TB-J606F"
   }
  ],
  "J606L": [
@@ -93719,6 +93846,11 @@
   {
    "brand": "Lenovo",
    "name": "Lenovo Tab P11 Pro",
+   "model": "Lenovo TB-J706F"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "XiaoXin Pad Pro",
    "model": "Lenovo TB-J706F"
   }
  ],
@@ -96221,6 +96353,13 @@
    "model": "LOGIKIDS5ED"
   }
  ],
+ "LOGIKIDS_5_Rev2": [
+  {
+   "brand": "Logicom",
+   "name": "LOGIKIDS_5_Rev2",
+   "model": "LOGIKIDS_5"
+  }
+ ],
  "L_IXIR_TAB_1047HD": [
   {
    "brand": "Logicom",
@@ -96331,6 +96470,13 @@
    "model": "La_Tab_114"
   }
  ],
+ "La_Tab_114_Rev2": [
+  {
+   "brand": "Logicom",
+   "name": "La_Tab_114_Rev2",
+   "model": "La_Tab_114"
+  }
+ ],
  "La_Tab_115": [
   {
    "brand": "Logicom",
@@ -96356,6 +96502,13 @@
   {
    "brand": "Logicom",
    "name": "La_Tab_74",
+   "model": "La_Tab_74"
+  }
+ ],
+ "La_Tab_74_Rev2_EEA": [
+  {
+   "brand": "Logicom",
+   "name": "La_Tab_74_Rev2",
    "model": "La_Tab_74"
   }
  ],
@@ -96505,6 +96658,13 @@
    "brand": "Logicom",
    "name": "LeMoov2",
    "model": "LeMoov2"
+  }
+ ],
+ "Le_Pulse": [
+  {
+   "brand": "Logicom",
+   "name": "Le_Pulse",
+   "model": "Le_Pulse"
   }
  ],
  "LiteTab760": [
@@ -109335,6 +109495,13 @@
    "brand": "Myphone",
    "name": "myA1",
    "model": "MY801"
+  }
+ ],
+ "myA1_Lite": [
+  {
+   "brand": "Myphone",
+   "name": "myA1 Lite",
+   "model": "myA1 Lite"
   }
  ],
  "myA10": [
@@ -126291,6 +126458,13 @@
    "model": "TLW-100"
   }
  ],
+ "QLA": [
+  {
+   "brand": "QLA (tw)",
+   "name": "T1",
+   "model": "T1"
+  }
+ ],
  "QMobile_Noir_A1": [
   {
    "brand": "QMobile",
@@ -128393,35 +128567,6 @@
    "model": "RLTP5573"
   }
  ],
- "kanda": [
-  {
-   "brand": "RCA",
-   "name": "RTA3201",
-   "model": "2K Smart TV"
-  },
-  {
-   "brand": "SYLVANIA",
-   "name": "SL321AN",
-   "model": "2K Smart TV"
-  },
-  {
-   "brand": "Sceptre",
-   "name": "A322BV-SRC",
-   "model": "2K Smart TV"
-  }
- ],
- "gangbyeon": [
-  {
-   "brand": "RCA",
-   "name": "US",
-   "model": "4K Smart TV"
-  },
-  {
-   "brand": "SYLVANIA",
-   "name": "US",
-   "model": "4K Smart TV"
-  }
- ],
  "RCT6873W42BMF8": [
   {
    "brand": "RCA",
@@ -128706,13 +128851,6 @@
    "model": "RMX2040"
   }
  ],
- "RMX2200CN": [
-  {
-   "brand": "Realme",
-   "name": "RMX2200",
-   "model": "RMX2200"
-  }
- ],
  "RMX1801": [
   {
    "brand": "Realme",
@@ -128934,6 +129072,13 @@
    "brand": "Realme",
    "name": "realme Q",
    "model": "RMX1971"
+  }
+ ],
+ "RMX2200CN": [
+  {
+   "brand": "Realme",
+   "name": "realme V3  5G",
+   "model": "RMX2200"
   }
  ],
  "RMX2201CN": [
@@ -129608,6 +129753,13 @@
    "brand": "Reeder",
    "name": "M10S",
    "model": "M10S"
+  }
+ ],
+ "M10_Blue_Max": [
+  {
+   "brand": "Reeder",
+   "name": "M10_Blue_Max",
+   "model": "M10_Blue_Max"
   }
  ],
  "M10_Pro_LTE": [
@@ -130807,6 +130959,13 @@
    "model": "SOSMART_T5"
   }
  ],
+ "APOLO": [
+  {
+   "brand": "SPC Mobile",
+   "name": "APOLO",
+   "model": "APOLO"
+  }
+ ],
  "GRAVITY_3G": [
   {
    "brand": "SPC Mobile",
@@ -131032,6 +131191,13 @@
    "brand": "SPC Mobile",
    "name": "SPC SMART MAX",
    "model": "SPC SMART MAX"
+  }
+ ],
+ "SPC_SMART_PLUS": [
+  {
+   "brand": "SPC Mobile",
+   "name": "SPC SMART PLUS",
+   "model": "SPC SMART PLUS"
   }
  ],
  "SPC_X1": [
@@ -149613,6 +149779,11 @@
   {
    "brand": "Sharp",
    "name": "EU",
+   "model": "AQUOS-TVE19C"
+  },
+  {
+   "brand": "Sharp",
+   "name": "EU",
    "model": "AQUOS_TVE19A"
   }
  ],
@@ -151362,6 +151533,13 @@
    "model": "Elite T57"
   }
  ],
+ "Elite_45SM": [
+  {
+   "brand": "Sky Devices",
+   "name": "Elite 45T",
+   "model": "Elite 45T"
+  }
+ ],
  "Elite_A5": [
   {
    "brand": "Sky Devices",
@@ -151666,6 +151844,13 @@
    "brand": "Sky Devices",
    "name": "Platinum B4",
    "model": "Platinum B4"
+  }
+ ],
+ "Platinum_B4P": [
+  {
+   "brand": "Sky Devices",
+   "name": "Platinum B4",
+   "model": "Platinum_B4"
   }
  ],
  "Platinum_C4": [
@@ -166421,6 +166606,13 @@
    "model": "Tazpad-FAP60"
   }
  ],
+ "KIDS02": [
+  {
+   "brand": "Tbltaca",
+   "name": "KIDS02",
+   "model": "KIDS02"
+  }
+ ],
  "t592_otd_tech_4u_we": [
   {
    "brand": "Tech 4u",
@@ -166546,6 +166738,13 @@
    "brand": "Techpad",
    "name": "1016S",
    "model": "1016S"
+  }
+ ],
+ "1032": [
+  {
+   "brand": "Techpad",
+   "name": "1032",
+   "model": "1032"
   }
  ],
  "Tech_Pad_3G16": [
@@ -180176,6 +180375,13 @@
    "model": "IRA_DUO"
   }
  ],
+ "IRA_S1": [
+  {
+   "brand": "Wishtel",
+   "name": "IRA_S1",
+   "model": "IRA_S1"
+  }
+ ],
  "DA-21": [
   {
    "brand": "Wistron",
@@ -180705,6 +180911,11 @@
  "X8MT16": [
   {
    "brand": "XTRATECH_IGUANAPAD",
+   "name": "X8MT16",
+   "model": "X8MT16"
+  },
+  {
+   "brand": "Xtratech",
    "name": "X8MT16",
    "model": "X8MT16"
   }
@@ -181986,6 +182197,13 @@
    "model": "X109"
   }
  ],
+ "Y3-EEA": [
+  {
+   "brand": "YOTOPT",
+   "name": "Y3-EEA",
+   "model": "Y3-EEA"
+  }
+ ],
  "B9000": [
   {
    "brand": "YSFEN",
@@ -182422,6 +182640,13 @@
    "brand": "Yumpingo",
    "name": "YUMPINGO_1",
    "model": "YUMPINGO_1"
+  }
+ ],
+ "C-601": [
+  {
+   "brand": "ZENTALITY",
+   "name": "C-601",
+   "model": "C-601"
   }
  ],
  "C-700": [
@@ -190858,6 +191083,13 @@
    "brand": "Zebra",
    "name": "MC2200",
    "model": "MC2200"
+  }
+ ],
+ "MC2700": [
+  {
+   "brand": "Zebra",
+   "name": "MC2700",
+   "model": "MC2700"
   }
  ],
  "MC3300x": [
