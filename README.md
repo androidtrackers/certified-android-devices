@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-11-10
+Last sync is 2020-11-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3264,6 +3264,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cellon|starTIM1|starTIM1|starTIM1|
 |Cellution|CT_Cosmas_V|CT_Cosmas_V|CT_Cosmas_V|
 |Cellution|Cosmas|Cosmas|Cosmas|
+|Cellution|PADUA|PADUA|PADUA|
 |Centric|Centric L3|L3|Centric CM3331|
 |Centric|Centric L4|Centric_L4|Centric L4|
 |Centric|G1|CM4331|CM4331|
@@ -4664,6 +4665,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|N20Pro|N20Pro|N20Pro|
 |Doogee|N30|N30|N30|
 |Doogee|S30|S30|S30|
+|Doogee|S35Pro|S35Pro|S35Pro|
 |Doogee|S40|S40|S40|
 |Doogee|S40Lite|S40Lite|S40Lite|
 |Doogee|S40Pro|S40Pro|S40Pro|
@@ -5108,6 +5110,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Energizer|EnergyE500S_US|EnergyE500S_US|EnergyE500S_US|
 |Energizer|H550S|HARDCASEH550S|HARDCASEH550S|
 |Energizer|HARDCASEH500S|HARDCASEH500S|HARDCASEH500S|
+|Energizer|Hardcase H620S|H620SEU|H620SEU|
 |Energizer|PowerMaxP490|PowerMaxP490|PowerMaxP490|
 |Energizer|PowerMaxP490S_AP|PowerMaxP490S_AP|PowerMaxP490S_AP|
 |Energizer|PowerMaxP490S_AS|PowerMaxP490S_AS|PowerMaxP490S_AS|
@@ -6132,6 +6135,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gigaset|Gigaset GS170|GS170|Gigaset GS170|
 |Gigaset|Gigaset GS270|Gigaset_GS270|GS270|
 |Gigaset|Gigaset GS270 plus|Gigaset_GS270_plus|GS270 plus|
+|Gigaset|Gigaset GS3|GS3|E940-2766-00|
 |Gigaset|Gigaset GS370|GS370|GS370|
 |Gigaset|Gigaset GS370_Plus|GS370_Plus|GS370_Plus|
 |Gigaset|Gigaset GS4|Gigaset_GS4|E940-2795-00|
@@ -15613,6 +15617,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Montblanc|SUMMIT|triton|SUMMIT|
 |Montblanc|Summit|lionfish|MB SUMMIT|
 |Montblanc|Summit 2+|coralia|Summit 2+|
+|Montblanc|Summit Lite|icefish|SUMMIT LITE|
 |Morep|Morep Mavic 10|Mavic_10|M830|
 |Mosambee|Qphone2 4110|Qphone2_4110|Qphone2_4110|
 |Mosambee|SPPF 4110|SPPF_4110|SPPF_4110|
@@ -16183,6 +16188,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M7s Dual Core|NB116_NB117_NB118|M7s Dual ML03|
 |Multilaser|M7s Quad Core|astar-ococci|ML01-M7S-Quad-Core|
 |Multilaser|M7sLite|ML-SO06-M7sLite|M7sLite|
+|Multilaser|M8_4G|ML_SO19_M8_4G|M8_4G|
 |Multilaser|M9 3G|ML-WI16-M9_3G|M9_3G|
 |Multilaser|M9-3G|M9-3G|M9-3G|
 |Multilaser|M9-3G|ML-JI05-M9-3G|M9-3G|
@@ -16980,6 +16986,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuu|M19|S5501LE|S5501L|
 |Nuu|M2|NUU_M2|NUU_M2|
 |Nuu|M3|NUU_M3|NUU_M3|
+|Nuu|M6|S6503LE|S6503L|
 |Nuu|N4L|N4L|N4L|
 |Nuu|N5L|N5L|N5L|
 |Nuu|NUU A3|N5001WA|A3|
@@ -20077,6 +20084,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A41|a41|SM-A415F|
 |Samsung|Galaxy A42 5G|a42xq|SM-A4260|
 |Samsung|Galaxy A42 5G|a42xq|SM-A426B|
+|Samsung|Galaxy A42 5G|a42xq|SM-A426N|
 |Samsung|Galaxy A5|a53g|SM-A500H|
 |Samsung|Galaxy A5|a5lte|SM-A500F|
 |Samsung|Galaxy A5|a5lte|SM-A500G|
@@ -22628,6 +22636,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS sense3 plus SH-RM11|SH-RM11|SH-RM11|
 |Sharp|AQUOS sense3 plus　サウンド SHV46|OBY|SHV46|
 |Sharp|AQUOS sense4 SH-41A|Jerid|SH-41A|
+|Sharp|AQUOS sense4 lite SH-RM15|JeridL|SH-RM15|
 |Sharp|AQUOS zero|SG801SH|801SH|
 |Sharp|AQUOS zero|SH-Z10|SH-Z10|
 |Sharp|AQUOS zero|SH-Z10A|SH-Z10A|
@@ -26849,6 +26858,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivax|TPC-704-3G|TPC-704-3G|TPC-704-3G|
 |Vivax|TPC_8043G|TPC_8043G|TPC_8043G|
 |Vivax|TPC_8053G|TPC_8053G|TPC_8053G|
+|Vivax|VIVAX Fly6|VIVAX_Fly6|VIVAX Fly6|
 |Vivax|VIVAX Fun_S1|FUN_S1|FUN S1|
 |Vivax|VIVAX Point X2 Lite|VIVAX_Point_X2_Lite|VIVAX_Point_X2_Lite|
 |Vivax|VIVAX_Fly_V1|VIVAX_Fly_V1|VIVAX_Fly_V1|
@@ -27845,6 +27855,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xgody|XGTB-E|XGTB-E|XGTB-E|
 |Xgody|XGT_EEA|XGT_EEA|XGT_EEA|
 |Xiaomi|China|braveheart|MiTV|
+|Xiaomi|Formovie Laser TV 4K Cinema|angleeUHD|MiProjL1|
 |Xiaomi|HM 1SC|armani|HM 1AC|
 |Xiaomi|HM 1SC|armani|HM 1S|
 |Xiaomi|HM 1SC|armani|HM 1SC|

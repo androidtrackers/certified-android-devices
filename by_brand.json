@@ -16862,6 +16862,11 @@
    "device": "Cosmas",
    "name": "Cosmas",
    "model": "Cosmas"
+  },
+  {
+   "device": "PADUA",
+   "name": "PADUA",
+   "model": "PADUA"
   }
  ],
  "Centric": [
@@ -24132,6 +24137,11 @@
    "model": "S30"
   },
   {
+   "device": "S35Pro",
+   "name": "S35Pro",
+   "model": "S35Pro"
+  },
+  {
    "device": "S40",
    "name": "S40",
    "model": "S40"
@@ -26474,6 +26484,11 @@
    "device": "HARDCASEH500S",
    "name": "HARDCASEH500S",
    "model": "HARDCASEH500S"
+  },
+  {
+   "device": "H620SEU",
+   "name": "Hardcase H620S",
+   "model": "H620SEU"
   },
   {
    "device": "PowerMaxP490",
@@ -31864,6 +31879,11 @@
    "device": "Gigaset_GS270_plus",
    "name": "Gigaset GS270 plus",
    "model": "GS270 plus"
+  },
+  {
+   "device": "GS3",
+   "name": "Gigaset GS3",
+   "model": "E940-2766-00"
   },
   {
    "device": "GS370",
@@ -80139,6 +80159,11 @@
    "device": "coralia",
    "name": "Summit 2+",
    "model": "Summit 2+"
+  },
+  {
+   "device": "icefish",
+   "name": "Summit Lite",
+   "model": "SUMMIT LITE"
   }
  ],
  "Morep": [
@@ -83023,6 +83048,11 @@
    "device": "ML-SO06-M7sLite",
    "name": "M7sLite",
    "model": "M7sLite"
+  },
+  {
+   "device": "ML_SO19_M8_4G",
+   "name": "M8_4G",
+   "model": "M8_4G"
   },
   {
    "device": "ML-WI16-M9_3G",
@@ -87170,6 +87200,11 @@
    "device": "NUU_M3",
    "name": "M3",
    "model": "NUU_M3"
+  },
+  {
+   "device": "S6503LE",
+   "name": "M6",
+   "model": "S6503L"
   },
   {
    "device": "N4L",
@@ -103135,6 +103170,11 @@
    "model": "SM-A426B"
   },
   {
+   "device": "a42xq",
+   "name": "Galaxy A42 5G",
+   "model": "SM-A426N"
+  },
+  {
    "device": "a53g",
    "name": "Galaxy A5",
    "model": "SM-A500H"
@@ -115942,6 +115982,11 @@
    "device": "Jerid",
    "name": "AQUOS sense4 SH-41A",
    "model": "SH-41A"
+  },
+  {
+   "device": "JeridL",
+   "name": "AQUOS sense4 lite SH-RM15",
+   "model": "SH-RM15"
   },
   {
    "device": "SG801SH",
@@ -137669,6 +137714,11 @@
    "model": "TPC_8053G"
   },
   {
+   "device": "VIVAX_Fly6",
+   "name": "VIVAX Fly6",
+   "model": "VIVAX Fly6"
+  },
+  {
    "device": "FUN_S1",
    "name": "VIVAX Fun_S1",
    "model": "FUN S1"
@@ -142807,6 +142857,11 @@
    "device": "braveheart",
    "name": "China",
    "model": "MiTV"
+  },
+  {
+   "device": "angleeUHD",
+   "name": "Formovie Laser TV 4K Cinema",
+   "model": "MiProjL1"
   },
   {
    "device": "armani",

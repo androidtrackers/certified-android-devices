@@ -26235,6 +26235,11 @@
    "model": "MEIZU M6"
   },
   {
+   "brand": "Nuu",
+   "device": "S6503LE",
+   "model": "S6503L"
+  },
+  {
    "brand": "Olla",
    "device": "M6",
    "model": "M6"
@@ -30334,6 +30339,13 @@
    "brand": "Cellution",
    "device": "Cosmas",
    "model": "Cosmas"
+  }
+ ],
+ "PADUA": [
+  {
+   "brand": "Cellution",
+   "device": "PADUA",
+   "model": "PADUA"
   }
  ],
  "Centric L3": [
@@ -40172,6 +40184,13 @@
    "model": "N30"
   }
  ],
+ "S35Pro": [
+  {
+   "brand": "Doogee",
+   "device": "S35Pro",
+   "model": "S35Pro"
+  }
+ ],
  "S40Lite": [
   {
    "brand": "Doogee",
@@ -43511,6 +43530,13 @@
    "brand": "Energizer",
    "device": "HARDCASEH500S",
    "model": "HARDCASEH500S"
+  }
+ ],
+ "Hardcase H620S": [
+  {
+   "brand": "Energizer",
+   "device": "H620SEU",
+   "model": "H620SEU"
   }
  ],
  "PowerMaxP490": [
@@ -50583,6 +50609,13 @@
    "brand": "Gigaset",
    "device": "Gigaset_GS270_plus",
    "model": "GS270 plus"
+  }
+ ],
+ "Gigaset GS3": [
+  {
+   "brand": "Gigaset",
+   "device": "GS3",
+   "model": "E940-2766-00"
   }
  ],
  "Gigaset GS370": [
@@ -106418,6 +106451,13 @@
    "model": "Summit 2+"
   }
  ],
+ "Summit Lite": [
+  {
+   "brand": "Montblanc",
+   "device": "icefish",
+   "model": "SUMMIT LITE"
+  }
+ ],
  "Morep Mavic 10": [
   {
    "brand": "Morep",
@@ -109442,6 +109482,13 @@
    "brand": "Multilaser",
    "device": "ML-SO06-M7sLite",
    "model": "M7sLite"
+  }
+ ],
+ "M8_4G": [
+  {
+   "brand": "Multilaser",
+   "device": "ML_SO19_M8_4G",
+   "model": "M8_4G"
   }
  ],
  "M9 3G": [
@@ -133596,6 +133643,11 @@
    "brand": "Samsung",
    "device": "a42xq",
    "model": "SM-A426B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a42xq",
+   "model": "SM-A426N"
   }
  ],
  "Galaxy A5": [
@@ -147776,6 +147828,13 @@
    "brand": "Sharp",
    "device": "Jerid",
    "model": "SH-41A"
+  }
+ ],
+ "AQUOS sense4 lite SH-RM15": [
+  {
+   "brand": "Sharp",
+   "device": "JeridL",
+   "model": "SH-RM15"
   }
  ],
  "AQUOS zero": [
@@ -172404,6 +172463,13 @@
    "model": "TPC_8053G"
   }
  ],
+ "VIVAX Fly6": [
+  {
+   "brand": "Vivax",
+   "device": "VIVAX_Fly6",
+   "model": "VIVAX Fly6"
+  }
+ ],
  "VIVAX Fun_S1": [
   {
    "brand": "Vivax",
@@ -178574,6 +178640,13 @@
    "brand": "Xgody",
    "device": "XGT_EEA",
    "model": "XGT_EEA"
+  }
+ ],
+ "Formovie Laser TV 4K Cinema": [
+  {
+   "brand": "Xiaomi",
+   "device": "angleeUHD",
+   "model": "MiProjL1"
   }
  ],
  "HM 1SC": [

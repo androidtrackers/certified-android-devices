@@ -24403,6 +24403,13 @@
    "device": "Cosmas"
   }
  ],
+ "PADUA": [
+  {
+   "brand": "Cellution",
+   "name": "PADUA",
+   "device": "PADUA"
+  }
+ ],
  "Centric CM3331": [
   {
    "brand": "Centric",
@@ -34254,6 +34261,13 @@
    "device": "N30"
   }
  ],
+ "S35Pro": [
+  {
+   "brand": "Doogee",
+   "name": "S35Pro",
+   "device": "S35Pro"
+  }
+ ],
  "S40Lite": [
   {
    "brand": "Doogee",
@@ -37354,6 +37368,13 @@
    "brand": "Energizer",
    "name": "HARDCASEH500S",
    "device": "HARDCASEH500S"
+  }
+ ],
+ "H620SEU": [
+  {
+   "brand": "Energizer",
+   "name": "Hardcase H620S",
+   "device": "H620SEU"
   }
  ],
  "PowerMaxP490": [
@@ -44723,6 +44744,13 @@
    "brand": "Gigaset",
    "name": "Gigaset GS270 plus",
    "device": "Gigaset_GS270_plus"
+  }
+ ],
+ "E940-2766-00": [
+  {
+   "brand": "Gigaset",
+   "name": "Gigaset GS3",
+   "device": "GS3"
   }
  ],
  "GS370": [
@@ -108015,6 +108043,13 @@
    "device": "coralia"
   }
  ],
+ "SUMMIT LITE": [
+  {
+   "brand": "Montblanc",
+   "name": "Summit Lite",
+   "device": "icefish"
+  }
+ ],
  "M830": [
   {
    "brand": "Morep",
@@ -111667,6 +111702,13 @@
    "brand": "Multilaser",
    "name": "M7sLite",
    "device": "ML-SO06-M7sLite"
+  }
+ ],
+ "M8_4G": [
+  {
+   "brand": "Multilaser",
+   "name": "M8_4G",
+   "device": "ML_SO19_M8_4G"
   }
  ],
  "M9_3G": [
@@ -116917,6 +116959,13 @@
    "brand": "Nuu",
    "name": "M3",
    "device": "NUU_M3"
+  }
+ ],
+ "S6503L": [
+  {
+   "brand": "Nuu",
+   "name": "M6",
+   "device": "S6503LE"
   }
  ],
  "N4L": [
@@ -137224,6 +137273,13 @@
    "device": "a42xq"
   }
  ],
+ "SM-A426N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A42 5G",
+   "device": "a42xq"
+  }
+ ],
  "SM-A500H": [
   {
    "brand": "Samsung",
@@ -154687,6 +154743,13 @@
    "brand": "Sharp",
    "name": "AQUOS sense4 SH-41A",
    "device": "Jerid"
+  }
+ ],
+ "SH-RM15": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense4 lite SH-RM15",
+   "device": "JeridL"
   }
  ],
  "801SH": [
@@ -182325,6 +182388,13 @@
    "device": "TPC_8053G"
   }
  ],
+ "VIVAX Fly6": [
+  {
+   "brand": "Vivax",
+   "name": "VIVAX Fly6",
+   "device": "VIVAX_Fly6"
+  }
+ ],
  "FUN S1": [
   {
    "brand": "Vivax",
@@ -188624,6 +188694,18 @@
    "device": "braveheart"
   }
  ],
+ "MiProjL1": [
+  {
+   "brand": "Xiaomi",
+   "name": "Formovie Laser TV 4K Cinema",
+   "device": "angleeUHD"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Mi Laser Projector 4K",
+   "device": "angleeUHD"
+  }
+ ],
  "HM 1AC": [
   {
    "brand": "Xiaomi",
@@ -189423,13 +189505,6 @@
    "brand": "Xiaomi",
    "name": "\"Mi Laser Projector 150\"\"\"",
    "device": "anglee"
-  }
- ],
- "MiProjL1": [
-  {
-   "brand": "Xiaomi",
-   "name": "Mi Laser Projector 4K",
-   "device": "angleeUHD"
   }
  ],
  "Mi MIX 3 5G": [
