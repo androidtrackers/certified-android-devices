@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-11-11
+Last sync is 2020-11-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -570,6 +570,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Alba|Alba_8in|Alba_8in|Alba_8in|
 |Alco|Alco S9|Alco_S9|Alco_S9|
 |Alco|RCT6613W23PG|RCT6613W23PG|RCT6613W23PG|
+|Alco|VCT9T48Q34|VCT9T48Q34|VCT9T48Q34|
 |Alco|Voyager Pro|RCT6873W42BMF8KC|RCT6873W42BMF8KC|
 |Alcor|Alcor|Access_Q784C|Access_Q784C|
 |Alcor|Alcor|Zest_Q108I|Zest_Q108I|
@@ -3045,6 +3046,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CMCC|M811|m811|M811|
 |CMCC|M811|m811hk|M811|
 |CONKER|ST60|ST_60|ST 60|
+|CONKER|SX50|SX50|SX50|
 |CONVERGE|T7045PS|T7045PS|T7045PS|
 |CONVERGE|T8045PS|T8045PS|T8045PS|
 |COOKIE|YS-CK0001|YS-CK0001|YS-CK0001|
@@ -6364,6 +6366,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gol Mobile|TEAM_7_3G|TEAM_7_3G|TEAM_7_3G|
 |Gol Mobile|Team73G|Team73G|Team73G|
 |Gol Mobile|Team_7|Team_7|Team 7.0|
+|Goldentec|GT_Tab|GT_Tab|GT_Tab|
 |Goldmaster|BENGAL_6|BENGAL_6|BENGAL_6|
 |Goldmaster|F_4|F_4|F_4|
 |Goldtech|GT10-B16|GT10-B16|GT10-B16|
@@ -10232,6 +10235,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IWRIST|IWRIST_M11|IWRIST_M11|IWRIST_M11|
 |IWRIST|IWRIST_M7|IWRIST_M7|IWRIST_M7|
 |IWRIST|IWRIST_M8|IWRIST_M8|IWRIST_M8|
+|IXTECH|IX701|IX701|IX701|
 |IZZI Telecom|HP2714|HPH65|HP2714|
 |IZZI Telecom|SKYWORTH-HY4002|HY40A1|SKYWORTH-HY4002|
 |Ice Phone|Mini|ice_phone_mini|Ice-Phone Mini|
@@ -11013,6 +11017,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|AV-11NT510|AV-11NT510|AV-11NT510|
 |JVC|Amtran|gangbyeon|4K AI Smart TV|
 |JVC|Amtran|osaki|2K AI Smart TV|
+|JVC|Android TV|R1|ATV R1|
 |JVC|Android TV|R2|ATV R2|
 |JVC|DM65UXR\DM65USR\DM85UXR|mstarnapoli_atsc|DM65UXR|
 |JVC|Dixons|sadang|UK 4K Android TV|
@@ -14952,6 +14957,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MegaFon|MS4B|Viper_LTE|ALCATEL ONE TOUCH 7030Y|
 |MegaFon|MS4B|Viper_LTE|MS4B|
 |MegaFon|MT3A|MT3A|MT3A|
+|Megacable|Mexico|B826C-A12_ZTE|B826C-A12|
 |Megacable|Mexico|B866V2_ZTE|Xview+|
 |Megahouse|CP-D403|CP-D403|CP-D403|
 |Meiigoo|S8|MEIIGOO_S8|S8|
@@ -22636,6 +22642,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS sense3 plus SH-RM11|SH-RM11|SH-RM11|
 |Sharp|AQUOS sense3 plus　サウンド SHV46|OBY|SHV46|
 |Sharp|AQUOS sense4 SH-41A|Jerid|SH-41A|
+|Sharp|AQUOS sense4 basic A003SH|JeridB|A003SH|
 |Sharp|AQUOS sense4 lite SH-RM15|JeridL|SH-RM15|
 |Sharp|AQUOS zero|SG801SH|801SH|
 |Sharp|AQUOS zero|SH-Z10|SH-Z10|
@@ -27198,6 +27205,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vodafone|Vodafone Smart mini 7 ve|U3_3G|VFD 310|
 |Vodafone|Vodafone Smart mini 7 ve dual|U3_3G|VFD 311|
 |Vodafone|Vodafone TV|uiw4030vha|Vodafone TV|
+|Voger|X100|X100|X100|
 |Volt Mobile|VOLT_SV451_Vision|VOLT_SV451_Vision|VOLT_SV451_Vision|
 |Volvo|Volvo|ihu_abl_car|Volvo|
 |Vonino|Druid_L10|Druid_L10|Druid_L10|
@@ -29627,6 +29635,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|tmn smart a7|sailboat|tmn smart a7|
 |ZUKU|A151|A155|A151|
 |ZUKU|DV8330-T2|DV8330-T2|DV8330-T2|
+|ZUOPU|JH786|JH786|JH786|
 |Zaith|Z3211G|Z3211G|Z3211G|
 |Zatec|JOY|JOY|JOY|
 |Zatec|JOY_PLUS|JOY_PLUS|JOY_PLUS|

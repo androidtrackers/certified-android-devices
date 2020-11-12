@@ -2972,6 +2972,11 @@
    "model": "RCT6613W23PG"
   },
   {
+   "device": "VCT9T48Q34",
+   "name": "VCT9T48Q34",
+   "model": "VCT9T48Q34"
+  },
+  {
    "device": "RCT6873W42BMF8KC",
    "name": "Voyager Pro",
    "model": "RCT6873W42BMF8KC"
@@ -15699,6 +15704,11 @@
    "device": "ST_60",
    "name": "ST60",
    "model": "ST 60"
+  },
+  {
+   "device": "SX50",
+   "name": "SX50",
+   "model": "SX50"
   }
  ],
  "CONVERGE": [
@@ -33046,6 +33056,13 @@
    "device": "Team_7",
    "name": "Team_7",
    "model": "Team 7.0"
+  }
+ ],
+ "Goldentec": [
+  {
+   "device": "GT_Tab",
+   "name": "GT_Tab",
+   "model": "GT_Tab"
   }
  ],
  "Goldmaster": [
@@ -52596,6 +52613,13 @@
    "model": "IWRIST_M8"
   }
  ],
+ "IXTECH": [
+  {
+   "device": "IX701",
+   "name": "IX701",
+   "model": "IX701"
+  }
+ ],
  "IZZI Telecom": [
   {
    "device": "HPH65",
@@ -56597,6 +56621,11 @@
    "device": "osaki",
    "name": "Amtran",
    "model": "2K AI Smart TV"
+  },
+  {
+   "device": "R1",
+   "name": "Android TV",
+   "model": "ATV R1"
   },
   {
    "device": "R2",
@@ -76749,6 +76778,11 @@
   }
  ],
  "Megacable": [
+  {
+   "device": "B826C-A12_ZTE",
+   "name": "Mexico",
+   "model": "B826C-A12"
+  },
   {
    "device": "B866V2_ZTE",
    "name": "Mexico",
@@ -115984,6 +116018,11 @@
    "model": "SH-41A"
   },
   {
+   "device": "JeridB",
+   "name": "AQUOS sense4 basic A003SH",
+   "model": "A003SH"
+  },
+  {
    "device": "JeridL",
    "name": "AQUOS sense4 lite SH-RM15",
    "model": "SH-RM15"
@@ -139430,6 +139469,13 @@
    "model": "Vodafone TV"
   }
  ],
+ "Voger": [
+  {
+   "device": "X100",
+   "name": "X100",
+   "model": "X100"
+  }
+ ],
  "Volt Mobile": [
   {
    "device": "VOLT_SV451_Vision",
@@ -151775,6 +151821,13 @@
    "device": "DV8330-T2",
    "name": "DV8330-T2",
    "model": "DV8330-T2"
+  }
+ ],
+ "ZUOPU": [
+  {
+   "device": "JH786",
+   "name": "JH786",
+   "model": "JH786"
   }
  ],
  "Zaith": [

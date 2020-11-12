@@ -3255,6 +3255,11 @@
    "device": "R1"
   },
   {
+   "brand": "JVC",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
    "brand": "LLOYD",
    "name": "Android TV",
    "device": "R1"
@@ -4984,6 +4989,13 @@
    "brand": "Alco",
    "name": "RCT6613W23PG",
    "device": "RCT6613W23PG"
+  }
+ ],
+ "VCT9T48Q34": [
+  {
+   "brand": "Alco",
+   "name": "VCT9T48Q34",
+   "device": "VCT9T48Q34"
   }
  ],
  "RCT6873W42BMF8KC": [
@@ -22788,6 +22800,13 @@
    "device": "ST_60"
   }
  ],
+ "SX50": [
+  {
+   "brand": "CONKER",
+   "name": "SX50",
+   "device": "SX50"
+  }
+ ],
  "T7045PS": [
   {
    "brand": "CONVERGE",
@@ -34419,6 +34438,11 @@
   },
   {
    "brand": "Moxee Technologies",
+   "name": "X100",
+   "device": "X100"
+  },
+  {
+   "brand": "Voger",
    "name": "X100",
    "device": "X100"
   },
@@ -46412,6 +46436,13 @@
    "brand": "Gol Mobile",
    "name": "Team_7",
    "device": "Team_7"
+  }
+ ],
+ "GT_Tab": [
+  {
+   "brand": "Goldentec",
+   "name": "GT_Tab",
+   "device": "GT_Tab"
   }
  ],
  "BENGAL_6": [
@@ -72189,6 +72220,13 @@
    "brand": "IWRIST",
    "name": "IWRIST_M8",
    "device": "IWRIST_M8"
+  }
+ ],
+ "IX701": [
+  {
+   "brand": "IXTECH",
+   "name": "IX701",
+   "device": "IX701"
   }
  ],
  "HP2714": [
@@ -103647,6 +103685,13 @@
    "brand": "MegaFon",
    "name": "MT3A",
    "device": "MT3A"
+  }
+ ],
+ "B826C-A12": [
+  {
+   "brand": "Megacable",
+   "name": "Mexico",
+   "device": "B826C-A12_ZTE"
   }
  ],
  "Xview+": [
@@ -154745,6 +154790,13 @@
    "device": "Jerid"
   }
  ],
+ "A003SH": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense4 basic A003SH",
+   "device": "JeridB"
+  }
+ ],
  "SH-RM15": [
   {
    "brand": "Sharp",
@@ -200369,6 +200421,13 @@
    "brand": "ZUKU",
    "name": "DV8330-T2",
    "device": "DV8330-T2"
+  }
+ ],
+ "JH786": [
+  {
+   "brand": "ZUOPU",
+   "name": "JH786",
+   "device": "JH786"
   }
  ],
  "Z3211G": [

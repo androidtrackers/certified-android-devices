@@ -8598,6 +8598,11 @@
   },
   {
    "brand": "JVC",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "JVC",
    "device": "R2",
    "model": "ATV R2"
   },
@@ -10501,6 +10506,13 @@
    "brand": "Alco",
    "device": "RCT6613W23PG",
    "model": "RCT6613W23PG"
+  }
+ ],
+ "VCT9T48Q34": [
+  {
+   "brand": "Alco",
+   "device": "VCT9T48Q34",
+   "model": "VCT9T48Q34"
   }
  ],
  "Voyager Pro": [
@@ -28688,6 +28700,13 @@
    "model": "ST 60"
   }
  ],
+ "SX50": [
+  {
+   "brand": "CONKER",
+   "device": "SX50",
+   "model": "SX50"
+  }
+ ],
  "T7045PS": [
   {
    "brand": "CONVERGE",
@@ -40388,6 +40407,11 @@
   },
   {
    "brand": "Moxee Technologies",
+   "device": "X100",
+   "model": "X100"
+  },
+  {
+   "brand": "Voger",
    "device": "X100",
    "model": "X100"
   },
@@ -52425,6 +52449,13 @@
    "model": "Team 7.0"
   }
  ],
+ "GT_Tab": [
+  {
+   "brand": "Goldentec",
+   "device": "GT_Tab",
+   "model": "GT_Tab"
+  }
+ ],
  "BENGAL_6": [
   {
    "brand": "Goldmaster",
@@ -63045,6 +63076,11 @@
    "brand": "Hisense",
    "device": "HLTE226E",
    "model": "Hisense Rocks 6"
+  },
+  {
+   "brand": "Megacable",
+   "device": "B826C-A12_ZTE",
+   "model": "B826C-A12"
   },
   {
    "brand": "Megacable",
@@ -74288,6 +74324,13 @@
    "brand": "IWRIST",
    "device": "IWRIST_M8",
    "model": "IWRIST_M8"
+  }
+ ],
+ "IX701": [
+  {
+   "brand": "IXTECH",
+   "device": "IX701",
+   "model": "IX701"
   }
  ],
  "HP2714": [
@@ -147830,6 +147873,13 @@
    "model": "SH-41A"
   }
  ],
+ "AQUOS sense4 basic A003SH": [
+  {
+   "brand": "Sharp",
+   "device": "JeridB",
+   "model": "A003SH"
+  }
+ ],
  "AQUOS sense4 lite SH-RM15": [
   {
    "brand": "Sharp",
@@ -188124,6 +188174,13 @@
    "brand": "ZUKU",
    "device": "DV8330-T2",
    "model": "DV8330-T2"
+  }
+ ],
+ "JH786": [
+  {
+   "brand": "ZUOPU",
+   "device": "JH786",
+   "model": "JH786"
   }
  ],
  "Z3211G": [
