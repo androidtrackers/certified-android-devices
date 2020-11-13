@@ -2869,6 +2869,11 @@
    "brand": "Acer",
    "name": "Liquid X1",
    "device": "s3"
+  },
+  {
+   "brand": "Premio",
+   "name": "S53",
+   "device": "S53"
   }
  ],
  "T02": [
@@ -13894,6 +13899,13 @@
    "device": "Axioo_AX4"
   }
  ],
+ "MH": [
+  {
+   "brand": "Axioo",
+   "name": "MH",
+   "device": "MH"
+  }
+ ],
  "PICOpad-7H": [
   {
    "brand": "Axioo",
@@ -21503,7 +21515,7 @@
  "EF550R": [
   {
    "brand": "Bluebird",
-   "name": "EF550",
+   "name": "EF550R",
    "device": "EF550R"
   }
  ],
@@ -22857,6 +22869,13 @@
    "brand": "Rhino",
    "name": "C10",
    "device": "Rhino_C10"
+  }
+ ],
+ "CORN R10": [
+  {
+   "brand": "CORN",
+   "name": "CORN_R10",
+   "device": "CORN_R10"
   }
  ],
  "CORN R20": [
@@ -30245,6 +30264,13 @@
    "device": "B355"
   }
  ],
+ "B38": [
+  {
+   "brand": "DEXP",
+   "name": "B38",
+   "device": "B38"
+  }
+ ],
  "B450": [
   {
    "brand": "DEXP",
@@ -30661,6 +30687,20 @@
    "device": "H270"
   }
  ],
+ "H310": [
+  {
+   "brand": "DEXP",
+   "name": "H310",
+   "device": "H310"
+  }
+ ],
+ "H370": [
+  {
+   "brand": "DEXP",
+   "name": "H370",
+   "device": "H370"
+  }
+ ],
  "Ixion M355": [
   {
    "brand": "DEXP",
@@ -30750,6 +30790,13 @@
    "brand": "DEXP",
    "name": "L370i",
    "device": "L370i"
+  }
+ ],
+ "M170": [
+  {
+   "brand": "DEXP",
+   "name": "M170",
+   "device": "M170"
   }
  ],
  "Ixion M340": [
@@ -30890,6 +30937,13 @@
    "brand": "DEXP",
    "name": "Q110",
    "device": "Q110"
+  }
+ ],
+ "Q180": [
+  {
+   "brand": "DEXP",
+   "name": "Q180",
+   "device": "Q180"
   }
  ],
  "Q210": [
@@ -31588,6 +31642,13 @@
    "device": "MAXX_05"
   }
  ],
+ "Signature-S8": [
+  {
+   "brand": "Dany",
+   "name": "Signature-S8",
+   "device": "Signature-S8"
+  }
+ ],
  "MEMOR 10": [
   {
    "brand": "Datalogic",
@@ -31657,6 +31718,13 @@
    "brand": "Datamini",
    "name": "T74G",
    "device": "T74G"
+  }
+ ],
+ "T8004G": [
+  {
+   "brand": "Datamini",
+   "name": "T8004G",
+   "device": "T8004G"
   }
  ],
  "T84G": [
@@ -35128,6 +35196,11 @@
    "brand": "Dragontouch",
    "name": "Dragon_Touch",
    "device": "MAX_10"
+  },
+  {
+   "brand": "Dragontouch",
+   "name": "MAX_10_eea",
+   "device": "MAX_10_EEA"
   }
  ],
  "K8": [
@@ -35221,6 +35294,13 @@
    "device": "NotePad_Y80"
   }
  ],
+ "Notepad-K10": [
+  {
+   "brand": "Dragontouch",
+   "name": "Notepad-K10",
+   "device": "Notepad-K10"
+  }
+ ],
  "Notepad 102": [
   {
    "brand": "Dragontouch",
@@ -35233,6 +35313,18 @@
    "device": "Notepad102_EEA"
   }
  ],
+ "Notepad_Go_801": [
+  {
+   "brand": "Dragontouch",
+   "name": "NotepadGo801",
+   "device": "NotepadGo801"
+  },
+  {
+   "brand": "Dragontouch",
+   "name": "Notepad_Go_801",
+   "device": "Notepad_Go_801"
+  }
+ ],
  "Notepad_Go_801_EEA": [
   {
    "brand": "Dragontouch",
@@ -35242,13 +35334,6 @@
   {
    "brand": "Dragontouch",
    "name": "Notepad_Go_801_EEA",
-   "device": "Notepad_Go_801"
-  }
- ],
- "Notepad_Go_801": [
-  {
-   "brand": "Dragontouch",
-   "name": "Notepad_Go_801",
    "device": "Notepad_Go_801"
   }
  ],
@@ -36108,6 +36193,13 @@
    "brand": "EPIKONE",
    "name": "K502",
    "device": "K502"
+  }
+ ],
+ "K503S": [
+  {
+   "brand": "EPIKONE",
+   "name": "K503S",
+   "device": "K503S"
   }
  ],
  "K503T": [
@@ -54305,6 +54397,13 @@
    "device": "A22"
   }
  ],
+ "A23": [
+  {
+   "brand": "Hiking",
+   "name": "A23",
+   "device": "A23"
+  }
+ ],
  "HIKING_A18": [
   {
    "brand": "Hiking",
@@ -72222,6 +72321,13 @@
    "device": "IWRIST_M8"
   }
  ],
+ "IX1011": [
+  {
+   "brand": "IXTECH",
+   "name": "IX1011",
+   "device": "IX1011"
+  }
+ ],
  "IX701": [
   {
    "brand": "IXTECH",
@@ -72311,6 +72417,13 @@
    "brand": "Ikon",
    "name": "IK-1025",
    "device": "IK-1025"
+  }
+ ],
+ "IK-1106": [
+  {
+   "brand": "Ikon",
+   "name": "IK-1106",
+   "device": "IK-1106"
   }
  ],
  "IK-7108": [
@@ -78867,6 +78980,11 @@
   },
   {
    "brand": "Kenbo",
+   "name": "K6",
+   "device": "K6"
+  },
+  {
+   "brand": "Lesia",
    "name": "K6",
    "device": "K6"
   },
@@ -101267,6 +101385,13 @@
    "device": "TAB-S1"
   }
  ],
+ "P50-ROW": [
+  {
+   "brand": "MOXNICE",
+   "name": "P50-ROW",
+   "device": "P50-ROW"
+  }
+ ],
  "P63": [
   {
    "brand": "MOXNICE",
@@ -102635,6 +102760,13 @@
    "brand": "Maxwest",
    "name": "Nitro 55N",
    "device": "Nitro_55N"
+  }
+ ],
+ "Nitro 55Q": [
+  {
+   "brand": "Maxwest",
+   "name": "Nitro 55Q",
+   "device": "Nitro_55Q"
   }
  ],
  "Nitro_5N": [
@@ -111634,6 +111766,11 @@
  "M7-3G-PLUS": [
   {
    "brand": "Multilaser",
+   "name": "M7 3G PLUS",
+   "device": "ML-JI31-M7-3G-PLUS"
+  },
+  {
+   "brand": "Multilaser",
    "name": "M7-3G PLUS",
    "device": "ML-JI21-M7-3G-PLUS"
   }
@@ -111733,6 +111870,11 @@
    "brand": "Multilaser",
    "name": "M7_3G_A10",
    "device": "ML_WI1A_M7_3G_A10"
+  },
+  {
+   "brand": "Multilaser",
+   "name": "M7_3G_A10",
+   "device": "ML_WI3A_M7_3G_A10"
   }
  ],
  "M7s Dual ML03": [
@@ -121396,6 +121538,13 @@
    "device": "RC555L"
   }
  ],
+ "Celia": [
+  {
+   "brand": "Ordissimo",
+   "name": "Celia",
+   "device": "Celia"
+  }
+ ],
  "LeNumero2": [
   {
    "brand": "Ordissimo",
@@ -127914,6 +128063,13 @@
    "device": "S82"
   }
  ],
+ "S83": [
+  {
+   "brand": "Premio",
+   "name": "S83",
+   "device": "S83"
+  }
+ ],
  "186HS2080531": [
   {
    "brand": "Premio",
@@ -128610,6 +128766,13 @@
    "brand": "Prestigio",
    "name": "PMT3208_3G",
    "device": "PN80A03G"
+  }
+ ],
+ "PMT3231_4G_D_RU": [
+  {
+   "brand": "Prestigio",
+   "name": "PMT3231_4G_D_RU",
+   "device": "HP10A12L"
   }
  ],
  "PMT3257_4G": [
@@ -129767,11 +129930,25 @@
    "device": "PC9"
   }
  ],
+ "1AZ2P_eea": [
+  {
+   "brand": "Pritom",
+   "name": "1AZ2P_eea",
+   "device": "1AZ2P_eea"
+  }
+ ],
  "L10_EEA": [
   {
    "brand": "Pritom",
    "name": "L10_EEA",
    "device": "L10_EEA"
+  }
+ ],
+ "L8": [
+  {
+   "brand": "Pritom",
+   "name": "L8",
+   "device": "L8"
   }
  ],
  "P7PRO": [
@@ -130999,6 +131176,13 @@
    "brand": "QPS Digital Electronics",
    "name": "M002KID-15",
    "device": "M002KID-15"
+  }
+ ],
+ "P70-EEA": [
+  {
+   "brand": "QPS Digital Electronics",
+   "name": "P70-EEA",
+   "device": "P70-EEA"
   }
  ],
  "T1mini": [
@@ -135125,6 +135309,13 @@
    "brand": "SPC Universe",
    "name": "heaven_10_1",
    "device": "heaven-10_1"
+  }
+ ],
+ "MID736-737": [
+  {
+   "brand": "SSA-Digital",
+   "name": "MID736-737",
+   "device": "MID736-737"
   }
  ],
  "AMS5118R_GO": [
@@ -163881,6 +164072,13 @@
    "device": "TAG-DC"
   }
  ],
+ "TAG-TAB-III": [
+  {
+   "brand": "TAG-TECH",
+   "name": "TAG-TAB-III",
+   "device": "TAG-TAB-III"
+  }
+ ],
  "TT-III": [
   {
    "brand": "TAG-TECH",
@@ -174337,6 +174535,13 @@
    "device": "M30_Pro_ROW"
   }
  ],
+ "M40_EEA": [
+  {
+   "brand": "Teclast",
+   "name": "M40_EEA",
+   "device": "M40_EEA"
+  }
+ ],
  "P10S_ROW": [
   {
    "brand": "Teclast",
@@ -176700,6 +176905,13 @@
    "device": "HMB2213PW22TS"
   }
  ],
+ "Teracube 2e": [
+  {
+   "brand": "Teracube",
+   "name": "Teracube 2e",
+   "device": "Teracube_2e"
+  }
+ ],
  "Teracube One": [
   {
    "brand": "Teracube",
@@ -178516,6 +178728,13 @@
    "device": "Turbopad1016NEW"
   }
  ],
+ "TurboPadPro": [
+  {
+   "brand": "Turbopad",
+   "name": "Turbopadpro",
+   "device": "TurboPadPro"
+  }
+ ],
  "Tvera 4K Android TV": [
   {
    "brand": "Tvera",
@@ -179940,6 +180159,13 @@
    "device": "VucaPad_N20_LTE"
   }
  ],
+ "VucaPad_NS20": [
+  {
+   "brand": "VUCATIMES",
+   "name": "VucaPad_NS20",
+   "device": "VucaPad_NS20"
+  }
+ ],
  "VucaPad_N20_LTE_JP": [
   {
    "brand": "VUCATIMES",
@@ -180015,6 +180241,13 @@
    "brand": "Vankyo",
    "name": "S8_EEA",
    "device": "S8_EEA"
+  }
+ ],
+ "VANKYO_S8_EEA": [
+  {
+   "brand": "Vankyo",
+   "name": "VANKYO_S8_EEA",
+   "device": "VANKYO_S8_EEA"
   }
  ],
  "Vankyo_S10": [
@@ -181934,6 +182167,13 @@
    "brand": "Victurio",
    "name": "VI106",
    "device": "VI106"
+  }
+ ],
+ "VI108": [
+  {
+   "brand": "Victurio",
+   "name": "VI108",
+   "device": "VI108"
   }
  ],
  "VI86": [
@@ -187774,6 +188014,13 @@
    "brand": "Wileyfox",
    "name": "Swift 2",
    "device": "marmite"
+  }
+ ],
+ "M5plus": [
+  {
+   "brand": "Win (VE)",
+   "name": "M5plus",
+   "device": "M5plus"
   }
  ],
  "N4plus": [
@@ -201259,6 +201506,13 @@
    "device": "K108_EEA"
   }
  ],
+ "K70_EEA": [
+  {
+   "brand": "Zonko",
+   "name": "K70_EEA",
+   "device": "K70_EEA"
+  }
+ ],
  "K78": [
   {
    "brand": "Zonko",
@@ -203723,6 +203977,13 @@
    "brand": "pendo",
    "name": "PNDPP44QC7",
    "device": "PNDPP44QC7"
+  }
+ ],
+ "Wizpad_Valuer_V8": [
+  {
+   "brand": "redfox",
+   "name": "Wizpad_Valuer_V8",
+   "device": "wvv832"
   }
  ],
  "10_1Q205": [

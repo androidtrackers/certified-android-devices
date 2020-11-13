@@ -14856,6 +14856,13 @@
    "model": "Axioo_AX4"
   }
  ],
+ "MH": [
+  {
+   "brand": "Axioo",
+   "name": "MH",
+   "model": "MH"
+  }
+ ],
  "PICOpad-7H": [
   {
    "brand": "Axioo",
@@ -22299,7 +22306,7 @@
  "EF550R": [
   {
    "brand": "Bluebird",
-   "name": "EF550",
+   "name": "EF550R",
    "model": "EF550R"
   }
  ],
@@ -23495,6 +23502,13 @@
    "brand": "CORN",
    "name": "CORN C10",
    "model": "C10"
+  }
+ ],
+ "CORN_R10": [
+  {
+   "brand": "CORN",
+   "name": "CORN_R10",
+   "model": "CORN R10"
   }
  ],
  "R20": [
@@ -31322,6 +31336,13 @@
    "model": "B355"
   }
  ],
+ "B38": [
+  {
+   "brand": "DEXP",
+   "name": "B38",
+   "model": "B38"
+  }
+ ],
  "B450": [
   {
    "brand": "DEXP",
@@ -31738,6 +31759,20 @@
    "model": "H270"
   }
  ],
+ "H310": [
+  {
+   "brand": "DEXP",
+   "name": "H310",
+   "model": "H310"
+  }
+ ],
+ "H370": [
+  {
+   "brand": "DEXP",
+   "name": "H370",
+   "model": "H370"
+  }
+ ],
  "M355": [
   {
    "brand": "DEXP",
@@ -31827,6 +31862,13 @@
    "brand": "DEXP",
    "name": "L370i",
    "model": "L370i"
+  }
+ ],
+ "M170": [
+  {
+   "brand": "DEXP",
+   "name": "M170",
+   "model": "M170"
   }
  ],
  "M340": [
@@ -31967,6 +32009,13 @@
    "brand": "DEXP",
    "name": "Q110",
    "model": "Q110"
+  }
+ ],
+ "Q180": [
+  {
+   "brand": "DEXP",
+   "name": "Q180",
+   "model": "Q180"
   }
  ],
  "Q210": [
@@ -32699,6 +32748,13 @@
    "model": "MAXX_05"
   }
  ],
+ "Signature-S8": [
+  {
+   "brand": "Dany",
+   "name": "Signature-S8",
+   "model": "Signature-S8"
+  }
+ ],
  "dl35": [
   {
    "brand": "Datalogic",
@@ -32779,6 +32835,13 @@
    "brand": "Datamini",
    "name": "T74G",
    "model": "T74G"
+  }
+ ],
+ "T8004G": [
+  {
+   "brand": "Datamini",
+   "name": "T8004G",
+   "model": "T8004G"
   }
  ],
  "T84G": [
@@ -36418,6 +36481,11 @@
    "brand": "Dragontouch",
    "name": "MAX_10_EEA",
    "model": "MAX 10"
+  },
+  {
+   "brand": "Dragontouch",
+   "name": "MAX_10_eea",
+   "model": "MAX_10"
   }
  ],
  "NotePad_101_B": [
@@ -36446,6 +36514,13 @@
    "model": "NotePad_Y80"
   }
  ],
+ "Notepad-K10": [
+  {
+   "brand": "Dragontouch",
+   "name": "Notepad-K10",
+   "model": "Notepad-K10"
+  }
+ ],
  "Notepad102": [
   {
    "brand": "Dragontouch",
@@ -36458,6 +36533,13 @@
    "brand": "Dragontouch",
    "name": "Notepad102_EEA",
    "model": "Notepad 102"
+  }
+ ],
+ "NotepadGo801": [
+  {
+   "brand": "Dragontouch",
+   "name": "NotepadGo801",
+   "model": "Notepad_Go_801"
   }
  ],
  "NotepadGo801_EEA": [
@@ -37302,6 +37384,13 @@
    "brand": "EPIKONE",
    "name": "K502",
    "model": "K502"
+  }
+ ],
+ "K503S": [
+  {
+   "brand": "EPIKONE",
+   "name": "K503S",
+   "model": "K503S"
   }
  ],
  "K503T": [
@@ -54898,6 +54987,13 @@
    "model": "A22"
   }
  ],
+ "A23": [
+  {
+   "brand": "Hiking",
+   "name": "A23",
+   "model": "A23"
+  }
+ ],
  "HIKING_A18": [
   {
    "brand": "Hiking",
@@ -70413,6 +70509,13 @@
    "model": "IWRIST_M8"
   }
  ],
+ "IX1011": [
+  {
+   "brand": "IXTECH",
+   "name": "IX1011",
+   "model": "IX1011"
+  }
+ ],
  "IX701": [
   {
    "brand": "IXTECH",
@@ -70502,6 +70605,13 @@
    "brand": "Ikon",
    "name": "IK-1025",
    "model": "IK-1025"
+  }
+ ],
+ "IK-1106": [
+  {
+   "brand": "Ikon",
+   "name": "IK-1106",
+   "model": "IK-1106"
   }
  ],
  "IK-7108": [
@@ -76851,6 +76961,11 @@
   },
   {
    "brand": "Kenbo",
+   "name": "K6",
+   "model": "K6"
+  },
+  {
+   "brand": "Lesia",
    "name": "K6",
    "model": "K6"
   },
@@ -98135,6 +98250,13 @@
    "model": "TAB-S1"
   }
  ],
+ "P50-ROW": [
+  {
+   "brand": "MOXNICE",
+   "name": "P50-ROW",
+   "model": "P50-ROW"
+  }
+ ],
  "P63": [
   {
    "brand": "MOXNICE",
@@ -99458,6 +99580,13 @@
    "brand": "Maxwest",
    "name": "Nitro 55N",
    "model": "Nitro 55N"
+  }
+ ],
+ "Nitro_55Q": [
+  {
+   "brand": "Maxwest",
+   "name": "Nitro 55Q",
+   "model": "Nitro 55Q"
   }
  ],
  "Nitro_5N": [
@@ -108358,6 +108487,13 @@
    "model": "ML-JI11-M7_3G_PLUS"
   }
  ],
+ "ML-JI31-M7-3G-PLUS": [
+  {
+   "brand": "Multilaser",
+   "name": "M7 3G PLUS",
+   "model": "M7-3G-PLUS"
+  }
+ ],
  "ML_WI0A_M7_3G_PLUS": [
   {
    "brand": "Multilaser",
@@ -108470,6 +108606,13 @@
   }
  ],
  "ML_WI1A_M7_3G_A10": [
+  {
+   "brand": "Multilaser",
+   "name": "M7_3G_A10",
+   "model": "M7_3G_A10"
+  }
+ ],
+ "ML_WI3A_M7_3G_A10": [
   {
    "brand": "Multilaser",
    "name": "M7_3G_A10",
@@ -118068,6 +118211,13 @@
    "model": "RC555L"
   }
  ],
+ "Celia": [
+  {
+   "brand": "Ordissimo",
+   "name": "Celia",
+   "model": "Celia"
+  }
+ ],
  "LeNumero2": [
   {
    "brand": "Ordissimo",
@@ -124499,6 +124649,13 @@
    "model": "Premio P451"
   }
  ],
+ "S53": [
+  {
+   "brand": "Premio",
+   "name": "S53",
+   "model": "S53"
+  }
+ ],
  "S71": [
   {
    "brand": "Premio",
@@ -124539,6 +124696,13 @@
    "brand": "Premio",
    "name": "S82",
    "model": "S82"
+  }
+ ],
+ "S83": [
+  {
+   "brand": "Premio",
+   "name": "S83",
+   "model": "S83"
   }
  ],
  "186HS2080531": [
@@ -125294,6 +125458,13 @@
    "brand": "Prestigio",
    "name": "Prestigio SmartKids",
    "model": "PMT3997_W_RU"
+  }
+ ],
+ "HP10A12L": [
+  {
+   "brand": "Prestigio",
+   "name": "PMT3231_4G_D_RU",
+   "model": "PMT3231_4G_D_RU"
   }
  ],
  "PMT3277_3G": [
@@ -126183,6 +126354,13 @@
    "model": "PC9"
   }
  ],
+ "1AZ2P_eea": [
+  {
+   "brand": "Pritom",
+   "name": "1AZ2P_eea",
+   "model": "1AZ2P_eea"
+  }
+ ],
  "L10": [
   {
    "brand": "Pritom",
@@ -126200,6 +126378,13 @@
    "brand": "Pritom",
    "name": "L10_EEA",
    "model": "L10_EEA"
+  }
+ ],
+ "L8": [
+  {
+   "brand": "Pritom",
+   "name": "L8",
+   "model": "L8"
   }
  ],
  "P7PRO": [
@@ -127396,6 +127581,13 @@
    "brand": "QPS Digital Electronics",
    "name": "M002KID-15",
    "model": "M002KID-15"
+  }
+ ],
+ "P70-EEA": [
+  {
+   "brand": "QPS Digital Electronics",
+   "name": "P70-EEA",
+   "model": "P70-EEA"
   }
  ],
  "T1mini": [
@@ -131395,6 +131587,13 @@
    "brand": "SPC Universe",
    "name": "heaven_10_1",
    "model": "HEAVEN 10.1"
+  }
+ ],
+ "MID736-737": [
+  {
+   "brand": "SSA-Digital",
+   "name": "MID736-737",
+   "model": "MID736-737"
   }
  ],
  "AMS5118R_GO": [
@@ -158809,6 +159008,13 @@
    "model": "TAG-DC"
   }
  ],
+ "TAG-TAB-III": [
+  {
+   "brand": "TAG-TECH",
+   "name": "TAG-TAB-III",
+   "model": "TAG-TAB-III"
+  }
+ ],
  "TAG-TABKIDS": [
   {
    "brand": "TAG-TECH",
@@ -167054,6 +167260,13 @@
    "model": "M30_Pro_ROW"
   }
  ],
+ "M40_EEA": [
+  {
+   "brand": "Teclast",
+   "name": "M40_EEA",
+   "model": "M40_EEA"
+  }
+ ],
  "P10S_ROW": [
   {
    "brand": "Teclast",
@@ -169300,6 +169513,13 @@
    "model": "HMB2213PW22TS"
   }
  ],
+ "Teracube_2e": [
+  {
+   "brand": "Teracube",
+   "name": "Teracube 2e",
+   "model": "Teracube 2e"
+  }
+ ],
  "Teracube_One": [
   {
    "brand": "Teracube",
@@ -171067,6 +171287,13 @@
    "model": "Turbopad1016NEW"
   }
  ],
+ "TurboPadPro": [
+  {
+   "brand": "Turbopad",
+   "name": "Turbopadpro",
+   "model": "TurboPadPro"
+  }
+ ],
  "722T": [
   {
    "brand": "Turk Telekom",
@@ -172489,6 +172716,13 @@
    "model": "VucaPad_N20_LTE"
   }
  ],
+ "VucaPad_NS20": [
+  {
+   "brand": "VUCATIMES",
+   "name": "VucaPad_NS20",
+   "model": "VucaPad_NS20"
+  }
+ ],
  "VucaPad_N20_LTE_JP": [
   {
    "brand": "VUCATIMES",
@@ -172550,6 +172784,13 @@
    "brand": "Vankyo",
    "name": "S8_EEA",
    "model": "S8_EEA"
+  }
+ ],
+ "VANKYO_S8_EEA": [
+  {
+   "brand": "Vankyo",
+   "name": "VANKYO_S8_EEA",
+   "model": "VANKYO_S8_EEA"
   }
  ],
  "Vankyo_S10": [
@@ -174385,6 +174626,13 @@
    "brand": "Victurio",
    "name": "VI106",
    "model": "VI106"
+  }
+ ],
+ "VI108": [
+  {
+   "brand": "Victurio",
+   "name": "VI108",
+   "model": "VI108"
   }
  ],
  "VI86": [
@@ -180163,6 +180411,13 @@
    "brand": "Wileyfox",
    "name": "Swift2 Add-X",
    "model": "Swift 2 Plus"
+  }
+ ],
+ "M5plus": [
+  {
+   "brand": "Win (VE)",
+   "name": "M5plus",
+   "model": "M5plus"
   }
  ],
  "N4plus": [
@@ -191875,6 +192130,13 @@
    "model": "K108_EEA"
   }
  ],
+ "K70_EEA": [
+  {
+   "brand": "Zonko",
+   "name": "K70_EEA",
+   "model": "K70_EEA"
+  }
+ ],
  "K78_EEA": [
   {
    "brand": "Zonko",
@@ -194390,6 +194652,13 @@
    "brand": "qunyiCO",
    "name": "Y10_EEA",
    "model": "Y10"
+  }
+ ],
+ "wvv832": [
+  {
+   "brand": "redfox",
+   "name": "Wizpad_Valuer_V8",
+   "model": "Wizpad_Valuer_V8"
   }
  ],
  "BingeStick": [

@@ -9422,6 +9422,11 @@
    "model": "Axioo_AX4"
   },
   {
+   "device": "MH",
+   "name": "MH",
+   "model": "MH"
+  },
+  {
    "device": "PICOpad-7H",
    "name": "PICOpad-7H",
    "model": "PICOpad-7H"
@@ -14752,7 +14757,7 @@
   },
   {
    "device": "EF550R",
-   "name": "EF550",
+   "name": "EF550R",
    "model": "EF550R"
   },
   {
@@ -15752,6 +15757,11 @@
    "device": "CORN_C10",
    "name": "CORN C10",
    "model": "C10"
+  },
+  {
+   "device": "CORN_R10",
+   "name": "CORN_R10",
+   "model": "CORN R10"
   },
   {
    "device": "R20",
@@ -21154,6 +21164,11 @@
    "model": "B355"
   },
   {
+   "device": "B38",
+   "name": "B38",
+   "model": "B38"
+  },
+  {
    "device": "B450",
    "name": "B450",
    "model": "B450"
@@ -21449,6 +21464,16 @@
    "model": "H270"
   },
   {
+   "device": "H310",
+   "name": "H310",
+   "model": "H310"
+  },
+  {
+   "device": "H370",
+   "name": "H370",
+   "model": "H370"
+  },
+  {
    "device": "M355",
    "name": "Ixion M355",
    "model": "Ixion M355"
@@ -21512,6 +21537,11 @@
    "device": "L370i",
    "name": "L370i",
    "model": "L370i"
+  },
+  {
+   "device": "M170",
+   "name": "M170",
+   "model": "M170"
   },
   {
    "device": "M340",
@@ -21612,6 +21642,11 @@
    "device": "Q110",
    "name": "Q110",
    "model": "Q110"
+  },
+  {
+   "device": "Q180",
+   "name": "Q180",
+   "model": "Q180"
   },
   {
    "device": "Q210",
@@ -22162,6 +22197,11 @@
    "device": "MAXX_05",
    "name": "MAXX_05",
    "model": "MAXX_05"
+  },
+  {
+   "device": "Signature-S8",
+   "name": "Signature-S8",
+   "model": "Signature-S8"
   }
  ],
  "Datalogic": [
@@ -22221,6 +22261,11 @@
    "device": "T74G",
    "name": "T74G",
    "model": "T74G"
+  },
+  {
+   "device": "T8004G",
+   "name": "T8004G",
+   "model": "T8004G"
   },
   {
    "device": "T84G",
@@ -24819,6 +24864,11 @@
    "model": "MAX 10"
   },
   {
+   "device": "MAX_10_EEA",
+   "name": "MAX_10_eea",
+   "model": "MAX_10"
+  },
+  {
    "device": "NotePad_101_B",
    "name": "NotePad_101_B",
    "model": "NotePad_101_B"
@@ -24839,6 +24889,11 @@
    "model": "NotePad_Y80"
   },
   {
+   "device": "Notepad-K10",
+   "name": "Notepad-K10",
+   "model": "Notepad-K10"
+  },
+  {
    "device": "Notepad102",
    "name": "Notepad102",
    "model": "Notepad 102"
@@ -24847,6 +24902,11 @@
    "device": "Notepad102_EEA",
    "name": "Notepad102_EEA",
    "model": "Notepad 102"
+  },
+  {
+   "device": "NotepadGo801",
+   "name": "NotepadGo801",
+   "model": "Notepad_Go_801"
   },
   {
    "device": "NotepadGo801_EEA",
@@ -25539,6 +25599,11 @@
    "device": "K502",
    "name": "K502",
    "model": "K502"
+  },
+  {
+   "device": "K503S",
+   "name": "K503S",
+   "model": "K503S"
   },
   {
    "device": "K503T",
@@ -39033,6 +39098,11 @@
    "device": "A22",
    "name": "A22",
    "model": "A22"
+  },
+  {
+   "device": "A23",
+   "name": "A23",
+   "model": "A23"
   },
   {
    "device": "HIKING_A18",
@@ -52615,6 +52685,11 @@
  ],
  "IXTECH": [
   {
+   "device": "IX1011",
+   "name": "IX1011",
+   "model": "IX1011"
+  },
+  {
    "device": "IX701",
    "name": "IX701",
    "model": "IX701"
@@ -52690,6 +52765,11 @@
    "device": "IK-1025",
    "name": "IK-1025",
    "model": "IK-1025"
+  },
+  {
+   "device": "IK-1106",
+   "name": "IK-1106",
+   "model": "IK-1106"
   },
   {
    "device": "IK-7108",
@@ -72806,6 +72886,11 @@
    "device": "K5",
    "name": "K5",
    "model": "K5"
+  },
+  {
+   "device": "K6",
+   "name": "K6",
+   "model": "K6"
   }
  ],
  "Lexia Mobile": [
@@ -74911,6 +74996,11 @@
  ],
  "MOXNICE": [
   {
+   "device": "P50-ROW",
+   "name": "P50-ROW",
+   "model": "P50-ROW"
+  },
+  {
    "device": "P63",
    "name": "P63_EEA",
    "model": "P63"
@@ -75972,6 +76062,11 @@
    "device": "Nitro_55N",
    "name": "Nitro 55N",
    "model": "Nitro 55N"
+  },
+  {
+   "device": "Nitro_55Q",
+   "name": "Nitro 55Q",
+   "model": "Nitro 55Q"
   },
   {
    "device": "Nitro_5N",
@@ -82984,6 +83079,11 @@
    "model": "M7_3G_PLUS"
   },
   {
+   "device": "ML-JI31-M7-3G-PLUS",
+   "name": "M7 3G PLUS",
+   "model": "M7-3G-PLUS"
+  },
+  {
    "device": "ML_WI0A_M7_3G_PLUS",
    "name": "M7 3G PLUS",
    "model": "M7_3G_PLUS"
@@ -83065,6 +83165,11 @@
   },
   {
    "device": "ML_WI1A_M7_3G_A10",
+   "name": "M7_3G_A10",
+   "model": "M7_3G_A10"
+  },
+  {
+   "device": "ML_WI3A_M7_3G_A10",
    "name": "M7_3G_A10",
    "model": "M7_3G_A10"
   },
@@ -90698,6 +90803,11 @@
  ],
  "Ordissimo": [
   {
+   "device": "Celia",
+   "name": "Celia",
+   "model": "Celia"
+  },
+  {
    "device": "LeNumero2",
    "name": "Ordissimo LeNumero2",
    "model": "LeNumero2"
@@ -95834,6 +95944,11 @@
    "model": "S51"
   },
   {
+   "device": "S53",
+   "name": "S53",
+   "model": "S53"
+  },
+  {
    "device": "S70",
    "name": "S70",
    "model": "S70"
@@ -95872,6 +95987,11 @@
    "device": "S82",
    "name": "S82",
    "model": "S82"
+  },
+  {
+   "device": "S83",
+   "name": "S83",
+   "model": "S83"
   },
   {
    "device": "186HS2080531",
@@ -96381,6 +96501,11 @@
    "device": "PN80A03G",
    "name": "PMT3208_3G",
    "model": "PMT3208_3G"
+  },
+  {
+   "device": "HP10A12L",
+   "name": "PMT3231_4G_D_RU",
+   "model": "PMT3231_4G_D_RU"
   },
   {
    "device": "LS70A6L",
@@ -97233,6 +97358,11 @@
  ],
  "Pritom": [
   {
+   "device": "1AZ2P_eea",
+   "name": "1AZ2P_eea",
+   "model": "1AZ2P_eea"
+  },
+  {
    "device": "K7",
    "name": "K7",
    "model": "K7"
@@ -97251,6 +97381,11 @@
    "device": "L10_EEA",
    "name": "L10_EEA",
    "model": "L10_EEA"
+  },
+  {
+   "device": "L8",
+   "name": "L8",
+   "model": "L8"
   },
   {
    "device": "P7PRO",
@@ -98215,6 +98350,11 @@
    "device": "M002KID-15",
    "name": "M002KID-15",
    "model": "M002KID-15"
+  },
+  {
+   "device": "P70-EEA",
+   "name": "P70-EEA",
+   "model": "P70-EEA"
   },
   {
    "device": "T1",
@@ -101608,6 +101748,13 @@
    "device": "heaven-10_1",
    "name": "heaven_10_1",
    "model": "HEAVEN 10.1"
+  }
+ ],
+ "SSA-Digital": [
+  {
+   "device": "MID736-737",
+   "name": "MID736-737",
+   "model": "MID736-737"
   }
  ],
  "SSB PHONES": [
@@ -123245,6 +123392,11 @@
  ],
  "TAG-TECH": [
   {
+   "device": "TAG-TAB-III",
+   "name": "TAG-TAB-III",
+   "model": "TAG-TAB-III"
+  },
+  {
    "device": "TAG-TABKIDS",
    "name": "TAG-TABKIDS",
    "model": "TT-III"
@@ -131045,6 +131197,11 @@
    "model": "M30_Pro_ROW"
   },
   {
+   "device": "M40_EEA",
+   "name": "M40_EEA",
+   "model": "M40_EEA"
+  },
+  {
    "device": "P10S_ROW",
    "name": "P10HD_N5H6",
    "model": "P10S_ROW"
@@ -132857,6 +133014,11 @@
  ],
  "Teracube": [
   {
+   "device": "Teracube_2e",
+   "name": "Teracube 2e",
+   "model": "Teracube 2e"
+  },
+  {
    "device": "Teracube_One",
    "name": "Teracube_One",
    "model": "Teracube One"
@@ -134380,6 +134542,11 @@
    "device": "Turbopad1016NEW",
    "name": "Turbopad1016NEW",
    "model": "Turbopad1016NEW"
+  },
+  {
+   "device": "TurboPadPro",
+   "name": "Turbopadpro",
+   "model": "TurboPadPro"
   }
  ],
  "Turk Telekom": [
@@ -135726,6 +135893,11 @@
    "model": "VucaPad_N20_LTE"
   },
   {
+   "device": "VucaPad_NS20",
+   "name": "VucaPad_NS20",
+   "model": "VucaPad_NS20"
+  },
+  {
    "device": "VucaPad_N20_LTE_JP",
    "name": "Vucatimes",
    "model": "VucaPad_N20_LTE_JP"
@@ -135798,6 +135970,11 @@
    "device": "S8_EEA",
    "name": "S8_EEA",
    "model": "S8_EEA"
+  },
+  {
+   "device": "VANKYO_S8_EEA",
+   "name": "VANKYO_S8_EEA",
+   "model": "VANKYO_S8_EEA"
   },
   {
    "device": "Vankyo_S10",
@@ -137359,6 +137536,11 @@
    "device": "VI106",
    "name": "VI106",
    "model": "VI106"
+  },
+  {
+   "device": "VI108",
+   "name": "VI108",
+   "model": "VI108"
   },
   {
    "device": "VI86",
@@ -142011,6 +142193,11 @@
    "device": "M5",
    "name": "M5",
    "model": "M5"
+  },
+  {
+   "device": "M5plus",
+   "name": "M5plus",
+   "model": "M5plus"
   },
   {
    "device": "N4plus",
@@ -152527,6 +152714,11 @@
    "model": "K108_EEA"
   },
   {
+   "device": "K70_EEA",
+   "name": "K70_EEA",
+   "model": "K70_EEA"
+  },
+  {
    "device": "K78",
    "name": "K78",
    "model": "K78"
@@ -154770,6 +154962,13 @@
    "device": "Y7",
    "name": "Y7",
    "model": "Y7"
+  }
+ ],
+ "redfox": [
+  {
+   "device": "wvv832",
+   "name": "Wizpad_Valuer_V8",
+   "model": "Wizpad_Valuer_V8"
   }
  ],
  "robi": [
