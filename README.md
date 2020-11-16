@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-11-15
+Last sync is 2020-11-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11087,6 +11087,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Jettom|RobotPad-A1|RobotPad-A1|RobotPad-A1|
 |Jettom|RobotPad-A1_EEA|RobotPad-A1_EEA|RobotPad-A1_EEA|
 |Jide|Remix Mini|rm1g|Remix Mini|
+|Jimi|K108|K108|K108|
 |Jimi|KN C4|JIMI_KNC4|JIMI_KNC4|
 |Jimi|Senwa S471|Senwa_S471|S471|
 |Jimo|S5006|S5006|S5006|

@@ -77793,6 +77793,18 @@
    "device": "rm1g"
   }
  ],
+ "K108": [
+  {
+   "brand": "Jimi",
+   "name": "K108",
+   "device": "K108"
+  },
+  {
+   "brand": "Zonko",
+   "name": "K108",
+   "device": "K108"
+  }
+ ],
  "JIMI_KNC4": [
   {
    "brand": "Jimi",
@@ -201490,13 +201502,6 @@
    "brand": "Zonko",
    "name": "K106",
    "device": "K106"
-  }
- ],
- "K108": [
-  {
-   "brand": "Zonko",
-   "name": "K108",
-   "device": "K108"
   }
  ],
  "K108_EEA": [

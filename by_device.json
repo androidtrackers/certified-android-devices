@@ -75837,6 +75837,18 @@
    "model": "Remix Mini"
   }
  ],
+ "K108": [
+  {
+   "brand": "Jimi",
+   "name": "K108",
+   "model": "K108"
+  },
+  {
+   "brand": "Zonko",
+   "name": "K108",
+   "model": "K108"
+  }
+ ],
  "JIMI_KNC4": [
   {
    "brand": "Jimi",
@@ -192114,13 +192126,6 @@
    "brand": "Zonko",
    "name": "K106",
    "model": "K106"
-  }
- ],
- "K108": [
-  {
-   "brand": "Zonko",
-   "name": "K108",
-   "model": "K108"
   }
  ],
  "K108_EEA": [

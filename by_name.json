@@ -79782,6 +79782,18 @@
    "model": "Remix Mini"
   }
  ],
+ "K108": [
+  {
+   "brand": "Jimi",
+   "device": "K108",
+   "model": "K108"
+  },
+  {
+   "brand": "Zonko",
+   "device": "K108",
+   "model": "K108"
+  }
+ ],
  "KN C4": [
   {
    "brand": "Jimi",
@@ -189251,13 +189263,6 @@
    "brand": "Zonko",
    "device": "K106",
    "model": "K106"
-  }
- ],
- "K108": [
-  {
-   "brand": "Zonko",
-   "device": "K108",
-   "model": "K108"
   }
  ],
  "K108_EEA": [

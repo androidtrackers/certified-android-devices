@@ -56993,6 +56993,11 @@
  ],
  "Jimi": [
   {
+   "device": "K108",
+   "name": "K108",
+   "model": "K108"
+  },
+  {
    "device": "JIMI_KNC4",
    "name": "KN C4",
    "model": "JIMI_KNC4"
