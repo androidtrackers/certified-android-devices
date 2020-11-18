@@ -18299,6 +18299,11 @@
    "device": "MID7052",
    "name": "MID7052",
    "model": "MID7052"
+  },
+  {
+   "device": "MID8072",
+   "name": "MID8072",
+   "model": "MID8072"
   }
  ],
  "Code": [
@@ -20525,6 +20530,18 @@
    "device": "mdt1005_mk_32",
    "name": "DVT101B",
    "model": "DVT101B"
+  }
+ ],
+ "Crelander": [
+  {
+   "device": "E102",
+   "name": "E102",
+   "model": "E102"
+  },
+  {
+   "device": "Z103",
+   "name": "Z103",
+   "model": "Z103"
   }
  ],
  "Crema": [
@@ -23271,6 +23288,11 @@
    "device": "CS6063ML",
    "name": "CITI 609",
    "model": "CITI 609 4G CS6063ML"
+  },
+  {
+   "device": "CS1207MG",
+   "name": "CITI_1590_3G_CS1207MG",
+   "model": "CITI 1590 3G CS1207MG"
   },
   {
    "device": "CS7208MG",
@@ -26996,6 +27018,11 @@
    "model": "F501_Magic"
   },
   {
+   "device": "Tablet_PC",
+   "name": "Tablet_PC",
+   "model": "Tablet_PC"
+  },
+  {
    "device": "V500_Vector",
    "name": "V500_Vector",
    "model": "V500_Vector"
@@ -27349,6 +27376,11 @@
    "device": "S57",
    "name": "S57",
    "model": "S57"
+  },
+  {
+   "device": "S6",
+   "name": "S6",
+   "model": "S6"
   },
   {
    "device": "U50",
@@ -30352,6 +30384,11 @@
    "model": "arrowsM05"
   },
   {
+   "device": "F52A",
+   "name": "arrows NX9 F-52A",
+   "model": "F-52A"
+  },
+  {
    "device": "arrowsRX",
    "name": "arrows RX",
    "model": "arrowsRX"
@@ -30394,6 +30431,11 @@
    "device": "F104EvII_EEA",
    "name": "F104EvII_EEA",
    "model": "F104EvII_EEA"
+  },
+  {
+   "device": "F104EvII_PRO",
+   "name": "F104EvII_PRO",
+   "model": "F104EvII_PRO"
   },
   {
    "device": "F105Dv2",
@@ -33202,6 +33244,11 @@
    "device": "GT7-B16",
    "name": "GT7-B16",
    "model": "GT7-B16"
+  },
+  {
+   "device": "GT_Tab_3G",
+   "name": "GT_Tab_3G",
+   "model": "GT_Tab_3G"
   }
  ],
  "Gome": [
@@ -42659,6 +42706,11 @@
    "device": "ALFA_8RX",
    "name": "ALFA 8RX",
    "model": "ALFA_8RX"
+  },
+  {
+   "device": "ALFA10TB",
+   "name": "ALFA10TB",
+   "model": "ALFA10TB"
   },
   {
    "device": "ALFA_10RX",
@@ -52757,6 +52809,11 @@
    "model": "HP2714"
   },
   {
+   "device": "B820C-A15_ZTE",
+   "name": "Mexico",
+   "model": "B820C-A15"
+  },
+  {
    "device": "HY40A1",
    "name": "SKYWORTH-HY4002",
    "model": "SKYWORTH-HY4002"
@@ -55709,6 +55766,11 @@
    "device": "G7100",
    "name": "G7100",
    "model": "G7100"
+  },
+  {
+   "device": "G8060",
+   "name": "G8060",
+   "model": "G8060"
   },
   {
    "device": "IS2PLUS",
@@ -78416,6 +78478,11 @@
    "model": "Micromax Q4260"
   },
   {
+   "device": "E7746",
+   "name": "IN_Note1",
+   "model": "IN_Note1"
+  },
+  {
    "device": "N8301",
    "name": "Infinity N Series N12",
    "model": "N8301"
@@ -91708,6 +91775,11 @@
    "model": "M7600-D"
   },
   {
+   "device": "MONZA-T7",
+   "name": "MONZA-T7",
+   "model": "MONZA-T7"
+  },
+  {
    "device": "PB1009",
    "name": "PB1009",
    "model": "PB1009"
@@ -103197,6 +103269,11 @@
    "model": "SC-42A"
   },
   {
+   "device": "SCV49",
+   "name": "Galaxy A21",
+   "model": "SCV49"
+  },
+  {
    "device": "a21",
    "name": "Galaxy A21",
    "model": "SM-A215U"
@@ -114309,6 +114386,11 @@
   {
    "device": "xcoverpro",
    "name": "Galaxy XCover Pro",
+   "model": "SM-G715A"
+  },
+  {
+   "device": "xcoverpro",
+   "name": "Galaxy XCover Pro",
    "model": "SM-G715FN"
   },
   {
@@ -114917,6 +114999,11 @@
    "model": "SMT-E5015"
   },
   {
+   "device": "victory",
+   "name": "三星 W21 5G",
+   "model": "SM-W2021"
+  },
+  {
    "device": "zodiac",
    "name": "三星W20",
    "model": "SM-W2020"
@@ -114932,6 +115019,11 @@
    "device": "T3G_04",
    "name": "T3G_04",
    "model": "T3G_04"
+  },
+  {
+   "device": "T3G_10B",
+   "name": "T3G_10B",
+   "model": "T3G_10B"
   },
   {
    "device": "TWIFI-04",
@@ -115452,6 +115544,11 @@
    "device": "d310m",
    "name": "AUTOID Q7",
    "model": "AUTOID Q7"
+  },
+  {
+   "device": "d550",
+   "name": "AUTOID Q9",
+   "model": "AUTOID Q9"
   },
   {
    "device": "d500b",
@@ -117325,6 +117422,11 @@
    "device": "SEI103",
    "name": "SEI103V",
    "model": "ANDROID TV MEDIA BOX"
+  },
+  {
+   "device": "SEI500EV",
+   "name": "SEI500EV",
+   "model": "EVOPRO"
   }
  ],
  "Shuttle": [
@@ -122785,6 +122887,11 @@
   {
    "device": "TAB1081",
    "name": "TAB1081",
+   "model": "TAB1081"
+  },
+  {
+   "device": "TAB1081",
+   "name": "TAB1081_eea",
    "model": "TAB1081"
   },
   {
@@ -131194,6 +131301,11 @@
    "model": "1032"
   },
   {
+   "device": "Tech_Pad_3GR",
+   "name": "3GR",
+   "model": "3GR"
+  },
+  {
    "device": "Tech_Pad_3G16",
    "name": "3G_16",
    "model": "3G_16"
@@ -131247,6 +131359,11 @@
    "device": "S6",
    "name": "S6",
    "model": "S6"
+  },
+  {
+   "device": "Tech_Pad_S813G",
+   "name": "S813G",
+   "model": "S813G"
   },
   {
    "device": "F518",
@@ -135395,6 +135512,11 @@
    "device": "A7S",
    "name": "A7S EEA",
    "model": "A7S"
+  },
+  {
+   "device": "A9_Pro_128GB",
+   "name": "A9 Pro 128G",
+   "model": "A9 Pro"
   },
   {
    "device": "BISON",
@@ -140561,6 +140683,13 @@
    "device": "W405",
    "name": "W405",
    "model": "W405"
+  }
+ ],
+ "WOM": [
+  {
+   "device": "SEI500W",
+   "name": "SEI500W",
+   "model": "WOM"
   }
  ],
  "WONGKUO": [
@@ -151394,6 +151523,11 @@
    "model": "ZTE A2020N3 Pro"
   },
   {
+   "device": "P618A01",
+   "name": "ZTE A2121E",
+   "model": "ZTE A2121E"
+  },
+  {
    "device": "P809S10",
    "name": "ZTE A520S",
    "model": "ZTE A520S"
@@ -153591,6 +153725,36 @@
    "model": "Pyxis"
   },
   {
+   "device": "SEI500AS",
+   "name": "Pyxis-ARMSTRONG",
+   "model": "Pyxis-ARMSTRONG"
+  },
+  {
+   "device": "SEI500BR",
+   "name": "Pyxis-BlueRidge",
+   "model": "Pyxis-BlueRidge"
+  },
+  {
+   "device": "SEI500BS",
+   "name": "Pyxis-BlueStream",
+   "model": "Pyxis-BlueStream"
+  },
+  {
+   "device": "SEI500CB",
+   "name": "Pyxis-CBT",
+   "model": "Pyxis-CBT"
+  },
+  {
+   "device": "SEI500GD",
+   "name": "Pyxis-GRANDE",
+   "model": "Pyxis-GRANDE"
+  },
+  {
+   "device": "SEI500MN",
+   "name": "Pyxis-MetroNet",
+   "model": "Pyxis-MetroNet"
+  },
+  {
    "device": "SEI500MC",
    "name": "Pyxis-Midco",
    "model": "Pyxis-Midco"
@@ -153599,6 +153763,11 @@
    "device": "SEI500RCN",
    "name": "Pyxis-RCN",
    "model": "Pyxis-RCN"
+  },
+  {
+   "device": "SEI500SECV",
+   "name": "Pyxis-SECV",
+   "model": "Pyxis-SECV"
   }
  ],
  "eTalk": [
@@ -154044,6 +154213,13 @@
    "device": "iS1",
    "name": "iS1",
    "model": "iS1"
+  }
+ ],
+ "iCare": [
+  {
+   "device": "iCare07",
+   "name": "iCare07",
+   "model": "iCare07"
   }
  ],
  "iCraig": [

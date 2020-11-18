@@ -11266,6 +11266,11 @@
    "model": "S6"
   },
   {
+   "brand": "Evercoss",
+   "name": "S6",
+   "model": "S6"
+  },
+  {
    "brand": "Fiesta Duo",
    "name": "S6",
    "model": "S6"
@@ -26988,6 +26993,13 @@
    "model": "MID7052"
   }
  ],
+ "MID8072": [
+  {
+   "brand": "Coby",
+   "name": "MID8072",
+   "model": "MID8072"
+  }
+ ],
  "cr4900": [
   {
    "brand": "Code",
@@ -30077,6 +30089,20 @@
    "brand": "SYLVANIA",
    "name": "SLTDVD1024",
    "model": "SLTDVD1024"
+  }
+ ],
+ "E102": [
+  {
+   "brand": "Crelander",
+   "name": "E102",
+   "model": "E102"
+  }
+ ],
+ "Z103": [
+  {
+   "brand": "Crelander",
+   "name": "Z103",
+   "model": "Z103"
   }
  ],
  "crema0810t": [
@@ -34198,6 +34224,13 @@
    "brand": "Digma",
    "name": "CITI 609",
    "model": "CITI 609 4G CS6063ML"
+  }
+ ],
+ "CS1207MG": [
+  {
+   "brand": "Digma",
+   "name": "CITI_1590_3G_CS1207MG",
+   "model": "CITI 1590 3G CS1207MG"
   }
  ],
  "CS7208MG": [
@@ -39266,6 +39299,13 @@
    "model": "F501_Magic"
   }
  ],
+ "Tablet_PC": [
+  {
+   "brand": "Ergo",
+   "name": "Tablet_PC",
+   "model": "Tablet_PC"
+  }
+ ],
  "V500_Vector": [
   {
    "brand": "Ergo",
@@ -43915,6 +43955,13 @@
    "model": "arrowsM05"
   }
  ],
+ "F52A": [
+  {
+   "brand": "Fujitsu",
+   "name": "arrows NX9 F-52A",
+   "model": "F-52A"
+  }
+ ],
  "arrowsRX": [
   {
    "brand": "Fujitsu",
@@ -43969,6 +44016,13 @@
    "brand": "Fusion5",
    "name": "F104EvII_EEA",
    "model": "F104EvII_EEA"
+  }
+ ],
+ "F104EvII_PRO": [
+  {
+   "brand": "Fusion5",
+   "name": "F104EvII_PRO",
+   "model": "F104EvII_PRO"
   }
  ],
  "F105Dv2": [
@@ -47777,6 +47831,13 @@
    "brand": "Goldtech",
    "name": "GT7-B16",
    "model": "GT7-B16"
+  }
+ ],
+ "GT_Tab_3G": [
+  {
+   "brand": "Goldtech",
+   "name": "GT_Tab_3G",
+   "model": "GT_Tab_3G"
   }
  ],
  "GOME_C7": [
@@ -58763,6 +58824,13 @@
    "brand": "Hometech",
    "name": "ALFA 8RX",
    "model": "ALFA_8RX"
+  }
+ ],
+ "ALFA10TB": [
+  {
+   "brand": "Hometech",
+   "name": "ALFA10TB",
+   "model": "ALFA10TB"
   }
  ],
  "ALFA_10RX": [
@@ -70630,6 +70698,13 @@
    "model": "HP2714"
   }
  ],
+ "B820C-A15_ZTE": [
+  {
+   "brand": "IZZI Telecom",
+   "name": "Mexico",
+   "model": "B820C-A15"
+  }
+ ],
  "HY40A1": [
   {
    "brand": "IZZI Telecom",
@@ -74350,6 +74425,13 @@
    "brand": "Iris",
    "name": "G7100",
    "model": "G7100"
+  }
+ ],
+ "G8060": [
+  {
+   "brand": "Iris",
+   "name": "G8060",
+   "model": "G8060"
   }
  ],
  "IS2PLUS": [
@@ -102646,6 +102728,13 @@
    "model": "Micromax Q4260"
   }
  ],
+ "E7746": [
+  {
+   "brand": "Micromax",
+   "name": "IN_Note1",
+   "model": "IN_Note1"
+  }
+ ],
  "N8301": [
   {
    "brand": "Micromax",
@@ -119250,6 +119339,13 @@
    "model": "M7600-D"
   }
  ],
+ "MONZA-T7": [
+  {
+   "brand": "Packard Bell",
+   "name": "MONZA-T7",
+   "model": "MONZA-T7"
+  }
+ ],
  "PB1009": [
   {
    "brand": "Packard Bell",
@@ -133393,6 +133489,13 @@
    "model": "SC-42A"
   }
  ],
+ "SCV49": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A21",
+   "model": "SCV49"
+  }
+ ],
  "a21": [
   {
    "brand": "Samsung",
@@ -147510,6 +147613,11 @@
   {
    "brand": "Samsung",
    "name": "Galaxy XCover Pro",
+   "model": "SM-G715A"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy XCover Pro",
    "model": "SM-G715FN"
   },
   {
@@ -148253,6 +148361,13 @@
    "model": "SMT-E5015"
   }
  ],
+ "victory": [
+  {
+   "brand": "Samsung",
+   "name": "三星 W21 5G",
+   "model": "SM-W2021"
+  }
+ ],
  "zodiac": [
   {
    "brand": "Samsung",
@@ -148272,6 +148387,13 @@
    "brand": "Samtech",
    "name": "T3G_04",
    "model": "T3G_04"
+  }
+ ],
+ "T3G_10B": [
+  {
+   "brand": "Samtech",
+   "name": "T3G_10B",
+   "model": "T3G_10B"
   }
  ],
  "TWIFI-04": [
@@ -148869,6 +148991,13 @@
    "brand": "Seuic",
    "name": "AUTOID Q7",
    "model": "AUTOID Q7"
+  }
+ ],
+ "d550": [
+  {
+   "brand": "Seuic",
+   "name": "AUTOID Q9",
+   "model": "AUTOID Q9"
   }
  ],
  "d500b": [
@@ -151434,6 +151563,13 @@
    "brand": "Shenzhen SEI Robotics",
    "name": "ADT-2",
    "model": "ADT-2"
+  }
+ ],
+ "SEI500EV": [
+  {
+   "brand": "Shenzhen SEI Robotics",
+   "name": "SEI500EV",
+   "model": "EVOPRO"
   }
  ],
  "PNT-7045": [
@@ -158385,6 +158521,11 @@
   {
    "brand": "Sunstech",
    "name": "TAB1081",
+   "model": "TAB1081"
+  },
+  {
+   "brand": "Sunstech",
+   "name": "TAB1081_eea",
    "model": "TAB1081"
   }
  ],
@@ -167274,6 +167415,13 @@
    "model": "1032"
   }
  ],
+ "Tech_Pad_3GR": [
+  {
+   "brand": "Techpad",
+   "name": "3GR",
+   "model": "3GR"
+  }
+ ],
  "Tech_Pad_3G16": [
   {
    "brand": "Techpad",
@@ -167333,6 +167481,13 @@
    "brand": "Techpad",
    "name": "NOTE_4CAM",
    "model": "NOTE 4CAM"
+  }
+ ],
+ "Tech_Pad_S813G": [
+  {
+   "brand": "Techpad",
+   "name": "S813G",
+   "model": "S813G"
   }
  ],
  "F518": [
@@ -172263,6 +172418,13 @@
    "brand": "Umidigi",
    "name": "A7S EEA",
    "model": "A7S"
+  }
+ ],
+ "A9_Pro_128GB": [
+  {
+   "brand": "Umidigi",
+   "name": "A9 Pro 128G",
+   "model": "A9 Pro"
   }
  ],
  "BISON": [
@@ -178449,6 +178611,13 @@
    "brand": "WINTEK",
    "name": "W405",
    "model": "W405"
+  }
+ ],
+ "SEI500W": [
+  {
+   "brand": "WOM",
+   "name": "SEI500W",
+   "model": "WOM"
   }
  ],
  "CintiqCompanionHybrid13HD": [
@@ -190882,6 +191051,13 @@
    "model": "ZTE A2019G Pro"
   }
  ],
+ "P618A01": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE A2121E",
+   "model": "ZTE A2121E"
+  }
+ ],
  "P639T10": [
   {
    "brand": "ZTE",
@@ -193113,6 +193289,48 @@
    "model": "Pyxis"
   }
  ],
+ "SEI500AS": [
+  {
+   "brand": "eSTREAM 4K",
+   "name": "Pyxis-ARMSTRONG",
+   "model": "Pyxis-ARMSTRONG"
+  }
+ ],
+ "SEI500BR": [
+  {
+   "brand": "eSTREAM 4K",
+   "name": "Pyxis-BlueRidge",
+   "model": "Pyxis-BlueRidge"
+  }
+ ],
+ "SEI500BS": [
+  {
+   "brand": "eSTREAM 4K",
+   "name": "Pyxis-BlueStream",
+   "model": "Pyxis-BlueStream"
+  }
+ ],
+ "SEI500CB": [
+  {
+   "brand": "eSTREAM 4K",
+   "name": "Pyxis-CBT",
+   "model": "Pyxis-CBT"
+  }
+ ],
+ "SEI500GD": [
+  {
+   "brand": "eSTREAM 4K",
+   "name": "Pyxis-GRANDE",
+   "model": "Pyxis-GRANDE"
+  }
+ ],
+ "SEI500MN": [
+  {
+   "brand": "eSTREAM 4K",
+   "name": "Pyxis-MetroNet",
+   "model": "Pyxis-MetroNet"
+  }
+ ],
  "SEI500MC": [
   {
    "brand": "eSTREAM 4K",
@@ -193125,6 +193343,13 @@
    "brand": "eSTREAM 4K",
    "name": "Pyxis-RCN",
    "model": "Pyxis-RCN"
+  }
+ ],
+ "SEI500SECV": [
+  {
+   "brand": "eSTREAM 4K",
+   "name": "Pyxis-SECV",
+   "model": "Pyxis-SECV"
   }
  ],
  "KAZ-N20": [
@@ -193656,6 +193881,13 @@
    "brand": "iBao",
    "name": "iS1",
    "model": "iS1"
+  }
+ ],
+ "iCare07": [
+  {
+   "brand": "iCare",
+   "name": "iCare07",
+   "model": "iCare07"
   }
  ],
  "ICRAIG_CLP288": [

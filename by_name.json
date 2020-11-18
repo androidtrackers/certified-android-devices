@@ -15944,6 +15944,11 @@
    "model": "S6"
   },
   {
+   "brand": "Evercoss",
+   "device": "S6",
+   "model": "S6"
+  },
+  {
    "brand": "Fiesta Duo",
    "device": "S6",
    "model": "S6"
@@ -32260,6 +32265,13 @@
    "model": "MID7052"
   }
  ],
+ "MID8072": [
+  {
+   "brand": "Coby",
+   "device": "MID8072",
+   "model": "MID8072"
+  }
+ ],
  "CR4900": [
   {
    "brand": "Code",
@@ -35329,6 +35341,20 @@
    "brand": "Creato",
    "device": "mdt1005_mk_32",
    "model": "DVT101B"
+  }
+ ],
+ "E102": [
+  {
+   "brand": "Crelander",
+   "device": "E102",
+   "model": "E102"
+  }
+ ],
+ "Z103": [
+  {
+   "brand": "Crelander",
+   "device": "Z103",
+   "model": "Z103"
   }
  ],
  "CREMA0810T": [
@@ -38994,6 +39020,13 @@
    "brand": "Digma",
    "device": "CS6063ML",
    "model": "CITI 609 4G CS6063ML"
+  }
+ ],
+ "CITI_1590_3G_CS1207MG": [
+  {
+   "brand": "Digma",
+   "device": "CS1207MG",
+   "model": "CITI 1590 3G CS1207MG"
   }
  ],
  "CITI_7591_3G_CS7208MG": [
@@ -44156,6 +44189,13 @@
    "model": "F501_Magic"
   }
  ],
+ "Tablet_PC": [
+  {
+   "brand": "Ergo",
+   "device": "Tablet_PC",
+   "model": "Tablet_PC"
+  }
+ ],
  "V500_Vector": [
   {
    "brand": "Ergo",
@@ -48699,6 +48739,13 @@
    "model": "arrowsM05"
   }
  ],
+ "arrows NX9 F-52A": [
+  {
+   "brand": "Fujitsu",
+   "device": "F52A",
+   "model": "F-52A"
+  }
+ ],
  "arrows RX": [
   {
    "brand": "Fujitsu",
@@ -48756,6 +48803,13 @@
    "brand": "Fusion5",
    "device": "F104EvII_EEA",
    "model": "F104EvII_EEA"
+  }
+ ],
+ "F104EvII_PRO": [
+  {
+   "brand": "Fusion5",
+   "device": "F104EvII_PRO",
+   "model": "F104EvII_PRO"
   }
  ],
  "F105Dv2": [
@@ -52645,6 +52699,13 @@
    "brand": "Goldtech",
    "device": "GT7-B16",
    "model": "GT7-B16"
+  }
+ ],
+ "GT_Tab_3G": [
+  {
+   "brand": "Goldtech",
+   "device": "GT_Tab_3G",
+   "model": "GT_Tab_3G"
   }
  ],
  "GOME C7": [
@@ -63265,6 +63326,11 @@
    "model": "Hisense Rocks 6"
   },
   {
+   "brand": "IZZI Telecom",
+   "device": "B820C-A15_ZTE",
+   "model": "B820C-A15"
+  },
+  {
    "brand": "Megacable",
    "device": "B826C-A12_ZTE",
    "model": "B826C-A12"
@@ -64132,6 +64198,13 @@
    "brand": "Hometech",
    "device": "ALFA_8RX",
    "model": "ALFA_8RX"
+  }
+ ],
+ "ALFA10TB": [
+  {
+   "brand": "Hometech",
+   "device": "ALFA10TB",
+   "model": "ALFA10TB"
   }
  ],
  "ALFA_10RX": [
@@ -78214,6 +78287,13 @@
    "brand": "Iris",
    "device": "G7100",
    "model": "G7100"
+  }
+ ],
+ "G8060": [
+  {
+   "brand": "Iris",
+   "device": "G8060",
+   "model": "G8060"
   }
  ],
  "IS2PLUS": [
@@ -104277,6 +104357,13 @@
    "model": "QMobile Evok Power"
   }
  ],
+ "IN_Note1": [
+  {
+   "brand": "Micromax",
+   "device": "E7746",
+   "model": "IN_Note1"
+  }
+ ],
  "Infinity N Series N12": [
   {
    "brand": "Micromax",
@@ -119829,6 +119916,13 @@
    "model": "M7600-D"
   }
  ],
+ "MONZA-T7": [
+  {
+   "brand": "Packard Bell",
+   "device": "MONZA-T7",
+   "model": "MONZA-T7"
+  }
+ ],
  "PB1009": [
   {
    "brand": "Packard Bell",
@@ -133762,6 +133856,11 @@
   },
   {
    "brand": "Samsung",
+   "device": "SCV49",
+   "model": "SCV49"
+  },
+  {
+   "brand": "Samsung",
    "device": "a21",
    "model": "SM-A215U"
   },
@@ -145824,6 +145923,11 @@
   {
    "brand": "Samsung",
    "device": "xcoverpro",
+   "model": "SM-G715A"
+  },
+  {
+   "brand": "Samsung",
+   "device": "xcoverpro",
    "model": "SM-G715FN"
   },
   {
@@ -146550,6 +146654,13 @@
    "model": "SMT-E5015"
   }
  ],
+ "三星 W21 5G": [
+  {
+   "brand": "Samsung",
+   "device": "victory",
+   "model": "SM-W2021"
+  }
+ ],
  "三星W20": [
   {
    "brand": "Samsung",
@@ -146569,6 +146680,13 @@
    "brand": "Samtech",
    "device": "T3G_04",
    "model": "T3G_04"
+  }
+ ],
+ "T3G_10B": [
+  {
+   "brand": "Samtech",
+   "device": "T3G_10B",
+   "model": "T3G_10B"
   }
  ],
  "TWIFI-04": [
@@ -147123,6 +147241,13 @@
    "brand": "Seuic",
    "device": "d310m",
    "model": "AUTOID Q7"
+  }
+ ],
+ "AUTOID Q9": [
+  {
+   "brand": "Seuic",
+   "device": "d550",
+   "model": "AUTOID Q9"
   }
  ],
  "AUTOID9N": [
@@ -149585,6 +149710,13 @@
    "brand": "Shenzhen SEI Robotics",
    "device": "SEI103",
    "model": "ANDROID TV MEDIA BOX"
+  }
+ ],
+ "SEI500EV": [
+  {
+   "brand": "Shenzhen SEI Robotics",
+   "device": "SEI500EV",
+   "model": "EVOPRO"
   }
  ],
  "PNT-7045": [
@@ -155852,6 +155984,13 @@
   }
  ],
  "TAB1081": [
+  {
+   "brand": "Sunstech",
+   "device": "TAB1081",
+   "model": "TAB1081"
+  }
+ ],
+ "TAB1081_eea": [
   {
    "brand": "Sunstech",
    "device": "TAB1081",
@@ -164979,6 +165118,13 @@
    "model": "1032"
   }
  ],
+ "3GR": [
+  {
+   "brand": "Techpad",
+   "device": "Tech_Pad_3GR",
+   "model": "3GR"
+  }
+ ],
  "3G_16": [
   {
    "brand": "Techpad",
@@ -165026,6 +165172,13 @@
    "brand": "Techpad",
    "device": "NOTE_4CAM",
    "model": "NOTE 4CAM"
+  }
+ ],
+ "S813G": [
+  {
+   "brand": "Techpad",
+   "device": "Tech_Pad_S813G",
+   "model": "S813G"
   }
  ],
  "TECHPAD X5": [
@@ -169882,6 +170035,13 @@
    "brand": "Umidigi",
    "device": "A7S",
    "model": "A7S"
+  }
+ ],
+ "A9 Pro 128G": [
+  {
+   "brand": "Umidigi",
+   "device": "A9_Pro_128GB",
+   "model": "A9 Pro"
   }
  ],
  "BISON": [
@@ -176083,6 +176243,13 @@
    "brand": "WINTEK",
    "device": "W405",
    "model": "W405"
+  }
+ ],
+ "SEI500W": [
+  {
+   "brand": "WOM",
+   "device": "SEI500W",
+   "model": "WOM"
   }
  ],
  "Cintiq Companion Hybrid 13HD": [
@@ -187624,6 +187791,13 @@
    "model": "ZTE A2020N3 Pro"
   }
  ],
+ "ZTE A2121E": [
+  {
+   "brand": "ZTE",
+   "device": "P618A01",
+   "model": "ZTE A2121E"
+  }
+ ],
  "ZTE A520S": [
   {
    "brand": "ZTE",
@@ -190314,6 +190488,48 @@
    "model": "IPA1104HDW-02"
   }
  ],
+ "Pyxis-ARMSTRONG": [
+  {
+   "brand": "eSTREAM 4K",
+   "device": "SEI500AS",
+   "model": "Pyxis-ARMSTRONG"
+  }
+ ],
+ "Pyxis-BlueRidge": [
+  {
+   "brand": "eSTREAM 4K",
+   "device": "SEI500BR",
+   "model": "Pyxis-BlueRidge"
+  }
+ ],
+ "Pyxis-BlueStream": [
+  {
+   "brand": "eSTREAM 4K",
+   "device": "SEI500BS",
+   "model": "Pyxis-BlueStream"
+  }
+ ],
+ "Pyxis-CBT": [
+  {
+   "brand": "eSTREAM 4K",
+   "device": "SEI500CB",
+   "model": "Pyxis-CBT"
+  }
+ ],
+ "Pyxis-GRANDE": [
+  {
+   "brand": "eSTREAM 4K",
+   "device": "SEI500GD",
+   "model": "Pyxis-GRANDE"
+  }
+ ],
+ "Pyxis-MetroNet": [
+  {
+   "brand": "eSTREAM 4K",
+   "device": "SEI500MN",
+   "model": "Pyxis-MetroNet"
+  }
+ ],
  "Pyxis-Midco": [
   {
    "brand": "eSTREAM 4K",
@@ -190326,6 +190542,13 @@
    "brand": "eSTREAM 4K",
    "device": "SEI500RCN",
    "model": "Pyxis-RCN"
+  }
+ ],
+ "Pyxis-SECV": [
+  {
+   "brand": "eSTREAM 4K",
+   "device": "SEI500SECV",
+   "model": "Pyxis-SECV"
   }
  ],
  "KAZ-N20": [
@@ -190833,6 +191056,13 @@
    "brand": "iBao",
    "device": "iS1",
    "model": "iS1"
+  }
+ ],
+ "iCare07": [
+  {
+   "brand": "iCare",
+   "device": "iCare07",
+   "model": "iCare07"
   }
  ],
  "CLP288": [
