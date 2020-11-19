@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-11-18
+Last sync is 2020-11-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1958,6 +1958,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BEISTA|X104|X104|X104|
 |BEISTA|X104-EEA|X104-EEA|X104-EEA|
 |BEISTA|X108|X108|X108|
+|BEISTA|X80-EEA|X80-EEA|X80-EEA|
 |BGH S.A.|BGH Joy 303|BGH_Joy_303|BGH Joy 303|
 |BGH S.A.|fushan_BGH|hamamatsucho|Smart TV|
 |BKAV|B2017|B2017|B2017|
@@ -3976,7 +3977,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Covia|CP-W5s|CP-W5s|CP-W5s|
 |Covia|g06+|g06|g06|
 |Creato|DVT101B|mdt1005_mk_32|DVT101B|
+|Crelander|E101|E101|E101|
 |Crelander|E102|E102|E102|
+|Crelander|E105|E105|E105|
 |Crelander|Z103|Z103|Z103|
 |Crema|CREMA0810T|crema0810t|CREMA0810T|
 |Cricket|U304AC|U304AC|U304AC|
@@ -22720,6 +22723,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS sense4 SH-41A|Jerid|SH-41A|
 |Sharp|AQUOS sense4 basic A003SH|JeridB|A003SH|
 |Sharp|AQUOS sense4 lite SH-RM15|JeridL|SH-RM15|
+|Sharp|AQUOS sense4 plus|VG2|SH-M16|
 |Sharp|AQUOS sense4 plus|VG2|SH-S40P|
 |Sharp|AQUOS zero|SG801SH|801SH|
 |Sharp|AQUOS zero|SH-Z10|SH-Z10|
@@ -26227,6 +26231,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TriaPlay|TriaPlayBox|TriaPlayBox|TriaPlayBox|
 |Trident|A23 Max|A23_Max|A23 Max|
 |Trident|A24|A24|A24|
+|Trident|A25|A25|A25|
 |Trident|A53 PRO|A53_PRO|A53 PRO|
 |Trifone|Passion-1S|Passion-1S|Passion-1S|
 |Trifone|Passion-Plus|Passion-Plus|Passion-Plus|
@@ -26347,6 +26352,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ubiquiti|UVP-X|grizzlies_telefi4x|UVP-X|
 |Ubiquiti|UVP-X|grizzlies_telefi4xp|UVP-X|
 |Ulefone|4dym|Armor_X3|Armor_X3|
+|Ulefone|Armor 10 5G|Armor_10_5G|Armor 10 5G|
 |Ulefone|Armor 2|Armor_2|Armor_2|
 |Ulefone|Armor 2S|Armor_2S|Armor_2S|
 |Ulefone|Armor 6|Armor_6|Armor_6|
@@ -26445,6 +26451,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|A7S|A7S|A7S|
 |Umidigi|A7S EEA|A7S|A7S|
 |Umidigi|A9 Pro 128G|A9_Pro_128GB|A9 Pro|
+|Umidigi|A9 Pro 128G EEA|A9_Pro_128GB|A9 Pro|
 |Umidigi|BISON|BISON|BISON|
 |Umidigi|F1|F1|F1|
 |Umidigi|F1_EEA|F1|F1|
@@ -26608,6 +26615,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Venturer|CT9B83W12|CT9B83W12|CT9B83W12|
 |Venturer|Mariner 10 Pro|CT9A03W23|CT9A03W23|
 |Venturer|VCT9B06Q22_eea|VCT9B06Q22|VCT9B06Q22|
+|Venturer|VCT9F78Q22|VCT9F78Q22|VCT9F78Q22|
 |Venturer|i7|RCT6773W22|i7|
 |Venus|V1401|V1401|V1401|
 |Venus|V5|V5|V5|

@@ -20299,6 +20299,13 @@
    "model": "X108"
   }
  ],
+ "X80-EEA": [
+  {
+   "brand": "BEISTA",
+   "device": "X80-EEA",
+   "model": "X80-EEA"
+  }
+ ],
  "BGH Joy 303": [
   {
    "brand": "BGH S.A.",
@@ -35343,11 +35350,25 @@
    "model": "DVT101B"
   }
  ],
+ "E101": [
+  {
+   "brand": "Crelander",
+   "device": "E101",
+   "model": "E101"
+  }
+ ],
  "E102": [
   {
    "brand": "Crelander",
    "device": "E102",
    "model": "E102"
+  }
+ ],
+ "E105": [
+  {
+   "brand": "Crelander",
+   "device": "E105",
+   "model": "E105"
   }
  ],
  "Z103": [
@@ -78557,6 +78578,11 @@
    "brand": "Itel",
    "device": "itel-L5002",
    "model": "itel L5002"
+  },
+  {
+   "brand": "Trident",
+   "device": "A25",
+   "model": "A25"
   }
  ],
  "A25 Pro": [
@@ -148415,6 +148441,11 @@
   {
    "brand": "Sharp",
    "device": "VG2",
+   "model": "SH-M16"
+  },
+  {
+   "brand": "Sharp",
+   "device": "VG2",
    "model": "SH-S40P"
   }
  ],
@@ -169466,6 +169497,13 @@
    "model": "Armor_X3"
   }
  ],
+ "Armor 10 5G": [
+  {
+   "brand": "Ulefone",
+   "device": "Armor_10_5G",
+   "model": "Armor 10 5G"
+  }
+ ],
  "Armor 2": [
   {
    "brand": "Ulefone",
@@ -170038,6 +170076,13 @@
   }
  ],
  "A9 Pro 128G": [
+  {
+   "brand": "Umidigi",
+   "device": "A9_Pro_128GB",
+   "model": "A9 Pro"
+  }
+ ],
+ "A9 Pro 128G EEA": [
   {
    "brand": "Umidigi",
    "device": "A9_Pro_128GB",
@@ -170962,6 +171007,13 @@
    "brand": "Venturer",
    "device": "VCT9B06Q22",
    "model": "VCT9B06Q22"
+  }
+ ],
+ "VCT9F78Q22": [
+  {
+   "brand": "Venturer",
+   "device": "VCT9F78Q22",
+   "model": "VCT9F78Q22"
   }
  ],
  "V1401": [

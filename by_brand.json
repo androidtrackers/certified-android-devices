@@ -10050,6 +10050,11 @@
    "device": "X108",
    "name": "X108",
    "model": "X108"
+  },
+  {
+   "device": "X80-EEA",
+   "name": "X80-EEA",
+   "model": "X80-EEA"
   }
  ],
  "BGH S.A.": [
@@ -20534,9 +20539,19 @@
  ],
  "Crelander": [
   {
+   "device": "E101",
+   "name": "E101",
+   "model": "E101"
+  },
+  {
    "device": "E102",
    "name": "E102",
    "model": "E102"
+  },
+  {
+   "device": "E105",
+   "name": "E105",
+   "model": "E105"
   },
   {
    "device": "Z103",
@@ -116420,6 +116435,11 @@
   {
    "device": "VG2",
    "name": "AQUOS sense4 plus",
+   "model": "SH-M16"
+  },
+  {
+   "device": "VG2",
+   "name": "AQUOS sense4 plus",
    "model": "SH-S40P"
   },
   {
@@ -134375,6 +134395,11 @@
    "model": "A24"
   },
   {
+   "device": "A25",
+   "name": "A25",
+   "model": "A25"
+  },
+  {
    "device": "A53_PRO",
    "name": "A53 PRO",
    "model": "A53 PRO"
@@ -135025,6 +135050,11 @@
    "model": "Armor_X3"
   },
   {
+   "device": "Armor_10_5G",
+   "name": "Armor 10 5G",
+   "model": "Armor 10 5G"
+  },
+  {
    "device": "Armor_2",
    "name": "Armor 2",
    "model": "Armor_2"
@@ -135516,6 +135546,11 @@
   {
    "device": "A9_Pro_128GB",
    "name": "A9 Pro 128G",
+   "model": "A9 Pro"
+  },
+  {
+   "device": "A9_Pro_128GB",
+   "name": "A9 Pro 128G EEA",
    "model": "A9 Pro"
   },
   {
@@ -136424,6 +136459,11 @@
    "device": "VCT9B06Q22",
    "name": "VCT9B06Q22_eea",
    "model": "VCT9B06Q22"
+  },
+  {
+   "device": "VCT9F78Q22",
+   "name": "VCT9F78Q22",
+   "model": "VCT9F78Q22"
   },
   {
    "device": "RCT6773W22",
