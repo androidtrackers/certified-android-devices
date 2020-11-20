@@ -13358,6 +13358,11 @@
    "model": "Discovery_A10_302"
   },
   {
+   "device": "tamachi",
+   "name": "EU",
+   "model": "BLAUPUNKT FHD Android TV"
+  },
+  {
    "device": "Blaupunkt",
    "name": "Endeavour101",
    "model": "Endeavour101"
@@ -25291,6 +25296,13 @@
    "device": "i240",
    "name": "i240",
    "model": "E-tel i240"
+  }
+ ],
+ "EACHPAI": [
+  {
+   "device": "706",
+   "name": "706",
+   "model": "706"
   }
  ],
  "EBN": [
@@ -42590,6 +42602,11 @@
   {
    "device": "xiaoyushan",
    "name": "xiaoyushan",
+   "model": "HiSmartTV A4"
+  },
+  {
+   "device": "xiaoyushan",
+   "name": "xiaoyushan-bgh",
    "model": "HiSmartTV A4"
   },
   {
@@ -60186,6 +60203,11 @@
    "model": "S6-KC"
   },
   {
+   "device": "S8-KC_sprout",
+   "name": "S8",
+   "model": "S8-KC"
+  },
+  {
    "device": "SZJ201",
    "name": "SZJ201",
    "model": "SZJ-JS201"
@@ -67250,6 +67272,11 @@
    "device": "R1",
    "name": "Android TV",
    "model": "ATV R1"
+  },
+  {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
   }
  ],
  "LNMBBS": [
@@ -67408,6 +67435,13 @@
    "device": "SPURT_K600",
    "name": "SPURT_K600",
    "model": "K600"
+  }
+ ],
+ "LUCOMS": [
+  {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
   }
  ],
  "LUMUS": [
@@ -84528,6 +84562,18 @@
    "model": "E70 Ultra"
   }
  ],
+ "Mystic": [
+  {
+   "device": "R1",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
+  }
+ ],
  "Mytron": [
   {
    "device": "Pad_60",
@@ -87846,6 +87892,11 @@
    "device": "Okapi10_Pro",
    "name": "Okapi10_Pro",
    "model": "Okapi10 Pro"
+  },
+  {
+   "device": "Okapi10_Pro_Max",
+   "name": "Okapi10_Pro_Max",
+   "model": "Okapi10 Pro Max"
   },
   {
    "device": "Okapi10_S",
@@ -99693,6 +99744,18 @@
    "device": "Q882",
    "name": "Q882",
    "model": "Q882"
+  }
+ ],
+ "RECCO": [
+  {
+   "device": "R1",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
   }
  ],
  "RED": [
@@ -128098,6 +128161,11 @@
    "device": "A5X",
    "name": "Alcatel 5X",
    "model": "5060J"
+  },
+  {
+   "device": "HONG_KONG",
+   "name": "Alcatel I01",
+   "model": "6025A"
   },
   {
    "device": "EasyTAB8MPCS",

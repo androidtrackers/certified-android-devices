@@ -8644,6 +8644,16 @@
    "model": "ATV R1"
   },
   {
+   "brand": "LLOYD",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "LUCOMS",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
    "brand": "Master-G",
    "device": "R1",
    "model": "ATV R1"
@@ -8679,6 +8689,16 @@
    "model": "Cosmos"
   },
   {
+   "brand": "Mystic",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Mystic",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
    "brand": "Nokia",
    "device": "R1",
    "model": "ATV R1"
@@ -8707,6 +8727,16 @@
    "brand": "Panasonic",
    "device": "R2",
    "model": "PANASONIC TV"
+  },
+  {
+   "brand": "RECCO",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "RECCO",
+   "device": "R2",
+   "model": "ATV R2"
   },
   {
    "brand": "SCHNEIDER",
@@ -24942,6 +24972,11 @@
    "model": "S8"
   },
   {
+   "brand": "Kyocera",
+   "device": "S8-KC_sprout",
+   "model": "S8-KC"
+  },
+  {
    "brand": "Leagoo",
    "device": "S8",
    "model": "S8"
@@ -25092,6 +25127,38 @@
    "brand": "Blaupunkt",
    "device": "Discovery_A10_302",
    "model": "Discovery_A10_302"
+  }
+ ],
+ "EU": [
+  {
+   "brand": "Blaupunkt",
+   "device": "tamachi",
+   "model": "BLAUPUNKT FHD Android TV"
+  },
+  {
+   "brand": "Haier",
+   "device": "nippori",
+   "model": "HEC Android TV 2K"
+  },
+  {
+   "brand": "QBell",
+   "device": "hanyang",
+   "model": "QBELL Android TV"
+  },
+  {
+   "brand": "QBell",
+   "device": "nippori",
+   "model": "QBELL Android TV 2K"
+  },
+  {
+   "brand": "Sharp",
+   "device": "sindang",
+   "model": "AQUOS-TVE19C"
+  },
+  {
+   "brand": "Sharp",
+   "device": "sindang",
+   "model": "AQUOS_TVE19A"
   }
  ],
  "Endeavour101": [
@@ -41916,6 +41983,13 @@
    "model": "E-tel i240"
   }
  ],
+ "706": [
+  {
+   "brand": "EACHPAI",
+   "device": "706",
+   "model": "706"
+  }
+ ],
  "NEBUPOS3": [
   {
    "brand": "EBN",
@@ -58618,33 +58692,6 @@
    "model": "D2-961G"
   }
  ],
- "EU": [
-  {
-   "brand": "Haier",
-   "device": "nippori",
-   "model": "HEC Android TV 2K"
-  },
-  {
-   "brand": "QBell",
-   "device": "hanyang",
-   "model": "QBELL Android TV"
-  },
-  {
-   "brand": "QBell",
-   "device": "nippori",
-   "model": "QBELL Android TV 2K"
-  },
-  {
-   "brand": "Sharp",
-   "device": "sindang",
-   "model": "AQUOS-TVE19C"
-  },
-  {
-   "brand": "Sharp",
-   "device": "sindang",
-   "model": "AQUOS_TVE19A"
-  }
- ],
  "Elegance E13": [
   {
    "brand": "Haier",
@@ -64069,6 +64116,13 @@
    "device": "xiaoyushan",
    "model": "HAT4KDTV"
   },
+  {
+   "brand": "Hisense",
+   "device": "xiaoyushan",
+   "model": "HiSmartTV A4"
+  }
+ ],
+ "xiaoyushan-bgh": [
   {
    "brand": "Hisense",
    "device": "xiaoyushan",
@@ -115341,6 +115395,13 @@
    "model": "Okapi10 Pro"
   }
  ],
+ "Okapi10_Pro_Max": [
+  {
+   "brand": "OKAPI",
+   "device": "Okapi10_Pro_Max",
+   "model": "Okapi10 Pro Max"
+  }
+ ],
  "Okapi10_S": [
   {
    "brand": "OKAPI",
@@ -161411,6 +161472,13 @@
    "brand": "TCT (Alcatel)",
    "device": "A5X",
    "model": "5060J"
+  }
+ ],
+ "Alcatel I01": [
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "HONG_KONG",
+   "model": "6025A"
   }
  ],
  "Alcatel JOY TAB": [

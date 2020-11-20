@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-11-19
+Last sync is 2020-11-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2598,6 +2598,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|Blaupunkt_SM_02|Blaupunkt_SM_02|Blaupunkt_SM_02|
 |Blaupunkt|Czech/Ukraine/Russia|nippori|BLAUPUNKT Android TV 2K|
 |Blaupunkt|Discovery_A10_302|Discovery_A10_302|Discovery_A10_302|
+|Blaupunkt|EU|tamachi|BLAUPUNKT FHD Android TV|
 |Blaupunkt|Endeavour101|Blaupunkt|Endeavour101|
 |Blaupunkt|Guardian|Guardian|Guardian|
 |Blaupunkt|MP3TV|shinjuku|MP3-A 2K TV|
@@ -4889,6 +4890,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |E-Tel|Q25|Q25|Q25|
 |E-Tel|Q30|Q30|Q30|
 |E-Tel|i240|i240|E-tel i240|
+|EACHPAI|706|706|706|
 |EBN|NEBUPOS3|UY3A|NEBUPOS3|
 |ECHOSONIC|EchosonicTV|shinagawa|EchosonicTV|
 |ECS|RealPad MA7BX2|RealPad_MA7BX2_1|RealPad MA7BX2|
@@ -8249,6 +8251,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|vision2_1|vision2_1|vision2_1|
 |Hisense|xiaoyushan|xiaoyushan|HAT4KDTV|
 |Hisense|xiaoyushan|xiaoyushan|HiSmartTV A4|
+|Hisense|xiaoyushan-bgh|xiaoyushan|HiSmartTV A4|
 |Hisense|xiaoyushan-em|xiaoyushan|HiSmartTV A4|
 |Hisense|xiaoyushan-sa|xiaoyushan|HiSmartTV A4|
 |Hisense|xiaoyushan_riviera|xiaoyushan|HiSmartTV A4|
@@ -11698,6 +11701,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|S301|KC-S301AE|KC-S301AE|
 |Kyocera|S4|S4-KC_sprout|S4-KC|
 |Kyocera|S6|S6-KC_sprout|S6-KC|
+|Kyocera|S8|S8-KC_sprout|S8-KC|
 |Kyocera|SZJ201|SZJ201|SZJ-JS201|
 |Kyocera|TORQUE|KC-100S|KC-100S|
 |Kyocera|TORQUE|SKT01|SKT01|
@@ -13104,6 +13108,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LLA|VIP6102W LLA-PA|vip6102w|VIP6102W|
 |LLA|VIP6102W-LLA|vip6102w|VIP6102W|
 |LLOYD|Android TV|R1|ATV R1|
+|LLOYD|Android TV|R2|ATV R2|
 |LNMBBS|P40-EEA|P40-EEA|P40-EEA|
 |LNMBBS|P401|P401|P401|
 |LOOQS|F102-EEA|F102-EEA|F102-EEA|
@@ -13134,6 +13139,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LT Electronics|SPURT_K400|SPURT_K400|K400|
 |LT Electronics|SPURT_K500|SPURT_K500|K500|
 |LT Electronics|SPURT_K600|SPURT_K600|K600|
+|LUCOMS|Android TV|R2|ATV R2|
 |LUMUS|INNOSR545|INNOSR545|INNOSR545|
 |LUMUS|NEOSC600|NEOSC600|NEOSC600|
 |LUMUS|NEOSR620|NEOSR620|NEOSR620|
@@ -16478,6 +16484,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Myria|Myria_L550|Myria_L550|Myria_L550|
 |Myria|Myria_L600|Myria_L600|Myria_L600|
 |Myros|E70 Ultra|E70_Ultra|E70 Ultra|
+|Mystic|Android TV|R1|ATV R1|
+|Mystic|Android TV|R2|ATV R2|
 |Mytron|Pad_60|Pad_60|Pad_60|
 |NAGU|R1|NAGU_R1|R1|
 |NASCO|Allure_Plus|NASCO_Allure_Plus|NASCO_Allure_Plus|
@@ -17110,6 +17118,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OK (Mediamark)|OK|bangbae|OK 4K Android TV|
 |OKAPI|Okapi10|Okapi10|Okapi10|
 |OKAPI|Okapi10_Pro|Okapi10_Pro|Okapi10 Pro|
+|OKAPI|Okapi10_Pro_Max|Okapi10_Pro_Max|Okapi10 Pro Max|
 |OKAPI|Okapi10_S|Okapi10_S|Okapi10_S|
 |OKAPI|Okapi10_Simple|Okapi10_Simple|Okapi10_Simple|
 |OKWU|PI Plus|PI_Plus|PI Plus|
@@ -19421,6 +19430,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|Voyager Pro|RCT6873W42M_F7|RCT6873W42M_F7|
 |RCA|XLD Series|XLDRCAV1|XLDRCAV1|
 |REACH|Q882|Q882|Q882|
+|RECCO|Android TV|R1|ATV R1|
+|RECCO|Android TV|R2|ATV R2|
 |RED|HydrogenONE|HydrogenONE|H1A1000|
 |RIO Mobile|R7MAX|R7MAX|R7MAX|
 |RIVERSONG|BLACK|BLACK|BLACK|
@@ -25016,6 +25027,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 5X|A5X|5060D|
 |TCT (Alcatel)|Alcatel 5X|A5X|5060D_EEA|
 |TCT (Alcatel)|Alcatel 5X|A5X|5060J|
+|TCT (Alcatel)|Alcatel I01|HONG_KONG|6025A|
 |TCT (Alcatel)|Alcatel JOY TAB|EasyTAB8MPCS|9029Z|
 |TCT (Alcatel)|Alcatel JOY TAB KIDS|EasyTAB8TMO|9029G|
 |TCT (Alcatel)|Alcatel ONYX™|Edison_CKT|5008R|

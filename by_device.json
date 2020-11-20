@@ -3619,6 +3619,11 @@
    "model": "ATV R1"
   },
   {
+   "brand": "Mystic",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
    "brand": "Nokia",
    "name": "Android TV",
    "model": "ATV R1"
@@ -3632,6 +3637,11 @@
    "brand": "Panasonic",
    "name": "Android TV",
    "model": "PANASONIC TV"
+  },
+  {
+   "brand": "RECCO",
+   "name": "Android TV",
+   "model": "ATV R1"
   },
   {
    "brand": "SCHNEIDER",
@@ -3731,6 +3741,16 @@
    "model": "ATV R2"
   },
   {
+   "brand": "LLOYD",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "LUCOMS",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
    "brand": "Lava",
    "name": "R2",
    "model": "R2"
@@ -3751,6 +3771,11 @@
    "model": "ATV R2"
   },
   {
+   "brand": "Mystic",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
    "brand": "Nokia",
    "name": "Android TV",
    "model": "ATV R2"
@@ -3764,6 +3789,11 @@
    "brand": "Panasonic",
    "name": "Android TV",
    "model": "PANASONIC TV"
+  },
+  {
+   "brand": "RECCO",
+   "name": "Android TV",
+   "model": "ATV R2"
   },
   {
    "brand": "Sanyo",
@@ -20276,6 +20306,53 @@
    "model": "Discovery_A10_302"
   }
  ],
+ "tamachi": [
+  {
+   "brand": "Blaupunkt",
+   "name": "EU",
+   "model": "BLAUPUNKT FHD Android TV"
+  },
+  {
+   "brand": "Contex",
+   "name": "Egypt",
+   "model": "AiPlus2K"
+  },
+  {
+   "brand": "Continental Edison",
+   "name": "France",
+   "model": "Continental Android TV"
+  },
+  {
+   "brand": "Estar",
+   "name": "Lithuania",
+   "model": "eSTAR FHD Android TV"
+  },
+  {
+   "brand": "MULTYNET",
+   "name": "Pakistan",
+   "model": "MULTYNET FHD Android TV"
+  },
+  {
+   "brand": "Nano",
+   "name": "Thailand",
+   "model": "Nano FHD Android TV"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "name": "France",
+   "model": "AiPlus2K"
+  },
+  {
+   "brand": "Starlight",
+   "name": "Rumania",
+   "model": "STARLIGHT Android TV"
+  },
+  {
+   "brand": "Turbo-X",
+   "name": "Greece",
+   "model": "TURBO-X FHD Android TV"
+  }
+ ],
  "Blaupunkt": [
   {
    "brand": "Blaupunkt",
@@ -28064,48 +28141,6 @@
    "brand": "Conquest",
    "name": "conquest_S16_RU",
    "model": "conquest_S16"
-  }
- ],
- "tamachi": [
-  {
-   "brand": "Contex",
-   "name": "Egypt",
-   "model": "AiPlus2K"
-  },
-  {
-   "brand": "Continental Edison",
-   "name": "France",
-   "model": "Continental Android TV"
-  },
-  {
-   "brand": "Estar",
-   "name": "Lithuania",
-   "model": "eSTAR FHD Android TV"
-  },
-  {
-   "brand": "MULTYNET",
-   "name": "Pakistan",
-   "model": "MULTYNET FHD Android TV"
-  },
-  {
-   "brand": "Nano",
-   "name": "Thailand",
-   "model": "Nano FHD Android TV"
-  },
-  {
-   "brand": "Smart-Tech TV",
-   "name": "France",
-   "model": "AiPlus2K"
-  },
-  {
-   "brand": "Starlight",
-   "name": "Rumania",
-   "model": "STARLIGHT Android TV"
-  },
-  {
-   "brand": "Turbo-X",
-   "name": "Greece",
-   "model": "TURBO-X FHD Android TV"
   }
  ],
  "CE10402": [
@@ -37041,6 +37076,13 @@
    "model": "E-tel i240"
   }
  ],
+ "706": [
+  {
+   "brand": "EACHPAI",
+   "name": "706",
+   "model": "706"
+  }
+ ],
  "UY3A": [
   {
    "brand": "EBN",
@@ -44298,6 +44340,11 @@
   {
    "brand": "Hisense",
    "name": "xiaoyushan",
+   "model": "HiSmartTV A4"
+  },
+  {
+   "brand": "Hisense",
+   "name": "xiaoyushan-bgh",
    "model": "HiSmartTV A4"
   },
   {
@@ -79986,6 +80033,13 @@
    "model": "S6-KC"
   }
  ],
+ "S8-KC_sprout": [
+  {
+   "brand": "Kyocera",
+   "name": "S8",
+   "model": "S8-KC"
+  }
+ ],
  "SZJ201": [
   {
    "brand": "Kyocera",
@@ -114494,6 +114548,13 @@
    "brand": "OKAPI",
    "name": "Okapi10_Pro",
    "model": "Okapi10 Pro"
+  }
+ ],
+ "Okapi10_Pro_Max": [
+  {
+   "brand": "OKAPI",
+   "name": "Okapi10_Pro_Max",
+   "model": "Okapi10 Pro Max"
   }
  ],
  "Okapi10_S": [
@@ -164653,6 +164714,13 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 5X",
    "model": "5060J"
+  }
+ ],
+ "HONG_KONG": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel I01",
+   "model": "6025A"
   }
  ],
  "EasyTAB8MPCS": [

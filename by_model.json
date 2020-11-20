@@ -3287,12 +3287,22 @@
    "device": "R1"
   },
   {
+   "brand": "Mystic",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
    "brand": "Nokia",
    "name": "Android TV",
    "device": "R1"
   },
   {
    "brand": "Orient",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "RECCO",
    "name": "Android TV",
    "device": "R1"
   },
@@ -3394,6 +3404,16 @@
    "device": "R2"
   },
   {
+   "brand": "LLOYD",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "LUCOMS",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
    "brand": "Master-G",
    "name": "Android TV",
    "device": "R2"
@@ -3404,12 +3424,22 @@
    "device": "R2"
   },
   {
+   "brand": "Mystic",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
    "brand": "Nokia",
    "name": "Android TV",
    "device": "R2"
   },
   {
    "brand": "Orient",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "RECCO",
    "name": "Android TV",
    "device": "R2"
   },
@@ -19429,6 +19459,13 @@
    "brand": "Blaupunkt",
    "name": "Discovery_A10_302",
    "device": "Discovery_A10_302"
+  }
+ ],
+ "BLAUPUNKT FHD Android TV": [
+  {
+   "brand": "Blaupunkt",
+   "name": "EU",
+   "device": "tamachi"
   }
  ],
  "Endeavour101": [
@@ -35805,6 +35842,13 @@
    "device": "i240"
   }
  ],
+ "706": [
+  {
+   "brand": "EACHPAI",
+   "name": "706",
+   "device": "706"
+  }
+ ],
  "NEBUPOS3": [
   {
    "brand": "EBN",
@@ -43098,6 +43142,11 @@
   {
    "brand": "Hisense",
    "name": "xiaoyushan",
+   "device": "xiaoyushan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "xiaoyushan-bgh",
    "device": "xiaoyushan"
   },
   {
@@ -82024,6 +82073,13 @@
    "device": "S6-KC_sprout"
   }
  ],
+ "S8-KC": [
+  {
+   "brand": "Kyocera",
+   "name": "S8",
+   "device": "S8-KC_sprout"
+  }
+ ],
  "SZJ-JS201": [
   {
    "brand": "Kyocera",
@@ -117755,6 +117811,13 @@
    "brand": "OKAPI",
    "name": "Okapi10_Pro",
    "device": "Okapi10_Pro"
+  }
+ ],
+ "Okapi10 Pro Max": [
+  {
+   "brand": "OKAPI",
+   "name": "Okapi10_Pro_Max",
+   "device": "Okapi10_Pro_Max"
   }
  ],
  "Okapi10_S": [
@@ -170664,6 +170727,13 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 5X",
    "device": "A5X"
+  }
+ ],
+ "6025A": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel I01",
+   "device": "HONG_KONG"
   }
  ],
  "9029Z": [
