@@ -72280,6 +72280,13 @@
    "device": "INOI_7i"
   }
  ],
+ "inoiPad mini 2+32 Wi-Fi+3G": [
+  {
+   "brand": "INOI",
+   "name": "inoiPad_mini_3G",
+   "device": "inoiPad_mini_3G"
+  }
+ ],
  "MID106-3G": [
   {
    "brand": "INOVALLEY",
@@ -117378,6 +117385,13 @@
    "brand": "Nuu",
    "name": "A1",
    "device": "NUU_A1"
+  }
+ ],
+ "N5502L": [
+  {
+   "brand": "Nuu",
+   "name": "A10L",
+   "device": "N5502LA"
   }
  ],
  "NUU_A3": [
@@ -179225,6 +179239,13 @@
    "device": "seocho"
   }
  ],
+ "KIDS705-701": [
+  {
+   "brand": "UJoyFeel",
+   "name": "KIDS705_701",
+   "device": "KIDS705-701"
+  }
+ ],
  "UKA_Dream_1": [
   {
    "brand": "UKA-Dream",
@@ -188445,6 +188466,13 @@
   }
  ],
  "W-V680-OPE": [
+  {
+   "brand": "Wiko",
+   "name": "Y81",
+   "device": "W-V680"
+  }
+ ],
+ "W-V680-SUN": [
   {
    "brand": "Wiko",
    "name": "Y81",

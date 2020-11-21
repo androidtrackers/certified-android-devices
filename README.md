@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-11-20
+Last sync is 2020-11-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10236,6 +10236,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |INOI|INOI_7_2020|INOI_7_2020|INOI 7 2020|
 |INOI|INOI_7_LITE|INOI_7_LITE|INOI_7_LITE|
 |INOI|INOI_7i|INOI_7i|INOI_7i|
+|INOI|inoiPad_mini_3G|inoiPad_mini_3G|inoiPad mini 2+32 Wi-Fi+3G|
 |INOVALLEY|MID_106_3G|MID106-3G|MID106-3G|
 |INOVALLEY|MID_109_Oreo_BTH|MID_109_Oreo_BTH|MID_109_Oreo_BTH|
 |INQ Mobile||camden|Camden|
@@ -17045,6 +17046,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nubio_Lite|N2 Lite|LS032I|LS032I|
 |Nubio_Lite|N2 Lite|LS032M|LS032M|
 |Nuu|A1|NUU_A1|NUU_A1|
+|Nuu|A10L|N5502LA|N5502L|
 |Nuu|A3|NUU_A3|NUU_A3|
 |Nuu|A3L|NUU_A3L|NUU_A3L|
 |Nuu|A4L|N5001L|N5001L|
@@ -26333,6 +26335,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Turk Telekom|E4|722T|E4|
 |Tvera|Tvera|seocho|Tvera 4K Android TV|
 |Tvstar|TVSTAR|seocho|TVSTAR 4K Android TV|
+|UJoyFeel|KIDS705_701|KIDS705-701|KIDS705-701|
 |UKA-Dream|UKA_Dream_1|UKA_Dream_1|UKA_Dream_1|
 |ULCOOL|U1|U1|U1|
 |ULCOOL|U2|U2|U2|
@@ -27795,6 +27798,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|Y81|W-V680|W-V680-EEA|
 |Wiko|Y81|W-V680|W-V680-ID|
 |Wiko|Y81|W-V680|W-V680-OPE|
+|Wiko|Y81|W-V680|W-V680-SUN|
 |Wiko|sunny4 Plus|W-K360|W-K360-TV|
 |Wileyfox|Spark|porridge|Wileyfox Spark|
 |Wileyfox|Spark|porridge|Wileyfox Spark +|

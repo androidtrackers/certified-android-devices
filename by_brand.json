@@ -52596,6 +52596,11 @@
    "device": "INOI_7i",
    "name": "INOI_7i",
    "model": "INOI_7i"
+  },
+  {
+   "device": "inoiPad_mini_3G",
+   "name": "inoiPad_mini_3G",
+   "model": "inoiPad mini 2+32 Wi-Fi+3G"
   }
  ],
  "INOVALLEY": [
@@ -87513,6 +87518,11 @@
    "device": "NUU_A1",
    "name": "A1",
    "model": "NUU_A1"
+  },
+  {
+   "device": "N5502LA",
+   "name": "A10L",
+   "model": "N5502L"
   },
   {
    "device": "NUU_A3",
@@ -134941,6 +134951,13 @@
    "model": "TVSTAR 4K Android TV"
   }
  ],
+ "UJoyFeel": [
+  {
+   "device": "KIDS705-701",
+   "name": "KIDS705_701",
+   "model": "KIDS705-701"
+  }
+ ],
  "UKA-Dream": [
   {
    "device": "UKA_Dream_1",
@@ -142517,6 +142534,11 @@
    "device": "W-V680",
    "name": "Y81",
    "model": "W-V680-OPE"
+  },
+  {
+   "device": "W-V680",
+   "name": "Y81",
+   "model": "W-V680-SUN"
   },
   {
    "device": "W-K360",

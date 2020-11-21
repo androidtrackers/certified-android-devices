@@ -74422,6 +74422,13 @@
    "model": "INOI_7i"
   }
  ],
+ "inoiPad_mini_3G": [
+  {
+   "brand": "INOI",
+   "device": "inoiPad_mini_3G",
+   "model": "inoiPad mini 2+32 Wi-Fi+3G"
+  }
+ ],
  "MID_106_3G": [
   {
    "brand": "INOVALLEY",
@@ -114973,6 +114980,13 @@
    "brand": "Nubio_Lite",
    "device": "LS032M",
    "model": "LS032M"
+  }
+ ],
+ "A10L": [
+  {
+   "brand": "Nuu",
+   "device": "N5502LA",
+   "model": "N5502L"
   }
  ],
  "A3L": [
@@ -169377,6 +169391,13 @@
    "model": "TVSTAR 4K Android TV"
   }
  ],
+ "KIDS705_701": [
+  {
+   "brand": "UJoyFeel",
+   "device": "KIDS705-701",
+   "model": "KIDS705-701"
+  }
+ ],
  "UKA_Dream_1": [
   {
    "brand": "UKA-Dream",
@@ -178396,6 +178417,11 @@
    "brand": "Wiko",
    "device": "W-V680",
    "model": "W-V680-OPE"
+  },
+  {
+   "brand": "Wiko",
+   "device": "W-V680",
+   "model": "W-V680-SUN"
   }
  ],
  "sunny4 Plus": [
