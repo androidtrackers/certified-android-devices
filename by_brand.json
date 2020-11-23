@@ -26375,6 +26375,11 @@
  ],
  "Ematic": [
   {
+   "device": "PBDV704DVD",
+   "name": "7'' dvd tablet",
+   "model": "PBDV704DVD"
+  },
+  {
    "device": "SproutChannelCubby",
    "name": "Cubby",
    "model": "SproutChannelCubby"
@@ -117512,14 +117517,14 @@
    "model": "ADT-2"
   },
   {
+   "device": "SEI500EV",
+   "name": "EVOPRO",
+   "model": "EVOPRO"
+  },
+  {
    "device": "SEI103",
    "name": "SEI103V",
    "model": "ANDROID TV MEDIA BOX"
-  },
-  {
-   "device": "SEI500EV",
-   "name": "SEI500EV",
-   "model": "EVOPRO"
   }
  ],
  "Shuttle": [
@@ -117786,6 +117791,11 @@
    "device": "PicassoTab_9",
    "name": "PicassoTab_9",
    "model": "PicassoTab_9"
+  },
+  {
+   "device": "PicassoTab_X",
+   "name": "PicassoTab_X",
+   "model": "PicassoTab_X"
   },
   {
    "device": "TangoTab_9",
@@ -132433,6 +132443,11 @@
    "device": "TECNO-SA6",
    "name": "SA6",
    "model": "TECNO SA6S"
+  },
+  {
+   "device": "Infinix-X657B",
+   "name": "SMART 5",
+   "model": "Infinix X657B"
   },
   {
    "device": "Infinix-X612",

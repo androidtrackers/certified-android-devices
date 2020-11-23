@@ -38491,6 +38491,13 @@
    "model": "Y50s"
   }
  ],
+ "PBDV704DVD": [
+  {
+   "brand": "Ematic",
+   "name": "7'' dvd tablet",
+   "model": "PBDV704DVD"
+  }
+ ],
  "SproutChannelCubby": [
   {
    "brand": "Ematic",
@@ -71202,6 +71209,11 @@
   },
   {
    "brand": "Infinix",
+   "name": "SMART 5",
+   "model": "Infinix X657B"
+  },
+  {
+   "brand": "Tecno",
    "name": "SMART 5",
    "model": "Infinix X657B"
   }
@@ -151669,7 +151681,7 @@
  "SEI500EV": [
   {
    "brand": "Shenzhen SEI Robotics",
-   "name": "SEI500EV",
+   "name": "EVOPRO",
    "model": "EVOPRO"
   }
  ],
@@ -151991,6 +152003,13 @@
    "brand": "Simbans",
    "name": "PicassoTab_9",
    "model": "PicassoTab_9"
+  }
+ ],
+ "PicassoTab_X": [
+  {
+   "brand": "Simbans",
+   "name": "PicassoTab_X",
+   "model": "PicassoTab_X"
   }
  ],
  "TangoTab_9": [

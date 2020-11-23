@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-11-22
+Last sync is 2020-11-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5089,6 +5089,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Elong Mobile|Y50s|Y50s|Y50s|
 |Elsys|ETRI01|SEI103|ETRI01|
 |Elsys|ETRI02|tai|ETRI02|
+|Ematic|7'' dvd tablet|PBDV704DVD|PBDV704DVD|
 |Ematic|Cubby|SproutChannelCubby|SproutChannelCubby|
 |Ematic|EBM104JB|EBM104JB|EBM104JB|
 |Ematic|EGD078|EGD078|EGD078|
@@ -22936,8 +22937,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Shenzhen Jiuzhou|DTP9503|DTP9503|DTP9503|
 |Shenzhen Jiuzhou|DTP9710|DTP9710|DTP9710|
 |Shenzhen SEI Robotics|ADT-2|adt2|ADT-2|
+|Shenzhen SEI Robotics|EVOPRO|SEI500EV|EVOPRO|
 |Shenzhen SEI Robotics|SEI103V|SEI103|ANDROID TV MEDIA BOX|
-|Shenzhen SEI Robotics|SEI500EV|SEI500EV|EVOPRO|
 |Shuttle|PNT-7045|PNT-7045|PNT-7045|
 |SiAL|Bic camera|Si01BB|Si01BB|
 |SiAL|Si01BE|Si01BE|Si01BE|
@@ -22988,6 +22989,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Simbans|PicassoTab|PicassoTab|PicassoTab|
 |Simbans|PicassoTab8s|PicassoTab8s|PicassoTab8s|
 |Simbans|PicassoTab_9|PicassoTab_9|PicassoTab_9|
+|Simbans|PicassoTab_X|PicassoTab_X|PicassoTab_X|
 |Simbans|TANGO|TangoTab_9|TangoTab_9|
 |Simbans|TangoTab|TangoTab|TangoTab|
 |Simbans|TangoTab8|TangoTab8|TangoTab8|
@@ -25861,6 +25863,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|SA1 Pro|TECNO-SA1S-PRO|TECNO SA1S Pro|
 |Tecno|SA6|TECNO-SA6|TECNO SA6|
 |Tecno|SA6|TECNO-SA6|TECNO SA6S|
+|Tecno|SMART 5|Infinix-X657B|Infinix X657B|
 |Tecno|SMART HD|Infinix-X612|Infinix X612|
 |Tecno|SPARK|TECNO-K7|TECNO K7|
 |Tecno|SPARK 2|TECNO-KA7-GO|TECNO KA7|

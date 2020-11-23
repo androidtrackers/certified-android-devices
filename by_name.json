@@ -43475,6 +43475,13 @@
    "model": "ETRI02"
   }
  ],
+ "7'' dvd tablet": [
+  {
+   "brand": "Ematic",
+   "device": "PBDV704DVD",
+   "model": "PBDV704DVD"
+  }
+ ],
  "Cubby": [
   {
    "brand": "Ematic",
@@ -75755,6 +75762,11 @@
    "brand": "Infinix",
    "device": "Infinix-X657C",
    "model": "Infinix X657C"
+  },
+  {
+   "brand": "Tecno",
+   "device": "Infinix-X657B",
+   "model": "Infinix X657B"
   }
  ],
  "SMART HD": [
@@ -149811,18 +149823,18 @@
    "model": "ADT-2"
   }
  ],
+ "EVOPRO": [
+  {
+   "brand": "Shenzhen SEI Robotics",
+   "device": "SEI500EV",
+   "model": "EVOPRO"
+  }
+ ],
  "SEI103V": [
   {
    "brand": "Shenzhen SEI Robotics",
    "device": "SEI103",
    "model": "ANDROID TV MEDIA BOX"
-  }
- ],
- "SEI500EV": [
-  {
-   "brand": "Shenzhen SEI Robotics",
-   "device": "SEI500EV",
-   "model": "EVOPRO"
   }
  ],
  "PNT-7045": [
@@ -150162,6 +150174,13 @@
    "brand": "Simbans",
    "device": "PicassoTab_9",
    "model": "PicassoTab_9"
+  }
+ ],
+ "PicassoTab_X": [
+  {
+   "brand": "Simbans",
+   "device": "PicassoTab_X",
+   "model": "PicassoTab_X"
   }
  ],
  "TangoTab": [
