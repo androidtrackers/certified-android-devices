@@ -10602,6 +10602,11 @@
    "model": "S12"
   },
   {
+   "brand": "G-Tab",
+   "device": "S12",
+   "model": "S12"
+  },
+  {
    "brand": "koobee",
    "device": "koobee_S12",
    "model": "S12"
@@ -22718,6 +22723,11 @@
    "model": "EKO Android TV 2K"
   },
   {
+   "brand": "Elitelux",
+   "device": "yeongdeungpo",
+   "model": "AiPlus4K"
+  },
+  {
    "brand": "Kogan",
    "device": "hanyang",
    "model": "Kogan SmarterTV"
@@ -29666,6 +29676,13 @@
    "model": "VIA G5"
   }
  ],
+ "VIA_L30": [
+  {
+   "brand": "Casper",
+   "device": "VIA_L30",
+   "model": "VIA_L30"
+  }
+ ],
  "VIA_M4": [
   {
    "brand": "Casper",
@@ -30663,6 +30680,13 @@
    "brand": "Cherry Mobile",
    "device": "A940",
    "model": "A940"
+  }
+ ],
+ "Aqua S9": [
+  {
+   "brand": "Cherry Mobile",
+   "device": "Aqua_S9",
+   "model": "Aqua S9"
   }
  ],
  "Cherry S8 Deluxe": [
@@ -46352,6 +46376,13 @@
    "model": "Note 1"
   }
  ],
+ "Note_3_Pro": [
+  {
+   "brand": "Figi",
+   "device": "Note_3_Pro",
+   "model": "Note_3_Pro"
+  }
+ ],
  "ATRIUM II F55L2": [
   {
    "brand": "Figo",
@@ -49301,6 +49332,23 @@
    "brand": "Telego",
    "device": "F10",
    "model": "F10"
+  }
+ ],
+ "F8": [
+  {
+   "brand": "G-Tab",
+   "device": "F8",
+   "model": "F8"
+  },
+  {
+   "brand": "Huangmi",
+   "device": "F8",
+   "model": "F8"
+  },
+  {
+   "brand": "Telego",
+   "device": "F8",
+   "model": "F8"
   }
  ],
  "P2000": [
@@ -52926,6 +52974,13 @@
    "brand": "Google",
    "device": "jgedlte",
    "model": "GT-I9505G"
+  }
+ ],
+ "Google Android Emulator": [
+  {
+   "brand": "Google",
+   "device": "generic_x86_arm",
+   "model": "sdk_gphone_x86"
   }
  ],
  "Intel Amber Lake Y Chromebook": [
@@ -65393,18 +65448,6 @@
    "brand": "How",
    "device": "sp7731c_1h10",
    "model": "kids 3g"
-  }
- ],
- "F8": [
-  {
-   "brand": "Huangmi",
-   "device": "F8",
-   "model": "F8"
-  },
-  {
-   "brand": "Telego",
-   "device": "F8",
-   "model": "F8"
   }
  ],
  "A199": [
@@ -98154,6 +98197,13 @@
    "model": "Linsar UK 4K Android TV"
   }
  ],
+ "Llinsar": [
+  {
+   "brand": "Linsar",
+   "device": "ueno",
+   "model": "Linsar 2K Android TV"
+  }
+ ],
  "F10XIPS": [
   {
    "brand": "Linsay",
@@ -98475,6 +98525,13 @@
    "brand": "Logic Mobility",
    "device": "X55_PLUS",
    "model": "X55_PLUS"
+  }
+ ],
+ "X57A": [
+  {
+   "brand": "Logic Mobility",
+   "device": "LOGIC_X57A",
+   "model": "LOGIC X57A"
   }
  ],
  "X5A": [
@@ -101530,6 +101587,13 @@
    "brand": "Masstel",
    "device": "Masstel_Tab10",
    "model": "Masstel Tab10"
+  }
+ ],
+ "Masstel_Tab10_4G": [
+  {
+   "brand": "Masstel",
+   "device": "Masstel_Tab10_4G",
+   "model": "Masstel_Tab10_4G"
   }
  ],
  "Masstel_X1": [
@@ -125361,6 +125425,13 @@
    "model": "DRN_EEA"
   }
  ],
+ "TMS-KR01P": [
+  {
+   "brand": "Pravion",
+   "device": "TMS-KR01P",
+   "model": "TMS-KR01P"
+  }
+ ],
  "PBTAB100-1G3": [
   {
    "brand": "Precision Biometric",
@@ -127462,6 +127533,13 @@
    "brand": "Pritom",
    "device": "P7PRO",
    "model": "P7PRO"
+  }
+ ],
+ "P7PRO_1": [
+  {
+   "brand": "Pritom",
+   "device": "P7PRO_1",
+   "model": "P7PRO_1"
   }
  ],
  "P7PRO_EEA": [
@@ -131761,6 +131839,13 @@
    "model": "Ruio_i7Ultra"
   }
  ],
+ "S6501": [
+  {
+   "brand": "Ruio",
+   "device": "S6501",
+   "model": "S6501"
+  }
+ ],
  "RT-1708": [
   {
    "brand": "Rumie",
@@ -133272,6 +133357,13 @@
    "brand": "SUPERSONIC",
    "device": "SC_774KT",
    "model": "SC_774KT"
+  }
+ ],
+ "SUPERSONIC": [
+  {
+   "brand": "SUPERSONIC",
+   "device": "kanda",
+   "model": "SUPERSONIC 2K Smart TV"
   }
  ],
  "TAB7091": [
@@ -148510,6 +148602,13 @@
    "model": "SH-41A"
   }
  ],
+ "AQUOS sense4 SH-M15": [
+  {
+   "brand": "Sharp",
+   "device": "JeridA",
+   "model": "SH-M15"
+  }
+ ],
  "AQUOS sense4 basic A003SH": [
   {
    "brand": "Sharp",
@@ -155559,6 +155658,13 @@
    "brand": "Stream",
    "device": "SHARK",
    "model": "SHARK"
+  }
+ ],
+ "SKYHP40A-ZWL": [
+  {
+   "brand": "Strong",
+   "device": "HP40A1",
+   "model": "SKWHP40A-ZWL"
   }
  ],
  "Strong": [
@@ -169431,6 +169537,13 @@
    "model": "UNI10IN"
   }
  ],
+ "D7PRO": [
+  {
+   "brand": "UNIQ-CELL",
+   "device": "D7PRO",
+   "model": "D7PRO"
+  }
+ ],
  "LED32HS72A9": [
   {
    "brand": "UNITED TV",
@@ -173300,6 +173413,13 @@
    "model": "TPC_8053G"
   }
  ],
+ "TPC_8063G": [
+  {
+   "brand": "Vivax",
+   "device": "TPC_8063G",
+   "model": "TPC_8063G"
+  }
+ ],
  "VIVAX Fly6": [
   {
    "brand": "Vivax",
@@ -173914,6 +174034,13 @@
    "brand": "Vivo",
    "device": "PD2034",
    "model": "V2034A"
+  }
+ ],
+ "V2036A": [
+  {
+   "brand": "Vivo",
+   "device": "PD2036",
+   "model": "V2036A"
   }
  ],
  "V2065A": [
@@ -177208,6 +177335,13 @@
    "model": "W7TWF19"
   }
  ],
+ "West": [
+  {
+   "brand": "Westinghouse",
+   "device": "ueno",
+   "model": "2K Android TV"
+  }
+ ],
  "WLT710M": [
   {
    "brand": "Wexler",
@@ -179064,6 +179198,13 @@
    "brand": "X-PREMIUM",
    "device": "X_1",
    "model": "X_1"
+  }
+ ],
+ "A10S": [
+  {
+   "brand": "X-TIGI",
+   "device": "A10S",
+   "model": "A10S"
   }
  ],
  "A20S": [
@@ -181048,6 +181189,13 @@
    "brand": "YesTeL",
    "device": "X7_EEA",
    "model": "X7_EEA"
+  }
+ ],
+ "X8_EEA": [
+  {
+   "brand": "YesTeL",
+   "device": "X8_EEA",
+   "model": "X8"
   }
  ],
  "4E": [
@@ -189974,6 +190122,13 @@
    "brand": "Zuum",
    "device": "Akus_Z",
    "model": "Akus Z"
+  }
+ ],
+ "AKUS Z1": [
+  {
+   "brand": "Zuum",
+   "device": "AKUS_Z1",
+   "model": "AKUS Z1"
   }
  ],
  "AURA X": [

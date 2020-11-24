@@ -16335,6 +16335,11 @@
    "model": "VIA G5"
   },
   {
+   "device": "VIA_L30",
+   "name": "VIA_L30",
+   "model": "VIA_L30"
+  },
+  {
    "device": "VIA_M4",
    "name": "VIA_M4",
    "model": "VIA_M4"
@@ -17058,6 +17063,11 @@
    "device": "A940",
    "name": "A940",
    "model": "A940"
+  },
+  {
+   "device": "Aqua_S9",
+   "name": "Aqua S9",
+   "model": "Aqua S9"
   },
   {
    "device": "Flare_S8_Deluxe",
@@ -26337,6 +26347,13 @@
    "model": "T7"
   }
  ],
+ "Elitelux": [
+  {
+   "device": "yeongdeungpo",
+   "name": "Australia",
+   "model": "AiPlus4K"
+  }
+ ],
  "ElliQ": [
   {
    "device": "ElliQTablet",
@@ -28534,6 +28551,11 @@
    "device": "Note_1",
    "name": "Note 1",
    "model": "Note 1"
+  },
+  {
+   "device": "Note_3_Pro",
+   "name": "Note_3_Pro",
+   "model": "Note_3_Pro"
   }
  ],
  "Figo": [
@@ -30712,6 +30734,11 @@
    "model": "F4"
   },
   {
+   "device": "F8",
+   "name": "F8",
+   "model": "F8"
+  },
+  {
    "device": "G4",
    "name": "G4",
    "model": "G4"
@@ -30780,6 +30807,11 @@
    "device": "S10",
    "name": "S10",
    "model": "S10"
+  },
+  {
+   "device": "S12",
+   "name": "S12",
+   "model": "S12"
   },
   {
    "device": "S20",
@@ -33379,6 +33411,11 @@
    "device": "jgedlte",
    "name": "Galaxy S4 Google Play edition",
    "model": "GT-I9505G"
+  },
+  {
+   "device": "generic_x86_arm",
+   "name": "Google Android Emulator",
+   "model": "sdk_gphone_x86"
   },
   {
    "device": "rammus_cheets",
@@ -73331,6 +73368,11 @@
    "device": "sadang",
    "name": "Linsar",
    "model": "Linsar UK 4K Android TV"
+  },
+  {
+   "device": "ueno",
+   "name": "Llinsar",
+   "model": "Linsar 2K Android TV"
   }
  ],
  "Linsay": [
@@ -73590,6 +73632,11 @@
    "device": "X55_PLUS",
    "name": "X55_PLUS_B18",
    "model": "X55_PLUS"
+  },
+  {
+   "device": "LOGIC_X57A",
+   "name": "X57A",
+   "model": "LOGIC X57A"
   },
   {
    "device": "LOGIC_X5A",
@@ -75950,6 +75997,11 @@
    "device": "Masstel_Tab10",
    "name": "Masstel_Tab10",
    "model": "Masstel Tab10"
+  },
+  {
+   "device": "Masstel_Tab10_4G",
+   "name": "Masstel_Tab10_4G",
+   "model": "Masstel_Tab10_4G"
   },
   {
    "device": "Masstel_X1",
@@ -96107,6 +96159,13 @@
    "model": "DRN_EEA"
   }
  ],
+ "Pravion": [
+  {
+   "device": "TMS-KR01P",
+   "name": "TMS-KR01P",
+   "model": "TMS-KR01P"
+  }
+ ],
  "Precision Biometric": [
   {
    "device": "PBTAB100-1G3",
@@ -97685,6 +97744,11 @@
    "device": "P7PRO",
    "name": "P7PRO",
    "model": "P7PRO"
+  },
+  {
+   "device": "P7PRO_1",
+   "name": "P7PRO_1",
+   "model": "P7PRO_1"
   },
   {
    "device": "P7PRO_EEA",
@@ -101286,6 +101350,11 @@
    "device": "RUIO_S5006",
    "name": "S5006",
    "model": "S5006"
+  },
+  {
+   "device": "S6501",
+   "name": "S6501",
+   "model": "S6501"
   }
  ],
  "Rumie": [
@@ -102558,6 +102627,11 @@
    "device": "SC_774KT",
    "name": "SC_774KT",
    "model": "SC_774KT"
+  },
+  {
+   "device": "kanda",
+   "name": "SUPERSONIC",
+   "model": "SUPERSONIC 2K Smart TV"
   },
   {
    "device": "TAB7091",
@@ -116501,6 +116575,11 @@
    "model": "SH-41A"
   },
   {
+   "device": "JeridA",
+   "name": "AQUOS sense4 SH-M15",
+   "model": "SH-M15"
+  },
+  {
    "device": "JeridB",
    "name": "AQUOS sense4 basic A003SH",
    "model": "A003SH"
@@ -122521,6 +122600,11 @@
    "device": "R2",
    "name": "Android TV",
    "model": "ATV R2"
+  },
+  {
+   "device": "HP40A1",
+   "name": "SKYHP40A-ZWL",
+   "model": "SKWHP40A-ZWL"
   },
   {
    "device": "bangbae",
@@ -134999,6 +135083,13 @@
    "model": "UNI10IN"
   }
  ],
+ "UNIQ-CELL": [
+  {
+   "device": "D7PRO",
+   "name": "D7PRO",
+   "model": "D7PRO"
+  }
+ ],
  "UNITED TV": [
   {
    "device": "ikebukuro",
@@ -138363,6 +138454,11 @@
    "model": "TPC_8053G"
   },
   {
+   "device": "TPC_8063G",
+   "name": "TPC_8063G",
+   "model": "TPC_8063G"
+  },
+  {
    "device": "VIVAX_Fly6",
    "name": "VIVAX Fly6",
    "model": "VIVAX Fly6"
@@ -138818,6 +138914,11 @@
    "device": "PD2034",
    "name": "V2034A",
    "model": "V2034A"
+  },
+  {
+   "device": "PD2036",
+   "name": "V2036A",
+   "model": "V2036A"
   },
   {
    "device": "PD2065",
@@ -141469,6 +141570,11 @@
    "device": "W7TWF19",
    "name": "W7TWF19",
    "model": "W7TWF19"
+  },
+  {
+   "device": "ueno",
+   "name": "West",
+   "model": "2K Android TV"
   }
  ],
  "Wexler": [
@@ -143176,6 +143282,11 @@
  ],
  "X-TIGI": [
   {
+   "device": "A10S",
+   "name": "A10S",
+   "model": "A10S"
+  },
+  {
    "device": "A20S",
    "name": "A20S",
    "model": "A20S"
@@ -144844,6 +144955,11 @@
   {
    "device": "YESTEL_X8",
    "name": "X8",
+   "model": "X8"
+  },
+  {
+   "device": "X8_EEA",
+   "name": "X8_EEA",
    "model": "X8"
   }
  ],
@@ -153312,6 +153428,11 @@
    "device": "Akus_Z",
    "name": "AKUS Z",
    "model": "Akus Z"
+  },
+  {
+   "device": "AKUS_Z1",
+   "name": "AKUS Z1",
+   "model": "AKUS Z1"
   },
   {
    "device": "AURA_X",
