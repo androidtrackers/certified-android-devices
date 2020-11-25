@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-11-24
+Last sync is 2020-11-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2117,6 +2117,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|Bmobile_AX688|Bmobile_AX688|AX688+|
 |BMobile|Bmobile_AX751_PLUS|Bmobile_AX751_PLUS|AX751+|
 |BMobile|Bmobile_AX752|Bmobile_AX752|AX752|
+|BMobile|Bmobile_B60Pro|Bmobile_B60Pro|Bmobile_B60Pro|
 |BMobile|Bmoblie AX683|Bmobile_AX683_MV04|AX683|
 |BMobile|FUN 4|Bmobile_FUN_4_2018|FUN 4 2018|
 |BMobile|Speed 5|Bmobile_SPEED5|Speed 5|
@@ -12669,6 +12670,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG V60 ThinQ|timelm|LM-V600|
 |LGE|LG V60 ThinQ|timelm|LM-V600N|
 |LGE|LG V60 ThinQ 5G|L-51A|L-51A|
+|LGE|LG VELVET|L-52A|L-52A|
 |LGE|LG Venice|u0_cdma|LG-LG730|
 |LGE|LG Viper 4G LTE|cayman|LG-LS840|
 |LGE|LG Volt|my70ds|LG-H422|
@@ -19040,6 +19042,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|K7_EEA|K7|K7|
 |Pritom|L10|L10|L10|
 |Pritom|L10_EEA|L10_EEA|L10_EEA|
+|Pritom|L10_PRO_EEA|L10_PRO_EEA|L10_PRO_EEA|
 |Pritom|L8|L8|L8|
 |Pritom|P7PRO|P7PRO|P7PRO|
 |Pritom|P7PRO_1|P7PRO_1|P7PRO_1|
@@ -22487,6 +22490,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samtech|TWIFI-06|TWIFI-06|TWIFI-06|
 |Samtech|TWIFI_07|TWIFI-07|TWIFI-07|
 |Sanaeko|FX9|SANAEKO|FX9|
+|Sandata|Sandata|Sandata_T5|T5|
 |Sankey|TAB1012FKY|TAB1012FKY|TAB1012FKY|
 |Sankey|TAB7A3G05|TAB7A3G05|TAB7A3G05|
 |Sansei|TS10A1|TS10A1|TS10A1|
@@ -22546,6 +22550,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Seiki|North America|hongik|Seiki Android TV|
 |Seiki|North America|uguisudani|Seiki Android TV 2K|
 |Selectron|T856G|T856G|T856G|
+|Selfix|ES733|ES733|ES733|
 |Selfix|SELFIX_ES732_EXPERIUS|EXPERIUS|SELFIX_ES732_EXPERIUS|
 |Selfix|X7|X7|X7|
 |Selvas|BrailleSense Polaris|polaris|BrailleSensePolaris|

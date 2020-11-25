@@ -16927,6 +16927,13 @@
    "model": "AX752"
   }
  ],
+ "Bmobile_B60Pro": [
+  {
+   "brand": "BMobile",
+   "name": "Bmobile_B60Pro",
+   "model": "Bmobile_B60Pro"
+  }
+ ],
  "Bmobile_AX683_MV04": [
   {
    "brand": "BMobile",
@@ -86244,6 +86251,13 @@
    "model": "L-51A"
   }
  ],
+ "L-52A": [
+  {
+   "brand": "LGE",
+   "name": "LG VELVET",
+   "model": "L-52A"
+  }
+ ],
  "my70ds": [
   {
    "brand": "LGE",
@@ -126848,6 +126862,13 @@
    "model": "L10_EEA"
   }
  ],
+ "L10_PRO_EEA": [
+  {
+   "brand": "Pritom",
+   "name": "L10_PRO_EEA",
+   "model": "L10_PRO_EEA"
+  }
+ ],
  "L8": [
   {
    "brand": "Pritom",
@@ -148623,6 +148644,13 @@
    "model": "FX9"
   }
  ],
+ "Sandata_T5": [
+  {
+   "brand": "Sandata",
+   "name": "Sandata",
+   "model": "T5"
+  }
+ ],
  "TAB1012FKY": [
   {
    "brand": "Sankey",
@@ -148965,6 +148993,13 @@
    "brand": "Selectron",
    "name": "T856G",
    "model": "T856G"
+  }
+ ],
+ "ES733": [
+  {
+   "brand": "Selfix",
+   "name": "ES733",
+   "model": "ES733"
   }
  ],
  "EXPERIUS": [

@@ -15920,6 +15920,13 @@
    "device": "Bmobile_AX752"
   }
  ],
+ "Bmobile_B60Pro": [
+  {
+   "brand": "BMobile",
+   "name": "Bmobile_B60Pro",
+   "device": "Bmobile_B60Pro"
+  }
+ ],
  "FUN 4 2018": [
   {
    "brand": "BMobile",
@@ -21145,6 +21152,11 @@
    "brand": "Leagoo",
    "name": "T5",
    "device": "T5"
+  },
+  {
+   "brand": "Sandata",
+   "name": "Sandata",
+   "device": "Sandata_T5"
   },
   {
    "brand": "Trend Mobile",
@@ -88952,6 +88964,13 @@
    "device": "L-51A"
   }
  ],
+ "L-52A": [
+  {
+   "brand": "LGE",
+   "name": "LG VELVET",
+   "device": "L-52A"
+  }
+ ],
  "LG-LG730": [
   {
    "brand": "LGE",
@@ -130415,6 +130434,13 @@
    "device": "L10_EEA"
   }
  ],
+ "L10_PRO_EEA": [
+  {
+   "brand": "Pritom",
+   "name": "L10_PRO_EEA",
+   "device": "L10_PRO_EEA"
+  }
+ ],
  "L8": [
   {
    "brand": "Pritom",
@@ -154107,6 +154133,13 @@
    "brand": "Selectron",
    "name": "T856G",
    "device": "T856G"
+  }
+ ],
+ "ES733": [
+  {
+   "brand": "Selfix",
+   "name": "ES733",
+   "device": "ES733"
   }
  ],
  "SELFIX_ES732_EXPERIUS": [

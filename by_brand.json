@@ -10865,6 +10865,11 @@
    "model": "AX752"
   },
   {
+   "device": "Bmobile_B60Pro",
+   "name": "Bmobile_B60Pro",
+   "model": "Bmobile_B60Pro"
+  },
+  {
    "device": "Bmobile_AX683_MV04",
    "name": "Bmoblie AX683",
    "model": "AX683"
@@ -65065,6 +65070,11 @@
    "model": "L-51A"
   },
   {
+   "device": "L-52A",
+   "name": "LG VELVET",
+   "model": "L-52A"
+  },
+  {
    "device": "u0_cdma",
    "name": "LG Venice",
    "model": "LG-LG730"
@@ -97736,6 +97746,11 @@
    "model": "L10_EEA"
   },
   {
+   "device": "L10_PRO_EEA",
+   "name": "L10_PRO_EEA",
+   "model": "L10_PRO_EEA"
+  },
+  {
    "device": "L8",
    "name": "L8",
    "model": "L8"
@@ -115215,6 +115230,13 @@
    "model": "FX9"
   }
  ],
+ "Sandata": [
+  {
+   "device": "Sandata_T5",
+   "name": "Sandata",
+   "model": "T5"
+  }
+ ],
  "Sankey": [
   {
    "device": "TAB1012FKY",
@@ -115547,6 +115569,11 @@
   }
  ],
  "Selfix": [
+  {
+   "device": "ES733",
+   "name": "ES733",
+   "model": "ES733"
+  },
   {
    "device": "EXPERIUS",
    "name": "SELFIX_ES732_EXPERIUS",
