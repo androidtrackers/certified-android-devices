@@ -45785,6 +45785,13 @@
    "model": "Winner8"
   }
  ],
+ "EGL11QF6": [
+  {
+   "brand": "Express Gifts Limited",
+   "device": "EGL11QF6",
+   "model": "EGL11QF6"
+  }
+ ],
  "EGL1529I": [
   {
    "brand": "Express Gifts Limited",
@@ -50066,6 +50073,13 @@
    "brand": "Gear Mobile",
    "device": "Space",
    "model": "Space"
+  }
+ ],
+ "Space_Pro": [
+  {
+   "brand": "Gear Mobile",
+   "device": "Space_Pro",
+   "model": "Space_Pro"
   }
  ],
  "G1_3g": [
@@ -60424,6 +60438,13 @@
    "brand": "Hisense",
    "device": "HSSDM660QC",
    "model": "HLTE700T"
+  }
+ ],
+ "9980": [
+  {
+   "brand": "Hisense",
+   "device": "taishan",
+   "model": "SmartTV 8K FFM"
   }
  ],
  "A2M": [
@@ -92040,6 +92061,27 @@
    "brand": "Lanix",
    "device": "Ilium_X710",
    "model": "Ilium X710"
+  }
+ ],
+ "IliumPad_RX10": [
+  {
+   "brand": "Lanix",
+   "device": "IliumPad_RX10",
+   "model": "ILIUM_PAD_RX10"
+  }
+ ],
+ "IliumPad_RX7": [
+  {
+   "brand": "Lanix",
+   "device": "IliumPad_RX7",
+   "model": "ILIUM_PAD_RX7"
+  }
+ ],
+ "IliumPad_RX8": [
+  {
+   "brand": "Lanix",
+   "device": "IliumPad_RX8",
+   "model": "IliumPad_RX8"
   }
  ],
  "Ilium_Alpha7": [
@@ -124464,6 +124506,13 @@
    "brand": "Polaroid",
    "device": "V45M",
    "model": "CARBON_PRO4543"
+  }
+ ],
+ "midcb232pr_EEA": [
+  {
+   "brand": "Polaroid",
+   "device": "midcb232pr",
+   "model": "midcb232pr"
   }
  ],
  "Polestar": [

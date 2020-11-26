@@ -40862,6 +40862,13 @@
    "model": "Vega"
   }
  ],
+ "EGL11QF6": [
+  {
+   "brand": "Express Gifts Limited",
+   "name": "EGL11QF6",
+   "model": "EGL11QF6"
+  }
+ ],
  "EGL1529I": [
   {
    "brand": "Express Gifts Limited",
@@ -45319,6 +45326,13 @@
    "brand": "Gear Mobile",
    "name": "Space",
    "model": "Space"
+  }
+ ],
+ "Space_Pro": [
+  {
+   "brand": "Gear Mobile",
+   "name": "Space_Pro",
+   "model": "Space_Pro"
   }
  ],
  "G1_3g": [
@@ -55923,6 +55937,13 @@
    "brand": "Hisense",
    "name": "Vision",
    "model": "Vision"
+  }
+ ],
+ "taishan": [
+  {
+   "brand": "Hisense",
+   "name": "9980",
+   "model": "SmartTV 8K FFM"
   }
  ],
  "HS8953QC": [
@@ -89057,6 +89078,27 @@
    "brand": "Lanix",
    "name": "Ilium X710",
    "model": "Ilium X710"
+  }
+ ],
+ "IliumPad_RX10": [
+  {
+   "brand": "Lanix",
+   "name": "IliumPad_RX10",
+   "model": "ILIUM_PAD_RX10"
+  }
+ ],
+ "IliumPad_RX7": [
+  {
+   "brand": "Lanix",
+   "name": "IliumPad_RX7",
+   "model": "ILIUM_PAD_RX7"
+  }
+ ],
+ "IliumPad_RX8": [
+  {
+   "brand": "Lanix",
+   "name": "IliumPad_RX8",
+   "model": "IliumPad_RX8"
   }
  ],
  "Ilium_Alpha7": [
@@ -124025,6 +124067,13 @@
    "brand": "Polaroid",
    "name": "V7",
    "model": "V7"
+  }
+ ],
+ "midcb232pr": [
+  {
+   "brand": "Polaroid",
+   "name": "midcb232pr_EEA",
+   "model": "midcb232pr"
   }
  ],
  "ihu_abl_car": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-11-25
+Last sync is 2020-11-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5412,6 +5412,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Explay|Winner|T4728|Winner|
 |Explay|Winner 7|T4729|Winner7|
 |Explay|Winner 8|T4730|Winner8|
+|Express Gifts Limited|EGL11QF6|EGL11QF6|EGL11QF6|
 |Express Gifts Limited|EGL1529I|EGL1529I|EGL1529I|
 |Express Gifts Limited|EGL15QF6|EGL15QF6|EGL15QF6|
 |Express Gifts Limited|EGLM103|EGLM103|EGLM103|
@@ -6033,6 +6034,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gear Mobile|GM30|GM30|GM30|
 |Gear Mobile|GM7|GM7|GM7|
 |Gear Mobile|Space|Space|Space|
+|Gear Mobile|Space_Pro|Space_Pro|Space_Pro|
 |Geecoo|G1|G1|G1|
 |Geecoo|G1_3g|G1_3g|G1_3g|
 |Geecoo|G2|G2|G2|
@@ -7679,6 +7681,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense||t960|HS-T960|
 |Hisense|55H6SG|Vision|Vision|
 |Hisense|700T|HSSDM660QC|HLTE700T|
+|Hisense|9980|taishan|SmartTV 8K FFM|
 |Hisense|A2|HS8937QC|Hisense A2|
 |Hisense|A2M|HS8953QC|Hisense A2M|
 |Hisense|A2T|HS8953QC|Hisense A2T|
@@ -13227,6 +13230,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lanix|Ilium X510|Ilium_X510|Ilium X510|
 |Lanix|Ilium X520|Ilium_X520|Ilium X520|
 |Lanix|Ilium X710|Ilium_X710|Ilium X710|
+|Lanix|IliumPad_RX10|IliumPad_RX10|ILIUM_PAD_RX10|
+|Lanix|IliumPad_RX7|IliumPad_RX7|ILIUM_PAD_RX7|
+|Lanix|IliumPad_RX8|IliumPad_RX8|IliumPad_RX8|
 |Lanix|Ilium_Alpha7|Ilium_Alpha7|Ilium Alpha 7|
 |Lanix|Ilium_Alpha_1TT|Ilium_Alpha_1TT|Ilium Alpha 1T|
 |Lanix|Ilium_Alpha_5T|Ilium_Alpha_5T|Ilium Alpha 5T|
@@ -18576,6 +18582,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Polaroid|SOHO|SOHO|SOHO|
 |Polaroid|V45M|V45M|CARBON_PRO4543|
 |Polaroid|V7|nuclear-M7021|V7|
+|Polaroid|midcb232pr_EEA|midcb232pr|midcb232pr|
 |Polestar|Polestar|ihu_abl_car|Polestar|
 |Polestar|Polestar Emu|ihu_emulator|Polestar 2|
 |Polytron|P500|P500|P500|
