@@ -37899,6 +37899,13 @@
    "model": "Memor K"
   }
  ],
+ "Skorpio X5": [
+  {
+   "brand": "Datalogic",
+   "device": "sx5",
+   "model": "Skorpio X5"
+  }
+ ],
  "K508101": [
   {
    "brand": "Datamini",
@@ -170873,6 +170880,13 @@
    "brand": "Unonu",
    "device": "W55_PLUS",
    "model": "W55_PLUS"
+  }
+ ],
+ "W57A": [
+  {
+   "brand": "Unonu",
+   "device": "UNONU_W57A",
+   "model": "UNONU W57A"
   }
  ],
  "X4G": [

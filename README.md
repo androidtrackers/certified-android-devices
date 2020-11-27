@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-11-26
+Last sync is 2020-11-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4322,6 +4322,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datalogic|Memor 20|Q10|Memor 20|
 |Datalogic|Memor 20|Q10A|Memor 20|
 |Datalogic|Memor K|memor_k|Memor K|
+|Datalogic|Skorpio X5|sx5|Skorpio X5|
 |Datamini|K508101|K508101|K508101|
 |Datamini|K908H4G|K908H4G|K908H4G|
 |Datamini|T104G|T104G|T104G|
@@ -26576,6 +26577,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unonu|W55G|W55G|W55G|
 |Unonu|W55_PLUS_B125|W55_PLUS|W55_PLUS|
 |Unonu|W55_PLUS_B18|W55_PLUS|W55_PLUS|
+|Unonu|W57A|UNONU_W57A|UNONU W57A|
 |Unonu|X4G|X4G|UNONU X4G|
 |Unonu|X4G|X4G|X4G|
 |Uphone|SPURT R3|SPURT_R3|SPURT R3|

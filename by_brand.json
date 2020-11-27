@@ -22326,6 +22326,11 @@
    "device": "memor_k",
    "name": "Memor K",
    "model": "Memor K"
+  },
+  {
+   "device": "sx5",
+   "name": "Skorpio X5",
+   "model": "Skorpio X5"
   }
  ],
  "Datamini": [
@@ -136220,6 +136225,11 @@
    "device": "W55_PLUS",
    "name": "W55_PLUS_B18",
    "model": "W55_PLUS"
+  },
+  {
+   "device": "UNONU_W57A",
+   "name": "W57A",
+   "model": "UNONU W57A"
   },
   {
    "device": "X4G",
