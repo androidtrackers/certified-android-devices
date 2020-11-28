@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-11-27
+Last sync is 2020-11-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14865,6 +14865,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maxvi|MS502_Orion|MS502_Orion|MS502_Orion|
 |Maxvi|Maxvi_MS401|Maxvi_MS401|Maxvi_MS401|
 |Maxwest|Astro 5 Go LTE|Astro_5_GO_LTE|Astro_5_GO_LTE|
+|Maxwest|Astro 5 PRO|Astro_5_PRO|Astro 5 PRO|
 |Maxwest|Astro 5N LTE|Astro_5N_LTE|Astro_5N_LTE|
 |Maxwest|Astro 5P|Astro_5P|Astro 5P|
 |Maxwest|Astro_4P|Astro_4P|Astro_4P|

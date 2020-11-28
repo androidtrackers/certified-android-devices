@@ -103123,6 +103123,13 @@
    "device": "Astro_5_GO_LTE"
   }
  ],
+ "Astro 5 PRO": [
+  {
+   "brand": "Maxwest",
+   "name": "Astro 5 PRO",
+   "device": "Astro_5_PRO"
+  }
+ ],
  "Astro_5N_LTE": [
   {
    "brand": "Maxwest",

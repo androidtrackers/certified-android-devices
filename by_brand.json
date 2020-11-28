@@ -76311,6 +76311,11 @@
    "model": "Astro_5_GO_LTE"
   },
   {
+   "device": "Astro_5_PRO",
+   "name": "Astro 5 PRO",
+   "model": "Astro 5 PRO"
+  },
+  {
    "device": "Astro_5N_LTE",
    "name": "Astro 5N LTE",
    "model": "Astro_5N_LTE"
