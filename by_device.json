@@ -29453,6 +29453,16 @@
    "model": "CP3706AS"
   },
   {
+   "brand": "Redmi",
+   "name": "Redmi K30S Ultra",
+   "model": "M2007J3SC"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 10T",
+   "model": "M2007J3SP"
+  },
+  {
    "brand": "Xiaomi",
    "name": "Mi 10T",
    "model": "M2007J3SY"
@@ -29461,6 +29471,11 @@
    "brand": "Xiaomi",
    "name": "Mi 10T Pro",
    "model": "M2007J3SG"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 10T pro",
+   "model": "M2007J3SI"
   },
   {
    "brand": "ZTE",
@@ -32789,6 +32804,13 @@
    "brand": "Danew",
    "name": "Dslide1016_V2_EEA",
    "model": "Dslide1016_V2"
+  }
+ ],
+ "Dslide113_V2": [
+  {
+   "brand": "Danew",
+   "name": "Dslide113_V2_EEA",
+   "model": "Dslide113_V2"
   }
  ],
  "Dslide714": [
@@ -45610,6 +45632,13 @@
    "brand": "Geo (GeoTechVision)",
    "name": "GEO10",
    "model": "GEO10X"
+  }
+ ],
+ "GS81TE": [
+  {
+   "brand": "Geshem",
+   "name": "GS81TE",
+   "model": "GS81TE"
   }
  ],
  "dciw387get": [
@@ -76146,6 +76175,13 @@
    "brand": "JapanTaxi",
    "name": "IRIS ITAB05",
    "model": "IRIS_ITAB05"
+  }
+ ],
+ "HP40A": [
+  {
+   "brand": "Jawwy TV",
+   "name": "JAWWY-TV-2.0",
+   "model": "JAWWY-TV-2.0"
   }
  ],
  "A94GT_Plus": [
@@ -108505,6 +108541,13 @@
    "model": "TC55CH"
   }
  ],
+ "MTab8": [
+  {
+   "brand": "Motumation",
+   "name": "MTab8",
+   "model": "MTab8"
+  }
+ ],
  "weever": [
   {
    "brand": "Movado",
@@ -119437,6 +119480,13 @@
    "model": "POC2"
   }
  ],
+ "angelicain": [
+  {
+   "brand": "POCO",
+   "name": "POCO C3",
+   "model": "M2006C3MI"
+  }
+ ],
  "lmi": [
   {
    "brand": "POCO",
@@ -119466,6 +119516,18 @@
    "brand": "POCO",
    "name": "POCO M2 Pro",
    "model": "POCO M2 Pro"
+  }
+ ],
+ "citrus": [
+  {
+   "brand": "POCO",
+   "name": "POCO M3",
+   "model": "M2010J19CG"
+  },
+  {
+   "brand": "POCO",
+   "name": "POCO M3",
+   "model": "M2010J19CI"
   }
  ],
  "phoenixin": [
@@ -130380,6 +130442,18 @@
    "model": "M2004J19C"
   }
  ],
+ "lime": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 9 Power",
+   "model": "M2010J19SI"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 9 4G",
+   "model": "M2010J19SC"
+  }
+ ],
  "dandelion": [
   {
    "brand": "Redmi",
@@ -130489,6 +130563,11 @@
    "brand": "Redmi",
    "name": "Redmi Note 8",
    "model": "Redmi Note 8"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Redmi Note 8",
+   "model": "Redmi Note 8"
   }
  ],
  "begonia": [
@@ -130520,6 +130599,13 @@
    "brand": "SK Telesys",
    "name": "ITP-E410W",
    "model": "ITP-E410W"
+  }
+ ],
+ "cannon": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 9",
+   "model": "M2007J22C"
   }
  ],
  "merlinnfc": [
@@ -160062,6 +160148,13 @@
    "model": "T766U_EEA"
   }
  ],
+ "Transformer_4G": [
+  {
+   "brand": "TCL",
+   "name": "TCL 10 TAB MAX 4G",
+   "model": "9295G"
+  }
+ ],
  "T1_LITE": [
   {
    "brand": "TCL",
@@ -179788,6 +179881,13 @@
    "model": "W7TWF19"
   }
  ],
+ "WH10S9863232": [
+  {
+   "brand": "Westinghouse",
+   "name": "WH10S9863232",
+   "model": "WH10S9863232"
+  }
+ ],
  "WLT710M": [
   {
    "brand": "Wexler",
@@ -182755,6 +182855,13 @@
    "brand": "Xiaomi",
    "name": "Mi 10T Lite",
    "model": "M2007J17G"
+  }
+ ],
+ "gauguininpro": [
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 10i",
+   "model": "M2007J17I"
   }
  ],
  "pisces": [

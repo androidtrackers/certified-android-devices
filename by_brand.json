@@ -22179,6 +22179,11 @@
    "model": "Dslide1016_V2"
   },
   {
+   "device": "Dslide113_V2",
+   "name": "Dslide113_V2_EEA",
+   "model": "Dslide113_V2"
+  },
+  {
    "device": "Dslide714",
    "name": "Dslide714",
    "model": "Dslide714"
@@ -31608,6 +31613,13 @@
    "device": "granite",
    "name": "Tough Mobile",
    "model": "CP600"
+  }
+ ],
+ "Geshem": [
+  {
+   "device": "GS81TE",
+   "name": "GS81TE",
+   "model": "GS81TE"
   }
  ],
  "Get": [
@@ -57162,6 +57174,13 @@
    "device": "IRIS_ITAB05",
    "name": "IRIS ITAB05",
    "model": "IRIS_ITAB05"
+  }
+ ],
+ "Jawwy TV": [
+  {
+   "device": "HP40A",
+   "name": "JAWWY-TV-2.0",
+   "model": "JAWWY-TV-2.0"
   }
  ],
  "Jenesis": [
@@ -83044,6 +83063,13 @@
    "model": "TC55CH"
   }
  ],
+ "Motumation": [
+  {
+   "device": "MTab8",
+   "name": "MTab8",
+   "model": "MTab8"
+  }
+ ],
  "Movado": [
   {
    "device": "weever",
@@ -91816,6 +91842,11 @@
  ],
  "POCO": [
   {
+   "device": "angelicain",
+   "name": "POCO C3",
+   "model": "M2006C3MI"
+  },
+  {
    "device": "lmi",
    "name": "POCO F2 Pro",
    "model": "POCO F2 Pro"
@@ -91829,6 +91860,16 @@
    "device": "gram",
    "name": "POCO M2 Pro",
    "model": "POCO M2 Pro"
+  },
+  {
+   "device": "citrus",
+   "name": "POCO M3",
+   "model": "M2010J19CG"
+  },
+  {
+   "device": "citrus",
+   "name": "POCO M3",
+   "model": "M2010J19CI"
   },
   {
    "device": "phoenixin",
@@ -100640,6 +100681,11 @@
    "model": "M2004J19C"
   },
   {
+   "device": "lime",
+   "name": "Redmi 9 Power",
+   "model": "M2010J19SI"
+  },
+  {
    "device": "lancelot",
    "name": "Redmi 9 Prime",
    "model": "M2004J19C"
@@ -100735,6 +100781,11 @@
    "model": "M2006J10C"
   },
   {
+   "device": "apollo",
+   "name": "Redmi K30S Ultra",
+   "model": "M2007J3SC"
+  },
+  {
    "device": "picasso",
    "name": "Redmi K30i 5G",
    "model": "Redmi K30i 5G"
@@ -100775,6 +100826,11 @@
    "model": "willow"
   },
   {
+   "device": "cannon",
+   "name": "Redmi Note 9",
+   "model": "M2007J22C"
+  },
+  {
    "device": "merlin",
    "name": "Redmi Note 9",
    "model": "M2003J15SC"
@@ -100783,6 +100839,11 @@
    "device": "merlinnfc",
    "name": "Redmi Note 9",
    "model": "M2003J15SC"
+  },
+  {
+   "device": "lime",
+   "name": "Redmi Note 9 4G",
+   "model": "M2010J19SC"
   },
   {
    "device": "curtana",
@@ -124132,6 +124193,11 @@
    "model": "T766U_EEA"
   },
   {
+   "device": "Transformer_4G",
+   "name": "TCL 10 TAB MAX 4G",
+   "model": "9295G"
+  },
+  {
    "device": "T1_LITE",
    "name": "TCL 10L",
    "model": "T770B"
@@ -141649,6 +141715,11 @@
    "model": "W7TWF19"
   },
   {
+   "device": "WH10S9863232",
+   "name": "WH10S9863232",
+   "model": "WH10S9863232"
+  },
+  {
    "device": "ueno",
    "name": "West",
    "model": "2K Android TV"
@@ -144232,6 +144303,11 @@
   {
    "device": "apollo",
    "name": "Mi 10T",
+   "model": "M2007J3SP"
+  },
+  {
+   "device": "apollo",
+   "name": "Mi 10T",
    "model": "M2007J3SY"
   },
   {
@@ -144243,6 +144319,16 @@
    "device": "apollo",
    "name": "Mi 10T Pro",
    "model": "M2007J3SG"
+  },
+  {
+   "device": "apollo",
+   "name": "Mi 10T pro",
+   "model": "M2007J3SI"
+  },
+  {
+   "device": "gauguininpro",
+   "name": "Mi 10i",
+   "model": "M2007J17I"
   },
   {
    "device": "pisces",
@@ -144653,6 +144739,11 @@
    "device": "ugglite",
    "name": "Redmi Note 5A",
    "model": "Redmi Note 5A"
+  },
+  {
+   "device": "ginkgo",
+   "name": "Redmi Note 8",
+   "model": "Redmi Note 8"
   },
   {
    "device": "omega",

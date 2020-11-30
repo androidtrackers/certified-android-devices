@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-11-29
+Last sync is 2020-11-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4293,6 +4293,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Danew|Dslide1014|Dslide1014|Dslide1014|
 |Danew|Dslide1016|Dslide1016|Dslide1016|
 |Danew|Dslide1016_V2_EEA|Dslide1016_V2|Dslide1016_V2|
+|Danew|Dslide113_V2_EEA|Dslide113_V2|Dslide113_V2|
 |Danew|Dslide714|Dslide714|Dslide714|
 |Danew|Dslide716|Dslide716|Dslide716|
 |Danew|Dslide971DC|Dslide971DC|Dslide971DC|
@@ -6082,6 +6083,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Geniora|GEN1|GEN1|GEN1|
 |Geo (GeoTechVision)|GEO10|GEO10|GEO10X|
 |Gesellschaft für SMK mBH|Tough Mobile|granite|CP600|
+|Geshem|GS81TE|GS81TE|GS81TE|
 |Get|Get Box|dciw387get|Get boX|
 |Get|Get Box|dciw387get|Get box|
 |Get|Get Box|dciw387get|Telia box|
@@ -11122,6 +11124,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Janam|XT75|XM75|XM75|
 |Japan Digital Serve|Amigo7xJDS|Amigo7xJDS|Amigo7xJDS|
 |JapanTaxi|IRIS ITAB05|IRIS_ITAB05|IRIS_ITAB05|
+|Jawwy TV|JAWWY-TV-2.0|HP40A|JAWWY-TV-2.0|
 |Jenesis|A94GT_Plus|A94GT_Plus|A94GT_Plus|
 |Jenesis|JT07-81B|JT07-81B|JT07-81B|
 |Jenesis|JT10-81B|JT10-81B|JT10-81B|
@@ -16188,6 +16191,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola Solutions|LEX L11|lexl11g_64|LEX L11|
 |Motorola Solutions|TC55|TC55|TC55|
 |Motorola Solutions|TC55CH|TC55CH|TC55CH|
+|Motumation|MTab8|MTab8|MTab8|
 |Movado|Boss Touch / TH 24/7 YOU|weever|BOSS Touch|
 |Movado|Boss Touch / TH 24/7 YOU|weever|TH 24/7 YOU|
 |Movado|Movado Connect|stargazer|Movado Connect|
@@ -17880,9 +17884,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PILOT|PQ55CH|samseong|AI PONT|
 |PLDT|Smart Page 8 Pro|Smart_Page_8_Pro|Smart_Page_8_Pro|
 |POC|POC2|CBL7509MM|POC2|
+|POCO|POCO C3|angelicain|M2006C3MI|
 |POCO|POCO F2 Pro|lmi|POCO F2 Pro|
 |POCO|POCO M2|shiva|M2004J19PI|
 |POCO|POCO M2 Pro|gram|POCO M2 Pro|
+|POCO|POCO M3|citrus|M2010J19CG|
+|POCO|POCO M3|citrus|M2010J19CI|
 |POCO|POCO X2|phoenixin|POCO X2|
 |POCO|POCO X3|karna|M2007J20CI|
 |POCO|POCO X3 NFC|surya|M2007J20CG|
@@ -19600,6 +19607,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 9|galahad|M2004J19C|
 |Redmi|Redmi 9|galahad|galahad|
 |Redmi|Redmi 9|lancelot|M2004J19C|
+|Redmi|Redmi 9 Power|lime|M2010J19SI|
 |Redmi|Redmi 9 Prime|lancelot|M2004J19C|
 |Redmi|Redmi 9A|dandelion|M2006C3LC|
 |Redmi|Redmi 9A|dandelion|M2006C3LG|
@@ -19619,6 +19627,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi K30|phoenix|Redmi K30|
 |Redmi|Redmi K30 5G|picasso|Redmi K30 5G|
 |Redmi|Redmi K30 Ultra|cezanne|M2006J10C|
+|Redmi|Redmi K30S Ultra|apollo|M2007J3SC|
 |Redmi|Redmi K30i 5G|picasso|Redmi K30i 5G|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Redmi|Redmi Note 8|ginkgo|GINKGO|
@@ -19627,8 +19636,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 8 pro|begoniain|Redmi Note 8 Pro|
 |Redmi|Redmi Note 8T|willow|Redmi Note 8T|
 |Redmi|Redmi Note 8T|willow|willow|
+|Redmi|Redmi Note 9|cannon|M2007J22C|
 |Redmi|Redmi Note 9|merlin|M2003J15SC|
 |Redmi|Redmi Note 9|merlinnfc|M2003J15SC|
+|Redmi|Redmi Note 9 4G|lime|M2010J19SC|
 |Redmi|Redmi Note 9 Pro|curtana|Redmi Note 9 Pro|
 |Redmi|Redmi Note 9 Pro|curtana|curtana|
 |Redmi|Redmi Note 9 Pro|joyeuse|Redmi Note 9 Pro|
@@ -24220,6 +24231,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 10 SE|Oakland|T766J|
 |TCL|TCL 10 SE|Oakland|T766U|
 |TCL|TCL 10 SE|Oakland|T766U_EEA|
+|TCL|TCL 10 TAB MAX 4G|Transformer_4G|9295G|
 |TCL|TCL 10L|T1_LITE|T770B|
 |TCL|TCL 10L|T1_LITE|T770H|
 |TCL|TCL C5|A3A|5152D|
@@ -27621,6 +27633,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Westinghouse|W7TBL19|W7TBL19|W7TBL19|
 |Westinghouse|W7TPK19|W7TPK19|W7TPK19|
 |Westinghouse|W7TWF19|W7TWF19|W7TWF19|
+|Westinghouse|WH10S9863232|WH10S9863232|WH10S9863232|
 |Westinghouse|West|ueno|2K Android TV|
 |Wexler|WLT710M|WLT710M|WLT710M|
 |Wibox|WiboxTv|dtiw384wb|m384wb|
@@ -28122,9 +28135,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Mi 10 Ultra|cas|M2007J1SC|
 |Xiaomi|Mi 10 lite 5G|monet|M2002J9G|
 |Xiaomi|Mi 10 lite 5G|monet|M2002J9S|
+|Xiaomi|Mi 10T|apollo|M2007J3SP|
 |Xiaomi|Mi 10T|apollo|M2007J3SY|
 |Xiaomi|Mi 10T Lite|gauguin|M2007J17G|
 |Xiaomi|Mi 10T Pro|apollo|M2007J3SG|
+|Xiaomi|Mi 10T pro|apollo|M2007J3SI|
+|Xiaomi|Mi 10i|gauguininpro|M2007J17I|
 |Xiaomi|Mi 3|pisces|MI 3|
 |Xiaomi|Mi 4c|libra|Mi-4c|
 |Xiaomi|Mi 4i|ferrari|Mi 4i|
@@ -28207,6 +28223,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Redmi Note 5A|ugg|Redmi Note 5A|
 |Xiaomi|Redmi Note 5A|ugg|Redmi Y1|
 |Xiaomi|Redmi Note 5A|ugglite|Redmi Note 5A|
+|Xiaomi|Redmi Note 8|ginkgo|Redmi Note 8|
 |Xiaomi|Redmi Pro|omega|Redmi Pro|
 |Xiaomi|Redmi S2|ysl|Redmi S2|
 |Xiaomi|TELEBEE|once|MIBOX3|
