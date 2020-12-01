@@ -4984,6 +4984,13 @@
    "device": "Alba10Pie"
   }
  ],
+ "Alba10Q": [
+  {
+   "brand": "Alba",
+   "name": "Alba10Q",
+   "device": "Alba10Q"
+  }
+ ],
  "Alba7Nou": [
   {
    "brand": "Alba",
@@ -38424,6 +38431,13 @@
    "device": "MID7399_BM"
   }
  ],
+ "MID7399_SD": [
+  {
+   "brand": "Estar",
+   "name": "MID7399_SD",
+   "device": "MID7399_SD"
+  }
+ ],
  "MID7399_WW": [
   {
    "brand": "Estar",
@@ -38901,6 +38915,13 @@
    "brand": "Everis",
    "name": "E0114",
    "device": "E0114"
+  }
+ ],
+ "E0117": [
+  {
+   "brand": "Everis",
+   "name": "E0117",
+   "device": "E0117"
   }
  ],
  "EW2021": [
@@ -43394,6 +43415,13 @@
    "brand": "Telego",
    "name": "F8",
    "device": "F8"
+  }
+ ],
+ "N271": [
+  {
+   "brand": "G-Tab",
+   "name": "N271",
+   "device": "N271"
   }
  ],
  "P2000": [
@@ -112399,6 +112427,11 @@
   {
    "brand": "Multilaser",
    "name": "M7_3G_A10",
+   "device": "ML_WI2A_M7_3G_A10"
+  },
+  {
+   "brand": "Multilaser",
+   "name": "M7_3G_A10",
    "device": "ML_WI3A_M7_3G_A10"
   }
  ],
@@ -116681,6 +116714,13 @@
    "device": "EVW"
   }
  ],
+ "Nokia 2 V Tella": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia 2 V Tella",
+   "device": "ARV_VZW"
+  }
+ ],
  "Nokia 2.1": [
   {
    "brand": "Nokia",
@@ -117100,11 +117140,25 @@
    "device": "NBL"
   }
  ],
+ "Nokia C2 Tennen": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C2 Tennen",
+   "device": "ARV_CUS"
+  }
+ ],
  "Nokia C3": [
   {
    "brand": "Nokia",
    "name": "Nokia C3",
    "device": "GMR"
+  }
+ ],
+ "Nokia C5 Endi": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C5 Endi",
+   "device": "PMC_CUS"
   }
  ],
  "Nokia Streaming Box 8000": [
@@ -130546,6 +130600,13 @@
    "device": "L10_EEA"
   }
  ],
+ "L10_PRO": [
+  {
+   "brand": "Pritom",
+   "name": "L10_PRO",
+   "device": "L10_PRO"
+  }
+ ],
  "L10_PRO_EEA": [
   {
    "brand": "Pritom",
@@ -137490,6 +137551,13 @@
    "brand": "Samsung",
    "name": "Galaxy A01 Core",
    "device": "a01core"
+  }
+ ],
+ "SM-A025F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A02s",
+   "device": "a02q"
   }
  ],
  "SM-A105F": [
@@ -165133,6 +165201,13 @@
    "device": "T1_LITE"
   }
  ],
+ "T671H": [
+  {
+   "brand": "TCL",
+   "name": "TCL 20 SE",
+   "device": "Austin"
+  }
+ ],
  "5152D": [
   {
    "brand": "TCL",
@@ -165445,6 +165520,13 @@
    "brand": "TCL",
    "name": "TCL TAB 10s",
    "device": "Aquaman_10_Pro"
+  }
+ ],
+ "9081X": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 10s",
+   "device": "Odin"
   }
  ],
  "9032X": [
@@ -174574,6 +174656,13 @@
    "device": "T13-EEA"
   }
  ],
+ "T15-EEA": [
+  {
+   "brand": "TOSCIDO",
+   "name": "T15-EEA",
+   "device": "T15-EEA"
+  }
+ ],
  "X102": [
   {
    "brand": "TOSCIDO",
@@ -176659,6 +176748,18 @@
    "device": "TECNO-KE5k"
   }
  ],
+ "TECNO KE5": [
+  {
+   "brand": "Tecno",
+   "name": "SPARK 6 Go",
+   "device": "TECNO-KE5"
+  },
+  {
+   "brand": "Tecno",
+   "name": "SPARK Go 2020",
+   "device": "TECNO-KE5"
+  }
+ ],
  "TECNO KA9": [
   {
    "brand": "Tecno",
@@ -176666,11 +176767,11 @@
    "device": "TECNO-KA9"
   }
  ],
- "TECNO KE5": [
+ "TECNO KE5S": [
   {
    "brand": "Tecno",
    "name": "SPARK Go 2020",
-   "device": "TECNO-KE5"
+   "device": "TECNO-KE5S"
   }
  ],
  "TECNO K9": [
@@ -191400,6 +191501,13 @@
    "brand": "YU",
    "name": "Yureka Note",
    "device": "YU6000"
+  }
+ ],
+ "N10-EEA": [
+  {
+   "brand": "YUMKEM",
+   "name": "N10-EEA",
+   "device": "N10-EEA"
   }
  ],
  "D107": [

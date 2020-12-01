@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-11-30
+Last sync is 2020-12-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -564,6 +564,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Alba|Alba 6|ac60crs|Alba 6|
 |Alba|Alba10Nou|Alba10Nou|Alba10Nou|
 |Alba|Alba10Pie|Alba10Pie|Alba10Pie|
+|Alba|Alba10Q|Alba10Q|Alba10Q|
 |Alba|Alba7Nou|Alba7Nou|Alba7Nou|
 |Alba|Alba7Pie|Alba7Pie|Alba7Pie|
 |Alba|Alba7Q|Alba7Q|Alba7Q|
@@ -5250,6 +5251,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Estar|MID1020L|MID1020L|MID1020L|
 |Estar|MID7399|MID7399|eSTAR BEAUTY 3 HD Quad core|
 |Estar|MID7399_BM|MID7399_BM|MID7399_BM|
+|Estar|MID7399_SD|MID7399_SD|MID7399_SD|
 |Estar|MID7399_WW|MID7399_WW|MID7399_WW|
 |Estar|eSTAR BEAUTY 2 HD Quad core|MID7388|eSTAR BEAUTY 2 HD Quad core|
 |Estar|eSTAR GRAND HD Quad Core|MID1298|eSTAR GRAND HD Quad core|
@@ -5323,6 +5325,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Everis|E0112|E0112|E0112|
 |Everis|E0113|E0113|E0113|
 |Everis|E0114|E0114|E0114|
+|Everis|E0117|E0117|E0117|
 |Everpad|EW2021|EVERPAD-EW2021|EW2021|
 |Everpad|HappyKids|HappyKids|HappyKids|
 |Everpad|SC730|EVERPAD-SC730|SC730|
@@ -5930,6 +5933,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Tab|G4|G4|G4|
 |G-Tab|G5|G5|G5|
 |G-Tab|G9|G9|G9|
+|G-Tab|N271|N271|N271|
 |G-Tab|P2000|P2000|P2000|
 |G-Tab|P7000|P7000|P7000|
 |G-Tab|P733|P733|P733|
@@ -16280,6 +16284,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M7S_PLUS|ML-SO07-M7S-PLUS|M7S_PLUS_KIDPAD|
 |Multilaser|M7S_PLUS|ML-SO07-M7S-PLUS|M7S_PLUS_PRINCESAS|
 |Multilaser|M7_3G_A10|ML_WI1A_M7_3G_A10|M7_3G_A10|
+|Multilaser|M7_3G_A10|ML_WI2A_M7_3G_A10|M7_3G_A10|
 |Multilaser|M7_3G_A10|ML_WI3A_M7_3G_A10|M7_3G_A10|
 |Multilaser|M7s Dual Core|NB116_NB117_NB118|M7s Dual ML03|
 |Multilaser|M7s Quad Core|astar-ococci|ML01-M7S-Quad-Core|
@@ -16940,6 +16945,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia 1.3|DRX|Nokia 1.3|
 |Nokia|Nokia 2|E1M|Nokia 2|
 |Nokia|Nokia 2 V|EVW|Nokia 2 V|
+|Nokia|Nokia 2 V Tella|ARV_VZW|Nokia 2 V Tella|
 |Nokia|Nokia 2.1|E2M|Nokia 2.1|
 |Nokia|Nokia 2.2|WSP_sprout|Nokia 2.2|
 |Nokia|Nokia 2.3|IRM_sprout|Nokia 2.3|
@@ -17005,7 +17011,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia C1|RKU|Nokia C1|
 |Nokia|Nokia C2|NBL|Nebula|
 |Nokia|Nokia C2|NBL|Nokia C2|
+|Nokia|Nokia C2 Tennen|ARV_CUS|Nokia C2 Tennen|
 |Nokia|Nokia C3|GMR|Nokia C3|
+|Nokia|Nokia C5 Endi|PMC_CUS|Nokia C5 Endi|
 |Nokia|Nokia Steaming Box 8000|HND|Nokia Streaming Box 8000|
 |Nokia|Nokia X5|PDA|Nokia X5|
 |Nokia|Nokia X6|DRG|Nokia X6|
@@ -19058,6 +19066,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|K7_EEA|K7|K7|
 |Pritom|L10|L10|L10|
 |Pritom|L10_EEA|L10_EEA|L10_EEA|
+|Pritom|L10_PRO|L10_PRO|L10_PRO|
 |Pritom|L10_PRO_EEA|L10_PRO_EEA|L10_PRO_EEA|
 |Pritom|L8|L8|L8|
 |Pritom|P7PRO|P7PRO|P7PRO|
@@ -20115,6 +20124,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A01 Core|a01core|SM-A013F|
 |Samsung|Galaxy A01 Core|a01core|SM-A013G|
 |Samsung|Galaxy A01 Core|a01core|SM-A013M|
+|Samsung|Galaxy A02s|a02q|SM-A025F|
 |Samsung|Galaxy A10|a10|SM-A105F|
 |Samsung|Galaxy A10|a10|SM-A105FN|
 |Samsung|Galaxy A10|a10|SM-A105G|
@@ -24234,6 +24244,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 10 TAB MAX 4G|Transformer_4G|9295G|
 |TCL|TCL 10L|T1_LITE|T770B|
 |TCL|TCL 10L|T1_LITE|T770H|
+|TCL|TCL 20 SE|Austin|T671H|
 |TCL|TCL C5|A3A|5152D|
 |TCL|TCL C5|Gauss|5153A|
 |TCL|TCL C5|Gauss|5153K|
@@ -24277,6 +24288,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 10 HD 4G|Aquaman_10_Pro|9060X_EEA|
 |TCL|TCL TAB 10 SMART|Aquaman_10_4G|8094T|
 |TCL|TCL TAB 10s|Aquaman_10_Pro|9061|
+|TCL|TCL TAB 10s|Odin|9081X|
 |TCL|TCL TAB 8 4G|Apollo_8_4G|9032X|
 |TCL|TCL TAB kids|Thor_8_4G_VZW|9049L|
 |TCL|TKEE MINI|Hulk_7_KIDS_WIFI|8093|
@@ -25611,6 +25623,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TOSCIDO|P101|P101|P101|
 |TOSCIDO|P101-EEA|P101-EEA|P101-EEA|
 |TOSCIDO|T13-EEA|T13-EEA|T13-EEA|
+|TOSCIDO|T15-EEA|T15-EEA|T15-EEA|
 |TOSCIDO|X102|X102|X102|
 |TOUCHSMART|QUICKTAB|Quicktab|Quicktab|
 |TPS|MTC 982o|MTC_982O|MTC_982O|
@@ -25923,9 +25936,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|SPARK 6 Air|TECNO-KE6j|TECNO KE6j|
 |Tecno|SPARK 6 GO|TECNO-KE5j|TECNO KE5j|
 |Tecno|SPARK 6 GO|TECNO-KE5k|TECNO KE5k|
+|Tecno|SPARK 6 Go|TECNO-KE5|TECNO KE5|
 |Tecno|SPARK 6 Go|TECNO-KE5k|TECNO KE5k|
 |Tecno|SPARK CM|TECNO-KA9|TECNO KA9|
 |Tecno|SPARK Go 2020|TECNO-KE5|TECNO KE5|
+|Tecno|SPARK Go 2020|TECNO-KE5S|TECNO KE5S|
 |Tecno|SPARK Go Plus|TECNO-BB4k|TECNO BB4k|
 |Tecno|SPARK Plus|TECNO-K9|TECNO K9|
 |Tecno|SPARK Pro|TECNO-K8|TECNO K8|
@@ -28274,6 +28289,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |YU|Yureka Black|YU5040|YU5040|
 |YU|Yureka Black|YU5041|YU5041|
 |YU|Yureka Note|YU6000|YU 6000|
+|YUMKEM|N10-EEA|N10-EEA|N10-EEA|
 |YUNTAB|D107|D107|D107|
 |YUNTAB|YUNTAB-K107|YUNTAB-K107|YUNTAB-K107|
 |YUNTAB|YUNTAB-K107_EEA|YUNTAB-K107_EEA|YUNTAB-K107_EEA|
