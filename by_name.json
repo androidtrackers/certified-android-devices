@@ -10154,6 +10154,11 @@
    "brand": "Ainol",
    "device": "Q88A_EEA",
    "model": "Q88A"
+  },
+  {
+   "brand": "TUFEN",
+   "device": "Q88A_EEA",
+   "model": "Q88A"
   }
  ],
  "AirTV Mini": [
@@ -26013,6 +26018,11 @@
    "model": "G6"
   },
   {
+   "brand": "GOODTEL",
+   "device": "G6",
+   "model": "G6"
+  },
+  {
    "brand": "Huawei",
    "device": "hwG6-T00",
    "model": "HUAWEI G6-T00"
@@ -31838,6 +31848,13 @@
    "model": "AI PONT"
   }
  ],
+ "EGS42FHD": [
+  {
+   "brand": "Classpro",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  }
+ ],
  "CLEMPAD_2018": [
   {
    "brand": "Clementoni",
@@ -35537,6 +35554,13 @@
    "brand": "Croatian Telecom",
    "device": "KSTB6044",
    "model": "KSTB6044"
+  }
+ ],
+ "43FDVRCHG5SP": [
+  {
+   "brand": "Croma",
+   "device": "ikebukuro",
+   "model": "AI PONT"
   }
  ],
  "Action-X3": [
@@ -81397,6 +81421,13 @@
    "model": "PureKTV"
   }
  ],
+ "K5132H32H": [
+  {
+   "brand": "KUNFT",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  }
+ ],
  "Dream one": [
   {
    "brand": "KZG (Ke Zhi Guang)",
@@ -91366,6 +91397,23 @@
    "model": "Germany"
   }
  ],
+ "Rumania": [
+  {
+   "brand": "LISTO",
+   "device": "tamachi",
+   "model": "LISTO Android TV"
+  },
+  {
+   "brand": "Starlight",
+   "device": "tamachi",
+   "model": "STARLIGHT Android TV"
+  },
+  {
+   "brand": "Starlight",
+   "device": "yeongdeungpo",
+   "model": "STARLIGHT Android TV"
+  }
+ ],
  "Orion": [
   {
    "brand": "LLA",
@@ -96575,11 +96623,6 @@
    "brand": "Lenovo",
    "device": "X606V",
    "model": "Lenovo TB-X606V"
-  },
-  {
-   "brand": "Lenovo",
-   "device": "X606X",
-   "model": "Lenovo TB-X606X"
   }
  ],
  "Lenovo Tab M7": [
@@ -114698,6 +114741,13 @@
    "model": "Nokia 8 Sirocco"
   }
  ],
+ "Nokia 8 V 5G UW": [
+  {
+   "brand": "Nokia",
+   "device": "RAV_VZW",
+   "model": "Nokia 8 V 5G UW"
+  }
+ ],
  "Nokia 8.1": [
   {
    "brand": "Nokia",
@@ -122802,6 +122852,11 @@
    "brand": "Philips",
    "device": "PH8M_HE_5596",
    "model": "TPM181HE"
+  },
+  {
+   "brand": "Philips",
+   "device": "PH8M_HE_5596",
+   "model": "TPM191HN"
   }
  ],
  "PHILIPS": [
@@ -152423,6 +152478,11 @@
   },
   {
    "brand": "Sony",
+   "device": "XQ-AS62",
+   "model": "XQ-AS62"
+  },
+  {
+   "brand": "Sony",
    "device": "XQ-AS72",
    "model": "XQ-AS72"
   }
@@ -155663,18 +155723,6 @@
    "model": "RIO STAR"
   }
  ],
- "Rumania": [
-  {
-   "brand": "Starlight",
-   "device": "tamachi",
-   "model": "STARLIGHT Android TV"
-  },
-  {
-   "brand": "Starlight",
-   "device": "yeongdeungpo",
-   "model": "STARLIGHT Android TV"
-  }
- ],
  "STAR PRO": [
   {
    "brand": "Starlight",
@@ -157030,6 +157078,13 @@
    "model": "Z28"
   }
  ],
+ "Z30 pro": [
+  {
+   "brand": "Symphony",
+   "device": "Z30_pro",
+   "model": "Z30 pro"
+  }
+ ],
  "ZVII": [
   {
    "brand": "Symphony",
@@ -157333,6 +157388,13 @@
    "model": "TAG-DC"
   }
  ],
+ "TAG Phone": [
+  {
+   "brand": "TAG-TECH",
+   "device": "TAG_Phone",
+   "model": "TAG_Phone"
+  }
+ ],
  "TAG-TAB-III": [
   {
    "brand": "TAG-TECH",
@@ -157634,6 +157696,13 @@
    "brand": "TCL",
    "device": "Venice",
    "model": "5148I"
+  }
+ ],
+ "TCL I01": [
+  {
+   "brand": "TCL",
+   "device": "HONG_KONG",
+   "model": "6125F"
   }
  ],
  "TCL L10": [
@@ -161881,6 +161950,16 @@
    "brand": "TCT (Alcatel)",
    "device": "HONG_KONG",
    "model": "6025A"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "HONG_KONG",
+   "model": "6025D_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "HONG_KONG",
+   "model": "6025H_EEA"
   }
  ],
  "Alcatel JOY TAB": [
@@ -166601,6 +166680,13 @@
    "model": "TECNO BB4"
   }
  ],
+ "POP 4 LTE": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-BC1s",
+   "model": "TECNO BC1s"
+  }
+ ],
  "POP 4 Pro": [
   {
    "brand": "Tecno",
@@ -169831,6 +169917,13 @@
    "model": "AI PONT"
   }
  ],
+ "UC_TK03": [
+  {
+   "brand": "UNNIC",
+   "device": "UC_TK03",
+   "model": "UC_TK03"
+  }
+ ],
  "QOOQ": [
   {
    "brand": "UNOWHY",
@@ -171466,6 +171559,13 @@
    "brand": "Vega",
    "device": "Vega_Q7128",
    "model": "Vega Q7128"
+  }
+ ],
+ "T7S": [
+  {
+   "brand": "Veidoo",
+   "device": "T7S",
+   "model": "T7S"
   }
  ],
  "VEIDOO_T8": [
@@ -173474,6 +173574,13 @@
    "brand": "Virzo",
    "device": "VT701",
    "model": "VT701"
+  }
+ ],
+ "Bangladesh": [
+  {
+   "brand": "Vision",
+   "device": "tamachi",
+   "model": "Vision FHD Android TV"
   }
  ],
  "PVT-8-A50-R1": [
@@ -192923,6 +193030,13 @@
    "brand": "qunyiCO",
    "device": "Y10_EEA",
    "model": "Y10"
+  }
+ ],
+ "Y7_EEA": [
+  {
+   "brand": "qunyiCO",
+   "device": "Y7_EEA",
+   "model": "Y7"
   }
  ],
  "Wizpad_Valuer_V8": [

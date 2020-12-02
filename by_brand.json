@@ -17918,6 +17918,11 @@
    "device": "samseong",
    "name": "CGS55UHD",
    "model": "AI PONT"
+  },
+  {
+   "device": "ikebukuro",
+   "name": "EGS42FHD",
+   "model": "AI PONT"
   }
  ],
  "Clementoni": [
@@ -20630,6 +20635,13 @@
    "device": "KSTB6044",
    "name": "KSTB6044",
    "model": "KSTB6044"
+  }
+ ],
+ "Croma": [
+  {
+   "device": "ikebukuro",
+   "name": "43FDVRCHG5SP",
+   "model": "AI PONT"
   }
  ],
  "Crosscall": [
@@ -31020,6 +31032,11 @@
    "device": "G3_EEA",
    "name": "G3_EEA",
    "model": "G3_EEA"
+  },
+  {
+   "device": "G6",
+   "name": "G6",
+   "model": "G6"
   }
  ],
  "GP-electronic": [
@@ -58239,6 +58256,13 @@
    "model": "PureKTV"
   }
  ],
+ "KUNFT": [
+  {
+   "device": "ikebukuro",
+   "name": "K5132H32H",
+   "model": "AI PONT"
+  }
+ ],
  "KZG (Ke Zhi Guang)": [
   {
    "device": "Dream_one",
@@ -67364,6 +67388,11 @@
    "device": "Belgium",
    "name": "\"France",
    "model": "Germany"
+  },
+  {
+   "device": "tamachi",
+   "name": "Rumania",
+   "model": "LISTO Android TV"
   }
  ],
  "LLA": [
@@ -71954,11 +71983,6 @@
    "device": "X606V",
    "name": "Lenovo Tab M10 Plus",
    "model": "Lenovo TB-X606V"
-  },
-  {
-   "device": "X606X",
-   "name": "Lenovo Tab M10 Plus",
-   "model": "Lenovo TB-X606X"
   },
   {
    "device": "7305F",
@@ -87286,6 +87310,11 @@
    "model": "Nokia 8 Sirocco"
   },
   {
+   "device": "RAV_VZW",
+   "name": "Nokia 8 V 5G UW",
+   "model": "Nokia 8 V 5G UW"
+  },
+  {
    "device": "PNXN",
    "name": "Nokia 8.1",
    "model": "Nokia 8.1"
@@ -94061,6 +94090,11 @@
    "device": "PH8M_HE_5596",
    "name": "Mediasuite",
    "model": "TPM181HE"
+  },
+  {
+   "device": "PH8M_HE_5596",
+   "name": "Mediasuite",
+   "model": "TPM191HN"
   },
   {
    "device": "TLE722G",
@@ -119713,6 +119747,11 @@
    "model": "XQ-AS52"
   },
   {
+   "device": "XQ-AS62",
+   "name": "Xperia 5 II",
+   "model": "XQ-AS62"
+  },
+  {
    "device": "XQ-AS72",
    "name": "Xperia 5 II",
    "model": "XQ-AS72"
@@ -123775,6 +123814,11 @@
    "model": "Z30"
   },
   {
+   "device": "Z30_pro",
+   "name": "Z30 pro",
+   "model": "Z30 pro"
+  },
+  {
    "device": "ZVII",
    "name": "ZVII",
    "model": "ZVII"
@@ -124019,6 +124063,11 @@
   }
  ],
  "TAG-TECH": [
+  {
+   "device": "TAG_Phone",
+   "name": "TAG Phone",
+   "model": "TAG_Phone"
+  },
   {
    "device": "TAG-TAB-III",
    "name": "TAG-TAB-III",
@@ -124286,6 +124335,11 @@
    "device": "Venice",
    "name": "TCL C9 Plus",
    "model": "5148I"
+  },
+  {
+   "device": "HONG_KONG",
+   "name": "TCL I01",
+   "model": "6125F"
   },
   {
    "device": "Faraday",
@@ -128470,6 +128524,16 @@
    "model": "6025A"
   },
   {
+   "device": "HONG_KONG",
+   "name": "Alcatel I01",
+   "model": "6025D_EEA"
+  },
+  {
+   "device": "HONG_KONG",
+   "name": "Alcatel I01",
+   "model": "6025H_EEA"
+  },
+  {
    "device": "EasyTAB8MPCS",
    "name": "Alcatel JOY TAB",
    "model": "9029Z"
@@ -131260,6 +131324,11 @@
    "device": "Q738",
    "name": "Q738",
    "model": "Q738"
+  },
+  {
+   "device": "Q88A_EEA",
+   "name": "Q88A_EEA",
+   "model": "Q88A"
   }
  ],
  "TUFF": [
@@ -132535,6 +132604,11 @@
    "device": "TECNO-BB4",
    "name": "POP 3 Plus",
    "model": "TECNO BB4"
+  },
+  {
+   "device": "TECNO-BC1s",
+   "name": "POP 4 LTE",
+   "model": "TECNO BC1s"
   },
   {
    "device": "TECNO-BC3",
@@ -135310,6 +135384,13 @@
    "model": "AI PONT"
   }
  ],
+ "UNNIC": [
+  {
+   "device": "UC_TK03",
+   "name": "UC_TK03",
+   "model": "UC_TK03"
+  }
+ ],
  "UNOCP": [
   {
    "device": "Premier",
@@ -136829,6 +136910,11 @@
    "device": "T7",
    "name": "T7",
    "model": "T7"
+  },
+  {
+   "device": "T7S",
+   "name": "T7S",
+   "model": "T7S"
   },
   {
    "device": "VEIDOO_T8",
@@ -138481,6 +138567,13 @@
    "device": "VT701",
    "name": "VT701",
    "model": "VT701"
+  }
+ ],
+ "Vision": [
+  {
+   "device": "tamachi",
+   "name": "Bangladesh",
+   "model": "Vision FHD Android TV"
   }
  ],
  "Vision Technology": [
@@ -155834,6 +155927,11 @@
   {
    "device": "Y7",
    "name": "Y7",
+   "model": "Y7"
+  },
+  {
+   "device": "Y7_EEA",
+   "name": "Y7_EEA",
    "model": "Y7"
   }
  ],

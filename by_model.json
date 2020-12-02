@@ -804,8 +804,18 @@
    "device": "samseong"
   },
   {
+   "brand": "Classpro",
+   "name": "EGS42FHD",
+   "device": "ikebukuro"
+  },
+  {
    "brand": "Condor",
    "name": "32SD520",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "Croma",
+   "name": "43FDVRCHG5SP",
    "device": "ikebukuro"
   },
   {
@@ -912,6 +922,11 @@
    "brand": "Jooyon",
    "name": "UHD Android TV",
    "device": "sindorim"
+  },
+  {
+   "brand": "KUNFT",
+   "name": "K5132H32H",
+   "device": "ikebukuro"
   },
   {
    "brand": "Kogan",
@@ -4624,6 +4639,11 @@
  "Q88A": [
   {
    "brand": "Ainol",
+   "name": "Q88A_EEA",
+   "device": "Q88A_EEA"
+  },
+  {
+   "brand": "TUFEN",
    "name": "Q88A_EEA",
    "device": "Q88A_EEA"
   }
@@ -20285,6 +20305,11 @@
    "brand": "Figi",
    "name": "G6",
    "device": "G6"
+  },
+  {
+   "brand": "GOODTEL",
+   "name": "G6",
+   "device": "G6"
   }
  ],
  "G60": [
@@ -34986,6 +35011,11 @@
    "brand": "qunyiCO",
    "name": "Y7",
    "device": "Y7"
+  },
+  {
+   "brand": "qunyiCO",
+   "name": "Y7_EEA",
+   "device": "Y7_EEA"
   }
  ],
  "Y7Plus": [
@@ -91513,6 +91543,13 @@
    "device": "Belgium"
   }
  ],
+ "LISTO Android TV": [
+  {
+   "brand": "LISTO",
+   "name": "Rumania",
+   "device": "tamachi"
+  }
+ ],
  "Orion": [
   {
    "brand": "LLA",
@@ -97523,11 +97560,6 @@
   {
    "brand": "Lenovo",
    "name": "Lenovo Tab M10 FHD Plus",
-   "device": "X606X"
-  },
-  {
-   "brand": "Lenovo",
-   "name": "Lenovo Tab M10 Plus",
    "device": "X606X"
   }
  ],
@@ -117083,6 +117115,13 @@
    "device": "A1N_sprout"
   }
  ],
+ "Nokia 8 V 5G UW": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia 8 V 5G UW",
+   "device": "RAV_VZW"
+  }
+ ],
  "Nokia 8.1": [
   {
    "brand": "Nokia",
@@ -125662,6 +125701,13 @@
   }
  ],
  "TPM181HE": [
+  {
+   "brand": "Philips",
+   "name": "Mediasuite",
+   "device": "PH8M_HE_5596"
+  }
+ ],
+ "TPM191HN": [
   {
    "brand": "Philips",
    "name": "Mediasuite",
@@ -159591,6 +159637,13 @@
    "device": "XQ-AS52"
   }
  ],
+ "XQ-AS62": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 5 II",
+   "device": "XQ-AS62"
+  }
+ ],
  "XQ-AS72": [
   {
    "brand": "Sony",
@@ -164585,6 +164638,13 @@
    "device": "Z30"
   }
  ],
+ "Z30 pro": [
+  {
+   "brand": "Symphony",
+   "name": "Z30 pro",
+   "device": "Z30_pro"
+  }
+ ],
  "ZVII": [
   {
    "brand": "Symphony",
@@ -164897,6 +164957,13 @@
    "brand": "TAG-DC",
    "name": "TAG-DC",
    "device": "TAG-DC"
+  }
+ ],
+ "TAG_Phone": [
+  {
+   "brand": "TAG-TECH",
+   "name": "TAG Phone",
+   "device": "TAG_Phone"
   }
  ],
  "TAG-TAB-III": [
@@ -165241,6 +165308,13 @@
    "brand": "TCL",
    "name": "TCL C9 Plus",
    "device": "Venice"
+  }
+ ],
+ "6125F": [
+  {
+   "brand": "TCL",
+   "name": "TCL I01",
+   "device": "HONG_KONG"
   }
  ],
  "5124J": [
@@ -171150,6 +171224,20 @@
    "device": "HONG_KONG"
   }
  ],
+ "6025D_EEA": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel I01",
+   "device": "HONG_KONG"
+  }
+ ],
+ "6025H_EEA": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel I01",
+   "device": "HONG_KONG"
+  }
+ ],
  "9029Z": [
   {
    "brand": "TCT (Alcatel)",
@@ -176349,6 +176437,13 @@
    "device": "TECNO-BB4"
   }
  ],
+ "TECNO BC1s": [
+  {
+   "brand": "Tecno",
+   "name": "POP 4 LTE",
+   "device": "TECNO-BC1s"
+  }
+ ],
  "TECNO BC3": [
   {
    "brand": "Tecno",
@@ -179686,6 +179781,13 @@
    "device": "D7PRO"
   }
  ],
+ "UC_TK03": [
+  {
+   "brand": "UNNIC",
+   "name": "UC_TK03",
+   "device": "UC_TK03"
+  }
+ ],
  "Premier": [
   {
    "brand": "UNOCP",
@@ -181295,6 +181397,13 @@
    "brand": "Vega",
    "name": "Vega Q7128",
    "device": "Vega_Q7128"
+  }
+ ],
+ "T7S": [
+  {
+   "brand": "Veidoo",
+   "name": "T7S",
+   "device": "T7S"
   }
  ],
  "CX-508": [
@@ -183410,6 +183519,13 @@
    "brand": "Virzo",
    "name": "VT701",
    "device": "VT701"
+  }
+ ],
+ "Vision FHD Android TV": [
+  {
+   "brand": "Vision",
+   "name": "Bangladesh",
+   "device": "tamachi"
   }
  ],
  "PVT-8-A50-R1": [

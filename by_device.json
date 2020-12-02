@@ -4840,6 +4840,11 @@
    "brand": "Ainol",
    "name": "Q88A_EEA",
    "model": "Q88A"
+  },
+  {
+   "brand": "TUFEN",
+   "name": "Q88A_EEA",
+   "model": "Q88A"
   }
  ],
  "kunlun": [
@@ -5113,8 +5118,18 @@
    "model": "AI PONT"
   },
   {
+   "brand": "Classpro",
+   "name": "EGS42FHD",
+   "model": "AI PONT"
+  },
+  {
    "brand": "Condor",
    "name": "32SD520",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Croma",
+   "name": "43FDVRCHG5SP",
    "model": "AI PONT"
   },
   {
@@ -5150,6 +5165,11 @@
   {
    "brand": "JVC",
    "name": "LT-40N5115A",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "KUNFT",
+   "name": "K5132H32H",
    "model": "AI PONT"
   },
   {
@@ -20347,6 +20367,11 @@
    "model": "eSTAR FHD Android TV"
   },
   {
+   "brand": "LISTO",
+   "name": "Rumania",
+   "model": "LISTO Android TV"
+  },
+  {
    "brand": "MULTYNET",
    "name": "Pakistan",
    "model": "MULTYNET FHD Android TV"
@@ -20370,6 +20395,11 @@
    "brand": "Turbo-X",
    "name": "Greece",
    "model": "TURBO-X FHD Android TV"
+  },
+  {
+   "brand": "Vision",
+   "name": "Bangladesh",
+   "model": "Vision FHD Android TV"
   }
  ],
  "Blaupunkt": [
@@ -26529,6 +26559,11 @@
   },
   {
    "brand": "Figi",
+   "name": "G6",
+   "model": "G6"
+  },
+  {
+   "brand": "GOODTEL",
    "name": "G6",
    "model": "G6"
   }
@@ -94342,11 +94377,6 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab M10 FHD Plus",
    "model": "Lenovo TB-X606X"
-  },
-  {
-   "brand": "Lenovo",
-   "name": "Lenovo Tab M10 Plus",
-   "model": "Lenovo TB-X606X"
   }
  ],
  "X616F": [
@@ -113800,6 +113830,13 @@
    "model": "Nokia 8 Sirocco"
   }
  ],
+ "RAV_VZW": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia 8 V 5G UW",
+   "model": "Nokia 8 V 5G UW"
+  }
+ ],
  "PNXN": [
   {
    "brand": "Nokia",
@@ -122360,6 +122397,11 @@
    "brand": "Philips",
    "name": "Mediasuite",
    "model": "TPM181HE"
+  },
+  {
+   "brand": "Philips",
+   "name": "Mediasuite",
+   "model": "TPM191HN"
   }
  ],
  "TLE722G": [
@@ -154520,6 +154562,13 @@
    "model": "XQ-AS52"
   }
  ],
+ "XQ-AS62": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 5 II",
+   "model": "XQ-AS62"
+  }
+ ],
  "XQ-AS72": [
   {
    "brand": "Sony",
@@ -159554,6 +159603,13 @@
    "model": "Z30"
   }
  ],
+ "Z30_pro": [
+  {
+   "brand": "Symphony",
+   "name": "Z30 pro",
+   "model": "Z30 pro"
+  }
+ ],
  "ZVII": [
   {
    "brand": "Symphony",
@@ -159827,6 +159883,13 @@
    "brand": "TAG-DC",
    "name": "TAG-DC",
    "model": "TAG-DC"
+  }
+ ],
+ "TAG_Phone": [
+  {
+   "brand": "TAG-TECH",
+   "name": "TAG Phone",
+   "model": "TAG_Phone"
   }
  ],
  "TAG-TAB-III": [
@@ -160435,6 +160498,28 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 3X",
    "model": "5048Y_TR"
+  }
+ ],
+ "HONG_KONG": [
+  {
+   "brand": "TCL",
+   "name": "TCL I01",
+   "model": "6125F"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel I01",
+   "model": "6025A"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel I01",
+   "model": "6025D_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel I01",
+   "model": "6025H_EEA"
   }
  ],
  "Faraday": [
@@ -165129,13 +165214,6 @@
    "model": "5060J"
   }
  ],
- "HONG_KONG": [
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "Alcatel I01",
-   "model": "6025A"
-  }
- ],
  "EasyTAB8MPCS": [
   {
    "brand": "TCT (Alcatel)",
@@ -169021,6 +169099,13 @@
    "model": "TECNO BB4"
   }
  ],
+ "TECNO-BC1s": [
+  {
+   "brand": "Tecno",
+   "name": "POP 4 LTE",
+   "model": "TECNO BC1s"
+  }
+ ],
  "TECNO-BC3": [
   {
    "brand": "Tecno",
@@ -172232,6 +172317,13 @@
    "model": "D7PRO"
   }
  ],
+ "UC_TK03": [
+  {
+   "brand": "UNNIC",
+   "name": "UC_TK03",
+   "model": "UC_TK03"
+  }
+ ],
  "Premier": [
   {
    "brand": "UNOCP",
@@ -173832,6 +173924,13 @@
    "brand": "Vega",
    "name": "Vega Q7128",
    "model": "Vega Q7128"
+  }
+ ],
+ "T7S": [
+  {
+   "brand": "Veidoo",
+   "name": "T7S",
+   "model": "T7S"
   }
  ],
  "VEIDOO_T8": [
@@ -195747,6 +195846,13 @@
    "brand": "qunyiCO",
    "name": "Y10_EEA",
    "model": "Y10"
+  }
+ ],
+ "Y7_EEA": [
+  {
+   "brand": "qunyiCO",
+   "name": "Y7_EEA",
+   "model": "Y7"
   }
  ],
  "wvv832": [
