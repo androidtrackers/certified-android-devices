@@ -6764,6 +6764,11 @@
    "model": "GAP YOQ"
   },
   {
+   "device": "GAPYOQ",
+   "name": "GAPYOQ",
+   "model": "GAP"
+  },
+  {
    "device": "Starpad",
    "name": "Starpad_T-181",
    "model": "Starpad_T-181"
@@ -36427,16 +36432,6 @@
    "model": "HTC 5G Hub"
   },
   {
-   "device": "htc_srcdugl",
-   "name": "HTC Desire 12+",
-   "model": "2Q9U100"
-  },
-  {
-   "device": "htc_srcdugl",
-   "name": "HTC Desire 12+",
-   "model": "HTC Desire 20+"
-  },
-  {
    "device": "htc_zddugl",
    "name": "HTC Desire 19s",
    "model": "2Q8L10000"
@@ -39316,6 +39311,11 @@
    "device": "HIHI-40KH-TAB",
    "name": "HIHI-40KH-TAB-01",
    "model": "HIHI-40KH-TAB-01"
+  },
+  {
+   "device": "HIHI-41KH-TAB-1-EEA",
+   "name": "HIHI-41KH-TAB-1-EEA",
+   "model": "HIHI-41KH-TAB-1-EEA"
   }
  ],
  "Hiking": [
@@ -53837,6 +53837,11 @@
    "device": "Infinix-X657C",
    "name": "SMART 5",
    "model": "Infinix X657C"
+  },
+  {
+   "device": "Infinix-X612",
+   "name": "SMART HD",
+   "model": "Infinix X612"
   },
   {
    "device": "Infinix-X612B",
@@ -81372,7 +81377,7 @@
   {
    "device": "SW4H",
    "name": "FlipkartTV",
-   "model": "FlipkartTV-20AE"
+   "model": "FlipkartTV"
   },
   {
    "device": "umts_ruth",
@@ -82693,6 +82698,16 @@
    "device": "pokerp",
    "name": "moto e⁶ˢ",
    "model": "moto e(6s)"
+  },
+  {
+   "device": "kiev",
+   "name": "moto g 5G",
+   "model": "moto g 5G"
+  },
+  {
+   "device": "kiev",
+   "name": "moto g 5G",
+   "model": "motorola edge"
   },
   {
    "device": "nairo",
@@ -132809,11 +132824,6 @@
    "device": "Infinix-X657B",
    "name": "SMART 5",
    "model": "Infinix X657B"
-  },
-  {
-   "device": "Infinix-X612",
-   "name": "SMART HD",
-   "model": "Infinix X612"
   },
   {
    "device": "TECNO-K7",

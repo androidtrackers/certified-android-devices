@@ -10389,6 +10389,13 @@
    "device": "GAP_YOQ"
   }
  ],
+ "GAP": [
+  {
+   "brand": "Artel",
+   "name": "GAPYOQ",
+   "device": "GAPYOQ"
+  }
+ ],
  "Starpad_T-181": [
   {
    "brand": "Artel",
@@ -51122,30 +51129,6 @@
    "device": "htc_rtxspcs"
   }
  ],
- "2Q9U100": [
-  {
-   "brand": "HTC",
-   "name": "HTC Desire 12+",
-   "device": "htc_srcdugl"
-  },
-  {
-   "brand": "HTC",
-   "name": "HTC Desire 20+",
-   "device": "htc_srcdugl"
-  }
- ],
- "HTC Desire 20+": [
-  {
-   "brand": "HTC",
-   "name": "HTC Desire 12+",
-   "device": "htc_srcdugl"
-  },
-  {
-   "brand": "HTC",
-   "name": "HTC Desire 20+",
-   "device": "htc_srcdugl"
-  }
- ],
  "2Q8L10000": [
   {
    "brand": "HTC",
@@ -51165,6 +51148,20 @@
    "brand": "HTC",
    "name": "HTC Desire 20 Pro",
    "device": "htc_bymdugl"
+  }
+ ],
+ "2Q9U100": [
+  {
+   "brand": "HTC",
+   "name": "HTC Desire 20+",
+   "device": "htc_srcdugl"
+  }
+ ],
+ "HTC Desire 20+": [
+  {
+   "brand": "HTC",
+   "name": "HTC Desire 20+",
+   "device": "htc_srcdugl"
   }
  ],
  "HTC 2PVG2": [
@@ -54762,6 +54759,13 @@
    "brand": "Hihi",
    "name": "HIHI-40KH-TAB-01",
    "device": "HIHI-40KH-TAB"
+  }
+ ],
+ "HIHI-41KH-TAB-1-EEA": [
+  {
+   "brand": "Hihi",
+   "name": "HIHI-41KH-TAB-1-EEA",
+   "device": "HIHI-41KH-TAB-1-EEA"
   }
  ],
  "A19": [
@@ -73853,6 +73857,13 @@
    "brand": "Infinix",
    "name": "SMART 5",
    "device": "Infinix-X657C"
+  }
+ ],
+ "Infinix X612": [
+  {
+   "brand": "Infinix",
+   "name": "SMART HD",
+   "device": "Infinix-X612"
   }
  ],
  "Infinix X612B": [
@@ -109764,11 +109775,16 @@
    "device": "solstice"
   }
  ],
- "FlipkartTV-20AE": [
+ "FlipkartTV": [
   {
    "brand": "Motorola",
    "name": "FlipkartTV",
    "device": "SW4H"
+  },
+  {
+   "brand": "Motorola",
+   "name": "Motorola Android 9.0 TV",
+   "device": "shibuya"
   }
  ],
  "MB511": [
@@ -111012,13 +111028,6 @@
    "device": "sholest"
   }
  ],
- "FlipkartTV": [
-  {
-   "brand": "Motorola",
-   "name": "Motorola Android 9.0 TV",
-   "device": "shibuya"
-  }
- ],
  "motorola one": [
   {
    "brand": "Motorola",
@@ -111399,6 +111408,25 @@
    "device": "pokerp"
   }
  ],
+ "moto g 5G": [
+  {
+   "brand": "Motorola",
+   "name": "moto g 5G",
+   "device": "kiev"
+  }
+ ],
+ "motorola edge": [
+  {
+   "brand": "Motorola",
+   "name": "moto g 5G",
+   "device": "kiev"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge",
+   "device": "racer"
+  }
+ ],
  "moto g 5G plus": [
   {
    "brand": "Motorola",
@@ -111696,13 +111724,6 @@
    "brand": "Motorola",
    "name": "motorola one zoom",
    "device": "parker"
-  }
- ],
- "motorola edge": [
-  {
-   "brand": "Motorola",
-   "name": "motorola edge",
-   "device": "racer"
   }
  ],
  "motorola edge plus": [
@@ -176707,13 +176728,6 @@
    "brand": "Tecno",
    "name": "SA6",
    "device": "TECNO-SA6"
-  }
- ],
- "Infinix X612": [
-  {
-   "brand": "Tecno",
-   "name": "SMART HD",
-   "device": "Infinix-X612"
   }
  ],
  "TECNO K7": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-12-02
+Last sync is 2020-12-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1314,6 +1314,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Artel|Artel U5|U5|U5|
 |Artel|Artel_Premium|Artel_Premium|Artel Premium|
 |Artel|GAP YOQ|GAP_YOQ|GAP YOQ|
+|Artel|GAPYOQ|GAPYOQ|GAP|
 |Artel|Starpad_T-181|Starpad|Starpad_T-181|
 |Artel|U1|U1|U1|
 |Artel|U1_MINI|U1_MINI|U1 MINI|
@@ -7027,8 +7028,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HTC|HTC 5G Hub|htc_rtx|HTC 5G Hub|
 |HTC|HTC 5G Hub|htc_rtxcmcc|HTC 5G Hub|
 |HTC|HTC 5G Hub|htc_rtxspcs|HTC 5G Hub|
-|HTC|HTC Desire 12+|htc_srcdugl|2Q9U100|
-|HTC|HTC Desire 12+|htc_srcdugl|HTC Desire 20+|
 |HTC|HTC Desire 19s|htc_zddugl|2Q8L10000|
 |HTC|HTC Desire 19s|htc_zddugl|HTC Desire 19s|
 |HTC|HTC Desire 20 Pro|htc_bymdugl|HTC 2Q9J10000|
@@ -7594,6 +7593,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |High_Q|ELT0802H9|ELT0802H9|ELT0802H9|
 |High_Q|ELT10101H9|ELT10101H9|ELT10101H9|
 |Hihi|HIHI-40KH-TAB-01|HIHI-40KH-TAB|HIHI-40KH-TAB-01|
+|Hihi|HIHI-41KH-TAB-1-EEA|HIHI-41KH-TAB-1-EEA|HIHI-41KH-TAB-1-EEA|
 |Hiking|A19|A19|A19|
 |Hiking|A20|A20|A20|
 |Hiking|A21|A21|A21|
@@ -10471,6 +10471,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|S5 Pro|Infinix-X660C|Infinix X660C|
 |Infinix|SMART 5|Infinix-X657B|Infinix X657B|
 |Infinix|SMART 5|Infinix-X657C|Infinix X657C|
+|Infinix|SMART HD|Infinix-X612|Infinix X612|
 |Infinix|SMART HD|Infinix-X612B|Infinix X612B|
 |Infinix|SURF 2|INFINIX_X511|Infinix X511|
 |Infinix|Smart 2|Infinix-X5515|Infinix X5515|
@@ -15852,7 +15853,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|Droid X2|daytona|Milestone X2|
 |Motorola|ELECTRIFY 2|cdma_yangtze|XT881|
 |Motorola|Electrify M|solstice|XT901|
-|Motorola|FlipkartTV|SW4H|FlipkartTV-20AE|
+|Motorola|FlipkartTV|SW4H|FlipkartTV|
 |Motorola|Flipout|umts_ruth|MB511|
 |Motorola|Flipout|umts_ruth|ME511|
 |Motorola|Flipout|umts_ruth|MotoMB511|
@@ -16117,6 +16118,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto e6s|fiji|moto e6s|
 |Motorola|moto e⁶ plus|pokerp|moto e(6) plus|
 |Motorola|moto e⁶ˢ|pokerp|moto e(6s)|
+|Motorola|moto g 5G|kiev|moto g 5G|
+|Motorola|moto g 5G|kiev|motorola edge|
 |Motorola|moto g 5G plus|nairo|moto g 5G plus|
 |Motorola|moto g fast|rav|moto g fast|
 |Motorola|moto g power|sofia|moto g power|
@@ -25933,7 +25936,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|SA6|TECNO-SA6|TECNO SA6|
 |Tecno|SA6|TECNO-SA6|TECNO SA6S|
 |Tecno|SMART 5|Infinix-X657B|Infinix X657B|
-|Tecno|SMART HD|Infinix-X612|Infinix X612|
 |Tecno|SPARK|TECNO-K7|TECNO K7|
 |Tecno|SPARK 2|TECNO-KA7-GO|TECNO KA7|
 |Tecno|SPARK 2|TECNO-KA7-O|TECNO KA7O|

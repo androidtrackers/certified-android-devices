@@ -15777,6 +15777,13 @@
    "model": "GAP YOQ"
   }
  ],
+ "GAPYOQ": [
+  {
+   "brand": "Artel",
+   "device": "GAPYOQ",
+   "model": "GAP"
+  }
+ ],
  "Starpad_T-181": [
   {
    "brand": "Artel",
@@ -56709,18 +56716,6 @@
    "model": "HTC 5G Hub"
   }
  ],
- "HTC Desire 12+": [
-  {
-   "brand": "HTC",
-   "device": "htc_srcdugl",
-   "model": "2Q9U100"
-  },
-  {
-   "brand": "HTC",
-   "device": "htc_srcdugl",
-   "model": "HTC Desire 20+"
-  }
- ],
  "HTC Desire 19s": [
   {
    "brand": "HTC",
@@ -60153,6 +60148,13 @@
    "brand": "Hihi",
    "device": "HIHI-40KH-TAB",
    "model": "HIHI-40KH-TAB-01"
+  }
+ ],
+ "HIHI-41KH-TAB-1-EEA": [
+  {
+   "brand": "Hihi",
+   "device": "HIHI-41KH-TAB-1-EEA",
+   "model": "HIHI-41KH-TAB-1-EEA"
   }
  ],
  "A19": [
@@ -75916,13 +75918,13 @@
  "SMART HD": [
   {
    "brand": "Infinix",
-   "device": "Infinix-X612B",
-   "model": "Infinix X612B"
-  },
-  {
-   "brand": "Tecno",
    "device": "Infinix-X612",
    "model": "Infinix X612"
+  },
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X612B",
+   "model": "Infinix X612B"
   }
  ],
  "SURF 2": [
@@ -107642,7 +107644,7 @@
   {
    "brand": "Motorola",
    "device": "SW4H",
-   "model": "FlipkartTV-20AE"
+   "model": "FlipkartTV"
   }
  ],
  "Flipout": [
@@ -109138,6 +109140,18 @@
    "brand": "Motorola",
    "device": "pokerp",
    "model": "moto e(6s)"
+  }
+ ],
+ "moto g 5G": [
+  {
+   "brand": "Motorola",
+   "device": "kiev",
+   "model": "moto g 5G"
+  },
+  {
+   "brand": "Motorola",
+   "device": "kiev",
+   "model": "motorola edge"
   }
  ],
  "moto g 5G plus": [

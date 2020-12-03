@@ -11134,6 +11134,13 @@
    "model": "GAP YOQ"
   }
  ],
+ "GAPYOQ": [
+  {
+   "brand": "Artel",
+   "name": "GAPYOQ",
+   "model": "GAP"
+  }
+ ],
  "Starpad": [
   {
    "brand": "Artel",
@@ -52088,28 +52095,6 @@
    "model": "HTC 5G Hub"
   }
  ],
- "htc_srcdugl": [
-  {
-   "brand": "HTC",
-   "name": "HTC Desire 12+",
-   "model": "2Q9U100"
-  },
-  {
-   "brand": "HTC",
-   "name": "HTC Desire 12+",
-   "model": "HTC Desire 20+"
-  },
-  {
-   "brand": "HTC",
-   "name": "HTC Desire 20+",
-   "model": "2Q9U100"
-  },
-  {
-   "brand": "HTC",
-   "name": "HTC Desire 20+",
-   "model": "HTC Desire 20+"
-  }
- ],
  "htc_zddugl": [
   {
    "brand": "HTC",
@@ -52120,6 +52105,18 @@
    "brand": "HTC",
    "name": "HTC Desire 19s",
    "model": "HTC Desire 19s"
+  }
+ ],
+ "htc_srcdugl": [
+  {
+   "brand": "HTC",
+   "name": "HTC Desire 20+",
+   "model": "2Q9U100"
+  },
+  {
+   "brand": "HTC",
+   "name": "HTC Desire 20+",
+   "model": "HTC Desire 20+"
   }
  ],
  "htc_bre2pdugl": [
@@ -55378,6 +55375,13 @@
    "brand": "Hihi",
    "name": "HIHI-40KH-TAB-01",
    "model": "HIHI-40KH-TAB-01"
+  }
+ ],
+ "HIHI-41KH-TAB-1-EEA": [
+  {
+   "brand": "Hihi",
+   "name": "HIHI-41KH-TAB-1-EEA",
+   "model": "HIHI-41KH-TAB-1-EEA"
   }
  ],
  "A19": [
@@ -72052,6 +72056,13 @@
    "brand": "Infinix",
    "name": "SMART 5",
    "model": "Infinix X657C"
+  }
+ ],
+ "Infinix-X612": [
+  {
+   "brand": "Infinix",
+   "name": "SMART HD",
+   "model": "Infinix X612"
   }
  ],
  "Infinix-X612B": [
@@ -106545,7 +106556,7 @@
   {
    "brand": "Motorola",
    "name": "FlipkartTV",
-   "model": "FlipkartTV-20AE"
+   "model": "FlipkartTV"
   },
   {
    "brand": "Panasonic",
@@ -108101,6 +108112,18 @@
    "brand": "Motorola",
    "name": "moto e6 play",
    "model": "moto e6 play"
+  }
+ ],
+ "kiev": [
+  {
+   "brand": "Motorola",
+   "name": "moto g 5G",
+   "model": "moto g 5G"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g 5G",
+   "model": "motorola edge"
   }
  ],
  "nairo": [
@@ -169356,13 +169379,6 @@
    "brand": "Tecno",
    "name": "SA6",
    "model": "TECNO SA6S"
-  }
- ],
- "Infinix-X612": [
-  {
-   "brand": "Tecno",
-   "name": "SMART HD",
-   "model": "Infinix X612"
   }
  ],
  "TECNO-K7": [
