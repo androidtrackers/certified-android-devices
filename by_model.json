@@ -775,7 +775,7 @@
   },
   {
    "brand": "Changhong",
-   "name": "Central America",
+   "name": "Korea",
    "device": "sindorim"
   },
   {
@@ -6218,6 +6218,13 @@
    "brand": "AllView",
    "name": "Viva H1003 LTE PRO",
    "device": "H1003_LTE_PRO"
+  }
+ ],
+ "H1003_LTE_PRO1": [
+  {
+   "brand": "AllView",
+   "name": "Viva H1003 LTE PRO/1",
+   "device": "H1003_LTE_PRO1"
   }
  ],
  "VivaH7LTE": [
@@ -17814,6 +17821,13 @@
    "brand": "Benesse",
    "name": "TAB-A03-BS",
    "device": "TAB-A03-BS"
+  }
+ ],
+ "TAB-A05-BD": [
+  {
+   "brand": "Benesse",
+   "name": "TAB-A05-BD",
+   "device": "TAB-A05-BD"
   }
  ],
  "TAB-BEG-01": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-12-03
+Last sync is 2020-12-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -731,6 +731,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|Viva H1001 LTE|Viva_H1001_LTE|Viva_H1001_LTE|
 |AllView|Viva H1002 LTE|Viva_H1002_LTE|Viva_H1002_LTE|
 |AllView|Viva H1003 LTE PRO|H1003_LTE_PRO|H1003_LTE_PRO|
+|AllView|Viva H1003 LTE PRO/1|H1003_LTE_PRO1|H1003_LTE_PRO1|
 |AllView|Viva H7 LTE|Allview_VivaH7LTE_KK|VivaH7LTE|
 |AllView|Viva H8 LTE|Allview_VivaH8LTE_KK|VivaH8LTE|
 |AllView|Viva H8 Life|H8_Life|H8_Life|
@@ -2378,6 +2379,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|laoshan_BenQ|laoshan|BENQANDROIDTV|
 |Benesse|TAB-A03-BR|TAB-A03-BR|TAB-A03-BR|
 |Benesse|TAB-A03-BS|TAB-A03-BS|TAB-A03-BS|
+|Benesse|TAB-A05-BD|TAB-A05-BD|TAB-A05-BD|
 |Benesse|TAB-BEG-01|beg01|TAB-BEG-01|
 |Beneve|M7133|M7133|M7133|
 |Beneve|M7133E|M7133E|M7133E|
@@ -3286,9 +3288,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CenturyLink|PureTV|ctl_iptv_mrvl|CTLPlayer|
 |CenturyLink|PureTV|ctl_iptv_mrvl|S60CLI|
 |Chanbly|q7|q7|q7|
-|Changhong|Central America|sindorim|AI PONT|
 |Changhong|GIU6060|GIU6060|GIU6060|
 |Changhong|GIU6860|GIU6860|GIU6860|
+|Changhong|Korea|sindorim|AI PONT|
 |Changhong|L32H7|ikebukuro|AI PONT|
 |Changhong|L32H7|ikebukuro|CHiQ AI Center|
 |Changhong|L42G6F|ikebukuro|AI PONT|

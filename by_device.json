@@ -4975,7 +4975,7 @@
   },
   {
    "brand": "Changhong",
-   "name": "Central America",
+   "name": "Korea",
    "model": "AI PONT"
   },
   {
@@ -6739,6 +6739,13 @@
    "brand": "AllView",
    "name": "Viva H1003 LTE PRO",
    "model": "H1003_LTE_PRO"
+  }
+ ],
+ "H1003_LTE_PRO1": [
+  {
+   "brand": "AllView",
+   "name": "Viva H1003 LTE PRO/1",
+   "model": "H1003_LTE_PRO1"
   }
  ],
  "Allview_VivaH7LTE_KK": [
@@ -18840,6 +18847,13 @@
    "brand": "Benesse",
    "name": "TAB-A03-BS",
    "model": "TAB-A03-BS"
+  }
+ ],
+ "TAB-A05-BD": [
+  {
+   "brand": "Benesse",
+   "name": "TAB-A05-BD",
+   "model": "TAB-A05-BD"
   }
  ],
  "beg01": [

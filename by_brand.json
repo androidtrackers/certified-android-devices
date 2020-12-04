@@ -3791,6 +3791,11 @@
    "model": "H1003_LTE_PRO"
   },
   {
+   "device": "H1003_LTE_PRO1",
+   "name": "Viva H1003 LTE PRO/1",
+   "model": "H1003_LTE_PRO1"
+  },
+  {
    "device": "Allview_VivaH7LTE_KK",
    "name": "Viva H7 LTE",
    "model": "VivaH7LTE"
@@ -12206,6 +12211,11 @@
    "model": "TAB-A03-BS"
   },
   {
+   "device": "TAB-A05-BD",
+   "name": "TAB-A05-BD",
+   "model": "TAB-A05-BD"
+  },
+  {
    "device": "beg01",
    "name": "TAB-BEG-01",
    "model": "TAB-BEG-01"
@@ -16982,11 +16992,6 @@
  ],
  "Changhong": [
   {
-   "device": "sindorim",
-   "name": "Central America",
-   "model": "AI PONT"
-  },
-  {
    "device": "GIU6060",
    "name": "GIU6060",
    "model": "GIU6060"
@@ -16995,6 +17000,11 @@
    "device": "GIU6860",
    "name": "GIU6860",
    "model": "GIU6860"
+  },
+  {
+   "device": "sindorim",
+   "name": "Korea",
+   "model": "AI PONT"
   },
   {
    "device": "ikebukuro",

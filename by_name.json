@@ -11688,6 +11688,13 @@
    "model": "H1003_LTE_PRO"
   }
  ],
+ "Viva H1003 LTE PRO/1": [
+  {
+   "brand": "AllView",
+   "device": "H1003_LTE_PRO1",
+   "model": "H1003_LTE_PRO1"
+  }
+ ],
  "Viva H7 LTE": [
   {
    "brand": "AllView",
@@ -23407,6 +23414,13 @@
    "model": "TAB-A03-BS"
   }
  ],
+ "TAB-A05-BD": [
+  {
+   "brand": "Benesse",
+   "device": "TAB-A05-BD",
+   "model": "TAB-A05-BD"
+  }
+ ],
  "TAB-BEG-01": [
   {
    "brand": "Benesse",
@@ -30571,23 +30585,6 @@
    "model": "q7"
   }
  ],
- "Central America": [
-  {
-   "brand": "Changhong",
-   "device": "sindorim",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Durabrand",
-   "device": "hanyang",
-   "model": "Durabrand 4K Android TV"
-  },
-  {
-   "brand": "Durabrand",
-   "device": "nippori",
-   "model": "Durabrand 2K Android TV"
-  }
- ],
  "GIU6060": [
   {
    "brand": "Changhong",
@@ -30600,6 +30597,13 @@
    "brand": "Changhong",
    "device": "GIU6860",
    "model": "GIU6860"
+  }
+ ],
+ "Korea": [
+  {
+   "brand": "Changhong",
+   "device": "sindorim",
+   "model": "AI PONT"
   }
  ],
  "L32H7": [
@@ -41920,6 +41924,18 @@
    "brand": "Dunns",
    "device": "Smarty_II",
    "model": "Smarty_II"
+  }
+ ],
+ "Central America": [
+  {
+   "brand": "Durabrand",
+   "device": "hanyang",
+   "model": "Durabrand 4K Android TV"
+  },
+  {
+   "brand": "Durabrand",
+   "device": "nippori",
+   "model": "Durabrand 2K Android TV"
   }
  ],
  "D601L": [
