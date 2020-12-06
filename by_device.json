@@ -1583,6 +1583,13 @@
    "model": "Vortech 3.0"
   }
  ],
+ "MID_1089IPS_EEA": [
+  {
+   "brand": "AWOW",
+   "name": "MID_1089IPS_EEA",
+   "model": "MID_1089IPS_EEA"
+  }
+ ],
  "AXXA_S45": [
   {
    "brand": "AXXA",
@@ -4658,6 +4665,20 @@
    "brand": "Advance",
    "name": "Tr4986",
    "model": "ADVANCE"
+  }
+ ],
+ "TR5994": [
+  {
+   "brand": "Advance",
+   "name": "TR5994",
+   "model": "TR5994"
+  }
+ ],
+ "TR7988": [
+  {
+   "brand": "Advance",
+   "name": "TR7988",
+   "model": "TR7988"
   }
  ],
  "Tr3946": [
@@ -11535,6 +11556,73 @@
    "model": "AS6"
   }
  ],
+ "R9": [
+  {
+   "brand": "Aspera",
+   "name": "ASPERA R9",
+   "model": "ASPERA_R9"
+  },
+  {
+   "brand": "Oppo",
+   "name": "R9",
+   "model": "OPPO R9"
+  },
+  {
+   "brand": "Oppo",
+   "name": "R9",
+   "model": "OPPO R9km"
+  },
+  {
+   "brand": "Oppo",
+   "name": "R9",
+   "model": "OPPO R9m"
+  },
+  {
+   "brand": "Oppo",
+   "name": "R9",
+   "model": "OPPO R9tm"
+  },
+  {
+   "brand": "Oppo",
+   "name": "R9k",
+   "model": "OPPO R9k"
+  },
+  {
+   "brand": "Oppo",
+   "name": "R9k",
+   "model": "OPPO R9km"
+  },
+  {
+   "brand": "Oppo",
+   "name": "R9k",
+   "model": "OPPO R9m"
+  },
+  {
+   "brand": "Oppo",
+   "name": "R9k",
+   "model": "OPPO R9tm"
+  },
+  {
+   "brand": "Oppo",
+   "name": "R9km",
+   "model": "OPPO R9km"
+  },
+  {
+   "brand": "Oppo",
+   "name": "R9m",
+   "model": "OPPO R9m"
+  },
+  {
+   "brand": "Oppo",
+   "name": "R9t",
+   "model": "OPPO R9t"
+  },
+  {
+   "brand": "Oppo",
+   "name": "R9tm",
+   "model": "OPPO R9tm"
+  }
+ ],
  "Aspera_Swift": [
   {
    "brand": "Aspera",
@@ -15821,6 +15909,13 @@
    "model": "K109"
   }
  ],
+ "M80_EEA": [
+  {
+   "brand": "BEISTA",
+   "name": "M80_EEA",
+   "model": "M80_EEA"
+  }
+ ],
  "T30-EEA": [
   {
    "brand": "BEISTA",
@@ -16024,6 +16119,13 @@
    "model": "BlackTAB7"
   }
  ],
+ "BlackTab7_3G_V2": [
+  {
+   "brand": "BLOW",
+   "name": "BlackTab7_3G_V2",
+   "model": "BlackTab7_3G_V2"
+  }
+ ],
  "KidsTAB7": [
   {
    "brand": "BLOW",
@@ -16043,6 +16145,13 @@
    "brand": "BLOW",
    "name": "PlatinumTAB10",
    "model": "PlatinumTAB10"
+  }
+ ],
+ "PlatinumTAB10_4G_V1": [
+  {
+   "brand": "BLOW",
+   "name": "PlatinumTAB10_4G_V1",
+   "model": "PlatinumTAB10_4G_V1"
   }
  ],
  "PlatinumTAB10_4G_V2": [
@@ -20502,6 +20611,13 @@
    "model": "SA 2K TV"
   }
  ],
+ "OT16": [
+  {
+   "brand": "Blaupunkt",
+   "name": "OT16",
+   "model": "OT16"
+  }
+ ],
  "OT19": [
   {
    "brand": "Blaupunkt",
@@ -21009,6 +21125,11 @@
  "D10": [
   {
    "brand": "Blu",
+   "name": "D10",
+   "model": "D10"
+  },
+  {
+   "brand": "UNIQ-CELL",
    "name": "D10",
    "model": "D10"
   }
@@ -33059,6 +33180,13 @@
    "model": "Konnect_607"
   }
  ],
+ "Konnect_608": [
+  {
+   "brand": "Danew",
+   "name": "Konnect_608",
+   "model": "Konnect_608"
+  }
+ ],
  "Surnaturel_R500": [
   {
    "brand": "Danew",
@@ -44668,6 +44796,13 @@
    "brand": "Vu Televisions",
    "name": "xiaoyushan-vu",
    "model": "HiSmartTV A4"
+  }
+ ],
+ "SPEED_2021": [
+  {
+   "brand": "G-TOUCH",
+   "name": "SPEED_2021",
+   "model": "SPEED_2021"
   }
  ],
  "Stella_Omega_Plus": [
@@ -71097,6 +71232,13 @@
    "model": "IX1011"
   }
  ],
+ "IX1012": [
+  {
+   "brand": "IXTECH",
+   "name": "IX1012",
+   "model": "IX1012"
+  }
+ ],
  "IX701": [
   {
    "brand": "IXTECH",
@@ -73141,6 +73283,13 @@
    "brand": "Innjoo",
    "name": "F102",
    "model": "F102"
+  }
+ ],
+ "F106_Plus": [
+  {
+   "brand": "Innjoo",
+   "name": "F106_Plus",
+   "model": "F106_Plus"
   }
  ],
  "F702": [
@@ -77427,6 +77576,13 @@
    "model": "BTA700"
   }
  ],
+ "T650": [
+  {
+   "brand": "KIRISUN",
+   "name": "KIRISUN T650",
+   "model": "T650"
+  }
+ ],
  "KPAU04": [
   {
    "brand": "KISA phone",
@@ -77756,6 +77912,13 @@
    "brand": "Kaicom",
    "name": "K901",
    "model": "K901"
+  }
+ ],
+ "W660": [
+  {
+   "brand": "Kaicom",
+   "name": "KAICOM W660",
+   "model": "W660"
   }
  ],
  "BLACK_PRO": [
@@ -90147,6 +90310,11 @@
    "brand": "PATTERS",
    "name": "P7",
    "model": "P7"
+  },
+  {
+   "brand": "Pritom",
+   "name": "P7",
+   "model": "P7"
   }
  ],
  "P7plus": [
@@ -98979,6 +99147,13 @@
    "brand": "MOVISUN",
    "name": "TAB-S1",
    "model": "TAB-S1"
+  }
+ ],
+ "P50-EEA": [
+  {
+   "brand": "MOXNICE",
+   "name": "P50-EEA",
+   "model": "P50-EEA"
   }
  ],
  "P50-ROW": [
@@ -112931,6 +113106,13 @@
    "model": "M002N"
   }
  ],
+ "M002U_2T": [
+  {
+   "brand": "Necnon",
+   "name": "M002U_2T",
+   "model": "M002U-2T"
+  }
+ ],
  "M002N-3T": [
   {
    "brand": "Necnon",
@@ -117665,68 +117847,6 @@
    "brand": "Oppo",
    "name": "R850",
    "model": "R850"
-  }
- ],
- "R9": [
-  {
-   "brand": "Oppo",
-   "name": "R9",
-   "model": "OPPO R9"
-  },
-  {
-   "brand": "Oppo",
-   "name": "R9",
-   "model": "OPPO R9km"
-  },
-  {
-   "brand": "Oppo",
-   "name": "R9",
-   "model": "OPPO R9m"
-  },
-  {
-   "brand": "Oppo",
-   "name": "R9",
-   "model": "OPPO R9tm"
-  },
-  {
-   "brand": "Oppo",
-   "name": "R9k",
-   "model": "OPPO R9k"
-  },
-  {
-   "brand": "Oppo",
-   "name": "R9k",
-   "model": "OPPO R9km"
-  },
-  {
-   "brand": "Oppo",
-   "name": "R9k",
-   "model": "OPPO R9m"
-  },
-  {
-   "brand": "Oppo",
-   "name": "R9k",
-   "model": "OPPO R9tm"
-  },
-  {
-   "brand": "Oppo",
-   "name": "R9km",
-   "model": "OPPO R9km"
-  },
-  {
-   "brand": "Oppo",
-   "name": "R9m",
-   "model": "OPPO R9m"
-  },
-  {
-   "brand": "Oppo",
-   "name": "R9t",
-   "model": "OPPO R9t"
-  },
-  {
-   "brand": "Oppo",
-   "name": "R9tm",
-   "model": "OPPO R9tm"
   }
  ],
  "R9PlusA": [
@@ -126371,6 +126491,11 @@
   }
  ],
  "HP10A11W": [
+  {
+   "brand": "Prestigio",
+   "name": "PMT3104_Wi_D_EEA",
+   "model": "PMT3104_Wi_D_EEA"
+  },
   {
    "brand": "Prestigio",
    "name": "PMT3104_Wi_D_RU",
@@ -159216,6 +159341,13 @@
    "model": "SUGAR S20s"
   }
  ],
+ "SUGAR_S50": [
+  {
+   "brand": "Sugar",
+   "name": "SUGAR S50",
+   "model": "SUGAR S50"
+  }
+ ],
  "p312cs_tw": [
   {
    "brand": "Sugar",
@@ -167750,6 +167882,13 @@
    "model": "P101-EEA"
   }
  ],
+ "T12-EEA": [
+  {
+   "brand": "TOSCIDO",
+   "name": "T12-EEA",
+   "model": "T12-EEA"
+  }
+ ],
  "T13-EEA": [
   {
    "brand": "TOSCIDO",
@@ -168647,6 +168786,13 @@
    "brand": "Tesla",
    "name": "P80X_ROW",
    "model": "P80X"
+  }
+ ],
+ "P80_EEA": [
+  {
+   "brand": "Teclast",
+   "name": "P80_EEA",
+   "model": "P80_EEA"
   }
  ],
  "P80h_EEA": [
@@ -173638,6 +173784,13 @@
    "brand": "Unistrong",
    "name": "UT30_EEA",
    "model": "UT30"
+  }
+ ],
+ "UT56": [
+  {
+   "brand": "Unistrong",
+   "name": "UT56",
+   "model": "UT56"
   }
  ],
  "EA320": [
@@ -178741,6 +178894,13 @@
    "model": "Vodafone TV"
   }
  ],
+ "X100_EEA": [
+  {
+   "brand": "Voger",
+   "name": "X100_EEA",
+   "model": "X100_EEA"
+  }
+ ],
  "VOLT_SV451_Vision": [
   {
    "brand": "Volt Mobile",
@@ -181179,6 +181339,11 @@
    "brand": "Wiko",
    "name": "Sunny5",
    "model": "W-K380-TVM"
+  },
+  {
+   "brand": "Wiko",
+   "name": "Sunny5",
+   "model": "W-K380-TVM2G"
   }
  ],
  "W-K211": [
@@ -181186,6 +181351,11 @@
    "brand": "Wiko",
    "name": "Sunny5 Lite",
    "model": "W-K211-TVM"
+  },
+  {
+   "brand": "Wiko",
+   "name": "Y51",
+   "model": "W-K211-EEA"
   }
  ],
  "P4901AC": [
@@ -184019,6 +184189,13 @@
    "model": "TAB_101"
   }
  ],
+ "M60_EEA": [
+  {
+   "brand": "YOTOPT",
+   "name": "M60_EEA",
+   "model": "M60_EEA"
+  }
+ ],
  "X109": [
   {
    "brand": "YOTOPT",
@@ -184031,6 +184208,13 @@
    "brand": "YOTOPT",
    "name": "Y3-EEA",
    "model": "Y3-EEA"
+  }
+ ],
+ "Y5-EEA": [
+  {
+   "brand": "YOTOPT",
+   "name": "Y5-EEA",
+   "model": "Y5-EEA"
   }
  ],
  "B9000": [
@@ -192751,6 +192935,13 @@
    "brand": "ZUOPU",
    "name": "JH786",
    "model": "JH786"
+  }
+ ],
+ "JH863": [
+  {
+   "brand": "ZUOPU",
+   "name": "JH863",
+   "model": "JH863"
   }
  ],
  "Z3211G": [
