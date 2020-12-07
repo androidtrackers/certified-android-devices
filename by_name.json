@@ -6647,6 +6647,20 @@
    "model": "A831L-D"
   }
  ],
+ "Q10107L-ME": [
+  {
+   "brand": "AOC",
+   "device": "Q10107L-ME",
+   "model": "Q10107L-ME"
+  }
+ ],
+ "Q10107LW-ME": [
+  {
+   "brand": "AOC",
+   "device": "Q10107LW-ME",
+   "model": "Q10107LW-ME"
+  }
+ ],
  "\"RK3288 10\"\" Chromebase\"": [
   {
    "brand": "AOpen",
@@ -12185,6 +12199,13 @@
    "brand": "Alldocube",
    "device": "iPlay_20",
    "model": "iPlay_20"
+  }
+ ],
+ "iPlay_30": [
+  {
+   "brand": "Alldocube",
+   "device": "T1012",
+   "model": "iPlay_30"
   }
  ],
  "M721": [
@@ -21374,6 +21395,13 @@
    "model": "B55"
   }
  ],
+ "B60Pro_MV03": [
+  {
+   "brand": "BMobile",
+   "device": "B60Pro_MV03",
+   "model": "B60Pro_MV03"
+  }
+ ],
  "Bella": [
   {
    "brand": "BMobile",
@@ -21846,6 +21874,13 @@
    "brand": "BQru",
    "device": "BQ-5046L",
    "model": "BQ-5046L"
+  }
+ ],
+ "BQ-5047L": [
+  {
+   "brand": "BQru",
+   "device": "BQru-5047L",
+   "model": "BQ-5047L"
   }
  ],
  "BQ-5056 Fresh": [
@@ -24657,11 +24692,25 @@
    "model": "BV4900"
   }
  ],
+ "BV4900Pro": [
+  {
+   "brand": "Blackview",
+   "device": "BV4900Pro",
+   "model": "BV4900Pro"
+  }
+ ],
  "BV5100": [
   {
    "brand": "Blackview",
    "device": "BV5100",
    "model": "BV5100"
+  }
+ ],
+ "BV5100Pro": [
+  {
+   "brand": "Blackview",
+   "device": "BV5100Pro",
+   "model": "BV5100Pro"
   }
  ],
  "BV5500": [
@@ -29100,6 +29149,13 @@
    "brand": "CP Plus",
    "device": "CP-MUD-M721",
    "model": "CP-MUD-M721"
+  }
+ ],
+ "C10G": [
+  {
+   "brand": "CWOWDEFU",
+   "device": "C10G",
+   "model": "C10G"
   }
  ],
  "CX9011": [
@@ -37324,6 +37380,13 @@
    "model": "Q210"
   }
  ],
+ "Q280": [
+  {
+   "brand": "DEXP",
+   "device": "Q280",
+   "model": "Q280"
+  }
+ ],
  "Q310": [
   {
    "brand": "DEXP",
@@ -38810,6 +38873,13 @@
    "brand": "Digi",
    "device": "Digi_R2",
    "model": "Digi R2"
+  }
+ ],
+ "Digi_K2_EEA": [
+  {
+   "brand": "Digi",
+   "device": "Digi_K2",
+   "model": "Digi K2"
   }
  ],
  "10542843": [
@@ -52743,6 +52813,11 @@
   },
   {
    "brand": "OneClick",
+   "device": "X1",
+   "model": "X1"
+  },
+  {
+   "brand": "Phone Max",
    "device": "X1",
    "model": "X1"
   },
@@ -102159,6 +102234,13 @@
    "model": "MS459"
   }
  ],
+ "MS507_STRONG": [
+  {
+   "brand": "Maxcom",
+   "device": "MS507_STRONG",
+   "model": "MS507_STRONG"
+  }
+ ],
  "MS514": [
   {
    "brand": "Maxcom",
@@ -120143,6 +120225,13 @@
    "model": "WP6"
   }
  ],
+ "WP6_EEA": [
+  {
+   "brand": "Oukitel",
+   "device": "WP6",
+   "model": "WP6"
+  }
+ ],
  "WP7": [
   {
    "brand": "Oukitel",
@@ -120170,6 +120259,13 @@
   }
  ],
  "Y4800": [
+  {
+   "brand": "Oukitel",
+   "device": "Y4800",
+   "model": "Y4800"
+  }
+ ],
+ "Y4800_EEA": [
   {
    "brand": "Oukitel",
    "device": "Y4800",
@@ -123012,6 +123108,13 @@
    "brand": "Philco",
    "device": "Hit_P10",
    "model": "Hit P10"
+  }
+ ],
+ "Hit P6": [
+  {
+   "brand": "Philco",
+   "device": "Hit_P6",
+   "model": "Hit P6"
   }
  ],
  "PCS01": [
@@ -126950,6 +127053,13 @@
    "brand": "Prestigio",
    "device": "PN80A03G",
    "model": "PMT3208_3G"
+  }
+ ],
+ "PMT3231_4G_D_EEA": [
+  {
+   "brand": "Prestigio",
+   "device": "HP10A12L",
+   "model": "PMT3231_4G_D_EEA"
   }
  ],
  "PMT3231_4G_D_RU": [
@@ -132649,6 +132759,13 @@
    "model": "E5501"
   }
  ],
+ "STS502": [
+  {
+   "brand": "SAIET",
+   "device": "STS502",
+   "model": "STS502"
+  }
+ ],
  "STS550": [
   {
    "brand": "SAIET",
@@ -133272,6 +133389,13 @@
    "brand": "koobee",
    "device": "Koobee_S19",
    "model": "S19"
+  }
+ ],
+ "SMART  2": [
+  {
+   "brand": "SPC Mobile",
+   "device": "SMART_2",
+   "model": "SMART 2"
   }
  ],
  "SPC GEN": [
@@ -134542,6 +134666,11 @@
    "brand": "Samsung",
    "device": "a02q",
    "model": "SM-A025F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a02q",
+   "model": "SM-A025M"
   }
  ],
  "Galaxy A10": [
@@ -134650,6 +134779,18 @@
    "brand": "Samsung",
    "device": "a11q",
    "model": "SM-A115W"
+  }
+ ],
+ "Galaxy A12": [
+  {
+   "brand": "Samsung",
+   "device": "a12",
+   "model": "SM-A125F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a12",
+   "model": "SM-A125M"
   }
  ],
  "Galaxy A2 Core": [
@@ -151294,6 +151435,11 @@
  "Elite A5": [
   {
    "brand": "Sky Devices",
+   "device": "BITA_5",
+   "model": "Elite A5"
+  },
+  {
+   "brand": "Sky Devices",
    "device": "Elite_A5",
    "model": "Elite A5"
   },
@@ -156234,6 +156380,13 @@
    "brand": "Starlight",
    "device": "star_plus_plus",
    "model": "star_plus_plus"
+  }
+ ],
+ "star_two": [
+  {
+   "brand": "Starlight",
+   "device": "star_two",
+   "model": "star_two"
   }
  ],
  "IC1130": [
@@ -165615,6 +165768,13 @@
    "model": "T13-EEA"
   }
  ],
+ "T15": [
+  {
+   "brand": "TOSCIDO",
+   "device": "T15",
+   "model": "T15"
+  }
+ ],
  "T15-EEA": [
   {
    "brand": "TOSCIDO",
@@ -166356,6 +166516,13 @@
    "brand": "Teclast",
    "device": "M40_EEA",
    "model": "M40_EEA"
+  }
+ ],
+ "M40_ROW": [
+  {
+   "brand": "Teclast",
+   "device": "M40_ROW",
+   "model": "M40_ROW"
   }
  ],
  "P10HD_N5H6": [
@@ -167732,6 +167899,18 @@
    "brand": "Tecno",
    "device": "TECNO-KC1",
    "model": "TECNO KC1"
+  }
+ ],
+ "TECNO Tab": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-P704",
+   "model": "TECNO P704"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-P704a",
+   "model": "TECNO P704a"
   }
  ],
  "TECNO W5": [
@@ -171137,6 +171316,13 @@
   {
    "brand": "Umidigi",
    "device": "A9_Pro_128GB",
+   "model": "A9 Pro"
+  }
+ ],
+ "A9 Pro_EEA": [
+  {
+   "brand": "Umidigi",
+   "device": "A9_Pro",
    "model": "A9 Pro"
   }
  ],
@@ -178657,6 +178843,13 @@
    "model": "PULP FAB 4G"
   }
  ],
+ "Power U20": [
+  {
+   "brand": "Wiko",
+   "device": "W-V750BN",
+   "model": "W-V750BN-TVM"
+  }
+ ],
  "RAINBOW 4G": [
   {
    "brand": "Wiko",
@@ -181918,6 +182111,13 @@
    "model": "Y5-EEA"
   }
  ],
+ "YQ11": [
+  {
+   "brand": "YQSVAIOR",
+   "device": "YQ11",
+   "model": "YQ11"
+  }
+ ],
  "B9000": [
   {
    "brand": "YSFEN",
@@ -182385,6 +182585,13 @@
    "brand": "Yumpingo",
    "device": "YUMPINGO_1",
    "model": "YUMPINGO_1"
+  }
+ ],
+ "ZXT-10FL323G-PRO": [
+  {
+   "brand": "ZAMOLXE",
+   "device": "ZXT-10FL323G-PRO",
+   "model": "ZXT-10FL323G-PRO"
   }
  ],
  "C-601": [
