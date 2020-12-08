@@ -9418,6 +9418,13 @@
    "model": "G5"
   }
  ],
+ "G5 Elite": [
+  {
+   "brand": "Advan digital",
+   "device": "ADVAN_G5_Elite",
+   "model": "6003"
+  }
+ ],
  "G9": [
   {
    "brand": "Advan digital",
@@ -24669,6 +24676,11 @@
    "brand": "Blackview",
    "device": "A9_Pro",
    "model": "A9_Pro"
+  },
+  {
+   "brand": "Umidigi",
+   "device": "A9_Pro",
+   "model": "A9 Pro"
   }
  ],
  "BV4000": [
@@ -44808,6 +44820,13 @@
    "model": "MID7399_BM"
   }
  ],
+ "MID7399_HP": [
+  {
+   "brand": "Estar",
+   "device": "MID7399_HP",
+   "model": "MID7399_HP"
+  }
+ ],
  "MID7399_SD": [
   {
    "brand": "Estar",
@@ -45372,6 +45391,13 @@
    "brand": "Everis",
    "device": "E0114",
    "model": "E0114"
+  }
+ ],
+ "E0115": [
+  {
+   "brand": "Everis",
+   "device": "E0115",
+   "model": "E0115"
   }
  ],
  "E0117": [
@@ -49706,6 +49732,13 @@
    "model": "N271"
   }
  ],
+ "N281": [
+  {
+   "brand": "G-Tab",
+   "device": "N281",
+   "model": "N281"
+  }
+ ],
  "P2000": [
   {
    "brand": "G-Tab",
@@ -50023,6 +50056,13 @@
    "brand": "GREATASIA",
    "device": "E101GCM",
    "model": "E101GCM"
+  }
+ ],
+ "ET103G": [
+  {
+   "brand": "GREATASIA",
+   "device": "ET103G",
+   "model": "ET103G"
   }
  ],
  "GS6100": [
@@ -60202,6 +60242,13 @@
    "brand": "Hi TFG",
    "device": "Spitfire",
    "model": "Spitfire"
+  }
+ ],
+ "Boost Ultra": [
+  {
+   "brand": "Hi-online",
+   "device": "Boost_Ultra",
+   "model": "Boost Ultra"
   }
  ],
  "HMR5450": [
@@ -73915,6 +73962,13 @@
    "model": "E602"
   }
  ],
+ "E603": [
+  {
+   "brand": "Hyundai",
+   "device": "E603",
+   "model": "E603"
+  }
+ ],
  "Eternity A24": [
   {
    "brand": "Hyundai",
@@ -80016,6 +80070,13 @@
    "brand": "Itel",
    "device": "itel-W6503",
    "model": "itel W6503"
+  }
+ ],
+ "itel S16 Pro（Vision 2）": [
+  {
+   "brand": "Itel",
+   "device": "itel-L6503",
+   "model": "itel L6503"
   }
  ],
  "itel S32LTE": [
@@ -93117,6 +93178,13 @@
    "model": "A97 2GB PLUS"
   }
  ],
+ "BE_U": [
+  {
+   "brand": "Lava",
+   "device": "Be_U",
+   "model": "Lava Be_U"
+  }
+ ],
  "ERA 1X": [
   {
    "brand": "Lava",
@@ -100787,6 +100855,13 @@
    "brand": "MGS",
    "device": "komagome",
    "model": "MGS 2K Android TV"
+  }
+ ],
+ "TRECFONE_A21S": [
+  {
+   "brand": "MHL Mobile Company",
+   "device": "TRECFONE_A21S",
+   "model": "TRECFONE_A21S"
   }
  ],
  "MINIX NEO T5": [
@@ -134221,6 +134296,13 @@
    "model": "SWTV-20AE"
   }
  ],
+ "SWTV-20HK": [
+  {
+   "brand": "SWTV",
+   "device": "SW4H",
+   "model": "SWTV-20HK"
+  }
+ ],
  "SWTV-20N": [
   {
    "brand": "SWTV",
@@ -134283,6 +134365,13 @@
    "brand": "SYLVANIA",
    "device": "SLTDVD9220-C",
    "model": "SLTDVD9220-C"
+  }
+ ],
+ "KIDS05-X5": [
+  {
+   "brand": "SZSUPER",
+   "device": "KIDS05-X5",
+   "model": "KIDS05-X5"
   }
  ],
  "NEON LITE": [
@@ -147828,6 +147917,13 @@
    "model": "SAN-8487"
   }
  ],
+ "Mexio": [
+  {
+   "brand": "Sansui",
+   "device": "yeongdeungpo",
+   "model": "AiPlus4K"
+  }
+ ],
  "Nitro": [
   {
    "brand": "Sansui",
@@ -158230,7 +158326,7 @@
    "model": "T766U_EEA"
   }
  ],
- "TCL 10 TAB MAX 4G": [
+ "TCL 10 TABMAX 4G": [
   {
    "brand": "TCL",
    "device": "Transformer_4G",
@@ -158254,6 +158350,13 @@
    "brand": "TCL",
    "device": "Austin",
    "model": "T671H"
+  }
+ ],
+ "TCL 20E": [
+  {
+   "brand": "TCL",
+   "device": "HONG_KONG",
+   "model": "6125F"
   }
  ],
  "TCL C5": [
@@ -158285,13 +158388,6 @@
    "brand": "TCL",
    "device": "Venice",
    "model": "5148I"
-  }
- ],
- "TCL I01": [
-  {
-   "brand": "TCL",
-   "device": "HONG_KONG",
-   "model": "6125F"
   }
  ],
  "TCL L10": [
@@ -161846,6 +161942,21 @@
   },
   {
    "brand": "TCT (Alcatel)",
+   "device": "HONG_KONG",
+   "model": "6025A"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "HONG_KONG",
+   "model": "6025D_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "HONG_KONG",
+   "model": "6025H_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
    "device": "Tokyo",
    "model": "5028A"
   },
@@ -162532,23 +162643,6 @@
    "brand": "TCT (Alcatel)",
    "device": "A5X",
    "model": "5060J"
-  }
- ],
- "Alcatel I01": [
-  {
-   "brand": "TCT (Alcatel)",
-   "device": "HONG_KONG",
-   "model": "6025A"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "device": "HONG_KONG",
-   "model": "6025D_EEA"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "device": "HONG_KONG",
-   "model": "6025H_EEA"
   }
  ],
  "Alcatel JOY TAB": [
@@ -165843,6 +165937,13 @@
    "brand": "TUFEN",
    "device": "Q718",
    "model": "Q718"
+  }
+ ],
+ "Q718A_EEA": [
+  {
+   "brand": "TUFEN",
+   "device": "TUFEN_Q718A",
+   "model": "Q718A"
   }
  ],
  "Q738": [
@@ -175078,6 +175179,13 @@
    "model": "V2029"
   }
  ],
+ "V2030": [
+  {
+   "brand": "Vivo",
+   "device": "2030",
+   "model": "V2030"
+  }
+ ],
  "V2031A": [
   {
    "brand": "Vivo",
@@ -175111,6 +175219,20 @@
    "brand": "Vivo",
    "device": "PD2036",
    "model": "V2036A"
+  }
+ ],
+ "V2042": [
+  {
+   "brand": "Vivo",
+   "device": "2026",
+   "model": "V2042"
+  }
+ ],
+ "V2043": [
+  {
+   "brand": "Vivo",
+   "device": "2026",
+   "model": "V2043"
   }
  ],
  "V2065A": [
@@ -176685,6 +176807,23 @@
    "brand": "Volt Mobile",
    "device": "VOLT_SV451_Vision",
    "model": "VOLT_SV451_Vision"
+  }
+ ],
+ "v7": [
+  {
+   "brand": "Volt Mobile",
+   "device": "v7",
+   "model": "v7"
+  },
+  {
+   "brand": "benco",
+   "device": "LE9920_P",
+   "model": "LE9920_P"
+  },
+  {
+   "brand": "vatenick",
+   "device": "v7",
+   "model": "v7"
   }
  ],
  "Volvo": [
@@ -182095,6 +182234,13 @@
    "brand": "YOTOPT",
    "device": "X109",
    "model": "X109"
+  }
+ ],
+ "Y103_EEA": [
+  {
+   "brand": "YOTOPT",
+   "device": "Y103_EEA",
+   "model": "Y103_EEA"
   }
  ],
  "Y3-EEA": [
@@ -191603,18 +191749,6 @@
    "brand": "benco",
    "device": "LH9921",
    "model": "LH9921"
-  }
- ],
- "v7": [
-  {
-   "brand": "benco",
-   "device": "LE9920_P",
-   "model": "LE9920_P"
-  },
-  {
-   "brand": "vatenick",
-   "device": "v7",
-   "model": "v7"
   }
  ],
  "S900Plus": [

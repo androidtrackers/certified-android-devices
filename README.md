@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-12-07
+Last sync is 2020-12-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -425,6 +425,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advan digital|G3|ADVAN_G3|6001|
 |Advan digital|G3 Pro|ADVAN_G3_Pro|6002|
 |Advan digital|G5|ADVAN_G5|6201|
+|Advan digital|G5 Elite|ADVAN_G5_Elite|6003|
 |Advan digital|G9|ADVAN_G9|6501|
 |Advan digital|I Tab|ADVAN_i_Tab|i7_Plus|
 |Advan digital|I55A|I55A|I55A|
@@ -5289,6 +5290,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Estar|MID1020L|MID1020L|MID1020L|
 |Estar|MID7399|MID7399|eSTAR BEAUTY 3 HD Quad core|
 |Estar|MID7399_BM|MID7399_BM|MID7399_BM|
+|Estar|MID7399_HP|MID7399_HP|MID7399_HP|
 |Estar|MID7399_SD|MID7399_SD|MID7399_SD|
 |Estar|MID7399_WW|MID7399_WW|MID7399_WW|
 |Estar|eSTAR BEAUTY 2 HD Quad core|MID7388|eSTAR BEAUTY 2 HD Quad core|
@@ -5363,6 +5365,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Everis|E0112|E0112|E0112|
 |Everis|E0113|E0113|E0113|
 |Everis|E0114|E0114|E0114|
+|Everis|E0115|E0115|E0115|
 |Everis|E0117|E0117|E0117|
 |Everpad|EW2021|EVERPAD-EW2021|EW2021|
 |Everpad|HappyKids|HappyKids|HappyKids|
@@ -5973,6 +5976,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Tab|G5|G5|G5|
 |G-Tab|G9|G9|G9|
 |G-Tab|N271|N271|N271|
+|G-Tab|N281|N281|N281|
 |G-Tab|P2000|P2000|P2000|
 |G-Tab|P7000|P7000|P7000|
 |G-Tab|P733|P733|P733|
@@ -6018,6 +6022,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GP-electronic|YC-3135D|YC-3135D|YC-3135D|
 |GREATASIA|E101GC4G|E101GC4G|E101GC4G|
 |GREATASIA|E101GCM|E101GCM|E101GCM|
+|GREATASIA|ET103G|ET103G|ET103G|
 |GRID Communications (SG)|GS6100|GRID_GS6100|GS6100|
 |GSmart|Akta A4|Akta_A4|Akta_A4|
 |GSmart|Aku A1|Aku_A1|GSmart Aku A1|
@@ -7597,6 +7602,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hi TFG|Boost Max|Boost_Max|Boost_Max|
 |Hi TFG|Crusader|Crusader|Crusader|
 |Hi TFG|Spitfire|Spitfire|Spitfire|
+|Hi-online|Boost Ultra|Boost_Ultra|Boost Ultra|
 |Hi-online|HMR5450|HMR5450|HMR5450|
 |HiMedia|S500|HiBox|S500|
 |HighScreen|Bay|Bay|Bay|
@@ -10157,6 +10163,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|E553|E553|E553|
 |Hyundai|E601F|E601F|E601F|
 |Hyundai|E602|E602|E602|
+|Hyundai|E603|E603|E603|
 |Hyundai|Eternity A24|A25024L|A25024L|
 |Hyundai|Eternity G22|G25022K|G25022K|
 |Hyundai|Eternity G23|G25523K|G25523K|
@@ -11103,6 +11110,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel Prime 4|itel_Prime4|itel Prime 4|
 |Itel|itel S12|itel-S12|itel S12|
 |Itel|itel S16 Pro|itel-W6503|itel W6503|
+|Itel|itel S16 Pro（Vision 2）|itel-L6503|itel L6503|
 |Itel|itel S32LTE|itel-S32LTE|itel S32LTE|
 |Itel|itel Vision1(P36 Play)|itel-L6005|itel L6005|
 |Itel|itel W4003|itel-W4003|itel W4003|
@@ -13374,6 +13382,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|A97|A97|A97 IPS|
 |Lava|A97 2GB|A97_2GB|A97 2GB|
 |Lava|A97 2GB Plus|A97_2GB_PLUS|A97 2GB PLUS|
+|Lava|BE_U|Be_U|Lava Be_U|
 |Lava|ERA 1X|era1X|era1X|
 |Lava|ERA 1X|era1X|era1Xpro|
 |Lava|Era 2X 3GB|XE2X3GB|Era 2X 3GB|
@@ -14685,6 +14694,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MG series|Any 303|TR10CD2_2|TR10CD2|
 |MG series|Any 303|TR10CD2_3|TR10CD2|
 |MGS|MGS|komagome|MGS 2K Android TV|
+|MHL Mobile Company|TRECFONE_A21S|TRECFONE_A21S|TRECFONE_A21S|
 |MINIX|MINIX NEO T5|DV8553|DV8553|
 |MIRAY|MIDM_737|MIDM_737|MIDM_737|
 |MIRAY|MIDM_F10|MIDM_F10|MIDM_F10|
@@ -20096,6 +20106,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SWTV|Europe|SW3H_ATV|SWTV|
 |SWTV|North America|SW3_ATV|SWTV|
 |SWTV|SWTV-20AE|SW4H|SWTV-20AE|
+|SWTV|SWTV-20HK|SW4H|SWTV-20HK|
 |SWTV|SWTV-20N|SW4H|SWTV-20NA|
 |SWTV|SWTV-20SA|SW4H|SWTV-20SA|
 |SWTV|South America|SW3_ATV|SWTV|
@@ -20105,6 +20116,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SYLVANIA|SLTDVD1024|mdt1005_mk_32|SLTDVD1024|
 |SYLVANIA|SLTDVD9220_C|SLTDVD9220-C|SLTDVD9220-C|
 |SYLVANIA|US|gangbyeon|4K Smart TV|
+|SZSUPER|KIDS05-X5|KIDS05-X5|KIDS05-X5|
 |Safaricom|NEON LITE|NEON_LITE|NEON LITE|
 |Safaricom|NEON PLUS|NEON_PLUS|NEON PLUS|
 |Safaricom|NEON_NOVA|NEON_NOVA|NEON_NOVA|
@@ -22617,6 +22629,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sansui|Go|S401|Go|
 |Sansui|Grand|Grand|Grand|
 |Sansui|Israel|SAN-8487|SAN-8487|
+|Sansui|Mexio|yeongdeungpo|AiPlus4K|
 |Sansui|Nitro|Nitro|Nitro|
 |Sansui|Sansui Play|Play|Sansui Play|
 |Sansui|Sansui_Nova|Sansui_Nova|Sansui_Nova|
@@ -24335,16 +24348,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 10 SE|Oakland|T766J|
 |TCL|TCL 10 SE|Oakland|T766U|
 |TCL|TCL 10 SE|Oakland|T766U_EEA|
-|TCL|TCL 10 TAB MAX 4G|Transformer_4G|9295G|
+|TCL|TCL 10 TABMAX 4G|Transformer_4G|9295G|
 |TCL|TCL 10L|T1_LITE|T770B|
 |TCL|TCL 10L|T1_LITE|T770H|
 |TCL|TCL 20 SE|Austin|T671H|
+|TCL|TCL 20E|HONG_KONG|6125F|
 |TCL|TCL C5|A3A|5152D|
 |TCL|TCL C5|Gauss|5153A|
 |TCL|TCL C5|Gauss|5153K|
 |TCL|TCL C7|A3A_PLUS|5158A|
 |TCL|TCL C9 Plus|Venice|5148I|
-|TCL|TCL I01|HONG_KONG|6125F|
 |TCL|TCL L10|Faraday|5124J|
 |TCL|TCL L10 Lite|Jakarta_Lite|4187M|
 |TCL|TCL L10 Lite|Jakarta_Lite|4187U|
@@ -25049,6 +25062,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024F_EEA|
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024I|
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024J|
+|TCT (Alcatel)|Alcatel 1S|HONG_KONG|6025A|
+|TCT (Alcatel)|Alcatel 1S|HONG_KONG|6025D_EEA|
+|TCT (Alcatel)|Alcatel 1S|HONG_KONG|6025H_EEA|
 |TCT (Alcatel)|Alcatel 1S|Tokyo|5028A|
 |TCT (Alcatel)|Alcatel 1S|Tokyo|5028D|
 |TCT (Alcatel)|Alcatel 1S|Tokyo|5028D_EEA|
@@ -25180,9 +25196,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 5X|A5X|5060D|
 |TCT (Alcatel)|Alcatel 5X|A5X|5060D_EEA|
 |TCT (Alcatel)|Alcatel 5X|A5X|5060J|
-|TCT (Alcatel)|Alcatel I01|HONG_KONG|6025A|
-|TCT (Alcatel)|Alcatel I01|HONG_KONG|6025D_EEA|
-|TCT (Alcatel)|Alcatel I01|HONG_KONG|6025H_EEA|
 |TCT (Alcatel)|Alcatel JOY TAB|EasyTAB8MPCS|9029Z|
 |TCT (Alcatel)|Alcatel JOY TAB KIDS|EasyTAB8TMO|9029G|
 |TCT (Alcatel)|Alcatel ONYX™|Edison_CKT|5008R|
@@ -25732,6 +25745,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TSUNAMi|Tablet Tsunami TSTA080D1|MG080D1T|MG080D1T|
 |TTS-group|IT10268|IT10268|IT10268|
 |TUFEN|Q718|Q718|Q718|
+|TUFEN|Q718A_EEA|TUFEN_Q718A|Q718A|
 |TUFEN|Q738|Q738|Q738|
 |TUFEN|Q88A_EEA|Q88A_EEA|Q88A|
 |TUFF|T500|T500|T500|
@@ -26634,6 +26648,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|A7 Pro EEA|A7_Pro|A7 Pro|
 |Umidigi|A7S|A7S|A7S|
 |Umidigi|A7S EEA|A7S|A7S|
+|Umidigi|A9 Pro|A9_Pro|A9 Pro|
 |Umidigi|A9 Pro 128G|A9_Pro_128GB|A9 Pro|
 |Umidigi|A9 Pro 128G EEA|A9_Pro_128GB|A9 Pro|
 |Umidigi|A9 Pro_EEA|A9_Pro|A9 Pro|
@@ -27246,11 +27261,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2028|2027|V2028|
 |Vivo|V2028|2028|V2028|
 |Vivo|V2029|2027|V2029|
+|Vivo|V2030|2030|V2030|
 |Vivo|V2031A|PD2031|V2031A|
 |Vivo|V2031EA|PD2031EA|V2031EA|
 |Vivo|V2032|2027|V2032|
 |Vivo|V2034A|PD2034|V2034A|
 |Vivo|V2036A|PD2036|V2036A|
+|Vivo|V2042|2026|V2042|
+|Vivo|V2043|2026|V2043|
 |Vivo|V2065A|PD2065|V2065A|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
@@ -27505,6 +27523,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Voger|X100|X100|X100|
 |Voger|X100_EEA|X100_EEA|X100_EEA|
 |Volt Mobile|VOLT_SV451_Vision|VOLT_SV451_Vision|VOLT_SV451_Vision|
+|Volt Mobile|v7|v7|v7|
 |Volvo|Volvo|ihu_abl_car|Volvo|
 |Vonino|Druid_L10|Druid_L10|Druid_L10|
 |Vonino|Epic E8|Epic_E8|Epic E8|
@@ -28394,6 +28413,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |YELLYOUTH|TAB_101|TAB_101|TAB_101|
 |YOTOPT|M60_EEA|M60_EEA|M60_EEA|
 |YOTOPT|X109|X109|X109|
+|YOTOPT|Y103_EEA|Y103_EEA|Y103_EEA|
 |YOTOPT|Y3-EEA|Y3-EEA|Y3-EEA|
 |YOTOPT|Y5-EEA|Y5-EEA|Y5-EEA|
 |YQSVAIOR|YQ11|YQ11|YQ11|
