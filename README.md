@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-12-08
+Last sync is 2020-12-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4042,6 +4042,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ctroniq|Ctroniq_Snook_W10|Ctroniq_Snook_W10|Ctroniq_Snook_W10|
 |Ctroniq|Ctroniq_Snook_W70|Ctroniq_Snook_W70|Ctroniq_Snook_W70|
 |Ctroniq|K9|K9|K9|
+|Ctroniq|SNOOK-X10|SNOOK-X10|SNOOK-X10|
+|Ctroniq|SNOOK-X75|SNOOK-X75|SNOOK-X75|
 |Cubot|C20|C20|C20|
 |Cubot|C30|C30|C30|
 |Cubot|CUBOT CHEETAH 2|CUBOT_CHEETAH_2|CUBOT CHEETAH 2|
@@ -5976,6 +5978,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Tab|G5|G5|G5|
 |G-Tab|G9|G9|G9|
 |G-Tab|N271|N271|N271|
+|G-Tab|N28|N28|N28|
 |G-Tab|N281|N281|N281|
 |G-Tab|P2000|P2000|P2000|
 |G-Tab|P7000|P7000|P7000|
@@ -30255,6 +30258,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |eSTREAM 4K|Pyxis-SECV|SEI500SECV|Pyxis-SECV|
 |eTalk|KAZ-N20|KAZ-N20|KAZ-N20|
 |ecom|Ex-Handy 10|Ex-Handy10|Ex-Handy 10 ROW|
+|ecom|Ex-Handy 10|Ex-Handy10|Ex-Handy 10 RUS|
+|ecom|Smart-Ex02|Smart-Ex02|Smart-Ex 02 RUS|
 |ecom|Smart-Ex02|Smart-Ex02|Smart-Ex02 ROW|
 |efioo|efiootabn7a|efiootabn7a|Tab N7a|
 |geaneePro|JT10-X|JT10-X|JT10-X|

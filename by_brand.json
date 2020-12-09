@@ -20882,6 +20882,16 @@
    "device": "K9",
    "name": "K9",
    "model": "K9"
+  },
+  {
+   "device": "SNOOK-X10",
+   "name": "SNOOK-X10",
+   "model": "SNOOK-X10"
+  },
+  {
+   "device": "SNOOK-X75",
+   "name": "SNOOK-X75",
+   "model": "SNOOK-X75"
   }
  ],
  "Cubot": [
@@ -31008,6 +31018,11 @@
    "device": "N271",
    "name": "N271",
    "model": "N271"
+  },
+  {
+   "device": "N28",
+   "name": "N28",
+   "model": "N28"
   },
   {
    "device": "N281",
@@ -155063,6 +155078,16 @@
    "device": "Ex-Handy10",
    "name": "Ex-Handy 10",
    "model": "Ex-Handy 10 ROW"
+  },
+  {
+   "device": "Ex-Handy10",
+   "name": "Ex-Handy 10",
+   "model": "Ex-Handy 10 RUS"
+  },
+  {
+   "device": "Smart-Ex02",
+   "name": "Smart-Ex02",
+   "model": "Smart-Ex 02 RUS"
   },
   {
    "device": "Smart-Ex02",

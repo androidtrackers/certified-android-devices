@@ -31109,6 +31109,20 @@
    "model": "K9"
   }
  ],
+ "SNOOK-X10": [
+  {
+   "brand": "Ctroniq",
+   "name": "SNOOK-X10",
+   "model": "SNOOK-X10"
+  }
+ ],
+ "SNOOK-X75": [
+  {
+   "brand": "Ctroniq",
+   "name": "SNOOK-X75",
+   "model": "SNOOK-X75"
+  }
+ ],
  "C20": [
   {
    "brand": "Cubot",
@@ -45081,6 +45095,13 @@
    "brand": "G-Tab",
    "name": "N271",
    "model": "N271"
+  }
+ ],
+ "N28": [
+  {
+   "brand": "G-Tab",
+   "name": "N28",
+   "model": "N28"
   }
  ],
  "N281": [
@@ -194966,9 +194987,19 @@
    "brand": "ecom",
    "name": "Ex-Handy 10",
    "model": "Ex-Handy 10 ROW"
+  },
+  {
+   "brand": "ecom",
+   "name": "Ex-Handy 10",
+   "model": "Ex-Handy 10 RUS"
   }
  ],
  "Smart-Ex02": [
+  {
+   "brand": "ecom",
+   "name": "Smart-Ex02",
+   "model": "Smart-Ex 02 RUS"
+  },
   {
    "brand": "ecom",
    "name": "Smart-Ex02",
