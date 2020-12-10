@@ -20491,6 +20491,11 @@
    "brand": "GOODTEL",
    "name": "G6",
    "device": "G6"
+  },
+  {
+   "brand": "GOODTEL",
+   "name": "G6_EEA",
+   "device": "G6_EEA"
   }
  ],
  "G60": [
@@ -48203,6 +48208,13 @@
    "device": "E108GC4G"
   }
  ],
+ "H10_ONE": [
+  {
+   "brand": "HDC S.A.",
+   "name": "H10_ONE",
+   "device": "H10_ONE"
+  }
+ ],
  "TK718": [
   {
    "brand": "HDC S.A.",
@@ -57718,6 +57730,13 @@
   }
  ],
  "Hisense U605": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U605",
+   "device": "HS7731ESP"
+  }
+ ],
+ "Hisense U606": [
   {
    "brand": "Hisense",
    "name": "Hisense U605",
@@ -159044,6 +159063,13 @@
    "device": "shimbashi"
   }
  ],
+ "SA100": [
+  {
+   "brand": "Skyworth",
+   "name": "SA100",
+   "device": "HY40A"
+  }
+ ],
  "HPA02": [
   {
    "brand": "Skyworth",
@@ -190642,6 +190668,13 @@
    "device": "SHARP1"
   }
  ],
+ "SHARP_2": [
+  {
+   "brand": "X-TIGI",
+   "name": "SHARP_2",
+   "device": "SHARP_2"
+  }
+ ],
  "Sharp1_Lite": [
   {
    "brand": "X-TIGI",
@@ -202737,6 +202770,13 @@
    "device": "DV8330-T2"
   }
  ],
+ "JH101": [
+  {
+   "brand": "ZUOPU",
+   "name": "JH101",
+   "device": "JH101"
+  }
+ ],
  "JH786": [
   {
    "brand": "ZUOPU",
@@ -206121,6 +206161,13 @@
    "brand": "novo",
    "name": "Bonvi Pro",
    "device": "t596_dp_n_37m35"
+  }
+ ],
+ "ZIDS701": [
+  {
+   "brand": "okulaku",
+   "name": "ZIDS701",
+   "device": "ZIDS701"
   }
  ],
  "PNDPP44QC10": [

@@ -50051,6 +50051,13 @@
    "model": "G3_EEA"
   }
  ],
+ "G6_EEA": [
+  {
+   "brand": "GOODTEL",
+   "device": "G6_EEA",
+   "model": "G6"
+  }
+ ],
  "YC-102D": [
   {
    "brand": "GP-electronic",
@@ -54180,6 +54187,13 @@
    "brand": "HANYEAL",
    "device": "E108GC4G",
    "model": "E108GC4G"
+  }
+ ],
+ "H10_ONE": [
+  {
+   "brand": "HDC S.A.",
+   "device": "H10_ONE",
+   "model": "H10_ONE"
   }
  ],
  "HDC": [
@@ -62653,6 +62667,11 @@
    "brand": "Hisense",
    "device": "HS7731ESP",
    "model": "Hisense U605"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HS7731ESP",
+   "model": "Hisense U606"
   }
  ],
  "Hisense U963": [
@@ -152089,6 +152108,13 @@
    "model": "METZ 2K TV"
   }
  ],
+ "SA100": [
+  {
+   "brand": "Skyworth",
+   "device": "HY40A",
+   "model": "SA100"
+  }
+ ],
  "Skyworth": [
   {
    "brand": "Skyworth",
@@ -180580,6 +180606,13 @@
    "model": "SHARP1"
   }
  ],
+ "SHARP_2": [
+  {
+   "brand": "X-TIGI",
+   "device": "SHARP_2",
+   "model": "SHARP_2"
+  }
+ ],
  "Sharp1_Lite": [
   {
    "brand": "X-TIGI",
@@ -190478,6 +190511,13 @@
    "model": "DV8330-T2"
   }
  ],
+ "JH101": [
+  {
+   "brand": "ZUOPU",
+   "device": "JH101",
+   "model": "JH101"
+  }
+ ],
  "JH786": [
   {
    "brand": "ZUOPU",
@@ -193921,6 +193961,13 @@
    "brand": "novo",
    "device": "t596_dp_n_37m35",
    "model": "Bonvi Pro"
+  }
+ ],
+ "ZIDS701": [
+  {
+   "brand": "okulaku",
+   "device": "ZIDS701",
+   "model": "ZIDS701"
   }
  ],
  "PNDPP44QC10": [

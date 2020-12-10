@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-12-09
+Last sync is 2020-12-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6021,6 +6021,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GOODTEL|G2_EEA|G2_EEA|G2_EEA|
 |GOODTEL|G3_EEA|G3_EEA|G3_EEA|
 |GOODTEL|G6|G6|G6|
+|GOODTEL|G6_EEA|G6_EEA|G6|
 |GP-electronic|YC-102D|YC-102D|YC-102D|
 |GP-electronic|YC-3135D|YC-3135D|YC-3135D|
 |GREATASIA|E101GC4G|E101GC4G|E101GC4G|
@@ -6600,6 +6601,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Guophone|XP9800|Guophone_XP9800|XP9800|
 |HANYEAL|E101GC|E101GC|E101GC|
 |HANYEAL|E108GC4G|E108GC4G|E108GC4G|
+|HDC S.A.|H10_ONE|H10_ONE|H10_ONE|
 |HDC S.A.|HDC|TK718|TK718|
 |HDC S.A.|T700B|T700B|T700B|
 |HDD SAT|Tab_i_excess|Tab_i_excess|Tab_i_excess|
@@ -8027,6 +8029,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U40|HLTE103E_33|Hisense U40|
 |Hisense|Hisense U40|SC9832E|Hisense U40|
 |Hisense|Hisense U605|HS7731ESP|Hisense U605|
+|Hisense|Hisense U605|HS7731ESP|Hisense U606|
 |Hisense|Hisense U963|HLTE100E_11|Hisense U963|
 |Hisense|Hisense U963|HLTE100E_12|Hisense U963|
 |Hisense|Hisense U963|HLTE100E_13|Hisense U963|
@@ -23281,6 +23284,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Skyworth|METZ 2K TV|shinagawa|METZ 2K TV|
 |Skyworth|North America|globe_na|globe|
 |Skyworth|North America|shimbashi|2K TV|
+|Skyworth|SA100|HY40A|SA100|
 |Skyworth|Skyworth|grape|HPA02|
 |Skyworth|South Africa|open_fhd_sa|open_fhd|
 |Skyworth|South America|globe_sa|globe|
@@ -28140,6 +28144,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |X-TIGI|Kids7_Pro|Kids7_Pro|Kids7 Pro|
 |X-TIGI|Photo P15 Lite|Photo_P15_Lite|Photo_P15_Lite|
 |X-TIGI|SHARP1|SHARP1|SHARP1|
+|X-TIGI|SHARP_2|SHARP_2|SHARP_2|
 |X-TIGI|Sharp1_Lite|Sharp1_Lite|Sharp1_Lite|
 |X-TIGI|V18|X_TIGI_V18|X_TIGI_V18|
 |X-TIGI|V18 pro_A|V18_pro_A|V18 pro_A|
@@ -29978,6 +29983,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|tmn smart a7|sailboat|tmn smart a7|
 |ZUKU|A151|A155|A151|
 |ZUKU|DV8330-T2|DV8330-T2|DV8330-T2|
+|ZUOPU|JH101|JH101|JH101|
 |ZUOPU|JH786|JH786|JH786|
 |ZUOPU|JH863|JH863|JH863|
 |Zaith|Z3211G|Z3211G|Z3211G|
@@ -30543,6 +30549,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |noDROPOUT|T25|T25|T25|
 |novo|Bonvi Prime|t596_novo_37m35|Bonvi Prime|
 |novo|Bonvi Pro|t596_dp_n_37m35|Bonvi Pro|
+|okulaku|ZIDS701|ZIDS701|ZIDS701|
 |pendo|PNDPP44QC10|PNDPP44QC10|PNDPP44QC10|
 |pendo|PNDPP44QC7|PNDPP44QC7|PNDPP44QC7|
 |qunyiCO|Y10|Y10|Y10|

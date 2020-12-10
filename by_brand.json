@@ -31261,6 +31261,11 @@
    "device": "G6",
    "name": "G6",
    "model": "G6"
+  },
+  {
+   "device": "G6_EEA",
+   "name": "G6_EEA",
+   "model": "G6"
   }
  ],
  "GP-electronic": [
@@ -34279,6 +34284,11 @@
   }
  ],
  "HDC S.A.": [
+  {
+   "device": "H10_ONE",
+   "name": "H10_ONE",
+   "model": "H10_ONE"
+  },
   {
    "device": "TK718",
    "name": "HDC",
@@ -41493,6 +41503,11 @@
    "device": "HS7731ESP",
    "name": "Hisense U605",
    "model": "Hisense U605"
+  },
+  {
+   "device": "HS7731ESP",
+   "name": "Hisense U605",
+   "model": "Hisense U606"
   },
   {
    "device": "HLTE100E_11",
@@ -119307,6 +119322,11 @@
    "model": "2K TV"
   },
   {
+   "device": "HY40A",
+   "name": "SA100",
+   "model": "SA100"
+  },
+  {
    "device": "grape",
    "name": "Skyworth",
    "model": "HPA02"
@@ -144336,6 +144356,11 @@
    "model": "SHARP1"
   },
   {
+   "device": "SHARP_2",
+   "name": "SHARP_2",
+   "model": "SHARP_2"
+  },
+  {
    "device": "Sharp1_Lite",
    "name": "Sharp1_Lite",
    "model": "Sharp1_Lite"
@@ -153608,6 +153633,11 @@
  ],
  "ZUOPU": [
   {
+   "device": "JH101",
+   "name": "JH101",
+   "model": "JH101"
+  },
+  {
    "device": "JH786",
    "name": "JH786",
    "model": "JH786"
@@ -156601,6 +156631,13 @@
    "device": "t596_dp_n_37m35",
    "name": "Bonvi Pro",
    "model": "Bonvi Pro"
+  }
+ ],
+ "okulaku": [
+  {
+   "device": "ZIDS701",
+   "name": "ZIDS701",
+   "model": "ZIDS701"
   }
  ],
  "pendo": [
