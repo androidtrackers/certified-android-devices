@@ -156324,6 +156324,11 @@
    "model": "APOLLO"
   },
   {
+   "device": "BLINK",
+   "name": "BLINK",
+   "model": "BLINK"
+  },
+  {
    "device": "ISWAG_NEMESIS",
    "name": "ISWAG_NEMESIS",
    "model": "ISWAG_NEMESIS"

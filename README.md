@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-12-10
+Last sync is 2020-12-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -30494,6 +30494,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iRulu|iRULU_G36|iRULU_G36|G36|
 |iSWAG|ALPHA|Alpha|Alpha|
 |iSWAG|APOLLO|APOLLO|APOLLO|
+|iSWAG|BLINK|BLINK|BLINK|
 |iSWAG|ISWAG_NEMESIS|ISWAG_NEMESIS|ISWAG_NEMESIS|
 |iSWAG|ISWAG_VIPER|ISWAG_VIPER|ISWAG VIPER|
 |iSWAG|ODIN|ODIN|ODIN|
