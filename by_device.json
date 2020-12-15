@@ -1307,6 +1307,13 @@
    "model": "Q10107LW-ME"
   }
  ],
+ "Q8108L-ME": [
+  {
+   "brand": "AOC",
+   "name": "Q8108L-ME",
+   "model": "Q8108L-ME"
+  }
+ ],
  "tiger_cheets": [
   {
    "brand": "AOpen",
@@ -3884,6 +3891,28 @@
    "brand": "Antel",
    "name": "DV8547",
    "model": "DV8547"
+  }
+ ],
+ "GMP": [
+  {
+   "brand": "Aconatic",
+   "name": "HAKO mini",
+   "model": "HAKO mini"
+  },
+  {
+   "brand": "Motorola",
+   "name": "DVM4KA01",
+   "model": "DVM4KA01"
+  },
+  {
+   "brand": "Philips",
+   "name": "NeoViu D1",
+   "model": "NeoViu D1"
+  },
+  {
+   "brand": "Polaroid",
+   "name": "SMX4K",
+   "model": "SMX4K"
   }
  ],
  "RX510": [
@@ -17052,6 +17081,13 @@
    "model": "B50Pro"
   }
  ],
+ "Bmobile_B50_1": [
+  {
+   "brand": "BMobile",
+   "name": "B50_1",
+   "model": "B50"
+  }
+ ],
  "B55": [
   {
    "brand": "BMobile",
@@ -17064,6 +17100,13 @@
    "brand": "BMobile",
    "name": "B60Pro_MV03",
    "model": "B60Pro_MV03"
+  }
+ ],
+ "Bmobile_BL54Pro": [
+  {
+   "brand": "BMobile",
+   "name": "BL54Pro",
+   "model": "BL54Pro"
   }
  ],
  "Bella": [
@@ -19356,6 +19399,11 @@
    "model": "M50"
   },
   {
+   "brand": "ELO Touch",
+   "name": "M50",
+   "model": "M50"
+  },
+  {
    "brand": "ZOLON",
    "name": "M50",
    "model": "M50"
@@ -20699,6 +20747,13 @@
    "brand": "Blaupunkt",
    "name": "OT19",
    "model": "OT19"
+  }
+ ],
+ "Blaupunkt_SF02": [
+  {
+   "brand": "Blaupunkt",
+   "name": "SF02_eea",
+   "model": "Blaupunkt SF02"
   }
  ],
  "SL05": [
@@ -37881,6 +37936,13 @@
    "model": "Elo-i3-22Std"
   }
  ],
+ "M50C": [
+  {
+   "brand": "ELO Touch",
+   "name": "M50C",
+   "model": "M50C"
+  }
+ ],
  "Elo-PP3-15": [
   {
    "brand": "ELO Touch",
@@ -40601,6 +40663,13 @@
    "brand": "Everis",
    "name": "E0115",
    "model": "E0115"
+  }
+ ],
+ "E0116": [
+  {
+   "brand": "Everis",
+   "name": "E0116",
+   "model": "E0116"
   }
  ],
  "E0117": [
@@ -44601,6 +44670,13 @@
    "brand": "Funai Electric",
    "name": "Smart TV",
    "model": "FUNAI 4K TV"
+  }
+ ],
+ "F104Bv2_EEA": [
+  {
+   "brand": "Fusion5",
+   "name": "F104Bv2_EEA",
+   "model": "F104Bv2_EEA"
   }
  ],
  "F104Bv2_PRO": [
@@ -57900,6 +57976,27 @@
    "brand": "Hisense",
    "name": "Hisense E40",
    "model": "Hisense V40"
+  }
+ ],
+ "HLTE228E": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense E50 Lite",
+   "model": "Hisense E50 Lite"
+  }
+ ],
+ "HLTE228E_02": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense E50 Lite",
+   "model": "Hisense E50 Lite"
+  }
+ ],
+ "HLTE228E_11": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense E50 Lite",
+   "model": "Hisense E50 Lite"
   }
  ],
  "HS6580MT": [
@@ -79542,6 +79639,13 @@
    "model": "SMARTWAY L2"
   }
  ],
+ "SMARTWAY_M2": [
+  {
+   "brand": "Kodak",
+   "name": "SMARTWAY M2",
+   "model": "KODAK SMARTWAY M2"
+  }
+ ],
  "SMARTWAY_F1": [
   {
    "brand": "Kodak",
@@ -96127,6 +96231,13 @@
    "model": "Lenovo X3c70"
   }
  ],
+ "J706N": [
+  {
+   "brand": "Lenovo",
+   "name": "XiaoXin Pad Pro",
+   "model": "Lenovo TB-J706N"
+  }
+ ],
  "YOGA-A12": [
   {
    "brand": "Lenovo",
@@ -106101,6 +106212,13 @@
    "model": "MD-04P"
   }
  ],
+ "MP1": [
+  {
+   "brand": "Mode1",
+   "name": "MP1",
+   "model": "MD_G1212U"
+  }
+ ],
  "ECHO_LOLLY": [
   {
    "brand": "Modecom",
@@ -114511,6 +114629,13 @@
    "brand": "Nokia",
    "name": "Nokia C1",
    "model": "Nokia C1"
+  }
+ ],
+ "YDU": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C1 Plus",
+   "model": "Nokia C1 Plus"
   }
  ],
  "NBL": [
@@ -123171,6 +123296,13 @@
    "model": "PI7100_93"
   }
  ],
+ "PH0M_EA_T32": [
+  {
+   "brand": "Philips",
+   "name": "Philips Android TV",
+   "model": "2020/2021 UHD Android TV"
+  }
+ ],
  "S257": [
   {
    "brand": "Philips",
@@ -123827,6 +123959,13 @@
    "brand": "Pixus",
    "name": "Pixus_Joker",
    "model": "Pixus_Joker"
+  }
+ ],
+ "Sprint_2_16": [
+  {
+   "brand": "Pixus",
+   "name": "Pixus_Sprint_2_16",
+   "model": "Pixus_Sprint_2_16"
   }
  ],
  "Pixus_Touch_7_3G": [
@@ -134442,6 +134581,11 @@
    "brand": "Samsung",
    "name": "Galaxy A02s",
    "model": "SM-A025M"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M02s",
+   "model": "SM-M025F"
   }
  ],
  "a10e": [
@@ -161014,6 +161158,23 @@
    "brand": "TCL",
    "name": "TCL 10 TABMAX 4G",
    "model": "9295G"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL 10 TABMAX 4G",
+   "model": "9295G_EEA"
+  }
+ ],
+ "Transformer_WIFI": [
+  {
+   "brand": "TCL",
+   "name": "TCL 10 TABMAX WIFI",
+   "model": "9296X"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL 10 TABMAX WIFI",
+   "model": "9296X_EEA"
   }
  ],
  "T1_LITE": [
@@ -161032,10 +161193,25 @@
   {
    "brand": "TCL",
    "name": "TCL 20 SE",
+   "model": "T671E"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL 20 SE",
+   "model": "T671F"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL 20 SE",
    "model": "T671H"
   }
  ],
  "HONG_KONG": [
+  {
+   "brand": "TCL",
+   "name": "TCL 20E",
+   "model": "6125A"
+  },
   {
    "brand": "TCL",
    "name": "TCL 20E",
@@ -161049,7 +161225,17 @@
   {
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1S",
+   "model": "6025D"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1S",
    "model": "6025D_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1S",
+   "model": "6025H"
   },
   {
    "brand": "TCT (Alcatel)",
@@ -161789,6 +161975,13 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1V",
    "model": "HEYOU40"
+  }
+ ],
+ "Da_Vinci": [
+  {
+   "brand": "TCL",
+   "name": "TCL NXTPAPAER 8.88",
+   "model": "9288A"
   }
  ],
  "T1_L1": [
@@ -177651,6 +177844,13 @@
    "model": "V2065A"
   }
  ],
+ "PD2034D": [
+  {
+   "brand": "Vivo",
+   "name": "V2099A",
+   "model": "V2099A"
+  }
+ ],
  "PD1524": [
   {
    "brand": "Vivo",
@@ -180145,6 +180345,13 @@
    "brand": "WILL (JP)",
    "name": "Willfon_Pad_02",
    "model": "Willfon_Pad_02"
+  }
+ ],
+ "Kishi-001": [
+  {
+   "brand": "WILLKOTECH",
+   "name": "Kishi-001",
+   "model": "Kishi-001"
   }
  ],
  "W405": [
@@ -184154,6 +184361,13 @@
    "brand": "Xiaomi",
    "name": "MiTV",
    "model": "MiTV-MSSP1"
+  }
+ ],
+ "tarzan": [
+  {
+   "brand": "Xiaomi",
+   "name": "MiTV",
+   "model": "MiTV-MOOQ1"
   }
  ],
  "volver": [
@@ -189476,6 +189690,11 @@
    "brand": "ZTE",
    "name": "K87CA",
    "model": "K87CA"
+  },
+  {
+   "brand": "ZTE",
+   "name": "K87CC",
+   "model": "K87CC"
   }
  ],
  "jasmine": [
@@ -196217,6 +196436,13 @@
    "brand": "iQual",
    "name": "T7G",
    "model": "T7G"
+  }
+ ],
+ "T7K": [
+  {
+   "brand": "iQual",
+   "name": "T7K",
+   "model": "T7K"
   }
  ],
  "T7L": [
