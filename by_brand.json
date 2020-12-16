@@ -442,6 +442,13 @@
    "model": "TG996"
   }
  ],
+ "ALBADEEL": [
+  {
+   "device": "ikebukuro",
+   "name": "B725U",
+   "model": "AI PONT"
+  }
+ ],
  "ALMATEEN": [
   {
    "device": "samseong",
@@ -10038,6 +10045,11 @@
    "model": "V54"
   },
   {
+   "device": "Azumi_V55",
+   "name": "V55",
+   "model": "V55"
+  },
+  {
    "device": "Azumi_V5PLUS_AC25",
    "name": "V5PLUS_AC25",
    "model": "V5+"
@@ -11758,6 +11770,13 @@
    "device": "BTPC-801QC",
    "name": "Spain",
    "model": "BTPC-801QC"
+  }
+ ],
+ "BRUHM": [
+  {
+   "device": "samseong",
+   "name": "BTF-75TG",
+   "model": "AI PONT"
   }
  ],
  "BTC Mobile": [
@@ -15268,6 +15287,11 @@
    "model": "A512 Harmony Pro"
   },
   {
+   "device": "ikebukuro",
+   "name": "G7H",
+   "model": "AI PONT"
+  },
+  {
    "device": "M9",
    "name": "M9",
    "model": "M9"
@@ -15800,6 +15824,13 @@
    "device": "lefhd",
    "name": "CHN-UCAN MJ",
    "model": "CHN-UCAN MJ"
+  }
+ ],
+ "CHiQ": [
+  {
+   "device": "samseong",
+   "name": "M7A",
+   "model": "AI PONT"
   }
  ],
  "CILICO": [
@@ -34138,6 +34169,13 @@
    "model": "GTB 801"
   }
  ],
+ "Grunhelm": [
+  {
+   "device": "ikebukuro",
+   "name": "GT9HD32",
+   "model": "AI PONT"
+  }
+ ],
  "Gryphon": [
   {
    "device": "granite",
@@ -52373,6 +52411,11 @@
   },
   {
    "device": "ikebukuro",
+   "name": "G9S",
+   "model": "AI PONT"
+  },
+  {
+   "device": "ikebukuro",
    "name": "H-LED32ES5008",
    "model": "AI PONT"
   },
@@ -58632,6 +58675,11 @@
   }
  ],
  "KUNFT": [
+  {
+   "device": "samseong",
+   "name": "K5130H43U",
+   "model": "AI PONT"
+  },
   {
    "device": "ikebukuro",
    "name": "K5132H32H",
@@ -77108,6 +77156,11 @@
  ],
  "Mediabox": [
   {
+   "device": "JFK",
+   "name": "MBX4K Maverick",
+   "model": "MBX4K Maverick"
+  },
+  {
    "device": "DV8235",
    "name": "MBX4K Ranger",
    "model": "MBX4K Ranger"
@@ -89121,11 +89174,6 @@
    "model": "ONEPLUS A6013"
   },
   {
-   "device": "OnePlus8T",
-   "name": "OnePlus8T",
-   "model": "KB2005"
-  },
-  {
    "device": "Oneplus_Dosa_IN",
    "name": "Oneplus_Dosa_IN",
    "model": "Oneplus_Dosa_IN"
@@ -94536,21 +94584,6 @@
    "model": "QM161E"
   },
   {
-   "device": "PH9M_EA_5599",
-   "name": "4K UHD LED Android TV with Ambilight 3-sided and Google Assistant",
-   "model": "TPM191E"
-  },
-  {
-   "device": "PH9M_EA_5599",
-   "name": "4K UHD LED Android TV with Ambilight 3-sided and Google Assistant",
-   "model": "TPM191KN"
-  },
-  {
-   "device": "PH9M_EA_5599",
-   "name": "4K UHD LED Android TV with Ambilight 3-sided and Google Assistant",
-   "model": "TPM191L"
-  },
-  {
    "device": "QV151E",
    "name": "4K UHD Razor Slim LED TV powered by Android™",
    "model": "QV151E"
@@ -94724,6 +94757,21 @@
    "device": "PH0M_EA_T32",
    "name": "Philips Android TV",
    "model": "2020/2021 UHD Android TV"
+  },
+  {
+   "device": "PH9M_EA_5599",
+   "name": "Philips Android TV",
+   "model": "TPM191E"
+  },
+  {
+   "device": "PH9M_EA_5599",
+   "name": "Philips Android TV",
+   "model": "TPM191KN"
+  },
+  {
+   "device": "PH9M_EA_5599",
+   "name": "Philips Android TV",
+   "model": "TPM191L"
   },
   {
    "device": "S257",
@@ -96467,6 +96515,11 @@
    "device": "T770",
    "name": "Twist Tab",
    "model": "Twist Tab"
+  },
+  {
+   "device": "T770",
+   "name": "Twist Tab",
+   "model": "Twist Tab Kids"
   },
   {
    "device": "T770",
@@ -128970,6 +129023,11 @@
    "model": "HEYOU50"
   },
   {
+   "device": "Hong_Kong_Pro",
+   "name": "Alcatel 3L",
+   "model": "6056D"
+  },
+  {
    "device": "TokyoPro",
    "name": "Alcatel 3L",
    "model": "5029D"
@@ -134490,6 +134548,11 @@
    "model": "TE580PS"
   },
   {
+   "device": "TE590P_E",
+   "name": "TE590P",
+   "model": "TE590P_E"
+  },
+  {
    "device": "TELO_TE610",
    "name": "TELO_TE610",
    "model": "TELO_TE610"
@@ -137363,6 +137426,13 @@
    "model": "VENSTAR2050"
   }
  ],
+ "VIA Tech": [
+  {
+   "device": "IVT01",
+   "name": "Mobile360 IVT01",
+   "model": "Mobile360 IVT01"
+  }
+ ],
  "VIBE Z": [
   {
    "device": "kitonw",
@@ -137420,6 +137490,13 @@
    "device": "MB300",
    "name": "MB300",
    "model": "SmartTV"
+  }
+ ],
+ "VTCNOWRINDO": [
+  {
+   "device": "ikebukuro",
+   "name": "VR-42AF6800",
+   "model": "AI PONT"
   }
  ],
  "VUCATIMES": [
@@ -146375,6 +146452,11 @@
    "device": "ZXT-10FL323G-PRO",
    "name": "ZXT-10FL323G-PRO",
    "model": "ZXT-10FL323G-PRO"
+  },
+  {
+   "device": "ZXT-10HL323S",
+   "name": "ZXT-10HL323S",
+   "model": "ZXT-10HL323S"
   }
  ],
  "ZENTALITY": [

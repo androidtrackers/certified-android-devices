@@ -724,6 +724,11 @@
  ],
  "AI PONT": [
   {
+   "brand": "ALBADEEL",
+   "name": "B725U",
+   "device": "ikebukuro"
+  },
+  {
    "brand": "ALMATEEN",
    "name": "LXL43G7H-AT",
    "device": "samseong"
@@ -764,6 +769,11 @@
    "device": "samseong"
   },
   {
+   "brand": "BRUHM",
+   "name": "BTF-75TG",
+   "device": "samseong"
+  },
+  {
    "brand": "BenQ",
    "name": "E40-520",
    "device": "ikebukuro"
@@ -771,6 +781,16 @@
   {
    "brand": "BenQ",
    "name": "E55-720",
+   "device": "samseong"
+  },
+  {
+   "brand": "Bravis",
+   "name": "G7H",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "CHiQ",
+   "name": "M7A",
    "device": "samseong"
   },
   {
@@ -829,9 +849,19 @@
    "device": "sindorim"
   },
   {
+   "brand": "Grunhelm",
+   "name": "GT9HD32",
+   "device": "ikebukuro"
+  },
+  {
    "brand": "Hitachi",
    "name": "LD50CHS04U",
    "device": "samseong"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "G9S",
+   "device": "ikebukuro"
   },
   {
    "brand": "Hyundai",
@@ -922,6 +952,11 @@
    "brand": "Jooyon",
    "name": "UHD Android TV",
    "device": "sindorim"
+  },
+  {
+   "brand": "KUNFT",
+   "name": "K5130H43U",
+   "device": "samseong"
   },
   {
    "brand": "KUNFT",
@@ -1061,6 +1096,11 @@
   {
    "brand": "UNITED TV",
    "name": "LED32HS72A9",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "VTCNOWRINDO",
+   "name": "VR-42AF6800",
    "device": "ikebukuro"
   },
   {
@@ -14876,6 +14916,18 @@
    "brand": "USA111",
    "name": "iRULU_V4",
    "device": "iRULU"
+  }
+ ],
+ "V55": [
+  {
+   "brand": "Azumi",
+   "name": "V55",
+   "device": "Azumi_V55"
+  },
+  {
+   "brand": "ZTE",
+   "name": "V55",
+   "device": "V55"
   }
  ],
  "Azumi V6": [
@@ -104165,6 +104217,13 @@
    "device": "KM9PRO"
   }
  ],
+ "MBX4K Maverick": [
+  {
+   "brand": "Mediabox",
+   "name": "MBX4K Maverick",
+   "device": "JFK"
+  }
+ ],
  "MBX4K Ranger": [
   {
    "brand": "Mediabox",
@@ -119270,11 +119329,6 @@
    "brand": "OnePlus",
    "name": "OnePlus 8T",
    "device": "OnePlus8T"
-  },
-  {
-   "brand": "OnePlus",
-   "name": "OnePlus8T",
-   "device": "OnePlus8T"
   }
  ],
  "KB2007": [
@@ -126315,27 +126369,6 @@
    "device": "QM16XE_UB"
   }
  ],
- "TPM191E": [
-  {
-   "brand": "Philips",
-   "name": "4K UHD LED Android TV with Ambilight 3-sided and Google Assistant",
-   "device": "PH9M_EA_5599"
-  }
- ],
- "TPM191KN": [
-  {
-   "brand": "Philips",
-   "name": "4K UHD LED Android TV with Ambilight 3-sided and Google Assistant",
-   "device": "PH9M_EA_5599"
-  }
- ],
- "TPM191L": [
-  {
-   "brand": "Philips",
-   "name": "4K UHD LED Android TV with Ambilight 3-sided and Google Assistant",
-   "device": "PH9M_EA_5599"
-  }
- ],
  "QV151E": [
   {
    "brand": "Philips",
@@ -126581,6 +126614,27 @@
    "brand": "Philips",
    "name": "Philips Android TV",
    "device": "PH0M_EA_T32"
+  }
+ ],
+ "TPM191E": [
+  {
+   "brand": "Philips",
+   "name": "Philips Android TV",
+   "device": "PH9M_EA_5599"
+  }
+ ],
+ "TPM191KN": [
+  {
+   "brand": "Philips",
+   "name": "Philips Android TV",
+   "device": "PH9M_EA_5599"
+  }
+ ],
+ "TPM191L": [
+  {
+   "brand": "Philips",
+   "name": "Philips Android TV",
+   "device": "PH9M_EA_5599"
   }
  ],
  "Philips S257": [
@@ -128762,6 +128816,11 @@
   }
  ],
  "Twist Tab Kids": [
+  {
+   "brand": "Positivo",
+   "name": "Twist Tab",
+   "device": "T770"
+  },
   {
    "brand": "Positivo",
    "name": "Twist Tab Kids",
@@ -171809,6 +171868,13 @@
    "device": "Benz"
   }
  ],
+ "6056D": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3L",
+   "device": "Hong_Kong_Pro"
+  }
+ ],
  "5029D": [
   {
    "brand": "TCT (Alcatel)",
@@ -178867,6 +178933,13 @@
    "device": "TE580PS"
   }
  ],
+ "TE590P_E": [
+  {
+   "brand": "TeloSystems",
+   "name": "TE590P",
+   "device": "TE590P_E"
+  }
+ ],
  "TELO_TE610": [
   {
    "brand": "TeloSystems",
@@ -182146,6 +182219,13 @@
    "brand": "VENSTAR",
    "name": "VENSTAR2050",
    "device": "VENSTAR2050"
+  }
+ ],
+ "Mobile360 IVT01": [
+  {
+   "brand": "VIA Tech",
+   "name": "Mobile360 IVT01",
+   "device": "IVT01"
   }
  ],
  "VNPT SmartBox 2x": [
@@ -193160,6 +193240,13 @@
    "device": "ZXT-10FL323G-PRO"
   }
  ],
+ "ZXT-10HL323S": [
+  {
+   "brand": "ZAMOLXE",
+   "name": "ZXT-10HL323S",
+   "device": "ZXT-10HL323S"
+  }
+ ],
  "C-601": [
   {
    "brand": "ZENTALITY",
@@ -200337,13 +200424,6 @@
    "brand": "ZTE",
    "name": "Ultym 5.2",
    "device": "msm8916_32"
-  }
- ],
- "V55": [
-  {
-   "brand": "ZTE",
-   "name": "V55",
-   "device": "V55"
   }
  ],
  "ZTE Grand Memo lite": [

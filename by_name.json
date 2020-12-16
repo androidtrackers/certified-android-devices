@@ -6491,6 +6491,13 @@
    "model": "TG996"
   }
  ],
+ "B725U": [
+  {
+   "brand": "ALBADEEL",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  }
+ ],
  "LXL43G7H-AT": [
   {
    "brand": "ALMATEEN",
@@ -20300,6 +20307,18 @@
    "model": "V54"
   }
  ],
+ "V55": [
+  {
+   "brand": "Azumi",
+   "device": "Azumi_V55",
+   "model": "V55"
+  },
+  {
+   "brand": "ZTE",
+   "device": "V55",
+   "model": "V55"
+  }
+ ],
  "V5PLUS_AC25": [
   {
    "brand": "Azumi",
@@ -22648,6 +22667,13 @@
    "brand": "BRIGMTON",
    "device": "BTPC-801QC",
    "model": "BTPC-801QC"
+  }
+ ],
+ "BTF-75TG": [
+  {
+   "brand": "BRUHM",
+   "device": "samseong",
+   "model": "AI PONT"
   }
  ],
  "Touch": [
@@ -28130,6 +28156,13 @@
    "model": "A512 Harmony Pro"
   }
  ],
+ "G7H": [
+  {
+   "brand": "Bravis",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  }
+ ],
  "M9": [
   {
    "brand": "Bravis",
@@ -28985,6 +29018,13 @@
    "brand": "CHN TELECOM",
    "device": "lefhd",
    "model": "CHN-UCAN MJ"
+  }
+ ],
+ "M7A": [
+  {
+   "brand": "CHiQ",
+   "device": "samseong",
+   "model": "AI PONT"
   }
  ],
  "F750": [
@@ -53960,6 +54000,13 @@
    "model": "GTB 850"
   }
  ],
+ "GT9HD32": [
+  {
+   "brand": "Grunhelm",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  }
+ ],
  "Veil": [
   {
    "brand": "Gryphon",
@@ -74169,6 +74216,13 @@
    "model": "Eternity_P7"
   }
  ],
+ "G9S": [
+  {
+   "brand": "Hyundai",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  }
+ ],
  "H-LED32ES5008": [
   {
    "brand": "Hyundai",
@@ -81948,6 +82002,13 @@
    "brand": "KTV",
    "device": "DV8219",
    "model": "PureKTV"
+  }
+ ],
+ "K5130H43U": [
+  {
+   "brand": "KUNFT",
+   "device": "samseong",
+   "model": "AI PONT"
   }
  ],
  "K5132H32H": [
@@ -102969,6 +103030,13 @@
    "model": "KM9PRO"
   }
  ],
+ "MBX4K Maverick": [
+  {
+   "brand": "Mediabox",
+   "device": "JFK",
+   "model": "MBX4K Maverick"
+  }
+ ],
  "MBX4K Ranger": [
   {
    "brand": "Mediabox",
@@ -116884,13 +116952,6 @@
    "model": "ONEPLUS A6013"
   }
  ],
- "OnePlus8T": [
-  {
-   "brand": "OnePlus",
-   "device": "OnePlus8T",
-   "model": "KB2005"
-  }
- ],
  "Oneplus_Dosa_IN": [
   {
    "brand": "OnePlus",
@@ -123472,23 +123533,6 @@
    "model": "QM161E"
   }
  ],
- "4K UHD LED Android TV with Ambilight 3-sided and Google Assistant": [
-  {
-   "brand": "Philips",
-   "device": "PH9M_EA_5599",
-   "model": "TPM191E"
-  },
-  {
-   "brand": "Philips",
-   "device": "PH9M_EA_5599",
-   "model": "TPM191KN"
-  },
-  {
-   "brand": "Philips",
-   "device": "PH9M_EA_5599",
-   "model": "TPM191L"
-  }
- ],
  "4K UHD Razor Slim LED TV powered by Android™": [
   {
    "brand": "Philips",
@@ -123730,6 +123774,21 @@
    "brand": "Philips",
    "device": "PH0M_EA_T32",
    "model": "2020/2021 UHD Android TV"
+  },
+  {
+   "brand": "Philips",
+   "device": "PH9M_EA_5599",
+   "model": "TPM191E"
+  },
+  {
+   "brand": "Philips",
+   "device": "PH9M_EA_5599",
+   "model": "TPM191KN"
+  },
+  {
+   "brand": "Philips",
+   "device": "PH9M_EA_5599",
+   "model": "TPM191L"
   }
  ],
  "Philips S257": [
@@ -125895,6 +125954,11 @@
    "brand": "Positivo",
    "device": "T770",
    "model": "Twist Tab"
+  },
+  {
+   "brand": "Positivo",
+   "device": "T770",
+   "model": "Twist Tab Kids"
   }
  ],
  "Twist Tab Kids": [
@@ -162617,6 +162681,11 @@
   },
   {
    "brand": "TCT (Alcatel)",
+   "device": "Hong_Kong_Pro",
+   "model": "6056D"
+  },
+  {
+   "brand": "TCT (Alcatel)",
    "device": "TokyoPro",
    "model": "5029D"
   },
@@ -168984,6 +169053,13 @@
    "model": "TE580PS"
   }
  ],
+ "TE590P": [
+  {
+   "brand": "TeloSystems",
+   "device": "TE590P_E",
+   "model": "TE590P_E"
+  }
+ ],
  "TELO_TE610": [
   {
    "brand": "TeloSystems",
@@ -172307,6 +172383,13 @@
    "model": "VENSTAR2050"
   }
  ],
+ "Mobile360 IVT01": [
+  {
+   "brand": "VIA Tech",
+   "device": "IVT01",
+   "model": "Mobile360 IVT01"
+  }
+ ],
  "VNPT SmartBox 2x": [
   {
    "brand": "VNPT Technology",
@@ -172354,6 +172437,13 @@
    "brand": "VT",
    "device": "MB300",
    "model": "SmartTV"
+  }
+ ],
+ "VR-42AF6800": [
+  {
+   "brand": "VTCNOWRINDO",
+   "device": "ikebukuro",
+   "model": "AI PONT"
   }
  ],
  "HAOQIN": [
@@ -183013,6 +183103,13 @@
    "model": "ZXT-10FL323G-PRO"
   }
  ],
+ "ZXT-10HL323S": [
+  {
+   "brand": "ZAMOLXE",
+   "device": "ZXT-10HL323S",
+   "model": "ZXT-10HL323S"
+  }
+ ],
  "C-601": [
   {
    "brand": "ZENTALITY",
@@ -188015,13 +188112,6 @@
    "brand": "ZTE",
    "device": "msm8916_32",
    "model": "Ultym 5.2"
-  }
- ],
- "V55": [
-  {
-   "brand": "ZTE",
-   "device": "V55",
-   "model": "V55"
   }
  ],
  "V5S": [

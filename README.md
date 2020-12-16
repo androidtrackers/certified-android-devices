@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-12-15
+Last sync is 2020-12-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -86,6 +86,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AKOR|AKOR|TG1016|TG1016|
 |AKOR|TG797|TG797|TG797|
 |AKOR|TG996|TG996|TG996|
+|ALBADEEL|B725U|ikebukuro|AI PONT|
 |ALMATEEN|LXL43G7H-AT|samseong|AI PONT|
 |AMTC|MD1001 Tablet|MD1001|MD1001|
 |AMTC|MD7008|MD7008A|MD7008|
@@ -1956,6 +1957,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|V5|Azumi_V5_AC25S|V5|
 |Azumi|V5+|AZUMI_V5PLUS_AC27|V5+|
 |Azumi|V54_AC24|Azumi_V54_AC24|V54|
+|Azumi|V55|Azumi_V55|V55|
 |Azumi|V5PLUS_AC25|Azumi_V5PLUS_AC25|V5+|
 |Azumi|V5_AC25|Azumi_V5_AC25|V5|
 |Azumi|V5_AC25B|Azumi_V5_AC25B|V5|
@@ -2294,6 +2296,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BRIGMTON|BTPC-1025OC|BTPC-1025OC|BTPC-1025OC|
 |BRIGMTON|BTPC-1027QC3G|BTPC-1027QC3G|BTPC-1027QC3G|
 |BRIGMTON|Spain|BTPC-801QC|BTPC-801QC|
+|BRUHM|BTF-75TG|samseong|AI PONT|
 |BTC Mobile|Touch|Touch|Touch|
 |BYD|DynaVox T10|T10|T10|
 |BYD|FarEastone Smart 502|Smart502|Smart 502|
@@ -2972,6 +2975,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bravis|A510_Jeans_4G|A510_Jeans_4G|A510_Jeans_4G|
 |Bravis|A511 Harmony|A511_Harmony|A511 Harmony|
 |Bravis|A512 Harmony Pro|A512_Harmony_Pro|A512 Harmony Pro|
+|Bravis|G7H|ikebukuro|AI PONT|
 |Bravis|M9|M9|M9|
 |Bravis|N1-570 Space|N1-570-Space|N1-570 Space|
 |Bravis|N1_550_Cruiser|N1_550_Cruiser|N1_550_Cruiser|
@@ -3068,6 +3072,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CHAINWAY|P80_EEA|P80|P80|
 |CHCNAV|LT700|LT700|LT700|
 |CHN TELECOM|CHN-UCAN MJ|lefhd|CHN-UCAN MJ|
+|CHiQ|M7A|samseong|AI PONT|
 |CILICO|C6|C6|C6|
 |CILICO|F750|F750|F750|
 |CILICO|F880|F880|F880|
@@ -6574,6 +6579,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Grundig|GTB1050|GTB1050|GTB 1050|
 |Grundig|GTB850|GTB850|GTB 850|
 |Grundig|TC69CA2|GTB801|GTB 801|
+|Grunhelm|GT9HD32|ikebukuro|AI PONT|
 |Gryphon|Veil|granite|Veil|
 |Gtel|A7100 X3|A7100_X3|A7100_X3|
 |Gtel|A7101_X3_mini|A7101_X3_mini|A7101_X3_mini|
@@ -10194,6 +10200,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|Eternity_H66|H25566K|Eternity_H66|
 |Hyundai|Eternity_P7|HT4P7128LB|Eternity_P7|
 |Hyundai|Eternity_P7|HT4P764LB|Eternity_P7|
+|Hyundai|G9S|ikebukuro|AI PONT|
 |Hyundai|H-LED32ES5008|ikebukuro|AI PONT|
 |Hyundai|H-LED32ES5108|ikebukuro|AI PONT|
 |Hyundai|H-LED50EU7008|samseong|AI PONT|
@@ -11399,6 +11406,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTC (PD)|BLISS_8|BLISS_8|BLISS_8|
 |KTV|PureKTV|DV8219|Pure|
 |KTV|PureKTV|DV8219|PureKTV|
+|KUNFT|K5130H43U|samseong|AI PONT|
 |KUNFT|K5132H32H|ikebukuro|AI PONT|
 |KZG (Ke Zhi Guang)|Dream one|Dream_one|Dream one|
 |KZG (Ke Zhi Guang)|KZG Scope|KZG_Scope|KZG Scope|
@@ -15018,6 +15026,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mecool|KM3|KM3|KM3|
 |Mecool|KM8|KM8|KM8|
 |Mecool|KM9PRO|KM9PRO|KM9PRO|
+|Mediabox|MBX4K Maverick|JFK|MBX4K Maverick|
 |Mediabox|MBX4K Ranger|DV8235|MBX4K Ranger|
 |Mediacom|10edge|10edge|10edge|
 |Mediacom|1AEC|1AEC|1AEC|
@@ -17349,7 +17358,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus5T|OnePlus5T|ONEPLUS A5010|
 |OnePlus|OnePlus6T|OnePlus6T|ONEPLUS A6013|
 |OnePlus|OnePlus6T|OnePlus6TSingle|ONEPLUS A6013|
-|OnePlus|OnePlus8T|OnePlus8T|KB2005|
 |OnePlus|Oneplus_Dosa_IN|Oneplus_Dosa_IN|Oneplus_Dosa_IN|
 |OnePlus|X|OnePlus|ONE E1003|
 |OnePlus|Y Series|shibuya|Y Series|
@@ -18410,9 +18418,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|4K OLED TV powered by Android|PH7M_LT_5596|TPM171E|
 |Philips|4K Razor Slim LED TV powered by Android TV™|MT5593Uplus|QM151E|
 |Philips|4K Razor Slim OLED TV powered by Android TV|QM16XE_UB|QM161E|
-|Philips|4K UHD LED Android TV with Ambilight 3-sided and Google Assistant|PH9M_EA_5599|TPM191E|
-|Philips|4K UHD LED Android TV with Ambilight 3-sided and Google Assistant|PH9M_EA_5599|TPM191KN|
-|Philips|4K UHD LED Android TV with Ambilight 3-sided and Google Assistant|PH9M_EA_5599|TPM191L|
 |Philips|4K UHD Razor Slim LED TV powered by Android™|QV151E|QV151E|
 |Philips|4K Ultra Slim LED TV powered by Android|QM16XE_U|QM163E|
 |Philips|Android 2014|philipstv|AND1E|
@@ -18448,6 +18453,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|PI4010G|PI4010G|PI4010G|
 |Philips|PI7100/93|PI7100_93|PI7100_93|
 |Philips|Philips Android TV|PH0M_EA_T32|2020/2021 UHD Android TV|
+|Philips|Philips Android TV|PH9M_EA_5599|TPM191E|
+|Philips|Philips Android TV|PH9M_EA_5599|TPM191KN|
+|Philips|Philips Android TV|PH9M_EA_5599|TPM191L|
 |Philips|Philips S257|S257|Philips S257|
 |Philips|Philips S260|Philips_S260|Philips_S260|
 |Philips|Philips S310X|Philips_S310X|Philips S310X|
@@ -18787,6 +18795,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|Twist SE|SP2|S545|
 |Positivo|Twist SE|SP2|Twist SE|
 |Positivo|Twist Tab|T770|Twist Tab|
+|Positivo|Twist Tab|T770|Twist Tab Kids|
 |Positivo|Twist Tab Kids|T770|Twist Tab|
 |Positivo|Twist Tab Kids|T770|Twist Tab Kids|
 |Positivo|Twist XL|S555|Twist XL|
@@ -25182,6 +25191,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 3L|Benz|5039U|
 |TCT (Alcatel)|Alcatel 3L|Benz|5039Y_RU|
 |TCT (Alcatel)|Alcatel 3L|Benz|HEYOU50|
+|TCT (Alcatel)|Alcatel 3L|Hong_Kong_Pro|6056D|
 |TCT (Alcatel)|Alcatel 3L|TokyoPro|5029D|
 |TCT (Alcatel)|Alcatel 3L|TokyoPro|5029D_EEA|
 |TCT (Alcatel)|Alcatel 3L|TokyoPro|5029D_RU|
@@ -26256,6 +26266,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telma|telma_i401|telma_i401|telma i401|
 |TeloSystems|TE580P|TE580P|TE580P|
 |TeloSystems|TE580PS|TE580PS|TE580PS|
+|TeloSystems|TE590P|TE590P_E|TE590P_E|
 |TeloSystems|TELO_TE610|TELO_TE610|TELO_TE610|
 |TeloSystems|TELO_TE610_O|TELO_TE610_O|TELO_TE610_O|
 |Telus|HMB2213PW22TS|HMB2213PW22TS|HMB2213PW22TS|
@@ -26793,6 +26804,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VANTEC|telma_i401|G4|G4|
 |VBox|XTi|DTP9539|XTi|
 |VENSTAR|VENSTAR2050|VENSTAR2050|VENSTAR2050|
+|VIA Tech|Mobile360 IVT01|IVT01|Mobile360 IVT01|
 |VIBE Z|K910|kitonw|Lenovo K910|
 |VNPT Technology|VNPT SmartBox 2x|vnptt_smb_v2x|VNPT SmartBox 2x|
 |VOLFEN|NEXO_TAB_10|NEXO_TAB_10|NEXO_TAB_10|
@@ -26802,6 +26814,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VORCOM|S7-classic|S7-classic|S7-classic|
 |VSN|V.35|up11_h1_vsn|V.35|
 |VT|MB300|MB300|SmartTV|
+|VTCNOWRINDO|VR-42AF6800|ikebukuro|AI PONT|
 |VUCATIMES|HAOQIN|E10|E10|
 |VUCATIMES|N10|N10|N10|
 |VUCATIMES|N10_EEA|N10|N10|
@@ -28535,6 +28548,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Yuho|YUHO_Y3_PRO|YUHO_Y3_PRO|YUHO_Y3_PRO|
 |Yumpingo|YUMPINGO_1|YUMPINGO_1|YUMPINGO_1|
 |ZAMOLXE|ZXT-10FL323G-PRO|ZXT-10FL323G-PRO|ZXT-10FL323G-PRO|
+|ZAMOLXE|ZXT-10HL323S|ZXT-10HL323S|ZXT-10HL323S|
 |ZENTALITY|C-601|C-601|C-601|
 |ZENTALITY|C-700|C-700|C-700|
 |ZENTALITY|C-705|C-705|C-705|

@@ -776,6 +776,198 @@
    "model": "TG996"
   }
  ],
+ "ikebukuro": [
+  {
+   "brand": "ALBADEEL",
+   "name": "B725U",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Aiwa",
+   "name": "AW-LED32G7K",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Aiwa",
+   "name": "AW-LED43GKF",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Arrow",
+   "name": "RO-43LCS",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "BenQ",
+   "name": "E40-520",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Bravis",
+   "name": "G7H",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Changhong",
+   "name": "L32H7",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Changhong",
+   "name": "L32H7",
+   "model": "CHiQ AI Center"
+  },
+  {
+   "brand": "Changhong",
+   "name": "L42G6F",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Classpro",
+   "name": "EGS42FHD",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Condor",
+   "name": "32SD520",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Croma",
+   "name": "43FDVRCHG5SP",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Grunhelm",
+   "name": "GT9HD32",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "G9S",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "H-LED32ES5008",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "H-LED32ES5108",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "HYLED4321AiM",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Infinix",
+   "name": "32X1",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "JVC",
+   "name": "LT-32N3115A",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "JVC",
+   "name": "LT-40KB308",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "JVC",
+   "name": "LT-40N5115A",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "KUNFT",
+   "name": "K5132H32H",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Kogan",
+   "name": "KALED32RH9210STA",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Micromax",
+   "name": "32CAM6SHD",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Nikkei",
+   "name": "NI32HG7NA9",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "NobleSkiodo",
+   "name": "32VRCHG5SP",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "OK (Mediamark)",
+   "name": "ODL 32770H-TAB",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Philco",
+   "name": "PTV40G71AGBL-VA",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Realme",
+   "name": "realme TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Realme",
+   "name": "realme TV 32",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Rindo",
+   "name": "R-32B6600",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Riviera",
+   "name": "RLED-AND42CHG6F",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "SHINON",
+   "name": "SH32G7S",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Syinix",
+   "name": "32A1S",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Thomson",
+   "name": "32TG6A9",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "UNITED TV",
+   "name": "LED32HS72A9",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "VTCNOWRINDO",
+   "name": "VR-42AF6800",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Vu Televisions",
+   "name": "43UA",
+   "model": "AI PONT"
+  }
+ ],
  "samseong": [
   {
    "brand": "ALMATEEN",
@@ -798,8 +990,18 @@
    "model": "AI PONT"
   },
   {
+   "brand": "BRUHM",
+   "name": "BTF-75TG",
+   "model": "AI PONT"
+  },
+  {
    "brand": "BenQ",
    "name": "E55-720",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "CHiQ",
+   "name": "M7A",
    "model": "AI PONT"
   },
   {
@@ -855,6 +1057,11 @@
   {
    "brand": "JVC",
    "name": "LT-50N7115A",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "KUNFT",
+   "name": "K5130H43U",
    "model": "AI PONT"
   },
   {
@@ -5165,173 +5372,6 @@
    "brand": "Yasin",
    "name": "YASIN 2K TV",
    "model": "YASIN 2K TV"
-  }
- ],
- "ikebukuro": [
-  {
-   "brand": "Aiwa",
-   "name": "AW-LED32G7K",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Aiwa",
-   "name": "AW-LED43GKF",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Arrow",
-   "name": "RO-43LCS",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "BenQ",
-   "name": "E40-520",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Changhong",
-   "name": "L32H7",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Changhong",
-   "name": "L32H7",
-   "model": "CHiQ AI Center"
-  },
-  {
-   "brand": "Changhong",
-   "name": "L42G6F",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Classpro",
-   "name": "EGS42FHD",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Condor",
-   "name": "32SD520",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Croma",
-   "name": "43FDVRCHG5SP",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "H-LED32ES5008",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "H-LED32ES5108",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "HYLED4321AiM",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Infinix",
-   "name": "32X1",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "JVC",
-   "name": "LT-32N3115A",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "JVC",
-   "name": "LT-40KB308",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "JVC",
-   "name": "LT-40N5115A",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "KUNFT",
-   "name": "K5132H32H",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Kogan",
-   "name": "KALED32RH9210STA",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Micromax",
-   "name": "32CAM6SHD",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Nikkei",
-   "name": "NI32HG7NA9",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "NobleSkiodo",
-   "name": "32VRCHG5SP",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "OK (Mediamark)",
-   "name": "ODL 32770H-TAB",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Philco",
-   "name": "PTV40G71AGBL-VA",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Realme",
-   "name": "realme TV",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Realme",
-   "name": "realme TV 32",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Rindo",
-   "name": "R-32B6600",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Riviera",
-   "name": "RLED-AND42CHG6F",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "SHINON",
-   "name": "SH32G7S",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Syinix",
-   "name": "32A1S",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Thomson",
-   "name": "32TG6A9",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "UNITED TV",
-   "name": "LED32HS72A9",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Vu Televisions",
-   "name": "43UA",
-   "model": "AI PONT"
   }
  ],
  "AW790": [
@@ -15887,6 +15927,13 @@
    "brand": "Azumi",
    "name": "V54_AC24",
    "model": "V54"
+  }
+ ],
+ "Azumi_V55": [
+  {
+   "brand": "Azumi",
+   "name": "V55",
+   "model": "V55"
   }
  ],
  "Azumi_V5PLUS_AC25": [
@@ -101115,6 +101162,13 @@
    "model": "KM9PRO"
   }
  ],
+ "JFK": [
+  {
+   "brand": "Mediabox",
+   "name": "MBX4K Maverick",
+   "model": "MBX4K Maverick"
+  }
+ ],
  "10edge": [
   {
    "brand": "Mediacom",
@@ -116069,11 +116123,6 @@
    "brand": "OnePlus",
    "name": "OnePlus 8T",
    "model": "KB2005"
-  },
-  {
-   "brand": "OnePlus",
-   "name": "OnePlus8T",
-   "model": "KB2005"
   }
  ],
  "OnePlus8TTMO": [
@@ -123040,23 +123089,6 @@
    "model": "QM161E"
   }
  ],
- "PH9M_EA_5599": [
-  {
-   "brand": "Philips",
-   "name": "4K UHD LED Android TV with Ambilight 3-sided and Google Assistant",
-   "model": "TPM191E"
-  },
-  {
-   "brand": "Philips",
-   "name": "4K UHD LED Android TV with Ambilight 3-sided and Google Assistant",
-   "model": "TPM191KN"
-  },
-  {
-   "brand": "Philips",
-   "name": "4K UHD LED Android TV with Ambilight 3-sided and Google Assistant",
-   "model": "TPM191L"
-  }
- ],
  "QV151E": [
   {
    "brand": "Philips",
@@ -123301,6 +123333,23 @@
    "brand": "Philips",
    "name": "Philips Android TV",
    "model": "2020/2021 UHD Android TV"
+  }
+ ],
+ "PH9M_EA_5599": [
+  {
+   "brand": "Philips",
+   "name": "Philips Android TV",
+   "model": "TPM191E"
+  },
+  {
+   "brand": "Philips",
+   "name": "Philips Android TV",
+   "model": "TPM191KN"
+  },
+  {
+   "brand": "Philips",
+   "name": "Philips Android TV",
+   "model": "TPM191L"
   }
  ],
  "S257": [
@@ -125453,6 +125502,11 @@
    "brand": "Positivo",
    "name": "Twist Tab",
    "model": "Twist Tab"
+  },
+  {
+   "brand": "Positivo",
+   "name": "Twist Tab",
+   "model": "Twist Tab Kids"
   },
   {
    "brand": "Positivo",
@@ -166101,6 +166155,13 @@
    "model": "HEYOU50"
   }
  ],
+ "Hong_Kong_Pro": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3L",
+   "model": "6056D"
+  }
+ ],
  "Morgan_4G": [
   {
    "brand": "TCT (Alcatel)",
@@ -171445,6 +171506,13 @@
    "model": "TE580PS"
   }
  ],
+ "TE590P_E": [
+  {
+   "brand": "TeloSystems",
+   "name": "TE590P",
+   "model": "TE590P_E"
+  }
+ ],
  "TELO_TE610": [
   {
    "brand": "TeloSystems",
@@ -174632,6 +174700,13 @@
    "brand": "VENSTAR",
    "name": "VENSTAR2050",
    "model": "VENSTAR2050"
+  }
+ ],
+ "IVT01": [
+  {
+   "brand": "VIA Tech",
+   "name": "Mobile360 IVT01",
+   "model": "Mobile360 IVT01"
   }
  ],
  "kitonw": [
@@ -185279,6 +185354,13 @@
    "brand": "ZAMOLXE",
    "name": "ZXT-10FL323G-PRO",
    "model": "ZXT-10FL323G-PRO"
+  }
+ ],
+ "ZXT-10HL323S": [
+  {
+   "brand": "ZAMOLXE",
+   "name": "ZXT-10HL323S",
+   "model": "ZXT-10HL323S"
   }
  ],
  "C-601": [
