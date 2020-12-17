@@ -4941,6 +4941,13 @@
    "model": "TR5994"
   }
  ],
+ "TR6948": [
+  {
+   "brand": "Advance",
+   "name": "TR6948",
+   "model": "TR6948"
+  }
+ ],
  "TR7988": [
   {
    "brand": "Advance",
@@ -23395,6 +23402,13 @@
    "model": "MAL-FWTVTB"
   }
  ],
+ "BS101": [
+  {
+   "brand": "Brightside",
+   "name": "BS101",
+   "model": "BS101"
+  }
+ ],
  "M8047IU": [
   {
    "brand": "Brightstar",
@@ -26733,6 +26747,13 @@
    "brand": "Chuwi",
    "name": "Surpad",
    "model": "Surpad"
+  }
+ ],
+ "CS20": [
+  {
+   "brand": "Ciontek",
+   "name": "CS20",
+   "model": "CS20"
   }
  ],
  "RK25": [
@@ -114048,6 +114069,20 @@
    "model": "Nextgear n1"
   }
  ],
+ "N380": [
+  {
+   "brand": "Nexvoo",
+   "name": "NexFone N380",
+   "model": "N380"
+  }
+ ],
+ "N380_EEA": [
+  {
+   "brand": "Nexvoo",
+   "name": "NexFone N380",
+   "model": "N380_EEA"
+  }
+ ],
  "S800c": [
   {
    "brand": "Nikon",
@@ -152958,13 +152993,6 @@
    "model": "ADT-2"
   }
  ],
- "SEI500EV": [
-  {
-   "brand": "Shenzhen SEI Robotics",
-   "name": "EVOPRO",
-   "model": "EVOPRO"
-  }
- ],
  "PNT-7045": [
   {
    "brand": "Shuttle",
@@ -154201,6 +154229,13 @@
    "brand": "Skyworth",
    "name": "South America",
    "model": "globe"
+  }
+ ],
+ "HY44G": [
+  {
+   "brand": "Skyworth",
+   "name": "TV Box",
+   "model": "TV Box"
   }
  ],
  "DV8220": [
@@ -183504,6 +183539,13 @@
    "model": "X-ViewTablet10"
   }
  ],
+ "X_ViewTablet10": [
+  {
+   "brand": "X-View",
+   "name": "X_ViewTablet10",
+   "model": "X-ViewTablet"
+  }
+ ],
  "xgimiapollo": [
   {
    "brand": "XGIMI",
@@ -195249,6 +195291,13 @@
    "brand": "eBox",
    "name": "Ebox",
    "model": "EboxTV"
+  }
+ ],
+ "SEI500EV": [
+  {
+   "brand": "eSTREAM 4K",
+   "name": "EVOPRO",
+   "model": "EVOPRO"
   }
  ],
  "SEI500TV": [

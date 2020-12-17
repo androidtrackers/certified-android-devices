@@ -10016,6 +10016,13 @@
    "model": "TR5994"
   }
  ],
+ "TR6948": [
+  {
+   "brand": "Advance",
+   "device": "TR6948",
+   "model": "TR6948"
+  }
+ ],
  "TR7988": [
   {
    "brand": "Advance",
@@ -28291,6 +28298,13 @@
    "model": "MAL-FWTVTB"
   }
  ],
+ "BS101": [
+  {
+   "brand": "Brightside",
+   "device": "BS101",
+   "model": "BS101"
+  }
+ ],
  "C8": [
   {
    "brand": "Brightstar",
@@ -31907,6 +31921,13 @@
    "brand": "Chuwi",
    "device": "Surpad",
    "model": "Surpad"
+  }
+ ],
+ "CS20": [
+  {
+   "brand": "Ciontek",
+   "device": "CS20",
+   "model": "CS20"
   }
  ],
  "Cipherlab RK25": [
@@ -114865,6 +114886,18 @@
    "model": "Nextgear n1"
   }
  ],
+ "NexFone N380": [
+  {
+   "brand": "Nexvoo",
+   "device": "N380",
+   "model": "N380"
+  },
+  {
+   "brand": "Nexvoo",
+   "device": "N380_EEA",
+   "model": "N380_EEA"
+  }
+ ],
  "NI32HG7NA9": [
   {
    "brand": "Nikkei",
@@ -151130,13 +151163,6 @@
    "model": "ADT-2"
   }
  ],
- "EVOPRO": [
-  {
-   "brand": "Shenzhen SEI Robotics",
-   "device": "SEI500EV",
-   "model": "EVOPRO"
-  }
- ],
  "SEI103V": [
   {
    "brand": "Shenzhen SEI Robotics",
@@ -152342,6 +152368,13 @@
    "brand": "Skyworth",
    "device": "open_fhd_sa",
    "model": "open_fhd"
+  }
+ ],
+ "TV Box": [
+  {
+   "brand": "Skyworth",
+   "device": "HY44G",
+   "model": "TV Box"
   }
  ],
  "DV8220": [
@@ -181120,6 +181153,13 @@
    "model": "X-ViewTablet10"
   }
  ],
+ "X_ViewTablet10": [
+  {
+   "brand": "X-View",
+   "device": "X_ViewTablet10",
+   "model": "X-ViewTablet"
+  }
+ ],
  "Halo": [
   {
    "brand": "XGIMI",
@@ -192470,6 +192510,13 @@
    "brand": "eBox",
    "device": "diw387eb",
    "model": "EboxTV"
+  }
+ ],
+ "EVOPRO": [
+  {
+   "brand": "eSTREAM 4K",
+   "device": "SEI500EV",
+   "model": "EVOPRO"
   }
  ],
  "IPA-1104HDH-01": [

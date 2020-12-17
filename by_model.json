@@ -4463,6 +4463,13 @@
    "device": "TR5994"
   }
  ],
+ "TR6948": [
+  {
+   "brand": "Advance",
+   "name": "TR6948",
+   "device": "TR6948"
+  }
+ ],
  "TR7988": [
   {
    "brand": "Advance",
@@ -22464,6 +22471,13 @@
    "device": "MAL-FWTVTB"
   }
  ],
+ "BS101": [
+  {
+   "brand": "Brightside",
+   "name": "BS101",
+   "device": "BS101"
+  }
+ ],
  "C8": [
   {
    "brand": "Brightstar",
@@ -25959,6 +25973,13 @@
    "brand": "Chuwi",
    "name": "Surpad",
    "device": "Surpad"
+  }
+ ],
+ "CS20": [
+  {
+   "brand": "Ciontek",
+   "name": "CS20",
+   "device": "CS20"
   }
  ],
  "RK25": [
@@ -117235,6 +117256,20 @@
    "device": "Nextgear_n1"
   }
  ],
+ "N380": [
+  {
+   "brand": "Nexvoo",
+   "name": "NexFone N380",
+   "device": "N380"
+  }
+ ],
+ "N380_EEA": [
+  {
+   "brand": "Nexvoo",
+   "name": "NexFone N380",
+   "device": "N380_EEA"
+  }
+ ],
  "COOLPIX S800c": [
   {
    "brand": "Nikon",
@@ -158055,13 +158090,6 @@
    "device": "adt2"
   }
  ],
- "EVOPRO": [
-  {
-   "brand": "Shenzhen SEI Robotics",
-   "name": "EVOPRO",
-   "device": "SEI500EV"
-  }
- ],
  "ANDROID TV MEDIA BOX": [
   {
    "brand": "Shenzhen SEI Robotics",
@@ -159292,6 +159320,13 @@
    "brand": "Skyworth",
    "name": "South America",
    "device": "shinjuku"
+  }
+ ],
+ "TV Box": [
+  {
+   "brand": "Skyworth",
+   "name": "TV Box",
+   "device": "HY44G"
   }
  ],
  "DV8220": [
@@ -191186,6 +191221,13 @@
    "device": "X-ViewTablet10"
   }
  ],
+ "X-ViewTablet": [
+  {
+   "brand": "X-View",
+   "name": "X_ViewTablet10",
+   "device": "X_ViewTablet10"
+  }
+ ],
  "Halo": [
   {
    "brand": "XGIMI",
@@ -204726,6 +204768,13 @@
    "brand": "eBox",
    "name": "Ebox",
    "device": "diw387eb"
+  }
+ ],
+ "EVOPRO": [
+  {
+   "brand": "eSTREAM 4K",
+   "name": "EVOPRO",
+   "device": "SEI500EV"
   }
  ],
  "IPA1104HDW-02": [

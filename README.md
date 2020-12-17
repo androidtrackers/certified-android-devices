@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-12-16
+Last sync is 2020-12-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -496,6 +496,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advance|TR3947|TR3947|TR3947|
 |Advance|TR4986|Tablet_adv_v1|ADVANCE|
 |Advance|TR5994|TR5994|TR5994|
+|Advance|TR6948|TR6948|TR6948|
 |Advance|TR7988|TR7988|TR7988|
 |Advance|Tablet_Advance|Tablet_adv_v1|ADVANCE|
 |Advance|Tr3946|Tr3946|Tr3946|
@@ -2990,6 +2991,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bravva|DM-901|DM-901|DM-901|
 |Bravva|Impress_Aero|Impress_Aero|Impress_Aero|
 |Brighton|MAL-FWTVTB|MAL-FWTVTB|MAL-FWTVTB|
+|Brightside|BS101|BS101|BS101|
 |Brightstar|C8|C8|C8|
 |Brightstar|M8046IU|M8047IU|M8047IU|
 |British Telecom|BT Home SmartPhone III|BT_Home_SmartPhone_III|E81|
@@ -3473,6 +3475,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Chuwi|Hi9Pro|Hi9Pro|Hi9Pro|
 |Chuwi|HipadX_eea_1|HipadX|HiPad X|
 |Chuwi|Surpad|Surpad|Surpad|
+|Ciontek|CS20|CS20|CS20|
 |Cipherlab|Cipherlab RK25|RK25|RK25|
 |Cipherlab|Hera51|Hera51|Hera51|
 |Cipherlab|RK25|RK25|RK25|
@@ -17008,6 +17011,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nextel|V.45|H26-VSN|NII Nextel|
 |Nextel|V.45|H26-VSN|V.45|
 |Nextgear|Nextgear n1|Nextgear_n1|Nextgear n1|
+|Nexvoo|NexFone N380|N380|N380|
+|Nexvoo|NexFone N380|N380_EEA|N380_EEA|
 |Nikkei|NI32HG7NA9|ikebukuro|AI PONT|
 |Nikkei|NI43UG7NA9|samseong|AI PONT|
 |Nikon|COOLPIX|S800c|COOLPIX S800c|
@@ -23123,7 +23128,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Shenzhen Jiuzhou|DTP9503|DTP9503|DTP9503|
 |Shenzhen Jiuzhou|DTP9710|DTP9710|DTP9710|
 |Shenzhen SEI Robotics|ADT-2|adt2|ADT-2|
-|Shenzhen SEI Robotics|EVOPRO|SEI500EV|EVOPRO|
 |Shenzhen SEI Robotics|SEI103V|SEI103|ANDROID TV MEDIA BOX|
 |Shuttle|PNT-7045|PNT-7045|PNT-7045|
 |SiAL|Bic camera|Si01BB|Si01BB|
@@ -23320,6 +23324,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Skyworth|South Africa|open_fhd_sa|open_fhd|
 |Skyworth|South America|globe_sa|globe|
 |Skyworth|South America|shinjuku|SA 2K TV|
+|Skyworth|TV Box|HY44G|TV Box|
 |SledovaniTV|DV8220|DV8220|DV8220|
 |Smadl|Matri8|Matri8|Matri8|
 |Smadl|SMADL|Matri2|Matri2|
@@ -28222,6 +28227,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |X-View|X-View|X-ViewTablet7|X-ViewTablet7|
 |X-View|X-ViewGamer10|X-ViewGamer10|X-ViewGamer10|
 |X-View|X-ViewTablet10|X-ViewTablet10|X-ViewTablet10|
+|X-View|X_ViewTablet10|X_ViewTablet10|X-ViewTablet|
 |XGIMI|Halo|xgimiapollo|Halo|
 |XGIMI|MoGo|xgimiapollo|MoGo|
 |XGIMI|MoGo Pro|xgimiapollo|MoGo Pro|
@@ -30299,6 +30305,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |duraMOBI|DK66|DK66|DK66|
 |eBox|EBoxTv|diw387eb|EboxTV|
 |eBox|Ebox|diw387eb|EboxTV|
+|eSTREAM 4K|EVOPRO|SEI500EV|EVOPRO|
 |eSTREAM 4K|IPA-1104HDH-01|eSTREAM4K_4x4|IPA-1104HDH-01|
 |eSTREAM 4K|IPA1104HDW-02|kunlun|IPA1104HDW-02|
 |eSTREAM 4K|Pyxis|SEI500TV|Pyxis|

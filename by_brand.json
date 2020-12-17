@@ -2566,6 +2566,11 @@
    "model": "TR5994"
   },
   {
+   "device": "TR6948",
+   "name": "TR6948",
+   "model": "TR6948"
+  },
+  {
    "device": "TR7988",
    "name": "TR7988",
    "model": "TR7988"
@@ -15366,6 +15371,13 @@
    "model": "MAL-FWTVTB"
   }
  ],
+ "Brightside": [
+  {
+   "device": "BS101",
+   "name": "BS101",
+   "model": "BS101"
+  }
+ ],
  "Brightstar": [
   {
    "device": "C8",
@@ -17941,6 +17953,13 @@
    "device": "Surpad",
    "name": "Surpad",
    "model": "Surpad"
+  }
+ ],
+ "Ciontek": [
+  {
+   "device": "CS20",
+   "name": "CS20",
+   "model": "CS20"
   }
  ],
  "Cipherlab": [
@@ -87322,6 +87341,18 @@
    "model": "Nextgear n1"
   }
  ],
+ "Nexvoo": [
+  {
+   "device": "N380",
+   "name": "NexFone N380",
+   "model": "N380"
+  },
+  {
+   "device": "N380_EEA",
+   "name": "NexFone N380",
+   "model": "N380_EEA"
+  }
+ ],
  "Nikkei": [
   {
    "device": "ikebukuro",
@@ -118487,11 +118518,6 @@
    "model": "ADT-2"
   },
   {
-   "device": "SEI500EV",
-   "name": "EVOPRO",
-   "model": "EVOPRO"
-  },
-  {
    "device": "SEI103",
    "name": "SEI103V",
    "model": "ANDROID TV MEDIA BOX"
@@ -119508,6 +119534,11 @@
    "device": "shinjuku",
    "name": "South America",
    "model": "SA 2K TV"
+  },
+  {
+   "device": "HY44G",
+   "name": "TV Box",
+   "model": "TV Box"
   }
  ],
  "SledovaniTV": [
@@ -144760,6 +144791,11 @@
    "device": "X-ViewTablet10",
    "name": "X-ViewTablet10",
    "model": "X-ViewTablet10"
+  },
+  {
+   "device": "X_ViewTablet10",
+   "name": "X_ViewTablet10",
+   "model": "X-ViewTablet"
   }
  ],
  "XGIMI": [
@@ -155294,6 +155330,11 @@
   }
  ],
  "eSTREAM 4K": [
+  {
+   "device": "SEI500EV",
+   "name": "EVOPRO",
+   "model": "EVOPRO"
+  },
   {
    "device": "eSTREAM4K_4x4",
    "name": "IPA-1104HDH-01",
