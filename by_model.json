@@ -1748,6 +1748,13 @@
    "device": "FAST_10"
   }
  ],
+ "Fasts7": [
+  {
+   "brand": "Accent",
+   "name": "Fasts7",
+   "device": "Fasts7"
+  }
+ ],
  "KIDZY70": [
   {
    "brand": "Accent",
@@ -19675,11 +19682,25 @@
    "device": "Tab8"
   }
  ],
+ "A-STREAM": [
+  {
+   "brand": "Blaupunkt",
+   "name": "A-STREAM",
+   "device": "GMP"
+  }
+ ],
  "Atlantis_A10_G403": [
   {
    "brand": "Blaupunkt",
    "name": "Atlantis_A10_G403",
    "device": "Atlantis_A10_G403"
+  }
+ ],
+ "B-STREAM": [
+  {
+   "brand": "Blaupunkt",
+   "name": "B-STREAM",
+   "device": "JFK"
   }
  ],
  "BP_6008": [
@@ -82121,6 +82142,11 @@
    "brand": "Kruger&Matz",
    "name": "LIVE 7",
    "device": "LIVE_7"
+  },
+  {
+   "brand": "Kruger&Matz",
+   "name": "LIVE_7",
+   "device": "LIVE_7"
   }
  ],
  "LIVE 7S": [
@@ -110538,6 +110564,13 @@
    "device": "blackjack"
   }
  ],
+ "Lenovo XT2081-4": [
+  {
+   "brand": "Motorola",
+   "name": "Lenovo XT2081-4",
+   "device": "guam"
+  }
+ ],
  "XT621": [
   {
    "brand": "Motorola",
@@ -111977,6 +112010,20 @@
    "device": "rhannah"
   }
  ],
+ "malta": [
+  {
+   "brand": "Motorola",
+   "name": "moto e(7)",
+   "device": "malta"
+  }
+ ],
+ "moto e(7)": [
+  {
+   "brand": "Motorola",
+   "name": "moto e(7)",
+   "device": "malta"
+  }
+ ],
  "moto e(7) plus": [
   {
    "brand": "Motorola",
@@ -112117,6 +112164,20 @@
    "brand": "Motorola",
    "name": "moto g fast",
    "device": "rav"
+  }
+ ],
+ "moto E": [
+  {
+   "brand": "Motorola",
+   "name": "moto g play (2021)",
+   "device": "guamna"
+  }
+ ],
+ "moto g play (2021)": [
+  {
+   "brand": "Motorola",
+   "name": "moto g play (2021)",
+   "device": "guamna"
   }
  ],
  "moto g power": [
@@ -112366,6 +112427,13 @@
    "device": "odessa"
   }
  ],
+ "moto g(9) power": [
+  {
+   "brand": "Motorola",
+   "name": "moto g(9) power",
+   "device": "cebu"
+  }
+ ],
  "XT1943-1": [
   {
    "brand": "Motorola",
@@ -112428,6 +112496,13 @@
    "brand": "Motorola",
    "name": "motorola one 5G UW",
    "device": "nairo"
+  }
+ ],
+ "motorola one 5G ace": [
+  {
+   "brand": "Motorola",
+   "name": "motorola one 5G ace",
+   "device": "kiev"
   }
  ],
  "motorola one action": [
@@ -112772,6 +112847,13 @@
    "brand": "Movitel",
    "name": "M8423",
    "device": "M8423"
+  }
+ ],
+ "M8424": [
+  {
+   "brand": "Movitel",
+   "name": "M8424",
+   "device": "M8424"
   }
  ],
  "M8601": [
@@ -159374,6 +159456,13 @@
    "device": "Safari_2plus"
   }
  ],
+ "Safari 2": [
+  {
+   "brand": "Smadl",
+   "name": "Safari_2",
+   "device": "Safari_2"
+  }
+ ],
  "Smailo_2GO": [
   {
    "brand": "Smailo",
@@ -165212,6 +165301,13 @@
    "device": "VS700"
   }
  ],
+ "ATOM": [
+  {
+   "brand": "Symphony",
+   "name": "ATOM",
+   "device": "ATOM"
+  }
+ ],
  "E90": [
   {
    "brand": "Symphony",
@@ -166615,6 +166711,13 @@
   {
    "brand": "TCL",
    "name": "TCL TAB 10s",
+   "device": "Odin"
+  }
+ ],
+ "9080G": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 10s 4G",
    "device": "Odin"
   }
  ],
@@ -193107,6 +193210,13 @@
    "device": "LIV1"
   }
  ],
+ "LIV2LTE": [
+  {
+   "brand": "Yezz",
+   "name": "LIV2LTE",
+   "device": "LIV2LTE"
+  }
+ ],
  "LIV2_LTE": [
   {
    "brand": "Yezz",
@@ -205061,6 +205171,11 @@
   {
    "brand": "iBRIT",
    "name": "IBRIT_POWER6",
+   "device": "iBRIT_POWER6"
+  },
+  {
+   "brand": "iBRIT",
+   "name": "iBRIT_POWER6",
    "device": "iBRIT_POWER6"
   }
  ],

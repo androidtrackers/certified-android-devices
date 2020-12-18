@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-12-17
+Last sync is 2020-12-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -172,6 +172,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Accent|FAST7 3G|FAST7_3G|FAST7 3G|
 |Accent|FAST73G|FAST73G|FAST73G|
 |Accent|FAST_10|FAST_10|FAST_10|
+|Accent|Fasts7|Fasts7|Fasts7|
 |Accent|KIDZY70|KIDZY70|KIDZY70|
 |Accent|PEARL A4 Lite|PEARL_A4_Lite|PEARL A4 Lite|
 |Accent|PEARL A6|PEARL_A6|PEARL A6|
@@ -2618,7 +2619,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|SOLID_4_G2|SOLID_4_G2|SOLID 4 G2|
 |Blackview|Tab8|Tab8|Tab8|
 |Blackview|Tab8_NEU|Tab8_NEU|Tab8|
+|Blaupunkt|A-STREAM|GMP|A-STREAM|
 |Blaupunkt|Atlantis_A10_G403|Atlantis_A10_G403|Atlantis_A10_G403|
+|Blaupunkt|B-STREAM|JFK|B-STREAM|
 |Blaupunkt|BP_6008|BP_6008|BP_6008|
 |Blaupunkt|BP_6010|BP_6010|BP_6010|
 |Blaupunkt|Blaupunkt|bangbae|BLAUPUNKT 4K Android TV|
@@ -11703,6 +11706,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kruger&Matz|LIVE 7|LIVE_7|LIVE 7|
 |Kruger&Matz|LIVE 7S|LIVE_7S|LIVE 7S|
 |Kruger&Matz|LIVE_6plus|LIVE_6plus|LIVE_6plus|
+|Kruger&Matz|LIVE_7|LIVE_7|LIVE 7|
 |Kruger&Matz|MOVE 7|MOVE_7|MOVE_7|
 |Kruger&Matz|MOVE8|MOVE_8|MOVE_8|
 |Kruger&Matz|MOVE8mini|MOVE8mini|MOVE8mini|
@@ -15958,6 +15962,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|Lenovo K10|pokerp|Lenovo K10|
 |Motorola|Lenovo K11|fiji|Lenovo K11|
 |Motorola|Lenovo K11 Power|blackjack|Lenovo K11 Power|
+|Motorola|Lenovo XT2081-4|guam|Lenovo XT2081-4|
 |Motorola|Master Touch|umts_primus|XT621|
 |Motorola|Master Touch XT621|umts_primus|XT621|
 |Motorola|Milestone2|umts_milestone2|A953|
@@ -16188,6 +16193,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto e(5) play|james|moto e5 play|
 |Motorola|moto e(5) plus|rhannah|Moto E|
 |Motorola|moto e(5) plus|rhannah|moto e5 plus|
+|Motorola|moto e(7)|malta|malta|
+|Motorola|moto e(7)|malta|moto e(7)|
 |Motorola|moto e(7) plus|guam|moto e(7) plus|
 |Motorola|moto e5|nora|moto e5 (XT1920DL)|
 |Motorola|moto e5|nora_8917_n|moto e5|
@@ -16217,6 +16224,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g 5G|kiev|motorola edge|
 |Motorola|moto g 5G plus|nairo|moto g 5G plus|
 |Motorola|moto g fast|rav|moto g fast|
+|Motorola|moto g play (2021)|guamna|moto E|
+|Motorola|moto g play (2021)|guamna|moto g play (2021)|
 |Motorola|moto g power|sofia|moto g power|
 |Motorola|moto g power (XT2041DL)|sofia|moto g power (XT2041DL)|
 |Motorola|moto g pro|sofiap_sprout|moto g pro|
@@ -16262,6 +16271,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g(9)|guamp|moto g(9)|
 |Motorola|moto g(9) play|guamp|moto g(9) play|
 |Motorola|moto g(9) plus|odessa|moto g(9) plus|
+|Motorola|moto g(9) power|cebu|moto g(9) power|
 |Motorola|moto g6 play|jeter|Moto G Play|
 |Motorola|moto g6 play|jeter|moto g(6) play|
 |Motorola|moto p30|robusta|XT1943-1|
@@ -16275,6 +16285,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola one 5G|nairo|motorola one 5G|
 |Motorola|motorola one 5G UW|nairo|motorola one 5G|
 |Motorola|motorola one 5G UW|nairo|motorola one 5G UW|
+|Motorola|motorola one 5G ace|kiev|motorola one 5G ace|
 |Motorola|motorola one action|troika|motorola one action|
 |Motorola|motorola one action|troika_sprout|motorola one action|
 |Motorola|motorola one fusion|astro|motorola one fusion|
@@ -16328,6 +16339,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Movitel|M8421|M8421|M8421|
 |Movitel|M8422|M8422|M8422|
 |Movitel|M8423|M8423|M8423|
+|Movitel|M8424|M8424|M8424|
 |Movitel|M8601|Movitel_M8601|M8601|
 |Movitel|M9101A|M9101A|M9101A|
 |Movitel|M9101B|M9101B|M9101B|
@@ -23330,6 +23342,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smadl|SMADL|Matri2|Matri2|
 |Smadl|Safari|Safari|Safari|
 |Smadl|Safari_ 2plus|Safari_2plus|Safari_2plus|
+|Smadl|Safari_2|Safari_2|Safari 2|
 |Smailo|Smailo 2GO|Smailo_2GO|Smailo_2GO|
 |Smart|ATV device|tcl_eu|ATV|
 |Smart|Advance Pro|Advance_Pro|Advance Pro|
@@ -24236,6 +24249,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Switel|VS700|VS700|VS700|
 |Syinix|32A1S|ikebukuro|AI PONT|
 |Syinix|55A1S|samseong|AI PONT|
+|Symphony|ATOM|ATOM|ATOM|
 |Symphony|E90|E90|E90|
 |Symphony|E95|E95|E95|
 |Symphony|G10|G10|Symphony G10|
@@ -24447,6 +24461,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 10 SMART|Aquaman_10_4G|8094T|
 |TCL|TCL TAB 10s|Aquaman_10_Pro|9061|
 |TCL|TCL TAB 10s|Odin|9081X|
+|TCL|TCL TAB 10s 4G|Odin|9080G|
 |TCL|TCL TAB 8 4G|Apollo_8_4G|9032X|
 |TCL|TCL TAB kids|Thor_8_4G_VZW|9049L|
 |TCL|TKEE MINI|Hulk_7_KIDS_WIFI|8093|
@@ -28527,6 +28542,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Yezz|EPIC_T|EPIC_T|EPIC T|
 |Yezz|GO1|GO1|GO1|
 |Yezz|LIV1|LIV1|LIV1|
+|Yezz|LIV2LTE|LIV2LTE|LIV2LTE|
 |Yezz|LIV2_LTE|LIV2_LTE|LIV2_LTE|
 |Yezz|MAX1|MAX1|MAX1|
 |Yokis|WS107_eea|WS107|WS107|
@@ -30378,6 +30394,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iBRIT|i5+|i5Plus|i5+|
 |iBRIT|i5Plus|i5Plus|i5Plus|
 |iBRIT|iBRIT SpeedX|SpeedX|SpeedX|
+|iBRIT|iBRIT_POWER6|iBRIT_POWER6|iBRIT_POWER6|
 |iBall|Avid|Avid|Avid|
 |iBall|Blaze_V4|Blaze_V4|Blaze_V4|
 |iBall|Nova_4G|Nova_4G|Nova_4G|

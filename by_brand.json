@@ -922,6 +922,11 @@
    "model": "FAST_10"
   },
   {
+   "device": "Fasts7",
+   "name": "Fasts7",
+   "model": "Fasts7"
+  },
+  {
    "device": "KIDZY70",
    "name": "KIDZY70",
    "model": "KIDZY70"
@@ -13464,9 +13469,19 @@
  ],
  "Blaupunkt": [
   {
+   "device": "GMP",
+   "name": "A-STREAM",
+   "model": "A-STREAM"
+  },
+  {
    "device": "Atlantis_A10_G403",
    "name": "Atlantis_A10_G403",
    "model": "Atlantis_A10_G403"
+  },
+  {
+   "device": "JFK",
+   "name": "B-STREAM",
+   "model": "B-STREAM"
   },
   {
    "device": "BP_6008",
@@ -60235,6 +60250,11 @@
    "model": "LIVE_6plus"
   },
   {
+   "device": "LIVE_7",
+   "name": "LIVE_7",
+   "model": "LIVE 7"
+  },
+  {
    "device": "MOVE_7",
    "name": "MOVE 7",
    "model": "MOVE_7"
@@ -81924,6 +81944,11 @@
    "model": "Lenovo K11 Power"
   },
   {
+   "device": "guam",
+   "name": "Lenovo XT2081-4",
+   "model": "Lenovo XT2081-4"
+  },
+  {
    "device": "umts_primus",
    "name": "Master Touch",
    "model": "XT621"
@@ -83074,6 +83099,16 @@
    "model": "moto e5 plus"
   },
   {
+   "device": "malta",
+   "name": "moto e(7)",
+   "model": "malta"
+  },
+  {
+   "device": "malta",
+   "name": "moto e(7)",
+   "model": "moto e(7)"
+  },
+  {
    "device": "guam",
    "name": "moto e(7) plus",
    "model": "moto e(7) plus"
@@ -83217,6 +83252,16 @@
    "device": "rav",
    "name": "moto g fast",
    "model": "moto g fast"
+  },
+  {
+   "device": "guamna",
+   "name": "moto g play (2021)",
+   "model": "moto E"
+  },
+  {
+   "device": "guamna",
+   "name": "moto g play (2021)",
+   "model": "moto g play (2021)"
   },
   {
    "device": "sofia",
@@ -83444,6 +83489,11 @@
    "model": "moto g(9) plus"
   },
   {
+   "device": "cebu",
+   "name": "moto g(9) power",
+   "model": "moto g(9) power"
+  },
+  {
    "device": "jeter",
    "name": "moto g6 play",
    "model": "Moto G Play"
@@ -83507,6 +83557,11 @@
    "device": "nairo",
    "name": "motorola one 5G UW",
    "model": "motorola one 5G UW"
+  },
+  {
+   "device": "kiev",
+   "name": "motorola one 5G ace",
+   "model": "motorola one 5G ace"
   },
   {
    "device": "troika",
@@ -83790,6 +83845,11 @@
    "device": "M8423",
    "name": "M8423",
    "model": "M8423"
+  },
+  {
+   "device": "M8424",
+   "name": "M8424",
+   "model": "M8424"
   },
   {
    "device": "Movitel_M8601",
@@ -119568,6 +119628,11 @@
    "device": "Safari_2plus",
    "name": "Safari_ 2plus",
    "model": "Safari_2plus"
+  },
+  {
+   "device": "Safari_2",
+   "name": "Safari_2",
+   "model": "Safari 2"
   }
  ],
  "Smailo": [
@@ -124234,6 +124299,11 @@
  ],
  "Symphony": [
   {
+   "device": "ATOM",
+   "name": "ATOM",
+   "model": "ATOM"
+  },
+  {
    "device": "E90",
    "name": "E90",
    "model": "E90"
@@ -125305,6 +125375,11 @@
    "device": "Odin",
    "name": "TCL TAB 10s",
    "model": "9081X"
+  },
+  {
+   "device": "Odin",
+   "name": "TCL TAB 10s 4G",
+   "model": "9080G"
   },
   {
    "device": "Apollo_8_4G",
@@ -146343,6 +146418,11 @@
    "model": "LIV1"
   },
   {
+   "device": "LIV2LTE",
+   "name": "LIV2LTE",
+   "model": "LIV2LTE"
+  },
+  {
    "device": "LIV2_LTE",
    "name": "LIV2_LTE",
    "model": "LIV2_LTE"
@@ -155710,6 +155790,11 @@
    "device": "SpeedX",
    "name": "iBRIT SpeedX",
    "model": "SpeedX"
+  },
+  {
+   "device": "iBRIT_POWER6",
+   "name": "iBRIT_POWER6",
+   "model": "iBRIT_POWER6"
   }
  ],
  "iBall": [
