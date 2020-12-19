@@ -104183,6 +104183,11 @@
   {
    "device": "a02q",
    "name": "Galaxy A02s",
+   "model": "SM-A025G"
+  },
+  {
+   "device": "a02q",
+   "name": "Galaxy A02s",
    "model": "SM-A025M"
   },
   {
