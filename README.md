@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-12-19
+Last sync is 2020-12-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -27334,10 +27334,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2028|2028|V2028|
 |Vivo|V2029|2027|V2029|
 |Vivo|V2030|2030|V2030|
+|Vivo|V2031|2036|V2031|
 |Vivo|V2031A|PD2031|V2031A|
 |Vivo|V2031EA|PD2031EA|V2031EA|
+|Vivo|V2031_21|2036|V2031_21|
 |Vivo|V2032|2027|V2032|
 |Vivo|V2034A|PD2034|V2034A|
+|Vivo|V2035|2036|V2035|
+|Vivo|V2036|2036|V2031|
+|Vivo|V2036|2036|V2036|
 |Vivo|V2036A|PD2036|V2036A|
 |Vivo|V2042|2026|V2042|
 |Vivo|V2043|2026|V2043|

@@ -140178,6 +140178,11 @@
    "model": "V2030"
   },
   {
+   "device": "2036",
+   "name": "V2031",
+   "model": "V2031"
+  },
+  {
    "device": "PD2031",
    "name": "V2031A",
    "model": "V2031A"
@@ -140188,6 +140193,11 @@
    "model": "V2031EA"
   },
   {
+   "device": "2036",
+   "name": "V2031_21",
+   "model": "V2031_21"
+  },
+  {
    "device": "2027",
    "name": "V2032",
    "model": "V2032"
@@ -140196,6 +140206,21 @@
    "device": "PD2034",
    "name": "V2034A",
    "model": "V2034A"
+  },
+  {
+   "device": "2036",
+   "name": "V2035",
+   "model": "V2035"
+  },
+  {
+   "device": "2036",
+   "name": "V2036",
+   "model": "V2031"
+  },
+  {
+   "device": "2036",
+   "name": "V2036",
+   "model": "V2036"
   },
   {
    "device": "PD2036",

@@ -185656,6 +185656,18 @@
    "device": "2030"
   }
  ],
+ "V2031": [
+  {
+   "brand": "Vivo",
+   "name": "V2031",
+   "device": "2036"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2036",
+   "device": "2036"
+  }
+ ],
  "V2031A": [
   {
    "brand": "Vivo",
@@ -185670,6 +185682,13 @@
    "device": "PD2031EA"
   }
  ],
+ "V2031_21": [
+  {
+   "brand": "Vivo",
+   "name": "V2031_21",
+   "device": "2036"
+  }
+ ],
  "V2032": [
   {
    "brand": "Vivo",
@@ -185682,6 +185701,20 @@
    "brand": "Vivo",
    "name": "V2034A",
    "device": "PD2034"
+  }
+ ],
+ "V2035": [
+  {
+   "brand": "Vivo",
+   "name": "V2035",
+   "device": "2036"
+  }
+ ],
+ "V2036": [
+  {
+   "brand": "Vivo",
+   "name": "V2036",
+   "device": "2036"
   }
  ],
  "V2036A": [
