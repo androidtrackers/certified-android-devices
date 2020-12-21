@@ -18031,6 +18031,16 @@
  ],
  "Cisco": [
   {
+   "device": "860",
+   "name": "CP-860",
+   "model": "CP-860"
+  },
+  {
+   "device": "860",
+   "name": "CP-860S",
+   "model": "CP-860S"
+  },
+  {
    "device": "CP-DX650",
    "name": "CP-DX650",
    "model": "CP-DX650"
@@ -34386,6 +34396,13 @@
    "device": "Guophone_XP9800",
    "name": "XP9800",
    "model": "XP9800"
+  }
+ ],
+ "HAKO": [
+  {
+   "device": "GMP",
+   "name": "HAKO mini",
+   "model": "HAKO mini"
   }
  ],
  "HANYEAL": [
@@ -56583,6 +56600,11 @@
    "device": "itel-L5002P",
    "name": "A25 Pro",
    "model": "itel L5002P"
+  },
+  {
+   "device": "itel-A571LL",
+   "name": "A26",
+   "model": "itel A571LL"
   },
   {
    "device": "itel-A31Plus",
@@ -83252,16 +83274,6 @@
    "device": "rav",
    "name": "moto g fast",
    "model": "moto g fast"
-  },
-  {
-   "device": "guamna",
-   "name": "moto g play (2021)",
-   "model": "moto E"
-  },
-  {
-   "device": "guamna",
-   "name": "moto g play (2021)",
-   "model": "moto g play (2021)"
   },
   {
    "device": "sofia",
@@ -149337,6 +149349,11 @@
    "device": "stollen",
    "name": "Blade X Max",
    "model": "Z983"
+  },
+  {
+   "device": "Z6750",
+   "name": "Blade X1 5G",
+   "model": "Z6750M"
   },
   {
    "device": "Z6400",

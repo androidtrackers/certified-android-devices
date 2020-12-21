@@ -8870,6 +8870,11 @@
    "brand": "Aconatic",
    "device": "GMP",
    "model": "HAKO mini"
+  },
+  {
+   "brand": "HAKO",
+   "device": "GMP",
+   "model": "HAKO mini"
   }
  ],
  "ALIGATOR RX510": [
@@ -32019,6 +32024,20 @@
    "brand": "Cipherlab",
    "device": "RS50",
    "model": "RS50"
+  }
+ ],
+ "CP-860": [
+  {
+   "brand": "Cisco",
+   "device": "860",
+   "model": "CP-860"
+  }
+ ],
+ "CP-860S": [
+  {
+   "brand": "Cisco",
+   "device": "860",
+   "model": "CP-860S"
   }
  ],
  "CP-DX650": [
@@ -79406,6 +79425,13 @@
    "model": "itel L5002P"
   }
  ],
+ "A26": [
+  {
+   "brand": "Itel",
+   "device": "itel-A571LL",
+   "model": "itel A571LL"
+  }
+ ],
  "A31 Plus": [
   {
    "brand": "Itel",
@@ -109909,18 +109935,6 @@
    "brand": "Motorola",
    "device": "rav",
    "model": "moto g fast"
-  }
- ],
- "moto g play (2021)": [
-  {
-   "brand": "Motorola",
-   "device": "guamna",
-   "model": "moto E"
-  },
-  {
-   "brand": "Motorola",
-   "device": "guamna",
-   "model": "moto g play (2021)"
   }
  ],
  "moto g power": [
@@ -185272,6 +185286,13 @@
    "brand": "ZTE",
    "device": "stollen",
    "model": "Z983"
+  }
+ ],
+ "Blade X1 5G": [
+  {
+   "brand": "ZTE",
+   "device": "Z6750",
+   "model": "Z6750M"
   }
  ],
  "Blade X2 Max": [

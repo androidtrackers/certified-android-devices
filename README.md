@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-12-20
+Last sync is 2020-12-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3489,6 +3489,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cipherlab|RS35|RS35|RS35|
 |Cipherlab|RS51_HS|RS51_HS|RS51_HS|
 |Cipherlab|Saturn|RS50|RS50|
+|Cisco|CP-860|860|CP-860|
+|Cisco|CP-860S|860|CP-860S|
 |Cisco|CP-DX650|CP-DX650|CP-DX650|
 |Cisco|DX70|CP-DX70|CP-DX70|
 |Cisco|Desktop Collaboration Experience DX70|CP-DX70|CP-DX70|
@@ -6620,6 +6622,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Guess|Wear|glowlight|GUESS Connect|
 |Guophone|X3|X3|X3|
 |Guophone|XP9800|Guophone_XP9800|XP9800|
+|HAKO|HAKO mini|GMP|HAKO mini|
 |HANYEAL|E101GC|E101GC|E101GC|
 |HANYEAL|E108GC4G|E108GC4G|E108GC4G|
 |HDC S.A.|H10_ONE|H10_ONE|H10_ONE|
@@ -11007,6 +11010,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|A23 Pro|itel-L5006S|itel L5006S|
 |Itel|A25|itel-L5002|itel L5002|
 |Itel|A25 Pro|itel-L5002P|itel L5002P|
+|Itel|A26|itel-A571LL|itel A571LL|
 |Itel|A31 Plus|itel-A31Plus|itel A31Plus|
 |Itel|A32F|itel-A32F|itel A32F|
 |Itel|A35|itel-W5002|itel W5002|
@@ -16224,8 +16228,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g 5G|kiev|motorola edge|
 |Motorola|moto g 5G plus|nairo|moto g 5G plus|
 |Motorola|moto g fast|rav|moto g fast|
-|Motorola|moto g play (2021)|guamna|moto E|
-|Motorola|moto g play (2021)|guamna|moto g play (2021)|
 |Motorola|moto g power|sofia|moto g power|
 |Motorola|moto g power (XT2041DL)|sofia|moto g power (XT2041DL)|
 |Motorola|moto g pro|sofiap_sprout|moto g pro|
@@ -29121,6 +29123,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Blade Vec 4G|msm8226|ZTE Blade Vec 4G|
 |ZTE|Blade Vec Pro|P692S20_M92|ZTE Blade Vec Pro|
 |ZTE|Blade X Max|stollen|Z983|
+|ZTE|Blade X1 5G|Z6750|Z6750M|
 |ZTE|Blade X2 Max|Z6400|Z6400C|
 |ZTE|Bland A610|ZTE_BLADE_A610|ZTE BLADE A610|
 |ZTE|Bland A610|ZTE_BLADE_A610|ZTE Blade A610|

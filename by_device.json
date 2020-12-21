@@ -4119,6 +4119,11 @@
    "model": "A-STREAM"
   },
   {
+   "brand": "HAKO",
+   "name": "HAKO mini",
+   "model": "HAKO mini"
+  },
+  {
    "brand": "Motorola",
    "name": "DVM4KA01",
    "model": "DVM4KA01"
@@ -26851,6 +26856,18 @@
    "brand": "Cipherlab",
    "name": "Saturn",
    "model": "RS50"
+  }
+ ],
+ "860": [
+  {
+   "brand": "Cisco",
+   "name": "CP-860",
+   "model": "CP-860"
+  },
+  {
+   "brand": "Cisco",
+   "name": "CP-860S",
+   "model": "CP-860S"
   }
  ],
  "CP-DX650": [
@@ -75713,6 +75730,13 @@
    "model": "itel L5002P"
   }
  ],
+ "itel-A571LL": [
+  {
+   "brand": "Itel",
+   "name": "A26",
+   "model": "itel A571LL"
+  }
+ ],
  "itel-A31Plus": [
   {
    "brand": "Itel",
@@ -108964,18 +108988,6 @@
    "brand": "Motorola",
    "name": "moto g(8)",
    "model": "moto g(8)"
-  }
- ],
- "guamna": [
-  {
-   "brand": "Motorola",
-   "name": "moto g play (2021)",
-   "model": "moto E"
-  },
-  {
-   "brand": "Motorola",
-   "name": "moto g play (2021)",
-   "model": "moto g play (2021)"
   }
  ],
  "sofia": [
@@ -189336,6 +189348,13 @@
    "brand": "ZTE",
    "name": "Blade X Max",
    "model": "Z983"
+  }
+ ],
+ "Z6750": [
+  {
+   "brand": "ZTE",
+   "name": "Blade X1 5G",
+   "model": "Z6750M"
   }
  ],
  "Z6400": [
