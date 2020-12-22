@@ -769,6 +769,11 @@
    "device": "samseong"
   },
   {
+   "brand": "BPL",
+   "name": "A4300",
+   "device": "ikebukuro"
+  },
+  {
    "brand": "BRUHM",
    "name": "BTF-75TG",
    "device": "samseong"
@@ -1858,6 +1863,13 @@
    "brand": "Acepad",
    "name": "A121",
    "device": "A121"
+  }
+ ],
+ "A140": [
+  {
+   "brand": "Acepad",
+   "name": "A140",
+   "device": "A140"
   }
  ],
  "Acer E320": [
@@ -4437,6 +4449,13 @@
    "device": "SP5712"
   }
  ],
+ "SP5760": [
+  {
+   "brand": "Advance",
+   "name": "SP5760",
+   "device": "SP5760"
+  }
+ ],
  "Sp5730": [
   {
    "brand": "Advance",
@@ -6332,6 +6351,11 @@
   {
    "brand": "AllView",
    "name": "Viva H1003 LTE PRO",
+   "device": "H1003_LTE_PRO"
+  },
+  {
+   "brand": "AllView",
+   "name": "Viva H1003 LTE PRO/B6",
    "device": "H1003_LTE_PRO"
   }
  ],
@@ -15083,6 +15107,11 @@
    "device": "hamamatsucho"
   },
   {
+   "brand": "TCL",
+   "name": "Smart TV",
+   "device": "BeyondTV4"
+  },
+  {
    "brand": "Toshiba",
    "name": "fushan_euT",
    "device": "hamamatsucho"
@@ -17222,6 +17251,13 @@
    "brand": "BRAVE",
    "name": "BT7X1",
    "device": "BT7X1"
+  }
+ ],
+ "BTXS1": [
+  {
+   "brand": "BRAVE",
+   "name": "BTXS1",
+   "device": "BTXS1"
   }
  ],
  "BTPC-1023OC4G": [
@@ -25067,6 +25103,20 @@
    "device": "Aqua_S9"
   }
  ],
+ "Aqua S9 Max": [
+  {
+   "brand": "Cherry Mobile",
+   "name": "Aqua S9 Max",
+   "device": "Aqua_S9_Max"
+  }
+ ],
+ "Aqua_Infinity": [
+  {
+   "brand": "Cherry Mobile",
+   "name": "Aqua_Infinity",
+   "device": "Aqua_Infinity"
+  }
+ ],
  "Flare_S8_Deluxe": [
   {
    "brand": "Cherry Mobile",
@@ -25614,6 +25664,13 @@
    "brand": "Cherry Mobile",
    "name": "Flare X3",
    "device": "Flare_X3"
+  }
+ ],
+ "Flare Y20": [
+  {
+   "brand": "Cherry Mobile",
+   "name": "Flare Y20",
+   "device": "X1010"
   }
  ],
  "Flare_Y3": [
@@ -31378,11 +31435,25 @@
    "device": "L270"
   }
  ],
+ "L310i": [
+  {
+   "brand": "DEXP",
+   "name": "L310i",
+   "device": "L310i"
+  }
+ ],
  "L370i": [
   {
    "brand": "DEXP",
    "name": "L370i",
    "device": "L370i"
+  }
+ ],
+ "L470": [
+  {
+   "brand": "DEXP",
+   "name": "L470",
+   "device": "L470"
   }
  ],
  "M170": [
@@ -33661,6 +33732,13 @@
    "brand": "Digma",
    "name": "CITI_1590_3G_CS1207MG",
    "device": "CS1207MG"
+  }
+ ],
+ "CITI 1593 3G CS1210MG": [
+  {
+   "brand": "Digma",
+   "name": "CITI_1593_3G_CS1210MG",
+   "device": "CS1210MG"
   }
  ],
  "CITI 7591 3G CS7208MG": [
@@ -37568,6 +37646,11 @@
    "device": "HS8909QC"
   },
   {
+   "brand": "VIVIMAGE",
+   "name": "VIVIMAGE_E10",
+   "device": "E10"
+  },
+  {
    "brand": "VUCATIMES",
    "name": "HAOQIN",
    "device": "E10"
@@ -40242,6 +40325,13 @@
    "brand": "FCC Movil",
    "name": "GK738_3G",
    "device": "GK738_3G"
+  }
+ ],
+ "GK788": [
+  {
+   "brand": "FCC Movil",
+   "name": "GK788",
+   "device": "GK788"
   }
  ],
  "LUXE 3": [
@@ -43491,6 +43581,13 @@
    "device": "F104BvII_PRO"
   }
  ],
+ "F104EvII": [
+  {
+   "brand": "Fusion5",
+   "name": "F104EvII",
+   "device": "F104EvII"
+  }
+ ],
  "F104EvII_EEA": [
   {
    "brand": "Fusion5",
@@ -43503,6 +43600,13 @@
    "brand": "Fusion5",
    "name": "F104EvII_PRO",
    "device": "F104EvII_PRO"
+  }
+ ],
+ "F104EvII_PRO_EEA": [
+  {
+   "brand": "Fusion5",
+   "name": "F104EvII_PRO_EEA",
+   "device": "F104EvII_PRO_EEA"
   }
  ],
  "F105Dv2": [
@@ -54922,6 +55026,13 @@
    "device": "HSG1415"
   }
  ],
+ "HSG1416": [
+  {
+   "brand": "HannSpree",
+   "name": "HSG1416",
+   "device": "HANNSPAD"
+  }
+ ],
  "JBL LINK BAR": [
   {
    "brand": "Harman TV",
@@ -57621,7 +57732,17 @@
   {
    "brand": "Hisense",
    "name": "Hisense E50 Lite",
+   "device": "HLTE228E_01"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense E50 Lite",
    "device": "HLTE228E_02"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense E50 Lite",
+   "device": "HLTE228E_10"
   },
   {
    "brand": "Hisense",
@@ -57889,6 +58010,11 @@
    "brand": "Hisense",
    "name": "Hisense U3 2021",
    "device": "HLTE100E_20"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense U3 2021",
+   "device": "HLTE100E_21"
   }
  ],
  "Hisense U40": [
@@ -59891,6 +60017,13 @@
    "brand": "Hometech",
    "name": "ALFA_7RC",
    "device": "ALFA_7RC"
+  }
+ ],
+ "ALFA_8SL": [
+  {
+   "brand": "Hometech",
+   "name": "ALFA_8SL",
+   "device": "ALFA_8SL"
   }
  ],
  "ALFA 7RS": [
@@ -72811,6 +72944,13 @@
    "device": "kanda"
   }
  ],
+ "IMPECCA 4K Smart TV": [
+  {
+   "brand": "IMPECCA",
+   "name": "IMPECCA",
+   "device": "gangbyeon"
+  }
+ ],
  "INOI_1_Lite": [
   {
    "brand": "INOI",
@@ -81993,6 +82133,23 @@
    "brand": "Krono",
    "name": "SKY",
    "device": "SKY"
+  }
+ ],
+ "ULTRA": [
+  {
+   "brand": "Krono",
+   "name": "ULTRA",
+   "device": "ULTRA"
+  },
+  {
+   "brand": "Mobicell",
+   "name": "ULTRA",
+   "device": "ULTRA"
+  },
+  {
+   "brand": "Zoom",
+   "name": "ULTRA",
+   "device": "ULTRA"
   }
  ],
  "KIDS_FIVE": [
@@ -102264,6 +102421,13 @@
    "device": "MIDM_F10"
   }
  ],
+ "TPM4G_105": [
+  {
+   "brand": "MIRAY",
+   "name": "TPM4G_105",
+   "device": "TPM4G_105"
+  }
+ ],
  "TP-10-0232P3G": [
   {
    "brand": "MITSUSHIBA",
@@ -103180,6 +103344,13 @@
    "brand": "Majestic",
    "name": "TAB_811_4G",
    "device": "TAB_811_4G"
+  }
+ ],
+ "TAB_812_4G": [
+  {
+   "brand": "Majestic",
+   "name": "TAB_812_4G",
+   "device": "TAB_812_4G"
   }
  ],
  "TAB_847_3G": [
@@ -108603,18 +108774,6 @@
    "brand": "Mobicell",
    "name": "Trendy Plus",
    "device": "TRENDY_PLUS"
-  }
- ],
- "ULTRA": [
-  {
-   "brand": "Mobicell",
-   "name": "ULTRA",
-   "device": "ULTRA"
-  },
-  {
-   "brand": "Zoom",
-   "name": "ULTRA",
-   "device": "ULTRA"
   }
  ],
  "V1": [
@@ -129500,6 +129659,13 @@
    "device": "TAB-7304-16G3GS"
   }
  ],
+ "TAB-7383-16G3GS": [
+  {
+   "brand": "Premier",
+   "name": "TAB-7383-16G3GS",
+   "device": "TAB-7383-16G3GS"
+  }
+ ],
  "185FT5050231": [
   {
    "brand": "Premio",
@@ -131615,6 +131781,13 @@
    "brand": "Pritom",
    "name": "L8_EEA",
    "device": "L8_EEA"
+  }
+ ],
+ "M10_PLUS_EEA": [
+  {
+   "brand": "Pritom",
+   "name": "M10_PLUS_EEA",
+   "device": "M10_PLUS_EEA"
   }
  ],
  "M10_PRO": [
@@ -155262,6 +155435,13 @@
    "brand": "Sasktel",
    "name": "SaskTel maxTV Stream",
    "device": "HMB2213PW22WA"
+  }
+ ],
+ "TATUNG 4K AI Smart TV": [
+  {
+   "brand": "Sceptre",
+   "name": "TATUNG",
+   "device": "gangbyeon"
   }
  ],
  "FreedomTurboXL": [
@@ -188270,6 +188450,13 @@
    "device": "Kishi-001"
   }
  ],
+ "WK1863L": [
+  {
+   "brand": "WILLKOTECH",
+   "name": "WK1863L",
+   "device": "WK1863L"
+  }
+ ],
  "W405": [
   {
    "brand": "WINTEK",
@@ -191152,6 +191339,13 @@
    "device": "Kids7_Pro"
   }
  ],
+ "M20S": [
+  {
+   "brand": "X-TIGI",
+   "name": "M20S",
+   "device": "M20S"
+  }
+ ],
  "Photo_P15_Lite": [
   {
    "brand": "X-TIGI",
@@ -193470,6 +193664,13 @@
    "brand": "ZENTALITY",
    "name": "C-705",
    "device": "C-705"
+  }
+ ],
+ "ZIK_W1027": [
+  {
+   "brand": "ZIK (kz)",
+   "name": "ZIK_W1027",
+   "device": "ZIK_W1027"
   }
  ],
  "Z_742": [
@@ -199304,6 +199505,23 @@
    "device": "NX629J-EEA"
   }
  ],
+ "NX659J": [
+  {
+   "brand": "ZTE",
+   "name": "NX659J",
+   "device": "NX659J-RU"
+  },
+  {
+   "brand": "ZTE",
+   "name": "RED MAGIC 5G",
+   "device": "NX659J"
+  },
+  {
+   "brand": "ZTE",
+   "name": "Red Magic 5G",
+   "device": "NX659J-EEA"
+  }
+ ],
  "NX907J": [
   {
    "brand": "ZTE",
@@ -199755,18 +199973,6 @@
    "brand": "ZTE",
    "name": "RACER III mini",
    "device": "roamer2"
-  }
- ],
- "NX659J": [
-  {
-   "brand": "ZTE",
-   "name": "RED MAGIC 5G",
-   "device": "NX659J"
-  },
-  {
-   "brand": "ZTE",
-   "name": "Red Magic 5G",
-   "device": "NX659J-EEA"
   }
  ],
  "Carl": [
@@ -203310,6 +203516,13 @@
    "device": "JH101"
   }
  ],
+ "JH103": [
+  {
+   "brand": "ZUOPU",
+   "name": "JH103",
+   "device": "JH103"
+  }
+ ],
  "JH786": [
   {
    "brand": "ZUOPU",
@@ -203329,6 +203542,13 @@
    "brand": "Zaith",
    "name": "Z3211G",
    "device": "Z3211G"
+  }
+ ],
+ "Zapi2020": [
+  {
+   "brand": "ZapiTV",
+   "name": "Zapi2020",
+   "device": "SEI500PTV"
   }
  ],
  "JOY": [
@@ -205521,6 +205741,13 @@
    "device": "iCare07"
   }
  ],
+ "iCare10": [
+  {
+   "brand": "iCare",
+   "name": "iCare10",
+   "device": "iCare10"
+  }
+ ],
  "ICRAIG_CLP288": [
   {
    "brand": "iCraig",
@@ -207007,6 +207234,13 @@
    "brand": "unitel",
    "name": "Unitel_Smart_1",
    "device": "Unitel_Smart_1"
+  }
+ ],
+ "M03": [
+  {
+   "brand": "vatenick",
+   "name": "M03",
+   "device": "M03"
   }
  ],
  "v7-EEA": [
