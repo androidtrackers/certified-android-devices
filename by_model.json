@@ -3481,11 +3481,6 @@
    "device": "R2"
   },
   {
-   "brand": "Erito",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
    "brand": "Hitachi",
    "name": "Android TV",
    "device": "R2"
@@ -10540,6 +10535,13 @@
    "brand": "Artel",
    "name": "Artel_Premium",
    "device": "Artel_Premium"
+  }
+ ],
+ "Artel T10": [
+  {
+   "brand": "Artel",
+   "name": "Artel_T10",
+   "device": "Artel_T10"
   }
  ],
  "GAP YOQ": [
@@ -21126,6 +21128,11 @@
    "brand": "Blu",
    "name": "S5",
    "device": "S0480LL_ALTAN"
+  },
+  {
+   "brand": "Emporia",
+   "name": "S5_EEA",
+   "device": "S5"
   },
   {
    "brand": "MyFon",
@@ -43315,6 +43322,13 @@
    "brand": "Fujitsu",
    "name": "FHMD001",
    "device": "FHMD001"
+  }
+ ],
+ "FMP181L": [
+  {
+   "brand": "Fujitsu",
+   "name": "FMP181L",
+   "device": "FMP181L"
   }
  ],
  "M02": [
@@ -73171,6 +73185,13 @@
    "device": "INOI_7i"
   }
  ],
+ "INOI easyphone": [
+  {
+   "brand": "INOI",
+   "name": "easyphone",
+   "device": "easyphone"
+  }
+ ],
  "inoiPad mini 2+32 Wi-Fi+3G": [
   {
    "brand": "INOI",
@@ -82344,6 +82365,13 @@
    "brand": "Kruger&Matz",
    "name": "LIVE_6plus",
    "device": "LIVE_6plus"
+  }
+ ],
+ "Live 8": [
+  {
+   "brand": "Kruger&Matz",
+   "name": "Live 8 EEA",
+   "device": "Live_8"
   }
  ],
  "MOVE_7": [
@@ -91991,6 +92019,13 @@
   }
  ],
  "LM-G900N": [
+  {
+   "brand": "LGE",
+   "name": "VELVET",
+   "device": "caymanlm"
+  }
+ ],
+ "LM-G910N": [
   {
    "brand": "LGE",
    "name": "VELVET",
@@ -107119,6 +107154,13 @@
    "brand": "Micromax",
    "name": "Evok Power",
    "device": "Q4260"
+  }
+ ],
+ "Micromax E7533": [
+  {
+   "brand": "Micromax",
+   "name": "IN1b",
+   "device": "E7533"
   }
  ],
  "IN_Note1": [
@@ -172212,6 +172254,20 @@
    "device": "Hong_Kong_Pro"
   }
  ],
+ "6056D_EEA": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3L",
+   "device": "Hong_Kong_Pro"
+  }
+ ],
+ "6056H_EEA": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3L",
+   "device": "Hong_Kong_Pro"
+  }
+ ],
  "5029D": [
   {
    "brand": "TCT (Alcatel)",
@@ -180615,6 +180671,13 @@
    "device": "TRIFONE_TRI_POWER"
   }
  ],
+ "TTfone TT20": [
+  {
+   "brand": "Trifone",
+   "name": "TT20_eea",
+   "device": "TTfone_TT20"
+  }
+ ],
  "Trifone_X7": [
   {
    "brand": "Trifone",
@@ -185250,6 +185313,18 @@
    "brand": "Vivax",
    "name": "VIVAX_PRO3",
    "device": "VIVAX_PRO3"
+  }
+ ],
+ "V2040": [
+  {
+   "brand": "Vivo",
+   "name": "V2040",
+   "device": "2040"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2040",
+   "device": "2040"
   }
  ],
  "vivo 1601": [
@@ -206769,6 +206844,13 @@
    "brand": "iWaylink",
    "name": "TC601",
    "device": "TC601_GWL"
+  }
+ ],
+ "TC601A_GWL": [
+  {
+   "brand": "iWaylink",
+   "name": "TC601A",
+   "device": "TC601A_GWL"
   }
  ],
  "iYOU_M1": [

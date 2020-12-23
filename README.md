@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-12-22
+Last sync is 2020-12-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1330,6 +1330,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Artel|Artel Tomchi|Artel_Tomchi|Artel Tomchi|
 |Artel|Artel U5|U5|U5|
 |Artel|Artel_Premium|Artel_Premium|Artel Premium|
+|Artel|Artel_T10|Artel_T10|Artel T10|
 |Artel|GAP YOQ|GAP_YOQ|GAP YOQ|
 |Artel|GAPYOQ|GAPYOQ|GAP|
 |Artel|Starpad_T-181|Starpad|Starpad_T-181|
@@ -5213,6 +5214,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Emerson|EM9|EM9|EM9|
 |Emporia|Emporia SMART 3|S3|S3|
 |Emporia|S3mini|S3mini|S3mini|
+|Emporia|S5_EEA|S5|S5|
 |Emporia|emporiaSMART.4|S4|S4|
 |Emtec|F400|f400|f400|
 |Emtec|Gaming Android Gem Box|F500|Gem Box F500|
@@ -5303,7 +5305,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ergo|V550_Vision|V550_Vision|V550_Vision|
 |Ergo|V570_BIG_BEN|V570_BIG_BEN|V570_BIG_BEN|
 |Erito|Android TV|R1|ATV R1|
-|Erito|Android TV|R2|ATV R2|
 |Erito|Vietnam|samseong|AI PONT|
 |Essential Products|Essential|Essential|Essential|
 |Essential Products|PH-1|mata|PH-1|
@@ -5917,6 +5918,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fujitsu|FARTM933KZ|FARTM933KZ|FARTM933KZ|
 |Fujitsu|FARTMB611Y|FARTMB611Y|FARTMB611Y|
 |Fujitsu|FHMD001|FHMD001|FHMD001|
+|Fujitsu|FMP181L|FMP181L|FMP181L|
 |Fujitsu|M02|M02|M02|
 |Fujitsu|M305|M305|M305|
 |Fujitsu|M305|M305SB|M305|
@@ -10358,6 +10360,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |INOI|INOI_7_4_64_2021|INOI_7_4_64_2021|INOI 7 4+64 2021|
 |INOI|INOI_7_LITE|INOI_7_LITE|INOI_7_LITE|
 |INOI|INOI_7i|INOI_7i|INOI_7i|
+|INOI|easyphone|easyphone|INOI easyphone|
 |INOI|inoiPad_mini_3G|inoiPad_mini_3G|inoiPad mini 2+32 Wi-Fi+3G|
 |INOVALLEY|MID_106_3G|MID106-3G|MID106-3G|
 |INOVALLEY|MID_109_Oreo_BTH|MID_109_Oreo_BTH|MID_109_Oreo_BTH|
@@ -11732,6 +11735,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kruger&Matz|LIVE 7S|LIVE_7S|LIVE 7S|
 |Kruger&Matz|LIVE_6plus|LIVE_6plus|LIVE_6plus|
 |Kruger&Matz|LIVE_7|LIVE_7|LIVE 7|
+|Kruger&Matz|Live 8 EEA|Live_8|Live 8|
 |Kruger&Matz|MOVE 7|MOVE_7|MOVE_7|
 |Kruger&Matz|MOVE8|MOVE_8|MOVE_8|
 |Kruger&Matz|MOVE8mini|MOVE8mini|MOVE8mini|
@@ -13189,6 +13193,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|V60 ThinQ|timelm|LM-V600|
 |LGE|VELVET|caymanlm|LM-G900|
 |LGE|VELVET|caymanlm|LM-G900N|
+|LGE|VELVET|caymanlm|LM-G910N|
 |LGE|VELVET|caymanslm|LM-G910|
 |LGE|VELVET|mcaymanlm|LM-G900TM|
 |LGE|VU3|vu3|LG-F300K|
@@ -15459,6 +15464,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Micromax|Evok Dual Note|E4817|Micromax E4817|
 |Micromax|Evok Note|E453|Micromax E453|
 |Micromax|Evok Power|Q4260|Micromax Q4260|
+|Micromax|IN1b|E7533|Micromax E7533|
 |Micromax|IN_Note1|E7746|IN_Note1|
 |Micromax|Infinity N Series N12|N8301|N8301|
 |Micromax|Ione Note|N8305|ione note|
@@ -25242,6 +25248,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 3L|Benz|5039Y_RU|
 |TCT (Alcatel)|Alcatel 3L|Benz|HEYOU50|
 |TCT (Alcatel)|Alcatel 3L|Hong_Kong_Pro|6056D|
+|TCT (Alcatel)|Alcatel 3L|Hong_Kong_Pro|6056D_EEA|
+|TCT (Alcatel)|Alcatel 3L|Hong_Kong_Pro|6056H_EEA|
 |TCT (Alcatel)|Alcatel 3L|TokyoPro|5029D|
 |TCT (Alcatel)|Alcatel 3L|TokyoPro|5029D_EEA|
 |TCT (Alcatel)|Alcatel 3L|TokyoPro|5029D_RU|
@@ -26532,6 +26540,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Trifone|Passion_Pro|Passion_Pro|Passion_Pro|
 |Trifone|T-FASHION|T-FASHION|T-FASHION|
 |Trifone|TRI_POWER|TRIFONE_TRI_POWER|TRI_POWER|
+|Trifone|TT20_eea|TTfone_TT20|TTfone TT20|
 |Trifone|Trifone_X7|Trifone_X7|Trifone_X7|
 |Trifone|X701|X701|X701|
 |Trimble Navigation|MM50|EE773X_4G|MobileMapper50_4G|
@@ -27281,6 +27290,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivax|VIVAX Point X2 Lite|VIVAX_Point_X2_Lite|VIVAX_Point_X2_Lite|
 |Vivax|VIVAX_Fly_V1|VIVAX_Fly_V1|VIVAX_Fly_V1|
 |Vivax|VIVAX_PRO3|VIVAX_PRO3|VIVAX_PRO3|
+|Vivo|V2040|2040|V2040|
 |Vivo|1601|1601|vivo 1601|
 |Vivo|1601|1601|vivo 1713|
 |Vivo|1609|1609|vivo 1609|
@@ -27374,6 +27384,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2036|2036|V2031|
 |Vivo|V2036|2036|V2036|
 |Vivo|V2036A|PD2036|V2036A|
+|Vivo|V2040|2040|V2040|
 |Vivo|V2042|2026|V2042|
 |Vivo|V2043|2026|V2043|
 |Vivo|V2065A|PD2065|V2065A|
@@ -30635,6 +30646,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iVOOMi|iV_301|iV_301|iV_301|
 |iWaylink|MC401|MC401_GWL|MC401_GWL|
 |iWaylink|TC601|TC601_GWL|TC601_GWL|
+|iWaylink|TC601A|TC601A_GWL|TC601A_GWL|
 |iYOU|iYOU_M1|iYOU_M1|iYOU_M1|
 |imose|BAM-II|BAM-II|BAM-II|
 |indigi|G4i|G4i|G4i|

@@ -3985,11 +3985,6 @@
    "model": "ATV R2"
   },
   {
-   "brand": "Erito",
-   "name": "Android TV",
-   "model": "ATV R2"
-  },
-  {
    "brand": "Hitachi",
    "name": "Android TV",
    "model": "ATV R2"
@@ -11320,6 +11315,13 @@
    "brand": "Artel",
    "name": "Artel_Premium",
    "model": "Artel Premium"
+  }
+ ],
+ "Artel_T10": [
+  {
+   "brand": "Artel",
+   "name": "Artel_T10",
+   "model": "Artel T10"
   }
  ],
  "GAP_YOQ": [
@@ -39531,6 +39533,23 @@
    "model": "S3mini"
   }
  ],
+ "S5": [
+  {
+   "brand": "Emporia",
+   "name": "S5_EEA",
+   "model": "S5"
+  },
+  {
+   "brand": "MyFon",
+   "name": "S5",
+   "model": "S5"
+  },
+  {
+   "brand": "Turbopad",
+   "name": "S5",
+   "model": "S5"
+  }
+ ],
  "S4": [
   {
    "brand": "Emporia",
@@ -44625,6 +44644,13 @@
    "brand": "Fujitsu",
    "name": "FHMD001",
    "model": "FHMD001"
+  }
+ ],
+ "FMP181L": [
+  {
+   "brand": "Fujitsu",
+   "name": "FMP181L",
+   "model": "FMP181L"
   }
  ],
  "M02": [
@@ -71511,6 +71537,13 @@
    "model": "INOI_7i"
   }
  ],
+ "easyphone": [
+  {
+   "brand": "INOI",
+   "name": "easyphone",
+   "model": "INOI easyphone"
+  }
+ ],
  "inoiPad_mini_3G": [
   {
    "brand": "INOI",
@@ -80405,6 +80438,13 @@
    "model": "LIVE_6plus"
   }
  ],
+ "Live_8": [
+  {
+   "brand": "Kruger&Matz",
+   "name": "Live 8 EEA",
+   "model": "Live 8"
+  }
+ ],
  "MOVE_7": [
   {
    "brand": "Kruger&Matz",
@@ -89087,6 +89127,11 @@
    "brand": "LGE",
    "name": "VELVET",
    "model": "LM-G900N"
+  },
+  {
+   "brand": "LGE",
+   "name": "VELVET",
+   "model": "LM-G910N"
   },
   {
    "brand": "LGE",
@@ -104046,6 +104091,13 @@
    "model": "Micromax Q4260"
   }
  ],
+ "E7533": [
+  {
+   "brand": "Micromax",
+   "name": "IN1b",
+   "model": "Micromax E7533"
+  }
+ ],
  "E7746": [
   {
    "brand": "Micromax",
@@ -110717,18 +110769,6 @@
    "brand": "MyFon",
    "name": "F6",
    "model": "F6"
-  }
- ],
- "S5": [
-  {
-   "brand": "MyFon",
-   "name": "S5",
-   "model": "S5"
-  },
-  {
-   "brand": "Turbopad",
-   "name": "S5",
-   "model": "S5"
   }
  ],
  "C-Smart_pix_JMP": [
@@ -166486,6 +166526,16 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 3L",
    "model": "6056D"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3L",
+   "model": "6056D_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3L",
+   "model": "6056H_EEA"
   }
  ],
  "Morgan_4G": [
@@ -173172,6 +173222,13 @@
    "model": "TRI_POWER"
   }
  ],
+ "TTfone_TT20": [
+  {
+   "brand": "Trifone",
+   "name": "TT20_eea",
+   "model": "TTfone TT20"
+  }
+ ],
  "Trifone_X7": [
   {
    "brand": "Trifone",
@@ -177621,6 +177678,18 @@
    "brand": "Vivax",
    "name": "VIVAX_PRO3",
    "model": "VIVAX_PRO3"
+  }
+ ],
+ "2040": [
+  {
+   "brand": "Vivo",
+   "name": "V2040",
+   "model": "V2040"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2040",
+   "model": "V2040"
   }
  ],
  "1601": [
@@ -197309,6 +197378,13 @@
    "brand": "iWaylink",
    "name": "TC601",
    "model": "TC601_GWL"
+  }
+ ],
+ "TC601A_GWL": [
+  {
+   "brand": "iWaylink",
+   "name": "TC601A",
+   "model": "TC601A_GWL"
   }
  ],
  "iYOU_M1": [

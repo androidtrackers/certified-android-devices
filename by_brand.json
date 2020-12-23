@@ -6848,6 +6848,11 @@
    "model": "Artel Premium"
   },
   {
+   "device": "Artel_T10",
+   "name": "Artel_T10",
+   "model": "Artel T10"
+  },
+  {
    "device": "GAP_YOQ",
    "name": "GAP YOQ",
    "model": "GAP YOQ"
@@ -27021,6 +27026,11 @@
    "model": "S3mini"
   },
   {
+   "device": "S5",
+   "name": "S5_EEA",
+   "model": "S5"
+  },
+  {
    "device": "S4",
    "name": "emporiaSMART.4",
    "model": "S4"
@@ -27495,11 +27505,6 @@
    "device": "R1",
    "name": "Android TV",
    "model": "ATV R1"
-  },
-  {
-   "device": "R2",
-   "name": "Android TV",
-   "model": "ATV R2"
   },
   {
    "device": "samseong",
@@ -30709,6 +30714,11 @@
    "device": "FHMD001",
    "name": "FHMD001",
    "model": "FHMD001"
+  },
+  {
+   "device": "FMP181L",
+   "name": "FMP181L",
+   "model": "FMP181L"
   },
   {
    "device": "M02",
@@ -53234,6 +53244,11 @@
    "model": "INOI_7i"
   },
   {
+   "device": "easyphone",
+   "name": "easyphone",
+   "model": "INOI easyphone"
+  },
+  {
    "device": "inoiPad_mini_3G",
    "name": "inoiPad_mini_3G",
    "model": "inoiPad mini 2+32 Wi-Fi+3G"
@@ -60382,6 +60397,11 @@
    "device": "LIVE_7",
    "name": "LIVE_7",
    "model": "LIVE 7"
+  },
+  {
+   "device": "Live_8",
+   "name": "Live 8 EEA",
+   "model": "Live 8"
   },
   {
    "device": "MOVE_7",
@@ -67697,6 +67717,11 @@
    "device": "caymanlm",
    "name": "VELVET",
    "model": "LM-G900N"
+  },
+  {
+   "device": "caymanlm",
+   "name": "VELVET",
+   "model": "LM-G910N"
   },
   {
    "device": "caymanslm",
@@ -79353,6 +79378,11 @@
    "device": "Q4260",
    "name": "Evok Power",
    "model": "Micromax Q4260"
+  },
+  {
+   "device": "E7533",
+   "name": "IN1b",
+   "model": "Micromax E7533"
   },
   {
    "device": "E7746",
@@ -129288,6 +129318,16 @@
    "model": "6056D"
   },
   {
+   "device": "Hong_Kong_Pro",
+   "name": "Alcatel 3L",
+   "model": "6056D_EEA"
+  },
+  {
+   "device": "Hong_Kong_Pro",
+   "name": "Alcatel 3L",
+   "model": "6056H_EEA"
+  },
+  {
    "device": "TokyoPro",
    "name": "Alcatel 3L",
    "model": "5029D"
@@ -135962,6 +136002,11 @@
    "model": "TRI_POWER"
   },
   {
+   "device": "TTfone_TT20",
+   "name": "TT20_eea",
+   "model": "TTfone TT20"
+  },
+  {
    "device": "Trifone_X7",
    "name": "Trifone_X7",
    "model": "Trifone_X7"
@@ -139919,6 +139964,11 @@
  ],
  "Vivo": [
   {
+   "device": "2040",
+   "name": "V2040",
+   "model": "V2040"
+  },
+  {
    "device": "1601",
    "name": "1601",
    "model": "vivo 1601"
@@ -140382,6 +140432,11 @@
    "device": "PD2036",
    "name": "V2036A",
    "model": "V2036A"
+  },
+  {
+   "device": "2040",
+   "name": "V2040",
+   "model": "V2040"
   },
   {
    "device": "2026",
@@ -157065,6 +157120,11 @@
    "device": "TC601_GWL",
    "name": "TC601",
    "model": "TC601_GWL"
+  },
+  {
+   "device": "TC601A_GWL",
+   "name": "TC601A",
+   "model": "TC601A_GWL"
   }
  ],
  "iYOU": [
