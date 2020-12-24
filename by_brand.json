@@ -13511,6 +13511,16 @@
    "model": "Atlantis_A10_G403"
   },
   {
+   "device": "hanyang",
+   "name": "Australia",
+   "model": "BP Android TV"
+  },
+  {
+   "device": "nippori",
+   "name": "Australia",
+   "model": "BP Android TV 2K"
+  },
+  {
    "device": "JFK",
    "name": "B-STREAM",
    "model": "B-STREAM"
@@ -13574,6 +13584,16 @@
    "device": "tamachi",
    "name": "EU",
    "model": "BLAUPUNKT FHD Android TV"
+  },
+  {
+   "device": "hanyang",
+   "name": "Ecuador",
+   "model": "BP 4K Android TV"
+  },
+  {
+   "device": "nippori",
+   "name": "Ecuador",
+   "model": "BP 2K Android TV"
   },
   {
    "device": "Blaupunkt",
@@ -20383,6 +20403,11 @@
    "model": "POL-A0"
   },
   {
+   "device": "CP3669AS",
+   "name": "Coolpad Suva",
+   "model": "CP3669AS"
+  },
+  {
    "device": "CP3667AT",
    "name": "Coolpad Tasker",
    "model": "CP3667AT"
@@ -24403,6 +24428,11 @@
    "device": "HiCast",
    "name": "SV10",
    "model": "SV10"
+  },
+  {
+   "device": "ICN",
+   "name": "SV11",
+   "model": "SV11"
   }
  ],
  "Disney": [
@@ -88790,6 +88820,13 @@
    "model": "OBOX4k.20"
   }
  ],
+ "ODS Corporation": [
+  {
+   "device": "TA2C-DR9",
+   "name": "TA2C-DR9",
+   "model": "TA2C-DR9"
+  }
+ ],
  "ODYS": [
   {
    "device": "GOAL_10_PLUS_3G",
@@ -89508,6 +89545,11 @@
    "device": "100011886",
    "name": "100011886",
    "model": "100011886"
+  },
+  {
+   "device": "100011886CA",
+   "name": "100011886CA",
+   "model": "100011886CA"
   },
   {
    "device": "100015685-A",
@@ -125309,6 +125351,11 @@
    "device": "T1_LITE",
    "name": "TCL 10L",
    "model": "T770H"
+  },
+  {
+   "device": "Irvine",
+   "name": "TCL 20 5G",
+   "model": "T781"
   },
   {
    "device": "Austin",

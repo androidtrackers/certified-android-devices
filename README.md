@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-12-23
+Last sync is 2020-12-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2627,6 +2627,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|Tab8_NEU|Tab8_NEU|Tab8|
 |Blaupunkt|A-STREAM|GMP|A-STREAM|
 |Blaupunkt|Atlantis_A10_G403|Atlantis_A10_G403|Atlantis_A10_G403|
+|Blaupunkt|Australia|hanyang|BP Android TV|
+|Blaupunkt|Australia|nippori|BP Android TV 2K|
 |Blaupunkt|B-STREAM|JFK|B-STREAM|
 |Blaupunkt|BP_6008|BP_6008|BP_6008|
 |Blaupunkt|BP_6010|BP_6010|BP_6010|
@@ -2640,6 +2642,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|Czech/Ukraine/Russia|nippori|BLAUPUNKT Android TV 2K|
 |Blaupunkt|Discovery_A10_302|Discovery_A10_302|Discovery_A10_302|
 |Blaupunkt|EU|tamachi|BLAUPUNKT FHD Android TV|
+|Blaupunkt|Ecuador|hanyang|BP 4K Android TV|
+|Blaupunkt|Ecuador|nippori|BP 2K Android TV|
 |Blaupunkt|Endeavour101|Blaupunkt|Endeavour101|
 |Blaupunkt|Guardian|Guardian|Guardian|
 |Blaupunkt|MP3TV|shinjuku|MP3-A 2K TV|
@@ -3945,6 +3949,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Coolpad|Coolpad CVC-M0|Civic|CVC-M0|
 |Coolpad|Coolpad GRA-M0|GRA|GRA-M0|
 |Coolpad|Coolpad POL-A0|pollux|POL-A0|
+|Coolpad|Coolpad Suva|CP3669AS|CP3669AS|
 |Coolpad|Coolpad Tasker|CP3667AT|CP3667AT|
 |Coolpad|Coolpad VCR-I0|victor|VCR-I0|
 |Coolpad|Coolpad5218D|msm7627a_a5y_5218d|Coolpad_5218D|
@@ -4719,6 +4724,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DishTV (IN)|D-805XATV HD|SEI110|D-805XATV HD|
 |DishTV-NZ|A7070|STB|A7070|
 |DishTV-NZ|SV10|HiCast|SV10|
+|DishTV-NZ|SV11|ICN|SV11|
 |Disney|Frozen_G9|Frozen_G9|Frozen_G9|
 |Disney|Princess_G9|Princess_G9|Princess_G9|
 |Disney Frozen|BMF00001|BMF00001|Frozen|
@@ -17290,6 +17296,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OASYS|TEG9300-5|TEG9300-5|TEG9300-5|
 |OASYS|TEG9300-M|TEG9300-M|TEG9300-M|
 |OBOX|OBOX4K.20|DV8519-BOX|OBOX4k.20|
+|ODS Corporation|TA2C-DR9|TA2C-DR9|TA2C-DR9|
 |ODYS|GOAL_10_PLUS_3G|GOAL_10_PLUS_3G|GOAL_10_PLUS_3G|
 |ODYS|JUNIOR_8_PRO_EEA|JUNIOR_8_PRO|JUNIOR_8_PRO|
 |ODYS|MAVEN_X10_HD_LTE|MAVEN_X10_HD_LTE|MAVEN_X10_HD_LTE|
@@ -17422,6 +17429,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Onn (Walmart)|100005209|100005209|100005209|
 |Onn (Walmart)|100011885|100011885|100011885|
 |Onn (Walmart)|100011886|100011886|100011886|
+|Onn (Walmart)|100011886CA|100011886CA|100011886CA|
 |Onn (Walmart)|100015685-A|100015685-A|100015685-A|
 |Onn (Walmart)|100015685-E|100015685-E|100015685-E|
 |Onn (Walmart)|ONA19TB002|ONA19TB002|ONA19TB002|
@@ -24447,6 +24455,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 10 TABMAX WIFI|Transformer_WIFI|9296X_EEA|
 |TCL|TCL 10L|T1_LITE|T770B|
 |TCL|TCL 10L|T1_LITE|T770H|
+|TCL|TCL 20 5G|Irvine|T781|
 |TCL|TCL 20 SE|Austin|T671E|
 |TCL|TCL 20 SE|Austin|T671F|
 |TCL|TCL 20 SE|Austin|T671H|

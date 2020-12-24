@@ -22985,6 +22985,16 @@
    "model": "Bauhn Android TV 2K"
   },
   {
+   "brand": "Blaupunkt",
+   "device": "hanyang",
+   "model": "BP Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "device": "nippori",
+   "model": "BP Android TV 2K"
+  },
+  {
    "brand": "EKO",
    "device": "hanyang",
    "model": "Ayonz Android TV"
@@ -25496,6 +25506,18 @@
    "brand": "Sharp",
    "device": "sindang",
    "model": "AQUOS_TVE19A"
+  }
+ ],
+ "Ecuador": [
+  {
+   "brand": "Blaupunkt",
+   "device": "hanyang",
+   "model": "BP 4K Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "device": "nippori",
+   "model": "BP 2K Android TV"
   }
  ],
  "Endeavour101": [
@@ -35241,6 +35263,13 @@
    "model": "POL-A0"
   }
  ],
+ "Coolpad Suva": [
+  {
+   "brand": "Coolpad",
+   "device": "CP3669AS",
+   "model": "CP3669AS"
+  }
+ ],
  "Coolpad Tasker": [
   {
    "brand": "Coolpad",
@@ -40644,6 +40673,13 @@
    "brand": "DishTV-NZ",
    "device": "STB",
    "model": "A7070"
+  }
+ ],
+ "SV11": [
+  {
+   "brand": "DishTV-NZ",
+   "device": "ICN",
+   "model": "SV11"
   }
  ],
  "Frozen_G9": [
@@ -116626,6 +116662,13 @@
    "model": "OBOX4k.20"
   }
  ],
+ "TA2C-DR9": [
+  {
+   "brand": "ODS Corporation",
+   "device": "TA2C-DR9",
+   "model": "TA2C-DR9"
+  }
+ ],
  "GOAL_10_PLUS_3G": [
   {
    "brand": "ODYS",
@@ -117389,6 +117432,13 @@
    "brand": "Onn (Walmart)",
    "device": "100011886",
    "model": "100011886"
+  }
+ ],
+ "100011886CA": [
+  {
+   "brand": "Onn (Walmart)",
+   "device": "100011886CA",
+   "model": "100011886CA"
   }
  ],
  "100015685-A": [
@@ -158989,6 +159039,13 @@
    "brand": "TCL",
    "device": "T1_LITE",
    "model": "T770H"
+  }
+ ],
+ "TCL 20 5G": [
+  {
+   "brand": "TCL",
+   "device": "Irvine",
+   "model": "T781"
   }
  ],
  "TCL 20 SE": [

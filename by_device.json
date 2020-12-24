@@ -8691,6 +8691,16 @@
    "model": "Tempo Android TV"
   },
   {
+   "brand": "Blaupunkt",
+   "name": "Australia",
+   "model": "BP Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "Ecuador",
+   "model": "BP 4K Android TV"
+  },
+  {
    "brand": "Durabrand",
    "name": "Central America",
    "model": "Durabrand 4K Android TV"
@@ -8759,8 +8769,18 @@
   },
   {
    "brand": "Blaupunkt",
+   "name": "Australia",
+   "model": "BP Android TV 2K"
+  },
+  {
+   "brand": "Blaupunkt",
    "name": "Czech/Ukraine/Russia",
    "model": "BLAUPUNKT Android TV 2K"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "Ecuador",
+   "model": "BP 2K Android TV"
   },
   {
    "brand": "Durabrand",
@@ -30078,6 +30098,13 @@
    "model": "POL-A0"
   }
  ],
+ "CP3669AS": [
+  {
+   "brand": "Coolpad",
+   "name": "Coolpad Suva",
+   "model": "CP3669AS"
+  }
+ ],
  "CP3667AT": [
   {
    "brand": "Coolpad",
@@ -35988,6 +36015,13 @@
    "brand": "DishTV-NZ",
    "name": "A7070",
    "model": "A7070"
+  }
+ ],
+ "ICN": [
+  {
+   "brand": "DishTV-NZ",
+   "name": "SV11",
+   "model": "SV11"
   }
  ],
  "Frozen_G9": [
@@ -115890,6 +115924,13 @@
    "model": "OBOX4k.20"
   }
  ],
+ "TA2C-DR9": [
+  {
+   "brand": "ODS Corporation",
+   "name": "TA2C-DR9",
+   "model": "TA2C-DR9"
+  }
+ ],
  "GOAL_10_PLUS_3G": [
   {
    "brand": "ODYS",
@@ -116607,6 +116648,13 @@
    "brand": "Onn (Walmart)",
    "name": "100011886",
    "model": "100011886"
+  }
+ ],
+ "100011886CA": [
+  {
+   "brand": "Onn (Walmart)",
+   "name": "100011886CA",
+   "model": "100011886CA"
   }
  ],
  "100015685-A": [
@@ -161602,6 +161650,13 @@
    "brand": "TCL",
    "name": "TCL 10L",
    "model": "T770H"
+  }
+ ],
+ "Irvine": [
+  {
+   "brand": "TCL",
+   "name": "TCL 20 5G",
+   "model": "T781"
   }
  ],
  "Austin": [
