@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-12-24
+Last sync is 2020-12-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -390,7 +390,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aconatic|Android TV|R2|ATV R2|
 |Aconatic|DV6068Y|DV6068Y|DV6068Y|
 |Aconatic|DV8547|DV8547|DV8547|
-|Aconatic|HAKO mini|GMP|HAKO mini|
 |Adart|ALIGATOR RX510|RX510|ALIGATOR RX510|
 |Adart|ALIGATOR S4080 Duo|ALIGATOR_S4080|ALIGATOR S4080|
 |Adart|ALIGATOR S4082 Duo|S4082Duo|S4082 Duo|
@@ -24456,6 +24455,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 10L|T1_LITE|T770B|
 |TCL|TCL 10L|T1_LITE|T770H|
 |TCL|TCL 20 5G|Irvine|T781|
+|TCL|TCL 20 Pro 5G|Ottawa|T810H|
 |TCL|TCL 20 SE|Austin|T671E|
 |TCL|TCL 20 SE|Austin|T671F|
 |TCL|TCL 20 SE|Austin|T671H|

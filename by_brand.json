@@ -2022,11 +2022,6 @@
    "device": "DV8547",
    "name": "DV8547",
    "model": "DV8547"
-  },
-  {
-   "device": "GMP",
-   "name": "HAKO mini",
-   "model": "HAKO mini"
   }
  ],
  "Adart": [
@@ -125356,6 +125351,11 @@
    "device": "Irvine",
    "name": "TCL 20 5G",
    "model": "T781"
+  },
+  {
+   "device": "Ottawa",
+   "name": "TCL 20 Pro 5G",
+   "model": "T810H"
   },
   {
    "device": "Austin",

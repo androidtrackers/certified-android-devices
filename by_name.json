@@ -8872,18 +8872,6 @@
    "model": "DV8547"
   }
  ],
- "HAKO mini": [
-  {
-   "brand": "Aconatic",
-   "device": "GMP",
-   "model": "HAKO mini"
-  },
-  {
-   "brand": "HAKO",
-   "device": "GMP",
-   "model": "HAKO mini"
-  }
- ],
  "ALIGATOR RX510": [
   {
    "brand": "Adart",
@@ -54502,6 +54490,13 @@
    "brand": "Guophone",
    "device": "Guophone_XP9800",
    "model": "XP9800"
+  }
+ ],
+ "HAKO mini": [
+  {
+   "brand": "HAKO",
+   "device": "GMP",
+   "model": "HAKO mini"
   }
  ],
  "E101GC": [
@@ -159046,6 +159041,13 @@
    "brand": "TCL",
    "device": "Irvine",
    "model": "T781"
+  }
+ ],
+ "TCL 20 Pro 5G": [
+  {
+   "brand": "TCL",
+   "device": "Ottawa",
+   "model": "T810H"
   }
  ],
  "TCL 20 SE": [

@@ -4114,38 +4114,6 @@
    "model": "DV8547"
   }
  ],
- "GMP": [
-  {
-   "brand": "Aconatic",
-   "name": "HAKO mini",
-   "model": "HAKO mini"
-  },
-  {
-   "brand": "Blaupunkt",
-   "name": "A-STREAM",
-   "model": "A-STREAM"
-  },
-  {
-   "brand": "HAKO",
-   "name": "HAKO mini",
-   "model": "HAKO mini"
-  },
-  {
-   "brand": "Motorola",
-   "name": "DVM4KA01",
-   "model": "DVM4KA01"
-  },
-  {
-   "brand": "Philips",
-   "name": "NeoViu D1",
-   "model": "NeoViu D1"
-  },
-  {
-   "brand": "Polaroid",
-   "name": "SMX4K",
-   "model": "SMX4K"
-  }
- ],
  "RX510": [
   {
    "brand": "Adart",
@@ -20696,6 +20664,33 @@
    "brand": "Blackview",
    "name": "Tab8_NEU",
    "model": "Tab8"
+  }
+ ],
+ "GMP": [
+  {
+   "brand": "Blaupunkt",
+   "name": "A-STREAM",
+   "model": "A-STREAM"
+  },
+  {
+   "brand": "HAKO",
+   "name": "HAKO mini",
+   "model": "HAKO mini"
+  },
+  {
+   "brand": "Motorola",
+   "name": "DVM4KA01",
+   "model": "DVM4KA01"
+  },
+  {
+   "brand": "Philips",
+   "name": "NeoViu D1",
+   "model": "NeoViu D1"
+  },
+  {
+   "brand": "Polaroid",
+   "name": "SMX4K",
+   "model": "SMX4K"
   }
  ],
  "Atlantis_A10_G403": [
@@ -161657,6 +161652,13 @@
    "brand": "TCL",
    "name": "TCL 20 5G",
    "model": "T781"
+  }
+ ],
+ "Ottawa": [
+  {
+   "brand": "TCL",
+   "name": "TCL 20 Pro 5G",
+   "model": "T810H"
   }
  ],
  "Austin": [
