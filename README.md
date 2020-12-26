@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-12-25
+Last sync is 2020-12-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10202,6 +10202,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huskee|VULKANO|VULKANO|VULKANO|
 |Hykker|Smart Box Android TV|DV8038|Smart Box Android TV|
 |Hytera|PDC550|PDC550|PDC550|
+|Hytera|PDM680|PDM680|PDM680|
 |Hytera|PNC550|PNC550|PNC550|
 |Hytera|PNC550_P_TU|PNC550|PNC550|
 |Hyundai|10LA2|10LA2|10LA2|

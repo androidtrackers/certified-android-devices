@@ -72158,6 +72158,13 @@
    "device": "PDC550"
   }
  ],
+ "PDM680": [
+  {
+   "brand": "Hytera",
+   "name": "PDM680",
+   "device": "PDM680"
+  }
+ ],
  "PNC550": [
   {
    "brand": "Hytera",

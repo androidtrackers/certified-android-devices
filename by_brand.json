@@ -52426,6 +52426,11 @@
    "model": "PDC550"
   },
   {
+   "device": "PDM680",
+   "name": "PDM680",
+   "model": "PDM680"
+  },
+  {
    "device": "PNC550",
    "name": "PNC550",
    "model": "PNC550"
