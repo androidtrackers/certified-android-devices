@@ -46632,6 +46632,13 @@
    "model": "FPT ATV Play Box"
   }
  ],
+ "SEI500FPT": [
+  {
+   "brand": "FPT Telecom",
+   "device": "SEI500FPT",
+   "model": "FPT Play Box +"
+  }
+ ],
  "A15": [
   {
    "brand": "FPT Trading",
@@ -115955,6 +115962,13 @@
    "model": "Nokia X71"
   }
  ],
+ "SEI600NK": [
+  {
+   "brand": "Nokia",
+   "device": "HND",
+   "model": "Box Q"
+  }
+ ],
  "CORSA 3 LTE": [
   {
    "brand": "Nomi",
@@ -169216,6 +169230,13 @@
    "brand": "Telefunken",
    "device": "TF6",
    "model": "TF6"
+  }
+ ],
+ "TF600": [
+  {
+   "brand": "Telefunken",
+   "device": "TF600",
+   "model": "TF600"
   }
  ],
  "TelefunkenTV": [

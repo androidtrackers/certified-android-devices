@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-12-27
+Last sync is 2020-12-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5530,6 +5530,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FLEX MOBILE|S9|S9|S9|
 |FOXXD|MIRO|L590A|L590A|
 |FPT Telecom|FPT ATV Play Box|DV8236|FPT ATV Play Box|
+|FPT Telecom|SEI500FPT|SEI500FPT|FPT Play Box +|
 |FPT Trading|A15|A15_01|A15|
 |FPT Trading|FPT S68 4G|FPT_S68_4G|FPT S68 4G|
 |FPT Trading|FPT X10|X10|FPT_X10|
@@ -17179,6 +17180,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia X6|DRG|Nokia X6|
 |Nokia|Nokia X7|PNX|Nokia X7|
 |Nokia|Nokia X71|TAS|Nokia X71|
+|Nokia|SEI600NK|HND|Box Q|
 |Nomi|CORSA 3 LTE|Nomi_C070030|Nomi_C070030|
 |Nomi|Corsa 3 3G|Nomi_C070012|Nomi_C070012|
 |Nomi|I5032|Nomi_i5032|i5032|
@@ -26291,6 +26293,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telefunken|TF501_EC|TF501_EC|TF501_EC|
 |Telefunken|TF5X|TF5X|TF5X|
 |Telefunken|TF6|TF6|TF6|
+|Telefunken|TF600|TF600|TF600|
 |Telefunken|TelefunkenTV|shibuya|TelefunkenTV|
 |Telefunken|VP73_Telefunken|Telefunken|VP73_Telefunken|
 |Telegenic|TELEGENIC-AML-1|DMTS19TIA|TELEGENIC-AML-1|

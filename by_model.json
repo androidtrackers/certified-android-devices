@@ -40500,6 +40500,13 @@
    "device": "DV8236"
   }
  ],
+ "FPT Play Box +": [
+  {
+   "brand": "FPT Telecom",
+   "name": "SEI500FPT",
+   "device": "SEI500FPT"
+  }
+ ],
  "A15": [
   {
    "brand": "FPT Trading",
@@ -118329,6 +118336,13 @@
    "device": "TAS"
   }
  ],
+ "Box Q": [
+  {
+   "brand": "Nokia",
+   "name": "SEI600NK",
+   "device": "HND"
+  }
+ ],
  "Nomi_C070030": [
   {
    "brand": "Nomi",
@@ -179120,6 +179134,13 @@
    "brand": "Telefunken",
    "name": "TF6",
    "device": "TF6"
+  }
+ ],
+ "TF600": [
+  {
+   "brand": "Telefunken",
+   "name": "TF600",
+   "device": "TF600"
   }
  ],
  "TelefunkenTV": [

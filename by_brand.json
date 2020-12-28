@@ -28698,6 +28698,11 @@
    "device": "DV8236",
    "name": "FPT ATV Play Box",
    "model": "FPT ATV Play Box"
+  },
+  {
+   "device": "SEI500FPT",
+   "name": "SEI500FPT",
+   "model": "FPT Play Box +"
   }
  ],
  "FPT Trading": [
@@ -88203,6 +88208,11 @@
    "device": "TAS",
    "name": "Nokia X71",
    "model": "Nokia X71"
+  },
+  {
+   "device": "HND",
+   "name": "SEI600NK",
+   "model": "Box Q"
   }
  ],
  "Nomi": [
@@ -134661,6 +134671,11 @@
    "device": "TF6",
    "name": "TF6",
    "model": "TF6"
+  },
+  {
+   "device": "TF600",
+   "name": "TF600",
+   "model": "TF600"
   },
   {
    "device": "shibuya",

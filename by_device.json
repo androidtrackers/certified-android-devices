@@ -41894,6 +41894,13 @@
    "model": "FPT ATV Play Box"
   }
  ],
+ "SEI500FPT": [
+  {
+   "brand": "FPT Telecom",
+   "name": "SEI500FPT",
+   "model": "FPT Play Box +"
+  }
+ ],
  "A15_01": [
   {
    "brand": "FPT Trading",
@@ -115089,6 +115096,11 @@
    "brand": "Nokia",
    "name": "Nokia Steaming Box 8000",
    "model": "Nokia Streaming Box 8000"
+  },
+  {
+   "brand": "Nokia",
+   "name": "SEI600NK",
+   "model": "Box Q"
   }
  ],
  "DRG": [
@@ -171687,6 +171699,13 @@
    "brand": "Telefunken",
    "name": "TF6",
    "model": "TF6"
+  }
+ ],
+ "TF600": [
+  {
+   "brand": "Telefunken",
+   "name": "TF600",
+   "model": "TF600"
   }
  ],
  "Telefunken": [
