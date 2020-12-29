@@ -15393,6 +15393,13 @@
    "model": "A5"
   }
  ],
+ "Azumi_A5_P1": [
+  {
+   "brand": "Azumi",
+   "name": "A5_P1",
+   "model": "A5+"
+  }
+ ],
  "AT7": [
   {
    "brand": "Azumi",
@@ -20790,6 +20797,21 @@
    "model": "eSTAR FHD Android TV"
   },
   {
+   "brand": "F&U (Fandu)",
+   "name": "Greece",
+   "model": "F and U Android TV"
+  },
+  {
+   "brand": "Grunkel",
+   "name": "Spain",
+   "model": "GRUNKEL FHD Android TV"
+  },
+  {
+   "brand": "Inves",
+   "name": "Spain",
+   "model": "INVES FHD Android TV"
+  },
+  {
    "brand": "LISTO",
    "name": "Rumania",
    "model": "LISTO Android TV"
@@ -23744,6 +23766,21 @@
    "model": "AiPlus4K"
   },
   {
+   "brand": "F&U (Fandu)",
+   "name": "Greece",
+   "model": "F and U Android TV"
+  },
+  {
+   "brand": "Grunkel",
+   "name": "Spain",
+   "model": "GRUNKEL UHD Android TV"
+  },
+  {
+   "brand": "Inves",
+   "name": "Spain",
+   "model": "INVES UHD Android TV"
+  },
+  {
    "brand": "MULTYNET",
    "name": "Pakistan",
    "model": "MULTYNET UHD Android TV"
@@ -23777,6 +23814,16 @@
    "brand": "Starlight",
    "name": "Rumania",
    "model": "STARLIGHT Android TV"
+  },
+  {
+   "brand": "Turbo-X",
+   "name": "Greek and Bulgarian",
+   "model": "TURBO-X UHD Android TV"
+  },
+  {
+   "brand": "Widevu",
+   "name": "Korea",
+   "model": "Widevu UHD Android TV"
   }
  ],
  "LT5": [
@@ -56159,6 +56206,13 @@
    "model": "HIHI-40KH-TAB-01"
   }
  ],
+ "HIHI-41KH-TAB-1": [
+  {
+   "brand": "Hihi",
+   "name": "HIHI-41KH-TAB-1",
+   "model": "HIHI-41KH-TAB-1"
+  }
+ ],
  "HIHI-41KH-TAB-1-EEA": [
   {
    "brand": "Hihi",
@@ -72990,6 +73044,13 @@
    "brand": "Infinix",
    "name": "SMART 5",
    "model": "Infinix X657C"
+  }
+ ],
+ "Infinix-X688C": [
+  {
+   "brand": "Infinix",
+   "name": "SMART 5",
+   "model": "Infinix X688C"
   }
  ],
  "Infinix-X612": [
@@ -95436,6 +95497,13 @@
    "model": "Lenovo TB-X306FA"
   }
  ],
+ "X306V": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M10 HD (2nd Gen)",
+   "model": "Lenovo TB-X306V"
+  }
+ ],
  "X306X": [
   {
    "brand": "Lenovo",
@@ -96602,6 +96670,13 @@
    "brand": "Lenovo",
    "name": "X3c70",
    "model": "Lenovo X3c70"
+  }
+ ],
+ "J606N": [
+  {
+   "brand": "Lenovo",
+   "name": "XiaoXin Pad",
+   "model": "Lenovo TB-J606N"
   }
  ],
  "J706N": [
@@ -159840,6 +159915,13 @@
    "model": "221"
   }
  ],
+ "BOLD": [
+  {
+   "brand": "Stylo",
+   "name": "BOLD",
+   "model": "BOLD"
+  }
+ ],
  "BOLD_PLUS": [
   {
    "brand": "Stylo",
@@ -169814,6 +169896,13 @@
    "model": "P80_EEA"
   }
  ],
+ "P80_G3M2_EEA": [
+  {
+   "brand": "Teclast",
+   "name": "P80_EEA",
+   "model": "P80_EEA"
+  }
+ ],
  "P80h_EEA": [
   {
    "brand": "Teclast",
@@ -178387,6 +178476,11 @@
    "brand": "Vivo",
    "name": "V2036",
    "model": "V2036"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2036_21",
+   "model": "V2036_21"
   }
  ],
  "PD2031": [
@@ -178415,6 +178509,20 @@
    "brand": "Vivo",
    "name": "V2036A",
    "model": "V2036A"
+  }
+ ],
+ "PD2057": [
+  {
+   "brand": "Vivo",
+   "name": "V2057A",
+   "model": "V2057A"
+  }
+ ],
+ "PD2061": [
+  {
+   "brand": "Vivo",
+   "name": "V2061A",
+   "model": "V2061A"
   }
  ],
  "PD2065": [
@@ -194652,6 +194760,20 @@
    "model": "WT6300"
   }
  ],
+ "TC52X": [
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies TC52x",
+   "model": "TC52X"
+  }
+ ],
+ "TC57X": [
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies TC57x",
+   "model": "TC57X"
+  }
+ ],
  "TBDG1073": [
   {
    "brand": "Zeki",
@@ -197342,6 +197464,13 @@
    "brand": "iSWAG",
    "name": "ISWAG_VIPER",
    "model": "ISWAG VIPER"
+  }
+ ],
+ "ISWAG_NEO": [
+  {
+   "brand": "iSWAG",
+   "name": "NEO",
+   "model": "ISWAG NEO"
   }
  ],
  "ODIN": [

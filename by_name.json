@@ -19723,6 +19723,13 @@
    "model": "A5"
   }
  ],
+ "A5_P1": [
+  {
+   "brand": "Azumi",
+   "device": "Azumi_A5_P1",
+   "model": "A5+"
+  }
+ ],
  "AT7": [
   {
    "brand": "Azumi",
@@ -22716,6 +22723,26 @@
    "brand": "BRIGMTON",
    "device": "BTPC-801QC",
    "model": "BTPC-801QC"
+  },
+  {
+   "brand": "Grunkel",
+   "device": "tamachi",
+   "model": "GRUNKEL FHD Android TV"
+  },
+  {
+   "brand": "Grunkel",
+   "device": "yeongdeungpo",
+   "model": "GRUNKEL UHD Android TV"
+  },
+  {
+   "brand": "Inves",
+   "device": "tamachi",
+   "model": "INVES FHD Android TV"
+  },
+  {
+   "brand": "Inves",
+   "device": "yeongdeungpo",
+   "model": "INVES UHD Android TV"
   }
  ],
  "BTF-75TG": [
@@ -29091,6 +29118,11 @@
    "brand": "Teclast",
    "device": "P80_EEA",
    "model": "P80_EEA"
+  },
+  {
+   "brand": "Teclast",
+   "device": "P80_G3M2_EEA",
+   "model": "P80_EEA"
   }
  ],
  "LT700": [
@@ -30960,6 +30992,11 @@
    "brand": "Changhong",
    "device": "sindorim",
    "model": "AI PONT"
+  },
+  {
+   "brand": "Widevu",
+   "device": "yeongdeungpo",
+   "model": "Widevu UHD Android TV"
   }
  ],
  "L32H7": [
@@ -46471,6 +46508,23 @@
    "model": "IG-EP100"
   }
  ],
+ "Greece": [
+  {
+   "brand": "F&U (Fandu)",
+   "device": "tamachi",
+   "model": "F and U Android TV"
+  },
+  {
+   "brand": "F&U (Fandu)",
+   "device": "yeongdeungpo",
+   "model": "F and U Android TV"
+  },
+  {
+   "brand": "Turbo-X",
+   "device": "tamachi",
+   "model": "TURBO-X FHD Android TV"
+  }
+ ],
  "C8Finger": [
   {
    "brand": "F2 Mobile",
@@ -60846,6 +60900,13 @@
    "brand": "Hihi",
    "device": "HIHI-40KH-TAB",
    "model": "HIHI-40KH-TAB-01"
+  }
+ ],
+ "HIHI-41KH-TAB-1": [
+  {
+   "brand": "Hihi",
+   "device": "HIHI-41KH-TAB-1",
+   "model": "HIHI-41KH-TAB-1"
   }
  ],
  "HIHI-41KH-TAB-1-EEA": [
@@ -76720,6 +76781,11 @@
    "brand": "Infinix",
    "device": "Infinix-X657C",
    "model": "Infinix X657C"
+  },
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X688C",
+   "model": "Infinix X688C"
   },
   {
    "brand": "Tecno",
@@ -97500,6 +97566,11 @@
   },
   {
    "brand": "Lenovo",
+   "device": "X306V",
+   "model": "Lenovo TB-X306V"
+  },
+  {
+   "brand": "Lenovo",
    "device": "X306X",
    "model": "Lenovo TB-X306X"
   },
@@ -98538,6 +98609,11 @@
    "brand": "Lenovo",
    "device": "J606F",
    "model": "Lenovo TB-J606F"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "J606N",
+   "model": "Lenovo TB-J606N"
   }
  ],
  "XiaoXin Pad Pro": [
@@ -106997,6 +107073,11 @@
    "brand": "Mobicell",
    "device": "NEO",
    "model": "NEO"
+  },
+  {
+   "brand": "iSWAG",
+   "device": "ISWAG_NEO",
+   "model": "ISWAG NEO"
   }
  ],
  "NEO LTE": [
@@ -157358,6 +157439,13 @@
    "model": "221"
   }
  ],
+ "BOLD": [
+  {
+   "brand": "Stylo",
+   "device": "BOLD",
+   "model": "BOLD"
+  }
+ ],
  "BOLD PLUS": [
   {
    "brand": "Stylo",
@@ -171226,11 +171314,11 @@
    "model": "StarTrail TT"
   }
  ],
- "Greece": [
+ "Greek and Bulgarian": [
   {
    "brand": "Turbo-X",
-   "device": "tamachi",
-   "model": "TURBO-X FHD Android TV"
+   "device": "yeongdeungpo",
+   "model": "TURBO-X UHD Android TV"
   }
  ],
  "\"Turbo-X Fire II (2GB) Tablet 10.1\"\" WIFI\"": [
@@ -176088,6 +176176,13 @@
    "model": "V2036A"
   }
  ],
+ "V2036_21": [
+  {
+   "brand": "Vivo",
+   "device": "2036",
+   "model": "V2036_21"
+  }
+ ],
  "V2042": [
   {
    "brand": "Vivo",
@@ -176100,6 +176195,20 @@
    "brand": "Vivo",
    "device": "2026",
    "model": "V2043"
+  }
+ ],
+ "V2057A": [
+  {
+   "brand": "Vivo",
+   "device": "PD2057",
+   "model": "V2057A"
+  }
+ ],
+ "V2061A": [
+  {
+   "brand": "Vivo",
+   "device": "PD2061",
+   "model": "V2061A"
   }
  ],
  "V2065A": [
@@ -191861,6 +191970,20 @@
    "brand": "Zebra",
    "device": "WT63B0",
    "model": "WT6300"
+  }
+ ],
+ "Zebra Technologies TC52x": [
+  {
+   "brand": "Zebra",
+   "device": "TC52X",
+   "model": "TC52X"
+  }
+ ],
+ "Zebra Technologies TC57x": [
+  {
+   "brand": "Zebra",
+   "device": "TC57X",
+   "model": "TC57X"
   }
  ],
  "TBDG1073": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-12-28
+Last sync is 2020-12-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1883,6 +1883,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|A57h|Azumi_A57h|A57|
 |Azumi|A5B|Azumi_A5B_BD|A5B|
 |Azumi|A5_AC11|A5_AC11|A5|
+|Azumi|A5_P1|Azumi_A5_P1|A5+|
 |Azumi|AT7|AT7|AT7|
 |Azumi|AX5|AX5|Azumi AX5|
 |Azumi|AZUMI KIREI A5D|KIREI_A5_D|Azumi KIREI A5 D|
@@ -5506,6 +5507,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Express Gifts Limited|R726|R726|R726|
 |Extrem|Rock_X11|ROCK_X11|ROCK_X11|
 |EyePay|IG-EP100|IG-EP100|IG-EP100|
+|F&U (Fandu)|Greece|tamachi|F and U Android TV|
+|F&U (Fandu)|Greece|yeongdeungpo|F and U Android TV|
 |F2 Mobile|C8Finger|C8Finger|C8Finger|
 |F2 Mobile|F2 F80s_plus|F80s_plus|F80s_plus|
 |F2 Mobile|F2_LT5216|LT5216|LT5216|
@@ -6610,6 +6613,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Grundig|GTB850|GTB850|GTB 850|
 |Grundig|TC69CA2|GTB801|GTB 801|
 |Grunhelm|GT9HD32|ikebukuro|AI PONT|
+|Grunkel|Spain|tamachi|GRUNKEL FHD Android TV|
+|Grunkel|Spain|yeongdeungpo|GRUNKEL UHD Android TV|
 |Gryphon|Veil|granite|Veil|
 |Gtel|A7100 X3|A7100_X3|A7100_X3|
 |Gtel|A7101_X3_mini|A7101_X3_mini|A7101_X3_mini|
@@ -7687,6 +7692,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |High_Q|ELT0802H9|ELT0802H9|ELT0802H9|
 |High_Q|ELT10101H9|ELT10101H9|ELT10101H9|
 |Hihi|HIHI-40KH-TAB-01|HIHI-40KH-TAB|HIHI-40KH-TAB-01|
+|Hihi|HIHI-41KH-TAB-1|HIHI-41KH-TAB-1|HIHI-41KH-TAB-1|
 |Hihi|HIHI-41KH-TAB-1-EEA|HIHI-41KH-TAB-1-EEA|HIHI-41KH-TAB-1-EEA|
 |Hiking|A19|A19|A19|
 |Hiking|A20|A20|A20|
@@ -10583,6 +10589,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|S5 Pro|Infinix-X660C|Infinix X660C|
 |Infinix|SMART 5|Infinix-X657B|Infinix X657B|
 |Infinix|SMART 5|Infinix-X657C|Infinix X657C|
+|Infinix|SMART 5|Infinix-X688C|Infinix X688C|
 |Infinix|SMART HD|Infinix-X612|Infinix X612|
 |Infinix|SMART HD|Infinix-X612B|Infinix X612B|
 |Infinix|SURF 2|INFINIX_X511|Infinix X511|
@@ -10879,6 +10886,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Inverse Net|EP172BZ|EP172BZ|EP172BZ|
 |Inverse Net|EP172PR|EP172PR|EP172PR|
 |Inverse Net|LT101|LT101|LT101|
+|Inves|Spain|tamachi|INVES FHD Android TV|
+|Inves|Spain|yeongdeungpo|INVES UHD Android TV|
 |Ipro|Amber5S|Amber5S|Amber5S|
 |Ipro|Amber5S_Pro|Amber5S_Pro|Amber5S_Pro|
 |Ipro|Amber5s Plus|Amber5s_Plus|Amber5s Plus|
@@ -14159,6 +14168,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M10 FHD Rel|801LV|801LV|
 |Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306F|Lenovo TB-X306F|
 |Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306FA|Lenovo TB-X306FA|
+|Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306V|Lenovo TB-X306V|
 |Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306X|Lenovo TB-X306X|
 |Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306XA|Lenovo TB-X306XA|
 |Lenovo|Lenovo Tab M10 HD (2nd Gen) PRC|X306FC_PRC|Lenovo TB-X306FC_PRC|
@@ -14339,6 +14349,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|X3c50|X3c50|Lenovo X3c50|
 |Lenovo|X3c70|X3c70|Lenovo X3c70|
 |Lenovo|XiaoXin Pad|J606F|Lenovo TB-J606F|
+|Lenovo|XiaoXin Pad|J606N|Lenovo TB-J606N|
 |Lenovo|XiaoXin Pad Pro|J706F|Lenovo TB-J706F|
 |Lenovo|XiaoXin Pad Pro|J706N|Lenovo TB-J706N|
 |Lenovo|YOGA A12|YOGA-A12|Lenovo YB-Q501F|
@@ -24174,6 +24185,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sts-tottori|JR-P2000|JR-P2000|JR-P2000|
 |Sts-tottori|TAB-A03|TAB-A03|TAB-A03-SD|
 |Stylo|221|221|221|
+|Stylo|BOLD|BOLD|BOLD|
 |Stylo|BOLD PLUS|BOLD_PLUS|BOLD_PLUS|
 |Stylo|Destiny|Destiny|Destiny|
 |Stylo|Energy|Energy|Energy|
@@ -25997,6 +26009,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P80X_EEA|P80X|P80X|
 |Teclast|P80X_EEA|P80X|P80X_EEA|
 |Teclast|P80_EEA|P80_EEA|P80_EEA|
+|Teclast|P80_EEA|P80_G3M2_EEA|P80_EEA|
 |Teclast|P80h_EEA|P80h_EEA|P80h_EEA|
 |Teclast|P80h_KR|P80h_KR|P80h_KR|
 |Teclast|P80h_ROW|P80h_ROW|P80h_ROW|
@@ -26607,6 +26620,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TuCEL|TL554B|TL554B|TL554B|
 |Tunisie Telecom|Star Trail by TT|startrail3_tt|StarTrail TT|
 |Turbo-X|Greece|tamachi|TURBO-X FHD Android TV|
+|Turbo-X|Greek and Bulgarian|yeongdeungpo|TURBO-X UHD Android TV|
 |Turbo-X|"Turbo-X Fire II (2GB) Tablet 10.1"" WIFI"|Fire_II_WiFi|Fire_II_WiFi|
 |Turbo-X|Turbo_X8|Turbo_X8|Turbo_X8|
 |Turbokids|Monsterpad_3G|Monsterpad_3G|Monsterpad 3G|
@@ -27397,9 +27411,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2036|2036|V2031|
 |Vivo|V2036|2036|V2036|
 |Vivo|V2036A|PD2036|V2036A|
+|Vivo|V2036_21|2036|V2036_21|
 |Vivo|V2040|2040|V2040|
 |Vivo|V2042|2026|V2042|
 |Vivo|V2043|2026|V2043|
+|Vivo|V2057A|PD2057|V2057A|
+|Vivo|V2061A|PD2061|V2061A|
 |Vivo|V2065A|PD2065|V2065A|
 |Vivo|V2099A|PD2034D|V2099A|
 |Vivo|V3|PD1524|vivo V3|
@@ -27922,6 +27939,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Westinghouse|West|ueno|2K Android TV|
 |Wexler|WLT710M|WLT710M|WLT710M|
 |Wibox|WiboxTv|dtiw384wb|m384wb|
+|Widevu|Korea|yeongdeungpo|Widevu UHD Android TV|
 |Wieppo|Wieppo E1|Wieppo_E1|Wieppo E1|
 |Wieppo|Wieppo S5|Wieppo_S5|Wieppo S5|
 |Wieppo|Wieppo S6|t596_jw_wieppo|Wieppo S6|
@@ -30189,6 +30207,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|"VC8300 8"""|VC8308|VC8300|
 |Zebra|WT6000|WT6000|WT6000|
 |Zebra|WT6300|WT63B0|WT6300|
+|Zebra|Zebra Technologies TC52x|TC52X|TC52X|
+|Zebra|Zebra Technologies TC57x|TC57X|TC57X|
 |Zeki|TBDG1073|TBDG1073|TBDG1073|
 |Zeki|TBDG734|TBDG734|TBDG734|
 |Zeki|TBDG874 Tablet|TBDG874B|TBDG874|
@@ -30639,6 +30659,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iSWAG|BLINK|BLINK|BLINK|
 |iSWAG|ISWAG_NEMESIS|ISWAG_NEMESIS|ISWAG_NEMESIS|
 |iSWAG|ISWAG_VIPER|ISWAG_VIPER|ISWAG VIPER|
+|iSWAG|NEO|ISWAG_NEO|ISWAG NEO|
 |iSWAG|ODIN|ODIN|ODIN|
 |iSWAG|STREAM7|STREAM7|STREAM7|
 |iTab XPLUS|iTAB-A1|iTAB-A1|iTAB-A1|

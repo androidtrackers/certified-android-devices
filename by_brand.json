@@ -9675,6 +9675,11 @@
    "model": "A5"
   },
   {
+   "device": "Azumi_A5_P1",
+   "name": "A5_P1",
+   "model": "A5+"
+  },
+  {
    "device": "AT7",
    "name": "AT7",
    "model": "AT7"
@@ -28560,6 +28565,18 @@
    "model": "IG-EP100"
   }
  ],
+ "F&U (Fandu)": [
+  {
+   "device": "tamachi",
+   "name": "Greece",
+   "model": "F and U Android TV"
+  },
+  {
+   "device": "yeongdeungpo",
+   "name": "Greece",
+   "model": "F and U Android TV"
+  }
+ ],
  "F2 Mobile": [
   {
    "device": "C8Finger",
@@ -34332,6 +34349,18 @@
    "model": "AI PONT"
   }
  ],
+ "Grunkel": [
+  {
+   "device": "tamachi",
+   "name": "Spain",
+   "model": "GRUNKEL FHD Android TV"
+  },
+  {
+   "device": "yeongdeungpo",
+   "name": "Spain",
+   "model": "GRUNKEL UHD Android TV"
+  }
+ ],
  "Gryphon": [
   {
    "device": "granite",
@@ -39801,6 +39830,11 @@
    "device": "HIHI-40KH-TAB",
    "name": "HIHI-40KH-TAB-01",
    "model": "HIHI-40KH-TAB-01"
+  },
+  {
+   "device": "HIHI-41KH-TAB-1",
+   "name": "HIHI-41KH-TAB-1",
+   "model": "HIHI-41KH-TAB-1"
   },
   {
    "device": "HIHI-41KH-TAB-1-EEA",
@@ -54419,6 +54453,11 @@
    "model": "Infinix X657C"
   },
   {
+   "device": "Infinix-X688C",
+   "name": "SMART 5",
+   "model": "Infinix X688C"
+  },
+  {
    "device": "Infinix-X612",
    "name": "SMART HD",
    "model": "Infinix X612"
@@ -55933,6 +55972,18 @@
    "device": "LT101",
    "name": "LT101",
    "model": "LT101"
+  }
+ ],
+ "Inves": [
+  {
+   "device": "tamachi",
+   "name": "Spain",
+   "model": "INVES FHD Android TV"
+  },
+  {
+   "device": "yeongdeungpo",
+   "name": "Spain",
+   "model": "INVES UHD Android TV"
   }
  ],
  "Ipro": [
@@ -72621,6 +72672,11 @@
    "model": "Lenovo TB-X306FA"
   },
   {
+   "device": "X306V",
+   "name": "Lenovo Tab M10 HD (2nd Gen)",
+   "model": "Lenovo TB-X306V"
+  },
+  {
    "device": "X306X",
    "name": "Lenovo Tab M10 HD (2nd Gen)",
    "model": "Lenovo TB-X306X"
@@ -73519,6 +73575,11 @@
    "device": "J606F",
    "name": "XiaoXin Pad",
    "model": "Lenovo TB-J606F"
+  },
+  {
+   "device": "J606N",
+   "name": "XiaoXin Pad",
+   "model": "Lenovo TB-J606N"
   },
   {
    "device": "J706F",
@@ -123884,6 +123945,11 @@
    "model": "221"
   },
   {
+   "device": "BOLD",
+   "name": "BOLD",
+   "model": "BOLD"
+  },
+  {
    "device": "BOLD_PLUS",
    "name": "BOLD PLUS",
    "model": "BOLD_PLUS"
@@ -133167,6 +133233,11 @@
    "model": "P80_EEA"
   },
   {
+   "device": "P80_G3M2_EEA",
+   "name": "P80_EEA",
+   "model": "P80_EEA"
+  },
+  {
    "device": "P80h_EEA",
    "name": "P80h_EEA",
    "model": "P80h_EEA"
@@ -136351,6 +136422,11 @@
    "device": "tamachi",
    "name": "Greece",
    "model": "TURBO-X FHD Android TV"
+  },
+  {
+   "device": "yeongdeungpo",
+   "name": "Greek and Bulgarian",
+   "model": "TURBO-X UHD Android TV"
   },
   {
    "device": "Fire_II_WiFi",
@@ -140501,6 +140577,11 @@
    "model": "V2036A"
   },
   {
+   "device": "2036",
+   "name": "V2036_21",
+   "model": "V2036_21"
+  },
+  {
    "device": "2040",
    "name": "V2040",
    "model": "V2040"
@@ -140514,6 +140595,16 @@
    "device": "2026",
    "name": "V2043",
    "model": "V2043"
+  },
+  {
+   "device": "PD2057",
+   "name": "V2057A",
+   "model": "V2057A"
+  },
+  {
+   "device": "PD2061",
+   "name": "V2061A",
+   "model": "V2061A"
   },
   {
    "device": "PD2065",
@@ -143216,6 +143307,13 @@
    "device": "dtiw384wb",
    "name": "WiboxTv",
    "model": "m384wb"
+  }
+ ],
+ "Widevu": [
+  {
+   "device": "yeongdeungpo",
+   "name": "Korea",
+   "model": "Widevu UHD Android TV"
   }
  ],
  "Wieppo": [
@@ -154701,6 +154799,16 @@
    "device": "WT63B0",
    "name": "WT6300",
    "model": "WT6300"
+  },
+  {
+   "device": "TC52X",
+   "name": "Zebra Technologies TC52x",
+   "model": "TC52X"
+  },
+  {
+   "device": "TC57X",
+   "name": "Zebra Technologies TC57x",
+   "model": "TC57X"
   }
  ],
  "Zeki": [
@@ -157079,6 +157187,11 @@
    "device": "ISWAG_VIPER",
    "name": "ISWAG_VIPER",
    "model": "ISWAG VIPER"
+  },
+  {
+   "device": "ISWAG_NEO",
+   "name": "NEO",
+   "model": "ISWAG NEO"
   },
   {
    "device": "ODIN",

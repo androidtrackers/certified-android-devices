@@ -14281,6 +14281,11 @@
    "brand": "Azumi",
    "name": "A5+",
    "device": "Azumi_A5_P"
+  },
+  {
+   "brand": "Azumi",
+   "name": "A5_P1",
+   "device": "Azumi_A5_P1"
   }
  ],
  "A50_Style_Plus": [
@@ -40287,6 +40292,18 @@
    "device": "IG-EP100"
   }
  ],
+ "F and U Android TV": [
+  {
+   "brand": "F&U (Fandu)",
+   "name": "Greece",
+   "device": "tamachi"
+  },
+  {
+   "brand": "F&U (Fandu)",
+   "name": "Greece",
+   "device": "yeongdeungpo"
+  }
+ ],
  "C8Finger": [
   {
    "brand": "F2 Mobile",
@@ -48273,6 +48290,20 @@
    "device": "GTB801"
   }
  ],
+ "GRUNKEL FHD Android TV": [
+  {
+   "brand": "Grunkel",
+   "name": "Spain",
+   "device": "tamachi"
+  }
+ ],
+ "GRUNKEL UHD Android TV": [
+  {
+   "brand": "Grunkel",
+   "name": "Spain",
+   "device": "yeongdeungpo"
+  }
+ ],
  "Veil": [
   {
    "brand": "Gryphon",
@@ -55451,6 +55482,13 @@
    "brand": "Hihi",
    "name": "HIHI-40KH-TAB-01",
    "device": "HIHI-40KH-TAB"
+  }
+ ],
+ "HIHI-41KH-TAB-1": [
+  {
+   "brand": "Hihi",
+   "name": "HIHI-41KH-TAB-1",
+   "device": "HIHI-41KH-TAB-1"
   }
  ],
  "HIHI-41KH-TAB-1-EEA": [
@@ -74665,6 +74703,13 @@
    "device": "Infinix-X657C"
   }
  ],
+ "Infinix X688C": [
+  {
+   "brand": "Infinix",
+   "name": "SMART 5",
+   "device": "Infinix-X688C"
+  }
+ ],
  "Infinix X612": [
   {
    "brand": "Infinix",
@@ -76553,6 +76598,20 @@
    "brand": "Inverse Net",
    "name": "LT101",
    "device": "LT101"
+  }
+ ],
+ "INVES FHD Android TV": [
+  {
+   "brand": "Inves",
+   "name": "Spain",
+   "device": "tamachi"
+  }
+ ],
+ "INVES UHD Android TV": [
+  {
+   "brand": "Inves",
+   "name": "Spain",
+   "device": "yeongdeungpo"
   }
  ],
  "Amber5S": [
@@ -98521,6 +98580,13 @@
    "device": "X306FA"
   }
  ],
+ "Lenovo TB-X306V": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M10 HD (2nd Gen)",
+   "device": "X306V"
+  }
+ ],
  "Lenovo TB-X306X": [
   {
    "brand": "Lenovo",
@@ -99695,6 +99761,13 @@
    "brand": "Lenovo",
    "name": "X3c70",
    "device": "X3c70"
+  }
+ ],
+ "Lenovo TB-J606N": [
+  {
+   "brand": "Lenovo",
+   "name": "XiaoXin Pad",
+   "device": "J606N"
   }
  ],
  "Lenovo TB-J706N": [
@@ -164866,6 +164939,13 @@
    "device": "221"
   }
  ],
+ "BOLD": [
+  {
+   "brand": "Stylo",
+   "name": "BOLD",
+   "device": "BOLD"
+  }
+ ],
  "BOLD_PLUS": [
   {
    "brand": "Stylo",
@@ -177151,6 +177231,11 @@
    "brand": "Teclast",
    "name": "P80_EEA",
    "device": "P80_EEA"
+  },
+  {
+   "brand": "Teclast",
+   "name": "P80_EEA",
+   "device": "P80_G3M2_EEA"
   }
  ],
  "P80h_EEA": [
@@ -181116,6 +181201,13 @@
    "brand": "Turbo-X",
    "name": "Greece",
    "device": "tamachi"
+  }
+ ],
+ "TURBO-X UHD Android TV": [
+  {
+   "brand": "Turbo-X",
+   "name": "Greek and Bulgarian",
+   "device": "yeongdeungpo"
   }
  ],
  "Fire_II_WiFi": [
@@ -186084,6 +186176,13 @@
    "device": "PD2036"
   }
  ],
+ "V2036_21": [
+  {
+   "brand": "Vivo",
+   "name": "V2036_21",
+   "device": "2036"
+  }
+ ],
  "V2042": [
   {
    "brand": "Vivo",
@@ -186096,6 +186195,20 @@
    "brand": "Vivo",
    "name": "V2043",
    "device": "2026"
+  }
+ ],
+ "V2057A": [
+  {
+   "brand": "Vivo",
+   "name": "V2057A",
+   "device": "PD2057"
+  }
+ ],
+ "V2061A": [
+  {
+   "brand": "Vivo",
+   "name": "V2061A",
+   "device": "PD2061"
   }
  ],
  "V2065A": [
@@ -189426,6 +189539,13 @@
    "brand": "Wexler",
    "name": "WLT710M",
    "device": "WLT710M"
+  }
+ ],
+ "Widevu UHD Android TV": [
+  {
+   "brand": "Widevu",
+   "name": "Korea",
+   "device": "yeongdeungpo"
   }
  ],
  "Wieppo E1": [
@@ -204114,6 +204234,20 @@
    "device": "WT63B0"
   }
  ],
+ "TC52X": [
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies TC52x",
+   "device": "TC52X"
+  }
+ ],
+ "TC57X": [
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies TC57x",
+   "device": "TC57X"
+  }
+ ],
  "TBDG1073": [
   {
    "brand": "Zeki",
@@ -206818,6 +206952,13 @@
    "brand": "iSWAG",
    "name": "ISWAG_VIPER",
    "device": "ISWAG_VIPER"
+  }
+ ],
+ "ISWAG NEO": [
+  {
+   "brand": "iSWAG",
+   "name": "NEO",
+   "device": "ISWAG_NEO"
   }
  ],
  "ODIN": [
