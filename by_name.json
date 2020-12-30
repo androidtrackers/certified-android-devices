@@ -21498,6 +21498,13 @@
    "model": "BL54Pro"
   }
  ],
+ "BL54_PRO_TG05": [
+  {
+   "brand": "BMobile",
+   "device": "Bmobile_BL54_PRO_TG05",
+   "model": "BL54_PRO"
+  }
+ ],
  "Bella": [
   {
    "brand": "BMobile",
@@ -96749,6 +96756,20 @@
    "model": "Lenovo L38082"
   }
  ],
+ "LAVIE T11 112K1": [
+  {
+   "brand": "Lenovo",
+   "device": "LAVIET11112K1",
+   "model": "LAVIE T11 112K1"
+  }
+ ],
+ "LAVIE T11 11QHD1": [
+  {
+   "brand": "Lenovo",
+   "device": "LAVIET1111QHD1",
+   "model": "LAVIE T11 11QHD1"
+  }
+ ],
  "LAVIE Tab E": [
   {
    "brand": "Lenovo",
@@ -153340,6 +153361,13 @@
    "brand": "Smooth",
    "device": "SSmooth_S2_Advance",
    "model": "S2 Advance"
+  }
+ ],
+ "Smooth5_5": [
+  {
+   "brand": "Smooth",
+   "device": "SSmooth5_5",
+   "model": "Smooth 5.5"
   }
  ],
  "ServiceChecKIT": [

@@ -16131,6 +16131,13 @@
    "device": "Bmobile_BL54Pro"
   }
  ],
+ "BL54_PRO": [
+  {
+   "brand": "BMobile",
+   "name": "BL54_PRO_TG05",
+   "device": "Bmobile_BL54_PRO_TG05"
+  }
+ ],
  "Bella": [
   {
    "brand": "BMobile",
@@ -97622,6 +97629,20 @@
    "device": "L38082"
   }
  ],
+ "LAVIE T11 112K1": [
+  {
+   "brand": "Lenovo",
+   "name": "LAVIE T11 112K1",
+   "device": "LAVIET11112K1"
+  }
+ ],
+ "LAVIE T11 11QHD1": [
+  {
+   "brand": "Lenovo",
+   "name": "LAVIE T11 11QHD1",
+   "device": "LAVIET1111QHD1"
+  }
+ ],
  "PC-TE510HAW": [
   {
    "brand": "Lenovo",
@@ -160275,6 +160296,13 @@
    "brand": "Smooth",
    "name": "S2_Advance",
    "device": "SSmooth_S2_Advance"
+  }
+ ],
+ "Smooth 5.5": [
+  {
+   "brand": "Smooth",
+   "name": "Smooth5_5",
+   "device": "SSmooth5_5"
   }
  ],
  "ServiceChecKIT_EEA": [

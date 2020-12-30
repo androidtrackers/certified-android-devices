@@ -17201,6 +17201,13 @@
    "model": "BL54Pro"
   }
  ],
+ "Bmobile_BL54_PRO_TG05": [
+  {
+   "brand": "BMobile",
+   "name": "BL54_PRO_TG05",
+   "model": "BL54_PRO"
+  }
+ ],
  "Bella": [
   {
    "brand": "BMobile",
@@ -94574,6 +94581,20 @@
    "model": "Lenovo L38082"
   }
  ],
+ "LAVIET11112K1": [
+  {
+   "brand": "Lenovo",
+   "name": "LAVIE T11 112K1",
+   "model": "LAVIE T11 112K1"
+  }
+ ],
+ "LAVIET1111QHD1": [
+  {
+   "brand": "Lenovo",
+   "name": "LAVIE T11 11QHD1",
+   "model": "LAVIE T11 11QHD1"
+  }
+ ],
  "X704F": [
   {
    "brand": "Lenovo",
@@ -155187,6 +155208,13 @@
    "brand": "Smooth",
    "name": "S2_Advance",
    "model": "S2 Advance"
+  }
+ ],
+ "SSmooth5_5": [
+  {
+   "brand": "Smooth",
+   "name": "Smooth5_5",
+   "model": "Smooth 5.5"
   }
  ],
  "ServiceChecKIT_EEA": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-12-29
+Last sync is 2020-12-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2132,6 +2132,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|B55|B55|B55|
 |BMobile|B60Pro_MV03|B60Pro_MV03|B60Pro_MV03|
 |BMobile|BL54Pro|Bmobile_BL54Pro|BL54Pro|
+|BMobile|BL54_PRO_TG05|Bmobile_BL54_PRO_TG05|BL54_PRO|
 |BMobile|Bella|Bella|Bella|
 |BMobile|Bmbile AX687|Bmobile_AX687|AX687|
 |BMobile|Bmobile AX1076|Bmobile_AX1076|AX1076|
@@ -14031,6 +14032,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|L38011|k5|Lenovo L38011|
 |Lenovo|L38021|k5_cmcc|Lenovo L38021|
 |Lenovo|L38082|L38082|Lenovo L38082|
+|Lenovo|LAVIE T11 112K1|LAVIET11112K1|LAVIE T11 112K1|
+|Lenovo|LAVIE T11 11QHD1|LAVIET1111QHD1|LAVIE T11 11QHD1|
 |Lenovo|LAVIE Tab E|X704F|PC-TE510HAW|
 |Lenovo|LAVIE Tab E 10FHD2|LAVIETabE10FHD2|LAVIE Tab E 10FHD2|
 |Lenovo|LAVIE Tab E 7SD1|LAVIETabE7SD1|LAVIE Tab E 7SD1|
@@ -23468,6 +23471,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smile|A955Z|A955Z|A955Z|
 |Smooth|S2|S2|S2|
 |Smooth|S2_Advance|SSmooth_S2_Advance|S2 Advance|
+|Smooth|Smooth5_5|SSmooth5_5|Smooth 5.5|
 |Snopow|M10|M10|M10|
 |Snopow|ServiceChecKIT|ServiceChecKIT_EEA|ServiceChecKIT_EEA|
 |So ! Generation|T8100|T8100|T8100|

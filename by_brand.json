@@ -10944,6 +10944,11 @@
    "model": "BL54Pro"
   },
   {
+   "device": "Bmobile_BL54_PRO_TG05",
+   "name": "BL54_PRO_TG05",
+   "model": "BL54_PRO"
+  },
+  {
    "device": "Bella",
    "name": "Bella",
    "model": "Bella"
@@ -71987,6 +71992,16 @@
    "model": "Lenovo L38082"
   },
   {
+   "device": "LAVIET11112K1",
+   "name": "LAVIE T11 112K1",
+   "model": "LAVIE T11 112K1"
+  },
+  {
+   "device": "LAVIET1111QHD1",
+   "name": "LAVIE T11 11QHD1",
+   "model": "LAVIE T11 11QHD1"
+  },
+  {
    "device": "X704F",
    "name": "LAVIE Tab E",
    "model": "PC-TE510HAW"
@@ -120298,6 +120313,11 @@
    "device": "SSmooth_S2_Advance",
    "name": "S2_Advance",
    "model": "S2 Advance"
+  },
+  {
+   "device": "SSmooth5_5",
+   "name": "Smooth5_5",
+   "model": "Smooth 5.5"
   }
  ],
  "Snopow": [
