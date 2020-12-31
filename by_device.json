@@ -5266,6 +5266,13 @@
    "model": "AT702"
   }
  ],
+ "AIWA_A81": [
+  {
+   "brand": "Aiwa",
+   "name": "A81",
+   "model": "A81"
+  }
+ ],
  "sindorim": [
   {
    "brand": "Aiwa",
@@ -11681,6 +11688,13 @@
   }
  ],
  "A45": [
+  {
+   "brand": "Aspera",
+   "name": "A45",
+   "model": "A45"
+  }
+ ],
+ "A45_1": [
   {
    "brand": "Aspera",
    "name": "A45",
@@ -80672,6 +80686,13 @@
    "model": "8052_RU"
   }
  ],
+ "Phoenix_7_KD": [
+  {
+   "brand": "Kurio",
+   "name": "Smart Tab 7",
+   "model": "9317H1"
+  }
+ ],
  "M7006A": [
   {
    "brand": "Kurio",
@@ -95413,6 +95434,35 @@
    "model": "Lenovo TB-7104I"
   }
  ],
+ "J606F": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab K11",
+   "model": "Lenovo TB-J606F"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab P11",
+   "model": "Lenovo TB-J606F"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "XiaoXin Pad",
+   "model": "Lenovo TB-J606F"
+  }
+ ],
+ "J606N": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab K11",
+   "model": "Lenovo TB-J606N"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "XiaoXin Pad",
+   "model": "Lenovo TB-J606N"
+  }
+ ],
  "X605F": [
   {
    "brand": "Lenovo",
@@ -95647,18 +95697,6 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab P10",
    "model": "Lenovo TB-X705M"
-  }
- ],
- "J606F": [
-  {
-   "brand": "Lenovo",
-   "name": "Lenovo Tab P11",
-   "model": "Lenovo TB-J606F"
-  },
-  {
-   "brand": "Lenovo",
-   "name": "XiaoXin Pad",
-   "model": "Lenovo TB-J606F"
   }
  ],
  "J606L": [
@@ -96691,13 +96729,6 @@
    "brand": "Lenovo",
    "name": "X3c70",
    "model": "Lenovo X3c70"
-  }
- ],
- "J606N": [
-  {
-   "brand": "Lenovo",
-   "name": "XiaoXin Pad",
-   "model": "Lenovo TB-J606N"
   }
  ],
  "J706N": [
@@ -106002,6 +106033,13 @@
    "brand": "Mobicell",
    "name": "ZOOM_H",
    "model": "ZOOM-H"
+  }
+ ],
+ "switch_plus": [
+  {
+   "brand": "Mobicell",
+   "name": "switch plus",
+   "model": "switch plus"
   }
  ],
  "C1_Lite": [
@@ -118923,6 +118961,18 @@
    "model": "CPH2065"
   }
  ],
+ "OP4F25L1": [
+  {
+   "brand": "Oppo",
+   "name": "Reno 5",
+   "model": "CPH2159"
+  },
+  {
+   "brand": "Oppo",
+   "name": "Reno5",
+   "model": "CPH2159"
+  }
+ ],
  "OP47CFL1": [
   {
    "brand": "Oppo",
@@ -119099,6 +119149,18 @@
    "brand": "Oppo",
    "name": "Reno4 中国版",
    "model": "PDPT00"
+  }
+ ],
+ "OP4EA3": [
+  {
+   "brand": "Oppo",
+   "name": "Reno5 Pro 5G",
+   "model": "PDSM00"
+  },
+  {
+   "brand": "Oppo",
+   "name": "Reno5 Pro 5G",
+   "model": "PDST00"
   }
  ],
  "U707": [
@@ -178461,6 +178523,11 @@
   },
   {
    "brand": "Vivo",
+   "name": "V2029_PK",
+   "model": "V2029_PK"
+  },
+  {
+   "brand": "Vivo",
    "name": "V2032",
    "model": "V2032"
   }
@@ -193694,6 +193761,13 @@
    "brand": "ZTE",
    "name": "ZTE A2121E",
    "model": "ZTE A2121E"
+  }
+ ],
+ "P618A03": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE A2121L",
+   "model": "ZTE A2121L"
   }
  ],
  "P639T10": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2020-12-30
+Last sync is 2020-12-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -545,6 +545,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiuto|AT1002|AT1002|AT1002|
 |Aiuto|AT701|AT701|AT701|
 |Aiuto|AT702|AT702|AT702|
+|Aiwa|A81|AIWA_A81|A81|
 |Aiwa|AFL0065S|sindorim|AI PONT|
 |Aiwa|AIWA 2K TV|shinagawa|AIWA 2K TV|
 |Aiwa|AW-LED32G7K|ikebukuro|AI PONT|
@@ -1364,6 +1365,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ashtel|RAVOZ_Z5|RAVOZ_Z5|RAVOZ Z5|
 |Asianet|D8109N|D8109N|D8109N|
 |Aspera|A45|A45|A45|
+|Aspera|A45|A45_1|A45|
 |Aspera|A4G|A4G|A4G|
 |Aspera|AS6|AS6|AS6|
 |Aspera|ASPERA R9|R9|ASPERA_R9|
@@ -11770,6 +11772,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kult|Kult Beyond|Beyond|Beyond|
 |Kurio|Kurio Tab|Hulk_7_KIDS_WIFI|8076|
 |Kurio|Kurio Tab|Hulk_7_KIDS_WIFI|8076_EEA|
+|Kurio|Smart Tab 7|Phoenix_7_KD|9317H1|
 |Kurio|TabGo Next Connect|M7006A|01519|
 |Kyocera||SCP-8600|Zio|
 |Kyocera||WX06K|WX06K|
@@ -14156,6 +14159,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab E10|X104X|Lenovo TB-X104X|
 |Lenovo|Lenovo Tab E7|TB7104F|Lenovo TB-7104F|
 |Lenovo|Lenovo Tab E7|TB7104I|Lenovo TB-7104I|
+|Lenovo|Lenovo Tab K11|J606F|Lenovo TB-J606F|
+|Lenovo|Lenovo Tab K11|J606N|Lenovo TB-J606N|
 |Lenovo|Lenovo Tab M10 (FHD)|X605F|Lenovo TB-X605F|
 |Lenovo|Lenovo Tab M10 (FHD)|X605L|Lenovo TB-X605L|
 |Lenovo|Lenovo Tab M10 (FHD)|X605M|Lenovo TB-X605M|
@@ -15751,6 +15756,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|ZOOM|ZOOM|ZOOM|
 |Mobicell|ZOOM_H|ZOOM_H|ZOOM-H|
 |Mobicell|Zoom|ZOOM|ZOOM|
+|Mobicell|switch plus|switch_plus|switch plus|
 |MobiiStar|C1 Lite|C1_Lite|C1 Lite|
 |MobiiStar|C1 Power|mobiistar_C1_Power|mobiistar C1 Power|
 |MobiiStar|LAI YUNA 1|LAI_YUNA_1|mobiistar LAI YUNA 1|
@@ -17821,6 +17827,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno 2|OP4B83L1|CPH1907|
 |Oppo|Reno 2 中国版|OP4A57|PCKM00|
 |Oppo|Reno 4Z 5G|OP4BDCL1|CPH2065|
+|Oppo|Reno 5|OP4F25L1|CPH2159|
 |Oppo|Reno A|OP47CFL1|CPH1983|
 |Oppo|Reno Ace|OP4A89|PCLM10|
 |Oppo|Reno Ace2|OP4AD9|PDHM00|
@@ -17853,6 +17860,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno4 Pro 中国版|OP4AF7|PDNM00|
 |Oppo|Reno4 中国版|OP4A47|PDPM00|
 |Oppo|Reno4 中国版|OP4A47|PDPT00|
+|Oppo|Reno5|OP4F25L1|CPH2159|
+|Oppo|Reno5 Pro 5G|OP4EA3|PDSM00|
+|Oppo|Reno5 Pro 5G|OP4EA3|PDST00|
 |Oppo|U3|U3|U3|
 |Oppo|U707|U707|U707|
 |Oppo|U707T|U707T|U707T|
@@ -27404,6 +27414,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2028|2027|V2028|
 |Vivo|V2028|2028|V2028|
 |Vivo|V2029|2027|V2029|
+|Vivo|V2029_PK|2027|V2029_PK|
 |Vivo|V2030|2030|V2030|
 |Vivo|V2031|2036|V2031|
 |Vivo|V2031A|PD2031|V2031A|
@@ -29983,6 +29994,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE A2020N2 Pro|P855A21|ZTE A2020N2 Pro|
 |ZTE|ZTE A2020N2 Pro|P855A21|ZTE A2020N3 Pro|
 |ZTE|ZTE A2121E|P618A01|ZTE A2121E|
+|ZTE|ZTE A2121L|P618A03|ZTE A2121L|
 |ZTE|ZTE A520S|P809S10|ZTE A520S|
 |ZTE|ZTE A530|P639T10|ZTE A530|
 |ZTE|ZTE A606|P639S10|ZTE A606|

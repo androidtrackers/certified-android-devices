@@ -2841,6 +2841,11 @@
  ],
  "Aiwa": [
   {
+   "device": "AIWA_A81",
+   "name": "A81",
+   "model": "A81"
+  },
+  {
    "device": "sindorim",
    "name": "AFL0065S",
    "model": "AI PONT"
@@ -7030,6 +7035,11 @@
  "Aspera": [
   {
    "device": "A45",
+   "name": "A45",
+   "model": "A45"
+  },
+  {
+   "device": "A45_1",
    "name": "A45",
    "model": "A45"
   },
@@ -60588,6 +60598,11 @@
    "model": "8076_EEA"
   },
   {
+   "device": "Phoenix_7_KD",
+   "name": "Smart Tab 7",
+   "model": "9317H1"
+  },
+  {
    "device": "M7006A",
    "name": "TabGo Next Connect",
    "model": "01519"
@@ -72612,6 +72627,16 @@
    "model": "Lenovo TB-7104I"
   },
   {
+   "device": "J606F",
+   "name": "Lenovo Tab K11",
+   "model": "Lenovo TB-J606F"
+  },
+  {
+   "device": "J606N",
+   "name": "Lenovo Tab K11",
+   "model": "Lenovo TB-J606N"
+  },
+  {
    "device": "X605F",
    "name": "Lenovo Tab M10 (FHD)",
    "model": "Lenovo TB-X605F"
@@ -80853,6 +80878,11 @@
    "device": "ZOOM",
    "name": "Zoom",
    "model": "ZOOM"
+  },
+  {
+   "device": "switch_plus",
+   "name": "switch plus",
+   "model": "switch plus"
   }
  ],
  "MobiiStar": [
@@ -91525,6 +91555,11 @@
    "model": "CPH2065"
   },
   {
+   "device": "OP4F25L1",
+   "name": "Reno 5",
+   "model": "CPH2159"
+  },
+  {
    "device": "OP47CFL1",
    "name": "Reno A",
    "model": "CPH1983"
@@ -91683,6 +91718,21 @@
    "device": "OP4A47",
    "name": "Reno4 中国版",
    "model": "PDPT00"
+  },
+  {
+   "device": "OP4F25L1",
+   "name": "Reno5",
+   "model": "CPH2159"
+  },
+  {
+   "device": "OP4EA3",
+   "name": "Reno5 Pro 5G",
+   "model": "PDSM00"
+  },
+  {
+   "device": "OP4EA3",
+   "name": "Reno5 Pro 5G",
+   "model": "PDST00"
   },
   {
    "device": "U3",
@@ -140542,6 +140592,11 @@
    "model": "V2029"
   },
   {
+   "device": "2027",
+   "name": "V2029_PK",
+   "model": "V2029_PK"
+  },
+  {
    "device": "2030",
    "name": "V2030",
    "model": "V2030"
@@ -153665,6 +153720,11 @@
    "device": "P618A01",
    "name": "ZTE A2121E",
    "model": "ZTE A2121E"
+  },
+  {
+   "device": "P618A03",
+   "name": "ZTE A2121L",
+   "model": "ZTE A2121L"
   },
   {
    "device": "P809S10",

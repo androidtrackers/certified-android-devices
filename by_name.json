@@ -10358,6 +10358,13 @@
    "model": "AT702"
   }
  ],
+ "A81": [
+  {
+   "brand": "Aiwa",
+   "device": "AIWA_A81",
+   "model": "A81"
+  }
+ ],
  "AFL0065S": [
   {
    "brand": "Aiwa",
@@ -16300,6 +16307,11 @@
   {
    "brand": "Aspera",
    "device": "A45",
+   "model": "A45"
+  },
+  {
+   "brand": "Aspera",
+   "device": "A45_1",
    "model": "A45"
   },
   {
@@ -84493,6 +84505,13 @@
    "model": "8076_EEA"
   }
  ],
+ "Smart Tab 7": [
+  {
+   "brand": "Kurio",
+   "device": "Phoenix_7_KD",
+   "model": "9317H1"
+  }
+ ],
  "TabGo Next Connect": [
   {
    "brand": "Kurio",
@@ -97501,6 +97520,18 @@
    "model": "Lenovo TB-7104I"
   }
  ],
+ "Lenovo Tab K11": [
+  {
+   "brand": "Lenovo",
+   "device": "J606F",
+   "model": "Lenovo TB-J606F"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "J606N",
+   "model": "Lenovo TB-J606N"
+  }
+ ],
  "Lenovo Tab M10 (FHD)": [
   {
    "brand": "Lenovo",
@@ -107469,6 +107500,13 @@
    "brand": "Mobicell",
    "device": "ZOOM_H",
    "model": "ZOOM-H"
+  }
+ ],
+ "switch plus": [
+  {
+   "brand": "Mobicell",
+   "device": "switch_plus",
+   "model": "switch plus"
   }
  ],
  "C1 Lite": [
@@ -119693,6 +119731,13 @@
    "model": "CPH2065"
   }
  ],
+ "Reno 5": [
+  {
+   "brand": "Oppo",
+   "device": "OP4F25L1",
+   "model": "CPH2159"
+  }
+ ],
  "Reno A": [
   {
    "brand": "Oppo",
@@ -119895,6 +119940,25 @@
    "brand": "Oppo",
    "device": "OP4A47",
    "model": "PDPT00"
+  }
+ ],
+ "Reno5": [
+  {
+   "brand": "Oppo",
+   "device": "OP4F25L1",
+   "model": "CPH2159"
+  }
+ ],
+ "Reno5 Pro 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP4EA3",
+   "model": "PDSM00"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP4EA3",
+   "model": "PDST00"
   }
  ],
  "U707": [
@@ -176129,6 +176193,13 @@
    "model": "V2029"
   }
  ],
+ "V2029_PK": [
+  {
+   "brand": "Vivo",
+   "device": "2027",
+   "model": "V2029_PK"
+  }
+ ],
  "V2030": [
   {
    "brand": "Vivo",
@@ -190501,6 +190572,13 @@
    "brand": "ZTE",
    "device": "P618A01",
    "model": "ZTE A2121E"
+  }
+ ],
+ "ZTE A2121L": [
+  {
+   "brand": "ZTE",
+   "device": "P618A03",
+   "model": "ZTE A2121L"
   }
  ],
  "ZTE A520S": [
