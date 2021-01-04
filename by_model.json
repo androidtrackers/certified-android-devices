@@ -31909,6 +31909,13 @@
    "device": "CUTE_5"
   }
  ],
+ "OTT-01": [
+  {
+   "brand": "DIRECTV",
+   "name": "OTT-01",
+   "device": "HP40A"
+  }
+ ],
  "Tablet DL 3406": [
   {
    "brand": "DL",
@@ -124185,6 +124192,13 @@
    "device": "PL571"
   }
  ],
+ "PL571US": [
+  {
+   "brand": "PCD Argentina",
+   "name": "PL571US",
+   "device": "PL571US"
+  }
+ ],
  "PL620": [
   {
    "brand": "PCD Argentina",
@@ -172146,6 +172160,13 @@
    "device": "U3A_7_WIFI"
   }
  ],
+ "9309X_RU": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1T7 Wifi",
+   "device": "U3A_7_WIFI_Refresh"
+  }
+ ],
  "5007A": [
   {
    "brand": "TCT (Alcatel)",
@@ -204341,11 +204362,21 @@
  "TC52X": [
   {
    "brand": "Zebra",
+   "name": "Zebra Technologies TC52XA",
+   "device": "TC52X"
+  },
+  {
+   "brand": "Zebra",
    "name": "Zebra Technologies TC52x",
    "device": "TC52X"
   }
  ],
  "TC57X": [
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies TC57XA",
+   "device": "TC57X"
+  },
   {
    "brand": "Zebra",
    "name": "Zebra Technologies TC57x",

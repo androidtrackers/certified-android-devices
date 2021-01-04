@@ -33154,6 +33154,18 @@
    "model": "NID_7010"
   }
  ],
+ "HP40A": [
+  {
+   "brand": "DIRECTV",
+   "name": "OTT-01",
+   "model": "OTT-01"
+  },
+  {
+   "brand": "Jawwy TV",
+   "name": "JAWWY-TV-2.0",
+   "model": "JAWWY-TV-2.0"
+  }
+ ],
  "G02DL": [
   {
    "brand": "DL",
@@ -77263,13 +77275,6 @@
    "model": "IRIS_ITAB05"
   }
  ],
- "HP40A": [
-  {
-   "brand": "Jawwy TV",
-   "name": "JAWWY-TV-2.0",
-   "model": "JAWWY-TV-2.0"
-  }
- ],
  "A94GT_Plus": [
   {
    "brand": "Jenesis",
@@ -120842,6 +120847,13 @@
    "brand": "PCD Argentina",
    "name": "PL571",
    "model": "PL571"
+  }
+ ],
+ "PL571US": [
+  {
+   "brand": "PCD Argentina",
+   "name": "PL571US",
+   "model": "PL571US"
   }
  ],
  "PL620": [
@@ -166696,6 +166708,13 @@
    "model": "5007O"
   }
  ],
+ "U3A_7_WIFI_Refresh": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1T7 Wifi",
+   "model": "9309X_RU"
+  }
+ ],
  "Dive_73": [
   {
    "brand": "TCT (Alcatel)",
@@ -194865,11 +194884,21 @@
  "TC52X": [
   {
    "brand": "Zebra",
+   "name": "Zebra Technologies TC52XA",
+   "model": "TC52X"
+  },
+  {
+   "brand": "Zebra",
    "name": "Zebra Technologies TC52x",
    "model": "TC52X"
   }
  ],
  "TC57X": [
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies TC57XA",
+   "model": "TC57X"
+  },
   {
    "brand": "Zebra",
    "name": "Zebra Technologies TC57x",

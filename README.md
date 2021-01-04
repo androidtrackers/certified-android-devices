@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-01-03
+Last sync is 2021-01-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4317,6 +4317,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DGTEC|DG7TBIPSPA|DG7TBIPSPA|DG7TBIPSPA|
 |DIADEM|CUTE_5|CUTE_5|CUTE 5|
 |DIFRNCE|DIT702201|DIT702201|NID_7010|
+|DIRECTV|OTT-01|HP40A|OTT-01|
 |DL|3406|G02DL|Tablet DL 3406|
 |DL|3420|Tablet_DL_3420|Tablet DL 3420|
 |DL|3420|Tablet_DL_3420|Tablet_DL_3420|
@@ -18077,6 +18078,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PCD Argentina|PL5505|PL5505|PL5505|
 |PCD Argentina|PL570|PL570|PL570|
 |PCD Argentina|PL571|PL571|PL571|
+|PCD Argentina|PL571US|PL571US|PL571US|
 |PCD Argentina|PL620|PL620|PL620|
 |PILOT|PQ55CH|samseong|AI PONT|
 |PIPO|IconX_P109|IconX_P109|IconX_P109|
@@ -25234,6 +25236,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1SE elite edition|Jakarta_Lite|4087U_RU|
 |TCT (Alcatel)|Alcatel 1SP|Jakarta|5030E_RU|
 |TCT (Alcatel)|Alcatel 1T 7 WIFI|U3A_7_WIFI|8068|
+|TCT (Alcatel)|Alcatel 1T7 Wifi|U3A_7_WIFI_Refresh|9309X_RU|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007A|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007G|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007U|
@@ -30223,7 +30226,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|"VC8300 8"""|VC8308|VC8300|
 |Zebra|WT6000|WT6000|WT6000|
 |Zebra|WT6300|WT63B0|WT6300|
+|Zebra|Zebra Technologies TC52XA|TC52X|TC52X|
 |Zebra|Zebra Technologies TC52x|TC52X|TC52X|
+|Zebra|Zebra Technologies TC57XA|TC57X|TC57X|
 |Zebra|Zebra Technologies TC57x|TC57X|TC57X|
 |Zeki|TBDG1073|TBDG1073|TBDG1073|
 |Zeki|TBDG734|TBDG734|TBDG734|

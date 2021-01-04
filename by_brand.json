@@ -22297,6 +22297,13 @@
    "model": "NID_7010"
   }
  ],
+ "DIRECTV": [
+  {
+   "device": "HP40A",
+   "name": "OTT-01",
+   "model": "OTT-01"
+  }
+ ],
  "DL": [
   {
    "device": "G02DL",
@@ -92841,6 +92848,11 @@
    "model": "PL571"
   },
   {
+   "device": "PL571US",
+   "name": "PL571US",
+   "model": "PL571US"
+  },
+  {
    "device": "PL620",
    "name": "PL620",
    "model": "PL620"
@@ -129256,6 +129268,11 @@
    "model": "8068"
   },
   {
+   "device": "U3A_7_WIFI_Refresh",
+   "name": "Alcatel 1T7 Wifi",
+   "model": "9309X_RU"
+  },
+  {
    "device": "Tokyo_Lite",
    "name": "Alcatel 1V",
    "model": "5007A"
@@ -154882,8 +154899,18 @@
   },
   {
    "device": "TC52X",
+   "name": "Zebra Technologies TC52XA",
+   "model": "TC52X"
+  },
+  {
+   "device": "TC52X",
    "name": "Zebra Technologies TC52x",
    "model": "TC52X"
+  },
+  {
+   "device": "TC57X",
+   "name": "Zebra Technologies TC57XA",
+   "model": "TC57X"
   },
   {
    "device": "TC57X",

@@ -37949,6 +37949,13 @@
    "model": "NID_7010"
   }
  ],
+ "OTT-01": [
+  {
+   "brand": "DIRECTV",
+   "device": "HP40A",
+   "model": "OTT-01"
+  }
+ ],
  "3406": [
   {
    "brand": "DL",
@@ -121410,6 +121417,13 @@
    "model": "PL571"
   }
  ],
+ "PL571US": [
+  {
+   "brand": "PCD Argentina",
+   "device": "PL571US",
+   "model": "PL571US"
+  }
+ ],
  "PL620": [
   {
    "brand": "PCD Argentina",
@@ -163049,6 +163063,13 @@
    "model": "8068"
   }
  ],
+ "Alcatel 1T7 Wifi": [
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "U3A_7_WIFI_Refresh",
+   "model": "9309X_RU"
+  }
+ ],
  "Alcatel 1V": [
   {
    "brand": "TCT (Alcatel)",
@@ -192078,11 +192099,25 @@
    "model": "WT6300"
   }
  ],
+ "Zebra Technologies TC52XA": [
+  {
+   "brand": "Zebra",
+   "device": "TC52X",
+   "model": "TC52X"
+  }
+ ],
  "Zebra Technologies TC52x": [
   {
    "brand": "Zebra",
    "device": "TC52X",
    "model": "TC52X"
+  }
+ ],
+ "Zebra Technologies TC57XA": [
+  {
+   "brand": "Zebra",
+   "device": "TC57X",
+   "model": "TC57X"
   }
  ],
  "Zebra Technologies TC57x": [
