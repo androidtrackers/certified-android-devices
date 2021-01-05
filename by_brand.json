@@ -1200,6 +1200,11 @@
    "model": "Acer One 8 T4-82L"
   },
   {
+   "device": "Acer_one_8_T2",
+   "name": "Acer_one_8_T2",
+   "model": "Acer_one_8_T2"
+  },
+  {
    "device": "aa3-600",
    "name": "Aspire A3",
    "model": "AA3-600"
@@ -10328,6 +10333,13 @@
    "model": "M1867G"
   }
  ],
+ "BMAX": [
+  {
+   "device": "I10_EEA",
+   "name": "I10_EEA",
+   "model": "I10_EEA"
+  }
+ ],
  "BMPRO": [
   {
    "device": "BMPRO7DI",
@@ -10606,6 +10618,11 @@
   {
    "device": "Bmobile_AX1078_TG07",
    "name": "AX1078",
+   "model": "AX1078"
+  },
+  {
+   "device": "Bmobile_AX1078_OM",
+   "name": "AX1078_OM",
    "model": "AX1078"
   },
   {
@@ -10931,6 +10948,11 @@
   {
    "device": "Bmobile_B50Pro_MV03",
    "name": "B50 PRO",
+   "model": "B50Pro"
+  },
+  {
+   "device": "Bmobile_B50ProSS",
+   "name": "B50ProSS",
    "model": "B50Pro"
   },
   {
@@ -11751,6 +11773,11 @@
    "device": "BQru_6022G",
    "name": "BQru_6022G",
    "model": "BQ-6022G"
+  },
+  {
+   "device": "BQru_6430L",
+   "name": "BQru_6430L",
+   "model": "BQ-6430L"
   },
   {
    "device": "BQru-5037",
@@ -15458,6 +15485,11 @@
    "device": "BS101",
    "name": "BS101",
    "model": "BS101"
+  },
+  {
+   "device": "BS701",
+   "name": "BS701",
+   "model": "BS701"
   }
  ],
  "Brightstar": [
@@ -22562,6 +22594,11 @@
    "device": "Dslide113_V2",
    "name": "Dslide113_V2_EEA",
    "model": "Dslide113_V2"
+  },
+  {
+   "device": "Dslide113_V3",
+   "name": "Dslide113_V3",
+   "model": "Dslide113_V3"
   },
   {
    "device": "Dslide714",
@@ -31566,6 +31603,21 @@
    "device": "ET103G",
    "name": "ET103G",
    "model": "ET103G"
+  },
+  {
+   "device": "Kidpa_M7",
+   "name": "Kidpad_M7",
+   "model": "Kidpa_M7"
+  },
+  {
+   "device": "Pad_M30",
+   "name": "Pad_M30",
+   "model": "Pad_M30"
+  },
+  {
+   "device": "Z8",
+   "name": "Z8",
+   "model": "Z8"
   }
  ],
  "GRID Communications (SG)": [
@@ -33100,6 +33152,11 @@
    "device": "GIONEE_SW17G09",
    "name": "GIONEE F109N",
    "model": "GIONEE F109N"
+  },
+  {
+   "device": "GIONEE_F11",
+   "name": "GIONEE F11",
+   "model": "GIONEE F11"
   },
   {
    "device": "GIONEE_SW17G18",
@@ -38441,6 +38498,11 @@
    "device": "Wildfire_E2",
    "name": "Wildfire E2",
    "model": "Wildfire E2"
+  },
+  {
+   "device": "Wildfire_E3",
+   "name": "Wildfire E3",
+   "model": "Wildfire E3"
   },
   {
    "device": "marvel",
@@ -56364,6 +56426,11 @@
    "model": "TZ197"
   },
   {
+   "device": "TZ200",
+   "name": "TZ200",
+   "model": "TZ200"
+  },
+  {
    "device": "TZ55",
    "name": "TZ55",
    "model": "TZ55"
@@ -57490,6 +57557,16 @@
    "device": "itel_Prime4",
    "name": "itel Prime 4",
    "model": "itel Prime 4"
+  },
+  {
+   "device": "itel-W7002",
+   "name": "itel PrimeTab 1",
+   "model": "itel W7002"
+  },
+  {
+   "device": "itel-W7002P",
+   "name": "itel PrimeTab 1",
+   "model": "itel W7002P"
   },
   {
    "device": "itel-S12",
@@ -58862,6 +58939,11 @@
    "device": "K5d",
    "name": "K5d",
    "model": "K5d"
+  },
+  {
+   "device": "K5m",
+   "name": "K5m",
+   "model": "K5m"
   },
   {
    "device": "K6",
@@ -60725,6 +60807,11 @@
    "device": "302KC",
    "name": "DIGNO T",
    "model": "302KC"
+  },
+  {
+   "device": "KYT34",
+   "name": "DIGNO Tab",
+   "model": "KYT34"
   },
   {
    "device": "KYV42",
@@ -79523,6 +79610,11 @@
    "model": "Micromax Q4260"
   },
   {
+   "device": "E6523",
+   "name": "IN1b",
+   "model": "Micromax E6523"
+  },
+  {
    "device": "E7533",
    "name": "IN1b",
    "model": "Micromax E7533"
@@ -88113,6 +88205,21 @@
    "model": "Nokia 5.3"
   },
   {
+   "device": "DRD",
+   "name": "Nokia 5.4",
+   "model": "Nokia 5.4"
+  },
+  {
+   "device": "DRDA_sprout",
+   "name": "Nokia 5.4",
+   "model": "Nokia 5.4"
+  },
+  {
+   "device": "DRD_sprout",
+   "name": "Nokia 5.4",
+   "model": "Nokia 5.4"
+  },
+  {
    "device": "D1C",
    "name": "Nokia 6",
    "model": "TA-1000"
@@ -88902,6 +89009,13 @@
    "device": "ONICE_I-TOUCH_M1",
    "name": "O'NICE I-TOUCH M1",
    "model": "i-touch M1"
+  }
+ ],
+ "OASE": [
+  {
+   "device": "EL-P1",
+   "name": "EL-P1",
+   "model": "EL-P1"
   }
  ],
  "OASYS": [
@@ -102059,6 +102173,11 @@
    "model": "redway10_lite"
   },
   {
+   "device": "redway7_pro",
+   "name": "redway7_pro",
+   "model": "redway7_pro"
+  },
+  {
    "device": "redway_7",
    "name": "redway_7",
    "model": "redway_7"
@@ -103956,6 +104075,11 @@
    "device": "SW4H",
    "name": "SWTV-20AE",
    "model": "SWTV-20AE"
+  },
+  {
+   "device": "SW4H_FF",
+   "name": "SWTV-20AE-PRO",
+   "model": "SWTV-20AE-PRO"
   },
   {
    "device": "SW4H",
@@ -119434,6 +119558,11 @@
  ],
  "Sky Devices": [
   {
+   "device": "ASSIST_55",
+   "name": "ASSIST 55",
+   "model": "Elite_B55"
+  },
+  {
    "device": "Elite_4_0S_GT_Tigo",
    "name": "ELITE 4.0S",
    "model": "Elite_4.0S"
@@ -120450,6 +120579,11 @@
    "device": "XP6700Z1",
    "name": "Ex-Handy 09",
    "model": "Ex-Handy 09"
+  },
+  {
+   "device": "RS80",
+   "name": "RS80",
+   "model": "RS80"
   },
   {
    "device": "XP7700Z1",
@@ -125083,6 +125217,11 @@
    "model": "i66"
   },
   {
+   "device": "i67",
+   "name": "i67",
+   "model": "i67"
+  },
+  {
    "device": "i68",
    "name": "i68",
    "model": "i68"
@@ -129120,12 +129259,22 @@
   {
    "device": "HONG_KONG",
    "name": "Alcatel 1S",
+   "model": "6025D_RU"
+  },
+  {
+   "device": "HONG_KONG",
+   "name": "Alcatel 1S",
    "model": "6025H"
   },
   {
    "device": "HONG_KONG",
    "name": "Alcatel 1S",
    "model": "6025H_EEA"
+  },
+  {
+   "device": "HONG_KONG",
+   "name": "Alcatel 1S",
+   "model": "6025H_RU"
   },
   {
    "device": "Tokyo",
@@ -129530,6 +129679,11 @@
   {
    "device": "Hong_Kong_Pro",
    "name": "Alcatel 3L",
+   "model": "6056A"
+  },
+  {
+   "device": "Hong_Kong_Pro",
+   "name": "Alcatel 3L",
    "model": "6056D"
   },
   {
@@ -129540,7 +129694,22 @@
   {
    "device": "Hong_Kong_Pro",
    "name": "Alcatel 3L",
+   "model": "6056D_RU"
+  },
+  {
+   "device": "Hong_Kong_Pro",
+   "name": "Alcatel 3L",
+   "model": "6056H"
+  },
+  {
+   "device": "Hong_Kong_Pro",
+   "name": "Alcatel 3L",
    "model": "6056H_EEA"
+  },
+  {
+   "device": "Hong_Kong_Pro",
+   "name": "Alcatel 3L",
+   "model": "6056H_RU"
   },
   {
    "device": "TokyoPro",
@@ -131208,6 +131377,11 @@
    "model": "Smart_P11"
   },
   {
+   "device": "Phoenix_7",
+   "name": "Smart Tab 7",
+   "model": "9317X"
+  },
+  {
    "device": "one_touch_996_gsm",
    "name": "Smartphone Android by SFR STARADDICT II",
    "model": "Smartphone Android by SFR STARADDICT II"
@@ -131906,6 +132080,11 @@
    "device": "Aquaman_10_Kids_WIFI",
    "name": "TKEE MAX",
    "model": "8095_TR"
+  },
+  {
+   "device": "Phoenix_7_Kids",
+   "name": "TKEE mini",
+   "model": "9317G"
   },
   {
    "device": "one_touch_985_gsm",
@@ -133038,6 +133217,11 @@
   }
  ],
  "Technopc": [
+  {
+   "device": "Technopc_UP10S43LA",
+   "name": "UP10S43LA",
+   "model": "UP10S43LA"
+  },
   {
    "device": "Technopc_UP10SI36LA",
    "name": "UP10SI36LA",
@@ -137758,6 +137942,11 @@
    "device": "UNONU_U4001",
    "name": "UNONU U4001",
    "model": "U4001"
+  },
+  {
+   "device": "UNONU_W61",
+   "name": "UNONU W61",
+   "model": "UNONU W61"
   },
   {
    "device": "X5C",
@@ -145359,6 +145548,11 @@
    "device": "Proton_Amber_HD",
    "name": "PROTON_AMBER_HD",
    "model": "Proton_Amber_HD"
+  },
+  {
+   "device": "Proton_Neon",
+   "name": "Proton_Neon",
+   "model": "Proton_Neon"
   },
   {
    "device": "X-ViewTablet7",
@@ -154898,6 +155092,16 @@
    "model": "WT6300"
   },
   {
+   "device": "MC3300x",
+   "name": "Zebra Technologies MC3300xN",
+   "model": "MC3300x"
+  },
+  {
+   "device": "MC3300xC",
+   "name": "Zebra Technologies MC3300xNS",
+   "model": "MC3300x"
+  },
+  {
    "device": "TC52X",
    "name": "Zebra Technologies TC52XA",
    "model": "TC52X"
@@ -157868,6 +158072,11 @@
    "device": "U902",
    "name": "U902",
    "model": "U902"
+  },
+  {
+   "device": "UNITEL_TAB_4G_H101",
+   "name": "UNITEL_TAB_4G_H101",
+   "model": "UNITEL_TAB_4G_H101"
   },
   {
    "device": "Unitel_Smart_1",
