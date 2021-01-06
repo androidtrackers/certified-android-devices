@@ -6496,6 +6496,13 @@
    "model": "TG996"
   }
  ],
+ "B725050U": [
+  {
+   "brand": "ALBADEEL",
+   "device": "samseong",
+   "model": "AI PONT"
+  }
+ ],
  "B725U": [
   {
    "brand": "ALBADEEL",
@@ -8590,6 +8597,11 @@
    "model": "ATV R2"
   },
   {
+   "brand": "Brookstone",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
    "brand": "CG Inspiring Life",
    "device": "R1",
    "model": "ATV R1"
@@ -8606,6 +8618,16 @@
   },
   {
    "brand": "Casper",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Challenger",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Challenger",
    "device": "R2",
    "model": "ATV R2"
   },
@@ -8673,6 +8695,11 @@
    "brand": "JVC",
    "device": "R2",
    "model": "ATV R2"
+  },
+  {
+   "brand": "Kalley",
+   "device": "R1",
+   "model": "ATV R1"
   },
   {
    "brand": "Kalley",
@@ -8790,6 +8817,11 @@
    "model": "PANASONIC TV"
   },
   {
+   "brand": "Polaroid",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
    "brand": "RECCO",
    "device": "R1",
    "model": "ATV R1"
@@ -8823,6 +8855,11 @@
    "brand": "Singer",
    "device": "R2",
    "model": "ATV R2"
+  },
+  {
+   "brand": "Strong",
+   "device": "R1",
+   "model": "ATV R1"
   },
   {
    "brand": "Strong",
@@ -10468,6 +10505,13 @@
    "brand": "Aiwa",
    "device": "KSTB6043",
    "model": "KSTB6043"
+  }
+ ],
+ "TA10-SO10": [
+  {
+   "brand": "Aiwa",
+   "device": "TA10-SO10",
+   "model": "TA10-SO10"
   }
  ],
  "Z9": [
@@ -21736,6 +21780,13 @@
    "model": "AI PONT"
   }
  ],
+ "A4310": [
+  {
+   "brand": "BPL",
+   "device": "samseong",
+   "model": "AI PONT"
+  }
+ ],
  "5701L Slim": [
   {
    "brand": "BQru",
@@ -29205,6 +29256,13 @@
    "model": "CHN-UCAN MJ"
   }
  ],
+ "H7A": [
+  {
+   "brand": "CHiQ",
+   "device": "samseong",
+   "model": "AI PONT"
+  }
+ ],
  "M7A": [
   {
    "brand": "CHiQ",
@@ -30392,6 +30450,13 @@
    "brand": "Proline",
    "device": "H1010",
    "model": "H1010"
+  }
+ ],
+ "Cedar CT8X2": [
+  {
+   "brand": "Cedar",
+   "device": "CT8X2",
+   "model": "CT8X2"
   }
  ],
  "A102": [
@@ -33893,6 +33958,13 @@
    "brand": "Condor",
    "device": "Plume_L4_Pro",
    "model": "Plume L4 Pro"
+  }
+ ],
+ "Plume_L5_Pro": [
+  {
+   "brand": "Condor",
+   "device": "Plume_L5_Pro",
+   "model": "Plume L5 Pro"
   }
  ],
  "SP530": [
@@ -47254,6 +47326,13 @@
    "model": "FP-600"
   }
  ],
+ "ToughDroid": [
+  {
+   "brand": "Firehawk",
+   "device": "ToughDroid",
+   "model": "ToughDroid"
+  }
+ ],
  "FNB": [
   {
    "brand": "FirstNationalBank",
@@ -49446,6 +49525,13 @@
    "brand": "Fujitsu",
    "device": "FHMD001",
    "model": "FHMD001"
+  }
+ ],
+ "FMP179R": [
+  {
+   "brand": "Fujitsu",
+   "device": "FMP179R",
+   "model": "FMP179R"
   }
  ],
  "FMP181L": [
@@ -54387,6 +54473,13 @@
   {
    "brand": "Grunhelm",
    "device": "ikebukuro",
+   "model": "AI PONT"
+  }
+ ],
+ "GT9UHD": [
+  {
+   "brand": "Grunhelm",
+   "device": "samseong",
    "model": "AI PONT"
   }
  ],
@@ -74417,6 +74510,20 @@
    "model": "PDC550"
   }
  ],
+ "PDC680": [
+  {
+   "brand": "Hytera",
+   "device": "PDC680",
+   "model": "PDC680"
+  }
+ ],
+ "PDC760": [
+  {
+   "brand": "Hytera",
+   "device": "PDC760",
+   "model": "PDC760"
+  }
+ ],
  "PDM680": [
   {
    "brand": "Hytera",
@@ -74436,6 +74543,20 @@
    "brand": "Hytera",
    "device": "PNC550",
    "model": "PNC550"
+  }
+ ],
+ "PTC680": [
+  {
+   "brand": "Hytera",
+   "device": "PTC680",
+   "model": "PTC680"
+  }
+ ],
+ "PTC760": [
+  {
+   "brand": "Hytera",
+   "device": "PTC760",
+   "model": "PTC760"
   }
  ],
  "10LA2": [
@@ -79980,6 +80101,13 @@
    "model": "Spice F311"
   }
  ],
+ "G4310IE": [
+  {
+   "brand": "Itel",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  }
+ ],
  "ITELL_K4700Q": [
   {
    "brand": "Itel",
@@ -84309,6 +84437,13 @@
    "brand": "Krono",
    "device": "NET_VOLT",
    "model": "NET_VOLT"
+  }
+ ],
+ "Net_Max_Go": [
+  {
+   "brand": "Krono",
+   "device": "Net_Max_Go",
+   "model": "Net_Max_Go"
   }
  ],
  "SKY": [
@@ -91933,6 +92068,11 @@
    "brand": "Lenovo",
    "device": "kunlun2",
    "model": "Lenovo L38111"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Apollo_8_4G_TMO",
+   "model": "9032W"
   },
   {
    "brand": "TCT (Alcatel)",
@@ -110954,6 +111094,13 @@
    "brand": "Motorola Solutions",
    "device": "lexl11g_64",
    "model": "LEX L11"
+  }
+ ],
+ "MOTOTRBO ION": [
+  {
+   "brand": "Motorola Solutions",
+   "device": "mkz_sdm660_64",
+   "model": "MSLB-MKZ900i"
   }
  ],
  "TC55": [
@@ -133444,6 +133591,13 @@
    "model": "AI PONT"
   }
  ],
+ "RLED-AND50CHG6FP": [
+  {
+   "brand": "Riviera",
+   "device": "sindorim",
+   "model": "AI PONT"
+  }
+ ],
  "T107": [
   {
    "brand": "Rixun",
@@ -149292,6 +149446,13 @@
    "model": "Senseit_J2"
   }
  ],
+ "S917V9": [
+  {
+   "brand": "Senter",
+   "device": "S917V9",
+   "model": "S917V9"
+  }
+ ],
  "LS5": [
   {
    "brand": "Senwa",
@@ -153139,6 +153300,13 @@
    "model": "Matri2"
   }
  ],
+ "SMADL_R35": [
+  {
+   "brand": "Smadl",
+   "device": "SMADL_R35_FW",
+   "model": "SMADL R35"
+  }
+ ],
  "Safari": [
   {
    "brand": "Smadl",
@@ -153686,6 +153854,13 @@
    "brand": "Sonimtech",
    "device": "XP6700Z1",
    "model": "Ex-Handy 09"
+  }
+ ],
+ "RS60": [
+  {
+   "brand": "Sonimtech",
+   "device": "RS60",
+   "model": "RS60"
   }
  ],
  "RS80": [
@@ -158143,6 +158318,13 @@
    "brand": "Sugar",
    "device": "v830_64",
    "model": "SUGAR T30"
+  }
+ ],
+ "SUGAR T35": [
+  {
+   "brand": "Sugar",
+   "device": "v830_64",
+   "model": "SUGAR T35"
   }
  ],
  "SUGAR Y12": [
@@ -166769,6 +166951,11 @@
  "tbd": [
   {
    "brand": "TCT (Alcatel)",
+   "device": "Apollo_8_4G_TMO",
+   "model": "9032Z"
+  },
+  {
+   "brand": "TCT (Alcatel)",
    "device": "FERMI_TF",
    "model": "A501DL"
   },
@@ -172942,6 +173129,13 @@
    "model": "UT12"
   }
  ],
+ "UT12P": [
+  {
+   "brand": "Unistrong",
+   "device": "UT12P",
+   "model": "UT12P"
+  }
+ ],
  "UT30": [
   {
    "brand": "Unistrong",
@@ -172954,6 +173148,13 @@
    "brand": "Unistrong",
    "device": "UT30",
    "model": "UT30"
+  }
+ ],
+ "UT32": [
+  {
+   "brand": "Unistrong",
+   "device": "UT32",
+   "model": "UT32"
   }
  ],
  "UT56": [
@@ -173017,6 +173218,13 @@
    "brand": "Unitech",
    "device": "TB85",
    "model": "TB85"
+  }
+ ],
+ "TB85Plus": [
+  {
+   "brand": "Unitech",
+   "device": "TB85Plus",
+   "model": "TB85Plus"
   }
  ],
  "KSTB6020": [
@@ -177551,6 +177759,13 @@
    "brand": "Vivo",
    "device": "PD1635",
    "model": "vivo X9s Plus"
+  }
+ ],
+ "vivo Y22": [
+  {
+   "brand": "Vivo",
+   "device": "Y22",
+   "model": "vivo Y22"
   }
  ],
  "vivo Y65": [
@@ -182918,6 +183133,13 @@
    "brand": "Xiaomi",
    "device": "gauguininpro",
    "model": "M2007J17I"
+  }
+ ],
+ "Mi 11": [
+  {
+   "brand": "Xiaomi",
+   "device": "venus",
+   "model": "M2011K2C"
   }
  ],
  "Mi 3": [
@@ -191896,6 +192118,13 @@
    "brand": "ZUOPU",
    "device": "JH103",
    "model": "JH103"
+  }
+ ],
+ "JH105": [
+  {
+   "brand": "ZUOPU",
+   "device": "JH105",
+   "model": "JH105"
   }
  ],
  "JH786": [
