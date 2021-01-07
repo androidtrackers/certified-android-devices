@@ -22027,6 +22027,11 @@
    "device": "S3"
   },
   {
+   "brand": "Cellecor",
+   "name": "S3",
+   "device": "S3"
+  },
+  {
    "brand": "Emporia",
    "name": "Emporia SMART 3",
    "device": "S3"
@@ -185594,6 +185599,13 @@
    "brand": "Viettel",
    "name": "V8802",
    "device": "V8802"
+  }
+ ],
+ "ViettelTV 4K Box": [
+  {
+   "brand": "Viettel",
+   "name": "ViettelTV 4K Box",
+   "device": "HP40A"
   }
  ],
  "IR10Q": [

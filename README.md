@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-01-06
+Last sync is 2021-01-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3300,6 +3300,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cellacom|M531|M531|M531|
 |Cellacom|S51_lite|S51_lite|S51_lite|
 |Cellcom TV|SEI-S905X2|tai|SEI-S905X2|
+|Cellecor|S3|S3|S3|
 |Cello|C2420G|ueno|2K Android TV|
 |Cello|Cello|sadang|cello UK 4K Android TV|
 |Cello|T1045PC|T1045PC|T1045PC|
@@ -27335,6 +27336,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vida|i-450|i-450|i-450|
 |Vida|i401|VIDA-i401|VIDA-i401|
 |Viettel|V8802|V8802|V8802|
+|Viettel|ViettelTV 4K Box|HP40A|ViettelTV 4K Box|
 |ViewSonic||ViewPad_IR10Q|IR10Q|
 |ViewSonic||ViewPad_IR8Q|IR8Q|
 |ViewSonic||v350|ViewSonic-V350|

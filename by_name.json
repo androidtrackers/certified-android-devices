@@ -27837,6 +27837,11 @@
    "model": "S3"
   },
   {
+   "brand": "Cellecor",
+   "device": "S3",
+   "model": "S3"
+  },
+  {
    "brand": "Lexia Mobile",
    "device": "S3",
    "model": "S3"
@@ -175695,6 +175700,13 @@
    "brand": "Viettel",
    "device": "V8802",
    "model": "V8802"
+  }
+ ],
+ "ViettelTV 4K Box": [
+  {
+   "brand": "Viettel",
+   "device": "HP40A",
+   "model": "ViettelTV 4K Box"
   }
  ],
  "VIEWSONIC": [

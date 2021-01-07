@@ -22959,6 +22959,11 @@
    "model": "S3"
   },
   {
+   "brand": "Cellecor",
+   "name": "S3",
+   "model": "S3"
+  },
+  {
    "brand": "Emporia",
    "name": "Emporia SMART 3",
    "model": "S3"
@@ -33287,6 +33292,11 @@
    "brand": "Jawwy TV",
    "name": "JAWWY-TV-2.0",
    "model": "JAWWY-TV-2.0"
+  },
+  {
+   "brand": "Viettel",
+   "name": "ViettelTV 4K Box",
+   "model": "ViettelTV 4K Box"
   }
  ],
  "G02DL": [

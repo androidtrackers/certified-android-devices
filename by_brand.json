@@ -17058,6 +17058,13 @@
    "model": "SEI-S905X2"
   }
  ],
+ "Cellecor": [
+  {
+   "device": "S3",
+   "name": "S3",
+   "model": "S3"
+  }
+ ],
  "Cello": [
   {
    "device": "ueno",
@@ -140187,6 +140194,11 @@
    "device": "V8802",
    "name": "V8802",
    "model": "V8802"
+  },
+  {
+   "device": "HP40A",
+   "name": "ViettelTV 4K Box",
+   "model": "ViettelTV 4K Box"
   }
  ],
  "ViewSonic": [
