@@ -27842,6 +27842,11 @@
    "model": "S3"
   },
   {
+   "brand": "G-Tab",
+   "device": "S3",
+   "model": "S3"
+  },
+  {
    "brand": "Lexia Mobile",
    "device": "S3",
    "model": "S3"
@@ -33161,6 +33166,11 @@
    "brand": "OTOT",
    "device": "S11",
    "model": "S11"
+  },
+  {
+   "brand": "QPS Digital Electronics",
+   "device": "S11",
+   "model": "S11"
   }
  ],
  "S9": [
@@ -38054,6 +38064,13 @@
    "model": "DG7TBIPSPA"
   }
  ],
+ "Dg_1522": [
+  {
+   "brand": "DGTEC",
+   "device": "Dg_1522",
+   "model": "Dg_1522"
+  }
+ ],
  "CUTE_5": [
   {
    "brand": "DIADEM",
@@ -39700,6 +39717,13 @@
    "brand": "Digicom",
    "device": "V7_LTE",
    "model": "V7_LTE"
+  }
+ ],
+ "706Z": [
+  {
+   "brand": "Digidragon",
+   "device": "706Z",
+   "model": "706Z"
   }
  ],
  "TA70CA1": [
@@ -42251,6 +42275,20 @@
    "model": "KidzPad_Y80"
   }
  ],
+ "KidzPad_Y88X_8": [
+  {
+   "brand": "Dragontouch",
+   "device": "KidzPad_Y88X_8",
+   "model": "KidzPad_Y88X_8"
+  }
+ ],
+ "KidzPad_Y88X_8_EEA": [
+  {
+   "brand": "Dragontouch",
+   "device": "KidzPad_Y88X_8_EEA",
+   "model": "KidzPad_Y88X_8_EEA"
+  }
+ ],
  "M10": [
   {
    "brand": "Dragontouch",
@@ -43868,6 +43906,13 @@
    "brand": "Lenovo",
    "device": "jd2018_cmcc",
    "model": "Lenovo L78011"
+  }
+ ],
+ "x7": [
+  {
+   "brand": "Eks Mobility",
+   "device": "X7",
+   "model": "X7"
   }
  ],
  "QuadTab E10.1": [
@@ -52457,6 +52502,11 @@
   {
    "brand": "Gionee",
    "device": "GIONEE_SWG1613",
+   "model": "F106"
+  },
+  {
+   "brand": "Innjoo",
+   "device": "F106",
    "model": "F106"
   }
  ],
@@ -78022,6 +78072,13 @@
    "model": "EliteDual"
   }
  ],
+ "F104": [
+  {
+   "brand": "Innjoo",
+   "device": "F104",
+   "model": "F104"
+  }
+ ],
  "F106_Plus": [
   {
    "brand": "Innjoo",
@@ -78905,6 +78962,13 @@
    "brand": "Ipro",
    "device": "Benny",
    "model": "Benny"
+  }
+ ],
+ "Benny10": [
+  {
+   "brand": "Ipro",
+   "device": "Benny10",
+   "model": "Benny10"
   }
  ],
  "Jade7s": [
@@ -92702,6 +92766,13 @@
    "model": "VIP6102W"
   }
  ],
+ "H11-EEA": [
+  {
+   "brand": "LNMBBS",
+   "device": "H11-EEA",
+   "model": "H11-EEA"
+  }
+ ],
  "P40-EEA": [
   {
    "brand": "LNMBBS",
@@ -93453,6 +93524,13 @@
    "brand": "Lanix",
    "device": "IliumPad_RX8",
    "model": "IliumPad_RX8"
+  }
+ ],
+ "IliumPad_RX8v2": [
+  {
+   "brand": "Lanix",
+   "device": "IliumPad_RX8v2",
+   "model": "IliumPad_RX8v2"
   }
  ],
  "Ilium_Alpha7": [
@@ -101824,6 +101902,13 @@
    "model": "MB4_3G"
   }
  ],
+ "MB4_3G_PLUS_SE": [
+  {
+   "brand": "MLAB",
+   "device": "MB4_3G_PLUS_SE",
+   "model": "MB4_3G_PLUS_SE"
+  }
+ ],
  "MB5 WIFI": [
   {
    "brand": "MLAB",
@@ -101850,6 +101935,20 @@
    "brand": "MLAB",
    "device": "MB8866",
    "model": "MB8866"
+  }
+ ],
+ "MLAB_GLOWY7": [
+  {
+   "brand": "MLAB",
+   "device": "MLAB_GLOWY7",
+   "model": "MLAB_GLOWY7"
+  }
+ ],
+ "MLAB_GLOWY8": [
+  {
+   "brand": "MLAB",
+   "device": "MLAB_GLOWY8",
+   "model": "MLAB_GLOWY8"
   }
  ],
  "MLAB_KIDS_PLUS": [
@@ -103517,6 +103616,13 @@
    "brand": "Maxwest",
    "device": "Nitro_5X",
    "model": "Nitro_5X"
+  }
+ ],
+ "Nitro_7Q": [
+  {
+   "brand": "Maxwest",
+   "device": "Nitro_7Q",
+   "model": "Nitro_7Q"
   }
  ],
  "Nitro_Phablet_9s": [
@@ -167284,6 +167390,13 @@
    "model": "Quicktab"
   }
  ],
+ "ALTAB08": [
+  {
+   "brand": "TPS",
+   "device": "ALTAB08",
+   "model": "ALTAB08"
+  }
+ ],
  "MTC 982o": [
   {
    "brand": "TPS",
@@ -171176,6 +171289,13 @@
    "model": "TBL-300"
   }
  ],
+ "1100AS": [
+  {
+   "brand": "Touch plus",
+   "device": "1100AS",
+   "model": "1100AS"
+  }
+ ],
  "770G": [
   {
    "brand": "Touch plus",
@@ -173657,10 +173777,22 @@
    "model": "QTAB1010X"
   }
  ],
+ "S20_2020": [
+  {
+   "brand": "Vankyo",
+   "device": "S20_2020",
+   "model": "S20_2020"
+  }
+ ],
  "S20_EEA": [
   {
    "brand": "Vankyo",
    "device": "S20_EEA",
+   "model": "S20_EEA"
+  },
+  {
+   "brand": "Vankyo",
+   "device": "S20_EEA_2020",
    "model": "S20_EEA"
   }
  ],
@@ -173695,6 +173827,20 @@
    "brand": "Vankyo",
    "device": "S8_EEA",
    "model": "S8_EEA"
+  }
+ ],
+ "VANKYO_S7": [
+  {
+   "brand": "Vankyo",
+   "device": "VANKYO_S7",
+   "model": "VANKYO_S7"
+  }
+ ],
+ "VANKYO_S7_EEA": [
+  {
+   "brand": "Vankyo",
+   "device": "VANKYO_S7_EEA",
+   "model": "VANKYO_S7_EEA"
   }
  ],
  "VANKYO_S8": [
@@ -173772,6 +173918,20 @@
    "brand": "Vastking",
    "device": "KingPad_SA10_EEA",
    "model": "KingPad_SA10_EEA"
+  }
+ ],
+ "KingPad_SA8": [
+  {
+   "brand": "Vastking",
+   "device": "KingPad_SA8",
+   "model": "KingPad_SA8"
+  }
+ ],
+ "VZ-1": [
+  {
+   "brand": "Vastking",
+   "device": "VZ-1",
+   "model": "VZ-1"
   }
  ],
  "V1 Plus": [
@@ -183848,6 +184008,13 @@
    "model": "M60_EEA"
   }
  ],
+ "Q11-EEA": [
+  {
+   "brand": "YOTOPT",
+   "device": "Q11-EEA",
+   "model": "Q11-EEA"
+  }
+ ],
  "X109": [
   {
    "brand": "YOTOPT",
@@ -183874,6 +184041,13 @@
    "brand": "YOTOPT",
    "device": "Y5-EEA",
    "model": "Y5-EEA"
+  }
+ ],
+ "YQ-SVAIOR-EEA": [
+  {
+   "brand": "YQSVAIOR",
+   "device": "YQ-SVAIOR-EEA",
+   "model": "YQ-SVAIOR-EEA"
   }
  ],
  "YQ11": [
@@ -193915,6 +194089,13 @@
    "brand": "eTalk",
    "device": "KAZ-N20",
    "model": "KAZ-N20"
+  }
+ ],
+ "E980": [
+  {
+   "brand": "eTera",
+   "device": "E980U",
+   "model": "E980U"
   }
  ],
  "Ex-Handy 10": [
