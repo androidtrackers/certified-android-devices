@@ -110705,11 +110705,40 @@
    "model": "moto g fast"
   }
  ],
+ "moto g play (2021)": [
+  {
+   "brand": "Motorola",
+   "device": "guamna",
+   "model": "moto E"
+  },
+  {
+   "brand": "Motorola",
+   "device": "guamna",
+   "model": "moto g play (2021)"
+  },
+  {
+   "brand": "Motorola",
+   "device": "guamna",
+   "model": "moto g play (XT2093DL)"
+  }
+ ],
  "moto g power": [
   {
    "brand": "Motorola",
    "device": "sofia",
    "model": "moto g power"
+  }
+ ],
+ "moto g power (2021)": [
+  {
+   "brand": "Motorola",
+   "device": "borneo",
+   "model": "moto g power"
+  },
+  {
+   "brand": "Motorola",
+   "device": "borneo",
+   "model": "moto g power (2021)"
   }
  ],
  "moto g power (XT2041DL)": [
@@ -110731,6 +110760,23 @@
    "brand": "Motorola",
    "device": "sofiap",
    "model": "moto g stylus"
+  }
+ ],
+ "moto g stylus (2021)": [
+  {
+   "brand": "Motorola",
+   "device": "minsk",
+   "model": "moto g stylus"
+  },
+  {
+   "brand": "Motorola",
+   "device": "minsk",
+   "model": "moto g stylus (2021)"
+  },
+  {
+   "brand": "Motorola",
+   "device": "minsk",
+   "model": "moto g stylus (XT2115DL)"
   }
  ],
  "moto g(6)": [

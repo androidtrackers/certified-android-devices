@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-01-08
+Last sync is 2021-01-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -16338,10 +16338,18 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g 5G|kiev|motorola edge|
 |Motorola|moto g 5G plus|nairo|moto g 5G plus|
 |Motorola|moto g fast|rav|moto g fast|
+|Motorola|moto g play (2021)|guamna|moto E|
+|Motorola|moto g play (2021)|guamna|moto g play (2021)|
+|Motorola|moto g play (2021)|guamna|moto g play (XT2093DL)|
 |Motorola|moto g power|sofia|moto g power|
+|Motorola|moto g power (2021)|borneo|moto g power|
+|Motorola|moto g power (2021)|borneo|moto g power (2021)|
 |Motorola|moto g power (XT2041DL)|sofia|moto g power (XT2041DL)|
 |Motorola|moto g pro|sofiap_sprout|moto g pro|
 |Motorola|moto g stylus|sofiap|moto g stylus|
+|Motorola|moto g stylus (2021)|minsk|moto g stylus|
+|Motorola|moto g stylus (2021)|minsk|moto g stylus (2021)|
+|Motorola|moto g stylus (2021)|minsk|moto g stylus (XT2115DL)|
 |Motorola|moto g(6)|ali|XT1925-10|
 |Motorola|moto g(6)|ali|moto g(6)|
 |Motorola|moto g(6)|ali|moto g(6) (XT1925DL)|

@@ -109760,6 +109760,23 @@
    "model": "moto g(8)"
   }
  ],
+ "guamna": [
+  {
+   "brand": "Motorola",
+   "name": "moto g play (2021)",
+   "model": "moto E"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g play (2021)",
+   "model": "moto g play (2021)"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g play (2021)",
+   "model": "moto g play (XT2093DL)"
+  }
+ ],
  "sofia": [
   {
    "brand": "Motorola",
@@ -109770,6 +109787,18 @@
    "brand": "Motorola",
    "name": "moto g power (XT2041DL)",
    "model": "moto g power (XT2041DL)"
+  }
+ ],
+ "borneo": [
+  {
+   "brand": "Motorola",
+   "name": "moto g power (2021)",
+   "model": "moto g power"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g power (2021)",
+   "model": "moto g power (2021)"
   }
  ],
  "sofiap_sprout": [
@@ -109784,6 +109813,23 @@
    "brand": "Motorola",
    "name": "moto g stylus",
    "model": "moto g stylus"
+  }
+ ],
+ "minsk": [
+  {
+   "brand": "Motorola",
+   "name": "moto g stylus (2021)",
+   "model": "moto g stylus"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g stylus (2021)",
+   "model": "moto g stylus (2021)"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g stylus (2021)",
+   "model": "moto g stylus (XT2115DL)"
   }
  ],
  "ali": [

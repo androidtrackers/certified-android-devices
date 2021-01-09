@@ -83848,9 +83848,34 @@
    "model": "moto g fast"
   },
   {
+   "device": "guamna",
+   "name": "moto g play (2021)",
+   "model": "moto E"
+  },
+  {
+   "device": "guamna",
+   "name": "moto g play (2021)",
+   "model": "moto g play (2021)"
+  },
+  {
+   "device": "guamna",
+   "name": "moto g play (2021)",
+   "model": "moto g play (XT2093DL)"
+  },
+  {
    "device": "sofia",
    "name": "moto g power",
    "model": "moto g power"
+  },
+  {
+   "device": "borneo",
+   "name": "moto g power (2021)",
+   "model": "moto g power"
+  },
+  {
+   "device": "borneo",
+   "name": "moto g power (2021)",
+   "model": "moto g power (2021)"
   },
   {
    "device": "sofia",
@@ -83866,6 +83891,21 @@
    "device": "sofiap",
    "name": "moto g stylus",
    "model": "moto g stylus"
+  },
+  {
+   "device": "minsk",
+   "name": "moto g stylus (2021)",
+   "model": "moto g stylus"
+  },
+  {
+   "device": "minsk",
+   "name": "moto g stylus (2021)",
+   "model": "moto g stylus (2021)"
+  },
+  {
+   "device": "minsk",
+   "name": "moto g stylus (2021)",
+   "model": "moto g stylus (XT2115DL)"
   },
   {
    "device": "ali",
