@@ -17301,6 +17301,13 @@
    "model": "B55"
   }
  ],
+ "Bmobile_B60Pro_DG": [
+  {
+   "brand": "BMobile",
+   "name": "B60Pro_DG",
+   "model": "B60Pro_DG"
+  }
+ ],
  "B60Pro_MV03": [
   {
    "brand": "BMobile",
@@ -17320,6 +17327,20 @@
    "brand": "BMobile",
    "name": "BL54_PRO_TG05",
    "model": "BL54_PRO"
+  }
+ ],
+ "Bmobile_BL60": [
+  {
+   "brand": "BMobile",
+   "name": "BL60",
+   "model": "BL60"
+  }
+ ],
+ "Bmobile_BL60_TG05": [
+  {
+   "brand": "BMobile",
+   "name": "BL60_TG05",
+   "model": "BL60_TG05"
   }
  ],
  "Bella": [
@@ -25943,6 +25964,125 @@
    "model": "S60CLI"
   }
  ],
+ "gangbyeon": [
+  {
+   "brand": "Challenger",
+   "name": "Challenger",
+   "model": "Challenger 4K AI Smart TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Hyundai",
+   "model": "HYUNDAI 4K AI Smart TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Hyundai",
+   "model": "HYUNDAI 4K Smart TV"
+  },
+  {
+   "brand": "IMPECCA",
+   "name": "IMPECCA",
+   "model": "IMPECCA 4K Smart TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "Amtran",
+   "model": "4K AI Smart TV"
+  },
+  {
+   "brand": "KEMPLER STRAUSS",
+   "name": "50F1",
+   "model": "4K Smart TV"
+  },
+  {
+   "brand": "RCA",
+   "name": "HKC",
+   "model": "HKC 4K AI Smart TV"
+  },
+  {
+   "brand": "RCA",
+   "name": "RCA",
+   "model": "4K AI Smart TV"
+  },
+  {
+   "brand": "RCA",
+   "name": "US",
+   "model": "4K Smart TV"
+  },
+  {
+   "brand": "Realme",
+   "name": "50F1",
+   "model": "4K AI Smart TV"
+  },
+  {
+   "brand": "SYLVANIA",
+   "name": "US",
+   "model": "4K Smart TV"
+  },
+  {
+   "brand": "Sceptre",
+   "name": "TATUNG",
+   "model": "TATUNG 4K AI Smart TV"
+  }
+ ],
+ "osaki": [
+  {
+   "brand": "Challenger",
+   "name": "Challenger",
+   "model": "2K AI Smart TV"
+  },
+  {
+   "brand": "Engel",
+   "name": "LE3290ATV",
+   "model": "2K AI Smart TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Hyundai",
+   "model": "HYUNDAI 2K AI Smart TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "Amtran",
+   "model": "2K AI Smart TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "LT-32K397",
+   "model": "2K AI Smart TV"
+  },
+  {
+   "brand": "LEVEL TV",
+   "name": "32F1D",
+   "model": "2K AI Smart TV"
+  },
+  {
+   "brand": "OK (Mediamark)",
+   "name": "ODL 32760HN-TAB",
+   "model": "2K AI Smart TV"
+  },
+  {
+   "brand": "Polytron",
+   "name": "Polytron 2K AI Smart TV",
+   "model": "2K AI Smart TV"
+  },
+  {
+   "brand": "RCA",
+   "name": "RS43F2-EU",
+   "model": "2K AI Smart TV"
+  },
+  {
+   "brand": "Soniq",
+   "name": "G32HW60A",
+   "model": "2K AI Smart TV"
+  },
+  {
+   "brand": "Walton",
+   "name": "32FD1",
+   "model": "2K AI Smart TV"
+  }
+ ],
  "q7": [
   {
    "brand": "Chanbly",
@@ -26042,6 +26182,13 @@
    "brand": "Cherry Mobile",
    "name": "Aqua S9",
    "model": "Aqua S9"
+  }
+ ],
+ "X1020": [
+  {
+   "brand": "Cherry Mobile",
+   "name": "Aqua S9 Lite",
+   "model": "Aqua S9 lite"
   }
  ],
  "Aqua_S9_Max": [
@@ -28912,6 +29059,13 @@
    "brand": "Connex",
    "name": "CTAB1044hn",
    "model": "CTAB1044hn"
+  }
+ ],
+ "SEN_1055_ARM": [
+  {
+   "brand": "Connex",
+   "name": "SEN_1055_ARM",
+   "model": "SEN_1055_ARM"
   }
  ],
  "S12Pro": [
@@ -39971,53 +40125,6 @@
    "brand": "EnergySistem",
    "name": "adelroth",
    "model": "Energy Tablet Pro 4"
-  }
- ],
- "osaki": [
-  {
-   "brand": "Engel",
-   "name": "LE3290ATV",
-   "model": "2K AI Smart TV"
-  },
-  {
-   "brand": "JVC",
-   "name": "Amtran",
-   "model": "2K AI Smart TV"
-  },
-  {
-   "brand": "JVC",
-   "name": "LT-32K397",
-   "model": "2K AI Smart TV"
-  },
-  {
-   "brand": "LEVEL TV",
-   "name": "32F1D",
-   "model": "2K AI Smart TV"
-  },
-  {
-   "brand": "OK (Mediamark)",
-   "name": "ODL 32760HN-TAB",
-   "model": "2K AI Smart TV"
-  },
-  {
-   "brand": "Polytron",
-   "name": "Polytron 2K AI Smart TV",
-   "model": "2K AI Smart TV"
-  },
-  {
-   "brand": "RCA",
-   "name": "RS43F2-EU",
-   "model": "2K AI Smart TV"
-  },
-  {
-   "brand": "Soniq",
-   "name": "G32HW60A",
-   "model": "2K AI Smart TV"
-  },
-  {
-   "brand": "Walton",
-   "name": "32FD1",
-   "model": "2K AI Smart TV"
   }
  ],
  "E-TAB": [
@@ -53209,6 +53316,18 @@
    "model": "HTC Desire 20+"
   }
  ],
+ "htc_thudugl": [
+  {
+   "brand": "HTC",
+   "name": "HTC Desire 21 Pro 5G",
+   "model": "2QAG100"
+  },
+  {
+   "brand": "HTC",
+   "name": "HTC Desire 21 Pro 5G",
+   "model": "HTC Desire 21 pro 5G"
+  }
+ ],
  "htc_bre2pdugl": [
   {
    "brand": "HTC",
@@ -58575,6 +58694,20 @@
    "model": "Hisense V40"
   }
  ],
+ "HLTE232E": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense E50",
+   "model": "Hisense E50"
+  }
+ ],
+ "HLTE232E_10": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense E50",
+   "model": "Hisense E50"
+  }
+ ],
  "HLTE228E": [
   {
    "brand": "Hisense",
@@ -58732,6 +58865,13 @@
    "brand": "Hisense",
    "name": "Hisense Infinity H40 Lite",
    "model": "Hisense Infinity H40 Lite"
+  }
+ ],
+ "HLTE234E": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense Infinity H50 ZOOM",
+   "model": "Hisense Infinity H50 ZOOM"
   }
  ],
  "HLTE100E_20": [
@@ -71663,48 +71803,6 @@
    "model": "2K Smart TV"
   }
  ],
- "gangbyeon": [
-  {
-   "brand": "IMPECCA",
-   "name": "IMPECCA",
-   "model": "IMPECCA 4K Smart TV"
-  },
-  {
-   "brand": "JVC",
-   "name": "Amtran",
-   "model": "4K AI Smart TV"
-  },
-  {
-   "brand": "KEMPLER STRAUSS",
-   "name": "50F1",
-   "model": "4K Smart TV"
-  },
-  {
-   "brand": "RCA",
-   "name": "RCA",
-   "model": "4K AI Smart TV"
-  },
-  {
-   "brand": "RCA",
-   "name": "US",
-   "model": "4K Smart TV"
-  },
-  {
-   "brand": "Realme",
-   "name": "50F1",
-   "model": "4K AI Smart TV"
-  },
-  {
-   "brand": "SYLVANIA",
-   "name": "US",
-   "model": "4K Smart TV"
-  },
-  {
-   "brand": "Sceptre",
-   "name": "TATUNG",
-   "model": "TATUNG 4K AI Smart TV"
-  }
- ],
  "INOI_1_Lite": [
   {
    "brand": "INOI",
@@ -76292,6 +76390,13 @@
    "model": "itel A15R"
   }
  ],
+ "itel-W5006X": [
+  {
+   "brand": "Itel",
+   "name": "A17",
+   "model": "itel W5006X"
+  }
+ ],
  "itel_A21": [
   {
    "brand": "Itel",
@@ -76363,6 +76468,13 @@
    "brand": "Itel",
    "name": "A25 Pro",
    "model": "itel L5002P"
+  }
+ ],
+ "itel-A571L": [
+  {
+   "brand": "Itel",
+   "name": "A26",
+   "model": "itel A571L"
   }
  ],
  "itel-A571LL": [
@@ -77037,6 +77149,11 @@
    "brand": "Itel",
    "name": "itel A16 Plus",
    "model": "itel A16 Plus RU"
+  },
+  {
+   "brand": "Itel",
+   "name": "itel-A16-Plus",
+   "model": "itel A16 Plus"
   }
  ],
  "itel-A16-Plus-BD": [
@@ -77191,6 +77308,13 @@
    "model": "itel L6004P"
   }
  ],
+ "itel-W4001P": [
+  {
+   "brand": "Itel",
+   "name": "itel AC13",
+   "model": "itel W4001P"
+  }
+ ],
  "itel-A16S": [
   {
    "brand": "Itel",
@@ -77273,6 +77397,13 @@
    "brand": "Itel",
    "name": "itel S32LTE",
    "model": "itel S32LTE"
+  }
+ ],
+ "itel-W4001S": [
+  {
+   "brand": "Itel",
+   "name": "itel V41",
+   "model": "itel W4001S"
   }
  ],
  "itel-W5001P": [
@@ -79046,6 +79177,13 @@
    "brand": "Kanji",
    "name": "KANJI_AC05",
    "model": "KJ-AC05"
+  }
+ ],
+ "KJ-YUBI": [
+  {
+   "brand": "Kanji",
+   "name": "KJ-YUBI",
+   "model": "KJ-YUBI"
   }
  ],
  "KJAC05": [
@@ -80971,6 +81109,13 @@
    "brand": "Kult",
    "name": "Kult Beyond",
    "model": "Beyond"
+  }
+ ],
+ "U3A_7_WIFI_Refresh_KD": [
+  {
+   "brand": "Kurio",
+   "name": "KURIO LITE GO NEW",
+   "model": "9309S"
   }
  ],
  "Hulk_7_KIDS_WIFI": [
@@ -91731,6 +91876,13 @@
    "model": "Z10"
   }
  ],
+ "LMG01": [
+  {
+   "brand": "Lava",
+   "name": "Z2",
+   "model": "LAVA LMG01"
+  }
+ ],
  "Z25": [
   {
    "brand": "Lava",
@@ -91741,6 +91893,13 @@
    "brand": "Symphony",
    "name": "Z25",
    "model": "Z25"
+  }
+ ],
+ "LMX04": [
+  {
+   "brand": "Lava",
+   "name": "Z3",
+   "model": "LAVA LMX04"
   }
  ],
  "AH9910": [
@@ -91765,6 +91924,13 @@
    "brand": "benco",
    "name": "benco Y41",
    "model": "AN9910"
+  }
+ ],
+ "LMX06": [
+  {
+   "brand": "Lava",
+   "name": "Z4/Z6",
+   "model": "LAVA LMX06"
   }
  ],
  "Z40": [
@@ -101591,6 +101757,13 @@
    "model": "Maxvi_MS401"
   }
  ],
+ "Astro_4_PRO": [
+  {
+   "brand": "Maxwest",
+   "name": "Astro 4 PRO",
+   "model": "Astro 4 PRO"
+  }
+ ],
  "Astro_5_GO_LTE": [
   {
    "brand": "Maxwest",
@@ -106401,6 +106574,13 @@
    "brand": "Mobicell",
    "name": "Zoom",
    "model": "ZOOM"
+  }
+ ],
+ "ZOOM_1": [
+  {
+   "brand": "Mobicell",
+   "name": "ZOOM_1",
+   "model": "ZOOM_1"
   }
  ],
  "ZOOM_H": [
@@ -114410,6 +114590,13 @@
    "model": "M002K-2"
   }
  ],
+ "M002K_2": [
+  {
+   "brand": "Necnon",
+   "name": "M002K-2",
+   "model": "M002K-2"
+  }
+ ],
  "M002N": [
   {
    "brand": "Necnon",
@@ -116907,6 +117094,13 @@
    "brand": "Ollee",
    "name": "XT080",
    "model": "XT080"
+  }
+ ],
+ "TREK": [
+  {
+   "brand": "Olympia",
+   "name": "TREK",
+   "model": "TREK"
   }
  ],
  "C2_pro": [
@@ -121153,6 +121347,13 @@
    "model": "EV1 PRO"
   }
  ],
+ "PAXM30": [
+  {
+   "brand": "PAX (CN)",
+   "name": "M30",
+   "model": "M30"
+  }
+ ],
  "PCSGOB10MVA-A": [
   {
    "brand": "PC Smart",
@@ -123795,6 +123996,11 @@
   {
    "brand": "Partner",
    "name": "Batman",
+   "model": "S70PCI"
+  },
+  {
+   "brand": "Partner",
+   "name": "S70PCI",
    "model": "S70PCI"
   }
  ],
@@ -128944,6 +129150,13 @@
    "brand": "Pritom",
    "name": "L8_EEA",
    "model": "L8_EEA"
+  }
+ ],
+ "M10_PLUS": [
+  {
+   "brand": "Pritom",
+   "name": "M10_PLUS",
+   "model": "M10_PLUS"
   }
  ],
  "M10_PLUS_EEA": [
@@ -155777,6 +155990,13 @@
    "model": "Smooth 5.5"
   }
  ],
+ "SSmooth_5": [
+  {
+   "brand": "Smooth",
+   "name": "Smooth_5",
+   "model": "Smooth 5.0"
+  }
+ ],
  "ServiceChecKIT_EEA": [
   {
    "brand": "Snopow",
@@ -161613,6 +161833,13 @@
    "brand": "Symphony",
    "name": "Z16",
    "model": "Z16"
+  }
+ ],
+ "Z18": [
+  {
+   "brand": "Symphony",
+   "name": "Z18",
+   "model": "Symphony Z18"
   }
  ],
  "Z20": [
@@ -176273,6 +176500,13 @@
    "model": "H20"
   }
  ],
+ "KindPad_SA8_EEA": [
+  {
+   "brand": "Vastking",
+   "name": "KindPad_SA8_EEA",
+   "model": "KindPad_SA8_EEA"
+  }
+ ],
  "KingPad_SA10": [
   {
    "brand": "Vastking",
@@ -179268,6 +179502,28 @@
    "brand": "Vivo",
    "name": "V2031EA",
    "model": "V2031EA"
+  }
+ ],
+ "2034": [
+  {
+   "brand": "Vivo",
+   "name": "V2033",
+   "model": "V2033"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2034",
+   "model": "V2034"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2052",
+   "model": "V2052"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2054",
+   "model": "V2054"
   }
  ],
  "PD2034": [
@@ -194444,6 +194700,11 @@
    "brand": "ZTE",
    "name": "ZTE A20 5G",
    "model": "ZTE A2121"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Axon 20 5G",
+   "model": "ZTE A2121G"
   }
  ],
  "msm8996": [
@@ -196429,6 +196690,13 @@
    "model": "Class_C250"
   }
  ],
+ "MX1": [
+  {
+   "brand": "beafon",
+   "name": "MX1",
+   "model": "MX1"
+  }
+ ],
  "LH9921": [
   {
    "brand": "benco",
@@ -197766,6 +198034,13 @@
    "brand": "iHunt",
    "name": "Like_7",
    "model": "Like_7"
+  }
+ ],
+ "Like_Hi10_2021": [
+  {
+   "brand": "iHunt",
+   "name": "Like_Hi10_2021",
+   "model": "Like_Hi10_2021"
   }
  ],
  "Like_Hi5": [
