@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-01-12
+Last sync is 2021-01-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -749,6 +749,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|Viva H1003 LTE PRO|H1003_LTE_PRO|H1003_LTE_PRO|
 |AllView|Viva H1003 LTE PRO/1|H1003_LTE_PRO1|H1003_LTE_PRO1|
 |AllView|Viva H1003 LTE PRO/B6|H1003_LTE_PRO|H1003_LTE_PRO|
+|AllView|Viva H1004 LTE|H1004_LTE|H1004_LTE|
 |AllView|Viva H7 LTE|Allview_VivaH7LTE_KK|VivaH7LTE|
 |AllView|Viva H8 LTE|Allview_VivaH8LTE_KK|VivaH8LTE|
 |AllView|Viva H8 Life|H8_Life|H8_Life|
@@ -2144,6 +2145,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|BL54_PRO_TG05|Bmobile_BL54_PRO_TG05|BL54_PRO|
 |BMobile|BL60|Bmobile_BL60|BL60|
 |BMobile|BL60_TG05|Bmobile_BL60_TG05|BL60_TG05|
+|BMobile|BL60_TG17|Bmobile_BL60_TG17|BL60_TG17|
 |BMobile|Bella|Bella|Bella|
 |BMobile|Bmbile AX687|Bmobile_AX687|AX687|
 |BMobile|Bmobile AX1076|Bmobile_AX1076|AX1076|
@@ -3069,6 +3071,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |C5 Mobile|noa_G1|noa_G1|noa_G1|
 |CAIXUN|Australian/EU|yeongdeungpo|AiPlus4K|
 |CAIXUN|Canada|yeongdeungpo|AiPlus4K|
+|CAIXUN|Malaysia|yeongdeungpo|AiPlus4KMY|
 |CAIXUN|USA|yeongdeungpo|AiPlus4K|
 |CALME|LT5|LT5|LT5|
 |CANAL-PLUS|CANAL+ BOX|HY40A2|CANAL PLUS BOX|
@@ -5347,6 +5350,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Erito|Vietnam|samseong|AI PONT|
 |Essential Products|Essential|Essential|Essential|
 |Essential Products|PH-1|mata|PH-1|
+|EssentielB|Android TV|R1|ATV R1|
 |EssentielB|Black Diamond|bird77_a_cu_ics2|Essentielb-Black Diamond|
 |EssentielB|Pyxis|pyxis_boulanger|Essentielb-Pixis|
 |EssentielB|ST7001 Tablet|ST7001|ST7001|
@@ -5486,6 +5490,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Evoo|EVM4G3|EVM4G3|EVM4G3|
 |Evoo|EVM4G6|EVM4G6|EVM4G6|
 |Evoo|EVMFV2|EVMFV2|EVMFV2|
+|Evvoli|Android TV|R1|ATV R1|
+|Evvoli|Android TV|R2|ATV R2|
 |Excelvan|SMY-M07R7|SMY_M07R7|M07R7_EEA|
 |Excelvan|SMY_M07R7|SMY_M07R7|M07R7|
 |Exertis|7GW_eea|7GW|7GW|
@@ -8449,6 +8455,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hoffmann|X-Go|X-Go|X-Go|
 |Hoffmann|X-Ultra|X_Ultra|X_Ultra|
 |Hoffmann|X_Prime|X_Prime|HOFFMANN X-Prime|
+|Home Elite|Android TV|R1|ATV R1|
 |Hometech|ALFA 10RC|ALFA_10RC|ALFA_10RC|
 |Hometech|ALFA 8RC|ALFA_8RC|ALFA_8RC|
 |Hometech|ALFA 8RX|ALFA_8RX|ALFA_8RX|
@@ -10791,6 +10798,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ingenico|Moby-M120|Moby-M120|Moby-M120|
 |Ingenico|Moby-M70|Moby-M70|IMS-M70-V02|
 |Ingenico|Moby-M70|Moby-M70|Moby-M70|
+|Ingenico|Moby-M70g|Moby-M70g|IMS-M70-V03|
 |Inhon|E30|E30|E30|
 |Inhon|L35|L35|L35|
 |Inhon|L36|L36|L36|
@@ -10950,6 +10958,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ipro|Amber6|Amber6|Amber6|
 |Ipro|Amber7S|Amber7S|Amber7S|
 |Ipro|Amber8S|Amber8S|Amber8S|
+|Ipro|Amber8S plus|Amber8S_plus|Amber8S plus|
 |Ipro|Amber8s Pro|Amber8s_Pro|Amber8s Pro|
 |Ipro|Benny|Benny|Benny|
 |Ipro|Benny10|Benny10|Benny10|
@@ -11306,6 +11315,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|LT-50N7115A|samseong|AI PONT|
 |JVC|LT-55KB597|sindorim|AI PONT|
 |JVC|UK|tabata|UK 2K Android TV|
+|JVC|france|tamachi|JVC 2K Android TV|
 |JVL (Australia)|JVL070TAB812BLK|JVL070TAB812BLK|JVL070TAB812BLK|
 |JVL (Australia)|JVL101TAB811BLK|JVL101TAB811BLK|JVL101TAB811BLK|
 |JabrBox|H460|H460|H460|
@@ -11479,6 +11489,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KONKA|KM7012BK|KM7012BK|KM7012BK|
 |KONKA|KONKA|seocho|KONKA 4K Android TV|
 |KONKA|KONKA|sugamo|KONKA 2K Android TV|
+|KONKA|North America|hongik|KONKA 4K Android TV|
 |KONKA|RE1|RE1|RE1|
 |KONKA|RU1|RU1|RU1|
 |KONKA|SE1|SE1|SE1|
@@ -14255,7 +14266,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M10 HD (2nd Gen)|X306XA|Lenovo TB-X306XA|
 |Lenovo|Lenovo Tab M10 HD (2nd Gen) PRC|X306FC_PRC|Lenovo TB-X306FC_PRC|
 |Lenovo|Lenovo Tab M10 HD (2nd Gen) PRC|X306NC_PRC|Lenovo TB-X306NC_PRC|
-|Lenovo|Lenovo Tab M10 HD(2nd Gen)|X306X|Lenovo TB-X306X|
 |Lenovo|Lenovo Tab M10 Plus|X606V|Lenovo TB-X606V|
 |Lenovo|Lenovo Tab M7|7305F|Lenovo TB-7305F|
 |Lenovo|Lenovo Tab M7|7305I|Lenovo TB-7305I|
@@ -17456,6 +17466,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OTOT|S8|S8|S8|
 |OTOT|V350|V350|V350|
 |OTTO|OTTO CR05|OTTO_CR05|OTTO CR05|
+|OVERTECH|OX7A|OX7A|OX7A|
 |OWXMobile|W77|W77|W77|
 |OYYU|T11|OYYUT11|OYYUT11|
 |OYYU|T7Pro|T7Pro|T7Pro|
@@ -18232,6 +18243,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|43GX580C|GX580C|9S61Z_ZQ20S|
 |Panasonic|48AX600C|mst918_4G|48AX600C|
 |Panasonic|4KTV-0SU|SW4H|4KTV-0SU|
+|Panasonic|4KTV-0SUF|SW4H_FF|4KTV-0SUF|
+|Panasonic|4KTV-0SUW|SW4H|4KTV-0SUW|
 |Panasonic|55AX600C|mst918_4k2k|55AX600C|
 |Panasonic|55DX600C|DX600C|TH-55DX600C|
 |Panasonic|AS650C|AS650C|AS650C|
@@ -18298,6 +18311,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|Eco12 v3|ecov312|Eco v3|
 |Panasonic|Eco12 v3 Plus|ecov3p12|Eco v3 plus|
 |Panasonic|Eco4K12A|NEXT820|NEXT|
+|Panasonic|Eco4K13A|NEXT820|NEXT|
 |Panasonic|Eco9 v1|Eco|Eco9 v1|
 |Panasonic|Eco9 v2|Ecov2|Eco9 v2|
 |Panasonic|EcoFW 10|ecofw10|Eco v3 plus|
@@ -18393,6 +18407,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|KX-PRXA10|KX-PRXA10|Panasonic KX-PRXA10|
 |Panasonic|KX-PRXA15|KX-PRXA15|Panasonic KX-PRXA15|
 |Panasonic|LUMIX CM1|DMC-CM1|DMC-CM1|
+|Panasonic|NEXT Crew Terminal - AutoChip|NEXT820|NEXT|
+|Panasonic|NEXT Crew Terminal - IoT Chip|NEXT821|NEXT|
 |Panasonic|NEXT Eco4K 12|NEXT821|NEXT|
 |Panasonic|P-01D|pana2_1|P-01D|
 |Panasonic|P-01K|P-01K|P-01K|
@@ -19860,6 +19876,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme C3|RMX2027|RMX2027|
 |Realme|realme C3i|RMX2027|RMX2027|
 |Realme|realme Q|RMX1971CN|RMX1971|
+|Realme|realme Smart TV|SW4H_FF|realme Smart TV|
 |Realme|realme TV|ikebukuro|AI PONT|
 |Realme|realme TV 32|ikebukuro|AI PONT|
 |Realme|realme V3  5G|RMX2200CN|RMX2200|
@@ -20112,6 +20129,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SARL WISE TECHNOLOGIE|Wise_Tech_Wifi|Wise_Tech_Wifi|Wise Tech Wifi|
 |SBET|X7|X7|X7|
 |SCHNEIDER|Android TV|R1|ATV R1|
+|SCHNEIDER|Android TV|R2|ATV R2|
 |SCHNEIDER|SCHNEIDER|bangbae|SCHNEIDER 4K Android TV|
 |SCHNEIDER|SCHNEIDER|komagome|SCHNEIDER 2K Android TV|
 |SCIENTIA|BBT1019863|BBT1019863|BBT1019863|
@@ -20327,6 +20345,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SUPERSONIC|SC_774KT|SC_774KT|SC_774KT|
 |SUPERSONIC|SUPERSONIC|kanda|SUPERSONIC 2K Smart TV|
 |SUPERSONIC|TAB7091|TAB7091|TAB7091|
+|SUPOIN|S66|S66|S66|
 |SWTV|Asia|SW3_ATV|SWTV|
 |SWTV|Europe|SW3H_ATV|SWTV|
 |SWTV|North America|SW3_ATV|SWTV|
@@ -24606,6 +24625,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 20 SE|Austin|T671H|
 |TCL|TCL 20E|HONG_KONG|6125A|
 |TCL|TCL 20E|HONG_KONG|6125F|
+|TCL|TCL 20S|Miami_Pro|T773O|
 |TCL|TCL C5|A3A|5152D|
 |TCL|TCL C5|Gauss|5153A|
 |TCL|TCL C5|Gauss|5153K|
@@ -25352,6 +25372,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1SE elite edition|Jakarta_Lite|4087U_RU|
 |TCT (Alcatel)|Alcatel 1SP|Jakarta|5030E_RU|
 |TCT (Alcatel)|Alcatel 1T 7 WIFI|U3A_7_WIFI|8068|
+|TCT (Alcatel)|Alcatel 1T 7 WIFI NEW|U3A_7_WIFI_Refresh|9309X|
 |TCT (Alcatel)|Alcatel 1T7 Wifi|U3A_7_WIFI_Refresh|9309X_RU|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007A|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007G|
@@ -28290,6 +28311,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|W_P200|W_P200|W_P200|
 |Wiko|W_P200CM|W_P200CM|View Max|
 |Wiko|W_P200CM|W_P200CM|W_P200CM|
+|Wiko|Wiko Ride 3|U614AS|Wiko U614AS|
 |Wiko|Y50|W-K130|W-K130-BYT|
 |Wiko|Y50|W-K130|W-K130-EEA|
 |Wiko|Y50|W-K130|W-K130-OPE|
@@ -28729,6 +28751,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xtratech|X8MT16|X8MT16|X8MT16|
 |Xtratech|X8MT87|X8MT87|X8MT87|
 |Xtratech|XTRATECH|KT-755M|KT-755M|
+|Xtreme|Android TV|R1|ATV R1|
 |Xwave|Xpad|Xpad|Xpad_M9_3G|
 |YELLYOUTH|TAB_101|TAB_101|TAB_101|
 |YOTOPT|M60_EEA|M60_EEA|M60_EEA|
@@ -30486,6 +30509,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zuum|COVET Z|COVET_Z|COVET Z|
 |Zuum|COVET mini|Covet_Mini|COVET mini|
 |Zuum|GRANT|GRANT|GRANT|
+|Zuum|GRAVITY M|GRAVITY_M|GRAVITY M|
 |Zuum|GRAVITY Z|GRAVITY_Z|GRAVITY Z|
 |Zuum|Gravity|Gravity|Gravity|
 |Zuum|Gravity Life|Gravity_Life|Gravity Life|

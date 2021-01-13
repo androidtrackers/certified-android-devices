@@ -3895,7 +3895,22 @@
    "model": "ATV R1"
   },
   {
+   "brand": "EssentielB",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Evvoli",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
    "brand": "Hitachi",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Home Elite",
    "name": "Android TV",
    "model": "ATV R1"
   },
@@ -3993,6 +4008,11 @@
    "brand": "Vision Technology",
    "name": "Android TV",
    "model": "ATV R1"
+  },
+  {
+   "brand": "Xtreme",
+   "name": "Android TV",
+   "model": "ATV R1"
   }
  ],
  "R2": [
@@ -4043,6 +4063,11 @@
   },
   {
    "brand": "Denka",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Evvoli",
    "name": "Android TV",
    "model": "ATV R2"
   },
@@ -4118,6 +4143,11 @@
   },
   {
    "brand": "RECCO",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "SCHNEIDER",
    "name": "Android TV",
    "model": "ATV R2"
   },
@@ -6964,6 +6994,13 @@
    "brand": "AllView",
    "name": "Viva H1003 LTE PRO/1",
    "model": "H1003_LTE_PRO1"
+  }
+ ],
+ "H1004_LTE": [
+  {
+   "brand": "AllView",
+   "name": "Viva H1004 LTE",
+   "model": "H1004_LTE"
   }
  ],
  "Allview_VivaH7LTE_KK": [
@@ -17343,6 +17380,13 @@
    "model": "BL60_TG05"
   }
  ],
+ "Bmobile_BL60_TG17": [
+  {
+   "brand": "BMobile",
+   "name": "BL60_TG17",
+   "model": "BL60_TG17"
+  }
+ ],
  "Bella": [
   {
    "brand": "BMobile",
@@ -20961,6 +21005,11 @@
    "model": "INVES FHD Android TV"
   },
   {
+   "brand": "JVC",
+   "name": "france",
+   "model": "JVC 2K Android TV"
+  },
+  {
    "brand": "LISTO",
    "name": "Rumania",
    "model": "LISTO Android TV"
@@ -23910,6 +23959,11 @@
    "brand": "CAIXUN",
    "name": "Canada",
    "model": "AiPlus4K"
+  },
+  {
+   "brand": "CAIXUN",
+   "name": "Malaysia",
+   "model": "AiPlus4KMY"
   },
   {
    "brand": "CAIXUN",
@@ -74322,6 +74376,13 @@
    "model": "Moby-M70"
   }
  ],
+ "Moby-M70g": [
+  {
+   "brand": "Ingenico",
+   "name": "Moby-M70g",
+   "model": "IMS-M70-V03"
+  }
+ ],
  "E30": [
   {
    "brand": "Inhon",
@@ -75342,6 +75403,13 @@
    "brand": "Ipro",
    "name": "Amber8S",
    "model": "Amber8S"
+  }
+ ],
+ "Amber8S_plus": [
+  {
+   "brand": "Ipro",
+   "name": "Amber8S plus",
+   "model": "Amber8S plus"
   }
  ],
  "Amber8s_Pro": [
@@ -78750,6 +78818,18 @@
    "brand": "KONKA",
    "name": "KM7012BK",
    "model": "KM7012BK"
+  }
+ ],
+ "hongik": [
+  {
+   "brand": "KONKA",
+   "name": "North America",
+   "model": "KONKA 4K Android TV"
+  },
+  {
+   "brand": "Seiki",
+   "name": "North America",
+   "model": "Seiki Android TV"
   }
  ],
  "RE1": [
@@ -96086,11 +96166,6 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab M10 HD (2nd Gen)",
    "model": "Lenovo TB-X306X"
-  },
-  {
-   "brand": "Lenovo",
-   "name": "Lenovo Tab M10 HD(2nd Gen)",
-   "model": "Lenovo TB-X306X"
   }
  ],
  "X306XA": [
@@ -108327,6 +108402,11 @@
    "model": "4KTV-0SU"
   },
   {
+   "brand": "Panasonic",
+   "name": "4KTV-0SUW",
+   "model": "4KTV-0SUW"
+  },
+  {
    "brand": "SWTV",
    "name": "SWTV-20AE",
    "model": "SWTV-20AE"
@@ -116918,6 +116998,13 @@
    "model": "OTTO CR05"
   }
  ],
+ "OX7A": [
+  {
+   "brand": "OVERTECH",
+   "name": "OX7A",
+   "model": "OX7A"
+  }
+ ],
  "W77": [
   {
    "brand": "OWXMobile",
@@ -121849,6 +121936,23 @@
    "model": "48AX600C"
   }
  ],
+ "SW4H_FF": [
+  {
+   "brand": "Panasonic",
+   "name": "4KTV-0SUF",
+   "model": "4KTV-0SUF"
+  },
+  {
+   "brand": "Realme",
+   "name": "realme Smart TV",
+   "model": "realme Smart TV"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-20AE-PRO",
+   "model": "SWTV-20AE-PRO"
+  }
+ ],
  "mst918_4k2k": [
   {
    "brand": "Panasonic",
@@ -122299,6 +122403,16 @@
   {
    "brand": "Panasonic",
    "name": "Eco4K12A",
+   "model": "NEXT"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "Eco4K13A",
+   "model": "NEXT"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "NEXT Crew Terminal - AutoChip",
    "model": "NEXT"
   }
  ],
@@ -122973,6 +123087,11 @@
   }
  ],
  "NEXT821": [
+  {
+   "brand": "Panasonic",
+   "name": "NEXT Crew Terminal - IoT Chip",
+   "model": "NEXT"
+  },
   {
    "brand": "Panasonic",
    "name": "NEXT Eco4K 12",
@@ -135140,11 +135259,11 @@
    "model": "TAB7091"
   }
  ],
- "SW4H_FF": [
+ "S66": [
   {
-   "brand": "SWTV",
-   "name": "SWTV-20AE-PRO",
-   "model": "SWTV-20AE-PRO"
+   "brand": "SUPOIN",
+   "name": "S66",
+   "model": "S66"
   }
  ],
  "SLTDVD9220-C": [
@@ -151380,13 +151499,6 @@
    "model": "ST5000"
   }
  ],
- "hongik": [
-  {
-   "brand": "Seiki",
-   "name": "North America",
-   "model": "Seiki Android TV"
-  }
- ],
  "T856G": [
   {
    "brand": "Selectron",
@@ -162667,6 +162779,13 @@
    "model": "6025H_RU"
   }
  ],
+ "Miami_Pro": [
+  {
+   "brand": "TCL",
+   "name": "TCL 20S",
+   "model": "T773O"
+  }
+ ],
  "A3A": [
   {
    "brand": "TCL",
@@ -167458,6 +167577,11 @@
   }
  ],
  "U3A_7_WIFI_Refresh": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1T 7 WIFI NEW",
+   "model": "9309X"
+  },
   {
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1T7 Wifi",
@@ -184105,6 +184229,13 @@
    "model": "W_P200CM"
   }
  ],
+ "U614AS": [
+  {
+   "brand": "Wiko",
+   "name": "Wiko Ride 3",
+   "model": "Wiko U614AS"
+  }
+ ],
  "W-K510": [
   {
    "brand": "Wiko",
@@ -196485,6 +196616,13 @@
    "brand": "Zuum",
    "name": "ZUUM GRANT",
    "model": "GRANT"
+  }
+ ],
+ "GRAVITY_M": [
+  {
+   "brand": "Zuum",
+   "name": "GRAVITY M",
+   "model": "GRAVITY M"
   }
  ],
  "GRAVITY_Z": [

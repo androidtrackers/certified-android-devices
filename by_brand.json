@@ -3885,6 +3885,11 @@
    "model": "H1003_LTE_PRO"
   },
   {
+   "device": "H1004_LTE",
+   "name": "Viva H1004 LTE",
+   "model": "H1004_LTE"
+  },
+  {
    "device": "Allview_VivaH7LTE_KK",
    "name": "Viva H7 LTE",
    "model": "VivaH7LTE"
@@ -11006,6 +11011,11 @@
    "model": "BL60_TG05"
   },
   {
+   "device": "Bmobile_BL60_TG17",
+   "name": "BL60_TG17",
+   "model": "BL60_TG17"
+  },
+  {
    "device": "Bella",
    "name": "Bella",
    "model": "Bella"
@@ -15793,6 +15803,11 @@
    "device": "yeongdeungpo",
    "name": "Canada",
    "model": "AiPlus4K"
+  },
+  {
+   "device": "yeongdeungpo",
+   "name": "Malaysia",
+   "model": "AiPlus4KMY"
   },
   {
    "device": "yeongdeungpo",
@@ -27735,6 +27750,11 @@
  ],
  "EssentielB": [
   {
+   "device": "R1",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
    "device": "bird77_a_cu_ics2",
    "name": "Black Diamond",
    "model": "Essentielb-Black Diamond"
@@ -28460,6 +28480,18 @@
    "device": "EVMFV2",
    "name": "EVMFV2",
    "model": "EVMFV2"
+  }
+ ],
+ "Evvoli": [
+  {
+   "device": "R1",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
   }
  ],
  "Excelvan": [
@@ -43647,6 +43679,13 @@
    "model": "HOFFMANN X-Prime"
   }
  ],
+ "Home Elite": [
+  {
+   "device": "R1",
+   "name": "Android TV",
+   "model": "ATV R1"
+  }
+ ],
  "Hometech": [
   {
    "device": "ALFA_10RC",
@@ -55479,6 +55518,11 @@
    "device": "Moby-M70",
    "name": "Moby-M70",
    "model": "Moby-M70"
+  },
+  {
+   "device": "Moby-M70g",
+   "name": "Moby-M70g",
+   "model": "IMS-M70-V03"
   }
  ],
  "Inhon": [
@@ -56310,6 +56354,11 @@
    "device": "Amber8S",
    "name": "Amber8S",
    "model": "Amber8S"
+  },
+  {
+   "device": "Amber8S_plus",
+   "name": "Amber8S plus",
+   "model": "Amber8S plus"
   },
   {
    "device": "Amber8s_Pro",
@@ -58118,6 +58167,11 @@
    "device": "tabata",
    "name": "UK",
    "model": "UK 2K Android TV"
+  },
+  {
+   "device": "tamachi",
+   "name": "france",
+   "model": "JVC 2K Android TV"
   }
  ],
  "JVL (Australia)": [
@@ -59053,6 +59107,11 @@
    "device": "sugamo",
    "name": "KONKA",
    "model": "KONKA 2K Android TV"
+  },
+  {
+   "device": "hongik",
+   "name": "North America",
+   "model": "KONKA 4K Android TV"
   },
   {
    "device": "RE1",
@@ -73119,11 +73178,6 @@
    "device": "X306NC_PRC",
    "name": "Lenovo Tab M10 HD (2nd Gen) PRC",
    "model": "Lenovo TB-X306NC_PRC"
-  },
-  {
-   "device": "X306X",
-   "name": "Lenovo Tab M10 HD(2nd Gen)",
-   "model": "Lenovo TB-X306X"
   },
   {
    "device": "X606V",
@@ -89668,6 +89722,13 @@
    "model": "OTTO CR05"
   }
  ],
+ "OVERTECH": [
+  {
+   "device": "OX7A",
+   "name": "OX7A",
+   "model": "OX7A"
+  }
+ ],
  "OWXMobile": [
   {
    "device": "W77",
@@ -93662,6 +93723,16 @@
    "model": "4KTV-0SU"
   },
   {
+   "device": "SW4H_FF",
+   "name": "4KTV-0SUF",
+   "model": "4KTV-0SUF"
+  },
+  {
+   "device": "SW4H",
+   "name": "4KTV-0SUW",
+   "model": "4KTV-0SUW"
+  },
+  {
    "device": "mst918_4k2k",
    "name": "55AX600C",
    "model": "55AX600C"
@@ -93989,6 +94060,11 @@
   {
    "device": "NEXT820",
    "name": "Eco4K12A",
+   "model": "NEXT"
+  },
+  {
+   "device": "NEXT820",
+   "name": "Eco4K13A",
    "model": "NEXT"
   },
   {
@@ -94465,6 +94541,16 @@
    "device": "DMC-CM1",
    "name": "LUMIX CM1",
    "model": "DMC-CM1"
+  },
+  {
+   "device": "NEXT820",
+   "name": "NEXT Crew Terminal - AutoChip",
+   "model": "NEXT"
+  },
+  {
+   "device": "NEXT821",
+   "name": "NEXT Crew Terminal - IoT Chip",
+   "model": "NEXT"
   },
   {
    "device": "NEXT821",
@@ -101996,6 +102082,11 @@
    "model": "RMX1971"
   },
   {
+   "device": "SW4H_FF",
+   "name": "realme Smart TV",
+   "model": "realme Smart TV"
+  },
+  {
    "device": "ikebukuro",
    "name": "realme TV",
    "model": "AI PONT"
@@ -103332,6 +103423,11 @@
    "model": "ATV R1"
   },
   {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
    "device": "bangbae",
    "name": "SCHNEIDER",
    "model": "SCHNEIDER 4K Android TV"
@@ -104465,6 +104561,13 @@
    "device": "TAB7091",
    "name": "TAB7091",
    "model": "TAB7091"
+  }
+ ],
+ "SUPOIN": [
+  {
+   "device": "S66",
+   "name": "S66",
+   "model": "S66"
   }
  ],
  "SWTV": [
@@ -126134,6 +126237,11 @@
    "model": "6125F"
   },
   {
+   "device": "Miami_Pro",
+   "name": "TCL 20S",
+   "model": "T773O"
+  },
+  {
    "device": "A3A",
    "name": "TCL C5",
    "model": "5152D"
@@ -129864,6 +129972,11 @@
    "device": "U3A_7_WIFI",
    "name": "Alcatel 1T 7 WIFI",
    "model": "8068"
+  },
+  {
+   "device": "U3A_7_WIFI_Refresh",
+   "name": "Alcatel 1T 7 WIFI NEW",
+   "model": "9309X"
   },
   {
    "device": "U3A_7_WIFI_Refresh",
@@ -145092,6 +145205,11 @@
    "model": "W_P200CM"
   },
   {
+   "device": "U614AS",
+   "name": "Wiko Ride 3",
+   "model": "Wiko U614AS"
+  },
+  {
    "device": "W-K130",
    "name": "Y50",
    "model": "W-K130-BYT"
@@ -147359,6 +147477,13 @@
    "device": "KT-755M",
    "name": "XTRATECH",
    "model": "KT-755M"
+  }
+ ],
+ "Xtreme": [
+  {
+   "device": "R1",
+   "name": "Android TV",
+   "model": "ATV R1"
   }
  ],
  "Xwave": [
@@ -156248,6 +156373,11 @@
    "device": "GRANT",
    "name": "GRANT",
    "model": "GRANT"
+  },
+  {
+   "device": "GRAVITY_M",
+   "name": "GRAVITY M",
+   "model": "GRAVITY M"
   },
   {
    "device": "GRAVITY_Z",
