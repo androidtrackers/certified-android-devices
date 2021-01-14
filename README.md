@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-01-13
+Last sync is 2021-01-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3106,6 +3106,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CHAINWAY|P80_EEA|P80|P80|
 |CHCNAV|LT700|LT700|LT700|
 |CHN TELECOM|CHN-UCAN MJ|lefhd|CHN-UCAN MJ|
+|"CHUBU TELECOMMUNICATIONS CO.|INC"|STI6130d353|sti6130d353|
 |CHiQ|H7A|samseong|AI PONT|
 |CHiQ|M7A|samseong|AI PONT|
 |CILICO|C6|C6|C6|
@@ -15941,10 +15942,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobvoi|TicWatch E2/S2|tunny|TicWatch E2|
 |Mobvoi|TicWatch E2/S2|tunny|TicWatch S2|
 |Mobvoi|TicWatch Pro|catfish|TicWatch Pro|
+|Mobvoi|TicWatch Pro|catfish_ext|TicWatch Pro|
 |Mobvoi|TicWatch Pro 3 Cellular/LTE|rover|TicWatch Pro 3|
 |Mobvoi|TicWatch Pro 3 GPS|rubyfish|TicWatch Pro 3 GPS|
 |Mobvoi|TicWatch Pro 4G|catshark|TicWatch Pro 4G|
-|Mobvoi|TicWatch Pro BT|catfish_ext|TicWatch Pro|
 |Mobvoi|Ticwatch Pro 4G|catshark|TicWatch Pro 4G|
 |Mobvoi|Ticwatch S Smartwatch; Ticwatch E Smartwatch|mooneye|Ticwatch E|
 |Mobvoi|Ticwatch S Smartwatch; Ticwatch E Smartwatch|mooneye|Ticwatch S|
@@ -17304,7 +17305,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia X6|DRG|Nokia X6|
 |Nokia|Nokia X7|PNX|Nokia X7|
 |Nokia|Nokia X71|TAS|Nokia X71|
-|Nokia|SEI600NK|HND|Box Q|
+|Nokia|SEI600HM|HND|Box Q|
 |Nomi|CORSA 3 LTE|Nomi_C070030|Nomi_C070030|
 |Nomi|Corsa 3 3G|Nomi_C070012|Nomi_C070012|
 |Nomi|I5032|Nomi_i5032|i5032|
@@ -24624,6 +24625,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 20 SE|Austin|T671F|
 |TCL|TCL 20 SE|Austin|T671H|
 |TCL|TCL 20E|HONG_KONG|6125A|
+|TCL|TCL 20E|HONG_KONG|6125D|
 |TCL|TCL 20E|HONG_KONG|6125F|
 |TCL|TCL 20S|Miami_Pro|T773O|
 |TCL|TCL C5|A3A|5152D|
@@ -24672,6 +24674,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 10s|Aquaman_10_Pro|9061|
 |TCL|TCL TAB 10s|Odin|9081X|
 |TCL|TCL TAB 10s 4G|Odin|9080G|
+|TCL|TCL TAB 10s 4G|Odin|9080X|
 |TCL|TCL TAB 8 4G|Apollo_8_4G|9032X|
 |TCL|TCL TAB kids|Thor_8_4G_VZW|9049L|
 |TCL|TKEE MINI|Hulk_7_KIDS_WIFI|8093|
@@ -25766,6 +25769,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|SOUL 4.5|SOUL45_GSM|5038X|
 |TCT (Alcatel)|Smart P11|Seoul|Smart_P11|
 |TCT (Alcatel)|Smart Tab 7|Phoenix_7|9317X|
+|TCT (Alcatel)|Smart Tab 7|Phoenix_7|9317X1|
 |TCT (Alcatel)|Smartphone Android by SFR STARADDICT II|one_touch_996_gsm|Smartphone Android by SFR STARADDICT II|
 |TCT (Alcatel)|Smartphone Android by SFR STARADDICT II|one_touch_996_gsm|Smartphone_Android_by_SFR_STARADDICT_II|
 |TCT (Alcatel)|Sol|idol3|AM-H200|

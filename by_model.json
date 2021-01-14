@@ -23441,6 +23441,13 @@
    "device": "lefhd"
   }
  ],
+ "sti6130d353": [
+  {
+   "brand": "\"CHUBU TELECOMMUNICATIONS CO.",
+   "name": "INC\"",
+   "device": "STI6130d353"
+  }
+ ],
  "F750": [
   {
    "brand": "CILICO",
@@ -110346,7 +110353,7 @@
   },
   {
    "brand": "Mobvoi",
-   "name": "TicWatch Pro BT",
+   "name": "TicWatch Pro",
    "device": "catfish_ext"
   }
  ],
@@ -119167,7 +119174,7 @@
  "Box Q": [
   {
    "brand": "Nokia",
-   "name": "SEI600NK",
+   "name": "SEI600HM",
    "device": "HND"
   }
  ],
@@ -167751,6 +167758,13 @@
    "device": "HONG_KONG"
   }
  ],
+ "6125D": [
+  {
+   "brand": "TCL",
+   "name": "TCL 20E",
+   "device": "HONG_KONG"
+  }
+ ],
  "6125F": [
   {
    "brand": "TCL",
@@ -168094,6 +168108,13 @@
   }
  ],
  "9080G": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 10s 4G",
+   "device": "Odin"
+  }
+ ],
+ "9080X": [
   {
    "brand": "TCL",
    "name": "TCL TAB 10s 4G",
@@ -175677,6 +175698,13 @@
   }
  ],
  "9317X": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Smart Tab 7",
+   "device": "Phoenix_7"
+  }
+ ],
+ "9317X1": [
   {
    "brand": "TCT (Alcatel)",
    "name": "Smart Tab 7",

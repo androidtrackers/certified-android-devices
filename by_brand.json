@@ -16004,6 +16004,13 @@
    "model": "CHN-UCAN MJ"
   }
  ],
+ "\"CHUBU TELECOMMUNICATIONS CO.": [
+  {
+   "device": "STI6130d353",
+   "name": "INC\"",
+   "model": "sti6130d353"
+  }
+ ],
  "CHiQ": [
   {
    "device": "samseong",
@@ -81841,6 +81848,11 @@
    "model": "TicWatch Pro"
   },
   {
+   "device": "catfish_ext",
+   "name": "TicWatch Pro",
+   "model": "TicWatch Pro"
+  },
+  {
    "device": "rover",
    "name": "TicWatch Pro 3 Cellular/LTE",
    "model": "TicWatch Pro 3"
@@ -81854,11 +81866,6 @@
    "device": "catshark",
    "name": "TicWatch Pro 4G",
    "model": "TicWatch Pro 4G"
-  },
-  {
-   "device": "catfish_ext",
-   "name": "TicWatch Pro BT",
-   "model": "TicWatch Pro"
   },
   {
    "device": "catshark",
@@ -88855,7 +88862,7 @@
   },
   {
    "device": "HND",
-   "name": "SEI600NK",
+   "name": "SEI600HM",
    "model": "Box Q"
   }
  ],
@@ -126234,6 +126241,11 @@
   {
    "device": "HONG_KONG",
    "name": "TCL 20E",
+   "model": "6125D"
+  },
+  {
+   "device": "HONG_KONG",
+   "name": "TCL 20E",
    "model": "6125F"
   },
   {
@@ -126470,6 +126482,11 @@
    "device": "Odin",
    "name": "TCL TAB 10s 4G",
    "model": "9080G"
+  },
+  {
+   "device": "Odin",
+   "name": "TCL TAB 10s 4G",
+   "model": "9080X"
   },
   {
    "device": "Apollo_8_4G",
@@ -131942,6 +131959,11 @@
    "device": "Phoenix_7",
    "name": "Smart Tab 7",
    "model": "9317X"
+  },
+  {
+   "device": "Phoenix_7",
+   "name": "Smart Tab 7",
+   "model": "9317X1"
   },
   {
    "device": "one_touch_996_gsm",

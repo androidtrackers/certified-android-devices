@@ -29338,6 +29338,13 @@
    "model": "CHN-UCAN MJ"
   }
  ],
+ "INC\"": [
+  {
+   "brand": "\"CHUBU TELECOMMUNICATIONS CO.",
+   "device": "STI6130d353",
+   "model": "sti6130d353"
+  }
+ ],
  "H7A": [
   {
    "brand": "CHiQ",
@@ -85056,6 +85063,11 @@
    "brand": "TCT (Alcatel)",
    "device": "Phoenix_7",
    "model": "9317X"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Phoenix_7",
+   "model": "9317X1"
   }
  ],
  "TabGo Next Connect": [
@@ -108785,6 +108797,11 @@
    "brand": "Mobvoi",
    "device": "catfish",
    "model": "TicWatch Pro"
+  },
+  {
+   "brand": "Mobvoi",
+   "device": "catfish_ext",
+   "model": "TicWatch Pro"
   }
  ],
  "TicWatch Pro 3 Cellular/LTE": [
@@ -108806,13 +108823,6 @@
    "brand": "Mobvoi",
    "device": "catshark",
    "model": "TicWatch Pro 4G"
-  }
- ],
- "TicWatch Pro BT": [
-  {
-   "brand": "Mobvoi",
-   "device": "catfish_ext",
-   "model": "TicWatch Pro"
   }
  ],
  "Ticwatch Pro 4G": [
@@ -116813,7 +116823,7 @@
    "model": "Nokia X71"
   }
  ],
- "SEI600NK": [
+ "SEI600HM": [
   {
    "brand": "Nokia",
    "device": "HND",
@@ -160163,6 +160173,11 @@
   {
    "brand": "TCL",
    "device": "HONG_KONG",
+   "model": "6125D"
+  },
+  {
+   "brand": "TCL",
+   "device": "HONG_KONG",
    "model": "6125F"
   }
  ],
@@ -160449,6 +160464,11 @@
    "brand": "TCL",
    "device": "Odin",
    "model": "9080G"
+  },
+  {
+   "brand": "TCL",
+   "device": "Odin",
+   "model": "9080X"
   }
  ],
  "TCL TAB 8 4G": [
