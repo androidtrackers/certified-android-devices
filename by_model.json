@@ -6418,6 +6418,11 @@
    "brand": "AllView",
    "name": "Viva C703",
    "device": "Viva_C703"
+  },
+  {
+   "brand": "AllView",
+   "name": "Viva C703",
+   "device": "Viva_C703_Q"
   }
  ],
  "VivaH10LTE": [
@@ -31130,6 +31135,13 @@
    "device": "A340"
   }
  ],
+ "A345": [
+  {
+   "brand": "DEXP",
+   "name": "A345",
+   "device": "A345"
+  }
+ ],
  "AL140": [
   {
    "brand": "DEXP",
@@ -48206,6 +48218,13 @@
    "brand": "Google",
    "name": "Intel Gemini Lake Chromebook",
    "device": "octopus_cheets"
+  }
+ ],
+ "dedede": [
+  {
+   "brand": "Google",
+   "name": "Intel Jasper Lake Chromebook",
+   "device": "dedede_cheets"
   }
  ],
  "nami": [
@@ -103710,6 +103729,20 @@
    "device": "seocho"
   }
  ],
+ "Infiniton 4K Android TV": [
+  {
+   "brand": "MTC",
+   "name": "Infiniton",
+   "device": "bangbae"
+  }
+ ],
+ "Infiniton 2K Android TV": [
+  {
+   "brand": "MTC",
+   "name": "Infiniton",
+   "device": "komagome"
+  }
+ ],
  "SmartEver 4K Android TV": [
   {
    "brand": "MTC",
@@ -105316,6 +105349,13 @@
   }
  ],
  "1AZ2T": [
+  {
+   "brand": "Mediacom",
+   "name": "1AZ2T",
+   "device": "1AZ2T"
+  }
+ ],
+ "1AZ2TW": [
   {
    "brand": "Mediacom",
    "name": "1AZ2T",
@@ -110351,6 +110391,13 @@
    "name": "TicWatch Pro",
    "device": "catfish"
   },
+  {
+   "brand": "Mobvoi",
+   "name": "TicWatch Pro",
+   "device": "catfish_ext"
+  }
+ ],
+ "TicWatch Pro S": [
   {
    "brand": "Mobvoi",
    "name": "TicWatch Pro",
@@ -132832,6 +132879,13 @@
    "device": "L8_EEA"
   }
  ],
+ "M10_Air_EEA": [
+  {
+   "brand": "Pritom",
+   "name": "M10_Air_EEA",
+   "device": "M10_Air_EEA"
+  }
+ ],
  "M10_PLUS": [
   {
    "brand": "Pritom",
@@ -149805,6 +149859,118 @@
    "brand": "Samsung",
    "name": "Galaxy S20+ 5G",
    "device": "y2s"
+  }
+ ],
+ "SM-G9910": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 5G",
+   "device": "o1q"
+  }
+ ],
+ "SM-G991U1": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 5G",
+   "device": "o1q"
+  }
+ ],
+ "SM-G991W": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 5G",
+   "device": "o1q"
+  }
+ ],
+ "SM-G991B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 5G",
+   "device": "o1s"
+  }
+ ],
+ "SM-G991N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 5G",
+   "device": "o1s"
+  }
+ ],
+ "SM-G9980": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 Ultra 5G",
+   "device": "p3q"
+  }
+ ],
+ "SM-G998U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 Ultra 5G",
+   "device": "p3q"
+  }
+ ],
+ "SM-G998U1": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 Ultra 5G",
+   "device": "p3q"
+  }
+ ],
+ "SM-G998W": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 Ultra 5G",
+   "device": "p3q"
+  }
+ ],
+ "SM-G998B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 Ultra 5G",
+   "device": "p3s"
+  }
+ ],
+ "SM-G998N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 Ultra 5G",
+   "device": "p3s"
+  }
+ ],
+ "SM-G9960": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21+ 5G",
+   "device": "t2q"
+  }
+ ],
+ "SM-G996U1": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21+ 5G",
+   "device": "t2q"
+  }
+ ],
+ "SM-G996W": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21+ 5G",
+   "device": "t2q"
+  }
+ ],
+ "SM-G996B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21+ 5G",
+   "device": "t2s"
+  }
+ ],
+ "SM-G996N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21+ 5G",
+   "device": "t2s"
   }
  ],
  "SC-03E": [
@@ -176638,6 +176804,13 @@
    "device": "Phoenix_7_Kids"
   }
  ],
+ "9317G1": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "TKEE mini",
+   "device": "Phoenix_7_Kids"
+  }
+ ],
  "Telenor_Smart": [
   {
    "brand": "TCT (Alcatel)",
@@ -180345,6 +180518,13 @@
    "brand": "Telegenic",
    "name": "TELEGENIC-AML-1",
    "device": "DMTS19TIA"
+  }
+ ],
+ "TF_GZ5100": [
+  {
+   "brand": "Teleguard",
+   "name": "TF_GZ5100",
+   "device": "TF_GZ5100"
   }
  ],
  "TP-MDM107": [
@@ -190306,6 +190486,13 @@
    "brand": "Walton",
    "name": "Primo HM5",
    "device": "Primo_HM5"
+  }
+ ],
+ "Primo HM6": [
+  {
+   "brand": "Walton",
+   "name": "Primo HM6",
+   "device": "Primo_HM6"
   }
  ],
  "Primo N3": [

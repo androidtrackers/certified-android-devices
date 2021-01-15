@@ -3855,6 +3855,11 @@
    "model": "Viva_C703"
   },
   {
+   "device": "Viva_C703_Q",
+   "name": "Viva C703",
+   "model": "Viva_C703"
+  },
+  {
    "device": "Allview_VivaH10LTE_KK",
    "name": "Viva H10 LTE",
    "model": "VivaH10LTE"
@@ -21671,6 +21676,11 @@
    "model": "A340"
   },
   {
+   "device": "A345",
+   "name": "A345",
+   "model": "A345"
+  },
+  {
    "device": "AL140",
    "name": "AL140",
    "model": "AL140"
@@ -34271,6 +34281,11 @@
    "device": "octopus_cheets",
    "name": "Intel Gemini Lake Chromebook",
    "model": "octopus"
+  },
+  {
+   "device": "dedede_cheets",
+   "name": "Intel Jasper Lake Chromebook",
+   "model": "dedede"
   },
   {
    "device": "nami_cheets",
@@ -76716,6 +76731,16 @@
    "model": "Hansung 4K Android TV"
   },
   {
+   "device": "bangbae",
+   "name": "Infiniton",
+   "model": "Infiniton 4K Android TV"
+  },
+  {
+   "device": "komagome",
+   "name": "Infiniton",
+   "model": "Infiniton 2K Android TV"
+  },
+  {
    "device": "seocho",
    "name": "SmartEver",
    "model": "SmartEver 4K Android TV"
@@ -77995,6 +78020,11 @@
    "device": "1AZ2T",
    "name": "1AZ2T",
    "model": "1AZ2T"
+  },
+  {
+   "device": "1AZ2T",
+   "name": "1AZ2T",
+   "model": "1AZ2TW"
   },
   {
    "device": "1AZ",
@@ -81851,6 +81881,11 @@
    "device": "catfish_ext",
    "name": "TicWatch Pro",
    "model": "TicWatch Pro"
+  },
+  {
+   "device": "catfish_ext",
+   "name": "TicWatch Pro",
+   "model": "TicWatch Pro S"
   },
   {
    "device": "rover",
@@ -99577,6 +99612,11 @@
    "model": "L8_EEA"
   },
   {
+   "device": "M10_Air_EEA",
+   "name": "M10_Air_EEA",
+   "model": "M10_Air_EEA"
+  },
+  {
    "device": "M10_PLUS",
    "name": "M10_PLUS",
    "model": "M10_PLUS"
@@ -112389,6 +112429,86 @@
    "device": "y2s",
    "name": "Galaxy S20+ 5G",
    "model": "SM-G986B"
+  },
+  {
+   "device": "o1q",
+   "name": "Galaxy S21 5G",
+   "model": "SM-G9910"
+  },
+  {
+   "device": "o1q",
+   "name": "Galaxy S21 5G",
+   "model": "SM-G991U1"
+  },
+  {
+   "device": "o1q",
+   "name": "Galaxy S21 5G",
+   "model": "SM-G991W"
+  },
+  {
+   "device": "o1s",
+   "name": "Galaxy S21 5G",
+   "model": "SM-G991B"
+  },
+  {
+   "device": "o1s",
+   "name": "Galaxy S21 5G",
+   "model": "SM-G991N"
+  },
+  {
+   "device": "p3q",
+   "name": "Galaxy S21 Ultra 5G",
+   "model": "SM-G9980"
+  },
+  {
+   "device": "p3q",
+   "name": "Galaxy S21 Ultra 5G",
+   "model": "SM-G998U"
+  },
+  {
+   "device": "p3q",
+   "name": "Galaxy S21 Ultra 5G",
+   "model": "SM-G998U1"
+  },
+  {
+   "device": "p3q",
+   "name": "Galaxy S21 Ultra 5G",
+   "model": "SM-G998W"
+  },
+  {
+   "device": "p3s",
+   "name": "Galaxy S21 Ultra 5G",
+   "model": "SM-G998B"
+  },
+  {
+   "device": "p3s",
+   "name": "Galaxy S21 Ultra 5G",
+   "model": "SM-G998N"
+  },
+  {
+   "device": "t2q",
+   "name": "Galaxy S21+ 5G",
+   "model": "SM-G9960"
+  },
+  {
+   "device": "t2q",
+   "name": "Galaxy S21+ 5G",
+   "model": "SM-G996U1"
+  },
+  {
+   "device": "t2q",
+   "name": "Galaxy S21+ 5G",
+   "model": "SM-G996W"
+  },
+  {
+   "device": "t2s",
+   "name": "Galaxy S21+ 5G",
+   "model": "SM-G996B"
+  },
+  {
+   "device": "t2s",
+   "name": "Galaxy S21+ 5G",
+   "model": "SM-G996N"
   },
   {
    "device": "SC-03E",
@@ -132676,6 +132796,11 @@
    "model": "9317G"
   },
   {
+   "device": "Phoenix_7_Kids",
+   "name": "TKEE mini",
+   "model": "9317G1"
+  },
+  {
    "device": "one_touch_985_gsm",
    "name": "Telenor_Smart",
    "model": "Telenor_Smart"
@@ -135646,6 +135771,13 @@
    "device": "F8",
    "name": "F8",
    "model": "F8"
+  }
+ ],
+ "Teleguard": [
+  {
+   "device": "TF_GZ5100",
+   "name": "TF_GZ5100",
+   "model": "TF_GZ5100"
   }
  ],
  "Telelynx": [
@@ -143862,6 +143994,11 @@
    "device": "Primo_HM5",
    "name": "Primo HM5",
    "model": "Primo HM5"
+  },
+  {
+   "device": "Primo_HM6",
+   "name": "Primo HM6",
+   "model": "Primo HM6"
   },
   {
    "device": "Primo_N3",

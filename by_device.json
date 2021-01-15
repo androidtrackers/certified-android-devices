@@ -141,6 +141,11 @@
    "model": "MGS 2K Android TV"
   },
   {
+   "brand": "MTC",
+   "name": "Infiniton",
+   "model": "Infiniton 2K Android TV"
+  },
+  {
    "brand": "MarQ",
    "name": "MarQ",
    "model": "MarQ 2K Android TV"
@@ -1380,6 +1385,11 @@
    "brand": "Linsar",
    "name": "Linsar",
    "model": "Linsar 4K Android TV"
+  },
+  {
+   "brand": "MTC",
+   "name": "Infiniton",
+   "model": "Infiniton 4K Android TV"
   },
   {
    "brand": "MarQ",
@@ -6950,6 +6960,13 @@
   }
  ],
  "Viva_C703": [
+  {
+   "brand": "AllView",
+   "name": "Viva C703",
+   "model": "Viva_C703"
+  }
+ ],
+ "Viva_C703_Q": [
   {
    "brand": "AllView",
    "name": "Viva C703",
@@ -32428,6 +32445,13 @@
    "model": "A340"
   }
  ],
+ "A345": [
+  {
+   "brand": "DEXP",
+   "name": "A345",
+   "model": "A345"
+  }
+ ],
  "AL140": [
   {
    "brand": "DEXP",
@@ -49567,6 +49591,13 @@
    "brand": "Google",
    "name": "Intel Gemini Lake Chromebook",
    "model": "octopus"
+  }
+ ],
+ "dedede_cheets": [
+  {
+   "brand": "Google",
+   "name": "Intel Jasper Lake Chromebook",
+   "model": "dedede"
   }
  ],
  "nami_cheets": [
@@ -102278,6 +102309,11 @@
    "brand": "Mediacom",
    "name": "1AZ2T",
    "model": "1AZ2T"
+  },
+  {
+   "brand": "Mediacom",
+   "name": "1AZ2T",
+   "model": "1AZ2TW"
   }
  ],
  "1AZ": [
@@ -107311,6 +107347,11 @@
    "brand": "Mobvoi",
    "name": "TicWatch Pro",
    "model": "TicWatch Pro"
+  },
+  {
+   "brand": "Mobvoi",
+   "name": "TicWatch Pro",
+   "model": "TicWatch Pro S"
   }
  ],
  "rover": [
@@ -129278,6 +129319,13 @@
    "model": "L8_EEA"
   }
  ],
+ "M10_Air_EEA": [
+  {
+   "brand": "Pritom",
+   "name": "M10_Air_EEA",
+   "model": "M10_Air_EEA"
+  }
+ ],
  "M10_PLUS": [
   {
    "brand": "Pritom",
@@ -145055,6 +145103,98 @@
    "brand": "Samsung",
    "name": "Galaxy S20+ 5G",
    "model": "SM-G986W"
+  }
+ ],
+ "o1q": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 5G",
+   "model": "SM-G9910"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 5G",
+   "model": "SM-G991U1"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 5G",
+   "model": "SM-G991W"
+  }
+ ],
+ "o1s": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 5G",
+   "model": "SM-G991B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 5G",
+   "model": "SM-G991N"
+  }
+ ],
+ "p3q": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 Ultra 5G",
+   "model": "SM-G9980"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 Ultra 5G",
+   "model": "SM-G998U"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 Ultra 5G",
+   "model": "SM-G998U1"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 Ultra 5G",
+   "model": "SM-G998W"
+  }
+ ],
+ "p3s": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 Ultra 5G",
+   "model": "SM-G998B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 Ultra 5G",
+   "model": "SM-G998N"
+  }
+ ],
+ "t2q": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21+ 5G",
+   "model": "SM-G9960"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21+ 5G",
+   "model": "SM-G996U1"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21+ 5G",
+   "model": "SM-G996W"
+  }
+ ],
+ "t2s": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21+ 5G",
+   "model": "SM-G996B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21+ 5G",
+   "model": "SM-G996N"
   }
  ],
  "SC-03E": [
@@ -169515,6 +169655,11 @@
    "brand": "TCT (Alcatel)",
    "name": "TKEE mini",
    "model": "9317G"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "TKEE mini",
+   "model": "9317G1"
   }
  ],
  "U3_3G": [
@@ -172873,6 +173018,13 @@
    "brand": "Telegenic",
    "name": "TELEGENIC-AML-1",
    "model": "TELEGENIC-AML-1"
+  }
+ ],
+ "TF_GZ5100": [
+  {
+   "brand": "Teleguard",
+   "name": "TF_GZ5100",
+   "model": "TF_GZ5100"
   }
  ],
  "TP-MDM107": [
@@ -182570,6 +182722,13 @@
    "brand": "Walton",
    "name": "Primo HM5",
    "model": "Primo HM5"
+  }
+ ],
+ "Primo_HM6": [
+  {
+   "brand": "Walton",
+   "name": "Primo HM6",
+   "model": "Primo HM6"
   }
  ],
  "Primo_N3": [

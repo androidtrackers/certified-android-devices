@@ -11835,6 +11835,11 @@
    "brand": "AllView",
    "device": "Viva_C703",
    "model": "Viva_C703"
+  },
+  {
+   "brand": "AllView",
+   "device": "Viva_C703_Q",
+   "model": "Viva_C703"
   }
  ],
  "Viva H10 LTE": [
@@ -37109,6 +37114,13 @@
    "model": "A340"
   }
  ],
+ "A345": [
+  {
+   "brand": "DEXP",
+   "device": "A345",
+   "model": "A345"
+  }
+ ],
  "AL140": [
   {
    "brand": "DEXP",
@@ -54218,6 +54230,13 @@
    "brand": "Google",
    "device": "octopus_cheets",
    "model": "octopus"
+  }
+ ],
+ "Intel Jasper Lake Chromebook": [
+  {
+   "brand": "Google",
+   "device": "dedede_cheets",
+   "model": "dedede"
   }
  ],
  "Intel Kaby Lake U Chromebook": [
@@ -102595,6 +102614,18 @@
    "model": "Hansung 4K Android TV"
   }
  ],
+ "Infiniton": [
+  {
+   "brand": "MTC",
+   "device": "bangbae",
+   "model": "Infiniton 4K Android TV"
+  },
+  {
+   "brand": "MTC",
+   "device": "komagome",
+   "model": "Infiniton 2K Android TV"
+  }
+ ],
  "SmartEver": [
   {
    "brand": "MTC",
@@ -104147,6 +104178,11 @@
    "brand": "Mediacom",
    "device": "1AZ2T",
    "model": "1AZ2T"
+  },
+  {
+   "brand": "Mediacom",
+   "device": "1AZ2T",
+   "model": "1AZ2TW"
   }
  ],
  "1AZ_EEA": [
@@ -108802,6 +108838,11 @@
    "brand": "Mobvoi",
    "device": "catfish_ext",
    "model": "TicWatch Pro"
+  },
+  {
+   "brand": "Mobvoi",
+   "device": "catfish_ext",
+   "model": "TicWatch Pro S"
   }
  ],
  "TicWatch Pro 3 Cellular/LTE": [
@@ -129964,6 +130005,13 @@
    "model": "L8_EEA"
   }
  ],
+ "M10_Air_EEA": [
+  {
+   "brand": "Pritom",
+   "device": "M10_Air_EEA",
+   "model": "M10_Air_EEA"
+  }
+ ],
  "M10_PLUS": [
   {
    "brand": "Pritom",
@@ -144270,6 +144318,92 @@
    "brand": "Samsung",
    "device": "y2s",
    "model": "SM-G986B"
+  }
+ ],
+ "Galaxy S21 5G": [
+  {
+   "brand": "Samsung",
+   "device": "o1q",
+   "model": "SM-G9910"
+  },
+  {
+   "brand": "Samsung",
+   "device": "o1q",
+   "model": "SM-G991U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "o1q",
+   "model": "SM-G991W"
+  },
+  {
+   "brand": "Samsung",
+   "device": "o1s",
+   "model": "SM-G991B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "o1s",
+   "model": "SM-G991N"
+  }
+ ],
+ "Galaxy S21 Ultra 5G": [
+  {
+   "brand": "Samsung",
+   "device": "p3q",
+   "model": "SM-G9980"
+  },
+  {
+   "brand": "Samsung",
+   "device": "p3q",
+   "model": "SM-G998U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "p3q",
+   "model": "SM-G998U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "p3q",
+   "model": "SM-G998W"
+  },
+  {
+   "brand": "Samsung",
+   "device": "p3s",
+   "model": "SM-G998B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "p3s",
+   "model": "SM-G998N"
+  }
+ ],
+ "Galaxy S21+ 5G": [
+  {
+   "brand": "Samsung",
+   "device": "t2q",
+   "model": "SM-G9960"
+  },
+  {
+   "brand": "Samsung",
+   "device": "t2q",
+   "model": "SM-G996U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "t2q",
+   "model": "SM-G996W"
+  },
+  {
+   "brand": "Samsung",
+   "device": "t2s",
+   "model": "SM-G996B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "t2s",
+   "model": "SM-G996N"
   }
  ],
  "Galaxy S3": [
@@ -167115,6 +167249,11 @@
    "brand": "TCT (Alcatel)",
    "device": "Phoenix_7_Kids",
    "model": "9317G"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Phoenix_7_Kids",
+   "model": "9317G1"
   }
  ],
  "Telenor_Smart": [
@@ -170421,6 +170560,13 @@
    "brand": "Telegenic",
    "device": "DMTS19TIA",
    "model": "TELEGENIC-AML-1"
+  }
+ ],
+ "TF_GZ5100": [
+  {
+   "brand": "Teleguard",
+   "device": "TF_GZ5100",
+   "model": "TF_GZ5100"
   }
  ],
  "TP-MDM107": [
@@ -180290,6 +180436,13 @@
    "brand": "Walton",
    "device": "Primo_HM5",
    "model": "Primo HM5"
+  }
+ ],
+ "Primo HM6": [
+  {
+   "brand": "Walton",
+   "device": "Primo_HM6",
+   "model": "Primo HM6"
   }
  ],
  "Primo N3": [

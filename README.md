@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-01-14
+Last sync is 2021-01-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -743,6 +743,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|Viva C701|Viva_C701|Viva_C701|
 |AllView|Viva C702|Viva_C702|Viva_C702|
 |AllView|Viva C703|Viva_C703|Viva_C703|
+|AllView|Viva C703|Viva_C703_Q|Viva_C703|
 |AllView|Viva H10 LTE|Allview_VivaH10LTE_KK|VivaH10LTE|
 |AllView|Viva H1001 LTE|Viva_H1001_LTE|Viva_H1001_LTE|
 |AllView|Viva H1002 LTE|Viva_H1002_LTE|Viva_H1002_LTE|
@@ -4191,6 +4192,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|A240|A240|A240|
 |DEXP|A250|A250|A250|
 |DEXP|A340|A340|A340|
+|DEXP|A345|A345|A345|
 |DEXP|AL140|AL140|AL140|
 |DEXP|AL240|AL240|AL240|
 |DEXP|AL250|AL250|AL250|
@@ -6597,6 +6599,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Intel Braswell Chromebook|wizpig_cheets|Intel Braswell Chromebook|
 |Google|Intel Comet Lake U Chromebook|hatch_cheets|hatch|
 |Google|Intel Gemini Lake Chromebook|octopus_cheets|octopus|
+|Google|Intel Jasper Lake Chromebook|dedede_cheets|dedede|
 |Google|Intel Kaby Lake U Chromebook|nami_cheets|nami|
 |Google|Mediatek MT8173 Chromebook|jacuzzi_cheets|jacuzzi|
 |Google|Mediatek MT8183 Tablet|kukui_cheets|kukui|
@@ -14948,6 +14951,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MTC|982|MTC_982|MTC 982|
 |MTC|ENTV|seocho|ENTV 4K Android TV|
 |MTC|Hansung|seocho|Hansung 4K Android TV|
+|MTC|Infiniton|bangbae|Infiniton 4K Android TV|
+|MTC|Infiniton|komagome|Infiniton 2K Android TV|
 |MTC|SmartEver|seocho|SmartEver 4K Android TV|
 |MTC|Smart_Light|Smart_Light|Smart_Light|
 |MTC|Vodafone Smart mini|Vodafone_875|MTC 970H|
@@ -15187,6 +15192,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mediacom|1AEC|1AEC|1AEC|
 |Mediacom|1AY|1AY|1AY|
 |Mediacom|1AZ2T|1AZ2T|1AZ2T|
+|Mediacom|1AZ2T|1AZ2T|1AZ2TW|
 |Mediacom|1AZ_EEA|1AZ|1AZ_eea|
 |Mediacom|1BEC_eea|1BEC_eea|1BEC|
 |Mediacom|1BY|1BY|1BY|
@@ -15943,6 +15949,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobvoi|TicWatch E2/S2|tunny|TicWatch S2|
 |Mobvoi|TicWatch Pro|catfish|TicWatch Pro|
 |Mobvoi|TicWatch Pro|catfish_ext|TicWatch Pro|
+|Mobvoi|TicWatch Pro|catfish_ext|TicWatch Pro S|
 |Mobvoi|TicWatch Pro 3 Cellular/LTE|rover|TicWatch Pro 3|
 |Mobvoi|TicWatch Pro 3 GPS|rubyfish|TicWatch Pro 3 GPS|
 |Mobvoi|TicWatch Pro 4G|catshark|TicWatch Pro 4G|
@@ -19393,6 +19400,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|L10_PRO_EEA|L10_PRO_EEA|L10_PRO_EEA|
 |Pritom|L8|L8|L8|
 |Pritom|L8_EEA|L8_EEA|L8_EEA|
+|Pritom|M10_Air_EEA|M10_Air_EEA|M10_Air_EEA|
 |Pritom|M10_PLUS|M10_PLUS|M10_PLUS|
 |Pritom|M10_PLUS_EEA|M10_PLUS_EEA|M10_PLUS_EEA|
 |Pritom|M10_PRO|M10_PRO|M10_PRO|
@@ -21907,6 +21915,22 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S20+ 5G|y2q|SM-G986U1|
 |Samsung|Galaxy S20+ 5G|y2q|SM-G986W|
 |Samsung|Galaxy S20+ 5G|y2s|SM-G986B|
+|Samsung|Galaxy S21 5G|o1q|SM-G9910|
+|Samsung|Galaxy S21 5G|o1q|SM-G991U1|
+|Samsung|Galaxy S21 5G|o1q|SM-G991W|
+|Samsung|Galaxy S21 5G|o1s|SM-G991B|
+|Samsung|Galaxy S21 5G|o1s|SM-G991N|
+|Samsung|Galaxy S21 Ultra 5G|p3q|SM-G9980|
+|Samsung|Galaxy S21 Ultra 5G|p3q|SM-G998U|
+|Samsung|Galaxy S21 Ultra 5G|p3q|SM-G998U1|
+|Samsung|Galaxy S21 Ultra 5G|p3q|SM-G998W|
+|Samsung|Galaxy S21 Ultra 5G|p3s|SM-G998B|
+|Samsung|Galaxy S21 Ultra 5G|p3s|SM-G998N|
+|Samsung|Galaxy S21+ 5G|t2q|SM-G9960|
+|Samsung|Galaxy S21+ 5G|t2q|SM-G996U1|
+|Samsung|Galaxy S21+ 5G|t2q|SM-G996W|
+|Samsung|Galaxy S21+ 5G|t2s|SM-G996B|
+|Samsung|Galaxy S21+ 5G|t2s|SM-G996N|
 |Samsung|Galaxy S3|SC-03E|SC-03E|
 |Samsung|Galaxy S3|c1att|SGH-I748|
 |Samsung|Galaxy S3|c1ktt|SHV-E210K|
@@ -25912,6 +25936,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|TKEE MAX|Aquaman_10_Kids_WIFI|8095_RU|
 |TCT (Alcatel)|TKEE MAX|Aquaman_10_Kids_WIFI|8095_TR|
 |TCT (Alcatel)|TKEE mini|Phoenix_7_Kids|9317G|
+|TCT (Alcatel)|TKEE mini|Phoenix_7_Kids|9317G1|
 |TCT (Alcatel)|Telenor_Smart|one_touch_985_gsm|Telenor_Smart|
 |TCT (Alcatel)|Telenor_Smart_Mini|SOUL4|Telenor Smart Mini|
 |TCT (Alcatel)|Telstra Enhanced Tab 2|Aquaman_10_4G|8094X|
@@ -26480,6 +26505,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telegenic|TELEGENIC-AML-1|DMTS19TIA|TELEGENIC-AML-1|
 |Telego|F10|F10|F10|
 |Telego|F8|F8|F8|
+|Teleguard|TF_GZ5100|TF_GZ5100|TF_GZ5100|
 |Telelynx|TP-MDM107|TP-MDM107|TP-MDM107|
 |Telemor|T8408|Telemor_T8408|T8408|
 |Telemor|T9501|T9501|T9501|
@@ -28050,6 +28076,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|Primo HM4+|Primo_HM4_PLUS|Primo HM4+|
 |Walton|Primo HM4i|Primo_HM4i|Primo HM4i|
 |Walton|Primo HM5|Primo_HM5|Primo HM5|
+|Walton|Primo HM6|Primo_HM6|Primo HM6|
 |Walton|Primo N3|Primo_N3|Primo N3|
 |Walton|Primo N4|PRIMO_N4|PRIMO N4|
 |Walton|Primo NF3|Primo_NF3|Primo NF3|
