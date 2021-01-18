@@ -24248,6 +24248,13 @@
    "model": "C71"
   }
  ],
+ "C90": [
+  {
+   "brand": "CHAINWAY",
+   "name": "C90",
+   "model": "C90"
+  }
+ ],
  "P80": [
   {
    "brand": "CHAINWAY",
@@ -33011,6 +33018,13 @@
    "brand": "DEXP",
    "name": "H370",
    "model": "H370"
+  }
+ ],
+ "H410": [
+  {
+   "brand": "DEXP",
+   "name": "H410",
+   "model": "H410"
   }
  ],
  "M355": [
@@ -71566,6 +71580,25 @@
    "model": "L601F"
   }
  ],
+ "L604": [
+  {
+   "brand": "Hyundai",
+   "name": "L604",
+   "model": "L604"
+  },
+  {
+   "brand": "NYX Mobile",
+   "name": "L604",
+   "model": "L604"
+  }
+ ],
+ "L622": [
+  {
+   "brand": "Hyundai",
+   "name": "L622",
+   "model": "L622"
+  }
+ ],
  "Seoul_9": [
   {
    "brand": "Hyundai",
@@ -99809,6 +99842,20 @@
    "model": "M3SL10"
   }
  ],
+ "M3US20W": [
+  {
+   "brand": "M3 Mobile",
+   "name": "M3US20W_GLO",
+   "model": "M3US20W"
+  }
+ ],
+ "M3US20X": [
+  {
+   "brand": "M3 Mobile",
+   "name": "M3US20X_GLO",
+   "model": "M3US20X"
+  }
+ ],
  "M4_B1": [
   {
    "brand": "M4tel",
@@ -114056,13 +114103,6 @@
    "brand": "NYX Mobile",
    "name": "KiN",
    "model": "KiN"
-  }
- ],
- "L604": [
-  {
-   "brand": "NYX Mobile",
-   "name": "L604",
-   "model": "L604"
   }
  ],
  "NICKEL": [
@@ -133338,11 +133378,25 @@
    "model": "RD52"
   }
  ],
+ "RD15PQE": [
+  {
+   "brand": "Remdun",
+   "name": "RD15PQE",
+   "model": "RD15PQE"
+  }
+ ],
  "RD15QE": [
   {
    "brand": "Remdun",
    "name": "RD15QE",
    "model": "RD15QE"
+  }
+ ],
+ "RD16QE": [
+  {
+   "brand": "Remdun",
+   "name": "RD16QE",
+   "model": "RD16QE"
   }
  ],
  "RD51QE": [
@@ -162860,6 +162914,11 @@
    "brand": "TCL",
    "name": "TCL 20 Pro 5G",
    "model": "T810H"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL 20 Pro 5G",
+   "model": "T810S"
   }
  ],
  "Austin": [
@@ -175140,6 +175199,27 @@
    "model": "D7PRO"
   }
  ],
+ "UNIQCELL_A4": [
+  {
+   "brand": "UNIQ-CELL",
+   "name": "UNIQCELL_A4",
+   "model": "UNIQCELL_A4"
+  }
+ ],
+ "UNIQCELL_A5": [
+  {
+   "brand": "UNIQ-CELL",
+   "name": "UNIQCELL_A5",
+   "model": "UNIQCELL_A5"
+  }
+ ],
+ "UNIQCELL_A55": [
+  {
+   "brand": "UNIQ-CELL",
+   "name": "UNIQCELL_A55",
+   "model": "UNIQCELL_A55"
+  }
+ ],
  "UC_TK03": [
   {
    "brand": "UNNIC",
@@ -175732,6 +175812,13 @@
    "brand": "Umax",
    "name": "10A_LTE_eea",
    "model": "10A_LTE_eea"
+  }
+ ],
+ "10C-PRO-LTE": [
+  {
+   "brand": "Umax",
+   "name": "10C-PRO-LTE",
+   "model": "10C-PRO-LTE"
   }
  ],
  "10Qa_3G": [

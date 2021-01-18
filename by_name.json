@@ -29300,6 +29300,13 @@
    "model": "C71"
   }
  ],
+ "C90": [
+  {
+   "brand": "CHAINWAY",
+   "device": "C90",
+   "model": "C90"
+  }
+ ],
  "P80": [
   {
    "brand": "CHAINWAY",
@@ -37675,6 +37682,13 @@
    "brand": "DEXP",
    "device": "H370",
    "model": "H370"
+  }
+ ],
+ "H410": [
+  {
+   "brand": "DEXP",
+   "device": "H410",
+   "model": "H410"
   }
  ],
  "Ixion M355": [
@@ -75354,6 +75368,25 @@
    "model": "L601F"
   }
  ],
+ "L604": [
+  {
+   "brand": "Hyundai",
+   "device": "L604",
+   "model": "L604"
+  },
+  {
+   "brand": "NYX Mobile",
+   "device": "L604",
+   "model": "L604"
+  }
+ ],
+ "L622": [
+  {
+   "brand": "Hyundai",
+   "device": "L622",
+   "model": "L622"
+  }
+ ],
  "Seoul 9": [
   {
    "brand": "Hyundai",
@@ -101725,6 +101758,20 @@
    "model": "M3UL20X"
   }
  ],
+ "M3US20W_GLO": [
+  {
+   "brand": "M3 Mobile",
+   "device": "M3US20W",
+   "model": "M3US20W"
+  }
+ ],
+ "M3US20X_GLO": [
+  {
+   "brand": "M3 Mobile",
+   "device": "M3US20X",
+   "model": "M3US20X"
+  }
+ ],
  "M4 B1": [
   {
    "brand": "M4tel",
@@ -114891,13 +114938,6 @@
    "brand": "NYX Mobile",
    "device": "KiN",
    "model": "KiN"
-  }
- ],
- "L604": [
-  {
-   "brand": "NYX Mobile",
-   "device": "L604",
-   "model": "L604"
   }
  ],
  "NICKEL": [
@@ -134010,11 +134050,25 @@
    "model": "RD52"
   }
  ],
+ "RD15PQE": [
+  {
+   "brand": "Remdun",
+   "device": "RD15PQE",
+   "model": "RD15PQE"
+  }
+ ],
  "RD15QE": [
   {
    "brand": "Remdun",
    "device": "RD15QE",
    "model": "RD15QE"
+  }
+ ],
+ "RD16QE": [
+  {
+   "brand": "Remdun",
+   "device": "RD16QE",
+   "model": "RD16QE"
   }
  ],
  "RD51QE": [
@@ -160279,6 +160333,11 @@
    "brand": "TCL",
    "device": "Ottawa",
    "model": "T810H"
+  },
+  {
+   "brand": "TCL",
+   "device": "Ottawa",
+   "model": "T810S"
   }
  ],
  "TCL 20 SE": [
@@ -172764,6 +172823,27 @@
    "model": "D7PRO"
   }
  ],
+ "UNIQCELL_A4": [
+  {
+   "brand": "UNIQ-CELL",
+   "device": "UNIQCELL_A4",
+   "model": "UNIQCELL_A4"
+  }
+ ],
+ "UNIQCELL_A5": [
+  {
+   "brand": "UNIQ-CELL",
+   "device": "UNIQCELL_A5",
+   "model": "UNIQCELL_A5"
+  }
+ ],
+ "UNIQCELL_A55": [
+  {
+   "brand": "UNIQ-CELL",
+   "device": "UNIQCELL_A55",
+   "model": "UNIQCELL_A55"
+  }
+ ],
  "LED32HS72A9": [
   {
    "brand": "UNITED TV",
@@ -173376,6 +173456,13 @@
    "brand": "Umax",
    "device": "10A_LTE",
    "model": "10A_LTE_eea"
+  }
+ ],
+ "10C-PRO-LTE": [
+  {
+   "brand": "Umax",
+   "device": "10C-PRO-LTE",
+   "model": "10C-PRO-LTE"
   }
  ],
  "10Qa_3G": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-01-17
+Last sync is 2021-01-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3103,6 +3103,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CHAINWAY|C66|C66|C66|
 |CHAINWAY|C66_EEA|C66|C66|
 |CHAINWAY|C71|C71|C71|
+|CHAINWAY|C90|C90|C90|
 |CHAINWAY|P80|P80|P80|
 |CHAINWAY|P80_EEA|P80|P80|
 |CHCNAV|LT700|LT700|LT700|
@@ -4272,6 +4273,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|H270|H270|H270|
 |DEXP|H310|H310|H310|
 |DEXP|H370|H370|H370|
+|DEXP|H410|H410|H410|
 |DEXP|Ixion M355|M355|Ixion M355|
 |DEXP|Ixion ML350|ML350|Ixion ML350|
 |DEXP|Ixion ML450|ML450|ML450|
@@ -10361,6 +10363,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|L553|L553|L553|
 |Hyundai|L575|L575|L575|
 |Hyundai|L601F|L601F|L601F|
+|Hyundai|L604|L604|L604|
+|Hyundai|L622|L622|L622|
 |Hyundai|Seoul 9|Seoul_9|Seoul 9|
 |Hyundai|Seoul X|Seoul_X|Seoul X|
 |Hyundai|Seoul_S8|Seoul_S8|Seoul S8|
@@ -14821,6 +14825,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M3 Mobile|M3UL20F_EEA|M3UL20F|M3UL20F|
 |M3 Mobile|M3UL20W_EEA|M3UL20W|M3UL20W|
 |M3 Mobile|M3UL20X_EEA|M3UL20X|M3UL20X|
+|M3 Mobile|M3US20W_GLO|M3US20W|M3US20W|
+|M3 Mobile|M3US20X_GLO|M3US20X|M3US20X|
 |M4tel|M4 B1|M4_B1|M4_B1|
 |M4tel|M4 B2|M4_B2|M4_B2|
 |M4tel|M4 B3|M4_B3|M4_B3|
@@ -20045,7 +20051,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reliance|RC555L|RC555L|RC555L|
 |Reliance|Smartphone JS LS-5010|LS-5010|LS-5010|
 |Remdun|RD-52|RD52|RD52|
+|Remdun|RD15PQE|RD15PQE|RD15PQE|
 |Remdun|RD15QE|RD15QE|RD15QE|
+|Remdun|RD16QE|RD16QE|RD16QE|
 |Remdun|RD51QE|RD51QE|RD51QE|
 |Remdun|RD52E|RD52E|RD52E|
 |Remdun|RD62E|RD62E|RD62E|
@@ -24645,6 +24653,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 10L|T1_LITE|T770H|
 |TCL|TCL 20 5G|Irvine|T781|
 |TCL|TCL 20 Pro 5G|Ottawa|T810H|
+|TCL|TCL 20 Pro 5G|Ottawa|T810S|
 |TCL|TCL 20 SE|Austin|T671E|
 |TCL|TCL 20 SE|Austin|T671F|
 |TCL|TCL 20 SE|Austin|T671H|
@@ -26852,6 +26861,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |UNILORIN|UNI10IN|UNI10IN|UNI10IN|
 |UNIQ-CELL|D10|D10|D10|
 |UNIQ-CELL|D7PRO|D7PRO|D7PRO|
+|UNIQ-CELL|UNIQCELL_A4|UNIQCELL_A4|UNIQCELL_A4|
+|UNIQ-CELL|UNIQCELL_A5|UNIQCELL_A5|UNIQCELL_A5|
+|UNIQ-CELL|UNIQCELL_A55|UNIQCELL_A55|UNIQCELL_A55|
 |UNITED TV|LED32HS72A9|ikebukuro|AI PONT|
 |UNNIC|UC_TK03|UC_TK03|UC_TK03|
 |UNOCP|Premier|Premier|Premier|
@@ -26951,6 +26963,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Ulfone_S11|Ulefone_S11|Ulefone_S11|
 |Umax|10A_3G|10A_3G|10A_3G|
 |Umax|10A_LTE_eea|10A_LTE|10A_LTE_eea|
+|Umax|10C-PRO-LTE|10C-PRO-LTE|10C-PRO-LTE|
 |Umax|10Qa_3G|10Qa_3G|VisionBook_10Qa_3G|
 |Umax|7A_3G|7A_3G|7A_3G|
 |Umax|7A_Plus_eea|7A_Plus|7A_Plus|

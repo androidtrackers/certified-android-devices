@@ -15985,6 +15985,11 @@
    "model": "C71"
   },
   {
+   "device": "C90",
+   "name": "C90",
+   "model": "C90"
+  },
+  {
    "device": "P80",
    "name": "P80",
    "model": "P80"
@@ -22074,6 +22079,11 @@
    "device": "H370",
    "name": "H370",
    "model": "H370"
+  },
+  {
+   "device": "H410",
+   "name": "H410",
+   "model": "H410"
   },
   {
    "device": "M355",
@@ -53247,6 +53257,16 @@
    "model": "L601F"
   },
   {
+   "device": "L604",
+   "name": "L604",
+   "model": "L604"
+  },
+  {
+   "device": "L622",
+   "name": "L622",
+   "model": "L622"
+  },
+  {
    "device": "Seoul_9",
    "name": "Seoul 9",
    "model": "Seoul 9"
@@ -76019,6 +76039,16 @@
    "device": "M3UL20X",
    "name": "M3UL20X_EEA",
    "model": "M3UL20X"
+  },
+  {
+   "device": "M3US20W",
+   "name": "M3US20W_GLO",
+   "model": "M3US20W"
+  },
+  {
+   "device": "M3US20X",
+   "name": "M3US20X_GLO",
+   "model": "M3US20X"
   }
  ],
  "M4tel": [
@@ -102951,9 +102981,19 @@
    "model": "RD52"
   },
   {
+   "device": "RD15PQE",
+   "name": "RD15PQE",
+   "model": "RD15PQE"
+  },
+  {
    "device": "RD15QE",
    "name": "RD15QE",
    "model": "RD15QE"
+  },
+  {
+   "device": "RD16QE",
+   "name": "RD16QE",
+   "model": "RD16QE"
   },
   {
    "device": "RD51QE",
@@ -126339,6 +126379,11 @@
    "model": "T810H"
   },
   {
+   "device": "Ottawa",
+   "name": "TCL 20 Pro 5G",
+   "model": "T810S"
+  },
+  {
    "device": "Austin",
    "name": "TCL 20 SE",
    "model": "T671E"
@@ -137636,6 +137681,21 @@
    "device": "D7PRO",
    "name": "D7PRO",
    "model": "D7PRO"
+  },
+  {
+   "device": "UNIQCELL_A4",
+   "name": "UNIQCELL_A4",
+   "model": "UNIQCELL_A4"
+  },
+  {
+   "device": "UNIQCELL_A5",
+   "name": "UNIQCELL_A5",
+   "model": "UNIQCELL_A5"
+  },
+  {
+   "device": "UNIQCELL_A55",
+   "name": "UNIQCELL_A55",
+   "model": "UNIQCELL_A55"
   }
  ],
  "UNITED TV": [
@@ -138151,6 +138211,11 @@
    "device": "10A_LTE",
    "name": "10A_LTE_eea",
    "model": "10A_LTE_eea"
+  },
+  {
+   "device": "10C-PRO-LTE",
+   "name": "10C-PRO-LTE",
+   "model": "10C-PRO-LTE"
   },
   {
    "device": "10Qa_3G",
