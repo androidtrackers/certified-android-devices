@@ -883,6 +883,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "Itel",
+   "name": "G5524BE",
+   "model": "AI PONT"
+  },
+  {
    "brand": "JVC",
    "name": "LT-50KD507",
    "model": "AI PONT"
@@ -943,6 +948,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "TECO",
+   "name": "TL55U12TRE",
+   "model": "AI PONT"
+  },
+  {
    "brand": "Thomson",
    "name": "50TG7UA9X",
    "model": "AI PONT"
@@ -977,6 +987,11 @@
   {
    "brand": "Aiwa",
    "name": "AW-LED43GKF",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Alpha",
+   "name": "M8T",
    "model": "AI PONT"
   },
   {
@@ -1145,6 +1160,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "TECO",
+   "name": "K5T",
+   "model": "AI PONT"
+  },
+  {
    "brand": "Thomson",
    "name": "32TG6A9",
    "model": "AI PONT"
@@ -1157,6 +1177,11 @@
   {
    "brand": "VTCNOWRINDO",
    "name": "VR-42AF6800",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Vise",
+   "name": "32VRCHG5SP",
    "model": "AI PONT"
   },
   {
@@ -1580,6 +1605,195 @@
    "brand": "ASTCA",
    "name": "AA 787 S",
    "model": "AA 787 S"
+  }
+ ],
+ "tamachi": [
+  {
+   "brand": "ASTECH",
+   "name": "Senegal",
+   "model": "ASTECH FHD Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "EU",
+   "model": "BLAUPUNKT FHD Android TV"
+  },
+  {
+   "brand": "Contex",
+   "name": "Egypt",
+   "model": "AiPlus2K"
+  },
+  {
+   "brand": "Continental Edison",
+   "name": "France",
+   "model": "Continental Android TV"
+  },
+  {
+   "brand": "Estar",
+   "name": "Lithuania",
+   "model": "eSTAR FHD Android TV"
+  },
+  {
+   "brand": "F&U (Fandu)",
+   "name": "Greece",
+   "model": "F and U Android TV"
+  },
+  {
+   "brand": "Grunkel",
+   "name": "Spain",
+   "model": "GRUNKEL FHD Android TV"
+  },
+  {
+   "brand": "Inves",
+   "name": "Spain",
+   "model": "INVES FHD Android TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "france",
+   "model": "JVC 2K Android TV"
+  },
+  {
+   "brand": "LISTO",
+   "name": "Rumania",
+   "model": "LISTO Android TV"
+  },
+  {
+   "brand": "MULTYNET",
+   "name": "Pakistan",
+   "model": "MULTYNET FHD Android TV"
+  },
+  {
+   "brand": "Nano",
+   "name": "Thailand",
+   "model": "Nano FHD Android TV"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "name": "France",
+   "model": "AiPlus2K"
+  },
+  {
+   "brand": "Starlight",
+   "name": "Rumania",
+   "model": "STARLIGHT Android TV"
+  },
+  {
+   "brand": "Turbo-X",
+   "name": "Greece",
+   "model": "TURBO-X FHD Android TV"
+  },
+  {
+   "brand": "Vision",
+   "name": "Bangladesh",
+   "model": "Vision FHD Android TV"
+  }
+ ],
+ "yeongdeungpo": [
+  {
+   "brand": "ASTECH",
+   "name": "Senegal",
+   "model": "ASTECH UHD Android TV"
+  },
+  {
+   "brand": "CAIXUN",
+   "name": "Australian/EU",
+   "model": "AiPlus4K"
+  },
+  {
+   "brand": "CAIXUN",
+   "name": "Canada",
+   "model": "AiPlus4K"
+  },
+  {
+   "brand": "CAIXUN",
+   "name": "Malaysia",
+   "model": "AiPlus4KMY"
+  },
+  {
+   "brand": "CAIXUN",
+   "name": "USA",
+   "model": "AiPlus4K"
+  },
+  {
+   "brand": "Contex",
+   "name": "Egypt",
+   "model": "AiPlus4K"
+  },
+  {
+   "brand": "Continental Edison",
+   "name": "Continental Edison",
+   "model": "B UHD Android TV"
+  },
+  {
+   "brand": "Elitelux",
+   "name": "Australia",
+   "model": "AiPlus4K"
+  },
+  {
+   "brand": "F&U (Fandu)",
+   "name": "Greece",
+   "model": "F and U Android TV"
+  },
+  {
+   "brand": "Grunkel",
+   "name": "Spain",
+   "model": "GRUNKEL UHD Android TV"
+  },
+  {
+   "brand": "Inves",
+   "name": "Spain",
+   "model": "INVES UHD Android TV"
+  },
+  {
+   "brand": "MULTYNET",
+   "name": "Pakistan",
+   "model": "MULTYNET UHD Android TV"
+  },
+  {
+   "brand": "ORCA",
+   "name": "Kuwait",
+   "model": "ORCA UHD Android TV"
+  },
+  {
+   "brand": "OXYGEN (in)",
+   "name": "India",
+   "model": "OXYGEN UHD Android TV"
+  },
+  {
+   "brand": "Sansui",
+   "name": "Mexio",
+   "model": "AiPlus4K"
+  },
+  {
+   "brand": "Sansui TV",
+   "name": "Canada",
+   "model": "AiPlus4K"
+  },
+  {
+   "brand": "Sansui TV",
+   "name": "USA",
+   "model": "AiPlus4K"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "name": "SmartTech",
+   "model": "AiPlus4K"
+  },
+  {
+   "brand": "Starlight",
+   "name": "Rumania",
+   "model": "STARLIGHT Android TV"
+  },
+  {
+   "brand": "Turbo-X",
+   "name": "Greek and Bulgarian",
+   "model": "TURBO-X UHD Android TV"
+  },
+  {
+   "brand": "Widevu",
+   "name": "Korea",
+   "model": "Widevu UHD Android TV"
   }
  ],
  "IDEA": [
@@ -5562,6 +5776,13 @@
    "brand": "Aiwa",
    "name": "TA10-SO10",
    "model": "TA10-SO10"
+  }
+ ],
+ "TAB_1003G": [
+  {
+   "brand": "Aiwa",
+   "name": "TAB_1003G",
+   "model": "TAB_1003G"
   }
  ],
  "AIWA_Z9": [
@@ -20257,6 +20478,13 @@
    "model": "A60"
   }
  ],
+ "A60_2G": [
+  {
+   "brand": "Blackview",
+   "name": "A60",
+   "model": "A60"
+  }
+ ],
  "A60Plus": [
   {
    "brand": "Blackview",
@@ -20983,83 +21211,6 @@
    "brand": "Blaupunkt",
    "name": "Discovery_A10_302",
    "model": "Discovery_A10_302"
-  }
- ],
- "tamachi": [
-  {
-   "brand": "Blaupunkt",
-   "name": "EU",
-   "model": "BLAUPUNKT FHD Android TV"
-  },
-  {
-   "brand": "Contex",
-   "name": "Egypt",
-   "model": "AiPlus2K"
-  },
-  {
-   "brand": "Continental Edison",
-   "name": "France",
-   "model": "Continental Android TV"
-  },
-  {
-   "brand": "Estar",
-   "name": "Lithuania",
-   "model": "eSTAR FHD Android TV"
-  },
-  {
-   "brand": "F&U (Fandu)",
-   "name": "Greece",
-   "model": "F and U Android TV"
-  },
-  {
-   "brand": "Grunkel",
-   "name": "Spain",
-   "model": "GRUNKEL FHD Android TV"
-  },
-  {
-   "brand": "Inves",
-   "name": "Spain",
-   "model": "INVES FHD Android TV"
-  },
-  {
-   "brand": "JVC",
-   "name": "france",
-   "model": "JVC 2K Android TV"
-  },
-  {
-   "brand": "LISTO",
-   "name": "Rumania",
-   "model": "LISTO Android TV"
-  },
-  {
-   "brand": "MULTYNET",
-   "name": "Pakistan",
-   "model": "MULTYNET FHD Android TV"
-  },
-  {
-   "brand": "Nano",
-   "name": "Thailand",
-   "model": "Nano FHD Android TV"
-  },
-  {
-   "brand": "Smart-Tech TV",
-   "name": "France",
-   "model": "AiPlus2K"
-  },
-  {
-   "brand": "Starlight",
-   "name": "Rumania",
-   "model": "STARLIGHT Android TV"
-  },
-  {
-   "brand": "Turbo-X",
-   "name": "Greece",
-   "model": "TURBO-X FHD Android TV"
-  },
-  {
-   "brand": "Vision",
-   "name": "Bangladesh",
-   "model": "Vision FHD Android TV"
   }
  ],
  "Blaupunkt": [
@@ -23966,103 +24117,6 @@
    "model": "noa_G1"
   }
  ],
- "yeongdeungpo": [
-  {
-   "brand": "CAIXUN",
-   "name": "Australian/EU",
-   "model": "AiPlus4K"
-  },
-  {
-   "brand": "CAIXUN",
-   "name": "Canada",
-   "model": "AiPlus4K"
-  },
-  {
-   "brand": "CAIXUN",
-   "name": "Malaysia",
-   "model": "AiPlus4KMY"
-  },
-  {
-   "brand": "CAIXUN",
-   "name": "USA",
-   "model": "AiPlus4K"
-  },
-  {
-   "brand": "Contex",
-   "name": "Egypt",
-   "model": "AiPlus4K"
-  },
-  {
-   "brand": "Continental Edison",
-   "name": "Continental Edison",
-   "model": "B UHD Android TV"
-  },
-  {
-   "brand": "Elitelux",
-   "name": "Australia",
-   "model": "AiPlus4K"
-  },
-  {
-   "brand": "F&U (Fandu)",
-   "name": "Greece",
-   "model": "F and U Android TV"
-  },
-  {
-   "brand": "Grunkel",
-   "name": "Spain",
-   "model": "GRUNKEL UHD Android TV"
-  },
-  {
-   "brand": "Inves",
-   "name": "Spain",
-   "model": "INVES UHD Android TV"
-  },
-  {
-   "brand": "MULTYNET",
-   "name": "Pakistan",
-   "model": "MULTYNET UHD Android TV"
-  },
-  {
-   "brand": "ORCA",
-   "name": "Kuwait",
-   "model": "ORCA UHD Android TV"
-  },
-  {
-   "brand": "Sansui",
-   "name": "Mexio",
-   "model": "AiPlus4K"
-  },
-  {
-   "brand": "Sansui TV",
-   "name": "Canada",
-   "model": "AiPlus4K"
-  },
-  {
-   "brand": "Sansui TV",
-   "name": "USA",
-   "model": "AiPlus4K"
-  },
-  {
-   "brand": "Smart-Tech TV",
-   "name": "SmartTech",
-   "model": "AiPlus4K"
-  },
-  {
-   "brand": "Starlight",
-   "name": "Rumania",
-   "model": "STARLIGHT Android TV"
-  },
-  {
-   "brand": "Turbo-X",
-   "name": "Greek and Bulgarian",
-   "model": "TURBO-X UHD Android TV"
-  },
-  {
-   "brand": "Widevu",
-   "name": "Korea",
-   "model": "Widevu UHD Android TV"
-  }
- ],
  "LT5": [
   {
    "brand": "CALME",
@@ -24286,6 +24340,13 @@
    "brand": "\"CHUBU TELECOMMUNICATIONS CO.",
    "name": "INC\"",
    "model": "sti6130d353"
+  }
+ ],
+ "hapjeong": [
+  {
+   "brand": "CHiQ",
+   "name": "G7P",
+   "model": "AI PONT PLUS"
   }
  ],
  "F750": [
@@ -45781,6 +45842,13 @@
    "model": "Stella X"
   }
  ],
+ "Stella_X_Plus": [
+  {
+   "brand": "G-TOUCH",
+   "name": "Stella X Plus",
+   "model": "Stella X Plus"
+  }
+ ],
  "Stella_XS": [
   {
    "brand": "G-TOUCH",
@@ -58801,6 +58869,13 @@
   }
  ],
  "HLTE232E": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense E50",
+   "model": "Hisense E50"
+  }
+ ],
+ "HLTE232E_02": [
   {
    "brand": "Hisense",
    "name": "Hisense E50",
@@ -72308,6 +72383,13 @@
    "model": "IC_55"
   }
  ],
+ "IC_56": [
+  {
+   "brand": "ITOS",
+   "name": "IC_56_EEA",
+   "model": "IC_56"
+  }
+ ],
  "IC_61": [
   {
    "brand": "ITOS",
@@ -78835,6 +78917,13 @@
    "model": "KEMPLER_P1"
   }
  ],
+ "KEMPLER_P3": [
+  {
+   "brand": "KEMPLER STRAUSS",
+   "name": "KEMPLER_P3",
+   "model": "KEMPLER_P3"
+  }
+ ],
  "KEMPLER_X_TV": [
   {
    "brand": "KEMPLER STRAUSS",
@@ -78854,6 +78943,13 @@
    "brand": "KEMPLER STRAUSS",
    "name": "ZKEMPLER",
    "model": "ZKEMPLER"
+  }
+ ],
+ "K-S18": [
+  {
+   "brand": "KEP-Tech",
+   "name": "K-S18",
+   "model": "K-S18"
   }
  ],
  "BTA700": [
@@ -80645,6 +80741,13 @@
    "brand": "Kodak",
    "name": "KODAK_SMARTWAY_T2",
    "model": "KODAK_SMARTWAY_T2"
+  }
+ ],
+ "SMARTWAY_X2": [
+  {
+   "brand": "Kodak",
+   "name": "KODAK_SMARTWAY_X2",
+   "model": "KODAK_SMARTWAY_X2"
   }
  ],
  "Kodak_KD50": [
@@ -98239,6 +98342,13 @@
    "brand": "Logic Instrument",
    "name": "Logic Instrument Fieldbook N80",
    "model": "Logic Instrument Fieldbook N80"
+  }
+ ],
+ "LOGIC_L50": [
+  {
+   "brand": "Logic Mobility",
+   "name": "L50",
+   "model": "LOGIC L50"
   }
  ],
  "L55A": [
@@ -121327,6 +121437,13 @@
    "model": "WP1"
   }
  ],
+ "WP10": [
+  {
+   "brand": "Oukitel",
+   "name": "WP10",
+   "model": "WP10"
+  }
+ ],
  "WP2": [
   {
    "brand": "Oukitel",
@@ -133105,6 +133222,13 @@
    "brand": "Reeder",
    "name": "M10S",
    "model": "M10S"
+  }
+ ],
+ "M10SPlus": [
+  {
+   "brand": "Reeder",
+   "name": "M10SPlus",
+   "model": "M10SPlus"
   }
  ],
  "M10_Blue_Max": [
@@ -170111,6 +170235,20 @@
    "model": "Metal_Tablet_10"
   }
  ],
+ "MT-1011OF": [
+  {
+   "brand": "TJD(SZ)",
+   "name": "MT-1011OF",
+   "model": "MT-1011OF"
+  }
+ ],
+ "MT-715QR": [
+  {
+   "brand": "TJD(SZ)",
+   "name": "MT-715QR",
+   "model": "MT-715QR"
+  }
+ ],
  "LOGIC_X60_PLUS": [
   {
    "brand": "TM Cell",
@@ -184580,6 +184718,13 @@
    "model": "W-K560-TVM1G"
   }
  ],
+ "W-K610": [
+  {
+   "brand": "Wiko",
+   "name": "Y62",
+   "model": "W-K610-TVM"
+  }
+ ],
  "W-V720": [
   {
    "brand": "Wiko",
@@ -185289,6 +185434,13 @@
    "brand": "X-TIGI",
    "name": "Hope7_Max",
    "model": "Hope7 Max"
+  }
+ ],
+ "Hope8_LTE": [
+  {
+   "brand": "X-TIGI",
+   "name": "Hope8_LTE",
+   "model": "Hope8_LTE"
   }
  ],
  "JOY10_Mate": [
@@ -199726,6 +199878,13 @@
    "brand": "xTouch",
    "name": "XBot Junior",
    "model": "XBot Junior"
+  }
+ ],
+ "XP10_Wifi": [
+  {
+   "brand": "xTouch",
+   "name": "XP10_Wifi",
+   "model": "XP10_Wifi"
   }
  ],
  "XTouch_X": [
