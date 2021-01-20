@@ -49,138 +49,6 @@
    "model": "DIW387 1U1"
   }
  ],
- "komagome": [
-  {
-   "brand": "1&1",
-   "name": "EDENWOOD",
-   "model": "EDENWOOD 2K Android TV"
-  },
-  {
-   "brand": "Aconatic",
-   "name": "Aconatic",
-   "model": "Aconatic 2K Android TV"
-  },
-  {
-   "brand": "AllView",
-   "name": "Allview",
-   "model": "ALLVIEW 2K Android TV"
-  },
-  {
-   "brand": "Bauhn",
-   "name": "Bauhn",
-   "model": "BAUHN 2K Android TV"
-  },
-  {
-   "brand": "Blaupunkt",
-   "name": "Blaupunkt",
-   "model": "BLAUPUNKT 2K Android TV"
-  },
-  {
-   "brand": "Continential",
-   "name": "Edison-Continential",
-   "model": "Continental 2K Android TV"
-  },
-  {
-   "brand": "Dual",
-   "name": "Dual",
-   "model": "Dual 2K Android TV"
-  },
-  {
-   "brand": "Dyon",
-   "name": "Dyon",
-   "model": "Dyon 2K Android TV"
-  },
-  {
-   "brand": "EKO",
-   "name": "EKO",
-   "model": "EKO 2K Android TV"
-  },
-  {
-   "brand": "ELEXIA",
-   "name": "ELEXIA",
-   "model": "ELEXIA 2K Android TV"
-  },
-  {
-   "brand": "GABA",
-   "name": "GABA",
-   "model": "GABA 2K Android TV"
-  },
-  {
-   "brand": "Hitachi",
-   "name": "Hitachi",
-   "model": "Hitachi 2K Android TV"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "Hyundai",
-   "model": "Hyundai 2K Android TV"
-  },
-  {
-   "brand": "JVC",
-   "name": "JVC",
-   "model": "EU 2K Android TV"
-  },
-  {
-   "brand": "JVC",
-   "name": "JVC",
-   "model": "JVC EU 2K Android TV"
-  },
-  {
-   "brand": "Kivi",
-   "name": "KIVI",
-   "model": "KIVI 2K Android TV"
-  },
-  {
-   "brand": "Linsar",
-   "name": "Linsar",
-   "model": "Linsar 2K Android TV"
-  },
-  {
-   "brand": "MGS",
-   "name": "MGS",
-   "model": "MGS 2K Android TV"
-  },
-  {
-   "brand": "MTC",
-   "name": "Infiniton",
-   "model": "Infiniton 2K Android TV"
-  },
-  {
-   "brand": "MarQ",
-   "name": "MarQ",
-   "model": "MarQ 2K Android TV"
-  },
-  {
-   "brand": "Polaroid",
-   "name": "Polaroid",
-   "model": "Polaroid 2K Android TV"
-  },
-  {
-   "brand": "QBell",
-   "name": "QBell",
-   "model": "QBell 2K Android TV"
-  },
-  {
-   "brand": "SCHNEIDER",
-   "name": "SCHNEIDER",
-   "model": "SCHNEIDER 2K Android TV"
-  },
-  {
-   "brand": "Strong",
-   "name": "Strong",
-   "model": "Strong 2K Android TV"
-  },
-  {
-   "brand": "Yasin",
-   "name": "YASIN",
-   "model": "YASIN 2K Android TV"
-  },
-  {
-   "brand": "Zephir",
-   "name": "Zephir",
-   "model": "Zephir 2K Android TV"
-  }
- ],
  "G2": [
   {
    "brand": "10.or",
@@ -4067,6 +3935,138 @@
    "model": "R726"
   }
  ],
+ "komagome": [
+  {
+   "brand": "Aconatic",
+   "name": "Aconatic",
+   "model": "Aconatic 2K Android TV"
+  },
+  {
+   "brand": "AllView",
+   "name": "Allview",
+   "model": "ALLVIEW 2K Android TV"
+  },
+  {
+   "brand": "Bauhn",
+   "name": "Bauhn",
+   "model": "BAUHN 2K Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "Blaupunkt",
+   "model": "BLAUPUNKT 2K Android TV"
+  },
+  {
+   "brand": "Continential",
+   "name": "Edison-Continential",
+   "model": "Continental 2K Android TV"
+  },
+  {
+   "brand": "Dual",
+   "name": "Dual",
+   "model": "Dual 2K Android TV"
+  },
+  {
+   "brand": "Dyon",
+   "name": "Dyon",
+   "model": "Dyon 2K Android TV"
+  },
+  {
+   "brand": "EDENWOOD",
+   "name": "EDENWOOD",
+   "model": "EDENWOOD 2K Android TV"
+  },
+  {
+   "brand": "EKO",
+   "name": "EKO",
+   "model": "EKO 2K Android TV"
+  },
+  {
+   "brand": "ELEXIA",
+   "name": "ELEXIA",
+   "model": "ELEXIA 2K Android TV"
+  },
+  {
+   "brand": "GABA",
+   "name": "GABA",
+   "model": "GABA 2K Android TV"
+  },
+  {
+   "brand": "Hitachi",
+   "name": "Hitachi",
+   "model": "Hitachi 2K Android TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Hyundai",
+   "model": "Hyundai 2K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "EU 2K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "JVC EU 2K Android TV"
+  },
+  {
+   "brand": "Kivi",
+   "name": "KIVI",
+   "model": "KIVI 2K Android TV"
+  },
+  {
+   "brand": "Linsar",
+   "name": "Linsar",
+   "model": "Linsar 2K Android TV"
+  },
+  {
+   "brand": "MGS",
+   "name": "MGS",
+   "model": "MGS 2K Android TV"
+  },
+  {
+   "brand": "MTC",
+   "name": "Infiniton",
+   "model": "Infiniton 2K Android TV"
+  },
+  {
+   "brand": "MarQ",
+   "name": "MarQ",
+   "model": "MarQ 2K Android TV"
+  },
+  {
+   "brand": "Polaroid",
+   "name": "Polaroid",
+   "model": "Polaroid 2K Android TV"
+  },
+  {
+   "brand": "QBell",
+   "name": "QBell",
+   "model": "QBell 2K Android TV"
+  },
+  {
+   "brand": "SCHNEIDER",
+   "name": "SCHNEIDER",
+   "model": "SCHNEIDER 2K Android TV"
+  },
+  {
+   "brand": "Strong",
+   "name": "Strong",
+   "model": "Strong 2K Android TV"
+  },
+  {
+   "brand": "Yasin",
+   "name": "YASIN",
+   "model": "YASIN 2K Android TV"
+  },
+  {
+   "brand": "Zephir",
+   "name": "Zephir",
+   "model": "Zephir 2K Android TV"
+  }
+ ],
  "R1": [
   {
    "brand": "Aconatic",
@@ -6545,6 +6545,28 @@
    "brand": "AllView",
    "name": "A9 Lite",
    "model": "A9_Lite"
+  }
+ ],
+ "SW4H_FF": [
+  {
+   "brand": "AllView",
+   "name": "ALLVIEW 4K TV",
+   "model": "ALLVIEW 4K TV"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "4KTV-0SUF",
+   "model": "4KTV-0SUF"
+  },
+  {
+   "brand": "Realme",
+   "name": "realme Smart TV",
+   "model": "realme Smart TV"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-20AE-PRO",
+   "model": "SWTV-20AE-PRO"
   }
  ],
  "AX4Nano_plus": [
@@ -17728,6 +17750,13 @@
    "model": "Speed 5"
   }
  ],
+ "Bmobile_T70": [
+  {
+   "brand": "BMobile",
+   "name": "T70",
+   "model": "Bmobile_T70"
+  }
+ ],
  "Bmobile_X10_MV03": [
   {
    "brand": "BMobile",
@@ -24274,6 +24303,13 @@
    "brand": "CGV (France)",
    "name": "Ultimate T8",
    "model": "CGV_Ultimate T8"
+  }
+ ],
+ "C6000": [
+  {
+   "brand": "CHAINWAY",
+   "name": "C6000",
+   "model": "C6000"
   }
  ],
  "C61": [
@@ -42868,6 +42904,13 @@
    "brand": "Fiesta Duo",
    "name": "iX",
    "model": "iX"
+  }
+ ],
+ "Figgers_DragonX": [
+  {
+   "brand": "Figgers",
+   "name": "Figgers DragonX",
+   "model": "Figgers DragonX"
   }
  ],
  "Figgers_F3": [
@@ -102321,6 +102364,13 @@
    "model": "800P71D"
   }
  ],
+ "DX10-66": [
+  {
+   "brand": "Mecer",
+   "name": "DX10-66",
+   "model": "DX10-66"
+  }
+ ],
  "M17QF6_3G": [
   {
    "brand": "Mecer",
@@ -122141,23 +122191,6 @@
    "model": "48AX600C"
   }
  ],
- "SW4H_FF": [
-  {
-   "brand": "Panasonic",
-   "name": "4KTV-0SUF",
-   "model": "4KTV-0SUF"
-  },
-  {
-   "brand": "Realme",
-   "name": "realme Smart TV",
-   "model": "realme Smart TV"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-20AE-PRO",
-   "model": "SWTV-20AE-PRO"
-  }
- ],
  "mst918_4k2k": [
   {
    "brand": "Panasonic",
@@ -136747,6 +136780,18 @@
    "model": "SM-A315N"
   }
  ],
+ "a32x": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A32 5G",
+   "model": "SM-A326B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A32 5G",
+   "model": "SM-A326BR"
+  }
+ ],
  "a40": [
   {
    "brand": "Samsung",
@@ -139214,6 +139259,13 @@
    "model": "SM-G3815"
   }
  ],
+ "f12": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy F12",
+   "model": "SM-F127G"
+  }
+ ],
  "f41": [
   {
    "brand": "Samsung",
@@ -141677,6 +141729,18 @@
    "brand": "Samsung",
    "name": "Galaxy M11",
    "model": "SM-M115M"
+  }
+ ],
+ "m12": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M12",
+   "model": "SM-M127F"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M12",
+   "model": "SM-M127G"
   }
  ],
  "m20": [
@@ -163121,6 +163185,48 @@
    "model": "T773O"
   }
  ],
+ "Hong_Kong_Pro": [
+  {
+   "brand": "TCL",
+   "name": "TCL 20Y",
+   "model": "6156A"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3L",
+   "model": "6056A"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3L",
+   "model": "6056D"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3L",
+   "model": "6056D_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3L",
+   "model": "6056D_RU"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3L",
+   "model": "6056H"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3L",
+   "model": "6056H_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 3L",
+   "model": "6056H_RU"
+  }
+ ],
  "A3A": [
   {
    "brand": "TCL",
@@ -167999,43 +168105,6 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 3L",
    "model": "HEYOU50"
-  }
- ],
- "Hong_Kong_Pro": [
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "Alcatel 3L",
-   "model": "6056A"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "Alcatel 3L",
-   "model": "6056D"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "Alcatel 3L",
-   "model": "6056D_EEA"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "Alcatel 3L",
-   "model": "6056D_RU"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "Alcatel 3L",
-   "model": "6056H"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "Alcatel 3L",
-   "model": "6056H_EEA"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "Alcatel 3L",
-   "model": "6056H_RU"
   }
  ],
  "Morgan_4G": [
@@ -197727,6 +197796,13 @@
    "brand": "efioo",
    "name": "efiootabn7a",
    "model": "Tab N7a"
+  }
+ ],
+ "lifetabplus": [
+  {
+   "brand": "fplus",
+   "name": "Life Tab Plus",
+   "model": "LifeTabPlus"
   }
  ],
  "JT10-X": [

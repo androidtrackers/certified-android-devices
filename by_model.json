@@ -54,13 +54,6 @@
    "device": "diw387_1u1"
   }
  ],
- "EDENWOOD 2K Android TV": [
-  {
-   "brand": "1&1",
-   "name": "EDENWOOD",
-   "device": "komagome"
-  }
- ],
  "10or G2": [
   {
    "brand": "10.or",
@@ -5781,6 +5774,13 @@
    "brand": "AllView",
    "name": "ALLVIEW",
    "device": "bangbae"
+  }
+ ],
+ "ALLVIEW 4K TV": [
+  {
+   "brand": "AllView",
+   "name": "ALLVIEW 4K TV",
+   "device": "SW4H_FF"
   }
  ],
  "AX4Nano_plus": [
@@ -16432,6 +16432,13 @@
    "device": "Bmobile_SPEED5"
   }
  ],
+ "Bmobile_T70": [
+  {
+   "brand": "BMobile",
+   "name": "T70",
+   "device": "Bmobile_T70"
+  }
+ ],
  "X10": [
   {
    "brand": "BMobile",
@@ -23438,6 +23445,13 @@
    "brand": "CGV (France)",
    "name": "Ultimate T8",
    "device": "Ultimate_T8"
+  }
+ ],
+ "C6000": [
+  {
+   "brand": "CHAINWAY",
+   "name": "C6000",
+   "device": "C6000"
   }
  ],
  "C61": [
@@ -37049,6 +37063,13 @@
    "device": "TU10MK_3"
   }
  ],
+ "EDENWOOD 2K Android TV": [
+  {
+   "brand": "EDENWOOD",
+   "name": "EDENWOOD",
+   "device": "komagome"
+  }
+ ],
  "E6": [
   {
    "brand": "EKINOX",
@@ -41224,6 +41245,13 @@
    "brand": "Fiesta Duo",
    "name": "iX",
    "device": "iX"
+  }
+ ],
+ "Figgers DragonX": [
+  {
+   "brand": "Figgers",
+   "name": "Figgers DragonX",
+   "device": "Figgers_DragonX"
   }
  ],
  "Figgers F3": [
@@ -105360,6 +105388,13 @@
    "device": "800P71D"
   }
  ],
+ "DX10-66": [
+  {
+   "brand": "Mecer",
+   "name": "DX10-66",
+   "device": "DX10-66"
+  }
+ ],
  "M17QF6_3G": [
   {
    "brand": "Mecer",
@@ -140745,6 +140780,20 @@
    "device": "a31"
   }
  ],
+ "SM-A326B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A32 5G",
+   "device": "a32x"
+  }
+ ],
+ "SM-A326BR": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A32 5G",
+   "device": "a32x"
+  }
+ ],
  "SM-A405FM": [
   {
    "brand": "Samsung",
@@ -143504,6 +143553,13 @@
    "device": "wilcoxlte"
   }
  ],
+ "SM-F127G": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy F12",
+   "device": "f12"
+  }
+ ],
  "SM-F415F": [
   {
    "brand": "Samsung",
@@ -146202,6 +146258,20 @@
    "brand": "Samsung",
    "name": "Galaxy M11",
    "device": "m11q"
+  }
+ ],
+ "SM-M127F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M12",
+   "device": "m12"
+  }
+ ],
+ "SM-M127G": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M12",
+   "device": "m12"
   }
  ],
  "SM-M205N": [
@@ -168130,6 +168200,13 @@
    "brand": "TCL",
    "name": "TCL 20S",
    "device": "Miami_Pro"
+  }
+ ],
+ "6156A": [
+  {
+   "brand": "TCL",
+   "name": "TCL 20Y",
+   "device": "Hong_Kong_Pro"
   }
  ],
  "5152D": [
@@ -207325,6 +207402,13 @@
    "brand": "efioo",
    "name": "efiootabn7a",
    "device": "efiootabn7a"
+  }
+ ],
+ "LifeTabPlus": [
+  {
+   "brand": "fplus",
+   "name": "Life Tab Plus",
+   "device": "lifetabplus"
   }
  ],
  "JT10-X": [

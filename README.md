@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-01-19
+Last sync is 2021-01-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11,7 +11,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |1&1|1&1 Puck|diw362_1u1|DIW362P 1U1|
 |1&1|1&1 TV Box|diw387_1u1|DIW387 1U1|
 |1&1|DIW387-1&1|diw387_1u1|DIW387 1U1|
-|1&1|EDENWOOD|komagome|EDENWOOD 2K Android TV|
 |10.or|10or_G2|G2|10or G2|
 |10.or|D|10or_D|D|
 |10.or|E|E|E|
@@ -651,6 +650,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|A9  Plus|A9_Plus|A9_Plus|
 |AllView|A9 Lite|A9_Lite|A9_Lite|
 |AllView|ALLVIEW|bangbae|ALLVIEW 4K Android TV|
+|AllView|ALLVIEW 4K TV|SW4H_FF|ALLVIEW 4K TV|
 |AllView|AX4 Nano Plus|AX4Nano_plus|AX4Nano_plus|
 |AllView|AX501Q|AX501Q|AX501Q|
 |AllView|AX502|AX502|AX502|
@@ -2169,6 +2169,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|Bmoblie AX683|Bmobile_AX683_MV04|AX683|
 |BMobile|FUN 4|Bmobile_FUN_4_2018|FUN 4 2018|
 |BMobile|Speed 5|Bmobile_SPEED5|Speed 5|
+|BMobile|T70|Bmobile_T70|Bmobile_T70|
 |BMobile|X10|Bmobile_X10_MV03|X10|
 |BMobile|X11|Bmobile_X11|Bmobile X11|
 |BPL|A4300|ikebukuro|AI PONT|
@@ -3104,6 +3105,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CG Mobile|OMEGA 8|CG_Omega_8|Omega 8|
 |CG Mobile|Omega6|OMEGA6|CG_OMEGA6|
 |CGV (France)|Ultimate T8|Ultimate_T8|CGV_Ultimate T8|
+|CHAINWAY|C6000|C6000|C6000|
 |CHAINWAY|C61|C61|C61|
 |CHAINWAY|C66|C66|C66|
 |CHAINWAY|C66_EEA|C66|C66|
@@ -5038,6 +5040,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ECS|TR10RS1|TR10RS1_19|TR10RS1|
 |ECS|TR10RS1|TR10RS1_2|TR10RS1|
 |ECS|TU10MK|TU10MK_3|TU10MK|
+|EDENWOOD|EDENWOOD|komagome|EDENWOOD 2K Android TV|
 |EKINOX|E6|E6|E6|
 |EKINOX|E8_Ultra|E8_Ultra|E8_Ultra|
 |EKINOX|G1|G1|G1|
@@ -5626,6 +5629,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FieldBio|FieldBio_500|FieldBio_500|FieldBio_500|
 |Fiesta Duo|S6|S6|S6|
 |Fiesta Duo|iX|iX|iX|
+|Figgers|Figgers DragonX|Figgers_DragonX|Figgers DragonX|
 |Figgers|Figgers F3|Figgers_F3|Figgers F3|
 |Figi|FIGI Fone|Fone|Fone|
 |Figi|FIGI Ftwo|Ftwo|Ftwo|
@@ -15188,6 +15192,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mecer|101P51D|101P51D|101P51D|
 |Mecer|800P31C|800P31C|800P31C|
 |Mecer|800P71D|800P71D|800P71D|
+|Mecer|DX10-66|DX10-66|DX10-66|
 |Mecer|M17QF6_3G|M17QF6_3G|M17QF6_3G|
 |Mecer|M17QF6_4G|M17QF6_4G|M17QF6_4G|
 |Mecer|M76QF6|M76QF6|M76QF6|
@@ -20593,6 +20598,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A31|a31|SM-A315F|
 |Samsung|Galaxy A31|a31|SM-A315G|
 |Samsung|Galaxy A31|a31|SM-A315N|
+|Samsung|Galaxy A32 5G|a32x|SM-A326B|
+|Samsung|Galaxy A32 5G|a32x|SM-A326BR|
 |Samsung|Galaxy A40|a40|SM-A405FM|
 |Samsung|Galaxy A40|a40|SM-A405FN|
 |Samsung|Galaxy A40|a40|SM-A405S|
@@ -20990,6 +20997,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Express|expresslte|GT-I8730T|
 |Samsung|Galaxy Express|expressziglteatt|SAMSUNG-SGH-I437Z|
 |Samsung|Galaxy Express2|wilcoxlte|SM-G3815|
+|Samsung|Galaxy F12|f12|SM-F127G|
 |Samsung|Galaxy F41|f41|SM-F415F|
 |Samsung|Galaxy Fame|SCH-I629|SCH-I629|
 |Samsung|Galaxy Fame|nevis|GT-S6810|
@@ -21376,6 +21384,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M10s|m10s|SM-M107F|
 |Samsung|Galaxy M11|m11q|SM-M115F|
 |Samsung|Galaxy M11|m11q|SM-M115M|
+|Samsung|Galaxy M12|m12|SM-M127F|
+|Samsung|Galaxy M12|m12|SM-M127G|
 |Samsung|Galaxy M20|m20|SM-M205N|
 |Samsung|Galaxy M20|m20lte|SM-M205F|
 |Samsung|Galaxy M20|m20lte|SM-M205FN|
@@ -24678,6 +24688,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 20E|HONG_KONG|6125D|
 |TCL|TCL 20E|HONG_KONG|6125F|
 |TCL|TCL 20S|Miami_Pro|T773O|
+|TCL|TCL 20Y|Hong_Kong_Pro|6156A|
 |TCL|TCL C5|A3A|5152D|
 |TCL|TCL C5|Gauss|5153A|
 |TCL|TCL C5|Gauss|5153K|
@@ -30694,6 +30705,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ecom|Smart-Ex02|Smart-Ex02|Smart-Ex 02 RUS|
 |ecom|Smart-Ex02|Smart-Ex02|Smart-Ex02 ROW|
 |efioo|efiootabn7a|efiootabn7a|Tab N7a|
+|fplus|Life Tab Plus|lifetabplus|LifeTabPlus|
 |geaneePro|JT10-X|JT10-X|JT10-X|
 |geaneePro|JT70-X|JT07-X|JT07-X|
 |halotel|H8502|H8502|H8502|

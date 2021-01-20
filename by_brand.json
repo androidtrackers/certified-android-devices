@@ -31,11 +31,6 @@
    "device": "diw387_1u1",
    "name": "DIW387-1&1",
    "model": "DIW387 1U1"
-  },
-  {
-   "device": "komagome",
-   "name": "EDENWOOD",
-   "model": "EDENWOOD 2K Android TV"
   }
  ],
  "10.or": [
@@ -3395,6 +3390,11 @@
    "device": "bangbae",
    "name": "ALLVIEW",
    "model": "ALLVIEW 4K Android TV"
+  },
+  {
+   "device": "SW4H_FF",
+   "name": "ALLVIEW 4K TV",
+   "model": "ALLVIEW 4K TV"
   },
   {
    "device": "AX4Nano_plus",
@@ -11133,6 +11133,11 @@
    "model": "Speed 5"
   },
   {
+   "device": "Bmobile_T70",
+   "name": "T70",
+   "model": "Bmobile_T70"
+  },
+  {
    "device": "Bmobile_X10_MV03",
    "name": "X10",
    "model": "X10"
@@ -15991,6 +15996,11 @@
   }
  ],
  "CHAINWAY": [
+  {
+   "device": "C6000",
+   "name": "C6000",
+   "model": "C6000"
+  },
   {
    "device": "C61",
    "name": "C61",
@@ -26082,6 +26092,13 @@
    "model": "TU10MK"
   }
  ],
+ "EDENWOOD": [
+  {
+   "device": "komagome",
+   "name": "EDENWOOD",
+   "model": "EDENWOOD 2K Android TV"
+  }
+ ],
  "EKINOX": [
   {
    "device": "E6",
@@ -29225,6 +29242,11 @@
   }
  ],
  "Figgers": [
+  {
+   "device": "Figgers_DragonX",
+   "name": "Figgers DragonX",
+   "model": "Figgers DragonX"
+  },
   {
    "device": "Figgers_F3",
    "name": "Figgers F3",
@@ -78000,6 +78022,11 @@
    "model": "800P71D"
   },
   {
+   "device": "DX10-66",
+   "name": "DX10-66",
+   "model": "DX10-66"
+  },
+  {
    "device": "M17QF6_3G",
    "name": "M17QF6_3G",
    "model": "M17QF6_3G"
@@ -105827,6 +105854,16 @@
    "model": "SM-A315N"
   },
   {
+   "device": "a32x",
+   "name": "Galaxy A32 5G",
+   "model": "SM-A326B"
+  },
+  {
+   "device": "a32x",
+   "name": "Galaxy A32 5G",
+   "model": "SM-A326BR"
+  },
+  {
    "device": "a40",
    "name": "Galaxy A40",
    "model": "SM-A405FM"
@@ -107812,6 +107849,11 @@
    "model": "SM-G3815"
   },
   {
+   "device": "f12",
+   "name": "Galaxy F12",
+   "model": "SM-F127G"
+  },
+  {
    "device": "f41",
    "name": "Galaxy F41",
    "model": "SM-F415F"
@@ -109740,6 +109782,16 @@
    "device": "m11q",
    "name": "Galaxy M11",
    "model": "SM-M115M"
+  },
+  {
+   "device": "m12",
+   "name": "Galaxy M12",
+   "model": "SM-M127F"
+  },
+  {
+   "device": "m12",
+   "name": "Galaxy M12",
+   "model": "SM-M127G"
   },
   {
    "device": "m20",
@@ -126508,6 +126560,11 @@
    "device": "Miami_Pro",
    "name": "TCL 20S",
    "model": "T773O"
+  },
+  {
+   "device": "Hong_Kong_Pro",
+   "name": "TCL 20Y",
+   "model": "6156A"
   },
   {
    "device": "A3A",
@@ -157348,6 +157405,13 @@
    "device": "efiootabn7a",
    "name": "efiootabn7a",
    "model": "Tab N7a"
+  }
+ ],
+ "fplus": [
+  {
+   "device": "lifetabplus",
+   "name": "Life Tab Plus",
+   "model": "LifeTabPlus"
   }
  ],
  "geaneePro": [
