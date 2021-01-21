@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-01-20
+Last sync is 2021-01-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8569,6 +8569,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|Dolphin CT50|CT50L0N-CS13S|CT50|
 |Honeywell|Dolphin CT50|CT50LFN-CS13S|CT50|
 |Honeywell|Dolphin CT50|CT50LUN-CS13S|CT50|
+|Honeywell|EDA40|EDA40-0|EDA40|
+|Honeywell|EDA40|EDA40-1|EDA40|
 |Honeywell|EDA50|eda50-011|EDA50|
 |Honeywell|EDA50|eda50-111|EDA50|
 |Honeywell|EDA50|eda50-111|Glory50|
@@ -24674,6 +24676,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 10 SE|Oakland|T766U_EEA|
 |TCL|TCL 10 TABMAX 4G|Transformer_4G|9295G|
 |TCL|TCL 10 TABMAX 4G|Transformer_4G|9295G_EEA|
+|TCL|TCL 10 TABMAX WIFI|Transformer|9296G|
 |TCL|TCL 10 TABMAX WIFI|Transformer_WIFI|9296X|
 |TCL|TCL 10 TABMAX WIFI|Transformer_WIFI|9296X_EEA|
 |TCL|TCL 10L|T1_LITE|T770B|
@@ -27470,6 +27473,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vestel|venus_v3_5010|DynoLight|Venus_V3_5010|
 |Vexia|NicatabletV3|NicatabletV3|NicatabletV3|
 |Vexia|Vexia FCS E2 CLM|Vexia_FCS_E2_CLM|Vexia FCS E2 CLM|
+|Vexia|Vexia_TRES_10|Vexia_TRES_10|Vexia_TRES_10|
 |VfonX|GP8|GP8|GP8|
 |Vgo Tel|NEW 7|NEW_7|NEW 7|
 |Vgo Tel|New 5|NEW_5|NEW 5|

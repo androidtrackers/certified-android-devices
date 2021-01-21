@@ -61144,6 +61144,18 @@
    "device": "75E-L0N"
   }
  ],
+ "EDA40": [
+  {
+   "brand": "Honeywell",
+   "name": "EDA40",
+   "device": "EDA40-0"
+  },
+  {
+   "brand": "Honeywell",
+   "name": "EDA40",
+   "device": "EDA40-1"
+  }
+ ],
  "EDA50": [
   {
    "brand": "Honeywell",
@@ -168104,6 +168116,13 @@
    "device": "Transformer_4G"
   }
  ],
+ "9296G": [
+  {
+   "brand": "TCL",
+   "name": "TCL 10 TABMAX WIFI",
+   "device": "Transformer"
+  }
+ ],
  "9296X": [
   {
    "brand": "TCL",
@@ -186492,6 +186511,13 @@
    "brand": "Vexia",
    "name": "Vexia FCS E2 CLM",
    "device": "Vexia_FCS_E2_CLM"
+  }
+ ],
+ "Vexia_TRES_10": [
+  {
+   "brand": "Vexia",
+   "name": "Vexia_TRES_10",
+   "device": "Vexia_TRES_10"
   }
  ],
  "GP8": [

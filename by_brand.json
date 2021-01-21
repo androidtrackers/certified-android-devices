@@ -44265,6 +44265,16 @@
    "model": "CT50"
   },
   {
+   "device": "EDA40-0",
+   "name": "EDA40",
+   "model": "EDA40"
+  },
+  {
+   "device": "EDA40-1",
+   "name": "EDA40",
+   "model": "EDA40"
+  },
+  {
    "device": "eda50-011",
    "name": "EDA50",
    "model": "EDA50"
@@ -126492,6 +126502,11 @@
    "model": "9295G_EEA"
   },
   {
+   "device": "Transformer",
+   "name": "TCL 10 TABMAX WIFI",
+   "model": "9296G"
+  },
+  {
    "device": "Transformer_WIFI",
    "name": "TCL 10 TABMAX WIFI",
    "model": "9296X"
@@ -140882,6 +140897,11 @@
    "device": "Vexia_FCS_E2_CLM",
    "name": "Vexia FCS E2 CLM",
    "model": "Vexia FCS E2 CLM"
+  },
+  {
+   "device": "Vexia_TRES_10",
+   "name": "Vexia_TRES_10",
+   "model": "Vexia_TRES_10"
   }
  ],
  "VfonX": [

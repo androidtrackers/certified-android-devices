@@ -61245,6 +61245,20 @@
    "model": "CT50"
   }
  ],
+ "EDA40-0": [
+  {
+   "brand": "Honeywell",
+   "name": "EDA40",
+   "model": "EDA40"
+  }
+ ],
+ "EDA40-1": [
+  {
+   "brand": "Honeywell",
+   "name": "EDA40",
+   "model": "EDA40"
+  }
+ ],
  "eda50-011": [
   {
    "brand": "Honeywell",
@@ -163066,6 +163080,13 @@
    "model": "9295G_EEA"
   }
  ],
+ "Transformer": [
+  {
+   "brand": "TCL",
+   "name": "TCL 10 TABMAX WIFI",
+   "model": "9296G"
+  }
+ ],
  "Transformer_WIFI": [
   {
    "brand": "TCL",
@@ -178806,6 +178827,13 @@
    "brand": "Vexia",
    "name": "Vexia FCS E2 CLM",
    "model": "Vexia FCS E2 CLM"
+  }
+ ],
+ "Vexia_TRES_10": [
+  {
+   "brand": "Vexia",
+   "name": "Vexia_TRES_10",
+   "model": "Vexia_TRES_10"
   }
  ],
  "GP8": [
