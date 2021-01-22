@@ -15386,6 +15386,13 @@
    "model": "Bs 451"
   }
  ],
+ "Bphone": [
+  {
+   "device": "Bphone_A40",
+   "name": "Bphone_A40",
+   "model": "Bphone A40"
+  }
+ ],
  "BrailleNote": [
   {
    "device": "gryphon",
@@ -20522,6 +20529,11 @@
    "model": "Coolpad T1"
   },
   {
+   "device": "2040",
+   "name": "Cool 10",
+   "model": "2040"
+  },
+  {
    "device": "cool_c1",
    "name": "Cool C1",
    "model": "C106"
@@ -20545,6 +20557,11 @@
    "device": "cool_c1",
    "name": "Cool C1",
    "model": "C107-9"
+  },
+  {
+   "device": "2039",
+   "name": "Cool S",
+   "model": "2039"
   },
   {
    "device": "1901",
@@ -76271,6 +76288,13 @@
    "model": "MAG500A"
   }
  ],
+ "MARVUE": [
+  {
+   "device": "Pad_M11_EEA",
+   "name": "Pad_M11_EEA",
+   "model": "Pad_M11_EEA"
+  }
+ ],
  "MASTERTECH": [
   {
    "device": "M2M-3T",
@@ -103117,6 +103141,11 @@
    "device": "RD15QE",
    "name": "RD15QE",
    "model": "RD15QE"
+  },
+  {
+   "device": "RD16Q",
+   "name": "RD16Q",
+   "model": "RD16Q"
   },
   {
    "device": "RD16QE",
@@ -131282,6 +131311,11 @@
    "device": "A554C",
    "name": "Juke-A554C",
    "model": "A554C"
+  },
+  {
+   "device": "U3A_7_WIFI_Refresh_KD",
+   "name": "KURIO LITE GO NEW",
+   "model": "9309S_EEA"
   },
   {
    "device": "PIXI3_45_4G",

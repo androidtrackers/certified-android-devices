@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-01-21
+Last sync is 2021-01-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2996,6 +2996,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bouygues Telecom|Bbox Miami|HMB4213H|BouygtelTV|
 |Bouygues Telecom|BboxTV|UZW4020BYT|BboxTV|
 |Bouygues Telecom|Bs 451|Bs_451|Bs 451|
+|Bphone|Bphone_A40|Bphone_A40|Bphone A40|
 |BrailleNote|gryphon|gryphon|BrailleNote Touch +|
 |Brandcode|L1Fa|L1Fa|L1Fa|
 |Brandcode|L1f-pluss|L1f_pluss|L1f-pluss|
@@ -3970,11 +3971,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Coolpad|CP9970|9970|Coolpad 9970|
 |Coolpad|CPA520|CoolpadA520|Coolpad A520|
 |Coolpad|CPT1|CoolpadT1|Coolpad T1|
+|Coolpad|Cool 10|2040|2040|
 |Coolpad|Cool C1|cool_c1|C106|
 |Coolpad|Cool C1|cool_c1|C106-6|
 |Coolpad|Cool C1|cool_c1|C106-7|
 |Coolpad|Cool C1|cool_c1|C106-9|
 |Coolpad|Cool C1|cool_c1|C107-9|
+|Coolpad|Cool S|2039|2039|
 |Coolpad|Cool6|1901|1901|
 |Coolpad|Coolmini|Coolmini|Coolmini|
 |Coolpad|Coolpad 1821|1821|1821|
@@ -14869,6 +14872,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M4tel|R2 Plus|R2_Plus|R2_Plus|
 |MAG|MAG425A|MAG425A|MAG425A|
 |MAG|MAG500A|MAG500A|MAG500A|
+|MARVUE|Pad_M11_EEA|Pad_M11_EEA|Pad_M11_EEA|
 |MASTERTECH|M2M-3T|M2M-3T|M2M-3T|
 |MAXX|Grand Prime|Grand_Prime|Grand Prime|
 |MAZE|Alpha|Alpha|Alpha|
@@ -20077,6 +20081,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Remdun|RD-52|RD52|RD52|
 |Remdun|RD15PQE|RD15PQE|RD15PQE|
 |Remdun|RD15QE|RD15QE|RD15QE|
+|Remdun|RD16Q|RD16Q|RD16Q|
 |Remdun|RD16QE|RD16QE|RD16QE|
 |Remdun|RD51QE|RD51QE|RD51QE|
 |Remdun|RD52E|RD52E|RD52E|
@@ -25632,6 +25637,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Idol2 MINI S|MIATA_lte|6036X|
 |TCT (Alcatel)|Idol2 MINI S|MIATA_lte|6036Y|
 |TCT (Alcatel)|Juke-A554C|A554C|A554C|
+|TCT (Alcatel)|KURIO LITE GO NEW|U3A_7_WIFI_Refresh_KD|9309S_EEA|
 |TCT (Alcatel)|LCATEL ONETOUCH PIXI 3 (4.5)|PIXI3_45_4G|DIGICEL DL810|
 |TCT (Alcatel)|Lively Smart|Tokyo_GC|5007S|
 |TCT (Alcatel)|M812C|M812|M812C|

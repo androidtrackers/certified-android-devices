@@ -28369,6 +28369,13 @@
    "model": "Bs 451"
   }
  ],
+ "Bphone_A40": [
+  {
+   "brand": "Bphone",
+   "device": "Bphone_A40",
+   "model": "Bphone A40"
+  }
+ ],
  "gryphon": [
   {
    "brand": "BrailleNote",
@@ -35490,6 +35497,13 @@
    "model": "Coolpad T1"
   }
  ],
+ "Cool 10": [
+  {
+   "brand": "Coolpad",
+   "device": "2040",
+   "model": "2040"
+  }
+ ],
  "Cool C1": [
   {
    "brand": "Coolpad",
@@ -35515,6 +35529,13 @@
    "brand": "Coolpad",
    "device": "cool_c1",
    "model": "C107-9"
+  }
+ ],
+ "Cool S": [
+  {
+   "brand": "Coolpad",
+   "device": "2039",
+   "model": "2039"
   }
  ],
  "Cool6": [
@@ -85231,6 +85252,11 @@
    "brand": "Kurio",
    "device": "U3A_7_WIFI_Refresh_KD",
    "model": "9309S"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "U3A_7_WIFI_Refresh_KD",
+   "model": "9309S_EEA"
   }
  ],
  "Kurio Tab": [
@@ -102053,6 +102079,13 @@
    "brand": "MAG",
    "device": "MAG500A",
    "model": "MAG500A"
+  }
+ ],
+ "Pad_M11_EEA": [
+  {
+   "brand": "MARVUE",
+   "device": "Pad_M11_EEA",
+   "model": "Pad_M11_EEA"
   }
  ],
  "M2M-3T": [
@@ -134228,6 +134261,13 @@
    "brand": "Remdun",
    "device": "RD15QE",
    "model": "RD15QE"
+  }
+ ],
+ "RD16Q": [
+  {
+   "brand": "Remdun",
+   "device": "RD16Q",
+   "model": "RD16Q"
   }
  ],
  "RD16QE": [

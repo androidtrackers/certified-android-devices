@@ -23666,6 +23666,13 @@
    "model": "Bs 451"
   }
  ],
+ "Bphone_A40": [
+  {
+   "brand": "Bphone",
+   "name": "Bphone_A40",
+   "model": "Bphone A40"
+  }
+ ],
  "gryphon": [
   {
    "brand": "BrailleNote",
@@ -30508,6 +30515,30 @@
    "brand": "Coolpad",
    "name": "CPT1",
    "model": "Coolpad T1"
+  }
+ ],
+ "2040": [
+  {
+   "brand": "Coolpad",
+   "name": "Cool 10",
+   "model": "2040"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2040",
+   "model": "V2040"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2040",
+   "model": "V2040"
+  }
+ ],
+ "2039": [
+  {
+   "brand": "Coolpad",
+   "name": "Cool S",
+   "model": "2039"
   }
  ],
  "1901": [
@@ -81427,6 +81458,11 @@
    "brand": "Kurio",
    "name": "KURIO LITE GO NEW",
    "model": "9309S"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "KURIO LITE GO NEW",
+   "model": "9309S_EEA"
   }
  ],
  "Hulk_7_KIDS_WIFI": [
@@ -100166,6 +100202,13 @@
    "brand": "MAG",
    "name": "MAG500A",
    "model": "MAG500A"
+  }
+ ],
+ "Pad_M11_EEA": [
+  {
+   "brand": "MARVUE",
+   "name": "Pad_M11_EEA",
+   "model": "Pad_M11_EEA"
   }
  ],
  "M2M-3T": [
@@ -133561,6 +133604,13 @@
    "brand": "Remdun",
    "name": "RD15QE",
    "model": "RD15QE"
+  }
+ ],
+ "RD16Q": [
+  {
+   "brand": "Remdun",
+   "name": "RD16Q",
+   "model": "RD16Q"
   }
  ],
  "RD16QE": [
@@ -179472,18 +179522,6 @@
    "brand": "Vivax",
    "name": "VIVAX_PRO3",
    "model": "VIVAX_PRO3"
-  }
- ],
- "2040": [
-  {
-   "brand": "Vivo",
-   "name": "V2040",
-   "model": "V2040"
-  },
-  {
-   "brand": "Vivo",
-   "name": "V2040",
-   "model": "V2040"
   }
  ],
  "1601": [
