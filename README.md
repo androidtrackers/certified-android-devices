@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-01-22
+Last sync is 2021-01-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -839,6 +839,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Altice|AlTICE S11|S11|S11|
 |Altice|AlTICE S12|S12|S12|
 |Altice|Altice S21|STARNAUTE4|STARNAUTE4|
+|Altice|E54|E54|E54|
 |Altice|S13|S13|S13|
 |Altice|S22|S22|S22|
 |Altice|S23|S23|S23|
@@ -14872,6 +14873,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M4tel|R2 Plus|R2_Plus|R2_Plus|
 |MAG|MAG425A|MAG425A|MAG425A|
 |MAG|MAG500A|MAG500A|MAG500A|
+|MARVUE|Pad_M11_EEA|Pad_M11|Pad_M11|
 |MARVUE|Pad_M11_EEA|Pad_M11_EEA|Pad_M11_EEA|
 |MASTERTECH|M2M-3T|M2M-3T|M2M-3T|
 |MAXX|Grand Prime|Grand_Prime|Grand Prime|
@@ -20111,6 +20113,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rockcel|Quartzo Up|Quartzo_up|Quartzo_up|
 |Rockcel|Quartzo_4G|Quartzo_4G|Quartzo_4G|
 |Royaltek|FGAD|FGAD|FGAD|
+|Royole|ROYOLE Flexi|RY1205|ROYOLE Flexi|
 |Royqueen|RQ-712|RQ-712|RQ-712|
 |Royqueen|RQ-713S|RQ-713S|RQ-713S|
 |Royqueen|RQ-768|RQ-768|RQ-768|
@@ -30607,6 +30610,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zuum|MAGNO|ZUUM_MAGNO|MAGNO|
 |Zuum|MAGNO|ZUUM_MAGNO-S|MAGNO-S|
 |Zuum|MAGNO C|MAGNO_C|MAGNO C|
+|Zuum|MAGNO C1|MAGNO_C1|MAGNO C1|
 |Zuum|ONIX|ONIX|ONIX|
 |Zuum|ONIX S|ONIX_S|ONIX S|
 |Zuum|ROCKET II|ROCKET_II|ROCKET II|

@@ -4351,6 +4351,11 @@
    "model": "STARNAUTE4"
   },
   {
+   "device": "E54",
+   "name": "E54",
+   "model": "E54"
+  },
+  {
    "device": "S13",
    "name": "S13",
    "model": "S13"
@@ -76290,6 +76295,11 @@
  ],
  "MARVUE": [
   {
+   "device": "Pad_M11",
+   "name": "Pad_M11_EEA",
+   "model": "Pad_M11"
+  },
+  {
    "device": "Pad_M11_EEA",
    "name": "Pad_M11_EEA",
    "model": "Pad_M11_EEA"
@@ -103315,6 +103325,13 @@
    "device": "FGAD",
    "name": "FGAD",
    "model": "FGAD"
+  }
+ ],
+ "Royole": [
+  {
+   "device": "RY1205",
+   "name": "ROYOLE Flexi",
+   "model": "ROYOLE Flexi"
   }
  ],
  "Royqueen": [
@@ -156885,6 +156902,11 @@
    "device": "MAGNO_C",
    "name": "MAGNO C",
    "model": "MAGNO C"
+  },
+  {
+   "device": "MAGNO_C1",
+   "name": "MAGNO C1",
+   "model": "MAGNO C1"
   },
   {
    "device": "ONIX",

@@ -12484,6 +12484,13 @@
    "model": "STARNAUTE4"
   }
  ],
+ "E54": [
+  {
+   "brand": "Altice",
+   "device": "E54",
+   "model": "E54"
+  }
+ ],
  "S13": [
   {
    "brand": "Altice",
@@ -102084,6 +102091,11 @@
  "Pad_M11_EEA": [
   {
    "brand": "MARVUE",
+   "device": "Pad_M11",
+   "model": "Pad_M11"
+  },
+  {
+   "brand": "MARVUE",
    "device": "Pad_M11_EEA",
    "model": "Pad_M11_EEA"
   }
@@ -134448,6 +134460,13 @@
    "brand": "Royaltek",
    "device": "FGAD",
    "model": "FGAD"
+  }
+ ],
+ "ROYOLE Flexi": [
+  {
+   "brand": "Royole",
+   "device": "RY1205",
+   "model": "ROYOLE Flexi"
   }
  ],
  "RQ-712": [
@@ -194466,6 +194485,13 @@
    "brand": "Zuum",
    "device": "MAGNO_C",
    "model": "MAGNO C"
+  }
+ ],
+ "MAGNO C1": [
+  {
+   "brand": "Zuum",
+   "device": "MAGNO_C1",
+   "model": "MAGNO C1"
   }
  ],
  "ONIX": [
