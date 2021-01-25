@@ -1585,6 +1585,13 @@
    "device": "Vortech_3_0"
   }
  ],
+ "MID_1085_EEA": [
+  {
+   "brand": "AWOW",
+   "name": "MID_1085_EEA",
+   "device": "MID_1085_EEA"
+  }
+ ],
  "MID_1089IPS_EEA": [
   {
    "brand": "AWOW",
@@ -3970,6 +3977,11 @@
    "brand": "Compal",
    "name": "",
    "device": "CAP7"
+  },
+  {
+   "brand": "Greentel",
+   "name": "A8",
+   "device": "A8"
   }
  ],
  "5701": [
@@ -4512,6 +4524,13 @@
    "device": "PR7145"
   }
  ],
+ "Pr5650": [
+  {
+   "brand": "Advance",
+   "name": "Pr5650",
+   "device": "Pr5650"
+  }
+ ],
  "Pr5747": [
   {
    "brand": "Advance",
@@ -4547,11 +4566,25 @@
    "device": "Pr7547"
   }
  ],
+ "SP4702": [
+  {
+   "brand": "Advance",
+   "name": "SP4702",
+   "device": "SP4702"
+  }
+ ],
  "SP4872": [
   {
    "brand": "Advance",
    "name": "SP4872",
    "device": "SP4872"
+  }
+ ],
+ "SP5702": [
+  {
+   "brand": "Advance",
+   "name": "SP5702",
+   "device": "SP5702"
   }
  ],
  "SP5712": [
@@ -19975,6 +20008,13 @@
    "device": "Tab8"
   }
  ],
+ "Tab8_RU": [
+  {
+   "brand": "Blackview",
+   "name": "Tab8_RU",
+   "device": "Tab8_RU"
+  }
+ ],
  "A-STREAM": [
   {
    "brand": "Blaupunkt",
@@ -23047,6 +23087,11 @@
    "brand": "Vankyo",
    "name": "S30",
    "device": "S30"
+  },
+  {
+   "brand": "Vankyo",
+   "name": "S30",
+   "device": "S30_2020"
   }
  ],
  "KALOS": [
@@ -23511,6 +23556,13 @@
    "brand": "CHAINWAY",
    "name": "P80_EEA",
    "device": "P80"
+  }
+ ],
+ "HCE600": [
+  {
+   "brand": "CHCNAV",
+   "name": "C90",
+   "device": "HCE600"
   }
  ],
  "LT700": [
@@ -35623,6 +35675,13 @@
    "device": "S58Pro"
   }
  ],
+ "S59Pro": [
+  {
+   "brand": "Doogee",
+   "name": "S59Pro",
+   "device": "S59Pro"
+  }
+ ],
  "S60 Lite": [
   {
    "brand": "Doogee",
@@ -37823,6 +37882,13 @@
    "brand": "EXCEED",
    "name": "EX7W1S",
    "device": "EX7W1S"
+  }
+ ],
+ "EX7W4": [
+  {
+   "brand": "EXCEED",
+   "name": "EX7W4",
+   "device": "EX7W4"
   }
  ],
  "EXO_Wave_i716": [
@@ -74204,6 +74270,13 @@
    "device": "IX1012"
   }
  ],
+ "IX1013": [
+  {
+   "brand": "IXTECH",
+   "name": "IX1013",
+   "device": "IX1013"
+  }
+ ],
  "IX701": [
   {
    "brand": "IXTECH",
@@ -81316,6 +81389,13 @@
    "device": "smartphone"
   }
  ],
+ "ELEMENT PLAY": [
+  {
+   "brand": "Kalley",
+   "name": "Element Play",
+   "device": "ELEMENT_PLAY"
+  }
+ ],
  "GOLD_PRO": [
   {
    "brand": "Kalley",
@@ -82251,6 +82331,13 @@
    "brand": "Klipad",
    "name": "KL1018E",
    "device": "KL1018E_EEA"
+  }
+ ],
+ "KL1018N": [
+  {
+   "brand": "Klipad",
+   "name": "KL1018N_EEA",
+   "device": "KL1018N_EEA"
   }
  ],
  "KL1019": [
@@ -117261,6 +117348,11 @@
  "NOGAPAD101GHD": [
   {
    "brand": "NOGA",
+   "name": "NOGA101GHD",
+   "device": "NOGA101GHD"
+  },
+  {
+   "brand": "NOGA",
    "name": "NOGAPAD101GHD",
    "device": "NOGAPAD101GHD"
   }
@@ -132126,6 +132218,13 @@
    "device": "CD10A7G"
   }
  ],
+ "PMT4111_3G_D_EEA": [
+  {
+   "brand": "Prestigio",
+   "name": "PMT4111_3G_D_EEA",
+   "device": "CD10A10G"
+  }
+ ],
  "PMT4117_3G": [
   {
    "brand": "Prestigio",
@@ -135381,6 +135480,13 @@
    "device": "RC7T3G21"
   }
  ],
+ "RC8T3G21": [
+  {
+   "brand": "RCA",
+   "name": "RC8T3G21",
+   "device": "RC8T3G21"
+  }
+ ],
  "RCA 4K Android TV": [
   {
    "brand": "RCA",
@@ -137502,13 +137608,6 @@
    "brand": "Royaltek",
    "name": "FGAD",
    "device": "FGAD"
-  }
- ],
- "ROYOLE Flexi": [
-  {
-   "brand": "Royole",
-   "name": "ROYOLE Flexi",
-   "device": "RY1205"
   }
  ],
  "RQ-712": [
@@ -165902,6 +166001,13 @@
    "device": "NKS_AQT80"
   }
  ],
+ "DV8040": [
+  {
+   "brand": "SriLankaTelecom",
+   "name": "DV8040",
+   "device": "DV8040"
+  }
+ ],
  "NVSH800H1": [
   {
    "brand": "StarHub",
@@ -177809,6 +177915,13 @@
    "device": "MT-715QR"
   }
  ],
+ "MT-762QR": [
+  {
+   "brand": "TJD(SZ)",
+   "name": "MT-762QR",
+   "device": "MT-762QR"
+  }
+ ],
  "LOGIC_X60_PLUS": [
   {
    "brand": "TM Cell",
@@ -177940,6 +178053,13 @@
    "brand": "TOSCIDO",
    "name": "T15-EEA",
    "device": "T15-EEA"
+  }
+ ],
+ "T50-EEA": [
+  {
+   "brand": "TOSCIDO",
+   "name": "T50-EEA",
+   "device": "T50-EEA"
   }
  ],
  "X102": [
@@ -183047,6 +183167,13 @@
    "device": "seocho"
   }
  ],
+ "KIDS705-701A": [
+  {
+   "brand": "UJoyFeel",
+   "name": "KIDS705-701A",
+   "device": "KIDS705_701A"
+  }
+ ],
  "KIDS705-701": [
   {
    "brand": "UJoyFeel",
@@ -184514,6 +184641,13 @@
    "device": "IVT01"
   }
  ],
+ "VZ-30": [
+  {
+   "brand": "VIKUSHA",
+   "name": "VZ-30",
+   "device": "VZ-30"
+  }
+ ],
  "VNPT SmartBox 2x": [
   {
    "brand": "VNPT Technology",
@@ -184554,6 +184688,20 @@
    "brand": "VORCOM",
    "name": "S7-classic",
    "device": "S7-classic"
+  }
+ ],
+ "S7Pro": [
+  {
+   "brand": "VORCOM",
+   "name": "S7Pro",
+   "device": "S7Pro"
+  }
+ ],
+ "SXPRO_classic": [
+  {
+   "brand": "VORCOM",
+   "name": "SXPRO_classic",
+   "device": "SXPRO_classic"
   }
  ],
  "V.35": [
@@ -191780,6 +191928,13 @@
    "device": "l5261"
   }
  ],
+ "W-V745-TVM": [
+  {
+   "brand": "Wiko",
+   "name": "Power U10",
+   "device": "W-V745"
+  }
+ ],
  "W-V750BN-TVM": [
   {
    "brand": "Wiko",
@@ -192726,6 +192881,13 @@
    "device": "W-V680"
   }
  ],
+ "W-V745-EEA": [
+  {
+   "brand": "Wiko",
+   "name": "Y82",
+   "device": "W-V745"
+  }
+ ],
  "W-K360-TV": [
   {
    "brand": "Wiko",
@@ -193070,6 +193232,13 @@
    "brand": "Winnovo",
    "name": "TS7",
    "device": "TS7_EEA"
+  }
+ ],
+ "WinnovoT5": [
+  {
+   "brand": "Winnovo",
+   "name": "WinnovoT5",
+   "device": "WinnovoT5"
   }
  ],
  "T730": [
@@ -195502,6 +195671,13 @@
    "brand": "YesTeL",
    "name": "Note_30_pro",
    "device": "Note_30_pro"
+  }
+ ],
+ "T5-plus": [
+  {
+   "brand": "YesTeL",
+   "name": "T5-plus",
+   "device": "T5-plus"
   }
  ],
  "T5-plus-EEA": [
@@ -209007,6 +209183,13 @@
    "device": "MC401_GWL"
   }
  ],
+ "MC432A_GWL": [
+  {
+   "brand": "iWaylink",
+   "name": "MC432",
+   "device": "MC432A_GWL"
+  }
+ ],
  "TC601_GWL": [
   {
    "brand": "iWaylink",
@@ -209019,6 +209202,13 @@
    "brand": "iWaylink",
    "name": "TC601A",
    "device": "TC601A_GWL"
+  }
+ ],
+ "TC601B_GWL": [
+  {
+   "brand": "iWaylink",
+   "name": "TC601B",
+   "device": "TC601B_GWL"
   }
  ],
  "iYOU_M1": [
