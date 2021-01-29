@@ -708,6 +708,13 @@
    "device": "Xcell_Zoom"
   }
  ],
+ "ADT1061_1": [
+  {
+   "brand": "AIDATA",
+   "name": "ADT1061_1",
+   "device": "ADT1061_1"
+  }
+ ],
  "TG1016": [
   {
    "brand": "AKOR",
@@ -1494,6 +1501,13 @@
    "device": "R5Plus"
   }
  ],
+ "Smart_Slim_Plus": [
+  {
+   "brand": "ATOL",
+   "name": "Smart.Slim Plus",
+   "device": "t50p"
+  }
+ ],
  "AURII ULTRA": [
   {
    "brand": "AURII",
@@ -1599,6 +1613,13 @@
    "device": "Vortech_3_0"
   }
  ],
+ "MID-789A100-EEA": [
+  {
+   "brand": "AWOW",
+   "name": "MID-789A100-EEA",
+   "device": "MID_789A100_EEA"
+  }
+ ],
  "MID_1085_EEA": [
   {
    "brand": "AWOW",
@@ -1611,6 +1632,20 @@
    "brand": "AWOW",
    "name": "MID_1089IPS_EEA",
    "device": "MID_1089IPS_EEA"
+  }
+ ],
+ "UTBook": [
+  {
+   "brand": "AWOW",
+   "name": "UTBook",
+   "device": "UTBook"
+  }
+ ],
+ "UTBook_EEA": [
+  {
+   "brand": "AWOW",
+   "name": "UTBook_EEA",
+   "device": "UTBook_EEA"
   }
  ],
  "AXXA_S45": [
@@ -1839,6 +1874,13 @@
    "brand": "Accent",
    "name": "FAST_10",
    "device": "FAST_10"
+  }
+ ],
+ "Fast17": [
+  {
+   "brand": "Accent",
+   "name": "Fast17",
+   "device": "Fast17"
   }
  ],
  "Fasts7": [
@@ -2448,6 +2490,13 @@
    "brand": "Acer",
    "name": "Iconia Tab 10",
    "device": "acer_asgardfhd"
+  }
+ ],
+ "EUT110-11A": [
+  {
+   "brand": "Acer",
+   "name": "Baymax",
+   "device": "Baymax"
   }
  ],
  "CW01": [
@@ -4677,6 +4726,13 @@
    "device": "TR7988"
   }
  ],
+ "TR7998": [
+  {
+   "brand": "Advance",
+   "name": "TR7998",
+   "device": "TR7998"
+  }
+ ],
  "Tr3946": [
   {
    "brand": "Advance",
@@ -4738,6 +4794,20 @@
    "brand": "Advantage Air",
    "name": "PIC8GS8",
    "device": "PIC8GS8"
+  }
+ ],
+ "AIM75-LTE": [
+  {
+   "brand": "Advantech",
+   "name": "AIM75-LTE",
+   "device": "AIM75-LTE"
+  }
+ ],
+ "AIM75-WIFI": [
+  {
+   "brand": "Advantech",
+   "name": "AIM75-WIFI",
+   "device": "AIM75-WIFI"
   }
  ],
  "i8": [
@@ -7922,6 +7992,11 @@
    "brand": "ULCOOL",
    "name": "U2",
    "device": "U2"
+  },
+  {
+   "brand": "Urovo",
+   "name": "U2",
+   "device": "SQ46M"
   }
  ],
  "P771A": [
@@ -10677,6 +10752,20 @@
    "device": "Wizard_1"
   }
  ],
+ "MemoPad_T3": [
+  {
+   "brand": "Arknikko",
+   "name": "MemoPad_T3",
+   "device": "MemoPad_T3_EEA"
+  }
+ ],
+ "Memopad_T4": [
+  {
+   "brand": "Arknikko",
+   "name": "Memopad_T4",
+   "device": "Memopad_T4"
+  }
+ ],
  "SophPad_X11": [
   {
    "brand": "Arknikko",
@@ -10696,6 +10785,13 @@
    "brand": "Arknikko",
    "name": "Sophpad_X21",
    "device": "Sophpad_X21"
+  }
+ ],
+ "Sophpad_Z21": [
+  {
+   "brand": "Arknikko",
+   "name": "Sophpad_Z21",
+   "device": "Sophpad_Z21"
   }
  ],
  "VIP6102W": [
@@ -10728,6 +10824,13 @@
    "brand": "Vodafone",
    "name": "VIP6102W",
    "device": "vip6102w"
+  }
+ ],
+ "M916H": [
+  {
+   "brand": "Arrow",
+   "name": "M916H",
+   "device": "M916H"
   }
  ],
  "Beat": [
@@ -16710,6 +16813,11 @@
    "brand": "BQru",
    "name": "BQru-1082G",
    "device": "BQru-1082G"
+  },
+  {
+   "brand": "BQru",
+   "name": "BQru-1082G_2020",
+   "device": "BQru-1082G_2020"
   }
  ],
  "BQ-1084L": [
@@ -17504,6 +17612,11 @@
    "brand": "BQru",
    "name": "BQru-1083G_2019",
    "device": "BQru-1083G_2019"
+  },
+  {
+   "brand": "BQru",
+   "name": "BQru-1083G_2020",
+   "device": "BQru-1083G_2020"
   }
  ],
  "BQru-4526": [
@@ -18485,6 +18598,13 @@
    "device": "beg01"
   }
  ],
+ "M1036": [
+  {
+   "brand": "Beneve",
+   "name": "M1036",
+   "device": "M1036"
+  }
+ ],
  "M7133": [
   {
    "brand": "Beneve",
@@ -18957,6 +19077,13 @@
    "brand": "Bitmore",
    "name": "LUXYA MID704DC Tablet / Bitmore Tab770",
    "device": "MY7317P"
+  }
+ ],
+ "Mobitab10_S3_32GB": [
+  {
+   "brand": "Bitmore",
+   "name": "Mobitab10_S3_32GB",
+   "device": "Mobitab10_S3_32GB"
   }
  ],
  "Tab870": [
@@ -19447,6 +19574,13 @@
    "brand": "Blackshark",
    "name": "MBU-H0",
    "device": "mobius"
+  }
+ ],
+ "SHARK KSR-A0": [
+  {
+   "brand": "Blackshark",
+   "name": "SHARK KSR-A0",
+   "device": "kaiser"
   }
  ],
  "SKR-H0": [
@@ -20172,6 +20306,11 @@
   }
  ],
  "Tab 9": [
+  {
+   "brand": "Blackview",
+   "name": "Tab9_NEU",
+   "device": "Tab9_NEU"
+  },
   {
    "brand": "Blackview",
    "name": "Tab9_RU",
@@ -22942,6 +23081,13 @@
    "device": "BingeStick"
   }
  ],
+ "B1_Max": [
+  {
+   "brand": "Brasiltec",
+   "name": "B1_Max",
+   "device": "B1_Max"
+  }
+ ],
  "A509_Jeans": [
   {
    "brand": "Bravis",
@@ -23923,6 +24069,13 @@
    "brand": "COOKIE",
    "name": "YS-CK0001",
    "device": "YS-CK0001"
+  }
+ ],
+ "SATURNO2": [
+  {
+   "brand": "COOP",
+   "name": "SATURNO2",
+   "device": "SATURNO2"
   }
  ],
  "Aplus": [
@@ -32630,6 +32783,13 @@
    "device": "DEYI-10M18"
   }
  ],
+ "DEYI10M18A53": [
+  {
+   "brand": "DEYI",
+   "name": "DEYI10M18",
+   "device": "DEYI10M18A53"
+  }
+ ],
  "DG101TBIPS": [
   {
    "brand": "DGTEC",
@@ -36488,6 +36648,11 @@
   },
   {
    "brand": "Gionee",
+   "name": "P4",
+   "device": "P4"
+  },
+  {
+   "brand": "MAYA",
    "name": "P4",
    "device": "P4"
   },
@@ -41257,6 +41422,13 @@
    "device": "Z8POCKET"
   }
  ],
+ "A12": [
+  {
+   "brand": "FACETEL",
+   "name": "A12",
+   "device": "A12"
+  }
+ ],
  "UJ_1098": [
   {
    "brand": "FANGOR",
@@ -41400,6 +41572,11 @@
    "brand": "Stream",
    "name": "Everest",
    "device": "Everest"
+  },
+  {
+   "brand": "Vankyo",
+   "name": "S9",
+   "device": "S9"
   },
   {
    "brand": "Vkworld",
@@ -45171,6 +45348,13 @@
    "device": "Q7"
   }
  ],
+ "EX750": [
+  {
+   "brand": "G-TiDE",
+   "name": "EX750",
+   "device": "EX750"
+  }
+ ],
  "EXTREME X9": [
   {
    "brand": "G-TiDE",
@@ -47527,6 +47711,13 @@
    "device": "GIONEE_MAX"
   }
  ],
+ "GIONEE_MAX Pro": [
+  {
+   "brand": "Gionee",
+   "name": "GIONEE MAX Pro",
+   "device": "GIONEE_MAX_Pro"
+  }
+ ],
  "GIONEE X1": [
   {
    "brand": "Gionee",
@@ -49871,6 +50062,13 @@
    "brand": "HP",
    "name": "Chromebook x360 11 G1 EE",
    "device": "snappy_cheets"
+  }
+ ],
+ "HP BRIDGE": [
+  {
+   "brand": "HP",
+   "name": "HP BRIDGE",
+   "device": "Pioneer"
   }
  ],
  "HP Chromebook 11 G5": [
@@ -56087,6 +56285,13 @@
    "device": "NAUTIZ_X6"
   }
  ],
+ "NAUTIZ_X6P": [
+  {
+   "brand": "Handheld Group",
+   "name": "NAUTIZ X6",
+   "device": "NAUTIZ_X6P"
+  }
+ ],
  "Nautiz X2": [
   {
    "brand": "Handheld Group",
@@ -56170,6 +56375,13 @@
    "brand": "HannSpree",
    "name": "HSG1416",
    "device": "HANNSPAD"
+  }
+ ],
+ "Hannspad": [
+  {
+   "brand": "HannSpree",
+   "name": "Hannspad",
+   "device": "Hannspad"
   }
  ],
  "JBL LINK BAR": [
@@ -73275,6 +73487,20 @@
    "device": "Wave_Plus"
   }
  ],
+ "HELIOS": [
+  {
+   "brand": "Huskee",
+   "name": "HELIOS",
+   "device": "HELIOS"
+  }
+ ],
+ "HELIOS_Plus": [
+  {
+   "brand": "Huskee",
+   "name": "HELIOS_Plus",
+   "device": "HELIOS_Plus"
+  }
+ ],
  "ST-810": [
   {
    "brand": "Huskee",
@@ -74976,6 +75202,13 @@
    "brand": "IkuMobile",
    "name": "T1",
    "device": "T1"
+  }
+ ],
+ "T6": [
+  {
+   "brand": "IkuMobile",
+   "name": "T6",
+   "device": "T6"
   }
  ],
  "Y2": [
@@ -81497,6 +81730,13 @@
    "device": "K-S18"
   }
  ],
+ "BTA500": [
+  {
+   "brand": "KEYENCE",
+   "name": "BT-A500GA",
+   "device": "BTA500"
+  }
+ ],
  "BTA700": [
   {
    "brand": "KEYENCE",
@@ -82026,6 +82266,32 @@
    "brand": "Kanji",
    "name": "KANJI_AC05",
    "device": "KANJI-AC05"
+  },
+  {
+   "brand": "Kanji",
+   "name": "KJ-AC05",
+   "device": "KJ_AC05"
+  }
+ ],
+ "KJ-AC02": [
+  {
+   "brand": "Kanji",
+   "name": "KJ-AC02",
+   "device": "KJ-AC02"
+  }
+ ],
+ "KJ-ARIZONA": [
+  {
+   "brand": "Kanji",
+   "name": "KJ-ARIZONA",
+   "device": "KJ_ARIZONA"
+  }
+ ],
+ "KJ-OB02": [
+  {
+   "brand": "Kanji",
+   "name": "KJ-OB02",
+   "device": "KJ-OB02"
   }
  ],
  "KJ-YUBI": [
@@ -83129,6 +83395,13 @@
    "brand": "Klipad",
    "name": "KL7809",
    "device": "KL7809"
+  }
+ ],
+ "KL830": [
+  {
+   "brand": "Klipad",
+   "name": "KL830_EEA",
+   "device": "KL830_EEA"
   }
  ],
  "KL8889": [
@@ -103135,6 +103408,11 @@
    "brand": "Logicom",
    "name": "La_Tab_74_Rev2",
    "device": "La_Tab_74_Rev2_EEA"
+  },
+  {
+   "brand": "Logicom",
+   "name": "La_Tab_74_Rev2_AF",
+   "device": "La_Tab_74_Rev2_AF"
   }
  ],
  "LOGICOM La Tab Link 101": [
@@ -104566,6 +104844,13 @@
    "brand": "MLS Innovation",
    "name": "iQT1161",
    "device": "iQT1161"
+  }
+ ],
+ "iQT610": [
+  {
+   "brand": "MLS Innovation",
+   "name": "iQT610",
+   "device": "iQT610"
   }
  ],
  "iQW511T": [
@@ -106093,6 +106378,13 @@
    "device": "Black765857703671"
   }
  ],
+ "MAX_TAB_7": [
+  {
+   "brand": "Maxwest",
+   "name": "MAX_TAB_7",
+   "device": "MAX_TAB_7"
+  }
+ ],
  "Nitro 4N LTE": [
   {
    "brand": "Maxwest",
@@ -106177,6 +106469,13 @@
    "device": "Nitro_Phablet_9s"
   }
  ],
+ "PANDA_KIDS_7": [
+  {
+   "brand": "Maxwest",
+   "name": "PANDA_KIDS_7",
+   "device": "PANDA_KIDS_7"
+  }
+ ],
  "Panda_7": [
   {
    "brand": "Maxwest",
@@ -106252,6 +106551,13 @@
    "brand": "MeanIT",
    "name": "meanIT_X1",
    "device": "meanIT_X1"
+  }
+ ],
+ "meanIT_X20": [
+  {
+   "brand": "MeanIT",
+   "name": "meanIT_X20",
+   "device": "meanIT_X20"
   }
  ],
  "meanIT_X6": [
@@ -115288,6 +115594,13 @@
    "device": "PH604"
   }
  ],
+ "L200": [
+  {
+   "brand": "Mswipe",
+   "name": "WiseposGo",
+   "device": "L200"
+  }
+ ],
  "KIDPAD-3G": [
   {
    "brand": "Multilaser",
@@ -119348,6 +119661,20 @@
    "brand": "Netmak",
    "name": "NETPAD7",
    "device": "NM-NETPAD7"
+  }
+ ],
+ "NM-VELOCITY": [
+  {
+   "brand": "Netmak",
+   "name": "NM-VELOCITY",
+   "device": "NM_VELOCITY"
+  }
+ ],
+ "NM_PADPRO": [
+  {
+   "brand": "Netmak",
+   "name": "NM_PADPRO",
+   "device": "NM_PADPRO"
   }
  ],
  "S611": [
@@ -125536,6 +125863,13 @@
    "device": "C17_Pro"
   }
  ],
+ "C18_Plus": [
+  {
+   "brand": "Oukitel",
+   "name": "C18 Plus",
+   "device": "C18_Plus"
+  }
+ ],
  "C18_Pro": [
   {
    "brand": "Oukitel",
@@ -125630,6 +125964,13 @@
    "brand": "Oukitel",
    "name": "K13 Pro",
    "device": "K13_Pro"
+  }
+ ],
+ "K15_Plus": [
+  {
+   "brand": "Oukitel",
+   "name": "K15 Plus",
+   "device": "K15_Plus"
   }
  ],
  "K3_Pro": [
@@ -132720,6 +133061,13 @@
    "device": "PMT3057_3G"
   }
  ],
+ "PMT1107_4G_D_RU": [
+  {
+   "brand": "Prestigio",
+   "name": "PMT1107_4G_D_RU",
+   "device": "HP70A6L"
+  }
+ ],
  "PMT1157_4G_C_RU": [
   {
    "brand": "Prestigio",
@@ -132846,6 +133194,13 @@
    "device": "JR10A1W"
   }
  ],
+ "PMT3104_Wi_D": [
+  {
+   "brand": "Prestigio",
+   "name": "PMT3104_Wi_D",
+   "device": "HP10A11W"
+  }
+ ],
  "PMT3104_Wi_D_EEA": [
   {
    "brand": "Prestigio",
@@ -132923,6 +133278,13 @@
    "device": "HP70A14W"
   }
  ],
+ "PMT3197_W_D_EU": [
+  {
+   "brand": "Prestigio",
+   "name": "PMT3197_W_D_EU",
+   "device": "HP70A14W"
+  }
+ ],
  "PMT3197_W_EU": [
   {
    "brand": "Prestigio",
@@ -132942,6 +133304,13 @@
    "brand": "Prestigio",
    "name": "PMT3208_3G",
    "device": "PN80A03G"
+  }
+ ],
+ "PMT3231_4G_D": [
+  {
+   "brand": "Prestigio",
+   "name": "PMT3231_4G_D",
+   "device": "HP10A12L"
   }
  ],
  "PMT3231_4G_D_EEA": [
@@ -133229,6 +133598,13 @@
    "brand": "Prestigio",
    "name": "PMT4231_4G_D_RU",
    "device": "TC10A2L"
+  }
+ ],
+ "PMT4238_4G_RU": [
+  {
+   "brand": "Prestigio",
+   "name": "PMT4238_4G_RU",
+   "device": "HP8A6L"
   }
  ],
  "PMT4317_3G_RU": [
@@ -134188,6 +134564,13 @@
    "brand": "Pritom",
    "name": "L8_EEA",
    "device": "L8_EEA"
+  }
+ ],
+ "M10_Air": [
+  {
+   "brand": "Pritom",
+   "name": "M10_Air",
+   "device": "M10_Air"
   }
  ],
  "M10_Air_EEA": [
@@ -135471,6 +135854,13 @@
    "brand": "QPS Digital Electronics",
    "name": "M002KID-15",
    "device": "M002KID-15"
+  }
+ ],
+ "P50": [
+  {
+   "brand": "QPS Digital Electronics",
+   "name": "P50",
+   "device": "P50"
   }
  ],
  "P70-EEA": [
@@ -136927,6 +137317,13 @@
    "device": "R7MAX"
   }
  ],
+ "RW10": [
+  {
+   "brand": "RIO Mobile",
+   "name": "RW10",
+   "device": "RW10"
+  }
+ ],
  "BLACK": [
   {
    "brand": "RIVERSONG",
@@ -138280,6 +138677,13 @@
    "brand": "Reeder",
    "name": "P13 Blue Pro Lite",
    "device": "P13_Blue_Max_PL"
+  }
+ ],
+ "P13_Max_Blue": [
+  {
+   "brand": "Reeder",
+   "name": "P13 Max Blue",
+   "device": "P13_Max_Blue"
   }
  ],
  "P13_Black": [
@@ -151072,6 +151476,13 @@
    "device": "SC-51A"
   }
  ],
+ "SC51Aa": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S20 5G",
+   "device": "SC51Aa"
+  }
+ ],
  "SCG01": [
   {
    "brand": "Samsung",
@@ -158183,6 +158594,18 @@
    "brand": "Scope",
    "name": "F503V",
    "device": "F503V"
+  },
+  {
+   "brand": "Scope",
+   "name": "F5O3V",
+   "device": "F5O3V"
+  }
+ ],
+ "SP1089": [
+  {
+   "brand": "Scope",
+   "name": "SP1089",
+   "device": "SP1089"
   }
  ],
  "SP1099R": [
@@ -161329,6 +161752,20 @@
    "device": "X_Style_Tab_A104"
   }
  ],
+ "X_style_Tab_A1010": [
+  {
+   "brand": "Sigma Mobile",
+   "name": "X_style_Tab_A1010",
+   "device": "X_style_Tab_A1010"
+  }
+ ],
+ "X_style_Tab_A801": [
+  {
+   "brand": "Sigma Mobile",
+   "name": "X_style_Tab_A801",
+   "device": "X_style_Tab_A801"
+  }
+ ],
  "X_style_Tab_A83": [
   {
    "brand": "Sigma Mobile",
@@ -161771,6 +162208,13 @@
    "brand": "Sky Devices",
    "name": "Elite C5",
    "device": "Elite_C5MS"
+  }
+ ],
+ "Elite C55": [
+  {
+   "brand": "Sky Devices",
+   "name": "Elite C55",
+   "device": "Elite_C55"
   }
  ],
  "Elite E55": [
@@ -166769,6 +167213,13 @@
    "device": "S8-RK3368"
   }
  ],
+ "SoyMomoLite_V2C": [
+  {
+   "brand": "SoyMomo",
+   "name": "SoyMomoLite_V2C",
+   "device": "SoyMomoLite_V2C"
+  }
+ ],
  "SoyMomo_Lite_V1": [
   {
    "brand": "SoyMomo",
@@ -166786,6 +167237,13 @@
    "brand": "SoyMomo",
    "name": "SoyMomo_Pro_EU_V1",
    "device": "SoyMomo_Pro_EU_V1"
+  }
+ ],
+ "SoyMomo_Pro_EU_V2": [
+  {
+   "brand": "SoyMomo",
+   "name": "SoyMomo_Pro_EU_V2",
+   "device": "SoyMomo_Pro_EU_V2"
   }
  ],
  "SoyMomo_Pro_V1": [
@@ -167241,6 +167699,11 @@
    "brand": "Starlight",
    "name": "Milan",
    "device": "Milan"
+  },
+  {
+   "brand": "Starlight",
+   "name": "Starlight",
+   "device": "Milan_2G"
   }
  ],
  "Milan_Pro": [
@@ -167356,6 +167819,13 @@
    "brand": "Starlight",
    "name": "VENUS",
    "device": "VENUS"
+  }
+ ],
+ "VENUS_PLUS": [
+  {
+   "brand": "Starlight",
+   "name": "VENUS_PLUS",
+   "device": "VENUS_PLUS"
   }
  ],
  "star_X": [
@@ -169090,6 +169560,13 @@
    "brand": "TAG-TECH",
    "name": "TAG_TAB_II",
    "device": "TAG_TAB_II"
+  }
+ ],
+ "Tagphone plus": [
+  {
+   "brand": "TAG-TECH",
+   "name": "Tagphone plus",
+   "device": "Tagphone_plus"
   }
  ],
  "T7K_PLUS": [
@@ -179164,6 +179641,13 @@
    "device": "T15-EEA"
   }
  ],
+ "T151-EEA": [
+  {
+   "brand": "TOSCIDO",
+   "name": "T151-EEA",
+   "device": "T151-EEA"
+  }
+ ],
  "T50-EEA": [
   {
    "brand": "TOSCIDO",
@@ -180110,6 +180594,13 @@
    "brand": "Teclast",
    "name": "P80_EEA",
    "device": "P80_G3M2_EEA"
+  }
+ ],
+ "P80_ROW": [
+  {
+   "brand": "Teclast",
+   "name": "P80_ROW",
+   "device": "P80_G3M2_ROW"
   }
  ],
  "P80h_EEA": [
@@ -185488,6 +185979,13 @@
    "device": "EA630"
   }
  ],
+ "HT730": [
+  {
+   "brand": "Unitech",
+   "name": "HT730",
+   "device": "HT730"
+  }
+ ],
  "PA760": [
   {
    "brand": "Unitech",
@@ -185517,6 +186015,13 @@
    "brand": "Unitech",
    "name": "TB85Plus",
    "device": "TB85Plus"
+  }
+ ],
+ "WD200": [
+  {
+   "brand": "Unitech",
+   "name": "WD200",
+   "device": "wd200"
   }
  ],
  "KSTB6020": [
@@ -185818,6 +186323,13 @@
    "device": "VZ-30"
   }
  ],
+ "VIVIMAGE_A10": [
+  {
+   "brand": "VIVIMAGE",
+   "name": "VIVIMAGE_A10",
+   "device": "VIVIMAGE_A10"
+  }
+ ],
  "VIVIMAGE_A10_EEA": [
   {
    "brand": "VIVIMAGE",
@@ -185900,6 +186412,13 @@
    "brand": "VORCOM",
    "name": "SXPRO_classic",
    "device": "SXPRO_classic"
+  }
+ ],
+ "SXPro-P40": [
+  {
+   "brand": "VORCOM",
+   "name": "SXPro-P40",
+   "device": "SXPro-P40"
   }
  ],
  "V.35": [
@@ -186157,11 +186676,25 @@
    "device": "KindPad_SA8_EEA"
   }
  ],
+ "KingPad_K10": [
+  {
+   "brand": "Vastking",
+   "name": "KingPad_K10",
+   "device": "KingPad_K10"
+  }
+ ],
  "KingPad_K10Pro": [
   {
    "brand": "Vastking",
    "name": "KingPad_K10Pro",
    "device": "KingPad_K10Pro"
+  }
+ ],
+ "KingPad_K10_EEA": [
+  {
+   "brand": "Vastking",
+   "name": "KingPad_K10_EEA",
+   "device": "KingPad_K10_EEA"
   }
  ],
  "KingPad_SA10": [
@@ -192066,6 +192599,13 @@
    "device": "PRIMO_D10"
   }
  ],
+ "PRIMO F10": [
+  {
+   "brand": "Walton",
+   "name": "PRIMO F10",
+   "device": "PRIMO_F10"
+  }
+ ],
  "PRIMO NH4": [
   {
    "brand": "Walton",
@@ -192113,6 +192653,13 @@
    "brand": "Walton",
    "name": "Primo E11",
    "device": "Primo_E11"
+  }
+ ],
+ "Primo E12": [
+  {
+   "brand": "Walton",
+   "name": "Primo E12",
+   "device": "Primo_E12"
   }
  ],
  "Primo E8s": [
@@ -192367,6 +192914,13 @@
    "device": "Primo_HM6"
   }
  ],
+ "Primo HM6 Lite": [
+  {
+   "brand": "Walton",
+   "name": "Primo HM6 Lite",
+   "device": "Primo_HM6_Lite"
+  }
+ ],
  "Primo N3": [
   {
    "brand": "Walton",
@@ -192400,6 +192954,13 @@
    "brand": "Walton",
    "name": "Primo NF4",
    "device": "Primo_NF4_2GB"
+  }
+ ],
+ "Primo NF5": [
+  {
+   "brand": "Walton",
+   "name": "Primo NF5",
+   "device": "Primo_NF5"
   }
  ],
  "Primo NH3": [
@@ -192491,6 +193052,13 @@
    "brand": "Walton",
    "name": "Primo R6 Max",
    "device": "Primo_R6_Max"
+  }
+ ],
+ "Primo R8": [
+  {
+   "brand": "Walton",
+   "name": "Primo R8",
+   "device": "Primo_R8"
   }
  ],
  "Primo RH3": [
@@ -192610,6 +193178,13 @@
    "brand": "Walton",
    "name": "Primo_EF9",
    "device": "Primo_EF9"
+  }
+ ],
+ "Primo_R7": [
+  {
+   "brand": "Walton",
+   "name": "Primo_R7",
+   "device": "Primo_R7"
   }
  ],
  "Primo RM3": [
@@ -192818,6 +193393,13 @@
    "brand": "Westinghouse",
    "name": "W7TWF19",
    "device": "W7TWF19"
+  }
+ ],
+ "WDTLQA102": [
+  {
+   "brand": "Westinghouse",
+   "name": "WDTLQA102",
+   "device": "WDTLQA102"
   }
  ],
  "WH10S9863232": [
@@ -193906,6 +194488,13 @@
    "device": "W-V850"
   }
  ],
+ "W-V750BN-EEA": [
+  {
+   "brand": "Wiko",
+   "name": "View6 Lite",
+   "device": "W-V750BN"
+  }
+ ],
  "W-K200": [
   {
    "brand": "Wiko",
@@ -194043,6 +194632,13 @@
   }
  ],
  "W-K211-EEA": [
+  {
+   "brand": "Wiko",
+   "name": "Y51",
+   "device": "W-K211"
+  }
+ ],
+ "W-K211-OPE": [
   {
    "brand": "Wiko",
    "name": "Y51",
@@ -195200,6 +195796,13 @@
    "device": "Proton_Neon"
   }
  ],
+ "Tablet10_X-View": [
+  {
+   "brand": "X-View",
+   "name": "Tablet10_X-View",
+   "device": "Tablet10_X_View"
+  }
+ ],
  "X-ViewTablet7": [
   {
    "brand": "X-View",
@@ -195296,6 +195899,13 @@
    "device": "Xcell_Enia"
   }
  ],
+ "T702": [
+  {
+   "brand": "Xgody",
+   "name": "T702",
+   "device": "T702"
+  }
+ ],
  "T702A": [
   {
    "brand": "Xgody",
@@ -195310,11 +195920,25 @@
    "device": "T702E_EEA"
   }
  ],
+ "T702Pro-A": [
+  {
+   "brand": "Xgody",
+   "name": "T702Pro-A",
+   "device": "T702Pro-A"
+  }
+ ],
  "T702Pro-EEA": [
   {
    "brand": "Xgody",
    "name": "T702Pro-EEA",
    "device": "T702Pro-EEA"
+  }
+ ],
+ "T702_EEA": [
+  {
+   "brand": "Xgody",
+   "name": "T702_EEA",
+   "device": "T702_EEA"
   }
  ],
  "T901Pro-A": [
@@ -196857,6 +197481,13 @@
    "brand": "YQSVAIOR",
    "name": "YQ11",
    "device": "YQ11"
+  }
+ ],
+ "YQ81-ROW": [
+  {
+   "brand": "YQSVAIOR",
+   "name": "YQ81-ROW",
+   "device": "YQ81-ROW"
   }
  ],
  "B9000": [
@@ -208447,6 +209078,13 @@
    "brand": "Zuum",
    "name": "ROCKET II",
    "device": "ROCKET_II"
+  }
+ ],
+ "ROCKET III": [
+  {
+   "brand": "Zuum",
+   "name": "ROCKET III",
+   "device": "ROCKET_III"
   }
  ],
  "STELLAR": [
