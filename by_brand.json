@@ -143594,6 +143594,11 @@
    "model": "V2054"
   },
   {
+   "device": "PD2054",
+   "name": "V2054A",
+   "model": "V2054A"
+  },
+  {
    "device": "PD2056",
    "name": "V2056A",
    "model": "V2056A"
