@@ -21626,6 +21626,13 @@
    "model": "AX754"
   }
  ],
+ "AX754PLUS": [
+  {
+   "brand": "BMobile",
+   "device": "Bmobile_AX754PLUS",
+   "model": "AX754+"
+  }
+ ],
  "AX810": [
   {
    "brand": "BMobile",
@@ -27425,6 +27432,35 @@
    "brand": "beafon",
    "device": "M6",
    "model": "M6"
+  }
+ ],
+ "M7": [
+  {
+   "brand": "Blu",
+   "device": "M110EQ",
+   "model": "M7"
+  },
+  {
+   "brand": "Dragontouch",
+   "device": "M7",
+   "model": "M7"
+  },
+  {
+   "brand": "Gionee",
+   "device": "GIONEE_SW17G07",
+   "model": "GIONEE M7"
+  },
+  {
+   "brand": "Meberry",
+   "device": "M7",
+   "model": "M7"
+  }
+ ],
+ "M7L": [
+  {
+   "brand": "Blu",
+   "device": "M0050LL",
+   "model": "M7L"
   }
  ],
  "NEO ENERGY MINI": [
@@ -36826,6 +36862,13 @@
    "model": "CREMA0810T"
   }
  ],
+ "Cricket® Influence": [
+  {
+   "brand": "Cricket",
+   "device": "v350c",
+   "model": "V350C"
+  }
+ ],
  "U304AC": [
   {
    "brand": "Cricket",
@@ -43131,23 +43174,6 @@
    "brand": "Southern Telecom",
    "device": "ST1009",
    "model": "M10/Q1010"
-  }
- ],
- "M7": [
-  {
-   "brand": "Dragontouch",
-   "device": "M7",
-   "model": "M7"
-  },
-  {
-   "brand": "Gionee",
-   "device": "GIONEE_SW17G07",
-   "model": "GIONEE M7"
-  },
-  {
-   "brand": "Meberry",
-   "device": "M7",
-   "model": "M7"
   }
  ],
  "MAX_10": [
@@ -80272,6 +80298,13 @@
    "model": "S401"
   }
  ],
+ "S401A": [
+  {
+   "brand": "Ipro",
+   "device": "S401A",
+   "model": "S401A"
+  }
+ ],
  "S501": [
   {
    "brand": "Ipro",
@@ -80287,6 +80320,13 @@
    "brand": "Symphony",
    "device": "SYMPHONY_S501",
    "model": "S501"
+  }
+ ],
+ "S501A": [
+  {
+   "brand": "Ipro",
+   "device": "S501A",
+   "model": "S501A"
   }
  ],
  "WePad": [
@@ -82103,6 +82143,13 @@
    "brand": "Itel",
    "device": "itel-A23F",
    "model": "itel A23"
+  }
+ ],
+ "itel P37 Pro(Vision2 Plus)": [
+  {
+   "brand": "Itel",
+   "device": "itel-P681L",
+   "model": "itel P681L"
   }
  ],
  "itel P41": [
@@ -99658,6 +99705,13 @@
    "brand": "Lenovo",
    "device": "7305X",
    "model": "Lenovo TB-7305X"
+  }
+ ],
+ "Lenovo Tab M7 (3rd Gen)": [
+  {
+   "brand": "Lenovo",
+   "device": "7306F",
+   "model": "Lenovo TB-7306F"
   }
  ],
  "Lenovo Tab M7 HD": [
@@ -153279,6 +153333,13 @@
    "model": "SH-S40P"
   }
  ],
+ "AQUOS sense5G": [
+  {
+   "brand": "Sharp",
+   "device": "SH-53A",
+   "model": "SH-53A"
+  }
+ ],
  "AQUOS zero": [
   {
    "brand": "Sharp",
@@ -160550,6 +160611,13 @@
    "model": "Ithemba"
   }
  ],
+ "LIFE_2": [
+  {
+   "brand": "Stylo",
+   "device": "LIFE_2",
+   "model": "LIFE_2"
+  }
+ ],
  "S40 Vino": [
   {
    "brand": "Stylo",
@@ -162227,19 +162295,7 @@
    "model": "T766U_EEA"
   }
  ],
- "TCL 10 TABMAX 4G": [
-  {
-   "brand": "TCL",
-   "device": "Transformer_4G",
-   "model": "9295G"
-  },
-  {
-   "brand": "TCL",
-   "device": "Transformer_4G",
-   "model": "9295G_EEA"
-  }
- ],
- "TCL 10 TABMAX WIFI": [
+ "TCL 10 TABMAX": [
   {
    "brand": "TCL",
    "device": "Transformer",
@@ -162254,6 +162310,18 @@
    "brand": "TCL",
    "device": "Transformer_WIFI",
    "model": "9296X_EEA"
+  }
+ ],
+ "TCL 10 TABMAX 4G": [
+  {
+   "brand": "TCL",
+   "device": "Transformer_4G",
+   "model": "9295G"
+  },
+  {
+   "brand": "TCL",
+   "device": "Transformer_4G",
+   "model": "9295G_EEA"
   }
  ],
  "TCL 10L": [
@@ -162333,6 +162401,13 @@
    "brand": "TCL",
    "device": "Hong_Kong_Pro",
    "model": "6156A"
+  }
+ ],
+ "TCL A3X": [
+  {
+   "brand": "TCL",
+   "device": "Delhi_TF",
+   "model": "A600DL"
   }
  ],
  "TCL C5": [
@@ -168572,6 +168647,13 @@
    "brand": "TCT (Alcatel)",
    "device": "Tokyo_TF",
    "model": "A508DL"
+  }
+ ],
+ "TCL A3": [
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Bangkok_TF",
+   "model": "A509DL"
   }
  ],
  "TCL A506": [
@@ -176440,6 +176522,13 @@
    "brand": "VIVIMAGE",
    "device": "E10",
    "model": "E10_EEA"
+  }
+ ],
+ "VIVIMAGE_E11": [
+  {
+   "brand": "VIVIMAGE",
+   "device": "E11",
+   "model": "VIVIMAGE_E11"
   }
  ],
  "VNPT SmartBox 2x": [

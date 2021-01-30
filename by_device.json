@@ -17610,6 +17610,13 @@
    "model": "AX754"
   }
  ],
+ "Bmobile_AX754PLUS": [
+  {
+   "brand": "BMobile",
+   "name": "AX754PLUS",
+   "model": "AX754+"
+  }
+ ],
  "Bmobile_AX810": [
   {
    "brand": "BMobile",
@@ -22753,6 +22760,20 @@
    "brand": "Blu",
    "name": "M6",
    "model": "M6"
+  }
+ ],
+ "M110EQ": [
+  {
+   "brand": "Blu",
+   "name": "M7",
+   "model": "M7"
+  }
+ ],
+ "M0050LL": [
+  {
+   "brand": "Blu",
+   "name": "M7L",
+   "model": "M7L"
   }
  ],
  "BLU_NEO_ENERGY_MINI": [
@@ -31855,6 +31876,13 @@
    "brand": "Crema",
    "name": "CREMA0810T",
    "model": "CREMA0810T"
+  }
+ ],
+ "v350c": [
+  {
+   "brand": "Cricket",
+   "name": "Cricket® Influence",
+   "model": "V350C"
   }
  ],
  "U304AC": [
@@ -76610,6 +76638,13 @@
    "model": "Go"
   }
  ],
+ "S401A": [
+  {
+   "brand": "Ipro",
+   "name": "S401A",
+   "model": "S401A"
+  }
+ ],
  "S501": [
   {
    "brand": "Ipro",
@@ -76625,6 +76660,13 @@
    "brand": "Stylo",
    "name": "S501",
    "model": "Stylo S501"
+  }
+ ],
+ "S501A": [
+  {
+   "brand": "Ipro",
+   "name": "S501A",
+   "model": "S501A"
   }
  ],
  "WePad": [
@@ -78502,6 +78544,13 @@
    "brand": "Itel",
    "name": "itel L6006S",
    "model": "itel L6006S"
+  }
+ ],
+ "itel-P681L": [
+  {
+   "brand": "Itel",
+   "name": "itel P37 Pro(Vision2 Plus)",
+   "model": "itel P681L"
   }
  ],
  "itel_P41": [
@@ -97554,6 +97603,13 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab M7",
    "model": "Lenovo TB-7305X"
+  }
+ ],
+ "7306F": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M7 (3rd Gen)",
+   "model": "Lenovo TB-7306F"
   }
  ],
  "7306V": [
@@ -155001,6 +155057,13 @@
    "model": "SH-S40P"
   }
  ],
+ "SH-53A": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense5G",
+   "model": "SH-53A"
+  }
+ ],
  "SG801SH": [
   {
    "brand": "Sharp",
@@ -163017,6 +163080,13 @@
    "model": "Ithemba"
   }
  ],
+ "LIFE_2": [
+  {
+   "brand": "Stylo",
+   "name": "LIFE_2",
+   "model": "LIFE_2"
+  }
+ ],
  "S40_Vino": [
   {
    "brand": "Stylo",
@@ -164819,6 +164889,25 @@
    "model": "T766U_EEA"
   }
  ],
+ "Transformer": [
+  {
+   "brand": "TCL",
+   "name": "TCL 10 TABMAX",
+   "model": "9296G"
+  }
+ ],
+ "Transformer_WIFI": [
+  {
+   "brand": "TCL",
+   "name": "TCL 10 TABMAX",
+   "model": "9296X"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL 10 TABMAX",
+   "model": "9296X_EEA"
+  }
+ ],
  "Transformer_4G": [
   {
    "brand": "TCL",
@@ -164829,25 +164918,6 @@
    "brand": "TCL",
    "name": "TCL 10 TABMAX 4G",
    "model": "9295G_EEA"
-  }
- ],
- "Transformer": [
-  {
-   "brand": "TCL",
-   "name": "TCL 10 TABMAX WIFI",
-   "model": "9296G"
-  }
- ],
- "Transformer_WIFI": [
-  {
-   "brand": "TCL",
-   "name": "TCL 10 TABMAX WIFI",
-   "model": "9296X"
-  },
-  {
-   "brand": "TCL",
-   "name": "TCL 10 TABMAX WIFI",
-   "model": "9296X_EEA"
   }
  ],
  "T1_LITE": [
@@ -164997,6 +165067,13 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 3L",
    "model": "6056H_RU"
+  }
+ ],
+ "Delhi_TF": [
+  {
+   "brand": "TCL",
+   "name": "TCL A3X",
+   "model": "A600DL"
   }
  ],
  "A3A": [
@@ -171202,6 +171279,13 @@
    "brand": "TCT (Alcatel)",
    "name": "TCL A2X",
    "model": "A508DL"
+  }
+ ],
+ "Bangkok_TF": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "TCL A3",
+   "model": "A509DL"
   }
  ],
  "TCL_A506": [
@@ -178750,6 +178834,13 @@
    "brand": "VIVIMAGE",
    "name": "VIVIMAGE_A10_EEA",
    "model": "VIVIMAGE_A10_EEA"
+  }
+ ],
+ "E11": [
+  {
+   "brand": "VIVIMAGE",
+   "name": "VIVIMAGE_E11",
+   "model": "VIVIMAGE_E11"
   }
  ],
  "vnptt_smb_v2x": [

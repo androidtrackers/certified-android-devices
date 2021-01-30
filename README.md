@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-01-29
+Last sync is 2021-01-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2138,6 +2138,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|AX715|Bmobile_AX715|AX715|
 |BMobile|AX751|Bmobile_AX751|AX751|
 |BMobile|AX754|Bmobile_AX754|AX754|
+|BMobile|AX754PLUS|Bmobile_AX754PLUS|AX754+|
 |BMobile|AX810|Bmobile|Bmobile_AX810|
 |BMobile|AX810|Bmobile_AX810|Bmobile_AX810|
 |BMobile|AX820|Bmobile_AX820|AX820|
@@ -2869,6 +2870,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Life One X3|L0150WW|Life One X3|
 |Blu|M6|M0030TT|M6|
 |Blu|M6|M030P|M6|
+|Blu|M7|M110EQ|M7|
+|Blu|M7L|M0050LL|M7L|
 |Blu|NEO ENERGY MINI|BLU_NEO_ENERGY_MINI|BLU NEO ENERGY MINI|
 |Blu|NEO X|BLU_NEO_X|BLU NEO X|
 |Blu|NEO X LTE|BLU_NEO_X_LTE|BLU NEO X LTE|
@@ -4154,6 +4157,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Crelander|E105|E105|E105|
 |Crelander|Z103|Z103|Z103|
 |Crema|CREMA0810T|crema0810t|CREMA0810T|
+|Cricket|Cricket® Influence|v350c|V350C|
 |Cricket|U304AC|U304AC|U304AC|
 |Cricket|U325AC|U325AC|U325AC|
 |Cricket|U705AC|U705AC|U705AC|
@@ -11116,7 +11120,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ipro|Pro8S|Pro8S|Pro8S|
 |Ipro|Ruby5S|Ruby5S|Ruby5S|
 |Ipro|S401|S401|S401|
+|Ipro|S401A|S401A|S401A|
 |Ipro|S501|S501|S501|
+|Ipro|S501A|S501A|S501A|
 |Ipro|WIN|WIN|WIN|
 |Ipro|WePad|WePad|WePad|
 |Ipro|X1|IPRO_X1|X1|
@@ -11393,6 +11399,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel L6006F|itel-L6006F|itel L6006F|
 |Itel|itel L6006S|itel-L6006S|itel L6006S|
 |Itel|itel MC20|itel-A23F|itel A23|
+|Itel|itel P37 Pro(Vision2 Plus)|itel-P681L|itel P681L|
 |Itel|itel P41|itel_P41|itel P41|
 |Itel|itel Prime 4|itel_Prime4|itel Prime 4|
 |Itel|itel PrimeTab 1|itel-W7002|itel W7002|
@@ -14450,6 +14457,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M7|7305F|Lenovo TB-7305F|
 |Lenovo|Lenovo Tab M7|7305I|Lenovo TB-7305I|
 |Lenovo|Lenovo Tab M7|7305X|Lenovo TB-7305X|
+|Lenovo|Lenovo Tab M7 (3rd Gen)|7306F|Lenovo TB-7306F|
 |Lenovo|Lenovo Tab M7 HD|7306V|Lenovo TB-7306V|
 |Lenovo|Lenovo Tab M8|8505F|Lenovo TB-8505F|
 |Lenovo|Lenovo Tab M8|8505FS|Lenovo TB-8505FS|
@@ -23433,6 +23441,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS sense4 lite SH-RM15|JeridL|SH-RM15|
 |Sharp|AQUOS sense4 plus|VG2|SH-M16|
 |Sharp|AQUOS sense4 plus|VG2|SH-S40P|
+|Sharp|AQUOS sense5G|SH-53A|SH-53A|
 |Sharp|AQUOS zero|SG801SH|801SH|
 |Sharp|AQUOS zero|SH-Z10|SH-Z10|
 |Sharp|AQUOS zero|SH-Z10A|SH-Z10A|
@@ -24649,6 +24658,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stylo|Destiny|Destiny|Destiny|
 |Stylo|Energy|Energy|Energy|
 |Stylo|Ithemba|Ithemba|Ithemba|
+|Stylo|LIFE_2|LIFE_2|LIFE_2|
 |Stylo|Luna|Luna|Luna|
 |Stylo|Onyx|Onyx|Onyx|
 |Stylo|S40 Vino|S40_Vino|S40 Vino|
@@ -24927,11 +24937,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 10 SE|Oakland|T766J|
 |TCL|TCL 10 SE|Oakland|T766U|
 |TCL|TCL 10 SE|Oakland|T766U_EEA|
+|TCL|TCL 10 TABMAX|Transformer|9296G|
+|TCL|TCL 10 TABMAX|Transformer_WIFI|9296X|
+|TCL|TCL 10 TABMAX|Transformer_WIFI|9296X_EEA|
 |TCL|TCL 10 TABMAX 4G|Transformer_4G|9295G|
 |TCL|TCL 10 TABMAX 4G|Transformer_4G|9295G_EEA|
-|TCL|TCL 10 TABMAX WIFI|Transformer|9296G|
-|TCL|TCL 10 TABMAX WIFI|Transformer_WIFI|9296X|
-|TCL|TCL 10 TABMAX WIFI|Transformer_WIFI|9296X_EEA|
 |TCL|TCL 10L|T1_LITE|T770B|
 |TCL|TCL 10L|T1_LITE|T770H|
 |TCL|TCL 20 5G|Irvine|T781|
@@ -24945,6 +24955,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 20E|HONG_KONG|6125F|
 |TCL|TCL 20S|Miami_Pro|T773O|
 |TCL|TCL 20Y|Hong_Kong_Pro|6156A|
+|TCL|TCL A3X|Delhi_TF|A600DL|
 |TCL|TCL C5|A3A|5152D|
 |TCL|TCL C5|Gauss|5153A|
 |TCL|TCL C5|Gauss|5153K|
@@ -26129,6 +26140,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|TCL 750|x1_plus|TCL 750|
 |TCT (Alcatel)|TCL 950|idol4s_cn|TCL 950|
 |TCT (Alcatel)|TCL A2X|Tokyo_TF|A508DL|
+|TCT (Alcatel)|TCL A3|Bangkok_TF|A509DL|
 |TCT (Alcatel)|TCL A506|TCL_A506|TCL A506|
 |TCT (Alcatel)|TCL A865|TCL_A865|TCL A865|
 |TCT (Alcatel)|TCL A988|one_touch_993D_gsm|ALCATEL ONE TOUCH 993D|
@@ -27420,6 +27432,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VIVIMAGE|VIVIMAGE_A10_EEA|VIVIMAGE_A10_EEA|VIVIMAGE_A10_EEA|
 |VIVIMAGE|VIVIMAGE_E10|E10|E10|
 |VIVIMAGE|VIVIMAGE_E10_EEA|E10|E10_EEA|
+|VIVIMAGE|VIVIMAGE_E11|E11|VIVIMAGE_E11|
 |VNPT Technology|VNPT SmartBox 2x|vnptt_smb_v2x|VNPT SmartBox 2x|
 |VOLFEN|NEXO_TAB_10|NEXO_TAB_10|NEXO_TAB_10|
 |VOLFEN|Nexo TAB 7|Nexo-TAB-7|Nexo-TAB-7|

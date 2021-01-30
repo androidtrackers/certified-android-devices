@@ -10986,6 +10986,11 @@
    "model": "AX754"
   },
   {
+   "device": "Bmobile_AX754PLUS",
+   "name": "AX754PLUS",
+   "model": "AX754+"
+  },
+  {
    "device": "Bmobile",
    "name": "AX810",
    "model": "Bmobile_AX810"
@@ -14733,6 +14738,16 @@
    "device": "M030P",
    "name": "M6",
    "model": "M6"
+  },
+  {
+   "device": "M110EQ",
+   "name": "M7",
+   "model": "M7"
+  },
+  {
+   "device": "M0050LL",
+   "name": "M7L",
+   "model": "M7L"
   },
   {
    "device": "BLU_NEO_ENERGY_MINI",
@@ -21471,6 +21486,11 @@
   }
  ],
  "Cricket": [
+  {
+   "device": "v350c",
+   "name": "Cricket® Influence",
+   "model": "V350C"
+  },
   {
    "device": "U304AC",
    "name": "U304AC",
@@ -57170,9 +57190,19 @@
    "model": "S401"
   },
   {
+   "device": "S401A",
+   "name": "S401A",
+   "model": "S401A"
+  },
+  {
    "device": "S501",
    "name": "S501",
    "model": "S501"
+  },
+  {
+   "device": "S501A",
+   "name": "S501A",
+   "model": "S501A"
   },
   {
    "device": "WIN",
@@ -58565,6 +58595,11 @@
    "device": "itel-A23F",
    "name": "itel MC20",
    "model": "itel A23"
+  },
+  {
+   "device": "itel-P681L",
+   "name": "itel P37 Pro(Vision2 Plus)",
+   "model": "itel P681L"
   },
   {
    "device": "itel_P41",
@@ -74130,6 +74165,11 @@
    "device": "7305X",
    "name": "Lenovo Tab M7",
    "model": "Lenovo TB-7305X"
+  },
+  {
+   "device": "7306F",
+   "name": "Lenovo Tab M7 (3rd Gen)",
+   "model": "Lenovo TB-7306F"
   },
   {
    "device": "7306V",
@@ -120131,6 +120171,11 @@
    "model": "SH-S40P"
   },
   {
+   "device": "SH-53A",
+   "name": "AQUOS sense5G",
+   "model": "SH-53A"
+  },
+  {
    "device": "SG801SH",
    "name": "AQUOS zero",
    "model": "801SH"
@@ -126351,6 +126396,11 @@
    "model": "Ithemba"
   },
   {
+   "device": "LIFE_2",
+   "name": "LIFE_2",
+   "model": "LIFE_2"
+  },
+  {
    "device": "Luna",
    "name": "Luna",
    "model": "Luna"
@@ -127805,6 +127855,21 @@
    "model": "T766U_EEA"
   },
   {
+   "device": "Transformer",
+   "name": "TCL 10 TABMAX",
+   "model": "9296G"
+  },
+  {
+   "device": "Transformer_WIFI",
+   "name": "TCL 10 TABMAX",
+   "model": "9296X"
+  },
+  {
+   "device": "Transformer_WIFI",
+   "name": "TCL 10 TABMAX",
+   "model": "9296X_EEA"
+  },
+  {
    "device": "Transformer_4G",
    "name": "TCL 10 TABMAX 4G",
    "model": "9295G"
@@ -127813,21 +127878,6 @@
    "device": "Transformer_4G",
    "name": "TCL 10 TABMAX 4G",
    "model": "9295G_EEA"
-  },
-  {
-   "device": "Transformer",
-   "name": "TCL 10 TABMAX WIFI",
-   "model": "9296G"
-  },
-  {
-   "device": "Transformer_WIFI",
-   "name": "TCL 10 TABMAX WIFI",
-   "model": "9296X"
-  },
-  {
-   "device": "Transformer_WIFI",
-   "name": "TCL 10 TABMAX WIFI",
-   "model": "9296X_EEA"
   },
   {
    "device": "T1_LITE",
@@ -127893,6 +127943,11 @@
    "device": "Hong_Kong_Pro",
    "name": "TCL 20Y",
    "model": "6156A"
+  },
+  {
+   "device": "Delhi_TF",
+   "name": "TCL A3X",
+   "model": "A600DL"
   },
   {
    "device": "A3A",
@@ -133815,6 +133870,11 @@
    "device": "Tokyo_TF",
    "name": "TCL A2X",
    "model": "A508DL"
+  },
+  {
+   "device": "Bangkok_TF",
+   "name": "TCL A3",
+   "model": "A509DL"
   },
   {
    "device": "TCL_A506",
@@ -140628,6 +140688,11 @@
    "device": "E10",
    "name": "VIVIMAGE_E10_EEA",
    "model": "E10_EEA"
+  },
+  {
+   "device": "E11",
+   "name": "VIVIMAGE_E11",
+   "model": "VIVIMAGE_E11"
   }
  ],
  "VNPT Technology": [
