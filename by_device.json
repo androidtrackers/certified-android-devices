@@ -9452,6 +9452,11 @@
    "brand": "Archos",
    "name": "101 G9",
    "model": "ARCHOS 101G9"
+  },
+  {
+   "brand": "Crelander",
+   "name": "A101",
+   "model": "A101"
   }
  ],
  "ac101he": [
@@ -11794,6 +11799,13 @@
    "brand": "Arknikko",
    "name": "SophPad_X11",
    "model": "SophPad_X11"
+  }
+ ],
+ "SophPad_X22_EEA": [
+  {
+   "brand": "Arknikko",
+   "name": "SophPad_X22",
+   "model": "SophPad_X22"
   }
  ],
  "SophPad_Z11": [
@@ -16659,6 +16671,13 @@
    "brand": "BARTEC",
    "name": "Pixavi Thermal",
    "model": "Pixavi Thermal"
+  }
+ ],
+ "BKM10": [
+  {
+   "brand": "BAYKUS",
+   "name": "BKM10",
+   "model": "BKM10"
   }
  ],
  "Destiny": [
@@ -37614,6 +37633,13 @@
    "brand": "Iris",
    "name": "N30",
    "model": "N30"
+  }
+ ],
+ "S35": [
+  {
+   "brand": "Doogee",
+   "name": "S35",
+   "model": "S35"
   }
  ],
  "S35Pro": [
@@ -75658,6 +75684,13 @@
    "model": "mbadge"
   }
  ],
+ "DX778Pro": [
+  {
+   "brand": "Inovacel",
+   "name": "DX778Pro",
+   "model": "DX778Pro"
+  }
+ ],
  "S24": [
   {
    "brand": "Inovacel",
@@ -92233,6 +92266,13 @@
    "model": "ILIUM_PAD_RX10"
   }
  ],
+ "IliumPad_RX10v3": [
+  {
+   "brand": "Lanix",
+   "name": "IliumPad_RX10v3",
+   "model": "Ilium Pad RX10v3"
+  }
+ ],
  "IliumPad_RX7": [
   {
    "brand": "Lanix",
@@ -99717,6 +99757,11 @@
    "model": "Logic X4 Plus"
   },
   {
+   "brand": "Mira",
+   "name": "X4",
+   "model": "X4"
+  },
+  {
    "brand": "Mobicell",
    "name": "X4",
    "model": "X4"
@@ -100743,6 +100788,13 @@
    "brand": "Logicom",
    "name": "le Moov",
    "model": "LeMoov"
+  }
+ ],
+ "LZ-AA10": [
+  {
+   "brand": "Logitec",
+   "name": "LZ-AA10",
+   "model": "LZ-AA10"
   }
  ],
  "ka": [
@@ -117900,6 +117952,13 @@
    "model": "T20"
   }
  ],
+ "T38-450": [
+  {
+   "brand": "Nomu",
+   "name": "T38-450",
+   "model": "T38-450"
+  }
+ ],
  "V31": [
   {
    "brand": "Nomu",
@@ -131031,6 +131090,13 @@
    "brand": "Pritom",
    "name": "1AZ2P_eea",
    "model": "1AZ2P_eea"
+  }
+ ],
+ "Benton_M10": [
+  {
+   "brand": "Pritom",
+   "name": "Benton_M10",
+   "model": "Benton_M10"
   }
  ],
  "L10": [
@@ -172438,6 +172504,13 @@
    "model": "Q718A"
   }
  ],
+ "Q718B_EEA": [
+  {
+   "brand": "TUFEN",
+   "name": "Q718B_EEA",
+   "model": "Q718B"
+  }
+ ],
  "Q738": [
   {
    "brand": "TUFEN",
@@ -173335,6 +173408,13 @@
    "brand": "Teclast",
    "name": "tPad8",
    "model": "tPad8"
+  }
+ ],
+ "TECNO-A571LS": [
+  {
+   "brand": "Tecno",
+   "name": "5S",
+   "model": "TECNO A571LS"
   }
  ],
  "TECNO-A7S": [
@@ -186204,6 +186284,11 @@
   }
  ],
  "W-V750BN": [
+  {
+   "brand": "Wiko",
+   "name": "Power U20",
+   "model": "W-V750BN-OPE"
+  },
   {
    "brand": "Wiko",
    "name": "Power U20",

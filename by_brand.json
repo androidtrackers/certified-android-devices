@@ -6940,6 +6940,11 @@
    "model": "SophPad_X11"
   },
   {
+   "device": "SophPad_X22_EEA",
+   "name": "SophPad_X22",
+   "model": "SophPad_X22"
+  },
+  {
    "device": "SophPad_Z11",
    "name": "SophPad_Z11",
    "model": "SophPad_Z11"
@@ -10320,6 +10325,13 @@
    "device": "PixaviThermal",
    "name": "Pixavi Thermal",
    "model": "Pixavi Thermal"
+  }
+ ],
+ "BAYKUS": [
+  {
+   "device": "BKM10",
+   "name": "BKM10",
+   "model": "BKM10"
   }
  ],
  "BDQ": [
@@ -21458,6 +21470,11 @@
  ],
  "Crelander": [
   {
+   "device": "A101",
+   "name": "A101",
+   "model": "A101"
+  },
+  {
    "device": "E101",
    "name": "E101",
    "model": "E101"
@@ -25357,6 +25374,11 @@
    "device": "S30",
    "name": "S30",
    "model": "S30"
+  },
+  {
+   "device": "S35",
+   "name": "S35",
+   "model": "S35"
   },
   {
    "device": "S35Pro",
@@ -56409,6 +56431,11 @@
  ],
  "Inovacel": [
   {
+   "device": "DX778Pro",
+   "name": "DX778Pro",
+   "model": "DX778Pro"
+  },
+  {
    "device": "S24",
    "name": "INOVACEL S24",
    "model": "S24"
@@ -70111,6 +70138,11 @@
    "model": "ILIUM_PAD_RX10"
   },
   {
+   "device": "IliumPad_RX10v3",
+   "name": "IliumPad_RX10v3",
+   "model": "Ilium Pad RX10v3"
+  },
+  {
    "device": "IliumPad_RX7",
    "name": "IliumPad_RX7",
    "model": "ILIUM_PAD_RX7"
@@ -76678,6 +76710,13 @@
    "model": "2K Android TV"
   }
  ],
+ "Logitec": [
+  {
+   "device": "LZ-AA10",
+   "name": "LZ-AA10",
+   "model": "LZ-AA10"
+  }
+ ],
  "Logitech": [
   {
    "device": "ka",
@@ -81754,6 +81793,11 @@
    "device": "X2",
    "name": "X2",
    "model": "X2"
+  },
+  {
+   "device": "X4",
+   "name": "X4",
+   "model": "X4"
   }
  ],
  "Mirage": [
@@ -90272,6 +90316,11 @@
    "device": "T20",
    "name": "T20E",
    "model": "T20E"
+  },
+  {
+   "device": "T38-450",
+   "name": "T38-450",
+   "model": "T38-450"
   },
   {
    "device": "V31",
@@ -100890,6 +100939,11 @@
    "device": "1AZ2P_eea",
    "name": "1AZ2P_eea",
    "model": "1AZ2P_eea"
+  },
+  {
+   "device": "Benton_M10",
+   "name": "Benton_M10",
+   "model": "Benton_M10"
   },
   {
    "device": "K7",
@@ -135160,6 +135214,11 @@
    "model": "Q718A"
   },
   {
+   "device": "Q718B_EEA",
+   "name": "Q718B_EEA",
+   "model": "Q718B"
+  },
+  {
    "device": "Q738",
    "name": "Q738",
    "model": "Q738"
@@ -135946,6 +136005,11 @@
   }
  ],
  "Tecno": [
+  {
+   "device": "TECNO-A571LS",
+   "name": "5S",
+   "model": "TECNO A571LS"
+  },
   {
    "device": "TECNO-A7S",
    "name": "A7S",
@@ -146727,6 +146791,11 @@
    "device": "W-V745",
    "name": "Power U10",
    "model": "W-V745-TVM"
+  },
+  {
+   "device": "W-V750BN",
+   "name": "Power U20",
+   "model": "W-V750BN-OPE"
   },
   {
    "device": "W-V750BN",

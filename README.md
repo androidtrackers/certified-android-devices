@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-01-31
+Last sync is 2021-02-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1348,6 +1348,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Arknikko|MemoPad_T3|MemoPad_T3_EEA|MemoPad_T3|
 |Arknikko|Memopad_T4|Memopad_T4|Memopad_T4|
 |Arknikko|SophPad_X11|SophPad_X11|SophPad_X11|
+|Arknikko|SophPad_X22|SophPad_X22_EEA|SophPad_X22|
 |Arknikko|SophPad_Z11|SophPad_Z11|SophPad_Z11|
 |Arknikko|Sophpad_X21|Sophpad_X21|Sophpad_X21|
 |Arknikko|Sophpad_Z21|Sophpad_Z21|Sophpad_Z21|
@@ -2010,6 +2011,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|V6|Azumi_V6|Azumi V6|
 |BARTEC|Pixavi Phone|PixaviPhone|Pixavi Phone|
 |BARTEC|Pixavi Thermal|PixaviThermal|Pixavi Thermal|
+|BAYKUS|BKM10|BKM10|BKM10|
 |BDQ|Destiny|Destiny|Destiny|
 |BDQ|SMART_B19|SMART_B19|SMART_B19|
 |BDQ|Smart_Camon|Smart_Camon|Smart_Camon|
@@ -4152,6 +4154,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Covia|CP-W5s|CP-W5s|CP-W5s|
 |Covia|g06+|g06|g06|
 |Creato|DVT101B|mdt1005_mk_32|DVT101B|
+|Crelander|A101|A101|A101|
 |Crelander|E101|E101|E101|
 |Crelander|E102|E102|E102|
 |Crelander|E105|E105|E105|
@@ -4899,6 +4902,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|N20Pro|N20Pro|N20Pro|
 |Doogee|N30|N30|N30|
 |Doogee|S30|S30|S30|
+|Doogee|S35|S35|S35|
 |Doogee|S35Pro|S35Pro|S35Pro|
 |Doogee|S40|S40|S40|
 |Doogee|S40Lite|S40Lite|S40Lite|
@@ -10969,6 +10973,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Innjoo|VOOM_TAB_LTE|VOOM_TAB_LTE|VOOM_TAB_LTE|
 |Innopia|IMTCTATV01|IMTCTATV01|IMTCTATV01|
 |Innowi|mbadge|CB_UWA6N4C_47|mbadge|
+|Inovacel|DX778Pro|DX778Pro|DX778Pro|
 |Inovacel|INOVACEL S24|S24|S24|
 |Insignia|FLEX 8’’ LTE Android Tablet|ns_15t8lte|NS-15T8LTE|
 |Insignia|Flex 10.1|ns_14t004|NS-14T004|
@@ -13651,6 +13656,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lanix|Ilium X520|Ilium_X520|Ilium X520|
 |Lanix|Ilium X710|Ilium_X710|Ilium X710|
 |Lanix|IliumPad_RX10|IliumPad_RX10|ILIUM_PAD_RX10|
+|Lanix|IliumPad_RX10v3|IliumPad_RX10v3|Ilium Pad RX10v3|
 |Lanix|IliumPad_RX7|IliumPad_RX7|ILIUM_PAD_RX7|
 |Lanix|IliumPad_RX8|IliumPad_RX8|IliumPad_RX8|
 |Lanix|IliumPad_RX8v2|IliumPad_RX8v2|IliumPad_RX8v2|
@@ -14950,6 +14956,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logicom|Volt-R|Volt-R|Volt-R|
 |Logicom|le Moov|LeMoov|LeMoov|
 |Logik|L32AHE19|ueno|2K Android TV|
+|Logitec|LZ-AA10|LZ-AA10|LZ-AA10|
 |Logitech|Revue|ka|Revue|
 |Louis Vuitton|Tambour Horizon|ling|Tambour|
 |Louis Vuitton|Tambour Horizon|sundial|Tambour|
@@ -15922,6 +15929,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Miophone|Mio Phone|MioPhone2016|Mio Phone 2016|
 |Miophone|Mio Phone|MioPhone2017|MioPhone2017|
 |Mira|X2|X2|X2|
+|Mira|X4|X4|X4|
 |Mirage|43T|MI-JI-43T|MI-JI-43T|
 |Mirage|44T|MI-JI-44T|MI-JI-44T|
 |Mirage|62S|62S|62S|
@@ -17578,6 +17586,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nomu|S50 Pro|S50_Pro|S50_Pro|
 |Nomu|T20|T20|T20|
 |Nomu|T20E|T20|T20E|
+|Nomu|T38-450|T38-450|T38-450|
 |Nomu|V31|V31|V31|
 |Nomu|V31E|V31E|V31E|
 |NorthTech|NT-P70|NT-P70|NT-P70|
@@ -19646,6 +19655,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prince Mobile|PC9|PC9|PC9|
 |Prism|UHD Android TV|sindorim|AI PONT|
 |Pritom|1AZ2P_eea|1AZ2P_eea|1AZ2P_eea|
+|Pritom|Benton_M10|Benton_M10|Benton_M10|
 |Pritom|K7|K7|K7|
 |Pritom|K7_EEA|K7|K7|
 |Pritom|L10|L10|L10|
@@ -26386,6 +26396,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TTS-group|IT10268|IT10268|IT10268|
 |TUFEN|Q718|Q718|Q718|
 |TUFEN|Q718A_EEA|TUFEN_Q718A|Q718A|
+|TUFEN|Q718B_EEA|Q718B_EEA|Q718B|
 |TUFEN|Q738|Q738|Q738|
 |TUFEN|Q88A_EEA|Q88A_EEA|Q88A|
 |TUFF|T500|T500|T500|
@@ -26533,6 +26544,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|X_ROW|X_ROW|X_ROW|
 |Teclast|ssaemyo-inuriTab|P10S_ROW|P10S_ROW|
 |Teclast|tPad8|tPad8|tPad8|
+|Tecno|5S|TECNO-A571LS|TECNO A571LS|
 |Tecno|A7S|TECNO-A7S|TECNO-A7S|
 |Tecno|C5|TECNO-C5|TECNO-C5|
 |Tecno|C7|TECNO-C7|TECNO-C7|
@@ -28601,6 +28613,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|PULP FAB|S5260|SLIDE2|
 |Wiko|PULP FAB 4G|l5261|PULP FAB 4G|
 |Wiko|Power U10|W-V745|W-V745-TVM|
+|Wiko|Power U20|W-V750BN|W-V750BN-OPE|
 |Wiko|Power U20|W-V750BN|W-V750BN-TVM|
 |Wiko|RAINBOW|s5501|RAINBOW|
 |Wiko|RAINBOW 4G|l5503|RAINBOW 4G|

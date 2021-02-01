@@ -2178,6 +2178,11 @@
    "brand": "Acer",
    "name": "Iconia Tab A100 (VanGogh)",
    "device": "vangogh"
+  },
+  {
+   "brand": "Crelander",
+   "name": "A101",
+   "device": "A101"
   }
  ],
  "A110": [
@@ -10778,6 +10783,13 @@
    "device": "SophPad_X11"
   }
  ],
+ "SophPad_X22": [
+  {
+   "brand": "Arknikko",
+   "name": "SophPad_X22",
+   "device": "SophPad_X22_EEA"
+  }
+ ],
  "SophPad_Z11": [
   {
    "brand": "Arknikko",
@@ -15392,6 +15404,13 @@
    "brand": "BARTEC",
    "name": "Pixavi Thermal",
    "device": "PixaviThermal"
+  }
+ ],
+ "BKM10": [
+  {
+   "brand": "BAYKUS",
+   "name": "BKM10",
+   "device": "BKM10"
   }
  ],
  "Destiny": [
@@ -36144,6 +36163,13 @@
    "brand": "Iris",
    "name": "N30",
    "device": "N30"
+  }
+ ],
+ "S35": [
+  {
+   "brand": "Doogee",
+   "name": "S35",
+   "device": "S35"
   }
  ],
  "S35Pro": [
@@ -77303,6 +77329,13 @@
    "device": "CB_UWA6N4C_47"
   }
  ],
+ "DX778Pro": [
+  {
+   "brand": "Inovacel",
+   "name": "DX778Pro",
+   "device": "DX778Pro"
+  }
+ ],
  "S24": [
   {
    "brand": "Inovacel",
@@ -95146,6 +95179,13 @@
    "device": "IliumPad_RX10"
   }
  ],
+ "Ilium Pad RX10v3": [
+  {
+   "brand": "Lanix",
+   "name": "IliumPad_RX10v3",
+   "device": "IliumPad_RX10v3"
+  }
+ ],
  "ILIUM_PAD_RX7": [
   {
    "brand": "Lanix",
@@ -103824,6 +103864,13 @@
    "device": "LeMoov"
   }
  ],
+ "LZ-AA10": [
+  {
+   "brand": "Logitec",
+   "name": "LZ-AA10",
+   "device": "LZ-AA10"
+  }
+ ],
  "Revue": [
   {
    "brand": "Logitech",
@@ -110285,6 +110332,28 @@
    "device": "MioPhone2017"
   }
  ],
+ "X4": [
+  {
+   "brand": "Mira",
+   "name": "X4",
+   "device": "X4"
+  },
+  {
+   "brand": "Mobicell",
+   "name": "X4",
+   "device": "X4"
+  },
+  {
+   "brand": "Nuu",
+   "name": "X4",
+   "device": "X4"
+  },
+  {
+   "brand": "iRulu",
+   "name": "X4",
+   "device": "iRULU_X4"
+  }
+ ],
  "MI-JI-43T": [
   {
    "brand": "Mirage",
@@ -111166,23 +111235,6 @@
    "brand": "Mobicell",
    "name": "VENUS_G",
    "device": "VENUS_G"
-  }
- ],
- "X4": [
-  {
-   "brand": "Mobicell",
-   "name": "X4",
-   "device": "X4"
-  },
-  {
-   "brand": "Nuu",
-   "name": "X4",
-   "device": "X4"
-  },
-  {
-   "brand": "iRulu",
-   "name": "X4",
-   "device": "iRULU_X4"
   }
  ],
  "ZEN": [
@@ -121066,6 +121118,13 @@
    "brand": "Nomu",
    "name": "T20E",
    "device": "T20"
+  }
+ ],
+ "T38-450": [
+  {
+   "brand": "Nomu",
+   "name": "T38-450",
+   "device": "T38-450"
   }
  ],
  "V31": [
@@ -134583,6 +134642,13 @@
    "brand": "Pritom",
    "name": "1AZ2P_eea",
    "device": "1AZ2P_eea"
+  }
+ ],
+ "Benton_M10": [
+  {
+   "brand": "Pritom",
+   "name": "Benton_M10",
+   "device": "Benton_M10"
   }
  ],
  "L10_EEA": [
@@ -179828,6 +179894,13 @@
    "device": "TUFEN_Q718A"
   }
  ],
+ "Q718B": [
+  {
+   "brand": "TUFEN",
+   "name": "Q718B_EEA",
+   "device": "Q718B_EEA"
+  }
+ ],
  "Q738": [
   {
    "brand": "TUFEN",
@@ -180746,6 +180819,13 @@
    "brand": "Teclast",
    "name": "tPad8",
    "device": "tPad8"
+  }
+ ],
+ "TECNO A571LS": [
+  {
+   "brand": "Tecno",
+   "name": "5S",
+   "device": "TECNO-A571LS"
   }
  ],
  "TECNO-A7S": [
@@ -193947,6 +194027,13 @@
    "brand": "Wiko",
    "name": "Power U10",
    "device": "W-V745"
+  }
+ ],
+ "W-V750BN-OPE": [
+  {
+   "brand": "Wiko",
+   "name": "Power U20",
+   "device": "W-V750BN"
   }
  ],
  "W-V750BN-TVM": [
