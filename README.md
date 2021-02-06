@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-02-05
+Last sync is 2021-02-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -16706,7 +16706,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g 5G|kiev|motorola edge|
 |Motorola|moto g 5G plus|nairo|moto g 5G plus|
 |Motorola|moto g fast|rav|moto g fast|
-|Motorola|moto g play (2021)|guamna|moto E|
 |Motorola|moto g play (2021)|guamna|moto g play (2021)|
 |Motorola|moto g play (2021)|guamna|moto g play (XT2093DL)|
 |Motorola|moto g power|sofia|moto g power|
