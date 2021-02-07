@@ -2066,6 +2066,20 @@
    "model": "UTBook_EEA"
   }
  ],
+ "SEI130PTS": [
+  {
+   "brand": "AXSTV",
+   "name": "AXSTV130",
+   "model": "AXSTV130"
+  }
+ ],
+ "SEI530PTS": [
+  {
+   "brand": "AXSTV",
+   "name": "AXSTV530",
+   "model": "AXSTV530"
+  }
+ ],
  "AXXA_S45": [
   {
    "brand": "AXXA",
@@ -20929,20 +20943,6 @@
    "brand": "Blackshark",
    "name": "MBU-H0",
    "model": "SHARK MBU-H0"
-  }
- ],
- "kaiser": [
-  {
-   "brand": "Blackshark",
-   "name": "SHARK KSR-A0",
-   "model": "SHARK KSR-A0"
-  }
- ],
- "penrose": [
-  {
-   "brand": "Blackshark",
-   "name": "SHARK PRS-A0",
-   "model": "SHARK PRS-A0"
   }
  ],
  "shark": [
@@ -112911,6 +112911,11 @@
   }
  ],
  "mkz_sdm660_64": [
+  {
+   "brand": "Motorola Solutions",
+   "name": "MOTOTRBO ION",
+   "model": "MSLB-MKZ900"
+  },
   {
    "brand": "Motorola Solutions",
    "name": "MOTOTRBO ION",

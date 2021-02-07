@@ -7021,6 +7021,20 @@
    "model": "UTBook_EEA"
   }
  ],
+ "AXSTV130": [
+  {
+   "brand": "AXSTV",
+   "device": "SEI130PTS",
+   "model": "AXSTV130"
+  }
+ ],
+ "AXSTV530": [
+  {
+   "brand": "AXSTV",
+   "device": "SEI530PTS",
+   "model": "AXSTV530"
+  }
+ ],
  "AXXA S45": [
   {
    "brand": "AXXA",
@@ -25277,20 +25291,6 @@
    "brand": "Blackshark",
    "device": "mobius",
    "model": "SHARK MBU-H0"
-  }
- ],
- "SHARK KSR-A0": [
-  {
-   "brand": "Blackshark",
-   "device": "kaiser",
-   "model": "SHARK KSR-A0"
-  }
- ],
- "SHARK PRS-A0": [
-  {
-   "brand": "Blackshark",
-   "device": "penrose",
-   "model": "SHARK PRS-A0"
   }
  ],
  "Shark": [
@@ -113830,6 +113830,11 @@
   }
  ],
  "MOTOTRBO ION": [
+  {
+   "brand": "Motorola Solutions",
+   "device": "mkz_sdm660_64",
+   "model": "MSLB-MKZ900"
+  },
   {
    "brand": "Motorola Solutions",
    "device": "mkz_sdm660_64",

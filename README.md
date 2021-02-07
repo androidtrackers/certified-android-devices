@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-02-06
+Last sync is 2021-02-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -158,6 +158,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AWOW|MID_1089IPS_EEA|MID_1089IPS_EEA|MID_1089IPS_EEA|
 |AWOW|UTBook|UTBook|UTBook|
 |AWOW|UTBook_EEA|UTBook_EEA|UTBook_EEA|
+|AXSTV|AXSTV130|SEI130PTS|AXSTV130|
+|AXSTV|AXSTV530|SEI530PTS|AXSTV530|
 |AXXA|AXXA S45|AXXA_S45|AXXA_S45|
 |AXXA|AXXA S71|AXXA_S71|AXXA S71|
 |AXXA|AXXA_S45_PLUS|AXXA_S45_PLUS|AXXA_S45_PLUS|
@@ -2613,8 +2615,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackshark|KLE-H0|klein|SHARK KLE-H0|
 |Blackshark|MBU-A0|mobius|SHARK MBU-A0|
 |Blackshark|MBU-H0|mobius|SHARK MBU-H0|
-|Blackshark|SHARK KSR-A0|kaiser|SHARK KSR-A0|
-|Blackshark|SHARK PRS-A0|penrose|SHARK PRS-A0|
 |Blackshark|Shark|shark|SKR-H0|
 |Blackshark|Shark 1S|bullhead|AWM-A0|
 |Blackshark|黑鲨游戏手机|shark|SKR-A0|
@@ -16793,6 +16793,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola Solutions|LEX L10g|lexl10g|LEX L10g|
 |Motorola Solutions|LEX L10ig|lexl10ig|LEX L10ig|
 |Motorola Solutions|LEX L11|lexl11g_64|LEX L11|
+|Motorola Solutions|MOTOTRBO ION|mkz_sdm660_64|MSLB-MKZ900|
 |Motorola Solutions|MOTOTRBO ION|mkz_sdm660_64|MSLB-MKZ900i|
 |Motorola Solutions|TC55|TC55|TC55|
 |Motorola Solutions|TC55CH|TC55CH|TC55CH|
