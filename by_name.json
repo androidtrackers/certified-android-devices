@@ -26487,6 +26487,18 @@
    "model": "A576RW"
   }
  ],
+ "A5L": [
+  {
+   "brand": "Blu",
+   "device": "A0050LL",
+   "model": "A5L"
+  },
+  {
+   "brand": "Nuu",
+   "device": "N5501LA",
+   "model": "N5501L"
+  }
+ ],
  "ADVANCE 4.0 L2": [
   {
    "brand": "Blu",
@@ -33071,6 +33083,13 @@
    "brand": "Cherry Mobile",
    "device": "Touch_HD",
    "model": "Cherry_Mobile_Touch_HD"
+  }
+ ],
+ "X1090": [
+  {
+   "brand": "Cherry Mobile",
+   "device": "X1090",
+   "model": "X1090"
   }
  ],
  "ZP785": [
@@ -81866,6 +81885,11 @@
   },
   {
    "brand": "Itel",
+   "device": "itel-A571LK",
+   "model": "itel A571LK"
+  },
+  {
+   "brand": "Itel",
    "device": "itel-A571LL",
    "model": "itel A571LL"
   }
@@ -82040,6 +82064,13 @@
    "brand": "Itel",
    "device": "Spice-F311",
    "model": "Spice F311"
+  }
+ ],
+ "F3116": [
+  {
+   "brand": "Itel",
+   "device": "itel-A571WM",
+   "model": "itel A571W"
   }
  ],
  "G4310IE": [
@@ -82730,6 +82761,13 @@
    "brand": "Itel",
    "device": "itel-W5004",
    "model": "itel W5004"
+  }
+ ],
+ "itel AC50": [
+  {
+   "brand": "Itel",
+   "device": "itel-L5007D",
+   "model": "itel L5007D"
   }
  ],
  "itel AC60": [
@@ -95804,6 +95842,13 @@
    "model": "IliumPad_RX8v2"
   }
  ],
+ "IliumPad_RX8v3": [
+  {
+   "brand": "Lanix",
+   "device": "IliumPad_RX8v3",
+   "model": "Ilium Pad RX8v3"
+  }
+ ],
  "Ilium_Alpha7": [
   {
    "brand": "Lanix",
@@ -97281,6 +97326,13 @@
    "brand": "Lava",
    "device": "iris42",
    "model": "iris42"
+  }
+ ],
+ "iris46": [
+  {
+   "brand": "Lava",
+   "device": "LH9950",
+   "model": "LAVA LH9950"
   }
  ],
  "iris50": [
@@ -111314,13 +111366,6 @@
    "model": "RevoYou"
   }
  ],
- "Athena": [
-  {
-   "brand": "Motorola",
-   "device": "bathena",
-   "model": "Motorola Defy"
-  }
- ],
  "Atrix": [
   {
    "brand": "Motorola",
@@ -119667,13 +119712,6 @@
    "brand": "Nuu",
    "device": "N5001L",
    "model": "N5001L"
-  }
- ],
- "A5L": [
-  {
-   "brand": "Nuu",
-   "device": "N5501LA",
-   "model": "N5501L"
   }
  ],
  "A5L+": [
@@ -141893,11 +141931,6 @@
    "brand": "Samsung",
    "device": "elite3gkx",
    "model": "SM-G165N"
-  },
-  {
-   "brand": "Samsung",
-   "device": "eliteltekx",
-   "model": "SM-G160N"
   }
  ],
  "Galaxy Europa": [
@@ -142198,6 +142231,11 @@
   }
  ],
  "Galaxy Folder2": [
+  {
+   "brand": "Samsung",
+   "device": "eliteltekx",
+   "model": "SM-G160N"
+  },
   {
    "brand": "Samsung",
    "device": "elitexlte",
@@ -163394,6 +163432,11 @@
   {
    "brand": "TCL",
    "device": "Oakland",
+   "model": "T766S"
+  },
+  {
+   "brand": "TCL",
+   "device": "Oakland",
    "model": "T766U"
   },
   {
@@ -167088,6 +167131,20 @@
    "model": "4034T"
   }
  ],
+ "Alcatel 1L": [
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Wright_Pro",
+   "model": "4063A"
+  }
+ ],
+ "Alcatel 1L PLUS": [
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Wright_Pro",
+   "model": "4063F"
+  }
+ ],
  "Alcatel 1S": [
   {
    "brand": "TCT (Alcatel)",
@@ -167299,6 +167356,13 @@
    "brand": "TCT (Alcatel)",
    "device": "Jakarta_Lite",
    "model": "4087U_RU"
+  }
+ ],
+ "Alcatel 1SE lite edition": [
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Jakarta_Lite",
+   "model": "4087U_EEA"
   }
  ],
  "Alcatel 1SP": [
@@ -173479,6 +173543,13 @@
    "brand": "Tecno",
    "device": "TECNO-Y2",
    "model": "TECNO-Y3+"
+  }
+ ],
+ "TECNOPOP 5C": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-W5006S",
+   "model": "TECNO W5006S"
   }
  ],
  "Techno L6": [

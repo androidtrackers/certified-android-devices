@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-02-07
+Last sync is 2021-02-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2757,6 +2757,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|A200|A200|A200|
 |Blu|A250|A250|A250|
 |Blu|A30|A30|A30|
+|Blu|A5L|A0050LL|A5L|
 |Blu|ADVANCE 4.0 L2|BLU_ADVANCE_4_0_L2|BLU ADVANCE 4.0 L2|
 |Blu|ADVANCE 4.0 L3|Advance_4_0_L3|Advance 4.0 L3|
 |Blu|ADVANCE 5.0 HD|Advance_5_0_HD|Advance 5.0 HD|
@@ -3616,6 +3617,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cherry Mobile|Superion S2|Superion_S2|Superion_S2|
 |Cherry Mobile|Superion S2+|Superion_S2_Plus|Superion_S2_Plus|
 |Cherry Mobile|Touch HD|Touch_HD|Cherry_Mobile_Touch_HD|
+|Cherry Mobile|X1090|X1090|X1090|
 |Cherry Mobile|ZP785|ZP785|ZP785|
 |China Mobile|A3|M651G|M651G|
 |China Mobile|A5|M654G|M654G|
@@ -11350,6 +11352,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|A25|itel-L5002|itel L5002|
 |Itel|A25 Pro|itel-L5002P|itel L5002P|
 |Itel|A26|itel-A571L|itel A571L|
+|Itel|A26|itel-A571LK|itel A571LK|
 |Itel|A26|itel-A571LL|itel A571LL|
 |Itel|A31 Plus|itel-A31Plus|itel A31Plus|
 |Itel|A32F|itel-A32F|itel A32F|
@@ -11369,6 +11372,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|A55|itel-W6003|itel W6003|
 |Itel|A62|itel-A62|itel A62|
 |Itel|F311|Spice-F311|Spice F311|
+|Itel|F3116|itel-A571WM|itel A571W|
 |Itel|G4310IE|ikebukuro|AI PONT|
 |Itel|G5524BE|samseong|AI PONT|
 |Itel|ITELL_K4700Q|ITELL_K4700Q|ITELL K4700Q|
@@ -11481,6 +11485,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel AC13|itel-W4001P|itel W4001P|
 |Itel|itel AC32|itel-A16S|itel A16S|
 |Itel|itel AC32|itel-W5004|itel W5004|
+|Itel|itel AC50|itel-L5007D|itel L5007D|
 |Itel|itel AC60|itel-L6004L|itel L6004L|
 |Itel|itel Alpha Lite|itel-W5008|itel W5008|
 |Itel|itel KidPad 1|Itel-W7001|Itel W7001|
@@ -13751,6 +13756,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lanix|IliumPad_RX7|IliumPad_RX7|ILIUM_PAD_RX7|
 |Lanix|IliumPad_RX8|IliumPad_RX8|IliumPad_RX8|
 |Lanix|IliumPad_RX8v2|IliumPad_RX8v2|IliumPad_RX8v2|
+|Lanix|IliumPad_RX8v3|IliumPad_RX8v3|Ilium Pad RX8v3|
 |Lanix|Ilium_Alpha7|Ilium_Alpha7|Ilium Alpha 7|
 |Lanix|Ilium_Alpha_1TT|Ilium_Alpha_1TT|Ilium Alpha 1T|
 |Lanix|Ilium_Alpha_5T|Ilium_Alpha_5T|Ilium Alpha 5T|
@@ -13951,6 +13957,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|iris31|iris31|iris 31|
 |Lava|iris40|iris40|iris40|
 |Lava|iris42|iris42|iris42|
+|Lava|iris46|LH9950|LAVA LH9950|
 |Lava|iris50|iris50|iris50|
 |Lava|iris50c|iris50c|iris50|
 |Lava|iris51|iris51|iris51|
@@ -16363,7 +16370,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola||umts_venus2|XT610|
 |Motorola||wifi_hubble|MZ604|
 |Motorola||zepp|MB501|
-|Motorola|Athena|bathena|Motorola Defy|
 |Motorola|Atrix|olympus|MB860|
 |Motorola|Atrix|olympus|MB861|
 |Motorola|Atrix|olympus|ME860|
@@ -21368,7 +21374,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy E7|e7ltectc|SM-E7009|
 |Samsung|Galaxy E7|e7ltehktw|SM-E7000|
 |Samsung|Galaxy Elite|elite3gkx|SM-G165N|
-|Samsung|Galaxy Elite|eliteltekx|SM-G160N|
 |Samsung|Galaxy Europa|GT-I5500|GT-I5500|
 |Samsung|Galaxy Europa|GT-I5503|GT-I5503|
 |Samsung|Galaxy Europa|GT-I5508|GT-I5508|
@@ -21422,6 +21427,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Folder|novelltekx|SM-G150N0|
 |Samsung|Galaxy Folder|novelltelgt|SM-G150NL|
 |Samsung|Galaxy Folder|novellteskt|SM-G150NS|
+|Samsung|Galaxy Folder2|eliteltekx|SM-G160N|
 |Samsung|Galaxy Folder2|elitexlte|SM-G1650|
 |Samsung|Galaxy Fresh|kylevess|GT-S7390|
 |Samsung|Galaxy Fresh|kylevess|GT-S7390E|
@@ -25099,6 +25105,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 10 SE|Oakland|T766H_RU|
 |TCL|TCL 10 SE|Oakland|T766H_TR|
 |TCL|TCL 10 SE|Oakland|T766J|
+|TCL|TCL 10 SE|Oakland|T766S|
 |TCL|TCL 10 SE|Oakland|T766U|
 |TCL|TCL 10 SE|Oakland|T766U_EEA|
 |TCL|TCL 10 TABMAX|Transformer|9296G|
@@ -25826,6 +25833,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1C|U5A_PLUS_3G|5009D_RU|
 |TCT (Alcatel)|Alcatel 1C|U5A_PLUS_3G|5009U|
 |TCT (Alcatel)|Alcatel 1E|PIXI4-4C_GO|4034T|
+|TCT (Alcatel)|Alcatel 1L|Wright_Pro|4063A|
+|TCT (Alcatel)|Alcatel 1L PLUS|Wright_Pro|4063F|
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024A|
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024D|
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024D_EEA|
@@ -25867,6 +25876,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1SE elite edition|Jakarta_Lite|4087N|
 |TCT (Alcatel)|Alcatel 1SE elite edition|Jakarta_Lite|4087U|
 |TCT (Alcatel)|Alcatel 1SE light|Jakarta_Lite|4087U_RU|
+|TCT (Alcatel)|Alcatel 1SE lite edition|Jakarta_Lite|4087U_EEA|
 |TCT (Alcatel)|Alcatel 1SP|Jakarta|5030E_RU|
 |TCT (Alcatel)|Alcatel 1T 7 WIFI|U3A_7_WIFI|8068|
 |TCT (Alcatel)|Alcatel 1T 7 WIFI NEW|U3A_7_WIFI_Refresh|9309X|
@@ -26921,6 +26931,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO-W5|TECNO-W5|TECNO-W5|
 |Tecno|TECNO-Y2|TECNO-Y2|TECNO-Y2|
 |Tecno|TECNO-Y2|TECNO-Y2|TECNO-Y3+|
+|Tecno|TECNOPOP 5C|TECNO-W5006S|TECNO W5006S|
 |Tecno|Techno L6|TECNO-L6|TECNO-L6|
 |Tecno|Tecno pop 2x Air|TECNO-RB6S|TECNO RB6S|
 |Tecno|W1|TECNO_W1|TECNO W1|
