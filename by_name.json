@@ -16622,6 +16622,13 @@
    "model": "ASANZO A2"
   }
  ],
+ "Asanzo": [
+  {
+   "brand": "Asanzo",
+   "device": "SW4H",
+   "model": "ASG 4K TV"
+  }
+ ],
  "S3 Plus": [
   {
    "brand": "Asanzo",
@@ -50298,18 +50305,6 @@
    "model": "GTV"
   }
  ],
- "Fossil Gen 5": [
-  {
-   "brand": "Fossil",
-   "device": "triggerfish",
-   "model": "Julianna HR"
-  },
-  {
-   "brand": "Fossil",
-   "device": "triggerfish",
-   "model": "Lexington 2"
-  }
- ],
  "Fossil Gen 5 LTE": [
   {
    "brand": "Fossil",
@@ -50330,6 +50325,11 @@
   }
  ],
  "Fossil Gen5": [
+  {
+   "brand": "Fossil",
+   "device": "triggerfish",
+   "model": "Julianna HR"
+  },
   {
    "brand": "Fossil",
    "device": "triggerfish",
@@ -112200,6 +112200,13 @@
    "model": "FlipkartTV"
   }
  ],
+ "FlipkartTVPro": [
+  {
+   "brand": "Motorola",
+   "device": "SW4H_FF",
+   "model": "FlipkartTVPro"
+  }
+ ],
  "Flipout": [
   {
    "brand": "Motorola",
@@ -139391,6 +139398,13 @@
    "model": "SWTV-20SA"
   }
  ],
+ "SWTV-20SA-PRO": [
+  {
+   "brand": "SWTV",
+   "device": "SW4H_FF",
+   "model": "SWTV-20SA-PRO"
+  }
+ ],
  "South America": [
   {
    "brand": "SWTV",
@@ -139822,6 +139836,43 @@
    "brand": "Samsung",
    "device": "a01core",
    "model": "SM-A013M"
+  }
+ ],
+ "Galaxy A02": [
+  {
+   "brand": "Samsung",
+   "device": "a02",
+   "model": "SM-A022F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a02",
+   "model": "SM-A022G"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a02",
+   "model": "SM-A022M"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a02q",
+   "model": "SM-A025A"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a02q",
+   "model": "SM-A025AZ"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a02q",
+   "model": "SM-A025G"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a02q",
+   "model": "SM-A025V"
   }
  ],
  "Galaxy A02s": [
@@ -163965,6 +164016,11 @@
    "brand": "TCL",
    "device": "Transformer",
    "model": "9296G"
+  },
+  {
+   "brand": "TCL",
+   "device": "Transformer",
+   "model": "9296G_TR"
   },
   {
    "brand": "TCL",

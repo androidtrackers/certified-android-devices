@@ -6845,6 +6845,11 @@
    "model": "ALLVIEW 4K TV"
   },
   {
+   "brand": "Motorola",
+   "name": "FlipkartTVPro",
+   "model": "FlipkartTVPro"
+  },
+  {
    "brand": "Panasonic",
    "name": "4KTV-0SUF",
    "model": "4KTV-0SUF"
@@ -6858,6 +6863,11 @@
    "brand": "SWTV",
    "name": "SWTV-20AE-PRO",
    "model": "SWTV-20AE-PRO"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-20SA-PRO",
+   "model": "SWTV-20SA-PRO"
   }
  ],
  "AX4Nano_plus": [
@@ -12322,6 +12332,48 @@
    "brand": "Asanzo",
    "name": "ASANZO A2",
    "model": "ASANZO A2"
+  }
+ ],
+ "SW4H": [
+  {
+   "brand": "Asanzo",
+   "name": "Asanzo",
+   "model": "ASG 4K TV"
+  },
+  {
+   "brand": "Motorola",
+   "name": "FlipkartTV",
+   "model": "FlipkartTV"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "4KTV-0SU",
+   "model": "4KTV-0SU"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "4KTV-0SUW",
+   "model": "4KTV-0SUW"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-20AE",
+   "model": "SWTV-20AE"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-20HK",
+   "model": "SWTV-20HK"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-20N",
+   "model": "SWTV-20NA"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-20SA",
+   "model": "SWTV-20SA"
   }
  ],
  "ASANZO_S3_PLUS": [
@@ -45621,23 +45673,6 @@
    "model": "GTV"
   }
  ],
- "triggerfish": [
-  {
-   "brand": "Fossil",
-   "name": "Fossil Gen 5",
-   "model": "Julianna HR"
-  },
-  {
-   "brand": "Fossil",
-   "name": "Fossil Gen 5",
-   "model": "Lexington 2"
-  },
-  {
-   "brand": "Fossil",
-   "name": "Fossil Gen5",
-   "model": "Lexington 2"
-  }
- ],
  "gila": [
   {
    "brand": "Fossil",
@@ -45655,6 +45690,18 @@
    "brand": "Fossil",
    "name": "Fossil Gen 5e",
    "model": "Fossil SS"
+  }
+ ],
+ "triggerfish": [
+  {
+   "brand": "Fossil",
+   "name": "Fossil Gen5",
+   "model": "Julianna HR"
+  },
+  {
+   "brand": "Fossil",
+   "name": "Fossil Gen5",
+   "model": "Lexington 2"
   }
  ],
  "darter": [
@@ -111211,43 +111258,6 @@
    "model": "XT901"
   }
  ],
- "SW4H": [
-  {
-   "brand": "Motorola",
-   "name": "FlipkartTV",
-   "model": "FlipkartTV"
-  },
-  {
-   "brand": "Panasonic",
-   "name": "4KTV-0SU",
-   "model": "4KTV-0SU"
-  },
-  {
-   "brand": "Panasonic",
-   "name": "4KTV-0SUW",
-   "model": "4KTV-0SUW"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-20AE",
-   "model": "SWTV-20AE"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-20HK",
-   "model": "SWTV-20HK"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-20N",
-   "model": "SWTV-20NA"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-20SA",
-   "model": "SWTV-20SA"
-  }
- ],
  "umts_ruth": [
   {
    "brand": "Motorola",
@@ -139424,7 +139434,59 @@
    "model": "SM-M013F"
   }
  ],
+ "a02": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A02",
+   "model": "SM-A022F"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A02",
+   "model": "SM-A022G"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A02",
+   "model": "SM-A022M"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M02",
+   "model": "SM-M022F"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M02",
+   "model": "SM-M022G"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M02",
+   "model": "SM-M022M"
+  }
+ ],
  "a02q": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A02",
+   "model": "SM-A025A"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A02",
+   "model": "SM-A025AZ"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A02",
+   "model": "SM-A025G"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A02",
+   "model": "SM-A025V"
+  },
   {
    "brand": "Samsung",
    "name": "Galaxy A02s",
@@ -144855,23 +144917,6 @@
    "brand": "Samsung",
    "name": "Galaxy M01",
    "model": "SM-M015G"
-  }
- ],
- "a02": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy M02",
-   "model": "SM-M022F"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy M02",
-   "model": "SM-M022G"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy M02",
-   "model": "SM-M022M"
   }
  ],
  "m10lte": [
@@ -166559,6 +166604,11 @@
    "brand": "TCL",
    "name": "TCL 10 TABMAX",
    "model": "9296G"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL 10 TABMAX",
+   "model": "9296G_TR"
   }
  ],
  "Transformer_WIFI": [

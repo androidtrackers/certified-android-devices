@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-02-09
+Last sync is 2021-02-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1403,6 +1403,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asanzo|A1|A1|A1|
 |Asanzo|ASANZO 2K TV|shibuya|ASANZO 2K TV|
 |Asanzo|ASANZO A2|ASANZO_A2|ASANZO A2|
+|Asanzo|Asanzo|SW4H|ASG 4K TV|
 |Asanzo|S3 Plus|ASANZO_S3_PLUS|ASANZO_S3_PLUS|
 |Asanzo|S6|S6|S6|
 |Ascom|Ascom Myco 3|ADAA|Ascom Myco 3 DECT Wi-Fi EU|
@@ -6002,11 +6003,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fonos|O3_EEA|O3|O3|
 |Ford|Omni 8|Omni8|Omni8|
 |Formuler|GTV|GTV|GTV|
-|Fossil|Fossil Gen 5|triggerfish|Julianna HR|
-|Fossil|Fossil Gen 5|triggerfish|Lexington 2|
 |Fossil|Fossil Gen 5 LTE|gila|Fossil Gen 5 LTE|
 |Fossil|Fossil Gen 5e|sole|Fossil 5e|
 |Fossil|Fossil Gen 5e|sole|Fossil SS|
+|Fossil|Fossil Gen5|triggerfish|Julianna HR|
 |Fossil|Fossil Gen5|triggerfish|Lexington 2|
 |Fossil|Fossil Sport|darter|Fadelite|
 |Fossil|Fossil Sport|darter|Hugo|
@@ -16497,6 +16497,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|ELECTRIFY 2|cdma_yangtze|XT881|
 |Motorola|Electrify M|solstice|XT901|
 |Motorola|FlipkartTV|SW4H|FlipkartTV|
+|Motorola|FlipkartTVPro|SW4H_FF|FlipkartTVPro|
 |Motorola|Flipout|umts_ruth|MB511|
 |Motorola|Flipout|umts_ruth|ME511|
 |Motorola|Flipout|umts_ruth|MotoMB511|
@@ -20851,6 +20852,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SWTV|SWTV-20HK|SW4H|SWTV-20HK|
 |SWTV|SWTV-20N|SW4H|SWTV-20NA|
 |SWTV|SWTV-20SA|SW4H|SWTV-20SA|
+|SWTV|SWTV-20SA-PRO|SW4H_FF|SWTV-20SA-PRO|
 |SWTV|South America|SW3_ATV|SWTV|
 |SWTV|TV|SW3H_ATV|SWTV|
 |SWTV|Taiwan|SW3H_ATV|SWTV|
@@ -20962,6 +20964,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A01 Core|a01core|SM-A013F|
 |Samsung|Galaxy A01 Core|a01core|SM-A013G|
 |Samsung|Galaxy A01 Core|a01core|SM-A013M|
+|Samsung|Galaxy A02|a02|SM-A022F|
+|Samsung|Galaxy A02|a02|SM-A022G|
+|Samsung|Galaxy A02|a02|SM-A022M|
+|Samsung|Galaxy A02|a02q|SM-A025A|
+|Samsung|Galaxy A02|a02q|SM-A025AZ|
+|Samsung|Galaxy A02|a02q|SM-A025G|
+|Samsung|Galaxy A02|a02q|SM-A025V|
 |Samsung|Galaxy A02s|a02q|SM-A025F|
 |Samsung|Galaxy A02s|a02q|SM-A025G|
 |Samsung|Galaxy A02s|a02q|SM-A025M|
@@ -25184,6 +25193,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 10 SE|Oakland|T766U|
 |TCL|TCL 10 SE|Oakland|T766U_EEA|
 |TCL|TCL 10 TABMAX|Transformer|9296G|
+|TCL|TCL 10 TABMAX|Transformer|9296G_TR|
 |TCL|TCL 10 TABMAX|Transformer_WIFI|9296X|
 |TCL|TCL 10 TABMAX|Transformer_WIFI|9296X_EEA|
 |TCL|TCL 10 TABMAX|Transformer_WIFI|9296X_TR|

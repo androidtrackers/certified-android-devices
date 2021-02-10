@@ -11254,6 +11254,13 @@
    "device": "ASANZO_A2"
   }
  ],
+ "ASG 4K TV": [
+  {
+   "brand": "Asanzo",
+   "name": "Asanzo",
+   "device": "SW4H"
+  }
+ ],
  "ASANZO_S3_PLUS": [
   {
    "brand": "Asanzo",
@@ -43926,25 +43933,6 @@
    "device": "GTV"
   }
  ],
- "Julianna HR": [
-  {
-   "brand": "Fossil",
-   "name": "Fossil Gen 5",
-   "device": "triggerfish"
-  }
- ],
- "Lexington 2": [
-  {
-   "brand": "Fossil",
-   "name": "Fossil Gen 5",
-   "device": "triggerfish"
-  },
-  {
-   "brand": "Fossil",
-   "name": "Fossil Gen5",
-   "device": "triggerfish"
-  }
- ],
  "Fossil Gen 5 LTE": [
   {
    "brand": "Fossil",
@@ -43964,6 +43952,20 @@
    "brand": "Fossil",
    "name": "Fossil Gen 5e",
    "device": "sole"
+  }
+ ],
+ "Julianna HR": [
+  {
+   "brand": "Fossil",
+   "name": "Fossil Gen5",
+   "device": "triggerfish"
+  }
+ ],
+ "Lexington 2": [
+  {
+   "brand": "Fossil",
+   "name": "Fossil Gen5",
+   "device": "triggerfish"
   }
  ],
  "Fadelite": [
@@ -114269,6 +114271,13 @@
    "device": "shibuya"
   }
  ],
+ "FlipkartTVPro": [
+  {
+   "brand": "Motorola",
+   "name": "FlipkartTVPro",
+   "device": "SW4H_FF"
+  }
+ ],
  "MB511": [
   {
    "brand": "Motorola",
@@ -142475,6 +142484,13 @@
    "device": "SW4H"
   }
  ],
+ "SWTV-20SA-PRO": [
+  {
+   "brand": "SWTV",
+   "name": "SWTV-20SA-PRO",
+   "device": "SW4H_FF"
+  }
+ ],
  "SLTDVD1024": [
   {
    "brand": "SYLVANIA",
@@ -143257,14 +143273,61 @@
    "device": "a01core"
   }
  ],
- "SM-A025F": [
+ "SM-A022F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A02",
+   "device": "a02"
+  }
+ ],
+ "SM-A022G": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A02",
+   "device": "a02"
+  }
+ ],
+ "SM-A022M": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A02",
+   "device": "a02"
+  }
+ ],
+ "SM-A025A": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A02",
+   "device": "a02q"
+  }
+ ],
+ "SM-A025AZ": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A02",
+   "device": "a02q"
+  }
+ ],
+ "SM-A025G": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A02",
+   "device": "a02q"
+  },
   {
    "brand": "Samsung",
    "name": "Galaxy A02s",
    "device": "a02q"
   }
  ],
- "SM-A025G": [
+ "SM-A025V": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A02",
+   "device": "a02q"
+  }
+ ],
+ "SM-A025F": [
   {
    "brand": "Samsung",
    "name": "Galaxy A02s",
@@ -171567,6 +171630,13 @@
   }
  ],
  "9296G": [
+  {
+   "brand": "TCL",
+   "name": "TCL 10 TABMAX",
+   "device": "Transformer"
+  }
+ ],
+ "9296G_TR": [
   {
    "brand": "TCL",
    "name": "TCL 10 TABMAX",
