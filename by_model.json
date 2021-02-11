@@ -11188,6 +11188,13 @@
    "device": "Artizlee_S9"
   }
  ],
+ "Arcelik Android TV": [
+  {
+   "brand": "Arçelik",
+   "name": "Arçelik Android TV",
+   "device": "sinchon"
+  }
+ ],
  "A1": [
   {
    "brand": "Asanzo",
@@ -18546,6 +18553,13 @@
    "device": "Beeline_Tab_Fast"
   }
  ],
+ "Beko Android TV": [
+  {
+   "brand": "Beko",
+   "name": "Beko Android TV",
+   "device": "sinchon"
+  }
+ ],
  "Bell Streamer": [
   {
    "brand": "Bell Canada",
@@ -23044,6 +23058,13 @@
    "brand": "Bluebird",
    "name": "EF550R",
    "device": "EF550R"
+  }
+ ],
+ "EK430": [
+  {
+   "brand": "Bluebird",
+   "name": "EK430",
+   "device": "EK430"
   }
  ],
  "HF450": [
@@ -193813,6 +193834,13 @@
    "brand": "Volvo",
    "name": "Volvo",
    "device": "ihu_abl_car"
+  }
+ ],
+ "Volvo XC40": [
+  {
+   "brand": "Volvo",
+   "name": "Volvo XC40 Emulator",
+   "device": "ihu_emulator"
   }
  ],
  "Druid_L10": [

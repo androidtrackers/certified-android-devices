@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-02-10
+Last sync is 2021-02-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1400,6 +1400,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Artel|U3 4G|U3_4G|U3_4G|
 |Artel|U4|U4|U4|
 |Artizlee|Artizlee S9|Artizlee_S9|Artizlee_S9|
+|Arçelik|Arçelik Android TV|sinchon|Arcelik Android TV|
 |Asanzo|A1|A1|A1|
 |Asanzo|ASANZO 2K TV|shibuya|ASANZO 2K TV|
 |Asanzo|ASANZO A2|ASANZO_A2|ASANZO A2|
@@ -2462,6 +2463,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Beeline|Tab 2|Tab_2|Tab_2|
 |Beeline|Tab IS|Beeline_Tab_IS|Beeline_Tab_IS|
 |Beeline|Tab_Fast|Beeline_Tab_Fast|Beeline_Tab_Fast|
+|Beko|Beko Android TV|sinchon|Beko Android TV|
 |Bell Canada|Bell Streamer|sti6130d324|Bell Streamer|
 |BenQ|A3|A3|A3|
 |BenQ|A3c|BenQ_A3c|BenQ A3c|
@@ -3056,6 +3058,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bluebird|EF501R|EF501|EF501R_RU|
 |Bluebird|EF550|EF550|EF550|
 |Bluebird|EF550R|EF550R|EF550R|
+|Bluebird|EK430|EK430|EK430|
 |Bluebird|HF450|HF450|HF450|
 |Bluebird|HF550|HF550|HF550|
 |Bluebird|HF550|HF550|HF550_RU|
@@ -28563,6 +28566,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Volt Mobile|VOLT_SV451_Vision|VOLT_SV451_Vision|VOLT_SV451_Vision|
 |Volt Mobile|v7|v7|v7|
 |Volvo|Volvo|ihu_abl_car|Volvo|
+|Volvo|Volvo XC40 Emulator|ihu_emulator|Volvo XC40|
 |Vonino|Druid_L10|Druid_L10|Druid_L10|
 |Vonino|Epic E8|Epic_E8|Epic E8|
 |Vonino|Epic P7|Epic_P7|Epic_P7|

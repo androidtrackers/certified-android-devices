@@ -12275,6 +12275,23 @@
    "model": "Artizlee_S9"
   }
  ],
+ "sinchon": [
+  {
+   "brand": "Arçelik",
+   "name": "Arçelik Android TV",
+   "model": "Arcelik Android TV"
+  },
+  {
+   "brand": "Beko",
+   "name": "Beko Android TV",
+   "model": "Beko Android TV"
+  },
+  {
+   "brand": "Grundig",
+   "name": "Grundig Android TV",
+   "model": "Grundig Android TV"
+  }
+ ],
  "A1": [
   {
    "brand": "Asanzo",
@@ -24197,6 +24214,13 @@
    "brand": "Bluebird",
    "name": "EF550R",
    "model": "EF550R"
+  }
+ ],
+ "EK430": [
+  {
+   "brand": "Bluebird",
+   "name": "EK430",
+   "model": "EK430"
   }
  ],
  "HF450": [
@@ -51817,13 +51841,6 @@
    "brand": "Grundig",
    "name": "GTB850",
    "model": "GTB 850"
-  }
- ],
- "sinchon": [
-  {
-   "brand": "Grundig",
-   "name": "Grundig Android TV",
-   "model": "Grundig Android TV"
   }
  ],
  "GTB801": [
@@ -129502,6 +129519,11 @@
    "brand": "Polestar",
    "name": "Polestar Emu",
    "model": "Polestar 2"
+  },
+  {
+   "brand": "Volvo",
+   "name": "Volvo XC40 Emulator",
+   "model": "Volvo XC40"
   }
  ],
  "P500": [
