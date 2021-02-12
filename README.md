@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-02-11
+Last sync is 2021-02-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -25215,6 +25215,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 20E|HONG_KONG|6125F|
 |TCL|TCL 20S|Miami_Pro|T773O|
 |TCL|TCL 20Y|Hong_Kong_Pro|6156A|
+|TCL|TCL 20Y|Hong_Kong_Pro|6156D|
 |TCL|TCL A3X|Delhi_TF|A600DL|
 |TCL|TCL C5|A3A|5152D|
 |TCL|TCL C5|Gauss|5153A|
