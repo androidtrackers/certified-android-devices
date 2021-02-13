@@ -43954,6 +43954,13 @@
    "device": "GTV"
   }
  ],
+ "Fossil G5L": [
+  {
+   "brand": "Fossil",
+   "name": "Fossil Gen 5 LTE",
+   "device": "gila"
+  }
+ ],
  "Fossil Gen 5 LTE": [
   {
    "brand": "Fossil",

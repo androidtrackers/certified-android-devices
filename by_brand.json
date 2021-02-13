@@ -31208,6 +31208,11 @@
   {
    "device": "gila",
    "name": "Fossil Gen 5 LTE",
+   "model": "Fossil G5L"
+  },
+  {
+   "device": "gila",
+   "name": "Fossil Gen 5 LTE",
    "model": "Fossil Gen 5 LTE"
   },
   {

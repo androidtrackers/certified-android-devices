@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-02-12
+Last sync is 2021-02-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6006,6 +6006,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fonos|O3_EEA|O3|O3|
 |Ford|Omni 8|Omni8|Omni8|
 |Formuler|GTV|GTV|GTV|
+|Fossil|Fossil Gen 5 LTE|gila|Fossil G5L|
 |Fossil|Fossil Gen 5 LTE|gila|Fossil Gen 5 LTE|
 |Fossil|Fossil Gen 5e|sole|Fossil 5e|
 |Fossil|Fossil Gen 5e|sole|Fossil SS|
