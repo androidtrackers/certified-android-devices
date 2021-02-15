@@ -108312,6 +108312,11 @@
    "model": "SM-A315N"
   },
   {
+   "device": "SCG08",
+   "name": "Galaxy A32 5G",
+   "model": "SCG08"
+  },
+  {
    "device": "a32x",
    "name": "Galaxy A32 5G",
    "model": "SM-A326B"
@@ -108695,6 +108700,21 @@
    "device": "a51xq",
    "name": "Galaxy A51 5G",
    "model": "SM-A516V"
+  },
+  {
+   "device": "a52xq",
+   "name": "Galaxy A52 5G",
+   "model": "SM-A5260"
+  },
+  {
+   "device": "a52xq",
+   "name": "Galaxy A52 5G",
+   "model": "SM-A526B"
+  },
+  {
+   "device": "a52xq",
+   "name": "Galaxy A52 5G",
+   "model": "SM-A526U"
   },
   {
    "device": "a6elteaio",
@@ -110310,6 +110330,11 @@
    "device": "f41",
    "name": "Galaxy F41",
    "model": "SM-F415F"
+  },
+  {
+   "device": "f62",
+   "name": "Galaxy F62",
+   "model": "SM-E625F"
   },
   {
    "device": "SCH-I629",

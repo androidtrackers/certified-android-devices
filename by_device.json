@@ -140036,6 +140036,13 @@
    "model": "SM-A315N"
   }
  ],
+ "SCG08": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A32 5G",
+   "model": "SCG08"
+  }
+ ],
  "a32x": [
   {
    "brand": "Samsung",
@@ -140431,6 +140438,23 @@
    "brand": "Samsung",
    "name": "Galaxy A51 5G",
    "model": "SM-A516V"
+  }
+ ],
+ "a52xq": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A52 5G",
+   "model": "SM-A5260"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A52 5G",
+   "model": "SM-A526B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A52 5G",
+   "model": "SM-A526U"
   }
  ],
  "a6elteaio": [
@@ -142520,6 +142544,13 @@
    "brand": "Samsung",
    "name": "Galaxy F41",
    "model": "SM-F415F"
+  }
+ ],
+ "f62": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy F62",
+   "model": "SM-E625F"
   }
  ],
  "SCH-I629": [

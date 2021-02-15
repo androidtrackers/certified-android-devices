@@ -140419,6 +140419,11 @@
  "Galaxy A32 5G": [
   {
    "brand": "Samsung",
+   "device": "SCG08",
+   "model": "SCG08"
+  },
+  {
+   "brand": "Samsung",
    "device": "a32x",
    "model": "SM-A326B"
   },
@@ -140825,6 +140830,23 @@
    "brand": "Samsung",
    "device": "a51xq",
    "model": "SM-A516V"
+  }
+ ],
+ "Galaxy A52 5G": [
+  {
+   "brand": "Samsung",
+   "device": "a52xq",
+   "model": "SM-A5260"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a52xq",
+   "model": "SM-A526B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a52xq",
+   "model": "SM-A526U"
   }
  ],
  "Galaxy A6": [
@@ -142567,6 +142589,13 @@
    "brand": "Samsung",
    "device": "f41",
    "model": "SM-F415F"
+  }
+ ],
+ "Galaxy F62": [
+  {
+   "brand": "Samsung",
+   "device": "f62",
+   "model": "SM-E625F"
   }
  ],
  "Galaxy Fame": [

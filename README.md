@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-02-14
+Last sync is 2021-02-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -21070,6 +21070,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A31|a31|SM-A315F|
 |Samsung|Galaxy A31|a31|SM-A315G|
 |Samsung|Galaxy A31|a31|SM-A315N|
+|Samsung|Galaxy A32 5G|SCG08|SCG08|
 |Samsung|Galaxy A32 5G|a32x|SM-A326B|
 |Samsung|Galaxy A32 5G|a32x|SM-A326BR|
 |Samsung|Galaxy A40|a40|SM-A405FM|
@@ -21147,6 +21148,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A51 5G|a51x|SM-A516U|
 |Samsung|Galaxy A51 5G|a51x|SM-A516U1|
 |Samsung|Galaxy A51 5G|a51xq|SM-A516V|
+|Samsung|Galaxy A52 5G|a52xq|SM-A5260|
+|Samsung|Galaxy A52 5G|a52xq|SM-A526B|
+|Samsung|Galaxy A52 5G|a52xq|SM-A526U|
 |Samsung|Galaxy A6|a6elteaio|SM-A600AZ|
 |Samsung|Galaxy A6|a6elteatt|SM-A600A|
 |Samsung|Galaxy A6|a6eltemtr|SM-A600T1|
@@ -21470,6 +21474,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Express2|wilcoxlte|SM-G3815|
 |Samsung|Galaxy F12|f12|SM-F127G|
 |Samsung|Galaxy F41|f41|SM-F415F|
+|Samsung|Galaxy F62|f62|SM-E625F|
 |Samsung|Galaxy Fame|SCH-I629|SCH-I629|
 |Samsung|Galaxy Fame|nevis|GT-S6810|
 |Samsung|Galaxy Fame|nevis|GT-S6810B|
