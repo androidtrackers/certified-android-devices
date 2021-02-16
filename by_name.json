@@ -51687,6 +51687,13 @@
    "model": "F104EvII_PRO_EEA"
   }
  ],
+ "F105D_128GB": [
+  {
+   "brand": "Fusion5",
+   "device": "F105D_128GB",
+   "model": "F105D_128GB"
+  }
+ ],
  "F105Dv2": [
   {
    "brand": "Fusion5",
@@ -67715,6 +67722,11 @@
    "brand": "Honda",
    "device": "yebisuBA",
    "model": "MY20ADA"
+  },
+  {
+   "brand": "Honda",
+   "device": "yebisuDA",
+   "model": "MY21ADA"
   }
  ],
  "Accord": [
@@ -83501,6 +83513,13 @@
    "brand": "JP Sacouto",
    "device": "MG101A4T",
    "model": "mymaga CLASS Plus 2"
+  }
+ ],
+ "JR-101": [
+  {
+   "brand": "JREN",
+   "device": "JR-101",
+   "model": "JR-101"
   }
  ],
  "J3": [
@@ -134499,6 +134518,13 @@
    "model": "Q.3778"
   }
  ],
+ "Q1-21": [
+  {
+   "brand": "Qilive",
+   "device": "QT21101_464_EEA",
+   "model": "QT21101"
+  }
+ ],
  "Q10S55IN4G": [
   {
    "brand": "Qilive",
@@ -172141,6 +172167,11 @@
  "T12": [
   {
    "brand": "TWZ Corporation PLC",
+   "device": "T12",
+   "model": "T12"
+  },
+  {
+   "brand": "Veidoo",
    "device": "T12",
    "model": "T12"
   },

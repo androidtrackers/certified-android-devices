@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-02-15
+Last sync is 2021-02-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6238,6 +6238,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fusion5|F104EvII_EEA|F104EvII_EEA|F104EvII_EEA|
 |Fusion5|F104EvII_PRO|F104EvII_PRO|F104EvII_PRO|
 |Fusion5|F104EvII_PRO_EEA|F104EvII_PRO_EEA|F104EvII_PRO_EEA|
+|Fusion5|F105D_128GB|F105D_128GB|F105D_128GB|
 |Fusion5|F105Dv2|F105Dv2|F105Dv2|
 |Fusion5|F105DvII|F105DvII|F105DvII|
 |Fusion5|F704Bv2|F704Bv2|F704Bv2|
@@ -8737,6 +8738,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honda|A-DA|vcm30t30|MY18ADA|
 |Honda|A-DA|yebisuAA|MY20ADA|
 |Honda|A-DA|yebisuBA|MY20ADA|
+|Honda|A-DA|yebisuDA|MY21ADA|
 |Honda|Accord|koelsch|MY16ADA|
 |Honda|MY15ADA|koelsch|MY15ADA|
 |Honda|NSX|koelsch|MY15ADA|
@@ -11588,6 +11590,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JP Sacouto|TF10EA2|TF10EA2_Medical_2|CASEBOOK_3|
 |JP Sacouto|Verdite Hill|JP_MOVE_S101|Verdite Hill|
 |JP Sacouto|mymaga CLASS Plus 2|MG101A4T|mymaga CLASS Plus 2|
+|JREN|JR-101|JR-101|JR-101|
 |JUSYEA|J3|JUSYEA_J3|J3|
 |JVC||gener|RY-AP1|
 |JVC|4K_Edition|Android_TV_BOX|4K_Edition|
@@ -20077,6 +20080,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |QUBO|THOR|THOR|THOR|
 |QUBO|X626|X626|X626|
 |Qilive|Q.3778|Q3778|Q.3778|
+|Qilive|Q1-21|QT21101_464_EEA|QT21101|
 |Qilive|Q10S55IN4G|Q10S55IN4G|Q10S55IN4G|
 |Qilive|Q10S55IN4G2|Q10S55IN4G2|Q10S55IN4G2|
 |Qilive|Q10S5IN4G|Q10S5IN4G|Q10S5IN4G|
@@ -27816,6 +27820,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vega|D2120|D2140-Cosmos|D2120|
 |Vega|"Tunisa|Europe and Algeria"|yeongdeungpo|
 |Vega|Vega Q7128|Vega_Q7128|Vega Q7128|
+|Veidoo|T12|T12|T12|
 |Veidoo|T20|T20|T20|
 |Veidoo|T20-Plus|T20-Plus|T20-Plus|
 |Veidoo|T7|T7|T7|
