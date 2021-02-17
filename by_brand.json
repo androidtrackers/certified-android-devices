@@ -4020,6 +4020,11 @@
    "model": "V4_Viper_PRO"
   },
   {
+   "device": "V5_Viper",
+   "name": "V5 Viper",
+   "model": "V5_Viper"
+  },
+  {
    "device": "Viva_H1003_LTE",
    "name": "Viva  H1003 LTE",
    "model": "Viva_H1003_LTE"
@@ -6979,6 +6984,13 @@
    "device": "ac101cplv2",
    "name": "alba 10",
    "model": "\"Alba 10\"\"\""
+  }
+ ],
+ "Arima": [
+  {
+   "device": "A100",
+   "name": "A100",
+   "model": "A100"
   }
  ],
  "Ark": [
@@ -31226,16 +31238,6 @@
    "model": "Fossil SS"
   },
   {
-   "device": "triggerfish",
-   "name": "Fossil Gen5",
-   "model": "Julianna HR"
-  },
-  {
-   "device": "triggerfish",
-   "name": "Fossil Gen5",
-   "model": "Lexington 2"
-  },
-  {
    "device": "darter",
    "name": "Fossil Sport",
    "model": "Fadelite"
@@ -31369,6 +31371,16 @@
    "device": "mullet",
    "name": "Wear OS",
    "model": "Vapor"
+  },
+  {
+   "device": "triggerfish",
+   "name": "Wear OS by Google Smartwatch",
+   "model": "Julianna HR"
+  },
+  {
+   "device": "triggerfish",
+   "name": "Wear OS by Google Smartwatch",
+   "model": "Lexington 2"
   }
  ],
  "Four Mobile": [
@@ -132893,6 +132905,11 @@
    "device": "Wright_Pro",
    "name": "Alcatel 1L",
    "model": "4063A"
+  },
+  {
+   "device": "Wright_Pro",
+   "name": "Alcatel 1L",
+   "model": "4063A1"
   },
   {
    "device": "Wright_Pro",

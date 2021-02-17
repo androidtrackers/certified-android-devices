@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-02-16
+Last sync is 2021-02-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -772,6 +772,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|V3 Viper|V3_Viper|V3_Viper|
 |AllView|V4 Viper|V4_Viper|V4_Viper|
 |AllView|V4 Viper PRO|V4_Viper_PRO|V4_Viper_PRO|
+|AllView|V5 Viper|V5_Viper|V5_Viper|
 |AllView|Viva  H1003 LTE|Viva_H1003_LTE|Viva_H1003_LTE|
 |AllView|Viva 1001G|Viva_1001G|Viva_1001G|
 |AllView|Viva 1003G|Viva_1003G|Viva_1003G|
@@ -1355,6 +1356,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Archos|TV Connect|LUDO|ARCHOS LUDOG10|
 |Archos|alba 10|ac101cplv2|ALBA 10 TABLET|
 |Archos|alba 10|ac101cplv2|"Alba 10"""|
+|Arima|A100|A100|A100|
 |Ark|Bebefit M551|Benefit_M551|Benefit_M551|
 |Ark|Benefit M503|Benefit_M503|Benefit_M503|
 |Ark|Benefit M505|Benefit_M505|Benefit_M505|
@@ -6010,8 +6012,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fossil|Fossil Gen 5 LTE|gila|Fossil Gen 5 LTE|
 |Fossil|Fossil Gen 5e|sole|Fossil 5e|
 |Fossil|Fossil Gen 5e|sole|Fossil SS|
-|Fossil|Fossil Gen5|triggerfish|Julianna HR|
-|Fossil|Fossil Gen5|triggerfish|Lexington 2|
 |Fossil|Fossil Sport|darter|Fadelite|
 |Fossil|Fossil Sport|darter|Hugo|
 |Fossil|Fossil Sport|darter|MK Go|
@@ -6039,6 +6039,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fossil|Wear|shiner|Riley Touchscreen|
 |Fossil|Wear|shiner|Sofie|
 |Fossil|Wear OS|mullet|Vapor|
+|Fossil|Wear OS by Google Smartwatch|triggerfish|Julianna HR|
+|Fossil|Wear OS by Google Smartwatch|triggerfish|Lexington 2|
 |Four Mobile|S186_Sky_3|S186_Sky_3|S186_Sky_3|
 |Four Mobile|S62_Eco_3|S62_Eco_3|S62_Eco_3|
 |Four Mobile|S710 Ruby|S710_Ruby|S710 Ruby|
@@ -25933,6 +25935,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1C|U5A_PLUS_3G|5009U|
 |TCT (Alcatel)|Alcatel 1E|PIXI4-4C_GO|4034T|
 |TCT (Alcatel)|Alcatel 1L|Wright_Pro|4063A|
+|TCT (Alcatel)|Alcatel 1L|Wright_Pro|4063A1|
 |TCT (Alcatel)|Alcatel 1L PLUS|Wright_Pro|4063F|
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024A|
 |TCT (Alcatel)|Alcatel 1S|Faraday|5024D|

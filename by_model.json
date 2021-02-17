@@ -2264,6 +2264,11 @@
    "device": "vangogh"
   },
   {
+   "brand": "Arima",
+   "name": "A100",
+   "device": "A100"
+  },
+  {
    "brand": "ZTE",
    "name": "V9",
    "device": "v9"
@@ -6689,6 +6694,13 @@
    "brand": "AllView",
    "name": "V4 Viper PRO",
    "device": "V4_Viper_PRO"
+  }
+ ],
+ "V5_Viper": [
+  {
+   "brand": "AllView",
+   "name": "V5 Viper",
+   "device": "V5_Viper"
   }
  ],
  "Viva_H1003_LTE": [
@@ -43982,20 +43994,6 @@
    "device": "sole"
   }
  ],
- "Julianna HR": [
-  {
-   "brand": "Fossil",
-   "name": "Fossil Gen5",
-   "device": "triggerfish"
-  }
- ],
- "Lexington 2": [
-  {
-   "brand": "Fossil",
-   "name": "Fossil Gen5",
-   "device": "triggerfish"
-  }
- ],
  "Fadelite": [
   {
    "brand": "Fossil",
@@ -44179,6 +44177,20 @@
    "brand": "Fossil",
    "name": "Wear",
    "device": "shiner"
+  }
+ ],
+ "Julianna HR": [
+  {
+   "brand": "Fossil",
+   "name": "Wear OS by Google Smartwatch",
+   "device": "triggerfish"
+  }
+ ],
+ "Lexington 2": [
+  {
+   "brand": "Fossil",
+   "name": "Wear OS by Google Smartwatch",
+   "device": "triggerfish"
   }
  ],
  "S186_Sky_3": [
@@ -176865,6 +176877,13 @@
   }
  ],
  "4063A": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1L",
+   "device": "Wright_Pro"
+  }
+ ],
+ "4063A1": [
   {
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1L",

@@ -7461,6 +7461,13 @@
    "model": "V4_Viper_PRO"
   }
  ],
+ "V5_Viper": [
+  {
+   "brand": "AllView",
+   "name": "V5 Viper",
+   "model": "V5_Viper"
+  }
+ ],
  "Viva_H1003_LTE": [
   {
    "brand": "AllView",
@@ -11888,6 +11895,13 @@
    "brand": "Archos",
    "name": "TV Connect",
    "model": "ARCHOS LUDOG10"
+  }
+ ],
+ "A100": [
+  {
+   "brand": "Arima",
+   "name": "A100",
+   "model": "A100"
   }
  ],
  "Benefit_M551": [
@@ -45721,18 +45735,6 @@
    "model": "Fossil SS"
   }
  ],
- "triggerfish": [
-  {
-   "brand": "Fossil",
-   "name": "Fossil Gen5",
-   "model": "Julianna HR"
-  },
-  {
-   "brand": "Fossil",
-   "name": "Fossil Gen5",
-   "model": "Lexington 2"
-  }
- ],
  "darter": [
   {
    "brand": "Fossil",
@@ -45882,6 +45884,18 @@
    "brand": "Fossil",
    "name": "Wear",
    "model": "Sofie"
+  }
+ ],
+ "triggerfish": [
+  {
+   "brand": "Fossil",
+   "name": "Wear OS by Google Smartwatch",
+   "model": "Julianna HR"
+  },
+  {
+   "brand": "Fossil",
+   "name": "Wear OS by Google Smartwatch",
+   "model": "Lexington 2"
   }
  ],
  "S186_Sky_3": [
@@ -171700,6 +171714,11 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1L",
    "model": "4063A"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1L",
+   "model": "4063A1"
   },
   {
    "brand": "TCT (Alcatel)",
