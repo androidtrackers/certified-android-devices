@@ -21153,6 +21153,13 @@
    "model": "SHARK MBU-H0"
   }
  ],
+ "kaiser": [
+  {
+   "brand": "Blackshark",
+   "name": "SHARK KSR-A0",
+   "model": "SHARK KSR-A0"
+  }
+ ],
  "shark": [
   {
    "brand": "Blackshark",
@@ -35987,6 +35994,48 @@
    "model": "BHT-1800QWBG-3-A7"
   }
  ],
+ "BHT-M60-QW-A10": [
+  {
+   "brand": "Denso Wave",
+   "name": "BHT-M60-QW-A10",
+   "model": "BHT-M60-QW-A10"
+  }
+ ],
+ "BHT-M60-QWG-A10": [
+  {
+   "brand": "Denso Wave",
+   "name": "BHT-M60-QWG-A10",
+   "model": "BHT-M60-QWG-A10"
+  }
+ ],
+ "BHT-M70-QW-A10": [
+  {
+   "brand": "Denso Wave",
+   "name": "BHT-M70-QW-A10",
+   "model": "BHT-M70-QW-A10"
+  }
+ ],
+ "BHT-M70-QWG-A10": [
+  {
+   "brand": "Denso Wave",
+   "name": "BHT-M70-QWG-A10",
+   "model": "BHT-M70-QWG-A10"
+  }
+ ],
+ "BHT-M80-QW-A10": [
+  {
+   "brand": "Denso Wave",
+   "name": "BHT-M80-QW-A10",
+   "model": "BHT-M80-QW-A10"
+  }
+ ],
+ "BHT-M80-QWG-A10": [
+  {
+   "brand": "Denso Wave",
+   "name": "BHT-M80-QWG-A10",
+   "model": "BHT-M80-QWG-A10"
+  }
+ ],
  "SCQ-50001G": [
   {
    "brand": "Denver Electronics",
@@ -40490,6 +40539,13 @@
    "model": "K601"
   }
  ],
+ "K604": [
+  {
+   "brand": "EPIKONE",
+   "name": "K604",
+   "model": "K604"
+  }
+ ],
  "K605": [
   {
    "brand": "EPIKONE",
@@ -44625,6 +44681,16 @@
   {
    "brand": "Kenxinda",
    "name": "A9",
+   "model": "A9"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "A9",
+   "model": "A9"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "A9 EEA",
    "model": "A9"
   }
  ],
@@ -73853,6 +73919,11 @@
    "brand": "Smartec",
    "name": "N4",
    "model": "N4"
+  },
+  {
+   "brand": "Win (VE)",
+   "name": "N4",
+   "model": "N4"
   }
  ],
  "N5": [
@@ -74631,6 +74702,18 @@
    "model": "IK-1028"
   }
  ],
+ "A25": [
+  {
+   "brand": "IkuMobile",
+   "name": "A25",
+   "model": "A25"
+  },
+  {
+   "brand": "Trident",
+   "name": "A25",
+   "model": "A25"
+  }
+ ],
  "I3": [
   {
    "brand": "IkuMobile",
@@ -74671,6 +74754,23 @@
    "brand": "IkuMobile",
    "name": "K2",
    "model": "K2"
+  }
+ ],
+ "Note_10": [
+  {
+   "brand": "IkuMobile",
+   "name": "Note_10",
+   "model": "Note 10"
+  },
+  {
+   "brand": "Ulefone",
+   "name": "Note 10",
+   "model": "Note 10"
+  },
+  {
+   "brand": "Ulefone",
+   "name": "Note_10",
+   "model": "Note 10"
   }
  ],
  "T1": [
@@ -79951,6 +80051,13 @@
    "brand": "JVC",
    "name": "4K_Edition",
    "model": "4K_Edition"
+  }
+ ],
+ "AV-08NT310": [
+  {
+   "brand": "JVC",
+   "name": "AV-08NT310",
+   "model": "AV-08NT310"
   }
  ],
  "AV-10NT310": [
@@ -110139,11 +110246,25 @@
    "model": "SmartE11"
   }
  ],
+ "Smart_E11_1": [
+  {
+   "brand": "Mobiwire",
+   "name": "Smart E11",
+   "model": "SmartE11"
+  }
+ ],
  "Smart_N11": [
   {
    "brand": "Mobiwire",
    "name": "Smart N11",
    "model": "SmartN11"
+  }
+ ],
+ "Smart_N12": [
+  {
+   "brand": "Mobiwire",
+   "name": "Smart N12",
+   "model": "SmartN12"
   }
  ],
  "Tala": [
@@ -110870,6 +110991,13 @@
    "brand": "Motorola",
    "name": "",
    "model": "MB501"
+  }
+ ],
+ "bathena": [
+  {
+   "brand": "Motorola",
+   "name": "Athena",
+   "model": "Motorola Defy"
   }
  ],
  "olympus": [
@@ -113868,11 +113996,25 @@
    "model": "Kidpad-3G"
   }
  ],
+ "ML-JI16-M10-3G": [
+  {
+   "brand": "Multilaser",
+   "name": "M10 3G",
+   "model": "M10-3G"
+  }
+ ],
  "ML-JI0A-M10-4G": [
   {
    "brand": "Multilaser",
    "name": "M10 4G",
    "model": "M10-4G"
+  }
+ ],
+ "ML_JI0B_M10_4G_PRO": [
+  {
+   "brand": "Multilaser",
+   "name": "M10 4G PRO",
+   "model": "M10_4G_PRO"
   }
  ],
  "ML-JI06-M10-3G": [
@@ -113922,6 +114064,13 @@
    "brand": "Multilaser",
    "name": "M10_4G_PRO",
    "model": "M10_4G_PRO"
+  }
+ ],
+ "ML-JI0G-M7-3G-PLUS": [
+  {
+   "brand": "Multilaser",
+   "name": "M7 3G PLUS",
+   "model": "M7-3G-PLUS"
   }
  ],
  "ML-JI11-M7_3G_PLUS": [
@@ -119772,6 +119921,13 @@
    "brand": "ODS Corporation",
    "name": "TA2C-DR9",
    "model": "TA2C-DR9"
+  }
+ ],
+ "TA2C-DR94G": [
+  {
+   "brand": "ODS Corporation",
+   "name": "TA2C-DR94G",
+   "model": "TA2C-DR94G"
   }
  ],
  "GOAL_10_PLUS_3G": [
@@ -139538,23 +139694,13 @@
  "a02q": [
   {
    "brand": "Samsung",
-   "name": "Galaxy A02",
+   "name": "Galaxy A02s",
    "model": "SM-A025A"
   },
   {
    "brand": "Samsung",
-   "name": "Galaxy A02",
+   "name": "Galaxy A02s",
    "model": "SM-A025AZ"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy A02",
-   "model": "SM-A025G"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy A02",
-   "model": "SM-A025V"
   },
   {
    "brand": "Samsung",
@@ -139570,6 +139716,11 @@
    "brand": "Samsung",
    "name": "Galaxy A02s",
    "model": "SM-A025M"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A02s",
+   "model": "SM-A025V"
   },
   {
    "brand": "Samsung",
@@ -174001,6 +174152,13 @@
    "model": "TR10CD1_3"
   }
  ],
+ "EOS_Pro": [
+  {
+   "brand": "TIANHOO",
+   "name": "EOS Pro",
+   "model": "EOS Pro"
+  }
+ ],
  "uzw4010tim": [
   {
    "brand": "TIM",
@@ -174370,6 +174528,13 @@
    "brand": "TVB",
    "name": "A15",
    "model": "A15"
+  }
+ ],
+ "DV6069Y_TVPLUS": [
+  {
+   "brand": "TVPLUS",
+   "name": "TV PLUS 4K BOX",
+   "model": "TV PLUS 4K BOX"
   }
  ],
  "HPA12_8GB": [
@@ -178711,13 +178876,6 @@
    "model": "A23 Max"
   }
  ],
- "A25": [
-  {
-   "brand": "Trident",
-   "name": "A25",
-   "model": "A25"
-  }
- ],
  "A53_PRO": [
   {
    "brand": "Trident",
@@ -179197,6 +179355,20 @@
    "brand": "Turbonet",
    "name": "TN500A2",
    "model": "TN500A2"
+  }
+ ],
+ "TN502A1": [
+  {
+   "brand": "Turbonet",
+   "name": "TN502A1",
+   "model": "TN502A1"
+  }
+ ],
+ "access": [
+  {
+   "brand": "Turbonet",
+   "name": "TN502A1",
+   "model": "access"
   }
  ],
  "TN800A1": [
@@ -179734,18 +179906,6 @@
    "brand": "Ulefone",
    "name": "MIX S",
    "model": "MIX_S"
-  }
- ],
- "Note_10": [
-  {
-   "brand": "Ulefone",
-   "name": "Note 10",
-   "model": "Note 10"
-  },
-  {
-   "brand": "Ulefone",
-   "name": "Note_10",
-   "model": "Note 10"
   }
  ],
  "Note_11P": [
@@ -200764,20 +200924,6 @@
    "model": "ET5X"
   }
  ],
- "L10A": [
-  {
-   "brand": "Zebra",
-   "name": "L10A",
-   "model": "L10A"
-  }
- ],
- "L10AW": [
-  {
-   "brand": "Zebra",
-   "name": "L10AW",
-   "model": "L10AW"
-  }
- ],
  "MC18": [
   {
    "brand": "Zebra",
@@ -200991,20 +201137,6 @@
    "model": "TC8000"
   }
  ],
- "TC83B0": [
-  {
-   "brand": "Zebra",
-   "name": "TC83B0",
-   "model": "TC8300"
-  }
- ],
- "TC83BH": [
-  {
-   "brand": "Zebra",
-   "name": "TC83BH",
-   "model": "TC8300"
-  }
- ],
  "VC80x": [
   {
    "brand": "Zebra",
@@ -201012,18 +201144,25 @@
    "model": "VC80x"
   }
  ],
- "VC8308": [
-  {
-   "brand": "Zebra",
-   "name": "\"VC8300 8\"\"\"",
-   "model": "VC8300"
-  }
- ],
  "WT6000": [
   {
    "brand": "Zebra",
    "name": "WT6000",
    "model": "WT6000"
+  }
+ ],
+ "L10A": [
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies L10",
+   "model": "L10A"
+  }
+ ],
+ "L10AW": [
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies L10",
+   "model": "L10AW"
   }
  ],
  "MC2200": [
@@ -201062,6 +201201,27 @@
    "brand": "Zebra",
    "name": "Zebra Technologies TC57x",
    "model": "TC57X"
+  }
+ ],
+ "TC83B0": [
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies TC8300",
+   "model": "TC8300"
+  }
+ ],
+ "TC83BH": [
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies TC8300",
+   "model": "TC8300"
+  }
+ ],
+ "VC8308": [
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies VC8300",
+   "model": "VC8300"
   }
  ],
  "WT63B0": [

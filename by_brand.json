@@ -13594,6 +13594,11 @@
    "model": "SHARK MBU-H0"
   },
   {
+   "device": "kaiser",
+   "name": "SHARK KSR-A0",
+   "model": "SHARK KSR-A0"
+  },
+  {
    "device": "shark",
    "name": "Shark",
    "model": "SKR-H0"
@@ -24174,6 +24179,36 @@
    "device": "BHT-1800QWBG-3-A7",
    "name": "BHT-1800QWBG-3-A7",
    "model": "BHT-1800QWBG-3-A7"
+  },
+  {
+   "device": "BHT-M60-QW-A10",
+   "name": "BHT-M60-QW-A10",
+   "model": "BHT-M60-QW-A10"
+  },
+  {
+   "device": "BHT-M60-QWG-A10",
+   "name": "BHT-M60-QWG-A10",
+   "model": "BHT-M60-QWG-A10"
+  },
+  {
+   "device": "BHT-M70-QW-A10",
+   "name": "BHT-M70-QW-A10",
+   "model": "BHT-M70-QW-A10"
+  },
+  {
+   "device": "BHT-M70-QWG-A10",
+   "name": "BHT-M70-QWG-A10",
+   "model": "BHT-M70-QWG-A10"
+  },
+  {
+   "device": "BHT-M80-QW-A10",
+   "name": "BHT-M80-QW-A10",
+   "model": "BHT-M80-QW-A10"
+  },
+  {
+   "device": "BHT-M80-QWG-A10",
+   "name": "BHT-M80-QWG-A10",
+   "model": "BHT-M80-QWG-A10"
   }
  ],
  "Denver Electronics": [
@@ -27445,6 +27480,11 @@
    "device": "K601",
    "name": "K601",
    "model": "K601"
+  },
+  {
+   "device": "K604",
+   "name": "K604",
+   "model": "K604"
   },
   {
    "device": "K605",
@@ -55453,6 +55493,11 @@
    "model": "A20"
   },
   {
+   "device": "A25",
+   "name": "A25",
+   "model": "A25"
+  },
+  {
    "device": "A30",
    "name": "A30",
    "model": "A30"
@@ -55511,6 +55556,11 @@
    "device": "K5",
    "name": "K5",
    "model": "K5"
+  },
+  {
+   "device": "Note_10",
+   "name": "Note_10",
+   "model": "Note 10"
   },
   {
    "device": "T1",
@@ -59638,6 +59688,11 @@
    "device": "Android_TV_BOX",
    "name": "4K_Edition",
    "model": "4K_Edition"
+  },
+  {
+   "device": "AV-08NT310",
+   "name": "AV-08NT310",
+   "model": "AV-08NT310"
   },
   {
    "device": "AV-10NT310",
@@ -83872,9 +83927,19 @@
    "model": "SmartE11"
   },
   {
+   "device": "Smart_E11_1",
+   "name": "Smart E11",
+   "model": "SmartE11"
+  },
+  {
    "device": "Smart_N11",
    "name": "Smart N11",
    "model": "SmartN11"
+  },
+  {
+   "device": "Smart_N12",
+   "name": "Smart N12",
+   "model": "SmartN12"
   },
   {
    "device": "Tala",
@@ -84423,6 +84488,11 @@
    "device": "zepp",
    "name": "",
    "model": "MB501"
+  },
+  {
+   "device": "bathena",
+   "name": "Athena",
+   "model": "Motorola Defy"
   },
   {
    "device": "olympus",
@@ -86955,9 +87025,19 @@
    "model": "Kidpad-3G"
   },
   {
+   "device": "ML-JI16-M10-3G",
+   "name": "M10 3G",
+   "model": "M10-3G"
+  },
+  {
    "device": "ML-JI0A-M10-4G",
    "name": "M10 4G",
    "model": "M10-4G"
+  },
+  {
+   "device": "ML_JI0B_M10_4G_PRO",
+   "name": "M10 4G PRO",
+   "model": "M10_4G_PRO"
   },
   {
    "device": "ML-JI06-M10-3G",
@@ -86998,6 +87078,11 @@
    "device": "ML_SO0G_M10_4G_PRO_PLUS",
    "name": "M10_4G_PRO",
    "model": "M10_4G_PRO"
+  },
+  {
+   "device": "ML-JI0G-M7-3G-PLUS",
+   "name": "M7 3G PLUS",
+   "model": "M7-3G-PLUS"
   },
   {
    "device": "ML-JI11-M7_3G_PLUS",
@@ -91675,6 +91760,11 @@
    "device": "TA2C-DR9",
    "name": "TA2C-DR9",
    "model": "TA2C-DR9"
+  },
+  {
+   "device": "TA2C-DR94G",
+   "name": "TA2C-DR94G",
+   "model": "TA2C-DR94G"
   }
  ],
  "ODYS": [
@@ -107852,23 +107942,13 @@
   },
   {
    "device": "a02q",
-   "name": "Galaxy A02",
+   "name": "Galaxy A02s",
    "model": "SM-A025A"
   },
   {
    "device": "a02q",
-   "name": "Galaxy A02",
+   "name": "Galaxy A02s",
    "model": "SM-A025AZ"
-  },
-  {
-   "device": "a02q",
-   "name": "Galaxy A02",
-   "model": "SM-A025G"
-  },
-  {
-   "device": "a02q",
-   "name": "Galaxy A02",
-   "model": "SM-A025V"
   },
   {
    "device": "a02q",
@@ -107884,6 +107964,11 @@
    "device": "a02q",
    "name": "Galaxy A02s",
    "model": "SM-A025M"
+  },
+  {
+   "device": "a02q",
+   "name": "Galaxy A02s",
+   "model": "SM-A025V"
   },
   {
    "device": "a10",
@@ -136356,6 +136441,13 @@
    "model": "TR10CD1_3"
   }
  ],
+ "TIANHOO": [
+  {
+   "device": "EOS_Pro",
+   "name": "EOS Pro",
+   "model": "EOS Pro"
+  }
+ ],
  "TIGO": [
   {
    "device": "vip6102w",
@@ -136681,6 +136773,13 @@
    "device": "A151",
    "name": "A15",
    "model": "A15"
+  }
+ ],
+ "TVPLUS": [
+  {
+   "device": "DV6069Y_TVPLUS",
+   "name": "TV PLUS 4K BOX",
+   "model": "TV PLUS 4K BOX"
   }
  ],
  "TVUp": [
@@ -140719,6 +140818,16 @@
    "model": "TN500A2"
   },
   {
+   "device": "TN502A1",
+   "name": "TN502A1",
+   "model": "TN502A1"
+  },
+  {
+   "device": "access",
+   "name": "TN502A1",
+   "model": "access"
+  },
+  {
    "device": "TN800A1",
    "name": "TurboTab E1",
    "model": "TN800A1"
@@ -141574,6 +141683,16 @@
    "device": "A7S",
    "name": "A7S EEA",
    "model": "A7S"
+  },
+  {
+   "device": "A9",
+   "name": "A9",
+   "model": "A9"
+  },
+  {
+   "device": "A9",
+   "name": "A9 EEA",
+   "model": "A9"
   },
   {
    "device": "A9_Pro",
@@ -149293,6 +149412,11 @@
    "device": "M5plus",
    "name": "M5plus",
    "model": "M5plus"
+  },
+  {
+   "device": "N4",
+   "name": "N4",
+   "model": "N4"
   },
   {
    "device": "N4plus",
@@ -159559,16 +159683,6 @@
    "model": "ET5X"
   },
   {
-   "device": "L10A",
-   "name": "L10A",
-   "model": "L10A"
-  },
-  {
-   "device": "L10AW",
-   "name": "L10AW",
-   "model": "L10AW"
-  },
-  {
    "device": "MC18",
    "name": "MC18",
    "model": "MC18N0"
@@ -159724,29 +159838,24 @@
    "model": "TC8000"
   },
   {
-   "device": "TC83B0",
-   "name": "TC83B0",
-   "model": "TC8300"
-  },
-  {
-   "device": "TC83BH",
-   "name": "TC83BH",
-   "model": "TC8300"
-  },
-  {
    "device": "VC80x",
    "name": "VC80x",
    "model": "VC80x"
   },
   {
-   "device": "VC8308",
-   "name": "\"VC8300 8\"\"\"",
-   "model": "VC8300"
-  },
-  {
    "device": "WT6000",
    "name": "WT6000",
    "model": "WT6000"
+  },
+  {
+   "device": "L10A",
+   "name": "Zebra Technologies L10",
+   "model": "L10A"
+  },
+  {
+   "device": "L10AW",
+   "name": "Zebra Technologies L10",
+   "model": "L10AW"
   },
   {
    "device": "MC2200",
@@ -159787,6 +159896,21 @@
    "device": "TC57X",
    "name": "Zebra Technologies TC57x",
    "model": "TC57X"
+  },
+  {
+   "device": "TC83B0",
+   "name": "Zebra Technologies TC8300",
+   "model": "TC8300"
+  },
+  {
+   "device": "TC83BH",
+   "name": "Zebra Technologies TC8300",
+   "model": "TC8300"
+  },
+  {
+   "device": "VC8308",
+   "name": "Zebra Technologies VC8300",
+   "model": "VC8300"
   },
   {
    "device": "WT63B0",

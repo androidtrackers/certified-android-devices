@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-02-17
+Last sync is 2021-02-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2638,6 +2638,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackshark|KLE-H0|klein|SHARK KLE-H0|
 |Blackshark|MBU-A0|mobius|SHARK MBU-A0|
 |Blackshark|MBU-H0|mobius|SHARK MBU-H0|
+|Blackshark|SHARK KSR-A0|kaiser|SHARK KSR-A0|
 |Blackshark|Shark|shark|SKR-H0|
 |Blackshark|Shark 1S|bullhead|AWM-A0|
 |Blackshark|黑鲨游戏手机|shark|SKR-A0|
@@ -4672,6 +4673,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Denso Wave|BHT-1800QWBG-1-A7|BHT-1800QWBG-1-A7|BHT-1800QWBG-1-A7|
 |Denso Wave|BHT-1800QWBG-2-A7|BHT-1800QWBG-2-A7|BHT-1800QWBG-2-A7|
 |Denso Wave|BHT-1800QWBG-3-A7|BHT-1800QWBG-3-A7|BHT-1800QWBG-3-A7|
+|Denso Wave|BHT-M60-QW-A10|BHT-M60-QW-A10|BHT-M60-QW-A10|
+|Denso Wave|BHT-M60-QWG-A10|BHT-M60-QWG-A10|BHT-M60-QWG-A10|
+|Denso Wave|BHT-M70-QW-A10|BHT-M70-QW-A10|BHT-M70-QW-A10|
+|Denso Wave|BHT-M70-QWG-A10|BHT-M70-QWG-A10|BHT-M70-QWG-A10|
+|Denso Wave|BHT-M80-QW-A10|BHT-M80-QW-A10|BHT-M80-QW-A10|
+|Denso Wave|BHT-M80-QWG-A10|BHT-M80-QWG-A10|BHT-M80-QWG-A10|
 |Denver Electronics|SCQ-50001G|SCQ-50001G|SCQ-50001G|
 |Denver Electronics|SDQ-55034L|SDQ-55034L|SDQ-55034L|
 |Denver Electronics|SDQ-55044L|SDQ-55044L|SDQ-55044L|
@@ -5297,6 +5304,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EPIKONE|K600|K600|K600|
 |EPIKONE|K601|K600|K600|
 |EPIKONE|K601|K601|K601|
+|EPIKONE|K604|K604|K604|
 |EPIKONE|K605|K605|K605|
 |EPIKONE|RS550|RS550|RS550|
 |EPIKONE|T700|T700|T700|
@@ -10777,6 +10785,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ikon|IKON|IK-1028|IK-1028|
 |IkuMobile|A10|A10|A10|
 |IkuMobile|A20|A20|A20|
+|IkuMobile|A25|A25|A25|
 |IkuMobile|A30|A30|A30|
 |IkuMobile|A50|A50|iKU A50|
 |IkuMobile|A6|A6|A6|
@@ -10789,6 +10798,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IkuMobile|K2|IKU_K2|K2|
 |IkuMobile|K3|K3|IKU K3|
 |IkuMobile|K5|K5|K5|
+|IkuMobile|Note_10|Note_10|Note 10|
 |IkuMobile|T1|T1|iKU T1|
 |IkuMobile|T4|T4|T4|
 |IkuMobile|T6|T6|T6|
@@ -11596,6 +11606,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JUSYEA|J3|JUSYEA_J3|J3|
 |JVC||gener|RY-AP1|
 |JVC|4K_Edition|Android_TV_BOX|4K_Edition|
+|JVC|AV-08NT310|AV-08NT310|AV-08NT310|
 |JVC|AV-10NT310|AV-10NT310|AV-10NT310|
 |JVC|AV-11NT510|AV-11NT510|AV-11NT510|
 |JVC|Amtran|gangbyeon|4K AI Smart TV|
@@ -16330,7 +16341,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|STARSHINE 5|Cygnus_mini|Smart_A25|
 |Mobiwire|STARXTREM 5|STARXTREM5|STARXTREM5|
 |Mobiwire|Smart E11|Smart_E11|SmartE11|
+|Mobiwire|Smart E11|Smart_E11_1|SmartE11|
 |Mobiwire|Smart N11|Smart_N11|SmartN11|
+|Mobiwire|Smart N12|Smart_N12|SmartN12|
 |Mobiwire|Tala|Tala|Tala|
 |Mobiwire|Telenor SmartPlus|Telenor_SmartPlus|Telenor_SmartPlus|
 |Mobiwire|Telstra Lite Plus|Telstra_Lite_Plus|Telstra Lite Plus|
@@ -16435,6 +16448,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola||umts_venus2|XT610|
 |Motorola||wifi_hubble|MZ604|
 |Motorola||zepp|MB501|
+|Motorola|Athena|bathena|Motorola Defy|
 |Motorola|Atrix|olympus|MB860|
 |Motorola|Atrix|olympus|MB861|
 |Motorola|Atrix|olympus|ME860|
@@ -16935,7 +16949,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|KIDPAD 3G|ML-JI21-M7-3G-PLUS-KIDPAD|KIDPAD-3G|
 |Multilaser|KIDPAD LITE|ML-SO06-M7S-LITE-KIDPAD|KIDPAD_LITE|
 |Multilaser|Kidpad-3G|Kidpad-3G|Kidpad-3G|
+|Multilaser|M10 3G|ML-JI16-M10-3G|M10-3G|
 |Multilaser|M10 4G|ML-JI0A-M10-4G|M10-4G|
+|Multilaser|M10 4G PRO|ML_JI0B_M10_4G_PRO|M10_4G_PRO|
 |Multilaser|M10-3G|ML-JI06-M10-3G|M10-3G|
 |Multilaser|M10-4G|ML-JI03-M10-4G|M10-4G|
 |Multilaser|M10A|M10A|M10A|
@@ -16944,6 +16960,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M10A_Lite|ML_SO0A_M10A_Lite|M10A_Lite|
 |Multilaser|M10_4G_PRO|ML-SO0C_M10_4G_PRO_PLUS|M10_4G_PRO|
 |Multilaser|M10_4G_PRO|ML_SO0G_M10_4G_PRO_PLUS|M10_4G_PRO|
+|Multilaser|M7 3G PLUS|ML-JI0G-M7-3G-PLUS|M7-3G-PLUS|
 |Multilaser|M7 3G PLUS|ML-JI11-M7_3G_PLUS|M7_3G_PLUS|
 |Multilaser|M7 3G PLUS|ML-JI31-M7-3G-PLUS|M7-3G-PLUS|
 |Multilaser|M7 3G PLUS|ML_WI0A_M7_3G_PLUS|M7_3G_PLUS|
@@ -17843,6 +17860,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OASYS|TEG9300-M|TEG9300-M|TEG9300-M|
 |OBOX|OBOX4K.20|DV8519-BOX|OBOX4k.20|
 |ODS Corporation|TA2C-DR9|TA2C-DR9|TA2C-DR9|
+|ODS Corporation|TA2C-DR94G|TA2C-DR94G|TA2C-DR94G|
 |ODYS|GOAL_10_PLUS_3G|GOAL_10_PLUS_3G|GOAL_10_PLUS_3G|
 |ODYS|JUNIOR_8_PRO_EEA|JUNIOR_8_PRO|JUNIOR_8_PRO|
 |ODYS|MAVEN_X10_HD_LTE|MAVEN_X10_HD_LTE|MAVEN_X10_HD_LTE|
@@ -20977,13 +20995,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A02|a02|SM-A022F|
 |Samsung|Galaxy A02|a02|SM-A022G|
 |Samsung|Galaxy A02|a02|SM-A022M|
-|Samsung|Galaxy A02|a02q|SM-A025A|
-|Samsung|Galaxy A02|a02q|SM-A025AZ|
-|Samsung|Galaxy A02|a02q|SM-A025G|
-|Samsung|Galaxy A02|a02q|SM-A025V|
+|Samsung|Galaxy A02s|a02q|SM-A025A|
+|Samsung|Galaxy A02s|a02q|SM-A025AZ|
 |Samsung|Galaxy A02s|a02q|SM-A025F|
 |Samsung|Galaxy A02s|a02q|SM-A025G|
 |Samsung|Galaxy A02s|a02q|SM-A025M|
+|Samsung|Galaxy A02s|a02q|SM-A025V|
 |Samsung|Galaxy A10|a10|SM-A105F|
 |Samsung|Galaxy A10|a10|SM-A105FN|
 |Samsung|Galaxy A10|a10|SM-A105G|
@@ -26620,6 +26637,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |THOMSON_KODAK|PATH_7XPRO|LEDTV32HD|PATH_7XPRO|
 |THOMSON_KODAK|PATH_UHDXANDROID|LEDTVUHD|PATH_UHDXANDROID|
 |THTF|"TSINGHUA TONGFANG CO.|LTD."|TR10CD1_3|
+|TIANHOO|EOS Pro|EOS_Pro|EOS Pro|
 |TIGO|ONEtv|vip6102w|ONEtv|
 |TIM|TIM BOX|uzw4010tim|TIM_BOX|
 |TIM|TIMvision|dwt765ti|skipper|
@@ -26677,6 +26695,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TUNTUN English|DREAM PAD|delight|ITP-R408W|
 |TUPAD|TU7_58212_18222|TU7_58212|TU7_18222|
 |TVB|A15|A151|A15|
+|TVPLUS|TV PLUS 4K BOX|DV6069Y_TVPLUS|TV PLUS 4K BOX|
 |TVUp|HP5116|HPA12_8GB|HP5116|
 |TVUp|Mediacenter 6G 4K|SEI300T|Mediacenter 6G 4K|
 |TVision|SEI400TM|SEI400TM|TVision|
@@ -27447,6 +27466,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Turbonet|TN451A1|TN451A1-RF|TN451A1|
 |Turbonet|TN500A1|TN500A1|TN500A1|
 |Turbonet|TN500A2|TN500A2|TN500A2|
+|Turbonet|TN502A1|TN502A1|TN502A1|
+|Turbonet|TN502A1|access|access|
 |Turbonet|TurboTab E1|TN800A1|TN800A1|
 |Turbopad|Dream|Dream|Dream|
 |Turbopad|Mercury|Mercury|Mercury|
@@ -27610,6 +27631,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|A7 Pro EEA|A7_Pro|A7 Pro|
 |Umidigi|A7S|A7S|A7S|
 |Umidigi|A7S EEA|A7S|A7S|
+|Umidigi|A9|A9|A9|
+|Umidigi|A9 EEA|A9|A9|
 |Umidigi|A9 Pro|A9_Pro|A9 Pro|
 |Umidigi|A9 Pro 128G|A9_Pro_128GB|A9 Pro|
 |Umidigi|A9 Pro 128G EEA|A9_Pro_128GB|A9 Pro|
@@ -29101,6 +29124,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Win (VE)|M3|M3|M3|
 |Win (VE)|M5|M5|M5|
 |Win (VE)|M5plus|M5plus|M5plus|
+|Win (VE)|N4|N4|N4|
 |Win (VE)|N4plus|N4plus|N4plus|
 |Win (VE)|Q7|Q7|Q7|
 |Win (VE)|Q9|Q9|Q9|
@@ -31125,8 +31149,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|ET5X|ET50T|ET5X|
 |Zebra|ET5X|ET55E|ET5X|
 |Zebra|ET5X|ET55T|ET5X|
-|Zebra|L10A|L10A|L10A|
-|Zebra|L10AW|L10AW|L10AW|
 |Zebra|MC18|MC18|MC18N0|
 |Zebra|MC3300x|MC3300x|MC3300x|
 |Zebra|MC3300x|MC3300xC|MC3300x|
@@ -31158,11 +31180,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|TC75xDF|TC75xDF|TC75x|
 |Zebra|TC77|TC77|TC77|
 |Zebra|TC8000|TC8000|TC8000|
-|Zebra|TC83B0|TC83B0|TC8300|
-|Zebra|TC83BH|TC83BH|TC8300|
 |Zebra|VC80x|VC80x|VC80x|
-|Zebra|"VC8300 8"""|VC8308|VC8300|
 |Zebra|WT6000|WT6000|WT6000|
+|Zebra|Zebra Technologies L10|L10A|L10A|
+|Zebra|Zebra Technologies L10|L10AW|L10AW|
 |Zebra|Zebra Technologies MC2200|MC2200|MC2200|
 |Zebra|Zebra Technologies MC2700|MC2700|MC2700|
 |Zebra|Zebra Technologies MC3300xN|MC3300x|MC3300x|
@@ -31171,6 +31192,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|Zebra Technologies TC52x|TC52X|TC52X|
 |Zebra|Zebra Technologies TC57XA|TC57X|TC57X|
 |Zebra|Zebra Technologies TC57x|TC57X|TC57X|
+|Zebra|Zebra Technologies TC8300|TC83B0|TC8300|
+|Zebra|Zebra Technologies TC8300|TC83BH|TC8300|
+|Zebra|Zebra Technologies VC8300|VC8308|VC8300|
 |Zebra|Zebra Technologies WT6300|WT63B0|WT6300|
 |Zeki|TBDG1073|TBDG1073|TBDG1073|
 |Zeki|TBDG734|TBDG734|TBDG734|
