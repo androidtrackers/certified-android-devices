@@ -37747,6 +37747,11 @@
    "brand": "Oukitel",
    "name": "K8",
    "device": "K8"
+  },
+  {
+   "brand": "koobee",
+   "name": "K8",
+   "device": "Koobee_K8"
   }
  ],
  "KidzPad_Y80": [
@@ -117233,6 +117238,18 @@
    "device": "astar-ococci"
   }
  ],
+ "M7S_Go": [
+  {
+   "brand": "Multilaser",
+   "name": "M7S Go",
+   "device": "ML_SO0E_M7S_Go"
+  },
+  {
+   "brand": "Multilaser",
+   "name": "M7S Go",
+   "device": "ML_SO26_M7S_Go"
+  }
+ ],
  "M7S_Plus": [
   {
    "brand": "Multilaser",
@@ -189002,6 +189019,13 @@
    "device": "KindPad_SA8_EEA"
   }
  ],
+ "KingPad_SA8_EEA": [
+  {
+   "brand": "Vastking",
+   "name": "KindPad_SA8_EEA",
+   "device": "KindPad_SA8_EEA"
+  }
+ ],
  "KingPad_K10": [
   {
    "brand": "Vastking",
@@ -210587,18 +210611,6 @@
    "device": "MC40"
   }
  ],
- "MC93": [
-  {
-   "brand": "Zebra",
-   "name": "MC9300 Mobile Computer",
-   "device": "MC93"
-  },
-  {
-   "brand": "Zebra",
-   "name": "MC9300 Mobile Computer",
-   "device": "MC93C"
-  }
- ],
  "PS20J": [
   {
    "brand": "Zebra",
@@ -210776,6 +210788,18 @@
    "brand": "Zebra",
    "name": "Zebra Technologies MC2700",
    "device": "MC2700"
+  }
+ ],
+ "MC93": [
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies MC9300",
+   "device": "MC93"
+  },
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies MC9300",
+   "device": "MC93C"
   }
  ],
  "TC52X": [

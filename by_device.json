@@ -114153,6 +114153,20 @@
    "model": "ML01-M7S-Quad-Core"
   }
  ],
+ "ML_SO0E_M7S_Go": [
+  {
+   "brand": "Multilaser",
+   "name": "M7S Go",
+   "model": "M7S_Go"
+  }
+ ],
+ "ML_SO26_M7S_Go": [
+  {
+   "brand": "Multilaser",
+   "name": "M7S Go",
+   "model": "M7S_Go"
+  }
+ ],
  "ML_SO17_M7S_Plus": [
   {
    "brand": "Multilaser",
@@ -181387,6 +181401,11 @@
    "brand": "Vastking",
    "name": "KindPad_SA8_EEA",
    "model": "KindPad_SA8_EEA"
+  },
+  {
+   "brand": "Vastking",
+   "name": "KindPad_SA8_EEA",
+   "model": "KingPad_SA8_EEA"
   }
  ],
  "KingPad_K10": [
@@ -200976,20 +200995,6 @@
    "model": "MC40N0"
   }
  ],
- "MC93": [
-  {
-   "brand": "Zebra",
-   "name": "MC9300 Mobile Computer",
-   "model": "MC93"
-  }
- ],
- "MC93C": [
-  {
-   "brand": "Zebra",
-   "name": "MC9300 Mobile Computer",
-   "model": "MC93"
-  }
- ],
  "PS20JB": [
   {
    "brand": "Zebra",
@@ -201177,6 +201182,20 @@
    "brand": "Zebra",
    "name": "Zebra Technologies MC2700",
    "model": "MC2700"
+  }
+ ],
+ "MC93": [
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies MC9300",
+   "model": "MC93"
+  }
+ ],
+ "MC93C": [
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies MC9300",
+   "model": "MC93"
   }
  ],
  "TC52X": [
@@ -204295,6 +204314,13 @@
    "brand": "koobee",
    "name": "K20",
    "model": "K20"
+  }
+ ],
+ "Koobee_K8": [
+  {
+   "brand": "koobee",
+   "name": "K8",
+   "model": "K8"
   }
  ],
  "Koobee_K60": [

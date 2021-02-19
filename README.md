@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-02-18
+Last sync is 2021-02-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -16971,6 +16971,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M7-4G|ML-JI04-M7-4G|M7-4G|
 |Multilaser|M7I-3G|M7I-3G|M7I-3G|
 |Multilaser|M7I-3G|astar-ococci|ML01-M7S-Quad-Core|
+|Multilaser|M7S Go|ML_SO0E_M7S_Go|M7S_Go|
+|Multilaser|M7S Go|ML_SO26_M7S_Go|M7S_Go|
 |Multilaser|M7S Plus|ML_SO17_M7S_Plus|M7S_Plus|
 |Multilaser|M7SQC Plus|M7SQC_Plus|M7SQC_Plus|
 |Multilaser|M7SQC Plus|ML-JI22-M7SQC_Plus|M7SQC_Plus|
@@ -27828,6 +27830,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vankyo|s8|S8|S8|
 |Vastking|H20|H20|H20|
 |Vastking|KindPad_SA8_EEA|KindPad_SA8_EEA|KindPad_SA8_EEA|
+|Vastking|KindPad_SA8_EEA|KindPad_SA8_EEA|KingPad_SA8_EEA|
 |Vastking|KingPad_K10|KingPad_K10|KingPad_K10|
 |Vastking|KingPad_K10Pro|KingPad_K10Pro|KingPad_K10Pro|
 |Vastking|KingPad_K10_EEA|KingPad_K10_EEA|KingPad_K10_EEA|
@@ -31156,8 +31159,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|MC330K|MC33C|MC33|
 |Zebra|MC36|cardhu|MC36|
 |Zebra|MC40|MC40|MC40N0|
-|Zebra|MC9300 Mobile Computer|MC93|MC93|
-|Zebra|MC9300 Mobile Computer|MC93C|MC93|
 |Zebra|PS20 (Personal Shopper)|PS20JB|PS20J|
 |Zebra|PS20(Personal Shopper)|PS20JP|PS20J|
 |Zebra|Pollux|TC70|TC700H|
@@ -31188,6 +31189,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|Zebra Technologies MC2700|MC2700|MC2700|
 |Zebra|Zebra Technologies MC3300xN|MC3300x|MC3300x|
 |Zebra|Zebra Technologies MC3300xNS|MC3300xC|MC3300x|
+|Zebra|Zebra Technologies MC9300|MC93|MC93|
+|Zebra|Zebra Technologies MC9300|MC93C|MC93|
 |Zebra|Zebra Technologies TC52XA|TC52X|TC52X|
 |Zebra|Zebra Technologies TC52x|TC52X|TC52X|
 |Zebra|Zebra Technologies TC57XA|TC57X|TC57X|
@@ -31706,6 +31709,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |koobee|F2 Plus|koobee_F2_Plus|F2_Plus|
 |koobee|F2_Plus|koobee_F2_Plus|F2_Plus|
 |koobee|K20|koobee_K20|K20|
+|koobee|K8|Koobee_K8|K8|
 |koobee|Koobee K60|Koobee_K60|K60|
 |koobee|S12|koobee_S12|S12|
 |koobee|S16|koobee_S16|S16|
