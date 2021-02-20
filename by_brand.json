@@ -505,13 +505,6 @@
    "model": "AI PONT"
   }
  ],
- "ALLSOLA": [
-  {
-   "device": "ALLSOLA_ASV1",
-   "name": "ALLSOLA_ASV1",
-   "model": "ALLSOLA_ASV1"
-  }
- ],
  "ALMATEEN": [
   {
    "device": "samseong",
@@ -27113,6 +27106,13 @@
    "model": "EDENWOOD 2K Android TV"
   }
  ],
+ "EGOTEK": [
+  {
+   "device": "Venus10",
+   "name": "Venus10",
+   "model": "Venus10"
+  }
+ ],
  "EKINOX": [
   {
    "device": "E6",
@@ -45096,6 +45096,11 @@
    "device": "ALFA10TB",
    "name": "ALFA10TB",
    "model": "ALFA10TB"
+  },
+  {
+   "device": "ALFA_10BS",
+   "name": "ALFA_10BS",
+   "model": "ALFA_10BS"
   },
   {
    "device": "ALFA_10RX",
@@ -82424,6 +82429,11 @@
    "device": "MT003-20",
    "name": "MT003-20",
    "model": "MT003-20"
+  },
+  {
+   "device": "MT004_20",
+   "name": "MT004_20",
+   "model": "MT004_20"
   }
  ],
  "Migu": [
@@ -120098,11 +120108,6 @@
    "model": "T3G_04"
   },
   {
-   "device": "T3G_10B",
-   "name": "T3G_10B",
-   "model": "T3G_10B"
-  },
-  {
    "device": "TWIFI-04",
    "name": "TWIFI-04",
    "model": "TWIFI-04"
@@ -128303,6 +128308,11 @@
    "device": "SN7016",
    "name": "SN7016",
    "model": "SN7016"
+  },
+  {
+   "device": "SN7032",
+   "name": "SN7032",
+   "model": "SN7032"
   }
  ],
  "Sunstech": [
@@ -128835,6 +128845,11 @@
    "device": "Z25",
    "name": "Z25",
    "model": "Z25"
+  },
+  {
+   "device": "Z35",
+   "name": "Z25",
+   "model": "Z35"
   },
   {
    "device": "Z28",
@@ -136672,6 +136687,13 @@
    "model": "Quicktab"
   }
  ],
+ "TOUMAI": [
+  {
+   "device": "MI_1",
+   "name": "MI_1",
+   "model": "MI_1"
+  }
+ ],
  "TPS": [
   {
    "device": "ALTAB08",
@@ -136875,6 +136897,18 @@
    "device": "TK80",
    "name": "TK80",
    "model": "TK80"
+  }
+ ],
+ "Tablet_PC": [
+  {
+   "device": "T3G_07",
+   "name": "T3G_07",
+   "model": "T3G_07"
+  },
+  {
+   "device": "T3G_10B",
+   "name": "T3G_10B",
+   "model": "T3G_10B"
   }
  ],
  "Tabletop": [
@@ -143022,11 +143056,6 @@
    "device": "Samos",
    "name": "Venus V6",
    "model": "Venus V6"
-  },
-  {
-   "device": "Venus10",
-   "name": "Venus10",
-   "model": "Venus10"
   }
  ],
  "Veon": [
@@ -145368,6 +145397,16 @@
    "device": "2026",
    "name": "V2043_21",
    "model": "V2043_21"
+  },
+  {
+   "device": "2045",
+   "name": "V2045",
+   "model": "V2045"
+  },
+  {
+   "device": "2046",
+   "name": "V2046",
+   "model": "V2046"
   },
   {
    "device": "PD2046",
@@ -161160,6 +161199,13 @@
    "model": "Tab N7a"
   }
  ],
+ "elevn": [
+  {
+   "device": "elevn_eTab",
+   "name": "elevn_eTab",
+   "model": "elevn_eTab"
+  }
+ ],
  "fplus": [
   {
    "device": "lifetabplus",
@@ -163151,6 +163197,11 @@
    "device": "XBot_Junior",
    "name": "XBot Junior",
    "model": "XBot Junior"
+  },
+  {
+   "device": "XP10_4G",
+   "name": "XP10_4G",
+   "model": "XP10_4G"
   },
   {
    "device": "XP10_Wifi",

@@ -6573,13 +6573,6 @@
    "model": "AI PONT"
   }
  ],
- "ALLSOLA_ASV1": [
-  {
-   "brand": "ALLSOLA",
-   "device": "ALLSOLA_ASV1",
-   "model": "ALLSOLA_ASV1"
-  }
- ],
  "LXL43G7H-AT": [
   {
    "brand": "ALMATEEN",
@@ -44607,6 +44600,13 @@
    "model": "EDENWOOD 2K Android TV"
   }
  ],
+ "Venus10": [
+  {
+   "brand": "EGOTEK",
+   "device": "Venus10",
+   "model": "Venus10"
+  }
+ ],
  "E6": [
   {
    "brand": "EKINOX",
@@ -67664,6 +67664,13 @@
    "brand": "Hometech",
    "device": "ALFA10TB",
    "model": "ALFA10TB"
+  }
+ ],
+ "ALFA_10BS": [
+  {
+   "brand": "Hometech",
+   "device": "ALFA_10BS",
+   "model": "ALFA_10BS"
   }
  ],
  "ALFA_10RX": [
@@ -97541,6 +97548,11 @@
    "brand": "Symphony",
    "device": "Z25",
    "model": "Z25"
+  },
+  {
+   "brand": "Symphony",
+   "device": "Z35",
+   "model": "Z35"
   }
  ],
  "Z3": [
@@ -109748,6 +109760,13 @@
    "brand": "Mightier",
    "device": "MT003-20",
    "model": "MT003-20"
+  }
+ ],
+ "MT004_20": [
+  {
+   "brand": "Mightier",
+   "device": "MT004_20",
+   "model": "MT004_20"
   }
  ],
  "MGV2002": [
@@ -153335,13 +153354,6 @@
    "model": "T3G_04"
   }
  ],
- "T3G_10B": [
-  {
-   "brand": "Samtech",
-   "device": "T3G_10B",
-   "model": "T3G_10B"
-  }
- ],
  "TWIFI-04": [
   {
    "brand": "Samtech",
@@ -163055,6 +163067,13 @@
    "model": "SN7016"
   }
  ],
+ "SN7032": [
+  {
+   "brand": "Sunny",
+   "device": "SN7032",
+   "model": "SN7032"
+  }
+ ],
  "TAB1081": [
   {
    "brand": "Sunstech",
@@ -172160,6 +172179,13 @@
    "model": "Quicktab"
   }
  ],
+ "MI_1": [
+  {
+   "brand": "TOUMAI",
+   "device": "MI_1",
+   "model": "MI_1"
+  }
+ ],
  "ALTAB08": [
   {
    "brand": "TPS",
@@ -172371,6 +172397,20 @@
    "brand": "TabletKiosk",
    "device": "TK80",
    "model": "TK80"
+  }
+ ],
+ "T3G_07": [
+  {
+   "brand": "Tablet_PC",
+   "device": "T3G_07",
+   "model": "T3G_07"
+  }
+ ],
+ "T3G_10B": [
+  {
+   "brand": "Tablet_PC",
+   "device": "T3G_10B",
+   "model": "T3G_10B"
   }
  ],
  "Tabletop_T2": [
@@ -179380,13 +179420,6 @@
    "model": "Venus V6"
   }
  ],
- "Venus10": [
-  {
-   "brand": "Venus",
-   "device": "Venus10",
-   "model": "Venus10"
-  }
- ],
  "VEON": [
   {
    "brand": "Veon",
@@ -182299,6 +182332,20 @@
    "brand": "Vivo",
    "device": "2026",
    "model": "V2043_21"
+  }
+ ],
+ "V2045": [
+  {
+   "brand": "Vivo",
+   "device": "2045",
+   "model": "V2045"
+  }
+ ],
+ "V2046": [
+  {
+   "brand": "Vivo",
+   "device": "2046",
+   "model": "V2046"
   }
  ],
  "V2046A": [
@@ -199952,6 +199999,13 @@
    "model": "Tab N7a"
   }
  ],
+ "elevn_eTab": [
+  {
+   "brand": "elevn",
+   "device": "elevn_eTab",
+   "model": "elevn_eTab"
+  }
+ ],
  "Life Tab Plus": [
   {
    "brand": "fplus",
@@ -202137,6 +202191,13 @@
    "brand": "xTouch",
    "device": "XBot_Junior",
    "model": "XBot Junior"
+  }
+ ],
+ "XP10_4G": [
+  {
+   "brand": "xTouch",
+   "device": "XP10_4G",
+   "model": "XP10_4G"
   }
  ],
  "XP10_Wifi": [

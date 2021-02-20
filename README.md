@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-02-19
+Last sync is 2021-02-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -97,7 +97,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AKOR|TG996|TG996|TG996|
 |ALBADEEL|B725050U|samseong|AI PONT|
 |ALBADEEL|B725U|ikebukuro|AI PONT|
-|ALLSOLA|ALLSOLA_ASV1|ALLSOLA_ASV1|ALLSOLA_ASV1|
 |ALMATEEN|LXL43G7H-AT|samseong|AI PONT|
 |AMTC|MD1001 Tablet|MD1001|MD1001|
 |AMTC|MD7008|MD7008A|MD7008|
@@ -5235,6 +5234,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ECS|TR10RS1|TR10RS1_2|TR10RS1|
 |ECS|TU10MK|TU10MK_3|TU10MK|
 |EDENWOOD|EDENWOOD|komagome|EDENWOOD 2K Android TV|
+|EGOTEK|Venus10|Venus10|Venus10|
 |EKINOX|E6|E6|E6|
 |EKINOX|E8_Ultra|E8_Ultra|E8_Ultra|
 |EKINOX|G1|G1|G1|
@@ -8726,6 +8726,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hometech|ALFA 8RC|ALFA_8RC|ALFA_8RC|
 |Hometech|ALFA 8RX|ALFA_8RX|ALFA_8RX|
 |Hometech|ALFA10TB|ALFA10TB|ALFA10TB|
+|Hometech|ALFA_10BS|ALFA_10BS|ALFA_10BS|
 |Hometech|ALFA_10RX|ALFA_10RX|ALFA_10RX|
 |Hometech|ALFA_10YC|ALFA_10YC|ALFA_10YC|
 |Hometech|ALFA_7M|ALFA_7M|ALFA_7M|
@@ -16050,6 +16051,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Microtech|etab_LTE|etab_LTE|ETL101AL|
 |Mightier|MT003-19|MT003-19|MT003-19|
 |Mightier|MT003-20|MT003-20|MT003-20|
+|Mightier|MT004_20|MT004_20|MT004_20|
 |Migu|MGV2002|MGV2002|MGV2002|
 |MiiA|MT-733G|MT-733G|MT-733G|
 |MiiA|MiiA|TA10CA1_2|TA10CA1|
@@ -23426,7 +23428,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|三星W20|zodiac|SM-W2020|
 |Samsung|领世旗舰8|venenoltechn|SM-G9298|
 |Samtech|T3G_04|T3G_04|T3G_04|
-|Samtech|T3G_10B|T3G_10B|T3G_10B|
 |Samtech|TWIFI-04|TWIFI-04|TWIFI-04|
 |Samtech|TWIFI-06|TWIFI-06|TWIFI-06|
 |Samtech|TWIFI_07|TWIFI-07|TWIFI-07|
@@ -25025,6 +25026,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sunny|SN10016|SN10016|SN10016|
 |Sunny|SN10064|TABLET|SN10064|
 |Sunny|SN7016|SN7016|SN7016|
+|Sunny|SN7032|SN7032|SN7032|
 |Sunstech|TAB1081|TAB1081|TAB1081|
 |Sunstech|TAB1081_eea|TAB1081|TAB1081|
 |Sunstech|TAB1090|TAB1090|TAB1090|
@@ -25125,6 +25127,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|Z18|Z18|Symphony Z18|
 |Symphony|Z20|Z20|Z20|
 |Symphony|Z25|Z25|Z25|
+|Symphony|Z25|Z35|Z35|
 |Symphony|Z28|Z28|Z28|
 |Symphony|Z30|Z30|Z30|
 |Symphony|Z30 pro|Z30_pro|Z30 pro|
@@ -26678,6 +26681,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TOSCIDO|T501-EEA|T501-EEA|T501-EEA|
 |TOSCIDO|X102|X102|X102|
 |TOUCHSMART|QUICKTAB|Quicktab|Quicktab|
+|TOUMAI|MI_1|MI_1|MI_1|
 |TPS|ALTAB08|ALTAB08|ALTAB08|
 |TPS|MTC 982o|MTC_982O|MTC_982O|
 |TPS|S10-9863|S10-9863|S10-9863|
@@ -26713,6 +26717,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TWZ Corporation PLC|Tab-PLAY125|Tab-PLAY125|Tab-PLAY125|
 |TWZ Corporation PLC|U18|U18|U18|
 |TabletKiosk|TK80|TK80|TK80|
+|Tablet_PC|T3G_07|T3G_07|T3G_07|
+|Tablet_PC|T3G_10B|T3G_10B|T3G_10B|
 |Tabletop|Tabletop_T2|Tabletop_T2|Tabletop_T2|
 |TaiwanMobile|A5C|A5C|A5C|
 |TaiwanMobile|A6S|A6S|A6S|
@@ -27878,7 +27884,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Venus|V5_Pro|V5_Pro|V5_Pro|
 |Venus|V6|V6|V6|
 |Venus|Venus V6|Samos|Venus V6|
-|Venus|Venus10|Venus10|Venus10|
 |Veon|VEON|bangbae|VEON 4K Android TV|
 |VerD|E1|E1|E1|
 |VerD|E2|E2|E2|
@@ -28336,6 +28341,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2042|2026|V2042|
 |Vivo|V2043|2026|V2043|
 |Vivo|V2043_21|2026|V2043_21|
+|Vivo|V2045|2045|V2045|
+|Vivo|V2046|2046|V2046|
 |Vivo|V2046A|PD2046|V2046A|
 |Vivo|V2047A|PD2047|V2047A|
 |Vivo|V2048A|PD2048|V2048A|
@@ -31430,6 +31437,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ecom|Smart-Ex02|Smart-Ex02|Smart-Ex 02 RUS|
 |ecom|Smart-Ex02|Smart-Ex02|Smart-Ex02 ROW|
 |efioo|efiootabn7a|efiootabn7a|Tab N7a|
+|elevn|elevn_eTab|elevn_eTab|elevn_eTab|
 |fplus|Life Tab Plus|lifetabplus|LifeTabPlus|
 |geaneePro|JT10-X|JT10-X|JT10-X|
 |geaneePro|JT70-X|JT07-X|JT07-X|
@@ -31801,6 +31809,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |xTouch|XBOT_SENIOR|XBot_Senior|X Bot Senior|
 |xTouch|XBOT_SENIOR|XBot_Senior|XBot_Senior|
 |xTouch|XBot Junior|XBot_Junior|XBot Junior|
+|xTouch|XP10_4G|XP10_4G|XP10_4G|
 |xTouch|XP10_Wifi|XP10_Wifi|XP10_Wifi|
 |xTouch|XTOUCH X|XTouch_X|XTouch X|
 |xTouch|XTOUCH X10|XTOUCH_X10|XTOUCH X10|

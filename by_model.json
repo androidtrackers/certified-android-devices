@@ -1257,13 +1257,6 @@
    "device": "sindorim"
   }
  ],
- "ALLSOLA_ASV1": [
-  {
-   "brand": "ALLSOLA",
-   "name": "ALLSOLA_ASV1",
-   "device": "ALLSOLA_ASV1"
-  }
- ],
  "MD1001": [
   {
    "brand": "AMTC",
@@ -38455,6 +38448,13 @@
    "device": "komagome"
   }
  ],
+ "Venus10": [
+  {
+   "brand": "EGOTEK",
+   "name": "Venus10",
+   "device": "Venus10"
+  }
+ ],
  "E6": [
   {
    "brand": "EKINOX",
@@ -62382,6 +62382,13 @@
    "brand": "Hometech",
    "name": "ALFA10TB",
    "device": "ALFA10TB"
+  }
+ ],
+ "ALFA_10BS": [
+  {
+   "brand": "Hometech",
+   "name": "ALFA_10BS",
+   "device": "ALFA_10BS"
   }
  ],
  "ALFA_10RX": [
@@ -111259,6 +111266,13 @@
    "brand": "Mightier",
    "name": "MT003-20",
    "device": "MT003-20"
+  }
+ ],
+ "MT004_20": [
+  {
+   "brand": "Mightier",
+   "name": "MT004_20",
+   "device": "MT004_20"
   }
  ],
  "MGV2002": [
@@ -160191,13 +160205,6 @@
    "device": "T3G_04"
   }
  ],
- "T3G_10B": [
-  {
-   "brand": "Samtech",
-   "name": "T3G_10B",
-   "device": "T3G_10B"
-  }
- ],
  "TWIFI-04": [
   {
    "brand": "Samtech",
@@ -170629,6 +170636,13 @@
    "device": "SN7016"
   }
  ],
+ "SN7032": [
+  {
+   "brand": "Sunny",
+   "name": "SN7032",
+   "device": "SN7032"
+  }
+ ],
  "TAB1081": [
   {
    "brand": "Sunstech",
@@ -171232,6 +171246,13 @@
    "brand": "Symphony",
    "name": "Z20",
    "device": "Z20"
+  }
+ ],
+ "Z35": [
+  {
+   "brand": "Symphony",
+   "name": "Z25",
+   "device": "Z35"
   }
  ],
  "Z28": [
@@ -181837,6 +181858,13 @@
    "device": "Quicktab"
   }
  ],
+ "MI_1": [
+  {
+   "brand": "TOUMAI",
+   "name": "MI_1",
+   "device": "MI_1"
+  }
+ ],
  "ALTAB08": [
   {
    "brand": "TPS",
@@ -182050,6 +182078,20 @@
    "brand": "TabletKiosk",
    "name": "TK80",
    "device": "TK80"
+  }
+ ],
+ "T3G_07": [
+  {
+   "brand": "Tablet_PC",
+   "name": "T3G_07",
+   "device": "T3G_07"
+  }
+ ],
+ "T3G_10B": [
+  {
+   "brand": "Tablet_PC",
+   "name": "T3G_10B",
+   "device": "T3G_10B"
   }
  ],
  "Tabletop_T2": [
@@ -189278,13 +189320,6 @@
    "device": "Samos"
   }
  ],
- "Venus10": [
-  {
-   "brand": "Venus",
-   "name": "Venus10",
-   "device": "Venus10"
-  }
- ],
  "VEON 4K Android TV": [
   {
    "brand": "Veon",
@@ -192366,6 +192401,20 @@
    "brand": "Vivo",
    "name": "V2043_21",
    "device": "2026"
+  }
+ ],
+ "V2045": [
+  {
+   "brand": "Vivo",
+   "name": "V2045",
+   "device": "2045"
+  }
+ ],
+ "V2046": [
+  {
+   "brand": "Vivo",
+   "name": "V2046",
+   "device": "2046"
   }
  ],
  "V2046A": [
@@ -212261,6 +212310,13 @@
    "device": "efiootabn7a"
   }
  ],
+ "elevn_eTab": [
+  {
+   "brand": "elevn",
+   "name": "elevn_eTab",
+   "device": "elevn_eTab"
+  }
+ ],
  "LifeTabPlus": [
   {
    "brand": "fplus",
@@ -214411,6 +214467,13 @@
    "brand": "xTouch",
    "name": "XBot Junior",
    "device": "XBot_Junior"
+  }
+ ],
+ "XP10_4G": [
+  {
+   "brand": "xTouch",
+   "name": "XP10_4G",
+   "device": "XP10_4G"
   }
  ],
  "XP10_Wifi": [
