@@ -1587,6 +1587,11 @@
    "model": "F and U Android TV"
   },
   {
+   "brand": "Fresh",
+   "name": "Egypt",
+   "model": "Fresh FHD Android TV"
+  },
+  {
    "brand": "Grunkel",
    "name": "Spain",
    "model": "GRUNKEL FHD Android TV"
@@ -1600,6 +1605,11 @@
    "brand": "JVC",
    "name": "france",
    "model": "JVC 2K Android TV"
+  },
+  {
+   "brand": "Kogan",
+   "name": "Australia",
+   "model": "Kogan TV"
   },
   {
    "brand": "LISTO",
@@ -1674,6 +1684,11 @@
    "model": "B UHD Android TV"
   },
   {
+   "brand": "Digiquest",
+   "name": "Italy",
+   "model": "Digiquest 4K Android TV"
+  },
+  {
    "brand": "Elitelux",
    "name": "Australia",
    "model": "AiPlus4K"
@@ -1689,6 +1704,11 @@
    "model": "F and U Android TV"
   },
   {
+   "brand": "Fresh",
+   "name": "Egypt",
+   "model": "Fresh UHD Android TV"
+  },
+  {
    "brand": "Grunkel",
    "name": "Spain",
    "model": "GRUNKEL UHD Android TV"
@@ -1697,6 +1717,11 @@
    "brand": "Inves",
    "name": "Spain",
    "model": "INVES UHD Android TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "France",
+   "model": "JVC 4K Android TV"
   },
   {
    "brand": "Kogan",
@@ -38917,6 +38942,11 @@
    "brand": "Doogee",
    "name": "Y8",
    "model": "Y8"
+  },
+  {
+   "brand": "TOPELOTEK",
+   "name": "Y8",
+   "model": "Y8"
   }
  ],
  "Y8C": [
@@ -40829,6 +40859,20 @@
    "brand": "EXCEED",
    "name": "EX7W4",
    "model": "EX7W4"
+  }
+ ],
+ "EX7X4": [
+  {
+   "brand": "EXCEED",
+   "name": "EX7X4",
+   "model": "EX7X4"
+  }
+ ],
+ "EX8S1": [
+  {
+   "brand": "EXCEED",
+   "name": "EX8S1",
+   "model": "EX8S1"
   }
  ],
  "EXO_Wave_i716": [
@@ -47458,6 +47502,13 @@
    "brand": "Future Mobile Technology",
    "name": "Flash",
    "model": "FMT-NM7058-02"
+  }
+ ],
+ "Global3_B01": [
+  {
+   "brand": "Future Mobile Technology",
+   "name": "Global3_B01",
+   "model": "Global3 B01"
   }
  ],
  "16M4HI105024": [
@@ -80046,6 +80097,13 @@
    "model": "J3"
   }
  ],
+ "J3_EEA": [
+  {
+   "brand": "JUSYEA",
+   "name": "J3_EEA",
+   "model": "J3"
+  }
+ ],
  "gener": [
   {
    "brand": "JVC",
@@ -81769,6 +81827,13 @@
    "brand": "Oale",
    "name": "P5",
    "model": "P5"
+  }
+ ],
+ "Kammunica_XD": [
+  {
+   "brand": "Kammunica",
+   "name": "Kammunica_XD",
+   "model": "Kammunica_XD"
   }
  ],
  "KANJI-AC05": [
@@ -132562,6 +132627,18 @@
    "model": "PSP7610DUO_RU"
   }
  ],
+ "TC10A3L": [
+  {
+   "brand": "Prestigio",
+   "name": "TC10A3L",
+   "model": "PMT4771_4G_EEA"
+  },
+  {
+   "brand": "Prestigio",
+   "name": "TC10A3L",
+   "model": "PMT4771_4G_RU"
+  }
+ ],
  "TC70A1G": [
   {
    "brand": "Prestigio",
@@ -181555,6 +181632,13 @@
    "model": "T20-Plus"
   }
  ],
+ "T20_Play_EEA": [
+  {
+   "brand": "Veidoo",
+   "name": "T20_Play_EEA",
+   "model": "T20_Play"
+  }
+ ],
  "T7S": [
   {
    "brand": "Veidoo",
@@ -190155,6 +190239,13 @@
    "brand": "X-TIGI",
    "name": "A10c",
    "model": "A10c"
+  }
+ ],
+ "A20C": [
+  {
+   "brand": "X-TIGI",
+   "name": "A20C",
+   "model": "A20C"
   }
  ],
  "A20S": [

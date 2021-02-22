@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-02-21
+Last sync is 2021-02-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4786,6 +4786,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Diginnos|DG-A97QT|DG_A97QT|DG-A97QT|
 |Diginnos|DG-D07S/GP|DG-D07SGP|DG-D07SGP|
 |Diginnos|DG-Q08M|DG-Q08M|DG-Q08M|
+|Digiquest|Italy|yeongdeungpo|Digiquest 4K Android TV|
 |Digital2|Deluxe|nuclear-D2_Deluxe|Digital2-Deluxe|
 |Digital2|Platinum|D2-963G|Digital2 Platinum|
 |Digital2|Plus|Digital2Plus|Digital2 Plus|
@@ -5341,6 +5342,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EXCEED|EX7W1|EX7W1|EX7W1|
 |EXCEED|EX7W1S|EX7W1S|EX7W1S|
 |EXCEED|EX7W4|EX7W4|EX7W4|
+|EXCEED|EX7X4|EX7X4|EX7X4|
+|EXCEED|EX8S1|EX8S1|EX8S1|
 |EXO S.A.|EXO_Wave_i716|EXO_Wave_i716|EXO_Wave_i716|
 |EXO S.A.|Wave i007Kids|Wave_i007Kids|Wave i007Kids|
 |EXO S.A.|Wave i007T|Wave_i007T|Wave i007T|
@@ -6129,6 +6132,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Freetel|SAKURA_FTE1|SAKURA_FTE1|SAKURA_FTE1|
 |Freetel|SAMURAI REI|FTJ161B|FTJ161B|
 |Freetel|SAMURAI REI 2|SAMURAI_REI2|FTJ17A00|
+|Fresh|Egypt|tamachi|Fresh FHD Android TV|
+|Fresh|Egypt|yeongdeungpo|Fresh UHD Android TV|
 |Fresh|FreshTV|shinagawa|FreshTV|
 |Fujitsu|801FJ|SBM801FJ|801FJ|
 |Fujitsu|901FJ|YM901FJ|901FJ|
@@ -6275,6 +6280,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Future Mobile Technology|FXTK13R|FXTK13R|FXTK13R|
 |Future Mobile Technology|Falcon|176HS1050531|176HS1050531|
 |Future Mobile Technology|Flash|FMT-NM7058-02|FMT-NM7058-02|
+|Future Mobile Technology|Global3_B01|Global3_B01|Global3 B01|
 |Future Mobile Technology|Netsurfer STORM|16M4HI105024|16M4HI105024|
 |Future Mobile Technology|Netsurfer TYPHOON|16M5HI105023|16M5HI105023|
 |Future Mobile Technology|ROBI|ROBI|ROBI|
@@ -11605,6 +11611,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JP Sacouto|mymaga CLASS Plus 2|MG101A4T|mymaga CLASS Plus 2|
 |JREN|JR-101|JR-101|JR-101|
 |JUSYEA|J3|JUSYEA_J3|J3|
+|JUSYEA|J3_EEA|J3_EEA|J3|
 |JVC||gener|RY-AP1|
 |JVC|4K_Edition|Android_TV_BOX|4K_Edition|
 |JVC|AV-08NT310|AV-08NT310|AV-08NT310|
@@ -11616,6 +11623,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|Android TV|R2|ATV R2|
 |JVC|DM65UXR\DM65USR\DM85UXR|mstarnapoli_atsc|DM65UXR|
 |JVC|Dixons|sadang|UK 4K Android TV|
+|JVC|France|yeongdeungpo|JVC 4K Android TV|
 |JVC|JVC|bangbae|EU 4K Android TV|
 |JVC|JVC|bangbae|JVC 4K Android TV|
 |JVC|JVC|bangbae|JVC EU 4K Android TV|
@@ -11890,6 +11898,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kalley|SILVER_MAX|SILVER_MAX|SILVER_MAX|
 |Kalley|Silver P5|P5|P5|
 |Kalley|xiaoyushan_kalley|xiaoyushan|HiSmartTV A4|
+|Kammunica|Kammunica_XD|Kammunica_XD|Kammunica_XD|
 |Kanji|KANJI_AC05|KANJI-AC05|KJ-AC05|
 |Kanji|KJ-AC02|KJ-AC02|KJ-AC02|
 |Kanji|KJ-AC05|KJ_AC05|KJ-AC05|
@@ -12108,6 +12117,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kogan|Australia|hanyang|Kogan SmarterTV|
 |Kogan|Australia|nippori|Kogan SmarterTV 2K|
 |Kogan|Australia|shibuya|KoganTVAP|
+|Kogan|Australia|tamachi|Kogan TV|
 |Kogan|Australia|yeongdeungpo|Kogan TV|
 |Kogan|KALED32RH9210STA|ikebukuro|AI PONT|
 |Kogan|KALED50XU9210STA|samseong|AI PONT|
@@ -19854,6 +19864,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|Prestigio SmartKids|HP70A1W|PMT3997_W_RU|
 |Prestigio|Prestigio X pro|KN54B1L|PSP7546DUO|
 |Prestigio|Prestigio X pro|KN54B1L|PSP7546DUO_RU|
+|Prestigio|TC10A3L|TC10A3L|PMT4771_4G_EEA|
+|Prestigio|TC10A3L|TC10A3L|PMT4771_4G_RU|
 |Prestigio|TC70A1G|TC70A1G|PMT4327_3G_RU|
 |Prestigio|WIZE A3|PSP3453DUO|PSP3453DUO|
 |Prestigio|WIZE U3|TL50B9G|PSP3514DUO_RU|
@@ -26670,6 +26682,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TOPELOTEK|KIDS710|KIDS710|KIDS710|
 |TOPELOTEK|TOPELOTEK|KIDS08|KIDS08|
 |TOPELOTEK|TOPELOTEK|KIDS09|KIDS09|
+|TOPELOTEK|Y8|Y8|Y8|
 |TOSCIDO|P101|P101|P101|
 |TOSCIDO|P101-EEA|P101-EEA|P101-EEA|
 |TOSCIDO|T12-EEA|T12-EEA|T12-EEA|
@@ -27858,6 +27871,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Veidoo|T12|T12|T12|
 |Veidoo|T20|T20|T20|
 |Veidoo|T20-Plus|T20-Plus|T20-Plus|
+|Veidoo|T20_Play_EEA|T20_Play_EEA|T20_Play|
 |Veidoo|T7|T7|T7|
 |Veidoo|T7S|T7S|T7S|
 |Veidoo|V88|V88|V88|
@@ -29240,6 +29254,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |X-TEK|X2|X2|X2|
 |X-TIGI|A10S|A10S|A10S|
 |X-TIGI|A10c|A10c|A10c|
+|X-TIGI|A20C|A20C|A20C|
 |X-TIGI|A20S|A20S|A20S|
 |X-TIGI|A20S_PRO|A20S_PRO|A20S PRO|
 |X-TIGI|A3|A3|A3|

@@ -35339,6 +35339,13 @@
    "device": "DG-Q08M"
   }
  ],
+ "Digiquest 4K Android TV": [
+  {
+   "brand": "Digiquest",
+   "name": "Italy",
+   "device": "yeongdeungpo"
+  }
+ ],
  "Digital2-Deluxe": [
   {
    "brand": "Digital2",
@@ -37322,6 +37329,11 @@
    "brand": "Doogee",
    "name": "Y8",
    "device": "Y8"
+  },
+  {
+   "brand": "TOPELOTEK",
+   "name": "Y8",
+   "device": "Y8"
   }
  ],
  "Y8C": [
@@ -39229,6 +39241,20 @@
    "brand": "EXCEED",
    "name": "EX7W4",
    "device": "EX7W4"
+  }
+ ],
+ "EX7X4": [
+  {
+   "brand": "EXCEED",
+   "name": "EX7X4",
+   "device": "EX7X4"
+  }
+ ],
+ "EX8S1": [
+  {
+   "brand": "EXCEED",
+   "name": "EX8S1",
+   "device": "EX8S1"
   }
  ],
  "EXO_Wave_i716": [
@@ -44872,6 +44898,20 @@
    "device": "SAMURAI_REI2"
   }
  ],
+ "Fresh FHD Android TV": [
+  {
+   "brand": "Fresh",
+   "name": "Egypt",
+   "device": "tamachi"
+  }
+ ],
+ "Fresh UHD Android TV": [
+  {
+   "brand": "Fresh",
+   "name": "Egypt",
+   "device": "yeongdeungpo"
+  }
+ ],
  "FreshTV": [
   {
    "brand": "Fresh",
@@ -45868,6 +45908,13 @@
    "brand": "Future Mobile Technology",
    "name": "Flash",
    "device": "FMT-NM7058-02"
+  }
+ ],
+ "Global3 B01": [
+  {
+   "brand": "Future Mobile Technology",
+   "name": "Global3_B01",
+   "device": "Global3_B01"
   }
  ],
  "16M4HI105024": [
@@ -81605,6 +81652,11 @@
    "brand": "JUSYEA",
    "name": "J3",
    "device": "JUSYEA_J3"
+  },
+  {
+   "brand": "JUSYEA",
+   "name": "J3_EEA",
+   "device": "J3_EEA"
   }
  ],
  "RY-AP1": [
@@ -81678,14 +81730,12 @@
    "device": "sadang"
   }
  ],
- "EU 4K Android TV": [
+ "JVC 4K Android TV": [
   {
    "brand": "JVC",
-   "name": "JVC",
-   "device": "bangbae"
-  }
- ],
- "JVC 4K Android TV": [
+   "name": "France",
+   "device": "yeongdeungpo"
+  },
   {
    "brand": "JVC",
    "name": "JVC",
@@ -81695,6 +81745,13 @@
    "brand": "JVC",
    "name": "JVC",
    "device": "seocho"
+  }
+ ],
+ "EU 4K Android TV": [
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "device": "bangbae"
   }
  ],
  "JVC EU 4K Android TV": [
@@ -83515,6 +83572,13 @@
    "device": "SILVER_MAX"
   }
  ],
+ "Kammunica_XD": [
+  {
+   "brand": "Kammunica",
+   "name": "Kammunica_XD",
+   "device": "Kammunica_XD"
+  }
+ ],
  "KJ-AC05": [
   {
    "brand": "Kanji",
@@ -85005,6 +85069,11 @@
   }
  ],
  "Kogan TV": [
+  {
+   "brand": "Kogan",
+   "name": "Australia",
+   "device": "tamachi"
+  },
   {
    "brand": "Kogan",
    "name": "Australia",
@@ -136068,6 +136137,20 @@
    "brand": "Prestigio",
    "name": "Prestigio X pro",
    "device": "KN54B1L"
+  }
+ ],
+ "PMT4771_4G_EEA": [
+  {
+   "brand": "Prestigio",
+   "name": "TC10A3L",
+   "device": "TC10A3L"
+  }
+ ],
+ "PMT4771_4G_RU": [
+  {
+   "brand": "Prestigio",
+   "name": "TC10A3L",
+   "device": "TC10A3L"
   }
  ],
  "PMT4327_3G_RU": [
@@ -189180,6 +189263,13 @@
    "device": "T20-Plus"
   }
  ],
+ "T20_Play": [
+  {
+   "brand": "Veidoo",
+   "name": "T20_Play_EEA",
+   "device": "T20_Play_EEA"
+  }
+ ],
  "T7S": [
   {
    "brand": "Veidoo",
@@ -198008,6 +198098,13 @@
    "brand": "X-TIGI",
    "name": "A10c",
    "device": "A10c"
+  }
+ ],
+ "A20C": [
+  {
+   "brand": "X-TIGI",
+   "name": "A20C",
+   "device": "A20C"
   }
  ],
  "A20S": [

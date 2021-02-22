@@ -23849,6 +23849,11 @@
   },
   {
    "brand": "Kogan",
+   "device": "tamachi",
+   "model": "Kogan TV"
+  },
+  {
+   "brand": "Kogan",
    "device": "yeongdeungpo",
    "model": "Kogan TV"
   },
@@ -35451,6 +35456,16 @@
    "brand": "Contex",
    "device": "yeongdeungpo",
    "model": "AiPlus4K"
+  },
+  {
+   "brand": "Fresh",
+   "device": "tamachi",
+   "model": "Fresh FHD Android TV"
+  },
+  {
+   "brand": "Fresh",
+   "device": "yeongdeungpo",
+   "model": "Fresh UHD Android TV"
   }
  ],
  "CE10402": [
@@ -35479,6 +35494,11 @@
    "brand": "Continental Edison",
    "device": "tamachi",
    "model": "Continental Android TV"
+  },
+  {
+   "brand": "JVC",
+   "device": "yeongdeungpo",
+   "model": "JVC 4K Android TV"
   },
   {
    "brand": "Smart-Tech TV",
@@ -41267,6 +41287,13 @@
    "model": "DG-Q08M"
   }
  ],
+ "Italy": [
+  {
+   "brand": "Digiquest",
+   "device": "yeongdeungpo",
+   "model": "Digiquest 4K Android TV"
+  }
+ ],
  "Deluxe": [
   {
    "brand": "Digital2",
@@ -43413,6 +43440,11 @@
    "brand": "Doogee",
    "device": "Y8",
    "model": "Y8"
+  },
+  {
+   "brand": "TOPELOTEK",
+   "device": "Y8",
+   "model": "Y8"
   }
  ],
  "Y8C": [
@@ -45375,6 +45407,20 @@
    "brand": "EXCEED",
    "device": "EX7W4",
    "model": "EX7W4"
+  }
+ ],
+ "EX7X4": [
+  {
+   "brand": "EXCEED",
+   "device": "EX7X4",
+   "model": "EX7X4"
+  }
+ ],
+ "EX8S1": [
+  {
+   "brand": "EXCEED",
+   "device": "EX8S1",
+   "model": "EX8S1"
   }
  ],
  "EXO_Wave_i716": [
@@ -51943,6 +51989,13 @@
    "brand": "Future Mobile Technology",
    "device": "FMT-NM7058-02",
    "model": "FMT-NM7058-02"
+  }
+ ],
+ "Global3_B01": [
+  {
+   "brand": "Future Mobile Technology",
+   "device": "Global3_B01",
+   "model": "Global3 B01"
   }
  ],
  "Netsurfer STORM": [
@@ -83636,6 +83689,13 @@
    "model": "J3"
   }
  ],
+ "J3_EEA": [
+  {
+   "brand": "JUSYEA",
+   "device": "J3_EEA",
+   "model": "J3"
+  }
+ ],
  "4K_Edition": [
   {
    "brand": "JVC",
@@ -85487,6 +85547,13 @@
    "brand": "Kalley",
    "device": "xiaoyushan",
    "model": "HiSmartTV A4"
+  }
+ ],
+ "Kammunica_XD": [
+  {
+   "brand": "Kammunica",
+   "device": "Kammunica_XD",
+   "model": "Kammunica_XD"
   }
  ],
  "KANJI_AC05": [
@@ -133172,6 +133239,18 @@
    "model": "PSP7546DUO_RU"
   }
  ],
+ "TC10A3L": [
+  {
+   "brand": "Prestigio",
+   "device": "TC10A3L",
+   "model": "PMT4771_4G_EEA"
+  },
+  {
+   "brand": "Prestigio",
+   "device": "TC10A3L",
+   "model": "PMT4771_4G_RU"
+  }
+ ],
  "TC70A1G": [
   {
    "brand": "Prestigio",
@@ -179261,6 +179340,13 @@
    "model": "T20-Plus"
   }
  ],
+ "T20_Play_EEA": [
+  {
+   "brand": "Veidoo",
+   "device": "T20_Play_EEA",
+   "model": "T20_Play"
+  }
+ ],
  "T7S": [
   {
    "brand": "Veidoo",
@@ -187862,6 +187948,13 @@
    "brand": "X-TIGI",
    "device": "A10c",
    "model": "A10c"
+  }
+ ],
+ "A20C": [
+  {
+   "brand": "X-TIGI",
+   "device": "A20C",
+   "model": "A20C"
   }
  ],
  "A20S": [
