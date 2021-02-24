@@ -15543,6 +15543,13 @@
    "device": "Azumi_M5s"
   }
  ],
+ "Azumi_NA60_PRO": [
+  {
+   "brand": "Azumi",
+   "name": "NA60_PRO",
+   "device": "Azumi_NA60_PRO"
+  }
+ ],
  "Azumi NOBU A55": [
   {
    "brand": "Azumi",
@@ -21222,6 +21229,13 @@
    "device": "BLU_Vivo_XL2"
   }
  ],
+ "BOLD M7": [
+  {
+   "brand": "Blu",
+   "name": "BOLD M7",
+   "device": "M0110WW"
+  }
+ ],
  "BOLD M8": [
   {
    "brand": "Blu",
@@ -25356,6 +25370,18 @@
    "device": "CASPER_VIA_G1_Plus"
   }
  ],
+ "VIA G5": [
+  {
+   "brand": "Casper",
+   "name": "VIA G5",
+   "device": "VIA_G5"
+  },
+  {
+   "brand": "Casper",
+   "name": "VIA_G5",
+   "device": "VIA_G5"
+  }
+ ],
  "CASPER_VIA_M3": [
   {
    "brand": "Casper",
@@ -25445,13 +25471,6 @@
    "brand": "Casper",
    "name": "VIA_F3",
    "device": "VIA_F3"
-  }
- ],
- "VIA G5": [
-  {
-   "brand": "Casper",
-   "name": "VIA_G5",
-   "device": "VIA_G5"
   }
  ],
  "VIA_L30": [
@@ -102203,6 +102222,13 @@
    "device": "8705X"
   }
  ],
+ "Lenovo TB-8506FS": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M8 (3rd Gen)",
+   "device": "TB-8506FS"
+  }
+ ],
  "Lenovo TB-X705F": [
   {
    "brand": "Lenovo",
@@ -113530,6 +113556,11 @@
  "TicWatch Pro 3": [
   {
    "brand": "Mobvoi",
+   "name": "TicWatch Pro 3",
+   "device": "rover"
+  },
+  {
+   "brand": "Mobvoi",
    "name": "TicWatch Pro 3 Cellular/LTE",
    "device": "rover"
   }
@@ -117502,6 +117533,11 @@
   }
  ],
  "M7S_Plus": [
+  {
+   "brand": "Multilaser",
+   "name": "M7S Plus",
+   "device": "ML_SO0F_M7S_Plus"
+  },
   {
    "brand": "Multilaser",
    "name": "M7S Plus",
@@ -129314,6 +129350,11 @@
    "brand": "Panasonic",
    "name": "Elite 4K 16",
    "device": "NEXT821"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "Elite-4K 20",
+   "device": "NEXT820"
   },
   {
    "brand": "Panasonic",
@@ -164465,6 +164506,13 @@
    "brand": "Sky Devices",
    "name": "Elite C55",
    "device": "Elite_C55"
+  }
+ ],
+ "Elite_D55": [
+  {
+   "brand": "Sky Devices",
+   "name": "Elite D55",
+   "device": "Elite_D55"
   }
  ],
  "Elite E55": [

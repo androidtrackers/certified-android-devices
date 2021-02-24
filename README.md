@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-02-23
+Last sync is 2021-02-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2019,6 +2019,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|M5PLUS|Azumi_M5PLUS|M5+|
 |Azumi|M5PLUS_AC24|Azumi_M5PLUS_AC24|M5+|
 |Azumi|M5s|Azumi_M5s|M5s|
+|Azumi|NA60_PRO|Azumi_NA60_PRO|Azumi_NA60_PRO|
 |Azumi|NOBU A55|NOBU_A55_AC01|Azumi NOBU A55|
 |Azumi|NOBU_A55_PRO|NOBU_A55_PRO|NOBU_A55_PRO|
 |Azumi|Nobu A55|NOBU_A55|Azumi NOBU A55|
@@ -2818,6 +2819,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|BLU_STUDIO_G2|BLU_STUDIO_G2|BLU STUDIO G2|
 |Blu|BLU_Studio_G_Max|Studio_G_Max|Studio G Max|
 |Blu|BLU_Vivo_XL2|BLU_Vivo_XL2|Vivo XL2|
+|Blu|BOLD M7|M0110WW|BOLD M7|
 |Blu|BOLD M8|M0120WW|BOLD M8|
 |Blu|BOLD M8|M0130WW|BOLD M8|
 |Blu|BOLD M9|M0140WW|BOLD M9|
@@ -3365,6 +3367,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Casper|VIA A4|VIA_A4|VIA A4|
 |Casper|VIA G1|CASPER_VIA_G1|CASPER_VIA_G1|
 |Casper|VIA G1 Plus|CASPER_VIA_G1_Plus|CASPER_VIA_G1_Plus|
+|Casper|VIA G5|VIA_G5|VIA G5|
 |Casper|VIA M3|CASPER_VIA_M3|CASPER_VIA_M3|
 |Casper|VIA P3|VIA_P3|VIA_P3|
 |Casper|VIA T7D|VIA-T7D|VIA-T7D|
@@ -14677,6 +14680,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M8|8705F|Lenovo TB-8705F|
 |Lenovo|Lenovo Tab M8|8705N|Lenovo TB-8705N|
 |Lenovo|Lenovo Tab M8|8705X|Lenovo TB-8705X|
+|Lenovo|Lenovo Tab M8 (3rd Gen)|TB-8506FS|Lenovo TB-8506FS|
 |Lenovo|Lenovo Tab P10|X705F|Lenovo TB-X705F|
 |Lenovo|Lenovo Tab P10|X705L|Lenovo TB-X705L|
 |Lenovo|Lenovo Tab P10|X705M|Lenovo TB-X705M|
@@ -16391,6 +16395,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobvoi|TicWatch Pro|catfish|TicWatch Pro|
 |Mobvoi|TicWatch Pro|catfish_ext|TicWatch Pro|
 |Mobvoi|TicWatch Pro|catfish_ext|TicWatch Pro S|
+|Mobvoi|TicWatch Pro 3|rover|TicWatch Pro 3|
 |Mobvoi|TicWatch Pro 3 Cellular/LTE|rover|TicWatch Pro 3|
 |Mobvoi|TicWatch Pro 3 GPS|rubyfish|TicWatch Pro 3 GPS|
 |Mobvoi|TicWatch Pro 4G|catshark|TicWatch Pro 4G|
@@ -17009,6 +17014,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M7I-3G|astar-ococci|ML01-M7S-Quad-Core|
 |Multilaser|M7S Go|ML_SO0E_M7S_Go|M7S_Go|
 |Multilaser|M7S Go|ML_SO26_M7S_Go|M7S_Go|
+|Multilaser|M7S Plus|ML_SO0F_M7S_Plus|M7S_Plus|
 |Multilaser|M7S Plus|ML_SO17_M7S_Plus|M7S_Plus|
 |Multilaser|M7SQC Plus|M7SQC_Plus|M7SQC_Plus|
 |Multilaser|M7SQC Plus|ML-JI22-M7SQC_Plus|M7SQC_Plus|
@@ -18833,6 +18839,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|Elite 18|Elite18|Elite|
 |Panasonic|Elite 22|elitev3p22|Elite v3p22|
 |Panasonic|Elite 4K 16|NEXT821|NEXT|
+|Panasonic|Elite-4K 20|NEXT820|NEXT|
 |Panasonic|Elite13 v3|Elitev3_13|Elitev3|
 |Panasonic|Elitev3a|elitev3a|Elite v3a|
 |Panasonic|Eluga A2|Eluga_A2|Eluga_A2|
@@ -24072,6 +24079,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|Elite C5|Elite_C5|Elite C5|
 |Sky Devices|Elite C5|Elite_C5MS|Elite C5|
 |Sky Devices|Elite C55|Elite_C55|Elite C55|
+|Sky Devices|Elite D55|Elite_D55|Elite_D55|
 |Sky Devices|Elite E55|Elite_E55|Elite E55|
 |Sky Devices|Elite Go|Elite_Go|Elite Go|
 |Sky Devices|Elite Go|Elite_Go_HN|Elite Go|

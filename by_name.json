@@ -20790,6 +20790,13 @@
    "model": "IF9002"
   }
  ],
+ "NA60_PRO": [
+  {
+   "brand": "Azumi",
+   "device": "Azumi_NA60_PRO",
+   "model": "Azumi_NA60_PRO"
+  }
+ ],
  "NOBU A55": [
   {
    "brand": "Azumi",
@@ -26919,6 +26926,13 @@
    "model": "Vivo XL2"
   }
  ],
+ "BOLD M7": [
+  {
+   "brand": "Blu",
+   "device": "M0110WW",
+   "model": "BOLD M7"
+  }
+ ],
  "BOLD M8": [
   {
    "brand": "Blu",
@@ -31323,6 +31337,13 @@
    "brand": "Casper",
    "device": "CASPER_VIA_G1_Plus",
    "model": "CASPER_VIA_G1_Plus"
+  }
+ ],
+ "VIA G5": [
+  {
+   "brand": "Casper",
+   "device": "VIA_G5",
+   "model": "VIA G5"
   }
  ],
  "VIA M3": [
@@ -101270,6 +101291,13 @@
    "model": "Lenovo TB-8705X"
   }
  ],
+ "Lenovo Tab M8 (3rd Gen)": [
+  {
+   "brand": "Lenovo",
+   "device": "TB-8506FS",
+   "model": "Lenovo TB-8506FS"
+  }
+ ],
  "Lenovo Tab P10": [
   {
    "brand": "Lenovo",
@@ -111982,6 +112010,13 @@
    "model": "TicWatch Pro S"
   }
  ],
+ "TicWatch Pro 3": [
+  {
+   "brand": "Mobvoi",
+   "device": "rover",
+   "model": "TicWatch Pro 3"
+  }
+ ],
  "TicWatch Pro 3 Cellular/LTE": [
   {
    "brand": "Mobvoi",
@@ -115308,6 +115343,11 @@
   }
  ],
  "M7S Plus": [
+  {
+   "brand": "Multilaser",
+   "device": "ML_SO0F_M7S_Plus",
+   "model": "M7S_Plus"
+  },
   {
    "brand": "Multilaser",
    "device": "ML_SO17_M7S_Plus",
@@ -126568,6 +126608,13 @@
   {
    "brand": "Panasonic",
    "device": "NEXT821",
+   "model": "NEXT"
+  }
+ ],
+ "Elite-4K 20": [
+  {
+   "brand": "Panasonic",
+   "device": "NEXT820",
    "model": "NEXT"
   }
  ],
@@ -157510,6 +157557,13 @@
    "brand": "Sky Devices",
    "device": "Elite_C55",
    "model": "Elite C55"
+  }
+ ],
+ "Elite D55": [
+  {
+   "brand": "Sky Devices",
+   "device": "Elite_D55",
+   "model": "Elite_D55"
   }
  ],
  "Elite E55": [
