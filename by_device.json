@@ -691,6 +691,13 @@
    "model": "ADT1012L"
   }
  ],
+ "ADT1061": [
+  {
+   "brand": "AIDATA",
+   "name": "ADT1061",
+   "model": "ADT1061"
+  }
+ ],
  "ADT1061_1": [
   {
    "brand": "AIDATA",
@@ -9686,6 +9693,11 @@
    "brand": "Archos",
    "name": "",
    "model": "Archos 80 Internet Tablet"
+  },
+  {
+   "brand": "Blackview",
+   "name": "A80S",
+   "model": "A80S"
   }
  ],
  "A101CHP": [
@@ -12860,6 +12872,11 @@
   {
    "brand": "iMuz",
    "name": "G10",
+   "model": "G10"
+  },
+  {
+   "brand": "iMuz",
+   "name": "G10E",
    "model": "G10"
   }
  ],
@@ -21489,6 +21506,13 @@
    "model": "BV5500"
   }
  ],
+ "BV5500S": [
+  {
+   "brand": "Blackview",
+   "name": "BV5500",
+   "model": "BV5500"
+  }
+ ],
  "BV5500Plus": [
   {
    "brand": "Blackview",
@@ -22547,6 +22571,13 @@
    "brand": "Blu",
    "name": "BLU_Vivo_XL2",
    "model": "Vivo XL2"
+  }
+ ],
+ "M0100WW": [
+  {
+   "brand": "Blu",
+   "name": "BOLD M7",
+   "model": "BOLD M7"
   }
  ],
  "M0110WW": [
@@ -39736,6 +39767,11 @@
   },
   {
    "brand": "Selfix",
+   "name": "X7",
+   "model": "X7"
+  },
+  {
+   "brand": "Techpad",
    "name": "X7",
    "model": "X7"
   },
@@ -61198,6 +61234,11 @@
   {
    "brand": "Hisense",
    "name": "Hisense U605",
+   "model": "Hisense U30"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense U605",
    "model": "Hisense U605"
   },
   {
@@ -82419,6 +82460,13 @@
    "model": "KG555 Pro"
   }
  ],
+ "KG777Pro": [
+  {
+   "brand": "Karma",
+   "name": "KG777 Pro",
+   "model": "KG777 Pro"
+  }
+ ],
  "KA7Q3": [
   {
    "brand": "Karvy",
@@ -84077,6 +84125,11 @@
    "brand": "Kurio",
    "name": "Smart Tab 7",
    "model": "9317H1"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Smart Tab 7",
+   "model": "9317H"
   }
  ],
  "M7006A": [
@@ -129246,6 +129299,13 @@
    "model": "Z519"
   }
  ],
+ "Z555": [
+  {
+   "brand": "Plum",
+   "name": "Z555",
+   "model": "Z555"
+  }
+ ],
  "Z711": [
   {
    "brand": "Plum",
@@ -137001,6 +137061,13 @@
    "model": "P13_Blue"
   }
  ],
+ "P13_BML_32": [
+  {
+   "brand": "Reeder",
+   "name": "P13 Blue  Max Lite 32GB",
+   "model": "P13 Blue Max Lite 32GB"
+  }
+ ],
  "P13_Blue_Maks": [
   {
    "brand": "Reeder",
@@ -137952,6 +138019,13 @@
    "brand": "SHIFT",
    "name": "SHIFT6m",
    "model": "SHIFT6m"
+  }
+ ],
+ "axolotl": [
+  {
+   "brand": "SHIFT",
+   "name": "SHIFT6mq",
+   "model": "SHIFT6mq"
   }
  ],
  "M5855": [
@@ -192141,6 +192215,18 @@
    "model": "Redmi 6A"
   }
  ],
+ "lemon": [
+  {
+   "brand": "Xiaomi",
+   "name": "Redmi 9T",
+   "model": "M2010J19SY"
+  },
+  {
+   "brand": "ZTE",
+   "name": "Jasper LTE",
+   "model": "Z718TL"
+  }
+ ],
  "lmipro": [
   {
    "brand": "Xiaomi",
@@ -197320,13 +197406,6 @@
    "model": "ZTE T57"
   }
  ],
- "lemon": [
-  {
-   "brand": "ZTE",
-   "name": "Jasper LTE",
-   "model": "Z718TL"
-  }
- ],
  "helen": [
   {
    "brand": "ZTE",
@@ -198321,6 +198400,23 @@
    "brand": "ZTE",
    "name": "NX907J",
    "model": "NX907J"
+  }
+ ],
+ "P731F50": [
+  {
+   "brand": "ZTE",
+   "name": "Nubia N11",
+   "model": "Nubia N11"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade L210",
+   "model": "ZTE Blade L210"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade L210RU",
+   "model": "ZTE Blade L210RU"
   }
  ],
  "Orange_Hi_4G": [
@@ -200962,6 +201058,13 @@
    "model": "ZTE Blade A5 2020RU"
   }
  ],
+ "P963F60": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A51",
+   "model": "ZTE Blade A51"
+  }
+ ],
  "P932F10": [
   {
    "brand": "ZTE",
@@ -201034,18 +201137,6 @@
    "brand": "ZTE",
    "name": "ZTE Blade L130",
    "model": "ZTE Blade L130"
-  }
- ],
- "P731F50": [
-  {
-   "brand": "ZTE",
-   "name": "ZTE Blade L210",
-   "model": "ZTE Blade L210"
-  },
-  {
-   "brand": "ZTE",
-   "name": "ZTE Blade L210RU",
-   "model": "ZTE Blade L210RU"
   }
  ],
  "P731F20": [

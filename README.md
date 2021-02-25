@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-02-24
+Last sync is 2021-02-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -91,6 +91,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AG Mobile|Zone|Zone|Zone|
 |AG Mobile|Zoom|Zoom|Zoom|
 |AIDATA|ADT1012L|ADT1012L|ADT1012L|
+|AIDATA|ADT1061|ADT1061|ADT1061|
 |AIDATA|ADT1061_1|ADT1061_1|ADT1061_1|
 |AKOR|AKOR|TG1016|TG1016|
 |AKOR|TG797|TG797|TG797|
@@ -2671,6 +2672,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|A80|A80|A80|
 |Blackview|A80Plus|A80Plus|A80Plus|
 |Blackview|A80Pro|A80Pro|A80Pro|
+|Blackview|A80S|A80S|A80S|
 |Blackview|A9 Pro|A9_Pro|A9_Pro|
 |Blackview|BL6000Pro|BL6000Pro|BL6000Pro|
 |Blackview|BV4000|BV4000|BV4000|
@@ -2680,6 +2682,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|BV5100|BV5100|BV5100|
 |Blackview|BV5100Pro|BV5100Pro|BV5100Pro|
 |Blackview|BV5500|BV5500|BV5500|
+|Blackview|BV5500|BV5500S|BV5500|
 |Blackview|BV5500PLUS|BV5500Plus|BV5500Plus|
 |Blackview|BV5500Plus|BV5500Plus|BV5500Plus|
 |Blackview|BV5500Pro|BV5500Pro|BV5500Pro|
@@ -2819,6 +2822,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|BLU_STUDIO_G2|BLU_STUDIO_G2|BLU STUDIO G2|
 |Blu|BLU_Studio_G_Max|Studio_G_Max|Studio G Max|
 |Blu|BLU_Vivo_XL2|BLU_Vivo_XL2|Vivo XL2|
+|Blu|BOLD M7|M0100WW|BOLD M7|
 |Blu|BOLD M7|M0110WW|BOLD M7|
 |Blu|BOLD M8|M0120WW|BOLD M8|
 |Blu|BOLD M8|M0130WW|BOLD M8|
@@ -8428,6 +8432,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U40|HLTE103E_32|Hisense U40|
 |Hisense|Hisense U40|HLTE103E_33|Hisense U40|
 |Hisense|Hisense U40|SC9832E|Hisense U40|
+|Hisense|Hisense U605|HS7731ESP|Hisense U30|
 |Hisense|Hisense U605|HS7731ESP|Hisense U605|
 |Hisense|Hisense U605|HS7731ESP|Hisense U606|
 |Hisense|Hisense U963|HLTE100E_11|Hisense U963|
@@ -11982,6 +11987,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Karbonn|Titanium_S9Plus|Titanium_S9Plus|Titanium_S9Plus|
 |Karbonn|Titanium_S9_Plus|Karbonn_Titanium_S9_Plus|Titanium_S9_Plus|
 |Karma|KG555 Pro|KG555_Pro|KG555 Pro|
+|Karma|KG777 Pro|KG777Pro|KG777 Pro|
 |Karvy|KA7Q3|KA7Q3|KA7Q3|
 |Kbro|N97_A1B_72115|A1B_72115|N97_A1B_72115|
 |Kbro|N97_A1_3796|A1_3796|N97_A1_3796|
@@ -19309,6 +19315,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Plum|Phantom3|Z621|Z621|
 |Plum|Z518|Z518|Z518|
 |Plum|Z519|Z519|Z519|
+|Plum|Z555|Z555|Z555|
 |Plum|Z621|Z621|Z621|
 |Plum|Z711|Z711|PLUM Z711|
 |Plum|Z712|Z712|PLUM Z712|
@@ -20568,6 +20575,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reeder|P12 Curve|P12Curve|P12Curve|
 |Reeder|P13|P13|P13|
 |Reeder|P13 Blue|P13_Blue|P13_Blue|
+|Reeder|P13 Blue  Max Lite 32GB|P13_BML_32|P13 Blue Max Lite 32GB|
 |Reeder|P13 Blue Maks|P13_Blue_Maks|P13_Blue_Maks|
 |Reeder|P13 Blue Max|P13_Blue_Max|P13_Blue_Max|
 |Reeder|P13 Blue Max Lite|P13_BML|P13 Blue Max Lite|
@@ -20728,6 +20736,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SGINO|6S|6S|6S|
 |SGINO|SGINO6|SGINO6|SGINO6|
 |SHIFT|SHIFT6m|SHIFT6m|SHIFT6m|
+|SHIFT|SHIFT6mq|axolotl|SHIFT6mq|
 |SHINON|SH32G7S|ikebukuro|AI PONT|
 |SHINON|SH55G7K|samseong|AI PONT|
 |SIAFU|M5855|M5855|M5855|
@@ -26459,6 +26468,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Smart P11|Seoul|Smart_P11|
 |TCT (Alcatel)|Smart Tab 7|Phoenix_7|9317X|
 |TCT (Alcatel)|Smart Tab 7|Phoenix_7|9317X1|
+|TCT (Alcatel)|Smart Tab 7|Phoenix_7_KD|9317H|
 |TCT (Alcatel)|Smartphone Android by SFR STARADDICT II|one_touch_996_gsm|Smartphone Android by SFR STARADDICT II|
 |TCT (Alcatel)|Smartphone Android by SFR STARADDICT II|one_touch_996_gsm|Smartphone_Android_by_SFR_STARADDICT_II|
 |TCT (Alcatel)|Sol|idol3|AM-H200|
@@ -26869,6 +26879,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Techpad|TechPad_i700|Techpad_i700|Techpad_i700|
 |Techpad|Techpad_Kids_7|Techpad_Kids_7|Techpad_Kids_7|
 |Techpad|X6|X6|X6|
+|Techpad|X7|X7|X7|
 |Techpad|i700|i700|Tech Pad i700|
 |Techsonic|TECHR720W|TECHR720W|TECHR720W|
 |Teclast|APEX_P10HD_PRO|APEX_P10HD_PRO|APEX_P10HD_PRO|
@@ -29573,6 +29584,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Redmi 7|onc|Redmi 7|
 |Xiaomi|Redmi 7A|pine|Redmi 7A|
 |Xiaomi|Redmi 8|olive|Redmi 8|
+|Xiaomi|Redmi 9T|lemon|M2010J19SY|
 |Xiaomi|Redmi Go|tiare|Redmi Go|
 |Xiaomi|Redmi K30 Pro Zoom Edition|lmipro|Redmi K30 Pro Zoom Edition|
 |Xiaomi|Redmi Note 3|hennessy|Redmi Note 3|
@@ -30543,6 +30555,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|NX629J|NX629J-EEA|NX629J|
 |ZTE|NX659J|NX659J-RU|NX659J|
 |ZTE|NX907J|NX907J|NX907J|
+|ZTE|Nubia N11|P731F50|Nubia N11|
 |ZTE|OWN FUN 5(4G)|VFD511|OWN FUN 5(4G)|
 |ZTE|OWN FUN 5(4G)|VFD511|ZTE BLADE A321|
 |ZTE|OWN One Plus|ZTE_Blade_V580|OWN One Plus|
@@ -31131,6 +31144,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A5 2020|P963F50|Z-Ultra|
 |ZTE|ZTE Blade A5 2020|P963F50|ZTE Blade A5 2020|
 |ZTE|ZTE Blade A5 2020RU|P963F50|ZTE Blade A5 2020RU|
+|ZTE|ZTE Blade A51|P963F60|ZTE Blade A51|
 |ZTE|ZTE Blade A522|P817E53|ZTE Blade A522|
 |ZTE|ZTE Blade A531|P932F10|ZTE Blade A531|
 |ZTE|ZTE Blade A7 2019|P963F02|ZTE Blade A7 2019|
@@ -31691,6 +31705,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iLife|KIDS_TAB_6|KIDS_TAB_6|KIDS_TAB_6|
 |iLife|MISA|MISA|MISA|
 |iMuz|G10|G10|G10|
+|iMuz|G10E|G10|G10|
 |iMuz|RA10|RA10|RA10|
 |iMuz|muPAD L10|muPAD_L10|muPAD L10|
 |iMuz|muPADT7|muPADT7|muPADT7|

@@ -757,6 +757,13 @@
    "device": "ADT1012L"
   }
  ],
+ "ADT1061": [
+  {
+   "brand": "AIDATA",
+   "name": "ADT1061",
+   "device": "ADT1061"
+  }
+ ],
  "ADT1061_1": [
   {
    "brand": "AIDATA",
@@ -11633,6 +11640,11 @@
    "brand": "iMuz",
    "name": "G10",
    "device": "G10"
+  },
+  {
+   "brand": "iMuz",
+   "name": "G10E",
+   "device": "G10"
   }
  ],
  "K10": [
@@ -20166,6 +20178,13 @@
    "device": "A80Pro"
   }
  ],
+ "A80S": [
+  {
+   "brand": "Blackview",
+   "name": "A80S",
+   "device": "A80S"
+  }
+ ],
  "A9_Pro": [
   {
    "brand": "Blackview",
@@ -20232,6 +20251,11 @@
    "brand": "Blackview",
    "name": "BV5500",
    "device": "BV5500"
+  },
+  {
+   "brand": "Blackview",
+   "name": "BV5500",
+   "device": "BV5500S"
   }
  ],
  "BV5500Plus": [
@@ -21230,6 +21254,11 @@
   }
  ],
  "BOLD M7": [
+  {
+   "brand": "Blu",
+   "name": "BOLD M7",
+   "device": "M0100WW"
+  },
   {
    "brand": "Blu",
    "name": "BOLD M7",
@@ -37248,6 +37277,11 @@
   },
   {
    "brand": "Selfix",
+   "name": "X7",
+   "device": "X7"
+  },
+  {
+   "brand": "Techpad",
    "name": "X7",
    "device": "X7"
   },
@@ -60608,6 +60642,13 @@
    "brand": "Hisense",
    "name": "Hisense U40",
    "device": "SC9832E"
+  }
+ ],
+ "Hisense U30": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U605",
+   "device": "HS7731ESP"
   }
  ],
  "Hisense U605": [
@@ -84160,6 +84201,13 @@
    "brand": "Karma",
    "name": "KG555 Pro",
    "device": "KG555_Pro"
+  }
+ ],
+ "KG777 Pro": [
+  {
+   "brand": "Karma",
+   "name": "KG777 Pro",
+   "device": "KG777Pro"
   }
  ],
  "KA7Q3": [
@@ -132424,6 +132472,13 @@
    "device": "Z519"
   }
  ],
+ "Z555": [
+  {
+   "brand": "Plum",
+   "name": "Z555",
+   "device": "Z555"
+  }
+ ],
  "PLUM Z711": [
   {
    "brand": "Plum",
@@ -140718,6 +140773,13 @@
    "device": "P13_Blue"
   }
  ],
+ "P13 Blue Max Lite 32GB": [
+  {
+   "brand": "Reeder",
+   "name": "P13 Blue  Max Lite 32GB",
+   "device": "P13_BML_32"
+  }
+ ],
  "P13_Blue_Maks": [
   {
    "brand": "Reeder",
@@ -141669,6 +141731,13 @@
    "brand": "SHIFT",
    "name": "SHIFT6m",
    "device": "SHIFT6m"
+  }
+ ],
+ "SHIFT6mq": [
+  {
+   "brand": "SHIFT",
+   "name": "SHIFT6mq",
+   "device": "axolotl"
   }
  ],
  "M5855": [
@@ -180436,6 +180505,13 @@
    "device": "Phoenix_7"
   }
  ],
+ "9317H": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Smart Tab 7",
+   "device": "Phoenix_7_KD"
+  }
+ ],
  "Smartphone Android by SFR STARADDICT II": [
   {
    "brand": "TCT (Alcatel)",
@@ -200210,6 +200286,13 @@
    "device": "onc"
   }
  ],
+ "M2010J19SY": [
+  {
+   "brand": "Xiaomi",
+   "name": "Redmi 9T",
+   "device": "lemon"
+  }
+ ],
  "Redmi K30 Pro Zoom Edition": [
   {
    "brand": "Xiaomi",
@@ -206901,6 +206984,13 @@
    "device": "NX907J"
   }
  ],
+ "Nubia N11": [
+  {
+   "brand": "ZTE",
+   "name": "Nubia N11",
+   "device": "P731F50"
+  }
+ ],
  "OWN FUN 5(4G)": [
   {
    "brand": "ZTE",
@@ -210501,6 +210591,13 @@
    "brand": "ZTE",
    "name": "ZTE Blade A5 2020RU",
    "device": "P963F50"
+  }
+ ],
+ "ZTE Blade A51": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A51",
+   "device": "P963F60"
   }
  ],
  "ZTE Blade A531": [
