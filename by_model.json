@@ -74703,6 +74703,11 @@
    "brand": "Hurricane",
    "name": "Vibe",
    "device": "Vibe"
+  },
+  {
+   "brand": "Mobicell",
+   "name": "VIBE",
+   "device": "VIBE"
   }
  ],
  "Volt": [
@@ -102270,6 +102275,13 @@
    "device": "8705X"
   }
  ],
+ "Lenovo TB-8506F": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M8 (3rd Gen)",
+   "device": "TB-8506F"
+  }
+ ],
  "Lenovo TB-8506FS": [
   {
    "brand": "Lenovo",
@@ -112291,6 +112303,13 @@
    "device": "BERRY_2"
   }
  ],
+ "CHAMP": [
+  {
+   "brand": "Mobicell",
+   "name": "CHAMP",
+   "device": "CHAMP"
+  }
+ ],
  "CHERRY": [
   {
    "brand": "Mobicell",
@@ -112556,6 +112575,13 @@
    "device": "ONYX"
   }
  ],
+ "OREO": [
+  {
+   "brand": "Mobicell",
+   "name": "OREO",
+   "device": "OREO"
+  }
+ ],
  "PLAY": [
   {
    "brand": "Mobicell",
@@ -112575,6 +112601,13 @@
    "brand": "Mobicell",
    "name": "PULSE_1",
    "device": "PULSE_1"
+  }
+ ],
+ "PULSE_1_VDC": [
+  {
+   "brand": "Mobicell",
+   "name": "PULSE_1_VDC",
+   "device": "PULSE_1_VDC"
   }
  ],
  "PURE": [
@@ -172489,6 +172522,20 @@
    "device": "HONG_KONG"
   }
  ],
+ "T774B": [
+  {
+   "brand": "TCL",
+   "name": "TCL 20L",
+   "device": "Richland"
+  }
+ ],
+ "T775B": [
+  {
+   "brand": "TCL",
+   "name": "TCL 20L+",
+   "device": "Richland_Pro"
+  }
+ ],
  "T773O": [
   {
    "brand": "TCL",
@@ -210530,6 +210577,13 @@
    "brand": "ZTE",
    "name": "ZTE Blade A3 2020RU",
    "device": "P932F50"
+  }
+ ],
+ "ZTE Blade A31": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A31",
+   "device": "P963F70"
   }
  ],
  "Z5157V": [

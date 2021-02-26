@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-02-25
+Last sync is 2021-02-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14686,6 +14686,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M8|8705F|Lenovo TB-8705F|
 |Lenovo|Lenovo Tab M8|8705N|Lenovo TB-8705N|
 |Lenovo|Lenovo Tab M8|8705X|Lenovo TB-8705X|
+|Lenovo|Lenovo Tab M8 (3rd Gen)|TB-8506F|Lenovo TB-8506F|
 |Lenovo|Lenovo Tab M8 (3rd Gen)|TB-8506FS|Lenovo TB-8506FS|
 |Lenovo|Lenovo Tab P10|X705F|Lenovo TB-X705F|
 |Lenovo|Lenovo Tab P10|X705L|Lenovo TB-X705L|
@@ -16207,6 +16208,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|BERRY1|BERRY1|BERRY1|
 |Mobicell|BLINK|BLINK|BLINK|
 |Mobicell|Berry 2|BERRY_2|BERRY 2|
+|Mobicell|CHAMP|CHAMP|CHAMP|
 |Mobicell|CHERRY|CHERRY|CHERRY|
 |Mobicell|CLIK|CLIK|CLIK|
 |Mobicell|COSMO|COSMO|COSMO|
@@ -16247,9 +16249,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|NEO|NEO|NEO|
 |Mobicell|NEO LTE|Neo_LTE|Neo LTE|
 |Mobicell|ONYX|ONYX|ONYX|
+|Mobicell|OREO|OREO|OREO|
 |Mobicell|PLAY|PLAY|PLAY|
 |Mobicell|PLUM|PLUM|PLUM|
 |Mobicell|PULSE_1|PULSE_1|PULSE_1|
+|Mobicell|PULSE_1_VDC|PULSE_1_VDC|PULSE_1_VDC|
 |Mobicell|PURE|PURE|PURE|
 |Mobicell|PURE MINI|PURE_MINI|PURE MINI|
 |Mobicell|PURE_PLUS|PURE_PLUS|PURE PLUS|
@@ -16295,6 +16299,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|V4|V4|V4|
 |Mobicell|VEGA|VEGA|VEGA|
 |Mobicell|VENUS_G|VENUS_G|VENUS_G|
+|Mobicell|VIBE|VIBE|VIBE|
 |Mobicell|X1|X1|X1|
 |Mobicell|X4|X4|X4|
 |Mobicell|ZEN|ZEN|ZEN|
@@ -25314,6 +25319,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 20E|HONG_KONG|6125A|
 |TCL|TCL 20E|HONG_KONG|6125D|
 |TCL|TCL 20E|HONG_KONG|6125F|
+|TCL|TCL 20L|Richland|T774B|
+|TCL|TCL 20L+|Richland_Pro|T775B|
 |TCL|TCL 20S|Miami_Pro|T773O|
 |TCL|TCL 20Y|Hong_Kong_Pro|6156A|
 |TCL|TCL 20Y|Hong_Kong_Pro|6156D|
@@ -31135,6 +31142,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A3 2020|P932F50|ZTE Blade A3 2020|
 |ZTE|ZTE Blade A3 2020RU|P932F50|ZTE Blade A3 2020RU|
 |ZTE|ZTE Blade A3 Lite|P932F20|ZTE Blade A3 Lite|
+|ZTE|ZTE Blade A31|P963F70|ZTE Blade A31|
 |ZTE|ZTE Blade A3v|Z5157|Z5157V|
 |ZTE|ZTE Blade A3v|Z5157|Z5157Y|
 |ZTE|ZTE Blade A5 2019|P963F30|ZTE Blade A5 2019|
