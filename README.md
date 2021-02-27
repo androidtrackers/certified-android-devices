@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-02-26
+Last sync is 2021-02-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10590,6 +10590,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|E435 Plus|E435_Plus|E435 Plus|
 |Hyundai|E456GO|E465GO|E465GO|
 |Hyundai|E475|E475|E475|
+|Hyundai|E485|E485|E485|
 |Hyundai|E503F|E503F|E503F|
 |Hyundai|E553|E553|E553|
 |Hyundai|E601F|E601F|E601F|
@@ -27229,6 +27230,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telelynx|TP-MDM107|TP-MDM107|TP-MDM107|
 |Telemor|T8408|Telemor_T8408|T8408|
 |Telemor|T9501|T9501|T9501|
+|Telemor|T9503|Telemor_T9503|Telemor T9503|
 |Telemor|Telemor T9502|T9502|Telemor T9502|
 |Telenet|TADAAM Box|sti6160d332|TADAAM Box|
 |Telenor|Elite57|Elite57|Elite57|

@@ -73464,6 +73464,18 @@
    "model": "E475"
   }
  ],
+ "E485": [
+  {
+   "brand": "Hyundai",
+   "name": "E485",
+   "model": "E485"
+  },
+  {
+   "brand": "Micromax",
+   "name": "Canvas 6",
+   "model": "Micromax E485"
+  }
+ ],
  "E503F": [
   {
    "brand": "Hyundai",
@@ -107562,13 +107574,6 @@
    "brand": "Micromax",
    "name": "Canvas 5 Lite",
    "model": "Micromax Q463"
-  }
- ],
- "E485": [
-  {
-   "brand": "Micromax",
-   "name": "Canvas 6",
-   "model": "Micromax E485"
   }
  ],
  "E484": [
@@ -177922,6 +177927,13 @@
    "brand": "Telemor",
    "name": "T9501",
    "model": "T9501"
+  }
+ ],
+ "Telemor_T9503": [
+  {
+   "brand": "Telemor",
+   "name": "T9503",
+   "model": "Telemor T9503"
   }
  ],
  "T9502": [

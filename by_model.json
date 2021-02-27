@@ -74932,6 +74932,13 @@
    "device": "E475"
   }
  ],
+ "E485": [
+  {
+   "brand": "Hyundai",
+   "name": "E485",
+   "device": "E485"
+  }
+ ],
  "E503F": [
   {
    "brand": "Hyundai",
@@ -185462,6 +185469,13 @@
    "brand": "Telemor",
    "name": "T9501",
    "device": "T9501"
+  }
+ ],
+ "Telemor T9503": [
+  {
+   "brand": "Telemor",
+   "name": "T9503",
+   "device": "Telemor_T9503"
   }
  ],
  "Telemor T9502": [
