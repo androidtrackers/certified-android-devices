@@ -131119,6 +131119,13 @@
    "device": "Pavapro10bk"
   }
  ],
+ "Pebble_Quad": [
+  {
+   "brand": "Pebble Quad",
+   "name": "PTPC01",
+   "device": "PTPC01"
+  }
+ ],
  "Android Tablet PC": [
   {
    "brand": "Pegatron",
@@ -143179,6 +143186,13 @@
    "brand": "SWTV",
    "name": "SWTV-20N",
    "device": "SW4H"
+  }
+ ],
+ "SWTV-20NA-PRO": [
+  {
+   "brand": "SWTV",
+   "name": "SWTV-20NA-PRO",
+   "device": "SW4H_FF"
   }
  ],
  "SWTV-20SA": [
@@ -181493,6 +181507,27 @@
    "device": "Aquaman_10_Kids_WIFI"
   }
  ],
+ "8052": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "TKEE MINI",
+   "device": "Hulk_7_KIDS_WIFI"
+  }
+ ],
+ "8052_EEA": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "TKEE MINI",
+   "device": "Hulk_7_KIDS_WIFI"
+  }
+ ],
+ "8052_RU": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "TKEE MINI",
+   "device": "Hulk_7_KIDS_WIFI"
+  }
+ ],
  "9317G": [
   {
    "brand": "TCT (Alcatel)",
@@ -181942,27 +181977,6 @@
    "brand": "TCT (Alcatel)",
    "name": "smart tab 7",
    "device": "Hulk_7_GL_WIFI"
-  }
- ],
- "8052": [
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "smart tab 7",
-   "device": "Hulk_7_KIDS_WIFI"
-  }
- ],
- "8052_EEA": [
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "smart tab 7",
-   "device": "Hulk_7_KIDS_WIFI"
-  }
- ],
- "8052_RU": [
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "smart tab 7",
-   "device": "Hulk_7_KIDS_WIFI"
   }
  ],
  "9032Z": [
@@ -194821,11 +194835,32 @@
    "device": "Magnet_G10"
   }
  ],
+ "Magnet_G20": [
+  {
+   "brand": "Vonino",
+   "name": "Magnet_G20",
+   "device": "Magnet_G50"
+  }
+ ],
  "Magnet_G30": [
   {
    "brand": "Vonino",
    "name": "Magnet_G30_EEA",
    "device": "Magnet_G30"
+  }
+ ],
+ "Magnet_G30_lite": [
+  {
+   "brand": "Vonino",
+   "name": "Magnet_G30_lite",
+   "device": "Magnet_G30"
+  }
+ ],
+ "Magnet_G40": [
+  {
+   "brand": "Vonino",
+   "name": "Magnet_G40",
+   "device": "Magnet_G50"
   }
  ],
  "Magnet_G50": [

@@ -128307,6 +128307,13 @@
    "model": "Pavapro10bk"
   }
  ],
+ "PTPC01": [
+  {
+   "brand": "Pebble Quad",
+   "device": "PTPC01",
+   "model": "Pebble_Quad"
+  }
+ ],
  "MaxiIQ": [
   {
    "brand": "Pegatron",
@@ -140090,6 +140097,13 @@
    "brand": "SWTV",
    "device": "SW4H",
    "model": "SWTV-20NA"
+  }
+ ],
+ "SWTV-20NA-PRO": [
+  {
+   "brand": "SWTV",
+   "device": "SW4H_FF",
+   "model": "SWTV-20NA-PRO"
   }
  ],
  "SWTV-20SA": [
@@ -165224,6 +165238,21 @@
    "brand": "TCL",
    "device": "Hulk_7_KIDS_WIFI",
    "model": "8093"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Hulk_7_KIDS_WIFI",
+   "model": "8052"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Hulk_7_KIDS_WIFI",
+   "model": "8052_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Hulk_7_KIDS_WIFI",
+   "model": "8052_RU"
   }
  ],
  "Union TV": [
@@ -172248,21 +172277,6 @@
    "brand": "TCT (Alcatel)",
    "device": "Hulk_7_GL_WIFI",
    "model": "8051_TR"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "device": "Hulk_7_KIDS_WIFI",
-   "model": "8052"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "device": "Hulk_7_KIDS_WIFI",
-   "model": "8052_EEA"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "device": "Hulk_7_KIDS_WIFI",
-   "model": "8052_RU"
   }
  ],
  "tbd": [
@@ -184716,11 +184730,32 @@
    "model": "Magnet_G10"
   }
  ],
+ "Magnet_G20": [
+  {
+   "brand": "Vonino",
+   "device": "Magnet_G50",
+   "model": "Magnet_G20"
+  }
+ ],
  "Magnet_G30_EEA": [
   {
    "brand": "Vonino",
    "device": "Magnet_G30",
    "model": "Magnet_G30"
+  }
+ ],
+ "Magnet_G30_lite": [
+  {
+   "brand": "Vonino",
+   "device": "Magnet_G30",
+   "model": "Magnet_G30_lite"
+  }
+ ],
+ "Magnet_G40": [
+  {
+   "brand": "Vonino",
+   "device": "Magnet_G50",
+   "model": "Magnet_G40"
   }
  ],
  "Magnet_G50": [

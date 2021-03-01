@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-02-28
+Last sync is 2021-03-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -19103,6 +19103,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pastigio|SMY_17_M07R6_EEA|SMY-17-M07R6|SMY-17-M07R6|
 |Pavapro|PavaPro7bk|Pavapro7bk|Pavapro7bk|
 |Pavapro|Pavapro10|Pavapro10bk|Pavapro10bk|
+|Pebble Quad|PTPC01|PTPC01|Pebble_Quad|
 |Pegatron||Duke3G|Android Tablet PC|
 |Pegatron||DukeWifi|Android Tablet PC|
 |Pegatron||TabletPC|Android Tablet PC|
@@ -20951,6 +20952,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SWTV|SWTV-20AE-PRO|SW4H_FF|SWTV-20AE-PRO|
 |SWTV|SWTV-20HK|SW4H|SWTV-20HK|
 |SWTV|SWTV-20N|SW4H|SWTV-20NA|
+|SWTV|SWTV-20NA-PRO|SW4H_FF|SWTV-20NA-PRO|
 |SWTV|SWTV-20SA|SW4H|SWTV-20SA|
 |SWTV|SWTV-20SA-PRO|SW4H_FF|SWTV-20SA-PRO|
 |SWTV|South America|SW3_ATV|SWTV|
@@ -26619,6 +26621,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|TKEE MAX|Aquaman_10_Kids_WIFI|8095_EEA|
 |TCT (Alcatel)|TKEE MAX|Aquaman_10_Kids_WIFI|8095_RU|
 |TCT (Alcatel)|TKEE MAX|Aquaman_10_Kids_WIFI|8095_TR|
+|TCT (Alcatel)|TKEE MINI|Hulk_7_KIDS_WIFI|8052|
+|TCT (Alcatel)|TKEE MINI|Hulk_7_KIDS_WIFI|8052_EEA|
+|TCT (Alcatel)|TKEE MINI|Hulk_7_KIDS_WIFI|8052_RU|
 |TCT (Alcatel)|TKEE mini|Phoenix_7_Kids|9317G|
 |TCT (Alcatel)|TKEE mini|Phoenix_7_Kids|9317G1|
 |TCT (Alcatel)|Telenor_Smart|one_touch_985_gsm|Telenor_Smart|
@@ -26689,9 +26694,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|smart tab 7|Hulk_7_GL_WIFI|8051_EEA|
 |TCT (Alcatel)|smart tab 7|Hulk_7_GL_WIFI|8051_RU|
 |TCT (Alcatel)|smart tab 7|Hulk_7_GL_WIFI|8051_TR|
-|TCT (Alcatel)|smart tab 7|Hulk_7_KIDS_WIFI|8052|
-|TCT (Alcatel)|smart tab 7|Hulk_7_KIDS_WIFI|8052_EEA|
-|TCT (Alcatel)|smart tab 7|Hulk_7_KIDS_WIFI|8052_RU|
 |TCT (Alcatel)|tbd|Apollo_8_4G_TMO|9032Z|
 |TCT (Alcatel)|tbd|FERMI_TF|A501DL|
 |TCT (Alcatel)|tbd|Mickey6TFUMTS|A576BL|
@@ -28713,7 +28715,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vonino|Jax_X_TM|JAX|Jax X|
 |Vonino|Magnet M1_A7|Magnet_M1_A7|Magnet M1|
 |Vonino|Magnet_G10|Magnet_G10|Magnet_G10|
+|Vonino|Magnet_G20|Magnet_G50|Magnet_G20|
 |Vonino|Magnet_G30_EEA|Magnet_G30|Magnet_G30|
+|Vonino|Magnet_G30_lite|Magnet_G30|Magnet_G30_lite|
+|Vonino|Magnet_G40|Magnet_G50|Magnet_G40|
 |Vonino|Magnet_G50|Magnet_G50|Magnet_G50|
 |Vonino|Magnet_G50_lite|Magnet_G50_lite|Magnet_G50_lite|
 |Vonino|Magnet_M1|Magnet_M1|Magnet M1|

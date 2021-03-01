@@ -6926,6 +6926,11 @@
   },
   {
    "brand": "SWTV",
+   "name": "SWTV-20NA-PRO",
+   "model": "SWTV-20NA-PRO"
+  },
+  {
+   "brand": "SWTV",
    "name": "SWTV-20SA-PRO",
    "model": "SWTV-20SA-PRO"
   }
@@ -84118,17 +84123,17 @@
   },
   {
    "brand": "TCT (Alcatel)",
-   "name": "smart tab 7",
+   "name": "TKEE MINI",
    "model": "8052"
   },
   {
    "brand": "TCT (Alcatel)",
-   "name": "smart tab 7",
+   "name": "TKEE MINI",
    "model": "8052_EEA"
   },
   {
    "brand": "TCT (Alcatel)",
-   "name": "smart tab 7",
+   "name": "TKEE MINI",
    "model": "8052_RU"
   }
  ],
@@ -127889,6 +127894,13 @@
    "brand": "Pavapro",
    "name": "Pavapro10",
    "model": "Pavapro10bk"
+  }
+ ],
+ "PTPC01": [
+  {
+   "brand": "Pebble Quad",
+   "name": "PTPC01",
+   "model": "Pebble_Quad"
   }
  ],
  "Duke3G": [
@@ -186963,18 +186975,33 @@
    "model": "Magnet_G10"
   }
  ],
+ "Magnet_G50": [
+  {
+   "brand": "Vonino",
+   "name": "Magnet_G20",
+   "model": "Magnet_G20"
+  },
+  {
+   "brand": "Vonino",
+   "name": "Magnet_G40",
+   "model": "Magnet_G40"
+  },
+  {
+   "brand": "Vonino",
+   "name": "Magnet_G50",
+   "model": "Magnet_G50"
+  }
+ ],
  "Magnet_G30": [
   {
    "brand": "Vonino",
    "name": "Magnet_G30_EEA",
    "model": "Magnet_G30"
-  }
- ],
- "Magnet_G50": [
+  },
   {
    "brand": "Vonino",
-   "name": "Magnet_G50",
-   "model": "Magnet_G50"
+   "name": "Magnet_G30_lite",
+   "model": "Magnet_G30_lite"
   }
  ],
  "Magnet_G50_lite": [
