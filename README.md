@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-03-02
+Last sync is 2021-03-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3324,6 +3324,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Camfone|Honey Y1|Honey_Y1|Honey Y1|
 |Camfone|Honey_Y2s|Honey_Y2s|Honey Y2s|
 |Camfone|Mega 10|Mega_10|Mega 10|
+|Canal Digital|Allente 1|OnePlace2|Allente 1|
 |Canal Digital|OnePlace|canal_sat_bcm|S70CDS|
 |Candi|Blaze|Blaze|Blaze|
 |Candi|Cola S|Candi_M671M3|M671M3|
@@ -3335,6 +3336,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Captiva|CAPTIVA Pad 10 3G Plus|Pad_10_3G_Plus|Captiva Pad 10 3G Plus|
 |Captiva|Pad 10 2-in-1|Pad_10_2_in_1|Pad_10_2_in_1|
 |Captiva|Pad 10 3G pLUS|Pad_10_3G_Plus|Captiva Pad 10 3G Plus|
+|Carbon Mobile|Carbon 1 Mark II|C1M2BD_R2|Carbon 1 Mark II|
 |Carbon Mobile|Carbon Mobile|C1M2BD_R1|C1M2BD_R1|
 |CarePad|C101|C101|C101|
 |Carrefour|CT1000|Carrefour|CT1000|
@@ -3385,6 +3387,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Casper|VIA_A3|VIA_A3|VIA_A3|
 |Casper|VIA_E3|VIA_E3|VIA_E3|
 |Casper|VIA_E4|VIA_E4|VIA_E4|
+|Casper|VIA_F20|VIA_F20|VIA_F20|
 |Casper|VIA_F3|VIA_F3|VIA_F3|
 |Casper|VIA_G5|VIA_G5|VIA G5|
 |Casper|VIA_L30|VIA_L30|VIA_L30|
@@ -5707,6 +5710,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Evertek|M10_Pro|Evertek_M10_Pro|M10_Pro|
 |Evertek|M20|M20|M20|
 |Evertek|M20 Mini|M20_Mini|M20 Mini|
+|Evertek|M20 NANO|M20_NANO|M20 NANO|
 |Evertek|M20_S|M20_S|M20 S|
 |Evertek|V4|V4|EVERTEK V4|
 |Evertek|V4 Nano|V4_Nano|V4 Nano|
@@ -5829,6 +5833,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FOXXD|MIRO|L590A|L590A|
 |FPT Telecom|FPT ATV Play Box|DV8236|FPT ATV Play Box|
 |FPT Telecom|SEI500FPT|SEI500FPT|FPT Play Box +|
+|FPT Telecom|SEI610FPT|SEI610FPT|FPT Play Box S|
 |FPT Trading|A15|A15_01|A15|
 |FPT Trading|FPT S68 4G|FPT_S68_4G|FPT S68 4G|
 |FPT Trading|FPT X10|X10|FPT_X10|
@@ -6385,6 +6390,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GOODTEL|G3_EEA|G3_EEA|G3_EEA|
 |GOODTEL|G6|G6|G6|
 |GOODTEL|G6_EEA|G6_EEA|G6|
+|GOtv|SEI600GO|HND|SEI600GO|
 |GP-electronic|YC-102D|YC-102D|YC-102D|
 |GP-electronic|YC-3135D|YC-3135D|YC-3135D|
 |GP-electronic|YC-83T|YC-83T|YC-83T|
@@ -10562,6 +10568,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hurricane|Storm|Storm|Storm|
 |Hurricane|Surge|Surge|Surge|
 |Hurricane|Swift|Swift|Swift|
+|Hurricane|T10|T10|T10|
 |Hurricane|Touch|Touch|Touch|
 |Hurricane|Ultra|Ultra|Ultra|
 |Hurricane|Vega|Vega|Vega|
@@ -10652,6 +10659,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|Hyundai_Eternity_G57|HT2G57L|Hyundai_Eternity_G57L|
 |Hyundai|Hyundai_Eternity_G60|HT3G60L|Hyundai_Eternity_G60|
 |Hyundai|Hyundai_Home|Hyundai_Home|HTSH10W216|
+|Hyundai|Italy|tamachi|HYUNDAI 2K Android TV|
+|Hyundai|Italy|yeongdeungpo|HYUNDAI 4K Android TV|
+|Hyundai|K131|E505|E505|
 |Hyundai|Koral|Koral_10WB1|10WB1|
 |Hyundai|Koral|Koral_7WB1|7WB1|
 |Hyundai|Koral|Koral_7WC1|7WC1|
@@ -11790,6 +11800,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |K-Touch|Touch 2C|Touch2c|K-Touch Tou ch 2c|
 |KAAN|A1|KAAN_A1|KAAN_A1|
 |KAAN|KAAN_N2|KAAN_N2|KAAN_N2|
+|KAGIS|Australia|tamachi|KAGIS Android TV|
+|KAGIS|Australia|yeongdeungpo|KAGIS Android TV|
 |KANSELIR|KTB-168|KTB-168|KTB-168|
 |KAZAM|TROOPER X3.5|KAZAM|Trooper_X35|
 |KAZAM|TROOPER X4.0|KAZAM|Trooper_X40|
@@ -14895,6 +14907,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Yoga Smart Tab|YT-X705L|Lenovo YT-X705L|
 |Lenovo|Yoga Smart Tab|YT-X705M|Lenovo YT-X705M|
 |Lenovo|Yoga Smart Tab|YT-X705X|Lenovo YT-X705X|
+|Lenovo|Yoga Tab 13(ROW)|K606F|Lenovo YT-K606F|
 |Lenovo|YogaTablet2 -1050F|YT2|YOGA Tablet 2-1050F|
 |Lenovo|YogaTbalet2-830F|YT2|YOGA Tablet 2-830F|
 |Lenovo|Z2|z2r|Lenovo Z2|
@@ -15441,6 +15454,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mafe|V9|V9|V9|
 |Mafe|Z1|Z1|Z1|
 |Mafe|Z2|Z2|Z2|
+|Magenta TV|OTT-G1|DV6067Y|OTT-G1|
 |MagentaTV|DV6067Y-T|DV6067Y_TVStick|DV6067Y-T|
 |MagentaTV|OTT-G1|DV6067Y|OTT-G1|
 |Majestic|JACK|JACK|JACK|
@@ -16050,6 +16064,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Micromax|IN1b|E6523|Micromax E6523|
 |Micromax|IN1b|E7533|Micromax E7533|
 |Micromax|IN_Note1|E7746|IN_Note1|
+|Micromax|In_Note1|E7746|IN_Note1|
 |Micromax|Infinity N Series N12|N8301|N8301|
 |Micromax|Ione Note|N8305|ione note|
 |Micromax|MAD|A94|Micromax A94|
@@ -20572,6 +20587,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi K40|alioth|M2012K11AC|
 |Redmi|Redmi K40 Pro|haydn|M2012K11C|
 |Redmi|Redmi K40 Pro +|haydn|M2012K11C|
+|Redmi|Redmi Note 10 Pro|sweet|M2101K6G|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Redmi|Redmi Note 8|ginkgo|GINKGO|
 |Redmi|Redmi Note 8|ginkgo|Redmi Note 8|
@@ -20923,6 +20939,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |STG Telecom|STG S10|STG_S10|STG S10|
 |STG Telecom|STG X1|STG_X1|STG X1|
 |STG Telecom|STG X2|STG_X2|STG X2|
+|STG Telecom|STG X20|STG_X20|STG X20|
 |STG Telecom|STG X3|STG_X3|STG X3|
 |STG Telecom|STG-KeyTab|STG-KeyTab|STG-KeyTab|
 |STG Telecom|STG_A1|STG_A1|STG A1|
@@ -21200,6 +21217,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A31|a31|SM-A315F|
 |Samsung|Galaxy A31|a31|SM-A315G|
 |Samsung|Galaxy A31|a31|SM-A315N|
+|Samsung|Galaxy A32|a32|SM-A325F|
+|Samsung|Galaxy A32|a32|SM-A325M|
 |Samsung|Galaxy A32 5G|SCG08|SCG08|
 |Samsung|Galaxy A32 5G|a32x|SM-A326B|
 |Samsung|Galaxy A32 5G|a32x|SM-A326BR|
@@ -21215,6 +21234,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A42 5G|a42xq|SM-A4260|
 |Samsung|Galaxy A42 5G|a42xq|SM-A426B|
 |Samsung|Galaxy A42 5G|a42xq|SM-A426N|
+|Samsung|Galaxy A42 5G|a42xuq|SM-A426U|
 |Samsung|Galaxy A5|a53g|SM-A500H|
 |Samsung|Galaxy A5|a5lte|SM-A500F|
 |Samsung|Galaxy A5|a5lte|SM-A500G|
@@ -21343,6 +21363,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A71 5G|a71xq|SM-A716U|
 |Samsung|Galaxy A71 5G|a71xq|SM-A716U1|
 |Samsung|Galaxy A71 5G|a71xq|SM-A716V|
+|Samsung|Galaxy A72|a72q|SM-A725F|
+|Samsung|Galaxy A72|a72q|SM-A725M|
 |Samsung|Galaxy A8|SCV32|SCV32|
 |Samsung|Galaxy A8|a8elte|SM-A800F|
 |Samsung|Galaxy A8|a8elte|SM-A800YZ|
@@ -21602,6 +21624,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Express|expresslte|GT-I8730T|
 |Samsung|Galaxy Express|expressziglteatt|SAMSUNG-SGH-I437Z|
 |Samsung|Galaxy Express2|wilcoxlte|SM-G3815|
+|Samsung|Galaxy F02s|a02q|SM-E025F|
 |Samsung|Galaxy F12|f12|SM-F127G|
 |Samsung|Galaxy F41|f41|SM-F415F|
 |Samsung|Galaxy F62|f62|SM-E625F|
@@ -22011,6 +22034,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M31s|m31s|SM-M317F|
 |Samsung|Galaxy M40|m40|SM-M405F|
 |Samsung|Galaxy M51|m51|SM-M515F|
+|Samsung|Galaxy M62|m62|SM-M625F|
 |Samsung|Galaxy Mega 2|mega23g|SM-G750H|
 |Samsung|Galaxy Mega 5.8|crater|GT-I9152|
 |Samsung|Galaxy Mega 5.8|crater3gctc|SCH-P709|
@@ -23420,6 +23444,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Xcover3|xcover3velte|SM-G389F|
 |Samsung|Galaxy Xcover4|xcover4lte|SM-G390Y|
 |Samsung|Galaxy Xcover4|xcover4ltecan|SM-G390W|
+|Samsung|Galaxy Xcover5|xcover5|SM-G525F|
 |Samsung|Galaxy Y|GT-S5360|GT-S5360|
 |Samsung|Galaxy Y|GT-S5360B|GT-S5360B|
 |Samsung|Galaxy Y|GT-S5360L|GT-S5360L|
@@ -24048,6 +24073,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sigma Mobile|X-treme PQ20|X-treme_PQ20|X-treme_PQ20|
 |Sigma Mobile|X-treme PQ29|X-treme_PQ29|X-treme_PQ29|
 |Sigma Mobile|X-treme PQ36|X-treme_PQ36|X-treme_PQ36|
+|Sigma Mobile|X-treme PQ38|X_treme_PQ38|X-TREME_PQ38|
 |Sigma Mobile|X-treme PQ53|X-treme_PQ53|X-treme PQ53|
 |Sigma Mobile|X-treme PQ54|X-treme_PQ54|X-treme_PQ54|
 |Sigma Mobile|X-treme_PQ54 MAX|X-treme_PQ54_MAX|X-treme_PQ54 MAX|
@@ -26733,6 +26759,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|tbd|U50A_PLUS_ATT|Alcatel_5059R|
 |TCT (Alcatel)|tmn smarta8|ONE_TOUCH_991D_gsm|moche smart a8|
 |TCT (Alcatel)|tmn smarta8|ONE_TOUCH_991D_gsm|tmn smart a8|
+|TD SYSTEMS|Spain|yeongdeungpo|TD SYSTEMS Android TV|
 |TDS|VIP6102W|vip6102w|VIP6102W|
 |TECHNOLOGIA Y CRATIVIDAD|M103H|M103H|M103H|
 |TECO|K5T|ikebukuro|AI PONT|
@@ -26784,6 +26811,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TOPELOTEK|TOPELOTEK|KIDS08|KIDS08|
 |TOPELOTEK|TOPELOTEK|KIDS09|KIDS09|
 |TOPELOTEK|Y8|Y8|Y8|
+|TOPJOY|PNC450|PNC450|PNC450|
 |TOSCIDO|P101|P101|P101|
 |TOSCIDO|P101-EEA|P101-EEA|P101-EEA|
 |TOSCIDO|T12-EEA|T12-EEA|T12-EEA|
@@ -27303,6 +27331,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TeloSystems|TE580P|TE580P|TE580P|
 |TeloSystems|TE580PS|TE580PS|TE580PS|
 |TeloSystems|TE590P|TE590P_E|TE590P_E|
+|TeloSystems|TE590P|TE590P_O|TE590P_O|
 |TeloSystems|TELO_TE610|TELO_TE610|TELO_TE610|
 |TeloSystems|TELO_TE610_O|TELO_TE610_O|TELO_TE610_O|
 |Telus|HMB2213PW22TS|HMB2213PW22TS|HMB2213PW22TS|
@@ -29693,6 +29722,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |YOTOPT|Y103_EEA|Y103_EEA|Y103_EEA|
 |YOTOPT|Y3-EEA|Y3-EEA|Y3-EEA|
 |YOTOPT|Y5-EEA|Y5-EEA|Y5-EEA|
+|YOUIN|SEI600EN|HND|YOU-BOX|
 |YQSVAIOR|YQ-SVAIOR-EEA|YQ-SVAIOR-EEA|YQ-SVAIOR-EEA|
 |YQSVAIOR|YQ10|YQ10|YQ10|
 |YQSVAIOR|YQ11|YQ11|YQ11|
@@ -31496,6 +31526,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |beafon|M6|M6|M6|
 |beafon|M6s|M6s|M6s|
 |beafon|MX1|MX1|MX1|
+|benco|AF9010_F|AF9010_F|AF9010_F|
+|benco|AF9020|AF9020|AF9020|
+|benco|AF9030|AF9030|AF9030|
+|benco|AH9910|AH9910|AH9910|
 |benco|benco Y30|AF9030|AF9030|
 |benco|benco Y41|AH9910|AH9910|
 |benco|benco Y41|AN9910|AN9910|
@@ -31728,6 +31762,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iHunt|S10_Tank_2019|S10_Tank_2019|S10_Tank_2019|
 |iHunt|S21_Plus_2021_EEA|S21_Plus_2021_EEA|S21 Plus 2021_EEA|
 |iHunt|S21_Ultra_4G_2021_EEA|S21_Ultra_4G|S21 Ultra 4G 2021_EEA|
+|iHunt|S30 ULTRA APEX 2021|S30_ULTRA_APEX_2021|S30 ULTRA APEX 2021|
 |iHunt|S60 Discovery Plus|S60_Discovery_Plus|S60 Discovery Plus|
 |iHunt|S60_Discovery_2019|S60_Discovery_2019|S60_Discovery_2019|
 |iHunt|TITAN P11000 PRO|TITAN_P11000_PRO|TITAN_P11000_PRO|
