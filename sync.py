@@ -5,6 +5,7 @@ import difflib
 import json
 from datetime import date
 from os import rename, path, system, environ
+from time import sleep
 from requests import get, post
 
 GIT_OAUTH_TOKEN = environ['GIT_OAUTH_TOKEN_XFU']
@@ -158,6 +159,7 @@ def post_to_tg():
                 print("{0}: Telegram Message sent".format(name))
             else:
                 print("Telegram Error")
+            sleep(3)
 
 
 def git_commit_push():
