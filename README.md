@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-03-03
+Last sync is 2021-03-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4813,6 +4813,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Diginnos|DG-A97QT|DG_A97QT|DG-A97QT|
 |Diginnos|DG-D07S/GP|DG-D07SGP|DG-D07SGP|
 |Diginnos|DG-Q08M|DG-Q08M|DG-Q08M|
+|Digiquest|Italy|tamachi|Digiquest 2K Android TV|
 |Digiquest|Italy|yeongdeungpo|Digiquest 4K Android TV|
 |Digital2|Deluxe|nuclear-D2_Deluxe|Digital2-Deluxe|
 |Digital2|Platinum|D2-963G|Digital2 Platinum|
@@ -13710,6 +13711,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|VELVET|caymanlm|LM-G900N|
 |LGE|VELVET|caymanlm|LM-G910N|
 |LGE|VELVET|caymanslm|LM-G910|
+|LGE|VELVET|mcaymanlm|LM-G900MM|
 |LGE|VELVET|mcaymanlm|LM-G900TM|
 |LGE|VU3|vu3|LG-F300K|
 |LGE|VU3|vu3|LG-F300L|
@@ -16135,6 +16137,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mikona|MFHD_BT1067QC16IPS2|MFHD_BT1067QC16IPS2|MFHD_BT1067QC16IPS2|
 |Mikona|MHDBT10267|MHDBT10267|MHDBT10267|
 |Mikona|MIKONA|MSW_BT767QC8TN|MSW_BT767QC8TN|
+|Minister|Android TV|R1|ATV R1|
 |Mint|Clover|M4CR|M4CR|
 |Mint|Clover|M4CR|M4CRD|
 |Mint|Emerald|Emerald|Emerald_M55CR|
@@ -16534,7 +16537,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola||umts_venus2|XT610|
 |Motorola||wifi_hubble|MZ604|
 |Motorola||zepp|MB501|
-|Motorola|Athena|bathena|Motorola Defy|
 |Motorola|Atrix|olympus|MB860|
 |Motorola|Atrix|olympus|MB861|
 |Motorola|Atrix|olympus|ME860|
@@ -16797,6 +16799,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|Motoroi|sholest|Motorola XT720|
 |Motorola|Motoroi|sholest|XT720|
 |Motorola|Motorola Android 9.0 TV|shibuya|FlipkartTV|
+|Motorola|Motorola Defy|bathena|Motorola Defy|
 |Motorola|Motorola one|deen_sprout|motorola one|
 |Motorola|Motosmart|XT389|XT389|
 |Motorola|Motosmart|XT390|XT390|
@@ -23438,6 +23441,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Xcover|GT-S5690L|GT-S5690L|
 |Samsung|Galaxy Xcover|GT-S5690M|GT-S5690M|
 |Samsung|Galaxy Xcover|GT-S5690R|GT-S5690R|
+|Samsung|Galaxy Xcover 5|xcover5|SM-G525F|
 |Samsung|Galaxy Xcover2|skomer|GT-S7710|
 |Samsung|Galaxy Xcover2|skomer|GT-S7710L|
 |Samsung|Galaxy Xcover3|xcover3lte|SM-G388F|
@@ -26759,6 +26763,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|tbd|U50A_PLUS_ATT|Alcatel_5059R|
 |TCT (Alcatel)|tmn smarta8|ONE_TOUCH_991D_gsm|moche smart a8|
 |TCT (Alcatel)|tmn smarta8|ONE_TOUCH_991D_gsm|tmn smart a8|
+|TD SYSTEMS|Spain|tamachi|TD SYSTEMS Android TV|
 |TD SYSTEMS|Spain|yeongdeungpo|TD SYSTEMS Android TV|
 |TDS|VIP6102W|vip6102w|VIP6102W|
 |TECHNOLOGIA Y CRATIVIDAD|M103H|M103H|M103H|
@@ -28845,7 +28850,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Voto|VOTO V3|VOTO_V3|VOTO V3|
 |Voto|VX|VX|VX|
 |Voto|Voto V5X|VOTO_V5X|VOTO V5X|
-|Vsmart|55KD6800|samseong|VINATV 4K|
 |Vsmart|Active 1|PQ6001|Active 1|
 |Vsmart|Active 1 +|PQ6002|Active 1+|
 |Vsmart|Active 1+|PQ6002|Active 1+|
@@ -28868,6 +28872,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vsmart|Star 3|sugarcane|Star 3|
 |Vsmart|Star 4|willowpro|Star 4|
 |Vsmart|VINATV 4K|TR2001|VINATV 4K|
+|Vsmart|VINATV 4K|samseong|VINATV 4K|
 |Vsmart|VINTV 2K|TR2002|VINTV 2K|
 |Vsun|MARS  Touch|MARS_TOUCH|MARS TOUCH|
 |Vsun|MARS Nocam|MARS_NOCAM|MARS NOCAM|
@@ -29595,7 +29600,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Mi 10T pro|apollo|M2007J3SI|
 |Xiaomi|Mi 10i|gauguininpro|M2007J17I|
 |Xiaomi|Mi 11|venus|M2011K2C|
-|Xiaomi|Mi 11 Lite 5G|renoir|M2101K9G|
 |Xiaomi|Mi 3|pisces|MI 3|
 |Xiaomi|Mi 4c|libra|Mi-4c|
 |Xiaomi|Mi 4i|ferrari|Mi 4i|

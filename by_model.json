@@ -3731,6 +3731,11 @@
    "device": "R1"
   },
   {
+   "brand": "Minister",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
    "brand": "Mystic",
    "name": "Android TV",
    "device": "R1"
@@ -35551,6 +35556,13 @@
    "brand": "Diginnos",
    "name": "DG-Q08M",
    "device": "DG-Q08M"
+  }
+ ],
+ "Digiquest 2K Android TV": [
+  {
+   "brand": "Digiquest",
+   "name": "Italy",
+   "device": "tamachi"
   }
  ],
  "Digiquest 4K Android TV": [
@@ -95687,6 +95699,13 @@
    "device": "caymanslm"
   }
  ],
+ "LM-G900MM": [
+  {
+   "brand": "LGE",
+   "name": "VELVET",
+   "device": "mcaymanlm"
+  }
+ ],
  "LM-G900TM": [
   {
    "brand": "LGE",
@@ -114582,13 +114601,6 @@
    "device": "zeppelin"
   }
  ],
- "Motorola Defy": [
-  {
-   "brand": "Motorola",
-   "name": "Athena",
-   "device": "bathena"
-  }
- ],
  "MB860": [
   {
    "brand": "Motorola",
@@ -116330,6 +116342,13 @@
    "brand": "Motorola",
    "name": "Motoroi",
    "device": "sholest"
+  }
+ ],
+ "Motorola Defy": [
+  {
+   "brand": "Motorola",
+   "name": "Motorola Defy",
+   "device": "bathena"
   }
  ],
  "motorola one": [
@@ -160301,6 +160320,18 @@
    "device": "GT-S5690R"
   }
  ],
+ "SM-G525F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Xcover 5",
+   "device": "xcover5"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Xcover5",
+   "device": "xcover5"
+  }
+ ],
  "GT-S7710": [
   {
    "brand": "Samsung",
@@ -160341,13 +160372,6 @@
    "brand": "Samsung",
    "name": "Galaxy Xcover4",
    "device": "xcover4ltecan"
-  }
- ],
- "SM-G525F": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Xcover5",
-   "device": "xcover5"
   }
  ],
  "GT-S5360": [
@@ -182447,6 +182471,11 @@
   {
    "brand": "TD SYSTEMS",
    "name": "Spain",
+   "device": "tamachi"
+  },
+  {
+   "brand": "TD SYSTEMS",
+   "name": "Spain",
    "device": "yeongdeungpo"
   }
  ],
@@ -195706,18 +195735,6 @@
    "device": "VOTO_V5X"
   }
  ],
- "VINATV 4K": [
-  {
-   "brand": "Vsmart",
-   "name": "55KD6800",
-   "device": "samseong"
-  },
-  {
-   "brand": "Vsmart",
-   "name": "VINATV 4K",
-   "device": "TR2001"
-  }
- ],
  "Active 1": [
   {
    "brand": "Vsmart",
@@ -195850,6 +195867,18 @@
    "brand": "Vsmart",
    "name": "Star 4",
    "device": "willowpro"
+  }
+ ],
+ "VINATV 4K": [
+  {
+   "brand": "Vsmart",
+   "name": "VINATV 4K",
+   "device": "TR2001"
+  },
+  {
+   "brand": "Vsmart",
+   "name": "VINATV 4K",
+   "device": "samseong"
   }
  ],
  "VINTV 2K": [
@@ -200427,13 +200456,6 @@
    "brand": "Xiaomi",
    "name": "Mi 11",
    "device": "venus"
-  }
- ],
- "M2101K9G": [
-  {
-   "brand": "Xiaomi",
-   "name": "Mi 11 Lite 5G",
-   "device": "renoir"
   }
  ],
  "MI 3": [

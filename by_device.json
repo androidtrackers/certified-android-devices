@@ -904,7 +904,7 @@
   },
   {
    "brand": "Vsmart",
-   "name": "55KD6800",
+   "name": "VINATV 4K",
    "model": "VINATV 4K"
   },
   {
@@ -1584,6 +1584,11 @@
    "model": "Continental Android TV"
   },
   {
+   "brand": "Digiquest",
+   "name": "Italy",
+   "model": "Digiquest 2K Android TV"
+  },
+  {
    "brand": "Estar",
    "name": "Lithuania",
    "model": "eSTAR FHD Android TV"
@@ -1652,6 +1657,11 @@
    "brand": "Starlight",
    "name": "Rumania",
    "model": "STARLIGHT Android TV"
+  },
+  {
+   "brand": "TD SYSTEMS",
+   "name": "Spain",
+   "model": "TD SYSTEMS Android TV"
   },
   {
    "brand": "Turbo-X",
@@ -4474,6 +4484,11 @@
   {
    "brand": "Micromax",
    "name": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Minister",
+   "name": "Android TV",
    "model": "ATV R1"
   },
   {
@@ -92963,6 +92978,11 @@
   {
    "brand": "LGE",
    "name": "VELVET",
+   "model": "LM-G900MM"
+  },
+  {
+   "brand": "LGE",
+   "name": "VELVET",
    "model": "LM-G900TM"
   }
  ],
@@ -111648,13 +111668,6 @@
    "model": "MB501"
   }
  ],
- "bathena": [
-  {
-   "brand": "Motorola",
-   "name": "Athena",
-   "model": "Motorola Defy"
-  }
- ],
  "olympus": [
   {
    "brand": "Motorola",
@@ -113262,6 +113275,13 @@
    "brand": "Motorola",
    "name": "Motoroi",
    "model": "XT720"
+  }
+ ],
+ "bathena": [
+  {
+   "brand": "Motorola",
+   "name": "Motorola Defy",
+   "model": "Motorola Defy"
   }
  ],
  "deen_sprout": [
@@ -155200,6 +155220,18 @@
    "model": "GT-S5690R"
   }
  ],
+ "xcover5": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Xcover 5",
+   "model": "SM-G525F"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Xcover5",
+   "model": "SM-G525F"
+  }
+ ],
  "skomer": [
   {
    "brand": "Samsung",
@@ -155231,13 +155263,6 @@
    "brand": "Samsung",
    "name": "Galaxy Xcover4",
    "model": "SM-G390W"
-  }
- ],
- "xcover5": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Xcover5",
-   "model": "SM-G525F"
   }
  ],
  "GT-S5360": [
@@ -192383,13 +192408,6 @@
    "brand": "Xiaomi",
    "name": "Mi 11",
    "model": "M2011K2C"
-  }
- ],
- "renoir": [
-  {
-   "brand": "Xiaomi",
-   "name": "Mi 11 Lite 5G",
-   "model": "M2101K9G"
   }
  ],
  "pisces": [

@@ -9005,6 +9005,11 @@
    "model": "ATV R2"
   },
   {
+   "brand": "Minister",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
    "brand": "My",
    "device": "tokyo",
    "model": "Android TV"
@@ -23568,6 +23573,11 @@
    "brand": "Inves",
    "device": "yeongdeungpo",
    "model": "INVES UHD Android TV"
+  },
+  {
+   "brand": "TD SYSTEMS",
+   "device": "tamachi",
+   "model": "TD SYSTEMS Android TV"
   },
   {
    "brand": "TD SYSTEMS",
@@ -41502,6 +41512,11 @@
   }
  ],
  "Italy": [
+  {
+   "brand": "Digiquest",
+   "device": "tamachi",
+   "model": "Digiquest 2K Android TV"
+  },
   {
    "brand": "Digiquest",
    "device": "yeongdeungpo",
@@ -95613,6 +95628,11 @@
   {
    "brand": "LGE",
    "device": "mcaymanlm",
+   "model": "LM-G900MM"
+  },
+  {
+   "brand": "LGE",
+   "device": "mcaymanlm",
    "model": "LM-G900TM"
   }
  ],
@@ -112539,13 +112559,6 @@
    "model": "RevoYou"
   }
  ],
- "Athena": [
-  {
-   "brand": "Motorola",
-   "device": "bathena",
-   "model": "Motorola Defy"
-  }
- ],
  "Atrix": [
   {
    "brand": "Motorola",
@@ -114033,6 +114046,13 @@
    "brand": "Motorola",
    "device": "shibuya",
    "model": "FlipkartTV"
+  }
+ ],
+ "Motorola Defy": [
+  {
+   "brand": "Motorola",
+   "device": "bathena",
+   "model": "Motorola Defy"
   }
  ],
  "Motorola one": [
@@ -153513,6 +153533,13 @@
    "model": "GT-S5690R"
   }
  ],
+ "Galaxy Xcover 5": [
+  {
+   "brand": "Samsung",
+   "device": "xcover5",
+   "model": "SM-G525F"
+  }
+ ],
  "Galaxy Xcover2": [
   {
    "brand": "Samsung",
@@ -185595,13 +185622,6 @@
    "model": "VOTO V5X"
   }
  ],
- "55KD6800": [
-  {
-   "brand": "Vsmart",
-   "device": "samseong",
-   "model": "VINATV 4K"
-  }
- ],
  "Active 1": [
   {
    "brand": "Vsmart",
@@ -185737,6 +185757,11 @@
   {
    "brand": "Vsmart",
    "device": "TR2001",
+   "model": "VINATV 4K"
+  },
+  {
+   "brand": "Vsmart",
+   "device": "samseong",
    "model": "VINATV 4K"
   }
  ],
@@ -190151,13 +190176,6 @@
    "brand": "Xiaomi",
    "device": "venus",
    "model": "M2011K2C"
-  }
- ],
- "Mi 11 Lite 5G": [
-  {
-   "brand": "Xiaomi",
-   "device": "renoir",
-   "model": "M2101K9G"
   }
  ],
  "Mi 3": [
