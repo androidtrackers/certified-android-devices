@@ -51039,6 +51039,11 @@
    "device": "X3"
   },
   {
+   "brand": "Mira",
+   "name": "X3",
+   "device": "X3"
+  },
+  {
    "brand": "SPC Mobile",
    "name": "X3",
    "device": "SPC_X3"
@@ -163028,6 +163033,13 @@
    "device": "Sarah"
   }
  ],
+ "SH-M17": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense5G",
+   "device": "Sarah"
+  }
+ ],
  "SHG03": [
   {
    "brand": "Sharp",
@@ -193580,6 +193592,13 @@
    "device": "PD2065"
   }
  ],
+ "V2066BA": [
+  {
+   "brand": "Vivo",
+   "name": "V2066BA",
+   "device": "PD2066B"
+  }
+ ],
  "V2068A": [
   {
    "brand": "Vivo",
@@ -195328,6 +195347,13 @@
   {
    "brand": "Vonino",
    "name": "Magnet_G20",
+   "device": "Magnet_G50"
+  }
+ ],
+ "Magnet_G25": [
+  {
+   "brand": "Vonino",
+   "name": "Magnet_G25",
    "device": "Magnet_G50"
   }
  ],
@@ -197483,6 +197509,13 @@
    "device": "l5261"
   }
  ],
+ "W-V745-OPE": [
+  {
+   "brand": "Wiko",
+   "name": "Power U10",
+   "device": "W-V745"
+  }
+ ],
  "W-V745-TVM": [
   {
    "brand": "Wiko",
@@ -197505,6 +197538,13 @@
   }
  ],
  "W-V755-EEA": [
+  {
+   "brand": "Wiko",
+   "name": "Power U30",
+   "device": "W-V755"
+  }
+ ],
+ "W-V755-TVM": [
   {
    "brand": "Wiko",
    "name": "Power U30",
@@ -198392,6 +198432,13 @@
    "brand": "Wiko",
    "name": "Y61",
    "device": "W-K560"
+  }
+ ],
+ "W-K610-EEA": [
+  {
+   "brand": "Wiko",
+   "name": "Y62",
+   "device": "W-K610"
   }
  ],
  "W-K610-TVM": [

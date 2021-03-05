@@ -52578,6 +52578,11 @@
    "brand": "Lava",
    "name": "X3",
    "model": "X3"
+  },
+  {
+   "brand": "Mira",
+   "name": "X3",
+   "model": "X3"
   }
  ],
  "Guophone_XP9800": [
@@ -157838,6 +157843,11 @@
    "brand": "Sharp",
    "name": "AQUOS sense5G",
    "model": "A004SH"
+  },
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense5G",
+   "model": "SH-M17"
   }
  ],
  "WJG": [
@@ -185737,6 +185747,13 @@
    "model": "V2065A"
   }
  ],
+ "PD2066B": [
+  {
+   "brand": "Vivo",
+   "name": "V2066BA",
+   "model": "V2066BA"
+  }
+ ],
  "PD2068": [
   {
    "brand": "Vivo",
@@ -187461,6 +187478,11 @@
    "brand": "Vonino",
    "name": "Magnet_G20",
    "model": "Magnet_G20"
+  },
+  {
+   "brand": "Vonino",
+   "name": "Magnet_G25",
+   "model": "Magnet_G25"
   },
   {
    "brand": "Vonino",
@@ -189652,6 +189674,11 @@
   {
    "brand": "Wiko",
    "name": "Power U10",
+   "model": "W-V745-OPE"
+  },
+  {
+   "brand": "Wiko",
+   "name": "Power U10",
    "model": "W-V745-TVM"
   },
   {
@@ -189682,6 +189709,11 @@
    "brand": "Wiko",
    "name": "Power U30",
    "model": "W-V755-EEA"
+  },
+  {
+   "brand": "Wiko",
+   "name": "Power U30",
+   "model": "W-V755-TVM"
   }
  ],
  "l5503": [
@@ -190538,6 +190570,11 @@
   }
  ],
  "W-K610": [
+  {
+   "brand": "Wiko",
+   "name": "Y62",
+   "model": "W-K610-EEA"
+  },
   {
    "brand": "Wiko",
    "name": "Y62",

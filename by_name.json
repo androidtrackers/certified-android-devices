@@ -57170,6 +57170,11 @@
    "model": "Masstel X3"
   },
   {
+   "brand": "Mira",
+   "device": "X3",
+   "model": "X3"
+  },
+  {
    "brand": "SPC Mobile",
    "device": "SPC_X3",
    "model": "X3"
@@ -156092,6 +156097,11 @@
   },
   {
    "brand": "Sharp",
+   "device": "Sarah",
+   "model": "SH-M17"
+  },
+  {
+   "brand": "Sharp",
    "device": "WJG",
    "model": "SHG03"
   }
@@ -183480,6 +183490,13 @@
    "model": "V2065A"
   }
  ],
+ "V2066BA": [
+  {
+   "brand": "Vivo",
+   "device": "PD2066B",
+   "model": "V2066BA"
+  }
+ ],
  "V2068A": [
   {
    "brand": "Vivo",
@@ -185193,6 +185210,13 @@
    "brand": "Vonino",
    "device": "Magnet_G50",
    "model": "Magnet_G20"
+  }
+ ],
+ "Magnet_G25": [
+  {
+   "brand": "Vonino",
+   "device": "Magnet_G50",
+   "model": "Magnet_G25"
   }
  ],
  "Magnet_G30_EEA": [
@@ -187402,6 +187426,11 @@
   {
    "brand": "Wiko",
    "device": "W-V745",
+   "model": "W-V745-OPE"
+  },
+  {
+   "brand": "Wiko",
+   "device": "W-V745",
    "model": "W-V745-TVM"
   }
  ],
@@ -187422,6 +187451,11 @@
    "brand": "Wiko",
    "device": "W-V755",
    "model": "W-V755-EEA"
+  },
+  {
+   "brand": "Wiko",
+   "device": "W-V755",
+   "model": "W-V755-TVM"
   }
  ],
  "RAINBOW 4G": [
@@ -188245,6 +188279,11 @@
   }
  ],
  "Y62": [
+  {
+   "brand": "Wiko",
+   "device": "W-K610",
+   "model": "W-K610-EEA"
+  },
   {
    "brand": "Wiko",
    "device": "W-K610",

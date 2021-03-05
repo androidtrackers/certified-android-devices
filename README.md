@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-03-04
+Last sync is 2021-03-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -16195,6 +16195,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Miophone|Mio Phone|MioPhone2017|MioPhone2017|
 |Mira|X1|X1|X1|
 |Mira|X2|X2|X2|
+|Mira|X3|X3|X3|
 |Mira|X4|X4|X4|
 |Mirage|43T|MI-JI-43T|MI-JI-43T|
 |Mirage|44T|MI-JI-44T|MI-JI-44T|
@@ -23845,6 +23846,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS sense4 plus|VG2|SH-S40P|
 |Sharp|AQUOS sense5G|SH-53A|SH-53A|
 |Sharp|AQUOS sense5G|Sarah|A004SH|
+|Sharp|AQUOS sense5G|Sarah|SH-M17|
 |Sharp|AQUOS sense5G|WJG|SHG03|
 |Sharp|AQUOS zero|SG801SH|801SH|
 |Sharp|AQUOS zero|SH-Z10|SH-Z10|
@@ -28513,6 +28515,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2059A|PD2047|V2059A|
 |Vivo|V2061A|PD2061|V2061A|
 |Vivo|V2065A|PD2065|V2065A|
+|Vivo|V2066BA|PD2066B|V2066BA|
 |Vivo|V2068A|PD2068|V2068A|
 |Vivo|V2072A|PD2072|V2072A|
 |Vivo|V2099A|PD2034D|V2099A|
@@ -28786,6 +28789,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vonino|Magnet M1_A7|Magnet_M1_A7|Magnet M1|
 |Vonino|Magnet_G10|Magnet_G10|Magnet_G10|
 |Vonino|Magnet_G20|Magnet_G50|Magnet_G20|
+|Vonino|Magnet_G25|Magnet_G50|Magnet_G25|
 |Vonino|Magnet_G30_EEA|Magnet_G30|Magnet_G30|
 |Vonino|Magnet_G30_lite|Magnet_G30|Magnet_G30_lite|
 |Vonino|Magnet_G40|Magnet_G50|Magnet_G40|
@@ -29124,10 +29128,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|PULP FAB|S5260|PULP FAB|
 |Wiko|PULP FAB|S5260|SLIDE2|
 |Wiko|PULP FAB 4G|l5261|PULP FAB 4G|
+|Wiko|Power U10|W-V745|W-V745-OPE|
 |Wiko|Power U10|W-V745|W-V745-TVM|
 |Wiko|Power U20|W-V750BN|W-V750BN-OPE|
 |Wiko|Power U20|W-V750BN|W-V750BN-TVM|
 |Wiko|Power U30|W-V755|W-V755-EEA|
+|Wiko|Power U30|W-V755|W-V755-TVM|
 |Wiko|RAINBOW|s5501|RAINBOW|
 |Wiko|RAINBOW 4G|l5503|RAINBOW 4G|
 |Wiko|RAINBOW JAM|S5254AP24K|RAINBOW JAM|
@@ -29271,6 +29277,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|Y61|W-K560|W-K560-OPE|
 |Wiko|Y61|W-K560|W-K560-TVM|
 |Wiko|Y61|W-K560|W-K560-TVM1G|
+|Wiko|Y62|W-K610|W-K610-EEA|
 |Wiko|Y62|W-K610|W-K610-TVM|
 |Wiko|Y80|W-V720|W-V720-CA|
 |Wiko|Y80|W-V720|W-V720-EEA|
