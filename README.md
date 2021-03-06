@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-03-05
+Last sync is 2021-03-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12264,6 +12264,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kurio|KURIO LITE GO NEW|U3A_7_WIFI_Refresh_KD|9309S|
 |Kurio|Kurio Tab|Hulk_7_KIDS_WIFI|8076|
 |Kurio|Kurio Tab|Hulk_7_KIDS_WIFI|8076_EEA|
+|Kurio|Smart Tab 7|Phoenix_7_KD|9317H|
 |Kurio|Smart Tab 7|Phoenix_7_KD|9317H1|
 |Kurio|TabGo Next Connect|M7006A|01519|
 |Kyocera||SCP-8600|Zio|

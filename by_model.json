@@ -86093,6 +86093,18 @@
    "device": "Hulk_7_KIDS_WIFI"
   }
  ],
+ "9317H": [
+  {
+   "brand": "Kurio",
+   "name": "Smart Tab 7",
+   "device": "Phoenix_7_KD"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Smart Tab 7",
+   "device": "Phoenix_7_KD"
+  }
+ ],
  "9317H1": [
   {
    "brand": "Kurio",
@@ -181029,13 +181041,6 @@
    "brand": "TCT (Alcatel)",
    "name": "Smart Tab 7",
    "device": "Phoenix_7"
-  }
- ],
- "9317H": [
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "Smart Tab 7",
-   "device": "Phoenix_7_KD"
   }
  ],
  "Smartphone Android by SFR STARADDICT II": [
