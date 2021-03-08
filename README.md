@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-03-07
+Last sync is 2021-03-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -124,6 +124,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AOC|Q8108L-ME|Q8108L-ME|Q8108L-ME|
 |AOpen|"RK3288 10"" Chromebase"|tiger_cheets|AOpen Chromebase Mini|
 |AOpen|RK3288 Mini Chromebox|fievel_cheets|AOpen Chromebox Mini|
+|ARRQW|Saudi Arabia|yeongdeungpo|ARRQW UHD Android TV|
 |ASTCA|AA 787 S|SURGE_AA_787_S|AA 787 S|
 |ASTECH|Senegal|tamachi|ASTECH FHD Android TV|
 |ASTECH|Senegal|yeongdeungpo|ASTECH UHD Android TV|
@@ -8280,6 +8281,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|HLTE212T|HS8917QC|HLTE212T|
 |Hisense|HLTE213T|HSSDM439QC|HLTE213T|
 |Hisense|HLTE229E|HLTE229E_01|HLTE229E|
+|Hisense|HLTE229E|HLTE229E_01|Hisense E40|
 |Hisense|HLTE230E|SC9863A|Hisense Infinity H40 Lite|
 |Hisense|HLTE300E_ 02|HS8937QC|HLTE300E|
 |Hisense|HLTE300E_ 02|HS8937QC|HLTE300E_02|
@@ -15457,7 +15459,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mafe|V9|V9|V9|
 |Mafe|Z1|Z1|Z1|
 |Mafe|Z2|Z2|Z2|
-|Magenta TV|OTT-G1|DV6067Y|OTT-G1|
 |MagentaTV|DV6067Y-T|DV6067Y_TVStick|DV6067Y-T|
 |MagentaTV|OTT-G1|DV6067Y|OTT-G1|
 |Majestic|JACK|JACK|JACK|

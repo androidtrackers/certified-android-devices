@@ -6776,6 +6776,13 @@
    "model": "AOpen Chromebox Mini"
   }
  ],
+ "Saudi Arabia": [
+  {
+   "brand": "ARRQW",
+   "device": "yeongdeungpo",
+   "model": "ARRQW UHD Android TV"
+  }
+ ],
  "AA 787 S": [
   {
    "brand": "ASTCA",
@@ -64844,6 +64851,11 @@
    "brand": "Hisense",
    "device": "HLTE229E_01",
    "model": "HLTE229E"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HLTE229E_01",
+   "model": "Hisense E40"
   }
  ],
  "HLTE230E": [
@@ -106225,23 +106237,18 @@
    "model": "P2_Power"
   }
  ],
- "OTT-G1": [
-  {
-   "brand": "Magenta TV",
-   "device": "DV6067Y",
-   "model": "OTT-G1"
-  },
-  {
-   "brand": "MagentaTV",
-   "device": "DV6067Y",
-   "model": "OTT-G1"
-  }
- ],
  "DV6067Y-T": [
   {
    "brand": "MagentaTV",
    "device": "DV6067Y_TVStick",
    "model": "DV6067Y-T"
+  }
+ ],
+ "OTT-G1": [
+  {
+   "brand": "MagentaTV",
+   "device": "DV6067Y",
+   "model": "OTT-G1"
   }
  ],
  "JACK": [

@@ -1555,126 +1555,12 @@
    "model": "AOpen Chromebox Mini"
   }
  ],
- "SURGE_AA_787_S": [
-  {
-   "brand": "ASTCA",
-   "name": "AA 787 S",
-   "model": "AA 787 S"
-  }
- ],
- "tamachi": [
-  {
-   "brand": "ASTECH",
-   "name": "Senegal",
-   "model": "ASTECH FHD Android TV"
-  },
-  {
-   "brand": "Blaupunkt",
-   "name": "EU",
-   "model": "BLAUPUNKT FHD Android TV"
-  },
-  {
-   "brand": "Contex",
-   "name": "Egypt",
-   "model": "AiPlus2K"
-  },
-  {
-   "brand": "Continental Edison",
-   "name": "France",
-   "model": "Continental Android TV"
-  },
-  {
-   "brand": "Digiquest",
-   "name": "Italy",
-   "model": "Digiquest 2K Android TV"
-  },
-  {
-   "brand": "Estar",
-   "name": "Lithuania",
-   "model": "eSTAR FHD Android TV"
-  },
-  {
-   "brand": "F&U (Fandu)",
-   "name": "Greece",
-   "model": "F and U Android TV"
-  },
-  {
-   "brand": "Fresh",
-   "name": "Egypt",
-   "model": "Fresh FHD Android TV"
-  },
-  {
-   "brand": "Grunkel",
-   "name": "Spain",
-   "model": "GRUNKEL FHD Android TV"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "Italy",
-   "model": "HYUNDAI 2K Android TV"
-  },
-  {
-   "brand": "Inves",
-   "name": "Spain",
-   "model": "INVES FHD Android TV"
-  },
-  {
-   "brand": "JVC",
-   "name": "france",
-   "model": "JVC 2K Android TV"
-  },
-  {
-   "brand": "KAGIS",
-   "name": "Australia",
-   "model": "KAGIS Android TV"
-  },
-  {
-   "brand": "Kogan",
-   "name": "Australia",
-   "model": "Kogan TV"
-  },
-  {
-   "brand": "LISTO",
-   "name": "Rumania",
-   "model": "LISTO Android TV"
-  },
-  {
-   "brand": "MULTYNET",
-   "name": "Pakistan",
-   "model": "MULTYNET FHD Android TV"
-  },
-  {
-   "brand": "Nano",
-   "name": "Thailand",
-   "model": "Nano FHD Android TV"
-  },
-  {
-   "brand": "Smart-Tech TV",
-   "name": "France",
-   "model": "AiPlus2K"
-  },
-  {
-   "brand": "Starlight",
-   "name": "Rumania",
-   "model": "STARLIGHT Android TV"
-  },
-  {
-   "brand": "TD SYSTEMS",
-   "name": "Spain",
-   "model": "TD SYSTEMS Android TV"
-  },
-  {
-   "brand": "Turbo-X",
-   "name": "Greece",
-   "model": "TURBO-X FHD Android TV"
-  },
-  {
-   "brand": "Vision",
-   "name": "Bangladesh",
-   "model": "Vision FHD Android TV"
-  }
- ],
  "yeongdeungpo": [
+  {
+   "brand": "ARRQW",
+   "name": "Saudi Arabia",
+   "model": "ARRQW UHD Android TV"
+  },
   {
    "brand": "ASTECH",
    "name": "Senegal",
@@ -1834,6 +1720,125 @@
    "brand": "Widevu",
    "name": "Korea",
    "model": "Widevu UHD Android TV"
+  }
+ ],
+ "SURGE_AA_787_S": [
+  {
+   "brand": "ASTCA",
+   "name": "AA 787 S",
+   "model": "AA 787 S"
+  }
+ ],
+ "tamachi": [
+  {
+   "brand": "ASTECH",
+   "name": "Senegal",
+   "model": "ASTECH FHD Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "EU",
+   "model": "BLAUPUNKT FHD Android TV"
+  },
+  {
+   "brand": "Contex",
+   "name": "Egypt",
+   "model": "AiPlus2K"
+  },
+  {
+   "brand": "Continental Edison",
+   "name": "France",
+   "model": "Continental Android TV"
+  },
+  {
+   "brand": "Digiquest",
+   "name": "Italy",
+   "model": "Digiquest 2K Android TV"
+  },
+  {
+   "brand": "Estar",
+   "name": "Lithuania",
+   "model": "eSTAR FHD Android TV"
+  },
+  {
+   "brand": "F&U (Fandu)",
+   "name": "Greece",
+   "model": "F and U Android TV"
+  },
+  {
+   "brand": "Fresh",
+   "name": "Egypt",
+   "model": "Fresh FHD Android TV"
+  },
+  {
+   "brand": "Grunkel",
+   "name": "Spain",
+   "model": "GRUNKEL FHD Android TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Italy",
+   "model": "HYUNDAI 2K Android TV"
+  },
+  {
+   "brand": "Inves",
+   "name": "Spain",
+   "model": "INVES FHD Android TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "france",
+   "model": "JVC 2K Android TV"
+  },
+  {
+   "brand": "KAGIS",
+   "name": "Australia",
+   "model": "KAGIS Android TV"
+  },
+  {
+   "brand": "Kogan",
+   "name": "Australia",
+   "model": "Kogan TV"
+  },
+  {
+   "brand": "LISTO",
+   "name": "Rumania",
+   "model": "LISTO Android TV"
+  },
+  {
+   "brand": "MULTYNET",
+   "name": "Pakistan",
+   "model": "MULTYNET FHD Android TV"
+  },
+  {
+   "brand": "Nano",
+   "name": "Thailand",
+   "model": "Nano FHD Android TV"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "name": "France",
+   "model": "AiPlus2K"
+  },
+  {
+   "brand": "Starlight",
+   "name": "Rumania",
+   "model": "STARLIGHT Android TV"
+  },
+  {
+   "brand": "TD SYSTEMS",
+   "name": "Spain",
+   "model": "TD SYSTEMS Android TV"
+  },
+  {
+   "brand": "Turbo-X",
+   "name": "Greece",
+   "model": "TURBO-X FHD Android TV"
+  },
+  {
+   "brand": "Vision",
+   "name": "Bangladesh",
+   "model": "Vision FHD Android TV"
   }
  ],
  "IDEA": [
@@ -60428,6 +60433,11 @@
    "brand": "Hisense",
    "name": "HLTE229E",
    "model": "HLTE229E"
+  },
+  {
+   "brand": "Hisense",
+   "name": "HLTE229E",
+   "model": "Hisense E40"
   }
  ],
  "SC9863A": [
@@ -104486,23 +104496,18 @@
    "model": "V9"
   }
  ],
- "DV6067Y": [
-  {
-   "brand": "Magenta TV",
-   "name": "OTT-G1",
-   "model": "OTT-G1"
-  },
-  {
-   "brand": "MagentaTV",
-   "name": "OTT-G1",
-   "model": "OTT-G1"
-  }
- ],
  "DV6067Y_TVStick": [
   {
    "brand": "MagentaTV",
    "name": "DV6067Y-T",
    "model": "DV6067Y-T"
+  }
+ ],
+ "DV6067Y": [
+  {
+   "brand": "MagentaTV",
+   "name": "OTT-G1",
+   "model": "OTT-G1"
   }
  ],
  "JACK": [

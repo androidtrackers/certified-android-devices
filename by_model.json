@@ -1459,6 +1459,13 @@
    "device": "fievel_cheets"
   }
  ],
+ "ARRQW UHD Android TV": [
+  {
+   "brand": "ARRQW",
+   "name": "Saudi Arabia",
+   "device": "yeongdeungpo"
+  }
+ ],
  "AA 787 S": [
   {
    "brand": "ASTCA",
@@ -59746,6 +59753,28 @@
    "device": "HLTE229E_12"
   }
  ],
+ "Hisense E40": [
+  {
+   "brand": "Hisense",
+   "name": "HLTE229E",
+   "device": "HLTE229E_01"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense E40",
+   "device": "HLTE229E"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense E40",
+   "device": "HLTE229E_10"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense E40",
+   "device": "HLTE229E_11"
+  }
+ ],
  "Hisense Infinity H40 Lite": [
   {
    "brand": "Hisense",
@@ -60381,23 +60410,6 @@
    "brand": "Hisense",
    "name": "Hisense E30",
    "device": "HS6763MT"
-  }
- ],
- "Hisense E40": [
-  {
-   "brand": "Hisense",
-   "name": "Hisense E40",
-   "device": "HLTE229E"
-  },
-  {
-   "brand": "Hisense",
-   "name": "Hisense E40",
-   "device": "HLTE229E_10"
-  },
-  {
-   "brand": "Hisense",
-   "name": "Hisense E40",
-   "device": "HLTE229E_11"
   }
  ],
  "Hisense V40": [
@@ -107411,23 +107423,18 @@
    "device": "Z2"
   }
  ],
- "OTT-G1": [
-  {
-   "brand": "Magenta TV",
-   "name": "OTT-G1",
-   "device": "DV6067Y"
-  },
-  {
-   "brand": "MagentaTV",
-   "name": "OTT-G1",
-   "device": "DV6067Y"
-  }
- ],
  "DV6067Y-T": [
   {
    "brand": "MagentaTV",
    "name": "DV6067Y-T",
    "device": "DV6067Y_TVStick"
+  }
+ ],
+ "OTT-G1": [
+  {
+   "brand": "MagentaTV",
+   "name": "OTT-G1",
+   "device": "DV6067Y"
   }
  ],
  "JACK": [
