@@ -660,6 +660,11 @@
  ],
  "ARRQW": [
   {
+   "device": "tamachi",
+   "name": "Saudi Arabia",
+   "model": "ARRQW FHD Android TV"
+  },
+  {
    "device": "yeongdeungpo",
    "name": "Saudi Arabia",
    "model": "ARRQW UHD Android TV"
@@ -13659,6 +13664,11 @@
    "model": "SHARK KSR-A0"
   },
   {
+   "device": "penrose",
+   "name": "SHARK PRS-A0",
+   "model": "SHARK PRS-A0"
+  },
+  {
    "device": "shark",
    "name": "Shark",
    "model": "SKR-H0"
@@ -16869,6 +16879,13 @@
    "device": "m811hk",
    "name": "M811",
    "model": "M811"
+  }
+ ],
+ "COMPUMAX": [
+  {
+   "device": "COMPUMAX",
+   "name": "BlueS10",
+   "model": "BlueS10"
   }
  ],
  "COMTECO": [
@@ -78680,6 +78697,11 @@
  ],
  "MIRAY": [
   {
+   "device": "R1",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
    "device": "MIDM_737",
    "name": "MIDM_737",
    "model": "MIDM_737"
@@ -97670,6 +97692,11 @@
    "model": "POE-SMB400-PS1"
   },
   {
+   "device": "Jupiter",
+   "name": "Panasonic",
+   "model": "4KTV-JUP"
+  },
+  {
    "device": "P100",
    "name": "Panasonic P100",
    "model": "P100"
@@ -100518,6 +100545,16 @@
    "device": "S511",
    "name": "Twist 2018",
    "model": "Twist (2018)"
+  },
+  {
+   "device": "S509N",
+   "name": "Twist 4 Fit",
+   "model": "Twist 4 Fit"
+  },
+  {
+   "device": "S518",
+   "name": "Twist 4 Pro",
+   "model": "Twist 4 Pro"
   },
   {
    "device": "S520_4G",
@@ -109508,6 +109545,11 @@
    "device": "a51xq",
    "name": "Galaxy A51 5G",
    "model": "SM-A516V"
+  },
+  {
+   "device": "a52q",
+   "name": "Galaxy A52",
+   "model": "SM-A525F"
   },
   {
    "device": "a52xq",
@@ -128384,6 +128426,11 @@
    "device": "star_two",
    "name": "star_two",
    "model": "star_two"
+  },
+  {
+   "device": "venus",
+   "name": "venus",
+   "model": "venus"
   }
  ],
  "Stofa": [
@@ -130222,6 +130269,11 @@
    "device": "Hong_Kong_Pro",
    "name": "TCL 20Y",
    "model": "6156D"
+  },
+  {
+   "device": "Hong_Kong_Pro",
+   "name": "TCL 20Y",
+   "model": "6156H"
   },
   {
    "device": "Delhi_TF",
@@ -146247,9 +146299,19 @@
    "model": "V2046A"
   },
   {
+   "device": "2047",
+   "name": "V2047",
+   "model": "V2047"
+  },
+  {
    "device": "PD2047",
    "name": "V2047A",
    "model": "V2047A"
+  },
+  {
+   "device": "2026",
+   "name": "V2048",
+   "model": "V2048"
   },
   {
    "device": "PD2048",
@@ -146320,6 +146382,11 @@
    "device": "PD2072",
    "name": "V2072A",
    "model": "V2072A"
+  },
+  {
+   "device": "PD2080",
+   "name": "V2080A",
+   "model": "V2080A"
   },
   {
    "device": "PD2034D",
@@ -147015,6 +147082,11 @@
    "device": "2015",
    "name": "vivo 2015",
    "model": "vivo 2015"
+  },
+  {
+   "device": "2015",
+   "name": "vivo 2015_21",
+   "model": "vivo 2015_21"
   },
   {
    "device": "2018",

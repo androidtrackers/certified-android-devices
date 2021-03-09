@@ -6779,6 +6779,11 @@
  "Saudi Arabia": [
   {
    "brand": "ARRQW",
+   "device": "tamachi",
+   "model": "ARRQW FHD Android TV"
+  },
+  {
+   "brand": "ARRQW",
    "device": "yeongdeungpo",
    "model": "ARRQW UHD Android TV"
   }
@@ -8995,6 +9000,11 @@
    "brand": "LUCOMS",
    "device": "R2",
    "model": "ATV R2"
+  },
+  {
+   "brand": "MIRAY",
+   "device": "R1",
+   "model": "ATV R1"
   },
   {
    "brand": "Master-G",
@@ -25583,6 +25593,13 @@
    "model": "SHARK KSR-A0"
   }
  ],
+ "SHARK PRS-A0": [
+  {
+   "brand": "Blackshark",
+   "device": "penrose",
+   "model": "SHARK PRS-A0"
+  }
+ ],
  "Shark": [
   {
    "brand": "Blackshark",
@@ -30602,6 +30619,13 @@
    "brand": "CMCC",
    "device": "m811hk",
    "model": "M811"
+  }
+ ],
+ "BlueS10": [
+  {
+   "brand": "COMPUMAX",
+   "device": "COMPUMAX",
+   "model": "BlueS10"
   }
  ],
  "ST60": [
@@ -127685,6 +127709,13 @@
    "model": "POE-SMB400-PS1"
   }
  ],
+ "Panasonic": [
+  {
+   "brand": "Panasonic",
+   "device": "Jupiter",
+   "model": "4KTV-JUP"
+  }
+ ],
  "Panasonic P100": [
   {
    "brand": "Panasonic",
@@ -131234,6 +131265,20 @@
    "brand": "Positivo",
    "device": "S511",
    "model": "Twist (2018)"
+  }
+ ],
+ "Twist 4 Fit": [
+  {
+   "brand": "Positivo",
+   "device": "S509N",
+   "model": "Twist 4 Fit"
+  }
+ ],
+ "Twist 4 Pro": [
+  {
+   "brand": "Positivo",
+   "device": "S518",
+   "model": "Twist 4 Pro"
   }
  ],
  "Twist 4G": [
@@ -141911,6 +141956,13 @@
    "brand": "Samsung",
    "device": "a51xq",
    "model": "SM-A516V"
+  }
+ ],
+ "Galaxy A52": [
+  {
+   "brand": "Samsung",
+   "device": "a52q",
+   "model": "SM-A525F"
   }
  ],
  "Galaxy A52 5G": [
@@ -163262,6 +163314,13 @@
    "model": "star_two"
   }
  ],
+ "venus": [
+  {
+   "brand": "Starlight",
+   "device": "venus",
+   "model": "venus"
+  }
+ ],
  "IC1130": [
   {
    "brand": "Stofa",
@@ -165369,6 +165428,11 @@
    "brand": "TCL",
    "device": "Hong_Kong_Pro",
    "model": "6156D"
+  },
+  {
+   "brand": "TCL",
+   "device": "Hong_Kong_Pro",
+   "model": "6156H"
   }
  ],
  "TCL A3X": [
@@ -183418,11 +183482,25 @@
    "model": "V2046A"
   }
  ],
+ "V2047": [
+  {
+   "brand": "Vivo",
+   "device": "2047",
+   "model": "V2047"
+  }
+ ],
  "V2047A": [
   {
    "brand": "Vivo",
    "device": "PD2047",
    "model": "V2047A"
+  }
+ ],
+ "V2048": [
+  {
+   "brand": "Vivo",
+   "device": "2026",
+   "model": "V2048"
   }
  ],
  "V2048A": [
@@ -183521,6 +183599,13 @@
    "brand": "Vivo",
    "device": "PD2072",
    "model": "V2072A"
+  }
+ ],
+ "V2080A": [
+  {
+   "brand": "Vivo",
+   "device": "PD2080",
+   "model": "V2080A"
   }
  ],
  "V2099A": [
@@ -184390,6 +184475,13 @@
    "brand": "Vivo",
    "device": "2015",
    "model": "vivo 2015"
+  }
+ ],
+ "vivo 2015_21": [
+  {
+   "brand": "Vivo",
+   "device": "2015",
+   "model": "vivo 2015_21"
   }
  ],
  "vivo 2018": [

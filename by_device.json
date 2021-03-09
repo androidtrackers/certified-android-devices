@@ -1555,6 +1555,123 @@
    "model": "AOpen Chromebox Mini"
   }
  ],
+ "tamachi": [
+  {
+   "brand": "ARRQW",
+   "name": "Saudi Arabia",
+   "model": "ARRQW FHD Android TV"
+  },
+  {
+   "brand": "ASTECH",
+   "name": "Senegal",
+   "model": "ASTECH FHD Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "EU",
+   "model": "BLAUPUNKT FHD Android TV"
+  },
+  {
+   "brand": "Contex",
+   "name": "Egypt",
+   "model": "AiPlus2K"
+  },
+  {
+   "brand": "Continental Edison",
+   "name": "France",
+   "model": "Continental Android TV"
+  },
+  {
+   "brand": "Digiquest",
+   "name": "Italy",
+   "model": "Digiquest 2K Android TV"
+  },
+  {
+   "brand": "Estar",
+   "name": "Lithuania",
+   "model": "eSTAR FHD Android TV"
+  },
+  {
+   "brand": "F&U (Fandu)",
+   "name": "Greece",
+   "model": "F and U Android TV"
+  },
+  {
+   "brand": "Fresh",
+   "name": "Egypt",
+   "model": "Fresh FHD Android TV"
+  },
+  {
+   "brand": "Grunkel",
+   "name": "Spain",
+   "model": "GRUNKEL FHD Android TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Italy",
+   "model": "HYUNDAI 2K Android TV"
+  },
+  {
+   "brand": "Inves",
+   "name": "Spain",
+   "model": "INVES FHD Android TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "france",
+   "model": "JVC 2K Android TV"
+  },
+  {
+   "brand": "KAGIS",
+   "name": "Australia",
+   "model": "KAGIS Android TV"
+  },
+  {
+   "brand": "Kogan",
+   "name": "Australia",
+   "model": "Kogan TV"
+  },
+  {
+   "brand": "LISTO",
+   "name": "Rumania",
+   "model": "LISTO Android TV"
+  },
+  {
+   "brand": "MULTYNET",
+   "name": "Pakistan",
+   "model": "MULTYNET FHD Android TV"
+  },
+  {
+   "brand": "Nano",
+   "name": "Thailand",
+   "model": "Nano FHD Android TV"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "name": "France",
+   "model": "AiPlus2K"
+  },
+  {
+   "brand": "Starlight",
+   "name": "Rumania",
+   "model": "STARLIGHT Android TV"
+  },
+  {
+   "brand": "TD SYSTEMS",
+   "name": "Spain",
+   "model": "TD SYSTEMS Android TV"
+  },
+  {
+   "brand": "Turbo-X",
+   "name": "Greece",
+   "model": "TURBO-X FHD Android TV"
+  },
+  {
+   "brand": "Vision",
+   "name": "Bangladesh",
+   "model": "Vision FHD Android TV"
+  }
+ ],
  "yeongdeungpo": [
   {
    "brand": "ARRQW",
@@ -1727,118 +1844,6 @@
    "brand": "ASTCA",
    "name": "AA 787 S",
    "model": "AA 787 S"
-  }
- ],
- "tamachi": [
-  {
-   "brand": "ASTECH",
-   "name": "Senegal",
-   "model": "ASTECH FHD Android TV"
-  },
-  {
-   "brand": "Blaupunkt",
-   "name": "EU",
-   "model": "BLAUPUNKT FHD Android TV"
-  },
-  {
-   "brand": "Contex",
-   "name": "Egypt",
-   "model": "AiPlus2K"
-  },
-  {
-   "brand": "Continental Edison",
-   "name": "France",
-   "model": "Continental Android TV"
-  },
-  {
-   "brand": "Digiquest",
-   "name": "Italy",
-   "model": "Digiquest 2K Android TV"
-  },
-  {
-   "brand": "Estar",
-   "name": "Lithuania",
-   "model": "eSTAR FHD Android TV"
-  },
-  {
-   "brand": "F&U (Fandu)",
-   "name": "Greece",
-   "model": "F and U Android TV"
-  },
-  {
-   "brand": "Fresh",
-   "name": "Egypt",
-   "model": "Fresh FHD Android TV"
-  },
-  {
-   "brand": "Grunkel",
-   "name": "Spain",
-   "model": "GRUNKEL FHD Android TV"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "Italy",
-   "model": "HYUNDAI 2K Android TV"
-  },
-  {
-   "brand": "Inves",
-   "name": "Spain",
-   "model": "INVES FHD Android TV"
-  },
-  {
-   "brand": "JVC",
-   "name": "france",
-   "model": "JVC 2K Android TV"
-  },
-  {
-   "brand": "KAGIS",
-   "name": "Australia",
-   "model": "KAGIS Android TV"
-  },
-  {
-   "brand": "Kogan",
-   "name": "Australia",
-   "model": "Kogan TV"
-  },
-  {
-   "brand": "LISTO",
-   "name": "Rumania",
-   "model": "LISTO Android TV"
-  },
-  {
-   "brand": "MULTYNET",
-   "name": "Pakistan",
-   "model": "MULTYNET FHD Android TV"
-  },
-  {
-   "brand": "Nano",
-   "name": "Thailand",
-   "model": "Nano FHD Android TV"
-  },
-  {
-   "brand": "Smart-Tech TV",
-   "name": "France",
-   "model": "AiPlus2K"
-  },
-  {
-   "brand": "Starlight",
-   "name": "Rumania",
-   "model": "STARLIGHT Android TV"
-  },
-  {
-   "brand": "TD SYSTEMS",
-   "name": "Spain",
-   "model": "TD SYSTEMS Android TV"
-  },
-  {
-   "brand": "Turbo-X",
-   "name": "Greece",
-   "model": "TURBO-X FHD Android TV"
-  },
-  {
-   "brand": "Vision",
-   "name": "Bangladesh",
-   "model": "Vision FHD Android TV"
   }
  ],
  "IDEA": [
@@ -4478,6 +4483,11 @@
   },
   {
    "brand": "LLOYD",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "MIRAY",
    "name": "Android TV",
    "model": "ATV R1"
   },
@@ -21351,6 +21361,13 @@
    "model": "SHARK KSR-A0"
   }
  ],
+ "penrose": [
+  {
+   "brand": "Blackshark",
+   "name": "SHARK PRS-A0",
+   "model": "SHARK PRS-A0"
+  }
+ ],
  "shark": [
   {
    "brand": "Blackshark",
@@ -25664,6 +25681,13 @@
    "brand": "CMCC",
    "name": "M811",
    "model": "M811"
+  }
+ ],
+ "COMPUMAX": [
+  {
+   "brand": "COMPUMAX",
+   "name": "BlueS10",
+   "model": "BlueS10"
   }
  ],
  "DV8535-KBC": [
@@ -127311,6 +127335,13 @@
    "model": "POE-SMB400-PS1"
   }
  ],
+ "Jupiter": [
+  {
+   "brand": "Panasonic",
+   "name": "Panasonic",
+   "model": "4KTV-JUP"
+  }
+ ],
  "P100": [
   {
    "brand": "Panasonic",
@@ -130894,6 +130925,20 @@
    "brand": "Quantum",
    "name": "Quantum FIT",
    "model": "Quantum Fit"
+  }
+ ],
+ "S509N": [
+  {
+   "brand": "Positivo",
+   "name": "Twist 4 Fit",
+   "model": "Twist 4 Fit"
+  }
+ ],
+ "S518": [
+  {
+   "brand": "Positivo",
+   "name": "Twist 4 Pro",
+   "model": "Twist 4 Pro"
   }
  ],
  "S520_4G": [
@@ -141557,6 +141602,13 @@
    "brand": "Samsung",
    "name": "Galaxy A51 5G",
    "model": "SM-A516V"
+  }
+ ],
+ "a52q": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A52",
+   "model": "SM-A525F"
   }
  ],
  "a52xq": [
@@ -165769,6 +165821,18 @@
    "model": "star_plus_plus"
   }
  ],
+ "venus": [
+  {
+   "brand": "Starlight",
+   "name": "venus",
+   "model": "venus"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 11",
+   "model": "M2011K2C"
+  }
+ ],
  "IC1130": [
   {
    "brand": "Stofa",
@@ -168033,6 +168097,11 @@
    "brand": "TCL",
    "name": "TCL 20Y",
    "model": "6156D"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL 20Y",
+   "model": "6156H"
   },
   {
    "brand": "TCT (Alcatel)",
@@ -185526,6 +185595,11 @@
    "brand": "Vivo",
    "name": "V2043_21",
    "model": "V2043_21"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2048",
+   "model": "V2048"
   }
  ],
  "2027": [
@@ -185689,6 +185763,13 @@
    "model": "V2046A"
   }
  ],
+ "2047": [
+  {
+   "brand": "Vivo",
+   "name": "V2047",
+   "model": "V2047"
+  }
+ ],
  "PD2047": [
   {
    "brand": "Vivo",
@@ -185776,6 +185857,13 @@
    "brand": "Vivo",
    "name": "V2072A",
    "model": "V2072A"
+  }
+ ],
+ "PD2080": [
+  {
+   "brand": "Vivo",
+   "name": "V2080A",
+   "model": "V2080A"
   }
  ],
  "PD2034D": [
@@ -186675,6 +186763,11 @@
    "brand": "Vivo",
    "name": "vivo 2015",
    "model": "vivo 2015"
+  },
+  {
+   "brand": "Vivo",
+   "name": "vivo 2015_21",
+   "model": "vivo 2015_21"
   }
  ],
  "1933": [
@@ -192448,13 +192541,6 @@
    "brand": "Xiaomi",
    "name": "Mi 10i",
    "model": "M2007J17I"
-  }
- ],
- "venus": [
-  {
-   "brand": "Xiaomi",
-   "name": "Mi 11",
-   "model": "M2011K2C"
   }
  ],
  "pisces": [

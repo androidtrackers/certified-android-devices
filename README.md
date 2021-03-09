@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-03-08
+Last sync is 2021-03-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -124,6 +124,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AOC|Q8108L-ME|Q8108L-ME|Q8108L-ME|
 |AOpen|"RK3288 10"" Chromebase"|tiger_cheets|AOpen Chromebase Mini|
 |AOpen|RK3288 Mini Chromebox|fievel_cheets|AOpen Chromebox Mini|
+|ARRQW|Saudi Arabia|tamachi|ARRQW FHD Android TV|
 |ARRQW|Saudi Arabia|yeongdeungpo|ARRQW UHD Android TV|
 |ASTCA|AA 787 S|SURGE_AA_787_S|AA 787 S|
 |ASTECH|Senegal|tamachi|ASTECH FHD Android TV|
@@ -2651,6 +2652,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackshark|MBU-A0|mobius|SHARK MBU-A0|
 |Blackshark|MBU-H0|mobius|SHARK MBU-H0|
 |Blackshark|SHARK KSR-A0|kaiser|SHARK KSR-A0|
+|Blackshark|SHARK PRS-A0|penrose|SHARK PRS-A0|
 |Blackshark|Shark|shark|SKR-H0|
 |Blackshark|Shark 1S|bullhead|AWM-A0|
 |Blackshark|黑鲨游戏手机|shark|SKR-A0|
@@ -3269,6 +3271,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CLIO|Neo_4_Plus|Neo_4_Plus|Neo 4 Plus|
 |CMCC|M811|m811|M811|
 |CMCC|M811|m811hk|M811|
+|COMPUMAX|BlueS10|COMPUMAX|BlueS10|
 |COMTECO|DV8535|DV8535-KBC|DV8535|
 |CONKER|ST60|ST_60|ST 60|
 |CONKER|SX50|SX50|SX50|
@@ -15328,6 +15331,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MGS|MGS|komagome|MGS 2K Android TV|
 |MHL Mobile Company|TRECFONE_A21S|TRECFONE_A21S|TRECFONE_A21S|
 |MINIX|MINIX NEO T5|DV8553|DV8553|
+|MIRAY|Android TV|R1|ATV R1|
 |MIRAY|MIDM_737|MIDM_737|MIDM_737|
 |MIRAY|MIDM_F10|MIDM_F10|MIDM_F10|
 |MIRAY|TPM4G_105|TPM4G_105|TPM4G_105|
@@ -19008,6 +19012,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|P91|P91|P91|
 |Panasonic|P99|Panasonic_P99|Panasonic P99|
 |Panasonic|POE-SMB400-PS1|kadoma|POE-SMB400-PS1|
+|Panasonic|Panasonic|Jupiter|4KTV-JUP|
 |Panasonic|Panasonic P100|P100|P100|
 |Panasonic|Panasonic P100|P100|Panasonic P100|
 |Panasonic|Panasonic P101|P101|P101|
@@ -19562,6 +19567,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|Twist 2 Pro|S532|Twist 2 Pro|
 |Positivo|Twist 2 Pro|S532|Twist 3|
 |Positivo|Twist 2018|S511|Twist (2018)|
+|Positivo|Twist 4 Fit|S509N|Twist 4 Fit|
+|Positivo|Twist 4 Pro|S518|Twist 4 Pro|
 |Positivo|Twist 4G|S520_4G|Positivo Twist 4G|
 |Positivo|Twist Max|S540|Twist Max|
 |Positivo|Twist Metal|S530|Twist Metal|
@@ -21304,6 +21311,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A51 5G|a51x|SM-A516U|
 |Samsung|Galaxy A51 5G|a51x|SM-A516U1|
 |Samsung|Galaxy A51 5G|a51xq|SM-A516V|
+|Samsung|Galaxy A52|a52q|SM-A525F|
 |Samsung|Galaxy A52 5G|a52xq|SM-A5260|
 |Samsung|Galaxy A52 5G|a52xq|SM-A526B|
 |Samsung|Galaxy A52 5G|a52xq|SM-A526U|
@@ -25042,6 +25050,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Starlight|star_phone_x|star_phone_x|star_phone_x|
 |Starlight|star_plus_plus|star_plus_plus|star_plus_plus|
 |Starlight|star_two|star_two|star_two|
+|Starlight|venus|venus|venus|
 |Stofa|IC1130|IC1130|IC1130|
 |Storex|eZee'Tab7Q11-M|Tab7Q11|Tab7Q11|
 |Storex|eZeeTab10D12-S|eZeeTab10D12-S|eZeeTab10D12-S|
@@ -25394,6 +25403,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 20S|Miami_Pro|T773O|
 |TCL|TCL 20Y|Hong_Kong_Pro|6156A|
 |TCL|TCL 20Y|Hong_Kong_Pro|6156D|
+|TCL|TCL 20Y|Hong_Kong_Pro|6156H|
 |TCL|TCL A3X|Delhi_TF|A600DL|
 |TCL|TCL C5|A3A|5152D|
 |TCL|TCL C5|Gauss|5153A|
@@ -28505,7 +28515,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2045|2045|V2045|
 |Vivo|V2046|2046|V2046|
 |Vivo|V2046A|PD2046|V2046A|
+|Vivo|V2047|2047|V2047|
 |Vivo|V2047A|PD2047|V2047A|
+|Vivo|V2048|2026|V2048|
 |Vivo|V2048A|PD2048|V2048A|
 |Vivo|V2049A|PD2049|V2049A|
 |Vivo|V2052|2034|V2052|
@@ -28520,6 +28532,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2066BA|PD2066B|V2066BA|
 |Vivo|V2068A|PD2068|V2068A|
 |Vivo|V2072A|PD2072|V2072A|
+|Vivo|V2080A|PD2080|V2080A|
 |Vivo|V2099A|PD2034D|V2099A|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
@@ -28659,6 +28672,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo 2010|1902|vivo 1902|
 |Vivo|vivo 2010|1902|vivo 2010|
 |Vivo|vivo 2015|2015|vivo 2015|
+|Vivo|vivo 2015_21|2015|vivo 2015_21|
 |Vivo|vivo 2018|2018|vivo 2018|
 |Vivo|vivo 2019|1938|vivo 2019|
 |Vivo|vivo NEX A|PD1806|vivo NEX A|
