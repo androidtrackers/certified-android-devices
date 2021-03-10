@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-03-09
+Last sync is 2021-03-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1558,6 +1558,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ROG Phone|ASUS_Z01QD_1|ZS600KL|
 |Asus|ROG Phone 3|ASUS_I003_1|ASUS_I003DD|
 |Asus|ROG Phone 3|ASUS_I003_1|ZS661KS|
+|Asus|ROG Phone 5|ASUS_I005_1|ASUS_I005D|
+|Asus|ROG Phone 5|ASUS_I005_1|ASUS_I005DA|
+|Asus|ROG Phone 5|ASUS_I005_1|ASUS_I005DB|
+|Asus|ROG Phone 5|ASUS_I005_1|ZS673KS|
 |Asus|ROG Phone ll|ASUS_I001_1|ASUS_I001D|
 |Asus|ROG Phone ll|ASUS_I001_1|ZS660KL|
 |Asus|RTC-700A|RTC-tablet|RTC-tablet|
@@ -8466,6 +8470,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U963|SC9832E|Hisense V40|
 |Hisense|Hisense U964|HS7731ESP|HWCD100E|
 |Hisense|Hisense U964|HS7731ESP|Hisense U40 Lite|
+|Hisense|Hisense U964|HS7731ESP|Hisense U50 lite|
 |Hisense|Hisense U964|HS7731ESP|Hisense U964|
 |Hisense|Hisense U965|HS6580MT|Hisense Hi 1 PRO|
 |Hisense|Hisense U965|HS6580MT|Hisense U965|
@@ -12168,6 +12173,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kodak|KODAK_SMARTWAY_T2|KODAK_SMARTWAY_T2|KODAK_SMARTWAY_T2|
 |Kodak|KODAK_SMARTWAY_X2|SMARTWAY_X2|KODAK_SMARTWAY_X2|
 |Kodak|KodakTV|shibuya|KodakTV|
+|Kodak|Kodak_D60LX|Kodak_D60LX|D60LX|
+|Kodak|Kodak_D65LX|Kodak_D65LX|D65LX|
 |Kodak|Kodak_KD50|Kodak_KD50|KD50|
 |Kodak|SMARTWAY L2|SMARTWAY_L2|SMARTWAY L2|
 |Kodak|SMARTWAY M2|SMARTWAY_M2|KODAK SMARTWAY M2|
@@ -23438,6 +23445,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Win Pro|wilcoxds|SM-G3812|
 |Samsung|Galaxy Win2|coreprimeltedtv|SM-G360BT|
 |Samsung|Galaxy XCover 4s|xcover4s|SM-G398FN|
+|Samsung|Galaxy XCover 5|xcover5|SM-G525F|
 |Samsung|Galaxy XCover Field Pro|haechiy19|SM-G889F|
 |Samsung|Galaxy XCover FieldPro|haechiy19|SM-G889G|
 |Samsung|Galaxy XCover FieldPro|haechiy19lteatt|SM-G889A|
@@ -23452,14 +23460,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Xcover|GT-S5690L|GT-S5690L|
 |Samsung|Galaxy Xcover|GT-S5690M|GT-S5690M|
 |Samsung|Galaxy Xcover|GT-S5690R|GT-S5690R|
-|Samsung|Galaxy Xcover 5|xcover5|SM-G525F|
 |Samsung|Galaxy Xcover2|skomer|GT-S7710|
 |Samsung|Galaxy Xcover2|skomer|GT-S7710L|
 |Samsung|Galaxy Xcover3|xcover3lte|SM-G388F|
 |Samsung|Galaxy Xcover3|xcover3velte|SM-G389F|
 |Samsung|Galaxy Xcover4|xcover4lte|SM-G390Y|
 |Samsung|Galaxy Xcover4|xcover4ltecan|SM-G390W|
-|Samsung|Galaxy Xcover5|xcover5|SM-G525F|
 |Samsung|Galaxy Y|GT-S5360|GT-S5360|
 |Samsung|Galaxy Y|GT-S5360B|GT-S5360B|
 |Samsung|Galaxy Y|GT-S5360L|GT-S5360L|
@@ -25400,6 +25406,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 20E|HONG_KONG|6125F|
 |TCL|TCL 20L|Richland|T774B|
 |TCL|TCL 20L+|Richland_Pro|T775B|
+|TCL|TCL 20L+|Richland_Pro|T775H|
 |TCL|TCL 20S|Miami_Pro|T773O|
 |TCL|TCL 20Y|Hong_Kong_Pro|6156A|
 |TCL|TCL 20Y|Hong_Kong_Pro|6156D|
@@ -26783,6 +26790,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TECHNOLOGIA Y CRATIVIDAD|M103H|M103H|M103H|
 |TECO|K5T|ikebukuro|AI PONT|
 |TECO|TL55U12TRE|samseong|AI PONT|
+|TELE System|UPT24K|UPT24K|UPT24K|
 |TERRA|GPAD702|GPAD702|GPAD702|
 |TERRA|TERRA PAD 101|TERRA_PAD_101|TERRA_PAD_101|
 |TERRA|TERRA_PAD_1005|TERRA_PAD_1005|TERRA_PAD_1005|
@@ -27601,6 +27609,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Trio|Stealth G4 7|Trio-Stealth-G4-7|Trio-Stealth-G4-7|
 |Trio|Stealth-G4-101|Trio-Stealth-G4-101|Trio-Stealth G4 10.1|
 |Trio|Stealth-G4-7.85|Trio-Stealth-G4-785|Trio-Stealth-G4-7.85|
+|True|HCH03|TrueHCH03|HCH03|
 |True|SMART 4G Adventure|SMART_4G_ADVENTURE|SMART 4G Adventure|
 |True|SMART 4G Adventure Pro|SMART_4G|SMART 4G Adventure Pro|
 |True|SMART 4G Champion|SMART_4G_Champion|SMART 4G Champion|
@@ -27617,6 +27626,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |True|SMART_4G_GEN_C_5.5|SMART_4G_GEN_C_5_5|SMART 4G GEN C 5.5|
 |True|SMART_Champ_4inch|SMART_Champ_4inch|SMART Champ 4.0|
 |True|SMART_MAX_4.0_PLUS|P909|SMART_MAX_4.0_PLUS|
+|True|True ID TV|TrueHPH07|HPH07|
 |True|TrueID TV|TV_A01|STI6030_TRUE_TV_A01|
 |True|TrueID TV|TrueHPH07|HPH07|
 |TrueIDTV|T3AMX3|SEI600TID|T3AMX3|

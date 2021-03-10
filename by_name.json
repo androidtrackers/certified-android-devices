@@ -17757,6 +17757,28 @@
    "model": "ZS661KS"
   }
  ],
+ "ROG Phone 5": [
+  {
+   "brand": "Asus",
+   "device": "ASUS_I005_1",
+   "model": "ASUS_I005D"
+  },
+  {
+   "brand": "Asus",
+   "device": "ASUS_I005_1",
+   "model": "ASUS_I005DA"
+  },
+  {
+   "brand": "Asus",
+   "device": "ASUS_I005_1",
+   "model": "ASUS_I005DB"
+  },
+  {
+   "brand": "Asus",
+   "device": "ASUS_I005_1",
+   "model": "ZS673KS"
+  }
+ ],
  "ROG Phone ll": [
   {
    "brand": "Asus",
@@ -65976,6 +65998,11 @@
   {
    "brand": "Hisense",
    "device": "HS7731ESP",
+   "model": "Hisense U50 lite"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HS7731ESP",
    "model": "Hisense U964"
   }
  ],
@@ -87424,6 +87451,20 @@
    "brand": "Kodak",
    "device": "shibuya",
    "model": "KodakTV"
+  }
+ ],
+ "Kodak_D60LX": [
+  {
+   "brand": "Kodak",
+   "device": "Kodak_D60LX",
+   "model": "D60LX"
+  }
+ ],
+ "Kodak_D65LX": [
+  {
+   "brand": "Kodak",
+   "device": "Kodak_D65LX",
+   "model": "D65LX"
   }
  ],
  "Kodak_KD50": [
@@ -153520,6 +153561,13 @@
    "model": "SM-G398FN"
   }
  ],
+ "Galaxy XCover 5": [
+  {
+   "brand": "Samsung",
+   "device": "xcover5",
+   "model": "SM-G525F"
+  }
+ ],
  "Galaxy XCover Field Pro": [
   {
    "brand": "Samsung",
@@ -153602,13 +153650,6 @@
    "model": "GT-S5690R"
   }
  ],
- "Galaxy Xcover 5": [
-  {
-   "brand": "Samsung",
-   "device": "xcover5",
-   "model": "SM-G525F"
-  }
- ],
  "Galaxy Xcover2": [
   {
    "brand": "Samsung",
@@ -153643,13 +153684,6 @@
    "brand": "Samsung",
    "device": "xcover4ltecan",
    "model": "SM-G390W"
-  }
- ],
- "Galaxy Xcover5": [
-  {
-   "brand": "Samsung",
-   "device": "xcover5",
-   "model": "SM-G525F"
   }
  ],
  "Galaxy Y": [
@@ -165409,6 +165443,11 @@
    "brand": "TCL",
    "device": "Richland_Pro",
    "model": "T775B"
+  },
+  {
+   "brand": "TCL",
+   "device": "Richland_Pro",
+   "model": "T775H"
   }
  ],
  "TCL 20S": [
@@ -172859,6 +172898,13 @@
    "model": "AI PONT"
   }
  ],
+ "UPT24K": [
+  {
+   "brand": "TELE System",
+   "device": "UPT24K",
+   "model": "UPT24K"
+  }
+ ],
  "GPAD702": [
   {
    "brand": "TERRA",
@@ -177838,6 +177884,13 @@
    "model": "Trio-Stealth-G4-7.85"
   }
  ],
+ "HCH03": [
+  {
+   "brand": "True",
+   "device": "TrueHCH03",
+   "model": "HCH03"
+  }
+ ],
  "SMART 4G Adventure": [
   {
    "brand": "True",
@@ -177948,6 +178001,13 @@
    "brand": "True",
    "device": "P909",
    "model": "SMART_MAX_4.0_PLUS"
+  }
+ ],
+ "True ID TV": [
+  {
+   "brand": "True",
+   "device": "TrueHPH07",
+   "model": "HPH07"
   }
  ],
  "TrueID TV": [

@@ -8042,6 +8042,26 @@
    "model": "ZS661KS"
   },
   {
+   "device": "ASUS_I005_1",
+   "name": "ROG Phone 5",
+   "model": "ASUS_I005D"
+  },
+  {
+   "device": "ASUS_I005_1",
+   "name": "ROG Phone 5",
+   "model": "ASUS_I005DA"
+  },
+  {
+   "device": "ASUS_I005_1",
+   "name": "ROG Phone 5",
+   "model": "ASUS_I005DB"
+  },
+  {
+   "device": "ASUS_I005_1",
+   "name": "ROG Phone 5",
+   "model": "ZS673KS"
+  },
+  {
    "device": "ASUS_I001_1",
    "name": "ROG Phone ll",
    "model": "ASUS_I001D"
@@ -43798,6 +43818,11 @@
   {
    "device": "HS7731ESP",
    "name": "Hisense U964",
+   "model": "Hisense U50 lite"
+  },
+  {
+   "device": "HS7731ESP",
+   "name": "Hisense U964",
    "model": "Hisense U964"
   },
   {
@@ -62664,6 +62689,16 @@
    "device": "shibuya",
    "name": "KodakTV",
    "model": "KodakTV"
+  },
+  {
+   "device": "Kodak_D60LX",
+   "name": "Kodak_D60LX",
+   "model": "D60LX"
+  },
+  {
+   "device": "Kodak_D65LX",
+   "name": "Kodak_D65LX",
+   "model": "D65LX"
   },
   {
    "device": "Kodak_KD50",
@@ -120182,6 +120217,11 @@
    "model": "SM-G398FN"
   },
   {
+   "device": "xcover5",
+   "name": "Galaxy XCover 5",
+   "model": "SM-G525F"
+  },
+  {
    "device": "haechiy19",
    "name": "Galaxy XCover Field Pro",
    "model": "SM-G889F"
@@ -120252,11 +120292,6 @@
    "model": "GT-S5690R"
   },
   {
-   "device": "xcover5",
-   "name": "Galaxy Xcover 5",
-   "model": "SM-G525F"
-  },
-  {
    "device": "skomer",
    "name": "Galaxy Xcover2",
    "model": "GT-S7710"
@@ -120285,11 +120320,6 @@
    "device": "xcover4ltecan",
    "name": "Galaxy Xcover4",
    "model": "SM-G390W"
-  },
-  {
-   "device": "xcover5",
-   "name": "Galaxy Xcover5",
-   "model": "SM-G525F"
   },
   {
    "device": "GT-S5360",
@@ -130256,6 +130286,11 @@
    "model": "T775B"
   },
   {
+   "device": "Richland_Pro",
+   "name": "TCL 20L+",
+   "model": "T775H"
+  },
+  {
    "device": "Miami_Pro",
    "name": "TCL 20S",
    "model": "T773O"
@@ -137181,6 +137216,13 @@
    "model": "AI PONT"
   }
  ],
+ "TELE System": [
+  {
+   "device": "UPT24K",
+   "name": "UPT24K",
+   "model": "UPT24K"
+  }
+ ],
  "TERRA": [
   {
    "device": "GPAD702",
@@ -141515,6 +141557,11 @@
  ],
  "True": [
   {
+   "device": "TrueHCH03",
+   "name": "HCH03",
+   "model": "HCH03"
+  },
+  {
    "device": "SMART_4G_ADVENTURE",
    "name": "SMART 4G Adventure",
    "model": "SMART 4G Adventure"
@@ -141593,6 +141640,11 @@
    "device": "P909",
    "name": "SMART_MAX_4.0_PLUS",
    "model": "SMART_MAX_4.0_PLUS"
+  },
+  {
+   "device": "TrueHPH07",
+   "name": "True ID TV",
+   "model": "HPH07"
   },
   {
    "device": "TV_A01",

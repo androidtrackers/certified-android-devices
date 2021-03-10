@@ -12463,6 +12463,34 @@
    "device": "ASUS_I003_1"
   }
  ],
+ "ASUS_I005D": [
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 5",
+   "device": "ASUS_I005_1"
+  }
+ ],
+ "ASUS_I005DA": [
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 5",
+   "device": "ASUS_I005_1"
+  }
+ ],
+ "ASUS_I005DB": [
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 5",
+   "device": "ASUS_I005_1"
+  }
+ ],
+ "ZS673KS": [
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 5",
+   "device": "ASUS_I005_1"
+  }
+ ],
  "ASUS_I001D": [
   {
    "brand": "Asus",
@@ -60891,6 +60919,13 @@
    "device": "HS7731ESP"
   }
  ],
+ "Hisense U50 lite": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U964",
+   "device": "HS7731ESP"
+  }
+ ],
  "Hisense U964": [
   {
    "brand": "Hisense",
@@ -85447,6 +85482,20 @@
    "brand": "Kodak",
    "name": "KodakTV",
    "device": "shibuya"
+  }
+ ],
+ "D60LX": [
+  {
+   "brand": "Kodak",
+   "name": "Kodak_D60LX",
+   "device": "Kodak_D60LX"
+  }
+ ],
+ "D65LX": [
+  {
+   "brand": "Kodak",
+   "name": "Kodak_D65LX",
+   "device": "Kodak_D65LX"
   }
  ],
  "KD50": [
@@ -160300,6 +160349,13 @@
    "device": "xcover4s"
   }
  ],
+ "SM-G525F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy XCover 5",
+   "device": "xcover5"
+  }
+ ],
  "SM-G889F": [
   {
    "brand": "Samsung",
@@ -160396,18 +160452,6 @@
    "brand": "Samsung",
    "name": "Galaxy Xcover",
    "device": "GT-S5690R"
-  }
- ],
- "SM-G525F": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Xcover 5",
-   "device": "xcover5"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Xcover5",
-   "device": "xcover5"
   }
  ],
  "GT-S7710": [
@@ -173095,6 +173139,13 @@
    "device": "Richland_Pro"
   }
  ],
+ "T775H": [
+  {
+   "brand": "TCL",
+   "name": "TCL 20L+",
+   "device": "Richland_Pro"
+  }
+ ],
  "T773O": [
   {
    "brand": "TCL",
@@ -182578,6 +182629,13 @@
    "device": "M103H"
   }
  ],
+ "UPT24K": [
+  {
+   "brand": "TELE System",
+   "name": "UPT24K",
+   "device": "UPT24K"
+  }
+ ],
  "GPAD702": [
   {
    "brand": "TERRA",
@@ -187844,6 +187902,13 @@
    "device": "Trio-Stealth-G4-785"
   }
  ],
+ "HCH03": [
+  {
+   "brand": "True",
+   "name": "HCH03",
+   "device": "TrueHCH03"
+  }
+ ],
  "SMART 4G Adventure": [
   {
    "brand": "True",
@@ -187956,6 +188021,18 @@
    "device": "P909"
   }
  ],
+ "HPH07": [
+  {
+   "brand": "True",
+   "name": "True ID TV",
+   "device": "TrueHPH07"
+  },
+  {
+   "brand": "True",
+   "name": "TrueID TV",
+   "device": "TrueHPH07"
+  }
+ ],
  "STI6030_TRUE_TV_A01": [
   {
    "brand": "True",
@@ -187966,13 +188043,6 @@
    "brand": "truevisions",
    "name": "STI6030_TRUE_TV_A01",
    "device": "TV_A01"
-  }
- ],
- "HPH07": [
-  {
-   "brand": "True",
-   "name": "TrueID TV",
-   "device": "TrueHPH07"
   }
  ],
  "T3AMX3": [

@@ -13759,6 +13759,28 @@
    "model": "ZS661KS"
   }
  ],
+ "ASUS_I005_1": [
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 5",
+   "model": "ASUS_I005D"
+  },
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 5",
+   "model": "ASUS_I005DA"
+  },
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 5",
+   "model": "ASUS_I005DB"
+  },
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 5",
+   "model": "ZS673KS"
+  }
+ ],
  "ASUS_I001_1": [
   {
    "brand": "Asus",
@@ -61501,6 +61523,11 @@
   {
    "brand": "Hisense",
    "name": "Hisense U964",
+   "model": "Hisense U50 lite"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense U964",
    "model": "Hisense U964"
   }
  ],
@@ -83720,6 +83747,20 @@
    "brand": "Kodak",
    "name": "KODAK_SMARTWAY_X2",
    "model": "KODAK_SMARTWAY_X2"
+  }
+ ],
+ "Kodak_D60LX": [
+  {
+   "brand": "Kodak",
+   "name": "Kodak_D60LX",
+   "model": "D60LX"
+  }
+ ],
+ "Kodak_D65LX": [
+  {
+   "brand": "Kodak",
+   "name": "Kodak_D65LX",
+   "model": "D65LX"
   }
  ],
  "Kodak_KD50": [
@@ -155196,6 +155237,13 @@
    "model": "SM-G398FN"
   }
  ],
+ "xcover5": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy XCover 5",
+   "model": "SM-G525F"
+  }
+ ],
  "haechiy19": [
   {
    "brand": "Samsung",
@@ -155285,18 +155333,6 @@
    "brand": "Samsung",
    "name": "Galaxy Xcover",
    "model": "GT-S5690R"
-  }
- ],
- "xcover5": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Xcover 5",
-   "model": "SM-G525F"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Xcover5",
-   "model": "SM-G525F"
   }
  ],
  "skomer": [
@@ -168078,6 +168114,11 @@
    "brand": "TCL",
    "name": "TCL 20L+",
    "model": "T775B"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL 20L+",
+   "model": "T775H"
   }
  ],
  "Miami_Pro": [
@@ -175148,6 +175189,13 @@
    "model": "M103H"
   }
  ],
+ "UPT24K": [
+  {
+   "brand": "TELE System",
+   "name": "UPT24K",
+   "model": "UPT24K"
+  }
+ ],
  "GPAD702": [
   {
    "brand": "TERRA",
@@ -180264,6 +180312,13 @@
    "model": "Trio-Stealth-G4-7.85"
   }
  ],
+ "TrueHCH03": [
+  {
+   "brand": "True",
+   "name": "HCH03",
+   "model": "HCH03"
+  }
+ ],
  "SMART_4G_ADVENTURE": [
   {
    "brand": "True",
@@ -180369,6 +180424,18 @@
    "model": "SMART Champ 4.0"
   }
  ],
+ "TrueHPH07": [
+  {
+   "brand": "True",
+   "name": "True ID TV",
+   "model": "HPH07"
+  },
+  {
+   "brand": "True",
+   "name": "TrueID TV",
+   "model": "HPH07"
+  }
+ ],
  "TV_A01": [
   {
    "brand": "True",
@@ -180379,13 +180446,6 @@
    "brand": "truevisions",
    "name": "STI6030_TRUE_TV_A01",
    "model": "STI6030_TRUE_TV_A01"
-  }
- ],
- "TrueHPH07": [
-  {
-   "brand": "True",
-   "name": "TrueID TV",
-   "model": "HPH07"
   }
  ],
  "SEI600TID": [
