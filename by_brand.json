@@ -16948,6 +16948,11 @@
  ],
  "COOP": [
   {
+   "device": "MARTE",
+   "name": "MARTE",
+   "model": "MARTE"
+  },
+  {
    "device": "SATURNO2",
    "name": "SATURNO2",
    "model": "SATURNO2"
@@ -17115,6 +17120,11 @@
   }
  ],
  "Cablecolor": [
+  {
+   "device": "CAB_TAB",
+   "name": "CAB_TAB",
+   "model": "CAB_TAB"
+  },
   {
    "device": "GIU3A00",
    "name": "GIU3A00",
@@ -20660,6 +20670,11 @@
    "device": "V10",
    "name": "V10",
    "model": "V10"
+  },
+  {
+   "device": "V11",
+   "name": "V11",
+   "model": "V11"
   },
   {
    "device": "V80",
@@ -28333,6 +28348,11 @@
  ],
  "Elong Mobile": [
   {
+   "device": "6AT",
+   "name": "6AT",
+   "model": "6AT"
+  },
+  {
    "device": "6CS",
    "name": "6CS",
    "model": "6CS"
@@ -28950,6 +28970,11 @@
   {
    "device": "sti6200d101",
    "name": "Projector",
+   "model": "Projector"
+  },
+  {
+   "device": "sti6200d101",
+   "name": "SMF2",
    "model": "Projector"
   },
   {
@@ -55207,6 +55232,11 @@
  ],
  "IKALL": [
   {
+   "device": "IKALL",
+   "name": "IKALL",
+   "model": "IKALL"
+  },
+  {
    "device": "N4",
    "name": "N4",
    "model": "N4"
@@ -63456,6 +63486,11 @@
    "device": "E6920",
    "name": "DuraForce Pro 2",
    "model": "KYOCERA-E6920"
+  },
+  {
+   "device": "E7110",
+   "name": "DuraForce Ultra 5G",
+   "model": "E7110"
   },
   {
    "device": "E6790",
@@ -102793,6 +102828,11 @@
    "model": "P7"
   },
   {
+   "device": "P7PLUS",
+   "name": "P7PLUS",
+   "model": "P7PLUS"
+  },
+  {
    "device": "P7PRO",
    "name": "P7PRO",
    "model": "P7PRO"
@@ -137493,6 +137533,11 @@
    "model": "KIDS09"
   },
   {
+   "device": "V7",
+   "name": "V7",
+   "model": "V7"
+  },
+  {
    "device": "Y8",
    "name": "Y8",
    "model": "Y8"
@@ -137654,6 +137699,11 @@
    "device": "Q88A_EEA",
    "name": "Q88A_EEA",
    "model": "Q88A"
+  },
+  {
+   "device": "Q88C",
+   "name": "Q88C",
+   "model": "Q88C"
   }
  ],
  "TUFF": [
@@ -139517,6 +139567,11 @@
    "model": "TECNO KD7"
   },
   {
+   "device": "TECNO-KF8",
+   "name": "TECNO SPARK 7 Pro",
+   "model": "TECNO KF8"
+  },
+  {
    "device": "TECNO-KC1",
    "name": "TECNO SPARK Go",
    "model": "TECNO KC1"
@@ -140583,6 +140638,16 @@
    "device": "TIS_001",
    "name": "TIS_001",
    "model": "TIS_001"
+  },
+  {
+   "device": "TWIFI_08",
+   "name": "TWIFI_08",
+   "model": "TWIFI_08"
+  },
+  {
+   "device": "TWIFI_09",
+   "name": "TWIFI_09",
+   "model": "TWIFI_09"
   }
  ],
  "Tiitan": [

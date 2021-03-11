@@ -24741,6 +24741,13 @@
    "device": "YS-CK0001"
   }
  ],
+ "MARTE": [
+  {
+   "brand": "COOP",
+   "name": "MARTE",
+   "device": "MARTE"
+  }
+ ],
  "SATURNO2": [
   {
    "brand": "COOP",
@@ -24950,6 +24957,13 @@
    "brand": "CZ Electronics",
    "name": "Mint_Jane",
    "device": "Mint_Jane"
+  }
+ ],
+ "CAB_TAB": [
+  {
+   "brand": "Cablecolor",
+   "name": "CAB_TAB",
+   "device": "CAB_TAB"
   }
  ],
  "GIU3A00": [
@@ -29745,6 +29759,13 @@
    "brand": "POPTEL",
    "name": "V10",
    "device": "V10"
+  }
+ ],
+ "V11": [
+  {
+   "brand": "Contixo",
+   "name": "V11",
+   "device": "V11"
   }
  ],
  "V80": [
@@ -40133,6 +40154,13 @@
    "device": "ElliQTablet"
   }
  ],
+ "6AT": [
+  {
+   "brand": "Elong Mobile",
+   "name": "6AT",
+   "device": "6AT"
+  }
+ ],
  "6CS": [
   {
    "brand": "Elong Mobile",
@@ -40949,6 +40977,11 @@
   {
    "brand": "Epson",
    "name": "Projector",
+   "device": "sti6200d101"
+  },
+  {
+   "brand": "Epson",
+   "name": "SMF2",
    "device": "sti6200d101"
   }
  ],
@@ -75907,6 +75940,13 @@
    "device": "TPSeries_1"
   }
  ],
+ "IKALL": [
+  {
+   "brand": "IKALL",
+   "name": "IKALL",
+   "device": "IKALL"
+  }
+ ],
  "N4": [
   {
    "brand": "IKALL",
@@ -86517,6 +86557,13 @@
    "brand": "Kyocera",
    "name": "DuraForce Pro 2",
    "device": "E6920"
+  }
+ ],
+ "E7110": [
+  {
+   "brand": "Kyocera",
+   "name": "DuraForce Ultra 5G",
+   "device": "E7110"
   }
  ],
  "KYOCERA-E6790": [
@@ -133713,6 +133760,11 @@
    "brand": "Polaroid",
    "name": "V7",
    "device": "nuclear-M7021"
+  },
+  {
+   "brand": "TOPELOTEK",
+   "name": "V7",
+   "device": "V7"
   }
  ],
  "midcb232pr": [
@@ -137130,6 +137182,13 @@
    "brand": "Pritom",
    "name": "M10_PRO_EEA",
    "device": "M10_PRO_EEA"
+  }
+ ],
+ "P7PLUS": [
+  {
+   "brand": "Pritom",
+   "name": "P7PLUS",
+   "device": "P7PLUS"
   }
  ],
  "P7PRO": [
@@ -183117,6 +183176,13 @@
    "device": "Q86V_EEA"
   }
  ],
+ "Q88C": [
+  {
+   "brand": "TUFEN",
+   "name": "Q88C",
+   "device": "Q88C"
+  }
+ ],
  "T500": [
   {
    "brand": "TUFF",
@@ -185491,6 +185557,13 @@
    "device": "TECNO-KD7"
   }
  ],
+ "TECNO KF8": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 7 Pro",
+   "device": "TECNO-KF8"
+  }
+ ],
  "TECNO KC1": [
   {
    "brand": "Tecno",
@@ -186784,6 +186857,20 @@
    "brand": "Tigers",
    "name": "TIS_001",
    "device": "TIS_001"
+  }
+ ],
+ "TWIFI_08": [
+  {
+   "brand": "Tigers",
+   "name": "TWIFI_08",
+   "device": "TWIFI_08"
+  }
+ ],
+ "TWIFI_09": [
+  {
+   "brand": "Tigers",
+   "name": "TWIFI_09",
+   "device": "TWIFI_09"
   }
  ],
  "T54": [

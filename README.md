@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-03-10
+Last sync is 2021-03-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3282,6 +3282,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CONVERGE|T7045PS|T7045PS|T7045PS|
 |CONVERGE|T8045PS|T8045PS|T8045PS|
 |COOKIE|YS-CK0001|YS-CK0001|YS-CK0001|
+|COOP|MARTE|MARTE|MARTE|
 |COOP|SATURNO2|SATURNO2|SATURNO2|
 |COPAN|Aplus|Aplus|Aplus|
 |CORN|C5|C5|C5|
@@ -3312,6 +3313,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CZ Electronics|MX16|Mint_Diamond|MX16|
 |CZ Electronics|Mint_Iris|Mint_Iris|M7L_Sapphire|
 |CZ Electronics|Mint_Jane|Mint_Jane|M5E01|
+|Cablecolor|CAB_TAB|CAB_TAB|CAB_TAB|
 |Cablecolor|GIU3A00|GIU3A00|GIU3A00|
 |Camelus|L10|TR-10HBT|L10|
 |Camelus|L7|TR-7U|L7|
@@ -3990,6 +3992,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Contixo|K4|K4|K4|
 |Contixo|LA703R|LA703R|LA703R|
 |Contixo|V10|V10|V10|
+|Contixo|V11|V11|V11|
 |Contixo|V80|V80|V80|
 |Contixo|V9|CONTIXO-V9|V9|
 |Contixo|V90|V90|V90|
@@ -5463,6 +5466,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Elink|Winnovo|T7|T7|
 |Elitelux|Australia|yeongdeungpo|AiPlus4K|
 |ElliQ|ElliQTablet|ElliQTablet|ElliQTablet|
+|Elong Mobile|6AT|6AT|6AT|
 |Elong Mobile|6CS|6CS|6CS|
 |Elong Mobile|Y50|Y50|Y50|
 |Elong Mobile|Y50s|Y50s|Y50s|
@@ -5581,6 +5585,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Envizen Digital|VMD1029|VMD1029|VMD1029|
 |Epson|Epson|embt4|EMBT4|
 |Epson|Projector|sti6200d101|Projector|
+|Epson|SMF2|sti6200d101|Projector|
 |Epson|STI6110|Bushi|STI6110|
 |Epson|embt4|embt4|EMBT4|
 |Epson|embt4cn|embt4|EMBT4|
@@ -10735,6 +10740,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IDONDRDO|Discovery-X1|Discovery-X1|Discovery-X1|
 |IDspire|IRA_Biometric|TPSeries_1|IRA_Biometric|
 |IDspire|TPSeries_1|TPSeries_1|TPSeries_1|
+|IKALL|IKALL|IKALL|IKALL|
 |IKALL|N4|N4|N4|
 |IKALL|N5|N5|N5|
 |IMO(In My Opinion)|IMO Q|IMO_Q|IMO Q|
@@ -12322,6 +12328,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|DuraForce PRO with Sapphire Shield|E6810_3GB|E6810|
 |Kyocera|DuraForce Pro 2|E6920|E6921|
 |Kyocera|DuraForce Pro 2|E6920|KYOCERA-E6920|
+|Kyocera|DuraForce Ultra 5G|E7110|E7110|
 |Kyocera|DuraForce XD|E6790|KYOCERA-E6790|
 |Kyocera|DuraForce XD|E6790TM|E6790TM|
 |Kyocera|DuraScout|E6782L|E6782L|
@@ -20011,6 +20018,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|M10_PRO|M10_PRO|M10_PRO|
 |Pritom|M10_PRO_EEA|M10_PRO_EEA|M10_PRO_EEA|
 |Pritom|P7|P7|P7|
+|Pritom|P7PLUS|P7PLUS|P7PLUS|
 |Pritom|P7PRO|P7PRO|P7PRO|
 |Pritom|P7PRO_1|P7PRO_1|P7PRO_1|
 |Pritom|P7PRO_EEA|P7PRO_EEA|P7PRO_EEA|
@@ -26837,6 +26845,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TOPELOTEK|KIDS710|KIDS710|KIDS710|
 |TOPELOTEK|TOPELOTEK|KIDS08|KIDS08|
 |TOPELOTEK|TOPELOTEK|KIDS09|KIDS09|
+|TOPELOTEK|V7|V7|V7|
 |TOPELOTEK|Y8|Y8|Y8|
 |TOPJOY|PNC450|PNC450|PNC450|
 |TOSCIDO|P101|P101|P101|
@@ -26866,6 +26875,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TUFEN|Q801|Q801|Q801|
 |TUFEN|Q86V|Q86V_EEA|Q86V|
 |TUFEN|Q88A_EEA|Q88A_EEA|Q88A|
+|TUFEN|Q88C|Q88C|Q88C|
 |TUFF|T500|T500|T500|
 |TUNTUN English|DREAM PAD|delight|ITP-R408W|
 |TUPAD|TU7_58212_18222|TU7_58212|TU7_18222|
@@ -27227,6 +27237,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 5|TECNO-KD7h|TECNO KD7S|
 |Tecno|TECNO SPARK 5|TECNO-KD7h|TECNO KD7h|
 |Tecno|TECNO SPARK 5 Pro|TECNO-KD7|TECNO KD7|
+|Tecno|TECNO SPARK 7 Pro|TECNO-KF8|TECNO KF8|
 |Tecno|TECNO SPARK Go|TECNO-KC1|TECNO KC1|
 |Tecno|TECNO Tab|TECNO-P704|TECNO P704|
 |Tecno|TECNO Tab|TECNO-P704a|TECNO P704a|
@@ -27427,6 +27438,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tigers|TIS001C|TIS001C|TIS001C|
 |Tigers|TIS001_S4|TIS001_S4|TIS001_S4|
 |Tigers|TIS_001|TIS_001|TIS_001|
+|Tigers|TWIFI_08|TWIFI_08|TWIFI_08|
+|Tigers|TWIFI_09|TWIFI_09|TWIFI_09|
 |Tiitan|T54|T54|T54|
 |Time2|TIME2|TP1060J|TP1060J|
 |Time2|TIME2|TP860P|TP860B|
