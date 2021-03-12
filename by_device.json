@@ -58334,6 +58334,11 @@
    "model": "haierATVuguisudani"
   },
   {
+   "brand": "KONKA",
+   "name": "North America",
+   "model": "KONKA 2K Android TV"
+  },
+  {
    "brand": "Seiki",
    "name": "North America",
    "model": "Seiki Android TV 2K"
@@ -83787,6 +83792,20 @@
    "brand": "Kodak",
    "name": "KODAK_SMARTWAY_X2",
    "model": "KODAK_SMARTWAY_X2"
+  }
+ ],
+ "Kodak_D50L": [
+  {
+   "brand": "Kodak",
+   "name": "Kodak_D50L",
+   "model": "D50L"
+  }
+ ],
+ "Kodak_D55L": [
+  {
+   "brand": "Kodak",
+   "name": "Kodak_D55L",
+   "model": "D55L"
   }
  ],
  "Kodak_D60LX": [

@@ -83624,6 +83624,11 @@
    "brand": "KONKA",
    "name": "KONKA",
    "device": "sugamo"
+  },
+  {
+   "brand": "KONKA",
+   "name": "North America",
+   "device": "uguisudani"
   }
  ],
  "RE1": [
@@ -85522,6 +85527,20 @@
    "brand": "Kodak",
    "name": "KodakTV",
    "device": "shibuya"
+  }
+ ],
+ "D50L": [
+  {
+   "brand": "Kodak",
+   "name": "Kodak_D50L",
+   "device": "Kodak_D50L"
+  }
+ ],
+ "D55L": [
+  {
+   "brand": "Kodak",
+   "name": "Kodak_D55L",
+   "device": "Kodak_D55L"
   }
  ],
  "D60LX": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-03-11
+Last sync is 2021-03-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11899,6 +11899,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KONKA|KONKA|seocho|KONKA 4K Android TV|
 |KONKA|KONKA|sugamo|KONKA 2K Android TV|
 |KONKA|North America|hongik|KONKA 4K Android TV|
+|KONKA|North America|uguisudani|KONKA 2K Android TV|
 |KONKA|RE1|RE1|RE1|
 |KONKA|RU1|RU1|RU1|
 |KONKA|SE1|SE1|SE1|
@@ -12179,6 +12180,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kodak|KODAK_SMARTWAY_T2|KODAK_SMARTWAY_T2|KODAK_SMARTWAY_T2|
 |Kodak|KODAK_SMARTWAY_X2|SMARTWAY_X2|KODAK_SMARTWAY_X2|
 |Kodak|KodakTV|shibuya|KodakTV|
+|Kodak|Kodak_D50L|Kodak_D50L|D50L|
+|Kodak|Kodak_D55L|Kodak_D55L|D55L|
 |Kodak|Kodak_D60LX|Kodak_D60LX|D60LX|
 |Kodak|Kodak_D65LX|Kodak_D65LX|D65LX|
 |Kodak|Kodak_KD50|Kodak_KD50|KD50|

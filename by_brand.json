@@ -61245,6 +61245,11 @@
    "model": "KONKA 4K Android TV"
   },
   {
+   "device": "uguisudani",
+   "name": "North America",
+   "model": "KONKA 2K Android TV"
+  },
+  {
    "device": "RE1",
    "name": "RE1",
    "model": "RE1"
@@ -62719,6 +62724,16 @@
    "device": "shibuya",
    "name": "KodakTV",
    "model": "KodakTV"
+  },
+  {
+   "device": "Kodak_D50L",
+   "name": "Kodak_D50L",
+   "model": "D50L"
+  },
+  {
+   "device": "Kodak_D55L",
+   "name": "Kodak_D55L",
+   "model": "D55L"
   },
   {
    "device": "Kodak_D60LX",

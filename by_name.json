@@ -62810,6 +62810,11 @@
    "model": "KONKA 4K Android TV"
   },
   {
+   "brand": "KONKA",
+   "device": "uguisudani",
+   "model": "KONKA 2K Android TV"
+  },
+  {
    "brand": "SWTV",
    "device": "SW3_ATV",
    "model": "SWTV"
@@ -87493,6 +87498,20 @@
    "brand": "Kodak",
    "device": "shibuya",
    "model": "KodakTV"
+  }
+ ],
+ "Kodak_D50L": [
+  {
+   "brand": "Kodak",
+   "device": "Kodak_D50L",
+   "model": "D50L"
+  }
+ ],
+ "Kodak_D55L": [
+  {
+   "brand": "Kodak",
+   "device": "Kodak_D55L",
+   "model": "D55L"
   }
  ],
  "Kodak_D60LX": [
