@@ -141112,11 +141112,32 @@
    "device": "haydn"
   }
  ],
+ "M2101K7AG": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 10",
+   "device": "sunny"
+  }
+ ],
  "M2101K6G": [
   {
    "brand": "Redmi",
    "name": "Redmi Note 10 Pro",
    "device": "sweet"
+  }
+ ],
+ "M2101K6P": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 10 Pro",
+   "device": "sweetin"
+  }
+ ],
+ "M2101K6I": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 10 Pro Max",
+   "device": "sweetin"
   }
  ],
  "GINKGO": [
@@ -200738,6 +200759,20 @@
    "brand": "Xiaomi",
    "name": "Mi 10 lite 5G",
    "device": "monet"
+  }
+ ],
+ "M2102J2SC": [
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 10S",
+   "device": "thyme"
+  }
+ ],
+ "Thyme": [
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 10S",
+   "device": "thyme"
   }
  ],
  "M2007J3SP": [

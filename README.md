@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-03-12
+Last sync is 2021-03-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -20618,7 +20618,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi K40|alioth|M2012K11AC|
 |Redmi|Redmi K40 Pro|haydn|M2012K11C|
 |Redmi|Redmi K40 Pro +|haydn|M2012K11C|
+|Redmi|Redmi Note 10|sunny|M2101K7AG|
 |Redmi|Redmi Note 10 Pro|sweet|M2101K6G|
+|Redmi|Redmi Note 10 Pro|sweetin|M2101K6P|
+|Redmi|Redmi Note 10 Pro Max|sweetin|M2101K6I|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Redmi|Redmi Note 8|ginkgo|GINKGO|
 |Redmi|Redmi Note 8|ginkgo|Redmi Note 8|
@@ -29642,6 +29645,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Mi 10 Ultra|cas|M2007J1SC|
 |Xiaomi|Mi 10 lite 5G|monet|M2002J9G|
 |Xiaomi|Mi 10 lite 5G|monet|M2002J9S|
+|Xiaomi|Mi 10S|thyme|M2102J2SC|
+|Xiaomi|Mi 10S|thyme|Thyme|
 |Xiaomi|Mi 10T|apollo|M2007J3SP|
 |Xiaomi|Mi 10T|apollo|M2007J3SY|
 |Xiaomi|Mi 10T Lite|gauguin|M2007J17G|

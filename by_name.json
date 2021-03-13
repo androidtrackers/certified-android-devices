@@ -137999,11 +137999,30 @@
    "model": "M2012K11C"
   }
  ],
+ "Redmi Note 10": [
+  {
+   "brand": "Redmi",
+   "device": "sunny",
+   "model": "M2101K7AG"
+  }
+ ],
  "Redmi Note 10 Pro": [
   {
    "brand": "Redmi",
    "device": "sweet",
    "model": "M2101K6G"
+  },
+  {
+   "brand": "Redmi",
+   "device": "sweetin",
+   "model": "M2101K6P"
+  }
+ ],
+ "Redmi Note 10 Pro Max": [
+  {
+   "brand": "Redmi",
+   "device": "sweetin",
+   "model": "M2101K6I"
   }
  ],
  "Redmi Note 7": [
@@ -190440,6 +190459,18 @@
    "brand": "Xiaomi",
    "device": "monet",
    "model": "M2002J9S"
+  }
+ ],
+ "Mi 10S": [
+  {
+   "brand": "Xiaomi",
+   "device": "thyme",
+   "model": "M2102J2SC"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "thyme",
+   "model": "Thyme"
   }
  ],
  "Mi 10T": [

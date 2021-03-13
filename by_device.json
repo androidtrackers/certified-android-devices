@@ -137385,6 +137385,18 @@
    "model": "M2012K11C"
   }
  ],
+ "sunny": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 10",
+   "model": "M2101K7AG"
+  },
+  {
+   "brand": "ZTE",
+   "name": "Z818L",
+   "model": "Z818L"
+  }
+ ],
  "sweet": [
   {
    "brand": "Redmi",
@@ -137400,6 +137412,18 @@
    "brand": "ZTE",
    "name": "Z839V",
    "model": "Z839V"
+  }
+ ],
+ "sweetin": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 10 Pro",
+   "model": "M2101K6P"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 10 Pro Max",
+   "model": "M2101K6I"
   }
  ],
  "ginkgo": [
@@ -192697,6 +192721,18 @@
    "model": "M2007J1SC"
   }
  ],
+ "thyme": [
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 10S",
+   "model": "M2102J2SC"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 10S",
+   "model": "Thyme"
+  }
+ ],
  "gauguin": [
   {
    "brand": "Xiaomi",
@@ -201189,13 +201225,6 @@
    "brand": "ZTE",
    "name": "Z813",
    "model": "Z813"
-  }
- ],
- "sunny": [
-  {
-   "brand": "ZTE",
-   "name": "Z818L",
-   "model": "Z818L"
   }
  ],
  "sungod": [
