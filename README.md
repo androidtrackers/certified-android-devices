@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-03-14
+Last sync is 2021-03-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12282,6 +12282,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kult|KT05|KT05|KT05|
 |Kult|Kult Ambition|Ambition|Ambition|
 |Kult|Kult Beyond|Beyond|Beyond|
+|Kurio|1T10  WIFI NEW|Aquaman_10_WIFI|8391X|
 |Kurio|KURIO LITE GO NEW|U3A_7_WIFI_Refresh_KD|9309S|
 |Kurio|Kurio Tab|Hulk_7_KIDS_WIFI|8076|
 |Kurio|Kurio Tab|Hulk_7_KIDS_WIFI|8076_EEA|

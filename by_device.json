@@ -84444,6 +84444,33 @@
    "model": "Beyond"
   }
  ],
+ "Aquaman_10_WIFI": [
+  {
+   "brand": "Kurio",
+   "name": "1T10  WIFI NEW",
+   "model": "8391X"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "1T10  WIFI",
+   "model": "8091"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "1T10  WIFI",
+   "model": "8091_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "1T10  WIFI",
+   "model": "8091_TR"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "1T10 WIFI",
+   "model": "8091_RU"
+  }
+ ],
  "U3A_7_WIFI_Refresh_KD": [
   {
    "brand": "Kurio",
@@ -170189,28 +170216,6 @@
    "brand": "TCT (Alcatel)",
    "name": "LCATEL ONETOUCH PIXI 3 (4.5)",
    "model": "DIGICEL DL810"
-  }
- ],
- "Aquaman_10_WIFI": [
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "1T10  WIFI",
-   "model": "8091"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "1T10  WIFI",
-   "model": "8091_EEA"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "1T10  WIFI",
-   "model": "8091_TR"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "1T10 WIFI",
-   "model": "8091_RU"
   }
  ],
  "Aquaman_10_Smart_WIFI": [
