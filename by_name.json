@@ -26565,8 +26565,18 @@
   },
   {
    "brand": "Blaupunkt",
+   "device": "ewha",
+   "model": "BLAU-TVE19I"
+  },
+  {
+   "brand": "Blaupunkt",
    "device": "komagome",
    "model": "BLAUPUNKT 2K Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "device": "sindang",
+   "model": "BLAU-TVE19H"
   }
  ],
  "Blaupunkt SL 01": [
@@ -31514,6 +31524,13 @@
    "brand": "Casper",
    "device": "VIA-T7D-3G",
    "model": "VIA-T7D-3G"
+  }
+ ],
+ "VIA X20": [
+  {
+   "brand": "Casper",
+   "device": "VIA_X20",
+   "model": "VIA X20"
   }
  ],
  "VIA_ G3": [
@@ -36872,6 +36889,13 @@
    "model": "2040"
   }
  ],
+ "Cool 10A": [
+  {
+   "brand": "Coolpad",
+   "device": "Coolpad_2041",
+   "model": "Coolpad_2041"
+  }
+ ],
  "Cool C1": [
   {
    "brand": "Coolpad",
@@ -37908,6 +37932,13 @@
    "brand": "Ctroniq",
    "device": "SNOOK-X75",
    "model": "SNOOK-X75"
+  }
+ ],
+ "SNOOK-X80": [
+  {
+   "brand": "Ctroniq",
+   "device": "SNOOK-X80",
+   "model": "SNOOK-X80"
   }
  ],
  "C20": [
@@ -49092,6 +49123,13 @@
    "model": "FPT ATV Play Box"
   }
  ],
+ "FPT Play Box +": [
+  {
+   "brand": "FPT Telecom",
+   "device": "DV8536-KVF",
+   "model": "FPT Play Box +"
+  }
+ ],
  "SEI500FPT": [
   {
    "brand": "FPT Telecom",
@@ -53694,6 +53732,13 @@
    "model": "E-Tab10"
   }
  ],
+ "ATV495MAX": [
+  {
+   "brand": "Geniatech",
+   "device": "enjoytv",
+   "model": "ATV495MAX"
+  }
+ ],
  "Enjoy TV Quad-Core Box": [
   {
    "brand": "Geniatech",
@@ -56520,6 +56565,13 @@
    "brand": "Google",
    "device": "nami_cheets",
    "model": "nami"
+  }
+ ],
+ "Intel Tiger Lake Chromebook": [
+  {
+   "brand": "Google",
+   "device": "volteer_cheets",
+   "model": "volteer"
   }
  ],
  "Mediatek MT8173 Chromebook": [
@@ -65882,6 +65934,25 @@
    "model": "Hisense Infinity H40 Lite"
   }
  ],
+ "Hisense Infinity H50": [
+  {
+   "brand": "Hisense",
+   "device": "HLTE322E",
+   "model": "Hisense H50"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HLTE322E",
+   "model": "Hisense Infinity H50"
+  }
+ ],
+ "Hisense Infinity H50 Lite": [
+  {
+   "brand": "Hisense",
+   "device": "HLTE233E",
+   "model": "Hisense Infinity H50 Lite"
+  }
+ ],
  "Hisense Infinity H50 ZOOM": [
   {
    "brand": "Hisense",
@@ -65941,6 +66012,11 @@
    "brand": "Hisense",
    "device": "HLTE100E_21",
    "model": "Hisense U3 2021"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HLTE100E_22",
+   "model": "Hisense U3 2021"
   }
  ],
  "Hisense U40": [
@@ -65975,6 +66051,11 @@
    "brand": "Hisense",
    "device": "HS7731ESP",
    "model": "Hisense U30"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HS7731ESP",
+   "model": "Hisense U50"
   },
   {
    "brand": "Hisense",
@@ -67485,6 +67566,11 @@
   },
   {
    "brand": "Toshiba",
+   "device": "MTK9632",
+   "model": "Toshiba_TV"
+  },
+  {
+   "brand": "Toshiba",
    "device": "MTK9652",
    "model": "Toshiba_TV"
   },
@@ -68126,6 +68212,13 @@
    "brand": "Homatics",
    "device": "HND",
    "model": "Box Q"
+  }
+ ],
+ "Homeplus_ATV HCA-6010": [
+  {
+   "brand": "Homeplustv",
+   "device": "HCA6010",
+   "model": "HCA-6010"
   }
  ],
  "ALFA 10RC": [
@@ -85388,6 +85481,13 @@
    "brand": "KD Interactive",
    "device": "U3A_10_WIFI_KD",
    "model": "02018"
+  }
+ ],
+ "C02AS5": [
+  {
+   "brand": "KDDI",
+   "device": "C02AS5",
+   "model": "C02AS5"
   }
  ],
  "CablePlus STB": [
@@ -103343,6 +103443,13 @@
    "brand": "LinkNet",
    "device": "DCN88_72604_LN",
    "model": "DCN88_72604_LN"
+  }
+ ],
+ "X1-Prime-c": [
+  {
+   "brand": "LinkNet",
+   "device": "DTC9565",
+   "model": "X1-Prime-c"
   }
  ],
  "Linsar": [
@@ -123044,6 +123151,13 @@
    "model": "CPH2123"
   }
  ],
+ "A94": [
+  {
+   "brand": "Oppo",
+   "device": "OP4F43L1",
+   "model": "CPH2203"
+  }
+ ],
  "A9x": [
   {
    "brand": "Oppo",
@@ -123310,6 +123424,13 @@
    "brand": "Oppo",
    "device": "OP4C51L1",
    "model": "CPH2119"
+  }
+ ],
+ "F19 Pro": [
+  {
+   "brand": "Oppo",
+   "device": "OP4F43L1",
+   "model": "CPH2285"
   }
  ],
  "F1f": [
@@ -124624,6 +124745,20 @@
    "brand": "Oppo",
    "device": "OP4F25L1",
    "model": "CPH2159"
+  }
+ ],
+ "Reno5 F": [
+  {
+   "brand": "Oppo",
+   "device": "OP4F43L1",
+   "model": "CPH2217"
+  }
+ ],
+ "Reno5 Lite": [
+  {
+   "brand": "Oppo",
+   "device": "OP4F43L1",
+   "model": "CPH2205"
   }
  ],
  "Reno5 Pro 5G": [
@@ -127631,6 +127766,13 @@
    "model": "JT-C60"
   }
  ],
+ "JX700C": [
+  {
+   "brand": "Panasonic",
+   "device": "JX700C",
+   "model": "Panasonic_TV"
+  }
+ ],
  "KX-PRXA10": [
   {
    "brand": "Panasonic",
@@ -127670,6 +127812,13 @@
   {
    "brand": "Panasonic",
    "device": "NEXT821",
+   "model": "NEXT"
+  }
+ ],
+ "NEXT Elite-4K 24": [
+  {
+   "brand": "Panasonic",
+   "device": "NEXT820",
    "model": "NEXT"
   }
  ],
@@ -130942,6 +131091,18 @@
    "model": "midcb232pr"
   }
  ],
+ "polaroid": [
+  {
+   "brand": "Polaroid",
+   "device": "ewha",
+   "model": "POLA-TVE19K"
+  },
+  {
+   "brand": "Polaroid",
+   "device": "sindang",
+   "model": "POLA-TVE19M"
+  }
+ ],
  "Polestar": [
   {
    "brand": "Polestar",
@@ -131386,6 +131547,13 @@
    "brand": "Positivo",
    "device": "S511",
    "model": "Twist (2018)"
+  }
+ ],
+ "Twist 4": [
+  {
+   "brand": "Positivo",
+   "device": "S514",
+   "model": "Twist 4"
   }
  ],
  "Twist 4 Fit": [
@@ -139376,6 +139544,13 @@
    "brand": "SK Broadband",
    "device": "vip5442",
    "model": "BAS-AT800"
+  }
+ ],
+ "SMART3": [
+  {
+   "brand": "SK Broadband",
+   "device": "INTEKS20SI",
+   "model": "BID-AT200"
   }
  ],
  "AN200": [
@@ -163599,13 +163774,6 @@
    "model": "SHARK"
   }
  ],
- "SKYHP40A-ZWL": [
-  {
-   "brand": "Strong",
-   "device": "HP40A1",
-   "model": "SKWHP40A-ZWL"
-  }
- ],
  "Strong": [
   {
    "brand": "Strong",
@@ -163616,6 +163784,13 @@
    "brand": "Strong",
    "device": "komagome",
    "model": "Strong 2K Android TV"
+  }
+ ],
+ "Strong-ZWL": [
+  {
+   "brand": "Strong",
+   "device": "HP40A1",
+   "model": "SKWHP40A-ZWL"
   }
  ],
  "JR-500": [
@@ -176501,6 +176676,13 @@
    "model": "hudl ht7s3"
   }
  ],
+ "Technika": [
+  {
+   "brand": "Tesco",
+   "device": "ewha",
+   "model": "TECH-TVE19J"
+  }
+ ],
  "W032I_C3": [
   {
    "brand": "Tesco",
@@ -178021,6 +178203,11 @@
  "HCH03": [
   {
    "brand": "True",
+   "device": "TrueHCH03",
+   "model": "HCH03"
+  },
+  {
+   "brand": "truevisions",
    "device": "TrueHCH03",
    "model": "HCH03"
   }
@@ -182519,6 +182706,13 @@
    "model": "V8802"
   }
  ],
+ "ViettelTV 4K BOX": [
+  {
+   "brand": "Viettel",
+   "device": "VTTV-SD4K-20",
+   "model": "ViettelTV 4K BOX"
+  }
+ ],
  "ViettelTV 4K Box": [
   {
    "brand": "Viettel",
@@ -183634,6 +183828,13 @@
    "model": "V2039"
   }
  ],
+ "V2041": [
+  {
+   "brand": "Vivo",
+   "device": "2041",
+   "model": "V2041"
+  }
+ ],
  "V2042": [
   {
    "brand": "Vivo",
@@ -183795,11 +183996,25 @@
    "model": "V2072A"
   }
  ],
+ "V2073A": [
+  {
+   "brand": "Vivo",
+   "device": "PD2073",
+   "model": "V2073A"
+  }
+ ],
  "V2080A": [
   {
    "brand": "Vivo",
    "device": "PD2080",
    "model": "V2080A"
+  }
+ ],
+ "V2085A": [
+  {
+   "brand": "Vivo",
+   "device": "PD2085",
+   "model": "V2085A"
   }
  ],
  "V2099A": [

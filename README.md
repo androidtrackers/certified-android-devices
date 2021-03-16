@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-03-15
+Last sync is 2021-03-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2772,7 +2772,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|BP_6008|BP_6008|BP_6008|
 |Blaupunkt|BP_6010|BP_6010|BP_6010|
 |Blaupunkt|Blaupunkt|bangbae|BLAUPUNKT 4K Android TV|
+|Blaupunkt|Blaupunkt|ewha|BLAU-TVE19I|
 |Blaupunkt|Blaupunkt|komagome|BLAUPUNKT 2K Android TV|
+|Blaupunkt|Blaupunkt|sindang|BLAU-TVE19H|
 |Blaupunkt|Blaupunkt SL 01|Blaupunkt_SL_01|Blaupunkt SL 01|
 |Blaupunkt|Blaupunkt SL 02|Blaupunkt_SL_02|Blaupunkt SL 02|
 |Blaupunkt|Blaupunkt SL 04|Blaupunkt_SL_04|Blaupunkt SL 04|
@@ -3389,6 +3391,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Casper|VIA P3|VIA_P3|VIA_P3|
 |Casper|VIA T7D|VIA-T7D|VIA-T7D|
 |Casper|VIA T7D 3G|VIA-T7D-3G|VIA-T7D-3G|
+|Casper|VIA X20|VIA_X20|VIA X20|
 |Casper|VIA_ G3|VIA_G3|VIA_G3|
 |Casper|VIA_A1|VIA_A1|VIA_A1|
 |Casper|VIA_A1_1|VIA_A1_1|VIA_A1_1|
@@ -4147,6 +4150,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Coolpad|CPA520|CoolpadA520|Coolpad A520|
 |Coolpad|CPT1|CoolpadT1|Coolpad T1|
 |Coolpad|Cool 10|2040|2040|
+|Coolpad|Cool 10A|Coolpad_2041|Coolpad_2041|
 |Coolpad|Cool C1|cool_c1|C106|
 |Coolpad|Cool C1|cool_c1|C106-6|
 |Coolpad|Cool C1|cool_c1|C106-7|
@@ -4298,6 +4302,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ctroniq|SNOOK-X10|4G_TABLET|SNOOK-X10|
 |Ctroniq|SNOOK-X10|SNOOK-X10|SNOOK-X10|
 |Ctroniq|SNOOK-X75|SNOOK-X75|SNOOK-X75|
+|Ctroniq|SNOOK-X80|SNOOK-X80|SNOOK-X80|
 |Cubot|C20|C20|C20|
 |Cubot|C30|C30|C30|
 |Cubot|CUBOT CHEETAH 2|CUBOT_CHEETAH_2|CUBOT CHEETAH 2|
@@ -5846,6 +5851,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FLEX MOBILE|S9|S9|S9|
 |FOXXD|MIRO|L590A|L590A|
 |FPT Telecom|FPT ATV Play Box|DV8236|FPT ATV Play Box|
+|FPT Telecom|FPT Play Box +|DV8536-KVF|FPT Play Box +|
 |FPT Telecom|SEI500FPT|SEI500FPT|FPT Play Box +|
 |FPT Telecom|SEI610FPT|SEI610FPT|FPT Play Box S|
 |FPT Trading|A15|A15_01|A15|
@@ -6521,6 +6527,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |General Mobile|e-tab 20|e-tab20|e-tab 20|
 |General Mobile|e-tab 20|e-tab20_variant|e-tab 20|
 |GeneralMobile|E-Tab10|blue_eye|E-Tab10|
+|Geniatech|ATV495MAX|enjoytv|ATV495MAX|
 |Geniatech|Enjoy TV Quad-Core Box|ATV581|Enjoy TV Quad-Core Box|
 |Geniatech|EnjoyTV|enjoytv|ATV495MAX|
 |Geniatech|Enjoytv_hybrid|enjoytv_hybrid|ATV598MAX|
@@ -6900,6 +6907,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Intel Gemini Lake Chromebook|octopus_cheets|octopus|
 |Google|Intel Jasper Lake Chromebook|dedede_cheets|dedede|
 |Google|Intel Kaby Lake U Chromebook|nami_cheets|nami|
+|Google|Intel Tiger Lake Chromebook|volteer_cheets|volteer|
 |Google|Mediatek MT8173 Chromebook|jacuzzi_cheets|jacuzzi|
 |Google|Mediatek MT8183 Tablet|kukui_cheets|kukui|
 |Google|Mediatek MTK8173 Chromebook|hana_cheets|Lenovo N23 Yoga/Flex 11 Chromebook|
@@ -8449,6 +8457,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense Infinity H40 Lite|HLTE230E_01|HLTE230E_01|
 |Hisense|Hisense Infinity H40 Lite|HLTE230E_01|Hisense Infinity H40 Lite|
 |Hisense|Hisense Infinity H40 Lite|HLTE230E_20|Hisense Infinity H40 Lite|
+|Hisense|Hisense Infinity H50|HLTE322E|Hisense H50|
+|Hisense|Hisense Infinity H50|HLTE322E|Hisense Infinity H50|
+|Hisense|Hisense Infinity H50 Lite|HLTE233E|Hisense Infinity H50 Lite|
 |Hisense|Hisense Infinity H50 ZOOM|HLTE234E|Hisense Infinity H50 ZOOM|
 |Hisense|Hisense M36|HS8909QC|Hisense M36|
 |Hisense|Hisense P1|HS8953QC|Hisense P1|
@@ -8458,12 +8469,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense T965|HS6580MT|Hisense T965|
 |Hisense|Hisense U3 2021|HLTE100E_20|Hisense U3 2021|
 |Hisense|Hisense U3 2021|HLTE100E_21|Hisense U3 2021|
+|Hisense|Hisense U3 2021|HLTE100E_22|Hisense U3 2021|
 |Hisense|Hisense U40|HLTE103E_30|Hisense U40|
 |Hisense|Hisense U40|HLTE103E_31|Hisense U40|
 |Hisense|Hisense U40|HLTE103E_32|Hisense U40|
 |Hisense|Hisense U40|HLTE103E_33|Hisense U40|
 |Hisense|Hisense U40|SC9832E|Hisense U40|
 |Hisense|Hisense U605|HS7731ESP|Hisense U30|
+|Hisense|Hisense U605|HS7731ESP|Hisense U50|
 |Hisense|Hisense U605|HS7731ESP|Hisense U605|
 |Hisense|Hisense U605|HS7731ESP|Hisense U606|
 |Hisense|Hisense U963|HLTE100E_11|Hisense U963|
@@ -8784,6 +8797,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hoffmann|X_Prime|X_Prime|HOFFMANN X-Prime|
 |Homatics|SEI600HM|HND|Box Q|
 |Home Elite|Android TV|R1|ATV R1|
+|Homeplustv|Homeplus_ATV HCA-6010|HCA6010|HCA-6010|
 |Hometech|ALFA 10RC|ALFA_10RC|ALFA_10RC|
 |Hometech|ALFA 8RC|ALFA_8RC|ALFA_8RC|
 |Hometech|ALFA 8RX|ALFA_8RX|ALFA_8RX|
@@ -11868,6 +11882,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KD Interactive|TAB3-Premium-XTREME3|Pixi4-7_WIFI_KD|01016|
 |KD Interactive|TAB3-Premium-XTREME3|Pixi4-7_WIFI_KD|01516|
 |KD Interactive|TabXL-Smart-Smart2in1-Tab10|U3A_10_WIFI_KD|02018|
+|KDDI|C02AS5|C02AS5|C02AS5|
 |KDDI|CablePlus STB|C02AS|C02AS|
 |KDDI|Cableplus STB-2|C02AS5|C02AS5|
 |KDDI|Power Up Unit|C02BB1|C02BB1|
@@ -15024,6 +15039,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LinkNet|ST950I-LN|ST950I-LN|ST950I-LN|
 |LinkNet|Smart Box HD|SH940C-LN|SH940C-LN|
 |LinkNet|X1 Prime|DCN88_72604_LN|DCN88_72604_LN|
+|LinkNet|X1-Prime-c|DTC9565|X1-Prime-c|
 |Linsar|Australia|hanyang|Linsar Android TV|
 |Linsar|Linsar|bangbae|Linsar 4K Android TV|
 |Linsar|Linsar|komagome|Linsar 2K Android TV|
@@ -18277,6 +18293,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A92|OP4C72L1|CPH2059|
 |Oppo|A93|OP4C51L1|CPH2121|
 |Oppo|A93|OP4C51L1|CPH2123|
+|Oppo|A94|OP4F43L1|CPH2203|
 |Oppo|A9x|OP46F3|PCEM00|
 |Oppo|A9x|OP46F3|PCET00|
 |Oppo|AX5s|CPH1920|CPH1920|
@@ -18320,6 +18337,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|F11 Pro|OP4863|CPH1969|
 |Oppo|F11 Pro|OP4863|CPH1987|
 |Oppo|F17 Pro|OP4C51L1|CPH2119|
+|Oppo|F19 Pro|OP4F43L1|CPH2285|
 |Oppo|F1f|F1f|F1f|
 |Oppo|F1f|F1f|F1fw|
 |Oppo|F1f|F1f|F1w|
@@ -18538,6 +18556,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno4 中国版|OP4A47|PDPM00|
 |Oppo|Reno4 中国版|OP4A47|PDPT00|
 |Oppo|Reno5|OP4F25L1|CPH2159|
+|Oppo|Reno5 F|OP4F43L1|CPH2217|
+|Oppo|Reno5 Lite|OP4F43L1|CPH2205|
 |Oppo|Reno5 Pro 5G|OP4EA3|PDSM00|
 |Oppo|Reno5 Pro 5G|OP4EA3|PDST00|
 |Oppo|U3|U3|U3|
@@ -18994,12 +19014,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|JT-B1|B1|JT-B1|
 |Panasonic|JT-C52|JT-C52|JT-C52|
 |Panasonic|JT-C60|JT-C60|JT-C60|
+|Panasonic|JX700C|JX700C|Panasonic_TV|
 |Panasonic|KX-PRXA10|KX-PRXA10|Panasonic KX-PRXA10|
 |Panasonic|KX-PRXA15|KX-PRXA15|Panasonic KX-PRXA15|
 |Panasonic|LUMIX CM1|DMC-CM1|DMC-CM1|
 |Panasonic|NEXT Crew Terminal - AutoChip|NEXT820|NEXT|
 |Panasonic|NEXT Crew Terminal - IoT Chip|NEXT821|NEXT|
 |Panasonic|NEXT Eco4K 12|NEXT821|NEXT|
+|Panasonic|NEXT Elite-4K 24|NEXT820|NEXT|
 |Panasonic|P-01D|pana2_1|P-01D|
 |Panasonic|P-01K|P-01K|P-01K|
 |Panasonic|P-02D|pana2_2|P-02D|
@@ -19513,6 +19535,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Polaroid|V45M|V45M|CARBON_PRO4543|
 |Polaroid|V7|nuclear-M7021|V7|
 |Polaroid|midcb232pr_EEA|midcb232pr|midcb232pr|
+|Polaroid|polaroid|ewha|POLA-TVE19K|
+|Polaroid|polaroid|sindang|POLA-TVE19M|
 |Polestar|Polestar|ihu_abl_car|Polestar|
 |Polestar|Polestar Emu|ihu_emulator|Polestar 2|
 |Polytron|P500|P500|P500|
@@ -19585,6 +19609,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|Twist 2 Pro|S532|Twist 2 Pro|
 |Positivo|Twist 2 Pro|S532|Twist 3|
 |Positivo|Twist 2018|S511|Twist (2018)|
+|Positivo|Twist 4|S514|Twist 4|
 |Positivo|Twist 4 Fit|S509N|Twist 4 Fit|
 |Positivo|Twist 4 Pro|S518|Twist 4 Pro|
 |Positivo|Twist 4G|S520_4G|Positivo Twist 4G|
@@ -20834,6 +20859,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SK Broadband|BFX-AT100|BFX-AT100|BFX-AT100|
 |SK Broadband|BKO-AT800|BKO-AT800|BKO-AT800|
 |SK Broadband|BTV|vip5442|BAS-AT800|
+|SK Broadband|SMART3|INTEKS20SI|BID-AT200|
 |SK Telesys||K4|SK-S170|
 |SK Telesys||msm8255_k5|SK-S150|
 |SK Telesys||qsd8250_s1|SK-S100|
@@ -25096,9 +25122,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stream|SHARK|SHARK|SHARK|
 |Strong|Android TV|R1|ATV R1|
 |Strong|Android TV|R2|ATV R2|
-|Strong|SKYHP40A-ZWL|HP40A1|SKWHP40A-ZWL|
 |Strong|Strong|bangbae|Strong 4K Android TV|
 |Strong|Strong|komagome|Strong 2K Android TV|
+|Strong|Strong-ZWL|HP40A1|SKWHP40A-ZWL|
 |Sts-tottori|JR-500|JR-500|JR-500|
 |Sts-tottori|JR-P2000|JR-P2000|JR-P2000|
 |Sts-tottori|TAB-A03|TAB-A03|TAB-A03-SD|
@@ -27386,6 +27412,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tesco|Hudl 2|HTF8A4|Hudl 2|
 |Tesco|Hudl HT7S3|ht7s3|Hudl HT7S3|
 |Tesco|Hudl HT7S3|ht7s3|hudl ht7s3|
+|Tesco|Technika|ewha|TECH-TVE19J|
 |Tesco|W032I_C3|w032i_c3|W032I_C3|
 |Tesco|hudl 2|HTF8A4|Hudl 2|
 |Tesla|AEONSR570|AEONSR570|AEONSR570|
@@ -27536,6 +27563,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Toshiba|STB10|TOSPASB|TOSPASB|
 |Toshiba|Thrive 7|tostab04|AT1S0|
 |Toshiba|Toshiba Chromebook 2 (2015 Edition)|gandof_cheets|Toshiba Chromebook 2 (2015 Edition)|
+|Toshiba|Toshiba_TV|MTK9632|Toshiba_TV|
 |Toshiba|Toshiba_TV|MTK9652|Toshiba_TV|
 |Toshiba|Toshiba_TV|NOVA72685|Toshiba_TV|
 |Toshiba|fushan_Toshiba|hamamatsucho|HiSmart 2K ATV4|
@@ -28364,6 +28392,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vida|i-450|i-450|i-450|
 |Vida|i401|VIDA-i401|VIDA-i401|
 |Viettel|V8802|V8802|V8802|
+|Viettel|ViettelTV 4K BOX|VTTV-SD4K-20|ViettelTV 4K BOX|
 |Viettel|ViettelTV 4K Box|HP40A|ViettelTV 4K Box|
 |ViewSonic||ViewPad_IR10Q|IR10Q|
 |ViewSonic||ViewPad_IR8Q|IR8Q|
@@ -28539,6 +28568,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2038|2037|V2038|
 |Vivo|V2039|2034|V2039|
 |Vivo|V2040|2040|V2040|
+|Vivo|V2041|2041|V2041|
 |Vivo|V2042|2026|V2042|
 |Vivo|V2043|2026|V2043|
 |Vivo|V2043_21|2026|V2043_21|
@@ -28562,7 +28592,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2066BA|PD2066B|V2066BA|
 |Vivo|V2068A|PD2068|V2068A|
 |Vivo|V2072A|PD2072|V2072A|
+|Vivo|V2073A|PD2073|V2073A|
 |Vivo|V2080A|PD2080|V2080A|
+|Vivo|V2085A|PD2085|V2085A|
 |Vivo|V2099A|PD2034D|V2099A|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
@@ -32021,6 +32053,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |teXet|Texet TM-5584|TM-5584|TM-5584|
 |techBITE|Flix  TV  Box|DV8219|Flix TV Box|
 |tecmobile|OmnisOne|OmnisOne|Omnis One|
+|truevisions|HCH03|TrueHCH03|HCH03|
 |truevisions|N9106H-B|HB_N9106H_B_truevisions|N9106H-B|
 |truevisions|N9106H-C|HB_N9106H_C_truevisions|N9106H-C|
 |truevisions|STI6030_TRUE_TV_A01|TV_A01|STI6030_TRUE_TV_A01|
