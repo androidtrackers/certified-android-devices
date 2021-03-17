@@ -15864,6 +15864,11 @@
   },
   {
    "brand": "TCL",
+   "name": "C02_4K_US",
+   "device": "BeyondTV"
+  },
+  {
+   "brand": "TCL",
    "name": "Smart TV",
    "device": "BeyondTV4"
   },
@@ -50664,6 +50669,13 @@
    "device": "yellowstone"
   }
  ],
+ "trogdor": [
+  {
+   "brand": "Google",
+   "name": "Qualcomm SC7180 Chromebook",
+   "device": "trogdor_cheets"
+  }
+ ],
  "RK3288 Chrome OS Device": [
   {
    "brand": "Google",
@@ -83561,6 +83573,11 @@
   {
    "brand": "SYLVANIA",
    "name": "US",
+   "device": "gangbyeon"
+  },
+  {
+   "brand": "Sceptre",
+   "name": "Sceptre",
    "device": "gangbyeon"
   }
  ],
@@ -118606,6 +118623,11 @@
    "brand": "Multilaser",
    "name": "Multilaser E",
    "device": "Multilaser_E"
+  },
+  {
+   "brand": "Multilaser",
+   "name": "Multilaser E",
+   "device": "Multilaser_E_A10"
   }
  ],
  "Multilaser_E_Lite": [
@@ -136328,6 +136350,13 @@
    "device": "TL80A15G"
   }
  ],
+ "PMT4208_3G_E_RU": [
+  {
+   "brand": "Prestigio",
+   "name": "PMT4208_3G_E_RU",
+   "device": "TL80A15G"
+  }
+ ],
  "PMT4227_3G_RU": [
   {
    "brand": "Prestigio",
@@ -138188,6 +138217,27 @@
    "brand": "QMobile",
    "name": "QNote",
    "device": "QMobile_QNote"
+  }
+ ],
+ "QTab Y1": [
+  {
+   "brand": "QMobile",
+   "name": "QTab_Y1",
+   "device": "QTab_Y1"
+  }
+ ],
+ "QTab Y2": [
+  {
+   "brand": "QMobile",
+   "name": "QTab_Y2",
+   "device": "QTab_Y2"
+  }
+ ],
+ "QTab Y3": [
+  {
+   "brand": "QMobile",
+   "name": "QTab_Y3",
+   "device": "QTab_Y3"
   }
  ],
  "S8 Plus": [
@@ -173329,6 +173379,13 @@
    "device": "Transformer_4G"
   }
  ],
+ "9295G_RU": [
+  {
+   "brand": "TCL",
+   "name": "TCL 10 TABMAX 4G",
+   "device": "Transformer_4G"
+  }
+ ],
  "T770B": [
   {
    "brand": "TCL",
@@ -184530,6 +184587,13 @@
    "brand": "Tecno",
    "name": "CAMON 16 S",
    "device": "TECNO-CD6j"
+  }
+ ],
+ "TECNO CG6j": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 17",
+   "device": "TECNO-CG6j"
   }
  ],
  "TECNO CA6": [
@@ -208178,6 +208242,13 @@
    "device": "NX907J"
   }
  ],
+ "Nubia 8011": [
+  {
+   "brand": "ZTE",
+   "name": "Nubia 8011",
+   "device": "P963F05"
+  }
+ ],
  "Nubia N11": [
   {
    "brand": "ZTE",
@@ -212358,6 +212429,11 @@
    "brand": "Zebra",
    "name": "ET56",
    "device": "ET56S"
+  },
+  {
+   "brand": "Zebra",
+   "name": "ET56CA",
+   "device": "ET56L"
   }
  ],
  "ET5X": [

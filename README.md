@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-03-16
+Last sync is 2021-03-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6935,6 +6935,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixelbook|eve_cheets|Google Pixelbook|
 |Google|Project Tango Tablet Development Kit|yellowstone|Project Tango Tablet Development Kit|
 |Google|Project Tango Tablet Development Kit|yellowstone|Yellowstone|
+|Google|Qualcomm SC7180 Chromebook|trogdor_cheets|trogdor|
 |Google|Rockchip RK3288 Chromebook|jerry_cheets|RK3288 Chrome OS Device|
 |Google|Rockchip RK3288 Chromebook|jerry_cheets|Rockchip RK3288 Chromebook|
 |Google|Rockchip RK3288 Chromebook|mighty_cheets|RK3288 Chrome OS Device|
@@ -17170,6 +17171,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|Ms5|MTL-MS5|MS5|
 |Multilaser|Ms6|MS6|MS6|
 |Multilaser|Multilaser E|Multilaser_E|Multilaser_E|
+|Multilaser|Multilaser E|Multilaser_E_A10|Multilaser_E|
 |Multilaser|Multilaser E Lite|Multilaser_E_Lite|Multilaser_E_Lite|
 |Multilaser|Multilaser F Pro|Multilaser_F_Pro|Multilaser_F_Pro|
 |Multilaser|Multilaser G|Multilaser_G|Multilaser_G|
@@ -19890,6 +19892,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|PMT4137_4G_EEA|HP70A10L|PMT4137_4G_EEA|
 |Prestigio|PMT4138_4G_EEA|CD80A6L|PMT4138_4G_EEA|
 |Prestigio|PMT4208_3G_EEA|TL80A15G|PMT4208_3G_EEA|
+|Prestigio|PMT4208_3G_E_RU|TL80A15G|PMT4208_3G_E_RU|
 |Prestigio|PMT4227_3G_RU|HP70A2G|PMT4227_3G_RU|
 |Prestigio|PMT4231_4G_D_EEA|TC10A2L|PMT4231_4G_D_EEA|
 |Prestigio|PMT4231_4G_D_RU|TC10A2L|PMT4231_4G_D_RU|
@@ -20173,6 +20176,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |QMobile|Q Infinity Prime|Q_Infinity_Prime|QMobile Q Infinity Prime|
 |QMobile|QMobile S15|S15|QMobile S15|
 |QMobile|QNote|QMobile_QNote|QMobile QNote|
+|QMobile|QTab_Y1|QTab_Y1|QTab Y1|
+|QMobile|QTab_Y2|QTab_Y2|QTab Y2|
+|QMobile|QTab_Y3|QTab_Y3|QTab Y3|
 |QMobile|Qmobile S8 Plus|QMobile_S8_Plus|S8 Plus|
 |QMobile|Rocket Pro|Rocket_Pro|Rocket Pro|
 |QMobile|S1 Lite|S1_Lite|QMobile S1 Lite|
@@ -23661,6 +23667,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sasktel|HMB2213PW22WA|HMB2213PW22WA|HMB2213PW22WA|
 |Sasktel|SaskTel maxTV Stream|HMB2213PW22WA|HMB2213PW22WA|
 |Sceptre|A322BV-SRC|kanda|2K Smart TV|
+|Sceptre|Sceptre|gangbyeon|4K Smart TV|
 |Sceptre|TATUNG|gangbyeon|TATUNG 4K AI Smart TV|
 |Sceptre|imiia|gangbyeon|imiia 4K AI Smart TV|
 |Schok|FreedomTurboXL|SFT57216|FreedomTurboXL|
@@ -25394,6 +25401,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|BeyondTV4|BeyondTV4|Smart TV Pro|
 |TCL|BeyondTV5|BeyondTV|BeyondTV5|
 |TCL|BeyondTV6|BeyondTV4|Smart TV Pro|
+|TCL|C02_4K_US|BeyondTV|Smart TV|
 |TCL|C9|A3A_XL_4G|5199I|
 |TCL|GO5c|U3A_PLUS_4G|5033E|
 |TCL|HotelTV|HotelTV|WelcomeTV|
@@ -25434,6 +25442,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 10 TABMAX|Transformer_WIFI|9296X_TR|
 |TCL|TCL 10 TABMAX 4G|Transformer_4G|9295G|
 |TCL|TCL 10 TABMAX 4G|Transformer_4G|9295G_EEA|
+|TCL|TCL 10 TABMAX 4G|Transformer_4G|9295G_RU|
 |TCL|TCL 10L|T1_LITE|T770B|
 |TCL|TCL 10L|T1_LITE|T770H|
 |TCL|TCL 20 5G|Irvine|T781|
@@ -27084,6 +27093,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|CAMON 16 (SE)|TECNO-CE7j|TECNO CE7j|
 |Tecno|CAMON 16 Pro|TECNO-CE8|TECNO CE8|
 |Tecno|CAMON 16 S|TECNO-CD6j|TECNO CD6j|
+|Tecno|CAMON 17|TECNO-CG6j|TECNO CG6j|
 |Tecno|CAMON C7|TECNO-C7|TECNO-C7|
 |Tecno|CAMON CM|TECNO-CA6|TECNO CA6|
 |Tecno|CAMON I Ace|TECNO-IN1|TECNO IN1|
@@ -30729,6 +30739,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|NX629J|NX629J-EEA|NX629J|
 |ZTE|NX659J|NX659J-RU|NX659J|
 |ZTE|NX907J|NX907J|NX907J|
+|ZTE|Nubia 8011|P963F05|Nubia 8011|
 |ZTE|Nubia N11|P731F50|Nubia N11|
 |ZTE|OWN FUN 5(4G)|VFD511|OWN FUN 5(4G)|
 |ZTE|OWN FUN 5(4G)|VFD511|ZTE BLADE A321|
@@ -31417,6 +31428,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|ET51|ET51S|ET51|
 |Zebra|ET56|ET56L|ET56|
 |Zebra|ET56|ET56S|ET56|
+|Zebra|ET56CA|ET56L|ET56|
 |Zebra|ET5X|ET50E|ET5X|
 |Zebra|ET5X|ET50T|ET5X|
 |Zebra|ET5X|ET55E|ET5X|

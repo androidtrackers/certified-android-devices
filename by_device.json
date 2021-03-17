@@ -27628,6 +27628,11 @@
   },
   {
    "brand": "Sceptre",
+   "name": "Sceptre",
+   "model": "4K Smart TV"
+  },
+  {
+   "brand": "Sceptre",
    "name": "TATUNG",
    "model": "TATUNG 4K AI Smart TV"
   },
@@ -52266,6 +52271,13 @@
    "brand": "Google",
    "name": "Project Tango Tablet Development Kit",
    "model": "Yellowstone"
+  }
+ ],
+ "trogdor_cheets": [
+  {
+   "brand": "Google",
+   "name": "Qualcomm SC7180 Chromebook",
+   "model": "trogdor"
   }
  ],
  "jerry_cheets": [
@@ -115599,6 +115611,13 @@
    "model": "Multilaser_E"
   }
  ],
+ "Multilaser_E_A10": [
+  {
+   "brand": "Multilaser",
+   "name": "Multilaser E",
+   "model": "Multilaser_E"
+  }
+ ],
  "Multilaser_E_Lite": [
   {
    "brand": "Multilaser",
@@ -133003,6 +133022,11 @@
    "brand": "Prestigio",
    "name": "PMT4208_3G_EEA",
    "model": "PMT4208_3G_EEA"
+  },
+  {
+   "brand": "Prestigio",
+   "name": "PMT4208_3G_E_RU",
+   "model": "PMT4208_3G_E_RU"
   }
  ],
  "TC10A2L": [
@@ -134678,6 +134702,27 @@
    "brand": "QMobile",
    "name": "QNote",
    "model": "QMobile QNote"
+  }
+ ],
+ "QTab_Y1": [
+  {
+   "brand": "QMobile",
+   "name": "QTab_Y1",
+   "model": "QTab Y1"
+  }
+ ],
+ "QTab_Y2": [
+  {
+   "brand": "QMobile",
+   "name": "QTab_Y2",
+   "model": "QTab Y2"
+  }
+ ],
+ "QTab_Y3": [
+  {
+   "brand": "QMobile",
+   "name": "QTab_Y3",
+   "model": "QTab Y3"
   }
  ],
  "QMobile_S8_Plus": [
@@ -167916,6 +167961,11 @@
    "brand": "TCL",
    "name": "BeyondTV5",
    "model": "BeyondTV5"
+  },
+  {
+   "brand": "TCL",
+   "name": "C02_4K_US",
+   "model": "Smart TV"
   }
  ],
  "BeyondTV4": [
@@ -168290,6 +168340,11 @@
    "brand": "TCL",
    "name": "TCL 10 TABMAX 4G",
    "model": "9295G_EEA"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL 10 TABMAX 4G",
+   "model": "9295G_RU"
   }
  ],
  "T1_LITE": [
@@ -177040,6 +177095,13 @@
    "brand": "Tecno",
    "name": "CAMON 16 S",
    "model": "TECNO CD6j"
+  }
+ ],
+ "TECNO-CG6j": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 17",
+   "model": "TECNO CG6j"
   }
  ],
  "TECNO-CA6": [
@@ -199526,6 +199588,23 @@
    "model": "NX907J"
   }
  ],
+ "P963F05": [
+  {
+   "brand": "ZTE",
+   "name": "Nubia 8011",
+   "model": "Nubia 8011"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE 8010",
+   "model": "ZTE 8010"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE 8010RU",
+   "model": "ZTE 8010RU"
+  }
+ ],
  "P731F50": [
   {
    "brand": "ZTE",
@@ -201728,18 +201807,6 @@
    "model": "ZTE V1050"
   }
  ],
- "P963F05": [
-  {
-   "brand": "ZTE",
-   "name": "ZTE 8010",
-   "model": "ZTE 8010"
-  },
-  {
-   "brand": "ZTE",
-   "name": "ZTE 8010RU",
-   "model": "ZTE 8010RU"
-  }
- ],
  "P963S05": [
   {
    "brand": "ZTE",
@@ -202626,6 +202693,11 @@
   {
    "brand": "Zebra",
    "name": "ET56",
+   "model": "ET56"
+  },
+  {
+   "brand": "Zebra",
+   "name": "ET56CA",
    "model": "ET56"
   }
  ],

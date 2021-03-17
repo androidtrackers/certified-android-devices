@@ -56749,6 +56749,13 @@
    "model": "Yellowstone"
   }
  ],
+ "Qualcomm SC7180 Chromebook": [
+  {
+   "brand": "Google",
+   "device": "trogdor_cheets",
+   "model": "trogdor"
+  }
+ ],
  "Rockchip RK3288 Chromebook": [
   {
    "brand": "Google",
@@ -116381,6 +116388,11 @@
    "brand": "Multilaser",
    "device": "Multilaser_E",
    "model": "Multilaser_E"
+  },
+  {
+   "brand": "Multilaser",
+   "device": "Multilaser_E_A10",
+   "model": "Multilaser_E"
   }
  ],
  "Multilaser E Lite": [
@@ -133401,6 +133413,13 @@
    "model": "PMT4208_3G_EEA"
   }
  ],
+ "PMT4208_3G_E_RU": [
+  {
+   "brand": "Prestigio",
+   "device": "TL80A15G",
+   "model": "PMT4208_3G_E_RU"
+  }
+ ],
  "PMT4227_3G_RU": [
   {
    "brand": "Prestigio",
@@ -135199,6 +135218,27 @@
    "brand": "QMobile",
    "device": "QMobile_QNote",
    "model": "QMobile QNote"
+  }
+ ],
+ "QTab_Y1": [
+  {
+   "brand": "QMobile",
+   "device": "QTab_Y1",
+   "model": "QTab Y1"
+  }
+ ],
+ "QTab_Y2": [
+  {
+   "brand": "QMobile",
+   "device": "QTab_Y2",
+   "model": "QTab Y2"
+  }
+ ],
+ "QTab_Y3": [
+  {
+   "brand": "QMobile",
+   "device": "QTab_Y3",
+   "model": "QTab Y3"
   }
  ],
  "Qmobile S8 Plus": [
@@ -154877,6 +154917,13 @@
    "model": "2K Smart TV"
   }
  ],
+ "Sceptre": [
+  {
+   "brand": "Sceptre",
+   "device": "gangbyeon",
+   "model": "4K Smart TV"
+  }
+ ],
  "TATUNG": [
   {
    "brand": "Sceptre",
@@ -165434,6 +165481,13 @@
    "model": "Smart TV Pro"
   }
  ],
+ "C02_4K_US": [
+  {
+   "brand": "TCL",
+   "device": "BeyondTV",
+   "model": "Smart TV"
+  }
+ ],
  "GO5c": [
   {
    "brand": "TCL",
@@ -165645,6 +165699,11 @@
    "brand": "TCL",
    "device": "Transformer_4G",
    "model": "9295G_EEA"
+  },
+  {
+   "brand": "TCL",
+   "device": "Transformer_4G",
+   "model": "9295G_RU"
   }
  ],
  "TCL 10L": [
@@ -174714,6 +174773,13 @@
    "brand": "Tecno",
    "device": "TECNO-CD6j",
    "model": "TECNO CD6j"
+  }
+ ],
+ "CAMON 17": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-CG6j",
+   "model": "TECNO CG6j"
   }
  ],
  "CAMON C7": [
@@ -195782,6 +195848,13 @@
    "model": "NX907J"
   }
  ],
+ "Nubia 8011": [
+  {
+   "brand": "ZTE",
+   "device": "P963F05",
+   "model": "Nubia 8011"
+  }
+ ],
  "Nubia N11": [
   {
    "brand": "ZTE",
@@ -199980,6 +200053,13 @@
   {
    "brand": "Zebra",
    "device": "ET56S",
+   "model": "ET56"
+  }
+ ],
+ "ET56CA": [
+  {
+   "brand": "Zebra",
+   "device": "ET56L",
    "model": "ET56"
   }
  ],
