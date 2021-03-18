@@ -32918,6 +32918,11 @@
  ],
  "G-Guard": [
   {
+   "device": "shibuya",
+   "name": "G GuardTV",
+   "model": "G GuardTV"
+  },
+  {
    "device": "hamamatsucho",
    "name": "fushan_Guard",
    "model": "Smart TV"
@@ -86942,6 +86947,11 @@
    "model": "moto g stylus (XT2115DL)"
   },
   {
+   "device": "caprip",
+   "name": "moto g(30)",
+   "model": "moto g(30)"
+  },
+  {
    "device": "ali",
    "name": "moto g(6)",
    "model": "XT1925-10"
@@ -96703,6 +96713,13 @@
    "device": "P9001",
    "name": "P9001",
    "model": "P9001"
+  }
+ ],
+ "PRISMPLUS": [
+  {
+   "device": "shibuya",
+   "name": "Prismplus TV",
+   "model": "Prismplus TV"
   }
  ],
  "PROGRACE": [
@@ -121258,6 +121275,11 @@
    "model": "AI PONT"
   },
   {
+   "device": "shibuya",
+   "name": "SANSUITV",
+   "model": "SANSUITV"
+  },
+  {
    "device": "yeongdeungpo",
    "name": "USA",
    "model": "AiPlus4K"
@@ -130436,6 +130458,16 @@
    "device": "Transformer",
    "name": "TCL 10 TABMAX",
    "model": "9296G"
+  },
+  {
+   "device": "Transformer",
+   "name": "TCL 10 TABMAX",
+   "model": "9296G_EEA"
+  },
+  {
+   "device": "Transformer",
+   "name": "TCL 10 TABMAX",
+   "model": "9296G_RU"
   },
   {
    "device": "Transformer",
@@ -157652,6 +157684,11 @@
    "device": "NX659J-RU",
    "name": "NX659J",
    "model": "NX659J"
+  },
+  {
+   "device": "NX669J",
+   "name": "NX669J",
+   "model": "NX669J"
   },
   {
    "device": "NX907J",

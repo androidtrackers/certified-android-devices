@@ -52450,6 +52450,13 @@
    "model": "VIEWPAD M10M"
   }
  ],
+ "G GuardTV": [
+  {
+   "brand": "G-Guard",
+   "device": "shibuya",
+   "model": "G GuardTV"
+  }
+ ],
  "fushan_Guard": [
   {
    "brand": "G-Guard",
@@ -114883,6 +114890,13 @@
    "model": "moto g stylus (XT2115DL)"
   }
  ],
+ "moto g(30)": [
+  {
+   "brand": "Motorola",
+   "device": "caprip",
+   "model": "moto g(30)"
+  }
+ ],
  "moto g(6)": [
   {
    "brand": "Motorola",
@@ -126475,6 +126489,13 @@
    "brand": "PORTFOLIO",
    "device": "P9001",
    "model": "P9001"
+  }
+ ],
+ "Prismplus TV": [
+  {
+   "brand": "PRISMPLUS",
+   "device": "shibuya",
+   "model": "Prismplus TV"
   }
  ],
  "K726": [
@@ -154823,6 +154844,13 @@
    "model": "AI PONT"
   }
  ],
+ "SANSUITV": [
+  {
+   "brand": "Sansui TV",
+   "device": "shibuya",
+   "model": "SANSUITV"
+  }
+ ],
  "55CE6139M1": [
   {
    "brand": "Sanyo",
@@ -165667,6 +165695,16 @@
    "brand": "TCL",
    "device": "Transformer",
    "model": "9296G"
+  },
+  {
+   "brand": "TCL",
+   "device": "Transformer",
+   "model": "9296G_EEA"
+  },
+  {
+   "brand": "TCL",
+   "device": "Transformer",
+   "model": "9296G_RU"
   },
   {
    "brand": "TCL",
@@ -195839,6 +195877,13 @@
    "brand": "ZTE",
    "device": "NX659J-RU",
    "model": "NX659J"
+  }
+ ],
+ "NX669J": [
+  {
+   "brand": "ZTE",
+   "device": "NX669J",
+   "model": "NX669J"
   }
  ],
  "NX907J": [

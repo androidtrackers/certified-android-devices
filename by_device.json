@@ -6326,6 +6326,11 @@
    "model": "EcostarTV"
   },
   {
+   "brand": "G-Guard",
+   "name": "G GuardTV",
+   "model": "G GuardTV"
+  },
+  {
    "brand": "Itel",
    "name": "itel TV",
    "model": "itel TV"
@@ -6356,9 +6361,19 @@
    "model": "OrientTV"
   },
   {
+   "brand": "PRISMPLUS",
+   "name": "Prismplus TV",
+   "model": "Prismplus TV"
+  },
+  {
    "brand": "Panasonic",
    "name": "GS655",
    "model": "GS655"
+  },
+  {
+   "brand": "Sansui TV",
+   "name": "SANSUITV",
+   "model": "SANSUITV"
   },
   {
    "brand": "Sanyo",
@@ -114100,6 +114115,13 @@
    "model": "moto g stylus (XT2115DL)"
   }
  ],
+ "caprip": [
+  {
+   "brand": "Motorola",
+   "name": "moto g(30)",
+   "model": "moto g(30)"
+  }
+ ],
  "ali": [
   {
    "brand": "Motorola",
@@ -168310,6 +168332,16 @@
   {
    "brand": "TCL",
    "name": "TCL 10 TABMAX",
+   "model": "9296G_EEA"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL 10 TABMAX",
+   "model": "9296G_RU"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL 10 TABMAX",
    "model": "9296G_TR"
   }
  ],
@@ -199579,6 +199611,13 @@
    "brand": "ZTE",
    "name": "NX659J",
    "model": "NX659J"
+  }
+ ],
+ "NX669J": [
+  {
+   "brand": "ZTE",
+   "name": "NX669J",
+   "model": "NX669J"
   }
  ],
  "NX907J": [

@@ -46367,6 +46367,13 @@
    "device": "M10M"
   }
  ],
+ "G GuardTV": [
+  {
+   "brand": "G-Guard",
+   "name": "G GuardTV",
+   "device": "shibuya"
+  }
+ ],
  "HiSmartTV A4": [
   {
    "brand": "G-Guard",
@@ -117147,6 +117154,13 @@
    "device": "minsk"
   }
  ],
+ "moto g(30)": [
+  {
+   "brand": "Motorola",
+   "name": "moto g(30)",
+   "device": "caprip"
+  }
+ ],
  "XT1925-10": [
   {
    "brand": "Motorola",
@@ -129299,6 +129313,13 @@
    "brand": "PORTFOLIO",
    "name": "P9001",
    "device": "P9001"
+  }
+ ],
+ "Prismplus TV": [
+  {
+   "brand": "PRISMPLUS",
+   "name": "Prismplus TV",
+   "device": "shibuya"
   }
  ],
  "K726": [
@@ -161715,6 +161736,13 @@
    "device": "ETAB_I7043G_VP3"
   }
  ],
+ "SANSUITV": [
+  {
+   "brand": "Sansui TV",
+   "name": "SANSUITV",
+   "device": "shibuya"
+  }
+ ],
  "CEM1": [
   {
    "brand": "Sanyo",
@@ -173331,6 +173359,20 @@
   }
  ],
  "9296G": [
+  {
+   "brand": "TCL",
+   "name": "TCL 10 TABMAX",
+   "device": "Transformer"
+  }
+ ],
+ "9296G_EEA": [
+  {
+   "brand": "TCL",
+   "name": "TCL 10 TABMAX",
+   "device": "Transformer"
+  }
+ ],
+ "9296G_RU": [
   {
    "brand": "TCL",
    "name": "TCL 10 TABMAX",
@@ -208233,6 +208275,13 @@
    "brand": "ZTE",
    "name": "Red Magic 5G",
    "device": "NX659J-EEA"
+  }
+ ],
+ "NX669J": [
+  {
+   "brand": "ZTE",
+   "name": "NX669J",
+   "device": "NX669J"
   }
  ],
  "NX907J": [

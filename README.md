@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-03-17
+Last sync is 2021-03-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6340,6 +6340,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Future Mobile Technology|netsurferDUAL 7|FMT-NM7116-01|FMT-NM7116-01|
 |Fxtec|Fxtec QX1000|QX1000|QX1000|
 |G Y P NEW TREE SA|VIEWPAD M10M|M10M|VIEWPAD M10M|
+|G-Guard|G GuardTV|shibuya|G GuardTV|
 |G-Guard|fushan_Guard|hamamatsucho|Smart TV|
 |G-Guard|xiaoyushan_emG|xiaoyushan|HiSmartTV A4|
 |G-TOUCH|SPEED_2021|SPEED_2021|SPEED_2021|
@@ -16934,6 +16935,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g stylus (2021)|minsk|moto g stylus|
 |Motorola|moto g stylus (2021)|minsk|moto g stylus (2021)|
 |Motorola|moto g stylus (2021)|minsk|moto g stylus (XT2115DL)|
+|Motorola|moto g(30)|caprip|moto g(30)|
 |Motorola|moto g(6)|ali|XT1925-10|
 |Motorola|moto g(6)|ali|moto g(6)|
 |Motorola|moto g(6)|ali|moto g(6) (XT1925DL)|
@@ -18817,6 +18819,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POPTEL|V10|V10|V10|
 |POPTEL|V9|V9|V9|
 |PORTFOLIO|P9001|P9001|P9001|
+|PRISMPLUS|Prismplus TV|shibuya|Prismplus TV|
 |PROGRACE|K726|K726|K726|
 |PS_Mobile|Neo_Pro|Neo_Pro|Neo Pro|
 |PS_Mobile|neo|neo|neo|
@@ -23650,6 +23653,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sansui|"Tab 7"""|ETAB_I7043G_VP3|ETAB_I7043G_VP3|
 |Sansui TV|Canada|yeongdeungpo|AiPlus4K|
 |Sansui TV|JSC43ASUHD|samseong|AI PONT|
+|Sansui TV|SANSUITV|shibuya|SANSUITV|
 |Sansui TV|USA|yeongdeungpo|AiPlus4K|
 |Sanyo|55CE6139M1|CEM1|CEM1|
 |Sanyo|Android TV|R1|ATV R1|
@@ -25436,6 +25440,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 10 SE|Oakland|T766U|
 |TCL|TCL 10 SE|Oakland|T766U_EEA|
 |TCL|TCL 10 TABMAX|Transformer|9296G|
+|TCL|TCL 10 TABMAX|Transformer|9296G_EEA|
+|TCL|TCL 10 TABMAX|Transformer|9296G_RU|
 |TCL|TCL 10 TABMAX|Transformer|9296G_TR|
 |TCL|TCL 10 TABMAX|Transformer_WIFI|9296X|
 |TCL|TCL 10 TABMAX|Transformer_WIFI|9296X_EEA|
@@ -30738,6 +30744,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|NX629J|NX629J|NX629J|
 |ZTE|NX629J|NX629J-EEA|NX629J|
 |ZTE|NX659J|NX659J-RU|NX659J|
+|ZTE|NX669J|NX669J|NX669J|
 |ZTE|NX907J|NX907J|NX907J|
 |ZTE|Nubia 8011|P963F05|Nubia 8011|
 |ZTE|Nubia N11|P731F50|Nubia N11|
