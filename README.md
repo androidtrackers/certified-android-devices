@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-03-18
+Last sync is 2021-03-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7875,6 +7875,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|D2-961G|D2-961G|D2-961G|
 |Haier|EU|hanyang|HEC Android TV|
 |Haier|EU|nippori|HEC Android TV 2K|
+|Haier|Ecuador|hanyang|EVVO 4K Android TV|
+|Haier|Ecuador|hanyang|INNOVA 4K Android TV|
 |Haier|Elegance E13|E13|E13|
 |Haier|Elegance E7|E7|E7|
 |Haier|Elegance E9|E9|E9|
@@ -10646,6 +10648,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|E601F|E601F|E601F|
 |Hyundai|E602|E602|E602|
 |Hyundai|E603|E603|E603|
+|Hyundai|Ecuador|hanyang|HYUNDAI 4K Android TV|
 |Hyundai|Eternity A24|A25024L|A25024L|
 |Hyundai|Eternity G22|G25022K|G25022K|
 |Hyundai|Eternity G23|G25523K|G25523K|
@@ -17175,6 +17178,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|Multilaser E|Multilaser_E|Multilaser_E|
 |Multilaser|Multilaser E|Multilaser_E_A10|Multilaser_E|
 |Multilaser|Multilaser E Lite|Multilaser_E_Lite|Multilaser_E_Lite|
+|Multilaser|Multilaser Elite 2|Multilaser_Elite_2|Multilaser_Elite_2|
+|Multilaser|Multilaser F|Multilaser_F_A10|Multilaser_F|
 |Multilaser|Multilaser F Pro|Multilaser_F_Pro|Multilaser_F_Pro|
 |Multilaser|Multilaser G|Multilaser_G|Multilaser_G|
 |Multilaser|Multilaser G Max|Multilaser_G_Max|Multilaser_G_Max|
@@ -25336,11 +25341,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|Z18|Z18|Symphony Z18|
 |Symphony|Z20|Z20|Z20|
 |Symphony|Z25|Z25|Z25|
-|Symphony|Z25|Z35|Z35|
 |Symphony|Z28|Z28|Z28|
 |Symphony|Z30|Z30|Z30|
 |Symphony|Z30 pro|Z30_pro|Z30 pro|
 |Symphony|Z32|Z32|Symphony Z32|
+|Symphony|Z35|Z35|Z35|
 |Symphony|Z40|Z40|Z40|
 |Symphony|ZVII|ZVII|ZVII|
 |Symphony|ZVIII|ZVIII|ZVIII|
@@ -25461,6 +25466,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 20E|HONG_KONG|6125D|
 |TCL|TCL 20E|HONG_KONG|6125F|
 |TCL|TCL 20L|Richland|T774B|
+|TCL|TCL 20L|Richland|T774H|
 |TCL|TCL 20L+|Richland_Pro|T775B|
 |TCL|TCL 20L+|Richland_Pro|T775H|
 |TCL|TCL 20S|Miami_Pro|T773O|
@@ -27286,6 +27292,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 5|TECNO-KD7h|TECNO KD7S|
 |Tecno|TECNO SPARK 5|TECNO-KD7h|TECNO KD7h|
 |Tecno|TECNO SPARK 5 Pro|TECNO-KD7|TECNO KD7|
+|Tecno|TECNO SPARK 7|TECNO-KF6|TECNO KF6|
+|Tecno|TECNO SPARK 7|TECNO-KF6h|TECNO KF6h|
+|Tecno|TECNO SPARK 7|TECNO-KF6j|TECNO KF6j|
 |Tecno|TECNO SPARK 7 Pro|TECNO-KF8|TECNO KF8|
 |Tecno|TECNO SPARK Go|TECNO-KC1|TECNO KC1|
 |Tecno|TECNO Tab|TECNO-P704|TECNO P704|
@@ -30149,6 +30158,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|901ZT|P450A01|901ZT|
 |ZTE|902ZT|Z8851S|902ZT|
 |ZTE|A001ZT|Z6202S|A001ZT|
+|ZTE|A003ZT|Z6650S|A003ZT|
 |ZTE|A1 Alpha|P963F01D|A1 Alpha|
 |ZTE|A1P|ailsa|A1P|
 |ZTE|A1R|billy|A1|

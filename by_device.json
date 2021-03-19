@@ -9616,6 +9616,16 @@
   },
   {
    "brand": "Haier",
+   "name": "Ecuador",
+   "model": "EVVO 4K Android TV"
+  },
+  {
+   "brand": "Haier",
+   "name": "Ecuador",
+   "model": "INNOVA 4K Android TV"
+  },
+  {
+   "brand": "Haier",
    "name": "Latin America",
    "model": "Haier 4K Android TV"
   },
@@ -9623,6 +9633,11 @@
    "brand": "Haier",
    "name": "South Asia",
    "model": "MAGELITE Android TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Ecuador",
+   "model": "HYUNDAI 4K Android TV"
   },
   {
    "brand": "Kogan",
@@ -115647,6 +115662,20 @@
    "model": "Multilaser_E_Lite"
   }
  ],
+ "Multilaser_Elite_2": [
+  {
+   "brand": "Multilaser",
+   "name": "Multilaser Elite 2",
+   "model": "Multilaser_Elite_2"
+  }
+ ],
+ "Multilaser_F_A10": [
+  {
+   "brand": "Multilaser",
+   "name": "Multilaser F",
+   "model": "Multilaser_F"
+  }
+ ],
  "Multilaser_F_Pro": [
   {
    "brand": "Multilaser",
@@ -167581,13 +167610,6 @@
    "model": "Z20"
   }
  ],
- "Z35": [
-  {
-   "brand": "Symphony",
-   "name": "Z25",
-   "model": "Z35"
-  }
- ],
  "Z28": [
   {
    "brand": "Symphony",
@@ -167614,6 +167636,13 @@
    "brand": "Symphony",
    "name": "Z32",
    "model": "Symphony Z32"
+  }
+ ],
+ "Z35": [
+  {
+   "brand": "Symphony",
+   "name": "Z35",
+   "model": "Z35"
   }
  ],
  "ZVII": [
@@ -168484,6 +168513,11 @@
    "brand": "TCL",
    "name": "TCL 20L",
    "model": "T774B"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL 20L",
+   "model": "T774H"
   }
  ],
  "Richland_Pro": [
@@ -178339,6 +178373,27 @@
    "brand": "Tecno",
    "name": "TECNO SPARK 5 Pro",
    "model": "TECNO KD7"
+  }
+ ],
+ "TECNO-KF6": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 7",
+   "model": "TECNO KF6"
+  }
+ ],
+ "TECNO-KF6h": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 7",
+   "model": "TECNO KF6h"
+  }
+ ],
+ "TECNO-KF6j": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 7",
+   "model": "TECNO KF6j"
   }
  ],
  "TECNO-KF8": [
@@ -196170,6 +196225,13 @@
    "brand": "ZTE",
    "name": "A001ZT",
    "model": "A001ZT"
+  }
+ ],
+ "Z6650S": [
+  {
+   "brand": "ZTE",
+   "name": "A003ZT",
+   "model": "A003ZT"
   }
  ],
  "P963F01D": [

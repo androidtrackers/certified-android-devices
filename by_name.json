@@ -26675,6 +26675,21 @@
    "brand": "Blaupunkt",
    "device": "nippori",
    "model": "BP 2K Android TV"
+  },
+  {
+   "brand": "Haier",
+   "device": "hanyang",
+   "model": "EVVO 4K Android TV"
+  },
+  {
+   "brand": "Haier",
+   "device": "hanyang",
+   "model": "INNOVA 4K Android TV"
+  },
+  {
+   "brand": "Hyundai",
+   "device": "hanyang",
+   "model": "HYUNDAI 4K Android TV"
   }
  ],
  "Endeavour101": [
@@ -98310,11 +98325,6 @@
    "brand": "Symphony",
    "device": "Z25",
    "model": "Z25"
-  },
-  {
-   "brand": "Symphony",
-   "device": "Z35",
-   "model": "Z35"
   }
  ],
  "Z3": [
@@ -116414,6 +116424,20 @@
    "brand": "Multilaser",
    "device": "Multilaser_E_Lite",
    "model": "Multilaser_E_Lite"
+  }
+ ],
+ "Multilaser Elite 2": [
+  {
+   "brand": "Multilaser",
+   "device": "Multilaser_Elite_2",
+   "model": "Multilaser_Elite_2"
+  }
+ ],
+ "Multilaser F": [
+  {
+   "brand": "Multilaser",
+   "device": "Multilaser_F_A10",
+   "model": "Multilaser_F"
   }
  ],
  "Multilaser F Pro": [
@@ -165101,6 +165125,13 @@
    "model": "Symphony Z32"
   }
  ],
+ "Z35": [
+  {
+   "brand": "Symphony",
+   "device": "Z35",
+   "model": "Z35"
+  }
+ ],
  "ZVII": [
   {
    "brand": "Symphony",
@@ -165814,6 +165845,11 @@
    "brand": "TCL",
    "device": "Richland",
    "model": "T774B"
+  },
+  {
+   "brand": "TCL",
+   "device": "Richland",
+   "model": "T774H"
   }
  ],
  "TCL 20L+": [
@@ -175907,6 +175943,23 @@
    "brand": "Tecno",
    "device": "TECNO-KD7",
    "model": "TECNO KD7"
+  }
+ ],
+ "TECNO SPARK 7": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KF6",
+   "model": "TECNO KF6"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KF6h",
+   "model": "TECNO KF6h"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KF6j",
+   "model": "TECNO KF6j"
   }
  ],
  "TECNO SPARK 7 Pro": [
@@ -192232,6 +192285,13 @@
    "brand": "ZTE",
    "device": "Z6202S",
    "model": "A001ZT"
+  }
+ ],
+ "A003ZT": [
+  {
+   "brand": "ZTE",
+   "device": "Z6650S",
+   "model": "A003ZT"
   }
  ],
  "A1 Alpha": [

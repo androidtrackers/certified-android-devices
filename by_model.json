@@ -56911,6 +56911,20 @@
    "device": "nippori"
   }
  ],
+ "EVVO 4K Android TV": [
+  {
+   "brand": "Haier",
+   "name": "Ecuador",
+   "device": "hanyang"
+  }
+ ],
+ "INNOVA 4K Android TV": [
+  {
+   "brand": "Haier",
+   "name": "Ecuador",
+   "device": "hanyang"
+  }
+ ],
  "E13": [
   {
    "brand": "Haier",
@@ -75341,6 +75355,18 @@
    "device": "E603"
   }
  ],
+ "HYUNDAI 4K Android TV": [
+  {
+   "brand": "Hyundai",
+   "name": "Ecuador",
+   "device": "hanyang"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Italy",
+   "device": "yeongdeungpo"
+  }
+ ],
  "A25024L": [
   {
    "brand": "Hyundai",
@@ -75596,13 +75622,6 @@
    "brand": "Hyundai",
    "name": "Italy",
    "device": "tamachi"
-  }
- ],
- "HYUNDAI 4K Android TV": [
-  {
-   "brand": "Hyundai",
-   "name": "Italy",
-   "device": "yeongdeungpo"
   }
  ],
  "E505": [
@@ -118651,6 +118670,25 @@
    "device": "Multilaser_E_Lite"
   }
  ],
+ "Multilaser_Elite_2": [
+  {
+   "brand": "Multilaser",
+   "name": "Multilaser Elite 2",
+   "device": "Multilaser_Elite_2"
+  }
+ ],
+ "Multilaser_F": [
+  {
+   "brand": "Multilaser",
+   "name": "Multilaser F",
+   "device": "Multilaser_F_A10"
+  },
+  {
+   "brand": "Multilaser",
+   "name": "Multilaser_F",
+   "device": "Multilaser_F"
+  }
+ ],
  "Multilaser_F_Pro": [
   {
    "brand": "Multilaser",
@@ -118698,13 +118736,6 @@
    "brand": "Multilaser",
    "name": "Multilaser H",
    "device": "Multilaser_H"
-  }
- ],
- "Multilaser_F": [
-  {
-   "brand": "Multilaser",
-   "name": "Multilaser_F",
-   "device": "Multilaser_F"
   }
  ],
  "OBASMART_3": [
@@ -172693,13 +172724,6 @@
    "device": "Z20"
   }
  ],
- "Z35": [
-  {
-   "brand": "Symphony",
-   "name": "Z25",
-   "device": "Z35"
-  }
- ],
  "Z28": [
   {
    "brand": "Symphony",
@@ -172726,6 +172750,13 @@
    "brand": "Symphony",
    "name": "Z32",
    "device": "Z32"
+  }
+ ],
+ "Z35": [
+  {
+   "brand": "Symphony",
+   "name": "Z35",
+   "device": "Z35"
   }
  ],
  "ZVII": [
@@ -173506,6 +173537,13 @@
   }
  ],
  "T774B": [
+  {
+   "brand": "TCL",
+   "name": "TCL 20L",
+   "device": "Richland"
+  }
+ ],
+ "T774H": [
   {
    "brand": "TCL",
    "name": "TCL 20L",
@@ -185883,6 +185921,27 @@
    "brand": "Tecno",
    "name": "TECNO SPARK 5 Pro",
    "device": "TECNO-KD7"
+  }
+ ],
+ "TECNO KF6": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 7",
+   "device": "TECNO-KF6"
+  }
+ ],
+ "TECNO KF6h": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 7",
+   "device": "TECNO-KF6h"
+  }
+ ],
+ "TECNO KF6j": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 7",
+   "device": "TECNO-KF6j"
   }
  ],
  "TECNO KF8": [
@@ -204157,6 +204216,13 @@
    "brand": "ZTE",
    "name": "A001ZT",
    "device": "Z6202S"
+  }
+ ],
+ "A003ZT": [
+  {
+   "brand": "ZTE",
+   "name": "A003ZT",
+   "device": "Z6650S"
   }
  ],
  "A1 Alpha": [
