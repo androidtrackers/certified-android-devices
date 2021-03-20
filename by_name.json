@@ -16684,6 +16684,11 @@
    "model": "FS8002"
   },
   {
+   "brand": "TCL",
+   "device": "T1_LE",
+   "model": "T770K"
+  },
+  {
    "brand": "Teeno",
    "device": "A1_EEA",
    "model": "A1"
@@ -21069,6 +21074,13 @@
    "brand": "Venus",
    "device": "V6",
    "model": "V6"
+  }
+ ],
+ "V60": [
+  {
+   "brand": "Azumi",
+   "device": "Azumi_V60",
+   "model": "V60"
   }
  ],
  "Pixavi Phone": [
@@ -26687,9 +26699,24 @@
    "model": "INNOVA 4K Android TV"
   },
   {
+   "brand": "Haier",
+   "device": "nippori",
+   "model": "EVVO 2K Android TV"
+  },
+  {
+   "brand": "Haier",
+   "device": "nippori",
+   "model": "INNOVA 2K Android TV"
+  },
+  {
    "brand": "Hyundai",
    "device": "hanyang",
    "model": "HYUNDAI 4K Android TV"
+  },
+  {
+   "brand": "Hyundai",
+   "device": "nippori",
+   "model": "HYUNDAI 2K Android TV"
   }
  ],
  "Endeavour101": [

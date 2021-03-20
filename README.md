@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-03-19
+Last sync is 2021-03-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2049,6 +2049,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|V5_AC25|Azumi_V5_AC25|V5|
 |Azumi|V5_AC25B|Azumi_V5_AC25B|V5|
 |Azumi|V6|Azumi_V6|Azumi V6|
+|Azumi|V60|Azumi_V60|V60|
 |BARTEC|Pixavi Phone|PixaviPhone|Pixavi Phone|
 |BARTEC|Pixavi Thermal|PixaviThermal|Pixavi Thermal|
 |BAYKUS|BKM10|BKM10|BKM10|
@@ -7877,6 +7878,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|EU|nippori|HEC Android TV 2K|
 |Haier|Ecuador|hanyang|EVVO 4K Android TV|
 |Haier|Ecuador|hanyang|INNOVA 4K Android TV|
+|Haier|Ecuador|nippori|EVVO 2K Android TV|
+|Haier|Ecuador|nippori|INNOVA 2K Android TV|
 |Haier|Elegance E13|E13|E13|
 |Haier|Elegance E7|E7|E7|
 |Haier|Elegance E9|E9|E9|
@@ -10649,6 +10652,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|E602|E602|E602|
 |Hyundai|E603|E603|E603|
 |Hyundai|Ecuador|hanyang|HYUNDAI 4K Android TV|
+|Hyundai|Ecuador|nippori|HYUNDAI 2K Android TV|
 |Hyundai|Eternity A24|A25024L|A25024L|
 |Hyundai|Eternity G22|G25022K|G25022K|
 |Hyundai|Eternity G23|G25523K|G25523K|
@@ -25405,6 +25409,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TASKPHONE|T20|T20P|T20|
 |TBC (TW)|TATV_8000|TATV_8000|TATV-8000|
 |TCL|3T10 WIFI KDDI|Aquaman_10_KDDI|8194|
+|TCL|A1|T1_LE|T770K|
 |TCL|Beyond TV|BeyondTV|BeyondTV|
 |TCL|BeyondTV2|BeyondTV|BeyondTV2|
 |TCL|BeyondTV4|BeyondTV4|Smart TV Pro|

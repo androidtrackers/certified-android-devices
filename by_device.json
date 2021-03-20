@@ -9728,6 +9728,16 @@
   },
   {
    "brand": "Haier",
+   "name": "Ecuador",
+   "model": "EVVO 2K Android TV"
+  },
+  {
+   "brand": "Haier",
+   "name": "Ecuador",
+   "model": "INNOVA 2K Android TV"
+  },
+  {
+   "brand": "Haier",
    "name": "India",
    "model": "MAGELITE Android TV 2K"
   },
@@ -9740,6 +9750,11 @@
    "brand": "Haier",
    "name": "PA",
    "model": "Haitech Android TV 2K"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Ecuador",
+   "model": "HYUNDAI 2K Android TV"
   },
   {
    "brand": "Kogan",
@@ -17150,6 +17165,13 @@
    "brand": "Azumi",
    "name": "V6",
    "model": "Azumi V6"
+  }
+ ],
+ "Azumi_V60": [
+  {
+   "brand": "Azumi",
+   "name": "V60",
+   "model": "V60"
   }
  ],
  "PixaviPhone": [
@@ -167995,6 +168017,13 @@
    "brand": "TCL",
    "name": "3T10 WIFI KDDI",
    "model": "8194"
+  }
+ ],
+ "T1_LE": [
+  {
+   "brand": "TCL",
+   "name": "A1",
+   "model": "T770K"
   }
  ],
  "BeyondTV": [

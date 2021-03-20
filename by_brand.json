@@ -10527,6 +10527,11 @@
    "device": "Azumi_V6",
    "name": "V6",
    "model": "Azumi V6"
+  },
+  {
+   "device": "Azumi_V60",
+   "name": "V60",
+   "model": "V60"
   }
  ],
  "BARTEC": [
@@ -40799,6 +40804,16 @@
    "model": "INNOVA 4K Android TV"
   },
   {
+   "device": "nippori",
+   "name": "Ecuador",
+   "model": "EVVO 2K Android TV"
+  },
+  {
+   "device": "nippori",
+   "name": "Ecuador",
+   "model": "INNOVA 2K Android TV"
+  },
+  {
    "device": "E13",
    "name": "Elegance E13",
    "model": "E13"
@@ -54757,6 +54772,11 @@
    "device": "hanyang",
    "name": "Ecuador",
    "model": "HYUNDAI 4K Android TV"
+  },
+  {
+   "device": "nippori",
+   "name": "Ecuador",
+   "model": "HYUNDAI 2K Android TV"
   },
   {
    "device": "A25024L",
@@ -130283,6 +130303,11 @@
    "device": "Aquaman_10_KDDI",
    "name": "3T10 WIFI KDDI",
    "model": "8194"
+  },
+  {
+   "device": "T1_LE",
+   "name": "A1",
+   "model": "T770K"
   },
   {
    "device": "BeyondTV",

@@ -15719,6 +15719,13 @@
    "device": "Azumi_V6"
   }
  ],
+ "V60": [
+  {
+   "brand": "Azumi",
+   "name": "V60",
+   "device": "Azumi_V60"
+  }
+ ],
  "Pixavi Phone": [
   {
    "brand": "BARTEC",
@@ -56925,6 +56932,20 @@
    "device": "hanyang"
   }
  ],
+ "EVVO 2K Android TV": [
+  {
+   "brand": "Haier",
+   "name": "Ecuador",
+   "device": "nippori"
+  }
+ ],
+ "INNOVA 2K Android TV": [
+  {
+   "brand": "Haier",
+   "name": "Ecuador",
+   "device": "nippori"
+  }
+ ],
  "E13": [
   {
    "brand": "Haier",
@@ -75367,6 +75388,18 @@
    "device": "yeongdeungpo"
   }
  ],
+ "HYUNDAI 2K Android TV": [
+  {
+   "brand": "Hyundai",
+   "name": "Ecuador",
+   "device": "nippori"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Italy",
+   "device": "tamachi"
+  }
+ ],
  "A25024L": [
   {
    "brand": "Hyundai",
@@ -75615,13 +75648,6 @@
    "brand": "Hyundai",
    "name": "Hyundai_Home",
    "device": "Hyundai_Home"
-  }
- ],
- "HYUNDAI 2K Android TV": [
-  {
-   "brand": "Hyundai",
-   "name": "Italy",
-   "device": "tamachi"
   }
  ],
  "E505": [
@@ -173141,6 +173167,13 @@
    "brand": "TCL",
    "name": "3T10 WIFI KDDI",
    "device": "Aquaman_10_KDDI"
+  }
+ ],
+ "T770K": [
+  {
+   "brand": "TCL",
+   "name": "A1",
+   "device": "T1_LE"
   }
  ],
  "BeyondTV": [
