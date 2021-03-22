@@ -126443,6 +126443,27 @@
    "device": "OP4A77"
   }
  ],
+ "CPH2173": [
+  {
+   "brand": "Oppo",
+   "name": "Find X3 Pro",
+   "device": "OP4F57L1"
+  }
+ ],
+ "PEEM00": [
+  {
+   "brand": "Oppo",
+   "name": "Find X3 Pro 中国版",
+   "device": "OP4E3F"
+  }
+ ],
+ "PEDM00": [
+  {
+   "brand": "Oppo",
+   "name": "Find X3 中国版",
+   "device": "OP4E5D"
+  }
+ ],
  "X909T": [
   {
    "brand": "Oppo",

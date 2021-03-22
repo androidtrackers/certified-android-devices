@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-03-21
+Last sync is 2021-03-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -18377,6 +18377,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Find X2 Pro 中国版|OP4A7A|PDEM30|
 |Oppo|Find X2 中国版|OP4A77|PDEM10|
 |Oppo|Find X2 中国版|OP4A77|PDET10|
+|Oppo|Find X3 Pro|OP4F57L1|CPH2173|
+|Oppo|Find X3 Pro 中国版|OP4E3F|PEEM00|
+|Oppo|Find X3 中国版|OP4E5D|PEDM00|
 |Oppo|Find5|FIND5|X909|
 |Oppo|Find5|FIND5|X909T|
 |Oppo|K1|PBCM30|PBCM30|
