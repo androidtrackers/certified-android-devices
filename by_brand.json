@@ -75716,6 +75716,11 @@
    "model": "Lenovo TB-7306F"
   },
   {
+   "device": "7306X",
+   "name": "Lenovo Tab M7 (3rd Gen)",
+   "model": "Lenovo TB-7306X"
+  },
+  {
    "device": "7306V",
    "name": "Lenovo Tab M7 HD",
    "model": "Lenovo TB-7306V"
@@ -82767,6 +82772,11 @@
    "model": "IN_Note1"
   },
   {
+   "device": "E6746",
+   "name": "In1",
+   "model": "IN1"
+  },
+  {
    "device": "E7746",
    "name": "In_Note1",
    "model": "IN_Note1"
@@ -87805,6 +87815,11 @@
    "device": "ML_SO0G_M10_4G_PRO_PLUS",
    "name": "M10_4G_PRO",
    "model": "M10_4G_PRO"
+  },
+  {
+   "device": "ML_WI4A_M7_3G_A10",
+   "name": "M7 3G A10",
+   "model": "M7_3G_A10"
   },
   {
    "device": "ML-JI0G-M7-3G-PLUS",
@@ -99236,6 +99251,11 @@
    "model": "Philips S395"
   },
   {
+   "device": "guui",
+   "name": "Smart TV",
+   "model": "PHILIPS 4k TV"
+  },
+  {
    "device": "hino",
    "name": "Smart TV",
    "model": "PHILIPS TV"
@@ -107437,6 +107457,13 @@
    "device": "icube-830",
    "name": "icube-830",
    "model": "icube-830"
+  }
+ ],
+ "SKY EVO": [
+  {
+   "device": "HY40A",
+   "name": "SA100",
+   "model": "SA100"
   }
  ],
  "SMB Gadgets": [
@@ -124773,11 +124800,6 @@
    "model": "2K TV"
   },
   {
-   "device": "HY40A",
-   "name": "SA100",
-   "model": "SA100"
-  },
-  {
    "device": "grape",
    "name": "Skyworth",
    "model": "HPA02"
@@ -128917,6 +128939,11 @@
    "model": "ATV R2"
   },
   {
+   "device": "LAS",
+   "name": "LEAP-S1",
+   "model": "LEAP-S1"
+  },
+  {
    "device": "bangbae",
    "name": "Strong",
    "model": "Strong 4K Android TV"
@@ -130608,6 +130635,11 @@
    "device": "Austin",
    "name": "TCL 20 SE",
    "model": "T671H"
+  },
+  {
+   "device": "Austin",
+   "name": "TCL 20 SE",
+   "model": "T671O"
   },
   {
    "device": "HONG_KONG",
@@ -147658,6 +147690,11 @@
    "device": "PD1635",
    "name": "vivo X9s Plus",
    "model": "vivo X9s Plus"
+  },
+  {
+   "device": "Y11",
+   "name": "vivo Y11",
+   "model": "vivo Y11"
   },
   {
    "device": "Y22",

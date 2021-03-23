@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-03-22
+Last sync is 2021-03-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14754,6 +14754,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M7|7305I|Lenovo TB-7305I|
 |Lenovo|Lenovo Tab M7|7305X|Lenovo TB-7305X|
 |Lenovo|Lenovo Tab M7 (3rd Gen)|7306F|Lenovo TB-7306F|
+|Lenovo|Lenovo Tab M7 (3rd Gen)|7306X|Lenovo TB-7306X|
 |Lenovo|Lenovo Tab M7 HD|7306V|Lenovo TB-7306V|
 |Lenovo|Lenovo Tab M8|8505F|Lenovo TB-8505F|
 |Lenovo|Lenovo Tab M8|8505FS|Lenovo TB-8505FS|
@@ -16115,6 +16116,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Micromax|IN1b|E6523|Micromax E6523|
 |Micromax|IN1b|E7533|Micromax E7533|
 |Micromax|IN_Note1|E7746|IN_Note1|
+|Micromax|In1|E6746|IN1|
 |Micromax|In_Note1|E7746|IN_Note1|
 |Micromax|Infinity N Series N12|N8301|N8301|
 |Micromax|Ione Note|N8305|ione note|
@@ -17101,6 +17103,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M10A_Lite|ML_SO0A_M10A_Lite|M10A_Lite|
 |Multilaser|M10_4G_PRO|ML-SO0C_M10_4G_PRO_PLUS|M10_4G_PRO|
 |Multilaser|M10_4G_PRO|ML_SO0G_M10_4G_PRO_PLUS|M10_4G_PRO|
+|Multilaser|M7 3G A10|ML_WI4A_M7_3G_A10|M7_3G_A10|
 |Multilaser|M7 3G PLUS|ML-JI0G-M7-3G-PLUS|M7-3G-PLUS|
 |Multilaser|M7 3G PLUS|ML-JI11-M7_3G_PLUS|M7_3G_PLUS|
 |Multilaser|M7 3G PLUS|ML-JI31-M7-3G-PLUS|M7-3G-PLUS|
@@ -19314,6 +19317,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|S337|S337_BG|Philips S337|
 |Philips|S337|scx35_sp7731gea_hd|Philips S337|
 |Philips|S395|S395|Philips S395|
+|Philips|Smart TV|guui|PHILIPS 4k TV|
 |Philips|Smart TV|hino|PHILIPS TV|
 |Philips|Smart TV|sindap|PHILIPS 4K TV|
 |Philips|T8 PI7000|Tablet_8|PI7000|
@@ -20899,6 +20903,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SK Telesys|WA966|u966e_2|WA966|
 |SK Telesys|WA978|u978e_1|WA978|
 |SK Telesys|icube-830|icube-830|icube-830|
+|SKY EVO|SA100|HY40A|SA100|
 |SMB Gadgets|SMB8112BK|SMB8112BK|SMB8112BK|
 |SMT_LW|CRUSH X565|CRUSH_X565|CRUSH_X565|
 |SMT_LW|X450|X450|X450-Locked to Life Wireless|
@@ -24335,7 +24340,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Skyworth|METZ 2K TV|shinagawa|METZ 2K TV|
 |Skyworth|North America|globe_na|globe|
 |Skyworth|North America|shimbashi|2K TV|
-|Skyworth|SA100|HY40A|SA100|
 |Skyworth|Skyworth|grape|HPA02|
 |Skyworth|South Africa|open_fhd_sa|open_fhd|
 |Skyworth|South America|globe_sa|globe|
@@ -25145,6 +25149,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stream|SHARK|SHARK|SHARK|
 |Strong|Android TV|R1|ATV R1|
 |Strong|Android TV|R2|ATV R2|
+|Strong|LEAP-S1|LAS|LEAP-S1|
 |Strong|Strong|bangbae|Strong 4K Android TV|
 |Strong|Strong|komagome|Strong 2K Android TV|
 |Strong|Strong-ZWL|HP40A1|SKWHP40A-ZWL|
@@ -25470,6 +25475,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 20 SE|Austin|T671E|
 |TCL|TCL 20 SE|Austin|T671F|
 |TCL|TCL 20 SE|Austin|T671H|
+|TCL|TCL 20 SE|Austin|T671O|
 |TCL|TCL 20E|HONG_KONG|6125A|
 |TCL|TCL 20E|HONG_KONG|6125D|
 |TCL|TCL 20E|HONG_KONG|6125F|
@@ -28786,6 +28792,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo X9s|PD1616B|vivo X9s|
 |Vivo|vivo X9s Plus|PD1635|vivo PD1635|
 |Vivo|vivo X9s Plus|PD1635|vivo X9s Plus|
+|Vivo|vivo Y11|Y11|vivo Y11|
 |Vivo|vivo Y22|Y22|vivo Y22|
 |Vivo|vivo Y28|Y28|vivo Y28|
 |Vivo|vivo Y65|1719|vivo 1719|

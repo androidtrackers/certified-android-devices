@@ -102804,6 +102804,13 @@
    "device": "7306F"
   }
  ],
+ "Lenovo TB-7306X": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M7 (3rd Gen)",
+   "device": "7306X"
+  }
+ ],
  "Lenovo TB-7306V": [
   {
    "brand": "Lenovo",
@@ -111766,6 +111773,13 @@
    "device": "E7746"
   }
  ],
+ "IN1": [
+  {
+   "brand": "Micromax",
+   "name": "In1",
+   "device": "E6746"
+  }
+ ],
  "N8301": [
   {
    "brand": "Micromax",
@@ -118159,6 +118173,28 @@
    "device": "ML_SO0A_M10A_Lite"
   }
  ],
+ "M7_3G_A10": [
+  {
+   "brand": "Multilaser",
+   "name": "M7 3G A10",
+   "device": "ML_WI4A_M7_3G_A10"
+  },
+  {
+   "brand": "Multilaser",
+   "name": "M7_3G_A10",
+   "device": "ML_WI1A_M7_3G_A10"
+  },
+  {
+   "brand": "Multilaser",
+   "name": "M7_3G_A10",
+   "device": "ML_WI2A_M7_3G_A10"
+  },
+  {
+   "brand": "Multilaser",
+   "name": "M7_3G_A10",
+   "device": "ML_WI3A_M7_3G_A10"
+  }
+ ],
  "M7-3G-PLUS": [
   {
    "brand": "Multilaser",
@@ -118315,23 +118351,6 @@
    "brand": "Multilaser",
    "name": "M7S_PLUS",
    "device": "ML-SO07-M7S-PLUS"
-  }
- ],
- "M7_3G_A10": [
-  {
-   "brand": "Multilaser",
-   "name": "M7_3G_A10",
-   "device": "ML_WI1A_M7_3G_A10"
-  },
-  {
-   "brand": "Multilaser",
-   "name": "M7_3G_A10",
-   "device": "ML_WI2A_M7_3G_A10"
-  },
-  {
-   "brand": "Multilaser",
-   "name": "M7_3G_A10",
-   "device": "ML_WI3A_M7_3G_A10"
   }
  ],
  "M7s Dual ML03": [
@@ -132493,6 +132512,11 @@
    "brand": "Philips",
    "name": "Philips SmartTV",
    "device": "freesia"
+  },
+  {
+   "brand": "Philips",
+   "name": "Smart TV",
+   "device": "guui"
   }
  ],
  "Philips Xenium V787": [
@@ -142870,6 +142894,13 @@
    "brand": "SK Telesys",
    "name": "icube-830",
    "device": "icube-830"
+  }
+ ],
+ "SA100": [
+  {
+   "brand": "SKY EVO",
+   "name": "SA100",
+   "device": "HY40A"
   }
  ],
  "SMB8112BK": [
@@ -166253,13 +166284,6 @@
    "device": "shimbashi"
   }
  ],
- "SA100": [
-  {
-   "brand": "Skyworth",
-   "name": "SA100",
-   "device": "HY40A"
-  }
- ],
  "HPA02": [
   {
    "brand": "Skyworth",
@@ -171498,6 +171522,13 @@
    "device": "SHARK"
   }
  ],
+ "LEAP-S1": [
+  {
+   "brand": "Strong",
+   "name": "LEAP-S1",
+   "device": "LAS"
+  }
+ ],
  "Strong 4K Android TV": [
   {
    "brand": "Strong",
@@ -173563,6 +173594,13 @@
   }
  ],
  "T671H": [
+  {
+   "brand": "TCL",
+   "name": "TCL 20 SE",
+   "device": "Austin"
+  }
+ ],
+ "T671O": [
   {
    "brand": "TCL",
    "name": "TCL 20 SE",
@@ -194609,6 +194647,11 @@
   {
    "brand": "Vivo",
    "name": "Y11",
+   "device": "Y11"
+  },
+  {
+   "brand": "Vivo",
+   "name": "vivo Y11",
    "device": "Y11"
   }
  ],

@@ -99889,6 +99889,13 @@
    "model": "Lenovo TB-7306F"
   }
  ],
+ "7306X": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M7 (3rd Gen)",
+   "model": "Lenovo TB-7306X"
+  }
+ ],
  "7306V": [
   {
    "brand": "Lenovo",
@@ -108880,6 +108887,13 @@
    "model": "IN_Note1"
   }
  ],
+ "E6746": [
+  {
+   "brand": "Micromax",
+   "name": "In1",
+   "model": "IN1"
+  }
+ ],
  "N8301": [
   {
    "brand": "Micromax",
@@ -115127,6 +115141,13 @@
    "brand": "Multilaser",
    "name": "M10_4G_PRO",
    "model": "M10_4G_PRO"
+  }
+ ],
+ "ML_WI4A_M7_3G_A10": [
+  {
+   "brand": "Multilaser",
+   "name": "M7 3G A10",
+   "model": "M7_3G_A10"
   }
  ],
  "ML-JI0G-M7-3G-PLUS": [
@@ -129388,6 +129409,13 @@
    "model": "Philips S395"
   }
  ],
+ "guui": [
+  {
+   "brand": "Philips",
+   "name": "Smart TV",
+   "model": "PHILIPS 4k TV"
+  }
+ ],
  "hino": [
   {
    "brand": "Philips",
@@ -139151,6 +139179,13 @@
    "brand": "SK Telesys",
    "name": "icube-830",
    "model": "icube-830"
+  }
+ ],
+ "HY40A": [
+  {
+   "brand": "SKY EVO",
+   "name": "SA100",
+   "model": "SA100"
   }
  ],
  "SMB8112BK": [
@@ -161077,13 +161112,6 @@
    "model": "2K TV"
   }
  ],
- "HY40A": [
-  {
-   "brand": "Skyworth",
-   "name": "SA100",
-   "model": "SA100"
-  }
- ],
  "grape": [
   {
    "brand": "Skyworth",
@@ -166000,6 +166028,11 @@
    "brand": "Vivo",
    "name": "Y11",
    "model": "vivo Y11"
+  },
+  {
+   "brand": "Vivo",
+   "name": "vivo Y11",
+   "model": "vivo Y11"
   }
  ],
  "Y15": [
@@ -166434,6 +166467,13 @@
    "brand": "Stream",
    "name": "SHARK",
    "model": "SHARK"
+  }
+ ],
+ "LAS": [
+  {
+   "brand": "Strong",
+   "name": "LEAP-S1",
+   "model": "LEAP-S1"
   }
  ],
  "HP40A1": [
@@ -168504,6 +168544,11 @@
    "brand": "TCL",
    "name": "TCL 20 SE",
    "model": "T671H"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL 20 SE",
+   "model": "T671O"
   }
  ],
  "HONG_KONG": [

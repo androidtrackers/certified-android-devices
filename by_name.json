@@ -52179,6 +52179,11 @@
   },
   {
    "brand": "Philips",
+   "device": "guui",
+   "model": "PHILIPS 4k TV"
+  },
+  {
+   "brand": "Philips",
    "device": "hino",
    "model": "PHILIPS TV"
   },
@@ -101807,6 +101812,11 @@
    "brand": "Lenovo",
    "device": "7306F",
    "model": "Lenovo TB-7306F"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "7306X",
+   "model": "Lenovo TB-7306X"
   }
  ],
  "Lenovo Tab M7 HD": [
@@ -110194,6 +110204,13 @@
    "model": "IN_Note1"
   }
  ],
+ "In1": [
+  {
+   "brand": "Micromax",
+   "device": "E6746",
+   "model": "IN1"
+  }
+ ],
  "In_Note1": [
   {
    "brand": "Micromax",
@@ -115926,6 +115943,13 @@
    "brand": "Multilaser",
    "device": "ML_SO0G_M10_4G_PRO_PLUS",
    "model": "M10_4G_PRO"
+  }
+ ],
+ "M7 3G A10": [
+  {
+   "brand": "Multilaser",
+   "device": "ML_WI4A_M7_3G_A10",
+   "model": "M7_3G_A10"
   }
  ],
  "M7 3G PLUS": [
@@ -139791,6 +139815,13 @@
    "model": "icube-830"
   }
  ],
+ "SA100": [
+  {
+   "brand": "SKY EVO",
+   "device": "HY40A",
+   "model": "SA100"
+  }
+ ],
  "SMB8112BK": [
   {
    "brand": "SMB Gadgets",
@@ -159217,13 +159248,6 @@
    "model": "METZ 2K TV"
   }
  ],
- "SA100": [
-  {
-   "brand": "Skyworth",
-   "device": "HY40A",
-   "model": "SA100"
-  }
- ],
  "Skyworth": [
   {
    "brand": "Skyworth",
@@ -163921,6 +163945,13 @@
    "model": "SHARK"
   }
  ],
+ "LEAP-S1": [
+  {
+   "brand": "Strong",
+   "device": "LAS",
+   "model": "LEAP-S1"
+  }
+ ],
  "Strong": [
   {
    "brand": "Strong",
@@ -165869,6 +165900,11 @@
    "brand": "TCL",
    "device": "Austin",
    "model": "T671H"
+  },
+  {
+   "brand": "TCL",
+   "device": "Austin",
+   "model": "T671O"
   }
  ],
  "TCL 20E": [
@@ -185212,6 +185248,13 @@
    "brand": "Vivo",
    "device": "PD1635",
    "model": "vivo X9s Plus"
+  }
+ ],
+ "vivo Y11": [
+  {
+   "brand": "Vivo",
+   "device": "Y11",
+   "model": "vivo Y11"
   }
  ],
  "vivo Y22": [
