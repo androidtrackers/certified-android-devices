@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-03-23
+Last sync is 2021-03-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1941,6 +1941,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Axioo|PICOpad_7H_JL|PICOpad_7H_JL|PICOpad_7H_JL|
 |Axioo|PICOpad_7H_R8|PICOpad_7H_R8|PICOpad_7H_R8|
 |Axxa Mobile|GEM|GEM|GEM|
+|Ayonz EKO|SV11|ICN|KATV10|
 |Azumi|A4|A4|Azumi A4|
 |Azumi|A4|A4_AC25|Azumi A4|
 |Azumi|A4|Azumi_A4_AC12OM|A4|
@@ -2770,6 +2771,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|Australia|hanyang|BP Android TV|
 |Blaupunkt|Australia|nippori|BP Android TV 2K|
 |Blaupunkt|B-STREAM|JFK|B-STREAM|
+|Blaupunkt|BATV10|ICN|BATV10|
 |Blaupunkt|BP_6008|BP_6008|BP_6008|
 |Blaupunkt|BP_6010|BP_6010|BP_6010|
 |Blaupunkt|Blaupunkt|bangbae|BLAUPUNKT 4K Android TV|
@@ -7502,6 +7504,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HTC|HTC Desire 20+|htc_srcdugl|HTC Desire 20+|
 |HTC|HTC Desire 21 Pro 5G|htc_thudugl|2QAG100|
 |HTC|HTC Desire 21 Pro 5G|htc_thudugl|HTC Desire 21 pro 5G|
+|HTC|HTC Desire 21 pro 5G|htc_thudugl|2QAG100|
+|HTC|HTC Desire 21 pro 5G|htc_thudugl|HTC Desire 21 pro 5G|
 |HTC|HTC Desire 610|htc_a3ul|HTC Desire 610|
 |HTC|HTC Desire 628 dual sim|htc_v36bml_dugl|HTC 2PVG2|
 |HTC|HTC Desire 628 dual sim|htc_v36bml_dugl|HTC Desire 628 dual sim|
@@ -12415,6 +12419,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|TORQUE G03|KYV41|KYV41|
 |Kyocera|TORQUE G04|KYV46|KYV46|
 |Kyocera|TORQUE(KC-S701)|KC-S701|KC-S701|
+|Kyocera|TORQUE(R) 5G|KYG01|KYG01|
 |Kyocera|Torque|E6710|Torque|
 |Kyocera|TorqueXT|E6715|E6715|
 |Kyocera|URBANO L01|KYY21|KYY21|
@@ -15703,12 +15708,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mecer|TF10EA2|TF10EA2_11|TF10EA2|
 |Mecer|TF10MK1|TF10MK1_2|TF10MK1|
 |Mecer|TF10MK1|TF10MK1_3|TF10MK1|
+|Mecool|KA2|KA2|KA2|
 |Mecool|KD1|KD1|KD1|
 |Mecool|KM1|KM1|KM1|
 |Mecool|KM3|KM3|KM3|
 |Mecool|KM6|KM6|KM6|
 |Mecool|KM8|KM8|KM8|
 |Mecool|KM9PRO|KM9PRO|KM9PRO|
+|Mecool|KT1|KT1|KT1|
 |Mediabox|MBX4K Maverick|JFK|MBX4K Maverick|
 |Mediabox|MBX4K Ranger|DV8235|MBX4K Ranger|
 |Mediacom|10edge|10edge|10edge|
@@ -18001,6 +18008,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuvision|TM800A730M|TM800AM|TM800A730M|
 |Nuvision|TM800A740M|TM800AM|TM800A740M|
 |O'NICE|O'NICE I-TOUCH M1|ONICE_I-TOUCH_M1|i-touch M1|
+|O2.CZ|O2 TV Box|O2TV_B866V2|O2 TV Box|
 |OASE|EL-P1|EL-P1|EL-P1|
 |OASYS|AudeaTablet|AudeaTablet|AudeaTablet|
 |OASYS|OASTN_9301|OASTN_9301|OASTN_9301|
@@ -20373,6 +20381,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Quatro|Quatro 10|Quatro_10|Quatro 10|
 |Quatro|Quatro_8|Quatro_8|Quatro 8|
 |Quickline|Quickline UHD Box|dciw387|M387_QL|
+|RAMTECHNOLOGY|RM-705|RM-705|RM-705|
 |RAMTECHNOLOGY|Star|STAR|STAR|
 |RAVOZ|RAVOZ Z3|RAVOZ_Z3|RAVOZ Z3|
 |RAVOZ|RAVOZ Z3 Pro|RAVOZ_Z3_Pro|RAVOZ Z3 Pro|
@@ -24528,6 +24537,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 5 II|A002SO|A002SO|
 |Sony|Xperia 5 II|SO-52A|SO-52A|
 |Sony|Xperia 5 II|SOG02|SOG02|
+|Sony|Xperia 5 II|XQ-AS42|XQ-AS42|
 |Sony|Xperia 5 II|XQ-AS52|XQ-AS52|
 |Sony|Xperia 5 II|XQ-AS62|XQ-AS62|
 |Sony|Xperia 5 II|XQ-AS72|XQ-AS72|
@@ -25125,6 +25135,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Starlight|star_plus_plus|star_plus_plus|star_plus_plus|
 |Starlight|star_two|star_two|star_two|
 |Starlight|venus|venus|venus|
+|Steren|Steren INTV_1000|INTV_1000|Steren INTV_1000|
 |Stofa|IC1130|IC1130|IC1130|
 |Storex|eZee'Tab7Q11-M|Tab7Q11|Tab7Q11|
 |Storex|eZeeTab10D12-S|eZeeTab10D12-S|eZeeTab10D12-S|
@@ -27908,8 +27919,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|A9 Pro|A9_Pro|A9 Pro|
 |Umidigi|A9 Pro 128G|A9_Pro_128GB|A9 Pro|
 |Umidigi|A9 Pro 128G EEA|A9_Pro_128GB|A9 Pro|
+|Umidigi|A9 Pro R|A9_Pro_R|A9 Pro|
 |Umidigi|A9 Pro_EEA|A9_Pro|A9 Pro|
 |Umidigi|BISON|BISON|BISON|
+|Umidigi|BISON R|BISON_R|BISON|
+|Umidigi|BISON R EEA|BISON_R|BISON|
 |Umidigi|BISON_GT|BISON_GT|BISON GT|
 |Umidigi|F1|F1|F1|
 |Umidigi|F1_EEA|F1|F1|
@@ -28993,6 +29007,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vsmart|Star|V320A|Star|
 |Vsmart|Star 3|sugarcane|Star 3|
 |Vsmart|Star 4|willowpro|Star 4|
+|Vsmart|Star 5|fivestar|Star 5|
 |Vsmart|VINATV 4K|TR2001|VINATV 4K|
 |Vsmart|VINATV 4K|samseong|VINATV 4K|
 |Vsmart|VINTV 2K|TR2002|VINTV 2K|

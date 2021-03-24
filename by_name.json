@@ -20200,6 +20200,18 @@
    "model": "PICOpad_7H_R8"
   }
  ],
+ "SV11": [
+  {
+   "brand": "Ayonz EKO",
+   "device": "ICN",
+   "model": "KATV10"
+  },
+  {
+   "brand": "DishTV-NZ",
+   "device": "ICN",
+   "model": "SV11"
+  }
+ ],
  "A4": [
   {
    "brand": "Azumi",
@@ -26553,6 +26565,13 @@
    "brand": "Blaupunkt",
    "device": "JFK",
    "model": "B-STREAM"
+  }
+ ],
+ "BATV10": [
+  {
+   "brand": "Blaupunkt",
+   "device": "ICN",
+   "model": "BATV10"
   }
  ],
  "BP_6008": [
@@ -42781,13 +42800,6 @@
    "brand": "DishTV-NZ",
    "device": "STB",
    "model": "A7070"
-  }
- ],
- "SV11": [
-  {
-   "brand": "DishTV-NZ",
-   "device": "ICN",
-   "model": "SV11"
   }
  ],
  "Frozen_G9": [
@@ -60340,6 +60352,18 @@
   }
  ],
  "HTC Desire 21 Pro 5G": [
+  {
+   "brand": "HTC",
+   "device": "htc_thudugl",
+   "model": "2QAG100"
+  },
+  {
+   "brand": "HTC",
+   "device": "htc_thudugl",
+   "model": "HTC Desire 21 pro 5G"
+  }
+ ],
+ "HTC Desire 21 pro 5G": [
   {
    "brand": "HTC",
    "device": "htc_thudugl",
@@ -89015,6 +89039,13 @@
    "model": "KC-S701"
   }
  ],
+ "TORQUE(R) 5G": [
+  {
+   "brand": "Kyocera",
+   "device": "KYG01",
+   "model": "KYG01"
+  }
+ ],
  "Torque": [
   {
    "brand": "Kyocera",
@@ -107797,6 +107828,13 @@
    "model": "TEI11011MST"
   }
  ],
+ "KA2": [
+  {
+   "brand": "Mecool",
+   "device": "KA2",
+   "model": "KA2"
+  }
+ ],
  "KD1": [
   {
    "brand": "Mecool",
@@ -107837,6 +107875,13 @@
    "brand": "Mecool",
    "device": "KM9PRO",
    "model": "KM9PRO"
+  }
+ ],
+ "KT1": [
+  {
+   "brand": "Mecool",
+   "device": "KT1",
+   "model": "KT1"
   }
  ],
  "MBX4K Maverick": [
@@ -121568,6 +121613,13 @@
    "brand": "O'NICE",
    "device": "ONICE_I-TOUCH_M1",
    "model": "i-touch M1"
+  }
+ ],
+ "O2 TV Box": [
+  {
+   "brand": "O2.CZ",
+   "device": "O2TV_B866V2",
+   "model": "O2 TV Box"
   }
  ],
  "EL-P1": [
@@ -136475,6 +136527,13 @@
    "brand": "Quickline",
    "device": "dciw387",
    "model": "M387_QL"
+  }
+ ],
+ "RM-705": [
+  {
+   "brand": "RAMTECHNOLOGY",
+   "device": "RM-705",
+   "model": "RM-705"
   }
  ],
  "Star": [
@@ -160380,6 +160439,11 @@
   },
   {
    "brand": "Sony",
+   "device": "XQ-AS42",
+   "model": "XQ-AS42"
+  },
+  {
+   "brand": "Sony",
    "device": "XQ-AS52",
    "model": "XQ-AS52"
   },
@@ -163805,6 +163869,13 @@
    "brand": "Starlight",
    "device": "venus",
    "model": "venus"
+  }
+ ],
+ "Steren INTV_1000": [
+  {
+   "brand": "Steren",
+   "device": "INTV_1000",
+   "model": "Steren INTV_1000"
   }
  ],
  "IC1130": [
@@ -179736,6 +179807,13 @@
    "model": "A9 Pro"
   }
  ],
+ "A9 Pro R": [
+  {
+   "brand": "Umidigi",
+   "device": "A9_Pro_R",
+   "model": "A9 Pro"
+  }
+ ],
  "A9 Pro_EEA": [
   {
    "brand": "Umidigi",
@@ -179747,6 +179825,20 @@
   {
    "brand": "Umidigi",
    "device": "BISON",
+   "model": "BISON"
+  }
+ ],
+ "BISON R": [
+  {
+   "brand": "Umidigi",
+   "device": "BISON_R",
+   "model": "BISON"
+  }
+ ],
+ "BISON R EEA": [
+  {
+   "brand": "Umidigi",
+   "device": "BISON_R",
    "model": "BISON"
   }
  ],
@@ -186536,6 +186628,13 @@
    "brand": "Vsmart",
    "device": "willowpro",
    "model": "Star 4"
+  }
+ ],
+ "Star 5": [
+  {
+   "brand": "Vsmart",
+   "device": "fivestar",
+   "model": "Star 5"
   }
  ],
  "VINATV 4K": [

@@ -9987,6 +9987,13 @@
    "model": "GEM"
   }
  ],
+ "Ayonz EKO": [
+  {
+   "device": "ICN",
+   "name": "SV11",
+   "model": "KATV10"
+  }
+ ],
  "Azumi": [
   {
    "device": "A4",
@@ -14258,6 +14265,11 @@
    "device": "JFK",
    "name": "B-STREAM",
    "model": "B-STREAM"
+  },
+  {
+   "device": "ICN",
+   "name": "BATV10",
+   "model": "BATV10"
   },
   {
    "device": "BP_6008",
@@ -38909,6 +38921,16 @@
   {
    "device": "htc_thudugl",
    "name": "HTC Desire 21 Pro 5G",
+   "model": "HTC Desire 21 pro 5G"
+  },
+  {
+   "device": "htc_thudugl",
+   "name": "HTC Desire 21 pro 5G",
+   "model": "2QAG100"
+  },
+  {
+   "device": "htc_thudugl",
+   "name": "HTC Desire 21 pro 5G",
    "model": "HTC Desire 21 pro 5G"
   },
   {
@@ -63925,6 +63947,11 @@
    "model": "KC-S701"
   },
   {
+   "device": "KYG01",
+   "name": "TORQUE(R) 5G",
+   "model": "KYG01"
+  },
+  {
    "device": "E6710",
    "name": "Torque",
    "model": "Torque"
@@ -80675,6 +80702,11 @@
  ],
  "Mecool": [
   {
+   "device": "KA2",
+   "name": "KA2",
+   "model": "KA2"
+  },
+  {
    "device": "KD1",
    "name": "KD1",
    "model": "KD1"
@@ -80703,6 +80735,11 @@
    "device": "KM9PRO",
    "name": "KM9PRO",
    "model": "KM9PRO"
+  },
+  {
+   "device": "KT1",
+   "name": "KT1",
+   "model": "KT1"
   }
  ],
  "Mediabox": [
@@ -92479,6 +92516,13 @@
    "device": "ONICE_I-TOUCH_M1",
    "name": "O'NICE I-TOUCH M1",
    "model": "i-touch M1"
+  }
+ ],
+ "O2.CZ": [
+  {
+   "device": "O2TV_B866V2",
+   "name": "O2 TV Box",
+   "model": "O2 TV Box"
   }
  ],
  "OASE": [
@@ -104664,6 +104708,11 @@
   }
  ],
  "RAMTECHNOLOGY": [
+  {
+   "device": "RM-705",
+   "name": "RM-705",
+   "model": "RM-705"
+  },
   {
    "device": "STAR",
    "name": "Star",
@@ -125786,6 +125835,11 @@
    "model": "SOG02"
   },
   {
+   "device": "XQ-AS42",
+   "name": "Xperia 5 II",
+   "model": "XQ-AS42"
+  },
+  {
    "device": "XQ-AS52",
    "name": "Xperia 5 II",
    "model": "XQ-AS52"
@@ -128807,6 +128861,13 @@
    "device": "venus",
    "name": "venus",
    "model": "venus"
+  }
+ ],
+ "Steren": [
+  {
+   "device": "INTV_1000",
+   "name": "Steren INTV_1000",
+   "model": "Steren INTV_1000"
   }
  ],
  "Stofa": [
@@ -143112,6 +143173,11 @@
    "model": "A9 Pro"
   },
   {
+   "device": "A9_Pro_R",
+   "name": "A9 Pro R",
+   "model": "A9 Pro"
+  },
+  {
    "device": "A9_Pro",
    "name": "A9 Pro_EEA",
    "model": "A9 Pro"
@@ -143119,6 +143185,16 @@
   {
    "device": "BISON",
    "name": "BISON",
+   "model": "BISON"
+  },
+  {
+   "device": "BISON_R",
+   "name": "BISON R",
+   "model": "BISON"
+  },
+  {
+   "device": "BISON_R",
+   "name": "BISON R EEA",
    "model": "BISON"
   },
   {
@@ -148727,6 +148803,11 @@
    "device": "willowpro",
    "name": "Star 4",
    "model": "Star 4"
+  },
+  {
+   "device": "fivestar",
+   "name": "Star 5",
+   "model": "Star 5"
   },
   {
    "device": "TR2001",
