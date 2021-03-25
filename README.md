@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-03-24
+Last sync is 2021-03-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5622,6 +5622,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Essential Products|Essential|Essential|Essential|
 |Essential Products|PH-1|mata|PH-1|
 |EssentielB|Android TV|R1|ATV R1|
+|EssentielB|Android TV|R2|ATV R2|
 |EssentielB|Black Diamond|bird77_a_cu_ics2|Essentielb-Black Diamond|
 |EssentielB|Pyxis|pyxis_boulanger|Essentielb-Pixis|
 |EssentielB|ST7001 Tablet|ST7001|ST7001|
@@ -6575,6 +6576,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ghia|GTKIDS7V|GTKIDS7V|GTKIDS7V|
 |Ghia|GTKIDS7V8|GTKIDS7V8|GTKIDS7V8|
 |Ghia|GTPND7|GTPND7|GTPND7|
+|Ghia|GTTODD7|GTTODD7|GTTODD7|
 |Ghia|GTVR10S|GTVR10S|GTVR10S|
 |Ghia|I1|I1|I1|
 |Ghia|TREO_TAB8G|TREO_TAB8G|TREO_TAB8G|
@@ -15067,6 +15069,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Linsay|F_10XHD|F_10XHD|F_10XHD|
 |Linsay|F_10XIPS|F_10XIPS|F_10XIPS|
 |Linsay|F_7HD4CORE|F_7HD4CORE|F_7HD4CORE|
+|Linsay|F_7UHD|F_7UHD|F_7UHD|
 |Linsay|LINSAY_F10XHD|LINSAY_F10XHD|LINSAY_F10XHD|
 |Linsay|LINSAY_F10XIPS|LINSAY_F10XIPS|LINSAY_F10XIPS|
 |Linsay|LINSAY_F7HD4CORE|LINSAY-F7HD4CORE|LINSAY F7HD4CORE|
@@ -18297,6 +18300,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A73|A79|OPPO A73|
 |Oppo|A73t|A73t|OPPO A73t|
 |Oppo|A73t|A79|OPPO A73t|
+|Oppo|A74|OP4F11L1|CPH2219|
 |Oppo|A77|A77|OPPO A77|
 |Oppo|A77|A77|OPPO A77t|
 |Oppo|A79|A79|OPPO A79|
@@ -25275,6 +25279,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Supraim|AYCON|AYCON|AYCON|
 |Supraim|SN10|SN10|SN10|
 |Surface|Surface Duo|duo|Surface Duo|
+|Surfans|P10P|P10P|Surfans P10P|
 |Surgephone|SURGE|VOLT_5XL|VOLT_5XL|
 |Surtab|SURTAB|SURTAB_74G|SURTAB_74G|
 |Suunto|Suunto 7|salmon|Suunto 7|
@@ -26899,10 +26904,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TIM|TIM BOX|uzw4010tim|TIM_BOX|
 |TIM|TIMvision|dwt765ti|skipper|
 |TJC|Metal Tablet|Metal_Tablet_10|Metal_Tablet_10|
+|TJD(SZ)|MT 750QU|MT-750QU|MT-750QU|
 |TJD(SZ)|MT-1010OF|MT-1010OF|MT-1010OF|
 |TJD(SZ)|MT-1011OF|MT-1011OF|MT-1011OF|
+|TJD(SZ)|MT-701QU|MT-701QU|MT-701QU|
+|TJD(SZ)|MT-702QU|MT-702QU|MT-702QU|
 |TJD(SZ)|MT-707OF|MT-707OF|MT-707OF|
 |TJD(SZ)|MT-715QR|MT-715QR|MT-715QR|
+|TJD(SZ)|MT-761QU|MT-761QU|MT-761QU|
 |TJD(SZ)|MT-762QR|MT-762QR|MT-762QR|
 |TKDS|T_101H|T_101H|T_101H|
 |TM Cell|ISWAG KRONOS|ISWAG_KRONOSX|ISWAG KRONOS|
@@ -26974,6 +26983,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TWZ Corporation PLC|T12|T12|T12|
 |TWZ Corporation PLC|Tab-PLAY125|Tab-PLAY125|Tab-PLAY125|
 |TWZ Corporation PLC|U18|U18|U18|
+|Tabi_by_T_GO|EUTB_758G|EUTB_758G|EUTB_758G_TABI_Argos_KIDS|
+|Tabi_by_T_GO|EUTB_758_Argos|EUTB_758_Argos|EUTB-758 TABI Argos|
 |TabletKiosk|TK80|TK80|TK80|
 |Tablet_PC|T3G_07|T3G_07|T3G_07|
 |Tablet_PC|T3G_10B|T3G_10B|T3G_10B|
@@ -30788,6 +30799,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|NX907J|NX907J|NX907J|
 |ZTE|Nubia 8011|P963F05|Nubia 8011|
 |ZTE|Nubia N11|P731F50|Nubia N11|
+|ZTE|Nubia N40|P963F50_A|Nubia N40|
 |ZTE|OWN FUN 5(4G)|VFD511|OWN FUN 5(4G)|
 |ZTE|OWN FUN 5(4G)|VFD511|ZTE BLADE A321|
 |ZTE|OWN One Plus|ZTE_Blade_V580|OWN One Plus|
@@ -31272,6 +31284,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE 8010|P963S05|ZTE 8010|
 |ZTE|ZTE 8010RU|P963F05|ZTE 8010RU|
 |ZTE|ZTE 8012N|P653S06|ZTE 8012N|
+|ZTE|ZTE 8030N|P633S01|ZTE 8030N|
+|ZTE|ZTE 9030N|P653S07|ZTE 9030N|
 |ZTE|ZTE A0616|P637S15|ZTE A0616|
 |ZTE|ZTE A0620|P840S13|ZTE A0620|
 |ZTE|ZTE A0622|P817S13|ZTE A0622|
@@ -31293,6 +31307,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE A7000|P671S02|ZTE A7000|
 |ZTE|ZTE A7010|P662S02|ZTE A7010|
 |ZTE|ZTE A7020|P963F03|ZTE A7020|
+|ZTE|ZTE A7030|P963F07|ZTE A7030|
 |ZTE|ZTE AVID 4|calbee|Z855|
 |ZTE|ZTE AVID 559|Z559DL|Z559DL|
 |ZTE|ZTE Avid 579|Z5156|Z5156CC|
@@ -31376,6 +31391,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A5 2020|P963F50|Blade A5 2020-T|
 |ZTE|ZTE Blade A5 2020|P963F50|Z-Ultra|
 |ZTE|ZTE Blade A5 2020|P963F50|ZTE Blade A5 2020|
+|ZTE|ZTE Blade A5 2020|P963F50_A|ZTE Blade A5 2020|
 |ZTE|ZTE Blade A5 2020RU|P963F50|ZTE Blade A5 2020RU|
 |ZTE|ZTE Blade A51|P963F60|ZTE Blade A51|
 |ZTE|ZTE Blade A522|P817E53|ZTE Blade A522|

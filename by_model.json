@@ -3867,6 +3867,11 @@
    "device": "R2"
   },
   {
+   "brand": "EssentielB",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
    "brand": "Evvoli",
    "name": "Android TV",
    "device": "R2"
@@ -48048,6 +48053,13 @@
    "brand": "Ghia",
    "name": "GTPND7",
    "device": "GTPND7"
+  }
+ ],
+ "GTTODD7": [
+  {
+   "brand": "Ghia",
+   "name": "GTTODD7",
+   "device": "GTTODD7"
   }
  ],
  "GTVR10S": [
@@ -104754,6 +104766,13 @@
    "device": "F_7HD4CORE"
   }
  ],
+ "F_7UHD": [
+  {
+   "brand": "Linsay",
+   "name": "F_7UHD",
+   "device": "F_7UHD"
+  }
+ ],
  "LINSAY_F10XHD": [
   {
    "brand": "Linsay",
@@ -125883,6 +125902,13 @@
    "brand": "Oppo",
    "name": "A73t",
    "device": "A79"
+  }
+ ],
+ "CPH2219": [
+  {
+   "brand": "Oppo",
+   "name": "A74",
+   "device": "OP4F11L1"
   }
  ],
  "OPPO A77": [
@@ -172345,6 +172371,13 @@
    "device": "duo"
   }
  ],
+ "Surfans P10P": [
+  {
+   "brand": "Surfans",
+   "name": "P10P",
+   "device": "P10P"
+  }
+ ],
  "VOLT_5XL": [
   {
    "brand": "Surgephone",
@@ -183357,6 +183390,13 @@
    "device": "Metal_Tablet_10"
   }
  ],
+ "MT-750QU": [
+  {
+   "brand": "TJD(SZ)",
+   "name": "MT 750QU",
+   "device": "MT-750QU"
+  }
+ ],
  "MT-1010OF": [
   {
    "brand": "TJD(SZ)",
@@ -183371,6 +183411,20 @@
    "device": "MT-1011OF"
   }
  ],
+ "MT-701QU": [
+  {
+   "brand": "TJD(SZ)",
+   "name": "MT-701QU",
+   "device": "MT-701QU"
+  }
+ ],
+ "MT-702QU": [
+  {
+   "brand": "TJD(SZ)",
+   "name": "MT-702QU",
+   "device": "MT-702QU"
+  }
+ ],
  "MT-707OF": [
   {
    "brand": "TJD(SZ)",
@@ -183383,6 +183437,13 @@
    "brand": "TJD(SZ)",
    "name": "MT-715QR",
    "device": "MT-715QR"
+  }
+ ],
+ "MT-761QU": [
+  {
+   "brand": "TJD(SZ)",
+   "name": "MT-761QU",
+   "device": "MT-761QU"
   }
  ],
  "MT-762QR": [
@@ -183815,6 +183876,20 @@
    "brand": "TWZ Corporation PLC",
    "name": "Tab-PLAY125",
    "device": "Tab-PLAY125"
+  }
+ ],
+ "EUTB_758G_TABI_Argos_KIDS": [
+  {
+   "brand": "Tabi_by_T_GO",
+   "name": "EUTB_758G",
+   "device": "EUTB_758G"
+  }
+ ],
+ "EUTB-758 TABI Argos": [
+  {
+   "brand": "Tabi_by_T_GO",
+   "name": "EUTB_758_Argos",
+   "device": "EUTB_758_Argos"
   }
  ],
  "TK80": [
@@ -208563,6 +208638,13 @@
    "device": "P731F50"
   }
  ],
+ "Nubia N40": [
+  {
+   "brand": "ZTE",
+   "name": "Nubia N40",
+   "device": "P963F50_A"
+  }
+ ],
  "OWN FUN 5(4G)": [
   {
    "brand": "ZTE",
@@ -211618,6 +211700,20 @@
    "device": "P653S06"
   }
  ],
+ "ZTE 8030N": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE 8030N",
+   "device": "P633S01"
+  }
+ ],
+ "ZTE 9030N": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE 9030N",
+   "device": "P653S07"
+  }
+ ],
  "ZTE A0616": [
   {
    "brand": "ZTE",
@@ -211738,6 +211834,13 @@
    "brand": "ZTE",
    "name": "ZTE Blade A7s 2020",
    "device": "P963F03"
+  }
+ ],
+ "ZTE A7030": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE A7030",
+   "device": "P963F07"
   }
  ],
  "Z855": [
@@ -212163,6 +212266,11 @@
    "brand": "ZTE",
    "name": "ZTE Blade A5 2020",
    "device": "P963F50"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A5 2020",
+   "device": "P963F50_A"
   }
  ],
  "ZTE Blade A5 2020RU": [
