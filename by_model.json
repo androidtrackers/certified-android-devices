@@ -17078,6 +17078,13 @@
    "device": "Bmobile_FUN_4_2018"
   }
  ],
+ "NOBU A55 PRO": [
+  {
+   "brand": "BMobile",
+   "name": "Nobu A55 Pro",
+   "device": "Azumi_NA55_Pro"
+  }
+ ],
  "Speed 5": [
   {
    "brand": "BMobile",
@@ -51273,6 +51280,23 @@
    "device": "E108GC4G"
   }
  ],
+ "P8": [
+  {
+   "brand": "HAOVM",
+   "name": "MediaPadP8",
+   "device": "P8"
+  },
+  {
+   "brand": "Haier",
+   "name": "Power P8",
+   "device": "P8"
+  },
+  {
+   "brand": "POPTEL",
+   "name": "P8",
+   "device": "P8"
+  }
+ ],
  "H10_ONE": [
   {
    "brand": "HDC S.A.",
@@ -57597,18 +57621,6 @@
    "brand": "iRulu",
    "name": "P10",
    "device": "P10"
-  }
- ],
- "P8": [
-  {
-   "brand": "Haier",
-   "name": "Power P8",
-   "device": "P8"
-  },
-  {
-   "brand": "POPTEL",
-   "name": "P8",
-   "device": "P8"
   }
  ],
  "S5 Silk": [
@@ -77303,6 +77315,25 @@
    "device": "Infinix-X688B"
   }
  ],
+ "Infinix X688C": [
+  {
+   "brand": "Infinix",
+   "name": "HOT 10 Play",
+   "device": "Infinix-X688C"
+  },
+  {
+   "brand": "Infinix",
+   "name": "SMART 5",
+   "device": "Infinix-X688C"
+  }
+ ],
+ "Infinix X658B": [
+  {
+   "brand": "Infinix",
+   "name": "HOT 10i",
+   "device": "Infinix-X658B"
+  }
+ ],
  "Infinix X510": [
   {
    "brand": "Infinix",
@@ -77968,13 +77999,6 @@
    "brand": "Infinix",
    "name": "SMART 5",
    "device": "Infinix-X657C"
-  }
- ],
- "Infinix X688C": [
-  {
-   "brand": "Infinix",
-   "name": "SMART 5",
-   "device": "Infinix-X688C"
   }
  ],
  "Infinix X612": [
@@ -86427,6 +86451,13 @@
   {
    "brand": "Kurio",
    "name": "1T10  WIFI NEW",
+   "device": "Aquaman_10_WIFI"
+  }
+ ],
+ "8391X_EEA": [
+  {
+   "brand": "Kurio",
+   "name": "1T10 WIFI NEW",
    "device": "Aquaman_10_WIFI"
   }
  ],
@@ -184909,6 +184940,13 @@
    "device": "TECNO-CD6j"
   }
  ],
+ "TECNO CG6": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 17",
+   "device": "TECNO-CG6"
+  }
+ ],
  "TECNO CG6j": [
   {
    "brand": "Tecno",
@@ -189922,6 +189960,11 @@
   {
    "brand": "Umidigi",
    "name": "A9 Pro R",
+   "device": "A9_Pro_R"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "A9 Pro R EEA",
    "device": "A9_Pro_R"
   },
   {

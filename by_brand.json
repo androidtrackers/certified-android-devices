@@ -11558,6 +11558,11 @@
    "model": "FUN 4 2018"
   },
   {
+   "device": "Azumi_NA55_Pro",
+   "name": "Nobu A55 Pro",
+   "model": "NOBU A55 PRO"
+  },
+  {
    "device": "Bmobile_SPEED5",
    "name": "Speed 5",
    "model": "Speed 5"
@@ -36494,6 +36499,13 @@
    "model": "E108GC4G"
   }
  ],
+ "HAOVM": [
+  {
+   "device": "P8",
+   "name": "MediaPadP8",
+   "model": "P8"
+  }
+ ],
  "HDC S.A.": [
   {
    "device": "H10_ONE",
@@ -56303,9 +56315,19 @@
    "model": "Infinix X688B"
   },
   {
+   "device": "Infinix-X688C",
+   "name": "HOT 10 Play",
+   "model": "Infinix X688C"
+  },
+  {
    "device": "Infinix-X657B",
    "name": "HOT 10 lite",
    "model": "Infinix X657B"
+  },
+  {
+   "device": "Infinix-X658B",
+   "name": "HOT 10i",
+   "model": "Infinix X658B"
   },
   {
    "device": "Infinix_X510",
@@ -63413,6 +63435,11 @@
    "device": "Aquaman_10_WIFI",
    "name": "1T10  WIFI NEW",
    "model": "8391X"
+  },
+  {
+   "device": "Aquaman_10_WIFI",
+   "name": "1T10 WIFI NEW",
+   "model": "8391X_EEA"
   },
   {
    "device": "U3A_7_WIFI_Refresh_KD",
@@ -139103,6 +139130,11 @@
    "model": "TECNO CD6j"
   },
   {
+   "device": "TECNO-CG6",
+   "name": "CAMON 17",
+   "model": "TECNO CG6"
+  },
+  {
    "device": "TECNO-CG6j",
    "name": "CAMON 17",
    "model": "TECNO CG6j"
@@ -143234,6 +143266,11 @@
   {
    "device": "A9_Pro_R",
    "name": "A9 Pro R",
+   "model": "A9 Pro"
+  },
+  {
+   "device": "A9_Pro_R",
+   "name": "A9 Pro R EEA",
    "model": "A9 Pro"
   },
   {

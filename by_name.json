@@ -22419,6 +22419,13 @@
    "model": "FUN 4 2018"
   }
  ],
+ "Nobu A55 Pro": [
+  {
+   "brand": "BMobile",
+   "device": "Azumi_NA55_Pro",
+   "model": "NOBU A55 PRO"
+  }
+ ],
  "T70": [
   {
    "brand": "BMobile",
@@ -57438,6 +57445,13 @@
    "model": "E108GC4G"
   }
  ],
+ "MediaPadP8": [
+  {
+   "brand": "HAOVM",
+   "device": "P8",
+   "model": "P8"
+  }
+ ],
  "H10_ONE": [
   {
    "brand": "HDC S.A.",
@@ -79523,6 +79537,11 @@
    "brand": "Infinix",
    "device": "Infinix-X688B",
    "model": "Infinix X688B"
+  },
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X688C",
+   "model": "Infinix X688C"
   }
  ],
  "HOT 10 lite": [
@@ -79530,6 +79549,13 @@
    "brand": "Infinix",
    "device": "Infinix-X657B",
    "model": "Infinix X657B"
+  }
+ ],
+ "HOT 10i": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X658B",
+   "model": "Infinix X658B"
   }
  ],
  "HOT 2": [
@@ -88366,6 +88392,13 @@
    "brand": "Kurio",
    "device": "Aquaman_10_WIFI",
    "model": "8391X"
+  }
+ ],
+ "1T10 WIFI NEW": [
+  {
+   "brand": "Kurio",
+   "device": "Aquaman_10_WIFI",
+   "model": "8391X_EEA"
   }
  ],
  "KURIO LITE GO NEW": [
@@ -175082,6 +175115,11 @@
  "CAMON 17": [
   {
    "brand": "Tecno",
+   "device": "TECNO-CG6",
+   "model": "TECNO CG6"
+  },
+  {
+   "brand": "Tecno",
    "device": "TECNO-CG6j",
    "model": "TECNO CG6j"
   }
@@ -179883,6 +179921,13 @@
   }
  ],
  "A9 Pro R": [
+  {
+   "brand": "Umidigi",
+   "device": "A9_Pro_R",
+   "model": "A9 Pro"
+  }
+ ],
+ "A9 Pro R EEA": [
   {
    "brand": "Umidigi",
    "device": "A9_Pro_R",

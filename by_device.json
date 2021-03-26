@@ -18606,6 +18606,13 @@
    "model": "FUN 4 2018"
   }
  ],
+ "Azumi_NA55_Pro": [
+  {
+   "brand": "BMobile",
+   "name": "Nobu A55 Pro",
+   "model": "NOBU A55 PRO"
+  }
+ ],
  "Bmobile_SPEED5": [
   {
    "brand": "BMobile",
@@ -52858,6 +52865,23 @@
    "model": "E108GC4G"
   }
  ],
+ "P8": [
+  {
+   "brand": "HAOVM",
+   "name": "MediaPadP8",
+   "model": "P8"
+  },
+  {
+   "brand": "Haier",
+   "name": "Power P8",
+   "model": "P8"
+  },
+  {
+   "brand": "POPTEL",
+   "name": "P8",
+   "model": "P8"
+  }
+ ],
  "H10_ONE": [
   {
    "brand": "HDC S.A.",
@@ -58612,18 +58636,6 @@
    "brand": "Haier",
    "name": "PNDPP47GP",
    "model": "PNDPP47GP"
-  }
- ],
- "P8": [
-  {
-   "brand": "Haier",
-   "name": "Power P8",
-   "model": "P8"
-  },
-  {
-   "brand": "POPTEL",
-   "name": "P8",
-   "model": "P8"
   }
  ],
  "S5_Silk": [
@@ -75872,6 +75884,25 @@
    "model": "Infinix X688B"
   }
  ],
+ "Infinix-X688C": [
+  {
+   "brand": "Infinix",
+   "name": "HOT 10 Play",
+   "model": "Infinix X688C"
+  },
+  {
+   "brand": "Infinix",
+   "name": "SMART 5",
+   "model": "Infinix X688C"
+  }
+ ],
+ "Infinix-X658B": [
+  {
+   "brand": "Infinix",
+   "name": "HOT 10i",
+   "model": "Infinix X658B"
+  }
+ ],
  "Infinix_X510": [
   {
    "brand": "Infinix",
@@ -76523,13 +76554,6 @@
    "brand": "Infinix",
    "name": "SMART 5",
    "model": "Infinix X657C"
-  }
- ],
- "Infinix-X688C": [
-  {
-   "brand": "Infinix",
-   "name": "SMART 5",
-   "model": "Infinix X688C"
   }
  ],
  "Infinix-X612": [
@@ -84675,6 +84699,11 @@
    "brand": "Kurio",
    "name": "1T10  WIFI NEW",
    "model": "8391X"
+  },
+  {
+   "brand": "Kurio",
+   "name": "1T10 WIFI NEW",
+   "model": "8391X_EEA"
   },
   {
    "brand": "TCT (Alcatel)",
@@ -177402,6 +177431,13 @@
    "model": "TECNO CD6j"
   }
  ],
+ "TECNO-CG6": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 17",
+   "model": "TECNO CG6"
+  }
+ ],
  "TECNO-CG6j": [
   {
    "brand": "Tecno",
@@ -182241,6 +182277,11 @@
   {
    "brand": "Umidigi",
    "name": "A9 Pro R",
+   "model": "A9 Pro"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "A9 Pro R EEA",
    "model": "A9 Pro"
   }
  ],

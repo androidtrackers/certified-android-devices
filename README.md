@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-03-25
+Last sync is 2021-03-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2248,6 +2248,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|Bmobile_B60Pro|Bmobile_B60Pro|Bmobile_B60Pro|
 |BMobile|Bmoblie AX683|Bmobile_AX683_MV04|AX683|
 |BMobile|FUN 4|Bmobile_FUN_4_2018|FUN 4 2018|
+|BMobile|Nobu A55 Pro|Azumi_NA55_Pro|NOBU A55 PRO|
 |BMobile|Speed 5|Bmobile_SPEED5|Speed 5|
 |BMobile|T70|Bmobile_T70|Bmobile_T70|
 |BMobile|X10|Bmobile_X10_MV03|X10|
@@ -7022,6 +7023,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HAKO|HAKO mini|GMP|HAKO mini|
 |HANYEAL|E101GC|E101GC|E101GC|
 |HANYEAL|E108GC4G|E108GC4G|E108GC4G|
+|HAOVM|MediaPadP8|P8|P8|
 |HDC S.A.|H10_ONE|H10_ONE|H10_ONE|
 |HDC S.A.|H7_ONE|H7_ONE|H7_ONE|
 |HDC S.A.|HDC|TK718|TK718|
@@ -10939,7 +10941,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|HOT 10|Infinix-X682C|Infinix X682C|
 |Infinix|HOT 10 Lite|Infinix-X657B|Infinix X657B|
 |Infinix|HOT 10 Play|Infinix-X688B|Infinix X688B|
+|Infinix|HOT 10 Play|Infinix-X688C|Infinix X688C|
 |Infinix|HOT 10 lite|Infinix-X657B|Infinix X657B|
+|Infinix|HOT 10i|Infinix-X658B|Infinix X658B|
 |Infinix|HOT 2|Infinix_X510|Infinix X510|
 |Infinix|HOT 3|INFINIX-X554|Infinix HOT 3 Pro|
 |Infinix|HOT 3|INFINIX-X554|Infinix-X554|
@@ -12313,6 +12317,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kult|Kult Ambition|Ambition|Ambition|
 |Kult|Kult Beyond|Beyond|Beyond|
 |Kurio|1T10  WIFI NEW|Aquaman_10_WIFI|8391X|
+|Kurio|1T10 WIFI NEW|Aquaman_10_WIFI|8391X_EEA|
 |Kurio|KURIO LITE GO NEW|U3A_7_WIFI_Refresh_KD|9309S|
 |Kurio|Kurio Tab|Hulk_7_KIDS_WIFI|8076|
 |Kurio|Kurio Tab|Hulk_7_KIDS_WIFI|8076_EEA|
@@ -27141,6 +27146,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|CAMON 16 (SE)|TECNO-CE7j|TECNO CE7j|
 |Tecno|CAMON 16 Pro|TECNO-CE8|TECNO CE8|
 |Tecno|CAMON 16 S|TECNO-CD6j|TECNO CD6j|
+|Tecno|CAMON 17|TECNO-CG6|TECNO CG6|
 |Tecno|CAMON 17|TECNO-CG6j|TECNO CG6j|
 |Tecno|CAMON C7|TECNO-C7|TECNO-C7|
 |Tecno|CAMON CM|TECNO-CA6|TECNO CA6|
@@ -27931,6 +27937,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|A9 Pro 128G|A9_Pro_128GB|A9 Pro|
 |Umidigi|A9 Pro 128G EEA|A9_Pro_128GB|A9 Pro|
 |Umidigi|A9 Pro R|A9_Pro_R|A9 Pro|
+|Umidigi|A9 Pro R EEA|A9_Pro_R|A9 Pro|
 |Umidigi|A9 Pro_EEA|A9_Pro|A9 Pro|
 |Umidigi|BISON|BISON|BISON|
 |Umidigi|BISON R|BISON_R|BISON|
