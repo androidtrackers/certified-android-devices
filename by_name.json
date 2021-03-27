@@ -30614,6 +30614,11 @@
  "INC\"": [
   {
    "brand": "\"CHUBU TELECOMMUNICATIONS CO.",
+   "device": "STI6130C",
+   "model": "sti6130d353"
+  },
+  {
+   "brand": "\"CHUBU TELECOMMUNICATIONS CO.",
    "device": "STI6130d353",
    "model": "sti6130d353"
   }

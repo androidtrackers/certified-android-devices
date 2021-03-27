@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-03-26
+Last sync is 2021-03-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3263,6 +3263,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CHCNAV|HCE600|HCE600|HCE600|
 |CHCNAV|LT700|LT700|LT700|
 |CHN TELECOM|CHN-UCAN MJ|lefhd|CHN-UCAN MJ|
+|"CHUBU TELECOMMUNICATIONS CO.|INC"|STI6130C|sti6130d353|
 |"CHUBU TELECOMMUNICATIONS CO.|INC"|STI6130d353|sti6130d353|
 |CHiQ|G7P|hapjeong|AI PONT PLUS|
 |CHiQ|H7A|samseong|AI PONT|
