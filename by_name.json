@@ -79561,6 +79561,11 @@
    "brand": "Infinix",
    "device": "Infinix-X658B",
    "model": "Infinix X658B"
+  },
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X659B",
+   "model": "Infinix X659B"
   }
  ],
  "HOT 2": [
@@ -183633,6 +183638,13 @@
    "brand": "Vivo",
    "device": "I1928",
    "model": "I1928"
+  }
+ ],
+ "I2012": [
+  {
+   "brand": "Vivo",
+   "device": "2012",
+   "model": "I2012"
   }
  ],
  "NEX A": [

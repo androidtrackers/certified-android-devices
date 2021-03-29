@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-03-28
+Last sync is 2021-03-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10945,6 +10945,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|HOT 10 Play|Infinix-X688C|Infinix X688C|
 |Infinix|HOT 10 lite|Infinix-X657B|Infinix X657B|
 |Infinix|HOT 10i|Infinix-X658B|Infinix X658B|
+|Infinix|HOT 10i|Infinix-X659B|Infinix X659B|
 |Infinix|HOT 2|Infinix_X510|Infinix X510|
 |Infinix|HOT 3|INFINIX-X554|Infinix HOT 3 Pro|
 |Infinix|HOT 3|INFINIX-X554|Infinix-X554|
@@ -28543,6 +28544,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|1609|1609|vivo 1609|
 |Vivo|I1927|I1928|I1927|
 |Vivo|I1928|I1928|I1928|
+|Vivo|I2012|2012|I2012|
 |Vivo|NEX A|PD1806B|vivo NEX A|
 |Vivo|PD1304DL|PD1304DL|vivo Y13iL|
 |Vivo|PD1419V|PD1419V|vivo Y923|

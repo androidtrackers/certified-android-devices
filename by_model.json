@@ -77339,6 +77339,13 @@
    "device": "Infinix-X658B"
   }
  ],
+ "Infinix X659B": [
+  {
+   "brand": "Infinix",
+   "name": "HOT 10i",
+   "device": "Infinix-X659B"
+  }
+ ],
  "Infinix X510": [
   {
    "brand": "Infinix",
@@ -193725,6 +193732,13 @@
    "brand": "Vivo",
    "name": "I1928",
    "device": "I1928"
+  }
+ ],
+ "I2012": [
+  {
+   "brand": "Vivo",
+   "name": "I2012",
+   "device": "2012"
   }
  ],
  "vivo NEX A": [
