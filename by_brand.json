@@ -81607,6 +81607,11 @@
    "model": "Meizu M8c"
   },
   {
+   "device": "meizu18",
+   "name": "MEIZU 18",
+   "model": "MEIZU 18"
+  },
+  {
    "device": "Meizu6T",
    "name": "Meizu 6T",
    "model": "Meizu 6T"
@@ -81665,6 +81670,11 @@
    "device": "meizu17Pro",
    "name": "meizu 17 Pro",
    "model": "meizu 17 Pro"
+  },
+  {
+   "device": "meizu18Pro",
+   "name": "meizu 18 Pro",
+   "model": "MEIZU 18 Pro"
   },
   {
    "device": "meizuC9",
@@ -97943,6 +97953,11 @@
   },
   {
    "device": "NEXT820",
+   "name": "NEXT Elite-4K 16",
+   "model": "NEXT"
+  },
+  {
+   "device": "NEXT820",
    "name": "NEXT Elite-4K 24",
    "model": "NEXT"
   },
@@ -109161,6 +109176,11 @@
   {
    "device": "a02q",
    "name": "Galaxy A02s",
+   "model": "SM-A025U"
+  },
+  {
+   "device": "a02q",
+   "name": "Galaxy A02s",
    "model": "SM-A025V"
   },
   {
@@ -109272,6 +109292,16 @@
    "device": "a12",
    "name": "Galaxy A12",
    "model": "SM-A125M"
+  },
+  {
+   "device": "a12",
+   "name": "Galaxy A12",
+   "model": "SM-A125N"
+  },
+  {
+   "device": "a12u",
+   "name": "Galaxy A12",
+   "model": "SM-A125U"
   },
   {
    "device": "a2corelte",
@@ -109649,6 +109679,21 @@
    "model": "SM-A326BR"
   },
   {
+   "device": "a32x",
+   "name": "Galaxy A32 5G",
+   "model": "SM-A326U"
+  },
+  {
+   "device": "a32x",
+   "name": "Galaxy A32 5G",
+   "model": "SM-A326U1"
+  },
+  {
+   "device": "a32x",
+   "name": "Galaxy A32 5G",
+   "model": "SM-A326W"
+  },
+  {
    "device": "a40",
    "name": "Galaxy A40",
    "model": "SM-A405FM"
@@ -109712,6 +109757,11 @@
    "device": "a42xuq",
    "name": "Galaxy A42 5G",
    "model": "SM-A426U"
+  },
+  {
+   "device": "a42xuq",
+   "name": "Galaxy A42 5G",
+   "model": "SM-A426U1"
   },
   {
    "device": "a53g",
@@ -110047,6 +110097,16 @@
    "device": "a52xq",
    "name": "Galaxy A52 5G",
    "model": "SM-A526U"
+  },
+  {
+   "device": "a52xq",
+   "name": "Galaxy A52 5G",
+   "model": "SM-A526U1"
+  },
+  {
+   "device": "a52xq",
+   "name": "Galaxy A52 5G",
+   "model": "SM-A526W"
   },
   {
    "device": "a6elteaio",
@@ -122825,6 +122885,11 @@
    "device": "WJG",
    "name": "AQUOS sense5G",
    "model": "SHG03"
+  },
+  {
+   "device": "SarahH",
+   "name": "AQUOS sense5G SH-S50",
+   "model": "SH-S50"
   },
   {
    "device": "SG801SH",
@@ -164899,6 +164964,11 @@
    "device": "HB_N9106H_C_truevisions",
    "name": "N9106H-C",
    "model": "N9106H-C"
+  },
+  {
+   "device": "HP42F",
+   "name": "SKWAMX3",
+   "model": "SKWAMX3"
   },
   {
    "device": "TV_A01",

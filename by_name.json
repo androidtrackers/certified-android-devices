@@ -108976,6 +108976,13 @@
    "model": "Meizu M8c"
   }
  ],
+ "MEIZU 18": [
+  {
+   "brand": "Meizu",
+   "device": "meizu18",
+   "model": "MEIZU 18"
+  }
+ ],
  "Meizu 6T": [
   {
    "brand": "Meizu",
@@ -109052,6 +109059,13 @@
    "brand": "Meizu",
    "device": "meizu17Pro",
    "model": "meizu 17 Pro"
+  }
+ ],
+ "meizu 18 Pro": [
+  {
+   "brand": "Meizu",
+   "device": "meizu18Pro",
+   "model": "MEIZU 18 Pro"
   }
  ],
  "meizu C9": [
@@ -128065,6 +128079,13 @@
    "model": "NEXT"
   }
  ],
+ "NEXT Elite-4K 16": [
+  {
+   "brand": "Panasonic",
+   "device": "NEXT820",
+   "model": "NEXT"
+  }
+ ],
  "NEXT Elite-4K 24": [
   {
    "brand": "Panasonic",
@@ -141638,6 +141659,11 @@
   {
    "brand": "Samsung",
    "device": "a02q",
+   "model": "SM-A025U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a02q",
    "model": "SM-A025V"
   }
  ],
@@ -141759,6 +141785,16 @@
    "brand": "Samsung",
    "device": "a12",
    "model": "SM-A125M"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a12",
+   "model": "SM-A125N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a12u",
+   "model": "SM-A125U"
   }
  ],
  "Galaxy A2 Core": [
@@ -142166,6 +142202,21 @@
    "brand": "Samsung",
    "device": "a32x",
    "model": "SM-A326BR"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a32x",
+   "model": "SM-A326U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a32x",
+   "model": "SM-A326U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a32x",
+   "model": "SM-A326W"
   }
  ],
  "Galaxy A40": [
@@ -142239,6 +142290,11 @@
    "brand": "Samsung",
    "device": "a42xuq",
    "model": "SM-A426U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a42xuq",
+   "model": "SM-A426U1"
   }
  ],
  "Galaxy A5": [
@@ -142594,6 +142650,16 @@
    "brand": "Samsung",
    "device": "a52xq",
    "model": "SM-A526U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a52xq",
+   "model": "SM-A526U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a52xq",
+   "model": "SM-A526W"
   }
  ],
  "Galaxy A6": [
@@ -156789,6 +156855,13 @@
    "brand": "Sharp",
    "device": "WJG",
    "model": "SHG03"
+  }
+ ],
+ "AQUOS sense5G SH-S50": [
+  {
+   "brand": "Sharp",
+   "device": "SarahH",
+   "model": "SH-S50"
   }
  ],
  "AQUOS zero": [
@@ -204402,6 +204475,13 @@
    "brand": "truevisions",
    "device": "HB_N9106H_C_truevisions",
    "model": "N9106H-C"
+  }
+ ],
+ "SKWAMX3": [
+  {
+   "brand": "truevisions",
+   "device": "HP42F",
+   "model": "SKWAMX3"
   }
  ],
  "STI6030_TRUE_TV_A01": [

@@ -3885,6 +3885,11 @@
    "brand": "Samsung",
    "name": "Galaxy A12",
    "model": "SM-A125M"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A12",
+   "model": "SM-A125N"
   }
  ],
  "s3": [
@@ -107354,6 +107359,13 @@
    "model": "Meizu M8c"
   }
  ],
+ "meizu18": [
+  {
+   "brand": "Meizu",
+   "name": "MEIZU 18",
+   "model": "MEIZU 18"
+  }
+ ],
  "Meizu6T": [
   {
    "brand": "Meizu",
@@ -107430,6 +107442,13 @@
    "brand": "Meizu",
    "name": "meizu 17 Pro",
    "model": "meizu 17 Pro"
+  }
+ ],
+ "meizu18Pro": [
+  {
+   "brand": "Meizu",
+   "name": "meizu 18 Pro",
+   "model": "MEIZU 18 Pro"
   }
  ],
  "meizuC9": [
@@ -127022,6 +127041,11 @@
   },
   {
    "brand": "Panasonic",
+   "name": "NEXT Elite-4K 16",
+   "model": "NEXT"
+  },
+  {
+   "brand": "Panasonic",
    "name": "NEXT Elite-4K 24",
    "model": "NEXT"
   }
@@ -141315,6 +141339,11 @@
   {
    "brand": "Samsung",
    "name": "Galaxy A02s",
+   "model": "SM-A025U"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A02s",
    "model": "SM-A025V"
   },
   {
@@ -141414,6 +141443,13 @@
    "brand": "Samsung",
    "name": "Galaxy A11",
    "model": "SM-A115W"
+  }
+ ],
+ "a12u": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A12",
+   "model": "SM-A125U"
   }
  ],
  "a2corelte": [
@@ -141858,6 +141894,21 @@
    "brand": "Samsung",
    "name": "Galaxy A32 5G",
    "model": "SM-A326BR"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A32 5G",
+   "model": "SM-A326U"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A32 5G",
+   "model": "SM-A326U1"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A32 5G",
+   "model": "SM-A326W"
   }
  ],
  "a40": [
@@ -141937,6 +141988,11 @@
    "brand": "Samsung",
    "name": "Galaxy A42 5G",
    "model": "SM-A426U"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A42 5G",
+   "model": "SM-A426U1"
   }
  ],
  "a53g": [
@@ -142274,6 +142330,16 @@
    "brand": "Samsung",
    "name": "Galaxy A52 5G",
    "model": "SM-A526U"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A52 5G",
+   "model": "SM-A526U1"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A52 5G",
+   "model": "SM-A526W"
   }
  ],
  "a6elteaio": [
@@ -158560,6 +158626,13 @@
    "brand": "Sharp",
    "name": "AQUOS sense5G",
    "model": "SHG03"
+  }
+ ],
+ "SarahH": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense5G SH-S50",
+   "model": "SH-S50"
   }
  ],
  "SG801SH": [
@@ -207028,6 +207101,13 @@
    "brand": "truevisions",
    "name": "N9106H-C",
    "model": "N9106H-C"
+  }
+ ],
+ "HP42F": [
+  {
+   "brand": "truevisions",
+   "name": "SKWAMX3",
+   "model": "SKWAMX3"
   }
  ],
  "EASY1": [

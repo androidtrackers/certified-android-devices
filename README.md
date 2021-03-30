@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-03-29
+Last sync is 2021-03-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -15885,6 +15885,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Meizu|M6s|MeizumbluS6|Meizu mblu S6|
 |Meizu|M712C|M712C|M712C|
 |Meizu|M8c|MeizuM8c|Meizu M8c|
+|Meizu|MEIZU 18|meizu18|MEIZU 18|
 |Meizu|Meizu 6T|Meizu6T|Meizu 6T|
 |Meizu|Meizu S6|MeizuS6|M712C|
 |Meizu|Meizu S6|MeizuS6|Meizu S6|
@@ -15897,6 +15898,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Meizu|meizu 16Xs|meizu16Xs|meizu 16Xs|
 |Meizu|meizu 17|meizu17|meizu 17|
 |Meizu|meizu 17 Pro|meizu17Pro|meizu 17 Pro|
+|Meizu|meizu 18 Pro|meizu18Pro|MEIZU 18 Pro|
 |Meizu|meizu C9|meizuC9|meizu C9|
 |Meizu|meizu C9 pro|meizuC9pro|meizu C9 pro|
 |Meizu|meizu M10|meizuM10|meizu M10|
@@ -19060,6 +19062,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|NEXT Crew Terminal - AutoChip|NEXT820|NEXT|
 |Panasonic|NEXT Crew Terminal - IoT Chip|NEXT821|NEXT|
 |Panasonic|NEXT Eco4K 12|NEXT821|NEXT|
+|Panasonic|NEXT Elite-4K 16|NEXT820|NEXT|
 |Panasonic|NEXT Elite-4K 24|NEXT820|NEXT|
 |Panasonic|P-01D|pana2_1|P-01D|
 |Panasonic|P-01K|P-01K|P-01K|
@@ -21231,6 +21234,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A02s|a02q|SM-A025F|
 |Samsung|Galaxy A02s|a02q|SM-A025G|
 |Samsung|Galaxy A02s|a02q|SM-A025M|
+|Samsung|Galaxy A02s|a02q|SM-A025U|
 |Samsung|Galaxy A02s|a02q|SM-A025V|
 |Samsung|Galaxy A10|a10|SM-A105F|
 |Samsung|Galaxy A10|a10|SM-A105FN|
@@ -21254,6 +21258,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A11|a11q|SM-A115W|
 |Samsung|Galaxy A12|a12|SM-A125F|
 |Samsung|Galaxy A12|a12|SM-A125M|
+|Samsung|Galaxy A12|a12|SM-A125N|
+|Samsung|Galaxy A12|a12u|SM-A125U|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260F|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260G|
 |Samsung|Galaxy A20|SC-02M|SC-02M|
@@ -21329,6 +21335,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A32 5G|SCG08|SCG08|
 |Samsung|Galaxy A32 5G|a32x|SM-A326B|
 |Samsung|Galaxy A32 5G|a32x|SM-A326BR|
+|Samsung|Galaxy A32 5G|a32x|SM-A326U|
+|Samsung|Galaxy A32 5G|a32x|SM-A326U1|
+|Samsung|Galaxy A32 5G|a32x|SM-A326W|
 |Samsung|Galaxy A40|a40|SM-A405FM|
 |Samsung|Galaxy A40|a40|SM-A405FN|
 |Samsung|Galaxy A40|a40|SM-A405S|
@@ -21342,6 +21351,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A42 5G|a42xq|SM-A426B|
 |Samsung|Galaxy A42 5G|a42xq|SM-A426N|
 |Samsung|Galaxy A42 5G|a42xuq|SM-A426U|
+|Samsung|Galaxy A42 5G|a42xuq|SM-A426U1|
 |Samsung|Galaxy A5|a53g|SM-A500H|
 |Samsung|Galaxy A5|a5lte|SM-A500F|
 |Samsung|Galaxy A5|a5lte|SM-A500G|
@@ -21409,6 +21419,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A52 5G|a52xq|SM-A5260|
 |Samsung|Galaxy A52 5G|a52xq|SM-A526B|
 |Samsung|Galaxy A52 5G|a52xq|SM-A526U|
+|Samsung|Galaxy A52 5G|a52xq|SM-A526U1|
+|Samsung|Galaxy A52 5G|a52xq|SM-A526W|
 |Samsung|Galaxy A6|a6elteaio|SM-A600AZ|
 |Samsung|Galaxy A6|a6elteatt|SM-A600A|
 |Samsung|Galaxy A6|a6eltemtr|SM-A600T1|
@@ -23953,6 +23965,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS sense5G|Sarah|A004SH|
 |Sharp|AQUOS sense5G|Sarah|SH-M17|
 |Sharp|AQUOS sense5G|WJG|SHG03|
+|Sharp|AQUOS sense5G SH-S50|SarahH|SH-S50|
 |Sharp|AQUOS zero|SG801SH|801SH|
 |Sharp|AQUOS zero|SH-Z10|SH-Z10|
 |Sharp|AQUOS zero|SH-Z10A|SH-Z10A|
@@ -32141,6 +32154,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |truevisions|HCH03|TrueHCH03|HCH03|
 |truevisions|N9106H-B|HB_N9106H_B_truevisions|N9106H-B|
 |truevisions|N9106H-C|HB_N9106H_C_truevisions|N9106H-C|
+|truevisions|SKWAMX3|HP42F|SKWAMX3|
 |truevisions|STI6030_TRUE_TV_A01|TV_A01|STI6030_TRUE_TV_A01|
 |truvii|Truvii|seocho|Truvii 4K Android TV|
 |ucall|EASY1|EASY1|EASY1|
