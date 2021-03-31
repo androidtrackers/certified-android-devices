@@ -16839,11 +16839,6 @@
  ],
  "CHiQ": [
   {
-   "device": "hapjeong",
-   "name": "G7P",
-   "model": "AI PONT PLUS"
-  },
-  {
    "device": "samseong",
    "name": "H7A",
    "model": "AI PONT"
@@ -18338,6 +18333,11 @@
   }
  ],
  "Changhong": [
+  {
+   "device": "hapjeong",
+   "name": "G7P",
+   "model": "AI PONT PLUS"
+  },
   {
    "device": "GIU6060",
    "name": "GIU6060",
@@ -24605,6 +24605,13 @@
    "device": "M50E-1A",
    "name": "M50E-1A",
    "model": "M50E-1A"
+  }
+ ],
+ "Dialog_TV": [
+  {
+   "device": "DV6067H-Dialog",
+   "name": "Viu Mini",
+   "model": "Viu Mini"
   }
  ],
  "Diamond": [
@@ -63442,19 +63449,19 @@
  ],
  "Kurio": [
   {
+   "device": "U3A_7_WIFI_Refresh_KD",
+   "name": "KURIO LITE GO NEW",
+   "model": "9309S"
+  },
+  {
    "device": "Aquaman_10_WIFI",
-   "name": "1T10  WIFI NEW",
+   "name": "Kurio Smart 2 in 1 PRO",
    "model": "8391X"
   },
   {
    "device": "Aquaman_10_WIFI",
-   "name": "1T10 WIFI NEW",
+   "name": "Kurio Smart 2 in 1 PRO",
    "model": "8391X_EEA"
-  },
-  {
-   "device": "U3A_7_WIFI_Refresh_KD",
-   "name": "KURIO LITE GO NEW",
-   "model": "9309S"
   },
   {
    "device": "Hulk_7_KIDS_WIFI",
@@ -115719,6 +115726,11 @@
    "model": "SGH-T589W"
   },
   {
+   "device": "a82xq",
+   "name": "Galaxy Quantum2",
+   "model": "SM-A826S"
+  },
+  {
    "device": "jaguark",
    "name": "Galaxy R-Style",
    "model": "SHV-E170K"
@@ -116527,6 +116539,11 @@
    "device": "y2s",
    "name": "Galaxy S20+ 5G",
    "model": "SM-G986B"
+  },
+  {
+   "device": "SC-51B",
+   "name": "Galaxy S21 5G",
+   "model": "SC-51B"
   },
   {
    "device": "o1q",
@@ -134654,16 +134671,6 @@
    "model": "8068"
   },
   {
-   "device": "U3A_7_WIFI_Refresh",
-   "name": "Alcatel 1T 7 WIFI NEW",
-   "model": "9309X"
-  },
-  {
-   "device": "U3A_7_WIFI_Refresh",
-   "name": "Alcatel 1T7 Wifi",
-   "model": "9309X_RU"
-  },
-  {
    "device": "Tokyo_Lite",
    "name": "Alcatel 1V",
    "model": "5007A"
@@ -137562,6 +137569,16 @@
    "device": "King_Kong_7_4G",
    "name": "alcatel 1T7 4G",
    "model": "9013X_TR"
+  },
+  {
+   "device": "U3A_7_WIFI_Refresh",
+   "name": "alcatel 1T7 NEW",
+   "model": "9309X"
+  },
+  {
+   "device": "U3A_7_WIFI_Refresh",
+   "name": "alcatel 1T7 NEW",
+   "model": "9309X_RU"
   },
   {
    "device": "Edison",

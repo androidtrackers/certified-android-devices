@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-03-30
+Last sync is 2021-03-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3265,7 +3265,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CHN TELECOM|CHN-UCAN MJ|lefhd|CHN-UCAN MJ|
 |"CHUBU TELECOMMUNICATIONS CO.|INC"|STI6130C|sti6130d353|
 |"CHUBU TELECOMMUNICATIONS CO.|INC"|STI6130d353|sti6130d353|
-|CHiQ|G7P|hapjeong|AI PONT PLUS|
 |CHiQ|H7A|samseong|AI PONT|
 |CHiQ|M7A|samseong|AI PONT|
 |CILICO|C6|C6|C6|
@@ -3543,6 +3542,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Challenger|Challenger|osaki|2K AI Smart TV|
 |Chameleon|Chameleon-H|Chameleon-H|E9XG-A05-M|
 |Chanbly|q7|q7|q7|
+|Changhong|G7P|hapjeong|AI PONT PLUS|
 |Changhong|GIU6060|GIU6060|GIU6060|
 |Changhong|GIU6860|GIU6860|GIU6860|
 |Changhong|Korea|sindorim|AI PONT|
@@ -4755,6 +4755,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dialog Blaze|5701A|5701A|5701A|
 |Dialog Blaze|Dialog_Blaze_Mini|Dialog_Blaze_Mini|Dialog_Blaze_Mini|
 |Dialog Blaze|M50E-1A|M50E-1A|M50E-1A|
+|Dialog_TV|Viu Mini|DV6067H-Dialog|Viu Mini|
 |Diamond|A1046DRI|A1046DRI|A1046DRI|
 |Diamond|DIB100|DIB100|DIB100|
 |Diamond|DIM100|DIM100|DIM100|
@@ -12318,9 +12319,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kult|KT05|KT05|KT05|
 |Kult|Kult Ambition|Ambition|Ambition|
 |Kult|Kult Beyond|Beyond|Beyond|
-|Kurio|1T10  WIFI NEW|Aquaman_10_WIFI|8391X|
-|Kurio|1T10 WIFI NEW|Aquaman_10_WIFI|8391X_EEA|
 |Kurio|KURIO LITE GO NEW|U3A_7_WIFI_Refresh_KD|9309S|
+|Kurio|Kurio Smart 2 in 1 PRO|Aquaman_10_WIFI|8391X|
+|Kurio|Kurio Smart 2 in 1 PRO|Aquaman_10_WIFI|8391X_EEA|
 |Kurio|Kurio Tab|Hulk_7_KIDS_WIFI|8076|
 |Kurio|Kurio Tab|Hulk_7_KIDS_WIFI|8076_EEA|
 |Kurio|Smart Tab 7|Phoenix_7_KD|9317H|
@@ -22543,6 +22544,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Q|SGH-T589|SGH-T589|
 |Samsung|Galaxy Q|SGH-T589R|SGH-T589R|
 |Samsung|Galaxy Q|SGH-T589W|SGH-T589W|
+|Samsung|Galaxy Quantum2|a82xq|SM-A826S|
 |Samsung|Galaxy R-Style|jaguark|SHV-E170K|
 |Samsung|Galaxy R-Style|jaguarl|SHV-E170L|
 |Samsung|Galaxy R-Style|jaguars|SHV-E170S|
@@ -22705,6 +22707,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S20+ 5G|y2q|SM-G986U1|
 |Samsung|Galaxy S20+ 5G|y2q|SM-G986W|
 |Samsung|Galaxy S20+ 5G|y2s|SM-G986B|
+|Samsung|Galaxy S21 5G|SC-51B|SC-51B|
 |Samsung|Galaxy S21 5G|o1q|SM-G9910|
 |Samsung|Galaxy S21 5G|o1q|SM-G991U1|
 |Samsung|Galaxy S21 5G|o1q|SM-G991W|
@@ -26276,8 +26279,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1SE lite edition|Jakarta_Lite|4087U_EEA|
 |TCT (Alcatel)|Alcatel 1SP|Jakarta|5030E_RU|
 |TCT (Alcatel)|Alcatel 1T 7 WIFI|U3A_7_WIFI|8068|
-|TCT (Alcatel)|Alcatel 1T 7 WIFI NEW|U3A_7_WIFI_Refresh|9309X|
-|TCT (Alcatel)|Alcatel 1T7 Wifi|U3A_7_WIFI_Refresh|9309X_RU|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007A|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007G|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007U|
@@ -26858,6 +26859,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|alcatel 1T7 4G|King_Kong_7_4G|9013X_EEA|
 |TCT (Alcatel)|alcatel 1T7 4G|King_Kong_7_4G|9013X_RU|
 |TCT (Alcatel)|alcatel 1T7 4G|King_Kong_7_4G|9013X_TR|
+|TCT (Alcatel)|alcatel 1T7 NEW|U3A_7_WIFI_Refresh|9309X|
+|TCT (Alcatel)|alcatel 1T7 NEW|U3A_7_WIFI_Refresh|9309X_RU|
 |TCT (Alcatel)|alcatel 1X|Edison|5008A|
 |TCT (Alcatel)|alcatel 1X|Edison|5008D|
 |TCT (Alcatel)|alcatel 1X|Edison|5008D_EEA|

@@ -24660,13 +24660,6 @@
    "device": "STI6130d353"
   }
  ],
- "AI PONT PLUS": [
-  {
-   "brand": "CHiQ",
-   "name": "G7P",
-   "device": "hapjeong"
-  }
- ],
  "F750": [
   {
    "brand": "CILICO",
@@ -26672,6 +26665,13 @@
    "brand": "Chanbly",
    "name": "q7",
    "device": "q7"
+  }
+ ],
+ "AI PONT PLUS": [
+  {
+   "brand": "Changhong",
+   "name": "G7P",
+   "device": "hapjeong"
   }
  ],
  "GIU6060": [
@@ -35107,6 +35107,13 @@
    "brand": "Dialog Blaze",
    "name": "M50E-1A",
    "device": "M50E-1A"
+  }
+ ],
+ "Viu Mini": [
+  {
+   "brand": "Dialog_TV",
+   "name": "Viu Mini",
+   "device": "DV6067H-Dialog"
   }
  ],
  "A1046DRI": [
@@ -86459,25 +86466,25 @@
    "device": "Beyond"
   }
  ],
+ "9309S": [
+  {
+   "brand": "Kurio",
+   "name": "KURIO LITE GO NEW",
+   "device": "U3A_7_WIFI_Refresh_KD"
+  }
+ ],
  "8391X": [
   {
    "brand": "Kurio",
-   "name": "1T10  WIFI NEW",
+   "name": "Kurio Smart 2 in 1 PRO",
    "device": "Aquaman_10_WIFI"
   }
  ],
  "8391X_EEA": [
   {
    "brand": "Kurio",
-   "name": "1T10 WIFI NEW",
+   "name": "Kurio Smart 2 in 1 PRO",
    "device": "Aquaman_10_WIFI"
-  }
- ],
- "9309S": [
-  {
-   "brand": "Kurio",
-   "name": "KURIO LITE GO NEW",
-   "device": "U3A_7_WIFI_Refresh_KD"
   }
  ],
  "8076": [
@@ -154192,6 +154199,13 @@
    "device": "SGH-T589W"
   }
  ],
+ "SM-A826S": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Quantum2",
+   "device": "a82xq"
+  }
+ ],
  "SHV-E170K": [
   {
    "brand": "Samsung",
@@ -155302,6 +155316,13 @@
    "brand": "Samsung",
    "name": "Galaxy S20+ 5G",
    "device": "y2s"
+  }
+ ],
+ "SC-51B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 5G",
+   "device": "SC-51B"
   }
  ],
  "SM-G9910": [
@@ -179248,20 +179269,6 @@
    "device": "U3A_7_WIFI"
   }
  ],
- "9309X": [
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "Alcatel 1T 7 WIFI NEW",
-   "device": "U3A_7_WIFI_Refresh"
-  }
- ],
- "9309X_RU": [
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "Alcatel 1T7 Wifi",
-   "device": "U3A_7_WIFI_Refresh"
-  }
- ],
  "5007A": [
   {
    "brand": "TCT (Alcatel)",
@@ -183106,6 +183113,20 @@
    "brand": "TCT (Alcatel)",
    "name": "alcatel 1T7 4G",
    "device": "King_Kong_7_4G"
+  }
+ ],
+ "9309X": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "alcatel 1T7 NEW",
+   "device": "U3A_7_WIFI_Refresh"
+  }
+ ],
+ "9309X_RU": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "alcatel 1T7 NEW",
+   "device": "U3A_7_WIFI_Refresh"
   }
  ],
  "5008A": [
