@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-04-05
+Last sync is 2021-04-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3368,6 +3368,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Casio|DT-X400|dtx400|DT-X400|
 |Casio|DT-X400R|dtx400r|DT-X400R|
 |Casio|ET-L10|ET-L10|ET-L10|
+|Casio|GSW-H1000|tai|GSW-H1000|
 |Casio|IT-G400|itg400|IT-G400|
 |Casio|IT-G650|itg650|IT-G650|
 |Casio|Smart Outdoor Watch WSD-F10|koi|CASIO WSD-F10|
@@ -10946,6 +10947,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|HOT 10 Play|Infinix-X688C|Infinix X688C|
 |Infinix|HOT 10 lite|Infinix-X657B|Infinix X657B|
 |Infinix|HOT 10i|Infinix-X658B|Infinix X658B|
+|Infinix|HOT 10i|Infinix-X659|Infinix X659|
 |Infinix|HOT 10i|Infinix-X659B|Infinix X659B|
 |Infinix|HOT 2|Infinix_X510|Infinix X510|
 |Infinix|HOT 3|INFINIX-X554|Infinix HOT 3 Pro|
@@ -11000,6 +11002,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 9 Play|Infinix-X680E|Infinix X680E|
 |Infinix|Infinix HOT 9 Play|Infinix-X680F|Infinix X680F|
 |Infinix|Infinix HOT 9 Pro|Infinix-X655F|Infinix X655F|
+|Infinix|Infinix NOTE 10|Infinix-X693|Infinix X693|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604B|
 |Infinix|Infinix NOTE 5 Stylus|Infinix-X605_sprout|Infinix X605|
@@ -15269,6 +15272,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logicom|Volt-R|Volt-R|Volt-R|
 |Logicom|le Moov|LeMoov|LeMoov|
 |Logik|L32AHE19|ueno|2K Android TV|
+|Logik|LOGIK|sadang|LOGIK 4K Android TV|
 |Logitec|LZ-AA10|LZ-AA10|LZ-AA10|
 |Logitech|Revue|ka|Revue|
 |Louis Vuitton|Tambour Horizon|ling|Tambour|
@@ -18043,6 +18047,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ODYS|Titan_10_LTE|Titan_10_LTE|Titan_10_LTE|
 |ODYS|XELIO_HD10|XELIO_HD10|XELIO_HD10|
 |ODYS|FALCON_10_PLUS_3G|FALCON_10_PLUS_3G|FALCON_10_PLUS_3G|
+|OK (Mediamark)|32770H-TAB|ikebukuro|AI PONT|
 |OK (Mediamark)|ODL 32760HN-TAB|osaki|2K AI Smart TV|
 |OK (Mediamark)|ODL 32770H-TAB|ikebukuro|AI PONT|
 |OK (Mediamark)|ODL50672U-TAB|samseong|AI PONT|
@@ -18147,6 +18152,19 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 8 Pro|OnePlus8Pro|IN2023|
 |OnePlus|OnePlus 8T|OnePlus8T|KB2005|
 |OnePlus|OnePlus 8T+ 5G|OnePlus8TTMO|KB2007|
+|OnePlus|OnePlus 9|OnePlus9|LE2110|
+|OnePlus|OnePlus 9|OnePlus9|LE2113|
+|OnePlus|OnePlus 9 5G|OnePlus9|LE2110|
+|OnePlus|OnePlus 9 5G|OnePlus9|LE2111|
+|OnePlus|OnePlus 9 5G|OnePlus9|LE2115|
+|OnePlus|OnePlus 9 5G|OnePlus9TMO|LE2117|
+|OnePlus|OnePlus 9 Pro|OnePlus9Pro|LE2120|
+|OnePlus|OnePlus 9 Pro 5G|OnePlus9Pro|LE2120|
+|OnePlus|OnePlus 9 Pro 5G|OnePlus9Pro|LE2121|
+|OnePlus|OnePlus 9 Pro 5G|OnePlus9Pro|LE2123|
+|OnePlus|OnePlus 9 Pro 5G|OnePlus9Pro|LE2125|
+|OnePlus|OnePlus 9 Pro 5G|OnePlus9ProTMO|LE2127|
+|OnePlus|OnePlus Nord|Nord|AC2001|
 |OnePlus|OnePlus Nord|Nord|AC2003|
 |OnePlus|OnePlus Nord N10 5G|OnePlusN10|BE2026|
 |OnePlus|OnePlus Nord N10 5G|OnePlusN10|BE2029|
@@ -21261,6 +21279,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A12|a12|SM-A125M|
 |Samsung|Galaxy A12|a12|SM-A125N|
 |Samsung|Galaxy A12|a12u|SM-A125U|
+|Samsung|Galaxy A12|a12u|SM-A125U1|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260F|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260G|
 |Samsung|Galaxy A20|SC-02M|SC-02M|
@@ -22707,7 +22726,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S20+ 5G|y2q|SM-G986U1|
 |Samsung|Galaxy S20+ 5G|y2q|SM-G986W|
 |Samsung|Galaxy S20+ 5G|y2s|SM-G986B|
-|Samsung|Galaxy S21 5G|SC-51B|SC-51B|
 |Samsung|Galaxy S21 5G|o1q|SM-G9910|
 |Samsung|Galaxy S21 5G|o1q|SM-G991U1|
 |Samsung|Galaxy S21 5G|o1q|SM-G991W|
@@ -25070,6 +25088,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SoyMomo|SoyMomo_Pro_V1|Pro_V1|SoyMomo_Pro_V1|
 |SoyMomo|SoyMomo_Pro_V2|SoyMomo_Pro_V2|SoyMomo_Pro_V2|
 |Spark|Spark_Plus_3|Spark_Plus_3|Spark Plus 3|
+|Spectra Geospatial|Ranger 5|bcat|RGR5|
 |SpectraPrecision|Ranger 5 Handheld|workhorse_wifi|Ranger5|
 |SpectraPrecision|Ranger 8 Handheld|pelican|Ranger8|
 |SpectraPrecision|Ranger 8 Handheld|pelican_wifi|Ranger8|
@@ -27355,6 +27374,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 7|TECNO-KF6|TECNO KF6|
 |Tecno|TECNO SPARK 7|TECNO-KF6h|TECNO KF6h|
 |Tecno|TECNO SPARK 7|TECNO-KF6j|TECNO KF6j|
+|Tecno|TECNO SPARK 7|TECNO-KF6k|TECNO KF6k|
 |Tecno|TECNO SPARK 7 Pro|TECNO-KF8|TECNO KF8|
 |Tecno|TECNO SPARK Go|TECNO-KC1|TECNO KC1|
 |Tecno|TECNO Tab|TECNO-P704|TECNO P704|
@@ -27721,6 +27741,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Trimble Navigation|MobileDisplayTerminal|PD5|PD5|
 |Trimble Navigation|Nomad 5|pdog|Nomad 5|
 |Trimble Navigation|PeopleNet ConnectedTablet|MS5|MS5|
+|Trimble Navigation|Ranger 5|bcat|RGR5|
 |Trimble Navigation|TD-520|td520|TD520|
 |Trimble Navigation|TDC100_WiFi|EE773X_WiFi|MobileMapper50_WiFi|
 |Trimble Navigation|TDC100_WiFi|EE773X_WiFi|TDC100_WiFi|
@@ -27732,6 +27753,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Trimble Navigation|TDC800 Handheld|pelican_wifi|TDC800|
 |Trimble Navigation|TDI 600|ulmo_pro|Rugged Tablet|
 |Trimble Navigation|TDI 600|ulmo_pro|TDI 600|
+|Trimble Navigation|TSC5|bcat|TSC5|
 |Trimble Navigation|Trimble ConnectedTablet|MS5|MS5|
 |Trimble Navigation|Trimble DUO|DUO|DUO|
 |Trio|7.85|astar-y3|TRIO-7.85|
@@ -29048,6 +29070,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vsmart|VINATV 4K|TR2001|VINATV 4K|
 |Vsmart|VINATV 4K|samseong|VINATV 4K|
 |Vsmart|VINTV 2K|TR2002|VINTV 2K|
+|Vsmart|VINTV 4K|TR2003|VINTV 4K|
 |Vsun|MARS  Touch|MARS_TOUCH|MARS TOUCH|
 |Vsun|MARS Nocam|MARS_NOCAM|MARS NOCAM|
 |Vsun|MARS Note|MARS_NOTE|MARS NOTE|

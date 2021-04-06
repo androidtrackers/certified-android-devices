@@ -31374,6 +31374,13 @@
    "model": "ET-L10"
   }
  ],
+ "GSW-H1000": [
+  {
+   "brand": "Casio",
+   "device": "tai",
+   "model": "GSW-H1000"
+  }
+ ],
  "IT-G400": [
   {
    "brand": "Casio",
@@ -79571,6 +79578,11 @@
   },
   {
    "brand": "Infinix",
+   "device": "Infinix-X659",
+   "model": "Infinix X659"
+  },
+  {
+   "brand": "Infinix",
    "device": "Infinix-X659B",
    "model": "Infinix X659B"
   }
@@ -79868,6 +79880,13 @@
    "brand": "Infinix",
    "device": "Infinix-X655F",
    "model": "Infinix X655F"
+  }
+ ],
+ "Infinix NOTE 10": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X693",
+   "model": "Infinix X693"
   }
  ],
  "Infinix NOTE 5": [
@@ -104987,6 +105006,13 @@
    "model": "2K Android TV"
   }
  ],
+ "LOGIK": [
+  {
+   "brand": "Logik",
+   "device": "sadang",
+   "model": "LOGIK 4K Android TV"
+  }
+ ],
  "LZ-AA10": [
   {
    "brand": "Logitec",
@@ -107697,6 +107723,16 @@
    "brand": "Maxwest",
    "device": "Ranger_5",
    "model": "Ranger_5"
+  },
+  {
+   "brand": "Spectra Geospatial",
+   "device": "bcat",
+   "model": "RGR5"
+  },
+  {
+   "brand": "Trimble Navigation",
+   "device": "bcat",
+   "model": "RGR5"
   }
  ],
  "TAB-9G": [
@@ -121850,6 +121886,13 @@
    "model": "FALCON_10_PLUS_3G"
   }
  ],
+ "32770H-TAB": [
+  {
+   "brand": "OK (Mediamark)",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  }
+ ],
  "ODL 32760HN-TAB": [
   {
    "brand": "OK (Mediamark)",
@@ -122400,7 +122443,80 @@
    "model": "KB2007"
   }
  ],
+ "OnePlus 9": [
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus9",
+   "model": "LE2110"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus9",
+   "model": "LE2113"
+  }
+ ],
+ "OnePlus 9 5G": [
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus9",
+   "model": "LE2110"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus9",
+   "model": "LE2111"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus9",
+   "model": "LE2115"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus9TMO",
+   "model": "LE2117"
+  }
+ ],
+ "OnePlus 9 Pro": [
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus9Pro",
+   "model": "LE2120"
+  }
+ ],
+ "OnePlus 9 Pro 5G": [
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus9Pro",
+   "model": "LE2120"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus9Pro",
+   "model": "LE2121"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus9Pro",
+   "model": "LE2123"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus9Pro",
+   "model": "LE2125"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus9ProTMO",
+   "model": "LE2127"
+  }
+ ],
  "OnePlus Nord": [
+  {
+   "brand": "OnePlus",
+   "device": "Nord",
+   "model": "AC2001"
+  },
   {
    "brand": "OnePlus",
    "device": "Nord",
@@ -141800,6 +141916,11 @@
    "brand": "Samsung",
    "device": "a12u",
    "model": "SM-A125U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a12u",
+   "model": "SM-A125U1"
   }
  ],
  "Galaxy A2 Core": [
@@ -149696,11 +149817,6 @@
   }
  ],
  "Galaxy S21 5G": [
-  {
-   "brand": "Samsung",
-   "device": "SC-51B",
-   "model": "SC-51B"
-  },
   {
    "brand": "Samsung",
    "device": "o1q",
@@ -176326,6 +176442,11 @@
    "brand": "Tecno",
    "device": "TECNO-KF6j",
    "model": "TECNO KF6j"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KF6k",
+   "model": "TECNO KF6k"
   }
  ],
  "TECNO SPARK 7 Pro": [
@@ -178658,6 +178779,13 @@
    "brand": "Trimble Navigation",
    "device": "ulmo_pro",
    "model": "TDI 600"
+  }
+ ],
+ "TSC5": [
+  {
+   "brand": "Trimble Navigation",
+   "device": "bcat",
+   "model": "TSC5"
   }
  ],
  "Trimble ConnectedTablet": [
@@ -186879,6 +187007,13 @@
    "brand": "Vsmart",
    "device": "TR2002",
    "model": "VINTV 2K"
+  }
+ ],
+ "VINTV 4K": [
+  {
+   "brand": "Vsmart",
+   "device": "TR2003",
+   "model": "VINTV 4K"
   }
  ],
  "MARS  Touch": [

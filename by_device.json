@@ -1071,6 +1071,11 @@
   },
   {
    "brand": "OK (Mediamark)",
+   "name": "32770H-TAB",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "OK (Mediamark)",
    "name": "ODL 32770H-TAB",
    "model": "AI PONT"
   },
@@ -26466,6 +26471,23 @@
    "model": "ET-L10"
   }
  ],
+ "tai": [
+  {
+   "brand": "Casio",
+   "name": "GSW-H1000",
+   "model": "GSW-H1000"
+  },
+  {
+   "brand": "Cellcom TV",
+   "name": "SEI-S905X2",
+   "model": "SEI-S905X2"
+  },
+  {
+   "brand": "Elsys",
+   "name": "ETRI02",
+   "model": "ETRI02"
+  }
+ ],
  "itg400": [
   {
    "brand": "Casio",
@@ -27287,18 +27309,6 @@
    "model": "S51_lite"
   }
  ],
- "tai": [
-  {
-   "brand": "Cellcom TV",
-   "name": "SEI-S905X2",
-   "model": "SEI-S905X2"
-  },
-  {
-   "brand": "Elsys",
-   "name": "ETRI02",
-   "model": "ETRI02"
-  }
- ],
  "ueno": [
   {
    "brand": "Cello",
@@ -27341,6 +27351,11 @@
    "brand": "Linsar",
    "name": "Linsar",
    "model": "Linsar UK 4K Android TV"
+  },
+  {
+   "brand": "Logik",
+   "name": "LOGIK",
+   "model": "LOGIK 4K Android TV"
   }
  ],
  "T1045PC": [
@@ -75922,6 +75937,13 @@
    "model": "Infinix X658B"
   }
  ],
+ "Infinix-X659": [
+  {
+   "brand": "Infinix",
+   "name": "HOT 10i",
+   "model": "Infinix X659"
+  }
+ ],
  "Infinix-X659B": [
   {
    "brand": "Infinix",
@@ -76280,6 +76302,13 @@
    "brand": "Infinix",
    "name": "Infinix HOT 9 Pro",
    "model": "Infinix X655F"
+  }
+ ],
+ "Infinix-X693": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix NOTE 10",
+   "model": "Infinix X693"
   }
  ],
  "Infinix-X604_sprout": [
@@ -121797,7 +121826,80 @@
    "model": "KB2007"
   }
  ],
+ "OnePlus9": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 9",
+   "model": "LE2110"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 9",
+   "model": "LE2113"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 9 5G",
+   "model": "LE2110"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 9 5G",
+   "model": "LE2111"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 9 5G",
+   "model": "LE2115"
+  }
+ ],
+ "OnePlus9TMO": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 9 5G",
+   "model": "LE2117"
+  }
+ ],
+ "OnePlus9Pro": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 9 Pro",
+   "model": "LE2120"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 9 Pro 5G",
+   "model": "LE2120"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 9 Pro 5G",
+   "model": "LE2121"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 9 Pro 5G",
+   "model": "LE2123"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 9 Pro 5G",
+   "model": "LE2125"
+  }
+ ],
+ "OnePlus9ProTMO": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 9 Pro 5G",
+   "model": "LE2127"
+  }
+ ],
  "Nord": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord",
+   "model": "AC2001"
+  },
   {
    "brand": "OnePlus",
    "name": "OnePlus Nord",
@@ -141457,6 +141559,11 @@
    "brand": "Samsung",
    "name": "Galaxy A12",
    "model": "SM-A125U"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A12",
+   "model": "SM-A125U1"
   }
  ],
  "a2corelte": [
@@ -150557,13 +150664,6 @@
    "brand": "Samsung",
    "name": "Galaxy S20+ 5G",
    "model": "SM-G986W"
-  }
- ],
- "SC-51B": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy S21 5G",
-   "model": "SC-51B"
   }
  ],
  "o1q": [
@@ -165916,6 +166016,23 @@
    "model": "Spark Plus 3"
   }
  ],
+ "bcat": [
+  {
+   "brand": "Spectra Geospatial",
+   "name": "Ranger 5",
+   "model": "RGR5"
+  },
+  {
+   "brand": "Trimble Navigation",
+   "name": "Ranger 5",
+   "model": "RGR5"
+  },
+  {
+   "brand": "Trimble Navigation",
+   "name": "TSC5",
+   "model": "TSC5"
+  }
+ ],
  "workhorse_wifi": [
   {
    "brand": "SpectraPrecision",
@@ -178779,6 +178896,13 @@
    "model": "TECNO KF6j"
   }
  ],
+ "TECNO-KF6k": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 7",
+   "model": "TECNO KF6k"
+  }
+ ],
  "TECNO-KF8": [
   {
    "brand": "Tecno",
@@ -189125,6 +189249,13 @@
    "brand": "Vsmart",
    "name": "VINTV 2K",
    "model": "VINTV 2K"
+  }
+ ],
+ "TR2003": [
+  {
+   "brand": "Vsmart",
+   "name": "VINTV 4K",
+   "model": "VINTV 4K"
   }
  ],
  "MARS_TOUCH": [
