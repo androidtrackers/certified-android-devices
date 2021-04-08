@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-04-07
+Last sync is 2021-04-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -21438,6 +21438,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A52|a52q|SM-A525F|
 |Samsung|Galaxy A52 5G|a52xq|SM-A5260|
 |Samsung|Galaxy A52 5G|a52xq|SM-A526B|
+|Samsung|Galaxy A52 5G|a52xq|SM-A526N|
 |Samsung|Galaxy A52 5G|a52xq|SM-A526U|
 |Samsung|Galaxy A52 5G|a52xq|SM-A526U1|
 |Samsung|Galaxy A52 5G|a52xq|SM-A526W|
@@ -22726,11 +22727,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S20+ 5G|y2q|SM-G986U1|
 |Samsung|Galaxy S20+ 5G|y2q|SM-G986W|
 |Samsung|Galaxy S20+ 5G|y2s|SM-G986B|
+|Samsung|Galaxy S21 5G|SC-51B|SC-51B|
 |Samsung|Galaxy S21 5G|o1q|SM-G9910|
 |Samsung|Galaxy S21 5G|o1q|SM-G991U1|
 |Samsung|Galaxy S21 5G|o1q|SM-G991W|
 |Samsung|Galaxy S21 5G|o1s|SM-G991B|
 |Samsung|Galaxy S21 5G|o1s|SM-G991N|
+|Samsung|Galaxy S21 Ultra 5G|SC-52B|SC-52B|
 |Samsung|Galaxy S21 Ultra 5G|p3q|SM-G9980|
 |Samsung|Galaxy S21 Ultra 5G|p3q|SM-G998U|
 |Samsung|Galaxy S21 Ultra 5G|p3q|SM-G998U1|
@@ -23647,7 +23650,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy view|gvltektt|SM-T677NK|
 |Samsung|Galaxy view|gvltelgt|SM-T677NL|
 |Samsung|Galaxy win|delos3gss|GT-I8550L|
-|Samsung|Galaxy-A60|a60q|SM-A6060|
 |Samsung|Galaxy-A9(2016)|a9xltechn|SM-A9000|
 |Samsung|Garda|gardalteMetroPCS|SGH-T399N|
 |Samsung|Garda|gardaltetmo|SGH-T399|
@@ -31751,6 +31753,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |benco|benco Y50|AF9010|AF9010|
 |benco|benco Y50|AF9010_F|AF9010_F|
 |benco|benco Y50|AF9020|AF9020|
+|benco|benco v80|AE9010|AE9010|
 |benco|v6|LH9921|LH9921|
 |benco|v7|LE9920_P|LE9920_P|
 |bontel|T20|T20|T20|

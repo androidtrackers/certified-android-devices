@@ -142443,6 +142443,11 @@
   {
    "brand": "Samsung",
    "name": "Galaxy A52 5G",
+   "model": "SM-A526N"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A52 5G",
    "model": "SM-A526U"
   },
   {
@@ -142576,11 +142581,6 @@
    "brand": "Samsung",
    "name": "Galaxy A60",
    "model": "SM-A606Y"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy-A60",
-   "model": "SM-A6060"
   }
  ],
  "a73g": [
@@ -150666,6 +150666,13 @@
    "model": "SM-G986W"
   }
  ],
+ "SC-51B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 5G",
+   "model": "SC-51B"
+  }
+ ],
  "o1q": [
   {
    "brand": "Samsung",
@@ -150693,6 +150700,13 @@
    "brand": "Samsung",
    "name": "Galaxy S21 5G",
    "model": "SM-G991N"
+  }
+ ],
+ "SC-52B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 Ultra 5G",
+   "model": "SC-52B"
   }
  ],
  "p3q": [
@@ -204619,6 +204633,13 @@
    "brand": "beafon",
    "name": "MX1",
    "model": "MX1"
+  }
+ ],
+ "AE9010": [
+  {
+   "brand": "benco",
+   "name": "benco v80",
+   "model": "AE9010"
   }
  ],
  "LH9921": [

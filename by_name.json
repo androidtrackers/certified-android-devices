@@ -142775,6 +142775,11 @@
   {
    "brand": "Samsung",
    "device": "a52xq",
+   "model": "SM-A526N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a52xq",
    "model": "SM-A526U"
   },
   {
@@ -149819,6 +149824,11 @@
  "Galaxy S21 5G": [
   {
    "brand": "Samsung",
+   "device": "SC-51B",
+   "model": "SC-51B"
+  },
+  {
+   "brand": "Samsung",
    "device": "o1q",
    "model": "SM-G9910"
   },
@@ -149844,6 +149854,11 @@
   }
  ],
  "Galaxy S21 Ultra 5G": [
+  {
+   "brand": "Samsung",
+   "device": "SC-52B",
+   "model": "SC-52B"
+  },
   {
    "brand": "Samsung",
    "device": "p3q",
@@ -154793,13 +154808,6 @@
    "brand": "Samsung",
    "device": "delos3gss",
    "model": "GT-I8550L"
-  }
- ],
- "Galaxy-A60": [
-  {
-   "brand": "Samsung",
-   "device": "a60q",
-   "model": "SM-A6060"
   }
  ],
  "Galaxy-A9(2016)": [
@@ -202026,6 +202034,13 @@
    "brand": "benco",
    "device": "AF9020",
    "model": "AF9020"
+  }
+ ],
+ "benco v80": [
+  {
+   "brand": "benco",
+   "device": "AE9010",
+   "model": "AE9010"
   }
  ],
  "v6": [
