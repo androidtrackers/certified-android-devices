@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-04-08
+Last sync is 2021-04-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4722,7 +4722,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Denso Wave|BHT-1800QWBG-2-A7|BHT-1800QWBG-2-A7|BHT-1800QWBG-2-A7|
 |Denso Wave|BHT-1800QWBG-3-A7|BHT-1800QWBG-3-A7|BHT-1800QWBG-3-A7|
 |Denso Wave|BHT-M60-QW-A10|BHT-M60-QW-A10|BHT-M60-QW-A10|
+|Denso Wave|BHT-M60-QW-A10N|BHT-M60-QW-A10N|BHT-M60-QW-A10N|
 |Denso Wave|BHT-M60-QWG-A10|BHT-M60-QWG-A10|BHT-M60-QWG-A10|
+|Denso Wave|BHT-M60-QWG-A10N|BHT-M60-QWG-A10N|BHT-M60-QWG-A10N|
 |Denso Wave|BHT-M70-QW-A10|BHT-M70-QW-A10|BHT-M70-QW-A10|
 |Denso Wave|BHT-M70-QWG-A10|BHT-M70-QWG-A10|BHT-M70-QWG-A10|
 |Denso Wave|BHT-M80-QW-A10|BHT-M80-QW-A10|BHT-M80-QW-A10|
@@ -5315,12 +5317,18 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EL (Africa)|W45S|W45S|W45S|
 |EL (Africa)|W60|W60|W60|
 |ELEXIA|ELEXIA|komagome|ELEXIA 2K Android TV|
+|ELO Touch|15in-I-Series-4-USB-C|15in-I-Series-4-USB-C|15in-I-Series-4-USB-C|
+|ELO Touch|15in-I-Series-4-USBC-V|15in-I-Series-4-USBC-V|15in-I-Series-4-USBC-V|
+|ELO Touch|Backpack-4|Backpack-4|Backpack-4|
+|ELO Touch|Backpack-4-Value|Backpack-4-Value|Backpack-4-Value|
 |ELO Touch|Elo-i3-15Std|Elo-i3-15Std|Elo-i3-15Std|
 |ELO Touch|Elo-i3-PUCK|Elo-i3-PUCK|Elo-i3-PUCK|
 |ELO Touch|I-Series 3.0 for Android|Elo-i3-10Std|Elo-i3-10Std|
 |ELO Touch|I-Series 3.0 for Android|Elo-i3-22Std|Elo-i3-22Std|
 |ELO Touch|M50|M50|M50|
 |ELO Touch|M50C|M50C|M50C|
+|ELO Touch|M60-Pay|M60-Pay|M60-Pay|
+|ELO Touch|M60C-Pay|M60C-Pay|M60C-Pay|
 |ELO Touch|PayPoint® Plus for Android|Elo-PP3-15|Elo-PP3-15|
 |ELO Touch|PayPoint® for Android|Elo-PP3-13|Elo-PP3-13|
 |EMCALI|N9119M|N9119M|N9119M|
@@ -18865,6 +18873,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO X2|phoenixin|POCO X2|
 |POCO|POCO X3|karna|M2007J20CI|
 |POCO|POCO X3 NFC|surya|M2007J20CG|
+|POCO|POCO X3 Pro|bhima|M2102J20SI|
+|POCO|POCO X3 Pro|vayu|M2102J20SG|
 |POPTEL|Kammunica V10|Kammunica_V10|Kammunica_V10|
 |POPTEL|P60|P60|P60|
 |POPTEL|P8|P8|P8|
@@ -20697,6 +20707,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 9C|angelica|angelica|
 |Redmi|Redmi 9C NFC|angelican|M2006C3MNG|
 |Redmi|Redmi 9C NFC|angelican|angelican|
+|Redmi|Redmi 9T|lemon|M2010J19SY|
+|Redmi|Redmi 9T|lime|M2010J19SG|
+|Redmi|Redmi 9T|pomelo|M2010J19SL|
 |Redmi|Redmi K20|davinci|Mi 9T|
 |Redmi|Redmi K20|davinci|Redmi K20|
 |Redmi|Redmi K20|davinciin|Redmi K20|
@@ -20709,9 +20722,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi K30S Ultra|apollo|M2007J3SC|
 |Redmi|Redmi K30i 5G|picasso|Redmi K30i 5G|
 |Redmi|Redmi K40|alioth|M2012K11AC|
+|Redmi|Redmi K40|alioth|M2012K11AG|
 |Redmi|Redmi K40 Pro|haydn|M2012K11C|
 |Redmi|Redmi K40 Pro +|haydn|M2012K11C|
 |Redmi|Redmi Note 10|sunny|M2101K7AG|
+|Redmi|Redmi Note 10|sunny|M2101K7AI|
 |Redmi|Redmi Note 10 Pro|sweet|M2101K6G|
 |Redmi|Redmi Note 10 Pro|sweetin|M2101K6P|
 |Redmi|Redmi Note 10 Pro Max|sweetin|M2101K6I|
@@ -20719,6 +20734,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 8|ginkgo|GINKGO|
 |Redmi|Redmi Note 8|ginkgo|Redmi Note 8|
 |Redmi|Redmi Note 8 Pro|begonia|Redmi Note 8 Pro|
+|Redmi|Redmi Note 8 Pro|begonia|begonia|
 |Redmi|Redmi Note 8 pro|begoniain|Redmi Note 8 Pro|
 |Redmi|Redmi Note 8T|willow|Redmi Note 8T|
 |Redmi|Redmi Note 8T|willow|willow|
@@ -20733,6 +20749,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 9 pro|gauguinpro|M2007J17C|
 |Redmi|Redmi Note 9S|curtana|Redmi Note 9 Pro|
 |Redmi|Redmi Note 9S|curtana|Redmi Note 9S|
+|Redmi|Redmi Note 9T|cannong|A001XM|
+|Redmi|Redmi Note 9T|cannong|M2007J22G|
 |Redway|redway10|redway10|redway10|
 |Redway|redway10_lite|redway10_lite|redway10_lite|
 |Redway|redway7_pro|redway7_pro|redway7_pro|
@@ -25530,8 +25548,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 10L|T1_LITE|T770B|
 |TCL|TCL 10L|T1_LITE|T770H|
 |TCL|TCL 20 5G|Irvine|T781|
-|TCL|TCL 20 Pro 5G|Ottawa|T810H|
-|TCL|TCL 20 Pro 5G|Ottawa|T810S|
 |TCL|TCL 20 SE|Austin|T671E|
 |TCL|TCL 20 SE|Austin|T671F|
 |TCL|TCL 20 SE|Austin|T671H|
@@ -25539,10 +25555,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 20E|HONG_KONG|6125A|
 |TCL|TCL 20E|HONG_KONG|6125D|
 |TCL|TCL 20E|HONG_KONG|6125F|
-|TCL|TCL 20L|Richland|T774B|
-|TCL|TCL 20L|Richland|T774H|
-|TCL|TCL 20L+|Richland_Pro|T775B|
-|TCL|TCL 20L+|Richland_Pro|T775H|
+|TCL|TCL 20E|HONG_KONG|6125H_RU|
 |TCL|TCL 20S|Miami_Pro|T773O|
 |TCL|TCL 20Y|Hong_Kong_Pro|6156A|
 |TCL|TCL 20Y|Hong_Kong_Pro|6156D|
@@ -29804,6 +29817,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Mi 10T pro|apollo|M2007J3SI|
 |Xiaomi|Mi 10i|gauguininpro|M2007J17I|
 |Xiaomi|Mi 11|venus|M2011K2C|
+|Xiaomi|Mi 11|venus|M2011K2G|
+|Xiaomi|Mi 11 Lite|courbet|M2101K9AG|
+|Xiaomi|Mi 11 Lite 5G|renoir|M2101K9C|
+|Xiaomi|Mi 11 Lite 5G|renoir|M2101K9G|
+|Xiaomi|Mi 11 Pro|mars|M2102K1AC|
+|Xiaomi|Mi 11 Ultra|star|M2102K1C|
+|Xiaomi|Mi 11 Ultra|star|M2102K1G|
 |Xiaomi|Mi 3|pisces|MI 3|
 |Xiaomi|Mi 4c|libra|Mi-4c|
 |Xiaomi|Mi 4i|ferrari|Mi 4i|
@@ -31538,6 +31558,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|Customer Concierge 6000|CC610LC|CC610|
 |Zebra|Customer Concierge 6000|CC610PC|CC610|
 |Zebra|EC30|EC30RT|EC30|
+|Zebra|EC50|EC50|EC50|
+|Zebra|EC55|EC55|EC55|
 |Zebra|ET51|ET51L|ET51|
 |Zebra|ET51|ET51S|ET51|
 |Zebra|ET56|ET56L|ET56|
@@ -31837,6 +31859,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |geaneePro|JT10-X|JT10-X|JT10-X|
 |geaneePro|JT70-X|JT07-X|JT07-X|
 |generaltouch|ERGO22|ERGO22|ERGO22|
+|generaltouch|ERGO22|ERGO22|ERGO22_eea|
 |halotel|H8502|H8502|H8502|
 |i-Buddie|TA10CA1|TA10CA1|TA10CA1|
 |i-Buddie|TA10CA2|TA10CA2|TA10CA2|

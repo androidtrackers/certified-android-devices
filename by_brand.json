@@ -24432,9 +24432,19 @@
    "model": "BHT-M60-QW-A10"
   },
   {
+   "device": "BHT-M60-QW-A10N",
+   "name": "BHT-M60-QW-A10N",
+   "model": "BHT-M60-QW-A10N"
+  },
+  {
    "device": "BHT-M60-QWG-A10",
    "name": "BHT-M60-QWG-A10",
    "model": "BHT-M60-QWG-A10"
+  },
+  {
+   "device": "BHT-M60-QWG-A10N",
+   "name": "BHT-M60-QWG-A10N",
+   "model": "BHT-M60-QWG-A10N"
   },
   {
    "device": "BHT-M70-QW-A10",
@@ -27535,6 +27545,26 @@
  ],
  "ELO Touch": [
   {
+   "device": "15in-I-Series-4-USB-C",
+   "name": "15in-I-Series-4-USB-C",
+   "model": "15in-I-Series-4-USB-C"
+  },
+  {
+   "device": "15in-I-Series-4-USBC-V",
+   "name": "15in-I-Series-4-USBC-V",
+   "model": "15in-I-Series-4-USBC-V"
+  },
+  {
+   "device": "Backpack-4",
+   "name": "Backpack-4",
+   "model": "Backpack-4"
+  },
+  {
+   "device": "Backpack-4-Value",
+   "name": "Backpack-4-Value",
+   "model": "Backpack-4-Value"
+  },
+  {
    "device": "Elo-i3-15Std",
    "name": "Elo-i3-15Std",
    "model": "Elo-i3-15Std"
@@ -27563,6 +27593,16 @@
    "device": "M50C",
    "name": "M50C",
    "model": "M50C"
+  },
+  {
+   "device": "M60-Pay",
+   "name": "M60-Pay",
+   "model": "M60-Pay"
+  },
+  {
+   "device": "M60C-Pay",
+   "name": "M60C-Pay",
+   "model": "M60C-Pay"
   },
   {
    "device": "Elo-PP3-15",
@@ -96947,6 +96987,16 @@
    "device": "surya",
    "name": "POCO X3 NFC",
    "model": "M2007J20CG"
+  },
+  {
+   "device": "bhima",
+   "name": "POCO X3 Pro",
+   "model": "M2102J20SI"
+  },
+  {
+   "device": "vayu",
+   "name": "POCO X3 Pro",
+   "model": "M2102J20SG"
   }
  ],
  "POPTEL": [
@@ -106341,6 +106391,21 @@
    "model": "angelican"
   },
   {
+   "device": "lemon",
+   "name": "Redmi 9T",
+   "model": "M2010J19SY"
+  },
+  {
+   "device": "lime",
+   "name": "Redmi 9T",
+   "model": "M2010J19SG"
+  },
+  {
+   "device": "pomelo",
+   "name": "Redmi 9T",
+   "model": "M2010J19SL"
+  },
+  {
    "device": "davinci",
    "name": "Redmi K20",
    "model": "Mi 9T"
@@ -106401,6 +106466,11 @@
    "model": "M2012K11AC"
   },
   {
+   "device": "alioth",
+   "name": "Redmi K40",
+   "model": "M2012K11AG"
+  },
+  {
    "device": "haydn",
    "name": "Redmi K40 Pro",
    "model": "M2012K11C"
@@ -106414,6 +106484,11 @@
    "device": "sunny",
    "name": "Redmi Note 10",
    "model": "M2101K7AG"
+  },
+  {
+   "device": "sunny",
+   "name": "Redmi Note 10",
+   "model": "M2101K7AI"
   },
   {
    "device": "sweet",
@@ -106449,6 +106524,11 @@
    "device": "begonia",
    "name": "Redmi Note 8 Pro",
    "model": "Redmi Note 8 Pro"
+  },
+  {
+   "device": "begonia",
+   "name": "Redmi Note 8 Pro",
+   "model": "begonia"
   },
   {
    "device": "begoniain",
@@ -106519,6 +106599,16 @@
    "device": "curtana",
    "name": "Redmi Note 9S",
    "model": "Redmi Note 9S"
+  },
+  {
+   "device": "cannong",
+   "name": "Redmi Note 9T",
+   "model": "A001XM"
+  },
+  {
+   "device": "cannong",
+   "name": "Redmi Note 9T",
+   "model": "M2007J22G"
   }
  ],
  "Redway": [
@@ -130926,16 +131016,6 @@
    "model": "T781"
   },
   {
-   "device": "Ottawa",
-   "name": "TCL 20 Pro 5G",
-   "model": "T810H"
-  },
-  {
-   "device": "Ottawa",
-   "name": "TCL 20 Pro 5G",
-   "model": "T810S"
-  },
-  {
    "device": "Austin",
    "name": "TCL 20 SE",
    "model": "T671E"
@@ -130971,24 +131051,9 @@
    "model": "6125F"
   },
   {
-   "device": "Richland",
-   "name": "TCL 20L",
-   "model": "T774B"
-  },
-  {
-   "device": "Richland",
-   "name": "TCL 20L",
-   "model": "T774H"
-  },
-  {
-   "device": "Richland_Pro",
-   "name": "TCL 20L+",
-   "model": "T775B"
-  },
-  {
-   "device": "Richland_Pro",
-   "name": "TCL 20L+",
-   "model": "T775H"
+   "device": "HONG_KONG",
+   "name": "TCL 20E",
+   "model": "6125H_RU"
   },
   {
    "device": "Miami_Pro",
@@ -152936,6 +153001,41 @@
    "model": "M2011K2C"
   },
   {
+   "device": "venus",
+   "name": "Mi 11",
+   "model": "M2011K2G"
+  },
+  {
+   "device": "courbet",
+   "name": "Mi 11 Lite",
+   "model": "M2101K9AG"
+  },
+  {
+   "device": "renoir",
+   "name": "Mi 11 Lite 5G",
+   "model": "M2101K9C"
+  },
+  {
+   "device": "renoir",
+   "name": "Mi 11 Lite 5G",
+   "model": "M2101K9G"
+  },
+  {
+   "device": "mars",
+   "name": "Mi 11 Pro",
+   "model": "M2102K1AC"
+  },
+  {
+   "device": "star",
+   "name": "Mi 11 Ultra",
+   "model": "M2102K1C"
+  },
+  {
+   "device": "star",
+   "name": "Mi 11 Ultra",
+   "model": "M2102K1G"
+  },
+  {
    "device": "pisces",
    "name": "Mi 3",
    "model": "MI 3"
@@ -161688,6 +161788,16 @@
    "model": "EC30"
   },
   {
+   "device": "EC50",
+   "name": "EC50",
+   "model": "EC50"
+  },
+  {
+   "device": "EC55",
+   "name": "EC55",
+   "model": "EC55"
+  },
+  {
    "device": "ET51L",
    "name": "ET51",
    "model": "ET51"
@@ -163263,6 +163373,11 @@
    "device": "ERGO22",
    "name": "ERGO22",
    "model": "ERGO22"
+  },
+  {
+   "device": "ERGO22",
+   "name": "ERGO22",
+   "model": "ERGO22_eea"
   }
  ],
  "halotel": [

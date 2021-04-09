@@ -40854,11 +40854,25 @@
    "model": "BHT-M60-QW-A10"
   }
  ],
+ "BHT-M60-QW-A10N": [
+  {
+   "brand": "Denso Wave",
+   "device": "BHT-M60-QW-A10N",
+   "model": "BHT-M60-QW-A10N"
+  }
+ ],
  "BHT-M60-QWG-A10": [
   {
    "brand": "Denso Wave",
    "device": "BHT-M60-QWG-A10",
    "model": "BHT-M60-QWG-A10"
+  }
+ ],
+ "BHT-M60-QWG-A10N": [
+  {
+   "brand": "Denso Wave",
+   "device": "BHT-M60-QWG-A10N",
+   "model": "BHT-M60-QWG-A10N"
   }
  ],
  "BHT-M70-QW-A10": [
@@ -45302,6 +45316,34 @@
    "model": "ELEXIA 2K Android TV"
   }
  ],
+ "15in-I-Series-4-USB-C": [
+  {
+   "brand": "ELO Touch",
+   "device": "15in-I-Series-4-USB-C",
+   "model": "15in-I-Series-4-USB-C"
+  }
+ ],
+ "15in-I-Series-4-USBC-V": [
+  {
+   "brand": "ELO Touch",
+   "device": "15in-I-Series-4-USBC-V",
+   "model": "15in-I-Series-4-USBC-V"
+  }
+ ],
+ "Backpack-4": [
+  {
+   "brand": "ELO Touch",
+   "device": "Backpack-4",
+   "model": "Backpack-4"
+  }
+ ],
+ "Backpack-4-Value": [
+  {
+   "brand": "ELO Touch",
+   "device": "Backpack-4-Value",
+   "model": "Backpack-4-Value"
+  }
+ ],
  "Elo-i3-15Std": [
   {
    "brand": "ELO Touch",
@@ -45333,6 +45375,20 @@
    "brand": "ELO Touch",
    "device": "M50C",
    "model": "M50C"
+  }
+ ],
+ "M60-Pay": [
+  {
+   "brand": "ELO Touch",
+   "device": "M60-Pay",
+   "model": "M60-Pay"
+  }
+ ],
+ "M60C-Pay": [
+  {
+   "brand": "ELO Touch",
+   "device": "M60C-Pay",
+   "model": "M60C-Pay"
   }
  ],
  "PayPoint® Plus for Android": [
@@ -126801,6 +126857,18 @@
    "model": "M2007J20CG"
   }
  ],
+ "POCO X3 Pro": [
+  {
+   "brand": "POCO",
+   "device": "bhima",
+   "model": "M2102J20SI"
+  },
+  {
+   "brand": "POCO",
+   "device": "vayu",
+   "model": "M2102J20SG"
+  }
+ ],
  "Kammunica V10": [
   {
    "brand": "POPTEL",
@@ -138511,6 +138579,28 @@
    "model": "angelican"
   }
  ],
+ "Redmi 9T": [
+  {
+   "brand": "Redmi",
+   "device": "lemon",
+   "model": "M2010J19SY"
+  },
+  {
+   "brand": "Redmi",
+   "device": "lime",
+   "model": "M2010J19SG"
+  },
+  {
+   "brand": "Redmi",
+   "device": "pomelo",
+   "model": "M2010J19SL"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "lemon",
+   "model": "M2010J19SY"
+  }
+ ],
  "Redmi K20": [
   {
    "brand": "Redmi",
@@ -138585,6 +138675,11 @@
    "brand": "Redmi",
    "device": "alioth",
    "model": "M2012K11AC"
+  },
+  {
+   "brand": "Redmi",
+   "device": "alioth",
+   "model": "M2012K11AG"
   }
  ],
  "Redmi K40 Pro": [
@@ -138606,6 +138701,11 @@
    "brand": "Redmi",
    "device": "sunny",
    "model": "M2101K7AG"
+  },
+  {
+   "brand": "Redmi",
+   "device": "sunny",
+   "model": "M2101K7AI"
   }
  ],
  "Redmi Note 10 Pro": [
@@ -138656,6 +138756,11 @@
    "brand": "Redmi",
    "device": "begonia",
    "model": "Redmi Note 8 Pro"
+  },
+  {
+   "brand": "Redmi",
+   "device": "begonia",
+   "model": "begonia"
   }
  ],
  "Redmi Note 8 pro": [
@@ -138742,6 +138847,18 @@
    "brand": "Redmi",
    "device": "curtana",
    "model": "Redmi Note 9S"
+  }
+ ],
+ "Redmi Note 9T": [
+  {
+   "brand": "Redmi",
+   "device": "cannong",
+   "model": "A001XM"
+  },
+  {
+   "brand": "Redmi",
+   "device": "cannong",
+   "model": "M2007J22G"
   }
  ],
  "redway10": [
@@ -166234,18 +166351,6 @@
    "model": "T781"
   }
  ],
- "TCL 20 Pro 5G": [
-  {
-   "brand": "TCL",
-   "device": "Ottawa",
-   "model": "T810H"
-  },
-  {
-   "brand": "TCL",
-   "device": "Ottawa",
-   "model": "T810S"
-  }
- ],
  "TCL 20 SE": [
   {
    "brand": "TCL",
@@ -166283,30 +166388,11 @@
    "brand": "TCL",
    "device": "HONG_KONG",
    "model": "6125F"
-  }
- ],
- "TCL 20L": [
-  {
-   "brand": "TCL",
-   "device": "Richland",
-   "model": "T774B"
   },
   {
    "brand": "TCL",
-   "device": "Richland",
-   "model": "T774H"
-  }
- ],
- "TCL 20L+": [
-  {
-   "brand": "TCL",
-   "device": "Richland_Pro",
-   "model": "T775B"
-  },
-  {
-   "brand": "TCL",
-   "device": "Richland_Pro",
-   "model": "T775H"
+   "device": "HONG_KONG",
+   "model": "6125H_RU"
   }
  ],
  "TCL 20S": [
@@ -191455,6 +191541,49 @@
    "brand": "Xiaomi",
    "device": "venus",
    "model": "M2011K2C"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "venus",
+   "model": "M2011K2G"
+  }
+ ],
+ "Mi 11 Lite": [
+  {
+   "brand": "Xiaomi",
+   "device": "courbet",
+   "model": "M2101K9AG"
+  }
+ ],
+ "Mi 11 Lite 5G": [
+  {
+   "brand": "Xiaomi",
+   "device": "renoir",
+   "model": "M2101K9C"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "renoir",
+   "model": "M2101K9G"
+  }
+ ],
+ "Mi 11 Pro": [
+  {
+   "brand": "Xiaomi",
+   "device": "mars",
+   "model": "M2102K1AC"
+  }
+ ],
+ "Mi 11 Ultra": [
+  {
+   "brand": "Xiaomi",
+   "device": "star",
+   "model": "M2102K1C"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "star",
+   "model": "M2102K1G"
   }
  ],
  "Mi 3": [
@@ -191873,13 +192002,6 @@
    "brand": "Xiaomi",
    "device": "sakura",
    "model": "Redmi 6 Pro"
-  }
- ],
- "Redmi 9T": [
-  {
-   "brand": "Xiaomi",
-   "device": "lemon",
-   "model": "M2010J19SY"
   }
  ],
  "Redmi Go": [
@@ -200728,6 +200850,20 @@
    "model": "EC30"
   }
  ],
+ "EC50": [
+  {
+   "brand": "Zebra",
+   "device": "EC50",
+   "model": "EC50"
+  }
+ ],
+ "EC55": [
+  {
+   "brand": "Zebra",
+   "device": "EC55",
+   "model": "EC55"
+  }
+ ],
  "ET51": [
   {
    "brand": "Zebra",
@@ -202563,6 +202699,11 @@
    "brand": "generaltouch",
    "device": "ERGO22",
    "model": "ERGO22"
+  },
+  {
+   "brand": "generaltouch",
+   "device": "ERGO22",
+   "model": "ERGO22_eea"
   }
  ],
  "H8502": [

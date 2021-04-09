@@ -36551,11 +36551,25 @@
    "model": "BHT-M60-QW-A10"
   }
  ],
+ "BHT-M60-QW-A10N": [
+  {
+   "brand": "Denso Wave",
+   "name": "BHT-M60-QW-A10N",
+   "model": "BHT-M60-QW-A10N"
+  }
+ ],
  "BHT-M60-QWG-A10": [
   {
    "brand": "Denso Wave",
    "name": "BHT-M60-QWG-A10",
    "model": "BHT-M60-QWG-A10"
+  }
+ ],
+ "BHT-M60-QWG-A10N": [
+  {
+   "brand": "Denso Wave",
+   "name": "BHT-M60-QWG-A10N",
+   "model": "BHT-M60-QWG-A10N"
   }
  ],
  "BHT-M70-QW-A10": [
@@ -40833,6 +40847,34 @@
    "model": "W60"
   }
  ],
+ "15in-I-Series-4-USB-C": [
+  {
+   "brand": "ELO Touch",
+   "name": "15in-I-Series-4-USB-C",
+   "model": "15in-I-Series-4-USB-C"
+  }
+ ],
+ "15in-I-Series-4-USBC-V": [
+  {
+   "brand": "ELO Touch",
+   "name": "15in-I-Series-4-USBC-V",
+   "model": "15in-I-Series-4-USBC-V"
+  }
+ ],
+ "Backpack-4": [
+  {
+   "brand": "ELO Touch",
+   "name": "Backpack-4",
+   "model": "Backpack-4"
+  }
+ ],
+ "Backpack-4-Value": [
+  {
+   "brand": "ELO Touch",
+   "name": "Backpack-4-Value",
+   "model": "Backpack-4-Value"
+  }
+ ],
  "Elo-i3-15Std": [
   {
    "brand": "ELO Touch",
@@ -40866,6 +40908,20 @@
    "brand": "ELO Touch",
    "name": "M50C",
    "model": "M50C"
+  }
+ ],
+ "M60-Pay": [
+  {
+   "brand": "ELO Touch",
+   "name": "M60-Pay",
+   "model": "M60-Pay"
+  }
+ ],
+ "M60C-Pay": [
+  {
+   "brand": "ELO Touch",
+   "name": "M60C-Pay",
+   "model": "M60C-Pay"
   }
  ],
  "Elo-PP3-15": [
@@ -86594,6 +86650,16 @@
    "brand": "LGE",
    "name": "Optimus 2X",
    "model": "LG-SU660"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 11 Ultra",
+   "model": "M2102K1C"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 11 Ultra",
+   "model": "M2102K1G"
   }
  ],
  "univa_228-01": [
@@ -126425,6 +126491,20 @@
    "model": "M2007J20CG"
   }
  ],
+ "bhima": [
+  {
+   "brand": "POCO",
+   "name": "POCO X3 Pro",
+   "model": "M2102J20SI"
+  }
+ ],
+ "vayu": [
+  {
+   "brand": "POCO",
+   "name": "POCO X3 Pro",
+   "model": "M2102J20SG"
+  }
+ ],
  "Kammunica_V10": [
   {
    "brand": "POPTEL",
@@ -137892,6 +137972,11 @@
   },
   {
    "brand": "Redmi",
+   "name": "Redmi 9T",
+   "model": "M2010J19SG"
+  },
+  {
+   "brand": "Redmi",
    "name": "Redmi Note 9 4G",
    "model": "M2010J19SC"
   }
@@ -137952,6 +138037,30 @@
    "model": "angelican"
   }
  ],
+ "lemon": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 9T",
+   "model": "M2010J19SY"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Redmi 9T",
+   "model": "M2010J19SY"
+  },
+  {
+   "brand": "ZTE",
+   "name": "Jasper LTE",
+   "model": "Z718TL"
+  }
+ ],
+ "pomelo": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 9T",
+   "model": "M2010J19SL"
+  }
+ ],
  "davinciin": [
   {
    "brand": "Redmi",
@@ -138000,6 +138109,11 @@
    "brand": "Redmi",
    "name": "Redmi K40",
    "model": "M2012K11AC"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi K40",
+   "model": "M2012K11AG"
   }
  ],
  "haydn": [
@@ -138019,6 +138133,11 @@
    "brand": "Redmi",
    "name": "Redmi Note 10",
    "model": "M2101K7AG"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 10",
+   "model": "M2101K7AI"
   },
   {
    "brand": "ZTE",
@@ -138077,6 +138196,11 @@
    "brand": "Redmi",
    "name": "Redmi Note 8 Pro",
    "model": "Redmi Note 8 Pro"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 8 Pro",
+   "model": "begonia"
   }
  ],
  "begoniain": [
@@ -138158,6 +138282,18 @@
    "brand": "Redmi",
    "name": "Redmi Note 9 pro",
    "model": "M2007J17C"
+  }
+ ],
+ "cannong": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 9T",
+   "model": "A001XM"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 9T",
+   "model": "M2007J22G"
   }
  ],
  "redway10": [
@@ -166685,6 +166821,11 @@
    "brand": "Xiaomi",
    "name": "Mi 11",
    "model": "M2011K2C"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 11",
+   "model": "M2011K2G"
   }
  ],
  "INTV_1000": [
@@ -168887,18 +169028,6 @@
    "model": "T781"
   }
  ],
- "Ottawa": [
-  {
-   "brand": "TCL",
-   "name": "TCL 20 Pro 5G",
-   "model": "T810H"
-  },
-  {
-   "brand": "TCL",
-   "name": "TCL 20 Pro 5G",
-   "model": "T810S"
-  }
- ],
  "Austin": [
   {
    "brand": "TCL",
@@ -168938,6 +169067,11 @@
    "model": "6125F"
   },
   {
+   "brand": "TCL",
+   "name": "TCL 20E",
+   "model": "6125H_RU"
+  },
+  {
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1S",
    "model": "6025A"
@@ -168971,30 +169105,6 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1S",
    "model": "6025H_RU"
-  }
- ],
- "Richland": [
-  {
-   "brand": "TCL",
-   "name": "TCL 20L",
-   "model": "T774B"
-  },
-  {
-   "brand": "TCL",
-   "name": "TCL 20L",
-   "model": "T774H"
-  }
- ],
- "Richland_Pro": [
-  {
-   "brand": "TCL",
-   "name": "TCL 20L+",
-   "model": "T775B"
-  },
-  {
-   "brand": "TCL",
-   "name": "TCL 20L+",
-   "model": "T775H"
   }
  ],
  "Miami_Pro": [
@@ -193666,6 +193776,32 @@
    "model": "M2007J17I"
   }
  ],
+ "courbet": [
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 11 Lite",
+   "model": "M2101K9AG"
+  }
+ ],
+ "renoir": [
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 11 Lite 5G",
+   "model": "M2101K9C"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 11 Lite 5G",
+   "model": "M2101K9G"
+  }
+ ],
+ "mars": [
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 11 Pro",
+   "model": "M2102K1AC"
+  }
+ ],
  "pisces": [
   {
    "brand": "Xiaomi",
@@ -194052,18 +194188,6 @@
    "brand": "Xiaomi",
    "name": "Redmi 6A",
    "model": "Redmi 6A"
-  }
- ],
- "lemon": [
-  {
-   "brand": "Xiaomi",
-   "name": "Redmi 9T",
-   "model": "M2010J19SY"
-  },
-  {
-   "brand": "ZTE",
-   "name": "Jasper LTE",
-   "model": "Z718TL"
   }
  ],
  "lmipro": [
@@ -203375,6 +203499,20 @@
    "model": "EC30"
   }
  ],
+ "EC50": [
+  {
+   "brand": "Zebra",
+   "name": "EC50",
+   "model": "EC50"
+  }
+ ],
+ "EC55": [
+  {
+   "brand": "Zebra",
+   "name": "EC55",
+   "model": "EC55"
+  }
+ ],
  "ET51L": [
   {
    "brand": "Zebra",
@@ -205149,6 +205287,11 @@
    "brand": "generaltouch",
    "name": "ERGO22",
    "model": "ERGO22"
+  },
+  {
+   "brand": "generaltouch",
+   "name": "ERGO22",
+   "model": "ERGO22_eea"
   }
  ],
  "H8502": [
