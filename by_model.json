@@ -117430,6 +117430,13 @@
    "device": "minsk"
   }
  ],
+ "moto g(10)": [
+  {
+   "brand": "Motorola",
+   "name": "moto g(10)",
+   "device": "capri"
+  }
+ ],
  "moto g(30)": [
   {
    "brand": "Motorola",
@@ -117661,6 +117668,13 @@
    "brand": "Motorola",
    "name": "moto g(9) power",
    "device": "cebu"
+  }
+ ],
+ "moto g(10) power": [
+  {
+   "brand": "Motorola",
+   "name": "moto g10 power",
+   "device": "capri"
   }
  ],
  "XT1943-1": [
@@ -186593,6 +186607,13 @@
    "brand": "Tecno",
    "name": "TECNO SPARK 7",
    "device": "TECNO-KF6k"
+  }
+ ],
+ "TECNO KF6n": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 7",
+   "device": "TECNO-KF6n"
   }
  ],
  "TECNO KF8": [

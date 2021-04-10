@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-04-09
+Last sync is 2021-04-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -16976,6 +16976,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g stylus (2021)|minsk|moto g stylus|
 |Motorola|moto g stylus (2021)|minsk|moto g stylus (2021)|
 |Motorola|moto g stylus (2021)|minsk|moto g stylus (XT2115DL)|
+|Motorola|moto g(10)|capri|moto g(10)|
 |Motorola|moto g(30)|caprip|moto g(30)|
 |Motorola|moto g(6)|ali|XT1925-10|
 |Motorola|moto g(6)|ali|moto g(6)|
@@ -17019,6 +17020,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g(9) play|guamp|moto g(9) play|
 |Motorola|moto g(9) plus|odessa|moto g(9) plus|
 |Motorola|moto g(9) power|cebu|moto g(9) power|
+|Motorola|moto g10 power|capri|moto g(10) power|
 |Motorola|moto g6 play|jeter|Moto G Play|
 |Motorola|moto g6 play|jeter|moto g(6) play|
 |Motorola|moto p30|robusta|XT1943-1|
@@ -27390,6 +27392,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 7|TECNO-KF6h|TECNO KF6h|
 |Tecno|TECNO SPARK 7|TECNO-KF6j|TECNO KF6j|
 |Tecno|TECNO SPARK 7|TECNO-KF6k|TECNO KF6k|
+|Tecno|TECNO SPARK 7|TECNO-KF6n|TECNO KF6n|
 |Tecno|TECNO SPARK 7 Pro|TECNO-KF8|TECNO KF8|
 |Tecno|TECNO SPARK Go|TECNO-KC1|TECNO KC1|
 |Tecno|TECNO Tab|TECNO-P704|TECNO P704|

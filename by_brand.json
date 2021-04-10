@@ -87158,6 +87158,11 @@
    "model": "moto g stylus (XT2115DL)"
   },
   {
+   "device": "capri",
+   "name": "moto g(10)",
+   "model": "moto g(10)"
+  },
+  {
    "device": "caprip",
    "name": "moto g(30)",
    "model": "moto g(30)"
@@ -87371,6 +87376,11 @@
    "device": "cebu",
    "name": "moto g(9) power",
    "model": "moto g(9) power"
+  },
+  {
+   "device": "capri",
+   "name": "moto g10 power",
+   "model": "moto g(10) power"
   },
   {
    "device": "jeter",
@@ -140352,6 +140362,11 @@
    "device": "TECNO-KF6k",
    "name": "TECNO SPARK 7",
    "model": "TECNO KF6k"
+  },
+  {
+   "device": "TECNO-KF6n",
+   "name": "TECNO SPARK 7",
+   "model": "TECNO KF6n"
   },
   {
    "device": "TECNO-KF8",

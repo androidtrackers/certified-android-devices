@@ -115162,6 +115162,13 @@
    "model": "moto g stylus (XT2115DL)"
   }
  ],
+ "moto g(10)": [
+  {
+   "brand": "Motorola",
+   "device": "capri",
+   "model": "moto g(10)"
+  }
+ ],
  "moto g(30)": [
   {
    "brand": "Motorola",
@@ -115415,6 +115422,13 @@
    "brand": "Motorola",
    "device": "cebu",
    "model": "moto g(9) power"
+  }
+ ],
+ "moto g10 power": [
+  {
+   "brand": "Motorola",
+   "device": "capri",
+   "model": "moto g(10) power"
   }
  ],
  "moto g6 play": [
@@ -176541,6 +176555,11 @@
    "brand": "Tecno",
    "device": "TECNO-KF6k",
    "model": "TECNO KF6k"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KF6n",
+   "model": "TECNO KF6n"
   }
  ],
  "TECNO SPARK 7 Pro": [
