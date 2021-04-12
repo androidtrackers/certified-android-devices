@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-04-11
+Last sync is 2021-04-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -21274,6 +21274,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A02s|a02q|SM-A025G|
 |Samsung|Galaxy A02s|a02q|SM-A025M|
 |Samsung|Galaxy A02s|a02q|SM-A025U|
+|Samsung|Galaxy A02s|a02q|SM-A025U1|
 |Samsung|Galaxy A02s|a02q|SM-A025V|
 |Samsung|Galaxy A10|a10|SM-A105F|
 |Samsung|Galaxy A10|a10|SM-A105FN|
@@ -22723,6 +22724,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S20 5G|x1q|SM-G981W|
 |Samsung|Galaxy S20 5G|x1s|SM-G981B|
 |Samsung|Galaxy S20 FE|r8s|SM-G780F|
+|Samsung|Galaxy S20 FE 5G|r8q|SM-G780G|
 |Samsung|Galaxy S20 FE 5G|r8q|SM-G7810|
 |Samsung|Galaxy S20 FE 5G|r8q|SM-G781B|
 |Samsung|Galaxy S20 FE 5G|r8q|SM-G781N|
@@ -30961,7 +30963,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Racer|mooncake|ZTE-U V852|
 |ZTE|Racer|mooncake|ZTE-U X850|
 |ZTE|Red Magic 5G|NX659J-EEA|NX659J|
-|ZTE|Red Magic 5G lite|NX651J-EEA|NX651J|
+|ZTE|Red Magic 6G lite|NX651J-EEA|NX651J|
 |ZTE|Rook from EE|P635E40|Rook from EE|
 |ZTE|S118|P189S10|Grand S Lite|
 |ZTE|S118|P189S10|ZTE S118|

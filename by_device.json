@@ -141601,6 +141601,11 @@
   {
    "brand": "Samsung",
    "name": "Galaxy A02s",
+   "model": "SM-A025U1"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A02s",
    "model": "SM-A025V"
   },
   {
@@ -150679,6 +150684,11 @@
   }
  ],
  "r8q": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S20 FE 5G",
+   "model": "SM-G780G"
+  },
   {
    "brand": "Samsung",
    "name": "Galaxy S20 FE 5G",
@@ -200907,7 +200917,7 @@
  "NX651J-EEA": [
   {
    "brand": "ZTE",
-   "name": "Red Magic 5G lite",
+   "name": "Red Magic 6G lite",
    "model": "NX651J"
   }
  ],

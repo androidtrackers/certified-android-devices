@@ -141916,6 +141916,11 @@
   {
    "brand": "Samsung",
    "device": "a02q",
+   "model": "SM-A025U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a02q",
    "model": "SM-A025V"
   }
  ],
@@ -149825,6 +149830,11 @@
   }
  ],
  "Galaxy S20 FE 5G": [
+  {
+   "brand": "Samsung",
+   "device": "r8q",
+   "model": "SM-G780G"
+  },
   {
    "brand": "Samsung",
    "device": "r8q",
@@ -197201,7 +197211,7 @@
    "model": "NX659J"
   }
  ],
- "Red Magic 5G lite": [
+ "Red Magic 6G lite": [
   {
    "brand": "ZTE",
    "device": "NX651J-EEA",

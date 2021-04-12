@@ -109378,6 +109378,11 @@
   {
    "device": "a02q",
    "name": "Galaxy A02s",
+   "model": "SM-A025U1"
+  },
+  {
+   "device": "a02q",
+   "name": "Galaxy A02s",
    "model": "SM-A025V"
   },
   {
@@ -116619,6 +116624,11 @@
    "device": "r8s",
    "name": "Galaxy S20 FE",
    "model": "SM-G780F"
+  },
+  {
+   "device": "r8q",
+   "name": "Galaxy S20 FE 5G",
+   "model": "SM-G780G"
   },
   {
    "device": "r8q",
@@ -158790,7 +158800,7 @@
   },
   {
    "device": "NX651J-EEA",
-   "name": "Red Magic 5G lite",
+   "name": "Red Magic 6G lite",
    "model": "NX651J"
   },
   {
