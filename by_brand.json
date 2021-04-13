@@ -12422,6 +12422,13 @@
    "model": "Touch"
   }
  ],
+ "BVS (AR)": [
+  {
+   "device": "SFO",
+   "name": "BVS  4K 0TT 01",
+   "model": "BVS 4K OTT 01"
+  }
+ ],
  "BYD": [
   {
    "device": "T10",
@@ -22745,6 +22752,11 @@
    "device": "A355",
    "name": "A355",
    "model": "A355"
+  },
+  {
+   "device": "A360",
+   "name": "A360",
+   "model": "A360"
   },
   {
    "device": "AL140",
@@ -79519,6 +79531,21 @@
    "model": "Infiniton 2K Android TV"
   },
   {
+   "device": "seocho",
+   "name": "MTC",
+   "model": "DWSUMMUS 4K Android TV"
+  },
+  {
+   "device": "seocho",
+   "name": "MTC",
+   "model": "Posfic 4K Android TV"
+  },
+  {
+   "device": "seocho",
+   "name": "MTC",
+   "model": "WasabiMango 4K Android TV"
+  },
+  {
    "device": "Osmartphona",
    "name": "Osmartphona",
    "model": "Osmartphona"
@@ -81889,11 +81916,6 @@
    "device": "hera_pro",
    "name": "N672",
    "model": "N672"
-  },
-  {
-   "device": "surfing_pro",
-   "name": "surfing_pro",
-   "model": "N630"
   }
  ],
  "Micromax": [
@@ -104460,6 +104482,11 @@
  ],
  "Qilive": [
   {
+   "device": "tamachi",
+   "name": "Europe",
+   "model": "Qilive FHD Android TV"
+  },
+  {
    "device": "yeongdeungpo",
    "name": "Europe",
    "model": "Qilive UHD Android TV"
@@ -105789,6 +105816,11 @@
    "model": "RMX2040"
   },
   {
+   "device": "RMX3085L1",
+   "name": "realme  8",
+   "model": "RMX3085"
+  },
+  {
    "device": "RMX1801",
    "name": "realme 2 Pro",
    "model": "RMX1801"
@@ -105924,6 +105956,41 @@
    "model": "RMX2170"
   },
   {
+   "device": "RE50C1L1",
+   "name": "realme 7i",
+   "model": "RMX2103"
+  },
+  {
+   "device": "RMX2193",
+   "name": "realme 7i",
+   "model": "RMX2193"
+  },
+  {
+   "device": "RMX3085L1",
+   "name": "realme 8",
+   "model": "RMX3085"
+  },
+  {
+   "device": "RE513CL1",
+   "name": "realme 8 5G",
+   "model": "RMX3241"
+  },
+  {
+   "device": "RMX3081L1",
+   "name": "realme 8 Pro",
+   "model": "RMX3081"
+  },
+  {
+   "device": "RECE4244",
+   "name": "realme C15 Qualcomm Edition",
+   "model": "RMX2195"
+  },
+  {
+   "device": "RMX2195L1",
+   "name": "realme C15 Qualcomm Edition",
+   "model": "RMX2195"
+  },
+  {
    "device": "RE50BF",
    "name": "realme C17",
    "model": "RMX2101"
@@ -105932,6 +105999,16 @@
    "device": "RMX1946",
    "name": "realme C2",
    "model": "RMX1946"
+  },
+  {
+   "device": "RMX3201",
+   "name": "realme C21",
+   "model": "RMX3201"
+  },
+  {
+   "device": "RMX3191",
+   "name": "realme C25",
+   "model": "RMX3191"
   },
   {
    "device": "RMX2020",
@@ -105959,9 +106036,24 @@
    "model": "RMX2027"
   },
   {
+   "device": "RMX2193",
+   "name": "realme Narzo 20",
+   "model": "RMX2193"
+  },
+  {
+   "device": "RMX2117L1",
+   "name": "realme Narzo 30 Pro 5G",
+   "model": "RMX2117"
+  },
+  {
    "device": "RMX1971CN",
    "name": "realme Q",
    "model": "RMX1971"
+  },
+  {
+   "device": "RMX2117CN",
+   "name": "realme Q2 5G",
+   "model": "RMX2117"
   },
   {
    "device": "SW4H_FF",
@@ -105977,6 +106069,21 @@
    "device": "ikebukuro",
    "name": "realme TV 32",
    "model": "AI PONT"
+  },
+  {
+   "device": "RMX3121CN",
+   "name": "realme V11 5G",
+   "model": "RMX3121"
+  },
+  {
+   "device": "RMX3092CN",
+   "name": "realme V15 5G",
+   "model": "RMX3092"
+  },
+  {
+   "device": "RMX3093CN",
+   "name": "realme V15 5G",
+   "model": "RMX3093"
   },
   {
    "device": "RMX2200CN",
@@ -106104,6 +106211,11 @@
    "model": "RMX2052"
   },
   {
+   "device": "RMX3092L1",
+   "name": "realme X7 5G",
+   "model": "RMX3092"
+  },
+  {
    "device": "RMX2176CN",
    "name": "realme X7 5G",
    "model": "RMX2176"
@@ -106129,6 +106241,11 @@
    "model": "RMX2050"
   },
   {
+   "device": "RMX3171",
+   "name": "realme narzo 30A",
+   "model": "RMX3171"
+  },
+  {
    "device": "RMX2121CN",
    "name": "realme  X7 Pro",
    "model": "RMX2121"
@@ -106142,6 +106259,36 @@
    "device": "RE50C1",
    "name": "realme 7i",
    "model": "RMX2104"
+  },
+  {
+   "device": "RMX2202CN",
+   "name": "真我GT",
+   "model": "RMX2202"
+  },
+  {
+   "device": "RMX3031CN",
+   "name": "真我GT Neo",
+   "model": "RMX3031"
+  },
+  {
+   "device": "RE5081",
+   "name": "真我V13 5G",
+   "model": "RMX3041"
+  },
+  {
+   "device": "RE5081",
+   "name": "真我V13 5G",
+   "model": "RMX3042"
+  },
+  {
+   "device": "RE5081",
+   "name": "真我V13 5G",
+   "model": "RMX3043"
+  },
+  {
+   "device": "RMX3115CN",
+   "name": "真我X7Pro 至尊版",
+   "model": "RMX3115"
   }
  ],
  "Realtek": [
@@ -108703,6 +108850,11 @@
    "device": "TAB7091",
    "name": "TAB7091",
    "model": "TAB7091"
+  },
+  {
+   "device": "yeongdeungpo",
+   "name": "USA",
+   "model": "SUPERSONIC UHD Android TV"
   }
  ],
  "SUPOIN": [
@@ -131341,6 +131493,11 @@
    "model": "9080X"
   },
   {
+   "device": "U3A_7_WIFI_Refresh",
+   "name": "TCL TAB 7 Lite",
+   "model": "9309X"
+  },
+  {
    "device": "Apollo_8_4G",
    "name": "TCL TAB 8 4G",
    "model": "9032X"
@@ -139424,6 +139581,11 @@
    "model": "TECNO CG6j"
   },
   {
+   "device": "TECNO-CG7",
+   "name": "CAMON 17P",
+   "model": "TECNO CG7"
+  },
+  {
    "device": "TECNO-C7",
    "name": "CAMON C7",
    "model": "TECNO-C7"
@@ -147346,6 +147508,11 @@
    "device": "PD2061",
    "name": "V2061A",
    "model": "V2061A"
+  },
+  {
+   "device": "2026",
+   "name": "V2065",
+   "model": "V2065"
   },
   {
    "device": "PD2065",
@@ -158459,9 +158626,19 @@
    "model": "P609"
   },
   {
+   "device": "P963F60",
+   "name": "P650 2021",
+   "model": "P650 2021"
+  },
+  {
    "device": "Z6351O",
    "name": "P650 Pro",
    "model": "P650 Pro"
+  },
+  {
+   "device": "Z6355O",
+   "name": "P651 2021",
+   "model": "P651 2021"
   },
   {
    "device": "P_P635N34",
@@ -158800,7 +158977,7 @@
   },
   {
    "device": "NX651J-EEA",
-   "name": "Red Magic 6G lite",
+   "name": "Red Magic 5G lite",
    "model": "NX651J"
   },
   {
@@ -160344,6 +160521,11 @@
    "model": "Z6250CC"
   },
   {
+   "device": "Z6251",
+   "name": "Z6251V",
+   "model": "Z6251V"
+  },
+  {
    "device": "Z6410",
    "name": "Z6410",
    "model": "Z6410S"
@@ -160742,6 +160924,11 @@
    "device": "Z7750R",
    "name": "ZR01",
    "model": "ZR01"
+  },
+  {
+   "device": "P768A02",
+   "name": "ZTE  S30 Pro 5G",
+   "model": "ZTE A2122H"
   },
   {
    "device": "P671F50",
@@ -161279,6 +161466,16 @@
    "model": "ZTE Blade A31"
   },
   {
+   "device": "P932F21",
+   "name": "ZTE Blade A31 Lite",
+   "model": "ZTE Blade A31 Lite"
+  },
+  {
+   "device": "P932F21",
+   "name": "ZTE Blade A31 Lite RU",
+   "model": "ZTE Blade A31 Lite RU"
+  },
+  {
    "device": "Z5157",
    "name": "ZTE Blade A3v",
    "model": "Z5157V"
@@ -161579,6 +161776,11 @@
    "model": "ZTE_V97L"
   },
   {
+   "device": "P875A02",
+   "name": "ZTE Axon 30 5G",
+   "model": "ZTE A2022"
+  },
+  {
    "device": "K83CA",
    "name": "ZTE Grand X View 3",
    "model": "K83CA"
@@ -161818,8 +162020,28 @@
    "model": "EC50"
   },
   {
+   "device": "EC50",
+   "name": "EC50SA AOSP",
+   "model": "EC50"
+  },
+  {
+   "device": "EC50",
+   "name": "EC50SANF AOSP",
+   "model": "EC50"
+  },
+  {
    "device": "EC55",
    "name": "EC55",
+   "model": "EC55"
+  },
+  {
+   "device": "EC55",
+   "name": "EC55SA AOSP",
+   "model": "EC55"
+  },
+  {
+   "device": "EC55",
+   "name": "EC55SANF AOSP",
    "model": "EC55"
   },
   {

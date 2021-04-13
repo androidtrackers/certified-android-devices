@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-04-12
+Last sync is 2021-04-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2418,6 +2418,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BRUHM|BTF-43SG|ikebukuro|AI PONT|
 |BRUHM|BTF-75TG|samseong|AI PONT|
 |BTC Mobile|Touch|Touch|Touch|
+|BVS (AR)|BVS  4K 0TT 01|SFO|BVS 4K OTT 01|
 |BYD|DynaVox T10|T10|T10|
 |BYD|FarEastone Smart 502|Smart502|Smart 502|
 |BYD|INHON G3|G3|G3|
@@ -4397,6 +4398,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|A340|A340|A340|
 |DEXP|A345|A345|A345|
 |DEXP|A355|A355|A355|
+|DEXP|A360|A360|A360|
 |DEXP|AL140|AL140|AL140|
 |DEXP|AL240|AL240|AL240|
 |DEXP|AL250|AL250|AL250|
@@ -15487,6 +15489,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MTC|Hansung|seocho|Hansung 4K Android TV|
 |MTC|Infiniton|bangbae|Infiniton 4K Android TV|
 |MTC|Infiniton|komagome|Infiniton 2K Android TV|
+|MTC|MTC|seocho|DWSUMMUS 4K Android TV|
+|MTC|MTC|seocho|Posfic 4K Android TV|
+|MTC|MTC|seocho|WasabiMango 4K Android TV|
 |MTC|Osmartphona|Osmartphona|Osmartphona|
 |MTC|SmartEver|seocho|SmartEver 4K Android TV|
 |MTC|Smart_Light|Smart_Light|Smart_Light|
@@ -15939,7 +15944,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MiTAC|N650|prometheus|N650|
 |MiTAC|N651|centaur|N651|
 |MiTAC|N672|hera_pro|N672|
-|MiTAC|surfing_pro|surfing_pro|N630|
 |Micromax|32CAM6SHD|ikebukuro|AI PONT|
 |Micromax|A110|s9081|Micromax A110|
 |Micromax|A111|A111|A111|
@@ -20334,6 +20338,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |QUBO|SP510|SP510|SP510|
 |QUBO|THOR|THOR|THOR|
 |QUBO|X626|X626|X626|
+|Qilive|Europe|tamachi|Qilive FHD Android TV|
 |Qilive|Europe|yeongdeungpo|Qilive UHD Android TV|
 |Qilive|Q.3778|Q3778|Q.3778|
 |Qilive|Q1-21|QT21101_464_EEA|QT21101|
@@ -20589,6 +20594,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|50F1|gangbyeon|4K AI Smart TV|
 |Realme|RMX2020|RMX2020|RMX2020|
 |Realme|RMX2040|RMX2040|RMX2040|
+|Realme|realme  8|RMX3085L1|RMX3085|
 |Realme|realme 2 Pro|RMX1801|RMX1801|
 |Realme|realme 3Pro|RMX1851|RMX1851|
 |Realme|realme 5|RMX1911L1|RMX1911|
@@ -20616,17 +20622,32 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme 6i|RMX2042|RMX2042|
 |Realme|realme 6s|RMX2002L1|RMX2002|
 |Realme|realme 7 Pro|RMX2170L1|RMX2170|
+|Realme|realme 7i|RE50C1L1|RMX2103|
+|Realme|realme 7i|RMX2193|RMX2193|
+|Realme|realme 8|RMX3085L1|RMX3085|
+|Realme|realme 8 5G|RE513CL1|RMX3241|
+|Realme|realme 8 Pro|RMX3081L1|RMX3081|
+|Realme|realme C15 Qualcomm Edition|RECE4244|RMX2195|
+|Realme|realme C15 Qualcomm Edition|RMX2195L1|RMX2195|
 |Realme|realme C17|RE50BF|RMX2101|
 |Realme|realme C2|RMX1946|RMX1946|
+|Realme|realme C21|RMX3201|RMX3201|
+|Realme|realme C25|RMX3191|RMX3191|
 |Realme|realme C3|RMX2020|RMX2020|
 |Realme|realme C3|RMX2021|RMX2021|
 |Realme|realme C3|RMX2022|RMX2022|
 |Realme|realme C3|RMX2027|RMX2027|
 |Realme|realme C3i|RMX2027|RMX2027|
+|Realme|realme Narzo 20|RMX2193|RMX2193|
+|Realme|realme Narzo 30 Pro 5G|RMX2117L1|RMX2117|
 |Realme|realme Q|RMX1971CN|RMX1971|
+|Realme|realme Q2 5G|RMX2117CN|RMX2117|
 |Realme|realme Smart TV|SW4H_FF|realme Smart TV|
 |Realme|realme TV|ikebukuro|AI PONT|
 |Realme|realme TV 32|ikebukuro|AI PONT|
+|Realme|realme V11 5G|RMX3121CN|RMX3121|
+|Realme|realme V15 5G|RMX3092CN|RMX3092|
+|Realme|realme V15 5G|RMX3093CN|RMX3093|
 |Realme|realme V3  5G|RMX2200CN|RMX2200|
 |Realme|realme V3 5G|RMX2201CN|RMX2201|
 |Realme|realme V5 5G|RMX2111CN|RMX2111|
@@ -20652,14 +20673,22 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme X50m 5G|RMX2142CN|RMX2142|
 |Realme|realme X50t 5G|RE508C|RMX2052|
 |Realme|realme X50t 5G|RMX2052CN|RMX2052|
+|Realme|realme X7 5G|RMX3092L1|RMX3092|
 |Realme|realme X7 5G|RMX2176CN|RMX2176|
 |Realme|realme XT|RMX1921|RMX1921|
 |Realme|realme XT|RMX1921L1|RMX1921|
 |Realme|realme XT|RMX1922|RMX1922|
 |Realme|realme narzo 20A|RMX2050|RMX2050|
+|Realme|realme narzo 30A|RMX3171|RMX3171|
 |Realme|realme  X7 Pro|RMX2121CN|RMX2121|
 |Realme|realme 7i|RE50C1|RMX2103|
 |Realme|realme 7i|RE50C1|RMX2104|
+|Realme|真我GT|RMX2202CN|RMX2202|
+|Realme|真我GT Neo|RMX3031CN|RMX3031|
+|Realme|真我V13 5G|RE5081|RMX3041|
+|Realme|真我V13 5G|RE5081|RMX3042|
+|Realme|真我V13 5G|RE5081|RMX3043|
+|Realme|真我X7Pro 至尊版|RMX3115CN|RMX3115|
 |Realtek|RealtekHank|RealtekHank|RealtekHank|
 |Realtek|RealtekThor|RealtekThor|RealtekThor|
 |Realtime|RS405|RS405|RS405|
@@ -21143,6 +21172,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SUPERSONIC|SC_774KT|SC_774KT|SC_774KT|
 |SUPERSONIC|SUPERSONIC|kanda|SUPERSONIC 2K Smart TV|
 |SUPERSONIC|TAB7091|TAB7091|TAB7091|
+|SUPERSONIC|USA|yeongdeungpo|SUPERSONIC UHD Android TV|
 |SUPOIN|S66|S66|S66|
 |SWTV|Asia|SW3_ATV|SWTV|
 |SWTV|Europe|SW3H_ATV|SWTV|
@@ -25613,6 +25643,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 10s|Odin|9081X|
 |TCL|TCL TAB 10s 4G|Odin|9080G|
 |TCL|TCL TAB 10s 4G|Odin|9080X|
+|TCL|TCL TAB 7 Lite|U3A_7_WIFI_Refresh|9309X|
 |TCL|TCL TAB 8 4G|Apollo_8_4G|9032X|
 |TCL|TCL TAB kids|Thor_8_4G_VZW|9049L|
 |TCL|TKEE MINI|Hulk_7_KIDS_WIFI|8093|
@@ -27204,6 +27235,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|CAMON 16 S|TECNO-CD6j|TECNO CD6j|
 |Tecno|CAMON 17|TECNO-CG6|TECNO CG6|
 |Tecno|CAMON 17|TECNO-CG6j|TECNO CG6j|
+|Tecno|CAMON 17P|TECNO-CG7|TECNO CG7|
 |Tecno|CAMON C7|TECNO-C7|TECNO-C7|
 |Tecno|CAMON CM|TECNO-CA6|TECNO CA6|
 |Tecno|CAMON I Ace|TECNO-IN1|TECNO IN1|
@@ -28720,6 +28752,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2057A|PD2057|V2057A|
 |Vivo|V2059A|PD2047|V2059A|
 |Vivo|V2061A|PD2061|V2061A|
+|Vivo|V2065|2026|V2065|
 |Vivo|V2065A|PD2065|V2065A|
 |Vivo|V2066BA|PD2066B|V2066BA|
 |Vivo|V2068A|PD2068|V2068A|
@@ -30895,7 +30928,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Own One|P635A20|Own One|
 |ZTE|P545|P545|P545|
 |ZTE|P609|P609|P609|
+|ZTE|P650 2021|P963F60|P650 2021|
 |ZTE|P650 Pro|Z6351O|P650 Pro|
+|ZTE|P651 2021|Z6355O|P651 2021|
 |ZTE|P_C880S|P_P635N34|ZTE P_C880S|
 |ZTE|Preo Teknosa P1|msm8916_32|Preo Teknosa P1|
 |ZTE|Q101T|P810T10|ZTE Q101T|
@@ -30963,7 +30998,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Racer|mooncake|ZTE-U V852|
 |ZTE|Racer|mooncake|ZTE-U X850|
 |ZTE|Red Magic 5G|NX659J-EEA|NX659J|
-|ZTE|Red Magic 6G lite|NX651J-EEA|NX651J|
+|ZTE|Red Magic 5G lite|NX651J-EEA|NX651J|
 |ZTE|Rook from EE|P635E40|Rook from EE|
 |ZTE|S118|P189S10|Grand S Lite|
 |ZTE|S118|P189S10|ZTE S118|
@@ -31272,6 +31307,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z559DL|Z559DL|Z559DL|
 |ZTE|Z6201V|Z6201|Z6201V|
 |ZTE|Z6250CC|Z6250|Z6250CC|
+|ZTE|Z6251V|Z6251|Z6251V|
 |ZTE|Z6410|Z6410|Z6410S|
 |ZTE|Z6530M|Z6530|Z6530M|
 |ZTE|Z6530V|Z6530|Z6530V|
@@ -31352,6 +31388,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z999|fujisan|Z999|
 |ZTE|ZPAD|gevjon|K90U|
 |ZTE|ZR01|Z7750R|ZR01|
+|ZTE|ZTE  S30 Pro 5G|P768A02|ZTE A2122H|
 |ZTE|ZTE 2050|P671F50|ZTE 2050|
 |ZTE|ZTE 2050|P671F50_D|ZTE 2050|
 |ZTE|ZTE 2050|P671S50|ZTE 2050|
@@ -31459,6 +31496,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A3 2020RU|P932F50|ZTE Blade A3 2020RU|
 |ZTE|ZTE Blade A3 Lite|P932F20|ZTE Blade A3 Lite|
 |ZTE|ZTE Blade A31|P963F70|ZTE Blade A31|
+|ZTE|ZTE Blade A31 Lite|P932F21|ZTE Blade A31 Lite|
+|ZTE|ZTE Blade A31 Lite RU|P932F21|ZTE Blade A31 Lite RU|
 |ZTE|ZTE Blade A3v|Z5157|Z5157V|
 |ZTE|ZTE Blade A3v|Z5157|Z5157Y|
 |ZTE|ZTE Blade A5 2019|P963F30|ZTE Blade A5 2019|
@@ -31519,6 +31558,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE_Blade_V1000|P671F20|ZTE Blade V1000|
 |ZTE|ZTE_V971LM|ZTE_V971LM|ZTE_V971LM|
 |ZTE|ZTE_V97L|ZTE_V97L|ZTE_V97L|
+|ZTE|ZTE Axon 30 5G|P875A02|ZTE A2022|
 |ZTE|ZTE Grand X View 3|K83CA|K83CA|
 |ZTE|ZTG01|Z6750K|ZTG01|
 |ZTE|ZTU31|P852F52|ZTU31|
@@ -31564,7 +31604,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|Customer Concierge 6000|CC610PC|CC610|
 |Zebra|EC30|EC30RT|EC30|
 |Zebra|EC50|EC50|EC50|
+|Zebra|EC50SA AOSP|EC50|EC50|
+|Zebra|EC50SANF AOSP|EC50|EC50|
 |Zebra|EC55|EC55|EC55|
+|Zebra|EC55SA AOSP|EC55|EC55|
+|Zebra|EC55SANF AOSP|EC55|EC55|
 |Zebra|ET51|ET51L|ET51|
 |Zebra|ET51|ET51S|ET51|
 |Zebra|ET56|ET56L|ET56|

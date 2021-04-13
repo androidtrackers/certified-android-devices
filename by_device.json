@@ -1226,6 +1226,21 @@
   },
   {
    "brand": "MTC",
+   "name": "MTC",
+   "model": "DWSUMMUS 4K Android TV"
+  },
+  {
+   "brand": "MTC",
+   "name": "MTC",
+   "model": "Posfic 4K Android TV"
+  },
+  {
+   "brand": "MTC",
+   "name": "MTC",
+   "model": "WasabiMango 4K Android TV"
+  },
+  {
+   "brand": "MTC",
    "name": "SmartEver",
    "model": "SmartEver 4K Android TV"
   },
@@ -1652,6 +1667,11 @@
    "model": "Nano FHD Android TV"
   },
   {
+   "brand": "Qilive",
+   "name": "Europe",
+   "model": "Qilive FHD Android TV"
+  },
+  {
    "brand": "Smart-Tech TV",
    "name": "France",
    "model": "AiPlus2K"
@@ -1797,6 +1817,11 @@
    "brand": "Qilive",
    "name": "Europe",
    "model": "Qilive UHD Android TV"
+  },
+  {
+   "brand": "SUPERSONIC",
+   "name": "USA",
+   "model": "SUPERSONIC UHD Android TV"
   },
   {
    "brand": "Sansui",
@@ -19779,6 +19804,13 @@
    "model": "Touch"
   }
  ],
+ "SFO": [
+  {
+   "brand": "BVS (AR)",
+   "name": "BVS  4K 0TT 01",
+   "model": "BVS 4K OTT 01"
+  }
+ ],
  "Smart502": [
   {
    "brand": "BYD",
@@ -34289,6 +34321,13 @@
    "brand": "DEXP",
    "name": "A355",
    "model": "A355"
+  }
+ ],
+ "A360": [
+  {
+   "brand": "DEXP",
+   "name": "A360",
+   "model": "A360"
   }
  ],
  "AL140": [
@@ -107670,11 +107709,6 @@
    "brand": "MiTAC",
    "name": "N630",
    "model": "N630"
-  },
-  {
-   "brand": "MiTAC",
-   "name": "surfing_pro",
-   "model": "N630"
   }
  ],
  "chiron_pro": [
@@ -137285,6 +137319,18 @@
    "model": "RMX2040"
   }
  ],
+ "RMX3085L1": [
+  {
+   "brand": "Realme",
+   "name": "realme  8",
+   "model": "RMX3085"
+  },
+  {
+   "brand": "Realme",
+   "name": "realme 8",
+   "model": "RMX3085"
+  }
+ ],
  "RMX1801": [
   {
    "brand": "Realme",
@@ -137461,6 +137507,53 @@
    "model": "RMX2170"
   }
  ],
+ "RE50C1L1": [
+  {
+   "brand": "Realme",
+   "name": "realme 7i",
+   "model": "RMX2103"
+  }
+ ],
+ "RMX2193": [
+  {
+   "brand": "Realme",
+   "name": "realme 7i",
+   "model": "RMX2193"
+  },
+  {
+   "brand": "Realme",
+   "name": "realme Narzo 20",
+   "model": "RMX2193"
+  }
+ ],
+ "RE513CL1": [
+  {
+   "brand": "Realme",
+   "name": "realme 8 5G",
+   "model": "RMX3241"
+  }
+ ],
+ "RMX3081L1": [
+  {
+   "brand": "Realme",
+   "name": "realme 8 Pro",
+   "model": "RMX3081"
+  }
+ ],
+ "RECE4244": [
+  {
+   "brand": "Realme",
+   "name": "realme C15 Qualcomm Edition",
+   "model": "RMX2195"
+  }
+ ],
+ "RMX2195L1": [
+  {
+   "brand": "Realme",
+   "name": "realme C15 Qualcomm Edition",
+   "model": "RMX2195"
+  }
+ ],
  "RE50BF": [
   {
    "brand": "Realme",
@@ -137473,6 +137566,20 @@
    "brand": "Realme",
    "name": "realme C2",
    "model": "RMX1946"
+  }
+ ],
+ "RMX3201": [
+  {
+   "brand": "Realme",
+   "name": "realme C21",
+   "model": "RMX3201"
+  }
+ ],
+ "RMX3191": [
+  {
+   "brand": "Realme",
+   "name": "realme C25",
+   "model": "RMX3191"
   }
  ],
  "RMX2021": [
@@ -137501,11 +137608,46 @@
    "model": "RMX2027"
   }
  ],
+ "RMX2117L1": [
+  {
+   "brand": "Realme",
+   "name": "realme Narzo 30 Pro 5G",
+   "model": "RMX2117"
+  }
+ ],
  "RMX1971CN": [
   {
    "brand": "Realme",
    "name": "realme Q",
    "model": "RMX1971"
+  }
+ ],
+ "RMX2117CN": [
+  {
+   "brand": "Realme",
+   "name": "realme Q2 5G",
+   "model": "RMX2117"
+  }
+ ],
+ "RMX3121CN": [
+  {
+   "brand": "Realme",
+   "name": "realme V11 5G",
+   "model": "RMX3121"
+  }
+ ],
+ "RMX3092CN": [
+  {
+   "brand": "Realme",
+   "name": "realme V15 5G",
+   "model": "RMX3092"
+  }
+ ],
+ "RMX3093CN": [
+  {
+   "brand": "Realme",
+   "name": "realme V15 5G",
+   "model": "RMX3093"
   }
  ],
  "RMX2200CN": [
@@ -137679,6 +137821,13 @@
    "model": "RMX2052"
   }
  ],
+ "RMX3092L1": [
+  {
+   "brand": "Realme",
+   "name": "realme X7 5G",
+   "model": "RMX3092"
+  }
+ ],
  "RMX2176CN": [
   {
    "brand": "Realme",
@@ -137714,6 +137863,13 @@
    "model": "RMX2050"
   }
  ],
+ "RMX3171": [
+  {
+   "brand": "Realme",
+   "name": "realme narzo 30A",
+   "model": "RMX3171"
+  }
+ ],
  "RMX2121CN": [
   {
    "brand": "Realme",
@@ -137731,6 +137887,44 @@
    "brand": "Realme",
    "name": "realme 7i",
    "model": "RMX2104"
+  }
+ ],
+ "RMX2202CN": [
+  {
+   "brand": "Realme",
+   "name": "真我GT",
+   "model": "RMX2202"
+  }
+ ],
+ "RMX3031CN": [
+  {
+   "brand": "Realme",
+   "name": "真我GT Neo",
+   "model": "RMX3031"
+  }
+ ],
+ "RE5081": [
+  {
+   "brand": "Realme",
+   "name": "真我V13 5G",
+   "model": "RMX3041"
+  },
+  {
+   "brand": "Realme",
+   "name": "真我V13 5G",
+   "model": "RMX3042"
+  },
+  {
+   "brand": "Realme",
+   "name": "真我V13 5G",
+   "model": "RMX3043"
+  }
+ ],
+ "RMX3115CN": [
+  {
+   "brand": "Realme",
+   "name": "真我X7Pro 至尊版",
+   "model": "RMX3115"
   }
  ],
  "RealtekHank": [
@@ -170153,6 +170347,23 @@
    "model": "9080X"
   }
  ],
+ "U3A_7_WIFI_Refresh": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 7 Lite",
+   "model": "9309X"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "alcatel 1T7 NEW",
+   "model": "9309X"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "alcatel 1T7 NEW",
+   "model": "9309X_RU"
+  }
+ ],
  "Apollo_8_4G": [
   {
    "brand": "TCL",
@@ -176054,18 +176265,6 @@
    "model": "9013X_TR"
   }
  ],
- "U3A_7_WIFI_Refresh": [
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "alcatel 1T7 NEW",
-   "model": "9309X"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "alcatel 1T7 NEW",
-   "model": "9309X_RU"
-  }
- ],
  "Edison": [
   {
    "brand": "TCT (Alcatel)",
@@ -177814,6 +178013,13 @@
    "brand": "Tecno",
    "name": "CAMON 17",
    "model": "TECNO CG6j"
+  }
+ ],
+ "TECNO-CG7": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 17P",
+   "model": "TECNO CG7"
   }
  ],
  "TECNO-CA6": [
@@ -186815,6 +187021,11 @@
    "brand": "Vivo",
    "name": "V2048",
    "model": "V2048"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2065",
+   "model": "V2065"
   }
  ],
  "2027": [
@@ -200516,11 +200727,30 @@
    "model": "P609"
   }
  ],
+ "P963F60": [
+  {
+   "brand": "ZTE",
+   "name": "P650 2021",
+   "model": "P650 2021"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A51",
+   "model": "ZTE Blade A51"
+  }
+ ],
  "Z6351O": [
   {
    "brand": "ZTE",
    "name": "P650 Pro",
    "model": "P650 Pro"
+  }
+ ],
+ "Z6355O": [
+  {
+   "brand": "ZTE",
+   "name": "P651 2021",
+   "model": "P651 2021"
   }
  ],
  "P_P635N34": [
@@ -200917,7 +201147,7 @@
  "NX651J-EEA": [
   {
    "brand": "ZTE",
-   "name": "Red Magic 6G lite",
+   "name": "Red Magic 5G lite",
    "model": "NX651J"
   }
  ],
@@ -202191,6 +202421,13 @@
    "model": "Z6250CC"
   }
  ],
+ "Z6251": [
+  {
+   "brand": "ZTE",
+   "name": "Z6251V",
+   "model": "Z6251V"
+  }
+ ],
  "Z6410": [
   {
    "brand": "ZTE",
@@ -202606,6 +202843,13 @@
    "brand": "ZTE",
    "name": "ZR01",
    "model": "ZR01"
+  }
+ ],
+ "P768A02": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE  S30 Pro 5G",
+   "model": "ZTE A2122H"
   }
  ],
  "P671F50": [
@@ -203037,6 +203281,18 @@
    "model": "ZTE Blade A31"
   }
  ],
+ "P932F21": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A31 Lite",
+   "model": "ZTE Blade A31 Lite"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A31 Lite RU",
+   "model": "ZTE Blade A31 Lite RU"
+  }
+ ],
  "Z5157": [
   {
    "brand": "ZTE",
@@ -203088,13 +203344,6 @@
    "brand": "ZTE",
    "name": "ZTE Blade A5 2020RU",
    "model": "ZTE Blade A5 2020RU"
-  }
- ],
- "P963F60": [
-  {
-   "brand": "ZTE",
-   "name": "ZTE Blade A51",
-   "model": "ZTE Blade A51"
   }
  ],
  "P932F10": [
@@ -203287,6 +203536,13 @@
    "brand": "ZTE",
    "name": "ZTE_V97L",
    "model": "ZTE_V97L"
+  }
+ ],
+ "P875A02": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Axon 30 5G",
+   "model": "ZTE A2022"
   }
  ],
  "K83CA": [
@@ -203533,12 +203789,32 @@
    "brand": "Zebra",
    "name": "EC50",
    "model": "EC50"
+  },
+  {
+   "brand": "Zebra",
+   "name": "EC50SA AOSP",
+   "model": "EC50"
+  },
+  {
+   "brand": "Zebra",
+   "name": "EC50SANF AOSP",
+   "model": "EC50"
   }
  ],
  "EC55": [
   {
    "brand": "Zebra",
    "name": "EC55",
+   "model": "EC55"
+  },
+  {
+   "brand": "Zebra",
+   "name": "EC55SA AOSP",
+   "model": "EC55"
+  },
+  {
+   "brand": "Zebra",
+   "name": "EC55SANF AOSP",
    "model": "EC55"
   }
  ],
