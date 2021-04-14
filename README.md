@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-04-13
+Last sync is 2021-04-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14996,8 +14996,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Z5|jd2018_cmcc|Lenovo L78011|
 |Lenovo|Z5s|jd2019|Lenovo L78071|
 |Lenovo|Z6|jd20|Lenovo L78121|
-|Lenovo|Z6|zippo|Lenovo L78051|
 |Lenovo|Z6 Pro|zippo|Lenovo L78051|
+|Lenovo|Z6Pro|zippo|Lenovo L78051|
 |Lenovo|Z90/VIBE Shot|zoom_fdd|Lenovo Z90|
 |Lenovo|Z90/VIBE Shot|zoom_fdd|Lenovo Z90-7|
 |Lenovo|Z90/VIBE Shot|zoom_tdd|Lenovo Z90-3|
@@ -21406,6 +21406,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A32 5G|SCG08|SCG08|
 |Samsung|Galaxy A32 5G|a32x|SM-A326B|
 |Samsung|Galaxy A32 5G|a32x|SM-A326BR|
+|Samsung|Galaxy A32 5G|a32x|SM-A326K|
 |Samsung|Galaxy A32 5G|a32x|SM-A326U|
 |Samsung|Galaxy A32 5G|a32x|SM-A326U1|
 |Samsung|Galaxy A32 5G|a32x|SM-A326W|
@@ -27035,6 +27036,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TOSCIDO|T15|T15|T15|
 |TOSCIDO|T15-EEA|T15-EEA|T15-EEA|
 |TOSCIDO|T151-EEA|T151-EEA|T151-EEA|
+|TOSCIDO|T201|T201|T201|
+|TOSCIDO|T201-EEA|T201-EEA|T201-EEA|
 |TOSCIDO|T50-EEA|T50-EEA|T50-EEA|
 |TOSCIDO|T501-EEA|T501-EEA|T501-EEA|
 |TOSCIDO|X102|X102|X102|

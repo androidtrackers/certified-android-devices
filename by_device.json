@@ -42090,6 +42090,11 @@
    "brand": "Elink",
    "name": "T201",
    "model": "T201"
+  },
+  {
+   "brand": "TOSCIDO",
+   "name": "T201",
+   "model": "T201"
   }
  ],
  "T7": [
@@ -101462,12 +101467,12 @@
  "zippo": [
   {
    "brand": "Lenovo",
-   "name": "Z6",
+   "name": "Z6 Pro",
    "model": "Lenovo L78051"
   },
   {
    "brand": "Lenovo",
-   "name": "Z6 Pro",
+   "name": "Z6Pro",
    "model": "Lenovo L78051"
   }
  ],
@@ -142359,6 +142364,11 @@
   {
    "brand": "Samsung",
    "name": "Galaxy A32 5G",
+   "model": "SM-A326K"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A32 5G",
    "model": "SM-A326U"
   },
   {
@@ -176757,6 +176767,13 @@
    "brand": "TOSCIDO",
    "name": "T151-EEA",
    "model": "T151-EEA"
+  }
+ ],
+ "T201-EEA": [
+  {
+   "brand": "TOSCIDO",
+   "name": "T201-EEA",
+   "model": "T201-EEA"
   }
  ],
  "T50-EEA": [
