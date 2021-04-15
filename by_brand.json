@@ -78413,6 +78413,11 @@
    "device": "sadang",
    "name": "LOGIK",
    "model": "LOGIK 4K Android TV"
+  },
+  {
+   "device": "tabata",
+   "name": "LOGIK",
+   "model": "LOGIK 2K Android TV"
   }
  ],
  "Logitec": [
@@ -79667,6 +79672,11 @@
    "device": "B866_MTS_OTT",
    "name": "B866",
    "model": "B866"
+  },
+  {
+   "device": "DV8304C",
+   "name": "DV8304-C",
+   "model": "DV8304-C"
   },
   {
    "device": "B866_MTS_IPTV",
@@ -131031,6 +131041,11 @@
    "device": "BeyondTV4",
    "name": "Smart TV",
    "model": "Smart TV"
+  },
+  {
+   "device": "C05",
+   "name": "Smart TV Pro",
+   "model": "Smart TV Pro"
   },
   {
    "device": "A5A_INFINI",

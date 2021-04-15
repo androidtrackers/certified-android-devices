@@ -105093,6 +105093,11 @@
    "brand": "Logik",
    "device": "sadang",
    "model": "LOGIK 4K Android TV"
+  },
+  {
+   "brand": "Logik",
+   "device": "tabata",
+   "model": "LOGIK 2K Android TV"
   }
  ],
  "LZ-AA10": [
@@ -106635,6 +106640,13 @@
    "brand": "ZTE",
    "device": "B866_ZTE",
    "model": "B866"
+  }
+ ],
+ "DV8304-C": [
+  {
+   "brand": "MTS (RU)",
+   "device": "DV8304C",
+   "model": "DV8304-C"
   }
  ],
  "Russia": [
@@ -166404,6 +166416,13 @@
    "brand": "TCL",
    "device": "tcl_sa",
    "model": "Percee TV"
+  }
+ ],
+ "Smart TV Pro": [
+  {
+   "brand": "TCL",
+   "device": "C05",
+   "model": "Smart TV Pro"
   }
  ],
  "Smartphone": [

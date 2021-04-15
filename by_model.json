@@ -106243,6 +106243,13 @@
    "device": "sadang"
   }
  ],
+ "LOGIK 2K Android TV": [
+  {
+   "brand": "Logik",
+   "name": "LOGIK",
+   "device": "tabata"
+  }
+ ],
  "LZ-AA10": [
   {
    "brand": "Logitec",
@@ -107792,6 +107799,13 @@
    "brand": "ZTE",
    "name": "B866",
    "device": "B866_ZTE"
+  }
+ ],
+ "DV8304-C": [
+  {
+   "brand": "MTS (RU)",
+   "name": "DV8304-C",
+   "device": "DV8304C"
   }
  ],
  "Smart Bit": [
@@ -174030,6 +174044,11 @@
    "brand": "TCL",
    "name": "BeyondTV6",
    "device": "BeyondTV4"
+  },
+  {
+   "brand": "TCL",
+   "name": "Smart TV Pro",
+   "device": "C05"
   }
  ],
  "BeyondTV5": [

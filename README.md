@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-04-14
+Last sync is 2021-04-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -15283,6 +15283,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logicom|le Moov|LeMoov|LeMoov|
 |Logik|L32AHE19|ueno|2K Android TV|
 |Logik|LOGIK|sadang|LOGIK 4K Android TV|
+|Logik|LOGIK|tabata|LOGIK 2K Android TV|
 |Logitec|LZ-AA10|LZ-AA10|LZ-AA10|
 |Logitech|Revue|ka|Revue|
 |Louis Vuitton|Tambour Horizon|ling|Tambour|
@@ -15515,6 +15516,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MTN-E70|MTN-E70|MTN-E70|MTN-E70|
 |MTR (MY)|MT9|MT9|MT9|
 |MTS (RU)|B866|B866_MTS_OTT|B866|
+|MTS (RU)|DV8304-C|DV8304C|DV8304-C|
 |MTS (RU)|Russia|B866_MTS_IPTV|B866|
 |MTS (RU)|Smart_Bit|Smart_Bit|Smart Bit|
 |MTT|Master|Master|M.T.T. Master|
@@ -25551,6 +25553,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|Percee TV|tcl_eu|SANYO TV|
 |TCL|Percee TV|tcl_sa|Percee TV|
 |TCL|Smart TV|BeyondTV4|Smart TV|
+|TCL|Smart TV Pro|C05|Smart TV Pro|
 |TCL|Smartphone|A5A_INFINI|5086D|
 |TCL|Smartphone|A5A_INFINI|5186D|
 |TCL|South America|tcl|Percee TV|

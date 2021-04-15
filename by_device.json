@@ -81099,6 +81099,11 @@
    "brand": "JVC",
    "name": "UK",
    "model": "UK 2K Android TV"
+  },
+  {
+   "brand": "Logik",
+   "name": "LOGIK",
+   "model": "LOGIK 2K Android TV"
   }
  ],
  "JVL070TAB812BLK": [
@@ -104923,6 +104928,13 @@
    "brand": "MTS (RU)",
    "name": "B866",
    "model": "B866"
+  }
+ ],
+ "DV8304C": [
+  {
+   "brand": "MTS (RU)",
+   "name": "DV8304-C",
+   "model": "DV8304-C"
   }
  ],
  "B866_MTS_IPTV": [
@@ -169067,6 +169079,13 @@
    "brand": "TCL",
    "name": "Percee TV",
    "model": "Percee TV"
+  }
+ ],
+ "C05": [
+  {
+   "brand": "TCL",
+   "name": "Smart TV Pro",
+   "model": "Smart TV Pro"
   }
  ],
  "A5A_INFINI": [
