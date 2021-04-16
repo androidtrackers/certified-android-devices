@@ -75920,6 +75920,13 @@
    "model": "B860H V5.0"
   }
  ],
+ "HG680": [
+  {
+   "brand": "IndiHome",
+   "name": "HG680_FJ",
+   "model": "HG680_FJ"
+  }
+ ],
  "D711HC_PG": [
   {
    "brand": "Inet-Tablet",
@@ -76531,6 +76538,13 @@
    "brand": "Infinix",
    "name": "Infinix ZERO8",
    "model": "Infinix X687"
+  }
+ ],
+ "Infinix-X695": [
+  {
+   "brand": "Infinix",
+   "name": "NOTE 10 Pro",
+   "model": "Infinix X695"
   }
  ],
  "X601": [
@@ -137557,6 +137571,55 @@
    "model": "RMX3081"
   }
  ],
+ "RMX2185": [
+  {
+   "brand": "Realme",
+   "name": "realme C11",
+   "model": "RMX2185"
+  }
+ ],
+ "RMX2186": [
+  {
+   "brand": "Realme",
+   "name": "realme C11",
+   "model": "RMX2186"
+  }
+ ],
+ "RMX2184": [
+  {
+   "brand": "Realme",
+   "name": "realme C12",
+   "model": "RMX2184"
+  }
+ ],
+ "RMX2189": [
+  {
+   "brand": "Realme",
+   "name": "realme C12",
+   "model": "RMX2189"
+  }
+ ],
+ "RMX2180": [
+  {
+   "brand": "Realme",
+   "name": "realme C15",
+   "model": "RMX2180"
+  }
+ ],
+ "RMX2181": [
+  {
+   "brand": "Realme",
+   "name": "realme C15",
+   "model": "RMX2181"
+  }
+ ],
+ "RMX2183": [
+  {
+   "brand": "Realme",
+   "name": "realme C15",
+   "model": "RMX2183"
+  }
+ ],
  "RECE4244": [
   {
    "brand": "Realme",
@@ -187293,6 +187356,23 @@
    "model": "V2057A"
   }
  ],
+ "2061": [
+  {
+   "brand": "Vivo",
+   "name": "V2061",
+   "model": "V2061"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2108",
+   "model": "V2061"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2108",
+   "model": "V2108"
+  }
+ ],
  "PD2061": [
   {
    "brand": "Vivo",
@@ -187354,6 +187434,13 @@
    "brand": "Vivo",
    "name": "V2099A",
    "model": "V2099A"
+  }
+ ],
+ "PD2118": [
+  {
+   "brand": "Vivo",
+   "name": "V2118A",
+   "model": "V2118A"
   }
  ],
  "PD1524": [

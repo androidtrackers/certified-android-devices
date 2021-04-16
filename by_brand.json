@@ -56314,6 +56314,11 @@
    "device": "B860HV5_Telkom",
    "name": "B860H V5.0",
    "model": "B860H V5.0"
+  },
+  {
+   "device": "HG680",
+   "name": "HG680_FJ",
+   "model": "HG680_FJ"
   }
  ],
  "Indurama": [
@@ -56757,6 +56762,11 @@
    "device": "Infinix-X687",
    "name": "Infinix ZERO8",
    "model": "Infinix X687"
+  },
+  {
+   "device": "Infinix-X695",
+   "name": "NOTE 10 Pro",
+   "model": "Infinix X695"
   },
   {
    "device": "X601",
@@ -105991,6 +106001,41 @@
    "model": "RMX3081"
   },
   {
+   "device": "RMX2185",
+   "name": "realme C11",
+   "model": "RMX2185"
+  },
+  {
+   "device": "RMX2186",
+   "name": "realme C11",
+   "model": "RMX2186"
+  },
+  {
+   "device": "RMX2184",
+   "name": "realme C12",
+   "model": "RMX2184"
+  },
+  {
+   "device": "RMX2189",
+   "name": "realme C12",
+   "model": "RMX2189"
+  },
+  {
+   "device": "RMX2180",
+   "name": "realme C15",
+   "model": "RMX2180"
+  },
+  {
+   "device": "RMX2181",
+   "name": "realme C15",
+   "model": "RMX2181"
+  },
+  {
+   "device": "RMX2183",
+   "name": "realme C15",
+   "model": "RMX2183"
+  },
+  {
    "device": "RECE4244",
    "name": "realme C15 Qualcomm Edition",
    "model": "RMX2195"
@@ -147535,6 +147580,11 @@
    "model": "V2059A"
   },
   {
+   "device": "2061",
+   "name": "V2061",
+   "model": "V2061"
+  },
+  {
    "device": "PD2061",
    "name": "V2061A",
    "model": "V2061A"
@@ -147583,6 +147633,21 @@
    "device": "PD2034D",
    "name": "V2099A",
    "model": "V2099A"
+  },
+  {
+   "device": "2061",
+   "name": "V2108",
+   "model": "V2061"
+  },
+  {
+   "device": "2061",
+   "name": "V2108",
+   "model": "V2108"
+  },
+  {
+   "device": "PD2118",
+   "name": "V2118A",
+   "model": "V2118A"
   },
   {
    "device": "PD1524",

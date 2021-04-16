@@ -77314,6 +77314,13 @@
    "device": "B860HV5_Telkom"
   }
  ],
+ "HG680_FJ": [
+  {
+   "brand": "IndiHome",
+   "name": "HG680_FJ",
+   "device": "HG680"
+  }
+ ],
  "indurama 2K TV": [
   {
    "brand": "Indurama",
@@ -77920,6 +77927,13 @@
    "brand": "Infinix",
    "name": "Infinix ZERO8",
    "device": "Infinix-X687"
+  }
+ ],
+ "Infinix X695": [
+  {
+   "brand": "Infinix",
+   "name": "NOTE 10 Pro",
+   "device": "Infinix-X695"
   }
  ],
  "Infinix NOTE 3": [
@@ -141188,6 +141202,55 @@
    "device": "RMX3081L1"
   }
  ],
+ "RMX2185": [
+  {
+   "brand": "Realme",
+   "name": "realme C11",
+   "device": "RMX2185"
+  }
+ ],
+ "RMX2186": [
+  {
+   "brand": "Realme",
+   "name": "realme C11",
+   "device": "RMX2186"
+  }
+ ],
+ "RMX2184": [
+  {
+   "brand": "Realme",
+   "name": "realme C12",
+   "device": "RMX2184"
+  }
+ ],
+ "RMX2189": [
+  {
+   "brand": "Realme",
+   "name": "realme C12",
+   "device": "RMX2189"
+  }
+ ],
+ "RMX2180": [
+  {
+   "brand": "Realme",
+   "name": "realme C15",
+   "device": "RMX2180"
+  }
+ ],
+ "RMX2181": [
+  {
+   "brand": "Realme",
+   "name": "realme C15",
+   "device": "RMX2181"
+  }
+ ],
+ "RMX2183": [
+  {
+   "brand": "Realme",
+   "name": "realme C15",
+   "device": "RMX2183"
+  }
+ ],
  "RMX2195": [
   {
    "brand": "Realme",
@@ -195212,6 +195275,18 @@
    "device": "PD2047"
   }
  ],
+ "V2061": [
+  {
+   "brand": "Vivo",
+   "name": "V2061",
+   "device": "2061"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2108",
+   "device": "2061"
+  }
+ ],
  "V2061A": [
   {
    "brand": "Vivo",
@@ -195280,6 +195355,20 @@
    "brand": "Vivo",
    "name": "V2099A",
    "device": "PD2034D"
+  }
+ ],
+ "V2108": [
+  {
+   "brand": "Vivo",
+   "name": "V2108",
+   "device": "2061"
+  }
+ ],
+ "V2118A": [
+  {
+   "brand": "Vivo",
+   "name": "V2118A",
+   "device": "PD2118"
   }
  ],
  "vivo V3": [

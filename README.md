@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-04-15
+Last sync is 2021-04-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10942,6 +10942,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Inco|Rouge1|Rouge1|Rouge1|
 |Inco|eco_s|eco_s|eco_s|
 |IndiHome|B860H V5.0|B860HV5_Telkom|B860H V5.0|
+|IndiHome|HG680_FJ|HG680|HG680_FJ|
 |Indurama|indurama 2K TV|shinjuku|indurama 2K TV|
 |Inet-Tablet|D711HC_PG|D711HC_PG|D711HC_PG|
 |Inet-Tablet|D7911L3BC_OGS|D7911L3BC_OGS|D7911L3BC_OGS|
@@ -11029,6 +11030,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix X572|Infinix-X572|Infinix X572|
 |Infinix|Infinix ZERO 8i|Infinix-X687B|Infinix X687B|
 |Infinix|Infinix ZERO8|Infinix-X687|Infinix X687|
+|Infinix|NOTE 10 Pro|Infinix-X695|Infinix X695|
 |Infinix|NOTE 3|X601|Infinix NOTE 3|
 |Infinix|NOTE 3 Pro|X601-3G|Infinix NOTE 3 Pro|
 |Infinix|NOTE 3 Pro|X601-LTE|Infinix NOTE 3 Pro|
@@ -20629,6 +20631,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme 8|RMX3085L1|RMX3085|
 |Realme|realme 8 5G|RE513CL1|RMX3241|
 |Realme|realme 8 Pro|RMX3081L1|RMX3081|
+|Realme|realme C11|RMX2185|RMX2185|
+|Realme|realme C11|RMX2186|RMX2186|
+|Realme|realme C12|RMX2184|RMX2184|
+|Realme|realme C12|RMX2189|RMX2189|
+|Realme|realme C15|RMX2180|RMX2180|
+|Realme|realme C15|RMX2181|RMX2181|
+|Realme|realme C15|RMX2183|RMX2183|
 |Realme|realme C15 Qualcomm Edition|RECE4244|RMX2195|
 |Realme|realme C15 Qualcomm Edition|RMX2195L1|RMX2195|
 |Realme|realme C17|RE50BF|RMX2101|
@@ -28757,6 +28766,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2056A|PD2056|V2056A|
 |Vivo|V2057A|PD2057|V2057A|
 |Vivo|V2059A|PD2047|V2059A|
+|Vivo|V2061|2061|V2061|
 |Vivo|V2061A|PD2061|V2061A|
 |Vivo|V2065|2026|V2065|
 |Vivo|V2065A|PD2065|V2065A|
@@ -28767,6 +28777,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2080A|PD2080|V2080A|
 |Vivo|V2085A|PD2085|V2085A|
 |Vivo|V2099A|PD2034D|V2099A|
+|Vivo|V2108|2061|V2061|
+|Vivo|V2108|2061|V2108|
+|Vivo|V2118A|PD2118|V2118A|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
 |Vivo|V3Lite|V3Lite|vivo V3Lite|
