@@ -13987,33 +13987,20 @@
  "APAC": [
   {
    "brand": "Aqua",
-   "device": "hanyang",
-   "model": "AQUA Android TV"
-  },
-  {
-   "brand": "Aqua",
    "device": "nippori",
    "model": "AQUA Android TV 2K"
   },
   {
    "brand": "Haier",
-   "device": "hanyang",
-   "model": "Haitech Android TV"
-  },
-  {
-   "brand": "Haier",
-   "device": "hanyang",
-   "model": "haierATV"
-  },
-  {
-   "brand": "Haier",
    "device": "nippori",
    "model": "CANDY Android TV 2K"
-  },
+  }
+ ],
+ "AQUA android TV": [
   {
-   "brand": "Haier",
-   "device": "nippori",
-   "model": "haierATVnippori"
+   "brand": "Aqua",
+   "device": "hanyang",
+   "model": "AQUA Android TV"
   }
  ],
  "S1 Jazz": [
@@ -23983,28 +23970,13 @@
  "Australia": [
   {
    "brand": "Bauhn",
-   "device": "hanyang",
-   "model": "Tempo Android TV"
-  },
-  {
-   "brand": "Bauhn",
    "device": "nippori",
    "model": "Bauhn Android TV 2K"
   },
   {
    "brand": "Blaupunkt",
-   "device": "hanyang",
-   "model": "BP Android TV"
-  },
-  {
-   "brand": "Blaupunkt",
    "device": "nippori",
    "model": "BP Android TV 2K"
-  },
-  {
-   "brand": "EKO",
-   "device": "hanyang",
-   "model": "Ayonz Android TV"
   },
   {
    "brand": "EKO",
@@ -24028,11 +24000,6 @@
   },
   {
    "brand": "Kogan",
-   "device": "hanyang",
-   "model": "Kogan SmarterTV"
-  },
-  {
-   "brand": "Kogan",
    "device": "nippori",
    "model": "Kogan SmarterTV 2K"
   },
@@ -24052,29 +24019,9 @@
    "model": "Kogan TV"
   },
   {
-   "brand": "Linsar",
-   "device": "hanyang",
-   "model": "Linsar Android TV"
-  },
-  {
-   "brand": "Polaroid",
-   "device": "hanyang",
-   "model": "Polaroid Android TV"
-  },
-  {
-   "brand": "S Vision",
-   "device": "hanyang",
-   "model": "Svision Android TV"
-  },
-  {
    "brand": "S Vision",
    "device": "nippori",
    "model": "Svision Android TV 2K"
-  },
-  {
-   "brand": "Soniq",
-   "device": "hanyang",
-   "model": "SONIQ Android TV"
   }
  ],
  "BAUHN": [
@@ -24089,6 +24036,13 @@
    "brand": "Bauhn",
    "device": "komagome",
    "model": "BAUHN 2K Android TV"
+  }
+ ],
+ "Bauhn android TV": [
+  {
+   "brand": "Bauhn",
+   "device": "hanyang",
+   "model": "Tempo Android TV"
   }
  ],
  "Convex 430": [
@@ -26657,6 +26611,23 @@
    "model": "Blaupunkt SM 01"
   }
  ],
+ "Blaupunkt android TV": [
+  {
+   "brand": "Blaupunkt",
+   "device": "hanyang",
+   "model": "BLAUPUNKT Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "device": "hanyang",
+   "model": "BP 4K Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "device": "hanyang",
+   "model": "BP Android TV"
+  }
+ ],
  "Blaupunkt_SM_02": [
   {
    "brand": "Blaupunkt",
@@ -26686,18 +26657,8 @@
   },
   {
    "brand": "Haier",
-   "device": "hanyang",
-   "model": "HEC Android TV"
-  },
-  {
-   "brand": "Haier",
    "device": "nippori",
    "model": "HEC Android TV 2K"
-  },
-  {
-   "brand": "QBell",
-   "device": "hanyang",
-   "model": "QBELL Android TV"
   },
   {
    "brand": "QBell",
@@ -26718,23 +26679,8 @@
  "Ecuador": [
   {
    "brand": "Blaupunkt",
-   "device": "hanyang",
-   "model": "BP 4K Android TV"
-  },
-  {
-   "brand": "Blaupunkt",
    "device": "nippori",
    "model": "BP 2K Android TV"
-  },
-  {
-   "brand": "Haier",
-   "device": "hanyang",
-   "model": "EVVO 4K Android TV"
-  },
-  {
-   "brand": "Haier",
-   "device": "hanyang",
-   "model": "INNOVA 4K Android TV"
   },
   {
    "brand": "Haier",
@@ -26745,11 +26691,6 @@
    "brand": "Haier",
    "device": "nippori",
    "model": "INNOVA 2K Android TV"
-  },
-  {
-   "brand": "Hyundai",
-   "device": "hanyang",
-   "model": "HYUNDAI 4K Android TV"
   },
   {
    "brand": "Hyundai",
@@ -26846,23 +26787,6 @@
    "brand": "Blaupunkt",
    "device": "TX01",
    "model": "TX01"
-  }
- ],
- "\"Ukraine": [
-  {
-   "brand": "Blaupunkt",
-   "device": "Czech\"",
-   "model": "hanyang"
-  },
-  {
-   "brand": "ZTE",
-   "device": "Kazakhstan",
-   "model": "Azerbaijan\""
-  },
-  {
-   "brand": "ZTE",
-   "device": "Kazakhstan",
-   "model": "Azerbaijan\""
   }
  ],
  "A-200": [
@@ -44744,13 +44668,15 @@
  "Central America": [
   {
    "brand": "Durabrand",
-   "device": "hanyang",
-   "model": "Durabrand 4K Android TV"
-  },
-  {
-   "brand": "Durabrand",
    "device": "nippori",
    "model": "Durabrand 2K Android TV"
+  }
+ ],
+ "Durabrand android TV": [
+  {
+   "brand": "Durabrand",
+   "device": "hanyang",
+   "model": "Durabrand 4K Android TV"
   }
  ],
  "D601L": [
@@ -45239,6 +45165,20 @@
    "brand": "EKO",
    "device": "EKO_Star_LTE_G60",
    "model": "EKO Star LTE G60"
+  }
+ ],
+ "EKO android TV": [
+  {
+   "brand": "EKO",
+   "device": "hanyang",
+   "model": "Ayonz Android TV"
+  }
+ ],
+ "EKO android TV ISDB": [
+  {
+   "brand": "EKO",
+   "device": "hanyang",
+   "model": "EKO 4K Android TV"
   }
  ],
  "Star 4.0 G40": [
@@ -62430,13 +62370,6 @@
    "model": "AP54"
   }
  ],
- "\"APAC": [
-  {
-   "brand": "Haier",
-   "device": "EU\"",
-   "model": "hanyang"
-  }
- ],
  "AT7003": [
   {
    "brand": "Haier",
@@ -62598,6 +62531,13 @@
    "model": "D2-961G"
   }
  ],
+ "EVVO Android TV": [
+  {
+   "brand": "Haier",
+   "device": "hanyang",
+   "model": "EVVO 4K Android TV"
+  }
+ ],
  "Elegance E13": [
   {
    "brand": "Haier",
@@ -62704,6 +62644,13 @@
    "model": "I7A-LE"
   }
  ],
+ "HEC Android TV": [
+  {
+   "brand": "Haier",
+   "device": "hanyang",
+   "model": "HEC Android TV"
+  }
+ ],
  "HG-9041": [
   {
    "brand": "Haier",
@@ -62794,6 +62741,20 @@
    "model": "W861"
   }
  ],
+ "Haier 2K android TV": [
+  {
+   "brand": "Haier",
+   "device": "nippori",
+   "model": "haierATVnippori"
+  }
+ ],
+ "Haier Android TV": [
+  {
+   "brand": "Haier",
+   "device": "hanyang",
+   "model": "haierATV"
+  }
+ ],
  "Haier Leisure L7": [
   {
    "brand": "Haier",
@@ -62808,11 +62769,25 @@
    "model": "Titan_T5"
   }
  ],
+ "Haier android TV": [
+  {
+   "brand": "Haier",
+   "device": "hanyang",
+   "model": "Haier 4K Android TV"
+  }
+ ],
  "HaierG61": [
   {
    "brand": "Haier",
    "device": "HM-G701-FL",
    "model": "HM-G701-FL"
+  }
+ ],
+ "Haitech android TV": [
+  {
+   "brand": "Haier",
+   "device": "hanyang",
+   "model": "Haitech Android TV"
   }
  ],
  "HomeSurf742_AT7003": [
@@ -62862,6 +62837,13 @@
    "brand": "Haier",
    "device": "INGO-TAB",
    "model": "INGO-TAB"
+  }
+ ],
+ "INNOVA android TV": [
+  {
+   "brand": "Haier",
+   "device": "hanyang",
+   "model": "INNOVA 4K Android TV"
   }
  ],
  "Kogan Agora 8": [
@@ -62955,13 +62937,6 @@
    "model": "LE55M7000CF"
   }
  ],
- "Latin America": [
-  {
-   "brand": "Haier",
-   "device": "hanyang",
-   "model": "Haier 4K Android TV"
-  }
- ],
  "Logicom S9782": [
   {
    "brand": "Haier",
@@ -63023,6 +62998,13 @@
    "brand": "Haier",
    "device": "MXG408",
    "model": "MXG408"
+  }
+ ],
+ "Magelite android TV": [
+  {
+   "brand": "Haier",
+   "device": "hanyang",
+   "model": "MAGELITE Android TV"
   }
  ],
  "\"Mexico": [
@@ -63277,13 +63259,6 @@
    "model": "Smartfren Andromax AD9A1H"
   }
  ],
- "South Asia": [
-  {
-   "brand": "Haier",
-   "device": "hanyang",
-   "model": "MAGELITE Android TV"
-  }
- ],
  "StarQ_Q5002": [
   {
    "brand": "Haier",
@@ -63417,6 +63392,13 @@
    "brand": "Haier",
    "device": "W860",
    "model": "W860"
+  }
+ ],
+ "candy android TV": [
+  {
+   "brand": "Haier",
+   "device": "hanyang",
+   "model": "CANDY Android TV"
   }
  ],
  "haier lesure L7": [
@@ -77977,6 +77959,13 @@
    "model": "HT0701L16"
   }
  ],
+ "Hyundai android TV": [
+  {
+   "brand": "Hyundai",
+   "device": "hanyang",
+   "model": "HYUNDAI 4K Android TV"
+  }
+ ],
  "Hyundai_Eternity_G50": [
   {
    "brand": "Hyundai",
@@ -85933,11 +85922,6 @@
    "brand": "KONKA",
    "device": "Europe",
    "model": "MiddleEast，Africa\""
-  },
-  {
-   "brand": "KONKA",
-   "device": "Europe",
-   "model": "MiddleEast，Africa\""
   }
  ],
  "KM7012BK": [
@@ -85957,6 +85941,13 @@
    "brand": "KONKA",
    "device": "sugamo",
    "model": "KONKA 2K Android TV"
+  }
+ ],
+ "Konka android tv": [
+  {
+   "brand": "KONKA",
+   "device": "hanyang",
+   "model": "KONKA Android TV 4K"
   }
  ],
  "RE1": [
@@ -87977,6 +87968,13 @@
    "brand": "Kogan",
    "device": "Kogan_Agora_XS",
    "model": "Agora XS"
+  }
+ ],
+ "Kogan SmarterTV": [
+  {
+   "brand": "Kogan",
+   "device": "hanyang",
+   "model": "Kogan SmarterTV"
   }
  ],
  "K22": [
@@ -103734,6 +103732,13 @@
    "brand": "Linsar",
    "device": "sadang",
    "model": "Linsar UK 4K Android TV"
+  }
+ ],
+ "Linsar android TV": [
+  {
+   "brand": "Linsar",
+   "device": "hanyang",
+   "model": "Linsar Android TV"
   }
  ],
  "Llinsar": [
@@ -131592,6 +131597,13 @@
    "model": "Polaroid 2K Android TV"
   }
  ],
+ "Polaroid android TV": [
+  {
+   "brand": "Polaroid",
+   "device": "hanyang",
+   "model": "Polaroid Android TV"
+  }
+ ],
  "SIGMA 5": [
   {
    "brand": "Polaroid",
@@ -135389,6 +135401,13 @@
    "brand": "QBell",
    "device": "QTAB10",
    "model": "QTAB10"
+  }
+ ],
+ "Qbell android TV": [
+  {
+   "brand": "QBell",
+   "device": "hanyang",
+   "model": "QBELL Android TV"
   }
  ],
  "TLW-100": [
@@ -139989,6 +140008,13 @@
    "model": "F1Plus"
   }
  ],
+ "S android TV": [
+  {
+   "brand": "S Vision",
+   "device": "hanyang",
+   "model": "Svision Android TV"
+  }
+ ],
  "8788_7": [
   {
    "brand": "S&T Global",
@@ -142730,11 +142756,6 @@
    "brand": "Samsung",
    "device": "a32x",
    "model": "SM-A326BR"
-  },
-  {
-   "brand": "Samsung",
-   "device": "a32x",
-   "model": "SM-A326K"
   },
   {
    "brand": "Samsung",
@@ -146957,6 +146978,13 @@
    "brand": "Samsung",
    "device": "a20e",
    "model": "SM-A202K"
+  }
+ ],
+ "Galaxy Jump": [
+  {
+   "brand": "Samsung",
+   "device": "a32x",
+   "model": "SM-A326K"
   }
  ],
  "Galaxy K": [
@@ -160709,6 +160737,13 @@
    "brand": "Soniq",
    "device": "PT1019A",
    "model": "PT1019A"
+  }
+ ],
+ "Soniq android TV": [
+  {
+   "brand": "Soniq",
+   "device": "hanyang",
+   "model": "SONIQ Android TV"
   }
  ],
  "BRAVIA 2015": [
@@ -198294,6 +198329,18 @@
    "model": "Z968"
   }
  ],
+ "\"Ukraine": [
+  {
+   "brand": "ZTE",
+   "device": "Kazakhstan",
+   "model": "Azerbaijan\""
+  },
+  {
+   "brand": "ZTE",
+   "device": "Kazakhstan",
+   "model": "Azerbaijan\""
+  }
+ ],
  "Ultym 5.2": [
   {
    "brand": "ZTE",
@@ -201902,6 +201949,20 @@
    "brand": "Zephir",
    "device": "komagome",
    "model": "Zephir 2K Android TV"
+  }
+ ],
+ "Zephir 2K android TV": [
+  {
+   "brand": "Zephir",
+   "device": "nippori",
+   "model": "ZEPHIR Android TV 2K"
+  }
+ ],
+ "Zephir android TV": [
+  {
+   "brand": "Zephir",
+   "device": "hanyang",
+   "model": "ZEPHIR Android TV"
   }
  ],
  "ZA-407": [

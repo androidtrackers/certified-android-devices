@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-04-16
+Last sync is 2021-04-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1030,8 +1030,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aprix|Tab64_T|Tab64_T|Tab64_T|
 |Aprix|Tab8ii|Tab8ii|Tab8ii|
 |Aprix|X4|Aprix_X4|Aprix_X4|
-|Aqua|APAC|hanyang|AQUA Android TV|
 |Aqua|APAC|nippori|AQUA Android TV 2K|
+|Aqua|AQUA android TV|hanyang|AQUA Android TV|
 |Aqua|S1 Jazz|S1_Jazz|S1 Jazz|
 |Arcelik|B55L 9682 5AS|arcelik_eu|arcelik_uhd_powermax_at|
 |Archos||A101S|ARCHOS 101G9|
@@ -2460,10 +2460,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Barnes and Noble|NOOK® HD+|ovation|BNTV600|
 |Barnes and Noble|Nook Tablet 7”|st16c7bnn|BNTV450|
 |Battcell|M7042F|M7042F|M7042F|
-|Bauhn|Australia|hanyang|Tempo Android TV|
 |Bauhn|Australia|nippori|Bauhn Android TV 2K|
 |Bauhn|BAUHN|bangbae|BAUHN 4K Android TV|
 |Bauhn|Bauhn|komagome|BAUHN 2K Android TV|
+|Bauhn|Bauhn android TV|hanyang|Tempo Android TV|
 |Becrypt|Convex 430|granite|Becrypt Convex 430|
 |Becrypt|Convex 430|granite|Becrypt Indigo 430|
 |Beeline|Beebox|SWG2001A|SWG2001A-A|
@@ -2770,7 +2770,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|Tab9_RU|Tab9_RU|Tab 9|
 |Blaupunkt|A-STREAM|GMP|A-STREAM|
 |Blaupunkt|Atlantis_A10_G403|Atlantis_A10_G403|Atlantis_A10_G403|
-|Blaupunkt|Australia|hanyang|BP Android TV|
 |Blaupunkt|Australia|nippori|BP Android TV 2K|
 |Blaupunkt|B-STREAM|JFK|B-STREAM|
 |Blaupunkt|BATV10|ICN|BATV10|
@@ -2784,11 +2783,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|Blaupunkt SL 02|Blaupunkt_SL_02|Blaupunkt SL 02|
 |Blaupunkt|Blaupunkt SL 04|Blaupunkt_SL_04|Blaupunkt SL 04|
 |Blaupunkt|Blaupunkt SM 01|Blaupunkt_SM_01|Blaupunkt SM 01|
+|Blaupunkt|Blaupunkt android TV|hanyang|BLAUPUNKT Android TV|
+|Blaupunkt|Blaupunkt android TV|hanyang|BP 4K Android TV|
+|Blaupunkt|Blaupunkt android TV|hanyang|BP Android TV|
 |Blaupunkt|Blaupunkt_SM_02|Blaupunkt_SM_02|Blaupunkt_SM_02|
 |Blaupunkt|Czech/Ukraine/Russia|nippori|BLAUPUNKT Android TV 2K|
 |Blaupunkt|Discovery_A10_302|Discovery_A10_302|Discovery_A10_302|
 |Blaupunkt|EU|tamachi|BLAUPUNKT FHD Android TV|
-|Blaupunkt|Ecuador|hanyang|BP 4K Android TV|
 |Blaupunkt|Ecuador|nippori|BP 2K Android TV|
 |Blaupunkt|Endeavour101|Blaupunkt|Endeavour101|
 |Blaupunkt|Guardian|Guardian|Guardian|
@@ -2803,7 +2804,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|SM_02_2019|SM_02_2019|SM 02 2019|
 |Blaupunkt|Soundphone_S1|Soundphone_S1|Soundphone_S1|
 |Blaupunkt|TX01|TX01|TX01|
-|Blaupunkt|"Ukraine|Czech"|hanyang|
 |Blu|A-200|A200|A200|
 |Blu|A200|A200|A200|
 |Blu|A250|A250|A250|
@@ -5239,8 +5239,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dunns|Dunns Slinger|DunnsSlinger|Dunns Slinger|
 |Dunns|ETAB_M9041G|ETAB_M9041G|ETAB_M9041G|
 |Dunns|Smarty II|Smarty_II|Smarty_II|
-|Durabrand|Central America|hanyang|Durabrand 4K Android TV|
 |Durabrand|Central America|nippori|Durabrand 2K Android TV|
+|Durabrand|Durabrand android TV|hanyang|Durabrand 4K Android TV|
 |Duubee|D601L|Gaia|D601L|
 |Duubee|DT1052|DT1052|DT1052|
 |Duubee|W1|W1|W1|
@@ -5300,13 +5300,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EKINOX|G2|G2|G2|
 |EKINOX|K5|K5|K5|
 |EKO|Ara 5.7 A5719|A5719|Ara 5.7 A5719|
-|EKO|Australia|hanyang|Ayonz Android TV|
 |EKO|Australia|nippori|EKO Android TV 2K|
 |EKO|EKO|bangbae|EKO 4K Android TV|
 |EKO|EKO|komagome|EKO 2K Android TV|
 |EKO|EKO OMEGA LTE Q60|EKO_OMEGA_LTE_Q60|EKO OMEGA LTE Q60|
 |EKO|EKO OMEGA Q55|EKO_OMEGA_Q55|EKO OMEGA Q55|
 |EKO|EKO Star LTE G60|EKO_Star_LTE_G60|EKO Star LTE G60|
+|EKO|EKO android TV|hanyang|Ayonz Android TV|
+|EKO|EKO android TV ISDB|hanyang|EKO 4K Android TV|
 |EKO|Star 4.0 G40|Star_4_0_G40|Star 4.0 G40|
 |EKO|Star 5.0 G50|Star_5_0_G50|Star 5.0 G50|
 |EKO|Star 5.5 G55|Star_5_5_G55|Star 5.5 G55|
@@ -7867,11 +7868,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|AD6B1H|AD6B1H|Smartfren Andromax AD6B1H|
 |Haier|AL40|AL40|Haier_AL40|
 |Haier|AP54|ts18_ap54_kliver|AP54|
-|Haier|APAC|hanyang|Haitech Android TV|
-|Haier|APAC|hanyang|haierATV|
 |Haier|APAC|nippori|CANDY Android TV 2K|
-|Haier|APAC|nippori|haierATVnippori|
-|Haier|"APAC|EU"|hanyang|
 |Haier|AT7003|AT7003|AT7003|
 |Haier|Alpha A1|A1|A1|
 |Haier|Alpha A2|A2|A2|
@@ -7895,10 +7892,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|D2-751G|d2PAD|D2-751G|
 |Haier|D2-927G|D2-927G|D2-927G|
 |Haier|D2-961G|D2-961G|D2-961G|
-|Haier|EU|hanyang|HEC Android TV|
 |Haier|EU|nippori|HEC Android TV 2K|
-|Haier|Ecuador|hanyang|EVVO 4K Android TV|
-|Haier|Ecuador|hanyang|INNOVA 4K Android TV|
+|Haier|EVVO Android TV|hanyang|EVVO 4K Android TV|
 |Haier|Ecuador|nippori|EVVO 2K Android TV|
 |Haier|Ecuador|nippori|INNOVA 2K Android TV|
 |Haier|Elegance E13|E13|E13|
@@ -7917,6 +7912,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|G700|G700|G700|
 |Haier|G7s|G7s|G7s|
 |Haier|GF88|I7A-LE|I7A-LE|
+|Haier|HEC Android TV|hanyang|HEC Android TV|
 |Haier|HG-9041|HG-9041|HG-9041|
 |Haier|HM-I557-FL|HM-I557-FL|HM-I557-FL|
 |Haier|HM-N501-FL|HM-N501-FL|HM-N501-FL|
@@ -7931,9 +7927,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|Haier|PAD_D85|pad_d85|
 |Haier|Haier|W627|W627|
 |Haier|Haier|W861|W861|
+|Haier|Haier 2K android TV|nippori|haierATVnippori|
+|Haier|Haier Android TV|hanyang|haierATV|
 |Haier|Haier Leisure L7|Haier_Leisure_L7|HM-N700-FL|
 |Haier|Haier Titan T5|Titan_T5|Titan_T5|
+|Haier|Haier android TV|hanyang|Haier 4K Android TV|
 |Haier|HaierG61|HM-G701-FL|HM-G701-FL|
+|Haier|Haitech android TV|hanyang|Haitech Android TV|
 |Haier|HomeSurf742_AT7003|HomeSurf742_AT7003|HomeSurf742_AT7003|
 |Haier|Homesurf844|Homesurf844|Binatone Homesurf844 / Hubble Smart8 (Homesurf844)|
 |Haier|Hyasong T1|HyasongT1|HyasongT1|
@@ -7941,6 +7941,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|I50|i50_b1b8|I50|
 |Haier|I6_Infinity|I6_Infinity|I6_Infinity|
 |Haier|INGO-TAB|INGO-TAB|INGO-TAB|
+|Haier|INNOVA android TV|hanyang|INNOVA 4K Android TV|
 |Haier|India|nippori|MAGELITE Android TV 2K|
 |Haier|Kogan Agora 8|Kogan_Agora_8|Kogan Agora 8|
 |Haier|Konnect_350|Konnect_350|Konnect_350|
@@ -7956,7 +7957,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|LE48M7000CF|LE48M7000CF|LE48M7000CF|
 |Haier|LE49U5000A|LE49U5000A|LE49U5000A|
 |Haier|LE55M7000CF|LE55M7000CF|LE55M7000CF|
-|Haier|Latin America|hanyang|Haier 4K Android TV|
 |Haier|Logicom S9782|Logicom-S9782|Logicom-S9782|
 |Haier|M53-52401|M53-52401|M53-52401|
 |Haier|M7808|M7808|M7808|
@@ -7966,6 +7966,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|MT-700|MT-700|MT-700|
 |Haier|MXG308|MXG308|MXG308|
 |Haier|MXG408|MXG408|MXG408|
+|Haier|Magelite android TV|hanyang|MAGELITE Android TV|
 |Haier|"Mexico|Central America|Korea"|
 |Haier|NEO10-1|NEO10-1|NEO10-1|
 |Haier|NEO7-1|NEO7-1|NEO7-1|
@@ -7993,7 +7994,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|Skill|Skill|Skill|
 |Haier|Smartfren Andromax AD681H|AD681H|Smartfren Andromax AD681H|
 |Haier|Smartfren Andromax AD9A1H|AD9A1H|Smartfren Andromax AD9A1H|
-|Haier|South Asia|hanyang|MAGELITE Android TV|
 |Haier|StarQ_Q5002|StarQ_Q5002|Q5002|
 |Haier|T50|Haier_T50|Haier T50|
 |Haier|T52P|T52P|Haier T52P|
@@ -8010,6 +8010,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|W717|W717|W717|
 |Haier|W757|W757|W757|
 |Haier|W860|W860|W860|
+|Haier|candy android TV|hanyang|CANDY Android TV|
 |Haier|haier lesure L7|Haier_Leisure_L7|HM-N700-FL|
 |Haier|i50|i50|Haier_i50|
 |HaloBop (ShenZhen)|BG001|HelloGenius|BG001|
@@ -10672,7 +10673,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|E601F|E601F|E601F|
 |Hyundai|E602|E602|E602|
 |Hyundai|E603|E603|E603|
-|Hyundai|Ecuador|hanyang|HYUNDAI 4K Android TV|
 |Hyundai|Ecuador|nippori|HYUNDAI 2K Android TV|
 |Hyundai|Eternity A24|A25024L|A25024L|
 |Hyundai|Eternity G22|G25022K|G25022K|
@@ -10714,6 +10714,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|Hyundai Koral 7M3X|HT0703K|HT0703K16|
 |Hyundai|Hyundai Koral_7M4|HT0704K08|HT0704K08|
 |Hyundai|Hyundai Koral_7XL|HT0701L16|HT0701L16|
+|Hyundai|Hyundai android TV|hanyang|HYUNDAI 4K Android TV|
 |Hyundai|Hyundai_Eternity_G50|HT1G50K|Hyundai_Eternity_G50|
 |Hyundai|Hyundai_Eternity_G50W|HT1G50KFBK|Hyundai_Eternity_G50W|
 |Hyundai|Hyundai_Eternity_G57|HT2G57L|Hyundai_Eternity_G57L|
@@ -11946,10 +11947,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KONDE|KD2|KD2|KD2|
 |KONDE|KIDS_FIVE|KIDS_FIVE|KIDS_FIVE|
 |KONKA|"Asia Pacific|Europe|MiddleEast，Africa"|
-|KONKA|"Asia Pacific|Europe|MiddleEast，Africa"|
 |KONKA|KM7012BK|KM7012BK|KM7012BK|
 |KONKA|KONKA|seocho|KONKA 4K Android TV|
 |KONKA|KONKA|sugamo|KONKA 2K Android TV|
+|KONKA|Konka android tv|hanyang|KONKA Android TV 4K|
 |KONKA|North America|hongik|KONKA 4K Android TV|
 |KONKA|North America|uguisudani|KONKA 2K Android TV|
 |KONKA|RE1|RE1|RE1|
@@ -12243,7 +12244,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kodak|SP4|SP4|SP4|
 |Kodak|Smartway_T1|Smartway_T1|Smartway_T1|
 |Kogan|Agora 6 Plus|Kogan_Agora_6Plus|Kogan Agora 6Plus|
-|Kogan|Australia|hanyang|Kogan SmarterTV|
 |Kogan|Australia|nippori|Kogan SmarterTV 2K|
 |Kogan|Australia|shibuya|KoganTVAP|
 |Kogan|Australia|tamachi|Kogan TV|
@@ -12255,6 +12255,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kogan|Kogan Agora Go|Agora_Go|Agora Go|
 |Kogan|Kogan Agora XI|AGORA_XI|AGORA XI|
 |Kogan|Kogan Agora XS|Kogan_Agora_XS|Agora XS|
+|Kogan|Kogan SmarterTV|hanyang|Kogan SmarterTV|
 |Komu|K22|K22|K22|
 |Konrow|CITY|CITY|CITY|
 |Konrow|CITY5|CITY5|CITY5|
@@ -15080,10 +15081,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LinkNet|Smart Box HD|SH940C-LN|SH940C-LN|
 |LinkNet|X1 Prime|DCN88_72604_LN|DCN88_72604_LN|
 |LinkNet|X1-Prime-c|DTC9565|X1-Prime-c|
-|Linsar|Australia|hanyang|Linsar Android TV|
 |Linsar|Linsar|bangbae|Linsar 4K Android TV|
 |Linsar|Linsar|komagome|Linsar 2K Android TV|
 |Linsar|Linsar|sadang|Linsar UK 4K Android TV|
+|Linsar|Linsar android TV|hanyang|Linsar Android TV|
 |Linsar|Llinsar|ueno|Linsar 2K Android TV|
 |Linsay|F10XIPS|F10XIPS|F10XIPS|
 |Linsay|F10XIPS|F10XIPS|LINSAY F10XIPS|
@@ -19543,7 +19544,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Polaroid|A7_PTAB735|A7_PTAB735|HS-7DTB39|
 |Polaroid|A9x/PTAB935x|A9xPTAB935x|A9x/PTAB935x|
 |Polaroid|Android TV|R1|ATV R1|
-|Polaroid|Australia|hanyang|Polaroid Android TV|
 |Polaroid|BDL1064PR001|BDL1064PR001|BDL1064PR001|
 |Polaroid|BDL424|BDL424|BDL424|
 |Polaroid|BDL5048|BDL5048|BDL5048PR001|
@@ -19611,6 +19611,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Polaroid|Phantom 5|Phantom5|PRO5023|
 |Polaroid|Polaroid|bangbae|Polaroid 4K Android TV|
 |Polaroid|Polaroid|komagome|Polaroid 2K Android TV|
+|Polaroid|Polaroid android TV|hanyang|Polaroid Android TV|
 |Polaroid|SIGMA 5|SIGMA-5|SIGMA-5|
 |Polaroid|SMX4K|GMP|SMX4K|
 |Polaroid|SOHO|SOHO|SOHO|
@@ -20182,13 +20183,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Proximus|Proximus TV|uiw4020pxm|decoder|
 |Punos|Punos_10|Punos_10|Punos 10|
 |Punos|Punos_7|Punos_7|Punos 7|
-|QBell|EU|hanyang|QBELL Android TV|
 |QBell|EU|nippori|QBELL Android TV 2K|
 |QBell|QBell|bangbae|QBell 4K Android TV|
 |QBell|QBell|komagome|QBell 2K Android TV|
 |QBell|QPHONE_10_1|QPHONE_10_1|QPHONE_10.1|
 |QBell|QPHONE_9_3|QPHONE_9_3|QPHONE_9_3|
 |QBell|QTAB10|QTAB10|QTAB10|
+|QBell|Qbell android TV|hanyang|QBELL Android TV|
 |QFX USA|TLW-100|PhonePad|TLW-100|
 |QLA|C600|GBC_bravo|C600|
 |QLA (tw)|T1|QLA|T1|
@@ -20923,8 +20924,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ruio|S6506|S6506|S6506|
 |Rumie|RT-1708|RT-1708|RT-1708|
 |Runbo|F1Plus|F1Plus|F1Plus|
-|S Vision|Australia|hanyang|Svision Android TV|
 |S Vision|Australia|nippori|Svision Android TV 2K|
+|S Vision|S android TV|hanyang|Svision Android TV|
 |S&T Global|8788_7|8788_7|8788_7|
 |S&T Global|C20|C20|C20|
 |S-tell|M555i|M555i|M555i|
@@ -21417,7 +21418,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A32 5G|SCG08|SCG08|
 |Samsung|Galaxy A32 5G|a32x|SM-A326B|
 |Samsung|Galaxy A32 5G|a32x|SM-A326BR|
-|Samsung|Galaxy A32 5G|a32x|SM-A326K|
 |Samsung|Galaxy A32 5G|a32x|SM-A326U|
 |Samsung|Galaxy A32 5G|a32x|SM-A326U1|
 |Samsung|Galaxy A32 5G|a32x|SM-A326W|
@@ -22195,6 +22195,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy J8|j8y18lte|SM-J810Y|
 |Samsung|Galaxy Jean|a6pltektt|SM-A605K|
 |Samsung|Galaxy Jean2|a20e|SM-A202K|
+|Samsung|Galaxy Jump|a32x|SM-A326K|
 |Samsung|Galaxy K|SHW-M130K|SHW-M130K|
 |Samsung|Galaxy K Zoom|m2a3g|SM-C111|
 |Samsung|Galaxy K Zoom|m2a3g|SM-C111M|
@@ -24567,10 +24568,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sonimtech|XP7700Z1|XP7700Z1|Smart-Ex 01|
 |Sonimtech|XP7705|XP7705|XP7700|
 |Sonimtech|XP8|XP8800|XP8800|
-|Soniq|Australia|hanyang|SONIQ Android TV|
 |Soniq|G32HW60A|osaki|2K AI Smart TV|
 |Soniq|PT0719A|PT0719A|PT0719A|
 |Soniq|PT1019A|PT1019A|PT1019A|
+|Soniq|Soniq android TV|hanyang|SONIQ Android TV|
 |Sony||C5503|C5503|
 |Sony||C6616|C6616|
 |Sony||SGP312|SGP312|
@@ -31721,6 +31722,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zen|Zen M72 Smart|M72_Smart|M72 Smart|
 |Zephir|Zephir|bangbae|Zephir 4K Android TV|
 |Zephir|Zephir|komagome|Zephir 2K Android TV|
+|Zephir|Zephir 2K android TV|nippori|ZEPHIR Android TV 2K|
+|Zephir|Zephir android TV|hanyang|ZEPHIR Android TV|
 |Zettaly|ZA-407|ZA-407|Zettaly Avy ZA-407|
 |Zexelon|ZTAB01B|ZTAB01B|ZTAB01B|
 |Zilo|Zilo|Zilo|Zilo|

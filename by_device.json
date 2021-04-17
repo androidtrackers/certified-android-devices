@@ -9608,108 +9608,6 @@
    "model": "Aprix_X4"
   }
  ],
- "hanyang": [
-  {
-   "brand": "Aqua",
-   "name": "APAC",
-   "model": "AQUA Android TV"
-  },
-  {
-   "brand": "Bauhn",
-   "name": "Australia",
-   "model": "Tempo Android TV"
-  },
-  {
-   "brand": "Blaupunkt",
-   "name": "Australia",
-   "model": "BP Android TV"
-  },
-  {
-   "brand": "Blaupunkt",
-   "name": "Ecuador",
-   "model": "BP 4K Android TV"
-  },
-  {
-   "brand": "Durabrand",
-   "name": "Central America",
-   "model": "Durabrand 4K Android TV"
-  },
-  {
-   "brand": "EKO",
-   "name": "Australia",
-   "model": "Ayonz Android TV"
-  },
-  {
-   "brand": "Haier",
-   "name": "APAC",
-   "model": "Haitech Android TV"
-  },
-  {
-   "brand": "Haier",
-   "name": "APAC",
-   "model": "haierATV"
-  },
-  {
-   "brand": "Haier",
-   "name": "EU",
-   "model": "HEC Android TV"
-  },
-  {
-   "brand": "Haier",
-   "name": "Ecuador",
-   "model": "EVVO 4K Android TV"
-  },
-  {
-   "brand": "Haier",
-   "name": "Ecuador",
-   "model": "INNOVA 4K Android TV"
-  },
-  {
-   "brand": "Haier",
-   "name": "Latin America",
-   "model": "Haier 4K Android TV"
-  },
-  {
-   "brand": "Haier",
-   "name": "South Asia",
-   "model": "MAGELITE Android TV"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "Ecuador",
-   "model": "HYUNDAI 4K Android TV"
-  },
-  {
-   "brand": "Kogan",
-   "name": "Australia",
-   "model": "Kogan SmarterTV"
-  },
-  {
-   "brand": "Linsar",
-   "name": "Australia",
-   "model": "Linsar Android TV"
-  },
-  {
-   "brand": "Polaroid",
-   "name": "Australia",
-   "model": "Polaroid Android TV"
-  },
-  {
-   "brand": "QBell",
-   "name": "EU",
-   "model": "QBELL Android TV"
-  },
-  {
-   "brand": "S Vision",
-   "name": "Australia",
-   "model": "Svision Android TV"
-  },
-  {
-   "brand": "Soniq",
-   "name": "Australia",
-   "model": "SONIQ Android TV"
-  }
- ],
  "nippori": [
   {
    "brand": "Aqua",
@@ -9758,11 +9656,6 @@
   },
   {
    "brand": "Haier",
-   "name": "APAC",
-   "model": "haierATVnippori"
-  },
-  {
-   "brand": "Haier",
    "name": "EU",
    "model": "HEC Android TV 2K"
   },
@@ -9775,6 +9668,11 @@
    "brand": "Haier",
    "name": "Ecuador",
    "model": "INNOVA 2K Android TV"
+  },
+  {
+   "brand": "Haier",
+   "name": "Haier 2K android TV",
+   "model": "haierATVnippori"
   },
   {
    "brand": "Haier",
@@ -9815,6 +9713,138 @@
    "brand": "Unionaire",
    "name": "Africa",
    "model": "Unionaire Android TV 2K"
+  },
+  {
+   "brand": "Zephir",
+   "name": "Zephir 2K android TV",
+   "model": "ZEPHIR Android TV 2K"
+  }
+ ],
+ "hanyang": [
+  {
+   "brand": "Aqua",
+   "name": "AQUA android TV",
+   "model": "AQUA Android TV"
+  },
+  {
+   "brand": "Bauhn",
+   "name": "Bauhn android TV",
+   "model": "Tempo Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "Blaupunkt android TV",
+   "model": "BLAUPUNKT Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "Blaupunkt android TV",
+   "model": "BP 4K Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "Blaupunkt android TV",
+   "model": "BP Android TV"
+  },
+  {
+   "brand": "Durabrand",
+   "name": "Durabrand android TV",
+   "model": "Durabrand 4K Android TV"
+  },
+  {
+   "brand": "EKO",
+   "name": "EKO android TV",
+   "model": "Ayonz Android TV"
+  },
+  {
+   "brand": "EKO",
+   "name": "EKO android TV ISDB",
+   "model": "EKO 4K Android TV"
+  },
+  {
+   "brand": "Haier",
+   "name": "EVVO Android TV",
+   "model": "EVVO 4K Android TV"
+  },
+  {
+   "brand": "Haier",
+   "name": "HEC Android TV",
+   "model": "HEC Android TV"
+  },
+  {
+   "brand": "Haier",
+   "name": "Haier Android TV",
+   "model": "haierATV"
+  },
+  {
+   "brand": "Haier",
+   "name": "Haier android TV",
+   "model": "Haier 4K Android TV"
+  },
+  {
+   "brand": "Haier",
+   "name": "Haitech android TV",
+   "model": "Haitech Android TV"
+  },
+  {
+   "brand": "Haier",
+   "name": "INNOVA android TV",
+   "model": "INNOVA 4K Android TV"
+  },
+  {
+   "brand": "Haier",
+   "name": "Magelite android TV",
+   "model": "MAGELITE Android TV"
+  },
+  {
+   "brand": "Haier",
+   "name": "candy android TV",
+   "model": "CANDY Android TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Hyundai android TV",
+   "model": "HYUNDAI 4K Android TV"
+  },
+  {
+   "brand": "KONKA",
+   "name": "Konka android tv",
+   "model": "KONKA Android TV 4K"
+  },
+  {
+   "brand": "Kogan",
+   "name": "Kogan SmarterTV",
+   "model": "Kogan SmarterTV"
+  },
+  {
+   "brand": "Linsar",
+   "name": "Linsar android TV",
+   "model": "Linsar Android TV"
+  },
+  {
+   "brand": "Polaroid",
+   "name": "Polaroid android TV",
+   "model": "Polaroid Android TV"
+  },
+  {
+   "brand": "QBell",
+   "name": "Qbell android TV",
+   "model": "QBELL Android TV"
+  },
+  {
+   "brand": "S Vision",
+   "name": "S android TV",
+   "model": "Svision Android TV"
+  },
+  {
+   "brand": "Soniq",
+   "name": "Soniq android TV",
+   "model": "SONIQ Android TV"
+  },
+  {
+   "brand": "Zephir",
+   "name": "Zephir android TV",
+   "model": "ZEPHIR Android TV"
   }
  ],
  "S1_Jazz": [
@@ -22562,13 +22592,6 @@
    "brand": "Blaupunkt",
    "name": "TX01",
    "model": "TX01"
-  }
- ],
- "Czech\"": [
-  {
-   "brand": "Blaupunkt",
-   "name": "\"Ukraine",
-   "model": "hanyang"
   }
  ],
  "A200": [
@@ -58030,13 +58053,6 @@
    "model": "AP54"
   }
  ],
- "EU\"": [
-  {
-   "brand": "Haier",
-   "name": "\"APAC",
-   "model": "hanyang"
-  }
- ],
  "AT7003": [
   {
    "brand": "Haier",
@@ -82332,11 +82348,6 @@
   }
  ],
  "Europe": [
-  {
-   "brand": "KONKA",
-   "name": "\"Asia Pacific",
-   "model": "MiddleEast，Africa\""
-  },
   {
    "brand": "KONKA",
    "name": "\"Asia Pacific",
@@ -142439,11 +142450,6 @@
   {
    "brand": "Samsung",
    "name": "Galaxy A32 5G",
-   "model": "SM-A326K"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy A32 5G",
    "model": "SM-A326U"
   },
   {
@@ -142455,6 +142461,11 @@
    "brand": "Samsung",
    "name": "Galaxy A32 5G",
    "model": "SM-A326W"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Jump",
+   "model": "SM-A326K"
   }
  ],
  "a40": [
