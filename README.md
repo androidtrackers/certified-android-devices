@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-04-18
+Last sync is 2021-04-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -93,6 +93,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AIDATA|ADT1012L|ADT1012L|ADT1012L|
 |AIDATA|ADT1061|ADT1061|ADT1061|
 |AIDATA|ADT1061_1|ADT1061_1|ADT1061_1|
+|AIDATA|ADT_1061|ADT_1061|ADT_1061|
 |AKOR|AKOR|TG1016|TG1016|
 |AKOR|TG797|TG797|TG797|
 |AKOR|TG996|TG996|TG996|
@@ -161,6 +162,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AVH San Luis S.A.|Excer_T8|Excer_T8|Excer_T8|
 |AVH San Luis S.A.|Vortech3.0|Vortech3_0|Vortech3.0|
 |AVH San Luis S.A.|Vortech_3_0|Vortech_3_0|Vortech 3.0|
+|AWOW|Funtab_801_I|Funtab_801_I|Funtab_801_I|
 |AWOW|MID-789A100-EEA|MID_789A100_EEA|MID-789A100-EEA|
 |AWOW|MID_1085_EEA|MID_1085_EEA|MID_1085_EEA|
 |AWOW|MID_1089IPS_EEA|MID_1089IPS_EEA|MID_1089IPS_EEA|
@@ -538,6 +540,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advance|TR4986|Tablet_adv_v1|ADVANCE|
 |Advance|TR5994|TR5994|TR5994|
 |Advance|TR6948|TR6948|TR6948|
+|Advance|TR6949|TR6949|TR6949|
 |Advance|TR7988|TR7988|TR7988|
 |Advance|TR7998|TR7998|TR7998|
 |Advance|Tablet_Advance|Tablet_adv_v1|ADVANCE|
@@ -2661,6 +2664,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackshark|MBU-H0|mobius|SHARK MBU-H0|
 |Blackshark|SHARK KSR-A0|kaiser|SHARK KSR-A0|
 |Blackshark|SHARK PRS-A0|penrose|SHARK PRS-A0|
+|Blackshark|SHARK PRS-H0|penrose|SHARK PRS-H0|
 |Blackshark|Shark|shark|SKR-H0|
 |Blackshark|Shark 1S|bullhead|AWM-A0|
 |Blackshark|黑鲨游戏手机|shark|SKR-A0|
@@ -3694,6 +3698,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cherry Mobile|X1090|X1090|X1090|
 |Cherry Mobile|X1100|X1100|X1100|
 |Cherry Mobile|ZP785|ZP785|ZP785|
+|ChicoMobile|LGU-PQv1|LGU-PQv1|LGU-PQv1|
 |China Mobile|A3|M651G|M651G|
 |China Mobile|A5|M654G|M654G|
 |China Mobile|M762G|M762G|M762G|
@@ -14812,6 +14817,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo YOGA Tab 3 Plus|YT-X703F|Lenovo YT-X703F|
 |Lenovo|Lenovo YOGA Tab 3 Plus|YT-X703L|Lenovo YT-X703L|
 |Lenovo|Lenovo YOGA Tab 3 Plus|YT-X703X|Lenovo YT-X703X|
+|Lenovo|Lenovo Yoga Tab 11|YT-J706F|Lenovo YT-J706F|
 |Lenovo|Lenovo Z5 Pro|heart|Lenovo L78032|
 |Lenovo|Lenovo Z6 Pro 5G|cream|Lenovo L79041|
 |Lenovo|Lenovo-9|zap|Lenovo L78031|
@@ -15254,6 +15260,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logicom|Le_Pulse|Le_Pulse|Le_Pulse|
 |Logicom|Le_Spark|Le_Spark|Le_Spark|
 |Logicom|LiteTab760|LiteTab760|LiteTab760|
+|Logicom|Logicom La Tab 127 HD|La_Tab_127_HD_EEA|Logicom La Tab 127 HD|
 |Logicom|Logikids|Logikids_2|Logikids_2|
 |Logicom|Logikids 3|Logikids_3|Logikids_3|
 |Logicom|Logikids 4|logikids4|logikids4|
@@ -19591,6 +19598,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Polaroid|POCMTV000|POCMTV000|POCMTV000|
 |Polaroid|POMDTB002|POMDTB002|POMDTB002|
 |Polaroid|POMDTB005|POMDTB005|POMDTB005|
+|Polaroid|POMDTB006|POMDTB006|POMDTB006|
 |Polaroid|PRO5023PW|up06_h25_polaroid|PRO5023PW|
 |Polaroid|PRO5043|PRO5043|PRO5043|
 |Polaroid|PRO5044PEE01|Polaroid_PRO5044PEE01|PRO5044PEE01|
@@ -25347,6 +25355,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sugar|SUGAR C11|v12bns|SUGAR C11|
 |Sugar|SUGAR C12|SUGAR_C12|SUGAR C12|
 |Sugar|SUGAR C13|p210cn|SUGAR C13|
+|Sugar|SUGAR C60|SUGAR_C60|SUGAR C60|
 |Sugar|SUGAR F20|p700as|SUGAR F20|
 |Sugar|SUGAR P1|SUGAR_P1|SUGAR P1|
 |Sugar|SUGAR S11|i9071ae|SUGAR S11|
@@ -27176,6 +27185,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Techpad|TechPad 10Y|TechPad_10Y|TechPad_10Y|
 |Techpad|TechPad 9x|TechPad_9x|TechPad_9x|
 |Techpad|TechPad M5|TechPad_M5|TechPad M5|
+|Techpad|TechPad_1032|TechPad_1032|TechPad_1032|
 |Techpad|TechPad_1032s|TechPad_1032s|TechPad_1032s|
 |Techpad|TechPad_10Z|TechPad_10Z|TechPad_10Z|
 |Techpad|TechPad_10x|TechPad_10x|TechPad_10x|
@@ -27903,6 +27913,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |UNIQ-CELL|UNIQCELL_A5|UNIQCELL_A5|UNIQCELL_A5|
 |UNIQ-CELL|UNIQCELL_A55|UNIQCELL_A55|UNIQCELL_A55|
 |UNIQ-CELL|W7|W7|W7|
+|UNIQ-CELL|ZX_001|ZX_001|ZX_001|
 |UNITED TV|LED32HS72A9|ikebukuro|AI PONT|
 |UNITED TV|UNITED|gangbyeon|4K AI Smart TV|
 |UNNIC|UC_TK03|UC_TK03|UC_TK03|
@@ -29442,6 +29453,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|Sunny4|W-K130|W-K130-TMV|
 |Wiko|Sunny5|W-K380|W-K380-TVM|
 |Wiko|Sunny5|W-K380|W-K380-TVM2G|
+|Wiko|Sunny5 Lite|W-K211|W-K211-TH|
 |Wiko|Sunny5 Lite|W-K211|W-K211-TVM|
 |Wiko|TOMMY|P4901AC|TOMMY|
 |Wiko|TOMMY|P4903LA|TOMMY|
@@ -29544,6 +29556,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|Y61|W-K560|W-K560-TVM|
 |Wiko|Y61|W-K560|W-K560-TVM1G|
 |Wiko|Y62|W-K610|W-K610-EEA|
+|Wiko|Y62|W-K610|W-K610-OPE|
 |Wiko|Y62|W-K610|W-K610-TVM|
 |Wiko|Y80|W-V720|W-V720-CA|
 |Wiko|Y80|W-V720|W-V720-EEA|

@@ -479,6 +479,11 @@
    "device": "ADT1061_1",
    "name": "ADT1061_1",
    "model": "ADT1061_1"
+  },
+  {
+   "device": "ADT_1061",
+   "name": "ADT_1061",
+   "model": "ADT_1061"
   }
  ],
  "AKOR": [
@@ -866,6 +871,11 @@
   }
  ],
  "AWOW": [
+  {
+   "device": "Funtab_801_I",
+   "name": "Funtab_801_I",
+   "model": "Funtab_801_I"
+  },
   {
    "device": "MID_789A100_EEA",
    "name": "MID-789A100-EEA",
@@ -2792,6 +2802,11 @@
    "device": "TR6948",
    "name": "TR6948",
    "model": "TR6948"
+  },
+  {
+   "device": "TR6949",
+   "name": "TR6949",
+   "model": "TR6949"
   },
   {
    "device": "TR7988",
@@ -13713,6 +13728,11 @@
    "model": "SHARK PRS-A0"
   },
   {
+   "device": "penrose",
+   "name": "SHARK PRS-H0",
+   "model": "SHARK PRS-H0"
+  },
+  {
    "device": "shark",
    "name": "Shark",
    "model": "SKR-H0"
@@ -19102,6 +19122,13 @@
    "device": "ZP785",
    "name": "ZP785",
    "model": "ZP785"
+  }
+ ],
+ "ChicoMobile": [
+  {
+   "device": "LGU-PQv1",
+   "name": "LGU-PQv1",
+   "model": "LGU-PQv1"
   }
  ],
  "China Mobile": [
@@ -76014,6 +76041,11 @@
    "model": "Lenovo YT-X703X"
   },
   {
+   "device": "YT-J706F",
+   "name": "Lenovo Yoga Tab 11",
+   "model": "Lenovo YT-J706F"
+  },
+  {
    "device": "heart",
    "name": "Lenovo Z5 Pro",
    "model": "Lenovo L78032"
@@ -78266,6 +78298,11 @@
    "device": "LiteTab760",
    "name": "LiteTab760",
    "model": "LiteTab760"
+  },
+  {
+   "device": "La_Tab_127_HD_EEA",
+   "name": "Logicom La Tab 127 HD",
+   "model": "Logicom La Tab 127 HD"
   },
   {
    "device": "Logikids_2",
@@ -100669,6 +100706,11 @@
    "device": "POMDTB005",
    "name": "POMDTB005",
    "model": "POMDTB005"
+  },
+  {
+   "device": "POMDTB006",
+   "name": "POMDTB006",
+   "model": "POMDTB006"
   },
   {
    "device": "up06_h25_polaroid",
@@ -129953,6 +129995,11 @@
    "model": "SUGAR C13"
   },
   {
+   "device": "SUGAR_C60",
+   "name": "SUGAR C60",
+   "model": "SUGAR C60"
+  },
+  {
    "device": "p700as",
    "name": "SUGAR F20",
    "model": "SUGAR F20"
@@ -139280,6 +139327,11 @@
    "model": "TechPad M5"
   },
   {
+   "device": "TechPad_1032",
+   "name": "TechPad_1032",
+   "model": "TechPad_1032"
+  },
+  {
    "device": "TechPad_1032s",
    "name": "TechPad_1032s",
    "model": "TechPad_1032s"
@@ -143079,6 +143131,11 @@
    "device": "W7",
    "name": "W7",
    "model": "W7"
+  },
+  {
+   "device": "ZX_001",
+   "name": "ZX_001",
+   "model": "ZX_001"
   }
  ],
  "UNITED TV": [
@@ -151062,6 +151119,11 @@
   {
    "device": "W-K211",
    "name": "Sunny5 Lite",
+   "model": "W-K211-TH"
+  },
+  {
+   "device": "W-K211",
+   "name": "Sunny5 Lite",
    "model": "W-K211-TVM"
   },
   {
@@ -151568,6 +151630,11 @@
    "device": "W-K610",
    "name": "Y62",
    "model": "W-K610-EEA"
+  },
+  {
+   "device": "W-K610",
+   "name": "Y62",
+   "model": "W-K610-OPE"
   },
   {
    "device": "W-K610",

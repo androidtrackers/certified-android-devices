@@ -6545,6 +6545,13 @@
    "model": "ADT1061_1"
   }
  ],
+ "ADT_1061": [
+  {
+   "brand": "AIDATA",
+   "device": "ADT_1061",
+   "model": "ADT_1061"
+  }
+ ],
  "AKOR": [
   {
    "brand": "AKOR",
@@ -7038,6 +7045,13 @@
    "brand": "AVH San Luis S.A.",
    "device": "Vortech_3_0",
    "model": "Vortech 3.0"
+  }
+ ],
+ "Funtab_801_I": [
+  {
+   "brand": "AWOW",
+   "device": "Funtab_801_I",
+   "model": "Funtab_801_I"
   }
  ],
  "MID-789A100-EEA": [
@@ -10409,6 +10423,13 @@
    "brand": "Advance",
    "device": "TR6948",
    "model": "TR6948"
+  }
+ ],
+ "TR6949": [
+  {
+   "brand": "Advance",
+   "device": "TR6949",
+   "model": "TR6949"
   }
  ],
  "TR7988": [
@@ -25619,6 +25640,13 @@
    "model": "SHARK PRS-A0"
   }
  ],
+ "SHARK PRS-H0": [
+  {
+   "brand": "Blackshark",
+   "device": "penrose",
+   "model": "SHARK PRS-H0"
+  }
+ ],
  "Shark": [
   {
    "brand": "Blackshark",
@@ -33620,6 +33648,13 @@
    "brand": "Cherry Mobile",
    "device": "ZP785",
    "model": "ZP785"
+  }
+ ],
+ "LGU-PQv1": [
+  {
+   "brand": "ChicoMobile",
+   "device": "LGU-PQv1",
+   "model": "LGU-PQv1"
   }
  ],
  "M762G": [
@@ -102169,6 +102204,13 @@
    "model": "Lenovo YT-X703X"
   }
  ],
+ "Lenovo Yoga Tab 11": [
+  {
+   "brand": "Lenovo",
+   "device": "YT-J706F",
+   "model": "Lenovo YT-J706F"
+  }
+ ],
  "Lenovo Z5 Pro": [
   {
    "brand": "Lenovo",
@@ -104892,6 +104934,13 @@
    "brand": "Logicom",
    "device": "LiteTab760",
    "model": "LiteTab760"
+  }
+ ],
+ "Logicom La Tab 127 HD": [
+  {
+   "brand": "Logicom",
+   "device": "La_Tab_127_HD_EEA",
+   "model": "Logicom La Tab 127 HD"
   }
  ],
  "Logikids": [
@@ -131464,6 +131513,13 @@
    "brand": "Polaroid",
    "device": "POMDTB005",
    "model": "POMDTB005"
+  }
+ ],
+ "POMDTB006": [
+  {
+   "brand": "Polaroid",
+   "device": "POMDTB006",
+   "model": "POMDTB006"
   }
  ],
  "PRO5023PW": [
@@ -165188,6 +165244,13 @@
    "model": "SUGAR C13"
   }
  ],
+ "SUGAR C60": [
+  {
+   "brand": "Sugar",
+   "device": "SUGAR_C60",
+   "model": "SUGAR C60"
+  }
+ ],
  "SUGAR F20": [
   {
    "brand": "Sugar",
@@ -175337,6 +175400,13 @@
    "model": "TechPad M5"
   }
  ],
+ "TechPad_1032": [
+  {
+   "brand": "Techpad",
+   "device": "TechPad_1032",
+   "model": "TechPad_1032"
+  }
+ ],
  "TechPad_1032s": [
   {
    "brand": "Techpad",
@@ -179758,6 +179828,13 @@
    "brand": "Wings",
    "device": "W7",
    "model": "W7"
+  }
+ ],
+ "ZX_001": [
+  {
+   "brand": "UNIQ-CELL",
+   "device": "ZX_001",
+   "model": "ZX_001"
   }
  ],
  "LED32HS72A9": [
@@ -189429,6 +189506,11 @@
   {
    "brand": "Wiko",
    "device": "W-K211",
+   "model": "W-K211-TH"
+  },
+  {
+   "brand": "Wiko",
+   "device": "W-K211",
    "model": "W-K211-TVM"
   }
  ],
@@ -189993,6 +190075,11 @@
    "brand": "Wiko",
    "device": "W-K610",
    "model": "W-K610-EEA"
+  },
+  {
+   "brand": "Wiko",
+   "device": "W-K610",
+   "model": "W-K610-OPE"
   },
   {
    "brand": "Wiko",
