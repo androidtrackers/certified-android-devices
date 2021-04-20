@@ -12686,6 +12686,11 @@
    "brand": "SWTV",
    "name": "SWTV-20SA",
    "model": "SWTV-20SA"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-20TW",
+   "model": "SWTV-20TW"
   }
  ],
  "ASANZO_S3_PLUS": [
@@ -23700,6 +23705,13 @@
    "brand": "Blu",
    "name": "M6",
    "model": "M6"
+  }
+ ],
+ "M0080WW": [
+  {
+   "brand": "Blu",
+   "name": "M6 2021",
+   "model": "M6 2021"
   }
  ],
  "M110EQ": [
@@ -63409,6 +63421,13 @@
    "model": "HCA-6010"
   }
  ],
+ "STB6252C": [
+  {
+   "brand": "Homeplustv",
+   "name": "STB-6252C",
+   "model": "STB-6252C"
+  }
+ ],
  "ALFA_10RC": [
   {
    "brand": "Hometech",
@@ -76368,6 +76387,34 @@
    "model": "Infinix X559"
   }
  ],
+ "Infinix-X689": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 10S",
+   "model": "Infinix X689"
+  }
+ ],
+ "Infinix-X689B": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 10S",
+   "model": "Infinix X689B"
+  }
+ ],
+ "Infinix-X689D": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 10S NFC",
+   "model": "Infinix X689D"
+  }
+ ],
+ "Infinix-X689C": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 10T",
+   "model": "Infinix X689C"
+  }
+ ],
  "Infinix-X623": [
   {
    "brand": "Infinix",
@@ -85536,6 +85583,13 @@
    "brand": "Kyocera",
    "name": "INFOBAR A03",
    "model": "KYV33"
+  }
+ ],
+ "K5G-C-100A": [
+  {
+   "brand": "Kyocera",
+   "name": "K5G-C-100A",
+   "model": "K5G-C-100A"
   }
  ],
  "KC-01": [
@@ -100321,6 +100375,13 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab V7",
    "model": "Lenovo PB-6505Y"
+  }
+ ],
+ "A101LV": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab6",
+   "model": "A101LV"
   }
  ],
  "X2-CU": [
@@ -137594,6 +137655,13 @@
    "brand": "Realme",
    "name": "realme 6i",
    "model": "RMX2042"
+  }
+ ],
+ "RMX2111L1": [
+  {
+   "brand": "Realme",
+   "name": "realme 7 5G",
+   "model": "RMX2111"
   }
  ],
  "RMX2170L1": [
@@ -186666,6 +186734,13 @@
    "model": "I1928"
   }
  ],
+ "2009": [
+  {
+   "brand": "Vivo",
+   "name": "I2009",
+   "model": "I2009"
+  }
+ ],
  "2012": [
   {
    "brand": "Vivo",
@@ -187360,6 +187435,13 @@
    "model": "V2041"
   }
  ],
+ "2044": [
+  {
+   "brand": "Vivo",
+   "name": "V2044",
+   "model": "V2044"
+  }
+ ],
  "2045": [
   {
    "brand": "Vivo",
@@ -187473,6 +187555,13 @@
    "model": "V2065A"
   }
  ],
+ "PD2066": [
+  {
+   "brand": "Vivo",
+   "name": "V2066A",
+   "model": "V2066A"
+  }
+ ],
  "PD2066B": [
   {
    "brand": "Vivo",
@@ -187520,6 +187609,20 @@
    "brand": "Vivo",
    "name": "V2099A",
    "model": "V2099A"
+  }
+ ],
+ "PD2106": [
+  {
+   "brand": "Vivo",
+   "name": "V2106A",
+   "model": "V2106A"
+  }
+ ],
+ "PD2106B": [
+  {
+   "brand": "Vivo",
+   "name": "V2106A",
+   "model": "V2106A"
   }
  ],
  "PD2118": [

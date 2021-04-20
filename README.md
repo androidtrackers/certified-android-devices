@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-04-19
+Last sync is 2021-04-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2958,6 +2958,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Life One X3|L0150WW|Life One X3|
 |Blu|M6|M0030TT|M6|
 |Blu|M6|M030P|M6|
+|Blu|M6 2021|M0080WW|M6 2021|
 |Blu|M7|M110EQ|M7|
 |Blu|M7L|M0050LL|M7L|
 |Blu|NEO ENERGY MINI|BLU_NEO_ENERGY_MINI|BLU NEO ENERGY MINI|
@@ -8832,6 +8833,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Homatics|SEI600HM|HND|Box Q|
 |Home Elite|Android TV|R1|ATV R1|
 |Homeplustv|Homeplus_ATV HCA-6010|HCA6010|HCA-6010|
+|Homeplustv|STB-6252C|STB6252C|STB-6252C|
 |Hometech|ALFA 10RC|ALFA_10RC|ALFA_10RC|
 |Hometech|ALFA 8RC|ALFA_8RC|ALFA_8RC|
 |Hometech|ALFA 8RX|ALFA_8RX|ALFA_8RX|
@@ -11006,6 +11008,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|HOT5 Lite|X557|Infinix HOT 4|
 |Infinix|Hot 4 Pro|Infinix-X5511-13M|Infinix HOT 4 Pro|
 |Infinix|Infinix HOT 10 Lite|Infinix-X657B|Infinix X657B|
+|Infinix|Infinix HOT 10S|Infinix-X689|Infinix X689|
+|Infinix|Infinix HOT 10S|Infinix-X689B|Infinix X689B|
+|Infinix|Infinix HOT 10S NFC|Infinix-X689D|Infinix X689D|
+|Infinix|Infinix HOT 10T|Infinix-X689C|Infinix X689C|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623B|
 |Infinix|Infinix HOT 7|Infinix-X625C|Infinix X625C|
@@ -12422,6 +12428,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|Hydro XTRM|C6522N|C6522N|
 |Kyocera|Hydro XTRM|C6721|USCC-C6721|
 |Kyocera|INFOBAR A03|KYV33|KYV33|
+|Kyocera|K5G-C-100A|K5G-C-100A|K5G-C-100A|
 |Kyocera|KC-01|KC-01|KC-01|
 |Kyocera|KC-T302DT|KC-T302DT|KC-T302DT|
 |Kyocera|KC-T302DT|SZJ202|SZJ-JS202|
@@ -14813,6 +14820,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab V7|PB-6505MC|Lenovo PB-6505MC|
 |Lenovo|Lenovo Tab V7|PB-6505NC|Lenovo PB-6505NC|
 |Lenovo|Lenovo Tab V7|PB-6505Y|Lenovo PB-6505Y|
+|Lenovo|Lenovo Tab6|A101LV|A101LV|
 |Lenovo|Lenovo X2-CU/VIBE X2|X2-CU|Lenovo X2-CU|
 |Lenovo|Lenovo YOGA Tab 3 Plus|YT-X703F|Lenovo YT-X703F|
 |Lenovo|Lenovo YOGA Tab 3 Plus|YT-X703L|Lenovo YT-X703L|
@@ -20634,6 +20642,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme 6i|RMX2041|RMX2041|
 |Realme|realme 6i|RMX2042|RMX2042|
 |Realme|realme 6s|RMX2002L1|RMX2002|
+|Realme|realme 7 5G|RMX2111L1|RMX2111|
 |Realme|realme 7 Pro|RMX2170L1|RMX2170|
 |Realme|realme 7i|RE50C1L1|RMX2103|
 |Realme|realme 7i|RMX2193|RMX2193|
@@ -21204,6 +21213,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SWTV|SWTV-20NA-PRO|SW4H_FF|SWTV-20NA-PRO|
 |SWTV|SWTV-20SA|SW4H|SWTV-20SA|
 |SWTV|SWTV-20SA-PRO|SW4H_FF|SWTV-20SA-PRO|
+|SWTV|SWTV-20TW|SW4H|SWTV-20TW|
 |SWTV|South America|SW3_ATV|SWTV|
 |SWTV|TV|SW3H_ATV|SWTV|
 |SWTV|Taiwan|SW3H_ATV|SWTV|
@@ -28661,6 +28671,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|1609|1609|vivo 1609|
 |Vivo|I1927|I1928|I1927|
 |Vivo|I1928|I1928|I1928|
+|Vivo|I2009|2009|I2009|
 |Vivo|I2012|2012|I2012|
 |Vivo|NEX A|PD1806B|vivo NEX A|
 |Vivo|PD1304DL|PD1304DL|vivo Y13iL|
@@ -28763,6 +28774,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2042|2026|V2042|
 |Vivo|V2043|2026|V2043|
 |Vivo|V2043_21|2026|V2043_21|
+|Vivo|V2044|2044|V2044|
 |Vivo|V2045|2045|V2045|
 |Vivo|V2046|2046|V2046|
 |Vivo|V2046A|PD2046|V2046A|
@@ -28782,6 +28794,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2061A|PD2061|V2061A|
 |Vivo|V2065|2026|V2065|
 |Vivo|V2065A|PD2065|V2065A|
+|Vivo|V2066A|PD2066|V2066A|
 |Vivo|V2066BA|PD2066B|V2066BA|
 |Vivo|V2068A|PD2068|V2068A|
 |Vivo|V2072A|PD2072|V2072A|
@@ -28789,6 +28802,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2080A|PD2080|V2080A|
 |Vivo|V2085A|PD2085|V2085A|
 |Vivo|V2099A|PD2034D|V2099A|
+|Vivo|V2106A|PD2106|V2106A|
+|Vivo|V2106A|PD2106B|V2106A|
 |Vivo|V2108|2061|V2061|
 |Vivo|V2108|2061|V2108|
 |Vivo|V2118A|PD2118|V2118A|

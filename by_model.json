@@ -22333,6 +22333,13 @@
    "device": "M6"
   }
  ],
+ "M6 2021": [
+  {
+   "brand": "Blu",
+   "name": "M6 2021",
+   "device": "M0080WW"
+  }
+ ],
  "M7L": [
   {
    "brand": "Blu",
@@ -63163,6 +63170,13 @@
    "device": "HCA6010"
   }
  ],
+ "STB-6252C": [
+  {
+   "brand": "Homeplustv",
+   "name": "STB-6252C",
+   "device": "STB6252C"
+  }
+ ],
  "ALFA_10RC": [
   {
    "brand": "Hometech",
@@ -77768,6 +77782,34 @@
    "device": "Infinix-X559"
   }
  ],
+ "Infinix X689": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 10S",
+   "device": "Infinix-X689"
+  }
+ ],
+ "Infinix X689B": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 10S",
+   "device": "Infinix-X689B"
+  }
+ ],
+ "Infinix X689D": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 10S NFC",
+   "device": "Infinix-X689D"
+  }
+ ],
+ "Infinix X689C": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 10T",
+   "device": "Infinix-X689C"
+  }
+ ],
  "Infinix X623": [
   {
    "brand": "Infinix",
@@ -87212,6 +87254,13 @@
    "brand": "Kyocera",
    "name": "INFOBAR A03",
    "device": "KYV33"
+  }
+ ],
+ "K5G-C-100A": [
+  {
+   "brand": "Kyocera",
+   "name": "K5G-C-100A",
+   "device": "K5G-C-100A"
   }
  ],
  "KC-01": [
@@ -103192,6 +103241,13 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab V7",
    "device": "PB-6505Y"
+  }
+ ],
+ "A101LV": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab6",
+   "device": "A101LV"
   }
  ],
  "Lenovo X2-CU": [
@@ -141222,6 +141278,18 @@
    "device": "RMX2042"
   }
  ],
+ "RMX2111": [
+  {
+   "brand": "Realme",
+   "name": "realme 7 5G",
+   "device": "RMX2111L1"
+  },
+  {
+   "brand": "Realme",
+   "name": "realme V5 5G",
+   "device": "RMX2111CN"
+  }
+ ],
  "RMX2170": [
   {
    "brand": "Realme",
@@ -141439,13 +141507,6 @@
    "brand": "Realme",
    "name": "realme V3 5G",
    "device": "RMX2201CN"
-  }
- ],
- "RMX2111": [
-  {
-   "brand": "Realme",
-   "name": "realme V5 5G",
-   "device": "RMX2111CN"
   }
  ],
  "RMX2112": [
@@ -144932,6 +144993,13 @@
    "brand": "SWTV",
    "name": "SWTV-20SA-PRO",
    "device": "SW4H_FF"
+  }
+ ],
+ "SWTV-20TW": [
+  {
+   "brand": "SWTV",
+   "name": "SWTV-20TW",
+   "device": "SW4H"
   }
  ],
  "SLTDVD1024": [
@@ -194536,6 +194604,13 @@
    "device": "I1928"
   }
  ],
+ "I2009": [
+  {
+   "brand": "Vivo",
+   "name": "I2009",
+   "device": "2009"
+  }
+ ],
  "I2012": [
   {
    "brand": "Vivo",
@@ -195256,6 +195331,13 @@
    "device": "2026"
   }
  ],
+ "V2044": [
+  {
+   "brand": "Vivo",
+   "name": "V2044",
+   "device": "2044"
+  }
+ ],
  "V2045": [
   {
    "brand": "Vivo",
@@ -195394,6 +195476,13 @@
    "device": "PD2065"
   }
  ],
+ "V2066A": [
+  {
+   "brand": "Vivo",
+   "name": "V2066A",
+   "device": "PD2066"
+  }
+ ],
  "V2066BA": [
   {
    "brand": "Vivo",
@@ -195441,6 +195530,18 @@
    "brand": "Vivo",
    "name": "V2099A",
    "device": "PD2034D"
+  }
+ ],
+ "V2106A": [
+  {
+   "brand": "Vivo",
+   "name": "V2106A",
+   "device": "PD2106"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2106A",
+   "device": "PD2106B"
   }
  ],
  "V2108": [
