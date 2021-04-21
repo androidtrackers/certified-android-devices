@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-04-20
+Last sync is 2021-04-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1386,6 +1386,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Arknikko|Sophpad_X21|Sophpad_X21|Sophpad_X21|
 |Arknikko|Sophpad_Z21|Sophpad_Z21|Sophpad_Z21|
 |Arris|VIP6102W Genesis|vip6102w|VIP6102W|
+|Arris|VIP7100 A|SFO|VIP7100 A|
 |Arrow|M916H|M916H|M916H|
 |Arrow|RO-43LCS|ikebukuro|AI PONT|
 |Arrow|RO-55LCS|samseong|AI PONT|
@@ -19119,6 +19120,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|NEXT Eco4K 12|NEXT821|NEXT|
 |Panasonic|NEXT Elite-4K 16|NEXT820|NEXT|
 |Panasonic|NEXT Elite-4K 24|NEXT820|NEXT|
+|Panasonic|NEXT Elite-4K 43|NEXT820|NEXT|
 |Panasonic|P-01D|pana2_1|P-01D|
 |Panasonic|P-01K|P-01K|P-01K|
 |Panasonic|P-02D|pana2_2|P-02D|
@@ -27271,6 +27273,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|CAMON 16 S|TECNO-CD6j|TECNO CD6j|
 |Tecno|CAMON 17|TECNO-CG6|TECNO CG6|
 |Tecno|CAMON 17|TECNO-CG6j|TECNO CG6j|
+|Tecno|CAMON 17 Pro|TECNO-CG8|TECNO CG8|
 |Tecno|CAMON 17P|TECNO-CG7|TECNO CG7|
 |Tecno|CAMON C7|TECNO-C7|TECNO-C7|
 |Tecno|CAMON CM|TECNO-CA6|TECNO CA6|

@@ -11128,6 +11128,13 @@
    "device": "vip6102w"
   }
  ],
+ "VIP7100 A": [
+  {
+   "brand": "Arris",
+   "name": "VIP7100 A",
+   "device": "SFO"
+  }
+ ],
  "M916H": [
   {
    "brand": "Arrow",
@@ -130706,6 +130713,11 @@
    "brand": "Panasonic",
    "name": "NEXT Elite-4K 24",
    "device": "NEXT820"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "NEXT Elite-4K 43",
+   "device": "NEXT820"
   }
  ],
  "Eco9 v1": [
@@ -185799,6 +185811,13 @@
    "brand": "Tecno",
    "name": "CAMON 17",
    "device": "TECNO-CG6j"
+  }
+ ],
+ "TECNO CG8": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 17 Pro",
+   "device": "TECNO-CG8"
   }
  ],
  "TECNO CG7": [

@@ -12358,6 +12358,18 @@
    "model": "VIP6102W"
   }
  ],
+ "SFO": [
+  {
+   "brand": "Arris",
+   "name": "VIP7100 A",
+   "model": "VIP7100 A"
+  },
+  {
+   "brand": "BVS (AR)",
+   "name": "BVS  4K 0TT 01",
+   "model": "BVS 4K OTT 01"
+  }
+ ],
  "M916H": [
   {
    "brand": "Arrow",
@@ -19858,13 +19870,6 @@
    "brand": "Hurricane",
    "name": "Touch",
    "model": "Touch"
-  }
- ],
- "SFO": [
-  {
-   "brand": "BVS (AR)",
-   "name": "BVS  4K 0TT 01",
-   "model": "BVS 4K OTT 01"
   }
  ],
  "Smart502": [
@@ -127433,6 +127438,11 @@
    "brand": "Panasonic",
    "name": "NEXT Elite-4K 24",
    "model": "NEXT"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "NEXT Elite-4K 43",
+   "model": "NEXT"
   }
  ],
  "Eco": [
@@ -178259,6 +178269,13 @@
    "brand": "Tecno",
    "name": "CAMON 17",
    "model": "TECNO CG6j"
+  }
+ ],
+ "TECNO-CG8": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 17 Pro",
+   "model": "TECNO CG8"
   }
  ],
  "TECNO-CG7": [

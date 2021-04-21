@@ -7142,6 +7142,11 @@
    "device": "vip6102w",
    "name": "VIP6102W Genesis",
    "model": "VIP6102W"
+  },
+  {
+   "device": "SFO",
+   "name": "VIP7100 A",
+   "model": "VIP7100 A"
   }
  ],
  "Arrow": [
@@ -98243,6 +98248,11 @@
    "model": "NEXT"
   },
   {
+   "device": "NEXT820",
+   "name": "NEXT Elite-4K 43",
+   "model": "NEXT"
+  },
+  {
    "device": "pana2_1",
    "name": "P-01D",
    "model": "P-01D"
@@ -139761,6 +139771,11 @@
    "device": "TECNO-CG6j",
    "name": "CAMON 17",
    "model": "TECNO CG6j"
+  },
+  {
+   "device": "TECNO-CG8",
+   "name": "CAMON 17 Pro",
+   "model": "TECNO CG8"
   },
   {
    "device": "TECNO-CG7",
