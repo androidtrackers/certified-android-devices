@@ -24639,6 +24639,11 @@
  ],
  "Dialog": [
   {
+   "device": "DV8829_Dialog",
+   "name": "4K Android Hybrid",
+   "model": "4K Android Hybrid"
+  },
+  {
    "device": "N9106H_B_Dialog",
    "name": "N9106H_B",
    "model": "N9106H_B"
@@ -56222,6 +56227,11 @@
    "device": "T6",
    "name": "T6",
    "model": "T6"
+  },
+  {
+   "device": "X1",
+   "name": "X1",
+   "model": "X1"
   },
   {
    "device": "Y2",
@@ -91800,6 +91810,16 @@
    "model": "Nokia 1.3"
   },
   {
+   "device": "CBL",
+   "name": "Nokia 1.4",
+   "model": "Cable"
+  },
+  {
+   "device": "CBL",
+   "name": "Nokia 1.4",
+   "model": "Nokia 1.4"
+  },
+  {
    "device": "E1M",
    "name": "Nokia 2",
    "model": "Nokia 2"
@@ -92180,9 +92200,54 @@
    "model": "Nokia C5 Endi"
   },
   {
+   "device": "ROGA",
+   "name": "Nokia G10",
+   "model": "Nokia G10"
+  },
+  {
+   "device": "ROGA_sprout",
+   "name": "Nokia G10",
+   "model": "Nokia G10"
+  },
+  {
+   "device": "RNN",
+   "name": "Nokia G20",
+   "model": "Nokia G20"
+  },
+  {
+   "device": "RNNA_sprout",
+   "name": "Nokia G20",
+   "model": "Nokia G20"
+  },
+  {
+   "device": "RNN_sprout",
+   "name": "Nokia G20",
+   "model": "Nokia G20"
+  },
+  {
    "device": "HND",
    "name": "Nokia Steaming Box 8000",
    "model": "Nokia Streaming Box 8000"
+  },
+  {
+   "device": "SCW",
+   "name": "Nokia X10",
+   "model": "Nokia X10"
+  },
+  {
+   "device": "SCW_sprout",
+   "name": "Nokia X10",
+   "model": "Nokia X10"
+  },
+  {
+   "device": "QKS",
+   "name": "Nokia X20",
+   "model": "Nokia X20"
+  },
+  {
+   "device": "QKS_sprout",
+   "name": "Nokia X20",
+   "model": "Nokia X20"
   },
   {
    "device": "PDA",
@@ -100521,6 +100586,11 @@
    "device": "R1",
    "name": "Android TV",
    "model": "ATV R1"
+  },
+  {
+   "device": "BDL0232PR",
+   "name": "BDL0232PR",
+   "model": "BDL0232PR"
   },
   {
    "device": "BDL1064PR001",
@@ -130413,6 +130483,13 @@
    "model": "VS700"
   }
  ],
+ "Swosh": [
+  {
+   "device": "samseong",
+   "name": "AndroidTV",
+   "model": "AI PONT"
+  }
+ ],
  "Syinix": [
   {
    "device": "ikebukuro",
@@ -131568,11 +131645,6 @@
    "device": "Tokyo_Lite",
    "name": "TCL L9S",
    "model": "5107J"
-  },
-  {
-   "device": "Da_Vinci",
-   "name": "TCL NXTPAPAER 8.88",
-   "model": "9288A"
   },
   {
    "device": "T1",
@@ -134855,11 +134927,6 @@
    "device": "Seoul",
    "name": "Alcatel 1B",
    "model": "5002H_RU"
-  },
-  {
-   "device": "Seoul",
-   "name": "Alcatel 1B",
-   "model": "5002H_TR"
   },
   {
    "device": "Seoul",
@@ -140731,6 +140798,11 @@
    "device": "TECNO-KF6k",
    "name": "TECNO SPARK 7",
    "model": "TECNO KF6k"
+  },
+  {
+   "device": "TECNO-KF6m",
+   "name": "TECNO SPARK 7",
+   "model": "TECNO KF6m"
   },
   {
    "device": "TECNO-KF6n",
@@ -149567,6 +149639,16 @@
    "device": "rice",
    "name": "Bee Lite",
    "model": "Bee Lite"
+  },
+  {
+   "device": "v340u",
+   "name": "Dillon",
+   "model": "V340U"
+  },
+  {
+   "device": "v341u",
+   "name": "Hobson",
+   "model": "V341U"
   },
   {
    "device": "PQ4001",
@@ -165617,6 +165699,13 @@
    "device": "HHT7A_TW1",
    "name": "HHT7A_TW1",
    "model": "HHT7A_TW1"
+  }
+ ],
+ "simpliTV": [
+  {
+   "device": "HY43X",
+   "name": "Strong-SRT4150",
+   "model": "Strong-SRT4150"
   }
  ],
  "sugar_aums": [

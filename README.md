@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-04-22
+Last sync is 2021-04-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4761,6 +4761,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DiMora Mobile|DiMora_LUX|DiMora_LUX|DiMora_LUX|
 |DiMora Mobile|InnoV8|InnoV8|InnoV8|
 |DiMora Mobile|InnoV8_PRO|InnoV8_PRO|InnoV8_PRO|
+|Dialog|4K Android Hybrid|DV8829_Dialog|4K Android Hybrid|
 |Dialog|N9106H_B|N9106H_B_Dialog|N9106H_B|
 |Dialog|SEI103DL|SEI103|SEI103DL|
 |Dialog|Sri Lanka|N9106H_B_Dialog|N9106H_B|
@@ -10926,6 +10927,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IkuMobile|T1|T1|iKU T1|
 |IkuMobile|T4|T4|T4|
 |IkuMobile|T6|T6|T6|
+|IkuMobile|X1|X1|X1|
 |IkuMobile|Y2|Y2|Y2|
 |IkuMobile|Y3|Y3|Y3|
 |IkuMobile|Y5|Y5|Y5|
@@ -17868,6 +17870,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia 1|FRT|Nokia 1|
 |Nokia|Nokia 1 Plus|ANT|Nokia 1 Plus|
 |Nokia|Nokia 1.3|DRX|Nokia 1.3|
+|Nokia|Nokia 1.4|CBL|Cable|
+|Nokia|Nokia 1.4|CBL|Nokia 1.4|
 |Nokia|Nokia 2|E1M|Nokia 2|
 |Nokia|Nokia 2 V|EVW|Nokia 2 V|
 |Nokia|Nokia 2 V Tella|ARV_VZW|Nokia 2 V Tella|
@@ -17944,7 +17948,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia C2 Tennen|ARV_CUS|Nokia C2 Tennen|
 |Nokia|Nokia C3|GMR|Nokia C3|
 |Nokia|Nokia C5 Endi|PMC_CUS|Nokia C5 Endi|
+|Nokia|Nokia G10|ROGA|Nokia G10|
+|Nokia|Nokia G10|ROGA_sprout|Nokia G10|
+|Nokia|Nokia G20|RNN|Nokia G20|
+|Nokia|Nokia G20|RNNA_sprout|Nokia G20|
+|Nokia|Nokia G20|RNN_sprout|Nokia G20|
 |Nokia|Nokia Steaming Box 8000|HND|Nokia Streaming Box 8000|
+|Nokia|Nokia X10|SCW|Nokia X10|
+|Nokia|Nokia X10|SCW_sprout|Nokia X10|
+|Nokia|Nokia X20|QKS|Nokia X20|
+|Nokia|Nokia X20|QKS_sprout|Nokia X20|
 |Nokia|Nokia X5|PDA|Nokia X5|
 |Nokia|Nokia X6|DRG|Nokia X6|
 |Nokia|Nokia X7|PNX|Nokia X7|
@@ -19561,6 +19574,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Polaroid|A7_PTAB735|A7_PTAB735|HS-7DTB39|
 |Polaroid|A9x/PTAB935x|A9xPTAB935x|A9x/PTAB935x|
 |Polaroid|Android TV|R1|ATV R1|
+|Polaroid|BDL0232PR|BDL0232PR|BDL0232PR|
 |Polaroid|BDL1064PR001|BDL1064PR001|BDL1064PR001|
 |Polaroid|BDL424|BDL424|BDL424|
 |Polaroid|BDL5048|BDL5048|BDL5048PR001|
@@ -25431,6 +25445,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Swisstone|swisstone SD 530|SD5304G|swisstone SD 530|
 |Swissvoice|G50|G50|G50|
 |Switel|VS700|VS700|VS700|
+|Swosh|AndroidTV|samseong|AI PONT|
 |Syinix|32A1S|ikebukuro|AI PONT|
 |Syinix|55A1S|samseong|AI PONT|
 |Symphony|ATOM|ATOM|ATOM|
@@ -25658,7 +25673,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL L9 Plus|Wright|5101J|
 |TCL|TCL L9S|Tokyo_Lite|5107G|
 |TCL|TCL L9S|Tokyo_Lite|5107J|
-|TCL|TCL NXTPAPAER 8.88|Da_Vinci|9288A|
 |TCL|TCL PLEX|T1|T780H|
 |TCL|TCL PLEX|T1_L1|T780H|
 |TCL|TCL T Pro|Jakarta|5130M|
@@ -26315,7 +26329,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002H|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002H_EEA|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002H_RU|
-|TCT (Alcatel)|Alcatel 1B|Seoul|5002H_TR|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002I|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002J|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002L|
@@ -27465,6 +27478,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 7|TECNO-KF6h|TECNO KF6h|
 |Tecno|TECNO SPARK 7|TECNO-KF6j|TECNO KF6j|
 |Tecno|TECNO SPARK 7|TECNO-KF6k|TECNO KF6k|
+|Tecno|TECNO SPARK 7|TECNO-KF6m|TECNO KF6m|
 |Tecno|TECNO SPARK 7|TECNO-KF6n|TECNO KF6n|
 |Tecno|TECNO SPARK 7 Pro|TECNO-KF8|TECNO KF8|
 |Tecno|TECNO SPARK Go|TECNO-KC1|TECNO KC1|
@@ -29157,6 +29171,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vsmart|Bee|V220B|Bee|
 |Vsmart|Bee 3|clover|Bee 3|
 |Vsmart|Bee Lite|rice|Bee Lite|
+|Vsmart|Dillon|v340u|V340U|
+|Vsmart|Hobson|v341u|V341U|
 |Vsmart|Joy 1|PQ4001|Joy 1|
 |Vsmart|Joy 1 +|PQ4002|Joy 1+|
 |Vsmart|Joy 1+|PQ4002|Joy 1+|
@@ -32285,6 +32301,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |sf-express|HHT7AX_TW1|HHT7AX_TW1|HHT7AX_TW1|
 |sf-express|HHT7A_HK1|HHT7A_HK1|HHT7A_HK1|
 |sf-express|HHT7A_TW1|HHT7A_TW1|HHT7A_TW1|
+|simpliTV|Strong-SRT4150|HY43X|Strong-SRT4150|
 |sugar_aums|QPOINT|QPI-1|QPI-1|
 |teXet|TM-4510|TM-4510|TM-4510|
 |teXet|TM-5071|TM_5071|TM-5071|

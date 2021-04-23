@@ -895,6 +895,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "Swosh",
+   "name": "AndroidTV",
+   "model": "AI PONT"
+  },
+  {
    "brand": "Syinix",
    "name": "55A1S",
    "model": "AI PONT"
@@ -36871,6 +36876,13 @@
    "model": "InnoV8_PRO"
   }
  ],
+ "DV8829_Dialog": [
+  {
+   "brand": "Dialog",
+   "name": "4K Android Hybrid",
+   "model": "4K Android Hybrid"
+  }
+ ],
  "N9106H_B_Dialog": [
   {
    "brand": "Dialog",
@@ -51922,6 +51934,11 @@
  "X1": [
   {
    "brand": "Go Mobile",
+   "name": "X1",
+   "model": "X1"
+  },
+  {
+   "brand": "IkuMobile",
    "name": "X1",
    "model": "X1"
   },
@@ -120109,6 +120126,18 @@
    "model": "Nokia 1.3"
   }
  ],
+ "CBL": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia 1.4",
+   "model": "Cable"
+  },
+  {
+   "brand": "Nokia",
+   "name": "Nokia 1.4",
+   "model": "Nokia 1.4"
+  }
+ ],
  "E1M": [
   {
    "brand": "Nokia",
@@ -120609,6 +120638,69 @@
    "brand": "Nokia",
    "name": "Nokia C5 Endi",
    "model": "Nokia C5 Endi"
+  }
+ ],
+ "ROGA": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia G10",
+   "model": "Nokia G10"
+  }
+ ],
+ "ROGA_sprout": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia G10",
+   "model": "Nokia G10"
+  }
+ ],
+ "RNN": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia G20",
+   "model": "Nokia G20"
+  }
+ ],
+ "RNNA_sprout": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia G20",
+   "model": "Nokia G20"
+  }
+ ],
+ "RNN_sprout": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia G20",
+   "model": "Nokia G20"
+  }
+ ],
+ "SCW": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia X10",
+   "model": "Nokia X10"
+  }
+ ],
+ "SCW_sprout": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia X10",
+   "model": "Nokia X10"
+  }
+ ],
+ "QKS": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia X20",
+   "model": "Nokia X20"
+  }
+ ],
+ "QKS_sprout": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia X20",
+   "model": "Nokia X20"
   }
  ],
  "DRG": [
@@ -131005,6 +131097,13 @@
    "brand": "Polaroid",
    "name": "A9x/PTAB935x",
    "model": "A9x/PTAB935x"
+  }
+ ],
+ "BDL0232PR": [
+  {
+   "brand": "Polaroid",
+   "name": "BDL0232PR",
+   "model": "BDL0232PR"
   }
  ],
  "BDL1064PR001": [
@@ -170171,11 +170270,6 @@
   {
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1B",
-   "model": "5002H_TR"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "Alcatel 1B",
    "model": "5002I"
   },
   {
@@ -170378,13 +170472,6 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1V",
    "model": "HEYOU40"
-  }
- ],
- "Da_Vinci": [
-  {
-   "brand": "TCL",
-   "name": "TCL NXTPAPAER 8.88",
-   "model": "9288A"
   }
  ],
  "T1_L1": [
@@ -179516,6 +179603,13 @@
    "brand": "Tecno",
    "name": "TECNO SPARK 7",
    "model": "TECNO KF6k"
+  }
+ ],
+ "TECNO-KF6m": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 7",
+   "model": "TECNO KF6m"
   }
  ],
  "TECNO-KF6n": [
@@ -189846,6 +189940,20 @@
    "brand": "Vsmart",
    "name": "Bee Lite",
    "model": "Bee Lite"
+  }
+ ],
+ "v340u": [
+  {
+   "brand": "Vsmart",
+   "name": "Dillon",
+   "model": "V340U"
+  }
+ ],
+ "v341u": [
+  {
+   "brand": "Vsmart",
+   "name": "Hobson",
+   "model": "V341U"
   }
  ],
  "PQ4001": [
@@ -207914,6 +208022,13 @@
    "brand": "sf-express",
    "name": "HHT7A_TW1",
    "model": "HHT7A_TW1"
+  }
+ ],
+ "HY43X": [
+  {
+   "brand": "simpliTV",
+   "name": "Strong-SRT4150",
+   "model": "Strong-SRT4150"
   }
  ],
  "QPI-1": [

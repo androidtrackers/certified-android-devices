@@ -41056,6 +41056,13 @@
    "model": "InnoV8_PRO"
   }
  ],
+ "4K Android Hybrid": [
+  {
+   "brand": "Dialog",
+   "device": "DV8829_Dialog",
+   "model": "4K Android Hybrid"
+  }
+ ],
  "N9106H_B": [
   {
    "brand": "Dialog",
@@ -56097,6 +56104,11 @@
   },
   {
    "brand": "Go Mobile",
+   "device": "X1",
+   "model": "X1"
+  },
+  {
+   "brand": "IkuMobile",
    "device": "X1",
    "model": "X1"
   },
@@ -120817,6 +120829,18 @@
    "model": "Nokia 1.3"
   }
  ],
+ "Nokia 1.4": [
+  {
+   "brand": "Nokia",
+   "device": "CBL",
+   "model": "Cable"
+  },
+  {
+   "brand": "Nokia",
+   "device": "CBL",
+   "model": "Nokia 1.4"
+  }
+ ],
  "Nokia 2": [
   {
    "brand": "Nokia",
@@ -121279,11 +121303,64 @@
    "model": "Nokia C5 Endi"
   }
  ],
+ "Nokia G10": [
+  {
+   "brand": "Nokia",
+   "device": "ROGA",
+   "model": "Nokia G10"
+  },
+  {
+   "brand": "Nokia",
+   "device": "ROGA_sprout",
+   "model": "Nokia G10"
+  }
+ ],
+ "Nokia G20": [
+  {
+   "brand": "Nokia",
+   "device": "RNN",
+   "model": "Nokia G20"
+  },
+  {
+   "brand": "Nokia",
+   "device": "RNNA_sprout",
+   "model": "Nokia G20"
+  },
+  {
+   "brand": "Nokia",
+   "device": "RNN_sprout",
+   "model": "Nokia G20"
+  }
+ ],
  "Nokia Steaming Box 8000": [
   {
    "brand": "Nokia",
    "device": "HND",
    "model": "Nokia Streaming Box 8000"
+  }
+ ],
+ "Nokia X10": [
+  {
+   "brand": "Nokia",
+   "device": "SCW",
+   "model": "Nokia X10"
+  },
+  {
+   "brand": "Nokia",
+   "device": "SCW_sprout",
+   "model": "Nokia X10"
+  }
+ ],
+ "Nokia X20": [
+  {
+   "brand": "Nokia",
+   "device": "QKS",
+   "model": "Nokia X20"
+  },
+  {
+   "brand": "Nokia",
+   "device": "QKS_sprout",
+   "model": "Nokia X20"
   }
  ],
  "Nokia X5": [
@@ -131261,6 +131338,13 @@
    "brand": "Polaroid",
    "device": "A9xPTAB935x",
    "model": "A9x/PTAB935x"
+  }
+ ],
+ "BDL0232PR": [
+  {
+   "brand": "Polaroid",
+   "device": "BDL0232PR",
+   "model": "BDL0232PR"
   }
  ],
  "BDL1064PR001": [
@@ -165730,6 +165814,13 @@
    "model": "VS700"
   }
  ],
+ "AndroidTV": [
+  {
+   "brand": "Swosh",
+   "device": "samseong",
+   "model": "AI PONT"
+  }
+ ],
  "32A1S": [
   {
    "brand": "Syinix",
@@ -167068,13 +167159,6 @@
    "brand": "TCL",
    "device": "Tokyo_Lite",
    "model": "5107J"
-  }
- ],
- "TCL NXTPAPAER 8.88": [
-  {
-   "brand": "TCL",
-   "device": "Da_Vinci",
-   "model": "9288A"
   }
  ],
  "TCL PLEX": [
@@ -170385,11 +170469,6 @@
    "brand": "TCT (Alcatel)",
    "device": "Seoul",
    "model": "5002H_RU"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "device": "Seoul",
-   "model": "5002H_TR"
   },
   {
    "brand": "TCT (Alcatel)",
@@ -177058,6 +177137,11 @@
    "brand": "Tecno",
    "device": "TECNO-KF6k",
    "model": "TECNO KF6k"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KF6m",
+   "model": "TECNO KF6m"
   },
   {
    "brand": "Tecno",
@@ -187607,6 +187691,20 @@
    "brand": "Vsmart",
    "device": "rice",
    "model": "Bee Lite"
+  }
+ ],
+ "Dillon": [
+  {
+   "brand": "Vsmart",
+   "device": "v340u",
+   "model": "V340U"
+  }
+ ],
+ "Hobson": [
+  {
+   "brand": "Vsmart",
+   "device": "v341u",
+   "model": "V341U"
   }
  ],
  "Joy 1": [
@@ -205335,6 +205433,13 @@
    "brand": "sf-express",
    "device": "HHT7A_TW1",
    "model": "HHT7A_TW1"
+  }
+ ],
+ "Strong-SRT4150": [
+  {
+   "brand": "simpliTV",
+   "device": "HY43X",
+   "model": "Strong-SRT4150"
   }
  ],
  "QPOINT": [
