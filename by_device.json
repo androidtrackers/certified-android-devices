@@ -136558,6 +136558,13 @@
    "model": "M387_QL"
   }
  ],
+ "K90": [
+  {
+   "brand": "RAINBOX",
+   "name": "K90",
+   "model": "K90"
+  }
+ ],
  "RM-705": [
   {
    "brand": "RAMTECHNOLOGY",
@@ -177186,6 +177193,13 @@
    "model": "IT10268"
   }
  ],
+ "TTfone_TT20": [
+  {
+   "brand": "TTfone",
+   "name": "TT20_eea",
+   "model": "TTfone TT20"
+  }
+ ],
  "Q718": [
   {
    "brand": "TUFEN",
@@ -181817,13 +181831,6 @@
    "brand": "Trifone",
    "name": "TRI_POWER",
    "model": "TRI_POWER"
-  }
- ],
- "TTfone_TT20": [
-  {
-   "brand": "Trifone",
-   "name": "TT20_eea",
-   "model": "TTfone TT20"
   }
  ],
  "Trifone_X7": [

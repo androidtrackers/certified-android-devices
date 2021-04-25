@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-04-24
+Last sync is 2021-04-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -20468,6 +20468,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Quatro|Quatro 10|Quatro_10|Quatro 10|
 |Quatro|Quatro_8|Quatro_8|Quatro 8|
 |Quickline|Quickline UHD Box|dciw387|M387_QL|
+|RAINBOX|K90|K90|K90|
 |RAMTECHNOLOGY|RM-705|RM-705|RM-705|
 |RAMTECHNOLOGY|Star|STAR|STAR|
 |RAVOZ|RAVOZ Z3|RAVOZ_Z3|RAVOZ Z3|
@@ -27098,6 +27099,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TREQ|SmarTab-8|SmarTab-8|SmarTab-8|
 |TSUNAMi|Tablet Tsunami TSTA080D1|MG080D1T|MG080D1T|
 |TTS-group|IT10268|IT10268|IT10268|
+|TTfone|TT20_eea|TTfone_TT20|TTfone TT20|
 |TUFEN|Q718|Q718|Q718|
 |TUFEN|Q718A_EEA|TUFEN_Q718A|Q718A|
 |TUFEN|Q718B_EEA|Q718B_EEA|Q718B|
@@ -27836,7 +27838,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Trifone|Passion_Pro|Passion_Pro|Passion_Pro|
 |Trifone|T-FASHION|T-FASHION|T-FASHION|
 |Trifone|TRI_POWER|TRIFONE_TRI_POWER|TRI_POWER|
-|Trifone|TT20_eea|TTfone_TT20|TTfone TT20|
 |Trifone|Trifone_X7|Trifone_X7|Trifone_X7|
 |Trifone|X701|X701|X701|
 |Trimble Navigation|MM50|EE773X_4G|MobileMapper50_4G|
