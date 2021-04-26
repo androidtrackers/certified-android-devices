@@ -3961,6 +3961,11 @@
    "device": "R2"
   },
   {
+   "brand": "SAMPO",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
    "brand": "SCHNEIDER",
    "name": "Android TV",
    "device": "R2"
@@ -17053,6 +17058,13 @@
    "device": "Bmobile_BL60_TG17"
   }
  ],
+ "BL61": [
+  {
+   "brand": "BMobile",
+   "name": "BL61",
+   "device": "Bmobile_BL61_MV05"
+  }
+ ],
  "Bella": [
   {
    "brand": "BMobile",
@@ -26321,6 +26333,13 @@
    "brand": "Cello",
    "name": "Cello",
    "device": "sadang"
+  }
+ ],
+ "cello 2K Android TV": [
+  {
+   "brand": "Cello",
+   "name": "Cello",
+   "device": "tabata"
   }
  ],
  "T1045PC": [
@@ -102925,6 +102944,13 @@
    "device": "TB7104I"
   }
  ],
+ "Lenovo TB-X6C6X": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab K10",
+   "device": "X6C6X"
+  }
+ ],
  "Lenovo TB-J606F": [
   {
    "brand": "Lenovo",
@@ -152273,6 +152299,13 @@
    "device": "m12"
   }
  ],
+ "SM-M127N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M12",
+   "device": "m12"
+  }
+ ],
  "SM-M205N": [
   {
    "brand": "Samsung",
@@ -152369,6 +152402,13 @@
    "brand": "Samsung",
    "name": "Galaxy M40",
    "device": "m40"
+  }
+ ],
+ "SM-M426B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M42 5G",
+   "device": "a42xq"
   }
  ],
  "SM-M515F": [

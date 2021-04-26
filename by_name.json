@@ -9121,6 +9121,11 @@
    "model": "ATV R2"
   },
   {
+   "brand": "SAMPO",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
    "brand": "SCHNEIDER",
    "device": "R1",
    "model": "ATV R1"
@@ -22319,6 +22324,13 @@
    "model": "BL60_TG17"
   }
  ],
+ "BL61": [
+  {
+   "brand": "BMobile",
+   "device": "Bmobile_BL61_MV05",
+   "model": "BL61"
+  }
+ ],
  "Bella": [
   {
    "brand": "BMobile",
@@ -32250,6 +32262,11 @@
    "brand": "Cello",
    "device": "sadang",
    "model": "cello UK 4K Android TV"
+  },
+  {
+   "brand": "Cello",
+   "device": "tabata",
+   "model": "cello 2K Android TV"
   }
  ],
  "T1045PC": [
@@ -101962,6 +101979,13 @@
    "model": "Lenovo TB-7104I"
   }
  ],
+ "Lenovo Tab K10": [
+  {
+   "brand": "Lenovo",
+   "device": "X6C6X",
+   "model": "Lenovo TB-X6C6X"
+  }
+ ],
  "Lenovo Tab K11": [
   {
    "brand": "Lenovo",
@@ -147380,6 +147404,11 @@
    "brand": "Samsung",
    "device": "m12",
    "model": "SM-M127G"
+  },
+  {
+   "brand": "Samsung",
+   "device": "m12",
+   "model": "SM-M127N"
   }
  ],
  "Galaxy M20": [
@@ -147464,6 +147493,13 @@
    "brand": "Samsung",
    "device": "m40",
    "model": "SM-M405F"
+  }
+ ],
+ "Galaxy M42 5G": [
+  {
+   "brand": "Samsung",
+   "device": "a42xq",
+   "model": "SM-M426B"
   }
  ],
  "Galaxy M51": [

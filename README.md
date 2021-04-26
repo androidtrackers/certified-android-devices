@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-04-25
+Last sync is 2021-04-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2235,6 +2235,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|BL60|Bmobile_BL60|BL60|
 |BMobile|BL60_TG05|Bmobile_BL60_TG05|BL60_TG05|
 |BMobile|BL60_TG17|Bmobile_BL60_TG17|BL60_TG17|
+|BMobile|BL61|Bmobile_BL61_MV05|BL61|
 |BMobile|Bella|Bella|Bella|
 |BMobile|Bmbile AX687|Bmobile_AX687|AX687|
 |BMobile|Bmobile AX1076|Bmobile_AX1076|AX1076|
@@ -3497,6 +3498,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cellecor|S3|S3|S3|
 |Cello|C2420G|ueno|2K Android TV|
 |Cello|Cello|sadang|cello UK 4K Android TV|
+|Cello|Cello|tabata|cello 2K Android TV|
 |Cello|T1045PC|T1045PC|T1045PC|
 |Cello|T1045PN|T1045PN|T1045PN|
 |Cellon|A27|C8680|A27|
@@ -14773,6 +14775,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab E10|X104X|Lenovo TB-X104X|
 |Lenovo|Lenovo Tab E7|TB7104F|Lenovo TB-7104F|
 |Lenovo|Lenovo Tab E7|TB7104I|Lenovo TB-7104I|
+|Lenovo|Lenovo Tab K10|X6C6X|Lenovo TB-X6C6X|
 |Lenovo|Lenovo Tab K11|J606F|Lenovo TB-J606F|
 |Lenovo|Lenovo Tab K11|J606N|Lenovo TB-J606N|
 |Lenovo|Lenovo Tab M10 (FHD)|X605F|Lenovo TB-X605F|
@@ -20978,6 +20981,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SAIET|STS570|STS570|STS570|
 |SAKAISIO|FP-U320-711-WIFI|U320-WF|FP-U320-711-WIFI|
 |SAKAISIO|FP-U320-711-WWAN|U320-3G|FP-U320-711-WWAN|
+|SAMPO|Android TV|R2|ATV R2|
 |SARL WISE TECHNOLOGIE|P1_Plus|P1_Plus|P1+|
 |SARL WISE TECHNOLOGIE|Wise_Tab|Wise_Tab|Wise_Tab|
 |SARL WISE TECHNOLOGIE|Wise_Tech_Wifi|Wise_Tech_Wifi|Wise Tech Wifi|
@@ -22259,6 +22263,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M11|m11q|SM-M115M|
 |Samsung|Galaxy M12|m12|SM-M127F|
 |Samsung|Galaxy M12|m12|SM-M127G|
+|Samsung|Galaxy M12|m12|SM-M127N|
 |Samsung|Galaxy M20|m20|SM-M205N|
 |Samsung|Galaxy M20|m20lte|SM-M205F|
 |Samsung|Galaxy M20|m20lte|SM-M205FN|
@@ -22273,6 +22278,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M31|m31|SM-M315F|
 |Samsung|Galaxy M31s|m31s|SM-M317F|
 |Samsung|Galaxy M40|m40|SM-M405F|
+|Samsung|Galaxy M42 5G|a42xq|SM-M426B|
 |Samsung|Galaxy M51|m51|SM-M515F|
 |Samsung|Galaxy M62|m62|SM-M625F|
 |Samsung|Galaxy Mega 2|mega23g|SM-G750H|

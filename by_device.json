@@ -4763,6 +4763,11 @@
    "model": "ATV R2"
   },
   {
+   "brand": "SAMPO",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
    "brand": "SCHNEIDER",
    "name": "Android TV",
    "model": "ATV R2"
@@ -18618,6 +18623,13 @@
    "model": "BL60_TG17"
   }
  ],
+ "Bmobile_BL61_MV05": [
+  {
+   "brand": "BMobile",
+   "name": "BL61",
+   "model": "BL61"
+  }
+ ],
  "Bella": [
   {
    "brand": "BMobile",
@@ -27459,6 +27471,23 @@
    "brand": "Logik",
    "name": "LOGIK",
    "model": "LOGIK 4K Android TV"
+  }
+ ],
+ "tabata": [
+  {
+   "brand": "Cello",
+   "name": "Cello",
+   "model": "cello 2K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "UK",
+   "model": "UK 2K Android TV"
+  },
+  {
+   "brand": "Logik",
+   "name": "LOGIK",
+   "model": "LOGIK 2K Android TV"
   }
  ],
  "T1045PC": [
@@ -81226,18 +81255,6 @@
    "model": "Venus Z20"
   }
  ],
- "tabata": [
-  {
-   "brand": "JVC",
-   "name": "UK",
-   "model": "UK 2K Android TV"
-  },
-  {
-   "brand": "Logik",
-   "name": "LOGIK",
-   "model": "LOGIK 2K Android TV"
-  }
- ],
  "JVL070TAB812BLK": [
   {
    "brand": "JVL (Australia)",
@@ -100055,6 +100072,13 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab E7",
    "model": "Lenovo TB-7104I"
+  }
+ ],
+ "X6C6X": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab K10",
+   "model": "Lenovo TB-X6C6X"
   }
  ],
  "J606F": [
@@ -142776,6 +142800,11 @@
    "brand": "Samsung",
    "name": "Galaxy A42 5G",
    "model": "SM-A426N"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M42 5G",
+   "model": "SM-M426B"
   }
  ],
  "a42xuq": [
@@ -147720,6 +147749,11 @@
    "brand": "Samsung",
    "name": "Galaxy M12",
    "model": "SM-M127G"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M12",
+   "model": "SM-M127N"
   }
  ],
  "m20": [
