@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-04-26
+Last sync is 2021-04-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -49,6 +49,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ACE France|URBAN 2|URBAN_2|URBAN 2|
 |ACKEES|V10401|V10401|V10401|
 |ACT|ACT4K1007|IPBox|ACT4K1007|
+|ACT|ACT4K2020|HP40A|ACT4K2020|
 |ADOC|D30|D30|D30|
 |AEEZO|TK701|TK701|TK701|
 |AEEZO|TK701_EEA|TK701_EEA|TK701_EEA|
@@ -4626,6 +4627,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Danew|Dslide113_V3|Dslide113_V3|Dslide113_V3|
 |Danew|Dslide714|Dslide714|Dslide714|
 |Danew|Dslide716|Dslide716|Dslide716|
+|Danew|Dslide807|Dslide807|Dslide807|
 |Danew|Dslide971DC|Dslide971DC|Dslide971DC|
 |Danew|Dslide_1020|Dslide_1020|Dslide_1020|
 |Danew|Dslide_113|Dslide_113|Dslide_113|
@@ -14775,6 +14777,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab E10|X104X|Lenovo TB-X104X|
 |Lenovo|Lenovo Tab E7|TB7104F|Lenovo TB-7104F|
 |Lenovo|Lenovo Tab E7|TB7104I|Lenovo TB-7104I|
+|Lenovo|Lenovo Tab K10|X6C6F|Lenovo TB-X6C6F|
 |Lenovo|Lenovo Tab K10|X6C6X|Lenovo TB-X6C6X|
 |Lenovo|Lenovo Tab K11|J606F|Lenovo TB-J606F|
 |Lenovo|Lenovo Tab K11|J606N|Lenovo TB-J606N|
@@ -17007,6 +17010,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g stylus (2021)|minsk|moto g stylus (2021)|
 |Motorola|moto g stylus (2021)|minsk|moto g stylus (XT2115DL)|
 |Motorola|moto g(10)|capri|moto g(10)|
+|Motorola|moto g(100)|nio|moto g(100)|
 |Motorola|moto g(30)|caprip|moto g(30)|
 |Motorola|moto g(6)|ali|XT1925-10|
 |Motorola|moto g(6)|ali|moto g(6)|
@@ -18360,6 +18364,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A53m|A53|OPPO A53m|
 |Oppo|A53s|OP4EFDL1|CPH2135|
 |Oppo|A53w|A53|A53w|
+|Oppo|A55 5G|OP4E2F|PEMM00|
+|Oppo|A55 5G|OP4E2F|PEMT00|
 |Oppo|A57|A57|OPPO A57|
 |Oppo|A57|A57|OPPO A57t|
 |Oppo|A57t|A57|OPPO A57t|
@@ -18491,6 +18497,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|N3|N3|N5209|
 |Oppo|N5110|N5110|N5110|
 |Oppo|N5117|N5117|N5117|
+|Oppo|OPPO A35|OP4E7B|PEFM00|
+|Oppo|OPPO Reno5 k 5G|OP4E59|PEGM10|
+|Oppo|OPPO Reno5 k 5G|OP4E59|PEGT10|
 |Oppo|OPPO Watch|beluga|OPPO Watch|
 |Oppo|OPPO Watch|orca|OPPO Watch|
 |Oppo|R1001|OPPO72_13076|R1001|
@@ -21870,6 +21879,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy F02s|a02q|SM-E025F|
 |Samsung|Galaxy F12|f12|SM-F127G|
 |Samsung|Galaxy F41|f41|SM-F415F|
+|Samsung|Galaxy F52 5G|f52x|SM-E5260|
 |Samsung|Galaxy F62|f62|SM-E625F|
 |Samsung|Galaxy Fame|SCH-I629|SCH-I629|
 |Samsung|Galaxy Fame|nevis|GT-S6810|
@@ -22834,6 +22844,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S20+ 5G|y2q|SM-G986W|
 |Samsung|Galaxy S20+ 5G|y2s|SM-G986B|
 |Samsung|Galaxy S21 5G|SC-51B|SC-51B|
+|Samsung|Galaxy S21 5G|SCG09|SCG09|
 |Samsung|Galaxy S21 5G|o1q|SM-G9910|
 |Samsung|Galaxy S21 5G|o1q|SM-G991U1|
 |Samsung|Galaxy S21 5G|o1q|SM-G991W|
@@ -22846,6 +22857,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S21 Ultra 5G|p3q|SM-G998W|
 |Samsung|Galaxy S21 Ultra 5G|p3s|SM-G998B|
 |Samsung|Galaxy S21 Ultra 5G|p3s|SM-G998N|
+|Samsung|Galaxy S21+ 5G|SCG10|SCG10|
 |Samsung|Galaxy S21+ 5G|t2q|SM-G9960|
 |Samsung|Galaxy S21+ 5G|t2q|SM-G996U1|
 |Samsung|Galaxy S21+ 5G|t2q|SM-G996W|
@@ -25317,7 +25329,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Strong|LEAP-S1|LAS|LEAP-S1|
 |Strong|Strong|bangbae|Strong 4K Android TV|
 |Strong|Strong|komagome|Strong 2K Android TV|
-|Strong|Strong-ZWL|HP40A1|SKWHP40A-ZWL|
+|Strong-ZWL|SKWHP40A-ZWL|HP40A1|SKWHP40A-ZWL|
 |Sts-tottori|JR-500|JR-500|JR-500|
 |Sts-tottori|JR-P2000|JR-P2000|JR-P2000|
 |Sts-tottori|TAB-A03|TAB-A03|TAB-A03-SD|
@@ -28093,6 +28105,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|A9 Pro R EEA|A9_Pro_R|A9 Pro|
 |Umidigi|A9 Pro_EEA|A9_Pro|A9 Pro|
 |Umidigi|BISON|BISON|BISON|
+|Umidigi|BISON GT EEA|BISON_GT|BISON GT|
 |Umidigi|BISON R|BISON_R|BISON|
 |Umidigi|BISON R EEA|BISON_R|BISON|
 |Umidigi|BISON_GT|BISON_GT|BISON GT|
@@ -28140,6 +28153,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unihertz|Jelly2|Jelly2|Jelly2|
 |Unihertz|Jelly2_JP|Jelly2_JP|Jelly2_JP|
 |Unihertz|Titan|Titan|Titan|
+|Unihertz|Titan pocket|Titan_pocket|Titan pocket|
 |Unionaire|Africa|nippori|Unionaire Android TV 2K|
 |Uniscope|s6w|s6w|s6w|
 |Unistrong|UT10|UT10|UT10|
@@ -29796,6 +29810,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |XGIMI|MoGo|xgimiapollo|MoGo|
 |XGIMI|MoGo Pro|xgimiapollo|MoGo Pro|
 |XGIMI|P_FHD_2020|xgimiapollo|P_FHD_2020|
+|XGIMI|XK03H|xgimigalileo|XK03H|
 |XION|XI_CEU55|XI_CEU55|XI_CEU55|
 |XL Axiata|AX512|DV8252|AX512|
 |XL Axiata|XL Home Pow|STI6xxx|STI6030|
@@ -30979,6 +30994,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|NX629J|NX629J-EEA|NX629J|
 |ZTE|NX659J|NX659J-RU|NX659J|
 |ZTE|NX669J|NX669J|NX669J|
+|ZTE|NX669J|NX669J-EEA|NX669J|
+|ZTE|NX669J|NX669J-UN|NX669J|
 |ZTE|NX907J|NX907J|NX907J|
 |ZTE|Nubia 8011|P963F05|Nubia 8011|
 |ZTE|Nubia N11|P731F50|Nubia N11|
@@ -31467,10 +31484,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE 2050|P671F50_D|ZTE 2050|
 |ZTE|ZTE 2050|P671S50|ZTE 2050|
 |ZTE|ZTE 2050RU|P671F50_D|ZTE 2050RU|
+|ZTE|ZTE 7530N|P633S07|ZTE 7530N|
 |ZTE|ZTE 8010|P963F05|ZTE 8010|
 |ZTE|ZTE 8010|P963S05|ZTE 8010|
 |ZTE|ZTE 8010RU|P963F05|ZTE 8010RU|
 |ZTE|ZTE 8012N|P653S06|ZTE 8012N|
+|ZTE|ZTE 8030|P963F06|ZTE 8030|
 |ZTE|ZTE 8030N|P633S01|ZTE 8030N|
 |ZTE|ZTE 9030N|P653S07|ZTE 9030N|
 |ZTE|ZTE A0616|P637S15|ZTE A0616|
