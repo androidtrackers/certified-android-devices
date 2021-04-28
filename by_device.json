@@ -365,6 +365,11 @@
    "model": "JAWWY-TV-2.0"
   },
   {
+   "brand": "Skyworth",
+   "name": "NT-01",
+   "model": "NT-01"
+  },
+  {
    "brand": "Viettel",
    "name": "ViettelTV 4K Box",
    "model": "ViettelTV 4K Box"
@@ -1595,6 +1600,18 @@
    "model": "Q8108L-ME"
   }
  ],
+ "A21S": [
+  {
+   "brand": "AOYODKG",
+   "name": "A21S",
+   "model": "A21S"
+  },
+  {
+   "brand": "AOYODKG",
+   "name": "A21S_US",
+   "model": "A21S"
+  }
+ ],
  "tiger_cheets": [
   {
    "brand": "AOpen",
@@ -2050,6 +2067,11 @@
    "brand": "DigiLand",
    "name": "ONN",
    "model": "100005206"
+  },
+  {
+   "brand": "ViewSonic",
+   "name": "ViewPad_M7_2_32",
+   "model": "ViewPad M7-2/32"
   }
  ],
  "AURII_ULTRA": [
@@ -6652,6 +6674,13 @@
    "brand": "Alco",
    "name": "RCT6613W23PG",
    "model": "RCT6613W23PG"
+  }
+ ],
+ "VCT9B06Q23EU": [
+  {
+   "brand": "Alco",
+   "name": "VCT9B06Q23EU_eea",
+   "model": "VCT9B06Q23EU"
   }
  ],
  "VCT9T48Q34": [
@@ -18631,6 +18660,13 @@
    "model": "BL60"
   }
  ],
+ "Bmobile_BL60M_MV05": [
+  {
+   "brand": "BMobile",
+   "name": "BL60M_MV05",
+   "model": "BL60M_MV05"
+  }
+ ],
  "Bmobile_BL60_TG05": [
   {
    "brand": "BMobile",
@@ -23758,6 +23794,13 @@
    "model": "M6 2021"
   }
  ],
+ "M0090WW": [
+  {
+   "brand": "Blu",
+   "name": "M6 2021",
+   "model": "M6 2021"
+  }
+ ],
  "M110EQ": [
   {
    "brand": "Blu",
@@ -25961,6 +26004,13 @@
    "brand": "CLIO",
    "name": "Neo_4_Plus",
    "model": "Neo 4 Plus"
+  }
+ ],
+ "Zion_5": [
+  {
+   "brand": "CLIO",
+   "name": "Zion_5",
+   "model": "Zion_5"
   }
  ],
  "m811": [
@@ -29110,6 +29160,13 @@
    "brand": "Chuwi",
    "name": "Hi9Pro",
    "model": "Hi9Pro"
+  }
+ ],
+ "HiPadPlus": [
+  {
+   "brand": "Chuwi",
+   "name": "HiPadPlus_EEA",
+   "model": "HiPad Plus"
   }
  ],
  "HipadX": [
@@ -36917,6 +36974,13 @@
    "model": "InnoV8_PRO"
   }
  ],
+ "DIOVDP_SC01_EEA": [
+  {
+   "brand": "DiO (fr)",
+   "name": "DIOVDP_SC01_EEA",
+   "model": "DIOVDP_SC01_EEA"
+  }
+ ],
  "DV8829_Dialog": [
   {
    "brand": "Dialog",
@@ -40275,6 +40339,13 @@
    "brand": "Dragontouch",
    "name": "S10M_EEA",
    "model": "S10M_EEA"
+  }
+ ],
+ "S11M": [
+  {
+   "brand": "Dragontouch",
+   "name": "S11M",
+   "model": "S11M"
   }
  ],
  "T10M": [
@@ -59649,6 +59720,11 @@
    "model": "A21"
   },
   {
+   "brand": "IkuMobile",
+   "name": "A21",
+   "model": "A21"
+  },
+  {
    "brand": "Mito",
    "name": "MITO A21",
    "model": "MITO A21"
@@ -74905,6 +74981,13 @@
    "brand": "I-Scream",
    "name": "E1012T",
    "model": "ET1012T"
+  }
+ ],
+ "HL106": [
+  {
+   "brand": "I-Scream",
+   "name": "i-Screamedu",
+   "model": "HL106"
   }
  ],
  "TR10CD1_7": [
@@ -100367,6 +100450,13 @@
    "model": "Lenovo TB-8506FS"
   }
  ],
+ "TB-8506X": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M8 (3rd Gen)",
+   "model": "Lenovo TB-8506X"
+  }
+ ],
  "X705F": [
   {
    "brand": "Lenovo",
@@ -116216,6 +116306,13 @@
    "model": "Multilaser_F_Pro"
   }
  ],
+ "Multilaser_F_Pro_2": [
+  {
+   "brand": "Multilaser",
+   "name": "Multilaser F Pro 2",
+   "model": "Multilaser_F_Pro_2"
+  }
+ ],
  "Multilaser_G": [
   {
    "brand": "Multilaser",
@@ -121127,6 +121224,13 @@
    "model": "N11"
   }
  ],
+ "TN618": [
+  {
+   "brand": "Novinsun",
+   "name": "TN618",
+   "model": "TN618"
+  }
+ ],
  "hk101": [
   {
    "brand": "Now E",
@@ -122464,6 +122568,11 @@
    "brand": "Onn (Walmart)",
    "name": "100003562",
    "model": "100003562"
+  },
+  {
+   "brand": "Onn (Walmart)",
+   "name": "100026203",
+   "model": "100026203"
   }
  ],
  "100005207": [
@@ -122527,6 +122636,13 @@
    "brand": "Onn (Walmart)",
    "name": "100015685-E",
    "model": "100015685-E"
+  }
+ ],
+ "mid7018_mr_32": [
+  {
+   "brand": "Onn (Walmart)",
+   "name": "100026191",
+   "model": "100026191"
   }
  ],
  "ONA19TB002": [
@@ -123207,6 +123323,18 @@
    "model": "PEMT00"
   }
  ],
+ "OP4E8C": [
+  {
+   "brand": "Oppo",
+   "name": "A55 5G",
+   "model": "PEMM20"
+  },
+  {
+   "brand": "Oppo",
+   "name": "A55 5G",
+   "model": "PEMT20"
+  }
+ ],
  "A59": [
   {
    "brand": "Oppo",
@@ -123398,6 +123526,18 @@
    "brand": "Oppo",
    "name": "Reno4 Lite",
    "model": "CPH2125"
+  }
+ ],
+ "OP4E99": [
+  {
+   "brand": "Oppo",
+   "name": "A93 5G",
+   "model": "PEHM00"
+  },
+  {
+   "brand": "Oppo",
+   "name": "PEHM00",
+   "model": "PEHT00"
   }
  ],
  "OP4F43L1": [
@@ -123888,6 +124028,18 @@
    "model": "PEDM00"
   }
  ],
+ "OP4F0BL1": [
+  {
+   "brand": "Oppo",
+   "name": "Find x3 neo",
+   "model": "CPH2207"
+  },
+  {
+   "brand": "Oppo",
+   "name": "Reno5 pro 5G",
+   "model": "CPH2207"
+  }
+ ],
  "PBCM30": [
   {
    "brand": "Oppo",
@@ -123966,6 +124118,32 @@
    "brand": "Oppo",
    "name": "OPPO A35",
    "model": "PEFM00"
+  },
+  {
+   "brand": "Oppo",
+   "name": "OPPO A54",
+   "model": "PEZM00"
+  }
+ ],
+ "OP4E9F": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO K9 5G",
+   "model": "PEXM00"
+  }
+ ],
+ "OP4EA7": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno5 Pro+ 5G",
+   "model": "PDRM00"
+  }
+ ],
+ "OP4EB7": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno5 Z",
+   "model": "PELM00"
   }
  ],
  "OP4E59": [
@@ -125923,6 +126101,13 @@
    "brand": "Orange TV",
    "name": "Descodificador Orange TV",
    "model": "KSTB6130"
+  }
+ ],
+ "R678EL": [
+  {
+   "brand": "Orbic",
+   "name": "Magic",
+   "model": "R678EL"
   }
  ],
  "R370H": [
@@ -137231,6 +137416,13 @@
    "brand": "RCA",
    "name": "RCT6691W3",
    "model": "RCT6691W3"
+  }
+ ],
+ "RCT6716Q23": [
+  {
+   "brand": "RCA",
+   "name": "RCT6716Q23",
+   "model": "RCT6716Q23"
   }
  ],
  "RCT6716Q24": [
@@ -161480,6 +161672,13 @@
    "model": "Elite_B55"
   }
  ],
+ "ELIBI_55": [
+  {
+   "brand": "Sky Devices",
+   "name": "ELIBI_55",
+   "model": "Elite H55"
+  }
+ ],
  "Elite_4_0S_GT_Tigo": [
   {
    "brand": "Sky Devices",
@@ -161973,6 +162172,11 @@
   {
    "brand": "Sky Devices",
    "name": "Platinum P4",
+   "model": "Platinum_P4"
+  },
+  {
+   "brand": "Sky Devices",
+   "name": "Platinum_P4",
    "model": "Platinum_P4"
   }
  ],
@@ -178108,6 +178312,11 @@
  "M40SE": [
   {
    "brand": "Teclast",
+   "name": "M40SE_EEA",
+   "model": "M40SE_EEA"
+  },
+  {
+   "brand": "Teclast",
    "name": "M40SE_ROW",
    "model": "M40SE_ROW"
   }
@@ -179748,6 +179957,13 @@
    "brand": "Tecno",
    "name": "TECNO SPARK 7 Pro",
    "model": "TECNO KF8"
+  }
+ ],
+ "TECNO-KF7j": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 7P",
+   "model": "TECNO KF7j"
   }
  ],
  "TECNO-KC1": [
@@ -184645,11 +184861,32 @@
    "model": "VCT9716Q24"
   }
  ],
+ "VCT9B06Q22N": [
+  {
+   "brand": "Venturer",
+   "name": "VCT9B06Q22N",
+   "model": "VCT9B06Q22N"
+  }
+ ],
  "VCT9B06Q22": [
   {
    "brand": "Venturer",
    "name": "VCT9B06Q22_eea",
    "model": "VCT9B06Q22"
+  }
+ ],
+ "VCT9B06Q23": [
+  {
+   "brand": "Venturer",
+   "name": "VCT9B06Q23",
+   "model": "VCT9B06Q23"
+  }
+ ],
+ "VCT9F08Q22D": [
+  {
+   "brand": "Venturer",
+   "name": "VCT9F08Q22D",
+   "model": "VCT9F08Q22D"
   }
  ],
  "VCT9F78Q22": [
@@ -193563,6 +193800,13 @@
    "brand": "X-TIGI",
    "name": "SHARP1",
    "model": "SHARP1"
+  }
+ ],
+ "SHARP2_Pro": [
+  {
+   "brand": "X-TIGI",
+   "name": "SHARP2_Pro",
+   "model": "SHARP2_Pro"
   }
  ],
  "SHARP_2": [
@@ -203506,6 +203750,11 @@
    "brand": "ZTE",
    "name": "ZTE 8030",
    "model": "ZTE 8030"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE 8030",
+   "model": "ZTE 8031"
   }
  ],
  "P633S01": [
@@ -206989,6 +207238,13 @@
    "brand": "iGet",
    "name": "SMART_L104_eea",
    "model": "SMART_L104_eea"
+  }
+ ],
+ "SMART_L20X": [
+  {
+   "brand": "iGet",
+   "name": "SMART_L20X",
+   "model": "SMART_L20X"
   }
  ],
  "SMART_W101": [
