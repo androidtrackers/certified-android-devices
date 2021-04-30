@@ -76789,6 +76789,13 @@
    "model": "Infinix X695"
   }
  ],
+ "Infinix-X695C": [
+  {
+   "brand": "Infinix",
+   "name": "NOTE 10 Pro",
+   "model": "Infinix X695C"
+  }
+ ],
  "X601": [
   {
    "brand": "Infinix",
@@ -115029,6 +115036,18 @@
    "model": "moto g(9) power"
   }
  ],
+ "hanoip": [
+  {
+   "brand": "Motorola",
+   "name": "moto g40 fusion",
+   "model": "moto g(40) fusion"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g60",
+   "model": "moto g(60)"
+  }
+ ],
  "robusta": [
   {
    "brand": "Motorola",
@@ -119437,6 +119456,11 @@
   }
  ],
  "D2140-Cosmos": [
+  {
+   "brand": "Nebula",
+   "name": "D2130",
+   "model": "D2130"
+  },
   {
    "brand": "Nebula",
    "name": "D2140",
@@ -179819,6 +179843,20 @@
    "brand": "Tecno",
    "name": "TECNO POP X5",
    "model": "TECNO L6502S"
+  }
+ ],
+ "TECNO-LE7": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO POVA 2",
+   "model": "TECNO LE7"
+  }
+ ],
+ "TECNO-LE7n": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO POVA 2",
+   "model": "TECNO LE7n"
   }
  ],
  "TECNO-RC6": [

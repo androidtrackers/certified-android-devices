@@ -56925,6 +56925,11 @@
    "model": "Infinix X695"
   },
   {
+   "device": "Infinix-X695C",
+   "name": "NOTE 10 Pro",
+   "model": "Infinix X695C"
+  },
+  {
    "device": "X601",
    "name": "NOTE 3",
    "model": "Infinix NOTE 3"
@@ -87621,6 +87626,11 @@
    "model": "moto g(10) power"
   },
   {
+   "device": "hanoip",
+   "name": "moto g40 fusion",
+   "model": "moto g(40) fusion"
+  },
+  {
    "device": "jeter",
    "name": "moto g6 play",
    "model": "Moto G Play"
@@ -87629,6 +87639,11 @@
    "device": "jeter",
    "name": "moto g6 play",
    "model": "moto g(6) play"
+  },
+  {
+   "device": "hanoip",
+   "name": "moto g60",
+   "model": "moto g(60)"
   },
   {
    "device": "robusta",
@@ -91138,6 +91153,11 @@
   }
  ],
  "Nebula": [
+  {
+   "device": "D2140-Cosmos",
+   "name": "D2130",
+   "model": "D2130"
+  },
   {
    "device": "D2140-Cosmos",
    "name": "D2140",
@@ -140980,6 +141000,16 @@
    "device": "TECNO-L6502S",
    "name": "TECNO POP X5",
    "model": "TECNO L6502S"
+  },
+  {
+   "device": "TECNO-LE7",
+   "name": "TECNO POVA 2",
+   "model": "TECNO LE7"
+  },
+  {
+   "device": "TECNO-LE7n",
+   "name": "TECNO POVA 2",
+   "model": "TECNO LE7n"
   },
   {
    "device": "TECNO-R6",

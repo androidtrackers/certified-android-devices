@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-04-29
+Last sync is 2021-04-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11061,6 +11061,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix ZERO 8i|Infinix-X687B|Infinix X687B|
 |Infinix|Infinix ZERO8|Infinix-X687|Infinix X687|
 |Infinix|NOTE 10 Pro|Infinix-X695|Infinix X695|
+|Infinix|NOTE 10 Pro|Infinix-X695C|Infinix X695C|
 |Infinix|NOTE 3|X601|Infinix NOTE 3|
 |Infinix|NOTE 3 Pro|X601-3G|Infinix NOTE 3 Pro|
 |Infinix|NOTE 3 Pro|X601-LTE|Infinix NOTE 3 Pro|
@@ -17067,8 +17068,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g(9) plus|odessa|moto g(9) plus|
 |Motorola|moto g(9) power|cebu|moto g(9) power|
 |Motorola|moto g10 power|capri|moto g(10) power|
+|Motorola|moto g40 fusion|hanoip|moto g(40) fusion|
 |Motorola|moto g6 play|jeter|Moto G Play|
 |Motorola|moto g6 play|jeter|moto g(6) play|
+|Motorola|moto g60|hanoip|moto g(60)|
 |Motorola|moto p30|robusta|XT1943-1|
 |Motorola|moto p30 play|deen|XT1941-2|
 |Motorola|moto z3 play|beckham|Moto Z3 Play|
@@ -17747,6 +17750,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Naxa|Naxa|NID_7055|NID-7055|
 |Ncredible|NV8|NV8|NV8|
 |Ncredible|NV8-HD|NV8-HD|NV8|
+|Nebula|D2130|D2140-Cosmos|D2130|
 |Nebula|D2140|D2140-Cosmos|D2140|
 |Nebula|D2150|D2140-Cosmos|D2150|
 |Nebula|D2241|DM8260|D2241|
@@ -27512,6 +27516,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO POP 4 Air|TECNO-BC1|TECNO BC1|
 |Tecno|TECNO POP 5|TECNO-BD2|TECNO BD2|
 |Tecno|TECNO POP X5|TECNO-L6502S|TECNO L6502S|
+|Tecno|TECNO POVA 2|TECNO-LE7|TECNO LE7|
+|Tecno|TECNO POVA 2|TECNO-LE7n|TECNO LE7n|
 |Tecno|TECNO R6S|TECNO-R6|TECNO R6S|
 |Tecno|TECNO R7+|TECNO-RC6|TECNO RC6|
 |Tecno|TECNO RB7S|TECNO-RB7S|TECNO RB7S|

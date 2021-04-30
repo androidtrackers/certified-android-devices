@@ -78148,6 +78148,13 @@
    "device": "Infinix-X695"
   }
  ],
+ "Infinix X695C": [
+  {
+   "brand": "Infinix",
+   "name": "NOTE 10 Pro",
+   "device": "Infinix-X695C"
+  }
+ ],
  "Infinix NOTE 3": [
   {
    "brand": "Infinix",
@@ -118010,6 +118017,20 @@
    "device": "capri"
   }
  ],
+ "moto g(40) fusion": [
+  {
+   "brand": "Motorola",
+   "name": "moto g40 fusion",
+   "device": "hanoip"
+  }
+ ],
+ "moto g(60)": [
+  {
+   "brand": "Motorola",
+   "name": "moto g60",
+   "device": "hanoip"
+  }
+ ],
  "XT1943-1": [
   {
    "brand": "Motorola",
@@ -122413,6 +122434,13 @@
    "brand": "Ncredible",
    "name": "NV8-HD",
    "device": "NV8-HD"
+  }
+ ],
+ "D2130": [
+  {
+   "brand": "Nebula",
+   "name": "D2130",
+   "device": "D2140-Cosmos"
   }
  ],
  "D2140": [
@@ -187401,6 +187429,20 @@
    "brand": "Tecno",
    "name": "TECNO POP X5",
    "device": "TECNO-L6502S"
+  }
+ ],
+ "TECNO LE7": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO POVA 2",
+   "device": "TECNO-LE7"
+  }
+ ],
+ "TECNO LE7n": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO POVA 2",
+   "device": "TECNO-LE7n"
   }
  ],
  "TECNO R6S": [
