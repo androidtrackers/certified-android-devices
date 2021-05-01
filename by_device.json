@@ -7107,6 +7107,11 @@
    "model": "ALLVIEW 4K TV"
   },
   {
+   "brand": "Kogan",
+   "name": "Kogan 4K PRO Android TV",
+   "model": "Kogan 4K PRO Android TV"
+  },
+  {
    "brand": "Motorola",
    "name": "FlipkartTVPro",
    "model": "FlipkartTVPro"
@@ -7128,6 +7133,11 @@
   },
   {
    "brand": "SWTV",
+   "name": "SWTV-20HK-PRO",
+   "model": "SWTV-20HK-PRO"
+  },
+  {
+   "brand": "SWTV",
    "name": "SWTV-20NA-PRO",
    "model": "SWTV-20NA-PRO"
   },
@@ -7135,6 +7145,16 @@
    "brand": "SWTV",
    "name": "SWTV-20SA-PRO",
    "model": "SWTV-20SA-PRO"
+  },
+  {
+   "brand": "Sharp",
+   "name": "SHARP Android TV",
+   "model": "SHARP Android TV"
+  },
+  {
+   "brand": "Singer",
+   "name": "SINGER BD SMART TV",
+   "model": "SINGER BD SMART TV"
   }
  ],
  "AX4Nano_plus": [
@@ -12459,6 +12479,153 @@
    "model": "Artel Air"
   }
  ],
+ "SW4H": [
+  {
+   "brand": "Artel",
+   "name": "Artel Android TV",
+   "model": "Artel Android TV"
+  },
+  {
+   "brand": "Asanzo",
+   "name": "Asanzo",
+   "model": "ASG 4K TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "MP3-A 4K TV",
+   "model": "MP3-A 4K TV"
+  },
+  {
+   "brand": "EcoStar",
+   "name": "ECOSTAR SMART TV",
+   "model": "ECOSTAR SMART TV"
+  },
+  {
+   "brand": "Fresh",
+   "name": "FRESH SMART TV",
+   "model": "FRESH SMART TV"
+  },
+  {
+   "brand": "G-Guard",
+   "name": "G Guard SMART TV",
+   "model": "G Guard SMART TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Hyundai TV",
+   "model": "Hyundai TV"
+  },
+  {
+   "brand": "Indurama",
+   "name": "indurama 4K TV",
+   "model": "indurama 4K TV"
+  },
+  {
+   "brand": "Iris",
+   "name": "IRIS Smart TV",
+   "model": "IRIS Smart TV"
+  },
+  {
+   "brand": "Itel",
+   "name": "itel 4K TV",
+   "model": "itel 4K TV"
+  },
+  {
+   "brand": "Kogan",
+   "name": "Kogan 4K Android TV",
+   "model": "Kogan 4K Android TV"
+  },
+  {
+   "brand": "Motorola",
+   "name": "FlipkartTV",
+   "model": "FlipkartTV"
+  },
+  {
+   "brand": "PRISMPLUS",
+   "name": "PrismPlus 4K Android TV",
+   "model": "PrismPlus 4K Android TV"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "4KTV-0SU",
+   "model": "4KTV-0SU"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "4KTV-0SUW",
+   "model": "4KTV-0SUW"
+  },
+  {
+   "brand": "Philco",
+   "name": "PHILCO Smart TV",
+   "model": "PHILCO Smart TV"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-20AE",
+   "model": "SWTV-20AE"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-20HK",
+   "model": "SWTV-20HK"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-20N",
+   "model": "SWTV-20NA"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-20SA",
+   "model": "SWTV-20SA"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-20TW",
+   "model": "SWTV-20TW"
+  },
+  {
+   "brand": "Sansui",
+   "name": "SANSUITV UHD",
+   "model": "SANSUITV UHD"
+  },
+  {
+   "brand": "Singer",
+   "name": "SINGER SL SMART TV",
+   "model": "SINGER SL SMART TV"
+  },
+  {
+   "brand": "TIT(SA)",
+   "name": "TIT SMART TV",
+   "model": "TIT SMART TV"
+  },
+  {
+   "brand": "Telefunken",
+   "name": "TELEFUNKEN SMART TV",
+   "model": "TELEFUNKEN SMART TV"
+  },
+  {
+   "brand": "Tesla",
+   "name": "Tesla S906",
+   "model": "Tesla S906"
+  },
+  {
+   "brand": "Vision",
+   "name": "VISION SMART TV",
+   "model": "VISION SMART TV"
+  },
+  {
+   "brand": "Xtreme",
+   "name": "XTREME 4K TV",
+   "model": "XTREME 4K TV"
+  },
+  {
+   "brand": "Yasin",
+   "name": "Yasin Android TV",
+   "model": "Yasin Android TV"
+  }
+ ],
  "Artel_Quadro": [
   {
    "brand": "Artel",
@@ -12717,53 +12884,6 @@
    "brand": "Asanzo",
    "name": "ASANZO A2",
    "model": "ASANZO A2"
-  }
- ],
- "SW4H": [
-  {
-   "brand": "Asanzo",
-   "name": "Asanzo",
-   "model": "ASG 4K TV"
-  },
-  {
-   "brand": "Motorola",
-   "name": "FlipkartTV",
-   "model": "FlipkartTV"
-  },
-  {
-   "brand": "Panasonic",
-   "name": "4KTV-0SU",
-   "model": "4KTV-0SU"
-  },
-  {
-   "brand": "Panasonic",
-   "name": "4KTV-0SUW",
-   "model": "4KTV-0SUW"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-20AE",
-   "model": "SWTV-20AE"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-20HK",
-   "model": "SWTV-20HK"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-20N",
-   "model": "SWTV-20NA"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-20SA",
-   "model": "SWTV-20SA"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-20TW",
-   "model": "SWTV-20TW"
   }
  ],
  "ASANZO_S3_PLUS": [
@@ -99677,6 +99797,13 @@
    "model": "Lenovo TB-8705F"
   }
  ],
+ "TB-8506XS": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Smart Tab M8 (3rd Gen)",
+   "model": "Lenovo TB-8506XS"
+  }
+ ],
  "8505XC": [
   {
    "brand": "Lenovo",
@@ -123448,6 +123575,11 @@
    "brand": "Oppo",
    "name": "A74",
    "model": "CPH2219"
+  },
+  {
+   "brand": "Oppo",
+   "name": "OPPO A74",
+   "model": "CPH2219"
   }
  ],
  "A79k": [
@@ -124147,6 +124279,18 @@
    "brand": "Oppo",
    "name": "OPPO A54",
    "model": "PEZM00"
+  }
+ ],
+ "OP4F1BL1": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO Find X3 Lite 5G",
+   "model": "CPH2145"
+  },
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno5 5G",
+   "model": "CPH2145"
   }
  ],
  "OP4E9F": [
