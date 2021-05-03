@@ -142770,6 +142770,13 @@
    "device": "alioth"
   }
  ],
+ "M2012K10C": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi K40 Gaming",
+   "device": "ares"
+  }
+ ],
  "M2012K11C": [
   {
    "brand": "Redmi",
@@ -176510,6 +176517,13 @@
   }
  ],
  "8091_RU": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "1T10 WIFI",
+   "device": "Aquaman_10_WIFI"
+  }
+ ],
+ "8391": [
   {
    "brand": "TCT (Alcatel)",
    "name": "1T10 WIFI",

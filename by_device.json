@@ -85262,6 +85262,11 @@
    "brand": "TCT (Alcatel)",
    "name": "1T10 WIFI",
    "model": "8091_RU"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "1T10 WIFI",
+   "model": "8391"
   }
  ],
  "Hulk_7_KIDS_WIFI": [
@@ -139088,6 +139093,13 @@
    "brand": "Redmi",
    "name": "Redmi K40",
    "model": "M2012K11AG"
+  }
+ ],
+ "ares": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi K40 Gaming",
+   "model": "M2012K10C"
   }
  ],
  "haydn": [

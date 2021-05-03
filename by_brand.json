@@ -107171,6 +107171,11 @@
    "model": "M2012K11AG"
   },
   {
+   "device": "ares",
+   "name": "Redmi K40 Gaming",
+   "model": "M2012K10C"
+  },
+  {
    "device": "haydn",
    "name": "Redmi K40 Pro",
    "model": "M2012K11C"
@@ -132712,6 +132717,11 @@
    "device": "Aquaman_10_WIFI",
    "name": "1T10 WIFI",
    "model": "8091_RU"
+  },
+  {
+   "device": "Aquaman_10_WIFI",
+   "name": "1T10 WIFI",
+   "model": "8391"
   },
   {
    "device": "A3A_10_4G",

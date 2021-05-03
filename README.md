@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-05-02
+Last sync is 2021-05-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -20861,6 +20861,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi K30i 5G|picasso|Redmi K30i 5G|
 |Redmi|Redmi K40|alioth|M2012K11AC|
 |Redmi|Redmi K40|alioth|M2012K11AG|
+|Redmi|Redmi K40 Gaming|ares|M2012K10C|
 |Redmi|Redmi K40 Pro|haydn|M2012K11C|
 |Redmi|Redmi K40 Pro +|haydn|M2012K11C|
 |Redmi|Redmi Note 10|sunny|M2101K7AG|
@@ -25884,6 +25885,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|1T10 SMART|Aquaman_10_Smart_WIFI|8092_RU|
 |TCT (Alcatel)|1T10 SMART|Aquaman_10_Smart_WIFI|8092_TR|
 |TCT (Alcatel)|1T10 WIFI|Aquaman_10_WIFI|8091_RU|
+|TCT (Alcatel)|1T10 WIFI|Aquaman_10_WIFI|8391|
 |TCT (Alcatel)|3T10 4G|A3A_10_4G|8088G|
 |TCT (Alcatel)|3T10 4G|A3A_10_4G|8088X|
 |TCT (Alcatel)|3T10 4G|Aquaman_10_4G|8094M|
