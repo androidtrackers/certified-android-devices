@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-05-03
+Last sync is 2021-05-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14860,6 +14860,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo YOGA Tab 3 Plus|YT-X703L|Lenovo YT-X703L|
 |Lenovo|Lenovo YOGA Tab 3 Plus|YT-X703X|Lenovo YT-X703X|
 |Lenovo|Lenovo Yoga Tab 11|YT-J706F|Lenovo YT-J706F|
+|Lenovo|Lenovo Yoga Tab 11|YT-J706X|Lenovo YT-J706X|
 |Lenovo|Lenovo Z5 Pro|heart|Lenovo L78032|
 |Lenovo|Lenovo Z6 Pro 5G|cream|Lenovo L79041|
 |Lenovo|Lenovo-9|zap|Lenovo L78031|
@@ -17081,6 +17082,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g(9) power|cebu|moto g(9) power|
 |Motorola|moto g10 power|capri|moto g(10) power|
 |Motorola|moto g40 fusion|hanoip|moto g(40) fusion|
+|Motorola|moto g50|ibiza|moto g(50)|
 |Motorola|moto g6 play|jeter|Moto G Play|
 |Motorola|moto g6 play|jeter|moto g(6) play|
 |Motorola|moto g60|hanoip|moto g(60)|
@@ -21442,6 +21444,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A12|a12|SM-A125N|
 |Samsung|Galaxy A12|a12u|SM-A125U|
 |Samsung|Galaxy A12|a12u|SM-A125U1|
+|Samsung|Galaxy A12|a12u|SM-S127DL|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260F|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260G|
 |Samsung|Galaxy A20|SC-02M|SC-02M|
@@ -21520,6 +21523,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A32 5G|a32x|SM-A326U|
 |Samsung|Galaxy A32 5G|a32x|SM-A326U1|
 |Samsung|Galaxy A32 5G|a32x|SM-A326W|
+|Samsung|Galaxy A32 5G|a32x|SM-S326DL|
 |Samsung|Galaxy A40|a40|SM-A405FM|
 |Samsung|Galaxy A40|a40|SM-A405FN|
 |Samsung|Galaxy A40|a40|SM-A405S|
@@ -23401,6 +23405,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A7|gta4l|SM-T505N|
 |Samsung|Galaxy Tab A7|gta4l|SM-T507|
 |Samsung|Galaxy Tab A7|gta4lwifi|SM-T500|
+|Samsung|Galaxy Tab A7 Lite|gta7lite|SM-T225|
+|Samsung|Galaxy Tab A7 Lite|gta7lite|SM-T225C|
+|Samsung|Galaxy Tab A7 Lite|gta7lite|SM-T225N|
+|Samsung|Galaxy Tab A7 Lite|gta7litewifi|SM-T220|
 |Samsung|Galaxy Tab Active|rubenslte|SM-T365|
 |Samsung|Galaxy Tab Active|rubenslte|SM-T365Y|
 |Samsung|Galaxy Tab Active Pro|gtactivexl|SM-T545|
@@ -25309,6 +25317,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sprint|HTC Bolt|htc_acawhl|2PYB2|
 |Sprint|Slate 8 Tablet|NKS_AQT80|AQT80|
 |SriLankaTelecom|DV8040|DV8040|DV8040|
+|Star-X|Middle East|tamachi|STAR-X FHD Android TV|
 |Star-X|Middle East|yeongdeungpo|STAR-X UHD Android TV|
 |StarHub|Android TV Set-Top Box|KM_SH368AT|KM_SH368AT|
 |StarHub|StarHub TV+ Box (Innopia)|NVSH800H1|NVSH800H1|

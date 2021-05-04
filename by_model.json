@@ -103525,6 +103525,13 @@
    "device": "YT-J706F"
   }
  ],
+ "Lenovo YT-J706X": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Yoga Tab 11",
+   "device": "YT-J706X"
+  }
+ ],
  "Lenovo L78032": [
   {
    "brand": "Lenovo",
@@ -118106,6 +118113,13 @@
    "brand": "Motorola",
    "name": "moto g40 fusion",
    "device": "hanoip"
+  }
+ ],
+ "moto g(50)": [
+  {
+   "brand": "Motorola",
+   "name": "moto g50",
+   "device": "ibiza"
   }
  ],
  "moto g(60)": [
@@ -146580,6 +146594,13 @@
    "device": "a12u"
   }
  ],
+ "SM-S127DL": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A12",
+   "device": "a12u"
+  }
+ ],
  "SM-A260F": [
   {
    "brand": "Samsung",
@@ -147107,6 +147128,13 @@
   }
  ],
  "SM-A326W": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A32 5G",
+   "device": "a32x"
+  }
+ ],
+ "SM-S326DL": [
   {
    "brand": "Samsung",
    "name": "Galaxy A32 5G",
@@ -160080,6 +160108,34 @@
    "device": "gta4lwifi"
   }
  ],
+ "SM-T225": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab A7 Lite",
+   "device": "gta7lite"
+  }
+ ],
+ "SM-T225C": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab A7 Lite",
+   "device": "gta7lite"
+  }
+ ],
+ "SM-T225N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab A7 Lite",
+   "device": "gta7lite"
+  }
+ ],
+ "SM-T220": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab A7 Lite",
+   "device": "gta7litewifi"
+  }
+ ],
  "SM-T365": [
   {
    "brand": "Samsung",
@@ -172669,6 +172725,13 @@
    "brand": "SriLankaTelecom",
    "name": "DV8040",
    "device": "DV8040"
+  }
+ ],
+ "STAR-X FHD Android TV": [
+  {
+   "brand": "Star-X",
+   "name": "Middle East",
+   "device": "tamachi"
   }
  ],
  "STAR-X UHD Android TV": [

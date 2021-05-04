@@ -76260,6 +76260,11 @@
    "model": "Lenovo YT-J706F"
   },
   {
+   "device": "YT-J706X",
+   "name": "Lenovo Yoga Tab 11",
+   "model": "Lenovo YT-J706X"
+  },
+  {
    "device": "heart",
    "name": "Lenovo Z5 Pro",
    "model": "Lenovo L78032"
@@ -87689,6 +87694,11 @@
    "device": "hanoip",
    "name": "moto g40 fusion",
    "model": "moto g(40) fusion"
+  },
+  {
+   "device": "ibiza",
+   "name": "moto g50",
+   "model": "moto g(50)"
   },
   {
    "device": "jeter",
@@ -110228,6 +110238,11 @@
    "model": "SM-A125U1"
   },
   {
+   "device": "a12u",
+   "name": "Galaxy A12",
+   "model": "SM-S127DL"
+  },
+  {
    "device": "a2corelte",
    "name": "Galaxy A2 Core",
    "model": "SM-A260F"
@@ -110616,6 +110631,11 @@
    "device": "a32x",
    "name": "Galaxy A32 5G",
    "model": "SM-A326W"
+  },
+  {
+   "device": "a32x",
+   "name": "Galaxy A32 5G",
+   "model": "SM-S326DL"
   },
   {
    "device": "a40",
@@ -120021,6 +120041,26 @@
    "device": "gta4lwifi",
    "name": "Galaxy Tab A7",
    "model": "SM-T500"
+  },
+  {
+   "device": "gta7lite",
+   "name": "Galaxy Tab A7 Lite",
+   "model": "SM-T225"
+  },
+  {
+   "device": "gta7lite",
+   "name": "Galaxy Tab A7 Lite",
+   "model": "SM-T225C"
+  },
+  {
+   "device": "gta7lite",
+   "name": "Galaxy Tab A7 Lite",
+   "model": "SM-T225N"
+  },
+  {
+   "device": "gta7litewifi",
+   "name": "Galaxy Tab A7 Lite",
+   "model": "SM-T220"
   },
   {
    "device": "rubenslte",
@@ -129744,6 +129784,11 @@
   }
  ],
  "Star-X": [
+  {
+   "device": "tamachi",
+   "name": "Middle East",
+   "model": "STAR-X FHD Android TV"
+  },
   {
    "device": "yeongdeungpo",
    "name": "Middle East",

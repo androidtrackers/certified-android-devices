@@ -1728,6 +1728,11 @@
    "model": "AiPlus2K"
   },
   {
+   "brand": "Star-X",
+   "name": "Middle East",
+   "model": "STAR-X FHD Android TV"
+  },
+  {
    "brand": "Starlight",
    "name": "Rumania",
    "model": "STARLIGHT Android TV"
@@ -100713,6 +100718,13 @@
    "model": "Lenovo YT-J706F"
   }
  ],
+ "YT-J706X": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Yoga Tab 11",
+   "model": "Lenovo YT-J706X"
+  }
+ ],
  "heart": [
   {
    "brand": "Lenovo",
@@ -115178,6 +115190,13 @@
    "brand": "Motorola",
    "name": "moto g60",
    "model": "moto g(60)"
+  }
+ ],
+ "ibiza": [
+  {
+   "brand": "Motorola",
+   "name": "moto g50",
+   "model": "moto g(50)"
   }
  ],
  "robusta": [
@@ -142691,6 +142710,11 @@
    "brand": "Samsung",
    "name": "Galaxy A12",
    "model": "SM-A125U1"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A12",
+   "model": "SM-S127DL"
   }
  ],
  "a2corelte": [
@@ -143150,6 +143174,11 @@
    "brand": "Samsung",
    "name": "Galaxy A32 5G",
    "model": "SM-A326W"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A32 5G",
+   "model": "SM-S326DL"
   },
   {
    "brand": "Samsung",
@@ -155156,6 +155185,30 @@
    "brand": "Samsung",
    "name": "Galaxy Tab A7",
    "model": "SM-T500"
+  }
+ ],
+ "gta7lite": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab A7 Lite",
+   "model": "SM-T225"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab A7 Lite",
+   "model": "SM-T225C"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab A7 Lite",
+   "model": "SM-T225N"
+  }
+ ],
+ "gta7litewifi": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab A7 Lite",
+   "model": "SM-T220"
   }
  ],
  "rubenslte": [
