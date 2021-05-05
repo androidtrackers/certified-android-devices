@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-05-04
+Last sync is 2021-05-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4297,6 +4297,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Crelander|Z103|Z103|Z103|
 |Crema|CREMA0810T|crema0810t|CREMA0810T|
 |Cricket|Cricket® Influence|v350c|V350C|
+|Cricket|Cricket® Ovation 2|ZON|EC1002|
 |Cricket|U304AC|U304AC|U304AC|
 |Cricket|U325AC|U325AC|U325AC|
 |Cricket|U705AC|U705AC|U705AC|
@@ -4350,6 +4351,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|J7|J7|J7|
 |Cubot|J8|J8|J8|
 |Cubot|KING KONG CS|KING_KONG_CS|KING KONG CS|
+|Cubot|KINGKONG 5 Pro|KINGKONG_5_Pro|KINGKONG 5 Pro|
 |Cubot|KINGKONG MINI2|KINGKONG_MINI2|KINGKONG MINI2|
 |Cubot|KINGKONG_MINI|KINGKONG_MINI|KINGKONG_MINI|
 |Cubot|KING_KONG_3|KING_KONG_3|KING_KONG_3|
@@ -14812,6 +14814,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M10 (HD)|TB-X505L|Lenovo TB-X505L|
 |Lenovo|Lenovo Tab M10 (HD)|TB-X505N|Lenovo TB-X505N|
 |Lenovo|Lenovo Tab M10 (HD)|TB-X505X|Lenovo TB-X505X|
+|Lenovo|Lenovo Tab M10 5G|TB-X607Z|Lenovo TB-X607Z|
 |Lenovo|Lenovo Tab M10 FHD Plus|X606F|Lenovo TB-X606F|
 |Lenovo|Lenovo Tab M10 FHD Plus|X606M|Lenovo TB-X606M|
 |Lenovo|Lenovo Tab M10 FHD Plus|X606X|Lenovo TB-X606X|
@@ -19398,6 +19401,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips||Philips_GGC3|SA3CNT|
 |Philips||Philips_PI5000|Philips_PI5000|
 |Philips||SA2CNTxx|Philips GoGear Connect|
+|Philips|2K Android TV|gotanda|FHD Android TV|
 |Philips|2K Android TV|takao|2020 FHD Android TV|
 |Philips|4K & Full HD Slim LED TV powered by Android™|philips_MT5593FHT_EU|QM152E|
 |Philips|4K & Full HD Slim LED TV powered by Android™|philips_MT5593HT_LT|QM152E|
@@ -19440,6 +19444,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|PI4010G|PI4010G|PI4010G|
 |Philips|PI7100/93|PI7100_93|PI7100_93|
 |Philips|Philips Android TV|PH0M_EA_T32|2020/2021 UHD Android TV|
+|Philips|Philips Android TV|PH1M_EA_9970A|2021/22 Philips UHD Android TV|
 |Philips|Philips Android TV|PH9M_EA_5599|TPM191E|
 |Philips|Philips Android TV|PH9M_EA_5599|TPM191KN|
 |Philips|Philips Android TV|PH9M_EA_5599|TPM191L|
@@ -20868,6 +20873,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi K40 Pro +|haydn|M2012K11C|
 |Redmi|Redmi Note 10|sunny|M2101K7AG|
 |Redmi|Redmi Note 10|sunny|M2101K7AI|
+|Redmi|Redmi Note 10 5G|camellian|M2103K19G|
 |Redmi|Redmi Note 10 Pro|sweet|M2101K6G|
 |Redmi|Redmi Note 10 Pro|sweetin|M2101K6P|
 |Redmi|Redmi Note 10 Pro Max|sweetin|M2101K6I|
@@ -21087,6 +21093,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SK Broadband|BKO-AT800|BKO-AT800|BKO-AT800|
 |SK Broadband|BTV|vip5442|BAS-AT800|
 |SK Broadband|SMART3|INTEKS20SI|BID-AT200|
+|SK Broadband|Smart3 Mini|BIP-UW200|BIP-UW200|
 |SK Telesys||K4|SK-S170|
 |SK Telesys||msm8255_k5|SK-S150|
 |SK Telesys||qsd8250_s1|SK-S100|

@@ -31893,6 +31893,13 @@
    "device": "v350c"
   }
  ],
+ "EC1002": [
+  {
+   "brand": "Cricket",
+   "name": "Cricket® Ovation 2",
+   "device": "ZON"
+  }
+ ],
  "U304AC": [
   {
    "brand": "Cricket",
@@ -32277,6 +32284,13 @@
    "brand": "Cubot",
    "name": "KING KONG CS",
    "device": "KING_KONG_CS"
+  }
+ ],
+ "KINGKONG 5 Pro": [
+  {
+   "brand": "Cubot",
+   "name": "KINGKONG 5 Pro",
+   "device": "KINGKONG_5_Pro"
   }
  ],
  "KINGKONG MINI2": [
@@ -103212,6 +103226,13 @@
    "device": "TB-X505X"
   }
  ],
+ "Lenovo TB-X607Z": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M10 5G",
+   "device": "TB-X607Z"
+  }
+ ],
  "Lenovo TB-X606F": [
   {
    "brand": "Lenovo",
@@ -133134,6 +133155,13 @@
    "device": "SA2CNTxx"
   }
  ],
+ "FHD Android TV": [
+  {
+   "brand": "Philips",
+   "name": "2K Android TV",
+   "device": "gotanda"
+  }
+ ],
  "2020 FHD Android TV": [
   {
    "brand": "Philips",
@@ -133424,6 +133452,13 @@
    "brand": "Philips",
    "name": "Philips Android TV",
    "device": "PH0M_EA_T32"
+  }
+ ],
+ "2021/22 Philips UHD Android TV": [
+  {
+   "brand": "Philips",
+   "name": "Philips Android TV",
+   "device": "PH1M_EA_9970A"
   }
  ],
  "TPM191E": [
@@ -142817,6 +142852,13 @@
    "device": "sunny"
   }
  ],
+ "M2103K19G": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 10 5G",
+   "device": "camellian"
+  }
+ ],
  "M2101K6G": [
   {
    "brand": "Redmi",
@@ -144129,6 +144171,13 @@
    "brand": "SK Broadband",
    "name": "SMART3",
    "device": "INTEKS20SI"
+  }
+ ],
+ "BIP-UW200": [
+  {
+   "brand": "SK Broadband",
+   "name": "Smart3 Mini",
+   "device": "BIP-UW200"
   }
  ],
  "SK-S170": [

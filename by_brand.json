@@ -22223,6 +22223,11 @@
    "model": "V350C"
   },
   {
+   "device": "ZON",
+   "name": "Cricket® Ovation 2",
+   "model": "EC1002"
+  },
+  {
    "device": "U304AC",
    "name": "U304AC",
    "model": "U304AC"
@@ -22500,6 +22505,11 @@
    "device": "KING_KONG_CS",
    "name": "KING KONG CS",
    "model": "KING KONG CS"
+  },
+  {
+   "device": "KINGKONG_5_Pro",
+   "name": "KINGKONG 5 Pro",
+   "model": "KINGKONG 5 Pro"
   },
   {
    "device": "KINGKONG_MINI2",
@@ -76020,6 +76030,11 @@
    "model": "Lenovo TB-X505X"
   },
   {
+   "device": "TB-X607Z",
+   "name": "Lenovo Tab M10 5G",
+   "model": "Lenovo TB-X607Z"
+  },
+  {
    "device": "X606F",
    "name": "Lenovo Tab M10 FHD Plus",
    "model": "Lenovo TB-X606F"
@@ -99672,6 +99687,11 @@
    "model": "Philips GoGear Connect"
   },
   {
+   "device": "gotanda",
+   "name": "2K Android TV",
+   "model": "FHD Android TV"
+  },
+  {
    "device": "takao",
    "name": "2K Android TV",
    "model": "2020 FHD Android TV"
@@ -99880,6 +99900,11 @@
    "device": "PH0M_EA_T32",
    "name": "Philips Android TV",
    "model": "2020/2021 UHD Android TV"
+  },
+  {
+   "device": "PH1M_EA_9970A",
+   "name": "Philips Android TV",
+   "model": "2021/22 Philips UHD Android TV"
   },
   {
    "device": "PH9M_EA_5599",
@@ -107206,6 +107231,11 @@
    "model": "M2101K7AI"
   },
   {
+   "device": "camellian",
+   "name": "Redmi Note 10 5G",
+   "model": "M2103K19G"
+  },
+  {
    "device": "sweet",
    "name": "Redmi Note 10 Pro",
    "model": "M2101K6G"
@@ -108395,6 +108425,11 @@
    "device": "INTEKS20SI",
    "name": "SMART3",
    "model": "BID-AT200"
+  },
+  {
+   "device": "BIP-UW200",
+   "name": "Smart3 Mini",
+   "model": "BIP-UW200"
   }
  ],
  "SK Telesys": [
