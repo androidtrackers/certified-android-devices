@@ -1610,6 +1610,20 @@
    "device": "U705AA"
   }
  ],
+ "AT908": [
+  {
+   "brand": "ATID",
+   "name": "AT908",
+   "device": "AT908"
+  }
+ ],
+ "AT908_EEA": [
+  {
+   "brand": "ATID",
+   "name": "AT908_EEA",
+   "device": "AT908"
+  }
+ ],
  "R5": [
   {
    "brand": "ATM (Brazil)",
@@ -21670,6 +21684,16 @@
    "brand": "CILICO",
    "name": "C6",
    "device": "C6"
+  },
+  {
+   "brand": "Handheld-Wireless",
+   "name": "C6",
+   "device": "C6"
+  },
+  {
+   "brand": "Handheld-Wireless",
+   "name": "C6_EEA",
+   "device": "C6"
   }
  ],
  "C6 2020": [
@@ -22019,6 +22043,13 @@
    "brand": "Blu",
    "name": "G50 Plus",
    "device": "G0350WW"
+  }
+ ],
+ "G51 Plus": [
+  {
+   "brand": "Blu",
+   "name": "G51 Plus",
+   "device": "G0510WW"
   }
  ],
  "G6": [
@@ -28150,6 +28181,13 @@
    "device": "CLARMIN_C1"
   }
  ],
+ "Claro Colombia STB": [
+  {
+   "brand": "Claro",
+   "name": "Claro Colombia STB",
+   "device": "SEI800CCOA"
+  }
+ ],
  "CLEMPAD_2018": [
   {
    "brand": "Clementoni",
@@ -29979,6 +30017,11 @@
  "V11": [
   {
    "brand": "Contixo",
+   "name": "V11",
+   "device": "V11"
+  },
+  {
+   "brand": "USEN",
    "name": "V11",
    "device": "V11"
   }
@@ -33953,6 +33996,20 @@
    "brand": "DGTEC",
    "name": "Dg_1522",
    "device": "Dg_1522"
+  }
+ ],
+ "Dg_1523": [
+  {
+   "brand": "DGTEC",
+   "name": "Dg_1523",
+   "device": "Dg_1523"
+  }
+ ],
+ "Dg_1524": [
+  {
+   "brand": "DGTEC",
+   "name": "Dg_1524",
+   "device": "Dg_1524"
   }
  ],
  "CUTE 5": [
@@ -39084,6 +39141,20 @@
    "device": "komagome"
   }
  ],
+ "Mars8": [
+  {
+   "brand": "EGOTEK",
+   "name": "Mars8",
+   "device": "Mars8"
+  }
+ ],
+ "Penguin": [
+  {
+   "brand": "EGOTEK",
+   "name": "Penguin",
+   "device": "Penguin"
+  }
+ ],
  "Venus10": [
   {
    "brand": "EGOTEK",
@@ -40487,6 +40558,11 @@
   {
    "brand": "Elink",
    "name": "Winnovo",
+   "device": "T7"
+  },
+  {
+   "brand": "Performance",
+   "name": "T7",
    "device": "T7"
   },
   {
@@ -75632,6 +75708,13 @@
    "device": "7LB1"
   }
  ],
+ "8LAB1": [
+  {
+   "brand": "Hyundai",
+   "name": "8LAB1",
+   "device": "8LAB1"
+  }
+ ],
  "A25563L": [
   {
    "brand": "Hyundai",
@@ -75878,6 +75961,20 @@
    "device": "HT0802W16"
   }
  ],
+ "HT7WB1RBK": [
+  {
+   "brand": "Hyundai",
+   "name": "HT7WB1RBK",
+   "device": "HT7WB1RBK"
+  }
+ ],
+ "HT7WC1PBK": [
+  {
+   "brand": "Hyundai",
+   "name": "HT7WC1PBK",
+   "device": "HT7WC1PBK"
+  }
+ ],
  "HY1-5085": [
   {
    "brand": "Hyundai",
@@ -75890,6 +75987,20 @@
    "brand": "Hyundai",
    "name": "HY_BDL163G_001",
    "device": "HY_BDL163G_001_EEA"
+  }
+ ],
+ "HyTab Plus 10LC2": [
+  {
+   "brand": "Hyundai",
+   "name": "HyTab_Plus_10LC2",
+   "device": "HyTab_Plus_10LC2"
+  }
+ ],
+ "7WA1": [
+  {
+   "brand": "Hyundai",
+   "name": "HyTab_Plus_7WA1",
+   "device": "7WA1"
   }
  ],
  "Hyundai 4K Android TV": [
@@ -75939,6 +76050,13 @@
    "brand": "Hyundai",
    "name": "Hyundai Eternity G50L",
    "device": "HT1G50L"
+  }
+ ],
+ "HyTab Pro 10LC1": [
+  {
+   "brand": "Hyundai",
+   "name": "Hyundai HyTab Pro 10LC1",
+   "device": "HyTab_Pro_10LC1"
   }
  ],
  "HT1002W16": [
@@ -82789,6 +82907,13 @@
    "device": "JR-101"
   }
  ],
+ "JR-J71": [
+  {
+   "brand": "JREN",
+   "name": "JR-J71",
+   "device": "JR-J71"
+  }
+ ],
  "J3": [
   {
    "brand": "JUSYEA",
@@ -85305,6 +85430,11 @@
   {
    "brand": "Pritom",
    "name": "K7_EEA",
+   "device": "K7"
+  },
+  {
+   "brand": "Surfans",
+   "name": "K7",
    "device": "K7"
   }
  ],
@@ -107542,6 +107672,13 @@
    "device": "MB8866"
   }
  ],
+ "MB8992": [
+  {
+   "brand": "MLAB",
+   "name": "MB8992",
+   "device": "MB8992"
+  }
+ ],
  "MLAB_GLOWY7": [
   {
    "brand": "MLAB",
@@ -113129,6 +113266,13 @@
    "brand": "Mintt",
    "name": "FRESHMINTTA7",
    "device": "FRESHMINTTA7"
+  }
+ ],
+ "MINTT-DIGI": [
+  {
+   "brand": "Mintt",
+   "name": "MINTT-DIGI",
+   "device": "MINTT-DIGI"
   }
  ],
  "MinttPoro": [
@@ -132932,6 +133076,13 @@
    "device": "PTPC01"
   }
  ],
+ "PTPC02": [
+  {
+   "brand": "Pebble Quad",
+   "name": "PTPC02",
+   "device": "PTPC02"
+  }
+ ],
  "Android Tablet PC": [
   {
    "brand": "Pegatron",
@@ -143005,6 +143156,13 @@
    "device": "cannong"
   }
  ],
+ "MiTV-MOOQ3": [
+  {
+   "brand": "Redmi",
+   "name": "Smart TV",
+   "device": "tarzan"
+  }
+ ],
  "redway10": [
   {
    "brand": "Redway",
@@ -145432,6 +145590,13 @@
    "brand": "SUPERSONIC",
    "name": "SC-813",
    "device": "SC-813"
+  }
+ ],
+ "Hatch_102S": [
+  {
+   "brand": "SUPERSONIC",
+   "name": "SC-9810",
+   "device": "Hatch_102S"
   }
  ],
  "SC-9810": [
@@ -168836,6 +169001,13 @@
    "device": "NSZGU1"
   }
  ],
+ "BRAVIA TL": [
+  {
+   "brand": "Sony",
+   "name": "BRAVIA TL",
+   "device": "OD0M_EA_T32"
+  }
+ ],
  "BRAVIA VH1": [
   {
    "brand": "Sony",
@@ -184859,6 +185031,13 @@
    "device": "TERRA_PAD_101"
   }
  ],
+ "TERRA_MOBILE_PAD_1200": [
+  {
+   "brand": "TERRA",
+   "name": "TERRA_MOBILE_PAD_1200",
+   "device": "TERRA_MOBILE_PAD_1200"
+  }
+ ],
  "TERRA_PAD_1005": [
   {
    "brand": "TERRA",
@@ -187880,6 +188059,13 @@
    "brand": "Tecno",
    "name": "TECNO SPARK 7P",
    "device": "TECNO-KF7j"
+  }
+ ],
+ "TECNO KF6p": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 7T",
+   "device": "TECNO-KF6p"
   }
  ],
  "TECNO KC1": [
@@ -216513,6 +216699,13 @@
    "brand": "dazen",
    "name": "dazen 6E",
    "device": "dazen_6E"
+  }
+ ],
+ "IPBS9520": [
+  {
+   "brand": "du (UAE)",
+   "name": "IPBS9520",
+   "device": "IPBS9520"
   }
  ],
  "DK66": [

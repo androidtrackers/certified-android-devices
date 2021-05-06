@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-05-05
+Last sync is 2021-05-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -145,6 +145,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AT&T|U304AA|U304AA|U304AA|
 |AT&T|U318AA|U318AA|U318AA|
 |AT&T|U705AA|U705AA|U705AA|
+|ATID|AT908|AT908|AT908|
+|ATID|AT908_EEA|AT908|AT908_EEA|
 |ATM (Brazil)|R5|R5|R5|
 |ATM (Brazil)|R5Plus|R5Plus|R5Plus|
 |ATOL|Smart.Slim Plus|t50p|Smart_Slim_Plus|
@@ -2925,6 +2927,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G50|G0330WW|G50|
 |Blu|G50 MEGA|G0390WW|G50 Mega|
 |Blu|G50 Plus|G0350WW|G50 Plus|
+|Blu|G51 Plus|G0510WW|G51 Plus|
 |Blu|G6|G0210|G6|
 |Blu|G60|G0270WW|G60|
 |Blu|G61|G0450WW|G61|
@@ -3758,6 +3761,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Clarmin|B8Lite|B8Lite|B8Lite|
 |Clarmin|B8plus|B8plus|B8plus|
 |Clarmin|CLARMIN C1|CLARMIN_C1|CLARMIN C1|
+|Claro|Claro Colombia STB|SEI800CCOA|Claro Colombia STB|
 |Classpro|CGS55UHD|samseong|AI PONT|
 |Classpro|EGS42FHD|ikebukuro|AI PONT|
 |Clementoni|CLEMPAD_2018|CLEMPAD_2018|CLEMPAD_2018|
@@ -4582,6 +4586,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DGTEC|DG7TBIPSG|DG7TBIPSG|DG7TBIPSG|
 |DGTEC|DG7TBIPSPA|DG7TBIPSPA|DG7TBIPSPA|
 |DGTEC|Dg_1522|Dg_1522|Dg_1522|
+|DGTEC|Dg_1523|Dg_1523|Dg_1523|
+|DGTEC|Dg_1524|Dg_1524|Dg_1524|
 |DIADEM|CUTE_5|CUTE_5|CUTE 5|
 |DIFRNCE|DIT702201|DIT702201|NID_7010|
 |DIMENSIONS|DISHM7863|DISHM7863|DISHM7863|
@@ -5317,6 +5323,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ECS|TR10RS1|TR10RS1_2|TR10RS1|
 |ECS|TU10MK|TU10MK_3|TU10MK|
 |EDENWOOD|EDENWOOD|komagome|EDENWOOD 2K Android TV|
+|EGOTEK|Mars8|Mars8|Mars8|
+|EGOTEK|Penguin|Penguin|Penguin|
 |EGOTEK|Venus10|Venus10|Venus10|
 |EKINOX|E6|E6|E6|
 |EKINOX|E8_Ultra|E8_Ultra|E8_Ultra|
@@ -8058,6 +8066,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Handheld Group|Nautiz X41|albatross_GL|Nautiz X41|
 |Handheld Group|Nautiz_X2|NAUTIZ_X2|NAUTIZ_X2|
 |Handheld Group|Nautiz_X9|Nautiz_X9|Nautiz_X9|
+|Handheld-Wireless|C6|C6|C6|
+|Handheld-Wireless|C6_EEA|C6|C6|
 |Handheld-Wireless|X6|X6|X6|
 |HannSpree|HSG1279|HANNSpad|HSG1279|
 |HannSpree|HSG1341|mid1024_e|HSG1341|
@@ -10684,6 +10694,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hytera|PTC760|PTC760|PTC760|
 |Hyundai|10LA2|10LA2|10LA2|
 |Hyundai|7LB1|7LB1|7LB1|
+|Hyundai|8LAB1|8LAB1|8LAB1|
 |Hyundai|A25563L|A25563L|A25563L|
 |Hyundai|A26062L|A26062L|A26062L|
 |Hyundai|A26062k|A26062K|A26062K|
@@ -10726,11 +10737,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HT0703W08|HT0703W08|HT0703W08|
 |Hyundai|HT0705W08/Koral_7W4|HT0705W08|Koral 7W4|
 |Hyundai|HT0802W16/Koral_8W2|HT0802W16|Koral_8W2|
+|Hyundai|HT7WB1RBK|HT7WB1RBK|HT7WB1RBK|
+|Hyundai|HT7WC1PBK|HT7WC1PBK|HT7WC1PBK|
 |Hyundai|HY1-5085|HY1_5085|HY1-5085|
 |Hyundai|HYLED4321AiM|ikebukuro|AI PONT|
 |Hyundai|HYLED5015A4KM|samseong|AI PONT|
 |Hyundai|HYLED5520A4KM|sindorim|AI PONT|
 |Hyundai|HY_BDL163G_001|HY_BDL163G_001_EEA|HY-BDL163G-001|
+|Hyundai|HyTab_Plus_10LC2|HyTab_Plus_10LC2|HyTab Plus 10LC2|
+|Hyundai|HyTab_Plus_7WA1|7WA1|7WA1|
 |Hyundai|Hyundai|bangbae|Hyundai 4K Android TV|
 |Hyundai|Hyundai|gangbyeon|HYUNDAI 4K AI Smart TV|
 |Hyundai|Hyundai|gangbyeon|HYUNDAI 4K Smart TV|
@@ -10738,6 +10753,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|Hyundai|osaki|HYUNDAI 2K AI Smart TV|
 |Hyundai|Hyundai 2K TV|shinjuku|Hyundai 2K TV|
 |Hyundai|Hyundai Eternity G50L|HT1G50L|Hyundai_Eternity_G50L|
+|Hyundai|Hyundai HyTab Pro 10LC1|HyTab_Pro_10LC1|HyTab Pro 10LC1|
 |Hyundai|Hyundai Koral 10W|HT1002W16|HT1002W16|
 |Hyundai|Hyundai Koral 10X|HT1003X16|HT1003X16|
 |Hyundai|Hyundai Koral 7M3X|HT0703K|HT0703K16|
@@ -11770,6 +11786,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JP Sacouto|mymaga CLASS Plus 2|MG101A4T|mymaga CLASS Plus 2|
 |JREN|J7|J7|J7|
 |JREN|JR-101|JR-101|JR-101|
+|JREN|JR-J71|JR-J71|JR-J71|
 |JUSYEA|J3|JUSYEA_J3|J3|
 |JUSYEA|J3_EEA|J3_EEA|J3|
 |JVC||gener|RY-AP1|
@@ -15478,6 +15495,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MLAB|MB8715|MB8715|MB8715|
 |MLAB|MB8717|MB8717|MB8717|
 |MLAB|MB8866|MB8866|MB8866|
+|MLAB|MB8992|MB8992|MB8992|
 |MLAB|MLAB_GLOWY7|MLAB_GLOWY7|MLAB_GLOWY7|
 |MLAB|MLAB_GLOWY8|MLAB_GLOWY8|MLAB_GLOWY8|
 |MLAB|MLAB_KIDS_PLUS|MLAB_KIDS_PLUS|MLAB_KIDS_PLUS|
@@ -16316,6 +16334,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mintt|DIGI|DIGI|DIGI|
 |Mintt|FRESHMINTTA7|FRESHMINTTA7|FRESHMINTTA7|
 |Mintt|M1|M1|M1|
+|Mintt|MINTT-DIGI|MINTT-DIGI|MINTT-DIGI|
 |Mintt|MinttPoro|MinttPoro|MinttPoro|
 |Mintt|Mintt_Tab_T1|Mintt_Tab_T1|Mintt_Tab_T1|
 |Mintt|ULTRAMINTT A5|ULTRAMINTT_A5|ULTRAMINTT A5|
@@ -19366,6 +19385,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pavapro|PavaPro7bk|Pavapro7bk|Pavapro7bk|
 |Pavapro|Pavapro10|Pavapro10bk|Pavapro10bk|
 |Pebble Quad|PTPC01|PTPC01|Pebble_Quad|
+|Pebble Quad|PTPC02|PTPC02|PTPC02|
 |Pegatron||Duke3G|Android Tablet PC|
 |Pegatron||DukeWifi|Android Tablet PC|
 |Pegatron||TabletPC|Android Tablet PC|
@@ -19381,6 +19401,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Penta|ETBA0552|PENTA_83AAQ2|PENTA_83AAQ2|
 |Penta|ETBA0692|PENTA_73AAQ1|PENTA_73AAQ1|
 |Penta|PENTA_73AAQ1|ETBA0604|PENTA_73AAQ1|
+|Performance|T7|T7|T7|
 |Performance|PR7RKTNF|PR7RKTNF|PR7RKTNF|
 |Perseo TV|Perseo TV Home 2nd Generation Ranger|DV8219|Perseo TV Home 2nd Generation Ranger|
 |Philco|Hit P10|Hit_P10|Hit P10|
@@ -20898,6 +20919,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 9S|curtana|Redmi Note 9S|
 |Redmi|Redmi Note 9T|cannong|A001XM|
 |Redmi|Redmi Note 9T|cannong|M2007J22G|
+|Redmi|Smart TV|tarzan|MiTV-MOOQ3|
 |Redway|redway10|redway10|redway10|
 |Redway|redway10_lite|redway10_lite|redway10_lite|
 |Redway|redway7_pro|redway7_pro|redway7_pro|
@@ -21282,6 +21304,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SUPERSONIC|SC-4317BT|SC-4317BT|SC-4317BT|
 |SUPERSONIC|SC-774KT|SC-774KT|SC-774KT|
 |SUPERSONIC|SC-813|SC-813|SC-813|
+|SUPERSONIC|SC-9810|Hatch_102S|Hatch_102S|
 |SUPERSONIC|SC-9810|SC-9810|SC-9810|
 |SUPERSONIC|SC4009DL|SC4009DL|SC-4009DL|
 |SUPERSONIC|SC_1010JBBT|SC_1010JBBT|SC_1010JBBT|
@@ -24715,6 +24738,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|BRAVIA 4K UR2|BRAVIA_UR2_4K|BRAVIA 4K UR2|
 |Sony|BRAVIA 4K UR3|BRAVIA_UR3|BRAVIA 4K UR3|
 |Sony|BRAVIA Smart Stick|NSZGU1|NSZ-GU1|
+|Sony|BRAVIA TL|OD0M_EA_T32|BRAVIA TL|
 |Sony|BRAVIA VH1|BRAVIA_VH1|BRAVIA VH1|
 |Sony|BRAVIA VH2|BRAVIA_VH2|BRAVIA 4K VH2|
 |Sony|BRAVIA_VU|BRAVIA_VU1|BRAVIA VU1|
@@ -25516,6 +25540,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Supraim|AYCON|AYCON|AYCON|
 |Supraim|SN10|SN10|SN10|
 |Surface|Surface Duo|duo|Surface Duo|
+|Surfans|K7|K7|K7|
 |Surfans|P10P|P10P|Surfans P10P|
 |Surgephone|SURGE|VOLT_5XL|VOLT_5XL|
 |Surtab|SURTAB|SURTAB_74G|SURTAB_74G|
@@ -27119,6 +27144,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TELE System|UPT24K|UPT24K|UPT24K|
 |TERRA|GPAD702|GPAD702|GPAD702|
 |TERRA|TERRA PAD 101|TERRA_PAD_101|TERRA_PAD_101|
+|TERRA|TERRA_MOBILE_PAD_1200|TERRA_MOBILE_PAD_1200|TERRA_MOBILE_PAD_1200|
 |TERRA|TERRA_PAD_1005|TERRA_PAD_1005|TERRA_PAD_1005|
 |TERRA|TERRA_PAD_1005POKO|TERRA_PAD_1005POKO|TERRA_PAD_1005POKO|
 |TERRA|TERRA_PAD_1006|TERRA_PAD_1006|TERRA_PAD_1006|
@@ -27581,6 +27607,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 7|TECNO-KF6n|TECNO KF6n|
 |Tecno|TECNO SPARK 7 Pro|TECNO-KF8|TECNO KF8|
 |Tecno|TECNO SPARK 7P|TECNO-KF7j|TECNO KF7j|
+|Tecno|TECNO SPARK 7T|TECNO-KF6p|TECNO KF6p|
 |Tecno|TECNO SPARK Go|TECNO-KC1|TECNO KC1|
 |Tecno|TECNO Tab|TECNO-P704|TECNO P704|
 |Tecno|TECNO Tab|TECNO-P704a|TECNO P704a|
@@ -28062,6 +28089,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |USA111|iRULU V3|iRULU_V3|iRULU_V3|
 |USA111|iRULU V3|iRULU_V3i|iRULU_V3|
 |USA111|iRULU_V4|iRULU|V4|
+|USEN|V11|V11|V11|
 |USP (The University of the South Pacific)|USP- 201901|USP-201901|USP-201901|
 |UTVbox|MGV2002_HK|MGV2002_HK|MGV2002_HK|
 |Ubiquiti|USS|grizzlies_telefi4wm|USS|
@@ -32066,6 +32094,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |d.light|M200A|M200|M200|
 |dazen|dazen 6A|dazen_6A|dazen 6A|
 |dazen|dazen 6E|dazen_6E|dazen 6E|
+|du (UAE)|IPBS9520|IPBS9520|IPBS9520|
 |duraMOBI|DK66|DK66|DK66|
 |eBox|EBoxTv|diw387eb|EboxTV|
 |eBox|Ebox|diw387eb|EboxTV|

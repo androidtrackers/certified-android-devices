@@ -6913,6 +6913,20 @@
    "model": "U705AA"
   }
  ],
+ "AT908": [
+  {
+   "brand": "ATID",
+   "device": "AT908",
+   "model": "AT908"
+  }
+ ],
+ "AT908_EEA": [
+  {
+   "brand": "ATID",
+   "device": "AT908",
+   "model": "AT908_EEA"
+  }
+ ],
  "R5": [
   {
    "brand": "ATM (Brazil)",
@@ -27348,6 +27362,11 @@
    "brand": "CILICO",
    "device": "C6",
    "model": "C6"
+  },
+  {
+   "brand": "Handheld-Wireless",
+   "device": "C6",
+   "model": "C6"
   }
  ],
  "C6  2020": [
@@ -27679,6 +27698,13 @@
    "brand": "Blu",
    "device": "G0350WW",
    "model": "G50 Plus"
+  }
+ ],
+ "G51 Plus": [
+  {
+   "brand": "Blu",
+   "device": "G0510WW",
+   "model": "G51 Plus"
   }
  ],
  "G6": [
@@ -34061,6 +34087,13 @@
    "model": "CLARMIN C1"
   }
  ],
+ "Claro Colombia STB": [
+  {
+   "brand": "Claro",
+   "device": "SEI800CCOA",
+   "model": "Claro Colombia STB"
+  }
+ ],
  "CGS55UHD": [
   {
    "brand": "Classpro",
@@ -36121,6 +36154,11 @@
  "V11": [
   {
    "brand": "Contixo",
+   "device": "V11",
+   "model": "V11"
+  },
+  {
+   "brand": "USEN",
    "device": "V11",
    "model": "V11"
   }
@@ -39957,6 +39995,20 @@
    "brand": "DGTEC",
    "device": "Dg_1522",
    "model": "Dg_1522"
+  }
+ ],
+ "Dg_1523": [
+  {
+   "brand": "DGTEC",
+   "device": "Dg_1523",
+   "model": "Dg_1523"
+  }
+ ],
+ "Dg_1524": [
+  {
+   "brand": "DGTEC",
+   "device": "Dg_1524",
+   "model": "Dg_1524"
   }
  ],
  "CUTE_5": [
@@ -45211,6 +45263,20 @@
    "brand": "EDENWOOD",
    "device": "komagome",
    "model": "EDENWOOD 2K Android TV"
+  }
+ ],
+ "Mars8": [
+  {
+   "brand": "EGOTEK",
+   "device": "Mars8",
+   "model": "Mars8"
+  }
+ ],
+ "Penguin": [
+  {
+   "brand": "EGOTEK",
+   "device": "Penguin",
+   "model": "Penguin"
   }
  ],
  "Venus10": [
@@ -52444,6 +52510,11 @@
    "brand": "Philips",
    "device": "sindap",
    "model": "PHILIPS 4K TV"
+  },
+  {
+   "brand": "Redmi",
+   "device": "tarzan",
+   "model": "MiTV-MOOQ3"
   },
   {
    "brand": "TCL",
@@ -63733,6 +63804,13 @@
    "brand": "Handheld Group",
    "device": "Nautiz_X9",
    "model": "Nautiz_X9"
+  }
+ ],
+ "C6_EEA": [
+  {
+   "brand": "Handheld-Wireless",
+   "device": "C6",
+   "model": "C6"
   }
  ],
  "HSG1279": [
@@ -77793,6 +77871,13 @@
    "model": "7LB1"
   }
  ],
+ "8LAB1": [
+  {
+   "brand": "Hyundai",
+   "device": "8LAB1",
+   "model": "8LAB1"
+  }
+ ],
  "A25563L": [
   {
    "brand": "Hyundai",
@@ -78062,6 +78147,20 @@
    "model": "Koral_8W2"
   }
  ],
+ "HT7WB1RBK": [
+  {
+   "brand": "Hyundai",
+   "device": "HT7WB1RBK",
+   "model": "HT7WB1RBK"
+  }
+ ],
+ "HT7WC1PBK": [
+  {
+   "brand": "Hyundai",
+   "device": "HT7WC1PBK",
+   "model": "HT7WC1PBK"
+  }
+ ],
  "HY1-5085": [
   {
    "brand": "Hyundai",
@@ -78095,6 +78194,20 @@
    "brand": "Hyundai",
    "device": "HY_BDL163G_001_EEA",
    "model": "HY-BDL163G-001"
+  }
+ ],
+ "HyTab_Plus_10LC2": [
+  {
+   "brand": "Hyundai",
+   "device": "HyTab_Plus_10LC2",
+   "model": "HyTab Plus 10LC2"
+  }
+ ],
+ "HyTab_Plus_7WA1": [
+  {
+   "brand": "Hyundai",
+   "device": "7WA1",
+   "model": "7WA1"
   }
  ],
  "Hyundai": [
@@ -78136,6 +78249,13 @@
    "brand": "Hyundai",
    "device": "HT1G50L",
    "model": "Hyundai_Eternity_G50L"
+  }
+ ],
+ "Hyundai HyTab Pro 10LC1": [
+  {
+   "brand": "Hyundai",
+   "device": "HyTab_Pro_10LC1",
+   "model": "HyTab Pro 10LC1"
   }
  ],
  "Hyundai Koral 10W": [
@@ -84781,6 +84901,13 @@
    "model": "JR-101"
   }
  ],
+ "JR-J71": [
+  {
+   "brand": "JREN",
+   "device": "JR-J71",
+   "model": "JR-J71"
+  }
+ ],
  "J3": [
   {
    "brand": "JUSYEA",
@@ -87210,6 +87337,11 @@
   },
   {
    "brand": "Pritom",
+   "device": "K7",
+   "model": "K7"
+  },
+  {
+   "brand": "Surfans",
    "device": "K7",
    "model": "K7"
   }
@@ -106386,6 +106518,13 @@
    "model": "MB8866"
   }
  ],
+ "MB8992": [
+  {
+   "brand": "MLAB",
+   "device": "MB8992",
+   "model": "MB8992"
+  }
+ ],
  "MLAB_GLOWY7": [
   {
    "brand": "MLAB",
@@ -111538,6 +111677,13 @@
    "brand": "Mintt",
    "device": "FRESHMINTTA7",
    "model": "FRESHMINTTA7"
+  }
+ ],
+ "MINTT-DIGI": [
+  {
+   "brand": "Mintt",
+   "device": "MINTT-DIGI",
+   "model": "MINTT-DIGI"
   }
  ],
  "MinttPoro": [
@@ -130058,6 +130204,13 @@
    "model": "Pebble_Quad"
   }
  ],
+ "PTPC02": [
+  {
+   "brand": "Pebble Quad",
+   "device": "PTPC02",
+   "model": "PTPC02"
+  }
+ ],
  "MaxiIQ": [
   {
    "brand": "Pegatron",
@@ -130136,6 +130289,23 @@
    "brand": "Penta",
    "device": "ETBA0604",
    "model": "PENTA_73AAQ1"
+  }
+ ],
+ "T7": [
+  {
+   "brand": "Performance",
+   "device": "T7",
+   "model": "T7"
+  },
+  {
+   "brand": "Tobii DynaVox",
+   "device": "T7",
+   "model": "T7"
+  },
+  {
+   "brand": "Veidoo",
+   "device": "T7",
+   "model": "T7"
   }
  ],
  "PR7RKTNF": [
@@ -142309,6 +142479,11 @@
   }
  ],
  "SC-9810": [
+  {
+   "brand": "SUPERSONIC",
+   "device": "Hatch_102S",
+   "model": "Hatch_102S"
+  },
   {
    "brand": "SUPERSONIC",
    "device": "SC-9810",
@@ -161634,6 +161809,13 @@
    "model": "NSZ-GU1"
   }
  ],
+ "BRAVIA TL": [
+  {
+   "brand": "Sony",
+   "device": "OD0M_EA_T32",
+   "model": "BRAVIA TL"
+  }
+ ],
  "BRAVIA VH1": [
   {
    "brand": "Sony",
@@ -175038,6 +175220,13 @@
    "model": "TERRA_PAD_101"
   }
  ],
+ "TERRA_MOBILE_PAD_1200": [
+  {
+   "brand": "TERRA",
+   "device": "TERRA_MOBILE_PAD_1200",
+   "model": "TERRA_MOBILE_PAD_1200"
+  }
+ ],
  "TERRA_PAD_1005": [
   {
    "brand": "TERRA",
@@ -177804,6 +177993,13 @@
    "model": "TECNO KF7j"
   }
  ],
+ "TECNO SPARK 7T": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KF6p",
+   "model": "TECNO KF6p"
+  }
+ ],
  "TECNO SPARK Go": [
   {
    "brand": "Tecno",
@@ -179285,18 +179481,6 @@
    "brand": "Tobii DynaVox",
    "device": "T10plus",
    "model": "T10+"
-  }
- ],
- "T7": [
-  {
-   "brand": "Tobii DynaVox",
-   "device": "T7",
-   "model": "T7"
-  },
-  {
-   "brand": "Veidoo",
-   "device": "T7",
-   "model": "T7"
   }
  ],
  "Togocel EGO plus": [
@@ -204081,6 +204265,13 @@
    "brand": "dazen",
    "device": "dazen_6E",
    "model": "dazen 6E"
+  }
+ ],
+ "IPBS9520": [
+  {
+   "brand": "du (UAE)",
+   "device": "IPBS9520",
+   "model": "IPBS9520"
   }
  ],
  "DK66": [
