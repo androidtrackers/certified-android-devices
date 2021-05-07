@@ -139370,6 +139370,32 @@
    "model": "M2101K6I"
   }
  ],
+ "maltose": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 10S",
+   "model": "M2101K7BL"
+  }
+ ],
+ "rosemary": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 10S",
+   "model": "M2101K7BNY"
+  }
+ ],
+ "secret": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 10S",
+   "model": "M2101K7BG"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 10S",
+   "model": "M2101K7BI"
+  }
+ ],
  "ginkgo": [
   {
    "brand": "Redmi",
@@ -140586,6 +140612,13 @@
    "brand": "SFR",
    "name": "Star Trail III",
    "model": "StarTrail III"
+  }
+ ],
+ "DV8555-SFR": [
+  {
+   "brand": "SFR.fr",
+   "name": "Connect TV de SFR",
+   "model": "Connect TV de SFR"
   }
  ],
  "6S": [

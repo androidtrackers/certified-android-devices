@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-05-06
+Last sync is 2021-05-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -20898,6 +20898,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 10 Pro|sweet|M2101K6G|
 |Redmi|Redmi Note 10 Pro|sweetin|M2101K6P|
 |Redmi|Redmi Note 10 Pro Max|sweetin|M2101K6I|
+|Redmi|Redmi Note 10S|maltose|M2101K7BL|
+|Redmi|Redmi Note 10S|rosemary|M2101K7BNY|
+|Redmi|Redmi Note 10S|secret|M2101K7BG|
+|Redmi|Redmi Note 10S|secret|M2101K7BI|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Redmi|Redmi Note 8|ginkgo|GINKGO|
 |Redmi|Redmi Note 8|ginkgo|Redmi Note 8|
@@ -21099,6 +21103,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SFR|Star Trail 5|STARTRAIL5|STARTRAIL5|
 |SFR|Star Trail 6|STARTRAIL6|STARTRAIL6|
 |SFR|Star Trail III|mobiwire_startrail3|StarTrail III|
+|SFR.fr|Connect TV de SFR|DV8555-SFR|Connect TV de SFR|
 |SFR.fr|DV8219_SFR|DV8219|DV8219_SFR|
 |SFR.fr|FR|DV8219|DV8219_SFR|
 |SGINO|6S|6S|6S|

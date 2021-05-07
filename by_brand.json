@@ -107360,6 +107360,26 @@
    "model": "M2101K6I"
   },
   {
+   "device": "maltose",
+   "name": "Redmi Note 10S",
+   "model": "M2101K7BL"
+  },
+  {
+   "device": "rosemary",
+   "name": "Redmi Note 10S",
+   "model": "M2101K7BNY"
+  },
+  {
+   "device": "secret",
+   "name": "Redmi Note 10S",
+   "model": "M2101K7BG"
+  },
+  {
+   "device": "secret",
+   "name": "Redmi Note 10S",
+   "model": "M2101K7BI"
+  },
+  {
    "device": "lavender",
    "name": "Redmi Note 7",
    "model": "Redmi Note 7"
@@ -108448,6 +108468,11 @@
   }
  ],
  "SFR.fr": [
+  {
+   "device": "DV8555-SFR",
+   "name": "Connect TV de SFR",
+   "model": "Connect TV de SFR"
+  },
   {
    "device": "DV8219",
    "name": "DV8219_SFR",

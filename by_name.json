@@ -139885,6 +139885,28 @@
    "model": "M2101K6I"
   }
  ],
+ "Redmi Note 10S": [
+  {
+   "brand": "Redmi",
+   "device": "maltose",
+   "model": "M2101K7BL"
+  },
+  {
+   "brand": "Redmi",
+   "device": "rosemary",
+   "model": "M2101K7BNY"
+  },
+  {
+   "brand": "Redmi",
+   "device": "secret",
+   "model": "M2101K7BG"
+  },
+  {
+   "brand": "Redmi",
+   "device": "secret",
+   "model": "M2101K7BI"
+  }
+ ],
  "Redmi Note 7": [
   {
    "brand": "Redmi",
@@ -141150,6 +141172,13 @@
    "brand": "SFR",
    "device": "mobiwire_startrail3",
    "model": "StarTrail III"
+  }
+ ],
+ "Connect TV de SFR": [
+  {
+   "brand": "SFR.fr",
+   "device": "DV8555-SFR",
+   "model": "Connect TV de SFR"
   }
  ],
  "DV8219_SFR": [

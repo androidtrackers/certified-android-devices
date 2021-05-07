@@ -143031,6 +143031,34 @@
    "device": "sweetin"
   }
  ],
+ "M2101K7BL": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 10S",
+   "device": "maltose"
+  }
+ ],
+ "M2101K7BNY": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 10S",
+   "device": "rosemary"
+  }
+ ],
+ "M2101K7BG": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 10S",
+   "device": "secret"
+  }
+ ],
+ "M2101K7BI": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 10S",
+   "device": "secret"
+  }
+ ],
  "GINKGO": [
   {
    "brand": "Redmi",
@@ -144233,6 +144261,13 @@
    "brand": "SFR",
    "name": "Star Trail III",
    "device": "mobiwire_startrail3"
+  }
+ ],
+ "Connect TV de SFR": [
+  {
+   "brand": "SFR.fr",
+   "name": "Connect TV de SFR",
+   "device": "DV8555-SFR"
   }
  ],
  "DV8219_SFR": [
