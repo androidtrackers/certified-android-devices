@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-05-07
+Last sync is 2021-05-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -27416,6 +27416,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|CAMON 17|TECNO-CG6j|TECNO CG6j|
 |Tecno|CAMON 17 Pro|TECNO-CG8|TECNO CG8|
 |Tecno|CAMON 17P|TECNO-CG7|TECNO CG7|
+|Tecno|CAMON 17P|TECNO-CG7n|TECNO CG7n|
 |Tecno|CAMON C7|TECNO-C7|TECNO-C7|
 |Tecno|CAMON CM|TECNO-CA6|TECNO CA6|
 |Tecno|CAMON I Ace|TECNO-IN1|TECNO IN1|
@@ -27560,8 +27561,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|SPARK 6 Go|TECNO-KE5|TECNO KE5|
 |Tecno|SPARK 6 Go|TECNO-KE5k|TECNO KE5k|
 |Tecno|SPARK CM|TECNO-KA9|TECNO KA9|
-|Tecno|SPARK Go 2020|TECNO-KE5|TECNO KE5|
 |Tecno|SPARK Go 2020|TECNO-KE5S|TECNO KE5S|
+|Tecno|SPARK Go 2021(SPARK 6 Go)|TECNO-KE5|TECNO KE5|
 |Tecno|SPARK Go Plus|TECNO-BB4k|TECNO BB4k|
 |Tecno|SPARK Plus|TECNO-K9|TECNO K9|
 |Tecno|SPARK Pro|TECNO-K8|TECNO K8|
@@ -27606,6 +27607,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 5 Pro|TECNO-KD7|TECNO KD7|
 |Tecno|TECNO SPARK 7|TECNO-KF6|TECNO KF6|
 |Tecno|TECNO SPARK 7|TECNO-KF6h|TECNO KF6h|
+|Tecno|TECNO SPARK 7|TECNO-KF6i|TECNO KF6i|
 |Tecno|TECNO SPARK 7|TECNO-KF6j|TECNO KF6j|
 |Tecno|TECNO SPARK 7|TECNO-KF6k|TECNO KF6k|
 |Tecno|TECNO SPARK 7|TECNO-KF6m|TECNO KF6m|

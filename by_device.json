@@ -179202,6 +179202,13 @@
    "model": "TECNO CG7"
   }
  ],
+ "TECNO-CG7n": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 17P",
+   "model": "TECNO CG7n"
+  }
+ ],
  "TECNO-CA6": [
   {
    "brand": "Tecno",
@@ -180157,7 +180164,7 @@
   },
   {
    "brand": "Tecno",
-   "name": "SPARK Go 2020",
+   "name": "SPARK Go 2021(SPARK 6 Go)",
    "model": "TECNO KE5"
   }
  ],
@@ -180433,6 +180440,13 @@
    "brand": "Tecno",
    "name": "TECNO SPARK 7",
    "model": "TECNO KF6h"
+  }
+ ],
+ "TECNO-KF6i": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 7",
+   "model": "TECNO KF6i"
   }
  ],
  "TECNO-KF6j": [
