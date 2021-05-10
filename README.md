@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-05-09
+Last sync is 2021-05-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5322,6 +5322,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ECS|TR10RS1|TR10RS1_19|TR10RS1|
 |ECS|TR10RS1|TR10RS1_2|TR10RS1|
 |ECS|TU10MK|TU10MK_3|TU10MK|
+|EDENWOOD|EDENWOOD|bangbae|EDENWOOD 4K Android TV|
 |EDENWOOD|EDENWOOD|komagome|EDENWOOD 2K Android TV|
 |EGOTEK|Mars8|Mars8|Mars8|
 |EGOTEK|Penguin|Penguin|Penguin|

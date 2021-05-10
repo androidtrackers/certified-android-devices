@@ -45261,6 +45261,11 @@
  "EDENWOOD": [
   {
    "brand": "EDENWOOD",
+   "device": "bangbae",
+   "model": "EDENWOOD 4K Android TV"
+  },
+  {
+   "brand": "EDENWOOD",
    "device": "komagome",
    "model": "EDENWOOD 2K Android TV"
   }
