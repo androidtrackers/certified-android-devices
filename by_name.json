@@ -6057,6 +6057,13 @@
    "model": "Ai-ES1059"
   }
  ],
+ "BUZZ 3": [
+  {
+   "brand": "ACE (Global)",
+   "device": "BUZZ_3",
+   "model": "BUZZ 3"
+  }
+ ],
  "URBAN 3": [
   {
    "brand": "ACE (Global)",
@@ -21454,6 +21461,13 @@
    "model": "PlatinumTAB10_4G_V3"
   }
  ],
+ "G6SG": [
+  {
+   "brand": "BLUE",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  }
+ ],
  "M1867G": [
   {
    "brand": "BLUEING",
@@ -24815,6 +24829,11 @@
    "model": "T8"
   },
   {
+   "brand": "FOXXD",
+   "device": "T8",
+   "model": "T8"
+  },
+  {
    "brand": "Leagoo",
    "device": "T8",
    "model": "T8"
@@ -26641,6 +26660,13 @@
    "brand": "Blaupunkt",
    "device": "JFK",
    "model": "B-STREAM"
+  }
+ ],
+ "B5000": [
+  {
+   "brand": "Blaupunkt",
+   "device": "ikebukuro",
+   "model": "AI PONT"
   }
  ],
  "BATV10": [
@@ -29760,6 +29786,13 @@
    "model": "AI PONT"
   }
  ],
+ "H7000": [
+  {
+   "brand": "Bravis",
+   "device": "samseong",
+   "model": "AI PONT"
+  }
+ ],
  "M9": [
   {
    "brand": "Bravis",
@@ -30942,6 +30975,18 @@
    "brand": "CORN",
    "device": "Star8_3G",
    "model": "Star8_3G"
+  }
+ ],
+ "X60": [
+  {
+   "brand": "CORN",
+   "device": "X60",
+   "model": "X60"
+  },
+  {
+   "brand": "Doogee",
+   "device": "X60",
+   "model": "X60"
   }
  ],
  "TV Box": [
@@ -41906,6 +41951,11 @@
    "brand": "Hyundai",
    "device": "yeongdeungpo",
    "model": "HYUNDAI 4K Android TV"
+  },
+  {
+   "brand": "Zephir",
+   "device": "yeongdeungpo",
+   "model": "Zephir UHD Android TV"
   }
  ],
  "Deluxe": [
@@ -43711,13 +43761,6 @@
    "brand": "Doogee",
    "device": "X53",
    "model": "X53"
-  }
- ],
- "X60": [
-  {
-   "brand": "Doogee",
-   "device": "X60",
-   "model": "X60"
   }
  ],
  "X60L": [
@@ -64897,6 +64940,13 @@
    "model": "HITV102C"
   }
  ],
+ "E23": [
+  {
+   "brand": "Hisense",
+   "device": "HITV103C",
+   "model": "HITV103C"
+  }
+ ],
  "E2371CH": [
   {
    "brand": "Hisense",
@@ -66122,6 +66172,13 @@
    "model": "Hisense Infinity E30"
   }
  ],
+ "Hisense E31 Lite": [
+  {
+   "brand": "Hisense",
+   "device": "HLTE105E",
+   "model": "Hisense E31 Lite"
+  }
+ ],
  "Hisense E40": [
   {
    "brand": "Hisense",
@@ -66433,6 +66490,11 @@
    "brand": "Hisense",
    "device": "HLTE233E",
    "model": "Hisense Infinity H50 Lite"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HLTE233E_01",
+   "model": "Hisense Infinity H50 Lite"
   }
  ],
  "Hisense Infinity H50 ZOOM": [
@@ -66526,6 +66588,13 @@
    "brand": "Hisense",
    "device": "SC9832E",
    "model": "Hisense U40"
+  }
+ ],
+ "Hisense U50": [
+  {
+   "brand": "Hisense",
+   "device": "HLTE233E_10",
+   "model": "Hisense H50 Lite"
   }
  ],
  "Hisense U605": [
@@ -66631,6 +66700,13 @@
    "brand": "Hisense",
    "device": "HLTE229E_14",
    "model": "Hisense V40"
+  }
+ ],
+ "Hisense V50": [
+  {
+   "brand": "Hisense",
+   "device": "HLTE233E_11",
+   "model": "Hisense V50"
   }
  ],
  "I300T": [
@@ -90708,6 +90784,18 @@
    "model": "LGUS110"
   }
  ],
+ "K32": [
+  {
+   "brand": "LGE",
+   "device": "dh0lm",
+   "model": "LM-K200"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "K32c36",
+   "model": "Lenovo K32c36"
+  }
+ ],
  "K4 (2017)": [
   {
    "brand": "LGE",
@@ -101336,13 +101424,6 @@
    "model": "Lenovo K30-W"
   }
  ],
- "K32": [
-  {
-   "brand": "Lenovo",
-   "device": "K32c36",
-   "model": "Lenovo K32c36"
-  }
- ],
  "K32c30": [
   {
    "brand": "Lenovo",
@@ -103805,6 +103886,13 @@
    "brand": "Lenovo",
    "device": "moba",
    "model": "Lenovo L79031"
+  }
+ ],
+ "联想平板电脑K10 5G": [
+  {
+   "brand": "Lenovo",
+   "device": "TB-X607Z",
+   "model": "Lenovo TB-X607Z"
   }
  ],
  "LEOTEC": [
@@ -130334,6 +130422,13 @@
    "model": "Hit P10"
   }
  ],
+ "Hit P12": [
+  {
+   "brand": "Philco",
+   "device": "Hit_P12",
+   "model": "Hit P12"
+  }
+ ],
  "Hit P6": [
   {
    "brand": "Philco",
@@ -138998,6 +139093,20 @@
    "model": "RMX2186"
   }
  ],
+ "realme C11  2021": [
+  {
+   "brand": "Realme",
+   "device": "RMX3231",
+   "model": "RMX3231"
+  }
+ ],
+ "realme C11 2021": [
+  {
+   "brand": "Realme",
+   "device": "RMX3231",
+   "model": "RMX3231"
+  }
+ ],
  "realme C12": [
   {
    "brand": "Realme",
@@ -139051,6 +139160,11 @@
    "brand": "Realme",
    "device": "RMX3201",
    "model": "RMX3201"
+  },
+  {
+   "brand": "Realme",
+   "device": "RMX3203L1",
+   "model": "RMX3203"
   }
  ],
  "realme C25": [
@@ -139058,6 +139172,11 @@
    "brand": "Realme",
    "device": "RMX3191",
    "model": "RMX3191"
+  },
+  {
+   "brand": "Realme",
+   "device": "RMX3193",
+   "model": "RMX3193"
   }
  ],
  "realme C3": [
@@ -139087,6 +139206,13 @@
    "brand": "Realme",
    "device": "RMX2027",
    "model": "RMX2027"
+  }
+ ],
+ "realme GT": [
+  {
+   "brand": "Realme",
+   "device": "RMX2202L1",
+   "model": "RMX2202"
   }
  ],
  "realme Narzo 20": [
@@ -139143,6 +139269,11 @@
    "brand": "Realme",
    "device": "RMX3121CN",
    "model": "RMX3121"
+  },
+  {
+   "brand": "Realme",
+   "device": "RMX3122CN",
+   "model": "RMX3122"
   }
  ],
  "realme V15 5G": [
@@ -139361,6 +139492,27 @@
    "brand": "Realme",
    "device": "RE50C1",
    "model": "RMX2104"
+  }
+ ],
+ "真我 Q3 5G": [
+  {
+   "brand": "Realme",
+   "device": "RMX3161CN",
+   "model": "RMX3161"
+  }
+ ],
+ "真我 Q3 Pro 5G": [
+  {
+   "brand": "Realme",
+   "device": "RMX2205CN",
+   "model": "RMX2205"
+  }
+ ],
+ "真我 X7 pro至尊版": [
+  {
+   "brand": "Realme",
+   "device": "RMX3116CN",
+   "model": "RMX3116"
   }
  ],
  "真我GT": [
@@ -165045,6 +165197,13 @@
    "model": "Spark Plus 3"
   }
  ],
+ "Spectra_Geospatial": [
+  {
+   "brand": "Spectra Geospatial",
+   "device": "MM60_2",
+   "model": "MobileMapper60_2"
+  }
+ ],
  "Ranger 5 Handheld": [
   {
    "brand": "SpectraPrecision",
@@ -180342,6 +180501,13 @@
    "model": "TDC600"
   }
  ],
+ "TDC600_2": [
+  {
+   "brand": "Trimble Navigation",
+   "device": "TDC600_2",
+   "model": "TDC600_2"
+  }
+ ],
  "TDC800 Handheld": [
   {
    "brand": "Trimble Navigation",
@@ -185504,6 +185670,13 @@
    "model": "I2009"
   }
  ],
+ "I2011": [
+  {
+   "brand": "Vivo",
+   "device": "2011",
+   "model": "I2011"
+  }
+ ],
  "I2012": [
   {
    "brand": "Vivo",
@@ -186253,6 +186426,18 @@
    "model": "V2049A"
   }
  ],
+ "V2050": [
+  {
+   "brand": "Vivo",
+   "device": "2050",
+   "model": "V2050"
+  },
+  {
+   "brand": "Vivo",
+   "device": "2050",
+   "model": "V2066"
+  }
+ ],
  "V2052": [
   {
    "brand": "Vivo",
@@ -186330,6 +186515,13 @@
    "model": "V2065A"
   }
  ],
+ "V2066": [
+  {
+   "brand": "Vivo",
+   "device": "2050",
+   "model": "V2066"
+  }
+ ],
  "V2066A": [
   {
    "brand": "Vivo",
@@ -186344,11 +186536,32 @@
    "model": "V2066BA"
   }
  ],
+ "V2068": [
+  {
+   "brand": "Vivo",
+   "device": "2034",
+   "model": "V2068"
+  }
+ ],
  "V2068A": [
   {
    "brand": "Vivo",
    "device": "PD2068",
    "model": "V2068A"
+  }
+ ],
+ "V2069": [
+  {
+   "brand": "Vivo",
+   "device": "2034",
+   "model": "V2069"
+  }
+ ],
+ "V2070": [
+  {
+   "brand": "Vivo",
+   "device": "2034",
+   "model": "V2070"
   }
  ],
  "V2072A": [
@@ -186384,6 +186597,20 @@
    "brand": "Vivo",
    "device": "PD2034D",
    "model": "V2099A"
+  }
+ ],
+ "V2101": [
+  {
+   "brand": "Vivo",
+   "device": "2034",
+   "model": "V2101"
+  }
+ ],
+ "V2102": [
+  {
+   "brand": "Vivo",
+   "device": "2034",
+   "model": "V2102"
   }
  ],
  "V2106A": [

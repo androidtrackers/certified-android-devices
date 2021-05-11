@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-05-10
+Last sync is 2021-05-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -36,6 +36,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |A1|A1 Smart N9|VFD720|VFD 720|
 |A1|ADT-3|adt3|ADT-3|
 |A1|Ai-ES1059|Ai-ES1059|Ai-ES1059|
+|ACE (Global)|BUZZ 3|BUZZ_3|BUZZ 3|
 |ACE (Global)|URBAN 3|URBAN_3|URBAN 3|
 |ACE France|AS0218|AS0218|BUZZ 1|
 |ACE France|AS0518|AS0518|URBAN 1 Pro|
@@ -2102,6 +2103,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BLOW|PlatinumTAB10_4G_V1|PlatinumTAB10_4G_V1|PlatinumTAB10_4G_V1|
 |BLOW|PlatinumTAB10_4G_V2|PlatinumTAB10_4G_V2|PlatinumTAB10_4G_V2|
 |BLOW|PlatinumTAB10_4G_V3|PlatinumTAB10_4G_V3|PlatinumTAB10_4G_V3|
+|BLUE|G6SG|ikebukuro|AI PONT|
 |BLUEING|M1867G|M1867G|M1867G|
 |BLUESTAR|B850J|B850J|B850J|
 |BLUEWORLD|TM12|TM12|TM12|
@@ -2786,6 +2788,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|Atlantis_A10_G403|Atlantis_A10_G403|Atlantis_A10_G403|
 |Blaupunkt|Australia|nippori|BP Android TV 2K|
 |Blaupunkt|B-STREAM|JFK|B-STREAM|
+|Blaupunkt|B5000|ikebukuro|AI PONT|
 |Blaupunkt|BATV10|ICN|BATV10|
 |Blaupunkt|BP_6008|BP_6008|BP_6008|
 |Blaupunkt|BP_6010|BP_6010|BP_6010|
@@ -3178,6 +3181,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bravis|A511 Harmony|A511_Harmony|A511 Harmony|
 |Bravis|A512 Harmony Pro|A512_Harmony_Pro|A512 Harmony Pro|
 |Bravis|G7H|ikebukuro|AI PONT|
+|Bravis|H7000|samseong|AI PONT|
 |Bravis|M9|M9|M9|
 |Bravis|N1-570 Space|N1-570-Space|N1-570 Space|
 |Bravis|N1_550_Cruiser|N1_550_Cruiser|N1_550_Cruiser|
@@ -3322,6 +3326,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CORN|Star7_3G|Star7_3G|Star7 3G|
 |CORN|Star8|Corn_Star8|CORN Star8|
 |CORN|Star8_3G|Star8_3G|Star8_3G|
+|CORN|X60|X60|X60|
 |COSMOTE TV|TV Box|HY44G|TV Box|
 |CP Plus|CP-MUD-M721|CP-MUD-M721|CP-MUD-M721|
 |CWOWDEFU|C10G|C10G|C10G|
@@ -5904,6 +5909,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FIREFLY MOBILE|VIVID_PRO|VIVID_PRO|VIVID_PRO|
 |FLEX MOBILE|S9|S9|S9|
 |FOXXD|MIRO|L590A|L590A|
+|FOXXD|T8|T8|T8|
 |FPT Telecom|FPT ATV Play Box|DV8236|FPT ATV Play Box|
 |FPT Telecom|FPT Play Box +|DV8536-KVF|FPT Play Box +|
 |FPT Telecom|SEI500FPT|SEI500FPT|FPT Play Box +|
@@ -8280,6 +8286,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|E2070|mt8312|E2070|
 |Hisense|E20T|HS8952QC|Hisense E20T|
 |Hisense|E22|HITV102C|HITV102C|
+|Hisense|E23|HITV103C|HITV103C|
 |Hisense|E2371CH|rk3026|E2371CH|
 |Hisense|E260T|E260T|HS-E260T|
 |Hisense|E260U|E260U|Hisense E260U|
@@ -8475,6 +8482,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense E30|HS6763MT|HLTE220E|
 |Hisense|Hisense E30|HS6763MT|Hisense E30|
 |Hisense|Hisense E30|HS6763MT|Hisense Infinity E30|
+|Hisense|Hisense E31 Lite|HLTE105E|Hisense E31 Lite|
 |Hisense|Hisense E40|HLTE229E|HLTE229E|
 |Hisense|Hisense E40|HLTE229E|Hisense E40|
 |Hisense|Hisense E40|HLTE229E_10|HLTE229E|
@@ -8528,6 +8536,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense Infinity H50|HLTE322E|Hisense H50|
 |Hisense|Hisense Infinity H50|HLTE322E|Hisense Infinity H50|
 |Hisense|Hisense Infinity H50 Lite|HLTE233E|Hisense Infinity H50 Lite|
+|Hisense|Hisense Infinity H50 Lite|HLTE233E_01|Hisense Infinity H50 Lite|
 |Hisense|Hisense Infinity H50 ZOOM|HLTE234E|Hisense Infinity H50 ZOOM|
 |Hisense|Hisense M36|HS8909QC|Hisense M36|
 |Hisense|Hisense P1|HS8953QC|Hisense P1|
@@ -8543,6 +8552,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U40|HLTE103E_32|Hisense U40|
 |Hisense|Hisense U40|HLTE103E_33|Hisense U40|
 |Hisense|Hisense U40|SC9832E|Hisense U40|
+|Hisense|Hisense U50|HLTE233E_10|Hisense H50 Lite|
 |Hisense|Hisense U605|HS7731ESP|Hisense U30|
 |Hisense|Hisense U605|HS7731ESP|Hisense U50|
 |Hisense|Hisense U605|HS7731ESP|Hisense U605|
@@ -8562,6 +8572,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U965|HS6580MT|Hisense U965|
 |Hisense|Hisense V40|HLTE229E_13|Hisense V40|
 |Hisense|Hisense V40|HLTE229E_14|Hisense V40|
+|Hisense|Hisense V50|HLTE233E_11|Hisense V50|
 |Hisense|I300T|I300T|Hisense I300T|
 |Hisense|I56D2G|HS8929QC|Andromax I56D2G|
 |Hisense|I630U|I630U|Hisense I630U|
@@ -12804,6 +12815,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|K3 2017|lv0|LG-AS110|
 |LGE|K3 2017|lv0|LGUS110|
 |LGE|K30|mh5lm-8m|LM-X320|
+|LGE|K32|dh0lm|LM-K200|
 |LGE|K4|lv1|LG-M151|
 |LGE|K4 (2017)|lv1|LGL157BL|
 |LGE|K4 (2017)|lv1|LGL57BL|
@@ -15081,6 +15093,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|小新平板|TB-8804F|Lenovo TB-8804F|
 |Lenovo|小新平板|X804F|Lenovo TB-X804F|
 |Lenovo|拯救者电竞手机|moba|Lenovo L79031|
+|Lenovo|联想平板电脑K10 5G|TB-X607Z|Lenovo TB-X607Z|
 |Leotec|LEOTEC|LETAB731|LETAB731|
 |Leotec|Letab1020|Letab1020|SUPERNOVA Qi32|
 |Leotec|Qi216|Qi216|Qi216|
@@ -19406,6 +19419,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Performance|PR7RKTNF|PR7RKTNF|PR7RKTNF|
 |Perseo TV|Perseo TV Home 2nd Generation Ranger|DV8219|Perseo TV Home 2nd Generation Ranger|
 |Philco|Hit P10|Hit_P10|Hit P10|
+|Philco|Hit P12|Hit_P12|Hit P12|
 |Philco|Hit P6|Hit_P6|Hit P6|
 |Philco|PCS01|PCS01|PCS01|
 |Philco|PCS02|PCS02|PCS02|
@@ -20758,6 +20772,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme 8 Pro|RMX3081L1|RMX3081|
 |Realme|realme C11|RMX2185|RMX2185|
 |Realme|realme C11|RMX2186|RMX2186|
+|Realme|realme C11  2021|RMX3231|RMX3231|
+|Realme|realme C11 2021|RMX3231|RMX3231|
 |Realme|realme C12|RMX2184|RMX2184|
 |Realme|realme C12|RMX2189|RMX2189|
 |Realme|realme C15|RMX2180|RMX2180|
@@ -20768,12 +20784,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme C17|RE50BF|RMX2101|
 |Realme|realme C2|RMX1946|RMX1946|
 |Realme|realme C21|RMX3201|RMX3201|
+|Realme|realme C21|RMX3203L1|RMX3203|
 |Realme|realme C25|RMX3191|RMX3191|
+|Realme|realme C25|RMX3193|RMX3193|
 |Realme|realme C3|RMX2020|RMX2020|
 |Realme|realme C3|RMX2021|RMX2021|
 |Realme|realme C3|RMX2022|RMX2022|
 |Realme|realme C3|RMX2027|RMX2027|
 |Realme|realme C3i|RMX2027|RMX2027|
+|Realme|realme GT|RMX2202L1|RMX2202|
 |Realme|realme Narzo 20|RMX2193|RMX2193|
 |Realme|realme Narzo 30 Pro 5G|RMX2117L1|RMX2117|
 |Realme|realme Q|RMX1971CN|RMX1971|
@@ -20782,6 +20801,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme TV|ikebukuro|AI PONT|
 |Realme|realme TV 32|ikebukuro|AI PONT|
 |Realme|realme V11 5G|RMX3121CN|RMX3121|
+|Realme|realme V11 5G|RMX3122CN|RMX3122|
 |Realme|realme V15 5G|RMX3092CN|RMX3092|
 |Realme|realme V15 5G|RMX3093CN|RMX3093|
 |Realme|realme V3  5G|RMX2200CN|RMX2200|
@@ -20819,6 +20839,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme  X7 Pro|RMX2121CN|RMX2121|
 |Realme|realme 7i|RE50C1|RMX2103|
 |Realme|realme 7i|RE50C1|RMX2104|
+|Realme|真我 Q3 5G|RMX3161CN|RMX3161|
+|Realme|真我 Q3 Pro 5G|RMX2205CN|RMX2205|
+|Realme|真我 X7 pro至尊版|RMX3116CN|RMX3116|
 |Realme|真我GT|RMX2202CN|RMX2202|
 |Realme|真我GT Neo|RMX3031CN|RMX3031|
 |Realme|真我V13 5G|RE5081|RMX3041|
@@ -25312,6 +25335,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SoyMomo|SoyMomo_Pro_V2|SoyMomo_Pro_V2|SoyMomo_Pro_V2|
 |Spark|Spark_Plus_3|Spark_Plus_3|Spark Plus 3|
 |Spectra Geospatial|Ranger 5|bcat|RGR5|
+|Spectra Geospatial|Spectra_Geospatial|MM60_2|MobileMapper60_2|
 |SpectraPrecision|Ranger 5 Handheld|workhorse_wifi|Ranger5|
 |SpectraPrecision|Ranger 8 Handheld|pelican|Ranger8|
 |SpectraPrecision|Ranger 8 Handheld|pelican_wifi|Ranger8|
@@ -27990,6 +28014,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Trimble Navigation|TDC500 Handheld|workhorse_wifi|TDC500|
 |Trimble Navigation|TDC600/MM60|E7167|MobileMapper60|
 |Trimble Navigation|TDC600/MM60|E7167|TDC600|
+|Trimble Navigation|TDC600_2|TDC600_2|TDC600_2|
 |Trimble Navigation|TDC800 Handheld|pelican|TDC800|
 |Trimble Navigation|TDC800 Handheld|pelican_wifi|TDC800|
 |Trimble Navigation|TDI 600|ulmo_pro|Rugged Tablet|
@@ -28833,6 +28858,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|I1927|I1928|I1927|
 |Vivo|I1928|I1928|I1928|
 |Vivo|I2009|2009|I2009|
+|Vivo|I2011|2011|I2011|
 |Vivo|I2012|2012|I2012|
 |Vivo|NEX A|PD1806B|vivo NEX A|
 |Vivo|PD1304DL|PD1304DL|vivo Y13iL|
@@ -28944,6 +28970,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2048|2026|V2048|
 |Vivo|V2048A|PD2048|V2048A|
 |Vivo|V2049A|PD2049|V2049A|
+|Vivo|V2050|2050|V2050|
+|Vivo|V2050|2050|V2066|
 |Vivo|V2052|2034|V2052|
 |Vivo|V2054|2034|V2054|
 |Vivo|V2054A|PD2054|V2054A|
@@ -28955,14 +28983,20 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2061A|PD2061|V2061A|
 |Vivo|V2065|2026|V2065|
 |Vivo|V2065A|PD2065|V2065A|
+|Vivo|V2066|2050|V2066|
 |Vivo|V2066A|PD2066|V2066A|
 |Vivo|V2066BA|PD2066B|V2066BA|
+|Vivo|V2068|2034|V2068|
 |Vivo|V2068A|PD2068|V2068A|
+|Vivo|V2069|2034|V2069|
+|Vivo|V2070|2034|V2070|
 |Vivo|V2072A|PD2072|V2072A|
 |Vivo|V2073A|PD2073|V2073A|
 |Vivo|V2080A|PD2080|V2080A|
 |Vivo|V2085A|PD2085|V2085A|
 |Vivo|V2099A|PD2034D|V2099A|
+|Vivo|V2101|2034|V2101|
+|Vivo|V2102|2034|V2102|
 |Vivo|V2106A|PD2106|V2106A|
 |Vivo|V2106A|PD2106B|V2106A|
 |Vivo|V2108|2061|V2061|
@@ -31920,6 +31954,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zen|Zen Admire Swadesh+|ADMIRE_SWADESH_PLUS|ADMIRE SWADESH+|
 |Zen|Zen Cinemax Prime|ZEN_CINEMAX_PRIME|CINEMAX_PRIME|
 |Zen|Zen M72 Smart|M72_Smart|M72 Smart|
+|Zephir|Italy|yeongdeungpo|Zephir UHD Android TV|
 |Zephir|Zephir|bangbae|Zephir 4K Android TV|
 |Zephir|Zephir|komagome|Zephir 2K Android TV|
 |Zephir|Zephir 2K android TV|nippori|ZEPHIR Android TV 2K|
