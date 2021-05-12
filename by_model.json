@@ -24571,6 +24571,11 @@
   },
   {
    "brand": "Smart-Tech TV",
+   "name": "Germany",
+   "device": "yeongdeungpo"
+  },
+  {
+   "brand": "Smart-Tech TV",
    "name": "SmartTech",
    "device": "yeongdeungpo"
   }
@@ -31863,6 +31868,13 @@
    "device": "C-five-WIFI"
   }
  ],
+ "access": [
+  {
+   "brand": "Coppernic",
+   "name": "TN502A1",
+   "device": "access"
+  }
+ ],
  "CRTB7001": [
   {
    "brand": "Core Innovations",
@@ -32596,6 +32608,28 @@
    "brand": "LiteTEL",
    "name": "X30",
    "device": "X30"
+  }
+ ],
+ "X50": [
+  {
+   "brand": "Cubot",
+   "name": "X50",
+   "device": "X50"
+  },
+  {
+   "brand": "Doogee",
+   "name": "X50",
+   "device": "X50"
+  },
+  {
+   "brand": "Lava",
+   "name": "X50",
+   "device": "X50"
+  },
+  {
+   "brand": "Winmax",
+   "name": "X50",
+   "device": "X50"
   }
  ],
  "Ares": [
@@ -37733,23 +37767,6 @@
    "brand": "Doogee",
    "name": "X5 max pro",
    "device": "X5max_PRO"
-  }
- ],
- "X50": [
-  {
-   "brand": "Doogee",
-   "name": "X50",
-   "device": "X50"
-  },
-  {
-   "brand": "Lava",
-   "name": "X50",
-   "device": "X50"
-  },
-  {
-   "brand": "Winmax",
-   "name": "X50",
-   "device": "X50"
   }
  ],
  "X50L": [
@@ -82894,6 +82911,13 @@
    "device": "TPC-G1010_EEA"
   }
  ],
+ "TPC-G1011LTE": [
+  {
+   "brand": "JAY-TECH",
+   "name": "TPC-G1011LTE",
+   "device": "TPC-G1011LTE"
+  }
+ ],
  "TPC-G109": [
   {
    "brand": "JAY-TECH",
@@ -103346,6 +103370,13 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab K10",
    "device": "X6C6F"
+  }
+ ],
+ "Lenovo TB-X6C6L": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab K10",
+   "device": "X6C6L"
   }
  ],
  "Lenovo TB-X6C6X": [
@@ -147194,6 +147225,13 @@
    "device": "a21s"
   }
  ],
+ "SM-A226B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A22s 5G",
+   "device": "a22x"
+  }
+ ],
  "SM-A300H": [
   {
    "brand": "Samsung",
@@ -168247,6 +168285,18 @@
    "brand": "SkyLife",
    "name": "skylife LTE TV",
    "device": "DMTS17SS"
+  }
+ ],
+ "SKYVIEW Android TV": [
+  {
+   "brand": "Skyview",
+   "name": "KENYA",
+   "device": "tamachi"
+  },
+  {
+   "brand": "Skyview",
+   "name": "KENYA",
+   "device": "yeongdeungpo"
   }
  ],
  "globe": [
@@ -191030,13 +191080,6 @@
    "brand": "Turbonet",
    "name": "TN502A1",
    "device": "TN502A1"
-  }
- ],
- "access": [
-  {
-   "brand": "Turbonet",
-   "name": "TN502A1",
-   "device": "access"
   }
  ],
  "TN800A1": [
@@ -215926,6 +215969,13 @@
    "brand": "Zen",
    "name": "Zen M72 Smart",
    "device": "M72_Smart"
+  }
+ ],
+ "Zephir FHD Android TV": [
+  {
+   "brand": "Zephir",
+   "name": "Italy",
+   "device": "tamachi"
   }
  ],
  "Zephir UHD Android TV": [

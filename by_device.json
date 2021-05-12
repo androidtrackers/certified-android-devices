@@ -1750,6 +1750,11 @@
    "model": "Qilive FHD Android TV"
   },
   {
+   "brand": "Skyview",
+   "name": "KENYA",
+   "model": "SKYVIEW Android TV"
+  },
+  {
    "brand": "Smart-Tech TV",
    "name": "France",
    "model": "AiPlus2K"
@@ -1778,6 +1783,11 @@
    "brand": "Vision",
    "name": "Bangladesh",
    "model": "Vision FHD Android TV"
+  },
+  {
+   "brand": "Zephir",
+   "name": "Italy",
+   "model": "Zephir FHD Android TV"
   }
  ],
  "yeongdeungpo": [
@@ -1919,6 +1929,16 @@
   {
    "brand": "Sansui TV",
    "name": "USA",
+   "model": "AiPlus4K"
+  },
+  {
+   "brand": "Skyview",
+   "name": "KENYA",
+   "model": "SKYVIEW Android TV"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "name": "Germany",
    "model": "AiPlus4K"
   },
   {
@@ -33336,6 +33356,13 @@
    "model": "C-One"
   }
  ],
+ "access": [
+  {
+   "brand": "Coppernic",
+   "name": "TN502A1",
+   "model": "access"
+  }
+ ],
  "CRTB7001": [
   {
    "brand": "Core Innovations",
@@ -34456,6 +34483,28 @@
    "brand": "LiteTEL",
    "name": "X30",
    "model": "X30"
+  }
+ ],
+ "X50": [
+  {
+   "brand": "Cubot",
+   "name": "X50",
+   "model": "X50"
+  },
+  {
+   "brand": "Doogee",
+   "name": "X50",
+   "model": "X50"
+  },
+  {
+   "brand": "Lava",
+   "name": "X50",
+   "model": "X50"
+  },
+  {
+   "brand": "Winmax",
+   "name": "X50",
+   "model": "X50"
   }
  ],
  "Ares": [
@@ -39712,23 +39761,6 @@
    "brand": "Doogee",
    "name": "X5 max pro",
    "model": "X5max_PRO"
-  }
- ],
- "X50": [
-  {
-   "brand": "Doogee",
-   "name": "X50",
-   "model": "X50"
-  },
-  {
-   "brand": "Lava",
-   "name": "X50",
-   "model": "X50"
-  },
-  {
-   "brand": "Winmax",
-   "name": "X50",
-   "model": "X50"
   }
  ],
  "X50L": [
@@ -81537,6 +81569,13 @@
    "model": "TPC-G1010"
   }
  ],
+ "TPC-G1011LTE": [
+  {
+   "brand": "JAY-TECH",
+   "name": "TPC-G1011LTE",
+   "model": "TPC-G1011LTE"
+  }
+ ],
  "TPC-G109": [
   {
    "brand": "JAY-TECH",
@@ -100542,6 +100581,13 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab K10",
    "model": "Lenovo TB-X6C6F"
+  }
+ ],
+ "X6C6L": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab K10",
+   "model": "Lenovo TB-X6C6L"
   }
  ],
  "X6C6X": [
@@ -143294,6 +143340,13 @@
    "model": "SM-A217N"
   }
  ],
+ "a22x": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A22s 5G",
+   "model": "SM-A226B"
+  }
+ ],
  "a33g": [
   {
    "brand": "Samsung",
@@ -183307,13 +183360,6 @@
    "brand": "Turbonet",
    "name": "TN502A1",
    "model": "TN502A1"
-  }
- ],
- "access": [
-  {
-   "brand": "Turbonet",
-   "name": "TN502A1",
-   "model": "access"
   }
  ],
  "TN800A1": [

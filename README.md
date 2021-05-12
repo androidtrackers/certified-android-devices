@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-05-11
+Last sync is 2021-05-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4288,6 +4288,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Coppernic|C-five|C-five|C-five|
 |Coppernic|C-five|C-five-WIFI|C-five|
 |Coppernic|C-one|C-One_v2_e-ID|C-One|
+|Coppernic|TN502A1|access|access|
 |Core Innovations|CRTB7001|CRTB7001|CRTB7001|
 |Core Innovations|CTB1016G|CTB1016G|CTB1016G|
 |Covia|CP-G3|CP-G3|CP-G3|
@@ -4386,6 +4387,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|X20|X20|X20|
 |Cubot|X20_PRO|X20_PRO|X20 PRO|
 |Cubot|X30|X30|X30|
+|Cubot|X50|X50|X50|
 |Custom|Ares|Ares|Ares|
 |Custom|K-Ranger|K-Ranger|K-Ranger|
 |Custom|K-Ranger|K-Ranger|K-Ranger_ROW|
@@ -11784,6 +11786,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |J:COM|XA401|XA401|XA401|
 |J:COM|XA402|XA402|XA402|
 |JAY-TECH|TPC-G1010|TPC-G1010_EEA|TPC-G1010|
+|JAY-TECH|TPC-G1011LTE|TPC-G1011LTE|TPC-G1011LTE|
 |JAY-TECH|TPC-G109_EEA|TPC-G109|TPC-G109|
 |JEEMAK|M70|M70|M70|
 |JEEMAK|M70E|M70E|M70E|
@@ -14834,6 +14837,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab E7|TB7104F|Lenovo TB-7104F|
 |Lenovo|Lenovo Tab E7|TB7104I|Lenovo TB-7104I|
 |Lenovo|Lenovo Tab K10|X6C6F|Lenovo TB-X6C6F|
+|Lenovo|Lenovo Tab K10|X6C6L|Lenovo TB-X6C6L|
 |Lenovo|Lenovo Tab K10|X6C6X|Lenovo TB-X6C6X|
 |Lenovo|Lenovo Tab K11|J606F|Lenovo TB-J606F|
 |Lenovo|Lenovo Tab K11|J606N|Lenovo TB-J606N|
@@ -21532,6 +21536,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A21s|a21s|SM-A217F|
 |Samsung|Galaxy A21s|a21s|SM-A217M|
 |Samsung|Galaxy A21s|a21s|SM-A217N|
+|Samsung|Galaxy A22s 5G|a22x|SM-A226B|
 |Samsung|Galaxy A3|a33g|SM-A300H|
 |Samsung|Galaxy A3|a3lte|SM-A300F|
 |Samsung|Galaxy A3|a3lte|SM-A300M|
@@ -24627,6 +24632,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SkyLife|UHD2|IC1110|IC1110|
 |SkyLife|UHD_S56AT|INTEKS19SS|UHD_S56AT|
 |SkyLife|skylife LTE TV|DMTS17SS|DMT_1621|
+|Skyview|KENYA|tamachi|SKYVIEW Android TV|
+|Skyview|KENYA|yeongdeungpo|SKYVIEW Android TV|
 |Skyview|M5|M5|M5|
 |Skyworth|APAC 2K TV|shibuya|SWTV|
 |Skyworth|Asia|globe_ap|globe|
@@ -24667,6 +24674,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smart (BD)|MQ703G_1|MQ703G_1|MQ703G_1|
 |Smart (BD)|SQ811G|SQ811G|SQ811G|
 |Smart-Tech TV|France|tamachi|AiPlus2K|
+|Smart-Tech TV|Germany|yeongdeungpo|AiPlus4K|
 |Smart-Tech TV|SmartTech|yeongdeungpo|AiPlus4K|
 |SmartPad|SM181301|SM181301|SM181301|
 |SmartPad|Smartpad V7|Smartpad-V7|Smartpad-V7|
@@ -28073,7 +28081,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Turbonet|TN500A1|TN500A1|TN500A1|
 |Turbonet|TN500A2|TN500A2|TN500A2|
 |Turbonet|TN502A1|TN502A1|TN502A1|
-|Turbonet|TN502A1|access|access|
 |Turbonet|TurboTab E1|TN800A1|TN800A1|
 |Turbopad|Dream|Dream|Dream|
 |Turbopad|Mercury|Mercury|Mercury|
@@ -31954,6 +31961,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zen|Zen Admire Swadesh+|ADMIRE_SWADESH_PLUS|ADMIRE SWADESH+|
 |Zen|Zen Cinemax Prime|ZEN_CINEMAX_PRIME|CINEMAX_PRIME|
 |Zen|Zen M72 Smart|M72_Smart|M72 Smart|
+|Zephir|Italy|tamachi|Zephir FHD Android TV|
 |Zephir|Italy|yeongdeungpo|Zephir UHD Android TV|
 |Zephir|Zephir|bangbae|Zephir 4K Android TV|
 |Zephir|Zephir|komagome|Zephir 2K Android TV|

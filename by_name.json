@@ -37838,6 +37838,18 @@
    "model": "C-One"
   }
  ],
+ "TN502A1": [
+  {
+   "brand": "Coppernic",
+   "device": "access",
+   "model": "access"
+  },
+  {
+   "brand": "Turbonet",
+   "device": "TN502A1",
+   "model": "TN502A1"
+  }
+ ],
  "CRTB7001": [
   {
    "brand": "Core Innovations",
@@ -38607,6 +38619,43 @@
    "brand": "LiteTEL",
    "device": "X30",
    "model": "X30"
+  }
+ ],
+ "X50": [
+  {
+   "brand": "Cubot",
+   "device": "X50",
+   "model": "X50"
+  },
+  {
+   "brand": "Doogee",
+   "device": "X50",
+   "model": "X50"
+  },
+  {
+   "brand": "FPT Trading",
+   "device": "FPT_X50",
+   "model": "FPT X50"
+  },
+  {
+   "brand": "Lava",
+   "device": "X50",
+   "model": "X50"
+  },
+  {
+   "brand": "Logic Mobility",
+   "device": "LOGIC_X50",
+   "model": "LOGIC X50"
+  },
+  {
+   "brand": "Vivo",
+   "device": "2004",
+   "model": "vivo 2004"
+  },
+  {
+   "brand": "Winmax",
+   "device": "X50",
+   "model": "X50"
   }
  ],
  "Ares": [
@@ -41954,6 +42003,11 @@
   },
   {
    "brand": "Zephir",
+   "device": "tamachi",
+   "model": "Zephir FHD Android TV"
+  },
+  {
+   "brand": "Zephir",
    "device": "yeongdeungpo",
    "model": "Zephir UHD Android TV"
   }
@@ -43715,38 +43769,6 @@
    "brand": "Doogee",
    "device": "X5max_PRO",
    "model": "X5max_PRO"
-  }
- ],
- "X50": [
-  {
-   "brand": "Doogee",
-   "device": "X50",
-   "model": "X50"
-  },
-  {
-   "brand": "FPT Trading",
-   "device": "FPT_X50",
-   "model": "FPT X50"
-  },
-  {
-   "brand": "Lava",
-   "device": "X50",
-   "model": "X50"
-  },
-  {
-   "brand": "Logic Mobility",
-   "device": "LOGIC_X50",
-   "model": "LOGIC X50"
-  },
-  {
-   "brand": "Vivo",
-   "device": "2004",
-   "model": "vivo 2004"
-  },
-  {
-   "brand": "Winmax",
-   "device": "X50",
-   "model": "X50"
   }
  ],
  "X50L": [
@@ -84909,6 +84931,13 @@
    "model": "TPC-G1010"
   }
  ],
+ "TPC-G1011LTE": [
+  {
+   "brand": "JAY-TECH",
+   "device": "TPC-G1011LTE",
+   "model": "TPC-G1011LTE"
+  }
+ ],
  "TPC-G109_EEA": [
   {
    "brand": "JAY-TECH",
@@ -102392,6 +102421,11 @@
    "brand": "Lenovo",
    "device": "X6C6F",
    "model": "Lenovo TB-X6C6F"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "X6C6L",
+   "model": "Lenovo TB-X6C6L"
   },
   {
    "brand": "Lenovo",
@@ -143579,6 +143613,13 @@
    "model": "SM-A217N"
   }
  ],
+ "Galaxy A22s 5G": [
+  {
+   "brand": "Samsung",
+   "device": "a22x",
+   "model": "SM-A226B"
+  }
+ ],
  "Galaxy A3": [
   {
    "brand": "Samsung",
@@ -161176,6 +161217,18 @@
    "model": "DMT_1621"
   }
  ],
+ "KENYA": [
+  {
+   "brand": "Skyview",
+   "device": "tamachi",
+   "model": "SKYVIEW Android TV"
+  },
+  {
+   "brand": "Skyview",
+   "device": "yeongdeungpo",
+   "model": "SKYVIEW Android TV"
+  }
+ ],
  "APAC 2K TV": [
   {
    "brand": "Skyworth",
@@ -161392,6 +161445,13 @@
    "brand": "Smart (BD)",
    "device": "SQ811G",
    "model": "SQ811G"
+  }
+ ],
+ "Germany": [
+  {
+   "brand": "Smart-Tech TV",
+   "device": "yeongdeungpo",
+   "model": "AiPlus4K"
   }
  ],
  "SmartTech": [
@@ -180888,18 +180948,6 @@
    "brand": "Turbonet",
    "device": "TN500A2",
    "model": "TN500A2"
-  }
- ],
- "TN502A1": [
-  {
-   "brand": "Turbonet",
-   "device": "TN502A1",
-   "model": "TN502A1"
-  },
-  {
-   "brand": "Turbonet",
-   "device": "access",
-   "model": "access"
   }
  ],
  "TurboTab E1": [

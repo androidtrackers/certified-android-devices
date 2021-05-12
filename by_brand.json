@@ -22170,6 +22170,11 @@
    "device": "C-One_v2_e-ID",
    "name": "C-one",
    "model": "C-One"
+  },
+  {
+   "device": "access",
+   "name": "TN502A1",
+   "model": "access"
   }
  ],
  "Core Innovations": [
@@ -22686,6 +22691,11 @@
    "device": "X30",
    "name": "X30",
    "model": "X30"
+  },
+  {
+   "device": "X50",
+   "name": "X50",
+   "model": "X50"
   }
  ],
  "Custom": [
@@ -60604,6 +60614,11 @@
    "model": "TPC-G1010"
   },
   {
+   "device": "TPC-G1011LTE",
+   "name": "TPC-G1011LTE",
+   "model": "TPC-G1011LTE"
+  },
+  {
    "device": "TPC-G109",
    "name": "TPC-G109_EEA",
    "model": "TPC-G109"
@@ -76134,6 +76149,11 @@
    "device": "X6C6F",
    "name": "Lenovo Tab K10",
    "model": "Lenovo TB-X6C6F"
+  },
+  {
+   "device": "X6C6L",
+   "name": "Lenovo Tab K10",
+   "model": "Lenovo TB-X6C6L"
   },
   {
    "device": "X6C6X",
@@ -110684,6 +110704,11 @@
    "model": "SM-A217N"
   },
   {
+   "device": "a22x",
+   "name": "Galaxy A22s 5G",
+   "model": "SM-A226B"
+  },
+  {
    "device": "a33g",
    "name": "Galaxy A3",
    "model": "SM-A300H"
@@ -126259,6 +126284,16 @@
  ],
  "Skyview": [
   {
+   "device": "tamachi",
+   "name": "KENYA",
+   "model": "SKYVIEW Android TV"
+  },
+  {
+   "device": "yeongdeungpo",
+   "name": "KENYA",
+   "model": "SKYVIEW Android TV"
+  },
+  {
    "device": "M5",
    "name": "M5",
    "model": "M5"
@@ -126471,6 +126506,11 @@
    "device": "tamachi",
    "name": "France",
    "model": "AiPlus2K"
+  },
+  {
+   "device": "yeongdeungpo",
+   "name": "Germany",
+   "model": "AiPlus4K"
   },
   {
    "device": "yeongdeungpo",
@@ -143935,11 +143975,6 @@
    "device": "TN502A1",
    "name": "TN502A1",
    "model": "TN502A1"
-  },
-  {
-   "device": "access",
-   "name": "TN502A1",
-   "model": "access"
   },
   {
    "device": "TN800A1",
@@ -163803,6 +163838,11 @@
   }
  ],
  "Zephir": [
+  {
+   "device": "tamachi",
+   "name": "Italy",
+   "model": "Zephir FHD Android TV"
+  },
   {
    "device": "yeongdeungpo",
    "name": "Italy",
