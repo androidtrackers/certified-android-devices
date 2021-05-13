@@ -24541,6 +24541,11 @@
   },
   {
    "brand": "CAIXUN",
+   "name": "Mexico",
+   "device": "yeongdeungpo"
+  },
+  {
+   "brand": "CAIXUN",
    "name": "USA",
    "device": "yeongdeungpo"
   },
@@ -77488,6 +77493,18 @@
    "device": "A25"
   }
  ],
+ "A35": [
+  {
+   "brand": "IkuMobile",
+   "name": "A35",
+   "device": "A35"
+  },
+  {
+   "brand": "Micromax",
+   "name": "Bolt",
+   "device": "A35"
+  }
+ ],
  "iKU A50": [
   {
    "brand": "IkuMobile",
@@ -111596,13 +111613,6 @@
    "device": "A082"
   }
  ],
- "A35": [
-  {
-   "brand": "Micromax",
-   "name": "Bolt",
-   "device": "A35"
-  }
- ],
  "Micromax A79": [
   {
    "brand": "Micromax",
@@ -139265,6 +139275,13 @@
    "device": "nippori"
   }
  ],
+ "Qbell UHD Android TV": [
+  {
+   "brand": "QBell",
+   "name": "Italy",
+   "device": "yeongdeungpo"
+  }
+ ],
  "QBell 4K Android TV": [
   {
    "brand": "QBell",
@@ -143046,11 +143063,6 @@
  "M2010J19SY": [
   {
    "brand": "Redmi",
-   "name": "Redmi 9T",
-   "device": "lemon"
-  },
-  {
-   "brand": "Xiaomi",
    "name": "Redmi 9T",
    "device": "lemon"
   }

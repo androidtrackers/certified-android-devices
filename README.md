@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-05-12
+Last sync is 2021-05-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3249,6 +3249,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CAIXUN|Australian/EU|yeongdeungpo|AiPlus4K|
 |CAIXUN|Canada|yeongdeungpo|AiPlus4K|
 |CAIXUN|Malaysia|yeongdeungpo|AiPlus4KMY|
+|CAIXUN|Mexico|yeongdeungpo|AiPlus4K|
 |CAIXUN|USA|yeongdeungpo|AiPlus4K|
 |CALME|LT5|LT5|LT5|
 |CANAL-PLUS|CANAL+ BOX|HY40A2|CANAL PLUS BOX|
@@ -10965,6 +10966,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IkuMobile|A21|A21|A21|
 |IkuMobile|A25|A25|A25|
 |IkuMobile|A30|A30|A30|
+|IkuMobile|A35|A35|A35|
 |IkuMobile|A50|A50|iKU A50|
 |IkuMobile|A6|A6|A6|
 |IkuMobile|I3|I3|IKU i3|
@@ -20323,6 +20325,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Punos|Punos_10|Punos_10|Punos 10|
 |Punos|Punos_7|Punos_7|Punos 7|
 |QBell|EU|nippori|QBELL Android TV 2K|
+|QBell|Italy|yeongdeungpo|Qbell UHD Android TV|
 |QBell|QBell|bangbae|QBell 4K Android TV|
 |QBell|QBell|komagome|QBell 2K Android TV|
 |QBell|QPHONE_10_1|QPHONE_10_1|QPHONE_10.1|
@@ -30186,7 +30189,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Redmi 7|onc|Redmi 7|
 |Xiaomi|Redmi 7A|pine|Redmi 7A|
 |Xiaomi|Redmi 8|olive|Redmi 8|
-|Xiaomi|Redmi 9T|lemon|M2010J19SY|
 |Xiaomi|Redmi Go|tiare|Redmi Go|
 |Xiaomi|Redmi K30 Pro Zoom Edition|lmipro|Redmi K30 Pro Zoom Edition|
 |Xiaomi|Redmi Note 3|hennessy|Redmi Note 3|

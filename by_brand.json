@@ -16740,6 +16740,11 @@
   },
   {
    "device": "yeongdeungpo",
+   "name": "Mexico",
+   "model": "AiPlus4K"
+  },
+  {
+   "device": "yeongdeungpo",
    "name": "USA",
    "model": "AiPlus4K"
   }
@@ -56427,6 +56432,11 @@
    "device": "A30",
    "name": "A30",
    "model": "A30"
+  },
+  {
+   "device": "A35",
+   "name": "A35",
+   "model": "A35"
   },
   {
    "device": "A50",
@@ -104397,6 +104407,11 @@
    "device": "nippori",
    "name": "EU",
    "model": "QBELL Android TV 2K"
+  },
+  {
+   "device": "yeongdeungpo",
+   "name": "Italy",
+   "model": "Qbell UHD Android TV"
   },
   {
    "device": "bangbae",
@@ -154872,11 +154887,6 @@
    "device": "olive",
    "name": "Redmi 8",
    "model": "Redmi 8"
-  },
-  {
-   "device": "lemon",
-   "name": "Redmi 9T",
-   "model": "M2010J19SY"
   },
   {
    "device": "tiare",

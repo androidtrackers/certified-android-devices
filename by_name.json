@@ -30433,6 +30433,38 @@
    "model": "AiPlus4KMY"
   }
  ],
+ "Mexico": [
+  {
+   "brand": "CAIXUN",
+   "device": "yeongdeungpo",
+   "model": "AiPlus4K"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HLTE226E",
+   "model": "Hisense Infinity H40 Rock"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HLTE226E",
+   "model": "Hisense Rocks 6"
+  },
+  {
+   "brand": "IZZI Telecom",
+   "device": "B820C-A15_ZTE",
+   "model": "B820C-A15"
+  },
+  {
+   "brand": "Megacable",
+   "device": "B826C-A12_ZTE",
+   "model": "B826C-A12"
+  },
+  {
+   "brand": "Megacable",
+   "device": "B866V2_ZTE",
+   "model": "Xview+"
+  }
+ ],
  "USA": [
   {
    "brand": "CAIXUN",
@@ -42000,6 +42032,11 @@
    "brand": "Hyundai",
    "device": "yeongdeungpo",
    "model": "HYUNDAI 4K Android TV"
+  },
+  {
+   "brand": "QBell",
+   "device": "yeongdeungpo",
+   "model": "Qbell UHD Android TV"
   },
   {
    "brand": "Zephir",
@@ -67896,33 +67933,6 @@
    "model": "MEDION X4701"
   }
  ],
- "Mexico": [
-  {
-   "brand": "Hisense",
-   "device": "HLTE226E",
-   "model": "Hisense Infinity H40 Rock"
-  },
-  {
-   "brand": "Hisense",
-   "device": "HLTE226E",
-   "model": "Hisense Rocks 6"
-  },
-  {
-   "brand": "IZZI Telecom",
-   "device": "B820C-A15_ZTE",
-   "model": "B820C-A15"
-  },
-  {
-   "brand": "Megacable",
-   "device": "B826C-A12_ZTE",
-   "model": "B826C-A12"
-  },
-  {
-   "brand": "Megacable",
-   "device": "B866V2_ZTE",
-   "model": "Xview+"
-  }
- ],
  "Oysters Pacific 800": [
   {
    "brand": "Hisense",
@@ -79680,6 +79690,23 @@
    "model": "A25"
   }
  ],
+ "A35": [
+  {
+   "brand": "IkuMobile",
+   "device": "A35",
+   "model": "A35"
+  },
+  {
+   "brand": "Itel",
+   "device": "itel-W5002",
+   "model": "itel W5002"
+  },
+  {
+   "brand": "Oppo",
+   "device": "A35",
+   "model": "OPPO A35"
+  }
+ ],
  "A6": [
   {
    "brand": "IkuMobile",
@@ -83782,18 +83809,6 @@
    "brand": "Itel",
    "device": "itel-A32F",
    "model": "itel A32F"
-  }
- ],
- "A35": [
-  {
-   "brand": "Itel",
-   "device": "itel-W5002",
-   "model": "itel W5002"
-  },
-  {
-   "brand": "Oppo",
-   "device": "A35",
-   "model": "OPPO A35"
   }
  ],
  "A37": [
@@ -139929,11 +139944,6 @@
    "brand": "Redmi",
    "device": "pomelo",
    "model": "M2010J19SL"
-  },
-  {
-   "brand": "Xiaomi",
-   "device": "lemon",
-   "model": "M2010J19SY"
   }
  ],
  "Redmi K20": [

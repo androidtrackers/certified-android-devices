@@ -1818,6 +1818,11 @@
   },
   {
    "brand": "CAIXUN",
+   "name": "Mexico",
+   "model": "AiPlus4K"
+  },
+  {
+   "brand": "CAIXUN",
    "name": "USA",
    "model": "AiPlus4K"
   },
@@ -1905,6 +1910,11 @@
    "brand": "OXYGEN (in)",
    "name": "India",
    "model": "OXYGEN UHD Android TV"
+  },
+  {
+   "brand": "QBell",
+   "name": "Italy",
+   "model": "Qbell UHD Android TV"
   },
   {
    "brand": "Qilive",
@@ -76241,6 +76251,23 @@
    "model": "A25"
   }
  ],
+ "A35": [
+  {
+   "brand": "IkuMobile",
+   "name": "A35",
+   "model": "A35"
+  },
+  {
+   "brand": "Micromax",
+   "name": "Bolt",
+   "model": "A35"
+  },
+  {
+   "brand": "Oppo",
+   "name": "A35",
+   "model": "OPPO A35"
+  }
+ ],
  "I3": [
   {
    "brand": "IkuMobile",
@@ -108786,18 +108813,6 @@
    "model": "Micromax A082"
   }
  ],
- "A35": [
-  {
-   "brand": "Micromax",
-   "name": "Bolt",
-   "model": "A35"
-  },
-  {
-   "brand": "Oppo",
-   "name": "A35",
-   "model": "OPPO A35"
-  }
- ],
  "A79": [
   {
    "brand": "Micromax",
@@ -139423,11 +139438,6 @@
  "lemon": [
   {
    "brand": "Redmi",
-   "name": "Redmi 9T",
-   "model": "M2010J19SY"
-  },
-  {
-   "brand": "Xiaomi",
    "name": "Redmi 9T",
    "model": "M2010J19SY"
   },
