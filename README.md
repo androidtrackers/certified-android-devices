@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-05-13
+Last sync is 2021-05-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -584,7 +584,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AirTV|DV8535|DV8535|DV8535|
 |Airpha|Halo3_Pro|Halo3|Halo3|
 |Airpha|Halo3_Pro|Halo3_Pro|Halo3_Pro|
+|Airpha|Halo4|Halo4|Halo4|
 |Airpha|Halo4 Pro|Halo4_Pro|Halo4 Pro|
+|Airpha|Mega3_Pro|Mega3_Pro|Mega3_Pro|
 |Airpha|Sense2|Sense2|Sense2|
 |Airpha|Sense2_Pro|Sense2_Pro|Sense2_Pro|
 |Airtab|AT8-N|AT8-N|AT8-N|
@@ -950,6 +952,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aminocom|Amigo7xESP|Amigo7xESP|Amigo7xESP|
 |Aminocom|Amigo7xGM|Amigo7xGM|GO Android TV Box|
 |Aminocom|Amigo7xSCB|Amigo7xSCB|Amigo7xSCB|
+|Aminocom|Amigo7xYUF|Amigo7xYUF|Amigo7xYUF|
 |Aminocom|Amigo7xcCN|Amigo7xcCN|Amigo7xcCN|
 |Aminocom|Kamai 7B|Kamai7B|Kamai7B|
 |Aminocom|Kamai7|Kamai7|Kamai7|
@@ -1701,6 +1704,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ZenFone 6 (ZS630KL) (WW) / 6Z (ZS630KL) (IN)|ASUS_I01WD|ZS630KL|
 |Asus|ZenFone 7 / 7 Pro (ZS670KS/ZS671KS)|ASUS_I002D|ASUS_I002D|
 |Asus|ZenFone 7 / 7 Pro (ZS670KS/ZS671KS)|ASUS_I002D|ZS670KS|
+|Asus|ZenFone 8 Flip|ASUS_I004D|ASUS_I004D|
+|Asus|ZenFone 8 Flip|ASUS_I004D|ZS672KS|
+|Asus|ZenFone 8/ ASUS 8Z|ASUS_I006D|ASUS_I006D|
+|Asus|ZenFone 8/ ASUS 8Z|ASUS_I006D|ZS590KS|
 |Asus|ZenFone AR|ASUS_A002_1|ASUS_A002A|
 |Asus|ZenFone AR (ZS571KL)|ASUS_A002|ASUS_A002|
 |Asus|ZenFone Ares (ZS572KL)|ASUS_A002_2|ASUS_A002|
@@ -2381,6 +2388,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-7038G|BQru-7038G|BQ-7038G|
 |BQru|BQ-7040G|BQru-7040G|BQ-7040G|
 |BQru|BQ-7040G|BQru-7040G_2020|BQ-7040G|
+|BQru|BQ-7055L|BQ-7055L|BQ-7055L|
 |BQru|BQ-7081G|BQru-7081|BQru-7081|
 |BQru|BQ-7082G|BQru-7082G_2019|BQ-7082G|
 |BQru|BQ-7082G|BQru-7082G_2020|BQ-7082G|
@@ -10970,6 +10978,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IkuMobile|A50|A50|iKU A50|
 |IkuMobile|A6|A6|A6|
 |IkuMobile|I3|I3|IKU i3|
+|IkuMobile|IKU|IKU|K10|
 |IkuMobile|IKU A4|A4|IKU A4|
 |IkuMobile|IKU A40|A40|IKU A40|
 |IkuMobile|IKU_T3|IKU_T3|IKU_T3|
@@ -14887,6 +14896,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab P10|X705M|Lenovo TB-X705M|
 |Lenovo|Lenovo Tab P11|J606F|Lenovo TB-J606F|
 |Lenovo|Lenovo Tab P11|J606L|Lenovo TB-J606L|
+|Lenovo|Lenovo Tab P11 5G|J607Z|Lenovo TB-J607Z|
 |Lenovo|Lenovo Tab P11 Pro|J706F|Lenovo TB-J706F|
 |Lenovo|Lenovo Tab P11 Pro|J706L|Lenovo TB-J706L|
 |Lenovo|Lenovo Tab V7|PB-6505M|Lenovo PB-6505M|
@@ -15851,6 +15861,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mediacom|1BEC_eea|1BEC_eea|1BEC|
 |Mediacom|1BY|1BY|1BY|
 |Mediacom|1CY_EEA|1CY|1CY|
+|Mediacom|1DY|1DY|1DY|
 |Mediacom|1DY4G_eea|1DY4G_eea|1DY4G|
 |Mediacom|7BY|7BY|7BY|
 |Mediacom|7CY_eea|7CY|7CY|
@@ -17769,6 +17780,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Navon|Navon Supreme  Pure|Supreme_Pure|Navon Supreme Pure|
 |Navon|NavonOrpheus3G2020|NavonOrpheus3G2020|NavonOrpheus3G2020|
 |Navon|Navon_IQ7_2020|Navon_IQ7_2020|IQ7|
+|Navon|Navon_IQ8_2021|Navon_IQ8_2021|IQ8|
 |Navon|Navon_Orpheus_3G|Navon_Orpheus_3G|Navon Orpheus 3G|
 |Navon|Pad 10|Pad_10|Pad_10|
 |Navon|Platinum 10 3G|Platinum_10_3G|Platinum 10 3G|
@@ -18440,6 +18452,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A53m|A53|OPPO A53m|
 |Oppo|A53s|OP4EFDL1|CPH2135|
 |Oppo|A53w|A53|A53w|
+|Oppo|A54|OP4F2F|CPH2239|
 |Oppo|A55 5G|OP4E2F|PEMM00|
 |Oppo|A55 5G|OP4E2F|PEMT00|
 |Oppo|A55 5G|OP4E8C|PEMM20|
@@ -18523,6 +18536,17 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|CPH1893RU|CPH1893|CPH1893|
 |Oppo|CPH1903|CPH1903|CPH1903|
 |Oppo|CPH1909|CPH1909|CPH1909|
+|Oppo|CPH2071|OP4BFB|CPH2071|
+|Oppo|CPH2077|OP4BFB|CPH2077|
+|Oppo|CPH2161|OP4EE8L1|CPH2161|
+|Oppo|CPH2173|OP4F57L1|CPH2173|
+|Oppo|CPH2179|OP4F2F|CPH2179|
+|Oppo|CPH2185|OP4F2F|CPH2185|
+|Oppo|CPH2195|OP4F39L1|CPH2195|
+|Oppo|CPH2197|OP4F39L1|CPH2197|
+|Oppo|CPH2201|OP4F1FL1|CPH2201|
+|Oppo|CPH2211|OP4F4DL1|CPH2211|
+|Oppo|CPH2239|OP4F2F|CPH2239|
 |Oppo|F11|OP4883|CPH1911|
 |Oppo|F11|OP4883|CPH1913|
 |Oppo|F11|OP4883|CPH1915|
@@ -20273,6 +20297,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|M10_PRO_EEA|M10_PRO_EEA|M10_PRO_EEA|
 |Pritom|P7|P7|P7|
 |Pritom|P7PLUS|P7PLUS|P7PLUS|
+|Pritom|P7PLUS_EEA|P7PLUS_EEA|P7PLUS|
 |Pritom|P7PRO|P7PRO|P7PRO|
 |Pritom|P7PRO_1|P7PRO_1|P7PRO_1|
 |Pritom|P7PRO_EEA|P7PRO_EEA|P7PRO_EEA|
@@ -21106,6 +21131,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SAKAISIO|FP-U320-711-WIFI|U320-WF|FP-U320-711-WIFI|
 |SAKAISIO|FP-U320-711-WWAN|U320-3G|FP-U320-711-WWAN|
 |SAMPO|Android TV|R2|ATV R2|
+|SANNUO|K101|K101|K101|
 |SARL WISE TECHNOLOGIE|P1_Plus|P1_Plus|P1+|
 |SARL WISE TECHNOLOGIE|Wise_Tab|Wise_Tab|Wise_Tab|
 |SARL WISE TECHNOLOGIE|Wise_Tech_Wifi|Wise_Tech_Wifi|Wise Tech Wifi|
@@ -22939,8 +22965,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S20 5G|x1q|SM-G981V|
 |Samsung|Galaxy S20 5G|x1q|SM-G981W|
 |Samsung|Galaxy S20 5G|x1s|SM-G981B|
+|Samsung|Galaxy S20 FE|r8q|SM-G780G|
 |Samsung|Galaxy S20 FE|r8s|SM-G780F|
-|Samsung|Galaxy S20 FE 5G|r8q|SM-G780G|
 |Samsung|Galaxy S20 FE 5G|r8q|SM-G7810|
 |Samsung|Galaxy S20 FE 5G|r8q|SM-G781B|
 |Samsung|Galaxy S20 FE 5G|r8q|SM-G781N|
@@ -24075,6 +24101,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|4T-C**BL1/BJ1/BN1/CL1/CN1/CQ1|tcmeruj|AQUOS-TVJ19|
 |Sharp|4T-C**BN1/BL1|tcmeruj|AQUOS-TVJ19B|
 |Sharp|4T-C**BN1H/BL1H|tcmeruj|AQUOS-TVJ20B|
+|Sharp|4T-C**DL1/DJ1/DQ1/DN2|tcve2uj|AQUOS-TVJ21-2|
+|Sharp|4T-C**DS1/DN1|tcvenuj|AQUOS-TVJ21|
 |Sharp|4T-C50AG1T|LCD_50FOCAG1T|LCD_50FOCAG1T|
 |Sharp|4T-C50BDXA;4T-C50BDKA;4T-C50BDMA;4T-C50BDCA;4T-C50BDZA|Lcd_50sumtcca_xa|LCD_50SUMTCCA_XA|
 |Sharp|4T-C50BJ8T|gangnam|TVX19B|
@@ -25442,6 +25470,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Starlight|venus|venus|venus|
 |Steren|Steren INTV_1000|INTV_1000|Steren INTV_1000|
 |Stofa|IC1130|IC1130|IC1130|
+|Storex|MDDDI13311|MDDDI13311|FONDATION_ORANGEH_2021|
 |Storex|eZee'Tab7Q11-M|Tab7Q11|Tab7Q11|
 |Storex|eZeeTab10D12-S|eZeeTab10D12-S|eZeeTab10D12-S|
 |Storex|eZeeTab7D15-M|eZeeTab7D15-M|eZeeTab7D15-M|
@@ -25463,6 +25492,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stream|PERLA|PERLA|PERLA|
 |Stream|S7|MIRROR|S7|
 |Stream|SHARK|SHARK|SHARK|
+|Stream|Stream|DV8555-Altice|Stream|
 |Strong|Android TV|R1|ATV R1|
 |Strong|Android TV|R2|ATV R2|
 |Strong|LEAP-S1|LAS|LEAP-S1|
@@ -25583,6 +25613,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Surface|Surface Duo|duo|Surface Duo|
 |Surfans|K7|K7|K7|
 |Surfans|P10P|P10P|Surfans P10P|
+|Surfans|Y57A|Y57A|Y57A|
 |Surgephone|SURGE|VOLT_5XL|VOLT_5XL|
 |Surtab|SURTAB|SURTAB_74G|SURTAB_74G|
 |Suunto|Suunto 7|salmon|Suunto 7|
@@ -32207,6 +32238,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |i-Mobile|i-STYLE 812 4G|i_style_812_4G|i-mobile i-STYLE 812 4G|
 |i-Mobile|i-note WiFi 1.1|M1703|i-mobile M1703|
 |i-Mobile|iM319|iM319|iM319|
+|i5 (dza)|V10|V10|V10|
 |iBRIT|Alpha|AF51|AF51|
 |iBRIT|Alpha_Plus|Alpha_Plus|Alpha_Plus|
 |iBRIT|IBRIT_I5|i5|IBRIT_I5|
@@ -32358,6 +32390,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iLife|MISA|MISA|MISA|
 |iMuz|G10|G10|G10|
 |iMuz|G10E|G10|G10|
+|iMuz|M101|G10|M101|
 |iMuz|RA10|RA10|RA10|
 |iMuz|muPAD L10|muPAD_L10|muPAD L10|
 |iMuz|muPADT7|muPADT7|muPADT7|

@@ -6093,11 +6093,25 @@
    "model": "Halo3_Pro"
   }
  ],
+ "Halo4": [
+  {
+   "brand": "Airpha",
+   "name": "Halo4",
+   "model": "Halo4"
+  }
+ ],
  "Halo4_Pro": [
   {
    "brand": "Airpha",
    "name": "Halo4 Pro",
    "model": "Halo4 Pro"
+  }
+ ],
+ "Mega3_Pro": [
+  {
+   "brand": "Airpha",
+   "name": "Mega3_Pro",
+   "model": "Mega3_Pro"
   }
  ],
  "Sense2": [
@@ -9139,6 +9153,18 @@
    "brand": "Aminocom",
    "name": "Amigo7xSCB",
    "model": "Amigo7xSCB"
+  }
+ ],
+ "Amigo7xYUF": [
+  {
+   "brand": "Aminocom",
+   "name": "Amigo7xYUF",
+   "model": "Amigo7xYUF"
+  },
+  {
+   "brand": "Youfone",
+   "name": "Amigo7xYUF",
+   "model": "Amigo7xYUF"
   }
  ],
  "Amigo7xcCN": [
@@ -13376,6 +13402,11 @@
    "brand": "iMuz",
    "name": "G10E",
    "model": "G10"
+  },
+  {
+   "brand": "iMuz",
+   "name": "M101",
+   "model": "M101"
   }
  ],
  "K10": [
@@ -14992,6 +15023,30 @@
    "brand": "Asus",
    "name": "ZenFone 7 / 7 Pro (ZS670KS/ZS671KS)",
    "model": "ZS670KS"
+  }
+ ],
+ "ASUS_I004D": [
+  {
+   "brand": "Asus",
+   "name": "ZenFone 8 Flip",
+   "model": "ASUS_I004D"
+  },
+  {
+   "brand": "Asus",
+   "name": "ZenFone 8 Flip",
+   "model": "ZS672KS"
+  }
+ ],
+ "ASUS_I006D": [
+  {
+   "brand": "Asus",
+   "name": "ZenFone 8/ ASUS 8Z",
+   "model": "ASUS_I006D"
+  },
+  {
+   "brand": "Asus",
+   "name": "ZenFone 8/ ASUS 8Z",
+   "model": "ZS590KS"
   }
  ],
  "ASUS_A002_1": [
@@ -19801,6 +19856,13 @@
    "brand": "BQru",
    "name": "BQ-7040G",
    "model": "BQ-7040G"
+  }
+ ],
+ "BQ-7055L": [
+  {
+   "brand": "BQru",
+   "name": "BQ-7055L",
+   "model": "BQ-7055L"
   }
  ],
  "BQru-7081": [
@@ -31416,6 +31478,11 @@
    "model": "K101"
   },
   {
+   "brand": "SANNUO",
+   "name": "K101",
+   "model": "K101"
+  },
+  {
    "brand": "Zonko",
    "name": "K101",
    "model": "K101"
@@ -31470,6 +31537,11 @@
   },
   {
    "brand": "POPTEL",
+   "name": "V10",
+   "model": "V10"
+  },
+  {
+   "brand": "i5 (dza)",
    "name": "V10",
    "model": "V10"
   }
@@ -76275,6 +76347,13 @@
    "model": "IKU i3"
   }
  ],
+ "IKU": [
+  {
+   "brand": "IkuMobile",
+   "name": "IKU",
+   "model": "K10"
+  }
+ ],
  "A40": [
   {
    "brand": "IkuMobile",
@@ -100938,6 +101017,13 @@
    "model": "Lenovo TB-J606L"
   }
  ],
+ "J607Z": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab P11 5G",
+   "model": "Lenovo TB-J607Z"
+  }
+ ],
  "J706F": [
   {
    "brand": "Lenovo",
@@ -107283,6 +107369,13 @@
    "brand": "Mediacom",
    "name": "1CY_EEA",
    "model": "1CY"
+  }
+ ],
+ "1DY": [
+  {
+   "brand": "Mediacom",
+   "name": "1DY",
+   "model": "1DY"
   }
  ],
  "1DY4G_eea": [
@@ -119672,6 +119765,13 @@
    "model": "IQ7"
   }
  ],
+ "Navon_IQ8_2021": [
+  {
+   "brand": "Navon",
+   "name": "Navon_IQ8_2021",
+   "model": "IQ8"
+  }
+ ],
  "Navon_Orpheus_3G": [
   {
    "brand": "Navon",
@@ -123797,6 +123897,28 @@
    "model": "CPH2135"
   }
  ],
+ "OP4F2F": [
+  {
+   "brand": "Oppo",
+   "name": "A54",
+   "model": "CPH2239"
+  },
+  {
+   "brand": "Oppo",
+   "name": "CPH2179",
+   "model": "CPH2179"
+  },
+  {
+   "brand": "Oppo",
+   "name": "CPH2185",
+   "model": "CPH2185"
+  },
+  {
+   "brand": "Oppo",
+   "name": "CPH2239",
+   "model": "CPH2239"
+  }
+ ],
  "OP4E2F": [
   {
    "brand": "Oppo",
@@ -124278,6 +124400,63 @@
    "model": "CPH1909"
   }
  ],
+ "OP4BFB": [
+  {
+   "brand": "Oppo",
+   "name": "CPH2071",
+   "model": "CPH2071"
+  },
+  {
+   "brand": "Oppo",
+   "name": "CPH2077",
+   "model": "CPH2077"
+  }
+ ],
+ "OP4EE8L1": [
+  {
+   "brand": "Oppo",
+   "name": "CPH2161",
+   "model": "CPH2161"
+  }
+ ],
+ "OP4F57L1": [
+  {
+   "brand": "Oppo",
+   "name": "CPH2173",
+   "model": "CPH2173"
+  },
+  {
+   "brand": "Oppo",
+   "name": "Find X3 Pro",
+   "model": "CPH2173"
+  }
+ ],
+ "OP4F39L1": [
+  {
+   "brand": "Oppo",
+   "name": "CPH2195",
+   "model": "CPH2195"
+  },
+  {
+   "brand": "Oppo",
+   "name": "CPH2197",
+   "model": "CPH2197"
+  }
+ ],
+ "OP4F1FL1": [
+  {
+   "brand": "Oppo",
+   "name": "CPH2201",
+   "model": "CPH2201"
+  }
+ ],
+ "OP4F4DL1": [
+  {
+   "brand": "Oppo",
+   "name": "CPH2211",
+   "model": "CPH2211"
+  }
+ ],
  "OP4883": [
   {
    "brand": "Oppo",
@@ -124496,13 +124675,6 @@
    "brand": "Oppo",
    "name": "Find X2 中国版",
    "model": "PDET10"
-  }
- ],
- "OP4F57L1": [
-  {
-   "brand": "Oppo",
-   "name": "Find X3 Pro",
-   "model": "CPH2173"
   }
  ],
  "OP4E3F": [
@@ -135487,6 +135659,13 @@
   {
    "brand": "Pritom",
    "name": "P7PLUS",
+   "model": "P7PLUS"
+  }
+ ],
+ "P7PLUS_EEA": [
+  {
+   "brand": "Pritom",
+   "name": "P7PLUS_EEA",
    "model": "P7PLUS"
   }
  ],
@@ -152169,17 +152348,10 @@
    "model": "SM-G981W"
   }
  ],
- "r8s": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy S20 FE",
-   "model": "SM-G780F"
-  }
- ],
  "r8q": [
   {
    "brand": "Samsung",
-   "name": "Galaxy S20 FE 5G",
+   "name": "Galaxy S20 FE",
    "model": "SM-G780G"
   },
   {
@@ -152216,6 +152388,13 @@
    "brand": "Samsung",
    "name": "Galaxy S20 FE 5G",
    "model": "SM-G781W"
+  }
+ ],
+ "r8s": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S20 FE",
+   "model": "SM-G780F"
   }
  ],
  "SCG03": [
@@ -159344,6 +159523,20 @@
    "brand": "Sharp",
    "name": "4T-C**BN1H/BL1H",
    "model": "AQUOS-TVJ20B"
+  }
+ ],
+ "tcve2uj": [
+  {
+   "brand": "Sharp",
+   "name": "4T-C**DL1/DJ1/DQ1/DN2",
+   "model": "AQUOS-TVJ21-2"
+  }
+ ],
+ "tcvenuj": [
+  {
+   "brand": "Sharp",
+   "name": "4T-C**DS1/DN1",
+   "model": "AQUOS-TVJ21"
   }
  ],
  "LCD_50FOCAG1T": [
@@ -168421,6 +168614,13 @@
    "model": "IC1130"
   }
  ],
+ "MDDDI13311": [
+  {
+   "brand": "Storex",
+   "name": "MDDDI13311",
+   "model": "FONDATION_ORANGEH_2021"
+  }
+ ],
  "Tab7Q11": [
   {
    "brand": "Storex",
@@ -168550,6 +168750,13 @@
    "brand": "Stream",
    "name": "SHARK",
    "model": "SHARK"
+  }
+ ],
+ "DV8555-Altice": [
+  {
+   "brand": "Stream",
+   "name": "Stream",
+   "model": "Stream"
   }
  ],
  "LAS": [
@@ -169291,6 +169498,13 @@
    "brand": "Surfans",
    "name": "P10P",
    "model": "Surfans P10P"
+  }
+ ],
+ "Y57A": [
+  {
+   "brand": "Surfans",
+   "name": "Y57A",
+   "model": "Y57A"
   }
  ],
  "VOLT_5XL": [
@@ -196711,13 +196925,6 @@
    "brand": "Yota Devices",
    "name": "YotaPhone2",
    "model": "YD201"
-  }
- ],
- "Amigo7xYUF": [
-  {
-   "brand": "Youfone",
-   "name": "Amigo7xYUF",
-   "model": "Amigo7xYUF"
   }
  ],
  "Candy_Pro": [
