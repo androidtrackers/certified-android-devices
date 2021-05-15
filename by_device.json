@@ -6295,6 +6295,11 @@
    "model": "EchosonicTV"
   },
   {
+   "brand": "Echolink",
+   "name": "Echolink TV",
+   "model": "Echolink TV"
+  },
+  {
    "brand": "Fresh",
    "name": "FreshTV",
    "model": "FreshTV"
@@ -6305,9 +6310,24 @@
    "model": "Iris 2K TV"
   },
   {
+   "brand": "Prime",
+   "name": "PRIME Android TV",
+   "model": "PRIME Android TV"
+  },
+  {
+   "brand": "Sharp",
+   "name": "SHARP 2K SMART TV",
+   "model": "SHARP 2K SMART TV"
+  },
+  {
    "brand": "Skyworth",
    "name": "METZ 2K TV",
    "model": "METZ 2K TV"
+  },
+  {
+   "brand": "TORNADO",
+   "name": "TORNADO 2K SMART TV",
+   "model": "TORNADO 2K SMART TV"
   },
   {
    "brand": "Tesla",
@@ -6315,9 +6335,19 @@
    "model": "Tesla 2K TV"
   },
   {
+   "brand": "VISIO",
+   "name": "VISIO TV",
+   "model": "VISIO TV"
+  },
+  {
    "brand": "Yasin",
    "name": "YASIN 2K TV",
    "model": "YASIN 2K TV"
+  },
+  {
+   "brand": "ZIFFLER",
+   "name": "ABMS Android TV",
+   "model": "ABMS Android TV"
   }
  ],
  "AW790": [
@@ -6564,6 +6594,11 @@
    "model": "KoganTVAP"
   },
   {
+   "brand": "Kooda",
+   "name": "KOODA 2K TV",
+   "model": "KOODA 2K TV"
+  },
+  {
    "brand": "Motorola",
    "name": "Motorola Android 9.0 TV",
    "model": "FlipkartTV"
@@ -6607,6 +6642,11 @@
    "brand": "Skyworth",
    "name": "APAC 2K TV",
    "model": "SWTV"
+  },
+  {
+   "brand": "TIT(SA)",
+   "name": "TITTV",
+   "model": "TITTV"
   },
   {
    "brand": "Telefunken",
@@ -12716,6 +12756,11 @@
    "model": "TIT SMART TV"
   },
   {
+   "brand": "TORNADO",
+   "name": "TORNADO Android TV",
+   "model": "TORNADO Android TV"
+  },
+  {
    "brand": "Telefunken",
    "name": "TELEFUNKEN SMART TV",
    "model": "TELEFUNKEN SMART TV"
@@ -12724,6 +12769,16 @@
    "brand": "Tesla",
    "name": "Tesla S906",
    "model": "Tesla S906"
+  },
+  {
+   "brand": "VISIO",
+   "name": "VISIO 4K Android TV",
+   "model": "VISIO 4K Android TV"
+  },
+  {
+   "brand": "VIZZION",
+   "name": "VIZZION 4K TV",
+   "model": "VIZZION 4K TV"
   },
   {
    "brand": "Vision",
@@ -22896,6 +22951,11 @@
    "model": "indurama 2K TV"
   },
   {
+   "brand": "Mondial",
+   "name": "MONDIAL TV",
+   "model": "MONDIAL TV"
+  },
+  {
    "brand": "Noblex",
    "name": "NoblexTV",
    "model": "NoblexTV"
@@ -22909,6 +22969,16 @@
    "brand": "Skyworth",
    "name": "South America",
    "model": "SA 2K TV"
+  },
+  {
+   "brand": "VIZZION",
+   "name": "VIZZION TV",
+   "model": "VIZZION TV"
+  },
+  {
+   "brand": "Xtreme",
+   "name": "XTREME TV",
+   "model": "XTREME TV"
   }
  ],
  "Central America\"": [
@@ -29764,6 +29834,13 @@
    "brand": "Claro",
    "name": "Claro Colombia STB",
    "model": "Claro Colombia STB"
+  }
+ ],
+ "SEI810CPR": [
+  {
+   "brand": "Claro",
+   "name": "SEI810CPR",
+   "model": "Claro STB"
   }
  ],
  "CLEMPAD_2018": [
@@ -124441,20 +124518,21 @@
    "brand": "Oppo",
    "name": "CPH2197",
    "model": "CPH2197"
-  }
- ],
- "OP4F1FL1": [
+  },
   {
    "brand": "Oppo",
-   "name": "CPH2201",
-   "model": "CPH2201"
-  }
- ],
- "OP4F4DL1": [
+   "name": "OPPO A74 5G",
+   "model": "CPH2197"
+  },
   {
    "brand": "Oppo",
-   "name": "CPH2211",
-   "model": "CPH2211"
+   "name": "OPPO A74 5G",
+   "model": "CPH2263"
+  },
+  {
+   "brand": "Oppo",
+   "name": "OPPO A74 5G",
+   "model": "OPG02"
   }
  ],
  "OP4883": [
@@ -124788,6 +124866,13 @@
    "model": "PEZM00"
   }
  ],
+ "OP4F53L1": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO A53s 5G",
+   "model": "CPH2321"
+  }
+ ],
  "OP4F1BL1": [
   {
    "brand": "Oppo",
@@ -124807,6 +124892,35 @@
    "model": "PEXM00"
   }
  ],
+ "OP4F25L1": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno5",
+   "model": "CPH2159"
+  },
+  {
+   "brand": "Oppo",
+   "name": "Reno 5",
+   "model": "CPH2159"
+  },
+  {
+   "brand": "Oppo",
+   "name": "Reno5",
+   "model": "CPH2159"
+  }
+ ],
+ "OP4F2BL1": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno5 A",
+   "model": "A101OP"
+  },
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno5 A",
+   "model": "CPH2199"
+  }
+ ],
  "OP4EA7": [
   {
    "brand": "Oppo",
@@ -124821,6 +124935,18 @@
    "model": "PELM00"
   }
  ],
+ "OP4F4DL1": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno5 Z",
+   "model": "CPH2211"
+  },
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno5 Z",
+   "model": "CPH2213"
+  }
+ ],
  "OP4E59": [
   {
    "brand": "Oppo",
@@ -124831,6 +124957,13 @@
    "brand": "Oppo",
    "name": "OPPO Reno5 k 5G",
    "model": "PEGT10"
+  }
+ ],
+ "OP4F1FL1": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno5 pro",
+   "model": "CPH2201"
   }
  ],
  "beluga": [
@@ -125603,18 +125736,6 @@
    "brand": "Oppo",
    "name": "Reno 4Z 5G",
    "model": "CPH2065"
-  }
- ],
- "OP4F25L1": [
-  {
-   "brand": "Oppo",
-   "name": "Reno 5",
-   "model": "CPH2159"
-  },
-  {
-   "brand": "Oppo",
-   "name": "Reno5",
-   "model": "CPH2159"
   }
  ],
  "OP47CFL1": [
@@ -156820,6 +156941,18 @@
    "model": "SM-T870"
   }
  ],
+ "gts7xllite": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S7 FE",
+   "model": "SM-T737"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S7 FE 5G",
+   "model": "SM-T736B"
+  }
+ ],
  "gts7xl": [
   {
    "brand": "Samsung",
@@ -164777,6 +164910,13 @@
    "brand": "Sony",
    "name": "Xperia Ace",
    "model": "SO-02L"
+  }
+ ],
+ "SO-41B": [
+  {
+   "brand": "Sony",
+   "name": "Xperia Ace II",
+   "model": "SO-41B"
   }
  ],
  "C2304": [

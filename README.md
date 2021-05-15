@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-05-14
+Last sync is 2021-05-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3776,6 +3776,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Clarmin|B8plus|B8plus|B8plus|
 |Clarmin|CLARMIN C1|CLARMIN_C1|CLARMIN C1|
 |Claro|Claro Colombia STB|SEI800CCOA|Claro Colombia STB|
+|Claro|SEI810CPR|SEI810CPR|Claro STB|
 |Classpro|CGS55UHD|samseong|AI PONT|
 |Classpro|EGS42FHD|ikebukuro|AI PONT|
 |Clementoni|CLEMPAD_2018|CLEMPAD_2018|CLEMPAD_2018|
@@ -5474,6 +5475,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Echo Mobiles|Moon|MOON|MOON|
 |Echo Mobiles|SURF|SURF|SURF|
 |Echo Mobiles|Stellar 4G|Stellar_4G|Stellar 4G|
+|Echolink|Echolink TV|shinagawa|Echolink TV|
 |EcoStar|ECOSTAR SMART TV|SW4H|ECOSTAR SMART TV|
 |EcoStar|EcostarTV|shibuya|EcostarTV|
 |Edcon|Motion E1.1|MotionE11|MotionE11|
@@ -12362,6 +12364,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Konrow|SKY_55|SKY_55|SKY_55_EEA|
 |Konrow|Sky|Sky|Sky|
 |Konrow|Smartfive|KONROW_Smartfive|Smartfive|
+|Kooda|KOODA 2K TV|shibuya|KOODA 2K TV|
 |Krik Krak|Freedom|Freedom|Freedom|
 |Krono|776PLUS|KRONO_776PLUS|776PLUS|
 |Krono|NETWORK|NETWORK|NETWORK|
@@ -16659,6 +16662,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mola TV|PDBM11ADL|DV8235_P|PDBM11ADL|
 |Molvu|M10PRO|M10PRO|M10PRO|
 |Molvu|V7S|V7S|V7S|
+|Mondial|MONDIAL TV|shinjuku|MONDIAL TV|
 |Mondial|TB-MONDIAL|TB_MONDIAL|TB_MONDIAL|
 |Mondial|TB_MONDIAL_KID|TB_MONDIAL_KID|TB_MONDIAL_KID|
 |Monster|M10|M10|M10|
@@ -18544,8 +18548,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|CPH2185|OP4F2F|CPH2185|
 |Oppo|CPH2195|OP4F39L1|CPH2195|
 |Oppo|CPH2197|OP4F39L1|CPH2197|
-|Oppo|CPH2201|OP4F1FL1|CPH2201|
-|Oppo|CPH2211|OP4F4DL1|CPH2211|
 |Oppo|CPH2239|OP4F2F|CPH2239|
 |Oppo|F11|OP4883|CPH1911|
 |Oppo|F11|OP4883|CPH1913|
@@ -18602,15 +18604,25 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|N5110|N5110|N5110|
 |Oppo|N5117|N5117|N5117|
 |Oppo|OPPO A35|OP4E7B|PEFM00|
+|Oppo|OPPO A53s 5G|OP4F53L1|CPH2321|
 |Oppo|OPPO A54|OP4E7B|PEZM00|
 |Oppo|OPPO A74|OP4F11L1|CPH2219|
+|Oppo|OPPO A74 5G|OP4F39L1|CPH2197|
+|Oppo|OPPO A74 5G|OP4F39L1|CPH2263|
+|Oppo|OPPO A74 5G|OP4F39L1|OPG02|
 |Oppo|OPPO Find X3 Lite 5G|OP4F1BL1|CPH2145|
 |Oppo|OPPO K9 5G|OP4E9F|PEXM00|
+|Oppo|OPPO Reno5|OP4F25L1|CPH2159|
 |Oppo|OPPO Reno5 5G|OP4F1BL1|CPH2145|
+|Oppo|OPPO Reno5 A|OP4F2BL1|A101OP|
+|Oppo|OPPO Reno5 A|OP4F2BL1|CPH2199|
 |Oppo|OPPO Reno5 Pro+ 5G|OP4EA7|PDRM00|
 |Oppo|OPPO Reno5 Z|OP4EB7|PELM00|
+|Oppo|OPPO Reno5 Z|OP4F4DL1|CPH2211|
+|Oppo|OPPO Reno5 Z|OP4F4DL1|CPH2213|
 |Oppo|OPPO Reno5 k 5G|OP4E59|PEGM10|
 |Oppo|OPPO Reno5 k 5G|OP4E59|PEGT10|
+|Oppo|OPPO Reno5 pro|OP4F1FL1|CPH2201|
 |Oppo|OPPO Watch|beluga|OPPO Watch|
 |Oppo|OPPO Watch|orca|OPPO Watch|
 |Oppo|PEHM00|OP4E99|PEHT00|
@@ -20274,6 +20286,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|Wize W3|TL49B11G|PSP3497DUO|
 |Prestigio|Wize W3|TL49B11G|PSP3497DUO_RU|
 |Prime|O9|PRIME_O9|O9|
+|Prime|PRIME Android TV|shinagawa|PRIME Android TV|
 |Prime|PRIME P1|PRIME_P1|P1|
 |Prime|X6_Pro|X6_Pro|X6_Pro|
 |Primux|Primux_ioxphone|Primux_ioxphone|Primux_ioxphone|
@@ -23646,6 +23659,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S7|gts7l|SM-T875N|
 |Samsung|Galaxy Tab S7|gts7lwifi|SM-T870|
 |Samsung|Galaxy Tab S7 5G|gts7l|SM-T878U|
+|Samsung|Galaxy Tab S7 FE|gts7xllite|SM-T737|
+|Samsung|Galaxy Tab S7 FE 5G|gts7xllite|SM-T736B|
 |Samsung|Galaxy Tab S7+|gts7xl|SM-T975|
 |Samsung|Galaxy Tab S7+|gts7xl|SM-T975N|
 |Samsung|Galaxy Tab S7+|gts7xlwifi|SM-T970|
@@ -24409,6 +24424,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|SH8128U|msm7627|SH8128U|
 |Sharp|SH8188U|SH8188U|SH8188U|
 |Sharp|SH825wi|SH825Wi|SH825Wi|
+|Sharp|SHARP 2K SMART TV|shinagawa|SHARP 2K SMART TV|
 |Sharp|SHARP A2 Lite|SJ3|FS8026|
 |Sharp|SHARP A2 Mini|HQ3|IF9009|
 |Sharp|SHARP AQUOS C10|SH-Z01|SH-Z01|
@@ -24880,6 +24896,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia A4|SO-04G|SO-04G|
 |Sony|Xperia Ace|J3173|J3173|
 |Sony|Xperia Ace|SO-02L|SO-02L|
+|Sony|Xperia Ace II|SO-41B|SO-41B|
 |Sony|Xperia C|C2304|C2304|
 |Sony|Xperia C|C2305|C2305|
 |Sony|Xperia C3|D2533|D2533|
@@ -27236,6 +27253,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TIM|TIM BOX|uzw4010tim|TIM_BOX|
 |TIM|TIMvision|dwt765ti|skipper|
 |TIT(SA)|TIT SMART TV|SW4H|TIT SMART TV|
+|TIT(SA)|TITTV|shibuya|TITTV|
 |TJC|Metal Tablet|Metal_Tablet_10|Metal_Tablet_10|
 |TJD(SZ)|MT 750QU|MT-750QU|MT-750QU|
 |TJD(SZ)|MT-1010OF|MT-1010OF|MT-1010OF|
@@ -27269,6 +27287,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TOPELOTEK|V7|V7|V7|
 |TOPELOTEK|Y8|Y8|Y8|
 |TOPJOY|PNC450|PNC450|PNC450|
+|TORNADO|TORNADO 2K SMART TV|shinagawa|TORNADO 2K SMART TV|
+|TORNADO|TORNADO Android TV|SW4H|TORNADO Android TV|
 |TOSCIDO|P101|P101|P101|
 |TOSCIDO|P101-EEA|P101-EEA|P101-EEA|
 |TOSCIDO|T12-EEA|T12-EEA|T12-EEA|
@@ -28413,11 +28433,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VICTUS|VRS5_Plus|VRS5_Plus|VRS5_Plus|
 |VICTUS|VRS6_Plus|VRS6_Plus|VRS6 Plus|
 |VIKUSHA|VZ-30|VZ-30|VZ-30|
+|VISIO|VISIO 4K Android TV|SW4H|VISIO 4K Android TV|
+|VISIO|VISIO TV|shinagawa|VISIO TV|
 |VIVIMAGE|VIVIMAGE_A10|VIVIMAGE_A10|VIVIMAGE_A10|
 |VIVIMAGE|VIVIMAGE_A10_EEA|VIVIMAGE_A10_EEA|VIVIMAGE_A10_EEA|
 |VIVIMAGE|VIVIMAGE_E10|E10|E10|
 |VIVIMAGE|VIVIMAGE_E10_EEA|E10|E10_EEA|
 |VIVIMAGE|VIVIMAGE_E11|E11|VIVIMAGE_E11|
+|VIZZION|VIZZION 4K TV|SW4H|VIZZION 4K TV|
+|VIZZION|VIZZION TV|shinjuku|VIZZION TV|
 |VNPT Technology|VNPT SmartBox 2x|vnptt_smb_v2x|VNPT SmartBox 2x|
 |VOLFEN|NEXO_TAB_10|NEXO_TAB_10|NEXO_TAB_10|
 |VOLFEN|Nexo TAB 7|Nexo-TAB-7|Nexo-TAB-7|
@@ -30268,6 +30292,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xtratech|XTRATECH|KT-755M|KT-755M|
 |Xtreme|Android TV|R1|ATV R1|
 |Xtreme|XTREME 4K TV|SW4H|XTREME 4K TV|
+|Xtreme|XTREME TV|shinjuku|XTREME TV|
 |Xwave|Xpad|Xpad|Xpad_M9_3G|
 |YELLYOUTH|TAB_101|TAB_101|TAB_101|
 |YOTOPT|M60_EEA|M60_EEA|M60_EEA|
@@ -30366,6 +30391,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZENTALITY|C-601|C-601|C-601|
 |ZENTALITY|C-700|C-700|C-700|
 |ZENTALITY|C-705|C-705|C-705|
+|ZIFFLER|ABMS Android TV|shinagawa|ABMS Android TV|
 |ZIK (kz)|ZIK_W1027|ZIK_W1027|ZIK_W1027|
 |ZLINE|ZLINE_Z_742|ZLINE_Z_742|Z_742|
 |ZMBIZI|ZMBIZI|ZMBIZI_Z1|ZMBIZI Z1|

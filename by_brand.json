@@ -19542,6 +19542,11 @@
    "device": "SEI800CCOA",
    "name": "Claro Colombia STB",
    "model": "Claro Colombia STB"
+  },
+  {
+   "device": "SEI810CPR",
+   "name": "SEI810CPR",
+   "model": "Claro STB"
   }
  ],
  "Classpro": [
@@ -28368,6 +28373,13 @@
    "device": "Stellar_4G",
    "name": "Stellar 4G",
    "model": "Stellar 4G"
+  }
+ ],
+ "Echolink": [
+  {
+   "device": "shinagawa",
+   "name": "Echolink TV",
+   "model": "Echolink TV"
   }
  ],
  "EcoStar": [
@@ -63664,6 +63676,13 @@
    "model": "Smartfive"
   }
  ],
+ "Kooda": [
+  {
+   "device": "shibuya",
+   "name": "KOODA 2K TV",
+   "model": "KOODA 2K TV"
+  }
+ ],
  "Krik Krak": [
   {
    "device": "Freedom",
@@ -85573,6 +85592,11 @@
  ],
  "Mondial": [
   {
+   "device": "shinjuku",
+   "name": "MONDIAL TV",
+   "model": "MONDIAL TV"
+  },
+  {
    "device": "TB_MONDIAL",
    "name": "TB-MONDIAL",
    "model": "TB_MONDIAL"
@@ -95304,16 +95328,6 @@
    "model": "CPH2197"
   },
   {
-   "device": "OP4F1FL1",
-   "name": "CPH2201",
-   "model": "CPH2201"
-  },
-  {
-   "device": "OP4F4DL1",
-   "name": "CPH2211",
-   "model": "CPH2211"
-  },
-  {
    "device": "OP4F2F",
    "name": "CPH2239",
    "model": "CPH2239"
@@ -95594,6 +95608,11 @@
    "model": "PEFM00"
   },
   {
+   "device": "OP4F53L1",
+   "name": "OPPO A53s 5G",
+   "model": "CPH2321"
+  },
+  {
    "device": "OP4E7B",
    "name": "OPPO A54",
    "model": "PEZM00"
@@ -95602,6 +95621,21 @@
    "device": "OP4F11L1",
    "name": "OPPO A74",
    "model": "CPH2219"
+  },
+  {
+   "device": "OP4F39L1",
+   "name": "OPPO A74 5G",
+   "model": "CPH2197"
+  },
+  {
+   "device": "OP4F39L1",
+   "name": "OPPO A74 5G",
+   "model": "CPH2263"
+  },
+  {
+   "device": "OP4F39L1",
+   "name": "OPPO A74 5G",
+   "model": "OPG02"
   },
   {
    "device": "OP4F1BL1",
@@ -95614,9 +95648,24 @@
    "model": "PEXM00"
   },
   {
+   "device": "OP4F25L1",
+   "name": "OPPO Reno5",
+   "model": "CPH2159"
+  },
+  {
    "device": "OP4F1BL1",
    "name": "OPPO Reno5 5G",
    "model": "CPH2145"
+  },
+  {
+   "device": "OP4F2BL1",
+   "name": "OPPO Reno5 A",
+   "model": "A101OP"
+  },
+  {
+   "device": "OP4F2BL1",
+   "name": "OPPO Reno5 A",
+   "model": "CPH2199"
   },
   {
    "device": "OP4EA7",
@@ -95629,6 +95678,16 @@
    "model": "PELM00"
   },
   {
+   "device": "OP4F4DL1",
+   "name": "OPPO Reno5 Z",
+   "model": "CPH2211"
+  },
+  {
+   "device": "OP4F4DL1",
+   "name": "OPPO Reno5 Z",
+   "model": "CPH2213"
+  },
+  {
    "device": "OP4E59",
    "name": "OPPO Reno5 k 5G",
    "model": "PEGM10"
@@ -95637,6 +95696,11 @@
    "device": "OP4E59",
    "name": "OPPO Reno5 k 5G",
    "model": "PEGT10"
+  },
+  {
+   "device": "OP4F1FL1",
+   "name": "OPPO Reno5 pro",
+   "model": "CPH2201"
   },
   {
    "device": "beluga",
@@ -104124,6 +104188,11 @@
    "device": "PRIME_O9",
    "name": "O9",
    "model": "O9"
+  },
+  {
+   "device": "shinagawa",
+   "name": "PRIME Android TV",
+   "model": "PRIME Android TV"
   },
   {
    "device": "PRIME_P1",
@@ -121256,6 +121325,16 @@
    "model": "SM-T878U"
   },
   {
+   "device": "gts7xllite",
+   "name": "Galaxy Tab S7 FE",
+   "model": "SM-T737"
+  },
+  {
+   "device": "gts7xllite",
+   "name": "Galaxy Tab S7 FE 5G",
+   "model": "SM-T736B"
+  },
+  {
    "device": "gts7xl",
    "name": "Galaxy Tab S7+",
    "model": "SM-T975"
@@ -125129,6 +125208,11 @@
    "model": "SH825Wi"
   },
   {
+   "device": "shinagawa",
+   "name": "SHARP 2K SMART TV",
+   "model": "SHARP 2K SMART TV"
+  },
+  {
    "device": "SJ3",
    "name": "SHARP A2 Lite",
    "model": "FS8026"
@@ -127572,6 +127656,11 @@
    "device": "SO-02L",
    "name": "Xperia Ace",
    "model": "SO-02L"
+  },
+  {
+   "device": "SO-41B",
+   "name": "Xperia Ace II",
+   "model": "SO-41B"
   },
   {
    "device": "C2304",
@@ -139516,6 +139605,11 @@
    "device": "SW4H",
    "name": "TIT SMART TV",
    "model": "TIT SMART TV"
+  },
+  {
+   "device": "shibuya",
+   "name": "TITTV",
+   "model": "TITTV"
   }
  ],
  "TJC": [
@@ -139699,6 +139793,18 @@
    "device": "PNC450",
    "name": "PNC450",
    "model": "PNC450"
+  }
+ ],
+ "TORNADO": [
+  {
+   "device": "shinagawa",
+   "name": "TORNADO 2K SMART TV",
+   "model": "TORNADO 2K SMART TV"
+  },
+  {
+   "device": "SW4H",
+   "name": "TORNADO Android TV",
+   "model": "TORNADO Android TV"
   }
  ],
  "TOSCIDO": [
@@ -145747,6 +145853,18 @@
    "model": "VZ-30"
   }
  ],
+ "VISIO": [
+  {
+   "device": "SW4H",
+   "name": "VISIO 4K Android TV",
+   "model": "VISIO 4K Android TV"
+  },
+  {
+   "device": "shinagawa",
+   "name": "VISIO TV",
+   "model": "VISIO TV"
+  }
+ ],
  "VIVIMAGE": [
   {
    "device": "VIVIMAGE_A10",
@@ -145772,6 +145890,18 @@
    "device": "E11",
    "name": "VIVIMAGE_E11",
    "model": "VIVIMAGE_E11"
+  }
+ ],
+ "VIZZION": [
+  {
+   "device": "SW4H",
+   "name": "VIZZION 4K TV",
+   "model": "VIZZION 4K TV"
+  },
+  {
+   "device": "shinjuku",
+   "name": "VIZZION TV",
+   "model": "VIZZION TV"
   }
  ],
  "VNPT Technology": [
@@ -155294,6 +155424,11 @@
    "device": "SW4H",
    "name": "XTREME 4K TV",
    "model": "XTREME 4K TV"
+  },
+  {
+   "device": "shinjuku",
+   "name": "XTREME TV",
+   "model": "XTREME TV"
   }
  ],
  "Xwave": [
@@ -155828,6 +155963,13 @@
    "device": "C-705",
    "name": "C-705",
    "model": "C-705"
+  }
+ ],
+ "ZIFFLER": [
+  {
+   "device": "shinagawa",
+   "name": "ABMS Android TV",
+   "model": "ABMS Android TV"
   }
  ],
  "ZIK (kz)": [
