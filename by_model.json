@@ -76873,6 +76873,28 @@
    "device": "gangbyeon"
   }
  ],
+ "PORTUGAL\"": [
+  {
+   "brand": "INFINITON",
+   "name": "\"SPAIN",
+   "device": "MOROCCO"
+  },
+  {
+   "brand": "INFINITON",
+   "name": "\"SPAIN",
+   "device": "MOROCCO"
+  },
+  {
+   "brand": "MILECTRIC",
+   "name": "\"SPAIN",
+   "device": "MOROCCO"
+  },
+  {
+   "brand": "MILECTRIC",
+   "name": "\"SPAIN",
+   "device": "MOROCCO"
+  }
+ ],
  "INOI_1_Lite": [
   {
    "brand": "INOI",
@@ -144583,6 +144605,18 @@
    "brand": "SAKAISIO",
    "name": "FP-U320-711-WWAN",
    "device": "U320-3G"
+  }
+ ],
+ "SANCO Android TV": [
+  {
+   "brand": "SANCO",
+   "name": "Vietnam",
+   "device": "tamachi"
+  },
+  {
+   "brand": "SANCO",
+   "name": "Vietnam",
+   "device": "yeongdeungpo"
   }
  ],
  "P1+": [

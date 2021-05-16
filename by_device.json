@@ -1750,6 +1750,11 @@
    "model": "Qilive FHD Android TV"
   },
   {
+   "brand": "SANCO",
+   "name": "Vietnam",
+   "model": "SANCO Android TV"
+  },
+  {
    "brand": "Skyview",
    "name": "KENYA",
    "model": "SKYVIEW Android TV"
@@ -1920,6 +1925,11 @@
    "brand": "Qilive",
    "name": "Europe",
    "model": "Qilive UHD Android TV"
+  },
+  {
+   "brand": "SANCO",
+   "name": "Vietnam",
+   "model": "SANCO Android TV"
   },
   {
    "brand": "SUPERSONIC",
@@ -75670,6 +75680,28 @@
    "brand": "Sceptre",
    "name": "A322BV-SRC",
    "model": "2K Smart TV"
+  }
+ ],
+ "MOROCCO": [
+  {
+   "brand": "INFINITON",
+   "name": "\"SPAIN",
+   "model": "PORTUGAL\""
+  },
+  {
+   "brand": "INFINITON",
+   "name": "\"SPAIN",
+   "model": "PORTUGAL\""
+  },
+  {
+   "brand": "MILECTRIC",
+   "name": "\"SPAIN",
+   "model": "PORTUGAL\""
+  },
+  {
+   "brand": "MILECTRIC",
+   "name": "\"SPAIN",
+   "model": "PORTUGAL\""
   }
  ],
  "INOI_1_Lite": [

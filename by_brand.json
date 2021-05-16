@@ -55895,6 +55895,18 @@
    "model": "IMPECCA 4K Smart TV"
   }
  ],
+ "INFINITON": [
+  {
+   "device": "MOROCCO",
+   "name": "\"SPAIN",
+   "model": "PORTUGAL\""
+  },
+  {
+   "device": "MOROCCO",
+   "name": "\"SPAIN",
+   "model": "PORTUGAL\""
+  }
+ ],
  "INOI": [
   {
    "device": "INOI_1_Lite",
@@ -79617,6 +79629,18 @@
    "device": "TRECFONE_A21S",
    "name": "TRECFONE_A21S",
    "model": "TRECFONE_A21S"
+  }
+ ],
+ "MILECTRIC": [
+  {
+   "device": "MOROCCO",
+   "name": "\"SPAIN",
+   "model": "PORTUGAL\""
+  },
+  {
+   "device": "MOROCCO",
+   "name": "\"SPAIN",
+   "model": "PORTUGAL\""
   }
  ],
  "MINIX": [
@@ -108654,6 +108678,18 @@
    "device": "R2",
    "name": "Android TV",
    "model": "ATV R2"
+  }
+ ],
+ "SANCO": [
+  {
+   "device": "tamachi",
+   "name": "Vietnam",
+   "model": "SANCO Android TV"
+  },
+  {
+   "device": "yeongdeungpo",
+   "name": "Vietnam",
+   "model": "SANCO Android TV"
   }
  ],
  "SANNUO": [

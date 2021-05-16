@@ -47900,6 +47900,16 @@
    "brand": "Erito",
    "device": "samseong",
    "model": "AI PONT"
+  },
+  {
+   "brand": "SANCO",
+   "device": "tamachi",
+   "model": "SANCO Android TV"
+  },
+  {
+   "brand": "SANCO",
+   "device": "yeongdeungpo",
+   "model": "SANCO Android TV"
   }
  ],
  "Essential": [
@@ -79052,6 +79062,28 @@
    "brand": "IMPECCA",
    "device": "gangbyeon",
    "model": "IMPECCA 4K Smart TV"
+  }
+ ],
+ "\"SPAIN": [
+  {
+   "brand": "INFINITON",
+   "device": "MOROCCO",
+   "model": "PORTUGAL\""
+  },
+  {
+   "brand": "INFINITON",
+   "device": "MOROCCO",
+   "model": "PORTUGAL\""
+  },
+  {
+   "brand": "MILECTRIC",
+   "device": "MOROCCO",
+   "model": "PORTUGAL\""
+  },
+  {
+   "brand": "MILECTRIC",
+   "device": "MOROCCO",
+   "model": "PORTUGAL\""
   }
  ],
  "INOI 1 Lite": [

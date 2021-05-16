@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-05-15
+Last sync is 2021-05-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10867,6 +10867,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IMO(In My Opinion)|IMO S2|S2|IMO S2|
 |IMPECCA|IMP|kanda|IMPECCA 2K Smart TV|
 |IMPECCA|IMPECCA|gangbyeon|IMPECCA 4K Smart TV|
+|INFINITON|"SPAIN|MOROCCO|PORTUGAL"|
+|INFINITON|"SPAIN|MOROCCO|PORTUGAL"|
 |INOI|INOI 1 Lite|INOI_1_Lite|INOI_1_Lite|
 |INOI|INOI 2 Lite 2019|INOI_2_Lite_2019|INOI 2 Lite 2019|
 |INOI|INOI 2 Lite 2021|INOI_2_Lite_2021|INOI 2 Lite 2021|
@@ -15511,6 +15513,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MGS|MGS|bangbae|MGS 4K Android TV|
 |MGS|MGS|komagome|MGS 2K Android TV|
 |MHL Mobile Company|TRECFONE_A21S|TRECFONE_A21S|TRECFONE_A21S|
+|MILECTRIC|"SPAIN|MOROCCO|PORTUGAL"|
+|MILECTRIC|"SPAIN|MOROCCO|PORTUGAL"|
 |MINIX|MINIX NEO T5|DV8553|DV8553|
 |MIRAY|Android TV|R1|ATV R1|
 |MIRAY|MIDM_737|MIDM_737|MIDM_737|
@@ -21144,6 +21148,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SAKAISIO|FP-U320-711-WIFI|U320-WF|FP-U320-711-WIFI|
 |SAKAISIO|FP-U320-711-WWAN|U320-3G|FP-U320-711-WWAN|
 |SAMPO|Android TV|R2|ATV R2|
+|SANCO|Vietnam|tamachi|SANCO Android TV|
+|SANCO|Vietnam|yeongdeungpo|SANCO Android TV|
 |SANNUO|K101|K101|K101|
 |SARL WISE TECHNOLOGIE|P1_Plus|P1_Plus|P1+|
 |SARL WISE TECHNOLOGIE|Wise_Tab|Wise_Tab|Wise_Tab|
