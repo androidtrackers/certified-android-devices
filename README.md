@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-05-16
+Last sync is 2021-05-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -24902,7 +24902,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia A4|SO-04G|SO-04G|
 |Sony|Xperia Ace|J3173|J3173|
 |Sony|Xperia Ace|SO-02L|SO-02L|
-|Sony|Xperia Ace II|SO-41B|SO-41B|
 |Sony|Xperia C|C2304|C2304|
 |Sony|Xperia C|C2305|C2305|
 |Sony|Xperia C3|D2533|D2533|
