@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-05-17
+Last sync is 2021-05-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -445,6 +445,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Admiral Overseas Corporation|A2272PWHT|AOC_WW|G2SMNT|
 |Admiral Overseas Corporation|A2472PW4T|G3SMNTA24|G3SMNTA24|
 |Admiral Overseas Corporation|A7|A7|A7|
+|Admiral Overseas Corporation|ADMIRAL 4K TV|SW4H|ADMIRAL 4K TV|
 |Admiral Overseas Corporation|C7|C7|C7|
 |Admiral Overseas Corporation|Fire|Fire|Fire|
 |Admiral Overseas Corporation|O7|O7|O7|
@@ -864,6 +865,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|X6 Soul mini|X6_Soul_mini|X6_Soul_mini|
 |AllView|X7 Soul Style|X7_Soul_Style|X7_Soul_Style|
 |AllView|X7_Soul_Pro_EEA|X7_Soul_Pro|X7_Soul_Pro|
+|AllView|X8 Soul Style|X8_Soul_Style|X8_Soul_Style|
 |Alldocube|T1001|T1001|T1001|
 |Alldocube|T701|T701|T701|
 |Alldocube|T701_X|T701_X|T701_X|
@@ -8824,9 +8826,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|VIDAA_TV|MSD6A938|VIDAA_TV|
 |Hisense|VIDAA_TV|MTK9255|VIDAA_TV|
 |Hisense|VIDAA_TV|MTK9632|VIDAA_TV|
+|Hisense|VIDAA_TV|MTK9638|VIDAA_TV|
 |Hisense|VIDAA_TV|MTK9652|VIDAA_TV|
 |Hisense|VIDAA_TV|NOVA72673|VIDAA_TV|
 |Hisense|VIDAA_TV|NOVA72685|VIDAA_TV|
+|Hisense|VIDAA_TV|NOVA72691|VIDAA_TV|
+|Hisense|VIDAA_TV|RTK2851D|VIDAA_TV|
 |Hisense|VIDAA_TV|mt5861|VIDAA_TV|
 |Hisense|VIDAA_TV|mt5890|VIDAA_TV|
 |Hisense|Vidaa|helium3|H7|
@@ -12847,6 +12852,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|K52|meh35lm|LM-K520|
 |LGE|K61|mdh40lm|LM-Q630|
 |LGE|K62|meh35lm|LM-K525|
+|LGE|K62+|meh35lm|LM-K526|
 |LGE|K71|mdh50lm|LM-Q730|
 |LGE|K92|acexlm|LM-K920|
 |LGE|L Bello|luv80ds|LG-D335|
@@ -13164,6 +13170,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG K30|mh5lm-8m|LM-X320|
 |LGE|LG K31|mdh5lm|LGL355DL|
 |LGE|LG K31|mdh5lm|LM-K300|
+|LGE|LG K33|mfh10lm|LGL460DL|
+|LGE|LG K33|mfh10lm|LM-K330|
+|LGE|LG K35|meh20lm|LGL560DL|
+|LGE|LG K35|meh20lm|LM-K420|
 |LGE|LG K4|e1q|LG-K120GT|
 |LGE|LG K4|e1q|LG-K121|
 |LGE|LG K4|e1q|VS425|
@@ -13461,6 +13471,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG Stylo 5|cv7as|LGL722DL|
 |LGE|LG Stylo 5|cv7as|LM-Q720|
 |LGE|LG Stylo 5+|cv7as-pr|LM-Q720|
+|LGE|LG Stylo 7|fh50lm|LM-K735|
 |LGE|LG Stylo3|sf317|LG-M430|
 |LGE|LG Stylo3|sf317|LGL83BL|
 |LGE|LG Stylo3|sf317|LGL84VL|
@@ -13793,6 +13804,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|Q52|meh35lm|LM-Q520N|
 |LGE|Q61|mdh40lm|LM-Q630|
 |LGE|Q61|mdh40lm|LM-Q630N|
+|LGE|Q62|meh35lm|LM-Q626N|
 |LGE|Q8|anna|LG-H970|
 |LGE|Q8|anna|LGM-X800K|
 |LGE|Q8|anna|LGM-X800L|
@@ -13897,6 +13909,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|W30|LM-X440ZMW|LM-X440ZMW|
 |LGE|W30 Pro|Neo4LM|LM-X600IM|
 |LGE|W31|Neo31LM|LM-K315IM|
+|LGE|W41|mw41lm|LM-K610IM|
 |LGE|WM-LG8200|b6|LG-V425|
 |LGE|WM-LG8200|b6|WM-LG8200|
 |LGE|Wine Smart|cf|LGS01|
@@ -14902,6 +14915,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab P11|J606F|Lenovo TB-J606F|
 |Lenovo|Lenovo Tab P11|J606L|Lenovo TB-J606L|
 |Lenovo|Lenovo Tab P11 5G|J607Z|Lenovo TB-J607Z|
+|Lenovo|Lenovo Tab P11 Plus|TB-J616F|Lenovo TB-J616F|
 |Lenovo|Lenovo Tab P11 Pro|J706F|Lenovo TB-J706F|
 |Lenovo|Lenovo Tab P11 Pro|J706L|Lenovo TB-J706L|
 |Lenovo|Lenovo Tab V7|PB-6505M|Lenovo PB-6505M|
@@ -16666,6 +16680,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mola TV|PDBM11ADL|DV8235_P|PDBM11ADL|
 |Molvu|M10PRO|M10PRO|M10PRO|
 |Molvu|V7S|V7S|V7S|
+|Mondial|MONDIAL 4K TV|SW4H|MONDIAL 4K TV|
 |Mondial|MONDIAL TV|shinjuku|MONDIAL TV|
 |Mondial|TB-MONDIAL|TB_MONDIAL|TB_MONDIAL|
 |Mondial|TB_MONDIAL_KID|TB_MONDIAL_KID|TB_MONDIAL_KID|
@@ -20833,6 +20848,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme C17|RE50BF|RMX2101|
 |Realme|realme C2|RMX1946|RMX1946|
 |Realme|realme C21|RMX3201|RMX3201|
+|Realme|realme C21|RMX3202|RMX3202|
 |Realme|realme C21|RMX3203L1|RMX3203|
 |Realme|realme C25|RMX3191|RMX3191|
 |Realme|realme C25|RMX3193|RMX3193|
@@ -23665,7 +23681,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S7|gts7l|SM-T875N|
 |Samsung|Galaxy Tab S7|gts7lwifi|SM-T870|
 |Samsung|Galaxy Tab S7 5G|gts7l|SM-T878U|
+|Samsung|Galaxy Tab S7 FE|gts7xllite|SM-T735|
+|Samsung|Galaxy Tab S7 FE|gts7xllite|SM-T735C|
+|Samsung|Galaxy Tab S7 FE|gts7xllite|SM-T735N|
 |Samsung|Galaxy Tab S7 FE|gts7xllite|SM-T737|
+|Samsung|Galaxy Tab S7 FE|gts7xllitewifi|SM-T730|
 |Samsung|Galaxy Tab S7 FE 5G|gts7xllite|SM-T736B|
 |Samsung|Galaxy Tab S7+|gts7xl|SM-T975|
 |Samsung|Galaxy Tab S7+|gts7xl|SM-T975N|
@@ -24654,6 +24674,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|Platinum M5|Platinum_M5|Platinum_M5|
 |Sky Devices|Platinum P4|Platinum_P4|Platinum_P4|
 |Sky Devices|Platinum View2|PLATINUM_VIEW2|PLATINUM_VIEW2|
+|Sky Devices|Platinum View2_Plus|PLATINUM_VIEW2_PLUS|Platinum View2|
 |Sky Devices|Platinum_H5|Platinum_H5_PLUS|Platinum H5|
 |Sky Devices|Platinum_J5|Platinum_J5|Platinum J5|
 |Sky Devices|Platinum_K5|Platinum_K5|Platinum K5|
@@ -24832,6 +24853,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|BRAVIA VH1|BRAVIA_VH1|BRAVIA VH1|
 |Sony|BRAVIA VH2|BRAVIA_VH2|BRAVIA 4K VH2|
 |Sony|BRAVIA_VU|BRAVIA_VU1|BRAVIA VU1|
+|Sony|BRAVIA_VU2|BRAVIA_VU1_2K|BRAVIA VU2|
+|Sony|BRAVIA_VU2|BRAVIA_VU1_4K|BRAVIA VU2|
 |Sony|Ericsson Live with Walkman|WT19a|WT19a|
 |Sony|Ericsson Live with Walkman|WT19i|WT19i|
 |Sony|Internet TV|asura|Internet TV|
@@ -25773,6 +25796,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |T-Mobile|REVVLRY|channel|REVVLry|
 |T-Mobile|REVVLRY+|lake_n|REVVLRY+|
 |T-Mobile|REVVLRY+|lake_n|REVVLution|
+|T-Mobile|TVision|SEI400TM|TVision|
 |T-Mobile|Telekom_Puls|T-Tab|Telekom Puls|
 |TA71CA5_JP|"JP SA COUTO|S.A. _MG070A2T"|TA71CA5_1|
 |TAG Heuer|Connected|glacier|TAG Heuer|
@@ -25786,6 +25810,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TAG-TECH|TAG-TABKIDS|TAG-TABKIDS|TT-III|
 |TAG-TECH|TAG_TAB_II|TAG_TAB_II|TAG TAB II|
 |TAG-TECH|Tagphone plus|Tagphone_plus|Tagphone plus|
+|TAGITAL|K88|K88|K88|
 |TAGITAL|T7K_PLUS|T7K-PLUS|T7K_PLUS|
 |TASKPHONE|T20|T20P|T20|
 |TBC (TW)|TATV_8000|TATV_8000|TATV-8000|
@@ -29043,11 +29068,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2050|2050|V2050|
 |Vivo|V2050|2050|V2066|
 |Vivo|V2052|2034|V2052|
+|Vivo|V2053|2041|V2053|
 |Vivo|V2054|2034|V2054|
 |Vivo|V2054A|PD2054|V2054A|
+|Vivo|V2054A|PD2106|V2054A|
 |Vivo|V2055A|PD2055|V2055A|
 |Vivo|V2056A|PD2056|V2056A|
+|Vivo|V2057|2058|V2057|
 |Vivo|V2057A|PD2057|V2057A|
+|Vivo|V2058|2058|V2058|
 |Vivo|V2059A|PD2047|V2059A|
 |Vivo|V2061|2061|V2061|
 |Vivo|V2061A|PD2061|V2061A|
@@ -29692,6 +29721,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|Power U20|W-V750BN|W-V750BN-OPE|
 |Wiko|Power U20|W-V750BN|W-V750BN-TVM|
 |Wiko|Power U30|W-V755|W-V755-EEA|
+|Wiko|Power U30|W-V755|W-V755-OPE|
 |Wiko|Power U30|W-V755|W-V755-TVM|
 |Wiko|RAINBOW|s5501|RAINBOW|
 |Wiko|RAINBOW 4G|l5503|RAINBOW 4G|
@@ -31224,6 +31254,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|NX629J|NX629J|NX629J|
 |ZTE|NX629J|NX629J-EEA|NX629J|
 |ZTE|NX659J|NX659J-RU|NX659J|
+|ZTE|NX659J|NX659J-UN|NX659J|
 |ZTE|NX669J|NX669J|NX669J|
 |ZTE|NX669J|NX669J-EEA|NX669J|
 |ZTE|NX669J|NX669J-UN|NX669J|
@@ -31723,6 +31754,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE 8030|P963F06|ZTE 8030|
 |ZTE|ZTE 8030|P963F06|ZTE 8031|
 |ZTE|ZTE 8030N|P633S01|ZTE 8030N|
+|ZTE|ZTE 9030|P618F05|ZTE 9030|
 |ZTE|ZTE 9030N|P653S07|ZTE 9030N|
 |ZTE|ZTE A0616|P637S15|ZTE A0616|
 |ZTE|ZTE A0620|P840S13|ZTE A0620|
@@ -31746,6 +31778,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE A7010|P662S02|ZTE A7010|
 |ZTE|ZTE A7020|P963F03|ZTE A7020|
 |ZTE|ZTE A7030|P963F07|ZTE A7030|
+|ZTE|ZTE A7030RU|P963F07|ZTE A7030RU|
 |ZTE|ZTE AVID 4|calbee|Z855|
 |ZTE|ZTE AVID 559|Z559DL|Z559DL|
 |ZTE|ZTE Avid 579|Z5156|Z5156CC|
@@ -31763,6 +31796,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Axon 11 5G|P725A12|ZTE A2021H|
 |ZTE|ZTE Axon 11 SE 5G|P683S10|ZTE 9000N|
 |ZTE|ZTE Axon 20 5G|P725A02|ZTE A2121G|
+|ZTE|ZTE Axon 30 Pro 5G|P875A12|ZTE A2022P|
 |ZTE|ZTE BLADE A0605|P809F15|ZTE BLADE A0605|
 |ZTE|ZTE BLADE A0605|P809F15|ZTE BLADE A6 MAX|
 |ZTE|ZTE BLADE A0620|P840F12|ZTE BLADE A0620|
@@ -31823,6 +31857,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A31|P963F70|ZTE Blade A31|
 |ZTE|ZTE Blade A31 Lite|P932F21|ZTE Blade A31 Lite|
 |ZTE|ZTE Blade A31 Lite RU|P932F21|ZTE Blade A31 Lite RU|
+|ZTE|ZTE Blade A31RU|P963F70|ZTE Blade A31RU|
 |ZTE|ZTE Blade A3v|Z5157|Z5157V|
 |ZTE|ZTE Blade A3v|Z5157|Z5157Y|
 |ZTE|ZTE Blade A5 2019|P963F30|ZTE Blade A5 2019|
@@ -31897,6 +31932,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|dtac phone M1|P635A50|dtac phone M1|
 |ZTE|myPad P5|K78|Amazing_P5|
 |ZTE|myPad P5|K78|myPad P5|
+|ZTE|nubia  Z30 Pro|P875N02|NX667J|
 |ZTE|nubia Play|NX651J|NX651J|
 |ZTE|nubia Z5|NX501|nubia Z5|
 |ZTE|sapphire lte|sapphire4g|Z3001S|

@@ -5082,6 +5082,178 @@
    "model": "A7"
   }
  ],
+ "SW4H": [
+  {
+   "brand": "Admiral Overseas Corporation",
+   "name": "ADMIRAL 4K TV",
+   "model": "ADMIRAL 4K TV"
+  },
+  {
+   "brand": "Artel",
+   "name": "Artel Android TV",
+   "model": "Artel Android TV"
+  },
+  {
+   "brand": "Asanzo",
+   "name": "Asanzo",
+   "model": "ASG 4K TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "MP3-A 4K TV",
+   "model": "MP3-A 4K TV"
+  },
+  {
+   "brand": "EcoStar",
+   "name": "ECOSTAR SMART TV",
+   "model": "ECOSTAR SMART TV"
+  },
+  {
+   "brand": "Fresh",
+   "name": "FRESH SMART TV",
+   "model": "FRESH SMART TV"
+  },
+  {
+   "brand": "G-Guard",
+   "name": "G Guard SMART TV",
+   "model": "G Guard SMART TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Hyundai TV",
+   "model": "Hyundai TV"
+  },
+  {
+   "brand": "Indurama",
+   "name": "indurama 4K TV",
+   "model": "indurama 4K TV"
+  },
+  {
+   "brand": "Iris",
+   "name": "IRIS Smart TV",
+   "model": "IRIS Smart TV"
+  },
+  {
+   "brand": "Itel",
+   "name": "itel 4K TV",
+   "model": "itel 4K TV"
+  },
+  {
+   "brand": "Kogan",
+   "name": "Kogan 4K Android TV",
+   "model": "Kogan 4K Android TV"
+  },
+  {
+   "brand": "Mondial",
+   "name": "MONDIAL 4K TV",
+   "model": "MONDIAL 4K TV"
+  },
+  {
+   "brand": "Motorola",
+   "name": "FlipkartTV",
+   "model": "FlipkartTV"
+  },
+  {
+   "brand": "PRISMPLUS",
+   "name": "PrismPlus 4K Android TV",
+   "model": "PrismPlus 4K Android TV"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "4KTV-0SU",
+   "model": "4KTV-0SU"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "4KTV-0SUW",
+   "model": "4KTV-0SUW"
+  },
+  {
+   "brand": "Philco",
+   "name": "PHILCO Smart TV",
+   "model": "PHILCO Smart TV"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-20AE",
+   "model": "SWTV-20AE"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-20HK",
+   "model": "SWTV-20HK"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-20N",
+   "model": "SWTV-20NA"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-20SA",
+   "model": "SWTV-20SA"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-20TW",
+   "model": "SWTV-20TW"
+  },
+  {
+   "brand": "Sansui",
+   "name": "SANSUITV UHD",
+   "model": "SANSUITV UHD"
+  },
+  {
+   "brand": "Singer",
+   "name": "SINGER SL SMART TV",
+   "model": "SINGER SL SMART TV"
+  },
+  {
+   "brand": "TIT(SA)",
+   "name": "TIT SMART TV",
+   "model": "TIT SMART TV"
+  },
+  {
+   "brand": "TORNADO",
+   "name": "TORNADO Android TV",
+   "model": "TORNADO Android TV"
+  },
+  {
+   "brand": "Telefunken",
+   "name": "TELEFUNKEN SMART TV",
+   "model": "TELEFUNKEN SMART TV"
+  },
+  {
+   "brand": "Tesla",
+   "name": "Tesla S906",
+   "model": "Tesla S906"
+  },
+  {
+   "brand": "VISIO",
+   "name": "VISIO 4K Android TV",
+   "model": "VISIO 4K Android TV"
+  },
+  {
+   "brand": "VIZZION",
+   "name": "VIZZION 4K TV",
+   "model": "VIZZION 4K TV"
+  },
+  {
+   "brand": "Vision",
+   "name": "VISION SMART TV",
+   "model": "VISION SMART TV"
+  },
+  {
+   "brand": "Xtreme",
+   "name": "XTREME 4K TV",
+   "model": "XTREME 4K TV"
+  },
+  {
+   "brand": "Yasin",
+   "name": "Yasin Android TV",
+   "model": "Yasin Android TV"
+  }
+ ],
  "Fire": [
   {
    "brand": "Admiral Overseas Corporation",
@@ -8394,6 +8566,13 @@
    "brand": "AllView",
    "name": "X7_Soul_Pro_EEA",
    "model": "X7_Soul_Pro"
+  }
+ ],
+ "X8_Soul_Style": [
+  {
+   "brand": "AllView",
+   "name": "X8 Soul Style",
+   "model": "X8_Soul_Style"
   }
  ],
  "T1001": [
@@ -12642,168 +12821,6 @@
    "brand": "Artel",
    "name": "Artel Air",
    "model": "Artel Air"
-  }
- ],
- "SW4H": [
-  {
-   "brand": "Artel",
-   "name": "Artel Android TV",
-   "model": "Artel Android TV"
-  },
-  {
-   "brand": "Asanzo",
-   "name": "Asanzo",
-   "model": "ASG 4K TV"
-  },
-  {
-   "brand": "Blaupunkt",
-   "name": "MP3-A 4K TV",
-   "model": "MP3-A 4K TV"
-  },
-  {
-   "brand": "EcoStar",
-   "name": "ECOSTAR SMART TV",
-   "model": "ECOSTAR SMART TV"
-  },
-  {
-   "brand": "Fresh",
-   "name": "FRESH SMART TV",
-   "model": "FRESH SMART TV"
-  },
-  {
-   "brand": "G-Guard",
-   "name": "G Guard SMART TV",
-   "model": "G Guard SMART TV"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "Hyundai TV",
-   "model": "Hyundai TV"
-  },
-  {
-   "brand": "Indurama",
-   "name": "indurama 4K TV",
-   "model": "indurama 4K TV"
-  },
-  {
-   "brand": "Iris",
-   "name": "IRIS Smart TV",
-   "model": "IRIS Smart TV"
-  },
-  {
-   "brand": "Itel",
-   "name": "itel 4K TV",
-   "model": "itel 4K TV"
-  },
-  {
-   "brand": "Kogan",
-   "name": "Kogan 4K Android TV",
-   "model": "Kogan 4K Android TV"
-  },
-  {
-   "brand": "Motorola",
-   "name": "FlipkartTV",
-   "model": "FlipkartTV"
-  },
-  {
-   "brand": "PRISMPLUS",
-   "name": "PrismPlus 4K Android TV",
-   "model": "PrismPlus 4K Android TV"
-  },
-  {
-   "brand": "Panasonic",
-   "name": "4KTV-0SU",
-   "model": "4KTV-0SU"
-  },
-  {
-   "brand": "Panasonic",
-   "name": "4KTV-0SUW",
-   "model": "4KTV-0SUW"
-  },
-  {
-   "brand": "Philco",
-   "name": "PHILCO Smart TV",
-   "model": "PHILCO Smart TV"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-20AE",
-   "model": "SWTV-20AE"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-20HK",
-   "model": "SWTV-20HK"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-20N",
-   "model": "SWTV-20NA"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-20SA",
-   "model": "SWTV-20SA"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-20TW",
-   "model": "SWTV-20TW"
-  },
-  {
-   "brand": "Sansui",
-   "name": "SANSUITV UHD",
-   "model": "SANSUITV UHD"
-  },
-  {
-   "brand": "Singer",
-   "name": "SINGER SL SMART TV",
-   "model": "SINGER SL SMART TV"
-  },
-  {
-   "brand": "TIT(SA)",
-   "name": "TIT SMART TV",
-   "model": "TIT SMART TV"
-  },
-  {
-   "brand": "TORNADO",
-   "name": "TORNADO Android TV",
-   "model": "TORNADO Android TV"
-  },
-  {
-   "brand": "Telefunken",
-   "name": "TELEFUNKEN SMART TV",
-   "model": "TELEFUNKEN SMART TV"
-  },
-  {
-   "brand": "Tesla",
-   "name": "Tesla S906",
-   "model": "Tesla S906"
-  },
-  {
-   "brand": "VISIO",
-   "name": "VISIO 4K Android TV",
-   "model": "VISIO 4K Android TV"
-  },
-  {
-   "brand": "VIZZION",
-   "name": "VIZZION 4K TV",
-   "model": "VIZZION 4K TV"
-  },
-  {
-   "brand": "Vision",
-   "name": "VISION SMART TV",
-   "model": "VISION SMART TV"
-  },
-  {
-   "brand": "Xtreme",
-   "name": "XTREME 4K TV",
-   "model": "XTREME 4K TV"
-  },
-  {
-   "brand": "Yasin",
-   "name": "Yasin Android TV",
-   "model": "Yasin Android TV"
   }
  ],
  "Artel_Quadro": [
@@ -63824,6 +63841,13 @@
    "model": "Toshiba_TV"
   }
  ],
+ "MTK9638": [
+  {
+   "brand": "Hisense",
+   "name": "VIDAA_TV",
+   "model": "VIDAA_TV"
+  }
+ ],
  "MTK9652": [
   {
    "brand": "Hisense",
@@ -63853,6 +63877,20 @@
    "brand": "Toshiba",
    "name": "Toshiba_TV",
    "model": "Toshiba_TV"
+  }
+ ],
+ "NOVA72691": [
+  {
+   "brand": "Hisense",
+   "name": "VIDAA_TV",
+   "model": "VIDAA_TV"
+  }
+ ],
+ "RTK2851D": [
+  {
+   "brand": "Hisense",
+   "name": "VIDAA_TV",
+   "model": "VIDAA_TV"
   }
  ],
  "mt5861": [
@@ -88938,8 +88976,18 @@
   },
   {
    "brand": "LGE",
+   "name": "K62+",
+   "model": "LM-K526"
+  },
+  {
+   "brand": "LGE",
    "name": "Q52",
    "model": "LM-Q520N"
+  },
+  {
+   "brand": "LGE",
+   "name": "Q62",
+   "model": "LM-Q626N"
   }
  ],
  "mdh40lm": [
@@ -90870,6 +90918,30 @@
    "model": "LM-Q310N"
   }
  ],
+ "mfh10lm": [
+  {
+   "brand": "LGE",
+   "name": "LG K33",
+   "model": "LGL460DL"
+  },
+  {
+   "brand": "LGE",
+   "name": "LG K33",
+   "model": "LM-K330"
+  }
+ ],
+ "meh20lm": [
+  {
+   "brand": "LGE",
+   "name": "LG K35",
+   "model": "LGL560DL"
+  },
+  {
+   "brand": "LGE",
+   "name": "LG K35",
+   "model": "LM-K420"
+  }
+ ],
  "e1q": [
   {
    "brand": "LGE",
@@ -92508,6 +92580,13 @@
    "brand": "LGE",
    "name": "LG Stylo 5+",
    "model": "LM-Q720"
+  }
+ ],
+ "fh50lm": [
+  {
+   "brand": "LGE",
+   "name": "LG Stylo 7",
+   "model": "LM-K735"
   }
  ],
  "sf317": [
@@ -94528,6 +94607,13 @@
    "brand": "LGE",
    "name": "W31",
    "model": "LM-K315IM"
+  }
+ ],
+ "mw41lm": [
+  {
+   "brand": "LGE",
+   "name": "W41",
+   "model": "LM-K610IM"
   }
  ],
  "vfp": [
@@ -101131,6 +101217,13 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab P11 5G",
    "model": "Lenovo TB-J607Z"
+  }
+ ],
+ "TB-J616F": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab P11 Plus",
+   "model": "Lenovo TB-J616F"
   }
  ],
  "J706F": [
@@ -139050,6 +139143,13 @@
    "model": "RMX3201"
   }
  ],
+ "RMX3202": [
+  {
+   "brand": "Realme",
+   "name": "realme C21",
+   "model": "RMX3202"
+  }
+ ],
  "RMX3203L1": [
   {
    "brand": "Realme",
@@ -156977,12 +157077,34 @@
   {
    "brand": "Samsung",
    "name": "Galaxy Tab S7 FE",
+   "model": "SM-T735"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S7 FE",
+   "model": "SM-T735C"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S7 FE",
+   "model": "SM-T735N"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S7 FE",
    "model": "SM-T737"
   },
   {
    "brand": "Samsung",
    "name": "Galaxy Tab S7 FE 5G",
    "model": "SM-T736B"
+  }
+ ],
+ "gts7xllitewifi": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S7 FE",
+   "model": "SM-T730"
   }
  ],
  "gts7xl": [
@@ -163246,6 +163368,13 @@
    "model": "PLATINUM_VIEW2"
   }
  ],
+ "PLATINUM_VIEW2_PLUS": [
+  {
+   "brand": "Sky Devices",
+   "name": "Platinum View2_Plus",
+   "model": "Platinum View2"
+  }
+ ],
  "Platinum_H5_PLUS": [
   {
    "brand": "Sky Devices",
@@ -164415,6 +164544,20 @@
    "brand": "Sony",
    "name": "BRAVIA_VU",
    "model": "BRAVIA VU1"
+  }
+ ],
+ "BRAVIA_VU1_2K": [
+  {
+   "brand": "Sony",
+   "name": "BRAVIA_VU2",
+   "model": "BRAVIA VU2"
+  }
+ ],
+ "BRAVIA_VU1_4K": [
+  {
+   "brand": "Sony",
+   "name": "BRAVIA_VU2",
+   "model": "BRAVIA VU2"
   }
  ],
  "WT19a": [
@@ -170446,6 +170589,18 @@
    "model": "T790Z"
   }
  ],
+ "SEI400TM": [
+  {
+   "brand": "T-Mobile",
+   "name": "TVision",
+   "model": "TVision"
+  },
+  {
+   "brand": "TVision",
+   "name": "SEI400TM",
+   "model": "TVision"
+  }
+ ],
  "T-Tab": [
   {
    "brand": "T-Mobile",
@@ -170526,6 +170681,13 @@
    "brand": "TAG-TECH",
    "name": "Tagphone plus",
    "model": "Tagphone plus"
+  }
+ ],
+ "K88": [
+  {
+   "brand": "TAGITAL",
+   "name": "K88",
+   "model": "K88"
   }
  ],
  "T7K-PLUS": [
@@ -178711,13 +178873,6 @@
    "brand": "TVUp",
    "name": "Mediacenter 6G 4K",
    "model": "Mediacenter 6G 4K"
-  }
- ],
- "SEI400TM": [
-  {
-   "brand": "TVision",
-   "name": "SEI400TM",
-   "model": "TVision"
   }
  ],
  "E450A2018": [
@@ -189078,6 +189233,11 @@
    "brand": "Vivo",
    "name": "V2041",
    "model": "V2041"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2053",
+   "model": "V2053"
   }
  ],
  "2044": [
@@ -189165,6 +189325,18 @@
    "model": "V2054A"
   }
  ],
+ "PD2106": [
+  {
+   "brand": "Vivo",
+   "name": "V2054A",
+   "model": "V2054A"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2106A",
+   "model": "V2106A"
+  }
+ ],
  "PD2055": [
   {
    "brand": "Vivo",
@@ -189177,6 +189349,18 @@
    "brand": "Vivo",
    "name": "V2056A",
    "model": "V2056A"
+  }
+ ],
+ "2058": [
+  {
+   "brand": "Vivo",
+   "name": "V2057",
+   "model": "V2057"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2058",
+   "model": "V2058"
   }
  ],
  "PD2057": [
@@ -189271,13 +189455,6 @@
    "brand": "Vivo",
    "name": "V2099A",
    "model": "V2099A"
-  }
- ],
- "PD2106": [
-  {
-   "brand": "Vivo",
-   "name": "V2106A",
-   "model": "V2106A"
   }
  ],
  "PD2106B": [
@@ -193261,6 +193438,11 @@
    "brand": "Wiko",
    "name": "Power U30",
    "model": "W-V755-EEA"
+  },
+  {
+   "brand": "Wiko",
+   "name": "Power U30",
+   "model": "W-V755-OPE"
   },
   {
    "brand": "Wiko",
@@ -202603,6 +202785,13 @@
    "model": "NX659J"
   }
  ],
+ "NX659J-UN": [
+  {
+   "brand": "ZTE",
+   "name": "NX659J",
+   "model": "NX659J"
+  }
+ ],
  "NX669J": [
   {
    "brand": "ZTE",
@@ -204935,6 +205124,13 @@
    "model": "ZTE 8030N"
   }
  ],
+ "P618F05": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE 9030",
+   "model": "ZTE 9030"
+  }
+ ],
  "P653S07": [
   {
    "brand": "ZTE",
@@ -205067,6 +205263,11 @@
    "brand": "ZTE",
    "name": "ZTE A7030",
    "model": "ZTE A7030"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE A7030RU",
+   "model": "ZTE A7030RU"
   }
  ],
  "calbee": [
@@ -205161,6 +205362,13 @@
    "brand": "ZTE",
    "name": "ZTE Axon 11 SE 5G",
    "model": "ZTE 9000N"
+  }
+ ],
+ "P875A12": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Axon 30 Pro 5G",
+   "model": "ZTE A2022P"
   }
  ],
  "P809F12": [
@@ -205310,6 +205518,11 @@
    "brand": "ZTE",
    "name": "ZTE Blade A31",
    "model": "ZTE Blade A31"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A31RU",
+   "model": "ZTE Blade A31RU"
   }
  ],
  "P932F21": [
@@ -205624,6 +205837,13 @@
    "brand": "Zonko",
    "name": "K78",
    "model": "K78"
+  }
+ ],
+ "P875N02": [
+  {
+   "brand": "ZTE",
+   "name": "nubia  Z30 Pro",
+   "model": "NX667J"
   }
  ],
  "NX651J": [

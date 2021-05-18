@@ -9426,6 +9426,13 @@
    "model": "A7"
   }
  ],
+ "ADMIRAL 4K TV": [
+  {
+   "brand": "Admiral Overseas Corporation",
+   "device": "SW4H",
+   "model": "ADMIRAL 4K TV"
+  }
+ ],
  "C7": [
   {
    "brand": "Admiral Overseas Corporation",
@@ -12707,6 +12714,13 @@
    "brand": "AllView",
    "device": "X7_Soul_Pro",
    "model": "X7_Soul_Pro"
+  }
+ ],
+ "X8 Soul Style": [
+  {
+   "brand": "AllView",
+   "device": "X8_Soul_Style",
+   "model": "X8_Soul_Style"
   }
  ],
  "T1001": [
@@ -68498,6 +68512,11 @@
   },
   {
    "brand": "Hisense",
+   "device": "MTK9638",
+   "model": "VIDAA_TV"
+  },
+  {
+   "brand": "Hisense",
    "device": "MTK9652",
    "model": "VIDAA_TV"
   },
@@ -68509,6 +68528,16 @@
   {
    "brand": "Hisense",
    "device": "NOVA72685",
+   "model": "VIDAA_TV"
+  },
+  {
+   "brand": "Hisense",
+   "device": "NOVA72691",
+   "model": "VIDAA_TV"
+  },
+  {
+   "brand": "Hisense",
+   "device": "RTK2851D",
    "model": "VIDAA_TV"
   },
   {
@@ -87706,6 +87735,11 @@
    "brand": "Kenxinda",
    "device": "W41",
    "model": "W41"
+  },
+  {
+   "brand": "LGE",
+   "device": "mw41lm",
+   "model": "LM-K610IM"
   }
  ],
  "W50M": [
@@ -91038,6 +91072,13 @@
    "model": "LM-K525"
   }
  ],
+ "K62+": [
+  {
+   "brand": "LGE",
+   "device": "meh35lm",
+   "model": "LM-K526"
+  }
+ ],
  "K71": [
   {
    "brand": "LGE",
@@ -92831,6 +92872,30 @@
    "model": "LM-K300"
   }
  ],
+ "LG K33": [
+  {
+   "brand": "LGE",
+   "device": "mfh10lm",
+   "model": "LGL460DL"
+  },
+  {
+   "brand": "LGE",
+   "device": "mfh10lm",
+   "model": "LM-K330"
+  }
+ ],
+ "LG K35": [
+  {
+   "brand": "LGE",
+   "device": "meh20lm",
+   "model": "LGL560DL"
+  },
+  {
+   "brand": "LGE",
+   "device": "meh20lm",
+   "model": "LM-K420"
+  }
+ ],
  "LG K4": [
   {
    "brand": "LGE",
@@ -94508,6 +94573,13 @@
    "brand": "LGE",
    "device": "cv7as-pr",
    "model": "LM-Q720"
+  }
+ ],
+ "LG Stylo 7": [
+  {
+   "brand": "LGE",
+   "device": "fh50lm",
+   "model": "LM-K735"
   }
  ],
  "LG Stylo3": [
@@ -96436,6 +96508,13 @@
    "brand": "LGE",
    "device": "mdh40lm",
    "model": "LM-Q630N"
+  }
+ ],
+ "Q62": [
+  {
+   "brand": "LGE",
+   "device": "meh35lm",
+   "model": "LM-Q626N"
   }
  ],
  "Q92": [
@@ -102842,6 +102921,13 @@
    "brand": "Lenovo",
    "device": "J607Z",
    "model": "Lenovo TB-J607Z"
+  }
+ ],
+ "Lenovo Tab P11 Plus": [
+  {
+   "brand": "Lenovo",
+   "device": "TB-J616F",
+   "model": "Lenovo TB-J616F"
   }
  ],
  "Lenovo Tab P11 Pro": [
@@ -113889,6 +113975,13 @@
    "brand": "Molvu",
    "device": "V7S",
    "model": "V7S"
+  }
+ ],
+ "MONDIAL 4K TV": [
+  {
+   "brand": "Mondial",
+   "device": "SW4H",
+   "model": "MONDIAL 4K TV"
   }
  ],
  "MONDIAL TV": [
@@ -139509,6 +139602,11 @@
   },
   {
    "brand": "Realme",
+   "device": "RMX3202",
+   "model": "RMX3202"
+  },
+  {
+   "brand": "Realme",
    "device": "RMX3203L1",
    "model": "RMX3203"
   }
@@ -155214,7 +155312,27 @@
   {
    "brand": "Samsung",
    "device": "gts7xllite",
+   "model": "SM-T735"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gts7xllite",
+   "model": "SM-T735C"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gts7xllite",
+   "model": "SM-T735N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gts7xllite",
    "model": "SM-T737"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gts7xllitewifi",
+   "model": "SM-T730"
   }
  ],
  "Galaxy Tab S7 FE 5G": [
@@ -161357,6 +161475,13 @@
    "model": "PLATINUM_VIEW2"
   }
  ],
+ "Platinum View2_Plus": [
+  {
+   "brand": "Sky Devices",
+   "device": "PLATINUM_VIEW2_PLUS",
+   "model": "Platinum View2"
+  }
+ ],
  "Platinum_H5": [
   {
    "brand": "Sky Devices",
@@ -162423,6 +162548,18 @@
    "brand": "Sony",
    "device": "BRAVIA_VU1",
    "model": "BRAVIA VU1"
+  }
+ ],
+ "BRAVIA_VU2": [
+  {
+   "brand": "Sony",
+   "device": "BRAVIA_VU1_2K",
+   "model": "BRAVIA VU2"
+  },
+  {
+   "brand": "Sony",
+   "device": "BRAVIA_VU1_4K",
+   "model": "BRAVIA VU2"
   }
  ],
  "Ericsson Live with Walkman": [
@@ -167917,6 +168054,13 @@
    "model": "REVVLution"
   }
  ],
+ "TVision": [
+  {
+   "brand": "T-Mobile",
+   "device": "SEI400TM",
+   "model": "TVision"
+  }
+ ],
  "Telekom_Puls": [
   {
    "brand": "T-Mobile",
@@ -168006,6 +168150,18 @@
    "brand": "TAG-TECH",
    "device": "Tagphone_plus",
    "model": "Tagphone plus"
+  }
+ ],
+ "K88": [
+  {
+   "brand": "TAGITAL",
+   "device": "K88",
+   "model": "K88"
+  },
+  {
+   "brand": "ZTE",
+   "device": "jasmine",
+   "model": "K88"
   }
  ],
  "T7K_PLUS": [
@@ -186905,6 +187061,13 @@
    "model": "V2052"
   }
  ],
+ "V2053": [
+  {
+   "brand": "Vivo",
+   "device": "2041",
+   "model": "V2053"
+  }
+ ],
  "V2054": [
   {
    "brand": "Vivo",
@@ -186916,6 +187079,11 @@
   {
    "brand": "Vivo",
    "device": "PD2054",
+   "model": "V2054A"
+  },
+  {
+   "brand": "Vivo",
+   "device": "PD2106",
    "model": "V2054A"
   }
  ],
@@ -186933,11 +187101,25 @@
    "model": "V2056A"
   }
  ],
+ "V2057": [
+  {
+   "brand": "Vivo",
+   "device": "2058",
+   "model": "V2057"
+  }
+ ],
  "V2057A": [
   {
    "brand": "Vivo",
    "device": "PD2057",
    "model": "V2057A"
+  }
+ ],
+ "V2058": [
+  {
+   "brand": "Vivo",
+   "device": "2058",
+   "model": "V2058"
   }
  ],
  "V2059A": [
@@ -191079,6 +191261,11 @@
    "brand": "Wiko",
    "device": "W-V755",
    "model": "W-V755-EEA"
+  },
+  {
+   "brand": "Wiko",
+   "device": "W-V755",
+   "model": "W-V755-OPE"
   },
   {
    "brand": "Wiko",
@@ -197818,13 +198005,6 @@
    "model": "K87CC"
   }
  ],
- "K88": [
-  {
-   "brand": "ZTE",
-   "device": "jasmine",
-   "model": "K88"
-  }
- ],
  "K97": [
   {
    "brand": "ZTE",
@@ -198975,6 +199155,11 @@
   {
    "brand": "ZTE",
    "device": "NX659J-RU",
+   "model": "NX659J"
+  },
+  {
+   "brand": "ZTE",
+   "device": "NX659J-UN",
    "model": "NX659J"
   }
  ],
@@ -201938,6 +202123,13 @@
    "model": "ZTE 8030N"
   }
  ],
+ "ZTE 9030": [
+  {
+   "brand": "ZTE",
+   "device": "P618F05",
+   "model": "ZTE 9030"
+  }
+ ],
  "ZTE 9030N": [
   {
    "brand": "ZTE",
@@ -202097,6 +202289,13 @@
    "model": "ZTE A7030"
   }
  ],
+ "ZTE A7030RU": [
+  {
+   "brand": "ZTE",
+   "device": "P963F07",
+   "model": "ZTE A7030RU"
+  }
+ ],
  "ZTE AVID 4": [
   {
    "brand": "ZTE",
@@ -202198,6 +202397,13 @@
    "brand": "ZTE",
    "device": "P725A02",
    "model": "ZTE A2121G"
+  }
+ ],
+ "ZTE Axon 30 Pro 5G": [
+  {
+   "brand": "ZTE",
+   "device": "P875A12",
+   "model": "ZTE A2022P"
   }
  ],
  "ZTE BLADE A0605": [
@@ -202596,6 +202802,13 @@
    "brand": "ZTE",
    "device": "P932F21",
    "model": "ZTE Blade A31 Lite RU"
+  }
+ ],
+ "ZTE Blade A31RU": [
+  {
+   "brand": "ZTE",
+   "device": "P963F70",
+   "model": "ZTE Blade A31RU"
   }
  ],
  "ZTE Blade A3v": [
@@ -203084,6 +203297,13 @@
    "brand": "ZTE",
    "device": "K78",
    "model": "myPad P5"
+  }
+ ],
+ "nubia  Z30 Pro": [
+  {
+   "brand": "ZTE",
+   "device": "P875N02",
+   "model": "NX667J"
   }
  ],
  "nubia Play": [
