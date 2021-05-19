@@ -1785,6 +1785,11 @@
    "model": "TURBO-X FHD Android TV"
   },
   {
+   "brand": "UBCtv",
+   "name": "Vietnam",
+   "model": "UBC Android TV"
+  },
+  {
    "brand": "Vision",
    "name": "Bangladesh",
    "model": "Vision FHD Android TV"
@@ -1985,6 +1990,11 @@
    "brand": "Turbo-X",
    "name": "Greek and Bulgarian",
    "model": "TURBO-X UHD Android TV"
+  },
+  {
+   "brand": "UBCtv",
+   "name": "Vietnam",
+   "model": "UBC Android TV"
   },
   {
    "brand": "Widevu",
@@ -4453,6 +4463,23 @@
    "brand": "Acet",
    "name": "X63L",
    "model": "X63L"
+  }
+ ],
+ "takao": [
+  {
+   "brand": "Aconatic",
+   "name": "ACONATIC FHD TV",
+   "model": "ACONATIC FHD TV"
+  },
+  {
+   "brand": "IMPEX",
+   "name": "Grande FHD TV",
+   "model": "GRANDE FHD TV"
+  },
+  {
+   "brand": "Philips",
+   "name": "2K Android TV",
+   "model": "2020 FHD Android TV"
   }
  ],
  "komagome": [
@@ -45375,6 +45402,13 @@
    "brand": "FCC Movil",
    "name": "GK788",
    "model": "GK788"
+  }
+ ],
+ "F41B": [
+  {
+   "brand": "FCNT",
+   "name": "arrows Be4 Plus F-41B",
+   "model": "F-41B"
   }
  ],
  "LUXE_3": [
@@ -124107,6 +124141,11 @@
   },
   {
    "brand": "Oppo",
+   "name": "A54",
+   "model": "CPH2241"
+  },
+  {
+   "brand": "Oppo",
    "name": "CPH2179",
    "model": "CPH2179"
   },
@@ -130734,13 +130773,6 @@
    "brand": "Philips",
    "name": "2K Android TV",
    "model": "FHD Android TV"
-  }
- ],
- "takao": [
-  {
-   "brand": "Philips",
-   "name": "2K Android TV",
-   "model": "2020 FHD Android TV"
   }
  ],
  "philips_MT5593FHT_EU": [
@@ -157098,6 +157130,11 @@
    "brand": "Samsung",
    "name": "Galaxy Tab S7 FE 5G",
    "model": "SM-T736B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S7 FE 5G",
+   "model": "SM-T736N"
   }
  ],
  "gts7xllitewifi": [
@@ -164898,6 +164935,13 @@
    "model": "XQ-AU52"
   }
  ],
+ "SO-52B": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 III",
+   "model": "SO-52B"
+  }
+ ],
  "I3213": [
   {
    "brand": "Sony",
@@ -165085,6 +165129,13 @@
    "brand": "Sony",
    "name": "Xperia Ace",
    "model": "SO-02L"
+  }
+ ],
+ "SO-41B": [
+  {
+   "brand": "Sony",
+   "name": "Xperia Ace II",
+   "model": "SO-41B"
   }
  ],
  "C2304": [
@@ -184274,6 +184325,13 @@
    "brand": "Ulefone",
    "name": "Armor 8",
    "model": "Armor 8"
+  }
+ ],
+ "Armor_8_Pro": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor 8 Pro",
+   "model": "Armor 8 Pro"
   }
  ],
  "Armor_9": [

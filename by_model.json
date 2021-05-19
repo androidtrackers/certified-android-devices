@@ -3715,6 +3715,13 @@
    "device": "bangbae"
   }
  ],
+ "ACONATIC FHD TV": [
+  {
+   "brand": "Aconatic",
+   "name": "ACONATIC FHD TV",
+   "device": "takao"
+  }
+ ],
  "Aconatic 2K Android TV": [
   {
    "brand": "Aconatic",
@@ -43288,6 +43295,13 @@
    "device": "GK788"
   }
  ],
+ "F-41B": [
+  {
+   "brand": "FCNT",
+   "name": "arrows Be4 Plus F-41B",
+   "device": "F41B"
+  }
+ ],
  "LUXE 3": [
   {
    "brand": "FELUX",
@@ -76900,6 +76914,13 @@
    "brand": "IMPECCA",
    "name": "IMPECCA",
    "device": "gangbyeon"
+  }
+ ],
+ "GRANDE FHD TV": [
+  {
+   "brand": "IMPEX",
+   "name": "Grande FHD TV",
+   "device": "takao"
   }
  ],
  "PORTUGAL\"": [
@@ -127136,6 +127157,13 @@
    "device": "OP4F2F"
   }
  ],
+ "CPH2241": [
+  {
+   "brand": "Oppo",
+   "name": "A54",
+   "device": "OP4F2F"
+  }
+ ],
  "PEMM00": [
   {
    "brand": "Oppo",
@@ -162060,6 +162088,13 @@
    "device": "gts7xllite"
   }
  ],
+ "SM-T736N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S7 FE 5G",
+   "device": "gts7xllite"
+  }
+ ],
  "SM-T975": [
   {
    "brand": "Samsung",
@@ -170104,6 +170139,13 @@
    "device": "XQ-AU52"
   }
  ],
+ "SO-52B": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 III",
+   "device": "SO-52B"
+  }
+ ],
  "I3213": [
   {
    "brand": "Sony",
@@ -170291,6 +170333,13 @@
    "brand": "Sony",
    "name": "Xperia Ace",
    "device": "SO-02L"
+  }
+ ],
+ "SO-41B": [
+  {
+   "brand": "Sony",
+   "name": "Xperia Ace II",
+   "device": "SO-41B"
   }
  ],
  "C2304": [
@@ -191722,6 +191771,18 @@
    "device": "seocho"
   }
  ],
+ "UBC Android TV": [
+  {
+   "brand": "UBCtv",
+   "name": "Vietnam",
+   "device": "tamachi"
+  },
+  {
+   "brand": "UBCtv",
+   "name": "Vietnam",
+   "device": "yeongdeungpo"
+  }
+ ],
  "KIDS705-701A": [
   {
    "brand": "UJoyFeel",
@@ -192026,6 +192087,13 @@
    "brand": "Ulefone",
    "name": "Armor 8",
    "device": "Armor_8"
+  }
+ ],
+ "Armor 8 Pro": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor 8 Pro",
+   "device": "Armor_8_Pro"
   }
  ],
  "Armor 9": [

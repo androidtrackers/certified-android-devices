@@ -2231,6 +2231,11 @@
    "model": "Aconatic 4K Android TV"
   },
   {
+   "device": "takao",
+   "name": "ACONATIC FHD TV",
+   "model": "ACONATIC FHD TV"
+  },
+  {
    "device": "komagome",
    "name": "Aconatic",
    "model": "Aconatic 2K Android TV"
@@ -30703,6 +30708,13 @@
    "model": "GK788"
   }
  ],
+ "FCNT": [
+  {
+   "device": "F41B",
+   "name": "arrows Be4 Plus F-41B",
+   "model": "F-41B"
+  }
+ ],
  "FELUX": [
   {
    "device": "LUXE_3",
@@ -55918,6 +55930,13 @@
    "device": "gangbyeon",
    "name": "IMPECCA",
    "model": "IMPECCA 4K Smart TV"
+  }
+ ],
+ "IMPEX": [
+  {
+   "device": "takao",
+   "name": "Grande FHD TV",
+   "model": "GRANDE FHD TV"
   }
  ],
  "INFINITON": [
@@ -94972,6 +94991,11 @@
    "model": "CPH2239"
   },
   {
+   "device": "OP4F2F",
+   "name": "A54",
+   "model": "CPH2241"
+  },
+  {
    "device": "OP4E2F",
    "name": "A55 5G",
    "model": "PEMM00"
@@ -121471,6 +121495,11 @@
    "model": "SM-T736B"
   },
   {
+   "device": "gts7xllite",
+   "name": "Galaxy Tab S7 FE 5G",
+   "model": "SM-T736N"
+  },
+  {
    "device": "gts7xl",
    "name": "Galaxy Tab S7+",
    "model": "SM-T975"
@@ -127674,6 +127703,11 @@
    "model": "XQ-AU52"
   },
   {
+   "device": "SO-52B",
+   "name": "Xperia 10 III",
+   "model": "SO-52B"
+  },
+  {
    "device": "I3213",
    "name": "Xperia 10 Plus",
    "model": "I3213"
@@ -127807,6 +127841,11 @@
    "device": "SO-02L",
    "name": "Xperia Ace",
    "model": "SO-02L"
+  },
+  {
+   "device": "SO-41B",
+   "name": "Xperia Ace II",
+   "model": "SO-41B"
   },
   {
    "device": "C2304",
@@ -144484,6 +144523,18 @@
    "model": "TVSTAR 4K Android TV"
   }
  ],
+ "UBCtv": [
+  {
+   "device": "tamachi",
+   "name": "Vietnam",
+   "model": "UBC Android TV"
+  },
+  {
+   "device": "yeongdeungpo",
+   "name": "Vietnam",
+   "model": "UBC Android TV"
+  }
+ ],
  "UJoyFeel": [
   {
    "device": "KIDS705_701A",
@@ -144772,6 +144823,11 @@
    "device": "Armor_8",
    "name": "Armor 8",
    "model": "Armor 8"
+  },
+  {
+   "device": "Armor_8_Pro",
+   "name": "Armor 8 Pro",
+   "model": "Armor 8 Pro"
   },
   {
    "device": "Armor_9",

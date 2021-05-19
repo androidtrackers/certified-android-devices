@@ -8849,6 +8849,13 @@
    "model": "Aconatic 4K Android TV"
   }
  ],
+ "ACONATIC FHD TV": [
+  {
+   "brand": "Aconatic",
+   "device": "takao",
+   "model": "ACONATIC FHD TV"
+  }
+ ],
  "Aconatic": [
   {
    "brand": "Aconatic",
@@ -47924,6 +47931,16 @@
    "brand": "SANCO",
    "device": "yeongdeungpo",
    "model": "SANCO Android TV"
+  },
+  {
+   "brand": "UBCtv",
+   "device": "tamachi",
+   "model": "UBC Android TV"
+  },
+  {
+   "brand": "UBCtv",
+   "device": "yeongdeungpo",
+   "model": "UBC Android TV"
   }
  ],
  "Essential": [
@@ -49610,6 +49627,13 @@
    "brand": "FCC Movil",
    "device": "GK788",
    "model": "GK788"
+  }
+ ],
+ "arrows Be4 Plus F-41B": [
+  {
+   "brand": "FCNT",
+   "device": "F41B",
+   "model": "F-41B"
   }
  ],
  "LUXE 3": [
@@ -79091,6 +79115,13 @@
    "brand": "IMPECCA",
    "device": "gangbyeon",
    "model": "IMPECCA 4K Smart TV"
+  }
+ ],
+ "Grande FHD TV": [
+  {
+   "brand": "IMPEX",
+   "device": "takao",
+   "model": "GRANDE FHD TV"
   }
  ],
  "\"SPAIN": [
@@ -110311,6 +110342,11 @@
    "brand": "Oppo",
    "device": "OP4F2F",
    "model": "CPH2239"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP4F2F",
+   "model": "CPH2241"
   }
  ],
  "A56": [
@@ -155340,6 +155376,11 @@
    "brand": "Samsung",
    "device": "gts7xllite",
    "model": "SM-T736B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gts7xllite",
+   "model": "SM-T736N"
   }
  ],
  "Galaxy Tab S7+": [
@@ -162819,6 +162860,13 @@
    "model": "XQ-AU52"
   }
  ],
+ "Xperia 10 III": [
+  {
+   "brand": "Sony",
+   "device": "SO-52B",
+   "model": "SO-52B"
+  }
+ ],
  "Xperia 10 Plus": [
   {
    "brand": "Sony",
@@ -162970,6 +163018,13 @@
    "brand": "Sony",
    "device": "SO-02L",
    "model": "SO-02L"
+  }
+ ],
+ "Xperia Ace II": [
+  {
+   "brand": "Sony",
+   "device": "SO-41B",
+   "model": "SO-41B"
   }
  ],
  "Xperia C": [
@@ -181884,6 +181939,13 @@
    "brand": "Ulefone",
    "device": "Armor_8",
    "model": "Armor 8"
+  }
+ ],
+ "Armor 8 Pro": [
+  {
+   "brand": "Ulefone",
+   "device": "Armor_8_Pro",
+   "model": "Armor 8 Pro"
   }
  ],
  "Armor 9": [

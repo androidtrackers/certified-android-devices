@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-05-18
+Last sync is 2021-05-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -427,6 +427,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aceson|R726|R726|R726|
 |Acet|X63L|X63L|X63L|
 |Aconatic|ACONATIC|bangbae|Aconatic 4K Android TV|
+|Aconatic|ACONATIC FHD TV|takao|ACONATIC FHD TV|
 |Aconatic|Aconatic|komagome|Aconatic 2K Android TV|
 |Aconatic|Android TV|R1|ATV R1|
 |Aconatic|Android TV|R2|ATV R2|
@@ -5913,6 +5914,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FBC|M24IS820|fst01ms|M24IS820|
 |FCC Movil|GK738_3G|GK738_3G|GK738_3G|
 |FCC Movil|GK788|GK788|GK788|
+|FCNT|arrows Be4 Plus F-41B|F41B|F-41B|
 |FELUX|LUXE 3|LUXE_3|LUXE 3|
 |FFFSMARTLIFE|FFFTAB10|FFFTAB10|FFFTAB10|
 |FFFSMARTLIFE|FFFTAB7|FFFTAB7|FFFTAB7|
@@ -10872,6 +10874,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IMO(In My Opinion)|IMO S2|S2|IMO S2|
 |IMPECCA|IMP|kanda|IMPECCA 2K Smart TV|
 |IMPECCA|IMPECCA|gangbyeon|IMPECCA 4K Smart TV|
+|IMPEX|Grande FHD TV|takao|GRANDE FHD TV|
 |INFINITON|"SPAIN|MOROCCO|PORTUGAL"|
 |INFINITON|"SPAIN|MOROCCO|PORTUGAL"|
 |INOI|INOI 1 Lite|INOI_1_Lite|INOI_1_Lite|
@@ -18476,6 +18479,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A53s|OP4EFDL1|CPH2135|
 |Oppo|A53w|A53|A53w|
 |Oppo|A54|OP4F2F|CPH2239|
+|Oppo|A54|OP4F2F|CPH2241|
 |Oppo|A55 5G|OP4E2F|PEMM00|
 |Oppo|A55 5G|OP4E2F|PEMT00|
 |Oppo|A55 5G|OP4E8C|PEMM20|
@@ -23687,6 +23691,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S7 FE|gts7xllite|SM-T737|
 |Samsung|Galaxy Tab S7 FE|gts7xllitewifi|SM-T730|
 |Samsung|Galaxy Tab S7 FE 5G|gts7xllite|SM-T736B|
+|Samsung|Galaxy Tab S7 FE 5G|gts7xllite|SM-T736N|
 |Samsung|Galaxy Tab S7+|gts7xl|SM-T975|
 |Samsung|Galaxy Tab S7+|gts7xl|SM-T975N|
 |Samsung|Galaxy Tab S7+|gts7xlwifi|SM-T970|
@@ -24898,6 +24903,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 10 II|XQ-AU42|XQ-AU42|
 |Sony|Xperia 10 II|XQ-AU51|XQ-AU51|
 |Sony|Xperia 10 II|XQ-AU52|XQ-AU52|
+|Sony|Xperia 10 III|SO-52B|SO-52B|
 |Sony|Xperia 10 Plus|I3213|I3213|
 |Sony|Xperia 10 Plus|I3223|I3223|
 |Sony|Xperia 10 Plus|I4213|I4213|
@@ -24925,6 +24931,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia A4|SO-04G|SO-04G|
 |Sony|Xperia Ace|J3173|J3173|
 |Sony|Xperia Ace|SO-02L|SO-02L|
+|Sony|Xperia Ace II|SO-41B|SO-41B|
 |Sony|Xperia C|C2304|C2304|
 |Sony|Xperia C|C2305|C2305|
 |Sony|Xperia C3|D2533|D2533|
@@ -28178,6 +28185,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Turk Telekom|E4|722T|E4|
 |Tvera|Tvera|seocho|Tvera 4K Android TV|
 |Tvstar|TVSTAR|seocho|TVSTAR 4K Android TV|
+|UBCtv|Vietnam|tamachi|UBC Android TV|
+|UBCtv|Vietnam|yeongdeungpo|UBC Android TV|
 |UJoyFeel|KIDS705-701A|KIDS705_701A|KIDS705-701A|
 |UJoyFeel|KIDS705_701|KIDS705-701|KIDS705-701|
 |UKA-Dream|UKA_Dream_1|UKA_Dream_1|UKA_Dream_1|
@@ -28230,6 +28239,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor 6|Armor_6|Armor_6|
 |Ulefone|Armor 7|Armor_7_Q|Armor 7|
 |Ulefone|Armor 8|Armor_8|Armor 8|
+|Ulefone|Armor 8 Pro|Armor_8_Pro|Armor 8 Pro|
 |Ulefone|Armor 9|Armor_9|Armor 9|
 |Ulefone|Armor 9E|Armor_9E|Armor 9E|
 |Ulefone|Armor X|Armor_X|Armor_X|
