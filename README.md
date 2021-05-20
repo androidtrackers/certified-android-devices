@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-05-19
+Last sync is 2021-05-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -18616,6 +18616,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|K3|OP4679|PCGT00|
 |Oppo|K3|OP486B|CPH1955|
 |Oppo|K5|OP4AA7|PCNM00|
+|Oppo|K9 5G|OP4E9F|PEXM00|
 |Oppo|N1|N1|N1|
 |Oppo|N1 mimi|N1mini|N5111|
 |Oppo|N1 mimi|N1mini|N5116|
@@ -18634,7 +18635,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO A74 5G|OP4F39L1|CPH2263|
 |Oppo|OPPO A74 5G|OP4F39L1|OPG02|
 |Oppo|OPPO Find X3 Lite 5G|OP4F1BL1|CPH2145|
-|Oppo|OPPO K9 5G|OP4E9F|PEXM00|
 |Oppo|OPPO Reno5|OP4F25L1|CPH2159|
 |Oppo|OPPO Reno5 5G|OP4F1BL1|CPH2145|
 |Oppo|OPPO Reno5 A|OP4F2BL1|A101OP|
@@ -18827,6 +18827,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno5 Pro 5G|OP4EA3|PDSM00|
 |Oppo|Reno5 Pro 5G|OP4EA3|PDST00|
 |Oppo|Reno5 pro 5G|OP4F0BL1|CPH2207|
+|Oppo|Reno6 Pro+ 5G|OP4EC1|PENM00|
 |Oppo|U3|U3|U3|
 |Oppo|U707|U707|U707|
 |Oppo|U707T|U707T|U707T|
@@ -27447,6 +27448,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Techpad|816|816|816|
 |Techpad|GamePad|GamePad|GamePad|
 |Techpad|K13|K13|K13|
+|Techpad|M5GO|M5GO|M5GO|
 |Techpad|M5Go|M5Go|M5Go|
 |Techpad|M5Plus|M5Plus|M5Plus|
 |Techpad|M6|M6|M6|

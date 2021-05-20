@@ -124978,6 +124978,13 @@
    "model": "PCNM00"
   }
  ],
+ "OP4E9F": [
+  {
+   "brand": "Oppo",
+   "name": "K9 5G",
+   "model": "PEXM00"
+  }
+ ],
  "N1mini": [
   {
    "brand": "Oppo",
@@ -125047,13 +125054,6 @@
    "brand": "Oppo",
    "name": "OPPO Reno5 5G",
    "model": "CPH2145"
-  }
- ],
- "OP4E9F": [
-  {
-   "brand": "Oppo",
-   "name": "OPPO K9 5G",
-   "model": "PEXM00"
   }
  ],
  "OP4F25L1": [
@@ -126090,6 +126090,13 @@
    "brand": "Oppo",
    "name": "Reno5 Pro 5G",
    "model": "PDST00"
+  }
+ ],
+ "OP4EC1": [
+  {
+   "brand": "Oppo",
+   "name": "Reno6 Pro+ 5G",
+   "model": "PENM00"
   }
  ],
  "U707": [
@@ -179434,6 +179441,13 @@
    "brand": "Techpad",
    "name": "K13",
    "model": "K13"
+  }
+ ],
+ "M5GO": [
+  {
+   "brand": "Techpad",
+   "name": "M5GO",
+   "model": "M5GO"
   }
  ],
  "M5Go": [

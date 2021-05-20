@@ -95676,6 +95676,11 @@
    "model": "PCNM00"
   },
   {
+   "device": "OP4E9F",
+   "name": "K9 5G",
+   "model": "PEXM00"
+  },
+  {
    "device": "N1",
    "name": "N1",
    "model": "N1"
@@ -95764,11 +95769,6 @@
    "device": "OP4F1BL1",
    "name": "OPPO Find X3 Lite 5G",
    "model": "CPH2145"
-  },
-  {
-   "device": "OP4E9F",
-   "name": "OPPO K9 5G",
-   "model": "PEXM00"
   },
   {
    "device": "OP4F25L1",
@@ -96729,6 +96729,11 @@
    "device": "OP4F0BL1",
    "name": "Reno5 pro 5G",
    "model": "CPH2207"
+  },
+  {
+   "device": "OP4EC1",
+   "name": "Reno6 Pro+ 5G",
+   "model": "PENM00"
   },
   {
    "device": "U3",
@@ -140675,6 +140680,11 @@
    "device": "K13",
    "name": "K13",
    "model": "K13"
+  },
+  {
+   "device": "M5GO",
+   "name": "M5GO",
+   "model": "M5GO"
   },
   {
    "device": "M5Go",
