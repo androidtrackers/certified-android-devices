@@ -906,6 +906,26 @@
  ],
  "AWOW": [
   {
+   "device": "AWOW_CreaPad_1001",
+   "name": "AWOW_CreaPad_1001",
+   "model": "AWOW_CreaPad_1001"
+  },
+  {
+   "device": "AWOW_CreaPad_1003_EEA",
+   "name": "AWOW_CreaPad_1003",
+   "model": "AWOW_CreaPad_1003_EEA"
+  },
+  {
+   "device": "CreaPad_1009",
+   "name": "CreaPad_1009",
+   "model": "CreaPad_1009"
+  },
+  {
+   "device": "CreaPad_1009_EEA",
+   "name": "CreaPad_1009_EEA",
+   "model": "CreaPad_1009_EEA"
+  },
+  {
    "device": "Funtab_801_I",
    "name": "Funtab_801_I",
    "model": "Funtab_801_I"
@@ -8128,6 +8148,11 @@
   {
    "device": "ASUS_I003_1",
    "name": "ROG Phone 3",
+   "model": "ASUS_I003D"
+  },
+  {
+   "device": "ASUS_I003_1",
+   "name": "ROG Phone 3",
    "model": "ASUS_I003DD"
   },
   {
@@ -10916,6 +10941,11 @@
    "device": "I10_EEA",
    "name": "I10_EEA",
    "model": "I10_EEA"
+  },
+  {
+   "device": "I11",
+   "name": "I11",
+   "model": "I11"
   }
  ],
  "BMPRO": [
@@ -11347,6 +11377,11 @@
    "device": "Bmobile_AX687_MV03",
    "name": "AX687",
    "model": "AX687"
+  },
+  {
+   "device": "Bmobile_AX688",
+   "name": "AX688",
+   "model": "AX688"
   },
   {
    "device": "Bmobile",
@@ -17090,6 +17125,11 @@
    "device": "C45",
    "name": "C45",
    "model": "C45"
+  },
+  {
+   "device": "T45",
+   "name": "T45",
+   "model": "T45"
   }
  ],
  "CLIO": [
@@ -17176,6 +17216,13 @@
    "device": "SATURNO2",
    "name": "SATURNO2",
    "model": "SATURNO2"
+  }
+ ],
+ "COOPERS": [
+  {
+   "device": "CP80",
+   "name": "CP80",
+   "model": "CP80"
   }
  ],
  "COPAN": [
@@ -26729,6 +26776,11 @@
    "model": "X95i"
   },
   {
+   "device": "X96Pro",
+   "name": "X96Pro",
+   "model": "X96Pro"
+  },
+  {
    "device": "X9S",
    "name": "X9S",
    "model": "X9S"
@@ -29090,6 +29142,11 @@
    "device": "H620SEU",
    "name": "Hardcase H620S",
    "model": "H620SEU"
+  },
+  {
+   "device": "H621SEU",
+   "name": "Hardcase H621S",
+   "model": "H621SEU"
   },
   {
    "device": "PowerMaxP490",
@@ -36894,6 +36951,16 @@
    "device": "P8",
    "name": "MediaPadP8",
    "model": "P8"
+  },
+  {
+   "device": "P9",
+   "name": "P9",
+   "model": "P9"
+  },
+  {
+   "device": "P9_EEA",
+   "name": "P9_EEA",
+   "model": "P9_EEA"
   }
  ],
  "HDC S.A.": [
@@ -36930,6 +36997,11 @@
    "device": "HZ9950",
    "name": "HZ9950",
    "model": "HZ9950"
+  },
+  {
+   "device": "Z9950",
+   "name": "Z9950",
+   "model": "Z9950"
   }
  ],
  "HKC": [
@@ -45767,6 +45839,11 @@
   {
    "device": "huangshan",
    "name": "huangshan",
+   "model": "SmartTV 4K"
+  },
+  {
+   "device": "huangshan",
+   "name": "huangshan",
    "model": "SmartTV 4K FFM"
   },
   {
@@ -45863,6 +45940,11 @@
    "device": "xiaoyushan",
    "name": "xiaoyushan-sa",
    "model": "HiSmartTV A4"
+  },
+  {
+   "device": "xiaoyushan",
+   "name": "xiaoyushan_panavox",
+   "model": "Panavox Android TV"
   },
   {
    "device": "xiaoyushan",
@@ -71767,6 +71849,11 @@
    "model": "F102-EEA"
   },
   {
+   "device": "F102-T610P-EEA",
+   "name": "F102-T610P-EEA",
+   "model": "F102-T610P-EEA"
+  },
+  {
    "device": "L108MR",
    "name": "L108MR",
    "model": "L108MR"
@@ -75699,6 +75786,11 @@
    "device": "LAVIET1111QHD1",
    "name": "LAVIE T11 11QHD1",
    "model": "LAVIE T11 11QHD1"
+  },
+  {
+   "device": "LAVIET88HD1",
+   "name": "LAVIE T8 8HD1",
+   "model": "LAVIE T8 8HD1"
   },
   {
    "device": "X704F",
@@ -83931,6 +84023,11 @@
    "model": "ETL101GB"
   },
   {
+   "device": "ETW101GT_C_EEA",
+   "name": "ETW101GT_C_EEA",
+   "model": "ETW101GT_C"
+  },
+  {
    "device": "ETW101GT_EEA",
    "name": "ETW101GT_EEA",
    "model": "ETW101GT"
@@ -92014,6 +92111,11 @@
    "model": "NLS-MT90"
   },
   {
+   "device": "NLS-MT9055-GL",
+   "name": "NLS-MT9055-GL",
+   "model": "NLS-MT90"
+  },
+  {
    "device": "NLS-NFT10-GL",
    "name": "NLS-NFT10",
    "model": "NLS-NFT10"
@@ -93354,6 +93456,11 @@
    "model": "S4001W"
   },
   {
+   "device": "T0801LAV1",
+   "name": "Tab 8",
+   "model": "T0801L"
+  },
+  {
    "device": "X4",
    "name": "X4",
    "model": "X4"
@@ -94100,6 +94207,11 @@
   {
    "device": "OnePlus7Pro",
    "name": "OnePlus 7 Pro",
+   "model": "GM1910"
+  },
+  {
+   "device": "OnePlus7Pro",
+   "name": "OnePlus 7 Pro",
    "model": "GM1917"
   },
   {
@@ -94316,6 +94428,11 @@
    "device": "OnePlus5T",
    "name": "OnePlus5T",
    "model": "ONEPLUS A5010"
+  },
+  {
+   "device": "OnePlus6T",
+   "name": "OnePlus6T",
+   "model": "ONEPLUS A6010"
   },
   {
    "device": "OnePlus6T",
@@ -95746,6 +95863,11 @@
    "model": "PEZM00"
   },
   {
+   "device": "OP4F39L1",
+   "name": "OPPO A54 5G",
+   "model": "OPG02"
+  },
+  {
    "device": "OP4F11L1",
    "name": "OPPO A74",
    "model": "CPH2219"
@@ -95759,11 +95881,6 @@
    "device": "OP4F39L1",
    "name": "OPPO A74 5G",
    "model": "CPH2263"
-  },
-  {
-   "device": "OP4F39L1",
-   "name": "OPPO A74 5G",
-   "model": "OPG02"
   },
   {
    "device": "OP4F1BL1",
@@ -95784,11 +95901,6 @@
    "device": "OP4F2BL1",
    "name": "OPPO Reno5 A",
    "model": "A101OP"
-  },
-  {
-   "device": "OP4F2BL1",
-   "name": "OPPO Reno5 A",
-   "model": "CPH2199"
   },
   {
    "device": "OP4EA7",
@@ -105111,6 +105223,11 @@
   {
    "device": "QTab_Y1",
    "name": "QTab_Y1",
+   "model": "QTab Y1"
+  },
+  {
+   "device": "QTab_Y1",
+   "name": "QTab_Y1_2M",
    "model": "QTab Y1"
   },
   {
@@ -127651,6 +127768,11 @@
    "device": "XQ-AT72",
    "name": "Xperia 1 II",
    "model": "XQ-AT72"
+  },
+  {
+   "device": "SO-51B",
+   "name": "Xperia 1 III",
+   "model": "SO-51B"
   },
   {
    "device": "J9150",
@@ -152777,6 +152899,11 @@
   {
    "device": "W-K380",
    "name": "Sunny5",
+   "model": "W-K380-TH"
+  },
+  {
+   "device": "W-K380",
+   "name": "Sunny5",
    "model": "W-K380-TVM"
   },
   {
@@ -153741,6 +153868,13 @@
    "device": "WINTOUCH_K702",
    "name": "WINTOUCH_K702",
    "model": "K702"
+  }
+ ],
+ "Wirele-X": [
+  {
+   "device": "MT70",
+   "name": "MT70",
+   "model": "MT70"
   }
  ],
  "Wise-Tech": [
@@ -165073,6 +165207,16 @@
    "device": "AH9910",
    "name": "AH9910",
    "model": "AH9910"
+  },
+  {
+   "device": "M1000",
+   "name": "M1000",
+   "model": "M1000"
+  },
+  {
+   "device": "M700",
+   "name": "M700",
+   "model": "M700"
   },
   {
    "device": "AF9030",

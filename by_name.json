@@ -7089,6 +7089,34 @@
    "model": "Vortech 3.0"
   }
  ],
+ "AWOW_CreaPad_1001": [
+  {
+   "brand": "AWOW",
+   "device": "AWOW_CreaPad_1001",
+   "model": "AWOW_CreaPad_1001"
+  }
+ ],
+ "AWOW_CreaPad_1003": [
+  {
+   "brand": "AWOW",
+   "device": "AWOW_CreaPad_1003_EEA",
+   "model": "AWOW_CreaPad_1003_EEA"
+  }
+ ],
+ "CreaPad_1009": [
+  {
+   "brand": "AWOW",
+   "device": "CreaPad_1009",
+   "model": "CreaPad_1009"
+  }
+ ],
+ "CreaPad_1009_EEA": [
+  {
+   "brand": "AWOW",
+   "device": "CreaPad_1009_EEA",
+   "model": "CreaPad_1009_EEA"
+  }
+ ],
  "Funtab_801_I": [
   {
    "brand": "AWOW",
@@ -17882,6 +17910,11 @@
   {
    "brand": "Asus",
    "device": "ASUS_I003_1",
+   "model": "ASUS_I003D"
+  },
+  {
+   "brand": "Asus",
+   "device": "ASUS_I003_1",
    "model": "ASUS_I003DD"
   },
   {
@@ -21581,6 +21614,13 @@
    "model": "I10_EEA"
   }
  ],
+ "I11": [
+  {
+   "brand": "BMAX",
+   "device": "I11",
+   "model": "I11"
+  }
+ ],
  "BMPRO7DI": [
   {
    "brand": "BMPRO",
@@ -22120,6 +22160,13 @@
    "brand": "BMobile",
    "device": "Bmobile_AX687_MV03",
    "model": "AX687"
+  }
+ ],
+ "AX688": [
+  {
+   "brand": "BMobile",
+   "device": "Bmobile_AX688",
+   "model": "AX688"
   }
  ],
  "AX700": [
@@ -30911,6 +30958,13 @@
    "model": "C45"
   }
  ],
+ "T45": [
+  {
+   "brand": "CLEVER",
+   "device": "T45",
+   "model": "T45"
+  }
+ ],
  "Neo 4": [
   {
    "brand": "CLIO",
@@ -30998,6 +31052,13 @@
    "brand": "COOP",
    "device": "SATURNO2",
    "model": "SATURNO2"
+  }
+ ],
+ "CP80": [
+  {
+   "brand": "COOPERS",
+   "device": "CP80",
+   "model": "CP80"
   }
  ],
  "Aplus": [
@@ -44087,6 +44148,13 @@
    "model": "X95i"
   }
  ],
+ "X96Pro": [
+  {
+   "brand": "Doogee",
+   "device": "X96Pro",
+   "model": "X96Pro"
+  }
+ ],
  "X9S": [
   {
    "brand": "Doogee",
@@ -47428,6 +47496,13 @@
    "brand": "Energizer",
    "device": "H620SEU",
    "model": "H620SEU"
+  }
+ ],
+ "Hardcase H621S": [
+  {
+   "brand": "Energizer",
+   "device": "H621SEU",
+   "model": "H621SEU"
   }
  ],
  "PowerMaxP490": [
@@ -58000,6 +58075,75 @@
    "model": "P8"
   }
  ],
+ "P9": [
+  {
+   "brand": "HAOVM",
+   "device": "P9",
+   "model": "P9"
+  },
+  {
+   "brand": "Huawei",
+   "device": "HWEVA",
+   "model": "EVA-AL00"
+  },
+  {
+   "brand": "Huawei",
+   "device": "HWEVA",
+   "model": "EVA-AL10"
+  },
+  {
+   "brand": "Huawei",
+   "device": "HWEVA",
+   "model": "EVA-CL00"
+  },
+  {
+   "brand": "Huawei",
+   "device": "HWEVA",
+   "model": "EVA-DL00"
+  },
+  {
+   "brand": "Huawei",
+   "device": "HWEVA",
+   "model": "EVA-L09"
+  },
+  {
+   "brand": "Huawei",
+   "device": "HWEVA",
+   "model": "EVA-L19"
+  },
+  {
+   "brand": "Huawei",
+   "device": "HWEVA",
+   "model": "EVA-L29"
+  },
+  {
+   "brand": "Huawei",
+   "device": "HWEVA",
+   "model": "EVA-TL00"
+  },
+  {
+   "brand": "PATTERS",
+   "device": "P9",
+   "model": "P9"
+  },
+  {
+   "brand": "Panasonic",
+   "device": "P9",
+   "model": "P9"
+  },
+  {
+   "brand": "Symphony",
+   "device": "P9",
+   "model": "P9"
+  }
+ ],
+ "P9_EEA": [
+  {
+   "brand": "HAOVM",
+   "device": "P9_EEA",
+   "model": "P9_EEA"
+  }
+ ],
  "H10_ONE": [
   {
    "brand": "HDC S.A.",
@@ -58040,6 +58184,13 @@
    "brand": "HEATZ",
    "device": "HZ9950",
    "model": "HZ9950"
+  }
+ ],
+ "Z9950": [
+  {
+   "brand": "HEATZ",
+   "device": "Z9950",
+   "model": "Z9950"
   }
  ],
  "A79 Tablet": [
@@ -68698,6 +68849,11 @@
   {
    "brand": "Hisense",
    "device": "huangshan",
+   "model": "SmartTV 4K"
+  },
+  {
+   "brand": "Hisense",
+   "device": "huangshan",
    "model": "SmartTV 4K FFM"
   }
  ],
@@ -68828,6 +68984,13 @@
    "brand": "Hisense",
    "device": "xiaoyushan",
    "model": "HiSmartTV A4"
+  }
+ ],
+ "xiaoyushan_panavox": [
+  {
+   "brand": "Hisense",
+   "device": "xiaoyushan",
+   "model": "Panavox Android TV"
   }
  ],
  "xiaoyushan_riviera": [
@@ -74490,63 +74653,6 @@
    "brand": "Huawei",
    "device": "HWP8max",
    "model": "HUAWEI P8max"
-  }
- ],
- "P9": [
-  {
-   "brand": "Huawei",
-   "device": "HWEVA",
-   "model": "EVA-AL00"
-  },
-  {
-   "brand": "Huawei",
-   "device": "HWEVA",
-   "model": "EVA-AL10"
-  },
-  {
-   "brand": "Huawei",
-   "device": "HWEVA",
-   "model": "EVA-CL00"
-  },
-  {
-   "brand": "Huawei",
-   "device": "HWEVA",
-   "model": "EVA-DL00"
-  },
-  {
-   "brand": "Huawei",
-   "device": "HWEVA",
-   "model": "EVA-L09"
-  },
-  {
-   "brand": "Huawei",
-   "device": "HWEVA",
-   "model": "EVA-L19"
-  },
-  {
-   "brand": "Huawei",
-   "device": "HWEVA",
-   "model": "EVA-L29"
-  },
-  {
-   "brand": "Huawei",
-   "device": "HWEVA",
-   "model": "EVA-TL00"
-  },
-  {
-   "brand": "PATTERS",
-   "device": "P9",
-   "model": "P9"
-  },
-  {
-   "brand": "Panasonic",
-   "device": "P9",
-   "model": "P9"
-  },
-  {
-   "brand": "Symphony",
-   "device": "P9",
-   "model": "P9"
   }
  ],
  "P9 Lite PREMIUM": [
@@ -97387,6 +97493,13 @@
    "model": "F102-EEA"
   }
  ],
+ "F102-T610P-EEA": [
+  {
+   "brand": "LOOQS",
+   "device": "F102-T610P-EEA",
+   "model": "F102-T610P-EEA"
+  }
+ ],
  "L108MR": [
   {
    "brand": "LOOQS",
@@ -101928,6 +102041,13 @@
    "brand": "Lenovo",
    "device": "LAVIET1111QHD1",
    "model": "LAVIE T11 11QHD1"
+  }
+ ],
+ "LAVIE T8 8HD1": [
+  {
+   "brand": "Lenovo",
+   "device": "LAVIET88HD1",
+   "model": "LAVIE T8 8HD1"
   }
  ],
  "LAVIE Tab E": [
@@ -111794,6 +111914,13 @@
    "model": "ETL101GB"
   }
  ],
+ "ETW101GT_C_EEA": [
+  {
+   "brand": "Microtech",
+   "device": "ETW101GT_C_EEA",
+   "model": "ETW101GT_C"
+  }
+ ],
  "ETW101GT_EEA": [
   {
    "brand": "Microtech",
@@ -121235,6 +121362,13 @@
    "model": "NLS-MT90"
   }
  ],
+ "NLS-MT9055-GL": [
+  {
+   "brand": "Newland",
+   "device": "NLS-MT9055-GL",
+   "model": "NLS-MT90"
+  }
+ ],
  "NLS-NFT10": [
   {
    "brand": "Newland",
@@ -122805,6 +122939,18 @@
    "model": "S4001W"
   }
  ],
+ "Tab 8": [
+  {
+   "brand": "Nuu",
+   "device": "T0801LAV1",
+   "model": "T0801L"
+  },
+  {
+   "brand": "Panasonic",
+   "device": "Tab_8",
+   "model": "Tab 8"
+  }
+ ],
  "X6 Plus": [
   {
    "brand": "Nuu",
@@ -123541,6 +123687,11 @@
   {
    "brand": "OnePlus",
    "device": "OnePlus7Pro",
+   "model": "GM1910"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus7Pro",
    "model": "GM1917"
   },
   {
@@ -123804,6 +123955,11 @@
   }
  ],
  "OnePlus6T": [
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus6T",
+   "model": "ONEPLUS A6010"
+  },
   {
    "brand": "OnePlus",
    "device": "OnePlus6T",
@@ -125358,6 +125514,13 @@
    "model": "PEZM00"
   }
  ],
+ "OPPO A54 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP4F39L1",
+   "model": "OPG02"
+  }
+ ],
  "OPPO A74": [
   {
    "brand": "Oppo",
@@ -125375,11 +125538,6 @@
    "brand": "Oppo",
    "device": "OP4F39L1",
    "model": "CPH2263"
-  },
-  {
-   "brand": "Oppo",
-   "device": "OP4F39L1",
-   "model": "OPG02"
   }
  ],
  "OPPO Find X3 Lite 5G": [
@@ -125408,11 +125566,6 @@
    "brand": "Oppo",
    "device": "OP4F2BL1",
    "model": "A101OP"
-  },
-  {
-   "brand": "Oppo",
-   "device": "OP4F2BL1",
-   "model": "CPH2199"
   }
  ],
  "OPPO Reno5 Pro+ 5G": [
@@ -130094,13 +130247,6 @@
    "brand": "Panasonic",
    "device": "TH_65DX400C",
    "model": "TH_65DX400C"
-  }
- ],
- "Tab 8": [
-  {
-   "brand": "Panasonic",
-   "device": "Tab_8",
-   "model": "Tab 8"
   }
  ],
  "Theater v3": [
@@ -137170,6 +137316,13 @@
   }
  ],
  "QTab_Y1": [
+  {
+   "brand": "QMobile",
+   "device": "QTab_Y1",
+   "model": "QTab Y1"
+  }
+ ],
+ "QTab_Y1_2M": [
   {
    "brand": "QMobile",
    "device": "QTab_Y1",
@@ -162135,6 +162288,11 @@
    "brand": "Smartex",
    "device": "M700",
    "model": "M700"
+  },
+  {
+   "brand": "benco",
+   "device": "M700",
+   "model": "M700"
   }
  ],
  "P600": [
@@ -162804,6 +162962,13 @@
    "brand": "Sony",
    "device": "XQ-AT72",
    "model": "XQ-AT72"
+  }
+ ],
+ "Xperia 1 III": [
+  {
+   "brand": "Sony",
+   "device": "SO-51B",
+   "model": "SO-51B"
   }
  ],
  "Xperia 1 Professional Edition": [
@@ -191598,6 +191763,11 @@
   {
    "brand": "Wiko",
    "device": "W-K380",
+   "model": "W-K380-TH"
+  },
+  {
+   "brand": "Wiko",
+   "device": "W-K380",
    "model": "W-K380-TVM"
   },
   {
@@ -192596,6 +192766,13 @@
    "brand": "Wintouch",
    "device": "WINTOUCH_K702",
    "model": "K702"
+  }
+ ],
+ "MT70": [
+  {
+   "brand": "Wirele-X",
+   "device": "MT70",
+   "model": "MT70"
   }
  ],
  "Tech_A1_Plus": [
@@ -204930,6 +205107,18 @@
    "model": "AH9910"
   }
  ],
+ "M1000": [
+  {
+   "brand": "benco",
+   "device": "M1000",
+   "model": "M1000"
+  },
+  {
+   "brand": "d.light",
+   "device": "M1000",
+   "model": "M1000"
+  }
+ ],
  "benco Y41": [
   {
    "brand": "benco",
@@ -205266,13 +205455,6 @@
    "brand": "carrozzeria",
    "device": "SDA_700TAB",
    "model": "SDA-700TAB"
-  }
- ],
- "M1000": [
-  {
-   "brand": "d.light",
-   "device": "M1000",
-   "model": "M1000"
   }
  ],
  "M1000D": [
