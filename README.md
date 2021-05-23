@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-05-22
+Last sync is 2021-05-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17133,6 +17133,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g stylus (2021)|minsk|moto g stylus|
 |Motorola|moto g stylus (2021)|minsk|moto g stylus (2021)|
 |Motorola|moto g stylus (2021)|minsk|moto g stylus (XT2115DL)|
+|Motorola|moto g(10)|capri|moto e(7) plus|
 |Motorola|moto g(10)|capri|moto g(10)|
 |Motorola|moto g(100)|nio|moto g(100)|
 |Motorola|moto g(30)|caprip|moto g(30)|
