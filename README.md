@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-05-23
+Last sync is 2021-05-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5354,6 +5354,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ECS|TU10MK|TU10MK_3|TU10MK|
 |EDENWOOD|EDENWOOD|bangbae|EDENWOOD 4K Android TV|
 |EDENWOOD|EDENWOOD|komagome|EDENWOOD 2K Android TV|
+|EDUTAB|ELITE_10|ELITE_10|ELITE_10|
 |EGOTEK|Mars8|Mars8|Mars8|
 |EGOTEK|Penguin|Penguin|Penguin|
 |EGOTEK|Venus10|Venus10|Venus10|
@@ -14918,6 +14919,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M7|7305X|Lenovo TB-7305X|
 |Lenovo|Lenovo Tab M7 (3rd Gen)|7306F|Lenovo TB-7306F|
 |Lenovo|Lenovo Tab M7 (3rd Gen)|7306X|Lenovo TB-7306X|
+|Lenovo|Lenovo Tab M7 3rd Gen|LAVIET77SD1|LAVIE T7 7SD1|
 |Lenovo|Lenovo Tab M7 HD|7306V|Lenovo TB-7306V|
 |Lenovo|Lenovo Tab M8|8505F|Lenovo TB-8505F|
 |Lenovo|Lenovo Tab M8|8505FS|Lenovo TB-8505FS|
@@ -15905,6 +15907,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mediacom|1CY_EEA|1CY|1CY|
 |Mediacom|1DY|1DY|1DY|
 |Mediacom|1DY4G_eea|1DY4G_eea|1DY4G|
+|Mediacom|1HY4G|1HY4G|1HY4G|
 |Mediacom|7BY|7BY|7BY|
 |Mediacom|7CY_eea|7CY|7CY|
 |Mediacom|7DY_EEA|7DY|7DY|
@@ -18536,6 +18539,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A79t|A79|OPPO A79t|
 |Oppo|A79t|A79t|OPPO A79t|
 |Oppo|A7n|PCDT00|PCDT00|
+|Oppo|A7x 中国版|OP4E7F|PERM00|
 |Oppo|A7x 中国版|PBBM00|PBBM00|
 |Oppo|A7x 中国版|PBBT00|PBBT00|
 |Oppo|A83|A83|OPPO A83|
@@ -19718,6 +19722,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Plum|Z711|Z711|PLUM Z711|
 |Plum|Z712|Z712|PLUM Z712|
 |Plus4|Q-Touch|Q-Touch|Q-Touch|
+|PlusStyle|PS_TAB_WB01|PS_TAB_WB01|PS_TAB_WB01|
 |Plusone|FREETEL Priori3S|FTU152A|FTU152A|
 |Plusone|FREETEL SAMURAI KIWAMI 2|SAMURAI_KIWAMI2|FTJ162B|
 |Plusone|FREETEL Samurai Rei|FTJ161B|FTJ161B|

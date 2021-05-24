@@ -41454,6 +41454,13 @@
    "model": "TU10MK"
   }
  ],
+ "ELITE_10": [
+  {
+   "brand": "EDUTAB",
+   "name": "ELITE_10",
+   "model": "ELITE_10"
+  }
+ ],
  "Mars8": [
   {
    "brand": "EGOTEK",
@@ -101288,6 +101295,13 @@
    "model": "Lenovo TB-7306X"
   }
  ],
+ "LAVIET77SD1": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M7 3rd Gen",
+   "model": "LAVIE T7 7SD1"
+  }
+ ],
  "7306V": [
   {
    "brand": "Lenovo",
@@ -107752,6 +107766,13 @@
    "brand": "Mediacom",
    "name": "1DY4G_eea",
    "model": "1DY4G"
+  }
+ ],
+ "1HY4G": [
+  {
+   "brand": "Mediacom",
+   "name": "1HY4G",
+   "model": "1HY4G"
   }
  ],
  "7BY": [
@@ -124477,6 +124498,13 @@
    "model": "PCDT00"
   }
  ],
+ "OP4E7F": [
+  {
+   "brand": "Oppo",
+   "name": "A7x 中国版",
+   "model": "PERM00"
+  }
+ ],
  "PBBM00": [
   {
    "brand": "Oppo",
@@ -132204,6 +132232,13 @@
    "brand": "Plus4",
    "name": "Q-Touch",
    "model": "Q-Touch"
+  }
+ ],
+ "PS_TAB_WB01": [
+  {
+   "brand": "PlusStyle",
+   "name": "PS_TAB_WB01",
+   "model": "PS_TAB_WB01"
   }
  ],
  "FTU152A": [

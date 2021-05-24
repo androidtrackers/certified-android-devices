@@ -45535,6 +45535,13 @@
    "model": "EDENWOOD 2K Android TV"
   }
  ],
+ "ELITE_10": [
+  {
+   "brand": "EDUTAB",
+   "device": "ELITE_10",
+   "model": "ELITE_10"
+  }
+ ],
  "Mars8": [
   {
    "brand": "EGOTEK",
@@ -102972,6 +102979,13 @@
    "model": "Lenovo TB-7306X"
   }
  ],
+ "Lenovo Tab M7 3rd Gen": [
+  {
+   "brand": "Lenovo",
+   "device": "LAVIET77SD1",
+   "model": "LAVIE T7 7SD1"
+  }
+ ],
  "Lenovo Tab M7 HD": [
   {
    "brand": "Lenovo",
@@ -109214,6 +109228,13 @@
    "brand": "Mediacom",
    "device": "1DY4G_eea",
    "model": "1DY4G"
+  }
+ ],
+ "1HY4G": [
+  {
+   "brand": "Mediacom",
+   "device": "1HY4G",
+   "model": "1HY4G"
   }
  ],
  "7BY": [
@@ -124830,6 +124851,11 @@
  "A7x 中国版": [
   {
    "brand": "Oppo",
+   "device": "OP4E7F",
+   "model": "PERM00"
+  },
+  {
+   "brand": "Oppo",
    "device": "PBBM00",
    "model": "PBBM00"
   },
@@ -132366,6 +132392,13 @@
    "brand": "Plus4",
    "device": "Q-Touch",
    "model": "Q-Touch"
+  }
+ ],
+ "PS_TAB_WB01": [
+  {
+   "brand": "PlusStyle",
+   "device": "PS_TAB_WB01",
+   "model": "PS_TAB_WB01"
   }
  ],
  "FREETEL Priori3S": [

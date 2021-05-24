@@ -27734,6 +27734,13 @@
    "model": "EDENWOOD 2K Android TV"
   }
  ],
+ "EDUTAB": [
+  {
+   "device": "ELITE_10",
+   "name": "ELITE_10",
+   "model": "ELITE_10"
+  }
+ ],
  "EGOTEK": [
   {
    "device": "Mars8",
@@ -76568,6 +76575,11 @@
    "model": "Lenovo TB-7306X"
   },
   {
+   "device": "LAVIET77SD1",
+   "name": "Lenovo Tab M7 3rd Gen",
+   "model": "LAVIE T7 7SD1"
+  },
+  {
    "device": "7306V",
    "name": "Lenovo Tab M7 HD",
    "model": "Lenovo TB-7306V"
@@ -81721,6 +81733,11 @@
    "device": "1DY4G_eea",
    "name": "1DY4G_eea",
    "model": "1DY4G"
+  },
+  {
+   "device": "1HY4G",
+   "name": "1HY4G",
+   "model": "1HY4G"
   },
   {
    "device": "7BY",
@@ -95278,6 +95295,11 @@
    "model": "PCDT00"
   },
   {
+   "device": "OP4E7F",
+   "name": "A7x 中国版",
+   "model": "PERM00"
+  },
+  {
    "device": "PBBM00",
    "name": "A7x 中国版",
    "model": "PBBM00"
@@ -101314,6 +101336,13 @@
    "device": "Q-Touch",
    "name": "Q-Touch",
    "model": "Q-Touch"
+  }
+ ],
+ "PlusStyle": [
+  {
+   "device": "PS_TAB_WB01",
+   "name": "PS_TAB_WB01",
+   "model": "PS_TAB_WB01"
   }
  ],
  "Plusone": [
