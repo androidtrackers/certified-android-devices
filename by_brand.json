@@ -8188,6 +8188,11 @@
   {
    "device": "ASUS_I001_1",
    "name": "ROG Phone ll",
+   "model": "ASUS_I001DE"
+  },
+  {
+   "device": "ASUS_I001_1",
+   "name": "ROG Phone ll",
    "model": "ZS660KL"
   },
   {
@@ -19407,6 +19412,11 @@
    "model": "HiPad Plus"
   },
   {
+   "device": "HiPadPlus",
+   "name": "HiPadPlus_ROW",
+   "model": "HiPadPlus"
+  },
+  {
    "device": "HipadX",
    "name": "HipadX",
    "model": "HiPad X"
@@ -23041,6 +23051,11 @@
    "model": "A360"
   },
   {
+   "device": "A440",
+   "name": "A440",
+   "model": "A440"
+  },
+  {
    "device": "AL140",
    "name": "AL140",
    "model": "AL140"
@@ -23870,6 +23885,13 @@
    "device": "CUTE_5",
    "name": "CUTE_5",
    "model": "CUTE 5"
+  }
+ ],
+ "DIAMANT": [
+  {
+   "device": "yeongdeungpo",
+   "name": "EU",
+   "model": "DIAMANT Android TV"
   }
  ],
  "DIFRNCE": [
@@ -37132,6 +37154,13 @@
    "device": "C1",
    "name": "c1",
    "model": "C1"
+  }
+ ],
+ "HORIZON": [
+  {
+   "device": "yeongdeungpo",
+   "name": "EU",
+   "model": "HORIZON Android TV"
   }
  ],
  "HP": [
@@ -59694,6 +59723,11 @@
    "model": "G8060"
   },
   {
+   "device": "SW4H_FF",
+   "name": "IRIS 4K Android TV",
+   "model": "IRIS 4K Android TV"
+  },
+  {
    "device": "SW4H",
    "name": "IRIS Smart TV",
    "model": "IRIS Smart TV"
@@ -71491,6 +71525,11 @@
    "model": "LM-G900TM"
   },
   {
+   "device": "rainbowlm",
+   "name": "VELVET 2 PRO",
+   "model": "LM-V700N"
+  },
+  {
    "device": "vu3",
    "name": "VU3",
    "model": "LG-F300K"
@@ -75900,6 +75939,16 @@
    "model": "Lenovo K12 Note"
   },
   {
+   "device": "capri",
+   "name": "Lenovo K13 Note",
+   "model": "Lenovo K12 Note"
+  },
+  {
+   "device": "capri",
+   "name": "Lenovo K13 Note",
+   "model": "Lenovo K13 Note"
+  },
+  {
    "device": "brady_f",
    "name": "Lenovo K8",
    "model": "Lenovo K"
@@ -77518,6 +77567,11 @@
    "device": "YOGABOOK12",
    "name": "YOGA Laptop with Android",
    "model": "Lenovo YB-Q501L"
+  },
+  {
+   "device": "K606F",
+   "name": "YOGA Pad Pro",
+   "model": "Lenovo YT-K606F"
   },
   {
    "device": "YT3-X50F",
@@ -98230,6 +98284,11 @@
    "model": "PrismPlus 4K Android TV"
   },
   {
+   "device": "SW4H_FF",
+   "name": "PrismPlus 4K Pro Android TV",
+   "model": "PrismPlus 4K Pro Android TV"
+  },
+  {
    "device": "shibuya",
    "name": "Prismplus TV",
    "model": "Prismplus TV"
@@ -101516,6 +101575,11 @@
    "device": "PVT-R78-3288",
    "name": "PVT-R78-3288",
    "model": "PVT-R78-3288"
+  },
+  {
+   "device": "TAB_7232_3G_EEA",
+   "name": "TAB-7232-3G",
+   "model": "TAB-7232-3G-V2"
   },
   {
    "device": "TAB-P10232-3G",
@@ -108950,6 +109014,13 @@
    "device": "yeongdeungpo",
    "name": "Vietnam",
    "model": "SANCO Android TV"
+  }
+ ],
+ "SANLUX": [
+  {
+   "device": "SW4H",
+   "name": "SANLUX 4K MONITOR",
+   "model": "SANLUX 4K MONITOR"
   }
  ],
  "SANNUO": [
@@ -124039,6 +124110,11 @@
    "model": "4T-C60ASAA"
   },
   {
+   "device": "gangnam",
+   "name": "4T-C60BJ8T",
+   "model": "TVX19B"
+  },
+  {
    "device": "guro",
    "name": "4T-C60BK2UD",
    "model": "AQUOS-TVU19A"
@@ -126770,6 +126846,11 @@
    "device": "SKY_Prestige",
    "name": "SKY Prestige",
    "model": "SKY Prestige"
+  },
+  {
+   "device": "SKY_Prestige2",
+   "name": "SKY Prestige2",
+   "model": "SKY Prestige2"
   },
   {
    "device": "Sky_Prestige2_NFP",
@@ -131004,6 +131085,11 @@
   }
  ],
  "Storex": [
+  {
+   "device": "MDDDI13310",
+   "name": "MDDDI13310",
+   "model": "FONDATION_ORANGE_2021"
+  },
   {
    "device": "MDDDI13311",
    "name": "MDDDI13311",
@@ -140200,6 +140286,11 @@
    "model": "T151-EEA"
   },
   {
+   "device": "T18",
+   "name": "T18",
+   "model": "T18"
+  },
+  {
    "device": "T201",
    "name": "T201",
    "model": "T201"
@@ -149376,6 +149467,11 @@
    "model": "V2054A"
   },
   {
+   "device": "2055",
+   "name": "V2055",
+   "model": "V2055"
+  },
+  {
    "device": "PD2055",
    "name": "V2055A",
    "model": "V2055A"
@@ -149399,6 +149495,11 @@
    "device": "2058",
    "name": "V2058",
    "model": "V2058"
+  },
+  {
+   "device": "2059",
+   "name": "V2059",
+   "model": "V2059"
   },
   {
    "device": "PD2047",

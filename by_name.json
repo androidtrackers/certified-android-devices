@@ -17954,6 +17954,11 @@
   {
    "brand": "Asus",
    "device": "ASUS_I001_1",
+   "model": "ASUS_I001DE"
+  },
+  {
+   "brand": "Asus",
+   "device": "ASUS_I001_1",
    "model": "ZS660KL"
   }
  ],
@@ -26910,6 +26915,16 @@
    "model": "BLAUPUNKT FHD Android TV"
   },
   {
+   "brand": "DIAMANT",
+   "device": "yeongdeungpo",
+   "model": "DIAMANT Android TV"
+  },
+  {
+   "brand": "HORIZON",
+   "device": "yeongdeungpo",
+   "model": "HORIZON Android TV"
+  },
+  {
    "brand": "Haier",
    "device": "nippori",
    "model": "HEC Android TV 2K"
@@ -34047,6 +34062,13 @@
    "model": "HiPad Plus"
   }
  ],
+ "HiPadPlus_ROW": [
+  {
+   "brand": "Chuwi",
+   "device": "HiPadPlus",
+   "model": "HiPadPlus"
+  }
+ ],
  "HipadX": [
   {
    "brand": "Chuwi",
@@ -39140,6 +39162,13 @@
    "brand": "DEXP",
    "device": "A360",
    "model": "A360"
+  }
+ ],
+ "A440": [
+  {
+   "brand": "DEXP",
+   "device": "A440",
+   "model": "A440"
   }
  ],
  "AL140": [
@@ -83798,6 +83827,13 @@
    "model": "G8060"
   }
  ],
+ "IRIS 4K Android TV": [
+  {
+   "brand": "Iris",
+   "device": "SW4H_FF",
+   "model": "IRIS 4K Android TV"
+  }
+ ],
  "IRIS Smart TV": [
   {
    "brand": "Iris",
@@ -97081,6 +97117,13 @@
    "model": "LM-G900TM"
   }
  ],
+ "VELVET 2 PRO": [
+  {
+   "brand": "LGE",
+   "device": "rainbowlm",
+   "model": "LM-V700N"
+  }
+ ],
  "VU3": [
   {
    "brand": "LGE",
@@ -102198,6 +102241,18 @@
    "model": "Lenovo K12 Note"
   }
  ],
+ "Lenovo K13 Note": [
+  {
+   "brand": "Lenovo",
+   "device": "capri",
+   "model": "Lenovo K12 Note"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "capri",
+   "model": "Lenovo K13 Note"
+  }
+ ],
  "Lenovo K8": [
   {
    "brand": "Lenovo",
@@ -104075,6 +104130,13 @@
    "brand": "Lenovo",
    "device": "YOGABOOK12",
    "model": "Lenovo YB-Q501L"
+  }
+ ],
+ "YOGA Pad Pro": [
+  {
+   "brand": "Lenovo",
+   "device": "K606F",
+   "model": "Lenovo YT-K606F"
   }
  ],
  "YOGA Tab 3 10”": [
@@ -121330,6 +121392,11 @@
    "brand": "Newings",
    "device": "T18",
    "model": "T18"
+  },
+  {
+   "brand": "TOSCIDO",
+   "device": "T18",
+   "model": "T18"
   }
  ],
  "NLS-MT6550-AM": [
@@ -128499,6 +128566,13 @@
    "model": "PrismPlus 4K Android TV"
   }
  ],
+ "PrismPlus 4K Pro Android TV": [
+  {
+   "brand": "PRISMPLUS",
+   "device": "SW4H_FF",
+   "model": "PrismPlus 4K Pro Android TV"
+  }
+ ],
  "Prismplus TV": [
   {
    "brand": "PRISMPLUS",
@@ -132622,6 +132696,13 @@
    "brand": "Point of view",
    "device": "PVT-R78-3288",
    "model": "PVT-R78-3288"
+  }
+ ],
+ "TAB-7232-3G": [
+  {
+   "brand": "Point of view",
+   "device": "TAB_7232_3G_EEA",
+   "model": "TAB-7232-3G-V2"
   }
  ],
  "TAB-P10232-3G": [
@@ -141843,6 +141924,13 @@
    "brand": "SAKAISIO",
    "device": "U320-3G",
    "model": "FP-U320-711-WWAN"
+  }
+ ],
+ "SANLUX 4K MONITOR": [
+  {
+   "brand": "SANLUX",
+   "device": "SW4H",
+   "model": "SANLUX 4K MONITOR"
   }
  ],
  "P1_Plus": [
@@ -158279,6 +158367,13 @@
    "model": "4T-C60ASAA"
   }
  ],
+ "4T-C60BJ8T": [
+  {
+   "brand": "Sharp",
+   "device": "gangnam",
+   "model": "TVX19B"
+  }
+ ],
  "4T-C60BK2UD": [
   {
    "brand": "Sharp",
@@ -161819,6 +161914,11 @@
   }
  ],
  "SKY Prestige2": [
+  {
+   "brand": "Sky Devices",
+   "device": "SKY_Prestige2",
+   "model": "SKY Prestige2"
+  },
   {
    "brand": "Sky Devices",
    "device": "Sky_Prestige2_NFP",
@@ -166617,6 +166717,13 @@
    "brand": "Stofa",
    "device": "IC1130",
    "model": "IC1130"
+  }
+ ],
+ "MDDDI13310": [
+  {
+   "brand": "Storex",
+   "device": "MDDDI13310",
+   "model": "FONDATION_ORANGE_2021"
   }
  ],
  "MDDDI13311": [
@@ -187366,6 +187473,13 @@
    "model": "V2054A"
   }
  ],
+ "V2055": [
+  {
+   "brand": "Vivo",
+   "device": "2055",
+   "model": "V2055"
+  }
+ ],
  "V2055A": [
   {
    "brand": "Vivo",
@@ -187399,6 +187513,13 @@
    "brand": "Vivo",
    "device": "2058",
    "model": "V2058"
+  }
+ ],
+ "V2059": [
+  {
+   "brand": "Vivo",
+   "device": "2059",
+   "model": "V2059"
   }
  ],
  "V2059A": [

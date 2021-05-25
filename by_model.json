@@ -12707,6 +12707,13 @@
    "device": "ASUS_I001_1"
   }
  ],
+ "ASUS_I001DE": [
+  {
+   "brand": "Asus",
+   "name": "ROG Phone ll",
+   "device": "ASUS_I001_1"
+  }
+ ],
  "ZS660KL": [
   {
    "brand": "Asus",
@@ -28130,6 +28137,13 @@
    "device": "HiPadPlus"
   }
  ],
+ "HiPadPlus": [
+  {
+   "brand": "Chuwi",
+   "name": "HiPadPlus_ROW",
+   "device": "HiPadPlus"
+  }
+ ],
  "HiPad X": [
   {
    "brand": "Chuwi",
@@ -33111,6 +33125,13 @@
    "device": "A360"
   }
  ],
+ "A440": [
+  {
+   "brand": "DEXP",
+   "name": "A440",
+   "device": "A440"
+  }
+ ],
  "AL140": [
   {
    "brand": "DEXP",
@@ -34265,6 +34286,13 @@
    "brand": "DIADEM",
    "name": "CUTE_5",
    "device": "CUTE_5"
+  }
+ ],
+ "DIAMANT Android TV": [
+  {
+   "brand": "DIAMANT",
+   "name": "EU",
+   "device": "yeongdeungpo"
   }
  ],
  "DISHM7863": [
@@ -52153,6 +52181,13 @@
    "brand": "HOMTOM",
    "name": "S99i",
    "device": "S99i"
+  }
+ ],
+ "HORIZON Android TV": [
+  {
+   "brand": "HORIZON",
+   "name": "EU",
+   "device": "yeongdeungpo"
   }
  ],
  "HP 10": [
@@ -81748,6 +81783,13 @@
    "device": "G8060"
   }
  ],
+ "IRIS 4K Android TV": [
+  {
+   "brand": "Iris",
+   "name": "IRIS 4K Android TV",
+   "device": "SW4H_FF"
+  }
+ ],
  "IRIS Smart TV": [
   {
    "brand": "Iris",
@@ -97187,6 +97229,13 @@
    "device": "mcaymanlm"
   }
  ],
+ "LM-V700N": [
+  {
+   "brand": "LGE",
+   "name": "VELVET 2 PRO",
+   "device": "rainbowlm"
+  }
+ ],
  "LG-F300K": [
   {
    "brand": "LGE",
@@ -103020,6 +103069,18 @@
    "brand": "Lenovo",
    "name": "Lenovo K12 Note",
    "device": "guamp"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo K13 Note",
+   "device": "capri"
+  }
+ ],
+ "Lenovo K13 Note": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo K13 Note",
+   "device": "capri"
   }
  ],
  "Lenovo K": [
@@ -105199,6 +105260,18 @@
    "device": "yeti"
   }
  ],
+ "Lenovo YT-K606F": [
+  {
+   "brand": "Lenovo",
+   "name": "YOGA Pad Pro",
+   "device": "K606F"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "Yoga Tab 13(ROW)",
+   "device": "K606F"
+  }
+ ],
  "Lenovo YT3-X50F": [
   {
    "brand": "Lenovo",
@@ -105344,13 +105417,6 @@
    "brand": "Lenovo",
    "name": "Yoga Smart Tab",
    "device": "YT-X705X"
-  }
- ],
- "Lenovo YT-K606F": [
-  {
-   "brand": "Lenovo",
-   "name": "Yoga Tab 13(ROW)",
-   "device": "K606F"
   }
  ],
  "YOGA Tablet 2-1050F": [
@@ -123685,6 +123751,11 @@
    "brand": "Newings",
    "name": "T18",
    "device": "T18"
+  },
+  {
+   "brand": "TOSCIDO",
+   "name": "T18",
+   "device": "T18"
   }
  ],
  "NLS-MT65": [
@@ -131331,6 +131402,13 @@
    "device": "SW4H"
   }
  ],
+ "PrismPlus 4K Pro Android TV": [
+  {
+   "brand": "PRISMPLUS",
+   "name": "PrismPlus 4K Pro Android TV",
+   "device": "SW4H_FF"
+  }
+ ],
  "Prismplus TV": [
   {
    "brand": "PRISMPLUS",
@@ -135475,6 +135553,13 @@
    "brand": "Point of view",
    "name": "PVT-R78-3288",
    "device": "PVT-R78-3288"
+  }
+ ],
+ "TAB-7232-3G-V2": [
+  {
+   "brand": "Point of view",
+   "name": "TAB-7232-3G",
+   "device": "TAB_7232_3G_EEA"
   }
  ],
  "TAB-P10232-3G": [
@@ -144949,6 +145034,13 @@
    "brand": "SANCO",
    "name": "Vietnam",
    "device": "yeongdeungpo"
+  }
+ ],
+ "SANLUX 4K MONITOR": [
+  {
+   "brand": "SANLUX",
+   "name": "SANLUX 4K MONITOR",
+   "device": "SW4H"
   }
  ],
  "P1+": [
@@ -165270,6 +165362,11 @@
    "brand": "Sharp",
    "name": "4T-C50BJ8T",
    "device": "gangnam"
+  },
+  {
+   "brand": "Sharp",
+   "name": "4T-C60BJ8T",
+   "device": "gangnam"
   }
  ],
  "AQUOS-TVX19B": [
@@ -168854,6 +168951,11 @@
    "brand": "Sky Devices",
    "name": "Prestige2",
    "device": "SKY_Prestige2_FP"
+  },
+  {
+   "brand": "Sky Devices",
+   "name": "SKY Prestige2",
+   "device": "SKY_Prestige2"
   }
  ],
  "SKY 5.0LM": [
@@ -174297,6 +174399,13 @@
    "brand": "Stofa",
    "name": "IC1130",
    "device": "IC1130"
+  }
+ ],
+ "FONDATION_ORANGE_2021": [
+  {
+   "brand": "Storex",
+   "name": "MDDDI13310",
+   "device": "MDDDI13310"
   }
  ],
  "FONDATION_ORANGEH_2021": [
@@ -197605,6 +197714,13 @@
    "device": "PD2106"
   }
  ],
+ "V2055": [
+  {
+   "brand": "Vivo",
+   "name": "V2055",
+   "device": "2055"
+  }
+ ],
  "V2055A": [
   {
    "brand": "Vivo",
@@ -197638,6 +197754,13 @@
    "brand": "Vivo",
    "name": "V2058",
    "device": "2058"
+  }
+ ],
+ "V2059": [
+  {
+   "brand": "Vivo",
+   "name": "V2059",
+   "device": "2059"
   }
  ],
  "V2059A": [

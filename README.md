@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-05-24
+Last sync is 2021-05-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1586,6 +1586,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ROG Phone 5|ASUS_I005_1|ASUS_I005DB|
 |Asus|ROG Phone 5|ASUS_I005_1|ZS673KS|
 |Asus|ROG Phone ll|ASUS_I001_1|ASUS_I001D|
+|Asus|ROG Phone ll|ASUS_I001_1|ASUS_I001DE|
 |Asus|ROG Phone ll|ASUS_I001_1|ZS660KL|
 |Asus|RTC-700A|RTC-tablet|RTC-tablet|
 |Asus|T101TA|T10xTA|T10xTA|
@@ -3751,6 +3752,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Chuwi|Hi9|Hi9|Hi9|
 |Chuwi|Hi9Pro|Hi9Pro|Hi9Pro|
 |Chuwi|HiPadPlus_EEA|HiPadPlus|HiPad Plus|
+|Chuwi|HiPadPlus_ROW|HiPadPlus|HiPadPlus|
 |Chuwi|HipadX|HipadX|HiPad X|
 |Chuwi|HipadX_eea_1|HipadX|HiPad X|
 |Chuwi|HipadX_ru|HipadX|HiPad X|
@@ -4453,6 +4455,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|A345|A345|A345|
 |DEXP|A355|A355|A355|
 |DEXP|A360|A360|A360|
+|DEXP|A440|A440|A440|
 |DEXP|AL140|AL140|AL140|
 |DEXP|AL240|AL240|AL240|
 |DEXP|AL250|AL250|AL250|
@@ -4618,6 +4621,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DGTEC|Dg_1523|Dg_1523|Dg_1523|
 |DGTEC|Dg_1524|Dg_1524|Dg_1524|
 |DIADEM|CUTE_5|CUTE_5|CUTE 5|
+|DIAMANT|EU|yeongdeungpo|DIAMANT Android TV|
 |DIFRNCE|DIT702201|DIT702201|NID_7010|
 |DIMENSIONS|DISHM7863|DISHM7863|DISHM7863|
 |DIRECTV|OTT-01|HP40A|OTT-01|
@@ -7142,6 +7146,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HOMTOM|S99i|S99i|S99i|
 |HOMTOM|Z8|Z8|Z8|
 |HOMTOM|c1|C1|C1|
+|HORIZON|EU|yeongdeungpo|HORIZON Android TV|
 |HP|10|spruce|HP 10|
 |HP|10 Plus|torsa|HP 10 Plus|
 |HP|7 G2|redwood|HP 7 G2|
@@ -11602,6 +11607,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Iris|G7060|G7060|G7060|
 |Iris|G7100|G7100|G7100|
 |Iris|G8060|G8060|G8060|
+|Iris|IRIS 4K Android TV|SW4H_FF|IRIS 4K Android TV|
 |Iris|IRIS Smart TV|SW4H|IRIS Smart TV|
 |Iris|IS2PLUS|IS2PLUS|IS2PLUS|
 |Iris|IS2S|IS2S|IS2S|
@@ -13917,6 +13923,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|VELVET|caymanslm|LM-G910|
 |LGE|VELVET|mcaymanlm|LM-G900MM|
 |LGE|VELVET|mcaymanlm|LM-G900TM|
+|LGE|VELVET 2 PRO|rainbowlm|LM-V700N|
 |LGE|VU3|vu3|LG-F300K|
 |LGE|VU3|vu3|LG-F300L|
 |LGE|VU3|vu3|LG-F300S|
@@ -14784,6 +14791,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo K11|L38082|Lenovo L38082|
 |Lenovo|Lenovo K11|L38083|Lenovo L38083|
 |Lenovo|Lenovo K12 Note|guamp|Lenovo K12 Note|
+|Lenovo|Lenovo K13 Note|capri|Lenovo K12 Note|
+|Lenovo|Lenovo K13 Note|capri|Lenovo K13 Note|
 |Lenovo|Lenovo K8|brady_f|Lenovo K|
 |Lenovo|Lenovo K8|brady_f|Lenovo K8|
 |Lenovo|Lenovo K8 Note|manning|Lenovo K8 Note|
@@ -15108,6 +15117,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|YOGA BOOK|yeti|Lenovo YB1-X90L|
 |Lenovo|YOGA Laptop with Android|YOGABOOK12|Lenovo YB-Q501F|
 |Lenovo|YOGA Laptop with Android|YOGABOOK12|Lenovo YB-Q501L|
+|Lenovo|YOGA Pad Pro|K606F|Lenovo YT-K606F|
 |Lenovo|YOGA Tab 3 10”|YT3-X50F|Lenovo YT3-X50F|
 |Lenovo|YOGA Tab 3 10”|YT3-X50L|Lenovo YT3-X50L|
 |Lenovo|YOGA Tab 3 10”|YT3-X50M|Lenovo YT3-X50M|
@@ -19114,6 +19124,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POPTEL|V9|V9|V9|
 |PORTFOLIO|P9001|P9001|P9001|
 |PRISMPLUS|PrismPlus 4K Android TV|SW4H|PrismPlus 4K Android TV|
+|PRISMPLUS|PrismPlus 4K Pro Android TV|SW4H_FF|PrismPlus 4K Pro Android TV|
 |PRISMPLUS|Prismplus TV|shibuya|Prismplus TV|
 |PROGRACE|K726|K726|K726|
 |PS_Mobile|Neo_Pro|Neo_Pro|Neo Pro|
@@ -19756,6 +19767,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Point Mobile|PM85R|pm85r|PM85R|
 |Point Mobile|PM90|pm90|PM90|
 |Point of view|PVT-R78-3288|PVT-R78-3288|PVT-R78-3288|
+|Point of view|TAB-7232-3G|TAB_7232_3G_EEA|TAB-7232-3G-V2|
 |Point of view|TAB-P10232-3G|TAB-P10232-3G|TAB-P10232-3G|
 |Point of view|TAB-PTDF-116|TAB-PTDF-116|TAB-PTDF-116|
 |Point of view|TAB_ASR_7232_3G_SERIES|TABLET_PC|TAB_ASR_7232_3G_SERIES|
@@ -21200,6 +21212,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SAMPO|Android TV|R2|ATV R2|
 |SANCO|Vietnam|tamachi|SANCO Android TV|
 |SANCO|Vietnam|yeongdeungpo|SANCO Android TV|
+|SANLUX|SANLUX 4K MONITOR|SW4H|SANLUX 4K MONITOR|
 |SANNUO|K101|K101|K101|
 |SARL WISE TECHNOLOGIE|P1_Plus|P1_Plus|P1+|
 |SARL WISE TECHNOLOGIE|Wise_Tab|Wise_Tab|Wise_Tab|
@@ -24187,6 +24200,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|"4T-C60AL1H|4T-C70AL1H"|lc_xxeos5h|
 |Sharp|"4T-C60AM1H|4T-C70AM1H"|lc_xxdem6h|
 |Sharp|"4T-C60ANAA|4T-C70ANAA|4T-C60ASAA|
+|Sharp|4T-C60BJ8T|gangnam|TVX19B|
 |Sharp|4T-C60BK2UD|guro|AQUOS-TVU19A|
 |Sharp|4T-C60CFZA  4T-C70CFZA 4T-C60CFMA 4T-C70CFMA 4T-C60CFKA 4T-C70CFKA 4T-C60CFXA 4T-C70CFXA 4T-C60CFCA 4T-C70CFCA|lcd_xxhad5a|LCD-xxHAD5A|
 |Sharp|507SH|eve_sprout|507SH|
@@ -24726,6 +24740,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|SKY Black|SKY_Black|SKY Black|
 |Sky Devices|SKY Black|TIBLA28|SKY Black|
 |Sky Devices|SKY Prestige|SKY_Prestige|SKY Prestige|
+|Sky Devices|SKY Prestige2|SKY_Prestige2|SKY Prestige2|
 |Sky Devices|SKY Prestige2|Sky_Prestige2_NFP|Sky Prestige2|
 |Sky Devices|SKY VISION1|SKYVISION|SKYVISION|
 |Sky Devices|SKY Volt|SKY_Volt|SKY Volt|
@@ -25553,6 +25568,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Starlight|venus|venus|venus|
 |Steren|Steren INTV_1000|INTV_1000|Steren INTV_1000|
 |Stofa|IC1130|IC1130|IC1130|
+|Storex|MDDDI13310|MDDDI13310|FONDATION_ORANGE_2021|
 |Storex|MDDDI13311|MDDDI13311|FONDATION_ORANGEH_2021|
 |Storex|eZee'Tab7Q11-M|Tab7Q11|Tab7Q11|
 |Storex|eZeeTab10D12-S|eZeeTab10D12-S|eZeeTab10D12-S|
@@ -27364,6 +27380,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TOSCIDO|T15|T15|T15|
 |TOSCIDO|T15-EEA|T15-EEA|T15-EEA|
 |TOSCIDO|T151-EEA|T151-EEA|T151-EEA|
+|TOSCIDO|T18|T18|T18|
 |TOSCIDO|T201|T201|T201|
 |TOSCIDO|T201-EEA|T201-EEA|T201-EEA|
 |TOSCIDO|T50-EEA|T50-EEA|T50-EEA|
@@ -29114,11 +29131,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2054|2034|V2054|
 |Vivo|V2054A|PD2054|V2054A|
 |Vivo|V2054A|PD2106|V2054A|
+|Vivo|V2055|2055|V2055|
 |Vivo|V2055A|PD2055|V2055A|
 |Vivo|V2056A|PD2056|V2056A|
 |Vivo|V2057|2058|V2057|
 |Vivo|V2057A|PD2057|V2057A|
 |Vivo|V2058|2058|V2058|
+|Vivo|V2059|2059|V2059|
 |Vivo|V2059A|PD2047|V2059A|
 |Vivo|V2061|2061|V2061|
 |Vivo|V2061A|PD2061|V2061A|
