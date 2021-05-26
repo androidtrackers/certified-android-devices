@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-05-25
+Last sync is 2021-05-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -18676,6 +18676,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Reno5|OP4F25L1|CPH2159|
 |Oppo|OPPO Reno5 5G|OP4F1BL1|CPH2145|
 |Oppo|OPPO Reno5 A|OP4F2BL1|A101OP|
+|Oppo|OPPO Reno5 A|OP4F2BL1|CPH2199|
 |Oppo|OPPO Reno5 Pro+ 5G|OP4EA7|PDRM00|
 |Oppo|OPPO Reno5 Z|OP4EB7|PELM00|
 |Oppo|OPPO Reno5 Z|OP4F4DL1|CPH2211|
@@ -21777,6 +21778,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A51 5G|a51x|SM-A516U1|
 |Samsung|Galaxy A51 5G|a51xq|SM-A516V|
 |Samsung|Galaxy A52|a52q|SM-A525F|
+|Samsung|Galaxy A52 5G|SC-53B|SC-53B|
 |Samsung|Galaxy A52 5G|a52xq|SM-A5260|
 |Samsung|Galaxy A52 5G|a52xq|SM-A526B|
 |Samsung|Galaxy A52 5G|a52xq|SM-A526N|
@@ -24134,6 +24136,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Selectron|T856G|T856G|T856G|
 |Selfix|ES733|ES733|ES733|
 |Selfix|SELFIX_ES732_EXPERIUS|EXPERIUS|SELFIX_ES732_EXPERIUS|
+|Selfix|X5|X5|X5|
 |Selfix|X7|X7|X7|
 |Selvas|BrailleSense Polaris|polaris|BrailleSensePolaris|
 |Selvas|H632B|BrailleSense|H632B|
@@ -24938,6 +24941,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 1 II|XQ-AT52|XQ-AT52|
 |Sony|Xperia 1 II|XQ-AT72|XQ-AT72|
 |Sony|Xperia 1 III|SO-51B|SO-51B|
+|Sony|Xperia 1 III|XQ-BC72|XQ-BC72|
 |Sony|Xperia 1 Professional Edition|J9150|J9150|
 |Sony|Xperia 10|I3113|I3113|
 |Sony|Xperia 10|I3123|I3123|
@@ -31982,6 +31986,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE_V971LM|ZTE_V971LM|ZTE_V971LM|
 |ZTE|ZTE_V97L|ZTE_V97L|ZTE_V97L|
 |ZTE|ZTE Axon 30 5G|P875A02|ZTE A2022|
+|ZTE|ZTE Axon 30 5G|P875A02|ZTE A2022H|
 |ZTE|ZTE Grand X View 3|K83CA|K83CA|
 |ZTE|ZTG01|Z6750K|ZTG01|
 |ZTE|ZTU31|P852F52|ZTU31|

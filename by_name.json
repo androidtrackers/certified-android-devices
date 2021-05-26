@@ -58022,6 +58022,11 @@
    "model": "X5"
   },
   {
+   "brand": "Selfix",
+   "device": "X5",
+   "model": "X5"
+  },
+  {
    "brand": "Stylo",
    "device": "X5",
    "model": "X5"
@@ -125664,6 +125669,11 @@
    "brand": "Oppo",
    "device": "OP4F2BL1",
    "model": "A101OP"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP4F2BL1",
+   "model": "CPH2199"
   }
  ],
  "OPPO Reno5 Pro+ 5G": [
@@ -145041,6 +145051,11 @@
  "Galaxy A52 5G": [
   {
    "brand": "Samsung",
+   "device": "SC-53B",
+   "model": "SC-53B"
+  },
+  {
+   "brand": "Samsung",
    "device": "a52xq",
    "model": "SM-A5260"
   },
@@ -163107,6 +163122,11 @@
    "brand": "Sony",
    "device": "SO-51B",
    "model": "SO-51B"
+  },
+  {
+   "brand": "Sony",
+   "device": "XQ-BC72",
+   "model": "XQ-BC72"
   }
  ],
  "Xperia 1 Professional Edition": [
@@ -203622,6 +203642,11 @@
    "brand": "ZTE",
    "device": "P875A02",
    "model": "ZTE A2022"
+  },
+  {
+   "brand": "ZTE",
+   "device": "P875A02",
+   "model": "ZTE A2022H"
   }
  ],
  "ZTE Grand X View 3": [

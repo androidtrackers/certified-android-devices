@@ -128521,6 +128521,13 @@
    "device": "OP4F2BL1"
   }
  ],
+ "CPH2199": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno5 A",
+   "device": "OP4F2BL1"
+  }
+ ],
  "PDRM00": [
   {
    "brand": "Oppo",
@@ -145798,6 +145805,11 @@
    "device": "X5"
   },
   {
+   "brand": "Selfix",
+   "name": "X5",
+   "device": "X5"
+  },
+  {
    "brand": "Stylo",
    "name": "X5",
    "device": "X5"
@@ -148858,6 +148870,13 @@
    "brand": "Samsung",
    "name": "Galaxy A52",
    "device": "a52q"
+  }
+ ],
+ "SC-53B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A52 5G",
+   "device": "SC-53B"
   }
  ],
  "SM-A5260": [
@@ -170374,6 +170393,13 @@
    "brand": "Sony",
    "name": "Xperia 1 III",
    "device": "SO-51B"
+  }
+ ],
+ "XQ-BC72": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 1 III",
+   "device": "XQ-BC72"
   }
  ],
  "J9150": [
@@ -216153,6 +216179,13 @@
   }
  ],
  "ZTE A2022": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Axon 30 5G",
+   "device": "P875A02"
+  }
+ ],
+ "ZTE A2022H": [
   {
    "brand": "ZTE",
    "name": "ZTE Axon 30 5G",
