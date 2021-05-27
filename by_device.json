@@ -22966,6 +22966,11 @@
   },
   {
    "brand": "Polaroid",
+   "name": "Polaroid",
+   "model": "POLA-TVE19K"
+  },
+  {
+   "brand": "Polaroid",
    "name": "polaroid",
    "model": "POLA-TVE19K"
   },
@@ -23000,6 +23005,11 @@
    "brand": "Sharp",
    "name": "EU",
    "model": "AQUOS_TVE19A"
+  },
+  {
+   "brand": "Sharp",
+   "name": "Sharp",
+   "model": "AQUOS-TVE19C"
   }
  ],
  "Blaupunkt_SL_01": [
@@ -111151,6 +111161,13 @@
    "model": "MINTT-DIGI"
   }
  ],
+ "MINTT_DIGI_2": [
+  {
+   "brand": "Mintt",
+   "name": "MINTT_DIGI_2",
+   "model": "Mintt__Digi__2"
+  }
+ ],
  "MinttPoro": [
   {
    "brand": "Mintt",
@@ -144095,6 +144112,11 @@
   }
  ],
  "a22x": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A22 5G",
+   "model": "SM-A226B"
+  },
   {
    "brand": "Samsung",
    "name": "Galaxy A22s 5G",
@@ -180926,6 +180948,13 @@
    "brand": "Tecno",
    "name": "POP 4 Pro",
    "model": "TECNO BC3"
+  }
+ ],
+ "TECNO-BD3": [
+  {
+   "brand": "Tecno",
+   "name": "POP 5P",
+   "model": "TECNO BD3"
   }
  ],
  "TECNO-F3": [

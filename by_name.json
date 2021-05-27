@@ -112311,6 +112311,13 @@
    "model": "MINTT-DIGI"
   }
  ],
+ "MINTT_DIGI_2": [
+  {
+   "brand": "Mintt",
+   "device": "MINTT_DIGI_2",
+   "model": "Mintt__Digi__2"
+  }
+ ],
  "MinttPoro": [
   {
    "brand": "Mintt",
@@ -133260,6 +133267,11 @@
   },
   {
    "brand": "Polaroid",
+   "device": "ewha",
+   "model": "POLA-TVE19K"
+  },
+  {
+   "brand": "Polaroid",
    "device": "komagome",
    "model": "Polaroid 2K Android TV"
   }
@@ -144348,6 +144360,13 @@
    "brand": "Samsung",
    "device": "a21s",
    "model": "SM-A217N"
+  }
+ ],
+ "Galaxy A22 5G": [
+  {
+   "brand": "Samsung",
+   "device": "a22x",
+   "model": "SM-A226B"
   }
  ],
  "Galaxy A22s 5G": [
@@ -160487,6 +160506,11 @@
    "brand": "Sharp",
    "device": "ewha",
    "model": "AQUOS-TVE19G"
+  },
+  {
+   "brand": "Sharp",
+   "device": "sindang",
+   "model": "AQUOS-TVE19C"
   }
  ],
  "Sharp A Click": [
@@ -178526,6 +178550,13 @@
    "brand": "Tecno",
    "device": "TECNO-BC3",
    "model": "TECNO BC3"
+  }
+ ],
+ "POP 5P": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-BD3",
+   "model": "TECNO BD3"
   }
  ],
  "POP1": [

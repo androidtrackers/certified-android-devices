@@ -113880,6 +113880,13 @@
    "device": "MINTT-DIGI"
   }
  ],
+ "Mintt__Digi__2": [
+  {
+   "brand": "Mintt",
+   "name": "MINTT_DIGI_2",
+   "device": "MINTT_DIGI_2"
+  }
+ ],
  "MinttPoro": [
   {
    "brand": "Mintt",
@@ -136108,6 +136115,18 @@
    "device": "bangbae"
   }
  ],
+ "POLA-TVE19K": [
+  {
+   "brand": "Polaroid",
+   "name": "Polaroid",
+   "device": "ewha"
+  },
+  {
+   "brand": "Polaroid",
+   "name": "polaroid",
+   "device": "ewha"
+  }
+ ],
  "Polaroid 2K Android TV": [
   {
    "brand": "Polaroid",
@@ -136167,13 +136186,6 @@
    "brand": "Polaroid",
    "name": "midcb232pr_EEA",
    "device": "midcb232pr"
-  }
- ],
- "POLA-TVE19K": [
-  {
-   "brand": "Polaroid",
-   "name": "polaroid",
-   "device": "ewha"
   }
  ],
  "POLA-TVE19M": [
@@ -147982,6 +147994,11 @@
   }
  ],
  "SM-A226B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A22 5G",
+   "device": "a22x"
+  },
   {
    "brand": "Samsung",
    "name": "Galaxy A22s 5G",
@@ -166702,6 +166719,11 @@
   {
    "brand": "Sharp",
    "name": "EU",
+   "device": "sindang"
+  },
+  {
+   "brand": "Sharp",
+   "name": "Sharp",
    "device": "sindang"
   }
  ],
@@ -188545,6 +188567,13 @@
    "brand": "Tecno",
    "name": "POP 4 Pro",
    "device": "TECNO-BC3"
+  }
+ ],
+ "TECNO BD3": [
+  {
+   "brand": "Tecno",
+   "name": "POP 5P",
+   "device": "TECNO-BD3"
   }
  ],
  "TECNO LD7": [

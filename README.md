@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-05-26
+Last sync is 2021-05-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -16422,6 +16422,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mintt|FRESHMINTTA7|FRESHMINTTA7|FRESHMINTTA7|
 |Mintt|M1|M1|M1|
 |Mintt|MINTT-DIGI|MINTT-DIGI|MINTT-DIGI|
+|Mintt|MINTT_DIGI_2|MINTT_DIGI_2|Mintt__Digi__2|
 |Mintt|MinttPoro|MinttPoro|MinttPoro|
 |Mintt|Mintt_Tab_T1|Mintt_Tab_T1|Mintt_Tab_T1|
 |Mintt|ULTRAMINTT A5|ULTRAMINTT_A5|ULTRAMINTT A5|
@@ -19852,6 +19853,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Polaroid|PTAB751|STJR76|PTAB751|
 |Polaroid|Phantom 5|Phantom5|PRO5023|
 |Polaroid|Polaroid|bangbae|Polaroid 4K Android TV|
+|Polaroid|Polaroid|ewha|POLA-TVE19K|
 |Polaroid|Polaroid|komagome|Polaroid 2K Android TV|
 |Polaroid|Polaroid android TV|hanyang|Polaroid Android TV|
 |Polaroid|SIGMA 5|SIGMA-5|SIGMA-5|
@@ -21648,6 +21650,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A21s|a21s|SM-A217F|
 |Samsung|Galaxy A21s|a21s|SM-A217M|
 |Samsung|Galaxy A21s|a21s|SM-A217N|
+|Samsung|Galaxy A22 5G|a22x|SM-A226B|
 |Samsung|Galaxy A22s 5G|a22x|SM-A226B|
 |Samsung|Galaxy A3|a33g|SM-A300H|
 |Samsung|Galaxy A3|a3lte|SM-A300F|
@@ -24517,6 +24520,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|SHARP R1S|SK3|FS8028|
 |Sharp|SHARP TBC|SI3|FS8025|
 |Sharp|Sharp|ewha|AQUOS-TVE19G|
+|Sharp|Sharp|sindang|AQUOS-TVE19C|
 |Sharp|Sharp A Click|AH3|IF9003|
 |Sharp|Sharp HH6|HH6_sprout|FS8032|
 |Sharp|Sharp Pi|AG3|IF9007|
@@ -27680,6 +27684,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|POP 3 Plus|TECNO-BB4|TECNO BB4|
 |Tecno|POP 4 LTE|TECNO-BC1s|TECNO BC1s|
 |Tecno|POP 4 Pro|TECNO-BC3|TECNO BC3|
+|Tecno|POP 5P|TECNO-BD3|TECNO BD3|
 |Tecno|POP1|TECNO-F3|TECNO F3|
 |Tecno|POVA|TECNO-LD7|TECNO LD7|
 |Tecno|POVA|TECNO-LD7j|TECNO LD7j|
