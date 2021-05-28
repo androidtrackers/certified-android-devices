@@ -11609,6 +11609,11 @@
    "model": "BL54Pro"
   },
   {
+   "device": "Bmobile_BL54Pro",
+   "name": "BL54Pro_MV12",
+   "model": "BL54Pro"
+  },
+  {
    "device": "Bmobile_BL54_PRO_TG05",
    "name": "BL54_PRO_TG05",
    "model": "BL54_PRO"
@@ -14915,6 +14920,11 @@
    "device": "C0070WW",
    "name": "C5L_2020",
    "model": "C5L 2020"
+  },
+  {
+   "device": "C0040TT",
+   "name": "C5L_Plus",
+   "model": "C5L Plus"
   },
   {
    "device": "C0000UU",
@@ -36990,6 +37000,11 @@
    "device": "P9_EEA",
    "name": "P9_EEA",
    "model": "P9_EEA"
+  },
+  {
+   "device": "T2000",
+   "name": "T2000",
+   "model": "T2000"
   }
  ],
  "HDC S.A.": [
@@ -57210,6 +57225,11 @@
    "device": "Infinix-X689C",
    "name": "Infinix HOT 10T",
    "model": "Infinix X689C"
+  },
+  {
+   "device": "Infinix-PR652B",
+   "name": "Infinix HOT 10i",
+   "model": "Infinix PR652B"
   },
   {
    "device": "Infinix-X623",
@@ -127990,6 +128010,11 @@
    "model": "SO-52B"
   },
   {
+   "device": "XQ-BT52",
+   "name": "Xperia 10 III",
+   "model": "XQ-BT52"
+  },
+  {
    "device": "I3213",
    "name": "Xperia 10 Plus",
    "model": "I3213"
@@ -145182,6 +145207,11 @@
    "model": "Armor_6"
   },
   {
+   "device": "Armor_11_5G",
+   "name": "Armor_11_5G",
+   "model": "Armor 11 5G"
+  },
+  {
    "device": "Armor_3",
    "name": "Armor_3",
    "model": "Armor_3"
@@ -145255,11 +145285,6 @@
    "device": "Armor_X6",
    "name": "Armor_X6",
    "model": "Armor_X6"
-  },
-  {
-   "device": "Armor_11_5G",
-   "name": "Company Gotron - FIH Foxconn Marketing Name  Retail Branding",
-   "model": "Armor 11 5G"
   },
   {
    "device": "t816_gq_ulefone",
@@ -145577,6 +145602,11 @@
   }
  ],
  "Umidigi": [
+  {
+   "device": "A11",
+   "name": "A11",
+   "model": "A11"
+  },
   {
    "device": "A3",
    "name": "A3",

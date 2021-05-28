@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-05-27
+Last sync is 2021-05-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2257,6 +2257,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|B60Pro_DG|Bmobile_B60Pro_DG|B60Pro_DG|
 |BMobile|B60Pro_MV03|B60Pro_MV03|B60Pro_MV03|
 |BMobile|BL54Pro|Bmobile_BL54Pro|BL54Pro|
+|BMobile|BL54Pro_MV12|Bmobile_BL54Pro|BL54Pro|
 |BMobile|BL54_PRO_TG05|Bmobile_BL54_PRO_TG05|BL54_PRO|
 |BMobile|BL55_PRO_MV12|Bmobile_BL55_PRO_MV12|BL55_PRO|
 |BMobile|BL60|Bmobile_BL60|BL60|
@@ -2899,6 +2900,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|C5L|C0051LL|C5L|
 |Blu|C5L 2020|C0070WW|C5L 2020|
 |Blu|C5L_2020|C0070WW|C5L 2020|
+|Blu|C5L_Plus|C0040TT|C5L Plus|
 |Blu|C5X|C0000UU|C5X|
 |Blu|C5X|C0010LL|C5X|
 |Blu|C6|C031P|C6|
@@ -7116,6 +7118,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HAOVM|MediaPadP8|P8|P8|
 |HAOVM|P9|P9|P9|
 |HAOVM|P9_EEA|P9_EEA|P9_EEA|
+|HAOVM|T2000|T2000|T2000|
 |HDC S.A.|H10_ONE|H10_ONE|H10_ONE|
 |HDC S.A.|H7_ONE|H7_ONE|H7_ONE|
 |HDC S.A.|HDC|TK718|TK718|
@@ -11114,6 +11117,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 10S|Infinix-X689B|Infinix X689B|
 |Infinix|Infinix HOT 10S NFC|Infinix-X689D|Infinix X689D|
 |Infinix|Infinix HOT 10T|Infinix-X689C|Infinix X689C|
+|Infinix|Infinix HOT 10i|Infinix-PR652B|Infinix PR652B|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623B|
 |Infinix|Infinix HOT 7|Infinix-X625C|Infinix X625C|
@@ -24958,6 +24962,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 10 II|XQ-AU51|XQ-AU51|
 |Sony|Xperia 10 II|XQ-AU52|XQ-AU52|
 |Sony|Xperia 10 III|SO-52B|SO-52B|
+|Sony|Xperia 10 III|XQ-BT52|XQ-BT52|
 |Sony|Xperia 10 Plus|I3213|I3213|
 |Sony|Xperia 10 Plus|I3223|I3223|
 |Sony|Xperia 10 Plus|I4213|I4213|
@@ -28308,6 +28313,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor X7|Armor_X7_Q|Armor X7|
 |Ulefone|Armor X7 Pro|Armor_X7_Pro|Armor X7 Pro|
 |Ulefone|Armor6|Armor_6|Armor_6|
+|Ulefone|Armor_11_5G|Armor_11_5G|Armor 11 5G|
 |Ulefone|Armor_3|Armor_3|Armor_3|
 |Ulefone|Armor_3W|Armor_3W|Armor_3W|
 |Ulefone|Armor_3WT|Armor_3WT|Armor_3WT|
@@ -28323,7 +28329,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor_X3|Armor_X3|Armor_X3|
 |Ulefone|Armor_X5|Armor_X5|Armor X5|
 |Ulefone|Armor_X6|Armor_X6|Armor_X6|
-|Ulefone|Company Gotron - FIH Foxconn Marketing Name  Retail Branding|Armor_11_5G|Armor 11 5G|
 |Ulefone|MIX|t816_gq_ulefone|MIX|
 |Ulefone|MIX S|t815_gq_ulefone|MIX_S|
 |Ulefone|MIX_2|MIX_2|MIX_2|
@@ -28386,6 +28391,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umax|VisionBook10Q|VB_10Q_Plus|VB_10Q_Plus|
 |Umax|VisionBook_P55_LTE_Pro|VisionBook_P55_LTE_Pro|VisionBook P55 LTE Pro|
 |Umax|Visionbook_10Q_Pro|Visionbook_10Q_Pro|Visionbook_10Q_Pro|
+|Umidigi|A11|A11|A11|
 |Umidigi|A3|A3|A3|
 |Umidigi|A3S|A3S|A3S|
 |Umidigi|A3S_EEA|A3S|A3S|

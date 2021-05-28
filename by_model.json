@@ -17236,6 +17236,11 @@
    "brand": "BMobile",
    "name": "BL54Pro",
    "device": "Bmobile_BL54Pro"
+  },
+  {
+   "brand": "BMobile",
+   "name": "BL54Pro_MV12",
+   "device": "Bmobile_BL54Pro"
   }
  ],
  "BL54_PRO": [
@@ -21833,6 +21838,13 @@
    "brand": "Blu",
    "name": "C5L_2020",
    "device": "C0070WW"
+  }
+ ],
+ "C5L Plus": [
+  {
+   "brand": "Blu",
+   "name": "C5L_Plus",
+   "device": "C0040TT"
   }
  ],
  "C5X": [
@@ -52002,6 +52014,13 @@
    "device": "P9_EEA"
   }
  ],
+ "T2000": [
+  {
+   "brand": "HAOVM",
+   "name": "T2000",
+   "device": "T2000"
+  }
+ ],
  "H10_ONE": [
   {
    "brand": "HDC S.A.",
@@ -78557,6 +78576,13 @@
    "brand": "Infinix",
    "name": "Infinix HOT 10T",
    "device": "Infinix-X689C"
+  }
+ ],
+ "Infinix PR652B": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 10i",
+   "device": "Infinix-PR652B"
   }
  ],
  "Infinix X623": [
@@ -126912,6 +126938,11 @@
    "brand": "Oppo",
    "name": "A11",
    "device": "A11"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "A11",
+   "device": "A11"
   }
  ],
  "PCHM10": [
@@ -170508,6 +170539,13 @@
    "device": "SO-52B"
   }
  ],
+ "XQ-BT52": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 III",
+   "device": "XQ-BT52"
+  }
+ ],
  "I3213": [
   {
    "brand": "Sony",
@@ -192428,7 +192466,7 @@
   },
   {
    "brand": "Ulefone",
-   "name": "Company Gotron - FIH Foxconn Marketing Name  Retail Branding",
+   "name": "Armor_11_5G",
    "device": "Armor_11_5G"
   }
  ],
