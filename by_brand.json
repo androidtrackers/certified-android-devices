@@ -19627,6 +19627,11 @@
   },
   {
    "device": "SEI810CPR",
+   "name": "Claro STB",
+   "model": "Claro STB"
+  },
+  {
+   "device": "SEI810CPR",
    "name": "SEI810CPR",
    "model": "Claro STB"
   }
@@ -95214,6 +95219,11 @@
    "model": "CPH2241"
   },
   {
+   "device": "OP4F39L1",
+   "name": "A54 5G",
+   "model": "CPH2303"
+  },
+  {
    "device": "OP4E2F",
    "name": "A55 5G",
    "model": "PEMM00"
@@ -95847,6 +95857,11 @@
    "device": "OP4F57L1",
    "name": "Find X3 Pro",
    "model": "CPH2173"
+  },
+  {
+   "device": "OP4F57L1",
+   "name": "Find X3 Pro",
+   "model": "OPG03"
   },
   {
    "device": "OP4E3F",
@@ -108381,6 +108396,11 @@
    "device": "P13_Black",
    "name": "P13_Black",
    "model": "P13_Black"
+  },
+  {
+   "device": "P13_Blue_2021",
+   "name": "P13_Blue_2021",
+   "model": "P13 Blue 2021"
   },
   {
    "device": "P13_Lite",

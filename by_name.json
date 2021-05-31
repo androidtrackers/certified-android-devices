@@ -34346,6 +34346,13 @@
    "model": "Claro Colombia STB"
   }
  ],
+ "Claro STB": [
+  {
+   "brand": "Claro",
+   "device": "SEI810CPR",
+   "model": "Claro STB"
+  }
+ ],
  "SEI810CPR": [
   {
    "brand": "Claro",
@@ -124834,6 +124841,13 @@
    "model": "A53w"
   }
  ],
+ "A54 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP4F39L1",
+   "model": "CPH2303"
+  }
+ ],
  "A55 5G": [
   {
    "brand": "Oppo",
@@ -125532,6 +125546,11 @@
    "brand": "Oppo",
    "device": "OP4F57L1",
    "model": "CPH2173"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP4F57L1",
+   "model": "OPG03"
   }
  ],
  "Find X3 Pro 中国版": [
@@ -141208,6 +141227,13 @@
    "brand": "Reeder",
    "device": "P13_Black",
    "model": "P13_Black"
+  }
+ ],
+ "P13_Blue_2021": [
+  {
+   "brand": "Reeder",
+   "device": "P13_Blue_2021",
+   "model": "P13 Blue 2021"
   }
  ],
  "P13_Lite": [

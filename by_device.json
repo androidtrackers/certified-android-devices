@@ -30009,6 +30009,11 @@
  "SEI810CPR": [
   {
    "brand": "Claro",
+   "name": "Claro STB",
+   "model": "Claro STB"
+  },
+  {
+   "brand": "Claro",
    "name": "SEI810CPR",
    "model": "Claro STB"
   }
@@ -124467,6 +124472,38 @@
    "model": "CPH2239"
   }
  ],
+ "OP4F39L1": [
+  {
+   "brand": "Oppo",
+   "name": "A54 5G",
+   "model": "CPH2303"
+  },
+  {
+   "brand": "Oppo",
+   "name": "CPH2195",
+   "model": "CPH2195"
+  },
+  {
+   "brand": "Oppo",
+   "name": "CPH2197",
+   "model": "CPH2197"
+  },
+  {
+   "brand": "Oppo",
+   "name": "OPPO A54 5G",
+   "model": "OPG02"
+  },
+  {
+   "brand": "Oppo",
+   "name": "OPPO A74 5G",
+   "model": "CPH2197"
+  },
+  {
+   "brand": "Oppo",
+   "name": "OPPO A74 5G",
+   "model": "CPH2263"
+  }
+ ],
  "OP4E2F": [
   {
    "brand": "Oppo",
@@ -124984,33 +125021,11 @@
    "brand": "Oppo",
    "name": "Find X3 Pro",
    "model": "CPH2173"
-  }
- ],
- "OP4F39L1": [
-  {
-   "brand": "Oppo",
-   "name": "CPH2195",
-   "model": "CPH2195"
   },
   {
    "brand": "Oppo",
-   "name": "CPH2197",
-   "model": "CPH2197"
-  },
-  {
-   "brand": "Oppo",
-   "name": "OPPO A54 5G",
-   "model": "OPG02"
-  },
-  {
-   "brand": "Oppo",
-   "name": "OPPO A74 5G",
-   "model": "CPH2197"
-  },
-  {
-   "brand": "Oppo",
-   "name": "OPPO A74 5G",
-   "model": "CPH2263"
+   "name": "Find X3 Pro",
+   "model": "OPG03"
   }
  ],
  "OP4883": [
@@ -140734,6 +140749,13 @@
    "brand": "Reeder",
    "name": "P13_Black",
    "model": "P13_Black"
+  }
+ ],
+ "P13_Blue_2021": [
+  {
+   "brand": "Reeder",
+   "name": "P13_Blue_2021",
+   "model": "P13 Blue 2021"
   }
  ],
  "P13_Lite": [

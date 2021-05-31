@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-05-30
+Last sync is 2021-05-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3792,6 +3792,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Clarmin|B8plus|B8plus|B8plus|
 |Clarmin|CLARMIN C1|CLARMIN_C1|CLARMIN C1|
 |Claro|Claro Colombia STB|SEI800CCOA|Claro Colombia STB|
+|Claro|Claro STB|SEI810CPR|Claro STB|
 |Claro|SEI810CPR|SEI810CPR|Claro STB|
 |Classpro|CGS55UHD|samseong|AI PONT|
 |Classpro|EGS42FHD|ikebukuro|AI PONT|
@@ -18522,6 +18523,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A53w|A53|A53w|
 |Oppo|A54|OP4F2F|CPH2239|
 |Oppo|A54|OP4F2F|CPH2241|
+|Oppo|A54 5G|OP4F39L1|CPH2303|
 |Oppo|A55 5G|OP4E2F|PEMM00|
 |Oppo|A55 5G|OP4E2F|PEMT00|
 |Oppo|A55 5G|OP4E8C|PEMM20|
@@ -18649,6 +18651,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Find X2 中国版|OP4A77|PDEM10|
 |Oppo|Find X2 中国版|OP4A77|PDET10|
 |Oppo|Find X3 Pro|OP4F57L1|CPH2173|
+|Oppo|Find X3 Pro|OP4F57L1|OPG03|
 |Oppo|Find X3 Pro 中国版|OP4E3F|PEEM00|
 |Oppo|Find X3 中国版|OP4E5D|PEDM00|
 |Oppo|Find x3 neo|OP4F0BL1|CPH2207|
@@ -21097,6 +21100,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reeder|P13 Blue Pro Lite|P13_Blue_Max_PL|P13 Blue Max PL|
 |Reeder|P13 Max Blue|P13_Max_Blue|P13_Max_Blue|
 |Reeder|P13_Black|P13_Black|P13_Black|
+|Reeder|P13_Blue_2021|P13_Blue_2021|P13 Blue 2021|
 |Reeder|P13_Lite|P13_Lite|P13_Lite|
 |Reeder|P9C|P9C|P9C|
 |Reeder|Preo P3|Preo_P3|Preo P3|

@@ -28419,6 +28419,11 @@
  "Claro STB": [
   {
    "brand": "Claro",
+   "name": "Claro STB",
+   "device": "SEI810CPR"
+  },
+  {
+   "brand": "Claro",
    "name": "SEI810CPR",
    "device": "SEI810CPR"
   }
@@ -127471,6 +127476,13 @@
    "device": "OP4F2F"
   }
  ],
+ "CPH2303": [
+  {
+   "brand": "Oppo",
+   "name": "A54 5G",
+   "device": "OP4F39L1"
+  }
+ ],
  "PEMM00": [
   {
    "brand": "Oppo",
@@ -128343,6 +128355,13 @@
    "brand": "Oppo",
    "name": "Find X2 中国版",
    "device": "OP4A77"
+  }
+ ],
+ "OPG03": [
+  {
+   "brand": "Oppo",
+   "name": "Find X3 Pro",
+   "device": "OP4F57L1"
   }
  ],
  "PEEM00": [
@@ -144351,6 +144370,13 @@
    "brand": "Reeder",
    "name": "P13_Black",
    "device": "P13_Black"
+  }
+ ],
+ "P13 Blue 2021": [
+  {
+   "brand": "Reeder",
+   "name": "P13_Blue_2021",
+   "device": "P13_Blue_2021"
   }
  ],
  "P13_Lite": [
