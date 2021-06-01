@@ -7528,6 +7528,11 @@
   },
   {
    "brand": "Realme",
+   "name": "realme SA Smart TV",
+   "model": "realme SA Smart TV"
+  },
+  {
+   "brand": "Realme",
    "name": "realme Smart TV",
    "model": "realme Smart TV"
   },
@@ -7550,6 +7555,11 @@
    "brand": "SWTV",
    "name": "SWTV-20SA-PRO",
    "model": "SWTV-20SA-PRO"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-20TW-PRO",
+   "model": "SWTV-20TW-PRO"
   },
   {
    "brand": "Sharp",
@@ -101515,6 +101525,11 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab P11 5G",
    "model": "Lenovo TB-J607Z"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab QT K11 Pro 5G",
+   "model": "Lenovo TB-J607Z"
   }
  ],
  "TB-J616F": [
@@ -119832,6 +119847,13 @@
    "brand": "NVIDIA",
    "name": "TegraNote",
    "model": "Tegra Note 7"
+  }
+ ],
+ "NW1": [
+  {
+   "brand": "NW(NORWIN)",
+   "name": "NW1",
+   "model": "NW1"
   }
  ],
  "NYX_A1": [
@@ -156496,6 +156518,16 @@
    "brand": "Samsung",
    "name": "Galaxy Tab A7 Lite",
    "model": "SM-T225N"
+  },
+  {
+   "brand": "Samsung",
+   "name": "GalaxyTab A7 Lite",
+   "model": "SM-T227"
+  },
+  {
+   "brand": "Samsung",
+   "name": "GalaxyTab A7 Lite",
+   "model": "SM-T227U"
   }
  ],
  "gta7litewifi": [
@@ -160192,6 +160224,11 @@
    "brand": "Sharp",
    "name": "\"4T-C**AM1/AN1/AL1",
    "model": "tcsu2uj"
+  },
+  {
+   "brand": "Sharp",
+   "name": "\"4T-C**AM1/AN1/AL1",
+   "model": "tcsu2uj"
   }
  ],
  "tcmeruj": [
@@ -163026,6 +163063,13 @@
    "brand": "Simbans",
    "name": "PicassoTab_X",
    "model": "PicassoTab_X"
+  }
+ ],
+ "RestoTab": [
+  {
+   "brand": "Simbans",
+   "name": "RestoTab",
+   "model": "RestoTab"
   }
  ],
  "TangoTab_9": [
@@ -203297,6 +203341,13 @@
    "model": "NX659J"
   }
  ],
+ "NX666J": [
+  {
+   "brand": "ZTE",
+   "name": "NX666J",
+   "model": "NX666J"
+  }
+ ],
  "NX669J": [
   {
    "brand": "ZTE",
@@ -203369,6 +203420,11 @@
    "brand": "ZTE",
    "name": "ZTE Blade A5 2020",
    "model": "ZTE Blade A5 2020"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A51 Lite RU",
+   "model": "ZTE Blade A51 Lite RU"
   }
  ],
  "Orange_Hi_4G": [
@@ -205620,6 +205676,11 @@
    "brand": "ZTE",
    "name": "ZTE 8030",
    "model": "ZTE 8031"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE 8030RU",
+   "model": "ZTE 8030RU"
   }
  ],
  "P633S01": [

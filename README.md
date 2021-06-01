@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-05-31
+Last sync is 2021-06-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14955,6 +14955,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab P11 Plus|TB-J616F|Lenovo TB-J616F|
 |Lenovo|Lenovo Tab P11 Pro|J706F|Lenovo TB-J706F|
 |Lenovo|Lenovo Tab P11 Pro|J706L|Lenovo TB-J706L|
+|Lenovo|Lenovo Tab QT K11 Pro 5G|J607Z|Lenovo TB-J607Z|
 |Lenovo|Lenovo Tab V7|PB-6505M|Lenovo PB-6505M|
 |Lenovo|Lenovo Tab V7|PB-6505MC|Lenovo PB-6505MC|
 |Lenovo|Lenovo Tab V7|PB-6505NC|Lenovo PB-6505NC|
@@ -17773,6 +17774,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NVIDIA|TegraNote|tegranote|TegraNote-P1640|
 |NVIDIA|TegraNote|tegranote|TegraNote-Premium|
 |NVIDIA|TegraNote|tegranote7c|Tegra Note 7|
+|NW(NORWIN)|NW1|NW1|NW1|
 |NYX Mobile|A1|NYX_A1|NYX_A1|
 |NYX Mobile|ARGON|ARGON|ARGON|
 |NYX Mobile|B1|B1|B1|
@@ -20918,6 +20920,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme Narzo 30 Pro 5G|RMX2117L1|RMX2117|
 |Realme|realme Q|RMX1971CN|RMX1971|
 |Realme|realme Q2 5G|RMX2117CN|RMX2117|
+|Realme|realme SA Smart TV|SW4H_FF|realme SA Smart TV|
 |Realme|realme Smart TV|SW4H_FF|realme Smart TV|
 |Realme|realme TV|ikebukuro|AI PONT|
 |Realme|realme TV 32|ikebukuro|AI PONT|
@@ -21482,6 +21485,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SWTV|SWTV-20SA|SW4H|SWTV-20SA|
 |SWTV|SWTV-20SA-PRO|SW4H_FF|SWTV-20SA-PRO|
 |SWTV|SWTV-20TW|SW4H|SWTV-20TW|
+|SWTV|SWTV-20TW-PRO|SW4H_FF|SWTV-20TW-PRO|
 |SWTV|South America|SW3_ATV|SWTV|
 |SWTV|TV|SW3H_ATV|SWTV|
 |SWTV|Taiwan|SW3H_ATV|SWTV|
@@ -24023,6 +24027,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy view|gvltelgt|SM-T677NL|
 |Samsung|Galaxy win|delos3gss|GT-I8550L|
 |Samsung|Galaxy-A9(2016)|a9xltechn|SM-A9000|
+|Samsung|GalaxyTab A7 Lite|gta7lite|SM-T227|
+|Samsung|GalaxyTab A7 Lite|gta7lite|SM-T227U|
 |Samsung|Garda|gardalteMetroPCS|SGH-T399N|
 |Samsung|Garda|gardaltetmo|SGH-T399|
 |Samsung|Gear Live|sprat|Gear Live|
@@ -24200,6 +24206,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|2T-C50BG1X|meguro|AQUOS-TVX19C|
 |Sharp|306SH|SG306SH|306SH|
 |Sharp|401SH|SG401SH|401SH|
+|Sharp|"4T-C**AM1/AN1/AL1|8T-C**AX1/AW1"|tcsu2uj|
 |Sharp|"4T-C**AM1/AN1/AL1|8T-C**AX1/AW1"|tcsu2uj|
 |Sharp|4T-C**BL1/BJ1/BN1/CL1/CN1/CQ1|tcmeruj|AQUOS-TVJ19|
 |Sharp|4T-C**BN1/BL1|tcmeruj|AQUOS-TVJ19B|
@@ -24622,6 +24629,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Simbans|PicassoTab8s|PicassoTab8s|PicassoTab8s|
 |Simbans|PicassoTab_9|PicassoTab_9|PicassoTab_9|
 |Simbans|PicassoTab_X|PicassoTab_X|PicassoTab_X|
+|Simbans|RestoTab|RestoTab|RestoTab|
 |Simbans|TANGO|TangoTab_9|TangoTab_9|
 |Simbans|TangoTab|TangoTab|TangoTab|
 |Simbans|TangoTab8|TangoTab8|TangoTab8|
@@ -31337,6 +31345,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|NX629J|NX629J-EEA|NX629J|
 |ZTE|NX659J|NX659J-RU|NX659J|
 |ZTE|NX659J|NX659J-UN|NX659J|
+|ZTE|NX666J|NX666J|NX666J|
 |ZTE|NX669J|NX669J|NX669J|
 |ZTE|NX669J|NX669J-EEA|NX669J|
 |ZTE|NX669J|NX669J-UN|NX669J|
@@ -31836,6 +31845,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE 8030|P963F06|ZTE 8030|
 |ZTE|ZTE 8030|P963F06|ZTE 8031|
 |ZTE|ZTE 8030N|P633S01|ZTE 8030N|
+|ZTE|ZTE 8030RU|P963F06|ZTE 8030RU|
 |ZTE|ZTE 9030|P618F05|ZTE 9030|
 |ZTE|ZTE 9030N|P653S07|ZTE 9030N|
 |ZTE|ZTE A0616|P637S15|ZTE A0616|
@@ -31951,6 +31961,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A5 2020|P963F50_A|ZTE Blade A5 2020|
 |ZTE|ZTE Blade A5 2020RU|P963F50|ZTE Blade A5 2020RU|
 |ZTE|ZTE Blade A51|P963F60|ZTE Blade A51|
+|ZTE|ZTE Blade A51 Lite RU|P963F50_A|ZTE Blade A51 Lite RU|
 |ZTE|ZTE Blade A522|P817E53|ZTE Blade A522|
 |ZTE|ZTE Blade A531|P932F10|ZTE Blade A531|
 |ZTE|ZTE Blade A7 2019|P963F02|ZTE Blade A7 2019|

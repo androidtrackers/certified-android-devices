@@ -103207,6 +103207,13 @@
    "model": "Lenovo TB-J706L"
   }
  ],
+ "Lenovo Tab QT K11 Pro 5G": [
+  {
+   "brand": "Lenovo",
+   "device": "J607Z",
+   "model": "Lenovo TB-J607Z"
+  }
+ ],
  "Lenovo Tab V7": [
   {
    "brand": "Lenovo",
@@ -120362,6 +120369,13 @@
    "brand": "NVIDIA",
    "device": "tegranote7c",
    "model": "Tegra Note 7"
+  }
+ ],
+ "NW1": [
+  {
+   "brand": "NW(NORWIN)",
+   "device": "NW1",
+   "model": "NW1"
   }
  ],
  "ARGON": [
@@ -140076,6 +140090,13 @@
    "model": "RMX2117"
   }
  ],
+ "realme SA Smart TV": [
+  {
+   "brand": "Realme",
+   "device": "SW4H_FF",
+   "model": "realme SA Smart TV"
+  }
+ ],
  "realme Smart TV": [
   {
    "brand": "Realme",
@@ -143635,6 +143656,13 @@
    "brand": "SWTV",
    "device": "SW4H",
    "model": "SWTV-20TW"
+  }
+ ],
+ "SWTV-20TW-PRO": [
+  {
+   "brand": "SWTV",
+   "device": "SW4H_FF",
+   "model": "SWTV-20TW-PRO"
   }
  ],
  "South America": [
@@ -157289,6 +157317,18 @@
    "model": "SM-A9000"
   }
  ],
+ "GalaxyTab A7 Lite": [
+  {
+   "brand": "Samsung",
+   "device": "gta7lite",
+   "model": "SM-T227"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gta7lite",
+   "model": "SM-T227U"
+  }
+ ],
  "Garda": [
   {
    "brand": "Samsung",
@@ -158365,6 +158405,11 @@
   }
  ],
  "\"4T-C**AM1/AN1/AL1": [
+  {
+   "brand": "Sharp",
+   "device": "8T-C**AX1/AW1\"",
+   "model": "tcsu2uj"
+  },
   {
    "brand": "Sharp",
    "device": "8T-C**AX1/AW1\"",
@@ -161176,6 +161221,13 @@
    "brand": "Simbans",
    "device": "PicassoTab_X",
    "model": "PicassoTab_X"
+  }
+ ],
+ "RestoTab": [
+  {
+   "brand": "Simbans",
+   "device": "RestoTab",
+   "model": "RestoTab"
   }
  ],
  "TangoTab": [
@@ -199690,6 +199742,13 @@
    "model": "NX659J"
   }
  ],
+ "NX666J": [
+  {
+   "brand": "ZTE",
+   "device": "NX666J",
+   "model": "NX666J"
+  }
+ ],
  "NX669J": [
   {
    "brand": "ZTE",
@@ -202650,6 +202709,13 @@
    "model": "ZTE 8030N"
   }
  ],
+ "ZTE 8030RU": [
+  {
+   "brand": "ZTE",
+   "device": "P963F06",
+   "model": "ZTE 8030RU"
+  }
+ ],
  "ZTE 9030": [
   {
    "brand": "ZTE",
@@ -203403,6 +203469,13 @@
    "brand": "ZTE",
    "device": "P963F60",
    "model": "ZTE Blade A51"
+  }
+ ],
+ "ZTE Blade A51 Lite RU": [
+  {
+   "brand": "ZTE",
+   "device": "P963F50_A",
+   "model": "ZTE Blade A51 Lite RU"
   }
  ],
  "ZTE Blade A522": [
