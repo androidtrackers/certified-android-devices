@@ -50910,6 +50910,13 @@
    "device": "F9"
   }
  ],
+ "F9prime": [
+  {
+   "brand": "Gol Mobile",
+   "name": "F9Prime",
+   "device": "F9prime"
+  }
+ ],
  "F9_PLUS": [
   {
    "brand": "Gol Mobile",
@@ -113584,6 +113591,13 @@
    "brand": "Micromax",
    "name": "Yutopia",
    "device": "YUTOPIA"
+  }
+ ],
+ "ETL101A_EEA": [
+  {
+   "brand": "Microtech",
+   "name": "ETL101A_EEA",
+   "device": "ETL101A_EEA"
   }
  ],
  "ETL101GB": [
@@ -215426,6 +215440,11 @@
    "brand": "ZTE",
    "name": "ZTE 8030",
    "device": "P963F06"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE 8031",
+   "device": "P963F06_A"
   }
  ],
  "ZTE 8030N": [

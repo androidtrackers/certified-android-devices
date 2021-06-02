@@ -36198,6 +36198,11 @@
    "model": "F9"
   },
   {
+   "device": "F9prime",
+   "name": "F9Prime",
+   "model": "F9prime"
+  },
+  {
    "device": "F9_PLUS",
    "name": "F9_PLUS",
    "model": "F9_PLUS"
@@ -84118,6 +84123,11 @@
   }
  ],
  "Microtech": [
+  {
+   "device": "ETL101A_EEA",
+   "name": "ETL101A_EEA",
+   "model": "ETL101A_EEA"
+  },
   {
    "device": "ETL101GB",
    "name": "ETL101GB",
@@ -163282,6 +163292,11 @@
    "device": "P963F06",
    "name": "ZTE 8030RU",
    "model": "ZTE 8030RU"
+  },
+  {
+   "device": "P963F06_A",
+   "name": "ZTE 8031",
+   "model": "ZTE 8031"
   },
   {
    "device": "P618F05",

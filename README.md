@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-06-01
+Last sync is 2021-06-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6966,6 +6966,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gol Mobile|F3Prime|F3Prime|F3Prime|
 |Gol Mobile|F4|F4|F4|
 |Gol Mobile|F9|F9|F9|
+|Gol Mobile|F9Prime|F9prime|F9prime|
 |Gol Mobile|F9_PLUS|F9_PLUS|F9_PLUS|
 |Gol Mobile|TEAM_7_3G|TEAM_7_3G|TEAM_7_3G|
 |Gol Mobile|Team73G|Team73G|Team73G|
@@ -16377,6 +16378,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Micromax|Yunique 2 Plus|YU5012|YU5012|
 |Micromax|Yuphoria|YUPHORIA|YU5010|
 |Micromax|Yutopia|YUTOPIA|YU5050|
+|Microtech|ETL101A_EEA|ETL101A_EEA|ETL101A_EEA|
 |Microtech|ETL101GB|ETL101GB|ETL101GB|
 |Microtech|ETW101GT_C_EEA|ETW101GT_C_EEA|ETW101GT_C|
 |Microtech|ETW101GT_EEA|ETW101GT_EEA|ETW101GT|
@@ -31846,6 +31848,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE 8030|P963F06|ZTE 8031|
 |ZTE|ZTE 8030N|P633S01|ZTE 8030N|
 |ZTE|ZTE 8030RU|P963F06|ZTE 8030RU|
+|ZTE|ZTE 8031|P963F06_A|ZTE 8031|
 |ZTE|ZTE 9030|P618F05|ZTE 9030|
 |ZTE|ZTE 9030N|P653S07|ZTE 9030N|
 |ZTE|ZTE A0616|P637S15|ZTE A0616|
