@@ -5944,6 +5944,13 @@
    "model": "PR5860"
   }
  ],
+ "PR6171": [
+  {
+   "brand": "Advance",
+   "name": "PR6167",
+   "model": "PR6171"
+  }
+ ],
  "PR7145": [
   {
    "brand": "Advance",
@@ -30294,6 +30301,13 @@
    "model": "Stratus_C5"
   }
  ],
+ "Sunshine_T1": [
+  {
+   "brand": "Cloud (TruConnect)",
+   "name": "Sunshine_T1",
+   "model": "Sunshine_T1"
+  }
+ ],
  "Excite_Prime_2": [
   {
    "brand": "CloudFone",
@@ -43973,6 +43987,13 @@
    "model": "SmartTAB1007"
   }
  ],
+ "1021W_URBAN": [
+  {
+   "brand": "Estar",
+   "name": "1021W_URBAN",
+   "model": "MID1021W"
+  }
+ ],
  "MID7378": [
   {
    "brand": "Estar",
@@ -51853,6 +51874,13 @@
    "brand": "Gionee",
    "name": "GIONEE H601",
    "model": "GIONEE S12"
+  }
+ ],
+ "GIONEE_M15": [
+  {
+   "brand": "Gionee",
+   "name": "GIONEE M15",
+   "model": "GIONEE M15"
   }
  ],
  "GIONEE_SW17G07": [
@@ -77126,6 +77154,13 @@
    "brand": "Infinix",
    "name": "HOT 10i",
    "model": "Infinix X658B"
+  }
+ ],
+ "Infinix-X658E": [
+  {
+   "brand": "Infinix",
+   "name": "HOT 10i",
+   "model": "Infinix X658E"
   }
  ],
  "Infinix-X659": [
@@ -107954,6 +107989,13 @@
    "model": "8BY"
   }
  ],
+ "8CY": [
+  {
+   "brand": "Mediacom",
+   "name": "8CY",
+   "model": "8CY"
+  }
+ ],
  "M-PPxG5M": [
   {
    "brand": "Mediacom",
@@ -122850,6 +122892,13 @@
    "model": "TEG9300"
   }
  ],
+ "TEG9300-4": [
+  {
+   "brand": "OASYS",
+   "name": "TEG9300-4",
+   "model": "TEG9300-4"
+  }
+ ],
  "TEG9300-5": [
   {
    "brand": "OASYS",
@@ -127377,6 +127426,13 @@
    "brand": "Orange",
    "name": "Sego",
    "model": "Orange Sego"
+  }
+ ],
+ "zi4450v_ors": [
+  {
+   "brand": "Orange",
+   "name": "TV Box",
+   "model": "Orange TV Box"
   }
  ],
  "Orange_Zilo": [
@@ -163994,6 +164050,11 @@
    "brand": "Sky Devices",
    "name": "Sky Vision2_Plus",
    "model": "SKY VISION2"
+  },
+  {
+   "brand": "Sky Devices",
+   "name": "Sky Vision2_Plus",
+   "model": "SKY_KID"
   }
  ],
  "UNO_Personal": [
@@ -179102,6 +179163,13 @@
    "brand": "TOPELOTEK",
    "name": "KIDS708",
    "model": "KIDS708"
+  }
+ ],
+ "KIDS708_709A": [
+  {
+   "brand": "TOPELOTEK",
+   "name": "KIDS708_709A",
+   "model": "KIDS708-709A"
   }
  ],
  "KIDS709": [
@@ -196023,6 +196091,13 @@
    "brand": "XL Axiata",
    "name": "AX512",
    "model": "AX512"
+  }
+ ],
+ "lte_siden": [
+  {
+   "brand": "XL Axiata",
+   "name": "SDN200",
+   "model": "SDN200"
   }
  ],
  "STI6xxx": [

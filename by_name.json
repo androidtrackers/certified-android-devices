@@ -10388,6 +10388,13 @@
    "model": "PR5860"
   }
  ],
+ "PR6167": [
+  {
+   "brand": "Advance",
+   "device": "PR6171",
+   "model": "PR6171"
+  }
+ ],
  "PR7145": [
   {
    "brand": "Advance",
@@ -31194,6 +31201,11 @@
    "brand": "COSMOTE TV",
    "device": "HY44G",
    "model": "TV Box"
+  },
+  {
+   "brand": "Orange",
+   "device": "zi4450v_ors",
+   "model": "Orange TV Box"
   }
  ],
  "CP-MUD-M721": [
@@ -34653,6 +34665,13 @@
    "brand": "Cloud (TruConnect)",
    "device": "Stratus_C5",
    "model": "Stratus_C5"
+  }
+ ],
+ "Sunshine_T1": [
+  {
+   "brand": "Cloud (TruConnect)",
+   "device": "Sunshine_T1",
+   "model": "Sunshine_T1"
   }
  ],
  "CloudFone Excite Prime 2": [
@@ -48143,6 +48162,13 @@
    "model": "SmartTAB1007"
   }
  ],
+ "1021W_URBAN": [
+  {
+   "brand": "Estar",
+   "device": "1021W_URBAN",
+   "model": "MID1021W"
+  }
+ ],
  "BEAUTY 2 HD Quad core": [
   {
    "brand": "Estar",
@@ -55859,6 +55885,13 @@
    "brand": "Gionee",
    "device": "GIONEE_H601",
    "model": "GIONEE S12"
+  }
+ ],
+ "GIONEE M15": [
+  {
+   "brand": "Gionee",
+   "device": "GIONEE_M15",
+   "model": "GIONEE M15"
   }
  ],
  "GIONEE M7L": [
@@ -80498,6 +80531,11 @@
    "brand": "Infinix",
    "device": "Infinix-X658B",
    "model": "Infinix X658B"
+  },
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X658E",
+   "model": "Infinix X658E"
   },
   {
    "brand": "Infinix",
@@ -109393,6 +109431,13 @@
    "model": "8BY"
   }
  ],
+ "8CY": [
+  {
+   "brand": "Mediacom",
+   "device": "8CY",
+   "model": "8CY"
+  }
+ ],
  "G5M": [
   {
    "brand": "Mediacom",
@@ -123282,6 +123327,13 @@
    "brand": "OASYS",
    "device": "TEG9300",
    "model": "TEG9300"
+  }
+ ],
+ "TEG9300-4": [
+  {
+   "brand": "OASYS",
+   "device": "TEG9300-4",
+   "model": "TEG9300-4"
   }
  ],
  "TEG9300-5": [
@@ -162122,6 +162174,11 @@
    "brand": "Sky Devices",
    "device": "SKY_VISION2_Plus",
    "model": "SKY VISION2"
+  },
+  {
+   "brand": "Sky Devices",
+   "device": "SKY_VISION2_Plus",
+   "model": "SKY_KID"
   }
  ],
  "UNO Personal": [
@@ -176844,6 +176901,13 @@
    "brand": "TOPELOTEK",
    "device": "KIDS708",
    "model": "KIDS708"
+  }
+ ],
+ "KIDS708_709A": [
+  {
+   "brand": "TOPELOTEK",
+   "device": "KIDS708_709A",
+   "model": "KIDS708-709A"
   }
  ],
  "KIDS709": [
@@ -193855,6 +193919,13 @@
    "brand": "XL Axiata",
    "device": "DV8252",
    "model": "AX512"
+  }
+ ],
+ "SDN200": [
+  {
+   "brand": "XL Axiata",
+   "device": "lte_siden",
+   "model": "SDN200"
   }
  ],
  "XL Home Pow": [

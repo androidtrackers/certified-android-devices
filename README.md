@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-06-02
+Last sync is 2021-06-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -534,6 +534,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advance|HL7257|HL7257|HL7257|
 |Advance|HL9000|HL9000|HL9000|
 |Advance|PR5860|PR5860|PR5860|
+|Advance|PR6167|PR6171|PR6171|
 |Advance|PR7145|PR7145|PR7145|
 |Advance|Pr5650|Pr5650|Pr5650|
 |Advance|Pr5747|Pr5747|Pr5747|
@@ -3834,6 +3835,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cloud (TruConnect)|Cyclone_C4|Cyclone_C4|Cyclone_C4|
 |Cloud (TruConnect)|Storm C3|Storm_C3|Storm_C3|
 |Cloud (TruConnect)|Stratus_C5|Stratus_C5|Stratus_C5|
+|Cloud (TruConnect)|Sunshine_T1|Sunshine_T1|Sunshine_T1|
 |CloudFone|CloudFone Excite Prime 2|Excite_Prime_2|Excite Prime 2|
 |CloudFone|CloudFone Next Infinity Plus|Next_Infinity_Plus|Next Infinity Plus|
 |CloudFone|CloudFone Next Infinity Pro|Next_Infinity_Pro|Next Infinity Pro|
@@ -5720,6 +5722,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EssentielB|Smart'TAB 9001|fiber-smart|Smart'TAB 9001|
 |EssentielB|SmartTAB1008|SmartTAB1008|SmartTAB1008|
 |EssentielB|SmartTab1007|SmartTAB1007|SmartTAB1007|
+|Estar|1021W_URBAN|1021W_URBAN|MID1021W|
 |Estar|BEAUTY 2 HD Quad core|MID7378|eSTAR BEAUTY 2 HD Quad core|
 |Estar|GO! HD Quad core 3G|MID7438G|eSTAR GO HD Quad core 3G|
 |Estar|GO! IPS Quad core 3G|MID7458G|eSTAR GO! IPS Quad core 3G|
@@ -6824,6 +6827,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gionee|GIONEE GN5007|GIONEE_BJ17G16|GIONEE GN5007|
 |Gionee|GIONEE GN5007L|GIONEE_BJ17G16|GIONEE GN5007L|
 |Gionee|GIONEE H601|GIONEE_H601|GIONEE S12|
+|Gionee|GIONEE M15|GIONEE_M15|GIONEE M15|
 |Gionee|GIONEE M7L|GIONEE_SW17G07|GIONEE M7L|
 |Gionee|GIONEE MAX|GIONEE_MAX|GIONEE MAX|
 |Gionee|GIONEE MAX Pro|GIONEE_MAX_Pro|GIONEE_MAX Pro|
@@ -11073,6 +11077,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|HOT 10 Play|Infinix-X688C|Infinix X688C|
 |Infinix|HOT 10 lite|Infinix-X657B|Infinix X657B|
 |Infinix|HOT 10i|Infinix-X658B|Infinix X658B|
+|Infinix|HOT 10i|Infinix-X658E|Infinix X658E|
 |Infinix|HOT 10i|Infinix-X659|Infinix X659|
 |Infinix|HOT 10i|Infinix-X659B|Infinix X659B|
 |Infinix|HOT 2|Infinix_X510|Infinix X510|
@@ -15930,6 +15935,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mediacom|7DY_EEA|7DY|7DY|
 |Mediacom|8AY|8AY|8AY|
 |Mediacom|8BY_EEA|8BY|8BY|
+|Mediacom|8CY|8CY|8CY|
 |Mediacom|G5M|M-PPxG5M|M-PPxG5M|
 |Mediacom|M-PPAG4|M-PPAG4|M-PPAG4|
 |Mediacom|M-PPxG4P|G4P|M-PPxG4P|
@@ -18243,6 +18249,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OASYS|OASTN_9301|OASTN_9301|OASTN_9301|
 |OASYS|OAS_9301|OAS_9301|OAS_9301|
 |OASYS|TEG9300|TEG9300|TEG9300|
+|OASYS|TEG9300-4|TEG9300-4|TEG9300-4|
 |OASYS|TEG9300-5|TEG9300-5|TEG9300-5|
 |OASYS|TEG9300-M|TEG9300-M|TEG9300-M|
 |OBOX|OBOX4K.20|DV8519-BOX|OBOX4k.20|
@@ -18970,6 +18977,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Orange|Roya|Alto45|Orange Roya|
 |Orange|Sanza_touch|Sanza_touch|Orange Sanza touch|
 |Orange|Sego|Orange_Sego|Orange Sego|
+|Orange|TV Box|zi4450v_ors|Orange TV Box|
 |Orange|Zilo|Orange_Zilo|Zilo|
 |Orange|idol S|Diablo_LTE|Orange Niva|
 |Orange TV|Descodificador Orange TV|KSTB6130|KSTB6130|
@@ -24772,6 +24780,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|SKY_Pro_III|SKY_Pro_III|SKY_Pro_III|
 |Sky Devices|Sky Vision2|Sky_Vision2|Sky Vision2|
 |Sky Devices|Sky Vision2_Plus|SKY_VISION2_Plus|SKY VISION2|
+|Sky Devices|Sky Vision2_Plus|SKY_VISION2_Plus|SKY_KID|
 |Sky Devices|UNO Personal|UNO_Personal|UNO Personal|
 |Sky Devices|UNO Personal Plus|Personal_Plus|UNO Personal Plus|
 |Sky Devices|UNO Royale Plus|Royale_Plus|UNO Royale Plus|
@@ -27391,6 +27400,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TOPELOTEK|KIDS08-X8|KIDS08-X8|KIDS08-X8|
 |TOPELOTEK|KIDS707|TOPELOTEK_KIDS707|KIDS707|
 |TOPELOTEK|KIDS708|KIDS708|KIDS708|
+|TOPELOTEK|KIDS708_709A|KIDS708_709A|KIDS708-709A|
 |TOPELOTEK|KIDS709|KIDS709|KIDS709|
 |TOPELOTEK|KIDS710|KIDS710|KIDS710|
 |TOPELOTEK|TOPELOTEK|KIDS08|KIDS08|
@@ -30163,6 +30173,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |XGIMI|XK03H|xgimigalileo|XK03H|
 |XION|XI_CEU55|XI_CEU55|XI_CEU55|
 |XL Axiata|AX512|DV8252|AX512|
+|XL Axiata|SDN200|lte_siden|SDN200|
 |XL Axiata|XL Home Pow|STI6xxx|STI6030|
 |XORO|Megapad_1333|XORO|Megapad_1333|
 |XTRATECH_IGUANAPAD|X8MT16|X8MT16|X8MT16|
