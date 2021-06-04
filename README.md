@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-06-03
+Last sync is 2021-06-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -264,6 +264,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|Acer Chromebook R13|elm_cheets|Acer Chromebook R13 (CB5-312T)|
 |Acer|Acer Holo360|acer_c01|C01|
 |Acer|Acer One 10 T4-129L|AcerO10T4129L|Acer One 10 T4-129L|
+|Acer|Acer One 10 T4-129L|AcerOne10T4129LIx|Acer One 10 T4-129LIx|
 |Acer|Acer One 10 T4-129LI|AcerO10T412LI|Acer One 10 T4-129LI|
 |Acer|Acer One 10 T8-129L|Acer_One_10_T8-129L|Acer_One_10_T8-129L|
 |Acer|Acer One 7|Acer_One_7_4G|Acer One 7 4G|
@@ -14141,6 +14142,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lanix|X530|X530|X530|
 |Lanix|X540|X540|X540|
 |Lanix|X550|X550|X550|
+|Lanix|X560|X560|X560|
 |Lanix|X750|X750|X750|
 |Lanix|ilium  PAD  E9|ILium_PADE9|ilium PAD E9|
 |Lanix|ilium PAD E7|ILIUM_PADE7|ilium PAD E7|
@@ -16887,6 +16889,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|Lenovo K10|pokerp|Lenovo K10|
 |Motorola|Lenovo K11|fiji|Lenovo K11|
 |Motorola|Lenovo K11 Power|blackjack|Lenovo K11 Power|
+|Motorola|Lenovo K13|maltalsc|Lenovo K13|
+|Motorola|Lenovo K13|maltalsc|maltalsc|
 |Motorola|Lenovo XT2081-4|guam|Lenovo XT2081-4|
 |Motorola|Master Touch|umts_primus|XT621|
 |Motorola|Master Touch XT621|umts_primus|XT621|
@@ -17119,9 +17123,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto e(5) play|james|moto e5 play|
 |Motorola|moto e(5) plus|rhannah|Moto E|
 |Motorola|moto e(5) plus|rhannah|moto e5 plus|
+|Motorola|moto e(6i)|fijisc|fijisc|
+|Motorola|moto e(6i)|fijisc|moto e(6i)|
 |Motorola|moto e(7)|malta|malta|
 |Motorola|moto e(7)|malta|moto e(7)|
 |Motorola|moto e(7) plus|guam|moto e(7) plus|
+|Motorola|moto e(7i) power|maltalsc|maltalsc|
+|Motorola|moto e(7i) power|maltalsc|moto e(7i) power|
 |Motorola|moto e5|nora|moto e5 (XT1920DL)|
 |Motorola|moto e5|nora_8917_n|moto e5|
 |Motorola|moto e5 go|rjames_go|moto e5 go|
@@ -20930,6 +20938,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme Narzo 30 Pro 5G|RMX2117L1|RMX2117|
 |Realme|realme Q|RMX1971CN|RMX1971|
 |Realme|realme Q2 5G|RMX2117CN|RMX2117|
+|Realme|realme Q3 5G|RMX3161CN|RMX3161|
 |Realme|realme SA Smart TV|SW4H_FF|realme SA Smart TV|
 |Realme|realme Smart TV|SW4H_FF|realme Smart TV|
 |Realme|realme TV|ikebukuro|AI PONT|
@@ -20973,7 +20982,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme  X7 Pro|RMX2121CN|RMX2121|
 |Realme|realme 7i|RE50C1|RMX2103|
 |Realme|realme 7i|RE50C1|RMX2104|
-|Realme|真我 Q3 5G|RMX3161CN|RMX3161|
 |Realme|真我 Q3 Pro 5G|RMX2205CN|RMX2205|
 |Realme|真我 X7 pro至尊版|RMX3116CN|RMX3116|
 |Realme|真我GT|RMX2202CN|RMX2202|
@@ -21050,17 +21058,20 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi K40 Gaming|ares|M2012K10C|
 |Redmi|Redmi K40 Pro|haydn|M2012K11C|
 |Redmi|Redmi K40 Pro +|haydn|M2012K11C|
+|Redmi|Redmi Note 10|camellia|M2103K19C|
 |Redmi|Redmi Note 10|sunny|M2101K7AG|
 |Redmi|Redmi Note 10|sunny|M2101K7AI|
 |Redmi|Redmi Note 10 5G|camellian|M2103K19G|
 |Redmi|Redmi Note 10 Pro|sweet|M2101K6G|
 |Redmi|Redmi Note 10 Pro|sweetin|M2101K6P|
 |Redmi|Redmi Note 10 Pro Max|sweetin|M2101K6I|
+|Redmi|Redmi Note 10 pro|chopin|M2104K10AC|
 |Redmi|Redmi Note 10S|maltose|M2101K7BL|
 |Redmi|Redmi Note 10S|rosemary|M2101K7BNY|
 |Redmi|Redmi Note 10S|secret|M2101K7BG|
 |Redmi|Redmi Note 10S|secret|M2101K7BI|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
+|Redmi|Redmi Note 8|biloba|M1908C3JGG|
 |Redmi|Redmi Note 8|ginkgo|GINKGO|
 |Redmi|Redmi Note 8|ginkgo|Redmi Note 8|
 |Redmi|Redmi Note 8 Pro|begonia|Redmi Note 8 Pro|
@@ -22537,6 +22548,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M20|m20lte|SM-M205G|
 |Samsung|Galaxy M20|m20lte|SM-M205M|
 |Samsung|Galaxy M21|m21|SM-M215F|
+|Samsung|Galaxy M21 Prime Edition|m21|SM-M215G|
 |Samsung|Galaxy M30|m30lte|SM-M305F|
 |Samsung|Galaxy M30|m30lte|SM-M305M|
 |Samsung|Galaxy M30s|m30s|SM-M3070|
@@ -24237,6 +24249,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|507SH|eve_sprout|507SH|
 |Sharp|8T-C**BW1|tcme8sj|AQUOS-8KTVJ19|
 |Sharp|8T-C**CX1|tcme8tsj|AQUOS-8KTVJ20|
+|Sharp|8T-C**DW1|tcve8sj|AQUOS-8KTVJ21|
 |Sharp|8T-CxxAXAA|lcd_xxgae9a|LCD-xxGAE9A|
 |Sharp|A01SH|A01SH|A01SH|
 |Sharp|A1|TSL|FS8002|
@@ -27823,6 +27836,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 7|TECNO-KF6k|TECNO KF6k|
 |Tecno|TECNO SPARK 7|TECNO-KF6m|TECNO KF6m|
 |Tecno|TECNO SPARK 7|TECNO-KF6n|TECNO KF6n|
+|Tecno|TECNO SPARK 7|TECNO-PR651|TECNO PR651|
 |Tecno|TECNO SPARK 7 Pro|TECNO-KF8|TECNO KF8|
 |Tecno|TECNO SPARK 7P|TECNO-KF7j|TECNO KF7j|
 |Tecno|TECNO SPARK 7T|TECNO-KF6p|TECNO KF6p|
@@ -28571,6 +28585,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VIZZION|VIZZION 4K TV|SW4H|VIZZION 4K TV|
 |VIZZION|VIZZION TV|shinjuku|VIZZION TV|
 |VNPT Technology|VNPT SmartBox 2x|vnptt_smb_v2x|VNPT SmartBox 2x|
+|VOLFEN|NEXO TAB 10A|NEXO_TAB_10A|NEXO TAB 10A|
 |VOLFEN|NEXO_TAB_10|NEXO_TAB_10|NEXO_TAB_10|
 |VOLFEN|Nexo TAB 7|Nexo-TAB-7|Nexo-TAB-7|
 |VOLIA|VOL001|VOL001|VOL001|
@@ -30312,6 +30327,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Mi 11 Pro|mars|M2102K1AC|
 |Xiaomi|Mi 11 Ultra|star|M2102K1C|
 |Xiaomi|Mi 11 Ultra|star|M2102K1G|
+|Xiaomi|Mi 11i|haydn|M2012K11G|
 |Xiaomi|Mi 3|pisces|MI 3|
 |Xiaomi|Mi 4c|libra|Mi-4c|
 |Xiaomi|Mi 4i|ferrari|Mi 4i|

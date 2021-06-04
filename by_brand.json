@@ -1410,6 +1410,11 @@
    "model": "Acer One 10 T4-129L"
   },
   {
+   "device": "AcerOne10T4129LIx",
+   "name": "Acer One 10 T4-129L",
+   "model": "Acer One 10 T4-129LIx"
+  },
+  {
    "device": "AcerO10T412LI",
    "name": "Acer One 10 T4-129LI",
    "model": "Acer One 10 T4-129LI"
@@ -72663,6 +72668,11 @@
    "model": "X550"
   },
   {
+   "device": "X560",
+   "name": "X560",
+   "model": "X560"
+  },
+  {
    "device": "X750",
    "name": "X750",
    "model": "X750"
@@ -86747,6 +86757,16 @@
    "model": "Lenovo K11 Power"
   },
   {
+   "device": "maltalsc",
+   "name": "Lenovo K13",
+   "model": "Lenovo K13"
+  },
+  {
+   "device": "maltalsc",
+   "name": "Lenovo K13",
+   "model": "maltalsc"
+  },
+  {
    "device": "guam",
    "name": "Lenovo XT2081-4",
    "model": "Lenovo XT2081-4"
@@ -87907,6 +87927,16 @@
    "model": "moto e5 plus"
   },
   {
+   "device": "fijisc",
+   "name": "moto e(6i)",
+   "model": "fijisc"
+  },
+  {
+   "device": "fijisc",
+   "name": "moto e(6i)",
+   "model": "moto e(6i)"
+  },
+  {
    "device": "malta",
    "name": "moto e(7)",
    "model": "malta"
@@ -87920,6 +87950,16 @@
    "device": "guam",
    "name": "moto e(7) plus",
    "model": "moto e(7) plus"
+  },
+  {
+   "device": "maltalsc",
+   "name": "moto e(7i) power",
+   "model": "maltalsc"
+  },
+  {
+   "device": "maltalsc",
+   "name": "moto e(7i) power",
+   "model": "moto e(7i) power"
   },
   {
    "device": "nora",
@@ -107534,6 +107574,11 @@
    "model": "RMX2117"
   },
   {
+   "device": "RMX3161CN",
+   "name": "realme Q3 5G",
+   "model": "RMX3161"
+  },
+  {
    "device": "SW4H_FF",
    "name": "realme SA Smart TV",
    "model": "realme SA Smart TV"
@@ -107747,11 +107792,6 @@
    "device": "RE50C1",
    "name": "realme 7i",
    "model": "RMX2104"
-  },
-  {
-   "device": "RMX3161CN",
-   "name": "真我 Q3 5G",
-   "model": "RMX3161"
   },
   {
    "device": "RMX2205CN",
@@ -108146,6 +108186,11 @@
    "model": "M2012K11C"
   },
   {
+   "device": "camellia",
+   "name": "Redmi Note 10",
+   "model": "M2103K19C"
+  },
+  {
    "device": "sunny",
    "name": "Redmi Note 10",
    "model": "M2101K7AG"
@@ -108176,6 +108221,11 @@
    "model": "M2101K6I"
   },
   {
+   "device": "chopin",
+   "name": "Redmi Note 10 pro",
+   "model": "M2104K10AC"
+  },
+  {
    "device": "maltose",
    "name": "Redmi Note 10S",
    "model": "M2101K7BL"
@@ -108199,6 +108249,11 @@
    "device": "lavender",
    "name": "Redmi Note 7",
    "model": "Redmi Note 7"
+  },
+  {
+   "device": "biloba",
+   "name": "Redmi Note 8",
+   "model": "M1908C3JGG"
   },
   {
    "device": "ginkgo",
@@ -115737,6 +115792,11 @@
    "device": "m21",
    "name": "Galaxy M21",
    "model": "SM-M215F"
+  },
+  {
+   "device": "m21",
+   "name": "Galaxy M21 Prime Edition",
+   "model": "SM-M215G"
   },
   {
    "device": "m30lte",
@@ -124295,6 +124355,11 @@
    "device": "tcme8tsj",
    "name": "8T-C**CX1",
    "model": "AQUOS-8KTVJ20"
+  },
+  {
+   "device": "tcve8sj",
+   "name": "8T-C**DW1",
+   "model": "AQUOS-8KTVJ21"
   },
   {
    "device": "lcd_xxgae9a",
@@ -142577,6 +142642,11 @@
    "model": "TECNO KF6n"
   },
   {
+   "device": "TECNO-PR651",
+   "name": "TECNO SPARK 7",
+   "model": "TECNO PR651"
+  },
+  {
    "device": "TECNO-KF8",
    "name": "TECNO SPARK 7 Pro",
    "model": "TECNO KF8"
@@ -146578,6 +146648,11 @@
   }
  ],
  "VOLFEN": [
+  {
+   "device": "NEXO_TAB_10A",
+   "name": "NEXO TAB 10A",
+   "model": "NEXO TAB 10A"
+  },
   {
    "device": "NEXO_TAB_10",
    "name": "NEXO_TAB_10",
@@ -155542,6 +155617,11 @@
    "device": "star",
    "name": "Mi 11 Ultra",
    "model": "M2102K1G"
+  },
+  {
+   "device": "haydn",
+   "name": "Mi 11i",
+   "model": "M2012K11G"
   },
   {
    "device": "pisces",
