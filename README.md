@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-06-04
+Last sync is 2021-06-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -20933,7 +20933,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme C3|RMX2022|RMX2022|
 |Realme|realme C3|RMX2027|RMX2027|
 |Realme|realme C3i|RMX2027|RMX2027|
-|Realme|realme GT|RMX2202L1|RMX2202|
+|Realme|realme GT 5G|RMX2202L1|RMX2202|
 |Realme|realme Narzo 20|RMX2193|RMX2193|
 |Realme|realme Narzo 30 Pro 5G|RMX2117L1|RMX2117|
 |Realme|realme Q|RMX1971CN|RMX1971|
