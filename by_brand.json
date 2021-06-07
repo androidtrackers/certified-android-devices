@@ -5459,6 +5459,11 @@
    "model": "Tab8ii"
   },
   {
+   "device": "Tab_X2",
+   "name": "Tab_X2",
+   "model": "Tab_X2"
+  },
+  {
    "device": "Aprix_X4",
    "name": "X4",
    "model": "Aprix_X4"
@@ -56420,6 +56425,13 @@
    "device": "FFF-TAB10H",
    "name": "FFF-TAB10H",
    "model": "FFF-TAB10H"
+  }
+ ],
+ "IRIS_OHYAMA": [
+  {
+   "device": "Aquaman_10_Smart_WIFI",
+   "name": "TE101N1",
+   "model": "TE101"
   }
  ],
  "ITOS": [
@@ -111467,6 +111479,11 @@
    "device": "a21s",
    "name": "Galaxy A21s",
    "model": "SM-A217N"
+  },
+  {
+   "device": "a22",
+   "name": "Galaxy A22",
+   "model": "SM-A225F"
   },
   {
    "device": "a22x",

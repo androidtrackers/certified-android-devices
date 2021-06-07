@@ -10151,6 +10151,13 @@
    "model": "Tab8ii"
   }
  ],
+ "Tab_X2": [
+  {
+   "brand": "Aprix",
+   "name": "Tab_X2",
+   "model": "Tab_X2"
+  }
+ ],
  "Aprix_X4": [
   {
    "brand": "Aprix",
@@ -76422,6 +76429,33 @@
    "brand": "IRIE",
    "name": "FFF-TAB10H",
    "model": "FFF-TAB10H"
+  }
+ ],
+ "Aquaman_10_Smart_WIFI": [
+  {
+   "brand": "IRIS_OHYAMA",
+   "name": "TE101N1",
+   "model": "TE101"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "1T10 SMART",
+   "model": "8092"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "1T10 SMART",
+   "model": "8092_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "1T10 SMART",
+   "model": "8092_RU"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "1T10 SMART",
+   "model": "8092_TR"
   }
  ],
  "IC_51": [
@@ -144335,6 +144369,13 @@
    "model": "SM-A217N"
   }
  ],
+ "a22": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A22",
+   "model": "SM-A225F"
+  }
+ ],
  "a22x": [
   {
    "brand": "Samsung",
@@ -173885,28 +173926,6 @@
    "brand": "TCT (Alcatel)",
    "name": "LCATEL ONETOUCH PIXI 3 (4.5)",
    "model": "DIGICEL DL810"
-  }
- ],
- "Aquaman_10_Smart_WIFI": [
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "1T10 SMART",
-   "model": "8092"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "1T10 SMART",
-   "model": "8092_EEA"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "1T10 SMART",
-   "model": "8092_RU"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "1T10 SMART",
-   "model": "8092_TR"
   }
  ],
  "A3A_10_4G": [

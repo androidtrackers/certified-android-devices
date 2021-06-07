@@ -8852,6 +8852,13 @@
    "device": "Tab8ii"
   }
  ],
+ "Tab_X2": [
+  {
+   "brand": "Aprix",
+   "name": "Tab_X2",
+   "device": "Tab_X2"
+  }
+ ],
  "Aprix_X4": [
   {
    "brand": "Aprix",
@@ -77564,6 +77571,13 @@
    "brand": "IRIE",
    "name": "FFF-TAB10H",
    "device": "FFF-TAB10H"
+  }
+ ],
+ "TE101": [
+  {
+   "brand": "IRIS_OHYAMA",
+   "name": "TE101N1",
+   "device": "Aquaman_10_Smart_WIFI"
   }
  ],
  "IC_51": [
@@ -148219,6 +148233,13 @@
    "brand": "Samsung",
    "name": "Galaxy A21s",
    "device": "a21s"
+  }
+ ],
+ "SM-A225F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A22",
+   "device": "a22"
   }
  ],
  "SM-A226B": [

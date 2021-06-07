@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-06-06
+Last sync is 2021-06-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1051,6 +1051,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aprix|Tab64|AprixTab64|Aprix Tab64|
 |Aprix|Tab64_T|Tab64_T|Tab64_T|
 |Aprix|Tab8ii|Tab8ii|Tab8ii|
+|Aprix|Tab_X2|Tab_X2|Tab_X2|
 |Aprix|X4|Aprix_X4|Aprix_X4|
 |Aqua|APAC|nippori|AQUA Android TV 2K|
 |Aqua|AQUA android TV|hanyang|AQUA Android TV|
@@ -10966,6 +10967,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IQ Touch|VIATABQX740|VIATABQX740|VIATABQX740|
 |IRA (explore more)|IRA801|IRA801|IRA801|
 |IRIE|FFF-TAB10H|FFF-TAB10H|FFF-TAB10H|
+|IRIS_OHYAMA|TE101N1|Aquaman_10_Smart_WIFI|TE101|
 |ITOS|IC-51|IC_51|IC_51|
 |ITOS|IC_55|IC_55|IC_55|
 |ITOS|IC_56_EEA|IC_56|IC_56|
@@ -21683,6 +21685,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A21s|a21s|SM-A217F|
 |Samsung|Galaxy A21s|a21s|SM-A217M|
 |Samsung|Galaxy A21s|a21s|SM-A217N|
+|Samsung|Galaxy A22|a22|SM-A225F|
 |Samsung|Galaxy A22 5G|a22x|SM-A226B|
 |Samsung|Galaxy A22s 5G|a22x|SM-A226B|
 |Samsung|Galaxy A3|a33g|SM-A300H|
