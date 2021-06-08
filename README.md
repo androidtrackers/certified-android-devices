@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-06-07
+Last sync is 2021-06-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2500,6 +2500,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Battcell|M7042F|M7042F|M7042F|
 |Bauhn|Australia|nippori|Bauhn Android TV 2K|
 |Bauhn|BAUHN|bangbae|BAUHN 4K Android TV|
+|Bauhn|BAUHN|gangbyeon|4K AI Smart TV|
 |Bauhn|Bauhn|komagome|BAUHN 2K Android TV|
 |Bauhn|Bauhn android TV|hanyang|Tempo Android TV|
 |Becrypt|Convex 430|granite|Becrypt Convex 430|
@@ -5396,8 +5397,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EL (Africa)|W45S|W45S|W45S|
 |EL (Africa)|W60|W60|W60|
 |ELEXIA|ELEXIA|komagome|ELEXIA 2K Android TV|
+|ELO Touch|10in-I-Series-4|10in-I-Series-4|10in-I-Series-4|
+|ELO Touch|10in-I-Series-4-Value|10in-I-Series-4-Value|10in-I-Series-4-Value|
+|ELO Touch|15in-I-Series-4|15in-I-Series-4|15in-I-Series-4|
 |ELO Touch|15in-I-Series-4-USB-C|15in-I-Series-4-USB-C|15in-I-Series-4-USB-C|
 |ELO Touch|15in-I-Series-4-USBC-V|15in-I-Series-4-USBC-V|15in-I-Series-4-USBC-V|
+|ELO Touch|15in-I-Series-4-Value|15in-I-Series-4-Value|15in-I-Series-4-Value|
+|ELO Touch|22in-I-Series 4-Value|22in-I-Series-4-Value|22in-I-Series-4-Value|
+|ELO Touch|22in-I-Series-4|22in-I-Series-4|22in-I-Series-4|
 |ELO Touch|Backpack-4|Backpack-4|Backpack-4|
 |ELO Touch|Backpack-4-Value|Backpack-4-Value|Backpack-4-Value|
 |ELO Touch|Elo-i3-15Std|Elo-i3-15Std|Elo-i3-15Std|
@@ -6480,6 +6487,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Tab|S20|S20|S20|
 |G-Tab|S3|S3|S3|
 |G-Tab|S8|S8|S8|
+|G-Tab|S8X|S8X|S8X|
 |G-TiDE|EX750|EX750|EX750|
 |G-TiDE|EXTREME X9|EXTREME_X9|EXTREME X9|
 |G-TiDE|FANS7|FANS7|G-TiDE FANS7|
@@ -15125,6 +15133,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|X3c70|X3c70|Lenovo X3c70|
 |Lenovo|XiaoXin Pad|J606F|Lenovo TB-J606F|
 |Lenovo|XiaoXin Pad|J606N|Lenovo TB-J606N|
+|Lenovo|XiaoXin Pad Plus|J607F|Lenovo TB-J607F|
 |Lenovo|XiaoXin Pad Pro|J706F|Lenovo TB-J706F|
 |Lenovo|XiaoXin Pad Pro|J706N|Lenovo TB-J706N|
 |Lenovo|YOGA A12|YOGA-A12|Lenovo YB-Q501F|
@@ -15174,6 +15183,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|d-42A|d-42A|d-42A|
 |Lenovo|ideatv S52|ideatv_S52|ideatv S52|
 |Lenovo|ideatvK82 60LX750A  52LX750A  46LX750A  60LX850A  70LX850A 80LX850A|ideatv_K82|ideatv K82|
+|Lenovo|小新Pad Pro 2021|J716F|Lenovo TB-J716F|
 |Lenovo|小新平板|TB-8804F|Lenovo TB-8804F|
 |Lenovo|小新平板|X804F|Lenovo TB-X804F|
 |Lenovo|拯救者电竞手机|moba|Lenovo L79031|
@@ -19136,6 +19146,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POC|POC2|CBL7509MM|POC2|
 |POCO|POCO C3|angelicain|M2006C3MI|
 |POCO|POCO F2 Pro|lmi|POCO F2 Pro|
+|POCO|POCO F3|alioth|M2012K11AG|
 |POCO|POCO M2|shiva|M2004J19PI|
 |POCO|POCO M2 Pro|gram|POCO M2 Pro|
 |POCO|POCO M3|citrus|M2010J19CG|
@@ -19957,6 +19968,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|T715|T715|Stilo T715|
 |Positivo|T730|T730|Positivo Stilo T730 Kids|
 |Positivo|T750|t750|Positivo T750|
+|Positivo|T800|T800|T800|
 |Positivo|Twist|S520|Positivo Twist M|
 |Positivo|Twist|S520|Positivo Twist S|
 |Positivo|Twist 2|S512|Twist 2|
@@ -21056,7 +21068,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi K30S Ultra|apollo|M2007J3SC|
 |Redmi|Redmi K30i 5G|picasso|Redmi K30i 5G|
 |Redmi|Redmi K40|alioth|M2012K11AC|
-|Redmi|Redmi K40|alioth|M2012K11AG|
 |Redmi|Redmi K40 Gaming|ares|M2012K10C|
 |Redmi|Redmi K40 Pro|haydn|M2012K11C|
 |Redmi|Redmi K40 Pro +|haydn|M2012K11C|
@@ -23625,6 +23636,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A7 Lite|gta7lite|SM-T225|
 |Samsung|Galaxy Tab A7 Lite|gta7lite|SM-T225C|
 |Samsung|Galaxy Tab A7 Lite|gta7lite|SM-T225N|
+|Samsung|Galaxy Tab A7 Lite|gta7lite|SM-T227|
+|Samsung|Galaxy Tab A7 Lite|gta7lite|SM-T227U|
 |Samsung|Galaxy Tab A7 Lite|gta7litewifi|SM-T220|
 |Samsung|Galaxy Tab Active|rubenslte|SM-T365|
 |Samsung|Galaxy Tab Active|rubenslte|SM-T365Y|
@@ -24052,8 +24065,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy view|gvltelgt|SM-T677NL|
 |Samsung|Galaxy win|delos3gss|GT-I8550L|
 |Samsung|Galaxy-A9(2016)|a9xltechn|SM-A9000|
-|Samsung|GalaxyTab A7 Lite|gta7lite|SM-T227|
-|Samsung|GalaxyTab A7 Lite|gta7lite|SM-T227U|
 |Samsung|Garda|gardalteMetroPCS|SGH-T399N|
 |Samsung|Garda|gardaltetmo|SGH-T399|
 |Samsung|Gear Live|sprat|Gear Live|
@@ -24661,6 +24672,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Simbans|TangoTab8|TangoTab8|TangoTab8|
 |Simbans|TangoTab_364|TangoTab_364|TangoTab_364|
 |Simbans|TangoTab_X|TangoTab_X|TangoTab_X|
+|Simbans|TangoTab_XL|TangoTab_XL|TangoTab_XL|
 |SimiMobile|G507|G507|G507|
 |SimiMobile|S502|S502|S502|
 |SimiMobile|S507|S507|S507|

@@ -20754,6 +20754,98 @@
    "model": "M7042F"
   }
  ],
+ "gangbyeon": [
+  {
+   "brand": "Bauhn",
+   "name": "BAUHN",
+   "model": "4K AI Smart TV"
+  },
+  {
+   "brand": "Challenger",
+   "name": "Challenger",
+   "model": "Challenger 4K AI Smart TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Hyundai",
+   "model": "HYUNDAI 4K AI Smart TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Hyundai",
+   "model": "HYUNDAI 4K Smart TV"
+  },
+  {
+   "brand": "IMPECCA",
+   "name": "IMPECCA",
+   "model": "IMPECCA 4K Smart TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "Amtran",
+   "model": "4K AI Smart TV"
+  },
+  {
+   "brand": "KEMPLER STRAUSS",
+   "name": "50F1",
+   "model": "4K Smart TV"
+  },
+  {
+   "brand": "Nano",
+   "name": "nano",
+   "model": "nano 4K AI Smart TV"
+  },
+  {
+   "brand": "RCA",
+   "name": "HKC",
+   "model": "HKC 4K AI Smart TV"
+  },
+  {
+   "brand": "RCA",
+   "name": "RCA",
+   "model": "4K AI Smart TV"
+  },
+  {
+   "brand": "RCA",
+   "name": "Tree",
+   "model": "Treeview 4K AI Smart TV"
+  },
+  {
+   "brand": "RCA",
+   "name": "US",
+   "model": "4K Smart TV"
+  },
+  {
+   "brand": "Realme",
+   "name": "50F1",
+   "model": "4K AI Smart TV"
+  },
+  {
+   "brand": "SYLVANIA",
+   "name": "US",
+   "model": "4K Smart TV"
+  },
+  {
+   "brand": "Sceptre",
+   "name": "Sceptre",
+   "model": "4K Smart TV"
+  },
+  {
+   "brand": "Sceptre",
+   "name": "TATUNG",
+   "model": "TATUNG 4K AI Smart TV"
+  },
+  {
+   "brand": "Sceptre",
+   "name": "imiia",
+   "model": "imiia 4K AI Smart TV"
+  },
+  {
+   "brand": "UNITED TV",
+   "name": "UNITED",
+   "model": "4K AI Smart TV"
+  }
+ ],
  "granite": [
   {
    "brand": "Becrypt",
@@ -28424,93 +28516,6 @@
    "brand": "CenturyLink",
    "name": "PureTV",
    "model": "S60CLI"
-  }
- ],
- "gangbyeon": [
-  {
-   "brand": "Challenger",
-   "name": "Challenger",
-   "model": "Challenger 4K AI Smart TV"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "Hyundai",
-   "model": "HYUNDAI 4K AI Smart TV"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "Hyundai",
-   "model": "HYUNDAI 4K Smart TV"
-  },
-  {
-   "brand": "IMPECCA",
-   "name": "IMPECCA",
-   "model": "IMPECCA 4K Smart TV"
-  },
-  {
-   "brand": "JVC",
-   "name": "Amtran",
-   "model": "4K AI Smart TV"
-  },
-  {
-   "brand": "KEMPLER STRAUSS",
-   "name": "50F1",
-   "model": "4K Smart TV"
-  },
-  {
-   "brand": "Nano",
-   "name": "nano",
-   "model": "nano 4K AI Smart TV"
-  },
-  {
-   "brand": "RCA",
-   "name": "HKC",
-   "model": "HKC 4K AI Smart TV"
-  },
-  {
-   "brand": "RCA",
-   "name": "RCA",
-   "model": "4K AI Smart TV"
-  },
-  {
-   "brand": "RCA",
-   "name": "Tree",
-   "model": "Treeview 4K AI Smart TV"
-  },
-  {
-   "brand": "RCA",
-   "name": "US",
-   "model": "4K Smart TV"
-  },
-  {
-   "brand": "Realme",
-   "name": "50F1",
-   "model": "4K AI Smart TV"
-  },
-  {
-   "brand": "SYLVANIA",
-   "name": "US",
-   "model": "4K Smart TV"
-  },
-  {
-   "brand": "Sceptre",
-   "name": "Sceptre",
-   "model": "4K Smart TV"
-  },
-  {
-   "brand": "Sceptre",
-   "name": "TATUNG",
-   "model": "TATUNG 4K AI Smart TV"
-  },
-  {
-   "brand": "Sceptre",
-   "name": "imiia",
-   "model": "imiia 4K AI Smart TV"
-  },
-  {
-   "brand": "UNITED TV",
-   "name": "UNITED",
-   "model": "4K AI Smart TV"
   }
  ],
  "osaki": [
@@ -41758,6 +41763,27 @@
    "model": "W60"
   }
  ],
+ "10in-I-Series-4": [
+  {
+   "brand": "ELO Touch",
+   "name": "10in-I-Series-4",
+   "model": "10in-I-Series-4"
+  }
+ ],
+ "10in-I-Series-4-Value": [
+  {
+   "brand": "ELO Touch",
+   "name": "10in-I-Series-4-Value",
+   "model": "10in-I-Series-4-Value"
+  }
+ ],
+ "15in-I-Series-4": [
+  {
+   "brand": "ELO Touch",
+   "name": "15in-I-Series-4",
+   "model": "15in-I-Series-4"
+  }
+ ],
  "15in-I-Series-4-USB-C": [
   {
    "brand": "ELO Touch",
@@ -41770,6 +41796,27 @@
    "brand": "ELO Touch",
    "name": "15in-I-Series-4-USBC-V",
    "model": "15in-I-Series-4-USBC-V"
+  }
+ ],
+ "15in-I-Series-4-Value": [
+  {
+   "brand": "ELO Touch",
+   "name": "15in-I-Series-4-Value",
+   "model": "15in-I-Series-4-Value"
+  }
+ ],
+ "22in-I-Series-4-Value": [
+  {
+   "brand": "ELO Touch",
+   "name": "22in-I-Series 4-Value",
+   "model": "22in-I-Series-4-Value"
+  }
+ ],
+ "22in-I-Series-4": [
+  {
+   "brand": "ELO Touch",
+   "name": "22in-I-Series-4",
+   "model": "22in-I-Series-4"
   }
  ],
  "Backpack-4": [
@@ -49529,6 +49576,13 @@
    "brand": "Win (VE)",
    "name": "Q7",
    "model": "Q7"
+  }
+ ],
+ "S8X": [
+  {
+   "brand": "G-Tab",
+   "name": "S8X",
+   "model": "S8X"
   }
  ],
  "EX750": [
@@ -102675,6 +102729,13 @@
    "model": "Lenovo X3c70"
   }
  ],
+ "J607F": [
+  {
+   "brand": "Lenovo",
+   "name": "XiaoXin Pad Plus",
+   "model": "Lenovo TB-J607F"
+  }
+ ],
  "J706N": [
   {
    "brand": "Lenovo",
@@ -102963,6 +103024,13 @@
    "brand": "Lenovo",
    "name": "ideatvK82 60LX750A  52LX750A  46LX750A  60LX850A  70LX850A 80LX850A",
    "model": "ideatv K82"
+  }
+ ],
+ "J716F": [
+  {
+   "brand": "Lenovo",
+   "name": "小新Pad Pro 2021",
+   "model": "Lenovo TB-J716F"
   }
  ],
  "TB-8804F": [
@@ -128454,6 +128522,18 @@
    "model": "Redmi K30 Pro"
   }
  ],
+ "alioth": [
+  {
+   "brand": "POCO",
+   "name": "POCO F3",
+   "model": "M2012K11AG"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi K40",
+   "model": "M2012K11AC"
+  }
+ ],
  "shiva": [
   {
    "brand": "POCO",
@@ -133720,6 +133800,13 @@
    "brand": "Positivo",
    "name": "T750",
    "model": "Positivo T750"
+  }
+ ],
+ "T800": [
+  {
+   "brand": "Positivo",
+   "name": "T800",
+   "model": "T800"
   }
  ],
  "S520": [
@@ -140471,18 +140558,6 @@
    "brand": "Redmi",
    "name": "Redmi K30 Ultra",
    "model": "M2006J10C"
-  }
- ],
- "alioth": [
-  {
-   "brand": "Redmi",
-   "name": "Redmi K40",
-   "model": "M2012K11AC"
-  },
-  {
-   "brand": "Redmi",
-   "name": "Redmi K40",
-   "model": "M2012K11AG"
   }
  ],
  "ares": [
@@ -156716,12 +156791,12 @@
   },
   {
    "brand": "Samsung",
-   "name": "GalaxyTab A7 Lite",
+   "name": "Galaxy Tab A7 Lite",
    "model": "SM-T227"
   },
   {
    "brand": "Samsung",
-   "name": "GalaxyTab A7 Lite",
+   "name": "Galaxy Tab A7 Lite",
    "model": "SM-T227U"
   }
  ],
@@ -163307,6 +163382,13 @@
    "brand": "Simbans",
    "name": "TangoTab_X",
    "model": "TangoTab_X"
+  }
+ ],
+ "TangoTab_XL": [
+  {
+   "brand": "Simbans",
+   "name": "TangoTab_XL",
+   "model": "TangoTab_XL"
   }
  ],
  "G507": [

@@ -18882,6 +18882,33 @@
    "device": "bangbae"
   }
  ],
+ "4K AI Smart TV": [
+  {
+   "brand": "Bauhn",
+   "name": "BAUHN",
+   "device": "gangbyeon"
+  },
+  {
+   "brand": "JVC",
+   "name": "Amtran",
+   "device": "gangbyeon"
+  },
+  {
+   "brand": "RCA",
+   "name": "RCA",
+   "device": "gangbyeon"
+  },
+  {
+   "brand": "Realme",
+   "name": "50F1",
+   "device": "gangbyeon"
+  },
+  {
+   "brand": "UNITED TV",
+   "name": "UNITED",
+   "device": "gangbyeon"
+  }
+ ],
  "BAUHN 2K Android TV": [
   {
    "brand": "Bauhn",
@@ -39689,6 +39716,27 @@
    "device": "komagome"
   }
  ],
+ "10in-I-Series-4": [
+  {
+   "brand": "ELO Touch",
+   "name": "10in-I-Series-4",
+   "device": "10in-I-Series-4"
+  }
+ ],
+ "10in-I-Series-4-Value": [
+  {
+   "brand": "ELO Touch",
+   "name": "10in-I-Series-4-Value",
+   "device": "10in-I-Series-4-Value"
+  }
+ ],
+ "15in-I-Series-4": [
+  {
+   "brand": "ELO Touch",
+   "name": "15in-I-Series-4",
+   "device": "15in-I-Series-4"
+  }
+ ],
  "15in-I-Series-4-USB-C": [
   {
    "brand": "ELO Touch",
@@ -39701,6 +39749,27 @@
    "brand": "ELO Touch",
    "name": "15in-I-Series-4-USBC-V",
    "device": "15in-I-Series-4-USBC-V"
+  }
+ ],
+ "15in-I-Series-4-Value": [
+  {
+   "brand": "ELO Touch",
+   "name": "15in-I-Series-4-Value",
+   "device": "15in-I-Series-4-Value"
+  }
+ ],
+ "22in-I-Series-4-Value": [
+  {
+   "brand": "ELO Touch",
+   "name": "22in-I-Series 4-Value",
+   "device": "22in-I-Series-4-Value"
+  }
+ ],
+ "22in-I-Series-4": [
+  {
+   "brand": "ELO Touch",
+   "name": "22in-I-Series-4",
+   "device": "22in-I-Series-4"
   }
  ],
  "Backpack-4": [
@@ -47445,6 +47514,13 @@
    "brand": "Win (VE)",
    "name": "Q7",
    "device": "Q7"
+  }
+ ],
+ "S8X": [
+  {
+   "brand": "G-Tab",
+   "name": "S8X",
+   "device": "S8X"
   }
  ],
  "EX750": [
@@ -83509,28 +83585,6 @@
    "device": "AV-11NT510"
   }
  ],
- "4K AI Smart TV": [
-  {
-   "brand": "JVC",
-   "name": "Amtran",
-   "device": "gangbyeon"
-  },
-  {
-   "brand": "RCA",
-   "name": "RCA",
-   "device": "gangbyeon"
-  },
-  {
-   "brand": "Realme",
-   "name": "50F1",
-   "device": "gangbyeon"
-  },
-  {
-   "brand": "UNITED TV",
-   "name": "UNITED",
-   "device": "gangbyeon"
-  }
- ],
  "DM65UXR": [
   {
    "brand": "JVC",
@@ -105333,6 +105387,13 @@
    "device": "X3c70"
   }
  ],
+ "Lenovo TB-J607F": [
+  {
+   "brand": "Lenovo",
+   "name": "XiaoXin Pad Plus",
+   "device": "J607F"
+  }
+ ],
  "Lenovo TB-J706N": [
   {
    "brand": "Lenovo",
@@ -105643,6 +105704,13 @@
    "brand": "Lenovo",
    "name": "ideatvK82 60LX750A  52LX750A  46LX750A  60LX850A  70LX850A 80LX850A",
    "device": "ideatv_K82"
+  }
+ ],
+ "Lenovo TB-J716F": [
+  {
+   "brand": "Lenovo",
+   "name": "小新Pad Pro 2021",
+   "device": "J716F"
   }
  ],
  "Lenovo TB-8804F": [
@@ -131518,6 +131586,13 @@
    "device": "lmi"
   }
  ],
+ "M2012K11AG": [
+  {
+   "brand": "POCO",
+   "name": "POCO F3",
+   "device": "alioth"
+  }
+ ],
  "M2004J19PI": [
   {
    "brand": "POCO",
@@ -136812,6 +136887,13 @@
    "brand": "Positivo",
    "name": "T750",
    "device": "t750"
+  }
+ ],
+ "T800": [
+  {
+   "brand": "Positivo",
+   "name": "T800",
+   "device": "T800"
   }
  ],
  "Positivo Twist M": [
@@ -144087,13 +144169,6 @@
   }
  ],
  "M2012K11AC": [
-  {
-   "brand": "Redmi",
-   "name": "Redmi K40",
-   "device": "alioth"
-  }
- ],
- "M2012K11AG": [
   {
    "brand": "Redmi",
    "name": "Redmi K40",
@@ -161600,6 +161675,20 @@
    "device": "gta7lite"
   }
  ],
+ "SM-T227": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab A7 Lite",
+   "device": "gta7lite"
+  }
+ ],
+ "SM-T227U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab A7 Lite",
+   "device": "gta7lite"
+  }
+ ],
  "SM-T220": [
   {
    "brand": "Samsung",
@@ -164476,20 +164565,6 @@
    "brand": "Samsung",
    "name": "Galaxy win",
    "device": "delos3gss"
-  }
- ],
- "SM-T227": [
-  {
-   "brand": "Samsung",
-   "name": "GalaxyTab A7 Lite",
-   "device": "gta7lite"
-  }
- ],
- "SM-T227U": [
-  {
-   "brand": "Samsung",
-   "name": "GalaxyTab A7 Lite",
-   "device": "gta7lite"
   }
  ],
  "SGH-T399N": [
@@ -168542,6 +168617,13 @@
    "brand": "Simbans",
    "name": "TangoTab_X",
    "device": "TangoTab_X"
+  }
+ ],
+ "TangoTab_XL": [
+  {
+   "brand": "Simbans",
+   "name": "TangoTab_XL",
+   "device": "TangoTab_XL"
   }
  ],
  "G507": [

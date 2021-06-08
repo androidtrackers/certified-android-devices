@@ -24295,6 +24295,11 @@
    "brand": "Bauhn",
    "device": "bangbae",
    "model": "BAUHN 4K Android TV"
+  },
+  {
+   "brand": "Bauhn",
+   "device": "gangbyeon",
+   "model": "4K AI Smart TV"
   }
  ],
  "Bauhn": [
@@ -45875,6 +45880,27 @@
    "model": "ELEXIA 2K Android TV"
   }
  ],
+ "10in-I-Series-4": [
+  {
+   "brand": "ELO Touch",
+   "device": "10in-I-Series-4",
+   "model": "10in-I-Series-4"
+  }
+ ],
+ "10in-I-Series-4-Value": [
+  {
+   "brand": "ELO Touch",
+   "device": "10in-I-Series-4-Value",
+   "model": "10in-I-Series-4-Value"
+  }
+ ],
+ "15in-I-Series-4": [
+  {
+   "brand": "ELO Touch",
+   "device": "15in-I-Series-4",
+   "model": "15in-I-Series-4"
+  }
+ ],
  "15in-I-Series-4-USB-C": [
   {
    "brand": "ELO Touch",
@@ -45887,6 +45913,27 @@
    "brand": "ELO Touch",
    "device": "15in-I-Series-4-USBC-V",
    "model": "15in-I-Series-4-USBC-V"
+  }
+ ],
+ "15in-I-Series-4-Value": [
+  {
+   "brand": "ELO Touch",
+   "device": "15in-I-Series-4-Value",
+   "model": "15in-I-Series-4-Value"
+  }
+ ],
+ "22in-I-Series 4-Value": [
+  {
+   "brand": "ELO Touch",
+   "device": "22in-I-Series-4-Value",
+   "model": "22in-I-Series-4-Value"
+  }
+ ],
+ "22in-I-Series-4": [
+  {
+   "brand": "ELO Touch",
+   "device": "22in-I-Series-4",
+   "model": "22in-I-Series-4"
   }
  ],
  "Backpack-4": [
@@ -53571,6 +53618,13 @@
    "brand": "ZTE",
    "device": "P839V50",
    "model": "ZTE Q7"
+  }
+ ],
+ "S8X": [
+  {
+   "brand": "G-Tab",
+   "device": "S8X",
+   "model": "S8X"
   }
  ],
  "EX750": [
@@ -104207,6 +104261,13 @@
    "model": "Lenovo TB-J606N"
   }
  ],
+ "XiaoXin Pad Plus": [
+  {
+   "brand": "Lenovo",
+   "device": "J607F",
+   "model": "Lenovo TB-J607F"
+  }
+ ],
  "XiaoXin Pad Pro": [
   {
    "brand": "Lenovo",
@@ -104486,6 +104547,13 @@
    "brand": "Lenovo",
    "device": "ideatv_K82",
    "model": "ideatv K82"
+  }
+ ],
+ "小新Pad Pro 2021": [
+  {
+   "brand": "Lenovo",
+   "device": "J716F",
+   "model": "Lenovo TB-J716F"
   }
  ],
  "小新平板": [
@@ -128669,6 +128737,13 @@
    "model": "POCO F2 Pro"
   }
  ],
+ "POCO F3": [
+  {
+   "brand": "POCO",
+   "device": "alioth",
+   "model": "M2012K11AG"
+  }
+ ],
  "POCO M2": [
   {
    "brand": "POCO",
@@ -133916,6 +133991,13 @@
    "brand": "Wintec",
    "device": "T750",
    "model": "Clear"
+  }
+ ],
+ "T800": [
+  {
+   "brand": "Positivo",
+   "device": "T800",
+   "model": "T800"
   }
  ],
  "Twist": [
@@ -140953,11 +141035,6 @@
    "brand": "Redmi",
    "device": "alioth",
    "model": "M2012K11AC"
-  },
-  {
-   "brand": "Redmi",
-   "device": "alioth",
-   "model": "M2012K11AG"
   }
  ],
  "Redmi K40 Gaming": [
@@ -155130,6 +155207,16 @@
   },
   {
    "brand": "Samsung",
+   "device": "gta7lite",
+   "model": "SM-T227"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gta7lite",
+   "model": "SM-T227U"
+  },
+  {
+   "brand": "Samsung",
    "device": "gta7litewifi",
    "model": "SM-T220"
   }
@@ -157474,18 +157561,6 @@
    "brand": "Samsung",
    "device": "a9xltechn",
    "model": "SM-A9000"
-  }
- ],
- "GalaxyTab A7 Lite": [
-  {
-   "brand": "Samsung",
-   "device": "gta7lite",
-   "model": "SM-T227"
-  },
-  {
-   "brand": "Samsung",
-   "device": "gta7lite",
-   "model": "SM-T227U"
   }
  ],
  "Garda": [
@@ -161422,6 +161497,13 @@
    "brand": "Simbans",
    "device": "TangoTab_X",
    "model": "TangoTab_X"
+  }
+ ],
+ "TangoTab_XL": [
+  {
+   "brand": "Simbans",
+   "device": "TangoTab_XL",
+   "model": "TangoTab_XL"
   }
  ],
  "G507": [
