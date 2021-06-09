@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-06-08
+Last sync is 2021-06-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -92,10 +92,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AG Mobile|Zenith|Zenith|Zenith|
 |AG Mobile|Zone|Zone|Zone|
 |AG Mobile|Zoom|Zoom|Zoom|
+|AGE (in)|India|tamachi|AGE FHD Android TV|
+|AGE (in)|India|yeongdeungpo|AGE UHD Android TV|
 |AIDATA|ADT1012L|ADT1012L|ADT1012L|
 |AIDATA|ADT1061|ADT1061|ADT1061|
 |AIDATA|ADT1061_1|ADT1061_1|ADT1061_1|
 |AIDATA|ADT_1061|ADT_1061|ADT_1061|
+|AKIRA|Pakistan|tamachi|AKIRA FHD Android TV|
+|AKIRA|Pakistan|yeongdeungpo|AKIRA UHD Android TV|
 |AKOR|AKOR|TG1016|TG1016|
 |AKOR|TG797|TG797|TG797|
 |AKOR|TG996|TG996|TG996|
@@ -4414,6 +4418,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|R19|R19|R19|
 |Cubot|RAINBOW 2|RAINBOW_2|RAINBOW 2|
 |Cubot|Rainbow|RAINBOW|RAINBOW|
+|Cubot|TAB 10|TAB_10|TAB 10|
 |Cubot|X19|X19|X19|
 |Cubot|X19_S|X19_S|X19 S|
 |Cubot|X20|X20|X20|
@@ -4445,6 +4450,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |D-Tech|DT10-TAB4G|DT10-TAB4G|DT10-TAB4G|
 |D-Tech|H70_G|H70_G|H70_G|
 |D-Tech|LM-01|LM_01|LM-01|
+|DAIICHI|Vietnam|tamachi|Daiichi FHD Android TV|
+|DAIICHI|Vietnam|yeongdeungpo|Daiichi UHD Android TV|
 |DBM Maroc|ACCENT SURF 1000|SURF1000|SURF1000|
 |DBM Maroc|Accent Speed Y2|Speed-Y2|Speed-Y2|
 |DBM Maroc|Accent Speed Y3|Speed-Y3|Speed-Y3|
@@ -4629,6 +4636,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DGTEC|Dg_1523|Dg_1523|Dg_1523|
 |DGTEC|Dg_1524|Dg_1524|Dg_1524|
 |DIADEM|CUTE_5|CUTE_5|CUTE 5|
+|DIAMANT|EU|tamachi|DIAMANT Android TV|
 |DIAMANT|EU|yeongdeungpo|DIAMANT Android TV|
 |DIFRNCE|DIT702201|DIT702201|NID_7010|
 |DIMENSIONS|DISHM7863|DISHM7863|DISHM7863|
@@ -5378,6 +5386,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EKINOX|K5|K5|K5|
 |EKO|Ara 5.7 A5719|A5719|Ara 5.7 A5719|
 |EKO|Australia|nippori|EKO Android TV 2K|
+|EKO|Australia|tamachi|EKO Android TV|
+|EKO|Australia|yeongdeungpo|EKO Android TV|
 |EKO|EKO|bangbae|EKO 4K Android TV|
 |EKO|EKO|komagome|EKO 2K Android TV|
 |EKO|EKO OMEGA LTE Q60|EKO_OMEGA_LTE_Q60|EKO OMEGA LTE Q60|
@@ -7165,6 +7175,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HOMTOM|S99i|S99i|S99i|
 |HOMTOM|Z8|Z8|Z8|
 |HOMTOM|c1|C1|C1|
+|HORIZON|EU|tamachi|HORIZON Android TV|
 |HORIZON|EU|yeongdeungpo|HORIZON Android TV|
 |HP|10|spruce|HP 10|
 |HP|10 Plus|torsa|HP 10 Plus|
@@ -11474,6 +11485,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Intex|INTEX Aqua Selfie|INTEX_AQUA_SELFIE|INTEX AQUA SELFIE|
 |Intex|INTEX_AQUA_S3|INTEX_AQUA_S3|INTEX AQUA S3|
 |Intex|IV0318ND|IV0318ND|IV0318ND|
+|Intex|India|tamachi|INTEX FHD Android TV|
+|Intex|India|yeongdeungpo|INTEX UHD Android TV|
 |Intex|Indie 22|AQUA_FulVU_e5|INTEX AQUA FulVU e5|
 |Intex|Indie 22|AQUA_FulVU_e5|INTEX IP0518ND|
 |Intex|STAARi 10|AQUA_LIONS_X1_PLUS|INTEX AQUA LIONS X1+|
@@ -14007,6 +14020,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LLA|VIP6102W-LLA|vip6102w|VIP6102W|
 |LLOYD|Android TV|R1|ATV R1|
 |LLOYD|Android TV|R2|ATV R2|
+|LLOYD|India|tamachi|LLOYD FHD Android TV|
+|LLOYD|India|yeongdeungpo|LLOYD UHD Android TV|
 |LNMBBS|H11-EEA|H11-EEA|H11-EEA|
 |LNMBBS|L18|L18|L18|
 |LNMBBS|L18-EEA|L18-EEA|L18-EEA|
@@ -14045,6 +14060,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LT Electronics|SPURT_K400|SPURT_K400|K400|
 |LT Electronics|SPURT_K500|SPURT_K500|K500|
 |LT Electronics|SPURT_K600|SPURT_K600|K600|
+|LUCOMS|Android TV|R1|ATV R1|
 |LUCOMS|Android TV|R2|ATV R2|
 |LUCOMS|T05CUA|sindorim|AI PONT|
 |LUMUS|INNOSR545|INNOSR545|INNOSR545|
@@ -16488,6 +16504,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mito|A62|A62|A62|
 |Mito|A67|A67|Mito A67|
 |Mito|A880|A880|MITO A880|
+|Mito|Indonesia|tamachi|MITO FHD Android TV|
+|Mito|Indonesia|yeongdeungpo|MITO UHD Android TV|
 |Mito|MITO A17|MITO_A17|MITO A17|
 |Mito|MITO A21|A21|MITO A21|
 |Mito|MITO A39|A39|mito A39|
@@ -17767,6 +17785,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NGM Italia SRL|Smart5.5|Smart55|Smart5.5|
 |NGM Italia SRL|Smart5.5Plus|Smart55Plus|Smart5.5Plus32GB|
 |NGM Italia SRL|Smart5Plus|Smart5Plus|Smart5Plus|
+|NIKAI_PRO|GCC|yeongdeungpo|NIKAI PRO UHD Android TV|
 |NOA Mobile|Forte_se|Forte_se|Forte_se|
 |NOA Mobile|Fresh 4G|Fresh_4G|Fresh_4G|
 |NOA Mobile|Hummer|Hummer|Hummer|
@@ -18308,6 +18327,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONYX|QuartzT10-3|QuartzT10-3|QuartzT10-3|
 |ORBYS|F20|F20|F20|
 |ORBYS|F21|F21|F21|
+|ORCA|Kuwait|tamachi|ORCA FHD Android TV|
 |ORCA|Kuwait|yeongdeungpo|ORCA UHD Android TV|
 |ORCA|OR-50UX400S|samseong|AI PONT|
 |OTHO|T1|T1|T1|
@@ -18325,6 +18345,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OTTO|OTTO CR05|OTTO_CR05|OTTO CR05|
 |OVERTECH|OX7A|OX7A|OX7A|
 |OWXMobile|W77|W77|W77|
+|OXYGEN (in)|India|tamachi|OXYGEN FHD Android TV|
 |OXYGEN (in)|India|yeongdeungpo|OXYGEN UHD Android TV|
 |OYYU|T11|OYYUT11|OYYUT11|
 |OYYU|T7Pro|T7Pro|T7Pro|
@@ -18367,6 +18388,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OneClick|C2 Pro|C2_pro|C2 pro|
 |OneClick|X1|X1|X1|
 |OneLern|OneLernDB009|OneLernDB009|OneLernDB009|
+|OneLern|OneLernDB010|OneLernDB010|OneLernDB010|
 |OnePlus|2|OnePlus2|ONE A2003|
 |OnePlus|3|OnePlus3|ONEPLUS A3000|
 |OnePlus|One|A0001|A0001|
@@ -19176,6 +19198,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Packard Bell|A5000|A5000|A5000|
 |Packard Bell|A5700|A5700|A5700|
 |Packard Bell|DAYTONA-G12|DAYTONA-G12|DAYTONA-G12|
+|Packard Bell|INTERLAGOS-T32|INTERLAGOS-T32|INTERLAGOS-T32|
 |Packard Bell|M10400|M10400|M10400|
 |Packard Bell|M10500|M10500|M10500|
 |Packard Bell|M10600|M10600|M10600|
@@ -20768,6 +20791,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|HKC|gangbyeon|HKC 4K AI Smart TV|
 |RCA|Juno 10|RCT6A03W12EU|RCT6A03W12EU|
 |RCA|Mercury 7|CT9973W43M|CT9973W43M|
+|RCA|Mexico|yeongdeungpo|AiPlus4K|
 |RCA|Pro10 Edition II|RCT6203W46L|RCT6203W46L|
 |RCA|Pro12|RCT6223W87|RCT6223W87|
 |RCA|Q2|Q2|Q2|
@@ -21013,6 +21037,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rectron|MX702M1|MX702M1|MX702M1|
 |Red Mobile|Quick_5_0|Quick_5_0|Quick 5.0|
 |Red-X|RX3503|RX3503|RX3503|
+|Red-X|RX4559|RED-X_RX4559|RX4559|
 |Red-X|RX4618|RX4618|RX4618|
 |Red-X|RX4702|RX4702|RX4702|
 |Redmi|K30 PRO|lmi|Lmi|
@@ -21269,6 +21294,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SBET|X7|X7|X7|
 |SCHNEIDER|Android TV|R1|ATV R1|
 |SCHNEIDER|Android TV|R2|ATV R2|
+|SCHNEIDER|France|tamachi|SCHNEIDER FHD Android TV|
+|SCHNEIDER|France|yeongdeungpo|SCHNEIDER UHD Android TV|
 |SCHNEIDER|SCHNEIDER|bangbae|SCHNEIDER 4K Android TV|
 |SCHNEIDER|SCHNEIDER|komagome|SCHNEIDER 2K Android TV|
 |SCIENTIA|BBT1019863|BBT1019863|BBT1019863|
@@ -28445,6 +28472,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umax|VisionBook_P55_LTE_Pro|VisionBook_P55_LTE_Pro|VisionBook P55 LTE Pro|
 |Umax|Visionbook_10Q_Pro|Visionbook_10Q_Pro|Visionbook_10Q_Pro|
 |Umidigi|A11|A11|A11|
+|Umidigi|A11 EEA|A11|A11|
 |Umidigi|A3|A3|A3|
 |Umidigi|A3S|A3S|A3S|
 |Umidigi|A3S_EEA|A3S|A3S|
@@ -28628,6 +28656,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VUCATIMES|VucaPad_NS20_EEA|VucaPad_NS20_EEA|VucaPad_NS20_EEA|
 |VUCATIMES|Vucatimes|VucaPad_N20_LTE_JP|VucaPad_N20_LTE_JP|
 |Valo Innovations|TAB0001NG|TAB0001NG|TAB0001NG|
+|Vankyo|P10|P10|P10|
 |Vankyo|P31|P31|P31|
 |Vankyo|P31-E|P31-E_EEA|P31-E|
 |Vankyo|P40|P40|P40|
@@ -29636,6 +29665,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |W.e.|WeTab1004B|WeTab1004B|WeTab1004B|
 |WIIGO|WG-7650|WG-7650|WG-7650|
 |WILL (JP)|Willfon_Pad_02|Willfon_Pad_02|Willfon_Pad_02|
+|WILLETT|India|tamachi|WILLETT FHD Android TV|
+|WILLETT|India|yeongdeungpo|WILLETT UHD Android TV|
 |WILLKOTECH|Kishi-001|Kishi-001|Kishi-001|
 |WILLKOTECH|WK1863L|WK1863L|WK1863L|
 |WINTEK|W405|W405|W405|
@@ -29646,6 +29677,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Waf|F808NM|F808NM|F808NM|
 |Waf|THMTKAW01216_eea|THMTKAW01216|Surftab WAF|
 |Walton|32FD1|osaki|2K AI Smart TV|
+|Walton|Bangladesh and EU|tamachi|WALTON Android TV|
+|Walton|Bangladesh and EU|yeongdeungpo|WALTON Android TV|
 |Walton|LT750|LT750|LT750|
 |Walton|PRIMO D10|PRIMO_D10|PRIMO D10|
 |Walton|PRIMO F10|PRIMO_F10|PRIMO F10|

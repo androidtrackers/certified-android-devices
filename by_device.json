@@ -718,6 +718,500 @@
    "model": "Zoom"
   }
  ],
+ "tamachi": [
+  {
+   "brand": "AGE (in)",
+   "name": "India",
+   "model": "AGE FHD Android TV"
+  },
+  {
+   "brand": "AKIRA",
+   "name": "Pakistan",
+   "model": "AKIRA FHD Android TV"
+  },
+  {
+   "brand": "ARRQW",
+   "name": "Saudi Arabia",
+   "model": "ARRQW FHD Android TV"
+  },
+  {
+   "brand": "ASTECH",
+   "name": "Senegal",
+   "model": "ASTECH FHD Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "EU",
+   "model": "BLAUPUNKT FHD Android TV"
+  },
+  {
+   "brand": "Contex",
+   "name": "Egypt",
+   "model": "AiPlus2K"
+  },
+  {
+   "brand": "Continental Edison",
+   "name": "France",
+   "model": "Continental Android TV"
+  },
+  {
+   "brand": "DAIICHI",
+   "name": "Vietnam",
+   "model": "Daiichi FHD Android TV"
+  },
+  {
+   "brand": "DIAMANT",
+   "name": "EU",
+   "model": "DIAMANT Android TV"
+  },
+  {
+   "brand": "Digiquest",
+   "name": "Italy",
+   "model": "Digiquest 2K Android TV"
+  },
+  {
+   "brand": "EKO",
+   "name": "Australia",
+   "model": "EKO Android TV"
+  },
+  {
+   "brand": "Estar",
+   "name": "Lithuania",
+   "model": "eSTAR FHD Android TV"
+  },
+  {
+   "brand": "F&U (Fandu)",
+   "name": "Greece",
+   "model": "F and U Android TV"
+  },
+  {
+   "brand": "Fresh",
+   "name": "Egypt",
+   "model": "Fresh FHD Android TV"
+  },
+  {
+   "brand": "Grunkel",
+   "name": "Spain",
+   "model": "GRUNKEL FHD Android TV"
+  },
+  {
+   "brand": "HORIZON",
+   "name": "EU",
+   "model": "HORIZON Android TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Italy",
+   "model": "HYUNDAI 2K Android TV"
+  },
+  {
+   "brand": "Intex",
+   "name": "India",
+   "model": "INTEX FHD Android TV"
+  },
+  {
+   "brand": "Inves",
+   "name": "Spain",
+   "model": "INVES FHD Android TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "france",
+   "model": "JVC 2K Android TV"
+  },
+  {
+   "brand": "KAGIS",
+   "name": "Australia",
+   "model": "KAGIS Android TV"
+  },
+  {
+   "brand": "Kogan",
+   "name": "Australia",
+   "model": "Kogan TV"
+  },
+  {
+   "brand": "LISTO",
+   "name": "Rumania",
+   "model": "LISTO Android TV"
+  },
+  {
+   "brand": "LLOYD",
+   "name": "India",
+   "model": "LLOYD FHD Android TV"
+  },
+  {
+   "brand": "MULTYNET",
+   "name": "Pakistan",
+   "model": "MULTYNET FHD Android TV"
+  },
+  {
+   "brand": "Mito",
+   "name": "Indonesia",
+   "model": "MITO FHD Android TV"
+  },
+  {
+   "brand": "Nano",
+   "name": "Thailand",
+   "model": "Nano FHD Android TV"
+  },
+  {
+   "brand": "ORCA",
+   "name": "Kuwait",
+   "model": "ORCA FHD Android TV"
+  },
+  {
+   "brand": "OXYGEN (in)",
+   "name": "India",
+   "model": "OXYGEN FHD Android TV"
+  },
+  {
+   "brand": "Qilive",
+   "name": "Europe",
+   "model": "Qilive FHD Android TV"
+  },
+  {
+   "brand": "SANCO",
+   "name": "Vietnam",
+   "model": "SANCO Android TV"
+  },
+  {
+   "brand": "SCHNEIDER",
+   "name": "France",
+   "model": "SCHNEIDER FHD Android TV"
+  },
+  {
+   "brand": "Skyview",
+   "name": "KENYA",
+   "model": "SKYVIEW Android TV"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "name": "France",
+   "model": "AiPlus2K"
+  },
+  {
+   "brand": "Star-X",
+   "name": "Middle East",
+   "model": "STAR-X FHD Android TV"
+  },
+  {
+   "brand": "Starlight",
+   "name": "Rumania",
+   "model": "STARLIGHT Android TV"
+  },
+  {
+   "brand": "TD SYSTEMS",
+   "name": "Spain",
+   "model": "TD SYSTEMS Android TV"
+  },
+  {
+   "brand": "Turbo-X",
+   "name": "Greece",
+   "model": "TURBO-X FHD Android TV"
+  },
+  {
+   "brand": "UBCtv",
+   "name": "Vietnam",
+   "model": "UBC Android TV"
+  },
+  {
+   "brand": "Vision",
+   "name": "Bangladesh",
+   "model": "Vision FHD Android TV"
+  },
+  {
+   "brand": "WILLETT",
+   "name": "India",
+   "model": "WILLETT FHD Android TV"
+  },
+  {
+   "brand": "Walton",
+   "name": "Bangladesh and EU",
+   "model": "WALTON Android TV"
+  },
+  {
+   "brand": "Zephir",
+   "name": "Italy",
+   "model": "Zephir FHD Android TV"
+  }
+ ],
+ "yeongdeungpo": [
+  {
+   "brand": "AGE (in)",
+   "name": "India",
+   "model": "AGE UHD Android TV"
+  },
+  {
+   "brand": "AKIRA",
+   "name": "Pakistan",
+   "model": "AKIRA UHD Android TV"
+  },
+  {
+   "brand": "ARRQW",
+   "name": "Saudi Arabia",
+   "model": "ARRQW UHD Android TV"
+  },
+  {
+   "brand": "ASTECH",
+   "name": "Senegal",
+   "model": "ASTECH UHD Android TV"
+  },
+  {
+   "brand": "CAIXUN",
+   "name": "Australian/EU",
+   "model": "AiPlus4K"
+  },
+  {
+   "brand": "CAIXUN",
+   "name": "Canada",
+   "model": "AiPlus4K"
+  },
+  {
+   "brand": "CAIXUN",
+   "name": "Malaysia",
+   "model": "AiPlus4KMY"
+  },
+  {
+   "brand": "CAIXUN",
+   "name": "Mexico",
+   "model": "AiPlus4K"
+  },
+  {
+   "brand": "CAIXUN",
+   "name": "USA",
+   "model": "AiPlus4K"
+  },
+  {
+   "brand": "Contex",
+   "name": "Egypt",
+   "model": "AiPlus4K"
+  },
+  {
+   "brand": "Continental Edison",
+   "name": "Continental Edison",
+   "model": "B UHD Android TV"
+  },
+  {
+   "brand": "DAIICHI",
+   "name": "Vietnam",
+   "model": "Daiichi UHD Android TV"
+  },
+  {
+   "brand": "DIAMANT",
+   "name": "EU",
+   "model": "DIAMANT Android TV"
+  },
+  {
+   "brand": "Digiquest",
+   "name": "Italy",
+   "model": "Digiquest 4K Android TV"
+  },
+  {
+   "brand": "EKO",
+   "name": "Australia",
+   "model": "EKO Android TV"
+  },
+  {
+   "brand": "Elitelux",
+   "name": "Australia",
+   "model": "AiPlus4K"
+  },
+  {
+   "brand": "Estar",
+   "name": "Lithuania",
+   "model": "eSTAR UHD Android TV"
+  },
+  {
+   "brand": "F&U (Fandu)",
+   "name": "Greece",
+   "model": "F and U Android TV"
+  },
+  {
+   "brand": "Fresh",
+   "name": "Egypt",
+   "model": "Fresh UHD Android TV"
+  },
+  {
+   "brand": "Grunkel",
+   "name": "Spain",
+   "model": "GRUNKEL UHD Android TV"
+  },
+  {
+   "brand": "HORIZON",
+   "name": "EU",
+   "model": "HORIZON Android TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Italy",
+   "model": "HYUNDAI 4K Android TV"
+  },
+  {
+   "brand": "Intex",
+   "name": "India",
+   "model": "INTEX UHD Android TV"
+  },
+  {
+   "brand": "Inves",
+   "name": "Spain",
+   "model": "INVES UHD Android TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "France",
+   "model": "JVC 4K Android TV"
+  },
+  {
+   "brand": "KAGIS",
+   "name": "Australia",
+   "model": "KAGIS Android TV"
+  },
+  {
+   "brand": "Kogan",
+   "name": "Australia",
+   "model": "Kogan TV"
+  },
+  {
+   "brand": "LLOYD",
+   "name": "India",
+   "model": "LLOYD UHD Android TV"
+  },
+  {
+   "brand": "MULTYNET",
+   "name": "Pakistan",
+   "model": "MULTYNET UHD Android TV"
+  },
+  {
+   "brand": "Mito",
+   "name": "Indonesia",
+   "model": "MITO UHD Android TV"
+  },
+  {
+   "brand": "NIKAI_PRO",
+   "name": "GCC",
+   "model": "NIKAI PRO UHD Android TV"
+  },
+  {
+   "brand": "Nano",
+   "name": "Thailand",
+   "model": "Nano UHD Android TV"
+  },
+  {
+   "brand": "ORCA",
+   "name": "Kuwait",
+   "model": "ORCA UHD Android TV"
+  },
+  {
+   "brand": "OXYGEN (in)",
+   "name": "India",
+   "model": "OXYGEN UHD Android TV"
+  },
+  {
+   "brand": "QBell",
+   "name": "Italy",
+   "model": "Qbell UHD Android TV"
+  },
+  {
+   "brand": "Qilive",
+   "name": "Europe",
+   "model": "Qilive UHD Android TV"
+  },
+  {
+   "brand": "RCA",
+   "name": "Mexico",
+   "model": "AiPlus4K"
+  },
+  {
+   "brand": "SANCO",
+   "name": "Vietnam",
+   "model": "SANCO Android TV"
+  },
+  {
+   "brand": "SCHNEIDER",
+   "name": "France",
+   "model": "SCHNEIDER UHD Android TV"
+  },
+  {
+   "brand": "SUPERSONIC",
+   "name": "USA",
+   "model": "SUPERSONIC UHD Android TV"
+  },
+  {
+   "brand": "Sansui",
+   "name": "Mexio",
+   "model": "AiPlus4K"
+  },
+  {
+   "brand": "Sansui TV",
+   "name": "Canada",
+   "model": "AiPlus4K"
+  },
+  {
+   "brand": "Sansui TV",
+   "name": "USA",
+   "model": "AiPlus4K"
+  },
+  {
+   "brand": "Skyview",
+   "name": "KENYA",
+   "model": "SKYVIEW Android TV"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "name": "Germany",
+   "model": "AiPlus4K"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "name": "SmartTech",
+   "model": "AiPlus4K"
+  },
+  {
+   "brand": "Star-X",
+   "name": "Middle East",
+   "model": "STAR-X UHD Android TV"
+  },
+  {
+   "brand": "Starlight",
+   "name": "Rumania",
+   "model": "STARLIGHT Android TV"
+  },
+  {
+   "brand": "TD SYSTEMS",
+   "name": "Spain",
+   "model": "TD SYSTEMS Android TV"
+  },
+  {
+   "brand": "Turbo-X",
+   "name": "Greek and Bulgarian",
+   "model": "TURBO-X UHD Android TV"
+  },
+  {
+   "brand": "UBCtv",
+   "name": "Vietnam",
+   "model": "UBC Android TV"
+  },
+  {
+   "brand": "WILLETT",
+   "name": "India",
+   "model": "WILLETT UHD Android TV"
+  },
+  {
+   "brand": "Walton",
+   "name": "Bangladesh and EU",
+   "model": "WALTON Android TV"
+  },
+  {
+   "brand": "Widevu",
+   "name": "Korea",
+   "model": "Widevu UHD Android TV"
+  },
+  {
+   "brand": "Zephir",
+   "name": "Italy",
+   "model": "Zephir UHD Android TV"
+  }
+ ],
  "ADT1012L": [
   {
    "brand": "AIDATA",
@@ -1651,370 +2145,6 @@
    "brand": "AOpen",
    "name": "RK3288 Mini Chromebox",
    "model": "AOpen Chromebox Mini"
-  }
- ],
- "tamachi": [
-  {
-   "brand": "ARRQW",
-   "name": "Saudi Arabia",
-   "model": "ARRQW FHD Android TV"
-  },
-  {
-   "brand": "ASTECH",
-   "name": "Senegal",
-   "model": "ASTECH FHD Android TV"
-  },
-  {
-   "brand": "Blaupunkt",
-   "name": "EU",
-   "model": "BLAUPUNKT FHD Android TV"
-  },
-  {
-   "brand": "Contex",
-   "name": "Egypt",
-   "model": "AiPlus2K"
-  },
-  {
-   "brand": "Continental Edison",
-   "name": "France",
-   "model": "Continental Android TV"
-  },
-  {
-   "brand": "Digiquest",
-   "name": "Italy",
-   "model": "Digiquest 2K Android TV"
-  },
-  {
-   "brand": "Estar",
-   "name": "Lithuania",
-   "model": "eSTAR FHD Android TV"
-  },
-  {
-   "brand": "F&U (Fandu)",
-   "name": "Greece",
-   "model": "F and U Android TV"
-  },
-  {
-   "brand": "Fresh",
-   "name": "Egypt",
-   "model": "Fresh FHD Android TV"
-  },
-  {
-   "brand": "Grunkel",
-   "name": "Spain",
-   "model": "GRUNKEL FHD Android TV"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "Italy",
-   "model": "HYUNDAI 2K Android TV"
-  },
-  {
-   "brand": "Inves",
-   "name": "Spain",
-   "model": "INVES FHD Android TV"
-  },
-  {
-   "brand": "JVC",
-   "name": "france",
-   "model": "JVC 2K Android TV"
-  },
-  {
-   "brand": "KAGIS",
-   "name": "Australia",
-   "model": "KAGIS Android TV"
-  },
-  {
-   "brand": "Kogan",
-   "name": "Australia",
-   "model": "Kogan TV"
-  },
-  {
-   "brand": "LISTO",
-   "name": "Rumania",
-   "model": "LISTO Android TV"
-  },
-  {
-   "brand": "MULTYNET",
-   "name": "Pakistan",
-   "model": "MULTYNET FHD Android TV"
-  },
-  {
-   "brand": "Nano",
-   "name": "Thailand",
-   "model": "Nano FHD Android TV"
-  },
-  {
-   "brand": "Qilive",
-   "name": "Europe",
-   "model": "Qilive FHD Android TV"
-  },
-  {
-   "brand": "SANCO",
-   "name": "Vietnam",
-   "model": "SANCO Android TV"
-  },
-  {
-   "brand": "Skyview",
-   "name": "KENYA",
-   "model": "SKYVIEW Android TV"
-  },
-  {
-   "brand": "Smart-Tech TV",
-   "name": "France",
-   "model": "AiPlus2K"
-  },
-  {
-   "brand": "Star-X",
-   "name": "Middle East",
-   "model": "STAR-X FHD Android TV"
-  },
-  {
-   "brand": "Starlight",
-   "name": "Rumania",
-   "model": "STARLIGHT Android TV"
-  },
-  {
-   "brand": "TD SYSTEMS",
-   "name": "Spain",
-   "model": "TD SYSTEMS Android TV"
-  },
-  {
-   "brand": "Turbo-X",
-   "name": "Greece",
-   "model": "TURBO-X FHD Android TV"
-  },
-  {
-   "brand": "UBCtv",
-   "name": "Vietnam",
-   "model": "UBC Android TV"
-  },
-  {
-   "brand": "Vision",
-   "name": "Bangladesh",
-   "model": "Vision FHD Android TV"
-  },
-  {
-   "brand": "Zephir",
-   "name": "Italy",
-   "model": "Zephir FHD Android TV"
-  }
- ],
- "yeongdeungpo": [
-  {
-   "brand": "ARRQW",
-   "name": "Saudi Arabia",
-   "model": "ARRQW UHD Android TV"
-  },
-  {
-   "brand": "ASTECH",
-   "name": "Senegal",
-   "model": "ASTECH UHD Android TV"
-  },
-  {
-   "brand": "CAIXUN",
-   "name": "Australian/EU",
-   "model": "AiPlus4K"
-  },
-  {
-   "brand": "CAIXUN",
-   "name": "Canada",
-   "model": "AiPlus4K"
-  },
-  {
-   "brand": "CAIXUN",
-   "name": "Malaysia",
-   "model": "AiPlus4KMY"
-  },
-  {
-   "brand": "CAIXUN",
-   "name": "Mexico",
-   "model": "AiPlus4K"
-  },
-  {
-   "brand": "CAIXUN",
-   "name": "USA",
-   "model": "AiPlus4K"
-  },
-  {
-   "brand": "Contex",
-   "name": "Egypt",
-   "model": "AiPlus4K"
-  },
-  {
-   "brand": "Continental Edison",
-   "name": "Continental Edison",
-   "model": "B UHD Android TV"
-  },
-  {
-   "brand": "DIAMANT",
-   "name": "EU",
-   "model": "DIAMANT Android TV"
-  },
-  {
-   "brand": "Digiquest",
-   "name": "Italy",
-   "model": "Digiquest 4K Android TV"
-  },
-  {
-   "brand": "Elitelux",
-   "name": "Australia",
-   "model": "AiPlus4K"
-  },
-  {
-   "brand": "Estar",
-   "name": "Lithuania",
-   "model": "eSTAR UHD Android TV"
-  },
-  {
-   "brand": "F&U (Fandu)",
-   "name": "Greece",
-   "model": "F and U Android TV"
-  },
-  {
-   "brand": "Fresh",
-   "name": "Egypt",
-   "model": "Fresh UHD Android TV"
-  },
-  {
-   "brand": "Grunkel",
-   "name": "Spain",
-   "model": "GRUNKEL UHD Android TV"
-  },
-  {
-   "brand": "HORIZON",
-   "name": "EU",
-   "model": "HORIZON Android TV"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "Italy",
-   "model": "HYUNDAI 4K Android TV"
-  },
-  {
-   "brand": "Inves",
-   "name": "Spain",
-   "model": "INVES UHD Android TV"
-  },
-  {
-   "brand": "JVC",
-   "name": "France",
-   "model": "JVC 4K Android TV"
-  },
-  {
-   "brand": "KAGIS",
-   "name": "Australia",
-   "model": "KAGIS Android TV"
-  },
-  {
-   "brand": "Kogan",
-   "name": "Australia",
-   "model": "Kogan TV"
-  },
-  {
-   "brand": "MULTYNET",
-   "name": "Pakistan",
-   "model": "MULTYNET UHD Android TV"
-  },
-  {
-   "brand": "Nano",
-   "name": "Thailand",
-   "model": "Nano UHD Android TV"
-  },
-  {
-   "brand": "ORCA",
-   "name": "Kuwait",
-   "model": "ORCA UHD Android TV"
-  },
-  {
-   "brand": "OXYGEN (in)",
-   "name": "India",
-   "model": "OXYGEN UHD Android TV"
-  },
-  {
-   "brand": "QBell",
-   "name": "Italy",
-   "model": "Qbell UHD Android TV"
-  },
-  {
-   "brand": "Qilive",
-   "name": "Europe",
-   "model": "Qilive UHD Android TV"
-  },
-  {
-   "brand": "SANCO",
-   "name": "Vietnam",
-   "model": "SANCO Android TV"
-  },
-  {
-   "brand": "SUPERSONIC",
-   "name": "USA",
-   "model": "SUPERSONIC UHD Android TV"
-  },
-  {
-   "brand": "Sansui",
-   "name": "Mexio",
-   "model": "AiPlus4K"
-  },
-  {
-   "brand": "Sansui TV",
-   "name": "Canada",
-   "model": "AiPlus4K"
-  },
-  {
-   "brand": "Sansui TV",
-   "name": "USA",
-   "model": "AiPlus4K"
-  },
-  {
-   "brand": "Skyview",
-   "name": "KENYA",
-   "model": "SKYVIEW Android TV"
-  },
-  {
-   "brand": "Smart-Tech TV",
-   "name": "Germany",
-   "model": "AiPlus4K"
-  },
-  {
-   "brand": "Smart-Tech TV",
-   "name": "SmartTech",
-   "model": "AiPlus4K"
-  },
-  {
-   "brand": "Star-X",
-   "name": "Middle East",
-   "model": "STAR-X UHD Android TV"
-  },
-  {
-   "brand": "Starlight",
-   "name": "Rumania",
-   "model": "STARLIGHT Android TV"
-  },
-  {
-   "brand": "TD SYSTEMS",
-   "name": "Spain",
-   "model": "TD SYSTEMS Android TV"
-  },
-  {
-   "brand": "Turbo-X",
-   "name": "Greek and Bulgarian",
-   "model": "TURBO-X UHD Android TV"
-  },
-  {
-   "brand": "UBCtv",
-   "name": "Vietnam",
-   "model": "UBC Android TV"
-  },
-  {
-   "brand": "Widevu",
-   "name": "Korea",
-   "model": "Widevu UHD Android TV"
-  },
-  {
-   "brand": "Zephir",
-   "name": "Italy",
-   "model": "Zephir UHD Android TV"
   }
  ],
  "SURGE_AA_787_S": [
@@ -4752,6 +4882,11 @@
   },
   {
    "brand": "LLOYD",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "LUCOMS",
    "name": "Android TV",
    "model": "ATV R1"
   },
@@ -34787,6 +34922,13 @@
    "model": "RAINBOW"
   }
  ],
+ "TAB_10": [
+  {
+   "brand": "Cubot",
+   "name": "TAB 10",
+   "model": "TAB 10"
+  }
+ ],
  "X19": [
   {
    "brand": "Cubot",
@@ -53560,6 +53702,11 @@
   },
   {
    "brand": "Reeder",
+   "name": "P10",
+   "model": "P10"
+  },
+  {
+   "brand": "Vankyo",
    "name": "P10",
    "model": "P10"
   },
@@ -123514,6 +123661,13 @@
    "model": "OneLernDB009"
   }
  ],
+ "OneLernDB010": [
+  {
+   "brand": "OneLern",
+   "name": "OneLernDB010",
+   "model": "OneLernDB010"
+  }
+ ],
  "OnePlus2": [
   {
    "brand": "OnePlus",
@@ -124257,6 +124411,11 @@
   {
    "brand": "Umidigi",
    "name": "A11",
+   "model": "A11"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "A11 EEA",
    "model": "A11"
   }
  ],
@@ -128663,6 +128822,13 @@
    "brand": "Packard Bell",
    "name": "DAYTONA-G12",
    "model": "DAYTONA-G12"
+  }
+ ],
+ "INTERLAGOS-T32": [
+  {
+   "brand": "Packard Bell",
+   "name": "INTERLAGOS-T32",
+   "model": "INTERLAGOS-T32"
   }
  ],
  "M10400": [
@@ -140243,6 +140409,13 @@
    "brand": "Red-X",
    "name": "RX3503",
    "model": "RX3503"
+  }
+ ],
+ "RED-X_RX4559": [
+  {
+   "brand": "Red-X",
+   "name": "RX4559",
+   "model": "RX4559"
   }
  ],
  "RX4618": [

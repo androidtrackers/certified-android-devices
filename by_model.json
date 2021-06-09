@@ -764,6 +764,20 @@
    "device": "Xcell_Zoom"
   }
  ],
+ "AGE FHD Android TV": [
+  {
+   "brand": "AGE (in)",
+   "name": "India",
+   "device": "tamachi"
+  }
+ ],
+ "AGE UHD Android TV": [
+  {
+   "brand": "AGE (in)",
+   "name": "India",
+   "device": "yeongdeungpo"
+  }
+ ],
  "ADT1012L": [
   {
    "brand": "AIDATA",
@@ -790,6 +804,20 @@
    "brand": "AIDATA",
    "name": "ADT_1061",
    "device": "ADT_1061"
+  }
+ ],
+ "AKIRA FHD Android TV": [
+  {
+   "brand": "AKIRA",
+   "name": "Pakistan",
+   "device": "tamachi"
+  }
+ ],
+ "AKIRA UHD Android TV": [
+  {
+   "brand": "AKIRA",
+   "name": "Pakistan",
+   "device": "yeongdeungpo"
   }
  ],
  "TG1016": [
@@ -3857,6 +3885,11 @@
   },
   {
    "brand": "LLOYD",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "LUCOMS",
    "name": "Android TV",
    "device": "R1"
   },
@@ -24766,6 +24799,11 @@
    "device": "yeongdeungpo"
   },
   {
+   "brand": "RCA",
+   "name": "Mexico",
+   "device": "yeongdeungpo"
+  },
+  {
    "brand": "Sansui",
    "name": "Mexio",
    "device": "yeongdeungpo"
@@ -32806,6 +32844,13 @@
    "device": "s5501"
   }
  ],
+ "TAB 10": [
+  {
+   "brand": "Cubot",
+   "name": "TAB 10",
+   "device": "TAB_10"
+  }
+ ],
  "X19": [
   {
    "brand": "Cubot",
@@ -33071,6 +33116,20 @@
    "brand": "D-Tech",
    "name": "LM-01",
    "device": "LM_01"
+  }
+ ],
+ "Daiichi FHD Android TV": [
+  {
+   "brand": "DAIICHI",
+   "name": "Vietnam",
+   "device": "tamachi"
+  }
+ ],
+ "Daiichi UHD Android TV": [
+  {
+   "brand": "DAIICHI",
+   "name": "Vietnam",
+   "device": "yeongdeungpo"
   }
  ],
  "SURF1000": [
@@ -34361,6 +34420,11 @@
   }
  ],
  "DIAMANT Android TV": [
+  {
+   "brand": "DIAMANT",
+   "name": "EU",
+   "device": "tamachi"
+  },
   {
    "brand": "DIAMANT",
    "name": "EU",
@@ -39577,6 +39641,18 @@
    "brand": "EKO",
    "name": "Australia",
    "device": "nippori"
+  }
+ ],
+ "EKO Android TV": [
+  {
+   "brand": "EKO",
+   "name": "Australia",
+   "device": "tamachi"
+  },
+  {
+   "brand": "EKO",
+   "name": "Australia",
+   "device": "yeongdeungpo"
   }
  ],
  "EKO 4K Android TV": [
@@ -52336,6 +52412,11 @@
   {
    "brand": "HORIZON",
    "name": "EU",
+   "device": "tamachi"
+  },
+  {
+   "brand": "HORIZON",
+   "name": "EU",
    "device": "yeongdeungpo"
   }
  ],
@@ -58489,6 +58570,11 @@
   },
   {
    "brand": "Reeder",
+   "name": "P10",
+   "device": "P10"
+  },
+  {
+   "brand": "Vankyo",
    "name": "P10",
    "device": "P10"
   },
@@ -80843,6 +80929,20 @@
    "device": "IV0318ND"
   }
  ],
+ "INTEX FHD Android TV": [
+  {
+   "brand": "Intex",
+   "name": "India",
+   "device": "tamachi"
+  }
+ ],
+ "INTEX UHD Android TV": [
+  {
+   "brand": "Intex",
+   "name": "India",
+   "device": "yeongdeungpo"
+  }
+ ],
  "INTEX AQUA FulVU e5": [
   {
    "brand": "Intex",
@@ -97767,6 +97867,20 @@
    "device": "SEI500L"
   }
  ],
+ "LLOYD FHD Android TV": [
+  {
+   "brand": "LLOYD",
+   "name": "India",
+   "device": "tamachi"
+  }
+ ],
+ "LLOYD UHD Android TV": [
+  {
+   "brand": "LLOYD",
+   "name": "India",
+   "device": "yeongdeungpo"
+  }
+ ],
  "H11-EEA": [
   {
    "brand": "LNMBBS",
@@ -114321,6 +114435,20 @@
    "device": "A880"
   }
  ],
+ "MITO FHD Android TV": [
+  {
+   "brand": "Mito",
+   "name": "Indonesia",
+   "device": "tamachi"
+  }
+ ],
+ "MITO UHD Android TV": [
+  {
+   "brand": "Mito",
+   "name": "Indonesia",
+   "device": "yeongdeungpo"
+  }
+ ],
  "MITO A17": [
   {
    "brand": "Mito",
@@ -122623,6 +122751,13 @@
    "device": "Smart5Plus"
   }
  ],
+ "NIKAI PRO UHD Android TV": [
+  {
+   "brand": "NIKAI_PRO",
+   "name": "GCC",
+   "device": "yeongdeungpo"
+  }
+ ],
  "Forte_se": [
   {
    "brand": "NOA Mobile",
@@ -126109,6 +126244,13 @@
    "device": "F21"
   }
  ],
+ "ORCA FHD Android TV": [
+  {
+   "brand": "ORCA",
+   "name": "Kuwait",
+   "device": "tamachi"
+  }
+ ],
  "ORCA UHD Android TV": [
   {
    "brand": "ORCA",
@@ -126185,6 +126327,13 @@
    "brand": "OWXMobile",
    "name": "W77",
    "device": "W77"
+  }
+ ],
+ "OXYGEN FHD Android TV": [
+  {
+   "brand": "OXYGEN (in)",
+   "name": "India",
+   "device": "tamachi"
   }
  ],
  "OXYGEN UHD Android TV": [
@@ -126395,6 +126544,13 @@
    "brand": "OneLern",
    "name": "OneLernDB009",
    "device": "OneLernDB009"
+  }
+ ],
+ "OneLernDB010": [
+  {
+   "brand": "OneLern",
+   "name": "OneLernDB010",
+   "device": "OneLernDB010"
   }
  ],
  "ONE A2003": [
@@ -127158,6 +127314,11 @@
   {
    "brand": "Umidigi",
    "name": "A11",
+   "device": "A11"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "A11 EEA",
    "device": "A11"
   }
  ],
@@ -131745,6 +131906,13 @@
    "brand": "Packard Bell",
    "name": "DAYTONA-G12",
    "device": "DAYTONA-G12"
+  }
+ ],
+ "INTERLAGOS-T32": [
+  {
+   "brand": "Packard Bell",
+   "name": "INTERLAGOS-T32",
+   "device": "INTERLAGOS-T32"
   }
  ],
  "M10400": [
@@ -143761,6 +143929,13 @@
    "device": "RX3503"
   }
  ],
+ "RX4559": [
+  {
+   "brand": "Red-X",
+   "name": "RX4559",
+   "device": "RED-X_RX4559"
+  }
+ ],
  "RX4618": [
   {
    "brand": "Red-X",
@@ -145391,6 +145566,20 @@
    "brand": "SARL WISE TECHNOLOGIE",
    "name": "Wise_Tech_Wifi",
    "device": "Wise_Tech_Wifi"
+  }
+ ],
+ "SCHNEIDER FHD Android TV": [
+  {
+   "brand": "SCHNEIDER",
+   "name": "France",
+   "device": "tamachi"
+  }
+ ],
+ "SCHNEIDER UHD Android TV": [
+  {
+   "brand": "SCHNEIDER",
+   "name": "France",
+   "device": "yeongdeungpo"
   }
  ],
  "SCHNEIDER 4K Android TV": [
@@ -200965,6 +201154,20 @@
    "device": "Willfon_Pad_02"
   }
  ],
+ "WILLETT FHD Android TV": [
+  {
+   "brand": "WILLETT",
+   "name": "India",
+   "device": "tamachi"
+  }
+ ],
+ "WILLETT UHD Android TV": [
+  {
+   "brand": "WILLETT",
+   "name": "India",
+   "device": "yeongdeungpo"
+  }
+ ],
  "Kishi-001": [
   {
    "brand": "WILLKOTECH",
@@ -201019,6 +201222,18 @@
    "brand": "Waf",
    "name": "THMTKAW01216_eea",
    "device": "THMTKAW01216"
+  }
+ ],
+ "WALTON Android TV": [
+  {
+   "brand": "Walton",
+   "name": "Bangladesh and EU",
+   "device": "tamachi"
+  },
+  {
+   "brand": "Walton",
+   "name": "Bangladesh and EU",
+   "device": "yeongdeungpo"
   }
  ],
  "LT750": [

@@ -6538,6 +6538,68 @@
    "model": "Zoom"
   }
  ],
+ "India": [
+  {
+   "brand": "AGE (in)",
+   "device": "tamachi",
+   "model": "AGE FHD Android TV"
+  },
+  {
+   "brand": "AGE (in)",
+   "device": "yeongdeungpo",
+   "model": "AGE UHD Android TV"
+  },
+  {
+   "brand": "Gionee",
+   "device": "F205_Pro",
+   "model": "GIONEE F205 Pro"
+  },
+  {
+   "brand": "Haier",
+   "device": "nippori",
+   "model": "MAGELITE Android TV 2K"
+  },
+  {
+   "brand": "Intex",
+   "device": "tamachi",
+   "model": "INTEX FHD Android TV"
+  },
+  {
+   "brand": "Intex",
+   "device": "yeongdeungpo",
+   "model": "INTEX UHD Android TV"
+  },
+  {
+   "brand": "LLOYD",
+   "device": "tamachi",
+   "model": "LLOYD FHD Android TV"
+  },
+  {
+   "brand": "LLOYD",
+   "device": "yeongdeungpo",
+   "model": "LLOYD UHD Android TV"
+  },
+  {
+   "brand": "OXYGEN (in)",
+   "device": "tamachi",
+   "model": "OXYGEN FHD Android TV"
+  },
+  {
+   "brand": "OXYGEN (in)",
+   "device": "yeongdeungpo",
+   "model": "OXYGEN UHD Android TV"
+  },
+  {
+   "brand": "WILLETT",
+   "device": "tamachi",
+   "model": "WILLETT FHD Android TV"
+  },
+  {
+   "brand": "WILLETT",
+   "device": "yeongdeungpo",
+   "model": "WILLETT UHD Android TV"
+  }
+ ],
  "ADT1012L": [
   {
    "brand": "AIDATA",
@@ -6564,6 +6626,33 @@
    "brand": "AIDATA",
    "device": "ADT_1061",
    "model": "ADT_1061"
+  }
+ ],
+ "Pakistan": [
+  {
+   "brand": "AKIRA",
+   "device": "tamachi",
+   "model": "AKIRA FHD Android TV"
+  },
+  {
+   "brand": "AKIRA",
+   "device": "yeongdeungpo",
+   "model": "AKIRA UHD Android TV"
+  },
+  {
+   "brand": "MULTYNET",
+   "device": "tamachi",
+   "model": "MULTYNET FHD Android TV"
+  },
+  {
+   "brand": "MULTYNET",
+   "device": "yeongdeungpo",
+   "model": "MULTYNET UHD Android TV"
+  },
+  {
+   "brand": "QMobile",
+   "device": "A1_sprout",
+   "model": "QMobile A1"
   }
  ],
  "AKOR": [
@@ -9099,6 +9188,11 @@
   },
   {
    "brand": "LUCOMS",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "LUCOMS",
    "device": "R2",
    "model": "ATV R2"
   },
@@ -10149,6 +10243,11 @@
    "brand": "Advan digital",
    "device": "ADVAN_TAB_10",
    "model": "1010"
+  },
+  {
+   "brand": "Cubot",
+   "device": "TAB_10",
+   "model": "TAB 10"
   }
  ],
  "TAB 7": [
@@ -24250,6 +24349,16 @@
    "model": "EKO Android TV 2K"
   },
   {
+   "brand": "EKO",
+   "device": "tamachi",
+   "model": "EKO Android TV"
+  },
+  {
+   "brand": "EKO",
+   "device": "yeongdeungpo",
+   "model": "EKO Android TV"
+  },
+  {
    "brand": "Elitelux",
    "device": "yeongdeungpo",
    "model": "AiPlus4K"
@@ -26947,8 +27056,18 @@
   },
   {
    "brand": "DIAMANT",
+   "device": "tamachi",
+   "model": "DIAMANT Android TV"
+  },
+  {
+   "brand": "DIAMANT",
    "device": "yeongdeungpo",
    "model": "DIAMANT Android TV"
+  },
+  {
+   "brand": "HORIZON",
+   "device": "tamachi",
+   "model": "HORIZON Android TV"
   },
   {
    "brand": "HORIZON",
@@ -30641,6 +30760,11 @@
    "brand": "Megacable",
    "device": "B866V2_ZTE",
    "model": "Xview+"
+  },
+  {
+   "brand": "RCA",
+   "device": "yeongdeungpo",
+   "model": "AiPlus4K"
   }
  ],
  "USA": [
@@ -36280,6 +36404,16 @@
    "model": "JVC 4K Android TV"
   },
   {
+   "brand": "SCHNEIDER",
+   "device": "tamachi",
+   "model": "SCHNEIDER FHD Android TV"
+  },
+  {
+   "brand": "SCHNEIDER",
+   "device": "yeongdeungpo",
+   "model": "SCHNEIDER UHD Android TV"
+  },
+  {
    "brand": "Smart-Tech TV",
    "device": "tamachi",
    "model": "AiPlus2K"
@@ -39095,6 +39229,43 @@
    "brand": "D-Tech",
    "device": "LM_01",
    "model": "LM-01"
+  }
+ ],
+ "Vietnam": [
+  {
+   "brand": "DAIICHI",
+   "device": "tamachi",
+   "model": "Daiichi FHD Android TV"
+  },
+  {
+   "brand": "DAIICHI",
+   "device": "yeongdeungpo",
+   "model": "Daiichi UHD Android TV"
+  },
+  {
+   "brand": "Erito",
+   "device": "samseong",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "SANCO",
+   "device": "tamachi",
+   "model": "SANCO Android TV"
+  },
+  {
+   "brand": "SANCO",
+   "device": "yeongdeungpo",
+   "model": "SANCO Android TV"
+  },
+  {
+   "brand": "UBCtv",
+   "device": "tamachi",
+   "model": "UBC Android TV"
+  },
+  {
+   "brand": "UBCtv",
+   "device": "yeongdeungpo",
+   "model": "UBC Android TV"
   }
  ],
  "ACCENT SURF 1000": [
@@ -48126,33 +48297,6 @@
    "model": "V570_BIG_BEN"
   }
  ],
- "Vietnam": [
-  {
-   "brand": "Erito",
-   "device": "samseong",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "SANCO",
-   "device": "tamachi",
-   "model": "SANCO Android TV"
-  },
-  {
-   "brand": "SANCO",
-   "device": "yeongdeungpo",
-   "model": "SANCO Android TV"
-  },
-  {
-   "brand": "UBCtv",
-   "device": "tamachi",
-   "model": "UBC Android TV"
-  },
-  {
-   "brand": "UBCtv",
-   "device": "yeongdeungpo",
-   "model": "UBC Android TV"
-  }
- ],
  "Essential": [
   {
    "brand": "Essential Products",
@@ -56194,23 +56338,6 @@
    "model": "Gtel_X5pro"
   }
  ],
- "India": [
-  {
-   "brand": "Gionee",
-   "device": "F205_Pro",
-   "model": "GIONEE F205 Pro"
-  },
-  {
-   "brand": "Haier",
-   "device": "nippori",
-   "model": "MAGELITE Android TV 2K"
-  },
-  {
-   "brand": "OXYGEN (in)",
-   "device": "yeongdeungpo",
-   "model": "OXYGEN UHD Android TV"
-  }
- ],
  "M2": [
   {
    "brand": "Gionee",
@@ -57748,6 +57875,11 @@
   },
   {
    "brand": "Reeder",
+   "device": "P10",
+   "model": "P10"
+  },
+  {
+   "brand": "Vankyo",
    "device": "P10",
    "model": "P10"
   },
@@ -107994,23 +108126,6 @@
    "model": "mu6"
   }
  ],
- "Pakistan": [
-  {
-   "brand": "MULTYNET",
-   "device": "tamachi",
-   "model": "MULTYNET FHD Android TV"
-  },
-  {
-   "brand": "MULTYNET",
-   "device": "yeongdeungpo",
-   "model": "MULTYNET UHD Android TV"
-  },
-  {
-   "brand": "QMobile",
-   "device": "A1_sprout",
-   "model": "QMobile A1"
-  }
- ],
  "xtreme": [
   {
    "brand": "Mach Speed",
@@ -112715,6 +112830,18 @@
    "brand": "ZTE",
    "device": "ZTE-A880",
    "model": "ZTE A880"
+  }
+ ],
+ "Indonesia": [
+  {
+   "brand": "Mito",
+   "device": "tamachi",
+   "model": "MITO FHD Android TV"
+  },
+  {
+   "brand": "Mito",
+   "device": "yeongdeungpo",
+   "model": "MITO UHD Android TV"
   }
  ],
  "MITO A17": [
@@ -120328,6 +120455,13 @@
    "model": "Smart5Plus"
   }
  ],
+ "GCC": [
+  {
+   "brand": "NIKAI_PRO",
+   "device": "yeongdeungpo",
+   "model": "NIKAI PRO UHD Android TV"
+  }
+ ],
  "Forte_se": [
   {
    "brand": "NOA Mobile",
@@ -123721,6 +123855,11 @@
  "Kuwait": [
   {
    "brand": "ORCA",
+   "device": "tamachi",
+   "model": "ORCA FHD Android TV"
+  },
+  {
+   "brand": "ORCA",
    "device": "yeongdeungpo",
    "model": "ORCA UHD Android TV"
   }
@@ -123993,6 +124132,13 @@
    "brand": "OneLern",
    "device": "OneLernDB009",
    "model": "OneLernDB009"
+  }
+ ],
+ "OneLernDB010": [
+  {
+   "brand": "OneLern",
+   "device": "OneLernDB010",
+   "model": "OneLernDB010"
   }
  ],
  "2": [
@@ -128906,6 +129052,13 @@
    "brand": "Packard Bell",
    "device": "DAYTONA-G12",
    "model": "DAYTONA-G12"
+  }
+ ],
+ "INTERLAGOS-T32": [
+  {
+   "brand": "Packard Bell",
+   "device": "INTERLAGOS-T32",
+   "model": "INTERLAGOS-T32"
   }
  ],
  "M10400": [
@@ -140678,6 +140831,13 @@
    "brand": "Red-X",
    "device": "RX3503",
    "model": "RX3503"
+  }
+ ],
+ "RX4559": [
+  {
+   "brand": "Red-X",
+   "device": "RED-X_RX4559",
+   "model": "RX4559"
   }
  ],
  "RX4618": [
@@ -183247,6 +183407,13 @@
    "model": "Visionbook_10Q_Pro"
   }
  ],
+ "A11 EEA": [
+  {
+   "brand": "Umidigi",
+   "device": "A11",
+   "model": "A11"
+  }
+ ],
  "A3S": [
   {
    "brand": "Umidigi",
@@ -190777,6 +190944,18 @@
    "brand": "Waf",
    "device": "THMTKAW01216",
    "model": "Surftab WAF"
+  }
+ ],
+ "Bangladesh and EU": [
+  {
+   "brand": "Walton",
+   "device": "tamachi",
+   "model": "WALTON Android TV"
+  },
+  {
+   "brand": "Walton",
+   "device": "yeongdeungpo",
+   "model": "WALTON Android TV"
   }
  ],
  "LT750": [

@@ -474,6 +474,18 @@
    "model": "Zoom"
   }
  ],
+ "AGE (in)": [
+  {
+   "device": "tamachi",
+   "name": "India",
+   "model": "AGE FHD Android TV"
+  },
+  {
+   "device": "yeongdeungpo",
+   "name": "India",
+   "model": "AGE UHD Android TV"
+  }
+ ],
  "AIDATA": [
   {
    "device": "ADT1012L",
@@ -494,6 +506,18 @@
    "device": "ADT_1061",
    "name": "ADT_1061",
    "model": "ADT_1061"
+  }
+ ],
+ "AKIRA": [
+  {
+   "device": "tamachi",
+   "name": "Pakistan",
+   "model": "AKIRA FHD Android TV"
+  },
+  {
+   "device": "yeongdeungpo",
+   "name": "Pakistan",
+   "model": "AKIRA UHD Android TV"
   }
  ],
  "AKOR": [
@@ -22830,6 +22854,11 @@
    "model": "RAINBOW"
   },
   {
+   "device": "TAB_10",
+   "name": "TAB 10",
+   "model": "TAB 10"
+  },
+  {
    "device": "X19",
    "name": "X19",
    "model": "X19"
@@ -22991,6 +23020,18 @@
    "device": "LM_01",
    "name": "LM-01",
    "model": "LM-01"
+  }
+ ],
+ "DAIICHI": [
+  {
+   "device": "tamachi",
+   "name": "Vietnam",
+   "model": "Daiichi FHD Android TV"
+  },
+  {
+   "device": "yeongdeungpo",
+   "name": "Vietnam",
+   "model": "Daiichi UHD Android TV"
   }
  ],
  "DBM Maroc": [
@@ -23928,6 +23969,11 @@
   }
  ],
  "DIAMANT": [
+  {
+   "device": "tamachi",
+   "name": "EU",
+   "model": "DIAMANT Android TV"
+  },
   {
    "device": "yeongdeungpo",
    "name": "EU",
@@ -27862,6 +27908,16 @@
    "device": "nippori",
    "name": "Australia",
    "model": "EKO Android TV 2K"
+  },
+  {
+   "device": "tamachi",
+   "name": "Australia",
+   "model": "EKO Android TV"
+  },
+  {
+   "device": "yeongdeungpo",
+   "name": "Australia",
+   "model": "EKO Android TV"
   },
   {
    "device": "bangbae",
@@ -37252,6 +37308,11 @@
   }
  ],
  "HORIZON": [
+  {
+   "device": "tamachi",
+   "name": "EU",
+   "model": "HORIZON Android TV"
+  },
   {
    "device": "yeongdeungpo",
    "name": "EU",
@@ -59046,6 +59107,16 @@
    "model": "IV0318ND"
   },
   {
+   "device": "tamachi",
+   "name": "India",
+   "model": "INTEX FHD Android TV"
+  },
+  {
+   "device": "yeongdeungpo",
+   "name": "India",
+   "model": "INTEX UHD Android TV"
+  },
+  {
    "device": "AQUA_FulVU_e5",
    "name": "Indie 22",
    "model": "INTEX AQUA FulVU e5"
@@ -71961,6 +72032,16 @@
    "device": "R2",
    "name": "Android TV",
    "model": "ATV R2"
+  },
+  {
+   "device": "tamachi",
+   "name": "India",
+   "model": "LLOYD FHD Android TV"
+  },
+  {
+   "device": "yeongdeungpo",
+   "name": "India",
+   "model": "LLOYD UHD Android TV"
   }
  ],
  "LNMBBS": [
@@ -72162,6 +72243,11 @@
   }
  ],
  "LUCOMS": [
+  {
+   "device": "R1",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
   {
    "device": "R2",
    "name": "Android TV",
@@ -84702,6 +84788,16 @@
    "model": "MITO A880"
   },
   {
+   "device": "tamachi",
+   "name": "Indonesia",
+   "model": "MITO FHD Android TV"
+  },
+  {
+   "device": "yeongdeungpo",
+   "name": "Indonesia",
+   "model": "MITO UHD Android TV"
+  },
+  {
    "device": "MITO_A17",
    "name": "MITO A17",
    "model": "MITO A17"
@@ -91231,6 +91327,13 @@
    "model": "Smart5Plus"
   }
  ],
+ "NIKAI_PRO": [
+  {
+   "device": "yeongdeungpo",
+   "name": "GCC",
+   "model": "NIKAI PRO UHD Android TV"
+  }
+ ],
  "NOA Mobile": [
   {
    "device": "Forte_se",
@@ -94086,6 +94189,11 @@
  ],
  "ORCA": [
   {
+   "device": "tamachi",
+   "name": "Kuwait",
+   "model": "ORCA FHD Android TV"
+  },
+  {
    "device": "yeongdeungpo",
    "name": "Kuwait",
    "model": "ORCA UHD Android TV"
@@ -94184,6 +94292,11 @@
   }
  ],
  "OXYGEN (in)": [
+  {
+   "device": "tamachi",
+   "name": "India",
+   "model": "OXYGEN FHD Android TV"
+  },
   {
    "device": "yeongdeungpo",
    "name": "India",
@@ -94421,6 +94534,11 @@
    "device": "OneLernDB009",
    "name": "OneLernDB009",
    "model": "OneLernDB009"
+  },
+  {
+   "device": "OneLernDB010",
+   "name": "OneLernDB010",
+   "model": "OneLernDB010"
   }
  ],
  "OnePlus": [
@@ -98554,6 +98672,11 @@
    "device": "DAYTONA-G12",
    "name": "DAYTONA-G12",
    "model": "DAYTONA-G12"
+  },
+  {
+   "device": "INTERLAGOS-T32",
+   "name": "INTERLAGOS-T32",
+   "model": "INTERLAGOS-T32"
   },
   {
    "device": "M10400",
@@ -106694,6 +106817,11 @@
    "model": "CT9973W43M"
   },
   {
+   "device": "yeongdeungpo",
+   "name": "Mexico",
+   "model": "AiPlus4K"
+  },
+  {
    "device": "RCT6203W46L",
    "name": "Pro10 Edition II",
    "model": "RCT6203W46L"
@@ -107959,6 +108087,11 @@
    "device": "RX3503",
    "name": "RX3503",
    "model": "RX3503"
+  },
+  {
+   "device": "RED-X_RX4559",
+   "name": "RX4559",
+   "model": "RX4559"
   },
   {
    "device": "RX4618",
@@ -109315,6 +109448,16 @@
    "device": "R2",
    "name": "Android TV",
    "model": "ATV R2"
+  },
+  {
+   "device": "tamachi",
+   "name": "France",
+   "model": "SCHNEIDER FHD Android TV"
+  },
+  {
+   "device": "yeongdeungpo",
+   "name": "France",
+   "model": "SCHNEIDER UHD Android TV"
   },
   {
    "device": "bangbae",
@@ -145877,6 +146020,11 @@
    "model": "A11"
   },
   {
+   "device": "A11",
+   "name": "A11 EEA",
+   "model": "A11"
+  },
+  {
    "device": "A3",
    "name": "A3",
    "model": "A3"
@@ -146881,6 +147029,11 @@
   }
  ],
  "Vankyo": [
+  {
+   "device": "P10",
+   "name": "P10",
+   "model": "P10"
+  },
   {
    "device": "P31",
    "name": "P31",
@@ -152044,6 +152197,18 @@
    "model": "Willfon_Pad_02"
   }
  ],
+ "WILLETT": [
+  {
+   "device": "tamachi",
+   "name": "India",
+   "model": "WILLETT FHD Android TV"
+  },
+  {
+   "device": "yeongdeungpo",
+   "name": "India",
+   "model": "WILLETT UHD Android TV"
+  }
+ ],
  "WILLKOTECH": [
   {
    "device": "Kishi-001",
@@ -152106,6 +152271,16 @@
    "device": "osaki",
    "name": "32FD1",
    "model": "2K AI Smart TV"
+  },
+  {
+   "device": "tamachi",
+   "name": "Bangladesh and EU",
+   "model": "WALTON Android TV"
+  },
+  {
+   "device": "yeongdeungpo",
+   "name": "Bangladesh and EU",
+   "model": "WALTON Android TV"
   },
   {
    "device": "LT750",
