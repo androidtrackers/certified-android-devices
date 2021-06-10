@@ -80234,6 +80234,13 @@
    "model": "S501A"
   }
  ],
+ "S501Pro": [
+  {
+   "brand": "Ipro",
+   "name": "S501Pro",
+   "model": "S501 Plus"
+  }
+ ],
  "WePad": [
   {
    "brand": "Ipro",
@@ -123692,6 +123699,13 @@
    "model": "ONEPLUS A3000"
   }
  ],
+ "Cebu": [
+  {
+   "brand": "OnePlus",
+   "name": "C00",
+   "model": "C00"
+  }
+ ],
  "A0001": [
   {
    "brand": "OnePlus",
@@ -140322,6 +140336,13 @@
    "brand": "Realme",
    "name": "真我GT Neo",
    "model": "RMX3031"
+  }
+ ],
+ "RE811C": [
+  {
+   "brand": "Realme",
+   "name": "真我Q3 Pro 狂欢版",
+   "model": "RMX3142"
   }
  ],
  "RE5081": [
@@ -182199,6 +182220,18 @@
    "model": "TECNO KF6n"
   }
  ],
+ "TECNO-KF6p": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 7",
+   "model": "TECNO KF6p"
+  },
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 7T",
+   "model": "TECNO KF6p"
+  }
+ ],
  "TECNO-PR651": [
   {
    "brand": "Tecno",
@@ -182218,13 +182251,6 @@
    "brand": "Tecno",
    "name": "TECNO SPARK 7P",
    "model": "TECNO KF7j"
-  }
- ],
- "TECNO-KF6p": [
-  {
-   "brand": "Tecno",
-   "name": "TECNO SPARK 7T",
-   "model": "TECNO KF6p"
   }
  ],
  "TECNO-KC1": [

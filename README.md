@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-06-09
+Last sync is 2021-06-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11547,6 +11547,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ipro|S401A|S401A|S401A|
 |Ipro|S501|S501|S501|
 |Ipro|S501A|S501A|S501A|
+|Ipro|S501Pro|S501Pro|S501 Plus|
 |Ipro|WIN|WIN|WIN|
 |Ipro|WePad|WePad|WePad|
 |Ipro|X1|IPRO_X1|X1|
@@ -18391,6 +18392,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OneLern|OneLernDB010|OneLernDB010|OneLernDB010|
 |OnePlus|2|OnePlus2|ONE A2003|
 |OnePlus|3|OnePlus3|ONEPLUS A3000|
+|OnePlus|C00|Cebu|C00|
 |OnePlus|One|A0001|A0001|
 |OnePlus|One|A0001|One|
 |OnePlus|OnePlus|OnePlus|ONE E1003|
@@ -21024,6 +21026,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|真我 X7 pro至尊版|RMX3116CN|RMX3116|
 |Realme|真我GT|RMX2202CN|RMX2202|
 |Realme|真我GT Neo|RMX3031CN|RMX3031|
+|Realme|真我Q3 Pro 狂欢版|RE811C|RMX3142|
 |Realme|真我V13 5G|RE5081|RMX3041|
 |Realme|真我V13 5G|RE5081|RMX3042|
 |Realme|真我V13 5G|RE5081|RMX3043|
@@ -27878,6 +27881,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 7|TECNO-KF6k|TECNO KF6k|
 |Tecno|TECNO SPARK 7|TECNO-KF6m|TECNO KF6m|
 |Tecno|TECNO SPARK 7|TECNO-KF6n|TECNO KF6n|
+|Tecno|TECNO SPARK 7|TECNO-KF6p|TECNO KF6p|
 |Tecno|TECNO SPARK 7|TECNO-PR651|TECNO PR651|
 |Tecno|TECNO SPARK 7 Pro|TECNO-KF8|TECNO KF8|
 |Tecno|TECNO SPARK 7P|TECNO-KF7j|TECNO KF7j|

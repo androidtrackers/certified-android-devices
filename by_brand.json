@@ -59425,6 +59425,11 @@
    "model": "S501A"
   },
   {
+   "device": "S501Pro",
+   "name": "S501Pro",
+   "model": "S501 Plus"
+  },
+  {
    "device": "WIN",
    "name": "WIN",
    "model": "WIN"
@@ -94553,6 +94558,11 @@
    "model": "ONEPLUS A3000"
   },
   {
+   "device": "Cebu",
+   "name": "C00",
+   "model": "C00"
+  },
+  {
    "device": "A0001",
    "name": "One",
    "model": "A0001"
@@ -108012,6 +108022,11 @@
    "device": "RMX3031CN",
    "name": "真我GT Neo",
    "model": "RMX3031"
+  },
+  {
+   "device": "RE811C",
+   "name": "真我Q3 Pro 狂欢版",
+   "model": "RMX3142"
   },
   {
    "device": "RE5081",
@@ -142860,6 +142875,11 @@
    "device": "TECNO-KF6n",
    "name": "TECNO SPARK 7",
    "model": "TECNO KF6n"
+  },
+  {
+   "device": "TECNO-KF6p",
+   "name": "TECNO SPARK 7",
+   "model": "TECNO KF6p"
   },
   {
    "device": "TECNO-PR651",

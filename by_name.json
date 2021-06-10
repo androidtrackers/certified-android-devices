@@ -83456,6 +83456,13 @@
    "model": "S501A"
   }
  ],
+ "S501Pro": [
+  {
+   "brand": "Ipro",
+   "device": "S501Pro",
+   "model": "S501 Plus"
+  }
+ ],
  "WePad": [
   {
    "brand": "Ipro",
@@ -124153,6 +124160,13 @@
    "model": "2"
   }
  ],
+ "C00": [
+  {
+   "brand": "OnePlus",
+   "device": "Cebu",
+   "model": "C00"
+  }
+ ],
  "OnePlus": [
   {
    "brand": "OnePlus",
@@ -140744,6 +140758,13 @@
    "brand": "Realme",
    "device": "RMX3031CN",
    "model": "RMX3031"
+  }
+ ],
+ "真我Q3 Pro 狂欢版": [
+  {
+   "brand": "Realme",
+   "device": "RE811C",
+   "model": "RMX3142"
   }
  ],
  "真我V13 5G": [
@@ -179748,6 +179769,11 @@
    "brand": "Tecno",
    "device": "TECNO-KF6n",
    "model": "TECNO KF6n"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KF6p",
+   "model": "TECNO KF6p"
   },
   {
    "brand": "Tecno",
