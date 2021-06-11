@@ -5468,6 +5468,11 @@
    "model": "Phat6"
   },
   {
+   "device": "Tab1066",
+   "name": "Tab1066",
+   "model": "Tab1066"
+  },
+  {
    "device": "AprixTab64",
    "name": "Tab64",
    "model": "Aprix Tab64"
@@ -11641,6 +11646,21 @@
    "device": "B60Pro_MV03",
    "name": "B60Pro_MV03",
    "model": "B60Pro_MV03"
+  },
+  {
+   "device": "Bmobile_BL50_TG06",
+   "name": "BL50",
+   "model": "BL50"
+  },
+  {
+   "device": "Bmobile_BL50_TG07",
+   "name": "BL50",
+   "model": "BL50"
+  },
+  {
+   "device": "Bmobile_BL50_TG09",
+   "name": "BL50",
+   "model": "BL50"
   },
   {
    "device": "Bmobile_BL54Pro",
@@ -22747,6 +22767,11 @@
    "device": "KING_KONG_CS",
    "name": "KING KONG CS",
    "model": "KING KONG CS"
+  },
+  {
+   "device": "KINGKONG_5",
+   "name": "KINGKONG 5",
+   "model": "KINGKONG 5"
   },
   {
    "device": "KINGKONG_5_Pro",
@@ -89620,6 +89645,11 @@
    "model": "Multilaser_G_Max"
   },
   {
+   "device": "Multilaser_GMAX_2_64",
+   "name": "Multilaser G Max 2",
+   "model": "Multilaser_GMAX_2"
+  },
+  {
    "device": "Multilaser_G_Pro",
    "name": "Multilaser G Pro",
    "model": "Multilaser_G_Pro"
@@ -94962,6 +94992,11 @@
    "device": "ONA19TB007",
    "name": "ONA19TB007",
    "model": "ONA19TB007"
+  },
+  {
+   "device": "stephen",
+   "name": "Onn 2k TV stick",
+   "model": "Onn 2k TV stick"
   },
   {
    "device": "TBBVNC100005207",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-06-10
+Last sync is 2021-06-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1052,6 +1052,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aprix|Aprix_Tab64_T2|Tab64_T2|Tab64_T|
 |Aprix|Phat6|Aprix_Phat6|Aprix_Phat6|
 |Aprix|Phat6|Phat6|Phat6|
+|Aprix|Tab1066|Tab1066|Tab1066|
 |Aprix|Tab64|AprixTab64|Aprix Tab64|
 |Aprix|Tab64_T|Tab64_T|Tab64_T|
 |Aprix|Tab8ii|Tab8ii|Tab8ii|
@@ -2263,6 +2264,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|B55|B55|B55|
 |BMobile|B60Pro_DG|Bmobile_B60Pro_DG|B60Pro_DG|
 |BMobile|B60Pro_MV03|B60Pro_MV03|B60Pro_MV03|
+|BMobile|BL50|Bmobile_BL50_TG06|BL50|
+|BMobile|BL50|Bmobile_BL50_TG07|BL50|
+|BMobile|BL50|Bmobile_BL50_TG09|BL50|
 |BMobile|BL54Pro|Bmobile_BL54Pro|BL54Pro|
 |BMobile|BL54Pro_MV12|Bmobile_BL54Pro|BL54Pro|
 |BMobile|BL54_PRO_TG05|Bmobile_BL54_PRO_TG05|BL54_PRO|
@@ -4397,6 +4401,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|J7|J7|J7|
 |Cubot|J8|J8|J8|
 |Cubot|KING KONG CS|KING_KONG_CS|KING KONG CS|
+|Cubot|KINGKONG 5|KINGKONG_5|KINGKONG 5|
 |Cubot|KINGKONG 5 Pro|KINGKONG_5_Pro|KINGKONG 5 Pro|
 |Cubot|KINGKONG MINI2|KINGKONG_MINI2|KINGKONG MINI2|
 |Cubot|KINGKONG_MINI|KINGKONG_MINI|KINGKONG_MINI|
@@ -17454,6 +17459,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|Multilaser F Pro 2|Multilaser_F_Pro_2|Multilaser_F_Pro_2|
 |Multilaser|Multilaser G|Multilaser_G|Multilaser_G|
 |Multilaser|Multilaser G Max|Multilaser_G_Max|Multilaser_G_Max|
+|Multilaser|Multilaser G Max 2|Multilaser_GMAX_2_64|Multilaser_GMAX_2|
 |Multilaser|Multilaser G Pro|Multilaser_G_Pro|Multilaser_G_Pro|
 |Multilaser|Multilaser G Pro 2|Multilaser_GPRO2|Multilaser_GPRO2|
 |Multilaser|Multilaser G VIVO|Multilaser_G_VIVO|Multilaser_G_VIVO|
@@ -18472,6 +18478,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Onn (Walmart)|ONA19TB002|ONA19TB002|ONA19TB002|
 |Onn (Walmart)|ONA19TB003|ONA19TB003|ONA19TB003|
 |Onn (Walmart)|ONA19TB007|ONA19TB007|ONA19TB007|
+|Onn (Walmart)|Onn 2k TV stick|stephen|Onn 2k TV stick|
 |Onn (Walmart)|TBBVNC100005207|TBBVNC100005207|TBBVNC100005207|
 |Onn (Walmart)|TBBVNC100005208|TBBVNC100005208|TBBVNC100005208|
 |Onn (Walmart)|TBBVNC100005209|TBBVNC100005209|TBBVNC100005209|

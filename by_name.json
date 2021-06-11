@@ -14182,6 +14182,13 @@
    "model": "Phat6"
   }
  ],
+ "Tab1066": [
+  {
+   "brand": "Aprix",
+   "device": "Tab1066",
+   "model": "Tab1066"
+  }
+ ],
  "Tab64": [
   {
    "brand": "Aprix",
@@ -22584,6 +22591,23 @@
    "brand": "BMobile",
    "device": "B60Pro_MV03",
    "model": "B60Pro_MV03"
+  }
+ ],
+ "BL50": [
+  {
+   "brand": "BMobile",
+   "device": "Bmobile_BL50_TG06",
+   "model": "BL50"
+  },
+  {
+   "brand": "BMobile",
+   "device": "Bmobile_BL50_TG07",
+   "model": "BL50"
+  },
+  {
+   "brand": "BMobile",
+   "device": "Bmobile_BL50_TG09",
+   "model": "BL50"
   }
  ],
  "BL54Pro": [
@@ -38780,6 +38804,13 @@
    "brand": "Cubot",
    "device": "KING_KONG_CS",
    "model": "KING KONG CS"
+  }
+ ],
+ "KINGKONG 5": [
+  {
+   "brand": "Cubot",
+   "device": "KINGKONG_5",
+   "model": "KINGKONG 5"
   }
  ],
  "KINGKONG 5 Pro": [
@@ -118371,6 +118402,13 @@
    "model": "Multilaser_G_Max"
   }
  ],
+ "Multilaser G Max 2": [
+  {
+   "brand": "Multilaser",
+   "device": "Multilaser_GMAX_2_64",
+   "model": "Multilaser_GMAX_2"
+  }
+ ],
  "Multilaser G Pro": [
   {
    "brand": "Multilaser",
@@ -124652,6 +124690,13 @@
    "brand": "Onn (Walmart)",
    "device": "ONA19TB007",
    "model": "ONA19TB007"
+  }
+ ],
+ "Onn 2k TV stick": [
+  {
+   "brand": "Onn (Walmart)",
+   "device": "stephen",
+   "model": "Onn 2k TV stick"
   }
  ],
  "TBBVNC100005207": [
