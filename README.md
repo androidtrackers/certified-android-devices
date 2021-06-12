@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-06-11
+Last sync is 2021-06-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -21456,6 +21456,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SSB PHONES|SSB5118R_GO|SSB5118R_GO|SSB5118R_GO|
 |SSB PHONES|SSB5518|SSB5518|SSB5518|
 |SSB PHONES|SSB554R|SSB554R|SSB554R|
+|SSmooth|Smooth_5|SSmooth_5|Smooth 5.0|
 |STF Mobile|AERIAL|STFAERIAL|AERIAL|
 |STF Mobile|AERIAL PLUS|AERIAL|AERIAL PLUS|
 |STF Mobile|AURA|AURA|AURA|
@@ -24952,7 +24953,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smooth|S2_Advance|SSmooth_S2_Advance|S2 Advance|
 |Smooth|Smooth5_5|SSmooth5_5|Smooth 5.5|
 |Smooth|Smooth626|Smooth626|Smooth626|
-|Smooth|Smooth_5|SSmooth_5|Smooth 5.0|
 |Smooth|Smooth_5_HD|SSmooth_5_HD|Smooth 5.0|
 |Snopow|M10|M10|M10|
 |Snopow|ServiceChecKIT|ServiceChecKIT_EEA|ServiceChecKIT_EEA|

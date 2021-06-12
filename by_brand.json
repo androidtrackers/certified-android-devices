@@ -110316,6 +110316,13 @@
    "model": "SSB554R"
   }
  ],
+ "SSmooth": [
+  {
+   "device": "SSmooth_5",
+   "name": "Smooth_5",
+   "model": "Smooth 5.0"
+  }
+ ],
  "STF Mobile": [
   {
    "device": "STFAERIAL",
@@ -127956,11 +127963,6 @@
    "device": "Smooth626",
    "name": "Smooth626",
    "model": "Smooth626"
-  },
-  {
-   "device": "SSmooth_5",
-   "name": "Smooth_5",
-   "model": "Smooth 5.0"
   },
   {
    "device": "SSmooth_5_HD",

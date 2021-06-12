@@ -143000,6 +143000,13 @@
    "model": "SSB554R"
   }
  ],
+ "SSmooth_5": [
+  {
+   "brand": "SSmooth",
+   "name": "Smooth_5",
+   "model": "Smooth 5.0"
+  }
+ ],
  "STFAERIAL": [
   {
    "brand": "STF Mobile",
@@ -165171,13 +165178,6 @@
    "brand": "Smooth",
    "name": "Smooth626",
    "model": "Smooth626"
-  }
- ],
- "SSmooth_5": [
-  {
-   "brand": "Smooth",
-   "name": "Smooth_5",
-   "model": "Smooth 5.0"
   }
  ],
  "SSmooth_5_HD": [

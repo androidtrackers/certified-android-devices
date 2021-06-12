@@ -146616,6 +146616,18 @@
    "device": "SSB554R"
   }
  ],
+ "Smooth 5.0": [
+  {
+   "brand": "SSmooth",
+   "name": "Smooth_5",
+   "device": "SSmooth_5"
+  },
+  {
+   "brand": "Smooth",
+   "name": "Smooth_5_HD",
+   "device": "SSmooth_5_HD"
+  }
+ ],
  "AERIAL": [
   {
    "brand": "STF Mobile",
@@ -170389,18 +170401,6 @@
    "brand": "Smooth",
    "name": "Smooth626",
    "device": "Smooth626"
-  }
- ],
- "Smooth 5.0": [
-  {
-   "brand": "Smooth",
-   "name": "Smooth_5",
-   "device": "SSmooth_5"
-  },
-  {
-   "brand": "Smooth",
-   "name": "Smooth_5_HD",
-   "device": "SSmooth_5_HD"
   }
  ],
  "ServiceChecKIT_EEA": [
