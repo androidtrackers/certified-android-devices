@@ -80152,6 +80152,11 @@
    "model": "ATV R1"
   },
   {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
    "device": "MIDM_737",
    "name": "MIDM_737",
    "model": "MIDM_737"
@@ -102045,6 +102050,11 @@
    "device": "R1",
    "name": "Android TV",
    "model": "ATV R1"
+  },
+  {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
   },
   {
    "device": "BDL0232PR",

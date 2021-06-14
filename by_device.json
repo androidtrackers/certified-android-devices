@@ -5078,6 +5078,11 @@
    "model": "M4_R2"
   },
   {
+   "brand": "MIRAY",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
    "brand": "Master-G",
    "name": "Android TV",
    "model": "ATV R2"
@@ -5106,6 +5111,11 @@
    "brand": "Panasonic",
    "name": "Android TV",
    "model": "PANASONIC TV"
+  },
+  {
+   "brand": "Polaroid",
+   "name": "Android TV",
+   "model": "ATV R2"
   },
   {
    "brand": "RECCO",

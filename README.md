@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-06-13
+Last sync is 2021-06-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -15612,6 +15612,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MILECTRIC|"SPAIN|MOROCCO|PORTUGAL"|
 |MINIX|MINIX NEO T5|DV8553|DV8553|
 |MIRAY|Android TV|R1|ATV R1|
+|MIRAY|Android TV|R2|ATV R2|
 |MIRAY|MIDM_737|MIDM_737|MIDM_737|
 |MIRAY|MIDM_F10|MIDM_F10|MIDM_F10|
 |MIRAY|TPM4G_105|TPM4G_105|TPM4G_105|
@@ -19857,6 +19858,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Polaroid|A7_PTAB735|A7_PTAB735|HS-7DTB39|
 |Polaroid|A9x/PTAB935x|A9xPTAB935x|A9x/PTAB935x|
 |Polaroid|Android TV|R1|ATV R1|
+|Polaroid|Android TV|R2|ATV R2|
 |Polaroid|BDL0232PR|BDL0232PR|BDL0232PR|
 |Polaroid|BDL1064PR001|BDL1064PR001|BDL1064PR001|
 |Polaroid|BDL424|BDL424|BDL424|

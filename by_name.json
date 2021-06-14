@@ -9202,6 +9202,11 @@
    "model": "ATV R1"
   },
   {
+   "brand": "MIRAY",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
    "brand": "Master-G",
    "device": "R1",
    "model": "ATV R1"
@@ -9285,6 +9290,11 @@
    "brand": "Polaroid",
    "device": "R1",
    "model": "ATV R1"
+  },
+  {
+   "brand": "Polaroid",
+   "device": "R2",
+   "model": "ATV R2"
   },
   {
    "brand": "RECCO",
