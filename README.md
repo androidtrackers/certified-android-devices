@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-06-20
+Last sync is 2021-06-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2722,6 +2722,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blacksonic|BS7-BUTTERFLY|BS7-BUTTERFLY|BS7-BUTTERFLY|
 |Blacksonic|BS7-KIDS|BS7-KIDS|BS7-KIDS|
 |Blacksonic|BS9|BS9|BS9|
+|Blackview|A100|A100|A100|
 |Blackview|A20|A20|A20|
 |Blackview|A30-RU|A30-RU|A30-RU|
 |Blackview|A5|A5|A5|
@@ -6711,6 +6712,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ghia|GHIA_AXIS7P|GHIA_AXIS7P|GHIA_AXIS7P|
 |Ghia|GHIA_L1|GHIA_L1|GHIA_L1|
 |Ghia|GHIA_VECTOR_3G|GHIA_VECTOR_3G|GHIA_VECTOR_3G|
+|Ghia|GPND133|GPND133|GPND133|
 |Ghia|GTA7PLUS|GTA7PLUS|GTA7PLUS|
 |Ghia|GTA7WF|GTA7WF|GTA7WF|
 |Ghia|GTAB718|GTAB718|GTAB718|
@@ -17294,7 +17296,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g(9) power|cebu|moto g(9) power|
 |Motorola|moto g10 power|capri|moto g(10) power|
 |Motorola|moto g40 fusion|hanoip|moto g(40) fusion|
-|Motorola|moto g50|ibiza|moto g(50)|
 |Motorola|moto g6 play|jeter|Moto G Play|
 |Motorola|moto g6 play|jeter|moto g(6) play|
 |Motorola|moto g60|hanoip|moto g(60)|
@@ -20976,6 +20977,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|RMX2020|RMX2020|RMX2020|
 |Realme|RMX2040|RMX2040|RMX2040|
 |Realme|realme  8|RMX3085L1|RMX3085|
+|Realme|realme  X7 Max|RMX3031L1|RMX3031|
 |Realme|realme  narzo  30|RMX2156L1|RMX2156|
 |Realme|realme 2 Pro|RMX1801|RMX1801|
 |Realme|realme 3Pro|RMX1851|RMX1851|
@@ -30104,6 +30106,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|Y50|W-K420|W-K420-EEA|
 |Wiko|Y51|W-K211|W-K211-EEA|
 |Wiko|Y51|W-K211|W-K211-OPE|
+|Wiko|Y52|W-K521|W-K521-EEA|
 |Wiko|Y60|W-K510|W-K510-BYT|
 |Wiko|Y60|W-K510|W-K510-EEA|
 |Wiko|Y60|W-K510|W-K510-OPE|
@@ -30324,6 +30327,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |XION|XI_CEU55|XI_CEU55|XI_CEU55|
 |XL Axiata|AX512|DV8252|AX512|
 |XL Axiata|SDN200|lte_siden|SDN200|
+|XL Axiata|Siden - XL Axiata|lte_siden|SDN200|
 |XL Axiata|XL Home Pow|STI6xxx|STI6030|
 |XORO|Megapad_1333|XORO|Megapad_1333|
 |XTRATECH_IGUANAPAD|X8MT16|X8MT16|X8MT16|

@@ -2423,6 +2423,11 @@
    "device": "A100"
   },
   {
+   "brand": "Blackview",
+   "name": "A100",
+   "device": "A100"
+  },
+  {
    "brand": "ZTE",
    "name": "V9",
    "device": "v9"
@@ -49064,6 +49069,13 @@
    "brand": "Ghia",
    "name": "GHIA_VECTOR_3G",
    "device": "GHIA_VECTOR_3G"
+  }
+ ],
+ "GPND133": [
+  {
+   "brand": "Ghia",
+   "name": "GPND133",
+   "device": "GPND133"
   }
  ],
  "GTA7PLUS": [
@@ -119345,11 +119357,6 @@
    "brand": "Motorola",
    "name": "moto g(50)",
    "device": "ibiza"
-  },
-  {
-   "brand": "Motorola",
-   "name": "moto g50",
-   "device": "ibiza"
   }
  ],
  "XT1925-10": [
@@ -143560,6 +143567,18 @@
    "device": "RMX3085L1"
   }
  ],
+ "RMX3031": [
+  {
+   "brand": "Realme",
+   "name": "realme  X7 Max",
+   "device": "RMX3031L1"
+  },
+  {
+   "brand": "Realme",
+   "name": "真我GT Neo",
+   "device": "RMX3031CN"
+  }
+ ],
  "RMX2156": [
   {
    "brand": "Realme",
@@ -144255,13 +144274,6 @@
    "brand": "Realme",
    "name": "真我 X7 pro至尊版",
    "device": "RMX3116CN"
-  }
- ],
- "RMX3031": [
-  {
-   "brand": "Realme",
-   "name": "真我GT Neo",
-   "device": "RMX3031CN"
   }
  ],
  "RMX3142": [
@@ -203944,6 +203956,13 @@
    "device": "W-K211"
   }
  ],
+ "W-K521-EEA": [
+  {
+   "brand": "Wiko",
+   "name": "Y52",
+   "device": "W-K521"
+  }
+ ],
  "W-K510-BYT": [
   {
    "brand": "Wiko",
@@ -205248,6 +205267,11 @@
   {
    "brand": "XL Axiata",
    "name": "SDN200",
+   "device": "lte_siden"
+  },
+  {
+   "brand": "XL Axiata",
+   "name": "Siden - XL Axiata",
    "device": "lte_siden"
   }
  ],

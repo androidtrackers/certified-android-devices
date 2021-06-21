@@ -12851,6 +12851,11 @@
    "brand": "Arima",
    "name": "A100",
    "model": "A100"
+  },
+  {
+   "brand": "Blackview",
+   "name": "A100",
+   "model": "A100"
   }
  ],
  "Benefit_M551": [
@@ -51071,6 +51076,13 @@
    "brand": "Ghia",
    "name": "GHIA_VECTOR_3G",
    "model": "GHIA_VECTOR_3G"
+  }
+ ],
+ "GPND133": [
+  {
+   "brand": "Ghia",
+   "name": "GPND133",
+   "model": "GPND133"
   }
  ],
  "GTA7PLUS": [
@@ -116503,11 +116515,6 @@
    "brand": "Motorola",
    "name": "moto g(50)",
    "model": "moto g(50)"
-  },
-  {
-   "brand": "Motorola",
-   "name": "moto g50",
-   "model": "moto g(50)"
   }
  ],
  "ali": [
@@ -140035,6 +140042,13 @@
    "brand": "Realme",
    "name": "realme 8",
    "model": "RMX3085"
+  }
+ ],
+ "RMX3031L1": [
+  {
+   "brand": "Realme",
+   "name": "realme  X7 Max",
+   "model": "RMX3031"
   }
  ],
  "RMX2156L1": [
@@ -195819,6 +195833,13 @@
    "model": "Wiko U614AS"
   }
  ],
+ "W-K521": [
+  {
+   "brand": "Wiko",
+   "name": "Y52",
+   "model": "W-K521-EEA"
+  }
+ ],
  "W-K510": [
   {
    "brand": "Wiko",
@@ -197060,6 +197081,11 @@
   {
    "brand": "XL Axiata",
    "name": "SDN200",
+   "model": "SDN200"
+  },
+  {
+   "brand": "XL Axiata",
+   "name": "Siden - XL Axiata",
    "model": "SDN200"
   }
  ],

@@ -7693,6 +7693,11 @@
    "brand": "Arima",
    "device": "A100",
    "model": "A100"
+  },
+  {
+   "brand": "Blackview",
+   "device": "A100",
+   "model": "A100"
   }
  ],
  "A101": [
@@ -55092,6 +55097,13 @@
    "brand": "Ghia",
    "device": "GHIA_VECTOR_3G",
    "model": "GHIA_VECTOR_3G"
+  }
+ ],
+ "GPND133": [
+  {
+   "brand": "Ghia",
+   "device": "GPND133",
+   "model": "GPND133"
   }
  ],
  "GTA7PLUS": [
@@ -117351,13 +117363,6 @@
    "model": "moto g(40) fusion"
   }
  ],
- "moto g50": [
-  {
-   "brand": "Motorola",
-   "device": "ibiza",
-   "model": "moto g(50)"
-  }
- ],
  "moto g6 play": [
   {
    "brand": "Motorola",
@@ -140545,6 +140550,13 @@
    "brand": "Realme",
    "device": "RMX3085L1",
    "model": "RMX3085"
+  }
+ ],
+ "realme  X7 Max": [
+  {
+   "brand": "Realme",
+   "device": "RMX3031L1",
+   "model": "RMX3031"
   }
  ],
  "realme  narzo  30": [
@@ -193630,6 +193642,13 @@
    "model": "Wiko U614AS"
   }
  ],
+ "Y52": [
+  {
+   "brand": "Wiko",
+   "device": "W-K521",
+   "model": "W-K521-EEA"
+  }
+ ],
  "Y60": [
   {
    "brand": "Wiko",
@@ -194878,6 +194897,13 @@
   }
  ],
  "SDN200": [
+  {
+   "brand": "XL Axiata",
+   "device": "lte_siden",
+   "model": "SDN200"
+  }
+ ],
+ "Siden - XL Axiata": [
   {
    "brand": "XL Axiata",
    "device": "lte_siden",

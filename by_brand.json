@@ -14032,6 +14032,11 @@
  ],
  "Blackview": [
   {
+   "device": "A100",
+   "name": "A100",
+   "model": "A100"
+  },
+  {
    "device": "A20",
    "name": "A20",
    "model": "A20"
@@ -34905,6 +34910,11 @@
    "device": "GHIA_VECTOR_3G",
    "name": "GHIA_VECTOR_3G",
    "model": "GHIA_VECTOR_3G"
+  },
+  {
+   "device": "GPND133",
+   "name": "GPND133",
+   "model": "GPND133"
   },
   {
    "device": "GTA7PLUS",
@@ -88794,11 +88804,6 @@
    "model": "moto g(40) fusion"
   },
   {
-   "device": "ibiza",
-   "name": "moto g50",
-   "model": "moto g(50)"
-  },
-  {
    "device": "jeter",
    "name": "moto g6 play",
    "model": "Moto G Play"
@@ -107778,6 +107783,11 @@
    "device": "RMX3085L1",
    "name": "realme  8",
    "model": "RMX3085"
+  },
+  {
+   "device": "RMX3031L1",
+   "name": "realme  X7 Max",
+   "model": "RMX3031"
   },
   {
    "device": "RMX2156L1",
@@ -154454,6 +154464,11 @@
    "model": "W-K211-OPE"
   },
   {
+   "device": "W-K521",
+   "name": "Y52",
+   "model": "W-K521-EEA"
+  },
+  {
    "device": "W-K510",
    "name": "Y60",
    "model": "W-K510-BYT"
@@ -155611,6 +155626,11 @@
   {
    "device": "lte_siden",
    "name": "SDN200",
+   "model": "SDN200"
+  },
+  {
+   "device": "lte_siden",
+   "name": "Siden - XL Axiata",
    "model": "SDN200"
   },
   {
