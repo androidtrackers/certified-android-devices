@@ -5325,6 +5325,11 @@
    "model": "FlipkartTV"
   },
   {
+   "brand": "Noblex",
+   "name": "Noblex TV",
+   "model": "Noblex TV"
+  },
+  {
    "brand": "PRISMPLUS",
    "name": "PrismPlus 4K Android TV",
    "model": "PrismPlus 4K Android TV"
@@ -7669,6 +7674,11 @@
    "model": "realme Smart TV"
   },
   {
+   "brand": "Realme",
+   "name": "realme TW Smart TV",
+   "model": "realme TW Smart TV"
+  },
+  {
    "brand": "SWTV",
    "name": "SWTV-20AE-PRO",
    "model": "SWTV-20AE-PRO"
@@ -8788,6 +8798,13 @@
    "brand": "AllView",
    "name": "X7_Soul_Pro_EEA",
    "model": "X7_Soul_Pro"
+  }
+ ],
+ "X8_Soul_Pro": [
+  {
+   "brand": "AllView",
+   "name": "X8 PRO",
+   "model": "X8_Soul_Pro"
   }
  ],
  "X8_Soul_Style": [
@@ -17229,6 +17246,18 @@
    "model": "A40C"
   }
  ],
+ "Azumi_A4PLUS_AC11": [
+  {
+   "brand": "Azumi",
+   "name": "A4PLUS_AC11",
+   "model": "Azumi A4+"
+  },
+  {
+   "brand": "Azumi",
+   "name": "Azumi_A4PLUS_AC11",
+   "model": "Azumi A4+"
+  }
+ ],
  "Azumi_A4v": [
   {
    "brand": "Azumi",
@@ -17500,13 +17529,6 @@
    "brand": "Azumi",
    "name": "Azumi_ V5_ AC05",
    "model": "V5"
-  }
- ],
- "Azumi_A4PLUS_AC11": [
-  {
-   "brand": "Azumi",
-   "name": "Azumi_A4PLUS_AC11",
-   "model": "Azumi A4+"
   }
  ],
  "Azumi_A5_AC15": [
@@ -33278,6 +33300,20 @@
    "brand": "Coolpad",
    "name": "Cool 10A",
    "model": "Coolpad_2041"
+  }
+ ],
+ "Coolpad_2041_S0": [
+  {
+   "brand": "Coolpad",
+   "name": "Cool 10A",
+   "model": "Coolpad_2041_S0"
+  }
+ ],
+ "Coolpad_2041_U0": [
+  {
+   "brand": "Coolpad",
+   "name": "Cool 10A",
+   "model": "Coolpad_2041_U0"
   }
  ],
  "2039": [
@@ -89559,6 +89595,13 @@
    "model": "LG-V607L"
   }
  ],
+ "blm": [
+  {
+   "brand": "LGE",
+   "name": "I project",
+   "model": "LM-R910N"
+  }
+ ],
  "vfpv": [
   {
    "brand": "LGE",
@@ -108462,6 +108505,13 @@
    "brand": "Mediacom",
    "name": "1HY4G",
    "model": "1HY4G"
+  }
+ ],
+ "1IY4G": [
+  {
+   "brand": "Mediacom",
+   "name": "1IY4G",
+   "model": "1IY4G"
   }
  ],
  "7BY": [
@@ -134403,6 +134453,13 @@
    "model": "Twist 4 Pro"
   }
  ],
+ "S5094G": [
+  {
+   "brand": "Positivo",
+   "name": "Twist 4G",
+   "model": "Twist 4G"
+  }
+ ],
  "S520_4G": [
   {
    "brand": "Positivo",
@@ -134470,6 +134527,13 @@
    "brand": "Positivo",
    "name": "Twist Tab Kids",
    "model": "Twist Tab Kids"
+  }
+ ],
+ "T770E": [
+  {
+   "brand": "Positivo",
+   "name": "Twist Tab",
+   "model": "Twist Tab"
   }
  ],
  "S555": [
@@ -145360,6 +145424,11 @@
    "brand": "Samsung",
    "name": "Galaxy A32",
    "model": "SM-A325M"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A32",
+   "model": "SM-A325N"
   }
  ],
  "SCG08": [
@@ -145493,6 +145562,11 @@
    "brand": "Samsung",
    "name": "Galaxy A42 5G",
    "model": "SM-A426U1"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A42 5G",
+   "model": "SM-S426DL"
   }
  ],
  "a53g": [
@@ -145813,6 +145887,11 @@
    "brand": "Samsung",
    "name": "Galaxy A52",
    "model": "SM-A525F"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A52",
+   "model": "SM-A525M"
   }
  ],
  "SC-53B": [
@@ -153954,6 +154033,11 @@
   {
    "brand": "Samsung",
    "name": "Galaxy S20 FE 5G",
+   "model": "SM-G780G"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S20 FE 5G",
    "model": "SM-G7810"
   },
   {
@@ -154112,6 +154196,11 @@
    "brand": "Samsung",
    "name": "Galaxy S21 5G",
    "model": "SM-G9910"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 5G",
+   "model": "SM-G991Q"
   },
   {
    "brand": "Samsung",
@@ -182781,6 +182870,13 @@
    "brand": "Tecno",
    "name": "TECNO SPARK 7",
    "model": "TECNO PR651"
+  }
+ ],
+ "TECNO-PR651H": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 7",
+   "model": "TECNO PR651H"
   }
  ],
  "TECNO-KF8": [

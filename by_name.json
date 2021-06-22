@@ -12863,6 +12863,13 @@
    "model": "X7_Soul_Pro"
   }
  ],
+ "X8 PRO": [
+  {
+   "brand": "AllView",
+   "device": "X8_Soul_Pro",
+   "model": "X8_Soul_Pro"
+  }
+ ],
  "X8 Soul Style": [
   {
    "brand": "AllView",
@@ -20591,6 +20598,13 @@
    "brand": "Azumi",
    "device": "A40C",
    "model": "A40C"
+  }
+ ],
+ "A4PLUS_AC11": [
+  {
+   "brand": "Azumi",
+   "device": "Azumi_A4PLUS_AC11",
+   "model": "Azumi A4+"
   }
  ],
  "A4V": [
@@ -37655,6 +37669,16 @@
    "brand": "Coolpad",
    "device": "Coolpad_2041",
    "model": "Coolpad_2041"
+  },
+  {
+   "brand": "Coolpad",
+   "device": "Coolpad_2041_S0",
+   "model": "Coolpad_2041_S0"
+  },
+  {
+   "brand": "Coolpad",
+   "device": "Coolpad_2041_U0",
+   "model": "Coolpad_2041_U0"
   }
  ],
  "Cool C1": [
@@ -91649,6 +91673,13 @@
    "model": "LG-V607L"
   }
  ],
+ "I project": [
+  {
+   "brand": "LGE",
+   "device": "blm",
+   "model": "LM-R910N"
+  }
+ ],
  "Ice cream Smart": [
   {
    "brand": "LGE",
@@ -109876,6 +109907,13 @@
    "model": "1HY4G"
   }
  ],
+ "1IY4G": [
+  {
+   "brand": "Mediacom",
+   "device": "1IY4G",
+   "model": "1IY4G"
+  }
+ ],
  "7BY": [
   {
    "brand": "Mediacom",
@@ -122589,6 +122627,13 @@
    "model": "NBX-T7014"
   }
  ],
+ "Noblex TV": [
+  {
+   "brand": "Noblex",
+   "device": "SW4H",
+   "model": "Noblex TV"
+  }
+ ],
  "NoblexTV": [
   {
    "brand": "Noblex",
@@ -134604,6 +134649,11 @@
  "Twist 4G": [
   {
    "brand": "Positivo",
+   "device": "S5094G",
+   "model": "Twist 4G"
+  },
+  {
+   "brand": "Positivo",
    "device": "S520_4G",
    "model": "Positivo Twist 4G"
   }
@@ -134665,6 +134715,11 @@
    "brand": "Positivo",
    "device": "T770",
    "model": "Twist Tab Kids"
+  },
+  {
+   "brand": "Positivo",
+   "device": "T770E",
+   "model": "Twist Tab"
   }
  ],
  "Twist Tab Kids": [
@@ -140931,6 +140986,13 @@
    "model": "AI PONT"
   }
  ],
+ "realme TW Smart TV": [
+  {
+   "brand": "Realme",
+   "device": "SW4H_FF",
+   "model": "realme TW Smart TV"
+  }
+ ],
  "realme V11 5G": [
   {
    "brand": "Realme",
@@ -145562,6 +145624,11 @@
    "brand": "Samsung",
    "device": "a32",
    "model": "SM-A325M"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a32",
+   "model": "SM-A325N"
   }
  ],
  "Galaxy A32 5G": [
@@ -145677,6 +145744,11 @@
    "brand": "Samsung",
    "device": "a42xuq",
    "model": "SM-A426U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a42xuq",
+   "model": "SM-S426DL"
   }
  ],
  "Galaxy A5": [
@@ -146015,6 +146087,11 @@
    "brand": "Samsung",
    "device": "a52q",
    "model": "SM-A525F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a52q",
+   "model": "SM-A525M"
   }
  ],
  "Galaxy A52 5G": [
@@ -153008,6 +153085,11 @@
   {
    "brand": "Samsung",
    "device": "r8q",
+   "model": "SM-G780G"
+  },
+  {
+   "brand": "Samsung",
+   "device": "r8q",
    "model": "SM-G7810"
   },
   {
@@ -153147,6 +153229,11 @@
    "brand": "Samsung",
    "device": "o1q",
    "model": "SM-G9910"
+  },
+  {
+   "brand": "Samsung",
+   "device": "o1q",
+   "model": "SM-G991Q"
   },
   {
    "brand": "Samsung",
@@ -180320,6 +180407,11 @@
    "brand": "Tecno",
    "device": "TECNO-PR651",
    "model": "TECNO PR651"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-PR651H",
+   "model": "TECNO PR651H"
   }
  ],
  "TECNO SPARK 7 Pro": [

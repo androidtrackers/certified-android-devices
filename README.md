@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-06-21
+Last sync is 2021-06-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -878,6 +878,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|X6 Soul mini|X6_Soul_mini|X6_Soul_mini|
 |AllView|X7 Soul Style|X7_Soul_Style|X7_Soul_Style|
 |AllView|X7_Soul_Pro_EEA|X7_Soul_Pro|X7_Soul_Pro|
+|AllView|X8 PRO|X8_Soul_Pro|X8_Soul_Pro|
 |AllView|X8 Soul Style|X8_Soul_Style|X8_Soul_Style|
 |Alldocube|T1001|T1001|T1001|
 |Alldocube|T701|T701|T701|
@@ -1988,6 +1989,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|A4 Go|Azumi_A4_AC27B|A4|
 |Azumi|A40 Style Plus|A40_Style_Plus|A40_Style_Plus|
 |Azumi|A40C|A40C|A40C|
+|Azumi|A4PLUS_AC11|Azumi_A4PLUS_AC11|Azumi A4+|
 |Azumi|A4V|Azumi_A4v|Azumi A4v|
 |Azumi|A4_AC19|Azumi_A4_AC19|A4|
 |Azumi|A4_AC24B|Azumi_A4_AC24B|A4|
@@ -4246,6 +4248,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Coolpad|CPT1|CoolpadT1|Coolpad T1|
 |Coolpad|Cool 10|2040|2040|
 |Coolpad|Cool 10A|Coolpad_2041|Coolpad_2041|
+|Coolpad|Cool 10A|Coolpad_2041_S0|Coolpad_2041_S0|
+|Coolpad|Cool 10A|Coolpad_2041_U0|Coolpad_2041_U0|
 |Coolpad|Cool C1|cool_c1|C106|
 |Coolpad|Cool C1|cool_c1|C106-6|
 |Coolpad|Cool C1|cool_c1|C106-7|
@@ -12928,6 +12932,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|Gpad 7.0|e7wifi|LG-V400|
 |LGE|Gx2|b2ln|LG-F430L|
 |LGE|Homeboy2|t8wi7u|LG-V607L|
+|LGE|I project|blm|LM-R910N|
 |LGE|Ice cream Smart|vfpv|LG-F440L|
 |LGE|Intuition|batman_vzw|VS950 4G|
 |LGE|JOJO|L-02K|L-02K|
@@ -15998,6 +16003,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mediacom|1DY|1DY|1DY|
 |Mediacom|1DY4G_eea|1DY4G_eea|1DY4G|
 |Mediacom|1HY4G|1HY4G|1HY4G|
+|Mediacom|1IY4G|1IY4G|1IY4G|
 |Mediacom|7BY|7BY|7BY|
 |Mediacom|7CY_eea|7CY|7CY|
 |Mediacom|7DY_EEA|7DY|7DY|
@@ -18116,6 +18122,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Noblex|N601|N601|N601|
 |Noblex|NBX-T1014N|TA10CA2|TA10CA2|
 |Noblex|NBX-T7014|E270BSA|NBX-T7014|
+|Noblex|Noblex TV|SW4H|Noblex TV|
 |Noblex|NoblexTV|shinjuku|NoblexTV|
 |Noblex|T7A6INC|T7A6INC|T7A6INC|
 |Noblex|T7A6N|Tablet|T7A6N|
@@ -20058,6 +20065,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|Twist 4|S514|Twist 4|
 |Positivo|Twist 4 Fit|S509N|Twist 4 Fit|
 |Positivo|Twist 4 Pro|S518|Twist 4 Pro|
+|Positivo|Twist 4G|S5094G|Twist 4G|
 |Positivo|Twist 4G|S520_4G|Positivo Twist 4G|
 |Positivo|Twist Max|S540|Twist Max|
 |Positivo|Twist Metal|S530|Twist Metal|
@@ -20068,6 +20076,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|Twist SE|SP2|Twist SE|
 |Positivo|Twist Tab|T770|Twist Tab|
 |Positivo|Twist Tab|T770|Twist Tab Kids|
+|Positivo|Twist Tab|T770E|Twist Tab|
 |Positivo|Twist Tab Kids|T770|Twist Tab|
 |Positivo|Twist Tab Kids|T770|Twist Tab Kids|
 |Positivo|Twist XL|S555|Twist XL|
@@ -21047,6 +21056,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme Smart TV|SW4H_FF|realme Smart TV|
 |Realme|realme TV|ikebukuro|AI PONT|
 |Realme|realme TV 32|ikebukuro|AI PONT|
+|Realme|realme TW Smart TV|SW4H_FF|realme TW Smart TV|
 |Realme|realme V11 5G|RMX3121CN|RMX3121|
 |Realme|realme V11 5G|RMX3122CN|RMX3122|
 |Realme|realme V15 5G|RMX3092CN|RMX3092|
@@ -21839,6 +21849,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A31|a31|SM-A315N|
 |Samsung|Galaxy A32|a32|SM-A325F|
 |Samsung|Galaxy A32|a32|SM-A325M|
+|Samsung|Galaxy A32|a32|SM-A325N|
 |Samsung|Galaxy A32 5G|SCG08|SCG08|
 |Samsung|Galaxy A32 5G|a32x|SM-A326B|
 |Samsung|Galaxy A32 5G|a32x|SM-A326BR|
@@ -21860,6 +21871,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A42 5G|a42xq|SM-A426N|
 |Samsung|Galaxy A42 5G|a42xuq|SM-A426U|
 |Samsung|Galaxy A42 5G|a42xuq|SM-A426U1|
+|Samsung|Galaxy A42 5G|a42xuq|SM-S426DL|
 |Samsung|Galaxy A5|a53g|SM-A500H|
 |Samsung|Galaxy A5|a5lte|SM-A500F|
 |Samsung|Galaxy A5|a5lte|SM-A500G|
@@ -21924,6 +21936,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A51 5G|a51x|SM-A516U1|
 |Samsung|Galaxy A51 5G|a51xq|SM-A516V|
 |Samsung|Galaxy A52|a52q|SM-A525F|
+|Samsung|Galaxy A52|a52q|SM-A525M|
 |Samsung|Galaxy A52 5G|SC-53B|SC-53B|
 |Samsung|Galaxy A52 5G|a52xq|SM-A5260|
 |Samsung|Galaxy A52 5G|a52xq|SM-A526B|
@@ -23200,6 +23213,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S20 5G|x1s|SM-G981B|
 |Samsung|Galaxy S20 FE|r8q|SM-G780G|
 |Samsung|Galaxy S20 FE|r8s|SM-G780F|
+|Samsung|Galaxy S20 FE 5G|r8q|SM-G780G|
 |Samsung|Galaxy S20 FE 5G|r8q|SM-G7810|
 |Samsung|Galaxy S20 FE 5G|r8q|SM-G781B|
 |Samsung|Galaxy S20 FE 5G|r8q|SM-G781N|
@@ -23227,6 +23241,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S21 5G|SC-51B|SC-51B|
 |Samsung|Galaxy S21 5G|SCG09|SCG09|
 |Samsung|Galaxy S21 5G|o1q|SM-G9910|
+|Samsung|Galaxy S21 5G|o1q|SM-G991Q|
 |Samsung|Galaxy S21 5G|o1q|SM-G991U1|
 |Samsung|Galaxy S21 5G|o1q|SM-G991W|
 |Samsung|Galaxy S21 5G|o1s|SM-G991B|
@@ -27964,6 +27979,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 7|TECNO-KF6n|TECNO KF6n|
 |Tecno|TECNO SPARK 7|TECNO-KF6p|TECNO KF6p|
 |Tecno|TECNO SPARK 7|TECNO-PR651|TECNO PR651|
+|Tecno|TECNO SPARK 7|TECNO-PR651H|TECNO PR651H|
 |Tecno|TECNO SPARK 7 Pro|TECNO-KF8|TECNO KF8|
 |Tecno|TECNO SPARK 7P|TECNO-KF7j|TECNO KF7j|
 |Tecno|TECNO SPARK 7T|TECNO-KF6p|TECNO KF6p|
