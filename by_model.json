@@ -32958,6 +32958,13 @@
    "device": "CUBOT_NOTE_S"
   }
  ],
+ "NOTE 7P": [
+  {
+   "brand": "Cubot",
+   "name": "NOTE_7P",
+   "device": "NOTE_7P"
+  }
+ ],
  "P30": [
   {
    "brand": "Cubot",
@@ -127207,6 +127214,18 @@
    "device": "OnePlus9ProTMO"
   }
  ],
+ "LE2100": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 9R",
+   "device": "OnePlus9R"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus9R",
+   "device": "OnePlus9R"
+  }
+ ],
  "AC2001": [
   {
    "brand": "OnePlus",
@@ -127219,6 +127238,20 @@
    "brand": "OnePlus",
    "name": "OnePlus Nord",
    "device": "Nord"
+  }
+ ],
+ "EB2101": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord CE 5G",
+   "device": "OnePlusNordCE"
+  }
+ ],
+ "EB2103": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord CE 5G",
+   "device": "OnePlusNordCE"
   }
  ],
  "BE2026": [
@@ -206339,6 +206372,13 @@
    "brand": "Xiaomi",
    "name": "Mi 11 Ultra",
    "device": "star"
+  }
+ ],
+ "M2012K11I": [
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 11X Pro",
+   "device": "haydnin"
   }
  ],
  "M2012K11G": [

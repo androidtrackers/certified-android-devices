@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-06-22
+Last sync is 2021-06-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4438,6 +4438,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|NOTE 7|NOTE_7|NOTE 7|
 |Cubot|NOTE S|CUBOT_CHEETAH_2|CUBOT CHEETAH 2|
 |Cubot|NOTE S|CUBOT_NOTE_S|CUBOT_NOTE_S|
+|Cubot|NOTE_7P|NOTE_7P|NOTE 7P|
 |Cubot|P30|P30|P30|
 |Cubot|P40|P40|P40|
 |Cubot|QUEST|QUEST|QUEST|
@@ -18483,8 +18484,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 9 Pro 5G|OnePlus9Pro|LE2123|
 |OnePlus|OnePlus 9 Pro 5G|OnePlus9Pro|LE2125|
 |OnePlus|OnePlus 9 Pro 5G|OnePlus9ProTMO|LE2127|
+|OnePlus|OnePlus 9R|OnePlus9R|LE2100|
 |OnePlus|OnePlus Nord|Nord|AC2001|
 |OnePlus|OnePlus Nord|Nord|AC2003|
+|OnePlus|OnePlus Nord CE 5G|OnePlusNordCE|EB2101|
+|OnePlus|OnePlus Nord CE 5G|OnePlusNordCE|EB2103|
 |OnePlus|OnePlus Nord N10 5G|OnePlusN10|BE2026|
 |OnePlus|OnePlus Nord N10 5G|OnePlusN10|BE2029|
 |OnePlus|OnePlus Nord N10 5G|OnePlusN10METRO|BE2025|
@@ -18503,6 +18507,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus6T|OnePlus6T|ONEPLUS A6010|
 |OnePlus|OnePlus6T|OnePlus6T|ONEPLUS A6013|
 |OnePlus|OnePlus6T|OnePlus6TSingle|ONEPLUS A6013|
+|OnePlus|OnePlus9R|OnePlus9R|LE2100|
 |OnePlus|Oneplus_Dosa_IN|Oneplus_Dosa_IN|Oneplus_Dosa_IN|
 |OnePlus|X|OnePlus|ONE E1003|
 |OnePlus|Y Series|shibuya|Y Series|
@@ -30482,6 +30487,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Mi 11 Pro|mars|M2102K1AC|
 |Xiaomi|Mi 11 Ultra|star|M2102K1C|
 |Xiaomi|Mi 11 Ultra|star|M2102K1G|
+|Xiaomi|Mi 11X Pro|haydnin|M2012K11I|
 |Xiaomi|Mi 11i|haydn|M2012K11G|
 |Xiaomi|Mi 3|pisces|MI 3|
 |Xiaomi|Mi 4c|libra|Mi-4c|

@@ -35014,6 +35014,13 @@
    "model": "CUBOT_NOTE_S"
   }
  ],
+ "NOTE_7P": [
+  {
+   "brand": "Cubot",
+   "name": "NOTE_7P",
+   "model": "NOTE 7P"
+  }
+ ],
  "P30": [
   {
    "brand": "Cubot",
@@ -124304,6 +124311,18 @@
    "model": "LE2127"
   }
  ],
+ "OnePlus9R": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 9R",
+   "model": "LE2100"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus9R",
+   "model": "LE2100"
+  }
+ ],
  "Nord": [
   {
    "brand": "OnePlus",
@@ -124314,6 +124333,18 @@
    "brand": "OnePlus",
    "name": "OnePlus Nord",
    "model": "AC2003"
+  }
+ ],
+ "OnePlusNordCE": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord CE 5G",
+   "model": "EB2101"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord CE 5G",
+   "model": "EB2103"
   }
  ],
  "OnePlusN10": [
@@ -197957,6 +197988,13 @@
    "brand": "Xiaomi",
    "name": "Mi 11 Pro",
    "model": "M2102K1AC"
+  }
+ ],
+ "haydnin": [
+  {
+   "brand": "Xiaomi",
+   "name": "Mi 11X Pro",
+   "model": "M2012K11I"
   }
  ],
  "pisces": [
