@@ -38676,6 +38676,13 @@
    "model": "Android Tablet FT7"
   }
  ],
+ "CTRONIQ-SNOOK-X10": [
+  {
+   "brand": "Ctroniq",
+   "device": "CTRONIQ-SNOOK-X10",
+   "model": "CTRONIQ-SNOOK-X10"
+  }
+ ],
  "Ctroniq_Snook_B70": [
   {
    "brand": "Ctroniq",
@@ -90928,6 +90935,13 @@
    "brand": "LG HelloVision",
    "device": "K1100UA",
    "model": "K1100UA"
+  }
+ ],
+ "T1100UA": [
+  {
+   "brand": "LG HelloVision",
+   "device": "uce4027cjh",
+   "model": "T1100UA"
   }
  ],
  "070 touch": [
@@ -161644,6 +161658,11 @@
   },
   {
    "brand": "Sharp",
+   "device": "ewha",
+   "model": "AQUOS-TVE21B"
+  },
+  {
+   "brand": "Sharp",
    "device": "sindang",
    "model": "AQUOS-TVE19C"
   }
@@ -177532,6 +177551,13 @@
    "model": "M103H"
   }
  ],
+ "F102-T610-EEA": [
+  {
+   "brand": "TECHcomputer",
+   "device": "F102-T610-EEA",
+   "model": "F102-T610-EEA"
+  }
+ ],
  "K5T": [
   {
    "brand": "TECO",
@@ -181126,6 +181152,13 @@
    "brand": "Telenor",
    "device": "Telenor_Smart_4G",
    "model": "Telenor_Smart_4G"
+  }
+ ],
+ "Telenor Mediahubb": [
+  {
+   "brand": "Telenor",
+   "device": "vip5702w_tn",
+   "model": "Telenor Mediahubb"
   }
  ],
  "V51": [
@@ -192974,6 +193007,11 @@
   {
    "brand": "Wiko",
    "device": "W-V745",
+   "model": "W-V745-EEA"
+  },
+  {
+   "brand": "Wiko",
+   "device": "W-V745",
    "model": "W-V745-OPE"
   },
   {
@@ -192983,6 +193021,11 @@
   }
  ],
  "Power U20": [
+  {
+   "brand": "Wiko",
+   "device": "W-V750BN",
+   "model": "W-V750BN-EEA"
+  },
   {
    "brand": "Wiko",
    "device": "W-V750BN",
@@ -193626,13 +193669,6 @@
    "model": "W-V850-OPE"
   }
  ],
- "View6 Lite": [
-  {
-   "brand": "Wiko",
-   "device": "W-V750BN",
-   "model": "W-V750BN-EEA"
-  }
- ],
  "W-K200": [
   {
    "brand": "Wiko",
@@ -193885,13 +193921,6 @@
    "brand": "Wiko",
    "device": "W-V680",
    "model": "W-V680-SUN"
-  }
- ],
- "Y82": [
-  {
-   "brand": "Wiko",
-   "device": "W-V745",
-   "model": "W-V745-EEA"
   }
  ],
  "sunny4 Plus": [

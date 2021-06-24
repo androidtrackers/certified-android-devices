@@ -32650,6 +32650,13 @@
    "device": "FT7_tw"
   }
  ],
+ "CTRONIQ-SNOOK-X10": [
+  {
+   "brand": "Ctroniq",
+   "name": "CTRONIQ-SNOOK-X10",
+   "device": "CTRONIQ-SNOOK-X10"
+  }
+ ],
  "Ctroniq_Snook_B70": [
   {
    "brand": "Ctroniq",
@@ -89054,6 +89061,13 @@
    "brand": "LG HelloVision",
    "name": "K1100UA",
    "device": "K1100UA"
+  }
+ ],
+ "T1100UA": [
+  {
+   "brand": "LG HelloVision",
+   "name": "T1100UA",
+   "device": "uce4027cjh"
   }
  ],
  "LG-AS855": [
@@ -168811,6 +168825,13 @@
    "device": "ewha"
   }
  ],
+ "AQUOS-TVE21B": [
+  {
+   "brand": "Sharp",
+   "name": "Sharp",
+   "device": "ewha"
+  }
+ ],
  "SBM007SHK": [
   {
    "brand": "Sharp",
@@ -187412,6 +187433,13 @@
    "device": "M103H"
   }
  ],
+ "F102-T610-EEA": [
+  {
+   "brand": "TECHcomputer",
+   "name": "F102-T610-EEA",
+   "device": "F102-T610-EEA"
+  }
+ ],
  "UPT24K": [
   {
    "brand": "TELE System",
@@ -191327,6 +191355,13 @@
    "brand": "Telenor",
    "name": "Smart4G",
    "device": "Telenor_Smart_4G"
+  }
+ ],
+ "Telenor Mediahubb": [
+  {
+   "brand": "Telenor",
+   "name": "Telenor Mediahubb",
+   "device": "vip5702w_tn"
   }
  ],
  "Infinity_i4": [
@@ -203247,6 +203282,13 @@
    "device": "l5261"
   }
  ],
+ "W-V745-EEA": [
+  {
+   "brand": "Wiko",
+   "name": "Power U10",
+   "device": "W-V745"
+  }
+ ],
  "W-V745-OPE": [
   {
    "brand": "Wiko",
@@ -203259,6 +203301,13 @@
    "brand": "Wiko",
    "name": "Power U10",
    "device": "W-V745"
+  }
+ ],
+ "W-V750BN-EEA": [
+  {
+   "brand": "Wiko",
+   "name": "Power U20",
+   "device": "W-V750BN"
   }
  ],
  "W-V750BN-OPE": [
@@ -203938,13 +203987,6 @@
    "device": "W-V850"
   }
  ],
- "W-V750BN-EEA": [
-  {
-   "brand": "Wiko",
-   "name": "View6 Lite",
-   "device": "W-V750BN"
-  }
- ],
  "W-K200": [
   {
    "brand": "Wiko",
@@ -204282,13 +204324,6 @@
    "brand": "Wiko",
    "name": "Y81",
    "device": "W-V680"
-  }
- ],
- "W-V745-EEA": [
-  {
-   "brand": "Wiko",
-   "name": "Y82",
-   "device": "W-V745"
   }
  ],
  "W-K360-TV": [

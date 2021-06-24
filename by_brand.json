@@ -22744,6 +22744,11 @@
  ],
  "Ctroniq": [
   {
+   "device": "CTRONIQ-SNOOK-X10",
+   "name": "CTRONIQ-SNOOK-X10",
+   "model": "CTRONIQ-SNOOK-X10"
+  },
+  {
    "device": "Ctroniq_B70",
    "name": "Ctroniq_Snook_B70",
    "model": "Ctroniq_Snook_B70"
@@ -65333,6 +65338,11 @@
    "device": "K1100UA",
    "name": "K1100UA",
    "model": "K1100UA"
+  },
+  {
+   "device": "uce4027cjh",
+   "name": "T1100UA",
+   "model": "T1100UA"
   }
  ],
  "LGE": [
@@ -126600,6 +126610,11 @@
    "model": "AQUOS-TVE19G"
   },
   {
+   "device": "ewha",
+   "name": "Sharp",
+   "model": "AQUOS-TVE21B"
+  },
+  {
    "device": "sindang",
    "name": "Sharp",
    "model": "AQUOS-TVE19C"
@@ -140844,6 +140859,13 @@
    "model": "M103H"
   }
  ],
+ "TECHcomputer": [
+  {
+   "device": "F102-T610-EEA",
+   "name": "F102-T610-EEA",
+   "model": "F102-T610-EEA"
+  }
+ ],
  "TECO": [
   {
    "device": "ikebukuro",
@@ -144016,6 +144038,11 @@
    "device": "Telenor_Smart_4G",
    "name": "Smart4G",
    "model": "Telenor_Smart_4G"
+  },
+  {
+   "device": "vip5702w_tn",
+   "name": "Telenor Mediahubb",
+   "model": "Telenor Mediahubb"
   },
   {
    "device": "V51",
@@ -153881,12 +153908,22 @@
   {
    "device": "W-V745",
    "name": "Power U10",
+   "model": "W-V745-EEA"
+  },
+  {
+   "device": "W-V745",
+   "name": "Power U10",
    "model": "W-V745-OPE"
   },
   {
    "device": "W-V745",
    "name": "Power U10",
    "model": "W-V745-TVM"
+  },
+  {
+   "device": "W-V750BN",
+   "name": "Power U20",
+   "model": "W-V750BN-EEA"
   },
   {
    "device": "W-V750BN",
@@ -154434,11 +154471,6 @@
    "model": "W-V850-OPE"
   },
   {
-   "device": "W-V750BN",
-   "name": "View6 Lite",
-   "model": "W-V750BN-EEA"
-  },
-  {
    "device": "W-K200",
    "name": "W-K200",
    "model": "W-K200"
@@ -154702,11 +154734,6 @@
    "device": "W-V680",
    "name": "Y81",
    "model": "W-V680-SUN"
-  },
-  {
-   "device": "W-V745",
-   "name": "Y82",
-   "model": "W-V745-EEA"
   },
   {
    "device": "W-K360",

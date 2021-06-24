@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-06-23
+Last sync is 2021-06-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4396,6 +4396,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Crosscall|Trekker- M1|HS8916QC|Trekker-M1|
 |Crosscall|Trekker- X4|HSSDM660QC|Trekker-X4|
 |Cspire|FT7|FT7_tw|Android Tablet FT7|
+|Ctroniq|CTRONIQ-SNOOK-X10|CTRONIQ-SNOOK-X10|CTRONIQ-SNOOK-X10|
 |Ctroniq|Ctroniq_Snook_B70|Ctroniq_B70|Ctroniq_Snook_B70|
 |Ctroniq|Ctroniq_Snook_W10|Ctroniq_Snook_W10|Ctroniq_Snook_W10|
 |Ctroniq|Ctroniq_Snook_W70|Ctroniq_Snook_W70|Ctroniq_Snook_W70|
@@ -12683,6 +12684,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LEVEL TV|32F1D|osaki|2K AI Smart TV|
 |LEYO|EY-TAB8161G|EY-TAB8161G|EY-TAB8161G|
 |LG HelloVision|K1100UA|K1100UA|K1100UA|
+|LG HelloVision|T1100UA|uce4027cjh|T1100UA|
 |LGE||AS855|LG-AS855|
 |LGE||LGP970|LG-P970|
 |LGE||US855|USCC-US855|
@@ -24694,6 +24696,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|SHARP R1S|SK3|FS8028|
 |Sharp|SHARP TBC|SI3|FS8025|
 |Sharp|Sharp|ewha|AQUOS-TVE19G|
+|Sharp|Sharp|ewha|AQUOS-TVE21B|
 |Sharp|Sharp|sindang|AQUOS-TVE19C|
 |Sharp|Sharp A Click|AH3|IF9003|
 |Sharp|Sharp HH6|HH6_sprout|FS8032|
@@ -27498,6 +27501,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TD SYSTEMS|Spain|yeongdeungpo|TD SYSTEMS Android TV|
 |TDS|VIP6102W|vip6102w|VIP6102W|
 |TECHNOLOGIA Y CRATIVIDAD|M103H|M103H|M103H|
+|TECHcomputer|F102-T610-EEA|F102-T610-EEA|F102-T610-EEA|
 |TECO|K5T|ikebukuro|AI PONT|
 |TECO|TL55U12TRE|samseong|AI PONT|
 |TELE System|UPT24K|UPT24K|UPT24K|
@@ -28100,6 +28104,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telenor|Smart II|SmartII|SmartII|
 |Telenor|Smart plus II|SmartPlusII|SmartPlusII|
 |Telenor|Smart4G|Telenor_Smart_4G|Telenor_Smart_4G|
+|Telenor|Telenor Mediahubb|vip5702w_tn|Telenor Mediahubb|
 |Telenor|V51|V51|Infinity_i4|
 |Telkom|TVB-100|DV8219|TVB-100|
 |Telkom|Telkom|DV8219|TVB-100|
@@ -29989,8 +29994,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|PULP FAB|S5260|PULP FAB|
 |Wiko|PULP FAB|S5260|SLIDE2|
 |Wiko|PULP FAB 4G|l5261|PULP FAB 4G|
+|Wiko|Power U10|W-V745|W-V745-EEA|
 |Wiko|Power U10|W-V745|W-V745-OPE|
 |Wiko|Power U10|W-V745|W-V745-TVM|
+|Wiko|Power U20|W-V750BN|W-V750BN-EEA|
 |Wiko|Power U20|W-V750BN|W-V750BN-OPE|
 |Wiko|Power U20|W-V750BN|W-V750BN-TVM|
 |Wiko|Power U30|W-V755|W-V755-EEA|
@@ -30100,7 +30107,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|View5|W-V851|W-V851-TVM|
 |Wiko|View5 Plus|W-V850|W-V850-EEA|
 |Wiko|View5 Plus|W-V850|W-V850-OPE|
-|Wiko|View6 Lite|W-V750BN|W-V750BN-EEA|
 |Wiko|W-K200|W-K200|W-K200|
 |Wiko|WAX|s8515|WAX|
 |Wiko|WC300|WC300|WC300|
@@ -30154,7 +30160,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|Y81|W-V680|W-V680-ID|
 |Wiko|Y81|W-V680|W-V680-OPE|
 |Wiko|Y81|W-V680|W-V680-SUN|
-|Wiko|Y82|W-V745|W-V745-EEA|
 |Wiko|sunny4 Plus|W-K360|W-K360-TV|
 |Wileyfox|Spark|porridge|Wileyfox Spark|
 |Wileyfox|Spark|porridge|Wileyfox Spark +|
