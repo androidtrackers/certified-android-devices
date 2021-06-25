@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-06-24
+Last sync is 2021-06-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11910,6 +11910,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JAY-TECH|TPC-G109_EEA|TPC-G109|TPC-G109|
 |JEEMAK|M70|M70|M70|
 |JEEMAK|M70E|M70E|M70E|
+|JIZHAO|JZP57|JZP57|JZP57|
 |JLab|PRO-7|polaris-p1gms|JLab PRO-7|
 |JP Sacouto|Flag Mill v2|MG101A2T_BT|Flag Mill v2|
 |JP Sacouto|Flag Mill v2|MG101A2T_BT_A50|Flag Mill v2|
@@ -15647,6 +15648,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MGS|MGS|bangbae|MGS 4K Android TV|
 |MGS|MGS|komagome|MGS 2K Android TV|
 |MHL Mobile Company|TRECFONE_A21S|TRECFONE_A21S|TRECFONE_A21S|
+|MIAPRODUCT|AMBK290471|AMBK290471|AMBK290471|
 |MILECTRIC|"SPAIN|MOROCCO|PORTUGAL"|
 |MILECTRIC|"SPAIN|MOROCCO|PORTUGAL"|
 |MINIX|MINIX NEO T5|DV8553|DV8553|
@@ -17710,6 +17712,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NAXA|NID-7011|NID-7011|NID-7011|
 |NAXA|NID_7010|NID_7010|NID_7010|
 |NCTC|KSTB2020|KSTB2020|KSTB2020|
+|NCTC|KSTB2100|KSTB2100|KSTB2100|
 |NEC|101T 　MEDIAS|NEC-101|NEC-101T|
 |NEC|AGT10|AGT10|N8730-411|
 |NEC|AGT10|AGT10|N8730-41101|

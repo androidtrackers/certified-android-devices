@@ -83832,6 +83832,13 @@
    "device": "M70E"
   }
  ],
+ "JZP57": [
+  {
+   "brand": "JIZHAO",
+   "name": "JZP57",
+   "device": "JZP57"
+  }
+ ],
  "JLab PRO-7": [
   {
    "brand": "JLab",
@@ -108761,6 +108768,13 @@
    "device": "TRECFONE_A21S"
   }
  ],
+ "AMBK290471": [
+  {
+   "brand": "MIAPRODUCT",
+   "name": "AMBK290471",
+   "device": "AMBK290471"
+  }
+ ],
  "DV8553": [
   {
    "brand": "MINIX",
@@ -122281,6 +122295,13 @@
    "brand": "NCTC",
    "name": "KSTB2020",
    "device": "KSTB2020"
+  }
+ ],
+ "KSTB2100": [
+  {
+   "brand": "NCTC",
+   "name": "KSTB2100",
+   "device": "KSTB2100"
   }
  ],
  "NEC-101T": [

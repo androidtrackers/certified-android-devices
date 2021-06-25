@@ -82632,6 +82632,13 @@
    "model": "M70E"
   }
  ],
+ "JZP57": [
+  {
+   "brand": "JIZHAO",
+   "name": "JZP57",
+   "model": "JZP57"
+  }
+ ],
  "polaris-p1gms": [
   {
    "brand": "JLab",
@@ -106201,6 +106208,13 @@
    "model": "TRECFONE_A21S"
   }
  ],
+ "AMBK290471": [
+  {
+   "brand": "MIAPRODUCT",
+   "name": "AMBK290471",
+   "model": "AMBK290471"
+  }
+ ],
  "DV8553": [
   {
    "brand": "MINIX",
@@ -119520,6 +119534,13 @@
    "brand": "NCTC",
    "name": "KSTB2020",
    "model": "KSTB2020"
+  }
+ ],
+ "KSTB2100": [
+  {
+   "brand": "NCTC",
+   "name": "KSTB2100",
+   "model": "KSTB2100"
   }
  ],
  "NEC-101": [

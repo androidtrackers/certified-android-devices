@@ -85838,6 +85838,13 @@
    "model": "M70E"
   }
  ],
+ "JZP57": [
+  {
+   "brand": "JIZHAO",
+   "device": "JZP57",
+   "model": "JZP57"
+  }
+ ],
  "PRO-7": [
   {
    "brand": "JLab",
@@ -107624,6 +107631,13 @@
    "model": "TRECFONE_A21S"
   }
  ],
+ "AMBK290471": [
+  {
+   "brand": "MIAPRODUCT",
+   "device": "AMBK290471",
+   "model": "AMBK290471"
+  }
+ ],
  "MINIX NEO T5": [
   {
    "brand": "MINIX",
@@ -120053,6 +120067,13 @@
    "brand": "NCTC",
    "device": "KSTB2020",
    "model": "KSTB2020"
+  }
+ ],
+ "KSTB2100": [
+  {
+   "brand": "NCTC",
+   "device": "KSTB2100",
+   "model": "KSTB2100"
   }
  ],
  "101T 　MEDIAS": [

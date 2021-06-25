@@ -61264,6 +61264,13 @@
    "model": "M70E"
   }
  ],
+ "JIZHAO": [
+  {
+   "device": "JZP57",
+   "name": "JZP57",
+   "model": "JZP57"
+  }
+ ],
  "JLab": [
   {
    "device": "polaris-p1gms",
@@ -80325,6 +80332,13 @@
    "model": "TRECFONE_A21S"
   }
  ],
+ "MIAPRODUCT": [
+  {
+   "device": "AMBK290471",
+   "name": "AMBK290471",
+   "model": "AMBK290471"
+  }
+ ],
  "MILECTRIC": [
   {
    "device": "MOROCCO",
@@ -90936,6 +90950,11 @@
    "device": "KSTB2020",
    "name": "KSTB2020",
    "model": "KSTB2020"
+  },
+  {
+   "device": "KSTB2100",
+   "name": "KSTB2100",
+   "model": "KSTB2100"
   }
  ],
  "NEC": [
