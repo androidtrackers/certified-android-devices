@@ -76913,6 +76913,21 @@
    "model": "Lenovo TB-X6C6X"
   },
   {
+   "device": "TB-X6E6F",
+   "name": "Lenovo Tab K10 PRC",
+   "model": "Lenovo TB-X6E6F"
+  },
+  {
+   "device": "X6C6F",
+   "name": "Lenovo Tab K10 PRC",
+   "model": "Lenovo TB-X6C6F"
+  },
+  {
+   "device": "X6C6X",
+   "name": "Lenovo Tab K10 PRC",
+   "model": "Lenovo TB-X6C6X"
+  },
+  {
    "device": "J606F",
    "name": "Lenovo Tab K11",
    "model": "Lenovo TB-J606F"
@@ -94995,16 +95010,6 @@
   },
   {
    "device": "OnePlus9",
-   "name": "OnePlus 9",
-   "model": "LE2110"
-  },
-  {
-   "device": "OnePlus9",
-   "name": "OnePlus 9",
-   "model": "LE2113"
-  },
-  {
-   "device": "OnePlus9",
    "name": "OnePlus 9 5G",
    "model": "LE2110"
   },
@@ -95012,6 +95017,11 @@
    "device": "OnePlus9",
    "name": "OnePlus 9 5G",
    "model": "LE2111"
+  },
+  {
+   "device": "OnePlus9",
+   "name": "OnePlus 9 5G",
+   "model": "LE2113"
   },
   {
    "device": "OnePlus9",
@@ -100354,6 +100364,11 @@
    "device": "TAB-A02",
    "name": "TAB-A02",
    "model": "TAB-A02-SD"
+  },
+  {
+   "device": "TAB-A05-EA",
+   "name": "TAB-A05-EA",
+   "model": "TAB-A05-EA"
   },
   {
    "device": "TAB-A05",

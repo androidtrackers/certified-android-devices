@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-06-25
+Last sync is 2021-06-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14983,6 +14983,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab K10|X6C6F|Lenovo TB-X6C6F|
 |Lenovo|Lenovo Tab K10|X6C6L|Lenovo TB-X6C6L|
 |Lenovo|Lenovo Tab K10|X6C6X|Lenovo TB-X6C6X|
+|Lenovo|Lenovo Tab K10 PRC|TB-X6E6F|Lenovo TB-X6E6F|
+|Lenovo|Lenovo Tab K10 PRC|X6C6F|Lenovo TB-X6C6F|
+|Lenovo|Lenovo Tab K10 PRC|X6C6X|Lenovo TB-X6C6X|
 |Lenovo|Lenovo Tab K11|J606F|Lenovo TB-J606F|
 |Lenovo|Lenovo Tab K11|J606N|Lenovo TB-J606N|
 |Lenovo|Lenovo Tab M10 (FHD)|X605F|Lenovo TB-X605F|
@@ -18478,10 +18481,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 8 Pro|OnePlus8Pro|IN2023|
 |OnePlus|OnePlus 8T|OnePlus8T|KB2005|
 |OnePlus|OnePlus 8T+ 5G|OnePlus8TTMO|KB2007|
-|OnePlus|OnePlus 9|OnePlus9|LE2110|
-|OnePlus|OnePlus 9|OnePlus9|LE2113|
 |OnePlus|OnePlus 9 5G|OnePlus9|LE2110|
 |OnePlus|OnePlus 9 5G|OnePlus9|LE2111|
+|OnePlus|OnePlus 9 5G|OnePlus9|LE2113|
 |OnePlus|OnePlus 9 5G|OnePlus9|LE2115|
 |OnePlus|OnePlus 9 5G|OnePlus9TMO|LE2117|
 |OnePlus|OnePlus 9 Pro 5G|OnePlus9Pro|LE2120|
@@ -19532,6 +19534,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|T9|T9|Panasonic T9|
 |Panasonic|TAB-A01|TAB-A01|TAB-A01-SD|
 |Panasonic|TAB-A02|TAB-A02|TAB-A02-SD|
+|Panasonic|TAB-A05-EA|TAB-A05-EA|TAB-A05-EA|
 |Panasonic|TAB-A05-SA|TAB-A05|TAB-A05|
 |Panasonic|TH-49DX400C|DX00C|DX00C|
 |Panasonic|TH-55DR600C|TH55DR600C|TH55DR600C|
