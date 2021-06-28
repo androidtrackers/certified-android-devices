@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-06-27
+Last sync is 2021-06-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2833,6 +2833,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|B-STREAM|JFK|B-STREAM|
 |Blaupunkt|B5000|ikebukuro|AI PONT|
 |Blaupunkt|BATV10|ICN|BATV10|
+|Blaupunkt|BLAUPUNKT2K|nippori|BP 2K Android TV|
 |Blaupunkt|BP_6008|BP_6008|BP_6008|
 |Blaupunkt|BP_6010|BP_6010|BP_6010|
 |Blaupunkt|BP_6108|BP_6108|BP_6108|
@@ -2851,7 +2852,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|Czech/Ukraine/Russia|nippori|BLAUPUNKT Android TV 2K|
 |Blaupunkt|Discovery_A10_302|Discovery_A10_302|Discovery_A10_302|
 |Blaupunkt|EU|tamachi|BLAUPUNKT FHD Android TV|
-|Blaupunkt|Ecuador|nippori|BP 2K Android TV|
 |Blaupunkt|Endeavour101|Blaupunkt|Endeavour101|
 |Blaupunkt|Guardian|Guardian|Guardian|
 |Blaupunkt|MP3-A 4K TV|SW4H|MP3-A 4K TV|
@@ -5995,6 +5995,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FCNT|arrows Be4 Plus F-41B|F41B|F-41B|
 |FELUX|LUXE 3|LUXE_3|LUXE 3|
 |FFFSMARTLIFE|FFFTAB10|FFFTAB10|FFFTAB10|
+|FFFSMARTLIFE|FFFTAB10a3|FFFTAB10a3|FFFTAB10a3|
 |FFFSMARTLIFE|FFFTAB7|FFFTAB7|FFFTAB7|
 |FIREFLY MOBILE|AURII_AMUSE_3G|AURII_AMUSE_3G|AURII_AMUSE_3G|
 |FIREFLY MOBILE|FIREFLY MOBILE|AURII_XCITE|AURII_XCITE|
@@ -8078,6 +8079,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|Haier|W861|W861|
 |Haier|Haier 2K android TV|nippori|haierATVnippori|
 |Haier|Haier Android TV|hanyang|haierATV|
+|Haier|Haier Android TV|hongik|haierATVhongik|
+|Haier|Haier Android TV|uguisudani|haierATVuguisudani|
 |Haier|Haier Leisure L7|Haier_Leisure_L7|HM-N700-FL|
 |Haier|Haier Titan T5|Titan_T5|Titan_T5|
 |Haier|Haier android TV|hanyang|Haier 4K Android TV|
@@ -8116,12 +8119,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|MXG308|MXG308|MXG308|
 |Haier|MXG408|MXG408|MXG408|
 |Haier|Magelite android TV|hanyang|MAGELITE Android TV|
-|Haier|"Mexico|Central America|Korea"|
 |Haier|NEO10-1|NEO10-1|NEO10-1|
 |Haier|NEO7-1|NEO7-1|NEO7-1|
 |Haier|NEO7-2|NEO7-2|NEO7-2|
 |Haier|NEO8-1|NEO8-1|NEO8-1|
-|Haier|North America|uguisudani|haierATVuguisudani|
 |Haier|P2|P2|P2|
 |Haier|P20|P20|P20|
 |Haier|PA|nippori|Haitech Android TV 2K|
@@ -12144,9 +12145,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KONKA|KM7012BK|KM7012BK|KM7012BK|
 |KONKA|KONKA|seocho|KONKA 4K Android TV|
 |KONKA|KONKA|sugamo|KONKA 2K Android TV|
+|KONKA|KONKA Android TV|hongik|KONKA 4K Android TV|
+|KONKA|Konka Android TV|uguisudani|KONKA 2K Android TV|
 |KONKA|Konka android tv|hanyang|KONKA Android TV 4K|
-|KONKA|North America|hongik|KONKA 4K Android TV|
-|KONKA|North America|uguisudani|KONKA 2K Android TV|
 |KONKA|RE1|RE1|RE1|
 |KONKA|RU1|RU1|RU1|
 |KONKA|SE1|SE1|SE1|
@@ -24392,6 +24393,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|8T-C**BW1|tcme8sj|AQUOS-8KTVJ19|
 |Sharp|8T-C**CX1|tcme8tsj|AQUOS-8KTVJ20|
 |Sharp|8T-C**DW1|tcve8sj|AQUOS-8KTVJ21|
+|Sharp|8T-C**DW1X/DW2X|tcba8sx|AQUOS-TVX21A|
 |Sharp|8T-CxxAXAA|lcd_xxgae9a|LCD-xxGAE9A|
 |Sharp|A01SH|A01SH|A01SH|
 |Sharp|A1|TSL|FS8002|
@@ -25143,7 +25145,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 10 II|XQ-AU42|XQ-AU42|
 |Sony|Xperia 10 II|XQ-AU51|XQ-AU51|
 |Sony|Xperia 10 II|XQ-AU52|XQ-AU52|
+|Sony|Xperia 10 III|A102SO|A102SO|
 |Sony|Xperia 10 III|SO-52B|SO-52B|
+|Sony|Xperia 10 III|SOG04|SOG04|
 |Sony|Xperia 10 III|XQ-BT52|XQ-BT52|
 |Sony|Xperia 10 Plus|I3213|I3213|
 |Sony|Xperia 10 Plus|I3223|I3223|
@@ -26816,6 +26820,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002H|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002H_EEA|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002H_RU|
+|TCT (Alcatel)|Alcatel 1B|Seoul|5002H_TR|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002I|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002J|
 |TCT (Alcatel)|Alcatel 1B|Seoul|5002L|
@@ -28661,6 +28666,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unihertz|Titan|Titan|Titan|
 |Unihertz|Titan pocket|Titan_pocket|Titan pocket|
 |Unionaire|Africa|nippori|Unionaire Android TV 2K|
+|Unionaire|UnionaireATV4K|hanyang|Unionaire Android TV|
 |Uniscope|s6w|s6w|s6w|
 |Unistrong|UT10|UT10|UT10|
 |Unistrong|UT12|UT12|UT12|

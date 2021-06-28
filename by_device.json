@@ -10325,13 +10325,13 @@
   },
   {
    "brand": "Blaupunkt",
-   "name": "Czech/Ukraine/Russia",
-   "model": "BLAUPUNKT Android TV 2K"
+   "name": "BLAUPUNKT2K",
+   "model": "BP 2K Android TV"
   },
   {
    "brand": "Blaupunkt",
-   "name": "Ecuador",
-   "model": "BP 2K Android TV"
+   "name": "Czech/Ukraine/Russia",
+   "model": "BLAUPUNKT Android TV 2K"
   },
   {
    "brand": "Cobia",
@@ -10539,6 +10539,11 @@
    "brand": "Soniq",
    "name": "Soniq android TV",
    "model": "SONIQ Android TV"
+  },
+  {
+   "brand": "Unionaire",
+   "name": "UnionaireATV4K",
+   "model": "Unionaire Android TV"
   },
   {
    "brand": "Zephir",
@@ -46039,6 +46044,13 @@
    "model": "FFFTAB10"
   }
  ],
+ "FFFTAB10a3": [
+  {
+   "brand": "FFFSMARTLIFE",
+   "name": "FFFTAB10a3",
+   "model": "FFFTAB10a3"
+  }
+ ],
  "FFFTAB7": [
   {
    "brand": "FFFSMARTLIFE",
@@ -59803,6 +59815,40 @@
    "model": "W861"
   }
  ],
+ "hongik": [
+  {
+   "brand": "Haier",
+   "name": "Haier Android TV",
+   "model": "haierATVhongik"
+  },
+  {
+   "brand": "KONKA",
+   "name": "KONKA Android TV",
+   "model": "KONKA 4K Android TV"
+  },
+  {
+   "brand": "Seiki",
+   "name": "North America",
+   "model": "Seiki Android TV"
+  }
+ ],
+ "uguisudani": [
+  {
+   "brand": "Haier",
+   "name": "Haier Android TV",
+   "model": "haierATVuguisudani"
+  },
+  {
+   "brand": "KONKA",
+   "name": "Konka Android TV",
+   "model": "KONKA 2K Android TV"
+  },
+  {
+   "brand": "Seiki",
+   "name": "North America",
+   "model": "Seiki Android TV 2K"
+  }
+ ],
  "Haier_Leisure_L7": [
   {
    "brand": "Haier",
@@ -60032,13 +60078,6 @@
    "model": "MXG408"
   }
  ],
- "Central America": [
-  {
-   "brand": "Haier",
-   "name": "\"Mexico",
-   "model": "Korea\""
-  }
- ],
  "NEO10-1": [
   {
    "brand": "Haier",
@@ -60065,23 +60104,6 @@
    "brand": "Haier",
    "name": "NEO8-1",
    "model": "NEO8-1"
-  }
- ],
- "uguisudani": [
-  {
-   "brand": "Haier",
-   "name": "North America",
-   "model": "haierATVuguisudani"
-  },
-  {
-   "brand": "KONKA",
-   "name": "North America",
-   "model": "KONKA 2K Android TV"
-  },
-  {
-   "brand": "Seiki",
-   "name": "North America",
-   "model": "Seiki Android TV 2K"
   }
  ],
  "P20": [
@@ -84007,18 +84029,6 @@
    "brand": "KONKA",
    "name": "KM7012BK",
    "model": "KM7012BK"
-  }
- ],
- "hongik": [
-  {
-   "brand": "KONKA",
-   "name": "North America",
-   "model": "KONKA 4K Android TV"
-  },
-  {
-   "brand": "Seiki",
-   "name": "North America",
-   "model": "Seiki Android TV"
   }
  ],
  "RE1": [
@@ -161482,6 +161492,13 @@
    "model": "AQUOS-8KTVJ21"
   }
  ],
+ "tcba8sx": [
+  {
+   "brand": "Sharp",
+   "name": "8T-C**DW1X/DW2X",
+   "model": "AQUOS-TVX21A"
+  }
+ ],
  "lcd_xxgae9a": [
   {
    "brand": "Sharp",
@@ -166524,11 +166541,25 @@
    "model": "XQ-AU52"
   }
  ],
+ "A102SO": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 III",
+   "model": "A102SO"
+  }
+ ],
  "SO-52B": [
   {
    "brand": "Sony",
    "name": "Xperia 10 III",
    "model": "SO-52B"
+  }
+ ],
+ "SOG04": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 III",
+   "model": "SOG04"
   }
  ],
  "XQ-BT52": [
@@ -173497,6 +173528,11 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1B",
    "model": "5002H_RU"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1B",
+   "model": "5002H_TR"
   },
   {
    "brand": "TCT (Alcatel)",

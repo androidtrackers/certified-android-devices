@@ -14589,6 +14589,11 @@
    "model": "BATV10"
   },
   {
+   "device": "nippori",
+   "name": "BLAUPUNKT2K",
+   "model": "BP 2K Android TV"
+  },
+  {
    "device": "BP_6008",
    "name": "BP_6008",
    "model": "BP_6008"
@@ -14677,11 +14682,6 @@
    "device": "tamachi",
    "name": "EU",
    "model": "BLAUPUNKT FHD Android TV"
-  },
-  {
-   "device": "nippori",
-   "name": "Ecuador",
-   "model": "BP 2K Android TV"
   },
   {
    "device": "Blaupunkt",
@@ -31135,6 +31135,11 @@
    "model": "FFFTAB10"
   },
   {
+   "device": "FFFTAB10a3",
+   "name": "FFFTAB10a3",
+   "model": "FFFTAB10a3"
+  },
+  {
    "device": "FFFTAB7",
    "name": "FFFTAB7",
    "model": "FFFTAB7"
@@ -41846,6 +41851,16 @@
    "model": "haierATV"
   },
   {
+   "device": "hongik",
+   "name": "Haier Android TV",
+   "model": "haierATVhongik"
+  },
+  {
+   "device": "uguisudani",
+   "name": "Haier Android TV",
+   "model": "haierATVuguisudani"
+  },
+  {
    "device": "Haier_Leisure_L7",
    "name": "Haier Leisure L7",
    "model": "HM-N700-FL"
@@ -42036,11 +42051,6 @@
    "model": "MAGELITE Android TV"
   },
   {
-   "device": "Central America",
-   "name": "\"Mexico",
-   "model": "Korea\""
-  },
-  {
    "device": "NEO10-1",
    "name": "NEO10-1",
    "model": "NEO10-1"
@@ -42059,11 +42069,6 @@
    "device": "NEO8-1",
    "name": "NEO8-1",
    "model": "NEO8-1"
-  },
-  {
-   "device": "uguisudani",
-   "name": "North America",
-   "model": "haierATVuguisudani"
   },
   {
    "device": "P2",
@@ -62522,19 +62527,19 @@
    "model": "KONKA 2K Android TV"
   },
   {
-   "device": "hanyang",
-   "name": "Konka android tv",
-   "model": "KONKA Android TV 4K"
-  },
-  {
    "device": "hongik",
-   "name": "North America",
+   "name": "KONKA Android TV",
    "model": "KONKA 4K Android TV"
   },
   {
    "device": "uguisudani",
-   "name": "North America",
+   "name": "Konka Android TV",
    "model": "KONKA 2K Android TV"
+  },
+  {
+   "device": "hanyang",
+   "name": "Konka android tv",
+   "model": "KONKA Android TV 4K"
   },
   {
    "device": "RE1",
@@ -125094,6 +125099,11 @@
    "model": "AQUOS-8KTVJ21"
   },
   {
+   "device": "tcba8sx",
+   "name": "8T-C**DW1X/DW2X",
+   "model": "AQUOS-TVX21A"
+  },
+  {
    "device": "lcd_xxgae9a",
    "name": "8T-CxxAXAA",
    "model": "LCD-xxGAE9A"
@@ -128939,9 +128949,19 @@
    "model": "XQ-AU52"
   },
   {
+   "device": "A102SO",
+   "name": "Xperia 10 III",
+   "model": "A102SO"
+  },
+  {
    "device": "SO-52B",
    "name": "Xperia 10 III",
    "model": "SO-52B"
+  },
+  {
+   "device": "SOG04",
+   "name": "Xperia 10 III",
+   "model": "SOG04"
   },
   {
    "device": "XQ-BT52",
@@ -137430,6 +137450,11 @@
    "device": "Seoul",
    "name": "Alcatel 1B",
    "model": "5002H_RU"
+  },
+  {
+   "device": "Seoul",
+   "name": "Alcatel 1B",
+   "model": "5002H_TR"
   },
   {
    "device": "Seoul",
@@ -146993,6 +147018,11 @@
    "device": "nippori",
    "name": "Africa",
    "model": "Unionaire Android TV 2K"
+  },
+  {
+   "device": "hanyang",
+   "name": "UnionaireATV4K",
+   "model": "Unionaire Android TV"
   }
  ],
  "Uniscope": [

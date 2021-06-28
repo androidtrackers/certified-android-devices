@@ -27027,6 +27027,13 @@
    "model": "BATV10"
   }
  ],
+ "BLAUPUNKT2K": [
+  {
+   "brand": "Blaupunkt",
+   "device": "nippori",
+   "model": "BP 2K Android TV"
+  }
+ ],
  "BP_6008": [
   {
    "brand": "Blaupunkt",
@@ -27181,28 +27188,6 @@
    "brand": "Sharp",
    "device": "sindang",
    "model": "AQUOS_TVE19A"
-  }
- ],
- "Ecuador": [
-  {
-   "brand": "Blaupunkt",
-   "device": "nippori",
-   "model": "BP 2K Android TV"
-  },
-  {
-   "brand": "Haier",
-   "device": "nippori",
-   "model": "EVVO 2K Android TV"
-  },
-  {
-   "brand": "Haier",
-   "device": "nippori",
-   "model": "INNOVA 2K Android TV"
-  },
-  {
-   "brand": "Hyundai",
-   "device": "nippori",
-   "model": "HYUNDAI 2K Android TV"
   }
  ],
  "Endeavour101": [
@@ -50220,6 +50205,13 @@
    "model": "FFFTAB10"
   }
  ],
+ "FFFTAB10a3": [
+  {
+   "brand": "FFFSMARTLIFE",
+   "device": "FFFTAB10a3",
+   "model": "FFFTAB10a3"
+  }
+ ],
  "FFFTAB7": [
   {
    "brand": "FFFSMARTLIFE",
@@ -63728,6 +63720,23 @@
    "model": "EVVO 4K Android TV"
   }
  ],
+ "Ecuador": [
+  {
+   "brand": "Haier",
+   "device": "nippori",
+   "model": "EVVO 2K Android TV"
+  },
+  {
+   "brand": "Haier",
+   "device": "nippori",
+   "model": "INNOVA 2K Android TV"
+  },
+  {
+   "brand": "Hyundai",
+   "device": "nippori",
+   "model": "HYUNDAI 2K Android TV"
+  }
+ ],
  "Elegance E13": [
   {
    "brand": "Haier",
@@ -63943,6 +63952,16 @@
    "brand": "Haier",
    "device": "hanyang",
    "model": "haierATV"
+  },
+  {
+   "brand": "Haier",
+   "device": "hongik",
+   "model": "haierATVhongik"
+  },
+  {
+   "brand": "Haier",
+   "device": "uguisudani",
+   "model": "haierATVuguisudani"
   }
  ],
  "Haier Leisure L7": [
@@ -64197,13 +64216,6 @@
    "model": "MAGELITE Android TV"
   }
  ],
- "\"Mexico": [
-  {
-   "brand": "Haier",
-   "device": "Central America",
-   "model": "Korea\""
-  }
- ],
  "NEO10-1": [
   {
    "brand": "Haier",
@@ -64230,48 +64242,6 @@
    "brand": "Haier",
    "device": "NEO8-1",
    "model": "NEO8-1"
-  }
- ],
- "North America": [
-  {
-   "brand": "Haier",
-   "device": "uguisudani",
-   "model": "haierATVuguisudani"
-  },
-  {
-   "brand": "KONKA",
-   "device": "hongik",
-   "model": "KONKA 4K Android TV"
-  },
-  {
-   "brand": "KONKA",
-   "device": "uguisudani",
-   "model": "KONKA 2K Android TV"
-  },
-  {
-   "brand": "SWTV",
-   "device": "SW3_ATV",
-   "model": "SWTV"
-  },
-  {
-   "brand": "Seiki",
-   "device": "hongik",
-   "model": "Seiki Android TV"
-  },
-  {
-   "brand": "Seiki",
-   "device": "uguisudani",
-   "model": "Seiki Android TV 2K"
-  },
-  {
-   "brand": "Skyworth",
-   "device": "globe_na",
-   "model": "globe"
-  },
-  {
-   "brand": "Skyworth",
-   "device": "shimbashi",
-   "model": "2K TV"
   }
  ],
  "P20": [
@@ -87350,6 +87320,20 @@
   {
    "brand": "KONKA",
    "device": "sugamo",
+   "model": "KONKA 2K Android TV"
+  }
+ ],
+ "KONKA Android TV": [
+  {
+   "brand": "KONKA",
+   "device": "hongik",
+   "model": "KONKA 4K Android TV"
+  }
+ ],
+ "Konka Android TV": [
+  {
+   "brand": "KONKA",
+   "device": "uguisudani",
    "model": "KONKA 2K Android TV"
   }
  ],
@@ -144588,6 +144572,33 @@
    "model": "S66"
   }
  ],
+ "North America": [
+  {
+   "brand": "SWTV",
+   "device": "SW3_ATV",
+   "model": "SWTV"
+  },
+  {
+   "brand": "Seiki",
+   "device": "hongik",
+   "model": "Seiki Android TV"
+  },
+  {
+   "brand": "Seiki",
+   "device": "uguisudani",
+   "model": "Seiki Android TV 2K"
+  },
+  {
+   "brand": "Skyworth",
+   "device": "globe_na",
+   "model": "globe"
+  },
+  {
+   "brand": "Skyworth",
+   "device": "shimbashi",
+   "model": "2K TV"
+  }
+ ],
  "SWTV-20AE": [
   {
    "brand": "SWTV",
@@ -159618,6 +159629,13 @@
    "model": "AQUOS-8KTVJ21"
   }
  ],
+ "8T-C**DW1X/DW2X": [
+  {
+   "brand": "Sharp",
+   "device": "tcba8sx",
+   "model": "AQUOS-TVX21A"
+  }
+ ],
  "8T-CxxAXAA": [
   {
    "brand": "Sharp",
@@ -164428,8 +164446,18 @@
  "Xperia 10 III": [
   {
    "brand": "Sony",
+   "device": "A102SO",
+   "model": "A102SO"
+  },
+  {
+   "brand": "Sony",
    "device": "SO-52B",
    "model": "SO-52B"
+  },
+  {
+   "brand": "Sony",
+   "device": "SOG04",
+   "model": "SOG04"
   },
   {
    "brand": "Sony",
@@ -173663,6 +173691,11 @@
    "brand": "TCT (Alcatel)",
    "device": "Seoul",
    "model": "5002H_RU"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Seoul",
+   "model": "5002H_TR"
   },
   {
    "brand": "TCT (Alcatel)",
@@ -184558,6 +184591,13 @@
    "brand": "Unionaire",
    "device": "nippori",
    "model": "Unionaire Android TV 2K"
+  }
+ ],
+ "UnionaireATV4K": [
+  {
+   "brand": "Unionaire",
+   "device": "hanyang",
+   "model": "Unionaire Android TV"
   }
  ],
  "s6w": [

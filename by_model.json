@@ -21412,6 +21412,13 @@
    "device": "ICN"
   }
  ],
+ "BP 2K Android TV": [
+  {
+   "brand": "Blaupunkt",
+   "name": "BLAUPUNKT2K",
+   "device": "nippori"
+  }
+ ],
  "BP_6008": [
   {
    "brand": "Blaupunkt",
@@ -21536,13 +21543,6 @@
    "brand": "Blaupunkt",
    "name": "EU",
    "device": "tamachi"
-  }
- ],
- "BP 2K Android TV": [
-  {
-   "brand": "Blaupunkt",
-   "name": "Ecuador",
-   "device": "nippori"
   }
  ],
  "Endeavour101": [
@@ -43881,6 +43881,13 @@
    "device": "FFFTAB10"
   }
  ],
+ "FFFTAB10a3": [
+  {
+   "brand": "FFFSMARTLIFE",
+   "name": "FFFTAB10a3",
+   "device": "FFFTAB10a3"
+  }
+ ],
  "FFFTAB7": [
   {
    "brand": "FFFSMARTLIFE",
@@ -58409,6 +58416,20 @@
    "device": "hanyang"
   }
  ],
+ "haierATVhongik": [
+  {
+   "brand": "Haier",
+   "name": "Haier Android TV",
+   "device": "hongik"
+  }
+ ],
+ "haierATVuguisudani": [
+  {
+   "brand": "Haier",
+   "name": "Haier Android TV",
+   "device": "uguisudani"
+  }
+ ],
  "HM-N700-FL": [
   {
    "brand": "Haier",
@@ -58683,13 +58704,6 @@
    "device": "hanyang"
   }
  ],
- "Korea\"": [
-  {
-   "brand": "Haier",
-   "name": "\"Mexico",
-   "device": "Central America"
-  }
- ],
  "NEO10-1": [
   {
    "brand": "Haier",
@@ -58716,13 +58730,6 @@
    "brand": "Haier",
    "name": "NEO8-1",
    "device": "NEO8-1"
-  }
- ],
- "haierATVuguisudani": [
-  {
-   "brand": "Haier",
-   "name": "North America",
-   "device": "uguisudani"
   }
  ],
  "P20": [
@@ -85375,7 +85382,7 @@
   },
   {
    "brand": "KONKA",
-   "name": "North America",
+   "name": "KONKA Android TV",
    "device": "hongik"
   }
  ],
@@ -85387,7 +85394,7 @@
   },
   {
    "brand": "KONKA",
-   "name": "North America",
+   "name": "Konka Android TV",
    "device": "uguisudani"
   }
  ],
@@ -166692,6 +166699,13 @@
    "device": "tcve8sj"
   }
  ],
+ "AQUOS-TVX21A": [
+  {
+   "brand": "Sharp",
+   "name": "8T-C**DW1X/DW2X",
+   "device": "tcba8sx"
+  }
+ ],
  "LCD-xxGAE9A": [
   {
    "brand": "Sharp",
@@ -171755,11 +171769,25 @@
    "device": "XQ-AU52"
   }
  ],
+ "A102SO": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 III",
+   "device": "A102SO"
+  }
+ ],
  "SO-52B": [
   {
    "brand": "Sony",
    "name": "Xperia 10 III",
    "device": "SO-52B"
+  }
+ ],
+ "SOG04": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 III",
+   "device": "SOG04"
   }
  ],
  "XQ-BT52": [
@@ -182876,6 +182904,13 @@
   }
  ],
  "5002H_RU": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1B",
+   "device": "Seoul"
+  }
+ ],
+ "5002H_TR": [
   {
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1B",
@@ -194712,6 +194747,13 @@
    "brand": "Unionaire",
    "name": "Africa",
    "device": "nippori"
+  }
+ ],
+ "Unionaire Android TV": [
+  {
+   "brand": "Unionaire",
+   "name": "UnionaireATV4K",
+   "device": "hanyang"
   }
  ],
  "s6w": [
