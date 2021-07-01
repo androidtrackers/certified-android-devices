@@ -2534,6 +2534,13 @@
    "model": "AWOW_CreaPad_1003_EEA"
   }
  ],
+ "CreaPad_1005": [
+  {
+   "brand": "AWOW",
+   "name": "CreaPad_1005",
+   "model": "CreaPad_1005"
+  }
+ ],
  "CreaPad_1009": [
   {
    "brand": "AWOW",
@@ -35200,6 +35207,13 @@
    "brand": "Cubot",
    "name": "KINGKONG 5 Pro",
    "model": "KINGKONG 5 Pro"
+  }
+ ],
+ "KINGKONG_7": [
+  {
+   "brand": "Cubot",
+   "name": "KINGKONG 7",
+   "model": "KINGKONG 7"
   }
  ],
  "KINGKONG_MINI2": [
@@ -96279,6 +96293,13 @@
    "model": "N-57"
   }
  ],
+ "N-57": [
+  {
+   "brand": "LP (TN)",
+   "name": "N-57",
+   "model": "N-57"
+  }
+ ],
  "N-57-Plus": [
   {
    "brand": "LP (TN)",
@@ -121152,6 +121173,13 @@
    "model": "NOGAPAD7G"
   }
  ],
+ "DV8535-KPN": [
+  {
+   "brand": "NOWO",
+   "name": "DV 8535 4K",
+   "model": "DV 8535 4K"
+  }
+ ],
  "NX-20PRO1": [
   {
    "brand": "NSPRE",
@@ -121937,6 +121965,13 @@
    "brand": "Ncredible",
    "name": "NV8-HD",
    "model": "NV8"
+  }
+ ],
+ "CJU": [
+  {
+   "brand": "Nebula",
+   "name": "D0480",
+   "model": "D0480"
   }
  ],
  "D2140-Cosmos": [
@@ -187036,6 +187071,13 @@
    "model": "Power_5S"
   }
  ],
+ "Power_Armor_13": [
+  {
+   "brand": "Ulefone",
+   "name": "Power Armor 13",
+   "model": "Power Armor 13"
+  }
+ ],
  "Power_3L": [
   {
    "brand": "Ulefone",
@@ -203262,6 +203304,13 @@
    "model": "Blade A3 2019-T"
   }
  ],
+ "Z3052T": [
+  {
+   "brand": "ZTE",
+   "name": "Blade A30",
+   "model": "Blade A30"
+  }
+ ],
  "ZTE_Blade_A315": [
   {
    "brand": "ZTE",
@@ -205511,6 +205560,23 @@
    "model": "NX907J"
   }
  ],
+ "P963F07": [
+  {
+   "brand": "ZTE",
+   "name": "Nubia 6010",
+   "model": "Nubia 6010"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE A7030",
+   "model": "ZTE A7030"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE A7030RU",
+   "model": "ZTE A7030RU"
+  }
+ ],
  "P963F05": [
   {
    "brand": "ZTE",
@@ -205629,6 +205695,11 @@
    "brand": "ZTE",
    "name": "P650 2021",
    "model": "P650 2021"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE A51",
+   "model": "ZTE A51"
   },
   {
    "brand": "ZTE",
@@ -207900,6 +207971,13 @@
    "model": "ZTE A2019G Pro"
   }
  ],
+ "P618A11": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE A2022L",
+   "model": "ZTE A2022L"
+  }
+ ],
  "P618A01": [
   {
    "brand": "ZTE",
@@ -207912,6 +207990,13 @@
    "brand": "ZTE",
    "name": "ZTE A2121L",
    "model": "ZTE A2121L"
+  }
+ ],
+ "Z3052O": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE A31 Lite",
+   "model": "ZTE A31 Lite"
   }
  ],
  "P639T10": [
@@ -207957,18 +208042,6 @@
    "brand": "ZTE",
    "name": "ZTE Blade A7s 2020",
    "model": "ZTE A7020RU"
-  }
- ],
- "P963F07": [
-  {
-   "brand": "ZTE",
-   "name": "ZTE A7030",
-   "model": "ZTE A7030"
-  },
-  {
-   "brand": "ZTE",
-   "name": "ZTE A7030RU",
-   "model": "ZTE A7030RU"
   }
  ],
  "calbee": [
@@ -208070,6 +208143,13 @@
    "brand": "ZTE",
    "name": "ZTE Axon 30 Pro 5G",
    "model": "ZTE A2022P"
+  }
+ ],
+ "P875A11": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Axon 30 Ultra 5G",
+   "model": "ZTE A2022PG"
   }
  ],
  "P809F12": [

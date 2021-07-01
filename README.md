@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-06-30
+Last sync is 2021-07-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -178,6 +178,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AVH San Luis S.A.|Vortech_3_0|Vortech_3_0|Vortech 3.0|
 |AWOW|AWOW_CreaPad_1001|AWOW_CreaPad_1001|AWOW_CreaPad_1001|
 |AWOW|AWOW_CreaPad_1003|AWOW_CreaPad_1003_EEA|AWOW_CreaPad_1003_EEA|
+|AWOW|CreaPad_1005|CreaPad_1005|CreaPad_1005|
 |AWOW|CreaPad_1009|CreaPad_1009|CreaPad_1009|
 |AWOW|CreaPad_1009_EEA|CreaPad_1009_EEA|CreaPad_1009_EEA|
 |AWOW|Funtab_801_I|Funtab_801_I|Funtab_801_I|
@@ -4459,6 +4460,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|KING KONG CS|KING_KONG_CS|KING KONG CS|
 |Cubot|KINGKONG 5|KINGKONG_5|KINGKONG 5|
 |Cubot|KINGKONG 5 Pro|KINGKONG_5_Pro|KINGKONG 5 Pro|
+|Cubot|KINGKONG 7|KINGKONG_7|KINGKONG 7|
 |Cubot|KINGKONG MINI2|KINGKONG_MINI2|KINGKONG MINI2|
 |Cubot|KINGKONG_MINI|KINGKONG_MINI|KINGKONG_MINI|
 |Cubot|KING_KONG_3|KING_KONG_3|KING_KONG_3|
@@ -14147,6 +14149,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LP (TN)|Lisa Pro|Lisa_Pro|Lisa Pro|
 |LP (TN)|N-50|LP_N_50|N-50|
 |LP (TN)|N-57|LP_N_57|N-57|
+|LP (TN)|N-57|N-57|N-57|
 |LP (TN)|N-57+|N-57-Plus|N-57|
 |LP (TN)|N-60|N-60|N-60|
 |LP (TN)|N-60|N60|N-60|
@@ -17959,6 +17962,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NOGA|NOGAPAD101GHD|NOGAPAD101GHD|NOGAPAD101GHD|
 |NOGA|NOGAPAD101XTREME|NOGAPAD101XTREME|NOGAPAD101XTREME|
 |NOGA|NOGAPAD7G|NOGAPAD7G|NOGAPAD7G|
+|NOWO|DV 8535 4K|DV8535-KPN|DV 8535 4K|
 |NSPRE|NX-20PRO1|NX-20PRO1|NX-20PRO1|
 |NVIDIA|SHIELD Android TV|foster|SHIELD Android TV|
 |NVIDIA|SHIELD Android TV|foster|SHIELD Console|
@@ -18082,6 +18086,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Naxa|Naxa|NID_7055|NID-7055|
 |Ncredible|NV8|NV8|NV8|
 |Ncredible|NV8-HD|NV8-HD|NV8|
+|Nebula|D0480|CJU|D0480|
 |Nebula|D2130|D2140-Cosmos|D2130|
 |Nebula|D2140|D2140-Cosmos|D2140|
 |Nebula|D2150|D2140-Cosmos|D2150|
@@ -28661,6 +28666,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Power 3S|Power_3S|Power_3S|
 |Ulefone|Power 5|Power_5|Power_5|
 |Ulefone|Power 5S|Power_5S|Power_5S|
+|Ulefone|Power Armor 13|Power_Armor_13|Power Armor 13|
 |Ulefone|Power_3L|Power_3L|Power_3L|
 |Ulefone|Power_3L_EEA|Power_3L_EEA|Power_3L|
 |Ulefone|Power_6|Power_6|Power_6|
@@ -31256,6 +31262,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Blade A210|ZTE_Blade_A210|ZTE Blade A210|
 |ZTE|Blade A3 2019|Z3051T|Blade A3 2019|
 |ZTE|Blade A3 2019|Z3051T|Blade A3 2019-T|
+|ZTE|Blade A30|Z3052T|Blade A30|
 |ZTE|Blade A315|ZTE_Blade_A315|ZTE Blade A315|
 |ZTE|Blade A410|P635E40|Blade A410|
 |ZTE|Blade A410|P635E40|ZTE Blade A410|
@@ -31682,6 +31689,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|NX669J|NX669J-EEA|NX669J|
 |ZTE|NX669J|NX669J-UN|NX669J|
 |ZTE|NX907J|NX907J|NX907J|
+|ZTE|Nubia 6010|P963F07|Nubia 6010|
 |ZTE|Nubia 8011|P963F05|Nubia 8011|
 |ZTE|Nubia N11|P731F50|Nubia N11|
 |ZTE|Nubia N40|P963F50_A|Nubia N40|
@@ -32194,8 +32202,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE A2019G Pro|P845A01|ZTE A2019G Pro|
 |ZTE|ZTE A2020N2 Pro|P855A21|ZTE A2020N2 Pro|
 |ZTE|ZTE A2020N2 Pro|P855A21|ZTE A2020N3 Pro|
+|ZTE|ZTE A2022L|P618A11|ZTE A2022L|
 |ZTE|ZTE A2121E|P618A01|ZTE A2121E|
 |ZTE|ZTE A2121L|P618A03|ZTE A2121L|
+|ZTE|ZTE A31 Lite|Z3052O|ZTE A31 Lite|
+|ZTE|ZTE A51|P963F60|ZTE A51|
 |ZTE|ZTE A520S|P809S10|ZTE A520S|
 |ZTE|ZTE A530|P639T10|ZTE A530|
 |ZTE|ZTE A606|P639S10|ZTE A606|
@@ -32222,6 +32233,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Axon 11 SE 5G|P683S10|ZTE 9000N|
 |ZTE|ZTE Axon 20 5G|P725A02|ZTE A2121G|
 |ZTE|ZTE Axon 30 Pro 5G|P875A12|ZTE A2022P|
+|ZTE|ZTE Axon 30 Ultra 5G|P875A11|ZTE A2022PG|
 |ZTE|ZTE BLADE A0605|P809F15|ZTE BLADE A0605|
 |ZTE|ZTE BLADE A0605|P809F15|ZTE BLADE A6 MAX|
 |ZTE|ZTE BLADE A0620|P840F12|ZTE BLADE A0620|

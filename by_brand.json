@@ -960,6 +960,11 @@
    "model": "AWOW_CreaPad_1003_EEA"
   },
   {
+   "device": "CreaPad_1005",
+   "name": "CreaPad_1005",
+   "model": "CreaPad_1005"
+  },
+  {
    "device": "CreaPad_1009",
    "name": "CreaPad_1009",
    "model": "CreaPad_1009"
@@ -23061,6 +23066,11 @@
    "device": "KINGKONG_5_Pro",
    "name": "KINGKONG 5 Pro",
    "model": "KINGKONG 5 Pro"
+  },
+  {
+   "device": "KINGKONG_7",
+   "name": "KINGKONG 7",
+   "model": "KINGKONG 7"
   },
   {
    "device": "KINGKONG_MINI2",
@@ -72683,6 +72693,11 @@
    "model": "N-57"
   },
   {
+   "device": "N-57",
+   "name": "N-57",
+   "model": "N-57"
+  },
+  {
    "device": "N-57-Plus",
    "name": "N-57+",
    "model": "N-57"
@@ -92213,6 +92228,13 @@
    "model": "NOGAPAD7G"
   }
  ],
+ "NOWO": [
+  {
+   "device": "DV8535-KPN",
+   "name": "DV 8535 4K",
+   "model": "DV 8535 4K"
+  }
+ ],
  "NSPRE": [
   {
    "device": "NX-20PRO1",
@@ -92861,6 +92883,11 @@
   }
  ],
  "Nebula": [
+  {
+   "device": "CJU",
+   "name": "D0480",
+   "model": "D0480"
+  },
   {
    "device": "D2140-Cosmos",
    "name": "D2130",
@@ -146979,6 +147006,11 @@
    "model": "Power_5S"
   },
   {
+   "device": "Power_Armor_13",
+   "name": "Power Armor 13",
+   "model": "Power Armor 13"
+  },
+  {
    "device": "Power_3L",
    "name": "Power_3L",
    "model": "Power_3L"
@@ -160368,6 +160400,11 @@
    "model": "Blade A3 2019-T"
   },
   {
+   "device": "Z3052T",
+   "name": "Blade A30",
+   "model": "Blade A30"
+  },
+  {
    "device": "ZTE_Blade_A315",
    "name": "Blade A315",
    "model": "ZTE Blade A315"
@@ -162496,6 +162533,11 @@
    "device": "NX907J",
    "name": "NX907J",
    "model": "NX907J"
+  },
+  {
+   "device": "P963F07",
+   "name": "Nubia 6010",
+   "model": "Nubia 6010"
   },
   {
    "device": "P963F05",
@@ -165058,6 +165100,11 @@
    "model": "ZTE A2020N3 Pro"
   },
   {
+   "device": "P618A11",
+   "name": "ZTE A2022L",
+   "model": "ZTE A2022L"
+  },
+  {
    "device": "P618A01",
    "name": "ZTE A2121E",
    "model": "ZTE A2121E"
@@ -165066,6 +165113,16 @@
    "device": "P618A03",
    "name": "ZTE A2121L",
    "model": "ZTE A2121L"
+  },
+  {
+   "device": "Z3052O",
+   "name": "ZTE A31 Lite",
+   "model": "ZTE A31 Lite"
+  },
+  {
+   "device": "P963F60",
+   "name": "ZTE A51",
+   "model": "ZTE A51"
   },
   {
    "device": "P809S10",
@@ -165196,6 +165253,11 @@
    "device": "P875A12",
    "name": "ZTE Axon 30 Pro 5G",
    "model": "ZTE A2022P"
+  },
+  {
+   "device": "P875A11",
+   "name": "ZTE Axon 30 Ultra 5G",
+   "model": "ZTE A2022PG"
   },
   {
    "device": "P809F15",
