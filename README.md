@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-07-01
+Last sync is 2021-07-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4282,6 +4282,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Coolpad|Cool 10A|Coolpad_2041|Coolpad_2041|
 |Coolpad|Cool 10A|Coolpad_2041_S0|Coolpad_2041_S0|
 |Coolpad|Cool 10A|Coolpad_2041_U0|Coolpad_2041_U0|
+|Coolpad|Cool 12A|2042|coolpad Cool 12A|
 |Coolpad|Cool C1|cool_c1|C106|
 |Coolpad|Cool C1|cool_c1|C106-6|
 |Coolpad|Cool C1|cool_c1|C106-7|
@@ -11646,6 +11647,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ipro|S401A|S401A|S401A|
 |Ipro|S501|S501|S501|
 |Ipro|S501A|S501A|S501A|
+|Ipro|S501APlus|S501APlus|S501APlus|
 |Ipro|S501Pro|S501Pro|S501 Plus|
 |Ipro|WIN|WIN|WIN|
 |Ipro|WePad|WePad|WePad|
@@ -25240,7 +25242,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 1 II|XQ-AT51|XQ-AT51|
 |Sony|Xperia 1 II|XQ-AT52|XQ-AT52|
 |Sony|Xperia 1 II|XQ-AT72|XQ-AT72|
+|Sony|Xperia 1 III|A101SO|A101SO|
 |Sony|Xperia 1 III|SO-51B|SO-51B|
+|Sony|Xperia 1 III|SOG03|SOG03|
 |Sony|Xperia 1 III|XQ-BC72|XQ-BC72|
 |Sony|Xperia 1 Professional Edition|J9150|J9150|
 |Sony|Xperia 10|I3113|I3113|
@@ -31693,6 +31697,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Nubia 8011|P963F05|Nubia 8011|
 |ZTE|Nubia N11|P731F50|Nubia N11|
 |ZTE|Nubia N40|P963F50_A|Nubia N40|
+|ZTE|Nubia N40|P963F50_A|ZTE Blade A51 Lite|
 |ZTE|OWN FUN 5(4G)|VFD511|OWN FUN 5(4G)|
 |ZTE|OWN FUN 5(4G)|VFD511|ZTE BLADE A321|
 |ZTE|OWN One Plus|ZTE_Blade_V580|OWN One Plus|

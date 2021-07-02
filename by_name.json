@@ -37961,6 +37961,13 @@
    "model": "Coolpad_2041_U0"
   }
  ],
+ "Cool 12A": [
+  {
+   "brand": "Coolpad",
+   "device": "2042",
+   "model": "coolpad Cool 12A"
+  }
+ ],
  "Cool C1": [
   {
    "brand": "Coolpad",
@@ -84149,6 +84156,13 @@
    "brand": "Ipro",
    "device": "S501A",
    "model": "S501A"
+  }
+ ],
+ "S501APlus": [
+  {
+   "brand": "Ipro",
+   "device": "S501APlus",
+   "model": "S501APlus"
   }
  ],
  "S501Pro": [
@@ -165118,8 +165132,18 @@
  "Xperia 1 III": [
   {
    "brand": "Sony",
+   "device": "A101SO",
+   "model": "A101SO"
+  },
+  {
+   "brand": "Sony",
    "device": "SO-51B",
    "model": "SO-51B"
+  },
+  {
+   "brand": "Sony",
+   "device": "SOG03",
+   "model": "SOG03"
   },
   {
    "brand": "Sony",
@@ -201974,6 +201998,11 @@
    "brand": "ZTE",
    "device": "P963F50_A",
    "model": "Nubia N40"
+  },
+  {
+   "brand": "ZTE",
+   "device": "P963F50_A",
+   "model": "ZTE Blade A51 Lite"
   }
  ],
  "OWN FUN 5(4G)": [

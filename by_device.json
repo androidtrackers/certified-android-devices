@@ -33574,6 +33574,13 @@
    "model": "Coolpad_2041_U0"
   }
  ],
+ "2042": [
+  {
+   "brand": "Coolpad",
+   "name": "Cool 12A",
+   "model": "coolpad Cool 12A"
+  }
+ ],
  "2039": [
   {
    "brand": "Coolpad",
@@ -80946,6 +80953,13 @@
    "brand": "Ipro",
    "name": "S501A",
    "model": "S501A"
+  }
+ ],
+ "S501APlus": [
+  {
+   "brand": "Ipro",
+   "name": "S501APlus",
+   "model": "S501APlus"
   }
  ],
  "S501Pro": [
@@ -167163,11 +167177,25 @@
    "model": "XQ-AT72"
   }
  ],
+ "A101SO": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 1 III",
+   "model": "A101SO"
+  }
+ ],
  "SO-51B": [
   {
    "brand": "Sony",
    "name": "Xperia 1 III",
    "model": "SO-51B"
+  }
+ ],
+ "SOG03": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 1 III",
+   "model": "SOG03"
   }
  ],
  "XQ-BC72": [
@@ -205616,6 +205644,11 @@
    "brand": "ZTE",
    "name": "Nubia N40",
    "model": "Nubia N40"
+  },
+  {
+   "brand": "ZTE",
+   "name": "Nubia N40",
+   "model": "ZTE Blade A51 Lite"
   },
   {
    "brand": "ZTE",
