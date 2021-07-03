@@ -4864,6 +4864,11 @@
    "model": "S33"
   },
   {
+   "device": "S34",
+   "name": "S34",
+   "model": "S34"
+  },
+  {
    "device": "HS6737MT",
    "name": "S41",
    "model": "S41"
@@ -90107,6 +90112,11 @@
    "model": "M7sLite"
   },
   {
+   "device": "ML_SO0J_M8_4G",
+   "name": "M8 4G",
+   "model": "M8_4G"
+  },
+  {
    "device": "ML_SO19_M8_4G",
    "name": "M8_4G",
    "model": "M8_4G"
@@ -108211,6 +108221,11 @@
    "device": "Space_A8",
    "name": "Space_A18",
    "model": "Space_A8"
+  },
+  {
+   "device": "Space_M10Pro",
+   "name": "Space_M10Pro",
+   "model": "Space_M10Pro"
   }
  ],
  "RIO Mobile": [
@@ -147440,6 +147455,11 @@
    "device": "Power",
    "name": "Power",
    "model": "Power"
+  },
+  {
+   "device": "Power_5",
+   "name": "Power 5",
+   "model": "Power 5"
   },
   {
    "device": "Power_3",

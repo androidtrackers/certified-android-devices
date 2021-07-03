@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-07-02
+Last sync is 2021-07-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -936,6 +936,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Altice|S32_NFC|S32_NFC|S32_NFC|
 |Altice|S32_Plus|S32_Plus|S32_Plus|
 |Altice|S33|S33|S33|
+|Altice|S34|S34|S34|
 |Altice|S41|HS6737MT|S41|
 |Altice|S42|S42|S42|
 |Altice|S51|HS6737MT|S51|
@@ -17549,6 +17550,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M7s Dual Core|NB116_NB117_NB118|M7s Dual ML03|
 |Multilaser|M7s Quad Core|astar-ococci|ML01-M7S-Quad-Core|
 |Multilaser|M7sLite|ML-SO06-M7sLite|M7sLite|
+|Multilaser|M8 4G|ML_SO0J_M8_4G|M8_4G|
 |Multilaser|M8_4G|ML_SO19_M8_4G|M8_4G|
 |Multilaser|M9 3G|ML-WI16-M9_3G|M9_3G|
 |Multilaser|M9-3G|M9-3G|M9-3G|
@@ -21065,6 +21067,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RED|HydrogenONE|HydrogenONE|H1A1000|
 |REDLINE|Space_A10|Space_A10|Space_A10|
 |REDLINE|Space_A18|Space_A8|Space_A8|
+|REDLINE|Space_M10Pro|Space_M10Pro|Space_M10Pro|
 |RIO Mobile|R7MAX|R7MAX|R7MAX|
 |RIO Mobile|RW10|RW10|RW10|
 |RIO Mobile|RW8|RW8|RW8|
@@ -28752,6 +28755,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|One Max RU|One_Max|One Max|
 |Umidigi|One Pro|One_Pro|One Pro|
 |Umidigi|Power|Power|Power|
+|Umidigi|Power 5|Power_5|Power 5|
 |Umidigi|Power_3|Power_3|Power_3|
 |Umidigi|Power_3_EEA|Power_3|Power_3|
 |Umidigi|S2PRO|S2_PRO|S2_PRO|

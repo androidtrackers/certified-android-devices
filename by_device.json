@@ -9324,6 +9324,13 @@
    "model": "S33"
   }
  ],
+ "S34": [
+  {
+   "brand": "Altice",
+   "name": "S34",
+   "model": "S34"
+  }
+ ],
  "HS6737MT": [
   {
    "brand": "Altice",
@@ -98958,6 +98965,11 @@
    "brand": "Ulefone",
    "name": "Power 5",
    "model": "Power_5"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "Power 5",
+   "model": "Power 5"
   }
  ],
  "Power_5_Lite": [
@@ -118438,6 +118450,13 @@
    "brand": "Multilaser",
    "name": "M7sLite",
    "model": "M7sLite"
+  }
+ ],
+ "ML_SO0J_M8_4G": [
+  {
+   "brand": "Multilaser",
+   "name": "M8 4G",
+   "model": "M8_4G"
   }
  ],
  "ML_SO19_M8_4G": [
@@ -140609,6 +140628,13 @@
    "brand": "REDLINE",
    "name": "Space_A18",
    "model": "Space_A8"
+  }
+ ],
+ "Space_M10Pro": [
+  {
+   "brand": "REDLINE",
+   "name": "Space_M10Pro",
+   "model": "Space_M10Pro"
   }
  ],
  "R7MAX": [

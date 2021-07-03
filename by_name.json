@@ -13324,6 +13324,13 @@
    "model": "itel S33"
   }
  ],
+ "S34": [
+  {
+   "brand": "Altice",
+   "device": "S34",
+   "model": "S34"
+  }
+ ],
  "S41": [
   {
    "brand": "Altice",
@@ -101445,6 +101452,11 @@
    "brand": "Ulefone",
    "device": "Power_5",
    "model": "Power_5"
+  },
+  {
+   "brand": "Umidigi",
+   "device": "Power_5",
+   "model": "Power 5"
   }
  ],
  "Power 5 Lite": [
@@ -119035,6 +119047,13 @@
    "brand": "Multilaser",
    "device": "ML-SO06-M7sLite",
    "model": "M7sLite"
+  }
+ ],
+ "M8 4G": [
+  {
+   "brand": "Multilaser",
+   "device": "ML_SO0J_M8_4G",
+   "model": "M8_4G"
   }
  ],
  "M8_4G": [
@@ -141133,6 +141152,13 @@
    "brand": "REDLINE",
    "device": "Space_A8",
    "model": "Space_A8"
+  }
+ ],
+ "Space_M10Pro": [
+  {
+   "brand": "REDLINE",
+   "device": "Space_M10Pro",
+   "model": "Space_M10Pro"
   }
  ],
  "R7MAX": [

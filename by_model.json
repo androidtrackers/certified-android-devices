@@ -7986,6 +7986,13 @@
    "device": "S33"
   }
  ],
+ "S34": [
+  {
+   "brand": "Altice",
+   "name": "S34",
+   "device": "S34"
+  }
+ ],
  "S41": [
   {
    "brand": "Altice",
@@ -101443,6 +101450,11 @@
    "brand": "Leagoo",
    "name": "Power 5",
    "device": "Power_5"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "Power 5",
+   "device": "Power_5"
   }
  ],
  "Power 5 Lite": [
@@ -121238,6 +121250,11 @@
   }
  ],
  "M8_4G": [
+  {
+   "brand": "Multilaser",
+   "name": "M8 4G",
+   "device": "ML_SO0J_M8_4G"
+  },
   {
    "brand": "Multilaser",
    "name": "M8_4G",
@@ -144149,6 +144166,13 @@
    "brand": "REDLINE",
    "name": "Space_A18",
    "device": "Space_A8"
+  }
+ ],
+ "Space_M10Pro": [
+  {
+   "brand": "REDLINE",
+   "name": "Space_M10Pro",
+   "device": "Space_M10Pro"
   }
  ],
  "R7MAX": [
