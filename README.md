@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-07-03
+Last sync is 2021-07-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -20178,6 +20178,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|Twist 2018|S511|Twist (2018)|
 |Positivo|Twist 4|S514|Twist 4|
 |Positivo|Twist 4 Fit|S509N|Twist 4 Fit|
+|Positivo|Twist 4 Fit|S509N|YOLO|
 |Positivo|Twist 4 Pro|S518|Twist 4 Pro|
 |Positivo|Twist 4G|S5094G|Twist 4G|
 |Positivo|Twist 4G|S520_4G|Positivo Twist 4G|

@@ -103678,6 +103678,11 @@
    "model": "Twist 4 Fit"
   },
   {
+   "device": "S509N",
+   "name": "Twist 4 Fit",
+   "model": "YOLO"
+  },
+  {
    "device": "S518",
    "name": "Twist 4 Pro",
    "model": "Twist 4 Pro"
