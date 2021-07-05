@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-07-04
+Last sync is 2021-07-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2773,6 +2773,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|BV5500PLUS|BV5500Plus|BV5500Plus|
 |Blackview|BV5500Plus|BV5500Plus|BV5500Plus|
 |Blackview|BV5500Pro|BV5500Pro|BV5500Pro|
+|Blackview|BV5500S|BV5500S|BV5500|
 |Blackview|BV5800|BV5800|BV5800|
 |Blackview|BV5800PRO|BV5800_PRO|BV5800 PRO|
 |Blackview|BV5800PRO_RU|BV5800Pro_RU|BV5800Pro_RU|
@@ -4735,6 +4736,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DO Mobile|Mate1|Mate1|DO_S1|
 |DO Mobile|Mate1|Mate1|Mate1|
 |DO Mobile|S10_Plus|S10_Plus|S10_Plus|
+|DORA|Android TV|R1|ATV R1|
+|DORA|Android TV|R2|ATV R2|
 |DSIC|Mobilebase DS6|ds6|DS6|
 |DSIC|RD86QE|RD86QE|RD86QE|
 |DTC products|S10|S10|S10|

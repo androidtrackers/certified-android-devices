@@ -14289,6 +14289,11 @@
    "model": "BV5500Pro"
   },
   {
+   "device": "BV5500S",
+   "name": "BV5500S",
+   "model": "BV5500"
+  },
+  {
    "device": "BV5800",
    "name": "BV5800",
    "model": "BV5800"
@@ -24479,6 +24484,18 @@
    "device": "S10_Plus",
    "name": "S10_Plus",
    "model": "S10_Plus"
+  }
+ ],
+ "DORA": [
+  {
+   "device": "R1",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
   }
  ],
  "DSIC": [

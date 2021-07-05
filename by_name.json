@@ -9128,6 +9128,16 @@
    "model": "ATV R2"
   },
   {
+   "brand": "DORA",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "DORA",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
    "brand": "Denka",
    "device": "R1",
    "model": "ATV R1"
@@ -26594,6 +26604,13 @@
    "brand": "Blackview",
    "device": "BV5500Pro",
    "model": "BV5500Pro"
+  }
+ ],
+ "BV5500S": [
+  {
+   "brand": "Blackview",
+   "device": "BV5500S",
+   "model": "BV5500"
   }
  ],
  "BV5800": [

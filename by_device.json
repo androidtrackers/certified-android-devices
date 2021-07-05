@@ -4911,6 +4911,11 @@
    "model": "ATV R1"
   },
   {
+   "brand": "DORA",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
    "brand": "Denka",
    "name": "Android TV",
    "model": "ATV R1"
@@ -5099,6 +5104,11 @@
   },
   {
    "brand": "Condor",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "DORA",
    "name": "Android TV",
    "model": "ATV R2"
   },
@@ -22864,6 +22874,11 @@
   {
    "brand": "Blackview",
    "name": "BV5500",
+   "model": "BV5500"
+  },
+  {
+   "brand": "Blackview",
+   "name": "BV5500S",
    "model": "BV5500"
   }
  ],
