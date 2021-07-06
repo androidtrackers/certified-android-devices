@@ -6996,6 +6996,13 @@
    "model": "U318AA"
   }
  ],
+ "U319AA": [
+  {
+   "brand": "AT&T",
+   "device": "U319AA",
+   "model": "U319AA"
+  }
+ ],
  "U705AA": [
   {
    "brand": "AT&T",
@@ -16651,6 +16658,13 @@
    "brand": "Archos",
    "device": "LUDO",
    "model": "ARCHOS LUDOG10"
+  }
+ ],
+ "X18_Ultra": [
+  {
+   "brand": "Archos",
+   "device": "X18_Ultra",
+   "model": "X18_Ultra"
   }
  ],
  "X67 5G": [
@@ -53708,6 +53722,11 @@
    "model": "FUNAI 4K TV"
   },
   {
+   "brand": "Kubo",
+   "device": "samseong",
+   "model": "AI PONT"
+  },
+  {
    "brand": "Philips",
    "device": "guui",
    "model": "PHILIPS 4k TV"
@@ -53726,6 +53745,11 @@
    "brand": "Redmi",
    "device": "tarzan",
    "model": "MiTV-MOOQ3"
+  },
+  {
+   "brand": "Swosh",
+   "device": "samseong",
+   "model": "AI PONT"
   },
   {
    "brand": "TCL",
@@ -54631,6 +54655,18 @@
    "brand": "GP-electronic",
    "device": "YC-83T",
    "model": "YC-83T"
+  }
+ ],
+ "E101GC": [
+  {
+   "brand": "GREATASIA",
+   "device": "E101GC",
+   "model": "E101GC"
+  },
+  {
+   "brand": "HANYEAL",
+   "device": "E101GC",
+   "model": "E101GC"
   }
  ],
  "E101GC4G": [
@@ -59025,18 +59061,18 @@
    "model": "HAKO mini"
   }
  ],
- "E101GC": [
-  {
-   "brand": "HANYEAL",
-   "device": "E101GC",
-   "model": "E101GC"
-  }
- ],
  "E108GC4G": [
   {
    "brand": "HANYEAL",
    "device": "E108GC4G",
    "model": "E108GC4G"
+  }
+ ],
+ "HP10": [
+  {
+   "brand": "HAOVM",
+   "device": "HP10",
+   "model": "P10"
   }
  ],
  "HP10_EEA": [
@@ -67587,6 +67623,11 @@
   },
   {
    "brand": "Hisense",
+   "device": "HLTE232E_11",
+   "model": "Hisense E50"
+  },
+  {
+   "brand": "Hisense",
    "device": "HLTE232E_20",
    "model": "Hisense E50 128G"
   }
@@ -67620,6 +67661,11 @@
   {
    "brand": "Hisense",
    "device": "HLTE228E_12",
+   "model": "Hisense E50 Lite"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HLTE228E_14",
    "model": "Hisense E50 Lite"
   }
  ],
@@ -67942,6 +67988,11 @@
   {
    "brand": "Hisense",
    "device": "HLTE222E",
+   "model": "Hisense U50"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HLTE222E_01",
    "model": "Hisense U50"
   },
   {
@@ -90009,6 +90060,13 @@
    "brand": "Konrow",
    "device": "EASY_S55P",
    "model": "EASY_S55P_EEA"
+  }
+ ],
+ "K-TAB703": [
+  {
+   "brand": "Konrow",
+   "device": "K-TAB703",
+   "model": "K-TAB703"
   }
  ],
  "KONROW": [
@@ -135452,6 +135510,11 @@
    "brand": "Positivo",
    "device": "S518",
    "model": "Twist 4 Pro"
+  },
+  {
+   "brand": "Positivo",
+   "device": "S518",
+   "model": "UP 32"
   }
  ],
  "Twist 4G": [
@@ -186422,6 +186485,13 @@
    "model": "KingPad_M10"
   }
  ],
+ "KingPad_M10_EEA": [
+  {
+   "brand": "Vastking",
+   "device": "KingPad_M10_EEA",
+   "model": "KingPad_M10_EEA"
+  }
+ ],
  "KingPad_SA10": [
   {
    "brand": "Vastking",
@@ -189884,6 +189954,13 @@
    "brand": "Vivo",
    "device": "PD2047",
    "model": "V2059A"
+  }
+ ],
+ "V2060": [
+  {
+   "brand": "Vivo",
+   "device": "2060",
+   "model": "V2060"
   }
  ],
  "V2061": [
@@ -195605,6 +195682,13 @@
    "brand": "X-TIGI",
    "device": "A20S_PRO",
    "model": "A20S PRO"
+  }
+ ],
+ "Hope10_Mate": [
+  {
+   "brand": "X-TIGI",
+   "device": "Hope10_Mate",
+   "model": "Hope10 Mate"
   }
  ],
  "Hope10_Pro": [

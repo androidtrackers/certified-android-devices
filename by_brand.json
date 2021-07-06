@@ -802,6 +802,11 @@
    "model": "U318AA"
   },
   {
+   "device": "U319AA",
+   "name": "U319AA",
+   "model": "U319AA"
+  },
+  {
    "device": "U705AA",
    "name": "U705AA",
    "model": "U705AA"
@@ -7244,6 +7249,11 @@
    "device": "LUDO",
    "name": "TV Connect",
    "model": "ARCHOS LUDOG10"
+  },
+  {
+   "device": "X18_Ultra",
+   "name": "X18_Ultra",
+   "model": "X18_Ultra"
   },
   {
    "device": "ac67x5g",
@@ -34415,6 +34425,11 @@
  ],
  "GREATASIA": [
   {
+   "device": "E101GC",
+   "name": "E101GC",
+   "model": "E101GC"
+  },
+  {
    "device": "E101GC4G",
    "name": "E101GC4G",
    "model": "E101GC4G"
@@ -37595,6 +37610,11 @@
   }
  ],
  "HAOVM": [
+  {
+   "device": "HP10",
+   "name": "HP10",
+   "model": "P10"
+  },
   {
    "device": "HP10_EEA",
    "name": "HP10_EEA",
@@ -44807,6 +44827,11 @@
    "model": "Hisense E50"
   },
   {
+   "device": "HLTE232E_11",
+   "name": "Hisense E50",
+   "model": "Hisense E50"
+  },
+  {
    "device": "HLTE232E_20",
    "name": "Hisense E50",
    "model": "Hisense E50 128G"
@@ -44838,6 +44863,11 @@
   },
   {
    "device": "HLTE228E_12",
+   "name": "Hisense E50 Lite",
+   "model": "Hisense E50 Lite"
+  },
+  {
+   "device": "HLTE228E_14",
    "name": "Hisense E50 Lite",
    "model": "Hisense E50 Lite"
   },
@@ -45098,6 +45128,11 @@
   },
   {
    "device": "HLTE222E",
+   "name": "Hisense U50",
+   "model": "Hisense U50"
+  },
+  {
+   "device": "HLTE222E_01",
    "name": "Hisense U50",
    "model": "Hisense U50"
   },
@@ -64558,6 +64593,11 @@
    "model": "EASY_S55P_EEA"
   },
   {
+   "device": "K-TAB703",
+   "name": "K-TAB703",
+   "model": "K-TAB703"
+  },
+  {
    "device": "KONROW_701X",
    "name": "KONROW",
    "model": "KONROW_701X"
@@ -64896,6 +64936,11 @@
    "device": "K5",
    "name": "K5",
    "model": "K5"
+  },
+  {
+   "device": "samseong",
+   "name": "Smart TV",
+   "model": "AI PONT"
   }
  ],
  "Kudae": [
@@ -103705,6 +103750,11 @@
    "model": "Twist 4 Pro"
   },
   {
+   "device": "S518",
+   "name": "Twist 4 Pro",
+   "model": "UP 32"
+  },
+  {
    "device": "S5094G",
    "name": "Twist 4G",
    "model": "Twist 4G"
@@ -133606,6 +133656,11 @@
    "device": "samseong",
    "name": "AndroidTV",
    "model": "AI PONT"
+  },
+  {
+   "device": "samseong",
+   "name": "Smart TV",
+   "model": "AI PONT"
   }
  ],
  "Syinix": [
@@ -148551,6 +148606,11 @@
    "model": "KingPad_M10"
   },
   {
+   "device": "KingPad_M10_EEA",
+   "name": "KingPad_M10_EEA",
+   "model": "KingPad_M10_EEA"
+  },
+  {
    "device": "KingPad_SA10",
    "name": "KingPad_SA10",
    "model": "KingPad_SA10"
@@ -151341,6 +151401,11 @@
    "device": "PD2047",
    "name": "V2059A",
    "model": "V2059A"
+  },
+  {
+   "device": "2060",
+   "name": "V2060",
+   "model": "V2060"
   },
   {
    "device": "2061",
@@ -156200,6 +156265,11 @@
    "device": "X-TIGI_A55",
    "name": "A55",
    "model": "A55"
+  },
+  {
+   "device": "Hope10_Mate",
+   "name": "Hope10_Mate",
+   "model": "Hope10 Mate"
   },
   {
    "device": "Hope10_Pro",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-07-05
+Last sync is 2021-07-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -150,6 +150,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AT&T|U202AA|U202AA|U202AA|
 |AT&T|U304AA|U304AA|U304AA|
 |AT&T|U318AA|U318AA|U318AA|
+|AT&T|U319AA|U319AA|U319AA|
 |AT&T|U705AA|U705AA|U705AA|
 |ATEAM|A1010|A1010|A1010|
 |ATEAM|A801|A801|A801|
@@ -1406,6 +1407,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Archos|Smart Home Tablet|hometablet|Archos Smart Home Tablet|
 |Archos|Smarthome La Poste|hometablet|Archos Smart Home Tablet|
 |Archos|TV Connect|LUDO|ARCHOS LUDOG10|
+|Archos|X18_Ultra|X18_Ultra|X18_Ultra|
 |Archos|X67 5G|ac67x5g|X67 5G|
 |Archos|alba 10|ac101cplv2|ALBA 10 TABLET|
 |Archos|alba 10|ac101cplv2|"Alba 10"""|
@@ -6623,6 +6625,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GP-electronic|YC-102D|YC-102D|YC-102D|
 |GP-electronic|YC-3135D|YC-3135D|YC-3135D|
 |GP-electronic|YC-83T|YC-83T|YC-83T|
+|GREATASIA|E101GC|E101GC|E101GC|
 |GREATASIA|E101GC4G|E101GC4G|E101GC4G|
 |GREATASIA|E101GCM|E101GCM|E101GCM|
 |GREATASIA|ET103G|ET103G|ET103G|
@@ -7234,6 +7237,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HAKO|HAKO mini|GMP|HAKO mini|
 |HANYEAL|E101GC|E101GC|E101GC|
 |HANYEAL|E108GC4G|E108GC4G|E108GC4G|
+|HAOVM|HP10|HP10|P10|
 |HAOVM|HP10_EEA|HP10_EEA|P10_EEA|
 |HAOVM|HP20|HP20|P20|
 |HAOVM|MediaPadP8|P8|P8|
@@ -8659,6 +8663,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense E50|HLTE232E_01|Hisense E50|
 |Hisense|Hisense E50|HLTE232E_02|Hisense E50|
 |Hisense|Hisense E50|HLTE232E_10|Hisense E50|
+|Hisense|Hisense E50|HLTE232E_11|Hisense E50|
 |Hisense|Hisense E50|HLTE232E_20|Hisense E50 128G|
 |Hisense|Hisense E50 Lite|HLTE228E|Hisense E50 Lite|
 |Hisense|Hisense E50 Lite|HLTE228E_01|Hisense E50 Lite|
@@ -8666,6 +8671,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense E50 Lite|HLTE228E_10|Hisense E50 Lite|
 |Hisense|Hisense E50 Lite|HLTE228E_11|Hisense E50 Lite|
 |Hisense|Hisense E50 Lite|HLTE228E_12|Hisense E50 Lite|
+|Hisense|Hisense E50 Lite|HLTE228E_14|Hisense E50 Lite|
 |Hisense|Hisense E76MINIM|HS8937QC|Hisense E76MINIM|
 |Hisense|Hisense E77|HS8937QC|Hisense E77|
 |Hisense|Hisense F15|HS6739MT|Hisense F15|
@@ -8718,6 +8724,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U40|HLTE103E_33|Hisense U40|
 |Hisense|Hisense U40|SC9832E|Hisense U40|
 |Hisense|Hisense U50|HLTE222E|Hisense U50|
+|Hisense|Hisense U50|HLTE222E_01|Hisense U50|
 |Hisense|Hisense U50|HLTE233E_10|Hisense H50 Lite|
 |Hisense|Hisense U605|HS7731ESP|Hisense U30|
 |Hisense|Hisense U605|HS7731ESP|Hisense U50|
@@ -12534,6 +12541,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Konrow|EASY_5|EASY_5|EASY_5_EEA|
 |Konrow|EASY_K55|EASY_K55|EASY K55|
 |Konrow|EASY_S55P|EASY_S55P|EASY_S55P_EEA|
+|Konrow|K-TAB703|K-TAB703|K-TAB703|
 |Konrow|KONROW|KONROW_701X|KONROW_701X|
 |Konrow|KTAB_1003|KTAB_1003|KTAB_1003|
 |Konrow|LINK55|LINK55|LINK55|
@@ -12600,6 +12608,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kruger&Matz|MOVE_8.1|MOVE_8_1|MOVE_8|
 |Kubo|F99|F99|F99|
 |Kubo|K5|K5|K5|
+|Kubo|Smart TV|samseong|AI PONT|
 |Kudae|K10|K10|K10|
 |Kudae|K10 PRO|K10_PRO|K10 PRO|
 |Kudae|K101|K101|K101|
@@ -20183,6 +20192,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|Twist 4 Fit|S509N|Twist 4 Fit|
 |Positivo|Twist 4 Fit|S509N|YOLO|
 |Positivo|Twist 4 Pro|S518|Twist 4 Pro|
+|Positivo|Twist 4 Pro|S518|UP 32|
 |Positivo|Twist 4G|S5094G|Twist 4G|
 |Positivo|Twist 4G|S520_4G|Positivo Twist 4G|
 |Positivo|Twist Max|S540|Twist Max|
@@ -26054,6 +26064,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Swissvoice|G50|G50|G50|
 |Switel|VS700|VS700|VS700|
 |Swosh|AndroidTV|samseong|AI PONT|
+|Swosh|Smart TV|samseong|AI PONT|
 |Syinix|32A1S|ikebukuro|AI PONT|
 |Syinix|55A1S|samseong|AI PONT|
 |Syinix|Africa|yeongdeungpo|Syinix UHD Android TV|
@@ -28955,6 +28966,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vastking|KingPad_K10Pro_EEA|KingPad_K10Pro_EEA|KingPad_K10Pro_EEA|
 |Vastking|KingPad_K10_EEA|KingPad_K10_EEA|KingPad_K10_EEA|
 |Vastking|KingPad_M10|KingPad_M10|KingPad_M10|
+|Vastking|KingPad_M10_EEA|KingPad_M10_EEA|KingPad_M10_EEA|
 |Vastking|KingPad_SA10|KingPad_SA10|KingPad_SA10|
 |Vastking|KingPad_SA10_EEA|KingPad_SA10_EEA|KingPad_SA10_EEA|
 |Vastking|KingPad_SA8|KingPad_SA8|KingPad_SA8|
@@ -29499,6 +29511,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2058|2058|V2058|
 |Vivo|V2059|2059|V2059|
 |Vivo|V2059A|PD2047|V2059A|
+|Vivo|V2060|2060|V2060|
 |Vivo|V2061|2061|V2061|
 |Vivo|V2061A|PD2061|V2061A|
 |Vivo|V2065|2026|V2065|
@@ -30440,6 +30453,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |X-TIGI|A20S_PRO|A20S_PRO|A20S PRO|
 |X-TIGI|A3|A3|A3|
 |X-TIGI|A55|X-TIGI_A55|A55|
+|X-TIGI|Hope10_Mate|Hope10_Mate|Hope10 Mate|
 |X-TIGI|Hope10_Pro|Hope10_Pro|Hope10 Pro|
 |X-TIGI|Hope7_LTE|Hope7_LTE|Hope7 LTE|
 |X-TIGI|Hope7_Mate|Hope7_Mate|Hope7_Mate|

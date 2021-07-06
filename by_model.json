@@ -1146,6 +1146,11 @@
    "device": "samseong"
   },
   {
+   "brand": "Kubo",
+   "name": "Smart TV",
+   "device": "samseong"
+  },
+  {
    "brand": "LUCOMS",
    "name": "T05CUA",
    "device": "sindorim"
@@ -1258,6 +1263,11 @@
   {
    "brand": "Swosh",
    "name": "AndroidTV",
+   "device": "samseong"
+  },
+  {
+   "brand": "Swosh",
+   "name": "Smart TV",
    "device": "samseong"
   },
   {
@@ -1683,6 +1693,13 @@
    "brand": "AT&T",
    "name": "U318AA",
    "device": "U318AA"
+  }
+ ],
+ "U319AA": [
+  {
+   "brand": "AT&T",
+   "name": "U319AA",
+   "device": "U319AA"
   }
  ],
  "U705AA": [
@@ -11343,6 +11360,13 @@
    "brand": "Archos",
    "name": "TV Connect",
    "device": "LUDO"
+  }
+ ],
+ "X18_Ultra": [
+  {
+   "brand": "Archos",
+   "name": "X18_Ultra",
+   "device": "X18_Ultra"
   }
  ],
  "X67 5G": [
@@ -48440,6 +48464,18 @@
    "device": "YC-83T"
   }
  ],
+ "E101GC": [
+  {
+   "brand": "GREATASIA",
+   "name": "E101GC",
+   "device": "E101GC"
+  },
+  {
+   "brand": "HANYEAL",
+   "name": "E101GC",
+   "device": "E101GC"
+  }
+ ],
  "E101GC4G": [
   {
    "brand": "GREATASIA",
@@ -52803,18 +52839,48 @@
    "device": "GMP"
   }
  ],
- "E101GC": [
-  {
-   "brand": "HANYEAL",
-   "name": "E101GC",
-   "device": "E101GC"
-  }
- ],
  "E108GC4G": [
   {
    "brand": "HANYEAL",
    "name": "E108GC4G",
    "device": "E108GC4G"
+  }
+ ],
+ "P10": [
+  {
+   "brand": "HAOVM",
+   "name": "HP10",
+   "device": "HP10"
+  },
+  {
+   "brand": "Haier",
+   "name": "Power P10",
+   "device": "P10"
+  },
+  {
+   "brand": "POPTEL",
+   "name": "POPTEL P10",
+   "device": "P10"
+  },
+  {
+   "brand": "PT mobile",
+   "name": "P10",
+   "device": "P10"
+  },
+  {
+   "brand": "Reeder",
+   "name": "P10",
+   "device": "P10"
+  },
+  {
+   "brand": "Vankyo",
+   "name": "P10",
+   "device": "P10"
+  },
+  {
+   "brand": "iRulu",
+   "name": "P10",
+   "device": "P10"
   }
  ],
  "P10_EEA": [
@@ -59200,38 +59266,6 @@
    "device": "PNDPP47GP"
   }
  ],
- "P10": [
-  {
-   "brand": "Haier",
-   "name": "Power P10",
-   "device": "P10"
-  },
-  {
-   "brand": "POPTEL",
-   "name": "POPTEL P10",
-   "device": "P10"
-  },
-  {
-   "brand": "PT mobile",
-   "name": "P10",
-   "device": "P10"
-  },
-  {
-   "brand": "Reeder",
-   "name": "P10",
-   "device": "P10"
-  },
-  {
-   "brand": "Vankyo",
-   "name": "P10",
-   "device": "P10"
-  },
-  {
-   "brand": "iRulu",
-   "name": "P10",
-   "device": "P10"
-  }
- ],
  "S5 Silk": [
   {
    "brand": "Haier",
@@ -62328,6 +62362,11 @@
    "brand": "Hisense",
    "name": "Hisense E50",
    "device": "HLTE232E_10"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense E50",
+   "device": "HLTE232E_11"
   }
  ],
  "Hisense E50 128G": [
@@ -62367,6 +62406,11 @@
    "brand": "Hisense",
    "name": "Hisense E50 Lite",
    "device": "HLTE228E_12"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense E50 Lite",
+   "device": "HLTE228E_14"
   }
  ],
  "Hisense E76MINIM": [
@@ -62706,6 +62750,11 @@
    "brand": "Hisense",
    "name": "Hisense U50",
    "device": "HLTE222E"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense U50",
+   "device": "HLTE222E_01"
   },
   {
    "brand": "Hisense",
@@ -88030,6 +88079,13 @@
    "brand": "Konrow",
    "name": "EASY_S55P",
    "device": "EASY_S55P"
+  }
+ ],
+ "K-TAB703": [
+  {
+   "brand": "Konrow",
+   "name": "K-TAB703",
+   "device": "K-TAB703"
   }
  ],
  "KONROW_701X": [
@@ -138331,6 +138387,13 @@
   }
  ],
  "Twist 4 Pro": [
+  {
+   "brand": "Positivo",
+   "name": "Twist 4 Pro",
+   "device": "S518"
+  }
+ ],
+ "UP 32": [
   {
    "brand": "Positivo",
    "name": "Twist 4 Pro",
@@ -196527,6 +196590,13 @@
    "device": "KingPad_M10"
   }
  ],
+ "KingPad_M10_EEA": [
+  {
+   "brand": "Vastking",
+   "name": "KingPad_M10_EEA",
+   "device": "KingPad_M10_EEA"
+  }
+ ],
  "KingPad_SA10": [
   {
    "brand": "Vastking",
@@ -200148,6 +200218,13 @@
    "brand": "Vivo",
    "name": "V2059A",
    "device": "PD2047"
+  }
+ ],
+ "V2060": [
+  {
+   "brand": "Vivo",
+   "name": "V2060",
+   "device": "2060"
   }
  ],
  "V2061": [
@@ -206011,6 +206088,13 @@
    "brand": "X-TIGI",
    "name": "A20S_PRO",
    "device": "A20S_PRO"
+  }
+ ],
+ "Hope10 Mate": [
+  {
+   "brand": "X-TIGI",
+   "name": "Hope10_Mate",
+   "device": "Hope10_Mate"
   }
  ],
  "Hope10 Pro": [
