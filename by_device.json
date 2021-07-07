@@ -20861,6 +20861,13 @@
    "model": "Touch"
   }
  ],
+ "HP44H": [
+  {
+   "brand": "BULSATCOM",
+   "name": "b-box",
+   "model": "b-box"
+  }
+ ],
  "Smart502": [
   {
    "brand": "BYD",
@@ -46425,6 +46432,13 @@
    "brand": "FFFSMARTLIFE",
    "name": "FFFTAB10",
    "model": "FFFTAB10"
+  }
+ ],
+ "FFFTAB10a2": [
+  {
+   "brand": "FFFSMARTLIFE",
+   "name": "FFFTAB10a2",
+   "model": "FFFTAB10a2"
   }
  ],
  "FFFTAB10a3": [
@@ -146083,6 +146097,11 @@
   },
   {
    "brand": "Samsung",
+   "name": "Galaxy A22 5G",
+   "model": "SM-A226L"
+  },
+  {
+   "brand": "Samsung",
    "name": "Galaxy A22s 5G",
    "model": "SM-A226B"
   }
@@ -210796,6 +210815,13 @@
    "brand": "fplus",
    "name": "Life Tab Plus",
    "model": "LifeTabPlus"
+  }
+ ],
+ "JT08-X1": [
+  {
+   "brand": "geaneePro",
+   "name": "JT08-X1",
+   "model": "JT08-X1"
   }
  ],
  "JT10-X": [

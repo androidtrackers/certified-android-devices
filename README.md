@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-07-06
+Last sync is 2021-07-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2490,6 +2490,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BRUHM|BTF-43SG|ikebukuro|AI PONT|
 |BRUHM|BTF-75TG|samseong|AI PONT|
 |BTC Mobile|Touch|Touch|Touch|
+|BULSATCOM|b-box|HP44H|b-box|
 |BVS (AR)|BVS  4K 0TT 01|SFO|BVS 4K OTT 01|
 |BYD|DynaVox T10|T10|T10|
 |BYD|FarEastone Smart 502|Smart502|Smart 502|
@@ -6045,6 +6046,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FCNT|arrows Be4 Plus F-41B|F41B|F-41B|
 |FELUX|LUXE 3|LUXE_3|LUXE 3|
 |FFFSMARTLIFE|FFFTAB10|FFFTAB10|FFFTAB10|
+|FFFSMARTLIFE|FFFTAB10a2|FFFTAB10a2|FFFTAB10a2|
 |FFFSMARTLIFE|FFFTAB10a3|FFFTAB10a3|FFFTAB10a3|
 |FFFSMARTLIFE|FFFTAB7|FFFTAB7|FFFTAB7|
 |FIREFLY MOBILE|AURII_AMUSE_3G|AURII_AMUSE_3G|AURII_AMUSE_3G|
@@ -21941,6 +21943,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A22|a22|SM-A225F|
 |Samsung|Galaxy A22|a22|SM-A225M|
 |Samsung|Galaxy A22 5G|a22x|SM-A226B|
+|Samsung|Galaxy A22 5G|a22x|SM-A226L|
 |Samsung|Galaxy A22s 5G|a22x|SM-A226B|
 |Samsung|Galaxy A3|a33g|SM-A300H|
 |Samsung|Galaxy A3|a3lte|SM-A300F|
@@ -32740,6 +32743,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |efioo|efiootabn7a|efiootabn7a|Tab N7a|
 |elevn|elevn_eTab|elevn_eTab|elevn_eTab|
 |fplus|Life Tab Plus|lifetabplus|LifeTabPlus|
+|geaneePro|JT08-X1|JT08-X1|JT08-X1|
 |geaneePro|JT10-X|JT10-X|JT10-X|
 |geaneePro|JT70-X|JT07-X|JT07-X|
 |generaltouch|ERGO22|ERGO22|ERGO22|

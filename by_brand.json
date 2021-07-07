@@ -12794,6 +12794,13 @@
    "model": "Touch"
   }
  ],
+ "BULSATCOM": [
+  {
+   "device": "HP44H",
+   "name": "b-box",
+   "model": "b-box"
+  }
+ ],
  "BVS (AR)": [
   {
    "device": "SFO",
@@ -31387,6 +31394,11 @@
    "device": "FFFTAB10",
    "name": "FFFTAB10",
    "model": "FFFTAB10"
+  },
+  {
+   "device": "FFFTAB10a2",
+   "name": "FFFTAB10a2",
+   "model": "FFFTAB10a2"
   },
   {
    "device": "FFFTAB10a3",
@@ -112792,6 +112804,11 @@
   },
   {
    "device": "a22x",
+   "name": "Galaxy A22 5G",
+   "model": "SM-A226L"
+  },
+  {
+   "device": "a22x",
    "name": "Galaxy A22s 5G",
    "model": "SM-A226B"
   },
@@ -167887,6 +167904,11 @@
   }
  ],
  "geaneePro": [
+  {
+   "device": "JT08-X1",
+   "name": "JT08-X1",
+   "model": "JT08-X1"
+  },
   {
    "device": "JT10-X",
    "name": "JT10-X",

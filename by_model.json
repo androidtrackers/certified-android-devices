@@ -18853,6 +18853,13 @@
    "device": "Touch"
   }
  ],
+ "b-box": [
+  {
+   "brand": "BULSATCOM",
+   "name": "b-box",
+   "device": "HP44H"
+  }
+ ],
  "BVS 4K OTT 01": [
   {
    "brand": "BVS (AR)",
@@ -44229,6 +44236,13 @@
    "brand": "FFFSMARTLIFE",
    "name": "FFFTAB10",
    "device": "FFFTAB10"
+  }
+ ],
+ "FFFTAB10a2": [
+  {
+   "brand": "FFFSMARTLIFE",
+   "name": "FFFTAB10a2",
+   "device": "FFFTAB10a2"
   }
  ],
  "FFFTAB10a3": [
@@ -149946,6 +149960,13 @@
    "device": "a22x"
   }
  ],
+ "SM-A226L": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A22 5G",
+   "device": "a22x"
+  }
+ ],
  "SM-A300H": [
   {
    "brand": "Samsung",
@@ -220950,6 +220971,13 @@
    "brand": "fplus",
    "name": "Life Tab Plus",
    "device": "lifetabplus"
+  }
+ ],
+ "JT08-X1": [
+  {
+   "brand": "geaneePro",
+   "name": "JT08-X1",
+   "device": "JT08-X1"
   }
  ],
  "JT10-X": [
