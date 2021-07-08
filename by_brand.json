@@ -21378,6 +21378,11 @@
    "model": "V10"
   },
   {
+   "device": "V10X",
+   "name": "V10X",
+   "model": "V10X"
+  },
+  {
    "device": "V11",
    "name": "V11",
    "model": "V11"
@@ -24907,6 +24912,18 @@
    "device": "IT119411",
    "name": "IT119411",
    "model": "IT119411"
+  }
+ ],
+ "Dcode": [
+  {
+   "device": "Dcode_Cypher",
+   "name": "Cypher",
+   "model": "DS-CR1"
+  },
+  {
+   "device": "DS-X1",
+   "name": "DS-X1",
+   "model": "DS-X1"
   }
  ],
  "Ddm": [
@@ -30792,6 +30809,11 @@
    "model": "M20 NANO"
   },
   {
+   "device": "M20_Pro",
+   "name": "M20+Pro",
+   "model": "M20+Pro"
+  },
+  {
    "device": "M20_S",
    "name": "M20_S",
    "model": "M20 S"
@@ -32597,6 +32619,11 @@
    "device": "O2",
    "name": "FONOS O2",
    "model": "O2"
+  },
+  {
+   "device": "M1",
+   "name": "M1",
+   "model": "M1"
   },
   {
    "device": "O3",
@@ -57403,6 +57430,11 @@
    "model": "K10"
   },
   {
+   "device": "A36",
+   "name": "IKU A36",
+   "model": "iKU A36"
+  },
+  {
    "device": "A4",
    "name": "IKU A4",
    "model": "IKU A4"
@@ -73033,6 +73065,11 @@
  ],
  "Lanix": [
   {
+   "device": "Alpha_9V",
+   "name": "Alpha 9V",
+   "model": "Alpha 9V"
+  },
+  {
    "device": "Alpha_950",
    "name": "Alpha_950",
    "model": "Alpha 950"
@@ -78699,6 +78736,21 @@
    "model": "Lenovo L79031"
   },
   {
+   "device": "doom",
+   "name": "拯救者电竞手机2 Pro",
+   "model": "Lenovo L70081"
+  },
+  {
+   "device": "doom",
+   "name": "拯救者电竞手机2Pro",
+   "model": "Lenovo L70081"
+  },
+  {
+   "device": "doom",
+   "name": "拯救者电竞手机二代",
+   "model": "Lenovo L70081"
+  },
+  {
    "device": "TB-X607Z",
    "name": "联想平板电脑K10 5G",
    "model": "Lenovo TB-X607Z"
@@ -82511,6 +82563,11 @@
    "device": "MTAB32_EEA",
    "name": "MTAB32_EEA",
    "model": "meanIT K10"
+  },
+  {
+   "device": "MeanIt_X30_EEA",
+   "name": "MeanIt_X30",
+   "model": "MeanIt_X30"
   },
   {
    "device": "meanIT_C80C81",
@@ -86988,6 +87045,11 @@
    "device": "Mavic_10",
    "name": "Morep Mavic 10",
    "model": "M830"
+  },
+  {
+   "device": "Mavic_Plus",
+   "name": "Morep Mavic Plus",
+   "model": "M610"
   }
  ],
  "Mosambee": [
@@ -95038,11 +95100,6 @@
    "device": "Tab10",
    "name": "Tab10",
    "model": "Tab10"
-  },
-  {
-   "device": "X10",
-   "name": "X10",
-   "model": "X10"
   }
  ],
  "OKWU": [
@@ -105923,8 +105980,23 @@
    "model": "K7"
   },
   {
+   "device": "K7_A101",
+   "name": "K7_A101",
+   "model": "K7_A101"
+  },
+  {
+   "device": "K7_A101_EEA",
+   "name": "K7_A101_EEA",
+   "model": "K7_A101"
+  },
+  {
    "device": "K7_A102",
    "name": "K7_A102",
+   "model": "K7_A102"
+  },
+  {
+   "device": "K7_A102_EEA",
+   "name": "K7_A102_EEA",
    "model": "K7_A102"
   },
   {
@@ -109046,6 +109118,11 @@
    "model": "RMX2050"
   },
   {
+   "device": "RMX2156L1",
+   "name": "realme narzo 30",
+   "model": "RMX2156"
+  },
+  {
    "device": "RE513CL1",
    "name": "realme narzo 30 5G",
    "model": "RMX3242"
@@ -109089,6 +109166,11 @@
    "device": "RMX3031CN",
    "name": "真我GT Neo",
    "model": "RMX3031"
+  },
+  {
+   "device": "RE5469",
+   "name": "真我GT Neo 闪速版",
+   "model": "RMX3350"
   },
   {
    "device": "RE811C",
@@ -128084,6 +128166,11 @@
    "model": "Elite T57"
   },
   {
+   "device": "ELITE_US_T8",
+   "name": "ELITE T8",
+   "model": "ELITE T8"
+  },
+  {
    "device": "Elite_45SM",
    "name": "Elite 45T",
    "model": "Elite 45T"
@@ -141958,6 +142045,11 @@
    "device": "PNC450",
    "name": "PNC450",
    "model": "PNC450"
+  },
+  {
+   "device": "SC0802",
+   "name": "SC0802",
+   "model": "SC0802"
   }
  ],
  "TORNADO": [
@@ -145507,6 +145599,11 @@
  ],
  "TomStar": [
   {
+   "device": "A1020",
+   "name": "A1020",
+   "model": "A1020"
+  },
+  {
    "device": "G6_pro",
    "name": "G6_pro",
    "model": "G6_pro"
@@ -147065,6 +147162,11 @@
    "model": "Note 11P"
   },
   {
+   "device": "Note_6",
+   "name": "Note 6",
+   "model": "Note 6"
+  },
+  {
    "device": "Note_8",
    "name": "Note 8",
    "model": "Note 8"
@@ -148544,6 +148646,11 @@
    "device": "Vankyo_S10_EEA",
    "name": "Vankyo_S10_EEA",
    "model": "Vankyo_S10_EEA"
+  },
+  {
+   "device": "X10",
+   "name": "X10",
+   "model": "X10"
   },
   {
    "device": "Z1",
@@ -153729,6 +153836,11 @@
    "model": "PRIMO F10"
   },
   {
+   "device": "Primo_GH10",
+   "name": "PRIMO GH10",
+   "model": "Primo GH10"
+  },
+  {
    "device": "PRIMO_NH4",
    "name": "PRIMO NH4",
    "model": "PRIMO NH4"
@@ -155535,6 +155647,11 @@
    "device": "W-K610",
    "name": "Y62",
    "model": "W-K610-TVM"
+  },
+  {
+   "device": "W-K610",
+   "name": "Y62 Plus",
+   "model": "W-K610-FRA"
   },
   {
    "device": "W-V720",
@@ -158108,6 +158225,16 @@
    "device": "N10-EEA",
    "name": "N10-EEA",
    "model": "N10-EEA"
+  },
+  {
+   "device": "U221",
+   "name": "U221",
+   "model": "U221"
+  },
+  {
+   "device": "U221-EEA",
+   "name": "U221-EEA",
+   "model": "U221-EEA"
   }
  ],
  "YUNTAB": [
@@ -168142,6 +168269,11 @@
    "model": "MAX10-1"
   },
   {
+   "device": "MAX12",
+   "name": "MAX12",
+   "model": "MAX12"
+  },
+  {
    "device": "MAX4",
    "name": "MAX4",
    "model": "MAX4"
@@ -168580,6 +168712,11 @@
    "device": "SMART_L104_eea",
    "name": "SMART_L104_eea",
    "model": "SMART_L104_eea"
+  },
+  {
+   "device": "SMART_L206",
+   "name": "SMART_L206",
+   "model": "SMART_L206"
   },
   {
    "device": "SMART_L20X",

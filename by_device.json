@@ -32429,6 +32429,13 @@
    "model": "V10"
   }
  ],
+ "V10X": [
+  {
+   "brand": "Contixo",
+   "name": "V10X",
+   "model": "V10X"
+  }
+ ],
  "V11": [
   {
    "brand": "Contixo",
@@ -37732,6 +37739,20 @@
    "model": "IT119411"
   }
  ],
+ "Dcode_Cypher": [
+  {
+   "brand": "Dcode",
+   "name": "Cypher",
+   "model": "DS-CR1"
+  }
+ ],
+ "DS-X1": [
+  {
+   "brand": "Dcode",
+   "name": "DS-X1",
+   "model": "DS-X1"
+  }
+ ],
  "AM5E3I047": [
   {
    "brand": "Ddm",
@@ -40054,14 +40075,14 @@
    "model": "X10"
   },
   {
-   "brand": "OKAPI",
-   "name": "X10",
-   "model": "X10"
-  },
-  {
    "brand": "Qsmart",
    "name": "QSmart X10",
    "model": "QSmart X10"
+  },
+  {
+   "brand": "Vankyo",
+   "name": "X10",
+   "model": "X10"
   },
   {
    "brand": "xTouch",
@@ -45589,6 +45610,13 @@
    "model": "M20 NANO"
   }
  ],
+ "M20_Pro": [
+  {
+   "brand": "Evertek",
+   "name": "M20+Pro",
+   "model": "M20+Pro"
+  }
+ ],
  "M20_S": [
   {
    "brand": "Evertek",
@@ -48207,6 +48235,28 @@
    "brand": "Fonos",
    "name": "FONOS O2",
    "model": "O2"
+  }
+ ],
+ "M1": [
+  {
+   "brand": "Fonos",
+   "name": "M1",
+   "model": "M1"
+  },
+  {
+   "brand": "M-Horse",
+   "name": "M1",
+   "model": "M1"
+  },
+  {
+   "brand": "Mintt",
+   "name": "M1",
+   "model": "M1"
+  },
+  {
+   "brand": "ZOOMME",
+   "name": "M1",
+   "model": "M1"
   }
  ],
  "O3": [
@@ -77797,6 +77847,13 @@
    "model": "K10"
   }
  ],
+ "A36": [
+  {
+   "brand": "IkuMobile",
+   "name": "IKU A36",
+   "model": "iKU A36"
+  }
+ ],
  "A40": [
   {
    "brand": "IkuMobile",
@@ -96683,6 +96740,13 @@
    "model": "Lt6248"
   }
  ],
+ "Alpha_9V": [
+  {
+   "brand": "Lanix",
+   "name": "Alpha 9V",
+   "model": "Alpha 9V"
+  }
+ ],
  "Alpha_950": [
   {
    "brand": "Lanix",
@@ -104183,6 +104247,23 @@
    "model": "Lenovo L79031"
   }
  ],
+ "doom": [
+  {
+   "brand": "Lenovo",
+   "name": "拯救者电竞手机2 Pro",
+   "model": "Lenovo L70081"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "拯救者电竞手机2Pro",
+   "model": "Lenovo L70081"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "拯救者电竞手机二代",
+   "model": "Lenovo L70081"
+  }
+ ],
  "LETAB731": [
   {
    "brand": "Leotec",
@@ -106291,23 +106372,6 @@
    "brand": "M-Horse",
    "name": "M-HORSE",
    "model": "Pure1"
-  }
- ],
- "M1": [
-  {
-   "brand": "M-Horse",
-   "name": "M1",
-   "model": "M1"
-  },
-  {
-   "brand": "Mintt",
-   "name": "M1",
-   "model": "M1"
-  },
-  {
-   "brand": "ZOOMME",
-   "name": "M1",
-   "model": "M1"
   }
  ],
  "M2S": [
@@ -108932,6 +108996,13 @@
    "brand": "MeanIT",
    "name": "MTAB32_EEA",
    "model": "meanIT K10"
+  }
+ ],
+ "MeanIt_X30_EEA": [
+  {
+   "brand": "MeanIT",
+   "name": "MeanIt_X30",
+   "model": "MeanIt_X30"
   }
  ],
  "meanIT_C80C81": [
@@ -114679,6 +114750,13 @@
    "brand": "Morep",
    "name": "Morep Mavic 10",
    "model": "M830"
+  }
+ ],
+ "Mavic_Plus": [
+  {
+   "brand": "Morep",
+   "name": "Morep Mavic Plus",
+   "model": "M610"
   }
  ],
  "Qphone2_4110": [
@@ -137916,10 +137994,31 @@
    "model": "Benton_M10"
   }
  ],
+ "K7_A101": [
+  {
+   "brand": "Pritom",
+   "name": "K7_A101",
+   "model": "K7_A101"
+  }
+ ],
+ "K7_A101_EEA": [
+  {
+   "brand": "Pritom",
+   "name": "K7_A101_EEA",
+   "model": "K7_A101"
+  }
+ ],
  "K7_A102": [
   {
    "brand": "Pritom",
    "name": "K7_A102",
+   "model": "K7_A102"
+  }
+ ],
+ "K7_A102_EEA": [
+  {
+   "brand": "Pritom",
+   "name": "K7_A102_EEA",
    "model": "K7_A102"
   }
  ],
@@ -141013,6 +141112,11 @@
    "brand": "Realme",
    "name": "realme  narzo  30",
    "model": "RMX2156"
+  },
+  {
+   "brand": "Realme",
+   "name": "realme narzo 30",
+   "model": "RMX2156"
   }
  ],
  "RMX1801": [
@@ -141728,6 +141832,13 @@
    "brand": "Realme",
    "name": "真我GT Neo",
    "model": "RMX3031"
+  }
+ ],
+ "RE5469": [
+  {
+   "brand": "Realme",
+   "name": "真我GT Neo 闪速版",
+   "model": "RMX3350"
   }
  ],
  "RE811C": [
@@ -165380,6 +165491,13 @@
    "model": "Elite T57"
   }
  ],
+ "ELITE_US_T8": [
+  {
+   "brand": "Sky Devices",
+   "name": "ELITE T8",
+   "model": "ELITE T8"
+  }
+ ],
  "Elite_45SM": [
   {
    "brand": "Sky Devices",
@@ -181194,6 +181312,13 @@
    "model": "PNC450"
   }
  ],
+ "SC0802": [
+  {
+   "brand": "TOPJOY",
+   "name": "SC0802",
+   "model": "SC0802"
+  }
+ ],
  "P101-EEA": [
   {
    "brand": "TOSCIDO",
@@ -185421,6 +185546,13 @@
    "model": "Tokio_Tablet_8"
   }
  ],
+ "A1020": [
+  {
+   "brand": "TomStar",
+   "name": "A1020",
+   "model": "A1020"
+  }
+ ],
  "G6_pro": [
   {
    "brand": "TomStar",
@@ -187160,6 +187292,13 @@
    "brand": "Ulefone",
    "name": "Note 11P",
    "model": "Note 11P"
+  }
+ ],
+ "Note_6": [
+  {
+   "brand": "Ulefone",
+   "name": "Note 6",
+   "model": "Note 6"
   }
  ],
  "Note_8": [
@@ -194950,6 +195089,13 @@
    "model": "PRIMO F10"
   }
  ],
+ "Primo_GH10": [
+  {
+   "brand": "Walton",
+   "name": "PRIMO GH10",
+   "model": "Primo GH10"
+  }
+ ],
  "PRIMO_NH4": [
   {
    "brand": "Walton",
@@ -197171,6 +197317,11 @@
    "brand": "Wiko",
    "name": "Y62",
    "model": "W-K610-TVM"
+  },
+  {
+   "brand": "Wiko",
+   "name": "Y62 Plus",
+   "model": "W-K610-FRA"
   }
  ],
  "W-V720": [
@@ -199917,6 +200068,20 @@
    "brand": "YUMKEM",
    "name": "N10-EEA",
    "model": "N10-EEA"
+  }
+ ],
+ "U221": [
+  {
+   "brand": "YUMKEM",
+   "name": "U221",
+   "model": "U221"
+  }
+ ],
+ "U221-EEA": [
+  {
+   "brand": "YUMKEM",
+   "name": "U221-EEA",
+   "model": "U221-EEA"
   }
  ],
  "D107": [
@@ -211091,6 +211256,13 @@
    "model": "MAX10-1"
   }
  ],
+ "MAX12": [
+  {
+   "brand": "iBRIT",
+   "name": "MAX12",
+   "model": "MAX12"
+  }
+ ],
  "MAX7": [
   {
    "brand": "iBRIT",
@@ -211629,6 +211801,13 @@
    "brand": "iGet",
    "name": "SMART_L104_eea",
    "model": "SMART_L104_eea"
+  }
+ ],
+ "SMART_L206": [
+  {
+   "brand": "iGet",
+   "name": "SMART_L206",
+   "model": "SMART_L206"
   }
  ],
  "SMART_L20X": [

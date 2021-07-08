@@ -23060,7 +23060,7 @@
    "model": "X10"
   },
   {
-   "brand": "OKAPI",
+   "brand": "Vankyo",
    "device": "X10",
    "model": "X10"
   },
@@ -37051,6 +37051,13 @@
    "model": "V10"
   }
  ],
+ "V10X": [
+  {
+   "brand": "Contixo",
+   "device": "V10X",
+   "model": "V10X"
+  }
+ ],
  "V11": [
   {
    "brand": "Contixo",
@@ -41776,6 +41783,20 @@
    "brand": "DayMark",
    "device": "IT119411",
    "model": "IT119411"
+  }
+ ],
+ "Cypher": [
+  {
+   "brand": "Dcode",
+   "device": "Dcode_Cypher",
+   "model": "DS-CR1"
+  }
+ ],
+ "DS-X1": [
+  {
+   "brand": "Dcode",
+   "device": "DS-X1",
+   "model": "DS-X1"
   }
  ],
  "ANDY 5EI": [
@@ -49807,6 +49828,13 @@
    "model": "M20 NANO"
   }
  ],
+ "M20+Pro": [
+  {
+   "brand": "Evertek",
+   "device": "M20_Pro",
+   "model": "M20+Pro"
+  }
+ ],
  "M20_S": [
   {
    "brand": "Evertek",
@@ -52416,6 +52444,28 @@
    "brand": "Fonos",
    "device": "O2",
    "model": "O2"
+  }
+ ],
+ "M1": [
+  {
+   "brand": "Fonos",
+   "device": "M1",
+   "model": "M1"
+  },
+  {
+   "brand": "M-Horse",
+   "device": "M1",
+   "model": "M1"
+  },
+  {
+   "brand": "Mintt",
+   "device": "M1",
+   "model": "M1"
+  },
+  {
+   "brand": "ZOOMME",
+   "device": "M1",
+   "model": "M1"
   }
  ],
  "O3_EEA": [
@@ -81096,6 +81146,13 @@
    "model": "K10"
   }
  ],
+ "IKU A36": [
+  {
+   "brand": "IkuMobile",
+   "device": "A36",
+   "model": "iKU A36"
+  }
+ ],
  "IKU A4": [
   {
    "brand": "IkuMobile",
@@ -82064,6 +82121,11 @@
    "brand": "Infinix",
    "device": "Infinix-X610",
    "model": "Infinix X610B"
+  },
+  {
+   "brand": "Ulefone",
+   "device": "Note_6",
+   "model": "Note 6"
   }
  ],
  "RACE Blot2": [
@@ -99092,6 +99154,13 @@
    "model": "Lt6248"
   }
  ],
+ "Alpha 9V": [
+  {
+   "brand": "Lanix",
+   "device": "Alpha_9V",
+   "model": "Alpha 9V"
+  }
+ ],
  "Alpha_950": [
   {
    "brand": "Lanix",
@@ -105656,6 +105725,27 @@
    "model": "Lenovo L79031"
   }
  ],
+ "拯救者电竞手机2 Pro": [
+  {
+   "brand": "Lenovo",
+   "device": "doom",
+   "model": "Lenovo L70081"
+  }
+ ],
+ "拯救者电竞手机2Pro": [
+  {
+   "brand": "Lenovo",
+   "device": "doom",
+   "model": "Lenovo L70081"
+  }
+ ],
+ "拯救者电竞手机二代": [
+  {
+   "brand": "Lenovo",
+   "device": "doom",
+   "model": "Lenovo L70081"
+  }
+ ],
  "联想平板电脑K10 5G": [
   {
    "brand": "Lenovo",
@@ -107735,23 +107825,6 @@
    "brand": "M-Horse",
    "device": "Pure1",
    "model": "Pure1"
-  }
- ],
- "M1": [
-  {
-   "brand": "M-Horse",
-   "device": "M1",
-   "model": "M1"
-  },
-  {
-   "brand": "Mintt",
-   "device": "M1",
-   "model": "M1"
-  },
-  {
-   "brand": "ZOOMME",
-   "device": "M1",
-   "model": "M1"
   }
  ],
  "M2S": [
@@ -110331,6 +110404,13 @@
    "brand": "MeanIT",
    "device": "MTAB32_EEA",
    "model": "meanIT K10"
+  }
+ ],
+ "MeanIt_X30": [
+  {
+   "brand": "MeanIT",
+   "device": "MeanIt_X30_EEA",
+   "model": "MeanIt_X30"
   }
  ],
  "meanIT C80C81": [
@@ -115734,6 +115814,13 @@
    "brand": "Morep",
    "device": "Mavic_10",
    "model": "M830"
+  }
+ ],
+ "Morep Mavic Plus": [
+  {
+   "brand": "Morep",
+   "device": "Mavic_Plus",
+   "model": "M610"
   }
  ],
  "Qphone2 4110": [
@@ -138363,10 +138450,31 @@
    "model": "Benton_M10"
   }
  ],
+ "K7_A101": [
+  {
+   "brand": "Pritom",
+   "device": "K7_A101",
+   "model": "K7_A101"
+  }
+ ],
+ "K7_A101_EEA": [
+  {
+   "brand": "Pritom",
+   "device": "K7_A101_EEA",
+   "model": "K7_A101"
+  }
+ ],
  "K7_A102": [
   {
    "brand": "Pritom",
    "device": "K7_A102",
+   "model": "K7_A102"
+  }
+ ],
+ "K7_A102_EEA": [
+  {
+   "brand": "Pritom",
+   "device": "K7_A102_EEA",
    "model": "K7_A102"
   }
  ],
@@ -142089,6 +142197,13 @@
    "model": "RMX2050"
   }
  ],
+ "realme narzo 30": [
+  {
+   "brand": "Realme",
+   "device": "RMX2156L1",
+   "model": "RMX2156"
+  }
+ ],
  "realme narzo 30 5G": [
   {
    "brand": "Realme",
@@ -142148,6 +142263,13 @@
    "brand": "Realme",
    "device": "RMX3031CN",
    "model": "RMX3031"
+  }
+ ],
+ "真我GT Neo 闪速版": [
+  {
+   "brand": "Realme",
+   "device": "RE5469",
+   "model": "RMX3350"
   }
  ],
  "真我Q3 Pro 狂欢版": [
@@ -163518,6 +163640,13 @@
    "model": "Elite T57"
   }
  ],
+ "ELITE T8": [
+  {
+   "brand": "Sky Devices",
+   "device": "ELITE_US_T8",
+   "model": "ELITE T8"
+  }
+ ],
  "Elite 45T": [
   {
    "brand": "Sky Devices",
@@ -178930,6 +179059,13 @@
    "model": "PNC450"
   }
  ],
+ "SC0802": [
+  {
+   "brand": "TOPJOY",
+   "device": "SC0802",
+   "model": "SC0802"
+  }
+ ],
  "TORNADO 2K SMART TV": [
   {
    "brand": "TORNADO",
@@ -183027,6 +183163,13 @@
    "brand": "Tokio",
    "device": "Tokio_Tablet_8",
    "model": "Tokio_Tablet_8"
+  }
+ ],
+ "A1020": [
+  {
+   "brand": "TomStar",
+   "device": "A1020",
+   "model": "A1020"
   }
  ],
  "G6_pro": [
@@ -192847,6 +192990,13 @@
    "model": "PRIMO F10"
   }
  ],
+ "PRIMO GH10": [
+  {
+   "brand": "Walton",
+   "device": "Primo_GH10",
+   "model": "Primo GH10"
+  }
+ ],
  "PRIMO NH4": [
   {
    "brand": "Walton",
@@ -194972,6 +195122,13 @@
    "brand": "Wiko",
    "device": "W-K610",
    "model": "W-K610-TVM"
+  }
+ ],
+ "Y62 Plus": [
+  {
+   "brand": "Wiko",
+   "device": "W-K610",
+   "model": "W-K610-FRA"
   }
  ],
  "Y81": [
@@ -197895,6 +198052,20 @@
    "brand": "YUMKEM",
    "device": "N10-EEA",
    "model": "N10-EEA"
+  }
+ ],
+ "U221": [
+  {
+   "brand": "YUMKEM",
+   "device": "U221",
+   "model": "U221"
+  }
+ ],
+ "U221-EEA": [
+  {
+   "brand": "YUMKEM",
+   "device": "U221-EEA",
+   "model": "U221-EEA"
   }
  ],
  "D107": [
@@ -208655,6 +208826,13 @@
    "model": "MAX10-1"
   }
  ],
+ "MAX12": [
+  {
+   "brand": "iBRIT",
+   "device": "MAX12",
+   "model": "MAX12"
+  }
+ ],
  "MAX7": [
   {
    "brand": "iBRIT",
@@ -209216,6 +209394,13 @@
    "brand": "iGet",
    "device": "SMART_L104_eea",
    "model": "SMART_L104_eea"
+  }
+ ],
+ "SMART_L206": [
+  {
+   "brand": "iGet",
+   "device": "SMART_L206",
+   "model": "SMART_L206"
   }
  ],
  "SMART_L20X": [
