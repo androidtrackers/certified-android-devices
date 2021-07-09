@@ -25459,6 +25459,13 @@
    "device": "GBL7325QM"
   }
  ],
+ "Diplomat": [
+  {
+   "brand": "CHEETAH",
+   "name": "Diplomat",
+   "device": "Diplomat"
+  }
+ ],
  "CHN-UCAN MJ": [
   {
    "brand": "CHN TELECOM",
@@ -44208,6 +44215,27 @@
    "brand": "FACETEL",
    "name": "A12",
    "device": "A12"
+  }
+ ],
+ "Q3_EEA": [
+  {
+   "brand": "FACETEL",
+   "name": "Q3_EEA",
+   "device": "Q3_EEA"
+  }
+ ],
+ "Q3pro": [
+  {
+   "brand": "FACETEL",
+   "name": "Q3pro",
+   "device": "Q3pro"
+  }
+ ],
+ "Q3pro_eea": [
+  {
+   "brand": "FACETEL",
+   "name": "Q3pro_eea",
+   "device": "Q3pro_eea"
   }
  ],
  "UJ_1098": [
@@ -87284,6 +87312,11 @@
    "device": "E1"
   },
   {
+   "brand": "Olike",
+   "name": "E1",
+   "device": "E1"
+  },
+  {
    "brand": "QMobile",
    "name": "E1",
    "device": "QMobile_E1"
@@ -121819,6 +121852,13 @@
    "device": "Multilaser_GMAX_2_64"
   }
  ],
+ "Multilaser_GMax_2": [
+  {
+   "brand": "Multilaser",
+   "name": "Multilaser G Max 2",
+   "device": "Multilaser_GMax_2_128"
+  }
+ ],
  "Multilaser_G_Pro": [
   {
    "brand": "Multilaser",
@@ -126747,6 +126787,11 @@
    "device": "T20"
   },
   {
+   "brand": "WONGKUO",
+   "name": "T20",
+   "device": "T20"
+  },
+  {
    "brand": "Xstar",
    "name": "T20",
    "device": "T20"
@@ -127717,6 +127762,18 @@
    "brand": "Oioo",
    "name": "Model 3",
    "device": "wecct3"
+  }
+ ],
+ "E3": [
+  {
+   "brand": "Olike",
+   "name": "E3",
+   "device": "E3"
+  },
+  {
+   "brand": "iLa Mobile",
+   "name": "E3",
+   "device": "E3"
   }
  ],
  "Octopus A83 CT4": [
@@ -195599,6 +195656,18 @@
    "device": "BISON_GT"
   }
  ],
+ "BISON Pro": [
+  {
+   "brand": "Umidigi",
+   "name": "BISON Pro",
+   "device": "BISON_Pro"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "BISON Pro EEA",
+   "device": "BISON_Pro"
+  }
+ ],
  "One Max": [
   {
    "brand": "Umidigi",
@@ -208354,6 +208423,13 @@
    "brand": "YETRUE",
    "name": "yetruepad21",
    "device": "yetruepad21_EEA"
+  }
+ ],
+ "KIDS07A": [
+  {
+   "brand": "YOSATOO",
+   "name": "KIDS07A",
+   "device": "KIDS07A"
   }
  ],
  "M60_EEA": [
@@ -222174,13 +222250,6 @@
    "brand": "iLa Mobile",
    "name": "E1 Plus",
    "device": "E1_Plus"
-  }
- ],
- "E3": [
-  {
-   "brand": "iLa Mobile",
-   "name": "E3",
-   "device": "E3"
   }
  ],
  "ILA C1": [

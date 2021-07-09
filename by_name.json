@@ -31390,6 +31390,13 @@
    "model": "LT700"
   }
  ],
+ "Diplomat": [
+  {
+   "brand": "CHEETAH",
+   "device": "Diplomat",
+   "model": "Diplomat"
+  }
+ ],
  "CHN-UCAN MJ": [
   {
    "brand": "CHN TELECOM",
@@ -50609,6 +50616,27 @@
    "brand": "Itel",
    "device": "itel_A12",
    "model": "itel A12"
+  }
+ ],
+ "Q3_EEA": [
+  {
+   "brand": "FACETEL",
+   "device": "Q3_EEA",
+   "model": "Q3_EEA"
+  }
+ ],
+ "Q3pro": [
+  {
+   "brand": "FACETEL",
+   "device": "Q3pro",
+   "model": "Q3pro"
+  }
+ ],
+ "Q3pro_eea": [
+  {
+   "brand": "FACETEL",
+   "device": "Q3pro_eea",
+   "model": "Q3pro_eea"
   }
  ],
  "UJ_1098": [
@@ -89252,6 +89280,11 @@
    "model": "OTOT_E1"
   },
   {
+   "brand": "Olike",
+   "device": "E1",
+   "model": "E1"
+  },
+  {
    "brand": "QMobile",
    "device": "QMobile_E1",
    "model": "E1"
@@ -111638,6 +111671,11 @@
    "model": "MEIZU E3"
   },
   {
+   "brand": "Olike",
+   "device": "E3",
+   "model": "E3"
+  },
+  {
    "brand": "iLa Mobile",
    "device": "E3",
    "model": "E3"
@@ -119629,6 +119667,11 @@
    "brand": "Multilaser",
    "device": "Multilaser_GMAX_2_64",
    "model": "Multilaser_GMAX_2"
+  },
+  {
+   "brand": "Multilaser",
+   "device": "Multilaser_GMax_2_128",
+   "model": "Multilaser_GMax_2"
   }
  ],
  "Multilaser G Pro": [
@@ -124418,6 +124461,11 @@
   },
   {
    "brand": "Veidoo",
+   "device": "T20",
+   "model": "T20"
+  },
+  {
+   "brand": "WONGKUO",
    "device": "T20",
    "model": "T20"
   },
@@ -185432,6 +185480,20 @@
    "model": "BISON GT"
   }
  ],
+ "BISON Pro": [
+  {
+   "brand": "Umidigi",
+   "device": "BISON_Pro",
+   "model": "BISON Pro"
+  }
+ ],
+ "BISON Pro EEA": [
+  {
+   "brand": "Umidigi",
+   "device": "BISON_Pro",
+   "model": "BISON Pro"
+  }
+ ],
  "BISON R": [
   {
    "brand": "Umidigi",
@@ -197873,6 +197935,13 @@
    "brand": "YETRUE",
    "device": "yetruepad21_EEA",
    "model": "yetruepad21"
+  }
+ ],
+ "KIDS07A": [
+  {
+   "brand": "YOSATOO",
+   "device": "KIDS07A",
+   "model": "KIDS07A"
   }
  ],
  "M60_EEA": [

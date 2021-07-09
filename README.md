@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-07-08
+Last sync is 2021-07-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3367,6 +3367,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CHAINWAY|P80_EEA|P80|P80|
 |CHCNAV|HCE600|HCE600|HCE600|
 |CHCNAV|LT700|LT700|LT700|
+|CHEETAH|Diplomat|Diplomat|Diplomat|
 |CHN TELECOM|CHN-UCAN MJ|lefhd|CHN-UCAN MJ|
 |"CHUBU TELECOMMUNICATIONS CO.|INC"|STI6130C|sti6130d353|
 |"CHUBU TELECOMMUNICATIONS CO.|INC"|STI6130d353|sti6130d353|
@@ -6042,6 +6043,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |F2 Mobile|Z8PLUS|Z8PLUS|Z8PLUS|
 |F2 Mobile|Z8POCKET|Z8POCKET|Z8POCKET|
 |FACETEL|A12|A12|A12|
+|FACETEL|Q3_EEA|Q3_EEA|Q3_EEA|
+|FACETEL|Q3pro|Q3pro|Q3pro|
+|FACETEL|Q3pro_eea|Q3pro_eea|Q3pro_eea|
 |FANGOR|UJ_1098|UJ_1098|UJ_1098|
 |FBC|M24IS810|MX24|TDA02|
 |FBC|M24IS820|fst01ms|M24IS820|
@@ -17636,6 +17640,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|Multilaser G|Multilaser_G|Multilaser_G|
 |Multilaser|Multilaser G Max|Multilaser_G_Max|Multilaser_G_Max|
 |Multilaser|Multilaser G Max 2|Multilaser_GMAX_2_64|Multilaser_GMAX_2|
+|Multilaser|Multilaser G Max 2|Multilaser_GMax_2_128|Multilaser_GMax_2|
 |Multilaser|Multilaser G Pro|Multilaser_G_Pro|Multilaser_G_Pro|
 |Multilaser|Multilaser G Pro 2|Multilaser_GPRO2|Multilaser_GPRO2|
 |Multilaser|Multilaser G VIVO|Multilaser_G_VIVO|Multilaser_G_VIVO|
@@ -18558,6 +18563,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Odys|UNO X8|UNO_X8|UNO_X8|
 |Oioo|Model 2|wecct|Model 2|
 |Oioo|Model 3|wecct3|Model 3|
+|Olike|E1|E1|E1|
+|Olike|E3|E3|E3|
 |Olive Oil|CT4|octopus-ct4|Octopus A83 CT4|
 |Olive Oil|OliveOil Model 3|wecct3|CT3|
 |Olivetti|Graphos A10|Graphos_A10|Graphos A10|
@@ -28781,6 +28788,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|A9 Pro_EEA|A9_Pro|A9 Pro|
 |Umidigi|BISON|BISON|BISON|
 |Umidigi|BISON GT EEA|BISON_GT|BISON GT|
+|Umidigi|BISON Pro|BISON_Pro|BISON Pro|
+|Umidigi|BISON Pro EEA|BISON_Pro|BISON Pro|
 |Umidigi|BISON R|BISON_R|BISON|
 |Umidigi|BISON R EEA|BISON_R|BISON|
 |Umidigi|BISON_GT|BISON_GT|BISON GT|
@@ -29974,6 +29983,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |WINTEK|W405|W405|W405|
 |WOM|SEI500W|SEI500W|WOM|
 |WONGKUO|T10|T10|T10|
+|WONGKUO|T20|T20|T20|
 |Wacom|Cintiq Companion Hybrid 13HD|CintiqCompanionHybrid13HD|Cintiq Companion Hybrid 13HD|
 |Waf|F803YM|F803YM|F803YM|
 |Waf|F808NM|F808NM|F808NM|
@@ -30806,6 +30816,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xwave|Xpad|Xpad|Xpad_M9_3G|
 |YELLYOUTH|TAB_101|TAB_101|TAB_101|
 |YETRUE|yetruepad21|yetruepad21_EEA|yetruepad21|
+|YOSATOO|KIDS07A|KIDS07A|KIDS07A|
 |YOTOPT|M60_EEA|M60_EEA|M60_EEA|
 |YOTOPT|Q11-EEA|Q11-EEA|Q11-EEA|
 |YOTOPT|X109|X109|X109|
