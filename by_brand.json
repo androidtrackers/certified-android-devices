@@ -37748,6 +37748,13 @@
    "model": "Z9950"
   }
  ],
+ "HIMADE": [
+  {
+   "device": "sindorim",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  }
+ ],
  "HKC": [
   {
    "device": "EM62",
@@ -147704,6 +147711,11 @@
   {
    "device": "Power_5",
    "name": "Power 5",
+   "model": "Power 5"
+  },
+  {
+   "device": "Power_5",
+   "name": "Power 5 EEA",
    "model": "Power 5"
   },
   {

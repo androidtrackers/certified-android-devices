@@ -1016,6 +1016,11 @@
    "device": "samseong"
   },
   {
+   "brand": "HIMADE",
+   "name": "Smart TV",
+   "device": "sindorim"
+  },
+  {
    "brand": "Hitachi",
    "name": "LD50CHS04U",
    "device": "samseong"
@@ -101636,6 +101641,11 @@
   {
    "brand": "Umidigi",
    "name": "Power 5",
+   "device": "Power_5"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "Power 5 EEA",
    "device": "Power_5"
   }
  ],

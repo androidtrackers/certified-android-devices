@@ -6755,6 +6755,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "HIMADE",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
    "brand": "Hyundai",
    "name": "HYLED5520A4KM",
    "model": "AI PONT"
@@ -99159,6 +99164,11 @@
   {
    "brand": "Umidigi",
    "name": "Power 5",
+   "model": "Power 5"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "Power 5 EEA",
    "model": "Power 5"
   }
  ],

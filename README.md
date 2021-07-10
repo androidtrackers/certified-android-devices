@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-07-09
+Last sync is 2021-07-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7262,6 +7262,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HDD SAT|Tab_i_excess|Tab_i_excess|Tab_i_excess|
 |HEATZ|HZ9950|HZ9950|HZ9950|
 |HEATZ|Z9950|Z9950|Z9950|
+|HIMADE|Smart TV|sindorim|AI PONT|
 |HKC|A79 Tablet|EM62|A79|
 |HKT|eye3|UY3-PCW|eye3|
 |HMR NETWORKS|HMR NETWORKS (PTY) LTD|HMR5012|HMR5012|
@@ -28803,6 +28804,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|One Pro|One_Pro|One Pro|
 |Umidigi|Power|Power|Power|
 |Umidigi|Power 5|Power_5|Power 5|
+|Umidigi|Power 5 EEA|Power_5|Power 5|
 |Umidigi|Power_3|Power_3|Power_3|
 |Umidigi|Power_3_EEA|Power_3|Power_3|
 |Umidigi|S2PRO|S2_PRO|S2_PRO|

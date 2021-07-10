@@ -53814,6 +53814,11 @@
    "model": "FUNAI 4K TV"
   },
   {
+   "brand": "HIMADE",
+   "device": "sindorim",
+   "model": "AI PONT"
+  },
+  {
    "brand": "Kubo",
    "device": "samseong",
    "model": "AI PONT"
@@ -185548,6 +185553,13 @@
    "brand": "Umidigi",
    "device": "One_Pro",
    "model": "One Pro"
+  }
+ ],
+ "Power 5 EEA": [
+  {
+   "brand": "Umidigi",
+   "device": "Power_5",
+   "model": "Power 5"
   }
  ],
  "Power_3": [
