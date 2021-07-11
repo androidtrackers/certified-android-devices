@@ -1707,6 +1707,13 @@
    "model": "AI PONT"
   }
  ],
+ "A97GT": [
+  {
+   "brand": "ALPHA_LING",
+   "name": "A97GT",
+   "model": "A97GT"
+  }
+ ],
  "MD1001": [
   {
    "brand": "AMTC",
@@ -38525,6 +38532,13 @@
    "model": "DTABPLUS"
   }
  ],
+ "Dicle_Dtab_Active_S": [
+  {
+   "brand": "Dicle_Tab",
+   "name": "Dicle Tab Active S",
+   "model": "Dicle_Dtab_Active_S"
+  }
+ ],
  "Tab_MyPen_P1": [
   {
    "brand": "Dicle_Tab",
@@ -45094,6 +45108,11 @@
    "model": "M6"
   },
   {
+   "brand": "HOMII",
+   "name": "HOMII M6",
+   "model": "M6"
+  },
+  {
    "brand": "Hotwav",
    "name": "M6",
    "model": "M6"
@@ -46479,6 +46498,13 @@
    "brand": "FCNT",
    "name": "arrows Be4 Plus F-41B",
    "model": "F-41B"
+  }
+ ],
+ "F100": [
+  {
+   "brand": "FEITIAN",
+   "name": "F100",
+   "model": "F100"
   }
  ],
  "LUXE_3": [
@@ -77515,6 +77541,13 @@
    "model": "8092_TR"
   }
  ],
+ "ISCEDTAB21": [
+  {
+   "brand": "ISCED",
+   "name": "ISCEDTAB21",
+   "model": "ISCEDTAB21"
+  }
+ ],
  "IC_51": [
   {
    "brand": "ITOS",
@@ -96404,6 +96437,13 @@
    "brand": "LNMBBS",
    "name": "L201-EEA",
    "model": "L201-EEA"
+  }
+ ],
+ "L211": [
+  {
+   "brand": "LNMBBS",
+   "name": "L211",
+   "model": "L211"
   }
  ],
  "L23-EEA": [
@@ -125369,6 +125409,11 @@
    "brand": "OnePlus",
    "name": "OnePlus Nord N100",
    "model": "BE2012"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord N100",
+   "model": "BE2013"
   }
  ],
  "OnePlus3T": [
@@ -129500,6 +129545,13 @@
    "brand": "Oukitel",
    "name": "K8000",
    "model": "K8000"
+  }
+ ],
+ "K9_Pro": [
+  {
+   "brand": "Oukitel",
+   "name": "K9 Pro",
+   "model": "K9 Pro"
   }
  ],
  "MIX_2": [
@@ -211978,6 +212030,13 @@
    "brand": "iHunt",
    "name": "Alien_X_Pro_2021",
    "model": "Alien X Pro 2021"
+  }
+ ],
+ "iHunt": [
+  {
+   "brand": "iHunt",
+   "name": "Like 11 Panda Pro 2022",
+   "model": "Like 11 Panda Pro 2022"
   }
  ],
  "Like_4U": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-07-10
+Last sync is 2021-07-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -105,6 +105,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ALBADEEL|B725050U|samseong|AI PONT|
 |ALBADEEL|B725U|ikebukuro|AI PONT|
 |ALMATEEN|LXL43G7H-AT|samseong|AI PONT|
+|ALPHA_LING|A97GT|A97GT|A97GT|
 |AMTC|MD1001 Tablet|MD1001|MD1001|
 |AMTC|MD7008|MD7008A|MD7008|
 |AMTC|MD7081|MD7081A|MD7081|
@@ -4931,6 +4932,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Diamond|PSPCL30A0|PSPCL30A0|PSPCL30A0|
 |Dicle|DTABC2|DTABC2|DTABC2|
 |Dicle|DTABPLUS|DTABPLUS|DTABPLUS|
+|Dicle_Tab|Dicle Tab Active S|Dicle_Dtab_Active_S|Dicle_Dtab_Active_S|
 |Dicle_Tab|Dicle Tab MyPen P1|Tab_MyPen_P1|Tab_MyPen_P1|
 |Dicle_Tab|Dicle Tab Ultra|Tab_Ultra|Tab_Ultra|
 |Dicle_Tab|Dicle_Tab_Active|Active|Active|
@@ -6052,6 +6054,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FCC Movil|GK738_3G|GK738_3G|GK738_3G|
 |FCC Movil|GK788|GK788|GK788|
 |FCNT|arrows Be4 Plus F-41B|F41B|F-41B|
+|FEITIAN|F100|F100|F100|
 |FELUX|LUXE 3|LUXE_3|LUXE 3|
 |FFFSMARTLIFE|FFFTAB10|FFFTAB10|FFFTAB10|
 |FFFSMARTLIFE|FFFTAB10a2|FFFTAB10a2|FFFTAB10a2|
@@ -7266,6 +7269,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HKC|A79 Tablet|EM62|A79|
 |HKT|eye3|UY3-PCW|eye3|
 |HMR NETWORKS|HMR NETWORKS (PTY) LTD|HMR5012|HMR5012|
+|HOMII|HOMII M6|M6|M6|
 |HOMTOM|C13|C13|C13|
 |HOMTOM|C2|C2|C2|
 |HOMTOM|C8|C8|C8|
@@ -11105,6 +11109,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IRA (explore more)|IRA801|IRA801|IRA801|
 |IRIE|FFF-TAB10H|FFF-TAB10H|FFF-TAB10H|
 |IRIS_OHYAMA|TE101N1|Aquaman_10_Smart_WIFI|TE101|
+|ISCED|ISCEDTAB21|ISCEDTAB21|ISCEDTAB21|
 |ITOS|IC-51|IC_51|IC_51|
 |ITOS|IC_55|IC_55|IC_55|
 |ITOS|IC_56_EEA|IC_56|IC_56|
@@ -14164,6 +14169,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LNMBBS|L18-EEA|L18-EEA|L18-EEA|
 |LNMBBS|L20-EEA|L20-EEA|L20-EEA|
 |LNMBBS|L201-EEA|L201-EEA|L201-EEA|
+|LNMBBS|L211|L211|L211|
 |LNMBBS|L23-EEA|L23-EEA|L23-EEA|
 |LNMBBS|L60|L60|L60|
 |LNMBBS|P40-EEA|P40-EEA|P40-EEA|
@@ -18637,6 +18643,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Nord N100|OnePlusN100|BE2013|
 |OnePlus|OnePlus Nord N100|OnePlusN100METRO|BE2015|
 |OnePlus|OnePlus Nord N100|OnePlusN100TMO|BE2012|
+|OnePlus|OnePlus Nord N100|OnePlusN100TMO|BE2013|
 |OnePlus|OnePlus2|OnePlus2|ONE A2003|
 |OnePlus|OnePlus3|OnePlus3|ONEPLUS A3000|
 |OnePlus|OnePlus3T|OnePlus3T|ONEPLUS A3000|
@@ -19283,6 +19290,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|K8|K8|K8|
 |Oukitel|K8000|K8000|K8000|
 |Oukitel|K9|K9|K9|
+|Oukitel|K9 Pro|K9_Pro|K9 Pro|
 |Oukitel|MIX 2|MIX_2|MIX 2|
 |Oukitel|OK6000 PLUS|OK6000_Plus|OK6000 Plus|
 |Oukitel|OKC8 4G|OKC8_4G|OKC8 4G|
@@ -32924,6 +32932,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iHunt|AlienXLite2020|AlienXLite2020|AlienXLite2020|
 |iHunt|Alien_X_ApeX|Alien_X_ApeX|Alien_X_ApeX|
 |iHunt|Alien_X_Pro_2021|Alien_X_Pro_2021|Alien X Pro 2021|
+|iHunt|Like 11 Panda Pro 2022|iHunt|Like 11 Panda Pro 2022|
 |iHunt|Like 4U|Like_4U|Like_4U|
 |iHunt|Like 8|Like_8|Like_8|
 |iHunt|Like_7|Like_7|Like_7|

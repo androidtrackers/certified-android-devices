@@ -1346,6 +1346,13 @@
    "device": "sindorim"
   }
  ],
+ "A97GT": [
+  {
+   "brand": "ALPHA_LING",
+   "name": "A97GT",
+   "device": "A97GT"
+  }
+ ],
  "MD1001": [
   {
    "brand": "AMTC",
@@ -23013,6 +23020,11 @@
    "device": "GiONEE_BBL7515A"
   },
   {
+   "brand": "HOMII",
+   "name": "HOMII M6",
+   "device": "M6"
+  },
+  {
    "brand": "Hotwav",
    "name": "M6",
    "device": "M6"
@@ -36440,6 +36452,13 @@
    "device": "DTABPLUS"
   }
  ],
+ "Dicle_Dtab_Active_S": [
+  {
+   "brand": "Dicle_Tab",
+   "name": "Dicle Tab Active S",
+   "device": "Dicle_Dtab_Active_S"
+  }
+ ],
  "Tab_MyPen_P1": [
   {
    "brand": "Dicle_Tab",
@@ -44285,6 +44304,18 @@
    "device": "F41B"
   }
  ],
+ "F100": [
+  {
+   "brand": "FEITIAN",
+   "name": "F100",
+   "device": "F100"
+  },
+  {
+   "brand": "Gionee",
+   "name": "F100",
+   "device": "GIONEE_GBL7358"
+  }
+ ],
  "LUXE 3": [
   {
    "brand": "FELUX",
@@ -50539,13 +50570,6 @@
    "brand": "Gionee",
    "name": "F10 Plus",
    "device": "F10_Plus"
-  }
- ],
- "F100": [
-  {
-   "brand": "Gionee",
-   "name": "F100",
-   "device": "GIONEE_GBL7358"
   }
  ],
  "F100A": [
@@ -78553,6 +78577,13 @@
    "device": "Aquaman_10_Smart_WIFI"
   }
  ],
+ "ISCEDTAB21": [
+  {
+   "brand": "ISCED",
+   "name": "ISCEDTAB21",
+   "device": "ISCEDTAB21"
+  }
+ ],
  "IC_51": [
   {
    "brand": "ITOS",
@@ -98881,6 +98912,13 @@
    "brand": "LNMBBS",
    "name": "L201-EEA",
    "device": "L201-EEA"
+  }
+ ],
+ "L211": [
+  {
+   "brand": "LNMBBS",
+   "name": "L211",
+   "device": "L211"
   }
  ],
  "L23-EEA": [
@@ -128237,6 +128275,11 @@
    "brand": "OnePlus",
    "name": "OnePlus Nord N100",
    "device": "OnePlusN100"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord N100",
+   "device": "OnePlusN100TMO"
   }
  ],
  "BE2015": [
@@ -132521,6 +132564,13 @@
    "brand": "Oukitel",
    "name": "K8000",
    "device": "K8000"
+  }
+ ],
+ "K9 Pro": [
+  {
+   "brand": "Oukitel",
+   "name": "K9 Pro",
+   "device": "K9_Pro"
   }
  ],
  "MIX 2": [
@@ -222092,6 +222142,13 @@
    "brand": "iHunt",
    "name": "Alien_X_Pro_2021",
    "device": "Alien_X_Pro_2021"
+  }
+ ],
+ "Like 11 Panda Pro 2022": [
+  {
+   "brand": "iHunt",
+   "name": "Like 11 Panda Pro 2022",
+   "device": "iHunt"
   }
  ],
  "Like_4U": [

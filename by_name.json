@@ -6652,6 +6652,13 @@
    "model": "AI PONT"
   }
  ],
+ "A97GT": [
+  {
+   "brand": "ALPHA_LING",
+   "device": "A97GT",
+   "model": "A97GT"
+  }
+ ],
  "MD1001 Tablet": [
   {
    "brand": "AMTC",
@@ -42465,6 +42472,13 @@
    "model": "DTABPLUS"
   }
  ],
+ "Dicle Tab Active S": [
+  {
+   "brand": "Dicle_Tab",
+   "device": "Dicle_Dtab_Active_S",
+   "model": "Dicle_Dtab_Active_S"
+  }
+ ],
  "Dicle Tab MyPen P1": [
   {
    "brand": "Dicle_Tab",
@@ -50681,6 +50695,23 @@
    "model": "F-41B"
   }
  ],
+ "F100": [
+  {
+   "brand": "FEITIAN",
+   "device": "F100",
+   "model": "F100"
+  },
+  {
+   "brand": "Gionee",
+   "device": "GIONEE_GBL7358",
+   "model": "F100"
+  },
+  {
+   "brand": "Hipstreet",
+   "device": "f100_65u",
+   "model": "f100_65u"
+  }
+ ],
  "LUXE 3": [
   {
    "brand": "FELUX",
@@ -56596,18 +56627,6 @@
    "model": "GIONEE F10 Plus"
   }
  ],
- "F100": [
-  {
-   "brand": "Gionee",
-   "device": "GIONEE_GBL7358",
-   "model": "F100"
-  },
-  {
-   "brand": "Hipstreet",
-   "device": "f100_65u",
-   "model": "f100_65u"
-  }
- ],
  "F100A": [
   {
    "brand": "Gionee",
@@ -59337,6 +59356,13 @@
    "brand": "HMR NETWORKS",
    "device": "HMR5012",
    "model": "HMR5012"
+  }
+ ],
+ "HOMII M6": [
+  {
+   "brand": "HOMII",
+   "device": "M6",
+   "model": "M6"
   }
  ],
  "C13": [
@@ -80783,6 +80809,13 @@
    "model": "TE101"
   }
  ],
+ "ISCEDTAB21": [
+  {
+   "brand": "ISCED",
+   "device": "ISCEDTAB21",
+   "model": "ISCEDTAB21"
+  }
+ ],
  "IC-51": [
   {
    "brand": "ITOS",
@@ -98808,6 +98841,13 @@
    "brand": "LNMBBS",
    "device": "L201-EEA",
    "model": "L201-EEA"
+  }
+ ],
+ "L211": [
+  {
+   "brand": "LNMBBS",
+   "device": "L211",
+   "model": "L211"
   }
  ],
  "L23-EEA": [
@@ -125790,6 +125830,11 @@
    "brand": "OnePlus",
    "device": "OnePlusN100TMO",
    "model": "BE2012"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OnePlusN100TMO",
+   "model": "BE2013"
   }
  ],
  "OnePlus2": [
@@ -129670,6 +129715,13 @@
    "brand": "Oukitel",
    "device": "K8000",
    "model": "K8000"
+  }
+ ],
+ "K9 Pro": [
+  {
+   "brand": "Oukitel",
+   "device": "K9_Pro",
+   "model": "K9 Pro"
   }
  ],
  "MIX 2": [
@@ -209566,6 +209618,13 @@
    "brand": "iHunt",
    "device": "Alien_X_Pro_2021",
    "model": "Alien X Pro 2021"
+  }
+ ],
+ "Like 11 Panda Pro 2022": [
+  {
+   "brand": "iHunt",
+   "device": "iHunt",
+   "model": "Like 11 Panda Pro 2022"
   }
  ],
  "Like 4U": [

@@ -549,6 +549,13 @@
    "model": "AI PONT"
   }
  ],
+ "ALPHA_LING": [
+  {
+   "device": "A97GT",
+   "name": "A97GT",
+   "model": "A97GT"
+  }
+ ],
  "AMTC": [
   {
    "device": "MD1001",
@@ -25531,6 +25538,11 @@
  ],
  "Dicle_Tab": [
   {
+   "device": "Dicle_Dtab_Active_S",
+   "name": "Dicle Tab Active S",
+   "model": "Dicle_Dtab_Active_S"
+  },
+  {
    "device": "Tab_MyPen_P1",
    "name": "Dicle Tab MyPen P1",
    "model": "Tab_MyPen_P1"
@@ -31424,6 +31436,13 @@
    "device": "F41B",
    "name": "arrows Be4 Plus F-41B",
    "model": "F-41B"
+  }
+ ],
+ "FEITIAN": [
+  {
+   "device": "F100",
+   "name": "F100",
+   "model": "F100"
   }
  ],
  "FELUX": [
@@ -37774,6 +37793,13 @@
    "device": "HMR5012",
    "name": "HMR NETWORKS (PTY) LTD",
    "model": "HMR5012"
+  }
+ ],
+ "HOMII": [
+  {
+   "device": "M6",
+   "name": "HOMII M6",
+   "model": "M6"
   }
  ],
  "HOMTOM": [
@@ -57141,6 +57167,13 @@
    "model": "TE101"
   }
  ],
+ "ISCED": [
+  {
+   "device": "ISCEDTAB21",
+   "name": "ISCEDTAB21",
+   "model": "ISCEDTAB21"
+  }
+ ],
  "ITOS": [
   {
    "device": "IC_51",
@@ -72772,6 +72805,11 @@
    "device": "L201-EEA",
    "name": "L201-EEA",
    "model": "L201-EEA"
+  },
+  {
+   "device": "L211",
+   "name": "L211",
+   "model": "L211"
   },
   {
    "device": "L23-EEA",
@@ -95809,6 +95847,11 @@
    "model": "BE2012"
   },
   {
+   "device": "OnePlusN100TMO",
+   "name": "OnePlus Nord N100",
+   "model": "BE2013"
+  },
+  {
    "device": "OnePlus2",
    "name": "OnePlus2",
    "model": "ONE A2003"
@@ -99073,6 +99116,11 @@
    "device": "K9",
    "name": "K9",
    "model": "K9"
+  },
+  {
+   "device": "K9_Pro",
+   "name": "K9 Pro",
+   "model": "K9 Pro"
   },
   {
    "device": "MIX_2",
@@ -168852,6 +168900,11 @@
    "device": "Alien_X_Pro_2021",
    "name": "Alien_X_Pro_2021",
    "model": "Alien X Pro 2021"
+  },
+  {
+   "device": "iHunt",
+   "name": "Like 11 Panda Pro 2022",
+   "model": "Like 11 Panda Pro 2022"
   },
   {
    "device": "Like_4U",
