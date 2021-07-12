@@ -16390,6 +16390,11 @@
   {
    "device": "EF501",
    "name": "EF501R",
+   "model": "EF501R"
+  },
+  {
+   "device": "EF501",
+   "name": "EF501R",
    "model": "EF501R_RU"
   },
   {
@@ -90605,6 +90610,11 @@
    "model": "Multilaser_G"
   },
   {
+   "device": "Multilaser_G_2",
+   "name": "Multilaser G 2",
+   "model": "Multilaser_G_2"
+  },
+  {
    "device": "Multilaser_G_Max",
    "name": "Multilaser G Max",
    "model": "Multilaser_G_Max"
@@ -95850,6 +95860,16 @@
    "device": "OnePlusN100TMO",
    "name": "OnePlus Nord N100",
    "model": "BE2013"
+  },
+  {
+   "device": "OnePlusN200",
+   "name": "OnePlus Nord N200 5G",
+   "model": "DE2117"
+  },
+  {
+   "device": "OnePlusN200TMO",
+   "name": "OnePlus Nord N200 5G",
+   "model": "DE2118"
   },
   {
    "device": "OnePlus2",
@@ -147575,6 +147595,11 @@
    "device": "A11",
    "name": "A11 EEA",
    "model": "A11"
+  },
+  {
+   "device": "A11_Pro_Max",
+   "name": "A11 Pro Max EEA",
+   "model": "A11 Pro Max"
   },
   {
    "device": "A3",

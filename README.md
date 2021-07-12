@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-07-11
+Last sync is 2021-07-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3190,6 +3190,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bluebird|EF500|EF500|EF500|
 |Bluebird|EF501|EF501|EF501|
 |Bluebird|EF501R|EF501|EF501|
+|Bluebird|EF501R|EF501|EF501R|
 |Bluebird|EF501R|EF501|EF501R_RU|
 |Bluebird|EF550|EF550|EF550|
 |Bluebird|EF550R|EF550R|EF550R|
@@ -17645,6 +17646,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|Multilaser F Pro|Multilaser_F_Pro|Multilaser_F_Pro|
 |Multilaser|Multilaser F Pro 2|Multilaser_F_Pro_2|Multilaser_F_Pro_2|
 |Multilaser|Multilaser G|Multilaser_G|Multilaser_G|
+|Multilaser|Multilaser G 2|Multilaser_G_2|Multilaser_G_2|
 |Multilaser|Multilaser G Max|Multilaser_G_Max|Multilaser_G_Max|
 |Multilaser|Multilaser G Max 2|Multilaser_GMAX_2_64|Multilaser_GMAX_2|
 |Multilaser|Multilaser G Max 2|Multilaser_GMax_2_128|Multilaser_GMax_2|
@@ -18644,6 +18646,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Nord N100|OnePlusN100METRO|BE2015|
 |OnePlus|OnePlus Nord N100|OnePlusN100TMO|BE2012|
 |OnePlus|OnePlus Nord N100|OnePlusN100TMO|BE2013|
+|OnePlus|OnePlus Nord N200 5G|OnePlusN200|DE2117|
+|OnePlus|OnePlus Nord N200 5G|OnePlusN200TMO|DE2118|
 |OnePlus|OnePlus2|OnePlus2|ONE A2003|
 |OnePlus|OnePlus3|OnePlus3|ONEPLUS A3000|
 |OnePlus|OnePlus3T|OnePlus3T|ONEPLUS A3000|
@@ -28775,6 +28779,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umax|Visionbook_10Q_Pro|Visionbook_10Q_Pro|Visionbook_10Q_Pro|
 |Umidigi|A11|A11|A11|
 |Umidigi|A11 EEA|A11|A11|
+|Umidigi|A11 Pro Max EEA|A11_Pro_Max|A11 Pro Max|
 |Umidigi|A3|A3|A3|
 |Umidigi|A3S|A3S|A3S|
 |Umidigi|A3S_EEA|A3S|A3S|

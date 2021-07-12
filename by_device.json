@@ -25961,6 +25961,11 @@
   {
    "brand": "Bluebird",
    "name": "EF501R",
+   "model": "EF501R"
+  },
+  {
+   "brand": "Bluebird",
+   "name": "EF501R",
    "model": "EF501R_RU"
   }
  ],
@@ -119103,6 +119108,13 @@
    "model": "Multilaser_G"
   }
  ],
+ "Multilaser_G_2": [
+  {
+   "brand": "Multilaser",
+   "name": "Multilaser G 2",
+   "model": "Multilaser_G_2"
+  }
+ ],
  "Multilaser_G_Max": [
   {
    "brand": "Multilaser",
@@ -125414,6 +125426,20 @@
    "brand": "OnePlus",
    "name": "OnePlus Nord N100",
    "model": "BE2013"
+  }
+ ],
+ "OnePlusN200": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord N200 5G",
+   "model": "DE2117"
+  }
+ ],
+ "OnePlusN200TMO": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord N200 5G",
+   "model": "DE2118"
   }
  ],
  "OnePlus3T": [
@@ -187763,6 +187789,13 @@
    "brand": "Umax",
    "name": "Visionbook_10Q_Pro",
    "model": "Visionbook_10Q_Pro"
+  }
+ ],
+ "A11_Pro_Max": [
+  {
+   "brand": "Umidigi",
+   "name": "A11 Pro Max EEA",
+   "model": "A11 Pro Max"
   }
  ],
  "A3S": [
