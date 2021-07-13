@@ -17530,6 +17530,11 @@
   {
    "brand": "BMobile",
    "name": "BL50",
+   "device": "Bmobile_BL50_TG05"
+  },
+  {
+   "brand": "BMobile",
+   "name": "BL50",
    "device": "Bmobile_BL50_TG06"
   },
   {
@@ -26571,6 +26576,13 @@
    "brand": "Casper",
    "name": "VIA_E3",
    "device": "VIA_E3"
+  }
+ ],
+ "VIA_E30": [
+  {
+   "brand": "Casper",
+   "name": "VIA_E3_0",
+   "device": "VIA_E30"
   }
  ],
  "VIA_E4": [
@@ -38221,6 +38233,13 @@
    "device": "QC804GM"
   }
  ],
+ "T10K_Plus": [
+  {
+   "brand": "Diva",
+   "name": "T10K_Plus",
+   "device": "T10K_Plus"
+  }
+ ],
  "ACK1010": [
   {
    "brand": "Dixon",
@@ -48074,6 +48093,11 @@
   {
    "brand": "Vu Televisions",
    "name": "xiaoyushan-vu",
+   "device": "xiaoyushan"
+  },
+  {
+   "brand": "Wansa",
+   "name": "xiaoyushan_emW",
    "device": "xiaoyushan"
   }
  ],
@@ -145583,6 +145607,13 @@
    "device": "RX3503"
   }
  ],
+ "RX4505": [
+  {
+   "brand": "Red-X",
+   "name": "RX4505",
+   "device": "RED-X_RX4505"
+  }
+ ],
  "RX4559": [
   {
    "brand": "Red-X",
@@ -149977,6 +150008,13 @@
   }
  ],
  "SM-A125U1": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A12",
+   "device": "a12u"
+  }
+ ],
+ "SM-A125W": [
   {
    "brand": "Samsung",
    "name": "Galaxy A12",
@@ -193805,6 +193843,13 @@
    "device": "laoshan"
   }
  ],
+ "SmartTV FFM": [
+  {
+   "brand": "Toshiba",
+   "name": "taishan-jpT",
+   "device": "taishan"
+  }
+ ],
  "TBL-300": [
   {
    "brand": "Toshiba Tec Corporation",
@@ -195519,6 +195564,13 @@
    "brand": "Umax",
    "name": "10C_LTE",
    "device": "10C_LTE"
+  }
+ ],
+ "10L-PLUS": [
+  {
+   "brand": "Umax",
+   "name": "10L-PLUS",
+   "device": "10L-PLUS"
   }
  ],
  "VisionBook_10Qa_3G": [
@@ -200688,6 +200740,13 @@
    "brand": "Vivo",
    "name": "V2108",
    "device": "2061"
+  }
+ ],
+ "V2111A": [
+  {
+   "brand": "Vivo",
+   "name": "V2111A",
+   "device": "PD2111"
   }
  ],
  "V2118A": [
@@ -219823,6 +219882,13 @@
    "brand": "Zebra",
    "name": "Zebra Technologies WT6300",
    "device": "WT63B0"
+  }
+ ],
+ "TBQG1031": [
+  {
+   "brand": "Zeki",
+   "name": "TBQG1031",
+   "device": "TBQG1031"
   }
  ],
  "TBDG1073": [

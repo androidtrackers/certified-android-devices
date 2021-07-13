@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-07-12
+Last sync is 2021-07-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2289,6 +2289,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|B55|B55|B55|
 |BMobile|B60Pro_DG|Bmobile_B60Pro_DG|B60Pro_DG|
 |BMobile|B60Pro_MV03|B60Pro_MV03|B60Pro_MV03|
+|BMobile|BL50|Bmobile_BL50_TG05|BL50|
 |BMobile|BL50|Bmobile_BL50_TG06|BL50|
 |BMobile|BL50|Bmobile_BL50_TG07|BL50|
 |BMobile|BL50|Bmobile_BL50_TG09|BL50|
@@ -3521,6 +3522,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Casper|VIA_A1_Plus|BBL7551TC|VIA_A1_Plus|
 |Casper|VIA_A3|VIA_A3|VIA_A3|
 |Casper|VIA_E3|VIA_E3|VIA_E3|
+|Casper|VIA_E3_0|VIA_E30|VIA_E30|
 |Casper|VIA_E4|VIA_E4|VIA_E4|
 |Casper|VIA_F20|VIA_F20|VIA_F20|
 |Casper|VIA_F3|VIA_F3|VIA_F3|
@@ -5180,6 +5182,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Diva|QC1004GM|QC1004GM|QC1004GM|
 |Diva|QC7704GM|QC7704GM|QC7704GM|
 |Diva|QC804GM|QC804GM|QC804GM|
+|Diva|T10K_Plus|T10K_Plus|T10K_Plus|
 |Dixon|ACK1010|ACK1010|ACK1010|
 |Dixon|DFM48|DFM48|DFM48|
 |Dixon|DN6015|DN6015|DN6015|
@@ -21286,6 +21289,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Red Mobile|Quick_5_0|Quick_5_0|Quick 5.0|
 |Red Mobile|Volt L|Volt_L|Volt L|
 |Red-X|RX3503|RX3503|RX3503|
+|Red-X|RX4505|RED-X_RX4505|RX4505|
 |Red-X|RX4559|RED-X_RX4559|RX4559|
 |Red-X|RX4618|RX4618|RX4618|
 |Red-X|RX4702|RX4702|RX4702|
@@ -21947,6 +21951,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A12|a12s|SM-A127F|
 |Samsung|Galaxy A12|a12u|SM-A125U|
 |Samsung|Galaxy A12|a12u|SM-A125U1|
+|Samsung|Galaxy A12|a12u|SM-A125W|
 |Samsung|Galaxy A12|a12u|SM-S127DL|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260F|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260G|
@@ -28482,6 +28487,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Toshiba|fushan_Toshiba|hamamatsucho|HiSmart 2K ATV4|
 |Toshiba|fushan_euT|hamamatsucho|Smart TV|
 |Toshiba|laoshan_Toshiba|laoshan|U7900|
+|Toshiba|taishan-jpT|taishan|SmartTV FFM|
 |Toshiba|tt300/tt301/tt302|Mozart|Mozart|
 |Toshiba|xiaoyushan_emT|xiaoyushan|HiSmartTV A4|
 |Toshiba|xiaoyushan_etT|xiaoyushan|HiSmartTV A4|
@@ -28761,6 +28767,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umax|10A_LTE_eea|10A_LTE|10A_LTE_eea|
 |Umax|10C-PRO-LTE|10C-PRO-LTE|10C-PRO-LTE|
 |Umax|10C_LTE|10C_LTE|10C_LTE|
+|Umax|10L-PLUS|10L-PLUS|10L-PLUS|
 |Umax|10Qa_3G|10Qa_3G|VisionBook_10Qa_3G|
 |Umax|7A_3G|7A_3G|7A_3G|
 |Umax|7A_Plus_eea|7A_Plus|7A_Plus|
@@ -29582,6 +29589,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2106A|PD2106B|V2106A|
 |Vivo|V2108|2061|V2061|
 |Vivo|V2108|2061|V2108|
+|Vivo|V2111A|PD2111|V2111A|
 |Vivo|V2118A|PD2118|V2118A|
 |Vivo|V2121A|PD2121|V2121A|
 |Vivo|V3|PD1524|vivo V3|
@@ -30103,6 +30111,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|WALPAD 10P|10P|WALPAD 10P|
 |Walton|Walton Primo X5|Primo_X5|Walton Primo X5|
 |Wansa|WUD55JOA63S|samseong|AI PONT|
+|Wansa|xiaoyushan_emW|xiaoyushan|HiSmartTV A4|
 |Warner Bros|Avengers|Avengers|Avengers|
 |Warner Bros|DC_Comics_G9|DC_Comics_G9|DC_Comics_G9|
 |Wave 8|WV7P|Wave_8_7|WV7P|
@@ -32546,6 +32555,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|Zebra Technologies TC8300|TC83BH|TC8300|
 |Zebra|Zebra Technologies VC8300|VC8308|VC8300|
 |Zebra|Zebra Technologies WT6300|WT63B0|WT6300|
+|Zeki|TBQG1031|TBQG1031|TBQG1031|
 |Zeki|TBDG1073|TBDG1073|TBDG1073|
 |Zeki|TBDG734|TBDG734|TBDG734|
 |Zeki|TBDG874 Tablet|TBDG874B|TBDG874|

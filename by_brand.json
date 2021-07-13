@@ -11777,6 +11777,11 @@
    "model": "B60Pro_MV03"
   },
   {
+   "device": "Bmobile_BL50_TG05",
+   "name": "BL50",
+   "model": "BL50"
+  },
+  {
    "device": "Bmobile_BL50_TG06",
    "name": "BL50",
    "model": "BL50"
@@ -18211,6 +18216,11 @@
    "device": "VIA_E3",
    "name": "VIA_E3",
    "model": "VIA_E3"
+  },
+  {
+   "device": "VIA_E30",
+   "name": "VIA_E3_0",
+   "model": "VIA_E30"
   },
   {
    "device": "VIA_E4",
@@ -26826,6 +26836,11 @@
    "device": "QC804GM",
    "name": "QC804GM",
    "model": "QC804GM"
+  },
+  {
+   "device": "T10K_Plus",
+   "name": "T10K_Plus",
+   "model": "T10K_Plus"
   }
  ],
  "Dixon": [
@@ -109372,6 +109387,11 @@
    "model": "RX3503"
   },
   {
+   "device": "RED-X_RX4505",
+   "name": "RX4505",
+   "model": "RX4505"
+  },
+  {
    "device": "RED-X_RX4559",
    "name": "RX4559",
    "model": "RX4559"
@@ -112837,6 +112857,11 @@
    "device": "a12u",
    "name": "Galaxy A12",
    "model": "SM-A125U1"
+  },
+  {
+   "device": "a12u",
+   "name": "Galaxy A12",
+   "model": "SM-A125W"
   },
   {
    "device": "a12u",
@@ -146022,6 +146047,11 @@
    "model": "U7900"
   },
   {
+   "device": "taishan",
+   "name": "taishan-jpT",
+   "model": "SmartTV FFM"
+  },
+  {
    "device": "Mozart",
    "name": "tt300/tt301/tt302",
    "model": "Mozart"
@@ -147503,6 +147533,11 @@
    "device": "10C_LTE",
    "name": "10C_LTE",
    "model": "10C_LTE"
+  },
+  {
+   "device": "10L-PLUS",
+   "name": "10L-PLUS",
+   "model": "10L-PLUS"
   },
   {
    "device": "10Qa_3G",
@@ -151776,6 +151811,11 @@
    "model": "V2108"
   },
   {
+   "device": "PD2111",
+   "name": "V2111A",
+   "model": "V2111A"
+  },
+  {
    "device": "PD2118",
    "name": "V2118A",
    "model": "V2118A"
@@ -154445,6 +154485,11 @@
    "device": "samseong",
    "name": "WUD55JOA63S",
    "model": "AI PONT"
+  },
+  {
+   "device": "xiaoyushan",
+   "name": "xiaoyushan_emW",
+   "model": "HiSmartTV A4"
   }
  ],
  "Warner Bros": [
@@ -166857,6 +166902,11 @@
   }
  ],
  "Zeki": [
+  {
+   "device": "TBQG1031",
+   "name": "TBQG1031",
+   "model": "TBQG1031"
+  },
   {
    "device": "TBDG1073",
    "name": "TBDG1073",
