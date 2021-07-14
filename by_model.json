@@ -2753,6 +2753,405 @@
    "device": "Acer_one_8_T2"
   }
  ],
+ "ATV R1": [
+  {
+   "brand": "Acer",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "Aconatic",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "Alhafidh",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "Artel",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "Brookstone",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "CG Inspiring Life",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "Casper",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "Challenger",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "Compaq",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "DORA",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "Denka",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "Erito",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "EssentielB",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "Evvoli",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "Hitachi",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "Home Elite",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "Intex",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "JVC",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "Kalley",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "LLOYD",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "LUCOMS",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "MIRAY",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "Master-G",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "Micromax",
+   "name": "R1",
+   "device": "R1"
+  },
+  {
+   "brand": "Minister",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "Mystic",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "Nokia",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "Orient",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "PALSONIC",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "Polaroid",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "RECCO",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "SCHNEIDER",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "Sanyo",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "Singer",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "Stream System",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "Strong",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "Thomson",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "Vision Technology",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "Xtreme",
+   "name": "Android TV",
+   "device": "R1"
+  }
+ ],
+ "ATV R2": [
+  {
+   "brand": "Acer",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Aconatic",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Alhafidh",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Amstrad",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Artel",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "CG Inspiring Life",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Casper",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Challenger",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Compaq",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Condor",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "DORA",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Denka",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "EssentielB",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Evvoli",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Hitachi",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "JVC",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Kalley",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "LLOYD",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "LUCOMS",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "MIRAY",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Master-G",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Micromax",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Mystic",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Nokia",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Orient",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "PALSONIC",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Polaroid",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "RECCO",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "SAMPO",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "SCHNEIDER",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Sanyo",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Singer",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Stream System",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Strong",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "THE UHD",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Thomson",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Vision Technology",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "innos",
+   "name": "Android TV",
+   "device": "R2"
+  }
+ ],
  "AA3-600": [
   {
    "brand": "Acer",
@@ -3905,375 +4304,6 @@
    "brand": "Aconatic",
    "name": "Aconatic",
    "device": "komagome"
-  }
- ],
- "ATV R1": [
-  {
-   "brand": "Aconatic",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "Alhafidh",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "Artel",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "Brookstone",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "CG Inspiring Life",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "Casper",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "Challenger",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "Compaq",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "DORA",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "Denka",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "Erito",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "EssentielB",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "Evvoli",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "Hitachi",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "Home Elite",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "Intex",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "JVC",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "Kalley",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "LLOYD",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "LUCOMS",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "MIRAY",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "Master-G",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "Micromax",
-   "name": "R1",
-   "device": "R1"
-  },
-  {
-   "brand": "Minister",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "Mystic",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "Nokia",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "Orient",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "Polaroid",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "RECCO",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "SCHNEIDER",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "Sanyo",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "Singer",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "Strong",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "Thomson",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "Vision Technology",
-   "name": "Android TV",
-   "device": "R1"
-  },
-  {
-   "brand": "Xtreme",
-   "name": "Android TV",
-   "device": "R1"
-  }
- ],
- "ATV R2": [
-  {
-   "brand": "Aconatic",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "Alhafidh",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "Amstrad",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "Artel",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "CG Inspiring Life",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "Casper",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "Challenger",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "Compaq",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "Condor",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "DORA",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "Denka",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "EssentielB",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "Evvoli",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "Hitachi",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "JVC",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "Kalley",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "LLOYD",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "LUCOMS",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "MIRAY",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "Master-G",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "Micromax",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "Mystic",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "Nokia",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "Orient",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "Polaroid",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "RECCO",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "SAMPO",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "SCHNEIDER",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "Sanyo",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "Singer",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "Strong",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "THE UHD",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "Thomson",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "Vision Technology",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "innos",
-   "name": "Android TV",
-   "device": "R2"
   }
  ],
  "DV6068Y": [
@@ -120667,7 +120697,19 @@
    "device": "nairo"
   }
  ],
+ "motorola one 5G UW ace": [
+  {
+   "brand": "Motorola",
+   "name": "motorola one 5G UW ace",
+   "device": "kievv"
+  }
+ ],
  "motorola one 5G ace": [
+  {
+   "brand": "Motorola",
+   "name": "motorola one 5G UW ace",
+   "device": "kievv"
+  },
   {
    "brand": "Motorola",
    "name": "motorola one 5G ace",
@@ -150000,6 +150042,13 @@
    "device": "a12s"
   }
  ],
+ "SM-A127M": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A12",
+   "device": "a12s"
+  }
+ ],
  "SM-A125U": [
   {
    "brand": "Samsung",
@@ -159959,11 +160008,6 @@
   {
    "brand": "Samsung",
    "name": "Galaxy S20 FE",
-   "device": "r8q"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy S20 FE 5G",
    "device": "r8q"
   }
  ],
@@ -219724,6 +219768,13 @@
    "brand": "Zebra",
    "name": "TC52",
    "device": "TC52"
+  }
+ ],
+ "TC52AX": [
+  {
+   "brand": "Zebra",
+   "name": "TC52ax",
+   "device": "TC52X"
   }
  ],
  "TC56": [

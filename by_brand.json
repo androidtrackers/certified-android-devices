@@ -1521,6 +1521,16 @@
    "model": "Acer_one_8_T2"
   },
   {
+   "device": "R1",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
    "device": "aa3-600",
    "name": "Aspire A3",
    "model": "AA3-600"
@@ -89640,6 +89650,16 @@
    "model": "motorola one 5G UW"
   },
   {
+   "device": "kievv",
+   "name": "motorola one 5G UW ace",
+   "model": "motorola one 5G UW ace"
+  },
+  {
+   "device": "kievv",
+   "name": "motorola one 5G UW ace",
+   "model": "motorola one 5G ace"
+  },
+  {
    "device": "kiev",
    "name": "motorola one 5G ace",
    "model": "motorola one 5G ace"
@@ -99377,6 +99397,18 @@
    "device": "T72HM3G",
    "name": "T72HMs 3G",
    "model": "T72HMs_3G"
+  }
+ ],
+ "PALSONIC": [
+  {
+   "device": "R1",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
   }
  ],
  "PAPAGO": [
@@ -112849,6 +112881,11 @@
    "model": "SM-A127F"
   },
   {
+   "device": "a12s",
+   "name": "Galaxy A12",
+   "model": "SM-A127M"
+  },
+  {
    "device": "a12u",
    "name": "Galaxy A12",
    "model": "SM-A125U"
@@ -120077,11 +120114,6 @@
    "device": "r8s",
    "name": "Galaxy S20 FE",
    "model": "SM-G780F"
-  },
-  {
-   "device": "r8q",
-   "name": "Galaxy S20 FE 5G",
-   "model": "SM-G780G"
   },
   {
    "device": "r8q",
@@ -133130,6 +133162,18 @@
    "device": "DV8555-Altice",
    "name": "Stream",
    "model": "Stream"
+  }
+ ],
+ "Stream System": [
+  {
+   "device": "R1",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
   }
  ],
  "Strong": [
@@ -166764,6 +166808,11 @@
    "device": "TC52",
    "name": "TC52",
    "model": "TC52"
+  },
+  {
+   "device": "TC52X",
+   "name": "TC52ax",
+   "model": "TC52AX"
   },
   {
    "device": "TC55",

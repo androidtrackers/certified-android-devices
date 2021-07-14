@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-07-13
+Last sync is 2021-07-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -285,6 +285,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|Acer One 7 4G|Acer_One_7_4G|Acer One 7 4G|
 |Acer|Acer One 8 T4-82L|AcerOne8T482L|Acer One 8 T4-82L|
 |Acer|Acer_one_8_T2|Acer_one_8_T2|Acer_one_8_T2|
+|Acer|Android TV|R1|ATV R1|
+|Acer|Android TV|R2|ATV R2|
 |Acer|Aspire A3|aa3-600|AA3-600|
 |Acer|B1-710|B1-710|B1-710|
 |Acer|B1-711|B1-711|B1-711|
@@ -17458,6 +17460,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola one 5G|nairo|motorola one 5G|
 |Motorola|motorola one 5G UW|nairo|motorola one 5G|
 |Motorola|motorola one 5G UW|nairo|motorola one 5G UW|
+|Motorola|motorola one 5G UW ace|kievv|motorola one 5G UW ace|
+|Motorola|motorola one 5G UW ace|kievv|motorola one 5G ace|
 |Motorola|motorola one 5G ace|kiev|motorola one 5G ace|
 |Motorola|motorola one action|troika|motorola one action|
 |Motorola|motorola one action|troika_sprout|motorola one action|
@@ -19341,6 +19345,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OwnMobile|Smart Plus Lte|SMART_PLUS_LTE|SMART PLUS LTE|
 |Oysters|T72HM3G|T72HM3G|T72HM3G|
 |Oysters|T72HMs 3G|T72HM3G|T72HMs_3G|
+|PALSONIC|Android TV|R1|ATV R1|
+|PALSONIC|Android TV|R2|ATV R2|
 |PAPAGO|GoPad8|GoPad8|GoPad8|
 |PARTNER MOBILE|EV1_PRO|EV1_PRO|EV1 PRO|
 |PATTERS|P7|P7|P7|
@@ -21949,6 +21955,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A12|a12|SM-A125M|
 |Samsung|Galaxy A12|a12|SM-A125N|
 |Samsung|Galaxy A12|a12s|SM-A127F|
+|Samsung|Galaxy A12|a12s|SM-A127M|
 |Samsung|Galaxy A12|a12u|SM-A125U|
 |Samsung|Galaxy A12|a12u|SM-A125U1|
 |Samsung|Galaxy A12|a12u|SM-A125W|
@@ -23395,7 +23402,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S20 5G|x1s|SM-G981B|
 |Samsung|Galaxy S20 FE|r8q|SM-G780G|
 |Samsung|Galaxy S20 FE|r8s|SM-G780F|
-|Samsung|Galaxy S20 FE 5G|r8q|SM-G780G|
 |Samsung|Galaxy S20 FE 5G|r8q|SM-G7810|
 |Samsung|Galaxy S20 FE 5G|r8q|SM-G781B|
 |Samsung|Galaxy S20 FE 5G|r8q|SM-G781N|
@@ -25966,6 +25972,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stream|S7|MIRROR|S7|
 |Stream|SHARK|SHARK|SHARK|
 |Stream|Stream|DV8555-Altice|Stream|
+|Stream System|Android TV|R1|ATV R1|
+|Stream System|Android TV|R2|ATV R2|
 |Strong|Android TV|R1|ATV R1|
 |Strong|Android TV|R2|ATV R2|
 |Strong|LEAP-S1|LAS|LEAP-S1|
@@ -32528,6 +32536,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|TC51|TC51|TC51|
 |Zebra|TC51|TC51HC|TC51|
 |Zebra|TC52|TC52|TC52|
+|Zebra|TC52ax|TC52X|TC52AX|
 |Zebra|TC55|TC55|TC55|
 |Zebra|TC56|TC56|TC56|
 |Zebra|TC57|TC57|TC57|

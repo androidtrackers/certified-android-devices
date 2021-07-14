@@ -7993,6 +7993,448 @@
    "model": "Acer_one_8_T2"
   }
  ],
+ "Android TV": [
+  {
+   "brand": "Acer",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Acer",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Aconatic",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Aconatic",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Alhafidh",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Alhafidh",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Amstrad",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Artel",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Artel",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Brookstone",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "CG Inspiring Life",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "CG Inspiring Life",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Casper",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Casper",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Challenger",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Challenger",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Compaq",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Compaq",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Condor",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "DORA",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "DORA",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Denka",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Denka",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Erito",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "EssentielB",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "EssentielB",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Evvoli",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Evvoli",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Hitachi",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Hitachi",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Home Elite",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Hyundai",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Hyundai",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Intex",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "JVC",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "JVC",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Kalley",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Kalley",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "LGE",
+   "device": "cosmo",
+   "model": "LG Google TV"
+  },
+  {
+   "brand": "LGE",
+   "device": "eden",
+   "model": "LG Android TV V4"
+  },
+  {
+   "brand": "LGE",
+   "device": "eden",
+   "model": "LG Google TV G3"
+  },
+  {
+   "brand": "LGE",
+   "device": "eden",
+   "model": "LG Google TV G3 KR"
+  },
+  {
+   "brand": "LLOYD",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "LLOYD",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "LUCOMS",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "LUCOMS",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "MIRAY",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "MIRAY",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Master-G",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Master-G",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Micromax",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Minister",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "My",
+   "device": "tokyo",
+   "model": "Android TV"
+  },
+  {
+   "brand": "My",
+   "device": "yeoksam",
+   "model": "Android TV"
+  },
+  {
+   "brand": "My",
+   "device": "yeoksam",
+   "model": "AndroidTV"
+  },
+  {
+   "brand": "My",
+   "device": "yeoksam",
+   "model": "Cosmos"
+  },
+  {
+   "brand": "Mystic",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Mystic",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Nokia",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Nokia",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Orient",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Orient",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "PALSONIC",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "PALSONIC",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Panasonic",
+   "device": "R1",
+   "model": "PANASONIC TV"
+  },
+  {
+   "brand": "Panasonic",
+   "device": "R2",
+   "model": "PANASONIC TV"
+  },
+  {
+   "brand": "Polaroid",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Polaroid",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "RECCO",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "RECCO",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "SAMPO",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "SCHNEIDER",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "SCHNEIDER",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Sanyo",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Sanyo",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Singer",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Singer",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Stream System",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Stream System",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Strong",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Strong",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "THE UHD",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Thomson",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Thomson",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Vision Technology",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Vision Technology",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Xtreme",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "innos",
+   "device": "R2",
+   "model": "ATV R2"
+  }
+ ],
  "Aspire A3": [
   {
    "brand": "Acer",
@@ -9053,418 +9495,6 @@
    "brand": "Aconatic",
    "device": "komagome",
    "model": "Aconatic 2K Android TV"
-  }
- ],
- "Android TV": [
-  {
-   "brand": "Aconatic",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "Aconatic",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "Alhafidh",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "Alhafidh",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "Amstrad",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "Artel",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "Artel",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "Brookstone",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "CG Inspiring Life",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "CG Inspiring Life",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "Casper",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "Casper",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "Challenger",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "Challenger",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "Compaq",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "Compaq",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "Condor",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "DORA",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "DORA",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "Denka",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "Denka",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "Erito",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "EssentielB",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "EssentielB",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "Evvoli",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "Evvoli",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "Hitachi",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "Hitachi",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "Home Elite",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "Hyundai",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "Hyundai",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "Intex",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "JVC",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "JVC",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "Kalley",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "Kalley",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "LGE",
-   "device": "cosmo",
-   "model": "LG Google TV"
-  },
-  {
-   "brand": "LGE",
-   "device": "eden",
-   "model": "LG Android TV V4"
-  },
-  {
-   "brand": "LGE",
-   "device": "eden",
-   "model": "LG Google TV G3"
-  },
-  {
-   "brand": "LGE",
-   "device": "eden",
-   "model": "LG Google TV G3 KR"
-  },
-  {
-   "brand": "LLOYD",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "LLOYD",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "LUCOMS",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "LUCOMS",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "MIRAY",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "MIRAY",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "Master-G",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "Master-G",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "Micromax",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "Minister",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "My",
-   "device": "tokyo",
-   "model": "Android TV"
-  },
-  {
-   "brand": "My",
-   "device": "yeoksam",
-   "model": "Android TV"
-  },
-  {
-   "brand": "My",
-   "device": "yeoksam",
-   "model": "AndroidTV"
-  },
-  {
-   "brand": "My",
-   "device": "yeoksam",
-   "model": "Cosmos"
-  },
-  {
-   "brand": "Mystic",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "Mystic",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "Nokia",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "Nokia",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "Orient",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "Orient",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "Panasonic",
-   "device": "R1",
-   "model": "PANASONIC TV"
-  },
-  {
-   "brand": "Panasonic",
-   "device": "R2",
-   "model": "PANASONIC TV"
-  },
-  {
-   "brand": "Polaroid",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "Polaroid",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "RECCO",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "RECCO",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "SAMPO",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "SCHNEIDER",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "SCHNEIDER",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "Sanyo",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "Sanyo",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "Singer",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "Singer",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "Strong",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "Strong",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "THE UHD",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "Thomson",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "Thomson",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "Vision Technology",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "Vision Technology",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "Xtreme",
-   "device": "R1",
-   "model": "ATV R1"
-  },
-  {
-   "brand": "innos",
-   "device": "R2",
-   "model": "ATV R2"
   }
  ],
  "DV6068Y": [
@@ -118489,6 +118519,18 @@
    "model": "motorola one 5G UW"
   }
  ],
+ "motorola one 5G UW ace": [
+  {
+   "brand": "Motorola",
+   "device": "kievv",
+   "model": "motorola one 5G UW ace"
+  },
+  {
+   "brand": "Motorola",
+   "device": "kievv",
+   "model": "motorola one 5G ace"
+  }
+ ],
  "motorola one 5G ace": [
   {
    "brand": "Motorola",
@@ -146425,6 +146467,11 @@
   },
   {
    "brand": "Samsung",
+   "device": "a12s",
+   "model": "SM-A127M"
+  },
+  {
+   "brand": "Samsung",
    "device": "a12u",
    "model": "SM-A125U"
   },
@@ -154328,11 +154375,6 @@
   }
  ],
  "Galaxy S20 FE 5G": [
-  {
-   "brand": "Samsung",
-   "device": "r8q",
-   "model": "SM-G780G"
-  },
   {
    "brand": "Samsung",
    "device": "r8q",
@@ -207138,6 +207180,13 @@
    "brand": "Zebra",
    "device": "TC52",
    "model": "TC52"
+  }
+ ],
+ "TC52ax": [
+  {
+   "brand": "Zebra",
+   "device": "TC52X",
+   "model": "TC52AX"
   }
  ],
  "TC56": [
