@@ -77518,6 +77518,11 @@
    "model": "Lenovo TB-J606N"
   },
   {
+   "device": "TB-8506F",
+   "name": "Lenovo Tab K8",
+   "model": "Lenovo TB-8506F"
+  },
+  {
    "device": "X605F",
    "name": "Lenovo Tab M10 (FHD)",
    "model": "Lenovo TB-X605F"
@@ -99850,6 +99855,11 @@
    "model": "M10600"
   },
   {
+   "device": "M10950",
+   "name": "M10950",
+   "model": "M10950"
+  },
+  {
    "device": "M11550",
    "name": "M11550",
    "model": "M11550"
@@ -111218,11 +111228,6 @@
    "model": "GRAVITY 3G_2019"
   },
   {
-   "device": "GRAVITY_OCTACORE",
-   "name": "GRAVITY_OCTACORE",
-   "model": "GRAVITY_OCTACORE"
-  },
-  {
    "device": "Gravity_Max",
    "name": "Gravity_Max_EEA",
    "model": "Gravity Max"
@@ -111358,51 +111363,6 @@
    "model": "S19"
   },
   {
-   "device": "SMART_2",
-   "name": "SMART  2",
-   "model": "SMART 2"
-  },
-  {
-   "device": "SPC_GEN",
-   "name": "SPC GEN",
-   "model": "SPC GEN"
-  },
-  {
-   "device": "SPC_GEN_LITE",
-   "name": "SPC GEN LITE",
-   "model": "SPC GEN LITE"
-  },
-  {
-   "device": "SPC_GEN_MAX",
-   "name": "SPC GEN MAX",
-   "model": "SPC GEN MAX"
-  },
-  {
-   "device": "SPC_GEN_PLUS",
-   "name": "SPC GEN PLUS",
-   "model": "SPC GEN PLUS"
-  },
-  {
-   "device": "SPC_SMART",
-   "name": "SPC SMART",
-   "model": "SPC SMART"
-  },
-  {
-   "device": "SPC_SMART_LITE",
-   "name": "SPC SMART LITE",
-   "model": "SPC SMART LITE"
-  },
-  {
-   "device": "SPC_SMART_MAX",
-   "name": "SPC SMART MAX",
-   "model": "SPC SMART MAX"
-  },
-  {
-   "device": "SPC_SMART_PLUS",
-   "name": "SPC SMART PLUS",
-   "model": "SPC SMART PLUS"
-  },
-  {
    "device": "SPC_X1",
    "name": "X1",
    "model": "X1"
@@ -111455,6 +111415,11 @@
    "model": "GRAVITY 4G_2019"
   },
   {
+   "device": "GRAVITY_OCTACORE",
+   "name": "GRAVITY_OCTACORE",
+   "model": "GRAVITY_OCTACORE"
+  },
+  {
    "device": "GRAVITY_2019",
    "name": "Gravity_2019",
    "model": "GRAVITY_2019"
@@ -111478,6 +111443,51 @@
    "device": "Lightyear",
    "name": "Lightyear",
    "model": "Lightyear"
+  },
+  {
+   "device": "SMART_2",
+   "name": "SMART  2",
+   "model": "SMART 2"
+  },
+  {
+   "device": "SPC_GEN",
+   "name": "SPC GEN",
+   "model": "SPC GEN"
+  },
+  {
+   "device": "SPC_GEN_LITE",
+   "name": "SPC GEN LITE",
+   "model": "SPC GEN LITE"
+  },
+  {
+   "device": "SPC_GEN_MAX",
+   "name": "SPC GEN MAX",
+   "model": "SPC GEN MAX"
+  },
+  {
+   "device": "SPC_GEN_PLUS",
+   "name": "SPC GEN PLUS",
+   "model": "SPC GEN PLUS"
+  },
+  {
+   "device": "SPC_SMART",
+   "name": "SPC SMART",
+   "model": "SPC SMART"
+  },
+  {
+   "device": "SPC_SMART_LITE",
+   "name": "SPC SMART LITE",
+   "model": "SPC SMART LITE"
+  },
+  {
+   "device": "SPC_SMART_MAX",
+   "name": "SPC SMART MAX",
+   "model": "SPC SMART MAX"
+  },
+  {
+   "device": "SPC_SMART_PLUS",
+   "name": "SPC SMART PLUS",
+   "model": "SPC SMART PLUS"
   },
   {
    "device": "heaven-10_1",
@@ -127537,6 +127547,11 @@
    "device": "SW4H_FF",
    "name": "SHARP Android TV",
    "model": "SHARP Android TV"
+  },
+  {
+   "device": "takao",
+   "name": "SHARP FHD TV",
+   "model": "SHARP FHD TV"
   },
   {
    "device": "SK3",
@@ -166139,6 +166154,11 @@
    "device": "P963F50_A",
    "name": "ZTE Blade A51 Lite RU",
    "model": "ZTE Blade A51 Lite RU"
+  },
+  {
+   "device": "P963F60",
+   "name": "ZTE Blade A51RU",
+   "model": "ZTE Blade A51RU"
   },
   {
    "device": "P817E53",

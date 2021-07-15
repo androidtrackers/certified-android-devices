@@ -5178,6 +5178,11 @@
    "brand": "Philips",
    "name": "2K Android TV",
    "model": "2020 FHD Android TV"
+  },
+  {
+   "brand": "Sharp",
+   "name": "SHARP FHD TV",
+   "model": "SHARP FHD TV"
   }
  ],
  "komagome": [
@@ -102714,6 +102719,18 @@
    "model": "Lenovo TB-J606N"
   }
  ],
+ "TB-8506F": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab K8",
+   "model": "Lenovo TB-8506F"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M8 (3rd Gen)",
+   "model": "Lenovo TB-8506F"
+  }
+ ],
  "X605F": [
   {
    "brand": "Lenovo",
@@ -102955,13 +102972,6 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab M8",
    "model": "Lenovo TB-8705X"
-  }
- ],
- "TB-8506F": [
-  {
-   "brand": "Lenovo",
-   "name": "Lenovo Tab M8 (3rd Gen)",
-   "model": "Lenovo TB-8506F"
   }
  ],
  "TB-8506FS": [
@@ -130403,6 +130413,13 @@
    "model": "M10600"
   }
  ],
+ "M10950": [
+  {
+   "brand": "Packard Bell",
+   "name": "M10950",
+   "model": "M10950"
+  }
+ ],
  "M11550": [
   {
    "brand": "Packard Bell",
@@ -144185,13 +144202,6 @@
    "model": "GRAVITY 3G_2019"
   }
  ],
- "GRAVITY_OCTACORE": [
-  {
-   "brand": "SPC Mobile",
-   "name": "GRAVITY_OCTACORE",
-   "model": "GRAVITY_OCTACORE"
-  }
- ],
  "Gravity_Max": [
   {
    "brand": "SPC Mobile",
@@ -144370,69 +144380,6 @@
    "model": "S19"
   }
  ],
- "SMART_2": [
-  {
-   "brand": "SPC Mobile",
-   "name": "SMART  2",
-   "model": "SMART 2"
-  }
- ],
- "SPC_GEN": [
-  {
-   "brand": "SPC Mobile",
-   "name": "SPC GEN",
-   "model": "SPC GEN"
-  }
- ],
- "SPC_GEN_LITE": [
-  {
-   "brand": "SPC Mobile",
-   "name": "SPC GEN LITE",
-   "model": "SPC GEN LITE"
-  }
- ],
- "SPC_GEN_MAX": [
-  {
-   "brand": "SPC Mobile",
-   "name": "SPC GEN MAX",
-   "model": "SPC GEN MAX"
-  }
- ],
- "SPC_GEN_PLUS": [
-  {
-   "brand": "SPC Mobile",
-   "name": "SPC GEN PLUS",
-   "model": "SPC GEN PLUS"
-  }
- ],
- "SPC_SMART": [
-  {
-   "brand": "SPC Mobile",
-   "name": "SPC SMART",
-   "model": "SPC SMART"
-  }
- ],
- "SPC_SMART_LITE": [
-  {
-   "brand": "SPC Mobile",
-   "name": "SPC SMART LITE",
-   "model": "SPC SMART LITE"
-  }
- ],
- "SPC_SMART_MAX": [
-  {
-   "brand": "SPC Mobile",
-   "name": "SPC SMART MAX",
-   "model": "SPC SMART MAX"
-  }
- ],
- "SPC_SMART_PLUS": [
-  {
-   "brand": "SPC Mobile",
-   "name": "SPC SMART PLUS",
-   "model": "SPC SMART PLUS"
-  }
- ],
  "SPC_X1": [
   {
    "brand": "SPC Mobile",
@@ -144518,6 +144465,13 @@
    "model": "GRAVITY 4G_2019"
   }
  ],
+ "GRAVITY_OCTACORE": [
+  {
+   "brand": "SPC Universe",
+   "name": "GRAVITY_OCTACORE",
+   "model": "GRAVITY_OCTACORE"
+  }
+ ],
  "GRAVITY_2019": [
   {
    "brand": "SPC Universe",
@@ -144537,6 +144491,69 @@
    "brand": "SPC Universe",
    "name": "Laika",
    "model": "Laika"
+  }
+ ],
+ "SMART_2": [
+  {
+   "brand": "SPC Universe",
+   "name": "SMART  2",
+   "model": "SMART 2"
+  }
+ ],
+ "SPC_GEN": [
+  {
+   "brand": "SPC Universe",
+   "name": "SPC GEN",
+   "model": "SPC GEN"
+  }
+ ],
+ "SPC_GEN_LITE": [
+  {
+   "brand": "SPC Universe",
+   "name": "SPC GEN LITE",
+   "model": "SPC GEN LITE"
+  }
+ ],
+ "SPC_GEN_MAX": [
+  {
+   "brand": "SPC Universe",
+   "name": "SPC GEN MAX",
+   "model": "SPC GEN MAX"
+  }
+ ],
+ "SPC_GEN_PLUS": [
+  {
+   "brand": "SPC Universe",
+   "name": "SPC GEN PLUS",
+   "model": "SPC GEN PLUS"
+  }
+ ],
+ "SPC_SMART": [
+  {
+   "brand": "SPC Universe",
+   "name": "SPC SMART",
+   "model": "SPC SMART"
+  }
+ ],
+ "SPC_SMART_LITE": [
+  {
+   "brand": "SPC Universe",
+   "name": "SPC SMART LITE",
+   "model": "SPC SMART LITE"
+  }
+ ],
+ "SPC_SMART_MAX": [
+  {
+   "brand": "SPC Universe",
+   "name": "SPC SMART MAX",
+   "model": "SPC SMART MAX"
+  }
+ ],
+ "SPC_SMART_PLUS": [
+  {
+   "brand": "SPC Universe",
+   "name": "SPC SMART PLUS",
+   "model": "SPC SMART PLUS"
   }
  ],
  "heaven-10_1": [
@@ -206328,6 +206345,11 @@
    "brand": "ZTE",
    "name": "ZTE Blade A51",
    "model": "ZTE Blade A51"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A51RU",
+   "model": "ZTE Blade A51RU"
   }
  ],
  "Z6351O": [

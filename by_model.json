@@ -105289,6 +105289,18 @@
    "device": "J606N"
   }
  ],
+ "Lenovo TB-8506F": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab K8",
+   "device": "TB-8506F"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M8 (3rd Gen)",
+   "device": "TB-8506F"
+  }
+ ],
  "Lenovo TB-X605F": [
   {
    "brand": "Lenovo",
@@ -105530,13 +105542,6 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab M8",
    "device": "8705X"
-  }
- ],
- "Lenovo TB-8506F": [
-  {
-   "brand": "Lenovo",
-   "name": "Lenovo Tab M8 (3rd Gen)",
-   "device": "TB-8506F"
   }
  ],
  "Lenovo TB-8506FS": [
@@ -133458,6 +133463,13 @@
    "device": "M10600"
   }
  ],
+ "M10950": [
+  {
+   "brand": "Packard Bell",
+   "name": "M10950",
+   "device": "M10950"
+  }
+ ],
  "M11550": [
   {
    "brand": "Packard Bell",
@@ -147797,13 +147809,6 @@
    "device": "GRAVITY_3G"
   }
  ],
- "GRAVITY_OCTACORE": [
-  {
-   "brand": "SPC Mobile",
-   "name": "GRAVITY_OCTACORE",
-   "device": "GRAVITY_OCTACORE"
-  }
- ],
  "Gravity Max": [
   {
    "brand": "SPC Mobile",
@@ -147966,69 +147971,6 @@
    "device": "Koobee_S19"
   }
  ],
- "SMART 2": [
-  {
-   "brand": "SPC Mobile",
-   "name": "SMART  2",
-   "device": "SMART_2"
-  }
- ],
- "SPC GEN": [
-  {
-   "brand": "SPC Mobile",
-   "name": "SPC GEN",
-   "device": "SPC_GEN"
-  }
- ],
- "SPC GEN LITE": [
-  {
-   "brand": "SPC Mobile",
-   "name": "SPC GEN LITE",
-   "device": "SPC_GEN_LITE"
-  }
- ],
- "SPC GEN MAX": [
-  {
-   "brand": "SPC Mobile",
-   "name": "SPC GEN MAX",
-   "device": "SPC_GEN_MAX"
-  }
- ],
- "SPC GEN PLUS": [
-  {
-   "brand": "SPC Mobile",
-   "name": "SPC GEN PLUS",
-   "device": "SPC_GEN_PLUS"
-  }
- ],
- "SPC SMART": [
-  {
-   "brand": "SPC Mobile",
-   "name": "SPC SMART",
-   "device": "SPC_SMART"
-  }
- ],
- "SPC SMART LITE": [
-  {
-   "brand": "SPC Mobile",
-   "name": "SPC SMART LITE",
-   "device": "SPC_SMART_LITE"
-  }
- ],
- "SPC SMART MAX": [
-  {
-   "brand": "SPC Mobile",
-   "name": "SPC SMART MAX",
-   "device": "SPC_SMART_MAX"
-  }
- ],
- "SPC SMART PLUS": [
-  {
-   "brand": "SPC Mobile",
-   "name": "SPC SMART PLUS",
-   "device": "SPC_SMART_PLUS"
-  }
- ],
  "X5": [
   {
    "brand": "SPC Mobile",
@@ -148095,6 +148037,13 @@
    "device": "GRAVITY_4G"
   }
  ],
+ "GRAVITY_OCTACORE": [
+  {
+   "brand": "SPC Universe",
+   "name": "GRAVITY_OCTACORE",
+   "device": "GRAVITY_OCTACORE"
+  }
+ ],
  "GRAVITY_2019": [
   {
    "brand": "SPC Universe",
@@ -148114,6 +148063,69 @@
    "brand": "SPC Universe",
    "name": "Laika",
    "device": "Laika"
+  }
+ ],
+ "SMART 2": [
+  {
+   "brand": "SPC Universe",
+   "name": "SMART  2",
+   "device": "SMART_2"
+  }
+ ],
+ "SPC GEN": [
+  {
+   "brand": "SPC Universe",
+   "name": "SPC GEN",
+   "device": "SPC_GEN"
+  }
+ ],
+ "SPC GEN LITE": [
+  {
+   "brand": "SPC Universe",
+   "name": "SPC GEN LITE",
+   "device": "SPC_GEN_LITE"
+  }
+ ],
+ "SPC GEN MAX": [
+  {
+   "brand": "SPC Universe",
+   "name": "SPC GEN MAX",
+   "device": "SPC_GEN_MAX"
+  }
+ ],
+ "SPC GEN PLUS": [
+  {
+   "brand": "SPC Universe",
+   "name": "SPC GEN PLUS",
+   "device": "SPC_GEN_PLUS"
+  }
+ ],
+ "SPC SMART": [
+  {
+   "brand": "SPC Universe",
+   "name": "SPC SMART",
+   "device": "SPC_SMART"
+  }
+ ],
+ "SPC SMART LITE": [
+  {
+   "brand": "SPC Universe",
+   "name": "SPC SMART LITE",
+   "device": "SPC_SMART_LITE"
+  }
+ ],
+ "SPC SMART MAX": [
+  {
+   "brand": "SPC Universe",
+   "name": "SPC SMART MAX",
+   "device": "SPC_SMART_MAX"
+  }
+ ],
+ "SPC SMART PLUS": [
+  {
+   "brand": "SPC Universe",
+   "name": "SPC SMART PLUS",
+   "device": "SPC_SMART_PLUS"
   }
  ],
  "HEAVEN 10.1": [
@@ -170029,6 +170041,13 @@
    "brand": "Sharp",
    "name": "SHARP Android TV",
    "device": "SW4H_FF"
+  }
+ ],
+ "SHARP FHD TV": [
+  {
+   "brand": "Sharp",
+   "name": "SHARP FHD TV",
+   "device": "takao"
   }
  ],
  "FS8028": [
@@ -218989,6 +219008,13 @@
    "brand": "ZTE",
    "name": "ZTE Blade A51 Lite RU",
    "device": "P963F50_A"
+  }
+ ],
+ "ZTE Blade A51RU": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A51RU",
+   "device": "P963F60"
   }
  ],
  "ZTE Blade A531": [

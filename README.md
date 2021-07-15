@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-07-14
+Last sync is 2021-07-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -15100,6 +15100,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab K10 PRC|X6C6X|Lenovo TB-X6C6X|
 |Lenovo|Lenovo Tab K11|J606F|Lenovo TB-J606F|
 |Lenovo|Lenovo Tab K11|J606N|Lenovo TB-J606N|
+|Lenovo|Lenovo Tab K8|TB-8506F|Lenovo TB-8506F|
 |Lenovo|Lenovo Tab M10 (FHD)|X605F|Lenovo TB-X605F|
 |Lenovo|Lenovo Tab M10 (FHD)|X605L|Lenovo TB-X605L|
 |Lenovo|Lenovo Tab M10 (FHD)|X605M|Lenovo TB-X605M|
@@ -19426,6 +19427,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Packard Bell|M10400|M10400|M10400|
 |Packard Bell|M10500|M10500|M10500|
 |Packard Bell|M10600|M10600|M10600|
+|Packard Bell|M10950|M10950|M10950|
 |Packard Bell|M11550|M11550|M11550|
 |Packard Bell|M7500|M7500|M7500|
 |Packard Bell|M7600-D|M7600-D|M7600-D|
@@ -21630,7 +21632,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Mobile|GRAVITY-ULTIMATE-2|GRAVITY-ULTIMATE-2|GRAVITY ULTIMATE 2|
 |SPC Mobile|GRAVITY2-4G|GRAVITY2-4G|GRAVITY2-4G|
 |SPC Mobile|GRAVITY_3G_2019_eea|GRAVITY_3G|GRAVITY 3G_2019|
-|SPC Mobile|GRAVITY_OCTACORE|GRAVITY_OCTACORE|GRAVITY_OCTACORE|
 |SPC Mobile|Gravity_Max_EEA|Gravity_Max|Gravity Max|
 |SPC Mobile|L100|L100|L100|
 |SPC Mobile|L50|SPC_L50|L50|
@@ -21658,15 +21659,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Mobile|LIGHTYEAR2-4G|LIGHTYEAR2-4G|LIGHTYEAR2-4G|
 |SPC Mobile|Lightyear|Lightyear|Lightyear|
 |SPC Mobile|S19|S19|S19|
-|SPC Mobile|SMART  2|SMART_2|SMART 2|
-|SPC Mobile|SPC GEN|SPC_GEN|SPC GEN|
-|SPC Mobile|SPC GEN LITE|SPC_GEN_LITE|SPC GEN LITE|
-|SPC Mobile|SPC GEN MAX|SPC_GEN_MAX|SPC GEN MAX|
-|SPC Mobile|SPC GEN PLUS|SPC_GEN_PLUS|SPC GEN PLUS|
-|SPC Mobile|SPC SMART|SPC_SMART|SPC SMART|
-|SPC Mobile|SPC SMART LITE|SPC_SMART_LITE|SPC SMART LITE|
-|SPC Mobile|SPC SMART MAX|SPC_SMART_MAX|SPC SMART MAX|
-|SPC Mobile|SPC SMART PLUS|SPC_SMART_PLUS|SPC SMART PLUS|
 |SPC Mobile|X1|SPC_X1|X1|
 |SPC Mobile|X3|SPC_X3|X3|
 |SPC Mobile|X5|X5|X5|
@@ -21677,11 +21669,21 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Universe|GRAVITY4G|GRAVITY4G|GRAVITY 4G|
 |SPC Universe|GRAVITY_ PRO|GRAVITY_PRO|GRAVITY PRO|
 |SPC Universe|GRAVITY_4G_2019_eea|GRAVITY_4G|GRAVITY 4G_2019|
+|SPC Universe|GRAVITY_OCTACORE|GRAVITY_OCTACORE|GRAVITY_OCTACORE|
 |SPC Universe|Gravity_2019|GRAVITY_2019|GRAVITY_2019|
 |SPC Universe|Gravity_Max|Gravity_Max|Gravity Max|
 |SPC Universe|LAIKA|LAIKA|LAIKA|
 |SPC Universe|Laika|Laika|Laika|
 |SPC Universe|Lightyear|Lightyear|Lightyear|
+|SPC Universe|SMART  2|SMART_2|SMART 2|
+|SPC Universe|SPC GEN|SPC_GEN|SPC GEN|
+|SPC Universe|SPC GEN LITE|SPC_GEN_LITE|SPC GEN LITE|
+|SPC Universe|SPC GEN MAX|SPC_GEN_MAX|SPC GEN MAX|
+|SPC Universe|SPC GEN PLUS|SPC_GEN_PLUS|SPC GEN PLUS|
+|SPC Universe|SPC SMART|SPC_SMART|SPC SMART|
+|SPC Universe|SPC SMART LITE|SPC_SMART_LITE|SPC SMART LITE|
+|SPC Universe|SPC SMART MAX|SPC_SMART_MAX|SPC SMART MAX|
+|SPC Universe|SPC SMART PLUS|SPC_SMART_PLUS|SPC SMART PLUS|
 |SPC Universe|heaven_10_1|heaven-10_1|HEAVEN 10.1|
 |SPURT|Spurt_K800|Spurt_K800|Spurt K800|
 |SSA-Digital|MID736-737|MID736-737|MID736-737|
@@ -24875,6 +24877,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|SHARP AQUOS S3|SD1|FS8015|
 |Sharp|SHARP AQUOS V1mini|SG1|FS8018|
 |Sharp|SHARP Android TV|SW4H_FF|SHARP Android TV|
+|Sharp|SHARP FHD TV|takao|SHARP FHD TV|
 |Sharp|SHARP R1S|SK3|FS8028|
 |Sharp|SHARP TBC|SI3|FS8025|
 |Sharp|Sharp|ewha|AQUOS-TVE19G|
@@ -32405,6 +32408,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A5 2020RU|P963F50|ZTE Blade A5 2020RU|
 |ZTE|ZTE Blade A51|P963F60|ZTE Blade A51|
 |ZTE|ZTE Blade A51 Lite RU|P963F50_A|ZTE Blade A51 Lite RU|
+|ZTE|ZTE Blade A51RU|P963F60|ZTE Blade A51RU|
 |ZTE|ZTE Blade A522|P817E53|ZTE Blade A522|
 |ZTE|ZTE Blade A531|P932F10|ZTE Blade A531|
 |ZTE|ZTE Blade A7 2019|P963F02|ZTE Blade A7 2019|
