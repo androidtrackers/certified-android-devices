@@ -13835,34 +13835,6 @@
    "device": "ASUS_I002D"
   }
  ],
- "ASUS_I004D": [
-  {
-   "brand": "Asus",
-   "name": "ZenFone 8 Flip",
-   "device": "ASUS_I004D"
-  }
- ],
- "ZS672KS": [
-  {
-   "brand": "Asus",
-   "name": "ZenFone 8 Flip",
-   "device": "ASUS_I004D"
-  }
- ],
- "ASUS_I006D": [
-  {
-   "brand": "Asus",
-   "name": "ZenFone 8/ ASUS 8Z",
-   "device": "ASUS_I006D"
-  }
- ],
- "ZS590KS": [
-  {
-   "brand": "Asus",
-   "name": "ZenFone 8/ ASUS 8Z",
-   "device": "ASUS_I006D"
-  }
- ],
  "ASUS_A002A": [
   {
    "brand": "Asus",
@@ -14581,6 +14553,34 @@
    "brand": "Asus",
    "name": "Zenbo Qrobot",
    "device": "ASUS_ZENBO"
+  }
+ ],
+ "ASUS_I006D": [
+  {
+   "brand": "Asus",
+   "name": "Zenfone 8 / ASUS 8Z",
+   "device": "ASUS_I006D"
+  }
+ ],
+ "ZS590KS": [
+  {
+   "brand": "Asus",
+   "name": "Zenfone 8 / ASUS 8Z",
+   "device": "ASUS_I006D"
+  }
+ ],
+ "ASUS_I004D": [
+  {
+   "brand": "Asus",
+   "name": "Zenfone 8 Flip",
+   "device": "ASUS_I004D"
+  }
+ ],
+ "ZS672KS": [
+  {
+   "brand": "Asus",
+   "name": "Zenfone 8 Flip",
+   "device": "ASUS_I004D"
   }
  ],
  "P022": [
@@ -80004,6 +80004,13 @@
    "device": "Infinix-X695C"
   }
  ],
+ "Infinix X695D": [
+  {
+   "brand": "Infinix",
+   "name": "NOTE 10 Pro",
+   "device": "Infinix-X695D"
+  }
+ ],
  "Infinix NOTE 3": [
   {
    "brand": "Infinix",
@@ -100952,6 +100959,13 @@
    "device": "Z1"
   }
  ],
+ "LAVA LZG401": [
+  {
+   "brand": "Lava",
+   "name": "Z1 Pro",
+   "device": "LZG401"
+  }
+ ],
  "Z10": [
   {
    "brand": "Lava",
@@ -105258,6 +105272,13 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab K10 PRC",
    "device": "TB-X6E6F"
+  }
+ ],
+ "Lenovo TB-X6E6N": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab K10c",
+   "device": "TB-X6E6N"
   }
  ],
  "Lenovo TB-J606F": [
@@ -169755,6 +169776,13 @@
    "device": "SH10B"
   }
  ],
+ "LP-01": [
+  {
+   "brand": "Sharp",
+   "name": "Leitz Phone1",
+   "device": "JudauL"
+  }
+ ],
  "EB-L76G-B": [
   {
    "brand": "Sharp",
@@ -189513,6 +189541,13 @@
    "brand": "Tabletop",
    "name": "Tabletop_T2",
    "device": "Tabletop_T2"
+  }
+ ],
+ "LINKTV01": [
+  {
+   "brand": "Taipeinet",
+   "name": "LINKTV01",
+   "device": "HY40A3"
   }
  ],
  "A6S": [

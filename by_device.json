@@ -15646,30 +15646,6 @@
    "model": "ZS670KS"
   }
  ],
- "ASUS_I004D": [
-  {
-   "brand": "Asus",
-   "name": "ZenFone 8 Flip",
-   "model": "ASUS_I004D"
-  },
-  {
-   "brand": "Asus",
-   "name": "ZenFone 8 Flip",
-   "model": "ZS672KS"
-  }
- ],
- "ASUS_I006D": [
-  {
-   "brand": "Asus",
-   "name": "ZenFone 8/ ASUS 8Z",
-   "model": "ASUS_I006D"
-  },
-  {
-   "brand": "Asus",
-   "name": "ZenFone 8/ ASUS 8Z",
-   "model": "ZS590KS"
-  }
- ],
  "ASUS_A002_1": [
   {
    "brand": "Asus",
@@ -16535,6 +16511,30 @@
    "brand": "Asus",
    "name": "Zenbo Qrobot",
    "model": "Zenbo"
+  }
+ ],
+ "ASUS_I006D": [
+  {
+   "brand": "Asus",
+   "name": "Zenfone 8 / ASUS 8Z",
+   "model": "ASUS_I006D"
+  },
+  {
+   "brand": "Asus",
+   "name": "Zenfone 8 / ASUS 8Z",
+   "model": "ZS590KS"
+  }
+ ],
+ "ASUS_I004D": [
+  {
+   "brand": "Asus",
+   "name": "Zenfone 8 Flip",
+   "model": "ASUS_I004D"
+  },
+  {
+   "brand": "Asus",
+   "name": "Zenfone 8 Flip",
+   "model": "ZS672KS"
   }
  ],
  "P022_1": [
@@ -78951,6 +78951,13 @@
    "model": "Infinix X695C"
   }
  ],
+ "Infinix-X695D": [
+  {
+   "brand": "Infinix",
+   "name": "NOTE 10 Pro",
+   "model": "Infinix X695D"
+  }
+ ],
  "X601": [
   {
    "brand": "Infinix",
@@ -98488,6 +98495,13 @@
    "model": "AF9020"
   }
  ],
+ "LZG401": [
+  {
+   "brand": "Lava",
+   "name": "Z1 Pro",
+   "model": "LAVA LZG401"
+  }
+ ],
  "LAVA_Z10": [
   {
    "brand": "Lava",
@@ -102688,6 +102702,13 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab K10 PRC",
    "model": "Lenovo TB-X6E6F"
+  }
+ ],
+ "TB-X6E6N": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab K10c",
+   "model": "Lenovo TB-X6E6N"
   }
  ],
  "J606F": [
@@ -164520,6 +164541,13 @@
    "model": "SH-10B"
   }
  ],
+ "JudauL": [
+  {
+   "brand": "Sharp",
+   "name": "Leitz Phone1",
+   "model": "LP-01"
+  }
+ ],
  "EB-L76G-B": [
   {
    "brand": "Sharp",
@@ -181933,6 +181961,13 @@
    "brand": "Tabletop",
    "name": "Tabletop_T2",
    "model": "Tabletop_T2"
+  }
+ ],
+ "HY40A3": [
+  {
+   "brand": "Taipeinet",
+   "name": "LINKTV01",
+   "model": "LINKTV01"
   }
  ],
  "A5C": [

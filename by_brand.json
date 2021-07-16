@@ -8989,26 +8989,6 @@
    "model": "ZS670KS"
   },
   {
-   "device": "ASUS_I004D",
-   "name": "ZenFone 8 Flip",
-   "model": "ASUS_I004D"
-  },
-  {
-   "device": "ASUS_I004D",
-   "name": "ZenFone 8 Flip",
-   "model": "ZS672KS"
-  },
-  {
-   "device": "ASUS_I006D",
-   "name": "ZenFone 8/ ASUS 8Z",
-   "model": "ASUS_I006D"
-  },
-  {
-   "device": "ASUS_I006D",
-   "name": "ZenFone 8/ ASUS 8Z",
-   "model": "ZS590KS"
-  },
-  {
    "device": "ASUS_A002_1",
    "name": "ZenFone AR",
    "model": "ASUS_A002A"
@@ -9642,6 +9622,26 @@
    "device": "ASUS_ZENBO",
    "name": "Zenbo Qrobot",
    "model": "Zenbo"
+  },
+  {
+   "device": "ASUS_I006D",
+   "name": "Zenfone 8 / ASUS 8Z",
+   "model": "ASUS_I006D"
+  },
+  {
+   "device": "ASUS_I006D",
+   "name": "Zenfone 8 / ASUS 8Z",
+   "model": "ZS590KS"
+  },
+  {
+   "device": "ASUS_I004D",
+   "name": "Zenfone 8 Flip",
+   "model": "ASUS_I004D"
+  },
+  {
+   "device": "ASUS_I004D",
+   "name": "Zenfone 8 Flip",
+   "model": "ZS672KS"
   },
   {
    "device": "ASUS_X00BD_1",
@@ -58249,6 +58249,11 @@
    "model": "Infinix X695C"
   },
   {
+   "device": "Infinix-X695D",
+   "name": "NOTE 10 Pro",
+   "model": "Infinix X695D"
+  },
+  {
    "device": "X601",
    "name": "NOTE 3",
    "model": "Infinix NOTE 3"
@@ -74308,6 +74313,11 @@
    "model": "Z1"
   },
   {
+   "device": "LZG401",
+   "name": "Z1 Pro",
+   "model": "LAVA LZG401"
+  },
+  {
    "device": "LAVA_Z10",
    "name": "Z10",
    "model": "Z10"
@@ -77506,6 +77516,11 @@
    "device": "X6C6X",
    "name": "Lenovo Tab K10 PRC",
    "model": "Lenovo TB-X6C6X"
+  },
+  {
+   "device": "TB-X6E6N",
+   "name": "Lenovo Tab K10c",
+   "model": "Lenovo TB-X6E6N"
   },
   {
    "device": "J606F",
@@ -127339,6 +127354,11 @@
    "model": "SH-10B"
   },
   {
+   "device": "JudauL",
+   "name": "Leitz Phone1",
+   "model": "LP-01"
+  },
+  {
    "device": "EB-L76G-B",
    "name": "Media Tablet",
    "model": "EB-L76G-B"
@@ -142609,6 +142629,13 @@
    "device": "Tabletop_T2",
    "name": "Tabletop_T2",
    "model": "Tabletop_T2"
+  }
+ ],
+ "Taipeinet": [
+  {
+   "device": "HY40A3",
+   "name": "LINKTV01",
+   "model": "LINKTV01"
   }
  ],
  "TaiwanMobile": [

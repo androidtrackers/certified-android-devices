@@ -19069,30 +19069,6 @@
    "model": "ZS670KS"
   }
  ],
- "ZenFone 8 Flip": [
-  {
-   "brand": "Asus",
-   "device": "ASUS_I004D",
-   "model": "ASUS_I004D"
-  },
-  {
-   "brand": "Asus",
-   "device": "ASUS_I004D",
-   "model": "ZS672KS"
-  }
- ],
- "ZenFone 8/ ASUS 8Z": [
-  {
-   "brand": "Asus",
-   "device": "ASUS_I006D",
-   "model": "ASUS_I006D"
-  },
-  {
-   "brand": "Asus",
-   "device": "ASUS_I006D",
-   "model": "ZS590KS"
-  }
- ],
  "ZenFone AR": [
   {
    "brand": "Asus",
@@ -19854,6 +19830,30 @@
    "brand": "Asus",
    "device": "ASUS_ZENBO",
    "model": "Zenbo"
+  }
+ ],
+ "Zenfone 8 / ASUS 8Z": [
+  {
+   "brand": "Asus",
+   "device": "ASUS_I006D",
+   "model": "ASUS_I006D"
+  },
+  {
+   "brand": "Asus",
+   "device": "ASUS_I006D",
+   "model": "ZS590KS"
+  }
+ ],
+ "Zenfone 8 Flip": [
+  {
+   "brand": "Asus",
+   "device": "ASUS_I004D",
+   "model": "ASUS_I004D"
+  },
+  {
+   "brand": "Asus",
+   "device": "ASUS_I004D",
+   "model": "ZS672KS"
   }
  ],
  "Zenfone Go (ASUS_X00BD)": [
@@ -82167,6 +82167,11 @@
    "brand": "Infinix",
    "device": "Infinix-X695C",
    "model": "Infinix X695C"
+  },
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X695D",
+   "model": "Infinix X695D"
   }
  ],
  "NOTE 3": [
@@ -100860,6 +100865,18 @@
    "model": "ZUK Z1"
   }
  ],
+ "Z1 Pro": [
+  {
+   "brand": "Lava",
+   "device": "LZG401",
+   "model": "LAVA LZG401"
+  },
+  {
+   "brand": "Vivo",
+   "device": "1951",
+   "model": "vivo 1951"
+  }
+ ],
  "Z10": [
   {
    "brand": "Lava",
@@ -104317,6 +104334,13 @@
    "brand": "Lenovo",
    "device": "X6C6X",
    "model": "Lenovo TB-X6C6X"
+  }
+ ],
+ "Lenovo Tab K10c": [
+  {
+   "brand": "Lenovo",
+   "device": "TB-X6E6N",
+   "model": "Lenovo TB-X6E6N"
   }
  ],
  "Lenovo Tab K11": [
@@ -162633,6 +162657,13 @@
    "model": "SH-10B"
   }
  ],
+ "Leitz Phone1": [
+  {
+   "brand": "Sharp",
+   "device": "JudauL",
+   "model": "LP-01"
+  }
+ ],
  "Media Tablet": [
   {
    "brand": "Sharp",
@@ -179677,6 +179708,13 @@
    "model": "Tabletop_T2"
   }
  ],
+ "LINKTV01": [
+  {
+   "brand": "Taipeinet",
+   "device": "HY40A3",
+   "model": "LINKTV01"
+  }
+ ],
  "A5C": [
   {
    "brand": "TaiwanMobile",
@@ -190963,13 +191001,6 @@
    "brand": "Vivo",
    "device": "PD1813",
    "model": "V1813A"
-  }
- ],
- "Z1 Pro": [
-  {
-   "brand": "Vivo",
-   "device": "1951",
-   "model": "vivo 1951"
   }
  ],
  "Z3i": [

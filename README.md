@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-07-15
+Last sync is 2021-07-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1745,10 +1745,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ZenFone 6 (ZS630KL) (WW) / 6Z (ZS630KL) (IN)|ASUS_I01WD|ZS630KL|
 |Asus|ZenFone 7 / 7 Pro (ZS670KS/ZS671KS)|ASUS_I002D|ASUS_I002D|
 |Asus|ZenFone 7 / 7 Pro (ZS670KS/ZS671KS)|ASUS_I002D|ZS670KS|
-|Asus|ZenFone 8 Flip|ASUS_I004D|ASUS_I004D|
-|Asus|ZenFone 8 Flip|ASUS_I004D|ZS672KS|
-|Asus|ZenFone 8/ ASUS 8Z|ASUS_I006D|ASUS_I006D|
-|Asus|ZenFone 8/ ASUS 8Z|ASUS_I006D|ZS590KS|
 |Asus|ZenFone AR|ASUS_A002_1|ASUS_A002A|
 |Asus|ZenFone AR (ZS571KL)|ASUS_A002|ASUS_A002|
 |Asus|ZenFone Ares (ZS572KL)|ASUS_A002_2|ASUS_A002|
@@ -1876,6 +1872,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ZenWatch 3|swift|ASUS ZenWatch 3|
 |Asus|Zenbo|ASUS_ZENBO|Zenbo|
 |Asus|Zenbo Qrobot|ASUS_ZENBO|Zenbo|
+|Asus|Zenfone 8 / ASUS 8Z|ASUS_I006D|ASUS_I006D|
+|Asus|Zenfone 8 / ASUS 8Z|ASUS_I006D|ZS590KS|
+|Asus|Zenfone 8 Flip|ASUS_I004D|ASUS_I004D|
+|Asus|Zenfone 8 Flip|ASUS_I004D|ZS672KS|
 |Asus|Zenfone Go (ASUS_X00BD)|ASUS_X00BD_1|ASUS_X00BD|
 |Asus|Zenpad 8.0 (Z380C)|P022_1|P022|
 |Asus|Zenpad 8.0 (Z380C)|P022_2|P022|
@@ -11315,6 +11315,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix ZERO8|Infinix-X687|Infinix X687|
 |Infinix|NOTE 10 Pro|Infinix-X695|Infinix X695|
 |Infinix|NOTE 10 Pro|Infinix-X695C|Infinix X695C|
+|Infinix|NOTE 10 Pro|Infinix-X695D|Infinix X695D|
 |Infinix|NOTE 3|X601|Infinix NOTE 3|
 |Infinix|NOTE 3 Pro|X601-3G|Infinix NOTE 3 Pro|
 |Infinix|NOTE 3 Pro|X601-LTE|Infinix NOTE 3 Pro|
@@ -14462,6 +14463,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|Xolo era 2|era_2|era 2|
 |Lava|Y50|AF9020|AF9020|
 |Lava|Z1|Z1|Z1|
+|Lava|Z1 Pro|LZG401|LAVA LZG401|
 |Lava|Z10|LAVA_Z10|Z10|
 |Lava|Z2|LMG01|LAVA LMG01|
 |Lava|Z25|Z25|Z25|
@@ -15098,6 +15100,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab K10 PRC|TB-X6E6F|Lenovo TB-X6E6F|
 |Lenovo|Lenovo Tab K10 PRC|X6C6F|Lenovo TB-X6C6F|
 |Lenovo|Lenovo Tab K10 PRC|X6C6X|Lenovo TB-X6C6X|
+|Lenovo|Lenovo Tab K10c|TB-X6E6N|Lenovo TB-X6E6N|
 |Lenovo|Lenovo Tab K11|J606F|Lenovo TB-J606F|
 |Lenovo|Lenovo Tab K11|J606N|Lenovo TB-J606N|
 |Lenovo|Lenovo Tab K8|TB-8506F|Lenovo TB-8506F|
@@ -24835,6 +24838,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|LC_50FOC45H|Lc_50foc45h|LC_50FOC45H|
 |Sharp|LYNX 3D SH-03C|SH03C|SH-03C|
 |Sharp|LYNX SH-10B|SH10B|SH-10B|
+|Sharp|Leitz Phone1|JudauL|LP-01|
 |Sharp|Media Tablet|EB-L76G-B|EB-L76G-B|
 |Sharp|PANTONE 5 SoftBank 107SH|SBM107SH|SBM107SH|
 |Sharp|PANTONE 6 SoftBank 200SH|SBM200SH|SBM200SH|
@@ -27825,6 +27829,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tablet_PC|T3G_07|T3G_07|T3G_07|
 |Tablet_PC|T3G_10B|T3G_10B|T3G_10B|
 |Tabletop|Tabletop_T2|Tabletop_T2|Tabletop_T2|
+|Taipeinet|LINKTV01|HY40A3|LINKTV01|
 |TaiwanMobile|A5C|A5C|A5C|
 |TaiwanMobile|A6S|A6S|A6S|
 |TaiwanMobile|Amazing A8|D78|Amazing A8|
