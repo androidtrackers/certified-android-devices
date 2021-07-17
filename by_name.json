@@ -39403,6 +39403,13 @@
    "model": "MAX 2"
   }
  ],
+ "MAX 3": [
+  {
+   "brand": "Cubot",
+   "device": "MAX_3",
+   "model": "MAX 3"
+  }
+ ],
  "NOTE 20": [
   {
    "brand": "Cubot",
@@ -141589,6 +141596,13 @@
    "model": "Space_A8"
   }
  ],
+ "Space_M10": [
+  {
+   "brand": "REDLINE",
+   "device": "Space_M10",
+   "model": "Space_M10"
+  }
+ ],
  "Space_M10Pro": [
   {
    "brand": "REDLINE",
@@ -185609,6 +185623,13 @@
    "model": "A11"
   }
  ],
+ "A11 Pro Max": [
+  {
+   "brand": "Umidigi",
+   "device": "A11_Pro_Max",
+   "model": "A11 Pro Max"
+  }
+ ],
  "A11 Pro Max EEA": [
   {
    "brand": "Umidigi",
@@ -210511,6 +210532,13 @@
    "brand": "iTree",
    "device": "S898",
    "model": "S898"
+  }
+ ],
+ "S988": [
+  {
+   "brand": "iTree",
+   "device": "S988",
+   "model": "S988"
   }
  ],
  "Me 1": [

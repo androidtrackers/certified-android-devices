@@ -23179,6 +23179,11 @@
    "model": "MAX 2"
   },
   {
+   "device": "MAX_3",
+   "name": "MAX 3",
+   "model": "MAX 3"
+  },
+  {
    "device": "NOTE_20",
    "name": "NOTE 20",
    "model": "NOTE 20"
@@ -108565,6 +108570,11 @@
    "model": "Space_A8"
   },
   {
+   "device": "Space_M10",
+   "name": "Space_M10",
+   "model": "Space_M10"
+  },
+  {
    "device": "Space_M10Pro",
    "name": "Space_M10Pro",
    "model": "Space_M10Pro"
@@ -147719,6 +147729,11 @@
   },
   {
    "device": "A11_Pro_Max",
+   "name": "A11 Pro Max",
+   "model": "A11 Pro Max"
+  },
+  {
+   "device": "A11_Pro_Max",
    "name": "A11 Pro Max EEA",
    "model": "A11 Pro Max"
   },
@@ -169700,6 +169715,11 @@
    "device": "S898",
    "name": "S898",
    "model": "S898"
+  },
+  {
+   "device": "S988",
+   "name": "S988",
+   "model": "S988"
   }
  ],
  "iVOOMi": [

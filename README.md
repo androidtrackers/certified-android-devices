@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-07-16
+Last sync is 2021-07-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4481,6 +4481,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|MANITO|CUBOT_MANITO|CUBOT_MANITO|
 |Cubot|MAX|x6069_cubot_5365u|CUBOT MAX|
 |Cubot|MAX  2|MAX_2|MAX 2|
+|Cubot|MAX 3|MAX_3|MAX 3|
 |Cubot|NOTE 20|NOTE_20|NOTE 20|
 |Cubot|NOTE 20 PRO|NOTE_20_PRO|NOTE 20 PRO|
 |Cubot|NOTE 7|NOTE_7|NOTE 7|
@@ -21131,6 +21132,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RED|HydrogenONE|HydrogenONE|H1A1000|
 |REDLINE|Space_A10|Space_A10|Space_A10|
 |REDLINE|Space_A18|Space_A8|Space_A8|
+|REDLINE|Space_M10|Space_M10|Space_M10|
 |REDLINE|Space_M10Pro|Space_M10Pro|Space_M10Pro|
 |RIO Mobile|R7MAX|R7MAX|R7MAX|
 |RIO Mobile|RW10|RW10|RW10|
@@ -28802,6 +28804,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umax|Visionbook_10Q_Pro|Visionbook_10Q_Pro|Visionbook_10Q_Pro|
 |Umidigi|A11|A11|A11|
 |Umidigi|A11 EEA|A11|A11|
+|Umidigi|A11 Pro Max|A11_Pro_Max|A11 Pro Max|
 |Umidigi|A11 Pro Max EEA|A11_Pro_Max|A11 Pro Max|
 |Umidigi|A3|A3|A3|
 |Umidigi|A3S|A3S|A3S|
@@ -33084,6 +33087,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iTab XPLUS|iTAB-A1|iTAB-A1|iTAB-A1|
 |iTab XPLUS|iTab_XPLUS_10_1|iTab_XPLUS_10_1|iTab_XPLUS_10_1|
 |iTree|S898|S898|S898|
+|iTree|S988|S988|S988|
 |iVOOMi|Me 1|Me_1|iV 505|
 |iVOOMi|Me 1+|Me_1_plus|Me 1+|
 |iVOOMi|Me 2|Me_2|Me 2|
