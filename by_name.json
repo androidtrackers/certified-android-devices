@@ -48783,6 +48783,13 @@
    "model": "S3015"
   }
  ],
+ "ENT11QF12": [
+  {
+   "brand": "Entity",
+   "device": "ENT11QF12",
+   "model": "ENT11QF12"
+  }
+ ],
  "ENT1529I20": [
   {
    "brand": "Entity",
@@ -48795,6 +48802,13 @@
    "brand": "Entity",
    "device": "ENT15QF220",
    "model": "ENT15QF220"
+  }
+ ],
+ "ENT71QF12": [
+  {
+   "brand": "Entity",
+   "device": "ENT71QF12",
+   "model": "ENT71QF12"
   }
  ],
  "ENT75QF620_EEA": [
@@ -181733,6 +181747,13 @@
    "model": "TECNO BD2p"
   }
  ],
+ "TECNO POP 5 Go": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-BD1",
+   "model": "TECNO BD1"
+  }
+ ],
  "TECNO POP X5": [
   {
    "brand": "Tecno",
@@ -198855,6 +198876,13 @@
    "brand": "ZENTALITY",
    "device": "C-705",
    "model": "C-705"
+  }
+ ],
+ "Zeta TV TATU": [
+  {
+   "brand": "ZETATV",
+   "device": "DV8545-C-KUT",
+   "model": "Zeta TV TATU"
   }
  ],
  "ABMS Android TV": [

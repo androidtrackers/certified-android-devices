@@ -44635,6 +44635,13 @@
    "model": "S3015"
   }
  ],
+ "ENT11QF12": [
+  {
+   "brand": "Entity",
+   "name": "ENT11QF12",
+   "model": "ENT11QF12"
+  }
+ ],
  "ENT1529I20": [
   {
    "brand": "Entity",
@@ -44647,6 +44654,13 @@
    "brand": "Entity",
    "name": "ENT15QF220",
    "model": "ENT15QF220"
+  }
+ ],
+ "ENT71QF12": [
+  {
+   "brand": "Entity",
+   "name": "ENT71QF12",
+   "model": "ENT71QF12"
   }
  ],
  "ENT75QF620": [
@@ -184151,6 +184165,13 @@
    "model": "TECNO BD2p"
   }
  ],
+ "TECNO-BD1": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO POP 5 Go",
+   "model": "TECNO BD1"
+  }
+ ],
  "TECNO-L6502S": [
   {
    "brand": "Tecno",
@@ -200862,6 +200883,13 @@
    "brand": "ZENTALITY",
    "name": "C-705",
    "model": "C-705"
+  }
+ ],
+ "DV8545-C-KUT": [
+  {
+   "brand": "ZETATV",
+   "name": "Zeta TV TATU",
+   "model": "Zeta TV TATU"
   }
  ],
  "ZIK_W1027": [

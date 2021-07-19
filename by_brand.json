@@ -30060,6 +30060,11 @@
  ],
  "Entity": [
   {
+   "device": "ENT11QF12",
+   "name": "ENT11QF12",
+   "model": "ENT11QF12"
+  },
+  {
    "device": "ENT1529I20",
    "name": "ENT1529I20",
    "model": "ENT1529I20"
@@ -30068,6 +30073,11 @@
    "device": "ENT15QF220",
    "name": "ENT15QF220",
    "model": "ENT15QF220"
+  },
+  {
+   "device": "ENT71QF12",
+   "name": "ENT71QF12",
+   "model": "ENT71QF12"
   },
   {
    "device": "ENT75QF620",
@@ -144380,6 +144390,11 @@
    "model": "TECNO BD2p"
   },
   {
+   "device": "TECNO-BD1",
+   "name": "TECNO POP 5 Go",
+   "model": "TECNO BD1"
+  },
+  {
    "device": "TECNO-L6502S",
    "name": "TECNO POP X5",
    "model": "TECNO L6502S"
@@ -158910,6 +158925,13 @@
    "device": "C-705",
    "name": "C-705",
    "model": "C-705"
+  }
+ ],
+ "ZETATV": [
+  {
+   "device": "DV8545-C-KUT",
+   "name": "Zeta TV TATU",
+   "model": "Zeta TV TATU"
   }
  ],
  "ZIFFLER": [
