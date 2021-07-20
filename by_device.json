@@ -29215,6 +29215,11 @@
    "model": "2K AI Smart TV"
   },
   {
+   "brand": "UNITED TV",
+   "name": "UNITED",
+   "model": "2K AI Smart TV"
+  },
+  {
    "brand": "Walton",
    "name": "32FD1",
    "model": "2K AI Smart TV"
@@ -33714,6 +33719,13 @@
    "model": "coolpad Cool 12A"
   }
  ],
+ "Coolpad_2042_U0": [
+  {
+   "brand": "Coolpad",
+   "name": "Cool 12A",
+   "model": "2042"
+  }
+ ],
  "2039": [
   {
    "brand": "Coolpad",
@@ -37831,6 +37843,13 @@
    "brand": "Dcode",
    "name": "DS-X1",
    "model": "DS-X1"
+  }
+ ],
+ "DS_BD1": [
+  {
+   "brand": "Dcode",
+   "name": "DS_BD1",
+   "model": "DS-BD1"
   }
  ],
  "AM5E3I047": [
@@ -144230,6 +144249,13 @@
    "model": "GRAVITY PRO 2"
   }
  ],
+ "GRAVITY-SE": [
+  {
+   "brand": "SPC Mobile",
+   "name": "GRAVITY-SE",
+   "model": "GRAVITY SE"
+  }
+ ],
  "GRAVITY-ULTIMATE-2": [
   {
    "brand": "SPC Mobile",
@@ -209667,6 +209693,11 @@
    "brand": "Zebra",
    "name": "MC3300x",
    "model": "MC3300x"
+  },
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies MC3300ax",
+   "model": "MC3300ax"
   },
   {
    "brand": "Zebra",

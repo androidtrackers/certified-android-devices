@@ -38079,6 +38079,11 @@
    "brand": "Coolpad",
    "device": "2042",
    "model": "coolpad Cool 12A"
+  },
+  {
+   "brand": "Coolpad",
+   "device": "Coolpad_2042_U0",
+   "model": "2042"
   }
  ],
  "Cool C1": [
@@ -41865,6 +41870,13 @@
    "brand": "Dcode",
    "device": "DS-X1",
    "model": "DS-X1"
+  }
+ ],
+ "DS_BD1": [
+  {
+   "brand": "Dcode",
+   "device": "DS_BD1",
+   "model": "DS-BD1"
   }
  ],
  "ANDY 5EI": [
@@ -144716,6 +144728,13 @@
    "model": "GRAVITY PRO 2"
   }
  ],
+ "GRAVITY-SE": [
+  {
+   "brand": "SPC Mobile",
+   "device": "GRAVITY-SE",
+   "model": "GRAVITY SE"
+  }
+ ],
  "GRAVITY-ULTIMATE-2": [
   {
    "brand": "SPC Mobile",
@@ -184820,6 +184839,11 @@
    "brand": "UNITED TV",
    "device": "gangbyeon",
    "model": "4K AI Smart TV"
+  },
+  {
+   "brand": "UNITED TV",
+   "device": "osaki",
+   "model": "2K AI Smart TV"
   }
  ],
  "UC_TK03": [
@@ -207391,6 +207415,13 @@
    "brand": "Zebra",
    "device": "MC2700",
    "model": "MC2700"
+  }
+ ],
+ "Zebra Technologies MC3300ax": [
+  {
+   "brand": "Zebra",
+   "device": "MC3300xC",
+   "model": "MC3300ax"
   }
  ],
  "Zebra Technologies MC3300xN": [

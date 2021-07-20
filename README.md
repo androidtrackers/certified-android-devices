@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-07-19
+Last sync is 2021-07-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4296,6 +4296,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Coolpad|Cool 10A|Coolpad_2041_S0|Coolpad_2041_S0|
 |Coolpad|Cool 10A|Coolpad_2041_U0|Coolpad_2041_U0|
 |Coolpad|Cool 12A|2042|coolpad Cool 12A|
+|Coolpad|Cool 12A|Coolpad_2042_U0|2042|
 |Coolpad|Cool C1|cool_c1|C106|
 |Coolpad|Cool C1|cool_c1|C106-6|
 |Coolpad|Cool C1|cool_c1|C106-7|
@@ -4826,6 +4827,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DayMark|IT119411|IT119411|IT119411|
 |Dcode|Cypher|Dcode_Cypher|DS-CR1|
 |Dcode|DS-X1|DS-X1|DS-X1|
+|Dcode|DS_BD1|DS_BD1|DS-BD1|
 |Ddm|ANDY 5EI|AM5E3I047|ANDY 5EI|
 |DeWALT|DeWalt md501|md501|md501|
 |Delephas|"Chang Co.|Ltd"|seocho|
@@ -21636,6 +21638,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Mobile|APOLO|APOLO|APOLO|
 |SPC Mobile|GRAVITY-2|GRAVITY-2|GRAVITY 2|
 |SPC Mobile|GRAVITY-PRO-2|GRAVITY-PRO-2|GRAVITY PRO 2|
+|SPC Mobile|GRAVITY-SE|GRAVITY-SE|GRAVITY SE|
 |SPC Mobile|GRAVITY-ULTIMATE-2|GRAVITY-ULTIMATE-2|GRAVITY ULTIMATE 2|
 |SPC Mobile|GRAVITY2-4G|GRAVITY2-4G|GRAVITY2-4G|
 |SPC Mobile|GRAVITY_3G_2019_eea|GRAVITY_3G|GRAVITY 3G_2019|
@@ -28674,6 +28677,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |UNIQ-CELL|ZX_001|ZX_001|ZX_001|
 |UNITED TV|LED32HS72A9|ikebukuro|AI PONT|
 |UNITED TV|UNITED|gangbyeon|4K AI Smart TV|
+|UNITED TV|UNITED|osaki|2K AI Smart TV|
 |UNNIC|UC_TK03|UC_TK03|UC_TK03|
 |UNOCP|Premier|Premier|Premier|
 |UNOWHY|QOOQ|QOOQ|QOOQ|
@@ -32568,6 +32572,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|Zebra Technologies L10|L10AW|L10AW|
 |Zebra|Zebra Technologies MC2200|MC2200|MC2200|
 |Zebra|Zebra Technologies MC2700|MC2700|MC2700|
+|Zebra|Zebra Technologies MC3300ax|MC3300xC|MC3300ax|
 |Zebra|Zebra Technologies MC3300xN|MC3300x|MC3300x|
 |Zebra|Zebra Technologies MC3300xNS|MC3300xC|MC3300x|
 |Zebra|Zebra Technologies MC9300|MC93|MC93|

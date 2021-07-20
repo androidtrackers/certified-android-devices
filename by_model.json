@@ -27621,6 +27621,11 @@
    "device": "osaki"
   },
   {
+   "brand": "UNITED TV",
+   "name": "UNITED",
+   "device": "osaki"
+  },
+  {
    "brand": "Walton",
    "name": "32FD1",
    "device": "osaki"
@@ -32020,6 +32025,13 @@
    "device": "2042"
   }
  ],
+ "2042": [
+  {
+   "brand": "Coolpad",
+   "name": "Cool 12A",
+   "device": "Coolpad_2042_U0"
+  }
+ ],
  "C106": [
   {
    "brand": "Coolpad",
@@ -35737,6 +35749,13 @@
    "brand": "Dcode",
    "name": "DS-X1",
    "device": "DS-X1"
+  }
+ ],
+ "DS-BD1": [
+  {
+   "brand": "Dcode",
+   "name": "DS_BD1",
+   "device": "DS_BD1"
   }
  ],
  "ANDY 5EI": [
@@ -147837,6 +147856,13 @@
    "device": "GRAVITY-PRO-2"
   }
  ],
+ "GRAVITY SE": [
+  {
+   "brand": "SPC Mobile",
+   "name": "GRAVITY-SE",
+   "device": "GRAVITY-SE"
+  }
+ ],
  "GRAVITY ULTIMATE 2": [
   {
    "brand": "SPC Mobile",
@@ -219979,6 +220005,13 @@
    "brand": "Zebra",
    "name": "Zebra Technologies MC2700",
    "device": "MC2700"
+  }
+ ],
+ "MC3300ax": [
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies MC3300ax",
+   "device": "MC3300xC"
   }
  ],
  "MC93": [
