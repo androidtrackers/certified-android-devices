@@ -977,6 +977,11 @@
    "model": "CreaPad_1005"
   },
   {
+   "device": "CreaPad_1005_EEA",
+   "name": "CreaPad_1005_EEA",
+   "model": "CreaPad_1005_EEA"
+  },
+  {
    "device": "CreaPad_1009",
    "name": "CreaPad_1009",
    "model": "CreaPad_1009"
@@ -110256,6 +110261,11 @@
    "model": "RD16QE"
   },
   {
+   "device": "RD50TE",
+   "name": "RD50TE",
+   "model": "RD50TE"
+  },
+  {
    "device": "RD51QE",
    "name": "RD51QE",
    "model": "RD51QE"
@@ -148581,6 +148591,11 @@
   }
  ],
  "VIKUSHA": [
+  {
+   "device": "V-E5",
+   "name": "V-E5",
+   "model": "V-E5"
+  },
   {
    "device": "VZ-30",
    "name": "VZ-30",

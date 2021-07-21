@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-07-20
+Last sync is 2021-07-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -181,6 +181,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AWOW|AWOW_CreaPad_1001|AWOW_CreaPad_1001|AWOW_CreaPad_1001|
 |AWOW|AWOW_CreaPad_1003|AWOW_CreaPad_1003_EEA|AWOW_CreaPad_1003_EEA|
 |AWOW|CreaPad_1005|CreaPad_1005|CreaPad_1005|
+|AWOW|CreaPad_1005_EEA|CreaPad_1005_EEA|CreaPad_1005_EEA|
 |AWOW|CreaPad_1009|CreaPad_1009|CreaPad_1009|
 |AWOW|CreaPad_1009_EEA|CreaPad_1009_EEA|CreaPad_1009_EEA|
 |AWOW|Funtab_801_I|Funtab_801_I|Funtab_801_I|
@@ -21460,6 +21461,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Remdun|RD15QE|RD15QE|RD15QE|
 |Remdun|RD16Q|RD16Q|RD16Q|
 |Remdun|RD16QE|RD16QE|RD16QE|
+|Remdun|RD50TE|RD50TE|RD50TE|
 |Remdun|RD51QE|RD51QE|RD51QE|
 |Remdun|RD52E|RD52E|RD52E|
 |Remdun|RD60TE|RD60TE|RD60TE|
@@ -28962,6 +28964,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VIBE Z|K910|kitonw|Lenovo K910|
 |VICTUS|VRS5_Plus|VRS5_Plus|VRS5_Plus|
 |VICTUS|VRS6_Plus|VRS6_Plus|VRS6 Plus|
+|VIKUSHA|V-E5|V-E5|V-E5|
 |VIKUSHA|VZ-30|VZ-30|VZ-30|
 |VISIO|VISIO 4K Android TV|SW4H|VISIO 4K Android TV|
 |VISIO|VISIO TV|shinagawa|VISIO TV|

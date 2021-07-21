@@ -1917,6 +1917,13 @@
    "device": "CreaPad_1005"
   }
  ],
+ "CreaPad_1005_EEA": [
+  {
+   "brand": "AWOW",
+   "name": "CreaPad_1005_EEA",
+   "device": "CreaPad_1005_EEA"
+  }
+ ],
  "CreaPad_1009": [
   {
    "brand": "AWOW",
@@ -146796,6 +146803,13 @@
    "device": "RD16QE"
   }
  ],
+ "RD50TE": [
+  {
+   "brand": "Remdun",
+   "name": "RD50TE",
+   "device": "RD50TE"
+  }
+ ],
  "RD51QE": [
   {
    "brand": "Remdun",
@@ -196668,6 +196682,13 @@
    "brand": "VICTUS",
    "name": "VRS6_Plus",
    "device": "VRS6_Plus"
+  }
+ ],
+ "V-E5": [
+  {
+   "brand": "VIKUSHA",
+   "name": "V-E5",
+   "device": "V-E5"
   }
  ],
  "VZ-30": [
