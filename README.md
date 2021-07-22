@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-07-21
+Last sync is 2021-07-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2898,6 +2898,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|SLplus02|SLplus02|SLplus02|
 |Blaupunkt|SM 05|Blaupunkt_SM_05|Blaupunkt SM 05|
 |Blaupunkt|SM_02_2019|SM_02_2019|SM 02 2019|
+|Blaupunkt|Smart TV|samseong|AI PONT|
 |Blaupunkt|Soundphone_S1|Soundphone_S1|Soundphone_S1|
 |Blaupunkt|TX01|TX01|TX01|
 |Blaupunkt|Turkey|tamachi|Blaupunkt 2K Android TV|
@@ -12015,6 +12016,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JAY-TECH|TPC-G109_EEA|TPC-G109|TPC-G109|
 |JEEMAK|M70|M70|M70|
 |JEEMAK|M70E|M70E|M70E|
+|JHZL|J101|J101|J101|
 |JIZHAO|JZP57|JZP57|JZP57|
 |JLab|PRO-7|polaris-p1gms|JLab PRO-7|
 |JP Sacouto|Flag Mill v2|MG101A2T_BT|Flag Mill v2|
@@ -15160,6 +15162,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab P11 Pro|J706F|Lenovo TB-J706F|
 |Lenovo|Lenovo Tab P11 Pro|J706L|Lenovo TB-J706L|
 |Lenovo|Lenovo Tab QT K11 Pro 5G|J607Z|Lenovo TB-J607Z|
+|Lenovo|Lenovo Tab QT K11 Pro WIFI|J607F|Lenovo TB-J607F|
 |Lenovo|Lenovo Tab V7|PB-6505M|Lenovo PB-6505M|
 |Lenovo|Lenovo Tab V7|PB-6505MC|Lenovo PB-6505MC|
 |Lenovo|Lenovo Tab V7|PB-6505NC|Lenovo PB-6505NC|
@@ -17567,6 +17570,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M10 3G|ML-JI16-M10-3G|M10-3G|
 |Multilaser|M10 4G|ML-JI0A-M10-4G|M10-4G|
 |Multilaser|M10 4G PRO|ML_JI0B_M10_4G_PRO|M10_4G_PRO|
+|Multilaser|M10 4G PRO|ML_JI0F_M10_4G_PRO|M10_4G_PRO|
 |Multilaser|M10-3G|ML-JI06-M10-3G|M10-3G|
 |Multilaser|M10-4G|ML-JI03-M10-4G|M10-4G|
 |Multilaser|M10A|M10A|M10A|
@@ -19364,6 +19368,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PAX (CN)|A50|A50|A50|
 |PAX (CN)|M30|PAXM30|M30|
 |PAX (CN)|M50|PAXM50|M50|
+|PAX (CN)|Pay Phone M50|PAYPHONEM50|M50|
+|PAX (CN)|Pay Phone M50 EEA|PAYPHONEM50|M50|
 |PC Smart|PCSGOB10LTE-V2|PCSGOB10LTE-V2|PCSGOB10LTE-V2|
 |PC Smart|PCSGOB10MVA-A|PCSGOB10MVA-A|PCSGOB10MVA-A|
 |PC Smart|PCSGOB10SF-A|PCSGOB10SF-A|PCSGOB10SF-A|
@@ -21553,6 +21559,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SAIET|STS502|STS502|STS502|
 |SAIET|STS550|STS550|STS550|
 |SAIET|STS570|STS570|STS570|
+|SAIET|STS600|STS600|STS600|
 |SAKAISIO|FP-U320-711-WIFI|U320-WF|FP-U320-711-WIFI|
 |SAKAISIO|FP-U320-711-WWAN|U320-3G|FP-U320-711-WWAN|
 |SAMPO|Android TV|R2|ATV R2|
@@ -25056,6 +25063,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|Elite C5|Elite_C5MS|Elite C5|
 |Sky Devices|Elite C55|Elite_C55|Elite C55|
 |Sky Devices|Elite D55|Elite_D55|Elite_D55|
+|Sky Devices|Elite D5Max|Elite_D5Max_US|Elite D5Max|
 |Sky Devices|Elite E55|Elite_E55|Elite E55|
 |Sky Devices|Elite E55Max|Elite_E55Max|Elite E55Max|
 |Sky Devices|Elite G55|Elite_G55|Elite_G55|
@@ -29006,6 +29014,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Valo Innovations|TAB0001NG|TAB0001NG|TAB0001NG|
 |Vankyo|MatrixPad-X36|MatrixPad-X36|MatrixPad-X36|
 |Vankyo|P10|P10|P10|
+|Vankyo|P10_EEA|P10_EEA|P10_EEA|
 |Vankyo|P31|P31|P31|
 |Vankyo|P31-E|P31-E_EEA|P31-E|
 |Vankyo|P40|P40|P40|
@@ -30621,6 +30630,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xgody|T702_EEA|T702_EEA|T702_EEA|
 |Xgody|T901Pro-A|T901Pro-A|T901Pro-A|
 |Xgody|T901Pro-EEA|T901Pro-EEA|T901Pro-E|
+|Xgody|TAB10|TAB10|TAB10|
 |Xgody|X24_EU|X24_EU|X24_EU|
 |Xgody|XGT|XGT|XGT|
 |Xgody|XGT-T901-A|XGT-T901-A|XGT-T901-A|

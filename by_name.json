@@ -27566,6 +27566,58 @@
    "model": "SM 02 2019"
   }
  ],
+ "Smart TV": [
+  {
+   "brand": "Blaupunkt",
+   "device": "samseong",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Funai Electric",
+   "device": "peach",
+   "model": "FUNAI 4K TV"
+  },
+  {
+   "brand": "HIMADE",
+   "device": "sindorim",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Kubo",
+   "device": "samseong",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Philips",
+   "device": "guui",
+   "model": "PHILIPS 4k TV"
+  },
+  {
+   "brand": "Philips",
+   "device": "hino",
+   "model": "PHILIPS TV"
+  },
+  {
+   "brand": "Philips",
+   "device": "sindap",
+   "model": "PHILIPS 4K TV"
+  },
+  {
+   "brand": "Redmi",
+   "device": "tarzan",
+   "model": "MiTV-MOOQ3"
+  },
+  {
+   "brand": "Swosh",
+   "device": "samseong",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "TCL",
+   "device": "BeyondTV4",
+   "model": "Smart TV"
+  }
+ ],
  "Soundphone_S1": [
   {
    "brand": "Blaupunkt",
@@ -53930,53 +53982,6 @@
    "brand": "Funai Electric",
    "device": "daitou",
    "model": "POE-SMB400-FN1"
-  }
- ],
- "Smart TV": [
-  {
-   "brand": "Funai Electric",
-   "device": "peach",
-   "model": "FUNAI 4K TV"
-  },
-  {
-   "brand": "HIMADE",
-   "device": "sindorim",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Kubo",
-   "device": "samseong",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Philips",
-   "device": "guui",
-   "model": "PHILIPS 4k TV"
-  },
-  {
-   "brand": "Philips",
-   "device": "hino",
-   "model": "PHILIPS TV"
-  },
-  {
-   "brand": "Philips",
-   "device": "sindap",
-   "model": "PHILIPS 4K TV"
-  },
-  {
-   "brand": "Redmi",
-   "device": "tarzan",
-   "model": "MiTV-MOOQ3"
-  },
-  {
-   "brand": "Swosh",
-   "device": "samseong",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "TCL",
-   "device": "BeyondTV4",
-   "model": "Smart TV"
   }
  ],
  "F104Bv2": [
@@ -86606,6 +86611,13 @@
    "model": "M70E"
   }
  ],
+ "J101": [
+  {
+   "brand": "JHZL",
+   "device": "J101",
+   "model": "J101"
+  }
+ ],
  "JZP57": [
   {
    "brand": "JIZHAO",
@@ -104692,6 +104704,13 @@
    "model": "Lenovo TB-J607Z"
   }
  ],
+ "Lenovo Tab QT K11 Pro WIFI": [
+  {
+   "brand": "Lenovo",
+   "device": "J607F",
+   "model": "Lenovo TB-J607F"
+  }
+ ],
  "Lenovo Tab V7": [
   {
    "brand": "Lenovo",
@@ -119214,6 +119233,11 @@
    "brand": "Multilaser",
    "device": "ML_JI0B_M10_4G_PRO",
    "model": "M10_4G_PRO"
+  },
+  {
+   "brand": "Multilaser",
+   "device": "ML_JI0F_M10_4G_PRO",
+   "model": "M10_4G_PRO"
   }
  ],
  "M10-3G": [
@@ -130223,6 +130247,20 @@
    "brand": "PARTNER MOBILE",
    "device": "EV1_PRO",
    "model": "EV1 PRO"
+  }
+ ],
+ "Pay Phone M50": [
+  {
+   "brand": "PAX (CN)",
+   "device": "PAYPHONEM50",
+   "model": "M50"
+  }
+ ],
+ "Pay Phone M50 EEA": [
+  {
+   "brand": "PAX (CN)",
+   "device": "PAYPHONEM50",
+   "model": "M50"
   }
  ],
  "PCSGOB10LTE-V2": [
@@ -144230,6 +144268,13 @@
    "brand": "SAIET",
    "device": "STS570",
    "model": "STS570"
+  }
+ ],
+ "STS600": [
+  {
+   "brand": "SAIET",
+   "device": "STS600",
+   "model": "STS600"
   }
  ],
  "FP-U320-711-WIFI": [
@@ -164038,6 +164083,13 @@
    "brand": "Sky Devices",
    "device": "Elite_D55",
    "model": "Elite_D55"
+  }
+ ],
+ "Elite D5Max": [
+  {
+   "brand": "Sky Devices",
+   "device": "Elite_D5Max_US",
+   "model": "Elite D5Max"
   }
  ],
  "Elite E55": [
@@ -186819,6 +186871,13 @@
    "model": "MatrixPad-X36"
   }
  ],
+ "P10_EEA": [
+  {
+   "brand": "Vankyo",
+   "device": "P10_EEA",
+   "model": "P10_EEA"
+  }
+ ],
  "P31-E": [
   {
    "brand": "Vankyo",
@@ -196785,6 +196844,13 @@
    "brand": "Xgody",
    "device": "T901Pro-EEA",
    "model": "T901Pro-E"
+  }
+ ],
+ "TAB10": [
+  {
+   "brand": "Xgody",
+   "device": "TAB10",
+   "model": "TAB10"
   }
  ],
  "X24_EU": [

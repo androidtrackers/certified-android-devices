@@ -14920,6 +14920,11 @@
    "model": "SM 02 2019"
   },
   {
+   "device": "samseong",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
    "device": "Soundphone_S1",
    "name": "Soundphone_S1",
    "model": "Soundphone_S1"
@@ -61809,6 +61814,13 @@
    "model": "M70E"
   }
  ],
+ "JHZL": [
+  {
+   "device": "J101",
+   "name": "J101",
+   "model": "J101"
+  }
+ ],
  "JIZHAO": [
   {
    "device": "JZP57",
@@ -77818,6 +77830,11 @@
    "model": "Lenovo TB-J607Z"
   },
   {
+   "device": "J607F",
+   "name": "Lenovo Tab QT K11 Pro WIFI",
+   "model": "Lenovo TB-J607F"
+  },
+  {
    "device": "PB-6505M",
    "name": "Lenovo Tab V7",
    "model": "Lenovo PB-6505M"
@@ -90215,6 +90232,11 @@
    "model": "M10_4G_PRO"
   },
   {
+   "device": "ML_JI0F_M10_4G_PRO",
+   "name": "M10 4G PRO",
+   "model": "M10_4G_PRO"
+  },
+  {
    "device": "ML-JI06-M10-3G",
    "name": "M10-3G",
    "model": "M10-3G"
@@ -99501,6 +99523,16 @@
   {
    "device": "PAXM50",
    "name": "M50",
+   "model": "M50"
+  },
+  {
+   "device": "PAYPHONEM50",
+   "name": "Pay Phone M50",
+   "model": "M50"
+  },
+  {
+   "device": "PAYPHONEM50",
+   "name": "Pay Phone M50 EEA",
    "model": "M50"
   }
  ],
@@ -110765,6 +110797,11 @@
    "device": "STS570",
    "name": "STS570",
    "model": "STS570"
+  },
+  {
+   "device": "STS600",
+   "name": "STS600",
+   "model": "STS600"
   }
  ],
  "SAKAISIO": [
@@ -128480,6 +128517,11 @@
    "device": "Elite_D55",
    "name": "Elite D55",
    "model": "Elite_D55"
+  },
+  {
+   "device": "Elite_D5Max_US",
+   "name": "Elite D5Max",
+   "model": "Elite D5Max"
   },
   {
    "device": "Elite_E55",
@@ -148828,6 +148870,11 @@
    "model": "P10"
   },
   {
+   "device": "P10_EEA",
+   "name": "P10_EEA",
+   "model": "P10_EEA"
+  },
+  {
    "device": "P31",
    "name": "P31",
    "model": "P31"
@@ -157145,6 +157192,11 @@
    "device": "T901Pro-EEA",
    "name": "T901Pro-EEA",
    "model": "T901Pro-E"
+  },
+  {
+   "device": "TAB10",
+   "name": "TAB10",
+   "model": "TAB10"
   },
   {
    "device": "X24_EU",

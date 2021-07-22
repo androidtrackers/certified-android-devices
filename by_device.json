@@ -1300,6 +1300,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "Blaupunkt",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
    "brand": "Bravis",
    "name": "H7000",
    "model": "AI PONT"
@@ -83456,6 +83461,13 @@
    "model": "M70E"
   }
  ],
+ "J101": [
+  {
+   "brand": "JHZL",
+   "name": "J101",
+   "model": "J101"
+  }
+ ],
  "JZP57": [
   {
    "brand": "JIZHAO",
@@ -103122,6 +103134,18 @@
    "model": "Lenovo TB-J706L"
   }
  ],
+ "J607F": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab QT K11 Pro WIFI",
+   "model": "Lenovo TB-J607F"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "XiaoXin Pad Plus",
+   "model": "Lenovo TB-J607F"
+  }
+ ],
  "PB-6505M": [
   {
    "brand": "Lenovo",
@@ -104147,13 +104171,6 @@
    "brand": "Lenovo",
    "name": "X3c70",
    "model": "Lenovo X3c70"
-  }
- ],
- "J607F": [
-  {
-   "brand": "Lenovo",
-   "name": "XiaoXin Pad Plus",
-   "model": "Lenovo TB-J607F"
   }
  ],
  "J706N": [
@@ -118606,6 +118623,13 @@
    "model": "M10_4G_PRO"
   }
  ],
+ "ML_JI0F_M10_4G_PRO": [
+  {
+   "brand": "Multilaser",
+   "name": "M10 4G PRO",
+   "model": "M10_4G_PRO"
+  }
+ ],
  "ML-JI06-M10-3G": [
   {
    "brand": "Multilaser",
@@ -130066,6 +130090,18 @@
   {
    "brand": "PAX (CN)",
    "name": "M50",
+   "model": "M50"
+  }
+ ],
+ "PAYPHONEM50": [
+  {
+   "brand": "PAX (CN)",
+   "name": "Pay Phone M50",
+   "model": "M50"
+  },
+  {
+   "brand": "PAX (CN)",
+   "name": "Pay Phone M50 EEA",
    "model": "M50"
   }
  ],
@@ -143797,6 +143833,13 @@
    "brand": "SAIET",
    "name": "STS570",
    "model": "STS570"
+  }
+ ],
+ "STS600": [
+  {
+   "brand": "SAIET",
+   "name": "STS600",
+   "model": "STS600"
   }
  ],
  "U320-3G": [
@@ -165916,6 +165959,13 @@
    "brand": "Sky Devices",
    "name": "Elite D55",
    "model": "Elite_D55"
+  }
+ ],
+ "Elite_D5Max_US": [
+  {
+   "brand": "Sky Devices",
+   "name": "Elite D5Max",
+   "model": "Elite D5Max"
   }
  ],
  "Elite_E55": [
@@ -189057,6 +189107,13 @@
    "model": "MatrixPad-X36"
   }
  ],
+ "P10_EEA": [
+  {
+   "brand": "Vankyo",
+   "name": "P10_EEA",
+   "model": "P10_EEA"
+  }
+ ],
  "P31-E_EEA": [
   {
    "brand": "Vankyo",
@@ -198983,6 +199040,13 @@
    "brand": "Xgody",
    "name": "T901Pro-EEA",
    "model": "T901Pro-E"
+  }
+ ],
+ "TAB10": [
+  {
+   "brand": "Xgody",
+   "name": "TAB10",
+   "model": "TAB10"
   }
  ],
  "X24_EU": [

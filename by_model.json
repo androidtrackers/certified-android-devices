@@ -931,6 +931,11 @@
    "device": "ikebukuro"
   },
   {
+   "brand": "Blaupunkt",
+   "name": "Smart TV",
+   "device": "samseong"
+  },
+  {
    "brand": "Bravis",
    "name": "G7H",
    "device": "ikebukuro"
@@ -1571,6 +1576,16 @@
    "brand": "PAX (CN)",
    "name": "M50",
    "device": "PAXM50"
+  },
+  {
+   "brand": "PAX (CN)",
+   "name": "Pay Phone M50",
+   "device": "PAYPHONEM50"
+  },
+  {
+   "brand": "PAX (CN)",
+   "name": "Pay Phone M50 EEA",
+   "device": "PAYPHONEM50"
   },
   {
    "brand": "ZOLON",
@@ -53117,6 +53132,11 @@
    "brand": "HAOVM",
    "name": "HP10_EEA",
    "device": "HP10_EEA"
+  },
+  {
+   "brand": "Vankyo",
+   "name": "P10_EEA",
+   "device": "P10_EEA"
   }
  ],
  "P20": [
@@ -84593,6 +84613,13 @@
    "device": "M70E"
   }
  ],
+ "J101": [
+  {
+   "brand": "JHZL",
+   "name": "J101",
+   "device": "J101"
+  }
+ ],
  "JZP57": [
   {
    "brand": "JIZHAO",
@@ -105692,6 +105719,18 @@
    "device": "J706L"
   }
  ],
+ "Lenovo TB-J607F": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab QT K11 Pro WIFI",
+   "device": "J607F"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "XiaoXin Pad Plus",
+   "device": "J607F"
+  }
+ ],
  "Lenovo PB-6505M": [
   {
    "brand": "Lenovo",
@@ -106725,13 +106764,6 @@
    "brand": "Lenovo",
    "name": "X3c70",
    "device": "X3c70"
-  }
- ],
- "Lenovo TB-J607F": [
-  {
-   "brand": "Lenovo",
-   "name": "XiaoXin Pad Plus",
-   "device": "J607F"
   }
  ],
  "Lenovo TB-J706N": [
@@ -121412,6 +121444,11 @@
    "brand": "Multilaser",
    "name": "M10 4G PRO",
    "device": "ML_JI0B_M10_4G_PRO"
+  },
+  {
+   "brand": "Multilaser",
+   "name": "M10 4G PRO",
+   "device": "ML_JI0F_M10_4G_PRO"
   },
   {
    "brand": "Multilaser",
@@ -147342,6 +147379,13 @@
    "device": "STS570"
   }
  ],
+ "STS600": [
+  {
+   "brand": "SAIET",
+   "name": "STS600",
+   "device": "STS600"
+  }
+ ],
  "FP-U320-711-WIFI": [
   {
    "brand": "SAKAISIO",
@@ -171175,6 +171219,13 @@
    "brand": "Sky Devices",
    "name": "Elite D55",
    "device": "Elite_D55"
+  }
+ ],
+ "Elite D5Max": [
+  {
+   "brand": "Sky Devices",
+   "name": "Elite D5Max",
+   "device": "Elite_D5Max_US"
   }
  ],
  "Elite E55": [
@@ -207192,6 +207243,13 @@
    "brand": "Xgody",
    "name": "T901Pro-EEA",
    "device": "T901Pro-EEA"
+  }
+ ],
+ "TAB10": [
+  {
+   "brand": "Xgody",
+   "name": "TAB10",
+   "device": "TAB10"
   }
  ],
  "X24_EU": [
