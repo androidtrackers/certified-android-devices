@@ -18308,6 +18308,11 @@
   {
    "brand": "Asus",
    "device": "ASUS_I001_1",
+   "model": "ASUS_I001DC"
+  },
+  {
+   "brand": "Asus",
+   "device": "ASUS_I001_1",
    "model": "ASUS_I001DE"
   },
   {
@@ -99350,6 +99355,13 @@
    "model": "Alpha 9V"
   }
  ],
+ "Alpha_3V": [
+  {
+   "brand": "Lanix",
+   "device": "Alpha_3V",
+   "model": "Alpha 3V"
+  }
+ ],
  "Alpha_950": [
   {
    "brand": "Lanix",
@@ -99622,6 +99634,13 @@
    "brand": "Lanix",
    "device": "Ilium_M7T",
    "model": "Ilium M7T"
+  }
+ ],
+ "Ilium M7V": [
+  {
+   "brand": "Lanix",
+   "device": "Ilium_M7V",
+   "model": "Ilium M7V"
   }
  ],
  "Ilium M9": [
@@ -119446,6 +119465,13 @@
    "brand": "Multilaser",
    "device": "ML_WI3A_M7_3G_A10",
    "model": "M7_3G_A10"
+  }
+ ],
+ "M7_WIFI": [
+  {
+   "brand": "Multilaser",
+   "device": "ML_JI0D_M7_WIFI",
+   "model": "M7_WIFI"
   }
  ],
  "M7s Dual Core": [
@@ -141784,6 +141810,13 @@
    "brand": "Rakuten",
    "device": "C330",
    "model": "C330"
+  }
+ ],
+ "Rakuten BIG s": [
+  {
+   "brand": "Rakuten",
+   "device": "gaea",
+   "model": "3917JR"
   }
  ],
  "Rakuten Hand": [
@@ -187415,6 +187448,11 @@
   },
   {
    "brand": "Verizon",
+   "device": "f354",
+   "model": "Stream TV"
+  },
+  {
+   "brand": "Verizon",
    "device": "sti6220d315",
    "model": "Stream TV"
   }
@@ -207276,6 +207314,13 @@
    "brand": "Zebra",
    "device": "MC18",
    "model": "MC18N0"
+  }
+ ],
+ "MC20": [
+  {
+   "brand": "Zebra",
+   "device": "MC2200",
+   "model": "MC20"
   }
  ],
  "MC3300x": [

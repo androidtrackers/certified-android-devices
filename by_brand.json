@@ -8361,6 +8361,11 @@
   {
    "device": "ASUS_I001_1",
    "name": "ROG Phone ll",
+   "model": "ASUS_I001DC"
+  },
+  {
+   "device": "ASUS_I001_1",
+   "name": "ROG Phone ll",
    "model": "ASUS_I001DE"
   },
   {
@@ -73214,6 +73219,11 @@
    "model": "Alpha 9V"
   },
   {
+   "device": "Alpha_3V",
+   "name": "Alpha_3V",
+   "model": "Alpha 3V"
+  },
+  {
    "device": "Alpha_950",
    "name": "Alpha_950",
    "model": "Alpha 950"
@@ -73412,6 +73422,11 @@
    "device": "Ilium_M7T",
    "name": "Ilium M7T",
    "model": "Ilium M7T"
+  },
+  {
+   "device": "Ilium_M7V",
+   "name": "Ilium M7V",
+   "model": "Ilium M7V"
   },
   {
    "device": "Ilium_M9",
@@ -90410,6 +90425,11 @@
    "device": "ML_WI3A_M7_3G_A10",
    "name": "M7_3G_A10",
    "model": "M7_3G_A10"
+  },
+  {
+   "device": "ML_JI0D_M7_WIFI",
+   "name": "M7_WIFI",
+   "model": "M7_WIFI"
   },
   {
    "device": "NB116_NB117_NB118",
@@ -108729,6 +108749,11 @@
    "device": "C330",
    "name": "C330",
    "model": "C330"
+  },
+  {
+   "device": "gaea",
+   "name": "Rakuten BIG s",
+   "model": "3917JR"
   },
   {
    "device": "P710",
@@ -149399,6 +149424,11 @@
    "model": "Stream TV"
   },
   {
+   "device": "f354",
+   "name": "Stream TV",
+   "model": "Stream TV"
+  },
+  {
    "device": "sti6220d315",
    "name": "Stream TV",
    "model": "Stream TV"
@@ -166884,6 +166914,11 @@
    "device": "MC18",
    "name": "MC18",
    "model": "MC18N0"
+  },
+  {
+   "device": "MC2200",
+   "name": "MC20",
+   "model": "MC20"
   },
   {
    "device": "MC3300x",

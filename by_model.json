@@ -13037,6 +13037,13 @@
    "device": "ASUS_I001_1"
   }
  ],
+ "ASUS_I001DC": [
+  {
+   "brand": "Asus",
+   "name": "ROG Phone ll",
+   "device": "ASUS_I001_1"
+  }
+ ],
  "ASUS_I001DE": [
   {
    "brand": "Asus",
@@ -99434,6 +99441,13 @@
    "device": "Alpha_9V"
   }
  ],
+ "Alpha 3V": [
+  {
+   "brand": "Lanix",
+   "name": "Alpha_3V",
+   "device": "Alpha_3V"
+  }
+ ],
  "Alpha 950": [
   {
    "brand": "Lanix",
@@ -99717,6 +99731,13 @@
    "brand": "Lanix",
    "name": "Ilium M7T",
    "device": "Ilium_M7T"
+  }
+ ],
+ "Ilium M7V": [
+  {
+   "brand": "Lanix",
+   "name": "Ilium M7V",
+   "device": "Ilium_M7V"
   }
  ],
  "Ilium M9": [
@@ -121660,6 +121681,13 @@
    "brand": "Multilaser",
    "name": "M7S_PLUS",
    "device": "ML-SO07-M7S-PLUS"
+  }
+ ],
+ "M7_WIFI": [
+  {
+   "brand": "Multilaser",
+   "name": "M7_WIFI",
+   "device": "ML_JI0D_M7_WIFI"
   }
  ],
  "M7s Dual ML03": [
@@ -144798,6 +144826,13 @@
    "brand": "Rakuten",
    "name": "C330",
    "device": "C330"
+  }
+ ],
+ "3917JR": [
+  {
+   "brand": "Rakuten",
+   "name": "Rakuten BIG s",
+   "device": "gaea"
   }
  ],
  "CELL": [
@@ -197508,6 +197543,11 @@
   {
    "brand": "Verizon",
    "name": "Stream TV",
+   "device": "f354"
+  },
+  {
+   "brand": "Verizon",
+   "name": "Stream TV",
    "device": "sti6220d315"
   }
  ],
@@ -219850,6 +219890,13 @@
    "brand": "Zebra",
    "name": "MC18",
    "device": "MC18"
+  }
+ ],
+ "MC20": [
+  {
+   "brand": "Zebra",
+   "name": "MC20",
+   "device": "MC2200"
   }
  ],
  "MC3300x": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-07-22
+Last sync is 2021-07-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1619,6 +1619,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ROG Phone 5|ASUS_I005_1|ZS673KS|
 |Asus|ROG Phone 5|ASUS_I005_1|ZS676KS|
 |Asus|ROG Phone ll|ASUS_I001_1|ASUS_I001D|
+|Asus|ROG Phone ll|ASUS_I001_1|ASUS_I001DC|
 |Asus|ROG Phone ll|ASUS_I001_1|ASUS_I001DE|
 |Asus|ROG Phone ll|ASUS_I001_1|ZS660KL|
 |Asus|RTC-700A|RTC-tablet|RTC-tablet|
@@ -14244,6 +14245,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Landbyte|LT5030|LT5030|LT5030|
 |Landbyte|Lt6248|Lt6248|Lt6248|
 |Lanix|Alpha 9V|Alpha_9V|Alpha 9V|
+|Lanix|Alpha_3V|Alpha_3V|Alpha 3V|
 |Lanix|Alpha_950|Alpha_950|Alpha 950|
 |Lanix|Alpha_950XL|Alpha_950XL|Alpha 950XL|
 |Lanix|ILIUM L1000|Ilium_L1000|ILIUM L1000|
@@ -14284,6 +14286,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lanix|Ilium M5s|Ilium_M5s|Ilium M5s|
 |Lanix|Ilium M7|Ilium_M7|Ilium M7|
 |Lanix|Ilium M7T|Ilium_M7T|Ilium M7T|
+|Lanix|Ilium M7V|Ilium_M7V|Ilium M7V|
 |Lanix|Ilium M9|Ilium_M9|Ilium M9|
 |Lanix|Ilium M9s|Ilium_M9s|Ilium M9s|
 |Lanix|Ilium PAD i7|ILIUM_PADi7|Ilium PAD i7|
@@ -17606,6 +17609,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M7_3G_A10|ML_WI1A_M7_3G_A10|M7_3G_A10|
 |Multilaser|M7_3G_A10|ML_WI2A_M7_3G_A10|M7_3G_A10|
 |Multilaser|M7_3G_A10|ML_WI3A_M7_3G_A10|M7_3G_A10|
+|Multilaser|M7_WIFI|ML_JI0D_M7_WIFI|M7_WIFI|
 |Multilaser|M7s Dual Core|NB116_NB117_NB118|M7s Dual ML03|
 |Multilaser|M7s Quad Core|astar-ococci|ML01-M7S-Quad-Core|
 |Multilaser|M7sLite|ML-SO06-M7sLite|M7sLite|
@@ -21161,6 +21165,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Radger|IMP-F01K|IMP-F01K|IMP-F01K|
 |Rainbow|WIKO|s5501|RAINBOW|
 |Rakuten|C330|C330|C330|
+|Rakuten|Rakuten BIG s|gaea|3917JR|
 |Rakuten|Rakuten Hand|P710|P710|
 |Ratel|Cell|Cell|CELL|
 |Rayan|AM_TAB_7_03|AMAA703|AMA_A703|
@@ -29115,6 +29120,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VerD|E1|E1|E1|
 |VerD|E2|E2|E2|
 |Verizon|Stream TV|JS8V|Stream TV|
+|Verizon|Stream TV|f354|Stream TV|
 |Verizon|Stream TV|sti6220d315|Stream TV|
 |Verizon Wireless|5059S|U50PLUS|5059S|
 |Verizon Wireless|Ellipsis 10|QTAIR7|QTAIR7|
@@ -32550,6 +32556,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|ET5X|ET55E|ET5X|
 |Zebra|ET5X|ET55T|ET5X|
 |Zebra|MC18|MC18|MC18N0|
+|Zebra|MC20|MC2200|MC20|
 |Zebra|MC3300x|MC3300x|MC3300x|
 |Zebra|MC3300x|MC3300xC|MC3300x|
 |Zebra|MC330K|MC33|MC33|
