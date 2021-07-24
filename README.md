@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-07-23
+Last sync is 2021-07-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -18673,6 +18673,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Nord N100|OnePlusN100TMO|BE2013|
 |OnePlus|OnePlus Nord N200 5G|OnePlusN200|DE2117|
 |OnePlus|OnePlus Nord N200 5G|OnePlusN200TMO|DE2118|
+|OnePlus|OnePlus Nord2 5G|OP515BL1|DN2101|
+|OnePlus|OnePlus Nord2 5G|OP515BL1|DN2103|
 |OnePlus|OnePlus2|OnePlus2|ONE A2003|
 |OnePlus|OnePlus3|OnePlus3|ONEPLUS A3000|
 |OnePlus|OnePlus3T|OnePlus3T|ONEPLUS A3000|
@@ -20718,6 +20720,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prixton|T9120_EEA|T9120|T9120|
 |Prodigi Connect12|Prodigi Connect 12|connect|Prodigi Connect 12|
 |Professional Mobile|Pro V5|Pro_V5|Pro V5|
+|Profilo|Turkey|tamachi|Profilo 2K Android TV|
+|Profilo|Turkey|yeongdeungpo|Profilo 4K Android TV|
 |Proline|H10885M|H10885M|H10885M|
 |Proline|H10888M|H10888M|H10888M|
 |Proline|H7835M|H7835M|H7835M|

@@ -95999,6 +95999,16 @@
    "model": "DE2118"
   },
   {
+   "device": "OP515BL1",
+   "name": "OnePlus Nord2 5G",
+   "model": "DN2101"
+  },
+  {
+   "device": "OP515BL1",
+   "name": "OnePlus Nord2 5G",
+   "model": "DN2103"
+  },
+  {
    "device": "OnePlus2",
    "name": "OnePlus2",
    "model": "ONE A2003"
@@ -106432,6 +106442,18 @@
    "device": "Pro_V5",
    "name": "Pro V5",
    "model": "Pro V5"
+  }
+ ],
+ "Profilo": [
+  {
+   "device": "tamachi",
+   "name": "Turkey",
+   "model": "Profilo 2K Android TV"
+  },
+  {
+   "device": "yeongdeungpo",
+   "name": "Turkey",
+   "model": "Profilo 4K Android TV"
   }
  ],
  "Proline": [

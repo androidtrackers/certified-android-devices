@@ -867,6 +867,11 @@
    "model": "ORCA FHD Android TV"
   },
   {
+   "brand": "Profilo",
+   "name": "Turkey",
+   "model": "Profilo 2K Android TV"
+  },
+  {
    "brand": "QBell",
    "name": "Italy",
    "model": "Qbell FHD Android TV"
@@ -1102,6 +1107,11 @@
    "brand": "Prestigio",
    "name": "Russia",
    "model": "Prestigio UHD Android TV"
+  },
+  {
+   "brand": "Profilo",
+   "name": "Turkey",
+   "model": "Profilo 4K Android TV"
   },
   {
    "brand": "QBell",
@@ -125641,6 +125651,18 @@
    "brand": "OnePlus",
    "name": "OnePlus Nord N200 5G",
    "model": "DE2118"
+  }
+ ],
+ "OP515BL1": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord2 5G",
+   "model": "DN2101"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord2 5G",
+   "model": "DN2103"
   }
  ],
  "OnePlus3T": [

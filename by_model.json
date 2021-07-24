@@ -128528,6 +128528,20 @@
    "device": "OnePlusN200TMO"
   }
  ],
+ "DN2101": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord2 5G",
+   "device": "OP515BL1"
+  }
+ ],
+ "DN2103": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord2 5G",
+   "device": "OP515BL1"
+  }
+ ],
  "ONEPLUS A5000": [
   {
    "brand": "OnePlus",
@@ -141941,6 +141955,20 @@
    "brand": "Professional Mobile",
    "name": "Pro V5",
    "device": "Pro_V5"
+  }
+ ],
+ "Profilo 2K Android TV": [
+  {
+   "brand": "Profilo",
+   "name": "Turkey",
+   "device": "tamachi"
+  }
+ ],
+ "Profilo 4K Android TV": [
+  {
+   "brand": "Profilo",
+   "name": "Turkey",
+   "device": "yeongdeungpo"
   }
  ],
  "H10885M": [

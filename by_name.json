@@ -27652,6 +27652,16 @@
    "brand": "Hometech",
    "device": "ALFA_7MRC",
    "model": "ALFA_7MRC"
+  },
+  {
+   "brand": "Profilo",
+   "device": "tamachi",
+   "model": "Profilo 2K Android TV"
+  },
+  {
+   "brand": "Profilo",
+   "device": "yeongdeungpo",
+   "model": "Profilo 4K Android TV"
   }
  ],
  "A-200": [
@@ -126041,6 +126051,18 @@
    "brand": "OnePlus",
    "device": "OnePlusN200TMO",
    "model": "DE2118"
+  }
+ ],
+ "OnePlus Nord2 5G": [
+  {
+   "brand": "OnePlus",
+   "device": "OP515BL1",
+   "model": "DN2101"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OP515BL1",
+   "model": "DN2103"
   }
  ],
  "OnePlus2": [
