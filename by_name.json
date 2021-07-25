@@ -124312,6 +124312,13 @@
    "model": "Nokia 9"
   }
  ],
+ "Nokia C01 Plus": [
+  {
+   "brand": "Nokia",
+   "device": "IRS",
+   "model": "Nokia C01 Plus"
+  }
+ ],
  "Nokia C1": [
   {
    "brand": "Nokia",
@@ -124324,6 +124331,13 @@
    "brand": "Nokia",
    "device": "YDU",
    "model": "Nokia C1 Plus"
+  }
+ ],
+ "Nokia C10": [
+  {
+   "brand": "Nokia",
+   "device": "MNT",
+   "model": "Nokia C10"
   }
  ],
  "Nokia C2": [
@@ -124343,6 +124357,13 @@
    "brand": "Nokia",
    "device": "ARV_CUS",
    "model": "Nokia C2 Tennen"
+  }
+ ],
+ "Nokia C20": [
+  {
+   "brand": "Nokia",
+   "device": "COS",
+   "model": "Nokia C20"
   }
  ],
  "Nokia C3": [

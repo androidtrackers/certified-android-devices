@@ -94399,6 +94399,11 @@
    "model": "Nokia 9"
   },
   {
+   "device": "IRS",
+   "name": "Nokia C01 Plus",
+   "model": "Nokia C01 Plus"
+  },
+  {
    "device": "RKU",
    "name": "Nokia C1",
    "model": "Nokia C1"
@@ -94407,6 +94412,11 @@
    "device": "YDU",
    "name": "Nokia C1 Plus",
    "model": "Nokia C1 Plus"
+  },
+  {
+   "device": "MNT",
+   "name": "Nokia C10",
+   "model": "Nokia C10"
   },
   {
    "device": "NBL",
@@ -94422,6 +94432,11 @@
    "device": "ARV_CUS",
    "name": "Nokia C2 Tennen",
    "model": "Nokia C2 Tennen"
+  },
+  {
+   "device": "COS",
+   "name": "Nokia C20",
+   "model": "Nokia C20"
   },
   {
    "device": "GMR",

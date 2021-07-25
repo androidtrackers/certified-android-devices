@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-07-24
+Last sync is 2021-07-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -18373,11 +18373,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia 8.3 5G|BGT_sprout|Nokia 8.3 5G|
 |Nokia|Nokia 9|AOP|Nokia 9|
 |Nokia|Nokia 9|AOP_sprout|Nokia 9|
+|Nokia|Nokia C01 Plus|IRS|Nokia C01 Plus|
 |Nokia|Nokia C1|RKU|Nokia C1|
 |Nokia|Nokia C1 Plus|YDU|Nokia C1 Plus|
+|Nokia|Nokia C10|MNT|Nokia C10|
 |Nokia|Nokia C2|NBL|Nebula|
 |Nokia|Nokia C2|NBL|Nokia C2|
 |Nokia|Nokia C2 Tennen|ARV_CUS|Nokia C2 Tennen|
+|Nokia|Nokia C20|COS|Nokia C20|
 |Nokia|Nokia C3|GMR|Nokia C3|
 |Nokia|Nokia C5 Endi|PMC_CUS|Nokia C5 Endi|
 |Nokia|Nokia G10|ROGA|Nokia G10|

@@ -126632,6 +126632,13 @@
    "device": "AOP_sprout"
   }
  ],
+ "Nokia C01 Plus": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C01 Plus",
+   "device": "IRS"
+  }
+ ],
  "Nokia C1": [
   {
    "brand": "Nokia",
@@ -126644,6 +126651,13 @@
    "brand": "Nokia",
    "name": "Nokia C1 Plus",
    "device": "YDU"
+  }
+ ],
+ "Nokia C10": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C10",
+   "device": "MNT"
   }
  ],
  "Nebula": [
@@ -126665,6 +126679,13 @@
    "brand": "Nokia",
    "name": "Nokia C2 Tennen",
    "device": "ARV_CUS"
+  }
+ ],
+ "Nokia C20": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C20",
+   "device": "COS"
   }
  ],
  "Nokia C3": [

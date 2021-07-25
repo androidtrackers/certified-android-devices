@@ -123810,6 +123810,13 @@
    "model": "Nokia 9"
   }
  ],
+ "IRS": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C01 Plus",
+   "model": "Nokia C01 Plus"
+  }
+ ],
  "RKU": [
   {
    "brand": "Nokia",
@@ -123822,6 +123829,13 @@
    "brand": "Nokia",
    "name": "Nokia C1 Plus",
    "model": "Nokia C1 Plus"
+  }
+ ],
+ "MNT": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C10",
+   "model": "Nokia C10"
   }
  ],
  "NBL": [
@@ -123841,6 +123855,13 @@
    "brand": "Nokia",
    "name": "Nokia C2 Tennen",
    "model": "Nokia C2 Tennen"
+  }
+ ],
+ "COS": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C20",
+   "model": "Nokia C20"
   }
  ],
  "GMR": [
