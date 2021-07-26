@@ -7128,6 +7128,20 @@
    "model": "AURII_FAME"
   }
  ],
+ "Mete8": [
+  {
+   "brand": "AUZMAI",
+   "device": "Mete8",
+   "model": "Mete8"
+  }
+ ],
+ "Mete8_EEA": [
+  {
+   "brand": "AUZMAI",
+   "device": "Mete8_EEA",
+   "model": "Mete8_EEA"
+  }
+ ],
  "AV10": [
   {
    "brand": "AV",
@@ -23875,6 +23889,13 @@
    "model": "BQ-6630L"
   }
  ],
+ "BQ-6645L Element": [
+  {
+   "brand": "BQru",
+   "device": "BQru-6645L",
+   "model": "BQ-6645L"
+  }
+ ],
  "BQ-7000G": [
   {
    "brand": "BQru",
@@ -24012,6 +24033,13 @@
    "brand": "BQru",
    "device": "BQru-1022L",
    "model": "BQ-1022L"
+  }
+ ],
+ "BQru-1045G_A11": [
+  {
+   "brand": "BQru",
+   "device": "BQru-1045G_A11",
+   "model": "BQ-1045G"
   }
  ],
  "BQru-1077L": [
@@ -24152,6 +24180,13 @@
    "brand": "BQru",
    "device": "BQru-7083",
    "model": "BQru-7083"
+  }
+ ],
+ "BQru-8068L_A11": [
+  {
+   "brand": "BQru",
+   "device": "BQru-8068L_A11",
+   "model": "BQ-8068L"
   }
  ],
  "BQru_6022G": [
@@ -27111,6 +27146,13 @@
   {
    "brand": "Blackview",
    "device": "Pad8_ROW",
+   "model": "Pad8"
+  }
+ ],
+ "Pad8_RU": [
+  {
+   "brand": "Blackview",
+   "device": "Pad8_RU",
    "model": "Pad8"
   }
  ],
@@ -110140,6 +110182,13 @@
    "model": "Masstel_Tab10_4G"
   }
  ],
+ "Masstel_Tab_101": [
+  {
+   "brand": "Masstel",
+   "device": "Masstel_Tab_101",
+   "model": "Masstel_Tab_101"
+  }
+ ],
  "Masstel_X1": [
   {
    "brand": "Masstel",
@@ -110753,6 +110802,13 @@
    "brand": "Mecer",
    "device": "DX10-66",
    "model": "DX10-66"
+  }
+ ],
+ "M17QF6-3Gplus": [
+  {
+   "brand": "Mecer",
+   "device": "M17QF6-3Gplus",
+   "model": "M17QF6-3Gplus"
   }
  ],
  "M17QF6_3G": [
@@ -123483,6 +123539,13 @@
    "brand": "Next Technologies",
    "device": "N7526",
    "model": "N7526"
+  }
+ ],
+ "Smart_Study_1": [
+  {
+   "brand": "Nexta",
+   "device": "Smart_Study_1",
+   "model": "Smart_Study_1"
   }
  ],
  "GoPlayer": [
@@ -145370,6 +145433,13 @@
    "model": "Smooth 6.1"
   }
  ],
+ "Smooth6_5": [
+  {
+   "brand": "SSmooth",
+   "device": "Smooth6_5",
+   "model": "Smooth 6.5"
+  }
+ ],
  "Smooth_5": [
   {
    "brand": "SSmooth",
@@ -162917,6 +162987,13 @@
    "brand": "Sharp",
    "device": "rk3188_10P_A",
    "model": "RZ-E302"
+  }
+ ],
+ "RZ-H271": [
+  {
+   "brand": "Sharp",
+   "device": "MC2200",
+   "model": "RZ-H270"
   }
  ],
  "SBM204SH": [
@@ -186786,6 +186863,13 @@
    "model": "NEXO TAB 10A"
   }
  ],
+ "NEXO-TAB-70": [
+  {
+   "brand": "VOLFEN",
+   "device": "NEXO-TAB-70",
+   "model": "NEXO TAB 70"
+  }
+ ],
  "NEXO_TAB_10": [
   {
    "brand": "VOLFEN",
@@ -199103,6 +199187,20 @@
    "brand": "ZMBIZI",
    "device": "ZMBIZI_Z1",
    "model": "ZMBIZI Z1"
+  }
+ ],
+ "MX2": [
+  {
+   "brand": "ZONMAI",
+   "device": "MX2",
+   "model": "MX2"
+  }
+ ],
+ "MX2_EEA": [
+  {
+   "brand": "ZONMAI",
+   "device": "MX2_EEA",
+   "model": "MX2_EEA"
   }
  ],
  "LT600T": [

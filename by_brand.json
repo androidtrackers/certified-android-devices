@@ -896,6 +896,18 @@
    "model": "AURII_FAME"
   }
  ],
+ "AUZMAI": [
+  {
+   "device": "Mete8",
+   "name": "Mete8",
+   "model": "Mete8"
+  },
+  {
+   "device": "Mete8_EEA",
+   "name": "Mete8_EEA",
+   "model": "Mete8_EEA"
+  }
+ ],
  "AV": [
   {
    "device": "RCT6203W46",
@@ -12506,6 +12518,11 @@
    "model": "BQ-6630L"
   },
   {
+   "device": "BQru-6645L",
+   "name": "BQ-6645L Element",
+   "model": "BQ-6645L"
+  },
+  {
    "device": "BQru-7000G",
    "name": "BQ-7000G",
    "model": "BQ-7000G"
@@ -12611,6 +12628,11 @@
    "model": "BQ-1022L"
   },
   {
+   "device": "BQru-1045G_A11",
+   "name": "BQru-1045G_A11",
+   "model": "BQ-1045G"
+  },
+  {
    "device": "BQru-1077L",
    "name": "BQru-1077L",
    "model": "BQ-1077L"
@@ -12709,6 +12731,11 @@
    "device": "BQru-7083",
    "name": "BQru-7083",
    "model": "BQru-7083"
+  },
+  {
+   "device": "BQru-8068L_A11",
+   "name": "BQru-8068L_A11",
+   "model": "BQ-8068L"
   },
   {
    "device": "BQru_6022G",
@@ -14645,6 +14672,11 @@
   {
    "device": "Pad8_ROW",
    "name": "Pad8_ROW",
+   "model": "Pad8"
+  },
+  {
+   "device": "Pad8_RU",
+   "name": "Pad8_RU",
    "model": "Pad8"
   },
   {
@@ -82293,6 +82325,11 @@
    "model": "Masstel_Tab10_4G"
   },
   {
+   "device": "Masstel_Tab_101",
+   "name": "Masstel_Tab_101",
+   "model": "Masstel_Tab_101"
+  },
+  {
    "device": "Masstel_X1",
    "name": "Masstel_X1",
    "model": "Masstel X1"
@@ -82826,6 +82863,11 @@
    "device": "DX10-66",
    "name": "DX10-66",
    "model": "DX10-66"
+  },
+  {
+   "device": "M17QF6-3Gplus",
+   "name": "M17QF6-3Gplus",
+   "model": "M17QF6-3Gplus"
   },
   {
    "device": "M17QF6_3G",
@@ -93702,6 +93744,13 @@
    "device": "N7526",
    "name": "N7526",
    "model": "N7526"
+  }
+ ],
+ "Nexta": [
+  {
+   "device": "Smart_Study_1",
+   "name": "Smart_Study_1",
+   "model": "Smart_Study_1"
   }
  ],
  "Nextbase": [
@@ -111772,6 +111821,11 @@
    "model": "Smooth 6.1"
   },
   {
+   "device": "Smooth6_5",
+   "name": "Smooth6_5",
+   "model": "Smooth 6.5"
+  },
+  {
    "device": "SSmooth_5",
    "name": "Smooth_5",
    "model": "Smooth 5.0"
@@ -127556,6 +127610,11 @@
    "device": "rk3188_10P_A",
    "name": "RZ-E302",
    "model": "RZ-E302"
+  },
+  {
+   "device": "MC2200",
+   "name": "RZ-H271",
+   "model": "RZ-H270"
   },
   {
    "device": "rome_sprout",
@@ -148771,6 +148830,11 @@
    "model": "NEXO TAB 10A"
   },
   {
+   "device": "NEXO-TAB-70",
+   "name": "NEXO-TAB-70",
+   "model": "NEXO TAB 70"
+  },
+  {
    "device": "NEXO_TAB_10",
    "name": "NEXO_TAB_10",
    "model": "NEXO_TAB_10"
@@ -159126,6 +159190,18 @@
    "device": "M50",
    "name": "M50",
    "model": "M50"
+  }
+ ],
+ "ZONMAI": [
+  {
+   "device": "MX2",
+   "name": "MX2",
+   "model": "MX2"
+  },
+  {
+   "device": "MX2_EEA",
+   "name": "MX2_EEA",
+   "model": "MX2_EEA"
   }
  ],
  "ZOOMME": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-07-25
+Last sync is 2021-07-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -166,6 +166,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AURII|AURII ULTRA|AURII_ULTRA|AURII ULTRA|
 |AURII|AURII_AMUSE_4G|AURII_AMUSE_4G|AURII_AMUSE_4G|
 |AURII|AURII_FAME|AURII_FAME|AURII_FAME|
+|AUZMAI|Mete8|Mete8|Mete8|
+|AUZMAI|Mete8_EEA|Mete8_EEA|Mete8_EEA|
 |AV|AV10|RCT6203W46|AV10|
 |AV|AV7|RCT6773W22|AV7|
 |AVH San Luis S.A.|ActionKids3.0|ActionKids3_0|ActionKids3.0|
@@ -2434,6 +2436,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-6200L Aurora|BQru-6200L|BQ-6200L|
 |BQru|BQ-6424L|BQru-6424L|BQ-6424L|
 |BQru|BQ-6630L|BQru-6630L|BQ-6630L|
+|BQru|BQ-6645L Element|BQru-6645L|BQ-6645L|
 |BQru|BQ-7000G|BQru-7000G|BQ-7000G|
 |BQru|BQ-7000G|BQru-7000G_2020|BQ-7000G|
 |BQru|BQ-7022G|BQru-7022|BQ-7022|
@@ -2455,6 +2458,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-8077L|BQru-8077L|BQ-8077L|
 |BQru|BQ-9055L|BQru-9055L|BQ-9055L|
 |BQru|BQru-1022L|BQru-1022L|BQ-1022L|
+|BQru|BQru-1045G_A11|BQru-1045G_A11|BQ-1045G|
 |BQru|BQru-1077L|BQru-1077L|BQ-1077L|
 |BQru|BQru-1077L_2019|BQru-1077L_2019|BQ-1077L|
 |BQru|BQru-1081G|BQru-1081G|BQru-1081G|
@@ -2475,6 +2479,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQru-6631G_A11|BQru-6631G_A11|BQru-6631G_A11|
 |BQru|BQru-7082|BQru-7082|BQru-7082|
 |BQru|BQru-7083|BQru-7083|BQru-7083|
+|BQru|BQru-8068L_A11|BQru-8068L_A11|BQ-8068L|
 |BQru|BQru_6022G|BQru_6022G|BQ-6022G|
 |BQru|BQru_6430L|BQru_6430L|BQ-6430L|
 |BQru|Bqru-5037|BQru-5037|BQru-5037|
@@ -2844,6 +2849,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|P6000|P6000|P6000|
 |Blackview|Pad8_EEA|Pad8_EEA|Pad8|
 |Blackview|Pad8_ROW|Pad8_ROW|Pad8|
+|Blackview|Pad8_RU|Pad8_RU|Pad8|
 |Blackview|S6|S6|S6|
 |Blackview|S8|S8|S8|
 |Blackview|S8_RU|S8|S8|
@@ -16017,6 +16023,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Masstel|Masstel_Juno_Q5|Masstel_Juno_Q5|Masstel_Juno_Q5|
 |Masstel|Masstel_Tab10|Masstel_Tab10|Masstel Tab10|
 |Masstel|Masstel_Tab10_4G|Masstel_Tab10_4G|Masstel_Tab10_4G|
+|Masstel|Masstel_Tab_101|Masstel_Tab_101|Masstel_Tab_101|
 |Masstel|Masstel_X1|Masstel_X1|Masstel X1|
 |Masstel|Masstel_X5|Masstel_X5|Masstel X5|
 |Masstel|Masstel_X6|Masstel_X6|Masstel X6|
@@ -16118,6 +16125,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mecer|800P31C|800P31C|800P31C|
 |Mecer|800P71D|800P71D|800P71D|
 |Mecer|DX10-66|DX10-66|DX10-66|
+|Mecer|M17QF6-3Gplus|M17QF6-3Gplus|M17QF6-3Gplus|
 |Mecer|M17QF6_3G|M17QF6_3G|M17QF6_3G|
 |Mecer|M17QF6_4G|M17QF6_4G|M17QF6_4G|
 |Mecer|M76QF6|M76QF6|M76QF6|
@@ -18240,6 +18248,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Next Learning|Nexttab N3|N3|N3|
 |Next Technologies|GO7BSC|GO7BSC|GO7BSC|
 |Next Technologies|N7526|N7526|N7526|
+|Nexta|Smart_Study_1|Smart_Study_1|Smart_Study_1|
 |Nextbase|GoPlayer|NBCGGP01|NBCGGP01|
 |Nextbit|Robin|ether|Robin|
 |Nextbook|BRT81|BRT81|BRT81|
@@ -21738,6 +21747,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SSB PHONES|SSB5518|SSB5518|SSB5518|
 |SSB PHONES|SSB554R|SSB554R|SSB554R|
 |SSmooth|Smooth6_1|Smooth6_1|Smooth 6.1|
+|SSmooth|Smooth6_5|Smooth6_5|Smooth 6.5|
 |SSmooth|Smooth_5|SSmooth_5|Smooth 5.0|
 |STF Mobile|AERIAL|STFAERIAL|AERIAL|
 |STF Mobile|AERIAL PLUS|AERIAL|AERIAL PLUS|
@@ -24878,6 +24888,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|Q-pot.Phone SH-04D|SH04D|SH-04D|
 |Sharp|RW107|RW107|RW107|
 |Sharp|RZ-E302|rk3188_10P_A|RZ-E302|
+|Sharp|RZ-H271|MC2200|RZ-H270|
 |Sharp|S3|rome_sprout|S3-SH|
 |Sharp|S5|zeon_sprout|S5-SH|
 |Sharp|S7|vespa_sprout|S7-SH|
@@ -28997,6 +29008,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VIZZION|VIZZION TV|shinjuku|VIZZION TV|
 |VNPT Technology|VNPT SmartBox 2x|vnptt_smb_v2x|VNPT SmartBox 2x|
 |VOLFEN|NEXO TAB 10A|NEXO_TAB_10A|NEXO TAB 10A|
+|VOLFEN|NEXO-TAB-70|NEXO-TAB-70|NEXO TAB 70|
 |VOLFEN|NEXO_TAB_10|NEXO_TAB_10|NEXO_TAB_10|
 |VOLFEN|Nexo TAB 7|Nexo-TAB-7|Nexo-TAB-7|
 |VOLIA|VOL001|VOL001|VOL001|
@@ -31002,6 +31014,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZMBIZI|ZMBIZI|ZMBIZI_Z1|ZMBIZI Z1|
 |ZOLON|M30|M30|M30|
 |ZOLON|M50|M50|M50|
+|ZONMAI|MX2|MX2|MX2|
+|ZONMAI|MX2_EEA|MX2_EEA|MX2_EEA|
 |ZOOMME|M1|M1|M1|
 |ZOOMME|M2|M2|M2|
 |ZOOMME|M3|M3|M3|
