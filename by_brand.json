@@ -99051,6 +99051,11 @@
    "model": "R370L"
   },
   {
+   "device": "R678L5",
+   "name": "R678L5",
+   "model": "R678L5"
+  },
+  {
    "device": "Orbic-RC506LT",
    "name": "RC506LT",
    "model": "RC506LT"

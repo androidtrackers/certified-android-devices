@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-07-26
+Last sync is 2021-07-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -19277,6 +19277,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Orange TV|Descodificador Orange TV|KSTB6130|KSTB6130|
 |Orbic|Magic|R678EL|R678EL|
 |Orbic|R370H|R370H|R370L|
+|Orbic|R678L5|R678L5|R678L5|
 |Orbic|RC506LT|Orbic-RC506LT|RC506LT|
 |Orbic|RC545L|RC545L|RC545L|
 |Orbic|Wonder|RC555L|RC555L|
