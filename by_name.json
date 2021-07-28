@@ -29008,6 +29008,11 @@
    "brand": "Meberry",
    "device": "M7",
    "model": "M7"
+  },
+  {
+   "brand": "Movienet",
+   "device": "SFO",
+   "model": "M7"
   }
  ],
  "M7L": [
@@ -36974,6 +36979,13 @@
    "brand": "Conquest",
    "device": "S12Pro",
    "model": "S12Pro"
+  }
+ ],
+ "conquest-S20_RU": [
+  {
+   "brand": "Conquest",
+   "device": "conquest-S20",
+   "model": "conquest-S20"
   }
  ],
  "conquest_S16": [
@@ -44969,6 +44981,13 @@
    "model": "S96Pro"
   }
  ],
+ "S97Pro": [
+  {
+   "brand": "Doogee",
+   "device": "S97Pro",
+   "model": "S97Pro"
+  }
+ ],
  "Shoot_ 1": [
   {
    "brand": "Doogee",
@@ -46402,6 +46421,43 @@
    "brand": "E-Tel",
    "device": "Q25",
    "model": "Q25"
+  }
+ ],
+ "Q7": [
+  {
+   "brand": "E-Tel",
+   "device": "E-tel_Q7",
+   "model": "E-tel_Q7"
+  },
+  {
+   "brand": "G-Tab",
+   "device": "Q7",
+   "model": "Q7"
+  },
+  {
+   "brand": "Singtech",
+   "device": "Q7",
+   "model": "Q7"
+  },
+  {
+   "brand": "Win (VE)",
+   "device": "Q7",
+   "model": "Q7"
+  },
+  {
+   "brand": "ZTE",
+   "device": "CMCC_P839V50",
+   "model": "ZTE Q7"
+  },
+  {
+   "brand": "ZTE",
+   "device": "CU_P839V50",
+   "model": "ZTE Q7"
+  },
+  {
+   "brand": "ZTE",
+   "device": "P839V50",
+   "model": "ZTE Q7"
   }
  ],
  "i240": [
@@ -54659,38 +54715,6 @@
    "brand": "G-Tab",
    "device": "Q69",
    "model": "Q69"
-  }
- ],
- "Q7": [
-  {
-   "brand": "G-Tab",
-   "device": "Q7",
-   "model": "Q7"
-  },
-  {
-   "brand": "Singtech",
-   "device": "Q7",
-   "model": "Q7"
-  },
-  {
-   "brand": "Win (VE)",
-   "device": "Q7",
-   "model": "Q7"
-  },
-  {
-   "brand": "ZTE",
-   "device": "CMCC_P839V50",
-   "model": "ZTE Q7"
-  },
-  {
-   "brand": "ZTE",
-   "device": "CU_P839V50",
-   "model": "ZTE Q7"
-  },
-  {
-   "brand": "ZTE",
-   "device": "P839V50",
-   "model": "ZTE Q7"
   }
  ],
  "S8X": [
@@ -126021,13 +126045,25 @@
   },
   {
    "brand": "OnePlus",
+   "device": "OnePlus9ProTMO",
+   "model": "LE2127"
+  }
+ ],
+ "OnePlus 9Pro 5G": [
+  {
+   "brand": "OnePlus",
    "device": "OnePlus9Pro",
-   "model": "LE2125"
+   "model": "LE2120"
   },
   {
    "brand": "OnePlus",
-   "device": "OnePlus9ProTMO",
-   "model": "LE2127"
+   "device": "OnePlus9Pro",
+   "model": "LE2123"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus9Pro",
+   "model": "LE2125"
   }
  ],
  "OnePlus 9R": [

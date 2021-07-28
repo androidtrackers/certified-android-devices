@@ -8869,6 +8869,11 @@
    "brand": "Meberry",
    "name": "M7",
    "device": "M7"
+  },
+  {
+   "brand": "Movienet",
+   "name": "M7",
+   "device": "SFO"
   }
  ],
  "NX007HD": [
@@ -30789,6 +30794,13 @@
    "device": "S12Pro"
   }
  ],
+ "conquest-S20": [
+  {
+   "brand": "Conquest",
+   "name": "conquest-S20_RU",
+   "device": "conquest-S20"
+  }
+ ],
  "conquest_S16": [
   {
    "brand": "Conquest",
@@ -38809,6 +38821,13 @@
    "device": "S96Pro"
   }
  ],
+ "S97Pro": [
+  {
+   "brand": "Doogee",
+   "name": "S97Pro",
+   "device": "S97Pro"
+  }
+ ],
  "Shoot_1": [
   {
    "brand": "Doogee",
@@ -40127,6 +40146,13 @@
    "brand": "E-Tel",
    "name": "Q25",
    "device": "Q25"
+  }
+ ],
+ "E-tel_Q7": [
+  {
+   "brand": "E-Tel",
+   "name": "Q7",
+   "device": "E-tel_Q7"
   }
  ],
  "E-tel i240": [
@@ -128446,6 +128472,11 @@
    "brand": "OnePlus",
    "name": "OnePlus 9 Pro 5G",
    "device": "OnePlus9Pro"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 9Pro 5G",
+   "device": "OnePlus9Pro"
   }
  ],
  "LE2121": [
@@ -128460,12 +128491,10 @@
    "brand": "OnePlus",
    "name": "OnePlus 9 Pro 5G",
    "device": "OnePlus9Pro"
-  }
- ],
- "LE2125": [
+  },
   {
    "brand": "OnePlus",
-   "name": "OnePlus 9 Pro 5G",
+   "name": "OnePlus 9Pro 5G",
    "device": "OnePlus9Pro"
   }
  ],
@@ -128474,6 +128503,13 @@
    "brand": "OnePlus",
    "name": "OnePlus 9 Pro 5G",
    "device": "OnePlus9ProTMO"
+  }
+ ],
+ "LE2125": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 9Pro 5G",
+   "device": "OnePlus9Pro"
   }
  ],
  "LE2100": [

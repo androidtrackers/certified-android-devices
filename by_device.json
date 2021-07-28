@@ -13353,6 +13353,11 @@
    "brand": "BVS (AR)",
    "name": "BVS  4K 0TT 01",
    "model": "BVS 4K OTT 01"
+  },
+  {
+   "brand": "Movienet",
+   "name": "M7",
+   "model": "M7"
   }
  ],
  "M916H": [
@@ -32456,6 +32461,13 @@
    "model": "S11"
   }
  ],
+ "conquest-S20": [
+  {
+   "brand": "Conquest",
+   "name": "conquest-S20_RU",
+   "model": "conquest-S20"
+  }
+ ],
  "conquest_S16": [
   {
    "brand": "Conquest",
@@ -40983,6 +40995,13 @@
    "model": "S96Pro"
   }
  ],
+ "S97Pro": [
+  {
+   "brand": "Doogee",
+   "name": "S97Pro",
+   "model": "S97Pro"
+  }
+ ],
  "Shoot_1": [
   {
    "brand": "Doogee",
@@ -42301,6 +42320,13 @@
    "brand": "E-Tel",
    "name": "Q25",
    "model": "Q25"
+  }
+ ],
+ "E-tel_Q7": [
+  {
+   "brand": "E-Tel",
+   "name": "Q7",
+   "model": "E-tel_Q7"
   }
  ],
  "i240": [
@@ -125604,7 +125630,17 @@
   },
   {
    "brand": "OnePlus",
-   "name": "OnePlus 9 Pro 5G",
+   "name": "OnePlus 9Pro 5G",
+   "model": "LE2120"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 9Pro 5G",
+   "model": "LE2123"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 9Pro 5G",
    "model": "LE2125"
   }
  ],

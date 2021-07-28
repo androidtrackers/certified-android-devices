@@ -21371,6 +21371,11 @@
    "model": "S11"
   },
   {
+   "device": "conquest-S20",
+   "name": "conquest-S20_RU",
+   "model": "conquest-S20"
+  },
+  {
    "device": "conquest_S16",
    "name": "conquest_S16",
    "model": "conquest_S16"
@@ -27245,6 +27250,11 @@
    "model": "S96Pro"
   },
   {
+   "device": "S97Pro",
+   "name": "S97Pro",
+   "model": "S97Pro"
+  },
+  {
    "device": "Shoot_1",
    "name": "Shoot_ 1",
    "model": "Shoot_1"
@@ -28222,6 +28232,11 @@
    "device": "Q30",
    "name": "Q30",
    "model": "Q30"
+  },
+  {
+   "device": "E-tel_Q7",
+   "name": "Q7",
+   "model": "E-tel_Q7"
   },
   {
    "device": "i240",
@@ -89964,6 +89979,13 @@
    "model": "MOVIC-W5"
   }
  ],
+ "Movienet": [
+  {
+   "device": "SFO",
+   "name": "M7",
+   "model": "M7"
+  }
+ ],
  "Moviltelco Trade": [
   {
    "device": "A58B",
@@ -95958,14 +95980,24 @@
    "model": "LE2123"
   },
   {
-   "device": "OnePlus9Pro",
-   "name": "OnePlus 9 Pro 5G",
-   "model": "LE2125"
-  },
-  {
    "device": "OnePlus9ProTMO",
    "name": "OnePlus 9 Pro 5G",
    "model": "LE2127"
+  },
+  {
+   "device": "OnePlus9Pro",
+   "name": "OnePlus 9Pro 5G",
+   "model": "LE2120"
+  },
+  {
+   "device": "OnePlus9Pro",
+   "name": "OnePlus 9Pro 5G",
+   "model": "LE2123"
+  },
+  {
+   "device": "OnePlus9Pro",
+   "name": "OnePlus 9Pro 5G",
+   "model": "LE2125"
   },
   {
    "device": "OnePlus9R",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-07-27
+Last sync is 2021-07-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4127,6 +4127,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Connexion TV|VIP6102W FCGOV|vip6102w|VIP6102W|
 |Conquest|CONQUEST S12Pro|S12Pro|S12Pro|
 |Conquest|S11|conquest-S11|S11|
+|Conquest|conquest-S20_RU|conquest-S20|conquest-S20|
 |Conquest|conquest_S16|conquest_S16|conquest_S16|
 |Conquest|conquest_S16_RU|conquest_S16|conquest_S16|
 |Contex|Egypt|tamachi|AiPlus2K|
@@ -5261,6 +5262,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|S95|S95|S95|
 |Doogee|S95Pro|S95Pro|S95Pro|
 |Doogee|S96Pro|S96Pro|S96Pro|
+|Doogee|S97Pro|S97Pro|S97Pro|
 |Doogee|Shoot_ 1|Shoot_1|Shoot_1|
 |Doogee|T5|T5|T5|
 |Doogee|T5S|T5S|T5S|
@@ -5450,6 +5452,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |E-Tel|M4|M4|M4|
 |E-Tel|Q25|Q25|Q25|
 |E-Tel|Q30|Q30|Q30|
+|E-Tel|Q7|E-tel_Q7|E-tel_Q7|
 |E-Tel|i240|i240|E-tel i240|
 |E-Wealth Mobile|E508|E508|E508|
 |E-Wealth Mobile|E5701|E5701|E5701|
@@ -17520,6 +17523,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Movado|Movado Connect 2.0|tilefish|Movado Connect 2|
 |Moveby|LINNEX|LX50|LX50|
 |Movic|MOVIC_W5|MOVIC_W5|MOVIC-W5|
+|Movienet|M7|SFO|M7|
 |Moviltelco Trade|A58B|A58B|A58B|
 |Moviltelco Trade|A85|A85|A85|
 |Moviltelco Trade|A87|A87|A87|
@@ -18664,8 +18668,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 9 Pro 5G|OnePlus9Pro|LE2120|
 |OnePlus|OnePlus 9 Pro 5G|OnePlus9Pro|LE2121|
 |OnePlus|OnePlus 9 Pro 5G|OnePlus9Pro|LE2123|
-|OnePlus|OnePlus 9 Pro 5G|OnePlus9Pro|LE2125|
 |OnePlus|OnePlus 9 Pro 5G|OnePlus9ProTMO|LE2127|
+|OnePlus|OnePlus 9Pro 5G|OnePlus9Pro|LE2120|
+|OnePlus|OnePlus 9Pro 5G|OnePlus9Pro|LE2123|
+|OnePlus|OnePlus 9Pro 5G|OnePlus9Pro|LE2125|
 |OnePlus|OnePlus 9R|OnePlus9R|LE2100|
 |OnePlus|OnePlus Nord|Nord|AC2001|
 |OnePlus|OnePlus Nord|Nord|AC2003|
