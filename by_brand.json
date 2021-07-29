@@ -61618,6 +61618,11 @@
    "model": "itel L6004P"
   },
   {
+   "device": "itel-A611W",
+   "name": "itel A57",
+   "model": "itel A611W"
+  },
+  {
    "device": "itel-A14",
    "name": "itel AC12",
    "model": "itel A14"
@@ -111048,6 +111053,11 @@
    "device": "komagome",
    "name": "SCHNEIDER",
    "model": "SCHNEIDER 2K Android TV"
+  },
+  {
+   "device": "Wave_3",
+   "name": "Wave 3",
+   "model": "Wave 3"
   }
  ],
  "SCIENTIA": [

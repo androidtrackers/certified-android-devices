@@ -83266,6 +83266,13 @@
    "model": "itel L6004P"
   }
  ],
+ "itel-A611W": [
+  {
+   "brand": "Itel",
+   "name": "itel A57",
+   "model": "itel A611W"
+  }
+ ],
  "itel-W4001P": [
   {
    "brand": "Itel",
@@ -144050,6 +144057,13 @@
    "brand": "SARL WISE TECHNOLOGIE",
    "name": "Wise_Tech_Wifi",
    "model": "Wise Tech Wifi"
+  }
+ ],
+ "Wave_3": [
+  {
+   "brand": "SCHNEIDER",
+   "name": "Wave 3",
+   "model": "Wave 3"
   }
  ],
  "BBT1019863": [

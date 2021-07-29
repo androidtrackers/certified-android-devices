@@ -84421,6 +84421,13 @@
    "device": "itel-L6004P"
   }
  ],
+ "itel A611W": [
+  {
+   "brand": "Itel",
+   "name": "itel A57",
+   "device": "itel-A611W"
+  }
+ ],
  "itel W4001P": [
   {
    "brand": "Itel",
@@ -147636,6 +147643,13 @@
    "brand": "SCHNEIDER",
    "name": "SCHNEIDER",
    "device": "komagome"
+  }
+ ],
+ "Wave 3": [
+  {
+   "brand": "SCHNEIDER",
+   "name": "Wave 3",
+   "device": "Wave_3"
   }
  ],
  "BBT1019863": [

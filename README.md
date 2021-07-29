@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-07-28
+Last sync is 2021-07-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11978,6 +11978,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel A56 LTE|itel-L6004|itel L6004|
 |Itel|itel A56 Pro|itel-W6004P|itel W6004P|
 |Itel|itel A56 Pro LTE|itel-L6004P|itel L6004P|
+|Itel|itel A57|itel-A611W|itel A611W|
 |Itel|itel AC12|itel-A14|itel A14|
 |Itel|itel AC13|itel-W4001P|itel W4001P|
 |Itel|itel AC32|itel-A16S|itel A16S|
@@ -21604,6 +21605,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SCHNEIDER|Android TV|R2|ATV R2|
 |SCHNEIDER|SCHNEIDER|bangbae|SCHNEIDER 4K Android TV|
 |SCHNEIDER|SCHNEIDER|komagome|SCHNEIDER 2K Android TV|
+|SCHNEIDER|Wave 3|Wave_3|Wave 3|
 |SCIENTIA|BBT1019863|BBT1019863|BBT1019863|
 |SED Wireless|GPH-650R|SPH_650R|GPH-650R|
 |SELECLINE|MID7526CM|MID7526CM|NID_7010|

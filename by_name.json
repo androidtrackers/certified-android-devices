@@ -86367,6 +86367,13 @@
    "model": "itel L6004P"
   }
  ],
+ "itel A57": [
+  {
+   "brand": "Itel",
+   "device": "itel-A611W",
+   "model": "itel A611W"
+  }
+ ],
  "itel AC12": [
   {
    "brand": "Itel",
@@ -144511,6 +144518,13 @@
    "brand": "SCHNEIDER",
    "device": "komagome",
    "model": "SCHNEIDER 2K Android TV"
+  }
+ ],
+ "Wave 3": [
+  {
+   "brand": "SCHNEIDER",
+   "device": "Wave_3",
+   "model": "Wave 3"
   }
  ],
  "BBT1019863": [
