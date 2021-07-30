@@ -17746,6 +17746,11 @@
    "model": "C10G"
   },
   {
+   "device": "C80W",
+   "name": "C80W",
+   "model": "C80W"
+  },
+  {
    "device": "F80L",
    "name": "F80L",
    "model": "F80L"
@@ -37479,6 +37484,11 @@
  ],
  "Greatwall": [
   {
+   "device": "tablet",
+   "name": "100011886",
+   "model": "100011886"
+  },
+  {
    "device": "K701",
    "name": "K701",
    "model": "K701"
@@ -38031,6 +38041,13 @@
    "device": "yeongdeungpo",
    "name": "EU",
    "model": "HORIZON Android TV"
+  }
+ ],
+ "HOT (il)": [
+  {
+   "device": "DV8555-KIH",
+   "name": "HOT Streamer",
+   "model": "HOT Streamer"
   }
  ],
  "HP": [
@@ -64363,6 +64380,11 @@
    "model": "KL4889B"
   },
   {
+   "device": "KL4889C",
+   "name": "KL4889C",
+   "model": "KL4889C"
+  },
+  {
    "device": "KL4890",
    "name": "KL4890",
    "model": "KL4890"
@@ -73265,6 +73287,11 @@
   }
  ],
  "Lanix": [
+  {
+   "device": "Alpha_5V",
+   "name": "Alpha 5V",
+   "model": "Alpha 5V"
+  },
   {
    "device": "Alpha_9V",
    "name": "Alpha 9V",
@@ -89777,6 +89804,11 @@
    "device": "deen_sprout",
    "name": "motorola one",
    "model": "motorola one"
+  },
+  {
+   "device": "nairo",
+   "name": "motorola one 5G",
+   "model": "moto g 5G plus"
   },
   {
    "device": "nairo",
@@ -108783,6 +108815,13 @@
    "device": "Space_M10Pro",
    "name": "Space_M10Pro",
    "model": "Space_M10Pro"
+  }
+ ],
+ "RENSO": [
+  {
+   "device": "NEP_N1",
+   "name": "NEP N1",
+   "model": "NEP N1"
   }
  ],
  "RIO Mobile": [
@@ -133971,6 +134010,11 @@
   }
  ],
  "Sumitomo Electric Industries": [
+  {
+   "device": "ST4500",
+   "name": "ST-4500",
+   "model": "ST-4500"
+  },
   {
    "device": "ST4173",
    "name": "ST4173",

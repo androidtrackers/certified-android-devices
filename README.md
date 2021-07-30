@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-07-29
+Last sync is 2021-07-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3434,6 +3434,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |COSMOTE TV|TV Box|HY44G|TV Box|
 |CP Plus|CP-MUD-M721|CP-MUD-M721|CP-MUD-M721|
 |CWOWDEFU|C10G|C10G|C10G|
+|CWOWDEFU|C80W|C80W|C80W|
 |CWOWDEFU|F80L|F80L|F80L|
 |CWOWDEFU|F81L_EEA|F81L|F81L|
 |CX Argentina|CX9011|CX9011|CX9011|
@@ -7213,6 +7214,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gradiente|GTB_106|GTB_106|GTB_106|
 |Gradiente|iphone C600|GBC_bravo|iphone C600|
 |Gradiente|iphone C600|bravo|iphone C600|
+|Greatwall|100011886|tablet|100011886|
 |Greatwall|K701|K701|K701|
 |Greatwall|T709GW|T709GW|Great Wall T709|
 |Greatwall|W710|W710|W710|
@@ -7315,6 +7317,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HOMTOM|c1|C1|C1|
 |HORIZON|EU|tamachi|HORIZON Android TV|
 |HORIZON|EU|yeongdeungpo|HORIZON Android TV|
+|HOT (il)|HOT Streamer|DV8555-KIH|HOT Streamer|
 |HP|10|spruce|HP 10|
 |HP|10 Plus|torsa|HP 10 Plus|
 |HP|7 G2|redwood|HP 7 G2|
@@ -12493,6 +12496,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Klipad|KL450|KL450|KL450|
 |Klipad|KL456LD|KL456LD|KL456LD|
 |Klipad|KL4889B_EEA|KL4889B|KL4889B|
+|Klipad|KL4889C|KL4889C|KL4889C|
 |Klipad|KL4890|KL4890|KL4890|
 |Klipad|KL4891|KL4891|KL4891|
 |Klipad|KL4891_A50_EEA|KL4891-A50|KL4891_A50|
@@ -14254,6 +14258,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Land Rover|Land Rover Explore R|LRExploreR|Land Rover Explore R|
 |Landbyte|LT5030|LT5030|LT5030|
 |Landbyte|Lt6248|Lt6248|Lt6248|
+|Lanix|Alpha 5V|Alpha_5V|Alpha 5V|
 |Lanix|Alpha 9V|Alpha_9V|Alpha 9V|
 |Lanix|Alpha_3V|Alpha_3V|Alpha 3V|
 |Lanix|Alpha_950|Alpha_950|Alpha 950|
@@ -17485,6 +17490,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge s|nio|XT2125-4|
 |Motorola|motorola egde s|nio|XT2125-4|
 |Motorola|motorola one|deen_sprout|motorola one|
+|Motorola|motorola one 5G|nairo|moto g 5G plus|
 |Motorola|motorola one 5G|nairo|motorola one 5G|
 |Motorola|motorola one 5G UW|nairo|motorola one 5G|
 |Motorola|motorola one 5G UW|nairo|motorola one 5G UW|
@@ -21173,6 +21179,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |REDLINE|Space_A18|Space_A8|Space_A8|
 |REDLINE|Space_M10|Space_M10|Space_M10|
 |REDLINE|Space_M10Pro|Space_M10Pro|Space_M10Pro|
+|RENSO|NEP N1|NEP_N1|NEP N1|
 |RIO Mobile|R7MAX|R7MAX|R7MAX|
 |RIO Mobile|RW10|RW10|RW10|
 |RIO Mobile|RW8|RW8|RW8|
@@ -26128,6 +26135,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sugar|Sugar|s9121|SUGAR|
 |Sugar|Sugar S30|x800as|SUGAR S30|
 |Sugar|Sugar T50|p611bn|SUGAR T50|
+|Sumitomo Electric Industries|ST-4500|ST4500|ST-4500|
 |Sumitomo Electric Industries|ST4173|ST4173|ST4173|
 |Sumitomo Electric Industries|ST4500|ST4500|ST-4500|
 |Sumitomo Electric Networks||dhe1100|Hikari-iFrame/WDPF-703SE|

@@ -27548,6 +27548,13 @@
    "model": "C10G"
   }
  ],
+ "C80W": [
+  {
+   "brand": "CWOWDEFU",
+   "name": "C80W",
+   "model": "C80W"
+  }
+ ],
  "F80L": [
   {
    "brand": "CWOWDEFU",
@@ -54749,6 +54756,13 @@
    "model": "GTB_106"
   }
  ],
+ "tablet": [
+  {
+   "brand": "Greatwall",
+   "name": "100011886",
+   "model": "100011886"
+  }
+ ],
  "K701": [
   {
    "brand": "Greatwall",
@@ -55404,6 +55418,13 @@
    "brand": "HOMTOM",
    "name": "S99i",
    "model": "S99i"
+  }
+ ],
+ "DV8555-KIH": [
+  {
+   "brand": "HOT (il)",
+   "name": "HOT Streamer",
+   "model": "HOT Streamer"
   }
  ],
  "spruce": [
@@ -86438,6 +86459,13 @@
    "model": "KL4889B"
   }
  ],
+ "KL4889C": [
+  {
+   "brand": "Klipad",
+   "name": "KL4889C",
+   "model": "KL4889C"
+  }
+ ],
  "KL4890": [
   {
    "brand": "Klipad",
@@ -97043,6 +97071,13 @@
    "brand": "Landbyte",
    "name": "Lt6248",
    "model": "Lt6248"
+  }
+ ],
+ "Alpha_5V": [
+  {
+   "brand": "Lanix",
+   "name": "Alpha 5V",
+   "model": "Alpha 5V"
   }
  ],
  "Alpha_9V": [
@@ -117658,6 +117693,11 @@
   {
    "brand": "Motorola",
    "name": "moto g 5G plus",
+   "model": "moto g 5G plus"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola one 5G",
    "model": "moto g 5G plus"
   },
   {
@@ -141365,6 +141405,13 @@
    "brand": "REDLINE",
    "name": "Space_M10Pro",
    "model": "Space_M10Pro"
+  }
+ ],
+ "NEP_N1": [
+  {
+   "brand": "RENSO",
+   "name": "NEP N1",
+   "model": "NEP N1"
   }
  ],
  "R7MAX": [
@@ -172961,18 +173008,23 @@
    "model": "SUGAR T50"
   }
  ],
+ "ST4500": [
+  {
+   "brand": "Sumitomo Electric Industries",
+   "name": "ST-4500",
+   "model": "ST-4500"
+  },
+  {
+   "brand": "Sumitomo Electric Industries",
+   "name": "ST4500",
+   "model": "ST-4500"
+  }
+ ],
  "ST4173": [
   {
    "brand": "Sumitomo Electric Industries",
    "name": "ST4173",
    "model": "ST4173"
-  }
- ],
- "ST4500": [
-  {
-   "brand": "Sumitomo Electric Industries",
-   "name": "ST4500",
-   "model": "ST-4500"
   }
  ],
  "dhe1100": [

@@ -31967,6 +31967,13 @@
    "model": "C10G"
   }
  ],
+ "C80W": [
+  {
+   "brand": "CWOWDEFU",
+   "device": "C80W",
+   "model": "C80W"
+  }
+ ],
  "F80L": [
   {
    "brand": "CWOWDEFU",
@@ -58913,6 +58920,18 @@
    "model": "iphone C600"
   }
  ],
+ "100011886": [
+  {
+   "brand": "Greatwall",
+   "device": "tablet",
+   "model": "100011886"
+  },
+  {
+   "brand": "Onn (Walmart)",
+   "device": "100011886",
+   "model": "100011886"
+  }
+ ],
  "K701": [
   {
    "brand": "Greatwall",
@@ -59728,6 +59747,13 @@
    "brand": "HOMTOM",
    "device": "C1",
    "model": "C1"
+  }
+ ],
+ "HOT Streamer": [
+  {
+   "brand": "HOT (il)",
+   "device": "DV8555-KIH",
+   "model": "HOT Streamer"
   }
  ],
  "10": [
@@ -89782,6 +89808,13 @@
    "model": "KL4889B"
   }
  ],
+ "KL4889C": [
+  {
+   "brand": "Klipad",
+   "device": "KL4889C",
+   "model": "KL4889C"
+  }
+ ],
  "KL4890": [
   {
    "brand": "Klipad",
@@ -99429,6 +99462,13 @@
    "brand": "Landbyte",
    "device": "Lt6248",
    "model": "Lt6248"
+  }
+ ],
+ "Alpha 5V": [
+  {
+   "brand": "Lanix",
+   "device": "Alpha_5V",
+   "model": "Alpha 5V"
   }
  ],
  "Alpha 9V": [
@@ -118710,6 +118750,11 @@
   {
    "brand": "Motorola",
    "device": "nairo",
+   "model": "moto g 5G plus"
+  },
+  {
+   "brand": "Motorola",
+   "device": "nairo",
    "model": "motorola one 5G"
   }
  ],
@@ -126354,13 +126399,6 @@
    "brand": "Onn (Walmart)",
    "device": "100011885",
    "model": "100011885"
-  }
- ],
- "100011886": [
-  {
-   "brand": "Onn (Walmart)",
-   "device": "100011886",
-   "model": "100011886"
   }
  ],
  "100011886CA": [
@@ -141861,6 +141899,13 @@
    "brand": "REDLINE",
    "device": "Space_M10Pro",
    "model": "Space_M10Pro"
+  }
+ ],
+ "NEP N1": [
+  {
+   "brand": "RENSO",
+   "device": "NEP_N1",
+   "model": "NEP N1"
   }
  ],
  "R7MAX": [
@@ -170365,6 +170410,13 @@
    "brand": "Sugar",
    "device": "p611bn",
    "model": "SUGAR T50"
+  }
+ ],
+ "ST-4500": [
+  {
+   "brand": "Sumitomo Electric Industries",
+   "device": "ST4500",
+   "model": "ST-4500"
   }
  ],
  "ST4173": [

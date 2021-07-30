@@ -25940,6 +25940,13 @@
    "device": "C10G"
   }
  ],
+ "C80W": [
+  {
+   "brand": "CWOWDEFU",
+   "name": "C80W",
+   "device": "C80W"
+  }
+ ],
  "F80L": [
   {
    "brand": "CWOWDEFU",
@@ -52741,6 +52748,18 @@
    "device": "bravo"
   }
  ],
+ "100011886": [
+  {
+   "brand": "Greatwall",
+   "name": "100011886",
+   "device": "tablet"
+  },
+  {
+   "brand": "Onn (Walmart)",
+   "name": "100011886",
+   "device": "100011886"
+  }
+ ],
  "K701": [
   {
    "brand": "Greatwall",
@@ -53479,6 +53498,13 @@
    "brand": "HORIZON",
    "name": "EU",
    "device": "yeongdeungpo"
+  }
+ ],
+ "HOT Streamer": [
+  {
+   "brand": "HOT (il)",
+   "name": "HOT Streamer",
+   "device": "DV8555-KIH"
   }
  ],
  "HP 10": [
@@ -87810,6 +87836,13 @@
    "device": "KL4889B"
   }
  ],
+ "KL4889C": [
+  {
+   "brand": "Klipad",
+   "name": "KL4889C",
+   "device": "KL4889C"
+  }
+ ],
  "KL4890": [
   {
    "brand": "Klipad",
@@ -99501,6 +99534,13 @@
    "brand": "Landbyte",
    "name": "Lt6248",
    "device": "Lt6248"
+  }
+ ],
+ "Alpha 5V": [
+  {
+   "brand": "Lanix",
+   "name": "Alpha 5V",
+   "device": "Alpha_5V"
   }
  ],
  "Alpha 9V": [
@@ -120440,6 +120480,11 @@
    "brand": "Motorola",
    "name": "moto g 5G plus",
    "device": "nairo"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola one 5G",
+   "device": "nairo"
   }
  ],
  "moto g fast": [
@@ -128792,13 +128837,6 @@
    "brand": "Onn (Walmart)",
    "name": "100011885",
    "device": "100011885"
-  }
- ],
- "100011886": [
-  {
-   "brand": "Onn (Walmart)",
-   "name": "100011886",
-   "device": "100011886"
   }
  ],
  "100011886CA": [
@@ -144886,6 +144924,13 @@
    "brand": "REDLINE",
    "name": "Space_M10Pro",
    "device": "Space_M10Pro"
+  }
+ ],
+ "NEP N1": [
+  {
+   "brand": "RENSO",
+   "name": "NEP N1",
+   "device": "NEP_N1"
   }
  ],
  "R7MAX": [
@@ -178090,18 +178135,23 @@
    "device": "p611bn"
   }
  ],
+ "ST-4500": [
+  {
+   "brand": "Sumitomo Electric Industries",
+   "name": "ST-4500",
+   "device": "ST4500"
+  },
+  {
+   "brand": "Sumitomo Electric Industries",
+   "name": "ST4500",
+   "device": "ST4500"
+  }
+ ],
  "ST4173": [
   {
    "brand": "Sumitomo Electric Industries",
    "name": "ST4173",
    "device": "ST4173"
-  }
- ],
- "ST-4500": [
-  {
-   "brand": "Sumitomo Electric Industries",
-   "name": "ST4500",
-   "device": "ST4500"
   }
  ],
  "Hikari-iFrame/WDPF-703SE": [
