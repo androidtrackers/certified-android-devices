@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-07-30
+Last sync is 2021-07-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1749,6 +1749,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ZenFone 6 (ZS630KL) (WW) / 6Z (ZS630KL) (IN)|ASUS_I01WD|ZS630KL|
 |Asus|ZenFone 7 / 7 Pro (ZS670KS/ZS671KS)|ASUS_I002D|ASUS_I002D|
 |Asus|ZenFone 7 / 7 Pro (ZS670KS/ZS671KS)|ASUS_I002D|ZS670KS|
+|Asus|ZenFone 7 / 7 Pro (ZS670KS/ZS671KS)|ASUS_I002D|ZS671KS|
 |Asus|ZenFone AR|ASUS_A002_1|ASUS_A002A|
 |Asus|ZenFone AR (ZS571KL)|ASUS_A002|ASUS_A002|
 |Asus|ZenFone Ares (ZS572KL)|ASUS_A002_2|ASUS_A002|
@@ -18417,6 +18418,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia X6|DRG|Nokia X6|
 |Nokia|Nokia X7|PNX|Nokia X7|
 |Nokia|Nokia X71|TAS|Nokia X71|
+|Nokia|Nokia XR20|TTG|Nokia XR20|
+|Nokia|Nokia XR20|TTG_sprout|Nokia XR20|
 |Nomi|CORSA 3 LTE|Nomi_C070030|Nomi_C070030|
 |Nomi|Corsa 3 3G|Nomi_C070012|Nomi_C070012|
 |Nomi|I5032|Nomi_i5032|i5032|
@@ -18672,6 +18675,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 9 5G|OnePlus9|LE2113|
 |OnePlus|OnePlus 9 5G|OnePlus9|LE2115|
 |OnePlus|OnePlus 9 5G|OnePlus9TMO|LE2117|
+|OnePlus|OnePlus 9 Pro|OnePlus9Pro|LE2120|
 |OnePlus|OnePlus 9 Pro 5G|OnePlus9Pro|LE2120|
 |OnePlus|OnePlus 9 Pro 5G|OnePlus9Pro|LE2121|
 |OnePlus|OnePlus 9 Pro 5G|OnePlus9Pro|LE2123|

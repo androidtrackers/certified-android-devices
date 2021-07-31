@@ -15690,6 +15690,11 @@
    "brand": "Asus",
    "name": "ZenFone 7 / 7 Pro (ZS670KS/ZS671KS)",
    "model": "ZS670KS"
+  },
+  {
+   "brand": "Asus",
+   "name": "ZenFone 7 / 7 Pro (ZS670KS/ZS671KS)",
+   "model": "ZS671KS"
   }
  ],
  "ASUS_A002_1": [
@@ -124098,6 +124103,20 @@
    "model": "Nokia X71"
   }
  ],
+ "TTG": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia XR20",
+   "model": "Nokia XR20"
+  }
+ ],
+ "TTG_sprout": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia XR20",
+   "model": "Nokia XR20"
+  }
+ ],
  "Nomi_C070030": [
   {
    "brand": "Nomi",
@@ -125660,6 +125679,11 @@
   }
  ],
  "OnePlus9Pro": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 9 Pro",
+   "model": "LE2120"
+  },
   {
    "brand": "OnePlus",
    "name": "OnePlus 9 Pro 5G",

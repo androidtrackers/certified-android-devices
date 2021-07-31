@@ -19093,6 +19093,11 @@
    "brand": "Asus",
    "device": "ASUS_I002D",
    "model": "ZS670KS"
+  },
+  {
+   "brand": "Asus",
+   "device": "ASUS_I002D",
+   "model": "ZS671KS"
   }
  ],
  "ZenFone AR": [
@@ -124607,6 +124612,18 @@
    "model": "Nokia X71"
   }
  ],
+ "Nokia XR20": [
+  {
+   "brand": "Nokia",
+   "device": "TTG",
+   "model": "Nokia XR20"
+  },
+  {
+   "brand": "Nokia",
+   "device": "TTG_sprout",
+   "model": "Nokia XR20"
+  }
+ ],
  "CORSA 3 LTE": [
   {
    "brand": "Nomi",
@@ -126077,6 +126094,13 @@
    "brand": "OnePlus",
    "device": "OnePlus9TMO",
    "model": "LE2117"
+  }
+ ],
+ "OnePlus 9 Pro": [
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus9Pro",
+   "model": "LE2120"
   }
  ],
  "OnePlus 9 Pro 5G": [
