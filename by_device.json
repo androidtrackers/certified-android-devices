@@ -24985,6 +24985,13 @@
    "model": "J7"
   }
  ],
+ "J0080WW": [
+  {
+   "brand": "Blu",
+   "name": "J9L",
+   "model": "J9L"
+  }
+ ],
  "J0090WW": [
   {
    "brand": "Blu",
@@ -30469,6 +30476,13 @@
    "brand": "Chuwi",
    "name": "HiPadPlus_RU",
    "model": "HiPadPlus"
+  }
+ ],
+ "CH108Q": [
+  {
+   "brand": "Chuwi",
+   "name": "HiPad_Pro",
+   "model": "HiPad Pro"
   }
  ],
  "HipadX": [
@@ -66295,6 +66309,13 @@
    "brand": "Honeywell",
    "name": "CT40P-L0-D",
    "model": "CT40"
+  }
+ ],
+ "CT45": [
+  {
+   "brand": "Honeywell",
+   "name": "CT45",
+   "model": "CT45"
   }
  ],
  "CT50L0N-CS12S": [

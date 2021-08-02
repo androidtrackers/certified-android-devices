@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-08-01
+Last sync is 2021-08-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3054,6 +3054,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Grand_M2_LTE|G0050|Grand M2 LTE|
 |Blu|Grand_X|Grand_X|Grand X|
 |Blu|J7|J0000LL_ATT_MX|J7|
+|Blu|J9L|J0080WW|J9L|
 |Blu|J9L|J0090WW|J9L|
 |Blu|LIFE ONE X|BLU_LIFE_ONE_X|BLU LIFE ONE X|
 |Blu|LIFE ONE X|Life_One_X|Life One X|
@@ -3840,6 +3841,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Chuwi|HiPadPlus_EEA|HiPadPlus|HiPad Plus|
 |Chuwi|HiPadPlus_ROW|HiPadPlus|HiPadPlus|
 |Chuwi|HiPadPlus_RU|HiPadPlus|HiPadPlus|
+|Chuwi|HiPad_Pro|CH108Q|HiPad Pro|
 |Chuwi|HipadX|HipadX|HiPad X|
 |Chuwi|HipadX_eea_1|HipadX|HiPad X|
 |Chuwi|HipadX_ru|HipadX|HiPad X|
@@ -9180,6 +9182,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|CT40|CT40P-L1-F|CT40|
 |Honeywell|CT40P|CT40P-L1-D|CT40|
 |Honeywell|CT40P-L0-D|CT40P-L0-D|CT40|
+|Honeywell|CT45|CT45|CT45|
 |Honeywell|CT50|CT50L0N-CS12S|CT50|
 |Honeywell|CT50|CT50L0N-CS15S|CT50|
 |Honeywell|CT50|CT50L0N-CS16S|CT50|

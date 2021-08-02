@@ -15704,6 +15704,11 @@
    "model": "J7"
   },
   {
+   "device": "J0080WW",
+   "name": "J9L",
+   "model": "J9L"
+  },
+  {
    "device": "J0090WW",
    "name": "J9L",
    "model": "J9L"
@@ -19866,6 +19871,11 @@
    "device": "HiPadPlus",
    "name": "HiPadPlus_RU",
    "model": "HiPadPlus"
+  },
+  {
+   "device": "CH108Q",
+   "name": "HiPad_Pro",
+   "model": "HiPad Pro"
   },
   {
    "device": "HipadX",
@@ -47450,6 +47460,11 @@
    "device": "CT40P-L0-D",
    "name": "CT40P-L0-D",
    "model": "CT40"
+  },
+  {
+   "device": "CT45",
+   "name": "CT45",
+   "model": "CT45"
   },
   {
    "device": "CT50L0N-CS12S",
