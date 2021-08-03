@@ -7524,6 +7524,11 @@
    "model": "WE E2"
   },
   {
+   "brand": "Metro",
+   "device": "E2",
+   "model": "E2"
+  },
+  {
    "brand": "QMobile",
    "device": "E2_Noir",
    "model": "E2 Noir"
@@ -23719,6 +23724,13 @@
    "model": "BQ-5541L"
   }
  ],
+ "BQ-5560L": [
+  {
+   "brand": "BQru",
+   "device": "BQru-5560L",
+   "model": "BQ-5560L"
+  }
+ ],
  "BQ-5590 Spring": [
   {
    "brand": "BQru",
@@ -29032,6 +29044,13 @@
    "model": "M7L"
   }
  ],
+ "M8L": [
+  {
+   "brand": "Blu",
+   "device": "M0171WW",
+   "model": "M8L"
+  }
+ ],
  "NEO ENERGY MINI": [
   {
    "brand": "Blu",
@@ -33675,6 +33694,13 @@
    "brand": "Cellution",
    "device": "Cosmas",
    "model": "Cosmas"
+  }
+ ],
+ "IRIS": [
+  {
+   "brand": "Cellution",
+   "device": "IRIS",
+   "model": "IRIS"
   }
  ],
  "PADUA": [
@@ -40647,6 +40673,13 @@
    "brand": "DEXP",
    "device": "G550",
    "model": "G550"
+  }
+ ],
+ "G660": [
+  {
+   "brand": "DEXP",
+   "device": "G660",
+   "model": "G660"
   }
  ],
  "GL255": [
@@ -50995,6 +51028,13 @@
    "model": "f100_65u"
   }
  ],
+ "F100_EEA": [
+  {
+   "brand": "FEITIAN",
+   "device": "F100",
+   "model": "F100"
+  }
+ ],
  "LUXE 3": [
   {
    "brand": "FELUX",
@@ -58911,6 +58951,13 @@
    "model": "P10"
   }
  ],
+ "P10+": [
+  {
+   "brand": "Gplus",
+   "device": "P10_Plus",
+   "model": "Gplus P10+"
+  }
+ ],
  "S9701": [
   {
    "brand": "Gplus",
@@ -59362,6 +59409,11 @@
    "brand": "Masstel",
    "device": "Masstel_X3",
    "model": "Masstel X3"
+  },
+  {
+   "brand": "MeanIT",
+   "device": "X3",
+   "model": "X3"
   },
   {
    "brand": "Mira",
@@ -62412,6 +62464,13 @@
    "brand": "HTC",
    "device": "htc_rtxspcs",
    "model": "HTC 5G Hub"
+  }
+ ],
+ "HTC A100": [
+  {
+   "brand": "HTC",
+   "device": "HTC_A100",
+   "model": "HTC A100"
   }
  ],
  "HTC Desire 19s": [
@@ -81023,6 +81082,13 @@
    "brand": "IRA (explore more)",
    "device": "IRA801",
    "model": "IRA801"
+  }
+ ],
+ "IRA_W801": [
+  {
+   "brand": "IRA (explore more)",
+   "device": "IRA_W801",
+   "model": "IRA_W801"
   }
  ],
  "FFF-TAB10H": [
@@ -99797,6 +99863,13 @@
    "model": "Ilium M9"
   }
  ],
+ "Ilium M9V": [
+  {
+   "brand": "Lanix",
+   "device": "Ilium_M9V",
+   "model": "Ilium M9V"
+  }
+ ],
  "Ilium M9s": [
   {
    "brand": "Lanix",
@@ -104861,6 +104934,13 @@
    "brand": "Lenovo",
    "device": "J706L",
    "model": "Lenovo TB-J706L"
+  }
+ ],
+ "Lenovo Tab P12 Pro": [
+  {
+   "brand": "Lenovo",
+   "device": "Q706F",
+   "model": "Lenovo TB-Q706F"
   }
  ],
  "Lenovo Tab QT K11 Pro 5G": [
@@ -115781,6 +115861,11 @@
    "brand": "Mobiwire",
    "device": "K5P_4G",
    "model": "Kicka 5 Plus 4G"
+  },
+  {
+   "brand": "Mobiwire",
+   "device": "K5P_4G_U",
+   "model": "Kicka 5 Plus 4G"
   }
  ],
  "Kicka Zoom": [
@@ -118740,6 +118825,30 @@
    "brand": "Motorola",
    "device": "racer",
    "model": "motorola edge"
+  }
+ ],
+ "motorola edge 20 lite": [
+  {
+   "brand": "Motorola",
+   "device": "kyoto",
+   "model": "motorola"
+  },
+  {
+   "brand": "Motorola",
+   "device": "kyoto",
+   "model": "motorola edge 20 lite"
+  }
+ ],
+ "motorola edge 20 pro": [
+  {
+   "brand": "Motorola",
+   "device": "pstar",
+   "model": "moto g(100)"
+  },
+  {
+   "brand": "Motorola",
+   "device": "pstar",
+   "model": "motorola edge 20 pro"
   }
  ],
  "motorola edge plus": [
@@ -133503,6 +133612,13 @@
    "model": "Perseo TV Home 2nd Generation Ranger"
   }
  ],
+ "HIT P10a": [
+  {
+   "brand": "Philco",
+   "device": "HIT_P10a",
+   "model": "HIT P10a"
+  }
+ ],
  "HIT_P8": [
   {
    "brand": "Philco",
@@ -140763,6 +140879,13 @@
    "model": "QS31"
   }
  ],
+ "QS355": [
+  {
+   "brand": "Qtouch",
+   "device": "QS355",
+   "model": "QS355"
+  }
+ ],
  "QS701": [
   {
    "brand": "Qtouch",
@@ -145571,6 +145694,13 @@
    "model": "SSB554R"
   }
  ],
+ "Smooth 6.26 Lite": [
+  {
+   "brand": "SSmooth",
+   "device": "Smooth6_26_Lite",
+   "model": "Smooth 6.26 Lite"
+  }
+ ],
  "Smooth6_1": [
   {
    "brand": "SSmooth",
@@ -146037,6 +146167,20 @@
    "brand": "STK(Santok)",
    "device": "cayenne",
    "model": "STK Ace"
+  }
+ ],
+ "Model_S": [
+  {
+   "brand": "SUNMAX",
+   "device": "Model_S",
+   "model": "Model S"
+  }
+ ],
+ "Model_S_4G": [
+  {
+   "brand": "SUNMAX",
+   "device": "Model_S_4G",
+   "model": "Model S 4G"
   }
  ],
  "SKY 9 E201 3G": [
@@ -164852,6 +164996,13 @@
    "model": "SKY Black2"
   }
  ],
+ "SKY BlackMax": [
+  {
+   "brand": "Sky Devices",
+   "device": "Sky_BlackMax",
+   "model": "Sky BlackMax"
+  }
+ ],
  "SKY Prestige": [
   {
    "brand": "Sky Devices",
@@ -169939,6 +170090,13 @@
    "brand": "Stylo",
    "device": "BRAVE",
    "model": "BRAVE"
+  }
+ ],
+ "INKOSI": [
+  {
+   "brand": "Stylo",
+   "device": "INKOSI",
+   "model": "INKOSI"
   }
  ],
  "Ithemba": [
@@ -180724,6 +180882,13 @@
    "model": "M40Pro_ROW"
   }
  ],
+ "M40Pro_RUS": [
+  {
+   "brand": "Teclast",
+   "device": "M40Pro_RUS",
+   "model": "M40Pro_RUS"
+  }
+ ],
  "M40SE_EEA": [
   {
    "brand": "Teclast",
@@ -182324,6 +182489,13 @@
    "brand": "Tecno",
    "device": "TECNO-KF6p",
    "model": "TECNO KF6p"
+  }
+ ],
+ "TECNO SPARK 8": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KG6",
+   "model": "TECNO KG6"
   }
  ],
  "TECNO SPARK Go": [
@@ -193176,6 +193348,13 @@
    "model": "V50LTE"
   }
  ],
+ "VortexV20": [
+  {
+   "brand": "Vortex",
+   "device": "VortexV20",
+   "model": "V20"
+  }
+ ],
  "VOTO V2": [
   {
    "brand": "Voto",
@@ -193782,6 +193961,13 @@
    "brand": "Walton",
    "device": "Primo_S7",
    "model": "Primo S7"
+  }
+ ],
+ "PRIMO_ZX4": [
+  {
+   "brand": "Walton",
+   "device": "PRIMO_ZX4",
+   "model": "PRIMO ZX4"
   }
  ],
  "Primo D9": [
@@ -210708,6 +210894,13 @@
    "model": "K1"
   }
  ],
+ "iPlus P1": [
+  {
+   "brand": "iPlus",
+   "device": "iPlus_P1",
+   "model": "iPlus P1"
+  }
+ ],
  "iPlus1": [
   {
    "brand": "iPlus",
@@ -210995,6 +211188,13 @@
    "brand": "iSWAG",
    "device": "STREAM7Plus",
    "model": "STREAM7"
+  }
+ ],
+ "iSWAG ACTIV": [
+  {
+   "brand": "iSWAG",
+   "device": "iSWAG_ACTIV",
+   "model": "iSWAG ACTIV"
   }
  ],
  "iTAB-A1": [

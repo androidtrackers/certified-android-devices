@@ -18396,6 +18396,13 @@
    "device": "BQru-5541L"
   }
  ],
+ "BQ-5560L": [
+  {
+   "brand": "BQru",
+   "name": "BQ-5560L",
+   "device": "BQru-5560L"
+  }
+ ],
  "BQru_5590": [
   {
    "brand": "BQru",
@@ -23211,6 +23218,13 @@
    "device": "M0050LL"
   }
  ],
+ "M8L": [
+  {
+   "brand": "Blu",
+   "name": "M8L",
+   "device": "M0171WW"
+  }
+ ],
  "BLU NEO ENERGY MINI": [
   {
    "brand": "Blu",
@@ -27612,6 +27626,13 @@
    "brand": "Cellution",
    "name": "Cosmas",
    "device": "Cosmas"
+  }
+ ],
+ "IRIS": [
+  {
+   "brand": "Cellution",
+   "name": "IRIS",
+   "device": "IRIS"
   }
  ],
  "PADUA": [
@@ -34478,6 +34499,13 @@
    "brand": "DEXP",
    "name": "G550",
    "device": "G550"
+  }
+ ],
+ "G660": [
+  {
+   "brand": "DEXP",
+   "name": "G660",
+   "device": "G660"
   }
  ],
  "GL255": [
@@ -44524,6 +44552,11 @@
    "device": "F100"
   },
   {
+   "brand": "FEITIAN",
+   "name": "F100_EEA",
+   "device": "F100"
+  },
+  {
    "brand": "Gionee",
    "name": "F100",
    "device": "GIONEE_GBL7358"
@@ -52734,6 +52767,13 @@
    "device": "P10"
   }
  ],
+ "Gplus P10+": [
+  {
+   "brand": "Gplus",
+   "name": "P10+",
+   "device": "P10_Plus"
+  }
+ ],
  "GPLUS_S9701": [
   {
    "brand": "Gplus",
@@ -53162,6 +53202,11 @@
   },
   {
    "brand": "Lava",
+   "name": "X3",
+   "device": "X3"
+  },
+  {
+   "brand": "MeanIT",
    "name": "X3",
    "device": "X3"
   },
@@ -56624,6 +56669,13 @@
    "brand": "HTC",
    "name": "HTC 5G Hub",
    "device": "htc_rtxspcs"
+  }
+ ],
+ "HTC A100": [
+  {
+   "brand": "HTC",
+   "name": "HTC A100",
+   "device": "HTC_A100"
   }
  ],
  "2Q8L10000": [
@@ -78812,6 +78864,13 @@
    "device": "IRA801"
   }
  ],
+ "IRA_W801": [
+  {
+   "brand": "IRA (explore more)",
+   "name": "IRA_W801",
+   "device": "IRA_W801"
+  }
+ ],
  "FFF-TAB10H": [
   {
    "brand": "IRIE",
@@ -99882,6 +99941,13 @@
    "device": "Ilium_M9"
   }
  ],
+ "Ilium M9V": [
+  {
+   "brand": "Lanix",
+   "name": "Ilium M9V",
+   "device": "Ilium_M9V"
+  }
+ ],
  "Ilium M9s": [
   {
    "brand": "Lanix",
@@ -105873,6 +105939,13 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab P11 Pro",
    "device": "J706L"
+  }
+ ],
+ "Lenovo TB-Q706F": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab P12 Pro",
+   "device": "Q706F"
   }
  ],
  "Lenovo TB-J607F": [
@@ -113579,6 +113652,18 @@
    "device": "Mengaltab_Echague_anzatech"
   }
  ],
+ "E2": [
+  {
+   "brand": "Metro",
+   "name": "E2",
+   "device": "E2"
+  },
+  {
+   "brand": "VerD",
+   "name": "E2",
+   "device": "E2"
+  }
+ ],
  "Pro5": [
   {
    "brand": "Metro",
@@ -117333,6 +117418,11 @@
    "brand": "Mobiwire",
    "name": "Kicka 5 Plus 4G",
    "device": "K5P_4G"
+  },
+  {
+   "brand": "Mobiwire",
+   "name": "Kicka 5 Plus 4G",
+   "device": "K5P_4G_U"
   }
  ],
  "Kicka Zoom": [
@@ -120617,6 +120707,11 @@
    "brand": "Motorola",
    "name": "moto g(100)",
    "device": "nio"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 20 pro",
+   "device": "pstar"
   }
  ],
  "moto g(20)": [
@@ -120937,6 +121032,27 @@
    "brand": "Motorola",
    "name": "motorola one zoom",
    "device": "parker"
+  }
+ ],
+ "motorola": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 20 lite",
+   "device": "kyoto"
+  }
+ ],
+ "motorola edge 20 lite": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 20 lite",
+   "device": "kyoto"
+  }
+ ],
+ "motorola edge 20 pro": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 20 pro",
+   "device": "pstar"
   }
  ],
  "motorola edge plus": [
@@ -136344,6 +136460,13 @@
    "device": "DV8219"
   }
  ],
+ "HIT P10a": [
+  {
+   "brand": "Philco",
+   "name": "HIT P10a",
+   "device": "HIT_P10a"
+  }
+ ],
  "HIT P8": [
   {
    "brand": "Philco",
@@ -143772,6 +143895,13 @@
    "device": "QS31"
   }
  ],
+ "QS355": [
+  {
+   "brand": "Qtouch",
+   "name": "QS355",
+   "device": "QS355"
+  }
+ ],
  "QS701": [
   {
    "brand": "Qtouch",
@@ -148701,6 +148831,13 @@
    "device": "SSB554R"
   }
  ],
+ "Smooth 6.26 Lite": [
+  {
+   "brand": "SSmooth",
+   "name": "Smooth 6.26 Lite",
+   "device": "Smooth6_26_Lite"
+  }
+ ],
  "Smooth 6.1": [
   {
    "brand": "SSmooth",
@@ -149185,6 +149322,20 @@
    "brand": "STK(Santok)",
    "name": "cayenne",
    "device": "cayenne"
+  }
+ ],
+ "Model S": [
+  {
+   "brand": "SUNMAX",
+   "name": "Model_S",
+   "device": "Model_S"
+  }
+ ],
+ "Model S 4G": [
+  {
+   "brand": "SUNMAX",
+   "name": "Model_S_4G",
+   "device": "Model_S_4G"
   }
  ],
  "SKY 9 E201 3G SS9237MG": [
@@ -171980,6 +172131,13 @@
    "device": "Sky_Black2"
   }
  ],
+ "Sky BlackMax": [
+  {
+   "brand": "Sky Devices",
+   "name": "SKY BlackMax",
+   "device": "Sky_BlackMax"
+  }
+ ],
  "SKY Prestige": [
   {
    "brand": "Sky Devices",
@@ -177641,6 +177799,13 @@
    "brand": "Stylo",
    "name": "BRAVE",
    "device": "BRAVE"
+  }
+ ],
+ "INKOSI": [
+  {
+   "brand": "Stylo",
+   "name": "INKOSI",
+   "device": "INKOSI"
   }
  ],
  "Ithemba": [
@@ -190596,6 +190761,13 @@
    "device": "M40Pro_ROW"
   }
  ],
+ "M40Pro_RUS": [
+  {
+   "brand": "Teclast",
+   "name": "M40Pro_RUS",
+   "device": "M40Pro_RUS"
+  }
+ ],
  "M40SE_EEA": [
   {
    "brand": "Teclast",
@@ -192437,6 +192609,13 @@
    "brand": "Tecno",
    "name": "TECNO SPARK 7P",
    "device": "TECNO-KF7j"
+  }
+ ],
+ "TECNO KG6": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 8",
+   "device": "TECNO-KG6"
   }
  ],
  "TECNO KC1": [
@@ -197802,13 +197981,6 @@
    "brand": "Veon",
    "name": "VEON",
    "device": "bangbae"
-  }
- ],
- "E2": [
-  {
-   "brand": "VerD",
-   "name": "E2",
-   "device": "E2"
   }
  ],
  "Stream TV": [
@@ -203448,6 +203620,13 @@
    "device": "V50LTE"
   }
  ],
+ "V20": [
+  {
+   "brand": "Vortex",
+   "name": "VortexV20",
+   "device": "VortexV20"
+  }
+ ],
  "VOTO V2": [
   {
    "brand": "Voto",
@@ -204043,6 +204222,13 @@
    "brand": "Walton",
    "name": "PRIMO_S7",
    "device": "Primo_S7"
+  }
+ ],
+ "PRIMO ZX4": [
+  {
+   "brand": "Walton",
+   "name": "PRIMO_ZX4",
+   "device": "PRIMO_ZX4"
   }
  ],
  "Primo D9": [
@@ -223225,6 +223411,13 @@
    "device": "NC1000"
   }
  ],
+ "iPlus P1": [
+  {
+   "brand": "iPlus",
+   "name": "iPlus P1",
+   "device": "iPlus_P1"
+  }
+ ],
  "iPlus1": [
   {
    "brand": "iPlus",
@@ -223520,6 +223713,13 @@
    "brand": "iSWAG",
    "name": "STREAM7Plus",
    "device": "STREAM7Plus"
+  }
+ ],
+ "iSWAG ACTIV": [
+  {
+   "brand": "iSWAG",
+   "name": "iSWAG ACTIV",
+   "device": "iSWAG_ACTIV"
   }
  ],
  "iTAB-A1": [
