@@ -755,6 +755,11 @@
    "device": "IDEA",
    "name": "IDEA",
    "model": "IDEA"
+  },
+  {
+   "device": "NEO",
+   "name": "NEO",
+   "model": "NEO"
   }
  ],
  "AT&T": [
@@ -982,6 +987,11 @@
    "device": "AWOW_CreaPad_1003_EEA",
    "name": "AWOW_CreaPad_1003",
    "model": "AWOW_CreaPad_1003_EEA"
+  },
+  {
+   "device": "CreaPad_1002A",
+   "name": "CreaPad_1002A",
+   "model": "CreaPad_1002A"
   },
   {
    "device": "CreaPad_1005",
@@ -13529,6 +13539,11 @@
  ],
  "Benten": [
   {
+   "device": "Benten_T20",
+   "name": "Benten_T20",
+   "model": "Benten_T20"
+  },
+  {
    "device": "Benten_T10",
    "name": "T10",
    "model": "T10"
@@ -14748,6 +14763,11 @@
    "device": "Tab8_RU",
    "name": "Tab8_RU",
    "model": "Tab8_RU"
+  },
+  {
+   "device": "Tab8_RUS",
+   "name": "Tab8_RUS",
+   "model": "Tab 8"
   },
   {
    "device": "Tab9_EEA",
@@ -18745,6 +18765,11 @@
    "device": "S3",
    "name": "S3",
    "model": "S3"
+  },
+  {
+   "device": "S4",
+   "name": "S4",
+   "model": "S4"
   }
  ],
  "Cello": [
@@ -21407,6 +21432,11 @@
   },
   {
    "device": "conquest-S20",
+   "name": "conquest-S20",
+   "model": "conquest-S20"
+  },
+  {
+   "device": "conquest-S20",
    "name": "conquest-S20_RU",
    "model": "conquest-S20"
   },
@@ -21419,6 +21449,11 @@
    "device": "conquest_S16",
    "name": "conquest_S16_RU",
    "model": "conquest_S16"
+  },
+  {
+   "device": "conquest_S20",
+   "name": "conquest_S20_EEA",
+   "model": "conquest_S20"
   }
  ],
  "Contex": [
@@ -21517,6 +21552,11 @@
    "device": "V80",
    "name": "V80",
    "model": "V80"
+  },
+  {
+   "device": "V8X",
+   "name": "V8X",
+   "model": "V8X"
   },
   {
    "device": "CONTIXO-V9",
@@ -27140,6 +27180,11 @@
    "model": "N30E"
   },
   {
+   "device": "N40Pro",
+   "name": "N40Pro",
+   "model": "N40Pro"
+  },
+  {
    "device": "S30",
    "name": "S30",
    "model": "S30"
@@ -27153,6 +27198,11 @@
    "device": "S35Pro",
    "name": "S35Pro",
    "model": "S35Pro"
+  },
+  {
+   "device": "S35",
+   "name": "S35_RU",
+   "model": "S35"
   },
   {
    "device": "S40",
@@ -27292,6 +27342,11 @@
   {
    "device": "S97Pro",
    "name": "S97Pro",
+   "model": "S97Pro"
+  },
+  {
+   "device": "S97Pro",
+   "name": "S97Pro_RU",
    "model": "S97Pro"
   },
   {
@@ -30995,6 +31050,11 @@
    "model": "M20 S"
   },
   {
+   "device": "P17",
+   "name": "P17",
+   "model": "P17"
+  },
+  {
    "device": "V4",
    "name": "V4",
    "model": "EVERTEK V4"
@@ -34682,6 +34742,11 @@
    "model": "E101GCM"
   },
   {
+   "device": "E108GC",
+   "name": "E108GC",
+   "model": "E108GC"
+  },
+  {
    "device": "ET103G",
    "name": "ET103G",
    "model": "ET103G"
@@ -37893,6 +37958,11 @@
    "model": "P9_EEA"
   },
   {
+   "device": "PS30",
+   "name": "PS30",
+   "model": "S30"
+  },
+  {
    "device": "T2000",
    "name": "T2000",
    "model": "T2000"
@@ -37972,6 +38042,16 @@
    "device": "M6",
    "name": "HOMII M6",
    "model": "M6"
+  },
+  {
+   "device": "XBOOK",
+   "name": "XBOOK",
+   "model": "XBOOK"
+  },
+  {
+   "device": "XBOOK_PRO",
+   "name": "XBOOK_PRO",
+   "model": "XBOOK_PRO"
   }
  ],
  "HOMTOM": [
@@ -43367,6 +43447,11 @@
    "device": "A26",
    "name": "A26",
    "model": "A26"
+  },
+  {
+   "device": "Fun5",
+   "name": "Fun5",
+   "model": "Fun5"
   },
   {
    "device": "HIKING_A18",
@@ -61953,6 +62038,11 @@
    "device": "J101",
    "name": "J101",
    "model": "J101"
+  },
+  {
+   "device": "J101-EEA",
+   "name": "J101-EEA",
+   "model": "J101-EEA"
   }
  ],
  "JIZHAO": [
@@ -63501,6 +63591,11 @@
    "model": "K901"
   },
   {
+   "device": "K901_2",
+   "name": "K901",
+   "model": "K901"
+  },
+  {
    "device": "W660",
    "name": "KAICOM W660",
    "model": "W660"
@@ -64503,6 +64598,11 @@
    "device": "KL601",
    "name": "KL601",
    "model": "KL601"
+  },
+  {
+   "device": "KL602",
+   "name": "KL602",
+   "model": "KL602"
   },
   {
    "device": "KL6889B",
@@ -82447,6 +82547,11 @@
    "model": "Masstel_Tab_101"
   },
   {
+   "device": "Masstel_Tab_104",
+   "name": "Masstel_Tab_104",
+   "model": "Masstel_Tab_104"
+  },
+  {
    "device": "Masstel_X1",
    "name": "Masstel_X1",
    "model": "Masstel X1"
@@ -82884,6 +82989,11 @@
    "device": "SSB1000T",
    "name": "SSB1000T",
    "model": "SSB1000T"
+  },
+  {
+   "device": "SSB1001T",
+   "name": "SSB1001T",
+   "model": "SSB1001T"
   }
  ],
  "MeanIT": [
@@ -87265,6 +87375,11 @@
    "device": "MD-04P",
    "name": "MD-04P",
    "model": "MD-04P"
+  },
+  {
+   "device": "MD-05P",
+   "name": "MD-05P",
+   "model": "MD-05P"
   },
   {
    "device": "MP1",
@@ -95556,6 +95671,13 @@
    "model": "PI Plus"
   }
  ],
+ "OLAX": [
+  {
+   "device": "Q101_EEA",
+   "name": "Q101_EEA",
+   "model": "Q101_EEA"
+  }
+ ],
  "ONDA TLC": [
   {
    "device": "T7_PRO",
@@ -99621,6 +99743,11 @@
    "device": "WP10",
    "name": "WP10",
    "model": "WP10"
+  },
+  {
+   "device": "WP15",
+   "name": "WP15",
+   "model": "WP15"
   },
   {
    "device": "WP2",
@@ -142516,6 +142643,11 @@
    "model": "TIM_BOX"
   },
   {
+   "device": "m393gena_tim",
+   "name": "TIMVISIONBOX",
+   "model": "TIMVISIONBOX"
+  },
+  {
    "device": "dwt765ti",
    "name": "TIMvision",
    "model": "skipper"
@@ -142934,6 +143066,16 @@
    "device": "Q88C",
    "name": "Q88C",
    "model": "Q88C"
+  },
+  {
+   "device": "TUFEN_701_EEA",
+   "name": "TUFEN_701_EEA",
+   "model": "TUFEN_701_EEA"
+  },
+  {
+   "device": "TUFEN_804",
+   "name": "TUFEN_804",
+   "model": "TUFEN_804"
   }
  ],
  "TUFF": [
@@ -143085,6 +143227,13 @@
    "device": "Tabletop_T2",
    "name": "Tabletop_T2",
    "model": "Tabletop_T2"
+  }
+ ],
+ "Tagtech": [
+  {
+   "device": "TAGPhone",
+   "name": "TAGPhone",
+   "model": "TAGPhone"
   }
  ],
  "Taipeinet": [
@@ -146294,6 +146443,11 @@
   }
  ],
  "TomStar": [
+  {
+   "device": "A1000",
+   "name": "A1000",
+   "model": "A1000"
+  },
   {
    "device": "A1020",
    "name": "A1020",
@@ -157205,6 +157359,11 @@
    "device": "Hope7_Max",
    "name": "Hope7_Max",
    "model": "Hope7 Max"
+  },
+  {
+   "device": "Hope7_Pro",
+   "name": "Hope7_Pro",
+   "model": "Hope7_Pro"
   },
   {
    "device": "Hope8_LTE",
