@@ -11999,6 +11999,13 @@
    "model": "Bmobile X11"
   }
  ],
+ "BOTECH": [
+  {
+   "device": "HND",
+   "name": "WZONE",
+   "model": "WZONE"
+  }
+ ],
  "BPL": [
   {
    "device": "ikebukuro",
@@ -15302,6 +15309,11 @@
    "device": "C0070WW",
    "name": "C5L 2020",
    "model": "C5L 2020"
+  },
+  {
+   "device": "C0100TT",
+   "name": "C5L 2021",
+   "model": "C5L 2021"
   },
   {
    "device": "C0070WW",
@@ -47145,6 +47157,11 @@
  ],
  "Homatics": [
   {
+   "device": "ICN",
+   "name": "Dongle Q",
+   "model": "Dongle Q"
+  },
+  {
    "device": "HND",
    "name": "SEI600HM",
    "model": "Box Q"
@@ -56848,6 +56865,11 @@
    "model": "L604"
   },
   {
+   "device": "L610",
+   "name": "L610",
+   "model": "L610"
+  },
+  {
    "device": "L622",
    "name": "L622",
    "model": "L622"
@@ -58481,6 +58503,11 @@
    "device": "Infinix-X687B",
    "name": "Infinix ZERO 8i",
    "model": "Infinix X687B"
+  },
+  {
+   "device": "Infinix-X6810",
+   "name": "Infinix ZERO X NEO",
+   "model": "Infinix X6810"
   },
   {
    "device": "Infinix-X687",
@@ -105149,6 +105176,11 @@
    "model": "S85"
   },
   {
+   "device": "S86",
+   "name": "S86",
+   "model": "S86"
+  },
+  {
    "device": "T1",
    "name": "T1",
    "model": "T1"
@@ -107881,6 +107913,23 @@
    "device": "X626_4G",
    "name": "X626_4G",
    "model": "X626_4G"
+  }
+ ],
+ "QUEST": [
+  {
+   "device": "Q8_Tablet",
+   "name": "Q8_Tablet",
+   "model": "Q8_Tablet"
+  },
+  {
+   "device": "RAPTOR",
+   "name": "RAPTOR",
+   "model": "RAPTOR"
+  },
+  {
+   "device": "Vibe",
+   "name": "Vibe",
+   "model": "Vibe"
   }
  ],
  "Qilive": [
@@ -113645,11 +113694,6 @@
   },
   {
    "device": "a22x",
-   "name": "Galaxy A22 5G",
-   "model": "SM-A226L"
-  },
-  {
-   "device": "a22x",
    "name": "Galaxy A22s 5G",
    "model": "SM-A226B"
   },
@@ -115382,6 +115426,11 @@
    "device": "GT-I8530",
    "name": "Galaxy Beam",
    "model": "GT-I8530"
+  },
+  {
+   "device": "a22x",
+   "name": "Galaxy Buddy",
+   "model": "SM-A226L"
   },
   {
    "device": "c5ltechn",
@@ -130427,6 +130476,11 @@
    "model": "SOG03"
   },
   {
+   "device": "XQ-BC52",
+   "name": "Xperia 1 III",
+   "model": "XQ-BC52"
+  },
+  {
    "device": "XQ-BC72",
    "name": "Xperia 1 III",
    "model": "XQ-BC72"
@@ -144100,6 +144154,11 @@
    "model": "TECNO CG8"
   },
   {
+   "device": "TECNO-CG8h",
+   "name": "CAMON 17 Pro",
+   "model": "TECNO CG8h"
+  },
+  {
    "device": "TECNO-CG7",
    "name": "CAMON 17P",
    "model": "TECNO CG7"
@@ -156459,6 +156518,11 @@
    "model": "W_P200CM"
   },
   {
+   "device": "U316AT",
+   "name": "Wiko Life 3",
+   "model": "Wiko U316AT"
+  },
+  {
    "device": "U614AS",
    "name": "Wiko Ride 3",
    "model": "Wiko U614AS"
@@ -158999,6 +159063,13 @@
    "device": "Xpad",
    "name": "Xpad",
    "model": "Xpad_M9_3G"
+  }
+ ],
+ "YAYGO": [
+  {
+   "device": "HND",
+   "name": "SEI600YAY",
+   "model": "ATV-101"
   }
  ],
  "YELLYOUTH": [

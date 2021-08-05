@@ -17524,6 +17524,11 @@
    "brand": "DishTV-NZ",
    "name": "SV11",
    "model": "SV11"
+  },
+  {
+   "brand": "Homatics",
+   "name": "Dongle Q",
+   "model": "Dongle Q"
   }
  ],
  "A4": [
@@ -19844,6 +19849,38 @@
    "brand": "BMobile",
    "name": "X11",
    "model": "Bmobile X11"
+  }
+ ],
+ "HND": [
+  {
+   "brand": "BOTECH",
+   "name": "WZONE",
+   "model": "WZONE"
+  },
+  {
+   "brand": "GOtv",
+   "name": "SEI600GO",
+   "model": "SEI600GO"
+  },
+  {
+   "brand": "Homatics",
+   "name": "SEI600HM",
+   "model": "Box Q"
+  },
+  {
+   "brand": "Nokia",
+   "name": "Nokia Steaming Box 8000",
+   "model": "Nokia Streaming Box 8000"
+  },
+  {
+   "brand": "YAYGO",
+   "name": "SEI600YAY",
+   "model": "ATV-101"
+  },
+  {
+   "brand": "YOUIN",
+   "name": "SEI600EN",
+   "model": "YOU-BOX"
   }
  ],
  "BQru-5060": [
@@ -24460,6 +24497,13 @@
    "brand": "Blu",
    "name": "C5L_2020",
    "model": "C5L 2020"
+  }
+ ],
+ "C0100TT": [
+  {
+   "brand": "Blu",
+   "name": "C5L 2021",
+   "model": "C5L 2021"
   }
  ],
  "C0040TT": [
@@ -41072,6 +41116,11 @@
    "brand": "Doogee",
    "name": "S86",
    "model": "S86"
+  },
+  {
+   "brand": "Premio",
+   "name": "S86",
+   "model": "S86"
   }
  ],
  "S86Pro": [
@@ -51042,28 +51091,6 @@
    "brand": "GOODTEL",
    "name": "G6_EEA",
    "model": "G6"
-  }
- ],
- "HND": [
-  {
-   "brand": "GOtv",
-   "name": "SEI600GO",
-   "model": "SEI600GO"
-  },
-  {
-   "brand": "Homatics",
-   "name": "SEI600HM",
-   "model": "Box Q"
-  },
-  {
-   "brand": "Nokia",
-   "name": "Nokia Steaming Box 8000",
-   "model": "Nokia Streaming Box 8000"
-  },
-  {
-   "brand": "YOUIN",
-   "name": "SEI600EN",
-   "model": "YOU-BOX"
   }
  ],
  "YC-102D": [
@@ -76470,6 +76497,11 @@
    "brand": "Hurricane",
    "name": "Vibe",
    "model": "VIBE"
+  },
+  {
+   "brand": "QUEST",
+   "name": "Vibe",
+   "model": "Vibe"
   }
  ],
  "Volt_Plus": [
@@ -77172,6 +77204,13 @@
    "brand": "NYX Mobile",
    "name": "L604",
    "model": "L604"
+  }
+ ],
+ "L610": [
+  {
+   "brand": "Hyundai",
+   "name": "L610",
+   "model": "L610"
   }
  ],
  "L622": [
@@ -79295,6 +79334,13 @@
    "brand": "Infinix",
    "name": "Infinix ZERO 8i",
    "model": "Infinix X687B"
+  }
+ ],
+ "Infinix-X6810": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix ZERO X NEO",
+   "model": "Infinix X6810"
   }
  ],
  "Infinix-X687": [
@@ -140377,6 +140423,20 @@
    "model": "X626_4G"
   }
  ],
+ "Q8_Tablet": [
+  {
+   "brand": "QUEST",
+   "name": "Q8_Tablet",
+   "model": "Q8_Tablet"
+  }
+ ],
+ "RAPTOR": [
+  {
+   "brand": "QUEST",
+   "name": "RAPTOR",
+   "model": "RAPTOR"
+  }
+ ],
  "Q3778": [
   {
    "brand": "Qilive",
@@ -147201,13 +147261,13 @@
   },
   {
    "brand": "Samsung",
-   "name": "Galaxy A22 5G",
-   "model": "SM-A226L"
+   "name": "Galaxy A22s 5G",
+   "model": "SM-A226B"
   },
   {
    "brand": "Samsung",
-   "name": "Galaxy A22s 5G",
-   "model": "SM-A226B"
+   "name": "Galaxy Buddy",
+   "model": "SM-A226L"
   }
  ],
  "a33g": [
@@ -168476,6 +168536,13 @@
    "model": "SOG03"
   }
  ],
+ "XQ-BC52": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 1 III",
+   "model": "XQ-BC52"
+  }
+ ],
  "XQ-BC72": [
   {
    "brand": "Sony",
@@ -183791,6 +183858,13 @@
    "model": "TECNO CG8"
   }
  ],
+ "TECNO-CG8h": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 17 Pro",
+   "model": "TECNO CG8h"
+  }
+ ],
  "TECNO-CG7": [
   {
    "brand": "Tecno",
@@ -198384,6 +198458,13 @@
    "brand": "Wiko",
    "name": "W_P200CM",
    "model": "W_P200CM"
+  }
+ ],
+ "U316AT": [
+  {
+   "brand": "Wiko",
+   "name": "Wiko Life 3",
+   "model": "Wiko U316AT"
   }
  ],
  "U614AS": [

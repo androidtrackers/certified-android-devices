@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-08-04
+Last sync is 2021-08-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2333,6 +2333,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|T70|Bmobile_T70|Bmobile_T70|
 |BMobile|X10|Bmobile_X10_MV03|X10|
 |BMobile|X11|Bmobile_X11|Bmobile X11|
+|BOTECH|WZONE|HND|WZONE|
 |BPL|A4300|ikebukuro|AI PONT|
 |BPL|A4310|samseong|AI PONT|
 |BQru|5060|BQru-5060|BQru-5060|
@@ -2974,6 +2975,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|C5L|C0050|C5L|
 |Blu|C5L|C0051LL|C5L|
 |Blu|C5L 2020|C0070WW|C5L 2020|
+|Blu|C5L 2021|C0100TT|C5L 2021|
 |Blu|C5L_2020|C0070WW|C5L 2020|
 |Blu|C5L_Plus|C0040TT|C5L Plus|
 |Blu|C5X|C0000UU|C5X|
@@ -9121,6 +9123,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hoffmann|X-Go|X-Go|X-Go|
 |Hoffmann|X-Ultra|X_Ultra|X_Ultra|
 |Hoffmann|X_Prime|X_Prime|HOFFMANN X-Prime|
+|Homatics|Dongle Q|ICN|Dongle Q|
 |Homatics|SEI600HM|HND|Box Q|
 |Home Elite|Android TV|R1|ATV R1|
 |Homeplustv|Homeplus_ATV HCA-6010|HCA6010|HCA-6010|
@@ -11054,6 +11057,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|L575|L575|L575|
 |Hyundai|L601F|L601F|L601F|
 |Hyundai|L604|L604|L604|
+|Hyundai|L610|L610|L610|
 |Hyundai|L622|L622|L622|
 |Hyundai|Seoul 9|Seoul_9|Seoul 9|
 |Hyundai|Seoul X|Seoul_X|Seoul X|
@@ -11361,6 +11365,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix X571|Infinix-X571|Infinix X571|
 |Infinix|Infinix X572|Infinix-X572|Infinix X572|
 |Infinix|Infinix ZERO 8i|Infinix-X687B|Infinix X687B|
+|Infinix|Infinix ZERO X NEO|Infinix-X6810|Infinix X6810|
 |Infinix|Infinix ZERO8|Infinix-X687|Infinix X687|
 |Infinix|NOTE 10 Pro|Infinix-X695|Infinix X695|
 |Infinix|NOTE 10 Pro|Infinix-X695C|Infinix X695C|
@@ -20463,6 +20468,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Premio|S82|S82|S82|
 |Premio|S83|S83|S83|
 |Premio|S85|S85|S85|
+|Premio|S86|S86|S86|
 |Premio|T1|T1|T1|
 |Premio|X1|186HS2080531|186HS2080531|
 |Premio|X80|X80|X80|
@@ -20999,6 +21005,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |QUBO|THOR|THOR|THOR|
 |QUBO|X626|X626|X626|
 |QUBO|X626_4G|X626_4G|X626_4G|
+|QUEST|Q8_Tablet|Q8_Tablet|Q8_Tablet|
+|QUEST|RAPTOR|RAPTOR|RAPTOR|
+|QUEST|Vibe|Vibe|Vibe|
 |Qilive|Europe|tamachi|Qilive FHD Android TV|
 |Qilive|Europe|yeongdeungpo|Qilive UHD Android TV|
 |Qilive|Q.3778|Q3778|Q.3778|
@@ -22104,7 +22113,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A22|a22|SM-A225F|
 |Samsung|Galaxy A22|a22|SM-A225M|
 |Samsung|Galaxy A22 5G|a22x|SM-A226B|
-|Samsung|Galaxy A22 5G|a22x|SM-A226L|
 |Samsung|Galaxy A22s 5G|a22x|SM-A226B|
 |Samsung|Galaxy A3|a33g|SM-A300H|
 |Samsung|Galaxy A3|a3lte|SM-A300F|
@@ -22452,6 +22460,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Axiom|infiniteusc|SCH-R830|
 |Samsung|Galaxy Beam|GT-I8250|GT-I8250|
 |Samsung|Galaxy Beam|GT-I8530|GT-I8530|
+|Samsung|Galaxy Buddy|a22x|SM-A226L|
 |Samsung|Galaxy C5|c5ltechn|SM-C5000|
 |Samsung|Galaxy C5|c5ltechn|SM-C500X|
 |Samsung|Galaxy C5|c5pltechn|SM-C5000|
@@ -25431,6 +25440,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 1 III|A101SO|A101SO|
 |Sony|Xperia 1 III|SO-51B|SO-51B|
 |Sony|Xperia 1 III|SOG03|SOG03|
+|Sony|Xperia 1 III|XQ-BC52|XQ-BC52|
 |Sony|Xperia 1 III|XQ-BC72|XQ-BC72|
 |Sony|Xperia 1 Professional Edition|J9150|J9150|
 |Sony|Xperia 10|I3113|I3113|
@@ -28112,6 +28122,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|CAMON 17|TECNO-CG6|TECNO CG6|
 |Tecno|CAMON 17|TECNO-CG6j|TECNO CG6j|
 |Tecno|CAMON 17 Pro|TECNO-CG8|TECNO CG8|
+|Tecno|CAMON 17 Pro|TECNO-CG8h|TECNO CG8h|
 |Tecno|CAMON 17P|TECNO-CG7|TECNO CG7|
 |Tecno|CAMON 17P|TECNO-CG7n|TECNO CG7n|
 |Tecno|CAMON C7|TECNO-C7|TECNO-C7|
@@ -30493,6 +30504,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|W_P200|W_P200|W_P200|
 |Wiko|W_P200CM|W_P200CM|View Max|
 |Wiko|W_P200CM|W_P200CM|W_P200CM|
+|Wiko|Wiko Life 3|U316AT|Wiko U316AT|
 |Wiko|Wiko Ride 3|U614AS|Wiko U614AS|
 |Wiko|Y50|W-K130|W-K130-BYT|
 |Wiko|Y50|W-K130|W-K130-EEA|
@@ -30985,6 +30997,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xtreme|XTREME 4K TV|SW4H|XTREME 4K TV|
 |Xtreme|XTREME TV|shinjuku|XTREME TV|
 |Xwave|Xpad|Xpad|Xpad_M9_3G|
+|YAYGO|SEI600YAY|HND|ATV-101|
 |YELLYOUTH|TAB_101|TAB_101|TAB_101|
 |YETRUE|yetruepad21|yetruepad21_EEA|yetruepad21|
 |YOSATOO|KIDS07A|KIDS07A|KIDS07A|
