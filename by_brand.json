@@ -11824,6 +11824,11 @@
    "model": "B60Pro_MV03"
   },
   {
+   "device": "Bmobile_BL50_CL",
+   "name": "BL50",
+   "model": "BL50_CL"
+  },
+  {
    "device": "Bmobile_BL50_TG05",
    "name": "BL50",
    "model": "BL50"
@@ -16231,6 +16236,16 @@
    "model": "T5 Plus"
   },
   {
+   "device": "T0080TT",
+   "name": "T6",
+   "model": "T6"
+  },
+  {
+   "device": "T0090TT",
+   "name": "T6",
+   "model": "T6"
+  },
+  {
    "device": "BLU_TOUCHBOOK_M7",
    "name": "TOUCHBOOK M7",
    "model": "BLU TOUCHBOOK M7"
@@ -19208,6 +19223,11 @@
    "device": "Aqua_S9_Max",
    "name": "Aqua S9 Max",
    "model": "Aqua S9 Max"
+  },
+  {
+   "device": "A950",
+   "name": "Aqua Tab Deluxe",
+   "model": "A950"
   },
   {
    "device": "Aqua_Infinity",
@@ -167537,11 +167557,6 @@
    "model": "MC3300x"
   },
   {
-   "device": "MC3300xC",
-   "name": "MC3300x",
-   "model": "MC3300x"
-  },
-  {
    "device": "MC33",
    "name": "MC330K",
    "model": "MC33"
@@ -167710,6 +167725,16 @@
    "device": "MC3300xC",
    "name": "Zebra Technologies MC3300ax",
    "model": "MC3300ax"
+  },
+  {
+   "device": "MC3300x",
+   "name": "Zebra Technologies MC3300x",
+   "model": "MC3300x"
+  },
+  {
+   "device": "MC3300xC",
+   "name": "Zebra Technologies MC3300x",
+   "model": "MC3300x"
   },
   {
    "device": "MC3300x",

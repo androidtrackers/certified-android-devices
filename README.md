@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-08-05
+Last sync is 2021-08-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2298,6 +2298,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|B55|B55|B55|
 |BMobile|B60Pro_DG|Bmobile_B60Pro_DG|B60Pro_DG|
 |BMobile|B60Pro_MV03|B60Pro_MV03|B60Pro_MV03|
+|BMobile|BL50|Bmobile_BL50_CL|BL50_CL|
 |BMobile|BL50|Bmobile_BL50_TG05|BL50|
 |BMobile|BL50|Bmobile_BL50_TG06|BL50|
 |BMobile|BL50|Bmobile_BL50_TG07|BL50|
@@ -3159,6 +3160,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|T5|T0050TT|T5|
 |Blu|T5 Plus|T0060TT|T5 Plus|
 |Blu|T5 Plus|T0070TT_TIGO|T5 Plus|
+|Blu|T6|T0080TT|T6|
+|Blu|T6|T0090TT|T6|
 |Blu|TOUCHBOOK M7|BLU_TOUCHBOOK_M7|BLU TOUCHBOOK M7|
 |Blu|Tank Xtreme 4.0|Tank_Xtreme_4_0|Tank Xtreme 4.0|
 |Blu|Tank Xtreme 5.0|Tank_Xtreme_5_0|Tank Xtreme 5.0|
@@ -3710,6 +3713,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cherry Mobile|Aqua S9|Aqua_S9|Aqua S9|
 |Cherry Mobile|Aqua S9 Lite|X1020|Aqua S9 lite|
 |Cherry Mobile|Aqua S9 Max|Aqua_S9_Max|Aqua S9 Max|
+|Cherry Mobile|Aqua Tab Deluxe|A950|A950|
 |Cherry Mobile|Aqua_Infinity|Aqua_Infinity|Aqua_Infinity|
 |Cherry Mobile|Cherry S8 Deluxe|Flare_S8_Deluxe|Flare_S8_Deluxe|
 |Cherry Mobile|Cherry W900 LTE|al7|W900 LTE|
@@ -32675,7 +32679,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|MC18|MC18|MC18N0|
 |Zebra|MC20|MC2200|MC20|
 |Zebra|MC3300x|MC3300x|MC3300x|
-|Zebra|MC3300x|MC3300xC|MC3300x|
 |Zebra|MC330K|MC33|MC33|
 |Zebra|MC330K|MC33C|MC33|
 |Zebra|MC36|cardhu|MC36|
@@ -32710,6 +32713,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|Zebra Technologies MC2200|MC2200|MC2200|
 |Zebra|Zebra Technologies MC2700|MC2700|MC2700|
 |Zebra|Zebra Technologies MC3300ax|MC3300xC|MC3300ax|
+|Zebra|Zebra Technologies MC3300x|MC3300x|MC3300x|
+|Zebra|Zebra Technologies MC3300x|MC3300xC|MC3300x|
 |Zebra|Zebra Technologies MC3300xN|MC3300x|MC3300x|
 |Zebra|Zebra Technologies MC3300xNS|MC3300xC|MC3300x|
 |Zebra|Zebra Technologies MC9300|MC93|MC93|

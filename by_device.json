@@ -19643,6 +19643,13 @@
    "model": "B60Pro_MV03"
   }
  ],
+ "Bmobile_BL50_CL": [
+  {
+   "brand": "BMobile",
+   "name": "BL50",
+   "model": "BL50_CL"
+  }
+ ],
  "Bmobile_BL50_TG05": [
   {
    "brand": "BMobile",
@@ -25771,6 +25778,20 @@
    "model": "T5 Plus"
   }
  ],
+ "T0080TT": [
+  {
+   "brand": "Blu",
+   "name": "T6",
+   "model": "T6"
+  }
+ ],
+ "T0090TT": [
+  {
+   "brand": "Blu",
+   "name": "T6",
+   "model": "T6"
+  }
+ ],
  "BLU_TOUCHBOOK_M7": [
   {
    "brand": "Blu",
@@ -29572,6 +29593,13 @@
    "brand": "Cherry Mobile",
    "name": "Aqua S9 Max",
    "model": "Aqua S9 Max"
+  }
+ ],
+ "A950": [
+  {
+   "brand": "Cherry Mobile",
+   "name": "Aqua Tab Deluxe",
+   "model": "A950"
   }
  ],
  "Aqua_Infinity": [
@@ -210586,24 +210614,12 @@
   },
   {
    "brand": "Zebra",
+   "name": "Zebra Technologies MC3300x",
+   "model": "MC3300x"
+  },
+  {
+   "brand": "Zebra",
    "name": "Zebra Technologies MC3300xN",
-   "model": "MC3300x"
-  }
- ],
- "MC3300xC": [
-  {
-   "brand": "Zebra",
-   "name": "MC3300x",
-   "model": "MC3300x"
-  },
-  {
-   "brand": "Zebra",
-   "name": "Zebra Technologies MC3300ax",
-   "model": "MC3300ax"
-  },
-  {
-   "brand": "Zebra",
-   "name": "Zebra Technologies MC3300xNS",
    "model": "MC3300x"
   }
  ],
@@ -210825,6 +210841,23 @@
    "brand": "Zebra",
    "name": "Zebra Technologies MC2700",
    "model": "MC2700"
+  }
+ ],
+ "MC3300xC": [
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies MC3300ax",
+   "model": "MC3300ax"
+  },
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies MC3300x",
+   "model": "MC3300x"
+  },
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies MC3300xNS",
+   "model": "MC3300x"
   }
  ],
  "MC93": [

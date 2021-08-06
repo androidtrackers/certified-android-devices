@@ -22904,6 +22904,11 @@
  "BL50": [
   {
    "brand": "BMobile",
+   "device": "Bmobile_BL50_CL",
+   "model": "BL50_CL"
+  },
+  {
+   "brand": "BMobile",
    "device": "Bmobile_BL50_TG05",
    "model": "BL50"
   },
@@ -29710,6 +29715,23 @@
    "model": "T5 Plus"
   }
  ],
+ "T6": [
+  {
+   "brand": "Blu",
+   "device": "T0080TT",
+   "model": "T6"
+  },
+  {
+   "brand": "Blu",
+   "device": "T0090TT",
+   "model": "T6"
+  },
+  {
+   "brand": "IkuMobile",
+   "device": "T6",
+   "model": "T6"
+  }
+ ],
  "TOUCHBOOK M7": [
   {
    "brand": "Blu",
@@ -34026,6 +34048,13 @@
    "brand": "Cherry Mobile",
    "device": "Aqua_S9_Max",
    "model": "Aqua S9 Max"
+  }
+ ],
+ "Aqua Tab Deluxe": [
+  {
+   "brand": "Cherry Mobile",
+   "device": "A950",
+   "model": "A950"
   }
  ],
  "Aqua_Infinity": [
@@ -81821,13 +81850,6 @@
    "brand": "Ulefone",
    "device": "Note_10",
    "model": "Note 10"
-  }
- ],
- "T6": [
-  {
-   "brand": "IkuMobile",
-   "device": "T6",
-   "model": "T6"
   }
  ],
  "Y2": [
@@ -208101,11 +208123,6 @@
    "brand": "Zebra",
    "device": "MC3300x",
    "model": "MC3300x"
-  },
-  {
-   "brand": "Zebra",
-   "device": "MC3300xC",
-   "model": "MC3300x"
   }
  ],
  "MC330K": [
@@ -208327,6 +208344,18 @@
    "brand": "Zebra",
    "device": "MC3300xC",
    "model": "MC3300ax"
+  }
+ ],
+ "Zebra Technologies MC3300x": [
+  {
+   "brand": "Zebra",
+   "device": "MC3300x",
+   "model": "MC3300x"
+  },
+  {
+   "brand": "Zebra",
+   "device": "MC3300xC",
+   "model": "MC3300x"
   }
  ],
  "Zebra Technologies MC3300xN": [
