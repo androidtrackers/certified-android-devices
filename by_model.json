@@ -60005,6 +60005,13 @@
    "device": "i50"
   }
  ],
+ "HPAD_IP8045": [
+  {
+   "brand": "Haitech",
+   "name": "HPAD_IP8045",
+   "device": "HPAD_IP8045"
+  }
+ ],
  "BG001": [
   {
    "brand": "HaloBop (ShenZhen)",
@@ -63354,6 +63361,13 @@
    "brand": "Hisense",
    "name": "Hisense U50",
    "device": "HLTE233E_10"
+  }
+ ],
+ "Hisense M50 Lite 2021": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U605",
+   "device": "HS7731ESP"
   }
  ],
  "Hisense U30": [
@@ -131071,6 +131085,13 @@
    "brand": "Oppo",
    "name": "OPPO A35",
    "device": "OP4E7B"
+  }
+ ],
+ "PECM30": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO A53 5G",
+   "device": "OP4E49"
   }
  ],
  "CPH2321": [

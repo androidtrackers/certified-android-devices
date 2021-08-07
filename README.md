@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-08-06
+Last sync is 2021-08-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8296,6 +8296,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|candy android TV|hanyang|CANDY Android TV|
 |Haier|haier lesure L7|Haier_Leisure_L7|HM-N700-FL|
 |Haier|i50|i50|Haier_i50|
+|Haitech|HPAD_IP8045|HPAD_IP8045|HPAD_IP8045|
 |HaloBop (ShenZhen)|BG001|HelloGenius|BG001|
 |Hamic|POCKET|POCKET|POCKET|
 |Hamlet|Hamlet_XZPAD412W|XZPAD412W|Hamlet_XZPAD412W|
@@ -8801,6 +8802,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U50|HLTE222E|Hisense U50|
 |Hisense|Hisense U50|HLTE222E_01|Hisense U50|
 |Hisense|Hisense U50|HLTE233E_10|Hisense H50 Lite|
+|Hisense|Hisense U605|HS7731ESP|Hisense M50 Lite 2021|
 |Hisense|Hisense U605|HS7731ESP|Hisense U30|
 |Hisense|Hisense U605|HS7731ESP|Hisense U50|
 |Hisense|Hisense U605|HS7731ESP|Hisense U605|
@@ -19049,6 +19051,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|N5110|N5110|N5110|
 |Oppo|N5117|N5117|N5117|
 |Oppo|OPPO A35|OP4E7B|PEFM00|
+|Oppo|OPPO A53 5G|OP4E49|PECM30|
 |Oppo|OPPO A53s 5G|OP4F53L1|CPH2321|
 |Oppo|OPPO A54|OP4E7B|PEZM00|
 |Oppo|OPPO A54 5G|OP4F39L1|OPG02|

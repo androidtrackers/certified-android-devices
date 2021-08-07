@@ -42960,6 +42960,13 @@
    "model": "Haier_i50"
   }
  ],
+ "Haitech": [
+  {
+   "device": "HPAD_IP8045",
+   "name": "HPAD_IP8045",
+   "model": "HPAD_IP8045"
+  }
+ ],
  "HaloBop (ShenZhen)": [
   {
    "device": "HelloGenius",
@@ -45535,6 +45542,11 @@
    "device": "HLTE233E_10",
    "name": "Hisense U50",
    "model": "Hisense H50 Lite"
+  },
+  {
+   "device": "HS7731ESP",
+   "name": "Hisense U605",
+   "model": "Hisense M50 Lite 2021"
   },
   {
    "device": "HS7731ESP",
@@ -97907,6 +97919,11 @@
    "device": "OP4E7B",
    "name": "OPPO A35",
    "model": "PEFM00"
+  },
+  {
+   "device": "OP4E49",
+   "name": "OPPO A53 5G",
+   "model": "PECM30"
   },
   {
    "device": "OP4F53L1",
