@@ -23791,6 +23791,11 @@
    "model": "B260"
   },
   {
+   "device": "B28",
+   "name": "B28",
+   "model": "B28"
+  },
+  {
    "device": "B31",
    "name": "B31",
    "model": "B31"
@@ -35378,6 +35383,18 @@
    "device": "e-tab20_variant",
    "name": "e-tab 20",
    "model": "e-tab 20"
+  }
+ ],
+ "General Motors": [
+  {
+   "device": "gminfo37",
+   "name": "Infotainment 3.7",
+   "model": "gminfo37"
+  },
+  {
+   "device": "gminfo37",
+   "name": "Infotainment 3.8",
+   "model": "gminfo38"
   }
  ],
  "GeneralMobile": [
@@ -63307,6 +63324,13 @@
    "model": "BTA700"
   }
  ],
+ "KGTEL": [
+  {
+   "device": "Better10",
+   "name": "Better10",
+   "model": "Better10"
+  }
+ ],
  "KIRISUN": [
   {
    "device": "T650",
@@ -83040,6 +83064,11 @@
  ],
  "Maze_speed": [
   {
+   "device": "MS5414G",
+   "name": "MS5414G",
+   "model": "MS5414G"
+  },
+  {
    "device": "MS5514G",
    "name": "MS5514G",
    "model": "MS5514G"
@@ -97926,6 +97955,11 @@
    "model": "PECM30"
   },
   {
+   "device": "OP4E49",
+   "name": "OPPO A53 5G",
+   "model": "PECT30"
+  },
+  {
    "device": "OP4F53L1",
    "name": "OPPO A53s 5G",
    "model": "CPH2321"
@@ -105163,6 +105197,11 @@
    "model": "S53"
   },
   {
+   "device": "S54",
+   "name": "S54",
+   "model": "S54"
+  },
+  {
    "device": "S70",
    "name": "S70",
    "model": "S70"
@@ -107953,6 +107992,11 @@
   }
  ],
  "QUEST": [
+  {
+   "device": "Amber",
+   "name": "Amber",
+   "model": "Amber"
+  },
   {
    "device": "Q8_Tablet",
    "name": "Q8_Tablet",
@@ -110828,6 +110872,11 @@
    "model": "RD16QE"
   },
   {
+   "device": "RD50T",
+   "name": "RD50T",
+   "model": "RD50T"
+  },
+  {
    "device": "RD50TE",
    "name": "RD50TE",
    "model": "RD50TE"
@@ -112615,6 +112664,11 @@
  ],
  "SUNMAX": [
   {
+   "device": "Model_3",
+   "name": "Model_3",
+   "model": "Model 3"
+  },
+  {
    "device": "Model_S",
    "name": "Model_S",
    "model": "Model S"
@@ -112623,6 +112677,11 @@
    "device": "Model_S_4G",
    "name": "Model_S_4G",
    "model": "Model S 4G"
+  },
+  {
+   "device": "Model_Y",
+   "name": "Model_Y",
+   "model": "Model Y"
   }
  ],
  "SUNWIND": [
@@ -144029,6 +144088,11 @@
    "model": "T40_Plus_ROW"
   },
   {
+   "device": "T40_Plus_RUS",
+   "name": "T40_Plus_RUS",
+   "model": "T40_Plus_RUS"
+  },
+  {
    "device": "T40",
    "name": "T40_ROW",
    "model": "TLA001"
@@ -169137,6 +169201,13 @@
    "device": "lifetabplus",
    "name": "Life Tab Plus",
    "model": "LifeTabPlus"
+  }
+ ],
+ "g-mee": [
+  {
+   "device": "connect_2",
+   "name": "connect_2",
+   "model": "connect 2"
   }
  ],
  "geaneePro": [

@@ -34235,6 +34235,13 @@
    "device": "B260"
   }
  ],
+ "B28": [
+  {
+   "brand": "DEXP",
+   "name": "B28",
+   "device": "B28"
+  }
+ ],
  "B31": [
   {
    "brand": "DEXP",
@@ -49809,6 +49816,20 @@
    "brand": "General Mobile",
    "name": "e-tab 20",
    "device": "e-tab20_variant"
+  }
+ ],
+ "gminfo37": [
+  {
+   "brand": "General Motors",
+   "name": "Infotainment 3.7",
+   "device": "gminfo37"
+  }
+ ],
+ "gminfo38": [
+  {
+   "brand": "General Motors",
+   "name": "Infotainment 3.8",
+   "device": "gminfo37"
   }
  ],
  "E-Tab10": [
@@ -86495,6 +86516,13 @@
    "device": "BTA700"
   }
  ],
+ "Better10": [
+  {
+   "brand": "KGTEL",
+   "name": "Better10",
+   "device": "Better10"
+  }
+ ],
  "T650": [
   {
    "brand": "KIRISUN",
@@ -112285,6 +112313,13 @@
    "device": "TAB-9G"
   }
  ],
+ "MS5414G": [
+  {
+   "brand": "Maze_speed",
+   "name": "MS5414G",
+   "device": "MS5414G"
+  }
+ ],
  "MS5514G": [
   {
    "brand": "Maze_speed",
@@ -128566,6 +128601,11 @@
    "brand": "Oioo",
    "name": "Model 3",
    "device": "wecct3"
+  },
+  {
+   "brand": "SUNMAX",
+   "name": "Model_3",
+   "device": "Model_3"
   }
  ],
  "E3": [
@@ -131088,6 +131128,13 @@
   }
  ],
  "PECM30": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO A53 5G",
+   "device": "OP4E49"
+  }
+ ],
+ "PECT30": [
   {
    "brand": "Oppo",
    "name": "OPPO A53 5G",
@@ -140222,6 +140269,13 @@
    "device": "Premio_P451"
   }
  ],
+ "S54": [
+  {
+   "brand": "Premio",
+   "name": "S54",
+   "device": "S54"
+  }
+ ],
  "S71": [
   {
    "brand": "Premio",
@@ -143848,6 +143902,13 @@
    "brand": "QUBO",
    "name": "X626_4G",
    "device": "X626_4G"
+  }
+ ],
+ "Amber": [
+  {
+   "brand": "QUEST",
+   "name": "Amber",
+   "device": "Amber"
   }
  ],
  "Q8_Tablet": [
@@ -147512,6 +147573,13 @@
    "device": "RD16QE"
   }
  ],
+ "RD50T": [
+  {
+   "brand": "Remdun",
+   "name": "RD50T",
+   "device": "RD50T"
+  }
+ ],
  "RD50TE": [
   {
    "brand": "Remdun",
@@ -149599,6 +149667,13 @@
    "brand": "SUNMAX",
    "name": "Model_S_4G",
    "device": "Model_S_4G"
+  }
+ ],
+ "Model Y": [
+  {
+   "brand": "SUNMAX",
+   "name": "Model_Y",
+   "device": "Model_Y"
   }
  ],
  "SKY 9 E201 3G SS9237MG": [
@@ -191306,6 +191381,13 @@
    "device": "T40_Plus_ROW"
   }
  ],
+ "T40_Plus_RUS": [
+  {
+   "brand": "Teclast",
+   "name": "T40_Plus_RUS",
+   "device": "T40_Plus_RUS"
+  }
+ ],
  "X_EEA": [
   {
    "brand": "Teclast",
@@ -222504,6 +222586,13 @@
    "brand": "fplus",
    "name": "Life Tab Plus",
    "device": "lifetabplus"
+  }
+ ],
+ "connect 2": [
+  {
+   "brand": "g-mee",
+   "name": "connect_2",
+   "device": "connect_2"
   }
  ],
  "JT08-X1": [

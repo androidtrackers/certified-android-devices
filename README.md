@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-08-09
+Last sync is 2021-08-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4599,6 +4599,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|B21|B21|B21|
 |DEXP|B245|B245|B245|
 |DEXP|B260|B260|B260|
+|DEXP|B28|B28|B28|
 |DEXP|B31|B31|B31|
 |DEXP|B340|B340|B340|
 |DEXP|B350|B350|B350|
@@ -6806,6 +6807,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |General Mobile|General Mobile 5 d|gm5_sprout|GM 5 d|
 |General Mobile|e-tab 20|e-tab20|e-tab 20|
 |General Mobile|e-tab 20|e-tab20_variant|e-tab 20|
+|General Motors|Infotainment 3.7|gminfo37|gminfo37|
+|General Motors|Infotainment 3.8|gminfo37|gminfo38|
 |GeneralMobile|E-Tab10|blue_eye|E-Tab10|
 |Geniatech|ATV495MAX|enjoytv|ATV495MAX|
 |Geniatech|Enjoy TV Quad-Core Box|ATV581|Enjoy TV Quad-Core Box|
@@ -12297,6 +12300,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KEP-Tech|K-S18|K-S18|K-S18|
 |KEYENCE|BT-A500GA|BTA500|BTA500|
 |KEYENCE|BTA700|BTA700|BTA700|
+|KGTEL|Better10|Better10|Better10|
 |KIRISUN|KIRISUN T650|T650|T650|
 |KISA phone|KPAU04|KPAU04|KPAU04|
 |KNC (LK)|TPC_XTE10D|TPC_XTE10D|TPC_XTE10D|
@@ -16160,6 +16164,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maxwest|Panda_7|Panda_7|Panda_7|
 |Maxwest|Ranger 5|Ranger_5|Ranger_5|
 |Maxwest|TAB-9G|TAB-9G|TAB-9G|
+|Maze_speed|MS5414G|MS5414G|MS5414G|
 |Maze_speed|MS5514G|MS5514G|MS5514G|
 |Maze_speed|SSB1000T|SSB1000T|SSB1000T|
 |Maze_speed|SSB1001T|SSB1001T|SSB1001T|
@@ -19052,6 +19057,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|N5117|N5117|N5117|
 |Oppo|OPPO A35|OP4E7B|PEFM00|
 |Oppo|OPPO A53 5G|OP4E49|PECM30|
+|Oppo|OPPO A53 5G|OP4E49|PECT30|
 |Oppo|OPPO A53s 5G|OP4F53L1|CPH2321|
 |Oppo|OPPO A54|OP4E7B|PEZM00|
 |Oppo|OPPO A54 5G|OP4F39L1|OPG02|
@@ -20465,6 +20471,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Premio|S40|S40|S40|
 |Premio|S51|S51|S51|
 |Premio|S53|S53|S53|
+|Premio|S54|S54|S54|
 |Premio|S70|S70|S70|
 |Premio|S71|S71|S71|
 |Premio|S72|Premio_S72|S72|
@@ -21012,6 +21019,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |QUBO|THOR|THOR|THOR|
 |QUBO|X626|X626|X626|
 |QUBO|X626_4G|X626_4G|X626_4G|
+|QUEST|Amber|Amber|Amber|
 |QUEST|Q8_Tablet|Q8_Tablet|Q8_Tablet|
 |QUEST|RAPTOR|RAPTOR|RAPTOR|
 |QUEST|Vibe|Vibe|Vibe|
@@ -21570,6 +21578,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Remdun|RD15QE|RD15QE|RD15QE|
 |Remdun|RD16Q|RD16Q|RD16Q|
 |Remdun|RD16QE|RD16QE|RD16QE|
+|Remdun|RD50T|RD50T|RD50T|
 |Remdun|RD50TE|RD50TE|RD50TE|
 |Remdun|RD51QE|RD51QE|RD51QE|
 |Remdun|RD52E|RD52E|RD52E|
@@ -21901,8 +21910,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |STK(Santok)|Sync 5z|STK_Sync_5z|STK Sync 5z|
 |STK(Santok)|Transporter 1|STK_Transporter_1|STK_Transporter_1|
 |STK(Santok)|cayenne|cayenne|STK Ace|
+|SUNMAX|Model_3|Model_3|Model 3|
 |SUNMAX|Model_S|Model_S|Model S|
 |SUNMAX|Model_S_4G|Model_S_4G|Model S 4G|
+|SUNMAX|Model_Y|Model_Y|Model Y|
 |SUNWIND|SKY 9 E201 3G|SS9237MG|SKY 9 E201 3G SS9237MG|
 |SUNWIND|SKY_9_A102_3G|SS9236PG|SKY 9 A102 3G SS9236PG|
 |SUNWIND|SS7238PG|SS7238PG|SKY Kids 70 SS7238PG|
@@ -28097,6 +28108,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|T40|T40|TLA001|
 |Teclast|T40_Plus_EEA|T40_Plus_EEA|T40_Plus_EEA|
 |Teclast|T40_Plus_ROW|T40_Plus_ROW|T40_Plus_ROW|
+|Teclast|T40_Plus_RUS|T40_Plus_RUS|T40_Plus_RUS|
 |Teclast|T40_ROW|T40|TLA001|
 |Teclast|T8|T8|T8|
 |Teclast|X_EEA|X_EEA|X_EEA|
@@ -32979,6 +32991,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |efioo|efiootabn7a|efiootabn7a|Tab N7a|
 |elevn|elevn_eTab|elevn_eTab|elevn_eTab|
 |fplus|Life Tab Plus|lifetabplus|LifeTabPlus|
+|g-mee|connect_2|connect_2|connect 2|
 |geaneePro|JT08-X1|JT08-X1|JT08-X1|
 |geaneePro|JT10-X|JT10-X|JT10-X|
 |geaneePro|JT70-X|JT07-X|JT07-X|

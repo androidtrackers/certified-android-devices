@@ -40436,6 +40436,13 @@
    "model": "B260"
   }
  ],
+ "B28": [
+  {
+   "brand": "DEXP",
+   "device": "B28",
+   "model": "B28"
+  }
+ ],
  "B31": [
   {
    "brand": "DEXP",
@@ -55946,6 +55953,20 @@
    "brand": "General Mobile",
    "device": "e-tab20_variant",
    "model": "e-tab 20"
+  }
+ ],
+ "Infotainment 3.7": [
+  {
+   "brand": "General Motors",
+   "device": "gminfo37",
+   "model": "gminfo37"
+  }
+ ],
+ "Infotainment 3.8": [
+  {
+   "brand": "General Motors",
+   "device": "gminfo37",
+   "model": "gminfo38"
   }
  ],
  "E-Tab10": [
@@ -88494,6 +88515,13 @@
    "model": "BTA700"
   }
  ],
+ "Better10": [
+  {
+   "brand": "KGTEL",
+   "device": "Better10",
+   "model": "Better10"
+  }
+ ],
  "KIRISUN T650": [
   {
    "brand": "KIRISUN",
@@ -111102,6 +111130,13 @@
    "model": "TAB-9G"
   }
  ],
+ "MS5414G": [
+  {
+   "brand": "Maze_speed",
+   "device": "MS5414G",
+   "model": "MS5414G"
+  }
+ ],
  "MS5514G": [
   {
    "brand": "Maze_speed",
@@ -128252,6 +128287,11 @@
    "brand": "Oppo",
    "device": "OP4E49",
    "model": "PECM30"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP4E49",
+   "model": "PECT30"
   }
  ],
  "OPPO A53s 5G": [
@@ -137327,6 +137367,13 @@
    "model": "S53"
   }
  ],
+ "S54": [
+  {
+   "brand": "Premio",
+   "device": "S54",
+   "model": "S54"
+  }
+ ],
  "S71": [
   {
    "brand": "Premio",
@@ -140837,6 +140884,18 @@
    "brand": "QUBO",
    "device": "X626_4G",
    "model": "X626_4G"
+  }
+ ],
+ "Amber": [
+  {
+   "brand": "QUEST",
+   "device": "Amber",
+   "model": "Amber"
+  },
+  {
+   "brand": "Yandex",
+   "device": "Amber",
+   "model": "YNDX-000SB"
   }
  ],
  "Q8_Tablet": [
@@ -144355,6 +144414,13 @@
    "model": "RD16QE"
   }
  ],
+ "RD50T": [
+  {
+   "brand": "Remdun",
+   "device": "RD50T",
+   "model": "RD50T"
+  }
+ ],
  "RD50TE": [
   {
    "brand": "Remdun",
@@ -146443,6 +146509,13 @@
    "model": "STK Ace"
   }
  ],
+ "Model_3": [
+  {
+   "brand": "SUNMAX",
+   "device": "Model_3",
+   "model": "Model 3"
+  }
+ ],
  "Model_S": [
   {
    "brand": "SUNMAX",
@@ -146455,6 +146528,13 @@
    "brand": "SUNMAX",
    "device": "Model_S_4G",
    "model": "Model S 4G"
+  }
+ ],
+ "Model_Y": [
+  {
+   "brand": "SUNMAX",
+   "device": "Model_Y",
+   "model": "Model Y"
   }
  ],
  "SKY 9 E201 3G": [
@@ -181404,6 +181484,13 @@
    "model": "T40_Plus_ROW"
   }
  ],
+ "T40_Plus_RUS": [
+  {
+   "brand": "Teclast",
+   "device": "T40_Plus_RUS",
+   "model": "T40_Plus_RUS"
+  }
+ ],
  "T40_ROW": [
   {
    "brand": "Teclast",
@@ -199404,13 +199491,6 @@
    "model": "YUNTAB-Q88"
   }
  ],
- "Amber": [
-  {
-   "brand": "Yandex",
-   "device": "Amber",
-   "model": "YNDX-000SB"
-  }
- ],
  "YNDX-000SB": [
   {
    "brand": "Yandex",
@@ -209952,6 +210032,13 @@
    "brand": "fplus",
    "device": "lifetabplus",
    "model": "LifeTabPlus"
+  }
+ ],
+ "connect_2": [
+  {
+   "brand": "g-mee",
+   "device": "connect_2",
+   "model": "connect 2"
   }
  ],
  "JT08-X1": [
