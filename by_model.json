@@ -785,6 +785,13 @@
    "device": "yeongdeungpo"
   }
  ],
+ "AGM_H3": [
+  {
+   "brand": "AGM Mobile",
+   "name": "AGM H3",
+   "device": "AGM_H3"
+  }
+ ],
  "ADT1012L": [
   {
    "brand": "AIDATA",
@@ -30126,6 +30133,13 @@
    "device": "Dream_Edition_C-754"
   }
  ],
+ "Concord_M20": [
+  {
+   "brand": "Concord",
+   "name": "M20 TERMINAL",
+   "device": "Concord_M20"
+  }
+ ],
  "Plus-7_C777": [
   {
    "brand": "Concord",
@@ -34233,6 +34247,13 @@
    "brand": "DEXP",
    "name": "B260",
    "device": "B260"
+  }
+ ],
+ "B27": [
+  {
+   "brand": "DEXP",
+   "name": "B27",
+   "device": "B27"
   }
  ],
  "B28": [
@@ -88224,6 +88245,13 @@
    "device": "KL503"
   }
  ],
+ "KL551": [
+  {
+   "brand": "Klipad",
+   "name": "KL551",
+   "device": "KL551"
+  }
+ ],
  "KL553_EEA": [
   {
    "brand": "Klipad",
@@ -112250,6 +112278,13 @@
    "device": "Nitro_4s_LTE"
   }
  ],
+ "Nitro 55C": [
+  {
+   "brand": "Maxwest",
+   "name": "Nitro_55C",
+   "device": "Nitro_55C"
+  }
+ ],
  "Nitro 5C": [
   {
    "brand": "Maxwest",
@@ -130257,7 +130292,7 @@
   },
   {
    "brand": "Oppo",
-   "name": "OPPO A74",
+   "name": "CPH2219",
    "device": "OP4F11L1"
   }
  ],
@@ -133553,6 +133588,13 @@
    "brand": "Oukitel",
    "name": "WP10",
    "device": "WP10"
+  }
+ ],
+ "WP12 Pro": [
+  {
+   "brand": "Oukitel",
+   "name": "WP12_Pro",
+   "device": "WP12_Pro"
   }
  ],
  "WP15": [
@@ -138097,6 +138139,13 @@
    "brand": "Plum",
    "name": "Z555",
    "device": "Z555"
+  }
+ ],
+ "Z570": [
+  {
+   "brand": "Plum",
+   "name": "Z570",
+   "device": "Z570"
   }
  ],
  "PLUM Z711": [
@@ -146020,6 +146069,13 @@
    "device": "RMX3203L1"
   }
  ],
+ "RMX3261": [
+  {
+   "brand": "Realme",
+   "name": "realme C21Y",
+   "device": "RMX3261"
+  }
+ ],
  "RMX3191": [
   {
    "brand": "Realme",
@@ -147543,6 +147599,13 @@
    "brand": "Remdun",
    "name": "RD-52",
    "device": "RD52"
+  }
+ ],
+ "RD11PTE": [
+  {
+   "brand": "Remdun",
+   "name": "RD11PTE",
+   "device": "RD11PTE"
   }
  ],
  "RD15PQE": [
@@ -150799,6 +150862,20 @@
    "brand": "Samsung",
    "name": "Galaxy A02s",
    "device": "a02q"
+  }
+ ],
+ "SM-A037F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A03s",
+   "device": "a03s"
+  }
+ ],
+ "SM-A037M": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A03s",
+   "device": "a03s"
   }
  ],
  "SM-A105F": [
@@ -157265,7 +157342,7 @@
  "SM-M215G": [
   {
    "brand": "Samsung",
-   "name": "Galaxy M21 2021 Edition",
+   "name": "Galaxy M21 2021",
    "device": "m21"
   }
  ],
@@ -205386,6 +205463,13 @@
    "device": "Westgate-T801"
   }
  ],
+ "T802": [
+  {
+   "brand": "Westgate Resorts",
+   "name": "T802",
+   "device": "T802"
+  }
+ ],
  "W10TWF19": [
   {
    "brand": "Westinghouse",
@@ -207957,6 +208041,13 @@
    "device": "Proton_Amber_HD"
   }
  ],
+ "Proton_Helium_Max": [
+  {
+   "brand": "X-View",
+   "name": "Proton_Helium_Max",
+   "device": "Proton_Helium_Max"
+  }
+ ],
  "Proton_Neon": [
   {
    "brand": "X-View",
@@ -208866,6 +208957,13 @@
    "device": "perseus"
   }
  ],
+ "2106118C": [
+  {
+   "brand": "Xiaomi",
+   "name": "MIX 4",
+   "device": "odin"
+  }
+ ],
  "Umi": [
   {
    "brand": "Xiaomi",
@@ -209549,6 +209647,27 @@
    "brand": "Xiaomi",
    "name": "Redmi Pro",
    "device": "omega"
+  }
+ ],
+ "21051182C": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Pad 5",
+   "device": "nabu"
+  }
+ ],
+ "M2105K81AC": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Pad 5 Pro",
+   "device": "elish"
+  }
+ ],
+ "M2105K81C": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Pad 5 Pro 5G",
+   "device": "enuma"
   }
  ],
  "Mi Watch": [
@@ -220791,33 +220910,6 @@
    "device": "MC2200"
   }
  ],
- "MC3300x": [
-  {
-   "brand": "Zebra",
-   "name": "MC3300x",
-   "device": "MC3300x"
-  },
-  {
-   "brand": "Zebra",
-   "name": "Zebra Technologies MC3300x",
-   "device": "MC3300x"
-  },
-  {
-   "brand": "Zebra",
-   "name": "Zebra Technologies MC3300x",
-   "device": "MC3300xC"
-  },
-  {
-   "brand": "Zebra",
-   "name": "Zebra Technologies MC3300xN",
-   "device": "MC3300x"
-  },
-  {
-   "brand": "Zebra",
-   "name": "Zebra Technologies MC3300xNS",
-   "device": "MC3300xC"
-  }
- ],
  "MC33": [
   {
    "brand": "Zebra",
@@ -221034,6 +221126,28 @@
   {
    "brand": "Zebra",
    "name": "Zebra Technologies MC3300ax",
+   "device": "MC3300xC"
+  }
+ ],
+ "MC3300x": [
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies MC3300x",
+   "device": "MC3300x"
+  },
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies MC3300x",
+   "device": "MC3300xC"
+  },
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies MC3300xN",
+   "device": "MC3300x"
+  },
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies MC3300xNS",
    "device": "MC3300xC"
   }
  ],

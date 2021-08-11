@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-08-10
+Last sync is 2021-08-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -95,6 +95,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AG Mobile|Zoom|Zoom|Zoom|
 |AGE (in)|India|tamachi|AGE FHD Android TV|
 |AGE (in)|India|yeongdeungpo|AGE UHD Android TV|
+|AGM Mobile|AGM H3|AGM_H3|AGM_H3|
 |AIDATA|ADT1012L|ADT1012L|ADT1012L|
 |AIDATA|ADT1061|ADT1061|ADT1061|
 |AIDATA|ADT1061_1|ADT1061_1|ADT1061_1|
@@ -4024,6 +4025,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Concord|Concord_RANGE_HS|Concord_RANGE_HS|Concord_RANGE_HS|
 |Concord|Concord_Range_S9|Concord_Range_S9|Concord_Range_S9|
 |Concord|Dream_Edition_C-754|Dream_Edition_C-754|Dream_Edition_C-754|
+|Concord|M20 TERMINAL|Concord_M20|Concord_M20|
 |Concord|Plus-7_C777|Plus-7_C777|Plus-7_C777|
 |Concord|Plus-9_C778|Plus-9_C778|Plus-9_C778|
 |Concord|Plus_M19_C779|Plus_M19_C779|Plus_M19_C779|
@@ -4599,6 +4601,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|B21|B21|B21|
 |DEXP|B245|B245|B245|
 |DEXP|B260|B260|B260|
+|DEXP|B27|B27|B27|
 |DEXP|B28|B28|B28|
 |DEXP|B31|B31|B31|
 |DEXP|B340|B340|B340|
@@ -12551,6 +12554,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Klipad|KL500|KL500|KL500|
 |Klipad|KL502|KL502|KL502|
 |Klipad|KL503|KL503|KL503|
+|Klipad|KL551|KL551|KL551|
 |Klipad|KL553|KL553|KL553_EEA|
 |Klipad|KL600|KLIPAD_KL600|KLIPAD_KL600|
 |Klipad|KL600B|KLIPAD_KL600B|KL600B|
@@ -16154,6 +16158,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maxwest|Nitro 5N|Nitro_5N|Nitro_5N|
 |Maxwest|Nitro 5R|Nitro_5R|Nitro_5R|
 |Maxwest|Nitro_4s_LTE|Nitro_4s_LTE|Nitro 4s LTE|
+|Maxwest|Nitro_55C|Nitro_55C|Nitro 55C|
 |Maxwest|Nitro_55R|Nitro_55R|Nitro_55R|
 |Maxwest|Nitro_5C|Nitro_5C|Nitro 5C|
 |Maxwest|Nitro_5P|Nitro_5P|Nitro 5P|
@@ -18998,6 +19003,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|CPH2185|OP4F2F|CPH2185|
 |Oppo|CPH2195|OP4F39L1|CPH2195|
 |Oppo|CPH2197|OP4F39L1|CPH2197|
+|Oppo|CPH2219|OP4F11L1|CPH2219|
 |Oppo|CPH2239|OP4F2F|CPH2239|
 |Oppo|F11|OP4883|CPH1911|
 |Oppo|F11|OP4883|CPH1913|
@@ -19061,7 +19067,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO A53s 5G|OP4F53L1|CPH2321|
 |Oppo|OPPO A54|OP4E7B|PEZM00|
 |Oppo|OPPO A54 5G|OP4F39L1|OPG02|
-|Oppo|OPPO A74|OP4F11L1|CPH2219|
 |Oppo|OPPO A74 5G|OP4F39L1|CPH2197|
 |Oppo|OPPO A74 5G|OP4F39L1|CPH2263|
 |Oppo|OPPO Find X3 Lite 5G|OP4F1BL1|CPH2145|
@@ -19431,6 +19436,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|U7 Plus|U7_Plus|U7 Plus|
 |Oukitel|WP1|OUKITEL_WP1|WP1|
 |Oukitel|WP10|WP10|WP10|
+|Oukitel|WP12_Pro|WP12_Pro|WP12 Pro|
 |Oukitel|WP15|WP15|WP15|
 |Oukitel|WP2|WP2|WP2|
 |Oukitel|WP5|WP5|WP5|
@@ -20140,6 +20146,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Plum|Z518|Z518|Z518|
 |Plum|Z519|Z519|Z519|
 |Plum|Z555|Z555|Z555|
+|Plum|Z570|Z570|Z570|
 |Plum|Z621|Z621|Z621|
 |Plum|Z711|Z711|PLUM Z711|
 |Plum|Z712|Z712|PLUM Z712|
@@ -21343,6 +21350,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme C21|RMX3201|RMX3201|
 |Realme|realme C21|RMX3202|RMX3202|
 |Realme|realme C21|RMX3203L1|RMX3203|
+|Realme|realme C21Y|RMX3261|RMX3261|
 |Realme|realme C25|RMX3191|RMX3191|
 |Realme|realme C25|RMX3193|RMX3193|
 |Realme|realme C25s|RMX3195|RMX3195|
@@ -21574,6 +21582,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reliance|RC555L|RC555L|RC555L|
 |Reliance|Smartphone JS LS-5010|LS-5010|LS-5010|
 |Remdun|RD-52|RD52|RD52|
+|Remdun|RD11PTE|RD11PTE|RD11PTE|
 |Remdun|RD15PQE|RD15PQE|RD15PQE|
 |Remdun|RD15QE|RD15QE|RD15QE|
 |Remdun|RD16Q|RD16Q|RD16Q|
@@ -22071,6 +22080,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A02s|a02q|SM-A025U1|
 |Samsung|Galaxy A02s|a02q|SM-A025V|
 |Samsung|Galaxy A02s|a02q|SM-S124DL|
+|Samsung|Galaxy A03s|a03s|SM-A037F|
+|Samsung|Galaxy A03s|a03s|SM-A037M|
 |Samsung|Galaxy A10|a10|SM-A105F|
 |Samsung|Galaxy A10|a10|SM-A105FN|
 |Samsung|Galaxy A10|a10|SM-A105G|
@@ -23000,7 +23011,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M20|m20lte|SM-M205G|
 |Samsung|Galaxy M20|m20lte|SM-M205M|
 |Samsung|Galaxy M21|m21|SM-M215F|
-|Samsung|Galaxy M21 2021 Edition|m21|SM-M215G|
+|Samsung|Galaxy M21 2021|m21|SM-M215G|
 |Samsung|Galaxy M30|m30lte|SM-M305F|
 |Samsung|Galaxy M30|m30lte|SM-M305M|
 |Samsung|Galaxy M30s|m30s|SM-M3070|
@@ -30314,6 +30325,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Welwitcha|P20|P20|P20|
 |Wenu|Kate|Wenu|Kate|
 |Westgate|Westgate_T801|Westgate-T801|T801|
+|Westgate Resorts|T802|T802|T802|
 |Westinghouse|W10TWF19|W10TWF19|W10TWF19|
 |Westinghouse|W7T3G19|W7T3G19|W7T3G19|
 |Westinghouse|W7TBL19|W7TBL19|W7TBL19|
@@ -30739,6 +30751,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |X-TIGI|Y10|Y10|Y10|
 |X-View|AMBER_KIDS|AMBER_KIDS|AMBER_KIDS|
 |X-View|PROTON_AMBER_HD|Proton_Amber_HD|Proton_Amber_HD|
+|X-View|Proton_Helium_Max|Proton_Helium_Max|Proton_Helium_Max|
 |X-View|Proton_Neon|Proton_Neon|Proton_Neon|
 |X-View|Tablet10_X-View|Tablet10_X_View|Tablet10_X-View|
 |X-View|Tablet7_X_View|Tablet7_X_View|Tablet7_X_View|
@@ -30869,6 +30882,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|MIX 2S|polaris|Mi MIX 2S|
 |Xiaomi|MIX 3|perseus|MIX 3|
 |Xiaomi|MIX 3|perseus|Mi MIX 3|
+|Xiaomi|MIX 4|odin|2106118C|
 |Xiaomi|Mi 10|umi|Mi 10|
 |Xiaomi|Mi 10|umi|Umi|
 |Xiaomi|Mi 10 Lite 5G|monet|XIG01|
@@ -30984,6 +30998,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Redmi Pro|omega|Redmi Pro|
 |Xiaomi|Redmi S2|ysl|Redmi S2|
 |Xiaomi|TELEBEE|once|MIBOX3|
+|Xiaomi|Xiaomi Pad 5|nabu|21051182C|
+|Xiaomi|Xiaomi Pad 5 Pro|elish|M2105K81AC|
+|Xiaomi|Xiaomi Pad 5 Pro 5G|enuma|M2105K81C|
 |Xiaomi|小米手表|baiji|Mi Watch|
 |Xolo|Era 2X 2GB|XE2X|Era 2X|
 |Xolo|Era 2X 3GB|XE2X3GB|Era 2X 3GB|
@@ -32693,7 +32710,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|ET5X|ET55T|ET5X|
 |Zebra|MC18|MC18|MC18N0|
 |Zebra|MC20|MC2200|MC20|
-|Zebra|MC3300x|MC3300x|MC3300x|
 |Zebra|MC330K|MC33|MC33|
 |Zebra|MC330K|MC33C|MC33|
 |Zebra|MC36|cardhu|MC36|

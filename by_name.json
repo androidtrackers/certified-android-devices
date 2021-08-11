@@ -6582,6 +6582,13 @@
    "model": "WILLETT UHD Android TV"
   }
  ],
+ "AGM H3": [
+  {
+   "brand": "AGM Mobile",
+   "device": "AGM_H3",
+   "model": "AGM_H3"
+  }
+ ],
  "ADT1012L": [
   {
    "brand": "AIDATA",
@@ -36270,6 +36277,13 @@
    "model": "Dream_Edition_C-754"
   }
  ],
+ "M20 TERMINAL": [
+  {
+   "brand": "Concord",
+   "device": "Concord_M20",
+   "model": "Concord_M20"
+  }
+ ],
  "Plus-7_C777": [
   {
    "brand": "Concord",
@@ -40434,6 +40448,13 @@
    "brand": "DEXP",
    "device": "B260",
    "model": "B260"
+  }
+ ],
+ "B27": [
+  {
+   "brand": "DEXP",
+   "device": "B27",
+   "model": "B27"
   }
  ],
  "B28": [
@@ -76718,6 +76739,11 @@
    "brand": "Huawei",
    "device": "hwt802",
    "model": "T802 PAD"
+  },
+  {
+   "brand": "Westgate Resorts",
+   "device": "T802",
+   "model": "T802"
   }
  ],
  "T8808D": [
@@ -90210,6 +90236,13 @@
    "brand": "Klipad",
    "device": "KL503",
    "model": "KL503"
+  }
+ ],
+ "KL551": [
+  {
+   "brand": "Klipad",
+   "device": "KL551",
+   "model": "KL551"
   }
  ],
  "KL553": [
@@ -111057,6 +111090,13 @@
    "model": "Nitro 4s LTE"
   }
  ],
+ "Nitro_55C": [
+  {
+   "brand": "Maxwest",
+   "device": "Nitro_55C",
+   "model": "Nitro 55C"
+  }
+ ],
  "Nitro_5C": [
   {
    "brand": "Maxwest",
@@ -127987,6 +128027,13 @@
    "model": "CPH2197"
   }
  ],
+ "CPH2219": [
+  {
+   "brand": "Oppo",
+   "device": "OP4F11L1",
+   "model": "CPH2219"
+  }
+ ],
  "CPH2239": [
   {
    "brand": "Oppo",
@@ -128313,13 +128360,6 @@
    "brand": "Oppo",
    "device": "OP4F39L1",
    "model": "OPG02"
-  }
- ],
- "OPPO A74": [
-  {
-   "brand": "Oppo",
-   "device": "OP4F11L1",
-   "model": "CPH2219"
   }
  ],
  "OPPO A74 5G": [
@@ -130711,6 +130751,13 @@
    "brand": "Oukitel",
    "device": "WP10",
    "model": "WP10"
+  }
+ ],
+ "WP12_Pro": [
+  {
+   "brand": "Oukitel",
+   "device": "WP12_Pro",
+   "model": "WP12 Pro"
   }
  ],
  "WP15": [
@@ -135244,6 +135291,13 @@
    "brand": "Plum",
    "device": "Z555",
    "model": "Z555"
+  }
+ ],
+ "Z570": [
+  {
+   "brand": "Plum",
+   "device": "Z570",
+   "model": "Z570"
   }
  ],
  "Z621": [
@@ -142909,6 +142963,13 @@
    "model": "RMX3203"
   }
  ],
+ "realme C21Y": [
+  {
+   "brand": "Realme",
+   "device": "RMX3261",
+   "model": "RMX3261"
+  }
+ ],
  "realme C25": [
   {
    "brand": "Realme",
@@ -144384,6 +144445,13 @@
    "brand": "Remdun",
    "device": "RD52",
    "model": "RD52"
+  }
+ ],
+ "RD11PTE": [
+  {
+   "brand": "Remdun",
+   "device": "RD11PTE",
+   "model": "RD11PTE"
   }
  ],
  "RD15PQE": [
@@ -147267,6 +147335,18 @@
    "brand": "Samsung",
    "device": "a02q",
    "model": "SM-S124DL"
+  }
+ ],
+ "Galaxy A03s": [
+  {
+   "brand": "Samsung",
+   "device": "a03s",
+   "model": "SM-A037F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a03s",
+   "model": "SM-A037M"
   }
  ],
  "Galaxy A10": [
@@ -152337,7 +152417,7 @@
    "model": "SM-M215F"
   }
  ],
- "Galaxy M21 2021 Edition": [
+ "Galaxy M21 2021": [
   {
    "brand": "Samsung",
    "device": "m21",
@@ -197563,6 +197643,13 @@
    "model": "Proton_Amber_HD"
   }
  ],
+ "Proton_Helium_Max": [
+  {
+   "brand": "X-View",
+   "device": "Proton_Helium_Max",
+   "model": "Proton_Helium_Max"
+  }
+ ],
  "Proton_Neon": [
   {
    "brand": "X-View",
@@ -198370,6 +198457,13 @@
    "model": "Mi MIX 3"
   }
  ],
+ "MIX 4": [
+  {
+   "brand": "Xiaomi",
+   "device": "odin",
+   "model": "2106118C"
+  }
+ ],
  "Mi 10": [
   {
    "brand": "Xiaomi",
@@ -199064,6 +199158,27 @@
    "brand": "Xiaomi",
    "device": "once",
    "model": "MIBOX3"
+  }
+ ],
+ "Xiaomi Pad 5": [
+  {
+   "brand": "Xiaomi",
+   "device": "nabu",
+   "model": "21051182C"
+  }
+ ],
+ "Xiaomi Pad 5 Pro": [
+  {
+   "brand": "Xiaomi",
+   "device": "elish",
+   "model": "M2105K81AC"
+  }
+ ],
+ "Xiaomi Pad 5 Pro 5G": [
+  {
+   "brand": "Xiaomi",
+   "device": "enuma",
+   "model": "M2105K81C"
   }
  ],
  "小米手表": [
@@ -208215,13 +208330,6 @@
    "brand": "Zebra",
    "device": "MC2200",
    "model": "MC20"
-  }
- ],
- "MC3300x": [
-  {
-   "brand": "Zebra",
-   "device": "MC3300x",
-   "model": "MC3300x"
   }
  ],
  "MC330K": [

@@ -491,6 +491,13 @@
    "model": "AGE UHD Android TV"
   }
  ],
+ "AGM Mobile": [
+  {
+   "device": "AGM_H3",
+   "name": "AGM H3",
+   "model": "AGM_H3"
+  }
+ ],
  "AIDATA": [
   {
    "device": "ADT1012L",
@@ -20848,6 +20855,11 @@
    "model": "Dream_Edition_C-754"
   },
   {
+   "device": "Concord_M20",
+   "name": "M20 TERMINAL",
+   "model": "Concord_M20"
+  },
+  {
    "device": "Plus-7_C777",
    "name": "Plus-7_C777",
    "model": "Plus-7_C777"
@@ -23789,6 +23801,11 @@
    "device": "B260",
    "name": "B260",
    "model": "B260"
+  },
+  {
+   "device": "B27",
+   "name": "B27",
+   "model": "B27"
   },
   {
    "device": "B28",
@@ -64663,6 +64680,11 @@
    "model": "KL503"
   },
   {
+   "device": "KL551",
+   "name": "KL551",
+   "model": "KL551"
+  },
+  {
    "device": "KL553",
    "name": "KL553",
    "model": "KL553_EEA"
@@ -83012,6 +83034,11 @@
    "model": "Nitro 4s LTE"
   },
   {
+   "device": "Nitro_55C",
+   "name": "Nitro_55C",
+   "model": "Nitro 55C"
+  },
+  {
    "device": "Nitro_55R",
    "name": "Nitro_55R",
    "model": "Nitro_55R"
@@ -97660,6 +97687,11 @@
    "model": "CPH2197"
   },
   {
+   "device": "OP4F11L1",
+   "name": "CPH2219",
+   "model": "CPH2219"
+  },
+  {
    "device": "OP4F2F",
    "name": "CPH2239",
    "model": "CPH2239"
@@ -97973,11 +98005,6 @@
    "device": "OP4F39L1",
    "name": "OPPO A54 5G",
    "model": "OPG02"
-  },
-  {
-   "device": "OP4F11L1",
-   "name": "OPPO A74",
-   "model": "CPH2219"
   },
   {
    "device": "OP4F39L1",
@@ -99841,6 +99868,11 @@
    "device": "WP10",
    "name": "WP10",
    "model": "WP10"
+  },
+  {
+   "device": "WP12_Pro",
+   "name": "WP12_Pro",
+   "model": "WP12 Pro"
   },
   {
    "device": "WP15",
@@ -103498,6 +103530,11 @@
    "device": "Z555",
    "name": "Z555",
    "model": "Z555"
+  },
+  {
+   "device": "Z570",
+   "name": "Z570",
+   "model": "Z570"
   },
   {
    "device": "Z621",
@@ -109675,6 +109712,11 @@
    "model": "RMX3203"
   },
   {
+   "device": "RMX3261",
+   "name": "realme C21Y",
+   "model": "RMX3261"
+  },
+  {
    "device": "RMX3191",
    "name": "realme C25",
    "model": "RMX3191"
@@ -110850,6 +110892,11 @@
    "device": "RD52",
    "name": "RD-52",
    "model": "RD52"
+  },
+  {
+   "device": "RD11PTE",
+   "name": "RD11PTE",
+   "model": "RD11PTE"
   },
   {
    "device": "RD15PQE",
@@ -113487,6 +113534,16 @@
    "device": "a02q",
    "name": "Galaxy A02s",
    "model": "SM-S124DL"
+  },
+  {
+   "device": "a03s",
+   "name": "Galaxy A03s",
+   "model": "SM-A037F"
+  },
+  {
+   "device": "a03s",
+   "name": "Galaxy A03s",
+   "model": "SM-A037M"
   },
   {
    "device": "a10",
@@ -118135,7 +118192,7 @@
   },
   {
    "device": "m21",
-   "name": "Galaxy M21 2021 Edition",
+   "name": "Galaxy M21 2021",
    "model": "SM-M215G"
   },
   {
@@ -155560,6 +155617,13 @@
    "model": "T801"
   }
  ],
+ "Westgate Resorts": [
+  {
+   "device": "T802",
+   "name": "T802",
+   "model": "T802"
+  }
+ ],
  "Westinghouse": [
   {
    "device": "W10TWF19",
@@ -157753,6 +157817,11 @@
    "model": "Proton_Amber_HD"
   },
   {
+   "device": "Proton_Helium_Max",
+   "name": "Proton_Helium_Max",
+   "model": "Proton_Helium_Max"
+  },
+  {
    "device": "Proton_Neon",
    "name": "Proton_Neon",
    "model": "Proton_Neon"
@@ -158419,6 +158488,11 @@
    "model": "Mi MIX 3"
   },
   {
+   "device": "odin",
+   "name": "MIX 4",
+   "model": "2106118C"
+  },
+  {
    "device": "umi",
    "name": "Mi 10",
    "model": "Mi 10"
@@ -158992,6 +159066,21 @@
    "device": "once",
    "name": "TELEBEE",
    "model": "MIBOX3"
+  },
+  {
+   "device": "nabu",
+   "name": "Xiaomi Pad 5",
+   "model": "21051182C"
+  },
+  {
+   "device": "elish",
+   "name": "Xiaomi Pad 5 Pro",
+   "model": "M2105K81AC"
+  },
+  {
+   "device": "enuma",
+   "name": "Xiaomi Pad 5 Pro 5G",
+   "model": "M2105K81C"
   },
   {
    "device": "baiji",
@@ -167631,11 +167720,6 @@
    "device": "MC2200",
    "name": "MC20",
    "model": "MC20"
-  },
-  {
-   "device": "MC3300x",
-   "name": "MC3300x",
-   "model": "MC3300x"
   },
   {
    "device": "MC33",
