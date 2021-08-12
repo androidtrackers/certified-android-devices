@@ -48982,6 +48982,23 @@
    "device": "G3_EEA"
   }
  ],
+ "G7": [
+  {
+   "brand": "GOODTEL",
+   "name": "G7",
+   "device": "G7"
+  },
+  {
+   "brand": "GOODTEL",
+   "name": "G7_EEA",
+   "device": "G7_EEA"
+  },
+  {
+   "brand": "Haier",
+   "name": "G7",
+   "device": "HM-G552-FL"
+  }
+ ],
  "SEI600GO": [
   {
    "brand": "GOtv",
@@ -59341,13 +59358,6 @@
    "brand": "Haier",
    "name": "G55",
    "device": "G55"
-  }
- ],
- "G7": [
-  {
-   "brand": "Haier",
-   "name": "G7",
-   "device": "HM-G552-FL"
   }
  ],
  "HM-G552-FL": [
@@ -106195,6 +106205,13 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab P11 Plus",
    "device": "TB-J616F"
+  }
+ ],
+ "Lenovo TB-J616X": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab P11 Plus",
+   "device": "TB-J616X"
   }
  ],
  "Lenovo TB-J706F": [
@@ -166913,6 +166930,125 @@
    "brand": "Samsung",
    "name": "Galaxy W",
    "device": "q7lteskt"
+  }
+ ],
+ "SM-R870": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch4",
+   "device": "freshbl"
+  }
+ ],
+ "SM-R860": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch4",
+   "device": "freshbs"
+  }
+ ],
+ "SM-R875F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch4",
+   "device": "freshul"
+  }
+ ],
+ "SM-R875N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch4",
+   "device": "freshul"
+  }
+ ],
+ "SM-R875U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch4",
+   "device": "freshul"
+  }
+ ],
+ "SM-R865F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch4",
+   "device": "freshus"
+  }
+ ],
+ "SM-R865N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch4",
+   "device": "freshus"
+  }
+ ],
+ "SM-R865U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch4",
+   "device": "freshus"
+  }
+ ],
+ "SM-R890": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch4 Classic",
+   "device": "wisebl"
+  }
+ ],
+ "SM-R880": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch4 Classic",
+   "device": "wisebs"
+  }
+ ],
+ "SM-R8950": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch4 Classic",
+   "device": "wiseul"
+  }
+ ],
+ "SM-R895F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch4 Classic",
+   "device": "wiseul"
+  }
+ ],
+ "SM-R895N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch4 Classic",
+   "device": "wiseul"
+  }
+ ],
+ "SM-R895U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch4 Classic",
+   "device": "wiseul"
+  }
+ ],
+ "SM-R885F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch4 Classic",
+   "device": "wiseus"
+  }
+ ],
+ "SM-R885N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch4 Classic",
+   "device": "wiseus"
+  }
+ ],
+ "SM-R885U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch4 Classic",
+   "device": "wiseus"
   }
  ],
  "SM-G600S": [

@@ -34753,6 +34753,16 @@
    "device": "G6_EEA",
    "name": "G6_EEA",
    "model": "G6"
+  },
+  {
+   "device": "G7",
+   "name": "G7",
+   "model": "G7"
+  },
+  {
+   "device": "G7_EEA",
+   "name": "G7_EEA",
+   "model": "G7"
   }
  ],
  "GOtv": [
@@ -78177,6 +78187,11 @@
    "device": "TB-J616F",
    "name": "Lenovo Tab P11 Plus",
    "model": "Lenovo TB-J616F"
+  },
+  {
+   "device": "TB-J616X",
+   "name": "Lenovo Tab P11 Plus",
+   "model": "Lenovo TB-J616X"
   },
   {
    "device": "J706F",
@@ -125219,6 +125234,91 @@
    "device": "q7lteskt",
    "name": "Galaxy W",
    "model": "SM-T255S"
+  },
+  {
+   "device": "freshbl",
+   "name": "Galaxy Watch4",
+   "model": "SM-R870"
+  },
+  {
+   "device": "freshbs",
+   "name": "Galaxy Watch4",
+   "model": "SM-R860"
+  },
+  {
+   "device": "freshul",
+   "name": "Galaxy Watch4",
+   "model": "SM-R875F"
+  },
+  {
+   "device": "freshul",
+   "name": "Galaxy Watch4",
+   "model": "SM-R875N"
+  },
+  {
+   "device": "freshul",
+   "name": "Galaxy Watch4",
+   "model": "SM-R875U"
+  },
+  {
+   "device": "freshus",
+   "name": "Galaxy Watch4",
+   "model": "SM-R865F"
+  },
+  {
+   "device": "freshus",
+   "name": "Galaxy Watch4",
+   "model": "SM-R865N"
+  },
+  {
+   "device": "freshus",
+   "name": "Galaxy Watch4",
+   "model": "SM-R865U"
+  },
+  {
+   "device": "wisebl",
+   "name": "Galaxy Watch4 Classic",
+   "model": "SM-R890"
+  },
+  {
+   "device": "wisebs",
+   "name": "Galaxy Watch4 Classic",
+   "model": "SM-R880"
+  },
+  {
+   "device": "wiseul",
+   "name": "Galaxy Watch4 Classic",
+   "model": "SM-R8950"
+  },
+  {
+   "device": "wiseul",
+   "name": "Galaxy Watch4 Classic",
+   "model": "SM-R895F"
+  },
+  {
+   "device": "wiseul",
+   "name": "Galaxy Watch4 Classic",
+   "model": "SM-R895N"
+  },
+  {
+   "device": "wiseul",
+   "name": "Galaxy Watch4 Classic",
+   "model": "SM-R895U"
+  },
+  {
+   "device": "wiseus",
+   "name": "Galaxy Watch4 Classic",
+   "model": "SM-R885F"
+  },
+  {
+   "device": "wiseus",
+   "name": "Galaxy Watch4 Classic",
+   "model": "SM-R885N"
+  },
+  {
+   "device": "wiseus",
+   "name": "Galaxy Watch4 Classic",
+   "model": "SM-R885U"
   },
   {
    "device": "on7nlteskt",

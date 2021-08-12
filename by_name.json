@@ -55206,6 +55206,30 @@
    "model": "G6"
   }
  ],
+ "G7": [
+  {
+   "brand": "GOODTEL",
+   "device": "G7",
+   "model": "G7"
+  },
+  {
+   "brand": "Haier",
+   "device": "HM-G552-FL",
+   "model": "G7"
+  },
+  {
+   "brand": "Haier",
+   "device": "HM-G552-FL",
+   "model": "HM-G552-FL"
+  }
+ ],
+ "G7_EEA": [
+  {
+   "brand": "GOODTEL",
+   "device": "G7_EEA",
+   "model": "G7"
+  }
+ ],
  "SEI600GO": [
   {
    "brand": "GOtv",
@@ -64956,18 +64980,6 @@
    "brand": "Haier",
    "device": "G55",
    "model": "G55"
-  }
- ],
- "G7": [
-  {
-   "brand": "Haier",
-   "device": "HM-G552-FL",
-   "model": "G7"
-  },
-  {
-   "brand": "Haier",
-   "device": "HM-G552-FL",
-   "model": "HM-G552-FL"
   }
  ],
  "G700": [
@@ -105218,6 +105230,11 @@
    "brand": "Lenovo",
    "device": "TB-J616F",
    "model": "Lenovo TB-J616F"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "TB-J616X",
+   "model": "Lenovo TB-J616X"
   }
  ],
  "Lenovo Tab P11 Pro": [
@@ -160025,6 +160042,95 @@
    "brand": "Samsung",
    "device": "q7lteskt",
    "model": "SM-T255S"
+  }
+ ],
+ "Galaxy Watch4": [
+  {
+   "brand": "Samsung",
+   "device": "freshbl",
+   "model": "SM-R870"
+  },
+  {
+   "brand": "Samsung",
+   "device": "freshbs",
+   "model": "SM-R860"
+  },
+  {
+   "brand": "Samsung",
+   "device": "freshul",
+   "model": "SM-R875F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "freshul",
+   "model": "SM-R875N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "freshul",
+   "model": "SM-R875U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "freshus",
+   "model": "SM-R865F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "freshus",
+   "model": "SM-R865N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "freshus",
+   "model": "SM-R865U"
+  }
+ ],
+ "Galaxy Watch4 Classic": [
+  {
+   "brand": "Samsung",
+   "device": "wisebl",
+   "model": "SM-R890"
+  },
+  {
+   "brand": "Samsung",
+   "device": "wisebs",
+   "model": "SM-R880"
+  },
+  {
+   "brand": "Samsung",
+   "device": "wiseul",
+   "model": "SM-R8950"
+  },
+  {
+   "brand": "Samsung",
+   "device": "wiseul",
+   "model": "SM-R895F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "wiseul",
+   "model": "SM-R895N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "wiseul",
+   "model": "SM-R895U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "wiseus",
+   "model": "SM-R885F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "wiseus",
+   "model": "SM-R885N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "wiseus",
+   "model": "SM-R885U"
   }
  ],
  "Galaxy Wide": [

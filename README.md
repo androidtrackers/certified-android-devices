@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-08-11
+Last sync is 2021-08-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6689,6 +6689,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GOODTEL|G3_EEA|G3_EEA|G3_EEA|
 |GOODTEL|G6|G6|G6|
 |GOODTEL|G6_EEA|G6_EEA|G6|
+|GOODTEL|G7|G7|G7|
+|GOODTEL|G7_EEA|G7_EEA|G7|
 |GOtv|SEI600GO|HND|SEI600GO|
 |GP-electronic|YC-102D|YC-102D|YC-102D|
 |GP-electronic|YC-3135D|YC-3135D|YC-3135D|
@@ -15229,6 +15231,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab P11|J606L|Lenovo TB-J606L|
 |Lenovo|Lenovo Tab P11 5G|J607Z|Lenovo TB-J607Z|
 |Lenovo|Lenovo Tab P11 Plus|TB-J616F|Lenovo TB-J616F|
+|Lenovo|Lenovo Tab P11 Plus|TB-J616X|Lenovo TB-J616X|
 |Lenovo|Lenovo Tab P11 Pro|J706F|Lenovo TB-J706F|
 |Lenovo|Lenovo Tab P11 Pro|J706L|Lenovo TB-J706L|
 |Lenovo|Lenovo Tab P12 Pro|Q706F|Lenovo TB-Q706F|
@@ -24417,6 +24420,23 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy W|GT-I8150T|GT-I8150T|
 |Samsung|Galaxy W|SGH-T679M|SGH-T679M|
 |Samsung|Galaxy W|q7lteskt|SM-T255S|
+|Samsung|Galaxy Watch4|freshbl|SM-R870|
+|Samsung|Galaxy Watch4|freshbs|SM-R860|
+|Samsung|Galaxy Watch4|freshul|SM-R875F|
+|Samsung|Galaxy Watch4|freshul|SM-R875N|
+|Samsung|Galaxy Watch4|freshul|SM-R875U|
+|Samsung|Galaxy Watch4|freshus|SM-R865F|
+|Samsung|Galaxy Watch4|freshus|SM-R865N|
+|Samsung|Galaxy Watch4|freshus|SM-R865U|
+|Samsung|Galaxy Watch4 Classic|wisebl|SM-R890|
+|Samsung|Galaxy Watch4 Classic|wisebs|SM-R880|
+|Samsung|Galaxy Watch4 Classic|wiseul|SM-R8950|
+|Samsung|Galaxy Watch4 Classic|wiseul|SM-R895F|
+|Samsung|Galaxy Watch4 Classic|wiseul|SM-R895N|
+|Samsung|Galaxy Watch4 Classic|wiseul|SM-R895U|
+|Samsung|Galaxy Watch4 Classic|wiseus|SM-R885F|
+|Samsung|Galaxy Watch4 Classic|wiseus|SM-R885N|
+|Samsung|Galaxy Watch4 Classic|wiseus|SM-R885U|
 |Samsung|Galaxy Wide|on7nlteskt|SM-G600S|
 |Samsung|Galaxy Wide2|j7popelteskt|SM-J727S|
 |Samsung|Galaxy Wide3|j7toplteskt|SM-J737S|
