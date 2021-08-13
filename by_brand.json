@@ -10542,6 +10542,11 @@
    "model": "K55QL"
   },
   {
+   "device": "Azumi_V4_AC04",
+   "name": "Azumi V4",
+   "model": "Azumi V4"
+  },
+  {
    "device": "Azumi_V5_AC04",
    "name": "Azumi V5",
    "model": "Azumi_V5"
@@ -15838,6 +15843,11 @@
    "model": "M8L"
   },
   {
+   "device": "M0210WW",
+   "name": "M8L PLUS",
+   "model": "M8L PLUS"
+  },
+  {
    "device": "BLU_NEO_ENERGY_MINI",
    "name": "NEO ENERGY MINI",
    "model": "BLU NEO ENERGY MINI"
@@ -16191,6 +16201,11 @@
    "device": "S990EQ",
    "name": "Studio X10+",
    "model": "Studio X10+"
+  },
+  {
+   "device": "S0570WW",
+   "name": "Studio X10L",
+   "model": "Studio X10L"
   },
   {
    "device": "S050EQ",
@@ -43009,6 +43024,11 @@
    "device": "HPAD_IP8045",
    "name": "HPAD_IP8045",
    "model": "HPAD_IP8045"
+  },
+  {
+   "device": "HPAD_IP8045_1",
+   "name": "HPAD_IP8045_1",
+   "model": "HPAD_IP8045_1"
   }
  ],
  "HaloBop (ShenZhen)": [
@@ -75505,6 +75525,13 @@
    "device": "X55",
    "name": "\"X Serials(X43 Pro",
    "model": "X65)\""
+  }
+ ],
+ "Lenco": [
+  {
+   "device": "TB-8506N",
+   "name": "Lenovo Tab K8",
+   "model": "Lenovo TB-8506N"
   }
  ],
  "Lenovo": [
@@ -110509,6 +110536,16 @@
    "model": "M2101K7BI"
   },
   {
+   "device": "camellia",
+   "name": "Redmi Note 10T 5G",
+   "model": "M2103K19I"
+  },
+  {
+   "device": "camellia",
+   "name": "Redmi Note 10T 5G",
+   "model": "TBD"
+  },
+  {
    "device": "lavender",
    "name": "Redmi Note 7",
    "model": "Redmi Note 7"
@@ -125766,6 +125803,36 @@
    "model": "SM-F707W"
   },
   {
+   "device": "b2q",
+   "name": "Galaxy Z Flip3 5G",
+   "model": "SM-F7110"
+  },
+  {
+   "device": "b2q",
+   "name": "Galaxy Z Flip3 5G",
+   "model": "SM-F711B"
+  },
+  {
+   "device": "b2q",
+   "name": "Galaxy Z Flip3 5G",
+   "model": "SM-F711N"
+  },
+  {
+   "device": "b2q",
+   "name": "Galaxy Z Flip3 5G",
+   "model": "SM-F711U"
+  },
+  {
+   "device": "b2q",
+   "name": "Galaxy Z Flip3 5G",
+   "model": "SM-F711U1"
+  },
+  {
+   "device": "b2q",
+   "name": "Galaxy Z Flip3 5G",
+   "model": "SM-F711W"
+  },
+  {
    "device": "f2q",
    "name": "Galaxy Z Fold2 5G",
    "model": "SM-F9160"
@@ -125799,6 +125866,36 @@
    "device": "f2q",
    "name": "Galaxy Z Fold2 5G",
    "model": "SM-F916W"
+  },
+  {
+   "device": "q2q",
+   "name": "Galaxy Z Fold3 5G",
+   "model": "SM-F9260"
+  },
+  {
+   "device": "q2q",
+   "name": "Galaxy Z Fold3 5G",
+   "model": "SM-F926B"
+  },
+  {
+   "device": "q2q",
+   "name": "Galaxy Z Fold3 5G",
+   "model": "SM-F926N"
+  },
+  {
+   "device": "q2q",
+   "name": "Galaxy Z Fold3 5G",
+   "model": "SM-F926U"
+  },
+  {
+   "device": "q2q",
+   "name": "Galaxy Z Fold3 5G",
+   "model": "SM-F926U1"
+  },
+  {
+   "device": "q2q",
+   "name": "Galaxy Z Fold3 5G",
+   "model": "SM-F926W"
   },
   {
    "device": "YP-GB70D",
@@ -151631,6 +151728,11 @@
    "device": "GINI_D9",
    "name": "GINI_D9",
    "model": "GINI_D9"
+  },
+  {
+   "device": "ORION",
+   "name": "ORION",
+   "model": "ORION"
   },
   {
    "device": "VIDA_V401",

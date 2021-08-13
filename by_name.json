@@ -21117,6 +21117,13 @@
    "model": "K55QL"
   }
  ],
+ "Azumi V4": [
+  {
+   "brand": "Azumi",
+   "device": "Azumi_V4_AC04",
+   "model": "Azumi V4"
+  }
+ ],
  "Azumi V5": [
   {
    "brand": "Azumi",
@@ -29120,6 +29127,13 @@
    "model": "M8L"
   }
  ],
+ "M8L PLUS": [
+  {
+   "brand": "Blu",
+   "device": "M0210WW",
+   "model": "M8L PLUS"
+  }
+ ],
  "NEO ENERGY MINI": [
   {
    "brand": "Blu",
@@ -29626,6 +29640,13 @@
    "brand": "Blu",
    "device": "S990EQ",
    "model": "Studio X10+"
+  }
+ ],
+ "Studio X10L": [
+  {
+   "brand": "Blu",
+   "device": "S0570WW",
+   "model": "Studio X10L"
   }
  ],
  "Studio X12": [
@@ -65760,6 +65781,13 @@
    "brand": "Haitech",
    "device": "HPAD_IP8045",
    "model": "HPAD_IP8045"
+  }
+ ],
+ "HPAD_IP8045_1": [
+  {
+   "brand": "Haitech",
+   "device": "HPAD_IP8045_1",
+   "model": "HPAD_IP8045_1"
   }
  ],
  "BG001": [
@@ -102547,6 +102575,18 @@
    "model": "X65)\""
   }
  ],
+ "Lenovo Tab K8": [
+  {
+   "brand": "Lenco",
+   "device": "TB-8506N",
+   "model": "Lenovo TB-8506N"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "TB-8506F",
+   "model": "Lenovo TB-8506F"
+  }
+ ],
  "Lenovo YOGA Laptop with Android": [
   {
    "brand": "Lenovo",
@@ -104952,13 +104992,6 @@
    "brand": "Lenovo",
    "device": "J606N",
    "model": "Lenovo TB-J606N"
-  }
- ],
- "Lenovo Tab K8": [
-  {
-   "brand": "Lenovo",
-   "device": "TB-8506F",
-   "model": "Lenovo TB-8506F"
   }
  ],
  "Lenovo Tab M10 (FHD)": [
@@ -143961,6 +143994,18 @@
    "model": "M2101K7BI"
   }
  ],
+ "Redmi Note 10T 5G": [
+  {
+   "brand": "Redmi",
+   "device": "camellia",
+   "model": "M2103K19I"
+  },
+  {
+   "brand": "Redmi",
+   "device": "camellia",
+   "model": "TBD"
+  }
+ ],
  "Redmi Note 7": [
   {
    "brand": "Redmi",
@@ -160640,6 +160685,38 @@
    "model": "SM-F707W"
   }
  ],
+ "Galaxy Z Flip3 5G": [
+  {
+   "brand": "Samsung",
+   "device": "b2q",
+   "model": "SM-F7110"
+  },
+  {
+   "brand": "Samsung",
+   "device": "b2q",
+   "model": "SM-F711B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "b2q",
+   "model": "SM-F711N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "b2q",
+   "model": "SM-F711U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "b2q",
+   "model": "SM-F711U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "b2q",
+   "model": "SM-F711W"
+  }
+ ],
  "Galaxy Z Fold2 5G": [
   {
    "brand": "Samsung",
@@ -160675,6 +160752,38 @@
    "brand": "Samsung",
    "device": "f2q",
    "model": "SM-F916W"
+  }
+ ],
+ "Galaxy Z Fold3 5G": [
+  {
+   "brand": "Samsung",
+   "device": "q2q",
+   "model": "SM-F9260"
+  },
+  {
+   "brand": "Samsung",
+   "device": "q2q",
+   "model": "SM-F926B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "q2q",
+   "model": "SM-F926N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "q2q",
+   "model": "SM-F926U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "q2q",
+   "model": "SM-F926U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "q2q",
+   "model": "SM-F926W"
   }
  ],
  "Galaxy player 70 Plus": [
@@ -190222,6 +190331,13 @@
    "brand": "Vida",
    "device": "GINI_D9",
    "model": "GINI_D9"
+  }
+ ],
+ "ORION": [
+  {
+   "brand": "Vida",
+   "device": "ORION",
+   "model": "ORION"
   }
  ],
  "V401": [

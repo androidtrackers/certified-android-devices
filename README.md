@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-08-12
+Last sync is 2021-08-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2048,6 +2048,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|Azumi A5C|AZUMI_A5C|A5C|
 |Azumi|Azumi K55QL|Azumi_K55QLB|Azumi K55QL|
 |Azumi|Azumi K55QL|Azumi_K55QL_AC15|K55QL|
+|Azumi|Azumi V4|Azumi_V4_AC04|Azumi V4|
 |Azumi|Azumi V5|Azumi_V5_AC04|Azumi_V5|
 |Azumi|Azumi V54|Azumi_V54_AC01|V54|
 |Azumi|Azumi V54|Azumi_V54_AC23|V54|
@@ -3080,6 +3081,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|M7|M110EQ|M7|
 |Blu|M7L|M0050LL|M7L|
 |Blu|M8L|M0171WW|M8L|
+|Blu|M8L PLUS|M0210WW|M8L PLUS|
 |Blu|NEO ENERGY MINI|BLU_NEO_ENERGY_MINI|BLU NEO ENERGY MINI|
 |Blu|NEO X|BLU_NEO_X|BLU NEO X|
 |Blu|NEO X LTE|BLU_NEO_X_LTE|BLU NEO X LTE|
@@ -3151,6 +3153,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Studio X Mini|BLU_STUDIO_X_MINI|BLU STUDIO X MINI|
 |Blu|Studio X10|S970EQ|Studio X10|
 |Blu|Studio X10+|S990EQ|Studio X10+|
+|Blu|Studio X10L|S0570WW|Studio X10L|
 |Blu|Studio X12|S050EQ|Studio X12|
 |Blu|Studio X8 HD|S532|Studio X8 HD|
 |Blu|Studio_J8M|S0450WW|Studio J8M|
@@ -8305,6 +8308,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|haier lesure L7|Haier_Leisure_L7|HM-N700-FL|
 |Haier|i50|i50|Haier_i50|
 |Haitech|HPAD_IP8045|HPAD_IP8045|HPAD_IP8045|
+|Haitech|HPAD_IP8045_1|HPAD_IP8045_1|HPAD_IP8045_1|
 |HaloBop (ShenZhen)|BG001|HelloGenius|BG001|
 |Hamic|POCKET|POCKET|POCKET|
 |Hamlet|Hamlet_XZPAD412W|XZPAD412W|Hamlet_XZPAD412W|
@@ -14695,6 +14699,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Leeco|LePro3|le_zl1|LEX727|
 |Leeco|LeoPro3|le_zl1|LEX725|
 |Leeco|"X Serials(X43 Pro|X55|X65)"|
+|Lenco|Lenovo Tab K8|TB-8506N|Lenovo TB-8506N|
 |Lenovo||18382AU|ThinkPad Tablet|
 |Lenovo||A1_07|A1_07|
 |Lenovo||A2109A|IdeaTabA2109A|
@@ -21507,6 +21512,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 10S|rosemary|M2101K7BNY|
 |Redmi|Redmi Note 10S|secret|M2101K7BG|
 |Redmi|Redmi Note 10S|secret|M2101K7BI|
+|Redmi|Redmi Note 10T 5G|camellia|M2103K19I|
+|Redmi|Redmi Note 10T 5G|camellia|TBD|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Redmi|Redmi Note 8|biloba|M1908C3JGG|
 |Redmi|Redmi Note 8|ginkgo|GINKGO|
@@ -24526,6 +24533,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Flip 5G|bloomxq|SM-F707U|
 |Samsung|Galaxy Z Flip 5G|bloomxq|SM-F707U1|
 |Samsung|Galaxy Z Flip 5G|bloomxq|SM-F707W|
+|Samsung|Galaxy Z Flip3 5G|b2q|SM-F7110|
+|Samsung|Galaxy Z Flip3 5G|b2q|SM-F711B|
+|Samsung|Galaxy Z Flip3 5G|b2q|SM-F711N|
+|Samsung|Galaxy Z Flip3 5G|b2q|SM-F711U|
+|Samsung|Galaxy Z Flip3 5G|b2q|SM-F711U1|
+|Samsung|Galaxy Z Flip3 5G|b2q|SM-F711W|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F9160|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F916B|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F916N|
@@ -24533,6 +24546,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F916U|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F916U1|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F916W|
+|Samsung|Galaxy Z Fold3 5G|q2q|SM-F9260|
+|Samsung|Galaxy Z Fold3 5G|q2q|SM-F926B|
+|Samsung|Galaxy Z Fold3 5G|q2q|SM-F926N|
+|Samsung|Galaxy Z Fold3 5G|q2q|SM-F926U|
+|Samsung|Galaxy Z Fold3 5G|q2q|SM-F926U1|
+|Samsung|Galaxy Z Fold3 5G|q2q|SM-F926W|
 |Samsung|Galaxy player 70 Plus|YP-GB70D|YP-GB70D|
 |Samsung|Galaxy view|gvltektt|SM-T677NK|
 |Samsung|Galaxy view|gvltelgt|SM-T677NL|
@@ -29551,6 +29570,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Victurio|VI87|VI87|VI87|
 |Vida|EGO_plus|EGO_plus|EGO plus|
 |Vida|GINI_D9|GINI_D9|GINI_D9|
+|Vida|ORION|ORION|ORION|
 |Vida|V401|VIDA_V401|VIDA-V401|
 |Vida|V555K|V555K|V555K|
 |Vida|VIDA - i512|i512|VIDA_i512|
