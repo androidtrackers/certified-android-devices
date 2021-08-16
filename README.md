@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-08-15
+Last sync is 2021-08-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3080,6 +3080,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|M6 2021|M0090WW|M6 2021|
 |Blu|M7|M110EQ|M7|
 |Blu|M7L|M0050LL|M7L|
+|Blu|M8L|M0170WW|M8L|
 |Blu|M8L|M0171WW|M8L|
 |Blu|M8L PLUS|M0210WW|M8L PLUS|
 |Blu|NEO ENERGY MINI|BLU_NEO_ENERGY_MINI|BLU NEO ENERGY MINI|
@@ -5262,6 +5263,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|N30|N30|N30|
 |Doogee|N30E|N30E|N30E|
 |Doogee|N40Pro|N40Pro|N40Pro|
+|Doogee|N40Pro_RU|N40Pro|N40Pro|
 |Doogee|S30|S30|S30|
 |Doogee|S35|S35|S35|
 |Doogee|S35Pro|S35Pro|S35Pro|
@@ -16219,6 +16221,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mecool|KA2|KA2|KA2|
 |Mecool|KD1|KD1|KD1|
 |Mecool|KM1|KM1|KM1|
+|Mecool|KM2|LAS|LEAP-S1|
 |Mecool|KM3|KM3|KM3|
 |Mecool|KM6|KM6|KM6|
 |Mecool|KM8|KM8|KM8|
@@ -21306,6 +21309,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|50F1|gangbyeon|4K AI Smart TV|
 |Realme|RMX2020|RMX2020|RMX2020|
 |Realme|RMX2040|RMX2040|RMX2040|
+|Realme|RMX3063|RMX3063|RMX3063|
 |Realme|realme  8|RMX3085L1|RMX3085|
 |Realme|realme  X7 Max|RMX3031L1|RMX3031|
 |Realme|realme  narzo  30|RMX2156L1|RMX2156|
@@ -21355,6 +21359,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme C15 Qualcomm Edition|RMX2195L1|RMX2195|
 |Realme|realme C17|RE50BF|RMX2101|
 |Realme|realme C2|RMX1946|RMX1946|
+|Realme|realme C20|RMX3061|RMX3061|
+|Realme|realme C20|RMX3063|RMX3063|
 |Realme|realme C21|RMX3201|RMX3201|
 |Realme|realme C21|RMX3202|RMX3202|
 |Realme|realme C21|RMX3203L1|RMX3203|
@@ -25509,6 +25515,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 1 III|SO-51B|SO-51B|
 |Sony|Xperia 1 III|SOG03|SOG03|
 |Sony|Xperia 1 III|XQ-BC52|XQ-BC52|
+|Sony|Xperia 1 III|XQ-BC62|XQ-BC62|
 |Sony|Xperia 1 III|XQ-BC72|XQ-BC72|
 |Sony|Xperia 1 Professional Edition|J9150|J9150|
 |Sony|Xperia 10|I3113|I3113|

@@ -29123,6 +29123,11 @@
  "M8L": [
   {
    "brand": "Blu",
+   "device": "M0170WW",
+   "model": "M8L"
+  },
+  {
+   "brand": "Blu",
    "device": "M0171WW",
    "model": "M8L"
   }
@@ -45013,6 +45018,13 @@
   }
  ],
  "N40Pro": [
+  {
+   "brand": "Doogee",
+   "device": "N40Pro",
+   "model": "N40Pro"
+  }
+ ],
+ "N40Pro_RU": [
   {
    "brand": "Doogee",
    "device": "N40Pro",
@@ -111465,6 +111477,13 @@
    "model": "KM1"
   }
  ],
+ "KM2": [
+  {
+   "brand": "Mecool",
+   "device": "LAS",
+   "model": "LEAP-S1"
+  }
+ ],
  "KM3": [
   {
    "brand": "Mecool",
@@ -142750,6 +142769,13 @@
    "model": "RMX2040"
   }
  ],
+ "RMX3063": [
+  {
+   "brand": "Realme",
+   "device": "RMX3063",
+   "model": "RMX3063"
+  }
+ ],
  "realme  8": [
   {
    "brand": "Realme",
@@ -142994,6 +143020,18 @@
    "brand": "Realme",
    "device": "RE50BF",
    "model": "RMX2101"
+  }
+ ],
+ "realme C20": [
+  {
+   "brand": "Realme",
+   "device": "RMX3061",
+   "model": "RMX3061"
+  },
+  {
+   "brand": "Realme",
+   "device": "RMX3063",
+   "model": "RMX3063"
   }
  ],
  "realme C21": [
@@ -166875,6 +166913,11 @@
    "brand": "Sony",
    "device": "XQ-BC52",
    "model": "XQ-BC52"
+  },
+  {
+   "brand": "Sony",
+   "device": "XQ-BC62",
+   "model": "XQ-BC62"
   },
   {
    "brand": "Sony",

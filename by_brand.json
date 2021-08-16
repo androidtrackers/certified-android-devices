@@ -15838,6 +15838,11 @@
    "model": "M7L"
   },
   {
+   "device": "M0170WW",
+   "name": "M8L",
+   "model": "M8L"
+  },
+  {
    "device": "M0171WW",
    "name": "M8L",
    "model": "M8L"
@@ -27251,6 +27256,11 @@
   {
    "device": "N40Pro",
    "name": "N40Pro",
+   "model": "N40Pro"
+  },
+  {
+   "device": "N40Pro",
+   "name": "N40Pro_RU",
    "model": "N40Pro"
   },
   {
@@ -83351,6 +83361,11 @@
    "model": "KM1"
   },
   {
+   "device": "LAS",
+   "name": "KM2",
+   "model": "LEAP-S1"
+  },
+  {
    "device": "KM3",
    "name": "KM3",
    "model": "KM3"
@@ -109494,6 +109509,11 @@
    "model": "RMX2040"
   },
   {
+   "device": "RMX3063",
+   "name": "RMX3063",
+   "model": "RMX3063"
+  },
+  {
    "device": "RMX3085L1",
    "name": "realme  8",
    "model": "RMX3085"
@@ -109737,6 +109757,16 @@
    "device": "RMX1946",
    "name": "realme C2",
    "model": "RMX1946"
+  },
+  {
+   "device": "RMX3061",
+   "name": "realme C20",
+   "model": "RMX3061"
+  },
+  {
+   "device": "RMX3063",
+   "name": "realme C20",
+   "model": "RMX3063"
   },
   {
    "device": "RMX3201",
@@ -130829,6 +130859,11 @@
    "device": "XQ-BC52",
    "name": "Xperia 1 III",
    "model": "XQ-BC52"
+  },
+  {
+   "device": "XQ-BC62",
+   "name": "Xperia 1 III",
+   "model": "XQ-BC62"
   },
   {
    "device": "XQ-BC72",
