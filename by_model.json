@@ -23287,6 +23287,13 @@
    "device": "M0050LL"
   }
  ],
+ "M7i": [
+  {
+   "brand": "Blu",
+   "name": "M7i",
+   "device": "M0160WW"
+  }
+ ],
  "M8L": [
   {
    "brand": "Blu",
@@ -52825,6 +52832,13 @@
    "device": "redfin"
   }
  ],
+ "Pixel 5a": [
+  {
+   "brand": "Google",
+   "name": "Pixel 5a 5G",
+   "device": "barbet"
+  }
+ ],
  "Pixel C": [
   {
    "brand": "Google",
@@ -66160,6 +66174,13 @@
    "brand": "Honeywell",
    "name": "EDA51K",
    "device": "EDA51K-1"
+  }
+ ],
+ "EDA52": [
+  {
+   "brand": "Honeywell",
+   "name": "EDA52",
+   "device": "EDA52"
   }
  ],
  "EDA61K": [
@@ -122800,6 +122821,13 @@
    "device": "OBASMART_3"
   }
  ],
+ "Multilaser_GMax_2_Sikur": [
+  {
+   "brand": "Multilaser",
+   "name": "Sikur",
+   "device": "Multilaser_GMax_2_Sikur"
+  }
+ ],
  "Android TV": [
   {
    "brand": "My",
@@ -133667,6 +133695,13 @@
    "brand": "Oukitel",
    "name": "WP12_Pro",
    "device": "WP12_Pro"
+  }
+ ],
+ "WP13": [
+  {
+   "brand": "Oukitel",
+   "name": "WP13_EEA",
+   "device": "WP13"
   }
  ],
  "WP15": [
@@ -180643,6 +180678,13 @@
    "device": "Hong_Kong_Pro"
   }
  ],
+ "A1 Alpha 21": [
+  {
+   "brand": "TCL",
+   "name": "TCL 20Y",
+   "device": "Hong_Kong_Pro"
+  }
+ ],
  "A600DL": [
   {
    "brand": "TCL",
@@ -196779,6 +196821,13 @@
    "brand": "Ulefone",
    "name": "Note 11P",
    "device": "Note_11P"
+  }
+ ],
+ "Note 12P": [
+  {
+   "brand": "Ulefone",
+   "name": "Note 12P",
+   "device": "Note_12P"
   }
  ],
  "Note 6": [
@@ -221334,13 +221383,6 @@
    "device": "TC52"
   }
  ],
- "TC52AX": [
-  {
-   "brand": "Zebra",
-   "name": "TC52ax",
-   "device": "TC52X"
-  }
- ],
  "TC56": [
   {
    "brand": "Zebra",
@@ -221487,6 +221529,13 @@
   {
    "brand": "Zebra",
    "name": "Zebra Technologies TC52x",
+   "device": "TC52X"
+  }
+ ],
+ "TC52AX": [
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies TC52ax",
    "device": "TC52X"
   }
  ],

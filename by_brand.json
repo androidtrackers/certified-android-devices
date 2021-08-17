@@ -15838,6 +15838,11 @@
    "model": "M7L"
   },
   {
+   "device": "M0160WW",
+   "name": "M7i",
+   "model": "M7i"
+  },
+  {
    "device": "M0170WW",
    "name": "M8L",
    "model": "M8L"
@@ -37529,6 +37534,11 @@
    "model": "Pixel 5"
   },
   {
+   "device": "barbet",
+   "name": "Pixel 5a 5G",
+   "model": "Pixel 5a"
+  },
+  {
    "device": "dragon",
    "name": "Pixel C",
    "model": "Pixel C"
@@ -47873,6 +47883,11 @@
    "device": "EDA51K-1",
    "name": "EDA51K",
    "model": "EDA51K"
+  },
+  {
+   "device": "EDA52",
+   "name": "EDA52",
+   "model": "EDA52"
   },
   {
    "device": "EDA61K-0C",
@@ -91278,6 +91293,11 @@
    "device": "OBASMART_3",
    "name": "OBASMART 3",
    "model": "OBASMART_3"
+  },
+  {
+   "device": "Multilaser_GMax_2_Sikur",
+   "name": "Sikur",
+   "model": "Multilaser_GMax_2_Sikur"
   }
  ],
  "My": [
@@ -99930,6 +99950,11 @@
    "device": "WP12_Pro",
    "name": "WP12_Pro",
    "model": "WP12 Pro"
+  },
+  {
+   "device": "WP13",
+   "name": "WP13_EEA",
+   "model": "WP13"
   },
   {
    "device": "WP15",
@@ -136034,6 +136059,11 @@
    "model": "6156H"
   },
   {
+   "device": "Hong_Kong_Pro",
+   "name": "TCL 20Y",
+   "model": "A1 Alpha 21"
+  },
+  {
    "device": "Delhi_TF",
    "name": "TCL A3X",
    "model": "A600DL"
@@ -148469,6 +148499,11 @@
    "device": "Note_11P",
    "name": "Note 11P",
    "model": "Note 11P"
+  },
+  {
+   "device": "Note_12P",
+   "name": "Note 12P",
+   "model": "Note 12P"
   },
   {
    "device": "Note_6",
@@ -168044,11 +168079,6 @@
    "model": "TC52"
   },
   {
-   "device": "TC52X",
-   "name": "TC52ax",
-   "model": "TC52AX"
-  },
-  {
    "device": "TC55",
    "name": "TC55",
    "model": "TC55"
@@ -168162,6 +168192,11 @@
    "device": "TC52X",
    "name": "Zebra Technologies TC52XA",
    "model": "TC52X"
+  },
+  {
+   "device": "TC52X",
+   "name": "Zebra Technologies TC52ax",
+   "model": "TC52AX"
   },
   {
    "device": "TC52X",

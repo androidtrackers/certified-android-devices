@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-08-16
+Last sync is 2021-08-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3080,6 +3080,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|M6 2021|M0090WW|M6 2021|
 |Blu|M7|M110EQ|M7|
 |Blu|M7L|M0050LL|M7L|
+|Blu|M7i|M0160WW|M7i|
 |Blu|M8L|M0170WW|M8L|
 |Blu|M8L|M0171WW|M8L|
 |Blu|M8L PLUS|M0210WW|M8L PLUS|
@@ -7223,6 +7224,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel 4a|sunfish|Pixel 4a|
 |Google|Pixel 4a (5G)|bramble|Pixel 4a (5G)|
 |Google|Pixel 5|redfin|Pixel 5|
+|Google|Pixel 5a 5G|barbet|Pixel 5a|
 |Google|Pixel C|dragon|Pixel C|
 |Google|Pixel Slate|nocturne_cheets|Google Pixel Slate|
 |Google|Pixel Slate|nocturne_cheets|Pixel Slate|
@@ -9263,6 +9265,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|EDA51|EDA51-1|EDA51|
 |Honeywell|EDA51K|EDA51K-0|EDA51K|
 |Honeywell|EDA51K|EDA51K-1|EDA51K|
+|Honeywell|EDA52|EDA52|EDA52|
 |Honeywell|EDA61K|EDA61K-0C|EDA61K|
 |Honeywell|EDA61K|EDA61K-0U|EDA61K|
 |Honeywell|EDA61K|EDA61K-1C|EDA61K|
@@ -17776,6 +17779,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|Multilaser H|Multilaser_H|Multilaser H|
 |Multilaser|Multilaser_F|Multilaser_F|Multilaser_F|
 |Multilaser|OBASMART 3|OBASMART_3|OBASMART_3|
+|Multilaser|Sikur|Multilaser_GMax_2_Sikur|Multilaser_GMax_2_Sikur|
 |My|Android TV|tokyo|Android TV|
 |My|Android TV|yeoksam|Android TV|
 |My|Android TV|yeoksam|AndroidTV|
@@ -19448,6 +19452,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|WP1|OUKITEL_WP1|WP1|
 |Oukitel|WP10|WP10|WP10|
 |Oukitel|WP12_Pro|WP12_Pro|WP12 Pro|
+|Oukitel|WP13_EEA|WP13|WP13|
 |Oukitel|WP15|WP15|WP15|
 |Oukitel|WP2|WP2|WP2|
 |Oukitel|WP5|WP5|WP5|
@@ -26524,6 +26529,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 20Y|Hong_Kong_Pro|6156A|
 |TCL|TCL 20Y|Hong_Kong_Pro|6156D|
 |TCL|TCL 20Y|Hong_Kong_Pro|6156H|
+|TCL|TCL 20Y|Hong_Kong_Pro|A1 Alpha 21|
 |TCL|TCL A3X|Delhi_TF|A600DL|
 |TCL|TCL C5|A3A|5152D|
 |TCL|TCL C5|Gauss|5153A|
@@ -28947,6 +28953,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|MIX_2|MIX_2|MIX_2|
 |Ulefone|Note 10|Note_10|Note 10|
 |Ulefone|Note 11P|Note_11P|Note 11P|
+|Ulefone|Note 12P|Note_12P|Note 12P|
 |Ulefone|Note 6|Note_6|Note 6|
 |Ulefone|Note 8|Note_8|Note 8|
 |Ulefone|Note 8P|Note_8P|Note 8P|
@@ -32774,7 +32781,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|TC51|TC51|TC51|
 |Zebra|TC51|TC51HC|TC51|
 |Zebra|TC52|TC52|TC52|
-|Zebra|TC52ax|TC52X|TC52AX|
 |Zebra|TC55|TC55|TC55|
 |Zebra|TC56|TC56|TC56|
 |Zebra|TC57|TC57|TC57|
@@ -32798,6 +32804,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|Zebra Technologies MC9300|MC93|MC93|
 |Zebra|Zebra Technologies MC9300|MC93C|MC93|
 |Zebra|Zebra Technologies TC52XA|TC52X|TC52X|
+|Zebra|Zebra Technologies TC52ax|TC52X|TC52AX|
 |Zebra|Zebra Technologies TC52x|TC52X|TC52X|
 |Zebra|Zebra Technologies TC57XA|TC57X|TC57X|
 |Zebra|Zebra Technologies TC57x|TC57X|TC57X|

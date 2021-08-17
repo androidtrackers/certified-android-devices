@@ -29120,6 +29120,13 @@
    "model": "M7L"
   }
  ],
+ "M7i": [
+  {
+   "brand": "Blu",
+   "device": "M0160WW",
+   "model": "M7i"
+  }
+ ],
  "M8L": [
   {
    "brand": "Blu",
@@ -59032,6 +59039,13 @@
    "model": "Pixel 5"
   }
  ],
+ "Pixel 5a 5G": [
+  {
+   "brand": "Google",
+   "device": "barbet",
+   "model": "Pixel 5a"
+  }
+ ],
  "Pixel C": [
   {
    "brand": "Google",
@@ -71619,6 +71633,13 @@
    "brand": "Honeywell",
    "device": "EDA51K-1",
    "model": "EDA51K"
+  }
+ ],
+ "EDA52": [
+  {
+   "brand": "Honeywell",
+   "device": "EDA52",
+   "model": "EDA52"
   }
  ],
  "EDA61K": [
@@ -120613,6 +120634,13 @@
    "model": "OBASMART_3"
   }
  ],
+ "Sikur": [
+  {
+   "brand": "Multilaser",
+   "device": "Multilaser_GMax_2_Sikur",
+   "model": "Multilaser_GMax_2_Sikur"
+  }
+ ],
  "GoTab GBT10": [
   {
    "brand": "My Go",
@@ -130827,6 +130855,13 @@
    "brand": "Oukitel",
    "device": "WP12_Pro",
    "model": "WP12 Pro"
+  }
+ ],
+ "WP13_EEA": [
+  {
+   "brand": "Oukitel",
+   "device": "WP13",
+   "model": "WP13"
   }
  ],
  "WP15": [
@@ -172783,6 +172818,11 @@
    "brand": "TCL",
    "device": "Hong_Kong_Pro",
    "model": "6156H"
+  },
+  {
+   "brand": "TCL",
+   "device": "Hong_Kong_Pro",
+   "model": "A1 Alpha 21"
   }
  ],
  "TCL A3X": [
@@ -186583,6 +186623,13 @@
    "brand": "Ulefone",
    "device": "Note_11P",
    "model": "Note 11P"
+  }
+ ],
+ "Note 12P": [
+  {
+   "brand": "Ulefone",
+   "device": "Note_12P",
+   "model": "Note 12P"
   }
  ],
  "Note 8": [
@@ -208708,13 +208755,6 @@
    "model": "TC52"
   }
  ],
- "TC52ax": [
-  {
-   "brand": "Zebra",
-   "device": "TC52X",
-   "model": "TC52AX"
-  }
- ],
  "TC56": [
   {
    "brand": "Zebra",
@@ -208861,6 +208901,13 @@
    "brand": "Zebra",
    "device": "TC52X",
    "model": "TC52X"
+  }
+ ],
+ "Zebra Technologies TC52ax": [
+  {
+   "brand": "Zebra",
+   "device": "TC52X",
+   "model": "TC52AX"
   }
  ],
  "Zebra Technologies TC52x": [

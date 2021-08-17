@@ -25215,6 +25215,13 @@
    "model": "M7L"
   }
  ],
+ "M0160WW": [
+  {
+   "brand": "Blu",
+   "name": "M7i",
+   "model": "M7i"
+  }
+ ],
  "M0170WW": [
   {
    "brand": "Blu",
@@ -54865,6 +54872,13 @@
    "model": "Pixel 5"
   }
  ],
+ "barbet": [
+  {
+   "brand": "Google",
+   "name": "Pixel 5a 5G",
+   "model": "Pixel 5a"
+  }
+ ],
  "dragon": [
   {
    "brand": "Google",
@@ -66862,6 +66876,13 @@
    "brand": "Honeywell",
    "name": "EDA51K",
    "model": "EDA51K"
+  }
+ ],
+ "EDA52": [
+  {
+   "brand": "Honeywell",
+   "name": "EDA52",
+   "model": "EDA52"
   }
  ],
  "EDA61K-0C": [
@@ -120046,6 +120067,13 @@
    "model": "OBASMART_3"
   }
  ],
+ "Multilaser_GMax_2_Sikur": [
+  {
+   "brand": "Multilaser",
+   "name": "Sikur",
+   "model": "Multilaser_GMax_2_Sikur"
+  }
+ ],
  "tokyo": [
   {
    "brand": "My",
@@ -130677,6 +130705,13 @@
    "brand": "Oukitel",
    "name": "WP12_Pro",
    "model": "WP12 Pro"
+  }
+ ],
+ "WP13": [
+  {
+   "brand": "Oukitel",
+   "name": "WP13_EEA",
+   "model": "WP13"
   }
  ],
  "WP15": [
@@ -175537,6 +175572,11 @@
    "model": "6156H"
   },
   {
+   "brand": "TCL",
+   "name": "TCL 20Y",
+   "model": "A1 Alpha 21"
+  },
+  {
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 3L",
    "model": "6056A"
@@ -188949,6 +188989,13 @@
    "brand": "Ulefone",
    "name": "Note 11P",
    "model": "Note 11P"
+  }
+ ],
+ "Note_12P": [
+  {
+   "brand": "Ulefone",
+   "name": "Note 12P",
+   "model": "Note 12P"
   }
  ],
  "Note_6": [
@@ -211207,23 +211254,6 @@
    "model": "TC52"
   }
  ],
- "TC52X": [
-  {
-   "brand": "Zebra",
-   "name": "TC52ax",
-   "model": "TC52AX"
-  },
-  {
-   "brand": "Zebra",
-   "name": "Zebra Technologies TC52XA",
-   "model": "TC52X"
-  },
-  {
-   "brand": "Zebra",
-   "name": "Zebra Technologies TC52x",
-   "model": "TC52X"
-  }
- ],
  "TC56": [
   {
    "brand": "Zebra",
@@ -211356,6 +211386,23 @@
    "brand": "Zebra",
    "name": "Zebra Technologies MC9300",
    "model": "MC93"
+  }
+ ],
+ "TC52X": [
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies TC52XA",
+   "model": "TC52X"
+  },
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies TC52ax",
+   "model": "TC52AX"
+  },
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies TC52x",
+   "model": "TC52X"
   }
  ],
  "TC57X": [
