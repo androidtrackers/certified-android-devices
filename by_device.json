@@ -46982,6 +46982,13 @@
    "model": "GK788"
   }
  ],
+ "BZ02": [
+  {
+   "brand": "FCNT",
+   "name": "arrows BZ02",
+   "model": "BZ02"
+  }
+ ],
  "F41B": [
   {
    "brand": "FCNT",
@@ -47034,6 +47041,13 @@
    "brand": "FFFSMARTLIFE",
    "name": "FFFTAB7",
    "model": "FFFTAB7"
+  }
+ ],
+ "FFFTAB8": [
+  {
+   "brand": "FFFSMARTLIFE",
+   "name": "FFFTAB8",
+   "model": "FFFTAB8"
   }
  ],
  "AURII_AMUSE_3G": [
@@ -105085,6 +105099,13 @@
    "model": "ideatv K82"
   }
  ],
+ "mototabg20": [
+  {
+   "brand": "Lenovo",
+   "name": "moto tab g20",
+   "model": "moto tab g20"
+  }
+ ],
  "J716F": [
   {
    "brand": "Lenovo",
@@ -118457,6 +118478,18 @@
    "model": "moto g(6) plus"
   }
  ],
+ "lisbon": [
+  {
+   "brand": "Motorola",
+   "name": "moto g(60)s",
+   "model": "moto g(60)"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g(60)s",
+   "model": "moto g(60)s"
+  }
+ ],
  "river": [
   {
    "brand": "Motorola",
@@ -127858,6 +127891,18 @@
    "model": "OPG03"
   }
  ],
+ "OP4F4DL1": [
+  {
+   "brand": "Oppo",
+   "name": "CPH2211",
+   "model": "CPH2211"
+  },
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno5 Z",
+   "model": "CPH2213"
+  }
+ ],
  "OP4883": [
   {
    "brand": "Oppo",
@@ -128268,18 +128313,6 @@
    "brand": "Oppo",
    "name": "OPPO Reno5 Z",
    "model": "PELM00"
-  }
- ],
- "OP4F4DL1": [
-  {
-   "brand": "Oppo",
-   "name": "OPPO Reno5 Z",
-   "model": "CPH2211"
-  },
-  {
-   "brand": "Oppo",
-   "name": "OPPO Reno5 Z",
-   "model": "CPH2213"
   }
  ],
  "OP4E59": [
@@ -147292,6 +147325,11 @@
    "brand": "Samsung",
    "name": "Galaxy A03s",
    "model": "SM-A037F"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A03s",
+   "model": "SM-A037G"
   },
   {
    "brand": "Samsung",
@@ -194212,6 +194250,13 @@
    "brand": "Vivo",
    "name": "V2121A",
    "model": "V2121A"
+  }
+ ],
+ "PD2136": [
+  {
+   "brand": "Vivo",
+   "name": "V2136A",
+   "model": "V2136A"
   }
  ],
  "PD1524": [

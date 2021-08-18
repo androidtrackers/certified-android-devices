@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-08-17
+Last sync is 2021-08-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6112,6 +6112,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FBC|M24IS820|fst01ms|M24IS820|
 |FCC Movil|GK738_3G|GK738_3G|GK738_3G|
 |FCC Movil|GK788|GK788|GK788|
+|FCNT|arrows BZ02|BZ02|BZ02|
 |FCNT|arrows Be4 Plus F-41B|F41B|F-41B|
 |FEITIAN|F100|F100|F100|
 |FEITIAN|F100_EEA|F100|F100|
@@ -6120,6 +6121,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FFFSMARTLIFE|FFFTAB10a2|FFFTAB10a2|FFFTAB10a2|
 |FFFSMARTLIFE|FFFTAB10a3|FFFTAB10a3|FFFTAB10a3|
 |FFFSMARTLIFE|FFFTAB7|FFFTAB7|FFFTAB7|
+|FFFSMARTLIFE|FFFTAB8|FFFTAB8|FFFTAB8|
 |FIREFLY MOBILE|AURII_AMUSE_3G|AURII_AMUSE_3G|AURII_AMUSE_3G|
 |FIREFLY MOBILE|FIREFLY MOBILE|AURII_XCITE|AURII_XCITE|
 |FIREFLY MOBILE|INTENSE_XT|INTENSE_XT|INTENSE_XT|
@@ -15456,6 +15458,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|d-42A|d-42A|d-42A|
 |Lenovo|ideatv S52|ideatv_S52|ideatv S52|
 |Lenovo|ideatvK82 60LX750A  52LX750A  46LX750A  60LX850A  70LX850A 80LX850A|ideatv_K82|ideatv K82|
+|Lenovo|moto tab g20|mototabg20|moto tab g20|
 |Lenovo|小新Pad Pro 2021|J716F|Lenovo TB-J716F|
 |Lenovo|小新平板|TB-8804F|Lenovo TB-8804F|
 |Lenovo|小新平板|X804F|Lenovo TB-X804F|
@@ -17522,6 +17525,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g(6) plus|evert_n|Moto G (5) Plus|
 |Motorola|moto g(6) plus|evert_n|moto g(6) plus|
 |Motorola|moto g(6) plus|evert_nt|moto g(6) plus|
+|Motorola|moto g(60)s|lisbon|moto g(60)|
+|Motorola|moto g(60)s|lisbon|moto g(60)s|
 |Motorola|moto g(7)|river|moto g(6)|
 |Motorola|moto g(7)|river|moto g(7)|
 |Motorola|moto g(7)|river_n|moto g(7)|
@@ -19018,6 +19023,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|CPH2185|OP4F2F|CPH2185|
 |Oppo|CPH2195|OP4F39L1|CPH2195|
 |Oppo|CPH2197|OP4F39L1|CPH2197|
+|Oppo|CPH2211|OP4F4DL1|CPH2211|
 |Oppo|CPH2219|OP4F11L1|CPH2219|
 |Oppo|CPH2239|OP4F2F|CPH2239|
 |Oppo|F11|OP4883|CPH1911|
@@ -19091,7 +19097,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Reno5 A|OP4F2BL1|CPH2199|
 |Oppo|OPPO Reno5 Pro+ 5G|OP4EA7|PDRM00|
 |Oppo|OPPO Reno5 Z|OP4EB7|PELM00|
-|Oppo|OPPO Reno5 Z|OP4F4DL1|CPH2211|
 |Oppo|OPPO Reno5 Z|OP4F4DL1|CPH2213|
 |Oppo|OPPO Reno5 k 5G|OP4E59|PEGM10|
 |Oppo|OPPO Reno5 k 5G|OP4E59|PEGT10|
@@ -22102,6 +22107,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A02s|a02q|SM-A025V|
 |Samsung|Galaxy A02s|a02q|SM-S124DL|
 |Samsung|Galaxy A03s|a03s|SM-A037F|
+|Samsung|Galaxy A03s|a03s|SM-A037G|
 |Samsung|Galaxy A03s|a03s|SM-A037M|
 |Samsung|Galaxy A10|a10|SM-A105F|
 |Samsung|Galaxy A10|a10|SM-A105FN|
@@ -29830,6 +29836,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2111A|PD2111|V2111A|
 |Vivo|V2118A|PD2118|V2118A|
 |Vivo|V2121A|PD2121|V2121A|
+|Vivo|V2136A|PD2136|V2136A|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
 |Vivo|V3Lite|V3Lite|vivo V3Lite|

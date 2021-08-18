@@ -31734,6 +31734,11 @@
  ],
  "FCNT": [
   {
+   "device": "BZ02",
+   "name": "arrows BZ02",
+   "model": "BZ02"
+  },
+  {
    "device": "F41B",
    "name": "arrows Be4 Plus F-41B",
    "model": "F-41B"
@@ -31778,6 +31783,11 @@
    "device": "FFFTAB7",
    "name": "FFFTAB7",
    "model": "FFFTAB7"
+  },
+  {
+   "device": "FFFTAB8",
+   "name": "FFFTAB8",
+   "model": "FFFTAB8"
   }
  ],
  "FIREFLY MOBILE": [
@@ -79316,6 +79326,11 @@
    "model": "ideatv K82"
   },
   {
+   "device": "mototabg20",
+   "name": "moto tab g20",
+   "model": "moto tab g20"
+  },
+  {
    "device": "J716F",
    "name": "小新Pad Pro 2021",
    "model": "Lenovo TB-J716F"
@@ -89978,6 +89993,16 @@
    "model": "moto g(6) plus"
   },
   {
+   "device": "lisbon",
+   "name": "moto g(60)s",
+   "model": "moto g(60)"
+  },
+  {
+   "device": "lisbon",
+   "name": "moto g(60)s",
+   "model": "moto g(60)s"
+  },
+  {
    "device": "river",
    "name": "moto g(7)",
    "model": "moto g(6)"
@@ -97764,6 +97789,11 @@
    "model": "CPH2197"
   },
   {
+   "device": "OP4F4DL1",
+   "name": "CPH2211",
+   "model": "CPH2211"
+  },
+  {
    "device": "OP4F11L1",
    "name": "CPH2219",
    "model": "CPH2219"
@@ -98127,11 +98157,6 @@
    "device": "OP4EB7",
    "name": "OPPO Reno5 Z",
    "model": "PELM00"
-  },
-  {
-   "device": "OP4F4DL1",
-   "name": "OPPO Reno5 Z",
-   "model": "CPH2211"
   },
   {
    "device": "OP4F4DL1",
@@ -113646,6 +113671,11 @@
    "device": "a03s",
    "name": "Galaxy A03s",
    "model": "SM-A037F"
+  },
+  {
+   "device": "a03s",
+   "name": "Galaxy A03s",
+   "model": "SM-A037G"
   },
   {
    "device": "a03s",
@@ -153054,6 +153084,11 @@
    "device": "PD2121",
    "name": "V2121A",
    "model": "V2121A"
+  },
+  {
+   "device": "PD2136",
+   "name": "V2136A",
+   "model": "V2136A"
   },
   {
    "device": "PD1524",

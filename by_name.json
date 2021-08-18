@@ -51249,6 +51249,13 @@
    "model": "GK788"
   }
  ],
+ "arrows BZ02": [
+  {
+   "brand": "FCNT",
+   "device": "BZ02",
+   "model": "BZ02"
+  }
+ ],
  "arrows Be4 Plus F-41B": [
   {
    "brand": "FCNT",
@@ -51313,6 +51320,13 @@
    "brand": "FFFSMARTLIFE",
    "device": "FFFTAB7",
    "model": "FFFTAB7"
+  }
+ ],
+ "FFFTAB8": [
+  {
+   "brand": "FFFSMARTLIFE",
+   "device": "FFFTAB8",
+   "model": "FFFTAB8"
   }
  ],
  "AURII_AMUSE_3G": [
@@ -106546,6 +106560,13 @@
    "model": "ideatv K82"
   }
  ],
+ "moto tab g20": [
+  {
+   "brand": "Lenovo",
+   "device": "mototabg20",
+   "model": "moto tab g20"
+  }
+ ],
  "小新Pad Pro 2021": [
   {
    "brand": "Lenovo",
@@ -118986,6 +119007,18 @@
    "model": "moto g(6) plus"
   }
  ],
+ "moto g(60)s": [
+  {
+   "brand": "Motorola",
+   "device": "lisbon",
+   "model": "moto g(60)"
+  },
+  {
+   "brand": "Motorola",
+   "device": "lisbon",
+   "model": "moto g(60)s"
+  }
+ ],
  "moto g(7)": [
   {
    "brand": "Motorola",
@@ -128124,6 +128157,13 @@
    "model": "CPH2197"
   }
  ],
+ "CPH2211": [
+  {
+   "brand": "Oppo",
+   "device": "OP4F4DL1",
+   "model": "CPH2211"
+  }
+ ],
  "CPH2219": [
   {
    "brand": "Oppo",
@@ -128516,11 +128556,6 @@
    "brand": "Oppo",
    "device": "OP4EB7",
    "model": "PELM00"
-  },
-  {
-   "brand": "Oppo",
-   "device": "OP4F4DL1",
-   "model": "CPH2211"
   },
   {
    "brand": "Oppo",
@@ -147477,6 +147512,11 @@
    "brand": "Samsung",
    "device": "a03s",
    "model": "SM-A037F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a03s",
+   "model": "SM-A037G"
   },
   {
    "brand": "Samsung",
@@ -192025,6 +192065,13 @@
    "brand": "Vivo",
    "device": "PD2121",
    "model": "V2121A"
+  }
+ ],
+ "V2136A": [
+  {
+   "brand": "Vivo",
+   "device": "PD2136",
+   "model": "V2136A"
   }
  ],
  "V3Lite": [

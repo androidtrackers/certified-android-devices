@@ -44741,6 +44741,13 @@
    "device": "GK788"
   }
  ],
+ "BZ02": [
+  {
+   "brand": "FCNT",
+   "name": "arrows BZ02",
+   "device": "BZ02"
+  }
+ ],
  "F-41B": [
   {
    "brand": "FCNT",
@@ -44798,6 +44805,13 @@
    "brand": "FFFSMARTLIFE",
    "name": "FFFTAB7",
    "device": "FFFTAB7"
+  }
+ ],
+ "FFFTAB8": [
+  {
+   "brand": "FFFSMARTLIFE",
+   "name": "FFFTAB8",
+   "device": "FFFTAB8"
   }
  ],
  "AURII_AMUSE_3G": [
@@ -107663,6 +107677,13 @@
    "device": "ideatv_K82"
   }
  ],
+ "moto tab g20": [
+  {
+   "brand": "Lenovo",
+   "name": "moto tab g20",
+   "device": "mototabg20"
+  }
+ ],
  "Lenovo TB-J716F": [
   {
    "brand": "Lenovo",
@@ -121210,6 +121231,25 @@
    "device": "lake_n"
   }
  ],
+ "moto g(60)": [
+  {
+   "brand": "Motorola",
+   "name": "moto g(60)s",
+   "device": "lisbon"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g60",
+   "device": "hanoip"
+  }
+ ],
+ "moto g(60)s": [
+  {
+   "brand": "Motorola",
+   "name": "moto g(60)s",
+   "device": "lisbon"
+  }
+ ],
  "moto g(7)": [
   {
    "brand": "Motorola",
@@ -121377,13 +121417,6 @@
   {
    "brand": "Motorola",
    "name": "moto g40 fusion",
-   "device": "hanoip"
-  }
- ],
- "moto g(60)": [
-  {
-   "brand": "Motorola",
-   "name": "moto g60",
    "device": "hanoip"
   }
  ],
@@ -130862,6 +130895,13 @@
    "device": "OP4F39L1"
   }
  ],
+ "CPH2211": [
+  {
+   "brand": "Oppo",
+   "name": "CPH2211",
+   "device": "OP4F4DL1"
+  }
+ ],
  "CPH1911": [
   {
    "brand": "Oppo",
@@ -131359,13 +131399,6 @@
    "brand": "Oppo",
    "name": "OPPO Reno5 Z",
    "device": "OP4EB7"
-  }
- ],
- "CPH2211": [
-  {
-   "brand": "Oppo",
-   "name": "OPPO Reno5 Z",
-   "device": "OP4F4DL1"
   }
  ],
  "CPH2213": [
@@ -151005,6 +151038,13 @@
   }
  ],
  "SM-A037F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A03s",
+   "device": "a03s"
+  }
+ ],
+ "SM-A037G": [
   {
    "brand": "Samsung",
    "name": "Galaxy A03s",
@@ -202321,6 +202361,13 @@
    "brand": "Vivo",
    "name": "V2121A",
    "device": "PD2121"
+  }
+ ],
+ "V2136A": [
+  {
+   "brand": "Vivo",
+   "name": "V2136A",
+   "device": "PD2136"
   }
  ],
  "vivo V3": [
