@@ -31746,6 +31746,13 @@
    "model": "AI PONT"
   }
  ],
+ "C6_R_EEA": [
+  {
+   "brand": "CILICO",
+   "device": "C6_R",
+   "model": "C6"
+  }
+ ],
  "F750": [
   {
    "brand": "CILICO",
@@ -90979,6 +90986,13 @@
    "model": "SKY_55_EEA"
   }
  ],
+ "SWEET5": [
+  {
+   "brand": "Konrow",
+   "device": "SWEET5",
+   "model": "SWEET5"
+  }
+ ],
  "SWEET_55": [
   {
    "brand": "Konrow",
@@ -120016,6 +120030,13 @@
    "brand": "Multilaser",
    "device": "ML_SO0G_M10_4G_PRO_PLUS",
    "model": "M10_4G_PRO"
+  }
+ ],
+ "M7 3G": [
+  {
+   "brand": "Multilaser",
+   "device": "ML_WI0B_M7_3G",
+   "model": "M7_3G"
   }
  ],
  "M7 3G A10": [
@@ -165859,6 +165880,13 @@
    "brand": "SkyLife",
    "device": "KSTB2019",
    "model": "KSTB2019"
+  }
+ ],
+ "KSTB6165": [
+  {
+   "brand": "SkyLife",
+   "device": "KSTB6165",
+   "model": "KSTB6165"
   }
  ],
  "Skylife android 2nd TV": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-08-18
+Last sync is 2021-08-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3407,6 +3407,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CHiQ|H7A|samseong|AI PONT|
 |CHiQ|M7A|samseong|AI PONT|
 |CILICO|C6|C6|C6|
+|CILICO|C6_R_EEA|C6_R|C6|
 |CILICO|F750|F750|F750|
 |CILICO|F880|F880|F880|
 |CIMRL|tab10|tab10|tab10|
@@ -12663,6 +12664,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Konrow|SKY PLUS|KONROW_SKY_PLUS|SKY PLUS|
 |Konrow|SKY55|SKY55|SKY55_EEA|
 |Konrow|SKY_55|SKY_55|SKY_55_EEA|
+|Konrow|SWEET5|SWEET5|SWEET5|
 |Konrow|SWEET_55|SWEET_55|SWEET 55|
 |Konrow|Sky|Sky|Sky|
 |Konrow|Smartfive|KONROW_Smartfive|Smartfive|
@@ -17685,6 +17687,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M10A_Lite|ML_SO0A_M10A_Lite|M10A_Lite|
 |Multilaser|M10_4G_PRO|ML-SO0C_M10_4G_PRO_PLUS|M10_4G_PRO|
 |Multilaser|M10_4G_PRO|ML_SO0G_M10_4G_PRO_PLUS|M10_4G_PRO|
+|Multilaser|M7 3G|ML_WI0B_M7_3G|M7_3G|
 |Multilaser|M7 3G A10|ML_WI4A_M7_3G_A10|M7_3G_A10|
 |Multilaser|M7 3G PLUS|ML-JI0G-M7-3G-PLUS|M7-3G-PLUS|
 |Multilaser|M7 3G PLUS|ML-JI11-M7_3G_PLUS|M7_3G_PLUS|
@@ -25337,6 +25340,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|UNO Royale Plus|Royale_Plus|UNO Royale Plus|
 |Sky Devices|pro selfie|PRO_SELFIE|PRO_SELFIE|
 |SkyLife|KSTB2019|KSTB2019|KSTB2019|
+|SkyLife|KSTB6165|KSTB6165|KSTB6165|
 |SkyLife|Skylife android 2nd TV|DMTS18SS|USI-7000NA|
 |SkyLife|UHD2|IC1110|IC1110|
 |SkyLife|UHD_S56AT|INTEKS19SS|UHD_S56AT|

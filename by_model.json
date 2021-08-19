@@ -22497,6 +22497,11 @@
    "device": "C6"
   },
   {
+   "brand": "CILICO",
+   "name": "C6_R_EEA",
+   "device": "C6_R"
+  },
+  {
    "brand": "Handheld-Wireless",
    "name": "C6",
    "device": "C6"
@@ -88983,6 +88988,13 @@
    "device": "SKY_55"
   }
  ],
+ "SWEET5": [
+  {
+   "brand": "Konrow",
+   "name": "SWEET5",
+   "device": "SWEET5"
+  }
+ ],
  "SWEET 55": [
   {
    "brand": "Konrow",
@@ -122195,6 +122207,13 @@
    "brand": "Multilaser",
    "name": "M10A_Lite",
    "device": "ML_SO0A_M10A_Lite"
+  }
+ ],
+ "M7_3G": [
+  {
+   "brand": "Multilaser",
+   "name": "M7 3G",
+   "device": "ML_WI0B_M7_3G"
   }
  ],
  "M7_3G_A10": [
@@ -173025,6 +173044,13 @@
    "brand": "SkyLife",
    "name": "KSTB2019",
    "device": "KSTB2019"
+  }
+ ],
+ "KSTB6165": [
+  {
+   "brand": "SkyLife",
+   "name": "KSTB6165",
+   "device": "KSTB6165"
   }
  ],
  "USI-7000NA": [

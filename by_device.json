@@ -27397,6 +27397,13 @@
    "model": "sti6130d353"
   }
  ],
+ "C6_R": [
+  {
+   "brand": "CILICO",
+   "name": "C6_R_EEA",
+   "model": "C6"
+  }
+ ],
  "F750": [
   {
    "brand": "CILICO",
@@ -87585,6 +87592,13 @@
    "model": "SKY_55_EEA"
   }
  ],
+ "SWEET5": [
+  {
+   "brand": "Konrow",
+   "name": "SWEET5",
+   "model": "SWEET5"
+  }
+ ],
  "SWEET_55": [
   {
    "brand": "Konrow",
@@ -119417,6 +119431,13 @@
    "brand": "Multilaser",
    "name": "M10_4G_PRO",
    "model": "M10_4G_PRO"
+  }
+ ],
+ "ML_WI0B_M7_3G": [
+  {
+   "brand": "Multilaser",
+   "name": "M7 3G",
+   "model": "M7_3G"
   }
  ],
  "ML_WI4A_M7_3G_A10": [
@@ -167804,6 +167825,13 @@
    "brand": "SkyLife",
    "name": "KSTB2019",
    "model": "KSTB2019"
+  }
+ ],
+ "KSTB6165": [
+  {
+   "brand": "SkyLife",
+   "name": "KSTB6165",
+   "model": "KSTB6165"
   }
  ],
  "DMTS18SS": [

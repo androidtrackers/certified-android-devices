@@ -17577,6 +17577,11 @@
    "model": "C6"
   },
   {
+   "device": "C6_R",
+   "name": "C6_R_EEA",
+   "model": "C6"
+  },
+  {
    "device": "F750",
    "name": "F750",
    "model": "F750"
@@ -65235,6 +65240,11 @@
    "model": "SKY_55_EEA"
   },
   {
+   "device": "SWEET5",
+   "name": "SWEET5",
+   "model": "SWEET5"
+  },
+  {
    "device": "SWEET_55",
    "name": "SWEET_55",
    "model": "SWEET 55"
@@ -90823,6 +90833,11 @@
    "device": "ML_SO0G_M10_4G_PRO_PLUS",
    "name": "M10_4G_PRO",
    "model": "M10_4G_PRO"
+  },
+  {
+   "device": "ML_WI0B_M7_3G",
+   "name": "M7 3G",
+   "model": "M7_3G"
   },
   {
    "device": "ML_WI4A_M7_3G_A10",
@@ -129919,6 +129934,11 @@
    "device": "KSTB2019",
    "name": "KSTB2019",
    "model": "KSTB2019"
+  },
+  {
+   "device": "KSTB6165",
+   "name": "KSTB6165",
+   "model": "KSTB6165"
   },
   {
    "device": "DMTS18SS",
