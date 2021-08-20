@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-08-19
+Last sync is 2021-08-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6678,6 +6678,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GD Classbook|TA80CA1|TA80CA1_2|TA80CA1|
 |GDM (es)|MB10|MB10|MB10|
 |GDM (es)|P4R|P4R|P4R|
+|GE Appliances|Kitchen Hub|syklone|uvh1301|
 |GENESIS|GT-7550|GT-7550|GT-7550|
 |GEOFOX|GEOFOX_MID743|GEOFOX_MID743|GEOFOX_MID743|
 |GFive|Gpad701|Gpad701|Gpad701|
@@ -14239,6 +14240,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|ZONE4|cv1|LM-X210VPP|
 |LGE|Zone3|e1q|VS425PP|
 |LGU+|TV G|smartbox|TI320-DU|
+|LGU+|Technicolor|ute7057lgu|ute7057lgu|
 |LGU+|U+ tv UHD|tvg2|ST940I-UP|
 |LGU+|U+ tv woofer|hg2|LAP250U|
 |LGU+|U+ tv woofer 1.5|hg2_iot|LAP255U|
@@ -21611,6 +21613,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reliance|RC555L|RC555L|RC555L|
 |Reliance|Smartphone JS LS-5010|LS-5010|LS-5010|
 |Remdun|RD-52|RD52|RD52|
+|Remdun|RD11PT|RD11PT|RD11PT|
 |Remdun|RD11PTE|RD11PTE|RD11PTE|
 |Remdun|RD15PQE|RD15PQE|RD15PQE|
 |Remdun|RD15QE|RD15QE|RD15QE|

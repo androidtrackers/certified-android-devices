@@ -48925,6 +48925,13 @@
    "device": "P4R"
   }
  ],
+ "uvh1301": [
+  {
+   "brand": "GE Appliances",
+   "name": "Kitchen Hub",
+   "device": "syklone"
+  }
+ ],
  "GT-7550": [
   {
    "brand": "GENESIS",
@@ -99466,6 +99473,13 @@
    "device": "smartbox"
   }
  ],
+ "ute7057lgu": [
+  {
+   "brand": "LGU+",
+   "name": "Technicolor",
+   "device": "ute7057lgu"
+  }
+ ],
  "ST940I-UP": [
   {
    "brand": "LGU+",
@@ -147791,6 +147805,13 @@
    "brand": "Remdun",
    "name": "RD-52",
    "device": "RD52"
+  }
+ ],
+ "RD11PT": [
+  {
+   "brand": "Remdun",
+   "name": "RD11PT",
+   "device": "RD11PT"
   }
  ],
  "RD11PTE": [

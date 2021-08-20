@@ -34686,6 +34686,13 @@
    "model": "P4R"
   }
  ],
+ "GE Appliances": [
+  {
+   "device": "syklone",
+   "name": "Kitchen Hub",
+   "model": "uvh1301"
+  }
+ ],
  "GENESIS": [
   {
    "device": "GT-7550",
@@ -73157,6 +73164,11 @@
    "model": "TI320-DU"
   },
   {
+   "device": "ute7057lgu",
+   "name": "Technicolor",
+   "model": "ute7057lgu"
+  },
+  {
    "device": "tvg2",
    "name": "U+ tv UHD",
    "model": "ST940I-UP"
@@ -111039,6 +111051,11 @@
    "device": "RD52",
    "name": "RD-52",
    "model": "RD52"
+  },
+  {
+   "device": "RD11PT",
+   "name": "RD11PT",
+   "model": "RD11PT"
   },
   {
    "device": "RD11PTE",
