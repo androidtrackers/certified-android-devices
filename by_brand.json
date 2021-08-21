@@ -78293,6 +78293,11 @@
    "model": "Lenovo TB-Q706F"
   },
   {
+   "device": "TB-J6C6F",
+   "name": "Lenovo Tab QT K11",
+   "model": "Lenovo TB-J6C6F"
+  },
+  {
    "device": "J607Z",
    "name": "Lenovo Tab QT K11 Pro 5G",
    "model": "Lenovo TB-J607Z"
@@ -169470,6 +169475,11 @@
   }
  ],
  "dazen": [
+  {
+   "device": "m393gena_dazn",
+   "name": "DAZN",
+   "model": "DAZN"
+  },
   {
    "device": "dazen_6A",
    "name": "dazen 6A",

@@ -103798,6 +103798,13 @@
    "model": "Lenovo TB-Q706F"
   }
  ],
+ "TB-J6C6F": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab QT K11",
+   "model": "Lenovo TB-J6C6F"
+  }
+ ],
  "J607F": [
   {
    "brand": "Lenovo",
@@ -212774,6 +212781,13 @@
    "brand": "carrozzeria",
    "name": "SDA-700TAB",
    "model": "SDA-700TAB"
+  }
+ ],
+ "m393gena_dazn": [
+  {
+   "brand": "dazen",
+   "name": "DAZN",
+   "model": "DAZN"
   }
  ],
  "dazen_6A": [

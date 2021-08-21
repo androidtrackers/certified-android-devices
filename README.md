@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-08-20
+Last sync is 2021-08-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -15251,6 +15251,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab P11 Pro|J706F|Lenovo TB-J706F|
 |Lenovo|Lenovo Tab P11 Pro|J706L|Lenovo TB-J706L|
 |Lenovo|Lenovo Tab P12 Pro|Q706F|Lenovo TB-Q706F|
+|Lenovo|Lenovo Tab QT K11|TB-J6C6F|Lenovo TB-J6C6F|
 |Lenovo|Lenovo Tab QT K11 Pro 5G|J607Z|Lenovo TB-J607Z|
 |Lenovo|Lenovo Tab QT K11 Pro WIFI|J607F|Lenovo TB-J607F|
 |Lenovo|Lenovo Tab V7|PB-6505M|Lenovo PB-6505M|
@@ -33047,6 +33048,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |d.light|M1000D|M1000|M1000|
 |d.light|M200|M200|M200|
 |d.light|M200A|M200|M200|
+|dazen|DAZN|m393gena_dazn|DAZN|
 |dazen|dazen 6A|dazen_6A|dazen 6A|
 |dazen|dazen 6E|dazen_6E|dazen 6E|
 |du (UAE)|IPBS9520|IPBS9520|IPBS9520|

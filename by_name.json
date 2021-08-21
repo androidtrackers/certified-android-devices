@@ -105364,6 +105364,13 @@
    "model": "Lenovo TB-Q706F"
   }
  ],
+ "Lenovo Tab QT K11": [
+  {
+   "brand": "Lenovo",
+   "device": "TB-J6C6F",
+   "model": "Lenovo TB-J6C6F"
+  }
+ ],
  "Lenovo Tab QT K11 Pro 5G": [
   {
    "brand": "Lenovo",
@@ -210363,6 +210370,13 @@
    "brand": "d.light",
    "device": "M200",
    "model": "M200"
+  }
+ ],
+ "DAZN": [
+  {
+   "brand": "dazen",
+   "device": "m393gena_dazn",
+   "model": "DAZN"
   }
  ],
  "dazen 6A": [
