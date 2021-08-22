@@ -104763,6 +104763,11 @@
   {
    "device": "S518",
    "name": "Twist 4 Pro",
+   "model": "Twist 4 Pro Correios"
+  },
+  {
+   "device": "S518",
+   "name": "Twist 4 Pro",
    "model": "UP 32"
   },
   {
@@ -153131,6 +153136,11 @@
    "device": "PD2136",
    "name": "V2136A",
    "model": "V2136A"
+  },
+  {
+   "device": "PD2141",
+   "name": "V2141A",
+   "model": "V2141A"
   },
   {
    "device": "PD1524",

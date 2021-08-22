@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-08-21
+Last sync is 2021-08-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -20385,6 +20385,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|Twist 4 Fit|S509N|Twist 4 Fit|
 |Positivo|Twist 4 Fit|S509N|YOLO|
 |Positivo|Twist 4 Pro|S518|Twist 4 Pro|
+|Positivo|Twist 4 Pro|S518|Twist 4 Pro Correios|
 |Positivo|Twist 4 Pro|S518|UP 32|
 |Positivo|Twist 4G|S5094G|Twist 4G|
 |Positivo|Twist 4G|S520_4G|Positivo Twist 4G|
@@ -29845,6 +29846,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2118A|PD2118|V2118A|
 |Vivo|V2121A|PD2121|V2121A|
 |Vivo|V2136A|PD2136|V2136A|
+|Vivo|V2141A|PD2141|V2141A|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
 |Vivo|V3Lite|V3Lite|vivo V3Lite|

@@ -136835,6 +136835,11 @@
   {
    "brand": "Positivo",
    "device": "S518",
+   "model": "Twist 4 Pro Correios"
+  },
+  {
+   "brand": "Positivo",
+   "device": "S518",
    "model": "UP 32"
   }
  ],
@@ -192128,6 +192133,13 @@
    "brand": "Vivo",
    "device": "PD2136",
    "model": "V2136A"
+  }
+ ],
+ "V2141A": [
+  {
+   "brand": "Vivo",
+   "device": "PD2141",
+   "model": "V2141A"
   }
  ],
  "V3Lite": [
