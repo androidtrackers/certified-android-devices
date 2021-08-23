@@ -146663,6 +146663,13 @@
    "device": "RE5469"
   }
  ],
+ "RMX3366": [
+  {
+   "brand": "Realme",
+   "name": "真我GT 大师探索版",
+   "device": "RE546F"
+  }
+ ],
  "RMX3142": [
   {
    "brand": "Realme",
@@ -179240,6 +179247,13 @@
    "brand": "Sunbio",
    "name": "SB-TM700",
    "device": "SB-TM700"
+  }
+ ],
+ "V2s_GL": [
+  {
+   "brand": "Sunmi",
+   "name": "Sunmi V2s",
+   "device": "V2s"
   }
  ],
  "SN10016": [

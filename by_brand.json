@@ -110206,6 +110206,11 @@
    "model": "RMX3350"
   },
   {
+   "device": "RE546F",
+   "name": "真我GT 大师探索版",
+   "model": "RMX3366"
+  },
+  {
    "device": "RE811C",
    "name": "真我Q3 Pro 狂欢版",
    "model": "RMX3142"
@@ -134863,6 +134868,13 @@
    "device": "SB-TM700",
    "name": "SB-TM700",
    "model": "SB-TM700"
+  }
+ ],
+ "Sunmi": [
+  {
+   "device": "V2s",
+   "name": "Sunmi V2s",
+   "model": "V2s_GL"
   }
  ],
  "Sunny": [

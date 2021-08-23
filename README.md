@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-08-22
+Last sync is 2021-08-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -21448,6 +21448,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|真我GT|RMX2202CN|RMX2202|
 |Realme|真我GT Neo|RMX3031CN|RMX3031|
 |Realme|真我GT Neo 闪速版|RE5469|RMX3350|
+|Realme|真我GT 大师探索版|RE546F|RMX3366|
 |Realme|真我Q3 Pro 狂欢版|RE811C|RMX3142|
 |Realme|真我V13 5G|RE5081|RMX3041|
 |Realme|真我V13 5G|RE5081|RMX3042|
@@ -26301,6 +26302,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sumitomo Electric Industries|ST4500|ST4500|ST-4500|
 |Sumitomo Electric Networks||dhe1100|Hikari-iFrame/WDPF-703SE|
 |Sunbio|SB-TM700|SB-TM700|SB-TM700|
+|Sunmi|Sunmi V2s|V2s|V2s_GL|
 |Sunny|SN10016|SN10016|SN10016|
 |Sunny|SN10064|TABLET|SN10064|
 |Sunny|SN7016|SN7016|SN7016|

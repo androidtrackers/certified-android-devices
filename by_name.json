@@ -143584,6 +143584,13 @@
    "model": "RMX3350"
   }
  ],
+ "真我GT 大师探索版": [
+  {
+   "brand": "Realme",
+   "device": "RE546F",
+   "model": "RMX3366"
+  }
+ ],
  "真我Q3 Pro 狂欢版": [
   {
    "brand": "Realme",
@@ -171474,6 +171481,13 @@
    "brand": "Sunbio",
    "device": "SB-TM700",
    "model": "SB-TM700"
+  }
+ ],
+ "Sunmi V2s": [
+  {
+   "brand": "Sunmi",
+   "device": "V2s",
+   "model": "V2s_GL"
   }
  ],
  "SN10016": [

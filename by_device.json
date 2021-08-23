@@ -99010,6 +99010,11 @@
    "brand": "Lava",
    "name": "V2s",
    "model": "V2s M"
+  },
+  {
+   "brand": "Sunmi",
+   "name": "Sunmi V2s",
+   "model": "V2s_GL"
   }
  ],
  "LE9920_P": [
@@ -143201,6 +143206,13 @@
    "brand": "Realme",
    "name": "真我GT Neo 闪速版",
    "model": "RMX3350"
+  }
+ ],
+ "RE546F": [
+  {
+   "brand": "Realme",
+   "name": "真我GT 大师探索版",
+   "model": "RMX3366"
   }
  ],
  "RE811C": [
