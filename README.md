@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-08-23
+Last sync is 2021-08-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -910,6 +910,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Alldocube|U1006H|U1006H|U1006H|
 |Alldocube|U1006HE|U1006HE|U1006HE|
 |Alldocube|U63PLUS|U63PLUS|U63PLUS|
+|Alldocube|iPlay 20P|T1021P|iPlay_20P|
 |Alldocube|iPlay 20S|T1021|iPlay20S|
 |Alldocube|iPlay 40H|T1020H|iPlay_40H|
 |Alldocube|iPlay 8 Pro|T806MH|T806MH|
@@ -2498,6 +2499,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BRAVA|DU-500|DU-500|DU-500|
 |BRAVA|DU-600|DU_600|DU-600|
 |BRAVE|BT7X1|BT7X1|BT7X1|
+|BRAVE|BT8X1|BT8X1|BT8X1|
 |BRAVE|BTSL1|BTSL1|BTSL1|
 |BRAVE|BTXS1|BTXS1|BTXS1|
 |BRAVE|EX10SL4|EXCEED|EX10SL4|
@@ -3046,6 +3048,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G90|G0310WW|G90|
 |Blu|G90 PRO|G0370WW|G90 PRO|
 |Blu|G91|G0410WW|G91|
+|Blu|G91 Pro|G0530WW|G91 Pro|
 |Blu|GRAND 5.5 HD|BLU_GRAND_5_5_HD|BLU GRAND 5.5 HD|
 |Blu|Grand 5.5 HD II|G210Q|Grand 5.5 HD II|
 |Blu|Grand Energy|Grand_Energy|Grand Energy|
@@ -3681,6 +3684,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cellon|i-mobile IQ X2A|M8050SA|i-mobile IQ X2A|
 |Cellon|iris pro 30|pro30|iris pro 30|
 |Cellon|starTIM1|starTIM1|starTIM1|
+|Cellution|COSMAS_X|COSMAS_X|COSMAS X|
 |Cellution|CT_Cosmas_V|CT_Cosmas_V|CT_Cosmas_V|
 |Cellution|Cosmas|Cosmas|Cosmas|
 |Cellution|IRIS|IRIS|IRIS|
@@ -7262,6 +7266,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gradiente|iphone C600|GBC_bravo|iphone C600|
 |Gradiente|iphone C600|bravo|iphone C600|
 |Greatwall|100011886|tablet|100011886|
+|Greatwall|100011886_GTW|tablet|100011886_GTW|
 |Greatwall|K701|K701|K701|
 |Greatwall|T709GW|T709GW|Great Wall T709|
 |Greatwall|W710|W710|W710|
@@ -7320,6 +7325,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Guess|Wear|glowlight|GUESS Connect|
 |Guophone|X3|X3|X3|
 |Guophone|XP9800|Guophone_XP9800|XP9800|
+|H133|Betacrux|Betacrux|Betacrux|
 |HAKO|HAKO mini|GMP|HAKO mini|
 |HANYEAL|E101GC|E101GC|E101GC|
 |HANYEAL|E108GC4G|E108GC4G|E108GC4G|
@@ -12552,6 +12558,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Klipad|KL1018N_EEA|KL1018N_EEA|KL1018N|
 |Klipad|KL1019_EEA|KL1019_EEA|KL1019|
 |Klipad|KL1088|KL1088|KL1088|
+|Klipad|KL2018R|KL2018R|KL2018R|
 |Klipad|KL300|KL300|KL300|
 |Klipad|KL3669E_EEA|KL3669E_EEA|KL3669E_EEA|
 |Klipad|KL3669_EEA|KL3669_EEA|KL3669_EEA|
@@ -14240,10 +14247,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|ZONE4|cv1|LM-X210VPP|
 |LGE|Zone3|e1q|VS425PP|
 |LGU+|TV G|smartbox|TI320-DU|
-|LGU+|Technicolor|ute7057lgu|ute7057lgu|
 |LGU+|U+ tv UHD|tvg2|ST940I-UP|
 |LGU+|U+ tv woofer|hg2|LAP250U|
 |LGU+|U+ tv woofer 1.5|hg2_iot|LAP255U|
+|LGU+|U+tv Soundbar Black|ute7057lgu|ute7057lgu|
 |LGU+|U+tv UHD2|tvg2a|S60UPI|
 |LGU+|U+tv UHD3|uie4027lgu|uie4027lgu|
 |LGU+|U+tv soundbar|woofer2|S60UPA|
@@ -16652,6 +16659,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Micromax|Evok Power|Q4260|Micromax Q4260|
 |Micromax|IN1b|E6523|Micromax E6523|
 |Micromax|IN1b|E7533|Micromax E7533|
+|Micromax|IN_2b|E7544|IN_2b|
 |Micromax|IN_Note1|E7746|IN_Note1|
 |Micromax|In1|E6746|IN1|
 |Micromax|In_Note1|E7746|IN_Note1|
@@ -16871,6 +16879,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|HERO_DS|HERO_DS|HERO_DS|
 |Mobicell|HYPE|HYPE|HYPE|
 |Mobicell|Icon|Mobicel_Icon|Icon|
+|Mobicell|LEGEND_MAX_LTE|LEGEND_MAX|LEGEND MAX|
 |Mobicell|Legend|Legend|Legend|
 |Mobicell|METRO2|METRO2|MOBICEL METRO2|
 |Mobicell|Matrix|Matrix|Matrix|
@@ -19968,6 +19977,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philco|Hit P10|Hit_P10|Hit P10|
 |Philco|Hit P12|Hit_P12|Hit P12|
 |Philco|Hit P6|Hit_P6|Hit P6|
+|Philco|P13|Hit_P13|Hit P13|
 |Philco|PCS01|PCS01|PCS01|
 |Philco|PCS02|PCS02|PCS02|
 |Philco|PHILCO Smart TV|SW4H|PHILCO Smart TV|
@@ -21076,6 +21086,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Qilive|QT19101B|QT19101B|QT19101B|
 |Qilive|QT19101HV|QT19101HV|QT19101HV|
 |Qilive|QT19101K|QT19101K_116_EEA|QT19101K|
+|Qilive|QT2108BP|QT2108BP|QT2108BP|
 |Qilive|W55|W55|W55|
 |Qoobex|Qphone2019_A|Qphone2019_A|Qphone2019_A|
 |Qpad|XL PLUS|t591_hwd_q19_hiya_we|XL PLUS|
@@ -21382,6 +21393,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme C21|RMX3202|RMX3202|
 |Realme|realme C21|RMX3203L1|RMX3203|
 |Realme|realme C21Y|RMX3261|RMX3261|
+|Realme|realme C21Y|RMX3262|RMX3262|
 |Realme|realme C25|RMX3191|RMX3191|
 |Realme|realme C25|RMX3193|RMX3193|
 |Realme|realme C25s|RMX3195|RMX3195|
@@ -21762,6 +21774,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SHINON|SH32G7S|ikebukuro|AI PONT|
 |SHINON|SH55G7K|samseong|AI PONT|
 |SIAFU|M5855|M5855|M5855|
+|SILVER MAX|ST-810|ST_810A|ST-810|
 |SITI_Playtop|SITIH3455N|DTC2141|SITIH3455N|
 |SK Broadband|B tv smart|BHX-S100|BHX-S100|
 |SK Broadband|B tv smart|BKO-S200|BKO-S200|
@@ -29696,6 +29709,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|I2009|2009|I2009|
 |Vivo|I2011|2011|I2011|
 |Vivo|I2012|2012|I2012|
+|Vivo|I2017|2017|I2017|
 |Vivo|NEX A|PD1806B|vivo NEX A|
 |Vivo|PD1304DL|PD1304DL|vivo Y13iL|
 |Vivo|PD1419V|PD1419V|vivo Y923|
@@ -29832,6 +29846,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2068|2034|V2068|
 |Vivo|V2068A|PD2068|V2068A|
 |Vivo|V2069|2034|V2069|
+|Vivo|V2069A|PD2069|V2069A|
 |Vivo|V2070|2034|V2070|
 |Vivo|V2072A|PD2072|V2072A|
 |Vivo|V2073A|PD2073|V2073A|
@@ -29840,6 +29855,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2099A|PD2034D|V2099A|
 |Vivo|V2101|2034|V2101|
 |Vivo|V2102|2034|V2102|
+|Vivo|V2104|2105|V2104|
+|Vivo|V2105|2105|V2104|
+|Vivo|V2105|2105|V2105|
 |Vivo|V2106A|PD2106|V2106A|
 |Vivo|V2106A|PD2106B|V2106A|
 |Vivo|V2108|2061|V2061|
@@ -29847,8 +29865,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2111A|PD2111|V2111A|
 |Vivo|V2118A|PD2118|V2118A|
 |Vivo|V2121A|PD2121|V2121A|
+|Vivo|V2123A|PD2123|V2123A|
+|Vivo|V2130A|PD2130|V2130A|
+|Vivo|V2131A|PD2131|V2131A|
 |Vivo|V2136A|PD2136|V2136A|
 |Vivo|V2141A|PD2141|V2141A|
+|Vivo|V2143A|PD2143|V2143A|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
 |Vivo|V3Lite|V3Lite|vivo V3Lite|
@@ -30176,6 +30198,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vorago|PAD-7|PAD-7|PAD-7|
 |Vorago|PAD-7-KIDS|PAD-7-KIDS|PAD-7-KIDS|
 |Vorago|PAD-7-V5|PAD-7-V5|PAD-7-V5|
+|Vorago|PAD-7-V6|PAD-7-V6|PAD-7-V6|
 |Vortex|Beat 8|BEAT8|BEAT 8|
 |Vortex|MUV|MUV|MUV|
 |Vortex|SYNQ|SYNQ|SYNQ|
@@ -30255,6 +30278,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |W&O|X6|X6|X6|
 |W.e.|WETAB700DG|WETAB700DG|WETAB700DG|
 |W.e.|WeTab1004B|WeTab1004B|WeTab1004B|
+|WAOO|Waoo TV-boks|m393gena_w|Waoo TV-boks|
 |WIIGO|WG-7650|WG-7650|WG-7650|
 |WILL (JP)|Willfon_Pad_02|Willfon_Pad_02|Willfon_Pad_02|
 |WILLETT|India|tamachi|WILLETT FHD Android TV|
@@ -32783,6 +32807,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|ET5X|ET55T|ET5X|
 |Zebra|MC18|MC18|MC18N0|
 |Zebra|MC20|MC2200|MC20|
+|Zebra|MC3300ax AOSP|MC3300x|MC3300ax|
+|Zebra|MC3300axS AOSP|MC3300xC|MC3300ax|
 |Zebra|MC330K|MC33|MC33|
 |Zebra|MC330K|MC33C|MC33|
 |Zebra|MC36|cardhu|MC36|
@@ -32800,6 +32826,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|TC51|TC51|TC51|
 |Zebra|TC51|TC51HC|TC51|
 |Zebra|TC52|TC52|TC52|
+|Zebra|TC52ax|TC52X|TC52AX|
 |Zebra|TC55|TC55|TC55|
 |Zebra|TC56|TC56|TC56|
 |Zebra|TC57|TC57|TC57|
@@ -32815,6 +32842,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|Zebra Technologies L10|L10AW|L10AW|
 |Zebra|Zebra Technologies MC2200|MC2200|MC2200|
 |Zebra|Zebra Technologies MC2700|MC2700|MC2700|
+|Zebra|Zebra Technologies MC3300ax|MC3300x|MC3300ax|
 |Zebra|Zebra Technologies MC3300ax|MC3300xC|MC3300ax|
 |Zebra|Zebra Technologies MC3300x|MC3300x|MC3300x|
 |Zebra|Zebra Technologies MC3300x|MC3300xC|MC3300x|
@@ -33218,6 +33246,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iGet|SMART_W10X_EEA|SMART_W10X_EEA|SMART_W10X_EEA|
 |iGet|SMART_W202|SMART_W202|SMART_W202|
 |iGet|SMART_W203|SMART_W203|SMART_W203|
+|iGet|SMART_W20X|SMART_W20X|SMART_W20X|
 |iGet|SMART_W8X|SMART_W8X|SMART_W8X|
 |iHunt|Alien X|Alien_X|Alien_X|
 |iHunt|Alien X Apex 2020|Alien_X_Apex_2020|Alien_X_Apex_2020|
