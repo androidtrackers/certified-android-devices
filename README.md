@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-08-26
+Last sync is 2021-08-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -15296,6 +15296,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab P12 Pro|Q706F|Lenovo TB-Q706F|
 |Lenovo|Lenovo Tab P12 Pro|Q706Z|Lenovo TB-Q706Z|
 |Lenovo|Lenovo Tab QT K11|TB-J6C6F|Lenovo TB-J6C6F|
+|Lenovo|Lenovo Tab QT K11|TB-J6C6N|Lenovo TB-J6C6N|
 |Lenovo|Lenovo Tab QT K11 Pro 5G|J607Z|Lenovo TB-J607Z|
 |Lenovo|Lenovo Tab QT K11 Pro WIFI|J607F|Lenovo TB-J607F|
 |Lenovo|Lenovo Tab V7|PB-6505M|Lenovo PB-6505M|
@@ -19480,6 +19481,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|C21|C21|C21|
 |Oukitel|C22|C22|C22|
 |Oukitel|C23_Pro|C23_Pro|C23 Pro|
+|Oukitel|C25_EEA|C25|C25|
 |Oukitel|C6 Pro|C6_Pro|C6 Pro|
 |Oukitel|C8|C8|C8|
 |Oukitel|C8 4G|C8_4G|C8 4G|
@@ -25637,6 +25639,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 10 III|A102SO|A102SO|
 |Sony|Xperia 10 III|SO-52B|SO-52B|
 |Sony|Xperia 10 III|SOG04|SOG04|
+|Sony|Xperia 10 III|XQ-BT44|XQ-BT44|
 |Sony|Xperia 10 III|XQ-BT52|XQ-BT52|
 |Sony|Xperia 10 Plus|I3213|I3213|
 |Sony|Xperia 10 Plus|I3223|I3223|

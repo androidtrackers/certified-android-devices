@@ -104136,6 +104136,13 @@
    "model": "Lenovo TB-J6C6F"
   }
  ],
+ "TB-J6C6N": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab QT K11",
+   "model": "Lenovo TB-J6C6N"
+  }
+ ],
  "J607F": [
   {
    "brand": "Lenovo",
@@ -130958,6 +130965,13 @@
    "brand": "Oukitel",
    "name": "C23_Pro",
    "model": "C23 Pro"
+  }
+ ],
+ "C25": [
+  {
+   "brand": "Oukitel",
+   "name": "C25_EEA",
+   "model": "C25"
   }
  ],
  "C6_Pro": [
@@ -169828,6 +169842,13 @@
    "brand": "Sony",
    "name": "Xperia 10 III",
    "model": "SOG04"
+  }
+ ],
+ "XQ-BT44": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 III",
+   "model": "XQ-BT44"
   }
  ],
  "XQ-BT52": [

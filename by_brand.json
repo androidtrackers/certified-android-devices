@@ -78522,6 +78522,11 @@
    "model": "Lenovo TB-J6C6F"
   },
   {
+   "device": "TB-J6C6N",
+   "name": "Lenovo Tab QT K11",
+   "model": "Lenovo TB-J6C6N"
+  },
+  {
    "device": "J607Z",
    "name": "Lenovo Tab QT K11 Pro 5G",
    "model": "Lenovo TB-J607Z"
@@ -100096,6 +100101,11 @@
    "device": "C23_Pro",
    "name": "C23_Pro",
    "model": "C23 Pro"
+  },
+  {
+   "device": "C25",
+   "name": "C25_EEA",
+   "model": "C25"
   },
   {
    "device": "C6_Pro",
@@ -131479,6 +131489,11 @@
    "device": "SOG04",
    "name": "Xperia 10 III",
    "model": "SOG04"
+  },
+  {
+   "device": "XQ-BT44",
+   "name": "Xperia 10 III",
+   "model": "XQ-BT44"
   },
   {
    "device": "XQ-BT52",
