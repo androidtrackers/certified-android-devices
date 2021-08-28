@@ -168216,6 +168216,16 @@
    "model": "ZTE Blade L8RU"
   },
   {
+   "device": "P731F21",
+   "name": "ZTE Blade L9",
+   "model": "ZTE Blade L9"
+  },
+  {
+   "device": "P731F21",
+   "name": "ZTE Blade L9RU",
+   "model": "ZTE Blade L9RU"
+  },
+  {
    "device": "P671F60",
    "name": "ZTE Blade V 2020",
    "model": "ZTE 9000"

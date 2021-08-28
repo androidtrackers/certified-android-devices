@@ -221643,6 +221643,20 @@
    "device": "P731F20"
   }
  ],
+ "ZTE Blade L9": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade L9",
+   "device": "P731F21"
+  }
+ ],
+ "ZTE Blade L9RU": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade L9RU",
+   "device": "P731F21"
+  }
+ ],
  "ZTE 9000": [
   {
    "brand": "ZTE",

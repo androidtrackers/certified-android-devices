@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-08-27
+Last sync is 2021-08-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -32808,6 +32808,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade L5|P172A40|ZTE Blade L5|
 |ZTE|ZTE Blade L8|P731F20|ZTE Blade L8|
 |ZTE|ZTE Blade L8RU|P731F20|ZTE Blade L8RU|
+|ZTE|ZTE Blade L9|P731F21|ZTE Blade L9|
+|ZTE|ZTE Blade L9RU|P731F21|ZTE Blade L9RU|
 |ZTE|ZTE Blade V 2020|P671F60|ZTE 9000|
 |ZTE|ZTE Blade V 2020|P671F60|ZTE 9000RU|
 |ZTE|ZTE Blade V10|P671F20|ZTE Blade V10|
