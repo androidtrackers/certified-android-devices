@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-08-28
+Last sync is 2021-08-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -29791,7 +29791,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|I2009|2009|I2009|
 |Vivo|I2011|2011|I2011|
 |Vivo|I2012|2012|I2012|
-|Vivo|I2017|2017|I2017|
 |Vivo|NEX A|PD1806B|vivo NEX A|
 |Vivo|PD1304DL|PD1304DL|vivo Y13iL|
 |Vivo|PD1419V|PD1419V|vivo Y923|
