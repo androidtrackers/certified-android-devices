@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-08-29
+Last sync is 2021-08-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11356,6 +11356,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|HOT 10i|Infinix-X658E|Infinix X658E|
 |Infinix|HOT 10i|Infinix-X659|Infinix X659|
 |Infinix|HOT 10i|Infinix-X659B|Infinix X659B|
+|Infinix|HOT 11|Infinix-X662|Infinix X662|
+|Infinix|HOT 11S|Infinix-X6812|Infinix X6812|
 |Infinix|HOT 2|Infinix_X510|Infinix X510|
 |Infinix|HOT 3|INFINIX-X554|Infinix HOT 3 Pro|
 |Infinix|HOT 3|INFINIX-X554|Infinix-X554|
