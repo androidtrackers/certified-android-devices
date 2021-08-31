@@ -981,6 +981,11 @@
    "model": "CreaPad_1002A"
   },
   {
+   "device": "CreaPad_1002A_EEA",
+   "name": "CreaPad_1002A_EEA",
+   "model": "CreaPad_1002A_EEA"
+  },
+  {
    "device": "CreaPad_1005",
    "name": "CreaPad_1005",
    "model": "CreaPad_1005"
@@ -6530,6 +6535,11 @@
    "device": "act1014g",
    "name": "ARCHOS T101 4G",
    "model": "Archos T 101 4G"
+  },
+  {
+   "device": "ARCHOST963G",
+   "name": "ARCHOST963G",
+   "model": "ARCHOS T96 3G"
   },
   {
    "device": "ac101cplv3",
@@ -26365,6 +26375,11 @@
    "model": "CITI 1593 3G CS1210MG"
   },
   {
+   "device": "TS7203MG",
+   "name": "CITI_7586_3G",
+   "model": "CITI_7586_3G_TS7203MG"
+  },
+  {
    "device": "CS7208MG",
    "name": "CITI_7591_3G_CS7208MG",
    "model": "CITI 7591 3G CS7208MG"
@@ -31855,6 +31870,11 @@
  ],
  "FANGOR": [
   {
+   "device": "F-C10",
+   "name": "F-C10",
+   "model": "F-C10"
+  },
+  {
    "device": "UJ_1098",
    "name": "UJ_1098",
    "model": "UJ_1098"
@@ -34935,6 +34955,13 @@
    "device": "X9",
    "name": "X9",
    "model": "X9"
+  }
+ ],
+ "GLOBAL3": [
+  {
+   "device": "B02",
+   "name": "B02",
+   "model": "B02"
   }
  ],
  "GOODTEL": [
@@ -56967,6 +56994,11 @@
    "model": "HYUNDAI 4K Smart TV"
   },
   {
+   "device": "kanda",
+   "name": "Hyundai",
+   "model": "HYUNDAI 2K Smart TV"
+  },
+  {
    "device": "komagome",
    "name": "Hyundai",
    "model": "Hyundai 2K Android TV"
@@ -63578,6 +63610,11 @@
    "model": "KEMPLER_TV"
   },
   {
+   "device": "P1_Amateur",
+   "name": "KEMPLERP1_Amateur",
+   "model": "P1 Amateur"
+  },
+  {
    "device": "KEMPLER_8_PLUS",
    "name": "KEMPLER_8_PLUS",
    "model": "KEMPLER_8_PLUS"
@@ -63939,6 +63976,13 @@
    "device": "DV8219",
    "name": "PureKTV",
    "model": "PureKTV"
+  }
+ ],
+ "KUBIK": [
+  {
+   "device": "KUBIK_GENTA_10",
+   "name": "KUBIK_GENTA_10",
+   "model": "KUBIK_GENTA_10"
   }
  ],
  "KUNFT": [
@@ -83580,6 +83624,11 @@
    "model": "DX10-66"
   },
   {
+   "device": "DX10-66-LTE",
+   "name": "DX10-66-LTE",
+   "model": "DX10-66-LTE"
+  },
+  {
    "device": "M17QF6-3Gplus",
    "name": "M17QF6-3Gplus",
    "model": "M17QF6-3Gplus"
@@ -93131,6 +93180,11 @@
    "model": "NQT-73GIQ"
   },
   {
+   "device": "NQT-73GIQ11",
+   "name": "NQT-73GIQ11",
+   "model": "NQT-73GIQ11"
+  },
+  {
    "device": "NQT-7W",
    "name": "NQT_7W",
    "model": "NQT-7W"
@@ -99650,6 +99704,13 @@
    "model": "RMX1851"
   }
  ],
+ "Optage": [
+  {
+   "device": "Amigo7xJP",
+   "name": "Amigo7xJP",
+   "model": "Amigo7xJP"
+  }
+ ],
  "Opticon": [
   {
    "device": "H-27",
@@ -100333,6 +100394,11 @@
    "model": "WP10"
   },
   {
+   "device": "WP12",
+   "name": "WP12",
+   "model": "WP12"
+  },
+  {
    "device": "WP12_Pro",
    "name": "WP12_Pro",
    "model": "WP12 Pro"
@@ -100391,6 +100457,11 @@
    "device": "WP8_Pro",
    "name": "WP8_Pro",
    "model": "WP8 Pro"
+  },
+  {
+   "device": "WP9",
+   "name": "WP9",
+   "model": "WP9"
   },
   {
    "device": "Y1000",
@@ -100638,6 +100709,11 @@
    "device": "PCD509",
    "name": "PCD509",
    "model": "PCD509"
+  },
+  {
+   "device": "P60",
+   "name": "PD60",
+   "model": "P60"
   },
   {
    "device": "PH4003",
@@ -105055,6 +105131,11 @@
    "model": "T800"
   },
   {
+   "device": "T800",
+   "name": "T800",
+   "model": "TabQ8-T800"
+  },
+  {
    "device": "S520",
    "name": "Twist",
    "model": "Positivo Twist M"
@@ -109051,6 +109132,13 @@
    "model": "M387_QL"
   }
  ],
+ "Qwerty": [
+  {
+   "device": "QW-800",
+   "name": "QW-800",
+   "model": "QW-800"
+  }
+ ],
  "RAINBOX": [
   {
    "device": "K90",
@@ -109832,6 +109920,13 @@
    "device": "popper2",
    "name": "popper2",
    "model": "popper2"
+  }
+ ],
+ "RVP(AB)": [
+  {
+   "device": "RVPVK808",
+   "name": "RVPVK808",
+   "model": "RVPVK808"
   }
  ],
  "Radger": [
@@ -112432,6 +112527,13 @@
    "model": "SA100"
   }
  ],
+ "SMART_KASSEL": [
+  {
+   "device": "SK5501",
+   "name": "SK5501",
+   "model": "SK5501"
+  }
+ ],
  "SMB Gadgets": [
   {
    "device": "SMB8112BK",
@@ -112815,6 +112917,13 @@
    "device": "Spurt_K800",
    "name": "Spurt_K800",
    "model": "Spurt K800"
+  }
+ ],
+ "SQ(max)": [
+  {
+   "device": "Hope10_Max",
+   "name": "Hope10_Max",
+   "model": "Hope10 Max"
   }
  ],
  "SSA-Digital": [
@@ -113489,6 +113598,11 @@
    "device": "sunnyvale",
    "name": "SWTV-21AE",
    "model": "SWTV-21AE"
+  },
+  {
+   "device": "sunnyvale",
+   "name": "SWTV-21SA",
+   "model": "SWTV-21SA"
   },
   {
    "device": "SW3_ATV",
@@ -114431,6 +114545,11 @@
    "device": "a22x",
    "name": "Galaxy A22 5G",
    "model": "SM-A226B"
+  },
+  {
+   "device": "a22x",
+   "name": "Galaxy A22 5G",
+   "model": "SM-A226BR"
   },
   {
    "device": "a22x",
@@ -125953,6 +126072,16 @@
    "model": "SM-A205S"
   },
   {
+   "device": "f42x",
+   "name": "Galaxy Wide5",
+   "model": "SM-E426B"
+  },
+  {
+   "device": "f42x",
+   "name": "Galaxy Wide5",
+   "model": "SM-E426S"
+  },
+  {
    "device": "delos3gcmcc",
    "name": "Galaxy Win",
    "model": "GT-I8558"
@@ -127318,6 +127447,23 @@
    "device": "Telcel_LS55",
    "name": "Telcel_LS55",
    "model": "LS55"
+  }
+ ],
+ "Serenity": [
+  {
+   "device": "BE109",
+   "name": "BE109",
+   "model": "BE109"
+  },
+  {
+   "device": "T1000",
+   "name": "T1000",
+   "model": "T1000"
+  },
+  {
+   "device": "T2000",
+   "name": "T2000",
+   "model": "T2000"
   }
  ],
  "Servicom IT": [
@@ -146610,6 +146756,11 @@
    "model": "TEL-73GIQA"
   },
   {
+   "device": "TEL-73GIQA11",
+   "name": "TEL-73GIQA11",
+   "model": "TEL-73GIQA11"
+  },
+  {
    "device": "SW4H",
    "name": "TELEFUNKEN SMART TV",
    "model": "TELEFUNKEN SMART TV"
@@ -152633,6 +152784,11 @@
  ],
  "Visiontech": [
   {
+   "device": "100011885",
+   "name": "100011885",
+   "model": "100011885"
+  },
+  {
    "device": "PVT-8-A50-R1",
    "name": "PVT-8-A50-R1",
    "model": "PVT-8-A50-R1"
@@ -152883,6 +153039,11 @@
    "device": "2012",
    "name": "I2012",
    "model": "I2012"
+  },
+  {
+   "device": "2017",
+   "name": "I2017",
+   "model": "I2017"
   },
   {
    "device": "PD1806B",
@@ -153643,6 +153804,11 @@
    "device": "2061",
    "name": "V2108",
    "model": "V2108"
+  },
+  {
+   "device": "2109",
+   "name": "V2109",
+   "model": "V2109"
   },
   {
    "device": "PD2111",
@@ -158385,6 +158551,11 @@
    "model": "X100"
   },
   {
+   "device": "X100_PRO",
+   "name": "X100_PRO",
+   "model": "X100_PRO"
+  },
+  {
    "device": "X100v3",
    "name": "X100v3",
    "model": "X100v3"
@@ -158395,9 +158566,19 @@
    "model": "X200"
   },
   {
+   "device": "X200_PRO_v2",
+   "name": "X200_PRO_v2",
+   "model": "X200_PRO_v2"
+  },
+  {
    "device": "X70",
    "name": "X70",
    "model": "X70"
+  },
+  {
+   "device": "X70_PRO",
+   "name": "X70_PRO",
+   "model": "X70_PRO"
   },
   {
    "device": "X70v2",
@@ -158586,6 +158767,11 @@
    "device": "Kids8_Pro",
    "name": "Kids8 Pro",
    "model": "X-TIGI_Kids8 Pro"
+  },
+  {
+   "device": "Kids9_Pro",
+   "name": "Kids9 Pro",
+   "model": "Kids9 Pro"
   },
   {
    "device": "M20S",
@@ -160271,6 +160457,11 @@
    "device": "Y61-EEA",
    "name": "Y61-EEA",
    "model": "Y61-EEA"
+  },
+  {
+   "device": "Y8-EEA",
+   "name": "Y8-EEA",
+   "model": "Y8-EEA"
   }
  ],
  "YOUIN": [
@@ -160814,6 +161005,11 @@
    "device": "ZMBIZI_Z1",
    "name": "ZMBIZI",
    "model": "ZMBIZI Z1"
+  },
+  {
+   "device": "ZMBIZI_Z2",
+   "name": "ZMBIZI Z2",
+   "model": "ZMBIZI Z2"
   }
  ],
  "ZOLON": [
@@ -169623,6 +169819,11 @@
    "model": "MAGNO C1"
   },
   {
+   "device": "MAGNO_MINI",
+   "name": "MAGNO MINI",
+   "model": "MAGNO MINI"
+  },
+  {
    "device": "ONIX",
    "name": "ONIX",
    "model": "ONIX"
@@ -169737,6 +169938,13 @@
    "model": "MIG"
   }
  ],
+ "amulet7": [
+  {
+   "device": "P10SU_Plus",
+   "name": "P10SU_Plus",
+   "model": "P10SU_Plus"
+  }
+ ],
  "aoson": [
   {
    "device": "M753",
@@ -169846,6 +170054,11 @@
    "device": "AF9020",
    "name": "benco Y50",
    "model": "AF9020"
+  },
+  {
+   "device": "AF9021",
+   "name": "benco Y51",
+   "model": "AF9021"
   },
   {
    "device": "AE9010",
@@ -171806,6 +172019,13 @@
    "device": "iYOU_M1",
    "name": "iYOU_M1",
    "model": "iYOU_M1"
+  }
+ ],
+ "ibowin": [
+  {
+   "device": "M10ES11",
+   "name": "M10ES11",
+   "model": "M130s"
   }
  ],
  "imose": [
