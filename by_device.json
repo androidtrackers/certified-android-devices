@@ -9778,6 +9778,13 @@
    "model": "OB_627"
   }
  ],
+ "OB_628": [
+  {
+   "brand": "Altron",
+   "name": "OB_628",
+   "model": "OB_628"
+  }
+ ],
  "Azumi_KIREI_A5Q_PLUS_AC06": [
   {
    "brand": "Americamovil",
@@ -19688,6 +19695,13 @@
    "model": "BL50_CL"
   }
  ],
+ "Bmobile_BL50_DG": [
+  {
+   "brand": "BMobile",
+   "name": "BL50",
+   "model": "BL50_DG"
+  }
+ ],
  "Bmobile_BL50_TG05": [
   {
    "brand": "BMobile",
@@ -27889,6 +27903,11 @@
   {
    "brand": "COSMOTE TV",
    "name": "TV Box",
+   "model": "TV Box"
+  },
+  {
+   "brand": "T-Mobile-CZ-Telekom-SK",
+   "name": "TV Box HY4403",
    "model": "TV Box"
   }
  ],
@@ -41589,6 +41608,11 @@
   },
   {
    "brand": "Moxee Technologies",
+   "name": "X100",
+   "model": "X100"
+  },
+  {
+   "brand": "Plimpton",
    "name": "X100",
    "model": "X100"
   },
@@ -87854,6 +87878,13 @@
    "brand": "Konrow",
    "name": "CITY",
    "model": "CITY"
+  }
+ ],
+ "CITY4": [
+  {
+   "brand": "Konrow",
+   "name": "CITY4_EEA",
+   "model": "CITY4"
   }
  ],
  "CITY5": [
@@ -187247,6 +187278,11 @@
    "brand": "Telenet",
    "name": "TADAAM Box",
    "model": "TADAAM Box"
+  },
+  {
+   "brand": "Telenet",
+   "name": "Tadaam",
+   "model": "TADAAM Box"
   }
  ],
  "Elite57": [
@@ -195194,6 +195230,18 @@
    "brand": "Vivo",
    "name": "V2131A",
    "model": "V2131A"
+  }
+ ],
+ "PD2133": [
+  {
+   "brand": "Vivo",
+   "name": "V2133A",
+   "model": "V2133A"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2135A",
+   "model": "V2135A"
   }
  ],
  "PD2136": [
@@ -212433,13 +212481,6 @@
    "model": "TC51"
   }
  ],
- "TC52": [
-  {
-   "brand": "Zebra",
-   "name": "TC52",
-   "model": "TC52"
-  }
- ],
  "TC52X": [
   {
    "brand": "Zebra",
@@ -212469,25 +212510,11 @@
    "model": "TC56"
   }
  ],
- "TC57": [
-  {
-   "brand": "Zebra",
-   "name": "TC57",
-   "model": "TC57"
-  }
- ],
  "TC70x": [
   {
    "brand": "Zebra",
    "name": "TC70x",
    "model": "TC70x"
-  }
- ],
- "TC72": [
-  {
-   "brand": "Zebra",
-   "name": "TC72",
-   "model": "TC72"
   }
  ],
  "TC75x": [
@@ -212502,13 +212529,6 @@
    "brand": "Zebra",
    "name": "TC75xDF",
    "model": "TC75x"
-  }
- ],
- "TC77": [
-  {
-   "brand": "Zebra",
-   "name": "TC77",
-   "model": "TC77"
   }
  ],
  "TC8000": [
@@ -212567,6 +212587,20 @@
    "model": "MC93"
   }
  ],
+ "TC52": [
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies TC52",
+   "model": "TC52"
+  }
+ ],
+ "TC57": [
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies TC57",
+   "model": "TC57"
+  }
+ ],
  "TC57X": [
   {
    "brand": "Zebra",
@@ -212577,6 +212611,20 @@
    "brand": "Zebra",
    "name": "Zebra Technologies TC57x",
    "model": "TC57X"
+  }
+ ],
+ "TC72": [
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies TC72",
+   "model": "TC72"
+  }
+ ],
+ "TC77": [
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies TC77",
+   "model": "TC77"
   }
  ],
  "TC83B0": [

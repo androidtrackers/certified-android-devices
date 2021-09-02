@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-09-01
+Last sync is 2021-09-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -968,6 +968,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Altron|OB_421_Plus|OB_421_Plus|OB_421|
 |Altron|OB_588|OB_588|OB_588|
 |Altron|OB_627|OB_627|OB_627|
+|Altron|OB_628|OB_628|OB_628|
 |Americamovil|KIREI A5Q PLUS|Azumi_KIREI_A5Q_PLUS_AC06|KIREI A5Q PLUS|
 |Amgoo|AM350|AM350|AM350|
 |Amgoo|AM402|AM402|AM402|
@@ -2303,6 +2304,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|B60Pro_MV03|B60Pro_MV03|B60Pro_MV03|
 |BMobile|BL50|Bmobile_BL50|BL50|
 |BMobile|BL50|Bmobile_BL50_CL|BL50_CL|
+|BMobile|BL50|Bmobile_BL50_DG|BL50_DG|
 |BMobile|BL50|Bmobile_BL50_TG05|BL50|
 |BMobile|BL50|Bmobile_BL50_TG06|BL50|
 |BMobile|BL50|Bmobile_BL50_TG07|BL50|
@@ -12698,6 +12700,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kogan|Kogan SmarterTV|hanyang|Kogan SmarterTV|
 |Komu|K22|K22|K22|
 |Konrow|CITY|CITY|CITY|
+|Konrow|CITY4_EEA|CITY4|CITY4|
 |Konrow|CITY5|CITY5|CITY5|
 |Konrow|CITY55|CITY55|CITY55|
 |Konrow|EASY S55P 2021|EASY_S55P_2021|EASY S55P 2021|
@@ -20253,6 +20256,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Planet Computers|Gemini|Gemini_4G|Gemini_4G|
 |PlayPoland|Play Now|dctiw362p|DCTIW362_PLAY|
 |PlayPoland|play_dctiw362|dctiw362p|DCTIW362_PLAY|
+|Plimpton|X100|X100|X100|
 |Plum|Phantom3|Z621|Z621|
 |Plum|Z518|Z518|Z518|
 |Plum|Z519|Z519|Z519|
@@ -26582,6 +26586,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |T-Mobile|REVVLRY+|lake_n|REVVLution|
 |T-Mobile|TVision|SEI400TM|TVision|
 |T-Mobile|Telekom_Puls|T-Tab|Telekom Puls|
+|T-Mobile-CZ-Telekom-SK|TV Box HY4403|HY44G|TV Box|
 |TA71CA5_JP|"JP SA COUTO|S.A. _MG070A2T"|TA71CA5_1|
 |TAG Heuer|Connected|glacier|TAG Heuer|
 |TAG Heuer|Connected 2020|orbital|TAG Heuer|
@@ -28648,6 +28653,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telemor|T9503|Telemor_T9503|Telemor T9503|
 |Telemor|Telemor T9502|T9502|Telemor T9502|
 |Telenet|TADAAM Box|sti6160d332|TADAAM Box|
+|Telenet|Tadaam|sti6160d332|TADAAM Box|
 |Telenor|Elite57|Elite57|Elite57|
 |Telenor|Infinity K|Infinity_K|Infinity_K|
 |Telenor|Infinity a2|b3680|Infinity_a2|
@@ -29981,6 +29987,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2123A|PD2123|V2123A|
 |Vivo|V2130A|PD2130|V2130A|
 |Vivo|V2131A|PD2131|V2131A|
+|Vivo|V2133A|PD2133|V2133A|
+|Vivo|V2135A|PD2133|V2135A|
 |Vivo|V2136A|PD2136|V2136A|
 |Vivo|V2141A|PD2141|V2141A|
 |Vivo|V2143A|PD2143|V2143A|
@@ -32957,16 +32965,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|TC26|TC26|TC26|
 |Zebra|TC51|TC51|TC51|
 |Zebra|TC51|TC51HC|TC51|
-|Zebra|TC52|TC52|TC52|
 |Zebra|TC52ax|TC52X|TC52AX|
 |Zebra|TC55|TC55|TC55|
 |Zebra|TC56|TC56|TC56|
-|Zebra|TC57|TC57|TC57|
 |Zebra|TC70x|TC70x|TC70x|
-|Zebra|TC72|TC72|TC72|
 |Zebra|TC75x|TC75x|TC75x|
 |Zebra|TC75xDF|TC75xDF|TC75x|
-|Zebra|TC77|TC77|TC77|
 |Zebra|TC8000|TC8000|TC8000|
 |Zebra|VC80x|VC80x|VC80x|
 |Zebra|WT6000|WT6000|WT6000|
@@ -32982,11 +32986,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|Zebra Technologies MC3300xNS|MC3300xC|MC3300x|
 |Zebra|Zebra Technologies MC9300|MC93|MC93|
 |Zebra|Zebra Technologies MC9300|MC93C|MC93|
+|Zebra|Zebra Technologies TC52|TC52|TC52|
 |Zebra|Zebra Technologies TC52XA|TC52X|TC52X|
 |Zebra|Zebra Technologies TC52ax|TC52X|TC52AX|
 |Zebra|Zebra Technologies TC52x|TC52X|TC52X|
+|Zebra|Zebra Technologies TC57|TC57|TC57|
 |Zebra|Zebra Technologies TC57XA|TC57X|TC57X|
 |Zebra|Zebra Technologies TC57x|TC57X|TC57X|
+|Zebra|Zebra Technologies TC72|TC72|TC72|
+|Zebra|Zebra Technologies TC77|TC77|TC77|
 |Zebra|Zebra Technologies TC8300|TC83B0|TC8300|
 |Zebra|Zebra Technologies TC8300|TC83BH|TC8300|
 |Zebra|Zebra Technologies VC8300|VC8308|VC8300|

@@ -5030,6 +5030,11 @@
    "device": "OB_627",
    "name": "OB_627",
    "model": "OB_627"
+  },
+  {
+   "device": "OB_628",
+   "name": "OB_628",
+   "model": "OB_628"
   }
  ],
  "Americamovil": [
@@ -11849,6 +11854,11 @@
    "device": "Bmobile_BL50_CL",
    "name": "BL50",
    "model": "BL50_CL"
+  },
+  {
+   "device": "Bmobile_BL50_DG",
+   "name": "BL50",
+   "model": "BL50_DG"
   },
   {
    "device": "Bmobile_BL50_TG05",
@@ -65420,6 +65430,11 @@
    "model": "CITY"
   },
   {
+   "device": "CITY4",
+   "name": "CITY4_EEA",
+   "model": "CITY4"
+  },
+  {
    "device": "CITY5",
    "name": "CITY5",
    "model": "CITY5"
@@ -104079,6 +104094,13 @@
    "model": "DCTIW362_PLAY"
   }
  ],
+ "Plimpton": [
+  {
+   "device": "X100",
+   "name": "X100",
+   "model": "X100"
+  }
+ ],
  "Plum": [
   {
    "device": "Z621",
@@ -136336,6 +136358,13 @@
    "model": "Telekom Puls"
   }
  ],
+ "T-Mobile-CZ-Telekom-SK": [
+  {
+   "device": "HY44G",
+   "name": "TV Box HY4403",
+   "model": "TV Box"
+  }
+ ],
  "TA71CA5_JP": [
   {
    "device": "S.A. _MG070A2T\"",
@@ -146856,6 +146885,11 @@
    "device": "sti6160d332",
    "name": "TADAAM Box",
    "model": "TADAAM Box"
+  },
+  {
+   "device": "sti6160d332",
+   "name": "Tadaam",
+   "model": "TADAAM Box"
   }
  ],
  "Telenor": [
@@ -153839,6 +153873,16 @@
    "device": "PD2131",
    "name": "V2131A",
    "model": "V2131A"
+  },
+  {
+   "device": "PD2133",
+   "name": "V2133A",
+   "model": "V2133A"
+  },
+  {
+   "device": "PD2133",
+   "name": "V2135A",
+   "model": "V2135A"
   },
   {
    "device": "PD2136",
@@ -168991,11 +169035,6 @@
    "model": "TC51"
   },
   {
-   "device": "TC52",
-   "name": "TC52",
-   "model": "TC52"
-  },
-  {
    "device": "TC52X",
    "name": "TC52ax",
    "model": "TC52AX"
@@ -169011,19 +169050,9 @@
    "model": "TC56"
   },
   {
-   "device": "TC57",
-   "name": "TC57",
-   "model": "TC57"
-  },
-  {
    "device": "TC70x",
    "name": "TC70x",
    "model": "TC70x"
-  },
-  {
-   "device": "TC72",
-   "name": "TC72",
-   "model": "TC72"
   },
   {
    "device": "TC75x",
@@ -169034,11 +169063,6 @@
    "device": "TC75xDF",
    "name": "TC75xDF",
    "model": "TC75x"
-  },
-  {
-   "device": "TC77",
-   "name": "TC77",
-   "model": "TC77"
   },
   {
    "device": "TC8000",
@@ -169116,6 +169140,11 @@
    "model": "MC93"
   },
   {
+   "device": "TC52",
+   "name": "Zebra Technologies TC52",
+   "model": "TC52"
+  },
+  {
    "device": "TC52X",
    "name": "Zebra Technologies TC52XA",
    "model": "TC52X"
@@ -169131,6 +169160,11 @@
    "model": "TC52X"
   },
   {
+   "device": "TC57",
+   "name": "Zebra Technologies TC57",
+   "model": "TC57"
+  },
+  {
    "device": "TC57X",
    "name": "Zebra Technologies TC57XA",
    "model": "TC57X"
@@ -169139,6 +169173,16 @@
    "device": "TC57X",
    "name": "Zebra Technologies TC57x",
    "model": "TC57X"
+  },
+  {
+   "device": "TC72",
+   "name": "Zebra Technologies TC72",
+   "model": "TC72"
+  },
+  {
+   "device": "TC77",
+   "name": "Zebra Technologies TC77",
+   "model": "TC77"
   },
   {
    "device": "TC83B0",
