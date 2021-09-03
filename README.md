@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-09-02
+Last sync is 2021-09-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3005,6 +3005,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|C6 2019|C090EQ|C6 2019|
 |Blu|C6L|C0030|C6L|
 |Blu|C6L 2020|C0090WW|C6L 2020|
+|Blu|C6L 2021|C0150WW|C6L 2021|
 |Blu|C6x|C090P|C6x|
 |Blu|C7|C250EQ|C7|
 |Blu|D10|D10|D10|
@@ -4534,6 +4535,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|CUBOT_POWER|CUBOT_POWER|CUBOT_POWER|
 |Cubot|DINOSAUR|x5623_h6013_cubot|CUBOT DINOSAUR|
 |Cubot|ECHO|CUBOT_ECHO|CUBOT ECHO|
+|Cubot|J10|J10|J10|
 |Cubot|J5|J5|J5|
 |Cubot|J7|J7|J7|
 |Cubot|J8|J8|J8|
@@ -6148,6 +6150,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FBC|M24IS820|fst01ms|M24IS820|
 |FCC Movil|GK738_3G|GK738_3G|GK738_3G|
 |FCC Movil|GK788|GK788|GK788|
+|FCC Movil|GK879|GK879|GK879|
 |FCNT|arrows BZ02|BZ02|BZ02|
 |FCNT|arrows Be4 Plus F-41B|F41B|F-41B|
 |FEITIAN|F100|F100|F100|
@@ -19096,6 +19099,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|CPH1893RU|CPH1893|CPH1893|
 |Oppo|CPH1903|CPH1903|CPH1903|
 |Oppo|CPH1909|CPH1909|CPH1909|
+|Oppo|CPH2015|OP4C7D|CPH2015|
 |Oppo|CPH2071|OP4BFB|CPH2071|
 |Oppo|CPH2077|OP4BFB|CPH2077|
 |Oppo|CPH2161|OP4EE8L1|CPH2161|
@@ -20432,6 +20436,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|One|S420|Positivo One|
 |Positivo|One|S420|S420|
 |Positivo|Positivo Q20|Q20|Positivo Q20|
+|Positivo|Positivo Q20|Q20|Quantum Q20|
 |Positivo|Positivo T1075B|T1075B|T1075B|
 |Positivo|Positivo T760|T760|T760|
 |Positivo|Positivo Ypy 10 STA|YPY10STA|YPY10STA|
@@ -29059,6 +29064,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor 10 5G|Armor_10_5G|Armor 10 5G|
 |Ulefone|Armor 11 5G|Armor_11_5G|Armor 11 5G|
 |Ulefone|Armor 11T 5G|Armor_11T_5G|Armor 11T 5G|
+|Ulefone|Armor 12 5G|Armor_12_5G|Armor 12 5G|
 |Ulefone|Armor 2|Armor_2|Armor_2|
 |Ulefone|Armor 2S|Armor_2S|Armor_2S|
 |Ulefone|Armor 6|Armor_6|Armor_6|

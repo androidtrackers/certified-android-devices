@@ -15463,6 +15463,11 @@
    "model": "C6L 2020"
   },
   {
+   "device": "C0150WW",
+   "name": "C6L 2021",
+   "model": "C6L 2021"
+  },
+  {
    "device": "C090P",
    "name": "C6x",
    "model": "C6x"
@@ -23448,6 +23453,11 @@
    "device": "CUBOT_ECHO",
    "name": "ECHO",
    "model": "CUBOT ECHO"
+  },
+  {
+   "device": "J10",
+   "name": "J10",
+   "model": "J10"
   },
   {
    "device": "J5",
@@ -31912,6 +31922,11 @@
    "device": "GK788",
    "name": "GK788",
    "model": "GK788"
+  },
+  {
+   "device": "GK879",
+   "name": "GK879",
+   "model": "GK879"
   }
  ],
  "FCNT": [
@@ -98164,6 +98179,11 @@
    "model": "CPH1909"
   },
   {
+   "device": "OP4C7D",
+   "name": "CPH2015",
+   "model": "CPH2015"
+  },
+  {
    "device": "OP4BFB",
    "name": "CPH2071",
    "model": "CPH2071"
@@ -105006,6 +105026,11 @@
    "device": "Q20",
    "name": "Positivo Q20",
    "model": "Positivo Q20"
+  },
+  {
+   "device": "Q20",
+   "name": "Positivo Q20",
+   "model": "Quantum Q20"
   },
   {
    "device": "T1075B",
@@ -149063,6 +149088,11 @@
    "device": "Armor_11T_5G",
    "name": "Armor 11T 5G",
    "model": "Armor 11T 5G"
+  },
+  {
+   "device": "Armor_12_5G",
+   "name": "Armor 12 5G",
+   "model": "Armor 12 5G"
   },
   {
    "device": "Armor_2",

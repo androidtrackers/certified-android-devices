@@ -24737,6 +24737,13 @@
    "model": "C6L 2020"
   }
  ],
+ "C0150WW": [
+  {
+   "brand": "Blu",
+   "name": "C6L 2021",
+   "model": "C6L 2021"
+  }
+ ],
  "C090P": [
   {
    "brand": "Blu",
@@ -35845,6 +35852,18 @@
    "brand": "Cubot",
    "name": "ECHO",
    "model": "CUBOT ECHO"
+  }
+ ],
+ "J10": [
+  {
+   "brand": "Cubot",
+   "name": "J10",
+   "model": "J10"
+  },
+  {
+   "brand": "JREN",
+   "name": "J10",
+   "model": "J10"
   }
  ],
  "J5": [
@@ -47268,6 +47287,13 @@
    "brand": "FCC Movil",
    "name": "GK788",
    "model": "GK788"
+  }
+ ],
+ "GK879": [
+  {
+   "brand": "FCC Movil",
+   "name": "GK879",
+   "model": "GK879"
   }
  ],
  "BZ02": [
@@ -84464,13 +84490,6 @@
    "brand": "JP Sacouto",
    "name": "mymaga CLASS Plus 2",
    "model": "mymaga CLASS Plus 2"
-  }
- ],
- "J10": [
-  {
-   "brand": "JREN",
-   "name": "J10",
-   "model": "J10"
   }
  ],
  "JR-101": [
@@ -128458,6 +128477,13 @@
    "model": "CPH1909"
   }
  ],
+ "OP4C7D": [
+  {
+   "brand": "Oppo",
+   "name": "CPH2015",
+   "model": "CPH2015"
+  }
+ ],
  "OP4BFB": [
   {
    "brand": "Oppo",
@@ -137042,6 +137068,11 @@
    "brand": "Positivo",
    "name": "Positivo Q20",
    "model": "Positivo Q20"
+  },
+  {
+   "brand": "Positivo",
+   "name": "Positivo Q20",
+   "model": "Quantum Q20"
   }
  ],
  "T1075B": [
@@ -189699,6 +189730,13 @@
    "brand": "Ulefone",
    "name": "Armor_11T_5G",
    "model": "Armor 11T 5G"
+  }
+ ],
+ "Armor_12_5G": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor 12 5G",
+   "model": "Armor 12 5G"
   }
  ],
  "Armor_2": [
