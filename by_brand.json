@@ -99729,14 +99729,14 @@
    "model": "RMX1901"
   },
   {
+   "device": "RMX1851CN",
+   "name": "realme X Lite",
+   "model": "RMX1851"
+  },
+  {
    "device": "RMX2051CN",
    "name": "realme X50 5G",
    "model": "RMX2051"
-  },
-  {
-   "device": "RMX1851CN",
-   "name": "realme X青春版",
-   "model": "RMX1851"
   }
  ],
  "Optage": [
@@ -110467,6 +110467,11 @@
    "model": "RMX3161"
   },
   {
+   "device": "RE811C",
+   "name": "realme Q3 Pro Play",
+   "model": "RMX3142"
+  },
+  {
    "device": "SW4H_FF",
    "name": "realme SA Smart TV",
    "model": "realme SA Smart TV"
@@ -110725,11 +110730,6 @@
    "device": "RE546F",
    "name": "真我GT 大师探索版",
    "model": "RMX3366"
-  },
-  {
-   "device": "RE811C",
-   "name": "真我Q3 Pro 狂欢版",
-   "model": "RMX3142"
   },
   {
    "device": "RE5081",

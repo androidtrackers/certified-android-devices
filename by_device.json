@@ -130187,18 +130187,18 @@
    "model": "RMX1901"
   }
  ],
+ "RMX1851CN": [
+  {
+   "brand": "Oppo",
+   "name": "realme X Lite",
+   "model": "RMX1851"
+  }
+ ],
  "RMX2051CN": [
   {
    "brand": "Oppo",
    "name": "realme X50 5G",
    "model": "RMX2051"
-  }
- ],
- "RMX1851CN": [
-  {
-   "brand": "Oppo",
-   "name": "realme X青春版",
-   "model": "RMX1851"
   }
  ],
  "Amigo7xJP": [
@@ -143590,6 +143590,13 @@
    "model": "RMX3161"
   }
  ],
+ "RE811C": [
+  {
+   "brand": "Realme",
+   "name": "realme Q3 Pro Play",
+   "model": "RMX3142"
+  }
+ ],
  "RMX3121CN": [
   {
    "brand": "Realme",
@@ -143897,13 +143904,6 @@
    "brand": "Realme",
    "name": "真我GT 大师探索版",
    "model": "RMX3366"
-  }
- ],
- "RE811C": [
-  {
-   "brand": "Realme",
-   "name": "真我Q3 Pro 狂欢版",
-   "model": "RMX3142"
   }
  ],
  "RE5081": [

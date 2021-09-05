@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-09-04
+Last sync is 2021-09-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -19409,8 +19409,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|realme U1|RMX1831|RMX1831|
 |Oppo|realme U1|RMX1833|RMX1833|
 |Oppo|realme X|RMX1901CN|RMX1901|
+|Oppo|realme X Lite|RMX1851CN|RMX1851|
 |Oppo|realme X50 5G|RMX2051CN|RMX2051|
-|Oppo|realme X青春版|RMX1851CN|RMX1851|
 |Optage|Amigo7xJP|Amigo7xJP|Amigo7xJP|
 |Opticon|H-27|H-27|H-27|
 |Opticon|H-31|h31|h31|
@@ -21497,6 +21497,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme Q|RMX1971CN|RMX1971|
 |Realme|realme Q2 5G|RMX2117CN|RMX2117|
 |Realme|realme Q3 5G|RMX3161CN|RMX3161|
+|Realme|realme Q3 Pro Play|RE811C|RMX3142|
 |Realme|realme SA Smart TV|SW4H_FF|realme SA Smart TV|
 |Realme|realme Smart TV|SW4H_FF|realme Smart TV|
 |Realme|realme TV|ikebukuro|AI PONT|
@@ -21549,7 +21550,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|真我GT Neo|RMX3031CN|RMX3031|
 |Realme|真我GT Neo 闪速版|RE5469|RMX3350|
 |Realme|真我GT 大师探索版|RE546F|RMX3366|
-|Realme|真我Q3 Pro 狂欢版|RE811C|RMX3142|
 |Realme|真我V13 5G|RE5081|RMX3041|
 |Realme|真我V13 5G|RE5081|RMX3042|
 |Realme|真我V13 5G|RE5081|RMX3043|
