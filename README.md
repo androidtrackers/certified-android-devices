@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-09-05
+Last sync is 2021-09-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -161,6 +161,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ATOL|Smart.Slim Plus|t50p|Smart_Slim_Plus|
 |ATVIO|100011886BK|100011886BK|100011886BK|
 |ATVIO|ATVIO|mid7015_mk_32|MID7015|
+|AUPO|AUPO_Zeus_10_Pro_ROW|AUPO_Zeus_10_Pro_ROW|AUPO_Zeus_10_Pro|
 |AURII|AURII ULTRA|AURII_ULTRA|AURII ULTRA|
 |AURII|AURII_AMUSE_4G|AURII_AMUSE_4G|AURII_AMUSE_4G|
 |AURII|AURII_FAME|AURII_FAME|AURII_FAME|
@@ -2798,6 +2799,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|A80S|A80S|A80S|
 |Blackview|A9 Pro|A9_Pro|A9_Pro|
 |Blackview|A90|A90|A90|
+|Blackview|BL5000|BL5000|BL5000|
 |Blackview|BL6000Pro|BL6000Pro|BL6000Pro|
 |Blackview|BV4000|BV4000|BV4000|
 |Blackview|BV4000Pro_RU|BV4000Pro|BV4000Pro-RU|
@@ -2825,6 +2827,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|BV6300|BV6300|BV6300|
 |Blackview|BV6300Pro|BV6300Pro|BV6300Pro|
 |Blackview|BV6600|BV6600|BV6600|
+|Blackview|BV6600Pro|BV6600Pro|BV6600Pro|
 |Blackview|BV6800Pro|BV6800Pro|BV6800Pro|
 |Blackview|BV6800Pro-RU|BV6800Pro_RU|BV6800Pro_RU|
 |Blackview|BV6800Pro_RU|BV6800Pro_RU|BV6800Pro_RU|
@@ -5336,6 +5339,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|Shoot_ 1|Shoot_1|Shoot_1|
 |Doogee|T5|T5|T5|
 |Doogee|T5S|T5S|T5S|
+|Doogee|V10|V10|V10|
 |Doogee|X10|doogee-X10|DOOGEE X10|
 |Doogee|X100|X100|X100|
 |Doogee|X11|X11|X11|
@@ -6037,6 +6041,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Evertek|M20+Pro|M20_Pro|M20+Pro|
 |Evertek|M20_S|M20_S|M20 S|
 |Evertek|P17|P17|P17|
+|Evertek|P17_Pro|P17_Pro|P17_Pro|
 |Evertek|V4|V4|EVERTEK V4|
 |Evertek|V4 Nano|V4_Nano|V4 Nano|
 |Evertek|V4+|V4_Plus|V4+|
@@ -16171,6 +16176,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Masstel|Masstel_Tab10|Masstel_Tab10|Masstel Tab10|
 |Masstel|Masstel_Tab10_4G|Masstel_Tab10_4G|Masstel_Tab10_4G|
 |Masstel|Masstel_Tab10_WiFi|Masstel_Tab10_WiFi|Masstel_Tab10_WiFi|
+|Masstel|Masstel_Tab8_4G|Masstel_Tab8_4G|Masstel_Tab8_4G|
 |Masstel|Masstel_Tab_101|Masstel_Tab_101|Masstel_Tab_101|
 |Masstel|Masstel_Tab_104|Masstel_Tab_104|Masstel_Tab_104|
 |Masstel|Masstel_X1|Masstel_X1|Masstel X1|
@@ -18783,6 +18789,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oale|P6|P6|P6|
 |Oale|P6S|P6S|P6S|
 |Oale|XS2_LTE|XS2_LTE|XS2_LTE|
+|Oangcc|Tab_A6|Tab_A6|Tab_A6|
+|Oangcc|Tab_A6_EEA|Tab_A6_EEA|Tab_A6_EEA|
 |Obi|MV1|yam|OBI MV1|
 |Obi|MV1|yam|Obi MV1|
 |Obi|OBJ SJ1.5|SJ1-5|SJ1-5|
@@ -21894,6 +21902,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SK Telesys|WA978|u978e_1|WA978|
 |SK Telesys|icube-830|icube-830|icube-830|
 |SKY EVO|SA100|HY40A|SA100|
+|SMART_KASSEL|ARGENTINA|SK3402|SK3402|
+|SMART_KASSEL|SK3403|SK3403|SK3403|
 |SMART_KASSEL|SK5501|SK5501|SK5501|
 |SMB Gadgets|SMB8112BK|SMB8112BK|SMB8112BK|
 |SMT_LW|CRUSH X565|CRUSH_X565|CRUSH_X565|
@@ -21969,6 +21979,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Universe|heaven_10_1|heaven-10_1|HEAVEN 10.1|
 |SPURT|Spurt_K800|Spurt_K800|Spurt K800|
 |SQ(max)|Hope10_Max|Hope10_Max|Hope10 Max|
+|SQ(max)|Hope8_Max|Hope8_Max|Hope8_Max|
 |SSA-Digital|MID736-737|MID736-737|MID736-737|
 |SSB PHONES|AMS5118R_GO|AMS5118R_GO|AMS5118R_GO|
 |SSB PHONES|AMS5518R|AMS5518R|AMS5518R|
@@ -29731,6 +29742,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vgo Tel|Venture V8|VentureV8|Venture V8|
 |Vgo Tel|VentureV10|VentureV10|VentureV10|
 |Vgo Tel|i Smart|i_Smart|i_Smart|
+|ViMa-Tek|VM20|VM20|VM20|
 |Victurio|VI106|VI106|VI106|
 |Victurio|VI108|VI108|VI108|
 |Victurio|VI86|VI86|VI86|
@@ -29824,6 +29836,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivax|VIVAX Point X2 Lite|VIVAX_Point_X2_Lite|VIVAX_Point_X2_Lite|
 |Vivax|VIVAX_Fly_V1|VIVAX_Fly_V1|VIVAX_Fly_V1|
 |Vivax|VIVAX_PRO3|VIVAX_PRO3|VIVAX_PRO3|
+|Vivax|VIVAX_TPC-105_4G|VIVAX_TPC-105_4G|VIVAX_TPC-105_4G|
 |Vivo|V2040|2040|V2040|
 |Vivo|1601|1601|vivo 1601|
 |Vivo|1601|1601|vivo 1713|
@@ -33419,6 +33432,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iHunt|S60 Discovery Plus|S60_Discovery_Plus|S60 Discovery Plus|
 |iHunt|S60_Discovery_2019|S60_Discovery_2019|S60_Discovery_2019|
 |iHunt|TITAN P11000 PRO|TITAN_P11000_PRO|TITAN_P11000_PRO|
+|iHunt|TITAN P15000 PRO 5G|P15000PRO_5G|TITAN P15000 PRO 5G|
 |iHunt|Tian_P3000|Tian_P3000|Tian_P3000|
 |iHunt|Tian_P7000|Tian_P7000|Tian_P7000|
 |iHunt|Titan P8000 PRO 2021|Titan_P8000_PRO_2021|Titan P8000 PRO 2021|

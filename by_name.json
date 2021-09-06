@@ -7114,6 +7114,13 @@
    "model": "MID7015"
   }
  ],
+ "AUPO_Zeus_10_Pro_ROW": [
+  {
+   "brand": "AUPO",
+   "device": "AUPO_Zeus_10_Pro_ROW",
+   "model": "AUPO_Zeus_10_Pro"
+  }
+ ],
  "AURII ULTRA": [
   {
    "brand": "AURII",
@@ -26877,6 +26884,18 @@
    "model": "A90"
   }
  ],
+ "BL5000": [
+  {
+   "brand": "Blackview",
+   "device": "BL5000",
+   "model": "BL5000"
+  },
+  {
+   "brand": "Doogee",
+   "device": "BL5000",
+   "model": "BL5000"
+  }
+ ],
  "BL6000Pro": [
   {
    "brand": "Blackview",
@@ -27060,6 +27079,13 @@
    "brand": "Blackview",
    "device": "BV6600",
    "model": "BV6600"
+  }
+ ],
+ "BV6600Pro": [
+  {
+   "brand": "Blackview",
+   "device": "BV6600Pro",
+   "model": "BV6600Pro"
   }
  ],
  "BV6800Pro": [
@@ -37583,6 +37609,11 @@
    "model": "V10"
   },
   {
+   "brand": "Doogee",
+   "device": "V10",
+   "model": "V10"
+  },
+  {
    "brand": "Dragontouch",
    "device": "V10",
    "model": "V10"
@@ -45140,13 +45171,6 @@
    "model": "BL12000 PRO"
   }
  ],
- "BL5000": [
-  {
-   "brand": "Doogee",
-   "device": "BL5000",
-   "model": "BL5000"
-  }
- ],
  "BL5500_Lite": [
   {
    "brand": "Doogee",
@@ -50686,6 +50710,13 @@
    "brand": "Evertek",
    "device": "P17",
    "model": "P17"
+  }
+ ],
+ "P17_Pro": [
+  {
+   "brand": "Evertek",
+   "device": "P17_Pro",
+   "model": "P17_Pro"
   }
  ],
  "V4": [
@@ -111253,6 +111284,13 @@
    "model": "Masstel_Tab10_WiFi"
   }
  ],
+ "Masstel_Tab8_4G": [
+  {
+   "brand": "Masstel",
+   "device": "Masstel_Tab8_4G",
+   "model": "Masstel_Tab8_4G"
+  }
+ ],
  "Masstel_Tab_101": [
   {
    "brand": "Masstel",
@@ -126932,6 +126970,20 @@
    "brand": "Oale",
    "device": "XS2_LTE",
    "model": "XS2_LTE"
+  }
+ ],
+ "Tab_A6": [
+  {
+   "brand": "Oangcc",
+   "device": "Tab_A6",
+   "model": "Tab_A6"
+  }
+ ],
+ "Tab_A6_EEA": [
+  {
+   "brand": "Oangcc",
+   "device": "Tab_A6_EEA",
+   "model": "Tab_A6_EEA"
   }
  ],
  "MV1": [
@@ -146436,6 +146488,20 @@
    "model": "SA100"
   }
  ],
+ "ARGENTINA": [
+  {
+   "brand": "SMART_KASSEL",
+   "device": "SK3402",
+   "model": "SK3402"
+  }
+ ],
+ "SK3403": [
+  {
+   "brand": "SMART_KASSEL",
+   "device": "SK3403",
+   "model": "SK3403"
+  }
+ ],
  "SK5501": [
   {
    "brand": "SMART_KASSEL",
@@ -146902,6 +146968,13 @@
    "brand": "SQ(max)",
    "device": "Hope10_Max",
    "model": "Hope10 Max"
+  }
+ ],
+ "Hope8_Max": [
+  {
+   "brand": "SQ(max)",
+   "device": "Hope8_Max",
+   "model": "Hope8_Max"
   }
  ],
  "MID736-737": [
@@ -191376,6 +191449,13 @@
    "model": "i_Smart"
   }
  ],
+ "VM20": [
+  {
+   "brand": "ViMa-Tek",
+   "device": "VM20",
+   "model": "VM20"
+  }
+ ],
  "VI106": [
   {
    "brand": "Victurio",
@@ -191933,6 +192013,13 @@
    "brand": "Vivax",
    "device": "VIVAX_PRO3",
    "model": "VIVAX_PRO3"
+  }
+ ],
+ "VIVAX_TPC-105_4G": [
+  {
+   "brand": "Vivax",
+   "device": "VIVAX_TPC-105_4G",
+   "model": "VIVAX_TPC-105_4G"
   }
  ],
  "V2040": [
@@ -212767,6 +212854,13 @@
    "brand": "iHunt",
    "device": "TITAN_P11000_PRO",
    "model": "TITAN_P11000_PRO"
+  }
+ ],
+ "TITAN P15000 PRO 5G": [
+  {
+   "brand": "iHunt",
+   "device": "P15000PRO_5G",
+   "model": "TITAN P15000 PRO 5G"
   }
  ],
  "Tian_P3000": [

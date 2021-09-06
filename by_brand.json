@@ -871,6 +871,13 @@
    "model": "MID7015"
   }
  ],
+ "AUPO": [
+  {
+   "device": "AUPO_Zeus_10_Pro_ROW",
+   "name": "AUPO_Zeus_10_Pro_ROW",
+   "model": "AUPO_Zeus_10_Pro"
+  }
+ ],
  "AURII": [
   {
    "device": "AURII_ULTRA",
@@ -14424,6 +14431,11 @@
    "model": "A90"
   },
   {
+   "device": "BL5000",
+   "name": "BL5000",
+   "model": "BL5000"
+  },
+  {
    "device": "BL6000Pro",
    "name": "BL6000Pro",
    "model": "BL6000Pro"
@@ -14557,6 +14569,11 @@
    "device": "BV6600",
    "name": "BV6600",
    "model": "BV6600"
+  },
+  {
+   "device": "BV6600Pro",
+   "name": "BV6600Pro",
+   "model": "BV6600Pro"
   },
   {
    "device": "BV6800Pro",
@@ -27624,6 +27641,11 @@
    "model": "T5S"
   },
   {
+   "device": "V10",
+   "name": "V10",
+   "model": "V10"
+  },
+  {
    "device": "doogee-X10",
    "name": "X10",
    "model": "DOOGEE X10"
@@ -31317,6 +31339,11 @@
    "device": "P17",
    "name": "P17",
    "model": "P17"
+  },
+  {
+   "device": "P17_Pro",
+   "name": "P17_Pro",
+   "model": "P17_Pro"
   },
   {
    "device": "V4",
@@ -83089,6 +83116,11 @@
    "model": "Masstel_Tab10_WiFi"
   },
   {
+   "device": "Masstel_Tab8_4G",
+   "name": "Masstel_Tab8_4G",
+   "model": "Masstel_Tab8_4G"
+  },
+  {
    "device": "Masstel_Tab_101",
    "name": "Masstel_Tab_101",
    "model": "Masstel_Tab_101"
@@ -96551,6 +96583,18 @@
    "device": "XS2_LTE",
    "name": "XS2_LTE",
    "model": "XS2_LTE"
+  }
+ ],
+ "Oangcc": [
+  {
+   "device": "Tab_A6",
+   "name": "Tab_A6",
+   "model": "Tab_A6"
+  },
+  {
+   "device": "Tab_A6_EEA",
+   "name": "Tab_A6_EEA",
+   "model": "Tab_A6_EEA"
   }
  ],
  "Obi": [
@@ -112576,6 +112620,16 @@
  ],
  "SMART_KASSEL": [
   {
+   "device": "SK3402",
+   "name": "ARGENTINA",
+   "model": "SK3402"
+  },
+  {
+   "device": "SK3403",
+   "name": "SK3403",
+   "model": "SK3403"
+  },
+  {
    "device": "SK5501",
    "name": "SK5501",
    "model": "SK5501"
@@ -112971,6 +113025,11 @@
    "device": "Hope10_Max",
    "name": "Hope10_Max",
    "model": "Hope10 Max"
+  },
+  {
+   "device": "Hope8_Max",
+   "name": "Hope8_Max",
+   "model": "Hope8_Max"
   }
  ],
  "SSA-Digital": [
@@ -152565,6 +152624,13 @@
    "model": "i_Smart"
   }
  ],
+ "ViMa-Tek": [
+  {
+   "device": "VM20",
+   "name": "VM20",
+   "model": "VM20"
+  }
+ ],
  "Victurio": [
   {
    "device": "VI106",
@@ -153056,6 +153122,11 @@
    "device": "VIVAX_PRO3",
    "name": "VIVAX_PRO3",
    "model": "VIVAX_PRO3"
+  },
+  {
+   "device": "VIVAX_TPC-105_4G",
+   "name": "VIVAX_TPC-105_4G",
+   "model": "VIVAX_TPC-105_4G"
   }
  ],
  "Vivo": [
@@ -171423,6 +171494,11 @@
    "device": "TITAN_P11000_PRO",
    "name": "TITAN P11000 PRO",
    "model": "TITAN_P11000_PRO"
+  },
+  {
+   "device": "P15000PRO_5G",
+   "name": "TITAN P15000 PRO 5G",
+   "model": "TITAN P15000 PRO 5G"
   },
   {
    "device": "Tian_P3000",
