@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-09-06
+Last sync is 2021-09-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2299,6 +2299,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|B50 PRO|Bmobile_B50Pro|B50Pro|
 |BMobile|B50 PRO|Bmobile_B50Pro_MV03|B50Pro|
 |BMobile|B50ProSS|Bmobile_B50ProSS|B50Pro|
+|BMobile|B50ProSS_MV03|Bmobile_B50ProSS|B50Pro|
 |BMobile|B50_1|Bmobile_B50_1|B50|
 |BMobile|B55|B55|B55|
 |BMobile|B60Pro_DG|Bmobile_B60Pro_DG|B60Pro_DG|
@@ -2675,6 +2676,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BioRugged|BioWolf_C|BioWolf_C|BioWolf_C|
 |BioRugged|T4000|T4000|T4000|
 |Bird|A7|A7|A7|
+|Bird|C6_R_GL|C6_R|C6|
 |Bird|E5018|E5018|E5018|
 |Bird|Energy|Energy|Energy|
 |Bird|F07|Bird_F07|F07|
@@ -4501,9 +4503,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Crosscall|Action-X3|HS8937QC|Action-X3 Pro|
 |Crosscall|Action-X3|HS8937QCs|ACTION-X3|
 |Crosscall|Action-X3|HS8937QCs|Action-X3|
+|Crosscall|Action-X5|L752|Action-X5|
 |Crosscall|CORE-M4|CORE-M4|CORE-M4|
 |Crosscall|CORE-M4 GO|CORE-M4-GO|CORE-M4 GO|
 |Crosscall|Core- X3|HS8917QC|Core-X3|
+|Crosscall|Core-M5|L751|Core-M5|
+|Crosscall|Core-M5|L751_02|Core-M5|
 |Crosscall|Core-T4|L810|Core-T4|
 |Crosscall|Core-X4|L762|Core-X4|
 |Crosscall|ODYSSEY|ODYSSEY3G|ODYSSEY|
@@ -6713,6 +6718,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-TiDE|FANS7|FANS7|G-TiDE FANS7|
 |G-TiDE|G-TiDE_H1_EEA|G-TiDE_H1_EEA|G-TiDE_H1_EEA|
 |G-TiDE|G-TiDE_P1|G-TiDE_P1|G-TiDE_P1|
+|G-TiDE|PL1080|G-TiDE_H1_4G_EEA|G-TiDE_H1_4G|
 |G-TiDE EXTREME|EX10|EX10|EX10|
 |G53|TA71CA3|TA71CA3_1|TA71CA3|
 |G7 Mobiles|G7S54P3CR|G7S54P3CR|G7S54P3CR|
@@ -8795,6 +8801,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense E30|HS6763MT|Hisense E30|
 |Hisense|Hisense E30|HS6763MT|Hisense Infinity E30|
 |Hisense|Hisense E31 Lite|HLTE105E|Hisense E31 Lite|
+|Hisense|Hisense E31 Lite|HLTE105E_02|Hisense E31 Lite|
+|Hisense|Hisense E31 Lite|HLTE105E_03|Hisense E31 Lite|
 |Hisense|Hisense E40|HLTE229E|HLTE229E|
 |Hisense|Hisense E40|HLTE229E|Hisense E40|
 |Hisense|Hisense E40|HLTE229E_10|HLTE229E|
@@ -8808,6 +8816,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense E50|HLTE232E_02|Hisense E50|
 |Hisense|Hisense E50|HLTE232E_10|Hisense E50|
 |Hisense|Hisense E50|HLTE232E_11|Hisense E50|
+|Hisense|Hisense E50|HLTE232E_12|Hisense E50|
 |Hisense|Hisense E50|HLTE232E_20|Hisense E50 128G|
 |Hisense|Hisense E50 Lite|HLTE228E|Hisense E50 Lite|
 |Hisense|Hisense E50 Lite|HLTE228E_01|Hisense E50 Lite|
@@ -8843,6 +8852,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense H40|HLTE321E|Hisense Infinity H40|
 |Hisense|Hisense H40 Lite|SC9863A|HLTE230E|
 |Hisense|Hisense H40 Lite|SC9863A|Hisense H40 Lite|
+|Hisense|Hisense H50 Lite|HLTE233E_12|Hisense H50 Lite|
 |Hisense|Hisense Infinity E30 Lite|SC9832E|Hisense Infinity E30 Lite|
 |Hisense|Hisense Infinity H12 Pro|HSSDM636QC|Hisense Infinity H12 Pro|
 |Hisense|Hisense Infinity H40 Lite|HLTE230E_01|HLTE230E_01|
@@ -12728,6 +12738,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Konrow|SKY PLUS|KONROW_SKY_PLUS|SKY PLUS|
 |Konrow|SKY55|SKY55|SKY55_EEA|
 |Konrow|SKY_55|SKY_55|SKY_55_EEA|
+|Konrow|SOFT5|SOFT5|SOFT5|
 |Konrow|SWEET5|SWEET5|SWEET5|
 |Konrow|SWEET_55|SWEET_55|SWEET 55|
 |Konrow|Sky|Sky|Sky|
@@ -14406,6 +14417,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lanix|ILIUM PAD I8|Ilium_Padi8v3|ilium PAD i8 v3|
 |Lanix|ILIUM S670|Ilium_S670|ILIUM S670|
 |Lanix|ILIUM X110|ILIUM_X110|ILIUM X110|
+|Lanix|ILIUMPAD_RX10v5|ILIUMPAD_RX10v5|ILIUM_PAD_RX10v5|
 |Lanix|ILIUM_PADE7|ILIUM_PADE7V10|ILIUM_PADE7|
 |Lanix|ILium M7s|Ilium_M7s|Ilium M7s|
 |Lanix|Ilium Alpha 1s|Ilium_Alpha_1s|Ilium Alpha 1s|
@@ -21500,6 +21512,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme C3|RMX2027|RMX2027|
 |Realme|realme C3i|RMX2027|RMX2027|
 |Realme|realme GT 5G|RMX2202L1|RMX2202|
+|Realme|realme GT Explorer Master Edition|RE546F|RMX3366|
 |Realme|realme Narzo 20|RMX2193|RMX2193|
 |Realme|realme Narzo 30 Pro 5G|RMX2117L1|RMX2117|
 |Realme|realme Q|RMX1971CN|RMX1971|
@@ -21528,8 +21541,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme X3|RMX2083L1|RMX2083|
 |Realme|realme X3|RMX2085L1|RMX2085|
 |Realme|realme X3|RMX2086L1|RMX2086|
+|Realme|realme X50 5G|RMX2025CN|RMX2025|
 |Realme|realme X50 5G|RMX2144L1|RMX2144|
-|Realme|realme X50 5G 移动版|RMX2025CN|RMX2025|
 |Realme|realme X50 Pro|RMX2071CN|RMX2071|
 |Realme|realme X50 Pro|RMX2075L1|RMX2075|
 |Realme|realme X50 Pro|RMX2076L1|RMX2076|
@@ -21541,6 +21554,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme X50t 5G|RE508C|RMX2052|
 |Realme|realme X50t 5G|RMX2052CN|RMX2052|
 |Realme|realme X7 5G|RMX3092L1|RMX3092|
+|Realme|realme X7Pro Ultra|RMX3115CN|RMX3115|
 |Realme|realme X7 5G|RMX2176CN|RMX2176|
 |Realme|realme XT|RMX1921|RMX1921|
 |Realme|realme XT|RMX1921L1|RMX1921|
@@ -21557,11 +21571,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|真我GT|RMX2202CN|RMX2202|
 |Realme|真我GT Neo|RMX3031CN|RMX3031|
 |Realme|真我GT Neo 闪速版|RE5469|RMX3350|
-|Realme|真我GT 大师探索版|RE546F|RMX3366|
 |Realme|真我V13 5G|RE5081|RMX3041|
 |Realme|真我V13 5G|RE5081|RMX3042|
 |Realme|真我V13 5G|RE5081|RMX3043|
-|Realme|真我X7Pro 至尊版|RMX3115CN|RMX3115|
 |Realtek|RealtekHank|RealtekHank|RealtekHank|
 |Realtek|RealtekThor|RealtekThor|RealtekThor|
 |Realtime|RS405|RS405|RS405|
@@ -24779,6 +24791,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sansui|Israel|SAN-8487|SAN-8487|
 |Sansui|Mexio|yeongdeungpo|AiPlus4K|
 |Sansui|Nitro|Nitro|Nitro|
+|Sansui|SANSUI|martin|AiPlus2K|
 |Sansui|SANSUITV UHD|SW4H|SANSUITV UHD|
 |Sansui|Sansui Play|Play|Sansui Play|
 |Sansui|Sansui_Nova|Sansui_Nova|Sansui_Nova|
@@ -30000,6 +30013,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2108|2061|V2061|
 |Vivo|V2108|2061|V2108|
 |Vivo|V2109|2109|V2109|
+|Vivo|V2110|2109|V2110|
+|Vivo|V2110|2109|V2136|
+|Vivo|V2110|2110|V2110|
+|Vivo|V2111|2111|V2111|
 |Vivo|V2111A|PD2111|V2111A|
 |Vivo|V2118A|PD2118|V2118A|
 |Vivo|V2121A|PD2121|V2121A|
@@ -30007,6 +30024,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2130A|PD2130|V2130A|
 |Vivo|V2131A|PD2131|V2131A|
 |Vivo|V2133A|PD2133|V2133A|
+|Vivo|V2134A|PD2134|V2134A|
 |Vivo|V2135A|PD2133|V2135A|
 |Vivo|V2136A|PD2136|V2136A|
 |Vivo|V2141A|PD2141|V2141A|

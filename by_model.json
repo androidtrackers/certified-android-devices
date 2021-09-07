@@ -17679,6 +17679,11 @@
    "brand": "BMobile",
    "name": "B50ProSS",
    "device": "Bmobile_B50ProSS"
+  },
+  {
+   "brand": "BMobile",
+   "name": "B50ProSS_MV03",
+   "device": "Bmobile_B50ProSS"
   }
  ],
  "B55": [
@@ -20296,6 +20301,43 @@
    "device": "T4000"
   }
  ],
+ "C6": [
+  {
+   "brand": "Bird",
+   "name": "C6_R_GL",
+   "device": "C6_R"
+  },
+  {
+   "brand": "Blu",
+   "name": "C6",
+   "device": "C031P"
+  },
+  {
+   "brand": "CILICO",
+   "name": "C6",
+   "device": "C6"
+  },
+  {
+   "brand": "CILICO",
+   "name": "C6_R_EEA",
+   "device": "C6_R"
+  },
+  {
+   "brand": "Handheld-Wireless",
+   "name": "C6",
+   "device": "C6"
+  },
+  {
+   "brand": "Handheld-Wireless",
+   "name": "C6_EEA",
+   "device": "C6"
+  },
+  {
+   "brand": "Handheld-Wireless",
+   "name": "C6_TU",
+   "device": "C6"
+  }
+ ],
  "E5018": [
   {
    "brand": "Bird",
@@ -22649,38 +22691,6 @@
    "brand": "Blu",
    "name": "C5X",
    "device": "C0010LL"
-  }
- ],
- "C6": [
-  {
-   "brand": "Blu",
-   "name": "C6",
-   "device": "C031P"
-  },
-  {
-   "brand": "CILICO",
-   "name": "C6",
-   "device": "C6"
-  },
-  {
-   "brand": "CILICO",
-   "name": "C6_R_EEA",
-   "device": "C6_R"
-  },
-  {
-   "brand": "Handheld-Wireless",
-   "name": "C6",
-   "device": "C6"
-  },
-  {
-   "brand": "Handheld-Wireless",
-   "name": "C6_EEA",
-   "device": "C6"
-  },
-  {
-   "brand": "Handheld-Wireless",
-   "name": "C6_TU",
-   "device": "C6"
   }
  ],
  "C6 2020": [
@@ -25605,6 +25615,11 @@
    "brand": "Contex",
    "name": "Egypt",
    "device": "tamachi"
+  },
+  {
+   "brand": "Sansui",
+   "name": "SANSUI",
+   "device": "martin"
   },
   {
    "brand": "Smart-Tech TV",
@@ -33454,6 +33469,13 @@
    "device": "HS8937QC"
   }
  ],
+ "Action-X5": [
+  {
+   "brand": "Crosscall",
+   "name": "Action-X5",
+   "device": "L752"
+  }
+ ],
  "CORE-M4": [
   {
    "brand": "Crosscall",
@@ -33473,6 +33495,18 @@
    "brand": "Crosscall",
    "name": "Core- X3",
    "device": "HS8917QC"
+  }
+ ],
+ "Core-M5": [
+  {
+   "brand": "Crosscall",
+   "name": "Core-M5",
+   "device": "L751"
+  },
+  {
+   "brand": "Crosscall",
+   "name": "Core-M5",
+   "device": "L751_02"
   }
  ],
  "Core-T4": [
@@ -49175,6 +49209,13 @@
    "device": "G-TiDE_P1"
   }
  ],
+ "G-TiDE_H1_4G": [
+  {
+   "brand": "G-TiDE",
+   "name": "PL1080",
+   "device": "G-TiDE_H1_4G_EEA"
+  }
+ ],
  "EX10": [
   {
    "brand": "G-TiDE EXTREME",
@@ -63396,6 +63437,16 @@
    "brand": "Hisense",
    "name": "Hisense E31 Lite",
    "device": "HLTE105E"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense E31 Lite",
+   "device": "HLTE105E_02"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense E31 Lite",
+   "device": "HLTE105E_03"
   }
  ],
  "Hisense V40": [
@@ -63445,6 +63496,11 @@
    "brand": "Hisense",
    "name": "Hisense E50",
    "device": "HLTE232E_11"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense E50",
+   "device": "HLTE232E_12"
   }
  ],
  "Hisense E50 128G": [
@@ -63678,6 +63734,18 @@
    "device": "SC9863A"
   }
  ],
+ "Hisense H50 Lite": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense H50 Lite",
+   "device": "HLTE233E_12"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense U50",
+   "device": "HLTE233E_10"
+  }
+ ],
  "Hisense Infinity E30 Lite": [
   {
    "brand": "Hisense",
@@ -63838,13 +63906,6 @@
    "brand": "Hisense",
    "name": "Hisense U605",
    "device": "HS7731ESP"
-  }
- ],
- "Hisense H50 Lite": [
-  {
-   "brand": "Hisense",
-   "name": "Hisense U50",
-   "device": "HLTE233E_10"
   }
  ],
  "Hisense M50 Lite 2021": [
@@ -89445,6 +89506,13 @@
    "device": "SKY_55"
   }
  ],
+ "SOFT5": [
+  {
+   "brand": "Konrow",
+   "name": "SOFT5",
+   "device": "SOFT5"
+  }
+ ],
  "SWEET5": [
   {
    "brand": "Konrow",
@@ -100570,6 +100638,13 @@
    "brand": "Lanix",
    "name": "ILIUM X110",
    "device": "ILIUM_X110"
+  }
+ ],
+ "ILIUM_PAD_RX10v5": [
+  {
+   "brand": "Lanix",
+   "name": "ILIUMPAD_RX10v5",
+   "device": "ILIUMPAD_RX10v5"
   }
  ],
  "ILIUM_PADE7": [
@@ -147087,6 +147162,13 @@
    "device": "RMX2202CN"
   }
  ],
+ "RMX3366": [
+  {
+   "brand": "Realme",
+   "name": "realme GT Explorer Master Edition",
+   "device": "RE546F"
+  }
+ ],
  "RMX2117": [
   {
    "brand": "Realme",
@@ -147249,18 +147331,18 @@
    "device": "RMX2086L1"
   }
  ],
+ "RMX2025": [
+  {
+   "brand": "Realme",
+   "name": "realme X50 5G",
+   "device": "RMX2025CN"
+  }
+ ],
  "RMX2144": [
   {
    "brand": "Realme",
    "name": "realme X50 5G",
    "device": "RMX2144L1"
-  }
- ],
- "RMX2025": [
-  {
-   "brand": "Realme",
-   "name": "realme X50 5G 移动版",
-   "device": "RMX2025CN"
   }
  ],
  "RMX2071": [
@@ -147325,6 +147407,13 @@
    "brand": "Realme",
    "name": "realme X50t 5G",
    "device": "RMX2052CN"
+  }
+ ],
+ "RMX3115": [
+  {
+   "brand": "Realme",
+   "name": "realme X7Pro Ultra",
+   "device": "RMX3115CN"
   }
  ],
  "RMX2176": [
@@ -147409,13 +147498,6 @@
    "device": "RE5469"
   }
  ],
- "RMX3366": [
-  {
-   "brand": "Realme",
-   "name": "真我GT 大师探索版",
-   "device": "RE546F"
-  }
- ],
  "RMX3041": [
   {
    "brand": "Realme",
@@ -147435,13 +147517,6 @@
    "brand": "Realme",
    "name": "真我V13 5G",
    "device": "RE5081"
-  }
- ],
- "RMX3115": [
-  {
-   "brand": "Realme",
-   "name": "真我X7Pro 至尊版",
-   "device": "RMX3115CN"
   }
  ],
  "RealtekHank": [
@@ -203456,6 +203531,32 @@
    "device": "2109"
   }
  ],
+ "V2110": [
+  {
+   "brand": "Vivo",
+   "name": "V2110",
+   "device": "2109"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2110",
+   "device": "2110"
+  }
+ ],
+ "V2136": [
+  {
+   "brand": "Vivo",
+   "name": "V2110",
+   "device": "2109"
+  }
+ ],
+ "V2111": [
+  {
+   "brand": "Vivo",
+   "name": "V2111",
+   "device": "2111"
+  }
+ ],
  "V2111A": [
   {
    "brand": "Vivo",
@@ -203503,6 +203604,13 @@
    "brand": "Vivo",
    "name": "V2133A",
    "device": "PD2133"
+  }
+ ],
+ "V2134A": [
+  {
+   "brand": "Vivo",
+   "name": "V2134A",
+   "device": "PD2134"
   }
  ],
  "V2135A": [
