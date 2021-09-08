@@ -19424,6 +19424,11 @@
    "model": "Aqua S9 Max"
   },
   {
+   "device": "Cherry_Aqua_Tab_S1",
+   "name": "Aqua Tab",
+   "model": "A870"
+  },
+  {
    "device": "A950",
    "name": "Aqua Tab Deluxe",
    "model": "A950"
@@ -31869,6 +31874,11 @@
    "model": "B2021"
   },
   {
+   "device": "R2022",
+   "name": "B2022_EEA",
+   "model": "R2022"
+  },
+  {
    "device": "Bison2021",
    "name": "Bison2021_EEA",
    "model": "Bison2021"
@@ -37880,6 +37890,11 @@
    "device": "trogdor_cheets",
    "name": "Qualcomm SC7180 Chromebook",
    "model": "trogdor"
+  },
+  {
+   "device": "strongbad_cheets",
+   "name": "Qualcomm SC7180 Detachable",
+   "model": "strongbad"
   },
   {
    "device": "jerry_cheets",
@@ -48038,6 +48053,11 @@
    "device": "CT45",
    "name": "CT45",
    "model": "CT45"
+  },
+  {
+   "device": "CT45P",
+   "name": "CT45P",
+   "model": "CT45P"
   },
   {
    "device": "CT50L0N-CS12S",
@@ -86670,6 +86690,11 @@
    "model": "Mione_Pro"
   },
   {
+   "device": "Mione_Pro_Plus",
+   "name": "Mione_Pro_Plus",
+   "model": "Mione Pro Plus"
+  },
+  {
    "device": "mione_S20",
    "name": "mione_S20",
    "model": "mione_S20"
@@ -91332,6 +91357,11 @@
    "model": "M10_4G_PRO"
   },
   {
+   "device": "ML_JI1G_M7_3G",
+   "name": "M7 3G",
+   "model": "M7_3G"
+  },
+  {
    "device": "ML_WI0B_M7_3G",
    "name": "M7 3G",
    "model": "M7_3G"
@@ -91365,6 +91395,16 @@
    "device": "ML_WI12_M7_3G_PLUS",
    "name": "M7 3G Plus",
    "model": "M7_3G_PLUS"
+  },
+  {
+   "device": "ML_JI1D_M7_WIFI",
+   "name": "M7 WIF",
+   "model": "M7_WIFI"
+  },
+  {
+   "device": "ML_SO0E_M7_WIFI",
+   "name": "M7 WIFI",
+   "model": "M7_WIFI"
   },
   {
    "device": "ML-JI21-M7-3G-PLUS",
@@ -111753,6 +111793,11 @@
    "model": "RD62E"
   },
   {
+   "device": "RD81PT",
+   "name": "RD81PT",
+   "model": "RD81PT"
+  },
+  {
    "device": "RD81PTE",
    "name": "RD81PTE",
    "model": "RD81PTE"
@@ -111802,6 +111847,13 @@
    "device": "Power",
    "name": "Power",
    "model": "Power"
+  }
+ ],
+ "Revomovil": [
+  {
+   "device": "S6523_EEA",
+   "name": "X12",
+   "model": "S6523 EEA"
   }
  ],
  "Revtel": [
@@ -126673,6 +126725,11 @@
    "model": "SM-F707W"
   },
   {
+   "device": "SC-54B",
+   "name": "Galaxy Z Flip3 5G",
+   "model": "SC-54B"
+  },
+  {
    "device": "b2q",
    "name": "Galaxy Z Flip3 5G",
    "model": "SM-F7110"
@@ -126736,6 +126793,11 @@
    "device": "f2q",
    "name": "Galaxy Z Fold2 5G",
    "model": "SM-F916W"
+  },
+  {
+   "device": "SC-55B",
+   "name": "Galaxy Z Fold3 5G",
+   "model": "SC-55B"
   },
   {
    "device": "q2q",
@@ -136383,6 +136445,11 @@
    "device": "i68",
    "name": "i68",
    "model": "i68"
+  },
+  {
+   "device": "i69",
+   "name": "i69",
+   "model": "i69"
   },
   {
    "device": "i72",
@@ -153586,6 +153653,11 @@
    "model": "V2023A"
   },
   {
+   "device": "PD2023",
+   "name": "V2023EA",
+   "model": "V2023EA"
+  },
+  {
    "device": "1920",
    "name": "V2024",
    "model": "V2024"
@@ -161006,6 +161078,11 @@
    "device": "EPIC_T",
    "name": "EPIC_T",
    "model": "EPIC T"
+  },
+  {
+   "device": "GO_3",
+   "name": "GO 3",
+   "model": "GO 3"
   },
   {
    "device": "GO1",

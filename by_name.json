@@ -34324,6 +34324,13 @@
    "model": "Aqua S9 Max"
   }
  ],
+ "Aqua Tab": [
+  {
+   "brand": "Cherry Mobile",
+   "device": "Cherry_Aqua_Tab_S1",
+   "model": "A870"
+  }
+ ],
  "Aqua Tab Deluxe": [
   {
    "brand": "Cherry Mobile",
@@ -44883,6 +44890,11 @@
    "brand": "Lava",
    "device": "X12",
    "model": "X12"
+  },
+  {
+   "brand": "Revomovil",
+   "device": "S6523_EEA",
+   "model": "S6523 EEA"
   }
  ],
  "STAB8765B2-16": [
@@ -51451,6 +51463,13 @@
    "brand": "F150",
    "device": "B2021",
    "model": "B2021"
+  }
+ ],
+ "B2022_EEA": [
+  {
+   "brand": "F150",
+   "device": "R2022",
+   "model": "R2022"
   }
  ],
  "Bison2021_EEA": [
@@ -59519,6 +59538,13 @@
    "brand": "Google",
    "device": "trogdor_cheets",
    "model": "trogdor"
+  }
+ ],
+ "Qualcomm SC7180 Detachable": [
+  {
+   "brand": "Google",
+   "device": "strongbad_cheets",
+   "model": "strongbad"
   }
  ],
  "Rockchip RK3288 Chromebook": [
@@ -71918,6 +71944,13 @@
    "brand": "Honeywell",
    "device": "CT45",
    "model": "CT45"
+  }
+ ],
+ "CT45P": [
+  {
+   "brand": "Honeywell",
+   "device": "CT45P",
+   "model": "CT45P"
   }
  ],
  "CT50": [
@@ -115482,6 +115515,13 @@
    "model": "Mione_Pro"
   }
  ],
+ "Mione_Pro_Plus": [
+  {
+   "brand": "Mione",
+   "device": "Mione_Pro_Plus",
+   "model": "Mione Pro Plus"
+  }
+ ],
  "mione_S20": [
   {
    "brand": "Mione",
@@ -120704,6 +120744,11 @@
  "M7 3G": [
   {
    "brand": "Multilaser",
+   "device": "ML_JI1G_M7_3G",
+   "model": "M7_3G"
+  },
+  {
+   "brand": "Multilaser",
    "device": "ML_WI0B_M7_3G",
    "model": "M7_3G"
   }
@@ -120742,6 +120787,20 @@
    "brand": "Multilaser",
    "device": "ML_WI12_M7_3G_PLUS",
    "model": "M7_3G_PLUS"
+  }
+ ],
+ "M7 WIF": [
+  {
+   "brand": "Multilaser",
+   "device": "ML_JI1D_M7_WIFI",
+   "model": "M7_WIFI"
+  }
+ ],
+ "M7 WIFI": [
+  {
+   "brand": "Multilaser",
+   "device": "ML_SO0E_M7_WIFI",
+   "model": "M7_WIFI"
   }
  ],
  "M7-3G PLUS": [
@@ -145557,6 +145616,13 @@
    "model": "RD62E"
   }
  ],
+ "RD81PT": [
+  {
+   "brand": "Remdun",
+   "device": "RD81PT",
+   "model": "RD81PT"
+  }
+ ],
  "RD81PTE": [
   {
    "brand": "Remdun",
@@ -161790,6 +161856,11 @@
  "Galaxy Z Flip3 5G": [
   {
    "brand": "Samsung",
+   "device": "SC-54B",
+   "model": "SC-54B"
+  },
+  {
+   "brand": "Samsung",
    "device": "b2q",
    "model": "SM-F7110"
   },
@@ -161857,6 +161928,11 @@
   }
  ],
  "Galaxy Z Fold3 5G": [
+  {
+   "brand": "Samsung",
+   "device": "SC-55B",
+   "model": "SC-55B"
+  },
   {
    "brand": "Samsung",
    "device": "q2q",
@@ -173274,6 +173350,13 @@
    "brand": "Symphony",
    "device": "i68",
    "model": "i68"
+  }
+ ],
+ "i69": [
+  {
+   "brand": "Symphony",
+   "device": "i69",
+   "model": "i69"
   }
  ],
  "i72": [
@@ -192635,6 +192718,13 @@
    "model": "V2023A"
   }
  ],
+ "V2023EA": [
+  {
+   "brand": "Vivo",
+   "device": "PD2023",
+   "model": "V2023EA"
+  }
+ ],
  "V2024": [
   {
    "brand": "Vivo",
@@ -201484,6 +201574,13 @@
    "brand": "Yezz",
    "device": "EPIC_T",
    "model": "EPIC T"
+  }
+ ],
+ "GO 3": [
+  {
+   "brand": "Yezz",
+   "device": "GO_3",
+   "model": "GO 3"
   }
  ],
  "GO1": [

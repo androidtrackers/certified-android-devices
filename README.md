@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-09-07
+Last sync is 2021-09-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3752,6 +3752,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cherry Mobile|Aqua S9|Aqua_S9|Aqua S9|
 |Cherry Mobile|Aqua S9 Lite|X1020|Aqua S9 lite|
 |Cherry Mobile|Aqua S9 Max|Aqua_S9_Max|Aqua S9 Max|
+|Cherry Mobile|Aqua Tab|Cherry_Aqua_Tab_S1|A870|
 |Cherry Mobile|Aqua Tab Deluxe|A950|A950|
 |Cherry Mobile|Aqua_Infinity|Aqua_Infinity|Aqua_Infinity|
 |Cherry Mobile|Cherry S8 Deluxe|Flare_S8_Deluxe|Flare_S8_Deluxe|
@@ -6141,6 +6142,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |F&U (Fandu)|Greece|yeongdeungpo|F and U Android TV|
 |F150|B2021|B2021|B2021|
 |F150|B2021_EEA|B2021|B2021|
+|F150|B2022_EEA|R2022|R2022|
 |F150|Bison2021_EEA|Bison2021|Bison2021|
 |F2 Mobile|C8Finger|C8Finger|C8Finger|
 |F2 Mobile|F2 F80s_plus|F80s_plus|F80s_plus|
@@ -7292,6 +7294,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Project Tango Tablet Development Kit|yellowstone|Project Tango Tablet Development Kit|
 |Google|Project Tango Tablet Development Kit|yellowstone|Yellowstone|
 |Google|Qualcomm SC7180 Chromebook|trogdor_cheets|trogdor|
+|Google|Qualcomm SC7180 Detachable|strongbad_cheets|strongbad|
 |Google|Rockchip RK3288 Chromebook|jerry_cheets|RK3288 Chrome OS Device|
 |Google|Rockchip RK3288 Chromebook|jerry_cheets|Rockchip RK3288 Chromebook|
 |Google|Rockchip RK3288 Chromebook|mighty_cheets|RK3288 Chrome OS Device|
@@ -9294,6 +9297,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|CT40P|CT40P-L1-D|CT40|
 |Honeywell|CT40P-L0-D|CT40P-L0-D|CT40|
 |Honeywell|CT45|CT45|CT45|
+|Honeywell|CT45P|CT45P|CT45P|
 |Honeywell|CT50|CT50L0N-CS12S|CT50|
 |Honeywell|CT50|CT50L0N-CS15S|CT50|
 |Honeywell|CT50|CT50L0N-CS16S|CT50|
@@ -16870,6 +16874,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mione|M-701Plus|M-701Plus|M-701Plus|
 |Mione|Mione_PUBG_1|Mione_PUBG_1|Mione_PUBG_1|
 |Mione|Mione_Pro|MIONEI|Mione_Pro|
+|Mione|Mione_Pro_Plus|Mione_Pro_Plus|Mione Pro Plus|
 |Mione|mione_S20|mione_S20|mione_S20|
 |Miophone|Mio Phone|MioPhone2016|Mio Phone 2016|
 |Miophone|Mio Phone|MioPhone2017|MioPhone2017|
@@ -17784,6 +17789,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M10A_Lite|ML_SO0A_M10A_Lite|M10A_Lite|
 |Multilaser|M10_4G_PRO|ML-SO0C_M10_4G_PRO_PLUS|M10_4G_PRO|
 |Multilaser|M10_4G_PRO|ML_SO0G_M10_4G_PRO_PLUS|M10_4G_PRO|
+|Multilaser|M7 3G|ML_JI1G_M7_3G|M7_3G|
 |Multilaser|M7 3G|ML_WI0B_M7_3G|M7_3G|
 |Multilaser|M7 3G A10|ML_WI4A_M7_3G_A10|M7_3G_A10|
 |Multilaser|M7 3G PLUS|ML-JI0G-M7-3G-PLUS|M7-3G-PLUS|
@@ -17791,6 +17797,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M7 3G PLUS|ML-JI31-M7-3G-PLUS|M7-3G-PLUS|
 |Multilaser|M7 3G PLUS|ML_WI0A_M7_3G_PLUS|M7_3G_PLUS|
 |Multilaser|M7 3G Plus|ML_WI12_M7_3G_PLUS|M7_3G_PLUS|
+|Multilaser|M7 WIF|ML_JI1D_M7_WIFI|M7_WIFI|
+|Multilaser|M7 WIFI|ML_SO0E_M7_WIFI|M7_WIFI|
 |Multilaser|M7-3G PLUS|ML-JI21-M7-3G-PLUS|M7-3G-PLUS|
 |Multilaser|M7-3G PLUS|ML-WI-M7_3G_PLUS|ML-WI-M7_3G_PLUS|
 |Multilaser|M7-4G|ML-JI-M7-4G|ML-JI-M7-4G|
@@ -21749,6 +21757,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Remdun|RD52E|RD52E|RD52E|
 |Remdun|RD60TE|RD60TE|RD60TE|
 |Remdun|RD62E|RD62E|RD62E|
+|Remdun|RD81PT|RD81PT|RD81PT|
 |Remdun|RD81PTE|RD81PTE|RD81PTE|
 |Remdun|RD86|RD86|RD86|
 |Remdun|RD86E|RD86E|RD86E|
@@ -21758,6 +21767,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Revko|BE XL|BE_xl|BE_xl|
 |Revo|Pearl|Pearl|Pearl|
 |Revo|Power|Power|Power|
+|Revomovil|X12|S6523_EEA|S6523 EEA|
 |Revtel|R45|Revel_R45|R45|
 |Rhino|C10|Rhino_C10|C10|
 |Rhino|M10p_001|Rhino_M10p|M10p|
@@ -24701,6 +24711,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Flip 5G|bloomxq|SM-F707U|
 |Samsung|Galaxy Z Flip 5G|bloomxq|SM-F707U1|
 |Samsung|Galaxy Z Flip 5G|bloomxq|SM-F707W|
+|Samsung|Galaxy Z Flip3 5G|SC-54B|SC-54B|
 |Samsung|Galaxy Z Flip3 5G|b2q|SM-F7110|
 |Samsung|Galaxy Z Flip3 5G|b2q|SM-F711B|
 |Samsung|Galaxy Z Flip3 5G|b2q|SM-F711N|
@@ -24714,6 +24725,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F916U|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F916U1|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F916W|
+|Samsung|Galaxy Z Fold3 5G|SC-55B|SC-55B|
 |Samsung|Galaxy Z Fold3 5G|q2q|SM-F9260|
 |Samsung|Galaxy Z Fold3 5G|q2q|SM-F926B|
 |Samsung|Galaxy Z Fold3 5G|q2q|SM-F926N|
@@ -26591,6 +26603,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|i66|i66|i66|
 |Symphony|i67|i67|i67|
 |Symphony|i68|i68|i68|
+|Symphony|i69|i69|i69|
 |Symphony|i72|i72|i72|
 |Symphony|i74|i74|i74|
 |Symphony|i90|i90|i90|
@@ -29928,6 +29941,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2022|2023|V2022|
 |Vivo|V2023|2023|V2023|
 |Vivo|V2023A|PD2023|V2023A|
+|Vivo|V2023EA|PD2023|V2023EA|
 |Vivo|V2024|1920|V2024|
 |Vivo|V2024A|PD2024|V2024A|
 |Vivo|V2025|2025|V2025|
@@ -31368,6 +31382,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Yezz|ART1_PRO|ART1_PRO|ART1_PRO|
 |Yezz|E400A|E400A|E400A|
 |Yezz|EPIC_T|EPIC_T|EPIC T|
+|Yezz|GO 3|GO_3|GO 3|
 |Yezz|GO1|GO1|GO1|
 |Yezz|GO2|GO_2|GO2|
 |Yezz|LIV 1S|LIV_1S|LIV 1S|
