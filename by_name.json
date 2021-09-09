@@ -25513,6 +25513,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "OK (Mediamark)",
+   "device": "samseong",
+   "model": "AI PONT"
+  },
+  {
    "brand": "Philips",
    "device": "guui",
    "model": "PHILIPS 4k TV"
@@ -34063,6 +34068,13 @@
    "brand": "Cellon",
    "device": "starTIM1",
    "model": "starTIM1"
+  }
+ ],
+ "COSMAS_T": [
+  {
+   "brand": "Cellution",
+   "device": "COSMAS_T",
+   "model": "COSMAS T"
   }
  ],
  "COSMAS_X": [
@@ -83280,11 +83292,25 @@
    "model": "Infinix X687B"
   }
  ],
+ "Infinix ZERO X": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6811B",
+   "model": "Infinix X6811B"
+  }
+ ],
  "Infinix ZERO X NEO": [
   {
    "brand": "Infinix",
    "device": "Infinix-X6810",
    "model": "Infinix X6810"
+  }
+ ],
+ "Infinix ZERO X Pro": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6811",
+   "model": "Infinix X6811"
   }
  ],
  "Infinix ZERO8": [
@@ -173681,6 +173707,13 @@
    "model": "Smart TV"
   }
  ],
+ "C06_2K_US": [
+  {
+   "brand": "TCL",
+   "device": "C06",
+   "model": "Smart TV"
+  }
+ ],
  "GO5c": [
   {
    "brand": "TCL",
@@ -184156,6 +184189,18 @@
    "model": "TECNO CE9"
   }
  ],
+ "TECNO CAMON 18 Premier": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-CH9",
+   "model": "TECNO CH9"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-CH9n",
+   "model": "TECNO CH9n"
+  }
+ ],
  "TECNO CAMON iACE 2": [
   {
    "brand": "Tecno",
@@ -184458,6 +184503,18 @@
    "brand": "Tecno",
    "device": "TECNO-KG6",
    "model": "TECNO KG6"
+  }
+ ],
+ "TECNO SPARK 8 P": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KG7",
+   "model": "TECNO KG7"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KG7n",
+   "model": "TECNO KG7n"
   }
  ],
  "TECNO SPARK Go": [

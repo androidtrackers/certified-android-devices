@@ -19194,6 +19194,11 @@
  ],
  "Cellution": [
   {
+   "device": "COSMAS_T",
+   "name": "COSMAS_T",
+   "model": "COSMAS T"
+  },
+  {
    "device": "COSMAS_X",
    "name": "COSMAS_X",
    "model": "COSMAS X"
@@ -59006,9 +59011,19 @@
    "model": "Infinix X687B"
   },
   {
+   "device": "Infinix-X6811B",
+   "name": "Infinix ZERO X",
+   "model": "Infinix X6811B"
+  },
+  {
    "device": "Infinix-X6810",
    "name": "Infinix ZERO X NEO",
    "model": "Infinix X6810"
+  },
+  {
+   "device": "Infinix-X6811",
+   "name": "Infinix ZERO X Pro",
+   "model": "Infinix X6811"
   },
   {
    "device": "Infinix-X687",
@@ -96394,6 +96409,11 @@
    "device": "bangbae",
    "name": "OK",
    "model": "OK 4K Android TV"
+  },
+  {
+   "device": "samseong",
+   "name": "Smart TV",
+   "model": "AI PONT"
   }
  ],
  "OKAPI": [
@@ -136717,6 +136737,11 @@
    "model": "Smart TV"
   },
   {
+   "device": "C06",
+   "name": "C06_2K_US",
+   "model": "Smart TV"
+  },
+  {
    "device": "A3A_XL_4G",
    "name": "C9",
    "model": "5199I"
@@ -146332,6 +146357,16 @@
    "model": "TECNO CE9"
   },
   {
+   "device": "TECNO-CH9",
+   "name": "TECNO CAMON 18 Premier",
+   "model": "TECNO CH9"
+  },
+  {
+   "device": "TECNO-CH9n",
+   "name": "TECNO CAMON 18 Premier",
+   "model": "TECNO CH9n"
+  },
+  {
    "device": "TECNO-KB2",
    "name": "TECNO CAMON iACE 2",
    "model": "TECNO KB2"
@@ -146570,6 +146605,16 @@
    "device": "TECNO-KG6",
    "name": "TECNO SPARK 8",
    "model": "TECNO KG6"
+  },
+  {
+   "device": "TECNO-KG7",
+   "name": "TECNO SPARK 8 P",
+   "model": "TECNO KG7"
+  },
+  {
+   "device": "TECNO-KG7n",
+   "name": "TECNO SPARK 8 P",
+   "model": "TECNO KG7n"
   },
   {
    "device": "TECNO-KC1",

@@ -1432,6 +1432,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "OK (Mediamark)",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
    "brand": "ORCA",
    "name": "OR-50UX400S",
    "model": "AI PONT"
@@ -29600,6 +29605,13 @@
    "brand": "Cellon",
    "name": "starTIM1",
    "model": "starTIM1"
+  }
+ ],
+ "COSMAS_T": [
+  {
+   "brand": "Cellution",
+   "name": "COSMAS_T",
+   "model": "COSMAS T"
   }
  ],
  "COSMAS_X": [
@@ -80040,11 +80052,25 @@
    "model": "Infinix X687B"
   }
  ],
+ "Infinix-X6811B": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix ZERO X",
+   "model": "Infinix X6811B"
+  }
+ ],
  "Infinix-X6810": [
   {
    "brand": "Infinix",
    "name": "Infinix ZERO X NEO",
    "model": "Infinix X6810"
+  }
+ ],
+ "Infinix-X6811": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix ZERO X Pro",
+   "model": "Infinix X6811"
   }
  ],
  "Infinix-X687": [
@@ -176272,6 +176298,13 @@
    "model": "Smart TV"
   }
  ],
+ "C06": [
+  {
+   "brand": "TCL",
+   "name": "C06_2K_US",
+   "model": "Smart TV"
+  }
+ ],
  "A3A_XL_4G": [
   {
    "brand": "TCL",
@@ -186657,6 +186690,20 @@
    "model": "TECNO CE9"
   }
  ],
+ "TECNO-CH9": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO CAMON 18 Premier",
+   "model": "TECNO CH9"
+  }
+ ],
+ "TECNO-CH9n": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO CAMON 18 Premier",
+   "model": "TECNO CH9n"
+  }
+ ],
  "TECNO-KB2": [
   {
    "brand": "Tecno",
@@ -186950,6 +186997,20 @@
    "brand": "Tecno",
    "name": "TECNO SPARK 8",
    "model": "TECNO KG6"
+  }
+ ],
+ "TECNO-KG7": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 8 P",
+   "model": "TECNO KG7"
+  }
+ ],
+ "TECNO-KG7n": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 8 P",
+   "model": "TECNO KG7n"
   }
  ],
  "TECNO-KC1": [

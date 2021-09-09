@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-09-08
+Last sync is 2021-09-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3710,6 +3710,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cellon|i-mobile IQ X2A|M8050SA|i-mobile IQ X2A|
 |Cellon|iris pro 30|pro30|iris pro 30|
 |Cellon|starTIM1|starTIM1|starTIM1|
+|Cellution|COSMAS_T|COSMAS_T|COSMAS T|
 |Cellution|COSMAS_X|COSMAS_X|COSMAS X|
 |Cellution|CT_Cosmas_V|CT_Cosmas_V|CT_Cosmas_V|
 |Cellution|Cosmas|Cosmas|Cosmas|
@@ -11462,7 +11463,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix X571|Infinix-X571|Infinix X571|
 |Infinix|Infinix X572|Infinix-X572|Infinix X572|
 |Infinix|Infinix ZERO 8i|Infinix-X687B|Infinix X687B|
+|Infinix|Infinix ZERO X|Infinix-X6811B|Infinix X6811B|
 |Infinix|Infinix ZERO X NEO|Infinix-X6810|Infinix X6810|
+|Infinix|Infinix ZERO X Pro|Infinix-X6811|Infinix X6811|
 |Infinix|Infinix ZERO8|Infinix-X687|Infinix X687|
 |Infinix|NOTE 10 Pro|Infinix-X695|Infinix X695|
 |Infinix|NOTE 10 Pro|Infinix-X695C|Infinix X695C|
@@ -18758,6 +18761,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OK (Mediamark)|ODL 32770H-TAB|ikebukuro|AI PONT|
 |OK (Mediamark)|ODL50672U-TAB|samseong|AI PONT|
 |OK (Mediamark)|OK|bangbae|OK 4K Android TV|
+|OK (Mediamark)|Smart TV|samseong|AI PONT|
 |OKAPI|Okapi10|Okapi10|Okapi10|
 |OKAPI|Okapi10_Pro|Okapi10_Pro|Okapi10 Pro|
 |OKAPI|Okapi10_Pro_Max|Okapi10_Pro_Max|Okapi10 Pro Max|
@@ -26653,6 +26657,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|BeyondTV5|BeyondTV|BeyondTV5|
 |TCL|BeyondTV6|BeyondTV4|Smart TV Pro|
 |TCL|C02_4K_US|BeyondTV|Smart TV|
+|TCL|C06_2K_US|C06|Smart TV|
 |TCL|C9|A3A_XL_4G|5199I|
 |TCL|GO5c|U3A_PLUS_4G|5033E|
 |TCL|HotelTV|HotelTV|WelcomeTV|
@@ -28548,6 +28553,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CAMON 15|TECNO-CD7|TECNO CD7|
 |Tecno|TECNO CAMON 16|TECNO-CE9h|TECNO CE9h|
 |Tecno|TECNO CAMON 16 Premier|TECNO-CE9|TECNO CE9|
+|Tecno|TECNO CAMON 18 Premier|TECNO-CH9|TECNO CH9|
+|Tecno|TECNO CAMON 18 Premier|TECNO-CH9n|TECNO CH9n|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|
 |Tecno|TECNO CAMON iACE 2x|TECNO-KB2j|TECNO KB2j|
 |Tecno|TECNO CX Air|TECNO-CX-Air|TECNO CX Air|
@@ -28596,6 +28603,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 7P|TECNO-KF7j|TECNO KF7j|
 |Tecno|TECNO SPARK 7T|TECNO-KF6p|TECNO KF6p|
 |Tecno|TECNO SPARK 8|TECNO-KG6|TECNO KG6|
+|Tecno|TECNO SPARK 8 P|TECNO-KG7|TECNO KG7|
+|Tecno|TECNO SPARK 8 P|TECNO-KG7n|TECNO KG7n|
 |Tecno|TECNO SPARK Go|TECNO-KC1|TECNO KC1|
 |Tecno|TECNO Tab|TECNO-P704|TECNO P704|
 |Tecno|TECNO Tab|TECNO-P704a|TECNO P704a|
