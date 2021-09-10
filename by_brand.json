@@ -17452,6 +17452,11 @@
    "model": "AiPlus4K"
   },
   {
+   "device": "martin",
+   "name": "South of America",
+   "model": "AiPlus2K"
+  },
+  {
    "device": "yeongdeungpo",
    "name": "USA",
    "model": "AiPlus4K"
@@ -19217,6 +19222,11 @@
    "device": "IRIS",
    "name": "IRIS",
    "model": "IRIS"
+  },
+  {
+   "device": "IRIS_EV",
+   "name": "IRIS_EV",
+   "model": "IRIS_EV"
   },
   {
    "device": "PADUA",
@@ -57935,6 +57945,11 @@
    "model": "IRA801"
   },
   {
+   "device": "IRA_DUO_PLUS",
+   "name": "IRA_DUO_PLUS",
+   "model": "IRA_DUO_PLUS"
+  },
+  {
    "device": "IRA_W801",
    "name": "IRA_W801",
    "model": "IRA_W801"
@@ -91372,6 +91387,11 @@
    "model": "M10_4G_PRO"
   },
   {
+   "device": "ML-WI1B-M7-3G",
+   "name": "M7 3G",
+   "model": "M7-3G"
+  },
+  {
    "device": "ML_JI1G_M7_3G",
    "name": "M7 3G",
    "model": "M7_3G"
@@ -91560,6 +91580,11 @@
    "device": "ML-WI16-M9_3G",
    "name": "M9 3G",
    "model": "M9_3G"
+  },
+  {
+   "device": "ML_SO08_M9_Wifi",
+   "name": "M9 Wifi",
+   "model": "M9_Wifi"
   },
   {
    "device": "M9-3G",
@@ -122040,6 +122065,11 @@
    "model": "SM-G990W"
   },
   {
+   "device": "r9s",
+   "name": "Galaxy S21 FE 5G",
+   "model": "SM-G990E"
+  },
+  {
    "device": "SC-52B",
    "name": "Galaxy S21 Ultra 5G",
    "model": "SC-52B"
@@ -149544,6 +149574,11 @@
    "device": "Note_6",
    "name": "Note 6",
    "model": "Note 6"
+  },
+  {
+   "device": "Note_6P",
+   "name": "Note 6P",
+   "model": "Note 6P"
   },
   {
    "device": "Note_8",

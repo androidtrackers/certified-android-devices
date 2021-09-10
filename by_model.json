@@ -25622,6 +25622,11 @@
    "device": "tamachi"
   },
   {
+   "brand": "CAIXUN",
+   "name": "South of America",
+   "device": "martin"
+  },
+  {
    "brand": "Contex",
    "name": "Egypt",
    "device": "tamachi"
@@ -28024,6 +28029,13 @@
    "brand": "Cellution",
    "name": "IRIS",
    "device": "IRIS"
+  }
+ ],
+ "IRIS_EV": [
+  {
+   "brand": "Cellution",
+   "name": "IRIS_EV",
+   "device": "IRIS_EV"
   }
  ],
  "PADUA": [
@@ -79692,6 +79704,13 @@
    "device": "IRA801"
   }
  ],
+ "IRA_DUO_PLUS": [
+  {
+   "brand": "IRA (explore more)",
+   "name": "IRA_DUO_PLUS",
+   "device": "IRA_DUO_PLUS"
+  }
+ ],
  "IRA_W801": [
   {
    "brand": "IRA (explore more)",
@@ -122948,6 +122967,13 @@
    "device": "ML_SO0A_M10A_Lite"
   }
  ],
+ "M7-3G": [
+  {
+   "brand": "Multilaser",
+   "name": "M7 3G",
+   "device": "ML-WI1B-M7-3G"
+  }
+ ],
  "M7_3G": [
   {
    "brand": "Multilaser",
@@ -123188,6 +123214,13 @@
    "brand": "Multilaser",
    "name": "M9 3G",
    "device": "ML-WI16-M9_3G"
+  }
+ ],
+ "M9_Wifi": [
+  {
+   "brand": "Multilaser",
+   "name": "M9 Wifi",
+   "device": "ML_SO08_M9_Wifi"
   }
  ],
  "M9-3G": [
@@ -162520,6 +162553,13 @@
    "device": "r9q"
   }
  ],
+ "SM-G990E": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 FE 5G",
+   "device": "r9s"
+  }
+ ],
  "SC-52B": [
   {
    "brand": "Samsung",
@@ -198152,6 +198192,13 @@
    "brand": "Ulefone",
    "name": "Note 6",
    "device": "Note_6"
+  }
+ ],
+ "Note 6P": [
+  {
+   "brand": "Ulefone",
+   "name": "Note 6P",
+   "device": "Note_6P"
   }
  ],
  "Note 8": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-09-09
+Last sync is 2021-09-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3388,6 +3388,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CAIXUN|Canada|yeongdeungpo|AiPlus4K|
 |CAIXUN|Malaysia|yeongdeungpo|AiPlus4KMY|
 |CAIXUN|Mexico|yeongdeungpo|AiPlus4K|
+|CAIXUN|South of America|martin|AiPlus2K|
 |CAIXUN|USA|yeongdeungpo|AiPlus4K|
 |CALME|LT5|LT5|LT5|
 |CANAL-PLUS|CANAL+ BOX|HY40A2|CANAL PLUS BOX|
@@ -3715,6 +3716,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cellution|CT_Cosmas_V|CT_Cosmas_V|CT_Cosmas_V|
 |Cellution|Cosmas|Cosmas|Cosmas|
 |Cellution|IRIS|IRIS|IRIS|
+|Cellution|IRIS_EV|IRIS_EV|IRIS_EV|
 |Cellution|PADUA|PADUA|PADUA|
 |Centric|Centric L3|L3|Centric CM3331|
 |Centric|Centric L4|Centric_L4|Centric L4|
@@ -11259,6 +11261,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IQ Touch|VIATABQX730|VIATABQX730|VIATABQX730|
 |IQ Touch|VIATABQX740|VIATABQX740|VIATABQX740|
 |IRA (explore more)|IRA801|IRA801|IRA801|
+|IRA (explore more)|IRA_DUO_PLUS|IRA_DUO_PLUS|IRA_DUO_PLUS|
 |IRA (explore more)|IRA_W801|IRA_W801|IRA_W801|
 |IRIE|FFF-TAB10H|FFF-TAB10H|FFF-TAB10H|
 |IRIS_OHYAMA|TE101N1|Aquaman_10_Smart_WIFI|TE101|
@@ -17792,6 +17795,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M10A_Lite|ML_SO0A_M10A_Lite|M10A_Lite|
 |Multilaser|M10_4G_PRO|ML-SO0C_M10_4G_PRO_PLUS|M10_4G_PRO|
 |Multilaser|M10_4G_PRO|ML_SO0G_M10_4G_PRO_PLUS|M10_4G_PRO|
+|Multilaser|M7 3G|ML-WI1B-M7-3G|M7-3G|
 |Multilaser|M7 3G|ML_JI1G_M7_3G|M7_3G|
 |Multilaser|M7 3G|ML_WI0B_M7_3G|M7_3G|
 |Multilaser|M7 3G A10|ML_WI4A_M7_3G_A10|M7_3G_A10|
@@ -17830,6 +17834,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M8 4G|ML_SO0J_M8_4G|M8_4G|
 |Multilaser|M8_4G|ML_SO19_M8_4G|M8_4G|
 |Multilaser|M9 3G|ML-WI16-M9_3G|M9_3G|
+|Multilaser|M9 Wifi|ML_SO08_M9_Wifi|M9_Wifi|
 |Multilaser|M9-3G|M9-3G|M9-3G|
 |Multilaser|M9-3G|ML-JI05-M9-3G|M9-3G|
 |Multilaser|M9-3G|ML-SO-M9-3G|ML-SO-M9-3G|
@@ -23774,6 +23779,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S21 FE 5G|r9q|SM-G990B|
 |Samsung|Galaxy S21 FE 5G|r9q|SM-G990U|
 |Samsung|Galaxy S21 FE 5G|r9q|SM-G990W|
+|Samsung|Galaxy S21 FE 5G|r9s|SM-G990E|
 |Samsung|Galaxy S21 Ultra 5G|SC-52B|SC-52B|
 |Samsung|Galaxy S21 Ultra 5G|p3q|SM-G9980|
 |Samsung|Galaxy S21 Ultra 5G|p3q|SM-G998U|
@@ -29154,6 +29160,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Note 11P|Note_11P|Note 11P|
 |Ulefone|Note 12P|Note_12P|Note 12P|
 |Ulefone|Note 6|Note_6|Note 6|
+|Ulefone|Note 6P|Note_6P|Note 6P|
 |Ulefone|Note 8|Note_8|Note 8|
 |Ulefone|Note 8P|Note_8P|Note 8P|
 |Ulefone|Note 9P|Note_9P|Note 9P|

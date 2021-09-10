@@ -27357,6 +27357,18 @@
    "model": "noa_G1"
   }
  ],
+ "martin": [
+  {
+   "brand": "CAIXUN",
+   "name": "South of America",
+   "model": "AiPlus2K"
+  },
+  {
+   "brand": "Sansui",
+   "name": "SANSUI",
+   "model": "AiPlus2K"
+  }
+ ],
  "LT5": [
   {
    "brand": "CALME",
@@ -29640,6 +29652,13 @@
    "brand": "Cellution",
    "name": "IRIS",
    "model": "IRIS"
+  }
+ ],
+ "IRIS_EV": [
+  {
+   "brand": "Cellution",
+   "name": "IRIS_EV",
+   "model": "IRIS_EV"
   }
  ],
  "PADUA": [
@@ -78672,6 +78691,13 @@
    "model": "IRA801"
   }
  ],
+ "IRA_DUO_PLUS": [
+  {
+   "brand": "IRA (explore more)",
+   "name": "IRA_DUO_PLUS",
+   "model": "IRA_DUO_PLUS"
+  }
+ ],
  "IRA_W801": [
   {
    "brand": "IRA (explore more)",
@@ -120189,6 +120215,13 @@
    "model": "M10_4G_PRO"
   }
  ],
+ "ML-WI1B-M7-3G": [
+  {
+   "brand": "Multilaser",
+   "name": "M7 3G",
+   "model": "M7-3G"
+  }
+ ],
  "ML_JI1G_M7_3G": [
   {
    "brand": "Multilaser",
@@ -120450,6 +120483,13 @@
    "brand": "Multilaser",
    "name": "M9 3G",
    "model": "M9_3G"
+  }
+ ],
+ "ML_SO08_M9_Wifi": [
+  {
+   "brand": "Multilaser",
+   "name": "M9 Wifi",
+   "model": "M9_Wifi"
   }
  ],
  "M9-3G": [
@@ -157811,6 +157851,13 @@
    "model": "SM-G990W"
   }
  ],
+ "r9s": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 FE 5G",
+   "model": "SM-G990E"
+  }
+ ],
  "SC-52B": [
   {
    "brand": "Samsung",
@@ -164351,13 +164398,6 @@
    "brand": "Sansui",
    "name": "Nitro",
    "model": "Nitro"
-  }
- ],
- "martin": [
-  {
-   "brand": "Sansui",
-   "name": "SANSUI",
-   "model": "AiPlus2K"
   }
  ],
  "Play": [
@@ -190312,6 +190352,13 @@
    "brand": "Ulefone",
    "name": "Note 6",
    "model": "Note 6"
+  }
+ ],
+ "Note_6P": [
+  {
+   "brand": "Ulefone",
+   "name": "Note 6P",
+   "model": "Note 6P"
   }
  ],
  "Note_8": [

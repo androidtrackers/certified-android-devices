@@ -31629,6 +31629,13 @@
    "model": "AiPlus4K"
   }
  ],
+ "South of America": [
+  {
+   "brand": "CAIXUN",
+   "device": "martin",
+   "model": "AiPlus2K"
+  }
+ ],
  "USA": [
   {
    "brand": "CAIXUN",
@@ -34103,6 +34110,13 @@
    "brand": "Cellution",
    "device": "IRIS",
    "model": "IRIS"
+  }
+ ],
+ "IRIS_EV": [
+  {
+   "brand": "Cellution",
+   "device": "IRIS_EV",
+   "model": "IRIS_EV"
   }
  ],
  "PADUA": [
@@ -81970,6 +81984,13 @@
    "model": "IRA801"
   }
  ],
+ "IRA_DUO_PLUS": [
+  {
+   "brand": "IRA (explore more)",
+   "device": "IRA_DUO_PLUS",
+   "model": "IRA_DUO_PLUS"
+  }
+ ],
  "IRA_W801": [
   {
    "brand": "IRA (explore more)",
@@ -120770,6 +120791,11 @@
  "M7 3G": [
   {
    "brand": "Multilaser",
+   "device": "ML-WI1B-M7-3G",
+   "model": "M7-3G"
+  },
+  {
+   "brand": "Multilaser",
    "device": "ML_JI1G_M7_3G",
    "model": "M7_3G"
   },
@@ -121001,6 +121027,13 @@
    "brand": "Multilaser",
    "device": "ML-WI16-M9_3G",
    "model": "M9_3G"
+  }
+ ],
+ "M9 Wifi": [
+  {
+   "brand": "Multilaser",
+   "device": "ML_SO08_M9_Wifi",
+   "model": "M9_Wifi"
   }
  ],
  "M9-3G": [
@@ -156796,6 +156829,11 @@
    "brand": "Samsung",
    "device": "r9q",
    "model": "SM-G990W"
+  },
+  {
+   "brand": "Samsung",
+   "device": "r9s",
+   "model": "SM-G990E"
   }
  ],
  "Galaxy S21 Ultra 5G": [
@@ -187919,6 +187957,13 @@
    "brand": "Ulefone",
    "device": "Note_12P",
    "model": "Note 12P"
+  }
+ ],
+ "Note 6P": [
+  {
+   "brand": "Ulefone",
+   "device": "Note_6P",
+   "model": "Note 6P"
   }
  ],
  "Note 8": [
