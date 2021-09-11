@@ -23324,6 +23324,13 @@
    "model": "AI PONT"
   }
  ],
+ "BPL UHD TV": [
+  {
+   "brand": "BPL",
+   "device": "OD0M_EA_T32",
+   "model": "BPL UHD TV"
+  }
+ ],
  "5701L Slim": [
   {
    "brand": "BQru",
@@ -143980,6 +143987,13 @@
    "model": "RMX3081"
   }
  ],
+ "realme 8s 5G": [
+  {
+   "brand": "Realme",
+   "device": "RE58A0L1",
+   "model": "RMX3381"
+  }
+ ],
  "realme C11": [
   {
    "brand": "Realme",
@@ -144162,6 +144176,23 @@
    "model": "RMX3366"
   }
  ],
+ "realme GT Master Edition": [
+  {
+   "brand": "Realme",
+   "device": "RE507C",
+   "model": "RMX3361"
+  },
+  {
+   "brand": "Realme",
+   "device": "RE54ABL1",
+   "model": "RMX3360"
+  },
+  {
+   "brand": "Realme",
+   "device": "RE54ABL1",
+   "model": "RMX3363"
+  }
+ ],
  "realme Narzo 20": [
   {
    "brand": "Realme",
@@ -144174,6 +144205,13 @@
    "brand": "Realme",
    "device": "RMX2117L1",
    "model": "RMX2117"
+  }
+ ],
+ "realme Pad": [
+  {
+   "brand": "Realme",
+   "device": "RE54C1L1",
+   "model": "RMP2102"
   }
  ],
  "realme Q": [
@@ -144462,6 +144500,13 @@
    "brand": "Realme",
    "device": "RMX3171",
    "model": "RMX3171"
+  }
+ ],
+ "realme pad": [
+  {
+   "brand": "Realme",
+   "device": "RE54C1L1",
+   "model": "RMP2103"
   }
  ],
  "realme  X7 Pro": [
@@ -153660,7 +153705,7 @@
    "model": "SM-M215F"
   }
  ],
- "Galaxy M21 2021": [
+ "Galaxy M21 2021 Edition": [
   {
    "brand": "Samsung",
    "device": "m21",

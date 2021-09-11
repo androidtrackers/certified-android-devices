@@ -12095,6 +12095,11 @@
    "device": "samseong",
    "name": "A4310",
    "model": "AI PONT"
+  },
+  {
+   "device": "OD0M_EA_T32",
+   "name": "BPL UHD TV",
+   "model": "BPL UHD TV"
   }
  ],
  "BQru": [
@@ -110481,6 +110486,11 @@
    "model": "RMX3081"
   },
   {
+   "device": "RE58A0L1",
+   "name": "realme 8s 5G",
+   "model": "RMX3381"
+  },
+  {
    "device": "RMX2185",
    "name": "realme C11",
    "model": "RMX2185"
@@ -110636,6 +110646,21 @@
    "model": "RMX3366"
   },
   {
+   "device": "RE507C",
+   "name": "realme GT Master Edition",
+   "model": "RMX3361"
+  },
+  {
+   "device": "RE54ABL1",
+   "name": "realme GT Master Edition",
+   "model": "RMX3360"
+  },
+  {
+   "device": "RE54ABL1",
+   "name": "realme GT Master Edition",
+   "model": "RMX3363"
+  },
+  {
    "device": "RMX2193",
    "name": "realme Narzo 20",
    "model": "RMX2193"
@@ -110644,6 +110669,11 @@
    "device": "RMX2117L1",
    "name": "realme Narzo 30 Pro 5G",
    "model": "RMX2117"
+  },
+  {
+   "device": "RE54C1L1",
+   "name": "realme Pad",
+   "model": "RMP2102"
   },
   {
    "device": "RMX1971CN",
@@ -110884,6 +110914,11 @@
    "device": "RMX3171",
    "name": "realme narzo 30A",
    "model": "RMX3171"
+  },
+  {
+   "device": "RE54C1L1",
+   "name": "realme pad",
+   "model": "RMP2103"
   },
   {
    "device": "RMX2121CN",
@@ -119171,7 +119206,7 @@
   },
   {
    "device": "m21",
-   "name": "Galaxy M21 2021",
+   "name": "Galaxy M21 2021 Edition",
    "model": "SM-M215G"
   },
   {

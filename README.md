@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-09-10
+Last sync is 2021-09-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2351,6 +2351,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BOTECH|WZONE|HND|WZONE|
 |BPL|A4300|ikebukuro|AI PONT|
 |BPL|A4310|samseong|AI PONT|
+|BPL|BPL UHD TV|OD0M_EA_T32|BPL UHD TV|
 |BQru|5060|BQru-5060|BQru-5060|
 |BQru|5701L Slim|BQru-5701L|BQ-5701L|
 |BQru|BQ 5503 NICE 2|BQru_5503|BQru-5503|
@@ -21499,6 +21500,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme 8|RMX3085L1|RMX3085|
 |Realme|realme 8 5G|RE513CL1|RMX3241|
 |Realme|realme 8 Pro|RMX3081L1|RMX3081|
+|Realme|realme 8s 5G|RE58A0L1|RMX3381|
 |Realme|realme C11|RMX2185|RMX2185|
 |Realme|realme C11|RMX2186|RMX2186|
 |Realme|realme C11  2021|RMX3231|RMX3231|
@@ -21530,8 +21532,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme C3i|RMX2027|RMX2027|
 |Realme|realme GT 5G|RMX2202L1|RMX2202|
 |Realme|realme GT Explorer Master Edition|RE546F|RMX3366|
+|Realme|realme GT Master Edition|RE507C|RMX3361|
+|Realme|realme GT Master Edition|RE54ABL1|RMX3360|
+|Realme|realme GT Master Edition|RE54ABL1|RMX3363|
 |Realme|realme Narzo 20|RMX2193|RMX2193|
 |Realme|realme Narzo 30 Pro 5G|RMX2117L1|RMX2117|
+|Realme|realme Pad|RE54C1L1|RMP2102|
 |Realme|realme Q|RMX1971CN|RMX1971|
 |Realme|realme Q2 5G|RMX2117CN|RMX2117|
 |Realme|realme Q3 5G|RMX3161CN|RMX3161|
@@ -21580,6 +21586,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme narzo 30|RMX2156L1|RMX2156|
 |Realme|realme narzo 30 5G|RE513CL1|RMX3242|
 |Realme|realme narzo 30A|RMX3171|RMX3171|
+|Realme|realme pad|RE54C1L1|RMP2103|
 |Realme|realme  X7 Pro|RMX2121CN|RMX2121|
 |Realme|realme 7i|RE50C1|RMX2103|
 |Realme|realme 7i|RE50C1|RMX2104|
@@ -23200,7 +23207,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M20|m20lte|SM-M205G|
 |Samsung|Galaxy M20|m20lte|SM-M205M|
 |Samsung|Galaxy M21|m21|SM-M215F|
-|Samsung|Galaxy M21 2021|m21|SM-M215G|
+|Samsung|Galaxy M21 2021 Edition|m21|SM-M215G|
 |Samsung|Galaxy M30|m30lte|SM-M305F|
 |Samsung|Galaxy M30|m30lte|SM-M305M|
 |Samsung|Galaxy M30s|m30s|SM-M3070|

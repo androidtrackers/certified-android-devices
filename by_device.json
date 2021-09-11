@@ -20001,6 +20001,18 @@
    "model": "YOU-BOX"
   }
  ],
+ "OD0M_EA_T32": [
+  {
+   "brand": "BPL",
+   "name": "BPL UHD TV",
+   "model": "BPL UHD TV"
+  },
+  {
+   "brand": "Sony",
+   "name": "BRAVIA TL",
+   "model": "BRAVIA TL"
+  }
+ ],
  "BQru-5060": [
   {
    "brand": "BQru",
@@ -143624,6 +143636,13 @@
    "model": "RMX3081"
   }
  ],
+ "RE58A0L1": [
+  {
+   "brand": "Realme",
+   "name": "realme 8s 5G",
+   "model": "RMX3381"
+  }
+ ],
  "RMX2185": [
   {
    "brand": "Realme",
@@ -143823,11 +143842,42 @@
    "model": "RMX3366"
   }
  ],
+ "RE507C": [
+  {
+   "brand": "Realme",
+   "name": "realme GT Master Edition",
+   "model": "RMX3361"
+  }
+ ],
+ "RE54ABL1": [
+  {
+   "brand": "Realme",
+   "name": "realme GT Master Edition",
+   "model": "RMX3360"
+  },
+  {
+   "brand": "Realme",
+   "name": "realme GT Master Edition",
+   "model": "RMX3363"
+  }
+ ],
  "RMX2117L1": [
   {
    "brand": "Realme",
    "name": "realme Narzo 30 Pro 5G",
    "model": "RMX2117"
+  }
+ ],
+ "RE54C1L1": [
+  {
+   "brand": "Realme",
+   "name": "realme Pad",
+   "model": "RMP2102"
+  },
+  {
+   "brand": "Realme",
+   "name": "realme pad",
+   "model": "RMP2103"
   }
  ],
  "RMX1971CN": [
@@ -154171,7 +154221,7 @@
   },
   {
    "brand": "Samsung",
-   "name": "Galaxy M21 2021",
+   "name": "Galaxy M21 2021 Edition",
    "model": "SM-M215G"
   }
  ],
@@ -169956,13 +170006,6 @@
    "brand": "Sony",
    "name": "BRAVIA Smart Stick",
    "model": "NSZ-GU1"
-  }
- ],
- "OD0M_EA_T32": [
-  {
-   "brand": "Sony",
-   "name": "BRAVIA TL",
-   "model": "BRAVIA TL"
   }
  ],
  "BRAVIA_VH1": [
