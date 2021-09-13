@@ -133984,6 +133984,18 @@
    "model": "4KTV-JUP"
   }
  ],
+ "Panasonic 2021 UHD Android TV": [
+  {
+   "brand": "Panasonic",
+   "device": "OD0M_EA_T32",
+   "model": "Panasonic 2021 UHD Android TV"
+  },
+  {
+   "brand": "Panasonic",
+   "device": "OD0M_EA_T32",
+   "model": "Panasonic UHD TV"
+  }
+ ],
  "Panasonic P100": [
   {
    "brand": "Panasonic",
@@ -192406,6 +192418,13 @@
    "model": "I2017"
   }
  ],
+ "I2018": [
+  {
+   "brand": "Vivo",
+   "device": "2018",
+   "model": "I2018"
+  }
+ ],
  "NEX A": [
   {
    "brand": "Vivo",
@@ -193106,6 +193125,13 @@
    "model": "V2045"
   }
  ],
+ "V2045A": [
+  {
+   "brand": "Vivo",
+   "device": "PD2068",
+   "model": "V2045A"
+  }
+ ],
  "V2046": [
   {
    "brand": "Vivo",
@@ -193477,6 +193503,13 @@
    "model": "V2111A"
   }
  ],
+ "V2114": [
+  {
+   "brand": "Vivo",
+   "device": "2114",
+   "model": "V2114"
+  }
+ ],
  "V2118A": [
   {
    "brand": "Vivo",
@@ -193559,6 +193592,13 @@
    "brand": "Vivo",
    "device": "PD2145",
    "model": "V2145A"
+  }
+ ],
+ "V2148A": [
+  {
+   "brand": "Vivo",
+   "device": "PD2148",
+   "model": "V2148A"
   }
  ],
  "V3Lite": [

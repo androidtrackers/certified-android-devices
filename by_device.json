@@ -20008,6 +20008,16 @@
    "model": "BPL UHD TV"
   },
   {
+   "brand": "Panasonic",
+   "name": "Panasonic 2021 UHD Android TV",
+   "model": "Panasonic 2021 UHD Android TV"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "Panasonic 2021 UHD Android TV",
+   "model": "Panasonic UHD TV"
+  },
+  {
    "brand": "Sony",
    "name": "BRAVIA TL",
    "model": "BRAVIA TL"
@@ -194651,6 +194661,18 @@
    "model": "I2017"
   }
  ],
+ "2018": [
+  {
+   "brand": "Vivo",
+   "name": "I2018",
+   "model": "I2018"
+  },
+  {
+   "brand": "Vivo",
+   "name": "vivo 2018",
+   "model": "vivo 2018"
+  }
+ ],
  "PD1806B": [
   {
    "brand": "Vivo",
@@ -195387,6 +195409,18 @@
    "model": "V2045"
   }
  ],
+ "PD2068": [
+  {
+   "brand": "Vivo",
+   "name": "V2045A",
+   "model": "V2045A"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2068A",
+   "model": "V2068A"
+  }
+ ],
  "2046": [
   {
    "brand": "Vivo",
@@ -195569,13 +195603,6 @@
    "model": "V2066BA"
   }
  ],
- "PD2068": [
-  {
-   "brand": "Vivo",
-   "name": "V2068A",
-   "model": "V2068A"
-  }
- ],
  "PD2069": [
   {
    "brand": "Vivo",
@@ -195680,6 +195707,13 @@
    "model": "V2111A"
   }
  ],
+ "2114": [
+  {
+   "brand": "Vivo",
+   "name": "V2114",
+   "model": "V2114"
+  }
+ ],
  "PD2118": [
   {
    "brand": "Vivo",
@@ -195760,6 +195794,13 @@
    "brand": "Vivo",
    "name": "V2145A",
    "model": "V2145A"
+  }
+ ],
+ "PD2148": [
+  {
+   "brand": "Vivo",
+   "name": "V2148A",
+   "model": "V2148A"
   }
  ],
  "PD1524": [
@@ -196695,13 +196736,6 @@
    "brand": "Vivo",
    "name": "vivo 2005",
    "model": "vivo 2005"
-  }
- ],
- "2018": [
-  {
-   "brand": "Vivo",
-   "name": "vivo 2018",
-   "model": "vivo 2018"
   }
  ],
  "PD1806": [

@@ -136804,6 +136804,20 @@
    "device": "Jupiter"
   }
  ],
+ "Panasonic 2021 UHD Android TV": [
+  {
+   "brand": "Panasonic",
+   "name": "Panasonic 2021 UHD Android TV",
+   "device": "OD0M_EA_T32"
+  }
+ ],
+ "Panasonic UHD TV": [
+  {
+   "brand": "Panasonic",
+   "name": "Panasonic 2021 UHD Android TV",
+   "device": "OD0M_EA_T32"
+  }
+ ],
  "P100": [
   {
    "brand": "Panasonic",
@@ -202702,6 +202716,13 @@
    "device": "2017"
   }
  ],
+ "I2018": [
+  {
+   "brand": "Vivo",
+   "name": "I2018",
+   "device": "2018"
+  }
+ ],
  "vivo NEX A": [
   {
    "brand": "Vivo",
@@ -203436,6 +203457,13 @@
    "device": "2045"
   }
  ],
+ "V2045A": [
+  {
+   "brand": "Vivo",
+   "name": "V2045A",
+   "device": "PD2068"
+  }
+ ],
  "V2046": [
   {
    "brand": "Vivo",
@@ -203809,6 +203837,13 @@
    "device": "PD2111"
   }
  ],
+ "V2114": [
+  {
+   "brand": "Vivo",
+   "name": "V2114",
+   "device": "2114"
+  }
+ ],
  "V2118A": [
   {
    "brand": "Vivo",
@@ -203891,6 +203926,13 @@
    "brand": "Vivo",
    "name": "V2145A",
    "device": "PD2145"
+  }
+ ],
+ "V2148A": [
+  {
+   "brand": "Vivo",
+   "name": "V2148A",
+   "device": "PD2148"
   }
  ],
  "vivo V3": [

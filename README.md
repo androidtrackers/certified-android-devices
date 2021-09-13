@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-09-12
+Last sync is 2021-09-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -19932,6 +19932,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|P99|Panasonic_P99|Panasonic P99|
 |Panasonic|POE-SMB400-PS1|kadoma|POE-SMB400-PS1|
 |Panasonic|Panasonic|Jupiter|4KTV-JUP|
+|Panasonic|Panasonic 2021 UHD Android TV|OD0M_EA_T32|Panasonic 2021 UHD Android TV|
+|Panasonic|Panasonic 2021 UHD Android TV|OD0M_EA_T32|Panasonic UHD TV|
 |Panasonic|Panasonic P100|P100|P100|
 |Panasonic|Panasonic P100|P100|Panasonic P100|
 |Panasonic|Panasonic P101|P101|P101|
@@ -29896,6 +29898,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|I2011|2011|I2011|
 |Vivo|I2012|2012|I2012|
 |Vivo|I2017|2017|I2017|
+|Vivo|I2018|2018|I2018|
 |Vivo|NEX A|PD1806B|vivo NEX A|
 |Vivo|PD1304DL|PD1304DL|vivo Y13iL|
 |Vivo|PD1419V|PD1419V|vivo Y923|
@@ -30000,6 +30003,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2043_21|2026|V2043_21|
 |Vivo|V2044|2044|V2044|
 |Vivo|V2045|2045|V2045|
+|Vivo|V2045A|PD2068|V2045A|
 |Vivo|V2046|2046|V2046|
 |Vivo|V2046A|PD2046|V2046A|
 |Vivo|V2047|2047|V2047|
@@ -30055,6 +30059,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2110|2110|V2110|
 |Vivo|V2111|2111|V2111|
 |Vivo|V2111A|PD2111|V2111A|
+|Vivo|V2114|2114|V2114|
 |Vivo|V2118A|PD2118|V2118A|
 |Vivo|V2121A|PD2121|V2121A|
 |Vivo|V2123A|PD2123|V2123A|
@@ -30067,6 +30072,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2141A|PD2141|V2141A|
 |Vivo|V2143A|PD2143|V2143A|
 |Vivo|V2145A|PD2145|V2145A|
+|Vivo|V2148A|PD2148|V2148A|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
 |Vivo|V3Lite|V3Lite|vivo V3Lite|
