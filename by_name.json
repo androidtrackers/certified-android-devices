@@ -117420,6 +117420,11 @@
    "brand": "Mobvoi",
    "device": "rubyfish",
    "model": "TicWatch Pro 3 GPS"
+  },
+  {
+   "brand": "Mobvoi",
+   "device": "rubyfish",
+   "model": "TicWatch Pro 3U"
   }
  ],
  "TicWatch Pro 4G": [
@@ -120167,6 +120172,18 @@
    "brand": "Motorola",
    "device": "berlin",
    "model": "motorola edge plus"
+  }
+ ],
+ "motorola edge 20 fusion": [
+  {
+   "brand": "Motorola",
+   "device": "kyoto",
+   "model": "motorola"
+  },
+  {
+   "brand": "Motorola",
+   "device": "kyoto",
+   "model": "motorola edge 20 fusion"
   }
  ],
  "motorola edge 20 lite": [
@@ -153969,6 +153986,13 @@
    "model": "SM-M215G"
   }
  ],
+ "Galaxy M22": [
+  {
+   "brand": "Samsung",
+   "device": "m22",
+   "model": "SM-M225FV"
+  }
+ ],
  "Galaxy M30": [
   {
    "brand": "Samsung",
@@ -162227,6 +162251,11 @@
   },
   {
    "brand": "Samsung",
+   "device": "SCG12",
+   "model": "SCG12"
+  },
+  {
+   "brand": "Samsung",
    "device": "b2q",
    "model": "SM-F7110"
   },
@@ -162298,6 +162327,11 @@
    "brand": "Samsung",
    "device": "SC-55B",
    "model": "SC-55B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "SCG11",
+   "model": "SCG11"
   },
   {
    "brand": "Samsung",
@@ -184329,6 +184363,13 @@
    "brand": "Tecno",
    "device": "TECNO-SA6",
    "model": "TECNO SA6S"
+  }
+ ],
+ "SAPRK GO 2021": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KE5",
+   "model": "TECNO KE5"
   }
  ],
  "SPARK": [
@@ -211583,6 +211624,13 @@
    "brand": "Zuum",
    "device": "AKUS_Z1",
    "model": "AKUS Z1"
+  }
+ ],
+ "AURA PLUS JLO": [
+  {
+   "brand": "Zuum",
+   "device": "AURA_PLUS_JLO",
+   "model": "AURA PLUS JLO"
   }
  ],
  "AURA PRO JLO": [

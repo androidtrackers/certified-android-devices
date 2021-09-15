@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-09-14
+Last sync is 2021-09-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17165,6 +17165,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobvoi|TicWatch Pro 3|rover|TicWatch Pro 3|
 |Mobvoi|TicWatch Pro 3 Cellular/LTE|rover|TicWatch Pro 3|
 |Mobvoi|TicWatch Pro 3 GPS|rubyfish|TicWatch Pro 3 GPS|
+|Mobvoi|TicWatch Pro 3 GPS|rubyfish|TicWatch Pro 3U|
 |Mobvoi|TicWatch Pro 4G|catshark|TicWatch Pro 4G|
 |Mobvoi|Ticwatch Pro 4G|catshark|TicWatch Pro 4G|
 |Mobvoi|Ticwatch S Smartwatch; Ticwatch E Smartwatch|mooneye|Ticwatch E|
@@ -17694,6 +17695,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge|racer|motorola edge|
 |Motorola|motorola edge 20|berlin|motorola edge 20|
 |Motorola|motorola edge 20|berlin|motorola edge plus|
+|Motorola|motorola edge 20 fusion|kyoto|motorola|
+|Motorola|motorola edge 20 fusion|kyoto|motorola edge 20 fusion|
 |Motorola|motorola edge 20 lite|kyoto|motorola|
 |Motorola|motorola edge 20 lite|kyoto|motorola edge 20 lite|
 |Motorola|motorola edge 20 pro|pstar|moto g(100)|
@@ -23245,6 +23248,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M20|m20lte|SM-M205M|
 |Samsung|Galaxy M21|m21|SM-M215F|
 |Samsung|Galaxy M21 2021 Edition|m21|SM-M215G|
+|Samsung|Galaxy M22|m22|SM-M225FV|
 |Samsung|Galaxy M30|m30lte|SM-M305F|
 |Samsung|Galaxy M30|m30lte|SM-M305M|
 |Samsung|Galaxy M30s|m30s|SM-M3070|
@@ -24766,6 +24770,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Flip 5G|bloomxq|SM-F707U1|
 |Samsung|Galaxy Z Flip 5G|bloomxq|SM-F707W|
 |Samsung|Galaxy Z Flip3 5G|SC-54B|SC-54B|
+|Samsung|Galaxy Z Flip3 5G|SCG12|SCG12|
 |Samsung|Galaxy Z Flip3 5G|b2q|SM-F7110|
 |Samsung|Galaxy Z Flip3 5G|b2q|SM-F711B|
 |Samsung|Galaxy Z Flip3 5G|b2q|SM-F711N|
@@ -24780,6 +24785,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F916U1|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F916W|
 |Samsung|Galaxy Z Fold3 5G|SC-55B|SC-55B|
+|Samsung|Galaxy Z Fold3 5G|SCG11|SCG11|
 |Samsung|Galaxy Z Fold3 5G|q2q|SM-F9260|
 |Samsung|Galaxy Z Fold3 5G|q2q|SM-F926B|
 |Samsung|Galaxy Z Fold3 5G|q2q|SM-F926N|
@@ -28573,6 +28579,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|SA1 Pro|TECNO-SA1S-PRO|TECNO SA1S Pro|
 |Tecno|SA6|TECNO-SA6|TECNO SA6|
 |Tecno|SA6|TECNO-SA6|TECNO SA6S|
+|Tecno|SAPRK GO 2021|TECNO-KE5|TECNO KE5|
 |Tecno|SMART 5|Infinix-X657B|Infinix X657B|
 |Tecno|SPARK|TECNO-K7|TECNO K7|
 |Tecno|SPARK 2|TECNO-KA7-GO|TECNO KA7|
@@ -33229,6 +33236,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zuum|AKUS PRO|AKUS_PRO|AKUS PRO|
 |Zuum|AKUS Z|Akus_Z|Akus Z|
 |Zuum|AKUS Z1|AKUS_Z1|AKUS Z1|
+|Zuum|AURA PLUS JLO|AURA_PLUS_JLO|AURA PLUS JLO|
 |Zuum|AURA PRO JLO|AURA_PRO_JLO|AURA PRO JLO|
 |Zuum|AURA X|AURA_X|AURA X|
 |Zuum|COVET|COVET|COVET|

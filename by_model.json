@@ -118953,6 +118953,13 @@
    "device": "rubyfish"
   }
  ],
+ "TicWatch Pro 3U": [
+  {
+   "brand": "Mobvoi",
+   "name": "TicWatch Pro 3 GPS",
+   "device": "rubyfish"
+  }
+ ],
  "TicWatch Pro 4G": [
   {
    "brand": "Mobvoi",
@@ -122373,7 +122380,19 @@
  "motorola": [
   {
    "brand": "Motorola",
+   "name": "motorola edge 20 fusion",
+   "device": "kyoto"
+  },
+  {
+   "brand": "Motorola",
    "name": "motorola edge 20 lite",
+   "device": "kyoto"
+  }
+ ],
+ "motorola edge 20 fusion": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 20 fusion",
    "device": "kyoto"
   }
  ],
@@ -158926,6 +158945,13 @@
    "device": "m21"
   }
  ],
+ "SM-M225FV": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M22",
+   "device": "m22"
+  }
+ ],
  "SM-M305F": [
   {
    "brand": "Samsung",
@@ -169296,6 +169322,13 @@
    "device": "SC-54B"
   }
  ],
+ "SCG12": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Flip3 5G",
+   "device": "SCG12"
+  }
+ ],
  "SM-F7110": [
   {
    "brand": "Samsung",
@@ -169392,6 +169425,13 @@
    "brand": "Samsung",
    "name": "Galaxy Z Fold3 5G",
    "device": "SC-55B"
+  }
+ ],
+ "SCG11": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold3 5G",
+   "device": "SCG11"
   }
  ],
  "SM-F9260": [
@@ -194511,6 +194551,23 @@
    "device": "TECNO-SA6"
   }
  ],
+ "TECNO KE5": [
+  {
+   "brand": "Tecno",
+   "name": "SAPRK GO 2021",
+   "device": "TECNO-KE5"
+  },
+  {
+   "brand": "Tecno",
+   "name": "SPARK 6 Go",
+   "device": "TECNO-KE5"
+  },
+  {
+   "brand": "Tecno",
+   "name": "SPARK Go 2021(SPARK 6 Go)",
+   "device": "TECNO-KE5"
+  }
+ ],
  "TECNO K7": [
   {
    "brand": "Tecno",
@@ -194636,18 +194693,6 @@
    "brand": "Tecno",
    "name": "SPARK 6 Go",
    "device": "TECNO-KE5k"
-  }
- ],
- "TECNO KE5": [
-  {
-   "brand": "Tecno",
-   "name": "SPARK 6 Go",
-   "device": "TECNO-KE5"
-  },
-  {
-   "brand": "Tecno",
-   "name": "SPARK Go 2021(SPARK 6 Go)",
-   "device": "TECNO-KE5"
   }
  ],
  "TECNO KA9": [
@@ -224273,6 +224318,13 @@
    "brand": "Zuum",
    "name": "AKUS Z1",
    "device": "AKUS_Z1"
+  }
+ ],
+ "AURA PLUS JLO": [
+  {
+   "brand": "Zuum",
+   "name": "AURA PLUS JLO",
+   "device": "AURA_PLUS_JLO"
   }
  ],
  "AURA PRO JLO": [

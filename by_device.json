@@ -116435,6 +116435,11 @@
    "brand": "Mobvoi",
    "name": "TicWatch Pro 3 GPS",
    "model": "TicWatch Pro 3 GPS"
+  },
+  {
+   "brand": "Mobvoi",
+   "name": "TicWatch Pro 3 GPS",
+   "model": "TicWatch Pro 3U"
   }
  ],
  "catshark": [
@@ -119675,6 +119680,16 @@
   }
  ],
  "kyoto": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 20 fusion",
+   "model": "motorola"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 20 fusion",
+   "model": "motorola edge 20 fusion"
+  },
   {
    "brand": "Motorola",
    "name": "motorola edge 20 lite",
@@ -154491,6 +154506,13 @@
    "model": "SM-M215G"
   }
  ],
+ "m22": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M22",
+   "model": "SM-M225FV"
+  }
+ ],
  "m30lte": [
   {
    "brand": "Samsung",
@@ -164166,6 +164188,13 @@
    "model": "SC-54B"
   }
  ],
+ "SCG12": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Flip3 5G",
+   "model": "SCG12"
+  }
+ ],
  "b2q": [
   {
    "brand": "Samsung",
@@ -164240,6 +164269,13 @@
    "brand": "Samsung",
    "name": "Galaxy Z Fold3 5G",
    "model": "SC-55B"
+  }
+ ],
+ "SCG11": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold3 5G",
+   "model": "SCG11"
   }
  ],
  "q2q": [
@@ -186832,6 +186868,23 @@
    "model": "TECNO SA6S"
   }
  ],
+ "TECNO-KE5": [
+  {
+   "brand": "Tecno",
+   "name": "SAPRK GO 2021",
+   "model": "TECNO KE5"
+  },
+  {
+   "brand": "Tecno",
+   "name": "SPARK 6 Go",
+   "model": "TECNO KE5"
+  },
+  {
+   "brand": "Tecno",
+   "name": "SPARK Go 2021(SPARK 6 Go)",
+   "model": "TECNO KE5"
+  }
+ ],
  "TECNO-K7": [
   {
    "brand": "Tecno",
@@ -186955,18 +187008,6 @@
    "brand": "Tecno",
    "name": "SPARK 6 Go",
    "model": "TECNO KE5k"
-  }
- ],
- "TECNO-KE5": [
-  {
-   "brand": "Tecno",
-   "name": "SPARK 6 Go",
-   "model": "TECNO KE5"
-  },
-  {
-   "brand": "Tecno",
-   "name": "SPARK Go 2021(SPARK 6 Go)",
-   "model": "TECNO KE5"
   }
  ],
  "TECNO-KA9": [
@@ -214057,6 +214098,13 @@
    "brand": "Zuum",
    "name": "AKUS Z1",
    "model": "AKUS Z1"
+  }
+ ],
+ "AURA_PLUS_JLO": [
+  {
+   "brand": "Zuum",
+   "name": "AURA PLUS JLO",
+   "model": "AURA PLUS JLO"
   }
  ],
  "AURA_PRO_JLO": [

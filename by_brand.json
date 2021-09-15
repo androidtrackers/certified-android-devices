@@ -88185,6 +88185,11 @@
    "model": "TicWatch Pro 3 GPS"
   },
   {
+   "device": "rubyfish",
+   "name": "TicWatch Pro 3 GPS",
+   "model": "TicWatch Pro 3U"
+  },
+  {
    "device": "catshark",
    "name": "TicWatch Pro 4G",
    "model": "TicWatch Pro 4G"
@@ -90854,6 +90859,16 @@
    "device": "berlin",
    "name": "motorola edge 20",
    "model": "motorola edge plus"
+  },
+  {
+   "device": "kyoto",
+   "name": "motorola edge 20 fusion",
+   "model": "motorola"
+  },
+  {
+   "device": "kyoto",
+   "name": "motorola edge 20 fusion",
+   "model": "motorola edge 20 fusion"
   },
   {
    "device": "kyoto",
@@ -119403,6 +119418,11 @@
    "model": "SM-M215G"
   },
   {
+   "device": "m22",
+   "name": "Galaxy M22",
+   "model": "SM-M225FV"
+  },
+  {
    "device": "m30lte",
    "name": "Galaxy M30",
    "model": "SM-M305F"
@@ -127008,6 +127028,11 @@
    "model": "SC-54B"
   },
   {
+   "device": "SCG12",
+   "name": "Galaxy Z Flip3 5G",
+   "model": "SCG12"
+  },
+  {
    "device": "b2q",
    "name": "Galaxy Z Flip3 5G",
    "model": "SM-F7110"
@@ -127076,6 +127101,11 @@
    "device": "SC-55B",
    "name": "Galaxy Z Fold3 5G",
    "model": "SC-55B"
+  },
+  {
+   "device": "SCG11",
+   "name": "Galaxy Z Fold3 5G",
+   "model": "SCG11"
   },
   {
    "device": "q2q",
@@ -146463,6 +146493,11 @@
    "device": "TECNO-SA6",
    "name": "SA6",
    "model": "TECNO SA6S"
+  },
+  {
+   "device": "TECNO-KE5",
+   "name": "SAPRK GO 2021",
+   "model": "TECNO KE5"
   },
   {
    "device": "Infinix-X657B",
@@ -170407,6 +170442,11 @@
    "device": "AKUS_Z1",
    "name": "AKUS Z1",
    "model": "AKUS Z1"
+  },
+  {
+   "device": "AURA_PLUS_JLO",
+   "name": "AURA PLUS JLO",
+   "model": "AURA PLUS JLO"
   },
   {
    "device": "AURA_PRO_JLO",
