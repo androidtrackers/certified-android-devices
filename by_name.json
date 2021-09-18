@@ -8025,6 +8025,13 @@
    "model": "ACTAB1022"
   }
  ],
+ "ACTAB1422": [
+  {
+   "brand": "Acer",
+   "device": "ACTAB1422",
+   "model": "ACTAB1422"
+  }
+ ],
  "ACTAB721": [
   {
    "brand": "Acer",
@@ -45256,6 +45263,11 @@
    "brand": "Lava",
    "device": "X12",
    "model": "X12"
+  },
+  {
+   "brand": "Revomovil",
+   "device": "S6523",
+   "model": "S6523"
   },
   {
    "brand": "Revomovil",

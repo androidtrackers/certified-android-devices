@@ -2741,6 +2741,13 @@
    "device": "ACTAB1022"
   }
  ],
+ "ACTAB1422": [
+  {
+   "brand": "Acer",
+   "name": "ACTAB1422",
+   "device": "ACTAB1422"
+  }
+ ],
  "ACTAB721": [
   {
    "brand": "Acer",
@@ -149779,6 +149786,13 @@
    "brand": "Revomovil",
    "name": "S6523_RU",
    "device": "S6523_RU"
+  }
+ ],
+ "S6523": [
+  {
+   "brand": "Revomovil",
+   "name": "X12",
+   "device": "S6523"
   }
  ],
  "S6523 EEA": [

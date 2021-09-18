@@ -1491,6 +1491,11 @@
    "model": "ACTAB1022"
   },
   {
+   "device": "ACTAB1422",
+   "name": "ACTAB1422",
+   "model": "ACTAB1422"
+  },
+  {
    "device": "ACTAB721",
    "name": "ACTAB721",
    "model": "ACTAB721"
@@ -112535,6 +112540,11 @@
    "device": "S6523_RU",
    "name": "S6523_RU",
    "model": "S6523 RU"
+  },
+  {
+   "device": "S6523",
+   "name": "X12",
+   "model": "S6523"
   },
   {
    "device": "S6523_EEA",

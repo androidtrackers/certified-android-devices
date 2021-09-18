@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-09-17
+Last sync is 2021-09-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -277,6 +277,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|A3-A40|acer_jetfirefhd|A3-A40|
 |Acer|ACTAB1021_A|ACTAB1021_A|ACTAB1021_A|
 |Acer|ACTAB1022|ACTAB1022|ACTAB1022|
+|Acer|ACTAB1422|ACTAB1422|ACTAB1422|
 |Acer|ACTAB721|ACTAB721|ACTAB721|
 |Acer|ACTAB821_A|ACTAB821_A|ACTAB821_A|
 |Acer|AK330s|C8n|AK330S|
@@ -21901,6 +21902,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Revo|Pearl|Pearl|Pearl|
 |Revo|Power|Power|Power|
 |Revomovil|S6523_RU|S6523_RU|S6523 RU|
+|Revomovil|X12|S6523|S6523|
 |Revomovil|X12|S6523_EEA|S6523 EEA|
 |Revtel|R45|Revel_R45|R45|
 |Rhino|C10|Rhino_C10|C10|
