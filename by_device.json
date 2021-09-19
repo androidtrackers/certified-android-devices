@@ -24907,6 +24907,13 @@
    "model": "C5L 2021"
   }
  ],
+ "C0110WW": [
+  {
+   "brand": "Blu",
+   "name": "C5L 2021",
+   "model": "C5L 2021"
+  }
+ ],
  "C0040TT": [
   {
    "brand": "Blu",
@@ -25621,6 +25628,13 @@
   }
  ],
  "M0171WW": [
+  {
+   "brand": "Blu",
+   "name": "M8L",
+   "model": "M8L"
+  }
+ ],
+ "M0172WW": [
   {
    "brand": "Blu",
    "name": "M8L",
@@ -121669,6 +121683,13 @@
    "model": "Multilaser_GMax_2_Sikur"
   }
  ],
+ "ML_SO0C_ULTRA_10": [
+  {
+   "brand": "Multilaser",
+   "name": "ULTRA 10",
+   "model": "ULTRA_10"
+  }
+ ],
  "tokyo": [
   {
    "brand": "My",
@@ -188055,6 +188076,13 @@
    "brand": "Tecno",
    "name": "TECNO SPARK 8",
    "model": "TECNO KG6"
+  }
+ ],
+ "TECNO-KG6k": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 8",
+   "model": "TECNO KG6k"
   }
  ],
  "TECNO-KG7": [

@@ -28584,6 +28584,11 @@
    "brand": "Blu",
    "device": "C0100TT",
    "model": "C5L 2021"
+  },
+  {
+   "brand": "Blu",
+   "device": "C0110WW",
+   "model": "C5L 2021"
   }
  ],
  "C5L_2020": [
@@ -29496,6 +29501,11 @@
   {
    "brand": "Blu",
    "device": "M0171WW",
+   "model": "M8L"
+  },
+  {
+   "brand": "Blu",
+   "device": "M0172WW",
    "model": "M8L"
   }
  ],
@@ -122172,6 +122182,13 @@
    "model": "Multilaser_GMax_2_Sikur"
   }
  ],
+ "ULTRA 10": [
+  {
+   "brand": "Multilaser",
+   "device": "ML_SO0C_ULTRA_10",
+   "model": "ULTRA_10"
+  }
+ ],
  "GoTab GBT10": [
   {
    "brand": "My Go",
@@ -185559,6 +185576,11 @@
    "brand": "Tecno",
    "device": "TECNO-KG6",
    "model": "TECNO KG6"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KG6k",
+   "model": "TECNO KG6k"
   }
  ],
  "TECNO SPARK 8 P": [

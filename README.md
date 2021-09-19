@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-09-18
+Last sync is 2021-09-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3016,6 +3016,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|C5L|C0051LL|C5L|
 |Blu|C5L 2020|C0070WW|C5L 2020|
 |Blu|C5L 2021|C0100TT|C5L 2021|
+|Blu|C5L 2021|C0110WW|C5L 2021|
 |Blu|C5L_2020|C0070WW|C5L 2020|
 |Blu|C5L_Plus|C0040TT|C5L Plus|
 |Blu|C5X|C0000UU|C5X|
@@ -3122,6 +3123,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|M7i|M0160WW|M7i|
 |Blu|M8L|M0170WW|M8L|
 |Blu|M8L|M0171WW|M8L|
+|Blu|M8L|M0172WW|M8L|
 |Blu|M8L PLUS|M0209WW|M8L PLUS|
 |Blu|M8L PLUS|M0210WW|M8L PLUS|
 |Blu|NEO ENERGY MINI|BLU_NEO_ENERGY_MINI|BLU NEO ENERGY MINI|
@@ -17998,6 +18000,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|Multilaser_F|Multilaser_F|Multilaser_F|
 |Multilaser|OBASMART 3|OBASMART_3|OBASMART_3|
 |Multilaser|Sikur|Multilaser_GMax_2_Sikur|Multilaser_GMax_2_Sikur|
+|Multilaser|ULTRA 10|ML_SO0C_ULTRA_10|ULTRA_10|
 |My|Android TV|tokyo|Android TV|
 |My|Android TV|yeoksam|Android TV|
 |My|Android TV|yeoksam|AndroidTV|
@@ -28760,6 +28763,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 7P|TECNO-KF7j|TECNO KF7j|
 |Tecno|TECNO SPARK 7T|TECNO-KF6p|TECNO KF6p|
 |Tecno|TECNO SPARK 8|TECNO-KG6|TECNO KG6|
+|Tecno|TECNO SPARK 8|TECNO-KG6k|TECNO KG6k|
 |Tecno|TECNO SPARK 8 P|TECNO-KG7|TECNO KG7|
 |Tecno|TECNO SPARK 8 P|TECNO-KG7n|TECNO KG7n|
 |Tecno|TECNO SPARK Go|TECNO-KC1|TECNO KC1|

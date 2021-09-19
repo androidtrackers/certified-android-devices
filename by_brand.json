@@ -15524,6 +15524,11 @@
    "model": "C5L 2021"
   },
   {
+   "device": "C0110WW",
+   "name": "C5L 2021",
+   "model": "C5L 2021"
+  },
+  {
    "device": "C0070WW",
    "name": "C5L_2020",
    "model": "C5L 2020"
@@ -16050,6 +16055,11 @@
   },
   {
    "device": "M0171WW",
+   "name": "M8L",
+   "model": "M8L"
+  },
+  {
+   "device": "M0172WW",
    "name": "M8L",
    "model": "M8L"
   },
@@ -92412,6 +92422,11 @@
    "device": "Multilaser_GMax_2_Sikur",
    "name": "Sikur",
    "model": "Multilaser_GMax_2_Sikur"
+  },
+  {
+   "device": "ML_SO0C_ULTRA_10",
+   "name": "ULTRA 10",
+   "model": "ULTRA_10"
   }
  ],
  "My": [
@@ -147406,6 +147421,11 @@
    "device": "TECNO-KG6",
    "name": "TECNO SPARK 8",
    "model": "TECNO KG6"
+  },
+  {
+   "device": "TECNO-KG6k",
+   "name": "TECNO SPARK 8",
+   "model": "TECNO KG6k"
   },
   {
    "device": "TECNO-KG7",
