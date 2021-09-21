@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-09-20
+Last sync is 2021-09-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12976,6 +12976,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|KC-01|KC-01|KC-01|
 |Kyocera|KC-T302DT|KC-T302DT|KC-T302DT|
 |Kyocera|KC-T302DT|SZJ202|SZJ-JS202|
+|Kyocera|KC-T304|KC-T304|KC-T304|
 |Kyocera|LUCE|KCP01K|KCP01K|
 |Kyocera|LifeWatch Universal Gateway|CD8100|CD8100|
 |Kyocera|Milano|C5120|C5120|
@@ -20628,6 +20629,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|Twist 4|S514|Twist 4|
 |Positivo|Twist 4 Fit|S509N|Twist 4 Fit|
 |Positivo|Twist 4 Fit|S509N|YOLO|
+|Positivo|Twist 4 Mini|S432|Twist 4 Mini|
 |Positivo|Twist 4 Pro|S518|Twist 4 Pro|
 |Positivo|Twist 4 Pro|S518|Twist 4 Pro Correios|
 |Positivo|Twist 4 Pro|S518|UP 32|
@@ -20643,6 +20645,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|Twist Tab|T770|Twist Tab|
 |Positivo|Twist Tab|T770|Twist Tab Kids|
 |Positivo|Twist Tab|T770E|Twist Tab|
+|Positivo|Twist Tab|T770G|Twist Tab|
 |Positivo|Twist Tab Kids|T770|Twist Tab|
 |Positivo|Twist Tab Kids|T770|Twist Tab Kids|
 |Positivo|Twist XL|S555|Twist XL|
@@ -25885,6 +25888,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 5 II|XQ-AS52|XQ-AS52|
 |Sony|Xperia 5 II|XQ-AS62|XQ-AS62|
 |Sony|Xperia 5 II|XQ-AS72|XQ-AS72|
+|Sony|Xperia 5 III|XQ-BQ52|XQ-BQ52|
+|Sony|Xperia 5 III|XQ-BQ72|XQ-BQ72|
 |Sony|Xperia 8|902SO|902SO|
 |Sony|Xperia 8|SOV42|SOV42|
 |Sony|Xperia 8|SOV42-u|SOV42-u|
@@ -26914,6 +26919,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 10 HD 4G|Aquaman_10_Pro|9060X_EEA|
 |TCL|TCL TAB 10 SMART|Aquaman_10_4G|8094T|
 |TCL|TCL TAB 10L|Aquaman_10_Smart_WIFI|8491X|
+|TCL|TCL TAB 10L|Aquaman_10_Smart_WIFI|8491X_TR|
 |TCL|TCL TAB 10s|Aquaman_10_Pro|9061|
 |TCL|TCL TAB 10s|Odin|9081X|
 |TCL|TCL TAB 10s 4G|Odin|9080G|

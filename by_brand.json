@@ -66842,6 +66842,11 @@
    "model": "SZJ-JS202"
   },
   {
+   "device": "KC-T304",
+   "name": "KC-T304",
+   "model": "KC-T304"
+  },
+  {
    "device": "KCP01K",
    "name": "LUCE",
    "model": "KCP01K"
@@ -106008,6 +106013,11 @@
    "model": "YOLO"
   },
   {
+   "device": "S432",
+   "name": "Twist 4 Mini",
+   "model": "Twist 4 Mini"
+  },
+  {
    "device": "S518",
    "name": "Twist 4 Pro",
    "model": "Twist 4 Pro"
@@ -106079,6 +106089,11 @@
   },
   {
    "device": "T770E",
+   "name": "Twist Tab",
+   "model": "Twist Tab"
+  },
+  {
+   "device": "T770G",
    "name": "Twist Tab",
    "model": "Twist Tab"
   },
@@ -132761,6 +132776,16 @@
    "model": "XQ-AS72"
   },
   {
+   "device": "XQ-BQ52",
+   "name": "Xperia 5 III",
+   "model": "XQ-BQ52"
+  },
+  {
+   "device": "XQ-BQ72",
+   "name": "Xperia 5 III",
+   "model": "XQ-BQ72"
+  },
+  {
    "device": "902SO",
    "name": "Xperia 8",
    "model": "902SO"
@@ -138036,6 +138061,11 @@
    "device": "Aquaman_10_Smart_WIFI",
    "name": "TCL TAB 10L",
    "model": "8491X"
+  },
+  {
+   "device": "Aquaman_10_Smart_WIFI",
+   "name": "TCL TAB 10L",
+   "model": "8491X_TR"
   },
   {
    "device": "Aquaman_10_Pro",

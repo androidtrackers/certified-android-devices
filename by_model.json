@@ -91188,6 +91188,13 @@
    "device": "SZJ202"
   }
  ],
+ "KC-T304": [
+  {
+   "brand": "Kyocera",
+   "name": "KC-T304",
+   "device": "KC-T304"
+  }
+ ],
  "KCP01K": [
   {
    "brand": "Kyocera",
@@ -141376,6 +141383,13 @@
    "device": "S509N"
   }
  ],
+ "Twist 4 Mini": [
+  {
+   "brand": "Positivo",
+   "name": "Twist 4 Mini",
+   "device": "S432"
+  }
+ ],
  "Twist 4 Pro": [
   {
    "brand": "Positivo",
@@ -141468,6 +141482,11 @@
    "brand": "Positivo",
    "name": "Twist Tab",
    "device": "T770E"
+  },
+  {
+   "brand": "Positivo",
+   "name": "Twist Tab",
+   "device": "T770G"
   },
   {
    "brand": "Positivo",
@@ -176760,6 +176779,20 @@
    "device": "XQ-AS72"
   }
  ],
+ "XQ-BQ52": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 5 III",
+   "device": "XQ-BQ52"
+  }
+ ],
+ "XQ-BQ72": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 5 III",
+   "device": "XQ-BQ72"
+  }
+ ],
  "902SO": [
   {
    "brand": "Sony",
@@ -183278,6 +183311,13 @@
   }
  ],
  "8491X": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 10L",
+   "device": "Aquaman_10_Smart_WIFI"
+  }
+ ],
+ "8491X_TR": [
   {
    "brand": "TCL",
    "name": "TCL TAB 10L",
