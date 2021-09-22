@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-09-21
+Last sync is 2021-09-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -119,6 +119,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ANS|L51|L51|L51|
 |ANS|Trailblazer|rugged-smartphone|H450R|
 |ANS|UL40|UL40|UL40|
+|ANXONIT|AnPad_U2|AnPad_U2|AnPad_U2|
 |AOC|A110_E|A110_E|A110_E|
 |AOC|A731|A731-N1|A731-N1|
 |AOC|A731-N2|A731-N2|A731-N2|
@@ -459,6 +460,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acet|X63L|X63L|X63L|
 |Aconatic|ACONATIC|bangbae|Aconatic 4K Android TV|
 |Aconatic|ACONATIC FHD TV|takao|ACONATIC FHD TV|
+|Aconatic|ACONATIC UHD TV|OD0M_EA_T32|ACONATIC UHD TV|
 |Aconatic|Aconatic|komagome|Aconatic 2K Android TV|
 |Aconatic|Android TV|R1|ATV R1|
 |Aconatic|Android TV|R2|ATV R2|
@@ -2022,6 +2024,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Axioo|PICOpad_7H_R8|PICOpad_7H_R8|PICOpad_7H_R8|
 |Axxa Mobile|GEM|GEM|GEM|
 |Ayonz EKO|SV11|ICN|KATV10|
+|Azeyou|AT701U|AT701U|AT701U|
 |Azumi|A4|A4|Azumi A4|
 |Azumi|A4|A4_AC25|Azumi A4|
 |Azumi|A4|Azumi_A4_AC12OM|A4|
@@ -3126,6 +3129,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|M8L|M0172WW|M8L|
 |Blu|M8L PLUS|M0209WW|M8L PLUS|
 |Blu|M8L PLUS|M0210WW|M8L PLUS|
+|Blu|M8L_PLUS|M0208WW|M8L PLUS|
 |Blu|NEO ENERGY MINI|BLU_NEO_ENERGY_MINI|BLU NEO ENERGY MINI|
 |Blu|NEO X|BLU_NEO_X|BLU NEO X|
 |Blu|NEO X LTE|BLU_NEO_X_LTE|BLU NEO X LTE|
@@ -3469,6 +3473,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CLOUD_AiR-WiFi|ATab-1|ATab-1|CAW21T101|
 |CMCC|M811|m811|M811|
 |CMCC|M811|m811hk|M811|
+|COCOMM|F910B0101|F910B0101|F910|
 |COMPUMAX|BlueS10|COMPUMAX|BlueS10|
 |COMTECO|DV8535|DV8535-KBC|DV8535|
 |CONKER|ST60|ST_60|ST 60|
@@ -3502,6 +3507,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CORN|Y60|Y60|Y60|
 |COSMOTE TV|TV Box|HY44G|TV Box|
 |CP Plus|CP-MUD-M721|CP-MUD-M721|CP-MUD-M721|
+|CWELL|M10|M10|CWELL M10|
 |CWOWDEFU|C10G|C10G|C10G|
 |CWOWDEFU|C80W|C80W|C80W|
 |CWOWDEFU|C80W_EEA|C80W_EEA|C80W_EEA|
@@ -4892,6 +4898,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Danew|Dslide 1013QC|Dslide1013QC_v2|Dslide1013QC_v2|
 |Danew|Dslide 1013QC|Dslide1013QC_v3|Dslide1013QC_v3|
 |Danew|Dslide 714|Dslide714_v2|Dslide714_v2|
+|Danew|Dslide1013QC_V4|Dslide1013QC_v4|Dslide1013QC_v4|
 |Danew|Dslide1014|Dslide1014|Dslide1014|
 |Danew|Dslide1016|Dslide1016|Dslide1016|
 |Danew|Dslide1016_V2_EEA|Dslide1016_V2|Dslide1016_V2|
@@ -6098,6 +6105,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Evertek|M20_S|M20_S|M20 S|
 |Evertek|P17|P17|P17|
 |Evertek|P17_Pro|P17_Pro|P17_Pro|
+|Evertek|P18_Pro|P18_Pro|P18_Pro|
 |Evertek|V4|V4|EVERTEK V4|
 |Evertek|V4 Nano|V4_Nano|V4 Nano|
 |Evertek|V4+|V4_Plus|V4+|
@@ -18929,6 +18937,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Obi|MV1|yam|Obi MV1|
 |Obi|OBJ SJ1.5|SJ1-5|SJ1-5|
 |Oceusnetworks|Xiphos®TMD|granite|Xiphos(R)TMD|
+|Octopus|Octopus_One|Octopus_One|Octopus_One|
 |Odotpad|FIRE_V7|FIRE_V7|FIRE_V7|
 |Odys|UNO X10|UNO_X10|UNO X10|
 |Odys|UNO X8|UNO_X8|UNO_X8|
@@ -23915,11 +23924,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S21 5G|o1q|SM-G991W|
 |Samsung|Galaxy S21 5G|o1s|SM-G991B|
 |Samsung|Galaxy S21 5G|o1s|SM-G991N|
-|Samsung|Galaxy S21 FE 5G|r9q|SM-G9900|
-|Samsung|Galaxy S21 FE 5G|r9q|SM-G990B|
-|Samsung|Galaxy S21 FE 5G|r9q|SM-G990U|
-|Samsung|Galaxy S21 FE 5G|r9q|SM-G990W|
-|Samsung|Galaxy S21 FE 5G|r9s|SM-G990E|
 |Samsung|Galaxy S21 Ultra 5G|SC-52B|SC-52B|
 |Samsung|Galaxy S21 Ultra 5G|p3q|SM-G9980|
 |Samsung|Galaxy S21 Ultra 5G|p3q|SM-G998U|
@@ -24982,6 +24986,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sapphire|Sapphire Phone|Sapphire_Phone|Sapphire Phone|
 |Sasktel|HMB2213PW22WA|HMB2213PW22WA|HMB2213PW22WA|
 |Sasktel|SaskTel maxTV Stream|HMB2213PW22WA|HMB2213PW22WA|
+|Satewave|HPAD-IP8045|HPAD-IP8045|HPAD-IP8045|
 |Sceptre|A322BV-SRC|kanda|2K Smart TV|
 |Sceptre|Sceptre|gangbyeon|4K Smart TV|
 |Sceptre|TATUNG|gangbyeon|TATUNG 4K AI Smart TV|
@@ -26927,6 +26932,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 7 Lite|U3A_7_WIFI_Refresh|9309X|
 |TCL|TCL TAB 8 4G|Apollo_8_4G|9032X|
 |TCL|TCL TAB kids|Thor_8_4G_VZW|9049L|
+|TCL|TKEE MAX New|Aquaman_10_Smart_WIFI|8491XN|
+|TCL|TKEE MAX New|Aquaman_10_Smart_WIFI|8491XN_EEA|
+|TCL|TKEE MAX New|Aquaman_10_Smart_WIFI|8491XN_TR|
 |TCL|TKEE MINI|Hulk_7_KIDS_WIFI|8093|
 |TCL|Union TV|UnionTV|UnionTV|
 |TCL|alcatel 1T7 NEW|U3A_7_WIFI_Refresh|9309X_TR|
@@ -28058,7 +28066,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|TBD|Seoul_ATT|Alcatel_5002C|
 |TCT (Alcatel)|TBD|Seoul_ATT|Alcatel_5002R|
 |TCT (Alcatel)|TBD|Seoul_TF|A507DL|
-|TCT (Alcatel)|TCL 10 5G UW|Seattle_VZW|T790S|
 |TCT (Alcatel)|TCL 302U|Festa5_CU|TCL 302U|
 |TCT (Alcatel)|TCL 520|shine_lite|TCL 520|
 |TCT (Alcatel)|TCL 562|shine_plus|562|
@@ -29296,6 +29303,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor X5 Q|Armor_X5_Q|Armor X5|
 |Ulefone|Armor X7|Armor_X7_Q|Armor X7|
 |Ulefone|Armor X7 Pro|Armor_X7_Pro|Armor X7 Pro|
+|Ulefone|Armor X8|Armor_X8_R|Armor X8|
 |Ulefone|Armor X8i|Armor_X8i|Armor X8i|
 |Ulefone|Armor X9|Armor_X9|Armor X9|
 |Ulefone|Armor X9 Pro|Armor_X9_Pro|Armor X9 Pro|
@@ -29343,6 +29351,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Power 5|Power_5|Power_5|
 |Ulefone|Power 5S|Power_5S|Power_5S|
 |Ulefone|Power Armor 13|Power_Armor_13|Power Armor 13|
+|Ulefone|Power Armor 14|Power_Armor_14|Power Armor 14|
 |Ulefone|Power_3L|Power_3L|Power_3L|
 |Ulefone|Power_3L_EEA|Power_3L_EEA|Power_3L|
 |Ulefone|Power_6|Power_6|Power_6|
@@ -30179,6 +30188,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2053|2041|V2053|
 |Vivo|V2054|2034|V2054|
 |Vivo|V2054A|PD2054|V2054A|
+|Vivo|V2054A|PD2092|V2054A|
 |Vivo|V2054A|PD2106|V2054A|
 |Vivo|V2055|2055|V2055|
 |Vivo|V2055A|PD2055|V2055A|
@@ -30227,6 +30237,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2123A|PD2123|V2123A|
 |Vivo|V2130A|PD2130|V2130A|
 |Vivo|V2131A|PD2131|V2131A|
+|Vivo|V2132A|PD2134|V2132A|
 |Vivo|V2133A|PD2133|V2133A|
 |Vivo|V2134A|PD2134|V2134A|
 |Vivo|V2135A|PD2133|V2135A|
@@ -31471,6 +31482,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Redmi Pro|omega|Redmi Pro|
 |Xiaomi|Redmi S2|ysl|Redmi S2|
 |Xiaomi|TELEBEE|once|MIBOX3|
+|Xiaomi|Xiaomi 11 Lite 5G NE|lisa|2109119DG|
+|Xiaomi|Xiaomi 11 Lite NE|lisa|2109119DI|
 |Xiaomi|Xiaomi 11T|amber|21081111RG|
 |Xiaomi|Xiaomi 11T Pro|vili|2107113SG|
 |Xiaomi|Xiaomi 11T Pro|vili|2107113SR|
@@ -33796,6 +33809,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iWaylink|TC601A|TC601A_GWL|TC601A_GWL|
 |iWaylink|TC601B|TC601B_GWL|TC601B_GWL|
 |iWaylink|TC603B|TC603B_GWL|TC603B_GWL|
+|iWaylink|TC603B_P|TC603B_GWL|TC603B_GWL|
 |iYOU|iYOU_M1|iYOU_M1|iYOU_M1|
 |ibowin|M10ES11|M10ES11|M130s|
 |imose|BAM-II|BAM-II|BAM-II|

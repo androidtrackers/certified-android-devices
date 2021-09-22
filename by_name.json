@@ -6770,6 +6770,13 @@
    "model": "UL40"
   }
  ],
+ "AnPad_U2": [
+  {
+   "brand": "ANXONIT",
+   "device": "AnPad_U2",
+   "model": "AnPad_U2"
+  }
+ ],
  "A110_E": [
   {
    "brand": "AOC",
@@ -9644,6 +9651,13 @@
    "brand": "Aconatic",
    "device": "takao",
    "model": "ACONATIC FHD TV"
+  }
+ ],
+ "ACONATIC UHD TV": [
+  {
+   "brand": "Aconatic",
+   "device": "OD0M_EA_T32",
+   "model": "ACONATIC UHD TV"
   }
  ],
  "Aconatic": [
@@ -20971,6 +20985,13 @@
    "model": "SV11"
   }
  ],
+ "AT701U": [
+  {
+   "brand": "Azeyou",
+   "device": "AT701U",
+   "model": "AT701U"
+  }
+ ],
  "A4": [
   {
    "brand": "Azumi",
@@ -29521,6 +29542,13 @@
    "model": "M8L PLUS"
   }
  ],
+ "M8L_PLUS": [
+  {
+   "brand": "Blu",
+   "device": "M0208WW",
+   "model": "M8L PLUS"
+  }
+ ],
  "NEO ENERGY MINI": [
   {
    "brand": "Blu",
@@ -32253,6 +32281,13 @@
    "model": "M811"
   }
  ],
+ "F910B0101": [
+  {
+   "brand": "COCOMM",
+   "device": "F910B0101",
+   "model": "F910"
+  }
+ ],
  "BlueS10": [
   {
    "brand": "COMPUMAX",
@@ -32533,6 +32568,53 @@
    "brand": "CP Plus",
    "device": "CP-MUD-M721",
    "model": "CP-MUD-M721"
+  }
+ ],
+ "M10": [
+  {
+   "brand": "CWELL",
+   "device": "M10",
+   "model": "CWELL M10"
+  },
+  {
+   "brand": "Dragontouch",
+   "device": "M10",
+   "model": "M10"
+  },
+  {
+   "brand": "Evertek",
+   "device": "M10",
+   "model": "M10"
+  },
+  {
+   "brand": "HTC",
+   "device": "htc_pmeuhl",
+   "model": "HTC 10"
+  },
+  {
+   "brand": "Leagoo",
+   "device": "M10",
+   "model": "M10"
+  },
+  {
+   "brand": "Monster",
+   "device": "M10",
+   "model": "M10"
+  },
+  {
+   "brand": "Snopow",
+   "device": "M10",
+   "model": "M10"
+  },
+  {
+   "brand": "Southern Telecom",
+   "device": "ST1009",
+   "model": "M10"
+  },
+  {
+   "brand": "Southern Telecom",
+   "device": "ST1009",
+   "model": "M10/Q1010"
   }
  ],
  "C10G": [
@@ -42526,6 +42608,13 @@
    "model": "Dslide714_v2"
   }
  ],
+ "Dslide1013QC_V4": [
+  {
+   "brand": "Danew",
+   "device": "Dslide1013QC_v4",
+   "model": "Dslide1013QC_v4"
+  }
+ ],
  "Dslide1014": [
   {
    "brand": "Danew",
@@ -46907,48 +46996,6 @@
    "model": "KidzPad_Y88X_8_EEA"
   }
  ],
- "M10": [
-  {
-   "brand": "Dragontouch",
-   "device": "M10",
-   "model": "M10"
-  },
-  {
-   "brand": "Evertek",
-   "device": "M10",
-   "model": "M10"
-  },
-  {
-   "brand": "HTC",
-   "device": "htc_pmeuhl",
-   "model": "HTC 10"
-  },
-  {
-   "brand": "Leagoo",
-   "device": "M10",
-   "model": "M10"
-  },
-  {
-   "brand": "Monster",
-   "device": "M10",
-   "model": "M10"
-  },
-  {
-   "brand": "Snopow",
-   "device": "M10",
-   "model": "M10"
-  },
-  {
-   "brand": "Southern Telecom",
-   "device": "ST1009",
-   "model": "M10"
-  },
-  {
-   "brand": "Southern Telecom",
-   "device": "ST1009",
-   "model": "M10/Q1010"
-  }
- ],
  "MAX_10": [
   {
    "brand": "Dragontouch",
@@ -51197,6 +51244,13 @@
    "brand": "Evertek",
    "device": "P17_Pro",
    "model": "P17_Pro"
+  }
+ ],
+ "P18_Pro": [
+  {
+   "brand": "Evertek",
+   "device": "P18_Pro",
+   "model": "P18_Pro"
   }
  ],
  "V4": [
@@ -127941,6 +127995,13 @@
    "model": "Xiphos(R)TMD"
   }
  ],
+ "Octopus_One": [
+  {
+   "brand": "Octopus",
+   "device": "Octopus_One",
+   "model": "Octopus_One"
+  }
+ ],
  "FIRE_V7": [
   {
    "brand": "Odotpad",
@@ -157770,33 +157831,6 @@
    "model": "SM-G991N"
   }
  ],
- "Galaxy S21 FE 5G": [
-  {
-   "brand": "Samsung",
-   "device": "r9q",
-   "model": "SM-G9900"
-  },
-  {
-   "brand": "Samsung",
-   "device": "r9q",
-   "model": "SM-G990B"
-  },
-  {
-   "brand": "Samsung",
-   "device": "r9q",
-   "model": "SM-G990U"
-  },
-  {
-   "brand": "Samsung",
-   "device": "r9q",
-   "model": "SM-G990W"
-  },
-  {
-   "brand": "Samsung",
-   "device": "r9s",
-   "model": "SM-G990E"
-  }
- ],
  "Galaxy S21 Ultra 5G": [
   {
    "brand": "Samsung",
@@ -163603,6 +163637,13 @@
    "brand": "Sasktel",
    "device": "HMB2213PW22WA",
    "model": "HMB2213PW22WA"
+  }
+ ],
+ "HPAD-IP8045": [
+  {
+   "brand": "Satewave",
+   "device": "HPAD-IP8045",
+   "model": "HPAD-IP8045"
   }
  ],
  "A322BV-SRC": [
@@ -175411,6 +175452,23 @@
    "model": "9049L"
   }
  ],
+ "TKEE MAX New": [
+  {
+   "brand": "TCL",
+   "device": "Aquaman_10_Smart_WIFI",
+   "model": "8491XN"
+  },
+  {
+   "brand": "TCL",
+   "device": "Aquaman_10_Smart_WIFI",
+   "model": "8491XN_EEA"
+  },
+  {
+   "brand": "TCL",
+   "device": "Aquaman_10_Smart_WIFI",
+   "model": "8491XN_TR"
+  }
+ ],
  "TKEE MINI": [
   {
    "brand": "TCL",
@@ -181335,13 +181393,6 @@
    "brand": "TCT (Alcatel)",
    "device": "Dubai_Plus_ATT",
    "model": "Alcatel_5004C"
-  }
- ],
- "TCL 10 5G UW": [
-  {
-   "brand": "TCT (Alcatel)",
-   "device": "Seattle_VZW",
-   "model": "T790S"
   }
  ],
  "TCL 302U": [
@@ -188869,6 +188920,13 @@
    "model": "Armor X7 Pro"
   }
  ],
+ "Armor X8": [
+  {
+   "brand": "Ulefone",
+   "device": "Armor_X8_R",
+   "model": "Armor X8"
+  }
+ ],
  "Armor X8i": [
   {
    "brand": "Ulefone",
@@ -189160,6 +189218,13 @@
    "brand": "Ulefone",
    "device": "Power_Armor_13",
    "model": "Power Armor 13"
+  }
+ ],
+ "Power Armor 14": [
+  {
+   "brand": "Ulefone",
+   "device": "Power_Armor_14",
+   "model": "Power Armor 14"
   }
  ],
  "Power_3L": [
@@ -194300,6 +194365,11 @@
   },
   {
    "brand": "Vivo",
+   "device": "PD2092",
+   "model": "V2054A"
+  },
+  {
+   "brand": "Vivo",
    "device": "PD2106",
    "model": "V2054A"
   }
@@ -194621,6 +194691,13 @@
    "brand": "Vivo",
    "device": "PD2131",
    "model": "V2131A"
+  }
+ ],
+ "V2132A": [
+  {
+   "brand": "Vivo",
+   "device": "PD2134",
+   "model": "V2132A"
   }
  ],
  "V2133A": [
@@ -202206,6 +202283,20 @@
    "brand": "Xiaomi",
    "device": "once",
    "model": "MIBOX3"
+  }
+ ],
+ "Xiaomi 11 Lite 5G NE": [
+  {
+   "brand": "Xiaomi",
+   "device": "lisa",
+   "model": "2109119DG"
+  }
+ ],
+ "Xiaomi 11 Lite NE": [
+  {
+   "brand": "Xiaomi",
+   "device": "lisa",
+   "model": "2109119DI"
   }
  ],
  "Xiaomi 11T": [
@@ -215122,6 +215213,13 @@
   }
  ],
  "TC603B": [
+  {
+   "brand": "iWaylink",
+   "device": "TC603B_GWL",
+   "model": "TC603B_GWL"
+  }
+ ],
+ "TC603B_P": [
   {
    "brand": "iWaylink",
    "device": "TC603B_GWL",

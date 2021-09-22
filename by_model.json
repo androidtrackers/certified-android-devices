@@ -1494,6 +1494,13 @@
    "device": "UL40"
   }
  ],
+ "AnPad_U2": [
+  {
+   "brand": "ANXONIT",
+   "name": "AnPad_U2",
+   "device": "AnPad_U2"
+  }
+ ],
  "A110_E": [
   {
    "brand": "AOC",
@@ -4419,6 +4426,13 @@
    "brand": "Aconatic",
    "name": "ACONATIC FHD TV",
    "device": "takao"
+  }
+ ],
+ "ACONATIC UHD TV": [
+  {
+   "brand": "Aconatic",
+   "name": "ACONATIC UHD TV",
+   "device": "OD0M_EA_T32"
   }
  ],
  "Aconatic 2K Android TV": [
@@ -15672,6 +15686,13 @@
    "device": "ICN"
   }
  ],
+ "AT701U": [
+  {
+   "brand": "Azeyou",
+   "name": "AT701U",
+   "device": "AT701U"
+  }
+ ],
  "Azumi A4": [
   {
    "brand": "Azumi",
@@ -23634,6 +23655,11 @@
    "brand": "Blu",
    "name": "M8L PLUS",
    "device": "M0210WW"
+  },
+  {
+   "brand": "Blu",
+   "name": "M8L_PLUS",
+   "device": "M0208WW"
   }
  ],
  "BLU NEO ENERGY MINI": [
@@ -26205,6 +26231,13 @@
    "device": "m811hk"
   }
  ],
+ "F910": [
+  {
+   "brand": "COCOMM",
+   "name": "F910B0101",
+   "device": "F910B0101"
+  }
+ ],
  "BlueS10": [
   {
    "brand": "COMPUMAX",
@@ -26445,6 +26478,13 @@
    "brand": "CP Plus",
    "name": "CP-MUD-M721",
    "device": "CP-MUD-M721"
+  }
+ ],
+ "CWELL M10": [
+  {
+   "brand": "CWELL",
+   "name": "M10",
+   "device": "M10"
   }
  ],
  "C10G": [
@@ -36252,6 +36292,13 @@
    "device": "Dslide714_v2"
   }
  ],
+ "Dslide1013QC_v4": [
+  {
+   "brand": "Danew",
+   "name": "Dslide1013QC_V4",
+   "device": "Dslide1013QC_v4"
+  }
+ ],
  "Dslide1014": [
   {
    "brand": "Danew",
@@ -44624,6 +44671,13 @@
    "brand": "Evertek",
    "name": "P17_Pro",
    "device": "P17_Pro"
+  }
+ ],
+ "P18_Pro": [
+  {
+   "brand": "Evertek",
+   "name": "P18_Pro",
+   "device": "P18_Pro"
   }
  ],
  "EVERTEK V4": [
@@ -130303,6 +130357,13 @@
    "device": "granite"
   }
  ],
+ "Octopus_One": [
+  {
+   "brand": "Octopus",
+   "name": "Octopus_One",
+   "device": "Octopus_One"
+  }
+ ],
  "FIRE_V7": [
   {
    "brand": "Odotpad",
@@ -163495,41 +163556,6 @@
    "device": "o1s"
   }
  ],
- "SM-G9900": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy S21 FE 5G",
-   "device": "r9q"
-  }
- ],
- "SM-G990B": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy S21 FE 5G",
-   "device": "r9q"
-  }
- ],
- "SM-G990U": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy S21 FE 5G",
-   "device": "r9q"
-  }
- ],
- "SM-G990W": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy S21 FE 5G",
-   "device": "r9q"
-  }
- ],
- "SM-G990E": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy S21 FE 5G",
-   "device": "r9s"
-  }
- ],
  "SC-52B": [
   {
    "brand": "Samsung",
@@ -170711,6 +170737,13 @@
    "brand": "Sasktel",
    "name": "SaskTel maxTV Stream",
    "device": "HMB2213PW22WA"
+  }
+ ],
+ "HPAD-IP8045": [
+  {
+   "brand": "Satewave",
+   "name": "HPAD-IP8045",
+   "device": "HPAD-IP8045"
   }
  ],
  "TATUNG 4K AI Smart TV": [
@@ -183383,6 +183416,27 @@
    "device": "Thor_8_4G_VZW"
   }
  ],
+ "8491XN": [
+  {
+   "brand": "TCL",
+   "name": "TKEE MAX New",
+   "device": "Aquaman_10_Smart_WIFI"
+  }
+ ],
+ "8491XN_EEA": [
+  {
+   "brand": "TCL",
+   "name": "TKEE MAX New",
+   "device": "Aquaman_10_Smart_WIFI"
+  }
+ ],
+ "8491XN_TR": [
+  {
+   "brand": "TCL",
+   "name": "TKEE MAX New",
+   "device": "Aquaman_10_Smart_WIFI"
+  }
+ ],
  "8093": [
   {
    "brand": "TCL",
@@ -191209,13 +191263,6 @@
    "brand": "TCT (Alcatel)",
    "name": "TBD",
    "device": "Seoul_TF"
-  }
- ],
- "T790S": [
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "TCL 10 5G UW",
-   "device": "Seattle_VZW"
   }
  ],
  "TCL 302U": [
@@ -199179,6 +199226,18 @@
    "device": "Armor_X7_Pro"
   }
  ],
+ "Armor X8": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor X8",
+   "device": "Armor_X8_R"
+  },
+  {
+   "brand": "Ulefone",
+   "name": "Armor_X8_R_EEA",
+   "device": "Armor_X8_R"
+  }
+ ],
  "Armor X8i": [
   {
    "brand": "Ulefone",
@@ -199283,13 +199342,6 @@
    "brand": "Ulefone",
    "name": "Armor_X6",
    "device": "Armor_X6"
-  }
- ],
- "Armor X8": [
-  {
-   "brand": "Ulefone",
-   "name": "Armor_X8_R_EEA",
-   "device": "Armor_X8_R"
   }
  ],
  "MIX_S": [
@@ -199443,6 +199495,13 @@
    "brand": "Ulefone",
    "name": "Power Armor 13",
    "device": "Power_Armor_13"
+  }
+ ],
+ "Power Armor 14": [
+  {
+   "brand": "Ulefone",
+   "name": "Power Armor 14",
+   "device": "Power_Armor_14"
   }
  ],
  "Power_3L": [
@@ -204653,6 +204712,11 @@
   {
    "brand": "Vivo",
    "name": "V2054A",
+   "device": "PD2092"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2054A",
    "device": "PD2106"
   }
  ],
@@ -204968,6 +205032,13 @@
    "brand": "Vivo",
    "name": "V2131A",
    "device": "PD2131"
+  }
+ ],
+ "V2132A": [
+  {
+   "brand": "Vivo",
+   "name": "V2132A",
+   "device": "PD2134"
   }
  ],
  "V2133A": [
@@ -212805,6 +212876,20 @@
    "brand": "Xiaomi",
    "name": "Redmi Pro",
    "device": "omega"
+  }
+ ],
+ "2109119DG": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 11 Lite 5G NE",
+   "device": "lisa"
+  }
+ ],
+ "2109119DI": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 11 Lite NE",
+   "device": "lisa"
   }
  ],
  "21081111RG": [
@@ -227758,6 +227843,11 @@
   {
    "brand": "iWaylink",
    "name": "TC603B",
+   "device": "TC603B_GWL"
+  },
+  {
+   "brand": "iWaylink",
+   "name": "TC603B_P",
    "device": "TC603B_GWL"
   }
  ],

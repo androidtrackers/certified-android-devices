@@ -637,6 +637,13 @@
    "model": "UL40"
   }
  ],
+ "ANXONIT": [
+  {
+   "device": "AnPad_U2",
+   "name": "AnPad_U2",
+   "model": "AnPad_U2"
+  }
+ ],
  "AOC": [
   {
    "device": "A110_E",
@@ -2405,6 +2412,11 @@
    "device": "takao",
    "name": "ACONATIC FHD TV",
    "model": "ACONATIC FHD TV"
+  },
+  {
+   "device": "OD0M_EA_T32",
+   "name": "ACONATIC UHD TV",
+   "model": "ACONATIC UHD TV"
   },
   {
    "device": "komagome",
@@ -10416,6 +10428,13 @@
    "model": "KATV10"
   }
  ],
+ "Azeyou": [
+  {
+   "device": "AT701U",
+   "name": "AT701U",
+   "model": "AT701U"
+  }
+ ],
  "Azumi": [
   {
    "device": "A4",
@@ -16074,6 +16093,11 @@
    "model": "M8L PLUS"
   },
   {
+   "device": "M0208WW",
+   "name": "M8L_PLUS",
+   "model": "M8L PLUS"
+  },
+  {
    "device": "BLU_NEO_ENERGY_MINI",
    "name": "NEO ENERGY MINI",
    "model": "BLU NEO ENERGY MINI"
@@ -17907,6 +17931,13 @@
    "model": "M811"
   }
  ],
+ "COCOMM": [
+  {
+   "device": "F910B0101",
+   "name": "F910B0101",
+   "model": "F910"
+  }
+ ],
  "COMPUMAX": [
   {
    "device": "COMPUMAX",
@@ -18092,6 +18123,13 @@
    "device": "CP-MUD-M721",
    "name": "CP-MUD-M721",
    "model": "CP-MUD-M721"
+  }
+ ],
+ "CWELL": [
+  {
+   "device": "M10",
+   "name": "M10",
+   "model": "CWELL M10"
   }
  ],
  "CWOWDEFU": [
@@ -25302,6 +25340,11 @@
    "model": "Dslide714_v2"
   },
   {
+   "device": "Dslide1013QC_v4",
+   "name": "Dslide1013QC_V4",
+   "model": "Dslide1013QC_v4"
+  },
+  {
    "device": "Dslide1014",
    "name": "Dslide1014",
    "model": "Dslide1014"
@@ -31632,6 +31675,11 @@
    "device": "P17_Pro",
    "name": "P17_Pro",
    "model": "P17_Pro"
+  },
+  {
+   "device": "P18_Pro",
+   "name": "P18_Pro",
+   "model": "P18_Pro"
   },
   {
    "device": "V4",
@@ -97307,6 +97355,13 @@
    "model": "Xiphos(R)TMD"
   }
  ],
+ "Octopus": [
+  {
+   "device": "Octopus_One",
+   "name": "Octopus_One",
+   "model": "Octopus_One"
+  }
+ ],
  "Odotpad": [
   {
    "device": "FIRE_V7",
@@ -122761,31 +122816,6 @@
    "model": "SM-G991N"
   },
   {
-   "device": "r9q",
-   "name": "Galaxy S21 FE 5G",
-   "model": "SM-G9900"
-  },
-  {
-   "device": "r9q",
-   "name": "Galaxy S21 FE 5G",
-   "model": "SM-G990B"
-  },
-  {
-   "device": "r9q",
-   "name": "Galaxy S21 FE 5G",
-   "model": "SM-G990U"
-  },
-  {
-   "device": "r9q",
-   "name": "Galaxy S21 FE 5G",
-   "model": "SM-G990W"
-  },
-  {
-   "device": "r9s",
-   "name": "Galaxy S21 FE 5G",
-   "model": "SM-G990E"
-  },
-  {
    "device": "SC-52B",
    "name": "Galaxy S21 Ultra 5G",
    "model": "SC-52B"
@@ -128114,6 +128144,13 @@
    "device": "HMB2213PW22WA",
    "name": "SaskTel maxTV Stream",
    "model": "HMB2213PW22WA"
+  }
+ ],
+ "Satewave": [
+  {
+   "device": "HPAD-IP8045",
+   "name": "HPAD-IP8045",
+   "model": "HPAD-IP8045"
   }
  ],
  "Sceptre": [
@@ -138103,6 +138140,21 @@
    "model": "9049L"
   },
   {
+   "device": "Aquaman_10_Smart_WIFI",
+   "name": "TKEE MAX New",
+   "model": "8491XN"
+  },
+  {
+   "device": "Aquaman_10_Smart_WIFI",
+   "name": "TKEE MAX New",
+   "model": "8491XN_EEA"
+  },
+  {
+   "device": "Aquaman_10_Smart_WIFI",
+   "name": "TKEE MAX New",
+   "model": "8491XN_TR"
+  },
+  {
    "device": "Hulk_7_KIDS_WIFI",
    "name": "TKEE MINI",
    "model": "8093"
@@ -143758,11 +143810,6 @@
    "device": "Seoul_TF",
    "name": "TBD",
    "model": "A507DL"
-  },
-  {
-   "device": "Seattle_VZW",
-   "name": "TCL 10 5G UW",
-   "model": "T790S"
   },
   {
    "device": "Festa5_CU",
@@ -150272,6 +150319,11 @@
    "model": "Armor X7 Pro"
   },
   {
+   "device": "Armor_X8_R",
+   "name": "Armor X8",
+   "model": "Armor X8"
+  },
+  {
    "device": "Armor_X8i",
    "name": "Armor X8i",
    "model": "Armor X8i"
@@ -150505,6 +150557,11 @@
    "device": "Power_Armor_13",
    "name": "Power Armor 13",
    "model": "Power Armor 13"
+  },
+  {
+   "device": "Power_Armor_14",
+   "name": "Power Armor 14",
+   "model": "Power Armor 14"
   },
   {
    "device": "Power_3L",
@@ -154859,6 +154916,11 @@
    "model": "V2054A"
   },
   {
+   "device": "PD2092",
+   "name": "V2054A",
+   "model": "V2054A"
+  },
+  {
    "device": "PD2106",
    "name": "V2054A",
    "model": "V2054A"
@@ -155097,6 +155159,11 @@
    "device": "PD2131",
    "name": "V2131A",
    "model": "V2131A"
+  },
+  {
+   "device": "PD2134",
+   "name": "V2132A",
+   "model": "V2132A"
   },
   {
    "device": "PD2133",
@@ -161495,6 +161562,16 @@
    "device": "once",
    "name": "TELEBEE",
    "model": "MIBOX3"
+  },
+  {
+   "device": "lisa",
+   "name": "Xiaomi 11 Lite 5G NE",
+   "model": "2109119DG"
+  },
+  {
+   "device": "lisa",
+   "name": "Xiaomi 11 Lite NE",
+   "model": "2109119DI"
   },
   {
    "device": "amber",
@@ -173371,6 +173448,11 @@
   {
    "device": "TC603B_GWL",
    "name": "TC603B",
+   "model": "TC603B_GWL"
+  },
+  {
+   "device": "TC603B_GWL",
+   "name": "TC603B_P",
    "model": "TC603B_GWL"
   }
  ],
