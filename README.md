@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-09-22
+Last sync is 2021-09-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12747,6 +12747,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Klipad|KL830_EEA|KL830_EEA|KL830|
 |Klipad|KL8889|KL8889|KL8889|
 |Klipad|KL9878|KL9878|KL9878|
+|Klipad|KL9878AE|KL9878AE|KL9878AE|
 |Klipad|KL9878A_EEA|KL9878A_EEA|KL9878A_EEA|
 |Klipad|KL988HPC|KL988HPC|KL988HPC|
 |Klipad|KLI747|KLI747|KLI747|
@@ -16379,6 +16380,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maxwest|Panda_7|Panda_7|Panda_7|
 |Maxwest|Ranger 5|Ranger_5|Ranger_5|
 |Maxwest|TAB-9G|TAB-9G|TAB-9G|
+|Maxwest|TAB_MAX_7|TAB_MAX_7|TAB_MAX_7|
 |Maze_speed|MS5414G|MS5414G|MS5414G|
 |Maze_speed|MS5514G|MS5514G|MS5514G|
 |Maze_speed|SSB1000T|SSB1000T|SSB1000T|
@@ -20498,6 +20500,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Polaroid|L9|L9|L9|
 |Polaroid|MID1028|MID1028|MID1028|
 |Polaroid|MID1048PHE|MID1048PHE|MID1048PHE|
+|Polaroid|MID1064FHDP|MID1064FHDP|MID1064FHDP|
 |Polaroid|MID1095PR001|MID1095PR001|MID1095PR001|
 |Polaroid|MID1264|MID1264|MID1264|
 |Polaroid|MID1464PR001|MID1464PR001|MID1464PR001|
@@ -30231,6 +30234,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2110|2110|V2110|
 |Vivo|V2111|2111|V2111|
 |Vivo|V2111A|PD2111|V2111A|
+|Vivo|V2113|2113|V2113|
 |Vivo|V2114|2114|V2114|
 |Vivo|V2118A|PD2118|V2118A|
 |Vivo|V2121A|PD2121|V2121A|

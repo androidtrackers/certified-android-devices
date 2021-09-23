@@ -65677,6 +65677,11 @@
    "model": "KL9878"
   },
   {
+   "device": "KL9878AE",
+   "name": "KL9878AE",
+   "model": "KL9878AE"
+  },
+  {
    "device": "KL9878A_EEA",
    "name": "KL9878A_EEA",
    "model": "KL9878A_EEA"
@@ -84171,6 +84176,11 @@
    "device": "TAB-9G",
    "name": "TAB-9G",
    "model": "TAB-9G"
+  },
+  {
+   "device": "TAB_MAX_7",
+   "name": "TAB_MAX_7",
+   "model": "TAB_MAX_7"
   }
  ],
  "Maze_speed": [
@@ -105356,6 +105366,11 @@
    "device": "MID1048PHE",
    "name": "MID1048PHE",
    "model": "MID1048PHE"
+  },
+  {
+   "device": "MID1064FHDP",
+   "name": "MID1064FHDP",
+   "model": "MID1064FHDP"
   },
   {
    "device": "MID1095PR001",
@@ -155129,6 +155144,11 @@
    "device": "PD2111",
    "name": "V2111A",
    "model": "V2111A"
+  },
+  {
+   "device": "2113",
+   "name": "V2113",
+   "model": "V2113"
   },
   {
    "device": "2114",

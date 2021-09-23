@@ -89597,6 +89597,13 @@
    "device": "KL9878"
   }
  ],
+ "KL9878AE": [
+  {
+   "brand": "Klipad",
+   "name": "KL9878AE",
+   "device": "KL9878AE"
+  }
+ ],
  "KL9878A_EEA": [
   {
    "brand": "Klipad",
@@ -113817,6 +113824,13 @@
    "brand": "Maxwest",
    "name": "TAB-9G",
    "device": "TAB-9G"
+  }
+ ],
+ "TAB_MAX_7": [
+  {
+   "brand": "Maxwest",
+   "name": "TAB_MAX_7",
+   "device": "TAB_MAX_7"
   }
  ],
  "MS5414G": [
@@ -140495,6 +140509,13 @@
    "brand": "Polaroid",
    "name": "MID1048PHE",
    "device": "MID1048PHE"
+  }
+ ],
+ "MID1064FHDP": [
+  {
+   "brand": "Polaroid",
+   "name": "MID1064FHDP",
+   "device": "MID1064FHDP"
   }
  ],
  "MID1095PR001": [
@@ -204990,6 +205011,13 @@
    "brand": "Vivo",
    "name": "V2111A",
    "device": "PD2111"
+  }
+ ],
+ "V2113": [
+  {
+   "brand": "Vivo",
+   "name": "V2113",
+   "device": "2113"
   }
  ],
  "V2114": [
