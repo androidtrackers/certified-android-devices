@@ -1523,6 +1523,11 @@
    "model": "ATAB1021E"
   },
   {
+   "device": "ATAB1422E",
+   "name": "ATAB1422E",
+   "model": "ATAB1422E"
+  },
+  {
    "device": "ATAB721E",
    "name": "ATAB721E",
    "model": "ATAB721E"
@@ -10429,6 +10434,11 @@
   }
  ],
  "Azeyou": [
+  {
+   "device": "AT1031U",
+   "name": "AT1031U",
+   "model": "AT1031U"
+  },
   {
    "device": "AT701U",
    "name": "AT701U",
@@ -26105,6 +26115,11 @@
    "device": "TIQ104",
    "name": "TIQ-104",
    "model": "TIQ-104"
+  },
+  {
+   "device": "TIQ-70",
+   "name": "TIQ-70",
+   "model": "TIQ-70"
   }
  ],
  "DiDi (Japan)": [
@@ -35220,6 +35235,11 @@
    "device": "G-TiDE_P1",
    "name": "G-TiDE_P1",
    "model": "G-TiDE_P1"
+  },
+  {
+   "device": "G-TiDE_P1_4G",
+   "name": "G-TiDE_P1_4G",
+   "model": "G-TiDE_P1_4G"
   },
   {
    "device": "G-TiDE_H1_4G_EEA",
@@ -59602,6 +59622,11 @@
    "model": "Infinix X688C"
   },
   {
+   "device": "Infinix-X657B",
+   "name": "SMART 5(SMART 6)",
+   "model": "Infinix X657B"
+  },
+  {
    "device": "Infinix-X612",
    "name": "SMART HD",
    "model": "Infinix X612"
@@ -66110,6 +66135,11 @@
    "device": "SOFT5",
    "name": "SOFT5",
    "model": "SOFT5"
+  },
+  {
+   "device": "SOFT5P",
+   "name": "SOFT5P",
+   "model": "SOFT5P"
   },
   {
    "device": "SWEET5",
@@ -82556,6 +82586,11 @@
    "model": "9096"
   },
   {
+   "device": "9098",
+   "name": "9098",
+   "model": "9098"
+  },
+  {
    "device": "MB4",
    "name": "MB4",
    "model": "MB4"
@@ -91285,6 +91320,16 @@
    "model": "motorola edge"
   },
   {
+   "device": "berlna",
+   "name": "motorola edge (2021)",
+   "model": "motorola edge (2021)"
+  },
+  {
+   "device": "berlna",
+   "name": "motorola edge (2021)",
+   "model": "motorola edge plus"
+  },
+  {
    "device": "berlin",
    "name": "motorola edge 20",
    "model": "motorola edge 20"
@@ -97682,11 +97727,6 @@
   },
   {
    "device": "OnePlus9Pro",
-   "name": "OnePlus 9 Pro",
-   "model": "LE2120"
-  },
-  {
-   "device": "OnePlus9Pro",
    "name": "OnePlus 9 Pro 5G",
    "model": "LE2120"
   },
@@ -101087,6 +101127,11 @@
    "device": "K15_Plus",
    "name": "K15 Plus",
    "model": "K15_Plus"
+  },
+  {
+   "device": "K15_Pro",
+   "name": "K15_Pro_EEA",
+   "model": "K15 Pro"
   },
   {
    "device": "K3",
@@ -147108,11 +147153,6 @@
    "device": "TECNO-KE5",
    "name": "SAPRK GO 2021",
    "model": "TECNO KE5"
-  },
-  {
-   "device": "Infinix-X657B",
-   "name": "SMART 5",
-   "model": "Infinix X657B"
   },
   {
    "device": "TECNO-K7",

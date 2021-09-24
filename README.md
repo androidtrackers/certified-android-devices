@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-09-23
+Last sync is 2021-09-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -283,6 +283,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|ACTAB821_A|ACTAB821_A|ACTAB821_A|
 |Acer|AK330s|C8n|AK330S|
 |Acer|ATAB1021E|ATAB1021E|ATAB1021E|
+|Acer|ATAB1422E|ATAB1422E|ATAB1422E|
 |Acer|ATAB721E|ATAB721E|ATAB721E|
 |Acer|ATAB821E|ATAB821E|ATAB821E|
 |Acer|Acer Chromebook 11 (C740)|paine_cheets|Acer Chromebook 11 (C740)|
@@ -2024,6 +2025,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Axioo|PICOpad_7H_R8|PICOpad_7H_R8|PICOpad_7H_R8|
 |Axxa Mobile|GEM|GEM|GEM|
 |Ayonz EKO|SV11|ICN|KATV10|
+|Azeyou|AT1031U|AT1031U|AT1031U|
 |Azeyou|AT701U|AT701U|AT701U|
 |Azumi|A4|A4|Azumi A4|
 |Azumi|A4|A4_AC25|Azumi A4|
@@ -5045,6 +5047,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Denver Electronics|TIQ-10|TIQ-10|TIQ-10|
 |Denver Electronics|TIQ-102|TIQ102|TIQ-102|
 |Denver Electronics|TIQ-104|TIQ104|TIQ-104|
+|Denver Electronics|TIQ-70|TIQ-70|TIQ-70|
 |DiDi (Japan)|DDT-001|DDT-001|DDT-001|
 |DiMora Mobile|Adrenalin Pro|Adrenalin_Pro|Adrenalin Pro|
 |DiMora Mobile|DiMora_LUX|DiMora_LUX|DiMora_LUX|
@@ -6784,6 +6787,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-TiDE|FANS7|FANS7|G-TiDE FANS7|
 |G-TiDE|G-TiDE_H1_EEA|G-TiDE_H1_EEA|G-TiDE_H1_EEA|
 |G-TiDE|G-TiDE_P1|G-TiDE_P1|G-TiDE_P1|
+|G-TiDE|G-TiDE_P1_4G|G-TiDE_P1_4G|G-TiDE_P1_4G|
 |G-TiDE|PL1080|G-TiDE_H1_4G_EEA|G-TiDE_H1_4G|
 |G-TiDE EXTREME|EX10|EX10|EX10|
 |G53|TA71CA3|TA71CA3_1|TA71CA3|
@@ -11578,6 +11582,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|SMART 5|Infinix-X657B|Infinix X657B|
 |Infinix|SMART 5|Infinix-X657C|Infinix X657C|
 |Infinix|SMART 5|Infinix-X688C|Infinix X688C|
+|Infinix|SMART 5(SMART 6)|Infinix-X657B|Infinix X657B|
 |Infinix|SMART HD|Infinix-X612|Infinix X612|
 |Infinix|SMART HD|Infinix-X612B|Infinix X612B|
 |Infinix|SURF 2|INFINIX_X511|Infinix X511|
@@ -12832,6 +12837,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Konrow|SKY55|SKY55|SKY55_EEA|
 |Konrow|SKY_55|SKY_55|SKY_55_EEA|
 |Konrow|SOFT5|SOFT5|SOFT5|
+|Konrow|SOFT5P|SOFT5P|SOFT5P|
 |Konrow|SWEET5|SWEET5|SWEET5|
 |Konrow|SWEET_55|SWEET_55|SWEET 55|
 |Konrow|Sky|Sky|Sky|
@@ -16076,6 +16082,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MLAB|8990|8990|8990|
 |MLAB|9095|9095|9095|
 |MLAB|9096|9096|9096|
+|MLAB|9098|9098|9098|
 |MLAB|MB4|MB4|MB4|
 |MLAB|MB4 WIFI|MB4_WIFI|MB4 WIFI|
 |MLAB|MB4_3G|MB4_3G|MB4_3G|
@@ -17777,6 +17784,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto z4|foles|Moto Z3 Play|
 |Motorola|moto z4|foles|moto z4|
 |Motorola|motorola edge|racer|motorola edge|
+|Motorola|motorola edge (2021)|berlna|motorola edge (2021)|
+|Motorola|motorola edge (2021)|berlna|motorola edge plus|
 |Motorola|motorola edge 20|berlin|motorola edge 20|
 |Motorola|motorola edge 20|berlin|motorola edge plus|
 |Motorola|motorola edge 20 fusion|kyoto|motorola|
@@ -18997,7 +19006,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 9 5G|OnePlus9|LE2113|
 |OnePlus|OnePlus 9 5G|OnePlus9|LE2115|
 |OnePlus|OnePlus 9 5G|OnePlus9TMO|LE2117|
-|OnePlus|OnePlus 9 Pro|OnePlus9Pro|LE2120|
 |OnePlus|OnePlus 9 Pro 5G|OnePlus9Pro|LE2120|
 |OnePlus|OnePlus 9 Pro 5G|OnePlus9Pro|LE2121|
 |OnePlus|OnePlus 9 Pro 5G|OnePlus9Pro|LE2123|
@@ -19671,6 +19679,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|K12|K12|K12|
 |Oukitel|K13 Pro|K13_Pro|K13_Pro|
 |Oukitel|K15 Plus|K15_Plus|K15_Plus|
+|Oukitel|K15_Pro_EEA|K15_Pro|K15 Pro|
 |Oukitel|K3|K3|K3|
 |Oukitel|K3 Pro|K3_Pro|K3_Pro|
 |Oukitel|K5|K5|K5|
@@ -28698,7 +28707,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|SA6|TECNO-SA6|TECNO SA6|
 |Tecno|SA6|TECNO-SA6|TECNO SA6S|
 |Tecno|SAPRK GO 2021|TECNO-KE5|TECNO KE5|
-|Tecno|SMART 5|Infinix-X657B|Infinix X657B|
 |Tecno|SPARK|TECNO-K7|TECNO K7|
 |Tecno|SPARK 2|TECNO-KA7-GO|TECNO KA7|
 |Tecno|SPARK 2|TECNO-KA7-O|TECNO KA7O|

@@ -8067,6 +8067,13 @@
    "model": "ATAB1021E"
   }
  ],
+ "ATAB1422E": [
+  {
+   "brand": "Acer",
+   "device": "ATAB1422E",
+   "model": "ATAB1422E"
+  }
+ ],
  "ATAB721E": [
   {
    "brand": "Acer",
@@ -20983,6 +20990,13 @@
    "brand": "DishTV-NZ",
    "device": "ICN",
    "model": "SV11"
+  }
+ ],
+ "AT1031U": [
+  {
+   "brand": "Azeyou",
+   "device": "AT1031U",
+   "model": "AT1031U"
   }
  ],
  "AT701U": [
@@ -43501,6 +43515,13 @@
    "model": "TIQ-104"
   }
  ],
+ "TIQ-70": [
+  {
+   "brand": "Denver Electronics",
+   "device": "TIQ-70",
+   "model": "TIQ-70"
+  }
+ ],
  "DDT-001": [
   {
    "brand": "DiDi (Japan)",
@@ -55986,6 +56007,13 @@
    "brand": "G-TiDE",
    "device": "G-TiDE_P1",
    "model": "G-TiDE_P1"
+  }
+ ],
+ "G-TiDE_P1_4G": [
+  {
+   "brand": "G-TiDE",
+   "device": "G-TiDE_P1_4G",
+   "model": "G-TiDE_P1_4G"
   }
  ],
  "PL1080": [
@@ -84038,9 +84066,11 @@
    "brand": "Infinix",
    "device": "Infinix-X688C",
    "model": "Infinix X688C"
-  },
+  }
+ ],
+ "SMART 5(SMART 6)": [
   {
-   "brand": "Tecno",
+   "brand": "Infinix",
    "device": "Infinix-X657B",
    "model": "Infinix X657B"
   }
@@ -92200,6 +92230,13 @@
    "brand": "Konrow",
    "device": "SOFT5",
    "model": "SOFT5"
+  }
+ ],
+ "SOFT5P": [
+  {
+   "brand": "Konrow",
+   "device": "SOFT5P",
+   "model": "SOFT5P"
   }
  ],
  "SWEET5": [
@@ -110665,6 +110702,13 @@
    "model": "9096"
   }
  ],
+ "9098": [
+  {
+   "brand": "MLAB",
+   "device": "9098",
+   "model": "9098"
+  }
+ ],
  "MB4": [
   {
    "brand": "MLAB",
@@ -120750,6 +120794,18 @@
    "model": "motorola edge"
   }
  ],
+ "motorola edge (2021)": [
+  {
+   "brand": "Motorola",
+   "device": "berlna",
+   "model": "motorola edge (2021)"
+  },
+  {
+   "brand": "Motorola",
+   "device": "berlna",
+   "model": "motorola edge plus"
+  }
+ ],
  "motorola edge 20": [
   {
    "brand": "Motorola",
@@ -128321,13 +128377,6 @@
    "model": "LE2117"
   }
  ],
- "OnePlus 9 Pro": [
-  {
-   "brand": "OnePlus",
-   "device": "OnePlus9Pro",
-   "model": "LE2120"
-  }
- ],
  "OnePlus 9 Pro 5G": [
   {
    "brand": "OnePlus",
@@ -132400,6 +132449,13 @@
    "brand": "Oukitel",
    "device": "K15_Plus",
    "model": "K15_Plus"
+  }
+ ],
+ "K15_Pro_EEA": [
+  {
+   "brand": "Oukitel",
+   "device": "K15_Pro",
+   "model": "K15 Pro"
   }
  ],
  "K3 Pro": [

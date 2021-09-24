@@ -2783,6 +2783,13 @@
    "device": "ATAB1021E"
   }
  ],
+ "ATAB1422E": [
+  {
+   "brand": "Acer",
+   "name": "ATAB1422E",
+   "device": "ATAB1422E"
+  }
+ ],
  "ATAB721E": [
   {
    "brand": "Acer",
@@ -15684,6 +15691,13 @@
    "brand": "Ayonz EKO",
    "name": "SV11",
    "device": "ICN"
+  }
+ ],
+ "AT1031U": [
+  {
+   "brand": "Azeyou",
+   "name": "AT1031U",
+   "device": "AT1031U"
   }
  ],
  "AT701U": [
@@ -37297,6 +37311,13 @@
    "device": "TIQ104"
   }
  ],
+ "TIQ-70": [
+  {
+   "brand": "Denver Electronics",
+   "name": "TIQ-70",
+   "device": "TIQ-70"
+  }
+ ],
  "DDT-001": [
   {
    "brand": "DiDi (Japan)",
@@ -49671,6 +49692,13 @@
    "brand": "G-TiDE",
    "name": "G-TiDE_P1",
    "device": "G-TiDE_P1"
+  }
+ ],
+ "G-TiDE_P1_4G": [
+  {
+   "brand": "G-TiDE",
+   "name": "G-TiDE_P1_4G",
+   "device": "G-TiDE_P1_4G"
   }
  ],
  "G-TiDE_H1_4G": [
@@ -81035,8 +81063,8 @@
    "device": "Infinix-X657B"
   },
   {
-   "brand": "Tecno",
-   "name": "SMART 5",
+   "brand": "Infinix",
+   "name": "SMART 5(SMART 6)",
    "device": "Infinix-X657B"
   }
  ],
@@ -90177,6 +90205,13 @@
    "brand": "Konrow",
    "name": "SOFT5",
    "device": "SOFT5"
+  }
+ ],
+ "SOFT5P": [
+  {
+   "brand": "Konrow",
+   "name": "SOFT5P",
+   "device": "SOFT5P"
   }
  ],
  "SWEET5": [
@@ -111758,6 +111793,13 @@
    "device": "9096"
   }
  ],
+ "9098": [
+  {
+   "brand": "MLAB",
+   "name": "9098",
+   "device": "9098"
+  }
+ ],
  "MB4": [
   {
    "brand": "MLAB",
@@ -122937,14 +122979,19 @@
    "device": "parker"
   }
  ],
- "motorola edge 20": [
+ "motorola edge (2021)": [
   {
    "brand": "Motorola",
-   "name": "motorola edge 20",
-   "device": "berlin"
+   "name": "motorola edge (2021)",
+   "device": "berlna"
   }
  ],
  "motorola edge plus": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge (2021)",
+   "device": "berlna"
+  },
   {
    "brand": "Motorola",
    "name": "motorola edge 20",
@@ -122954,6 +123001,13 @@
    "brand": "Motorola",
    "name": "motorola edge plus",
    "device": "burton"
+  }
+ ],
+ "motorola edge 20": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 20",
+   "device": "berlin"
   }
  ],
  "motorola": [
@@ -130754,11 +130808,6 @@
  "LE2120": [
   {
    "brand": "OnePlus",
-   "name": "OnePlus 9 Pro",
-   "device": "OnePlus9Pro"
-  },
-  {
-   "brand": "OnePlus",
    "name": "OnePlus 9 Pro 5G",
    "device": "OnePlus9Pro"
   },
@@ -135248,6 +135297,13 @@
    "brand": "Oukitel",
    "name": "K15 Plus",
    "device": "K15_Plus"
+  }
+ ],
+ "K15 Pro": [
+  {
+   "brand": "Oukitel",
+   "name": "K15_Pro_EEA",
+   "device": "K15_Pro"
   }
  ],
  "K3_Pro": [

@@ -3589,6 +3589,13 @@
    "model": "ATAB1021E"
   }
  ],
+ "ATAB1422E": [
+  {
+   "brand": "Acer",
+   "name": "ATAB1422E",
+   "model": "ATAB1422E"
+  }
+ ],
  "ATAB721E": [
   {
    "brand": "Acer",
@@ -17704,6 +17711,13 @@
    "brand": "Homatics",
    "name": "Dongle Q",
    "model": "Dongle Q"
+  }
+ ],
+ "AT1031U": [
+  {
+   "brand": "Azeyou",
+   "name": "AT1031U",
+   "model": "AT1031U"
   }
  ],
  "AT701U": [
@@ -39538,6 +39552,13 @@
    "model": "TIQ-104"
   }
  ],
+ "TIQ-70": [
+  {
+   "brand": "Denver Electronics",
+   "name": "TIQ-70",
+   "model": "TIQ-70"
+  }
+ ],
  "DDT-001": [
   {
    "brand": "DiDi (Japan)",
@@ -51957,6 +51978,13 @@
    "brand": "G-TiDE",
    "name": "G-TiDE_P1",
    "model": "G-TiDE_P1"
+  }
+ ],
+ "G-TiDE_P1_4G": [
+  {
+   "brand": "G-TiDE",
+   "name": "G-TiDE_P1_4G",
+   "model": "G-TiDE_P1_4G"
   }
  ],
  "G-TiDE_H1_4G_EEA": [
@@ -80089,8 +80117,8 @@
    "model": "Infinix X657B"
   },
   {
-   "brand": "Tecno",
-   "name": "SMART 5",
+   "brand": "Infinix",
+   "name": "SMART 5(SMART 6)",
    "model": "Infinix X657B"
   }
  ],
@@ -88878,6 +88906,13 @@
    "brand": "Konrow",
    "name": "SOFT5",
    "model": "SOFT5"
+  }
+ ],
+ "SOFT5P": [
+  {
+   "brand": "Konrow",
+   "name": "SOFT5P",
+   "model": "SOFT5P"
   }
  ],
  "SWEET5": [
@@ -109351,6 +109386,13 @@
    "model": "9096"
   }
  ],
+ "9098": [
+  {
+   "brand": "MLAB",
+   "name": "9098",
+   "model": "9098"
+  }
+ ],
  "MB4": [
   {
    "brand": "MLAB",
@@ -120294,6 +120336,18 @@
    "model": "motorola edge"
   }
  ],
+ "berlna": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge (2021)",
+   "model": "motorola edge (2021)"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge (2021)",
+   "model": "motorola edge plus"
+  }
+ ],
  "berlin": [
   {
    "brand": "Motorola",
@@ -128002,11 +128056,6 @@
  "OnePlus9Pro": [
   {
    "brand": "OnePlus",
-   "name": "OnePlus 9 Pro",
-   "model": "LE2120"
-  },
-  {
-   "brand": "OnePlus",
    "name": "OnePlus 9 Pro 5G",
    "model": "LE2120"
   },
@@ -132335,6 +132384,13 @@
    "brand": "Oukitel",
    "name": "K15 Plus",
    "model": "K15_Plus"
+  }
+ ],
+ "K15_Pro": [
+  {
+   "brand": "Oukitel",
+   "name": "K15_Pro_EEA",
+   "model": "K15 Pro"
   }
  ],
  "K3_Pro": [
