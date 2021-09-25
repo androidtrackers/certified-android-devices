@@ -13252,6 +13252,13 @@
    "device": "RTC-tablet"
   }
  ],
+ "ASUS_I007D": [
+  {
+   "brand": "Asus",
+   "name": "Smartphone for Snapdragon Insiders",
+   "device": "ASUS_I007_1"
+  }
+ ],
  "T10xTA": [
   {
    "brand": "Asus",
@@ -29450,6 +29457,13 @@
    "brand": "Chuwi",
    "name": "Hi9Pro",
    "device": "Hi9Pro"
+  }
+ ],
+ "HiPad-Air": [
+  {
+   "brand": "Chuwi",
+   "name": "HiPad-Air",
+   "device": "HiPad-Air"
   }
  ],
  "HiPadPlus": [
@@ -49680,6 +49694,18 @@
    "device": "FANS7"
   }
  ],
+ "G-TiDE_H1_4G": [
+  {
+   "brand": "G-TiDE",
+   "name": "G-TiDE_H1_4G",
+   "device": "G-TiDE_H1_4G"
+  },
+  {
+   "brand": "G-TiDE",
+   "name": "PL1080",
+   "device": "G-TiDE_H1_4G_EEA"
+  }
+ ],
  "G-TiDE_H1_EEA": [
   {
    "brand": "G-TiDE",
@@ -49699,13 +49725,6 @@
    "brand": "G-TiDE",
    "name": "G-TiDE_P1_4G",
    "device": "G-TiDE_P1_4G"
-  }
- ],
- "G-TiDE_H1_4G": [
-  {
-   "brand": "G-TiDE",
-   "name": "PL1080",
-   "device": "G-TiDE_H1_4G_EEA"
   }
  ],
  "EX10": [
@@ -81679,6 +81698,13 @@
    "brand": "Infinix",
    "name": "NOTE 10 Pro",
    "device": "Infinix-X695D"
+  }
+ ],
+ "Infinix X697": [
+  {
+   "brand": "Infinix",
+   "name": "NOTE 11 Pro",
+   "device": "Infinix-X697"
   }
  ],
  "Infinix NOTE 3": [
@@ -131214,6 +131240,18 @@
    "device": "stephen"
   }
  ],
+ "sti6140d360": [
+  {
+   "brand": "Onn (Walmart)",
+   "name": "OnnTVbox",
+   "device": "sti6140d360"
+  },
+  {
+   "brand": "Onn (Walmart)",
+   "name": "sti6140d360",
+   "device": "sti6140d360"
+  }
+ ],
  "TBBVNC100005207": [
   {
    "brand": "Onn (Walmart)",
@@ -131240,13 +131278,6 @@
    "brand": "Onn (Walmart)",
    "name": "W723",
    "device": "W723"
-  }
- ],
- "sti6140d360": [
-  {
-   "brand": "Onn (Walmart)",
-   "name": "sti6140d360",
-   "device": "sti6140d360"
   }
  ],
  "DIW387_UHD_OOR": [
@@ -149225,6 +149256,13 @@
    "device": "camellian"
   }
  ],
+ "XIG02": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 10 JE",
+   "device": "XIG02"
+  }
+ ],
  "M2101K6G": [
   {
    "brand": "Redmi",
@@ -156905,6 +156943,13 @@
    "brand": "Samsung",
    "name": "Galaxy F41",
    "device": "f41"
+  }
+ ],
+ "SM-E426B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy F42 5G",
+   "device": "f42x"
   }
  ],
  "SM-E5260": [
@@ -169454,13 +169499,6 @@
    "brand": "Samsung",
    "name": "Galaxy Wide4",
    "device": "a20"
-  }
- ],
- "SM-E426B": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Wide5",
-   "device": "f42x"
   }
  ],
  "SM-E426S": [
@@ -183421,6 +183459,13 @@
   }
  ],
  "8491X": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 10L",
+   "device": "Aquaman_10_Smart_WIFI"
+  }
+ ],
+ "8491X_EEA": [
   {
    "brand": "TCL",
    "name": "TCL TAB 10L",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-09-24
+Last sync is 2021-09-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1643,6 +1643,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ROG Phone ll|ASUS_I001_1|ASUS_I001DE|
 |Asus|ROG Phone ll|ASUS_I001_1|ZS660KL|
 |Asus|RTC-700A|RTC-tablet|RTC-tablet|
+|Asus|Smartphone for Snapdragon Insiders|ASUS_I007_1|ASUS_I007D|
 |Asus|T101TA|T10xTA|T10xTA|
 |Asus|TF700T|TF700T|ASUS Pad TF700T|
 |Asus|TF700T|TF700T|ASUS Transformer Pad TF700T|
@@ -3924,6 +3925,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Chuwi|CHUWI|Hi9Air|Hi9Air|
 |Chuwi|Hi9|Hi9|Hi9|
 |Chuwi|Hi9Pro|Hi9Pro|Hi9Pro|
+|Chuwi|HiPad-Air|HiPad-Air|HiPad-Air|
 |Chuwi|HiPadPlus_11_EEA|HiPadPlus|HiPadPlus|
 |Chuwi|HiPadPlus_EEA|HiPadPlus|HiPad Plus|
 |Chuwi|HiPadPlus_ROW|HiPadPlus|HiPadPlus|
@@ -6785,6 +6787,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-TiDE|EX750|EX750|EX750|
 |G-TiDE|EXTREME X9|EXTREME_X9|EXTREME X9|
 |G-TiDE|FANS7|FANS7|G-TiDE FANS7|
+|G-TiDE|G-TiDE_H1_4G|G-TiDE_H1_4G|G-TiDE_H1_4G|
 |G-TiDE|G-TiDE_H1_EEA|G-TiDE_H1_EEA|G-TiDE_H1_EEA|
 |G-TiDE|G-TiDE_P1|G-TiDE_P1|G-TiDE_P1|
 |G-TiDE|G-TiDE_P1_4G|G-TiDE_P1_4G|G-TiDE_P1_4G|
@@ -11550,6 +11553,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|NOTE 10 Pro|Infinix-X695|Infinix X695|
 |Infinix|NOTE 10 Pro|Infinix-X695C|Infinix X695C|
 |Infinix|NOTE 10 Pro|Infinix-X695D|Infinix X695D|
+|Infinix|NOTE 11 Pro|Infinix-X697|Infinix X697|
 |Infinix|NOTE 3|X601|Infinix NOTE 3|
 |Infinix|NOTE 3 Pro|X601-3G|Infinix NOTE 3 Pro|
 |Infinix|NOTE 3 Pro|X601-LTE|Infinix NOTE 3 Pro|
@@ -19071,6 +19075,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Onn (Walmart)|ONA19TB003|ONA19TB003|ONA19TB003|
 |Onn (Walmart)|ONA19TB007|ONA19TB007|ONA19TB007|
 |Onn (Walmart)|Onn 2k TV stick|stephen|Onn 2k TV stick|
+|Onn (Walmart)|OnnTVbox|sti6140d360|sti6140d360|
 |Onn (Walmart)|TBBVNC100005207|TBBVNC100005207|TBBVNC100005207|
 |Onn (Walmart)|TBBVNC100005208|TBBVNC100005208|TBBVNC100005208|
 |Onn (Walmart)|TBBVNC100005209|TBBVNC100005209|TBBVNC100005209|
@@ -21816,6 +21821,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 10|sunny|M2101K7AG|
 |Redmi|Redmi Note 10|sunny|M2101K7AI|
 |Redmi|Redmi Note 10 5G|camellian|M2103K19G|
+|Redmi|Redmi Note 10 JE|XIG02|XIG02|
 |Redmi|Redmi Note 10 Pro|sweet|M2101K6G|
 |Redmi|Redmi Note 10 Pro|sweetin|M2101K6P|
 |Redmi|Redmi Note 10 Pro Max|sweetin|M2101K6I|
@@ -22959,6 +22965,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy F12|f12|SM-F127G|
 |Samsung|Galaxy F22|f22|SM-E225F|
 |Samsung|Galaxy F41|f41|SM-F415F|
+|Samsung|Galaxy F42 5G|f42x|SM-E426B|
 |Samsung|Galaxy F52 5G|f52x|SM-E5260|
 |Samsung|Galaxy F62|f62|SM-E625F|
 |Samsung|Galaxy Fame|SCH-I629|SCH-I629|
@@ -24790,7 +24797,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Wide2|j7popelteskt|SM-J727S|
 |Samsung|Galaxy Wide3|j7toplteskt|SM-J737S|
 |Samsung|Galaxy Wide4|a20|SM-A205S|
-|Samsung|Galaxy Wide5|f42x|SM-E426B|
 |Samsung|Galaxy Wide5|f42x|SM-E426S|
 |Samsung|Galaxy Win|delos3gcmcc|GT-I8558|
 |Samsung|Galaxy Win|delos3gduosctc|SCH-I869|
@@ -26936,6 +26942,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 10 HD 4G|Aquaman_10_Pro|9060X_EEA|
 |TCL|TCL TAB 10 SMART|Aquaman_10_4G|8094T|
 |TCL|TCL TAB 10L|Aquaman_10_Smart_WIFI|8491X|
+|TCL|TCL TAB 10L|Aquaman_10_Smart_WIFI|8491X_EEA|
 |TCL|TCL TAB 10L|Aquaman_10_Smart_WIFI|8491X_TR|
 |TCL|TCL TAB 10s|Aquaman_10_Pro|9061|
 |TCL|TCL TAB 10s|Odin|9081X|

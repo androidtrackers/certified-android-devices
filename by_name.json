@@ -18554,6 +18554,13 @@
    "model": "RTC-tablet"
   }
  ],
+ "Smartphone for Snapdragon Insiders": [
+  {
+   "brand": "Asus",
+   "device": "ASUS_I007_1",
+   "model": "ASUS_I007D"
+  }
+ ],
  "T101TA": [
   {
    "brand": "Asus",
@@ -35609,6 +35616,13 @@
    "brand": "Chuwi",
    "device": "Hi9Pro",
    "model": "Hi9Pro"
+  }
+ ],
+ "HiPad-Air": [
+  {
+   "brand": "Chuwi",
+   "device": "HiPad-Air",
+   "model": "HiPad-Air"
   }
  ],
  "HiPadPlus_11_EEA": [
@@ -55993,6 +56007,13 @@
    "brand": "G-TiDE",
    "device": "FANS7",
    "model": "G-TiDE FANS7"
+  }
+ ],
+ "G-TiDE_H1_4G": [
+  {
+   "brand": "G-TiDE",
+   "device": "G-TiDE_H1_4G",
+   "model": "G-TiDE_H1_4G"
   }
  ],
  "G-TiDE_H1_EEA": [
@@ -83927,6 +83948,13 @@
    "brand": "Infinix",
    "device": "Infinix-X695D",
    "model": "Infinix X695D"
+  }
+ ],
+ "NOTE 11 Pro": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X697",
+   "model": "Infinix X697"
   }
  ],
  "NOTE 3": [
@@ -128788,6 +128816,13 @@
    "model": "Onn 2k TV stick"
   }
  ],
+ "OnnTVbox": [
+  {
+   "brand": "Onn (Walmart)",
+   "device": "sti6140d360",
+   "model": "sti6140d360"
+  }
+ ],
  "TBBVNC100005207": [
   {
    "brand": "Onn (Walmart)",
@@ -146061,6 +146096,13 @@
    "model": "M2103K19G"
   }
  ],
+ "Redmi Note 10 JE": [
+  {
+   "brand": "Redmi",
+   "device": "XIG02",
+   "model": "XIG02"
+  }
+ ],
  "Redmi Note 10 Pro": [
   {
    "brand": "Redmi",
@@ -152533,6 +152575,13 @@
    "brand": "Samsung",
    "device": "f41",
    "model": "SM-F415F"
+  }
+ ],
+ "Galaxy F42 5G": [
+  {
+   "brand": "Samsung",
+   "device": "f42x",
+   "model": "SM-E426B"
   }
  ],
  "Galaxy F52 5G": [
@@ -162499,11 +162548,6 @@
   }
  ],
  "Galaxy Wide5": [
-  {
-   "brand": "Samsung",
-   "device": "f42x",
-   "model": "SM-E426B"
-  },
   {
    "brand": "Samsung",
    "device": "f42x",
@@ -175477,6 +175521,11 @@
    "brand": "TCL",
    "device": "Aquaman_10_Smart_WIFI",
    "model": "8491X"
+  },
+  {
+   "brand": "TCL",
+   "device": "Aquaman_10_Smart_WIFI",
+   "model": "8491X_EEA"
   },
   {
    "brand": "TCL",

@@ -15132,6 +15132,13 @@
    "model": "RTC-tablet"
   }
  ],
+ "ASUS_I007_1": [
+  {
+   "brand": "Asus",
+   "name": "Smartphone for Snapdragon Insiders",
+   "model": "ASUS_I007D"
+  }
+ ],
  "T10xTA": [
   {
    "brand": "Asus",
@@ -31251,6 +31258,13 @@
    "brand": "Chuwi",
    "name": "Hi9Pro",
    "model": "Hi9Pro"
+  }
+ ],
+ "HiPad-Air": [
+  {
+   "brand": "Chuwi",
+   "name": "HiPad-Air",
+   "model": "HiPad-Air"
   }
  ],
  "HiPadPlus": [
@@ -51964,6 +51978,13 @@
    "brand": "G-TiDE",
    "name": "FANS7",
    "model": "G-TiDE FANS7"
+  }
+ ],
+ "G-TiDE_H1_4G": [
+  {
+   "brand": "G-TiDE",
+   "name": "G-TiDE_H1_4G",
+   "model": "G-TiDE_H1_4G"
   }
  ],
  "G-TiDE_H1_EEA": [
@@ -79348,6 +79369,11 @@
   {
    "brand": "TCL",
    "name": "TCL TAB 10L",
+   "model": "8491X_EEA"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 10L",
    "model": "8491X_TR"
   },
   {
@@ -80740,6 +80766,13 @@
    "brand": "Infinix",
    "name": "NOTE 10 Pro",
    "model": "Infinix X695D"
+  }
+ ],
+ "Infinix-X697": [
+  {
+   "brand": "Infinix",
+   "name": "NOTE 11 Pro",
+   "model": "Infinix X697"
   }
  ],
  "X601": [
@@ -128451,6 +128484,18 @@
    "model": "Onn 2k TV stick"
   }
  ],
+ "sti6140d360": [
+  {
+   "brand": "Onn (Walmart)",
+   "name": "OnnTVbox",
+   "model": "sti6140d360"
+  },
+  {
+   "brand": "Onn (Walmart)",
+   "name": "sti6140d360",
+   "model": "sti6140d360"
+  }
+ ],
  "TBBVNC100005207": [
   {
    "brand": "Onn (Walmart)",
@@ -128477,13 +128522,6 @@
    "brand": "Onn (Walmart)",
    "name": "W723",
    "model": "W723"
-  }
- ],
- "sti6140d360": [
-  {
-   "brand": "Onn (Walmart)",
-   "name": "sti6140d360",
-   "model": "sti6140d360"
   }
  ],
  "diw387oor": [
@@ -145716,6 +145754,13 @@
    "model": "M2103K19G"
   }
  ],
+ "XIG02": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 10 JE",
+   "model": "XIG02"
+  }
+ ],
  "sweet": [
   {
    "brand": "Redmi",
@@ -152755,6 +152800,18 @@
    "brand": "Samsung",
    "name": "Galaxy F41",
    "model": "SM-F415F"
+  }
+ ],
+ "f42x": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy F42 5G",
+   "model": "SM-E426B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Wide5",
+   "model": "SM-E426S"
   }
  ],
  "f52x": [
@@ -164397,18 +164454,6 @@
    "brand": "Samsung",
    "name": "Galaxy Wide3",
    "model": "SM-J737S"
-  }
- ],
- "f42x": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Wide5",
-   "model": "SM-E426B"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Wide5",
-   "model": "SM-E426S"
   }
  ],
  "delos3gcmcc": [

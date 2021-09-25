@@ -8491,6 +8491,11 @@
    "model": "RTC-tablet"
   },
   {
+   "device": "ASUS_I007_1",
+   "name": "Smartphone for Snapdragon Insiders",
+   "model": "ASUS_I007D"
+  },
+  {
    "device": "T10xTA",
    "name": "T101TA",
    "model": "T10xTA"
@@ -20304,6 +20309,11 @@
    "device": "Hi9Pro",
    "name": "Hi9Pro",
    "model": "Hi9Pro"
+  },
+  {
+   "device": "HiPad-Air",
+   "name": "HiPad-Air",
+   "model": "HiPad-Air"
   },
   {
    "device": "HiPadPlus",
@@ -35225,6 +35235,11 @@
    "device": "FANS7",
    "name": "FANS7",
    "model": "G-TiDE FANS7"
+  },
+  {
+   "device": "G-TiDE_H1_4G",
+   "name": "G-TiDE_H1_4G",
+   "model": "G-TiDE_H1_4G"
   },
   {
    "device": "G-TiDE_H1_EEA",
@@ -59460,6 +59475,11 @@
    "device": "Infinix-X695D",
    "name": "NOTE 10 Pro",
    "model": "Infinix X695D"
+  },
+  {
+   "device": "Infinix-X697",
+   "name": "NOTE 11 Pro",
+   "model": "Infinix X697"
   },
   {
    "device": "X601",
@@ -98057,6 +98077,11 @@
    "model": "Onn 2k TV stick"
   },
   {
+   "device": "sti6140d360",
+   "name": "OnnTVbox",
+   "model": "sti6140d360"
+  },
+  {
    "device": "TBBVNC100005207",
    "name": "TBBVNC100005207",
    "model": "TBBVNC100005207"
@@ -112104,6 +112129,11 @@
    "model": "M2103K19G"
   },
   {
+   "device": "XIG02",
+   "name": "Redmi Note 10 JE",
+   "model": "XIG02"
+  },
+  {
    "device": "sweet",
    "name": "Redmi Note 10 Pro",
    "model": "M2101K6G"
@@ -117989,6 +118019,11 @@
    "device": "f41",
    "name": "Galaxy F41",
    "model": "SM-F415F"
+  },
+  {
+   "device": "f42x",
+   "name": "Galaxy F42 5G",
+   "model": "SM-E426B"
   },
   {
    "device": "f52x",
@@ -127144,11 +127179,6 @@
    "device": "a20",
    "name": "Galaxy Wide4",
    "model": "SM-A205S"
-  },
-  {
-   "device": "f42x",
-   "name": "Galaxy Wide5",
-   "model": "SM-E426B"
   },
   {
    "device": "f42x",
@@ -138158,6 +138188,11 @@
    "device": "Aquaman_10_Smart_WIFI",
    "name": "TCL TAB 10L",
    "model": "8491X"
+  },
+  {
+   "device": "Aquaman_10_Smart_WIFI",
+   "name": "TCL TAB 10L",
+   "model": "8491X_EEA"
   },
   {
    "device": "Aquaman_10_Smart_WIFI",
