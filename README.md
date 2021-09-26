@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-09-25
+Last sync is 2021-09-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5049,6 +5049,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Denver Electronics|TIQ-10|TIQ-10|TIQ-10|
 |Denver Electronics|TIQ-102|TIQ102|TIQ-102|
 |Denver Electronics|TIQ-104|TIQ104|TIQ-104|
+|Denver Electronics|TIQ-1049|TIQ-1049|TIQ-1049|
 |Denver Electronics|TIQ-70|TIQ-70|TIQ-70|
 |DiDi (Japan)|DDT-001|DDT-001|DDT-001|
 |DiMora Mobile|Adrenalin Pro|Adrenalin_Pro|Adrenalin Pro|
@@ -6207,6 +6208,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |F150|B2021_EEA|B2021|B2021|
 |F150|B2022_EEA|R2022|R2022|
 |F150|Bison2021_EEA|Bison2021|Bison2021|
+|F150|H2022_EEA|H2022|H2022|
 |F2 Mobile|C8Finger|C8Finger|C8Finger|
 |F2 Mobile|F2 F80s_plus|F80s_plus|F80s_plus|
 |F2 Mobile|F2_LT5216|LT5216|LT5216|
@@ -11583,7 +11585,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|S5 Pro|Infinix-X660|Infinix X660|
 |Infinix|S5 Pro|Infinix-X660B|Infinix X660B|
 |Infinix|S5 Pro|Infinix-X660C|Infinix X660C|
-|Infinix|SMART 5|Infinix-X657B|Infinix X657B|
 |Infinix|SMART 5|Infinix-X657C|Infinix X657C|
 |Infinix|SMART 5|Infinix-X688C|Infinix X688C|
 |Infinix|SMART 5(SMART 6)|Infinix-X657B|Infinix X657B|
@@ -18465,6 +18466,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Navon|NavonOrpheus3G2020|NavonOrpheus3G2020|NavonOrpheus3G2020|
 |Navon|Navon_IQ7_2020|Navon_IQ7_2020|IQ7|
 |Navon|Navon_IQ8_2021|Navon_IQ8_2021|IQ8|
+|Navon|Navon_IQ8_2021|Navon_SPT1100|Navon_SPT1100|
 |Navon|Navon_Orpheus_3G|Navon_Orpheus_3G|Navon Orpheus 3G|
 |Navon|Pad 10|Pad_10|Pad_10|
 |Navon|Platinum 10 3G|Platinum_10_3G|Platinum 10 3G|
@@ -21768,6 +21770,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi  7A|pine|Redmi 7A|
 |Redmi|Redmi  7A|pine|pine|
 |Redmi|Redmi  Note  7|lavender|Redmi Note 7|
+|Redmi|Redmi 10|eos|21061119DG|
+|Redmi|Redmi 10|selene|21061119AG|
+|Redmi|Redmi 10|selene|21061119AL|
 |Redmi|Redmi 10X|apricot|M2004J7AC|
 |Redmi|Redmi 10X|atom|M2004J7AC|
 |Redmi|Redmi 10X|atom|atom|
@@ -29998,6 +30003,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vida|VIDA_i501|VIDA_i501|VIDA_i501|
 |Vida|i-450|i-450|i-450|
 |Vida|i401|VIDA-i401|VIDA-i401|
+|Viettel|B866V2|MediaBox_B866V2|B866V2|
 |Viettel|V8802|V8802|V8802|
 |Viettel|ViettelTV 4K BOX|VTTV-SD4K-20|ViettelTV 4K BOX|
 |Viettel|ViettelTV 4K Box|HP40A|ViettelTV 4K Box|

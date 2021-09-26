@@ -39566,6 +39566,13 @@
    "model": "TIQ-104"
   }
  ],
+ "TIQ-1049": [
+  {
+   "brand": "Denver Electronics",
+   "name": "TIQ-1049",
+   "model": "TIQ-1049"
+  }
+ ],
  "TIQ-70": [
   {
    "brand": "Denver Electronics",
@@ -47761,6 +47768,13 @@
    "brand": "F150",
    "name": "Bison2021_EEA",
    "model": "Bison2021"
+  }
+ ],
+ "H2022": [
+  {
+   "brand": "F150",
+   "name": "H2022_EEA",
+   "model": "H2022"
   }
  ],
  "C8Finger": [
@@ -80135,11 +80149,6 @@
   {
    "brand": "Infinix",
    "name": "Infinix HOT 10 Lite",
-   "model": "Infinix X657B"
-  },
-  {
-   "brand": "Infinix",
-   "name": "SMART 5",
    "model": "Infinix X657B"
   },
   {
@@ -124746,6 +124755,13 @@
    "model": "IQ8"
   }
  ],
+ "Navon_SPT1100": [
+  {
+   "brand": "Navon",
+   "name": "Navon_IQ8_2021",
+   "model": "Navon_SPT1100"
+  }
+ ],
  "Navon_Orpheus_3G": [
   {
    "brand": "Navon",
@@ -145427,6 +145443,30 @@
    "brand": "ZTE",
    "name": "Z717VL",
    "model": "Z717VL"
+  }
+ ],
+ "eos": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10",
+   "model": "21061119DG"
+  },
+  {
+   "brand": "ZTE",
+   "name": "V72M",
+   "model": "V72M"
+  }
+ ],
+ "selene": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10",
+   "model": "21061119AG"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10",
+   "model": "21061119AL"
   }
  ],
  "apricot": [
@@ -195417,6 +195457,18 @@
    "model": "VIDA-i401"
   }
  ],
+ "MediaBox_B866V2": [
+  {
+   "brand": "Viettel",
+   "name": "B866V2",
+   "model": "B866V2"
+  },
+  {
+   "brand": "Vision",
+   "name": "B866V2",
+   "model": "B866V2"
+  }
+ ],
  "V8802": [
   {
    "brand": "Viettel",
@@ -195591,13 +195643,6 @@
    "brand": "Virzo",
    "name": "VT701",
    "model": "VT701"
-  }
- ],
- "MediaBox_B866V2": [
-  {
-   "brand": "Vision",
-   "name": "B866V2",
-   "model": "B866V2"
   }
  ],
  "PVT-8-A50-R1": [
@@ -211860,13 +211905,6 @@
    "brand": "ZTE",
    "name": "V72C",
    "model": "V72C"
-  }
- ],
- "eos": [
-  {
-   "brand": "ZTE",
-   "name": "V72M",
-   "model": "V72M"
   }
  ],
  "V769M": [

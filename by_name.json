@@ -43529,6 +43529,13 @@
    "model": "TIQ-104"
   }
  ],
+ "TIQ-1049": [
+  {
+   "brand": "Denver Electronics",
+   "device": "TIQ-1049",
+   "model": "TIQ-1049"
+  }
+ ],
  "TIQ-70": [
   {
    "brand": "Denver Electronics",
@@ -52001,6 +52008,13 @@
    "brand": "F150",
    "device": "Bison2021",
    "model": "Bison2021"
+  }
+ ],
+ "H2022_EEA": [
+  {
+   "brand": "F150",
+   "device": "H2022",
+   "model": "H2022"
   }
  ],
  "C8Finger": [
@@ -84080,11 +84094,6 @@
   }
  ],
  "SMART 5": [
-  {
-   "brand": "Infinix",
-   "device": "Infinix-X657B",
-   "model": "Infinix X657B"
-  },
   {
    "brand": "Infinix",
    "device": "Infinix-X657C",
@@ -125142,6 +125151,11 @@
    "brand": "Navon",
    "device": "Navon_IQ8_2021",
    "model": "IQ8"
+  },
+  {
+   "brand": "Navon",
+   "device": "Navon_SPT1100",
+   "model": "Navon_SPT1100"
   }
  ],
  "Navon_Orpheus_3G": [
@@ -145744,6 +145758,23 @@
    "brand": "Redmi",
    "device": "lavender",
    "model": "Redmi Note 7"
+  }
+ ],
+ "Redmi 10": [
+  {
+   "brand": "Redmi",
+   "device": "eos",
+   "model": "21061119DG"
+  },
+  {
+   "brand": "Redmi",
+   "device": "selene",
+   "model": "21061119AG"
+  },
+  {
+   "brand": "Redmi",
+   "device": "selene",
+   "model": "21061119AL"
   }
  ],
  "Redmi 10X": [
@@ -193153,6 +193184,18 @@
    "model": "VIDA-i401"
   }
  ],
+ "B866V2": [
+  {
+   "brand": "Viettel",
+   "device": "MediaBox_B866V2",
+   "model": "B866V2"
+  },
+  {
+   "brand": "Vision",
+   "device": "MediaBox_B866V2",
+   "model": "B866V2"
+  }
+ ],
  "V8802": [
   {
    "brand": "Viettel",
@@ -193306,13 +193349,6 @@
    "brand": "Virzo",
    "device": "VT701",
    "model": "VT701"
-  }
- ],
- "B866V2": [
-  {
-   "brand": "Vision",
-   "device": "MediaBox_B866V2",
-   "model": "B866V2"
   }
  ],
  "Bangladesh": [
