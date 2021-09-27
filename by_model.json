@@ -14853,6 +14853,18 @@
    "device": "ZT-701"
   }
  ],
+ "MID": [
+  {
+   "brand": "AthenaStellar",
+   "name": "MAT80211",
+   "device": "MAT80211"
+  },
+  {
+   "brand": "Mpgio",
+   "name": "ATHENA_X",
+   "device": "MID"
+  }
+ ],
  "AP5701": [
   {
    "brand": "Athesi",
@@ -39335,6 +39347,13 @@
    "device": "T10K_Plus"
   }
  ],
+ "T7K_PLUS_SE3_EEA": [
+  {
+   "brand": "Diva",
+   "name": "T7K_PLUS_SE3_EEA",
+   "device": "T7K_PLUS_SE3_EEA"
+  }
+ ],
  "ACK1010": [
   {
    "brand": "Dixon",
@@ -40131,6 +40150,16 @@
   },
   {
    "brand": "qunyiCO",
+   "name": "Y10_1",
+   "device": "Y10_1"
+  },
+  {
+   "brand": "qunyiCO",
+   "name": "Y10_1_EEA",
+   "device": "Y10_1_EEA"
+  },
+  {
+   "brand": "qunyiCO",
    "name": "Y10_EEA",
    "device": "Y10_EEA"
   }
@@ -40171,6 +40200,16 @@
    "brand": "qunyiCO",
    "name": "Y7",
    "device": "Y7"
+  },
+  {
+   "brand": "qunyiCO",
+   "name": "Y7",
+   "device": "Y7_0"
+  },
+  {
+   "brand": "qunyiCO",
+   "name": "Y7",
+   "device": "Y7_0_EEA"
   },
   {
    "brand": "qunyiCO",
@@ -41832,6 +41871,13 @@
    "brand": "EONSmartBox",
    "name": "SDOTT0202",
    "device": "DV8519"
+  }
+ ],
+ "TAB-001": [
+  {
+   "brand": "EPI(Columbia)",
+   "name": "TAB-001",
+   "device": "TAB-001"
   }
  ],
  "K400": [
@@ -51585,6 +51631,13 @@
    "brand": "Gigaset",
    "name": "GS290",
    "device": "GS290"
+  }
+ ],
+ "E940-2796-00": [
+  {
+   "brand": "Gigaset",
+   "name": "GS5",
+   "device": "GS5"
   }
  ],
  "GS80": [
@@ -91669,6 +91722,13 @@
    "device": "LAMZIEN_P2"
   }
  ],
+ "AI System EN P133-01": [
+  {
+   "brand": "LAUNCH",
+   "name": "X-431 PAD VII",
+   "device": "X-431PADVII"
+  }
+ ],
  "K102L": [
   {
    "brand": "LBQ (UK)",
@@ -123631,13 +123691,6 @@
    "device": "ATHENA_A10"
   }
  ],
- "MID": [
-  {
-   "brand": "Mpgio",
-   "name": "ATHENA_X",
-   "device": "MID"
-  }
- ],
  "LEGEND_EZ": [
   {
    "brand": "Mpgio",
@@ -129752,6 +129805,13 @@
    "brand": "Nuu",
    "name": "A7L",
    "device": "N5002LE"
+  }
+ ],
+ "S6701L": [
+  {
+   "brand": "Nuu",
+   "name": "B15",
+   "device": "S6701LA"
   }
  ],
  "N5704L": [
@@ -152194,6 +152254,13 @@
    "device": "SC-2110"
   }
  ],
+ "SC-2110A": [
+  {
+   "brand": "SUPERSONIC",
+   "name": "SC-2110A",
+   "device": "SC_2110A"
+  }
+ ],
  "SC-4317BT": [
   {
    "brand": "SUPERSONIC",
@@ -174345,6 +174412,13 @@
    "brand": "Silver line",
    "name": "SL1021",
    "device": "SL1021"
+  }
+ ],
+ "SL1022": [
+  {
+   "brand": "Silver line",
+   "name": "SL1022",
+   "device": "SL1022"
   }
  ],
  "SL1068": [
@@ -205191,6 +205265,13 @@
    "device": "PD2123"
   }
  ],
+ "V2129": [
+  {
+   "brand": "Vivo",
+   "name": "V2129",
+   "device": "2129"
+  }
+ ],
  "V2130A": [
   {
    "brand": "Vivo",
@@ -207929,6 +208010,13 @@
    "device": "SEI500W"
   }
  ],
+ "3W_EEA": [
+  {
+   "brand": "WOZIFAN",
+   "name": "3W_EEA",
+   "device": "W3_EEA"
+  }
+ ],
  "3W_US": [
   {
    "brand": "WOZIFAN",
@@ -210288,6 +210376,13 @@
    "device": "W-K610"
   }
  ],
+ "W-K610-SUI": [
+  {
+   "brand": "Wiko",
+   "name": "Y62 Plus",
+   "device": "W-K610"
+  }
+ ],
  "W-V720-CA": [
   {
    "brand": "Wiko",
@@ -210349,6 +210444,13 @@
    "brand": "Wiko",
    "name": "Y81",
    "device": "W-V680"
+  }
+ ],
+ "W-K630-EEA": [
+  {
+   "brand": "Wiko",
+   "name": "Y82",
+   "device": "W-K630"
   }
  ],
  "W-K360-TV": [
@@ -213299,6 +213401,13 @@
    "brand": "YOSATOO",
    "name": "KIDS07A",
    "device": "KIDS07A"
+  }
+ ],
+ "Y101": [
+  {
+   "brand": "YOSATOO",
+   "name": "Y101",
+   "device": "Y101"
   }
  ],
  "M60_EEA": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-09-26
+Last sync is 2021-09-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1908,6 +1908,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|飛馬 5000 (T551TLC)|ASUS_X005|ASUS_X005|
 |Asus|飛馬2 Plus (T550KLC)|ASUS_X550|ASUS_X550|
 |AtGames-zooti|ZOOTI PAD ZT-701|ZT-701|ZT-701|
+|AthenaStellar|MAT80211|MAT80211|MID|
 |Athesi|AP5701|AP5701|AP5701|
 |Athesi|AP5801|AP5801|AP5801|
 |Athesi|AP6301|AP6301|AP6301|
@@ -5331,6 +5332,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Diva|QC7704GM|QC7704GM|QC7704GM|
 |Diva|QC804GM|QC804GM|QC804GM|
 |Diva|T10K_Plus|T10K_Plus|T10K_Plus|
+|Diva|T7K_PLUS_SE3_EEA|T7K_PLUS_SE3_EEA|T7K_PLUS_SE3_EEA|
 |Dixon|ACK1010|ACK1010|ACK1010|
 |Dixon|DFM48|DFM48|DFM48|
 |Dixon|DN6015|DN6015|DN6015|
@@ -5692,6 +5694,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ENTITY|GDENTMY7317|GDENTMY7317|GDENTMY7317|
 |EONSmartBox|CHOTT0102|CHOTT0102|CHOTT0102|
 |EONSmartBox|SDOTT0202|DV8519|SDOTT0202|
+|EPI(Columbia)|TAB-001|TAB-001|TAB-001|
 |EPIKONE|K400|K400|K400|
 |EPIKONE|K405|K405|K405|
 |EPIKONE|K406|K406|K406|
@@ -7059,6 +7062,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gigaset|GS195|GS195|GS195|
 |Gigaset|GS280|GS280|GS280|
 |Gigaset|GS290|GS290|GS290|
+|Gigaset|GS5|GS5|E940-2796-00|
 |Gigaset|GS80|GS80|GS80|
 |Gigaset|GX290|GX290|GX290|
 |Gigaset|Gigaset GS170|GS170|Gigaset GS170|
@@ -13050,6 +13054,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kzen|Lamia_L01|Lamia_L01|Lamia L01|
 |LAMINA|LTT8A4G_EEA|LTT8A4G_EEA|LTT8A4G|
 |LAMZIEN|LAMZIEN_P2|LAMZIEN_P2|LAMZIEN_P2|
+|LAUNCH|X-431 PAD VII|X-431PADVII|AI System EN P133-01|
 |LBQ (UK)|LbQ-F10v2|LbQ-F10v2|K102L|
 |LBQ (UK)|LbQ_F8v2|LbQ_F8v2|LbQ-F8v2|
 |LEGEND|ACE_I|ACE_I|ACE_I|
@@ -18826,6 +18831,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuu|A7L|N5002LA|N5002L|
 |Nuu|A7L|N5002LATC|N5002L|
 |Nuu|A7L|N5002LE|N5002L|
+|Nuu|B15|S6701LA|S6701L|
 |Nuu|G1|N5704LA|N5704L|
 |Nuu|G2|S6001LE|S6001L|
 |Nuu|G4|N6201L|N6201L|
@@ -22284,6 +22290,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SUNWIND|SUNWIND_SKY_7_E200_3G|ST7230MG|SUNWIND SKY 7 E200 3G ST7230MG|
 |SUPERSONIC|SC-2109|SC-2109|SC-2109|
 |SUPERSONIC|SC-2110|SC-2110|SC-2110|
+|SUPERSONIC|SC-2110A|SC_2110A|SC-2110A|
 |SUPERSONIC|SC-4317BT|SC-4317BT|SC-4317BT|
 |SUPERSONIC|SC-774KT|SC-774KT|SC-774KT|
 |SUPERSONIC|SC-813|SC-813|SC-813|
@@ -25523,6 +25530,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sigma Mobile|X_style_Tab_A83|X_style_Tab_A83|X_style_Tab_A83|
 |Silent Circle|Blackphone 2|BP2|Blackphone 2|
 |Silver line|SL1021|SL1021|SL1021|
+|Silver line|SL1022|SL1022|SL1022|
 |Silver line|SL1068|SL1068|SL1068|
 |Silver line|SL1069|SL1069|SL1069|
 |Silver line|SL721|SL721|SL721|
@@ -30260,6 +30268,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2118A|PD2118|V2118A|
 |Vivo|V2121A|PD2121|V2121A|
 |Vivo|V2123A|PD2123|V2123A|
+|Vivo|V2129|2129|V2129|
 |Vivo|V2130A|PD2130|V2130A|
 |Vivo|V2131A|PD2131|V2131A|
 |Vivo|V2132A|PD2134|V2132A|
@@ -30689,6 +30698,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |WOM|SEI500W|SEI500W|WOM|
 |WONGKUO|T10|T10|T10|
 |WONGKUO|T20|T20|T20|
+|WOZIFAN|3W_EEA|W3_EEA|3W_EEA|
 |WOZIFAN|3W_US|W3_US|3W_US|
 |Wacom|Cintiq Companion Hybrid 13HD|CintiqCompanionHybrid13HD|Cintiq Companion Hybrid 13HD|
 |Waf|F803YM|F803YM|F803YM|
@@ -31061,6 +31071,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|Y62|W-K610|W-K610-OPE|
 |Wiko|Y62|W-K610|W-K610-TVM|
 |Wiko|Y62 Plus|W-K610|W-K610-FRA|
+|Wiko|Y62 Plus|W-K610|W-K610-SUI|
 |Wiko|Y80|W-V720|W-V720-CA|
 |Wiko|Y80|W-V720|W-V720-EEA|
 |Wiko|Y80|W-V720|W-V720-OPE|
@@ -31070,6 +31081,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|Y81|W-V680|W-V680-ID|
 |Wiko|Y81|W-V680|W-V680-OPE|
 |Wiko|Y81|W-V680|W-V680-SUN|
+|Wiko|Y82|W-K630|W-K630-EEA|
 |Wiko|sunny4 Plus|W-K360|W-K360-TV|
 |Wileyfox|Spark|porridge|Wileyfox Spark|
 |Wileyfox|Spark|porridge|Wileyfox Spark +|
@@ -31551,6 +31563,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |YELLYOUTH|TAB_101|TAB_101|TAB_101|
 |YETRUE|yetruepad21|yetruepad21_EEA|yetruepad21|
 |YOSATOO|KIDS07A|KIDS07A|KIDS07A|
+|YOSATOO|Y101|Y101|Y101|
 |YOTOPT|M60_EEA|M60_EEA|M60_EEA|
 |YOTOPT|Q11-EEA|Q11-EEA|Q11-EEA|
 |YOTOPT|X109|X109|X109|
@@ -33877,8 +33890,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |pendo|PNDPP44QC10|PNDPP44QC10|PNDPP44QC10|
 |pendo|PNDPP44QC7|PNDPP44QC7|PNDPP44QC7|
 |qunyiCO|Y10|Y10|Y10|
+|qunyiCO|Y10_1|Y10_1|Y10|
+|qunyiCO|Y10_1_EEA|Y10_1_EEA|Y10|
 |qunyiCO|Y10_EEA|Y10_EEA|Y10|
 |qunyiCO|Y7|Y7|Y7|
+|qunyiCO|Y7|Y7_0|Y7|
+|qunyiCO|Y7|Y7_0_EEA|Y7|
 |qunyiCO|Y7_EEA|Y7_EEA|Y7|
 |redfox|Valuer_V8|Valuer_V8|Valuer_V8|
 |redfox|Wizpad_Valuer_V8|wvv832|Wizpad_Valuer_V8|

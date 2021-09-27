@@ -9818,6 +9818,13 @@
    "model": "ZT-701"
   }
  ],
+ "AthenaStellar": [
+  {
+   "device": "MAT80211",
+   "name": "MAT80211",
+   "model": "MID"
+  }
+ ],
  "Athesi": [
   {
    "device": "AP5701",
@@ -27603,6 +27610,11 @@
    "device": "T10K_Plus",
    "name": "T10K_Plus",
    "model": "T10K_Plus"
+  },
+  {
+   "device": "T7K_PLUS_SE3_EEA",
+   "name": "T7K_PLUS_SE3_EEA",
+   "model": "T7K_PLUS_SE3_EEA"
   }
  ],
  "Dixon": [
@@ -29494,6 +29506,13 @@
    "device": "DV8519",
    "name": "SDOTT0202",
    "model": "SDOTT0202"
+  }
+ ],
+ "EPI(Columbia)": [
+  {
+   "device": "TAB-001",
+   "name": "TAB-001",
+   "model": "TAB-001"
   }
  ],
  "EPIKONE": [
@@ -36695,6 +36714,11 @@
    "device": "GS290",
    "name": "GS290",
    "model": "GS290"
+  },
+  {
+   "device": "GS5",
+   "name": "GS5",
+   "model": "E940-2796-00"
   },
   {
    "device": "GS80",
@@ -67228,6 +67252,13 @@
    "model": "LAMZIEN_P2"
   }
  ],
+ "LAUNCH": [
+  {
+   "device": "X-431PADVII",
+   "name": "X-431 PAD VII",
+   "model": "AI System EN P133-01"
+  }
+ ],
  "LBQ (UK)": [
   {
    "device": "LbQ-F10v2",
@@ -96740,6 +96771,11 @@
    "model": "N5002L"
   },
   {
+   "device": "S6701LA",
+   "name": "B15",
+   "model": "S6701L"
+  },
+  {
    "device": "N5704LA",
    "name": "G1",
    "model": "N5704L"
@@ -114600,6 +114636,11 @@
    "model": "SC-2110"
   },
   {
+   "device": "SC_2110A",
+   "name": "SC-2110A",
+   "model": "SC-2110A"
+  },
+  {
    "device": "SC-4317BT",
    "name": "SC-4317BT",
    "model": "SC-4317BT"
@@ -130891,6 +130932,11 @@
    "device": "SL1021",
    "name": "SL1021",
    "model": "SL1021"
+  },
+  {
+   "device": "SL1022",
+   "name": "SL1022",
+   "model": "SL1022"
   },
   {
    "device": "SL1068",
@@ -155276,6 +155322,11 @@
    "model": "V2123A"
   },
   {
+   "device": "2129",
+   "name": "V2129",
+   "model": "V2129"
+  },
+  {
    "device": "PD2130",
    "name": "V2130A",
    "model": "V2130A"
@@ -157483,6 +157534,11 @@
  ],
  "WOZIFAN": [
   {
+   "device": "W3_EEA",
+   "name": "3W_EEA",
+   "model": "3W_EEA"
+  },
+  {
    "device": "W3_US",
    "name": "3W_US",
    "model": "3W_US"
@@ -159389,6 +159445,11 @@
    "model": "W-K610-FRA"
   },
   {
+   "device": "W-K610",
+   "name": "Y62 Plus",
+   "model": "W-K610-SUI"
+  },
+  {
    "device": "W-V720",
    "name": "Y80",
    "model": "W-V720-CA"
@@ -159432,6 +159493,11 @@
    "device": "W-V680",
    "name": "Y81",
    "model": "W-V680-SUN"
+  },
+  {
+   "device": "W-K630",
+   "name": "Y82",
+   "model": "W-K630-EEA"
   },
   {
    "device": "W-K360",
@@ -161927,6 +161993,11 @@
    "device": "KIDS07A",
    "name": "KIDS07A",
    "model": "KIDS07A"
+  },
+  {
+   "device": "Y101",
+   "name": "Y101",
+   "model": "Y101"
   }
  ],
  "YOTOPT": [
@@ -173827,12 +173898,32 @@
    "model": "Y10"
   },
   {
+   "device": "Y10_1",
+   "name": "Y10_1",
+   "model": "Y10"
+  },
+  {
+   "device": "Y10_1_EEA",
+   "name": "Y10_1_EEA",
+   "model": "Y10"
+  },
+  {
    "device": "Y10_EEA",
    "name": "Y10_EEA",
    "model": "Y10"
   },
   {
    "device": "Y7",
+   "name": "Y7",
+   "model": "Y7"
+  },
+  {
+   "device": "Y7_0",
+   "name": "Y7",
+   "model": "Y7"
+  },
+  {
+   "device": "Y7_0_EEA",
    "name": "Y7",
    "model": "Y7"
   },
