@@ -13909,11 +13909,6 @@
    "model": "A7"
   },
   {
-   "device": "C6_R",
-   "name": "C6_R_GL",
-   "model": "C6"
-  },
-  {
    "device": "E5018",
    "name": "E5018",
    "model": "E5018"
@@ -13932,6 +13927,11 @@
    "device": "Bird_F15",
    "name": "F15",
    "model": "F15"
+  },
+  {
+   "device": "IC_51R",
+   "name": "IC_51R",
+   "model": "IC_51"
   },
   {
    "device": "Bird_S1",
@@ -17856,6 +17856,11 @@
   {
    "device": "C6_R",
    "name": "C6_R_EEA",
+   "model": "C6"
+  },
+  {
+   "device": "C6_R",
+   "name": "C6_R_GL",
    "model": "C6"
   },
   {
@@ -32397,6 +32402,11 @@
    "device": "FFFTAB10",
    "name": "FFFTAB10",
    "model": "FFFTAB10"
+  },
+  {
+   "device": "FFFTAB10a1",
+   "name": "FFFTAB10a1",
+   "model": "FFFTAB10a1"
   },
   {
    "device": "FFFTAB10a2",
@@ -80359,6 +80369,11 @@
    "model": "moto tab g20"
   },
   {
+   "device": "TB-J616N",
+   "name": "小新 Pad GT",
+   "model": "Lenovo TB-J616N"
+  },
+  {
    "device": "J716F",
    "name": "小新Pad Pro 2021",
    "model": "Lenovo TB-J716F"
@@ -83356,6 +83371,11 @@
    "model": "DV6067Y-T"
   },
   {
+   "device": "HY44G",
+   "name": "MagentaTV ONE",
+   "model": "MagentaTV ONE"
+  },
+  {
    "device": "DV6067Y",
    "name": "OTT-G1",
    "model": "OTT-G1"
@@ -84132,6 +84152,11 @@
    "device": "Astro_55N_LTE",
    "name": "Astro_55N_LTE",
    "model": "Astro 55N LTE"
+  },
+  {
+   "device": "Astro_5X",
+   "name": "Astro_5X",
+   "model": "Astro 5X"
   },
   {
    "device": "Astro_8Q",
@@ -88698,6 +88723,11 @@
    "device": "rover",
    "name": "TicWatch Pro 3",
    "model": "TicWatch Pro 3"
+  },
+  {
+   "device": "rover",
+   "name": "TicWatch Pro 3",
+   "model": "TicWatch Pro X"
   },
   {
    "device": "rover",
@@ -109789,6 +109819,11 @@
    "model": "QT2108BP"
   },
   {
+   "device": "QT2110BP",
+   "name": "QT2110BP",
+   "model": "QT2110BP"
+  },
+  {
    "device": "W55",
    "name": "W55",
    "model": "W55"
@@ -128717,6 +128752,11 @@
    "model": "AUTOID9N"
   },
   {
+   "device": "d550",
+   "name": "AUTOIDQ9G",
+   "model": "AUTOID Q9"
+  },
+  {
    "device": "d700s",
    "name": "CRUISE1",
    "model": "CRUISE1"
@@ -136828,6 +136868,11 @@
    "device": "duo",
    "name": "Surface Duo",
    "model": "Surface Duo"
+  },
+  {
+   "device": "duo2",
+   "name": "Surface Duo 2",
+   "model": "Surface Duo 2"
   }
  ],
  "Surfans": [
@@ -151111,6 +151156,11 @@
    "model": "BISON"
   },
   {
+   "device": "BISON_X10",
+   "name": "BISON X10",
+   "model": "RP01"
+  },
+  {
    "device": "BISON_GT",
    "name": "BISON_GT",
    "model": "BISON GT"
@@ -153512,6 +153562,11 @@
    "device": "ATLAS",
    "name": "V TAB Z1",
    "model": "V TAB Z1"
+  },
+  {
+   "device": "EKVATOR",
+   "name": "V TAB Z2 LTE",
+   "model": "V TAB Z2 LTE"
   },
   {
    "device": "MELTEM",
@@ -164755,6 +164810,11 @@
    "model": "Blade A5 2019-T"
   },
   {
+   "device": "P963F60",
+   "name": "Blade A51",
+   "model": "Blade A51"
+  },
+  {
    "device": "P635A50",
    "name": "Blade A510",
    "model": "Blade A510"
@@ -165850,6 +165910,11 @@
    "model": "K92"
   },
   {
+   "device": "K95",
+   "name": "K95L",
+   "model": "K95L"
+  },
+  {
    "device": "K97",
    "name": "K97",
    "model": "K97"
@@ -166898,6 +166963,11 @@
    "device": "P545",
    "name": "P545",
    "model": "P545"
+  },
+  {
+   "device": "P963F80",
+   "name": "P600",
+   "model": "P600"
   },
   {
    "device": "P609",
@@ -168775,6 +168845,11 @@
    "model": "Z5151V"
   },
   {
+   "device": "Z5158",
+   "name": "Z5158",
+   "model": "Z5158"
+  },
+  {
    "device": "Z557",
    "name": "Z557BL",
    "model": "Z557BL"
@@ -169440,6 +169515,11 @@
    "model": "ZTE A7030RU"
   },
   {
+   "device": "Z6556O",
+   "name": "ZTE A71 5G",
+   "model": "ZTE A71 5G"
+  },
+  {
    "device": "calbee",
    "name": "ZTE AVID 4",
    "model": "Z855"
@@ -169833,6 +169913,11 @@
    "device": "P932F21",
    "name": "ZTE Blade A31 Lite RU",
    "model": "ZTE Blade A31 Lite RU"
+  },
+  {
+   "device": "P963F80",
+   "name": "ZTE Blade A31 Plus RU",
+   "model": "ZTE Blade A31 Plus RU"
   },
   {
    "device": "P963F70",
@@ -171330,6 +171415,11 @@
    "device": "AURA_PLUS_JLO",
    "name": "AURA PLUS JLO",
    "model": "AURA PLUS JLO"
+  },
+  {
+   "device": "AURA_PRO",
+   "name": "AURA PRO",
+   "model": "AURA PRO"
   },
   {
    "device": "AURA_PRO_JLO",
@@ -173624,6 +173714,11 @@
   {
    "device": "MC432A_GWL",
    "name": "MC432",
+   "model": "MC432A_GWL"
+  },
+  {
+   "device": "MC432A_GWL",
+   "name": "MC432A_W",
    "model": "MC432A_GWL"
   },
   {

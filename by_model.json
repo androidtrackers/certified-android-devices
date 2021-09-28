@@ -20461,43 +20461,6 @@
    "device": "T4000"
   }
  ],
- "C6": [
-  {
-   "brand": "Bird",
-   "name": "C6_R_GL",
-   "device": "C6_R"
-  },
-  {
-   "brand": "Blu",
-   "name": "C6",
-   "device": "C031P"
-  },
-  {
-   "brand": "CILICO",
-   "name": "C6",
-   "device": "C6"
-  },
-  {
-   "brand": "CILICO",
-   "name": "C6_R_EEA",
-   "device": "C6_R"
-  },
-  {
-   "brand": "Handheld-Wireless",
-   "name": "C6",
-   "device": "C6"
-  },
-  {
-   "brand": "Handheld-Wireless",
-   "name": "C6_EEA",
-   "device": "C6"
-  },
-  {
-   "brand": "Handheld-Wireless",
-   "name": "C6_TU",
-   "device": "C6"
-  }
- ],
  "E5018": [
   {
    "brand": "Bird",
@@ -20529,6 +20492,18 @@
    "brand": "Bird",
    "name": "F15",
    "device": "Bird_F15"
+  }
+ ],
+ "IC_51": [
+  {
+   "brand": "Bird",
+   "name": "IC_51R",
+   "device": "IC_51R"
+  },
+  {
+   "brand": "ITOS",
+   "name": "IC-51",
+   "device": "IC_51"
   }
  ],
  "S1": [
@@ -22863,6 +22838,43 @@
    "brand": "Blu",
    "name": "C5X",
    "device": "C0010LL"
+  }
+ ],
+ "C6": [
+  {
+   "brand": "Blu",
+   "name": "C6",
+   "device": "C031P"
+  },
+  {
+   "brand": "CILICO",
+   "name": "C6",
+   "device": "C6"
+  },
+  {
+   "brand": "CILICO",
+   "name": "C6_R_EEA",
+   "device": "C6_R"
+  },
+  {
+   "brand": "CILICO",
+   "name": "C6_R_GL",
+   "device": "C6_R"
+  },
+  {
+   "brand": "Handheld-Wireless",
+   "name": "C6",
+   "device": "C6"
+  },
+  {
+   "brand": "Handheld-Wireless",
+   "name": "C6_EEA",
+   "device": "C6"
+  },
+  {
+   "brand": "Handheld-Wireless",
+   "name": "C6_TU",
+   "device": "C6"
   }
  ],
  "C6 2020": [
@@ -45665,6 +45677,13 @@
    "brand": "FFFSMARTLIFE",
    "name": "FFFTAB10",
    "device": "FFFTAB10"
+  }
+ ],
+ "FFFTAB10a1": [
+  {
+   "brand": "FFFSMARTLIFE",
+   "name": "FFFTAB10a1",
+   "device": "FFFTAB10a1"
   }
  ],
  "FFFTAB10a2": [
@@ -80366,13 +80385,6 @@
    "device": "ISCEDTAB21"
   }
  ],
- "IC_51": [
-  {
-   "brand": "ITOS",
-   "name": "IC-51",
-   "device": "IC_51"
-  }
- ],
  "IC_55": [
   {
    "brand": "ITOS",
@@ -109101,6 +109113,13 @@
    "device": "mototabg20"
   }
  ],
+ "Lenovo TB-J616N": [
+  {
+   "brand": "Lenovo",
+   "name": "小新 Pad GT",
+   "device": "TB-J616N"
+  }
+ ],
  "Lenovo TB-J716F": [
   {
    "brand": "Lenovo",
@@ -112828,6 +112847,13 @@
    "device": "DV6067Y_TVStick"
   }
  ],
+ "MagentaTV ONE": [
+  {
+   "brand": "MagentaTV",
+   "name": "MagentaTV ONE",
+   "device": "HY44G"
+  }
+ ],
  "OTT-G1": [
   {
    "brand": "MagentaTV",
@@ -113779,6 +113805,13 @@
    "brand": "Maxwest",
    "name": "Astro_55N_LTE",
    "device": "Astro_55N_LTE"
+  }
+ ],
+ "Astro 5X": [
+  {
+   "brand": "Maxwest",
+   "name": "Astro_5X",
+   "device": "Astro_5X"
   }
  ],
  "Astro 8Q": [
@@ -119659,6 +119692,13 @@
   {
    "brand": "Mobvoi",
    "name": "TicWatch Pro 3 Cellular/LTE",
+   "device": "rover"
+  }
+ ],
+ "TicWatch Pro X": [
+  {
+   "brand": "Mobvoi",
+   "name": "TicWatch Pro 3",
    "device": "rover"
   }
  ],
@@ -146299,6 +146339,13 @@
    "device": "QT2108BP"
   }
  ],
+ "QT2110BP": [
+  {
+   "brand": "Qilive",
+   "name": "QT2110BP",
+   "device": "QT2110BP"
+  }
+ ],
  "Qphone2019_A": [
   {
    "brand": "Qoobex",
@@ -171393,6 +171440,11 @@
    "brand": "Seuic",
    "name": "AUTOID Q9",
    "device": "d550"
+  },
+  {
+   "brand": "Seuic",
+   "name": "AUTOIDQ9G",
+   "device": "d550"
   }
  ],
  "AUTIOD9N": [
@@ -175952,6 +176004,11 @@
    "brand": "Southern Telecom",
    "name": "Polaroid Power P600",
    "device": "P600"
+  },
+  {
+   "brand": "ZTE",
+   "name": "P600",
+   "device": "P963F80"
   }
  ],
  "Andromax A16C3H": [
@@ -181793,6 +181850,13 @@
    "brand": "Surface",
    "name": "Surface Duo",
    "device": "duo"
+  }
+ ],
+ "Surface Duo 2": [
+  {
+   "brand": "Surface",
+   "name": "Surface Duo 2",
+   "device": "duo2"
   }
  ],
  "Surfans P10P": [
@@ -200145,6 +200209,13 @@
    "device": "BISON_Pro"
   }
  ],
+ "RP01": [
+  {
+   "brand": "Umidigi",
+   "name": "BISON X10",
+   "device": "BISON_X10"
+  }
+ ],
  "One Max": [
   {
    "brand": "Umidigi",
@@ -202824,6 +202895,13 @@
    "brand": "Vestel",
    "name": "V TAB Z1",
    "device": "ATLAS"
+  }
+ ],
+ "V TAB Z2 LTE": [
+  {
+   "brand": "Vestel",
+   "name": "V TAB Z2 LTE",
+   "device": "EKVATOR"
   }
  ],
  "V TAB c1": [
@@ -217314,6 +217392,13 @@
    "device": "Z5155T"
   }
  ],
+ "Blade A51": [
+  {
+   "brand": "ZTE",
+   "name": "Blade A51",
+   "device": "P963F60"
+  }
+ ],
  "Blade A511": [
   {
    "brand": "ZTE",
@@ -218770,6 +218855,13 @@
    "brand": "ZTE",
    "name": "K92",
    "device": "primrose"
+  }
+ ],
+ "K95L": [
+  {
+   "brand": "ZTE",
+   "name": "K95L",
+   "device": "K95"
   }
  ],
  "K97": [
@@ -222465,6 +222557,13 @@
    "device": "Z5151"
   }
  ],
+ "Z5158": [
+  {
+   "brand": "ZTE",
+   "name": "Z5158",
+   "device": "Z5158"
+  }
+ ],
  "Z557BL": [
   {
    "brand": "ZTE",
@@ -223374,6 +223473,13 @@
    "device": "P963F07"
   }
  ],
+ "ZTE A71 5G": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE A71 5G",
+   "device": "Z6556O"
+  }
+ ],
  "Z855": [
   {
    "brand": "ZTE",
@@ -223764,6 +223870,13 @@
    "brand": "ZTE",
    "name": "ZTE Blade A31 Lite RU",
    "device": "P932F21"
+  }
+ ],
+ "ZTE Blade A31 Plus RU": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A31 Plus RU",
+   "device": "P963F80"
   }
  ],
  "ZTE Blade A31RU": [
@@ -225504,6 +225617,13 @@
    "brand": "Zuum",
    "name": "AURA PLUS JLO",
    "device": "AURA_PLUS_JLO"
+  }
+ ],
+ "AURA PRO": [
+  {
+   "brand": "Zuum",
+   "name": "AURA PRO",
+   "device": "AURA_PRO"
   }
  ],
  "AURA PRO JLO": [
@@ -228095,6 +228215,11 @@
   {
    "brand": "iWaylink",
    "name": "MC432",
+   "device": "MC432A_GWL"
+  },
+  {
+   "brand": "iWaylink",
+   "name": "MC432A_W",
    "device": "MC432A_GWL"
   }
  ],

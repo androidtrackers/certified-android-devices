@@ -26092,13 +26092,6 @@
    "model": "T4000"
   }
  ],
- "C6_R_GL": [
-  {
-   "brand": "Bird",
-   "device": "C6_R",
-   "model": "C6"
-  }
- ],
  "E5018": [
   {
    "brand": "Bird",
@@ -26130,6 +26123,13 @@
    "brand": "Bird",
    "device": "Bird_F15",
    "model": "F15"
+  }
+ ],
+ "IC_51R": [
+  {
+   "brand": "Bird",
+   "device": "IC_51R",
+   "model": "IC_51"
   }
  ],
  "S1": [
@@ -32195,6 +32195,13 @@
   }
  ],
  "C6_R_EEA": [
+  {
+   "brand": "CILICO",
+   "device": "C6_R",
+   "model": "C6"
+  }
+ ],
+ "C6_R_GL": [
   {
    "brand": "CILICO",
    "device": "C6_R",
@@ -52255,6 +52262,13 @@
    "brand": "FFFSMARTLIFE",
    "device": "FFFTAB10",
    "model": "FFFTAB10"
+  }
+ ],
+ "FFFTAB10a1": [
+  {
+   "brand": "FFFSMARTLIFE",
+   "device": "FFFTAB10a1",
+   "model": "FFFTAB10a1"
   }
  ],
  "FFFTAB10a2": [
@@ -107980,6 +107994,13 @@
    "model": "moto tab g20"
   }
  ],
+ "小新 Pad GT": [
+  {
+   "brand": "Lenovo",
+   "device": "TB-J616N",
+   "model": "Lenovo TB-J616N"
+  }
+ ],
  "小新Pad Pro 2021": [
   {
    "brand": "Lenovo",
@@ -111654,6 +111675,13 @@
    "model": "DV6067Y-T"
   }
  ],
+ "MagentaTV ONE": [
+  {
+   "brand": "MagentaTV",
+   "device": "HY44G",
+   "model": "MagentaTV ONE"
+  }
+ ],
  "OTT-G1": [
   {
    "brand": "MagentaTV",
@@ -112584,6 +112612,13 @@
    "brand": "Maxwest",
    "device": "Astro_55N_LTE",
    "model": "Astro 55N LTE"
+  }
+ ],
+ "Astro_5X": [
+  {
+   "brand": "Maxwest",
+   "device": "Astro_5X",
+   "model": "Astro 5X"
   }
  ],
  "Astro 8Q": [
@@ -118125,6 +118160,11 @@
    "brand": "Mobvoi",
    "device": "rover",
    "model": "TicWatch Pro 3"
+  },
+  {
+   "brand": "Mobvoi",
+   "device": "rover",
+   "model": "TicWatch Pro X"
   }
  ],
  "TicWatch Pro 3 Cellular/LTE": [
@@ -143274,6 +143314,13 @@
    "model": "QT2108BP"
   }
  ],
+ "QT2110BP": [
+  {
+   "brand": "Qilive",
+   "device": "QT2110BP",
+   "model": "QT2110BP"
+  }
+ ],
  "Qphone2019_A": [
   {
    "brand": "Qoobex",
@@ -164308,6 +164355,13 @@
    "model": "AUTOID9N"
   }
  ],
+ "AUTOIDQ9G": [
+  {
+   "brand": "Seuic",
+   "device": "d550",
+   "model": "AUTOID Q9"
+  }
+ ],
  "CRUISE1": [
   {
    "brand": "Seuic",
@@ -168712,6 +168766,11 @@
   {
    "brand": "Smartex",
    "device": "P600",
+   "model": "P600"
+  },
+  {
+   "brand": "ZTE",
+   "device": "P963F80",
    "model": "P600"
   }
  ],
@@ -173972,6 +174031,13 @@
    "brand": "Surface",
    "device": "duo",
    "model": "Surface Duo"
+  }
+ ],
+ "Surface Duo 2": [
+  {
+   "brand": "Surface",
+   "device": "duo2",
+   "model": "Surface Duo 2"
   }
  ],
  "P10P": [
@@ -189871,6 +189937,13 @@
    "model": "BISON"
   }
  ],
+ "BISON X10": [
+  {
+   "brand": "Umidigi",
+   "device": "BISON_X10",
+   "model": "RP01"
+  }
+ ],
  "BISON_GT": [
   {
    "brand": "Umidigi",
@@ -192617,6 +192690,13 @@
    "brand": "Vestel",
    "device": "ATLAS",
    "model": "V TAB Z1"
+  }
+ ],
+ "V TAB Z2 LTE": [
+  {
+   "brand": "Vestel",
+   "device": "EKVATOR",
+   "model": "V TAB Z2 LTE"
   }
  ],
  "V TAB c1": [
@@ -204791,6 +204871,13 @@
    "model": "Blade A5 2019-T"
   }
  ],
+ "Blade A51": [
+  {
+   "brand": "ZTE",
+   "device": "P963F60",
+   "model": "Blade A51"
+  }
+ ],
  "Blade A510": [
   {
    "brand": "ZTE",
@@ -206079,6 +206166,13 @@
    "brand": "ZTE",
    "device": "K87",
    "model": "K87CC"
+  }
+ ],
+ "K95L": [
+  {
+   "brand": "ZTE",
+   "device": "K95",
+   "model": "K95L"
   }
  ],
  "K97": [
@@ -209550,6 +209644,13 @@
    "model": "Z5151V"
   }
  ],
+ "Z5158": [
+  {
+   "brand": "ZTE",
+   "device": "Z5158",
+   "model": "Z5158"
+  }
+ ],
  "Z557BL": [
   {
    "brand": "ZTE",
@@ -210461,6 +210562,13 @@
    "model": "ZTE A7030RU"
   }
  ],
+ "ZTE A71 5G": [
+  {
+   "brand": "ZTE",
+   "device": "Z6556O",
+   "model": "ZTE A71 5G"
+  }
+ ],
  "ZTE AVID 4": [
   {
    "brand": "ZTE",
@@ -210974,6 +211082,13 @@
    "brand": "ZTE",
    "device": "P932F21",
    "model": "ZTE Blade A31 Lite RU"
+  }
+ ],
+ "ZTE Blade A31 Plus RU": [
+  {
+   "brand": "ZTE",
+   "device": "P963F80",
+   "model": "ZTE Blade A31 Plus RU"
   }
  ],
  "ZTE Blade A31RU": [
@@ -212784,6 +212899,13 @@
    "brand": "Zuum",
    "device": "AURA_PLUS_JLO",
    "model": "AURA PLUS JLO"
+  }
+ ],
+ "AURA PRO": [
+  {
+   "brand": "Zuum",
+   "device": "AURA_PRO",
+   "model": "AURA PRO"
   }
  ],
  "AURA PRO JLO": [
@@ -215451,6 +215573,13 @@
   }
  ],
  "MC432": [
+  {
+   "brand": "iWaylink",
+   "device": "MC432A_GWL",
+   "model": "MC432A_GWL"
+  }
+ ],
+ "MC432A_W": [
   {
    "brand": "iWaylink",
    "device": "MC432A_GWL",

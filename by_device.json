@@ -22641,18 +22641,6 @@
    "model": "T4000"
   }
  ],
- "C6_R": [
-  {
-   "brand": "Bird",
-   "name": "C6_R_GL",
-   "model": "C6"
-  },
-  {
-   "brand": "CILICO",
-   "name": "C6_R_EEA",
-   "model": "C6"
-  }
- ],
  "E5018": [
   {
    "brand": "Bird",
@@ -22684,6 +22672,13 @@
    "brand": "Bird",
    "name": "F15",
    "model": "F15"
+  }
+ ],
+ "IC_51R": [
+  {
+   "brand": "Bird",
+   "name": "IC_51R",
+   "model": "IC_51"
   }
  ],
  "Bird_S1": [
@@ -27882,6 +27877,18 @@
    "model": "sti6130d353"
   }
  ],
+ "C6_R": [
+  {
+   "brand": "CILICO",
+   "name": "C6_R_EEA",
+   "model": "C6"
+  },
+  {
+   "brand": "CILICO",
+   "name": "C6_R_GL",
+   "model": "C6"
+  }
+ ],
  "F750": [
   {
    "brand": "CILICO",
@@ -28231,6 +28238,11 @@
    "brand": "COSMOTE TV",
    "name": "TV Box",
    "model": "TV Box"
+  },
+  {
+   "brand": "MagentaTV",
+   "name": "MagentaTV ONE",
+   "model": "MagentaTV ONE"
   },
   {
    "brand": "T-Mobile-CZ-Telekom-SK",
@@ -47983,6 +47995,13 @@
    "brand": "FFFSMARTLIFE",
    "name": "FFFTAB10",
    "model": "FFFTAB10"
+  }
+ ],
+ "FFFTAB10a1": [
+  {
+   "brand": "FFFSMARTLIFE",
+   "name": "FFFTAB10a1",
+   "model": "FFFTAB10a1"
   }
  ],
  "FFFTAB10a2": [
@@ -106605,6 +106624,13 @@
    "model": "moto tab g20"
   }
  ],
+ "TB-J616N": [
+  {
+   "brand": "Lenovo",
+   "name": "小新 Pad GT",
+   "model": "Lenovo TB-J616N"
+  }
+ ],
  "J716F": [
   {
    "brand": "Lenovo",
@@ -111284,6 +111310,13 @@
    "brand": "Maxwest",
    "name": "Astro_55N_LTE",
    "model": "Astro 55N LTE"
+  }
+ ],
+ "Astro_5X": [
+  {
+   "brand": "Maxwest",
+   "name": "Astro_5X",
+   "model": "Astro 5X"
   }
  ],
  "Astro_8Q": [
@@ -117174,6 +117207,11 @@
    "brand": "Mobvoi",
    "name": "TicWatch Pro 3",
    "model": "TicWatch Pro 3"
+  },
+  {
+   "brand": "Mobvoi",
+   "name": "TicWatch Pro 3",
+   "model": "TicWatch Pro X"
   },
   {
    "brand": "Mobvoi",
@@ -142934,6 +142972,13 @@
    "model": "QT2108BP"
   }
  ],
+ "QT2110BP": [
+  {
+   "brand": "Qilive",
+   "name": "QT2110BP",
+   "model": "QT2110BP"
+  }
+ ],
  "Qphone2019_A": [
   {
    "brand": "Qoobex",
@@ -166224,6 +166269,11 @@
    "brand": "Seuic",
    "name": "AUTOID Q9",
    "model": "AUTOID Q9"
+  },
+  {
+   "brand": "Seuic",
+   "name": "AUTOIDQ9G",
+   "model": "AUTOID Q9"
   }
  ],
  "d500b": [
@@ -176651,6 +176701,13 @@
    "brand": "Surface",
    "name": "Surface Duo",
    "model": "Surface Duo"
+  }
+ ],
+ "duo2": [
+  {
+   "brand": "Surface",
+   "name": "Surface Duo 2",
+   "model": "Surface Duo 2"
   }
  ],
  "P10P": [
@@ -192248,6 +192305,13 @@
    "model": "BISON"
   }
  ],
+ "BISON_X10": [
+  {
+   "brand": "Umidigi",
+   "name": "BISON X10",
+   "model": "RP01"
+  }
+ ],
  "One_Max": [
   {
    "brand": "Umidigi",
@@ -194918,6 +194982,13 @@
    "brand": "Vestel",
    "name": "V TAB Z1",
    "model": "V TAB Z1"
+  }
+ ],
+ "EKVATOR": [
+  {
+   "brand": "Vestel",
+   "name": "V TAB Z2 LTE",
+   "model": "V TAB Z2 LTE"
   }
  ],
  "MELTEM": [
@@ -208782,6 +208853,38 @@
    "model": "Blade A5 2019-T"
   }
  ],
+ "P963F60": [
+  {
+   "brand": "ZTE",
+   "name": "Blade A51",
+   "model": "Blade A51"
+  },
+  {
+   "brand": "ZTE",
+   "name": "Nubia 4010",
+   "model": "Nubia 4010"
+  },
+  {
+   "brand": "ZTE",
+   "name": "P650 2021",
+   "model": "P650 2021"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE A51",
+   "model": "ZTE A51"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A51",
+   "model": "ZTE Blade A51"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A51RU",
+   "model": "ZTE Blade A51RU"
+  }
+ ],
  "ZTE_Blade_A511": [
   {
    "brand": "ZTE",
@@ -209968,6 +210071,13 @@
    "model": "T98"
   }
  ],
+ "K95": [
+  {
+   "brand": "ZTE",
+   "name": "K95L",
+   "model": "K95L"
+  }
+ ],
  "K97": [
   {
    "brand": "ZTE",
@@ -210925,33 +211035,6 @@
    "model": "NX907J"
   }
  ],
- "P963F60": [
-  {
-   "brand": "ZTE",
-   "name": "Nubia 4010",
-   "model": "Nubia 4010"
-  },
-  {
-   "brand": "ZTE",
-   "name": "P650 2021",
-   "model": "P650 2021"
-  },
-  {
-   "brand": "ZTE",
-   "name": "ZTE A51",
-   "model": "ZTE A51"
-  },
-  {
-   "brand": "ZTE",
-   "name": "ZTE Blade A51",
-   "model": "ZTE Blade A51"
-  },
-  {
-   "brand": "ZTE",
-   "name": "ZTE Blade A51RU",
-   "model": "ZTE Blade A51RU"
-  }
- ],
  "P963F07": [
   {
    "brand": "ZTE",
@@ -211078,6 +211161,18 @@
    "brand": "ZTE",
    "name": "P545",
    "model": "P545"
+  }
+ ],
+ "P963F80": [
+  {
+   "brand": "ZTE",
+   "name": "P600",
+   "model": "P600"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A31 Plus RU",
+   "model": "ZTE Blade A31 Plus RU"
   }
  ],
  "P609": [
@@ -212707,6 +212802,13 @@
    "model": "Z5151V"
   }
  ],
+ "Z5158": [
+  {
+   "brand": "ZTE",
+   "name": "Z5158",
+   "model": "Z5158"
+  }
+ ],
  "Z557": [
   {
    "brand": "ZTE",
@@ -213446,6 +213548,13 @@
    "brand": "ZTE",
    "name": "ZTE Blade A7s 2020",
    "model": "ZTE A7020RU"
+  }
+ ],
+ "Z6556O": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE A71 5G",
+   "model": "ZTE A71 5G"
   }
  ],
  "calbee": [
@@ -215253,6 +215362,13 @@
    "brand": "Zuum",
    "name": "AURA PLUS JLO",
    "model": "AURA PLUS JLO"
+  }
+ ],
+ "AURA_PRO": [
+  {
+   "brand": "Zuum",
+   "name": "AURA PRO",
+   "model": "AURA PRO"
   }
  ],
  "AURA_PRO_JLO": [
@@ -217837,6 +217953,11 @@
   {
    "brand": "iWaylink",
    "name": "MC432",
+   "model": "MC432A_GWL"
+  },
+  {
+   "brand": "iWaylink",
+   "name": "MC432A_W",
    "model": "MC432A_GWL"
   }
  ],

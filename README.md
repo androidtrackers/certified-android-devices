@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-09-27
+Last sync is 2021-09-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2697,11 +2697,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BioRugged|BioWolf_C|BioWolf_C|BioWolf_C|
 |BioRugged|T4000|T4000|T4000|
 |Bird|A7|A7|A7|
-|Bird|C6_R_GL|C6_R|C6|
 |Bird|E5018|E5018|E5018|
 |Bird|Energy|Energy|Energy|
 |Bird|F07|Bird_F07|F07|
 |Bird|F15|Bird_F15|F15|
+|Bird|IC_51R|IC_51R|IC_51|
 |Bird|S1|Bird_S1|S1|
 |Bird|X6|Bird_X6|X6|
 |Bitel|B8416|B8416|B8416|
@@ -3461,6 +3461,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CHiQ|Smart TV|redwood|AI PONT|
 |CILICO|C6|C6|C6|
 |CILICO|C6_R_EEA|C6_R|C6|
+|CILICO|C6_R_GL|C6_R|C6|
 |CILICO|F750|F750|F750|
 |CILICO|F880|F880|F880|
 |CIMRL|tab10|tab10|tab10|
@@ -6239,6 +6240,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FEITIAN|F100_EEA|F100|F100|
 |FELUX|LUXE 3|LUXE_3|LUXE 3|
 |FFFSMARTLIFE|FFFTAB10|FFFTAB10|FFFTAB10|
+|FFFSMARTLIFE|FFFTAB10a1|FFFTAB10a1|FFFTAB10a1|
 |FFFSMARTLIFE|FFFTAB10a2|FFFTAB10a2|FFFTAB10a2|
 |FFFSMARTLIFE|FFFTAB10a3|FFFTAB10a3|FFFTAB10a3|
 |FFFSMARTLIFE|FFFTAB7|FFFTAB7|FFFTAB7|
@@ -15657,6 +15659,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|ideatv S52|ideatv_S52|ideatv S52|
 |Lenovo|ideatvK82 60LX750A  52LX750A  46LX750A  60LX850A  70LX850A 80LX850A|ideatv_K82|ideatv K82|
 |Lenovo|moto tab g20|mototabg20|moto tab g20|
+|Lenovo|小新 Pad GT|TB-J616N|Lenovo TB-J616N|
 |Lenovo|小新Pad Pro 2021|J716F|Lenovo TB-J716F|
 |Lenovo|小新平板|TB-8804F|Lenovo TB-8804F|
 |Lenovo|小新平板|X804F|Lenovo TB-X804F|
@@ -16224,6 +16227,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mafe|Z1|Z1|Z1|
 |Mafe|Z2|Z2|Z2|
 |MagentaTV|DV6067Y-T|DV6067Y_TVStick|DV6067Y-T|
+|MagentaTV|MagentaTV ONE|HY44G|MagentaTV ONE|
 |MagentaTV|OTT-G1|DV6067Y|OTT-G1|
 |Majestic|JACK|JACK|JACK|
 |Majestic|JOE|JOE|JOE|
@@ -16370,6 +16374,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maxwest|Astro 5P|Astro_5P|Astro 5P|
 |Maxwest|Astro_4P|Astro_4P|Astro_4P|
 |Maxwest|Astro_55N_LTE|Astro_55N_LTE|Astro 55N LTE|
+|Maxwest|Astro_5X|Astro_5X|Astro 5X|
 |Maxwest|Astro 8Q|Astro_8Q|Astro 8Q|
 |Maxwest|Gravity _55_ GO|Gravity_55_GO|Gravity_55_GO|
 |Maxwest|Gravity_5_GO|Gravity_5_GO|Gravity_5_GO|
@@ -17264,6 +17269,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobvoi|TicWatch Pro|catfish_ext|TicWatch Pro|
 |Mobvoi|TicWatch Pro|catfish_ext|TicWatch Pro S|
 |Mobvoi|TicWatch Pro 3|rover|TicWatch Pro 3|
+|Mobvoi|TicWatch Pro 3|rover|TicWatch Pro X|
 |Mobvoi|TicWatch Pro 3 Cellular/LTE|rover|TicWatch Pro 3|
 |Mobvoi|TicWatch Pro 3 GPS|rubyfish|TicWatch Pro 3 GPS|
 |Mobvoi|TicWatch Pro 3 GPS|rubyfish|TicWatch Pro 3U|
@@ -21367,6 +21373,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Qilive|QT19101HV|QT19101HV|QT19101HV|
 |Qilive|QT19101K|QT19101K_116_EEA|QT19101K|
 |Qilive|QT2108BP|QT2108BP|QT2108BP|
+|Qilive|QT2110BP|QT2110BP|QT2110BP|
 |Qilive|W55|W55|W55|
 |Qoobex|Qphone2019_A|Qphone2019_A|Qphone2019_A|
 |Qpad|XL PLUS|t591_hwd_q19_hiya_we|XL PLUS|
@@ -25091,6 +25098,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Seuic|AUTOID Q9|d550|AUTOID Q9|
 |Seuic|AUTOID9N|d500b|AUTIOD9N|
 |Seuic|AUTOID9N|d500b|AUTOID9N|
+|Seuic|AUTOIDQ9G|d550|AUTOID Q9|
 |Seuic|CRUISE1|d700s|CRUISE1|
 |Sharp||SH7218T|SH7218T|
 |Sharp||SH8268U|SH8268U|
@@ -26678,6 +26686,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Supraim|AYCON|AYCON|AYCON|
 |Supraim|SN10|SN10|SN10|
 |Surface|Surface Duo|duo|Surface Duo|
+|Surface|Surface Duo 2|duo2|Surface Duo 2|
 |Surfans|K7|K7|K7|
 |Surfans|P10P|P10P|Surfans P10P|
 |Surfans|Y57A|Y57A|Y57A|
@@ -29459,6 +29468,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|BISON Pro EEA|BISON_Pro|BISON Pro|
 |Umidigi|BISON R|BISON_R|BISON|
 |Umidigi|BISON R EEA|BISON_R|BISON|
+|Umidigi|BISON X10|BISON_X10|RP01|
 |Umidigi|BISON_GT|BISON_GT|BISON GT|
 |Umidigi|F1|F1|F1|
 |Umidigi|F1_EEA|F1|F1|
@@ -29914,6 +29924,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vestel|V TAB 8029|V_TAB_8029|V TAB 8029|
 |Vestel|V TAB 9.7'' PRO|VT97PRO|VT97PRO|
 |Vestel|V TAB Z1|ATLAS|V TAB Z1|
+|Vestel|V TAB Z2 LTE|EKVATOR|V TAB Z2 LTE|
 |Vestel|V TAB c1|MELTEM|V TAB c1|
 |Vestel|V Tab 7010|VTab7010|V Tab 7010|
 |Vestel|V3 5580 Dual|Orsa|V3_5580_Dual|
@@ -32103,6 +32114,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Blade A476|ZTE_Blade_A476|BLADE E01|
 |ZTE|Blade A476|ZTE_Blade_A476|ZTE Blade A476|
 |ZTE|Blade A5 2019-T|Z5155T|Blade A5 2019-T|
+|ZTE|Blade A51|P963F60|Blade A51|
 |ZTE|Blade A510|P635A50|Blade A510|
 |ZTE|Blade A510|ZTE_BLADE_A601|ZTE BLADE A601|
 |ZTE|Blade A511|ZTE_Blade_A511|Blade A511|
@@ -32322,6 +32334,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|K87CC|K87|K87CC|
 |ZTE|K88|jasmine|K88|
 |ZTE|K92|primrose|K92|
+|ZTE|K95L|K95|K95L|
 |ZTE|K97|K97|K97|
 |ZTE|K97|K97|ZTE K97|
 |ZTE|KIS|roamer2|KIS|
@@ -32532,6 +32545,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Orange Zali|nice|Orange Zali|
 |ZTE|Own One|P635A20|Own One|
 |ZTE|P545|P545|P545|
+|ZTE|P600|P963F80|P600|
 |ZTE|P609|P609|P609|
 |ZTE|P650 2021|P963F60|P650 2021|
 |ZTE|P650 Pro|Z6351O|P650 Pro|
@@ -32907,6 +32921,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z353VL|oldman|Z353VL|
 |ZTE|Z5031O|Z5031O|Z5031O|
 |ZTE|Z5151V|Z5151|Z5151V|
+|ZTE|Z5158|Z5158|Z5158|
 |ZTE|Z557BL|Z557|Z557BL|
 |ZTE|Z557BL|lewis|Z557BL|
 |ZTE|Z557BL|msm8909|Z557BL|
@@ -33040,6 +33055,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE A7020|P963F03|ZTE A7020|
 |ZTE|ZTE A7030|P963F07|ZTE A7030|
 |ZTE|ZTE A7030RU|P963F07|ZTE A7030RU|
+|ZTE|ZTE A71 5G|Z6556O|ZTE A71 5G|
 |ZTE|ZTE AVID 4|calbee|Z855|
 |ZTE|ZTE AVID 559|Z559DL|Z559DL|
 |ZTE|ZTE Avid 579|Z5156|Z5156CC|
@@ -33119,6 +33135,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A31|P963F70|ZTE Blade A31|
 |ZTE|ZTE Blade A31 Lite|P932F21|ZTE Blade A31 Lite|
 |ZTE|ZTE Blade A31 Lite RU|P932F21|ZTE Blade A31 Lite RU|
+|ZTE|ZTE Blade A31 Plus RU|P963F80|ZTE Blade A31 Plus RU|
 |ZTE|ZTE Blade A31RU|P963F70|ZTE Blade A31RU|
 |ZTE|ZTE Blade A3v|Z5157|Z5157V|
 |ZTE|ZTE Blade A3v|Z5157|Z5157Y|
@@ -33408,6 +33425,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zuum|AKUS Z|Akus_Z|Akus Z|
 |Zuum|AKUS Z1|AKUS_Z1|AKUS Z1|
 |Zuum|AURA PLUS JLO|AURA_PLUS_JLO|AURA PLUS JLO|
+|Zuum|AURA PRO|AURA_PRO|AURA PRO|
 |Zuum|AURA PRO JLO|AURA_PRO_JLO|AURA PRO JLO|
 |Zuum|AURA X|AURA_X|AURA X|
 |Zuum|COVET|COVET|COVET|
@@ -33843,6 +33861,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iVOOMi|iV_301|iV_301|iV_301|
 |iWaylink|MC401|MC401_GWL|MC401_GWL|
 |iWaylink|MC432|MC432A_GWL|MC432A_GWL|
+|iWaylink|MC432A_W|MC432A_GWL|MC432A_GWL|
 |iWaylink|TC601|TC601_GWL|TC601_GWL|
 |iWaylink|TC601A|TC601A_GWL|TC601A_GWL|
 |iWaylink|TC601B|TC601B_GWL|TC601B_GWL|
