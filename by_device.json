@@ -104863,6 +104863,13 @@
    "model": "Lenovo TB-X6C6L"
   }
  ],
+ "X6C6NBX": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab K10",
+   "model": "Lenovo TB-X6C6NBX"
+  }
+ ],
  "X6C6X": [
   {
    "brand": "Lenovo",
@@ -127723,6 +127730,13 @@
    "brand": "OVERTECH",
    "name": "OX7A",
    "model": "OX7A"
+  }
+ ],
+ "OX7S": [
+  {
+   "brand": "OVERTECH",
+   "name": "OX7S",
+   "model": "OX7S"
   }
  ],
  "W77": [
@@ -169890,6 +169904,13 @@
    "model": "Elite P55"
   }
  ],
+ "Elite_T8Plus": [
+  {
+   "brand": "Sky Devices",
+   "name": "Elite_T8Plus",
+   "model": "Elite T8Plus"
+  }
+ ],
  "Fuego_4_0T_EC": [
   {
    "brand": "Sky Devices",
@@ -192309,6 +192330,11 @@
   {
    "brand": "Umidigi",
    "name": "BISON X10",
+   "model": "RP01"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "BISON X10 EEA",
    "model": "RP01"
   }
  ],

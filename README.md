@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-09-28
+Last sync is 2021-09-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -15385,6 +15385,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab E7|TB7104I|Lenovo TB-7104I|
 |Lenovo|Lenovo Tab K10|X6C6F|Lenovo TB-X6C6F|
 |Lenovo|Lenovo Tab K10|X6C6L|Lenovo TB-X6C6L|
+|Lenovo|Lenovo Tab K10|X6C6NBX|Lenovo TB-X6C6NBX|
 |Lenovo|Lenovo Tab K10|X6C6X|Lenovo TB-X6C6X|
 |Lenovo|Lenovo Tab K10 PRC|TB-X6E6F|Lenovo TB-X6E6F|
 |Lenovo|Lenovo Tab K10 PRC|X6C6F|Lenovo TB-X6C6F|
@@ -18944,6 +18945,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OTOT|V350|V350|V350|
 |OTTO|OTTO CR05|OTTO_CR05|OTTO CR05|
 |OVERTECH|OX7A|OX7A|OX7A|
+|OVERTECH|OX7S|OX7S|OX7S|
 |OWXMobile|W77|W77|W77|
 |OXYGEN (in)|India|yeongdeungpo|OXYGEN UHD Android TV|
 |OYYU|T11|OYYUT11|OYYUT11|
@@ -25644,6 +25646,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|Elite_H55_HD|Elite_H55_HD|Elite H55|
 |Sky Devices|Elite_H5_FW|Elite_H5_FW|Elite H5|
 |Sky Devices|Elite_P55|Elite_P55|Elite P55|
+|Sky Devices|Elite_T8Plus|Elite_T8Plus|Elite T8Plus|
 |Sky Devices|Fuego 4.0T|Fuego_4_0T_EC|Fuego 4.0T|
 |Sky Devices|PLATINUM 4.0|Platinum_40|Platinum 4.0|
 |Sky Devices|PLATINUM 4.0|Platinum_4_0|Platinum 4.0|
@@ -29469,6 +29472,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|BISON R|BISON_R|BISON|
 |Umidigi|BISON R EEA|BISON_R|BISON|
 |Umidigi|BISON X10|BISON_X10|RP01|
+|Umidigi|BISON X10 EEA|BISON_X10|RP01|
 |Umidigi|BISON_GT|BISON_GT|BISON GT|
 |Umidigi|F1|F1|F1|
 |Umidigi|F1_EEA|F1|F1|

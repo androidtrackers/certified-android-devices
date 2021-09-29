@@ -106411,6 +106411,11 @@
   },
   {
    "brand": "Lenovo",
+   "device": "X6C6NBX",
+   "model": "Lenovo TB-X6C6NBX"
+  },
+  {
+   "brand": "Lenovo",
    "device": "X6C6X",
    "model": "Lenovo TB-X6C6X"
   }
@@ -128077,6 +128082,13 @@
    "brand": "OVERTECH",
    "device": "OX7A",
    "model": "OX7A"
+  }
+ ],
+ "OX7S": [
+  {
+   "brand": "OVERTECH",
+   "device": "OX7S",
+   "model": "OX7S"
   }
  ],
  "W77": [
@@ -167903,6 +167915,13 @@
    "model": "Elite P55"
   }
  ],
+ "Elite_T8Plus": [
+  {
+   "brand": "Sky Devices",
+   "device": "Elite_T8Plus",
+   "model": "Elite T8Plus"
+  }
+ ],
  "Fuego 4.0T": [
   {
    "brand": "Sky Devices",
@@ -189938,6 +189957,13 @@
   }
  ],
  "BISON X10": [
+  {
+   "brand": "Umidigi",
+   "device": "BISON_X10",
+   "model": "RP01"
+  }
+ ],
+ "BISON X10 EEA": [
   {
    "brand": "Umidigi",
    "device": "BISON_X10",

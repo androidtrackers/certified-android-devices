@@ -78999,6 +78999,11 @@
    "model": "Lenovo TB-X6C6L"
   },
   {
+   "device": "X6C6NBX",
+   "name": "Lenovo Tab K10",
+   "model": "Lenovo TB-X6C6NBX"
+  },
+  {
    "device": "X6C6X",
    "name": "Lenovo Tab K10",
    "model": "Lenovo TB-X6C6X"
@@ -97380,6 +97385,11 @@
    "device": "OX7A",
    "name": "OX7A",
    "model": "OX7A"
+  },
+  {
+   "device": "OX7S",
+   "name": "OX7S",
+   "model": "OX7S"
   }
  ],
  "OWXMobile": [
@@ -131522,6 +131532,11 @@
    "model": "Elite P55"
   },
   {
+   "device": "Elite_T8Plus",
+   "name": "Elite_T8Plus",
+   "model": "Elite T8Plus"
+  },
+  {
    "device": "Fuego_4_0T_EC",
    "name": "Fuego 4.0T",
    "model": "Fuego 4.0T"
@@ -151158,6 +151173,11 @@
   {
    "device": "BISON_X10",
    "name": "BISON X10",
+   "model": "RP01"
+  },
+  {
+   "device": "BISON_X10",
+   "name": "BISON X10 EEA",
    "model": "RP01"
   },
   {
