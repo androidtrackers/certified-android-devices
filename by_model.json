@@ -2025,6 +2025,13 @@
    "device": "CreaPad_1009"
   }
  ],
+ "CreaPad_1009A": [
+  {
+   "brand": "AWOW",
+   "name": "CreaPad_1009A",
+   "device": "CreaPad_1009A"
+  }
+ ],
  "CreaPad_1009_EEA": [
   {
    "brand": "AWOW",
@@ -60634,6 +60641,13 @@
    "device": "uguisudani"
   }
  ],
+ "Haier Android TV FF Pro": [
+  {
+   "brand": "Haier",
+   "name": "Haier Android TV FF Pro",
+   "device": "daan"
+  }
+ ],
  "HM-N700-FL": [
   {
    "brand": "Haier",
@@ -107322,6 +107336,13 @@
    "device": "X6C6L"
   }
  ],
+ "Lenovo TB-X6C6NBF": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab K10",
+   "device": "X6C6NBF"
+  }
+ ],
  "Lenovo TB-X6C6NBX": [
   {
    "brand": "Lenovo",
@@ -119561,6 +119582,13 @@
    "brand": "Mobiwire",
    "name": "STARSHINE 5",
    "device": "Cygnus_mini"
+  }
+ ],
+ "Smart C11": [
+  {
+   "brand": "Mobiwire",
+   "name": "Smart C11",
+   "device": "Kicka_5_U"
   }
  ],
  "SmartE11": [
@@ -148003,6 +148031,18 @@
    "device": "RMX3063"
   }
  ],
+ "RMX3231": [
+  {
+   "brand": "Realme",
+   "name": "RMX3231",
+   "device": "RMX3231"
+  },
+  {
+   "brand": "Realme",
+   "name": "realme C11 2021",
+   "device": "RMX3231"
+  }
+ ],
  "RMX3085": [
   {
    "brand": "Realme",
@@ -148273,18 +148313,6 @@
    "brand": "Realme",
    "name": "realme C11",
    "device": "RMX2186"
-  }
- ],
- "RMX3231": [
-  {
-   "brand": "Realme",
-   "name": "realme C11  2021",
-   "device": "RMX3231"
-  },
-  {
-   "brand": "Realme",
-   "name": "realme C11 2021",
-   "device": "RMX3231"
   }
  ],
  "RMX2184": [
@@ -160025,6 +160053,20 @@
    "brand": "Samsung",
    "name": "Galaxy M51",
    "device": "m51"
+  }
+ ],
+ "SM-M526B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M52 5G",
+   "device": "m52xq"
+  }
+ ],
+ "SM-M526BR": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M52 5G",
+   "device": "m52xq"
   }
  ],
  "SM-M625F": [
@@ -183668,6 +183710,13 @@
    "device": "Aquaman_10_Smart_WIFI"
   }
  ],
+ "8491X_RU": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 10L",
+   "device": "Aquaman_10_Smart_WIFI"
+  }
+ ],
  "8491X_TR": [
   {
    "brand": "TCL",
@@ -183742,6 +183791,13 @@
   }
  ],
  "8491XN_EEA": [
+  {
+   "brand": "TCL",
+   "name": "TKEE MAX New",
+   "device": "Aquaman_10_Smart_WIFI"
+  }
+ ],
+ "8491XN_RU": [
   {
    "brand": "TCL",
    "name": "TKEE MAX New",

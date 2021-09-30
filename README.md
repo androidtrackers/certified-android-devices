@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-09-29
+Last sync is 2021-09-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -189,6 +189,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AWOW|CreaPad_1005|CreaPad_1005|CreaPad_1005|
 |AWOW|CreaPad_1005_EEA|CreaPad_1005_EEA|CreaPad_1005_EEA|
 |AWOW|CreaPad_1009|CreaPad_1009|CreaPad_1009|
+|AWOW|CreaPad_1009A|CreaPad_1009A|CreaPad_1009A|
 |AWOW|CreaPad_1009_EEA|CreaPad_1009_EEA|CreaPad_1009_EEA|
 |AWOW|Funtab_801_I|Funtab_801_I|Funtab_801_I|
 |AWOW|Funtab_801_K|Funtab_801_K|Funtab_801_K|
@@ -8374,6 +8375,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|Haier Android TV|hanyang|haierATV|
 |Haier|Haier Android TV|hongik|haierATVhongik|
 |Haier|Haier Android TV|uguisudani|haierATVuguisudani|
+|Haier|Haier Android TV FF Pro|daan|Haier Android TV FF Pro|
 |Haier|Haier Leisure L7|Haier_Leisure_L7|HM-N700-FL|
 |Haier|Haier Titan T5|Titan_T5|Titan_T5|
 |Haier|Haier android TV|hanyang|Haier 4K Android TV|
@@ -15385,6 +15387,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab E7|TB7104I|Lenovo TB-7104I|
 |Lenovo|Lenovo Tab K10|X6C6F|Lenovo TB-X6C6F|
 |Lenovo|Lenovo Tab K10|X6C6L|Lenovo TB-X6C6L|
+|Lenovo|Lenovo Tab K10|X6C6NBF|Lenovo TB-X6C6NBF|
 |Lenovo|Lenovo Tab K10|X6C6NBX|Lenovo TB-X6C6NBX|
 |Lenovo|Lenovo Tab K10|X6C6X|Lenovo TB-X6C6X|
 |Lenovo|Lenovo Tab K10 PRC|TB-X6E6F|Lenovo TB-X6E6F|
@@ -17251,6 +17254,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|STARSHINE 5|Cygnus_mini|STARSHINE_5|
 |Mobiwire|STARSHINE 5|Cygnus_mini|Smart_A25|
 |Mobiwire|STARXTREM 5|STARXTREM5|STARXTREM5|
+|Mobiwire|Smart C11|Kicka_5_U|Smart C11|
 |Mobiwire|Smart E11|Smart_E11|SmartE11|
 |Mobiwire|Smart E11|Smart_E11_1|SmartE11|
 |Mobiwire|Smart N11|Smart_N11|SmartN11|
@@ -21630,6 +21634,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|RMX2020|RMX2020|RMX2020|
 |Realme|RMX2040|RMX2040|RMX2040|
 |Realme|RMX3063|RMX3063|RMX3063|
+|Realme|RMX3231|RMX3231|RMX3231|
 |Realme|realme  8|RMX3085L1|RMX3085|
 |Realme|realme  X7 Max|RMX3031L1|RMX3031|
 |Realme|realme  narzo  30|RMX2156L1|RMX2156|
@@ -21669,7 +21674,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme 8s 5G|RE58A0L1|RMX3381|
 |Realme|realme C11|RMX2185|RMX2185|
 |Realme|realme C11|RMX2186|RMX2186|
-|Realme|realme C11  2021|RMX3231|RMX3231|
 |Realme|realme C11 2021|RMX3231|RMX3231|
 |Realme|realme C12|RMX2184|RMX2184|
 |Realme|realme C12|RMX2189|RMX2189|
@@ -23403,6 +23407,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M40|m40|SM-M405F|
 |Samsung|Galaxy M42 5G|a42xq|SM-M426B|
 |Samsung|Galaxy M51|m51|SM-M515F|
+|Samsung|Galaxy M52 5G|m52xq|SM-M526B|
+|Samsung|Galaxy M52 5G|m52xq|SM-M526BR|
 |Samsung|Galaxy M62|m62|SM-M625F|
 |Samsung|Galaxy Mega 2|mega23g|SM-G750H|
 |Samsung|Galaxy Mega 5.8|crater|GT-I9152|
@@ -26968,6 +26974,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 10 SMART|Aquaman_10_4G|8094T|
 |TCL|TCL TAB 10L|Aquaman_10_Smart_WIFI|8491X|
 |TCL|TCL TAB 10L|Aquaman_10_Smart_WIFI|8491X_EEA|
+|TCL|TCL TAB 10L|Aquaman_10_Smart_WIFI|8491X_RU|
 |TCL|TCL TAB 10L|Aquaman_10_Smart_WIFI|8491X_TR|
 |TCL|TCL TAB 10s|Aquaman_10_Pro|9061|
 |TCL|TCL TAB 10s|Odin|9081X|
@@ -26978,6 +26985,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB kids|Thor_8_4G_VZW|9049L|
 |TCL|TKEE MAX New|Aquaman_10_Smart_WIFI|8491XN|
 |TCL|TKEE MAX New|Aquaman_10_Smart_WIFI|8491XN_EEA|
+|TCL|TKEE MAX New|Aquaman_10_Smart_WIFI|8491XN_RU|
 |TCL|TKEE MAX New|Aquaman_10_Smart_WIFI|8491XN_TR|
 |TCL|TKEE MINI|Hulk_7_KIDS_WIFI|8093|
 |TCL|Union TV|UnionTV|UnionTV|

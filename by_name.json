@@ -7310,6 +7310,13 @@
    "model": "CreaPad_1009"
   }
  ],
+ "CreaPad_1009A": [
+  {
+   "brand": "AWOW",
+   "device": "CreaPad_1009A",
+   "model": "CreaPad_1009A"
+  }
+ ],
  "CreaPad_1009_EEA": [
   {
    "brand": "AWOW",
@@ -66335,6 +66342,13 @@
    "model": "haierATVuguisudani"
   }
  ],
+ "Haier Android TV FF Pro": [
+  {
+   "brand": "Haier",
+   "device": "daan",
+   "model": "Haier Android TV FF Pro"
+  }
+ ],
  "Haier Leisure L7": [
   {
    "brand": "Haier",
@@ -106411,6 +106425,11 @@
   },
   {
    "brand": "Lenovo",
+   "device": "X6C6NBF",
+   "model": "Lenovo TB-X6C6NBF"
+  },
+  {
+   "brand": "Lenovo",
    "device": "X6C6NBX",
    "model": "Lenovo TB-X6C6NBX"
   },
@@ -118032,6 +118051,13 @@
    "brand": "Mobiwire",
    "device": "STARXTREM5",
    "model": "STARXTREM5"
+  }
+ ],
+ "Smart C11": [
+  {
+   "brand": "Mobiwire",
+   "device": "Kicka_5_U",
+   "model": "Smart C11"
   }
  ],
  "Smart E11": [
@@ -144968,6 +144994,13 @@
    "model": "RMX3063"
   }
  ],
+ "RMX3231": [
+  {
+   "brand": "Realme",
+   "device": "RMX3231",
+   "model": "RMX3231"
+  }
+ ],
  "realme  8": [
   {
    "brand": "Realme",
@@ -145157,13 +145190,6 @@
    "brand": "Realme",
    "device": "RMX2186",
    "model": "RMX2186"
-  }
- ],
- "realme C11  2021": [
-  {
-   "brand": "Realme",
-   "device": "RMX3231",
-   "model": "RMX3231"
   }
  ],
  "realme C11 2021": [
@@ -155043,6 +155069,18 @@
    "brand": "Samsung",
    "device": "m51",
    "model": "SM-M515F"
+  }
+ ],
+ "Galaxy M52 5G": [
+  {
+   "brand": "Samsung",
+   "device": "m52xq",
+   "model": "SM-M526B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "m52xq",
+   "model": "SM-M526BR"
   }
  ],
  "Galaxy M62": [
@@ -175710,6 +175748,11 @@
   {
    "brand": "TCL",
    "device": "Aquaman_10_Smart_WIFI",
+   "model": "8491X_RU"
+  },
+  {
+   "brand": "TCL",
+   "device": "Aquaman_10_Smart_WIFI",
    "model": "8491X_TR"
   }
  ],
@@ -175768,6 +175811,11 @@
    "brand": "TCL",
    "device": "Aquaman_10_Smart_WIFI",
    "model": "8491XN_EEA"
+  },
+  {
+   "brand": "TCL",
+   "device": "Aquaman_10_Smart_WIFI",
+   "model": "8491XN_RU"
   },
   {
    "brand": "TCL",

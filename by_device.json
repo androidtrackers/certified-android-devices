@@ -2653,6 +2653,13 @@
    "model": "CreaPad_1009"
   }
  ],
+ "CreaPad_1009A": [
+  {
+   "brand": "AWOW",
+   "name": "CreaPad_1009A",
+   "model": "CreaPad_1009A"
+  }
+ ],
  "CreaPad_1009_EEA": [
   {
    "brand": "AWOW",
@@ -62150,6 +62157,13 @@
    "model": "Seiki Android TV 2K"
   }
  ],
+ "daan": [
+  {
+   "brand": "Haier",
+   "name": "Haier Android TV FF Pro",
+   "model": "Haier Android TV FF Pro"
+  }
+ ],
  "Haier_Leisure_L7": [
   {
    "brand": "Haier",
@@ -79435,6 +79449,11 @@
   {
    "brand": "TCL",
    "name": "TCL TAB 10L",
+   "model": "8491X_RU"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 10L",
    "model": "8491X_TR"
   },
   {
@@ -79446,6 +79465,11 @@
    "brand": "TCL",
    "name": "TKEE MAX New",
    "model": "8491XN_EEA"
+  },
+  {
+   "brand": "TCL",
+   "name": "TKEE MAX New",
+   "model": "8491XN_RU"
   },
   {
    "brand": "TCL",
@@ -104863,6 +104887,13 @@
    "model": "Lenovo TB-X6C6L"
   }
  ],
+ "X6C6NBF": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab K10",
+   "model": "Lenovo TB-X6C6NBF"
+  }
+ ],
  "X6C6NBX": [
   {
    "brand": "Lenovo",
@@ -116991,6 +117022,11 @@
    "brand": "Mobiwire",
    "name": "Kicka 5",
    "model": "Kicka 5"
+  },
+  {
+   "brand": "Mobiwire",
+   "name": "Smart C11",
+   "model": "Smart C11"
   }
  ],
  "Kicka_5_Plus": [
@@ -144552,6 +144588,18 @@
    "model": "RMX3063"
   }
  ],
+ "RMX3231": [
+  {
+   "brand": "Realme",
+   "name": "RMX3231",
+   "model": "RMX3231"
+  },
+  {
+   "brand": "Realme",
+   "name": "realme C11 2021",
+   "model": "RMX3231"
+  }
+ ],
  "RMX3085L1": [
   {
    "brand": "Realme",
@@ -144823,18 +144871,6 @@
    "brand": "Realme",
    "name": "realme C11",
    "model": "RMX2186"
-  }
- ],
- "RMX3231": [
-  {
-   "brand": "Realme",
-   "name": "realme C11  2021",
-   "model": "RMX3231"
-  },
-  {
-   "brand": "Realme",
-   "name": "realme C11 2021",
-   "model": "RMX3231"
   }
  ],
  "RMX2184": [
@@ -155573,6 +155609,18 @@
    "brand": "Samsung",
    "name": "Galaxy M51",
    "model": "SM-M515F"
+  }
+ ],
+ "m52xq": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M52 5G",
+   "model": "SM-M526B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M52 5G",
+   "model": "SM-M526BR"
   }
  ],
  "m62": [
