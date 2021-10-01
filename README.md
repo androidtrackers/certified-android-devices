@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-09-30
+Last sync is 2021-10-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2322,6 +2322,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|B55|B55|B55|
 |BMobile|B60Pro_DG|Bmobile_B60Pro_DG|B60Pro_DG|
 |BMobile|B60Pro_MV03|B60Pro_MV03|B60Pro_MV03|
+|BMobile|BL40|Bmobile_BL40_MV12|BL40_MV12|
 |BMobile|BL50|Bmobile_BL50|BL50|
 |BMobile|BL50|Bmobile_BL50_CL|BL50_CL|
 |BMobile|BL50|Bmobile_BL50_DG|BL50_DG|
@@ -4547,7 +4548,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Crosscall|Action-X3|HS8937QC|Action-X3 Pro|
 |Crosscall|Action-X3|HS8937QCs|ACTION-X3|
 |Crosscall|Action-X3|HS8937QCs|Action-X3|
-|Crosscall|Action-X5|L752|Action-X5|
 |Crosscall|CORE-M4|CORE-M4|CORE-M4|
 |Crosscall|CORE-M4 GO|CORE-M4-GO|CORE-M4 GO|
 |Crosscall|Core- X3|HS8917QC|Core-X3|
@@ -26988,6 +26988,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TKEE MAX New|Aquaman_10_Smart_WIFI|8491XN_RU|
 |TCL|TKEE MAX New|Aquaman_10_Smart_WIFI|8491XN_TR|
 |TCL|TKEE MINI|Hulk_7_KIDS_WIFI|8093|
+|TCL|TKEE mini|Phoenix_7_Kids|9317G|
 |TCL|Union TV|UnionTV|UnionTV|
 |TCL|alcatel 1T7 NEW|U3A_7_WIFI_Refresh|9309X_TR|
 |TCT (Alcatel)||A556C|A556C|
@@ -28232,6 +28233,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|TKEE MINI|Hulk_7_KIDS_WIFI|8052|
 |TCT (Alcatel)|TKEE MINI|Hulk_7_KIDS_WIFI|8052_EEA|
 |TCT (Alcatel)|TKEE MINI|Hulk_7_KIDS_WIFI|8052_RU|
+|TCT (Alcatel)|TKEE MINI NEW|U3A_7_WIFI_Refresh|9309X_EEA|
 |TCT (Alcatel)|TKEE mini|Phoenix_7_Kids|9317G|
 |TCT (Alcatel)|TKEE mini|Phoenix_7_Kids|9317G1|
 |TCT (Alcatel)|Telenor_Smart|one_touch_985_gsm|Telenor_Smart|
@@ -28363,6 +28365,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TM Cell|X50A|X50A|X50A|
 |TMAX|TM9S775|MID908A-K|TM9S775|
 |TO21COMMS|TOP10|TOP10|TOP10|
+|TOCHMOBILE|ANGEL_SMART|ANGEL_SMART|ANGEL_SMART|
 |TONE|TONE e20|TONE_e20|TONE e20|
 |TONE|TONE_e21|TONE_e21|TONE_e21|
 |TOPELOTEK|KIDS06|KIDS06|KIDS06|
@@ -33589,6 +33592,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |g-mee|connect_2|connect_2|connect 2|
 |geaneePro|JT08-X1|JT08-X1|JT08-X1|
 |geaneePro|JT10-X|JT10-X|JT10-X|
+|geaneePro|JT10-X1|JT10-X1|JT10-X1|
 |geaneePro|JT70-X|JT07-X|JT07-X|
 |generaltouch|ERGO22|ERGO22|ERGO22|
 |generaltouch|ERGO22|ERGO22|ERGO22_eea|

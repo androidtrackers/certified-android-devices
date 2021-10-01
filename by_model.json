@@ -17846,6 +17846,13 @@
    "device": "B60Pro_MV03"
   }
  ],
+ "BL40_MV12": [
+  {
+   "brand": "BMobile",
+   "name": "BL40",
+   "device": "Bmobile_BL40_MV12"
+  }
+ ],
  "BL50": [
   {
    "brand": "BMobile",
@@ -33784,13 +33791,6 @@
    "brand": "Crosscall",
    "name": "Action-X3",
    "device": "HS8937QC"
-  }
- ],
- "Action-X5": [
-  {
-   "brand": "Crosscall",
-   "name": "Action-X5",
-   "device": "L752"
   }
  ],
  "CORE-M4": [
@@ -183818,6 +183818,18 @@
    "device": "Hulk_7_KIDS_WIFI"
   }
  ],
+ "9317G": [
+  {
+   "brand": "TCL",
+   "name": "TKEE mini",
+   "device": "Phoenix_7_Kids"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "TKEE mini",
+   "device": "Phoenix_7_Kids"
+  }
+ ],
  "UnionTV": [
   {
    "brand": "TCL",
@@ -192372,11 +192384,11 @@
    "device": "Hulk_7_KIDS_WIFI"
   }
  ],
- "9317G": [
+ "9309X_EEA": [
   {
    "brand": "TCT (Alcatel)",
-   "name": "TKEE mini",
-   "device": "Phoenix_7_Kids"
+   "name": "TKEE MINI NEW",
+   "device": "U3A_7_WIFI_Refresh"
   }
  ],
  "9317G1": [
@@ -193195,6 +193207,13 @@
    "brand": "TO21COMMS",
    "name": "TOP10",
    "device": "TOP10"
+  }
+ ],
+ "ANGEL_SMART": [
+  {
+   "brand": "TOCHMOBILE",
+   "name": "ANGEL_SMART",
+   "device": "ANGEL_SMART"
   }
  ],
  "TONE e20": [
@@ -226604,6 +226623,13 @@
    "brand": "geaneePro",
    "name": "JT10-X",
    "device": "JT10-X"
+  }
+ ],
+ "JT10-X1": [
+  {
+   "brand": "geaneePro",
+   "name": "JT10-X1",
+   "device": "JT10-X1"
   }
  ],
  "JT07-X": [

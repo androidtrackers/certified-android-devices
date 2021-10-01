@@ -11958,6 +11958,11 @@
    "model": "B60Pro_MV03"
   },
   {
+   "device": "Bmobile_BL40_MV12",
+   "name": "BL40",
+   "model": "BL40_MV12"
+  },
+  {
    "device": "Bmobile_BL50",
    "name": "BL50",
    "model": "BL50"
@@ -23523,11 +23528,6 @@
    "device": "HS8937QCs",
    "name": "Action-X3",
    "model": "Action-X3"
-  },
-  {
-   "device": "L752",
-   "name": "Action-X5",
-   "model": "Action-X5"
   },
   {
    "device": "CORE-M4",
@@ -138426,6 +138426,11 @@
    "model": "8093"
   },
   {
+   "device": "Phoenix_7_Kids",
+   "name": "TKEE mini",
+   "model": "9317G"
+  },
+  {
    "device": "UnionTV",
    "name": "Union TV",
    "model": "UnionTV"
@@ -144648,6 +144653,11 @@
    "model": "8052_RU"
   },
   {
+   "device": "U3A_7_WIFI_Refresh",
+   "name": "TKEE MINI NEW",
+   "model": "9309X_EEA"
+  },
+  {
    "device": "Phoenix_7_Kids",
    "name": "TKEE mini",
    "model": "9317G"
@@ -145351,6 +145361,13 @@
    "device": "TOP10",
    "name": "TOP10",
    "model": "TOP10"
+  }
+ ],
+ "TOCHMOBILE": [
+  {
+   "device": "ANGEL_SMART",
+   "name": "ANGEL_SMART",
+   "model": "ANGEL_SMART"
   }
  ],
  "TONE": [
@@ -172283,6 +172300,11 @@
    "device": "JT10-X",
    "name": "JT10-X",
    "model": "JT10-X"
+  },
+  {
+   "device": "JT10-X1",
+   "name": "JT10-X1",
+   "model": "JT10-X1"
   },
   {
    "device": "JT07-X",
