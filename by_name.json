@@ -8432,6 +8432,11 @@
    "model": "ATV R1"
   },
   {
+   "brand": "Motorola",
+   "device": "R4",
+   "model": "R4"
+  },
+  {
    "brand": "My",
    "device": "tokyo",
    "model": "Android TV"
@@ -111692,18 +111697,23 @@
    "model": "P2_Power"
   }
  ],
+ "MagentaTV ONE": [
+  {
+   "brand": "Magenta TV",
+   "device": "HY44G",
+   "model": "MagentaTV ONE"
+  },
+  {
+   "brand": "MagentaTV",
+   "device": "HY44G",
+   "model": "MagentaTV ONE"
+  }
+ ],
  "DV6067Y-T": [
   {
    "brand": "MagentaTV",
    "device": "DV6067Y_TVStick",
    "model": "DV6067Y-T"
-  }
- ],
- "MagentaTV ONE": [
-  {
-   "brand": "MagentaTV",
-   "device": "HY44G",
-   "model": "MagentaTV ONE"
   }
  ],
  "OTT-G1": [
@@ -117173,6 +117183,11 @@
  "R4": [
   {
    "brand": "Mobicell",
+   "device": "R4",
+   "model": "R4"
+  },
+  {
+   "brand": "Nokia",
    "device": "R4",
    "model": "R4"
   }

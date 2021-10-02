@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-10-01
+Last sync is 2021-10-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -16230,6 +16230,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mafe|V9|V9|V9|
 |Mafe|Z1|Z1|Z1|
 |Mafe|Z2|Z2|Z2|
+|Magenta TV|MagentaTV ONE|HY44G|MagentaTV ONE|
 |MagentaTV|DV6067Y-T|DV6067Y_TVStick|DV6067Y-T|
 |MagentaTV|MagentaTV ONE|HY44G|MagentaTV ONE|
 |MagentaTV|OTT-G1|DV6067Y|OTT-G1|
@@ -17372,6 +17373,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola||umts_venus2|XT610|
 |Motorola||wifi_hubble|MZ604|
 |Motorola||zepp|MB501|
+|Motorola|Android TV|R4|R4|
 |Motorola|Atrix|olympus|MB860|
 |Motorola|Atrix|olympus|MB861|
 |Motorola|Atrix|olympus|ME860|
@@ -18766,6 +18768,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia X71|TAS|Nokia X71|
 |Nokia|Nokia XR20|TTG|Nokia XR20|
 |Nokia|Nokia XR20|TTG_sprout|Nokia XR20|
+|Nokia|R4|R4|R4|
 |Nomi|CORSA 3 LTE|Nomi_C070030|Nomi_C070030|
 |Nomi|Corsa 3 3G|Nomi_C070012|Nomi_C070012|
 |Nomi|I5032|Nomi_i5032|i5032|

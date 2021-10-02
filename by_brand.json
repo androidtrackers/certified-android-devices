@@ -83384,6 +83384,13 @@
    "model": "Z2"
   }
  ],
+ "Magenta TV": [
+  {
+   "device": "HY44G",
+   "name": "MagentaTV ONE",
+   "model": "MagentaTV ONE"
+  }
+ ],
  "MagentaTV": [
   {
    "device": "DV6067Y_TVStick",
@@ -89264,6 +89271,11 @@
    "device": "zepp",
    "name": "",
    "model": "MB501"
+  },
+  {
+   "device": "R4",
+   "name": "Android TV",
+   "model": "R4"
   },
   {
    "device": "olympus",
@@ -96422,6 +96434,11 @@
    "device": "TTG_sprout",
    "name": "Nokia XR20",
    "model": "Nokia XR20"
+  },
+  {
+   "device": "R4",
+   "name": "R4",
+   "model": "R4"
   }
  ],
  "Nomi": [

@@ -28254,6 +28254,11 @@
    "model": "TV Box"
   },
   {
+   "brand": "Magenta TV",
+   "name": "MagentaTV ONE",
+   "model": "MagentaTV ONE"
+  },
+  {
    "brand": "MagentaTV",
    "name": "MagentaTV ONE",
    "model": "MagentaTV ONE"
@@ -116225,6 +116230,16 @@
  "R4": [
   {
    "brand": "Mobicell",
+   "name": "R4",
+   "model": "R4"
+  },
+  {
+   "brand": "Motorola",
+   "name": "Android TV",
+   "model": "R4"
+  },
+  {
+   "brand": "Nokia",
    "name": "R4",
    "model": "R4"
   }

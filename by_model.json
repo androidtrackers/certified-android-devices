@@ -112868,18 +112868,23 @@
    "device": "Z2"
   }
  ],
+ "MagentaTV ONE": [
+  {
+   "brand": "Magenta TV",
+   "name": "MagentaTV ONE",
+   "device": "HY44G"
+  },
+  {
+   "brand": "MagentaTV",
+   "name": "MagentaTV ONE",
+   "device": "HY44G"
+  }
+ ],
  "DV6067Y-T": [
   {
    "brand": "MagentaTV",
    "name": "DV6067Y-T",
    "device": "DV6067Y_TVStick"
-  }
- ],
- "MagentaTV ONE": [
-  {
-   "brand": "MagentaTV",
-   "name": "MagentaTV ONE",
-   "device": "HY44G"
   }
  ],
  "OTT-G1": [
@@ -118713,6 +118718,16 @@
  "R4": [
   {
    "brand": "Mobicell",
+   "name": "R4",
+   "device": "R4"
+  },
+  {
+   "brand": "Motorola",
+   "name": "Android TV",
+   "device": "R4"
+  },
+  {
+   "brand": "Nokia",
    "name": "R4",
    "device": "R4"
   }
