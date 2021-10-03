@@ -62057,6 +62057,11 @@
  "Iskon": [
   {
    "device": "wh220_iskon",
+   "name": "Iskon.TV",
+   "model": "Iskon.TV"
+  },
+  {
+   "device": "wh220_iskon",
    "name": "wh220_iskon",
    "model": "Iskon.TV"
   }

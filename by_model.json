@@ -85020,6 +85020,11 @@
  "Iskon.TV": [
   {
    "brand": "Iskon",
+   "name": "Iskon.TV",
+   "device": "wh220_iskon"
+  },
+  {
+   "brand": "Iskon",
    "name": "wh220_iskon",
    "device": "wh220_iskon"
   }

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-10-02
+Last sync is 2021-10-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12058,6 +12058,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Isafe|IS655|IS655|IS655|
 |Isafe|IS910.1|IS910_1|IS910_1|
 |Isafe|IS930|IS930|IS930|
+|Iskon|Iskon.TV|wh220_iskon|Iskon.TV|
 |Iskon|wh220_iskon|wh220_iskon|Iskon.TV|
 |Itel|A11|itel_A11|itel A11|
 |Itel|A12|itel_A12|itel A12|

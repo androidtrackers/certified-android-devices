@@ -87139,6 +87139,13 @@
    "model": "IS930"
   }
  ],
+ "Iskon.TV": [
+  {
+   "brand": "Iskon",
+   "device": "wh220_iskon",
+   "model": "Iskon.TV"
+  }
+ ],
  "wh220_iskon": [
   {
    "brand": "Iskon",
