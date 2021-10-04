@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-10-03
+Last sync is 2021-10-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -129,6 +129,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AOC|AOC|A731-H1|A731-H1|
 |AOC|AOC|A732G|A732G|
 |AOC|AOC|AOC_A831L-D|A831L-D|
+|AOC|AOC Android TV|PH0M_EA_T32|AOC Android TV|
 |AOC|Q10107L-ME|Q10107L-ME|Q10107L-ME|
 |AOC|Q10107LW-ME|Q10107LW-ME|Q10107LW-ME|
 |AOC|Q8108L-ME|Q8108L-ME|Q8108L-ME|
@@ -20317,7 +20318,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|PI3910|PI3910|PI3910|
 |Philips|PI4010G|PI4010G|PI4010G|
 |Philips|PI7100/93|PI7100_93|PI7100_93|
+|Philips|Philips Android TV|PH0M_EA_T32|2020/2021 FHD Android TV|
 |Philips|Philips Android TV|PH0M_EA_T32|2020/2021 UHD Android TV|
+|Philips|Philips Android TV|PH0M_EA_T32|Philips FHD Android TV|
 |Philips|Philips Android TV|PH1M_EA_9970A|2021/22 Philips UHD Android TV|
 |Philips|Philips Android TV|PH9M_EA_5599|TPM191E|
 |Philips|Philips Android TV|PH9M_EA_5599|TPM191KN|
@@ -28238,6 +28241,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|TKEE MINI|Hulk_7_KIDS_WIFI|8052_EEA|
 |TCT (Alcatel)|TKEE MINI|Hulk_7_KIDS_WIFI|8052_RU|
 |TCT (Alcatel)|TKEE MINI NEW|U3A_7_WIFI_Refresh|9309X_EEA|
+|TCT (Alcatel)|TKEE MINI NEW|U3A_7_WIFI_Refresh|9309X_RU|
+|TCT (Alcatel)|TKEE MINI NEW|U3A_7_WIFI_Refresh|9309X_TR|
 |TCT (Alcatel)|TKEE mini|Phoenix_7_Kids|9317G|
 |TCT (Alcatel)|TKEE mini|Phoenix_7_Kids|9317G1|
 |TCT (Alcatel)|Telenor_Smart|one_touch_985_gsm|Telenor_Smart|

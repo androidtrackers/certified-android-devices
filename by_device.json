@@ -2155,6 +2155,28 @@
    "model": "A831L-D"
   }
  ],
+ "PH0M_EA_T32": [
+  {
+   "brand": "AOC",
+   "name": "AOC Android TV",
+   "model": "AOC Android TV"
+  },
+  {
+   "brand": "Philips",
+   "name": "Philips Android TV",
+   "model": "2020/2021 FHD Android TV"
+  },
+  {
+   "brand": "Philips",
+   "name": "Philips Android TV",
+   "model": "2020/2021 UHD Android TV"
+  },
+  {
+   "brand": "Philips",
+   "name": "Philips Android TV",
+   "model": "Philips FHD Android TV"
+  }
+ ],
  "Q10107L-ME": [
   {
    "brand": "AOC",
@@ -136450,13 +136472,6 @@
    "model": "PI7100_93"
   }
  ],
- "PH0M_EA_T32": [
-  {
-   "brand": "Philips",
-   "name": "Philips Android TV",
-   "model": "2020/2021 UHD Android TV"
-  }
- ],
  "PH1M_EA_9970A": [
   {
    "brand": "Philips",
@@ -179302,6 +179317,16 @@
    "brand": "TCT (Alcatel)",
    "name": "TKEE MINI NEW",
    "model": "9309X_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "TKEE MINI NEW",
+   "model": "9309X_RU"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "TKEE MINI NEW",
+   "model": "9309X_TR"
   },
   {
    "brand": "TCT (Alcatel)",

@@ -6834,6 +6834,13 @@
    "model": "A831L-D"
   }
  ],
+ "AOC Android TV": [
+  {
+   "brand": "AOC",
+   "device": "PH0M_EA_T32",
+   "model": "AOC Android TV"
+  }
+ ],
  "Q10107L-ME": [
   {
    "brand": "AOC",
@@ -136554,7 +136561,17 @@
   {
    "brand": "Philips",
    "device": "PH0M_EA_T32",
+   "model": "2020/2021 FHD Android TV"
+  },
+  {
+   "brand": "Philips",
+   "device": "PH0M_EA_T32",
    "model": "2020/2021 UHD Android TV"
+  },
+  {
+   "brand": "Philips",
+   "device": "PH0M_EA_T32",
+   "model": "Philips FHD Android TV"
   },
   {
    "brand": "Philips",
@@ -182546,6 +182563,16 @@
    "brand": "TCT (Alcatel)",
    "device": "U3A_7_WIFI_Refresh",
    "model": "9309X_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "U3A_7_WIFI_Refresh",
+   "model": "9309X_RU"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "U3A_7_WIFI_Refresh",
+   "model": "9309X_TR"
   }
  ],
  "Telenor_Smart": [

@@ -1564,6 +1564,13 @@
    "device": "AOC_A831L-D"
   }
  ],
+ "AOC Android TV": [
+  {
+   "brand": "AOC",
+   "name": "AOC Android TV",
+   "device": "PH0M_EA_T32"
+  }
+ ],
  "Q10107L-ME": [
   {
    "brand": "AOC",
@@ -139414,7 +139421,21 @@
    "device": "PI7100_93"
   }
  ],
+ "2020/2021 FHD Android TV": [
+  {
+   "brand": "Philips",
+   "name": "Philips Android TV",
+   "device": "PH0M_EA_T32"
+  }
+ ],
  "2020/2021 UHD Android TV": [
+  {
+   "brand": "Philips",
+   "name": "Philips Android TV",
+   "device": "PH0M_EA_T32"
+  }
+ ],
+ "Philips FHD Android TV": [
   {
    "brand": "Philips",
    "name": "Philips Android TV",
@@ -183862,6 +183883,11 @@
    "brand": "TCL",
    "name": "alcatel 1T7 NEW",
    "device": "U3A_7_WIFI_Refresh"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "TKEE MINI NEW",
+   "device": "U3A_7_WIFI_Refresh"
   }
  ],
  "A556C": [
@@ -192411,6 +192437,18 @@
    "device": "U3A_7_WIFI_Refresh"
   }
  ],
+ "9309X_RU": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "TKEE MINI NEW",
+   "device": "U3A_7_WIFI_Refresh"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "alcatel 1T7 NEW",
+   "device": "U3A_7_WIFI_Refresh"
+  }
+ ],
  "9317G1": [
   {
    "brand": "TCT (Alcatel)",
@@ -192645,13 +192683,6 @@
    "brand": "TCT (Alcatel)",
    "name": "alcatel 1T7 4G",
    "device": "King_Kong_7_4G"
-  }
- ],
- "9309X_RU": [
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "alcatel 1T7 NEW",
-   "device": "U3A_7_WIFI_Refresh"
   }
  ],
  "5008A": [

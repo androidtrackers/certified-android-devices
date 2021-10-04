@@ -691,6 +691,11 @@
    "model": "A831L-D"
   },
   {
+   "device": "PH0M_EA_T32",
+   "name": "AOC Android TV",
+   "model": "AOC Android TV"
+  },
+  {
    "device": "Q10107L-ME",
    "name": "Q10107L-ME",
    "model": "Q10107L-ME"
@@ -104417,7 +104422,17 @@
   {
    "device": "PH0M_EA_T32",
    "name": "Philips Android TV",
+   "model": "2020/2021 FHD Android TV"
+  },
+  {
+   "device": "PH0M_EA_T32",
+   "name": "Philips Android TV",
    "model": "2020/2021 UHD Android TV"
+  },
+  {
+   "device": "PH0M_EA_T32",
+   "name": "Philips Android TV",
+   "model": "Philips FHD Android TV"
   },
   {
    "device": "PH1M_EA_9970A",
@@ -144678,6 +144693,16 @@
    "device": "U3A_7_WIFI_Refresh",
    "name": "TKEE MINI NEW",
    "model": "9309X_EEA"
+  },
+  {
+   "device": "U3A_7_WIFI_Refresh",
+   "name": "TKEE MINI NEW",
+   "model": "9309X_RU"
+  },
+  {
+   "device": "U3A_7_WIFI_Refresh",
+   "name": "TKEE MINI NEW",
+   "model": "9309X_TR"
   },
   {
    "device": "Phoenix_7_Kids",
