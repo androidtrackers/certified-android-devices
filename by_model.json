@@ -148096,6 +148096,23 @@
    "device": "RMX3085L1"
   }
  ],
+ "RMX2202": [
+  {
+   "brand": "Realme",
+   "name": "realme  GT 5G",
+   "device": "RMX2202L1"
+  },
+  {
+   "brand": "Realme",
+   "name": "realme GT 5G",
+   "device": "RMX2202L1"
+  },
+  {
+   "brand": "Realme",
+   "name": "真我GT",
+   "device": "RMX2202CN"
+  }
+ ],
  "RMX3031": [
   {
    "brand": "Realme",
@@ -148513,18 +148530,6 @@
    "device": "RMX2027"
   }
  ],
- "RMX2202": [
-  {
-   "brand": "Realme",
-   "name": "realme GT 5G",
-   "device": "RMX2202L1"
-  },
-  {
-   "brand": "Realme",
-   "name": "真我GT",
-   "device": "RMX2202CN"
-  }
- ],
  "RMX3366": [
   {
    "brand": "Realme",
@@ -148551,6 +148556,13 @@
    "brand": "Realme",
    "name": "realme GT Master Edition",
    "device": "RE54ABL1"
+  }
+ ],
+ "RMX3370": [
+  {
+   "brand": "Realme",
+   "name": "realme GT Neo 2",
+   "device": "RE5473"
   }
  ],
  "RMX2117": [
@@ -225108,6 +225120,11 @@
    "brand": "Zebra",
    "name": "Zebra Technologies VC8300",
    "device": "VC8308"
+  },
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies VC8300",
+   "device": "VC8310"
   }
  ],
  "WT6300": [

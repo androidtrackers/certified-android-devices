@@ -111235,6 +111235,11 @@
    "model": "RMX3085"
   },
   {
+   "device": "RMX2202L1",
+   "name": "realme  GT 5G",
+   "model": "RMX2202"
+  },
+  {
    "device": "RMX3031L1",
    "name": "realme  X7 Max",
    "model": "RMX3031"
@@ -111578,6 +111583,11 @@
    "device": "RE54ABL1",
    "name": "realme GT Master Edition",
    "model": "RMX3363"
+  },
+  {
+   "device": "RE5473",
+   "name": "realme GT Neo 2",
+   "model": "RMX3370"
   },
   {
    "device": "RMX2193",
@@ -170954,6 +170964,11 @@
   },
   {
    "device": "VC8308",
+   "name": "Zebra Technologies VC8300",
+   "model": "VC8300"
+  },
+  {
+   "device": "VC8310",
    "name": "Zebra Technologies VC8300",
    "model": "VC8300"
   },

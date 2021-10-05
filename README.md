@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-10-04
+Last sync is 2021-10-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -21643,6 +21643,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|RMX3063|RMX3063|RMX3063|
 |Realme|RMX3231|RMX3231|RMX3231|
 |Realme|realme  8|RMX3085L1|RMX3085|
+|Realme|realme  GT 5G|RMX2202L1|RMX2202|
 |Realme|realme  X7 Max|RMX3031L1|RMX3031|
 |Realme|realme  narzo  30|RMX2156L1|RMX2156|
 |Realme|realme 2 Pro|RMX1801|RMX1801|
@@ -21712,6 +21713,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme GT Master Edition|RE507C|RMX3361|
 |Realme|realme GT Master Edition|RE54ABL1|RMX3360|
 |Realme|realme GT Master Edition|RE54ABL1|RMX3363|
+|Realme|realme GT Neo 2|RE5473|RMX3370|
 |Realme|realme Narzo 20|RMX2193|RMX2193|
 |Realme|realme Narzo 30 Pro 5G|RMX2117L1|RMX2117|
 |Realme|realme Pad|RE54C1L1|RMP2102|
@@ -33340,6 +33342,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|Zebra Technologies TC8300|TC83B0|TC8300|
 |Zebra|Zebra Technologies TC8300|TC83BH|TC8300|
 |Zebra|Zebra Technologies VC8300|VC8308|VC8300|
+|Zebra|Zebra Technologies VC8300|VC8310|VC8300|
 |Zebra|Zebra Technologies WT6300|WT63B0|WT6300|
 |Zeki|TBQG1031|TBQG1031|TBQG1031|
 |Zeki|TBDG1073|TBDG1073|TBDG1073|

@@ -145047,6 +145047,13 @@
    "model": "RMX3085"
   }
  ],
+ "realme  GT 5G": [
+  {
+   "brand": "Realme",
+   "device": "RMX2202L1",
+   "model": "RMX2202"
+  }
+ ],
  "realme  X7 Max": [
   {
    "brand": "Realme",
@@ -145409,6 +145416,13 @@
    "brand": "Realme",
    "device": "RE54ABL1",
    "model": "RMX3363"
+  }
+ ],
+ "realme GT Neo 2": [
+  {
+   "brand": "Realme",
+   "device": "RE5473",
+   "model": "RMX3370"
   }
  ],
  "realme Narzo 20": [
@@ -212419,6 +212433,11 @@
   {
    "brand": "Zebra",
    "device": "VC8308",
+   "model": "VC8300"
+  },
+  {
+   "brand": "Zebra",
+   "device": "VC8310",
    "model": "VC8300"
   }
  ],
