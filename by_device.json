@@ -144899,6 +144899,13 @@
    "model": "RMX3081"
   }
  ],
+ "RE54B4L1": [
+  {
+   "brand": "Realme",
+   "name": "realme 8i",
+   "model": "RMX3151"
+  }
+ ],
  "RE58A0L1": [
   {
    "brand": "Realme",
@@ -145014,6 +145021,11 @@
  "RMX3261": [
   {
    "brand": "Realme",
+   "name": "realme C21 Y",
+   "model": "RMX3261"
+  },
+  {
+   "brand": "Realme",
    "name": "realme C21Y",
    "model": "RMX3261"
   }
@@ -145037,6 +145049,13 @@
    "brand": "Realme",
    "name": "realme C25",
    "model": "RMX3193"
+  }
+ ],
+ "RE54D1": [
+  {
+   "brand": "Realme",
+   "name": "realme C25Y",
+   "model": "RMX3265"
   }
  ],
  "RMX3195": [
@@ -165726,6 +165745,11 @@
   {
    "brand": "Sandata",
    "name": "Sandata",
+   "model": "T5"
+  },
+  {
+   "brand": "Sandata",
+   "name": "Sandata_T5",
    "model": "T5"
   }
  ],
@@ -214521,36 +214545,15 @@
    "model": "EC55"
   }
  ],
- "ET51L": [
-  {
-   "brand": "Zebra",
-   "name": "ET51",
-   "model": "ET51"
-  }
- ],
- "ET51S": [
-  {
-   "brand": "Zebra",
-   "name": "ET51",
-   "model": "ET51"
-  }
- ],
  "ET56L": [
-  {
-   "brand": "Zebra",
-   "name": "ET56",
-   "model": "ET56"
-  },
   {
    "brand": "Zebra",
    "name": "ET56CA",
    "model": "ET56"
-  }
- ],
- "ET56S": [
+  },
   {
    "brand": "Zebra",
-   "name": "ET56",
+   "name": "Zebra Technologies ET56",
    "model": "ET56"
   }
  ],
@@ -214722,6 +214725,11 @@
    "brand": "Zebra",
    "name": "TC26",
    "model": "TC26"
+  },
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies TC26",
+   "model": "TC26"
   }
  ],
  "TC51": [
@@ -214807,6 +214815,27 @@
    "brand": "Zebra",
    "name": "WT6000",
    "model": "WT6000"
+  }
+ ],
+ "ET51L": [
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies ET51",
+   "model": "ET51"
+  }
+ ],
+ "ET51S": [
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies ET51",
+   "model": "ET51"
+  }
+ ],
+ "ET56S": [
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies ET56",
+   "model": "ET56"
   }
  ],
  "L10A": [

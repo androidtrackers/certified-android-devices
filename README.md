@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-10-05
+Last sync is 2021-10-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -21679,6 +21679,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme 8|RMX3085L1|RMX3085|
 |Realme|realme 8 5G|RE513CL1|RMX3241|
 |Realme|realme 8 Pro|RMX3081L1|RMX3081|
+|Realme|realme 8i|RE54B4L1|RMX3151|
 |Realme|realme 8s 5G|RE58A0L1|RMX3381|
 |Realme|realme C11|RMX2185|RMX2185|
 |Realme|realme C11|RMX2186|RMX2186|
@@ -21697,10 +21698,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme C21|RMX3201|RMX3201|
 |Realme|realme C21|RMX3202|RMX3202|
 |Realme|realme C21|RMX3203L1|RMX3203|
+|Realme|realme C21 Y|RMX3261|RMX3261|
 |Realme|realme C21Y|RMX3261|RMX3261|
 |Realme|realme C21Y|RMX3262|RMX3262|
 |Realme|realme C25|RMX3191|RMX3191|
 |Realme|realme C25|RMX3193|RMX3193|
+|Realme|realme C25Y|RE54D1|RMX3265|
 |Realme|realme C25s|RMX3195|RMX3195|
 |Realme|realme C25s|RMX3197|RMX3197|
 |Realme|realme C3|RMX2020|RMX2020|
@@ -25000,6 +25003,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samtech|TWIFI_07|TWIFI-07|TWIFI-07|
 |Sanaeko|FX9|SANAEKO|FX9|
 |Sandata|Sandata|Sandata_T5|T5|
+|Sandata|Sandata_T5|Sandata_T5|T5|
 |Sankey|TAB1012FKY|TAB1012FKY|TAB1012FKY|
 |Sankey|TAB10A3G02|TAB10A3G02|TAB10A3G02|
 |Sankey|TAB7A3G05|TAB7A3G05|TAB7A3G05|
@@ -33280,10 +33284,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|EC55|EC55|EC55|
 |Zebra|EC55SA AOSP|EC55|EC55|
 |Zebra|EC55SANF AOSP|EC55|EC55|
-|Zebra|ET51|ET51L|ET51|
-|Zebra|ET51|ET51S|ET51|
-|Zebra|ET56|ET56L|ET56|
-|Zebra|ET56|ET56S|ET56|
 |Zebra|ET56CA|ET56L|ET56|
 |Zebra|ET5X|ET50E|ET5X|
 |Zebra|ET5X|ET50T|ET5X|
@@ -33318,6 +33318,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|TC8000|TC8000|TC8000|
 |Zebra|VC80x|VC80x|VC80x|
 |Zebra|WT6000|WT6000|WT6000|
+|Zebra|Zebra Technologies ET51|ET51L|ET51|
+|Zebra|Zebra Technologies ET51|ET51S|ET51|
+|Zebra|Zebra Technologies ET56|ET56L|ET56|
+|Zebra|Zebra Technologies ET56|ET56S|ET56|
 |Zebra|Zebra Technologies L10|L10A|L10A|
 |Zebra|Zebra Technologies L10|L10AW|L10AW|
 |Zebra|Zebra Technologies MC2200|MC2200|MC2200|
@@ -33330,6 +33334,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|Zebra Technologies MC3300xNS|MC3300xC|MC3300x|
 |Zebra|Zebra Technologies MC9300|MC93|MC93|
 |Zebra|Zebra Technologies MC9300|MC93C|MC93|
+|Zebra|Zebra Technologies TC26|TC26|TC26|
 |Zebra|Zebra Technologies TC52|TC52|TC52|
 |Zebra|Zebra Technologies TC52XA|TC52X|TC52X|
 |Zebra|Zebra Technologies TC52ax|TC52X|TC52AX|

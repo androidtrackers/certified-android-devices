@@ -24296,6 +24296,11 @@
    "device": "Sandata_T5"
   },
   {
+   "brand": "Sandata",
+   "name": "Sandata_T5",
+   "device": "Sandata_T5"
+  },
+  {
    "brand": "Trend Mobile",
    "name": "T5",
    "device": "T5"
@@ -148352,6 +148357,13 @@
    "device": "RMX3081L1"
   }
  ],
+ "RMX3151": [
+  {
+   "brand": "Realme",
+   "name": "realme 8i",
+   "device": "RE54B4L1"
+  }
+ ],
  "RMX3381": [
   {
    "brand": "Realme",
@@ -148465,6 +148477,11 @@
  "RMX3261": [
   {
    "brand": "Realme",
+   "name": "realme C21 Y",
+   "device": "RMX3261"
+  },
+  {
+   "brand": "Realme",
    "name": "realme C21Y",
    "device": "RMX3261"
   }
@@ -148488,6 +148505,13 @@
    "brand": "Realme",
    "name": "realme C25",
    "device": "RMX3193"
+  }
+ ],
+ "RMX3265": [
+  {
+   "brand": "Realme",
+   "name": "realme C25Y",
+   "device": "RE54D1"
   }
  ],
  "RMX3195": [
@@ -224741,33 +224765,21 @@
    "device": "EC55"
   }
  ],
- "ET51": [
-  {
-   "brand": "Zebra",
-   "name": "ET51",
-   "device": "ET51L"
-  },
-  {
-   "brand": "Zebra",
-   "name": "ET51",
-   "device": "ET51S"
-  }
- ],
  "ET56": [
-  {
-   "brand": "Zebra",
-   "name": "ET56",
-   "device": "ET56L"
-  },
-  {
-   "brand": "Zebra",
-   "name": "ET56",
-   "device": "ET56S"
-  },
   {
    "brand": "Zebra",
    "name": "ET56CA",
    "device": "ET56L"
+  },
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies ET56",
+   "device": "ET56L"
+  },
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies ET56",
+   "device": "ET56S"
   }
  ],
  "ET5X": [
@@ -224916,6 +224928,11 @@
    "brand": "Zebra",
    "name": "TC26",
    "device": "TC26"
+  },
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies TC26",
+   "device": "TC26"
   }
  ],
  "TC51": [
@@ -224987,6 +225004,18 @@
    "brand": "Zebra",
    "name": "WT6000",
    "device": "WT6000"
+  }
+ ],
+ "ET51": [
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies ET51",
+   "device": "ET51L"
+  },
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies ET51",
+   "device": "ET51S"
   }
  ],
  "L10A": [
