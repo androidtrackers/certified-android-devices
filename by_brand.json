@@ -57391,6 +57391,11 @@
    "model": "E503F"
   },
   {
+   "device": "E506",
+   "name": "E506",
+   "model": "E506"
+  },
+  {
    "device": "E553",
    "name": "E553",
    "model": "E553"
@@ -57814,6 +57819,11 @@
    "device": "L503F_Plus",
    "name": "L503F Plus",
    "model": "L503F Plus"
+  },
+  {
+   "device": "L506",
+   "name": "L506",
+   "model": "L506"
   },
   {
    "device": "L553",
@@ -88952,6 +88962,11 @@
    "model": "M850"
   },
   {
+   "device": "Mavic_Plus",
+   "name": "Mavic_Plus_DS",
+   "model": "M610DS"
+  },
+  {
    "device": "Mavic_10",
    "name": "Morep Mavic 10",
    "model": "M830"
@@ -88960,6 +88975,11 @@
    "device": "Mavic_Plus",
    "name": "Morep Mavic Plus",
    "model": "M610"
+  },
+  {
+   "device": "Smart_V1",
+   "name": "Smart V1",
+   "model": "M521"
   }
  ],
  "Mosambee": [

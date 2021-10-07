@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-10-06
+Last sync is 2021-10-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11155,6 +11155,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|E475|E475|E475|
 |Hyundai|E485|E485|E485|
 |Hyundai|E503F|E503F|E503F|
+|Hyundai|E506|E506|E506|
 |Hyundai|E553|E553|E553|
 |Hyundai|E601F|E601F|E601F|
 |Hyundai|E602|E602|E602|
@@ -11240,6 +11241,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|L502|Hyundai_L502|L502|
 |Hyundai|L503F|L503F|L503F|
 |Hyundai|L503F Plus|L503F_Plus|L503F Plus|
+|Hyundai|L506|L506|L506|
 |Hyundai|L553|L553|L553|
 |Hyundai|L575|L575|L575|
 |Hyundai|L601F|L601F|L601F|
@@ -17310,8 +17312,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Montblanc|Summit 2+|coralia|Summit 2+|
 |Montblanc|Summit Lite|icefish|SUMMIT LITE|
 |Morep|Mavic 10|Mavic_30|M850|
+|Morep|Mavic_Plus_DS|Mavic_Plus|M610DS|
 |Morep|Morep Mavic 10|Mavic_10|M830|
 |Morep|Morep Mavic Plus|Mavic_Plus|M610|
+|Morep|Smart V1|Smart_V1|M521|
 |Mosambee|Qphone2 4110|Qphone2_4110|Qphone2_4110|
 |Mosambee|SPPF 4110|SPPF_4110|SPPF_4110|
 |Most Computers|Revo You|RevoYou|RevoYou|

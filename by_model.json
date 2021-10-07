@@ -79048,6 +79048,18 @@
    "device": "E503F"
   }
  ],
+ "E506": [
+  {
+   "brand": "Hyundai",
+   "name": "E506",
+   "device": "E506"
+  },
+  {
+   "brand": "NGM Italia SRL",
+   "name": "NGM Youcolor E506",
+   "device": "E506"
+  }
+ ],
  "E553": [
   {
    "brand": "Hyundai",
@@ -79585,6 +79597,18 @@
    "brand": "Hyundai",
    "name": "L503F Plus",
    "device": "L503F_Plus"
+  }
+ ],
+ "L506": [
+  {
+   "brand": "Hyundai",
+   "name": "L506",
+   "device": "L506"
+  },
+  {
+   "brand": "Moviltelco Trade",
+   "name": "L506",
+   "device": "L506"
   }
  ],
  "L553": [
@@ -119975,6 +119999,13 @@
    "device": "Mavic_30"
   }
  ],
+ "M610DS": [
+  {
+   "brand": "Morep",
+   "name": "Mavic_Plus_DS",
+   "device": "Mavic_Plus"
+  }
+ ],
  "M830": [
   {
    "brand": "Morep",
@@ -119987,6 +120018,13 @@
    "brand": "Morep",
    "name": "Morep Mavic Plus",
    "device": "Mavic_Plus"
+  }
+ ],
+ "M521": [
+  {
+   "brand": "Morep",
+   "name": "Smart V1",
+   "device": "Smart_V1"
   }
  ],
  "Qphone2_4110": [
@@ -123548,13 +123586,6 @@
    "device": "A85"
   }
  ],
- "L506": [
-  {
-   "brand": "Moviltelco Trade",
-   "name": "L506",
-   "device": "L506"
-  }
- ],
  "L570": [
   {
    "brand": "Moviltelco Trade",
@@ -126724,13 +126755,6 @@
    "brand": "NGM Italia SRL",
    "name": "NGM Youcolor E501",
    "device": "E501"
-  }
- ],
- "E506": [
-  {
-   "brand": "NGM Italia SRL",
-   "name": "NGM Youcolor E506",
-   "device": "E506"
   }
  ],
  "E507": [
