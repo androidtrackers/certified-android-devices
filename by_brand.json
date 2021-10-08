@@ -3026,6 +3026,11 @@
    "model": "SP5712"
   },
   {
+   "device": "SP5732",
+   "name": "SP5732",
+   "model": "SP5732"
+  },
+  {
    "device": "SP5760",
    "name": "SP5760",
    "model": "SP5760"
@@ -4424,6 +4429,11 @@
   {
    "device": "H1003_LTE_PRO1",
    "name": "Viva H1003 LTE PRO/1",
+   "model": "H1003_LTE_PRO1"
+  },
+  {
+   "device": "H1003_LTE_PRO1_64",
+   "name": "Viva H1003 LTE PRO/1-64GB",
    "model": "H1003_LTE_PRO1"
   },
   {
@@ -22819,6 +22829,11 @@
    "device": "Coolpad_2041_S0",
    "name": "Cool 10A",
    "model": "Coolpad_2041_S0"
+  },
+  {
+   "device": "Coolpad_2041_T3",
+   "name": "Cool 10A",
+   "model": "Coolpad_2041_T3"
   },
   {
    "device": "Coolpad_2041_U0",
@@ -64306,6 +64321,11 @@
    "model": "KEMPLER_X_TV"
   },
   {
+   "device": "P1pro",
+   "name": "KemplerP1pro",
+   "model": "P1 Pro"
+  },
+  {
    "device": "Kempler_X_Pro",
    "name": "Kempler_X_Pro",
    "model": "Kempler_X_Pro"
@@ -65522,6 +65542,11 @@
   }
  ],
  "Kinstone": [
+  {
+   "device": "KST103SD",
+   "name": "KST103SD",
+   "model": "KST103SD"
+  },
   {
    "device": "Kinstone_SA070",
    "name": "SA070",
@@ -80449,6 +80474,16 @@
    "model": "Lenovo L70081"
   },
   {
+   "device": "X6C6NBF",
+   "name": "联想平板电脑 启天K10",
+   "model": "Lenovo TB-X6C6NBF"
+  },
+  {
+   "device": "X6C6NBX",
+   "name": "联想平板电脑 启天K10",
+   "model": "Lenovo TB-X6C6NBX"
+  },
+  {
    "device": "TB-X607Z",
    "name": "联想平板电脑K10 5G",
    "model": "Lenovo TB-X607Z"
@@ -82397,6 +82432,13 @@
    "device": "MAG500A",
    "name": "MAG500A",
    "model": "MAG500A"
+  }
+ ],
+ "MAGCH": [
+  {
+   "device": "T7_Pro",
+   "name": "T7",
+   "model": "T7"
   }
  ],
  "MARVUE": [
@@ -96411,9 +96453,24 @@
    "model": "Nokia G20"
   },
   {
+   "device": "PHR",
+   "name": "Nokia G50",
+   "model": "Nokia G50"
+  },
+  {
+   "device": "PHR_sprout",
+   "name": "Nokia G50",
+   "model": "Nokia G50"
+  },
+  {
    "device": "HND",
    "name": "Nokia Steaming Box 8000",
    "model": "Nokia Streaming Box 8000"
+  },
+  {
+   "device": "RDD",
+   "name": "Nokia T20",
+   "model": "Nokia T20"
   },
   {
    "device": "SCW",
@@ -101948,6 +102005,16 @@
    "device": "citrus",
    "name": "POCO M3",
    "model": "M2010J19CI"
+  },
+  {
+   "device": "camellia",
+   "name": "POCO M3 Pro 5G",
+   "model": "M2103K19PI"
+  },
+  {
+   "device": "camellian",
+   "name": "POCO M3 Pro 5G",
+   "model": "M2103K19PG"
   },
   {
    "device": "phoenixin",
@@ -112382,6 +112449,11 @@
    "model": "M2101K7BI"
   },
   {
+   "device": "camellian",
+   "name": "Redmi Note 10T",
+   "model": "M2103K19Y"
+  },
+  {
    "device": "camellia",
    "name": "Redmi Note 10T 5G",
    "model": "M2103K19I"
@@ -113041,6 +113113,13 @@
    "device": "FGAD",
    "name": "FGAD",
    "model": "FGAD"
+  }
+ ],
+ "Royole": [
+  {
+   "device": "RY1205",
+   "name": "VERTU Ayxta Fold 3",
+   "model": "VERTU Ayxta Fold 3"
   }
  ],
  "Royqueen": [
@@ -129881,6 +129960,21 @@
    "model": "SHG02"
   },
   {
+   "device": "Recoa",
+   "name": "AQUOS zero6",
+   "model": "A102SH"
+  },
+  {
+   "device": "Recoa",
+   "name": "AQUOS zero6",
+   "model": "SH-RM18"
+  },
+  {
+   "device": "XKH",
+   "name": "AQUOS zero6",
+   "model": "SHG04"
+  },
+  {
    "device": "SH-02L",
    "name": "AQUOS ケータイ SH-02L",
    "model": "SH-02L"
@@ -131517,6 +131611,11 @@
    "device": "Elite_D55",
    "name": "Elite D55",
    "model": "Elite_D55"
+  },
+  {
+   "device": "Elite_D5Max",
+   "name": "Elite D5Max",
+   "model": "Elite D5Max"
   },
   {
    "device": "Elite_D5Max_US",
@@ -148409,6 +148508,11 @@
    "model": "T9501"
   },
   {
+   "device": "T9503",
+   "name": "T9503",
+   "model": "T9503"
+  },
+  {
    "device": "Telemor_T9503",
    "name": "T9503",
    "model": "Telemor T9503"
@@ -152017,6 +152121,11 @@
    "device": "V-E5",
    "name": "V-E5",
    "model": "V-E5"
+  },
+  {
+   "device": "V-N5",
+   "name": "V-N5",
+   "model": "V-N5"
   },
   {
    "device": "VZ-30",
@@ -162029,6 +162138,13 @@
    "model": "Mi Watch"
   }
  ],
+ "Xmobile": [
+  {
+   "device": "X1",
+   "name": "X1",
+   "model": "X1"
+  }
+ ],
  "Xolo": [
   {
    "device": "XE2X",
@@ -171255,6 +171371,13 @@
    "model": "ZTAB01B"
   }
  ],
+ "Zigo": [
+  {
+   "device": "Zigo_Nebula_10_1",
+   "name": "Zigo_Nebula_10_1",
+   "model": "Zigo_Nebula_10_1"
+  }
+ ],
  "Zilo": [
   {
    "device": "Zilo",
@@ -173281,6 +173404,11 @@
    "device": "Titan_P6000_PRO",
    "name": "Titan_P6000_PRO",
    "model": "Titan_P6000_PRO"
+  },
+  {
+   "device": "Titan_X_EEA",
+   "name": "Titan_X_EEA",
+   "model": "iHunt Titan X 5G"
   },
   {
    "device": "Cyber_Wolf_5G",

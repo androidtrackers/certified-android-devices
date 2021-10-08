@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-10-07
+Last sync is 2021-10-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -580,6 +580,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advance|SP4872|SP4872|SP4872|
 |Advance|SP5702|SP5702|SP5702|
 |Advance|SP5712|SP5712|SP5712|
+|Advance|SP5732|SP5732|SP5732|
 |Advance|SP5760|SP5760|SP5760|
 |Advance|SP5775|SP5775|SP5775|
 |Advance|Sp5730|Sp5730|Sp5730|
@@ -849,6 +850,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|Viva H1002 LTE|Viva_H1002_LTE|Viva_H1002_LTE|
 |AllView|Viva H1003 LTE PRO|H1003_LTE_PRO|H1003_LTE_PRO|
 |AllView|Viva H1003 LTE PRO/1|H1003_LTE_PRO1|H1003_LTE_PRO1|
+|AllView|Viva H1003 LTE PRO/1-64GB|H1003_LTE_PRO1_64|H1003_LTE_PRO1|
 |AllView|Viva H1003 LTE PRO/B6|H1003_LTE_PRO|H1003_LTE_PRO|
 |AllView|Viva H1003 LTE PRO3|H1003_LTE_PRO3|H1003_LTE_PRO3|
 |AllView|Viva H1004 LTE|H1004_LTE|H1004_LTE|
@@ -4411,6 +4413,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Coolpad|Cool 10|2040|2040|
 |Coolpad|Cool 10A|Coolpad_2041|Coolpad_2041|
 |Coolpad|Cool 10A|Coolpad_2041_S0|Coolpad_2041_S0|
+|Coolpad|Cool 10A|Coolpad_2041_T3|Coolpad_2041_T3|
 |Coolpad|Cool 10A|Coolpad_2041_U0|Coolpad_2041_U0|
 |Coolpad|Cool 12A|2042|coolpad Cool 12A|
 |Coolpad|Cool 12A|Coolpad_2042_U0|2042|
@@ -12490,6 +12493,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KEMPLER STRAUSS|KEMPLER_P1|KEMPLER_P1|KEMPLER_P1|
 |KEMPLER STRAUSS|KEMPLER_P3|KEMPLER_P3|KEMPLER_P3|
 |KEMPLER STRAUSS|KEMPLER_X_TV|KEMPLER_X_TV|KEMPLER_X_TV|
+|KEMPLER STRAUSS|KemplerP1pro|P1pro|P1 Pro|
 |KEMPLER STRAUSS|Kempler_X_Pro|Kempler_X_Pro|Kempler_X_Pro|
 |KEMPLER STRAUSS|ZKEMPLER|ZKEMPLER|ZKEMPLER|
 |KEP-Tech|K-S18|K-S18|K-S18|
@@ -12717,6 +12721,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kinetic|RSTV-A4K-16|DV8219|RSTV-A4K-16|
 |Kingcomm|C500|C500|Kingcomm C500|
 |Kingcomm|E550|E550|Kingcomm E550|
+|Kinstone|KST103SD|KST103SD|KST103SD|
 |Kinstone|SA070|Kinstone_SA070|KJ-YUBI|
 |Kinstone|SA070|Kinstone_SA070|SA070|
 |Kioto|MID1021|MID1021|MID1021|
@@ -15675,6 +15680,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|拯救者电竞手机2 Pro|doom|Lenovo L70081|
 |Lenovo|拯救者电竞手机2Pro|doom|Lenovo L70081|
 |Lenovo|拯救者电竞手机二代|doom|Lenovo L70081|
+|Lenovo|联想平板电脑 启天K10|X6C6NBF|Lenovo TB-X6C6NBF|
+|Lenovo|联想平板电脑 启天K10|X6C6NBX|Lenovo TB-X6C6NBX|
 |Lenovo|联想平板电脑K10 5G|TB-X607Z|Lenovo TB-X607Z|
 |Leotec|LEOTEC|LETAB731|LETAB731|
 |Leotec|Letab1020|Letab1020|SUPERNOVA Qi32|
@@ -16051,6 +16058,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |M4tel|R2 Plus|R2_Plus|R2_Plus|
 |MAG|MAG425A|MAG425A|MAG425A|
 |MAG|MAG500A|MAG500A|MAG500A|
+|MAGCH|T7|T7_Pro|T7|
 |MARVUE|Pad_M10|Pad_M10|Pad_M10|
 |MARVUE|Pad_M11_EEA|Pad_M11|Pad_M11|
 |MARVUE|Pad_M11_EEA|Pad_M11_EEA|Pad_M11_EEA|
@@ -18763,7 +18771,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia G20|RNN|Nokia G20|
 |Nokia|Nokia G20|RNNA_sprout|Nokia G20|
 |Nokia|Nokia G20|RNN_sprout|Nokia G20|
+|Nokia|Nokia G50|PHR|Nokia G50|
+|Nokia|Nokia G50|PHR_sprout|Nokia G50|
 |Nokia|Nokia Steaming Box 8000|HND|Nokia Streaming Box 8000|
+|Nokia|Nokia T20|RDD|Nokia T20|
 |Nokia|Nokia X10|SCW|Nokia X10|
 |Nokia|Nokia X10|SCW_sprout|Nokia X10|
 |Nokia|Nokia X20|QKS|Nokia X20|
@@ -19834,6 +19845,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO M2 Pro|gram|POCO M2 Pro|
 |POCO|POCO M3|citrus|M2010J19CG|
 |POCO|POCO M3|citrus|M2010J19CI|
+|POCO|POCO M3 Pro 5G|camellia|M2103K19PI|
+|POCO|POCO M3 Pro 5G|camellian|M2103K19PG|
 |POCO|POCO X2|phoenixin|POCO X2|
 |POCO|POCO X3|karna|M2007J20CI|
 |POCO|POCO X3 NFC|surya|M2007J20CG|
@@ -21870,6 +21883,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 10S|rosemary|M2101K7BNY|
 |Redmi|Redmi Note 10S|secret|M2101K7BG|
 |Redmi|Redmi Note 10S|secret|M2101K7BI|
+|Redmi|Redmi Note 10T|camellian|M2103K19Y|
 |Redmi|Redmi Note 10T 5G|camellia|M2103K19I|
 |Redmi|Redmi Note 10T 5G|camellia|TBD|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
@@ -21995,6 +22009,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rockcel|Quartzo Up|Quartzo_up|Quartzo_up|
 |Rockcel|Quartzo_4G|Quartzo_4G|Quartzo_4G|
 |Royaltek|FGAD|FGAD|FGAD|
+|Royole|VERTU Ayxta Fold 3|RY1205|VERTU Ayxta Fold 3|
 |Royqueen|RQ-712|RQ-712|RQ-712|
 |Royqueen|RQ-713S|RQ-713S|RQ-713S|
 |Royqueen|RQ-768|RQ-768|RQ-768|
@@ -25323,6 +25338,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS zero2 SHV47|QDA|SHV47|
 |Sharp|AQUOS zero5G basic|SGA002SH|A002SH|
 |Sharp|AQUOS zero5G basic DX|OJ6|SHG02|
+|Sharp|AQUOS zero6|Recoa|A102SH|
+|Sharp|AQUOS zero6|Recoa|SH-RM18|
+|Sharp|AQUOS zero6|XKH|SHG04|
 |Sharp|AQUOS ケータイ SH-02L|SH-02L|SH-02L|
 |Sharp|AQUOS ケータイ SH-06G|SH-06G|SH-06G|
 |Sharp|Android One S1|kaleido_sprout|S1|
@@ -25643,6 +25661,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|Elite C5|Elite_C5MS|Elite C5|
 |Sky Devices|Elite C55|Elite_C55|Elite C55|
 |Sky Devices|Elite D55|Elite_D55|Elite_D55|
+|Sky Devices|Elite D5Max|Elite_D5Max|Elite D5Max|
 |Sky Devices|Elite D5Max|Elite_D5Max_US|Elite D5Max|
 |Sky Devices|Elite E55|Elite_E55|Elite E55|
 |Sky Devices|Elite E55Max|Elite_E55Max|Elite E55Max|
@@ -28949,6 +28968,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telelynx|TP-MDM107|TP-MDM107|TP-MDM107|
 |Telemor|T8408|Telemor_T8408|T8408|
 |Telemor|T9501|T9501|T9501|
+|Telemor|T9503|T9503|T9503|
 |Telemor|T9503|Telemor_T9503|Telemor T9503|
 |Telemor|Telemor T9502|T9502|Telemor T9502|
 |Telenet|TADAAM Box|sti6160d332|TADAAM Box|
@@ -29627,6 +29647,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VICTUS|VRS5_Plus|VRS5_Plus|VRS5_Plus|
 |VICTUS|VRS6_Plus|VRS6_Plus|VRS6 Plus|
 |VIKUSHA|V-E5|V-E5|V-E5|
+|VIKUSHA|V-N5|V-N5|V-N5|
 |VIKUSHA|VZ-30|VZ-30|VZ-30|
 |VISIO|VISIO 4K Android TV|SW4H|VISIO 4K Android TV|
 |VISIO|VISIO TV|shinagawa|VISIO TV|
@@ -31573,6 +31594,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi Pad 5 Pro|elish|M2105K81AC|
 |Xiaomi|Xiaomi Pad 5 Pro 5G|enuma|M2105K81C|
 |Xiaomi|小米手表|baiji|Mi Watch|
+|Xmobile|X1|X1|X1|
 |Xolo|Era 2X 2GB|XE2X|Era 2X|
 |Xolo|Era 2X 3GB|XE2X3GB|Era 2X 3GB|
 |Xolo|Era3|Era_3|Era 3|
@@ -33397,6 +33419,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zephir|Zephir android TV|hanyang|ZEPHIR Android TV|
 |Zettaly|ZA-407|ZA-407|Zettaly Avy ZA-407|
 |Zexelon|ZTAB01B|ZTAB01B|ZTAB01B|
+|Zigo|Zigo_Nebula_10_1|Zigo_Nebula_10_1|Zigo_Nebula_10_1|
 |Zilo|Zilo|Zilo|Zilo|
 |Zinox|Zpad-X8|Zpad-X8|Zpad-X8|
 |Zinox|Zpad-X8-PRO|Zpad-X8-PRO|Zpad-X8-PRO|
@@ -33781,6 +33804,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iHunt|TitanP6000|TitanP6000|TitanP6000|
 |iHunt|Titan_P4000_Pro_2021_EEA|Titan_P4000_Pro|Titan P4000 Pro 2021_EEA|
 |iHunt|Titan_P6000_PRO|Titan_P6000_PRO|Titan_P6000_PRO|
+|iHunt|Titan_X_EEA|Titan_X_EEA|iHunt Titan X 5G|
 |iHunt|iHunt Cyber Wolf 5G|Cyber_Wolf_5G|iHunt Cyber Wolf 5G|
 |iHunt|iHunt S90 Apex|S90_Apex|S90_Apex|
 |iHunt|iHunt_S60_Discovery_Pro_2020|iHunt_S60_Discovery_Pro_2020|iHunt_S60_Discovery_Pro_2020|

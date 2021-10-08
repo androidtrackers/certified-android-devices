@@ -5383,6 +5383,13 @@
    "device": "SP5712"
   }
  ],
+ "SP5732": [
+  {
+   "brand": "Advance",
+   "name": "SP5732",
+   "device": "SP5732"
+  }
+ ],
  "SP5760": [
   {
    "brand": "Advance",
@@ -7428,6 +7435,11 @@
    "brand": "AllView",
    "name": "Viva H1003 LTE PRO/1",
    "device": "H1003_LTE_PRO1"
+  },
+  {
+   "brand": "AllView",
+   "name": "Viva H1003 LTE PRO/1-64GB",
+   "device": "H1003_LTE_PRO1_64"
   }
  ],
  "H1003_LTE_PRO3": [
@@ -32881,6 +32893,13 @@
    "device": "Coolpad_2041_S0"
   }
  ],
+ "Coolpad_2041_T3": [
+  {
+   "brand": "Coolpad",
+   "name": "Cool 10A",
+   "device": "Coolpad_2041_T3"
+  }
+ ],
  "Coolpad_2041_U0": [
   {
    "brand": "Coolpad",
@@ -42966,6 +42985,11 @@
    "brand": "Elink",
    "name": "Winnovo",
    "device": "T7"
+  },
+  {
+   "brand": "MAGCH",
+   "name": "T7",
+   "device": "T7_Pro"
   },
   {
    "brand": "Performance",
@@ -53283,6 +53307,11 @@
   },
   {
    "brand": "X-PREMIUM",
+   "name": "X1",
+   "device": "X1"
+  },
+  {
+   "brand": "Xmobile",
    "name": "X1",
    "device": "X1"
   }
@@ -87873,6 +87902,18 @@
    "device": "KEMPLER_X_TV"
   }
  ],
+ "P1 Pro": [
+  {
+   "brand": "KEMPLER STRAUSS",
+   "name": "KemplerP1pro",
+   "device": "P1pro"
+  },
+  {
+   "brand": "Leagoo",
+   "name": "P1 Pro",
+   "device": "P1_Pro"
+  }
+ ],
  "Kempler_X_Pro": [
   {
    "brand": "KEMPLER STRAUSS",
@@ -89418,6 +89459,13 @@
    "brand": "Kingcomm",
    "name": "E550",
    "device": "E550"
+  }
+ ],
+ "KST103SD": [
+  {
+   "brand": "Kinstone",
+   "name": "KST103SD",
+   "device": "KST103SD"
   }
  ],
  "SA070": [
@@ -103839,13 +103887,6 @@
    "device": "M9A_Pro"
   }
  ],
- "P1 Pro": [
-  {
-   "brand": "Leagoo",
-   "name": "P1 Pro",
-   "device": "P1_Pro"
-  }
- ],
  "Power 2": [
   {
    "brand": "Leagoo",
@@ -107382,12 +107423,22 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab K10",
    "device": "X6C6NBF"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "联想平板电脑 启天K10",
+   "device": "X6C6NBF"
   }
  ],
  "Lenovo TB-X6C6NBX": [
   {
    "brand": "Lenovo",
    "name": "Lenovo Tab K10",
+   "device": "X6C6NBX"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "联想平板电脑 启天K10",
    "device": "X6C6NBX"
   }
  ],
@@ -129319,11 +129370,30 @@
    "device": "RNN_sprout"
   }
  ],
+ "Nokia G50": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia G50",
+   "device": "PHR"
+  },
+  {
+   "brand": "Nokia",
+   "name": "Nokia G50",
+   "device": "PHR_sprout"
+  }
+ ],
  "Nokia Streaming Box 8000": [
   {
    "brand": "Nokia",
    "name": "Nokia Steaming Box 8000",
    "device": "HND"
+  }
+ ],
+ "Nokia T20": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia T20",
+   "device": "RDD"
   }
  ],
  "Nokia X10": [
@@ -136287,6 +136357,20 @@
    "brand": "POCO",
    "name": "POCO M3",
    "device": "citrus"
+  }
+ ],
+ "M2103K19PI": [
+  {
+   "brand": "POCO",
+   "name": "POCO M3 Pro 5G",
+   "device": "camellia"
+  }
+ ],
+ "M2103K19PG": [
+  {
+   "brand": "POCO",
+   "name": "POCO M3 Pro 5G",
+   "device": "camellian"
   }
  ],
  "POCO X2": [
@@ -149606,6 +149690,13 @@
    "device": "secret"
   }
  ],
+ "M2103K19Y": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 10T",
+   "device": "camellian"
+  }
+ ],
  "M2103K19I": [
   {
    "brand": "Redmi",
@@ -150376,6 +150467,13 @@
    "brand": "Royaltek",
    "name": "FGAD",
    "device": "FGAD"
+  }
+ ],
+ "VERTU Ayxta Fold 3": [
+  {
+   "brand": "Royole",
+   "name": "VERTU Ayxta Fold 3",
+   "device": "RY1205"
   }
  ],
  "RQ-712": [
@@ -173027,6 +173125,27 @@
    "device": "OJ6"
   }
  ],
+ "A102SH": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS zero6",
+   "device": "Recoa"
+  }
+ ],
+ "SH-RM18": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS zero6",
+   "device": "Recoa"
+  }
+ ],
+ "SHG04": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS zero6",
+   "device": "XKH"
+  }
+ ],
  "SH-02L": [
   {
    "brand": "Sharp",
@@ -175137,6 +175256,11 @@
   }
  ],
  "Elite D5Max": [
+  {
+   "brand": "Sky Devices",
+   "name": "Elite D5Max",
+   "device": "Elite_D5Max"
+  },
   {
    "brand": "Sky Devices",
    "name": "Elite D5Max",
@@ -197027,6 +197151,13 @@
    "device": "T9501"
   }
  ],
+ "T9503": [
+  {
+   "brand": "Telemor",
+   "name": "T9503",
+   "device": "T9503"
+  }
+ ],
  "Telemor T9503": [
   {
    "brand": "Telemor",
@@ -201124,6 +201255,13 @@
    "brand": "VIKUSHA",
    "name": "V-E5",
    "device": "V-E5"
+  }
+ ],
+ "V-N5": [
+  {
+   "brand": "VIKUSHA",
+   "name": "V-N5",
+   "device": "V-N5"
   }
  ],
  "VZ-30": [
@@ -225495,6 +225633,13 @@
    "device": "ZTAB01B"
   }
  ],
+ "Zigo_Nebula_10_1": [
+  {
+   "brand": "Zigo",
+   "name": "Zigo_Nebula_10_1",
+   "device": "Zigo_Nebula_10_1"
+  }
+ ],
  "Zpad-X8": [
   {
    "brand": "Zinox",
@@ -227791,6 +227936,13 @@
    "brand": "iHunt",
    "name": "Titan_P6000_PRO",
    "device": "Titan_P6000_PRO"
+  }
+ ],
+ "iHunt Titan X 5G": [
+  {
+   "brand": "iHunt",
+   "name": "Titan_X_EEA",
+   "device": "Titan_X_EEA"
   }
  ],
  "iHunt Cyber Wolf 5G": [
