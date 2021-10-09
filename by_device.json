@@ -14254,6 +14254,13 @@
    "model": "A712"
   }
  ],
+ "Smart_A1_Plus": [
+  {
+   "brand": "Astro mobile",
+   "name": "Smart _A1_Plus",
+   "model": "Smart A1 Plus"
+  }
+ ],
  "polaris-wifionly": [
   {
    "brand": "AstroQueo",
@@ -17770,6 +17777,20 @@
    "model": "Dongle Q"
   }
  ],
+ "AT1011U": [
+  {
+   "brand": "Azeyou",
+   "name": "AT1011U",
+   "model": "AT1011U"
+  }
+ ],
+ "AT1012U": [
+  {
+   "brand": "Azeyou",
+   "name": "AT1012U",
+   "model": "AT1012U"
+  }
+ ],
  "AT1031U": [
   {
    "brand": "Azeyou",
@@ -20247,6 +20268,13 @@
    "brand": "BQru",
    "name": "BQ 5503 NICE 2",
    "model": "BQru-5503"
+  }
+ ],
+ "BQru-6353L": [
+  {
+   "brand": "BQru",
+   "name": "BQ 6353L",
+   "model": "BQ-6353L"
   }
  ],
  "BQru-1020L": [
@@ -23532,6 +23560,13 @@
    "brand": "Blackview",
    "name": "BV4900Pro",
    "model": "BV4900Pro"
+  }
+ ],
+ "BV4900s": [
+  {
+   "brand": "Blackview",
+   "name": "BV4900s",
+   "model": "BV4900s"
   }
  ],
  "BV5100": [
@@ -27462,6 +27497,20 @@
    "brand": "Brondi",
    "name": "850_4G",
    "model": "850_4G"
+  }
+ ],
+ "AMICO_SMARTPHONE_XL": [
+  {
+   "brand": "Brondi",
+   "name": "AMICO SMARTPHONE XL",
+   "model": "AMICO SMARTPHONE XL"
+  }
+ ],
+ "MIDNIGHT_SKY_EEA": [
+  {
+   "brand": "Brondi",
+   "name": "MIDNIGHT_SKY_EEA",
+   "model": "MIDNIGHT_SKY"
   }
  ],
  "I9080_PH1": [
@@ -54556,6 +54605,11 @@
    "brand": "Gionee",
    "name": "GIONEE MAX",
    "model": "GIONEE MAX"
+  },
+  {
+   "brand": "MarQ",
+   "name": "MarQ_M3",
+   "model": "MarQ_M3"
   }
  ],
  "GIONEE_MAX_Pro": [
@@ -112117,6 +112171,13 @@
    "model": "8CY"
   }
  ],
+ "M-SP8DY_EEA": [
+  {
+   "brand": "Mediacom",
+   "name": "8DY",
+   "model": "8DY"
+  }
+ ],
  "M-PPxG5M": [
   {
    "brand": "Mediacom",
@@ -112241,6 +112302,13 @@
    "brand": "Mediacom",
    "name": "M-SP1AZ3_EEA",
    "model": "M-SP1AZ3"
+  }
+ ],
+ "M-SP1EY_EEA": [
+  {
+   "brand": "Mediacom",
+   "name": "M-SP1EY",
+   "model": "1EY"
   }
  ],
  "M-SP7HXAH": [
@@ -121647,6 +121715,13 @@
    "model": "M8_4G"
   }
  ],
+ "ML_SO0F_M8_WIFI": [
+  {
+   "brand": "Multilaser",
+   "name": "M8 Wifi",
+   "model": "M8_WIFI"
+  }
+ ],
  "ML_SO19_M8_4G": [
   {
    "brand": "Multilaser",
@@ -122007,6 +122082,13 @@
    "brand": "Multilaser",
    "name": "Multilaser E Lite",
    "model": "Multilaser_E_Lite"
+  }
+ ],
+ "Multilaser_E_Pro": [
+  {
+   "brand": "Multilaser",
+   "name": "Multilaser E Pro",
+   "model": "Multilaser_E_Pro"
   }
  ],
  "Multilaser_Elite_2": [
@@ -127868,6 +127950,13 @@
    "model": "F21"
   }
  ],
+ "C20_Pro": [
+  {
+   "brand": "OSCAL",
+   "name": "C20 Pro",
+   "model": "C20 Pro"
+  }
+ ],
  "BM57_lite": [
   {
    "brand": "OTK",
@@ -132656,6 +132745,13 @@
    "model": "C25"
   }
  ],
+ "C27_Pro": [
+  {
+   "brand": "Oukitel",
+   "name": "C27_Pro_EEA",
+   "model": "C27 Pro"
+  }
+ ],
  "C6_Pro": [
   {
    "brand": "Oukitel",
@@ -132940,6 +133036,13 @@
    "brand": "Oukitel",
    "name": "WP15",
    "model": "WP15"
+  }
+ ],
+ "WP17": [
+  {
+   "brand": "Oukitel",
+   "name": "WP17_EEA",
+   "model": "WP17"
   }
  ],
  "WP2": [
@@ -141602,6 +141705,13 @@
    "model": "L8_EEA"
   }
  ],
+ "M10_A01": [
+  {
+   "brand": "Pritom",
+   "name": "M10",
+   "model": "M10"
+  }
+ ],
  "M10_Air": [
   {
    "brand": "Pritom",
@@ -145746,6 +145856,13 @@
    "model": "RX4702"
   }
  ],
+ "RX4802": [
+  {
+   "brand": "Red-X",
+   "name": "RX4802",
+   "model": "RX4802"
+  }
+ ],
  "raphaelin": [
   {
    "brand": "Redmi",
@@ -149154,6 +149271,13 @@
    "brand": "Safaricom",
    "name": "NEON PLUS",
    "model": "NEON PLUS"
+  }
+ ],
+ "NEON-RAY-2": [
+  {
+   "brand": "Safaricom",
+   "name": "NEON-RAY-2",
+   "model": "NEON RAY 2"
   }
  ],
  "NEON_NOVA": [
@@ -170887,6 +171011,11 @@
  "MQ703G": [
   {
    "brand": "Smart (BD)",
+   "name": "MQ703G",
+   "model": "MQ703G"
+  },
+  {
+   "brand": "TwinMOS",
    "name": "MQ703G",
    "model": "MQ703G"
   }
@@ -217645,6 +217774,13 @@
    "model": "TITAN P15000 PRO 5G"
   }
  ],
+ "Tablet_PC_10_PRO_EEA": [
+  {
+   "brand": "iHunt",
+   "name": "Tablet PC 10 PRO",
+   "model": "Tablet PC 10 PRO"
+  }
+ ],
  "Tian_P3000": [
   {
    "brand": "iHunt",
@@ -218209,6 +218345,13 @@
    "brand": "iSWAG",
    "name": "iSWAG ACTIV",
    "model": "iSWAG ACTIV"
+  }
+ ],
+ "ITAB_X38T": [
+  {
+   "brand": "iTab XPLUS",
+   "name": "ITAB_X38T",
+   "model": "ITAB_X38T"
   }
  ],
  "iTAB-A1": [

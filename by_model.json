@@ -12378,6 +12378,13 @@
    "device": "A712"
   }
  ],
+ "Smart A1 Plus": [
+  {
+   "brand": "Astro mobile",
+   "name": "Smart _A1_Plus",
+   "device": "Smart_A1_Plus"
+  }
+ ],
  "A912": [
   {
    "brand": "AstroQueo",
@@ -15738,6 +15745,20 @@
    "device": "ICN"
   }
  ],
+ "AT1011U": [
+  {
+   "brand": "Azeyou",
+   "name": "AT1011U",
+   "device": "AT1011U"
+  }
+ ],
+ "AT1012U": [
+  {
+   "brand": "Azeyou",
+   "name": "AT1012U",
+   "device": "AT1012U"
+  }
+ ],
  "AT1031U": [
   {
    "brand": "Azeyou",
@@ -18185,6 +18206,13 @@
    "brand": "BQru",
    "name": "BQ 5503 NICE 2",
    "device": "BQru_5503"
+  }
+ ],
+ "BQ-6353L": [
+  {
+   "brand": "BQru",
+   "name": "BQ 6353L",
+   "device": "BQru-6353L"
   }
  ],
  "BQ-1020L": [
@@ -21498,6 +21526,13 @@
    "brand": "Blackview",
    "name": "BV4900Pro",
    "device": "BV4900Pro"
+  }
+ ],
+ "BV4900s": [
+  {
+   "brand": "Blackview",
+   "name": "BV4900s",
+   "device": "BV4900s"
   }
  ],
  "BV5100": [
@@ -25481,6 +25516,20 @@
    "brand": "Brondi",
    "name": "850_4G",
    "device": "850_4G"
+  }
+ ],
+ "AMICO SMARTPHONE XL": [
+  {
+   "brand": "Brondi",
+   "name": "AMICO SMARTPHONE XL",
+   "device": "AMICO_SMARTPHONE_XL"
+  }
+ ],
+ "MIDNIGHT_SKY": [
+  {
+   "brand": "Brondi",
+   "name": "MIDNIGHT_SKY_EEA",
+   "device": "MIDNIGHT_SKY_EEA"
   }
  ],
  "brown 2": [
@@ -40750,6 +40799,11 @@
    "brand": "Monster",
    "name": "M10",
    "device": "M10"
+  },
+  {
+   "brand": "Pritom",
+   "name": "M10",
+   "device": "M10_A01"
   },
   {
    "brand": "Snopow",
@@ -113350,6 +113404,13 @@
    "device": "komagome"
   }
  ],
+ "MarQ_M3": [
+  {
+   "brand": "MarQ",
+   "name": "MarQ_M3",
+   "device": "GIONEE_MAX"
+  }
+ ],
  "Mara Phones Z1": [
   {
    "brand": "Mara Phones",
@@ -114574,6 +114635,13 @@
    "device": "8CY"
   }
  ],
+ "8DY": [
+  {
+   "brand": "Mediacom",
+   "name": "8DY",
+   "device": "M-SP8DY_EEA"
+  }
+ ],
  "M-PPxG5M": [
   {
    "brand": "Mediacom",
@@ -114698,6 +114766,13 @@
    "brand": "Mediacom",
    "name": "M-SP1AZ3_EEA",
    "device": "M-SP1AZ3"
+  }
+ ],
+ "1EY": [
+  {
+   "brand": "Mediacom",
+   "name": "M-SP1EY",
+   "device": "M-SP1EY_EEA"
   }
  ],
  "M-SP7HXAH": [
@@ -124308,6 +124383,13 @@
    "device": "ML_SO19_M8_4G"
   }
  ],
+ "M8_WIFI": [
+  {
+   "brand": "Multilaser",
+   "name": "M8 Wifi",
+   "device": "ML_SO0F_M8_WIFI"
+  }
+ ],
  "M9_3G": [
   {
    "brand": "Multilaser",
@@ -124654,6 +124736,13 @@
    "brand": "Multilaser",
    "name": "Multilaser E Lite",
    "device": "Multilaser_E_Lite"
+  }
+ ],
+ "Multilaser_E_Pro": [
+  {
+   "brand": "Multilaser",
+   "name": "Multilaser E Pro",
+   "device": "Multilaser_E_Pro"
   }
  ],
  "Multilaser_Elite_2": [
@@ -130552,6 +130641,13 @@
    "device": "yeongdeungpo"
   }
  ],
+ "C20 Pro": [
+  {
+   "brand": "OSCAL",
+   "name": "C20 Pro",
+   "device": "C20_Pro"
+  }
+ ],
  "T3": [
   {
    "brand": "OTHO",
@@ -135558,6 +135654,13 @@
    "device": "C25"
   }
  ],
+ "C27 Pro": [
+  {
+   "brand": "Oukitel",
+   "name": "C27_Pro_EEA",
+   "device": "C27_Pro"
+  }
+ ],
  "C6 Pro": [
   {
    "brand": "Oukitel",
@@ -135835,6 +135938,13 @@
    "brand": "Oukitel",
    "name": "WP15",
    "device": "WP15"
+  }
+ ],
+ "WP17": [
+  {
+   "brand": "Oukitel",
+   "name": "WP17_EEA",
+   "device": "WP17"
   }
  ],
  "WP2": [
@@ -149159,6 +149269,13 @@
    "device": "RX4702"
   }
  ],
+ "RX4802": [
+  {
+   "brand": "Red-X",
+   "name": "RX4802",
+   "device": "RX4802"
+  }
+ ],
  "Lmi": [
   {
    "brand": "Redmi",
@@ -152808,6 +152925,18 @@
    "device": "NEON_PLUS"
   }
  ],
+ "NEON RAY 2": [
+  {
+   "brand": "Safaricom",
+   "name": "NEON-RAY-2",
+   "device": "NEON-RAY-2"
+  },
+  {
+   "brand": "Safaricom",
+   "name": "NEON_RAY_2",
+   "device": "NEON_RAY_2"
+  }
+ ],
  "NEON_NOVA": [
   {
    "brand": "Safaricom",
@@ -152820,13 +152949,6 @@
    "brand": "Safaricom",
    "name": "NEON_RAY",
    "device": "NEON_RAY"
-  }
- ],
- "NEON RAY 2": [
-  {
-   "brand": "Safaricom",
-   "name": "NEON_RAY_2",
-   "device": "NEON_RAY_2"
   }
  ],
  "NEON_RAY_PRO": [
@@ -176091,6 +176213,11 @@
  "MQ703G": [
   {
    "brand": "Smart (BD)",
+   "name": "MQ703G",
+   "device": "MQ703G"
+  },
+  {
+   "brand": "TwinMOS",
    "name": "MQ703G",
    "device": "MQ703G"
   }
@@ -227896,6 +228023,13 @@
    "device": "P15000PRO_5G"
   }
  ],
+ "Tablet PC 10 PRO": [
+  {
+   "brand": "iHunt",
+   "name": "Tablet PC 10 PRO",
+   "device": "Tablet_PC_10_PRO_EEA"
+  }
+ ],
  "Tian_P3000": [
   {
    "brand": "iHunt",
@@ -228485,6 +228619,13 @@
    "brand": "iSWAG",
    "name": "iSWAG ACTIV",
    "device": "iSWAG_ACTIV"
+  }
+ ],
+ "ITAB_X38T": [
+  {
+   "brand": "iTab XPLUS",
+   "name": "ITAB_X38T",
+   "device": "ITAB_X38T"
   }
  ],
  "iTAB-A1": [
