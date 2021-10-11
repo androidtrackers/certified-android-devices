@@ -51395,6 +51395,13 @@
    "model": "M20+Pro"
   }
  ],
+ "M20S_Mini": [
+  {
+   "brand": "Evertek",
+   "device": "EVERTEK_M20S_Mini",
+   "model": "M20S Mini"
+  }
+ ],
  "M20_Pro": [
   {
    "brand": "Evertek",
@@ -90133,6 +90140,23 @@
    "model": "KONKA Android TV 4K"
   }
  ],
+ "N7": [
+  {
+   "brand": "KONKA",
+   "device": "N7",
+   "model": "N7"
+  },
+  {
+   "brand": "NOA Mobile",
+   "device": "NOA_N7",
+   "model": "N7"
+  },
+  {
+   "brand": "VUCATIMES",
+   "device": "N7",
+   "model": "N7"
+  }
+ ],
  "RE1": [
   {
    "brand": "KONKA",
@@ -92543,6 +92567,13 @@
    "brand": "Krono",
    "device": "NET_ADVANCE",
    "model": "NET_ADVANCE"
+  }
+ ],
+ "NET_K7": [
+  {
+   "brand": "Krono",
+   "device": "NET_K7",
+   "model": "NET_K7"
   }
  ],
  "NET_LITE": [
@@ -124792,18 +124823,6 @@
    "model": "Hummer_2019_R"
   }
  ],
- "N7": [
-  {
-   "brand": "NOA Mobile",
-   "device": "NOA_N7",
-   "model": "N7"
-  },
-  {
-   "brand": "VUCATIMES",
-   "device": "N7",
-   "model": "N7"
-  }
- ],
  "N8": [
   {
    "brand": "NOA Mobile",
@@ -129743,6 +129762,13 @@
    "model": "PDAT10"
   }
  ],
+ "A53 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP4E49",
+   "model": "PECM20"
+  }
+ ],
  "A53f": [
   {
    "brand": "Oppo",
@@ -130765,6 +130791,13 @@
    "brand": "Oppo",
    "device": "OP4E99",
    "model": "PEHT00"
+  }
+ ],
+ "PEQM00": [
+  {
+   "brand": "Oppo",
+   "device": "OP4ED5",
+   "model": "PEQM00"
   }
  ],
  "R1001": [
@@ -146177,6 +146210,68 @@
    "brand": "Xiaomi",
    "device": "davinci",
    "model": "Mi 9T"
+  }
+ ],
+ "MiTV": [
+  {
+   "brand": "Redmi",
+   "device": "rango",
+   "model": "MiTV-AXFR0"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "amelie",
+   "model": "MiTV-MSSP0"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "croods",
+   "model": "MiTV-MOOQ0"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "dangal",
+   "model": "MiTV-AXSO0"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "dangalFHD",
+   "model": "MiTV-AXSO1"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "dangalUHD",
+   "model": "MiTV-AXSO2"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "hermano",
+   "model": "MiTV-MOSR0"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "machuca",
+   "model": "MiTV-MSSP3"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "magnolia",
+   "model": "MiTV4I"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "nino",
+   "model": "MiTV-MSSP1"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "tarzan",
+   "model": "MiTV-MOOQ1"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "volver",
+   "model": "MiTV-MSSP2"
   }
  ],
  "Redmi  7A": [
@@ -183632,6 +183727,20 @@
    "model": "ANGEL_SMART"
   }
  ],
+ "T847": [
+  {
+   "brand": "TOKECY",
+   "device": "T847",
+   "model": "T847"
+  }
+ ],
+ "T847_EEA": [
+  {
+   "brand": "TOKECY",
+   "device": "T847_EEA",
+   "model": "T847_EEA"
+  }
+ ],
  "TONE e20": [
   {
    "brand": "TONE",
@@ -202783,58 +202892,6 @@
    "brand": "Xiaomi",
    "device": "oneday",
    "model": "MIBOX4"
-  }
- ],
- "MiTV": [
-  {
-   "brand": "Xiaomi",
-   "device": "amelie",
-   "model": "MiTV-MSSP0"
-  },
-  {
-   "brand": "Xiaomi",
-   "device": "croods",
-   "model": "MiTV-MOOQ0"
-  },
-  {
-   "brand": "Xiaomi",
-   "device": "dangal",
-   "model": "MiTV-AXSO0"
-  },
-  {
-   "brand": "Xiaomi",
-   "device": "dangalFHD",
-   "model": "MiTV-AXSO1"
-  },
-  {
-   "brand": "Xiaomi",
-   "device": "dangalUHD",
-   "model": "MiTV-AXSO2"
-  },
-  {
-   "brand": "Xiaomi",
-   "device": "machuca",
-   "model": "MiTV-MSSP3"
-  },
-  {
-   "brand": "Xiaomi",
-   "device": "magnolia",
-   "model": "MiTV4I"
-  },
-  {
-   "brand": "Xiaomi",
-   "device": "nino",
-   "model": "MiTV-MSSP1"
-  },
-  {
-   "brand": "Xiaomi",
-   "device": "tarzan",
-   "model": "MiTV-MOOQ1"
-  },
-  {
-   "brand": "Xiaomi",
-   "device": "volver",
-   "model": "MiTV-MSSP2"
   }
  ],
  "MiTV2": [

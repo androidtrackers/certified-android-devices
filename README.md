@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-10-10
+Last sync is 2021-10-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6123,6 +6123,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Evertek|M20 Mini|M20_Mini|M20 Mini|
 |Evertek|M20 NANO|M20_NANO|M20 NANO|
 |Evertek|M20+Pro|M20_Pro|M20+Pro|
+|Evertek|M20S_Mini|EVERTEK_M20S_Mini|M20S Mini|
 |Evertek|M20_Pro|M20_Pro|M20_Pro|
 |Evertek|M20_S|M20_S|M20 S|
 |Evertek|P17|P17|P17|
@@ -12522,6 +12523,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KONKA|KONKA Android TV|hongik|KONKA 4K Android TV|
 |KONKA|Konka Android TV|uguisudani|KONKA 2K Android TV|
 |KONKA|Konka android tv|hanyang|KONKA Android TV 4K|
+|KONKA|N7|N7|N7|
 |KONKA|RE1|RE1|RE1|
 |KONKA|RU1|RU1|RU1|
 |KONKA|SE1|SE1|SE1|
@@ -12876,6 +12878,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Krono|776PLUS|KRONO_776PLUS|776PLUS|
 |Krono|NETWORK|NETWORK|NETWORK|
 |Krono|NET_ADVANCE|NET_ADVANCE|NET_ADVANCE|
+|Krono|NET_K7|NET_K7|NET_K7|
 |Krono|NET_LITE|NET_LITE|NET_LITE|
 |Krono|NET_MATRIX|NET_MATRIX|NET_MATRIX|
 |Krono|NET_MAX|NET_MAX|NET_MAX|
@@ -19230,6 +19233,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A53|OP4EFDL1|CPH2131|
 |Oppo|A53|OP4EFDL1|CPH2133|
 |Oppo|A53|OP4EFDL1|CPH2139|
+|Oppo|A53 5G|OP4E49|PECM20|
 |Oppo|A53f|A53|A53f|
 |Oppo|A53fw|A53|A53fw|
 |Oppo|A53m|A53|OPPO A53m|
@@ -19414,6 +19418,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Watch|beluga|OPPO Watch|
 |Oppo|OPPO Watch|orca|OPPO Watch|
 |Oppo|PEHM00|OP4E99|PEHT00|
+|Oppo|PEQM00|OP4ED5|PEQM00|
 |Oppo|R1001|OPPO72_13076|R1001|
 |Oppo|R1001|R1001|R1001|
 |Oppo|R1011|R1011|R1011|
@@ -21832,6 +21837,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|K30 PRO|lmi|Redmi K30 Pro|
 |Redmi|Mi  9T  Pro|raphaelin|Redmi K20 Pro|
 |Redmi|Mi 9T|davinci|Mi 9T|
+|Redmi|MiTV|rango|MiTV-AXFR0|
 |Redmi|Redmi  7A|pine|Redmi 7A|
 |Redmi|Redmi  7A|pine|pine|
 |Redmi|Redmi  Note  7|lavender|Redmi Note 7|
@@ -28422,6 +28428,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TMAX|TM9S775|MID908A-K|TM9S775|
 |TO21COMMS|TOP10|TOP10|TOP10|
 |TOCHMOBILE|ANGEL_SMART|ANGEL_SMART|ANGEL_SMART|
+|TOKECY|T847|T847|T847|
+|TOKECY|T847_EEA|T847_EEA|T847_EEA|
 |TONE|TONE e20|TONE_e20|TONE e20|
 |TONE|TONE_e21|TONE_e21|TONE_e21|
 |TOPELOTEK|KIDS06|KIDS06|KIDS06|
@@ -31553,6 +31561,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|MiTV|dangal|MiTV-AXSO0|
 |Xiaomi|MiTV|dangalFHD|MiTV-AXSO1|
 |Xiaomi|MiTV|dangalUHD|MiTV-AXSO2|
+|Xiaomi|MiTV|hermano|MiTV-MOSR0|
 |Xiaomi|MiTV|machuca|MiTV-MSSP3|
 |Xiaomi|MiTV|magnolia|MiTV4I|
 |Xiaomi|MiTV|nino|MiTV-MSSP1|

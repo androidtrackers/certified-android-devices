@@ -47146,6 +47146,13 @@
    "model": "M20_Pro"
   }
  ],
+ "EVERTEK_M20S_Mini": [
+  {
+   "brand": "Evertek",
+   "name": "M20S_Mini",
+   "model": "M20S Mini"
+  }
+ ],
  "M20_S": [
   {
    "brand": "Evertek",
@@ -86910,6 +86917,23 @@
    "model": "KM7012BK"
   }
  ],
+ "N7": [
+  {
+   "brand": "KONKA",
+   "name": "N7",
+   "model": "N7"
+  },
+  {
+   "brand": "VUCATIMES",
+   "name": "N7",
+   "model": "N7"
+  },
+  {
+   "brand": "VUCATIMES",
+   "name": "VUCATIMES",
+   "model": "N7"
+  }
+ ],
  "RE1": [
   {
    "brand": "KONKA",
@@ -89237,6 +89261,13 @@
    "brand": "Krono",
    "name": "NET_ADVANCE",
    "model": "NET_ADVANCE"
+  }
+ ],
+ "NET_K7": [
+  {
+   "brand": "Krono",
+   "name": "NET_K7",
+   "model": "NET_K7"
   }
  ],
  "NET_LITE": [
@@ -129535,6 +129566,23 @@
    "model": "CPH2135"
   }
  ],
+ "OP4E49": [
+  {
+   "brand": "Oppo",
+   "name": "A53 5G",
+   "model": "PECM20"
+  },
+  {
+   "brand": "Oppo",
+   "name": "OPPO A53 5G",
+   "model": "PECM30"
+  },
+  {
+   "brand": "Oppo",
+   "name": "OPPO A53 5G",
+   "model": "PECT30"
+  }
+ ],
  "OP4F2F": [
   {
    "brand": "Oppo",
@@ -130502,18 +130550,6 @@
    "model": "PEZM00"
   }
  ],
- "OP4E49": [
-  {
-   "brand": "Oppo",
-   "name": "OPPO A53 5G",
-   "model": "PECM30"
-  },
-  {
-   "brand": "Oppo",
-   "name": "OPPO A53 5G",
-   "model": "PECT30"
-  }
- ],
  "OP4F53L1": [
   {
    "brand": "Oppo",
@@ -130590,6 +130626,13 @@
    "brand": "Oppo",
    "name": "OPPO Watch",
    "model": "OPPO Watch"
+  }
+ ],
+ "OP4ED5": [
+  {
+   "brand": "Oppo",
+   "name": "PEQM00",
+   "model": "PEQM00"
   }
  ],
  "OPPO72_13076": [
@@ -145890,6 +145933,13 @@
    "brand": "Xiaomi",
    "name": "Mi 9T",
    "model": "Mi 9T"
+  }
+ ],
+ "rango": [
+  {
+   "brand": "Redmi",
+   "name": "MiTV",
+   "model": "MiTV-AXFR0"
   }
  ],
  "lavender": [
@@ -185932,6 +185982,20 @@
    "model": "ANGEL_SMART"
   }
  ],
+ "T847": [
+  {
+   "brand": "TOKECY",
+   "name": "T847",
+   "model": "T847"
+  }
+ ],
+ "T847_EEA": [
+  {
+   "brand": "TOKECY",
+   "name": "T847_EEA",
+   "model": "T847_EEA"
+  }
+ ],
  "TONE_e20": [
   {
    "brand": "TONE",
@@ -193623,18 +193687,6 @@
    "brand": "VUCATIMES",
    "name": "N10_EEA",
    "model": "N10"
-  }
- ],
- "N7": [
-  {
-   "brand": "VUCATIMES",
-   "name": "N7",
-   "model": "N7"
-  },
-  {
-   "brand": "VUCATIMES",
-   "name": "VUCATIMES",
-   "model": "N7"
   }
  ],
  "N8": [
@@ -204911,6 +204963,13 @@
    "brand": "Xiaomi",
    "name": "MiTV",
    "model": "MiTV-AXSO2"
+  }
+ ],
+ "hermano": [
+  {
+   "brand": "Xiaomi",
+   "name": "MiTV",
+   "model": "MiTV-MOSR0"
   }
  ],
  "machuca": [

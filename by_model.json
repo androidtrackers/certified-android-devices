@@ -44842,6 +44842,13 @@
    "device": "M20_Pro"
   }
  ],
+ "M20S Mini": [
+  {
+   "brand": "Evertek",
+   "name": "M20S_Mini",
+   "device": "EVERTEK_M20S_Mini"
+  }
+ ],
  "M20_Pro": [
   {
    "brand": "Evertek",
@@ -88116,6 +88123,28 @@
    "device": "hanyang"
   }
  ],
+ "N7": [
+  {
+   "brand": "KONKA",
+   "name": "N7",
+   "device": "N7"
+  },
+  {
+   "brand": "NOA Mobile",
+   "name": "N7",
+   "device": "NOA_N7"
+  },
+  {
+   "brand": "VUCATIMES",
+   "name": "N7",
+   "device": "N7"
+  },
+  {
+   "brand": "VUCATIMES",
+   "name": "VUCATIMES",
+   "device": "N7"
+  }
+ ],
  "RE1": [
   {
    "brand": "KONKA",
@@ -90542,6 +90571,13 @@
    "brand": "Krono",
    "name": "NET_ADVANCE",
    "device": "NET_ADVANCE"
+  }
+ ],
+ "NET_K7": [
+  {
+   "brand": "Krono",
+   "name": "NET_K7",
+   "device": "NET_K7"
   }
  ],
  "NET_LITE": [
@@ -127033,23 +127069,6 @@
    "device": "N1"
   }
  ],
- "N7": [
-  {
-   "brand": "NOA Mobile",
-   "name": "N7",
-   "device": "NOA_N7"
-  },
-  {
-   "brand": "VUCATIMES",
-   "name": "N7",
-   "device": "N7"
-  },
-  {
-   "brand": "VUCATIMES",
-   "name": "VUCATIMES",
-   "device": "N7"
-  }
- ],
  "NOA_N8": [
   {
    "brand": "NOA Mobile",
@@ -132338,6 +132357,13 @@
    "device": "OP4EFDL1"
   }
  ],
+ "PECM20": [
+  {
+   "brand": "Oppo",
+   "name": "A53 5G",
+   "device": "OP4E49"
+  }
+ ],
  "A53f": [
   {
    "brand": "Oppo",
@@ -133602,6 +133628,13 @@
    "brand": "Oppo",
    "name": "PEHM00",
    "device": "OP4E99"
+  }
+ ],
+ "PEQM00": [
+  {
+   "brand": "Oppo",
+   "name": "PEQM00",
+   "device": "OP4ED5"
   }
  ],
  "R1001": [
@@ -149317,6 +149350,13 @@
    "brand": "Xiaomi",
    "name": "Mi 9T",
    "device": "davinci"
+  }
+ ],
+ "MiTV-AXFR0": [
+  {
+   "brand": "Redmi",
+   "name": "MiTV",
+   "device": "rango"
   }
  ],
  "Redmi 7A": [
@@ -193578,6 +193618,20 @@
    "device": "ANGEL_SMART"
   }
  ],
+ "T847": [
+  {
+   "brand": "TOKECY",
+   "name": "T847",
+   "device": "T847"
+  }
+ ],
+ "T847_EEA": [
+  {
+   "brand": "TOKECY",
+   "name": "T847_EEA",
+   "device": "T847_EEA"
+  }
+ ],
  "TONE e20": [
   {
    "brand": "TONE",
@@ -213409,6 +213463,13 @@
    "brand": "Xiaomi",
    "name": "MiTV",
    "device": "dangalUHD"
+  }
+ ],
+ "MiTV-MOSR0": [
+  {
+   "brand": "Xiaomi",
+   "name": "MiTV",
+   "device": "hermano"
   }
  ],
  "MiTV-MSSP3": [
