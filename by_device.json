@@ -2845,6 +2845,13 @@
    "model": "Desert2"
   }
  ],
+ "River1": [
+  {
+   "brand": "AZOM TECH",
+   "name": "River1",
+   "model": "AZOM River 1"
+  }
+ ],
  "A1046G": [
   {
    "brand": "AZPEN",
@@ -9527,6 +9534,11 @@
   },
   {
    "brand": "Leagoo",
+   "name": "S11",
+   "model": "S11"
+  },
+  {
+   "brand": "MOBULAA",
    "name": "S11",
    "model": "S11"
   },
@@ -25095,6 +25107,13 @@
    "brand": "Blu",
    "name": "C6L 2020",
    "model": "C6L 2020"
+  }
+ ],
+ "C0140TT": [
+  {
+   "brand": "Blu",
+   "name": "C6L 2021",
+   "model": "C6L 2021"
   }
  ],
  "C0150WW": [
@@ -52229,11 +52248,25 @@
    "model": "MB9"
   }
  ],
+ "MB9_PRO": [
+  {
+   "brand": "GDM (es)",
+   "name": "MB9_PRO",
+   "model": "MB9_PRO"
+  }
+ ],
  "P4R": [
   {
    "brand": "GDM (es)",
    "name": "P4R",
    "model": "P4R"
+  }
+ ],
+ "P4R_PRO": [
+  {
+   "brand": "GDM (es)",
+   "name": "P4R_PRO",
+   "model": "P4R_PRO"
   }
  ],
  "syklone": [
@@ -80993,6 +81026,13 @@
    "model": "Infinix X697"
   }
  ],
+ "Infinix-X698": [
+  {
+   "brand": "Infinix",
+   "name": "NOTE 11S",
+   "model": "Infinix X698"
+  }
+ ],
  "X601": [
   {
    "brand": "Infinix",
@@ -83241,6 +83281,13 @@
    "model": "Ruby5S"
   }
  ],
+ "S100": [
+  {
+   "brand": "Ipro",
+   "name": "S100",
+   "model": "S100"
+  }
+ ],
  "S401": [
   {
    "brand": "Ipro",
@@ -85052,6 +85099,13 @@
    "model": "itel A23S"
   }
  ],
+ "itel-A507LS": [
+  {
+   "brand": "Itel",
+   "name": "itel A24",
+   "model": "itel A507LS"
+  }
+ ],
  "itel-L5007": [
   {
    "brand": "Itel",
@@ -85829,6 +85883,11 @@
  "K108": [
   {
    "brand": "Jimi",
+   "name": "K108",
+   "model": "K108"
+  },
+  {
+   "brand": "SANNUO",
    "name": "K108",
    "model": "K108"
   },
@@ -87230,6 +87289,13 @@
    "brand": "KUBIK",
    "name": "KUBIK_GENTA_10",
    "model": "KUBIK_GENTA_10"
+  }
+ ],
+ "D68S": [
+  {
+   "brand": "KXD mobile",
+   "name": "D68S",
+   "model": "D68S"
   }
  ],
  "Dream_one": [
@@ -89563,6 +89629,13 @@
    "brand": "Kruger&Matz",
    "name": "Live 9 EEA",
    "model": "Live 9"
+  }
+ ],
+ "Live_9S": [
+  {
+   "brand": "Kruger&Matz",
+   "name": "Live 9S EEA",
+   "model": "Live 9S"
   }
  ],
  "MOVE_7": [
@@ -129765,6 +129838,11 @@
    "brand": "Oppo",
    "name": "CPH2219",
    "model": "CPH2219"
+  },
+  {
+   "brand": "Oppo",
+   "name": "CPH2223",
+   "model": "CPH2223"
   }
  ],
  "A79k": [
@@ -130210,6 +130288,27 @@
    "brand": "Oppo",
    "name": "Reno5",
    "model": "CPH2159"
+  }
+ ],
+ "OP4F7FL1": [
+  {
+   "brand": "Oppo",
+   "name": "CPH2247",
+   "model": "CPH2247"
+  }
+ ],
+ "OP4F81L1": [
+  {
+   "brand": "Oppo",
+   "name": "CPH2249",
+   "model": "CPH2249"
+  }
+ ],
+ "OP4F83L1": [
+  {
+   "brand": "Oppo",
+   "name": "CPH2251",
+   "model": "CPH2251"
   }
  ],
  "OP4883": [
@@ -136439,6 +136538,13 @@
    "model": "TP10A3N"
   }
  ],
+ "TP10F": [
+  {
+   "brand": "Philco",
+   "name": "TP10F",
+   "model": "TP10F"
+  }
+ ],
  "TP7A4BB": [
   {
    "brand": "Philco",
@@ -137451,6 +137557,13 @@
    "model": "Pixus_Blast"
   }
  ],
+ "Pixus_Hammer": [
+  {
+   "brand": "Pixus",
+   "name": "Pixus_Hammer",
+   "model": "Pixus_Hammer"
+  }
+ ],
  "Pixus_Joker": [
   {
    "brand": "Pixus",
@@ -137929,6 +138042,13 @@
    "brand": "Point Mobile",
    "name": "PM66",
    "model": "PM66"
+  }
+ ],
+ "PM67": [
+  {
+   "brand": "Point Mobile",
+   "name": "PM67",
+   "model": "PM67"
   }
  ],
  "pm70": [
@@ -166267,6 +166387,13 @@
    "model": "SM7216H"
   }
  ],
+ "SV55216": [
+  {
+   "brand": "Schok",
+   "name": "SV55216",
+   "model": "Schok Volt SV55"
+  }
+ ],
  "SFT5216": [
   {
    "brand": "Schok",
@@ -187427,6 +187554,20 @@
    "model": "TECNO-C9"
   }
  ],
+ "TECNO-CH7": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON",
+   "model": "TECNO CH7"
+  }
+ ],
+ "TECNO-CH7n": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON",
+   "model": "TECNO CH7n"
+  }
+ ],
  "TECNO-CF7": [
   {
    "brand": "Tecno",
@@ -188969,6 +189110,11 @@
   {
    "brand": "Tecno",
    "name": "TECNO SPARK 8 P",
+   "model": "TECNO KG7n"
+  },
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 8P",
    "model": "TECNO KG7n"
   }
  ],
@@ -191168,6 +191314,11 @@
    "brand": "Trident",
    "name": "A23 Max",
    "model": "A23 Max"
+  },
+  {
+   "brand": "Trident",
+   "name": "A23_Max",
+   "model": "A23 Max"
   }
  ],
  "A53_PRO": [
@@ -192806,6 +192957,16 @@
    "brand": "Umidigi",
    "name": "BISON Pro EEA",
    "model": "BISON Pro"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "BISON_Pro_RU",
+   "model": "BISON Pro"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "BISON_Pro_TR",
+   "model": "BISON Pro"
   }
  ],
  "BISON_R": [
@@ -193048,6 +193209,13 @@
    "brand": "Unihertz",
    "name": "Titan pocket",
    "model": "Titan pocket"
+  }
+ ],
+ "S6s": [
+  {
+   "brand": "Uniscope",
+   "name": "S6s",
+   "model": "S6s"
   }
  ],
  "s6w": [
@@ -193542,6 +193710,13 @@
    "brand": "VIKUSHA",
    "name": "VZ-30",
    "model": "VZ-30"
+  }
+ ],
+ "VIPER-Z08MK": [
+  {
+   "brand": "VIPER",
+   "name": "VIPER-Z08MK",
+   "model": "Z08MK"
   }
  ],
  "E8": [
@@ -197693,6 +197868,30 @@
    "model": "V2114"
   }
  ],
+ "PD2115": [
+  {
+   "brand": "Vivo",
+   "name": "V2115A",
+   "model": "V2115A"
+  }
+ ],
+ "2120": [
+  {
+   "brand": "Vivo",
+   "name": "V2118",
+   "model": "V2118"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2120",
+   "model": "V2120"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2125",
+   "model": "V2125"
+  }
+ ],
  "PD2118": [
   {
    "brand": "Vivo",
@@ -197764,6 +197963,11 @@
    "brand": "Vivo",
    "name": "V2136A",
    "model": "V2136A"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2136GA",
+   "model": "V2136GA"
   }
  ],
  "PD2141": [
@@ -203519,6 +203723,13 @@
    "brand": "X-TIGI",
    "name": "A55",
    "model": "A55"
+  }
+ ],
+ "Hope10Pro": [
+  {
+   "brand": "X-TIGI",
+   "name": "Hope10Pro",
+   "model": "Hope10Pro"
   }
  ],
  "Hope10_Mate": [
@@ -218968,6 +219179,13 @@
    "brand": "simpliTV",
    "name": "Strong-SRT4150",
    "model": "Strong-SRT4150"
+  }
+ ],
+ "ST11-A5": [
+  {
+   "brand": "sincoole",
+   "name": "ST11-A5",
+   "model": "ST11-A5"
   }
  ],
  "QPI-1": [

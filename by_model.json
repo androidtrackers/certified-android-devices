@@ -2172,6 +2172,13 @@
    "device": "Desert2"
   }
  ],
+ "AZOM River 1": [
+  {
+   "brand": "AZOM TECH",
+   "name": "River1",
+   "device": "River1"
+  }
+ ],
  "A1046G": [
   {
    "brand": "AZPEN",
@@ -8120,6 +8127,11 @@
   },
   {
    "brand": "Leagoo",
+   "name": "S11",
+   "device": "S11"
+  },
+  {
+   "brand": "MOBULAA",
    "name": "S11",
    "device": "S11"
   },
@@ -22974,6 +22986,11 @@
   }
  ],
  "C6L 2021": [
+  {
+   "brand": "Blu",
+   "name": "C6L 2021",
+   "device": "C0140TT"
+  },
   {
    "brand": "Blu",
    "name": "C6L 2021",
@@ -49978,11 +49995,25 @@
    "device": "MB9"
   }
  ],
+ "MB9_PRO": [
+  {
+   "brand": "GDM (es)",
+   "name": "MB9_PRO",
+   "device": "MB9_PRO"
+  }
+ ],
  "P4R": [
   {
    "brand": "GDM (es)",
    "name": "P4R",
    "device": "P4R"
+  }
+ ],
+ "P4R_PRO": [
+  {
+   "brand": "GDM (es)",
+   "name": "P4R_PRO",
+   "device": "P4R_PRO"
   }
  ],
  "uvh1301": [
@@ -53147,6 +53178,11 @@
    "brand": "Gionee",
    "name": "S6s",
    "device": "GIONEE_WBL7519"
+  },
+  {
+   "brand": "Uniscope",
+   "name": "S6s",
+   "device": "S6s"
   }
  ],
  "GN9011": [
@@ -81921,6 +81957,13 @@
    "device": "Infinix-X697"
   }
  ],
+ "Infinix X698": [
+  {
+   "brand": "Infinix",
+   "name": "NOTE 11S",
+   "device": "Infinix-X698"
+  }
+ ],
  "Infinix NOTE 3": [
   {
    "brand": "Infinix",
@@ -84241,6 +84284,18 @@
    "device": "Ruby5S"
   }
  ],
+ "S100": [
+  {
+   "brand": "Ipro",
+   "name": "S100",
+   "device": "S100"
+  },
+  {
+   "brand": "iGet",
+   "name": "S100",
+   "device": "iGET_S100"
+  }
+ ],
  "S401": [
   {
    "brand": "Ipro",
@@ -86081,6 +86136,13 @@
    "device": "itel-A23S"
   }
  ],
+ "itel A507LS": [
+  {
+   "brand": "Itel",
+   "name": "itel A24",
+   "device": "itel-A507LS"
+  }
+ ],
  "itel L5007": [
   {
    "brand": "Itel",
@@ -86955,6 +87017,11 @@
  "K108": [
   {
    "brand": "Jimi",
+   "name": "K108",
+   "device": "K108"
+  },
+  {
+   "brand": "SANNUO",
    "name": "K108",
    "device": "K108"
   },
@@ -88477,6 +88544,13 @@
    "brand": "KUBIK",
    "name": "KUBIK_GENTA_10",
    "device": "KUBIK_GENTA_10"
+  }
+ ],
+ "D68S": [
+  {
+   "brand": "KXD mobile",
+   "name": "D68S",
+   "device": "D68S"
   }
  ],
  "Dream one": [
@@ -90878,6 +90952,13 @@
    "brand": "Kruger&Matz",
    "name": "Live 9 EEA",
    "device": "Live_9"
+  }
+ ],
+ "Live 9S": [
+  {
+   "brand": "Kruger&Matz",
+   "name": "Live 9S EEA",
+   "device": "Live_9S"
   }
  ],
  "MOVE_7": [
@@ -133077,11 +133158,39 @@
    "device": "OP4F4DL1"
   }
  ],
+ "CPH2223": [
+  {
+   "brand": "Oppo",
+   "name": "CPH2223",
+   "device": "OP4F11L1"
+  }
+ ],
  "CPH2235": [
   {
    "brand": "Oppo",
    "name": "CPH2235",
    "device": "OP4F25L1"
+  }
+ ],
+ "CPH2247": [
+  {
+   "brand": "Oppo",
+   "name": "CPH2247",
+   "device": "OP4F7FL1"
+  }
+ ],
+ "CPH2249": [
+  {
+   "brand": "Oppo",
+   "name": "CPH2249",
+   "device": "OP4F81L1"
+  }
+ ],
+ "CPH2251": [
+  {
+   "brand": "Oppo",
+   "name": "CPH2251",
+   "device": "OP4F83L1"
   }
  ],
  "CPH1911": [
@@ -139350,6 +139459,13 @@
    "device": "TP10A3N"
   }
  ],
+ "TP10F": [
+  {
+   "brand": "Philco",
+   "name": "TP10F",
+   "device": "TP10F"
+  }
+ ],
  "TP7A4BB": [
   {
    "brand": "Philco",
@@ -140320,6 +140436,13 @@
    "device": "Pixus_Blast"
   }
  ],
+ "Pixus_Hammer": [
+  {
+   "brand": "Pixus",
+   "name": "Pixus_Hammer",
+   "device": "Pixus_Hammer"
+  }
+ ],
  "Pixus_Joker": [
   {
    "brand": "Pixus",
@@ -140806,6 +140929,13 @@
    "brand": "Point Mobile",
    "name": "PM66",
    "device": "pm66"
+  }
+ ],
+ "PM67": [
+  {
+   "brand": "Point Mobile",
+   "name": "PM67",
+   "device": "PM67"
   }
  ],
  "PM70": [
@@ -171457,6 +171587,13 @@
    "device": "SM7216H"
   }
  ],
+ "Schok Volt SV55": [
+  {
+   "brand": "Schok",
+   "name": "SV55216",
+   "device": "SV55216"
+  }
+ ],
  "freedom turbo": [
   {
    "brand": "Schok",
@@ -195111,6 +195248,20 @@
    "device": "TECNO-C9"
   }
  ],
+ "TECNO CH7": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON",
+   "device": "TECNO-CH7"
+  }
+ ],
+ "TECNO CH7n": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON",
+   "device": "TECNO-CH7n"
+  }
+ ],
  "TECNO CF7": [
   {
    "brand": "Tecno",
@@ -196699,6 +196850,11 @@
   {
    "brand": "Tecno",
    "name": "TECNO SPARK 8 P",
+   "device": "TECNO-KG7n"
+  },
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 8P",
    "device": "TECNO-KG7n"
   }
  ],
@@ -198977,6 +199133,11 @@
    "brand": "Trident",
    "name": "A23 Max",
    "device": "A23_Max"
+  },
+  {
+   "brand": "Trident",
+   "name": "A23_Max",
+   "device": "A23_Max"
   }
  ],
  "A24": [
@@ -200726,6 +200887,16 @@
    "brand": "Umidigi",
    "name": "BISON Pro EEA",
    "device": "BISON_Pro"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "BISON_Pro_RU",
+   "device": "BISON_Pro"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "BISON_Pro_TR",
+   "device": "BISON_Pro"
   }
  ],
  "RP01": [
@@ -201450,6 +201621,13 @@
    "brand": "VIKUSHA",
    "name": "VZ-30",
    "device": "VZ-30"
+  }
+ ],
+ "Z08MK": [
+  {
+   "brand": "VIPER",
+   "name": "VIPER-Z08MK",
+   "device": "VIPER-Z08MK"
   }
  ],
  "VISIO 4K Android TV": [
@@ -205853,11 +206031,32 @@
    "device": "2114"
   }
  ],
+ "V2115A": [
+  {
+   "brand": "Vivo",
+   "name": "V2115A",
+   "device": "PD2115"
+  }
+ ],
+ "V2118": [
+  {
+   "brand": "Vivo",
+   "name": "V2118",
+   "device": "2120"
+  }
+ ],
  "V2118A": [
   {
    "brand": "Vivo",
    "name": "V2118A",
    "device": "PD2118"
+  }
+ ],
+ "V2120": [
+  {
+   "brand": "Vivo",
+   "name": "V2120",
+   "device": "2120"
   }
  ],
  "V2121A": [
@@ -205872,6 +206071,13 @@
    "brand": "Vivo",
    "name": "V2123A",
    "device": "PD2123"
+  }
+ ],
+ "V2125": [
+  {
+   "brand": "Vivo",
+   "name": "V2125",
+   "device": "2120"
   }
  ],
  "V2129": [
@@ -205927,6 +206133,13 @@
   {
    "brand": "Vivo",
    "name": "V2136A",
+   "device": "PD2136"
+  }
+ ],
+ "V2136GA": [
+  {
+   "brand": "Vivo",
+   "name": "V2136GA",
    "device": "PD2136"
   }
  ],
@@ -211788,6 +212001,13 @@
    "brand": "X-TIGI",
    "name": "A20S_PRO",
    "device": "A20S_PRO"
+  }
+ ],
+ "Hope10Pro": [
+  {
+   "brand": "X-TIGI",
+   "name": "Hope10Pro",
+   "device": "Hope10Pro"
   }
  ],
  "Hope10 Mate": [
@@ -227797,13 +228017,6 @@
    "device": "IFT1018"
   }
  ],
- "S100": [
-  {
-   "brand": "iGet",
-   "name": "S100",
-   "device": "iGET_S100"
-  }
- ],
  "SMART": [
   {
    "brand": "iGet",
@@ -229141,6 +229354,13 @@
    "brand": "simpliTV",
    "name": "Strong-SRT4150",
    "device": "HY43X"
+  }
+ ],
+ "ST11-A5": [
+  {
+   "brand": "sincoole",
+   "name": "ST11-A5",
+   "device": "ST11-A5"
   }
  ],
  "QPI-1": [
