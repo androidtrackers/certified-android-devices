@@ -8067,6 +8067,16 @@
    "model": "ALLVIEW 4K TV"
   },
   {
+   "brand": "Daewoo",
+   "name": "Daewoo 4K TV",
+   "model": "Daewoo 4K TV"
+  },
+  {
+   "brand": "Haier",
+   "name": "OLED TV S9",
+   "model": "OLED TV S9"
+  },
+  {
    "brand": "Indurama",
    "name": "indurama smart TV",
    "model": "indurama smart TV"
@@ -99944,6 +99954,13 @@
    "brand": "Lanix",
    "name": "X750",
    "model": "X750"
+  }
+ ],
+ "X770": [
+  {
+   "brand": "Lanix",
+   "name": "X770",
+   "model": "X770"
   }
  ],
  "X860": [
@@ -219438,6 +219455,13 @@
    "brand": "videocon",
    "name": "Starr 100",
    "model": "V406018"
+  }
+ ],
+ "SEI700WP": [
+  {
+   "brand": "waiputv",
+   "name": "waipu tv stick",
+   "model": "waipu tv stick"
   }
  ],
  "XTOUCH_A4": [

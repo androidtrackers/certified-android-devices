@@ -36380,6 +36380,13 @@
    "device": "DW-TN7RK16"
   }
  ],
+ "Daewoo 4K TV": [
+  {
+   "brand": "Daewoo",
+   "name": "Daewoo 4K TV",
+   "device": "SW4H_FF"
+  }
+ ],
  "People_Plus": [
   {
    "brand": "Dahl Sweden",
@@ -61086,6 +61093,13 @@
    "brand": "Haier",
    "name": "NEO8-1",
    "device": "NEO8-1"
+  }
+ ],
+ "OLED TV S9": [
+  {
+   "brand": "Haier",
+   "name": "OLED TV S9",
+   "device": "SW4H_FF"
   }
  ],
  "Haitech Android TV 2K": [
@@ -102304,6 +102318,13 @@
    "brand": "Lanix",
    "name": "X750",
    "device": "X750"
+  }
+ ],
+ "X770": [
+  {
+   "brand": "Lanix",
+   "name": "X770",
+   "device": "X770"
   }
  ],
  "X860": [
@@ -229634,6 +229655,13 @@
    "brand": "videocon",
    "name": "Starr 100",
    "device": "V406018"
+  }
+ ],
+ "waipu tv stick": [
+  {
+   "brand": "waiputv",
+   "name": "waipu tv stick",
+   "device": "SEI700WP"
   }
  ],
  "XTOUCH_A5": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-10-12
+Last sync is 2021-10-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4908,6 +4908,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DUODUOGO|Tablet-P8_EEA|Tablet-P8_EEA|Tablet-P8_EEA|
 |Daehap|DH-B301K|DH-B301K|DH-B301K|
 |Daewoo|DW-TN7RK16|DW-TN7RK16|DW-TN7RK16|
+|Daewoo|Daewoo 4K TV|SW4H_FF|Daewoo 4K TV|
 |Dahl Sweden|People Plus|People_Plus|People_Plus|
 |Danew|DSlide 710|Dslide710|Dslide710|
 |Danew|DSlide 750|Danew_DSlide750|DSlide750|
@@ -8434,6 +8435,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|NEO7-1|NEO7-1|NEO7-1|
 |Haier|NEO7-2|NEO7-2|NEO7-2|
 |Haier|NEO8-1|NEO8-1|NEO8-1|
+|Haier|OLED TV S9|SW4H_FF|OLED TV S9|
 |Haier|P2|P2|P2|
 |Haier|P20|P20|P20|
 |Haier|PA|nippori|Haitech Android TV 2K|
@@ -14642,6 +14644,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lanix|X550|X550|X550|
 |Lanix|X560|X560|X560|
 |Lanix|X750|X750|X750|
+|Lanix|X770|X770|X770|
 |Lanix|X860|X860|X860|
 |Lanix|ilium  PAD  E9|ILium_PADE9|ilium PAD E9|
 |Lanix|ilium PAD E7|ILIUM_PADE7|ilium PAD E7|
@@ -34097,6 +34100,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |videocon|Metal Pro 1|V505820|V505820|
 |videocon|Metal Pro 2|V505920|V505920|
 |videocon|Starr 100|V406018|V406018|
+|waiputv|waipu tv stick|SEI700WP|waipu tv stick|
 |xTouch|A4|XTOUCH_A4|A4|
 |xTouch|A5|A5|XTOUCH_A5|
 |xTouch|E4|E4|E4|

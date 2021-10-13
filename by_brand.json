@@ -25388,6 +25388,11 @@
    "device": "DW-TN7RK16",
    "name": "DW-TN7RK16",
    "model": "DW-TN7RK16"
+  },
+  {
+   "device": "SW4H_FF",
+   "name": "Daewoo 4K TV",
+   "model": "Daewoo 4K TV"
   }
  ],
  "Dahl Sweden": [
@@ -43684,6 +43689,11 @@
    "device": "NEO8-1",
    "name": "NEO8-1",
    "model": "NEO8-1"
+  },
+  {
+   "device": "SW4H_FF",
+   "name": "OLED TV S9",
+   "model": "OLED TV S9"
   },
   {
    "device": "P2",
@@ -75258,6 +75268,11 @@
    "device": "X750",
    "name": "X750",
    "model": "X750"
+  },
+  {
+   "device": "X770",
+   "name": "X770",
+   "model": "X770"
   },
   {
    "device": "X860",
@@ -174985,6 +175000,13 @@
    "device": "V406018",
    "name": "Starr 100",
    "model": "V406018"
+  }
+ ],
+ "waiputv": [
+  {
+   "device": "SEI700WP",
+   "name": "waipu tv stick",
+   "model": "waipu tv stick"
   }
  ],
  "xTouch": [
