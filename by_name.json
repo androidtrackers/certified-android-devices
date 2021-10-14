@@ -72827,7 +72827,7 @@
    "model": "CT45"
   }
  ],
- "CT45P": [
+ "CT45XP": [
   {
    "brand": "Honeywell",
    "device": "CT45P",
@@ -83969,6 +83969,13 @@
    "brand": "Infinix",
    "device": "Infinix-PR652B",
    "model": "Infinix PR652B"
+  }
+ ],
+ "Infinix HOT 11S NFC": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6812B",
+   "model": "Infinix X6812B"
   }
  ],
  "Infinix HOT 6X": [
@@ -130831,6 +130838,13 @@
    "model": "CPH2263"
   }
  ],
+ "OPPO A95 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP4EB7",
+   "model": "PELM00"
+  }
+ ],
  "OPPO Find X3 Lite 5G": [
   {
    "brand": "Oppo",
@@ -130872,11 +130886,6 @@
   }
  ],
  "OPPO Reno5 Z": [
-  {
-   "brand": "Oppo",
-   "device": "OP4EB7",
-   "model": "PELM00"
-  },
   {
    "brand": "Oppo",
    "device": "OP4F4DL1",
@@ -164244,6 +164253,13 @@
    "brand": "Samsung",
    "device": "zodiac",
    "model": "SM-W2020"
+  }
+ ],
+ "三星W22 5G": [
+  {
+   "brand": "Samsung",
+   "device": "v2q",
+   "model": "SM-W2022"
   }
  ],
  "领世旗舰8": [

@@ -68054,7 +68054,7 @@
  "CT45P": [
   {
    "brand": "Honeywell",
-   "name": "CT45P",
+   "name": "CT45XP",
    "model": "CT45P"
   }
  ],
@@ -80764,6 +80764,13 @@
    "brand": "Infinix",
    "name": "Infinix HOT 10i",
    "model": "Infinix PR652B"
+  }
+ ],
+ "Infinix-X6812B": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 11S NFC",
+   "model": "Infinix X6812B"
   }
  ],
  "Infinix-X623": [
@@ -130673,6 +130680,13 @@
    "model": "CPH2321"
   }
  ],
+ "OP4EB7": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO A95 5G",
+   "model": "PELM00"
+  }
+ ],
  "OP4F1BL1": [
   {
    "brand": "Oppo",
@@ -130702,13 +130716,6 @@
    "brand": "Oppo",
    "name": "OPPO Reno5 Pro+ 5G",
    "model": "PDRM00"
-  }
- ],
- "OP4EB7": [
-  {
-   "brand": "Oppo",
-   "name": "OPPO Reno5 Z",
-   "model": "PELM00"
   }
  ],
  "OP4E59": [
@@ -166130,6 +166137,13 @@
    "brand": "Samsung",
    "name": "三星W20",
    "model": "SM-W2020"
+  }
+ ],
+ "v2q": [
+  {
+   "brand": "Samsung",
+   "name": "三星W22 5G",
+   "model": "SM-W2022"
   }
  ],
  "venenoltechn": [

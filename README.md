@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-10-13
+Last sync is 2021-10-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9404,7 +9404,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|CT40P|CT40P-L1-D|CT40|
 |Honeywell|CT40P-L0-D|CT40P-L0-D|CT40|
 |Honeywell|CT45|CT45|CT45|
-|Honeywell|CT45P|CT45P|CT45P|
+|Honeywell|CT45XP|CT45P|CT45P|
 |Honeywell|CT50|CT50L0N-CS12S|CT50|
 |Honeywell|CT50|CT50L0N-CS15S|CT50|
 |Honeywell|CT50|CT50L0N-CS16S|CT50|
@@ -11547,6 +11547,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 10S NFC|Infinix-X689D|Infinix X689D|
 |Infinix|Infinix HOT 10T|Infinix-X689C|Infinix X689C|
 |Infinix|Infinix HOT 10i|Infinix-PR652B|Infinix PR652B|
+|Infinix|Infinix HOT 11S NFC|Infinix-X6812B|Infinix X6812B|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623B|
 |Infinix|Infinix HOT 7|Infinix-X625C|Infinix X625C|
@@ -19421,13 +19422,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO A54 5G|OP4F39L1|OPG02|
 |Oppo|OPPO A74 5G|OP4F39L1|CPH2197|
 |Oppo|OPPO A74 5G|OP4F39L1|CPH2263|
+|Oppo|OPPO A95 5G|OP4EB7|PELM00|
 |Oppo|OPPO Find X3 Lite 5G|OP4F1BL1|CPH2145|
 |Oppo|OPPO Reno5|OP4F25L1|CPH2159|
 |Oppo|OPPO Reno5 5G|OP4F1BL1|CPH2145|
 |Oppo|OPPO Reno5 A|OP4F2BL1|A101OP|
 |Oppo|OPPO Reno5 A|OP4F2BL1|CPH2199|
 |Oppo|OPPO Reno5 Pro+ 5G|OP4EA7|PDRM00|
-|Oppo|OPPO Reno5 Z|OP4EB7|PELM00|
 |Oppo|OPPO Reno5 Z|OP4F4DL1|CPH2213|
 |Oppo|OPPO Reno5 k 5G|OP4E59|PEGM10|
 |Oppo|OPPO Reno5 k 5G|OP4E59|PEGT10|
@@ -25060,6 +25061,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|olleh|ik1|SMT-E5015|
 |Samsung|三星 W21 5G|victory|SM-W2021|
 |Samsung|三星W20|zodiac|SM-W2020|
+|Samsung|三星W22 5G|v2q|SM-W2022|
 |Samsung|领世旗舰8|venenoltechn|SM-G9298|
 |Samtech|T3G_04|T3G_04|T3G_04|
 |Samtech|TWIFI-04|TWIFI-04|TWIFI-04|

@@ -48613,7 +48613,7 @@
   },
   {
    "device": "CT45P",
-   "name": "CT45P",
+   "name": "CT45XP",
    "model": "CT45P"
   },
   {
@@ -59451,6 +59451,11 @@
    "device": "Infinix-PR652B",
    "name": "Infinix HOT 10i",
    "model": "Infinix PR652B"
+  },
+  {
+   "device": "Infinix-X6812B",
+   "name": "Infinix HOT 11S NFC",
+   "model": "Infinix X6812B"
   },
   {
    "device": "Infinix-X623",
@@ -99833,6 +99838,11 @@
    "model": "CPH2263"
   },
   {
+   "device": "OP4EB7",
+   "name": "OPPO A95 5G",
+   "model": "PELM00"
+  },
+  {
    "device": "OP4F1BL1",
    "name": "OPPO Find X3 Lite 5G",
    "model": "CPH2145"
@@ -99861,11 +99871,6 @@
    "device": "OP4EA7",
    "name": "OPPO Reno5 Pro+ 5G",
    "model": "PDRM00"
-  },
-  {
-   "device": "OP4EB7",
-   "name": "OPPO Reno5 Z",
-   "model": "PELM00"
   },
   {
    "device": "OP4F4DL1",
@@ -128510,6 +128515,11 @@
    "device": "zodiac",
    "name": "三星W20",
    "model": "SM-W2020"
+  },
+  {
+   "device": "v2q",
+   "name": "三星W22 5G",
+   "model": "SM-W2022"
   },
   {
    "device": "venenoltechn",
