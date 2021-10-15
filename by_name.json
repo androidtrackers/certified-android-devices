@@ -23276,6 +23276,11 @@
   {
    "brand": "BMobile",
    "device": "Bmobile_BL51_MV12",
+   "model": "BL51"
+  },
+  {
+   "brand": "BMobile",
+   "device": "Bmobile_BL51_MV12",
    "model": "BL51_MV12"
   }
  ],
@@ -25853,6 +25858,11 @@
    "brand": "Vernee",
    "device": "T3",
    "model": "T3"
+  },
+  {
+   "brand": "Wiko",
+   "device": "W-V770",
+   "model": "W-V770"
   },
   {
    "brand": "ZTE",
@@ -32568,6 +32578,11 @@
   {
    "brand": "CORN",
    "device": "R10S",
+   "model": "R10"
+  },
+  {
+   "brand": "KGTEL",
+   "device": "R10A",
    "model": "R10"
   }
  ],
@@ -112515,6 +112530,13 @@
    "model": "Mascom S750"
   }
  ],
+ "Hipi 15": [
+  {
+   "brand": "Masstel",
+   "device": "Masstel_Hapi_15",
+   "model": "Masstel Hapi 15"
+  }
+ ],
  "Juno_Q6": [
   {
    "brand": "Masstel",
@@ -127892,6 +127914,23 @@
    "model": "N5002L"
   }
  ],
+ "B10": [
+  {
+   "brand": "Nuu",
+   "device": "S6505LA",
+   "model": "S6505L"
+  },
+  {
+   "brand": "OTOT",
+   "device": "B10",
+   "model": "B10"
+  },
+  {
+   "brand": "Sharp",
+   "device": "SH-A01",
+   "model": "SH-A01"
+  }
+ ],
  "M19": [
   {
    "brand": "Nuu",
@@ -128443,18 +128482,6 @@
    "brand": "OTK",
    "device": "BM57_lite",
    "model": "BM57_lite"
-  }
- ],
- "B10": [
-  {
-   "brand": "OTOT",
-   "device": "B10",
-   "model": "B10"
-  },
-  {
-   "brand": "Sharp",
-   "device": "SH-A01",
-   "model": "SH-A01"
   }
  ],
  "PS8": [
@@ -185131,6 +185158,13 @@
    "model": "P20HD_EEA"
   }
  ],
+ "P20HD_Pro_ROW": [
+  {
+   "brand": "Teclast",
+   "device": "P20HD_Pro_ROW",
+   "model": "P20HD"
+  }
+ ],
  "P20HD_ROW": [
   {
    "brand": "Teclast",
@@ -185232,6 +185266,13 @@
    "brand": "Teclast",
    "device": "T30",
    "model": "T30_RU"
+  }
+ ],
+ "T40Pro_EEA": [
+  {
+   "brand": "Teclast",
+   "device": "T40Pro_EEA",
+   "model": "T40Pro_EEA"
   }
  ],
  "T40_Plus_EEA": [
@@ -190717,6 +190758,13 @@
    "model": "RP01"
   }
  ],
+ "BISON X10 Pro EEA": [
+  {
+   "brand": "Umidigi",
+   "device": "BISON_X10_Pro",
+   "model": "RP01"
+  }
+ ],
  "BISON_GT": [
   {
    "brand": "Umidigi",
@@ -191084,6 +191132,20 @@
    "brand": "Unitech",
    "device": "EA510",
    "model": "EA510"
+  }
+ ],
+ "EA520": [
+  {
+   "brand": "Unitech",
+   "device": "EA520",
+   "model": "EA520"
+  }
+ ],
+ "EA520_US": [
+  {
+   "brand": "Unitech",
+   "device": "EA520_US",
+   "model": "EA520_US"
   }
  ],
  "EA630": [
@@ -200752,6 +200814,11 @@
    "brand": "Wiko",
    "device": "W-K521",
    "model": "W-K521-EEA"
+  },
+  {
+   "brand": "Wiko",
+   "device": "W-K521",
+   "model": "W-K521-OPE"
   }
  ],
  "Y61": [

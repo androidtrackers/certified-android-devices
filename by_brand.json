@@ -12062,6 +12062,11 @@
   {
    "device": "Bmobile_BL51_MV12",
    "name": "BL51",
+   "model": "BL51"
+  },
+  {
+   "device": "Bmobile_BL51_MV12",
+   "name": "BL51",
    "model": "BL51_MV12"
   },
   {
@@ -64462,6 +64467,11 @@
    "device": "Better10",
    "name": "Better10",
    "model": "Better10"
+  },
+  {
+   "device": "R10A",
+   "name": "R10",
+   "model": "R10"
   }
  ],
  "KIRISUN": [
@@ -83985,6 +83995,11 @@
  ],
  "Masstel": [
   {
+   "device": "Masstel_Hapi_15",
+   "name": "Hipi 15",
+   "model": "Masstel Hapi 15"
+  },
+  {
    "device": "Masstel_Juno_Q6",
    "name": "Juno_Q6",
    "model": "Juno Q6"
@@ -97077,6 +97092,11 @@
    "device": "N5002LE",
    "name": "A7L",
    "model": "N5002L"
+  },
+  {
+   "device": "S6505LA",
+   "name": "B10",
+   "model": "S6505L"
   },
   {
    "device": "S6701LA",
@@ -146903,6 +146923,11 @@
    "model": "P20HD_EEA"
   },
   {
+   "device": "P20HD_Pro_ROW",
+   "name": "P20HD_Pro_ROW",
+   "model": "P20HD"
+  },
+  {
    "device": "P20HD_ROW",
    "name": "P20HD_ROW",
    "model": "P20HD_ROW"
@@ -146991,6 +147016,11 @@
    "device": "T40",
    "name": "T40",
    "model": "TLA001"
+  },
+  {
+   "device": "T40Pro_EEA",
+   "name": "T40Pro_EEA",
+   "model": "T40Pro_EEA"
   },
   {
    "device": "T40_Plus_EEA",
@@ -151722,6 +151752,11 @@
    "model": "RP01"
   },
   {
+   "device": "BISON_X10_Pro",
+   "name": "BISON X10 Pro EEA",
+   "model": "RP01"
+  },
+  {
    "device": "BISON_GT",
    "name": "BISON_GT",
    "model": "BISON GT"
@@ -152062,6 +152097,16 @@
    "device": "EA510",
    "name": "EA510",
    "model": "EA510"
+  },
+  {
+   "device": "EA520",
+   "name": "EA520",
+   "model": "EA520"
+  },
+  {
+   "device": "EA520_US",
+   "name": "EA520_US",
+   "model": "EA520_US"
   },
   {
    "device": "EA630",
@@ -159588,6 +159633,11 @@
    "model": "W-K211-TVM"
   },
   {
+   "device": "W-V770",
+   "name": "T3",
+   "model": "W-V770"
+  },
+  {
    "device": "P4901AC",
    "name": "TOMMY",
    "model": "TOMMY"
@@ -160021,6 +160071,11 @@
    "device": "W-K521",
    "name": "Y52",
    "model": "W-K521-EEA"
+  },
+  {
+   "device": "W-K521",
+   "name": "Y52",
+   "model": "W-K521-OPE"
   },
   {
    "device": "W-K510",

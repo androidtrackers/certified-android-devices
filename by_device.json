@@ -20056,6 +20056,11 @@
   {
    "brand": "BMobile",
    "name": "BL51",
+   "model": "BL51"
+  },
+  {
+   "brand": "BMobile",
+   "name": "BL51",
    "model": "BL51_MV12"
   }
  ],
@@ -86932,6 +86937,13 @@
    "model": "Better10"
   }
  ],
+ "R10A": [
+  {
+   "brand": "KGTEL",
+   "name": "R10",
+   "model": "R10"
+  }
+ ],
  "T650": [
   {
    "brand": "KIRISUN",
@@ -111158,6 +111170,13 @@
    "model": "Mascom S750"
   }
  ],
+ "Masstel_Hapi_15": [
+  {
+   "brand": "Masstel",
+   "name": "Hipi 15",
+   "model": "Masstel Hapi 15"
+  }
+ ],
  "Masstel_Juno_Q6": [
   {
    "brand": "Masstel",
@@ -127542,6 +127561,13 @@
    "brand": "Nuu",
    "name": "A7L",
    "model": "N5002L"
+  }
+ ],
+ "S6505LA": [
+  {
+   "brand": "Nuu",
+   "name": "B10",
+   "model": "S6505L"
   }
  ],
  "S6701LA": [
@@ -187387,6 +187413,13 @@
    "model": "P20HD_EEA"
   }
  ],
+ "P20HD_Pro_ROW": [
+  {
+   "brand": "Teclast",
+   "name": "P20HD_Pro_ROW",
+   "model": "P20HD"
+  }
+ ],
  "P20HD_ROW": [
   {
    "brand": "Teclast",
@@ -187484,6 +187517,13 @@
    "brand": "Teclast",
    "name": "P80h_ROW",
    "model": "P80h_ROW"
+  }
+ ],
+ "T40Pro_EEA": [
+  {
+   "brand": "Teclast",
+   "name": "T40Pro_EEA",
+   "model": "T40Pro_EEA"
   }
  ],
  "T40_Plus_EEA": [
@@ -193024,6 +193064,13 @@
    "model": "RP01"
   }
  ],
+ "BISON_X10_Pro": [
+  {
+   "brand": "Umidigi",
+   "name": "BISON X10 Pro EEA",
+   "model": "RP01"
+  }
+ ],
  "One_Max": [
   {
    "brand": "Umidigi",
@@ -193322,6 +193369,20 @@
    "brand": "Unitech",
    "name": "EA510",
    "model": "EA510"
+  }
+ ],
+ "EA520": [
+  {
+   "brand": "Unitech",
+   "name": "EA520",
+   "model": "EA520"
+  }
+ ],
+ "EA520_US": [
+  {
+   "brand": "Unitech",
+   "name": "EA520_US",
+   "model": "EA520_US"
   }
  ],
  "EA630": [
@@ -202396,6 +202457,13 @@
    "model": "W-K211-OPE"
   }
  ],
+ "W-V770": [
+  {
+   "brand": "Wiko",
+   "name": "T3",
+   "model": "W-V770"
+  }
+ ],
  "P4901AC": [
   {
    "brand": "Wiko",
@@ -202863,6 +202931,11 @@
    "brand": "Wiko",
    "name": "Y52",
    "model": "W-K521-EEA"
+  },
+  {
+   "brand": "Wiko",
+   "name": "Y52",
+   "model": "W-K521-OPE"
   }
  ],
  "W-K510": [

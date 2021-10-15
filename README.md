@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-10-14
+Last sync is 2021-10-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2342,6 +2342,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|BL50 Pro|Bmobile_BL50P_TG07|BL50P_TG07|
 |BMobile|BL50 Pro|Bmobile_BL50P_TG09|BL50P_TG09|
 |BMobile|BL51|Bmobile_BL51_MV05|BL51_MV05|
+|BMobile|BL51|Bmobile_BL51_MV12|BL51|
 |BMobile|BL51|Bmobile_BL51_MV12|BL51_MV12|
 |BMobile|BL54Pro|Bmobile_BL54Pro|BL54Pro|
 |BMobile|BL54Pro_MV12|Bmobile_BL54Pro|BL54Pro|
@@ -12520,6 +12521,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KEYENCE|DX-A400|DX-A400|DX-A400|
 |KEYENCE|DX-A600|DX-A600|DX-A600|
 |KGTEL|Better10|Better10|Better10|
+|KGTEL|R10|R10A|R10|
 |KIRISUN|KIRISUN T650|T650|T650|
 |KISA phone|KPAU04|KPAU04|KPAU04|
 |KNC (LK)|TPC_XTE10D|TPC_XTE10D|TPC_XTE10D|
@@ -16343,6 +16345,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Marvie|MARVIE_CT4|MARVIE-CT4|CT4|
 |Mascom|Mascom_L850|Mascom_L850|Mascom_L850|
 |Mascom|Mascom_S750|Mascom_S750|Mascom S750|
+|Masstel|Hipi 15|Masstel_Hapi_15|Masstel Hapi 15|
 |Masstel|Juno_Q6|Masstel_Juno_Q6|Juno Q6|
 |Masstel|LT52|Masstel_LT52|Masstel LT52|
 |Masstel|Masstel|Tab10Ultra|Tab10Ultra|
@@ -18891,6 +18894,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nuu|A7L|N5002LA|N5002L|
 |Nuu|A7L|N5002LATC|N5002L|
 |Nuu|A7L|N5002LE|N5002L|
+|Nuu|B10|S6505LA|S6505L|
 |Nuu|B15|S6701LA|S6701L|
 |Nuu|G1|N5704LA|N5704L|
 |Nuu|G2|S6001LE|S6001L|
@@ -28653,6 +28657,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P10_HD_EEA|P10_HD_EEA|P10_HD_EEA|
 |Teclast|P10_HD_ROW|P10_HD_ROW|P10_HD_ROW|
 |Teclast|P20HD_EEA|P20HD_EEA|P20HD_EEA|
+|Teclast|P20HD_Pro_ROW|P20HD_Pro_ROW|P20HD|
 |Teclast|P20HD_ROW|P20HD_ROW|P20HD_ROW|
 |Teclast|P20HD_RUS|P20HD_RUS|P20HD_RUS|
 |Teclast|P20_EEA|P20_EEA|P20_EEA|
@@ -28671,6 +28676,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|T30_ROW|T30|T30_ROW|
 |Teclast|T30_RU|T30|T30_RU|
 |Teclast|T40|T40|TLA001|
+|Teclast|T40Pro_EEA|T40Pro_EEA|T40Pro_EEA|
 |Teclast|T40_Plus_EEA|T40_Plus_EEA|T40_Plus_EEA|
 |Teclast|T40_Plus_ROW|T40_Plus_ROW|T40_Plus_ROW|
 |Teclast|T40_Plus_RUS|T40_Plus_RUS|T40_Plus_RUS|
@@ -29578,6 +29584,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|BISON R EEA|BISON_R|BISON|
 |Umidigi|BISON X10|BISON_X10|RP01|
 |Umidigi|BISON X10 EEA|BISON_X10|RP01|
+|Umidigi|BISON X10 Pro EEA|BISON_X10_Pro|RP01|
 |Umidigi|BISON_GT|BISON_GT|BISON GT|
 |Umidigi|BISON_Pro_RU|BISON_Pro|BISON Pro|
 |Umidigi|BISON_Pro_TR|BISON_Pro|BISON Pro|
@@ -29642,6 +29649,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unitech|EA320|EA320|EA320|
 |Unitech|EA500Plus|EA500Plus|EA500Plus|
 |Unitech|EA510|EA510|EA510|
+|Unitech|EA520|EA520|EA520|
+|Unitech|EA520_US|EA520_US|EA520_US|
 |Unitech|EA630|EA630|EA630|
 |Unitech|EA630Plus|EA630Plus|EA630Plus|
 |Unitech|HT730|HT730|HT730|
@@ -31096,6 +31105,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|Sunny5|W-K380|W-K380-TVM2G|
 |Wiko|Sunny5 Lite|W-K211|W-K211-TH|
 |Wiko|Sunny5 Lite|W-K211|W-K211-TVM|
+|Wiko|T3|W-V770|W-V770|
 |Wiko|TOMMY|P4901AC|TOMMY|
 |Wiko|TOMMY|P4903LA|TOMMY|
 |Wiko|TOMMY2|T3931AC|TOMMY2|
@@ -31183,6 +31193,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|Y51|W-K211|W-K211-EEA|
 |Wiko|Y51|W-K211|W-K211-OPE|
 |Wiko|Y52|W-K521|W-K521-EEA|
+|Wiko|Y52|W-K521|W-K521-OPE|
 |Wiko|Y60|W-K510|W-K510-BYT|
 |Wiko|Y60|W-K510|W-K510-EEA|
 |Wiko|Y60|W-K510|W-K510-OPE|
