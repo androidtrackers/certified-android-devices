@@ -32455,6 +32455,11 @@
  ],
  "FCNT": [
   {
+   "device": "SD01",
+   "name": "SD01",
+   "model": "SD01"
+  },
+  {
    "device": "BZ02",
    "name": "arrows BZ02",
    "model": "BZ02"
@@ -111526,6 +111531,11 @@
  ],
  "Realme": [
   {
+   "device": "YYT",
+   "name": "4K Google TV Stick",
+   "model": "4K Google TV Stick"
+  },
+  {
    "device": "gangbyeon",
    "name": "50F1",
    "model": "4K AI Smart TV"
@@ -151825,6 +151835,11 @@
    "device": "Power_5",
    "name": "Power 5 EEA",
    "model": "Power 5"
+  },
+  {
+   "device": "Power_5S",
+   "name": "Power 5S",
+   "model": "MP02"
   },
   {
    "device": "Power_3",

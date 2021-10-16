@@ -48102,6 +48102,13 @@
    "model": "GK879"
   }
  ],
+ "SD01": [
+  {
+   "brand": "FCNT",
+   "name": "SD01",
+   "model": "SD01"
+  }
+ ],
  "BZ02": [
   {
    "brand": "FCNT",
@@ -145054,6 +145061,13 @@
    "model": "Phone"
   }
  ],
+ "YYT": [
+  {
+   "brand": "Realme",
+   "name": "4K Google TV Stick",
+   "model": "4K Google TV Stick"
+  }
+ ],
  "RMX2020": [
   {
    "brand": "Realme",
@@ -192616,6 +192630,11 @@
    "brand": "Ulefone",
    "name": "Power 5S",
    "model": "Power_5S"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "Power 5S",
+   "model": "MP02"
   }
  ],
  "Power_Armor_13": [

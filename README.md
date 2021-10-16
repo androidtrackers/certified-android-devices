@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-10-15
+Last sync is 2021-10-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6251,6 +6251,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FCC Movil|GK738_3G|GK738_3G|GK738_3G|
 |FCC Movil|GK788|GK788|GK788|
 |FCC Movil|GK879|GK879|GK879|
+|FCNT|SD01|SD01|SD01|
 |FCNT|arrows BZ02|BZ02|BZ02|
 |FCNT|arrows Be4 Plus F-41B|F41B|F-41B|
 |FEITIAN|F100|F100|F100|
@@ -21700,6 +21701,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Razer|Phone 2|linus|Phone 2|
 |Razer|Razer Phone|cheryl|Phone|
 |Razer|Razer phone|cheryl_ckh|Phone|
+|Realme|4K Google TV Stick|YYT|4K Google TV Stick|
 |Realme|50F1|gangbyeon|4K AI Smart TV|
 |Realme|RMX2020|RMX2020|RMX2020|
 |Realme|RMX2040|RMX2040|RMX2040|
@@ -29599,6 +29601,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|Power|Power|Power|
 |Umidigi|Power 5|Power_5|Power 5|
 |Umidigi|Power 5 EEA|Power_5|Power 5|
+|Umidigi|Power 5S|Power_5S|MP02|
 |Umidigi|Power_3|Power_3|Power_3|
 |Umidigi|Power_3_EEA|Power_3|Power_3|
 |Umidigi|S2PRO|S2_PRO|S2_PRO|

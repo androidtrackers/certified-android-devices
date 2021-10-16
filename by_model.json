@@ -45774,6 +45774,13 @@
    "device": "GK879"
   }
  ],
+ "SD01": [
+  {
+   "brand": "FCNT",
+   "name": "SD01",
+   "device": "SD01"
+  }
+ ],
  "BZ02": [
   {
    "brand": "FCNT",
@@ -148476,6 +148483,13 @@
    "device": "cheryl_ckh"
   }
  ],
+ "4K Google TV Stick": [
+  {
+   "brand": "Realme",
+   "name": "4K Google TV Stick",
+   "device": "YYT"
+  }
+ ],
  "RMX2020": [
   {
    "brand": "Realme",
@@ -201013,6 +201027,13 @@
    "brand": "Umidigi",
    "name": "One Pro",
    "device": "One_Pro"
+  }
+ ],
+ "MP02": [
+  {
+   "brand": "Umidigi",
+   "name": "Power 5S",
+   "device": "Power_5S"
   }
  ],
  "S2_PRO": [
