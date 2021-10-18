@@ -102650,6 +102650,11 @@
    "brand": "Oppo",
    "device": "A77",
    "model": "OPPO A77t"
+  },
+  {
+   "brand": "PAX (CN)",
+   "device": "A77",
+   "model": "A77"
   }
  ],
  "A79": [
@@ -145900,6 +145905,18 @@
    "model": "RMX3370"
   }
  ],
+ "realme GT Neo2 5G": [
+  {
+   "brand": "Realme",
+   "device": "RE879AL1",
+   "model": "RMX3370"
+  },
+  {
+   "brand": "Realme",
+   "device": "RE879AL1",
+   "model": "RMX3370"
+  }
+ ],
  "realme Narzo 20": [
   {
    "brand": "Realme",
@@ -146268,6 +146285,20 @@
    "brand": "Realme",
    "device": "RE5469",
    "model": "RMX3350"
+  }
+ ],
+ "真我GT Neo2T": [
+  {
+   "brand": "Realme",
+   "device": "RE5469",
+   "model": "RMX3357"
+  }
+ ],
+ "真我V11s 5G": [
+  {
+   "brand": "Realme",
+   "device": "RE5485",
+   "model": "RMX3125"
   }
  ],
  "真我V13 5G": [
@@ -213015,6 +213046,11 @@
   {
    "brand": "Zebra",
    "device": "MC2200",
+   "model": "MC2200"
+  },
+  {
+   "brand": "Zebra",
+   "device": "generic_arm64",
    "model": "MC2200"
   }
  ],

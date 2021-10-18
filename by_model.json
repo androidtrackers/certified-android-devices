@@ -102726,6 +102726,11 @@
    "brand": "Lava",
    "name": "A77",
    "device": "A77"
+  },
+  {
+   "brand": "PAX (CN)",
+   "name": "A77",
+   "device": "A77"
   }
  ],
  "A82": [
@@ -149036,6 +149041,16 @@
    "brand": "Realme",
    "name": "realme GT Neo 2",
    "device": "RE5473"
+  },
+  {
+   "brand": "Realme",
+   "name": "realme GT Neo2 5G",
+   "device": "RE879AL1"
+  },
+  {
+   "brand": "Realme",
+   "name": "realme GT Neo2 5G",
+   "device": "RE879AL1"
   }
  ],
  "RMX2117": [
@@ -149379,6 +149394,20 @@
    "brand": "Realme",
    "name": "真我GT Neo 闪速版",
    "device": "RE5469"
+  }
+ ],
+ "RMX3357": [
+  {
+   "brand": "Realme",
+   "name": "真我GT Neo2T",
+   "device": "RE5469"
+  }
+ ],
+ "RMX3125": [
+  {
+   "brand": "Realme",
+   "name": "真我V11s 5G",
+   "device": "RE5485"
   }
  ],
  "RMX3041": [
@@ -225736,6 +225765,11 @@
    "brand": "Zebra",
    "name": "Zebra Technologies MC2200",
    "device": "MC2200"
+  },
+  {
+   "brand": "Zebra",
+   "name": "Zebra Technologies MC2200",
+   "device": "generic_arm64"
   }
  ],
  "MC2700": [

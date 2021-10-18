@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-10-17
+Last sync is 2021-10-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -19838,6 +19838,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PATTERS|P7|P7|P7|
 |PATTERS|P9|P9|P9|
 |PAX (CN)|A50|A50|A50|
+|PAX (CN)|A77|A77|A77|
 |PAX (CN)|M30|PAXM30|M30|
 |PAX (CN)|M50|PAXM50|M50|
 |PAX (CN)|Pay Phone M50|PAYPHONEM50|M50|
@@ -21782,6 +21783,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme GT Master Edition|RE54ABL1|RMX3360|
 |Realme|realme GT Master Edition|RE54ABL1|RMX3363|
 |Realme|realme GT Neo 2|RE5473|RMX3370|
+|Realme|realme GT Neo2 5G|RE879AL1|RMX3370|
+|Realme|realme GT Neo2 5G|RE879AL1|RMX3370|
 |Realme|realme Narzo 20|RMX2193|RMX2193|
 |Realme|realme Narzo 30 Pro 5G|RMX2117L1|RMX2117|
 |Realme|realme Pad|RE54C1L1|RMP2102|
@@ -21842,6 +21845,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|真我GT|RMX2202CN|RMX2202|
 |Realme|真我GT Neo|RMX3031CN|RMX3031|
 |Realme|真我GT Neo 闪速版|RE5469|RMX3350|
+|Realme|真我GT Neo2T|RE5469|RMX3357|
+|Realme|真我V11s 5G|RE5485|RMX3125|
 |Realme|真我V13 5G|RE5081|RMX3041|
 |Realme|真我V13 5G|RE5081|RMX3042|
 |Realme|真我V13 5G|RE5081|RMX3043|
@@ -33431,6 +33436,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|Zebra Technologies L10|L10A|L10A|
 |Zebra|Zebra Technologies L10|L10AW|L10AW|
 |Zebra|Zebra Technologies MC2200|MC2200|MC2200|
+|Zebra|Zebra Technologies MC2200|generic_arm64|MC2200|
 |Zebra|Zebra Technologies MC2700|MC2700|MC2700|
 |Zebra|Zebra Technologies MC3300ax|MC3300x|MC3300ax|
 |Zebra|Zebra Technologies MC3300ax|MC3300xC|MC3300ax|

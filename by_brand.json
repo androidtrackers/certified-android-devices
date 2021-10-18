@@ -101954,6 +101954,11 @@
    "model": "A50"
   },
   {
+   "device": "A77",
+   "name": "A77",
+   "model": "A77"
+  },
+  {
    "device": "PAXM30",
    "name": "M30",
    "model": "M30"
@@ -111936,6 +111941,16 @@
    "model": "RMX3370"
   },
   {
+   "device": "RE879AL1",
+   "name": "realme GT Neo2 5G",
+   "model": "RMX3370"
+  },
+  {
+   "device": "RE879AL1",
+   "name": "realme GT Neo2 5G",
+   "model": "RMX3370"
+  },
+  {
    "device": "RMX2193",
    "name": "realme Narzo 20",
    "model": "RMX2193"
@@ -112234,6 +112249,16 @@
    "device": "RE5469",
    "name": "真我GT Neo 闪速版",
    "model": "RMX3350"
+  },
+  {
+   "device": "RE5469",
+   "name": "真我GT Neo2T",
+   "model": "RMX3357"
+  },
+  {
+   "device": "RE5485",
+   "name": "真我V11s 5G",
+   "model": "RMX3125"
   },
   {
    "device": "RE5081",
@@ -171425,6 +171450,11 @@
   },
   {
    "device": "MC2200",
+   "name": "Zebra Technologies MC2200",
+   "model": "MC2200"
+  },
+  {
+   "device": "generic_arm64",
    "name": "Zebra Technologies MC2200",
    "model": "MC2200"
   },
