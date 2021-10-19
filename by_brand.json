@@ -15058,6 +15058,11 @@
    "model": "Tab11"
   },
   {
+   "device": "Tab6_NEU",
+   "name": "Tab6_NEU",
+   "model": "Tab 6"
+  },
+  {
    "device": "Tab8",
    "name": "Tab8",
    "model": "Tab8"
@@ -15980,6 +15985,11 @@
    "device": "G0530WW",
    "name": "G91 Pro",
    "model": "G91 Pro"
+  },
+  {
+   "device": "G0550WW",
+   "name": "G91S",
+   "model": "G91S"
   },
   {
    "device": "BLU_GRAND_5_5_HD",
@@ -20208,6 +20218,11 @@
    "device": "CX940",
    "name": "Lenoxx",
    "model": "CX940"
+  },
+  {
+   "device": "Cherry_Magnum_8s",
+   "name": "Magnum 8s",
+   "model": "A870"
   },
   {
    "device": "Omega_Icon_Lite_2",
@@ -32667,6 +32682,11 @@
    "device": "FP3",
    "name": "Fairphone3",
    "model": "FP3"
+  },
+  {
+   "device": "FP4",
+   "name": "Fairphone4",
+   "model": "FP4"
   }
  ],
  "Famous Fones": [
@@ -48797,6 +48817,11 @@
    "model": "EDA52"
   },
   {
+   "device": "EDA5S",
+   "name": "EDA5S",
+   "model": "EDA5S"
+  },
+  {
    "device": "EDA61K-0C",
    "name": "EDA61K",
    "model": "EDA61K"
@@ -58520,6 +58545,13 @@
    "model": "VIATABQX740"
   }
  ],
+ "IQU_GROUP": [
+  {
+   "device": "IQU_T8_4G",
+   "name": "IQU_T8_4G",
+   "model": "IQU T8 4G"
+  }
+ ],
  "IRA (explore more)": [
   {
    "device": "IRA801",
@@ -63783,6 +63815,13 @@
    "device": "WinPRO",
    "name": "WinPRO",
    "model": "WinPRO"
+  }
+ ],
+ "Jio": [
+  {
+   "device": "LS1542QWN",
+   "name": "JioPhone Next",
+   "model": "LS1542QWN"
   }
  ],
  "Jivi": [
@@ -80308,6 +80347,11 @@
    "model": "Lenovo TB-J606F"
   },
   {
+   "device": "J606F",
+   "name": "XiaoXin Pad",
+   "model": "Lenovo TB-J606N"
+  },
+  {
    "device": "J606N",
    "name": "XiaoXin Pad",
    "model": "Lenovo TB-J606N"
@@ -80316,6 +80360,11 @@
    "device": "J607F",
    "name": "XiaoXin Pad Plus",
    "model": "Lenovo TB-J607F"
+  },
+  {
+   "device": "J607Z",
+   "name": "XiaoXin Pad Plus",
+   "model": "Lenovo TB-J607Z"
   },
   {
    "device": "J706F",
@@ -80568,9 +80617,19 @@
    "model": "moto tab g20"
   },
   {
+   "device": "TB-J616F",
+   "name": "小新 Pad GT",
+   "model": "Lenovo TB-J616F"
+  },
+  {
    "device": "TB-J616N",
    "name": "小新 Pad GT",
    "model": "Lenovo TB-J616N"
+  },
+  {
+   "device": "Q706F",
+   "name": "小新Pad Pro 12.6",
+   "model": "Lenovo TB-Q706F"
   },
   {
    "device": "J716F",
@@ -84001,7 +84060,7 @@
  "Masstel": [
   {
    "device": "Masstel_Hapi_15",
-   "name": "Hipi 15",
+   "name": "Hapi 15",
    "model": "Masstel Hapi 15"
   },
   {
@@ -84780,6 +84839,11 @@
    "device": "KM6",
    "name": "KM6",
    "model": "KM6"
+  },
+  {
+   "device": "KM7",
+   "name": "KM7",
+   "model": "KM7"
   },
   {
    "device": "KM8",
@@ -85658,6 +85722,11 @@
    "device": "meizu18",
    "name": "MEIZU 18",
    "model": "MEIZU 18"
+  },
+  {
+   "device": "meizu18X",
+   "name": "MEIZU 18X",
+   "model": "MEIZU 18X"
   },
   {
    "device": "meizu18s",
@@ -98364,6 +98433,13 @@
    "model": "DP-X1A"
   }
  ],
+ "Onn": [
+  {
+   "device": "sti6140d360",
+   "name": "Onn 4k TV",
+   "model": "sti6140d360"
+  }
+ ],
  "Onn (Walmart)": [
   {
    "device": "mid8011",
@@ -98464,11 +98540,6 @@
    "device": "stephen",
    "name": "Onn 2k TV stick",
    "model": "Onn 2k TV stick"
-  },
-  {
-   "device": "sti6140d360",
-   "name": "OnnTVbox",
-   "model": "sti6140d360"
   },
   {
    "device": "TBBVNC100005207",
@@ -101060,6 +101131,11 @@
    "device": "h33",
    "name": "H-33",
    "model": "h33"
+  },
+  {
+   "device": "H-35",
+   "name": "H-35",
+   "model": "H-35"
   }
  ],
  "Oraimo": [
@@ -102400,6 +102476,11 @@
    "model": "M10600"
   },
   {
+   "device": "M10905-32",
+   "name": "M10905-32",
+   "model": "M10905-32"
+  },
+  {
    "device": "M10950",
    "name": "M10950",
    "model": "M10950"
@@ -102433,6 +102514,11 @@
    "device": "PB101",
    "name": "PB101",
    "model": "PB101"
+  },
+  {
+   "device": "PB9000-32",
+   "name": "PB9000-32",
+   "model": "PB9000-32"
   },
   {
    "device": "SILVERSTONE-T10",
@@ -103746,6 +103832,11 @@
    "model": "TAB-A05"
   },
   {
+   "device": "Panasonic_848",
+   "name": "TH-43JX580C",
+   "model": "4S806_Z31S"
+  },
+  {
    "device": "DX00C",
    "name": "TH-49DX400C",
    "model": "DX00C"
@@ -104447,11 +104538,6 @@
    "device": "PHILCO_TP7A6",
    "name": "PHILCO_TP7A6",
    "model": "TP7A6"
-  },
-  {
-   "device": "PTB10_1R",
-   "name": "PTB10_1R",
-   "model": "PTB10_1R"
   },
   {
    "device": "PTB7PA",
@@ -111748,6 +111834,11 @@
   {
    "device": "RMX3081L1",
    "name": "realme 8 Pro",
+   "model": "RMX3081"
+  },
+  {
+   "device": "RMX3081L1",
+   "name": "realme 8Pro",
    "model": "RMX3081"
   },
   {
@@ -131263,6 +131354,11 @@
    "device": "SEI103",
    "name": "SEI103V",
    "model": "ANDROID TV MEDIA BOX"
+  },
+  {
+   "device": "SEI700WP",
+   "name": "waipu tv stick",
+   "model": "waipu tv stick"
   }
  ],
  "Shuttle": [
@@ -145140,6 +145236,11 @@
   {
    "device": "U3A_7_WIFI_Refresh",
    "name": "TKEE MINI NEW",
+   "model": "9309X"
+  },
+  {
+   "device": "U3A_7_WIFI_Refresh",
+   "name": "TKEE MINI NEW",
    "model": "9309X_EEA"
   },
   {
@@ -147995,6 +148096,11 @@
    "model": "TECNO KE5k"
   },
   {
+   "device": "TECNO-KG8",
+   "name": "SPARK 8 Pro",
+   "model": "TECNO KG8"
+  },
+  {
    "device": "TECNO-KA9",
    "name": "SPARK CM",
    "model": "TECNO KA9"
@@ -149406,6 +149512,13 @@
    "device": "SEI400TV",
    "name": "TiVo Stream 4K",
    "model": "TiVo Stream 4K"
+  }
+ ],
+ "Tibuta": [
+  {
+   "device": "Tibuta_MasterPad_K100",
+   "name": "Tibuta_MasterPad_K100",
+   "model": "Tibuta_MasterPad_K100"
   }
  ],
  "Tigers": [
@@ -151788,6 +151901,11 @@
   },
   {
    "device": "BISON_X10_Pro",
+   "name": "BISON X10 Pro",
+   "model": "RP01"
+  },
+  {
+   "device": "BISON_X10_Pro",
    "name": "BISON X10 Pro EEA",
    "model": "RP01"
   },
@@ -153009,6 +153127,11 @@
    "device": "KingPad_Z10",
    "name": "KingPad_Z10",
    "model": "KingPad_Z10"
+  },
+  {
+   "device": "KingPad_Z10Mini",
+   "name": "KingPad_Z10Mini",
+   "model": "KingPad_Z10Mini"
   },
   {
    "device": "KingPad_Z10_EEA",
@@ -160809,11 +160932,6 @@
   }
  ],
  "Wowi": [
-  {
-   "device": "P8",
-   "name": "P8",
-   "model": "P8"
-  },
   {
    "device": "SQ733",
    "name": "SQ733",
@@ -174805,6 +174923,13 @@
    "device": "wvv832",
    "name": "Wizpad_Valuer_V8",
    "model": "Wizpad_Valuer_V8"
+  }
+ ],
+ "rephone": [
+  {
+   "device": "rephone",
+   "name": "rephone",
+   "model": "2000_000170_00"
   }
  ],
  "robi": [

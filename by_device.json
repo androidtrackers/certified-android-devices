@@ -24200,6 +24200,13 @@
    "model": "Tab11"
   }
  ],
+ "Tab6_NEU": [
+  {
+   "brand": "Blackview",
+   "name": "Tab6_NEU",
+   "model": "Tab 6"
+  }
+ ],
  "Tab8": [
   {
    "brand": "Blackview",
@@ -25538,6 +25545,13 @@
    "brand": "Blu",
    "name": "G91 Pro",
    "model": "G91 Pro"
+  }
+ ],
+ "G0550WW": [
+  {
+   "brand": "Blu",
+   "name": "G91S",
+   "model": "G91S"
   }
  ],
  "BLU_GRAND_5_5_HD": [
@@ -31148,6 +31162,13 @@
    "brand": "Cherry Mobile",
    "name": "Lenoxx",
    "model": "CX940"
+  }
+ ],
+ "Cherry_Magnum_8s": [
+  {
+   "brand": "Cherry Mobile",
+   "name": "Magnum 8s",
+   "model": "A870"
   }
  ],
  "Omega_Icon_Lite_2": [
@@ -48371,6 +48392,13 @@
    "model": "FP3"
   }
  ],
+ "FP4": [
+  {
+   "brand": "Fairphone",
+   "name": "Fairphone4",
+   "model": "FP4"
+  }
+ ],
  "Famous_Red_5Plus": [
   {
    "brand": "Famous Fones",
@@ -56826,11 +56854,6 @@
   },
   {
    "brand": "POPTEL",
-   "name": "P8",
-   "model": "P8"
-  },
-  {
-   "brand": "Wowi",
    "name": "P8",
    "model": "P8"
   }
@@ -68281,6 +68304,13 @@
    "model": "EDA52"
   }
  ],
+ "EDA5S": [
+  {
+   "brand": "Honeywell",
+   "name": "EDA5S",
+   "model": "EDA5S"
+  }
+ ],
  "EDA61K-0C": [
   {
    "brand": "Honeywell",
@@ -79595,6 +79625,13 @@
    "model": "VIATABQX740"
   }
  ],
+ "IQU_T8_4G": [
+  {
+   "brand": "IQU_GROUP",
+   "name": "IQU_T8_4G",
+   "model": "IQU T8 4G"
+  }
+ ],
  "IRA801": [
   {
    "brand": "IRA (explore more)",
@@ -86062,6 +86099,13 @@
    "brand": "Jinga",
    "name": "WinPRO",
    "model": "WinPRO"
+  }
+ ],
+ "LS1542QWN": [
+  {
+   "brand": "Jio",
+   "name": "JioPhone Next",
+   "model": "LS1542QWN"
   }
  ],
  "Energy_E12": [
@@ -105254,6 +105298,11 @@
    "brand": "Lenovo",
    "name": "XiaoXin Pad",
    "model": "Lenovo TB-J606F"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "XiaoXin Pad",
+   "model": "Lenovo TB-J606N"
   }
  ],
  "J606N": [
@@ -105575,12 +105624,22 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab QT K11 Pro 5G",
    "model": "Lenovo TB-J607Z"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "XiaoXin Pad Plus",
+   "model": "Lenovo TB-J607Z"
   }
  ],
  "TB-J616F": [
   {
    "brand": "Lenovo",
    "name": "Lenovo Tab P11 Plus",
+   "model": "Lenovo TB-J616F"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "小新 Pad GT",
    "model": "Lenovo TB-J616F"
   }
  ],
@@ -105614,6 +105673,11 @@
   {
    "brand": "Lenovo",
    "name": "Lenovo Tab P12 Pro",
+   "model": "Lenovo TB-Q706F"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "小新Pad Pro 12.6",
    "model": "Lenovo TB-Q706F"
   }
  ],
@@ -111185,7 +111249,7 @@
  "Masstel_Hapi_15": [
   {
    "brand": "Masstel",
-   "name": "Hipi 15",
+   "name": "Hapi 15",
    "model": "Masstel Hapi 15"
   }
  ],
@@ -112176,6 +112240,13 @@
    "brand": "Mecool",
    "name": "KM6",
    "model": "KM6"
+  }
+ ],
+ "KM7": [
+  {
+   "brand": "Mecool",
+   "name": "KM7",
+   "model": "KM7"
   }
  ],
  "KM8": [
@@ -113315,6 +113386,13 @@
    "brand": "Meizu",
    "name": "MEIZU 18",
    "model": "MEIZU 18"
+  }
+ ],
+ "meizu18X": [
+  {
+   "brand": "Meizu",
+   "name": "MEIZU 18X",
+   "model": "MEIZU 18X"
   }
  ],
  "meizu18s": [
@@ -128884,6 +128962,18 @@
    "model": "DP-X1A"
   }
  ],
+ "sti6140d360": [
+  {
+   "brand": "Onn",
+   "name": "Onn 4k TV",
+   "model": "sti6140d360"
+  },
+  {
+   "brand": "Onn (Walmart)",
+   "name": "sti6140d360",
+   "model": "sti6140d360"
+  }
+ ],
  "mid8011": [
   {
    "brand": "Onn (Walmart)",
@@ -129025,18 +129115,6 @@
    "brand": "Onn (Walmart)",
    "name": "Onn 2k TV stick",
    "model": "Onn 2k TV stick"
-  }
- ],
- "sti6140d360": [
-  {
-   "brand": "Onn (Walmart)",
-   "name": "OnnTVbox",
-   "model": "sti6140d360"
-  },
-  {
-   "brand": "Onn (Walmart)",
-   "name": "sti6140d360",
-   "model": "sti6140d360"
   }
  ],
  "TBBVNC100005207": [
@@ -132043,6 +132121,13 @@
    "model": "h33"
   }
  ],
+ "H-35": [
+  {
+   "brand": "Opticon",
+   "name": "H-35",
+   "model": "H-35"
+  }
+ ],
  "oraimo-R401": [
   {
    "brand": "Oraimo",
@@ -133945,6 +134030,13 @@
    "model": "M10600"
   }
  ],
+ "M10905-32": [
+  {
+   "brand": "Packard Bell",
+   "name": "M10905-32",
+   "model": "M10905-32"
+  }
+ ],
  "M10950": [
   {
    "brand": "Packard Bell",
@@ -133992,6 +134084,13 @@
    "brand": "Packard Bell",
    "name": "PB101",
    "model": "PB101"
+  }
+ ],
+ "PB9000-32": [
+  {
+   "brand": "Packard Bell",
+   "name": "PB9000-32",
+   "model": "PB9000-32"
   }
  ],
  "SILVERSTONE-T10": [
@@ -135690,6 +135789,13 @@
    "model": "TAB-A05"
   }
  ],
+ "Panasonic_848": [
+  {
+   "brand": "Panasonic",
+   "name": "TH-43JX580C",
+   "model": "4S806_Z31S"
+  }
+ ],
  "DX00C": [
   {
    "brand": "Panasonic",
@@ -136556,13 +136662,6 @@
    "brand": "Philco",
    "name": "PHILCO_TP7A6",
    "model": "TP7A6"
-  }
- ],
- "PTB10_1R": [
-  {
-   "brand": "Philco",
-   "name": "PTB10_1R",
-   "model": "PTB10_1R"
   }
  ],
  "PTB7PA": [
@@ -145382,6 +145481,11 @@
   {
    "brand": "Realme",
    "name": "realme 8 Pro",
+   "model": "RMX3081"
+  },
+  {
+   "brand": "Realme",
+   "name": "realme 8Pro",
    "model": "RMX3081"
   }
  ],
@@ -169623,6 +169727,18 @@
    "model": "ADT-2"
   }
  ],
+ "SEI700WP": [
+  {
+   "brand": "Shenzhen SEI Robotics",
+   "name": "waipu tv stick",
+   "model": "waipu tv stick"
+  },
+  {
+   "brand": "waiputv",
+   "name": "waipu tv stick",
+   "model": "waipu tv stick"
+  }
+ ],
  "PNT-7045": [
   {
    "brand": "Shuttle",
@@ -179906,6 +180022,11 @@
   {
    "brand": "TCT (Alcatel)",
    "name": "TKEE MINI NEW",
+   "model": "9309X"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "TKEE MINI NEW",
    "model": "9309X_EEA"
   },
   {
@@ -188822,6 +188943,13 @@
    "model": "TECNO KE5k"
   }
  ],
+ "TECNO-KG8": [
+  {
+   "brand": "Tecno",
+   "name": "SPARK 8 Pro",
+   "model": "TECNO KG8"
+  }
+ ],
  "TECNO-KA9": [
   {
    "brand": "Tecno",
@@ -190463,6 +190591,13 @@
    "brand": "TiVo Stream 4K",
    "name": "TiVo Stream 4K",
    "model": "TiVo Stream 4K"
+  }
+ ],
+ "Tibuta_MasterPad_K100": [
+  {
+   "brand": "Tibuta",
+   "name": "Tibuta_MasterPad_K100",
+   "model": "Tibuta_MasterPad_K100"
   }
  ],
  "TIS001": [
@@ -193115,6 +193250,11 @@
  "BISON_X10_Pro": [
   {
    "brand": "Umidigi",
+   "name": "BISON X10 Pro",
+   "model": "RP01"
+  },
+  {
+   "brand": "Umidigi",
    "name": "BISON X10 Pro EEA",
    "model": "RP01"
   }
@@ -194329,6 +194469,13 @@
    "brand": "Vastking",
    "name": "KingPad_Z10",
    "model": "KingPad_Z10"
+  }
+ ],
+ "KingPad_Z10Mini": [
+  {
+   "brand": "Vastking",
+   "name": "KingPad_Z10Mini",
+   "model": "KingPad_Z10Mini"
   }
  ],
  "KingPad_Z10_EEA": [
@@ -219256,6 +219403,13 @@
    "model": "Wizpad_Valuer_V8"
   }
  ],
+ "rephone": [
+  {
+   "brand": "rephone",
+   "name": "rephone",
+   "model": "2000_000170_00"
+  }
+ ],
  "BingeStick": [
   {
    "brand": "robi",
@@ -219597,13 +219751,6 @@
    "brand": "videocon",
    "name": "Starr 100",
    "model": "V406018"
-  }
- ],
- "SEI700WP": [
-  {
-   "brand": "waiputv",
-   "name": "waipu tv stick",
-   "model": "waipu tv stick"
   }
  ],
  "XTOUCH_A4": [
