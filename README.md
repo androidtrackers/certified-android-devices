@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-10-21
+Last sync is 2021-10-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -159,6 +159,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ATEAM|A801|A801|A801|
 |ATID|AT908|AT908|AT908|
 |ATID|AT908_EEA|AT908|AT908_EEA|
+|ATILIM UNIVERSITY|ATILIM_mPAD07|ATILIM_mPAD07|ATILIM_mPAD07|
 |ATM (Brazil)|R5|R5|R5|
 |ATM (Brazil)|R5Plus|R5Plus|R5Plus|
 |ATM (Brazil)|R5_Pro|R5_Pro|R5 Pro|
@@ -1927,6 +1928,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Athesi|AP5801|AP5801|AP5801|
 |Athesi|AP6301|AP6301|AP6301|
 |Athesi|AT-E8T|AT-E8T|AT-E8T|
+|Athesi|Athesi AP5702|AP5702|AP5702|
 |Athesi|Athesi professional AP5705S|AP5705S|AP5705S|
 |Athesi|E6A|E6A|E6A|
 |Athesi|RT101A|RT101A|RT101A9|
@@ -5404,6 +5406,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|N20Pro|N20Pro|N20Pro|
 |Doogee|N30|N30|N30|
 |Doogee|N30E|N30E|N30E|
+|Doogee|N40Plus|N40Plus|N40Pro|
 |Doogee|N40Pro|N40Pro|N40Pro|
 |Doogee|N40Pro_RU|N40Pro|N40Pro|
 |Doogee|S30|S30|S30|
@@ -7413,6 +7416,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel 4a (5G)|bramble|Pixel 4a (5G)|
 |Google|Pixel 5|redfin|Pixel 5|
 |Google|Pixel 5a 5G|barbet|Pixel 5a|
+|Google|Pixel 6|oriole|Pixel 6|
+|Google|Pixel 6 Pro|raven|Pixel 6 Pro|
 |Google|Pixel C|dragon|Pixel C|
 |Google|Pixel Slate|nocturne_cheets|Google Pixel Slate|
 |Google|Pixel Slate|nocturne_cheets|Pixel Slate|
@@ -8512,6 +8517,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hamic|POCKET|POCKET|POCKET|
 |Hamlet|Hamlet_XZPAD412W|XZPAD412W|Hamlet_XZPAD412W|
 |Hamlet|XZPAD412LTE|XZPAD412LTE|XZPAD412LTE|
+|Hamlet|XZPAD414LTE|XZPAD414LTE|XZPAD414LTE|
 |Hamlet|XZPAD470LTE|XZPAD470LTE|XZPAD470LTE|
 |Handheld Group|ALGIZ RT8|ALGIZ_RT8|ALGIZ_RT8|
 |Handheld Group|Algiz RT7|algizRT7|Algiz RT7|
@@ -11237,6 +11243,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HT10LB3MBKWW|HT10LB3MBKWW|HT10LB3MBKWW|
 |Hyundai|HT7WB1RBK|HT7WB1RBK|HT7WB1RBK|
 |Hyundai|HT7WC1PBK|HT7WC1PBK|HT7WC1PBK|
+|Hyundai|HT8WB1RBK03|HT8WB1RBK03|HT8WB1RBK03|
 |Hyundai|HY1-5085|HY1_5085|HY1-5085|
 |Hyundai|HYLED4321AiM|ikebukuro|AI PONT|
 |Hyundai|HYLED5015A4KM|samseong|AI PONT|
@@ -11597,6 +11604,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 9 Play|Infinix-X680F|Infinix X680F|
 |Infinix|Infinix HOT 9 Pro|Infinix-X655F|Infinix X655F|
 |Infinix|Infinix NOTE 10|Infinix-X693|Infinix X693|
+|Infinix|Infinix NOTE 11|Infinix-X663|Infinix X663|
+|Infinix|Infinix NOTE 11|Infinix-X663B|Infinix X663B|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604B|
 |Infinix|Infinix NOTE 5 Stylus|Infinix-X605_sprout|Infinix X605|
@@ -12557,6 +12566,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KEYENCE|DX-A600|DX-A600|DX-A600|
 |KGTEL|Better10|Better10|Better10|
 |KGTEL|R10|R10A|R10|
+|KGTEL|X5|X5A|X5|
 |KIRISUN|KIRISUN T650|T650|T650|
 |KISA phone|KPAU04|KPAU04|KPAU04|
 |KNC (LK)|TPC_XTE10D|TPC_XTE10D|TPC_XTE10D|
@@ -19021,6 +19031,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OKAPI|Okapi_Tab6|Okapi_Tab6|Okapi_Tab6|
 |OKAPI|Okapi_Tab8|Okapi_Tab8|Okapi_Tab8|
 |OKAPI|Tab10|Tab10|Tab10|
+|OKSI|GEN-10|GEN-10|GEN-10|
 |OKWU|PI Plus|PI_Plus|PI Plus|
 |OLAX|Q101_EEA|Q101_EEA|Q101_EEA|
 |OMIX|X300|X300|OMIX X300|
@@ -28743,6 +28754,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|T30_RU|T30|T30_RU|
 |Teclast|T40|T40|TLA001|
 |Teclast|T40Pro_EEA|T40Pro_EEA|T40Pro_EEA|
+|Teclast|T40Pro_ROW|T40Pro_ROW|T40Pro_ROW|
 |Teclast|T40_Plus_EEA|T40_Plus_EEA|T40_Plus_EEA|
 |Teclast|T40_Plus_ROW|T40_Plus_ROW|T40_Plus_ROW|
 |Teclast|T40_Plus_RUS|T40_Plus_RUS|T40_Plus_RUS|
@@ -28944,6 +28956,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CAMON 15|TECNO-CD7|TECNO CD7|
 |Tecno|TECNO CAMON 16|TECNO-CE9h|TECNO CE9h|
 |Tecno|TECNO CAMON 16 Premier|TECNO-CE9|TECNO CE9|
+|Tecno|TECNO CAMON 18|TECNO-CH6h|TECNO CH6h|
 |Tecno|TECNO CAMON 18 Premier|TECNO-CH9|TECNO CH9|
 |Tecno|TECNO CAMON 18 Premier|TECNO-CH9n|TECNO CH9n|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|

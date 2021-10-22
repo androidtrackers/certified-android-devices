@@ -2366,6 +2366,13 @@
    "model": "AT908_EEA"
   }
  ],
+ "ATILIM_mPAD07": [
+  {
+   "brand": "ATILIM UNIVERSITY",
+   "name": "ATILIM_mPAD07",
+   "model": "ATILIM_mPAD07"
+  }
+ ],
  "R5": [
   {
    "brand": "ATM (Brazil)",
@@ -17009,6 +17016,13 @@
    "brand": "Athesi",
    "name": "AT-E8T",
    "model": "AT-E8T"
+  }
+ ],
+ "AP5702": [
+  {
+   "brand": "Athesi",
+   "name": "Athesi AP5702",
+   "model": "AP5702"
   }
  ],
  "AP5705S": [
@@ -42197,6 +42211,13 @@
    "model": "N30E"
   }
  ],
+ "N40Plus": [
+  {
+   "brand": "Doogee",
+   "name": "N40Plus",
+   "model": "N40Pro"
+  }
+ ],
  "N40Pro": [
   {
    "brand": "Doogee",
@@ -56360,6 +56381,20 @@
    "model": "Pixel 5a"
   }
  ],
+ "oriole": [
+  {
+   "brand": "Google",
+   "name": "Pixel 6",
+   "model": "Pixel 6"
+  }
+ ],
+ "raven": [
+  {
+   "brand": "Google",
+   "name": "Pixel 6 Pro",
+   "model": "Pixel 6 Pro"
+  }
+ ],
  "dragon": [
   {
    "brand": "Google",
@@ -63076,6 +63111,13 @@
    "brand": "Hamlet",
    "name": "XZPAD412LTE",
    "model": "XZPAD412LTE"
+  }
+ ],
+ "XZPAD414LTE": [
+  {
+   "brand": "Hamlet",
+   "name": "XZPAD414LTE",
+   "model": "XZPAD414LTE"
   }
  ],
  "XZPAD470LTE": [
@@ -78706,6 +78748,13 @@
    "model": "HT7WC1PBK"
   }
  ],
+ "HT8WB1RBK03": [
+  {
+   "brand": "Hyundai",
+   "name": "HT8WB1RBK03",
+   "model": "HT8WB1RBK03"
+  }
+ ],
  "HY1_5085": [
   {
    "brand": "Hyundai",
@@ -81111,6 +81160,20 @@
    "brand": "Infinix",
    "name": "Infinix NOTE 10",
    "model": "Infinix X693"
+  }
+ ],
+ "Infinix-X663": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix NOTE 11",
+   "model": "Infinix X663"
+  }
+ ],
+ "Infinix-X663B": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix NOTE 11",
+   "model": "Infinix X663B"
   }
  ],
  "Infinix-X604_sprout": [
@@ -87185,6 +87248,13 @@
    "brand": "KGTEL",
    "name": "R10",
    "model": "R10"
+  }
+ ],
+ "X5A": [
+  {
+   "brand": "KGTEL",
+   "name": "X5",
+   "model": "X5"
   }
  ],
  "T650": [
@@ -128370,6 +128440,13 @@
    "brand": "OKAPI",
    "name": "Tab10",
    "model": "Tab10"
+  }
+ ],
+ "GEN-10": [
+  {
+   "brand": "OKSI",
+   "name": "GEN-10",
+   "model": "GEN-10"
   }
  ],
  "PI_Plus": [
@@ -187978,6 +188055,13 @@
    "model": "T40Pro_EEA"
   }
  ],
+ "T40Pro_ROW": [
+  {
+   "brand": "Teclast",
+   "name": "T40Pro_ROW",
+   "model": "T40Pro_ROW"
+  }
+ ],
  "T40_Plus_EEA": [
   {
    "brand": "Teclast",
@@ -189311,6 +189395,13 @@
    "brand": "Tecno",
    "name": "TECNO CAMON 16 Premier",
    "model": "TECNO CE9"
+  }
+ ],
+ "TECNO-CH6h": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO CAMON 18",
+   "model": "TECNO CH6h"
   }
  ],
  "TECNO-CH9": [

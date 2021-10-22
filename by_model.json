@@ -1810,6 +1810,13 @@
    "device": "AT908"
   }
  ],
+ "ATILIM_mPAD07": [
+  {
+   "brand": "ATILIM UNIVERSITY",
+   "name": "ATILIM_mPAD07",
+   "device": "ATILIM_mPAD07"
+  }
+ ],
  "R5": [
   {
    "brand": "ATM (Brazil)",
@@ -14992,6 +14999,13 @@
    "brand": "Athesi",
    "name": "AT-E8T",
    "device": "AT-E8T"
+  }
+ ],
+ "AP5702": [
+  {
+   "brand": "Athesi",
+   "name": "Athesi AP5702",
+   "device": "AP5702"
   }
  ],
  "AP5705S": [
@@ -39910,6 +39924,11 @@
  "N40Pro": [
   {
    "brand": "Doogee",
+   "name": "N40Plus",
+   "device": "N40Plus"
+  },
+  {
+   "brand": "Doogee",
    "name": "N40Pro",
    "device": "N40Pro"
   },
@@ -54229,6 +54248,20 @@
    "device": "barbet"
   }
  ],
+ "Pixel 6": [
+  {
+   "brand": "Google",
+   "name": "Pixel 6",
+   "device": "oriole"
+  }
+ ],
+ "Pixel 6 Pro": [
+  {
+   "brand": "Google",
+   "name": "Pixel 6 Pro",
+   "device": "raven"
+  }
+ ],
  "Pixel C": [
   {
    "brand": "Google",
@@ -61594,6 +61627,13 @@
    "brand": "Hamlet",
    "name": "XZPAD412LTE",
    "device": "XZPAD412LTE"
+  }
+ ],
+ "XZPAD414LTE": [
+  {
+   "brand": "Hamlet",
+   "name": "XZPAD414LTE",
+   "device": "XZPAD414LTE"
   }
  ],
  "XZPAD470LTE": [
@@ -79615,6 +79655,13 @@
    "device": "HT7WC1PBK"
   }
  ],
+ "HT8WB1RBK03": [
+  {
+   "brand": "Hyundai",
+   "name": "HT8WB1RBK03",
+   "device": "HT8WB1RBK03"
+  }
+ ],
  "HY1-5085": [
   {
    "brand": "Hyundai",
@@ -82076,6 +82123,20 @@
    "brand": "Infinix",
    "name": "Infinix NOTE 10",
    "device": "Infinix-X693"
+  }
+ ],
+ "Infinix X663": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix NOTE 11",
+   "device": "Infinix-X663"
+  }
+ ],
+ "Infinix X663B": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix NOTE 11",
+   "device": "Infinix-X663B"
   }
  ],
  "Infinix X604": [
@@ -88375,6 +88436,28 @@
    "brand": "KGTEL",
    "name": "Better10",
    "device": "Better10"
+  }
+ ],
+ "X5": [
+  {
+   "brand": "KGTEL",
+   "name": "X5",
+   "device": "X5A"
+  },
+  {
+   "brand": "SPC Mobile",
+   "name": "X5",
+   "device": "X5"
+  },
+  {
+   "brand": "Selfix",
+   "name": "X5",
+   "device": "X5"
+  },
+  {
+   "brand": "Stylo",
+   "name": "X5",
+   "device": "X5"
   }
  ],
  "T650": [
@@ -131043,6 +131126,13 @@
    "device": "Tab10"
   }
  ],
+ "GEN-10": [
+  {
+   "brand": "OKSI",
+   "name": "GEN-10",
+   "device": "GEN-10"
+  }
+ ],
  "PI Plus": [
   {
    "brand": "OKWU",
@@ -152403,23 +152493,6 @@
    "brand": "koobee",
    "name": "S19",
    "device": "Koobee_S19"
-  }
- ],
- "X5": [
-  {
-   "brand": "SPC Mobile",
-   "name": "X5",
-   "device": "X5"
-  },
-  {
-   "brand": "Selfix",
-   "name": "X5",
-   "device": "X5"
-  },
-  {
-   "brand": "Stylo",
-   "name": "X5",
-   "device": "X5"
   }
  ],
  "Blink 10.1": [
@@ -195661,6 +195734,13 @@
    "device": "T40Pro_EEA"
   }
  ],
+ "T40Pro_ROW": [
+  {
+   "brand": "Teclast",
+   "name": "T40Pro_ROW",
+   "device": "T40Pro_ROW"
+  }
+ ],
  "T40_Plus_EEA": [
   {
    "brand": "Teclast",
@@ -197033,6 +197113,13 @@
    "brand": "Tecno",
    "name": "TECNO CAMON 16 Premier",
    "device": "TECNO-CE9"
+  }
+ ],
+ "TECNO CH6h": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO CAMON 18",
+   "device": "TECNO-CH6h"
   }
  ],
  "TECNO CH9": [
