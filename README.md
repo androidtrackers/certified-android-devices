@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-10-22
+Last sync is 2021-10-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -16600,6 +16600,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mediacom|M-SP8MXA|SP8MXA|M-SP8MXA|
 |Medion|E1050X|E1050X|E1050X|
 |Medion|E1051X|E1051X|E1051X|
+|Medion|E1090X|E1090X|LIFETAB E1090X|
 |Medion|E4502|E4502|MEDION E4502|
 |Medion|E4506|E4506|MEDION E4506|
 |Medion|E4507|B4570|B4570|
