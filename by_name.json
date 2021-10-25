@@ -8526,6 +8526,11 @@
    "model": "ATV R2"
   },
   {
+   "brand": "Nokia",
+   "device": "R4",
+   "model": "R4"
+  },
+  {
    "brand": "Orient",
    "device": "R1",
    "model": "ATV R1"
@@ -27941,6 +27946,13 @@
    "brand": "Blackview",
    "device": "Tab11_RU",
    "model": "Tab11"
+  }
+ ],
+ "Tab6_EEA": [
+  {
+   "brand": "Blackview",
+   "device": "Tab6_EEA",
+   "model": "Tab 6"
   }
  ],
  "Tab6_NEU": [
@@ -129794,13 +129806,6 @@
    "model": "W723"
   }
  ],
- "sti6140d360": [
-  {
-   "brand": "Onn (Walmart)",
-   "device": "sti6140d360",
-   "model": "sti6140d360"
-  }
- ],
  "Ooredoo TV": [
   {
    "brand": "Ooredoo",
@@ -133596,6 +133601,13 @@
    "brand": "Oukitel",
    "device": "OKT1",
    "model": "OKT1"
+  }
+ ],
+ "RT1_EEA": [
+  {
+   "brand": "Oukitel",
+   "device": "RT1",
+   "model": "RT1"
   }
  ],
  "U11_Plus": [
@@ -145884,13 +145896,6 @@
    "brand": "Razer",
    "device": "cheryl_ckh",
    "model": "Phone"
-  }
- ],
- "4K Google TV Stick": [
-  {
-   "brand": "Realme",
-   "device": "YYT",
-   "model": "4K Google TV Stick"
   }
  ],
  "RMX2020": [
@@ -217427,6 +217432,13 @@
    "brand": "qunyiCO",
    "device": "Y7_EEA",
    "model": "Y7"
+  }
+ ],
+ "4K Google TV Stick": [
+  {
+   "brand": "realme",
+   "device": "YYT",
+   "model": "4K Google TV Stick"
   }
  ],
  "Valuer_V8": [

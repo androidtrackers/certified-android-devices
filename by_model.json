@@ -22214,6 +22214,11 @@
  "Tab 6": [
   {
    "brand": "Blackview",
+   "name": "Tab6_EEA",
+   "device": "Tab6_EEA"
+  },
+  {
+   "brand": "Blackview",
    "name": "Tab6_NEU",
    "device": "Tab6_NEU"
   }
@@ -119469,6 +119474,11 @@
   },
   {
    "brand": "Nokia",
+   "name": "Android TV",
+   "device": "R4"
+  },
+  {
+   "brand": "Nokia",
    "name": "R4",
    "device": "R4"
   }
@@ -132224,18 +132234,6 @@
    "device": "W723"
   }
  ],
- "sti6140d360": [
-  {
-   "brand": "Onn (Walmart)",
-   "name": "sti6140d360",
-   "device": "sti6140d360"
-  },
-  {
-   "brand": "onn.",
-   "name": "onn. 4k TV",
-   "device": "sti6140d360"
-  }
- ],
  "DIW387_UHD_OOR": [
   {
    "brand": "Ooredoo",
@@ -136434,6 +136432,13 @@
    "brand": "Oukitel",
    "name": "OKT1",
    "device": "OKT1"
+  }
+ ],
+ "RT1": [
+  {
+   "brand": "Oukitel",
+   "name": "RT1_EEA",
+   "device": "RT1"
   }
  ],
  "U11_Plus": [
@@ -148924,13 +148929,6 @@
    "brand": "Razer",
    "name": "Razer phone",
    "device": "cheryl_ckh"
-  }
- ],
- "4K Google TV Stick": [
-  {
-   "brand": "Realme",
-   "name": "4K Google TV Stick",
-   "device": "YYT"
   }
  ],
  "RMX2020": [
@@ -230007,6 +230005,13 @@
    "device": "ZIDS701"
   }
  ],
+ "sti6140d360": [
+  {
+   "brand": "onn.",
+   "name": "onn. 4k TV",
+   "device": "sti6140d360"
+  }
+ ],
  "PNDPP44QC10": [
   {
    "brand": "pendo",
@@ -230019,6 +230024,13 @@
    "brand": "pendo",
    "name": "PNDPP44QC7",
    "device": "PNDPP44QC7"
+  }
+ ],
+ "4K Google TV Stick": [
+  {
+   "brand": "realme",
+   "name": "4K Google TV Stick",
+   "device": "YYT"
   }
  ],
  "Valuer_V8": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-10-24
+Last sync is 2021-10-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2933,6 +2933,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|Tab11_EEA|Tab11_EEA|Tab11|
 |Blackview|Tab11_ROW|Tab11_ROW|Tab11|
 |Blackview|Tab11_RU|Tab11_RU|Tab11|
+|Blackview|Tab6_EEA|Tab6_EEA|Tab 6|
 |Blackview|Tab6_NEU|Tab6_NEU|Tab 6|
 |Blackview|Tab8|Tab8|Tab8|
 |Blackview|Tab8_EEA|Tab8_EEA|Tab 8|
@@ -18770,6 +18771,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Noblex|T7A6N|Tablet|T7A6N|
 |Nokia|Android TV|R1|ATV R1|
 |Nokia|Android TV|R2|ATV R2|
+|Nokia|Android TV|R4|R4|
 |Nokia|DVN2KA01|DV6068H_Nokia|DVN2KA01|
 |Nokia|N1|Nokia_N1|N1|
 |Nokia|Nokia 1|FRT|Nokia 1|
@@ -19212,7 +19214,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Onn (Walmart)|TBBVNC100005208|TBBVNC100005208|TBBVNC100005208|
 |Onn (Walmart)|TBBVNC100005209|TBBVNC100005209|TBBVNC100005209|
 |Onn (Walmart)|W723|W723|W723|
-|Onn (Walmart)|sti6140d360|sti6140d360|sti6140d360|
 |Ooredoo|Ooredoo TV|diw387oor|DIW387_UHD_OOR|
 |Ooredoo|Smart10_Pro|Smart10_Pro|Smart10_Pro|
 |Opay|M1 Lite|M1_Lite|M1 Lite|
@@ -19843,6 +19844,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|OK6000 PLUS|OK6000_Plus|OK6000 Plus|
 |Oukitel|OKC8 4G|OKC8_4G|OKC8 4G|
 |Oukitel|OKT1|OKT1|OKT1|
+|Oukitel|RT1_EEA|RT1|RT1|
 |Oukitel|U11_Plus|U11_Plus|U11_Plus|
 |Oukitel|U16 Max|U16_Max|U16 Max|
 |Oukitel|U17|U17|U17|
@@ -21763,7 +21765,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Razer|Phone 2|linus|Phone 2|
 |Razer|Razer Phone|cheryl|Phone|
 |Razer|Razer phone|cheryl_ckh|Phone|
-|Realme|4K Google TV Stick|YYT|4K Google TV Stick|
 |Realme|50F1|gangbyeon|4K AI Smart TV|
 |Realme|RMX2020|RMX2020|RMX2020|
 |Realme|RMX2040|RMX2040|RMX2040|
@@ -34153,6 +34154,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |qunyiCO|Y7|Y7_0|Y7|
 |qunyiCO|Y7|Y7_0_EEA|Y7|
 |qunyiCO|Y7_EEA|Y7_EEA|Y7|
+|realme|4K Google TV Stick|YYT|4K Google TV Stick|
 |redfox|Valuer_V8|Valuer_V8|Valuer_V8|
 |redfox|Wizpad_Valuer_V8|wvv832|Wizpad_Valuer_V8|
 |rephone|rephone|rephone|2000_000170_00|

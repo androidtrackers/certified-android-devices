@@ -15117,6 +15117,11 @@
    "model": "Tab11"
   },
   {
+   "device": "Tab6_EEA",
+   "name": "Tab6_EEA",
+   "model": "Tab 6"
+  },
+  {
    "device": "Tab6_NEU",
    "name": "Tab6_NEU",
    "model": "Tab 6"
@@ -96466,6 +96471,11 @@
    "model": "ATV R2"
   },
   {
+   "device": "R4",
+   "name": "Android TV",
+   "model": "R4"
+  },
+  {
    "device": "DV6068H_Nokia",
    "name": "DVN2KA01",
    "model": "DVN2KA01"
@@ -98790,11 +98800,6 @@
    "device": "W723",
    "name": "W723",
    "model": "W723"
-  },
-  {
-   "device": "sti6140d360",
-   "name": "sti6140d360",
-   "model": "sti6140d360"
   }
  ],
  "Ooredoo": [
@@ -101977,6 +101982,11 @@
    "device": "OKT1",
    "name": "OKT1",
    "model": "OKT1"
+  },
+  {
+   "device": "RT1",
+   "name": "RT1_EEA",
+   "model": "RT1"
   },
   {
    "device": "U11_Plus",
@@ -111856,11 +111866,6 @@
   }
  ],
  "Realme": [
-  {
-   "device": "YYT",
-   "name": "4K Google TV Stick",
-   "model": "4K Google TV Stick"
-  },
   {
    "device": "gangbyeon",
    "name": "50F1",
@@ -175259,6 +175264,13 @@
    "device": "Y7_EEA",
    "name": "Y7_EEA",
    "model": "Y7"
+  }
+ ],
+ "realme": [
+  {
+   "device": "YYT",
+   "name": "4K Google TV Stick",
+   "model": "4K Google TV Stick"
   }
  ],
  "redfox": [
