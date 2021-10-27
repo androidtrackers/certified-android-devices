@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-10-26
+Last sync is 2021-10-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2674,6 +2674,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|Kogan Agora 4G Lite|B506|Kogan Agora 4G Lite|
 |BenQ|PT2200|PT2200|PT2200|
 |BenQ|QS01|S905Y2|QS01|
+|BenQ|Smart TV|longshan|AI PONT|
 |BenQ|Smart TV|redwood|AI PONT|
 |BenQ|T3|T3|BenQ T3|
 |BenQ|T3|T3_17A|BenQ T3|
@@ -3487,6 +3488,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |"CHUBU TELECOMMUNICATIONS CO.|INC"|STI6130d353|sti6130d353|
 |CHiQ|H7A|samseong|AI PONT|
 |CHiQ|M7A|samseong|AI PONT|
+|CHiQ|Smart TV|longshan|AI PONT|
 |CHiQ|Smart TV|redwood|AI PONT|
 |CIBER|B610A215|B610A215|B610A215|
 |CILICO|C6|C6|C6|
@@ -5346,6 +5348,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dingding|X12|X12|X12|
 |Dintech|STAB8765B2-16|STAB8765B2-16|STAB8765B2-16|
 |Dish|AirTV Player|uiw4010ech|AirTV Player|
+|Dish|Celero 5G|Jupiter|WTCELERO5G|
 |Dish|EVOLVE|dish_cable_bcm|SH960C-DS|
 |Dish|SV10|HiCast|SV10|
 |DishTV (IN)|D-805XATV HD|SEI110|D-805XATV HD|
@@ -5937,6 +5940,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Emporia|S3mini|S3mini|S3mini|
 |Emporia|S5_EEA|S5|S5|
 |Emporia|SE|SE|SE|
+|Emporia|TAB1|TAB1|TAB1|
 |Emporia|emporiaSMART.4|S4|S4|
 |Emtec|F400|f400|f400|
 |Emtec|Gaming Android Gem Box|F500|Gem Box F500|
@@ -6841,9 +6845,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-TiDE|EX750|EX750|EX750|
 |G-TiDE|EXTREME X9|EXTREME_X9|EXTREME X9|
 |G-TiDE|FANS7|FANS7|G-TiDE FANS7|
+|G-TiDE|G-TiDE_H1_1|G-TiDE_H1_1|G-TiDE_H1|
+|G-TiDE|G-TiDE_H1_2|G-TiDE_H1_2|G-TiDE_H1|
 |G-TiDE|G-TiDE_H1_4G|G-TiDE_H1_4G|G-TiDE_H1_4G|
 |G-TiDE|G-TiDE_H1_EEA|G-TiDE_H1_EEA|G-TiDE_H1_EEA|
 |G-TiDE|G-TiDE_P1|G-TiDE_P1|G-TiDE_P1|
+|G-TiDE|G-TiDE_P1_1|G-TiDE_P1_1|G-TiDE_P1|
+|G-TiDE|G-TiDE_P1_2|G-TiDE_P1_2|G-TiDE_P1|
 |G-TiDE|G-TiDE_P1_4G|G-TiDE_P1_4G|G-TiDE_P1_4G|
 |G-TiDE|PL1080|G-TiDE_H1_4G_EEA|G-TiDE_H1_4G|
 |G-TiDE EXTREME|EX10|EX10|EX10|
@@ -8428,6 +8436,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|Haier Android TV|hanyang|haierATV|
 |Haier|Haier Android TV|hongik|haierATVhongik|
 |Haier|Haier Android TV|uguisudani|haierATVuguisudani|
+|Haier|Haier Android TV DVB2K|broadway|Haier Android TV DVB2K|
 |Haier|Haier Android TV FF Pro|daan|Haier Android TV FF Pro|
 |Haier|Haier Leisure L7|Haier_Leisure_L7|HM-N700-FL|
 |Haier|Haier Titan T5|Titan_T5|Titan_T5|
@@ -8971,6 +8980,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense E50 Lite|HLTE228E_11|Hisense E50 Lite|
 |Hisense|Hisense E50 Lite|HLTE228E_12|Hisense E50 Lite|
 |Hisense|Hisense E50 Lite|HLTE228E_14|Hisense E50 Lite|
+|Hisense|Hisense E50 Lite 64G|HLTE228E_20|Hisense E50 Lite 64GB|
 |Hisense|Hisense E76MINIM|HS8937QC|Hisense E76MINIM|
 |Hisense|Hisense E77|HS8937QC|Hisense E77|
 |Hisense|Hisense F15|HS6739MT|Hisense F15|
@@ -12168,6 +12178,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|A62|itel-A62|itel A62|
 |Itel|F311|Spice-F311|Spice F311|
 |Itel|F3116|itel-A571WM|itel A571W|
+|Itel|F3116|itel-A571WM|itel A571WM|
 |Itel|G4310IE|ikebukuro|AI PONT|
 |Itel|G5524BE|samseong|AI PONT|
 |Itel|ITELL_K4700Q|ITELL_K4700Q|ITELL K4700Q|
@@ -12904,6 +12915,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kogan|Kogan Agora XI|AGORA_XI|AGORA XI|
 |Kogan|Kogan Agora XS|Kogan_Agora_XS|Agora XS|
 |Kogan|Kogan SmarterTV|hanyang|Kogan SmarterTV|
+|Kogan|Smart TV|longshan|AI PONT|
 |Komu|K22|K22|K22|
 |Konrow|CITY|CITY|CITY|
 |Konrow|CITY4_EEA|CITY4|CITY4|
@@ -17377,6 +17389,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobvoi|TicWatch Pro 3|rover|TicWatch Pro 3|
 |Mobvoi|TicWatch Pro 3|rover|TicWatch Pro X|
 |Mobvoi|TicWatch Pro 3 Cellular/LTE|rover|TicWatch Pro 3|
+|Mobvoi|TicWatch Pro 3 Cellular/LTE|rover|TicWatch Pro 3 Ultra|
 |Mobvoi|TicWatch Pro 3 GPS|rubyfish|TicWatch Pro 3 GPS|
 |Mobvoi|TicWatch Pro 3 GPS|rubyfish|TicWatch Pro 3U|
 |Mobvoi|TicWatch Pro 4G|catshark|TicWatch Pro 4G|
@@ -17919,6 +17932,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge 20 lite|kyoto|motorola edge 20 lite|
 |Motorola|motorola edge 20 pro|pstar|moto g(100)|
 |Motorola|motorola edge 20 pro|pstar|motorola edge 20 pro|
+|Motorola|motorola edge 5G UW (2021)|berlna|motorola edge 5G UW|
+|Motorola|motorola edge 5G UW (2021)|berlna|motorola edge 5G UW (2021)|
 |Motorola|motorola edge plus|burton|motorola edge plus|
 |Motorola|motorola edge s|nio|XT2125-4|
 |Motorola|motorola edge s pro|pstar|XT2153-1|
@@ -20627,6 +20642,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Point Mobile|PM66|pm66|PM66|
 |Point Mobile|PM67|PM67|PM67|
 |Point Mobile|PM70|pm70|PM70|
+|Point Mobile|PM75|PM75|PM75|
 |Point Mobile|PM80|pm80|PM80|
 |Point Mobile|PM85|pm85|PM85|
 |Point Mobile|PM85|pm85e|PM85E|
@@ -21513,6 +21529,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Qilive|QT19101B|QT19101B|QT19101B|
 |Qilive|QT19101HV|QT19101HV|QT19101HV|
 |Qilive|QT19101K|QT19101K_116_EEA|QT19101K|
+|Qilive|QT201101L|QT21101L_232_EEA|QT21101L|
 |Qilive|QT2108BP|QT2108BP|QT2108BP|
 |Qilive|QT2110BP|QT2110BP|QT2110BP|
 |Qilive|W55|W55|W55|
@@ -26997,6 +27014,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |T-Mobile|REVVL 4+|Porto|5062Z|
 |T-Mobile|REVVL 5G|Seattle_5G|T790W|
 |T-Mobile|REVVL 5G|Seattle_5G|T790Z|
+|T-Mobile|REVVL V+ 5G|Sprout|REVVL V+ 5G|
 |T-Mobile|REVVLRY|channel|REVVLRY|
 |T-Mobile|REVVLRY|channel|REVVLry|
 |T-Mobile|REVVLRY+|lake_n|REVVLRY+|
@@ -29688,6 +29706,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|Power 5|Power_5|Power 5|
 |Umidigi|Power 5 EEA|Power_5|Power 5|
 |Umidigi|Power 5S|Power_5S|MP02|
+|Umidigi|Power 5S EEA|Power_5S|MP02|
 |Umidigi|Power_3|Power_3|Power_3|
 |Umidigi|Power_3_EEA|Power_3|Power_3|
 |Umidigi|S2PRO|S2_PRO|S2_PRO|
@@ -30392,6 +30411,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2002A|PD2019|V2019A|
 |Vivo|V2005A|PD2005|V2005A|
 |Vivo|V2006|2006|V2006|
+|Vivo|V2009A|PD2156|V2009A|
 |Vivo|V2011A|PD2011|V2011A|
 |Vivo|V2012A|PD2012|V2012A|
 |Vivo|V2020A|PD2020|V2020A|
@@ -30505,14 +30525,17 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2131A|PD2131|V2131A|
 |Vivo|V2132A|PD2134|V2132A|
 |Vivo|V2133A|PD2133|V2133A|
+|Vivo|V2134|2120|V2134|
 |Vivo|V2134A|PD2134|V2134A|
 |Vivo|V2135A|PD2133|V2135A|
 |Vivo|V2136A|PD2136|V2136A|
 |Vivo|V2136GA|PD2136|V2136GA|
+|Vivo|V2139|2120|V2139|
 |Vivo|V2141A|PD2141|V2141A|
 |Vivo|V2143A|PD2143|V2143A|
 |Vivo|V2145A|PD2145|V2145A|
 |Vivo|V2148A|PD2148|V2148A|
+|Vivo|V2156A|PD2156|V2156A|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
 |Vivo|V3Lite|V3Lite|vivo V3Lite|
@@ -33773,6 +33796,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |bq|Edison_3_mini|Edison_3_mini|Edison 3 mini|
 |bq|M8|Aquaris_M8|Aquaris M8|
 |carrozzeria|SDA-700TAB|SDA_700TAB|SDA-700TAB|
+|cosmos|Lynx_10in|Lynx_10in|Lynx_10in|
 |d.light|M100|M100|M100|
 |d.light|M1000|M1000|M1000|
 |d.light|M1000D|M1000|M1000|

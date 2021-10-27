@@ -22454,6 +22454,28 @@
    "model": "QS01"
   }
  ],
+ "longshan": [
+  {
+   "brand": "BenQ",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "CHiQ",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Changhong",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Kogan",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  }
+ ],
  "redwood": [
   {
    "brand": "BenQ",
@@ -30415,13 +30437,6 @@
    "brand": "Changhong",
    "name": "GIU6860",
    "model": "GIU6860"
-  }
- ],
- "longshan": [
-  {
-   "brand": "Changhong",
-   "name": "Smart TV",
-   "model": "AI PONT"
   }
  ],
  "dwt765cha": [
@@ -41756,6 +41771,18 @@
    "model": "AirTV Player"
   }
  ],
+ "Jupiter": [
+  {
+   "brand": "Dish",
+   "name": "Celero 5G",
+   "model": "WTCELERO5G"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "Panasonic",
+   "model": "4KTV-JUP"
+  }
+ ],
  "dish_cable_bcm": [
   {
    "brand": "Dish",
@@ -45889,6 +45916,13 @@
    "brand": "Emporia",
    "name": "SE",
    "model": "SE"
+  }
+ ],
+ "TAB1": [
+  {
+   "brand": "Emporia",
+   "name": "TAB1",
+   "model": "TAB1"
   }
  ],
  "f400": [
@@ -52387,6 +52421,20 @@
    "model": "G-TiDE FANS7"
   }
  ],
+ "G-TiDE_H1_1": [
+  {
+   "brand": "G-TiDE",
+   "name": "G-TiDE_H1_1",
+   "model": "G-TiDE_H1"
+  }
+ ],
+ "G-TiDE_H1_2": [
+  {
+   "brand": "G-TiDE",
+   "name": "G-TiDE_H1_2",
+   "model": "G-TiDE_H1"
+  }
+ ],
  "G-TiDE_H1_4G": [
   {
    "brand": "G-TiDE",
@@ -52405,6 +52453,20 @@
   {
    "brand": "G-TiDE",
    "name": "G-TiDE_P1",
+   "model": "G-TiDE_P1"
+  }
+ ],
+ "G-TiDE_P1_1": [
+  {
+   "brand": "G-TiDE",
+   "name": "G-TiDE_P1_1",
+   "model": "G-TiDE_P1"
+  }
+ ],
+ "G-TiDE_P1_2": [
+  {
+   "brand": "G-TiDE",
+   "name": "G-TiDE_P1_2",
    "model": "G-TiDE_P1"
   }
  ],
@@ -62557,6 +62619,13 @@
    "model": "Seiki Android TV 2K"
   }
  ],
+ "broadway": [
+  {
+   "brand": "Haier",
+   "name": "Haier Android TV DVB2K",
+   "model": "Haier Android TV DVB2K"
+  }
+ ],
  "daan": [
   {
    "brand": "Haier",
@@ -65937,6 +66006,13 @@
    "brand": "Hisense",
    "name": "Hisense E50 Lite",
    "model": "Hisense E50 Lite"
+  }
+ ],
+ "HLTE228E_20": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense E50 Lite 64G",
+   "model": "Hisense E50 Lite 64GB"
   }
  ],
  "HS6580MT": [
@@ -84842,6 +84918,11 @@
    "brand": "Itel",
    "name": "F3116",
    "model": "itel A571W"
+  },
+  {
+   "brand": "Itel",
+   "name": "F3116",
+   "model": "itel A571WM"
   }
  ],
  "ITELL_K4700Q": [
@@ -118004,6 +118085,11 @@
    "brand": "Mobvoi",
    "name": "TicWatch Pro 3 Cellular/LTE",
    "model": "TicWatch Pro 3"
+  },
+  {
+   "brand": "Mobvoi",
+   "name": "TicWatch Pro 3 Cellular/LTE",
+   "model": "TicWatch Pro 3 Ultra"
   }
  ],
  "rubyfish": [
@@ -121260,6 +121346,16 @@
    "brand": "Motorola",
    "name": "motorola edge (2021)",
    "model": "motorola edge plus"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 5G UW (2021)",
+   "model": "motorola edge 5G UW"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 5G UW (2021)",
+   "model": "motorola edge 5G UW (2021)"
   }
  ],
  "berlin": [
@@ -135890,13 +135986,6 @@
    "model": "POE-SMB400-PS1"
   }
  ],
- "Jupiter": [
-  {
-   "brand": "Panasonic",
-   "name": "Panasonic",
-   "model": "4KTV-JUP"
-  }
- ],
  "P100": [
   {
    "brand": "Panasonic",
@@ -138542,6 +138631,13 @@
    "brand": "Point Mobile",
    "name": "PM70",
    "model": "PM70"
+  }
+ ],
+ "PM75": [
+  {
+   "brand": "Point Mobile",
+   "name": "PM75",
+   "model": "PM75"
   }
  ],
  "pm80": [
@@ -143958,6 +144054,13 @@
    "brand": "Qilive",
    "name": "QT19101K",
    "model": "QT19101K"
+  }
+ ],
+ "QT21101L_232_EEA": [
+  {
+   "brand": "Qilive",
+   "name": "QT201101L",
+   "model": "QT21101L"
   }
  ],
  "QT2108BP": [
@@ -178666,6 +178769,13 @@
    "model": "T790Z"
   }
  ],
+ "Sprout": [
+  {
+   "brand": "T-Mobile",
+   "name": "REVVL V+ 5G",
+   "model": "REVVL V+ 5G"
+  }
+ ],
  "SEI400TM": [
   {
    "brand": "T-Mobile",
@@ -193206,6 +193316,11 @@
    "brand": "Umidigi",
    "name": "Power 5S",
    "model": "MP02"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "Power 5S EEA",
+   "model": "MP02"
   }
  ],
  "Power_Armor_13": [
@@ -197986,6 +198101,18 @@
    "model": "vivo 2006"
   }
  ],
+ "PD2156": [
+  {
+   "brand": "Vivo",
+   "name": "V2009A",
+   "model": "V2009A"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2156A",
+   "model": "V2156A"
+  }
+ ],
  "PD2011": [
   {
    "brand": "Vivo",
@@ -198619,6 +198746,16 @@
    "brand": "Vivo",
    "name": "V2125",
    "model": "V2125"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2134",
+   "model": "V2134"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2139",
+   "model": "V2139"
   }
  ],
  "PD2118": [
@@ -217555,6 +217692,13 @@
    "brand": "carrozzeria",
    "name": "SDA-700TAB",
    "model": "SDA-700TAB"
+  }
+ ],
+ "Lynx_10in": [
+  {
+   "brand": "cosmos",
+   "name": "Lynx_10in",
+   "model": "Lynx_10in"
   }
  ],
  "m393gena_dazn": [

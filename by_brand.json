@@ -13770,6 +13770,11 @@
    "model": "QS01"
   },
   {
+   "device": "longshan",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
    "device": "redwood",
    "name": "Smart TV",
    "model": "AI PONT"
@@ -17990,6 +17995,11 @@
   {
    "device": "samseong",
    "name": "M7A",
+   "model": "AI PONT"
+  },
+  {
+   "device": "longshan",
+   "name": "Smart TV",
    "model": "AI PONT"
   },
   {
@@ -27674,6 +27684,11 @@
    "model": "AirTV Player"
   },
   {
+   "device": "Jupiter",
+   "name": "Celero 5G",
+   "model": "WTCELERO5G"
+  },
+  {
    "device": "dish_cable_bcm",
    "name": "EVOLVE",
    "model": "SH960C-DS"
@@ -30795,6 +30810,11 @@
    "device": "SE",
    "name": "SE",
    "model": "SE"
+  },
+  {
+   "device": "TAB1",
+   "name": "TAB1",
+   "model": "TAB1"
   },
   {
    "device": "S4",
@@ -35519,6 +35539,16 @@
    "model": "G-TiDE FANS7"
   },
   {
+   "device": "G-TiDE_H1_1",
+   "name": "G-TiDE_H1_1",
+   "model": "G-TiDE_H1"
+  },
+  {
+   "device": "G-TiDE_H1_2",
+   "name": "G-TiDE_H1_2",
+   "model": "G-TiDE_H1"
+  },
+  {
    "device": "G-TiDE_H1_4G",
    "name": "G-TiDE_H1_4G",
    "model": "G-TiDE_H1_4G"
@@ -35531,6 +35561,16 @@
   {
    "device": "G-TiDE_P1",
    "name": "G-TiDE_P1",
+   "model": "G-TiDE_P1"
+  },
+  {
+   "device": "G-TiDE_P1_1",
+   "name": "G-TiDE_P1_1",
+   "model": "G-TiDE_P1"
+  },
+  {
+   "device": "G-TiDE_P1_2",
+   "name": "G-TiDE_P1_2",
    "model": "G-TiDE_P1"
   },
   {
@@ -43662,6 +43702,11 @@
    "model": "haierATVuguisudani"
   },
   {
+   "device": "broadway",
+   "name": "Haier Android TV DVB2K",
+   "model": "Haier Android TV DVB2K"
+  },
+  {
    "device": "daan",
    "name": "Haier Android TV FF Pro",
    "model": "Haier Android TV FF Pro"
@@ -46429,6 +46474,11 @@
    "device": "HLTE228E_14",
    "name": "Hisense E50 Lite",
    "model": "Hisense E50 Lite"
+  },
+  {
+   "device": "HLTE228E_20",
+   "name": "Hisense E50 Lite 64G",
+   "model": "Hisense E50 Lite 64GB"
   },
   {
    "device": "HS8937QC",
@@ -62620,6 +62670,11 @@
    "model": "itel A571W"
   },
   {
+   "device": "itel-A571WM",
+   "name": "F3116",
+   "model": "itel A571WM"
+  },
+  {
    "device": "ikebukuro",
    "name": "G4310IE",
    "model": "AI PONT"
@@ -66486,6 +66541,11 @@
    "device": "hanyang",
    "name": "Kogan SmarterTV",
    "model": "Kogan SmarterTV"
+  },
+  {
+   "device": "longshan",
+   "name": "Smart TV",
+   "model": "AI PONT"
   }
  ],
  "Komu": [
@@ -89287,6 +89347,11 @@
    "model": "TicWatch Pro 3"
   },
   {
+   "device": "rover",
+   "name": "TicWatch Pro 3 Cellular/LTE",
+   "model": "TicWatch Pro 3 Ultra"
+  },
+  {
    "device": "rubyfish",
    "name": "TicWatch Pro 3 GPS",
    "model": "TicWatch Pro 3 GPS"
@@ -92021,6 +92086,16 @@
    "device": "pstar",
    "name": "motorola edge 20 pro",
    "model": "motorola edge 20 pro"
+  },
+  {
+   "device": "berlna",
+   "name": "motorola edge 5G UW (2021)",
+   "model": "motorola edge 5G UW"
+  },
+  {
+   "device": "berlna",
+   "name": "motorola edge 5G UW (2021)",
+   "model": "motorola edge 5G UW (2021)"
   },
   {
    "device": "burton",
@@ -106023,6 +106098,11 @@
    "model": "PM70"
   },
   {
+   "device": "PM75",
+   "name": "PM75",
+   "model": "PM75"
+  },
+  {
    "device": "pm80",
    "name": "PM80",
    "model": "PM80"
@@ -110541,6 +110621,11 @@
    "device": "QT19101K_116_EEA",
    "name": "QT19101K",
    "model": "QT19101K"
+  },
+  {
+   "device": "QT21101L_232_EEA",
+   "name": "QT201101L",
+   "model": "QT21101L"
   },
   {
    "device": "QT2108BP",
@@ -138479,6 +138564,11 @@
    "model": "T790Z"
   },
   {
+   "device": "Sprout",
+   "name": "REVVL V+ 5G",
+   "model": "REVVL V+ 5G"
+  },
+  {
    "device": "channel",
    "name": "REVVLRY",
    "model": "REVVLRY"
@@ -152294,6 +152384,11 @@
    "model": "MP02"
   },
   {
+   "device": "Power_5S",
+   "name": "Power 5S EEA",
+   "model": "MP02"
+  },
+  {
    "device": "Power_3",
    "name": "Power_3",
    "model": "Power_3"
@@ -155984,6 +156079,11 @@
    "model": "V2006"
   },
   {
+   "device": "PD2156",
+   "name": "V2009A",
+   "model": "V2009A"
+  },
+  {
    "device": "PD2011",
    "name": "V2011A",
    "model": "V2011A"
@@ -156549,6 +156649,11 @@
    "model": "V2133A"
   },
   {
+   "device": "2120",
+   "name": "V2134",
+   "model": "V2134"
+  },
+  {
    "device": "PD2134",
    "name": "V2134A",
    "model": "V2134A"
@@ -156569,6 +156674,11 @@
    "model": "V2136GA"
   },
   {
+   "device": "2120",
+   "name": "V2139",
+   "model": "V2139"
+  },
+  {
    "device": "PD2141",
    "name": "V2141A",
    "model": "V2141A"
@@ -156587,6 +156697,11 @@
    "device": "PD2148",
    "name": "V2148A",
    "model": "V2148A"
+  },
+  {
+   "device": "PD2156",
+   "name": "V2156A",
+   "model": "V2156A"
   },
   {
    "device": "PD1524",
@@ -173221,6 +173336,13 @@
    "device": "SDA_700TAB",
    "name": "SDA-700TAB",
    "model": "SDA-700TAB"
+  }
+ ],
+ "cosmos": [
+  {
+   "device": "Lynx_10in",
+   "name": "Lynx_10in",
+   "model": "Lynx_10in"
   }
  ],
  "d.light": [
