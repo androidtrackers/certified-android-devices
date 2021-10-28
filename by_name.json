@@ -52585,6 +52585,27 @@
    "model": "F-41B"
   }
  ],
+ "arrows We A101FC": [
+  {
+   "brand": "FCNT",
+   "device": "A101FC",
+   "model": "A101FC"
+  }
+ ],
+ "arrows We F-51B": [
+  {
+   "brand": "FCNT",
+   "device": "F51B",
+   "model": "F-51B"
+  }
+ ],
+ "arrows We FCG01": [
+  {
+   "brand": "FCNT",
+   "device": "FCG01",
+   "model": "FCG01"
+  }
+ ],
  "F100": [
   {
    "brand": "FEITIAN",
@@ -131317,6 +131338,13 @@
    "model": "N5117"
   }
  ],
+ "OPPO A33": [
+  {
+   "brand": "Oppo",
+   "device": "OP4EEA",
+   "model": "CPH2137"
+  }
+ ],
  "OPPO A35": [
   {
    "brand": "Oppo",
@@ -170969,6 +170997,11 @@
  "Xperia 5 III": [
   {
    "brand": "Sony",
+   "device": "SO-53B",
+   "model": "SO-53B"
+  },
+  {
+   "brand": "Sony",
    "device": "XQ-BQ52",
    "model": "XQ-BQ52"
   },
@@ -176410,6 +176443,27 @@
    "brand": "TCL",
    "device": "C06",
    "model": "Smart TV"
+  }
+ ],
+ "G03_4K_US": [
+  {
+   "brand": "TCL",
+   "device": "BeyondTV4",
+   "model": "Smart TV Pro"
+  }
+ ],
+ "G03_4K_US_NF": [
+  {
+   "brand": "TCL",
+   "device": "BeyondTV4",
+   "model": "Smart TV"
+  }
+ ],
+ "G05_4K_US": [
+  {
+   "brand": "TCL",
+   "device": "G05",
+   "model": "Smart TV Pro"
   }
  ],
  "GO5c": [
@@ -212148,6 +212202,13 @@
    "brand": "ZTE",
    "device": "P870A01",
    "model": "ZTE A2322"
+  }
+ ],
+ "ZTE A2322G": [
+  {
+   "brand": "ZTE",
+   "device": "P870A02",
+   "model": "ZTE A2322G"
   }
  ],
  "ZTE A31 Lite": [

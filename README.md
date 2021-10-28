@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-10-27
+Last sync is 2021-10-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6283,6 +6283,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FCNT|SD01|SD01|SD01|
 |FCNT|arrows BZ02|BZ02|BZ02|
 |FCNT|arrows Be4 Plus F-41B|F41B|F-41B|
+|FCNT|arrows We A101FC|A101FC|A101FC|
+|FCNT|arrows We F-51B|F51B|F-51B|
+|FCNT|arrows We FCG01|FCG01|FCG01|
 |FEITIAN|F100|F100|F100|
 |FEITIAN|F100_EEA|F100|F100|
 |FELUX|LUXE 3|LUXE_3|LUXE 3|
@@ -19492,6 +19495,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|N3|N3|N5209|
 |Oppo|N5110|N5110|N5110|
 |Oppo|N5117|N5117|N5117|
+|Oppo|OPPO A33|OP4EEA|CPH2137|
 |Oppo|OPPO A35|OP4E7B|PEFM00|
 |Oppo|OPPO A53 5G|OP4E49|PECM30|
 |Oppo|OPPO A53 5G|OP4E49|PECT30|
@@ -26119,6 +26123,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 5 II|XQ-AS52|XQ-AS52|
 |Sony|Xperia 5 II|XQ-AS62|XQ-AS62|
 |Sony|Xperia 5 II|XQ-AS72|XQ-AS72|
+|Sony|Xperia 5 III|SO-53B|SO-53B|
 |Sony|Xperia 5 III|XQ-BQ52|XQ-BQ52|
 |Sony|Xperia 5 III|XQ-BQ72|XQ-BQ72|
 |Sony|Xperia 8|902SO|902SO|
@@ -27048,6 +27053,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|C02_4K_US|BeyondTV|Smart TV|
 |TCL|C06_2K_US|C06|Smart TV|
 |TCL|C9|A3A_XL_4G|5199I|
+|TCL|G03_4K_US|BeyondTV4|Smart TV Pro|
+|TCL|G03_4K_US_NF|BeyondTV4|Smart TV|
+|TCL|G05_4K_US|G05|Smart TV Pro|
 |TCL|GO5c|U3A_PLUS_4G|5033E|
 |TCL|HotelTV|HotelTV|WelcomeTV|
 |TCL|L55E6700UDS|movo_la|movo_la|
@@ -33296,6 +33304,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE A2121E|P618A01|ZTE A2121E|
 |ZTE|ZTE A2121L|P618A03|ZTE A2121L|
 |ZTE|ZTE A2322|P870A01|ZTE A2322|
+|ZTE|ZTE A2322G|P870A02|ZTE A2322G|
 |ZTE|ZTE A31 Lite|Z3052O|ZTE A31 Lite|
 |ZTE|ZTE A51|P963F60|ZTE A51|
 |ZTE|ZTE A520S|P809S10|ZTE A520S|

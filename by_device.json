@@ -48330,6 +48330,27 @@
    "model": "F-41B"
   }
  ],
+ "A101FC": [
+  {
+   "brand": "FCNT",
+   "name": "arrows We A101FC",
+   "model": "A101FC"
+  }
+ ],
+ "F51B": [
+  {
+   "brand": "FCNT",
+   "name": "arrows We F-51B",
+   "model": "F-51B"
+  }
+ ],
+ "FCG01": [
+  {
+   "brand": "FCNT",
+   "name": "arrows We FCG01",
+   "model": "FCG01"
+  }
+ ],
  "F100": [
   {
    "brand": "FEITIAN",
@@ -131191,6 +131212,13 @@
    "model": "N5117"
   }
  ],
+ "OP4EEA": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO A33",
+   "model": "CPH2137"
+  }
+ ],
  "OP4E7B": [
   {
    "brand": "Oppo",
@@ -173119,6 +173147,13 @@
    "model": "XQ-AS72"
   }
  ],
+ "SO-53B": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 5 III",
+   "model": "SO-53B"
+  }
+ ],
  "XQ-BQ52": [
   {
    "brand": "Sony",
@@ -178947,6 +178982,16 @@
   },
   {
    "brand": "TCL",
+   "name": "G03_4K_US",
+   "model": "Smart TV Pro"
+  },
+  {
+   "brand": "TCL",
+   "name": "G03_4K_US_NF",
+   "model": "Smart TV"
+  },
+  {
+   "brand": "TCL",
    "name": "Smart TV",
    "model": "Smart TV"
   }
@@ -178993,6 +179038,13 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 3V",
    "model": "5099U"
+  }
+ ],
+ "G05": [
+  {
+   "brand": "TCL",
+   "name": "G05_4K_US",
+   "model": "Smart TV Pro"
   }
  ],
  "U3A_PLUS_4G": [
@@ -215114,6 +215166,13 @@
    "brand": "ZTE",
    "name": "ZTE A2322",
    "model": "ZTE A2322"
+  }
+ ],
+ "P870A02": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE A2322G",
+   "model": "ZTE A2322G"
   }
  ],
  "Z3052O": [
