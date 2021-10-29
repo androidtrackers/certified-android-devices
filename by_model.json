@@ -2068,6 +2068,13 @@
    "device": "CreaPad_1009A"
   }
  ],
+ "CreaPad_1009A_EEA": [
+  {
+   "brand": "AWOW",
+   "name": "CreaPad_1009A_EEA",
+   "device": "CreaPad_1009A_EEA"
+  }
+ ],
  "CreaPad_1009_EEA": [
   {
    "brand": "AWOW",
@@ -30353,6 +30360,13 @@
    "device": "Sunshine_T1"
   }
  ],
+ "Sunshine_T1_Elite": [
+  {
+   "brand": "Cloud (TruConnect)",
+   "name": "Sunshine_T1_Elite",
+   "device": "Sunshine_T1_Elite"
+  }
+ ],
  "Typhoon_C6": [
   {
    "brand": "Cloud (TruConnect)",
@@ -33712,6 +33726,13 @@
    "brand": "Coolpad",
    "name": "Y92-9",
    "device": "Y92-9"
+  }
+ ],
+ "CP03": [
+  {
+   "brand": "Coolpad",
+   "name": "coolpad COOL 20",
+   "device": "k69v1_64"
   }
  ],
  "2021": [
@@ -41616,6 +41637,13 @@
    "device": "shinagawa"
   }
  ],
+ "BH505GS": [
+  {
+   "brand": "ECONNECT",
+   "name": "BH505GS",
+   "device": "BH505GS"
+  }
+ ],
  "RealPad MA7BX2": [
   {
    "brand": "ECS",
@@ -41716,6 +41744,13 @@
    "brand": "ECS",
    "name": "TU10MK",
    "device": "TU10MK_3"
+  }
+ ],
+ "TU11MK2": [
+  {
+   "brand": "ECS",
+   "name": "TU11MK2",
+   "device": "TU11MK2"
   }
  ],
  "EDENWOOD 4K Android TV": [
@@ -67638,6 +67673,11 @@
  "CT45P": [
   {
    "brand": "Honeywell",
+   "name": "CT45 XP",
+   "device": "CT45P"
+  },
+  {
+   "brand": "Honeywell",
    "name": "CT45XP",
    "device": "CT45P"
   }
@@ -84725,6 +84765,13 @@
    "device": "iGET_S100"
   }
  ],
+ "S100E": [
+  {
+   "brand": "Ipro",
+   "name": "S100E",
+   "device": "S100E"
+  }
+ ],
  "S401": [
   {
    "brand": "Ipro",
@@ -84770,6 +84817,13 @@
    "brand": "Ipro",
    "name": "S501Pro",
    "device": "S501Pro"
+  }
+ ],
+ "Soda6S": [
+  {
+   "brand": "Ipro",
+   "name": "Soda6S",
+   "device": "Soda6S"
   }
  ],
  "WePad": [
@@ -86836,6 +86890,13 @@
    "device": "itel-L6503"
   }
  ],
+ "itel S661W": [
+  {
+   "brand": "Itel",
+   "name": "itel S17",
+   "device": "itel-S661W"
+  }
+ ],
  "itel S32LTE": [
   {
    "brand": "Itel",
@@ -86860,6 +86921,13 @@
    "brand": "Itel",
    "name": "itel W4001SZ",
    "device": "itel-W4001SZ"
+  }
+ ],
+ "itel P651L": [
+  {
+   "brand": "Itel",
+   "name": "itel Vision2s",
+   "device": "itel-P651L"
   }
  ],
  "itel W4001": [
@@ -150683,6 +150751,27 @@
    "device": "camellia"
   }
  ],
+ "21091116AC": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 11 5G",
+   "device": "evergo"
+  }
+ ],
+ "21091116C": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 11 Pro",
+   "device": "pissarro"
+  }
+ ],
+ "21091116UC": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 11 Pro+",
+   "device": "pissarropro"
+  }
+ ],
  "M1908C3JGG": [
   {
    "brand": "Redmi",
@@ -153740,6 +153829,13 @@
    "brand": "SYLVANIA",
    "name": "SLTDVD1024",
    "device": "mdt1005_mk_32"
+  }
+ ],
+ "SLTDVD1024_B": [
+  {
+   "brand": "SYLVANIA",
+   "name": "SLTDVD1024_B",
+   "device": "SLTDVD1024_B"
   }
  ],
  "SLTDVD9220-C": [
@@ -174027,6 +174123,27 @@
    "brand": "Sharp",
    "name": "AQUOS sense5G SH-S50",
    "device": "SarahH"
+  }
+ ],
+ "SH-RM19": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense6",
+   "device": "Chara"
+  }
+ ],
+ "SH-54B": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense6",
+   "device": "SH-54B"
+  }
+ ],
+ "SHG05": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense6",
+   "device": "ZMJ"
   }
  ],
  "801SH": [
@@ -201576,6 +201693,11 @@
    "brand": "Umidigi",
    "name": "A11S",
    "device": "A11S"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "A11S EEA",
+   "device": "A11S"
   }
  ],
  "A3S": [
@@ -205765,13 +205887,6 @@
    "brand": "Vivo",
    "name": "I2012",
    "device": "2012"
-  }
- ],
- "I2017": [
-  {
-   "brand": "Vivo",
-   "name": "I2017",
-   "device": "2017"
   }
  ],
  "I2018": [
@@ -214954,11 +215069,25 @@
    "device": "vili"
   }
  ],
+ "2107113SI": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 11T Pro",
+   "device": "vili"
+  }
+ ],
  "2107113SR": [
   {
    "brand": "Xiaomi",
    "name": "Xiaomi 11T Pro",
    "device": "vili"
+  }
+ ],
+ "2109119BC": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Civi",
+   "device": "mona"
   }
  ],
  "21051182C": [
@@ -215830,6 +215959,23 @@
    "brand": "ZAMOLXE",
    "name": "ZXT-10HL323S",
    "device": "ZXT-10HL323S"
+  }
+ ],
+ "ZEEKER P10": [
+  {
+   "brand": "ZEEKER",
+   "name": "ZEEKER_P10",
+   "device": "ZEEKER_P10"
+  },
+  {
+   "brand": "ZEEKER",
+   "name": "ZEEKER_P10_EEA",
+   "device": "ZEEKER_P10"
+  },
+  {
+   "brand": "ZEEKER",
+   "name": "ZEEKER_P10_RU",
+   "device": "ZEEKER_P10"
   }
  ],
  "C-601": [
@@ -226104,6 +226250,13 @@
    "device": "DV8330-T2"
   }
  ],
+ "ZER A10": [
+  {
+   "brand": "ZUOPU",
+   "name": "JH105",
+   "device": "JH105"
+  }
+ ],
  "JH101": [
   {
    "brand": "ZUOPU",
@@ -228271,6 +228424,13 @@
    "device": "JT10-X1"
   }
  ],
+ "JT10LTE-X1": [
+  {
+   "brand": "geaneePro",
+   "name": "JT10LTE-X1",
+   "device": "JT10LTE-X1"
+  }
+ ],
  "JT07-X": [
   {
    "brand": "geaneePro",
@@ -230339,6 +230499,13 @@
   {
    "brand": "simpliTV",
    "name": "Strong-SRT4150",
+   "device": "HY43X"
+  }
+ ],
+ "Strong-SRT4250": [
+  {
+   "brand": "simpliTV",
+   "name": "Strong-SRT4250",
    "device": "HY43X"
   }
  ],
