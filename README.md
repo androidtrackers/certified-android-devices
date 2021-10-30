@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-10-29
+Last sync is 2021-10-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -18078,6 +18078,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M7 3G Plus|ML_WI12_M7_3G_PLUS|M7_3G_PLUS|
 |Multilaser|M7 WIF|ML_JI1D_M7_WIFI|M7_WIFI|
 |Multilaser|M7 WIFI|ML_SO0E_M7_WIFI|M7_WIFI|
+|Multilaser|M7 WIFI|ML_SO1E_M7_Wifi|M7_WIFI|
 |Multilaser|M7-3G PLUS|ML-JI21-M7-3G-PLUS|M7-3G-PLUS|
 |Multilaser|M7-3G PLUS|ML-WI-M7_3G_PLUS|ML-WI-M7_3G_PLUS|
 |Multilaser|M7-4G|ML-JI-M7-4G|ML-JI-M7-4G|
@@ -18173,7 +18174,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|Multilaser G VIVO|Multilaser_G_VIVO|Multilaser_G_VIVO|
 |Multilaser|Multilaser H|Multilaser_H|Multilaser H|
 |Multilaser|Multilaser_F|Multilaser_F|Multilaser_F|
+|Multilaser|OBASMART|Obasmart_Conectamax|OBA_Conecta_Max|
 |Multilaser|OBASMART 3|OBASMART_3|OBASMART_3|
+|Multilaser|Oba Conecta 4G|Oba_Conecta_4G|Oba_Conecta_4G|
 |Multilaser|Sikur|Multilaser_GMax_2_Sikur|Multilaser_GMax_2_Sikur|
 |Multilaser|ULTRA 10|ML_SO0C_ULTRA_10|ULTRA_10|
 |My|Android TV|tokyo|Android TV|
@@ -29733,6 +29736,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|Power 5 EEA|Power_5|Power 5|
 |Umidigi|Power 5S|Power_5S|MP02|
 |Umidigi|Power 5S EEA|Power_5S|MP02|
+|Umidigi|Power 5S RU|Power_5S|MP02|
+|Umidigi|Power 5S TR|Power_5S|MP02|
 |Umidigi|Power_3|Power_3|Power_3|
 |Umidigi|Power_3_EEA|Power_3|Power_3|
 |Umidigi|S2PRO|S2_PRO|S2_PRO|

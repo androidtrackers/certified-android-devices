@@ -125000,6 +125000,11 @@
   },
   {
    "brand": "Multilaser",
+   "name": "M7 WIFI",
+   "device": "ML_SO1E_M7_Wifi"
+  },
+  {
+   "brand": "Multilaser",
    "name": "M7_WIFI",
    "device": "ML_JI0D_M7_WIFI"
   }
@@ -125612,11 +125617,25 @@
    "device": "Multilaser_H"
   }
  ],
+ "OBA_Conecta_Max": [
+  {
+   "brand": "Multilaser",
+   "name": "OBASMART",
+   "device": "Obasmart_Conectamax"
+  }
+ ],
  "OBASMART_3": [
   {
    "brand": "Multilaser",
    "name": "OBASMART 3",
    "device": "OBASMART_3"
+  }
+ ],
+ "Oba_Conecta_4G": [
+  {
+   "brand": "Multilaser",
+   "name": "Oba Conecta 4G",
+   "device": "Oba_Conecta_4G"
   }
  ],
  "Multilaser_GMax_2_Sikur": [
@@ -201888,6 +201907,16 @@
   {
    "brand": "Umidigi",
    "name": "Power 5S EEA",
+   "device": "Power_5S"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "Power 5S RU",
+   "device": "Power_5S"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "Power 5S TR",
    "device": "Power_5S"
   }
  ],
