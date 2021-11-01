@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-10-31
+Last sync is 2021-11-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -21550,6 +21550,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Qilive|QT2108BP|QT2108BP|QT2108BP|
 |Qilive|QT2110BP|QT2110BP|QT2110BP|
 |Qilive|W55|W55|W55|
+|Qisur|R106|R106|R106|
+|Qisur|X72|X72|X72|
 |Qoobex|Qphone2019_A|Qphone2019_A|Qphone2019_A|
 |Qpad|XL PLUS|t591_hwd_q19_hiya_we|XL PLUS|
 |Qsmart|GLi|GLi|GLi|
@@ -28578,6 +28580,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TM Cell|X50A|X50A|X50A|
 |TMAX|TM9S775|MID908A-K|TM9S775|
 |TO21COMMS|TOP10|TOP10|TOP10|
+|TOAD|Q863|Q863|Q863|
 |TOCHMOBILE|ANGEL_SMART|ANGEL_SMART|ANGEL_SMART|
 |TOKECY|T847|T847|T847|
 |TOKECY|T847_EEA|T847_EEA|T847_EEA|

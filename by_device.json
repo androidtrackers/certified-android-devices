@@ -144194,6 +144194,20 @@
    "model": "QT2110BP"
   }
  ],
+ "R106": [
+  {
+   "brand": "Qisur",
+   "name": "R106",
+   "model": "R106"
+  }
+ ],
+ "X72": [
+  {
+   "brand": "Qisur",
+   "name": "X72",
+   "model": "X72"
+  }
+ ],
  "Qphone2019_A": [
   {
    "brand": "Qoobex",
@@ -186979,6 +186993,13 @@
    "brand": "TO21COMMS",
    "name": "TOP10",
    "model": "TOP10"
+  }
+ ],
+ "Q863": [
+  {
+   "brand": "TOAD",
+   "name": "Q863",
+   "model": "Q863"
   }
  ],
  "ANGEL_SMART": [

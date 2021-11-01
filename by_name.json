@@ -39809,6 +39809,11 @@
    "brand": "Coolpad",
    "device": "cpy90_g00",
    "model": "Coolpad R106"
+  },
+  {
+   "brand": "Qisur",
+   "device": "R106",
+   "model": "R106"
   }
  ],
  "R108": [
@@ -144508,6 +144513,13 @@
    "model": "QT2110BP"
   }
  ],
+ "X72": [
+  {
+   "brand": "Qisur",
+   "device": "X72",
+   "model": "X72"
+  }
+ ],
  "Qphone2019_A": [
   {
    "brand": "Qoobex",
@@ -184736,6 +184748,13 @@
    "brand": "TO21COMMS",
    "device": "TOP10",
    "model": "TOP10"
+  }
+ ],
+ "Q863": [
+  {
+   "brand": "TOAD",
+   "device": "Q863",
+   "model": "Q863"
   }
  ],
  "ANGEL_SMART": [
