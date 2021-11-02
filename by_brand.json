@@ -5177,6 +5177,13 @@
    "model": "OB_628"
   }
  ],
+ "Altus": [
+  {
+   "device": "shinagawa",
+   "name": "Altus Android TV",
+   "model": "Altus Android TV"
+  }
+ ],
  "Americamovil": [
   {
    "device": "Azumi_KIREI_A5Q_PLUS_AC06",
@@ -7740,6 +7747,11 @@
  ],
  "Arçelik": [
   {
+   "device": "shinagawa",
+   "name": "Arcelik Android TV",
+   "model": "Arcelik Android TV"
+  },
+  {
    "device": "sinchon",
    "name": "Arçelik Android TV",
    "model": "Arcelik Android TV"
@@ -7979,6 +7991,11 @@
    "device": "A750",
    "name": "A750",
    "model": "A750"
+  },
+  {
+   "device": "DCG-P10",
+   "name": "DCG-P10",
+   "model": "DCG-P10"
   },
   {
    "device": "G10",
@@ -10544,6 +10561,11 @@
    "device": "AT1012U",
    "name": "AT1012U",
    "model": "AT1012U"
+  },
+  {
+   "device": "AT1031E",
+   "name": "AT1031E",
+   "model": "AT1031E"
   },
   {
    "device": "AT1031U",
@@ -13575,6 +13597,11 @@
   }
  ],
  "Beko": [
+  {
+   "device": "shinagawa",
+   "name": "Beko Android TV",
+   "model": "Beko Android TV"
+  },
   {
    "device": "sinchon",
    "name": "Beko Android TV",
@@ -25410,6 +25437,11 @@
    "model": "DNA Android TV"
   },
   {
+   "device": "m393gena",
+   "name": "DNA Hubi 2.0",
+   "model": "DNA Hubi 2.0"
+  },
+  {
    "device": "dctiw384",
    "name": "DNA TV-hubi",
    "model": "DNA Android TV"
@@ -25541,6 +25573,13 @@
    "device": "People_Plus",
    "name": "People Plus",
    "model": "People_Plus"
+  }
+ ],
+ "Daihatsu": [
+  {
+   "device": "balticaAA",
+   "name": "A-DA",
+   "model": "MY22ADA"
   }
  ],
  "Danew": [
@@ -38904,6 +38943,11 @@
    "model": "GTB 850"
   },
   {
+   "device": "shinagawa",
+   "name": "Grundig Android TV",
+   "model": "Grundig Android TV"
+  },
+  {
    "device": "sinchon",
    "name": "Grundig Android TV",
    "model": "Grundig Android TV"
@@ -49130,18 +49174,18 @@
    "model": "HMS-PD-X1C-3"
   },
   {
+   "device": "TA60A-L0-C",
+   "name": "RT10A",
+   "model": "TA60A"
+  },
+  {
+   "device": "TA60A-L1-C",
+   "name": "RT10A",
+   "model": "TA60A"
+  },
+  {
    "device": "TA60A-L1-C",
    "name": "T60A",
-   "model": "TA60A"
-  },
-  {
-   "device": "TA60A-L0-C",
-   "name": "TA60A",
-   "model": "TA60A"
-  },
-  {
-   "device": "TA60A-L1-C",
-   "name": "TA60A",
    "model": "TA60A"
   },
   {
@@ -63292,6 +63336,11 @@
    "model": "itel A611W"
   },
   {
+   "device": "itel-A611WP",
+   "name": "itel A57 2GB",
+   "model": "itel A611WP"
+  },
+  {
    "device": "itel-A14",
    "name": "itel AC12",
    "model": "itel A14"
@@ -76395,6 +76444,11 @@
    "model": "LAVA LMX04"
   },
   {
+   "device": "LZG403",
+   "name": "Z3",
+   "model": "LAVA LZG403"
+  },
+  {
    "device": "AH9910",
    "name": "Z30",
    "model": "AH9910"
@@ -79565,6 +79619,11 @@
    "device": "X6C6NBF",
    "name": "Lenovo Tab K10",
    "model": "Lenovo TB-X6C6NBF"
+  },
+  {
+   "device": "X6C6NBL",
+   "name": "Lenovo Tab K10",
+   "model": "Lenovo TB-X6C6NBL"
   },
   {
    "device": "X6C6NBX",
@@ -92752,6 +92811,11 @@
    "model": "M10_4G_PRO"
   },
   {
+   "device": "ML_SO1G_M10_4G_PRO",
+   "name": "M10 4G PRO",
+   "model": "M10_4G_PRO"
+  },
+  {
    "device": "ML-JI06-M10-3G",
    "name": "M10-3G",
    "model": "M10-3G"
@@ -97933,6 +97997,11 @@
    "model": "OK 4K Android TV"
   },
   {
+   "device": "shinagawa",
+   "name": "OK 2K TV",
+   "model": "OK 2K TV"
+  },
+  {
    "device": "samseong",
    "name": "Smart TV",
    "model": "AI PONT"
@@ -100396,9 +100465,19 @@
    "model": "OPPO Watch"
   },
   {
+   "device": "OP4E8F",
+   "name": "PEGM00",
+   "model": "PEGM00"
+  },
+  {
    "device": "OP4E99",
    "name": "PEHM00",
    "model": "PEHT00"
+  },
+  {
+   "device": "OP4ECB",
+   "name": "PEPM00",
+   "model": "PEPM00"
   },
   {
    "device": "OP4ED5",
@@ -107063,6 +107142,11 @@
    "device": "T800",
    "name": "T800",
    "model": "TabQ8-T800"
+  },
+  {
+   "device": "T810",
+   "name": "T810",
+   "model": "T810"
   },
   {
    "device": "S520",
@@ -137703,6 +137787,13 @@
    "model": "WIN4"
   }
  ],
+ "Subaru": [
+  {
+   "device": "balticaBA",
+   "name": "A-DA",
+   "model": "MY22ADA"
+  }
+ ],
  "Sugar": [
   {
    "device": "v12bns",
@@ -148797,6 +148888,11 @@
    "device": "TECNO-BD1",
    "name": "TECNO POP 5 Go",
    "model": "TECNO BD1"
+  },
+  {
+   "device": "TECNO-BD4",
+   "name": "TECNO POP 5 LTE",
+   "model": "TECNO BD4"
   },
   {
    "device": "TECNO-L6502S",
@@ -173256,6 +173352,11 @@
    "device": "M700",
    "name": "M700",
    "model": "M700"
+  },
+  {
+   "device": "AH9110",
+   "name": "benco Y11",
+   "model": "AH9110"
   },
   {
    "device": "AF9030",

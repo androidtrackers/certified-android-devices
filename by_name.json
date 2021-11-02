@@ -13929,6 +13929,13 @@
    "model": "OB_628"
   }
  ],
+ "Altus Android TV": [
+  {
+   "brand": "Altus",
+   "device": "shinagawa",
+   "model": "Altus Android TV"
+  }
+ ],
  "KIREI A5Q PLUS": [
   {
    "brand": "Americamovil",
@@ -17456,6 +17463,13 @@
    "model": "Artizlee_S9"
   }
  ],
+ "Arcelik Android TV": [
+  {
+   "brand": "Arçelik",
+   "device": "shinagawa",
+   "model": "Arcelik Android TV"
+  }
+ ],
  "Arçelik Android TV": [
   {
    "brand": "Arçelik",
@@ -17894,6 +17908,13 @@
    "brand": "Astro_Tab",
    "device": "A750",
    "model": "A750"
+  }
+ ],
+ "DCG-P10": [
+  {
+   "brand": "Astro_Tab",
+   "device": "DCG-P10",
+   "model": "DCG-P10"
   }
  ],
  "G10": [
@@ -21147,6 +21168,13 @@
    "brand": "Azeyou",
    "device": "AT1012U",
    "model": "AT1012U"
+  }
+ ],
+ "AT1031E": [
+  {
+   "brand": "Azeyou",
+   "device": "AT1031E",
+   "model": "AT1031E"
   }
  ],
  "AT1031U": [
@@ -25486,6 +25514,11 @@
   }
  ],
  "Beko Android TV": [
+  {
+   "brand": "Beko",
+   "device": "shinagawa",
+   "model": "Beko Android TV"
+  },
   {
    "brand": "Beko",
    "device": "sinchon",
@@ -42789,6 +42822,13 @@
    "model": "DNA Android TV"
   }
  ],
+ "DNA Hubi 2.0": [
+  {
+   "brand": "DNA",
+   "device": "m393gena",
+   "model": "DNA Hubi 2.0"
+  }
+ ],
  "DNA TV-hubi": [
   {
    "brand": "DNA",
@@ -42921,6 +42961,58 @@
    "brand": "Dahl Sweden",
    "device": "People_Plus",
    "model": "People_Plus"
+  }
+ ],
+ "A-DA": [
+  {
+   "brand": "Daihatsu",
+   "device": "balticaAA",
+   "model": "MY22ADA"
+  },
+  {
+   "brand": "Honda",
+   "device": "e1853",
+   "model": "14A-DA"
+  },
+  {
+   "brand": "Honda",
+   "device": "e1853",
+   "model": "MY15ADA"
+  },
+  {
+   "brand": "Honda",
+   "device": "sakura",
+   "model": "MY18ADA"
+  },
+  {
+   "brand": "Honda",
+   "device": "vcm30t30",
+   "model": "MY17ADA"
+  },
+  {
+   "brand": "Honda",
+   "device": "vcm30t30",
+   "model": "MY18ADA"
+  },
+  {
+   "brand": "Honda",
+   "device": "yebisuAA",
+   "model": "MY20ADA"
+  },
+  {
+   "brand": "Honda",
+   "device": "yebisuBA",
+   "model": "MY20ADA"
+  },
+  {
+   "brand": "Honda",
+   "device": "yebisuDA",
+   "model": "MY21ADA"
+  },
+  {
+   "brand": "Subaru",
+   "device": "balticaBA",
+   "model": "MY22ADA"
   }
  ],
  "DSlide 710": [
@@ -61069,6 +61161,11 @@
  "Grundig Android TV": [
   {
    "brand": "Grundig",
+   "device": "shinagawa",
+   "model": "Grundig Android TV"
+  },
+  {
+   "brand": "Grundig",
    "device": "sinchon",
    "model": "Grundig Android TV"
   }
@@ -72848,48 +72945,6 @@
    "model": "XD"
   }
  ],
- "A-DA": [
-  {
-   "brand": "Honda",
-   "device": "e1853",
-   "model": "14A-DA"
-  },
-  {
-   "brand": "Honda",
-   "device": "e1853",
-   "model": "MY15ADA"
-  },
-  {
-   "brand": "Honda",
-   "device": "sakura",
-   "model": "MY18ADA"
-  },
-  {
-   "brand": "Honda",
-   "device": "vcm30t30",
-   "model": "MY17ADA"
-  },
-  {
-   "brand": "Honda",
-   "device": "vcm30t30",
-   "model": "MY18ADA"
-  },
-  {
-   "brand": "Honda",
-   "device": "yebisuAA",
-   "model": "MY20ADA"
-  },
-  {
-   "brand": "Honda",
-   "device": "yebisuBA",
-   "model": "MY20ADA"
-  },
-  {
-   "brand": "Honda",
-   "device": "yebisuDA",
-   "model": "MY21ADA"
-  }
- ],
  "Accord": [
   {
    "brand": "Honda",
@@ -73498,19 +73553,19 @@
    "model": "HMS-PD-X1C-3"
   }
  ],
- "T60A": [
+ "RT10A": [
+  {
+   "brand": "Honeywell",
+   "device": "TA60A-L0-C",
+   "model": "TA60A"
+  },
   {
    "brand": "Honeywell",
    "device": "TA60A-L1-C",
    "model": "TA60A"
   }
  ],
- "TA60A": [
-  {
-   "brand": "Honeywell",
-   "device": "TA60A-L0-C",
-   "model": "TA60A"
-  },
+ "T60A": [
   {
    "brand": "Honeywell",
    "device": "TA60A-L1-C",
@@ -88777,6 +88832,13 @@
    "model": "itel A611W"
   }
  ],
+ "itel A57 2GB": [
+  {
+   "brand": "Itel",
+   "device": "itel-A611WP",
+   "model": "itel A611WP"
+  }
+ ],
  "itel AC12": [
   {
    "brand": "Itel",
@@ -103870,6 +103932,11 @@
    "model": "LAVA LMX04"
   },
   {
+   "brand": "Lava",
+   "device": "LZG403",
+   "model": "LAVA LZG403"
+  },
+  {
    "brand": "Sharp",
    "device": "VN3N",
    "model": "FS8009"
@@ -107229,6 +107296,11 @@
    "brand": "Lenovo",
    "device": "X6C6NBF",
    "model": "Lenovo TB-X6C6NBF"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "X6C6NBL",
+   "model": "Lenovo TB-X6C6NBL"
   },
   {
    "brand": "Lenovo",
@@ -122683,6 +122755,11 @@
    "brand": "Multilaser",
    "device": "ML_JI0F_M10_4G_PRO",
    "model": "M10_4G_PRO"
+  },
+  {
+   "brand": "Multilaser",
+   "device": "ML_SO1G_M10_4G_PRO",
+   "model": "M10_4G_PRO"
   }
  ],
  "M10-3G": [
@@ -128965,6 +129042,13 @@
    "model": "OK 4K Android TV"
   }
  ],
+ "OK 2K TV": [
+  {
+   "brand": "OK (Mediamark)",
+   "device": "shinagawa",
+   "model": "OK 2K TV"
+  }
+ ],
  "Okapi10": [
   {
    "brand": "OKAPI",
@@ -131576,11 +131660,25 @@
    "model": "OPPO Watch"
   }
  ],
+ "PEGM00": [
+  {
+   "brand": "Oppo",
+   "device": "OP4E8F",
+   "model": "PEGM00"
+  }
+ ],
  "PEHM00": [
   {
    "brand": "Oppo",
    "device": "OP4E99",
    "model": "PEHT00"
+  }
+ ],
+ "PEPM00": [
+  {
+   "brand": "Oppo",
+   "device": "OP4ECB",
+   "model": "PEPM00"
   }
  ],
  "PEQM00": [
@@ -139891,6 +139989,13 @@
    "brand": "Positivo",
    "device": "T800",
    "model": "TabQ8-T800"
+  }
+ ],
+ "T810": [
+  {
+   "brand": "Positivo",
+   "device": "T810",
+   "model": "T810"
   }
  ],
  "Twist": [
@@ -187429,6 +187534,13 @@
    "model": "TECNO BD1"
   }
  ],
+ "TECNO POP 5 LTE": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-BD4",
+   "model": "TECNO BD4"
+  }
+ ],
  "TECNO POP X5": [
   {
    "brand": "Tecno",
@@ -215235,6 +215347,13 @@
    "brand": "d.light",
    "device": "M1000",
    "model": "M1000"
+  }
+ ],
+ "benco Y11": [
+  {
+   "brand": "benco",
+   "device": "AH9110",
+   "model": "AH9110"
   }
  ],
  "benco Y41": [

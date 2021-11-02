@@ -7158,9 +7158,24 @@
    "model": "Allview 2K TV"
   },
   {
+   "brand": "Altus",
+   "name": "Altus Android TV",
+   "model": "Altus Android TV"
+  },
+  {
    "brand": "Artel",
    "name": "Artel 2K TV",
    "model": "Artel 2K TV"
+  },
+  {
+   "brand": "Arçelik",
+   "name": "Arcelik Android TV",
+   "model": "Arcelik Android TV"
+  },
+  {
+   "brand": "Beko",
+   "name": "Beko Android TV",
+   "model": "Beko Android TV"
   },
   {
    "brand": "ECHOSONIC",
@@ -7178,9 +7193,19 @@
    "model": "FreshTV"
   },
   {
+   "brand": "Grundig",
+   "name": "Grundig Android TV",
+   "model": "Grundig Android TV"
+  },
+  {
    "brand": "Iris",
    "name": "Iris 2K TV",
    "model": "Iris 2K TV"
+  },
+  {
+   "brand": "OK (Mediamark)",
+   "name": "OK 2K TV",
+   "model": "OK 2K TV"
   },
   {
    "brand": "Prime",
@@ -14372,6 +14397,13 @@
    "model": "A750"
   }
  ],
+ "DCG-P10": [
+  {
+   "brand": "Astro_Tab",
+   "name": "DCG-P10",
+   "model": "DCG-P10"
+  }
+ ],
  "G10": [
   {
    "brand": "Astro_Tab",
@@ -17888,6 +17920,13 @@
    "brand": "Azeyou",
    "name": "AT1012U",
    "model": "AT1012U"
+  }
+ ],
+ "AT1031E": [
+  {
+   "brand": "Azeyou",
+   "name": "AT1031E",
+   "model": "AT1031E"
   }
  ],
  "AT1031U": [
@@ -38712,6 +38751,13 @@
    "model": "DNA Android TV"
   }
  ],
+ "m393gena": [
+  {
+   "brand": "DNA",
+   "name": "DNA Hubi 2.0",
+   "model": "DNA Hubi 2.0"
+  }
+ ],
  "Mate2": [
   {
    "brand": "DO Mobile",
@@ -38849,6 +38895,13 @@
    "brand": "Dahl Sweden",
    "name": "People Plus",
    "model": "People_Plus"
+  }
+ ],
+ "balticaAA": [
+  {
+   "brand": "Daihatsu",
+   "name": "A-DA",
+   "model": "MY22ADA"
   }
  ],
  "Dslide710": [
@@ -68726,22 +68779,22 @@
    "model": "HMS-PD-X1C-3"
   }
  ],
+ "TA60A-L0-C": [
+  {
+   "brand": "Honeywell",
+   "name": "RT10A",
+   "model": "TA60A"
+  }
+ ],
  "TA60A-L1-C": [
   {
    "brand": "Honeywell",
-   "name": "T60A",
+   "name": "RT10A",
    "model": "TA60A"
   },
   {
    "brand": "Honeywell",
-   "name": "TA60A",
-   "model": "TA60A"
-  }
- ],
- "TA60A-L0-C": [
-  {
-   "brand": "Honeywell",
-   "name": "TA60A",
+   "name": "T60A",
    "model": "TA60A"
   }
  ],
@@ -85716,6 +85769,13 @@
    "model": "itel A611W"
   }
  ],
+ "itel-A611WP": [
+  {
+   "brand": "Itel",
+   "name": "itel A57 2GB",
+   "model": "itel A611WP"
+  }
+ ],
  "itel-W4001P": [
   {
    "brand": "Itel",
@@ -101524,6 +101584,13 @@
    "model": "LAVA LMX04"
   }
  ],
+ "LZG403": [
+  {
+   "brand": "Lava",
+   "name": "Z3",
+   "model": "LAVA LZG403"
+  }
+ ],
  "AH9910": [
   {
    "brand": "Lava",
@@ -105696,6 +105763,13 @@
    "brand": "Lenovo",
    "name": "联想平板电脑 启天K10",
    "model": "Lenovo TB-X6C6NBF"
+  }
+ ],
+ "X6C6NBL": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab K10",
+   "model": "Lenovo TB-X6C6NBL"
   }
  ],
  "X6C6NBX": [
@@ -122141,6 +122215,13 @@
    "model": "M10_4G_PRO"
   }
  ],
+ "ML_SO1G_M10_4G_PRO": [
+  {
+   "brand": "Multilaser",
+   "name": "M10 4G PRO",
+   "model": "M10_4G_PRO"
+  }
+ ],
  "ML-JI06-M10-3G": [
   {
    "brand": "Multilaser",
@@ -131398,6 +131479,20 @@
    "model": "OPPO Watch"
   }
  ],
+ "OP4E8F": [
+  {
+   "brand": "Oppo",
+   "name": "PEGM00",
+   "model": "PEGM00"
+  }
+ ],
+ "OP4ECB": [
+  {
+   "brand": "Oppo",
+   "name": "PEPM00",
+   "model": "PEPM00"
+  }
+ ],
  "OP4ED5": [
   {
    "brand": "Oppo",
@@ -139790,6 +139885,13 @@
    "brand": "Positivo",
    "name": "T800",
    "model": "TabQ8-T800"
+  }
+ ],
+ "T810": [
+  {
+   "brand": "Positivo",
+   "name": "T810",
+   "model": "T810"
   }
  ],
  "S520": [
@@ -177812,6 +177914,13 @@
    "model": "WIN4"
   }
  ],
+ "balticaBA": [
+  {
+   "brand": "Subaru",
+   "name": "A-DA",
+   "model": "MY22ADA"
+  }
+ ],
  "v12bns": [
   {
    "brand": "Sugar",
@@ -189833,6 +189942,13 @@
    "brand": "Tecno",
    "name": "TECNO POP 5 Go",
    "model": "TECNO BD1"
+  }
+ ],
+ "TECNO-BD4": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO POP 5 LTE",
+   "model": "TECNO BD4"
   }
  ],
  "TECNO-L6502S": [
@@ -217631,6 +217747,13 @@
    "brand": "d.light",
    "name": "M1000D",
    "model": "M1000"
+  }
+ ],
+ "AH9110": [
+  {
+   "brand": "benco",
+   "name": "benco Y11",
+   "model": "AH9110"
   }
  ],
  "AF9021": [

@@ -8535,6 +8535,13 @@
    "device": "OB_628"
   }
  ],
+ "Altus Android TV": [
+  {
+   "brand": "Altus",
+   "name": "Altus Android TV",
+   "device": "shinagawa"
+  }
+ ],
  "KIREI A5Q PLUS": [
   {
    "brand": "Americamovil",
@@ -12102,6 +12109,11 @@
  "Arcelik Android TV": [
   {
    "brand": "Arçelik",
+   "name": "Arcelik Android TV",
+   "device": "shinagawa"
+  },
+  {
+   "brand": "Arçelik",
    "name": "Arçelik Android TV",
    "device": "sinchon"
   }
@@ -12494,6 +12506,13 @@
    "brand": "Astro_Tab",
    "name": "A750",
    "device": "A750"
+  }
+ ],
+ "DCG-P10": [
+  {
+   "brand": "Astro_Tab",
+   "name": "DCG-P10",
+   "device": "DCG-P10"
   }
  ],
  "G10": [
@@ -15861,6 +15880,13 @@
    "brand": "Azeyou",
    "name": "AT1012U",
    "device": "AT1012U"
+  }
+ ],
+ "AT1031E": [
+  {
+   "brand": "Azeyou",
+   "name": "AT1031E",
+   "device": "AT1031E"
   }
  ],
  "AT1031U": [
@@ -20024,6 +20050,11 @@
   }
  ],
  "Beko Android TV": [
+  {
+   "brand": "Beko",
+   "name": "Beko Android TV",
+   "device": "shinagawa"
+  },
   {
    "brand": "Beko",
    "name": "Beko Android TV",
@@ -36469,6 +36500,13 @@
    "device": "dctiw384"
   }
  ],
+ "DNA Hubi 2.0": [
+  {
+   "brand": "DNA",
+   "name": "DNA Hubi 2.0",
+   "device": "m393gena"
+  }
+ ],
  "Mate2": [
   {
    "brand": "DO Mobile",
@@ -36591,6 +36629,18 @@
    "brand": "Dahl Sweden",
    "name": "People Plus",
    "device": "People_Plus"
+  }
+ ],
+ "MY22ADA": [
+  {
+   "brand": "Daihatsu",
+   "name": "A-DA",
+   "device": "balticaAA"
+  },
+  {
+   "brand": "Subaru",
+   "name": "A-DA",
+   "device": "balticaBA"
   }
  ],
  "Dslide710": [
@@ -54748,6 +54798,11 @@
   {
    "brand": "Grundig",
    "name": "Grundig Android TV",
+   "device": "shinagawa"
+  },
+  {
+   "brand": "Grundig",
+   "name": "Grundig Android TV",
    "device": "sinchon"
   }
  ],
@@ -67924,17 +67979,17 @@
  "TA60A": [
   {
    "brand": "Honeywell",
-   "name": "T60A",
-   "device": "TA60A-L1-C"
-  },
-  {
-   "brand": "Honeywell",
-   "name": "TA60A",
+   "name": "RT10A",
    "device": "TA60A-L0-C"
   },
   {
    "brand": "Honeywell",
-   "name": "TA60A",
+   "name": "RT10A",
+   "device": "TA60A-L1-C"
+  },
+  {
+   "brand": "Honeywell",
+   "name": "T60A",
    "device": "TA60A-L1-C"
   }
  ],
@@ -86759,6 +86814,13 @@
    "device": "itel-A611W"
   }
  ],
+ "itel A611WP": [
+  {
+   "brand": "Itel",
+   "name": "itel A57 2GB",
+   "device": "itel-A611WP"
+  }
+ ],
  "itel W4001P": [
   {
    "brand": "Itel",
@@ -103902,6 +103964,13 @@
    "device": "LMX04"
   }
  ],
+ "LAVA LZG403": [
+  {
+   "brand": "Lava",
+   "name": "Z3",
+   "device": "LZG403"
+  }
+ ],
  "AH9910": [
   {
    "brand": "Lava",
@@ -108158,6 +108227,13 @@
    "brand": "Lenovo",
    "name": "联想平板电脑 启天K10",
    "device": "X6C6NBF"
+  }
+ ],
+ "Lenovo TB-X6C6NBL": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab K10",
+   "device": "X6C6NBL"
   }
  ],
  "Lenovo TB-X6C6NBX": [
@@ -124875,6 +124951,11 @@
   },
   {
    "brand": "Multilaser",
+   "name": "M10 4G PRO",
+   "device": "ML_SO1G_M10_4G_PRO"
+  },
+  {
+   "brand": "Multilaser",
    "name": "M10_4G_PRO",
    "device": "ML-SO0C_M10_4G_PRO_PLUS"
   },
@@ -131286,6 +131367,13 @@
    "device": "bangbae"
   }
  ],
+ "OK 2K TV": [
+  {
+   "brand": "OK (Mediamark)",
+   "name": "OK 2K TV",
+   "device": "shinagawa"
+  }
+ ],
  "Okapi10": [
   {
    "brand": "OKAPI",
@@ -134419,11 +134507,25 @@
    "device": "orca"
   }
  ],
+ "PEGM00": [
+  {
+   "brand": "Oppo",
+   "name": "PEGM00",
+   "device": "OP4E8F"
+  }
+ ],
  "PEHT00": [
   {
    "brand": "Oppo",
    "name": "PEHM00",
    "device": "OP4E99"
+  }
+ ],
+ "PEPM00": [
+  {
+   "brand": "Oppo",
+   "name": "PEPM00",
+   "device": "OP4ECB"
   }
  ],
  "PEQM00": [
@@ -142787,6 +142889,13 @@
    "brand": "Positivo",
    "name": "T800",
    "device": "T800"
+  }
+ ],
+ "T810": [
+  {
+   "brand": "Positivo",
+   "name": "T810",
+   "device": "T810"
   }
  ],
  "Positivo Twist M": [
@@ -197551,6 +197660,13 @@
    "device": "TECNO-BD1"
   }
  ],
+ "TECNO BD4": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO POP 5 LTE",
+   "device": "TECNO-BD4"
+  }
+ ],
  "TECNO L6502S": [
   {
    "brand": "Tecno",
@@ -227923,6 +228039,13 @@
    "brand": "d.light",
    "name": "M1000D",
    "device": "M1000"
+  }
+ ],
+ "AH9110": [
+  {
+   "brand": "benco",
+   "name": "benco Y11",
+   "device": "AH9110"
   }
  ],
  "AF9021": [
