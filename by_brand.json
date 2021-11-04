@@ -1565,6 +1565,11 @@
    "model": "AK330S"
   },
   {
+   "device": "AS10W",
+   "name": "AS10W",
+   "model": "AS10W"
+  },
+  {
    "device": "ATAB1021E",
    "name": "ATAB1021E",
    "model": "ATAB1021E"
@@ -48936,16 +48941,6 @@
    "model": "CT40"
   },
   {
-   "device": "CT40P-L0-F",
-   "name": "CT40",
-   "model": "CT40"
-  },
-  {
-   "device": "CT40P-L1-F",
-   "name": "CT40",
-   "model": "CT40"
-  },
-  {
    "device": "CT40P-L1-D",
    "name": "CT40P",
    "model": "CT40"
@@ -48953,6 +48948,16 @@
   {
    "device": "CT40P-L0-D",
    "name": "CT40P-L0-D",
+   "model": "CT40"
+  },
+  {
+   "device": "CT40P-L0-F",
+   "name": "CT40XP",
+   "model": "CT40"
+  },
+  {
+   "device": "CT40P-L1-F",
+   "name": "CT40XP",
    "model": "CT40"
   },
   {
@@ -49006,18 +49011,18 @@
    "model": "CT50"
   },
   {
+   "device": "CT60-L0-C",
+   "name": "CT60",
+   "model": "CT60"
+  },
+  {
    "device": "CT60-L0N-ASC",
    "name": "CT60",
    "model": "CT60"
   },
   {
-   "device": "CT60-L0-C",
-   "name": "CT60-L0-C",
-   "model": "CT60"
-  },
-  {
    "device": "CT60-L1-C",
-   "name": "CT60-L1N-C",
+   "name": "CT60",
    "model": "CT60"
   },
   {
@@ -49206,28 +49211,23 @@
    "model": "TA60A"
   },
   {
-   "device": "TA60A-L1-C",
-   "name": "T60A",
-   "model": "TA60A"
-  },
-  {
    "device": "VM1A-L0-N",
-   "name": "VM1A",
+   "name": "Thor VM1A",
    "model": "VM1A"
   },
   {
    "device": "VM1A-L0-P",
-   "name": "VM1A",
+   "name": "Thor VM1A",
    "model": "VM1A"
   },
   {
    "device": "VM3A-L0-N",
-   "name": "VM3A",
+   "name": "Thor VM3A",
    "model": "VM3A"
   },
   {
    "device": "VM3A-L0-P",
-   "name": "VM3A",
+   "name": "Thor VM3A",
    "model": "VM3A"
   }
  ],
@@ -99604,16 +99604,6 @@
    "model": "A53w"
   },
   {
-   "device": "OP4F2F",
-   "name": "A54",
-   "model": "CPH2239"
-  },
-  {
-   "device": "OP4F2F",
-   "name": "A54",
-   "model": "CPH2241"
-  },
-  {
    "device": "OP4F39L1",
    "name": "A54 5G",
    "model": "CPH2303"
@@ -100112,6 +100102,11 @@
    "device": "OP4F2F",
    "name": "CPH2239",
    "model": "CPH2239"
+  },
+  {
+   "device": "OP4F2F",
+   "name": "CPH2241",
+   "model": "CPH2241"
   },
   {
    "device": "OP4F7FL1",
@@ -114766,6 +114761,11 @@
    "device": "vip5442",
    "name": "BTV",
    "model": "BAS-AT800"
+  },
+  {
+   "device": "BIP-EB100",
+   "name": "Home Entertainment Box",
+   "model": "BIP-EB100"
   },
   {
    "device": "INTEKS20SI",
@@ -173831,6 +173831,13 @@
    "device": "DK66",
    "name": "DK66",
    "model": "DK66"
+  }
+ ],
+ "e4u(A)": [
+  {
+   "device": "TAB900",
+   "name": "TAB900",
+   "model": "TAB900"
   }
  ],
  "eBox": [

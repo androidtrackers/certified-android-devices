@@ -2847,6 +2847,13 @@
    "device": "C8n"
   }
  ],
+ "AS10W": [
+  {
+   "brand": "Acer",
+   "name": "AS10W",
+   "device": "AS10W"
+  }
+ ],
  "ATAB1021E": [
   {
    "brand": "Acer",
@@ -67725,16 +67732,6 @@
   },
   {
    "brand": "Honeywell",
-   "name": "CT40",
-   "device": "CT40P-L0-F"
-  },
-  {
-   "brand": "Honeywell",
-   "name": "CT40",
-   "device": "CT40P-L1-F"
-  },
-  {
-   "brand": "Honeywell",
    "name": "CT40P",
    "device": "CT40P-L1-D"
   },
@@ -67742,6 +67739,16 @@
    "brand": "Honeywell",
    "name": "CT40P-L0-D",
    "device": "CT40P-L0-D"
+  },
+  {
+   "brand": "Honeywell",
+   "name": "CT40XP",
+   "device": "CT40P-L0-F"
+  },
+  {
+   "brand": "Honeywell",
+   "name": "CT40XP",
+   "device": "CT40P-L1-F"
   }
  ],
  "CT45": [
@@ -67819,16 +67826,16 @@
   {
    "brand": "Honeywell",
    "name": "CT60",
-   "device": "CT60-L0N-ASC"
-  },
-  {
-   "brand": "Honeywell",
-   "name": "CT60-L0-C",
    "device": "CT60-L0-C"
   },
   {
    "brand": "Honeywell",
-   "name": "CT60-L1N-C",
+   "name": "CT60",
+   "device": "CT60-L0N-ASC"
+  },
+  {
+   "brand": "Honeywell",
+   "name": "CT60",
    "device": "CT60-L1-C"
   }
  ],
@@ -68012,34 +68019,29 @@
    "brand": "Honeywell",
    "name": "RT10A",
    "device": "TA60A-L1-C"
-  },
-  {
-   "brand": "Honeywell",
-   "name": "T60A",
-   "device": "TA60A-L1-C"
   }
  ],
  "VM1A": [
   {
    "brand": "Honeywell",
-   "name": "VM1A",
+   "name": "Thor VM1A",
    "device": "VM1A-L0-N"
   },
   {
    "brand": "Honeywell",
-   "name": "VM1A",
+   "name": "Thor VM1A",
    "device": "VM1A-L0-P"
   }
  ],
  "VM3A": [
   {
    "brand": "Honeywell",
-   "name": "VM3A",
+   "name": "Thor VM3A",
    "device": "VM3A-L0-N"
   },
   {
    "brand": "Honeywell",
-   "name": "VM3A",
+   "name": "Thor VM3A",
    "device": "VM3A-L0-P"
   }
  ],
@@ -133314,25 +133316,6 @@
    "device": "A53"
   }
  ],
- "CPH2239": [
-  {
-   "brand": "Oppo",
-   "name": "A54",
-   "device": "OP4F2F"
-  },
-  {
-   "brand": "Oppo",
-   "name": "CPH2239",
-   "device": "OP4F2F"
-  }
- ],
- "CPH2241": [
-  {
-   "brand": "Oppo",
-   "name": "A54",
-   "device": "OP4F2F"
-  }
- ],
  "CPH2303": [
   {
    "brand": "Oppo",
@@ -134004,6 +133987,20 @@
    "brand": "Oppo",
    "name": "CPH2235",
    "device": "OP4F25L1"
+  }
+ ],
+ "CPH2239": [
+  {
+   "brand": "Oppo",
+   "name": "CPH2239",
+   "device": "OP4F2F"
+  }
+ ],
+ "CPH2241": [
+  {
+   "brand": "Oppo",
+   "name": "CPH2241",
+   "device": "OP4F2F"
   }
  ],
  "CPH2247": [
@@ -152461,6 +152458,13 @@
    "brand": "SK Broadband",
    "name": "BTV",
    "device": "vip5442"
+  }
+ ],
+ "BIP-EB100": [
+  {
+   "brand": "SK Broadband",
+   "name": "Home Entertainment Box",
+   "device": "BIP-EB100"
   }
  ],
  "BID-AT200": [
@@ -228568,6 +228572,13 @@
    "brand": "duraMOBI",
    "name": "DK66",
    "device": "DK66"
+  }
+ ],
+ "TAB900": [
+  {
+   "brand": "e4u(A)",
+   "name": "TAB900",
+   "device": "TAB900"
   }
  ],
  "EboxTV": [

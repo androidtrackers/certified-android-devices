@@ -8123,6 +8123,13 @@
    "model": "AK330S"
   }
  ],
+ "AS10W": [
+  {
+   "brand": "Acer",
+   "device": "AS10W",
+   "model": "AS10W"
+  }
+ ],
  "ATAB1021E": [
   {
    "brand": "Acer",
@@ -73289,16 +73296,6 @@
    "brand": "Honeywell",
    "device": "CT40-L1-C",
    "model": "CT40"
-  },
-  {
-   "brand": "Honeywell",
-   "device": "CT40P-L0-F",
-   "model": "CT40"
-  },
-  {
-   "brand": "Honeywell",
-   "device": "CT40P-L1-F",
-   "model": "CT40"
   }
  ],
  "CT40P": [
@@ -73312,6 +73309,18 @@
   {
    "brand": "Honeywell",
    "device": "CT40P-L0-D",
+   "model": "CT40"
+  }
+ ],
+ "CT40XP": [
+  {
+   "brand": "Honeywell",
+   "device": "CT40P-L0-F",
+   "model": "CT40"
+  },
+  {
+   "brand": "Honeywell",
+   "device": "CT40P-L1-F",
    "model": "CT40"
   }
  ],
@@ -73376,18 +73385,14 @@
  "CT60": [
   {
    "brand": "Honeywell",
-   "device": "CT60-L0N-ASC",
-   "model": "CT60"
-  }
- ],
- "CT60-L0-C": [
-  {
-   "brand": "Honeywell",
    "device": "CT60-L0-C",
    "model": "CT60"
-  }
- ],
- "CT60-L1N-C": [
+  },
+  {
+   "brand": "Honeywell",
+   "device": "CT60-L0N-ASC",
+   "model": "CT60"
+  },
   {
    "brand": "Honeywell",
    "device": "CT60-L1-C",
@@ -73591,14 +73596,7 @@
    "model": "TA60A"
   }
  ],
- "T60A": [
-  {
-   "brand": "Honeywell",
-   "device": "TA60A-L1-C",
-   "model": "TA60A"
-  }
- ],
- "VM1A": [
+ "Thor VM1A": [
   {
    "brand": "Honeywell",
    "device": "VM1A-L0-N",
@@ -73610,7 +73608,7 @@
    "model": "VM1A"
   }
  ],
- "VM3A": [
+ "Thor VM3A": [
   {
    "brand": "Honeywell",
    "device": "VM3A-L0-N",
@@ -115600,16 +115598,6 @@
    "brand": "Micromax",
    "device": "A54",
    "model": "A54"
-  },
-  {
-   "brand": "Oppo",
-   "device": "OP4F2F",
-   "model": "CPH2239"
-  },
-  {
-   "brand": "Oppo",
-   "device": "OP4F2F",
-   "model": "CPH2241"
   }
  ],
  "A56": [
@@ -131278,6 +131266,13 @@
    "brand": "Oppo",
    "device": "OP4F2F",
    "model": "CPH2239"
+  }
+ ],
+ "CPH2241": [
+  {
+   "brand": "Oppo",
+   "device": "OP4F2F",
+   "model": "CPH2241"
   }
  ],
  "CPH2247": [
@@ -149374,6 +149369,13 @@
    "brand": "SK Broadband",
    "device": "vip5442",
    "model": "BAS-AT800"
+  }
+ ],
+ "Home Entertainment Box": [
+  {
+   "brand": "SK Broadband",
+   "device": "BIP-EB100",
+   "model": "BIP-EB100"
   }
  ],
  "SMART3": [
@@ -215910,6 +215912,13 @@
    "brand": "duraMOBI",
    "device": "DK66",
    "model": "DK66"
+  }
+ ],
+ "TAB900": [
+  {
+   "brand": "e4u(A)",
+   "device": "TAB900",
+   "model": "TAB900"
   }
  ],
  "EBoxTv": [

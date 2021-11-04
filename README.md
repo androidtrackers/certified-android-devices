@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-11-03
+Last sync is 2021-11-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -291,6 +291,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|ACTAB721|ACTAB721|ACTAB721|
 |Acer|ACTAB821_A|ACTAB821_A|ACTAB821_A|
 |Acer|AK330s|C8n|AK330S|
+|Acer|AS10W|AS10W|AS10W|
 |Acer|ATAB1021E|ATAB1021E|ATAB1021E|
 |Acer|ATAB1422E|ATAB1422E|ATAB1422E|
 |Acer|ATAB721E|ATAB721E|ATAB721E|
@@ -9466,10 +9467,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|CT40|CT40-L0-C|CT40|
 |Honeywell|CT40|CT40-L0-CA|CT40|
 |Honeywell|CT40|CT40-L1-C|CT40|
-|Honeywell|CT40|CT40P-L0-F|CT40|
-|Honeywell|CT40|CT40P-L1-F|CT40|
 |Honeywell|CT40P|CT40P-L1-D|CT40|
 |Honeywell|CT40P-L0-D|CT40P-L0-D|CT40|
+|Honeywell|CT40XP|CT40P-L0-F|CT40|
+|Honeywell|CT40XP|CT40P-L1-F|CT40|
 |Honeywell|CT45|CT45|CT45|
 |Honeywell|CT45 XP|CT45P|CT45P|
 |Honeywell|CT45XP|CT45P|CT45P|
@@ -9480,9 +9481,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|CT50|CT50LUN-CS12S|CT50|
 |Honeywell|CT50|CT50LUN-CS15S|CT50|
 |Honeywell|CT50|CT50LUN-CS16S|CT50|
+|Honeywell|CT60|CT60-L0-C|CT60|
 |Honeywell|CT60|CT60-L0N-ASC|CT60|
-|Honeywell|CT60-L0-C|CT60-L0-C|CT60|
-|Honeywell|CT60-L1N-C|CT60-L1-C|CT60|
+|Honeywell|CT60|CT60-L1-C|CT60|
 |Honeywell|D75E|75E-L0N|D75E|
 |Honeywell|Dolphin 70e Black|dblack_gn|Dolphin 70e Black|
 |Honeywell|Dolphin 70e Black|dblack_go|Dolphin 70e Black|
@@ -9520,11 +9521,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|HMS-PD-X1C-3|HMS-PD-X1C-3|HMS-PD-X1C-3|
 |Honeywell|RT10A|TA60A-L0-C|TA60A|
 |Honeywell|RT10A|TA60A-L1-C|TA60A|
-|Honeywell|T60A|TA60A-L1-C|TA60A|
-|Honeywell|VM1A|VM1A-L0-N|VM1A|
-|Honeywell|VM1A|VM1A-L0-P|VM1A|
-|Honeywell|VM3A|VM3A-L0-N|VM3A|
-|Honeywell|VM3A|VM3A-L0-P|VM3A|
+|Honeywell|Thor VM1A|VM1A-L0-N|VM1A|
+|Honeywell|Thor VM1A|VM1A-L0-P|VM1A|
+|Honeywell|Thor VM3A|VM3A-L0-N|VM3A|
+|Honeywell|Thor VM3A|VM3A-L0-P|VM3A|
 |Honor|HONOR 50|HNNTH|NTH-NX9|
 |Hoozo|HZ0010|HZ0010|HZ0010|
 |Hoozo|HZ0010J|HZ0010J|HZ0010J|
@@ -19370,8 +19370,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A53m|A53|OPPO A53m|
 |Oppo|A53s|OP4EFDL1|CPH2135|
 |Oppo|A53w|A53|A53w|
-|Oppo|A54|OP4F2F|CPH2239|
-|Oppo|A54|OP4F2F|CPH2241|
 |Oppo|A54 5G|OP4F39L1|CPH2303|
 |Oppo|A55 5G|OP4E2F|PEMM00|
 |Oppo|A55 5G|OP4E2F|PEMT00|
@@ -19472,6 +19470,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|CPH2223|OP4F11L1|CPH2223|
 |Oppo|CPH2235|OP4F25L1|CPH2235|
 |Oppo|CPH2239|OP4F2F|CPH2239|
+|Oppo|CPH2241|OP4F2F|CPH2241|
 |Oppo|CPH2247|OP4F7FL1|CPH2247|
 |Oppo|CPH2249|OP4F81L1|CPH2249|
 |Oppo|CPH2251|OP4F83L1|CPH2251|
@@ -22318,6 +22317,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SK Broadband|BFX-AT100|BFX-AT100|BFX-AT100|
 |SK Broadband|BKO-AT800|BKO-AT800|BKO-AT800|
 |SK Broadband|BTV|vip5442|BAS-AT800|
+|SK Broadband|Home Entertainment Box|BIP-EB100|BIP-EB100|
 |SK Broadband|SMART3|INTEKS20SI|BID-AT200|
 |SK Broadband|SWAN|BFX-UA300|BFX-UA300|
 |SK Broadband|Smart3 Mini|BIP-UW200|BIP-UW200|
@@ -33889,6 +33889,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |dazen|dazen 6E|dazen_6E|dazen 6E|
 |du (UAE)|IPBS9520|IPBS9520|IPBS9520|
 |duraMOBI|DK66|DK66|DK66|
+|e4u(A)|TAB900|TAB900|TAB900|
 |eBox|EBoxTv|diw387eb|EboxTV|
 |eBox|Ebox|diw387eb|EboxTV|
 |eSTREAM 4K|EVOPRO|SEI500EV|EVOPRO|
