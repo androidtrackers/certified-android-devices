@@ -61249,6 +61249,13 @@
    "device": "daan"
   }
  ],
+ "Haier Android TV PRO": [
+  {
+   "brand": "Haier",
+   "name": "Haier Android TV PRO",
+   "device": "daan"
+  }
+ ],
  "HM-N700-FL": [
   {
    "brand": "Haier",
@@ -87423,6 +87430,18 @@
    "brand": "JVC",
    "name": "JVC J20",
    "device": "Cunda"
+  }
+ ],
+ "JVC Android TV": [
+  {
+   "brand": "JVC",
+   "name": "South Africa/Australia /Israel/Paraguay",
+   "device": "tamachi"
+  },
+  {
+   "brand": "JVC",
+   "name": "South Africa/Australia /Israel/Paraguay",
+   "device": "yeongdeungpo"
   }
  ],
  "UK 2K Android TV": [
@@ -124994,6 +125013,13 @@
    "device": "ML-JI03-M10-4G"
   }
  ],
+ "M10_4G": [
+  {
+   "brand": "Multilaser",
+   "name": "M10 4G",
+   "device": "ML_JI0B_M10_4G"
+  }
+ ],
  "M10_4G_PRO": [
   {
    "brand": "Multilaser",
@@ -131421,11 +131447,23 @@
    "device": "FALCON_10_PLUS_3G"
   }
  ],
+ "OK 2K Android TV": [
+  {
+   "brand": "OK (Mediamark)",
+   "name": "EU",
+   "device": "tamachi"
+  }
+ ],
  "OK 4K Android TV": [
   {
    "brand": "OK (Mediamark)",
    "name": "OK",
    "device": "bangbae"
+  },
+  {
+   "brand": "OK (Mediamark)",
+   "name": "eu",
+   "device": "yeongdeungpo"
   }
  ],
  "OK 2K TV": [
@@ -199049,6 +199087,20 @@
    "device": "AEONSR570"
   }
  ],
+ "Tesla 2K Android TV": [
+  {
+   "brand": "Tesla",
+   "name": "EU",
+   "device": "tamachi"
+  }
+ ],
+ "Tesla 4K Android TV": [
+  {
+   "brand": "Tesla",
+   "name": "EU",
+   "device": "yeongdeungpo"
+  }
+ ],
  "TTM813G": [
   {
    "brand": "Tesla",
@@ -202963,6 +203015,13 @@
    "brand": "VNPT Technology",
    "name": "VNPT SmartBox 2x",
    "device": "vnptt_smb_v2x"
+  }
+ ],
+ "VNT_Tab8": [
+  {
+   "brand": "VNPT Technology",
+   "name": "VNT_Tab8",
+   "device": "VNT_Tab8"
   }
  ],
  "NEXO TAB 10A": [

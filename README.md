@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-11-05
+Last sync is 2021-11-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8458,6 +8458,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|Haier Android TV|uguisudani|haierATVuguisudani|
 |Haier|Haier Android TV DVB2K|broadway|Haier Android TV DVB2K|
 |Haier|Haier Android TV FF Pro|daan|Haier Android TV FF Pro|
+|Haier|Haier Android TV PRO|daan|Haier Android TV PRO|
 |Haier|Haier Leisure L7|Haier_Leisure_L7|HM-N700-FL|
 |Haier|Haier Titan T5|Titan_T5|Titan_T5|
 |Haier|Haier android TV|hanyang|Haier 4K Android TV|
@@ -12422,6 +12423,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|LT-50KD507|samseong|AI PONT|
 |JVC|LT-50N7115A|samseong|AI PONT|
 |JVC|LT-55KB597|sindorim|AI PONT|
+|JVC|South Africa/Australia /Israel/Paraguay|tamachi|JVC Android TV|
+|JVC|South Africa/Australia /Israel/Paraguay|yeongdeungpo|JVC Android TV|
 |JVC|UK|tabata|UK 2K Android TV|
 |JVC|france|tamachi|JVC 2K Android TV|
 |JVL (Australia)|JVL070TAB812BLK|JVL070TAB812BLK|JVL070TAB812BLK|
@@ -18075,6 +18078,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|Kidpad-3G|Kidpad-3G|Kidpad-3G|
 |Multilaser|M10 3G|ML-JI16-M10-3G|M10-3G|
 |Multilaser|M10 4G|ML-JI0A-M10-4G|M10-4G|
+|Multilaser|M10 4G|ML_JI0B_M10_4G|M10_4G|
 |Multilaser|M10 4G PRO|ML_JI0B_M10_4G_PRO|M10_4G_PRO|
 |Multilaser|M10 4G PRO|ML_JI0F_M10_4G_PRO|M10_4G_PRO|
 |Multilaser|M10 4G PRO|ML_SO1G_M10_4G_PRO|M10_4G_PRO|
@@ -19072,12 +19076,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ODYS|XELIO_HD10|XELIO_HD10|XELIO_HD10|
 |ODYS|FALCON_10_PLUS_3G|FALCON_10_PLUS_3G|FALCON_10_PLUS_3G|
 |OK (Mediamark)|32770H-TAB|ikebukuro|AI PONT|
+|OK (Mediamark)|EU|tamachi|OK 2K Android TV|
 |OK (Mediamark)|ODL 32760HN-TAB|osaki|2K AI Smart TV|
 |OK (Mediamark)|ODL 32770H-TAB|ikebukuro|AI PONT|
 |OK (Mediamark)|ODL50672U-TAB|samseong|AI PONT|
 |OK (Mediamark)|OK|bangbae|OK 4K Android TV|
 |OK (Mediamark)|OK 2K TV|shinagawa|OK 2K TV|
 |OK (Mediamark)|Smart TV|samseong|AI PONT|
+|OK (Mediamark)|eu|yeongdeungpo|OK 4K Android TV|
 |OKAPI|Okapi10|Okapi10|Okapi10|
 |OKAPI|Okapi10_Pro|Okapi10_Pro|Okapi10 Pro|
 |OKAPI|Okapi10_Pro_Max|Okapi10_Pro_Max|Okapi10 Pro Max|
@@ -29252,6 +29258,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tesco|W032I_C3|w032i_c3|W032I_C3|
 |Tesco|hudl 2|HTF8A4|Hudl 2|
 |Tesla|AEONSR570|AEONSR570|AEONSR570|
+|Tesla|EU|tamachi|Tesla 2K Android TV|
+|Tesla|EU|yeongdeungpo|Tesla 4K Android TV|
 |Tesla|M8.1 3G|TTM813G|TTM813G|
 |Tesla|P80X_ROW|P80X|P80X|
 |Tesla|SMARTPHONE3.5|Tesla_SP3_5|Tesla_SP3.5|
@@ -29908,6 +29916,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VIZZION|VIZZION 4K TV|SW4H|VIZZION 4K TV|
 |VIZZION|VIZZION TV|shinjuku|VIZZION TV|
 |VNPT Technology|VNPT SmartBox 2x|vnptt_smb_v2x|VNPT SmartBox 2x|
+|VNPT Technology|VNT_Tab8|VNT_Tab8|VNT_Tab8|
 |VOLFEN|NEXO TAB 10A|NEXO_TAB_10A|NEXO TAB 10A|
 |VOLFEN|NEXO-TAB-70|NEXO-TAB-70|NEXO TAB 70|
 |VOLFEN|NEXO_TAB_10|NEXO_TAB_10|NEXO_TAB_10|

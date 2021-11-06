@@ -835,6 +835,11 @@
   },
   {
    "brand": "JVC",
+   "name": "South Africa/Australia /Israel/Paraguay",
+   "model": "JVC Android TV"
+  },
+  {
+   "brand": "JVC",
    "name": "france",
    "model": "JVC 2K Android TV"
   },
@@ -867,6 +872,11 @@
    "brand": "Nano",
    "name": "Thailand",
    "model": "Nano FHD Android TV"
+  },
+  {
+   "brand": "OK (Mediamark)",
+   "name": "EU",
+   "model": "OK 2K Android TV"
   },
   {
    "brand": "ORCA",
@@ -917,6 +927,11 @@
    "brand": "TD SYSTEMS",
    "name": "Spain",
    "model": "TD SYSTEMS Android TV"
+  },
+  {
+   "brand": "Tesla",
+   "name": "EU",
+   "model": "Tesla 2K Android TV"
   },
   {
    "brand": "Turbo-X",
@@ -1076,6 +1091,11 @@
    "model": "JVC 4K Android TV"
   },
   {
+   "brand": "JVC",
+   "name": "South Africa/Australia /Israel/Paraguay",
+   "model": "JVC Android TV"
+  },
+  {
    "brand": "KAGIS",
    "name": "Australia",
    "model": "KAGIS Android TV"
@@ -1099,6 +1119,11 @@
    "brand": "Nano",
    "name": "Thailand",
    "model": "Nano UHD Android TV"
+  },
+  {
+   "brand": "OK (Mediamark)",
+   "name": "eu",
+   "model": "OK 4K Android TV"
   },
   {
    "brand": "ORCA",
@@ -1194,6 +1219,11 @@
    "brand": "TD SYSTEMS",
    "name": "Spain",
    "model": "TD SYSTEMS Android TV"
+  },
+  {
+   "brand": "Tesla",
+   "name": "EU",
+   "model": "Tesla 4K Android TV"
   },
   {
    "brand": "Turbo-X",
@@ -62768,6 +62798,11 @@
    "brand": "Haier",
    "name": "Haier Android TV FF Pro",
    "model": "Haier Android TV FF Pro"
+  },
+  {
+   "brand": "Haier",
+   "name": "Haier Android TV PRO",
+   "model": "Haier Android TV PRO"
   }
  ],
  "Haier_Leisure_L7": [
@@ -122255,6 +122290,13 @@
    "brand": "Multilaser",
    "name": "M10 4G",
    "model": "M10-4G"
+  }
+ ],
+ "ML_JI0B_M10_4G": [
+  {
+   "brand": "Multilaser",
+   "name": "M10 4G",
+   "model": "M10_4G"
   }
  ],
  "ML_JI0B_M10_4G_PRO": [
@@ -195037,6 +195079,13 @@
    "brand": "VNPT Technology",
    "name": "VNPT SmartBox 2x",
    "model": "VNPT SmartBox 2x"
+  }
+ ],
+ "VNT_Tab8": [
+  {
+   "brand": "VNPT Technology",
+   "name": "VNT_Tab8",
+   "model": "VNT_Tab8"
   }
  ],
  "NEXO_TAB_10A": [

@@ -28285,6 +28285,11 @@
    "model": "MARCEL Android TV"
   },
   {
+   "brand": "OK (Mediamark)",
+   "device": "tamachi",
+   "model": "OK 2K Android TV"
+  },
+  {
    "brand": "QBell",
    "device": "nippori",
    "model": "QBELL Android TV 2K"
@@ -28303,6 +28308,16 @@
    "brand": "Sharp",
    "device": "sindang",
    "model": "AQUOS_TVE19A"
+  },
+  {
+   "brand": "Tesla",
+   "device": "tamachi",
+   "model": "Tesla 2K Android TV"
+  },
+  {
+   "brand": "Tesla",
+   "device": "yeongdeungpo",
+   "model": "Tesla 4K Android TV"
   }
  ],
  "Endeavour101": [
@@ -67019,6 +67034,13 @@
    "model": "Haier Android TV FF Pro"
   }
  ],
+ "Haier Android TV PRO": [
+  {
+   "brand": "Haier",
+   "device": "daan",
+   "model": "Haier Android TV PRO"
+  }
+ ],
  "Haier Leisure L7": [
   {
    "brand": "Haier",
@@ -89520,6 +89542,18 @@
    "brand": "JVC",
    "device": "sindorim",
    "model": "AI PONT"
+  }
+ ],
+ "South Africa/Australia /Israel/Paraguay": [
+  {
+   "brand": "JVC",
+   "device": "tamachi",
+   "model": "JVC Android TV"
+  },
+  {
+   "brand": "JVC",
+   "device": "yeongdeungpo",
+   "model": "JVC Android TV"
   }
  ],
  "UK": [
@@ -122785,6 +122819,11 @@
    "brand": "Multilaser",
    "device": "ML-JI0A-M10-4G",
    "model": "M10-4G"
+  },
+  {
+   "brand": "Multilaser",
+   "device": "ML_JI0B_M10_4G",
+   "model": "M10_4G"
   }
  ],
  "M10 4G PRO": [
@@ -129094,6 +129133,13 @@
    "brand": "OK (Mediamark)",
    "device": "shinagawa",
    "model": "OK 2K TV"
+  }
+ ],
+ "eu": [
+  {
+   "brand": "OK (Mediamark)",
+   "device": "yeongdeungpo",
+   "model": "OK 4K Android TV"
   }
  ],
  "Okapi10": [
@@ -192833,6 +192879,13 @@
    "brand": "VNPT Technology",
    "device": "vnptt_smb_v2x",
    "model": "VNPT SmartBox 2x"
+  }
+ ],
+ "VNT_Tab8": [
+  {
+   "brand": "VNPT Technology",
+   "device": "VNT_Tab8",
+   "model": "VNT_Tab8"
   }
  ],
  "NEXO TAB 10A": [
