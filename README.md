@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-11-07
+Last sync is 2021-11-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13098,6 +13098,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|DuraForce XD|E6790|KYOCERA-E6790|
 |Kyocera|DuraForce XD|E6790TM|E6790TM|
 |Kyocera|DuraScout|E6782L|E6782L|
+|Kyocera|DuraSport 5G|KY21L-RG100|C6930|
 |Kyocera|Echo|KSP8000|KSP8000|
 |Kyocera|Echo|M9300|M9300|
 |Kyocera|Event|C5133|Event|
