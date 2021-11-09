@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-11-08
+Last sync is 2021-11-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12978,6 +12978,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Konrow|Sky|Sky|Sky|
 |Konrow|Smartfive|KONROW_Smartfive|Smartfive|
 |Kooda|KOODA 2K TV|shibuya|KOODA 2K TV|
+|Korea Telecom|MA4000|MA4000|MA4000|
 |Krik Krak|Freedom|Freedom|Freedom|
 |Krono|776PLUS|KRONO_776PLUS|776PLUS|
 |Krono|COLORS|COLORS|COLORS|
@@ -13068,6 +13069,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|DIGNO|KYI11|ISW11K|
 |Kyocera|DIGNO|KYL22|KYL22|
 |Kyocera|DIGNO BX|901KC|901KC|
+|Kyocera|DIGNO BX2|KY21L-ST100|A101KC|
 |Kyocera|DIGNO Dual|WX04K|WX04K|
 |Kyocera|DIGNO L|KYV36|KYV36|
 |Kyocera|DIGNO R|202K|202K|
@@ -18494,6 +18496,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NEONIQ|NQT_7W|NQT-7W|NQT-7W|
 |NESO|N810 i7|N810_i7_1|N810 i7|
 |NETGREEN|H10|H10|H10|
+|NETGREEN|M16QF9ES|M16QF9ES|M16QF9ES|
 |NETGREEN|MW75QF6|MW75QF6|MW75QF6|
 |NEWSUN|S13|S13|S13|
 |NEWSUN|S20|S20|S20|
@@ -19465,6 +19468,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|CPH2015|OP4C7D|CPH2015|
 |Oppo|CPH2071|OP4BFB|CPH2071|
 |Oppo|CPH2077|OP4BFB|CPH2077|
+|Oppo|CPH2083|OP4BFB|CPH2083|
+|Oppo|CPH2145|OP4F1BL1|CPH2145|
 |Oppo|CPH2161|OP4EE8L1|CPH2161|
 |Oppo|CPH2173|OP4F57L1|CPH2173|
 |Oppo|CPH2179|OP4F2F|CPH2179|
@@ -21892,7 +21897,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme C15|RMX2181|RMX2181|
 |Realme|realme C15|RMX2183|RMX2183|
 |Realme|realme C15 Qualcomm Edition|RECE4244|RMX2195|
-|Realme|realme C15 Qualcomm Edition|RMX2195L1|RMX2195|
 |Realme|realme C17|RE50BF|RMX2101|
 |Realme|realme C2|RMX1946|RMX1946|
 |Realme|realme C20|RMX3061|RMX3061|
@@ -22167,6 +22171,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Remdun|RD15QE|RD15QE|RD15QE|
 |Remdun|RD16Q|RD16Q|RD16Q|
 |Remdun|RD16QE|RD16QE|RD16QE|
+|Remdun|RD40TE|RD40TE|RD40TE|
 |Remdun|RD50T|RD50T|RD50T|
 |Remdun|RD50TE|RD50TE|RD50TE|
 |Remdun|RD51QE|RD51QE|RD51QE|
@@ -22319,6 +22324,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SILVER MAX|ST-710G|ST_710G|ST-710G|
 |SILVER MAX|ST-810|ST_810A|ST-810|
 |SITI_Playtop|SITIH3455N|DTC2141|SITIH3455N|
+|SK Broadband|AI2 ATV|INTEKS21SI|BID-AI100|
 |SK Broadband|B tv smart|BHX-S100|BHX-S100|
 |SK Broadband|B tv smart|BKO-S200|BKO-S200|
 |SK Broadband|BFX-AT100|BFX-AT100|BFX-AT100|
@@ -27036,6 +27042,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|Z16|Z16|Z16|
 |Symphony|Z18|Z18|Symphony Z18|
 |Symphony|Z20|Z20|Z20|
+|Symphony|Z22|Z22|Symphony Z22|
 |Symphony|Z25|Z25|Z25|
 |Symphony|Z28|Z28|Z28|
 |Symphony|Z30|Z30|Z30|
@@ -29301,6 +29308,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Thomson|TEO10A|TEO10A1BK32|TEO10A|
 |Thomson|TEO13P|TEO13P|TEO13P|
 |Thomson|TEO7RK|TEO7RK|TEO7RK|
+|Thomson|TEO8-A2BK32|TEO8-A2BK32|TEO8-A2BK32|
 |Thomson|TEOX102|TEOX102|TEOX102|
 |Thomson|TEOX103|TEOX103|TEOX103|
 |Thomson|THOMSON SEREA500|L35_A|THOMSON SEREA500|
@@ -29627,6 +29635,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor 6|Armor_6|Armor_6|
 |Ulefone|Armor 7|Armor_7_Q|Armor 7|
 |Ulefone|Armor 8|Armor_8|Armor 8|
+|Ulefone|Armor 8|Armor_8_R|Armor 8|
 |Ulefone|Armor 8 Pro|Armor_8_Pro|Armor 8 Pro|
 |Ulefone|Armor 9|Armor_9|Armor 9|
 |Ulefone|Armor 9E|Armor_9E|Armor 9E|
@@ -30596,7 +30605,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2111A|PD2111|V2111A|
 |Vivo|V2113|2113|V2113|
 |Vivo|V2114|2114|V2114|
+|Vivo|V2115|2116|V2115|
 |Vivo|V2115A|PD2115|V2115A|
+|Vivo|V2116|2116|V2116|
 |Vivo|V2118|2120|V2118|
 |Vivo|V2118A|PD2118|V2118A|
 |Vivo|V2120|2120|V2120|
@@ -33488,6 +33499,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A5 2020|P963F50_A|ZTE Blade A5 2020|
 |ZTE|ZTE Blade A5 2020RU|P963F50|ZTE Blade A5 2020RU|
 |ZTE|ZTE Blade A51|P963F60|ZTE Blade A51|
+|ZTE|ZTE Blade A51 Lite|P963F50_A|ZTE Blade A51 Lite|
 |ZTE|ZTE Blade A51 Lite RU|P963F50_A|ZTE Blade A51 Lite RU|
 |ZTE|ZTE Blade A51RU|P963F60|ZTE Blade A51RU|
 |ZTE|ZTE Blade A522|P817E53|ZTE Blade A522|
@@ -33888,6 +33900,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |bq|Edison_3_mini|Edison_3_mini|Edison 3 mini|
 |bq|M8|Aquaris_M8|Aquaris M8|
 |carrozzeria|SDA-700TAB|SDA_700TAB|SDA-700TAB|
+|cosmos|Aries_8in|Aries_8in|Aries_8in|
 |cosmos|Lynx_10in|Lynx_10in|Lynx_10in|
 |d.light|M100|M100|M100|
 |d.light|M1000|M1000|M1000|
@@ -34273,6 +34286,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |qunyiCO|Y7|Y7_0_EEA|Y7|
 |qunyiCO|Y7_EEA|Y7_EEA|Y7|
 |realme|4K Google TV Stick|YYT|4K Google TV Stick|
+|realme|realme C15 Qualcomm Edition|RMX2195L1|RMX2195|
+|realme|realme C21-Y|RED8D1|RMX3263|
 |redfox|Valuer_V8|Valuer_V8|Valuer_V8|
 |redfox|Wizpad_Valuer_V8|wvv832|Wizpad_Valuer_V8|
 |rephone|rephone|rephone|2000_000170_00|

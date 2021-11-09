@@ -89978,6 +89978,13 @@
    "model": "Smartfive"
   }
  ],
+ "MA4000": [
+  {
+   "brand": "Korea Telecom",
+   "name": "MA4000",
+   "model": "MA4000"
+  }
+ ],
  "Freedom": [
   {
    "brand": "Krik Krak",
@@ -90629,6 +90636,13 @@
    "brand": "Kyocera",
    "name": "DIGNO BX",
    "model": "901KC"
+  }
+ ],
+ "KY21L-ST100": [
+  {
+   "brand": "Kyocera",
+   "name": "DIGNO BX2",
+   "model": "A101KC"
   }
  ],
  "WX04K": [
@@ -125100,6 +125114,13 @@
    "model": "H10_EEA"
   }
  ],
+ "M16QF9ES": [
+  {
+   "brand": "NETGREEN",
+   "name": "M16QF9ES",
+   "model": "M16QF9ES"
+  }
+ ],
  "MW75QF6": [
   {
    "brand": "NETGREEN",
@@ -131060,6 +131081,28 @@
    "brand": "Oppo",
    "name": "CPH2077",
    "model": "CPH2077"
+  },
+  {
+   "brand": "Oppo",
+   "name": "CPH2083",
+   "model": "CPH2083"
+  }
+ ],
+ "OP4F1BL1": [
+  {
+   "brand": "Oppo",
+   "name": "CPH2145",
+   "model": "CPH2145"
+  },
+  {
+   "brand": "Oppo",
+   "name": "OPPO Find X3 Lite 5G",
+   "model": "CPH2145"
+  },
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno5 5G",
+   "model": "CPH2145"
   }
  ],
  "OP4EE8L1": [
@@ -131525,18 +131568,6 @@
    "brand": "Oppo",
    "name": "OPPO A95 5G",
    "model": "PELM00"
-  }
- ],
- "OP4F1BL1": [
-  {
-   "brand": "Oppo",
-   "name": "OPPO Find X3 Lite 5G",
-   "model": "CPH2145"
-  },
-  {
-   "brand": "Oppo",
-   "name": "OPPO Reno5 5G",
-   "model": "CPH2145"
   }
  ],
  "OP4F2BL1": [
@@ -146363,13 +146394,6 @@
    "model": "RMX2195"
   }
  ],
- "RMX2195L1": [
-  {
-   "brand": "Realme",
-   "name": "realme C15 Qualcomm Edition",
-   "model": "RMX2195"
-  }
- ],
  "RE50BF": [
   {
    "brand": "Realme",
@@ -148063,6 +148087,13 @@
    "model": "RD16QE"
   }
  ],
+ "RD40TE": [
+  {
+   "brand": "Remdun",
+   "name": "RD40TE",
+   "model": "RD40TE"
+  }
+ ],
  "RD50T": [
   {
    "brand": "Remdun",
@@ -148909,6 +148940,13 @@
    "brand": "SITI_Playtop",
    "name": "SITIH3455N",
    "model": "SITIH3455N"
+  }
+ ],
+ "INTEKS21SI": [
+  {
+   "brand": "SK Broadband",
+   "name": "AI2 ATV",
+   "model": "BID-AI100"
   }
  ],
  "BHX-S100": [
@@ -178931,6 +178969,13 @@
    "model": "Z20"
   }
  ],
+ "Z22": [
+  {
+   "brand": "Symphony",
+   "name": "Z22",
+   "model": "Symphony Z22"
+  }
+ ],
  "Z28": [
   {
    "brand": "Symphony",
@@ -191536,6 +191581,13 @@
    "model": "TEO7RK"
   }
  ],
+ "TEO8-A2BK32": [
+  {
+   "brand": "Thomson",
+   "name": "TEO8-A2BK32",
+   "model": "TEO8-A2BK32"
+  }
+ ],
  "TEOX102": [
   {
    "brand": "Thomson",
@@ -193478,6 +193530,13 @@
   }
  ],
  "Armor_8": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor 8",
+   "model": "Armor 8"
+  }
+ ],
+ "Armor_8_R": [
   {
    "brand": "Ulefone",
    "name": "Armor 8",
@@ -199261,6 +199320,18 @@
    "brand": "Vivo",
    "name": "V2114",
    "model": "V2114"
+  }
+ ],
+ "2116": [
+  {
+   "brand": "Vivo",
+   "name": "V2115",
+   "model": "V2115"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2116",
+   "model": "V2116"
   }
  ],
  "PD2115": [
@@ -213290,6 +213361,11 @@
   },
   {
    "brand": "ZTE",
+   "name": "ZTE Blade A51 Lite",
+   "model": "ZTE Blade A51 Lite"
+  },
+  {
+   "brand": "ZTE",
    "name": "ZTE Blade A51 Lite RU",
    "model": "ZTE Blade A51 Lite RU"
   }
@@ -218288,6 +218364,13 @@
    "model": "SDA-700TAB"
   }
  ],
+ "Aries_8in": [
+  {
+   "brand": "cosmos",
+   "name": "Aries_8in",
+   "model": "Aries_8in"
+  }
+ ],
  "Lynx_10in": [
   {
    "brand": "cosmos",
@@ -220609,6 +220692,20 @@
    "brand": "realme",
    "name": "4K Google TV Stick",
    "model": "4K Google TV Stick"
+  }
+ ],
+ "RMX2195L1": [
+  {
+   "brand": "realme",
+   "name": "realme C15 Qualcomm Edition",
+   "model": "RMX2195"
+  }
+ ],
+ "RED8D1": [
+  {
+   "brand": "realme",
+   "name": "realme C21-Y",
+   "model": "RMX3263"
   }
  ],
  "Valuer_V8": [

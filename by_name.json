@@ -93297,6 +93297,13 @@
    "model": "KOODA 2K TV"
   }
  ],
+ "MA4000": [
+  {
+   "brand": "Korea Telecom",
+   "device": "MA4000",
+   "model": "MA4000"
+  }
+ ],
  "Freedom": [
   {
    "brand": "Krik Krak",
@@ -93887,6 +93894,13 @@
    "brand": "Kyocera",
    "device": "901KC",
    "model": "901KC"
+  }
+ ],
+ "DIGNO BX2": [
+  {
+   "brand": "Kyocera",
+   "device": "KY21L-ST100",
+   "model": "A101KC"
   }
  ],
  "DIGNO Dual": [
@@ -125498,6 +125512,13 @@
    "model": "H10_EEA"
   }
  ],
+ "M16QF9ES": [
+  {
+   "brand": "NETGREEN",
+   "device": "M16QF9ES",
+   "model": "M16QF9ES"
+  }
+ ],
  "MW75QF6": [
   {
    "brand": "NETGREEN",
@@ -131237,6 +131258,20 @@
    "brand": "Oppo",
    "device": "OP4BFB",
    "model": "CPH2077"
+  }
+ ],
+ "CPH2083": [
+  {
+   "brand": "Oppo",
+   "device": "OP4BFB",
+   "model": "CPH2083"
+  }
+ ],
+ "CPH2145": [
+  {
+   "brand": "Oppo",
+   "device": "OP4F1BL1",
+   "model": "CPH2145"
   }
  ],
  "CPH2161": [
@@ -146671,7 +146706,7 @@
    "model": "RMX2195"
   },
   {
-   "brand": "Realme",
+   "brand": "realme",
    "device": "RMX2195L1",
    "model": "RMX2195"
   }
@@ -148475,6 +148510,13 @@
    "model": "RD16QE"
   }
  ],
+ "RD40TE": [
+  {
+   "brand": "Remdun",
+   "device": "RD40TE",
+   "model": "RD40TE"
+  }
+ ],
  "RD50T": [
   {
    "brand": "Remdun",
@@ -149389,6 +149431,13 @@
    "brand": "SITI_Playtop",
    "device": "DTC2141",
    "model": "SITIH3455N"
+  }
+ ],
+ "AI2 ATV": [
+  {
+   "brand": "SK Broadband",
+   "device": "INTEKS21SI",
+   "model": "BID-AI100"
   }
  ],
  "B tv smart": [
@@ -176362,6 +176411,13 @@
    "model": "Z20"
   }
  ],
+ "Z22": [
+  {
+   "brand": "Symphony",
+   "device": "Z22",
+   "model": "Symphony Z22"
+  }
+ ],
  "Z28": [
   {
    "brand": "Symphony",
@@ -189141,6 +189197,13 @@
    "model": "TEO7RK"
   }
  ],
+ "TEO8-A2BK32": [
+  {
+   "brand": "Thomson",
+   "device": "TEO8-A2BK32",
+   "model": "TEO8-A2BK32"
+  }
+ ],
  "TEOX102": [
   {
    "brand": "Thomson",
@@ -191134,6 +191197,11 @@
   {
    "brand": "Ulefone",
    "device": "Armor_8",
+   "model": "Armor 8"
+  },
+  {
+   "brand": "Ulefone",
+   "device": "Armor_8_R",
    "model": "Armor 8"
   }
  ],
@@ -197142,11 +197210,25 @@
    "model": "V2114"
   }
  ],
+ "V2115": [
+  {
+   "brand": "Vivo",
+   "device": "2116",
+   "model": "V2115"
+  }
+ ],
  "V2115A": [
   {
    "brand": "Vivo",
    "device": "PD2115",
    "model": "V2115A"
+  }
+ ],
+ "V2116": [
+  {
+   "brand": "Vivo",
+   "device": "2116",
+   "model": "V2116"
   }
  ],
  "V2118": [
@@ -213406,6 +213488,13 @@
    "model": "ZTE Blade A51"
   }
  ],
+ "ZTE Blade A51 Lite": [
+  {
+   "brand": "ZTE",
+   "device": "P963F50_A",
+   "model": "ZTE Blade A51 Lite"
+  }
+ ],
  "ZTE Blade A51 Lite RU": [
   {
    "brand": "ZTE",
@@ -215918,6 +216007,13 @@
    "model": "SDA-700TAB"
   }
  ],
+ "Aries_8in": [
+  {
+   "brand": "cosmos",
+   "device": "Aries_8in",
+   "model": "Aries_8in"
+  }
+ ],
  "Lynx_10in": [
   {
    "brand": "cosmos",
@@ -218211,6 +218307,13 @@
    "brand": "realme",
    "device": "YYT",
    "model": "4K Google TV Stick"
+  }
+ ],
+ "realme C21-Y": [
+  {
+   "brand": "realme",
+   "device": "RED8D1",
+   "model": "RMX3263"
   }
  ],
  "Valuer_V8": [

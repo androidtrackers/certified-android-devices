@@ -66874,6 +66874,13 @@
    "model": "KOODA 2K TV"
   }
  ],
+ "Korea Telecom": [
+  {
+   "device": "MA4000",
+   "name": "MA4000",
+   "model": "MA4000"
+  }
+ ],
  "Krik Krak": [
   {
    "device": "Freedom",
@@ -67338,6 +67345,11 @@
    "device": "901KC",
    "name": "DIGNO BX",
    "model": "901KC"
+  },
+  {
+   "device": "KY21L-ST100",
+   "name": "DIGNO BX2",
+   "model": "A101KC"
   },
   {
    "device": "WX04K",
@@ -94984,6 +94996,11 @@
    "model": "H10"
   },
   {
+   "device": "M16QF9ES",
+   "name": "M16QF9ES",
+   "model": "M16QF9ES"
+  },
+  {
    "device": "MW75QF6",
    "name": "MW75QF6",
    "model": "MW75QF6"
@@ -100077,6 +100094,16 @@
    "device": "OP4BFB",
    "name": "CPH2077",
    "model": "CPH2077"
+  },
+  {
+   "device": "OP4BFB",
+   "name": "CPH2083",
+   "model": "CPH2083"
+  },
+  {
+   "device": "OP4F1BL1",
+   "name": "CPH2145",
+   "model": "CPH2145"
   },
   {
    "device": "OP4EE8L1",
@@ -112516,11 +112543,6 @@
    "model": "RMX2195"
   },
   {
-   "device": "RMX2195L1",
-   "name": "realme C15 Qualcomm Edition",
-   "model": "RMX2195"
-  },
-  {
    "device": "RE50BF",
    "name": "realme C17",
    "model": "RMX2101"
@@ -113913,6 +113935,11 @@
    "model": "RD16QE"
   },
   {
+   "device": "RD40TE",
+   "name": "RD40TE",
+   "model": "RD40TE"
+  },
+  {
    "device": "RD50T",
    "name": "RD50T",
    "model": "RD50T"
@@ -114772,6 +114799,11 @@
   }
  ],
  "SK Broadband": [
+  {
+   "device": "INTEKS21SI",
+   "name": "AI2 ATV",
+   "model": "BID-AI100"
+  },
   {
    "device": "BHX-S100",
    "name": "B tv smart",
@@ -138688,6 +138720,11 @@
    "model": "Z20"
   },
   {
+   "device": "Z22",
+   "name": "Z22",
+   "model": "Symphony Z22"
+  },
+  {
    "device": "Z25",
    "name": "Z25",
    "model": "Z25"
@@ -150245,6 +150282,11 @@
    "model": "TEO7RK"
   },
   {
+   "device": "TEO8-A2BK32",
+   "name": "TEO8-A2BK32",
+   "model": "TEO8-A2BK32"
+  },
+  {
    "device": "TEOX102",
    "name": "TEOX102",
    "model": "TEOX102"
@@ -151997,6 +152039,11 @@
   },
   {
    "device": "Armor_8",
+   "name": "Armor 8",
+   "model": "Armor 8"
+  },
+  {
+   "device": "Armor_8_R",
    "name": "Armor 8",
    "model": "Armor 8"
   },
@@ -157022,9 +157069,19 @@
    "model": "V2114"
   },
   {
+   "device": "2116",
+   "name": "V2115",
+   "model": "V2115"
+  },
+  {
    "device": "PD2115",
    "name": "V2115A",
    "model": "V2115A"
+  },
+  {
+   "device": "2116",
+   "name": "V2116",
+   "model": "V2116"
   },
   {
    "device": "2120",
@@ -171745,6 +171802,11 @@
   },
   {
    "device": "P963F50_A",
+   "name": "ZTE Blade A51 Lite",
+   "model": "ZTE Blade A51 Lite"
+  },
+  {
+   "device": "P963F50_A",
    "name": "ZTE Blade A51 Lite RU",
    "model": "ZTE Blade A51 Lite RU"
   },
@@ -173820,6 +173882,11 @@
  ],
  "cosmos": [
   {
+   "device": "Aries_8in",
+   "name": "Aries_8in",
+   "model": "Aries_8in"
+  },
+  {
    "device": "Lynx_10in",
    "name": "Lynx_10in",
    "model": "Lynx_10in"
@@ -175885,6 +175952,16 @@
    "device": "YYT",
    "name": "4K Google TV Stick",
    "model": "4K Google TV Stick"
+  },
+  {
+   "device": "RMX2195L1",
+   "name": "realme C15 Qualcomm Edition",
+   "model": "RMX2195"
+  },
+  {
+   "device": "RED8D1",
+   "name": "realme C21-Y",
+   "model": "RMX3263"
   }
  ],
  "redfox": [
