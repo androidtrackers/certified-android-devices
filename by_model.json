@@ -931,6 +931,11 @@
   },
   {
    "brand": "BenQ",
+   "name": "730",
+   "device": "redwood"
+  },
+  {
+   "brand": "BenQ",
    "name": "E40-520",
    "device": "ikebukuro"
   },
@@ -943,11 +948,6 @@
    "brand": "BenQ",
    "name": "Smart TV",
    "device": "longshan"
-  },
-  {
-   "brand": "BenQ",
-   "name": "Smart TV",
-   "device": "redwood"
   },
   {
    "brand": "Blaupunkt",
@@ -971,6 +971,11 @@
   },
   {
    "brand": "CHiQ",
+   "name": "H7",
+   "device": "redwood"
+  },
+  {
+   "brand": "CHiQ",
    "name": "H7A",
    "device": "samseong"
   },
@@ -985,8 +990,8 @@
    "device": "longshan"
   },
   {
-   "brand": "CHiQ",
-   "name": "Smart TV",
+   "brand": "Changhong",
+   "name": "H7",
    "device": "redwood"
   },
   {
@@ -1011,11 +1016,6 @@
   },
   {
    "brand": "Changhong",
-   "name": "Smart TV",
-   "device": "redwood"
-  },
-  {
-   "brand": "Changhong",
    "name": "U50H7",
    "device": "samseong"
   },
@@ -1033,6 +1033,11 @@
    "brand": "Classpro",
    "name": "EGS42FHD",
    "device": "ikebukuro"
+  },
+  {
+   "brand": "Classpro",
+   "name": "G7N",
+   "device": "redwood"
   },
   {
    "brand": "Condor",
@@ -1201,6 +1206,11 @@
   },
   {
    "brand": "Kogan",
+   "name": "RF9220",
+   "device": "redwood"
+  },
+  {
+   "brand": "Kogan",
    "name": "Smart TV",
    "device": "longshan"
   },
@@ -1308,6 +1318,16 @@
    "brand": "Riviera",
    "name": "RLED-AND50CHG6FP",
    "device": "sindorim"
+  },
+  {
+   "brand": "SABA",
+   "name": "A11",
+   "device": "longshan"
+  },
+  {
+   "brand": "SABA",
+   "name": "A11",
+   "device": "redwood"
   },
   {
    "brand": "SHINON",
@@ -16275,6 +16295,13 @@
    "device": "M5"
   }
  ],
+ "Azumi V51": [
+  {
+   "brand": "Azumi",
+   "name": "AZUMI_V5_AC01",
+   "device": "AZUMI_V5_AC01"
+  }
+ ],
  "A4+": [
   {
    "brand": "Azumi",
@@ -29703,6 +29730,13 @@
    "brand": "Cherry Mobile",
    "name": "Superion S2+",
    "device": "Superion_S2_Plus"
+  }
+ ],
+ "Superion Tab Pro": [
+  {
+   "brand": "Cherry Mobile",
+   "name": "Superion Tab Pro",
+   "device": "Superion_Tab_Pro"
   }
  ],
  "Cherry_Mobile_Touch_HD": [
@@ -68059,6 +68093,27 @@
    "device": "HNNTH"
   }
  ],
+ "NTN-L22": [
+  {
+   "brand": "Honor",
+   "name": "HONOR 50 Lite",
+   "device": "HNNTN"
+  }
+ ],
+ "NTN-LX1": [
+  {
+   "brand": "Honor",
+   "name": "HONOR 50 Lite",
+   "device": "HNNTN"
+  }
+ ],
+ "NTN-LX3": [
+  {
+   "brand": "Honor",
+   "name": "HONOR 50 Lite",
+   "device": "HNNTN"
+  }
+ ],
  "HZ0010": [
   {
    "brand": "Hoozo",
@@ -90279,6 +90334,13 @@
    "brand": "Kingcomm",
    "name": "E550",
    "device": "E550"
+  }
+ ],
+ "KST070CH_D": [
+  {
+   "brand": "Kinstone",
+   "name": "KST070CH_D",
+   "device": "KST070CH_D"
   }
  ],
  "KST103SD": [
@@ -125030,6 +125092,11 @@
   },
   {
    "brand": "Multilaser",
+   "name": "M10 4G",
+   "device": "ML-WI0C-M10-4G"
+  },
+  {
+   "brand": "Multilaser",
    "name": "M10-4G",
    "device": "ML-JI03-M10-4G"
   }
@@ -138487,6 +138554,11 @@
   },
   {
    "brand": "Panasonic",
+   "name": "NEXT Premium Hand-Set (PHS)",
+   "device": "NEXT821"
+  },
+  {
+   "brand": "Panasonic",
    "name": "NEXT Theater-4K 24",
    "device": "NEXT821"
   },
@@ -149528,6 +149600,11 @@
    "brand": "Realme",
    "name": "真我GT",
    "device": "RMX2202CN"
+  },
+  {
+   "brand": "realme",
+   "name": "realme GT 5G",
+   "device": "RMX2202L1"
   }
  ],
  "RMX3031": [
@@ -165489,6 +165566,41 @@
    "device": "o1s"
   }
  ],
+ "SM-G9900": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 FE 5G",
+   "device": "r9q"
+  }
+ ],
+ "SM-G990B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 FE 5G",
+   "device": "r9q"
+  }
+ ],
+ "SM-G990U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 FE 5G",
+   "device": "r9q"
+  }
+ ],
+ "SM-G990W": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 FE 5G",
+   "device": "r9q"
+  }
+ ],
+ "SM-G990E": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 FE 5G",
+   "device": "r9s"
+  }
+ ],
  "SC-52B": [
   {
    "brand": "Samsung",
@@ -178588,6 +178700,13 @@
    "device": "SOG03"
   }
  ],
+ "XQ-BC42": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 1 III",
+   "device": "XQ-BC42"
+  }
+ ],
  "XQ-BC52": [
   {
    "brand": "Sony",
@@ -178847,11 +178966,25 @@
    "device": "XQ-AS72"
   }
  ],
+ "A103SO": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 5 III",
+   "device": "A103SO"
+  }
+ ],
  "SO-53B": [
   {
    "brand": "Sony",
    "name": "Xperia 5 III",
    "device": "SO-53B"
+  }
+ ],
+ "SOG05": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 5 III",
+   "device": "SOG05"
   }
  ],
  "XQ-BQ52": [
@@ -184480,6 +184613,13 @@
    "brand": "T-Mobile",
    "name": "REVVL 5G",
    "device": "Seattle_5G"
+  }
+ ],
+ "TMRVL4G": [
+  {
+   "brand": "T-Mobile",
+   "name": "REVVL V",
+   "device": "Newcastle"
   }
  ],
  "REVVL V+ 5G": [
@@ -203855,6 +203995,13 @@
    "brand": "Verizon",
    "name": "Stream TV",
    "device": "sti6220d315"
+  }
+ ],
+ "WTVIS01": [
+  {
+   "brand": "Verizon",
+   "name": "Visible Midnight",
+   "device": "WTVIS01"
   }
  ],
  "5059S": [

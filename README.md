@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-11-09
+Last sync is 2021-11-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2082,6 +2082,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|AZUMI_Daburu_A55O|Daburu_A55O|Azumi_Daburu_A55O|
 |Azumi|AZUMI_M5_AC01|AZUMI_M5_AC01|M5|
 |Azumi|AZUMI_M5_AC02|AZUMI_M5_AC02|M5|
+|Azumi|AZUMI_V5_AC01|AZUMI_V5_AC01|Azumi V51|
 |Azumi|AZUMI_V5_AC01|AZUMI_V5_AC01|V5|
 |Azumi|Azumi A4|Azumi_A4_MB|A4|
 |Azumi|Azumi A4 +|Azumi_A4_Plus|A4+|
@@ -2644,6 +2645,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Beko|Beko Android TV|shinagawa|Beko Android TV|
 |Beko|Beko Android TV|sinchon|Beko Android TV|
 |Bell Canada|Bell Streamer|sti6130d324|Bell Streamer|
+|BenQ|730|redwood|AI PONT|
 |BenQ|A3|A3|A3|
 |BenQ|A3c|BenQ_A3c|BenQ A3c|
 |BenQ|Agora 4G|Agora_4G|Agora 4G|
@@ -2682,7 +2684,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|PT2200|PT2200|PT2200|
 |BenQ|QS01|S905Y2|QS01|
 |BenQ|Smart TV|longshan|AI PONT|
-|BenQ|Smart TV|redwood|AI PONT|
 |BenQ|T3|T3|BenQ T3|
 |BenQ|T3|T3_17A|BenQ T3|
 |BenQ|T3_08|T3_17A|BenQ T3|
@@ -3493,10 +3494,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CHN TELECOM|CHN-UCAN MJ|lefhd|CHN-UCAN MJ|
 |"CHUBU TELECOMMUNICATIONS CO.|INC"|STI6130C|sti6130d353|
 |"CHUBU TELECOMMUNICATIONS CO.|INC"|STI6130d353|sti6130d353|
+|CHiQ|H7|redwood|AI PONT|
 |CHiQ|H7A|samseong|AI PONT|
 |CHiQ|M7A|samseong|AI PONT|
 |CHiQ|Smart TV|longshan|AI PONT|
-|CHiQ|Smart TV|redwood|AI PONT|
 |CIBER|B610A215|B610A215|B610A215|
 |CILICO|C6|C6|C6|
 |CILICO|C6_R_EEA|C6_R|C6|
@@ -3807,12 +3808,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Changhong|G7P|hapjeong|AI PONT PLUS|
 |Changhong|GIU6060|GIU6060|GIU6060|
 |Changhong|GIU6860|GIU6860|GIU6860|
+|Changhong|H7|redwood|AI PONT|
 |Changhong|Korea|sindorim|AI PONT|
 |Changhong|L32H7|ikebukuro|AI PONT|
 |Changhong|L32H7|ikebukuro|CHiQ AI Center|
 |Changhong|L42G6F|ikebukuro|AI PONT|
 |Changhong|Smart TV|longshan|AI PONT|
-|Changhong|Smart TV|redwood|AI PONT|
 |Changhong|U50H7|samseong|AI PONT|
 |Changhong|U50H7|samseong|CHiQ AI Center|
 |Changhong|U58H7|sindorim|AI PONT|
@@ -3955,6 +3956,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cherry Mobile|Superion S1 DTV|A800|Superion S1 DTV|
 |Cherry Mobile|Superion S2|Superion_S2|Superion_S2|
 |Cherry Mobile|Superion S2+|Superion_S2_Plus|Superion_S2_Plus|
+|Cherry Mobile|Superion Tab Pro|Superion_Tab_Pro|Superion Tab Pro|
 |Cherry Mobile|Touch HD|Touch_HD|Cherry_Mobile_Touch_HD|
 |Cherry Mobile|X1090|X1090|X1090|
 |Cherry Mobile|X1100|X1100|X1100|
@@ -4018,6 +4020,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Claro|SEI810CPR|SEI810CPR|Claro STB|
 |Classpro|CGS55UHD|samseong|AI PONT|
 |Classpro|EGS42FHD|ikebukuro|AI PONT|
+|Classpro|G7N|redwood|AI PONT|
 |Clementoni|CLEMPAD_2018|CLEMPAD_2018|CLEMPAD_2018|
 |Clementoni|Clempad 4.4 Basic Special|Clempad2_special|Clempad2_special|
 |Clementoni|Clempad 4.4 Plus|Clempad2_plus|Clempad2_plus|
@@ -9527,6 +9530,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|Thor VM3A|VM3A-L0-N|VM3A|
 |Honeywell|Thor VM3A|VM3A-L0-P|VM3A|
 |Honor|HONOR 50|HNNTH|NTH-NX9|
+|Honor|HONOR 50 Lite|HNNTN|NTN-L22|
+|Honor|HONOR 50 Lite|HNNTN|NTN-LX1|
+|Honor|HONOR 50 Lite|HNNTN|NTN-LX3|
 |Hoozo|HZ0010|HZ0010|HZ0010|
 |Hoozo|HZ0010J|HZ0010J|HZ0010J|
 |Hoozo|HZ0011|HZ0011|HZ0011|
@@ -12832,6 +12838,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kinetic|RSTV-A4K-16|DV8219|RSTV-A4K-16|
 |Kingcomm|C500|C500|Kingcomm C500|
 |Kingcomm|E550|E550|Kingcomm E550|
+|Kinstone|KST070CH_D|KST070CH_D|KST070CH_D|
 |Kinstone|KST103SD|KST103SD|KST103SD|
 |Kinstone|SA070|Kinstone_SA070|KJ-YUBI|
 |Kinstone|SA070|Kinstone_SA070|SA070|
@@ -12946,6 +12953,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kogan|Kogan Agora XI|AGORA_XI|AGORA XI|
 |Kogan|Kogan Agora XS|Kogan_Agora_XS|Agora XS|
 |Kogan|Kogan SmarterTV|hanyang|Kogan SmarterTV|
+|Kogan|RF9220|redwood|AI PONT|
 |Kogan|Smart TV|longshan|AI PONT|
 |Komu|K22|K22|K22|
 |Konrow|CITY|CITY|CITY|
@@ -18081,6 +18089,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|Kidpad-3G|Kidpad-3G|Kidpad-3G|
 |Multilaser|M10 3G|ML-JI16-M10-3G|M10-3G|
 |Multilaser|M10 4G|ML-JI0A-M10-4G|M10-4G|
+|Multilaser|M10 4G|ML-WI0C-M10-4G|M10-4G|
 |Multilaser|M10 4G|ML_JI0B_M10_4G|M10_4G|
 |Multilaser|M10 4G PRO|ML_JI0B_M10_4G_PRO|M10_4G_PRO|
 |Multilaser|M10 4G PRO|ML_JI0F_M10_4G_PRO|M10_4G_PRO|
@@ -20254,6 +20263,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|NEXT Elite-4K 16|NEXT820|NEXT|
 |Panasonic|NEXT Elite-4K 24|NEXT820|NEXT|
 |Panasonic|NEXT Elite-4K 43|NEXT820|NEXT|
+|Panasonic|NEXT Premium Hand-Set (PHS)|NEXT821|NEXT|
 |Panasonic|NEXT Theater-4K 24|NEXT821|NEXT|
 |Panasonic|NEXT_WSCUwscu|NEXT820|NEXT|
 |Panasonic|P-01D|pana2_1|P-01D|
@@ -22268,6 +22278,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |S-tell|P760|P760|P760|
 |S-tell|P771|S-TELL|P771|
 |S-tell|P850|P850|P850|
+|SABA|A11|longshan|AI PONT|
+|SABA|A11|redwood|AI PONT|
 |SAELITE|MD1063B|MD1063B|MD1063B|
 |SAGI|E5501|E5501|E5501|
 |SAIET|STS502|STS502|STS502|
@@ -24208,6 +24220,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S21 5G|o1q|SM-G991W|
 |Samsung|Galaxy S21 5G|o1s|SM-G991B|
 |Samsung|Galaxy S21 5G|o1s|SM-G991N|
+|Samsung|Galaxy S21 FE 5G|r9q|SM-G9900|
+|Samsung|Galaxy S21 FE 5G|r9q|SM-G990B|
+|Samsung|Galaxy S21 FE 5G|r9q|SM-G990U|
+|Samsung|Galaxy S21 FE 5G|r9q|SM-G990W|
+|Samsung|Galaxy S21 FE 5G|r9s|SM-G990E|
 |Samsung|Galaxy S21 Ultra 5G|SC-52B|SC-52B|
 |Samsung|Galaxy S21 Ultra 5G|p3q|SM-G9980|
 |Samsung|Galaxy S21 Ultra 5G|p3q|SM-G998U|
@@ -26154,6 +26171,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 1 III|A101SO|A101SO|
 |Sony|Xperia 1 III|SO-51B|SO-51B|
 |Sony|Xperia 1 III|SOG03|SOG03|
+|Sony|Xperia 1 III|XQ-BC42|XQ-BC42|
 |Sony|Xperia 1 III|XQ-BC52|XQ-BC52|
 |Sony|Xperia 1 III|XQ-BC62|XQ-BC62|
 |Sony|Xperia 1 III|XQ-BC72|XQ-BC72|
@@ -26191,7 +26209,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 5 II|XQ-AS52|XQ-AS52|
 |Sony|Xperia 5 II|XQ-AS62|XQ-AS62|
 |Sony|Xperia 5 II|XQ-AS72|XQ-AS72|
+|Sony|Xperia 5 III|A103SO|A103SO|
 |Sony|Xperia 5 III|SO-53B|SO-53B|
+|Sony|Xperia 5 III|SOG05|SOG05|
 |Sony|Xperia 5 III|XQ-BQ52|XQ-BQ52|
 |Sony|Xperia 5 III|XQ-BQ72|XQ-BQ72|
 |Sony|Xperia 8|902SO|902SO|
@@ -27089,6 +27109,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |T-Mobile|REVVL 4+|Porto|5062Z|
 |T-Mobile|REVVL 5G|Seattle_5G|T790W|
 |T-Mobile|REVVL 5G|Seattle_5G|T790Z|
+|T-Mobile|REVVL V|Newcastle|TMRVL4G|
 |T-Mobile|REVVL V+ 5G|Sprout|REVVL V+ 5G|
 |T-Mobile|REVVLRY|channel|REVVLRY|
 |T-Mobile|REVVLRY|channel|REVVLry|
@@ -30069,6 +30090,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Verizon|Stream TV|JS8V|Stream TV|
 |Verizon|Stream TV|f354|Stream TV|
 |Verizon|Stream TV|sti6220d315|Stream TV|
+|Verizon|Visible Midnight|WTVIS01|WTVIS01|
 |Verizon Wireless|5059S|U50PLUS|5059S|
 |Verizon Wireless|Ellipsis 10|QTAIR7|QTAIR7|
 |Verizon Wireless|Ellipsis 7|QMV7A|QMV7A|
@@ -34288,6 +34310,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|4K Google TV Stick|YYT|4K Google TV Stick|
 |realme|realme C15 Qualcomm Edition|RMX2195L1|RMX2195|
 |realme|realme C21-Y|RED8D1|RMX3263|
+|realme|realme GT 5G|RMX2202L1|RMX2202|
 |redfox|Valuer_V8|Valuer_V8|Valuer_V8|
 |redfox|Wizpad_Valuer_V8|wvv832|Wizpad_Valuer_V8|
 |rephone|rephone|rephone|2000_000170_00|

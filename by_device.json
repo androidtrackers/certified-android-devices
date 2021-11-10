@@ -18217,6 +18217,11 @@
   {
    "brand": "Azumi",
    "name": "AZUMI_V5_AC01",
+   "model": "Azumi V51"
+  },
+  {
+   "brand": "Azumi",
+   "name": "AZUMI_V5_AC01",
    "model": "V5"
   }
  ],
@@ -22265,6 +22270,43 @@
    "model": "Bell Streamer"
   }
  ],
+ "redwood": [
+  {
+   "brand": "BenQ",
+   "name": "730",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "CHiQ",
+   "name": "H7",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Changhong",
+   "name": "H7",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Classpro",
+   "name": "G7N",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "HP",
+   "name": "7 G2",
+   "model": "HP 7 G2"
+  },
+  {
+   "brand": "Kogan",
+   "name": "RF9220",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "SABA",
+   "name": "A11",
+   "model": "AI PONT"
+  }
+ ],
  "A3": [
   {
    "brand": "BenQ",
@@ -22557,28 +22599,11 @@
    "brand": "Kogan",
    "name": "Smart TV",
    "model": "AI PONT"
-  }
- ],
- "redwood": [
-  {
-   "brand": "BenQ",
-   "name": "Smart TV",
-   "model": "AI PONT"
   },
   {
-   "brand": "CHiQ",
-   "name": "Smart TV",
+   "brand": "SABA",
+   "name": "A11",
    "model": "AI PONT"
-  },
-  {
-   "brand": "Changhong",
-   "name": "Smart TV",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "HP",
-   "name": "7 G2",
-   "model": "HP 7 G2"
   }
  ],
  "T3": [
@@ -31541,6 +31566,13 @@
    "brand": "Cherry Mobile",
    "name": "Superion S2+",
    "model": "Superion_S2_Plus"
+  }
+ ],
+ "Superion_Tab_Pro": [
+  {
+   "brand": "Cherry Mobile",
+   "name": "Superion Tab Pro",
+   "model": "Superion Tab Pro"
   }
  ],
  "Touch_HD": [
@@ -68903,6 +68935,23 @@
    "model": "NTH-NX9"
   }
  ],
+ "HNNTN": [
+  {
+   "brand": "Honor",
+   "name": "HONOR 50 Lite",
+   "model": "NTN-L22"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR 50 Lite",
+   "model": "NTN-LX1"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR 50 Lite",
+   "model": "NTN-LX3"
+  }
+ ],
  "HZ0010": [
   {
    "brand": "Hoozo",
@@ -89035,6 +89084,13 @@
    "brand": "Kingcomm",
    "name": "E550",
    "model": "Kingcomm E550"
+  }
+ ],
+ "KST070CH_D": [
+  {
+   "brand": "Kinstone",
+   "name": "KST070CH_D",
+   "model": "KST070CH_D"
   }
  ],
  "KST103SD": [
@@ -122313,6 +122369,13 @@
    "model": "M10-4G"
   }
  ],
+ "ML-WI0C-M10-4G": [
+  {
+   "brand": "Multilaser",
+   "name": "M10 4G",
+   "model": "M10-4G"
+  }
+ ],
  "ML_JI0B_M10_4G": [
   {
    "brand": "Multilaser",
@@ -135532,6 +135595,11 @@
   },
   {
    "brand": "Panasonic",
+   "name": "NEXT Premium Hand-Set (PHS)",
+   "model": "NEXT"
+  },
+  {
+   "brand": "Panasonic",
    "name": "NEXT Theater-4K 24",
    "model": "NEXT"
   }
@@ -146075,6 +146143,11 @@
   },
   {
    "brand": "Realme",
+   "name": "realme GT 5G",
+   "model": "RMX2202"
+  },
+  {
+   "brand": "realme",
    "name": "realme GT 5G",
    "model": "RMX2202"
   }
@@ -160785,6 +160858,35 @@
    "model": "SM-G991N"
   }
  ],
+ "r9q": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 FE 5G",
+   "model": "SM-G9900"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 FE 5G",
+   "model": "SM-G990B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 FE 5G",
+   "model": "SM-G990U"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 FE 5G",
+   "model": "SM-G990W"
+  }
+ ],
+ "r9s": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 FE 5G",
+   "model": "SM-G990E"
+  }
+ ],
  "SC-52B": [
   {
    "brand": "Samsung",
@@ -173342,6 +173444,13 @@
    "model": "SOG03"
   }
  ],
+ "XQ-BC42": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 1 III",
+   "model": "XQ-BC42"
+  }
+ ],
  "XQ-BC52": [
   {
    "brand": "Sony",
@@ -173601,11 +173710,25 @@
    "model": "XQ-AS72"
   }
  ],
+ "A103SO": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 5 III",
+   "model": "A103SO"
+  }
+ ],
  "SO-53B": [
   {
    "brand": "Sony",
    "name": "Xperia 5 III",
    "model": "SO-53B"
+  }
+ ],
+ "SOG05": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 5 III",
+   "model": "SOG05"
   }
  ],
  "XQ-BQ52": [
@@ -179270,6 +179393,13 @@
    "brand": "T-Mobile",
    "name": "REVVL 5G",
    "model": "T790Z"
+  }
+ ],
+ "Newcastle": [
+  {
+   "brand": "T-Mobile",
+   "name": "REVVL V",
+   "model": "TMRVL4G"
   }
  ],
  "Sprout": [
@@ -195916,6 +196046,13 @@
    "brand": "Verizon",
    "name": "Stream TV",
    "model": "Stream TV"
+  }
+ ],
+ "WTVIS01": [
+  {
+   "brand": "Verizon",
+   "name": "Visible Midnight",
+   "model": "WTVIS01"
   }
  ],
  "U50PLUS": [
