@@ -56506,6 +56506,13 @@
    "model": "dedede"
   }
  ],
+ "keeby_cheets": [
+  {
+   "brand": "Google",
+   "name": "Intel Jasper Lake Chromebook",
+   "model": "keeby"
+  }
+ ],
  "nami_cheets": [
   {
    "brand": "Google",
@@ -191226,6 +191233,23 @@
    "model": "Telenor K530"
   }
  ],
+ "MediaBox_B866V2": [
+  {
+   "brand": "Telenor",
+   "name": "MediaBox",
+   "model": "MediaBox"
+  },
+  {
+   "brand": "Viettel",
+   "name": "B866V2",
+   "model": "B866V2"
+  },
+  {
+   "brand": "Vision",
+   "name": "B866V2",
+   "model": "B866V2"
+  }
+ ],
  "Telenor_N940": [
   {
    "brand": "Telenor",
@@ -197851,18 +197875,6 @@
    "brand": "Vida",
    "name": "i401",
    "model": "VIDA-i401"
-  }
- ],
- "MediaBox_B866V2": [
-  {
-   "brand": "Viettel",
-   "name": "B866V2",
-   "model": "B866V2"
-  },
-  {
-   "brand": "Vision",
-   "name": "B866V2",
-   "model": "B866V2"
   }
  ],
  "V8802": [

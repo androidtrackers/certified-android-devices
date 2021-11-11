@@ -38588,6 +38588,11 @@
    "model": "dedede"
   },
   {
+   "device": "keeby_cheets",
+   "name": "Intel Jasper Lake Chromebook",
+   "model": "keeby"
+  },
+  {
    "device": "nami_cheets",
    "name": "Intel Kaby Lake U Chromebook",
    "model": "nami"
@@ -149941,6 +149946,11 @@
    "device": "Telenor_K530",
    "name": "K530",
    "model": "Telenor K530"
+  },
+  {
+   "device": "MediaBox_B866V2",
+   "name": "MediaBox",
+   "model": "MediaBox"
   },
   {
    "device": "Telenor_N940",

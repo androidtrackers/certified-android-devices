@@ -60694,6 +60694,11 @@
    "brand": "Google",
    "device": "dedede_cheets",
    "model": "dedede"
+  },
+  {
+   "brand": "Google",
+   "device": "keeby_cheets",
+   "model": "keeby"
   }
  ],
  "Intel Kaby Lake U Chromebook": [
@@ -188783,6 +188788,13 @@
    "brand": "Telenor",
    "device": "Telenor_K530",
    "model": "Telenor K530"
+  }
+ ],
+ "MediaBox": [
+  {
+   "brand": "Telenor",
+   "device": "MediaBox_B866V2",
+   "model": "MediaBox"
   }
  ],
  "N940": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-11-10
+Last sync is 2021-11-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7426,6 +7426,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Intel Comet Lake U Chromebook|hatch_cheets|hatch|
 |Google|Intel Gemini Lake Chromebook|octopus_cheets|octopus|
 |Google|Intel Jasper Lake Chromebook|dedede_cheets|dedede|
+|Google|Intel Jasper Lake Chromebook|keeby_cheets|keeby|
 |Google|Intel Kaby Lake U Chromebook|nami_cheets|nami|
 |Google|Intel Tiger Lake Chromebook|volteer_cheets|volteer|
 |Google|Mediatek MT8173 Chromebook|jacuzzi_cheets|jacuzzi|
@@ -29245,6 +29246,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telenor|Infinity_e|Telenor_Infinity_e|Infinity_e|
 |Telenor|Infinity_i|TELENOR_Infinity_i|Infinity i|
 |Telenor|K530|Telenor_K530|Telenor K530|
+|Telenor|MediaBox|MediaBox_B866V2|MediaBox|
 |Telenor|N940|Telenor_N940|Telenor N940|
 |Telenor|Smart|Telenor_Smart|Telenor_Smart|
 |Telenor|Smart II|SmartII|SmartII|

@@ -54335,6 +54335,13 @@
    "device": "dedede_cheets"
   }
  ],
+ "keeby": [
+  {
+   "brand": "Google",
+   "name": "Intel Jasper Lake Chromebook",
+   "device": "keeby_cheets"
+  }
+ ],
  "nami": [
   {
    "brand": "Google",
@@ -199007,6 +199014,13 @@
    "brand": "Telenor",
    "name": "K530",
    "device": "Telenor_K530"
+  }
+ ],
+ "MediaBox": [
+  {
+   "brand": "Telenor",
+   "name": "MediaBox",
+   "device": "MediaBox_B866V2"
   }
  ],
  "Telenor N940": [
