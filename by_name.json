@@ -7219,6 +7219,13 @@
    "model": "AV7"
   }
  ],
+ "DV8547_Avatel": [
+  {
+   "brand": "AVATEL",
+   "device": "DV8547-KSA",
+   "model": "DV8547_Avatel"
+  }
+ ],
  "ActionKids3.0": [
   {
    "brand": "AVH San Luis S.A.",
@@ -9691,6 +9698,11 @@
    "brand": "Acer",
    "device": "Walle",
    "model": "ET-108-11A"
+  },
+  {
+   "brand": "Acer",
+   "device": "Walle",
+   "model": "ET-108-11AR"
   }
  ],
  "Z110": [
@@ -10670,6 +10682,13 @@
    "brand": "Advan digital",
    "device": "ADVAN_TAB_Gallilea",
    "model": "8003"
+  }
+ ],
+ "TAB VX": [
+  {
+   "brand": "Advan digital",
+   "device": "ADVAN_TAB_VX",
+   "model": "1013"
   }
  ],
  "TAB_10": [
@@ -94737,6 +94756,13 @@
    "model": "ACE_I"
   }
  ],
+ "IPF10": [
+  {
+   "brand": "LEGEND",
+   "device": "IPF10",
+   "model": "IPF10"
+  }
+ ],
  "J10PRO": [
   {
    "brand": "LEGEND",
@@ -111601,6 +111627,13 @@
    "brand": "Veidoo",
    "device": "T7",
    "model": "T7"
+  }
+ ],
+ "MG715": [
+  {
+   "brand": "MAGNUMTECH",
+   "device": "MG715",
+   "model": "MG715"
   }
  ],
  "Pad_M10": [
@@ -177072,6 +177105,11 @@
    "brand": "TCL",
    "device": "BeyondTV4",
    "model": "Smart TV"
+  },
+  {
+   "brand": "TCL",
+   "device": "BeyondTV4",
+   "model": "Smart TV Pro"
   }
  ],
  "G05_4K_US": [
@@ -177172,6 +177210,13 @@
    "brand": "TCL",
    "device": "A5A_INFINI",
    "model": "5186D"
+  }
+ ],
+ "TAB 10s 2022": [
+  {
+   "brand": "TCL",
+   "device": "Odin2",
+   "model": "9081X"
   }
  ],
  "TCL 10 5G": [

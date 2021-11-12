@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-11-11
+Last sync is 2021-11-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -176,6 +176,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AUZMAI|Mete8_EEA|Mete8_EEA|Mete8_EEA|
 |AV|AV10|RCT6203W46|AV10|
 |AV|AV7|RCT6773W22|AV7|
+|AVATEL|DV8547_Avatel|DV8547-KSA|DV8547_Avatel|
 |AVH San Luis S.A.|ActionKids3.0|ActionKids3_0|ActionKids3.0|
 |AVH San Luis S.A.|Actionkids 3.0|Action_Kids_3|Action_Kids_3.0|
 |AVH San Luis S.A.|Excer 10PRO|Excer_10_PRO|Excer_10_PRO|
@@ -465,6 +466,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|TPA60W|maya|TPA60W|
 |Acer|Tab 7|td070va1|TD070VA1|
 |Acer|Walle|Walle|ET-108-11A|
+|Acer|Walle|Walle|ET-108-11AR|
 |Acer|Z110|Z1|Z110|
 |Acer|Z120|Z2|Z120|
 |Aceson|R726|R726|R726|
@@ -547,6 +549,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advan digital|TAB 7|ADVAN_TAB_7|7039|
 |Advan digital|TAB 8|ADVAN_TAB_8|8002|
 |Advan digital|TAB Gallilea|ADVAN_TAB_Gallilea|8003|
+|Advan digital|TAB VX|ADVAN_TAB_VX|1013|
 |Advan digital|TAB_10|ADVAN_TAB_10|1010|
 |Advan digital|X7 Max|X7_Max|7301|
 |Advan digital|X7 Pro|ADVAN_7008|7008|
@@ -13199,6 +13202,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LBQ (UK)|LbQ-F10v2|LbQ-F10v2|K102L|
 |LBQ (UK)|LbQ_F8v2|LbQ_F8v2|LbQ-F8v2|
 |LEGEND|ACE_I|ACE_I|ACE_I|
+|LEGEND|IPF10|IPF10|IPF10|
 |LEGEND|J10PRO|J10PRO|J10PRO|
 |LEGEND|NEBULAE|NEBULAE|NEBULAE|
 |LEGEND|X701|LEGEND_X701|X701|
@@ -16195,6 +16199,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MAG|MAG425A|MAG425A|MAG425A|
 |MAG|MAG500A|MAG500A|MAG500A|
 |MAGCH|T7|T7_Pro|T7|
+|MAGNUMTECH|MG715|MG715|MG715|
 |MARVUE|Pad_M10|Pad_M10|Pad_M10|
 |MARVUE|Pad_M11_EEA|Pad_M11|Pad_M11|
 |MARVUE|Pad_M11_EEA|Pad_M11_EEA|Pad_M11_EEA|
@@ -27147,6 +27152,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|C9|A3A_XL_4G|5199I|
 |TCL|G03_4K_US|BeyondTV4|Smart TV Pro|
 |TCL|G03_4K_US_NF|BeyondTV4|Smart TV|
+|TCL|G03_4K_US_NF|BeyondTV4|Smart TV Pro|
 |TCL|G05_4K_US|G05|Smart TV Pro|
 |TCL|GO5c|U3A_PLUS_4G|5033E|
 |TCL|HotelTV|HotelTV|WelcomeTV|
@@ -27165,6 +27171,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|Smartphone|A5A_INFINI|5086D|
 |TCL|Smartphone|A5A_INFINI|5186D|
 |TCL|South America|tcl|Percee TV|
+|TCL|TAB 10s 2022|Odin2|9081X|
 |TCL|TCL 10 5G|Seattle|T790B|
 |TCL|TCL 10 5G|Seattle|T790H|
 |TCL|TCL 10 5G|Seattle|T790Y|

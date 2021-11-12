@@ -2600,6 +2600,13 @@
    "model": "i7"
   }
  ],
+ "DV8547-KSA": [
+  {
+   "brand": "AVATEL",
+   "name": "DV8547_Avatel",
+   "model": "DV8547_Avatel"
+  }
+ ],
  "ActionKids3_0": [
   {
    "brand": "AVH San Luis S.A.",
@@ -5327,6 +5334,11 @@
    "brand": "Acer",
    "name": "Walle",
    "model": "ET-108-11A"
+  },
+  {
+   "brand": "Acer",
+   "name": "Walle",
+   "model": "ET-108-11AR"
   }
  ],
  "Z1": [
@@ -6347,6 +6359,13 @@
    "brand": "Advan digital",
    "name": "TAB Gallilea",
    "model": "8003"
+  }
+ ],
+ "ADVAN_TAB_VX": [
+  {
+   "brand": "Advan digital",
+   "name": "TAB VX",
+   "model": "1013"
   }
  ],
  "X7_Max": [
@@ -91525,6 +91544,13 @@
    "model": "ACE_I"
   }
  ],
+ "IPF10": [
+  {
+   "brand": "LEGEND",
+   "name": "IPF10",
+   "model": "IPF10"
+  }
+ ],
  "J10PRO": [
   {
    "brand": "LEGEND",
@@ -110241,6 +110267,13 @@
    "brand": "MAGCH",
    "name": "T7",
    "model": "T7"
+  }
+ ],
+ "MG715": [
+  {
+   "brand": "MAGNUMTECH",
+   "name": "MG715",
+   "model": "MG715"
   }
  ],
  "Pad_M10": [
@@ -179597,6 +179630,11 @@
   },
   {
    "brand": "TCL",
+   "name": "G03_4K_US_NF",
+   "model": "Smart TV Pro"
+  },
+  {
+   "brand": "TCL",
    "name": "Smart TV",
    "model": "Smart TV"
   }
@@ -179860,6 +179898,13 @@
    "brand": "TCL",
    "name": "South America",
    "model": "Percee TV"
+  }
+ ],
+ "Odin2": [
+  {
+   "brand": "TCL",
+   "name": "TAB 10s 2022",
+   "model": "9081X"
   }
  ],
  "Seattle": [

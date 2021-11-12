@@ -1962,6 +1962,13 @@
    "device": "RCT6773W22"
   }
  ],
+ "DV8547_Avatel": [
+  {
+   "brand": "AVATEL",
+   "name": "DV8547_Avatel",
+   "device": "DV8547-KSA"
+  }
+ ],
  "ActionKids3.0": [
   {
    "brand": "AVH San Luis S.A.",
@@ -4486,6 +4493,13 @@
    "device": "Walle"
   }
  ],
+ "ET-108-11AR": [
+  {
+   "brand": "Acer",
+   "name": "Walle",
+   "device": "Walle"
+  }
+ ],
  "Z110": [
   {
    "brand": "Acer",
@@ -5170,6 +5184,13 @@
    "brand": "Advan digital",
    "name": "TAB Gallilea",
    "device": "ADVAN_TAB_Gallilea"
+  }
+ ],
+ "1013": [
+  {
+   "brand": "Advan digital",
+   "name": "TAB VX",
+   "device": "ADVAN_TAB_VX"
   }
  ],
  "7301": [
@@ -92803,6 +92824,13 @@
    "device": "ACE_I"
   }
  ],
+ "IPF10": [
+  {
+   "brand": "LEGEND",
+   "name": "IPF10",
+   "device": "IPF10"
+  }
+ ],
  "J10PRO": [
   {
    "brand": "LEGEND",
@@ -112689,6 +112717,13 @@
    "brand": "MAG",
    "name": "MAG500A",
    "device": "MAG500A"
+  }
+ ],
+ "MG715": [
+  {
+   "brand": "MAGNUMTECH",
+   "name": "MG715",
+   "device": "MG715"
   }
  ],
  "Pad_M10": [
@@ -184831,6 +184866,11 @@
   },
   {
    "brand": "TCL",
+   "name": "G03_4K_US_NF",
+   "device": "BeyondTV4"
+  },
+  {
+   "brand": "TCL",
    "name": "G05_4K_US",
    "device": "G05"
   },
@@ -184946,6 +184986,18 @@
    "brand": "TCL",
    "name": "Smartphone",
    "device": "A5A_INFINI"
+  }
+ ],
+ "9081X": [
+  {
+   "brand": "TCL",
+   "name": "TAB 10s 2022",
+   "device": "Odin2"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 10s",
+   "device": "Odin"
   }
  ],
  "T790B": [
@@ -185596,13 +185648,6 @@
    "brand": "TCL",
    "name": "TCL TAB 10s",
    "device": "Aquaman_10_Pro"
-  }
- ],
- "9081X": [
-  {
-   "brand": "TCL",
-   "name": "TCL TAB 10s",
-   "device": "Odin"
   }
  ],
  "9080G": [

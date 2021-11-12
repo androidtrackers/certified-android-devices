@@ -960,6 +960,13 @@
    "model": "AV7"
   }
  ],
+ "AVATEL": [
+  {
+   "device": "DV8547-KSA",
+   "name": "DV8547_Avatel",
+   "model": "DV8547_Avatel"
+  }
+ ],
  "AVH San Luis S.A.": [
   {
    "device": "ActionKids3_0",
@@ -2435,6 +2442,11 @@
    "model": "ET-108-11A"
   },
   {
+   "device": "Walle",
+   "name": "Walle",
+   "model": "ET-108-11AR"
+  },
+  {
    "device": "Z1",
    "name": "Z110",
    "model": "Z110"
@@ -2859,6 +2871,11 @@
    "device": "ADVAN_TAB_Gallilea",
    "name": "TAB Gallilea",
    "model": "8003"
+  },
+  {
+   "device": "ADVAN_TAB_VX",
+   "name": "TAB VX",
+   "model": "1013"
   },
   {
    "device": "ADVAN_TAB_10",
@@ -68011,6 +68028,11 @@
    "model": "ACE_I"
   },
   {
+   "device": "IPF10",
+   "name": "IPF10",
+   "model": "IPF10"
+  },
+  {
    "device": "J10PRO",
    "name": "J10PRO",
    "model": "J10PRO"
@@ -83147,6 +83169,13 @@
    "device": "T7_Pro",
    "name": "T7",
    "model": "T7"
+  }
+ ],
+ "MAGNUMTECH": [
+  {
+   "device": "MG715",
+   "name": "MG715",
+   "model": "MG715"
   }
  ],
  "MARVUE": [
@@ -139267,6 +139296,11 @@
    "model": "Smart TV"
   },
   {
+   "device": "BeyondTV4",
+   "name": "G03_4K_US_NF",
+   "model": "Smart TV Pro"
+  },
+  {
    "device": "G05",
    "name": "G05_4K_US",
    "model": "Smart TV Pro"
@@ -139355,6 +139389,11 @@
    "device": "tcl",
    "name": "South America",
    "model": "Percee TV"
+  },
+  {
+   "device": "Odin2",
+   "name": "TAB 10s 2022",
+   "model": "9081X"
   },
   {
    "device": "Seattle",
