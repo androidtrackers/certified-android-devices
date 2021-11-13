@@ -91154,6 +91154,11 @@
    "model": "XT1225"
   },
   {
+   "device": "mototabg70",
+   "name": "Moto Tab g70",
+   "model": "moto tab g70"
+  },
+  {
    "device": "quark_umts",
    "name": "Moto Turbo",
    "model": "XT1225"
@@ -156405,6 +156410,11 @@
    "model": "I2012"
   },
   {
+   "device": "2017",
+   "name": "I2017",
+   "model": "I2017"
+  },
+  {
    "device": "2018",
    "name": "I2018",
    "model": "I2018"
@@ -158727,6 +158737,11 @@
    "model": "Jax X"
   },
   {
+   "device": "MAGNET_G90",
+   "name": "MAGNET_G90",
+   "model": "MAGNET_G90"
+  },
+  {
    "device": "Magnet_M1_A7",
    "name": "Magnet M1_A7",
    "model": "Magnet M1"
@@ -158980,6 +158995,11 @@
    "device": "Zun_N",
    "name": "Zun_N",
    "model": "Zun_N"
+  },
+  {
+   "device": "iMart_MAX",
+   "name": "iMart_MAX",
+   "model": "iMart_MAX"
   },
   {
    "device": "iMart_Pro",

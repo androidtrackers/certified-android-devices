@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-11-12
+Last sync is 2021-11-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17742,6 +17742,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|Moto G4 Play|harpia|XT1609|
 |Motorola|Moto G4 Play|harpia_t|Moto G Play|
 |Motorola|Moto MAXX|quark_umts|XT1225|
+|Motorola|Moto Tab g70|mototabg70|moto tab g70|
 |Motorola|Moto Turbo|quark_umts|XT1225|
 |Motorola|Moto X (1st Gen)|ghost|XT1049|
 |Motorola|Moto X (1st Gen)|ghost|XT1050|
@@ -30471,6 +30472,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|I2009|2009|I2009|
 |Vivo|I2011|2011|I2011|
 |Vivo|I2012|2012|I2012|
+|Vivo|I2017|2017|I2017|
 |Vivo|I2018|2018|I2018|
 |Vivo|NEX A|PD1806B|vivo NEX A|
 |Vivo|PD1304DL|PD1304DL|vivo Y13iL|
@@ -30931,6 +30933,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vonino|Jax_N|JAX_N|JAX_N|
 |Vonino|Jax_S|Jax_S_A7|Jax_S_A7|
 |Vonino|Jax_X_TM|JAX|Jax X|
+|Vonino|MAGNET_G90|MAGNET_G90|MAGNET_G90|
 |Vonino|Magnet M1_A7|Magnet_M1_A7|Magnet M1|
 |Vonino|Magnet_G10|Magnet_G10|Magnet_G10|
 |Vonino|Magnet_G20|Magnet_G50|Magnet_G20|
@@ -30982,6 +30985,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vonino|Zun X A6|Zun_X|Zun X|
 |Vonino|Zun XS|Zun_XS|Zun XS|
 |Vonino|Zun_N|Zun_N|Zun_N|
+|Vonino|iMart_MAX|iMart_MAX|iMart_MAX|
 |Vonino|iMart_Pro|iMart_Pro|iMart_Pro|
 |Vonino|jax_S|Jax_S|Jax_S|
 |Voo|DV8220|DV8220|DV8220|

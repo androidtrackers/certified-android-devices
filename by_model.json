@@ -123050,6 +123050,13 @@
    "device": "quark_umts"
   }
  ],
+ "moto tab g70": [
+  {
+   "brand": "Motorola",
+   "name": "Moto Tab g70",
+   "device": "mototabg70"
+  }
+ ],
  "XT1049": [
   {
    "brand": "Motorola",
@@ -206543,6 +206550,13 @@
    "device": "2012"
   }
  ],
+ "I2017": [
+  {
+   "brand": "Vivo",
+   "name": "I2017",
+   "device": "2017"
+  }
+ ],
  "I2018": [
   {
    "brand": "Vivo",
@@ -209588,6 +209602,13 @@
    "device": "Jax_S_A7"
   }
  ],
+ "MAGNET_G90": [
+  {
+   "brand": "Vonino",
+   "name": "MAGNET_G90",
+   "device": "MAGNET_G90"
+  }
+ ],
  "Magnet M1": [
   {
    "brand": "Vonino",
@@ -209925,6 +209946,13 @@
    "brand": "Vonino",
    "name": "Zun_N",
    "device": "Zun_N"
+  }
+ ],
+ "iMart_MAX": [
+  {
+   "brand": "Vonino",
+   "name": "iMart_MAX",
+   "device": "iMart_MAX"
   }
  ],
  "iMart_Pro": [
