@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-11-13
+Last sync is 2021-11-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -21731,6 +21731,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|DRP29101QT|DRP29101QT|DRP29101QT|
 |RCA|Gemini 10 pro|RCT6A03W13FU|RCT6A03W13FU|
 |RCA|HKC|gangbyeon|HKC 4K AI Smart TV|
+|RCA|HKC|mateo|HKC 2K SA Smart TV|
 |RCA|Juno 10|RCT6A03W12EU|RCT6A03W12EU|
 |RCA|Mercury 7|CT9973W43M|CT9973W43M|
 |RCA|Mexico|yeongdeungpo|AiPlus4K|
