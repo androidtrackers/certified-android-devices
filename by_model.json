@@ -792,6 +792,13 @@
    "device": "yeongdeungpo"
   }
  ],
+ "AGM Glory G1": [
+  {
+   "brand": "AGM Mobile",
+   "name": "AGM Glory G1",
+   "device": "AGM_Glory_G1"
+  }
+ ],
  "AGM_H3": [
   {
    "brand": "AGM Mobile",
@@ -7995,6 +8002,13 @@
    "brand": "Allducube",
    "name": "T1001",
    "device": "T1001"
+  }
+ ],
+ "T1021T": [
+  {
+   "brand": "Alldocube",
+   "name": "T1021T",
+   "device": "T1021T"
   }
  ],
  "T701": [
@@ -16817,6 +16831,20 @@
    "brand": "Azumi",
    "name": "V60",
    "device": "Azumi_V60"
+  }
+ ],
+ "A101BM": [
+  {
+   "brand": "BALMUDA",
+   "name": "BALMUDA Phone",
+   "device": "A101BM"
+  }
+ ],
+ "X01A": [
+  {
+   "brand": "BALMUDA",
+   "name": "BALMUDA Phone",
+   "device": "X01A"
   }
  ],
  "Pixavi Phone": [
@@ -34672,6 +34700,11 @@
    "brand": "Cubot",
    "name": "NOTE 9",
    "device": "NOTE_9"
+  },
+  {
+   "brand": "Cubot",
+   "name": "note_9",
+   "device": "NOTE_9"
   }
  ],
  "CUBOT_NOTE_S": [
@@ -40480,6 +40513,11 @@
   },
   {
    "brand": "Evercoss",
+   "name": "X7",
+   "device": "X7"
+  },
+  {
+   "brand": "Kenxinda",
    "name": "X7",
    "device": "X7"
   },
@@ -50441,6 +50479,11 @@
    "brand": "G-TiDE",
    "name": "G-TiDE_H1_2",
    "device": "G-TiDE_H1_2"
+  },
+  {
+   "brand": "G-TiDE",
+   "name": "G-TiDE_H1_3",
+   "device": "G-TiDE_H1_3"
   }
  ],
  "G-TiDE_H1_4G": [
@@ -52350,6 +52393,11 @@
   {
    "brand": "Gigaset",
    "name": "GS185",
+   "device": "GS185"
+  },
+  {
+   "brand": "Gigaset",
+   "name": "Gigaset GS185",
    "device": "GS185"
   }
  ],
@@ -63509,6 +63557,20 @@
    "brand": "Hisense",
    "name": "CMB510",
    "device": "L696"
+  }
+ ],
+ "Core-T4 Neo": [
+  {
+   "brand": "Hisense",
+   "name": "Core-T5",
+   "device": "L820"
+  }
+ ],
+ "Core-T5": [
+  {
+   "brand": "Hisense",
+   "name": "Core-T5",
+   "device": "L820"
   }
  ],
  "Hisense D1-M": [
@@ -82144,6 +82206,13 @@
    "device": "Infinix-X662"
   }
  ],
+ "Infinix X662B": [
+  {
+   "brand": "Infinix",
+   "name": "HOT 11",
+   "device": "Infinix-X662B"
+  }
+ ],
  "Infinix X6812": [
   {
    "brand": "Infinix",
@@ -82563,6 +82632,11 @@
   {
    "brand": "Infinix",
    "name": "Infinix NOTE 10",
+   "device": "Infinix-X693"
+  },
+  {
+   "brand": "Infinix",
+   "name": "Infinix NOTE 11i",
    "device": "Infinix-X693"
   }
  ],
@@ -87325,6 +87399,13 @@
    "device": "XA402"
   }
  ],
+ "XA403": [
+  {
+   "brand": "J:COM",
+   "name": "XA403",
+   "device": "sti6260d195"
+  }
+ ],
  "TPC-G1010": [
   {
    "brand": "JAY-TECH",
@@ -88012,6 +88093,13 @@
    "brand": "Jinga",
    "name": "WinPRO",
    "device": "WinPRO"
+  }
+ ],
+ "LS1542QW": [
+  {
+   "brand": "Jio",
+   "name": "JioPhone Next",
+   "device": "LS1542QW"
   }
  ],
  "LS1542QWN": [
@@ -90375,6 +90463,13 @@
    "brand": "Kenxinda",
    "name": "X7g",
    "device": "X7g"
+  }
+ ],
+ "X7s": [
+  {
+   "brand": "Kenxinda",
+   "name": "X7s",
+   "device": "X7s"
   }
  ],
  "Y20": [
@@ -122467,6 +122562,13 @@
    "device": "maltalsc"
   }
  ],
+ "Lenovo K14": [
+  {
+   "brand": "Motorola",
+   "name": "Lenovo K14",
+   "device": "aruba"
+  }
+ ],
  "Lenovo XT2081-4": [
   {
    "brand": "Motorola",
@@ -123839,6 +123941,25 @@
    "device": "sesame"
   }
  ],
+ "Lenovo K14 Plus": [
+  {
+   "brand": "Motorola",
+   "name": "TBD",
+   "device": "cyprus64"
+  }
+ ],
+ "cyprus64": [
+  {
+   "brand": "Motorola",
+   "name": "TBD",
+   "device": "cyprus64"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto e40",
+   "device": "cyprus64"
+  }
+ ],
  "Xoom": [
   {
    "brand": "Motorola",
@@ -123991,6 +124112,41 @@
    "brand": "Motorola",
    "name": "moto e(7i) power",
    "device": "maltalsc"
+  }
+ ],
+ "aruba": [
+  {
+   "brand": "Motorola",
+   "name": "moto e20",
+   "device": "aruba"
+  }
+ ],
+ "moto e20": [
+  {
+   "brand": "Motorola",
+   "name": "moto e20",
+   "device": "aruba"
+  }
+ ],
+ "cyprus": [
+  {
+   "brand": "Motorola",
+   "name": "moto e30",
+   "device": "cyprus"
+  }
+ ],
+ "moto e30": [
+  {
+   "brand": "Motorola",
+   "name": "moto e30",
+   "device": "cyprus"
+  }
+ ],
+ "moto e40": [
+  {
+   "brand": "Motorola",
+   "name": "moto e40",
+   "device": "cyprus64"
   }
  ],
  "moto e5 (XT1920DL)": [
@@ -124355,6 +124511,11 @@
   }
  ],
  "moto g(60)": [
+  {
+   "brand": "Motorola",
+   "name": "moto g(60)",
+   "device": "hanoip"
+  },
   {
    "brand": "Motorola",
    "name": "moto g(60)s",
@@ -127060,6 +127221,13 @@
    "brand": "Myphone",
    "name": "myT8",
    "device": "myT8"
+  }
+ ],
+ "myT8S": [
+  {
+   "brand": "Myphone",
+   "name": "myT8S",
+   "device": "myT8S"
   }
  ],
  "myWX1 Lite": [
@@ -150120,6 +150288,11 @@
    "brand": "Realme",
    "name": "realme 8Pro",
    "device": "RMX3081L1"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 8 Pro",
+   "device": "RMX3081L1"
   }
  ],
  "RMX3151": [
@@ -152872,6 +153045,13 @@
    "device": "DTC2141"
   }
  ],
+ "BIP-AI100": [
+  {
+   "brand": "SK Broadband",
+   "name": "AI2",
+   "device": "BIP-AI100"
+  }
+ ],
  "BID-AI100": [
   {
    "brand": "SK Broadband",
@@ -153094,12 +153274,12 @@
   {
    "brand": "SKY EVO",
    "name": "Elite OctaX",
-   "device": "Elite_OctaX"
+   "device": "Elite_OctaXK2"
   },
   {
-   "brand": "SKY EVO",
+   "brand": "Sky Devices",
    "name": "Elite OctaX",
-   "device": "Elite_OctaXK2"
+   "device": "Elite_OctaX"
   },
   {
    "brand": "Sky Devices",
@@ -174883,6 +175063,13 @@
    "device": "SarahH"
   }
  ],
+ "SH-M19": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense6",
+   "device": "Chara"
+  }
+ ],
  "SH-RM19": [
   {
    "brand": "Sharp",
@@ -185326,7 +185513,29 @@
   },
   {
    "brand": "TCL",
+   "name": "TAB 10s New",
+   "device": "Odin2"
+  },
+  {
+   "brand": "TCL",
    "name": "TCL TAB 10s",
+   "device": "Odin"
+  }
+ ],
+ "9080G": [
+  {
+   "brand": "TCL",
+   "name": "TAB 10s 4G 2022",
+   "device": "Odin2"
+  },
+  {
+   "brand": "TCL",
+   "name": "TAB 10s 4G New",
+   "device": "Odin2"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 10s 4G",
    "device": "Odin"
   }
  ],
@@ -185531,6 +185740,13 @@
    "brand": "TCL",
    "name": "TCL 20 5G",
    "device": "Irvine"
+  }
+ ],
+ "T767H": [
+  {
+   "brand": "TCL",
+   "name": "TCL 20 R 5G",
+   "device": "Buffalo"
   }
  ],
  "T671E": [
@@ -185978,13 +186194,6 @@
    "brand": "TCL",
    "name": "TCL TAB 10s",
    "device": "Aquaman_10_Pro"
-  }
- ],
- "9080G": [
-  {
-   "brand": "TCL",
-   "name": "TCL TAB 10s 4G",
-   "device": "Odin"
   }
  ],
  "9080X": [
@@ -195300,6 +195509,13 @@
    "device": "uzw4010tim"
   }
  ],
+ "TIMVISION VSB": [
+  {
+   "brand": "TIM",
+   "name": "TIMVISION VSB",
+   "device": "m393vsb_tim"
+  }
+ ],
  "TIMVISIONBOX": [
   {
    "brand": "TIM",
@@ -197171,13 +197387,6 @@
    "device": "TECNO-CD6j"
   }
  ],
- "TECNO CG6": [
-  {
-   "brand": "Tecno",
-   "name": "CAMON 17",
-   "device": "TECNO-CG6"
-  }
- ],
  "TECNO CG6j": [
   {
    "brand": "Tecno",
@@ -197225,6 +197434,13 @@
    "brand": "Tecno",
    "name": "CAMON 18",
    "device": "TECNO-CH6n"
+  }
+ ],
+ "TECNO CG6": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 18i",
+   "device": "TECNO-CG6"
   }
  ],
  "TECNO CA6": [
@@ -198591,6 +198807,13 @@
    "device": "TECNO-KF6k"
   }
  ],
+ "TECNO KF6ks": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 7",
+   "device": "TECNO-KF6ks"
+  }
+ ],
  "TECNO KF6m": [
   {
    "brand": "Tecno",
@@ -198676,6 +198899,20 @@
    "brand": "Tecno",
    "name": "TECNO SPARK 8P",
    "device": "TECNO-KG7n"
+  }
+ ],
+ "TECNO KG6P": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 8T",
+   "device": "TECNO-KG6P"
+  }
+ ],
+ "TECNO KG6p": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 8T",
+   "device": "TECNO-KG6P"
   }
  ],
  "TECNO KC1": [
