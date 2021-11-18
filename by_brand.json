@@ -26980,6 +26980,11 @@
    "model": "706Z"
   },
   {
+   "device": "708Z",
+   "name": "708Z",
+   "model": "708Z"
+  },
+  {
    "device": "DS502",
    "name": "DS502",
    "model": "DS502"
@@ -59751,6 +59756,11 @@
    "device": "samseong",
    "name": "55X1",
    "model": "AI PONT"
+  },
+  {
+   "device": "Infinix-X689F",
+   "name": "HOT  11",
+   "model": "Infinix X689F"
   },
   {
    "device": "Infinix-X682B",
@@ -94019,6 +94029,11 @@
    "model": "myPhone_Fun_6"
   },
   {
+   "device": "myPhone_Fun_9",
+   "name": "myPhone Fun 9",
+   "model": "myPhone_Fun_9"
+  },
+  {
    "device": "HAMMER_ENERGY_PLAY",
    "name": "myPhone HAMMER ENERGY",
    "model": "HAMMER_ENERGY"
@@ -98781,6 +98796,11 @@
    "device": "XS2_LTE",
    "name": "XS2_LTE",
    "model": "XS2_LTE"
+  },
+  {
+   "device": "dbx",
+   "name": "dbx",
+   "model": "dbx"
   }
  ],
  "Oangcc": [
@@ -100036,6 +100056,16 @@
    "device": "OP4E8C",
    "name": "A55 5G",
    "model": "PEMT20"
+  },
+  {
+   "device": "OP52EBL1",
+   "name": "A55s 5G",
+   "model": "A102OP"
+  },
+  {
+   "device": "OP52EBL1",
+   "name": "A55s 5G",
+   "model": "CPH2309"
   },
   {
    "device": "A57",
@@ -148637,6 +148667,11 @@
    "model": "TECNO-C9S"
   },
   {
+   "device": "TECNO-CG6",
+   "name": "CAMON",
+   "model": "TECNO CG6"
+  },
+  {
    "device": "TECNO-CH7",
    "name": "CAMON",
    "model": "TECNO CH7"
@@ -148760,11 +148795,6 @@
    "device": "TECNO-CH6n",
    "name": "CAMON 18",
    "model": "TECNO CH6n"
-  },
-  {
-   "device": "TECNO-CG6",
-   "name": "CAMON 18i",
-   "model": "TECNO CG6"
   },
   {
    "device": "TECNO-C7",
@@ -157645,11 +157675,6 @@
   {
    "device": "2105",
    "name": "V2104",
-   "model": "V2104"
-  },
-  {
-   "device": "2105",
-   "name": "V2105",
    "model": "V2104"
   },
   {

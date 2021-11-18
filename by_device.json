@@ -40810,6 +40810,13 @@
    "model": "706Z"
   }
  ],
+ "708Z": [
+  {
+   "brand": "Digidragon",
+   "name": "708Z",
+   "model": "708Z"
+  }
+ ],
  "DS502": [
   {
    "brand": "Digidragon",
@@ -81209,6 +81216,13 @@
    "brand": "Sico",
    "name": "Infinity",
    "model": "Infinity"
+  }
+ ],
+ "Infinix-X689F": [
+  {
+   "brand": "Infinix",
+   "name": "HOT  11",
+   "model": "Infinix X689F"
   }
  ],
  "Infinix-X682B": [
@@ -123827,6 +123841,13 @@
    "model": "myPhone_Fun_6"
   }
  ],
+ "myPhone_Fun_9": [
+  {
+   "brand": "MyPhone (PL)",
+   "name": "myPhone Fun 9",
+   "model": "myPhone_Fun_9"
+  }
+ ],
  "HAMMER_ENERGY_PLAY": [
   {
    "brand": "MyPhone (PL)",
@@ -129534,6 +129555,13 @@
    "model": "XS2_LTE"
   }
  ],
+ "dbx": [
+  {
+   "brand": "Oale",
+   "name": "dbx",
+   "model": "dbx"
+  }
+ ],
  "Tab_A6": [
   {
    "brand": "Oangcc",
@@ -131066,6 +131094,18 @@
    "brand": "Oppo",
    "name": "A55 5G",
    "model": "PEMT20"
+  }
+ ],
+ "OP52EBL1": [
+  {
+   "brand": "Oppo",
+   "name": "A55s 5G",
+   "model": "A102OP"
+  },
+  {
+   "brand": "Oppo",
+   "name": "A55s 5G",
+   "model": "CPH2309"
   }
  ],
  "A59": [
@@ -189594,6 +189634,13 @@
    "model": "TECNO-C9"
   }
  ],
+ "TECNO-CG6": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON",
+   "model": "TECNO CG6"
+  }
+ ],
  "TECNO-CH7": [
   {
    "brand": "Tecno",
@@ -189761,13 +189808,6 @@
    "brand": "Tecno",
    "name": "CAMON 18",
    "model": "TECNO CH6n"
-  }
- ],
- "TECNO-CG6": [
-  {
-   "brand": "Tecno",
-   "name": "CAMON 18i",
-   "model": "TECNO CG6"
   }
  ],
  "TECNO-CA6": [
@@ -200091,11 +200131,6 @@
   {
    "brand": "Vivo",
    "name": "V2104",
-   "model": "V2104"
-  },
-  {
-   "brand": "Vivo",
-   "name": "V2105",
    "model": "V2104"
   },
   {

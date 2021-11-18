@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-11-17
+Last sync is 2021-11-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5210,6 +5210,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Digicom|Tribe|Tribe|Digicom Tribe|
 |Digicom|V7_LTE|V7_LTE|V7_LTE|
 |Digidragon|706Z|706Z|706Z|
+|Digidragon|708Z|708Z|708Z|
 |Digidragon|DS502|DS502|DS502|
 |Digidragon|DS571|DS571|DS571|
 |Digidragon|DS6018|DS6018|DS6018|
@@ -11601,6 +11602,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinity|Infinity|Infinity|Infinity|
 |Infinix|32X1|ikebukuro|AI PONT|
 |Infinix|55X1|samseong|AI PONT|
+|Infinix|HOT  11|Infinix-X689F|Infinix X689F|
 |Infinix|HOT 10|Infinix-X682B|Infinix X682B|
 |Infinix|HOT 10|Infinix-X682C|Infinix X682C|
 |Infinix|HOT 10 Lite|Infinix-X657B|Infinix X657B|
@@ -18305,6 +18307,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MyPhone (PL)|myPhone City|myPhone_City|City|
 |MyPhone (PL)|myPhone Fun 5|FUN5_OPM|FUN5|
 |MyPhone (PL)|myPhone Fun 6|myPhone_Fun_6|myPhone_Fun_6|
+|MyPhone (PL)|myPhone Fun 9|myPhone_Fun_9|myPhone_Fun_9|
 |MyPhone (PL)|myPhone HAMMER ENERGY|HAMMER_ENERGY_PLAY|HAMMER_ENERGY|
 |MyPhone (PL)|myPhone Hammer Energy|Hammer_Energy|Hammer Energy|
 |MyPhone (PL)|myPhone Luna II|LUNA_II_OPM|LUNA_II|
@@ -19213,6 +19216,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oale|P6|P6|P6|
 |Oale|P6S|P6S|P6S|
 |Oale|XS2_LTE|XS2_LTE|XS2_LTE|
+|Oale|dbx|dbx|dbx|
 |Oangcc|Tab_A6|Tab_A6|Tab_A6|
 |Oangcc|Tab_A6_EEA|Tab_A6_EEA|Tab_A6_EEA|
 |Obi|MV1|yam|OBI MV1|
@@ -19454,6 +19458,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A55 5G|OP4E2F|PEMT00|
 |Oppo|A55 5G|OP4E8C|PEMM20|
 |Oppo|A55 5G|OP4E8C|PEMT20|
+|Oppo|A55s 5G|OP52EBL1|A102OP|
+|Oppo|A55s 5G|OP52EBL1|CPH2309|
 |Oppo|A57|A57|OPPO A57|
 |Oppo|A57|A57|OPPO A57t|
 |Oppo|A57t|A57|OPPO A57t|
@@ -28989,6 +28995,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|C8|TECNO-C8|TECNO-C8|
 |Tecno|C9|TECNO-C9|TECNO-C9|
 |Tecno|C9S|TECNO-C9|TECNO-C9S|
+|Tecno|CAMON|TECNO-CG6|TECNO CG6|
 |Tecno|CAMON|TECNO-CH7|TECNO CH7|
 |Tecno|CAMON|TECNO-CH7n|TECNO CH7n|
 |Tecno|CAMON 11|TECNO-CF7|TECNO CF7|
@@ -29014,7 +29021,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|CAMON 17P|TECNO-CG7n|TECNO CG7n|
 |Tecno|CAMON 18|TECNO-CH6|TECNO CH6|
 |Tecno|CAMON 18|TECNO-CH6n|TECNO CH6n|
-|Tecno|CAMON 18i|TECNO-CG6|TECNO CG6|
 |Tecno|CAMON C7|TECNO-C7|TECNO-C7|
 |Tecno|CAMON CM|TECNO-CA6|TECNO CA6|
 |Tecno|CAMON I Ace|TECNO-IN1|TECNO IN1|
@@ -30718,7 +30724,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2101|2034|V2101|
 |Vivo|V2102|2034|V2102|
 |Vivo|V2104|2105|V2104|
-|Vivo|V2105|2105|V2104|
 |Vivo|V2105|2105|V2105|
 |Vivo|V2106A|PD2106|V2106A|
 |Vivo|V2106A|PD2106B|V2106A|
