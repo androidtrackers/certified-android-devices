@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-11-18
+Last sync is 2021-11-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -19318,6 +19318,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus6T|OnePlus6T|ONEPLUS A6013|
 |OnePlus|OnePlus6T|OnePlus6TSingle|ONEPLUS A6013|
 |OnePlus|OnePlus9R|OnePlus9R|LE2100|
+|OnePlus|OnePlusRT|OP5154L1|MT2110|
 |OnePlus|Oneplus_Dosa_IN|Oneplus_Dosa_IN|Oneplus_Dosa_IN|
 |OnePlus|X|OnePlus|ONE E1003|
 |OnePlus|Y Series|shibuya|Y Series|
@@ -19561,6 +19562,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|CPH2247|OP4F7FL1|CPH2247|
 |Oppo|CPH2249|OP4F81L1|CPH2249|
 |Oppo|CPH2251|OP4F83L1|CPH2251|
+|Oppo|CPH2263|OP4F39L1|CPH2263|
 |Oppo|F11|OP4883|CPH1911|
 |Oppo|F11|OP4883|CPH1913|
 |Oppo|F11|OP4883|CPH1915|
@@ -19625,7 +19627,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO A54|OP4E7B|PEZM00|
 |Oppo|OPPO A54 5G|OP4F39L1|OPG02|
 |Oppo|OPPO A74 5G|OP4F39L1|CPH2197|
-|Oppo|OPPO A74 5G|OP4F39L1|CPH2263|
 |Oppo|OPPO A95 5G|OP4EB7|PELM00|
 |Oppo|OPPO Find X3 Lite 5G|OP4F1BL1|CPH2145|
 |Oppo|OPPO Reno5|OP4F25L1|CPH2159|
@@ -28996,8 +28997,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|C9|TECNO-C9|TECNO-C9|
 |Tecno|C9S|TECNO-C9|TECNO-C9S|
 |Tecno|CAMON|TECNO-CG6|TECNO CG6|
-|Tecno|CAMON|TECNO-CH7|TECNO CH7|
-|Tecno|CAMON|TECNO-CH7n|TECNO CH7n|
 |Tecno|CAMON 11|TECNO-CF7|TECNO CF7|
 |Tecno|CAMON 11|TECNO-CF7|TECNO CF7S|
 |Tecno|CAMON 11|TECNO-CF7k|TECNO CF7k|
@@ -29021,6 +29020,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|CAMON 17P|TECNO-CG7n|TECNO CG7n|
 |Tecno|CAMON 18|TECNO-CH6|TECNO CH6|
 |Tecno|CAMON 18|TECNO-CH6n|TECNO CH6n|
+|Tecno|CAMON 18P|TECNO-CH7|TECNO CH7|
+|Tecno|CAMON 18P|TECNO-CH7n|TECNO CH7n|
 |Tecno|CAMON C7|TECNO-C7|TECNO-C7|
 |Tecno|CAMON CM|TECNO-CA6|TECNO CA6|
 |Tecno|CAMON I Ace|TECNO-IN1|TECNO IN1|

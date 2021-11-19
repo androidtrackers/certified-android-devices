@@ -130169,6 +130169,13 @@
    "model": "ONEPLUS A6013"
   }
  ],
+ "OP5154L1": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlusRT",
+   "model": "MT2110"
+  }
+ ],
  "Oneplus_Dosa_IN": [
   {
    "brand": "OnePlus",
@@ -131058,6 +131065,11 @@
   },
   {
    "brand": "Oppo",
+   "name": "CPH2263",
+   "model": "CPH2263"
+  },
+  {
+   "brand": "Oppo",
    "name": "OPPO A54 5G",
    "model": "OPG02"
   },
@@ -131065,11 +131077,6 @@
    "brand": "Oppo",
    "name": "OPPO A74 5G",
    "model": "CPH2197"
-  },
-  {
-   "brand": "Oppo",
-   "name": "OPPO A74 5G",
-   "model": "CPH2263"
   }
  ],
  "OP4E2F": [
@@ -189641,20 +189648,6 @@
    "model": "TECNO CG6"
   }
  ],
- "TECNO-CH7": [
-  {
-   "brand": "Tecno",
-   "name": "CAMON",
-   "model": "TECNO CH7"
-  }
- ],
- "TECNO-CH7n": [
-  {
-   "brand": "Tecno",
-   "name": "CAMON",
-   "model": "TECNO CH7n"
-  }
- ],
  "TECNO-CF7": [
   {
    "brand": "Tecno",
@@ -189808,6 +189801,20 @@
    "brand": "Tecno",
    "name": "CAMON 18",
    "model": "TECNO CH6n"
+  }
+ ],
+ "TECNO-CH7": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 18P",
+   "model": "TECNO CH7"
+  }
+ ],
+ "TECNO-CH7n": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 18P",
+   "model": "TECNO CH7n"
   }
  ],
  "TECNO-CA6": [
