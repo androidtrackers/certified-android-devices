@@ -26981,6 +26981,13 @@
    "device": "C80W_EEA"
   }
  ],
+ "C82W": [
+  {
+   "brand": "CWOWDEFU",
+   "name": "C82W",
+   "device": "C82W"
+  }
+ ],
  "F80L": [
   {
    "brand": "CWOWDEFU",
@@ -30845,6 +30852,13 @@
    "brand": "Code",
    "name": "CR4900",
    "device": "cr4900"
+  }
+ ],
+ "EPICO 4K": [
+  {
+   "brand": "Cogeco",
+   "name": "EPICO 4K",
+   "device": "m393gena_c"
   }
  ],
  "TV": [
@@ -37868,6 +37882,13 @@
    "brand": "Denver Electronics",
    "name": "TIQ-104",
    "device": "TIQ104"
+  }
+ ],
+ "TIQ-1044": [
+  {
+   "brand": "Denver Electronics",
+   "name": "TIQ-1044",
+   "device": "TIQ-1044"
   }
  ],
  "TIQ-1049": [
@@ -46211,6 +46232,13 @@
    "device": "Facilotab_L_Rubis"
   }
  ],
+ "F10L": [
+  {
+   "brand": "FAMIX",
+   "name": "F10L",
+   "device": "F10L"
+  }
+ ],
  "F-863": [
   {
    "brand": "FANGOR",
@@ -46366,6 +46394,13 @@
    "brand": "FFFSMARTLIFE",
    "name": "FFFTAB10a3",
    "device": "FFFTAB10a3"
+  }
+ ],
+ "FFFTAB10a4": [
+  {
+   "brand": "FFFSMARTLIFE",
+   "name": "FFFTAB10a4",
+   "device": "FFFTAB10a4"
   }
  ],
  "FFFTAB7": [
@@ -49816,6 +49851,13 @@
    "brand": "Fusion5",
    "name": "F104Ev2_EEA",
    "device": "F104Ev2_EEA"
+  }
+ ],
+ "F104Ev2_PRO": [
+  {
+   "brand": "Fusion5",
+   "name": "F104Ev2_PRO",
+   "device": "F104Ev2_PRO"
   }
  ],
  "F104EvII": [
@@ -54937,6 +54979,13 @@
    "brand": "Greatwall",
    "name": "W710",
    "device": "W710"
+  }
+ ],
+ "A10_premium": [
+  {
+   "brand": "Greentel",
+   "name": "A10_premium",
+   "device": "A10_premium"
   }
  ],
  "V2": [
@@ -80149,6 +80198,13 @@
    "brand": "Hyundai",
    "name": "HT7WC1PBK",
    "device": "HT7WC1PBK"
+  }
+ ],
+ "HT8WB1RBK01": [
+  {
+   "brand": "Hyundai",
+   "name": "HT8WB1RBK01",
+   "device": "HT8WB1RBK01"
   }
  ],
  "HT8WB1RBK03": [
@@ -129513,6 +129569,13 @@
    "device": "M002U_2T"
   }
  ],
+ "M002W-2T": [
+  {
+   "brand": "Necnon",
+   "name": "M002W-2T",
+   "device": "M002W-2T"
+  }
+ ],
  "M002N-3T": [
   {
    "brand": "Necnon",
@@ -173546,6 +173609,13 @@
    "device": "polaris"
   }
  ],
+ "H620B": [
+  {
+   "brand": "Selvas",
+   "name": "BrailleSenseMini",
+   "device": "BrailleSenseMini"
+  }
+ ],
  "H632B": [
   {
    "brand": "Selvas",
@@ -177288,6 +177358,23 @@
    "device": "Elite_5T_GT"
   }
  ],
+ "Elite P55": [
+  {
+   "brand": "Sky Devices",
+   "name": "ELITE P55",
+   "device": "ELITE_P55LIFE"
+  },
+  {
+   "brand": "Sky Devices",
+   "name": "ELITE_P55US",
+   "device": "ELITE_P55US"
+  },
+  {
+   "brand": "Sky Devices",
+   "name": "Elite_P55",
+   "device": "Elite_P55"
+  }
+ ],
  "Elite T57": [
   {
    "brand": "Sky Devices",
@@ -177300,18 +177387,6 @@
    "brand": "Sky Devices",
    "name": "ELITE T8",
    "device": "ELITE_US_T8"
-  }
- ],
- "Elite P55": [
-  {
-   "brand": "Sky Devices",
-   "name": "ELITE_P55US",
-   "device": "ELITE_P55US"
-  },
-  {
-   "brand": "Sky Devices",
-   "name": "Elite_P55",
-   "device": "Elite_P55"
   }
  ],
  "Elite A5": [
@@ -184357,6 +184432,13 @@
    "brand": "Surface",
    "name": "Surface Duo 2",
    "device": "duo2"
+  }
+ ],
+ "K7S": [
+  {
+   "brand": "Surfans",
+   "name": "K7S",
+   "device": "K7S"
   }
  ],
  "Surfans P10P": [
@@ -195661,6 +195743,13 @@
    "device": "MT-715QR"
   }
  ],
+ "MT-750QU_Pro": [
+  {
+   "brand": "TJD(SZ)",
+   "name": "MT-750QU_Pro",
+   "device": "MT-750QU_Pro"
+  }
+ ],
  "MT-761QU": [
   {
    "brand": "TJD(SZ)",
@@ -200605,6 +200694,13 @@
    "device": "T10plus"
   }
  ],
+ "Tab64": [
+  {
+   "brand": "Todos",
+   "name": "Tab64",
+   "device": "Tab64"
+  }
+ ],
  "Togocel EGO plus": [
   {
    "brand": "Togocel",
@@ -202976,6 +203072,11 @@
  "MT01": [
   {
    "brand": "Umidigi",
+   "name": "A11_Tab",
+   "device": "A11_Tab"
+  },
+  {
+   "brand": "Umidigi",
    "name": "A11_Tab-EEA",
    "device": "A11_Tab-EEA"
   }
@@ -203133,6 +203234,16 @@
    "brand": "Umidigi",
    "name": "BISON X10 Pro EEA",
    "device": "BISON_X10_Pro"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "BISON X10 RU",
+   "device": "BISON_X10"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "BISON_X10_TR",
+   "device": "BISON_X10"
   }
  ],
  "One Max": [
@@ -206878,6 +206989,13 @@
    "brand": "Visiontouch",
    "name": "Life",
    "device": "VisionTouchLife"
+  }
+ ],
+ "Elite10QH": [
+  {
+   "brand": "Visual Land",
+   "name": "Elite10QH",
+   "device": "Elite10QH"
   }
  ],
  "Elite10QI": [
@@ -232208,6 +232326,13 @@
    "brand": "videocon",
    "name": "Starr 100",
    "device": "V406018"
+  }
+ ],
+ "F11W": [
+  {
+   "brand": "weelikeit",
+   "name": "F11W",
+   "device": "F11W"
   }
  ],
  "XTOUCH_A5": [

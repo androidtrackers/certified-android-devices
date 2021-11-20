@@ -14761,6 +14761,11 @@
    "brand": "Aprix",
    "device": "AprixTab64",
    "model": "Aprix Tab64"
+  },
+  {
+   "brand": "Todos",
+   "device": "Tab64",
+   "model": "Tab64"
   }
  ],
  "Tab64_T": [
@@ -33125,6 +33130,13 @@
    "model": "C80W_EEA"
   }
  ],
+ "C82W": [
+  {
+   "brand": "CWOWDEFU",
+   "device": "C82W",
+   "model": "C82W"
+  }
+ ],
  "F80L": [
   {
    "brand": "CWOWDEFU",
@@ -37067,6 +37079,13 @@
    "brand": "Code",
    "device": "cr4900",
    "model": "CR4900"
+  }
+ ],
+ "EPICO 4K": [
+  {
+   "brand": "Cogeco",
+   "device": "m393gena_c",
+   "model": "EPICO 4K"
   }
  ],
  "TV": [
@@ -44152,6 +44171,13 @@
    "brand": "Denver Electronics",
    "device": "TIQ104",
    "model": "TIQ-104"
+  }
+ ],
+ "TIQ-1044": [
+  {
+   "brand": "Denver Electronics",
+   "device": "TIQ-1044",
+   "model": "TIQ-1044"
   }
  ],
  "TIQ-1049": [
@@ -52866,6 +52892,13 @@
    "model": "Facilotab L Rubis"
   }
  ],
+ "F10L": [
+  {
+   "brand": "FAMIX",
+   "device": "F10L",
+   "model": "F10L"
+  }
+ ],
  "F-863": [
   {
    "brand": "FANGOR",
@@ -53028,6 +53061,13 @@
    "brand": "FFFSMARTLIFE",
    "device": "FFFTAB10a3",
    "model": "FFFTAB10a3"
+  }
+ ],
+ "FFFTAB10a4": [
+  {
+   "brand": "FFFSMARTLIFE",
+   "device": "FFFTAB10a4",
+   "model": "FFFTAB10a4"
   }
  ],
  "FFFTAB7": [
@@ -56224,6 +56264,13 @@
    "brand": "Fusion5",
    "device": "F104Ev2_EEA",
    "model": "F104Ev2_EEA"
+  }
+ ],
+ "F104Ev2_PRO": [
+  {
+   "brand": "Fusion5",
+   "device": "F104Ev2_PRO",
+   "model": "F104Ev2_PRO"
   }
  ],
  "F104EvII": [
@@ -61330,6 +61377,13 @@
    "brand": "Greatwall",
    "device": "W710",
    "model": "W710"
+  }
+ ],
+ "A10_premium": [
+  {
+   "brand": "Greentel",
+   "device": "A10_premium",
+   "model": "A10_premium"
   }
  ],
  "Greentel-A10": [
@@ -82532,6 +82586,13 @@
    "brand": "Hyundai",
    "device": "HT7WC1PBK",
    "model": "HT7WC1PBK"
+  }
+ ],
+ "HT8WB1RBK01": [
+  {
+   "brand": "Hyundai",
+   "device": "HT8WB1RBK01",
+   "model": "HT8WB1RBK01"
   }
  ],
  "HT8WB1RBK03": [
@@ -127296,6 +127357,13 @@
    "model": "M002U-2T"
   }
  ],
+ "M002W-2T": [
+  {
+   "brand": "Necnon",
+   "device": "M002W-2T",
+   "model": "M002W-2T"
+  }
+ ],
  "MOO2N-3T": [
   {
    "brand": "Necnon",
@@ -166500,6 +166568,13 @@
    "model": "BrailleSensePolaris"
   }
  ],
+ "BrailleSenseMini": [
+  {
+   "brand": "Selvas",
+   "device": "BrailleSenseMini",
+   "model": "H620B"
+  }
+ ],
  "BrailleSense_EEA": [
   {
    "brand": "Selvas",
@@ -170085,6 +170160,13 @@
    "brand": "Sky Devices",
    "device": "Elite_5T_SV",
    "model": "Elite 5T"
+  }
+ ],
+ "ELITE P55": [
+  {
+   "brand": "Sky Devices",
+   "device": "ELITE_P55LIFE",
+   "model": "Elite P55"
   }
  ],
  "ELITE T57": [
@@ -176589,6 +176671,13 @@
    "brand": "Surface",
    "device": "duo2",
    "model": "Surface Duo 2"
+  }
+ ],
+ "K7S": [
+  {
+   "brand": "Surfans",
+   "device": "K7S",
+   "model": "K7S"
   }
  ],
  "P10P": [
@@ -185778,6 +185867,13 @@
    "model": "MT-715QR"
   }
  ],
+ "MT-750QU_Pro": [
+  {
+   "brand": "TJD(SZ)",
+   "device": "MT-750QU_Pro",
+   "model": "MT-750QU_Pro"
+  }
+ ],
  "MT-761QU": [
   {
    "brand": "TJD(SZ)",
@@ -192768,6 +192864,13 @@
    "model": "MP01"
   }
  ],
+ "A11_Tab": [
+  {
+   "brand": "Umidigi",
+   "device": "A11_Tab",
+   "model": "MT01"
+  }
+ ],
  "A11_Tab-EEA": [
   {
    "brand": "Umidigi",
@@ -192929,6 +193032,13 @@
    "model": "RP01"
   }
  ],
+ "BISON X10 RU": [
+  {
+   "brand": "Umidigi",
+   "device": "BISON_X10",
+   "model": "RP01"
+  }
+ ],
  "BISON_GT": [
   {
    "brand": "Umidigi",
@@ -192948,6 +193058,13 @@
    "brand": "Umidigi",
    "device": "BISON_Pro",
    "model": "BISON Pro"
+  }
+ ],
+ "BISON_X10_TR": [
+  {
+   "brand": "Umidigi",
+   "device": "BISON_X10",
+   "model": "RP01"
   }
  ],
  "F1_EEA": [
@@ -196644,6 +196761,13 @@
    "brand": "Visiontouch",
    "device": "VisionTouchInspire",
    "model": "Vision Touch Inspire"
+  }
+ ],
+ "Elite10QH": [
+  {
+   "brand": "Visual Land",
+   "device": "Elite10QH",
+   "model": "Elite10QH"
   }
  ],
  "Prestige Elite10QI": [
@@ -219606,6 +219730,13 @@
    "brand": "videocon",
    "device": "V406018",
    "model": "V406018"
+  }
+ ],
+ "F11W": [
+  {
+   "brand": "weelikeit",
+   "device": "F11W",
+   "model": "F11W"
   }
  ],
  "E5": [

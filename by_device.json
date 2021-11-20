@@ -28815,6 +28815,13 @@
    "model": "C80W_EEA"
   }
  ],
+ "C82W": [
+  {
+   "brand": "CWOWDEFU",
+   "name": "C82W",
+   "model": "C82W"
+  }
+ ],
  "F80L": [
   {
    "brand": "CWOWDEFU",
@@ -32750,6 +32757,13 @@
    "brand": "Code",
    "name": "CR4900",
    "model": "CR4900"
+  }
+ ],
+ "m393gena_c": [
+  {
+   "brand": "Cogeco",
+   "name": "EPICO 4K",
+   "model": "EPICO 4K"
   }
  ],
  "uiw4020cog": [
@@ -40149,6 +40163,13 @@
    "brand": "Denver Electronics",
    "name": "TIQ-104",
    "model": "TIQ-104"
+  }
+ ],
+ "TIQ-1044": [
+  {
+   "brand": "Denver Electronics",
+   "name": "TIQ-1044",
+   "model": "TIQ-1044"
   }
  ],
  "TIQ-1049": [
@@ -48576,6 +48597,13 @@
    "model": "Facilotab L Rubis"
   }
  ],
+ "F10L": [
+  {
+   "brand": "FAMIX",
+   "name": "F10L",
+   "model": "F10L"
+  }
+ ],
  "F-863": [
   {
    "brand": "FANGOR",
@@ -48726,6 +48754,13 @@
    "brand": "FFFSMARTLIFE",
    "name": "FFFTAB10a3",
    "model": "FFFTAB10a3"
+  }
+ ],
+ "FFFTAB10a4": [
+  {
+   "brand": "FFFSMARTLIFE",
+   "name": "FFFTAB10a4",
+   "model": "FFFTAB10a4"
   }
  ],
  "FFFTAB7": [
@@ -52066,6 +52101,13 @@
    "brand": "Fusion5",
    "name": "F104Ev2_EEA",
    "model": "F104Ev2_EEA"
+  }
+ ],
+ "F104Ev2_PRO": [
+  {
+   "brand": "Fusion5",
+   "name": "F104Ev2_PRO",
+   "model": "F104Ev2_PRO"
   }
  ],
  "F104EvII": [
@@ -57086,6 +57128,13 @@
    "brand": "Greatwall",
    "name": "W710",
    "model": "W710"
+  }
+ ],
+ "A10_premium": [
+  {
+   "brand": "Greentel",
+   "name": "A10_premium",
+   "model": "A10_premium"
   }
  ],
  "Greentel-A10": [
@@ -79287,6 +79336,13 @@
    "brand": "Hyundai",
    "name": "HT7WC1PBK",
    "model": "HT7WC1PBK"
+  }
+ ],
+ "HT8WB1RBK01": [
+  {
+   "brand": "Hyundai",
+   "name": "HT8WB1RBK01",
+   "model": "HT8WB1RBK01"
   }
  ],
  "HT8WB1RBK03": [
@@ -126869,6 +126925,13 @@
    "model": "M002U-2T"
   }
  ],
+ "M002W-2T": [
+  {
+   "brand": "Necnon",
+   "name": "M002W-2T",
+   "model": "M002W-2T"
+  }
+ ],
  "M002N-3T": [
   {
    "brand": "Necnon",
@@ -168292,6 +168355,13 @@
    "model": "Mi MIX 2S"
   }
  ],
+ "BrailleSenseMini": [
+  {
+   "brand": "Selvas",
+   "name": "BrailleSenseMini",
+   "model": "H620B"
+  }
+ ],
  "BrailleSense": [
   {
    "brand": "Selvas",
@@ -171940,6 +172010,13 @@
    "brand": "Sky Devices",
    "name": "ELITE 5T",
    "model": "Elite 5T"
+  }
+ ],
+ "ELITE_P55LIFE": [
+  {
+   "brand": "Sky Devices",
+   "name": "ELITE P55",
+   "model": "Elite P55"
   }
  ],
  "Elite_T57_GT": [
@@ -179181,6 +179258,13 @@
    "brand": "Surface",
    "name": "Surface Duo 2",
    "model": "Surface Duo 2"
+  }
+ ],
+ "K7S": [
+  {
+   "brand": "Surfans",
+   "name": "K7S",
+   "model": "K7S"
   }
  ],
  "P10P": [
@@ -188000,6 +188084,13 @@
    "model": "MT-715QR"
   }
  ],
+ "MT-750QU_Pro": [
+  {
+   "brand": "TJD(SZ)",
+   "name": "MT-750QU_Pro",
+   "model": "MT-750QU_Pro"
+  }
+ ],
  "MT-761QU": [
   {
    "brand": "TJD(SZ)",
@@ -192808,6 +192899,13 @@
    "model": "T10+"
   }
  ],
+ "Tab64": [
+  {
+   "brand": "Todos",
+   "name": "Tab64",
+   "model": "Tab64"
+  }
+ ],
  "Togocel_EGO_plus": [
   {
    "brand": "Togocel",
@@ -195093,6 +195191,13 @@
    "model": "MP01"
   }
  ],
+ "A11_Tab": [
+  {
+   "brand": "Umidigi",
+   "name": "A11_Tab",
+   "model": "MT01"
+  }
+ ],
  "A11_Tab-EEA": [
   {
    "brand": "Umidigi",
@@ -195243,6 +195348,16 @@
   {
    "brand": "Umidigi",
    "name": "BISON X10 EEA",
+   "model": "RP01"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "BISON X10 RU",
+   "model": "RP01"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "BISON_X10_TR",
    "model": "RP01"
   }
  ],
@@ -198811,6 +198926,13 @@
    "brand": "Visiontouch",
    "name": "Life",
    "model": "VisionTouchLife"
+  }
+ ],
+ "Elite10QH": [
+  {
+   "brand": "Visual Land",
+   "name": "Elite10QH",
+   "model": "Elite10QH"
   }
  ],
  "Elite10QI": [
@@ -222000,6 +222122,13 @@
    "brand": "videocon",
    "name": "Starr 100",
    "model": "V406018"
+  }
+ ],
+ "F11W": [
+  {
+   "brand": "weelikeit",
+   "name": "F11W",
+   "model": "F11W"
   }
  ],
  "XTOUCH_A4": [
