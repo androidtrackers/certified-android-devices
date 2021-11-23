@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-11-22
+Last sync is 2021-11-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2377,6 +2377,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|BL54_PRO_TG05|Bmobile_BL54_PRO_TG05|BL54_PRO|
 |BMobile|BL55_PRO_MV12|Bmobile_BL55_PRO_MV12|BL55_PRO|
 |BMobile|BL60|Bmobile_BL60|BL60|
+|BMobile|BL60|Bmobile_BL60_TG05B|BL60_TG05B|
 |BMobile|BL60M_MV05|Bmobile_BL60M_MV05|BL60M_MV05|
 |BMobile|BL60_TG05|Bmobile_BL60_TG05|BL60_TG05|
 |BMobile|BL60_TG17|Bmobile_BL60_TG17|BL60_TG17|
@@ -3072,6 +3073,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|C5L 2020|C0070WW|C5L 2020|
 |Blu|C5L 2021|C0100TT|C5L 2021|
 |Blu|C5L 2021|C0110WW|C5L 2021|
+|Blu|C5L+ 2021|C0130WW|C5L+ 2021|
 |Blu|C5L_2020|C0070WW|C5L 2020|
 |Blu|C5L_Plus|C0040TT|C5L Plus|
 |Blu|C5X|C0000UU|C5X|
@@ -5741,6 +5743,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EL (Africa)|D68|D68|D68|
 |EL (Africa)|W45S|W45S|W45S|
 |EL (Africa)|W60|W60|W60|
+|ELEXIA|ELEXIA|bangbae|ELEXIA 4K Android TV|
 |ELEXIA|ELEXIA|komagome|ELEXIA 2K Android TV|
 |ELO Touch|10in-I-Series-4|10in-I-Series-4|10in-I-Series-4|
 |ELO Touch|10in-I-Series-4-Value|10in-I-Series-4-Value|10in-I-Series-4-Value|
@@ -6109,6 +6112,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Etuline|ETL-S4521|u939e_2|ETL-S4521|
 |Etuline|ETL-S5042|u970_4|ETL-S5042|
 |EuroLeague|I7a|Euroleague|EuroleaguePhone|
+|Euskaltel|Deco 4K con Android TV|m392|Deco 4K con Android TV|
 |Euskaltel|Euskaltel|dciw384eus|Sagemcom_4k ATV|
 |Evercoss|A75 MAX|A75_MAX|A75 MAX|
 |Evercoss|A75B|EVERCOSS_A75B|A75B|
@@ -6895,11 +6899,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-TiDE|G-TiDE_H1_1|G-TiDE_H1_1|G-TiDE_H1|
 |G-TiDE|G-TiDE_H1_2|G-TiDE_H1_2|G-TiDE_H1|
 |G-TiDE|G-TiDE_H1_3|G-TiDE_H1_3|G-TiDE_H1|
+|G-TiDE|G-TiDE_H1_4|G-TiDE_H1_4|G-TiDE_H1|
 |G-TiDE|G-TiDE_H1_4G|G-TiDE_H1_4G|G-TiDE_H1_4G|
 |G-TiDE|G-TiDE_H1_EEA|G-TiDE_H1_EEA|G-TiDE_H1_EEA|
 |G-TiDE|G-TiDE_P1|G-TiDE_P1|G-TiDE_P1|
 |G-TiDE|G-TiDE_P1_1|G-TiDE_P1_1|G-TiDE_P1|
 |G-TiDE|G-TiDE_P1_2|G-TiDE_P1_2|G-TiDE_P1|
+|G-TiDE|G-TiDE_P1_3|G-TiDE_P1_3|G-TiDE_P1|
+|G-TiDE|G-TiDE_P1_4|G-TiDE_P1_4|G-TiDE_P1|
 |G-TiDE|G-TiDE_P1_4G|G-TiDE_P1_4G|G-TiDE_P1_4G|
 |G-TiDE|PL1080|G-TiDE_H1_4G_EEA|G-TiDE_H1_4G|
 |G-TiDE EXTREME|EX10|EX10|EX10|
@@ -11654,6 +11661,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|HOT 8|Infinix-X650D|Infinix X650D|
 |Infinix|HOT 8 Lite|Infinix-X650|Infinix X650|
 |Infinix|HOT NOTE|Infinix-X551|Infinix-X551|
+|Infinix|HOT Play|Infinix-X688B|Infinix X688B|
+|Infinix|HOT Play|Infinix-X688C|Infinix X688C|
 |Infinix|HOT S3|Infinix-X573|Infinix X573|
 |Infinix|HOT S3|Infinix-X573|Infinix X573S|
 |Infinix|HOT S3|Infinix-X573B|Infinix X573B|
@@ -11740,8 +11749,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|S5 Pro|Infinix-X660|Infinix X660|
 |Infinix|S5 Pro|Infinix-X660B|Infinix X660B|
 |Infinix|S5 Pro|Infinix-X660C|Infinix X660C|
+|Infinix|SMART|Infinix-X657B|Infinix X657B|
 |Infinix|SMART 5|Infinix-X657C|Infinix X657C|
-|Infinix|SMART 5|Infinix-X688C|Infinix X688C|
 |Infinix|SMART 5(SMART 6)|Infinix-X657B|Infinix X657B|
 |Infinix|SMART HD|Infinix-X612|Infinix X612|
 |Infinix|SMART HD|Infinix-X612B|Infinix X612B|
@@ -11920,6 +11929,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Innjoo|VISION LTE|VISION_LTE|VISION LTE|
 |Innjoo|VOOM_TAB_LTE|VOOM_TAB_LTE|VOOM_TAB_LTE|
 |Innopia|IMTCTATV01|IMTCTATV01|IMTCTATV01|
+|Innopia|KCTV|IMTM5000R|IMTM5000R|
 |Innowi|mbadge|CB_UWA6N4C_47|mbadge|
 |Inovacel|DX778Pro|DX778Pro|DX778Pro|
 |Inovacel|INOVACEL S24|S24|S24|
@@ -17290,6 +17300,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|CRAZE|CRAZE|CRAZE|
 |Mobicell|Candy|Candy|Candy|
 |Mobicell|Chrome LTE|CHROME_LTE|CHROME LTE|
+|Mobicell|Chrome_LTE|Chrome_LTE|Chrome LTE|
 |Mobicell|Clik plus|Clik_plus|Clik plus|
 |Mobicell|DANDY|DANDY|DANDY|
 |Mobicell|DANDY_RW|DANDY_RW|DANDY_RW|
@@ -19549,8 +19560,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|CPH1893|CPH1893|CPH1893|
 |Oppo|CPH1893RU|CPH1893|CPH1893|
 |Oppo|CPH1903|CPH1903|CPH1903|
+|Oppo|CPH1907|OP4B83L1|CPH1907|
 |Oppo|CPH1909|CPH1909|CPH1909|
 |Oppo|CPH2015|OP4C7D|CPH2015|
+|Oppo|CPH2043|OP4B9EL1|CPH2043|
 |Oppo|CPH2071|OP4BFB|CPH2071|
 |Oppo|CPH2077|OP4BFB|CPH2077|
 |Oppo|CPH2083|OP4BFB|CPH2083|
@@ -19562,6 +19575,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|CPH2185|OP4F2F|CPH21859|
 |Oppo|CPH2195|OP4F39L1|CPH2195|
 |Oppo|CPH2197|OP4F39L1|CPH2197|
+|Oppo|CPH2207|OP4F0BL1|CPH2207|
 |Oppo|CPH2211|OP4F4DL1|CPH2211|
 |Oppo|CPH2219|OP4F11L1|CPH2219|
 |Oppo|CPH2223|OP4F11L1|CPH2223|
@@ -19609,7 +19623,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Find X3 Pro|OP4F57L1|OPG03|
 |Oppo|Find X3 Pro 中国版|OP4E3F|PEEM00|
 |Oppo|Find X3 中国版|OP4E5D|PEDM00|
-|Oppo|Find x3 neo|OP4F0BL1|CPH2207|
 |Oppo|Find5|FIND5|X909|
 |Oppo|Find5|FIND5|X909T|
 |Oppo|K1|PBCM30|PBCM30|
@@ -19637,9 +19650,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO A54 5G|OP4F39L1|OPG02|
 |Oppo|OPPO A74 5G|OP4F39L1|CPH2197|
 |Oppo|OPPO A95 5G|OP4EB7|PELM00|
-|Oppo|OPPO Find X3 Lite 5G|OP4F1BL1|CPH2145|
 |Oppo|OPPO Reno5|OP4F25L1|CPH2159|
-|Oppo|OPPO Reno5 5G|OP4F1BL1|CPH2145|
 |Oppo|OPPO Reno5 A|OP4F2BL1|A101OP|
 |Oppo|OPPO Reno5 A|OP4F2BL1|CPH2199|
 |Oppo|OPPO Reno5 Pro+ 5G|OP4EA7|PDRM00|
@@ -19653,6 +19664,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|PEHM00|OP4E99|PEHT00|
 |Oppo|PEPM00|OP4ECB|PEPM00|
 |Oppo|PEQM00|OP4ED5|PEQM00|
+|Oppo|PFCM00|OP5259|PFCM00|
 |Oppo|R1001|OPPO72_13076|R1001|
 |Oppo|R1001|R1001|R1001|
 |Oppo|R1011|R1011|R1011|
@@ -19830,7 +19842,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno5 Lite|OP4F43L1|CPH2205|
 |Oppo|Reno5 Pro 5G|OP4EA3|PDSM00|
 |Oppo|Reno5 Pro 5G|OP4EA3|PDST00|
-|Oppo|Reno5 pro 5G|OP4F0BL1|CPH2207|
 |Oppo|Reno6 Pro+ 5G|OP4EC1|PENM00|
 |Oppo|U3|U3|U3|
 |Oppo|U707|U707|U707|
@@ -22280,6 +22291,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Revo|Pearl|Pearl|Pearl|
 |Revo|Power|Power|Power|
 |Revomovil|S6523_RU|S6523_RU|S6523 RU|
+|Revomovil|S6525|S6525|S6525|
 |Revomovil|X12|S6523|S6523|
 |Revomovil|X12|S6523_EEA|S6523 EEA|
 |Revtel|R45|Revel_R45|R45|
@@ -27138,6 +27150,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|V128|V128|V128|
 |Symphony|V130|V130|V130|
 |Symphony|V136|V136|V136|
+|Symphony|V138|V138|V138|
 |Symphony|V140|V140|V140|
 |Symphony|V141|V141|V141|
 |Symphony|V142|V142|V142|
@@ -29009,7 +29022,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|C8|TECNO-C8|TECNO-C8|
 |Tecno|C9|TECNO-C9|TECNO-C9|
 |Tecno|C9S|TECNO-C9|TECNO-C9S|
+|Tecno|CAMON|TECNO-CE7j|TECNO CE7j|
 |Tecno|CAMON|TECNO-CG6|TECNO CG6|
+|Tecno|CAMON|TECNO-CG7|TECNO CG7|
+|Tecno|CAMON|TECNO-CH6h|TECNO CH6h|
 |Tecno|CAMON 11|TECNO-CF7|TECNO CF7|
 |Tecno|CAMON 11|TECNO-CF7|TECNO CF7S|
 |Tecno|CAMON 11|TECNO-CF7k|TECNO CF7k|
@@ -29023,7 +29039,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|CAMON 15 Pro|TECNO-CD8|TECNO CD8|
 |Tecno|CAMON 16|TECNO-CE7|TECNO CE7|
 |Tecno|CAMON 16|TECNO-CE7j|TECNO CE7j|
-|Tecno|CAMON 16 (SE)|TECNO-CE7j|TECNO CE7j|
 |Tecno|CAMON 16 Pro|TECNO-CE8|TECNO CE8|
 |Tecno|CAMON 16 S|TECNO-CD6j|TECNO CD6j|
 |Tecno|CAMON 17|TECNO-CG6j|TECNO CG6j|
@@ -29194,7 +29209,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CAMON 15|TECNO-CD7|TECNO CD7|
 |Tecno|TECNO CAMON 16|TECNO-CE9h|TECNO CE9h|
 |Tecno|TECNO CAMON 16 Premier|TECNO-CE9|TECNO CE9|
-|Tecno|TECNO CAMON 18|TECNO-CH6h|TECNO CH6h|
 |Tecno|TECNO CAMON 18 Premier|TECNO-CH9|TECNO CH9|
 |Tecno|TECNO CAMON 18 Premier|TECNO-CH9n|TECNO CH9n|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|
@@ -34449,6 +34463,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C15 Qualcomm Edition|RMX2195L1|RMX2195|
 |realme|realme C21-Y|RED8D1|RMX3263|
 |realme|realme GT 5G|RMX2202L1|RMX2202|
+|realme|真我Q3s|RE548B|RMX3461|
+|realme|真我Q3s|RE548B|RMX3462|
 |redfox|Valuer_V8|Valuer_V8|Valuer_V8|
 |redfox|Wizpad_Valuer_V8|wvv832|Wizpad_Valuer_V8|
 |rephone|rephone|rephone|2000_000170_00|

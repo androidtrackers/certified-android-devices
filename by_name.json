@@ -23532,6 +23532,11 @@
    "brand": "BMobile",
    "device": "Bmobile_BL60",
    "model": "BL60"
+  },
+  {
+   "brand": "BMobile",
+   "device": "Bmobile_BL60_TG05B",
+   "model": "BL60_TG05B"
   }
  ],
  "BL60M_MV05": [
@@ -29014,6 +29019,13 @@
    "brand": "Blu",
    "device": "C0110WW",
    "model": "C5L 2021"
+  }
+ ],
+ "C5L+ 2021": [
+  {
+   "brand": "Blu",
+   "device": "C0130WW",
+   "model": "C5L+ 2021"
   }
  ],
  "C5L_2020": [
@@ -48797,6 +48809,11 @@
  "ELEXIA": [
   {
    "brand": "ELEXIA",
+   "device": "bangbae",
+   "model": "ELEXIA 4K Android TV"
+  },
+  {
+   "brand": "ELEXIA",
    "device": "komagome",
    "model": "ELEXIA 2K Android TV"
   }
@@ -51362,6 +51379,13 @@
    "brand": "EuroLeague",
    "device": "Euroleague",
    "model": "EuroleaguePhone"
+  }
+ ],
+ "Deco 4K con Android TV": [
+  {
+   "brand": "Euskaltel",
+   "device": "m392",
+   "model": "Deco 4K con Android TV"
   }
  ],
  "Euskaltel": [
@@ -56921,6 +56945,13 @@
    "model": "G-TiDE_H1"
   }
  ],
+ "G-TiDE_H1_4": [
+  {
+   "brand": "G-TiDE",
+   "device": "G-TiDE_H1_4",
+   "model": "G-TiDE_H1"
+  }
+ ],
  "G-TiDE_H1_4G": [
   {
    "brand": "G-TiDE",
@@ -56953,6 +56984,20 @@
   {
    "brand": "G-TiDE",
    "device": "G-TiDE_P1_2",
+   "model": "G-TiDE_P1"
+  }
+ ],
+ "G-TiDE_P1_3": [
+  {
+   "brand": "G-TiDE",
+   "device": "G-TiDE_P1_3",
+   "model": "G-TiDE_P1"
+  }
+ ],
+ "G-TiDE_P1_4": [
+  {
+   "brand": "G-TiDE",
+   "device": "G-TiDE_P1_4",
    "model": "G-TiDE_P1"
   }
  ],
@@ -84817,6 +84862,18 @@
    "model": "Infinix-X551"
   }
  ],
+ "HOT Play": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X688B",
+   "model": "Infinix X688B"
+  },
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X688C",
+   "model": "Infinix X688C"
+  }
+ ],
  "HOT S3": [
   {
    "brand": "Infinix",
@@ -85304,16 +85361,23 @@
    "model": "Infinix X660C"
   }
  ],
+ "SMART": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X657B",
+   "model": "Infinix X657B"
+  },
+  {
+   "brand": "iGet",
+   "device": "iGET_SMART",
+   "model": "SMART"
+  }
+ ],
  "SMART 5": [
   {
    "brand": "Infinix",
    "device": "Infinix-X657C",
    "model": "Infinix X657C"
-  },
-  {
-   "brand": "Infinix",
-   "device": "Infinix-X688C",
-   "model": "Infinix X688C"
   }
  ],
  "SMART 5(SMART 6)": [
@@ -86442,6 +86506,13 @@
    "brand": "Innopia",
    "device": "IMTCTATV01",
    "model": "IMTCTATV01"
+  }
+ ],
+ "KCTV": [
+  {
+   "brand": "Innopia",
+   "device": "IMTM5000R",
+   "model": "IMTM5000R"
   }
  ],
  "mbadge": [
@@ -118465,6 +118536,13 @@
    "model": "CHROME LTE"
   }
  ],
+ "Chrome_LTE": [
+  {
+   "brand": "Mobicell",
+   "device": "Chrome_LTE",
+   "model": "Chrome LTE"
+  }
+ ],
  "Clik plus": [
   {
    "brand": "Mobicell",
@@ -131836,6 +131914,13 @@
    "model": "CPH1903"
   }
  ],
+ "CPH1907": [
+  {
+   "brand": "Oppo",
+   "device": "OP4B83L1",
+   "model": "CPH1907"
+  }
+ ],
  "CPH1909": [
   {
    "brand": "Oppo",
@@ -131848,6 +131933,13 @@
    "brand": "Oppo",
    "device": "OP4C7D",
    "model": "CPH2015"
+  }
+ ],
+ "CPH2043": [
+  {
+   "brand": "Oppo",
+   "device": "OP4B9EL1",
+   "model": "CPH2043"
   }
  ],
  "CPH2071": [
@@ -131923,6 +132015,13 @@
    "brand": "Oppo",
    "device": "OP4F39L1",
    "model": "CPH2197"
+  }
+ ],
+ "CPH2207": [
+  {
+   "brand": "Oppo",
+   "device": "OP4F0BL1",
+   "model": "CPH2207"
   }
  ],
  "CPH2211": [
@@ -132188,13 +132287,6 @@
    "model": "PEDM00"
   }
  ],
- "Find x3 neo": [
-  {
-   "brand": "Oppo",
-   "device": "OP4F0BL1",
-   "model": "CPH2207"
-  }
- ],
  "Find5": [
   {
    "brand": "Oppo",
@@ -132337,25 +132429,11 @@
    "model": "PELM00"
   }
  ],
- "OPPO Find X3 Lite 5G": [
-  {
-   "brand": "Oppo",
-   "device": "OP4F1BL1",
-   "model": "CPH2145"
-  }
- ],
  "OPPO Reno5": [
   {
    "brand": "Oppo",
    "device": "OP4F25L1",
    "model": "CPH2159"
-  }
- ],
- "OPPO Reno5 5G": [
-  {
-   "brand": "Oppo",
-   "device": "OP4F1BL1",
-   "model": "CPH2145"
   }
  ],
  "OPPO Reno5 A": [
@@ -132441,6 +132519,13 @@
    "brand": "Oppo",
    "device": "OP4ED5",
    "model": "PEQM00"
+  }
+ ],
+ "PFCM00": [
+  {
+   "brand": "Oppo",
+   "device": "OP5259",
+   "model": "PFCM00"
   }
  ],
  "R1001": [
@@ -133554,13 +133639,6 @@
    "brand": "Oppo",
    "device": "OP4EA3",
    "model": "PDST00"
-  }
- ],
- "Reno5 pro 5G": [
-  {
-   "brand": "Oppo",
-   "device": "OP4F0BL1",
-   "model": "CPH2207"
   }
  ],
  "Reno6 Pro+ 5G": [
@@ -149288,6 +149366,13 @@
    "brand": "Revomovil",
    "device": "S6523_RU",
    "model": "S6523 RU"
+  }
+ ],
+ "S6525": [
+  {
+   "brand": "Revomovil",
+   "device": "S6525",
+   "model": "S6525"
   }
  ],
  "M10p_001": [
@@ -177061,6 +177146,13 @@
    "model": "V136"
   }
  ],
+ "V138": [
+  {
+   "brand": "Symphony",
+   "device": "V138",
+   "model": "V138"
+  }
+ ],
  "V140": [
   {
    "brand": "Symphony",
@@ -187467,8 +187559,23 @@
  "CAMON": [
   {
    "brand": "Tecno",
+   "device": "TECNO-CE7j",
+   "model": "TECNO CE7j"
+  },
+  {
+   "brand": "Tecno",
    "device": "TECNO-CG6",
    "model": "TECNO CG6"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-CG7",
+   "model": "TECNO CG7"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-CH6h",
+   "model": "TECNO CH6h"
   }
  ],
  "CAMON 11": [
@@ -187546,13 +187653,6 @@
    "device": "TECNO-CE7",
    "model": "TECNO CE7"
   },
-  {
-   "brand": "Tecno",
-   "device": "TECNO-CE7j",
-   "model": "TECNO CE7j"
-  }
- ],
- "CAMON 16 (SE)": [
   {
    "brand": "Tecno",
    "device": "TECNO-CE7j",
@@ -188545,13 +188645,6 @@
    "brand": "Tecno",
    "device": "TECNO-CE9",
    "model": "TECNO CE9"
-  }
- ],
- "TECNO CAMON 18": [
-  {
-   "brand": "Tecno",
-   "device": "TECNO-CH6h",
-   "model": "TECNO CH6h"
   }
  ],
  "TECNO CAMON 18 Premier": [
@@ -218043,13 +218136,6 @@
    "model": "IFT1018"
   }
  ],
- "SMART": [
-  {
-   "brand": "iGet",
-   "device": "iGET_SMART",
-   "model": "SMART"
-  }
- ],
  "SMART_G101": [
   {
    "brand": "iGet",
@@ -219345,6 +219431,18 @@
    "brand": "realme",
    "device": "RED8D1",
    "model": "RMX3263"
+  }
+ ],
+ "真我Q3s": [
+  {
+   "brand": "realme",
+   "device": "RE548B",
+   "model": "RMX3461"
+  },
+  {
+   "brand": "realme",
+   "device": "RE548B",
+   "model": "RMX3462"
   }
  ],
  "Valuer_V8": [
