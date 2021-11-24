@@ -1887,6 +1887,13 @@
    "device": "t50p"
   }
  ],
+ "Smart_Prime": [
+  {
+   "brand": "ATOL",
+   "name": "Smart_Prime",
+   "device": "t150"
+  }
+ ],
  "100011886BK": [
   {
    "brand": "ATVIO",
@@ -7983,6 +7990,18 @@
    "brand": "AllView",
    "name": "X8 Soul Style",
    "device": "X8_Soul_Style"
+  }
+ ],
+ "T803": [
+  {
+   "brand": "Alldocube",
+   "name": "Smile_1",
+   "device": "Smile_1"
+  },
+  {
+   "brand": "Westgate Resorts",
+   "name": "T803",
+   "device": "T803"
   }
  ],
  "Smile_X": [
@@ -22406,6 +22425,13 @@
    "device": "Tab11_RU"
   }
  ],
+ "Tab 6 Kids": [
+  {
+   "brand": "Blackview",
+   "name": "Tab6Kids_EEA",
+   "device": "Tab6Kids_EEA"
+  }
+ ],
  "Tab 6": [
   {
    "brand": "Blackview",
@@ -25082,6 +25108,11 @@
    "brand": "Bluboo",
    "name": "X Pro",
    "device": "X_Pro"
+  },
+  {
+   "brand": "FELUX",
+   "name": "X_Pro",
+   "device": "X_Pro"
   }
  ],
  "MID1016BT001": [
@@ -26929,6 +26960,33 @@
    "device": "Star8_3G"
   }
  ],
+ "X5": [
+  {
+   "brand": "CORN",
+   "name": "X5",
+   "device": "X5S"
+  },
+  {
+   "brand": "KGTEL",
+   "name": "X5",
+   "device": "X5A"
+  },
+  {
+   "brand": "SPC Mobile",
+   "name": "X5",
+   "device": "X5"
+  },
+  {
+   "brand": "Selfix",
+   "name": "X5",
+   "device": "X5"
+  },
+  {
+   "brand": "Stylo",
+   "name": "X5",
+   "device": "X5"
+  }
+ ],
  "X60": [
   {
    "brand": "CORN",
@@ -27000,6 +27058,13 @@
    "brand": "CWOWDEFU",
    "name": "C82W",
    "device": "C82W"
+  }
+ ],
+ "C82W_EEA": [
+  {
+   "brand": "CWOWDEFU",
+   "name": "C82W_EEA",
+   "device": "C82W_EEA"
   }
  ],
  "F80L": [
@@ -42940,6 +43005,13 @@
    "device": "DC-M700"
   }
  ],
+ "EWIS OCTA-T700M": [
+  {
+   "brand": "EWIS",
+   "name": "OCTA-T700M",
+   "device": "OCTA-T700M"
+  }
+ ],
  "T800MC": [
   {
    "brand": "EWIS",
@@ -49886,6 +49958,13 @@
    "brand": "Fusion5",
    "name": "F104Ev2_PRO",
    "device": "F104Ev2_PRO"
+  }
+ ],
+ "F104Ev2_PRO_EEA": [
+  {
+   "brand": "Fusion5",
+   "name": "F104Ev2_PRO_EEA",
+   "device": "F104Ev2_PRO_EEA"
   }
  ],
  "F104EvII": [
@@ -68350,6 +68429,18 @@
    "device": "HMS-PD-X1C-3"
   }
  ],
+ "RT10A": [
+  {
+   "brand": "Honeywell",
+   "name": "RT10A",
+   "device": "TA60A-L0-C"
+  },
+  {
+   "brand": "Honeywell",
+   "name": "RT10A",
+   "device": "TA60A-L1-C"
+  }
+ ],
  "TA60A": [
   {
    "brand": "Honeywell",
@@ -85335,6 +85426,13 @@
    "device": "S501Pro"
   }
  ],
+ "SAMBA65S": [
+  {
+   "brand": "Ipro",
+   "name": "SAMBA65S",
+   "device": "SAMBA65S"
+  }
+ ],
  "Soda6S": [
   {
    "brand": "Ipro",
@@ -89163,28 +89261,6 @@
    "brand": "KGTEL",
    "name": "Better10",
    "device": "Better10"
-  }
- ],
- "X5": [
-  {
-   "brand": "KGTEL",
-   "name": "X5",
-   "device": "X5A"
-  },
-  {
-   "brand": "SPC Mobile",
-   "name": "X5",
-   "device": "X5"
-  },
-  {
-   "brand": "Selfix",
-   "name": "X5",
-   "device": "X5"
-  },
-  {
-   "brand": "Stylo",
-   "name": "X5",
-   "device": "X5"
   }
  ],
  "T650": [
@@ -132209,6 +132285,13 @@
    "device": "GEN-10"
   }
  ],
+ "GT1001": [
+  {
+   "brand": "OKSI",
+   "name": "GT1001",
+   "device": "GT1001"
+  }
+ ],
  "PI Plus": [
   {
    "brand": "OKWU",
@@ -134759,6 +134842,13 @@
    "device": "OP4F4DL1"
   }
  ],
+ "CPH2213": [
+  {
+   "brand": "Oppo",
+   "name": "CPH2213",
+   "device": "OP4F4DL1"
+  }
+ ],
  "CPH2223": [
   {
    "brand": "Oppo",
@@ -134771,6 +134861,13 @@
    "brand": "Oppo",
    "name": "CPH2235",
    "device": "OP4F25L1"
+  }
+ ],
+ "CPH2237": [
+  {
+   "brand": "Oppo",
+   "name": "CPH2237",
+   "device": "OP4FA7L1"
   }
  ],
  "CPH2239": [
@@ -135290,13 +135387,6 @@
    "device": "OP4EA7"
   }
  ],
- "CPH2213": [
-  {
-   "brand": "Oppo",
-   "name": "OPPO Reno5 Z",
-   "device": "OP4F4DL1"
-  }
- ],
  "PEGM10": [
   {
    "brand": "Oppo",
@@ -135328,6 +135418,13 @@
    "brand": "Oppo",
    "name": "OPPO Watch",
    "device": "orca"
+  }
+ ],
+ "PDST00": [
+  {
+   "brand": "Oppo",
+   "name": "PDST00",
+   "device": "OP4EA3"
   }
  ],
  "PEGM00": [
@@ -136508,13 +136605,6 @@
   }
  ],
  "PDSM00": [
-  {
-   "brand": "Oppo",
-   "name": "Reno5 Pro 5G",
-   "device": "OP4EA3"
-  }
- ],
- "PDST00": [
   {
    "brand": "Oppo",
    "name": "Reno5 Pro 5G",
@@ -140995,6 +141085,13 @@
    "device": "PR7RKTNF"
   }
  ],
+ "T9": [
+  {
+   "brand": "Performance",
+   "name": "T9",
+   "device": "T9"
+  }
+ ],
  "Perseo TV Home 2nd Generation Ranger": [
   {
    "brand": "Perseo TV",
@@ -144513,6 +144610,13 @@
    "brand": "Premier",
    "name": "TAB-7769-32G4GS",
    "device": "TAB-7769-32G4GS"
+  }
+ ],
+ "TAB-7887-32G3GB": [
+  {
+   "brand": "Premier",
+   "name": "TAB-7887-32G3GB",
+   "device": "TAB-7887-32G3GB"
   }
  ],
  "185FT5050231": [
@@ -148529,6 +148633,13 @@
    "brand": "Qisur",
    "name": "X72",
    "device": "X72"
+  }
+ ],
+ "Scepter 8 Tablet": [
+  {
+   "brand": "Qlink",
+   "name": "Scepter_8",
+   "device": "Scepter_8"
   }
  ],
  "Qphone2019_A": [
@@ -155786,6 +155897,20 @@
    "device": "a02q"
   }
  ],
+ "SM-A032F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A03 Core",
+   "device": "a3core"
+  }
+ ],
+ "SM-A032M": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A03 Core",
+   "device": "a3core"
+  }
+ ],
  "SM-A037F": [
   {
    "brand": "Samsung",
@@ -156218,6 +156343,13 @@
    "brand": "Samsung",
    "name": "Galaxy A22",
    "device": "a22"
+  }
+ ],
+ "SC-56B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A22 5G",
+   "device": "SC-56B"
   }
  ],
  "SM-A226B": [
@@ -180350,6 +180482,13 @@
    "device": "XQ-AQ62"
   }
  ],
+ "XQ-BE52": [
+  {
+   "brand": "Sony",
+   "name": "Xperia PRO-I",
+   "device": "XQ-BE52"
+  }
+ ],
  "G2199": [
   {
    "brand": "Sony",
@@ -203325,8 +203464,18 @@
   },
   {
    "brand": "Umidigi",
+   "name": "BISON X10 Pro TR",
+   "device": "BISON_X10_Pro"
+  },
+  {
+   "brand": "Umidigi",
    "name": "BISON X10 RU",
    "device": "BISON_X10"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "BISON_X10_Pro_RU",
+   "device": "BISON_X10_Pro"
   },
   {
    "brand": "Umidigi",
@@ -203572,6 +203721,20 @@
    "brand": "Unihertz",
    "name": "Jelly2_JP",
    "device": "Jelly2_JP"
+  }
+ ],
+ "Ticktock": [
+  {
+   "brand": "Unihertz",
+   "name": "Ticktock",
+   "device": "Ticktock"
+  }
+ ],
+ "Titan Slim": [
+  {
+   "brand": "Unihertz",
+   "name": "Titan Slim",
+   "device": "Titan_Slim"
   }
  ],
  "Titan pocket": [
@@ -204024,6 +204187,13 @@
    "brand": "VALTECH",
    "name": "TAB7Q804VAL",
    "device": "TAB7Q804VAL"
+  }
+ ],
+ "L10-T01": [
+  {
+   "brand": "VASOUN",
+   "name": "L10-T01",
+   "device": "L10-T01"
   }
  ],
  "XTi": [
@@ -212297,13 +212467,6 @@
    "device": "T802"
   }
  ],
- "T803": [
-  {
-   "brand": "Westgate Resorts",
-   "name": "T803",
-   "device": "T803"
-  }
- ],
  "W10TWF19": [
   {
    "brand": "Westinghouse",
@@ -215149,6 +215312,13 @@
    "brand": "Xgody",
    "name": "T702E_EEA",
    "device": "T702E_EEA"
+  }
+ ],
+ "T702Pro": [
+  {
+   "brand": "Xgody",
+   "name": "T702Pro",
+   "device": "T702Pro"
   }
  ],
  "T702Pro-A": [
@@ -219352,6 +219522,13 @@
    "brand": "ZTE",
    "name": "A1 Alpha",
    "device": "P963F01D"
+  }
+ ],
+ "A103ZT": [
+  {
+   "brand": "ZTE",
+   "name": "A103ZT",
+   "device": "Z6571S"
   }
  ],
  "A1P": [
@@ -226037,6 +226214,13 @@
    "device": "Z6251"
   }
  ],
+ "Z6252CA": [
+  {
+   "brand": "ZTE",
+   "name": "Z6252CA",
+   "device": "Z6252"
+  }
+ ],
  "Z6410S": [
   {
    "brand": "ZTE",
@@ -227300,6 +227484,13 @@
    "brand": "ZTE",
    "name": "ZTE Blade A31 Lite RU",
    "device": "P932F21"
+  }
+ ],
+ "ZTE Blade A31 Plus": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A31 Plus",
+   "device": "P963F80"
   }
  ],
  "ZTE Blade A31 Plus RU": [
@@ -231112,6 +231303,13 @@
    "device": "S90_Apex"
   }
  ],
+ "iHunt Like 12": [
+  {
+   "brand": "iHunt",
+   "name": "iHunt_Like_12_EEA",
+   "device": "iHunt_Like_12"
+  }
+ ],
  "iHunt_S60_Discovery_Pro_2020": [
   {
    "brand": "iHunt",
@@ -232036,6 +232234,11 @@
    "brand": "realme",
    "name": "真我Q3s",
    "device": "RE548B"
+  },
+  {
+   "brand": "realme",
+   "name": "真我Q3s",
+   "device": "RE548BL1"
   }
  ],
  "RMX3462": [
