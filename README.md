@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-11-24
+Last sync is 2021-11-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -930,6 +930,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Alldocube|Smile_1|Smile_1|T803|
 |Alldocube|Smile_X|T1028|Smile_X|
 |Alldocube|T1001|T1001|T1001|
+|Alldocube|T1021P|T1021PM|T1021P|
 |Alldocube|T1021T|T1021T|T1021T|
 |Alldocube|T701|T701|T701|
 |Alldocube|T701_X|T701_X|T701_X|
@@ -1297,6 +1298,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Archos|97b Titanium|A97BTI|ARCHOS 97B TITANIUM|
 |Archos|97c Platinum|ac97cpl|Archos 97c Platinum|
 |Archos|AC101XPro4G|AC101XPro4G|AC101XPro4G|
+|Archos|ACT101WF|ACT101WF|ACT101WF|
 |Archos|ALBA 5|ac50cr4gv2|ALBA 5|
 |Archos|ALBA4|ac40as3g|ALBA 4|
 |Archos|ARCHOS|ARCHOS|ARCHOS T96 WIFI_EEA_V2|
@@ -2960,6 +2962,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|Tab11_ROW|Tab11_ROW|Tab11|
 |Blackview|Tab11_RU|Tab11_RU|Tab11|
 |Blackview|Tab6Kids_EEA|Tab6Kids_EEA|Tab 6 Kids|
+|Blackview|Tab6Kids_RU|Tab6Kids_RU|Tab 6 Kids|
 |Blackview|Tab6_EEA|Tab6_EEA|Tab 6|
 |Blackview|Tab6_NEU|Tab6_NEU|Tab 6|
 |Blackview|Tab8|Tab8|Tab8|
@@ -3504,6 +3507,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CHAINWAY|C66|C66|C66|
 |CHAINWAY|C66_EEA|C66|C66|
 |CHAINWAY|C71|C71|C71|
+|CHAINWAY|C72_EEA|C72|C72|
+|CHAINWAY|C72_GL|C72|C72|
 |CHAINWAY|C90|C90|C90|
 |CHAINWAY|P80|P80|P80|
 |CHAINWAY|P80_EEA|P80|P80|
@@ -7114,6 +7119,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ghia|GHIA_L1|GHIA_L1|GHIA_L1|
 |Ghia|GHIA_VECTOR_3G|GHIA_VECTOR_3G|GHIA_VECTOR_3G|
 |Ghia|GPND133|GPND133|GPND133|
+|Ghia|GS3G|GS3G|GS3G|
 |Ghia|GTA7PLUS|GTA7PLUS|GTA7PLUS|
 |Ghia|GTA7WF|GTA7WF|GTA7WF|
 |Ghia|GTAB718|GTAB718|GTAB718|
@@ -9610,6 +9616,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hotwav|Cosmos|Cosmos|Cosmos|
 |Hotwav|Cosmos_U|Cosmos_U|Cosmos U|
 |Hotwav|Cyber 7|Cyber_7|Cyber 7|
+|Hotwav|Cyber 8|Cyber_8|Cyber 8|
 |Hotwav|H1|H1|H1|
 |Hotwav|HOT 6|HOT_6|HOT 6|
 |Hotwav|M5|M5|M5|
@@ -11559,7 +11566,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ikon|IK-7108|IK-7108|IK-7108|
 |Ikon|IK-787|IK-787|IK-787|
 |Ikon|IK-869|IK-869|IK-869|
+|Ikon|IK-T808|IK-T808|IK-T808|
 |Ikon|IK-WT1080|IK-WT1080|IK-WT1080|
+|Ikon|IK-WT1088|IK-WT1088|IK-WT1088|
 |Ikon|IKON|IK-1028|IK-1028|
 |IkuMobile|A10|A10|A10|
 |IkuMobile|A20|A20|A20|
@@ -12909,6 +12918,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kingcomm|C500|C500|Kingcomm C500|
 |Kingcomm|E550|E550|Kingcomm E550|
 |Kinstone|KST070CH_D|KST070CH_D|KST070CH_D|
+|Kinstone|KST103RC|KST103RC|KST103RC|
 |Kinstone|KST103SD|KST103SD|KST103SD|
 |Kinstone|SA070|Kinstone_SA070|KJ-YUBI|
 |Kinstone|SA070|Kinstone_SA070|SA070|
@@ -19489,7 +19499,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A54 5G|OP4F39L1|CPH2303|
 |Oppo|A55 5G|OP4E2F|PEMM00|
 |Oppo|A55 5G|OP4E2F|PEMT00|
-|Oppo|A55 5G|OP4E8C|PEMM20|
 |Oppo|A55 5G|OP4E8C|PEMT20|
 |Oppo|A55s 5G|OP52EBL1|A102OP|
 |Oppo|A55s 5G|OP52EBL1|CPH2309|
@@ -19580,6 +19589,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|CPH2077|OP4BFB|CPH2077|
 |Oppo|CPH2083|OP4BFB|CPH2083|
 |Oppo|CPH2145|OP4F1BL1|CPH2145|
+|Oppo|CPH2159|OP4F25L1|CPH2159|
 |Oppo|CPH2161|OP4EE8L1|CPH2161|
 |Oppo|CPH2173|OP4F57L1|CPH2173|
 |Oppo|CPH2179|OP4F2F|CPH2179|
@@ -19664,7 +19674,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO A54 5G|OP4F39L1|OPG02|
 |Oppo|OPPO A74 5G|OP4F39L1|CPH2197|
 |Oppo|OPPO A95 5G|OP4EB7|PELM00|
-|Oppo|OPPO Reno5|OP4F25L1|CPH2159|
 |Oppo|OPPO Reno5 A|OP4F2BL1|A101OP|
 |Oppo|OPPO Reno5 A|OP4F2BL1|CPH2199|
 |Oppo|OPPO Reno5 Pro+ 5G|OP4EA7|PDRM00|
@@ -19676,6 +19685,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|PDST00|OP4EA3|PDST00|
 |Oppo|PEGM00|OP4E8F|PEGM00|
 |Oppo|PEHM00|OP4E99|PEHT00|
+|Oppo|PEMM20|OP4E8C|PEMM20|
 |Oppo|PEPM00|OP4ECB|PEPM00|
 |Oppo|PEQM00|OP4ED5|PEQM00|
 |Oppo|PFCM00|OP5259|PFCM00|
@@ -19818,7 +19828,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno 2|OP4B83L1|CPH1907|
 |Oppo|Reno 2 中国版|OP4A57|PCKM00|
 |Oppo|Reno 4Z 5G|OP4BDCL1|CPH2065|
-|Oppo|Reno 5|OP4F25L1|CPH2159|
 |Oppo|Reno A|OP47CFL1|CPH1983|
 |Oppo|Reno Ace|OP4A89|PCLM10|
 |Oppo|Reno Ace2|OP4AD9|PDHM00|
@@ -20690,6 +20699,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|Xenium S566|S566|Xenium S566|
 |Philips|Xenium V377|Philips_V377|Philips V377|
 |Phoenix|PHONETABPRO|PHONETABPRO|PHONETABPRO|
+|Phoenix Note|M701A|M701A|M701A|
 |Phone Max|Rocky 2|Rocky_2|Rocky 2|
 |Phone Max|Rocky_1|Rocky_1|Rocky_1|
 |Phone Max|S4G|S4G|S4G|
@@ -20770,6 +20780,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Planet Computers|Cosmo_Communicator|Cosmo_Communicator|Cosmo_Communicator|
 |Planet Computers|Gemini|Gemini_4G|Gemini_4G|
 |PlayPoland|PLAY NOW TV BOX 2|DV8545-PLAY|PLAY NOW TV BOX 2|
+|PlayPoland|PLAY NOW TV BOX 3|DV8945-KPP|PLAY NOW TV BOX 3|
 |PlayPoland|Play Now|dctiw362p|DCTIW362_PLAY|
 |PlayPoland|play_dctiw362|dctiw362p|DCTIW362_PLAY|
 |Plimpton|X100|X100|X100|
@@ -21099,6 +21110,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Premier|TAB-7522-16G3G|TAB-7522-16G3G|TAB-7522-16G3G|
 |Premier|TAB-7769-32G4GS|TAB-7769-32G4GS|TAB-7769-32G4GS|
 |Premier|TAB-7887-32G3GB|TAB-7887-32G3GB|TAB-7887-32G3GB|
+|Premier|TAB-7888-32G3GB|TAB-7888-32G3GB|TAB-7888-32G3GB|
 |Premio|185FT5050231|185FT5050231|185FT5050231|
 |Premio|186FT1080231|186FT1080231|186FT1080231|
 |Premio|186HS1050232|186HS1050232|186HS1050232|
@@ -30199,6 +30211,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vastking|KingPad_SA8|KingPad_SA8|KingPad_SA8|
 |Vastking|KingPad_Z10|KingPad_Z10|KingPad_Z10|
 |Vastking|KingPad_Z10Mini|KingPad_Z10Mini|KingPad_Z10Mini|
+|Vastking|KingPad_Z10S|KingPad_Z10S|KingPad_Z10S|
 |Vastking|KingPad_Z10_EEA|KingPad_Z10_EEA|KingPad_Z10_EEA|
 |Vastking|VZ-1|VZ-1|VZ-1|
 |Vava|V1|V1|V1|
@@ -30391,6 +30404,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vertu|Signature Touch|titan|Signature Touch|
 |Vertu|Signature Touch|titan|Signature Touch L|
 |Vertu|Ti|hermione|VERTU Ti|
+|Vertu|VTL-202101|VTL-202101|VTL-202101|
 |Verykool|SL5029|verykoolSL5029|verykoolSL5029|
 |Verykool|SL5050|verykoolSL5050|verykoolSL5050|
 |Verykool|SL5200|verykoolSL5200|verykoolSL5200|
@@ -31627,6 +31641,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|Y81|W-V680|W-V680-OPE|
 |Wiko|Y81|W-V680|W-V680-SUN|
 |Wiko|Y82|W-K630|W-K630-EEA|
+|Wiko|Y82|W-K630|W-K630-OPE|
+|Wiko|Y82|W-K630|W-K630-TRU|
 |Wiko|sunny4 Plus|W-K360|W-K360-TV|
 |Wileyfox|Spark|porridge|Wileyfox Spark|
 |Wileyfox|Spark|porridge|Wileyfox Spark +|
@@ -33448,7 +33464,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|VERGATARIO 5|ZTE_BLADE_L110|VERGATARIO 5|
 |ZTE|VERGATARIO5PLUS|ZTE_BLADE_L110|VERGATARIO5PLUS|
 |ZTE|VFD 520|VFD520|VFD 520|
-|ZTE|VTL-202101|VTL-202101|VTL-202101|
 |ZTE|Vesta|proline|Z965|
 |ZTE|Vip Racer III|atlas40|Vip Racer III|
 |ZTE|Vodafone Smart Chat|turies|Vodafone Smart Chat|
@@ -33784,6 +33799,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZUOPU|JH786|JH786|JH786|
 |ZUOPU|JH863|JH863|JH863|
 |ZUOPU|M2a103|M2a103|M2a103|
+|ZZB (cn)|ZB40|ZB40|ZB40|
 |Zaith|Z3211G|Z3211G|Z3211G|
 |ZapiTV|Zapi2020|SEI500PTV|Zapi2020|
 |Zatec|JOY|JOY|JOY|
@@ -34029,6 +34045,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |afriphone|smart_S5|smart_S5|smart_S5|
 |alter|MIG|MIG|MIG|
 |amulet7|P10SU_Plus|P10SU_Plus|P10SU_Plus|
+|angel care|S6525 RU|S6525_RU|S6525 RU|
 |aoson|M753|M753|M753|
 |aoson|R103|R103|R103|
 |aoson|aoson|M815|M815|
@@ -34306,6 +34323,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iHunt|TITAN P11000 PRO|TITAN_P11000_PRO|TITAN_P11000_PRO|
 |iHunt|TITAN P15000 PRO 5G|P15000PRO_5G|TITAN P15000 PRO 5G|
 |iHunt|Tablet PC 10 PRO|Tablet_PC_10_PRO_EEA|Tablet PC 10 PRO|
+|iHunt|Tablet_X_EEA|Tablet_X|iHunt STRONG Tablet X PRO|
 |iHunt|Tian_P3000|Tian_P3000|Tian_P3000|
 |iHunt|Tian_P7000|Tian_P7000|Tian_P7000|
 |iHunt|Titan P8000 PRO 2021|Titan_P8000_PRO_2021|Titan P8000 PRO 2021|
