@@ -24123,6 +24123,11 @@
    "brand": "Blu",
    "name": "M8L",
    "device": "M0172WW"
+  },
+  {
+   "brand": "Blu",
+   "name": "M8L",
+   "device": "M0173WW"
   }
  ],
  "M8L PLUS": [
@@ -103482,13 +103487,6 @@
    "device": "IliumPad_RX8v2"
   }
  ],
- "Ilium Pad RX8v3": [
-  {
-   "brand": "Lanix",
-   "name": "IliumPad_RX8v3",
-   "device": "IliumPad_RX8v3"
-  }
- ],
  "Ilium Alpha 7": [
   {
    "brand": "Lanix",
@@ -124983,6 +124981,20 @@
    "device": "hanoip"
   }
  ],
+ "XT2171-3": [
+  {
+   "brand": "Motorola",
+   "name": "moto g51",
+   "device": "cypfq"
+  }
+ ],
+ "moto[SPACE]g(50)": [
+  {
+   "brand": "Motorola",
+   "name": "moto g51",
+   "device": "cypfq"
+  }
+ ],
  "XT1943-1": [
   {
    "brand": "Motorola",
@@ -133076,6 +133088,13 @@
    "device": "OnePlus9R"
   }
  ],
+ "MT2110": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 9RT 5G",
+   "device": "OP5154L1"
+  }
+ ],
  "AC2001": [
   {
    "brand": "OnePlus",
@@ -133239,13 +133258,6 @@
    "brand": "OnePlus",
    "name": "OnePlus6T",
    "device": "OnePlus6TSingle"
-  }
- ],
- "MT2110": [
-  {
-   "brand": "OnePlus",
-   "name": "OnePlusRT",
-   "device": "OP5154L1"
   }
  ],
  "Oneplus_Dosa_IN": [
@@ -134899,6 +134911,18 @@
    "device": "OP4F39L1"
   }
  ],
+ "CPH2201": [
+  {
+   "brand": "Oppo",
+   "name": "CPH2201",
+   "device": "OP4F1FL1"
+  },
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno5 pro",
+   "device": "OP4F1FL1"
+  }
+ ],
  "CPH2207": [
   {
    "brand": "Oppo",
@@ -135453,13 +135477,6 @@
    "brand": "Oppo",
    "name": "OPPO Reno5 k 5G",
    "device": "OP4E59"
-  }
- ],
- "CPH2201": [
-  {
-   "brand": "Oppo",
-   "name": "OPPO Reno5 pro",
-   "device": "OP4F1FL1"
   }
  ],
  "OPPO Watch": [

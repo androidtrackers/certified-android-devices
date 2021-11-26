@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-11-25
+Last sync is 2021-11-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3189,6 +3189,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|M8L|M0170WW|M8L|
 |Blu|M8L|M0171WW|M8L|
 |Blu|M8L|M0172WW|M8L|
+|Blu|M8L|M0173WW|M8L|
 |Blu|M8L PLUS|M0209WW|M8L PLUS|
 |Blu|M8L PLUS|M0210WW|M8L PLUS|
 |Blu|M8L_PLUS|M0208WW|M8L PLUS|
@@ -14808,7 +14809,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lanix|IliumPad_RX7|IliumPad_RX7|ILIUM_PAD_RX7|
 |Lanix|IliumPad_RX8|IliumPad_RX8|IliumPad_RX8|
 |Lanix|IliumPad_RX8v2|IliumPad_RX8v2|IliumPad_RX8v2|
-|Lanix|IliumPad_RX8v3|IliumPad_RX8v3|Ilium Pad RX8v3|
 |Lanix|Ilium_Alpha7|Ilium_Alpha7|Ilium Alpha 7|
 |Lanix|Ilium_Alpha_1TT|Ilium_Alpha_1TT|Ilium Alpha 1T|
 |Lanix|Ilium_Alpha_5T|Ilium_Alpha_5T|Ilium Alpha 5T|
@@ -18058,6 +18058,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g(9) power|cebu|moto g(9) power|
 |Motorola|moto g10 power|capri|moto g(10) power|
 |Motorola|moto g40 fusion|hanoip|moto g(40) fusion|
+|Motorola|moto g51|cypfq|XT2171-3|
+|Motorola|moto g51|cypfq|moto[SPACE]g(50)|
 |Motorola|moto g6 play|jeter|Moto G Play|
 |Motorola|moto g6 play|jeter|moto g(6) play|
 |Motorola|moto g60|hanoip|moto g(60)|
@@ -19331,6 +19333,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 9Pro 5G|OnePlus9Pro|LE2123|
 |OnePlus|OnePlus 9Pro 5G|OnePlus9Pro|LE2125|
 |OnePlus|OnePlus 9R|OnePlus9R|LE2100|
+|OnePlus|OnePlus 9RT 5G|OP5154L1|MT2110|
 |OnePlus|OnePlus Nord|Nord|AC2001|
 |OnePlus|OnePlus Nord|Nord|AC2003|
 |OnePlus|OnePlus Nord CE 5G|OnePlusNordCE|EB2101|
@@ -19360,7 +19363,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus6T|OnePlus6T|ONEPLUS A6013|
 |OnePlus|OnePlus6T|OnePlus6TSingle|ONEPLUS A6013|
 |OnePlus|OnePlus9R|OnePlus9R|LE2100|
-|OnePlus|OnePlusRT|OP5154L1|MT2110|
 |OnePlus|Oneplus_Dosa_IN|Oneplus_Dosa_IN|Oneplus_Dosa_IN|
 |OnePlus|X|OnePlus|ONE E1003|
 |OnePlus|Y Series|shibuya|Y Series|
@@ -19597,6 +19599,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|CPH2185|OP4F2F|CPH21859|
 |Oppo|CPH2195|OP4F39L1|CPH2195|
 |Oppo|CPH2197|OP4F39L1|CPH2197|
+|Oppo|CPH2201|OP4F1FL1|CPH2201|
 |Oppo|CPH2207|OP4F0BL1|CPH2207|
 |Oppo|CPH2211|OP4F4DL1|CPH2211|
 |Oppo|CPH2213|OP4F4DL1|CPH2213|

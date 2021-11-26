@@ -16409,6 +16409,11 @@
    "model": "M8L"
   },
   {
+   "device": "M0173WW",
+   "name": "M8L",
+   "model": "M8L"
+  },
+  {
    "device": "M0209WW",
    "name": "M8L PLUS",
    "model": "M8L PLUS"
@@ -76126,11 +76131,6 @@
    "model": "IliumPad_RX8v2"
   },
   {
-   "device": "IliumPad_RX8v3",
-   "name": "IliumPad_RX8v3",
-   "model": "Ilium Pad RX8v3"
-  },
-  {
    "device": "Ilium_Alpha7",
    "name": "Ilium_Alpha7",
    "model": "Ilium Alpha 7"
@@ -92744,6 +92744,16 @@
    "model": "moto g(40) fusion"
   },
   {
+   "device": "cypfq",
+   "name": "moto g51",
+   "model": "XT2171-3"
+  },
+  {
+   "device": "cypfq",
+   "name": "moto g51",
+   "model": "moto[SPACE]g(50)"
+  },
+  {
    "device": "jeter",
    "name": "moto g6 play",
    "model": "Moto G Play"
@@ -99407,6 +99417,11 @@
    "model": "LE2100"
   },
   {
+   "device": "OP5154L1",
+   "name": "OnePlus 9RT 5G",
+   "model": "MT2110"
+  },
+  {
    "device": "Nord",
    "name": "OnePlus Nord",
    "model": "AC2001"
@@ -99550,11 +99565,6 @@
    "device": "OnePlus9R",
    "name": "OnePlus9R",
    "model": "LE2100"
-  },
-  {
-   "device": "OP5154L1",
-   "name": "OnePlusRT",
-   "model": "MT2110"
   },
   {
    "device": "Oneplus_Dosa_IN",
@@ -100753,6 +100763,11 @@
    "device": "OP4F39L1",
    "name": "CPH2197",
    "model": "CPH2197"
+  },
+  {
+   "device": "OP4F1FL1",
+   "name": "CPH2201",
+   "model": "CPH2201"
   },
   {
    "device": "OP4F0BL1",
