@@ -26128,6 +26128,13 @@
    "device": "ac55crp"
   }
  ],
+ "BUSH-TVE19N": [
+  {
+   "brand": "Bush",
+   "name": "Bush",
+   "device": "sindang"
+  }
+ ],
  "Bush10Nou": [
   {
    "brand": "Bush",
@@ -104179,6 +104186,13 @@
    "device": "iris90"
   }
  ],
+ "LAVA LXX501": [
+  {
+   "brand": "Lava",
+   "name": "LAVA AGNI 5G",
+   "device": "LXX501"
+  }
+ ],
  "Lava Z66": [
   {
    "brand": "Lava",
@@ -104273,6 +104287,13 @@
    "brand": "Lava",
    "name": "LZG01",
    "device": "LZG01"
+  }
+ ],
+ "Magnum_Pro": [
+  {
+   "brand": "Lava",
+   "name": "Magnum Pro",
+   "device": "Magnum_Pro"
   }
  ],
  "P7plus": [
@@ -104379,6 +104400,13 @@
    "brand": "Lava",
    "name": "T71_w",
    "device": "T71_w"
+  }
+ ],
+ "T81": [
+  {
+   "brand": "Lava",
+   "name": "T81",
+   "device": "T81"
   }
  ],
  "T81N": [

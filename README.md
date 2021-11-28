@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-11-27
+Last sync is 2021-11-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3450,6 +3450,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bush|BUSH SPIRA B3 10 TABLET|ac101boxv3|BUSH SPIRA B3 10 TABLET|
 |Bush|BUSH SPIRA B3 8 TABLET|ac80oxv2|BUSH SPIRA B3 8 TABLET|
 |Bush|BUSH SPIRA B5.5 POWER|ac55crp|BUSH SPIRA B5.5 POWER|
+|Bush|Bush|sindang|BUSH-TVE19N|
 |Bush|Bush10Nou|Bush10Nou|Bush10Nou|
 |Bush|MyTablet 79|ac79bu|BUSH 7.85 TABLET|
 |Bush|SPIRA B3 5|ac50co|BUSH SPIRA B3 5|
@@ -14907,6 +14908,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|Iris61|LN9910|LN9910|
 |Lava|Iris820|iris820|iris820|
 |Lava|Iris90|iris90|iris90|
+|Lava|LAVA AGNI 5G|LXX501|LAVA LXX501|
 |Lava|LAVA Z66|Z66|Lava Z66|
 |Lava|LE000Z93P|LE000Z93P|LE000Z93P|
 |Lava|LE9810|LE9810|LAVA LE9810|
@@ -14920,6 +14922,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|LN9820|LN9820|LN9820|
 |Lava|LN9820|LN9820|LN9821|
 |Lava|LZG01|LZG01|LAVA LZG01|
+|Lava|Magnum Pro|Magnum_Pro|Magnum_Pro|
 |Lava|P7|P7|P7|
 |Lava|P7 Plus|P7plus|P7plus|
 |Lava|P7plus|P7plus|P7plus|
@@ -14937,6 +14940,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|T71N|T71N|T71N|
 |Lava|T71N_M|T71N_M|T71N_M|
 |Lava|T71_w|T71_w|T71_w|
+|Lava|T81|T81|T81|
 |Lava|T81N|T81N|T81N|
 |Lava|V2 3GB|V23GB|V23GB|
 |Lava|V2s|V2s|V2s|

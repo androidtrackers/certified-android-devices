@@ -24760,6 +24760,11 @@
    "model": "BLAU-TVE19H"
   },
   {
+   "brand": "Bush",
+   "name": "Bush",
+   "model": "BUSH-TVE19N"
+  },
+  {
    "brand": "Polaroid",
    "name": "polaroid",
    "model": "POLA-TVE19M"
@@ -101847,6 +101852,13 @@
    "model": "iris90"
   }
  ],
+ "LXX501": [
+  {
+   "brand": "Lava",
+   "name": "LAVA AGNI 5G",
+   "model": "LAVA LXX501"
+  }
+ ],
  "Z66": [
   {
    "brand": "Lava",
@@ -101939,6 +101951,13 @@
    "brand": "Lava",
    "name": "LZG01",
    "model": "LAVA LZG01"
+  }
+ ],
+ "Magnum_Pro": [
+  {
+   "brand": "Lava",
+   "name": "Magnum Pro",
+   "model": "Magnum_Pro"
   }
  ],
  "P7": [
@@ -102077,6 +102096,13 @@
    "brand": "Lava",
    "name": "T71_w",
    "model": "T71_w"
+  }
+ ],
+ "T81": [
+  {
+   "brand": "Lava",
+   "name": "T81",
+   "model": "T81"
   }
  ],
  "T81N": [

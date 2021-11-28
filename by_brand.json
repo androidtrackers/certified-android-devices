@@ -17780,6 +17780,11 @@
    "model": "BUSH SPIRA B5.5 POWER"
   },
   {
+   "device": "sindang",
+   "name": "Bush",
+   "model": "BUSH-TVE19N"
+  },
+  {
    "device": "Bush10Nou",
    "name": "Bush10Nou",
    "model": "Bush10Nou"
@@ -76627,6 +76632,11 @@
    "model": "iris90"
   },
   {
+   "device": "LXX501",
+   "name": "LAVA AGNI 5G",
+   "model": "LAVA LXX501"
+  },
+  {
    "device": "Z66",
    "name": "LAVA Z66",
    "model": "Lava Z66"
@@ -76690,6 +76700,11 @@
    "device": "LZG01",
    "name": "LZG01",
    "model": "LAVA LZG01"
+  },
+  {
+   "device": "Magnum_Pro",
+   "name": "Magnum Pro",
+   "model": "Magnum_Pro"
   },
   {
    "device": "P7",
@@ -76775,6 +76790,11 @@
    "device": "T71_w",
    "name": "T71_w",
    "model": "T71_w"
+  },
+  {
+   "device": "T81",
+   "name": "T81",
+   "model": "T81"
   },
   {
    "device": "T81N",

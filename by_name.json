@@ -32126,6 +32126,13 @@
    "model": "BUSH SPIRA B5.5 POWER"
   }
  ],
+ "Bush": [
+  {
+   "brand": "Bush",
+   "device": "sindang",
+   "model": "BUSH-TVE19N"
+  }
+ ],
  "Bush10Nou": [
   {
    "brand": "Bush",
@@ -104166,6 +104173,13 @@
    "model": "iris90"
   }
  ],
+ "LAVA AGNI 5G": [
+  {
+   "brand": "Lava",
+   "device": "LXX501",
+   "model": "LAVA LXX501"
+  }
+ ],
  "LAVA Z66": [
   {
    "brand": "Lava",
@@ -104253,6 +104267,13 @@
    "brand": "Lava",
    "device": "LZG01",
    "model": "LAVA LZG01"
+  }
+ ],
+ "Magnum Pro": [
+  {
+   "brand": "Lava",
+   "device": "Magnum_Pro",
+   "model": "Magnum_Pro"
   }
  ],
  "P7 Plus": [
@@ -104374,6 +104395,18 @@
    "brand": "Lava",
    "device": "T71_w",
    "model": "T71_w"
+  }
+ ],
+ "T81": [
+  {
+   "brand": "Lava",
+   "device": "T81",
+   "model": "T81"
+  },
+  {
+   "brand": "ZTE",
+   "device": "iliamna",
+   "model": "ZTE T81"
   }
  ],
  "T81N": [
@@ -212085,13 +212118,6 @@
    "brand": "ZTE",
    "device": "msm8226",
    "model": "ZTE T80"
-  }
- ],
- "T81": [
-  {
-   "brand": "ZTE",
-   "device": "iliamna",
-   "model": "ZTE T81"
   }
  ],
  "T82": [
