@@ -101130,6 +101130,11 @@
    "model": "N5117"
   },
   {
+   "device": "OP4F39L1",
+   "name": "OPG02_jp_kdi",
+   "model": "OPG02"
+  },
+  {
    "device": "OP4EEA",
    "name": "OPPO A33",
    "model": "CPH2137"
@@ -101158,11 +101163,6 @@
    "device": "OP4E7B",
    "name": "OPPO A54",
    "model": "PEZM00"
-  },
-  {
-   "device": "OP4F39L1",
-   "name": "OPPO A54 5G",
-   "model": "OPG02"
   },
   {
    "device": "OP4F39L1",
@@ -101248,6 +101248,11 @@
    "device": "OP5259",
    "name": "PFCM00",
    "model": "PFCM00"
+  },
+  {
+   "device": "OP5231",
+   "name": "PFGM00",
+   "model": "PFGM00"
   },
   {
    "device": "OPPO72_13076",
@@ -135654,6 +135659,11 @@
    "device": "XQ-BE52",
    "name": "Xperia PRO-I",
    "model": "XQ-BE52"
+  },
+  {
+   "device": "XQ-BE72",
+   "name": "Xperia PRO-I",
+   "model": "XQ-BE72"
   },
   {
    "device": "G2199",
@@ -175142,6 +175152,11 @@
    "device": "SEI500TV",
    "name": "Pyxis",
    "model": "Pyxis"
+  },
+  {
+   "device": "SEI500ABB",
+   "name": "Pyxis-ABB",
+   "model": "Pyxis-ABB"
   },
   {
    "device": "SEI500AS",

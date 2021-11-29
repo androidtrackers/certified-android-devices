@@ -131393,7 +131393,7 @@
   },
   {
    "brand": "Oppo",
-   "name": "OPPO A54 5G",
+   "name": "OPG02_jp_kdi",
    "model": "OPG02"
   },
   {
@@ -132519,6 +132519,13 @@
    "brand": "Oppo",
    "name": "PFCM00",
    "model": "PFCM00"
+  }
+ ],
+ "OP5231": [
+  {
+   "brand": "Oppo",
+   "name": "PFGM00",
+   "model": "PFGM00"
   }
  ],
  "OPPO72_13076": [
@@ -175349,6 +175356,13 @@
    "brand": "Sony",
    "name": "Xperia PRO-I",
    "model": "XQ-BE52"
+  }
+ ],
+ "XQ-BE72": [
+  {
+   "brand": "Sony",
+   "name": "Xperia PRO-I",
+   "model": "XQ-BE72"
   }
  ],
  "G2199": [
@@ -219921,6 +219935,13 @@
    "brand": "eSTREAM 4K",
    "name": "Pyxis",
    "model": "Pyxis"
+  }
+ ],
+ "SEI500ABB": [
+  {
+   "brand": "eSTREAM 4K",
+   "name": "Pyxis-ABB",
+   "model": "Pyxis-ABB"
   }
  ],
  "SEI500AS": [

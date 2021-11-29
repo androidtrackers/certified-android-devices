@@ -135416,6 +135416,13 @@
    "device": "N5117"
   }
  ],
+ "OPG02": [
+  {
+   "brand": "Oppo",
+   "name": "OPG02_jp_kdi",
+   "device": "OP4F39L1"
+  }
+ ],
  "CPH2137": [
   {
    "brand": "Oppo",
@@ -135456,13 +135463,6 @@
    "brand": "Oppo",
    "name": "OPPO A54",
    "device": "OP4E7B"
-  }
- ],
- "OPG02": [
-  {
-   "brand": "Oppo",
-   "name": "OPPO A54 5G",
-   "device": "OP4F39L1"
   }
  ],
  "PELM00": [
@@ -135566,6 +135566,13 @@
    "brand": "Oppo",
    "name": "PFCM00",
    "device": "OP5259"
+  }
+ ],
+ "PFGM00": [
+  {
+   "brand": "Oppo",
+   "name": "PFGM00",
+   "device": "OP5231"
   }
  ],
  "R1001": [
@@ -180614,6 +180621,13 @@
    "brand": "Sony",
    "name": "Xperia PRO-I",
    "device": "XQ-BE52"
+  }
+ ],
+ "XQ-BE72": [
+  {
+   "brand": "Sony",
+   "name": "Xperia PRO-I",
+   "device": "XQ-BE72"
   }
  ],
  "G2199": [
@@ -230236,6 +230250,13 @@
    "brand": "eSTREAM 4K",
    "name": "IPA1104HDW-02",
    "device": "kunlun"
+  }
+ ],
+ "Pyxis-ABB": [
+  {
+   "brand": "eSTREAM 4K",
+   "name": "Pyxis-ABB",
+   "device": "SEI500ABB"
   }
  ],
  "Pyxis-ARMSTRONG": [

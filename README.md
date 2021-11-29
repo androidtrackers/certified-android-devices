@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-11-28
+Last sync is 2021-11-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -19672,13 +19672,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|N3|N3|N5209|
 |Oppo|N5110|N5110|N5110|
 |Oppo|N5117|N5117|N5117|
+|Oppo|OPG02_jp_kdi|OP4F39L1|OPG02|
 |Oppo|OPPO A33|OP4EEA|CPH2137|
 |Oppo|OPPO A35|OP4E7B|PEFM00|
 |Oppo|OPPO A53 5G|OP4E49|PECM30|
 |Oppo|OPPO A53 5G|OP4E49|PECT30|
 |Oppo|OPPO A53s 5G|OP4F53L1|CPH2321|
 |Oppo|OPPO A54|OP4E7B|PEZM00|
-|Oppo|OPPO A54 5G|OP4F39L1|OPG02|
 |Oppo|OPPO A74 5G|OP4F39L1|CPH2197|
 |Oppo|OPPO A95 5G|OP4EB7|PELM00|
 |Oppo|OPPO Reno5 A|OP4F2BL1|A101OP|
@@ -19696,6 +19696,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|PEPM00|OP4ECB|PEPM00|
 |Oppo|PEQM00|OP4ED5|PEQM00|
 |Oppo|PFCM00|OP5259|PFCM00|
+|Oppo|PFGM00|OP5231|PFGM00|
 |Oppo|R1001|OPPO72_13076|R1001|
 |Oppo|R1001|R1001|R1001|
 |Oppo|R1011|R1011|R1011|
@@ -26448,6 +26449,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia PRO|XQ-AQ52|XQ-AQ52|
 |Sony|Xperia PRO|XQ-AQ62|XQ-AQ62|
 |Sony|Xperia PRO-I|XQ-BE52|XQ-BE52|
+|Sony|Xperia PRO-I|XQ-BE72|XQ-BE72|
 |Sony|Xperia R1|G2199|G2199|
 |Sony|Xperia R1 Plus|G2299|G2299|
 |Sony|Xperia S|LT26i|LT26i|
@@ -34144,6 +34146,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |eSTREAM 4K|IPA-1104HDH-01|eSTREAM4K_4x4|IPA-1104HDH-01|
 |eSTREAM 4K|IPA1104HDW-02|kunlun|IPA1104HDW-02|
 |eSTREAM 4K|Pyxis|SEI500TV|Pyxis|
+|eSTREAM 4K|Pyxis-ABB|SEI500ABB|Pyxis-ABB|
 |eSTREAM 4K|Pyxis-ARMSTRONG|SEI500AS|Pyxis-ARMSTRONG|
 |eSTREAM 4K|Pyxis-BlueRidge|SEI500BR|Pyxis-BlueRidge|
 |eSTREAM 4K|Pyxis-BlueStream|SEI500BS|Pyxis-BlueStream|
