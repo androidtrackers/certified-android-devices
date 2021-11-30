@@ -43341,6 +43341,16 @@
    "model": "MY21ADA"
   },
   {
+   "brand": "Panasonic",
+   "device": "balticaCA",
+   "model": "MY21ADA"
+  },
+  {
+   "brand": "Panasonic",
+   "device": "balticaDA",
+   "model": "MY21ADA"
+  },
+  {
    "brand": "Subaru",
    "device": "balticaBA",
    "model": "MY22ADA"
@@ -45185,6 +45195,13 @@
    "brand": "Digma",
    "device": "CS6063ML",
    "model": "CITI 609 4G CS6063ML"
+  }
+ ],
+ "CITI_13_X703_4G": [
+  {
+   "brand": "Digma",
+   "device": "CS3242ML",
+   "model": "CITI_13_X703_4G_CS3242ML"
   }
  ],
  "CITI_1590_3G_CS1207MG": [
@@ -122450,6 +122467,18 @@
    "model": "moto g pro"
   }
  ],
+ "moto g pure": [
+  {
+   "brand": "Motorola",
+   "device": "ellis",
+   "model": "moto g power"
+  },
+  {
+   "brand": "Motorola",
+   "device": "ellis",
+   "model": "moto g pure"
+  }
+ ],
  "moto g stylus": [
   {
    "brand": "Motorola",
@@ -123808,6 +123837,11 @@
  "M7 WIFI": [
   {
    "brand": "Multilaser",
+   "device": "ML_JI2D_M7_WIFI",
+   "model": "M7_WIFI"
+  },
+  {
+   "brand": "Multilaser",
    "device": "ML_SO0E_M7_WIFI",
    "model": "M7_WIFI"
   },
@@ -124332,6 +124366,13 @@
    "brand": "Multilaser",
    "device": "Multilaser_E_A10",
    "model": "Multilaser_E"
+  }
+ ],
+ "Multilaser E 2": [
+  {
+   "brand": "Multilaser",
+   "device": "Multilaser_E_2",
+   "model": "Multilaser_E_2"
   }
  ],
  "Multilaser E Lite": [
@@ -132518,13 +132559,6 @@
    "model": "X909T"
   }
  ],
- "K9 5G": [
-  {
-   "brand": "Oppo",
-   "device": "OP4E9F",
-   "model": "PEXM00"
-  }
- ],
  "N1 mimi": [
   {
    "brand": "Oppo",
@@ -132738,6 +132772,13 @@
    "brand": "Oppo",
    "device": "OP4ED5",
    "model": "PEQM00"
+  }
+ ],
+ "PEXM00": [
+  {
+   "brand": "Oppo",
+   "device": "OP4E9F",
+   "model": "PEXM00"
   }
  ],
  "PFCM00": [
@@ -148159,11 +148200,21 @@
    "brand": "Realme",
    "device": "RED8AF",
    "model": "RMX3430"
+  },
+  {
+   "brand": "realme",
+   "device": "RED8AF",
+   "model": "RMX3430"
   }
  ],
  "realme pad": [
   {
    "brand": "Realme",
+   "device": "RE54C1L1",
+   "model": "RMP2103"
+  },
+  {
+   "brand": "realme",
    "device": "RE54C1L1",
    "model": "RMP2103"
   }
@@ -150470,7 +150521,7 @@
    "model": "BAS-AT800"
   }
  ],
- "Home Entertainment Box": [
+ "PlayZ": [
   {
    "brand": "SK Broadband",
    "device": "BIP-EB100",
@@ -167401,6 +167452,13 @@
    "brand": "Sharp",
    "device": "tcve8sj",
    "model": "AQUOS-8KTVJ21"
+  }
+ ],
+ "8T-C**DW1X": [
+  {
+   "brand": "Sharp",
+   "device": "tcba8sx",
+   "model": "AQUOS-TVH21A"
   }
  ],
  "8T-C**DW1X/DW2X": [
@@ -195142,6 +195200,20 @@
    "model": "Stream TV"
   }
  ],
+ "Stream TV Soundbar": [
+  {
+   "brand": "Verizon",
+   "device": "sti6251d315",
+   "model": "Stream TV Soundbar"
+  }
+ ],
+ "Stream TV Soundbar Pro": [
+  {
+   "brand": "Verizon",
+   "device": "sti6250d315",
+   "model": "Stream TV Soundbar Pro"
+  }
+ ],
  "Visible Midnight": [
   {
    "brand": "Verizon",
@@ -214138,6 +214210,13 @@
    "brand": "ZTE",
    "device": "P618F05",
    "model": "ZTE 9030RU"
+  }
+ ],
+ "ZTE 9040N": [
+  {
+   "brand": "ZTE",
+   "device": "P653S11",
+   "model": "ZTE 9040N"
   }
  ],
  "ZTE A0616": [

@@ -41092,6 +41092,13 @@
    "model": "CITI 609 4G CS6063ML"
   }
  ],
+ "CS3242ML": [
+  {
+   "brand": "Digma",
+   "name": "CITI_13_X703_4G",
+   "model": "CITI_13_X703_4G_CS3242ML"
+  }
+ ],
  "CS1207MG": [
   {
    "brand": "Digma",
@@ -121952,6 +121959,18 @@
    "model": "moto g pro"
   }
  ],
+ "ellis": [
+  {
+   "brand": "Motorola",
+   "name": "moto g pure",
+   "model": "moto g power"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g pure",
+   "model": "moto g pure"
+  }
+ ],
  "sofiap": [
   {
    "brand": "Motorola",
@@ -123247,6 +123266,13 @@
    "model": "M7_WIFI"
   }
  ],
+ "ML_JI2D_M7_WIFI": [
+  {
+   "brand": "Multilaser",
+   "name": "M7 WIFI",
+   "model": "M7_WIFI"
+  }
+ ],
  "ML_SO0E_M7_WIFI": [
   {
    "brand": "Multilaser",
@@ -123795,6 +123821,13 @@
    "brand": "Multilaser",
    "name": "Multilaser E",
    "model": "Multilaser_E"
+  }
+ ],
+ "Multilaser_E_2": [
+  {
+   "brand": "Multilaser",
+   "name": "Multilaser E 2",
+   "model": "Multilaser_E_2"
   }
  ],
  "Multilaser_E_Lite": [
@@ -132356,13 +132389,6 @@
    "model": "PCNM00"
   }
  ],
- "OP4E9F": [
-  {
-   "brand": "Oppo",
-   "name": "K9 5G",
-   "model": "PEXM00"
-  }
- ],
  "N1mini": [
   {
    "brand": "Oppo",
@@ -132512,6 +132538,13 @@
    "brand": "Oppo",
    "name": "PEQM00",
    "model": "PEQM00"
+  }
+ ],
+ "OP4E9F": [
+  {
+   "brand": "Oppo",
+   "name": "PEXM00",
+   "model": "PEXM00"
   }
  ],
  "OP5259": [
@@ -135882,6 +135915,20 @@
    "brand": "Panasonic",
    "name": "55DX600C",
    "model": "TH-55DX600C"
+  }
+ ],
+ "balticaCA": [
+  {
+   "brand": "Panasonic",
+   "name": "A-DA",
+   "model": "MY21ADA"
+  }
+ ],
+ "balticaDA": [
+  {
+   "brand": "Panasonic",
+   "name": "A-DA",
+   "model": "MY21ADA"
   }
  ],
  "AS650C": [
@@ -147496,6 +147543,11 @@
    "brand": "Realme",
    "name": "realme pad",
    "model": "RMP2103"
+  },
+  {
+   "brand": "realme",
+   "name": "realme pad",
+   "model": "RMP2103"
   }
  ],
  "RMX1971CN": [
@@ -147784,6 +147836,11 @@
  "RED8AF": [
   {
    "brand": "Realme",
+   "name": "realme narzo 50A",
+   "model": "RMX3430"
+  },
+  {
+   "brand": "realme",
    "name": "realme narzo 50A",
    "model": "RMX3430"
   }
@@ -149933,7 +149990,7 @@
  "BIP-EB100": [
   {
    "brand": "SK Broadband",
-   "name": "Home Entertainment Box",
+   "name": "PlayZ",
    "model": "BIP-EB100"
   }
  ],
@@ -169209,6 +169266,11 @@
   }
  ],
  "tcba8sx": [
+  {
+   "brand": "Sharp",
+   "name": "8T-C**DW1X",
+   "model": "AQUOS-TVH21A"
+  },
   {
    "brand": "Sharp",
    "name": "8T-C**DW1X/DW2X",
@@ -197320,6 +197382,20 @@
    "model": "Stream TV"
   }
  ],
+ "sti6251d315": [
+  {
+   "brand": "Verizon",
+   "name": "Stream TV Soundbar",
+   "model": "Stream TV Soundbar"
+  }
+ ],
+ "sti6250d315": [
+  {
+   "brand": "Verizon",
+   "name": "Stream TV Soundbar Pro",
+   "model": "Stream TV Soundbar Pro"
+  }
+ ],
  "WTVIS01": [
   {
    "brand": "Verizon",
@@ -217127,6 +217203,13 @@
    "brand": "ZTE",
    "name": "ZTE 9030N",
    "model": "ZTE 9030N"
+  }
+ ],
+ "P653S11": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE 9040N",
+   "model": "ZTE 9040N"
   }
  ],
  "P637S15": [

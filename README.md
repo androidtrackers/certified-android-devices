@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-11-29
+Last sync is 2021-11-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5250,6 +5250,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Digitron|i_Buddie|TR10CS1_12|TR10CS1|
 |Digix|TAB-740_G|TAB-740_G|TAB-740_G|
 |Digma|CITI 609|CS6063ML|CITI 609 4G CS6063ML|
+|Digma|CITI_13_X703_4G|CS3242ML|CITI_13_X703_4G_CS3242ML|
 |Digma|CITI_1590_3G_CS1207MG|CS1207MG|CITI 1590 3G CS1207MG|
 |Digma|CITI_1593_3G_CS1210MG|CS1210MG|CITI 1593 3G CS1210MG|
 |Digma|CITI_7586_3G|TS7203MG|CITI_7586_3G_TS7203MG|
@@ -17999,6 +18000,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g power (2021)|borneo|moto g power (2021)|
 |Motorola|moto g power (XT2041DL)|sofia|moto g power (XT2041DL)|
 |Motorola|moto g pro|sofiap_sprout|moto g pro|
+|Motorola|moto g pure|ellis|moto g power|
+|Motorola|moto g pure|ellis|moto g pure|
 |Motorola|moto g stylus|sofiap|moto g stylus|
 |Motorola|moto g stylus (2021)|minsk|moto g stylus|
 |Motorola|moto g stylus (2021)|minsk|moto g stylus (2021)|
@@ -18218,6 +18221,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M7 3G PLUS|ML_WI0A_M7_3G_PLUS|M7_3G_PLUS|
 |Multilaser|M7 3G Plus|ML_WI12_M7_3G_PLUS|M7_3G_PLUS|
 |Multilaser|M7 WIF|ML_JI1D_M7_WIFI|M7_WIFI|
+|Multilaser|M7 WIFI|ML_JI2D_M7_WIFI|M7_WIFI|
 |Multilaser|M7 WIFI|ML_SO0E_M7_WIFI|M7_WIFI|
 |Multilaser|M7 WIFI|ML_SO1E_M7_Wifi|M7_WIFI|
 |Multilaser|M7-3G PLUS|ML-JI21-M7-3G-PLUS|M7-3G-PLUS|
@@ -18299,6 +18303,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|Ms6|MS6|MS6|
 |Multilaser|Multilaser E|Multilaser_E|Multilaser_E|
 |Multilaser|Multilaser E|Multilaser_E_A10|Multilaser_E|
+|Multilaser|Multilaser E 2|Multilaser_E_2|Multilaser_E_2|
 |Multilaser|Multilaser E Lite|Multilaser_E_Lite|Multilaser_E_Lite|
 |Multilaser|Multilaser E Pro|Multilaser_E_Pro|Multilaser_E_Pro|
 |Multilaser|Multilaser Elite 2|Multilaser_Elite_2|Multilaser_Elite_2|
@@ -19661,7 +19666,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|K3|OP4679|PCGT00|
 |Oppo|K3|OP486B|CPH1955|
 |Oppo|K5|OP4AA7|PCNM00|
-|Oppo|K9 5G|OP4E9F|PEXM00|
 |Oppo|N1|N1|N1|
 |Oppo|N1 mimi|N1mini|N5111|
 |Oppo|N1 mimi|N1mini|N5116|
@@ -19695,6 +19699,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|PEMM20|OP4E8C|PEMM20|
 |Oppo|PEPM00|OP4ECB|PEPM00|
 |Oppo|PEQM00|OP4ED5|PEQM00|
+|Oppo|PEXM00|OP4E9F|PEXM00|
 |Oppo|PFCM00|OP5259|PFCM00|
 |Oppo|PFGM00|OP5231|PFGM00|
 |Oppo|R1001|OPPO72_13076|R1001|
@@ -20208,6 +20213,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|4KTV-0SUW|SW4H|4KTV-0SUW|
 |Panasonic|55AX600C|mst918_4k2k|55AX600C|
 |Panasonic|55DX600C|DX600C|TH-55DX600C|
+|Panasonic|A-DA|balticaCA|MY21ADA|
+|Panasonic|A-DA|balticaDA|MY21ADA|
 |Panasonic|AS650C|AS650C|AS650C|
 |Panasonic|AX600C|AX600C|AX600C|
 |Panasonic|Active Surface|surface7|surface7|
@@ -22472,7 +22479,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SK Broadband|BFX-AT100|BFX-AT100|BFX-AT100|
 |SK Broadband|BKO-AT800|BKO-AT800|BKO-AT800|
 |SK Broadband|BTV|vip5442|BAS-AT800|
-|SK Broadband|Home Entertainment Box|BIP-EB100|BIP-EB100|
+|SK Broadband|PlayZ|BIP-EB100|BIP-EB100|
 |SK Broadband|SMART3|INTEKS20SI|BID-AT200|
 |SK Broadband|SWAN|BFX-UA300|BFX-UA300|
 |SK Broadband|Smart3 Mini|BIP-UW200|BIP-UW200|
@@ -25539,6 +25546,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|8T-C**BW1|tcme8sj|AQUOS-8KTVJ19|
 |Sharp|8T-C**CX1|tcme8tsj|AQUOS-8KTVJ20|
 |Sharp|8T-C**DW1|tcve8sj|AQUOS-8KTVJ21|
+|Sharp|8T-C**DW1X|tcba8sx|AQUOS-TVH21A|
 |Sharp|8T-C**DW1X/DW2X|tcba8sx|AQUOS-TVX21A|
 |Sharp|8T-CxxAXAA|lcd_xxgae9a|LCD-xxGAE9A|
 |Sharp|A01SH|A01SH|A01SH|
@@ -30279,6 +30287,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Verizon|Stream TV|JS8V|Stream TV|
 |Verizon|Stream TV|f354|Stream TV|
 |Verizon|Stream TV|sti6220d315|Stream TV|
+|Verizon|Stream TV Soundbar|sti6251d315|Stream TV Soundbar|
+|Verizon|Stream TV Soundbar Pro|sti6250d315|Stream TV Soundbar Pro|
 |Verizon|Visible Midnight|WTVIS01|WTVIS01|
 |Verizon Wireless|5059S|U50PLUS|5059S|
 |Verizon Wireless|Ellipsis 10|QTAIR7|QTAIR7|
@@ -33600,6 +33610,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE 9030|P618F05|ZTE 9030|
 |ZTE|ZTE 9030N|P653S07|ZTE 9030N|
 |ZTE|ZTE 9030RU|P618F05|ZTE 9030RU|
+|ZTE|ZTE 9040N|P653S11|ZTE 9040N|
 |ZTE|ZTE A0616|P637S15|ZTE A0616|
 |ZTE|ZTE A0620|P840S13|ZTE A0620|
 |ZTE|ZTE A0622|P817S13|ZTE A0622|
@@ -34521,6 +34532,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C15 Qualcomm Edition|RMX2195L1|RMX2195|
 |realme|realme C21-Y|RED8D1|RMX3263|
 |realme|realme GT 5G|RMX2202L1|RMX2202|
+|realme|realme narzo 50A|RED8AF|RMX3430|
+|realme|realme pad|RE54C1L1|RMP2103|
 |realme|真我Q3s|RE548B|RMX3461|
 |realme|真我Q3s|RE548B|RMX3462|
 |realme|真我Q3s|RE548BL1|RMX3461|
