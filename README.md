@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-11-30
+Last sync is 2021-12-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4627,6 +4627,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Crosscall|Action-X3|HS8937QC|Action-X3 Pro|
 |Crosscall|Action-X3|HS8937QCs|ACTION-X3|
 |Crosscall|Action-X3|HS8937QCs|Action-X3|
+|Crosscall|Action-X5|L752|Action-X5|
 |Crosscall|CORE-M4|CORE-M4|CORE-M4|
 |Crosscall|CORE-M4 GO|CORE-M4-GO|CORE-M4 GO|
 |Crosscall|Core- X3|HS8917QC|Core-X3|
@@ -16695,6 +16696,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mecer|TF10MK1|TF10MK1_3|TF10MK1|
 |Mecool|KA2|KA2|KA2|
 |Mecool|KD1|KD1|KD1|
+|Mecool|KD2|KD2|KD2|
 |Mecool|KM1|KM1|KM1|
 |Mecool|KM2|LAS|LEAP-S1|
 |Mecool|KM3|KM3|KM3|

@@ -34398,6 +34398,13 @@
    "device": "HS8937QC"
   }
  ],
+ "Action-X5": [
+  {
+   "brand": "Crosscall",
+   "name": "Action-X5",
+   "device": "L752"
+  }
+ ],
  "CORE-M4": [
   {
    "brand": "Crosscall",
@@ -89375,6 +89382,11 @@
  "KD2": [
   {
    "brand": "KONDE",
+   "name": "KD2",
+   "device": "KD2"
+  },
+  {
+   "brand": "Mecool",
    "name": "KD2",
    "device": "KD2"
   }

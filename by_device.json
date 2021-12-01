@@ -36459,6 +36459,13 @@
    "model": "Action-X3"
   }
  ],
+ "L752": [
+  {
+   "brand": "Crosscall",
+   "name": "Action-X5",
+   "model": "Action-X5"
+  }
+ ],
  "CORE-M4": [
   {
    "brand": "Crosscall",
@@ -88199,6 +88206,11 @@
  "KD2": [
   {
    "brand": "KONDE",
+   "name": "KD2",
+   "model": "KD2"
+  },
+  {
+   "brand": "Mecool",
    "name": "KD2",
    "model": "KD2"
   }

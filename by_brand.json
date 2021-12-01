@@ -23941,6 +23941,11 @@
    "model": "Action-X3"
   },
   {
+   "device": "L752",
+   "name": "Action-X5",
+   "model": "Action-X5"
+  },
+  {
    "device": "CORE-M4",
    "name": "CORE-M4",
    "model": "CORE-M4"
@@ -85815,6 +85820,11 @@
    "device": "KD1",
    "name": "KD1",
    "model": "KD1"
+  },
+  {
+   "device": "KD2",
+   "name": "KD2",
+   "model": "KD2"
   },
   {
    "device": "KM1",
