@@ -131808,6 +131808,11 @@
   {
    "device": "Sarah",
    "name": "AQUOS sense5G",
+   "model": "A105SH"
+  },
+  {
+   "device": "Sarah",
+   "name": "AQUOS sense5G",
    "model": "SH-M17"
   },
   {
@@ -158336,6 +158341,11 @@
    "device": "PD2148",
    "name": "V2148A",
    "model": "V2148A"
+  },
+  {
+   "device": "PD2154",
+   "name": "V2154A",
+   "model": "V2154A"
   },
   {
    "device": "PD2156",

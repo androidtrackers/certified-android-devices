@@ -170315,6 +170315,11 @@
   {
    "brand": "Sharp",
    "name": "AQUOS sense5G",
+   "model": "A105SH"
+  },
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense5G",
    "model": "SH-M17"
   }
  ],
@@ -200973,6 +200978,13 @@
    "brand": "Vivo",
    "name": "V2148A",
    "model": "V2148A"
+  }
+ ],
+ "PD2154": [
+  {
+   "brand": "Vivo",
+   "name": "V2154A",
+   "model": "V2154A"
   }
  ],
  "PD1524": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-12-01
+Last sync is 2021-12-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -25696,6 +25696,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS sense4 plus|VG2|SH-S40P|
 |Sharp|AQUOS sense5G|SH-53A|SH-53A|
 |Sharp|AQUOS sense5G|Sarah|A004SH|
+|Sharp|AQUOS sense5G|Sarah|A105SH|
 |Sharp|AQUOS sense5G|Sarah|SH-M17|
 |Sharp|AQUOS sense5G|WJG|SHG03|
 |Sharp|AQUOS sense5G SH-S50|SarahH|SH-S50|
@@ -30854,6 +30855,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2143A|PD2143|V2143A|
 |Vivo|V2145A|PD2145|V2145A|
 |Vivo|V2148A|PD2148|V2148A|
+|Vivo|V2154A|PD2154|V2154A|
 |Vivo|V2156A|PD2156|V2156A|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|

@@ -168485,6 +168485,11 @@
   {
    "brand": "Sharp",
    "device": "Sarah",
+   "model": "A105SH"
+  },
+  {
+   "brand": "Sharp",
+   "device": "Sarah",
    "model": "SH-M17"
   },
   {
@@ -198878,6 +198883,13 @@
    "brand": "Vivo",
    "device": "PD2148",
    "model": "V2148A"
+  }
+ ],
+ "V2154A": [
+  {
+   "brand": "Vivo",
+   "device": "PD2154",
+   "model": "V2154A"
   }
  ],
  "V2156A": [

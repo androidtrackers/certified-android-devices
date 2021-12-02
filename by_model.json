@@ -175573,6 +175573,13 @@
    "device": "Sarah"
   }
  ],
+ "A105SH": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense5G",
+   "device": "Sarah"
+  }
+ ],
  "SH-M17": [
   {
    "brand": "Sharp",
@@ -209137,6 +209144,13 @@
    "brand": "Vivo",
    "name": "V2148A",
    "device": "PD2148"
+  }
+ ],
+ "V2154A": [
+  {
+   "brand": "Vivo",
+   "name": "V2154A",
+   "device": "PD2154"
   }
  ],
  "V2156A": [
