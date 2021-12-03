@@ -29063,6 +29063,13 @@
    "model": "C5L 2021"
   }
  ],
+ "C5L Max": [
+  {
+   "brand": "Blu",
+   "device": "C0170WW",
+   "model": "C5L Max"
+  }
+ ],
  "C5L+ 2021": [
   {
    "brand": "Blu",
@@ -36306,6 +36313,13 @@
    "brand": "Chuwi",
    "device": "HiPadPlus",
    "model": "HiPadPlus"
+  }
+ ],
+ "HiPadX_11": [
+  {
+   "brand": "Chuwi",
+   "device": "HiPadX",
+   "model": "HiPadX"
   }
  ],
  "HiPad_Pro": [
@@ -68138,6 +68152,13 @@
    "brand": "Symphony",
    "device": "i50",
    "model": "i50"
+  }
+ ],
+ "HPAD_IA65": [
+  {
+   "brand": "Haitech",
+   "device": "Tablet",
+   "model": "KITYPRO"
   }
  ],
  "HPAD_IP8045": [
@@ -122863,11 +122884,45 @@
    "model": "moto g(10) power"
   }
  ],
+ "moto g31": [
+  {
+   "brand": "Motorola",
+   "device": "cofud",
+   "model": "moto g31(w)"
+  },
+  {
+   "brand": "Motorola",
+   "device": "cofud",
+   "model": "motorola"
+  },
+  {
+   "brand": "Motorola",
+   "device": "coful",
+   "model": "moto g31"
+  },
+  {
+   "brand": "Motorola",
+   "device": "coful",
+   "model": "motorola"
+  }
+ ],
  "moto g40 fusion": [
   {
    "brand": "Motorola",
    "device": "hanoip",
    "model": "moto g(40) fusion"
+  }
+ ],
+ "moto g41": [
+  {
+   "brand": "Motorola",
+   "device": "corfu",
+   "model": "moto g41"
+  },
+  {
+   "brand": "Motorola",
+   "device": "corfu",
+   "model": "motorola"
   }
  ],
  "moto g51": [
@@ -122880,6 +122935,18 @@
    "brand": "Motorola",
    "device": "cypfq",
    "model": "moto[SPACE]g(50)"
+  }
+ ],
+ "moto g51 5G": [
+  {
+   "brand": "Motorola",
+   "device": "cypfq",
+   "model": "moto g(50)"
+  },
+  {
+   "brand": "Motorola",
+   "device": "cypfq",
+   "model": "moto g51 5G"
   }
  ],
  "moto g6 play": [
@@ -147329,6 +147396,13 @@
    "model": "P710"
   }
  ],
+ "Rakuten Hand5G": [
+  {
+   "brand": "Rakuten",
+   "device": "P780",
+   "model": "P780"
+  }
+ ],
  "Cell": [
   {
    "brand": "Ratel",
@@ -148536,6 +148610,11 @@
    "brand": "Redmi",
    "device": "selene",
    "model": "21061119AL"
+  },
+  {
+   "brand": "Redmi",
+   "device": "selene",
+   "model": "21121119SG"
   }
  ],
  "Redmi 10X": [
@@ -173274,6 +173353,11 @@
    "brand": "Sony",
    "device": "XQ-BE52",
    "model": "XQ-BE52"
+  },
+  {
+   "brand": "Sony",
+   "device": "XQ-BE62",
+   "model": "XQ-BE62"
   },
   {
    "brand": "Sony",

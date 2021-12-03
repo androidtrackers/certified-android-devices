@@ -25454,6 +25454,13 @@
    "model": "C5L 2021"
   }
  ],
+ "C0170WW": [
+  {
+   "brand": "Blu",
+   "name": "C5L Max",
+   "model": "C5L Max"
+  }
+ ],
  "C0130WW": [
   {
    "brand": "Blu",
@@ -31934,6 +31941,13 @@
    "brand": "Chuwi",
    "name": "HiPadPlus_TR",
    "model": "HiPadPlus"
+  }
+ ],
+ "HiPadX": [
+  {
+   "brand": "Chuwi",
+   "name": "HiPadX_11",
+   "model": "HiPadX"
   }
  ],
  "CH108Q": [
@@ -63757,6 +63771,18 @@
    "brand": "Symphony",
    "name": "i50",
    "model": "i50"
+  }
+ ],
+ "Tablet": [
+  {
+   "brand": "Haitech",
+   "name": "HPAD_IA65",
+   "model": "KITYPRO"
+  },
+  {
+   "brand": "Noblex",
+   "name": "T7A6N",
+   "model": "T7A6N"
   }
  ],
  "HPAD_IP8045": [
@@ -107338,6 +107364,11 @@
    "brand": "Lenovo",
    "name": "P780",
    "model": "Lenovo P780"
+  },
+  {
+   "brand": "Rakuten",
+   "name": "Rakuten Hand5G",
+   "model": "P780"
   }
  ],
  "P780_ROW": [
@@ -122358,6 +122389,42 @@
    "model": "moto g(9) power"
   }
  ],
+ "cofud": [
+  {
+   "brand": "Motorola",
+   "name": "moto g31",
+   "model": "moto g31(w)"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g31",
+   "model": "motorola"
+  }
+ ],
+ "coful": [
+  {
+   "brand": "Motorola",
+   "name": "moto g31",
+   "model": "moto g31"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g31",
+   "model": "motorola"
+  }
+ ],
+ "corfu": [
+  {
+   "brand": "Motorola",
+   "name": "moto g41",
+   "model": "moto g41"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g41",
+   "model": "motorola"
+  }
+ ],
  "cypfq": [
   {
    "brand": "Motorola",
@@ -122368,6 +122435,16 @@
    "brand": "Motorola",
    "name": "moto g51",
    "model": "moto[SPACE]g(50)"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g51 5G",
+   "model": "moto g(50)"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g51 5G",
+   "model": "moto g51 5G"
   }
  ],
  "robusta": [
@@ -127981,13 +128058,6 @@
    "brand": "Noblex",
    "name": "T7A6INC",
    "model": "T7A6INC"
-  }
- ],
- "Tablet": [
-  {
-   "brand": "Noblex",
-   "name": "T7A6N",
-   "model": "T7A6N"
   }
  ],
  "DV6068H_Nokia": [
@@ -148120,6 +148190,11 @@
    "brand": "Redmi",
    "name": "Redmi 10",
    "model": "21061119AL"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10",
+   "model": "21121119SG"
   }
  ],
  "apricot": [
@@ -175435,6 +175510,13 @@
    "brand": "Sony",
    "name": "Xperia PRO-I",
    "model": "XQ-BE52"
+  }
+ ],
+ "XQ-BE62": [
+  {
+   "brand": "Sony",
+   "name": "Xperia PRO-I",
+   "model": "XQ-BE62"
   }
  ],
  "XQ-BE72": [

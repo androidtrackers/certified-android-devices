@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-12-02
+Last sync is 2021-12-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3079,6 +3079,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|C5L 2020|C0070WW|C5L 2020|
 |Blu|C5L 2021|C0100TT|C5L 2021|
 |Blu|C5L 2021|C0110WW|C5L 2021|
+|Blu|C5L Max|C0170WW|C5L Max|
 |Blu|C5L+ 2021|C0130WW|C5L+ 2021|
 |Blu|C5L_2020|C0070WW|C5L 2020|
 |Blu|C5L_Plus|C0040TT|C5L Plus|
@@ -4008,6 +4009,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Chuwi|HiPadPlus_ROW|HiPadPlus|HiPadPlus|
 |Chuwi|HiPadPlus_RU|HiPadPlus|HiPadPlus|
 |Chuwi|HiPadPlus_TR|HiPadPlus|HiPadPlus|
+|Chuwi|HiPadX_11|HiPadX|HiPadX|
 |Chuwi|HiPad_Pro|CH108Q|HiPad Pro|
 |Chuwi|HipadX|HipadX|HiPad X|
 |Chuwi|HipadX_eea_1|HipadX|HiPad X|
@@ -8601,6 +8603,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|candy android TV|hanyang|CANDY Android TV|
 |Haier|haier lesure L7|Haier_Leisure_L7|HM-N700-FL|
 |Haier|i50|i50|Haier_i50|
+|Haitech|HPAD_IA65|Tablet|KITYPRO|
 |Haitech|HPAD_IP8045|HPAD_IP8045|HPAD_IP8045|
 |Haitech|HPAD_IP8045_1|HPAD_IP8045_1|HPAD_IP8045_1|
 |HaloBop (ShenZhen)|BG001|HelloGenius|BG001|
@@ -18066,9 +18069,17 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g(9) plus|odessa|moto g(9) plus|
 |Motorola|moto g(9) power|cebu|moto g(9) power|
 |Motorola|moto g10 power|capri|moto g(10) power|
+|Motorola|moto g31|cofud|moto g31(w)|
+|Motorola|moto g31|cofud|motorola|
+|Motorola|moto g31|coful|moto g31|
+|Motorola|moto g31|coful|motorola|
 |Motorola|moto g40 fusion|hanoip|moto g(40) fusion|
+|Motorola|moto g41|corfu|moto g41|
+|Motorola|moto g41|corfu|motorola|
 |Motorola|moto g51|cypfq|XT2171-3|
 |Motorola|moto g51|cypfq|moto[SPACE]g(50)|
+|Motorola|moto g51 5G|cypfq|moto g(50)|
+|Motorola|moto g51 5G|cypfq|moto g51 5G|
 |Motorola|moto g6 play|jeter|Moto G Play|
 |Motorola|moto g6 play|jeter|moto g(6) play|
 |Motorola|moto g60|hanoip|moto g(60)|
@@ -21973,6 +21984,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rakuten|C330|C330|C330|
 |Rakuten|Rakuten BIG s|gaea|3917JR|
 |Rakuten|Rakuten Hand|P710|P710|
+|Rakuten|Rakuten Hand5G|P780|P780|
 |Ratel|Cell|Cell|CELL|
 |Rayan|AM_TAB_7_03|AMAA703|AMA_A703|
 |Raylandz|H1 PLUS|PHOENIX_H1PLUS|PHOENIX_H1PLUS|
@@ -22162,6 +22174,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 10|eos|21061119DG|
 |Redmi|Redmi 10|selene|21061119AG|
 |Redmi|Redmi 10|selene|21061119AL|
+|Redmi|Redmi 10|selene|21121119SG|
 |Redmi|Redmi 10X|apricot|M2004J7AC|
 |Redmi|Redmi 10X|atom|M2004J7AC|
 |Redmi|Redmi 10X|atom|atom|
@@ -26460,6 +26473,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia PRO|XQ-AQ52|XQ-AQ52|
 |Sony|Xperia PRO|XQ-AQ62|XQ-AQ62|
 |Sony|Xperia PRO-I|XQ-BE52|XQ-BE52|
+|Sony|Xperia PRO-I|XQ-BE62|XQ-BE62|
 |Sony|Xperia PRO-I|XQ-BE72|XQ-BE72|
 |Sony|Xperia R1|G2199|G2199|
 |Sony|Xperia R1 Plus|G2299|G2299|
