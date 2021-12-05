@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-12-04
+Last sync is 2021-12-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7522,6 +7522,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Rockchip RK3288 Chromebook|jerry_cheets|Rockchip RK3288 Chromebook|
 |Google|Rockchip RK3288 Chromebook|mighty_cheets|RK3288 Chrome OS Device|
 |Google|Rockchip RK3288 Chromebook|mighty_cheets|Rockchip RK3288 Chromebook|
+|Google|gcar emulator|generic_64bitonly_x86_64|Automotive SDK built for x86_64|
 |Google|gcar emulator|generic_x86|AOSP on x86|
 |Google|gcar emulator|generic_x86|Automotive SDK built for x86|
 |Gplus|F53|GPLUS_F53|GPLUS F53|
@@ -8603,6 +8604,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|candy android TV|hanyang|CANDY Android TV|
 |Haier|haier lesure L7|Haier_Leisure_L7|HM-N700-FL|
 |Haier|i50|i50|Haier_i50|
+|Haitech|HPAD_IA65|HPAD_IA65|HPAD_IA65|
 |Haitech|HPAD_IA65|Tablet|KITYPRO|
 |Haitech|HPAD_IP8045|HPAD_IP8045|HPAD_IP8045|
 |Haitech|HPAD_IP8045_1|HPAD_IP8045_1|HPAD_IP8045_1|
@@ -19701,13 +19703,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Reno5 A|OP4F2BL1|A101OP|
 |Oppo|OPPO Reno5 A|OP4F2BL1|CPH2199|
 |Oppo|OPPO Reno5 Pro+ 5G|OP4EA7|PDRM00|
-|Oppo|OPPO Reno5 k 5G|OP4E59|PEGM10|
-|Oppo|OPPO Reno5 k 5G|OP4E59|PEGT10|
 |Oppo|OPPO Reno5 pro|OP4F1FL1|CPH2201|
 |Oppo|OPPO Watch|beluga|OPPO Watch|
 |Oppo|OPPO Watch|orca|OPPO Watch|
 |Oppo|PDST00|OP4EA3|PDST00|
 |Oppo|PEGM00|OP4E8F|PEGM00|
+|Oppo|PEGM10|OP4E59|PEGM10|
+|Oppo|PEGT10|OP4E59|PEGT10|
 |Oppo|PEHM00|OP4E99|PEHT00|
 |Oppo|PEMM20|OP4E8C|PEMM20|
 |Oppo|PEPM00|OP4ECB|PEPM00|
@@ -21973,6 +21975,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ROKiT|IO Light|Chinchilla|IO Light|
 |ROKiT|IO Pro|Emu|IO Pro|
 |ROKiT|dingo|Dingo|IO 3D|
+|ROLLCALL|DT|DT|DT|
 |RT Project|Glam|Glam|Glam|
 |RT Project|SHOCK6|SHOCK6|SHOCK6|
 |RT Project|WIDE|WIDE|WIDE|
@@ -26895,8 +26898,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SoyMomo|SoyMomo_Pro_V1|Pro_V1|SoyMomo_Pro_V1|
 |SoyMomo|SoyMomo_Pro_V2|SoyMomo_Pro_V2|SoyMomo_Pro_V2|
 |Spark|Spark_Plus_3|Spark_Plus_3|Spark Plus 3|
+|Spectra Geospatial|MobileMapper60_2|MM60_2|MobileMapper60_2|
 |Spectra Geospatial|Ranger 5|bcat|RGR5|
-|Spectra Geospatial|Spectra_Geospatial|MM60_2|MobileMapper60_2|
 |SpectraPrecision|Ranger 5 Handheld|workhorse_wifi|Ranger5|
 |SpectraPrecision|Ranger 8 Handheld|pelican|Ranger8|
 |SpectraPrecision|Ranger 8 Handheld|pelican_wifi|Ranger8|
@@ -31397,6 +31400,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|Primo S6 Dual|Primo_S6_Dual|Primo S6 Dual|
 |Walton|RX7 Mini|RX7_Mini|RX7 Mini|
 |Walton|WALPAD 10P|10P|WALPAD 10P|
+|Walton|WALPAD_8G|WALPAD_8G|WALPAD_8G|
 |Walton|Walton Primo X5|Primo_X5|Walton Primo X5|
 |Wansa|WUD55JOA63S|samseong|AI PONT|
 |Wansa|xiaoyushan_emW|xiaoyushan|HiSmartTV A4|

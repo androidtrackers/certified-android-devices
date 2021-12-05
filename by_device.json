@@ -57178,6 +57178,13 @@
    "model": "Rockchip RK3288 Chromebook"
   }
  ],
+ "generic_64bitonly_x86_64": [
+  {
+   "brand": "Google",
+   "name": "gcar emulator",
+   "model": "Automotive SDK built for x86_64"
+  }
+ ],
  "GPLUS_F53": [
   {
    "brand": "Gplus",
@@ -63771,6 +63778,13 @@
    "brand": "Symphony",
    "name": "i50",
    "model": "i50"
+  }
+ ],
+ "HPAD_IA65": [
+  {
+   "brand": "Haitech",
+   "name": "HPAD_IA65",
+   "model": "HPAD_IA65"
   }
  ],
  "Tablet": [
@@ -132563,18 +132577,6 @@
    "model": "PDRM00"
   }
  ],
- "OP4E59": [
-  {
-   "brand": "Oppo",
-   "name": "OPPO Reno5 k 5G",
-   "model": "PEGM10"
-  },
-  {
-   "brand": "Oppo",
-   "name": "OPPO Reno5 k 5G",
-   "model": "PEGT10"
-  }
- ],
  "beluga": [
   {
    "brand": "Oppo",
@@ -132606,6 +132608,18 @@
    "brand": "Oppo",
    "name": "PEGM00",
    "model": "PEGM00"
+  }
+ ],
+ "OP4E59": [
+  {
+   "brand": "Oppo",
+   "name": "PEGM10",
+   "model": "PEGM10"
+  },
+  {
+   "brand": "Oppo",
+   "name": "PEGT10",
+   "model": "PEGT10"
   }
  ],
  "OP4ECB": [
@@ -146857,6 +146871,13 @@
    "brand": "ROKiT",
    "name": "IO Pro",
    "model": "IO Pro"
+  }
+ ],
+ "DT": [
+  {
+   "brand": "ROLLCALL",
+   "name": "DT",
+   "model": "DT"
   }
  ],
  "Glam": [
@@ -178158,6 +178179,13 @@
    "model": "Spark Plus 3"
   }
  ],
+ "MM60_2": [
+  {
+   "brand": "Spectra Geospatial",
+   "name": "MobileMapper60_2",
+   "model": "MobileMapper60_2"
+  }
+ ],
  "bcat": [
   {
    "brand": "Spectra Geospatial",
@@ -178173,13 +178201,6 @@
    "brand": "Trimble Navigation",
    "name": "TSC5",
    "model": "TSC5"
-  }
- ],
- "MM60_2": [
-  {
-   "brand": "Spectra Geospatial",
-   "name": "Spectra_Geospatial",
-   "model": "MobileMapper60_2"
   }
  ],
  "workhorse_wifi": [
@@ -204424,6 +204445,13 @@
    "brand": "Walton",
    "name": "WALPAD 10P",
    "model": "WALPAD 10P"
+  }
+ ],
+ "WALPAD_8G": [
+  {
+   "brand": "Walton",
+   "name": "WALPAD_8G",
+   "model": "WALPAD_8G"
   }
  ],
  "Primo_X5": [

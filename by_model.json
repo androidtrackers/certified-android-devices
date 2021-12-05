@@ -55026,6 +55026,13 @@
    "device": "mighty_cheets"
   }
  ],
+ "Automotive SDK built for x86_64": [
+  {
+   "brand": "Google",
+   "name": "gcar emulator",
+   "device": "generic_64bitonly_x86_64"
+  }
+ ],
  "AOSP on x86": [
   {
    "brand": "Google",
@@ -62267,6 +62274,13 @@
    "brand": "Haier",
    "name": "i50",
    "device": "i50"
+  }
+ ],
+ "HPAD_IA65": [
+  {
+   "brand": "Haitech",
+   "name": "HPAD_IA65",
+   "device": "HPAD_IA65"
   }
  ],
  "KITYPRO": [
@@ -135608,20 +135622,6 @@
    "device": "OP4EA7"
   }
  ],
- "PEGM10": [
-  {
-   "brand": "Oppo",
-   "name": "OPPO Reno5 k 5G",
-   "device": "OP4E59"
-  }
- ],
- "PEGT10": [
-  {
-   "brand": "Oppo",
-   "name": "OPPO Reno5 k 5G",
-   "device": "OP4E59"
-  }
- ],
  "OPPO Watch": [
   {
    "brand": "Oppo",
@@ -135646,6 +135646,20 @@
    "brand": "Oppo",
    "name": "PEGM00",
    "device": "OP4E8F"
+  }
+ ],
+ "PEGM10": [
+  {
+   "brand": "Oppo",
+   "name": "PEGM10",
+   "device": "OP4E59"
+  }
+ ],
+ "PEGT10": [
+  {
+   "brand": "Oppo",
+   "name": "PEGT10",
+   "device": "OP4E59"
   }
  ],
  "PEHT00": [
@@ -150350,6 +150364,13 @@
    "brand": "ROKiT",
    "name": "IO Pro",
    "device": "Emu"
+  }
+ ],
+ "DT": [
+  {
+   "brand": "ROLLCALL",
+   "name": "DT",
+   "device": "DT"
   }
  ],
  "Glam": [
@@ -183379,6 +183400,13 @@
    "device": "Spark_Plus_3"
   }
  ],
+ "MobileMapper60_2": [
+  {
+   "brand": "Spectra Geospatial",
+   "name": "MobileMapper60_2",
+   "device": "MM60_2"
+  }
+ ],
  "RGR5": [
   {
    "brand": "Spectra Geospatial",
@@ -183389,13 +183417,6 @@
    "brand": "Trimble Navigation",
    "name": "Ranger 5",
    "device": "bcat"
-  }
- ],
- "MobileMapper60_2": [
-  {
-   "brand": "Spectra Geospatial",
-   "name": "Spectra_Geospatial",
-   "device": "MM60_2"
   }
  ],
  "Ranger5": [
@@ -212656,6 +212677,13 @@
    "brand": "Walton",
    "name": "WALPAD 10P",
    "device": "10P"
+  }
+ ],
+ "WALPAD_8G": [
+  {
+   "brand": "Walton",
+   "name": "WALPAD_8G",
+   "device": "WALPAD_8G"
   }
  ],
  "Walton Primo X5": [

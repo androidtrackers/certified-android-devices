@@ -39078,6 +39078,11 @@
    "model": "Rockchip RK3288 Chromebook"
   },
   {
+   "device": "generic_64bitonly_x86_64",
+   "name": "gcar emulator",
+   "model": "Automotive SDK built for x86_64"
+  },
+  {
    "device": "generic_x86",
    "name": "gcar emulator",
    "model": "AOSP on x86"
@@ -44556,6 +44561,11 @@
   }
  ],
  "Haitech": [
+  {
+   "device": "HPAD_IA65",
+   "name": "HPAD_IA65",
+   "model": "HPAD_IA65"
+  },
   {
    "device": "Tablet",
    "name": "HPAD_IA65",
@@ -101275,16 +101285,6 @@
    "model": "PDRM00"
   },
   {
-   "device": "OP4E59",
-   "name": "OPPO Reno5 k 5G",
-   "model": "PEGM10"
-  },
-  {
-   "device": "OP4E59",
-   "name": "OPPO Reno5 k 5G",
-   "model": "PEGT10"
-  },
-  {
    "device": "OP4F1FL1",
    "name": "OPPO Reno5 pro",
    "model": "CPH2201"
@@ -101308,6 +101308,16 @@
    "device": "OP4E8F",
    "name": "PEGM00",
    "model": "PEGM00"
+  },
+  {
+   "device": "OP4E59",
+   "name": "PEGM10",
+   "model": "PEGM10"
+  },
+  {
+   "device": "OP4E59",
+   "name": "PEGT10",
+   "model": "PEGT10"
   },
   {
    "device": "OP4E99",
@@ -112919,6 +112929,13 @@
    "device": "Dingo",
    "name": "dingo",
    "model": "IO 3D"
+  }
+ ],
+ "ROLLCALL": [
+  {
+   "device": "DT",
+   "name": "DT",
+   "model": "DT"
   }
  ],
  "RT Project": [
@@ -137911,14 +137928,14 @@
  ],
  "Spectra Geospatial": [
   {
+   "device": "MM60_2",
+   "name": "MobileMapper60_2",
+   "model": "MobileMapper60_2"
+  },
+  {
    "device": "bcat",
    "name": "Ranger 5",
    "model": "RGR5"
-  },
-  {
-   "device": "MM60_2",
-   "name": "Spectra_Geospatial",
-   "model": "MobileMapper60_2"
   }
  ],
  "SpectraPrecision": [
@@ -161119,6 +161136,11 @@
    "device": "10P",
    "name": "WALPAD 10P",
    "model": "WALPAD 10P"
+  },
+  {
+   "device": "WALPAD_8G",
+   "name": "WALPAD_8G",
+   "model": "WALPAD_8G"
   },
   {
    "device": "Primo_X5",

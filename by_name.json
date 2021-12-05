@@ -61429,6 +61429,11 @@
  "gcar emulator": [
   {
    "brand": "Google",
+   "device": "generic_64bitonly_x86_64",
+   "model": "Automotive SDK built for x86_64"
+  },
+  {
+   "brand": "Google",
    "device": "generic_x86",
    "model": "AOSP on x86"
   },
@@ -68155,6 +68160,11 @@
   }
  ],
  "HPAD_IA65": [
+  {
+   "brand": "Haitech",
+   "device": "HPAD_IA65",
+   "model": "HPAD_IA65"
+  },
   {
    "brand": "Haitech",
    "device": "Tablet",
@@ -132780,18 +132790,6 @@
    "model": "PDRM00"
   }
  ],
- "OPPO Reno5 k 5G": [
-  {
-   "brand": "Oppo",
-   "device": "OP4E59",
-   "model": "PEGM10"
-  },
-  {
-   "brand": "Oppo",
-   "device": "OP4E59",
-   "model": "PEGT10"
-  }
- ],
  "OPPO Reno5 pro": [
   {
    "brand": "Oppo",
@@ -132823,6 +132821,20 @@
    "brand": "Oppo",
    "device": "OP4E8F",
    "model": "PEGM00"
+  }
+ ],
+ "PEGM10": [
+  {
+   "brand": "Oppo",
+   "device": "OP4E59",
+   "model": "PEGM10"
+  }
+ ],
+ "PEGT10": [
+  {
+   "brand": "Oppo",
+   "device": "OP4E59",
+   "model": "PEGT10"
   }
  ],
  "PEHM00": [
@@ -147324,6 +147336,13 @@
    "brand": "ROKiT",
    "device": "Dingo",
    "model": "IO 3D"
+  }
+ ],
+ "DT": [
+  {
+   "brand": "ROLLCALL",
+   "device": "DT",
+   "model": "DT"
   }
  ],
  "Glam": [
@@ -175640,7 +175659,7 @@
    "model": "Spark Plus 3"
   }
  ],
- "Spectra_Geospatial": [
+ "MobileMapper60_2": [
   {
    "brand": "Spectra Geospatial",
    "device": "MM60_2",
@@ -202380,6 +202399,13 @@
    "brand": "Walton",
    "device": "10P",
    "model": "WALPAD 10P"
+  }
+ ],
+ "WALPAD_8G": [
+  {
+   "brand": "Walton",
+   "device": "WALPAD_8G",
+   "model": "WALPAD_8G"
   }
  ],
  "Walton Primo X5": [
