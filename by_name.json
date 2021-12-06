@@ -36112,6 +36112,13 @@
    "model": "Omega X"
   }
  ],
+ "Quantum_plus": [
+  {
+   "brand": "Cherry Mobile",
+   "device": "Cherry_Quantum_plus",
+   "model": "A870"
+  }
+ ],
  "Rover 2": [
   {
    "brand": "Cherry Mobile",
@@ -53780,6 +53787,13 @@
    "brand": "Figi",
    "device": "Note_11_Pro",
    "model": "Note_11_Pro"
+  }
+ ],
+ "Note_1C": [
+  {
+   "brand": "Figi",
+   "device": "Note_1C",
+   "model": "Note_1C"
   }
  ],
  "Note_1_Lite": [
@@ -93160,6 +93174,13 @@
    "model": "KL2018R"
   }
  ],
+ "KL2108NBE": [
+  {
+   "brand": "Klipad",
+   "device": "KL2108NBE",
+   "model": "KL2108NBE"
+  }
+ ],
  "KL300": [
   {
    "brand": "Klipad",
@@ -126490,6 +126511,13 @@
    "model": "H10_EEA"
   }
  ],
+ "M16QF9AR": [
+  {
+   "brand": "NETGREEN",
+   "device": "M16QF9AR",
+   "model": "M16QF9AR"
+  }
+ ],
  "M16QF9ES": [
   {
    "brand": "NETGREEN",
@@ -147893,6 +147921,11 @@
    "brand": "Realme",
    "device": "RE54D1",
    "model": "RMX3265"
+  },
+  {
+   "brand": "realme",
+   "device": "RED8F6",
+   "model": "RMX3269"
   }
  ],
  "realme C25s": [
@@ -219071,6 +219104,13 @@
    "model": "S90_Apex"
   }
  ],
+ "iHuntLike12PRO": [
+  {
+   "brand": "iHunt",
+   "device": "iHuntLike12PRO",
+   "model": "iHunt Like 12 PRO"
+  }
+ ],
  "iHunt_Like_12_EEA": [
   {
    "brand": "iHunt",
@@ -220023,6 +220063,13 @@
    "brand": "realme",
    "device": "YYT",
    "model": "4K Google TV Stick"
+  }
+ ],
+ "RMX3269": [
+  {
+   "brand": "realme",
+   "device": "RED8F6",
+   "model": "RMX3269"
   }
  ],
  "realme C21-Y": [

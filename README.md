@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-12-05
+Last sync is 2021-12-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3978,6 +3978,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cherry Mobile|Omega Lite 4s|Omega_Lite_4s|Omega Lite 4s|
 |Cherry Mobile|Omega X|X960|Omega X|
 |Cherry Mobile|One|H940_sprout|H940|
+|Cherry Mobile|Quantum_plus|Cherry_Quantum_plus|A870|
 |Cherry Mobile|Rover 2|Cherry_Rover_2|Rover_2|
 |Cherry Mobile|Selfie Two|Selfie_Two|Selfie_Two|
 |Cherry Mobile|Spin Max|H650|Spin Max|
@@ -6433,6 +6434,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Figi|Nopal|Nopal|Nopal|
 |Figi|Note 1|Note_1|Note 1|
 |Figi|Note_11_Pro|Note_11_Pro|Note_11_Pro|
+|Figi|Note_1C|Note_1C|Note_1C|
 |Figi|Note_1_Lite|Note_1_Lite|Note_1_Lite|
 |Figi|Note_3_Pro|Note_3_Pro|Note_3_Pro|
 |Figi|Note_5|Note_5|Note_5|
@@ -12949,6 +12951,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Klipad|KL1019_EEA|KL1019_EEA|KL1019|
 |Klipad|KL1088|KL1088|KL1088|
 |Klipad|KL2018R|KL2018R|KL2018R|
+|Klipad|KL2108NBE|KL2108NBE|KL2108NBE|
 |Klipad|KL300|KL300|KL300|
 |Klipad|KL3669E_EEA|KL3669E_EEA|KL3669E_EEA|
 |Klipad|KL3669_EEA|KL3669_EEA|KL3669_EEA|
@@ -18633,6 +18636,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NEONIQ|NQT_7W|NQT-7W|NQT-7W|
 |NESO|N810 i7|N810_i7_1|N810 i7|
 |NETGREEN|H10|H10|H10|
+|NETGREEN|M16QF9AR|M16QF9AR|M16QF9AR|
 |NETGREEN|M16QF9ES|M16QF9ES|M16QF9ES|
 |NETGREEN|MW75QF6|MW75QF6|MW75QF6|
 |NEWSUN|S13|S13|S13|
@@ -34376,6 +34380,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iHunt|Titan_X_EEA|Titan_X_EEA|iHunt Titan X 5G|
 |iHunt|iHunt Cyber Wolf 5G|Cyber_Wolf_5G|iHunt Cyber Wolf 5G|
 |iHunt|iHunt S90 Apex|S90_Apex|S90_Apex|
+|iHunt|iHuntLike12PRO|iHuntLike12PRO|iHunt Like 12 PRO|
 |iHunt|iHunt_Like_12_EEA|iHunt_Like_12|iHunt Like 12|
 |iHunt|iHunt_S60_Discovery_Pro_2020|iHunt_S60_Discovery_Pro_2020|iHunt_S60_Discovery_Pro_2020|
 |iLa Mobile|C3|C3|C3|
@@ -34550,9 +34555,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |qunyiCO|Y7|Y7_0_EEA|Y7|
 |qunyiCO|Y7_EEA|Y7_EEA|Y7|
 |realme|4K Google TV Stick|YYT|4K Google TV Stick|
+|realme|RMX3269|RED8F6|RMX3269|
 |realme|realme 8 Pro|RMX3081L1|RMX3081|
 |realme|realme C15 Qualcomm Edition|RMX2195L1|RMX2195|
 |realme|realme C21-Y|RED8D1|RMX3263|
+|realme|realme C25Y|RED8F6|RMX3269|
 |realme|realme GT 5G|RMX2202L1|RMX2202|
 |realme|realme narzo 50A|RED8AF|RMX3430|
 |realme|realme pad|RE54C1L1|RMP2103|

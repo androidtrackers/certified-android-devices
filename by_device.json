@@ -31726,6 +31726,13 @@
    "model": "H940"
   }
  ],
+ "Cherry_Quantum_plus": [
+  {
+   "brand": "Cherry Mobile",
+   "name": "Quantum_plus",
+   "model": "A870"
+  }
+ ],
  "Cherry_Rover_2": [
   {
    "brand": "Cherry Mobile",
@@ -49591,6 +49598,13 @@
    "brand": "Figi",
    "name": "Note_11_Pro",
    "model": "Note_11_Pro"
+  }
+ ],
+ "Note_1C": [
+  {
+   "brand": "Figi",
+   "name": "Note_1C",
+   "model": "Note_1C"
   }
  ],
  "Note_1_Lite": [
@@ -89855,6 +89869,13 @@
    "model": "KL2018R"
   }
  ],
+ "KL2108NBE": [
+  {
+   "brand": "Klipad",
+   "name": "KL2108NBE",
+   "model": "KL2108NBE"
+  }
+ ],
  "KL300": [
   {
    "brand": "Klipad",
@@ -126044,6 +126065,13 @@
    "brand": "Winnovo",
    "name": "H10",
    "model": "H10_EEA"
+  }
+ ],
+ "M16QF9AR": [
+  {
+   "brand": "NETGREEN",
+   "name": "M16QF9AR",
+   "model": "M16QF9AR"
   }
  ],
  "M16QF9ES": [
@@ -221440,6 +221468,13 @@
    "model": "S90_Apex"
   }
  ],
+ "iHuntLike12PRO": [
+  {
+   "brand": "iHunt",
+   "name": "iHuntLike12PRO",
+   "model": "iHunt Like 12 PRO"
+  }
+ ],
  "iHunt_Like_12": [
   {
    "brand": "iHunt",
@@ -222428,6 +222463,18 @@
    "brand": "realme",
    "name": "4K Google TV Stick",
    "model": "4K Google TV Stick"
+  }
+ ],
+ "RED8F6": [
+  {
+   "brand": "realme",
+   "name": "RMX3269",
+   "model": "RMX3269"
+  },
+  {
+   "brand": "realme",
+   "name": "realme C25Y",
+   "model": "RMX3269"
   }
  ],
  "RMX2195L1": [
