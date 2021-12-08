@@ -31512,6 +31512,13 @@
    "model": "Bphone A40"
   }
  ],
+ "Bphone_A_Series": [
+  {
+   "brand": "Bphone",
+   "device": "Bphone_A_Series",
+   "model": "Bphone A Series"
+  }
+ ],
  "gryphon": [
   {
    "brand": "BrailleNote",
@@ -43270,6 +43277,13 @@
    "brand": "DO Mobile",
    "device": "Mate1",
    "model": "Mate1"
+  }
+ ],
+ "Mate6 Pro": [
+  {
+   "brand": "DO Mobile",
+   "device": "Mate6_Pro",
+   "model": "Mate6 Pro"
   }
  ],
  "S10_Plus": [
@@ -95558,6 +95572,13 @@
    "model": "LAMZIEN_P2"
   }
  ],
+ "M863TabH8": [
+  {
+   "brand": "LARVAND",
+   "device": "M863TabH8",
+   "model": "M863TabH8"
+  }
+ ],
  "X-431 PAD VII": [
   {
    "brand": "LAUNCH",
@@ -132446,11 +132467,25 @@
    "model": "CPH1909"
   }
  ],
+ "CPH2001": [
+  {
+   "brand": "Oppo",
+   "device": "OP4B9B",
+   "model": "CPH2001"
+  }
+ ],
  "CPH2015": [
   {
    "brand": "Oppo",
    "device": "OP4C7D",
    "model": "CPH2015"
+  }
+ ],
+ "CPH2021": [
+  {
+   "brand": "Oppo",
+   "device": "OP4B9B",
+   "model": "CPH2021"
   }
  ],
  "CPH2043": [
@@ -151134,6 +151169,27 @@
    "brand": "SMT_TSC",
    "device": "FLAME_X555",
    "model": "FLAME_X555"
+  }
+ ],
+ "SS5214G": [
+  {
+   "brand": "SOHO STYLE",
+   "device": "SS5214G",
+   "model": "SS5214G"
+  }
+ ],
+ "SS5414G": [
+  {
+   "brand": "SOHO STYLE",
+   "device": "SS5414G",
+   "model": "SS5414G"
+  }
+ ],
+ "SS5514G": [
+  {
+   "brand": "SOHO STYLE",
+   "device": "SS5514G",
+   "model": "SS5514G"
   }
  ],
  "Inspire_U5": [

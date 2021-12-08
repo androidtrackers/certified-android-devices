@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-12-07
+Last sync is 2021-12-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3386,6 +3386,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bouygues Telecom|BboxTV|UZW4020BYT|BboxTV|
 |Bouygues Telecom|Bs 451|Bs_451|Bs 451|
 |Bphone|Bphone_A40|Bphone_A40|Bphone A40|
+|Bphone|Bphone_A_Series|Bphone_A_Series|Bphone A Series|
 |BrailleNote|gryphon|gryphon|BrailleNote Touch +|
 |Brandcode|L1Fa|L1Fa|L1Fa|
 |Brandcode|L1f-pluss|L1f_pluss|L1f-pluss|
@@ -4969,6 +4970,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DO Mobile|DO_Mate2|Mate2|Mate2|
 |DO Mobile|Mate1|Mate1|DO_S1|
 |DO Mobile|Mate1|Mate1|Mate1|
+|DO Mobile|Mate6 Pro|Mate6_Pro|Mate6 Pro|
 |DO Mobile|S10_Plus|S10_Plus|S10_Plus|
 |DORA|Android TV|R1|ATV R1|
 |DORA|Android TV|R2|ATV R2|
@@ -13307,6 +13309,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kzen|Lamia_L01|Lamia_L01|Lamia L01|
 |LAMINA|LTT8A4G_EEA|LTT8A4G_EEA|LTT8A4G|
 |LAMZIEN|LAMZIEN_P2|LAMZIEN_P2|LAMZIEN_P2|
+|LARVAND|M863TabH8|M863TabH8|M863TabH8|
 |LAUNCH|X-431 PAD VII|X-431PADVII|AI System EN P133-01|
 |LBQ (UK)|LbQ-F10v2|LbQ-F10v2|K102L|
 |LBQ (UK)|LbQ_F8v2|LbQ_F8v2|LbQ-F8v2|
@@ -19638,7 +19641,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|CPH1903|CPH1903|CPH1903|
 |Oppo|CPH1907|OP4B83L1|CPH1907|
 |Oppo|CPH1909|CPH1909|CPH1909|
+|Oppo|CPH2001|OP4B9B|CPH2001|
 |Oppo|CPH2015|OP4C7D|CPH2015|
+|Oppo|CPH2021|OP4B9B|CPH2021|
 |Oppo|CPH2043|OP4B9EL1|CPH2043|
 |Oppo|CPH2071|OP4BFB|CPH2071|
 |Oppo|CPH2077|OP4BFB|CPH2077|
@@ -22572,6 +22577,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SMT_TSC|BLAZE X500|BLAZE_X500|BLAZE_X500|
 |SMT_TSC|CRUSH_X565|CRUSH_X565|CRUSH_X565|
 |SMT_TSC|FLAME X555|FLAME_X555|FLAME_X555|
+|SOHO STYLE|SS5214G|SS5214G|SS5214G|
+|SOHO STYLE|SS5414G|SS5414G|SS5414G|
+|SOHO STYLE|SS5514G|SS5514G|SS5514G|
 |SOLO|Inspire_U5|Inspire_U5|Inspire_U5|
 |SOLO|Inspire_U5_PLUS|Inspire_U5_PLUS|Inspire_U5_PLUS|
 |SORIANA|BE_ets|BE_ets|BE_ets|

@@ -17418,6 +17418,11 @@
    "device": "Bphone_A40",
    "name": "Bphone_A40",
    "model": "Bphone A40"
+  },
+  {
+   "device": "Bphone_A_Series",
+   "name": "Bphone_A_Series",
+   "model": "Bphone A Series"
   }
  ],
  "BrailleNote": [
@@ -25693,6 +25698,11 @@
    "device": "Mate1",
    "name": "Mate1",
    "model": "Mate1"
+  },
+  {
+   "device": "Mate6_Pro",
+   "name": "Mate6 Pro",
+   "model": "Mate6 Pro"
   },
   {
    "device": "S10_Plus",
@@ -68565,6 +68575,13 @@
    "model": "LAMZIEN_P2"
   }
  ],
+ "LARVAND": [
+  {
+   "device": "M863TabH8",
+   "name": "M863TabH8",
+   "model": "M863TabH8"
+  }
+ ],
  "LAUNCH": [
   {
    "device": "X-431PADVII",
@@ -100970,9 +100987,19 @@
    "model": "CPH1909"
   },
   {
+   "device": "OP4B9B",
+   "name": "CPH2001",
+   "model": "CPH2001"
+  },
+  {
    "device": "OP4C7D",
    "name": "CPH2015",
    "model": "CPH2015"
+  },
+  {
+   "device": "OP4B9B",
+   "name": "CPH2021",
+   "model": "CPH2021"
   },
   {
    "device": "OP4B9EL1",
@@ -116088,6 +116115,23 @@
    "device": "FLAME_X555",
    "name": "FLAME X555",
    "model": "FLAME_X555"
+  }
+ ],
+ "SOHO STYLE": [
+  {
+   "device": "SS5214G",
+   "name": "SS5214G",
+   "model": "SS5214G"
+  },
+  {
+   "device": "SS5414G",
+   "name": "SS5414G",
+   "model": "SS5414G"
+  },
+  {
+   "device": "SS5514G",
+   "name": "SS5514G",
+   "model": "SS5514G"
   }
  ],
  "SOLO": [
