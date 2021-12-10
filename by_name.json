@@ -121191,6 +121191,18 @@
    "model": "Lenovo K14"
   }
  ],
+ "Lenovo K14 Note": [
+  {
+   "brand": "Motorola",
+   "device": "cofud",
+   "model": "Lenovo K12 Pro"
+  },
+  {
+   "brand": "Motorola",
+   "device": "cofud",
+   "model": "Lenovo K14 Note"
+  }
+ ],
  "Lenovo XT2081-4": [
   {
    "brand": "Motorola",
@@ -123199,6 +123211,13 @@
    "model": "moto g(10) power"
   }
  ],
+ "moto g200 5G": [
+  {
+   "brand": "Motorola",
+   "device": "xpeng",
+   "model": "moto g200 5G"
+  }
+ ],
  "moto g31": [
   {
    "brand": "Motorola",
@@ -123281,6 +123300,18 @@
    "brand": "Motorola",
    "device": "hanoip",
    "model": "moto g(60)"
+  }
+ ],
+ "moto g71 5G": [
+  {
+   "brand": "Motorola",
+   "device": "corfur",
+   "model": "moto g(50)"
+  },
+  {
+   "brand": "Motorola",
+   "device": "corfur",
+   "model": "moto g71 5G"
   }
  ],
  "moto p30": [
@@ -133222,6 +133253,13 @@
    "brand": "Oppo",
    "device": "OP5231",
    "model": "PFGM00"
+  }
+ ],
+ "PGCM10": [
+  {
+   "brand": "Oppo",
+   "device": "OPD2A0",
+   "model": "PGCM10"
   }
  ],
  "R1001": [
@@ -150044,6 +150082,13 @@
    "brand": "Remdun",
    "device": "RD16QE",
    "model": "RD16QE"
+  }
+ ],
+ "RD195T": [
+  {
+   "brand": "Remdun",
+   "device": "RD195T",
+   "model": "RD195T"
   }
  ],
  "RD40T": [
@@ -201788,6 +201833,13 @@
    "model": "VOTO V5X"
   }
  ],
+ "AT&T Fusion Z": [
+  {
+   "brand": "Vsmart",
+   "device": "v340u",
+   "model": "V340U"
+  }
+ ],
  "Active 1": [
   {
    "brand": "Vsmart",
@@ -201854,13 +201906,6 @@
    "brand": "Vsmart",
    "device": "rice",
    "model": "Bee Lite"
-  }
- ],
- "Dillon": [
-  {
-   "brand": "Vsmart",
-   "device": "v340u",
-   "model": "V340U"
   }
  ],
  "Hobson": [

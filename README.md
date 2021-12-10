@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-12-09
+Last sync is 2021-12-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17762,6 +17762,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|Lenovo K13|maltalsc|maltalsc|
 |Motorola|Lenovo K13 Note|java|Lenovo K13 Note|
 |Motorola|Lenovo K14|aruba|Lenovo K14|
+|Motorola|Lenovo K14 Note|cofud|Lenovo K12 Pro|
+|Motorola|Lenovo K14 Note|cofud|Lenovo K14 Note|
 |Motorola|Lenovo XT2081-4|guam|Lenovo XT2081-4|
 |Motorola|Master Touch|umts_primus|XT621|
 |Motorola|Master Touch XT621|umts_primus|XT621|
@@ -18112,6 +18114,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g(9) plus|odessa|moto g(9) plus|
 |Motorola|moto g(9) power|cebu|moto g(9) power|
 |Motorola|moto g10 power|capri|moto g(10) power|
+|Motorola|moto g200 5G|xpeng|moto g200 5G|
 |Motorola|moto g31|cofud|moto g31(w)|
 |Motorola|moto g31|cofud|motorola|
 |Motorola|moto g31|coful|moto g31|
@@ -18126,6 +18129,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g6 play|jeter|Moto G Play|
 |Motorola|moto g6 play|jeter|moto g(6) play|
 |Motorola|moto g60|hanoip|moto g(60)|
+|Motorola|moto g71 5G|corfur|moto g(50)|
+|Motorola|moto g71 5G|corfur|moto g71 5G|
 |Motorola|moto p30|robusta|XT1943-1|
 |Motorola|moto p30 play|deen|XT1941-2|
 |Motorola|moto z3 play|beckham|Moto Z3 Play|
@@ -19765,6 +19770,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|PEXM00|OP4E9F|PEXM00|
 |Oppo|PFCM00|OP5259|PFCM00|
 |Oppo|PFGM00|OP5231|PFGM00|
+|Oppo|PGCM10|OPD2A0|PGCM10|
 |Oppo|R1001|OPPO72_13076|R1001|
 |Oppo|R1001|R1001|R1001|
 |Oppo|R1011|R1011|R1011|
@@ -22389,6 +22395,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Remdun|RD15QE|RD15QE|RD15QE|
 |Remdun|RD16Q|RD16Q|RD16Q|
 |Remdun|RD16QE|RD16QE|RD16QE|
+|Remdun|RD195T|RD195T|RD195T|
 |Remdun|RD40T|RD40T|RD40T|
 |Remdun|RD40TE|RD40TE|RD40TE|
 |Remdun|RD50T|RD50T|RD50T|
@@ -31309,6 +31316,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Voto|VOTO V3|VOTO_V3|VOTO V3|
 |Voto|VX|VX|VX|
 |Voto|Voto V5X|VOTO_V5X|VOTO V5X|
+|Vsmart|AT&T Fusion Z|v340u|V340U|
 |Vsmart|Active 1|PQ6001|Active 1|
 |Vsmart|Active 1 +|PQ6002|Active 1+|
 |Vsmart|Active 1+|PQ6002|Active 1+|
@@ -31319,7 +31327,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vsmart|Bee|V220B|Bee|
 |Vsmart|Bee 3|clover|Bee 3|
 |Vsmart|Bee Lite|rice|Bee Lite|
-|Vsmart|Dillon|v340u|V340U|
 |Vsmart|Hobson|v341u|V341U|
 |Vsmart|Joy 1|PQ4001|Joy 1|
 |Vsmart|Joy 1 +|PQ4002|Joy 1+|

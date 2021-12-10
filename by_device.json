@@ -120733,6 +120733,28 @@
    "model": "moto g20"
   }
  ],
+ "cofud": [
+  {
+   "brand": "Motorola",
+   "name": "Lenovo K14 Note",
+   "model": "Lenovo K12 Pro"
+  },
+  {
+   "brand": "Motorola",
+   "name": "Lenovo K14 Note",
+   "model": "Lenovo K14 Note"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g31",
+   "model": "moto g31(w)"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g31",
+   "model": "motorola"
+  }
+ ],
  "guam": [
   {
    "brand": "Motorola",
@@ -122712,16 +122734,11 @@
    "model": "moto g(9) power"
   }
  ],
- "cofud": [
+ "xpeng": [
   {
    "brand": "Motorola",
-   "name": "moto g31",
-   "model": "moto g31(w)"
-  },
-  {
-   "brand": "Motorola",
-   "name": "moto g31",
-   "model": "motorola"
+   "name": "moto g200 5G",
+   "model": "moto g200 5G"
   }
  ],
  "coful": [
@@ -122768,6 +122785,18 @@
    "brand": "Motorola",
    "name": "moto g51 5G",
    "model": "moto g51 5G"
+  }
+ ],
+ "corfur": [
+  {
+   "brand": "Motorola",
+   "name": "moto g71 5G",
+   "model": "moto g(50)"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g71 5G",
+   "model": "moto g71 5G"
   }
  ],
  "robusta": [
@@ -132997,6 +133026,13 @@
    "brand": "Oppo",
    "name": "PFGM00",
    "model": "PFGM00"
+  }
+ ],
+ "OPD2A0": [
+  {
+   "brand": "Oppo",
+   "name": "PGCM10",
+   "model": "PGCM10"
   }
  ],
  "OPPO72_13076": [
@@ -149573,6 +149609,13 @@
    "brand": "Remdun",
    "name": "RD16QE",
    "model": "RD16QE"
+  }
+ ],
+ "RD195T": [
+  {
+   "brand": "Remdun",
+   "name": "RD195T",
+   "model": "RD195T"
   }
  ],
  "RD40T": [
@@ -203874,6 +203917,13 @@
    "model": "VOTO V5X"
   }
  ],
+ "v340u": [
+  {
+   "brand": "Vsmart",
+   "name": "AT&T Fusion Z",
+   "model": "V340U"
+  }
+ ],
  "PQ6001": [
   {
    "brand": "Vsmart",
@@ -203933,13 +203983,6 @@
    "brand": "Vsmart",
    "name": "Bee Lite",
    "model": "Bee Lite"
-  }
- ],
- "v340u": [
-  {
-   "brand": "Vsmart",
-   "name": "Dillon",
-   "model": "V340U"
   }
  ],
  "v341u": [

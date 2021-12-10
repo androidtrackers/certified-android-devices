@@ -91278,6 +91278,16 @@
    "model": "Lenovo K14"
   },
   {
+   "device": "cofud",
+   "name": "Lenovo K14 Note",
+   "model": "Lenovo K12 Pro"
+  },
+  {
+   "device": "cofud",
+   "name": "Lenovo K14 Note",
+   "model": "Lenovo K14 Note"
+  },
+  {
    "device": "guam",
    "name": "Lenovo XT2081-4",
    "model": "Lenovo XT2081-4"
@@ -93028,6 +93038,11 @@
    "model": "moto g(10) power"
   },
   {
+   "device": "xpeng",
+   "name": "moto g200 5G",
+   "model": "moto g200 5G"
+  },
+  {
    "device": "cofud",
    "name": "moto g31",
    "model": "moto g31(w)"
@@ -93096,6 +93111,16 @@
    "device": "hanoip",
    "name": "moto g60",
    "model": "moto g(60)"
+  },
+  {
+   "device": "corfur",
+   "name": "moto g71 5G",
+   "model": "moto g(50)"
+  },
+  {
+   "device": "corfur",
+   "name": "moto g71 5G",
+   "model": "moto g71 5G"
   },
   {
    "device": "robusta",
@@ -101607,6 +101632,11 @@
    "device": "OP5231",
    "name": "PFGM00",
    "model": "PFGM00"
+  },
+  {
+   "device": "OPD2A0",
+   "name": "PGCM10",
+   "model": "PGCM10"
   },
   {
    "device": "OPPO72_13076",
@@ -115059,6 +115089,11 @@
    "device": "RD16QE",
    "name": "RD16QE",
    "model": "RD16QE"
+  },
+  {
+   "device": "RD195T",
+   "name": "RD195T",
+   "model": "RD195T"
   },
   {
    "device": "RD40T",
@@ -160673,6 +160708,11 @@
  ],
  "Vsmart": [
   {
+   "device": "v340u",
+   "name": "AT&T Fusion Z",
+   "model": "V340U"
+  },
+  {
    "device": "PQ6001",
    "name": "Active 1",
    "model": "Active 1"
@@ -160721,11 +160761,6 @@
    "device": "rice",
    "name": "Bee Lite",
    "model": "Bee Lite"
-  },
-  {
-   "device": "v340u",
-   "name": "Dillon",
-   "model": "V340U"
   },
   {
    "device": "v341u",
