@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-12-10
+Last sync is 2021-12-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -18115,6 +18115,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g(9) power|cebu|moto g(9) power|
 |Motorola|moto g10 power|capri|moto g(10) power|
 |Motorola|moto g200 5G|xpeng|moto g200 5G|
+|Motorola|moto g200 5G|xpeng|motorola edge 20 pro|
 |Motorola|moto g31|cofud|moto g31(w)|
 |Motorola|moto g31|cofud|motorola|
 |Motorola|moto g31|coful|moto g31|
@@ -19284,6 +19285,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OKAPI|Okapi10_Simple|Okapi10_Simple|Okapi10_Simple|
 |OKAPI|Okapi_Tab6|Okapi_Tab6|Okapi_Tab6|
 |OKAPI|Okapi_Tab8|Okapi_Tab8|Okapi_Tab8|
+|OKAPI|Okapi_Tab8_Pro|Okapi_Tab8_Pro|Okapi_Tab8_Pro|
 |OKAPI|Tab10|Tab10|Tab10|
 |OKSI|GEN-10|GEN-10|GEN-10|
 |OKSI|GT1001|GT1001|GT1001|
@@ -22237,9 +22239,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi  7A|pine|pine|
 |Redmi|Redmi  Note  7|lavender|Redmi Note 7|
 |Redmi|Redmi 10|eos|21061119DG|
-|Redmi|Redmi 10|selene|21061119AG|
-|Redmi|Redmi 10|selene|21061119AL|
-|Redmi|Redmi 10|selene|21121119SG|
+|Redmi|Redmi 10 2022|eos|21061119DG|
+|Redmi|Redmi 10 2022|selene|21061119AG|
+|Redmi|Redmi 10 2022|selene|21061119AL|
+|Redmi|Redmi 10 2022|selene|21121119SG|
 |Redmi|Redmi 10X|apricot|M2004J7AC|
 |Redmi|Redmi 10X|atom|M2004J7AC|
 |Redmi|Redmi 10X|atom|atom|
@@ -24965,6 +24968,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A7 Lite|gta7litewifi|SM-T220|
 |Samsung|Galaxy Tab A8|gta8|SM-X205|
 |Samsung|Galaxy Tab A8|gta8|SM-X205C|
+|Samsung|Galaxy Tab A8|gta8|SM-X205N|
 |Samsung|Galaxy Tab Active|rubenslte|SM-T365|
 |Samsung|Galaxy Tab Active|rubenslte|SM-T365Y|
 |Samsung|Galaxy Tab Active Pro|gtactivexl|SM-T545|

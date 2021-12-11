@@ -93043,6 +93043,11 @@
    "model": "moto g200 5G"
   },
   {
+   "device": "xpeng",
+   "name": "moto g200 5G",
+   "model": "motorola edge 20 pro"
+  },
+  {
    "device": "cofud",
    "name": "moto g31",
    "model": "moto g31(w)"
@@ -99116,6 +99121,11 @@
    "device": "Okapi_Tab8",
    "name": "Okapi_Tab8",
    "model": "Okapi_Tab8"
+  },
+  {
+   "device": "Okapi_Tab8_Pro",
+   "name": "Okapi_Tab8_Pro",
+   "model": "Okapi_Tab8_Pro"
   },
   {
    "device": "Tab10",
@@ -114291,18 +114301,23 @@
    "model": "21061119DG"
   },
   {
+   "device": "eos",
+   "name": "Redmi 10 2022",
+   "model": "21061119DG"
+  },
+  {
    "device": "selene",
-   "name": "Redmi 10",
+   "name": "Redmi 10 2022",
    "model": "21061119AG"
   },
   {
    "device": "selene",
-   "name": "Redmi 10",
+   "name": "Redmi 10 2022",
    "model": "21061119AL"
   },
   {
    "device": "selene",
-   "name": "Redmi 10",
+   "name": "Redmi 10 2022",
    "model": "21121119SG"
   },
   {
@@ -128111,6 +128126,11 @@
    "device": "gta8",
    "name": "Galaxy Tab A8",
    "model": "SM-X205C"
+  },
+  {
+   "device": "gta8",
+   "name": "Galaxy Tab A8",
+   "model": "SM-X205N"
   },
   {
    "device": "rubenslte",
