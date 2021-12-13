@@ -68483,6 +68483,34 @@
    "model": "XZPAD470LTE"
   }
  ],
+ "Hammer Blade 3": [
+  {
+   "brand": "Hammer",
+   "device": "Hammer_Blade_3",
+   "model": "Hammer_Blade_3"
+  }
+ ],
+ "Hammer Blade 5G": [
+  {
+   "brand": "Hammer",
+   "device": "Hammer_Blade_5G",
+   "model": "Hammer_Blade_5G"
+  }
+ ],
+ "Hammer Explorer Pro": [
+  {
+   "brand": "Hammer",
+   "device": "Hammer_Expl_Pro",
+   "model": "Hammer_Explorer_Pro"
+  }
+ ],
+ "Hammer_Energy_2_2022": [
+  {
+   "brand": "Hammer",
+   "device": "Energy_2_2022",
+   "model": "Hammer_Energy_2_2022"
+  }
+ ],
  "ALGIZ RT8": [
   {
    "brand": "Handheld Group",
@@ -123431,6 +123459,13 @@
    "model": "motorola edge 5G UW (2021)"
   }
  ],
+ "motorola edge S30": [
+  {
+   "brand": "Motorola",
+   "device": "xpeng",
+   "model": "XT2175-2"
+  }
+ ],
  "motorola edge plus": [
   {
    "brand": "Motorola",
@@ -125004,13 +125039,6 @@
    "model": "Hammer_Blade2_PRO"
   }
  ],
- "Hammer Blade 5G": [
-  {
-   "brand": "MyPhone (PL)",
-   "device": "Hammer_Blade_5G",
-   "model": "Hammer_Blade_5G"
-  }
- ],
  "Hammer IRON 3 LTE": [
   {
    "brand": "MyPhone (PL)",
@@ -125317,13 +125345,6 @@
    "model": "Blade"
   }
  ],
- "Hammer Blade 3": [
-  {
-   "brand": "Myphone",
-   "device": "Hammer_Blade_3",
-   "model": "Hammer_Blade_3"
-  }
- ],
  "Hammer Energy": [
   {
    "brand": "Myphone",
@@ -125345,13 +125366,6 @@
    "model": "Hammer_Energy_2"
   }
  ],
- "Hammer Explorer Pro": [
-  {
-   "brand": "Myphone",
-   "device": "Hammer_Expl_Pro",
-   "model": "Hammer_Explorer_Pro"
-  }
- ],
  "Hammer IRON 3": [
   {
    "brand": "Myphone",
@@ -125371,13 +125385,6 @@
    "brand": "Myphone",
    "device": "Hammer_Active2",
    "model": "Hammer_Active2"
-  }
- ],
- "Hammer_Energy_2_2022": [
-  {
-   "brand": "Myphone",
-   "device": "Energy_2_2022",
-   "model": "Hammer_Energy_2_2022"
   }
  ],
  "Iron 2": [
@@ -151061,13 +151068,6 @@
    "model": "SITIH3455N"
   }
  ],
- "AI2": [
-  {
-   "brand": "SK Broadband",
-   "device": "BIP-AI100",
-   "model": "BIP-AI100"
-  }
- ],
  "AI2 ATV": [
   {
    "brand": "SK Broadband",
@@ -151108,13 +151108,6 @@
    "model": "BAS-AT800"
   }
  ],
- "PlayZ": [
-  {
-   "brand": "SK Broadband",
-   "device": "BIP-EB100",
-   "model": "BIP-EB100"
-  }
- ],
  "SMART3": [
   {
    "brand": "SK Broadband",
@@ -151127,13 +151120,6 @@
    "brand": "SK Broadband",
    "device": "BFX-UA300",
    "model": "BFX-UA300"
-  }
- ],
- "Smart3 Mini": [
-  {
-   "brand": "SK Broadband",
-   "device": "BIP-UW200",
-   "model": "BIP-UW200"
   }
  ],
  "AN200": [
@@ -151239,6 +151225,27 @@
    "brand": "SK Telesys",
    "device": "icube-830",
    "model": "icube-830"
+  }
+ ],
+ "AI2": [
+  {
+   "brand": "SK broadband",
+   "device": "BIP-AI100",
+   "model": "BIP-AI100"
+  }
+ ],
+ "PlayZ": [
+  {
+   "brand": "SK broadband",
+   "device": "BIP-EB100",
+   "model": "BIP-EB100"
+  }
+ ],
+ "Smart3 Mini": [
+  {
+   "brand": "SK broadband",
+   "device": "BIP-UW200",
+   "model": "BIP-UW200"
   }
  ],
  "Elite L55": [
@@ -194446,6 +194453,13 @@
    "model": "U693CL"
   }
  ],
+ "U696CL": [
+  {
+   "brand": "Umx(Ultimate Mobile Experience)",
+   "device": "U696CL",
+   "model": "U696CL"
+  }
+ ],
  "SD50": [
   {
    "brand": "Uneone",
@@ -194946,6 +194960,13 @@
    "brand": "Utopia",
    "device": "UH0342",
    "model": "UH0342"
+  }
+ ],
+ "VT-A9": [
+  {
+   "brand": "V-MOCCS",
+   "device": "VT-A9",
+   "model": "VT-A9"
   }
  ],
  "Zyro": [

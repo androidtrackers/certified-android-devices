@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-12-12
+Last sync is 2021-12-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8638,6 +8638,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hamlet|XZPAD412LTE|XZPAD412LTE|XZPAD412LTE|
 |Hamlet|XZPAD414LTE|XZPAD414LTE|XZPAD414LTE|
 |Hamlet|XZPAD470LTE|XZPAD470LTE|XZPAD470LTE|
+|Hammer|Hammer Blade 3|Hammer_Blade_3|Hammer_Blade_3|
+|Hammer|Hammer Blade 5G|Hammer_Blade_5G|Hammer_Blade_5G|
+|Hammer|Hammer Explorer Pro|Hammer_Expl_Pro|Hammer_Explorer_Pro|
+|Hammer|Hammer_Energy_2_2022|Energy_2_2022|Hammer_Energy_2_2022|
 |Handheld Group|ALGIZ RT8|ALGIZ_RT8|ALGIZ_RT8|
 |Handheld Group|Algiz RT7|algizRT7|Algiz RT7|
 |Handheld Group|HandHeld NAUTIZ X2|NAUTIZ_X2|NAUTIZ_X2|
@@ -18150,6 +18154,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge 20 pro|pstar|motorola edge 20 pro|
 |Motorola|motorola edge 5G UW (2021)|berlna|motorola edge 5G UW|
 |Motorola|motorola edge 5G UW (2021)|berlna|motorola edge 5G UW (2021)|
+|Motorola|motorola edge S30|xpeng|XT2175-2|
 |Motorola|motorola edge plus|burton|motorola edge plus|
 |Motorola|motorola edge s|nio|XT2125-4|
 |Motorola|motorola edge s pro|pstar|XT2153-1|
@@ -18404,7 +18409,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MyPhone (PL)|Fun_LTE|Fun_LTE|myPhone Fun LTE|
 |MyPhone (PL)|Hammer AXE PRO|Hammer_AXE_Pro_OPM|Hammer AXE Pro|
 |MyPhone (PL)|Hammer Blade 2 Pro|Hammer_Blade2_PRO|Hammer_Blade2_PRO|
-|MyPhone (PL)|Hammer Blade 5G|Hammer_Blade_5G|Hammer_Blade_5G|
 |MyPhone (PL)|Hammer IRON 3 LTE|Hammer_IRON_3_LTE|Hammer_IRON_3_LTE|
 |MyPhone (PL)|Hammer Titan 2|Hammer_Titan_2|Hammer Titan 2|
 |MyPhone (PL)|Hammer_Active|HammerActive|Hammer Active|
@@ -18449,15 +18453,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Myphone|Hammer AXE M LTE|AXE_M_LTE_OPM|HAMMER_AXE_M_LTE|
 |Myphone|Hammer Active 2 LTE|Hammer_Active2_LTE|Hammer_Active2_LTE|
 |Myphone|Hammer Blade|Hammer_Blade|Blade|
-|Myphone|Hammer Blade 3|Hammer_Blade_3|Hammer_Blade_3|
 |Myphone|Hammer Energy|Hammer_Energy|Hammer Energy|
 |Myphone|Hammer Energy 18x9|Hammer_Energy_18x9|Hammer_Energy_18x9|
 |Myphone|Hammer Energy 2|Hammer_Energy_2|Hammer_Energy_2|
-|Myphone|Hammer Explorer Pro|Hammer_Expl_Pro|Hammer_Explorer_Pro|
 |Myphone|Hammer IRON 3|Hammer_IRON_3|Hammer_IRON_3|
 |Myphone|Hammer Iron 3 LTE|Hammer_Iron_3_LTE|Hammer_Iron_3_LTE|
 |Myphone|Hammer_Active2|Hammer_Active2|Hammer_Active2|
-|Myphone|Hammer_Energy_2_2022|Energy_2_2022|Hammer_Energy_2_2022|
 |Myphone|Iron 2|IRON_2_EN|IRON_2|
 |Myphone|Iron 2|IRON_2_OPM|IRON_2|
 |Myphone|My phone PRIME PLUS|Prime_Plus_EN|Prime_Plus|
@@ -22558,17 +22559,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SILVER MAX|ST-710G|ST_710G|ST-710G|
 |SILVER MAX|ST-810|ST_810A|ST-810|
 |SITI_Playtop|SITIH3455N|DTC2141|SITIH3455N|
-|SK Broadband|AI2|BIP-AI100|BIP-AI100|
 |SK Broadband|AI2 ATV|INTEKS21SI|BID-AI100|
 |SK Broadband|B tv smart|BHX-S100|BHX-S100|
 |SK Broadband|B tv smart|BKO-S200|BKO-S200|
 |SK Broadband|BFX-AT100|BFX-AT100|BFX-AT100|
 |SK Broadband|BKO-AT800|BKO-AT800|BKO-AT800|
 |SK Broadband|BTV|vip5442|BAS-AT800|
-|SK Broadband|PlayZ|BIP-EB100|BIP-EB100|
 |SK Broadband|SMART3|INTEKS20SI|BID-AT200|
 |SK Broadband|SWAN|BFX-UA300|BFX-UA300|
-|SK Broadband|Smart3 Mini|BIP-UW200|BIP-UW200|
 |SK Telesys||K4|SK-S170|
 |SK Telesys||msm8255_k5|SK-S150|
 |SK Telesys||qsd8250_s1|SK-S100|
@@ -22587,6 +22585,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SK Telesys|WA966|u966e_2|WA966|
 |SK Telesys|WA978|u978e_1|WA978|
 |SK Telesys|icube-830|icube-830|icube-830|
+|SK broadband|AI2|BIP-AI100|BIP-AI100|
+|SK broadband|PlayZ|BIP-EB100|BIP-EB100|
+|SK broadband|Smart3 Mini|BIP-UW200|BIP-UW200|
 |SKY EVO|Elite L55|Elite_L55|Elite L55|
 |SKY EVO|Elite OctaPlus|Elite_OctaPlus|Elite OctaPlus|
 |SKY EVO|Elite OctaPlus|Elite_OctaPlus3us|ELITE_Octaplus|
@@ -30145,6 +30146,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umx(Ultimate Mobile Experience)|U673C|U673C|U673C|
 |Umx(Ultimate Mobile Experience)|U683CL|U683CL|U683CL|
 |Umx(Ultimate Mobile Experience)|U693CL|U693CL|U693CL|
+|Umx(Ultimate Mobile Experience)|U696CL|U696CL|U696CL|
 |Uneone|SD50|SD50|SD50|
 |Uneone|SD55|UNEONE_SD55|SD55|
 |Uneone|SD57|SD57|SD57|
@@ -30223,6 +30225,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Urovo|i9000S|i9000S|i9000S|
 |Usha Shriram|RA_1_GENIUS_STAR|RA_1_GENIUS_STAR|RA_1_GENIUS_STAR|
 |Utopia|UH0342  UHTABLET10.1INCH|UH0342|UH0342|
+|V-MOCCS|VT-A9|VT-A9|VT-A9|
 |V2COM|T2|ROCKY_T2|ROCKY T2|
 |V7|Zyro|zyro|V7 Zyro|
 |VAIO|VA-10J|VA-10J|JCI VA-10J|

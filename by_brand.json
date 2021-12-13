@@ -44746,6 +44746,28 @@
    "model": "XZPAD470LTE"
   }
  ],
+ "Hammer": [
+  {
+   "device": "Hammer_Blade_3",
+   "name": "Hammer Blade 3",
+   "model": "Hammer_Blade_3"
+  },
+  {
+   "device": "Hammer_Blade_5G",
+   "name": "Hammer Blade 5G",
+   "model": "Hammer_Blade_5G"
+  },
+  {
+   "device": "Hammer_Expl_Pro",
+   "name": "Hammer Explorer Pro",
+   "model": "Hammer_Explorer_Pro"
+  },
+  {
+   "device": "Energy_2_2022",
+   "name": "Hammer_Energy_2_2022",
+   "model": "Hammer_Energy_2_2022"
+  }
+ ],
  "Handheld Group": [
   {
    "device": "ALGIZ_RT8",
@@ -93218,6 +93240,11 @@
    "model": "motorola edge 5G UW (2021)"
   },
   {
+   "device": "xpeng",
+   "name": "motorola edge S30",
+   "model": "XT2175-2"
+  },
+  {
    "device": "burton",
    "name": "motorola edge plus",
    "model": "motorola edge plus"
@@ -94530,11 +94557,6 @@
    "model": "Hammer_Blade2_PRO"
   },
   {
-   "device": "Hammer_Blade_5G",
-   "name": "Hammer Blade 5G",
-   "model": "Hammer_Blade_5G"
-  },
-  {
    "device": "Hammer_IRON_3_LTE",
    "name": "Hammer IRON 3 LTE",
    "model": "Hammer_IRON_3_LTE"
@@ -94759,11 +94781,6 @@
    "model": "Blade"
   },
   {
-   "device": "Hammer_Blade_3",
-   "name": "Hammer Blade 3",
-   "model": "Hammer_Blade_3"
-  },
-  {
    "device": "Hammer_Energy",
    "name": "Hammer Energy",
    "model": "Hammer Energy"
@@ -94779,11 +94796,6 @@
    "model": "Hammer_Energy_2"
   },
   {
-   "device": "Hammer_Expl_Pro",
-   "name": "Hammer Explorer Pro",
-   "model": "Hammer_Explorer_Pro"
-  },
-  {
    "device": "Hammer_IRON_3",
    "name": "Hammer IRON 3",
    "model": "Hammer_IRON_3"
@@ -94797,11 +94809,6 @@
    "device": "Hammer_Active2",
    "name": "Hammer_Active2",
    "model": "Hammer_Active2"
-  },
-  {
-   "device": "Energy_2_2022",
-   "name": "Hammer_Energy_2_2022",
-   "model": "Hammer_Energy_2_2022"
   },
   {
    "device": "IRON_2_EN",
@@ -116012,11 +116019,6 @@
  ],
  "SK Broadband": [
   {
-   "device": "BIP-AI100",
-   "name": "AI2",
-   "model": "BIP-AI100"
-  },
-  {
    "device": "INTEKS21SI",
    "name": "AI2 ATV",
    "model": "BID-AI100"
@@ -116047,11 +116049,6 @@
    "model": "BAS-AT800"
   },
   {
-   "device": "BIP-EB100",
-   "name": "PlayZ",
-   "model": "BIP-EB100"
-  },
-  {
    "device": "INTEKS20SI",
    "name": "SMART3",
    "model": "BID-AT200"
@@ -116060,11 +116057,6 @@
    "device": "BFX-UA300",
    "name": "SWAN",
    "model": "BFX-UA300"
-  },
-  {
-   "device": "BIP-UW200",
-   "name": "Smart3 Mini",
-   "model": "BIP-UW200"
   }
  ],
  "SK Telesys": [
@@ -116157,6 +116149,23 @@
    "device": "icube-830",
    "name": "icube-830",
    "model": "icube-830"
+  }
+ ],
+ "SK broadband": [
+  {
+   "device": "BIP-AI100",
+   "name": "AI2",
+   "model": "BIP-AI100"
+  },
+  {
+   "device": "BIP-EB100",
+   "name": "PlayZ",
+   "model": "BIP-EB100"
+  },
+  {
+   "device": "BIP-UW200",
+   "name": "Smart3 Mini",
+   "model": "BIP-UW200"
   }
  ],
  "SKY EVO": [
@@ -154651,6 +154660,11 @@
    "device": "U693CL",
    "name": "U693CL",
    "model": "U693CL"
+  },
+  {
+   "device": "U696CL",
+   "name": "U696CL",
+   "model": "U696CL"
   }
  ],
  "Uneone": [
@@ -155077,6 +155091,13 @@
    "device": "UH0342",
    "name": "UH0342  UHTABLET10.1INCH",
    "model": "UH0342"
+  }
+ ],
+ "V-MOCCS": [
+  {
+   "device": "VT-A9",
+   "name": "VT-A9",
+   "model": "VT-A9"
   }
  ],
  "V2COM": [
