@@ -1782,6 +1782,20 @@
    "device": "v350u"
   }
  ],
+ "EA211002": [
+  {
+   "brand": "AT&T",
+   "name": "AT&T Motivate™ 2",
+   "device": "EA211002"
+  }
+ ],
+ "EA211001": [
+  {
+   "brand": "AT&T",
+   "name": "AT&T RADIANT™ Max 5G",
+   "device": "EA211001"
+  }
+ ],
  "QS5509A": [
   {
    "brand": "AT&T",
@@ -20243,6 +20257,13 @@
    "device": "sti6130d324"
   }
  ],
+ "FibeTV": [
+  {
+   "brand": "Bell Canada",
+   "name": "FibeTV",
+   "device": "vip7802_bell"
+  }
+ ],
  "A3": [
   {
    "brand": "BenQ",
@@ -21785,6 +21806,13 @@
    "brand": "Blackview",
    "name": "A70",
    "device": "A70"
+  }
+ ],
+ "A70 Pro": [
+  {
+   "brand": "Blackview",
+   "name": "A70 Pro",
+   "device": "A70_Pro"
   }
  ],
  "A7Pro": [
@@ -23711,6 +23739,13 @@
    "brand": "Blu",
    "name": "G51 Plus",
    "device": "G0510WW"
+  }
+ ],
+ "G51S": [
+  {
+   "brand": "Blu",
+   "name": "G51S",
+   "device": "G0590WW"
   }
  ],
  "G6": [
@@ -29131,6 +29166,13 @@
    "device": "A940"
   }
  ],
+ "Aqua S10 Pro": [
+  {
+   "brand": "Cherry Mobile",
+   "name": "Aqua S10 Pro",
+   "device": "Aqua_S10_Pro"
+  }
+ ],
  "Aqua S9": [
   {
    "brand": "Cherry Mobile",
@@ -34406,6 +34448,20 @@
    "device": "crema0810t"
   }
  ],
+ "EC211001": [
+  {
+   "brand": "Cricket",
+   "name": "Cricket® Dream 5G",
+   "device": "EC211001"
+  }
+ ],
+ "EC211002": [
+  {
+   "brand": "Cricket",
+   "name": "Cricket® Icon 3",
+   "device": "EC211002"
+  }
+ ],
  "V350C": [
   {
    "brand": "Cricket",
@@ -34413,11 +34469,25 @@
    "device": "v350c"
   }
  ],
+ "EC211004": [
+  {
+   "brand": "Cricket",
+   "name": "Cricket® Innovate 5G",
+   "device": "EC211004"
+  }
+ ],
  "EC1002": [
   {
    "brand": "Cricket",
    "name": "Cricket® Ovation 2",
    "device": "ZON"
+  }
+ ],
+ "EC211003": [
+  {
+   "brand": "Cricket",
+   "name": "Cricket® Splendor",
+   "device": "EC211003"
   }
  ],
  "U304AC": [
@@ -51745,6 +51815,13 @@
    "device": "GM7"
   }
  ],
+ "Gear_PRO": [
+  {
+   "brand": "Gear Mobile",
+   "name": "Gear_PRO",
+   "device": "Gear_PRO"
+  }
+ ],
  "Space": [
   {
    "brand": "Gear Mobile",
@@ -62555,6 +62632,13 @@
    "device": "Hammer_Blade_5G"
   }
  ],
+ "Hammer_Explorer_Plus": [
+  {
+   "brand": "Hammer",
+   "name": "Hammer Explorer Plus",
+   "device": "Explorer_Plus"
+  }
+ ],
  "Hammer_Explorer_Pro": [
   {
    "brand": "Hammer",
@@ -62636,6 +62720,13 @@
    "brand": "Handheld Group",
    "name": "Nautiz X41",
    "device": "albatross_GL"
+  }
+ ],
+ "Nautiz X9P": [
+  {
+   "brand": "Handheld Group",
+   "name": "Nautiz X9P",
+   "device": "Nautiz_X9P"
   }
  ],
  "Nautiz_X9": [
@@ -82706,6 +82797,11 @@
    "brand": "Infinix",
    "name": "HOT  11",
    "device": "Infinix-X689F"
+  },
+  {
+   "brand": "Infinix",
+   "name": "HOT 11",
+   "device": "Infinix-X689F"
   }
  ],
  "Infinix X682B": [
@@ -87999,6 +88095,13 @@
    "brand": "Itel",
    "name": "itel W5503",
    "device": "itel-W5503"
+  }
+ ],
+ "KSTB7043": [
+  {
+   "brand": "J:COM",
+   "name": "KSTB7043",
+   "device": "KSTB6165"
   }
  ],
  "XA401": [
@@ -103267,6 +103370,13 @@
    "device": "NEOSR620"
   }
  ],
+ "LUNA G9": [
+  {
+   "brand": "LUNA",
+   "name": "LUNA G9",
+   "device": "LUNA_G9"
+  }
+ ],
  "LUNA G6E": [
   {
    "brand": "LUNA",
@@ -115464,6 +115574,13 @@
    "brand": "Masstel",
    "name": "Hapi 15",
    "device": "Masstel_Hapi_15"
+  }
+ ],
+ "Masstel Hapi 30": [
+  {
+   "brand": "Masstel",
+   "name": "Hapi_30",
+   "device": "Masstel_Hapi_30"
   }
  ],
  "Juno Q6": [
@@ -130719,6 +130836,13 @@
    "device": "NLS-MT6552-RU"
   }
  ],
+ "NLS-MT67": [
+  {
+   "brand": "Newland",
+   "name": "NLS-MT6555-GL",
+   "device": "NLS-MT6755-GL"
+  }
+ ],
  "NLS-MT90": [
   {
    "brand": "Newland",
@@ -133798,6 +133922,13 @@
    "brand": "OnePlus",
    "name": "OnePlus6T",
    "device": "OnePlus6TSingle"
+  }
+ ],
+ "LE2101": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus9R",
+   "device": "OnePlus9R"
   }
  ],
  "Oneplus_Dosa_IN": [
@@ -138130,6 +138261,13 @@
    "device": "C21"
   }
  ],
+ "C21 Pro": [
+  {
+   "brand": "Oukitel",
+   "name": "C21 Pro",
+   "device": "C21_Pro"
+  }
+ ],
  "C22": [
   {
    "brand": "Oukitel",
@@ -140463,6 +140601,11 @@
    "brand": "Panasonic",
    "name": "JX700C",
    "device": "JX700C"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "JX900C",
+   "device": "JX900C"
   }
  ],
  "Panasonic KX-PRXA10": [
@@ -178331,6 +178474,23 @@
    "device": "solarin"
   }
  ],
+ "Elite C55": [
+  {
+   "brand": "Sky (CH)",
+   "name": "Elite C55",
+   "device": "Elite_C55USA"
+  },
+  {
+   "brand": "Sky Devices",
+   "name": "Elite C55",
+   "device": "Elite_C55"
+  },
+  {
+   "brand": "Sky Devices",
+   "name": "Elite C55",
+   "device": "Elite_C55US"
+  }
+ ],
  "Sky TV Stick": [
   {
    "brand": "Sky (CH)",
@@ -178509,13 +178669,6 @@
    "brand": "Sky Devices",
    "name": "Elite C5",
    "device": "Elite_C5MS"
-  }
- ],
- "Elite C55": [
-  {
-   "brand": "Sky Devices",
-   "name": "Elite C55",
-   "device": "Elite_C55"
   }
  ],
  "Elite_D55": [
@@ -178720,6 +178873,13 @@
    "brand": "Sky Devices",
    "name": "Elite T6",
    "device": "Elite_T6"
+  }
+ ],
+ "Elite A65": [
+  {
+   "brand": "Sky Devices",
+   "name": "Elite_A65",
+   "device": "Elite_A65"
   }
  ],
  "Elite D5": [
@@ -178946,6 +179106,11 @@
    "brand": "Sky Devices",
    "name": "Platinum View2",
    "device": "PLATINUM_VIEW2"
+  },
+  {
+   "brand": "Sky Devices",
+   "name": "Platinum View2",
+   "device": "Platinum_View2_V2"
   }
  ],
  "Platinum View2": [
@@ -197385,6 +197550,13 @@
    "device": "SEI300T"
   }
  ],
+ "TVision HUB v2": [
+  {
+   "brand": "TVision",
+   "name": "TVision HUB v2",
+   "device": "SEI700TM"
+  }
+ ],
  "2E E450 2018": [
   {
    "brand": "TWOE",
@@ -203605,6 +203777,13 @@
    "device": "Armor_X"
   }
  ],
+ "Armor X10": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor X10",
+   "device": "Armor_X10"
+  }
+ ],
  "Armor_X2": [
   {
    "brand": "Ulefone",
@@ -206798,6 +206977,13 @@
    "device": "Luck_L120_4G"
   }
  ],
+ "Luck L130": [
+  {
+   "brand": "Vertex",
+   "name": "Luck_L130",
+   "device": "Luck_L130"
+  }
+ ],
  "Vertex_Luck_L_5045_3G": [
   {
    "brand": "Vertex",
@@ -209931,6 +210117,13 @@
    "brand": "Vivo",
    "name": "V2139",
    "device": "2120"
+  }
+ ],
+ "V2140A": [
+  {
+   "brand": "Vivo",
+   "name": "V2140A",
+   "device": "PD2140"
   }
  ],
  "V2141A": [
@@ -218485,6 +218678,11 @@
    "brand": "Yes",
    "name": "yes",
    "device": "SEI500Y"
+  },
+  {
+   "brand": "Yes",
+   "name": "yes",
+   "device": "SEI800Y"
   }
  ],
  "Note 30 pro": [
@@ -218662,6 +218860,13 @@
    "device": "LIV2_LTE"
   }
  ],
+ "LIV 3 LTE": [
+  {
+   "brand": "Yezz",
+   "name": "LIV3_LTE",
+   "device": "LIV3_LTE"
+  }
+ ],
  "MAX2 PLUS": [
   {
    "brand": "Yezz",
@@ -218814,6 +219019,13 @@
    "brand": "Yuho",
    "name": "YUHO_Y3_PRO",
    "device": "YUHO_Y3_PRO"
+  }
+ ],
+ "TC8091": [
+  {
+   "brand": "Yuho",
+   "name": "Yuho_Tab8",
+   "device": "Yuho_Tab8"
   }
  ],
  "YUMPINGO_1": [
@@ -231361,11 +231573,25 @@
    "device": "elevn_eTab"
   }
  ],
+ "H166": [
+  {
+   "brand": "fplus",
+   "name": "H166",
+   "device": "H166"
+  }
+ ],
  "LifeTabPlus": [
   {
    "brand": "fplus",
    "name": "Life Tab Plus",
    "device": "lifetabplus"
+  }
+ ],
+ "P670": [
+  {
+   "brand": "fplus",
+   "name": "P670",
+   "device": "P670"
   }
  ],
  "connect 2": [
@@ -232082,6 +232308,20 @@
    "brand": "iData",
    "name": "iData T1",
    "device": "T1"
+  }
+ ],
+ "iData i2": [
+  {
+   "brand": "iData",
+   "name": "iData i2",
+   "device": "i2"
+  }
+ ],
+ "iData i3": [
+  {
+   "brand": "iData",
+   "name": "iData i3",
+   "device": "i3"
   }
  ],
  "CT8": [
