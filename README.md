@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-12-14
+Last sync is 2021-12-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -210,6 +210,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AWOW|MID_1089IPS_EEA|MID_1089IPS_EEA|MID_1089IPS_EEA|
 |AWOW|UTBook|UTBook|UTBook|
 |AWOW|UTBook_EEA|UTBook_EEA|UTBook_EEA|
+|AXON|Evolution|Evolution|Evolution|
 |AXSTV|AXSTV130|SEI130PTS|AXSTV130|
 |AXSTV|AXSTV530|SEI530PTS|AXSTV530|
 |AXXA|AXXA S45|AXXA_S45|AXXA_S45|
@@ -2364,6 +2365,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|B50ProSS_MV03|Bmobile_B50ProSS|B50Pro|
 |BMobile|B50_1|Bmobile_B50_1|B50|
 |BMobile|B55|B55|B55|
+|BMobile|B60Pro|Bmobile_B60Pro_MV03SP|B60Pro|
 |BMobile|B60Pro_DG|Bmobile_B60Pro_DG|B60Pro_DG|
 |BMobile|B60Pro_MV03|B60Pro_MV03|B60Pro_MV03|
 |BMobile|BL40|Bmobile_BL40_MV12|BL40_MV12|
@@ -2732,6 +2734,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bentley|Tab|sdis1|BENTLEY ENTERTAINMENT TABLET|
 |Bertoli|B20X|B20X|B20X|
 |Best Buy|Transformer Pad (TF103C)|K010|K010|
+|Bestreha|BRN01|BRN01|BRN01|
 |Beyond|MAX4|MAX4|MAX4|
 |Beyond|SURVE|SURVE|SURVE|
 |Beyond|WIN|WIN|WIN|
@@ -3273,6 +3276,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Studio View XL|S790Q|Studio View XL|
 |Blu|Studio X Mini|BLU_STUDIO_X_MINI|BLU STUDIO X MINI|
 |Blu|Studio X10|S970EQ|Studio X10|
+|Blu|Studio X10 2022|S011EQ|Studio X10 2022|
 |Blu|Studio X10+|S990EQ|Studio X10+|
 |Blu|Studio X10L|S0570WW|Studio X10L|
 |Blu|Studio X12|S050EQ|Studio X12|
@@ -3870,6 +3874,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cherry Mobile|A890|A890|A890|
 |Cherry Mobile|A930|A930|A930|
 |Cherry Mobile|A940|A940|A940|
+|Cherry Mobile|Aqua S10|Aqua_S10|Aqua S10|
 |Cherry Mobile|Aqua S10 Pro|Aqua_S10_Pro|Aqua S10 Pro|
 |Cherry Mobile|Aqua S9|Aqua_S9|Aqua S9|
 |Cherry Mobile|Aqua S9 Lite|X1020|Aqua S9 lite|
@@ -4995,6 +5000,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DTC products|S30|S30|S30|
 |DTV (Thai)|P3|Digital_Life_P3|P3|
 |DUODUOGO|10 Plus|10_Plus|10 Plus|
+|DUODUOGO|S30|S30|S30|
 |DUODUOGO|TAB_A7_US|TAB_A7_US|TAB_A7_US|
 |DUODUOGO|TAB_S2|TAB_S2|TAB_S2|
 |DUODUOGO|TAB_S2_EEA|TAB_S2_EEA|TAB_S2_EEA|
@@ -5698,7 +5704,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Duubee|W1|W1|W1|
 |Duubee|W2|W2|W2|
 |Dynalink|STI6130-D350|sti6130d350|Dynalink TV Box|
-|Dynalink|dynalinktvbox|sti6130d350|Dynalink TV Box|
 |Dyon|Dyon|bangbae|Dyon 4K Android TV|
 |Dyon|Dyon|komagome|Dyon 2K Android TV|
 |E-Boda|Eclipse G400M|Eclipse_G400M|Eclipse_G400M|
@@ -5751,6 +5756,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EDENWOOD|EDENWOOD|bangbae|EDENWOOD 4K Android TV|
 |EDENWOOD|EDENWOOD|komagome|EDENWOOD 2K Android TV|
 |EDUTAB|ELITE_10|ELITE_10|ELITE_10|
+|EGBOK|P803|P803|P803|
 |EGOTEK|Mars8|Mars8|Mars8|
 |EGOTEK|Penguin|Penguin|Penguin|
 |EGOTEK|Venus10|Venus10|Venus10|
@@ -9181,6 +9187,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U963|SC9832E|Hisense V40|
 |Hisense|Hisense U964|HS7731ESP|HWCD100E|
 |Hisense|Hisense U964|HS7731ESP|Hisense U40 Lite|
+|Hisense|Hisense U964|HS7731ESP|Hisense U50 Lite|
 |Hisense|Hisense U964|HS7731ESP|Hisense U50 lite|
 |Hisense|Hisense U964|HS7731ESP|Hisense U964|
 |Hisense|Hisense U965|HS6580MT|Hisense Hi 1 PRO|
@@ -9529,6 +9536,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honda|A-DA|yebisuAA|MY20ADA|
 |Honda|A-DA|yebisuBA|MY20ADA|
 |Honda|A-DA|yebisuDA|MY21ADA|
+|Honda|A-DA|yebisuGA|MY22ADA|
 |Honda|Accord|koelsch|MY16ADA|
 |Honda|MY15ADA|koelsch|MY15ADA|
 |Honda|NSX|koelsch|MY15ADA|
@@ -11680,7 +11688,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Inco|eco_s|eco_s|eco_s|
 |IndiHome|B860H V5.0|B860HV5_Telkom|B860H V5.0|
 |IndiHome|HG680_FJ|HG680|HG680_FJ|
-|Indurama|MONDIAL Smart TV|sunnyvale|MONDIAL Smart TV|
 |Indurama|indurama 2K TV|shinjuku|indurama 2K TV|
 |Indurama|indurama 4K TV|SW4H|indurama 4K TV|
 |Indurama|indurama Smart TV|sunnyvale|indurama Smart TV|
@@ -17617,6 +17624,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Molvu|M10PRO|M10PRO|M10PRO|
 |Molvu|V7S|V7S|V7S|
 |Mondial|MONDIAL 4K TV|SW4H|MONDIAL 4K TV|
+|Mondial|MONDIAL Smart TV|sunnyvale|MONDIAL Smart TV|
 |Mondial|MONDIAL TV|shinjuku|MONDIAL TV|
 |Mondial|TB-MONDIAL|TB_MONDIAL|TB_MONDIAL|
 |Mondial|TB_MONDIAL_KID|TB_MONDIAL_KID|TB_MONDIAL_KID|
@@ -20262,6 +20270,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PORTFOLIO|P9001|P9001|P9001|
 |PRISMPLUS|PrismPlus 4K Android TV|SW4H|PrismPlus 4K Android TV|
 |PRISMPLUS|PrismPlus 4K Pro Android TV|SW4H_FF|PrismPlus 4K Pro Android TV|
+|PRISMPLUS|PrismPlus Android TV|sunnyvale|PrismPlus Android TV|
 |PRISMPLUS|Prismplus TV|shibuya|Prismplus TV|
 |PROGRACE|K726|K726|K726|
 |PS_Mobile|Neo_Pro|Neo_Pro|Neo Pro|
@@ -25523,6 +25532,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sansui|Mexio|yeongdeungpo|AiPlus4K|
 |Sansui|Nitro|Nitro|Nitro|
 |Sansui|SANSUI|martin|AiPlus2K|
+|Sansui|SANSUI SmartTV|sunnyvale|SANSUI SmartTV|
 |Sansui|SANSUITV UHD|SW4H|SANSUITV UHD|
 |Sansui|Sansui Play|Play|Sansui Play|
 |Sansui|Sansui_Nova|Sansui_Nova|Sansui_Nova|
@@ -26104,6 +26114,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SimiMobile|S630M|S630M|S630M|
 |Singer|Android TV|R1|ATV R1|
 |Singer|Android TV|R2|ATV R2|
+|Singer|SINGER ANDROID TV|sunnyvale|SINGER ANDROID TV|
 |Singer|SINGER BD SMART TV|SW4H_FF|SINGER BD SMART TV|
 |Singer|SINGER SL SMART TV|SW4H|SINGER SL SMART TV|
 |Singer|SingerTV|shibuya|SingerTV|
@@ -26203,6 +26214,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|Elite_H55_HD|Elite_H55_HD|Elite H55|
 |Sky Devices|Elite_H5_FW|Elite_H5_FW|Elite H5|
 |Sky Devices|Elite_J55|Elite_J55|Elite J55|
+|Sky Devices|Elite_OctaX|Elite_OctaXkk3|Elite OctaX|
 |Sky Devices|Elite_P55|Elite_P55|Elite P55|
 |Sky Devices|Elite_T8Plus|Elite_T8Plus|Elite T8Plus|
 |Sky Devices|Fuego 4.0T|Fuego_4_0T_EC|Fuego 4.0T|
@@ -28936,6 +28948,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TJD(SZ)|MT-707OF|MT-707OF|MT-707OF|
 |TJD(SZ)|MT-710QU|MT-710QU|TJD MT-710QU|
 |TJD(SZ)|MT-715QR|MT-715QR|MT-715QR|
+|TJD(SZ)|MT-717QW|MT-717QW|MT-717QW|
 |TJD(SZ)|MT-750QU_Pro|MT-750QU_Pro|MT-750QU_Pro|
 |TJD(SZ)|MT-761QU|MT-761QU|MT-761QU|
 |TJD(SZ)|MT-761QU_Pro|MT-761QU_Pro|MT-761QU_Pro|
@@ -29412,6 +29425,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO POP 4|TECNO-BC2c|TECNO BC2c|
 |Tecno|TECNO POP 4 Air|TECNO-BC1|TECNO BC1|
 |Tecno|TECNO POP 5|TECNO-BD2|TECNO BD2|
+|Tecno|TECNO POP 5|TECNO-BD2d|TECNO BD2d|
 |Tecno|TECNO POP 5|TECNO-BD2p|TECNO BD2p|
 |Tecno|TECNO POP 5 Go|TECNO-BD1|TECNO BD1|
 |Tecno|TECNO POP 5 LTE|TECNO-BD4|TECNO BD4|
@@ -34703,6 +34717,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |qunyiCO|Y7_EEA|Y7_EEA|Y7|
 |realme|4K Google TV Stick|YYT|4K Google TV Stick|
 |realme|RMX3269|RED8F6|RMX3269|
+|realme|realme 8|RMX3085L1|RMX3085|
 |realme|realme 8 Pro|RMX3081L1|RMX3081|
 |realme|realme C15 Qualcomm Edition|RMX2195L1|RMX2195|
 |realme|realme C21-Y|RED8D1|RMX3263|

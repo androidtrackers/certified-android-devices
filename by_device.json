@@ -2843,6 +2843,13 @@
    "model": "UTBook_EEA"
   }
  ],
+ "Evolution": [
+  {
+   "brand": "AXON",
+   "name": "Evolution",
+   "model": "Evolution"
+  }
+ ],
  "SEI130PTS": [
   {
    "brand": "AXSTV",
@@ -20268,6 +20275,13 @@
    "model": "B55"
   }
  ],
+ "Bmobile_B60Pro_MV03SP": [
+  {
+   "brand": "BMobile",
+   "name": "B60Pro",
+   "model": "B60Pro"
+  }
+ ],
  "Bmobile_B60Pro_DG": [
   {
    "brand": "BMobile",
@@ -22999,6 +23013,13 @@
    "brand": "Bertoli",
    "name": "B20X",
    "model": "B20X"
+  }
+ ],
+ "BRN01": [
+  {
+   "brand": "Bestreha",
+   "name": "BRN01",
+   "model": "BRN01"
   }
  ],
  "MAX4": [
@@ -26808,6 +26829,13 @@
    "brand": "Blu",
    "name": "Studio X10",
    "model": "Studio X10"
+  }
+ ],
+ "S011EQ": [
+  {
+   "brand": "Blu",
+   "name": "Studio X10 2022",
+   "model": "Studio X10 2022"
   }
  ],
  "S990EQ": [
@@ -30960,6 +30988,13 @@
    "brand": "Cherry Mobile",
    "name": "A940",
    "model": "A940"
+  }
+ ],
+ "Aqua_S10": [
+  {
+   "brand": "Cherry Mobile",
+   "name": "Aqua S10",
+   "model": "Aqua S10"
   }
  ],
  "Aqua_S10_Pro": [
@@ -39320,6 +39355,11 @@
    "model": "S30"
   },
   {
+   "brand": "DUODUOGO",
+   "name": "S30",
+   "model": "S30"
+  },
+  {
    "brand": "Doogee",
    "name": "S30",
    "model": "S30"
@@ -44336,11 +44376,6 @@
    "brand": "Dynalink",
    "name": "STI6130-D350",
    "model": "Dynalink TV Box"
-  },
-  {
-   "brand": "Dynalink",
-   "name": "dynalinktvbox",
-   "model": "Dynalink TV Box"
   }
  ],
  "Eclipse_G400M": [
@@ -44686,6 +44721,13 @@
    "brand": "EDUTAB",
    "name": "ELITE_10",
    "model": "ELITE_10"
+  }
+ ],
+ "P803": [
+  {
+   "brand": "EGBOK",
+   "name": "P803",
+   "model": "P803"
   }
  ],
  "Mars8": [
@@ -67321,6 +67363,11 @@
   {
    "brand": "Hisense",
    "name": "Hisense U964",
+   "model": "Hisense U50 Lite"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense U964",
    "model": "Hisense U50 lite"
   },
   {
@@ -69012,6 +69059,13 @@
    "brand": "Honda",
    "name": "A-DA",
    "model": "MY21ADA"
+  }
+ ],
+ "yebisuGA": [
+  {
+   "brand": "Honda",
+   "name": "A-DA",
+   "model": "MY22ADA"
   }
  ],
  "koelsch": [
@@ -81822,13 +81876,18 @@
  "sunnyvale": [
   {
    "brand": "Indurama",
+   "name": "indurama Smart TV",
+   "model": "indurama Smart TV"
+  },
+  {
+   "brand": "Mondial",
    "name": "MONDIAL Smart TV",
    "model": "MONDIAL Smart TV"
   },
   {
-   "brand": "Indurama",
-   "name": "indurama Smart TV",
-   "model": "indurama Smart TV"
+   "brand": "PRISMPLUS",
+   "name": "PrismPlus Android TV",
+   "model": "PrismPlus Android TV"
   },
   {
    "brand": "SWTV",
@@ -81839,6 +81898,16 @@
    "brand": "SWTV",
    "name": "SWTV-21SA",
    "model": "SWTV-21SA"
+  },
+  {
+   "brand": "Sansui",
+   "name": "SANSUI SmartTV",
+   "model": "SANSUI SmartTV"
+  },
+  {
+   "brand": "Singer",
+   "name": "SINGER ANDROID TV",
+   "model": "SINGER ANDROID TV"
   },
   {
    "brand": "VIZZION",
@@ -147722,6 +147791,11 @@
    "brand": "Realme",
    "name": "realme 8",
    "model": "RMX3085"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 8",
+   "model": "RMX3085"
   }
  ],
  "RMX2202L1": [
@@ -173622,6 +173696,13 @@
    "model": "Elite J55"
   }
  ],
+ "Elite_OctaXkk3": [
+  {
+   "brand": "Sky Devices",
+   "name": "Elite_OctaX",
+   "model": "Elite OctaX"
+  }
+ ],
  "Elite_P55": [
   {
    "brand": "Sky Devices",
@@ -189369,6 +189450,13 @@
    "model": "MT-715QR"
   }
  ],
+ "MT-717QW": [
+  {
+   "brand": "TJD(SZ)",
+   "name": "MT-717QW",
+   "model": "MT-717QW"
+  }
+ ],
  "MT-750QU_Pro": [
   {
    "brand": "TJD(SZ)",
@@ -192387,6 +192475,13 @@
    "brand": "Tecno",
    "name": "TECNO POP 5",
    "model": "TECNO BD2"
+  }
+ ],
+ "TECNO-BD2d": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO POP 5",
+   "model": "TECNO BD2d"
   }
  ],
  "TECNO-BD2p": [

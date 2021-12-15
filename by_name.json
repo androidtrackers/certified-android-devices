@@ -7460,6 +7460,13 @@
    "model": "UTBook_EEA"
   }
  ],
+ "Evolution": [
+  {
+   "brand": "AXON",
+   "device": "Evolution",
+   "model": "Evolution"
+  }
+ ],
  "AXSTV130": [
   {
    "brand": "AXSTV",
@@ -23468,6 +23475,13 @@
    "model": "B55"
   }
  ],
+ "B60Pro": [
+  {
+   "brand": "BMobile",
+   "device": "Bmobile_B60Pro_MV03SP",
+   "model": "B60Pro"
+  }
+ ],
  "B60Pro_DG": [
   {
    "brand": "BMobile",
@@ -26360,6 +26374,13 @@
    "brand": "Bertoli",
    "device": "B20X",
    "model": "B20X"
+  }
+ ],
+ "BRN01": [
+  {
+   "brand": "Bestreha",
+   "device": "BRN01",
+   "model": "BRN01"
   }
  ],
  "MAX4": [
@@ -30615,6 +30636,13 @@
    "model": "Studio X10"
   }
  ],
+ "Studio X10 2022": [
+  {
+   "brand": "Blu",
+   "device": "S011EQ",
+   "model": "Studio X10 2022"
+  }
+ ],
  "Studio X10+": [
   {
    "brand": "Blu",
@@ -32143,6 +32171,11 @@
   },
   {
    "brand": "DTC products",
+   "device": "S30",
+   "model": "S30"
+  },
+  {
+   "brand": "DUODUOGO",
    "device": "S30",
    "model": "S30"
   },
@@ -35377,6 +35410,13 @@
    "brand": "Cherry Mobile",
    "device": "A940",
    "model": "A940"
+  }
+ ],
+ "Aqua S10": [
+  {
+   "brand": "Cherry Mobile",
+   "device": "Aqua_S10",
+   "model": "Aqua S10"
   }
  ],
  "Aqua S10 Pro": [
@@ -43558,6 +43598,11 @@
    "model": "MY21ADA"
   },
   {
+   "brand": "Honda",
+   "device": "yebisuGA",
+   "model": "MY22ADA"
+  },
+  {
    "brand": "Panasonic",
    "device": "balticaCA",
    "model": "MY21ADA"
@@ -48542,13 +48587,6 @@
    "model": "Dynalink TV Box"
   }
  ],
- "dynalinktvbox": [
-  {
-   "brand": "Dynalink",
-   "device": "sti6130d350",
-   "model": "Dynalink TV Box"
-  }
- ],
  "Dyon": [
   {
    "brand": "Dyon",
@@ -48920,6 +48958,13 @@
    "brand": "EDUTAB",
    "device": "ELITE_10",
    "model": "ELITE_10"
+  }
+ ],
+ "P803": [
+  {
+   "brand": "EGBOK",
+   "device": "P803",
+   "model": "P803"
   }
  ],
  "Mars8": [
@@ -71634,6 +71679,11 @@
   {
    "brand": "Hisense",
    "device": "HS7731ESP",
+   "model": "Hisense U50 Lite"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HS7731ESP",
    "model": "Hisense U50 lite"
   },
   {
@@ -85106,13 +85156,6 @@
    "brand": "IndiHome",
    "device": "HG680",
    "model": "HG680_FJ"
-  }
- ],
- "MONDIAL Smart TV": [
-  {
-   "brand": "Indurama",
-   "device": "sunnyvale",
-   "model": "MONDIAL Smart TV"
   }
  ],
  "indurama 2K TV": [
@@ -120711,6 +120754,13 @@
    "model": "MONDIAL 4K TV"
   }
  ],
+ "MONDIAL Smart TV": [
+  {
+   "brand": "Mondial",
+   "device": "sunnyvale",
+   "model": "MONDIAL Smart TV"
+  }
+ ],
  "MONDIAL TV": [
   {
    "brand": "Mondial",
@@ -136440,6 +136490,13 @@
    "model": "PrismPlus 4K Pro Android TV"
   }
  ],
+ "PrismPlus Android TV": [
+  {
+   "brand": "PRISMPLUS",
+   "device": "sunnyvale",
+   "model": "PrismPlus Android TV"
+  }
+ ],
  "Prismplus TV": [
   {
    "brand": "PRISMPLUS",
@@ -148311,6 +148368,11 @@
  "realme 8": [
   {
    "brand": "Realme",
+   "device": "RMX3085L1",
+   "model": "RMX3085"
+  },
+  {
+   "brand": "realme",
    "device": "RMX3085L1",
    "model": "RMX3085"
   }
@@ -167421,6 +167483,13 @@
    "model": "AiPlus2K"
   }
  ],
+ "SANSUI SmartTV": [
+  {
+   "brand": "Sansui",
+   "device": "sunnyvale",
+   "model": "SANSUI SmartTV"
+  }
+ ],
  "SANSUITV UHD": [
   {
    "brand": "Sansui",
@@ -171143,6 +171212,13 @@
    "model": "S630M"
   }
  ],
+ "SINGER ANDROID TV": [
+  {
+   "brand": "Singer",
+   "device": "sunnyvale",
+   "model": "SINGER ANDROID TV"
+  }
+ ],
  "SINGER BD SMART TV": [
   {
    "brand": "Singer",
@@ -171747,6 +171823,13 @@
    "brand": "Sky Devices",
    "device": "Elite_J55",
    "model": "Elite J55"
+  }
+ ],
+ "Elite_OctaX": [
+  {
+   "brand": "Sky Devices",
+   "device": "Elite_OctaXkk3",
+   "model": "Elite OctaX"
   }
  ],
  "Elite_P55": [
@@ -187160,6 +187243,13 @@
    "model": "MT-715QR"
   }
  ],
+ "MT-717QW": [
+  {
+   "brand": "TJD(SZ)",
+   "device": "MT-717QW",
+   "model": "MT-717QW"
+  }
+ ],
  "MT-750QU_Pro": [
   {
    "brand": "TJD(SZ)",
@@ -189996,6 +190086,11 @@
    "brand": "Tecno",
    "device": "TECNO-BD2",
    "model": "TECNO BD2"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-BD2d",
+   "model": "TECNO BD2d"
   },
   {
    "brand": "Tecno",
