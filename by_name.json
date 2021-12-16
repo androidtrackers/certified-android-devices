@@ -112990,6 +112990,13 @@
    "model": "MEO TV Box 4K"
   }
  ],
+ "MEOBox 4K": [
+  {
+   "brand": "MEO(Portugal)",
+   "device": "DIW3930-MEO",
+   "model": "MEO TV Box 4K (DIW3930)"
+  }
+ ],
  "Any 302": [
   {
    "brand": "MG Series",
@@ -127399,6 +127406,13 @@
    "model": "DV 8535 4K"
   }
  ],
+ "DV 8935 X4": [
+  {
+   "brand": "NOWO",
+   "device": "DV8935-KPN",
+   "model": "DV 8935 X4"
+  }
+ ],
  "NX-20PRO1": [
   {
    "brand": "NSPRE",
@@ -132802,6 +132816,13 @@
    "model": "CPH1909"
   }
  ],
+ "CPH1938": [
+  {
+   "brand": "Oppo",
+   "device": "OP4883",
+   "model": "CPH1938"
+  }
+ ],
  "CPH2001": [
   {
    "brand": "Oppo",
@@ -133008,6 +133029,13 @@
    "brand": "Oppo",
    "device": "OP4F39L1",
    "model": "CPH2263"
+  }
+ ],
+ "CPH2293": [
+  {
+   "brand": "Oppo",
+   "device": "OP52E1L1",
+   "model": "CPH2293"
   }
  ],
  "F11 Pro": [
@@ -149023,13 +149051,6 @@
    "brand": "Realme",
    "device": "RMX2202CN",
    "model": "RMX2202"
-  }
- ],
- "真我GT Neo": [
-  {
-   "brand": "Realme",
-   "device": "RMX3031CN",
-   "model": "RMX3031"
   }
  ],
  "真我GT Neo 闪速版": [
@@ -169388,6 +169409,13 @@
    "model": "SHG05"
   }
  ],
+ "AQUOS wish": [
+  {
+   "brand": "Sharp",
+   "device": "SX1",
+   "model": "SH-WS10"
+  }
+ ],
  "AQUOS zero": [
   {
    "brand": "Sharp",
@@ -169471,6 +169499,11 @@
    "brand": "Sharp",
    "device": "Recoa",
    "model": "SH-RM18"
+  },
+  {
+   "brand": "Sharp",
+   "device": "Recoa",
+   "model": "SH-Z60"
   },
   {
    "brand": "Sharp",
@@ -221139,6 +221172,13 @@
    "brand": "realme",
    "device": "RED8D1",
    "model": "RMX3263"
+  }
+ ],
+ "真我GT Neo": [
+  {
+   "brand": "realme",
+   "device": "RMX3031CN",
+   "model": "RMX3031"
   }
  ],
  "真我Q3s": [

@@ -84139,6 +84139,11 @@
    "device": "DV8555-MEO",
    "name": "MEO TV Box 4K",
    "model": "MEO TV Box 4K"
+  },
+  {
+   "device": "DIW3930-MEO",
+   "name": "MEOBox 4K",
+   "model": "MEO TV Box 4K (DIW3930)"
   }
  ],
  "MG Series": [
@@ -96434,6 +96439,11 @@
    "device": "DV8535-KPN",
    "name": "DV 8535 4K",
    "model": "DV 8535 4K"
+  },
+  {
+   "device": "DV8935-KPN",
+   "name": "DV 8935 X4",
+   "model": "DV 8935 X4"
   }
  ],
  "NSPRE": [
@@ -101242,6 +101252,11 @@
    "model": "CPH1909"
   },
   {
+   "device": "OP4883",
+   "name": "CPH1938",
+   "model": "CPH1938"
+  },
+  {
    "device": "OP4B9B",
    "name": "CPH2001",
    "model": "CPH2001"
@@ -101390,6 +101405,11 @@
    "device": "OP4F39L1",
    "name": "CPH2263",
    "model": "CPH2263"
+  },
+  {
+   "device": "OP52E1L1",
+   "name": "CPH2293",
+   "model": "CPH2293"
   },
   {
    "device": "OP4883",
@@ -114295,11 +114315,6 @@
    "device": "RMX2202CN",
    "name": "真我GT",
    "model": "RMX2202"
-  },
-  {
-   "device": "RMX3031CN",
-   "name": "真我GT Neo",
-   "model": "RMX3031"
   },
   {
    "device": "RE5469",
@@ -132515,6 +132530,11 @@
    "model": "SHG05"
   },
   {
+   "device": "SX1",
+   "name": "AQUOS wish",
+   "model": "SH-WS10"
+  },
+  {
    "device": "SG801SH",
    "name": "AQUOS zero",
    "model": "801SH"
@@ -132578,6 +132598,11 @@
    "device": "Recoa",
    "name": "AQUOS zero6",
    "model": "SH-RM18"
+  },
+  {
+   "device": "Recoa",
+   "name": "AQUOS zero6",
+   "model": "SH-Z60"
   },
   {
    "device": "XKH",
@@ -178221,6 +178246,11 @@
    "device": "RE54C1L1",
    "name": "realme pad",
    "model": "RMP2103"
+  },
+  {
+   "device": "RMX3031CN",
+   "name": "真我GT Neo",
+   "model": "RMX3031"
   },
   {
    "device": "RE548B",

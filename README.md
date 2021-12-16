@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-12-15
+Last sync is 2021-12-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -16383,6 +16383,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MEDER|MEDER|smartguide210_eea|SmartGuide_2.10|
 |MEDER|SmartGuide210-464|SmartGuide210-464|SmartGuide210-464|
 |MEO(Portugal)|MEO TV Box 4K|DV8555-MEO|MEO TV Box 4K|
+|MEO(Portugal)|MEOBox 4K|DIW3930-MEO|MEO TV Box 4K (DIW3930)|
 |MG Series|Any 302|TR10CS2_3|TR10CS2|
 |MG series|Any 302|TR10CS1_15|TR10CS1|
 |MG series|Any 302|TR10CS2_2|TR10CS2|
@@ -18774,6 +18775,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NOGA|NOGAPAD101XTREME|NOGAPAD101XTREME|NOGAPAD101XTREME|
 |NOGA|NOGAPAD7G|NOGAPAD7G|NOGAPAD7G|
 |NOWO|DV 8535 4K|DV8535-KPN|DV 8535 4K|
+|NOWO|DV 8935 X4|DV8935-KPN|DV 8935 X4|
 |NSPRE|NX-20PRO1|NX-20PRO1|NX-20PRO1|
 |NVIDIA|SHIELD Android TV|foster|SHIELD Android TV|
 |NVIDIA|SHIELD Android TV|foster|SHIELD Console|
@@ -19690,6 +19692,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|CPH1903|CPH1903|CPH1903|
 |Oppo|CPH1907|OP4B83L1|CPH1907|
 |Oppo|CPH1909|CPH1909|CPH1909|
+|Oppo|CPH1938|OP4883|CPH1938|
 |Oppo|CPH2001|OP4B9B|CPH2001|
 |Oppo|CPH2015|OP4C7D|CPH2015|
 |Oppo|CPH2021|OP4B9B|CPH2021|
@@ -19720,6 +19723,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|CPH2249|OP4F81L1|CPH2249|
 |Oppo|CPH2251|OP4F83L1|CPH2251|
 |Oppo|CPH2263|OP4F39L1|CPH2263|
+|Oppo|CPH2293|OP52E1L1|CPH2293|
 |Oppo|F11|OP4883|CPH1911|
 |Oppo|F11|OP4883|CPH1913|
 |Oppo|F11|OP4883|CPH1915|
@@ -22239,7 +22243,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|真我 Q3 Pro 5G|RMX2205CN|RMX2205|
 |Realme|真我 X7 pro至尊版|RMX3116CN|RMX3116|
 |Realme|真我GT|RMX2202CN|RMX2202|
-|Realme|真我GT Neo|RMX3031CN|RMX3031|
 |Realme|真我GT Neo 闪速版|RE5469|RMX3350|
 |Realme|真我GT Neo2T|RE5469|RMX3357|
 |Realme|真我V11s 5G|RE5485|RMX3125|
@@ -25831,6 +25834,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS sense6|Chara|SH-RM19|
 |Sharp|AQUOS sense6|SH-54B|SH-54B|
 |Sharp|AQUOS sense6|ZMJ|SHG05|
+|Sharp|AQUOS wish|SX1|SH-WS10|
 |Sharp|AQUOS zero|SG801SH|801SH|
 |Sharp|AQUOS zero|SH-Z10|SH-Z10|
 |Sharp|AQUOS zero|SH-Z10A|SH-Z10A|
@@ -25844,6 +25848,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS zero5G basic DX|OJ6|SHG02|
 |Sharp|AQUOS zero6|Recoa|A102SH|
 |Sharp|AQUOS zero6|Recoa|SH-RM18|
+|Sharp|AQUOS zero6|Recoa|SH-Z60|
 |Sharp|AQUOS zero6|XKH|SHG04|
 |Sharp|AQUOS ケータイ SH-02L|SH-02L|SH-02L|
 |Sharp|AQUOS ケータイ SH-06G|SH-06G|SH-06G|
@@ -34725,6 +34730,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme GT 5G|RMX2202L1|RMX2202|
 |realme|realme narzo 50A|RED8AF|RMX3430|
 |realme|realme pad|RE54C1L1|RMP2103|
+|realme|真我GT Neo|RMX3031CN|RMX3031|
 |realme|真我Q3s|RE548B|RMX3461|
 |realme|真我Q3s|RE548B|RMX3462|
 |realme|真我Q3s|RE548BL1|RMX3461|

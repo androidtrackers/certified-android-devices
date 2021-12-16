@@ -111680,6 +111680,13 @@
    "model": "MEO TV Box 4K"
   }
  ],
+ "DIW3930-MEO": [
+  {
+   "brand": "MEO(Portugal)",
+   "name": "MEOBox 4K",
+   "model": "MEO TV Box 4K (DIW3930)"
+  }
+ ],
  "TR10CS2_3": [
   {
    "brand": "MG Series",
@@ -126988,6 +126995,13 @@
    "model": "DV 8535 4K"
   }
  ],
+ "DV8935-KPN": [
+  {
+   "brand": "NOWO",
+   "name": "DV 8935 X4",
+   "model": "DV 8935 X4"
+  }
+ ],
  "NX-20PRO1": [
   {
    "brand": "NSPRE",
@@ -132627,6 +132641,28 @@
    "model": "CPH1909"
   }
  ],
+ "OP4883": [
+  {
+   "brand": "Oppo",
+   "name": "CPH1938",
+   "model": "CPH1938"
+  },
+  {
+   "brand": "Oppo",
+   "name": "F11",
+   "model": "CPH1911"
+  },
+  {
+   "brand": "Oppo",
+   "name": "F11",
+   "model": "CPH1913"
+  },
+  {
+   "brand": "Oppo",
+   "name": "F11",
+   "model": "CPH1915"
+  }
+ ],
  "OP4B9B": [
   {
    "brand": "Oppo",
@@ -132809,21 +132845,11 @@
    "model": "CPH2251"
   }
  ],
- "OP4883": [
+ "OP52E1L1": [
   {
    "brand": "Oppo",
-   "name": "F11",
-   "model": "CPH1911"
-  },
-  {
-   "brand": "Oppo",
-   "name": "F11",
-   "model": "CPH1913"
-  },
-  {
-   "brand": "Oppo",
-   "name": "F11",
-   "model": "CPH1915"
+   "name": "CPH2293",
+   "model": "CPH2293"
   }
  ],
  "OP4863": [
@@ -148659,13 +148685,6 @@
    "brand": "Realme",
    "name": "真我GT",
    "model": "RMX2202"
-  }
- ],
- "RMX3031CN": [
-  {
-   "brand": "Realme",
-   "name": "真我GT Neo",
-   "model": "RMX3031"
   }
  ],
  "RE5469": [
@@ -171215,6 +171234,13 @@
    "model": "SHG05"
   }
  ],
+ "SX1": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS wish",
+   "model": "SH-WS10"
+  }
+ ],
  "SG801SH": [
   {
    "brand": "Sharp",
@@ -171302,6 +171328,11 @@
    "brand": "Sharp",
    "name": "AQUOS zero6",
    "model": "SH-RM18"
+  },
+  {
+   "brand": "Sharp",
+   "name": "AQUOS zero6",
+   "model": "SH-Z60"
   }
  ],
  "XKH": [
@@ -223549,6 +223580,13 @@
    "brand": "realme",
    "name": "realme C21-Y",
    "model": "RMX3263"
+  }
+ ],
+ "RMX3031CN": [
+  {
+   "brand": "realme",
+   "name": "真我GT Neo",
+   "model": "RMX3031"
   }
  ],
  "RE548B": [
