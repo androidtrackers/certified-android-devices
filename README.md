@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-12-16
+Last sync is 2021-12-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -16089,6 +16089,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logic Mobility|LOGIC L50T|LOGIC_L50T|LOGIC L50T|
 |Logic Mobility|LOGIC L61|LOGIC_L61|LOGIC L61|
 |Logic Mobility|LOGIC L63|LOGIC_L63|LOGIC L63|
+|Logic Mobility|LOGIC L65 LITE|LOGIC_L65_LITE|LOGIC L65 LITE|
 |Logic Mobility|LOGIC_L4T_1|LOGIC_L4T|LOGIC L4T|
 |Logic Mobility|LOGIC_L55S|LOGIC_L55S|LOGIC L55S|
 |Logic Mobility|LOGIC_L5D|LOGIC_L5D|LOGIC_L5D|
@@ -18078,6 +18079,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g power|sofia|moto g power|
 |Motorola|moto g power (2021)|borneo|moto g power|
 |Motorola|moto g power (2021)|borneo|moto g power (2021)|
+|Motorola|moto g power (2022)|tonga|moto g power (2022)|
 |Motorola|moto g power (XT2041DL)|sofia|moto g power (XT2041DL)|
 |Motorola|moto g pro|sofiap_sprout|moto g pro|
 |Motorola|moto g pure|ellis|moto g power|
@@ -19794,6 +19796,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Watch|beluga|OPPO Watch|
 |Oppo|OPPO Watch|orca|OPPO Watch|
 |Oppo|PDST00|OP4EA3|PDST00|
+|Oppo|PDYM20|OP4E21|PDYM20|
+|Oppo|PDYT20|OP4E21|PDYT20|
 |Oppo|PEGM00|OP4E8F|PEGM00|
 |Oppo|PEGM10|OP4E59|PEGM10|
 |Oppo|PEGT10|OP4E59|PEGT10|
@@ -22143,7 +22147,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme 7i|RMX2193|RMX2193|
 |Realme|realme 8|RMX3085L1|RMX3085|
 |Realme|realme 8 5G|RE513CL1|RMX3241|
-|Realme|realme 8 Pro|RMX3081L1|RMX3081|
 |Realme|realme 8Pro|RMX3081L1|RMX3081|
 |Realme|realme 8i|RE54B4L1|RMX3151|
 |Realme|realme 8s 5G|RE58A0L1|RMX3381|
@@ -22218,7 +22221,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme X50 Pro|RMX2071CN|RMX2071|
 |Realme|realme X50 Pro|RMX2075L1|RMX2075|
 |Realme|realme X50 Pro|RMX2076L1|RMX2076|
-|Realme|realme X50 Pro Play|RMX2072CN|RMX2072|
 |Realme|realme X50m 5G|RE508C|RMX2141|
 |Realme|realme X50m 5G|RE508C|RMX2142|
 |Realme|realme X50m 5G|RMX2141CN|RMX2141|
@@ -25857,6 +25859,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|BASIO2 SHV36|SHV36|SHV36|
 |Sharp|C1|MS1|FS8001|
 |Sharp|C20|VGO|SH-C02|
+|Sharp|DL1X|banqiao|AQUOS-TVX21B|
 |Sharp|DM009SH|DM009SH|DM009SH|
 |Sharp|DM010SH|DM010SH|DM010SH|
 |Sharp|DM011SH|DM011SH|DM011SH|
@@ -29847,6 +29850,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Trident|A25|A25|A25|
 |Trident|A53 PRO|A53_PRO|A53 PRO|
 |Trident|A54|A54|A54|
+|Trident|A75 Pro Max|A75|Trident A75 Pro Max|
 |Trifone|Passion-1S|Passion-1S|Passion-1S|
 |Trifone|Passion-Plus|Passion-Plus|Passion-Plus|
 |Trifone|Passion1|Passion1|Passion1|
@@ -34728,6 +34732,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C21-Y|RED8D1|RMX3263|
 |realme|realme C25Y|RED8F6|RMX3269|
 |realme|realme GT 5G|RMX2202L1|RMX2202|
+|realme|realme X50 Pro Play|RMX2072CN|RMX2072|
 |realme|realme narzo 50A|RED8AF|RMX3430|
 |realme|realme pad|RE54C1L1|RMP2103|
 |realme|真我GT Neo|RMX3031CN|RMX3031|

@@ -82623,6 +82623,11 @@
    "model": "LOGIC L63"
   },
   {
+   "device": "LOGIC_L65_LITE",
+   "name": "LOGIC L65 LITE",
+   "model": "LOGIC L65 LITE"
+  },
+  {
    "device": "LOGIC_L4T",
    "name": "LOGIC_L4T_1",
    "model": "LOGIC L4T"
@@ -92866,6 +92871,11 @@
    "model": "moto g power (2021)"
   },
   {
+   "device": "tonga",
+   "name": "moto g power (2022)",
+   "model": "moto g power (2022)"
+  },
+  {
    "device": "sofia",
    "name": "moto g power (XT2041DL)",
    "model": "moto g power (XT2041DL)"
@@ -101760,6 +101770,16 @@
    "device": "OP4EA3",
    "name": "PDST00",
    "model": "PDST00"
+  },
+  {
+   "device": "OP4E21",
+   "name": "PDYM20",
+   "model": "PDYM20"
+  },
+  {
+   "device": "OP4E21",
+   "name": "PDYT20",
+   "model": "PDYT20"
   },
   {
    "device": "OP4E8F",
@@ -113818,11 +113838,6 @@
   },
   {
    "device": "RMX3081L1",
-   "name": "realme 8 Pro",
-   "model": "RMX3081"
-  },
-  {
-   "device": "RMX3081L1",
    "name": "realme 8Pro",
    "model": "RMX3081"
   },
@@ -114190,11 +114205,6 @@
    "device": "RMX2076L1",
    "name": "realme X50 Pro",
    "model": "RMX2076"
-  },
-  {
-   "device": "RMX2072CN",
-   "name": "realme X50 Pro Play",
-   "model": "RMX2072"
   },
   {
    "device": "RE508C",
@@ -132643,6 +132653,11 @@
    "device": "VGO",
    "name": "C20",
    "model": "SH-C02"
+  },
+  {
+   "device": "banqiao",
+   "name": "DL1X",
+   "model": "AQUOS-TVX21B"
   },
   {
    "device": "DM009SH",
@@ -153095,6 +153110,11 @@
    "device": "A54",
    "name": "A54",
    "model": "A54"
+  },
+  {
+   "device": "A75",
+   "name": "A75 Pro Max",
+   "model": "Trident A75 Pro Max"
   }
  ],
  "Trifone": [
@@ -178236,6 +178256,11 @@
    "device": "RMX2202L1",
    "name": "realme GT 5G",
    "model": "RMX2202"
+  },
+  {
+   "device": "RMX2072CN",
+   "name": "realme X50 Pro Play",
+   "model": "RMX2072"
   },
   {
    "device": "RED8AF",

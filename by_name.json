@@ -110985,6 +110985,13 @@
    "model": "LOGIC L63"
   }
  ],
+ "LOGIC L65 LITE": [
+  {
+   "brand": "Logic Mobility",
+   "device": "LOGIC_L65_LITE",
+   "model": "LOGIC L65 LITE"
+  }
+ ],
  "LOGIC_L4T_1": [
   {
    "brand": "Logic Mobility",
@@ -123015,6 +123022,13 @@
    "model": "moto g power (2021)"
   }
  ],
+ "moto g power (2022)": [
+  {
+   "brand": "Motorola",
+   "device": "tonga",
+   "model": "moto g power (2022)"
+  }
+ ],
  "moto g power (XT2041DL)": [
   {
    "brand": "Motorola",
@@ -133409,6 +133423,20 @@
    "brand": "Oppo",
    "device": "OP4EA3",
    "model": "PDST00"
+  }
+ ],
+ "PDYM20": [
+  {
+   "brand": "Oppo",
+   "device": "OP4E21",
+   "model": "PDYM20"
+  }
+ ],
+ "PDYT20": [
+  {
+   "brand": "Oppo",
+   "device": "OP4E21",
+   "model": "PDYT20"
   }
  ],
  "PEGM00": [
@@ -148412,18 +148440,6 @@
    "model": "RMX3241"
   }
  ],
- "realme 8 Pro": [
-  {
-   "brand": "Realme",
-   "device": "RMX3081L1",
-   "model": "RMX3081"
-  },
-  {
-   "brand": "realme",
-   "device": "RMX3081L1",
-   "model": "RMX3081"
-  }
- ],
  "realme 8Pro": [
   {
    "brand": "Realme",
@@ -148880,13 +148896,6 @@
    "brand": "Realme",
    "device": "RMX2076L1",
    "model": "RMX2076"
-  }
- ],
- "realme X50 Pro Play": [
-  {
-   "brand": "Realme",
-   "device": "RMX2072CN",
-   "model": "RMX2072"
   }
  ],
  "realme X50m 5G": [
@@ -169537,6 +169546,13 @@
    "brand": "Sharp",
    "device": "SHV36",
    "model": "SHV36"
+  }
+ ],
+ "DL1X": [
+  {
+   "brand": "Sharp",
+   "device": "banqiao",
+   "model": "AQUOS-TVX21B"
   }
  ],
  "DM009SH": [
@@ -192665,6 +192681,13 @@
    "brand": "Trident",
    "device": "A53_PRO",
    "model": "A53 PRO"
+  }
+ ],
+ "A75 Pro Max": [
+  {
+   "brand": "Trident",
+   "device": "A75",
+   "model": "Trident A75 Pro Max"
   }
  ],
  "Passion-1S": [
@@ -221167,11 +221190,25 @@
    "model": "RMX3269"
   }
  ],
+ "realme 8 Pro": [
+  {
+   "brand": "realme",
+   "device": "RMX3081L1",
+   "model": "RMX3081"
+  }
+ ],
  "realme C21-Y": [
   {
    "brand": "realme",
    "device": "RED8D1",
    "model": "RMX3263"
+  }
+ ],
+ "realme X50 Pro Play": [
+  {
+   "brand": "realme",
+   "device": "RMX2072CN",
+   "model": "RMX2072"
   }
  ],
  "真我GT Neo": [
