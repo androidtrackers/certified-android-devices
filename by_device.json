@@ -148274,6 +148274,11 @@
    "brand": "Realme",
    "name": "realme C25s",
    "model": "RMX3195"
+  },
+  {
+   "brand": "realme",
+   "name": "realme C25s",
+   "model": "RMX3195"
   }
  ],
  "RMX3197": [
@@ -148349,7 +148354,7 @@
    "model": "RMX3370"
   },
   {
-   "brand": "Realme",
+   "brand": "realme",
    "name": "realme GT Neo2 5G",
    "model": "RMX3370"
   }
@@ -148551,13 +148556,11 @@
    "brand": "Realme",
    "name": "realme X50 Pro",
    "model": "RMX2075"
-  }
- ],
- "RMX2076L1": [
+  },
   {
-   "brand": "Realme",
+   "brand": "realme",
    "name": "realme X50 Pro",
-   "model": "RMX2076"
+   "model": "RMX2075"
   }
  ],
  "RE508C": [
@@ -202049,6 +202052,13 @@
    "model": "V2130A"
   }
  ],
+ "2131": [
+  {
+   "brand": "Vivo",
+   "name": "V2131",
+   "model": "V2131"
+  }
+ ],
  "PD2131": [
   {
    "brand": "Vivo",
@@ -202078,6 +202088,13 @@
    "brand": "Vivo",
    "name": "V2135A",
    "model": "V2135A"
+  }
+ ],
+ "2135": [
+  {
+   "brand": "Vivo",
+   "name": "V2135",
+   "model": "V2135"
   }
  ],
  "PD2136": [
@@ -223606,6 +223623,13 @@
    "brand": "realme",
    "name": "realme C21-Y",
    "model": "RMX3263"
+  }
+ ],
+ "RMX2076L1": [
+  {
+   "brand": "realme",
+   "name": "realme X50 Pro",
+   "model": "RMX2076"
   }
  ],
  "RMX2072CN": [

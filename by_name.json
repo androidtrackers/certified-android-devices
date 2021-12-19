@@ -148610,6 +148610,11 @@
    "brand": "Realme",
    "device": "RMX3197",
    "model": "RMX3197"
+  },
+  {
+   "brand": "realme",
+   "device": "RMX3195",
+   "model": "RMX3195"
   }
  ],
  "realme C3": [
@@ -148691,7 +148696,7 @@
    "model": "RMX3370"
   },
   {
-   "brand": "Realme",
+   "brand": "realme",
    "device": "RE879AL1",
    "model": "RMX3370"
   }
@@ -148893,7 +148898,12 @@
    "model": "RMX2075"
   },
   {
-   "brand": "Realme",
+   "brand": "realme",
+   "device": "RMX2075L1",
+   "model": "RMX2075"
+  },
+  {
+   "brand": "realme",
    "device": "RMX2076L1",
    "model": "RMX2076"
   }
@@ -199933,6 +199943,13 @@
    "model": "V2130A"
   }
  ],
+ "V2131": [
+  {
+   "brand": "Vivo",
+   "device": "2131",
+   "model": "V2131"
+  }
+ ],
  "V2131A": [
   {
    "brand": "Vivo",
@@ -199966,6 +199983,13 @@
    "brand": "Vivo",
    "device": "PD2134",
    "model": "V2134A"
+  }
+ ],
+ "V2135": [
+  {
+   "brand": "Vivo",
+   "device": "2135",
+   "model": "V2135"
   }
  ],
  "V2135A": [

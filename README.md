@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-12-18
+Last sync is 2021-12-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -22186,7 +22186,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme GT Master Edition|RE54ABL1|RMX3363|
 |Realme|realme GT Neo 2|RE5473|RMX3370|
 |Realme|realme GT Neo2 5G|RE879AL1|RMX3370|
-|Realme|realme GT Neo2 5G|RE879AL1|RMX3370|
 |Realme|realme Narzo 20|RMX2193|RMX2193|
 |Realme|realme Narzo 30 Pro 5G|RMX2117L1|RMX2117|
 |Realme|realme Pad|RE54C1L1|RMP2102|
@@ -22220,7 +22219,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme X50 5G|RMX2144L1|RMX2144|
 |Realme|realme X50 Pro|RMX2071CN|RMX2071|
 |Realme|realme X50 Pro|RMX2075L1|RMX2075|
-|Realme|realme X50 Pro|RMX2076L1|RMX2076|
 |Realme|realme X50m 5G|RE508C|RMX2141|
 |Realme|realme X50m 5G|RE508C|RMX2142|
 |Realme|realme X50m 5G|RMX2141CN|RMX2141|
@@ -31016,11 +31014,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2125|2120|V2125|
 |Vivo|V2129|2129|V2129|
 |Vivo|V2130A|PD2130|V2130A|
+|Vivo|V2131|2131|V2131|
 |Vivo|V2131A|PD2131|V2131A|
 |Vivo|V2132A|PD2134|V2132A|
 |Vivo|V2133A|PD2133|V2133A|
 |Vivo|V2134|2120|V2134|
 |Vivo|V2134A|PD2134|V2134A|
+|Vivo|V2135|2135|V2135|
 |Vivo|V2135A|PD2133|V2135A|
 |Vivo|V2136A|PD2136|V2136A|
 |Vivo|V2136GA|PD2136|V2136GA|
@@ -34731,7 +34731,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C15 Qualcomm Edition|RMX2195L1|RMX2195|
 |realme|realme C21-Y|RED8D1|RMX3263|
 |realme|realme C25Y|RED8F6|RMX3269|
+|realme|realme C25s|RMX3195|RMX3195|
 |realme|realme GT 5G|RMX2202L1|RMX2202|
+|realme|realme GT Neo2 5G|RE879AL1|RMX3370|
+|realme|realme X50 Pro|RMX2075L1|RMX2075|
+|realme|realme X50 Pro|RMX2076L1|RMX2076|
 |realme|realme X50 Pro Play|RMX2072CN|RMX2072|
 |realme|realme narzo 50A|RED8AF|RMX3430|
 |realme|realme pad|RE54C1L1|RMP2103|
