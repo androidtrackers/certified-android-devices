@@ -14744,6 +14744,13 @@
    "model": "CMP749"
   }
  ],
+ "X500_US": [
+  {
+   "brand": "Aocwei",
+   "device": "X500_US",
+   "model": "X500_US"
+  }
+ ],
  "MT-734G": [
   {
    "brand": "Apex",
@@ -20460,6 +20467,13 @@
    "model": "AP5702"
   }
  ],
+ "Athesi AP5706": [
+  {
+   "brand": "Athesi",
+   "device": "AP5706",
+   "model": "Athesi_AP5706"
+  }
+ ],
  "Athesi professional AP5705S": [
   {
    "brand": "Athesi",
@@ -22554,6 +22568,13 @@
    "brand": "BLOW",
    "device": "PlatinumTAB10",
    "model": "PlatinumTAB10"
+  }
+ ],
+ "PlatinumTAB10V11": [
+  {
+   "brand": "BLOW",
+   "device": "PlatinumTAB10V11",
+   "model": "PlatinumTAB10V11"
   }
  ],
  "PlatinumTAB10_4G_V1": [
@@ -28216,6 +28237,11 @@
    "brand": "Blackview",
    "device": "Tab_10",
    "model": "Tab 10"
+  },
+  {
+   "brand": "Nuu",
+   "device": "T1001LA",
+   "model": "T1001L"
   }
  ],
  "Tab10": [
@@ -32483,6 +32509,11 @@
    "brand": "Ematic",
    "device": "Jetstream",
    "model": "AGT418"
+  },
+  {
+   "brand": "HOLO",
+   "device": "VE1983",
+   "model": "VE1983"
   },
   {
    "brand": "Pritom",
@@ -43763,6 +43794,13 @@
    "model": "Dslide_1020"
   }
  ],
+ "Dslide_1021C": [
+  {
+   "brand": "Danew",
+   "device": "Dslide_1021C",
+   "model": "Dslide_1021C"
+  }
+ ],
  "Dslide_1021_EEA": [
   {
    "brand": "Danew",
@@ -47003,6 +47041,13 @@
    "brand": "Doogee",
    "device": "S35Pro",
    "model": "S35Pro"
+  }
+ ],
+ "S35T": [
+  {
+   "brand": "Doogee",
+   "device": "S35T",
+   "model": "S35T"
   }
  ],
  "S35_RU": [
@@ -51115,6 +51160,13 @@
    "model": "S550"
   }
  ],
+ "U505S": [
+  {
+   "brand": "Energizer",
+   "device": "U505S",
+   "model": "U505S"
+  }
+ ],
  "Ultimate U710S": [
   {
    "brand": "Energizer",
@@ -53498,6 +53550,13 @@
    "brand": "FFFSMARTLIFE",
    "device": "FFFTAB10",
    "model": "FFFTAB10"
+  }
+ ],
+ "FFFTAB10a0": [
+  {
+   "brand": "FFFSMARTLIFE",
+   "device": "FFFTAB10a0",
+   "model": "FFFTAB10a0"
   }
  ],
  "FFFTAB10a1": [
@@ -58881,6 +58940,13 @@
    "model": "GTVR10S"
   }
  ],
+ "GVP133": [
+  {
+   "brand": "Ghia",
+   "device": "GVP133",
+   "model": "GVP133"
+  }
+ ],
  "I1": [
   {
    "brand": "Ghia",
@@ -62589,6 +62655,13 @@
    "brand": "HMR NETWORKS",
    "device": "HMR5012",
    "model": "HMR5012"
+  }
+ ],
+ "VE0319": [
+  {
+   "brand": "HOLO",
+   "device": "VE0319",
+   "model": "VE0319"
   }
  ],
  "HOMII M6": [
@@ -86340,6 +86413,13 @@
    "model": "Infinix-X600-LTE"
   }
  ],
+ "ZERO 5G": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6815",
+   "model": "Infinix X6815"
+  }
+ ],
  "Zero 2": [
   {
    "brand": "Infinix",
@@ -95782,6 +95862,13 @@
    "brand": "Kyocera",
    "device": "pls8600",
    "model": "Zio"
+  }
+ ],
+ "あんしんスマホ": [
+  {
+   "brand": "Kyocera",
+   "device": "KY-51B",
+   "model": "KY-51B"
   }
  ],
  "おてがるスマホ01": [
@@ -133502,6 +133589,13 @@
    "model": "PFCM00"
   }
  ],
+ "PFDM00": [
+  {
+   "brand": "Oppo",
+   "device": "OP5217",
+   "model": "PFDM00"
+  }
+ ],
  "PFGM00": [
   {
    "brand": "Oppo",
@@ -144987,6 +145081,20 @@
    "brand": "Pritom",
    "device": "L8_A01",
    "model": "L8"
+  }
+ ],
+ "L8_A02": [
+  {
+   "brand": "Pritom",
+   "device": "L8_A02",
+   "model": "L8_A02"
+  }
+ ],
+ "L8_A02_EEA": [
+  {
+   "brand": "Pritom",
+   "device": "L8_A02_EEA",
+   "model": "L8_A02_EEA"
   }
  ],
  "L8_EEA": [
@@ -168147,6 +168255,13 @@
    "model": "CRUISE1"
   }
  ],
+ "CRUISE2 5G": [
+  {
+   "brand": "Seuic",
+   "device": "d740",
+   "model": "CRUISE2 5G"
+  }
+ ],
  "2T-B40BCH1; 2T-B40BCH3; 2T-B45BCH1; 2T-B45BCH3": [
   {
    "brand": "Sharp",
@@ -187337,6 +187452,13 @@
    "model": "MT-762QR"
   }
  ],
+ "MT-790QR_V1": [
+  {
+   "brand": "TJD(SZ)",
+   "device": "MT-790QR_V1",
+   "model": "MT-790QR_V1"
+  }
+ ],
  "MT-792OF_EEA": [
   {
    "brand": "TJD(SZ)",
@@ -190190,6 +190312,13 @@
    "model": "TECNO LE7n"
   }
  ],
+ "TECNO POVA 5G": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-LE8",
+   "model": "TECNO LE8"
+  }
+ ],
  "TECNO R6S": [
   {
    "brand": "Tecno",
@@ -190413,6 +190542,11 @@
    "brand": "Tecno",
    "device": "TECNO-KG5",
    "model": "TECNO KG5"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KG5m",
+   "model": "TECNO KG5m"
   }
  ],
  "TECNO Tab": [
@@ -192520,6 +192654,13 @@
    "brand": "Transvision",
    "device": "USB6_IR80",
    "model": "TRANSVISION-iTV"
+  }
+ ],
+ "Sapphire Tablet": [
+  {
+   "brand": "TravelWifi",
+   "device": "Sapphire_Tablet",
+   "model": "S_TAB"
   }
  ],
  "SurfTab ST70204-3": [
@@ -196104,6 +196245,13 @@
    "brand": "Veidoo",
    "device": "VEIDOO_T80",
    "model": "VEIDOO_T80"
+  }
+ ],
+ "VeidooT30_EEA": [
+  {
+   "brand": "Veidoo",
+   "device": "VeidooT30_EEA",
+   "model": "VeidooT30_EEA"
   }
  ],
  "CX-508": [
@@ -199955,6 +200103,13 @@
    "brand": "Vivo",
    "device": "PD2131",
    "model": "V2131A"
+  }
+ ],
+ "V2132": [
+  {
+   "brand": "Vivo",
+   "device": "2132",
+   "model": "V2132"
   }
  ],
  "V2132A": [
@@ -219130,6 +219285,13 @@
    "brand": "geaneePro",
    "device": "JT10LTE-X1",
    "model": "JT10LTE-X1"
+  }
+ ],
+ "JT10LTE-X1S": [
+  {
+   "brand": "geaneePro",
+   "device": "JT10LTE-X1S",
+   "model": "JT10LTE-X1S"
   }
  ],
  "JT70-X": [
