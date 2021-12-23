@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-12-22
+Last sync is 2021-12-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -513,6 +513,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advan digital|A8|ADVAN_A8|A8|
 |Advan digital|ADVAN G2 plus|ADVAN_5701|5701|
 |Advan digital|ADVAN S50 4G|ADVAN_i5G|i5G|
+|Advan digital|ADVAN_SKETSA_2|ADVAN_SKETSA_2|ADVAN 1011|
 |Advan digital|E1C|ADVAN_E1C_3G|E1C_3G|
 |Advan digital|E1C  4G|ADVAN_E1C4G|7037|
 |Advan digital|E1C 4G|ADVAN_E1C_4G|7035|
@@ -4634,6 +4635,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Covia|CP-W5s|CP-W5s|CP-W5s|
 |Covia|g06+|g06|g06|
 |Creato|DVT101B|mdt1005_mk_32|DVT101B|
+|CredenceID|CredenceECO|CredenceECO|CE1-CID-16-4G-011|
 |Crelander|A101|A101|A101|
 |Crelander|A102|A102|A102|
 |Crelander|E101|E101|E101|
@@ -22308,6 +22310,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi  7A|pine|pine|
 |Redmi|Redmi  Note  7|lavender|Redmi Note 7|
 |Redmi|Redmi 10|eos|21061119DG|
+|Redmi|Redmi 10|eos|22011119UY|
 |Redmi|Redmi 10 2022|eos|21061119DG|
 |Redmi|Redmi 10 2022|selene|21061119AG|
 |Redmi|Redmi 10 2022|selene|21061119AL|
@@ -25606,6 +25609,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sapphire|Sapphire Phone|Sapphire_Phone|Sapphire Phone|
 |Sasktel|HMB2213PW22WA|HMB2213PW22WA|HMB2213PW22WA|
 |Sasktel|SaskTel maxTV Stream|HMB2213PW22WA|HMB2213PW22WA|
+|Sasktel|maxTV Stream|uiw4054sas|maxTV Stream|
 |Satewave|HPAD-IP8045|HPAD-IP8045|HPAD-IP8045|
 |Sceptre|A322BV-SRC|kanda|2K Smart TV|
 |Sceptre|Sceptre|gangbyeon|4K Smart TV|

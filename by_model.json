@@ -4941,6 +4941,13 @@
    "device": "ADVAN_i5G"
   }
  ],
+ "ADVAN 1011": [
+  {
+   "brand": "Advan digital",
+   "name": "ADVAN_SKETSA_2",
+   "device": "ADVAN_SKETSA_2"
+  }
+ ],
  "E1C_3G": [
   {
    "brand": "Advan digital",
@@ -34514,6 +34521,13 @@
    "brand": "Creato",
    "name": "DVT101B",
    "device": "mdt1005_mk_32"
+  }
+ ],
+ "CE1-CID-16-4G-011": [
+  {
+   "brand": "CredenceID",
+   "name": "CredenceECO",
+   "device": "CredenceECO"
   }
  ],
  "E101": [
@@ -152656,6 +152670,13 @@
    "device": "eos"
   }
  ],
+ "22011119UY": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10",
+   "device": "eos"
+  }
+ ],
  "21061119AG": [
   {
    "brand": "Redmi",
@@ -175010,6 +175031,13 @@
    "brand": "Sasktel",
    "name": "SaskTel maxTV Stream",
    "device": "HMB2213PW22WA"
+  }
+ ],
+ "maxTV Stream": [
+  {
+   "brand": "Sasktel",
+   "name": "maxTV Stream",
+   "device": "uiw4054sas"
   }
  ],
  "HPAD-IP8045": [

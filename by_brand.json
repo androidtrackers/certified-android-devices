@@ -2695,6 +2695,11 @@
    "model": "i5G"
   },
   {
+   "device": "ADVAN_SKETSA_2",
+   "name": "ADVAN_SKETSA_2",
+   "model": "ADVAN 1011"
+  },
+  {
    "device": "ADVAN_E1C_3G",
    "name": "E1C",
    "model": "E1C_3G"
@@ -23968,6 +23973,13 @@
    "device": "mdt1005_mk_32",
    "name": "DVT101B",
    "model": "DVT101B"
+  }
+ ],
+ "CredenceID": [
+  {
+   "device": "CredenceECO",
+   "name": "CredenceECO",
+   "model": "CE1-CID-16-4G-011"
   }
  ],
  "Crelander": [
@@ -114661,6 +114673,11 @@
   },
   {
    "device": "eos",
+   "name": "Redmi 10",
+   "model": "22011119UY"
+  },
+  {
+   "device": "eos",
    "name": "Redmi 10 2022",
    "model": "21061119DG"
   },
@@ -131352,6 +131369,11 @@
    "device": "HMB2213PW22WA",
    "name": "SaskTel maxTV Stream",
    "model": "HMB2213PW22WA"
+  },
+  {
+   "device": "uiw4054sas",
+   "name": "maxTV Stream",
+   "model": "maxTV Stream"
   }
  ],
  "Satewave": [

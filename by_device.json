@@ -6089,6 +6089,13 @@
    "model": "i5G"
   }
  ],
+ "ADVAN_SKETSA_2": [
+  {
+   "brand": "Advan digital",
+   "name": "ADVAN_SKETSA_2",
+   "model": "ADVAN 1011"
+  }
+ ],
  "ADVAN_E1C_3G": [
   {
    "brand": "Advan digital",
@@ -36434,6 +36441,13 @@
    "brand": "SYLVANIA",
    "name": "SLTDVD1024",
    "model": "SLTDVD1024"
+  }
+ ],
+ "CredenceECO": [
+  {
+   "brand": "CredenceID",
+   "name": "CredenceECO",
+   "model": "CE1-CID-16-4G-011"
   }
  ],
  "E101": [
@@ -149159,6 +149173,11 @@
   },
   {
    "brand": "Redmi",
+   "name": "Redmi 10",
+   "model": "22011119UY"
+  },
+  {
+   "brand": "Redmi",
    "name": "Redmi 10 2022",
    "model": "21061119DG"
   },
@@ -169735,6 +169754,13 @@
    "brand": "Sasktel",
    "name": "SaskTel maxTV Stream",
    "model": "HMB2213PW22WA"
+  }
+ ],
+ "uiw4054sas": [
+  {
+   "brand": "Sasktel",
+   "name": "maxTV Stream",
+   "model": "maxTV Stream"
   }
  ],
  "HPAD-IP8045": [
