@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-12-23
+Last sync is 2021-12-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4678,6 +4678,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cspire|FT7|FT7_tw|Android Tablet FT7|
 |Ctroniq|CTRONIQ-SNOOK-X10|CTRONIQ-SNOOK-X10|CTRONIQ-SNOOK-X10|
 |Ctroniq|CTRONIQ-SNOOK-X10L|CTRONIQ-SNOOK-X10L|CTRONIQ-SNOOK-X10L|
+|Ctroniq|CTRONIQ-SNOOK-X10S|CTRONIQ-SNOOK-X10S|CTRONIQ-SNOOK-X10S|
 |Ctroniq|Ctroniq_Snook_B70|Ctroniq_B70|Ctroniq_Snook_B70|
 |Ctroniq|Ctroniq_Snook_W10|Ctroniq_Snook_W10|Ctroniq_Snook_W10|
 |Ctroniq|Ctroniq_Snook_W70|Ctroniq_Snook_W70|Ctroniq_Snook_W70|
@@ -4889,6 +4890,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|K31|K31|K31|
 |DEXP|K38|K38|K38|
 |DEXP|K41|K41|K41|
+|DEXP|K48|K48|K48|
 |DEXP|K51|K51|K51|
 |DEXP|L110|L110|L110|
 |DEXP|L170|L170|L170|
@@ -5875,6 +5877,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EPIKONE|X547|X547|X547|
 |EPIKONE|X572|X572|X572|
 |EPIKONE|X610|X610|X610|
+|EPIKONE|X655|X655|X655|
 |EPIKONE|k503|K503|K503|
 |ESI Enterprises|CKT3|CKT3|CKT3|
 |ESI Enterprises|DT101Bv51|DT101Bv51|DT101Bv51|
@@ -12202,6 +12205,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ipro|WePad|WePad|WePad|
 |Ipro|X1|IPRO_X1|X1|
 |Ipro|XPLAY|XPLAY|XPLAY|
+|Ipro|Y100|Y100|Y100|
 |Ipro|Zafiro|Zafiro|Zafiro|
 |Iproda|T1045LI|T1045LI|T1045LI|
 |Iproda|T7044NP|T7044NP|T7044NP|
@@ -18347,6 +18351,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M7 3G PLUS|ML_WI0A_M7_3G_PLUS|M7_3G_PLUS|
 |Multilaser|M7 3G Plus|ML_WI12_M7_3G_PLUS|M7_3G_PLUS|
 |Multilaser|M7 WIF|ML_JI1D_M7_WIFI|M7_WIFI|
+|Multilaser|M7 WIFI|ML_JI0O_M7_WIFI|M7_WIFI|
 |Multilaser|M7 WIFI|ML_JI2D_M7_WIFI|M7_WIFI|
 |Multilaser|M7 WIFI|ML_SO0E_M7_WIFI|M7_WIFI|
 |Multilaser|M7 WIFI|ML_SO1E_M7_Wifi|M7_WIFI|
@@ -25698,6 +25703,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp||msm7627_surf|SH8118U|
 |Sharp|2T-B40BCH1; 2T-B40BCH3; 2T-B45BCH1; 2T-B45BCH3|Lcd_xxsffocbc_h|LCD_xxSFFOCBC_H|
 |Sharp|2T-BG1X|ebisu|AQUOS-TVX19A|
+|Sharp|2T-BG1X|meguro|AQUOS-TVX19C|
 |Sharp|2T-C12AF|taurus_2tcxxaf|2T-C12AF|
 |Sharp|2T-C12AP|taurus_2tcxxap|2T-C12AP|
 |Sharp|2T-C16AP|taurus_2tcfxxap|2T-C16AP|
@@ -25706,6 +25712,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|2T-C50BG1X|meguro|AQUOS-TVX19C|
 |Sharp|306SH|SG306SH|306SH|
 |Sharp|401SH|SG401SH|401SH|
+|Sharp|4T-BJ8T|gangnam|TVX19B|
+|Sharp|4T-BK1X|gangnam|AQUOS-TVX19B|
+|Sharp|4T-BK1X|jamsil|AQUOS-TVX19D|
 |Sharp|"4T-C**AM1/AN1/AL1|8T-C**AX1/AW1"|tcsu2uj|
 |Sharp|"4T-C**AM1/AN1/AL1|8T-C**AX1/AW1"|tcsu2uj|
 |Sharp|4T-C**BL1/BJ1/BN1/CL1/CN1/CQ1|tcmeruj|AQUOS-TVJ19|
@@ -25721,7 +25730,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|"4T-C60AL1H|4T-C70AL1H"|lc_xxeos5h|
 |Sharp|"4T-C60AM1H|4T-C70AM1H"|lc_xxdem6h|
 |Sharp|"4T-C60ANAA|4T-C70ANAA|4T-C60ASAA|
-|Sharp|4T-C60BJ8T|gangnam|TVX19B|
 |Sharp|4T-C60BK2UD|guro|AQUOS-TVU19A|
 |Sharp|4T-C60CFZA  4T-C70CFZA 4T-C60CFMA 4T-C70CFMA 4T-C60CFKA 4T-C70CFKA 4T-C60CFXA 4T-C70CFXA 4T-C60CFCA 4T-C70CFCA|lcd_xxhad5a|LCD-xxHAD5A|
 |Sharp|507SH|eve_sprout|507SH|
@@ -28339,6 +28347,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Alcatel 1SE light|Jakarta_Lite|4087U_RU|
 |TCT (Alcatel)|Alcatel 1SE lite edition|Jakarta_Lite|4087U_EEA|
 |TCT (Alcatel)|Alcatel 1SP|Jakarta|5030E_RU|
+|TCT (Alcatel)|Alcatel 1T 7 3G NEW|U3A_7_3G_Refresh|9009F|
 |TCT (Alcatel)|Alcatel 1T 7 WIFI|U3A_7_WIFI|8068|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007A|
 |TCT (Alcatel)|Alcatel 1V|Tokyo_Lite|5007G|
@@ -32013,6 +32022,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wowi|SQ753|SQ753|SQ753|
 |Wowi|SQ758|SQ758|SQ758|
 |Wowi|SQ788|SQ788|SQ788|
+|Wowi|SQ788Extreme|SQ788Extreme|SQ788Extreme|
 |Wowi|Tab_X5|Tab_X5|Tab_X5|
 |Woxter|Woxter|Woxter_N70|Woxter_N70|
 |Woxter|Woxter_N100|Woxter_N100|Woxter_N100|

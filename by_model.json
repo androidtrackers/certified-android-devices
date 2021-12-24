@@ -34802,6 +34802,13 @@
    "device": "CTRONIQ-SNOOK-X10L"
   }
  ],
+ "CTRONIQ-SNOOK-X10S": [
+  {
+   "brand": "Ctroniq",
+   "name": "CTRONIQ-SNOOK-X10S",
+   "device": "CTRONIQ-SNOOK-X10S"
+  }
+ ],
  "Ctroniq_Snook_B70": [
   {
    "brand": "Ctroniq",
@@ -36390,6 +36397,13 @@
    "brand": "DEXP",
    "name": "K41",
    "device": "K41"
+  }
+ ],
+ "K48": [
+  {
+   "brand": "DEXP",
+   "name": "K48",
+   "device": "K48"
   }
  ],
  "K51": [
@@ -43298,6 +43312,13 @@
    "brand": "EPIKONE",
    "name": "X610",
    "device": "X610"
+  }
+ ],
+ "X655": [
+  {
+   "brand": "EPIKONE",
+   "name": "X655",
+   "device": "X655"
   }
  ],
  "K503": [
@@ -86146,6 +86167,13 @@
    "device": "XPLAY"
   }
  ],
+ "Y100": [
+  {
+   "brand": "Ipro",
+   "name": "Y100",
+   "device": "Y100"
+  }
+ ],
  "Zafiro": [
   {
    "brand": "Ipro",
@@ -126891,6 +126919,11 @@
    "brand": "Multilaser",
    "name": "M7 WIF",
    "device": "ML_JI1D_M7_WIFI"
+  },
+  {
+   "brand": "Multilaser",
+   "name": "M7 WIFI",
+   "device": "ML_JI0O_M7_WIFI"
   },
   {
    "brand": "Multilaser",
@@ -175585,6 +175618,18 @@
    "device": "ebisu"
   }
  ],
+ "AQUOS-TVX19C": [
+  {
+   "brand": "Sharp",
+   "name": "2T-BG1X",
+   "device": "meguro"
+  },
+  {
+   "brand": "Sharp",
+   "name": "2T-C50BG1X",
+   "device": "meguro"
+  }
+ ],
  "2T-C12AF": [
   {
    "brand": "Sharp",
@@ -175620,13 +175665,6 @@
    "device": "Lcd_xxsffocca_c"
   }
  ],
- "AQUOS-TVX19C": [
-  {
-   "brand": "Sharp",
-   "name": "2T-C50BG1X",
-   "device": "meguro"
-  }
- ],
  "306SH": [
   {
    "brand": "Sharp",
@@ -175639,6 +175677,42 @@
    "brand": "Sharp",
    "name": "401SH",
    "device": "SG401SH"
+  }
+ ],
+ "TVX19B": [
+  {
+   "brand": "Sharp",
+   "name": "4T-BJ8T",
+   "device": "gangnam"
+  },
+  {
+   "brand": "Sharp",
+   "name": "4T-C50BJ8T",
+   "device": "gangnam"
+  }
+ ],
+ "AQUOS-TVX19B": [
+  {
+   "brand": "Sharp",
+   "name": "4T-BK1X",
+   "device": "gangnam"
+  },
+  {
+   "brand": "Sharp",
+   "name": "4T-C50BK1X",
+   "device": "gangnam"
+  }
+ ],
+ "AQUOS-TVX19D": [
+  {
+   "brand": "Sharp",
+   "name": "4T-BK1X",
+   "device": "jamsil"
+  },
+  {
+   "brand": "Sharp",
+   "name": "4T-C50BK1X",
+   "device": "jamsil"
   }
  ],
  "tcsu2uj": [
@@ -175700,32 +175774,6 @@
    "brand": "Sharp",
    "name": "4T-C50BDXA;4T-C50BDKA;4T-C50BDMA;4T-C50BDCA;4T-C50BDZA",
    "device": "Lcd_50sumtcca_xa"
-  }
- ],
- "TVX19B": [
-  {
-   "brand": "Sharp",
-   "name": "4T-C50BJ8T",
-   "device": "gangnam"
-  },
-  {
-   "brand": "Sharp",
-   "name": "4T-C60BJ8T",
-   "device": "gangnam"
-  }
- ],
- "AQUOS-TVX19B": [
-  {
-   "brand": "Sharp",
-   "name": "4T-C50BK1X",
-   "device": "gangnam"
-  }
- ],
- "AQUOS-TVX19D": [
-  {
-   "brand": "Sharp",
-   "name": "4T-C50BK1X",
-   "device": "jamsil"
   }
  ],
  "lc_xxeos5h": [
@@ -193175,6 +193223,13 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 1SP",
    "device": "Jakarta"
+  }
+ ],
+ "9009F": [
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "Alcatel 1T 7 3G NEW",
+   "device": "U3A_7_3G_Refresh"
   }
  ],
  "8068": [
@@ -216534,6 +216589,13 @@
    "brand": "Wowi",
    "name": "SQ788",
    "device": "SQ788"
+  }
+ ],
+ "SQ788Extreme": [
+  {
+   "brand": "Wowi",
+   "name": "SQ788Extreme",
+   "device": "SQ788Extreme"
   }
  ],
  "Tab_X5": [

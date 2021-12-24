@@ -41161,6 +41161,13 @@
    "model": "CTRONIQ-SNOOK-X10L"
   }
  ],
+ "CTRONIQ-SNOOK-X10S": [
+  {
+   "brand": "Ctroniq",
+   "device": "CTRONIQ-SNOOK-X10S",
+   "model": "CTRONIQ-SNOOK-X10S"
+  }
+ ],
  "Ctroniq_Snook_B70": [
   {
    "brand": "Ctroniq",
@@ -42807,6 +42814,13 @@
    "brand": "DEXP",
    "device": "K41",
    "model": "K41"
+  }
+ ],
+ "K48": [
+  {
+   "brand": "DEXP",
+   "device": "K48",
+   "model": "K48"
   }
  ],
  "K51": [
@@ -49886,6 +49900,13 @@
    "brand": "EPIKONE",
    "device": "X610",
    "model": "X610"
+  }
+ ],
+ "X655": [
+  {
+   "brand": "EPIKONE",
+   "device": "X655",
+   "model": "X655"
   }
  ],
  "k503": [
@@ -88340,6 +88361,13 @@
    "model": "XPLAY"
   }
  ],
+ "Y100": [
+  {
+   "brand": "Ipro",
+   "device": "Y100",
+   "model": "Y100"
+  }
+ ],
  "Zafiro": [
   {
    "brand": "Ipro",
@@ -124697,6 +124725,11 @@
   }
  ],
  "M7 WIFI": [
+  {
+   "brand": "Multilaser",
+   "device": "ML_JI0O_M7_WIFI",
+   "model": "M7_WIFI"
+  },
   {
    "brand": "Multilaser",
    "device": "ML_JI2D_M7_WIFI",
@@ -168474,6 +168507,11 @@
    "brand": "Sharp",
    "device": "ebisu",
    "model": "AQUOS-TVX19A"
+  },
+  {
+   "brand": "Sharp",
+   "device": "meguro",
+   "model": "AQUOS-TVX19C"
   }
  ],
  "2T-C12AF": [
@@ -168530,6 +168568,25 @@
    "brand": "Sharp",
    "device": "SG401SH",
    "model": "401SH"
+  }
+ ],
+ "4T-BJ8T": [
+  {
+   "brand": "Sharp",
+   "device": "gangnam",
+   "model": "TVX19B"
+  }
+ ],
+ "4T-BK1X": [
+  {
+   "brand": "Sharp",
+   "device": "gangnam",
+   "model": "AQUOS-TVX19B"
+  },
+  {
+   "brand": "Sharp",
+   "device": "jamsil",
+   "model": "AQUOS-TVX19D"
   }
  ],
  "\"4T-C**AM1/AN1/AL1": [
@@ -168631,13 +168688,6 @@
    "brand": "Sharp",
    "device": "4T-C70ANAA",
    "model": "4T-C60ASAA"
-  }
- ],
- "4T-C60BJ8T": [
-  {
-   "brand": "Sharp",
-   "device": "gangnam",
-   "model": "TVX19B"
   }
  ],
  "4T-C60BK2UD": [
@@ -183805,6 +183855,13 @@
    "brand": "TCT (Alcatel)",
    "device": "Jakarta",
    "model": "5030E_RU"
+  }
+ ],
+ "Alcatel 1T 7 3G NEW": [
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "U3A_7_3G_Refresh",
+   "model": "9009F"
   }
  ],
  "Alcatel 1T 7 WIFI": [
@@ -206039,6 +206096,13 @@
    "brand": "Wowi",
    "device": "SQ788",
    "model": "SQ788"
+  }
+ ],
+ "SQ788Extreme": [
+  {
+   "brand": "Wowi",
+   "device": "SQ788Extreme",
+   "model": "SQ788Extreme"
   }
  ],
  "Tab_X5": [

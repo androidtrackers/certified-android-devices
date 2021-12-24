@@ -24210,6 +24210,11 @@
    "model": "CTRONIQ-SNOOK-X10L"
   },
   {
+   "device": "CTRONIQ-SNOOK-X10S",
+   "name": "CTRONIQ-SNOOK-X10S",
+   "model": "CTRONIQ-SNOOK-X10S"
+  },
+  {
    "device": "Ctroniq_B70",
    "name": "Ctroniq_Snook_B70",
    "model": "Ctroniq_Snook_B70"
@@ -25283,6 +25288,11 @@
    "device": "K41",
    "name": "K41",
    "model": "K41"
+  },
+  {
+   "device": "K48",
+   "name": "K48",
+   "model": "K48"
   },
   {
    "device": "K51",
@@ -30447,6 +30457,11 @@
    "device": "X610",
    "name": "X610",
    "model": "X610"
+  },
+  {
+   "device": "X655",
+   "name": "X655",
+   "model": "X655"
   },
   {
    "device": "K503",
@@ -62824,6 +62839,11 @@
    "model": "XPLAY"
   },
   {
+   "device": "Y100",
+   "name": "Y100",
+   "model": "Y100"
+  },
+  {
    "device": "Zafiro",
    "name": "Zafiro",
    "model": "Zafiro"
@@ -94248,6 +94268,11 @@
   {
    "device": "ML_JI1D_M7_WIFI",
    "name": "M7 WIF",
+   "model": "M7_WIFI"
+  },
+  {
+   "device": "ML_JI0O_M7_WIFI",
+   "name": "M7 WIFI",
    "model": "M7_WIFI"
   },
   {
@@ -131858,6 +131883,11 @@
    "model": "AQUOS-TVX19A"
   },
   {
+   "device": "meguro",
+   "name": "2T-BG1X",
+   "model": "AQUOS-TVX19C"
+  },
+  {
    "device": "taurus_2tcxxaf",
    "name": "2T-C12AF",
    "model": "2T-C12AF"
@@ -131896,6 +131926,21 @@
    "device": "SG401SH",
    "name": "401SH",
    "model": "401SH"
+  },
+  {
+   "device": "gangnam",
+   "name": "4T-BJ8T",
+   "model": "TVX19B"
+  },
+  {
+   "device": "gangnam",
+   "name": "4T-BK1X",
+   "model": "AQUOS-TVX19B"
+  },
+  {
+   "device": "jamsil",
+   "name": "4T-BK1X",
+   "model": "AQUOS-TVX19D"
   },
   {
    "device": "8T-C**AX1/AW1\"",
@@ -131971,11 +132016,6 @@
    "device": "4T-C70ANAA",
    "name": "\"4T-C60ANAA",
    "model": "4T-C60ASAA"
-  },
-  {
-   "device": "gangnam",
-   "name": "4T-C60BJ8T",
-   "model": "TVX19B"
   },
   {
    "device": "guro",
@@ -145289,6 +145329,11 @@
    "device": "Jakarta",
    "name": "Alcatel 1SP",
    "model": "5030E_RU"
+  },
+  {
+   "device": "U3A_7_3G_Refresh",
+   "name": "Alcatel 1T 7 3G NEW",
+   "model": "9009F"
   },
   {
    "device": "U3A_7_WIFI",
@@ -164331,6 +164376,11 @@
    "device": "SQ788",
    "name": "SQ788",
    "model": "SQ788"
+  },
+  {
+   "device": "SQ788Extreme",
+   "name": "SQ788Extreme",
+   "model": "SQ788Extreme"
   },
   {
    "device": "Tab_X5",
