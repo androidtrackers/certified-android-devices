@@ -1374,6 +1374,11 @@
    "device": "TANK_P55",
    "name": "TANK_P55",
    "model": "TANK_P55"
+  },
+  {
+   "device": "X20",
+   "name": "X20",
+   "model": "X20"
   }
  ],
  "Access": [
@@ -12969,6 +12974,11 @@
    "model": "BQ-5745L"
   },
   {
+   "device": "BQru-5765L",
+   "name": "BQ-5765L",
+   "model": "BQ-5765L"
+  },
+  {
    "device": "BQru-6000L",
    "name": "BQ-6000L Aurora",
    "model": "BQ-6000L"
@@ -15371,6 +15381,11 @@
    "device": "Tab6_NEU",
    "name": "Tab6_NEU",
    "model": "Tab 6"
+  },
+  {
+   "device": "Tab6s_EEA",
+   "name": "Tab6s_EEA",
+   "model": "Tab 6s"
   },
   {
    "device": "Tab8",
@@ -30457,6 +30472,16 @@
    "device": "X610",
    "name": "X610",
    "model": "X610"
+  },
+  {
+   "device": "X618",
+   "name": "X618",
+   "model": "X618"
+  },
+  {
+   "device": "X620",
+   "name": "X620",
+   "model": "X620"
   },
   {
    "device": "X655",
@@ -50220,6 +50245,11 @@
    "model": "Pearl K2"
   },
   {
+   "device": "Pearl_K3",
+   "name": "Pearl K3",
+   "model": "Pearl K3"
+  },
+  {
    "device": "Pearl_K2_Prime",
    "name": "Pearl_K2_Prime",
    "model": "Pearl K2 Prime"
@@ -59380,6 +59410,11 @@
    "model": "A126"
   },
   {
+   "device": "A150",
+   "name": "A150",
+   "model": "A150"
+  },
+  {
    "device": "A160",
    "name": "A160",
    "model": "A160"
@@ -65872,6 +65907,11 @@
    "model": "KC516"
   },
   {
+   "device": "KC516_Pro",
+   "name": "KC516_Pro",
+   "model": "KC516 Pro"
+  },
+  {
    "device": "KM7012BK",
    "name": "KM7012BK",
    "model": "KM7012BK"
@@ -67916,6 +67956,16 @@
    "device": "AS10LXPro",
    "name": "Acer",
    "model": "SOSPIRO-AS10LXPro"
+  },
+  {
+   "device": "KE-TB1032OF",
+   "name": "KE-TB1032OF",
+   "model": "KE-TB1032OF"
+  },
+  {
+   "device": "KE-TB816OF",
+   "name": "KE-TB816OF",
+   "model": "KE-TB816OF"
   }
  ],
  "Kruger&Matz": [
@@ -82766,6 +82816,11 @@
    "model": "L5G"
   },
   {
+   "device": "LOGIC_L68",
+   "name": "L68",
+   "model": "LOGIC L68"
+  },
+  {
    "device": "LOGIC_L50T",
    "name": "LOGIC L50T",
    "model": "LOGIC L50T"
@@ -86169,6 +86224,11 @@
    "model": "MS5524G"
   },
   {
+   "device": "MS5528G",
+   "name": "MS5528G",
+   "model": "MS5528G"
+  },
+  {
    "device": "SSB1000T",
    "name": "SSB1000T",
    "model": "SSB1000T"
@@ -86303,6 +86363,11 @@
    "device": "M17QF6_4G",
    "name": "M17QF6_4G",
    "model": "M17QF6_4G"
+  },
+  {
+   "device": "M17QF7_4G",
+   "name": "M17QF7_4G",
+   "model": "M17QF7_4G"
   },
   {
    "device": "M76QF6",
@@ -94799,6 +94864,13 @@
    "device": "ML_SO0C_ULTRA_10",
    "name": "ULTRA 10",
    "model": "ULTRA_10"
+  }
+ ],
+ "MwalimuPlus": [
+  {
+   "device": "MP01A3G",
+   "name": "MP01A3G",
+   "model": "MP01A3G"
   }
  ],
  "My": [
@@ -104073,6 +104145,11 @@
    "model": "A77"
   },
   {
+   "device": "A950",
+   "name": "A950",
+   "model": "A950"
+  },
+  {
    "device": "PAXM30",
    "name": "M30",
    "model": "M30"
@@ -109814,6 +109891,11 @@
    "device": "HP10A5L",
    "name": "HP10A5L",
    "model": "PMT4891_4G_EEA"
+  },
+  {
+   "device": "HP80A16G",
+   "name": "HP80A16G",
+   "model": "PMT4228_3G_RU"
   },
   {
    "device": "HP8A6L",
@@ -117156,6 +117238,11 @@
    "model": "Smooth 6.26 Lite"
   },
   {
+   "device": "Smooth6_26_Pro",
+   "name": "Smooth 6.26 Pro",
+   "model": "Smooth 6.26 Pro"
+  },
+  {
    "device": "Smooth6_1",
    "name": "Smooth6_1",
    "model": "Smooth 6.1"
@@ -117539,6 +117626,11 @@
    "device": "Model_S_4G",
    "name": "Model_S_4G",
    "model": "Model S 4G"
+  },
+  {
+   "device": "Model_T",
+   "name": "Model_T",
+   "model": "Model T"
   },
   {
    "device": "Model_Y",
@@ -134444,6 +134536,16 @@
    "model": "Elite C55"
   },
   {
+   "device": "ELITE_US_T8",
+   "name": "Elite T8",
+   "model": "ELITE T8"
+  },
+  {
+   "device": "Platinum_B7",
+   "name": "Platinum_B7",
+   "model": "Platinum B7"
+  },
+  {
    "device": "DV6067Y_SKY",
    "name": "Sky TV Stick",
    "model": "Sky TV Stick"
@@ -134592,6 +134694,11 @@
   },
   {
    "device": "Elite_D5Max",
+   "name": "Elite D5Max",
+   "model": "Elite D5Max"
+  },
+  {
+   "device": "Elite_D5MaxUS2",
    "name": "Elite D5Max",
    "model": "Elite D5Max"
   },
@@ -148743,6 +148850,11 @@
    "model": "MT-790QR_V1"
   },
   {
+   "device": "MT-790QR_V1_EEA",
+   "name": "MT-790QR_V1_EEA",
+   "model": "MT-790QR_V1_EEA"
+  },
+  {
    "device": "MT-792OF_EEA",
    "name": "MT-792OF_EEA",
    "model": "MT-792OF"
@@ -149266,6 +149378,11 @@
    "model": "U18"
   },
   {
+   "device": "V10",
+   "name": "V10",
+   "model": "V10"
+  },
+  {
    "device": "V6",
    "name": "V6",
    "model": "V6"
@@ -149635,6 +149752,11 @@
    "device": "Technopc_UP10SI36LA",
    "name": "UP10SI36LA",
    "model": "UP10SI36LA"
+  },
+  {
+   "device": "UP10_SH36LAG",
+   "name": "UP10_SH36LAG",
+   "model": "UP10_SH36LAG"
   }
  ],
  "Techpad": [
@@ -149817,6 +149939,11 @@
    "device": "i700",
    "name": "i700",
    "model": "Tech Pad i700"
+  },
+  {
+   "device": "K13pro",
+   "name": "k13pro",
+   "model": "K13pro"
   }
  ],
  "Techsonic": [
@@ -166214,6 +166341,11 @@
  ],
  "Xphoenix": [
   {
+   "device": "OneTabPro2",
+   "name": "OneTabPro2",
+   "model": "OneTabPro2"
+  },
+  {
    "device": "OneTabProMate",
    "name": "OneTabProMate",
    "model": "OneTabProMate"
@@ -166934,6 +167066,11 @@
    "device": "YUHO_Y3_PRO",
    "name": "YUHO_Y3_PRO",
    "model": "YUHO_Y3_PRO"
+  },
+  {
+   "device": "Yuho_Tab10",
+   "name": "Yuho_Tab10",
+   "model": "TC1031"
   },
   {
    "device": "Yuho_Tab8",
@@ -178155,6 +178292,11 @@
    "model": "ISWAG VIPER"
   },
   {
+   "device": "ISWAG_MATRIX",
+   "name": "MATRIX",
+   "model": "ISWAG MATRIX"
+  },
+  {
    "device": "ISWAG_NEO",
    "name": "NEO",
    "model": "ISWAG NEO"
@@ -178643,6 +178785,11 @@
    "model": "RMX3081"
   },
   {
+   "device": "RMX3231",
+   "name": "realme C11 2021",
+   "model": "RMX3231"
+  },
+  {
    "device": "RMX2195L1",
    "name": "realme C15 Qualcomm Edition",
    "model": "RMX2195"
@@ -178651,6 +178798,11 @@
    "device": "RED8D1",
    "name": "realme C21-Y",
    "model": "RMX3263"
+  },
+  {
+   "device": "RMX3191",
+   "name": "realme C25",
+   "model": "RMX3191"
   },
   {
    "device": "RED8F6",
