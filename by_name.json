@@ -8456,6 +8456,11 @@
    "model": "ATV R2"
   },
   {
+   "brand": "Estla",
+   "device": "longshan",
+   "model": "AI PONT NA"
+  },
+  {
    "brand": "Evvoli",
    "device": "R1",
    "model": "ATV R1"
@@ -8489,6 +8494,16 @@
    "brand": "Hyundai",
    "device": "R2",
    "model": "ATV R2"
+  },
+  {
+   "brand": "Hyundai",
+   "device": "redwood",
+   "model": "AI PONT NA"
+  },
+  {
+   "brand": "Hyundai",
+   "device": "redwood",
+   "model": "AI PONT SA"
   },
   {
    "brand": "Intex",
@@ -8691,6 +8706,11 @@
    "model": "ATV R2"
   },
   {
+   "brand": "Prism",
+   "device": "longshan",
+   "model": "AI PONT NA"
+  },
+  {
    "brand": "RECCO",
    "device": "R1",
    "model": "ATV R1"
@@ -8766,6 +8786,11 @@
    "model": "ATV R2"
   },
   {
+   "brand": "THEHAM",
+   "device": "longshan",
+   "model": "AI PONT NA"
+  },
+  {
    "brand": "Thomson",
    "device": "R1",
    "model": "ATV R1"
@@ -8789,6 +8814,11 @@
    "brand": "Vu Televisions",
    "device": "longshan",
    "model": "AI PONT"
+  },
+  {
+   "brand": "Witooth",
+   "device": "longshan",
+   "model": "AI PONT NA"
   },
   {
    "brand": "Xtreme",
@@ -28306,6 +28336,13 @@
    "model": "T1001L"
   }
  ],
+ "Tab 10 Pro": [
+  {
+   "brand": "Blackview",
+   "device": "Tab_10_Pro",
+   "model": "Tab 10 Pro"
+  }
+ ],
  "Tab10": [
   {
    "brand": "Blackview",
@@ -32956,6 +32993,13 @@
    "brand": "CILICO",
    "device": "C6",
    "model": "C6"
+  }
+ ],
+ "C7X": [
+  {
+   "brand": "CILICO",
+   "device": "C7X_R",
+   "model": "C7X"
   }
  ],
  "F750": [
@@ -47430,6 +47474,73 @@
    "model": "T5S"
   }
  ],
+ "V20": [
+  {
+   "brand": "Doogee",
+   "device": "V20",
+   "model": "V20"
+  },
+  {
+   "brand": "LGE",
+   "device": "elsa",
+   "model": "LG-F800K"
+  },
+  {
+   "brand": "LGE",
+   "device": "elsa",
+   "model": "LG-F800L"
+  },
+  {
+   "brand": "LGE",
+   "device": "elsa",
+   "model": "LG-F800S"
+  },
+  {
+   "brand": "LGE",
+   "device": "elsa",
+   "model": "LG-H910"
+  },
+  {
+   "brand": "LGE",
+   "device": "elsa",
+   "model": "LG-H910PR"
+  },
+  {
+   "brand": "LGE",
+   "device": "elsa",
+   "model": "LG-H915"
+  },
+  {
+   "brand": "LGE",
+   "device": "elsa",
+   "model": "LG-H918"
+  },
+  {
+   "brand": "LGE",
+   "device": "elsa",
+   "model": "LG-H990"
+  },
+  {
+   "brand": "LGE",
+   "device": "elsa",
+   "model": "LG-LS997"
+  },
+  {
+   "brand": "LGE",
+   "device": "elsa",
+   "model": "LG-US996"
+  },
+  {
+   "brand": "LGE",
+   "device": "elsa",
+   "model": "LGV34"
+  },
+  {
+   "brand": "LGE",
+   "device": "elsa",
+   "model": "VS995"
+  }
+ ],
  "X100": [
   {
    "brand": "Doogee",
@@ -50062,6 +50173,13 @@
    "brand": "EWIS",
    "device": "OCTA-T700M",
    "model": "EWIS OCTA-T700M"
+  }
+ ],
+ "OCTA-T700M-T2": [
+  {
+   "brand": "EWIS",
+   "device": "OCTA-T700M-T2",
+   "model": "OCTA-T700M-T2"
   }
  ],
  "T800MC": [
@@ -53402,13 +53520,6 @@
    "model": "B2021"
   }
  ],
- "B2022_EEA": [
-  {
-   "brand": "F150",
-   "device": "R2022",
-   "model": "R2022"
-  }
- ],
  "Bison2021_EEA": [
   {
    "brand": "F150",
@@ -53421,6 +53532,13 @@
    "brand": "F150",
    "device": "H2022",
    "model": "H2022"
+  }
+ ],
+ "R2022_EEA": [
+  {
+   "brand": "F150",
+   "device": "R2022",
+   "model": "R2022"
   }
  ],
  "C8Finger": [
@@ -102751,68 +102869,6 @@
    "model": "LG-P925"
   }
  ],
- "V20": [
-  {
-   "brand": "LGE",
-   "device": "elsa",
-   "model": "LG-F800K"
-  },
-  {
-   "brand": "LGE",
-   "device": "elsa",
-   "model": "LG-F800L"
-  },
-  {
-   "brand": "LGE",
-   "device": "elsa",
-   "model": "LG-F800S"
-  },
-  {
-   "brand": "LGE",
-   "device": "elsa",
-   "model": "LG-H910"
-  },
-  {
-   "brand": "LGE",
-   "device": "elsa",
-   "model": "LG-H910PR"
-  },
-  {
-   "brand": "LGE",
-   "device": "elsa",
-   "model": "LG-H915"
-  },
-  {
-   "brand": "LGE",
-   "device": "elsa",
-   "model": "LG-H918"
-  },
-  {
-   "brand": "LGE",
-   "device": "elsa",
-   "model": "LG-H990"
-  },
-  {
-   "brand": "LGE",
-   "device": "elsa",
-   "model": "LG-LS997"
-  },
-  {
-   "brand": "LGE",
-   "device": "elsa",
-   "model": "LG-US996"
-  },
-  {
-   "brand": "LGE",
-   "device": "elsa",
-   "model": "LGV34"
-  },
-  {
-   "brand": "LGE",
-   "device": "elsa",
-   "model": "VS995"
-  }
- ],
  "V20 PRO": [
   {
    "brand": "LGE",
@@ -124702,6 +124758,13 @@
    "model": "M10_4G_PRO"
   }
  ],
+ "M10 4G T3": [
+  {
+   "brand": "Multilaser",
+   "device": "ML-WI1C-M10-4G-T3",
+   "model": "M10-4G-T3"
+  }
+ ],
  "M10-3G": [
   {
    "brand": "Multilaser",
@@ -131649,6 +131712,11 @@
   {
    "brand": "OnePlus",
    "device": "OnePlus8T",
+   "model": "KB2000"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus8T",
    "model": "KB2005"
   }
  ],
@@ -133232,6 +133300,13 @@
    "brand": "Oppo",
    "device": "OP4BA5L1",
    "model": "CPH2109"
+  }
+ ],
+ "CPH2113": [
+  {
+   "brand": "Oppo",
+   "device": "OP4BA5L1",
+   "model": "CPH2113"
   }
  ],
  "CPH2145": [
@@ -150567,6 +150642,13 @@
    "model": "P13 Blue 2021"
   }
  ],
+ "P13_Blue_Plus_2022": [
+  {
+   "brand": "Reeder",
+   "device": "P13_Blue_Plus_2022",
+   "model": "P13_Blue_Plus_2022"
+  }
+ ],
  "P13_Lite": [
   {
    "brand": "Reeder",
@@ -153956,6 +154038,11 @@
    "brand": "Samsung",
    "device": "a03su",
    "model": "SM-A037W"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a03su",
+   "model": "SM-S134DL"
   }
  ],
  "Galaxy A10": [
@@ -168644,11 +168731,6 @@
    "brand": "Sharp",
    "device": "ebisu",
    "model": "AQUOS-TVX19A"
-  },
-  {
-   "brand": "Sharp",
-   "device": "meguro",
-   "model": "AQUOS-TVX19C"
   }
  ],
  "2T-C12AF": [
@@ -168705,25 +168787,6 @@
    "brand": "Sharp",
    "device": "SG401SH",
    "model": "401SH"
-  }
- ],
- "4T-BJ8T": [
-  {
-   "brand": "Sharp",
-   "device": "gangnam",
-   "model": "TVX19B"
-  }
- ],
- "4T-BK1X": [
-  {
-   "brand": "Sharp",
-   "device": "gangnam",
-   "model": "AQUOS-TVX19B"
-  },
-  {
-   "brand": "Sharp",
-   "device": "jamsil",
-   "model": "AQUOS-TVX19D"
   }
  ],
  "\"4T-C**AM1/AN1/AL1": [
@@ -170058,6 +170121,39 @@
    "brand": "Sharp",
    "device": "SHV36",
    "model": "SHV36"
+  }
+ ],
+ "BG/BE": [
+  {
+   "brand": "Sharp",
+   "device": "ebisu",
+   "model": "AQUOS-TVX19A"
+  }
+ ],
+ "BG/BE/CG": [
+  {
+   "brand": "Sharp",
+   "device": "meguro",
+   "model": "AQUOS-TVX19C"
+  }
+ ],
+ "BJ": [
+  {
+   "brand": "Sharp",
+   "device": "gangnam",
+   "model": "TVX19B"
+  }
+ ],
+ "BK/BJ/CK/CL/CJ": [
+  {
+   "brand": "Sharp",
+   "device": "gangnam",
+   "model": "AQUOS-TVX19B"
+  },
+  {
+   "brand": "Sharp",
+   "device": "jamsil",
+   "model": "AQUOS-TVX19D"
   }
  ],
  "DL1X": [
@@ -190952,6 +191048,13 @@
    "model": "TECNO KG7n"
   }
  ],
+ "TECNO SPARK 8C": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KG5j",
+   "model": "TECNO KG5j"
+  }
+ ],
  "TECNO SPARK 8P": [
   {
    "brand": "Tecno",
@@ -195146,6 +195249,13 @@
    "model": "BISON GT"
   }
  ],
+ "BISON_GT2_5G": [
+  {
+   "brand": "Umidigi",
+   "device": "BISON_GT2_5G",
+   "model": "RP02"
+  }
+ ],
  "BISON_Pro_RU": [
   {
    "brand": "Umidigi",
@@ -195940,6 +196050,13 @@
    "model": "V710"
   }
  ],
+ "W888": [
+  {
+   "brand": "VALIFONE",
+   "device": "W888",
+   "model": "W888"
+  }
+ ],
  "TAB7Q804VAL": [
   {
    "brand": "VALTECH",
@@ -196674,6 +196791,13 @@
    "model": "V88"
   }
  ],
+ "VEIDOO_T40_EEA": [
+  {
+   "brand": "Veidoo",
+   "device": "VEIDOO_T40_EEA",
+   "model": "VEIDOO_T40_EEA"
+  }
+ ],
  "VEIDOO_T8": [
   {
    "brand": "Veidoo",
@@ -196686,6 +196810,13 @@
    "brand": "Veidoo",
    "device": "VEIDOO_T80",
    "model": "VEIDOO_T80"
+  }
+ ],
+ "VEIDOO_T80_EEA": [
+  {
+   "brand": "Veidoo",
+   "device": "VEIDOO_T80_EEA",
+   "model": "VEIDOO_T80_EEA"
   }
  ],
  "VeidooT30_EEA": [
@@ -209093,6 +209224,13 @@
    "model": "LIV 3 LTE"
   }
  ],
+ "MAX2": [
+  {
+   "brand": "Yezz",
+   "device": "MAX2",
+   "model": "MAX2"
+  }
+ ],
  "MAX2 PLUS": [
   {
    "brand": "Yezz",
@@ -219100,6 +219238,13 @@
    "brand": "beafon",
    "device": "MX1",
    "model": "MX1"
+  }
+ ],
+ "TL20": [
+  {
+   "brand": "beafon",
+   "device": "TL20",
+   "model": "TL20"
   }
  ],
  "AE9950": [
