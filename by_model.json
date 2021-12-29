@@ -9666,6 +9666,13 @@
    "device": "nippori"
   }
  ],
+ "AQUA Android TV FF Pro": [
+  {
+   "brand": "Aqua",
+   "name": "AQUA Android TV FF Pro",
+   "device": "daan"
+  }
+ ],
  "AQUA Android TV": [
   {
    "brand": "Aqua",
@@ -16095,6 +16102,11 @@
   {
    "brand": "Ayonz EKO",
    "name": "SV11",
+   "device": "ICN"
+  },
+  {
+   "brand": "EKO",
+   "name": "KATV10",
    "device": "ICN"
   }
  ],
@@ -68370,18 +68382,23 @@
    "device": "X_Prime"
   }
  ],
+ "Box Q": [
+  {
+   "brand": "Homatics",
+   "name": "Box Q",
+   "device": "HND"
+  },
+  {
+   "brand": "Homatics",
+   "name": "SEI600HM",
+   "device": "HND"
+  }
+ ],
  "Dongle Q": [
   {
    "brand": "Homatics",
    "name": "Dongle Q",
    "device": "ICN"
-  }
- ],
- "Box Q": [
-  {
-   "brand": "Homatics",
-   "name": "SEI600HM",
-   "device": "HND"
   }
  ],
  "HCA-6010": [
@@ -154884,13 +154901,6 @@
    "device": "DTC2141"
   }
  ],
- "BID-AI100": [
-  {
-   "brand": "SK Broadband",
-   "name": "AI2 ATV",
-   "device": "INTEKS21SI"
-  }
- ],
  "BHX-S100": [
   {
    "brand": "SK Broadband",
@@ -154924,13 +154934,6 @@
    "brand": "SK Broadband",
    "name": "BTV",
    "device": "vip5442"
-  }
- ],
- "BID-AT200": [
-  {
-   "brand": "SK Broadband",
-   "name": "SMART3",
-   "device": "INTEKS20SI"
   }
  ],
  "BFX-UA300": [
@@ -155083,11 +155086,25 @@
    "device": "BIP-AI100"
   }
  ],
+ "BID-AI100": [
+  {
+   "brand": "SK broadband",
+   "name": "AI2 ATV",
+   "device": "INTEKS21SI"
+  }
+ ],
  "BIP-EB100": [
   {
    "brand": "SK broadband",
    "name": "PlayZ",
    "device": "BIP-EB100"
+  }
+ ],
+ "BID-AT200": [
+  {
+   "brand": "SK broadband",
+   "name": "SMART3",
+   "device": "INTEKS20SI"
   }
  ],
  "BIP-UW200": [
@@ -187155,6 +187172,13 @@
    "device": "Z35"
   }
  ],
+ "Symphony Z45": [
+  {
+   "brand": "Symphony",
+   "name": "Z45",
+   "device": "Z45"
+  }
+ ],
  "ZVII": [
   {
    "brand": "Symphony",
@@ -219105,6 +219129,13 @@
    "device": "vili"
   }
  ],
+ "2112123AC": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 12X",
+   "device": "psyche"
+  }
+ ],
  "2109119BC": [
   {
    "brand": "Xiaomi",
@@ -219333,6 +219364,11 @@
   {
    "brand": "YAYGO",
    "name": "SEI600YAY",
+   "device": "HND"
+  },
+  {
+   "brand": "YAYGO",
+   "name": "SEI600YAY4",
    "device": "HND"
   }
  ],
@@ -219676,6 +219712,11 @@
   }
  ],
  "yes": [
+  {
+   "brand": "Yes",
+   "name": "Yes",
+   "device": "SEI800Y"
+  },
   {
    "brand": "Yes",
    "name": "yes",

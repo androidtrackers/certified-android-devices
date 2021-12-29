@@ -11246,6 +11246,23 @@
    "model": "ZEPHIR Android TV 2K"
   }
  ],
+ "daan": [
+  {
+   "brand": "Aqua",
+   "name": "AQUA Android TV FF Pro",
+   "model": "AQUA Android TV FF Pro"
+  },
+  {
+   "brand": "Haier",
+   "name": "Haier Android TV FF Pro",
+   "model": "Haier Android TV FF Pro"
+  },
+  {
+   "brand": "Haier",
+   "name": "Haier Android TV PRO",
+   "model": "Haier Android TV PRO"
+  }
+ ],
  "hanyang": [
   {
    "brand": "Aqua",
@@ -18126,6 +18143,11 @@
    "model": "SV11"
   },
   {
+   "brand": "EKO",
+   "name": "KATV10",
+   "model": "KATV10"
+  },
+  {
    "brand": "Homatics",
    "name": "Dongle Q",
    "model": "Dongle Q"
@@ -20681,6 +20703,11 @@
   },
   {
    "brand": "Homatics",
+   "name": "Box Q",
+   "model": "Box Q"
+  },
+  {
+   "brand": "Homatics",
    "name": "SEI600HM",
    "model": "Box Q"
   },
@@ -20692,6 +20719,11 @@
   {
    "brand": "YAYGO",
    "name": "SEI600YAY",
+   "model": "ATV-101"
+  },
+  {
+   "brand": "YAYGO",
+   "name": "SEI600YAY4",
    "model": "ATV-101"
   },
   {
@@ -63857,18 +63889,6 @@
    "brand": "Haier",
    "name": "Haier Android TV DVB2K",
    "model": "Haier Android TV DVB2K"
-  }
- ],
- "daan": [
-  {
-   "brand": "Haier",
-   "name": "Haier Android TV FF Pro",
-   "model": "Haier Android TV FF Pro"
-  },
-  {
-   "brand": "Haier",
-   "name": "Haier Android TV PRO",
-   "model": "Haier Android TV PRO"
   }
  ],
  "Haier_Leisure_L7": [
@@ -151289,13 +151309,6 @@
    "model": "SITIH3455N"
   }
  ],
- "INTEKS21SI": [
-  {
-   "brand": "SK Broadband",
-   "name": "AI2 ATV",
-   "model": "BID-AI100"
-  }
- ],
  "BHX-S100": [
   {
    "brand": "SK Broadband",
@@ -151329,13 +151342,6 @@
    "brand": "SK Broadband",
    "name": "BTV",
    "model": "BAS-AT800"
-  }
- ],
- "INTEKS20SI": [
-  {
-   "brand": "SK Broadband",
-   "name": "SMART3",
-   "model": "BID-AT200"
   }
  ],
  "BFX-UA300": [
@@ -151462,11 +151468,25 @@
    "model": "BIP-AI100"
   }
  ],
+ "INTEKS21SI": [
+  {
+   "brand": "SK broadband",
+   "name": "AI2 ATV",
+   "model": "BID-AI100"
+  }
+ ],
  "BIP-EB100": [
   {
    "brand": "SK broadband",
    "name": "PlayZ",
    "model": "BIP-EB100"
+  }
+ ],
+ "INTEKS20SI": [
+  {
+   "brand": "SK broadband",
+   "name": "SMART3",
+   "model": "BID-AT200"
   }
  ],
  "BIP-UW200": [
@@ -181900,6 +181920,13 @@
    "model": "Z35"
   }
  ],
+ "Z45": [
+  {
+   "brand": "Symphony",
+   "name": "Z45",
+   "model": "Symphony Z45"
+  }
+ ],
  "ZVII": [
   {
    "brand": "Symphony",
@@ -210509,6 +210536,13 @@
    "model": "2107113SR"
   }
  ],
+ "psyche": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 12X",
+   "model": "2112123AC"
+  }
+ ],
  "mona": [
   {
    "brand": "Xiaomi",
@@ -210994,14 +211028,19 @@
    "model": "STING"
   }
  ],
- "SEI500Y": [
+ "SEI800Y": [
+  {
+   "brand": "Yes",
+   "name": "Yes",
+   "model": "yes"
+  },
   {
    "brand": "Yes",
    "name": "yes",
    "model": "yes"
   }
  ],
- "SEI800Y": [
+ "SEI500Y": [
   {
    "brand": "Yes",
    "name": "yes",

@@ -15013,6 +15013,13 @@
    "model": "CANDY Android TV 2K"
   }
  ],
+ "AQUA Android TV FF Pro": [
+  {
+   "brand": "Aqua",
+   "device": "daan",
+   "model": "AQUA Android TV FF Pro"
+  }
+ ],
  "AQUA android TV": [
   {
    "brand": "Aqua",
@@ -49411,6 +49418,13 @@
    "model": "EKO 4K Android TV"
   }
  ],
+ "KATV10": [
+  {
+   "brand": "EKO",
+   "device": "ICN",
+   "model": "KATV10"
+  }
+ ],
  "Star 4.0 G40": [
   {
    "brand": "EKO",
@@ -74130,6 +74144,13 @@
    "brand": "Hoffmann",
    "device": "X_Prime",
    "model": "HOFFMANN X-Prime"
+  }
+ ],
+ "Box Q": [
+  {
+   "brand": "Homatics",
+   "device": "HND",
+   "model": "Box Q"
   }
  ],
  "Dongle Q": [
@@ -151796,13 +151817,6 @@
    "model": "SITIH3455N"
   }
  ],
- "AI2 ATV": [
-  {
-   "brand": "SK Broadband",
-   "device": "INTEKS21SI",
-   "model": "BID-AI100"
-  }
- ],
  "B tv smart": [
   {
    "brand": "SK Broadband",
@@ -151834,13 +151848,6 @@
    "brand": "SK Broadband",
    "device": "vip5442",
    "model": "BAS-AT800"
-  }
- ],
- "SMART3": [
-  {
-   "brand": "SK Broadband",
-   "device": "INTEKS20SI",
-   "model": "BID-AT200"
   }
  ],
  "SWAN": [
@@ -151962,11 +151969,25 @@
    "model": "BIP-AI100"
   }
  ],
+ "AI2 ATV": [
+  {
+   "brand": "SK broadband",
+   "device": "INTEKS21SI",
+   "model": "BID-AI100"
+  }
+ ],
  "PlayZ": [
   {
    "brand": "SK broadband",
    "device": "BIP-EB100",
    "model": "BIP-EB100"
+  }
+ ],
+ "SMART3": [
+  {
+   "brand": "SK broadband",
+   "device": "INTEKS20SI",
+   "model": "BID-AT200"
   }
  ],
  "Smart3 Mini": [
@@ -179333,6 +179354,13 @@
    "brand": "Symphony",
    "device": "Z35",
    "model": "Z35"
+  }
+ ],
+ "Z45": [
+  {
+   "brand": "Symphony",
+   "device": "Z45",
+   "model": "Symphony Z45"
   }
  ],
  "ZVII": [
@@ -208460,6 +208488,13 @@
    "model": "2107113SR"
   }
  ],
+ "Xiaomi 12X": [
+  {
+   "brand": "Xiaomi",
+   "device": "psyche",
+   "model": "2112123AC"
+  }
+ ],
  "Xiaomi Civi": [
   {
    "brand": "Xiaomi",
@@ -208686,6 +208721,13 @@
   }
  ],
  "SEI600YAY": [
+  {
+   "brand": "YAYGO",
+   "device": "HND",
+   "model": "ATV-101"
+  }
+ ],
+ "SEI600YAY4": [
   {
    "brand": "YAYGO",
    "device": "HND",
@@ -209023,6 +209065,13 @@
    "brand": "Yes",
    "device": "dwi765yes",
    "model": "STING"
+  }
+ ],
+ "Yes": [
+  {
+   "brand": "Yes",
+   "device": "SEI800Y",
+   "model": "yes"
   }
  ],
  "yes": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-12-28
+Last sync is 2021-12-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1132,6 +1132,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aprix|Tab_X2|Tab_X2|Tab_X2|
 |Aprix|X4|Aprix_X4|Aprix_X4|
 |Aqua|APAC|nippori|AQUA Android TV 2K|
+|Aqua|AQUA Android TV FF Pro|daan|AQUA Android TV FF Pro|
 |Aqua|AQUA android TV|hanyang|AQUA Android TV|
 |Aqua|S1 Jazz|S1_Jazz|S1 Jazz|
 |Arcelik|B55L 9682 5AS|arcelik_eu|arcelik_uhd_powermax_at|
@@ -5794,6 +5795,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EKO|EKO Star LTE G60|EKO_Star_LTE_G60|EKO Star LTE G60|
 |EKO|EKO android TV|hanyang|Ayonz Android TV|
 |EKO|EKO android TV ISDB|hanyang|EKO 4K Android TV|
+|EKO|KATV10|ICN|KATV10|
 |EKO|Star 4.0 G40|Star_4_0_G40|Star 4.0 G40|
 |EKO|Star 5.0 G50|Star_5_0_G50|Star 5.0 G50|
 |EKO|Star 5.5 G55|Star_5_5_G55|Star 5.5 G55|
@@ -9532,6 +9534,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hoffmann|X-Go|X-Go|X-Go|
 |Hoffmann|X-Ultra|X_Ultra|X_Ultra|
 |Hoffmann|X_Prime|X_Prime|HOFFMANN X-Prime|
+|Homatics|Box Q|HND|Box Q|
 |Homatics|Dongle Q|ICN|Dongle Q|
 |Homatics|SEI600HM|HND|Box Q|
 |Home Elite|Android TV|R1|ATV R1|
@@ -22663,13 +22666,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SILVER MAX|ST-710G|ST_710G|ST-710G|
 |SILVER MAX|ST-810|ST_810A|ST-810|
 |SITI_Playtop|SITIH3455N|DTC2141|SITIH3455N|
-|SK Broadband|AI2 ATV|INTEKS21SI|BID-AI100|
 |SK Broadband|B tv smart|BHX-S100|BHX-S100|
 |SK Broadband|B tv smart|BKO-S200|BKO-S200|
 |SK Broadband|BFX-AT100|BFX-AT100|BFX-AT100|
 |SK Broadband|BKO-AT800|BKO-AT800|BKO-AT800|
 |SK Broadband|BTV|vip5442|BAS-AT800|
-|SK Broadband|SMART3|INTEKS20SI|BID-AT200|
 |SK Broadband|SWAN|BFX-UA300|BFX-UA300|
 |SK Telesys||K4|SK-S170|
 |SK Telesys||msm8255_k5|SK-S150|
@@ -22690,7 +22691,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SK Telesys|WA978|u978e_1|WA978|
 |SK Telesys|icube-830|icube-830|icube-830|
 |SK broadband|AI2|BIP-AI100|BIP-AI100|
+|SK broadband|AI2 ATV|INTEKS21SI|BID-AI100|
 |SK broadband|PlayZ|BIP-EB100|BIP-EB100|
+|SK broadband|SMART3|INTEKS20SI|BID-AT200|
 |SK broadband|Smart3 Mini|BIP-UW200|BIP-UW200|
 |SKY EVO|Elite L55|Elite_L55|Elite L55|
 |SKY EVO|Elite OctaPlus|Elite_OctaPlus|Elite OctaPlus|
@@ -27477,6 +27480,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|Z33|Z33|Z33|
 |Symphony|Z35|Z35|Z35|
 |Symphony|Z40|Z40|Z40|
+|Symphony|Z45|Z45|Symphony Z45|
 |Symphony|ZVII|ZVII|ZVII|
 |Symphony|ZVIII|ZVIII|ZVIII|
 |Symphony|i10|i10|i10|
@@ -32412,6 +32416,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 11T Pro|vili|2107113SG|
 |Xiaomi|Xiaomi 11T Pro|vili|2107113SI|
 |Xiaomi|Xiaomi 11T Pro|vili|2107113SR|
+|Xiaomi|Xiaomi 12X|psyche|2112123AC|
 |Xiaomi|Xiaomi Civi|mona|2109119BC|
 |Xiaomi|Xiaomi Pad 5|nabu|21051182C|
 |Xiaomi|Xiaomi Pad 5 Pro|elish|M2105K81AC|
@@ -32454,6 +32459,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xtreme|XTREME TV|shinjuku|XTREME TV|
 |Xwave|Xpad|Xpad|Xpad_M9_3G|
 |YAYGO|SEI600YAY|HND|ATV-101|
+|YAYGO|SEI600YAY4|HND|ATV-101|
 |YELLYOUTH|TAB_101|TAB_101|TAB_101|
 |YETRUE|yetruepad21|yetruepad21_EEA|yetruepad21|
 |YOSATOO|KIDS07A|KIDS07A|KIDS07A|
@@ -32507,6 +32513,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Yes|Altitude 4|Altitude_4|YES Altitude 4|
 |Yes|M631Y|M631Y|M631Y|
 |Yes|STING|dwi765yes|STING|
+|Yes|Yes|SEI800Y|yes|
 |Yes|yes|SEI500Y|yes|
 |Yes|yes|SEI800Y|yes|
 |YesTeL|Note_30_pro|Note_30_pro|Note 30 pro|

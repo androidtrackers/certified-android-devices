@@ -5896,6 +5896,11 @@
    "model": "AQUA Android TV 2K"
   },
   {
+   "device": "daan",
+   "name": "AQUA Android TV FF Pro",
+   "model": "AQUA Android TV FF Pro"
+  },
+  {
    "device": "hanyang",
    "name": "AQUA android TV",
    "model": "AQUA Android TV"
@@ -30022,6 +30027,11 @@
    "model": "EKO 4K Android TV"
   },
   {
+   "device": "ICN",
+   "name": "KATV10",
+   "model": "KATV10"
+  },
+  {
    "device": "Star_4_0_G40",
    "name": "Star 4.0 G40",
    "model": "Star 4.0 G40"
@@ -49289,6 +49299,11 @@
   }
  ],
  "Homatics": [
+  {
+   "device": "HND",
+   "name": "Box Q",
+   "model": "Box Q"
+  },
   {
    "device": "ICN",
    "name": "Dongle Q",
@@ -116555,11 +116570,6 @@
  ],
  "SK Broadband": [
   {
-   "device": "INTEKS21SI",
-   "name": "AI2 ATV",
-   "model": "BID-AI100"
-  },
-  {
    "device": "BHX-S100",
    "name": "B tv smart",
    "model": "BHX-S100"
@@ -116583,11 +116593,6 @@
    "device": "vip5442",
    "name": "BTV",
    "model": "BAS-AT800"
-  },
-  {
-   "device": "INTEKS20SI",
-   "name": "SMART3",
-   "model": "BID-AT200"
   },
   {
    "device": "BFX-UA300",
@@ -116694,9 +116699,19 @@
    "model": "BIP-AI100"
   },
   {
+   "device": "INTEKS21SI",
+   "name": "AI2 ATV",
+   "model": "BID-AI100"
+  },
+  {
    "device": "BIP-EB100",
    "name": "PlayZ",
    "model": "BIP-EB100"
+  },
+  {
+   "device": "INTEKS20SI",
+   "name": "SMART3",
+   "model": "BID-AT200"
   },
   {
    "device": "BIP-UW200",
@@ -140957,6 +140972,11 @@
    "device": "Z40",
    "name": "Z40",
    "model": "Z40"
+  },
+  {
+   "device": "Z45",
+   "name": "Z45",
+   "model": "Symphony Z45"
   },
   {
    "device": "ZVII",
@@ -166360,6 +166380,11 @@
    "model": "2107113SR"
   },
   {
+   "device": "psyche",
+   "name": "Xiaomi 12X",
+   "model": "2112123AC"
+  },
+  {
    "device": "mona",
    "name": "Xiaomi Civi",
    "model": "2109119BC"
@@ -166585,6 +166610,11 @@
   {
    "device": "HND",
    "name": "SEI600YAY",
+   "model": "ATV-101"
+  },
+  {
+   "device": "HND",
+   "name": "SEI600YAY4",
    "model": "ATV-101"
   }
  ],
@@ -166879,6 +166909,11 @@
    "device": "dwi765yes",
    "name": "STING",
    "model": "STING"
+  },
+  {
+   "device": "SEI800Y",
+   "name": "Yes",
+   "model": "yes"
   },
   {
    "device": "SEI500Y",
