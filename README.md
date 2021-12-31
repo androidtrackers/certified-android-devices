@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-12-30
+Last sync is 2021-12-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1132,6 +1132,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aprix|Tab_X2|Tab_X2|Tab_X2|
 |Aprix|X4|Aprix_X4|Aprix_X4|
 |Aqua|APAC|nippori|AQUA Android TV 2K|
+|Aqua|AQUA Android TV DVB2K|broadway|AQUA Android TV DVB2K|
 |Aqua|AQUA Android TV FF Pro|daan|AQUA Android TV FF Pro|
 |Aqua|AQUA android TV|hanyang|AQUA Android TV|
 |Aqua|S1 Jazz|S1_Jazz|S1 Jazz|
@@ -2576,6 +2577,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQru-5533G|BQru-5533G|BQ-5533G|
 |BQru|BQru-5565L|BQru-5565L|BQ-5565L|
 |BQru|BQru-6022GA|BQru-6022G|BQ-6022G|
+|BQru|BQru-6061L|BQru-6061L|BQ-6061L|
 |BQru|BQru-6631G|BQru-6631G|BQ-6631G|
 |BQru|BQru-6631G_A11|BQru-6631G_A11|BQru-6631G_A11|
 |BQru|BQru-7082|BQru-7082|BQru-7082|
@@ -8536,6 +8538,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|Alpha A6|A6|A6|
 |Haier|Beeline Smart 3|Beeline_Smart3|Beeline Smart 3|
 |Haier|C46B2H|C46B2H|Andromax C46B2H|
+|Haier|CANDY Android TV DVB2K|broadway|CANDY Android TV DVB2K|
 |Haier|CDP7TAB4C8|CDP7TAB4C8|CDP7TAB4C8|
 |Haier|CDP8TAB16SD|CDP8TAB16SD|CDP8TAB16SD|
 |Haier|CEDTAB70616W8|CEDTAB70616W8|CEDTAB70616W8|
@@ -8572,6 +8575,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|G7s|G7s|G7s|
 |Haier|GF88|I7A-LE|I7A-LE|
 |Haier|HEC Android TV|hanyang|HEC Android TV|
+|Haier|HEC Android TV DVB2K|broadway|HEC Android TV DVB2K|
 |Haier|HG-9041|HG-9041|HG-9041|
 |Haier|HM-I557-FL|HM-I557-FL|HM-I557-FL|
 |Haier|HM-N501-FL|HM-N501-FL|HM-N501-FL|
@@ -8703,7 +8707,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Handheld Group|Nautiz X2|alta_GL|Nautiz X2|
 |Handheld Group|Nautiz X41|albatross_EEA|Nautiz X41|
 |Handheld Group|Nautiz X41|albatross_GL|Nautiz X41|
-|Handheld Group|Nautiz X9P|Nautiz_X9P|Nautiz X9P|
+|Handheld Group|Nautiz X9|Nautiz_X9P|Nautiz X9P|
 |Handheld Group|Nautiz_X2|NAUTIZ_X2|NAUTIZ_X2|
 |Handheld Group|Nautiz_X9|Nautiz_X9|Nautiz_X9|
 |Handheld-Wireless|C6|C6|C6|
@@ -12857,6 +12861,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KT Tech|TAKE SUIT|e100|KM-E100|
 |KTC (PD)|BLISS503|BLISS503|BLISS503|
 |KTC (PD)|BLISS_8|BLISS_8|BLISS_8|
+|KTCtv|AP|stanford|40D|
 |KTV|PureKTV|DV8219|Pure|
 |KTV|PureKTV|DV8219|PureKTV|
 |KUBIK|KUBIK_GENTA_10|KUBIK_GENTA_10|KUBIK_GENTA_10|
@@ -15609,6 +15614,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|LAVIE Tab E|X704F|PC-TE510HAW|
 |Lenovo|LAVIE Tab E 10FHD2|LAVIETabE10FHD2|LAVIE Tab E 10FHD2|
 |Lenovo|LAVIE Tab E 7SD1|LAVIETabE7SD1|LAVIE Tab E 7SD1|
+|Lenovo|LAVIETab T12 12QHD1|LAVIETabT1212QHD1|LAVIE Tab T12 12QHD1|
 |Lenovo|LIFETAB E10310|LIFETAB_E10310|LIFETAB_E10310|
 |Lenovo|LIFETAB E7310|LIFETAB_E7310|LIFETAB_E7310|
 |Lenovo|LIFETAB E7310|LIFETAB_E7310|LIFETAB_E7312|
@@ -19676,7 +19682,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A55 5G|OP4E2F|PEMT00|
 |Oppo|A55 5G|OP4E8C|PEMT20|
 |Oppo|A55s 5G|OP52EBL1|A102OP|
-|Oppo|A55s 5G|OP52EBL1|CPH2309|
 |Oppo|A57|A57|OPPO A57|
 |Oppo|A57|A57|OPPO A57t|
 |Oppo|A57t|A57|OPPO A57t|
@@ -19792,6 +19797,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|CPH2251|OP4F83L1|CPH2251|
 |Oppo|CPH2263|OP4F39L1|CPH2263|
 |Oppo|CPH2293|OP52E1L1|CPH2293|
+|Oppo|CPH2309|OP52EBL1|CPH2309|
 |Oppo|F11|OP4883|CPH1911|
 |Oppo|F11|OP4883|CPH1913|
 |Oppo|F11|OP4883|CPH1915|
@@ -22144,6 +22150,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |REDLINE|Space_M10|Space_M10|Space_M10|
 |REDLINE|Space_M10Pro|Space_M10Pro|Space_M10Pro|
 |RENSO|NEP N1|NEP_N1|NEP N1|
+|REVOX|REVOX-RM-RX1-EU|REVOX-RM-RX1-EU|C200-RM-RX1|
 |RIO Mobile|R7MAX|R7MAX|R7MAX|
 |RIO Mobile|RW10|RW10|RW10|
 |RIO Mobile|RW8|RW8|RW8|
@@ -22224,7 +22231,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme 8s 5G|RE58A0L1|RMX3381|
 |Realme|realme C11|RMX2185|RMX2185|
 |Realme|realme C11|RMX2186|RMX2186|
-|Realme|realme C11 2021|RMX3231|RMX3231|
 |Realme|realme C12|RMX2184|RMX2184|
 |Realme|realme C12|RMX2189|RMX2189|
 |Realme|realme C15|RMX2180|RMX2180|
@@ -27355,7 +27361,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sumitomo Electric Industries|ST4500|ST4500|ST-4500|
 |Sumitomo Electric Networks||dhe1100|Hikari-iFrame/WDPF-703SE|
 |Sunbio|SB-TM700|SB-TM700|SB-TM700|
+|Sunmi|Sunmi L2Ks|SUNMI-L2KsNFC|L2Ks_GL|
 |Sunmi|Sunmi V2s|V2s|V2s_GL|
+|Sunmi|V2sPLUSNC|V2sPLUSNC|V2sPLUSNC_EEA|
 |Sunny|SN10016|SN10016|SN10016|
 |Sunny|SN10064|TABLET|SN10064|
 |Sunny|SN7016|SN7016|SN7016|
@@ -34338,6 +34346,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zuk|Z2 Pro|z2_row|ZUK Z2121|
 |Zuk|ZTE B2015|msm8916_64|ZTE B2015|
 |Zuk|ZTE BLADE A5 PRO|P731A20|ZTE BLADE A5 PRO|
+|Zuum|AKUS P1|AKUS_P1|AKUS P1|
 |Zuum|AKUS PRO|AKUS_PRO|AKUS PRO|
 |Zuum|AKUS Z|Akus_Z|Akus Z|
 |Zuum|AKUS Z1|AKUS_Z1|AKUS Z1|

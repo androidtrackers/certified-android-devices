@@ -15013,6 +15013,13 @@
    "model": "CANDY Android TV 2K"
   }
  ],
+ "AQUA Android TV DVB2K": [
+  {
+   "brand": "Aqua",
+   "device": "broadway",
+   "model": "AQUA Android TV DVB2K"
+  }
+ ],
  "AQUA Android TV FF Pro": [
   {
    "brand": "Aqua",
@@ -25035,6 +25042,13 @@
    "brand": "BQru",
    "device": "BQru-6022G",
    "model": "BQ-6022G"
+  }
+ ],
+ "BQru-6061L": [
+  {
+   "brand": "BQru",
+   "device": "BQru-6061L",
+   "model": "BQ-6061L"
   }
  ],
  "BQru-6631G": [
@@ -67879,6 +67893,13 @@
    "model": "Andromax C46B2H"
   }
  ],
+ "CANDY Android TV DVB2K": [
+  {
+   "brand": "Haier",
+   "device": "broadway",
+   "model": "CANDY Android TV DVB2K"
+  }
+ ],
  "CDP7TAB4C8": [
   {
    "brand": "Haier",
@@ -68107,6 +68128,13 @@
    "brand": "Haier",
    "device": "hanyang",
    "model": "HEC Android TV"
+  }
+ ],
+ "HEC Android TV DVB2K": [
+  {
+   "brand": "Haier",
+   "device": "broadway",
+   "model": "HEC Android TV DVB2K"
   }
  ],
  "HG-9041": [
@@ -69066,7 +69094,7 @@
    "model": "Nautiz X41"
   }
  ],
- "Nautiz X9P": [
+ "Nautiz X9": [
   {
    "brand": "Handheld Group",
    "device": "Nautiz_X9P",
@@ -92674,6 +92702,13 @@
    "model": "BLISS_8"
   }
  ],
+ "AP": [
+  {
+   "brand": "KTCtv",
+   "device": "stanford",
+   "model": "40D"
+  }
+ ],
  "PureKTV": [
   {
    "brand": "KTV",
@@ -108244,6 +108279,13 @@
    "brand": "Lenovo",
    "device": "LAVIETabE7SD1",
    "model": "LAVIE Tab E 7SD1"
+  }
+ ],
+ "LAVIETab T12 12QHD1": [
+  {
+   "brand": "Lenovo",
+   "device": "LAVIETabT1212QHD1",
+   "model": "LAVIE Tab T12 12QHD1"
   }
  ],
  "LIFETAB E10310": [
@@ -132805,11 +132847,6 @@
    "brand": "Oppo",
    "device": "OP52EBL1",
    "model": "A102OP"
-  },
-  {
-   "brand": "Oppo",
-   "device": "OP52EBL1",
-   "model": "CPH2309"
   }
  ],
  "A57t": [
@@ -133494,6 +133531,13 @@
    "brand": "Oppo",
    "device": "OP52E1L1",
    "model": "CPH2293"
+  }
+ ],
+ "CPH2309": [
+  {
+   "brand": "Oppo",
+   "device": "OP52EBL1",
+   "model": "CPH2309"
   }
  ],
  "F11 Pro": [
@@ -148473,6 +148517,13 @@
    "model": "NEP N1"
   }
  ],
+ "REVOX-RM-RX1-EU": [
+  {
+   "brand": "REVOX",
+   "device": "REVOX-RM-RX1-EU",
+   "model": "C200-RM-RX1"
+  }
+ ],
  "R7MAX": [
   {
    "brand": "RIO Mobile",
@@ -148953,18 +149004,6 @@
    "brand": "Realme",
    "device": "RMX2186",
    "model": "RMX2186"
-  }
- ],
- "realme C11 2021": [
-  {
-   "brand": "Realme",
-   "device": "RMX3231",
-   "model": "RMX3231"
-  },
-  {
-   "brand": "realme",
-   "device": "RMX3231",
-   "model": "RMX3231"
   }
  ],
  "realme C12": [
@@ -178606,11 +178645,25 @@
    "model": "SB-TM700"
   }
  ],
+ "Sunmi L2Ks": [
+  {
+   "brand": "Sunmi",
+   "device": "SUNMI-L2KsNFC",
+   "model": "L2Ks_GL"
+  }
+ ],
  "Sunmi V2s": [
   {
    "brand": "Sunmi",
    "device": "V2s",
    "model": "V2s_GL"
+  }
+ ],
+ "V2sPLUSNC": [
+  {
+   "brand": "Sunmi",
+   "device": "V2sPLUSNC",
+   "model": "V2sPLUSNC_EEA"
   }
  ],
  "SN10016": [
@@ -218920,6 +218973,13 @@
    "model": "ZTE BLADE A5 PRO"
   }
  ],
+ "AKUS P1": [
+  {
+   "brand": "Zuum",
+   "device": "AKUS_P1",
+   "model": "AKUS P1"
+  }
+ ],
  "AKUS PRO": [
   {
    "brand": "Zuum",
@@ -222098,6 +222158,13 @@
    "brand": "realme",
    "device": "RMX3081L1",
    "model": "RMX3081"
+  }
+ ],
+ "realme C11 2021": [
+  {
+   "brand": "realme",
+   "device": "RMX3231",
+   "model": "RMX3231"
   }
  ],
  "realme C21-Y": [

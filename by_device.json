@@ -11246,6 +11246,28 @@
    "model": "ZEPHIR Android TV 2K"
   }
  ],
+ "broadway": [
+  {
+   "brand": "Aqua",
+   "name": "AQUA Android TV DVB2K",
+   "model": "AQUA Android TV DVB2K"
+  },
+  {
+   "brand": "Haier",
+   "name": "CANDY Android TV DVB2K",
+   "model": "CANDY Android TV DVB2K"
+  },
+  {
+   "brand": "Haier",
+   "name": "HEC Android TV DVB2K",
+   "model": "HEC Android TV DVB2K"
+  },
+  {
+   "brand": "Haier",
+   "name": "Haier Android TV DVB2K",
+   "model": "Haier Android TV DVB2K"
+  }
+ ],
  "daan": [
   {
    "brand": "Aqua",
@@ -21843,6 +21865,13 @@
    "brand": "BQru",
    "name": "BQru-6022GA",
    "model": "BQ-6022G"
+  }
+ ],
+ "BQru-6061L": [
+  {
+   "brand": "BQru",
+   "name": "BQru-6061L",
+   "model": "BQ-6061L"
   }
  ],
  "BQru-6631G": [
@@ -63884,13 +63913,6 @@
    "model": "Seiki Android TV 2K"
   }
  ],
- "broadway": [
-  {
-   "brand": "Haier",
-   "name": "Haier Android TV DVB2K",
-   "model": "Haier Android TV DVB2K"
-  }
- ],
  "Haier_Leisure_L7": [
   {
    "brand": "Haier",
@@ -64605,7 +64627,7 @@
  "Nautiz_X9P": [
   {
    "brand": "Handheld Group",
-   "name": "Nautiz X9P",
+   "name": "Nautiz X9",
    "model": "Nautiz X9P"
   }
  ],
@@ -89421,6 +89443,13 @@
    "model": "BLISS_8"
   }
  ],
+ "stanford": [
+  {
+   "brand": "KTCtv",
+   "name": "AP",
+   "model": "40D"
+  }
+ ],
  "KUBIK_GENTA_10": [
   {
    "brand": "KUBIK",
@@ -106620,6 +106649,13 @@
    "brand": "Lenovo",
    "name": "LAVIE Tab E 7SD1",
    "model": "LAVIE Tab E 7SD1"
+  }
+ ],
+ "LAVIETabT1212QHD1": [
+  {
+   "brand": "Lenovo",
+   "name": "LAVIETab T12 12QHD1",
+   "model": "LAVIE Tab T12 12QHD1"
   }
  ],
  "LIFETAB_E10310": [
@@ -132640,7 +132676,7 @@
   },
   {
    "brand": "Oppo",
-   "name": "A55s 5G",
+   "name": "CPH2309",
    "model": "CPH2309"
   }
  ],
@@ -148054,6 +148090,13 @@
    "model": "NEP N1"
   }
  ],
+ "REVOX-RM-RX1-EU": [
+  {
+   "brand": "REVOX",
+   "name": "REVOX-RM-RX1-EU",
+   "model": "C200-RM-RX1"
+  }
+ ],
  "R7MAX": [
   {
    "brand": "RIO Mobile",
@@ -148340,11 +148383,6 @@
   {
    "brand": "Realme",
    "name": "RMX3231",
-   "model": "RMX3231"
-  },
-  {
-   "brand": "Realme",
-   "name": "realme C11 2021",
    "model": "RMX3231"
   },
   {
@@ -181208,6 +181246,20 @@
    "brand": "Sunbio",
    "name": "SB-TM700",
    "model": "SB-TM700"
+  }
+ ],
+ "SUNMI-L2KsNFC": [
+  {
+   "brand": "Sunmi",
+   "name": "Sunmi L2Ks",
+   "model": "L2Ks_GL"
+  }
+ ],
+ "V2sPLUSNC": [
+  {
+   "brand": "Sunmi",
+   "name": "V2sPLUSNC",
+   "model": "V2sPLUSNC_EEA"
   }
  ],
  "SN10016": [
@@ -221325,6 +221377,13 @@
    "brand": "Zuk",
    "name": "Z2 Pro",
    "model": "ZUK Z2121"
+  }
+ ],
+ "AKUS_P1": [
+  {
+   "brand": "Zuum",
+   "name": "AKUS P1",
+   "model": "AKUS P1"
   }
  ],
  "AKUS_PRO": [
