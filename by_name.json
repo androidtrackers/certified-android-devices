@@ -86170,13 +86170,6 @@
    "model": "Infinix X680D"
   }
  ],
- "Infinix SMART 5": [
-  {
-   "brand": "Infinix",
-   "device": "Infinix-X657",
-   "model": "Infinix X657"
-  }
- ],
  "Infinix X5010": [
   {
    "brand": "Infinix",
@@ -86401,6 +86394,11 @@
   }
  ],
  "SMART": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X657",
+   "model": "Infinix X657"
+  },
   {
    "brand": "Infinix",
    "device": "Infinix-X657B",
@@ -149878,6 +149876,11 @@
    "brand": "Redmi",
    "device": "selene",
    "model": "21121119SG"
+  },
+  {
+   "brand": "Redmi",
+   "device": "selene",
+   "model": "21121119VL"
   }
  ],
  "Redmi 10X": [
@@ -170148,6 +170151,11 @@
    "brand": "Sharp",
    "device": "Recoa",
    "model": "SH-Z60"
+  },
+  {
+   "brand": "Sharp",
+   "device": "Recoa",
+   "model": "ST0B0"
   },
   {
    "brand": "Sharp",

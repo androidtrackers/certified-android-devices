@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2021-12-31
+Last sync is 2022-01-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11830,7 +11830,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix Note 5|Infinix-X604_sprout|Infinix X604B|
 |Infinix|Infinix SMART 4|Infinix-X680|Infinix X680|
 |Infinix|Infinix SMART 4 Plus|Infinix-X680D|Infinix X680D|
-|Infinix|Infinix SMART 5|Infinix-X657|Infinix X657|
 |Infinix|Infinix X5010|Infinix-X5010|Infinix X5010|
 |Infinix|Infinix X510|Infinix_X510_sprout|Infinix X510|
 |Infinix|Infinix X559|Infinix-X559|Infinix X559|
@@ -11875,6 +11874,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|S5 Pro|Infinix-X660|Infinix X660|
 |Infinix|S5 Pro|Infinix-X660B|Infinix X660B|
 |Infinix|S5 Pro|Infinix-X660C|Infinix X660C|
+|Infinix|SMART|Infinix-X657|Infinix X657|
 |Infinix|SMART|Infinix-X657B|Infinix X657B|
 |Infinix|SMART 5|Infinix-X657C|Infinix X657C|
 |Infinix|SMART 5(SMART 6)|Infinix-X657B|Infinix X657B|
@@ -22356,6 +22356,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 10 2022|selene|21061119AG|
 |Redmi|Redmi 10 2022|selene|21061119AL|
 |Redmi|Redmi 10 2022|selene|21121119SG|
+|Redmi|Redmi 10 2022|selene|21121119VL|
 |Redmi|Redmi 10X|apricot|M2004J7AC|
 |Redmi|Redmi 10X|atom|M2004J7AC|
 |Redmi|Redmi 10X|atom|atom|
@@ -25943,6 +25944,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS zero6|Recoa|A102SH|
 |Sharp|AQUOS zero6|Recoa|SH-RM18|
 |Sharp|AQUOS zero6|Recoa|SH-Z60|
+|Sharp|AQUOS zero6|Recoa|ST0B0|
 |Sharp|AQUOS zero6|XKH|SHG04|
 |Sharp|AQUOS ケータイ SH-02L|SH-02L|SH-02L|
 |Sharp|AQUOS ケータイ SH-06G|SH-06G|SH-06G|

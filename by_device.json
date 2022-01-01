@@ -82888,13 +82888,6 @@
    "model": "Infinix X680D"
   }
  ],
- "Infinix-X657": [
-  {
-   "brand": "Infinix",
-   "name": "Infinix SMART 5",
-   "model": "Infinix X657"
-  }
- ],
  "Infinix-X5010": [
   {
    "brand": "Infinix",
@@ -83192,6 +83185,13 @@
    "brand": "Infinix",
    "name": "S5 Pro",
    "model": "Infinix X660C"
+  }
+ ],
+ "Infinix-X657": [
+  {
+   "brand": "Infinix",
+   "name": "SMART",
+   "model": "Infinix X657"
   }
  ],
  "Infinix-X657C": [
@@ -149489,6 +149489,11 @@
    "brand": "Redmi",
    "name": "Redmi 10 2022",
    "model": "21121119SG"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10 2022",
+   "model": "21121119VL"
   }
  ],
  "apricot": [
@@ -172029,6 +172034,11 @@
    "brand": "Sharp",
    "name": "AQUOS zero6",
    "model": "SH-Z60"
+  },
+  {
+   "brand": "Sharp",
+   "name": "AQUOS zero6",
+   "model": "ST0B0"
   }
  ],
  "XKH": [

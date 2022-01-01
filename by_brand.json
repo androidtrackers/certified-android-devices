@@ -60924,11 +60924,6 @@
    "model": "Infinix X680D"
   },
   {
-   "device": "Infinix-X657",
-   "name": "Infinix SMART 5",
-   "model": "Infinix X657"
-  },
-  {
    "device": "Infinix-X5010",
    "name": "Infinix X5010",
    "model": "Infinix X5010"
@@ -61147,6 +61142,11 @@
    "device": "Infinix-X660C",
    "name": "S5 Pro",
    "model": "Infinix X660C"
+  },
+  {
+   "device": "Infinix-X657",
+   "name": "SMART",
+   "model": "Infinix X657"
   },
   {
    "device": "Infinix-X657B",
@@ -114908,6 +114908,11 @@
    "model": "21121119SG"
   },
   {
+   "device": "selene",
+   "name": "Redmi 10 2022",
+   "model": "21121119VL"
+  },
+  {
    "device": "apricot",
    "name": "Redmi 10X",
    "model": "M2004J7AC"
@@ -133087,6 +133092,11 @@
    "device": "Recoa",
    "name": "AQUOS zero6",
    "model": "SH-Z60"
+  },
+  {
+   "device": "Recoa",
+   "name": "AQUOS zero6",
+   "model": "ST0B0"
   },
   {
    "device": "XKH",
