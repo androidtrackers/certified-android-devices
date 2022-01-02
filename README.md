@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-01-01
+Last sync is 2022-01-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -22259,7 +22259,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme C3i|RMX2027|RMX2027|
 |Realme|realme GT 5G|RMX2202L1|RMX2202|
 |Realme|realme GT Explorer Master Edition|RE546F|RMX3366|
-|Realme|realme GT Master Edition|RE507C|RMX3361|
 |Realme|realme GT Master Edition|RE54ABL1|RMX3360|
 |Realme|realme GT Master Edition|RE54ABL1|RMX3363|
 |Realme|realme GT Neo 2|RE5473|RMX3370|
@@ -34883,6 +34882,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C25Y|RED8F6|RMX3269|
 |realme|realme C25s|RMX3195|RMX3195|
 |realme|realme GT 5G|RMX2202L1|RMX2202|
+|realme|realme GT Master Edition|RE507C|RMX3361|
 |realme|realme GT Neo2 5G|RE879AL1|RMX3370|
 |realme|realme X50 Pro|RMX2075L1|RMX2075|
 |realme|realme X50 Pro|RMX2076L1|RMX2076|

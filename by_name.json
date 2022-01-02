@@ -149197,11 +149197,6 @@
  "realme GT Master Edition": [
   {
    "brand": "Realme",
-   "device": "RE507C",
-   "model": "RMX3361"
-  },
-  {
-   "brand": "Realme",
    "device": "RE54ABL1",
    "model": "RMX3360"
   },
@@ -149209,6 +149204,11 @@
    "brand": "Realme",
    "device": "RE54ABL1",
    "model": "RMX3363"
+  },
+  {
+   "brand": "realme",
+   "device": "RE507C",
+   "model": "RMX3361"
   }
  ],
  "realme GT Neo 2": [

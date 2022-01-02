@@ -114411,11 +114411,6 @@
    "model": "RMX3366"
   },
   {
-   "device": "RE507C",
-   "name": "realme GT Master Edition",
-   "model": "RMX3361"
-  },
-  {
    "device": "RE54ABL1",
    "name": "realme GT Master Edition",
    "model": "RMX3360"
@@ -179027,6 +179022,11 @@
    "device": "RMX2202L1",
    "name": "realme GT 5G",
    "model": "RMX2202"
+  },
+  {
+   "device": "RE507C",
+   "name": "realme GT Master Edition",
+   "model": "RMX3361"
   },
   {
    "device": "RE879AL1",

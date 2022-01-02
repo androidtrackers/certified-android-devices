@@ -148870,13 +148870,6 @@
    "model": "RMX3366"
   }
  ],
- "RE507C": [
-  {
-   "brand": "Realme",
-   "name": "realme GT Master Edition",
-   "model": "RMX3361"
-  }
- ],
  "RE54ABL1": [
   {
    "brand": "Realme",
@@ -224581,6 +224574,13 @@
    "brand": "realme",
    "name": "realme C21-Y",
    "model": "RMX3263"
+  }
+ ],
+ "RE507C": [
+  {
+   "brand": "realme",
+   "name": "realme GT Master Edition",
+   "model": "RMX3361"
   }
  ],
  "RMX2076L1": [

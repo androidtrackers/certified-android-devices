@@ -152344,13 +152344,6 @@
    "device": "RE546F"
   }
  ],
- "RMX3361": [
-  {
-   "brand": "Realme",
-   "name": "realme GT Master Edition",
-   "device": "RE507C"
-  }
- ],
  "RMX3360": [
   {
    "brand": "Realme",
@@ -234842,6 +234835,13 @@
    "brand": "realme",
    "name": "realme C21-Y",
    "device": "RED8D1"
+  }
+ ],
+ "RMX3361": [
+  {
+   "brand": "realme",
+   "name": "realme GT Master Edition",
+   "device": "RE507C"
   }
  ],
  "RMX2076": [
