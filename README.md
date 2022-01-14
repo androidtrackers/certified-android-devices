@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-01-13
+Last sync is 2022-01-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -733,6 +733,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Algar|GIU6770|GIU6770|GIU6770|
 |Alhafidh|Android TV|R1|ATV R1|
 |Alhafidh|Android TV|R2|ATV R2|
+|Alhafidh|Android TV|R4|R4|
 |Aligator|ALIGATOR RX800|ALIGATOR_RX800|ALIGATOR RX800|
 |Aligator|ALIGATOR S5070|ALIGATOR_S5070|ALIGATOR S5070|
 |Aligator|ALIGATOR S5520|ALIGATOR_S5520|ALIGATOR_S5520|
@@ -3236,6 +3237,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|M8L|M0172WW|M8L|
 |Blu|M8L|M0173WW|M8L|
 |Blu|M8L|M0174WW|M8L|
+|Blu|M8L 2022|M0220WW|M8L 2022|
 |Blu|M8L PLUS|M0209WW|M8L PLUS|
 |Blu|M8L PLUS|M0210WW|M8L PLUS|
 |Blu|M8L_PLUS|M0208WW|M8L PLUS|
@@ -3717,6 +3719,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Casio|itg600|itg600|IT-G600|
 |Casper|Android TV|R1|ATV R1|
 |Casper|Android TV|R2|ATV R2|
+|Casper|Android TV|R4|R4|
 |Casper|CASPER_L10_4_5G|CASPER_L10_4_5G|CASPER_L10_4.5G|
 |Casper|Casper VIA S48|VIA_S48|VIA_S48|
 |Casper|Casper VIA X20|VIA_X20|VIA X20|
@@ -4067,6 +4070,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Chuwi|HiPadPlus_ROW|HiPadPlus|HiPadPlus|
 |Chuwi|HiPadPlus_RU|HiPadPlus|HiPadPlus|
 |Chuwi|HiPadPlus_TR|HiPadPlus|HiPadPlus|
+|Chuwi|HiPadX-1_EEA|HiPadX|HiPad X|
 |Chuwi|HiPadX_11|HiPadX|HiPadX|
 |Chuwi|HiPad_Pro|CH108Q|HiPad Pro|
 |Chuwi|HipadX|HipadX|HiPad X|
@@ -4108,6 +4112,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Clarmin|CLARMIN C1|CLARMIN_C1|CLARMIN C1|
 |Claro|Claro Colombia STB|SEI800CCOA|Claro Colombia STB|
 |Claro|Claro STB|SEI810CPR|Claro STB|
+|Claro|S4KW3|m393_4l|S4KW3|
 |Claro|SEI810CPR|SEI810CPR|Claro STB|
 |Classpro|CGS55UHD|samseong|AI PONT|
 |Classpro|EGS42FHD|ikebukuro|AI PONT|
@@ -5940,6 +5945,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EVEREST-EVERPAD|DC-1032|mid1032_mk|DC-1032|
 |EVEREST-EVERPAD|DC-8015|mid7015_mk|DC-8015|
 |EVEREST-EVERPAD|DC-M700|DC-M700|DC-M700|
+|EVVO|Android TV|R1|ATV R1|
+|EVVO|Android TV|R2|ATV R2|
 |EWIS|OCTA-T700M|OCTA-T700M|EWIS OCTA-T700M|
 |EWIS|OCTA-T700M-T2|OCTA-T700M-T2|OCTA-T700M-T2|
 |EWIS|T800MC|T800MC|T800MC|
@@ -6291,6 +6298,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Everis|E0115|E0115|E0115|
 |Everis|E0116|E0116|E0116|
 |Everis|E0117|E0117|E0117|
+|Everis|E0120|E0120|E0120|
 |Everpad|EW2010|EW2010|EW2010|
 |Everpad|EW2020|EW2020|EW2020|
 |Everpad|EW2021|EVERPAD-EW2021|EW2021|
@@ -6466,6 +6474,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FLEX MOBILE|S9|S9|S9|
 |FOXXD|MIRO|L590A|L590A|
 |FOXXD|T8|T8|T8|
+|FOXXD|T8A|T8A|T8A|
 |FPT Telecom|FPT ATV Play Box|DV8236|FPT ATV Play Box|
 |FPT Telecom|FPT Play Box +|DV8536-KVF|FPT Play Box +|
 |FPT Telecom|SEI500FPT|SEI500FPT|FPT Play Box +|
@@ -17526,6 +17535,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobell|S61|S61|S61|
 |MobiIoT|Hotah|HotahOTG_N|HotahOTG|
 |MobiIoT|Hotah|HotahOTG_V|HotahOTG|
+|MobiIoT|MobiPrint4_Plus|MobiPrint4_Plus|MobiPrint4_Plus|
 |MobiIoT|Mobigo2|MobiGo2|MobiGo2|
 |MobiOcean|MOT102|MOT102|MOT102|
 |Mobicell|4U|4U|4U|
@@ -18871,6 +18881,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NEWSUN|S9|S9|S9|
 |NEWTON|H1|H1|H1|
 |NEXA|NexaN5a|NexaN5a|NexaN5a|
+|NGM Italia SRL|Android TV|R1|ATV R1|
+|NGM Italia SRL|Android TV|R2|ATV R2|
 |NGM Italia SRL|Danamic Now|DynamicNow|Now|
 |NGM Italia SRL|Dynamic Racing 3|NGM_Dynamic_Racing_3|Dynamic Racing 3|
 |NGM Italia SRL|Dynamic_Stylo|NGM_Dynamic_Stylo|NGM_Dynamic_Stylo|
@@ -20510,6 +20522,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|Altus4K43|Altus4K43|Qualcomm elite|
 |Panasonic|Android TV|R1|PANASONIC TV|
 |Panasonic|Android TV|R2|PANASONIC TV|
+|Panasonic|Android TV|R4|PANASONIC TV|
 |Panasonic|Asia|globe_ap|PanasonicTV|
 |Panasonic|Boukenkun-reciever|VW_RCBKK1|VW_RCBKK1|
 |Panasonic|EB-4063-X|EB-4063-X|EB-4063-X|
@@ -21767,6 +21780,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|L10_PRO_EEA|L10_PRO_EEA|L10_PRO_EEA|
 |Pritom|L8|L8|L8|
 |Pritom|L8_A01|L8_A01|L8|
+|Pritom|L8_A01_EEA|L8_A01_EEA|L8|
 |Pritom|L8_A02|L8_A02|L8_A02|
 |Pritom|L8_A02_EEA|L8_A02_EEA|L8_A02_EEA|
 |Pritom|L8_EEA|L8_EEA|L8_EEA|
@@ -22406,7 +22420,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme X50t 5G|RE508C|RMX2052|
 |Realme|realme X50t 5G|RMX2052CN|RMX2052|
 |Realme|realme X7 5G|RMX3092L1|RMX3092|
-|Realme|realme X7Pro Ultra|RMX3115CN|RMX3115|
 |Realme|realme X7 5G|RMX2176CN|RMX2176|
 |Realme|realme XT|RMX1921|RMX1921|
 |Realme|realme XT|RMX1921L1|RMX1921|
@@ -26433,6 +26446,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|Elite T8Plus|Elite_T8PlusK|Elite T8Plus|
 |Sky Devices|Elite_A65|Elite_A65|Elite A65|
 |Sky Devices|Elite_D5|Elite_D5|Elite D5|
+|Sky Devices|Elite_D55|Elite_D55|Elite_D55|
 |Sky Devices|Elite_H55|Elite_H55|Elite H55|
 |Sky Devices|Elite_H55_HD|Elite_H55_HD|Elite H55|
 |Sky Devices|Elite_H5_FW|Elite_H5_FW|Elite H5|
@@ -27547,6 +27561,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Syinix|55A1S|samseong|AI PONT|
 |Syinix|Africa|yeongdeungpo|Syinix UHD Android TV|
 |Symphony|ATOM|ATOM|ATOM|
+|Symphony|Allegro|RFIP_ST4K_2|Allegro|
 |Symphony|Atom ii|Atom_ii|Symphony Atom ii|
 |Symphony|E90|E90|E90|
 |Symphony|E95|E95|E95|
@@ -29435,6 +29450,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P25_EEA|P25_EEA|P25_EEA|
 |Teclast|P25_ROW|P25_ROW|P25_ROW|
 |Teclast|P25_RUS|P25_RUS|P25_RUS|
+|Teclast|P30HD_ROW|P30HD|P30HD|
 |Teclast|P80X|P80X|P80X|
 |Teclast|P80X_EEA|P80X|P80X|
 |Teclast|P80X_EEA|P80X|P80X_EEA|
@@ -35037,6 +35053,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 8 Pro|RMX3081L1|RMX3081|
 |realme|realme C11 2021|RMX3231|RMX3231|
 |realme|realme C15 Qualcomm Edition|RMX2195L1|RMX2195|
+|realme|realme C20|RMX3061|RMX3061|
+|realme|realme C20|RMX3063|RMX3063|
 |realme|realme C21 Y|RMX3261|RMX3261|
 |realme|realme C21-Y|RED8D1|RMX3263|
 |realme|realme C25|RMX3191|RMX3191|
@@ -35049,6 +35067,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme X50 Pro|RMX2075L1|RMX2075|
 |realme|realme X50 Pro|RMX2076L1|RMX2076|
 |realme|realme X50 Pro Play|RMX2072CN|RMX2072|
+|realme|realme X7Pro Ultra|RMX3115CN|RMX3115|
+|realme|realme narzo 20 Pro|RMX2161L1|RMX2161|
+|realme|realme narzo 30A|RMX3171|RMX3171|
 |realme|realme narzo 50A|RED8AF|RMX3430|
 |realme|realme pad|RE54C1L1|RMP2103|
 |realme|真我GT 2|RE5471|RMX3310|

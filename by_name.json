@@ -8414,6 +8414,11 @@
    "model": "ATV R2"
   },
   {
+   "brand": "Alhafidh",
+   "device": "R4",
+   "model": "R4"
+  },
+  {
    "brand": "Amstrad",
    "device": "R2",
    "model": "ATV R2"
@@ -8459,6 +8464,11 @@
    "model": "ATV R2"
   },
   {
+   "brand": "Casper",
+   "device": "R4",
+   "model": "R4"
+  },
+  {
    "brand": "Challenger",
    "device": "R1",
    "model": "ATV R1"
@@ -8500,6 +8510,16 @@
   },
   {
    "brand": "Denka",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "EVVO",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "EVVO",
    "device": "R2",
    "model": "ATV R2"
   },
@@ -8699,6 +8719,16 @@
    "model": "ATV R2"
   },
   {
+   "brand": "NGM Italia SRL",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "NGM Italia SRL",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
    "brand": "Nikkei",
    "device": "longshan",
    "model": "AI PONT"
@@ -8751,6 +8781,11 @@
   {
    "brand": "Panasonic",
    "device": "R2",
+   "model": "PANASONIC TV"
+  },
+  {
+   "brand": "Panasonic",
+   "device": "R4",
    "model": "PANASONIC TV"
   },
   {
@@ -30410,6 +30445,13 @@
    "model": "M8L"
   }
  ],
+ "M8L 2022": [
+  {
+   "brand": "Blu",
+   "device": "M0220WW",
+   "model": "M8L 2022"
+  }
+ ],
  "M8L PLUS": [
   {
    "brand": "Blu",
@@ -36867,6 +36909,13 @@
    "model": "HiPadPlus"
   }
  ],
+ "HiPadX-1_EEA": [
+  {
+   "brand": "Chuwi",
+   "device": "HiPadX",
+   "model": "HiPad X"
+  }
+ ],
  "HiPadX_11": [
   {
    "brand": "Chuwi",
@@ -37156,6 +37205,13 @@
    "brand": "Claro",
    "device": "SEI810CPR",
    "model": "Claro STB"
+  }
+ ],
+ "S4KW3": [
+  {
+   "brand": "Claro",
+   "device": "m393_4l",
+   "model": "S4KW3"
   }
  ],
  "SEI810CPR": [
@@ -52897,6 +52953,13 @@
    "model": "E0117"
   }
  ],
+ "E0120": [
+  {
+   "brand": "Everis",
+   "device": "E0120",
+   "model": "E0120"
+  }
+ ],
  "EW2010": [
   {
    "brand": "Everpad",
@@ -54197,6 +54260,13 @@
    "brand": "FOXXD",
    "device": "L590A",
    "model": "L590A"
+  }
+ ],
+ "T8A": [
+  {
+   "brand": "FOXXD",
+   "device": "T8A",
+   "model": "T8A"
   }
  ],
  "FPT ATV Play Box": [
@@ -120125,6 +120195,13 @@
    "model": "Hotah"
   }
  ],
+ "MobiPrint4_Plus": [
+  {
+   "brand": "MobiIoT",
+   "device": "MobiPrint4_Plus",
+   "model": "MobiPrint4_Plus"
+  }
+ ],
  "Mobigo2": [
   {
    "brand": "MobiIoT",
@@ -146198,6 +146275,13 @@
    "model": "L8"
   }
  ],
+ "L8_A01_EEA": [
+  {
+   "brand": "Pritom",
+   "device": "L8_A01_EEA",
+   "model": "L8"
+  }
+ ],
  "L8_A02": [
   {
    "brand": "Pritom",
@@ -149778,6 +149862,16 @@
    "brand": "Realme",
    "device": "RMX3063",
    "model": "RMX3063"
+  },
+  {
+   "brand": "realme",
+   "device": "RMX3061",
+   "model": "RMX3061"
+  },
+  {
+   "brand": "realme",
+   "device": "RMX3063",
+   "model": "RMX3063"
   }
  ],
  "realme C21": [
@@ -150199,13 +150293,6 @@
    "model": "RMX3092"
   }
  ],
- "realme X7Pro Ultra": [
-  {
-   "brand": "Realme",
-   "device": "RMX3115CN",
-   "model": "RMX3115"
-  }
- ],
  "realme X7 5G": [
   {
    "brand": "Realme",
@@ -150254,6 +150341,11 @@
  "realme narzo 30A": [
   {
    "brand": "Realme",
+   "device": "RMX3171",
+   "model": "RMX3171"
+  },
+  {
+   "brand": "realme",
    "device": "RMX3171",
    "model": "RMX3171"
   }
@@ -173331,6 +173423,13 @@
    "model": "Elite D5"
   }
  ],
+ "Elite_D55": [
+  {
+   "brand": "Sky Devices",
+   "device": "Elite_D55",
+   "model": "Elite_D55"
+  }
+ ],
  "Elite_H55": [
   {
    "brand": "Sky Devices",
@@ -179882,6 +179981,13 @@
    "brand": "Symphony",
    "device": "ATOM",
    "model": "ATOM"
+  }
+ ],
+ "Allegro": [
+  {
+   "brand": "Symphony",
+   "device": "RFIP_ST4K_2",
+   "model": "Allegro"
   }
  ],
  "Atom ii": [
@@ -190394,6 +190500,13 @@
    "brand": "Teclast",
    "device": "P25_RUS",
    "model": "P25_RUS"
+  }
+ ],
+ "P30HD_ROW": [
+  {
+   "brand": "Teclast",
+   "device": "P30HD",
+   "model": "P30HD"
   }
  ],
  "P80X": [
@@ -223255,6 +223368,20 @@
    "brand": "realme",
    "device": "RMX2072CN",
    "model": "RMX2072"
+  }
+ ],
+ "realme X7Pro Ultra": [
+  {
+   "brand": "realme",
+   "device": "RMX3115CN",
+   "model": "RMX3115"
+  }
+ ],
+ "realme narzo 20 Pro": [
+  {
+   "brand": "realme",
+   "device": "RMX2161L1",
+   "model": "RMX2161"
   }
  ],
  "真我GT 2": [

@@ -3238,6 +3238,11 @@
    "device": "R1"
   },
   {
+   "brand": "EVVO",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
    "brand": "Erito",
    "name": "Android TV",
    "device": "R1"
@@ -3314,6 +3319,11 @@
   },
   {
    "brand": "Mystic",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "NGM Italia SRL",
    "name": "Android TV",
    "device": "R1"
   },
@@ -3445,6 +3455,11 @@
    "device": "R2"
   },
   {
+   "brand": "EVVO",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
    "brand": "EssentielB",
    "name": "Android TV",
    "device": "R2"
@@ -3501,6 +3516,11 @@
   },
   {
    "brand": "Mystic",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "NGM Italia SRL",
    "name": "Android TV",
    "device": "R2"
   },
@@ -6684,6 +6704,38 @@
    "brand": "Algar",
    "name": "GIU6770",
    "device": "GIU6770"
+  }
+ ],
+ "R4": [
+  {
+   "brand": "Alhafidh",
+   "name": "Android TV",
+   "device": "R4"
+  },
+  {
+   "brand": "Casper",
+   "name": "Android TV",
+   "device": "R4"
+  },
+  {
+   "brand": "Mobicell",
+   "name": "R4",
+   "device": "R4"
+  },
+  {
+   "brand": "Motorola",
+   "name": "Android TV",
+   "device": "R4"
+  },
+  {
+   "brand": "Nokia",
+   "name": "Android TV",
+   "device": "R4"
+  },
+  {
+   "brand": "Nokia",
+   "name": "R4",
+   "device": "R4"
   }
  ],
  "ALIGATOR RX800": [
@@ -24512,6 +24564,13 @@
    "device": "M0174WW"
   }
  ],
+ "M8L 2022": [
+  {
+   "brand": "Blu",
+   "name": "M8L 2022",
+   "device": "M0220WW"
+  }
+ ],
  "M8L PLUS": [
   {
    "brand": "Blu",
@@ -30603,21 +30662,12 @@
    "device": "HiPadPlus"
   }
  ],
- "HiPadX": [
-  {
-   "brand": "Chuwi",
-   "name": "HiPadX_11",
-   "device": "HiPadX"
-  }
- ],
- "HiPad Pro": [
-  {
-   "brand": "Chuwi",
-   "name": "HiPad_Pro",
-   "device": "CH108Q"
-  }
- ],
  "HiPad X": [
+  {
+   "brand": "Chuwi",
+   "name": "HiPadX-1_EEA",
+   "device": "HiPadX"
+  },
   {
    "brand": "Chuwi",
    "name": "HipadX",
@@ -30632,6 +30682,20 @@
    "brand": "Chuwi",
    "name": "HipadX_ru",
    "device": "HipadX"
+  }
+ ],
+ "HiPadX": [
+  {
+   "brand": "Chuwi",
+   "name": "HiPadX_11",
+   "device": "HiPadX"
+  }
+ ],
+ "HiPad Pro": [
+  {
+   "brand": "Chuwi",
+   "name": "HiPad_Pro",
+   "device": "CH108Q"
   }
  ],
  "Surpad": [
@@ -30894,6 +30958,13 @@
    "brand": "Claro",
    "name": "SEI810CPR",
    "device": "SEI810CPR"
+  }
+ ],
+ "S4KW3": [
+  {
+   "brand": "Claro",
+   "name": "S4KW3",
+   "device": "m393_4l"
   }
  ],
  "CLEMPAD_2018": [
@@ -46205,6 +46276,13 @@
    "device": "E0117"
   }
  ],
+ "E0120": [
+  {
+   "brand": "Everis",
+   "name": "E0120",
+   "device": "E0120"
+  }
+ ],
  "EW2010": [
   {
    "brand": "Everpad",
@@ -47503,6 +47581,13 @@
    "brand": "FOXXD",
    "name": "MIRO",
    "device": "L590A"
+  }
+ ],
+ "T8A": [
+  {
+   "brand": "FOXXD",
+   "name": "T8A",
+   "device": "T8A"
   }
  ],
  "FPT ATV Play Box": [
@@ -121630,6 +121715,13 @@
    "device": "HotahOTG_V"
   }
  ],
+ "MobiPrint4_Plus": [
+  {
+   "brand": "MobiIoT",
+   "name": "MobiPrint4_Plus",
+   "device": "MobiPrint4_Plus"
+  }
+ ],
  "MobiGo2": [
   {
    "brand": "MobiIoT",
@@ -122068,28 +122160,6 @@
    "brand": "Mobicell",
    "name": "R1Plus",
    "device": "R1PLUS_1"
-  }
- ],
- "R4": [
-  {
-   "brand": "Mobicell",
-   "name": "R4",
-   "device": "R4"
-  },
-  {
-   "brand": "Motorola",
-   "name": "Android TV",
-   "device": "R4"
-  },
-  {
-   "brand": "Nokia",
-   "name": "Android TV",
-   "device": "R4"
-  },
-  {
-   "brand": "Nokia",
-   "name": "R4",
-   "device": "R4"
   }
  ],
  "R4 LTE": [
@@ -140926,6 +140996,11 @@
    "device": "R2"
   },
   {
+   "brand": "Panasonic",
+   "name": "Android TV",
+   "device": "R4"
+  },
+  {
    "brand": "TCL",
    "name": "Percee TV",
    "device": "tcl_eu"
@@ -149137,6 +149212,11 @@
    "brand": "Pritom",
    "name": "L8_A01",
    "device": "L8_A01"
+  },
+  {
+   "brand": "Pritom",
+   "name": "L8_A01_EEA",
+   "device": "L8_A01_EEA"
   }
  ],
  "L8_A02": [
@@ -152545,6 +152625,11 @@
    "brand": "Realme",
    "name": "realme C20",
    "device": "RMX3063"
+  },
+  {
+   "brand": "realme",
+   "name": "realme C20",
+   "device": "RMX3063"
   }
  ],
  "RMX3231": [
@@ -152925,6 +153010,11 @@
  "RMX3061": [
   {
    "brand": "Realme",
+   "name": "realme C20",
+   "device": "RMX3061"
+  },
+  {
+   "brand": "realme",
    "name": "realme C20",
    "device": "RMX3061"
   }
@@ -153314,13 +153404,6 @@
    "device": "RMX2052CN"
   }
  ],
- "RMX3115": [
-  {
-   "brand": "Realme",
-   "name": "realme X7Pro Ultra",
-   "device": "RMX3115CN"
-  }
- ],
  "RMX2176": [
   {
    "brand": "Realme",
@@ -153364,6 +153447,11 @@
  "RMX3171": [
   {
    "brand": "Realme",
+   "name": "realme narzo 30A",
+   "device": "RMX3171"
+  },
+  {
+   "brand": "realme",
    "name": "realme narzo 30A",
    "device": "RMX3171"
   }
@@ -180303,6 +180391,11 @@
    "brand": "Sky Devices",
    "name": "Elite D55",
    "device": "Elite_D55"
+  },
+  {
+   "brand": "Sky Devices",
+   "name": "Elite_D55",
+   "device": "Elite_D55"
   }
  ],
  "Elite D5Max": [
@@ -187663,6 +187756,13 @@
    "brand": "Symphony",
    "name": "ATOM",
    "device": "ATOM"
+  }
+ ],
+ "Allegro": [
+  {
+   "brand": "Symphony",
+   "name": "Allegro",
+   "device": "RFIP_ST4K_2"
   }
  ],
  "Symphony Atom ii": [
@@ -200326,6 +200426,13 @@
    "brand": "Teclast",
    "name": "P25_RUS",
    "device": "P25_RUS"
+  }
+ ],
+ "P30HD": [
+  {
+   "brand": "Teclast",
+   "name": "P30HD_ROW",
+   "device": "P30HD"
   }
  ],
  "P80X": [
@@ -235916,6 +236023,20 @@
    "brand": "realme",
    "name": "realme X50 Pro Play",
    "device": "RMX2072CN"
+  }
+ ],
+ "RMX3115": [
+  {
+   "brand": "realme",
+   "name": "realme X7Pro Ultra",
+   "device": "RMX3115CN"
+  }
+ ],
+ "RMX2161": [
+  {
+   "brand": "realme",
+   "name": "realme narzo 20 Pro",
+   "device": "RMX2161L1"
   }
  ],
  "RMX3310": [

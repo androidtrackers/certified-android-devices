@@ -3851,6 +3851,11 @@
    "device": "R2",
    "name": "Android TV",
    "model": "ATV R2"
+  },
+  {
+   "device": "R4",
+   "name": "Android TV",
+   "model": "R4"
   }
  ],
  "Aligator": [
@@ -16662,6 +16667,11 @@
    "model": "M8L"
   },
   {
+   "device": "M0220WW",
+   "name": "M8L 2022",
+   "model": "M8L 2022"
+  },
+  {
    "device": "M0209WW",
    "name": "M8L PLUS",
    "model": "M8L PLUS"
@@ -19249,6 +19259,11 @@
    "model": "ATV R2"
   },
   {
+   "device": "R4",
+   "name": "Android TV",
+   "model": "R4"
+  },
+  {
    "device": "CASPER_L10_4_5G",
    "name": "CASPER_L10_4_5G",
    "model": "CASPER_L10_4.5G"
@@ -21058,6 +21073,11 @@
   },
   {
    "device": "HiPadX",
+   "name": "HiPadX-1_EEA",
+   "model": "HiPad X"
+  },
+  {
+   "device": "HiPadX",
    "name": "HiPadX_11",
    "model": "HiPadX"
   },
@@ -21274,6 +21294,11 @@
    "device": "SEI810CPR",
    "name": "Claro STB",
    "model": "Claro STB"
+  },
+  {
+   "device": "m393_4l",
+   "name": "S4KW3",
+   "model": "S4KW3"
   },
   {
    "device": "SEI810CPR",
@@ -30792,6 +30817,18 @@
    "model": "DC-M700"
   }
  ],
+ "EVVO": [
+  {
+   "device": "R1",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
+  }
+ ],
  "EWIS": [
   {
    "device": "OCTA-T700M",
@@ -32651,6 +32688,11 @@
    "device": "E0117",
    "name": "E0117",
    "model": "E0117"
+  },
+  {
+   "device": "E0120",
+   "name": "E0120",
+   "model": "E0120"
   }
  ],
  "Everpad": [
@@ -33592,6 +33634,11 @@
    "device": "T8",
    "name": "T8",
    "model": "T8"
+  },
+  {
+   "device": "T8A",
+   "name": "T8A",
+   "model": "T8A"
   }
  ],
  "FPT Telecom": [
@@ -90086,6 +90133,11 @@
    "model": "HotahOTG"
   },
   {
+   "device": "MobiPrint4_Plus",
+   "name": "MobiPrint4_Plus",
+   "model": "MobiPrint4_Plus"
+  },
+  {
    "device": "MobiGo2",
    "name": "Mobigo2",
    "model": "MobiGo2"
@@ -96944,6 +96996,16 @@
   }
  ],
  "NGM Italia SRL": [
+  {
+   "device": "R1",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
   {
    "device": "DynamicNow",
    "name": "Danamic Now",
@@ -105456,6 +105518,11 @@
    "model": "PANASONIC TV"
   },
   {
+   "device": "R4",
+   "name": "Android TV",
+   "model": "PANASONIC TV"
+  },
+  {
    "device": "globe_ap",
    "name": "Asia",
    "model": "PanasonicTV"
@@ -111855,6 +111922,11 @@
    "model": "L8"
   },
   {
+   "device": "L8_A01_EEA",
+   "name": "L8_A01_EEA",
+   "model": "L8"
+  },
+  {
    "device": "L8_A02",
    "name": "L8_A02",
    "model": "L8_A02"
@@ -115164,11 +115236,6 @@
    "device": "RMX3092L1",
    "name": "realme X7 5G",
    "model": "RMX3092"
-  },
-  {
-   "device": "RMX3115CN",
-   "name": "realme X7Pro Ultra",
-   "model": "RMX3115"
   },
   {
    "device": "RMX2176CN",
@@ -135597,6 +135664,11 @@
    "model": "Elite D5"
   },
   {
+   "device": "Elite_D55",
+   "name": "Elite_D55",
+   "model": "Elite_D55"
+  },
+  {
    "device": "Elite_H55",
    "name": "Elite_H55",
    "model": "Elite H55"
@@ -141331,6 +141403,11 @@
    "device": "ATOM",
    "name": "ATOM",
    "model": "ATOM"
+  },
+  {
+   "device": "RFIP_ST4K_2",
+   "name": "Allegro",
+   "model": "Allegro"
   },
   {
    "device": "Atom_ii",
@@ -150937,6 +151014,11 @@
    "device": "P25_RUS",
    "name": "P25_RUS",
    "model": "P25_RUS"
+  },
+  {
+   "device": "P30HD",
+   "name": "P30HD_ROW",
+   "model": "P30HD"
   },
   {
    "device": "P80X",
@@ -179825,6 +179907,16 @@
    "model": "RMX2195"
   },
   {
+   "device": "RMX3061",
+   "name": "realme C20",
+   "model": "RMX3061"
+  },
+  {
+   "device": "RMX3063",
+   "name": "realme C20",
+   "model": "RMX3063"
+  },
+  {
    "device": "RMX3261",
    "name": "realme C21 Y",
    "model": "RMX3261"
@@ -179883,6 +179975,21 @@
    "device": "RMX2072CN",
    "name": "realme X50 Pro Play",
    "model": "RMX2072"
+  },
+  {
+   "device": "RMX3115CN",
+   "name": "realme X7Pro Ultra",
+   "model": "RMX3115"
+  },
+  {
+   "device": "RMX2161L1",
+   "name": "realme narzo 20 Pro",
+   "model": "RMX2161"
+  },
+  {
+   "device": "RMX3171",
+   "name": "realme narzo 30A",
+   "model": "RMX3171"
   },
   {
    "device": "RED8AF",

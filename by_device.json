@@ -4019,6 +4019,11 @@
    "model": "ATV R1"
   },
   {
+   "brand": "EVVO",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
    "brand": "Erito",
    "name": "Android TV",
    "model": "ATV R1"
@@ -4095,6 +4100,11 @@
   },
   {
    "brand": "Mystic",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "NGM Italia SRL",
    "name": "Android TV",
    "model": "ATV R1"
   },
@@ -4231,6 +4241,11 @@
    "model": "ATV R2"
   },
   {
+   "brand": "EVVO",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
    "brand": "EssentielB",
    "name": "Android TV",
    "model": "ATV R2"
@@ -4297,6 +4312,11 @@
   },
   {
    "brand": "Mystic",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "NGM Italia SRL",
    "name": "Android TV",
    "model": "ATV R2"
   },
@@ -8050,6 +8070,43 @@
    "brand": "Algar",
    "name": "GIU6770",
    "model": "GIU6770"
+  }
+ ],
+ "R4": [
+  {
+   "brand": "Alhafidh",
+   "name": "Android TV",
+   "model": "R4"
+  },
+  {
+   "brand": "Casper",
+   "name": "Android TV",
+   "model": "R4"
+  },
+  {
+   "brand": "Mobicell",
+   "name": "R4",
+   "model": "R4"
+  },
+  {
+   "brand": "Motorola",
+   "name": "Android TV",
+   "model": "R4"
+  },
+  {
+   "brand": "Nokia",
+   "name": "Android TV",
+   "model": "R4"
+  },
+  {
+   "brand": "Nokia",
+   "name": "R4",
+   "model": "R4"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "Android TV",
+   "model": "PANASONIC TV"
   }
  ],
  "ALIGATOR_RX800": [
@@ -26668,6 +26725,13 @@
    "model": "M8L"
   }
  ],
+ "M0220WW": [
+  {
+   "brand": "Blu",
+   "name": "M8L 2022",
+   "model": "M8L 2022"
+  }
+ ],
  "M0209WW": [
   {
    "brand": "Blu",
@@ -32515,6 +32579,11 @@
  "HiPadX": [
   {
    "brand": "Chuwi",
+   "name": "HiPadX-1_EEA",
+   "model": "HiPad X"
+  },
+  {
+   "brand": "Chuwi",
    "name": "HiPadX_11",
    "model": "HiPadX"
   }
@@ -32845,6 +32914,13 @@
    "brand": "Claro",
    "name": "SEI810CPR",
    "model": "Claro STB"
+  }
+ ],
+ "m393_4l": [
+  {
+   "brand": "Claro",
+   "name": "S4KW3",
+   "model": "S4KW3"
   }
  ],
  "CLEMPAD_2018": [
@@ -48552,6 +48628,13 @@
    "model": "E0117"
   }
  ],
+ "E0120": [
+  {
+   "brand": "Everis",
+   "name": "E0120",
+   "model": "E0120"
+  }
+ ],
  "EW2010": [
   {
    "brand": "Everpad",
@@ -49856,6 +49939,13 @@
    "brand": "FOXXD",
    "name": "MIRO",
    "model": "L590A"
+  }
+ ],
+ "T8A": [
+  {
+   "brand": "FOXXD",
+   "name": "T8A",
+   "model": "T8A"
   }
  ],
  "DV8236": [
@@ -119184,6 +119274,13 @@
    "model": "HotahOTG"
   }
  ],
+ "MobiPrint4_Plus": [
+  {
+   "brand": "MobiIoT",
+   "name": "MobiPrint4_Plus",
+   "model": "MobiPrint4_Plus"
+  }
+ ],
  "MobiGo2": [
   {
    "brand": "MobiIoT",
@@ -119645,28 +119742,6 @@
    "brand": "Mobicell",
    "name": "R1Plus",
    "model": "R1PLUS_1"
-  }
- ],
- "R4": [
-  {
-   "brand": "Mobicell",
-   "name": "R4",
-   "model": "R4"
-  },
-  {
-   "brand": "Motorola",
-   "name": "Android TV",
-   "model": "R4"
-  },
-  {
-   "brand": "Nokia",
-   "name": "Android TV",
-   "model": "R4"
-  },
-  {
-   "brand": "Nokia",
-   "name": "R4",
-   "model": "R4"
   }
  ],
  "R4_LTE": [
@@ -145829,6 +145904,13 @@
    "model": "L8"
   }
  ],
+ "L8_A01_EEA": [
+  {
+   "brand": "Pritom",
+   "name": "L8_A01_EEA",
+   "model": "L8"
+  }
+ ],
  "L8_A02": [
   {
    "brand": "Pritom",
@@ -149083,6 +149165,11 @@
    "brand": "Realme",
    "name": "realme C20",
    "model": "RMX3063"
+  },
+  {
+   "brand": "realme",
+   "name": "realme C20",
+   "model": "RMX3063"
   }
  ],
  "RMX3231": [
@@ -149459,6 +149546,11 @@
  "RMX3061": [
   {
    "brand": "Realme",
+   "name": "realme C20",
+   "model": "RMX3061"
+  },
+  {
+   "brand": "realme",
    "name": "realme C20",
    "model": "RMX3061"
   }
@@ -149866,13 +149958,6 @@
    "model": "RMX3092"
   }
  ],
- "RMX3115CN": [
-  {
-   "brand": "Realme",
-   "name": "realme X7Pro Ultra",
-   "model": "RMX3115"
-  }
- ],
  "RMX2176CN": [
   {
    "brand": "Realme",
@@ -149911,6 +149996,11 @@
  "RMX3171": [
   {
    "brand": "Realme",
+   "name": "realme narzo 30A",
+   "model": "RMX3171"
+  },
+  {
+   "brand": "realme",
    "name": "realme narzo 30A",
    "model": "RMX3171"
   }
@@ -174931,6 +175021,11 @@
    "brand": "Sky Devices",
    "name": "Elite D55",
    "model": "Elite_D55"
+  },
+  {
+   "brand": "Sky Devices",
+   "name": "Elite_D55",
+   "model": "Elite_D55"
   }
  ],
  "Elite_D5Max": [
@@ -182423,6 +182518,13 @@
    "brand": "Symphony",
    "name": "ATOM",
    "model": "ATOM"
+  }
+ ],
+ "RFIP_ST4K_2": [
+  {
+   "brand": "Symphony",
+   "name": "Allegro",
+   "model": "Allegro"
   }
  ],
  "Atom_ii": [
@@ -192611,6 +192713,13 @@
    "brand": "Teclast",
    "name": "P25_RUS",
    "model": "P25_RUS"
+  }
+ ],
+ "P30HD": [
+  {
+   "brand": "Teclast",
+   "name": "P30HD_ROW",
+   "model": "P30HD"
   }
  ],
  "P80X": [
@@ -225649,6 +225758,20 @@
    "brand": "realme",
    "name": "realme X50 Pro Play",
    "model": "RMX2072"
+  }
+ ],
+ "RMX3115CN": [
+  {
+   "brand": "realme",
+   "name": "realme X7Pro Ultra",
+   "model": "RMX3115"
+  }
+ ],
+ "RMX2161L1": [
+  {
+   "brand": "realme",
+   "name": "realme narzo 20 Pro",
+   "model": "RMX2161"
   }
  ],
  "RE5471": [
