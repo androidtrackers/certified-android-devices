@@ -32725,6 +32725,11 @@
    "model": "E0117"
   },
   {
+   "device": "E0118",
+   "name": "E0118",
+   "model": "E0118"
+  },
+  {
    "device": "E0120",
    "name": "E0120",
    "model": "E0120"
@@ -102517,6 +102522,11 @@
    "device": "FIND5",
    "name": "Find 5",
    "model": "X909"
+  },
+  {
+   "device": "OP4E75L1",
+   "name": "Find N",
+   "model": "PEUM00"
   },
   {
    "device": "CPH1871",

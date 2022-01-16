@@ -53004,6 +53004,13 @@
    "model": "E0117"
   }
  ],
+ "E0118": [
+  {
+   "brand": "Everis",
+   "device": "E0118",
+   "model": "E0118"
+  }
+ ],
  "E0120": [
   {
    "brand": "Everis",
@@ -134459,6 +134466,13 @@
    "brand": "Oppo",
    "device": "FIND5",
    "model": "X909"
+  }
+ ],
+ "Find N": [
+  {
+   "brand": "Oppo",
+   "device": "OP4E75L1",
+   "model": "PEUM00"
   }
  ],
  "Find X": [

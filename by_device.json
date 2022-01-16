@@ -48678,6 +48678,13 @@
    "model": "E0117"
   }
  ],
+ "E0118": [
+  {
+   "brand": "Everis",
+   "name": "E0118",
+   "model": "E0118"
+  }
+ ],
  "E0120": [
   {
    "brand": "Everis",
@@ -134331,6 +134338,13 @@
    "brand": "Oppo",
    "name": "X909",
    "model": "X909"
+  }
+ ],
+ "OP4E75L1": [
+  {
+   "brand": "Oppo",
+   "name": "Find N",
+   "model": "PEUM00"
   }
  ],
  "CPH1871": [

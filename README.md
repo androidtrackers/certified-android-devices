@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-01-15
+Last sync is 2022-01-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6305,6 +6305,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Everis|E0115|E0115|E0115|
 |Everis|E0116|E0116|E0116|
 |Everis|E0117|E0117|E0117|
+|Everis|E0118|E0118|E0118|
 |Everis|E0120|E0120|E0120|
 |Everpad|EW2010|EW2010|EW2010|
 |Everpad|EW2020|EW2020|EW2020|
@@ -19939,6 +19940,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|F9|CPH1825|CPH1825|
 |Oppo|F9|CPH1881|CPH1881|
 |Oppo|Find 5|FIND5|X909|
+|Oppo|Find N|OP4E75L1|PEUM00|
 |Oppo|Find X|CPH1871|CPH1871|
 |Oppo|Find X|CPH1875|CPH1875|
 |Oppo|Find X|PAFM00|PAFM00|
