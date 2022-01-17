@@ -299,6 +299,11 @@
    "model": "TK801"
   },
   {
+   "device": "TK806",
+   "name": "TK806",
+   "model": "TK806"
+  },
+  {
    "device": "TP1001",
    "name": "TP1001",
    "model": "TP1001"

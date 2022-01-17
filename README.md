@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-01-16
+Last sync is 2022-01-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -57,6 +57,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AEEZO|TK701|TK701|TK701|
 |AEEZO|TK701_EEA|TK701_EEA|TK701_EEA|
 |AEEZO|TK801|TK801|TK801|
+|AEEZO|TK806|TK806|TK806|
 |AEEZO|TP1001|TP1001|TP1001|
 |AEEZO|TP901|TP901|TP901|
 |AG Mobile|AG BOOST 2|BOOST2|E4010|
