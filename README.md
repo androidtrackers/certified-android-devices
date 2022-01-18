@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-01-17
+Last sync is 2022-01-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -109,6 +109,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AKOR|TG996|TG996|TG996|
 |ALBADEEL|B725050U|samseong|AI PONT|
 |ALBADEEL|B725U|ikebukuro|AI PONT|
+|ALBADEEL|Smart TV|redwood|AI PONT|
 |ALMATEEN|LXL43G7H-AT|samseong|AI PONT|
 |ALPHA_LING|A97GT|A97GT|A97GT|
 |AMTC|MD1001 Tablet|MD1001|MD1001|
@@ -3122,6 +3123,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|C5L|C0040LL|C5L|
 |Blu|C5L|C0050|C5L|
 |Blu|C5L|C0051LL|C5L|
+|Blu|C5L|C017U|C5L|
 |Blu|C5L 2020|C0070WW|C5L 2020|
 |Blu|C5L 2021|C0100TT|C5L 2021|
 |Blu|C5L 2021|C0110WW|C5L 2021|
@@ -4712,6 +4714,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Crosscall|Core-M5|L751_02|Core-M5|
 |Crosscall|Core-T4|L810|Core-T4|
 |Crosscall|Core-X4|L762|Core-X4|
+|Crosscall|Core-X4 Neo|L770|Core-X4 Neo|
 |Crosscall|ODYSSEY|ODYSSEY3G|ODYSSEY|
 |Crosscall|TREKKER- X3|HS8952QC|TREKKER-X3|
 |Crosscall|TREKKER-M1 CORE|HS8909QC|TREKKER-M1 CORE|
@@ -7000,6 +7003,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-TOUCH|Stella X Plus|Stella_X_Plus|Stella X Plus|
 |G-TOUCH|Stella XS|Stella_XS|Stella XS|
 |G-TOUCH|Stella_Omega|Stella_Omega|Stella Omega|
+|G-Tab|C10_1|C10_1|C10|
+|G-Tab|C20|C20|C20|
 |G-Tab|C3|C3|C3|
 |G-Tab|C9|C9|C9|
 |G-Tab|F1|F1|F1|
@@ -7029,6 +7034,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Tab|S20|S20|S20|
 |G-Tab|S3|S3|S3|
 |G-Tab|S8|S8|S8|
+|G-Tab|S8K_1|S8K_1|S8K|
 |G-Tab|S8X|S8X|S8X|
 |G-TiDE|EX750|EX750|EX750|
 |G-TiDE|EXTREME X9|EXTREME_X9|EXTREME X9|
@@ -7696,6 +7702,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Grundig|TC69CA2|GTB801|GTB 801|
 |Grunhelm|GT9HD32|ikebukuro|AI PONT|
 |Grunhelm|GT9UHD|samseong|AI PONT|
+|Grunhelm|Smart TV|longshan|AI PONT|
 |Grunkel|Spain|tamachi|GRUNKEL FHD Android TV|
 |Grunkel|Spain|yeongdeungpo|GRUNKEL UHD Android TV|
 |Gryphon|Veil|granite|Veil|
@@ -9189,6 +9196,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense E20|HLTE103E_23|Hisense E20|
 |Hisense|Hisense E20|HLTE103E_24|HLTE103E E20|
 |Hisense|Hisense E20|HLTE103E_24|Hisense E20|
+|Hisense|Hisense E20S|HLTE103E_40|Hisense E20s|
 |Hisense|Hisense E20s|HLTE103E_41|Hisense E20s|
 |Hisense|Hisense E30|HS6763MT|HLTE220E|
 |Hisense|Hisense E30|HS6763MT|Hisense E30|
@@ -9219,6 +9227,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense E50 Lite|HLTE228E_12|Hisense E50 Lite|
 |Hisense|Hisense E50 Lite|HLTE228E_14|Hisense E50 Lite|
 |Hisense|Hisense E50 Lite 64G|HLTE228E_20|Hisense E50 Lite 64GB|
+|Hisense|Hisense E60 Lite|HLTE235E|Hisense E60 Lite|
 |Hisense|Hisense E76MINIM|HS8937QC|Hisense E76MINIM|
 |Hisense|Hisense E77|HS8937QC|Hisense E77|
 |Hisense|Hisense F15|HS6739MT|Hisense F15|
@@ -9257,6 +9266,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense Infinity H50 Lite|HLTE233E|Hisense Infinity H50 Lite|
 |Hisense|Hisense Infinity H50 Lite|HLTE233E_01|Hisense Infinity H50 Lite|
 |Hisense|Hisense Infinity H50 ZOOM|HLTE234E|Hisense Infinity H50 ZOOM|
+|Hisense|Hisense Infinity H50S 5G|HNR500E|Hisense Infinity H50S 5G|
+|Hisense|Hisense Infinity H60 5G|HNR510E|Hisense Infinity H60 5G|
 |Hisense|Hisense M36|HS8909QC|Hisense M36|
 |Hisense|Hisense P1|HS8953QC|Hisense P1|
 |Hisense|Hisense T17|HS6580MT|Hisense T17|
@@ -9266,6 +9277,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U3 2021|HLTE100E_20|Hisense U3 2021|
 |Hisense|Hisense U3 2021|HLTE100E_21|Hisense U3 2021|
 |Hisense|Hisense U3 2021|HLTE100E_22|Hisense U3 2021|
+|Hisense|Hisense U30|HLTE106E_30|Hisense U30|
+|Hisense|Hisense U30|HLTE106E_31|Hisense U30|
 |Hisense|Hisense U30 32GB|HLTE106E_40|Hisense U30 32GB|
 |Hisense|Hisense U30 32GB|HLTE106E_41|Hisense U30 32GB|
 |Hisense|Hisense U40|HLTE103E_30|Hisense U40|
@@ -9537,6 +9550,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|VIDAA_TV|MSD6A828|VIDAA_TV|
 |Hisense|VIDAA_TV|MSD6A838|VIDAA_TV|
 |Hisense|VIDAA_TV|MSD6A938|VIDAA_TV|
+|Hisense|VIDAA_TV|MT9669|VIDAA_TV|
 |Hisense|VIDAA_TV|MTK9255|VIDAA_TV|
 |Hisense|VIDAA_TV|MTK9632|VIDAA_TV|
 |Hisense|VIDAA_TV|MTK9638|VIDAA_TV|
@@ -11957,6 +11971,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|SMART|Infinix-X657B|Infinix X657B|
 |Infinix|SMART 5|Infinix-X657C|Infinix X657C|
 |Infinix|SMART 5(SMART 6)|Infinix-X657B|Infinix X657B|
+|Infinix|SMART 6|Infinix-X6511E|Infinix X6511E|
 |Infinix|SMART HD|Infinix-X612|Infinix X612|
 |Infinix|SMART HD|Infinix-X612B|Infinix X612B|
 |Infinix|SURF 2|INFINIX_X511|Infinix X511|
@@ -19609,6 +19624,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 8|OnePlus8Visible|IN2015|
 |OnePlus|OnePlus 8 5G|OnePlus8TMO|IN2017|
 |OnePlus|OnePlus 8 5G UW|OnePlus8VZW|IN2019|
+|OnePlus|OnePlus 8 Pro|OnePlus8Pro|IN2020|
 |OnePlus|OnePlus 8 Pro|OnePlus8Pro|IN2023|
 |OnePlus|OnePlus 8T|OnePlus8T|KB2000|
 |OnePlus|OnePlus 8T|OnePlus8T|KB2005|
@@ -20447,6 +20463,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PCD Argentina|PL571|PL571|PL571|
 |PCD Argentina|PL571US|PL571US|PL571US|
 |PCD Argentina|PL620|PL620|PL620|
+|PEAQ|PET-101-F464S|PET-101-F464S|PET-101-F464S|
+|PEAQ|PET-101-H332S-W|PET-101-H332S-W|PET 101-H332S-W|
 |PEAQ|PET-1081-H232S|PET-1081-H232S|PET 1081-H232S|
 |PEAQ|PET-1081-LH332S|PET-1081-LH332S|PET 1081-LH332S|
 |PERSONA|MyTab_A8|MyTab_A8|MyTab_A8|
@@ -22682,6 +22700,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rhino|M10p_001|Rhino_M10p|M10p|
 |Rhino|T8|Rhino_T8|T8|
 |Rindo|R-32B6600|ikebukuro|AI PONT|
+|Rindo|Smart TV|samseong|AI PONT|
 |Rinno|R455|R455|R455|
 |Rinno|R505|Rinno_R505|R505|
 |Rinno|R520|R520|R520|
@@ -29481,6 +29500,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P25_RUS|P25_RUS|P25_RUS|
 |Teclast|P30HD|P30HD|P30HD|
 |Teclast|P30HD_ROW|P30HD|P30HD|
+|Teclast|P30HD_RU|P30HD|P30HD|
 |Teclast|P80X|P80X|P80X|
 |Teclast|P80X_EEA|P80X|P80X|
 |Teclast|P80X_EEA|P80X|P80X_EEA|
@@ -30271,6 +30291,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |UNITED TV|LED32HS72A9|ikebukuro|AI PONT|
 |UNITED TV|UNITED|gangbyeon|4K AI Smart TV|
 |UNITED TV|UNITED|osaki|2K AI Smart TV|
+|UNIWA|M101|M101|M101|
 |UNIWA|M101|M101|UNIWA M101|
 |UNNIC|UC_TK03|UC_TK03|UC_TK03|
 |UNOCP|Premier|Premier|Premier|
@@ -30401,6 +30422,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ultimate|Ultimate FU|Ultimate_FU|Ultimate FU|
 |Umax|10A_3G|10A_3G|10A_3G|
 |Umax|10A_LTE_eea|10A_LTE|10A_LTE_eea|
+|Umax|10C-LTE-A11|10C-LTE-A11|10C-LTE-A11|
 |Umax|10C-PRO-LTE|10C-PRO-LTE|10C-PRO-LTE|
 |Umax|10C_LTE|10C_LTE|10C_LTE|
 |Umax|10L-PLUS|10L-PLUS|10L-PLUS|
@@ -30575,6 +30597,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Uphone|SPURT R3|SPURT_R3|SPURT R3|
 |Upserve|5-Inches|5-Inches|5-Inches|
 |Urovo|DT20|SQ57|DT20|
+|Urovo|DT20 Pro|SQ57S|DT20_Pro|
 |Urovo|DT20_EEA|SQ57|DT20|
 |Urovo|DT20_RU|SQ57|DT20|
 |Urovo|DT40|DT40|DT40|
@@ -31339,6 +31362,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2129|2129|V2129|
 |Vivo|V2130A|PD2130|V2130A|
 |Vivo|V2131|2131|V2131|
+|Vivo|V2131|2131|V2140|
 |Vivo|V2131A|PD2131|V2131A|
 |Vivo|V2132|2132|V2132|
 |Vivo|V2132A|PD2134|V2132A|
@@ -31353,8 +31377,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2139|2120|V2139|
 |Vivo|V2140A|PD2140|V2140A|
 |Vivo|V2141A|PD2141|V2141A|
+|Vivo|V2143|2135|V2143|
 |Vivo|V2143A|PD2143|V2143A|
 |Vivo|V2145A|PD2145|V2145A|
+|Vivo|V2146|2135|V2146|
 |Vivo|V2148A|PD2148|V2148A|
 |Vivo|V2154A|PD2154|V2154A|
 |Vivo|V2156A|PD2156|V2156A|
@@ -31934,6 +31960,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Westinghouse|WH10S9863232|WH10S9863232|WH10S9863232|
 |Westinghouse|West|ueno|2K Android TV|
 |Wexler|WLT710M|WLT710M|WLT710M|
+|Wibox|WiBox.tv V3|WiBox-tv|WiBox.tv V3|
 |Wibox|WiboxTv|dtiw384wb|m384wb|
 |Widevu|Korea|yeongdeungpo|Widevu UHD Android TV|
 |Wieppo|Wieppo E1|Wieppo_E1|Wieppo E1|
@@ -35122,6 +35149,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我GT 2|RE5471|RMX3310|
 |realme|真我GT 2|RE58B2L1|RMX3311|
 |realme|真我GT 2|RE58B2L1|RMX3312|
+|realme|真我GT 2 Pro|RE547F|RMX3300|
+|realme|真我GT 2 Pro|RED8ACL1|RMX3301|
 |realme|真我GT Neo|RMX3031CN|RMX3031|
 |realme|真我Q3s|RE548B|RMX3461|
 |realme|真我Q3s|RE548B|RMX3462|

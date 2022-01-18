@@ -881,6 +881,11 @@
    "device": "ikebukuro"
   },
   {
+   "brand": "ALBADEEL",
+   "name": "Smart TV",
+   "device": "redwood"
+  },
+  {
    "brand": "ALMATEEN",
    "name": "LXL43G7H-AT",
    "device": "samseong"
@@ -1104,6 +1109,11 @@
    "brand": "Grunhelm",
    "name": "GT9UHD",
    "device": "samseong"
+  },
+  {
+   "brand": "Grunhelm",
+   "name": "Smart TV",
+   "device": "longshan"
   },
   {
    "brand": "HIMADE",
@@ -1364,6 +1374,11 @@
    "brand": "Rindo",
    "name": "R-32B6600",
    "device": "ikebukuro"
+  },
+  {
+   "brand": "Rindo",
+   "name": "Smart TV",
+   "device": "samseong"
   },
   {
    "brand": "Riviera",
@@ -23648,6 +23663,11 @@
    "brand": "Blu",
    "name": "C5L",
    "device": "C0051LL"
+  },
+  {
+   "brand": "Blu",
+   "name": "C5L",
+   "device": "C017U"
   }
  ],
  "C5L 2020": [
@@ -27426,6 +27446,11 @@
    "brand": "CORN",
    "name": "CORN C10",
    "device": "CORN_C10"
+  },
+  {
+   "brand": "G-Tab",
+   "name": "C10_1",
+   "device": "C10_1"
   },
   {
    "brand": "Oukitel",
@@ -35120,6 +35145,13 @@
    "device": "L762"
   }
  ],
+ "Core-X4 Neo": [
+  {
+   "brand": "Crosscall",
+   "name": "Core-X4 Neo",
+   "device": "L770"
+  }
+ ],
  "ODYSSEY": [
   {
    "brand": "Crosscall",
@@ -35255,6 +35287,11 @@
  "C20": [
   {
    "brand": "Cubot",
+   "name": "C20",
+   "device": "C20"
+  },
+  {
+   "brand": "G-Tab",
    "name": "C20",
    "device": "C20"
   },
@@ -51652,6 +51689,13 @@
    "device": "Q7"
   }
  ],
+ "S8K": [
+  {
+   "brand": "G-Tab",
+   "name": "S8K_1",
+   "device": "S8K_1"
+  }
+ ],
  "S8X": [
   {
    "brand": "G-Tab",
@@ -66389,6 +66433,11 @@
  "Hisense E20s": [
   {
    "brand": "Hisense",
+   "name": "Hisense E20S",
+   "device": "HLTE103E_40"
+  },
+  {
+   "brand": "Hisense",
    "name": "Hisense E20s",
    "device": "HLTE103E_41"
   }
@@ -66534,6 +66583,13 @@
    "brand": "Hisense",
    "name": "Hisense E50 Lite 64G",
    "device": "HLTE228E_20"
+  }
+ ],
+ "Hisense E60 Lite": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense E60 Lite",
+   "device": "HLTE235E"
   }
  ],
  "Hisense E76MINIM": [
@@ -66789,6 +66845,20 @@
    "device": "HLTE234E"
   }
  ],
+ "Hisense Infinity H50S 5G": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense Infinity H50S 5G",
+   "device": "HNR500E"
+  }
+ ],
+ "Hisense Infinity H60 5G": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense Infinity H60 5G",
+   "device": "HNR510E"
+  }
+ ],
  "Hisense M36": [
   {
    "brand": "Hisense",
@@ -66853,6 +66923,23 @@
    "device": "HLTE100E_22"
   }
  ],
+ "Hisense U30": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U30",
+   "device": "HLTE106E_30"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense U30",
+   "device": "HLTE106E_31"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense U605",
+   "device": "HS7731ESP"
+  }
+ ],
  "Hisense U30 32GB": [
   {
    "brand": "Hisense",
@@ -66915,13 +67002,6 @@
   }
  ],
  "Hisense M50 Lite 2021": [
-  {
-   "brand": "Hisense",
-   "name": "Hisense U605",
-   "device": "HS7731ESP"
-  }
- ],
- "Hisense U30": [
   {
    "brand": "Hisense",
    "name": "Hisense U605",
@@ -68632,6 +68712,11 @@
    "brand": "Hisense",
    "name": "VIDAA_TV",
    "device": "MSD6A938"
+  },
+  {
+   "brand": "Hisense",
+   "name": "VIDAA_TV",
+   "device": "MT9669"
   },
   {
    "brand": "Hisense",
@@ -84663,6 +84748,13 @@
    "brand": "Infinix",
    "name": "SMART 5",
    "device": "Infinix-X657C"
+  }
+ ],
+ "Infinix X6511E": [
+  {
+   "brand": "Infinix",
+   "name": "SMART 6",
+   "device": "Infinix-X6511E"
   }
  ],
  "Infinix X612": [
@@ -134999,6 +135091,13 @@
    "device": "OnePlus8VZW"
   }
  ],
+ "IN2020": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 8 Pro",
+   "device": "OnePlus8Pro"
+  }
+ ],
  "IN2023": [
   {
    "brand": "OnePlus",
@@ -140532,6 +140631,20 @@
    "brand": "PCD Argentina",
    "name": "PL620",
    "device": "PL620"
+  }
+ ],
+ "PET-101-F464S": [
+  {
+   "brand": "PEAQ",
+   "name": "PET-101-F464S",
+   "device": "PET-101-F464S"
+  }
+ ],
+ "PET 101-H332S-W": [
+  {
+   "brand": "PEAQ",
+   "name": "PET-101-H332S-W",
+   "device": "PET-101-H332S-W"
   }
  ],
  "PET 1081-H232S": [
@@ -200650,6 +200763,11 @@
    "brand": "Teclast",
    "name": "P30HD_ROW",
    "device": "P30HD"
+  },
+  {
+   "brand": "Teclast",
+   "name": "P30HD_RU",
+   "device": "P30HD"
   }
  ],
  "P80X": [
@@ -205761,6 +205879,18 @@
    "device": "ZX_001"
   }
  ],
+ "M101": [
+  {
+   "brand": "UNIWA",
+   "name": "M101",
+   "device": "M101"
+  },
+  {
+   "brand": "iMuz",
+   "name": "M101",
+   "device": "G10"
+  }
+ ],
  "UNIWA M101": [
   {
    "brand": "UNIWA",
@@ -206543,6 +206673,13 @@
    "brand": "Umax",
    "name": "10A_LTE_eea",
    "device": "10A_LTE"
+  }
+ ],
+ "10C-LTE-A11": [
+  {
+   "brand": "Umax",
+   "name": "10C-LTE-A11",
+   "device": "10C-LTE-A11"
   }
  ],
  "10C-PRO-LTE": [
@@ -207533,6 +207670,13 @@
    "brand": "Urovo",
    "name": "DT20_RU",
    "device": "SQ57"
+  }
+ ],
+ "DT20_Pro": [
+  {
+   "brand": "Urovo",
+   "name": "DT20 Pro",
+   "device": "SQ57S"
   }
  ],
  "DT40": [
@@ -212454,6 +212598,13 @@
    "device": "2131"
   }
  ],
+ "V2140": [
+  {
+   "brand": "Vivo",
+   "name": "V2131",
+   "device": "2131"
+  }
+ ],
  "V2131A": [
   {
    "brand": "Vivo",
@@ -212508,6 +212659,11 @@
    "brand": "Vivo",
    "name": "V2135",
    "device": "2135"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2146",
+   "device": "2135"
   }
  ],
  "V2135A": [
@@ -212550,6 +212706,13 @@
    "brand": "Vivo",
    "name": "V2141A",
    "device": "PD2141"
+  }
+ ],
+ "V2143": [
+  {
+   "brand": "Vivo",
+   "name": "V2143",
+   "device": "2135"
   }
  ],
  "V2143A": [
@@ -216243,6 +216406,13 @@
    "brand": "Wexler",
    "name": "WLT710M",
    "device": "WLT710M"
+  }
+ ],
+ "WiBox.tv V3": [
+  {
+   "brand": "Wibox",
+   "name": "WiBox.tv V3",
+   "device": "WiBox-tv"
   }
  ],
  "Widevu UHD Android TV": [
@@ -235481,13 +235651,6 @@
    "device": "G10"
   }
  ],
- "M101": [
-  {
-   "brand": "iMuz",
-   "name": "M101",
-   "device": "G10"
-  }
- ],
  "RA10": [
   {
    "brand": "iMuz",
@@ -236373,6 +236536,20 @@
    "brand": "realme",
    "name": "真我GT 2",
    "device": "RE58B2L1"
+  }
+ ],
+ "RMX3300": [
+  {
+   "brand": "realme",
+   "name": "真我GT 2 Pro",
+   "device": "RE547F"
+  }
+ ],
+ "RMX3301": [
+  {
+   "brand": "realme",
+   "name": "真我GT 2 Pro",
+   "device": "RED8ACL1"
   }
  ],
  "RMX3461": [
