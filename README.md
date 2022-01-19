@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-01-18
+Last sync is 2022-01-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1154,6 +1154,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aqua|AQUA Android TV FF Pro|daan|AQUA Android TV FF Pro|
 |Aqua|AQUA android TV|hanyang|AQUA Android TV|
 |Aqua|S1 Jazz|S1_Jazz|S1 Jazz|
+|Arcelik|Arcelik Android TV|kunyang|Arcelik Android TV|
+|Arcelik|Arcelik UHD Android TV|kunyang|Arcelik Android UHD TV|
 |Arcelik|B55L 9682 5AS|arcelik_eu|arcelik_uhd_powermax_at|
 |Archos||A101S|ARCHOS 101G9|
 |Archos||A101S|Archos 101 Internet Tablet|
@@ -2696,8 +2698,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Beeline|Tab 2|Tab_2|Tab_2|
 |Beeline|Tab IS|Beeline_Tab_IS|Beeline_Tab_IS|
 |Beeline|Tab_Fast|Beeline_Tab_Fast|Beeline_Tab_Fast|
+|Beko|Beko Android TV|kunyang|Beko Android TV|
 |Beko|Beko Android TV|shinagawa|Beko Android TV|
 |Beko|Beko Android TV|sinchon|Beko Android TV|
+|Beko|Beko UHD Android TV|kunyang|Beko Android UHD TV|
 |Bell Canada|Bell Streamer|sti6130d324|Bell Streamer|
 |Bell Canada|FibeTV|vip7802_bell|FibeTV|
 |BenQ|730|redwood|AI PONT|
@@ -3188,6 +3192,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G6|G0210|G6|
 |Blu|G60|G0270WW|G60|
 |Blu|G61|G0450WW|G61|
+|Blu|G61S|G0630WW|G61S|
 |Blu|G70|G0151WW|G70|
 |Blu|G70|G0250WW|G70|
 |Blu|G70|G0251WW|G70|
@@ -5475,6 +5480,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Digma|Plane_7548S_4G_PS7160PL|PS7160PL|Plane_7548S_4G_PS7160PL|
 |Digma|Plane_8548S_3G|PS8161PG|Plane_8548S_3G_PS8161PG|
 |Digma|Plane_8549S_4G|PS8162PL|Plane_8549S_4G_PS8162PL|
+|Digma|RS1253PL|RS1253PL|PRO 1400E 4G RS1253PL|
 |Digma|TS1221PL|TS1221PL|Optima 10 A501S 4G TS1221PL|
 |Digma|TS1229PL|TS1229PL|Optima 10 Z802 4G TS1229PL|
 |Digma|TS7225PL|TS7225PL|Optima 7 Z800 4G TS7225PL|
@@ -7697,8 +7703,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Grundig|GTB1030|TA10CA2|TA10CA2|
 |Grundig|GTB1050|GTB1050|GTB 1050|
 |Grundig|GTB850|GTB850|GTB 850|
+|Grundig|Grundig Android TV|kunyang|Grundig Android TV|
 |Grundig|Grundig Android TV|shinagawa|Grundig Android TV|
 |Grundig|Grundig Android TV|sinchon|Grundig Android TV|
+|Grundig|Grundig UHD Android TV|kunyang|Grundig Android UHD TV|
 |Grundig|TC69CA2|GTB801|GTB 801|
 |Grunhelm|GT9HD32|ikebukuro|AI PONT|
 |Grunhelm|GT9UHD|samseong|AI PONT|
@@ -13388,6 +13396,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|DIGNO L|KYV36|KYV36|
 |Kyocera|DIGNO R|202K|202K|
 |Kyocera|DIGNO S|KYL21|KYL21|
+|Kyocera|DIGNO SX2|KY21L-ST100|KC-S302|
 |Kyocera|DIGNO T|302KC|302KC|
 |Kyocera|DIGNO Tab|KYT34|KYT34|
 |Kyocera|DIGNO V|KYV42|KYV42_u|
@@ -22566,6 +22575,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 10|sunny|M2101K7AI|
 |Redmi|Redmi Note 10 5G|camellian|M2103K19G|
 |Redmi|Redmi Note 10 JE|XIG02|XIG02|
+|Redmi|Redmi Note 10 Pro|chopin|21061110AG|
 |Redmi|Redmi Note 10 Pro|sweet|M2101K6G|
 |Redmi|Redmi Note 10 Pro|sweetin|M2101K6P|
 |Redmi|Redmi Note 10 Pro Max|sweetin|M2101K6I|
@@ -26622,6 +26632,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smart-Tech TV|France|tamachi|AiPlus2K|
 |Smart-Tech TV|Germany|yeongdeungpo|AiPlus4K|
 |Smart-Tech TV|SmartTech|yeongdeungpo|AiPlus4K|
+|SmartLabs|SML-5442TW|sml5442tw|SML-5442TW|
 |SmartPad|SM181301|SM181301|SM181301|
 |SmartPad|Smartpad V7|Smartpad-V7|Smartpad-V7|
 |SmartPad|Smartpad-V10|Smartpad-V10|Smartpad-V10|
@@ -29945,6 +29956,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telpo|M1|M1s|M1s|
 |Telus|HMB2213PW22TS|HMB2213PW22TS|HMB2213PW22TS|
 |Telus|Pik TV Media Box|HMB2213PW22TS|HMB2213PW22TS|
+|Telus|TELUSTV-21T|uiw4054tlu|TELUSTV-21T|
 |Teracube|Teracube 2e|Teracube_2e|Teracube 2e|
 |Teracube|Teracube_One|Teracube_One|Teracube One|
 |Tesco|Hudl 2|HTF8A4|Hudl 2|

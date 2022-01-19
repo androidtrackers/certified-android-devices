@@ -11658,6 +11658,38 @@
    "model": "S1 Jazz"
   }
  ],
+ "kunyang": [
+  {
+   "brand": "Arcelik",
+   "name": "Arcelik Android TV",
+   "model": "Arcelik Android TV"
+  },
+  {
+   "brand": "Arcelik",
+   "name": "Arcelik UHD Android TV",
+   "model": "Arcelik Android UHD TV"
+  },
+  {
+   "brand": "Beko",
+   "name": "Beko Android TV",
+   "model": "Beko Android TV"
+  },
+  {
+   "brand": "Beko",
+   "name": "Beko UHD Android TV",
+   "model": "Beko Android UHD TV"
+  },
+  {
+   "brand": "Grundig",
+   "name": "Grundig Android TV",
+   "model": "Grundig Android TV"
+  },
+  {
+   "brand": "Grundig",
+   "name": "Grundig UHD Android TV",
+   "model": "Grundig Android UHD TV"
+  }
+ ],
  "arcelik_eu": [
   {
    "brand": "Arcelik",
@@ -26395,6 +26427,13 @@
    "brand": "Blu",
    "name": "G61",
    "model": "G61"
+  }
+ ],
+ "G0630WW": [
+  {
+   "brand": "Blu",
+   "name": "G61S",
+   "model": "G61S"
   }
  ],
  "G0151WW": [
@@ -42884,6 +42923,13 @@
    "brand": "Digma",
    "name": "Plane_8549S_4G",
    "model": "Plane_8549S_4G_PS8162PL"
+  }
+ ],
+ "RS1253PL": [
+  {
+   "brand": "Digma",
+   "name": "RS1253PL",
+   "model": "PRO 1400E 4G RS1253PL"
   }
  ],
  "TS1221PL": [
@@ -92992,6 +93038,11 @@
    "brand": "Kyocera",
    "name": "DIGNO BX2",
    "model": "A101KC"
+  },
+  {
+   "brand": "Kyocera",
+   "name": "DIGNO SX2",
+   "model": "KC-S302"
   }
  ],
  "WX04K": [
@@ -150882,6 +150933,18 @@
    "model": "XIG02"
   }
  ],
+ "chopin": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 10 Pro",
+   "model": "21061110AG"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 10 pro",
+   "model": "M2104K10AC"
+  }
+ ],
  "sweet": [
   {
    "brand": "Redmi",
@@ -150909,13 +150972,6 @@
    "brand": "Redmi",
    "name": "Redmi Note 10 Pro Max",
    "model": "M2101K6I"
-  }
- ],
- "chopin": [
-  {
-   "brand": "Redmi",
-   "name": "Redmi Note 10 pro",
-   "model": "M2104K10AC"
   }
  ],
  "maltose": [
@@ -176467,6 +176523,13 @@
    "model": "SQ811G"
   }
  ],
+ "sml5442tw": [
+  {
+   "brand": "SmartLabs",
+   "name": "SML-5442TW",
+   "model": "SML-5442TW"
+  }
+ ],
  "SM181301": [
   {
    "brand": "SmartPad",
@@ -195935,6 +195998,13 @@
    "brand": "Telus",
    "name": "Pik TV Media Box",
    "model": "HMB2213PW22TS"
+  }
+ ],
+ "uiw4054tlu": [
+  {
+   "brand": "Telus",
+   "name": "TELUSTV-21T",
+   "model": "TELUSTV-21T"
   }
  ],
  "Teracube_2e": [

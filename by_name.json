@@ -15288,6 +15288,25 @@
    "model": "S1 Jazz"
   }
  ],
+ "Arcelik Android TV": [
+  {
+   "brand": "Arcelik",
+   "device": "kunyang",
+   "model": "Arcelik Android TV"
+  },
+  {
+   "brand": "Arçelik",
+   "device": "shinagawa",
+   "model": "Arcelik Android TV"
+  }
+ ],
+ "Arcelik UHD Android TV": [
+  {
+   "brand": "Arcelik",
+   "device": "kunyang",
+   "model": "Arcelik Android UHD TV"
+  }
+ ],
  "B55L 9682 5AS": [
   {
    "brand": "Arcelik",
@@ -17934,13 +17953,6 @@
    "brand": "Artizlee",
    "device": "Artizlee_S9",
    "model": "Artizlee_S9"
-  }
- ],
- "Arcelik Android TV": [
-  {
-   "brand": "Arçelik",
-   "device": "shinagawa",
-   "model": "Arcelik Android TV"
   }
  ],
  "Arçelik Android TV": [
@@ -26099,6 +26111,11 @@
  "Beko Android TV": [
   {
    "brand": "Beko",
+   "device": "kunyang",
+   "model": "Beko Android TV"
+  },
+  {
+   "brand": "Beko",
    "device": "shinagawa",
    "model": "Beko Android TV"
   },
@@ -26106,6 +26123,13 @@
    "brand": "Beko",
    "device": "sinchon",
    "model": "Beko Android TV"
+  }
+ ],
+ "Beko UHD Android TV": [
+  {
+   "brand": "Beko",
+   "device": "kunyang",
+   "model": "Beko Android UHD TV"
   }
  ],
  "Bell Streamer": [
@@ -29965,6 +29989,13 @@
    "brand": "Blu",
    "device": "G0450WW",
    "model": "G61"
+  }
+ ],
+ "G61S": [
+  {
+   "brand": "Blu",
+   "device": "G0630WW",
+   "model": "G61S"
   }
  ],
  "G70": [
@@ -46963,6 +46994,13 @@
    "model": "Plane_8549S_4G_PS8162PL"
   }
  ],
+ "RS1253PL": [
+  {
+   "brand": "Digma",
+   "device": "RS1253PL",
+   "model": "PRO 1400E 4G RS1253PL"
+  }
+ ],
  "TS1221PL": [
   {
    "brand": "Digma",
@@ -62919,6 +62957,11 @@
  "Grundig Android TV": [
   {
    "brand": "Grundig",
+   "device": "kunyang",
+   "model": "Grundig Android TV"
+  },
+  {
+   "brand": "Grundig",
    "device": "shinagawa",
    "model": "Grundig Android TV"
   },
@@ -62926,6 +62969,13 @@
    "brand": "Grundig",
    "device": "sinchon",
    "model": "Grundig Android TV"
+  }
+ ],
+ "Grundig UHD Android TV": [
+  {
+   "brand": "Grundig",
+   "device": "kunyang",
+   "model": "Grundig Android UHD TV"
   }
  ],
  "GT9HD32": [
@@ -96303,6 +96353,13 @@
    "brand": "Kyocera",
    "device": "KYL21",
    "model": "KYL21"
+  }
+ ],
+ "DIGNO SX2": [
+  {
+   "brand": "Kyocera",
+   "device": "KY21L-ST100",
+   "model": "KC-S302"
   }
  ],
  "DIGNO T": [
@@ -151335,6 +151392,11 @@
  "Redmi Note 10 Pro": [
   {
    "brand": "Redmi",
+   "device": "chopin",
+   "model": "21061110AG"
+  },
+  {
+   "brand": "Redmi",
    "device": "sweet",
    "model": "M2101K6G"
   },
@@ -174552,6 +174614,13 @@
    "model": "AiPlus4K"
   }
  ],
+ "SML-5442TW": [
+  {
+   "brand": "SmartLabs",
+   "device": "sml5442tw",
+   "model": "SML-5442TW"
+  }
+ ],
  "SM181301": [
   {
    "brand": "SmartPad",
@@ -193490,6 +193559,13 @@
    "brand": "Telus",
    "device": "HMB2213PW22TS",
    "model": "HMB2213PW22TS"
+  }
+ ],
+ "TELUSTV-21T": [
+  {
+   "brand": "Telus",
+   "device": "uiw4054tlu",
+   "model": "TELUSTV-21T"
   }
  ],
  "Teracube 2e": [
