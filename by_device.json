@@ -58006,6 +58006,13 @@
    "model": "GT-I9505G"
   }
  ],
+ "vsoc_kiwi_x86_64": [
+  {
+   "brand": "Google",
+   "name": "Google Play Games on PC",
+   "model": "HPE device"
+  }
+ ],
  "rammus_cheets": [
   {
    "brand": "Google",
@@ -125324,6 +125331,13 @@
    "model": "M7-3G"
   }
  ],
+ "ML_JI0N_M7_3G": [
+  {
+   "brand": "Multilaser",
+   "name": "M7 3G",
+   "model": "M7_3G"
+  }
+ ],
  "ML_JI1G_M7_3G": [
   {
    "brand": "Multilaser",
@@ -125400,6 +125414,13 @@
   }
  ],
  "ML_JI2D_M7_WIFI": [
+  {
+   "brand": "Multilaser",
+   "name": "M7 WIFI",
+   "model": "M7_WIFI"
+  }
+ ],
+ "ML_JI3D_M7_WIFI": [
   {
    "brand": "Multilaser",
    "name": "M7 WIFI",
@@ -125585,6 +125606,13 @@
    "brand": "Multilaser",
    "name": "M7sLite",
    "model": "M7sLite"
+  }
+ ],
+ "ML-WI0G-M8-4G": [
+  {
+   "brand": "Multilaser",
+   "name": "M8 4G",
+   "model": "M8-4G"
   }
  ],
  "ML_SO0J_M8_4G": [
@@ -130634,6 +130662,13 @@
    "model": "Nokia C1"
   }
  ],
+ "IRU": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C1 2nd Edition",
+   "model": "Nokia C1 2nd Edition"
+  }
+ ],
  "YDU": [
   {
    "brand": "Nokia",
@@ -130674,11 +130709,32 @@
    "model": "Nokia C20"
   }
  ],
+ "SUS": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C20 Plus",
+   "model": "Nokia C20 Plus"
+  }
+ ],
  "GMR": [
   {
    "brand": "Nokia",
    "name": "Nokia C3",
    "model": "Nokia C3"
+  }
+ ],
+ "MNI": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C30",
+   "model": "Nokia C30"
+  }
+ ],
+ "MNR": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C30",
+   "model": "Nokia C30"
   }
  ],
  "PMC_CUS": [
@@ -130723,6 +130779,13 @@
    "model": "Nokia G20"
   }
  ],
+ "AKT": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia G300",
+   "model": "N1374DL"
+  }
+ ],
  "PHR": [
   {
    "brand": "Nokia",
@@ -130756,6 +130819,13 @@
    "brand": "Nokia",
    "name": "Nokia X10",
    "model": "Nokia X10"
+  }
+ ],
+ "DM5": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia X100",
+   "model": "Nokia X100"
   }
  ],
  "QKS": [
@@ -149966,13 +150036,6 @@
    "brand": "realme",
    "name": "realme C25s",
    "model": "RMX3195"
-  }
- ],
- "RMX3197": [
-  {
-   "brand": "Realme",
-   "name": "realme C25s",
-   "model": "RMX3197"
   }
  ],
  "RMX2021": [
@@ -173163,6 +173226,16 @@
   {
    "brand": "Sharp",
    "name": "AQUOS wish",
+   "model": "A104SH"
+  },
+  {
+   "brand": "Sharp",
+   "name": "AQUOS wish",
+   "model": "SH-M20"
+  },
+  {
+   "brand": "Sharp",
+   "name": "AQUOS wish",
    "model": "SH-WS10"
   }
  ],
@@ -182585,6 +182658,11 @@
   {
    "brand": "Sunmi",
    "name": "Sunmi L2Ks",
+   "model": "L2Ks_EEA"
+  },
+  {
+   "brand": "Sunmi",
+   "name": "Sunmi L2Ks",
    "model": "L2Ks_GL"
   }
  ],
@@ -182603,6 +182681,11 @@
    "brand": "Sunmi",
    "name": "V2sNC",
    "model": "V2sNC_RU"
+  },
+  {
+   "brand": "Sunmi",
+   "name": "V2sNC",
+   "model": "V2sNC_TR"
   }
  ],
  "V2sPLUSNC": [
@@ -182615,6 +182698,11 @@
    "brand": "Sunmi",
    "name": "V2sPLUSNC",
    "model": "V2sPLUSNC_GL"
+  },
+  {
+   "brand": "Sunmi",
+   "name": "V2sPLUSNC",
+   "model": "V2sPLUSNC_TR"
   }
  ],
  "SN10016": [
@@ -199163,6 +199251,20 @@
    "brand": "Umidigi",
    "name": "BISON_X10_Pro_RU",
    "model": "RP01"
+  }
+ ],
+ "BISON_X10G": [
+  {
+   "brand": "Umidigi",
+   "name": "BISON X10G EEA",
+   "model": "RP05"
+  }
+ ],
+ "BISON_X10S": [
+  {
+   "brand": "Umidigi",
+   "name": "BISON X10S EEA",
+   "model": "RP05"
   }
  ],
  "BISON_X10S_NFC": [
@@ -226289,6 +226391,13 @@
    "brand": "realme",
    "name": "realme C21-Y",
    "model": "RMX3263"
+  }
+ ],
+ "RMX3197": [
+  {
+   "brand": "realme",
+   "name": "realme C25s",
+   "model": "RMX3197"
   }
  ],
  "RE507C": [

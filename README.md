@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-01-19
+Last sync is 2022-01-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7608,6 +7608,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Emulator|generic_x86_64|Android SDK built for x86_64|
 |Google|Galaxy S4 Google Play edition|jgedlte|GT-I9505G|
 |Google|Google Android Emulator|generic_x86_arm|sdk_gphone_x86|
+|Google|Google Play Games on PC|vsoc_kiwi_x86_64|HPE device|
 |Google|Intel Amber Lake Y Chromebook|rammus_cheets|rammus|
 |Google|Intel Apollo Lake Chromebook|coral_cheets|coral|
 |Google|Intel Apollo Lake Chromebook|reef_cheets|ASUS Chromebook C213NA|
@@ -18508,6 +18509,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M10_4G_PRO|ML-SO0C_M10_4G_PRO_PLUS|M10_4G_PRO|
 |Multilaser|M10_4G_PRO|ML_SO0G_M10_4G_PRO_PLUS|M10_4G_PRO|
 |Multilaser|M7 3G|ML-WI1B-M7-3G|M7-3G|
+|Multilaser|M7 3G|ML_JI0N_M7_3G|M7_3G|
 |Multilaser|M7 3G|ML_JI1G_M7_3G|M7_3G|
 |Multilaser|M7 3G|ML_WI0B_M7_3G|M7_3G|
 |Multilaser|M7 3G A10|ML_WI4A_M7_3G_A10|M7_3G_A10|
@@ -18519,6 +18521,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M7 WIF|ML_JI1D_M7_WIFI|M7_WIFI|
 |Multilaser|M7 WIFI|ML_JI0O_M7_WIFI|M7_WIFI|
 |Multilaser|M7 WIFI|ML_JI2D_M7_WIFI|M7_WIFI|
+|Multilaser|M7 WIFI|ML_JI3D_M7_WIFI|M7_WIFI|
 |Multilaser|M7 WIFI|ML_SO0E_M7_WIFI|M7_WIFI|
 |Multilaser|M7 WIFI|ML_SO1E_M7_Wifi|M7_WIFI|
 |Multilaser|M7-3G PLUS|ML-JI21-M7-3G-PLUS|M7-3G-PLUS|
@@ -18546,6 +18549,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M7s Dual Core|NB116_NB117_NB118|M7s Dual ML03|
 |Multilaser|M7s Quad Core|astar-ococci|ML01-M7S-Quad-Core|
 |Multilaser|M7sLite|ML-SO06-M7sLite|M7sLite|
+|Multilaser|M8 4G|ML-WI0G-M8-4G|M8-4G|
 |Multilaser|M8 4G|ML_SO0J_M8_4G|M8_4G|
 |Multilaser|M8 4G|ML_SO1J_M8_4G|M8_4G|
 |Multilaser|M8 Wifi|ML_SO0F_M8_WIFI|M8_WIFI|
@@ -19335,25 +19339,31 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia 9|AOP_sprout|Nokia 9|
 |Nokia|Nokia C01 Plus|IRS|Nokia C01 Plus|
 |Nokia|Nokia C1|RKU|Nokia C1|
+|Nokia|Nokia C1 2nd Edition|IRU|Nokia C1 2nd Edition|
 |Nokia|Nokia C1 Plus|YDU|Nokia C1 Plus|
 |Nokia|Nokia C10|MNT|Nokia C10|
 |Nokia|Nokia C2|NBL|Nebula|
 |Nokia|Nokia C2|NBL|Nokia C2|
 |Nokia|Nokia C2 Tennen|ARV_CUS|Nokia C2 Tennen|
 |Nokia|Nokia C20|COS|Nokia C20|
+|Nokia|Nokia C20 Plus|SUS|Nokia C20 Plus|
 |Nokia|Nokia C3|GMR|Nokia C3|
+|Nokia|Nokia C30|MNI|Nokia C30|
+|Nokia|Nokia C30|MNR|Nokia C30|
 |Nokia|Nokia C5 Endi|PMC_CUS|Nokia C5 Endi|
 |Nokia|Nokia G10|ROGA|Nokia G10|
 |Nokia|Nokia G10|ROGA_sprout|Nokia G10|
 |Nokia|Nokia G20|RNN|Nokia G20|
 |Nokia|Nokia G20|RNNA_sprout|Nokia G20|
 |Nokia|Nokia G20|RNN_sprout|Nokia G20|
+|Nokia|Nokia G300|AKT|N1374DL|
 |Nokia|Nokia G50|PHR|Nokia G50|
 |Nokia|Nokia G50|PHR_sprout|Nokia G50|
 |Nokia|Nokia Steaming Box 8000|HND|Nokia Streaming Box 8000|
 |Nokia|Nokia T20|RDD|Nokia T20|
 |Nokia|Nokia X10|SCW|Nokia X10|
 |Nokia|Nokia X10|SCW_sprout|Nokia X10|
+|Nokia|Nokia X100|DM5|Nokia X100|
 |Nokia|Nokia X20|QKS|Nokia X20|
 |Nokia|Nokia X20|QKS_sprout|Nokia X20|
 |Nokia|Nokia X5|PDA|Nokia X5|
@@ -22417,7 +22427,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme C25|RMX3193|RMX3193|
 |Realme|realme C25Y|RE54D1|RMX3265|
 |Realme|realme C25s|RMX3195|RMX3195|
-|Realme|realme C25s|RMX3197|RMX3197|
 |Realme|realme C3|RMX2020|RMX2020|
 |Realme|realme C3|RMX2021|RMX2021|
 |Realme|realme C3|RMX2022|RMX2022|
@@ -26108,6 +26117,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS sense6|SH-54B|SH-54B|
 |Sharp|AQUOS sense6|ZMJ|SHG05|
 |Sharp|AQUOS wish|SX1|A103SH|
+|Sharp|AQUOS wish|SX1|A104SH|
+|Sharp|AQUOS wish|SX1|SH-M20|
 |Sharp|AQUOS wish|SX1|SH-WS10|
 |Sharp|AQUOS wish|YLI|SHG06|
 |Sharp|AQUOS zero|SG801SH|801SH|
@@ -27557,14 +27568,17 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sumitomo Electric Industries|ST4500|ST4500|ST-4500|
 |Sumitomo Electric Networks||dhe1100|Hikari-iFrame/WDPF-703SE|
 |Sunbio|SB-TM700|SB-TM700|SB-TM700|
+|Sunmi|Sunmi L2Ks|SUNMI-L2KsNFC|L2Ks_EEA|
 |Sunmi|Sunmi L2Ks|SUNMI-L2KsNFC|L2Ks_GL|
 |Sunmi|Sunmi V2s|V2s|V2s_EEA|
 |Sunmi|Sunmi V2s|V2s|V2s_GL|
 |Sunmi|V2sNC|V2sNC|V2sNC_EEA|
 |Sunmi|V2sNC|V2sNC|V2sNC_GL|
 |Sunmi|V2sNC|V2sNC|V2sNC_RU|
+|Sunmi|V2sNC|V2sNC|V2sNC_TR|
 |Sunmi|V2sPLUSNC|V2sPLUSNC|V2sPLUSNC_EEA|
 |Sunmi|V2sPLUSNC|V2sPLUSNC|V2sPLUSNC_GL|
+|Sunmi|V2sPLUSNC|V2sPLUSNC|V2sPLUSNC_TR|
 |Sunny|SN01DNGL300|YQB|SN01DNGL300|
 |Sunny|SN10016|SN10016|SN10016|
 |Sunny|SN10064|TABLET|SN10064|
@@ -30494,6 +30508,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|BISON X10 Pro EEA|BISON_X10_Pro|RP01|
 |Umidigi|BISON X10 Pro TR|BISON_X10_Pro|RP01|
 |Umidigi|BISON X10 RU|BISON_X10|RP01|
+|Umidigi|BISON X10G EEA|BISON_X10G|RP05|
+|Umidigi|BISON X10S EEA|BISON_X10S|RP05|
 |Umidigi|BISON X10S NFC|BISON_X10S_NFC|RP05|
 |Umidigi|BISON_GT|BISON_GT|BISON GT|
 |Umidigi|BISON_GT2_5G|BISON_GT2_5G|RP02|
@@ -35146,6 +35162,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C25|RMX3191|RMX3191|
 |realme|realme C25Y|RED8F6|RMX3269|
 |realme|realme C25s|RMX3195|RMX3195|
+|realme|realme C25s|RMX3197|RMX3197|
 |realme|realme GT 5G|RMX2202L1|RMX2202|
 |realme|realme GT Master Edition|RE507C|RMX3361|
 |realme|realme GT Master Edition|RE54ABL1|RMX3360|
