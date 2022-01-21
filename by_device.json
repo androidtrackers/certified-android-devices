@@ -70424,6 +70424,13 @@
    "model": "CN85"
   }
  ],
+ "CT30P": [
+  {
+   "brand": "Honeywell",
+   "name": "CT30XP",
+   "model": "CT30P"
+  }
+ ],
  "CT40-L0-C": [
   {
    "brand": "Honeywell",
@@ -112995,6 +113002,11 @@
  "DIW3930-MEO": [
   {
    "brand": "MEO(Portugal)",
+   "name": "MEO TV Box 4K (DIW3930)",
+   "model": "MEO TV Box 4K (DIW3930)"
+  },
+  {
+   "brand": "MEO(Portugal)",
    "name": "MEOBox 4K",
    "model": "MEO TV Box 4K (DIW3930)"
   }
@@ -125240,6 +125252,13 @@
    "model": "M10_4G"
   }
  ],
+ "WI0C_M10_4G_MON_CLA": [
+  {
+   "brand": "Multilaser",
+   "name": "M10 4G MON CLA",
+   "model": "M10_4G_MON_CLA"
+  }
+ ],
  "ML_JI0B_M10_4G_PRO": [
   {
    "brand": "Multilaser",
@@ -134856,6 +134875,13 @@
    "brand": "Oppo",
    "name": "PDYT20",
    "model": "PDYT20"
+  }
+ ],
+ "OP4E6B": [
+  {
+   "brand": "Oppo",
+   "name": "PEAT00",
+   "model": "PEAT00"
   }
  ],
  "OP4E8F": [
@@ -149843,6 +149869,16 @@
   },
   {
    "brand": "Realme",
+   "name": "realme narzo 30 5G",
+   "model": "RMX3242"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 8 5G",
+   "model": "RMX3241"
+  },
+  {
+   "brand": "realme",
    "name": "realme narzo 30 5G",
    "model": "RMX3242"
   }

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-01-20
+Last sync is 2022-01-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9713,6 +9713,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|CN80|CN80G-L1-N|CN80|
 |Honeywell|CN85|CN85-L0-C|CN85|
 |Honeywell|CN85|CN85-L1-C|CN85|
+|Honeywell|CT30XP|CT30P|CT30P|
 |Honeywell|CT40|CT40-L0-C|CT40|
 |Honeywell|CT40|CT40-L0-CA|CT40|
 |Honeywell|CT40|CT40-L1-C|CT40|
@@ -16563,6 +16564,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MEDER|MEDER|smartguide210_eea|SmartGuide_2.10|
 |MEDER|SmartGuide210-464|SmartGuide210-464|SmartGuide210-464|
 |MEO(Portugal)|MEO TV Box 4K|DV8555-MEO|MEO TV Box 4K|
+|MEO(Portugal)|MEO TV Box 4K (DIW3930)|DIW3930-MEO|MEO TV Box 4K (DIW3930)|
 |MEO(Portugal)|MEOBox 4K|DIW3930-MEO|MEO TV Box 4K (DIW3930)|
 |MG Series|Any 302|TR10CS2_3|TR10CS2|
 |MG series|Any 302|TR10CS1_15|TR10CS1|
@@ -18495,6 +18497,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M10 4G|ML-WI0C-M10-4G|M10-4G|
 |Multilaser|M10 4G|ML_JI0B_M10_4G|M10_4G|
 |Multilaser|M10 4G|ML_SO0G_M10_4G|M10_4G|
+|Multilaser|M10 4G MON CLA|WI0C_M10_4G_MON_CLA|M10_4G_MON_CLA|
 |Multilaser|M10 4G PRO|ML_JI0B_M10_4G_PRO|M10_4G_PRO|
 |Multilaser|M10 4G PRO|ML_JI0F_M10_4G_PRO|M10_4G_PRO|
 |Multilaser|M10 4G PRO|ML_SO1G_M10_4G_PRO|M10_4G_PRO|
@@ -20029,6 +20032,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|PDST00|OP4EA3|PDST00|
 |Oppo|PDYM20|OP4E21|PDYM20|
 |Oppo|PDYT20|OP4E21|PDYT20|
+|Oppo|PEAT00|OP4E6B|PEAT00|
 |Oppo|PEGM00|OP4E8F|PEGM00|
 |Oppo|PEGM10|OP4E59|PEGM10|
 |Oppo|PEGT10|OP4E59|PEGT10|
@@ -35152,6 +35156,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 7|RMX2151L1|RMX2151|
 |realme|realme 7 Pro|RMX2170L1|RMX2170|
 |realme|realme 8|RMX3085L1|RMX3085|
+|realme|realme 8 5G|RE513CL1|RMX3241|
 |realme|realme 8 Pro|RMX3081L1|RMX3081|
 |realme|realme C11 2021|RMX3231|RMX3231|
 |realme|realme C15 Qualcomm Edition|RMX2195L1|RMX2195|
@@ -35172,6 +35177,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme X50 Pro Play|RMX2072CN|RMX2072|
 |realme|realme X7Pro Ultra|RMX3115CN|RMX3115|
 |realme|realme narzo 20 Pro|RMX2161L1|RMX2161|
+|realme|realme narzo 30 5G|RE513CL1|RMX3242|
 |realme|realme narzo 30A|RMX3171|RMX3171|
 |realme|realme narzo 50A|RED8AF|RMX3430|
 |realme|realme pad|RE54C1L1|RMP2103|
