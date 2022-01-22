@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-01-21
+Last sync is 2022-01-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17803,6 +17803,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobvoi|TicWatch Pro 3 Cellular/LTE|rover|TicWatch Pro 3|
 |Mobvoi|TicWatch Pro 3 Cellular/LTE|rover|TicWatch Pro 3 Ultra|
 |Mobvoi|TicWatch Pro 3 GPS|rubyfish|TicWatch Pro 3 GPS|
+|Mobvoi|TicWatch Pro 3 GPS|rubyfish|TicWatch Pro 3 Ultra GPS|
 |Mobvoi|TicWatch Pro 3 GPS|rubyfish|TicWatch Pro 3U|
 |Mobvoi|TicWatch Pro 4G|catshark|TicWatch Pro 4G|
 |Mobvoi|Ticwatch Pro 4G|catshark|TicWatch Pro 4G|
