@@ -91425,6 +91425,13 @@
    "model": "itel A16 Plus"
   }
  ],
+ "itel-A510W": [
+  {
+   "brand": "Itel",
+   "device": "itel-A510W",
+   "model": "itel A510W"
+  }
+ ],
  "itel-L5007S": [
   {
    "brand": "Itel",
@@ -122756,6 +122763,18 @@
    "model": "Lenovo K12"
   }
  ],
+ "Lenovo K12 Pro": [
+  {
+   "brand": "Motorola",
+   "device": "cebu",
+   "model": "Lenovo K12 Note"
+  },
+  {
+   "brand": "Motorola",
+   "device": "cebu",
+   "model": "Lenovo K12 Pro"
+  }
+ ],
  "Lenovo K13": [
   {
    "brand": "Motorola",
@@ -122792,6 +122811,13 @@
    "brand": "Motorola",
    "device": "guam",
    "model": "Lenovo XT2081-4"
+  }
+ ],
+ "Lenovo XT2091-7": [
+  {
+   "brand": "Motorola",
+   "device": "cebu",
+   "model": "Lenovo XT2091-7"
   }
  ],
  "Master Touch": [
@@ -125994,6 +126020,13 @@
    "brand": "Multilaser",
    "device": "ML_SO26_M7S_Go",
    "model": "M7S_Go"
+  }
+ ],
+ "M7S PLUS": [
+  {
+   "brand": "Multilaser",
+   "device": "ML-JI08-M7S-PLUS",
+   "model": "M7S_PLUS"
   }
  ],
  "M7S Plus": [
@@ -134380,6 +134413,13 @@
    "model": "CPH2021"
   }
  ],
+ "CPH2031": [
+  {
+   "brand": "Oppo",
+   "device": "OP4C7D",
+   "model": "CPH2031"
+  }
+ ],
  "CPH2043": [
   {
    "brand": "Oppo",
@@ -134394,11 +134434,25 @@
    "model": "CPH2071"
   }
  ],
+ "CPH2073": [
+  {
+   "brand": "Oppo",
+   "device": "OP4C7D",
+   "model": "CPH2073"
+  }
+ ],
  "CPH2077": [
   {
    "brand": "Oppo",
    "device": "OP4BFB",
    "model": "CPH2077"
+  }
+ ],
+ "CPH2081": [
+  {
+   "brand": "Oppo",
+   "device": "OP4C7D",
+   "model": "CPH2081"
   }
  ],
  "CPH2083": [
@@ -161425,11 +161479,6 @@
  "Galaxy Note10+": [
   {
    "brand": "Samsung",
-   "device": "SC-01M",
-   "model": "SC-01M"
-  },
-  {
-   "brand": "Samsung",
    "device": "SCV45",
    "model": "SCV45"
   },
@@ -161665,16 +161714,6 @@
   }
  ],
  "Galaxy Note20 Ultra 5G": [
-  {
-   "brand": "Samsung",
-   "device": "SC-53A",
-   "model": "SC-53A"
-  },
-  {
-   "brand": "Samsung",
-   "device": "SCG06",
-   "model": "SCG06"
-  },
   {
    "brand": "Samsung",
    "device": "c2q",
@@ -163657,11 +163696,6 @@
    "brand": "Samsung",
    "device": "SC-52A",
    "model": "SC-52A"
-  },
-  {
-   "brand": "Samsung",
-   "device": "SCG02",
-   "model": "SCG02"
   },
   {
    "brand": "Samsung",
@@ -220662,6 +220696,13 @@
    "model": "K710_EEA"
   }
  ],
+ "K711": [
+  {
+   "brand": "Zonko",
+   "device": "K711",
+   "model": "K711"
+  }
+ ],
  "K78": [
   {
    "brand": "Zonko",
@@ -223945,6 +223986,13 @@
    "brand": "novo",
    "device": "t596_dp_n_37m35",
    "model": "Bonvi Pro"
+  }
+ ],
+ "TK706": [
+  {
+   "brand": "okayseamedia",
+   "device": "TK706",
+   "model": "TK706"
   }
  ],
  "ZIDS701": [

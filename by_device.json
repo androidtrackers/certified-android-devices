@@ -88313,6 +88313,13 @@
    "model": "itel W5503"
   }
  ],
+ "itel-A510W": [
+  {
+   "brand": "Itel",
+   "name": "itel-A510W",
+   "model": "itel A510W"
+  }
+ ],
  "TM705": [
   {
    "brand": "Itworks",
@@ -122337,6 +122344,28 @@
    "model": "moto e(7) power"
   }
  ],
+ "cebu": [
+  {
+   "brand": "Motorola",
+   "name": "Lenovo K12 Pro",
+   "model": "Lenovo K12 Note"
+  },
+  {
+   "brand": "Motorola",
+   "name": "Lenovo K12 Pro",
+   "model": "Lenovo K12 Pro"
+  },
+  {
+   "brand": "Motorola",
+   "name": "Lenovo XT2091-7",
+   "model": "Lenovo XT2091-7"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g(9) power",
+   "model": "moto g(9) power"
+  }
+ ],
  "maltalsc": [
   {
    "brand": "Motorola",
@@ -124384,13 +124413,6 @@
    "model": "moto g(9) plus"
   }
  ],
- "cebu": [
-  {
-   "brand": "Motorola",
-   "name": "moto g(9) power",
-   "model": "moto g(9) power"
-  }
- ],
  "xpeng": [
   {
    "brand": "Motorola",
@@ -125526,6 +125548,18 @@
    "model": "M7S_Go"
   }
  ],
+ "ML-JI08-M7S-PLUS": [
+  {
+   "brand": "Multilaser",
+   "name": "M7S PLUS",
+   "model": "M7S_PLUS"
+  },
+  {
+   "brand": "Multilaser",
+   "name": "M7S_PLUS",
+   "model": "M7S_PLUS"
+  }
+ ],
  "ML_SO0F_M7S_Plus": [
   {
    "brand": "Multilaser",
@@ -125564,13 +125598,6 @@
    "brand": "Multilaser",
    "name": "M7S_LITE",
    "model": "M7S_LITE"
-  }
- ],
- "ML-JI08-M7S-PLUS": [
-  {
-   "brand": "Multilaser",
-   "name": "M7S_PLUS",
-   "model": "M7S_PLUS"
   }
  ],
  "ML-SO07-M7S-PLUS": [
@@ -134275,6 +134302,21 @@
    "brand": "Oppo",
    "name": "CPH2015",
    "model": "CPH2015"
+  },
+  {
+   "brand": "Oppo",
+   "name": "CPH2031",
+   "model": "CPH2031"
+  },
+  {
+   "brand": "Oppo",
+   "name": "CPH2073",
+   "model": "CPH2073"
+  },
+  {
+   "brand": "Oppo",
+   "name": "CPH2081",
+   "model": "CPH2081"
   }
  ],
  "OP4B9EL1": [
@@ -161988,13 +162030,6 @@
    "model": "SM-N770F"
   }
  ],
- "SC-01M": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Note10+",
-   "model": "SC-01M"
-  }
- ],
  "SCV45": [
   {
    "brand": "Samsung",
@@ -162272,20 +162307,6 @@
    "brand": "Samsung",
    "name": "Galaxy Note20 Ultra 5G",
    "model": "SM-N986B"
-  }
- ],
- "SC-53A": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Note20 Ultra 5G",
-   "model": "SC-53A"
-  }
- ],
- "SCG06": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Note20 Ultra 5G",
-   "model": "SCG06"
   }
  ],
  "c2q": [
@@ -164567,13 +164588,6 @@
    "brand": "Samsung",
    "name": "Galaxy S20+ 5G",
    "model": "SC-52A"
-  }
- ],
- "SCG02": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy S20+ 5G",
-   "model": "SCG02"
   }
  ],
  "y2q": [
@@ -223053,6 +223067,13 @@
    "model": "K710_EEA"
   }
  ],
+ "K711": [
+  {
+   "brand": "Zonko",
+   "name": "K711",
+   "model": "K711"
+  }
+ ],
  "K78_EEA": [
   {
    "brand": "Zonko",
@@ -226301,6 +226322,13 @@
    "brand": "novo",
    "name": "Bonvi Pro",
    "model": "Bonvi Pro"
+  }
+ ],
+ "TK706": [
+  {
+   "brand": "okayseamedia",
+   "name": "TK706",
+   "model": "TK706"
   }
  ],
  "ZIDS701": [

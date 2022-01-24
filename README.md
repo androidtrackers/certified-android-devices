@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-01-23
+Last sync is 2022-01-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12652,6 +12652,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel W5004VZ|itel-W5004VZ|itel W5004V|
 |Itel|itel W5503|itel-W5503|itel W5503|
 |Itel|itel-A16-Plus|itel-A16-Plus|itel A16 Plus|
+|Itel|itel-A510W|itel-A510W|itel A510W|
 |Itel|itel-L5007S|itel-L5007S|itel L5007S|
 |Itworks|TM705|TM705|NID_7010|
 |J:COM|KSTB7043|KSTB6165|KSTB7043|
@@ -17986,6 +17987,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|Lenovo K11 Power|blackjack|Lenovo K11 Power|
 |Motorola|Lenovo K12|malta|Lenovo K11|
 |Motorola|Lenovo K12|malta|Lenovo K12|
+|Motorola|Lenovo K12 Pro|cebu|Lenovo K12 Note|
+|Motorola|Lenovo K12 Pro|cebu|Lenovo K12 Pro|
 |Motorola|Lenovo K13|maltalsc|Lenovo K13|
 |Motorola|Lenovo K13|maltalsc|maltalsc|
 |Motorola|Lenovo K13 Note|java|Lenovo K13 Note|
@@ -17993,6 +17996,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|Lenovo K14 Note|cofud|Lenovo K12 Pro|
 |Motorola|Lenovo K14 Note|cofud|Lenovo K14 Note|
 |Motorola|Lenovo XT2081-4|guam|Lenovo XT2081-4|
+|Motorola|Lenovo XT2091-7|cebu|Lenovo XT2091-7|
 |Motorola|Master Touch|umts_primus|XT621|
 |Motorola|Master Touch XT621|umts_primus|XT621|
 |Motorola|Milestone2|umts_milestone2|A953|
@@ -18536,6 +18540,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M7I-3G|astar-ococci|ML01-M7S-Quad-Core|
 |Multilaser|M7S Go|ML_SO0E_M7S_Go|M7S_Go|
 |Multilaser|M7S Go|ML_SO26_M7S_Go|M7S_Go|
+|Multilaser|M7S PLUS|ML-JI08-M7S-PLUS|M7S_PLUS|
 |Multilaser|M7S Plus|ML_SO0F_M7S_Plus|M7S_Plus|
 |Multilaser|M7S Plus|ML_SO17_M7S_Plus|M7S_Plus|
 |Multilaser|M7SQC Plus|M7SQC_Plus|M7SQC_Plus|
@@ -19923,9 +19928,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|CPH2001|OP4B9B|CPH2001|
 |Oppo|CPH2015|OP4C7D|CPH2015|
 |Oppo|CPH2021|OP4B9B|CPH2021|
+|Oppo|CPH2031|OP4C7D|CPH2031|
 |Oppo|CPH2043|OP4B9EL1|CPH2043|
 |Oppo|CPH2071|OP4BFB|CPH2071|
+|Oppo|CPH2073|OP4C7D|CPH2073|
 |Oppo|CPH2077|OP4BFB|CPH2077|
+|Oppo|CPH2081|OP4C7D|CPH2081|
 |Oppo|CPH2083|OP4BFB|CPH2083|
 |Oppo|CPH2095|OP4EF3L1|CPH2095|
 |Oppo|CPH2109|OP4BA5L1|CPH2109|
@@ -24350,7 +24358,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Note10|d1q|SM-N970W|
 |Samsung|Galaxy Note10 5G|d1x|SM-N971N|
 |Samsung|Galaxy Note10 Lite|r7|SM-N770F|
-|Samsung|Galaxy Note10+|SC-01M|SC-01M|
 |Samsung|Galaxy Note10+|SCV45|SCV45|
 |Samsung|Galaxy Note10+|d2q|SM-N9750|
 |Samsung|Galaxy Note10+|d2q|SM-N975C|
@@ -24396,8 +24403,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Note20 5G|c1q|SM-N981W|
 |Samsung|Galaxy Note20 5G|c1s|SM-N981B|
 |Samsung|Galaxy Note20 Ultra|c2s|SM-N985F|
-|Samsung|Galaxy Note20 Ultra 5G|SC-53A|SC-53A|
-|Samsung|Galaxy Note20 Ultra 5G|SCG06|SCG06|
 |Samsung|Galaxy Note20 Ultra 5G|c2q|SM-N9860|
 |Samsung|Galaxy Note20 Ultra 5G|c2q|SM-N986N|
 |Samsung|Galaxy Note20 Ultra 5G|c2q|SM-N986U|
@@ -24757,7 +24762,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S20 Ultra 5G|z3s|SM-G988B|
 |Samsung|Galaxy S20+|y2s|SM-G985F|
 |Samsung|Galaxy S20+ 5G|SC-52A|SC-52A|
-|Samsung|Galaxy S20+ 5G|SCG02|SCG02|
 |Samsung|Galaxy S20+ 5G|y2q|SM-G9860|
 |Samsung|Galaxy S20+ 5G|y2q|SM-G986N|
 |Samsung|Galaxy S20+ 5G|y2q|SM-G986U|
@@ -34592,6 +34596,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zonko|K70_EEA|K70_EEA|K70_EEA|
 |Zonko|K710|K710|K710|
 |Zonko|K710_EEA|K710_EEA|K710_EEA|
+|Zonko|K711|K711|K711|
 |Zonko|K78|K78|K78|
 |Zonko|K78_EEA|K78_EEA|K78_EEA|
 |Zonko|K79|K79|K79|
@@ -35134,6 +35139,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |noDROPOUT|T25|T25|T25|
 |novo|Bonvi Prime|t596_novo_37m35|Bonvi Prime|
 |novo|Bonvi Pro|t596_dp_n_37m35|Bonvi Pro|
+|okayseamedia|TK706|TK706|TK706|
 |okulaku|ZIDS701|ZIDS701|ZIDS701|
 |onn.|onn. 4k TV|sti6140d360|sti6140d360|
 |pendo|PNDPP44QC10|PNDPP44QC10|PNDPP44QC10|
