@@ -890,6 +890,11 @@
   {
    "brand": "ALBADEEL",
    "name": "Smart TV",
+   "device": "longshan"
+  },
+  {
+   "brand": "ALBADEEL",
+   "name": "Smart TV",
    "device": "redwood"
   },
   {
@@ -3187,6 +3192,11 @@
   }
  ],
  "Acer One 8 T4-82L": [
+  {
+   "brand": "Acer",
+   "name": "Acer One 8 T4-82L",
+   "device": "AcerOne8T4-82Lxi"
+  },
   {
    "brand": "Acer",
    "name": "Acer One 8 T4-82L",
@@ -5750,6 +5760,13 @@
    "device": "SP4702"
   }
  ],
+ "SP4703": [
+  {
+   "brand": "Advance",
+   "name": "SP4703",
+   "device": "SP4703"
+  }
+ ],
  "SP4872": [
   {
    "brand": "Advance",
@@ -5804,6 +5821,13 @@
    "brand": "Advance",
    "name": "SP5775",
    "device": "SP5775"
+  }
+ ],
+ "SP5776": [
+  {
+   "brand": "Advance",
+   "name": "SP5776",
+   "device": "SP5776"
   }
  ],
  "SP5782": [
@@ -19484,6 +19508,18 @@
    "device": "BQru-5530L"
   }
  ],
+ "BQ-5533G": [
+  {
+   "brand": "BQru",
+   "name": "BQ-5533G",
+   "device": "BQru-5533G"
+  },
+  {
+   "brand": "BQru",
+   "name": "BQru-5533G",
+   "device": "BQru-5533G"
+  }
+ ],
  "BQ-5535L": [
   {
    "brand": "BQru",
@@ -19924,13 +19960,6 @@
    "brand": "BQru",
    "name": "BQru-5521L",
    "device": "BQru_5521L"
-  }
- ],
- "BQ-5533G": [
-  {
-   "brand": "BQru",
-   "name": "BQru-5533G",
-   "device": "BQru-5533G"
   }
  ],
  "BQ-5565L": [
@@ -21061,6 +21090,13 @@
    "device": "M1036"
   }
  ],
+ "M1037": [
+  {
+   "brand": "Beneve",
+   "name": "M1038_EEA",
+   "device": "M1038_EEA"
+  }
+ ],
  "M7133": [
   {
    "brand": "Beneve",
@@ -21899,6 +21935,13 @@
    "brand": "BlackBerry",
    "name": "PRIV by BlackBerry",
    "device": "venice"
+  }
+ ],
+ "BMM431B": [
+  {
+   "brand": "Blackfox",
+   "name": "BMM431B",
+   "device": "BMM431B"
   }
  ],
  "BMM431S": [
@@ -23818,6 +23861,11 @@
   {
    "brand": "Blu",
    "name": "C5L 2021",
+   "device": "C0101TT"
+  },
+  {
+   "brand": "Blu",
+   "name": "C5L 2021",
    "device": "C0110WW"
   }
  ],
@@ -24324,6 +24372,20 @@
    "brand": "Blu",
    "name": "G70",
    "device": "G0251WW"
+  }
+ ],
+ "G71 PLUS": [
+  {
+   "brand": "Blu",
+   "name": "G71",
+   "device": "G0570WW"
+  }
+ ],
+ "G71L": [
+  {
+   "brand": "Blu",
+   "name": "G71L",
+   "device": "G0710WW"
   }
  ],
  "G8": [
@@ -35313,6 +35375,20 @@
    "device": "L810"
   }
  ],
+ "Core-T4 Neo": [
+  {
+   "brand": "Crosscall",
+   "name": "Core-T5",
+   "device": "L820"
+  }
+ ],
+ "Core-T5": [
+  {
+   "brand": "Crosscall",
+   "name": "Core-T5",
+   "device": "L820"
+  }
+ ],
  "Core-X4": [
   {
    "brand": "Crosscall",
@@ -39832,6 +39908,13 @@
    "brand": "Digma",
    "name": "CITI 609",
    "device": "CS6063ML"
+  }
+ ],
+ "CITI 13 X703 4G CS3242ML": [
+  {
+   "brand": "Digma",
+   "name": "CITI_13_X703_4G",
+   "device": "CS3242ML"
   }
  ],
  "CITI_13_X703_4G_CS3242ML": [
@@ -45924,6 +46007,13 @@
    "brand": "EssentielB",
    "name": "SmartTab1007",
    "device": "SmartTAB1007"
+  }
+ ],
+ "E618": [
+  {
+   "brand": "Estalky",
+   "name": "Estalky-E618",
+   "device": "E618"
   }
  ],
  "MID1021W": [
@@ -53009,6 +53099,27 @@
    "brand": "Haier",
    "name": "G700",
    "device": "G700"
+  }
+ ],
+ "G312": [
+  {
+   "brand": "General Mobile",
+   "name": "GM 22",
+   "device": "G312"
+  }
+ ],
+ "G512": [
+  {
+   "brand": "General Mobile",
+   "name": "GM 22 Plus",
+   "device": "G512"
+  }
+ ],
+ "G702": [
+  {
+   "brand": "General Mobile",
+   "name": "GM 22 Pro",
+   "device": "G702"
   }
  ],
  "GM 6 d": [
@@ -65284,20 +65395,6 @@
    "brand": "Hisense",
    "name": "CMB510",
    "device": "L696"
-  }
- ],
- "Core-T4 Neo": [
-  {
-   "brand": "Hisense",
-   "name": "Core-T5",
-   "device": "L820"
-  }
- ],
- "Core-T5": [
-  {
-   "brand": "Hisense",
-   "name": "Core-T5",
-   "device": "L820"
   }
  ],
  "Hisense D1-M": [
@@ -81382,6 +81479,11 @@
    "brand": "Hurricane",
    "name": "Galaxy",
    "device": "Galaxy"
+  },
+  {
+   "brand": "Stylo",
+   "name": "Galaxy",
+   "device": "Galaxy"
   }
  ],
  "HURRICANE_GIGA": [
@@ -93435,6 +93537,13 @@
    "device": "shibuya"
   }
  ],
+ "D40": [
+  {
+   "brand": "Kodak",
+   "name": "Kodak_D40",
+   "device": "Kodak_D40"
+  }
+ ],
  "D50L": [
   {
    "brand": "Kodak",
@@ -104896,6 +105005,13 @@
    "device": "G6E"
   }
  ],
+ "LM5314G": [
+  {
+   "brand": "LUSH_MINT",
+   "name": "LM5314G",
+   "device": "LM5314G"
+  }
+ ],
  "LM5414G": [
   {
    "brand": "LUSH_MINT",
@@ -111273,6 +111389,13 @@
    "device": "X606V"
   }
  ],
+ "Lenovo TB125FU": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M10 Plus 3rd Gen",
+   "device": "TB125FU"
+  }
+ ],
  "Lenovo TB-7305F": [
   {
    "brand": "Lenovo",
@@ -113501,6 +113624,13 @@
    "brand": "Logic Instrument",
    "name": "Logic Instrument Fieldbook N80",
    "device": "lifbn80"
+  }
+ ],
+ "L4T": [
+  {
+   "brand": "Logic Mobility",
+   "name": "L4T",
+   "device": "L4T"
   }
  ],
  "LOGIC L50": [
@@ -117943,6 +118073,13 @@
    "brand": "Maxwest",
    "name": "TAB_MAX_7",
    "device": "TAB_MAX_7"
+  }
+ ],
+ "MS5314G": [
+  {
+   "brand": "Maze_speed",
+   "name": "MS5314G",
+   "device": "MS5314G"
   }
  ],
  "MS5414G": [
@@ -135687,6 +135824,13 @@
    "device": "OP5154L1"
   }
  ],
+ "MT2111": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 9RT 5G",
+   "device": "OP5155L1"
+  }
+ ],
  "AC2001": [
   {
    "brand": "OnePlus",
@@ -147879,6 +148023,18 @@
    "device": "X70-2021"
   }
  ],
+ "X75": [
+  {
+   "brand": "Premio",
+   "name": "X75",
+   "device": "X75"
+  },
+  {
+   "brand": "QMobile",
+   "name": "X75",
+   "device": "WBW5613QM"
+  }
+ ],
  "X83": [
   {
    "brand": "Premio",
@@ -151192,13 +151348,6 @@
    "brand": "QMobile",
    "name": "X700 PRO Lite",
    "device": "X700_PRO_Lite"
-  }
- ],
- "X75": [
-  {
-   "brand": "QMobile",
-   "name": "X75",
-   "device": "WBW5613QM"
   }
  ],
  "QMobile XLi": [
@@ -156979,6 +157128,13 @@
    "device": "SS5214G"
   }
  ],
+ "SS5314G": [
+  {
+   "brand": "SOHO STYLE",
+   "name": "SS5314G",
+   "device": "SS5314G"
+  }
+ ],
  "SS5414G": [
   {
    "brand": "SOHO STYLE",
@@ -157244,6 +157400,25 @@
    "brand": "koobee",
    "name": "S19",
    "device": "Koobee_S19"
+  }
+ ],
+ "SMART_MAX_2": [
+  {
+   "brand": "SPC Mobile",
+   "name": "SMART_MAX_2",
+   "device": "SMART_MAX_2"
+  }
+ ],
+ "SMART_PRO": [
+  {
+   "brand": "SPC Mobile",
+   "name": "SMART_PRO",
+   "device": "SMART_PRO"
+  },
+  {
+   "brand": "SPC Mobile",
+   "name": "SMART_PRO",
+   "device": "SMART_PRO_EEA"
   }
  ],
  "SMART_ULTIMATE": [
@@ -187674,6 +187849,13 @@
    "device": "721"
   }
  ],
+ "AS210291": [
+  {
+   "brand": "Stylo",
+   "name": "AS210291",
+   "device": "AS210291"
+  }
+ ],
  "BOLD": [
   {
    "brand": "Stylo",
@@ -187712,6 +187894,13 @@
    "brand": "Stylo",
    "name": "Ithemba",
    "device": "Ithemba"
+  }
+ ],
+ "DQR22": [
+  {
+   "brand": "Stylo",
+   "name": "Jupiter",
+   "device": "DQR22"
   }
  ],
  "LIFE_2": [
@@ -188668,6 +188857,13 @@
    "device": "VS700"
   }
  ],
+ "RS-403": [
+  {
+   "brand": "Syco",
+   "name": "RS-403_EEA",
+   "device": "RS-403"
+  }
+ ],
  "Syinix UHD Android TV": [
   {
    "brand": "Syinix",
@@ -189154,6 +189350,13 @@
    "brand": "Symphony",
    "name": "Z35",
    "device": "Z35"
+  }
+ ],
+ "Z42": [
+  {
+   "brand": "Symphony",
+   "name": "Z42",
+   "device": "Z42"
   }
  ],
  "Symphony Z45": [
@@ -207645,6 +207848,11 @@
   },
   {
    "brand": "Umidigi",
+   "name": "BISON X10S",
+   "device": "BISON_X10S"
+  },
+  {
+   "brand": "Umidigi",
    "name": "BISON X10S EEA",
    "device": "BISON_X10S"
   },
@@ -216890,6 +217098,11 @@
   }
  ],
  "WALPAD_8G": [
+  {
+   "brand": "Walton",
+   "name": "WALPAD 8G",
+   "device": "WALPAD8G_V2"
+  },
   {
    "brand": "Walton",
    "name": "WALPAD 8G",
@@ -232848,6 +233061,13 @@
    "device": "ZB40"
   }
  ],
+ "ZZB_ZB30": [
+  {
+   "brand": "ZZB (cn)",
+   "name": "ZZB_ZB30",
+   "device": "ZZB_ZB30"
+  }
+ ],
  "Z3211G": [
   {
    "brand": "Zaith",
@@ -236226,6 +236446,13 @@
    "brand": "iHunt",
    "name": "iHunt_Like_12_EEA",
    "device": "iHunt_Like_12"
+  }
+ ],
+ "iHunt Note Ultra": [
+  {
+   "brand": "iHunt",
+   "name": "iHunt_Note_Ultra",
+   "device": "iHunt_Note_Ultra"
   }
  ],
  "iHunt_S60_Discovery_Pro_2020": [

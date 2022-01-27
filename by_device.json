@@ -1809,6 +1809,93 @@
    "model": "AI PONT"
   }
  ],
+ "longshan": [
+  {
+   "brand": "ALBADEEL",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "BEC-KW",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "BPL",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "BenQ",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "CHiQ",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Changhong",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Estla",
+   "name": "Android TV",
+   "model": "AI PONT NA"
+  },
+  {
+   "brand": "Grunhelm",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Kogan",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Nikkei",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "OK (Mediamark)",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Prism",
+   "name": "Android TV",
+   "model": "AI PONT NA"
+  },
+  {
+   "brand": "SABA",
+   "name": "A11",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "TECO",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "THEHAM",
+   "name": "Android TV",
+   "model": "AI PONT NA"
+  },
+  {
+   "brand": "Vu Televisions",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Witooth",
+   "name": "Android TV",
+   "model": "AI PONT NA"
+  }
+ ],
  "redwood": [
   {
    "brand": "ALBADEEL",
@@ -4152,6 +4239,13 @@
    "brand": "Acer",
    "name": "Acer One 7 4G",
    "model": "Acer One 7 4G"
+  }
+ ],
+ "AcerOne8T4-82Lxi": [
+  {
+   "brand": "Acer",
+   "name": "Acer One 8 T4-82L",
+   "model": "Acer One 8 T4-82L"
   }
  ],
  "AcerOne8T482L": [
@@ -6920,6 +7014,13 @@
    "model": "SP4702"
   }
  ],
+ "SP4703": [
+  {
+   "brand": "Advance",
+   "name": "SP4703",
+   "model": "SP4703"
+  }
+ ],
  "SP4872": [
   {
    "brand": "Advance",
@@ -6974,6 +7075,13 @@
    "brand": "Advance",
    "name": "SP5775",
    "model": "SP5775"
+  }
+ ],
+ "SP5776": [
+  {
+   "brand": "Advance",
+   "name": "SP5776",
+   "model": "SP5776"
   }
  ],
  "SP5782": [
@@ -19445,88 +19553,6 @@
    "model": "Smart_Camon"
   }
  ],
- "longshan": [
-  {
-   "brand": "BEC-KW",
-   "name": "Smart TV",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "BPL",
-   "name": "Android TV",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "BenQ",
-   "name": "Smart TV",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "CHiQ",
-   "name": "Smart TV",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Changhong",
-   "name": "Smart TV",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Estla",
-   "name": "Android TV",
-   "model": "AI PONT NA"
-  },
-  {
-   "brand": "Grunhelm",
-   "name": "Smart TV",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Kogan",
-   "name": "Smart TV",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Nikkei",
-   "name": "Android TV",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "OK (Mediamark)",
-   "name": "Android TV",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Prism",
-   "name": "Android TV",
-   "model": "AI PONT NA"
-  },
-  {
-   "brand": "SABA",
-   "name": "A11",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "TECO",
-   "name": "Android TV",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "THEHAM",
-   "name": "Android TV",
-   "model": "AI PONT NA"
-  },
-  {
-   "brand": "Vu Televisions",
-   "name": "Android TV",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Witooth",
-   "name": "Android TV",
-   "model": "AI PONT NA"
-  }
- ],
  "K105": [
   {
    "brand": "BEISTA",
@@ -21709,6 +21735,18 @@
    "model": "BQ-5530L"
   }
  ],
+ "BQru-5533G": [
+  {
+   "brand": "BQru",
+   "name": "BQ-5533G",
+   "model": "BQ-5533G"
+  },
+  {
+   "brand": "BQru",
+   "name": "BQru-5533G",
+   "model": "BQ-5533G"
+  }
+ ],
  "BQru-5535L": [
   {
    "brand": "BQru",
@@ -22183,13 +22221,6 @@
    "brand": "BQru",
    "name": "BQru-5521L",
    "model": "BQ-5521L"
-  }
- ],
- "BQru-5533G": [
-  {
-   "brand": "BQru",
-   "name": "BQru-5533G",
-   "model": "BQ-5533G"
   }
  ],
  "BQru-5565L": [
@@ -23392,6 +23423,13 @@
    "model": "M1036"
   }
  ],
+ "M1038_EEA": [
+  {
+   "brand": "Beneve",
+   "name": "M1038_EEA",
+   "model": "M1037"
+  }
+ ],
  "M7133": [
   {
    "brand": "Beneve",
@@ -24066,6 +24104,13 @@
    "brand": "BlackBerry",
    "name": "PRIV by BlackBerry",
    "model": "STV100-4"
+  }
+ ],
+ "BMM431B": [
+  {
+   "brand": "Blackfox",
+   "name": "BMM431B",
+   "model": "BMM431B"
   }
  ],
  "BMM431S": [
@@ -26118,6 +26163,13 @@
    "model": "C5L 2021"
   }
  ],
+ "C0101TT": [
+  {
+   "brand": "Blu",
+   "name": "C5L 2021",
+   "model": "C5L 2021"
+  }
+ ],
  "C0110WW": [
   {
    "brand": "Blu",
@@ -26560,6 +26612,20 @@
    "brand": "Blu",
    "name": "G70",
    "model": "G70"
+  }
+ ],
+ "G0570WW": [
+  {
+   "brand": "Blu",
+   "name": "G71",
+   "model": "G71 PLUS"
+  }
+ ],
+ "G0710WW": [
+  {
+   "brand": "Blu",
+   "name": "G71L",
+   "model": "G71L"
   }
  ],
  "G0170": [
@@ -37482,6 +37548,18 @@
    "model": "Core-T4"
   }
  ],
+ "L820": [
+  {
+   "brand": "Crosscall",
+   "name": "Core-T5",
+   "model": "Core-T4 Neo"
+  },
+  {
+   "brand": "Crosscall",
+   "name": "Core-T5",
+   "model": "Core-T5"
+  }
+ ],
  "L762": [
   {
    "brand": "Crosscall",
@@ -42165,6 +42243,11 @@
   }
  ],
  "CS3242ML": [
+  {
+   "brand": "Digma",
+   "name": "CITI_13_X703_4G",
+   "model": "CITI 13 X703 4G CS3242ML"
+  },
   {
    "brand": "Digma",
    "name": "CITI_13_X703_4G",
@@ -48243,6 +48326,13 @@
    "brand": "EssentielB",
    "name": "SmartTab1007",
    "model": "SmartTAB1007"
+  }
+ ],
+ "E618": [
+  {
+   "brand": "Estalky",
+   "name": "Estalky-E618",
+   "model": "E618"
   }
  ],
  "1021W_URBAN": [
@@ -55266,6 +55356,27 @@
    "brand": "Haier",
    "name": "G700",
    "model": "G700"
+  }
+ ],
+ "G312": [
+  {
+   "brand": "General Mobile",
+   "name": "GM 22",
+   "model": "G312"
+  }
+ ],
+ "G512": [
+  {
+   "brand": "General Mobile",
+   "name": "GM 22 Plus",
+   "model": "G512"
+  }
+ ],
+ "G702": [
+  {
+   "brand": "General Mobile",
+   "name": "GM 22 Pro",
+   "model": "G702"
   }
  ],
  "GM6_d_sprout": [
@@ -66903,18 +67014,6 @@
    "brand": "Hisense",
    "name": "CMB510",
    "model": "CMB510"
-  }
- ],
- "L820": [
-  {
-   "brand": "Hisense",
-   "name": "Core-T5",
-   "model": "Core-T4 Neo"
-  },
-  {
-   "brand": "Hisense",
-   "name": "Core-T5",
-   "model": "Core-T5"
   }
  ],
  "D1_M": [
@@ -80566,6 +80665,11 @@
    "brand": "Hurricane",
    "name": "Galaxy",
    "model": "Galaxy"
+  },
+  {
+   "brand": "Stylo",
+   "name": "Galaxy",
+   "model": "Galaxy"
   }
  ],
  "HURRICANE_GIGA": [
@@ -92265,6 +92369,13 @@
    "model": "KODAK_SMARTWAY_X2"
   }
  ],
+ "Kodak_D40": [
+  {
+   "brand": "Kodak",
+   "name": "Kodak_D40",
+   "model": "D40"
+  }
+ ],
  "Kodak_D50L": [
   {
    "brand": "Kodak",
@@ -102643,6 +102754,13 @@
    "model": "LUNA G6E"
   }
  ],
+ "LM5314G": [
+  {
+   "brand": "LUSH_MINT",
+   "name": "LM5314G",
+   "model": "LM5314G"
+  }
+ ],
  "LM5414G": [
   {
    "brand": "LUSH_MINT",
@@ -108908,6 +109026,13 @@
    "model": "Lenovo TB-X606V"
   }
  ],
+ "TB125FU": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M10 Plus 3rd Gen",
+   "model": "Lenovo TB125FU"
+  }
+ ],
  "7305F": [
   {
    "brand": "Lenovo",
@@ -111100,6 +111225,13 @@
    "brand": "Logic Instrument",
    "name": "Logic Instrument Fieldbook N80",
    "model": "Logic Instrument Fieldbook N80"
+  }
+ ],
+ "L4T": [
+  {
+   "brand": "Logic Mobility",
+   "name": "L4T",
+   "model": "L4T"
   }
  ],
  "LOGIC_L50": [
@@ -115539,6 +115671,13 @@
    "brand": "Maxwest",
    "name": "TAB_MAX_7",
    "model": "TAB_MAX_7"
+  }
+ ],
+ "MS5314G": [
+  {
+   "brand": "Maze_speed",
+   "name": "MS5314G",
+   "model": "MS5314G"
   }
  ],
  "MS5414G": [
@@ -132961,6 +133100,13 @@
    "model": "MT2110"
   }
  ],
+ "OP5155L1": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 9RT 5G",
+   "model": "MT2111"
+  }
+ ],
  "Nord": [
   {
    "brand": "OnePlus",
@@ -144806,6 +144952,13 @@
    "model": "X70-2021"
   }
  ],
+ "X75": [
+  {
+   "brand": "Premio",
+   "name": "X75",
+   "model": "X75"
+  }
+ ],
  "X83": [
   {
    "brand": "Premio",
@@ -153356,6 +153509,13 @@
    "model": "SS5214G"
   }
  ],
+ "SS5314G": [
+  {
+   "brand": "SOHO STYLE",
+   "name": "SS5314G",
+   "model": "SS5314G"
+  }
+ ],
  "SS5414G": [
   {
    "brand": "SOHO STYLE",
@@ -153637,6 +153797,27 @@
    "brand": "SPC Mobile",
    "name": "S19",
    "model": "S19"
+  }
+ ],
+ "SMART_MAX_2": [
+  {
+   "brand": "SPC Mobile",
+   "name": "SMART_MAX_2",
+   "model": "SMART_MAX_2"
+  }
+ ],
+ "SMART_PRO": [
+  {
+   "brand": "SPC Mobile",
+   "name": "SMART_PRO",
+   "model": "SMART_PRO"
+  }
+ ],
+ "SMART_PRO_EEA": [
+  {
+   "brand": "SPC Mobile",
+   "name": "SMART_PRO",
+   "model": "SMART_PRO"
   }
  ],
  "SMART_ULTIMATE": [
@@ -182482,6 +182663,13 @@
    "model": "721"
   }
  ],
+ "AS210291": [
+  {
+   "brand": "Stylo",
+   "name": "AS210291",
+   "model": "AS210291"
+  }
+ ],
  "BOLD": [
   {
    "brand": "Stylo",
@@ -182520,6 +182708,13 @@
    "brand": "Stylo",
    "name": "Ithemba",
    "model": "Ithemba"
+  }
+ ],
+ "DQR22": [
+  {
+   "brand": "Stylo",
+   "name": "Jupiter",
+   "model": "DQR22"
   }
  ],
  "LIFE_2": [
@@ -183431,6 +183626,13 @@
    "model": "swisstone SD 530"
   }
  ],
+ "RS-403": [
+  {
+   "brand": "Syco",
+   "name": "RS-403_EEA",
+   "model": "RS-403"
+  }
+ ],
  "ATOM": [
   {
    "brand": "Symphony",
@@ -183882,6 +184084,13 @@
    "brand": "Symphony",
    "name": "Z35",
    "model": "Z35"
+  }
+ ],
+ "Z42": [
+  {
+   "brand": "Symphony",
+   "name": "Z42",
+   "model": "Z42"
   }
  ],
  "Z45": [
@@ -199702,6 +199911,11 @@
  "BISON_X10S": [
   {
    "brand": "Umidigi",
+   "name": "BISON X10S",
+   "model": "RP05"
+  },
+  {
+   "brand": "Umidigi",
    "name": "BISON X10S EEA",
    "model": "RP05"
   }
@@ -208601,6 +208815,13 @@
    "brand": "Walton",
    "name": "WALPAD 10P",
    "model": "WALPAD 10P"
+  }
+ ],
+ "WALPAD8G_V2": [
+  {
+   "brand": "Walton",
+   "name": "WALPAD 8G",
+   "model": "WALPAD_8G"
   }
  ],
  "WALPAD_8G": [
@@ -222508,6 +222729,13 @@
    "model": "ZB40"
   }
  ],
+ "ZZB_ZB30": [
+  {
+   "brand": "ZZB (cn)",
+   "name": "ZZB_ZB30",
+   "model": "ZZB_ZB30"
+  }
+ ],
  "Z3211G": [
   {
    "brand": "Zaith",
@@ -225882,6 +226110,13 @@
    "brand": "iHunt",
    "name": "iHunt_Like_12_EEA",
    "model": "iHunt Like 12"
+  }
+ ],
+ "iHunt_Note_Ultra": [
+  {
+   "brand": "iHunt",
+   "name": "iHunt_Note_Ultra",
+   "model": "iHunt Note Ultra"
   }
  ],
  "iHunt_S60_Discovery_Pro_2020": [
