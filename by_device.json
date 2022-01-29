@@ -30832,6 +30832,13 @@
    "model": "BETELGEUSE"
   }
  ],
+ "GACRUX": [
+  {
+   "brand": "Ceibal",
+   "name": "GACRUX",
+   "model": "GACRUX"
+  }
+ ],
  "A81F": [
   {
    "brand": "Ceibal",
@@ -32847,6 +32854,13 @@
    "brand": "Chuwi",
    "name": "HiPadPlus_TR",
    "model": "HiPadPlus"
+  }
+ ],
+ "HiPadPro": [
+  {
+   "brand": "Chuwi",
+   "name": "HiPadPro",
+   "model": "HiPadPro"
   }
  ],
  "HiPadX": [
@@ -38940,6 +38954,13 @@
    "brand": "DEXP",
    "name": "BS650",
    "model": "BS650"
+  }
+ ],
+ "C37": [
+  {
+   "brand": "DEXP",
+   "name": "C37",
+   "model": "C37"
   }
  ],
  "D11": [
@@ -50354,6 +50375,13 @@
    "model": "T8A"
   }
  ],
+ "T8M": [
+  {
+   "brand": "FOXXD",
+   "name": "T8M",
+   "model": "T8M"
+  }
+ ],
  "DV8236": [
   {
    "brand": "FPT Telecom",
@@ -54320,6 +54348,11 @@
   },
   {
    "brand": "Win (VE)",
+   "name": "Q7",
+   "model": "Q7"
+  },
+  {
+   "brand": "X-View",
    "name": "Q7",
    "model": "Q7"
   }
@@ -65462,6 +65495,13 @@
    "brand": "Handheld Group",
    "name": "Algiz RT7",
    "model": "Algiz RT7"
+  }
+ ],
+ "HTA11": [
+  {
+   "brand": "Handheld Group",
+   "name": "HTA11",
+   "model": "HTA11"
   }
  ],
  "NAUTIZ_X2": [
@@ -108867,6 +108907,13 @@
    "model": "TB328FU"
   }
  ],
+ "TB328XU": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M10 (3rd Gen)",
+   "model": "TB328XU"
+  }
+ ],
  "X605F": [
   {
    "brand": "Lenovo",
@@ -125473,6 +125520,13 @@
    "model": "Movitel_M9104"
   }
  ],
+ "MH-T6000": [
+  {
+   "brand": "Moxee Technologies",
+   "name": "MH-T6000",
+   "model": "MH-T6000"
+  }
+ ],
  "MT-T800": [
   {
    "brand": "Moxee Technologies",
@@ -130123,6 +130177,13 @@
    "model": "NBTB101"
   }
  ],
+ "NBTB102": [
+  {
+   "brand": "NewBridge",
+   "name": "NBTB102",
+   "model": "NBTB102"
+  }
+ ],
  "T18": [
   {
    "brand": "Newings",
@@ -133433,6 +133494,20 @@
    "model": "100044018P"
   }
  ],
+ "mid7019_mr_32": [
+  {
+   "brand": "Onn (Walmart)",
+   "name": "100071481",
+   "model": "100071481"
+  }
+ ],
+ "100071483": [
+  {
+   "brand": "Onn (Walmart)",
+   "name": "100071483",
+   "model": "100071483"
+  }
+ ],
  "100071485": [
   {
    "brand": "Onn (Walmart)",
@@ -134457,6 +134532,13 @@
    "brand": "Oppo",
    "name": "Reno5 Lite",
    "model": "CPH2205"
+  }
+ ],
+ "OP5267": [
+  {
+   "brand": "Oppo",
+   "name": "A96 5G",
+   "model": "PFUM10"
   }
  ],
  "OP46F3": [
@@ -137386,6 +137468,13 @@
    "brand": "Orbic",
    "name": "R678L5",
    "model": "R678L5"
+  }
+ ],
+ "R8L5T": [
+  {
+   "brand": "Orbic",
+   "name": "R8L5T",
+   "model": "R8L5T"
   }
  ],
  "Orbic-RC506LT": [
@@ -175981,6 +176070,13 @@
    "model": "Elite T57"
   }
  ],
+ "ELITE_P55Max": [
+  {
+   "brand": "Sky Devices",
+   "name": "ELITE_P55Max",
+   "model": "Elite P55Max"
+  }
+ ],
  "ELITE_P55US": [
   {
    "brand": "Sky Devices",
@@ -176442,6 +176538,13 @@
    "brand": "Sky Devices",
    "name": "Elite_T8Pluss",
    "model": "Elite T8Plus"
+  }
+ ],
+ "Elite_V55": [
+  {
+   "brand": "Sky Devices",
+   "name": "Elite_V55",
+   "model": "Elite V55"
   }
  ],
  "Fuego_4_0T_EC": [
@@ -192679,6 +192782,20 @@
    "model": "T211-EEA"
   }
  ],
+ "T22": [
+  {
+   "brand": "TOSCIDO",
+   "name": "T22",
+   "model": "T22"
+  }
+ ],
+ "T22-EEA": [
+  {
+   "brand": "TOSCIDO",
+   "name": "T22-EEA",
+   "model": "T22-EEA"
+  }
+ ],
  "T50-EEA": [
   {
    "brand": "TOSCIDO",
@@ -197365,6 +197482,13 @@
    "model": "T10+"
   }
  ],
+ "TABAI1": [
+  {
+   "brand": "Todos",
+   "name": "TABAI1",
+   "model": "TABAI1"
+  }
+ ],
  "Tab64": [
   {
    "brand": "Todos",
@@ -198700,6 +198824,13 @@
    "brand": "UNIQ-CELL",
    "name": "K7_PRO",
    "model": "K7pro"
+  }
+ ],
+ "UNIQ0122": [
+  {
+   "brand": "UNIQ-CELL",
+   "name": "UNIQ0122",
+   "model": "UNIQ0122"
   }
  ],
  "UNIQCELL_A4": [
@@ -213368,6 +213499,13 @@
    "brand": "YOTOPT",
    "name": "Y8-EEA",
    "model": "Y8-EEA"
+  }
+ ],
+ "YOUTAB_S7": [
+  {
+   "brand": "YOUTAB",
+   "name": "YOUTAB_S7",
+   "model": "YOUTAB S7"
   }
  ],
  "P80_RU": [

@@ -28964,6 +28964,13 @@
    "device": "BETELGEUSE"
   }
  ],
+ "GACRUX": [
+  {
+   "brand": "Ceibal",
+   "name": "GACRUX",
+   "device": "GACRUX"
+  }
+ ],
  "A81F": [
   {
    "brand": "Ceibal",
@@ -30927,6 +30934,13 @@
    "brand": "Chuwi",
    "name": "HiPadPlus_EEA",
    "device": "HiPadPlus"
+  }
+ ],
+ "HiPadPro": [
+  {
+   "brand": "Chuwi",
+   "name": "HiPadPro",
+   "device": "HiPadPro"
   }
  ],
  "HiPad X": [
@@ -36606,6 +36620,13 @@
    "brand": "DEXP",
    "name": "BS650",
    "device": "BS650"
+  }
+ ],
+ "C37": [
+  {
+   "brand": "DEXP",
+   "name": "C37",
+   "device": "C37"
   }
  ],
  "D11": [
@@ -47992,6 +48013,13 @@
    "device": "T8A"
   }
  ],
+ "T8M": [
+  {
+   "brand": "FOXXD",
+   "name": "T8M",
+   "device": "T8M"
+  }
+ ],
  "FPT ATV Play Box": [
   {
    "brand": "FPT Telecom",
@@ -51986,6 +52014,11 @@
   },
   {
    "brand": "Win (VE)",
+   "name": "Q7",
+   "device": "Q7"
+  },
+  {
+   "brand": "X-View",
    "name": "Q7",
    "device": "Q7"
   }
@@ -63898,6 +63931,13 @@
    "brand": "Handheld Group",
    "name": "Algiz RT7",
    "device": "algizRT7"
+  }
+ ],
+ "HTA11": [
+  {
+   "brand": "Handheld Group",
+   "name": "HTA11",
+   "device": "HTA11"
   }
  ],
  "NAUTIZ_X2": [
@@ -111230,6 +111270,13 @@
    "device": "TB328FU"
   }
  ],
+ "TB328XU": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M10 (3rd Gen)",
+   "device": "TB328XU"
+  }
+ ],
  "Lenovo TB-X605F": [
   {
    "brand": "Lenovo",
@@ -128161,6 +128208,13 @@
    "device": "Movitel_M9104"
   }
  ],
+ "MH-T6000": [
+  {
+   "brand": "Moxee Technologies",
+   "name": "MH-T6000",
+   "device": "MH-T6000"
+  }
+ ],
  "MT-T800": [
   {
    "brand": "Moxee Technologies",
@@ -132792,6 +132846,13 @@
    "device": "NBTB101"
   }
  ],
+ "NBTB102": [
+  {
+   "brand": "NewBridge",
+   "name": "NBTB102",
+   "device": "NBTB102"
+  }
+ ],
  "T18": [
   {
    "brand": "Newings",
@@ -136169,6 +136230,20 @@
    "device": "100044018P"
   }
  ],
+ "100071481": [
+  {
+   "brand": "Onn (Walmart)",
+   "name": "100071481",
+   "device": "mid7019_mr_32"
+  }
+ ],
+ "100071483": [
+  {
+   "brand": "Onn (Walmart)",
+   "name": "100071483",
+   "device": "100071483"
+  }
+ ],
  "100071485": [
   {
    "brand": "Onn (Walmart)",
@@ -137281,6 +137356,13 @@
    "brand": "Oppo",
    "name": "A94",
    "device": "OP4F43L1"
+  }
+ ],
+ "PFUM10": [
+  {
+   "brand": "Oppo",
+   "name": "A96 5G",
+   "device": "OP5267"
   }
  ],
  "PCEM00": [
@@ -140288,6 +140370,13 @@
    "brand": "Orbic",
    "name": "R678L5",
    "device": "R678L5"
+  }
+ ],
+ "R8L5T": [
+  {
+   "brand": "Orbic",
+   "name": "R8L5T",
+   "device": "R8L5T"
   }
  ],
  "RC506LT": [
@@ -181386,6 +181475,13 @@
    "device": "Elite_T57_GT"
   }
  ],
+ "Elite P55Max": [
+  {
+   "brand": "Sky Devices",
+   "name": "ELITE_P55Max",
+   "device": "ELITE_P55Max"
+  }
+ ],
  "Elite A5": [
   {
    "brand": "Sky Devices",
@@ -181719,6 +181815,13 @@
    "brand": "Sky Devices",
    "name": "Elite_J55",
    "device": "Elite_J55"
+  }
+ ],
+ "Elite V55": [
+  {
+   "brand": "Sky Devices",
+   "name": "Elite_V55",
+   "device": "Elite_V55"
   }
  ],
  "Fuego 4.0T": [
@@ -200390,6 +200493,20 @@
    "device": "T211-EEA"
   }
  ],
+ "T22": [
+  {
+   "brand": "TOSCIDO",
+   "name": "T22",
+   "device": "T22"
+  }
+ ],
+ "T22-EEA": [
+  {
+   "brand": "TOSCIDO",
+   "name": "T22-EEA",
+   "device": "T22-EEA"
+  }
+ ],
  "T50-EEA": [
   {
    "brand": "TOSCIDO",
@@ -205212,6 +205329,13 @@
    "device": "T10plus"
   }
  ],
+ "TABAI1": [
+  {
+   "brand": "Todos",
+   "name": "TABAI1",
+   "device": "TABAI1"
+  }
+ ],
  "Tab64": [
   {
    "brand": "Todos",
@@ -206636,6 +206760,13 @@
    "brand": "UNIQ-CELL",
    "name": "K7_PRO",
    "device": "K7_PRO"
+  }
+ ],
+ "UNIQ0122": [
+  {
+   "brand": "UNIQ-CELL",
+   "name": "UNIQ0122",
+   "device": "UNIQ0122"
   }
  ],
  "UNIQCELL_A4": [
@@ -222024,6 +222155,13 @@
    "brand": "YOUIN",
    "name": "SEI600EN",
    "device": "HND"
+  }
+ ],
+ "YOUTAB S7": [
+  {
+   "brand": "YOUTAB",
+   "name": "YOUTAB_S7",
+   "device": "YOUTAB_S7"
   }
  ],
  "P80_RU": [

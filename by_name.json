@@ -35182,6 +35182,13 @@
    "model": "BETELGEUSE"
   }
  ],
+ "GACRUX": [
+  {
+   "brand": "Ceibal",
+   "device": "GACRUX",
+   "model": "GACRUX"
+  }
+ ],
  "Ibirapita": [
   {
    "brand": "Ceibal",
@@ -37176,6 +37183,13 @@
    "brand": "Chuwi",
    "device": "HiPadPlus",
    "model": "HiPadPlus"
+  }
+ ],
+ "HiPadPro": [
+  {
+   "brand": "Chuwi",
+   "device": "HiPadPro",
+   "model": "HiPadPro"
   }
  ],
  "HiPadX-1_EEA": [
@@ -43017,6 +43031,13 @@
    "brand": "DEXP",
    "device": "BS650",
    "model": "BS650"
+  }
+ ],
+ "C37": [
+  {
+   "brand": "DEXP",
+   "device": "C37",
+   "model": "C37"
   }
  ],
  "D11": [
@@ -49674,6 +49695,11 @@
    "model": "Q7"
   },
   {
+   "brand": "X-View",
+   "device": "Q7",
+   "model": "Q7"
+  },
+  {
    "brand": "ZTE",
    "device": "CMCC_P839V50",
    "model": "ZTE Q7"
@@ -54667,6 +54693,13 @@
    "brand": "FOXXD",
    "device": "T8A",
    "model": "T8A"
+  }
+ ],
+ "T8M": [
+  {
+   "brand": "FOXXD",
+   "device": "T8M",
+   "model": "T8M"
   }
  ],
  "FPT ATV Play Box": [
@@ -69895,6 +69928,13 @@
    "brand": "Handheld Group",
    "device": "algizRT7",
    "model": "Algiz RT7"
+  }
+ ],
+ "HTA11": [
+  {
+   "brand": "Handheld Group",
+   "device": "HTA11",
+   "model": "HTA11"
   }
  ],
  "HandHeld NAUTIZ X2": [
@@ -110294,6 +110334,11 @@
    "brand": "Lenovo",
    "device": "TB328FU",
    "model": "TB328FU"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "TB328XU",
+   "model": "TB328XU"
   }
  ],
  "Lenovo Tab M10 (FHD)": [
@@ -126015,6 +126060,13 @@
    "model": "Movitel_M9104"
   }
  ],
+ "MH-T6000": [
+  {
+   "brand": "Moxee Technologies",
+   "device": "MH-T6000",
+   "model": "MH-T6000"
+  }
+ ],
  "MT-T800": [
   {
    "brand": "Moxee Technologies",
@@ -130541,6 +130593,13 @@
    "model": "NBTB101"
   }
  ],
+ "NBTB102": [
+  {
+   "brand": "NewBridge",
+   "device": "NBTB102",
+   "model": "NBTB102"
+  }
+ ],
  "T18": [
   {
    "brand": "Newings",
@@ -133734,6 +133793,20 @@
    "model": "100044018P"
   }
  ],
+ "100071481": [
+  {
+   "brand": "Onn (Walmart)",
+   "device": "mid7019_mr_32",
+   "model": "100071481"
+  }
+ ],
+ "100071483": [
+  {
+   "brand": "Onn (Walmart)",
+   "device": "100071483",
+   "model": "100071483"
+  }
+ ],
  "100071485": [
   {
    "brand": "Onn (Walmart)",
@@ -134561,6 +134634,13 @@
    "brand": "Oppo",
    "device": "OP4F43L1",
    "model": "CPH2203"
+  }
+ ],
+ "A96 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP5267",
+   "model": "PFUM10"
   }
  ],
  "A9x": [
@@ -137435,6 +137515,13 @@
    "brand": "Orbic",
    "device": "R678L5",
    "model": "R678L5"
+  }
+ ],
+ "R8L5T": [
+  {
+   "brand": "Orbic",
+   "device": "R8L5T",
+   "model": "R8L5T"
   }
  ],
  "RC506LT": [
@@ -174180,6 +174267,13 @@
    "model": "ELITE T8"
   }
  ],
+ "ELITE_P55Max": [
+  {
+   "brand": "Sky Devices",
+   "device": "ELITE_P55Max",
+   "model": "Elite P55Max"
+  }
+ ],
  "ELITE_P55US": [
   {
    "brand": "Sky Devices",
@@ -174591,6 +174685,13 @@
    "brand": "Sky Devices",
    "device": "Elite_T8Pluss",
    "model": "Elite T8Plus"
+  }
+ ],
+ "Elite_V55": [
+  {
+   "brand": "Sky Devices",
+   "device": "Elite_V55",
+   "model": "Elite V55"
   }
  ],
  "Fuego 4.0T": [
@@ -190509,6 +190610,20 @@
    "model": "T211-EEA"
   }
  ],
+ "T22": [
+  {
+   "brand": "TOSCIDO",
+   "device": "T22",
+   "model": "T22"
+  }
+ ],
+ "T22-EEA": [
+  {
+   "brand": "TOSCIDO",
+   "device": "T22-EEA",
+   "model": "T22-EEA"
+  }
+ ],
  "T50-EEA": [
   {
    "brand": "TOSCIDO",
@@ -194987,6 +195102,13 @@
    "model": "T10+"
   }
  ],
+ "TABAI1": [
+  {
+   "brand": "Todos",
+   "device": "TABAI1",
+   "model": "TABAI1"
+  }
+ ],
  "Togocel EGO plus": [
   {
    "brand": "Togocel",
@@ -196348,6 +196470,13 @@
    "brand": "UNIQ-CELL",
    "device": "K7_PRO",
    "model": "K7pro"
+  }
+ ],
+ "UNIQ0122": [
+  {
+   "brand": "UNIQ-CELL",
+   "device": "UNIQ0122",
+   "model": "UNIQ0122"
   }
  ],
  "UNIQCELL_A4": [
@@ -211401,6 +211530,13 @@
    "brand": "YOUIN",
    "device": "HND",
    "model": "YOU-BOX"
+  }
+ ],
+ "YOUTAB_S7": [
+  {
+   "brand": "YOUTAB",
+   "device": "YOUTAB_S7",
+   "model": "YOUTAB S7"
   }
  ],
  "P80_RU": [
