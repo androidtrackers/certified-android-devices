@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-01-29
+Last sync is 2022-01-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -33831,6 +33831,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|NX669J|NX669J|NX669J|
 |ZTE|NX669J|NX669J-EEA|NX669J|
 |ZTE|NX669J|NX669J-UN|NX669J|
+|ZTE|NX679J|NX679J|NX679J|
 |ZTE|NX907J|NX907J|NX907J|
 |ZTE|Nubia 4010|P963F60|Nubia 4010|
 |ZTE|Nubia 6010|P963F07|Nubia 6010|
