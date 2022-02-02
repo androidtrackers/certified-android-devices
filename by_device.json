@@ -104346,11 +104346,25 @@
    "model": "T71_w"
   }
  ],
+ "LTN8RT": [
+  {
+   "brand": "Lava",
+   "name": "T81",
+   "model": "LTN8RT"
+  }
+ ],
  "T81": [
   {
    "brand": "Lava",
    "name": "T81",
    "model": "T81"
+  }
+ ],
+ "T81_PB": [
+  {
+   "brand": "Lava",
+   "name": "T81",
+   "model": "T81_PB"
   }
  ],
  "T81N": [
@@ -104597,11 +104611,25 @@
    "model": "LAVA LZG402_1"
   }
  ],
+ "LZG402_OMI": [
+  {
+   "brand": "Lava",
+   "name": "Z1S",
+   "model": "LAVA LZG402 OMI"
+  }
+ ],
  "LMG01": [
   {
    "brand": "Lava",
    "name": "Z2",
    "model": "LAVA LMG01"
+  }
+ ],
+ "LZG402_OM": [
+  {
+   "brand": "Lava",
+   "name": "Z21",
+   "model": "LAVA LZG402 OM"
   }
  ],
  "Z25": [
@@ -104628,6 +104656,13 @@
    "brand": "Lava",
    "name": "Z3",
    "model": "LAVA LZG403"
+  }
+ ],
+ "Z3_UP_2": [
+  {
+   "brand": "Lava",
+   "name": "Z3",
+   "model": "LAVA Z3 UP 2"
   }
  ],
  "AH9910": [
@@ -118876,6 +118911,13 @@
    "brand": "Micromax",
    "name": "In_Note1",
    "model": "IN_Note1"
+  }
+ ],
+ "E7446": [
+  {
+   "brand": "Micromax",
+   "name": "IN_Note2",
+   "model": "E7446"
   }
  ],
  "E6746": [

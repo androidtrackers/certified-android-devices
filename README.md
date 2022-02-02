@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-02-01
+Last sync is 2022-02-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -15243,7 +15243,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|T71N|T71N|T71N|
 |Lava|T71N_M|T71N_M|T71N_M|
 |Lava|T71_w|T71_w|T71_w|
+|Lava|T81|LTN8RT|LTN8RT|
 |Lava|T81|T81|T81|
+|Lava|T81|T81_PB|T81_PB|
 |Lava|T81N|T81N|T81N|
 |Lava|V2 3GB|V23GB|V23GB|
 |Lava|V2s|V2s|V2s|
@@ -15284,10 +15286,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|Z10|LAVA_Z10|Z10|
 |Lava|Z100|Z100|Z100|
 |Lava|Z1S|LZG402_1|LAVA LZG402_1|
+|Lava|Z1S|LZG402_OMI|LAVA LZG402 OMI|
 |Lava|Z2|LMG01|LAVA LMG01|
+|Lava|Z21|LZG402_OM|LAVA LZG402 OM|
 |Lava|Z25|Z25|Z25|
 |Lava|Z3|LMX04|LAVA LMX04|
 |Lava|Z3|LZG403|LAVA LZG403|
+|Lava|Z3|Z3_UP_2|LAVA Z3 UP 2|
 |Lava|Z30|AH9910|AH9910|
 |Lava|Z30|AN9910|AN9910|
 |Lava|Z4/Z6|LMX06|LAVA LMX06|
@@ -17462,6 +17467,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Micromax|IN1b|E7533|Micromax E7533|
 |Micromax|IN_2b|E7544|IN_2b|
 |Micromax|IN_Note1|E7746|IN_Note1|
+|Micromax|IN_Note2|E7446|E7446|
 |Micromax|In1|E6746|IN1|
 |Micromax|In_Note1|E7746|IN_Note1|
 |Micromax|Infinity N Series N12|N8301|N8301|

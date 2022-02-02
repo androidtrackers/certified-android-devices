@@ -106566,8 +106566,18 @@
  "T81": [
   {
    "brand": "Lava",
+   "device": "LTN8RT",
+   "model": "LTN8RT"
+  },
+  {
+   "brand": "Lava",
    "device": "T81",
    "model": "T81"
+  },
+  {
+   "brand": "Lava",
+   "device": "T81_PB",
+   "model": "T81_PB"
   },
   {
    "brand": "ZTE",
@@ -106827,6 +106837,11 @@
    "brand": "Lava",
    "device": "LZG402_1",
    "model": "LAVA LZG402_1"
+  },
+  {
+   "brand": "Lava",
+   "device": "LZG402_OMI",
+   "model": "LAVA LZG402 OMI"
   }
  ],
  "Z2": [
@@ -106876,6 +106891,13 @@
    "model": "Z2"
   }
  ],
+ "Z21": [
+  {
+   "brand": "Lava",
+   "device": "LZG402_OM",
+   "model": "LAVA LZG402 OM"
+  }
+ ],
  "Z25": [
   {
    "brand": "Lava",
@@ -106898,6 +106920,11 @@
    "brand": "Lava",
    "device": "LZG403",
    "model": "LAVA LZG403"
+  },
+  {
+   "brand": "Lava",
+   "device": "Z3_UP_2",
+   "model": "LAVA Z3 UP 2"
   },
   {
    "brand": "Sharp",
@@ -119819,6 +119846,13 @@
    "brand": "Micromax",
    "device": "E7746",
    "model": "IN_Note1"
+  }
+ ],
+ "IN_Note2": [
+  {
+   "brand": "Micromax",
+   "device": "E7446",
+   "model": "E7446"
   }
  ],
  "In1": [
