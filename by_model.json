@@ -204709,6 +204709,13 @@
    "device": "uiw4054tlu"
   }
  ],
+ "UIW4020TLU": [
+  {
+   "brand": "Telus",
+   "name": "UIW4020TLU",
+   "device": "uiw4020tlu"
+  }
+ ],
  "Teracube 2e": [
   {
    "brand": "Teracube",

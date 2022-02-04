@@ -154283,6 +154283,11 @@
    "device": "uiw4054tlu",
    "name": "TELUSTV-21T",
    "model": "TELUSTV-21T"
+  },
+  {
+   "device": "uiw4020tlu",
+   "name": "UIW4020TLU",
+   "model": "UIW4020TLU"
   }
  ],
  "Teracube": [

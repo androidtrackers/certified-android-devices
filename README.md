@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-02-03
+Last sync is 2022-02-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -30089,6 +30089,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telus|HMB2213PW22TS|HMB2213PW22TS|HMB2213PW22TS|
 |Telus|Pik TV Media Box|HMB2213PW22TS|HMB2213PW22TS|
 |Telus|TELUSTV-21T|uiw4054tlu|TELUSTV-21T|
+|Telus|UIW4020TLU|uiw4020tlu|UIW4020TLU|
 |Teracube|Teracube 2e|Teracube_2e|Teracube 2e|
 |Teracube|Teracube_One|Teracube_One|Teracube One|
 |Tesco|Hudl 2|HTF8A4|Hudl 2|
