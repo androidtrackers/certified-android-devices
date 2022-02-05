@@ -40250,6 +40250,11 @@
    "model": "S30"
   },
   {
+   "brand": "G-Tab",
+   "name": "PL1000B",
+   "model": "S30"
+  },
+  {
    "brand": "Vankyo",
    "name": "S30",
    "model": "S30"
@@ -115063,6 +115068,13 @@
    "model": "Masstel Tab8"
   }
  ],
+ "Masstel_Hapi_20": [
+  {
+   "brand": "Masstel",
+   "name": "Masstel_Hapi_20",
+   "model": "Masstel Hapi 20"
+  }
+ ],
  "Masstel_Juno_Q3": [
   {
    "brand": "Masstel",
@@ -137428,6 +137440,13 @@
    "model": "Orange Sego"
   }
  ],
+ "zc4455v_orb": [
+  {
+   "brand": "Orange",
+   "name": "TV Box",
+   "model": "Orange TV Box"
+  }
+ ],
  "zi4450v_ors": [
   {
    "brand": "Orange",
@@ -152847,6 +152866,13 @@
    "brand": "Ruio",
    "name": "Cola Plus 4G",
    "model": "M675M4"
+  }
+ ],
+ "AIS-M31": [
+  {
+   "brand": "Ruio",
+   "name": "M31",
+   "model": "AIS-M31"
   }
  ],
  "S5506": [

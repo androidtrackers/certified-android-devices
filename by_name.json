@@ -33953,6 +33953,11 @@
   },
   {
    "brand": "Orange",
+   "device": "zc4455v_orb",
+   "model": "Orange TV Box"
+  },
+  {
+   "brand": "Orange",
    "device": "zi4450v_ors",
    "model": "Orange TV Box"
   }
@@ -58437,6 +58442,13 @@
    "brand": "G-Tab",
    "device": "P733",
    "model": "P733"
+  }
+ ],
+ "PL1000B": [
+  {
+   "brand": "G-Tab",
+   "device": "S30",
+   "model": "S30"
   }
  ],
  "Q2": [
@@ -116351,6 +116363,13 @@
    "model": "Masstel Tab8"
   }
  ],
+ "Masstel_Hapi_20": [
+  {
+   "brand": "Masstel",
+   "device": "Masstel_Hapi_20",
+   "model": "Masstel Hapi 20"
+  }
+ ],
  "Masstel_Juno_Q3": [
   {
    "brand": "Masstel",
@@ -153331,6 +153350,13 @@
    "brand": "Ruio",
    "device": "M675M4",
    "model": "M675M4"
+  }
+ ],
+ "M31": [
+  {
+   "brand": "Ruio",
+   "device": "AIS-M31",
+   "model": "AIS-M31"
   }
  ],
  "RUIO S5506": [

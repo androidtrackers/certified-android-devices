@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-02-04
+Last sync is 2022-02-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7070,6 +7070,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Tab|P2000|P2000|P2000|
 |G-Tab|P7000|P7000|P7000|
 |G-Tab|P733|P733|P733|
+|G-Tab|PL1000B|S30|S30|
 |G-Tab|Q2|Q2|Q2|
 |G-Tab|Q2S|Q2S|Q2S|
 |G-Tab|Q3|Q3|Q3|
@@ -16882,6 +16883,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Masstel|Masstel Tab 82|Masstel_Tab_82|Masstel_Tab_82|
 |Masstel|Masstel Tab7|3G_Tablet_PC|Masstel Tab7|
 |Masstel|Masstel Tab8|Masstel_Tab8|Masstel Tab8|
+|Masstel|Masstel_Hapi_20|Masstel_Hapi_20|Masstel Hapi 20|
 |Masstel|Masstel_Juno_Q3|Masstel_Juno_Q3|Masstel_Juno_Q3|
 |Masstel|Masstel_Juno_Q5|Masstel_Juno_Q5|Masstel_Juno_Q5|
 |Masstel|Masstel_Tab10|Masstel_Tab10|Masstel Tab10|
@@ -20406,6 +20408,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Orange|Roya|Alto45|Orange Roya|
 |Orange|Sanza_touch|Sanza_touch|Orange Sanza touch|
 |Orange|Sego|Orange_Sego|Orange Sego|
+|Orange|TV Box|zc4455v_orb|Orange TV Box|
 |Orange|TV Box|zi4450v_ors|Orange TV Box|
 |Orange|Zilo|Orange_Zilo|Zilo|
 |Orange|idol S|Diablo_LTE|Orange Niva|
@@ -22869,6 +22872,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ruio|Cola|M671M3|M671M3|
 |Ruio|Cola 4G|M671M4|M671M4|
 |Ruio|Cola Plus 4G|M675M4|M675M4|
+|Ruio|M31|AIS-M31|AIS-M31|
 |Ruio|RUIO S5506|S5506|S5506|
 |Ruio|RUIO S6518|S6518|S6518|
 |Ruio|RUIO i7c Tablet|i7c|i7c|
