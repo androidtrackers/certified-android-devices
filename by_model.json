@@ -1978,6 +1978,11 @@
    "brand": "ATM (Brazil)",
    "name": "R5",
    "device": "R5"
+  },
+  {
+   "brand": "Handsfree",
+   "name": "R5",
+   "device": "R5"
   }
  ],
  "R5Plus": [
@@ -46150,6 +46155,13 @@
    "device": "MID7399_WW"
   }
  ],
+ "eSTAR_PAD_B8": [
+  {
+   "brand": "Estar",
+   "name": "eSTAR_PAD_B8",
+   "device": "eSTAR_PAD_B8"
+  }
+ ],
  "AI PONT NA": [
   {
    "brand": "Estla",
@@ -47833,6 +47845,13 @@
    "brand": "FEONAL",
    "name": "K118_EEA",
    "device": "K118_EEA"
+  }
+ ],
+ "F3T10A3": [
+  {
+   "brand": "FFFSMARTLIFE",
+   "name": "F3T10A3",
+   "device": "F3T10A3"
   }
  ],
  "FFFTAB10": [
@@ -221922,6 +221941,13 @@
    "brand": "Xiaomi",
    "name": "Xiaomi Pad 5 Pro 5G",
    "device": "enuma"
+  }
+ ],
+ "MiTV-AYFR0": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi TV stick 4K",
+   "device": "soul"
   }
  ],
  "Mi Watch": [

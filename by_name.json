@@ -7255,6 +7255,11 @@
    "model": "R5"
   },
   {
+   "brand": "Handsfree",
+   "device": "R5",
+   "model": "R5"
+  },
+  {
    "brand": "Oppo",
    "device": "R5",
    "model": "R8106"
@@ -52823,6 +52828,13 @@
    "model": "eSTAR GRAND HD Quad core"
   }
  ],
+ "eSTAR_PAD_B8": [
+  {
+   "brand": "Estar",
+   "device": "eSTAR_PAD_B8",
+   "model": "eSTAR_PAD_B8"
+  }
+ ],
  "ET660": [
   {
    "brand": "Eten",
@@ -54572,6 +54584,13 @@
    "brand": "FEONAL",
    "device": "K118_EEA",
    "model": "K118_EEA"
+  }
+ ],
+ "F3T10A3": [
+  {
+   "brand": "FFFSMARTLIFE",
+   "device": "F3T10A3",
+   "model": "F3T10A3"
   }
  ],
  "FFFTAB10": [
@@ -211288,6 +211307,13 @@
    "brand": "Xiaomi",
    "device": "enuma",
    "model": "M2105K81C"
+  }
+ ],
+ "Xiaomi TV stick 4K": [
+  {
+   "brand": "Xiaomi",
+   "device": "soul",
+   "model": "MiTV-AYFR0"
   }
  ],
  "小米手表": [

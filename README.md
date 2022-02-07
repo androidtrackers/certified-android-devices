@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-02-06
+Last sync is 2022-02-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6279,6 +6279,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Estar|MID7399_WW|MID7399_WW|MID7399_WW|
 |Estar|eSTAR BEAUTY 2 HD Quad core|MID7388|eSTAR BEAUTY 2 HD Quad core|
 |Estar|eSTAR GRAND HD Quad Core|MID1298|eSTAR GRAND HD Quad core|
+|Estar|eSTAR_PAD_B8|eSTAR_PAD_B8|eSTAR_PAD_B8|
 |Estla|Android TV|longshan|AI PONT NA|
 |Estla|UHD Android TV|sindorim|AI PONT|
 |Eten|ET660|ETEN|ET660|
@@ -6513,6 +6514,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FELUX|LUXE 3|LUXE_3|LUXE 3|
 |FELUX|X_Pro|X_Pro|X Pro|
 |FEONAL|K118_EEA|K118_EEA|K118_EEA|
+|FFFSMARTLIFE|F3T10A3|F3T10A3|F3T10A3|
 |FFFSMARTLIFE|FFFTAB10|FFFTAB10|FFFTAB10|
 |FFFSMARTLIFE|FFFTAB10a0|FFFTAB10a0|FFFTAB10a0|
 |FFFSMARTLIFE|FFFTAB10a1|FFFTAB10a1|FFFTAB10a1|
@@ -8840,6 +8842,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Handheld-Wireless|C6_EEA|C6|C6|
 |Handheld-Wireless|C6_TU|C6|C6|
 |Handheld-Wireless|X6|X6|X6|
+|Handsfree|R5|R5|R5|
 |HannSpree|HSG1279|HANNSpad|HSG1279|
 |HannSpree|HSG1341|mid1024_e|HSG1341|
 |HannSpree|HSG1351|HSG1351|HSG1351|
@@ -32832,6 +32835,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi Pad 5|nabu|21051182C|
 |Xiaomi|Xiaomi Pad 5 Pro|elish|M2105K81AC|
 |Xiaomi|Xiaomi Pad 5 Pro 5G|enuma|M2105K81C|
+|Xiaomi|Xiaomi TV stick 4K|soul|MiTV-AYFR0|
 |Xiaomi|小米手表|baiji|Mi Watch|
 |Xmobile|X1|X1|X1|
 |Xmobile|X7|X7|XMOBILE X7|
