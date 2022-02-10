@@ -11511,6 +11511,13 @@
    "model": "TR7989"
   }
  ],
+ "TR7990": [
+  {
+   "brand": "Advance",
+   "device": "TR7990",
+   "model": "TR7990"
+  }
+ ],
  "TR7998": [
   {
    "brand": "Advance",
@@ -43567,10 +43574,24 @@
    "model": "K28"
   }
  ],
+ "K28_": [
+  {
+   "brand": "DEXP",
+   "device": "K28_",
+   "model": "K28"
+  }
+ ],
  "K31": [
   {
    "brand": "DEXP",
    "device": "K31",
+   "model": "K31"
+  }
+ ],
+ "K31_": [
+  {
+   "brand": "DEXP",
+   "device": "K31_",
    "model": "K31"
   }
  ],
@@ -54719,6 +54740,13 @@
    "brand": "FCNT",
    "device": "AW02",
    "model": "AW02"
+  }
+ ],
+ "F-52B": [
+  {
+   "brand": "FCNT",
+   "device": "F52B",
+   "model": "F-52B"
   }
  ],
  "SD01": [
@@ -107207,6 +107235,11 @@
    "brand": "Lava",
    "device": "Z100",
    "model": "Z100"
+  },
+  {
+   "brand": "Mosambee",
+   "device": "Z100",
+   "model": "Z100"
   }
  ],
  "Z1S": [
@@ -149253,6 +149286,23 @@
    "model": "RAPTOR"
   }
  ],
+ "VISION": [
+  {
+   "brand": "QUEST",
+   "device": "VISION",
+   "model": "VISION"
+  },
+  {
+   "brand": "Vision",
+   "device": "shibuya",
+   "model": "VISION"
+  },
+  {
+   "brand": "Viwa",
+   "device": "VIWA_VISION",
+   "model": "VISION"
+  }
+ ],
  "Europe": [
   {
    "brand": "Qilive",
@@ -152666,6 +152716,11 @@
    "brand": "Redmi",
    "device": "spes",
    "model": "2201117TI"
+  },
+  {
+   "brand": "Redmi",
+   "device": "spes",
+   "model": "2201117TL"
   },
   {
    "brand": "Redmi",
@@ -176686,6 +176741,20 @@
    "model": "WALKMAN"
   }
  ],
+ "NW-WM1AM2": [
+  {
+   "brand": "Sony",
+   "device": "icx1298",
+   "model": "NW-WM1AM2"
+  }
+ ],
+ "NW-WM1ZM2": [
+  {
+   "brand": "Sony",
+   "device": "icx1298",
+   "model": "NW-WM1ZM2"
+  }
+ ],
  "NW-Z1000": [
   {
    "brand": "Sony",
@@ -180776,6 +180845,13 @@
    "brand": "Stylo",
    "device": "721",
    "model": "721"
+  }
+ ],
+ "721_PRO": [
+  {
+   "brand": "Stylo",
+   "device": "721_PRO",
+   "model": "721_PRO"
   }
  ],
  "AS210291": [
@@ -194809,6 +194885,13 @@
    "model": "I06"
   }
  ],
+ "Telia Nordic STB": [
+  {
+   "brand": "Telia",
+   "device": "DV8919-KST",
+   "model": "Telia Nordic STB"
+  }
+ ],
  "TVB-100": [
   {
    "brand": "Telkom",
@@ -202281,18 +202364,6 @@
    "brand": "Vision",
    "device": "tamachi",
    "model": "Vision FHD Android TV"
-  }
- ],
- "VISION": [
-  {
-   "brand": "Vision",
-   "device": "shibuya",
-   "model": "VISION"
-  },
-  {
-   "brand": "Viwa",
-   "device": "VIWA_VISION",
-   "model": "VISION"
   }
  ],
  "VISION SMART TV": [

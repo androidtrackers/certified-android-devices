@@ -7167,6 +7167,13 @@
    "model": "TR7989"
   }
  ],
+ "TR7990": [
+  {
+   "brand": "Advance",
+   "name": "TR7990",
+   "model": "TR7990"
+  }
+ ],
  "TR7998": [
   {
    "brand": "Advance",
@@ -39503,10 +39510,24 @@
    "model": "K28"
   }
  ],
+ "K28_": [
+  {
+   "brand": "DEXP",
+   "name": "K28_",
+   "model": "K28"
+  }
+ ],
  "K31": [
   {
    "brand": "DEXP",
    "name": "K31",
+   "model": "K31"
+  }
+ ],
+ "K31_": [
+  {
+   "brand": "DEXP",
+   "name": "K31_",
    "model": "K31"
   }
  ],
@@ -50254,6 +50275,13 @@
    "brand": "FCNT",
    "name": "AW02",
    "model": "AW02"
+  }
+ ],
+ "F52B": [
+  {
+   "brand": "FCNT",
+   "name": "F-52B",
+   "model": "F-52B"
   }
  ],
  "SD01": [
@@ -104877,6 +104905,11 @@
    "brand": "Lava",
    "name": "Z100",
    "model": "Z100"
+  },
+  {
+   "brand": "Mosambee",
+   "name": "Z100",
+   "model": "Z100"
   }
  ],
  "LZG402_1": [
@@ -148824,6 +148857,13 @@
    "model": "RAPTOR"
   }
  ],
+ "VISION": [
+  {
+   "brand": "QUEST",
+   "name": "VISION",
+   "model": "VISION"
+  }
+ ],
  "Q3778": [
   {
    "brand": "Qilive",
@@ -152077,6 +152117,11 @@
    "brand": "Redmi",
    "name": "Redmi Note 11",
    "model": "2201117TI"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 11",
+   "model": "2201117TL"
   }
  ],
  "spesn": [
@@ -178567,6 +178612,18 @@
    "model": "WALKMAN"
   }
  ],
+ "icx1298": [
+  {
+   "brand": "Sony",
+   "name": "NW-WM1AM2",
+   "model": "NW-WM1AM2"
+  },
+  {
+   "brand": "Sony",
+   "name": "NW-WM1ZM2",
+   "model": "NW-WM1ZM2"
+  }
+ ],
  "icx1216": [
   {
    "brand": "Sony",
@@ -183210,6 +183267,13 @@
    "brand": "Stylo",
    "name": "721",
    "model": "721"
+  }
+ ],
+ "721_PRO": [
+  {
+   "brand": "Stylo",
+   "name": "721_PRO",
+   "model": "721_PRO"
   }
  ],
  "AS210291": [
@@ -197142,6 +197206,13 @@
    "brand": "Teleone",
    "name": "I06",
    "model": "I06"
+  }
+ ],
+ "DV8919-KST": [
+  {
+   "brand": "Telia",
+   "name": "Telia Nordic STB",
+   "model": "Telia Nordic STB"
   }
  ],
  "VM_MD_001": [

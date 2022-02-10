@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-02-09
+Last sync is 2022-02-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -634,6 +634,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advance|TR6949|TR6949|TR6949|
 |Advance|TR7988|TR7988|TR7988|
 |Advance|TR7989|TR7989|TR7989|
+|Advance|TR7990|TR7990|TR7990|
 |Advance|TR7998|TR7998|TR7998|
 |Advance|Tablet_Advance|Tablet_adv_v1|ADVANCE|
 |Advance|Tr3946|Tr3946|Tr3946|
@@ -4984,7 +4985,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DEXP|K18|K18|K18|
 |DEXP|K21|K21|K21|
 |DEXP|K28|K28|K28|
+|DEXP|K28_|K28_|K28|
 |DEXP|K31|K31|K31|
+|DEXP|K31_|K31_|K31|
 |DEXP|K38|K38|K38|
 |DEXP|K41|K41|K41|
 |DEXP|K41_|K41_|K41|
@@ -6515,6 +6518,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FCC Movil|GK788|GK788|GK788|
 |FCC Movil|GK879|GK879|GK879|
 |FCNT|AW02|AW02|AW02|
+|FCNT|F-52B|F52B|F-52B|
 |FCNT|SD01|SD01|SD01|
 |FCNT|arrows BZ02|BZ02|BZ02|
 |FCNT|arrows Be4 Plus F-41B|F41B|F-41B|
@@ -17944,6 +17948,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Morep|Smart V1|Smart_V1|M521|
 |Mosambee|Qphone2 4110|Qphone2_4110|Qphone2_4110|
 |Mosambee|SPPF 4110|SPPF_4110|SPPF_4110|
+|Mosambee|Z100|Z100|Z100|
 |Most Computers|Revo You|RevoYou|RevoYou|
 |Motorola||A853|Milestone|
 |Motorola||ArgonSpin|XT550|
@@ -22230,6 +22235,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |QUEST|Amber|Amber|Amber|
 |QUEST|Q8_Tablet|Q8_Tablet|Q8_Tablet|
 |QUEST|RAPTOR|RAPTOR|RAPTOR|
+|QUEST|VISION|VISION|VISION|
 |QUEST|Vibe|Vibe|Vibe|
 |Qilive|Europe|tamachi|Qilive FHD Android TV|
 |Qilive|Europe|yeongdeungpo|Qilive UHD Android TV|
@@ -22746,6 +22752,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 10T 5G|camellia|TBD|
 |Redmi|Redmi Note 11|spes|2201117TG|
 |Redmi|Redmi Note 11|spes|2201117TI|
+|Redmi|Redmi Note 11|spes|2201117TL|
 |Redmi|Redmi Note 11|spesn|2201117TY|
 |Redmi|Redmi Note 11 5G|evergo|21091116AC|
 |Redmi|Redmi Note 11 Pro|pissarro|21091116C|
@@ -26929,6 +26936,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|NSZGS7|NSZGS7|NSZ-GS7/GX70|
 |Sony|NW-F800|icx1227|WALKMAN|
 |Sony|NW-F880 Series|icx1237|WALKMAN|
+|Sony|NW-WM1AM2|icx1298|NW-WM1AM2|
+|Sony|NW-WM1ZM2|icx1298|NW-WM1ZM2|
 |Sony|NW-Z1000|icx1216|NW-Z1000Series|
 |Sony|NW-ZX1|icx1240|WALKMAN|
 |Sony|NW-ZX2|icx1265|WALKMAN|
@@ -27643,6 +27652,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sts-tottori|TAB-A03|TAB-A03|TAB-A03-SD|
 |Stylo|221|221|221|
 |Stylo|721|721|721|
+|Stylo|721_PRO|721_PRO|721_PRO|
 |Stylo|AS210291|AS210291|AS210291|
 |Stylo|BOLD|BOLD|BOLD|
 |Stylo|BOLD PLUS|BOLD_PLUS|BOLD_PLUS|
@@ -30124,6 +30134,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telenor|Telenor Mediahubb|vip5702w_tn|Telenor Mediahubb|
 |Telenor|V51|V51|Infinity_i4|
 |Teleone|I06|I06|I06|
+|Telia|Telia Nordic STB|DV8919-KST|Telia Nordic STB|
 |Telkom|TVB-100|DV8219|TVB-100|
 |Telkom|Telkom|DV8219|TVB-100|
 |Telkom Indonesia|Telkom  Indonesia|DV8219|AX117 ATV|

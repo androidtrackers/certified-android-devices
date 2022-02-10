@@ -3308,6 +3308,11 @@
    "model": "TR7989"
   },
   {
+   "device": "TR7990",
+   "name": "TR7990",
+   "model": "TR7990"
+  },
+  {
    "device": "TR7998",
    "name": "TR7998",
    "model": "TR7998"
@@ -25776,8 +25781,18 @@
    "model": "K28"
   },
   {
+   "device": "K28_",
+   "name": "K28_",
+   "model": "K28"
+  },
+  {
    "device": "K31",
    "name": "K31",
+   "model": "K31"
+  },
+  {
+   "device": "K31_",
+   "name": "K31_",
    "model": "K31"
   },
   {
@@ -33831,6 +33846,11 @@
    "device": "AW02",
    "name": "AW02",
    "model": "AW02"
+  },
+  {
+   "device": "F52B",
+   "name": "F-52B",
+   "model": "F-52B"
   },
   {
    "device": "SD01",
@@ -92232,6 +92252,11 @@
    "device": "SPPF_4110",
    "name": "SPPF 4110",
    "model": "SPPF_4110"
+  },
+  {
+   "device": "Z100",
+   "name": "Z100",
+   "model": "Z100"
   }
  ],
  "Most Computers": [
@@ -114228,6 +114253,11 @@
    "model": "RAPTOR"
   },
   {
+   "device": "VISION",
+   "name": "VISION",
+   "model": "VISION"
+  },
+  {
    "device": "Vibe",
    "name": "Vibe",
    "model": "Vibe"
@@ -116892,6 +116922,11 @@
    "device": "spes",
    "name": "Redmi Note 11",
    "model": "2201117TI"
+  },
+  {
+   "device": "spes",
+   "name": "Redmi Note 11",
+   "model": "2201117TL"
   },
   {
    "device": "spesn",
@@ -138149,6 +138184,16 @@
    "model": "WALKMAN"
   },
   {
+   "device": "icx1298",
+   "name": "NW-WM1AM2",
+   "model": "NW-WM1AM2"
+  },
+  {
+   "device": "icx1298",
+   "name": "NW-WM1ZM2",
+   "model": "NW-WM1ZM2"
+  },
+  {
    "device": "icx1216",
    "name": "NW-Z1000",
    "model": "NW-Z1000Series"
@@ -141777,6 +141822,11 @@
    "device": "721",
    "name": "721",
    "model": "721"
+  },
+  {
+   "device": "721_PRO",
+   "name": "721_PRO",
+   "model": "721_PRO"
   },
   {
    "device": "AS210291",
@@ -154448,6 +154498,13 @@
    "device": "I06",
    "name": "I06",
    "model": "I06"
+  }
+ ],
+ "Telia": [
+  {
+   "device": "DV8919-KST",
+   "name": "Telia Nordic STB",
+   "model": "Telia Nordic STB"
   }
  ],
  "Telkom": [
