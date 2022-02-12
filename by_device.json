@@ -4558,6 +4558,11 @@
    "model": "ATV R2"
   },
   {
+   "brand": "EAS ELECTRIC",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
    "brand": "EVVO",
    "name": "Android TV",
    "model": "ATV R2"
@@ -40317,6 +40322,13 @@
    "brand": "DO Mobile",
    "name": "S10_Plus",
    "model": "S10_Plus"
+  }
+ ],
+ "TT_7_0": [
+  {
+   "brand": "DOEL",
+   "name": "TT 7.0",
+   "model": "TT 7.0"
   }
  ],
  "ds6": [
@@ -82411,6 +82423,13 @@
    "brand": "INOI",
    "name": "INOI 5 Pro",
    "model": "INOI_5_Pro"
+  }
+ ],
+ "A180": [
+  {
+   "brand": "INOI",
+   "name": "INOI Note 12",
+   "model": "A180"
   }
  ],
  "INOI_7i_Lite": [
@@ -126088,6 +126107,13 @@
    "model": "M10_4G"
   }
  ],
+ "ML_JI0B_M10_4G_MC": [
+  {
+   "brand": "Multilaser",
+   "name": "M10 4G MC",
+   "model": "M10_4G_MONTES_CLAROS"
+  }
+ ],
  "WI0C_M10_4G_MON_CLA": [
   {
    "brand": "Multilaser",
@@ -131037,6 +131063,20 @@
    "brand": "Nobis",
    "name": "NB7850S",
    "model": "NB7850S"
+  }
+ ],
+ "A50UNS": [
+  {
+   "brand": "Noblex",
+   "name": "A50",
+   "model": "A50UNS"
+  }
+ ],
+ "A60UNS": [
+  {
+   "brand": "Noblex",
+   "name": "A60",
+   "model": "A60UNS"
   }
  ],
  "N551": [
@@ -150608,23 +150648,6 @@
    "model": "RMX3231"
   }
  ],
- "RMX3085L1": [
-  {
-   "brand": "Realme",
-   "name": "realme  8",
-   "model": "RMX3085"
-  },
-  {
-   "brand": "Realme",
-   "name": "realme 8",
-   "model": "RMX3085"
-  },
-  {
-   "brand": "realme",
-   "name": "realme 8",
-   "model": "RMX3085"
-  }
- ],
  "RMX2202L1": [
   {
    "brand": "Realme",
@@ -152193,6 +152216,11 @@
    "brand": "Redmi",
    "name": "Redmi Note 11S",
    "model": "2201117SG"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 11S",
+   "model": "2201117SL"
   }
  ],
  "biloba": [
@@ -165890,6 +165918,98 @@
    "model": "SM-G996N"
   }
  ],
+ "r0q": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22",
+   "model": "SM-S9010"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22",
+   "model": "SM-S901E"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22",
+   "model": "SM-S901N"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22",
+   "model": "SM-S901U"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22",
+   "model": "SM-S901U1"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22",
+   "model": "SM-S901W"
+  }
+ ],
+ "r0s": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22",
+   "model": "SM-S901B"
+  }
+ ],
+ "b0q": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22 Ultra",
+   "model": "SM-S908E"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22 Ultra",
+   "model": "SM-S908U1"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22 Ultra",
+   "model": "SM-S908W"
+  }
+ ],
+ "b0s": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22 Ultra",
+   "model": "SM-S908B"
+  }
+ ],
+ "g0q": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22+",
+   "model": "SM-S9060"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22+",
+   "model": "SM-S906E"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22+",
+   "model": "SM-S906U1"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22+",
+   "model": "SM-S906W"
+  }
+ ],
+ "g0s": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22+",
+   "model": "SM-S906B"
+  }
+ ],
  "SC-03E": [
   {
    "brand": "Samsung",
@@ -170216,6 +170336,78 @@
    "brand": "Samsung",
    "name": "Galaxy Tab S7+",
    "model": "SM-T970"
+  }
+ ],
+ "gts8wifi": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S8",
+   "model": "SM-X700"
+  }
+ ],
+ "gts8": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S8 5G",
+   "model": "SM-X706B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S8 5G",
+   "model": "SM-X706C"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S8 5G",
+   "model": "SM-X706N"
+  }
+ ],
+ "gts8uwifi": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S8 Ultra",
+   "model": "SM-X900"
+  }
+ ],
+ "gts8u": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S8 Ultra 5G",
+   "model": "SM-X906B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S8 Ultra 5G",
+   "model": "SM-X906C"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S8 Ultra 5G",
+   "model": "SM-X906N"
+  }
+ ],
+ "gts8pwifi": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S8+",
+   "model": "SM-X800"
+  }
+ ],
+ "gts8p": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S8+ 5G",
+   "model": "SM-X806B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S8+ 5G",
+   "model": "SM-X806C"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S8+ 5G",
+   "model": "SM-X806N"
   }
  ],
  "espresso10att": [
@@ -183276,6 +183468,20 @@
    "model": "721_PRO"
   }
  ],
+ "AIR": [
+  {
+   "brand": "Stylo",
+   "name": "AIR",
+   "model": "AIR"
+  }
+ ],
+ "ARCTIC": [
+  {
+   "brand": "Stylo",
+   "name": "ARCTIC",
+   "model": "ARCTIC"
+  }
+ ],
  "AS210291": [
   {
    "brand": "Stylo",
@@ -183314,6 +183520,13 @@
    "brand": "Stylo",
    "name": "INKOSI",
    "model": "INKOSI"
+  }
+ ],
+ "INKOSI_PRO": [
+  {
+   "brand": "Stylo",
+   "name": "INKOSI-PRO",
+   "model": "INKOSI_PRO"
   }
  ],
  "Ithemba": [
@@ -185006,6 +185219,20 @@
   {
    "brand": "TAG Heuer",
    "name": "Connected 2020",
+   "model": "TAG Heuer"
+  }
+ ],
+ "oxygen42": [
+  {
+   "brand": "TAG Heuer",
+   "name": "Connected Calibre E4 42mm",
+   "model": "TAG Heuer"
+  }
+ ],
+ "oxygen45": [
+  {
+   "brand": "TAG Heuer",
+   "name": "Connected Calibre E4 45mm",
    "model": "TAG Heuer"
   }
  ],
@@ -211710,6 +211937,13 @@
    "model": "WIZ Arc 8"
   }
  ],
+ "Slate10": [
+  {
+   "brand": "Wizphone",
+   "name": "Slate10",
+   "model": "Slate 10"
+  }
+ ],
  "WP003": [
   {
    "brand": "Wizphone",
@@ -211729,13 +211963,6 @@
    "brand": "Wizz",
    "name": "DV-PTB1080",
    "model": "DV-PTB1080"
-  }
- ],
- "Slate10": [
-  {
-   "brand": "Wizz",
-   "name": "Slate10",
-   "model": "Slate 10"
   }
  ],
  "WS040": [
@@ -227884,6 +228111,18 @@
    "brand": "realme",
    "name": "realme C25Y",
    "model": "RMX3269"
+  }
+ ],
+ "RMX3085L1": [
+  {
+   "brand": "realme",
+   "name": "realme  8",
+   "model": "RMX3085"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 8",
+   "model": "RMX3085"
   }
  ],
  "RMX3031L1": [

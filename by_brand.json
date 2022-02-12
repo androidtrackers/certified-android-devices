@@ -26396,6 +26396,13 @@
    "model": "S10_Plus"
   }
  ],
+ "DOEL": [
+  {
+   "device": "TT_7_0",
+   "name": "TT 7.0",
+   "model": "TT 7.0"
+  }
+ ],
  "DORA": [
   {
    "device": "R1",
@@ -30319,6 +30326,13 @@
    "device": "Wolf10R",
    "name": "Wolf10R",
    "model": "Wolf10R"
+  }
+ ],
+ "EAS ELECTRIC": [
+  {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
   }
  ],
  "EASYTECK": [
@@ -60464,6 +60478,11 @@
    "device": "A150",
    "name": "INOI A52 Lite 32GB",
    "model": "A150"
+  },
+  {
+   "device": "A180",
+   "name": "INOI Note 12",
+   "model": "A180"
   },
   {
    "device": "INOI_7i_Lite",
@@ -95610,6 +95629,11 @@
    "model": "M10_4G"
   },
   {
+   "device": "ML_JI0B_M10_4G_MC",
+   "name": "M10 4G MC",
+   "model": "M10_4G_MONTES_CLAROS"
+  },
+  {
    "device": "WI0C_M10_4G_MON_CLA",
    "name": "M10 4G MON CLA",
    "model": "M10_4G_MON_CLA"
@@ -99595,6 +99619,16 @@
   }
  ],
  "Noblex": [
+  {
+   "device": "A50UNS",
+   "name": "A50",
+   "model": "A50UNS"
+  },
+  {
+   "device": "A60UNS",
+   "name": "A60",
+   "model": "A60UNS"
+  },
   {
    "device": "N551",
    "name": "Go Action",
@@ -115767,11 +115801,6 @@
    "model": "RMX3231"
   },
   {
-   "device": "RMX3085L1",
-   "name": "realme  8",
-   "model": "RMX3085"
-  },
-  {
    "device": "RMX2202L1",
    "name": "realme  GT 5G",
    "model": "RMX2202"
@@ -115920,11 +115949,6 @@
    "device": "RMX2193",
    "name": "realme 7i",
    "model": "RMX2193"
-  },
-  {
-   "device": "RMX3085L1",
-   "name": "realme 8",
-   "model": "RMX3085"
   },
   {
    "device": "RE513CL1",
@@ -116977,6 +117001,11 @@
    "device": "miel",
    "name": "Redmi Note 11S",
    "model": "2201117SG"
+  },
+  {
+   "device": "miel",
+   "name": "Redmi Note 11S",
+   "model": "2201117SL"
   },
   {
    "device": "evergo",
@@ -128145,6 +128174,86 @@
    "model": "SM-G996N"
   },
   {
+   "device": "r0q",
+   "name": "Galaxy S22",
+   "model": "SM-S9010"
+  },
+  {
+   "device": "r0q",
+   "name": "Galaxy S22",
+   "model": "SM-S901E"
+  },
+  {
+   "device": "r0q",
+   "name": "Galaxy S22",
+   "model": "SM-S901N"
+  },
+  {
+   "device": "r0q",
+   "name": "Galaxy S22",
+   "model": "SM-S901U"
+  },
+  {
+   "device": "r0q",
+   "name": "Galaxy S22",
+   "model": "SM-S901U1"
+  },
+  {
+   "device": "r0q",
+   "name": "Galaxy S22",
+   "model": "SM-S901W"
+  },
+  {
+   "device": "r0s",
+   "name": "Galaxy S22",
+   "model": "SM-S901B"
+  },
+  {
+   "device": "b0q",
+   "name": "Galaxy S22 Ultra",
+   "model": "SM-S908E"
+  },
+  {
+   "device": "b0q",
+   "name": "Galaxy S22 Ultra",
+   "model": "SM-S908U1"
+  },
+  {
+   "device": "b0q",
+   "name": "Galaxy S22 Ultra",
+   "model": "SM-S908W"
+  },
+  {
+   "device": "b0s",
+   "name": "Galaxy S22 Ultra",
+   "model": "SM-S908B"
+  },
+  {
+   "device": "g0q",
+   "name": "Galaxy S22+",
+   "model": "SM-S9060"
+  },
+  {
+   "device": "g0q",
+   "name": "Galaxy S22+",
+   "model": "SM-S906E"
+  },
+  {
+   "device": "g0q",
+   "name": "Galaxy S22+",
+   "model": "SM-S906U1"
+  },
+  {
+   "device": "g0q",
+   "name": "Galaxy S22+",
+   "model": "SM-S906W"
+  },
+  {
+   "device": "g0s",
+   "name": "Galaxy S22+",
+   "model": "SM-S906B"
+  },
+  {
    "device": "SC-03E",
    "name": "Galaxy S3",
    "model": "SC-03E"
@@ -131428,6 +131537,66 @@
    "device": "gts7xl",
    "name": "Galaxy Tab S7+ 5G",
    "model": "SM-T978U"
+  },
+  {
+   "device": "gts8wifi",
+   "name": "Galaxy Tab S8",
+   "model": "SM-X700"
+  },
+  {
+   "device": "gts8",
+   "name": "Galaxy Tab S8 5G",
+   "model": "SM-X706B"
+  },
+  {
+   "device": "gts8",
+   "name": "Galaxy Tab S8 5G",
+   "model": "SM-X706C"
+  },
+  {
+   "device": "gts8",
+   "name": "Galaxy Tab S8 5G",
+   "model": "SM-X706N"
+  },
+  {
+   "device": "gts8uwifi",
+   "name": "Galaxy Tab S8 Ultra",
+   "model": "SM-X900"
+  },
+  {
+   "device": "gts8u",
+   "name": "Galaxy Tab S8 Ultra 5G",
+   "model": "SM-X906B"
+  },
+  {
+   "device": "gts8u",
+   "name": "Galaxy Tab S8 Ultra 5G",
+   "model": "SM-X906C"
+  },
+  {
+   "device": "gts8u",
+   "name": "Galaxy Tab S8 Ultra 5G",
+   "model": "SM-X906N"
+  },
+  {
+   "device": "gts8pwifi",
+   "name": "Galaxy Tab S8+",
+   "model": "SM-X800"
+  },
+  {
+   "device": "gts8p",
+   "name": "Galaxy Tab S8+ 5G",
+   "model": "SM-X806B"
+  },
+  {
+   "device": "gts8p",
+   "name": "Galaxy Tab S8+ 5G",
+   "model": "SM-X806C"
+  },
+  {
+   "device": "gts8p",
+   "name": "Galaxy Tab S8+ 5G",
+   "model": "SM-X806N"
   },
   {
    "device": "espresso10att",
@@ -141829,6 +141998,16 @@
    "model": "721_PRO"
   },
   {
+   "device": "AIR",
+   "name": "AIR",
+   "model": "AIR"
+  },
+  {
+   "device": "ARCTIC",
+   "name": "ARCTIC",
+   "model": "ARCTIC"
+  },
+  {
    "device": "AS210291",
    "name": "AS210291",
    "model": "AS210291"
@@ -141872,6 +142051,11 @@
    "device": "INKOSI",
    "name": "INKOSI",
    "model": "INKOSI"
+  },
+  {
+   "device": "INKOSI_PRO",
+   "name": "INKOSI-PRO",
+   "model": "INKOSI_PRO"
   },
   {
    "device": "Ithemba",
@@ -143360,6 +143544,16 @@
   {
    "device": "orbital",
    "name": "Connected 2020",
+   "model": "TAG Heuer"
+  },
+  {
+   "device": "oxygen42",
+   "name": "Connected Calibre E4 42mm",
+   "model": "TAG Heuer"
+  },
+  {
+   "device": "oxygen45",
+   "name": "Connected Calibre E4 45mm",
    "model": "TAG Heuer"
   },
   {
@@ -167016,6 +167210,11 @@
    "model": "WIZ Arc 8"
   },
   {
+   "device": "Slate10",
+   "name": "Slate10",
+   "model": "Slate 10"
+  },
+  {
    "device": "WP003",
    "name": "WP003",
    "model": "WP003"
@@ -167031,11 +167230,6 @@
    "device": "DV-PTB1080",
    "name": "DV-PTB1080",
    "model": "DV-PTB1080"
-  },
-  {
-   "device": "Slate10",
-   "name": "Slate10",
-   "model": "Slate 10"
   }
  ],
  "Wolki": [
@@ -181541,6 +181735,11 @@
    "device": "RED8F6",
    "name": "RMX3269",
    "model": "RMX3269"
+  },
+  {
+   "device": "RMX3085L1",
+   "name": "realme  8",
+   "model": "RMX3085"
   },
   {
    "device": "RMX3031L1",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-02-11
+Last sync is 2022-02-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5104,6 +5104,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DO Mobile|Mate1|Mate1|Mate1|
 |DO Mobile|Mate6 Pro|Mate6_Pro|Mate6 Pro|
 |DO Mobile|S10_Plus|S10_Plus|S10_Plus|
+|DOEL|TT 7.0|TT_7_0|TT 7.0|
 |DORA|Android TV|R1|ATV R1|
 |DORA|Android TV|R2|ATV R2|
 |DSIC|Mobilebase DS6|ds6|DS6|
@@ -5855,6 +5856,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EACRUGGED|RG80|RG80|RG80|
 |EACRUGGED|Serenity-B8|Serenity-B8|Serenity-B8|
 |EACRUGGED|Wolf10R|Wolf10R|Wolf10R|
+|EAS ELECTRIC|Android TV|R2|ATV R2|
 |EASYTECK|EK10|EK10|EK10|
 |EBN|NEBUPOS3|UY3A|NEBUPOS3|
 |ECHOSONIC|EchosonicTV|shinagawa|EchosonicTV|
@@ -11748,6 +11750,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |INOI|INOI 3 LITE|INOI_3_LITE|INOI_3_LITE|
 |INOI|INOI 5 Pro|INOI_5_Pro|INOI_5_Pro|
 |INOI|INOI A52 Lite 32GB|A150|A150|
+|INOI|INOI Note 12|A180|A180|
 |INOI|INOI _7i_Lite|INOI_7i_Lite|INOI_7i_Lite|
 |INOI|INOI_1|INOI_1|INOI 1|
 |INOI|INOI_1_Lite_2020|INOI_1_Lite_2020|INOI 1 Lite 2020|
@@ -18612,6 +18615,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M10 4G|ML-WI0C-M10-4G|M10-4G|
 |Multilaser|M10 4G|ML_JI0B_M10_4G|M10_4G|
 |Multilaser|M10 4G|ML_SO0G_M10_4G|M10_4G|
+|Multilaser|M10 4G MC|ML_JI0B_M10_4G_MC|M10_4G_MONTES_CLAROS|
 |Multilaser|M10 4G MON CLA|WI0C_M10_4G_MON_CLA|M10_4G_MON_CLA|
 |Multilaser|M10 4G PRO|ML_JI0B_M10_4G_PRO|M10_4G_PRO|
 |Multilaser|M10 4G PRO|ML_JI0F_M10_4G_PRO|M10_4G_PRO|
@@ -19378,6 +19382,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nobis|NB7850S|NB7850S|NB7850S|
 |NobleSkiodo|32VRCHG5SP|ikebukuro|AI PONT|
 |NobleSkiodo|43UDVRCHG7H|samseong|AI PONT|
+|Noblex|A50|A50UNS|A50UNS|
+|Noblex|A60|A60UNS|A60UNS|
 |Noblex|Go Action|N551|N551|
 |Noblex|Go Move|N552|N552|
 |Noblex|Go Street|N504|N504|
@@ -22523,7 +22529,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|RMX2040|RMX2040|RMX2040|
 |Realme|RMX3063|RMX3063|RMX3063|
 |Realme|RMX3231|RMX3231|RMX3231|
-|Realme|realme  8|RMX3085L1|RMX3085|
 |Realme|realme  GT 5G|RMX2202L1|RMX2202|
 |Realme|realme  narzo  30|RMX2156L1|RMX2156|
 |Realme|realme 2 Pro|RMX1801|RMX1801|
@@ -22554,7 +22559,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme 7 Pro|RMX2170L1|RMX2170|
 |Realme|realme 7i|RE50C1L1|RMX2103|
 |Realme|realme 7i|RMX2193|RMX2193|
-|Realme|realme 8|RMX3085L1|RMX3085|
 |Realme|realme 8 5G|RE513CL1|RMX3241|
 |Realme|realme 8Pro|RMX3081L1|RMX3081|
 |Realme|realme 8i|RE54B4L1|RMX3151|
@@ -22763,6 +22767,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 11E Pro|veux|2201116SC|
 |Redmi|Redmi Note 11S|fleur|2201117SY|
 |Redmi|Redmi Note 11S|miel|2201117SG|
+|Redmi|Redmi Note 11S|miel|2201117SL|
 |Redmi|Redmi Note 11T 5G|evergo|21091116AI|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Redmi|Redmi Note 8|biloba|M1908C3JGG|
@@ -24959,6 +24964,22 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S21+ 5G|t2q|SM-G996W|
 |Samsung|Galaxy S21+ 5G|t2s|SM-G996B|
 |Samsung|Galaxy S21+ 5G|t2s|SM-G996N|
+|Samsung|Galaxy S22|r0q|SM-S9010|
+|Samsung|Galaxy S22|r0q|SM-S901E|
+|Samsung|Galaxy S22|r0q|SM-S901N|
+|Samsung|Galaxy S22|r0q|SM-S901U|
+|Samsung|Galaxy S22|r0q|SM-S901U1|
+|Samsung|Galaxy S22|r0q|SM-S901W|
+|Samsung|Galaxy S22|r0s|SM-S901B|
+|Samsung|Galaxy S22 Ultra|b0q|SM-S908E|
+|Samsung|Galaxy S22 Ultra|b0q|SM-S908U1|
+|Samsung|Galaxy S22 Ultra|b0q|SM-S908W|
+|Samsung|Galaxy S22 Ultra|b0s|SM-S908B|
+|Samsung|Galaxy S22+|g0q|SM-S9060|
+|Samsung|Galaxy S22+|g0q|SM-S906E|
+|Samsung|Galaxy S22+|g0q|SM-S906U1|
+|Samsung|Galaxy S22+|g0q|SM-S906W|
+|Samsung|Galaxy S22+|g0s|SM-S906B|
 |Samsung|Galaxy S3|SC-03E|SC-03E|
 |Samsung|Galaxy S3|c1att|SGH-I748|
 |Samsung|Galaxy S3|c1ktt|SHV-E210K|
@@ -25616,6 +25637,18 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S7+ 5G|gts7xl|SM-T976B|
 |Samsung|Galaxy Tab S7+ 5G|gts7xl|SM-T976N|
 |Samsung|Galaxy Tab S7+ 5G|gts7xl|SM-T978U|
+|Samsung|Galaxy Tab S8|gts8wifi|SM-X700|
+|Samsung|Galaxy Tab S8 5G|gts8|SM-X706B|
+|Samsung|Galaxy Tab S8 5G|gts8|SM-X706C|
+|Samsung|Galaxy Tab S8 5G|gts8|SM-X706N|
+|Samsung|Galaxy Tab S8 Ultra|gts8uwifi|SM-X900|
+|Samsung|Galaxy Tab S8 Ultra 5G|gts8u|SM-X906B|
+|Samsung|Galaxy Tab S8 Ultra 5G|gts8u|SM-X906C|
+|Samsung|Galaxy Tab S8 Ultra 5G|gts8u|SM-X906N|
+|Samsung|Galaxy Tab S8+|gts8pwifi|SM-X800|
+|Samsung|Galaxy Tab S8+ 5G|gts8p|SM-X806B|
+|Samsung|Galaxy Tab S8+ 5G|gts8p|SM-X806C|
+|Samsung|Galaxy Tab S8+ 5G|gts8p|SM-X806N|
 |Samsung|Galaxy Tab2 10.1|espresso10att|SAMSUNG-SGH-I497|
 |Samsung|Galaxy Tab2 10.1|espresso10can|SGH-I497|
 |Samsung|Galaxy Tab2 10.1|espresso10rf|GT-P5100|
@@ -27653,6 +27686,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stylo|221|221|221|
 |Stylo|721|721|721|
 |Stylo|721_PRO|721_PRO|721_PRO|
+|Stylo|AIR|AIR|AIR|
+|Stylo|ARCTIC|ARCTIC|ARCTIC|
 |Stylo|AS210291|AS210291|AS210291|
 |Stylo|BOLD|BOLD|BOLD|
 |Stylo|BOLD PLUS|BOLD_PLUS|BOLD_PLUS|
@@ -27662,6 +27697,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stylo|Energy|Energy|Energy|
 |Stylo|Galaxy|Galaxy|Galaxy|
 |Stylo|INKOSI|INKOSI|INKOSI|
+|Stylo|INKOSI-PRO|INKOSI_PRO|INKOSI_PRO|
 |Stylo|Ithemba|Ithemba|Ithemba|
 |Stylo|Jupiter|DQR22|DQR22|
 |Stylo|LIFE_2|LIFE_2|LIFE_2|
@@ -27947,6 +27983,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TA71CA5_JP|"JP SA COUTO|S.A. _MG070A2T"|TA71CA5_1|
 |TAG Heuer|Connected|glacier|TAG Heuer|
 |TAG Heuer|Connected 2020|orbital|TAG Heuer|
+|TAG Heuer|Connected Calibre E4 42mm|oxygen42|TAG Heuer|
+|TAG Heuer|Connected Calibre E4 45mm|oxygen45|TAG Heuer|
 |TAG Heuer|Connected Modular 41|spectralite|TAG Heuer|
 |TAG Heuer|Connected Modular 45|anthracite|TAG Heuer|
 |TAG Heuer|Connected Modular 45 (China)|anthracite|TAG Heuer|
@@ -32540,10 +32578,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Witooth|Android TV|longshan|AI PONT NA|
 |Witooth|UHD Android TV|sindorim|AI PONT|
 |Wizphone|Arc8|Arc8|WIZ Arc 8|
+|Wizphone|Slate10|Slate10|Slate 10|
 |Wizphone|WP003|WP003|WP003|
 |Wizphone|WP005|WP005|WP005|
 |Wizz|DV-PTB1080|DV-PTB1080|DV-PTB1080|
-|Wizz|Slate10|Slate10|Slate 10|
 |Wolki|WS040|WS040|WS040|
 |Wolki|WS041|WS041|WS041|
 |Wolki|WS051|WS051|WS051|
@@ -35373,6 +35411,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |qunyiCO|Y7_EEA|Y7_EEA|Y7|
 |realme|4K Google TV Stick|YYT|4K Google TV Stick|
 |realme|RMX3269|RED8F6|RMX3269|
+|realme|realme  8|RMX3085L1|RMX3085|
 |realme|realme  X7 Max|RMX3031L1|RMX3031|
 |realme|realme 6|RMX2001L1|RMX2001|
 |realme|realme 6|RMX2002L1|RMX2002|
