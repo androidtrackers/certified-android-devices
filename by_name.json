@@ -28977,6 +28977,13 @@
    "model": "BP_6108"
   }
  ],
+ "BP_6110": [
+  {
+   "brand": "Blaupunkt",
+   "device": "BP_6110",
+   "model": "BP_6110"
+  }
+ ],
  "Blaupunkt": [
   {
    "brand": "Blaupunkt",
@@ -34095,6 +34102,13 @@
    "model": "C10G"
   }
  ],
+ "C73W": [
+  {
+   "brand": "CWOWDEFU",
+   "device": "C73W",
+   "model": "C73W"
+  }
+ ],
  "C80W": [
   {
    "brand": "CWOWDEFU",
@@ -34121,6 +34135,20 @@
    "brand": "CWOWDEFU",
    "device": "C82W_EEA",
    "model": "C82W_EEA"
+  }
+ ],
+ "F12W": [
+  {
+   "brand": "CWOWDEFU",
+   "device": "F12W",
+   "model": "F12W"
+  }
+ ],
+ "F12W_EEA": [
+  {
+   "brand": "CWOWDEFU",
+   "device": "F12W",
+   "model": "F12W_EEA"
   }
  ],
  "F80L": [
@@ -43840,6 +43868,33 @@
    "model": "N570"
   }
  ],
+ "P11": [
+  {
+   "brand": "DEXP",
+   "device": "P11",
+   "model": "P11"
+  },
+  {
+   "brand": "Elephone",
+   "device": "P11",
+   "model": "P11"
+  },
+  {
+   "brand": "Itel",
+   "device": "itel_P11",
+   "model": "itel P11"
+  },
+  {
+   "brand": "Panasonic",
+   "device": "P11",
+   "model": "Panasonic P11"
+  },
+  {
+   "brand": "Symphony",
+   "device": "P11",
+   "model": "P11"
+  }
+ ],
  "P280": [
   {
    "brand": "DEXP",
@@ -47170,6 +47225,13 @@
    "model": "Linx X1 PRO 3G LS4051MG"
   }
  ],
+ "Optima 10 E600 3G TS1246PG": [
+  {
+   "brand": "Digma",
+   "device": "TS1246PG",
+   "model": "Optima 10 E600 3G TS1246PG"
+  }
+ ],
  "Optima 1028 3G TS1215PG": [
   {
    "brand": "Digma",
@@ -47203,6 +47265,13 @@
    "brand": "Digma",
    "device": "TS1220PG",
    "model": "Optima 10 A500S 3G TS1220PG"
+  }
+ ],
+ "Optima_10_A502_3G_TS1245PG": [
+  {
+   "brand": "Digma",
+   "device": "TS1245PG",
+   "model": "Optima 10 A502 3G TS1245PG"
   }
  ],
  "Optima_10_X702_4G": [
@@ -50104,6 +50173,13 @@
    "model": "BH505GS"
   }
  ],
+ "SQ126G": [
+  {
+   "brand": "ECONNECT",
+   "device": "SQ126G",
+   "model": "SQ126G"
+  }
+ ],
  "RealPad MA7BX2": [
   {
    "brand": "ECS",
@@ -51669,28 +51745,6 @@
    "brand": "Elephone",
    "device": "S8",
    "model": "S8"
-  }
- ],
- "P11": [
-  {
-   "brand": "Elephone",
-   "device": "P11",
-   "model": "P11"
-  },
-  {
-   "brand": "Itel",
-   "device": "itel_P11",
-   "model": "itel P11"
-  },
-  {
-   "brand": "Panasonic",
-   "device": "P11",
-   "model": "Panasonic P11"
-  },
-  {
-   "brand": "Symphony",
-   "device": "P11",
-   "model": "P11"
   }
  ],
  "P8 3D": [
@@ -63949,6 +64003,13 @@
    "brand": "HAKO",
    "device": "GMP",
    "model": "HAKO mini"
+  }
+ ],
+ "T432": [
+  {
+   "brand": "HANET",
+   "device": "SmartEdu",
+   "model": "T432"
   }
  ],
  "E108GC4G": [
@@ -84645,6 +84706,13 @@
    "brand": "Huskee",
    "device": "VULKANO_Plus",
    "model": "VULKANO_Plus"
+  }
+ ],
+ "Model 6s": [
+  {
+   "brand": "Hyatta",
+   "device": "Model_6s",
+   "model": "Model 6s"
   }
  ],
  "KT1006": [
@@ -112294,6 +112362,13 @@
    "model": "ideatv K82"
   }
  ],
+ "启天K10 Pro": [
+  {
+   "brand": "Lenovo",
+   "device": "TB223FC",
+   "model": "Lenovo TB223FC"
+  }
+ ],
  "小新 Pad GT": [
   {
    "brand": "Lenovo",
@@ -116766,6 +116841,13 @@
    "model": "Masstel_Tab8_4G"
   }
  ],
+ "Masstel_Tab8_Edu": [
+  {
+   "brand": "Masstel",
+   "device": "Masstel_Tab8_Edu",
+   "model": "Masstel Tab8 Edu"
+  }
+ ],
  "Masstel_Tab_10.1Pro": [
   {
    "brand": "Masstel",
@@ -116801,6 +116883,13 @@
    "model": "Masstel Tab"
   }
  ],
+ "Masstel_Tab_83": [
+  {
+   "brand": "Masstel",
+   "device": "Masstel_Tab_83",
+   "model": "Masstel Tab 83"
+  }
+ ],
  "Masstel_X1": [
   {
    "brand": "Masstel",
@@ -116834,6 +116923,13 @@
    "brand": "Masstel",
    "device": "Masstel_N535",
    "model": "Masstel N535"
+  }
+ ],
+ "Tab10_Edu": [
+  {
+   "brand": "Masstel",
+   "device": "Tab10_Edu",
+   "model": "Masstel Tab10 Edu"
   }
  ],
  "Tab7LTE": [
@@ -150036,6 +150132,13 @@
    "model": "RAVOZ Z7 Pro"
   }
  ],
+ "RAVOZ_V2": [
+  {
+   "brand": "RAVOZ",
+   "device": "RAVOZ_V2",
+   "model": "RAVOZ V2"
+  }
+ ],
  "RAVOZ_Z3_Lite": [
   {
    "brand": "RAVOZ",
@@ -154385,6 +154488,13 @@
    "brand": "SGINO",
    "device": "6S",
    "model": "6S"
+  }
+ ],
+ "CP093": [
+  {
+   "brand": "SGINO",
+   "device": "CP093",
+   "model": "CP093"
   }
  ],
  "SGINO6": [
@@ -175375,6 +175485,13 @@
    "model": "Elite T6"
   }
  ],
+ "Elite T8 Plus": [
+  {
+   "brand": "Sky Devices",
+   "device": "Elite_T8PUB",
+   "model": "Elite T8Plus"
+  }
+ ],
  "Elite T8Plus": [
   {
    "brand": "Sky Devices",
@@ -191810,6 +191927,13 @@
    "model": "Tabletop_T2"
   }
  ],
+ "Tabletop_T2_2": [
+  {
+   "brand": "Tabletop",
+   "device": "Tabletop_T2_2",
+   "model": "Tabletop_T2_2"
+  }
+ ],
  "TAGPhone": [
   {
    "brand": "Tagtech",
@@ -192374,6 +192498,13 @@
   }
  ],
  "Tech_Pad_X10": [
+  {
+   "brand": "Techpad",
+   "device": "Tech_Pad_X10",
+   "model": "Tech Pad X10"
+  }
+ ],
+ "Tech_Pad_X10B": [
   {
    "brand": "Techpad",
    "device": "Tech_Pad_X10",
@@ -197349,6 +197480,13 @@
    "model": "UNIQ0122"
   }
  ],
+ "UNIQ0222": [
+  {
+   "brand": "UNIQ-CELL",
+   "device": "UNIQ0222",
+   "model": "UNIQ0222"
+  }
+ ],
  "UNIQCELL_A4": [
   {
    "brand": "UNIQ-CELL",
@@ -199005,6 +199143,13 @@
    "brand": "Uniqcell",
    "device": "UNI_10X",
    "model": "UNI 10X"
+  }
+ ],
+ "UNI GO": [
+  {
+   "brand": "Uniqcell",
+   "device": "UNI_GO",
+   "model": "UNI_GO"
   }
  ],
  "s6w": [
@@ -213123,6 +213268,27 @@
    "model": "ZEEKER P10"
   }
  ],
+ "ZEEKER_T100": [
+  {
+   "brand": "ZEEKER",
+   "device": "ZEEKER_T100",
+   "model": "ZEEKER T100"
+  }
+ ],
+ "ZEEKER_T100_EEA": [
+  {
+   "brand": "ZEEKER",
+   "device": "ZEEKER_T100",
+   "model": "ZEEKER T100"
+  }
+ ],
+ "ZEEKER_T100_RU": [
+  {
+   "brand": "ZEEKER",
+   "device": "ZEEKER_T100",
+   "model": "ZEEKER T100"
+  }
+ ],
  "C-601": [
   {
    "brand": "ZENTALITY",
@@ -225442,6 +225608,13 @@
    "model": "M130s"
   }
  ],
+ "i-217D1": [
+  {
+   "brand": "imiia",
+   "device": "YUL",
+   "model": "i-217D1"
+  }
+ ],
  "BAM-II": [
   {
    "brand": "imose",
@@ -226251,11 +226424,25 @@
    "model": "C72W_EEA"
   }
  ],
+ "C81W": [
+  {
+   "brand": "weelikeit",
+   "device": "C81W",
+   "model": "C81W"
+  }
+ ],
  "F11W": [
   {
    "brand": "weelikeit",
    "device": "F11W",
    "model": "F11W"
+  }
+ ],
+ "F11W_EEA": [
+  {
+   "brand": "weelikeit",
+   "device": "F11W",
+   "model": "F11W_EEA"
   }
  ],
  "E5": [

@@ -23252,6 +23252,13 @@
    "device": "BP_6108"
   }
  ],
+ "BP_6110": [
+  {
+   "brand": "Blaupunkt",
+   "name": "BP_6110",
+   "device": "BP_6110"
+  }
+ ],
  "BLAUPUNKT 4K Android TV": [
   {
    "brand": "Blaupunkt",
@@ -27905,6 +27912,13 @@
    "device": "C10G"
   }
  ],
+ "C73W": [
+  {
+   "brand": "CWOWDEFU",
+   "name": "C73W",
+   "device": "C73W"
+  }
+ ],
  "C80W": [
   {
    "brand": "CWOWDEFU",
@@ -27931,6 +27945,20 @@
    "brand": "CWOWDEFU",
    "name": "C82W_EEA",
    "device": "C82W_EEA"
+  }
+ ],
+ "F12W": [
+  {
+   "brand": "CWOWDEFU",
+   "name": "F12W",
+   "device": "F12W"
+  }
+ ],
+ "F12W_EEA": [
+  {
+   "brand": "CWOWDEFU",
+   "name": "F12W_EEA",
+   "device": "F12W"
   }
  ],
  "F80L": [
@@ -37399,6 +37427,28 @@
    "device": "N570"
   }
  ],
+ "P11": [
+  {
+   "brand": "DEXP",
+   "name": "P11",
+   "device": "P11"
+  },
+  {
+   "brand": "Elephone",
+   "name": "P11",
+   "device": "P11"
+  },
+  {
+   "brand": "Haier",
+   "name": "Power P11",
+   "device": "P11"
+  },
+  {
+   "brand": "Symphony",
+   "name": "P11",
+   "device": "P11"
+  }
+ ],
  "P280": [
   {
    "brand": "DEXP",
@@ -40752,6 +40802,13 @@
    "device": "LS4051MG"
   }
  ],
+ "Optima 10 E600 3G TS1246PG": [
+  {
+   "brand": "Digma",
+   "name": "Optima 10 E600 3G TS1246PG",
+   "device": "TS1246PG"
+  }
+ ],
  "Optima 1028 3G TS1215PG": [
   {
    "brand": "Digma",
@@ -40785,6 +40842,13 @@
    "brand": "Digma",
    "name": "Optima_10_A500S_3G_TS1220PG",
    "device": "TS1220PG"
+  }
+ ],
+ "Optima 10 A502 3G TS1245PG": [
+  {
+   "brand": "Digma",
+   "name": "Optima_10_A502_3G_TS1245PG",
+   "device": "TS1245PG"
   }
  ],
  "Optima 10 X702 4G TS1228PL": [
@@ -43312,6 +43376,13 @@
    "device": "BH505GS"
   }
  ],
+ "SQ126G": [
+  {
+   "brand": "ECONNECT",
+   "name": "SQ126G",
+   "device": "SQ126G"
+  }
+ ],
  "RealPad MA7BX2": [
   {
    "brand": "ECS",
@@ -44871,23 +44942,6 @@
    "brand": "Elephone",
    "name": "E10_Pro",
    "device": "E10_Pro"
-  }
- ],
- "P11": [
-  {
-   "brand": "Elephone",
-   "name": "P11",
-   "device": "P11"
-  },
-  {
-   "brand": "Haier",
-   "name": "Power P11",
-   "device": "P11"
-  },
-  {
-   "brand": "Symphony",
-   "name": "P11",
-   "device": "P11"
   }
  ],
  "P8_3D": [
@@ -57278,6 +57332,13 @@
    "brand": "HAKO",
    "name": "HAKO mini",
    "device": "GMP"
+  }
+ ],
+ "T432": [
+  {
+   "brand": "HANET",
+   "name": "T432",
+   "device": "SmartEdu"
   }
  ],
  "E108GC4G": [
@@ -82043,6 +82104,13 @@
    "brand": "Huskee",
    "name": "VULKANO_Plus",
    "device": "VULKANO_Plus"
+  }
+ ],
+ "Model 6s": [
+  {
+   "brand": "Hyatta",
+   "name": "Model 6s",
+   "device": "Model_6s"
   }
  ],
  "KT1006": [
@@ -113297,6 +113365,13 @@
    "device": "ideatv_K82"
   }
  ],
+ "Lenovo TB223FC": [
+  {
+   "brand": "Lenovo",
+   "name": "启天K10 Pro",
+   "device": "TB223FC"
+  }
+ ],
  "Lenovo TB-J616N": [
   {
    "brand": "Lenovo",
@@ -117767,6 +117842,13 @@
    "device": "Masstel_Tab8_4G"
   }
  ],
+ "Masstel Tab8 Edu": [
+  {
+   "brand": "Masstel",
+   "name": "Masstel_Tab8_Edu",
+   "device": "Masstel_Tab8_Edu"
+  }
+ ],
  "Tab 10.1Pro": [
   {
    "brand": "Masstel",
@@ -117802,6 +117884,13 @@
    "device": "Masstel_Tab_10M"
   }
  ],
+ "Masstel Tab 83": [
+  {
+   "brand": "Masstel",
+   "name": "Masstel_Tab_83",
+   "device": "Masstel_Tab_83"
+  }
+ ],
  "Masstel X1": [
   {
    "brand": "Masstel",
@@ -117835,6 +117924,13 @@
    "brand": "Masstel",
    "name": "N535",
    "device": "Masstel_N535"
+  }
+ ],
+ "Masstel Tab10 Edu": [
+  {
+   "brand": "Masstel",
+   "name": "Tab10_Edu",
+   "device": "Tab10_Edu"
   }
  ],
  "Masstel_Tab7LTE": [
@@ -152944,6 +153040,13 @@
    "device": "RAVOZ_Z7_Pro"
   }
  ],
+ "RAVOZ V2": [
+  {
+   "brand": "RAVOZ",
+   "name": "RAVOZ_V2",
+   "device": "RAVOZ_V2"
+  }
+ ],
  "RAVOZ Z3 Lite": [
   {
    "brand": "RAVOZ",
@@ -157318,6 +157421,13 @@
    "brand": "SGINO",
    "name": "6S",
    "device": "6S"
+  }
+ ],
+ "CP093": [
+  {
+   "brand": "SGINO",
+   "name": "CP093",
+   "device": "CP093"
   }
  ],
  "SGINO6": [
@@ -182474,6 +182584,11 @@
  "Elite T8Plus": [
   {
    "brand": "Sky Devices",
+   "name": "Elite T8 Plus",
+   "device": "Elite_T8PUB"
+  },
+  {
+   "brand": "Sky Devices",
    "name": "Elite T8Plus",
    "device": "Elite_T8PlusK"
   },
@@ -201604,6 +201719,13 @@
    "device": "Tabletop_T2"
   }
  ],
+ "Tabletop_T2_2": [
+  {
+   "brand": "Tabletop",
+   "name": "Tabletop_T2_2",
+   "device": "Tabletop_T2_2"
+  }
+ ],
  "TAGPhone": [
   {
    "brand": "Tagtech",
@@ -202202,6 +202324,11 @@
   {
    "brand": "Techpad",
    "name": "Tech_Pad_X10",
+   "device": "Tech_Pad_X10"
+  },
+  {
+   "brand": "Techpad",
+   "name": "Tech_Pad_X10B",
    "device": "Tech_Pad_X10"
   }
  ],
@@ -207553,6 +207680,13 @@
    "device": "UNIQ0122"
   }
  ],
+ "UNIQ0222": [
+  {
+   "brand": "UNIQ-CELL",
+   "name": "UNIQ0222",
+   "device": "UNIQ0222"
+  }
+ ],
  "UNIQCELL_A4": [
   {
    "brand": "UNIQ-CELL",
@@ -209095,6 +209229,13 @@
    "brand": "Uniqcell",
    "name": "UNI 10X",
    "device": "UNI_10X"
+  }
+ ],
+ "UNI_GO": [
+  {
+   "brand": "Uniqcell",
+   "name": "UNI GO",
+   "device": "UNI_GO"
   }
  ],
  "s6w": [
@@ -223657,6 +223798,23 @@
    "device": "ZEEKER_P10"
   }
  ],
+ "ZEEKER T100": [
+  {
+   "brand": "ZEEKER",
+   "name": "ZEEKER_T100",
+   "device": "ZEEKER_T100"
+  },
+  {
+   "brand": "ZEEKER",
+   "name": "ZEEKER_T100_EEA",
+   "device": "ZEEKER_T100"
+  },
+  {
+   "brand": "ZEEKER",
+   "name": "ZEEKER_T100_RU",
+   "device": "ZEEKER_T100"
+  }
+ ],
  "C-601": [
   {
    "brand": "ZENTALITY",
@@ -238139,6 +238297,13 @@
    "device": "M10ES11"
   }
  ],
+ "i-217D1": [
+  {
+   "brand": "imiia",
+   "name": "i-217D1",
+   "device": "YUL"
+  }
+ ],
  "BAM-II": [
   {
    "brand": "imose",
@@ -238939,10 +239104,24 @@
    "device": "C72W_EEA"
   }
  ],
+ "C81W": [
+  {
+   "brand": "weelikeit",
+   "name": "C81W",
+   "device": "C81W"
+  }
+ ],
  "F11W": [
   {
    "brand": "weelikeit",
    "name": "F11W",
+   "device": "F11W"
+  }
+ ],
+ "F11W_EEA": [
+  {
+   "brand": "weelikeit",
+   "name": "F11W_EEA",
    "device": "F11W"
   }
  ],

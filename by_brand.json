@@ -15791,6 +15791,11 @@
    "model": "BP_6108"
   },
   {
+   "device": "BP_6110",
+   "name": "BP_6110",
+   "model": "BP_6110"
+  },
+  {
    "device": "bangbae",
    "name": "Blaupunkt",
    "model": "BLAUPUNKT 4K Android TV"
@@ -19051,6 +19056,11 @@
    "model": "C6"
   },
   {
+   "device": "C73W",
+   "name": "C73W",
+   "model": "C73W"
+  },
+  {
    "device": "C80W",
    "name": "C80W",
    "model": "C80W"
@@ -19069,6 +19079,16 @@
    "device": "C82W_EEA",
    "name": "C82W_EEA",
    "model": "C82W_EEA"
+  },
+  {
+   "device": "F12W",
+   "name": "F12W",
+   "model": "F12W"
+  },
+  {
+   "device": "F12W",
+   "name": "F12W_EEA",
+   "model": "F12W_EEA"
   },
   {
    "device": "F80L",
@@ -25946,6 +25966,11 @@
    "model": "N570"
   },
   {
+   "device": "P11",
+   "name": "P11",
+   "model": "P11"
+  },
+  {
    "device": "P280",
    "name": "P280",
    "model": "P280"
@@ -28474,6 +28499,11 @@
    "model": "Linx X1 PRO 3G LS4051MG"
   },
   {
+   "device": "TS1246PG",
+   "name": "Optima 10 E600 3G TS1246PG",
+   "model": "Optima 10 E600 3G TS1246PG"
+  },
+  {
    "device": "TS1215PG",
    "name": "Optima 1028 3G TS1215PG",
    "model": "Optima 1028 3G TS1215PG"
@@ -28497,6 +28527,11 @@
    "device": "TS1220PG",
    "name": "Optima_10_A500S_3G_TS1220PG",
    "model": "Optima 10 A500S 3G TS1220PG"
+  },
+  {
+   "device": "TS1245PG",
+   "name": "Optima_10_A502_3G_TS1245PG",
+   "model": "Optima 10 A502 3G TS1245PG"
   },
   {
    "device": "TS1228PL",
@@ -30361,6 +30396,11 @@
    "device": "BH505GS",
    "name": "BH505GS",
    "model": "BH505GS"
+  },
+  {
+   "device": "SQ126G",
+   "name": "SQ126G",
+   "model": "SQ126G"
   }
  ],
  "ECS": [
@@ -40645,6 +40685,13 @@
    "device": "GMP",
    "name": "HAKO mini",
    "model": "HAKO mini"
+  }
+ ],
+ "HANET": [
+  {
+   "device": "SmartEdu",
+   "name": "T432",
+   "model": "T432"
   }
  ],
  "HANYEAL": [
@@ -59490,6 +59537,13 @@
    "device": "VULKANO_Plus",
    "name": "VULKANO_Plus",
    "model": "VULKANO_Plus"
+  }
+ ],
+ "Hyatta": [
+  {
+   "device": "Model_6s",
+   "name": "Model 6s",
+   "model": "Model 6s"
   }
  ],
  "Hyjoy": [
@@ -83375,6 +83429,11 @@
    "model": "ideatv K82"
   },
   {
+   "device": "TB223FC",
+   "name": "启天K10 Pro",
+   "model": "Lenovo TB223FC"
+  },
+  {
    "device": "TB-J616F",
    "name": "小新 Pad GT",
    "model": "Lenovo TB-J616F"
@@ -86991,6 +87050,11 @@
    "model": "Masstel_Tab8_4G"
   },
   {
+   "device": "Masstel_Tab8_Edu",
+   "name": "Masstel_Tab8_Edu",
+   "model": "Masstel Tab8 Edu"
+  },
+  {
    "device": "Masstel_Tab_101Pro",
    "name": "Masstel_Tab_10.1Pro",
    "model": "Tab 10.1Pro"
@@ -87016,6 +87080,11 @@
    "model": "Masstel Tab"
   },
   {
+   "device": "Masstel_Tab_83",
+   "name": "Masstel_Tab_83",
+   "model": "Masstel Tab 83"
+  },
+  {
    "device": "Masstel_X1",
    "name": "Masstel_X1",
    "model": "Masstel X1"
@@ -87039,6 +87108,11 @@
    "device": "Masstel_N535",
    "name": "N535",
    "model": "Masstel N535"
+  },
+  {
+   "device": "Tab10_Edu",
+   "name": "Tab10_Edu",
+   "model": "Masstel Tab10 Edu"
   },
   {
    "device": "Masstel_Tab7LTE",
@@ -114882,6 +114956,11 @@
    "model": "RAVOZ Z7 Pro"
   },
   {
+   "device": "RAVOZ_V2",
+   "name": "RAVOZ_V2",
+   "model": "RAVOZ V2"
+  },
+  {
    "device": "RAVOZ_Z3_Lite",
    "name": "RAVOZ_Z3_Lite",
    "model": "RAVOZ Z3 Lite"
@@ -118387,6 +118466,11 @@
    "device": "6S",
    "name": "6S",
    "model": "6S"
+  },
+  {
+   "device": "CP093",
+   "name": "CP093",
+   "model": "CP093"
   },
   {
    "device": "SGINO6",
@@ -137059,6 +137143,11 @@
    "model": "Elite T6"
   },
   {
+   "device": "Elite_T8PUB",
+   "name": "Elite T8 Plus",
+   "model": "Elite T8Plus"
+  },
+  {
    "device": "Elite_T8PlusK",
    "name": "Elite T8Plus",
    "model": "Elite T8Plus"
@@ -151859,6 +151948,11 @@
    "device": "Tabletop_T2",
    "name": "Tabletop_T2",
    "model": "Tabletop_T2"
+  },
+  {
+   "device": "Tabletop_T2_2",
+   "name": "Tabletop_T2_2",
+   "model": "Tabletop_T2_2"
   }
  ],
  "Tagtech": [
@@ -152358,6 +152452,11 @@
   {
    "device": "Tech_Pad_X10",
    "name": "Tech_Pad_X10",
+   "model": "Tech Pad X10"
+  },
+  {
+   "device": "Tech_Pad_X10",
+   "name": "Tech_Pad_X10B",
    "model": "Tech Pad X10"
   },
   {
@@ -156677,6 +156776,11 @@
    "model": "UNIQ0122"
   },
   {
+   "device": "UNIQ0222",
+   "name": "UNIQ0222",
+   "model": "UNIQ0222"
+  },
+  {
    "device": "UNIQCELL_A4",
    "name": "UNIQCELL_A4",
    "model": "UNIQCELL_A4"
@@ -158078,6 +158182,11 @@
    "device": "UNI_10X",
    "name": "UNI 10X",
    "model": "UNI 10X"
+  },
+  {
+   "device": "UNI_GO",
+   "name": "UNI GO",
+   "model": "UNI_GO"
   }
  ],
  "Uniscope": [
@@ -169990,6 +170099,21 @@
    "device": "ZEEKER_P10",
    "name": "ZEEKER_P10_RU",
    "model": "ZEEKER P10"
+  },
+  {
+   "device": "ZEEKER_T100",
+   "name": "ZEEKER_T100",
+   "model": "ZEEKER T100"
+  },
+  {
+   "device": "ZEEKER_T100",
+   "name": "ZEEKER_T100_EEA",
+   "model": "ZEEKER T100"
+  },
+  {
+   "device": "ZEEKER_T100",
+   "name": "ZEEKER_T100_RU",
+   "model": "ZEEKER T100"
   }
  ],
  "ZENTALITY": [
@@ -181432,6 +181556,13 @@
    "model": "M130s"
   }
  ],
+ "imiia": [
+  {
+   "device": "YUL",
+   "name": "i-217D1",
+   "model": "i-217D1"
+  }
+ ],
  "imose": [
   {
    "device": "BAM-II",
@@ -182310,9 +182441,19 @@
    "model": "C72W_EEA"
   },
   {
+   "device": "C81W",
+   "name": "C81W",
+   "model": "C81W"
+  },
+  {
    "device": "F11W",
    "name": "F11W",
    "model": "F11W"
+  },
+  {
+   "device": "F11W",
+   "name": "F11W_EEA",
+   "model": "F11W_EEA"
   }
  ],
  "xTouch": [

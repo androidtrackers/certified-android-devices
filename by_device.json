@@ -25464,6 +25464,13 @@
    "model": "BP_6108"
   }
  ],
+ "BP_6110": [
+  {
+   "brand": "Blaupunkt",
+   "name": "BP_6110",
+   "model": "BP_6110"
+  }
+ ],
  "ewha": [
   {
    "brand": "Blaupunkt",
@@ -29816,6 +29823,13 @@
    "model": "C10G"
   }
  ],
+ "C73W": [
+  {
+   "brand": "CWOWDEFU",
+   "name": "C73W",
+   "model": "C73W"
+  }
+ ],
  "C80W": [
   {
    "brand": "CWOWDEFU",
@@ -29842,6 +29856,18 @@
    "brand": "CWOWDEFU",
    "name": "C82W_EEA",
    "model": "C82W_EEA"
+  }
+ ],
+ "F12W": [
+  {
+   "brand": "CWOWDEFU",
+   "name": "F12W",
+   "model": "F12W"
+  },
+  {
+   "brand": "CWOWDEFU",
+   "name": "F12W_EEA",
+   "model": "F12W_EEA"
   }
  ],
  "F80L": [
@@ -39746,6 +39772,33 @@
    "model": "N570"
   }
  ],
+ "P11": [
+  {
+   "brand": "DEXP",
+   "name": "P11",
+   "model": "P11"
+  },
+  {
+   "brand": "Elephone",
+   "name": "P11",
+   "model": "P11"
+  },
+  {
+   "brand": "Haier",
+   "name": "Power P11",
+   "model": "P11"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "P11",
+   "model": "Panasonic P11"
+  },
+  {
+   "brand": "Symphony",
+   "name": "P11",
+   "model": "P11"
+  }
+ ],
  "P280": [
   {
    "brand": "DEXP",
@@ -43096,6 +43149,13 @@
    "model": "Linx X1 PRO 3G LS4051MG"
   }
  ],
+ "TS1246PG": [
+  {
+   "brand": "Digma",
+   "name": "Optima 10 E600 3G TS1246PG",
+   "model": "Optima 10 E600 3G TS1246PG"
+  }
+ ],
  "TS1215PG": [
   {
    "brand": "Digma",
@@ -43129,6 +43189,13 @@
    "brand": "Digma",
    "name": "Optima_10_A500S_3G_TS1220PG",
    "model": "Optima 10 A500S 3G TS1220PG"
+  }
+ ],
+ "TS1245PG": [
+  {
+   "brand": "Digma",
+   "name": "Optima_10_A502_3G_TS1245PG",
+   "model": "Optima 10 A502 3G TS1245PG"
   }
  ],
  "TS1228PL": [
@@ -45701,6 +45768,13 @@
    "model": "BH505GS"
   }
  ],
+ "SQ126G": [
+  {
+   "brand": "ECONNECT",
+   "name": "SQ126G",
+   "model": "SQ126G"
+  }
+ ],
  "RealPad_MA7BX2_1": [
   {
    "brand": "ECS",
@@ -47225,28 +47299,6 @@
    "brand": "Elephone",
    "name": "E10_Pro",
    "model": "E10_Pro"
-  }
- ],
- "P11": [
-  {
-   "brand": "Elephone",
-   "name": "P11",
-   "model": "P11"
-  },
-  {
-   "brand": "Haier",
-   "name": "Power P11",
-   "model": "P11"
-  },
-  {
-   "brand": "Panasonic",
-   "name": "P11",
-   "model": "Panasonic P11"
-  },
-  {
-   "brand": "Symphony",
-   "name": "P11",
-   "model": "P11"
   }
  ],
  "P8_3D": [
@@ -59440,6 +59492,13 @@
    "brand": "H133",
    "name": "Betacrux",
    "model": "Betacrux"
+  }
+ ],
+ "SmartEdu": [
+  {
+   "brand": "HANET",
+   "name": "T432",
+   "model": "T432"
   }
  ],
  "E108GC4G": [
@@ -81228,6 +81287,13 @@
    "brand": "Huskee",
    "name": "VULKANO_Plus",
    "model": "VULKANO_Plus"
+  }
+ ],
+ "Model_6s": [
+  {
+   "brand": "Hyatta",
+   "name": "Model 6s",
+   "model": "Model 6s"
   }
  ],
  "KT1006": [
@@ -110941,6 +111007,13 @@
    "model": "ideatv K82"
   }
  ],
+ "TB223FC": [
+  {
+   "brand": "Lenovo",
+   "name": "启天K10 Pro",
+   "model": "Lenovo TB223FC"
+  }
+ ],
  "TB-J616N": [
   {
    "brand": "Lenovo",
@@ -115376,6 +115449,13 @@
    "model": "Masstel_Tab8_4G"
   }
  ],
+ "Masstel_Tab8_Edu": [
+  {
+   "brand": "Masstel",
+   "name": "Masstel_Tab8_Edu",
+   "model": "Masstel Tab8 Edu"
+  }
+ ],
  "Masstel_Tab_101Pro": [
   {
    "brand": "Masstel",
@@ -115411,6 +115491,13 @@
    "model": "Masstel Tab"
   }
  ],
+ "Masstel_Tab_83": [
+  {
+   "brand": "Masstel",
+   "name": "Masstel_Tab_83",
+   "model": "Masstel Tab 83"
+  }
+ ],
  "Masstel_X1": [
   {
    "brand": "Masstel",
@@ -115444,6 +115531,13 @@
    "brand": "Masstel",
    "name": "N535",
    "model": "Masstel N535"
+  }
+ ],
+ "Tab10_Edu": [
+  {
+   "brand": "Masstel",
+   "name": "Tab10_Edu",
+   "model": "Masstel Tab10 Edu"
   }
  ],
  "Masstel_Tab7LTE": [
@@ -149550,6 +149644,13 @@
    "model": "RAVOZ Z7 Pro"
   }
  ],
+ "RAVOZ_V2": [
+  {
+   "brand": "RAVOZ",
+   "name": "RAVOZ_V2",
+   "model": "RAVOZ V2"
+  }
+ ],
  "RAVOZ_Z3_Lite": [
   {
    "brand": "RAVOZ",
@@ -153740,6 +153841,13 @@
    "brand": "SGINO",
    "name": "6S",
    "model": "6S"
+  }
+ ],
+ "CP093": [
+  {
+   "brand": "SGINO",
+   "name": "CP093",
+   "model": "CP093"
   }
  ],
  "SGINO6": [
@@ -177146,6 +177254,13 @@
    "model": "Elite T6"
   }
  ],
+ "Elite_T8PUB": [
+  {
+   "brand": "Sky Devices",
+   "name": "Elite T8 Plus",
+   "model": "Elite T8Plus"
+  }
+ ],
  "Elite_T8PlusK": [
   {
    "brand": "Sky Devices",
@@ -193872,6 +193987,13 @@
    "model": "Tabletop_T2"
   }
  ],
+ "Tabletop_T2_2": [
+  {
+   "brand": "Tabletop",
+   "name": "Tabletop_T2_2",
+   "model": "Tabletop_T2_2"
+  }
+ ],
  "TAGPhone": [
   {
    "brand": "Tagtech",
@@ -194463,6 +194585,11 @@
   {
    "brand": "Techpad",
    "name": "Tech_Pad_X10",
+   "model": "Tech Pad X10"
+  },
+  {
+   "brand": "Techpad",
+   "name": "Tech_Pad_X10B",
    "model": "Tech Pad X10"
   }
  ],
@@ -199591,6 +199718,13 @@
    "model": "UNIQ0122"
   }
  ],
+ "UNIQ0222": [
+  {
+   "brand": "UNIQ-CELL",
+   "name": "UNIQ0222",
+   "model": "UNIQ0222"
+  }
+ ],
  "UNIQCELL_A4": [
   {
    "brand": "UNIQ-CELL",
@@ -201095,6 +201229,13 @@
    "brand": "Uniqcell",
    "name": "UNI 10X",
    "model": "UNI 10X"
+  }
+ ],
+ "UNI_GO": [
+  {
+   "brand": "Uniqcell",
+   "name": "UNI GO",
+   "model": "UNI_GO"
   }
  ],
  "S6s": [
@@ -214966,6 +215107,23 @@
    "model": "ZEEKER P10"
   }
  ],
+ "ZEEKER_T100": [
+  {
+   "brand": "ZEEKER",
+   "name": "ZEEKER_T100",
+   "model": "ZEEKER T100"
+  },
+  {
+   "brand": "ZEEKER",
+   "name": "ZEEKER_T100_EEA",
+   "model": "ZEEKER T100"
+  },
+  {
+   "brand": "ZEEKER",
+   "name": "ZEEKER_T100_RU",
+   "model": "ZEEKER T100"
+  }
+ ],
  "C-601": [
   {
    "brand": "ZENTALITY",
@@ -227771,6 +227929,13 @@
    "model": "M130s"
   }
  ],
+ "YUL": [
+  {
+   "brand": "imiia",
+   "name": "i-217D1",
+   "model": "i-217D1"
+  }
+ ],
  "BAM-II": [
   {
    "brand": "imose",
@@ -228651,11 +228816,23 @@
    "model": "C72W_EEA"
   }
  ],
+ "C81W": [
+  {
+   "brand": "weelikeit",
+   "name": "C81W",
+   "model": "C81W"
+  }
+ ],
  "F11W": [
   {
    "brand": "weelikeit",
    "name": "F11W",
    "model": "F11W"
+  },
+  {
+   "brand": "weelikeit",
+   "name": "F11W_EEA",
+   "model": "F11W_EEA"
   }
  ],
  "XTOUCH_A4": [
