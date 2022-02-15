@@ -782,6 +782,20 @@
    "model": "AOpen Chromebox Mini"
   }
  ],
+ "ARATEK": [
+  {
+   "device": "Marshall-8",
+   "name": "Marshall-8",
+   "model": "Marshall-8"
+  }
+ ],
+ "ARBOR": [
+  {
+   "device": "G47",
+   "name": "G47",
+   "model": "G47"
+  }
+ ],
  "ARRQW": [
   {
    "device": "samseong",
@@ -1668,6 +1682,11 @@
    "device": "AS10W",
    "name": "AS10W",
    "model": "AS10W"
+  },
+  {
+   "device": "AS8W",
+   "name": "AS8W",
+   "model": "AS8W"
   },
   {
    "device": "ATAB1021E",
@@ -4079,6 +4098,11 @@
    "device": "A20_Max",
    "name": "A20 Max",
    "model": "A20_Max"
+  },
+  {
+   "device": "A30_Max",
+   "name": "A30 MAX",
+   "model": "A30_Max"
   },
   {
    "device": "A30_Plus",
@@ -11420,6 +11444,11 @@
    "model": "V5+"
   },
   {
+   "device": "Azumi_V5_AC01",
+   "name": "V51",
+   "model": "Azumi_V51"
+  },
+  {
    "device": "Azumi_V54_AC24",
    "name": "V54_AC24",
    "model": "V54"
@@ -14993,6 +15022,11 @@
    "device": "darklighter",
    "name": "Black Shark 2 Pro",
    "model": "DLT-H0"
+  },
+  {
+   "device": "kaiser-os",
+   "name": "Black shark 4 pro",
+   "model": "SHARK KSR-H0"
   },
   {
    "device": "klein",
@@ -18810,6 +18844,11 @@
  ],
  "COCOMM": [
   {
+   "device": "F900N0101",
+   "name": "F900",
+   "model": "F900"
+  },
+  {
    "device": "F910B0101",
    "name": "F910B0101",
    "model": "F910"
@@ -20306,6 +20345,11 @@
    "device": "COSMAS_T",
    "name": "COSMAS_T",
    "model": "COSMAS T"
+  },
+  {
+   "device": "COSMAS_TF",
+   "name": "COSMAS_TF",
+   "model": "COSMAS_TF"
   },
   {
    "device": "COSMAS_X",
@@ -27937,6 +27981,13 @@
    "device": "yeongdeungpo",
    "name": "Italy",
    "model": "Digiquest 4K Android TV"
+  }
+ ],
+ "Digit": [
+  {
+   "device": "Digitplay1",
+   "name": "Digitplay1",
+   "model": "Digitplay1"
   }
  ],
  "Digital2": [
@@ -40413,6 +40464,11 @@
   }
  ],
  "Grolier": [
+  {
+   "device": "GSR",
+   "name": "GSR",
+   "model": "GSR"
+  },
   {
    "device": "GSR2",
    "name": "GSR2",
@@ -61513,6 +61569,11 @@
    "model": "AI PONT"
   },
   {
+   "device": "beaudry",
+   "name": "43X3",
+   "model": "Infinix AndroidTV"
+  },
+  {
    "device": "samseong",
    "name": "55X1",
    "model": "AI PONT"
@@ -64840,9 +64901,19 @@
    "model": "AI PONT"
   },
   {
+   "device": "beaudry",
+   "name": "G4350",
+   "model": "itel AndroidTV"
+  },
+  {
    "device": "samseong",
    "name": "G5524BE",
    "model": "AI PONT"
+  },
+  {
+   "device": "barking",
+   "name": "G5550",
+   "model": "itel Android TV"
   },
   {
    "device": "ITELL_K4700Q",
@@ -85724,6 +85795,13 @@
    "model": "AMBK290471"
   }
  ],
+ "MIKU": [
+  {
+   "device": "TAB63A",
+   "name": "TAB63A",
+   "model": "TAB63A"
+  }
+ ],
  "MILECTRIC": [
   {
    "device": "MOROCCO",
@@ -95653,6 +95731,11 @@
    "model": "Multilaser_F_Max_2"
   },
   {
+   "device": "Multilaser_G_3",
+   "name": "G 3",
+   "model": "Multilaser_G_3"
+  },
+  {
    "device": "Multilaser_G_Max_2_SE_64",
    "name": "G Max 2 SE",
    "model": "Multilaser_G_Max_2_SE_64"
@@ -95764,6 +95847,11 @@
   },
   {
    "device": "ML_JI0H_M10_3G",
+   "name": "M10_3G",
+   "model": "M10_3G"
+  },
+  {
+   "device": "ML_SO0B_M10_3G",
    "name": "M10_3G",
    "model": "M10_3G"
   },
@@ -98916,6 +99004,16 @@
    "device": "NID9009",
    "name": "NID9009",
    "model": "NID-9009"
+  },
+  {
+   "device": "NID_1056",
+   "name": "NID_1056",
+   "model": "NID-1056"
+  },
+  {
+   "device": "NID_7056",
+   "name": "NID_7056",
+   "model": "NID-7056"
   },
   {
    "device": "NID_1055",
@@ -102200,6 +102298,11 @@
    "device": "100071485",
    "name": "100071485",
    "model": "100071485"
+  },
+  {
+   "device": "100071486",
+   "name": "100071486",
+   "model": "100071486"
   },
   {
    "device": "ONA19TB002",
@@ -106253,6 +106356,11 @@
    "device": "alioth",
    "name": "POCO F3",
    "model": "M2012K11AG"
+  },
+  {
+   "device": "aresin",
+   "name": "POCO F3 GT",
+   "model": "M2104K10I"
   },
   {
    "device": "shiva",
@@ -114979,6 +115087,11 @@
    "device": "RAVOZ_Z8",
    "name": "RAVOZ_Z8",
    "model": "RAVOZ Z8"
+  },
+  {
+   "device": "RAVOZ_Z3_Lite",
+   "name": "Z3_Lite",
+   "model": "RAVOZ Z3 Lite"
   }
  ],
  "RCA": [
@@ -115136,6 +115249,11 @@
    "device": "gangbyeon",
    "name": "HKC",
    "model": "HKC 4K AI Smart TV"
+  },
+  {
+   "device": "mateo",
+   "name": "HKC",
+   "model": "2K PA Smart TV"
   },
   {
    "device": "mateo",
@@ -131683,6 +131801,11 @@
    "model": "SM-X806N"
   },
   {
+   "device": "gts8p",
+   "name": "Galaxy Tab S8+ 5G",
+   "model": "SM-X808U"
+  },
+  {
    "device": "espresso10att",
    "name": "Galaxy Tab2 10.1",
    "model": "SAMSUNG-SGH-I497"
@@ -142976,9 +143099,19 @@
    "model": "AI PONT"
   },
   {
+   "device": "beaudry",
+   "name": "43A51",
+   "model": "Syinix AndroidTV"
+  },
+  {
    "device": "samseong",
    "name": "55A1S",
    "model": "AI PONT"
+  },
+  {
+   "device": "barking",
+   "name": "55U51",
+   "model": "Syinix AndroidTV"
   },
   {
    "device": "yeongdeungpo",
@@ -155964,6 +156097,11 @@
    "model": "TM-MID795"
   },
   {
+   "device": "TM-TAB1085",
+   "name": "TM-TAB1085",
+   "model": "TM-TAB1085"
+  },
+  {
    "device": "TM_MID792WP",
    "name": "TM_MID792WP",
    "model": "TM-MID792WP"
@@ -161457,6 +161595,11 @@
    "model": "TPC_8063G"
   },
   {
+   "device": "TPC_8074G",
+   "name": "TPC_8074G",
+   "model": "TPC_8074G"
+  },
+  {
    "device": "VIVAX_Fly6",
    "name": "VIVAX Fly6",
    "model": "VIVAX Fly6"
@@ -165047,6 +165190,11 @@
    "model": "Primo GM4"
   },
   {
+   "device": "Primo_H10",
+   "name": "Primo H10",
+   "model": "Primo H10"
+  },
+  {
    "device": "Primo_H6_Plus",
    "name": "Primo H6+",
    "model": "Primo H6 Plus"
@@ -167529,6 +167677,11 @@
  ],
  "X-TIGI": [
   {
+   "device": "9A",
+   "name": "9A",
+   "model": "9A"
+  },
+  {
    "device": "9C",
    "name": "9C",
    "model": "9C"
@@ -169184,6 +169337,11 @@
    "device": "nabu",
    "name": "Xiaomi Pad 5",
    "model": "21051182C"
+  },
+  {
+   "device": "nabu",
+   "name": "Xiaomi Pad 5",
+   "model": "21051182G"
   },
   {
    "device": "elish",
@@ -179199,6 +179357,11 @@
    "model": "STELLAR P3"
   },
   {
+   "device": "STELLAR_P4",
+   "name": "STELLAR P4",
+   "model": "STELLAR P4"
+  },
+  {
    "device": "STELLAR_PLUS",
    "name": "STELLAR PLUS",
    "model": "STELLAR PLUS"
@@ -181923,6 +182086,11 @@
    "model": "RMX3081"
   },
   {
+   "device": "RED8C1L1",
+   "name": "realme 9i",
+   "model": "RMX3493"
+  },
+  {
    "device": "RMX3231",
    "name": "realme C11 2021",
    "model": "RMX3231"
@@ -182444,6 +182612,11 @@
    "device": "C81W",
    "name": "C81W",
    "model": "C81W"
+  },
+  {
+   "device": "C81W_EEA",
+   "name": "C81W_EEA",
+   "model": "C81W_EEA"
   },
   {
    "device": "F11W",

@@ -2607,6 +2607,20 @@
    "model": "AOpen Chromebox Mini"
   }
  ],
+ "Marshall-8": [
+  {
+   "brand": "ARATEK",
+   "name": "Marshall-8",
+   "model": "Marshall-8"
+  }
+ ],
+ "G47": [
+  {
+   "brand": "ARBOR",
+   "name": "G47",
+   "model": "G47"
+  }
+ ],
  "SURGE_AA_787_S": [
   {
    "brand": "ASTCA",
@@ -4129,6 +4143,13 @@
    "brand": "Acer",
    "name": "AS10W",
    "model": "AS10W"
+  }
+ ],
+ "AS8W": [
+  {
+   "brand": "Acer",
+   "name": "AS8W",
+   "model": "AS8W"
   }
  ],
  "ATAB1021E": [
@@ -8584,6 +8605,13 @@
    "brand": "AllView",
    "name": "A20 Max",
    "model": "A20_Max"
+  }
+ ],
+ "A30_Max": [
+  {
+   "brand": "AllView",
+   "name": "A30 MAX",
+   "model": "A30_Max"
   }
  ],
  "A30_Plus": [
@@ -19468,6 +19496,13 @@
    "model": "V5+"
   }
  ],
+ "Azumi_V5_AC01": [
+  {
+   "brand": "Azumi",
+   "name": "V51",
+   "model": "Azumi_V51"
+  }
+ ],
  "Azumi_V54_AC24": [
   {
    "brand": "Azumi",
@@ -24340,6 +24375,13 @@
    "brand": "Blackshark",
    "name": "黑鲨游戏手机 2 Pro",
    "model": "DLT-A0"
+  }
+ ],
+ "kaiser-os": [
+  {
+   "brand": "Blackshark",
+   "name": "Black shark 4 pro",
+   "model": "SHARK KSR-H0"
   }
  ],
  "klein": [
@@ -29476,6 +29518,13 @@
    "model": "M811"
   }
  ],
+ "F900N0101": [
+  {
+   "brand": "COCOMM",
+   "name": "F900",
+   "model": "F900"
+  }
+ ],
  "F910B0101": [
   {
    "brand": "COCOMM",
@@ -31531,6 +31580,13 @@
    "brand": "Cellution",
    "name": "COSMAS_T",
    "model": "COSMAS T"
+  }
+ ],
+ "COSMAS_TF": [
+  {
+   "brand": "Cellution",
+   "name": "COSMAS_TF",
+   "model": "COSMAS_TF"
   }
  ],
  "COSMAS_X": [
@@ -40507,6 +40563,11 @@
   {
    "brand": "RCA",
    "name": "HKC",
+   "model": "2K PA Smart TV"
+  },
+  {
+   "brand": "RCA",
+   "name": "HKC",
    "model": "HKC 2K SA Smart TV"
   },
   {
@@ -42370,6 +42431,13 @@
    "brand": "Diginnos",
    "name": "DG-Q08M",
    "model": "DG-Q08M"
+  }
+ ],
+ "Digitplay1": [
+  {
+   "brand": "Digit",
+   "name": "Digitplay1",
+   "model": "Digitplay1"
   }
  ],
  "nuclear-D2_Deluxe": [
@@ -59172,6 +59240,13 @@
    "brand": "Greentel",
    "name": "Xmini4G",
    "model": "Xmini4G"
+  }
+ ],
+ "GSR": [
+  {
+   "brand": "Grolier",
+   "name": "GSR",
+   "model": "GSR"
   }
  ],
  "GSR2": [
@@ -83761,6 +83836,23 @@
    "model": "Infinity"
   }
  ],
+ "beaudry": [
+  {
+   "brand": "Infinix",
+   "name": "43X3",
+   "model": "Infinix AndroidTV"
+  },
+  {
+   "brand": "Itel",
+   "name": "G4350",
+   "model": "itel AndroidTV"
+  },
+  {
+   "brand": "Syinix",
+   "name": "43A51",
+   "model": "Syinix AndroidTV"
+  }
+ ],
  "Infinix-X689F": [
   {
    "brand": "Infinix",
@@ -88054,6 +88146,18 @@
    "brand": "Itel",
    "name": "F3116",
    "model": "itel A571WM"
+  }
+ ],
+ "barking": [
+  {
+   "brand": "Itel",
+   "name": "G5550",
+   "model": "itel Android TV"
+  },
+  {
+   "brand": "Syinix",
+   "name": "55U51",
+   "model": "Syinix AndroidTV"
   }
  ],
  "ITELL_K4700Q": [
@@ -113884,6 +113988,13 @@
    "model": "AMBK290471"
   }
  ],
+ "TAB63A": [
+  {
+   "brand": "MIKU",
+   "name": "TAB63A",
+   "model": "TAB63A"
+  }
+ ],
  "DV8553": [
   {
    "brand": "MINIX",
@@ -126131,6 +126242,13 @@
    "model": "Multilaser_F_Max_2"
   }
  ],
+ "Multilaser_G_3": [
+  {
+   "brand": "Multilaser",
+   "name": "G 3",
+   "model": "Multilaser_G_3"
+  }
+ ],
  "Multilaser_G_Max_2_SE_64": [
   {
    "brand": "Multilaser",
@@ -126279,6 +126397,13 @@
   }
  ],
  "ML_JI0H_M10_3G": [
+  {
+   "brand": "Multilaser",
+   "name": "M10_3G",
+   "model": "M10_3G"
+  }
+ ],
+ "ML_SO0B_M10_3G": [
   {
    "brand": "Multilaser",
    "name": "M10_3G",
@@ -130307,6 +130432,20 @@
    "model": "NID-9009"
   }
  ],
+ "NID_1056": [
+  {
+   "brand": "Naxa",
+   "name": "NID_1056",
+   "model": "NID-1056"
+  }
+ ],
+ "NID_7056": [
+  {
+   "brand": "Naxa",
+   "name": "NID_7056",
+   "model": "NID-7056"
+  }
+ ],
  "NID_1055": [
   {
    "brand": "Naxa",
@@ -134044,6 +134183,13 @@
    "brand": "Onn (Walmart)",
    "name": "100071485",
    "model": "100071485"
+  }
+ ],
+ "100071486": [
+  {
+   "brand": "Onn (Walmart)",
+   "name": "100071486",
+   "model": "100071486"
   }
  ],
  "ONA19TB002": [
@@ -139105,6 +139251,13 @@
    "brand": "Redmi",
    "name": "Redmi K40",
    "model": "M2012K11AC"
+  }
+ ],
+ "aresin": [
+  {
+   "brand": "POCO",
+   "name": "POCO F3 GT",
+   "model": "M2104K10I"
   }
  ],
  "shiva": [
@@ -149655,6 +149808,11 @@
   {
    "brand": "RAVOZ",
    "name": "RAVOZ_Z3_Lite",
+   "model": "RAVOZ Z3 Lite"
+  },
+  {
+   "brand": "RAVOZ",
+   "name": "Z3_Lite",
    "model": "RAVOZ Z3 Lite"
   }
  ],
@@ -170516,6 +170674,11 @@
    "brand": "Samsung",
    "name": "Galaxy Tab S8+ 5G",
    "model": "SM-X806N"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S8+ 5G",
+   "model": "SM-X808U"
   }
  ],
  "espresso10att": [
@@ -198867,6 +199030,13 @@
    "model": "TM-MID795"
   }
  ],
+ "TM-TAB1085": [
+  {
+   "brand": "Touchmate",
+   "name": "TM-TAB1085",
+   "model": "TM-TAB1085"
+  }
+ ],
  "TM_MID792WP": [
   {
    "brand": "Touchmate",
@@ -204998,6 +205168,13 @@
    "model": "TPC_8063G"
   }
  ],
+ "TPC_8074G": [
+  {
+   "brand": "Vivax",
+   "name": "TPC_8074G",
+   "model": "TPC_8074G"
+  }
+ ],
  "VIVAX_Fly6": [
   {
    "brand": "Vivax",
@@ -209476,6 +209653,13 @@
    "model": "Primo GM4"
   }
  ],
+ "Primo_H10": [
+  {
+   "brand": "Walton",
+   "name": "Primo H10",
+   "model": "Primo H10"
+  }
+ ],
  "Primo_H6_Plus": [
   {
    "brand": "Walton",
@@ -212295,6 +212479,13 @@
    "model": "X_1"
   }
  ],
+ "9A": [
+  {
+   "brand": "X-TIGI",
+   "name": "9A",
+   "model": "9A"
+  }
+ ],
  "9C": [
   {
    "brand": "X-TIGI",
@@ -214164,6 +214355,11 @@
    "brand": "Xiaomi",
    "name": "Xiaomi Pad 5",
    "model": "21051182C"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Pad 5",
+   "model": "21051182G"
   }
  ],
  "elish": [
@@ -225285,6 +225481,13 @@
    "model": "STELLAR P3"
   }
  ],
+ "STELLAR_P4": [
+  {
+   "brand": "Zuum",
+   "name": "STELLAR P4",
+   "model": "STELLAR P4"
+  }
+ ],
  "STELLAR_PLUS": [
   {
    "brand": "Zuum",
@@ -228311,6 +228514,13 @@
    "model": "RMX2151"
   }
  ],
+ "RED8C1L1": [
+  {
+   "brand": "realme",
+   "name": "realme 9i",
+   "model": "RMX3493"
+  }
+ ],
  "RMX2195L1": [
   {
    "brand": "realme",
@@ -228821,6 +229031,13 @@
    "brand": "weelikeit",
    "name": "C81W",
    "model": "C81W"
+  }
+ ],
+ "C81W_EEA": [
+  {
+   "brand": "weelikeit",
+   "name": "C81W_EEA",
+   "model": "C81W_EEA"
   }
  ],
  "F11W": [
