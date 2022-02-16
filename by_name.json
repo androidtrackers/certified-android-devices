@@ -38669,6 +38669,13 @@
    "model": "CT311T"
   }
  ],
+ "QTab8": [
+  {
+   "brand": "Compaq",
+   "device": "QTab8",
+   "model": "QTab8"
+  }
+ ],
  "C-708": [
   {
    "brand": "Concord",
@@ -42434,6 +42441,11 @@
   },
   {
    "brand": "iNew",
+   "device": "P30",
+   "model": "P30"
+  },
+  {
+   "brand": "memetech",
    "device": "P30",
    "model": "P30"
   }
@@ -86444,6 +86456,13 @@
    "model": "ISCEDTAB21"
   }
  ],
+ "ITAB_X40L_Plus": [
+  {
+   "brand": "ITAB",
+   "device": "ITAB_X40L_Plus",
+   "model": "ITAB_X40L_Plus"
+  }
+ ],
  "X40L": [
   {
    "brand": "ITAB",
@@ -93943,6 +93962,13 @@
    "brand": "KEMPLER STRAUSS",
    "device": "KEMPLER_P1",
    "model": "KEMPLER_P1"
+  }
+ ],
+ "KEMPLER_P1_AMATEUR_PLUS": [
+  {
+   "brand": "KEMPLER STRAUSS",
+   "device": "KEMPLER_P1_AMATEUR_PLUS",
+   "model": "P1_AMATEUR"
   }
  ],
  "KEMPLER_P3": [
@@ -117318,6 +117344,13 @@
    "model": "Astro 5 PRO"
   }
  ],
+ "Astro 55T": [
+  {
+   "brand": "Maxwest",
+   "device": "Astro_55T",
+   "model": "Astro 55T"
+  }
+ ],
  "Astro 5N LTE": [
   {
    "brand": "Maxwest",
@@ -131390,7 +131423,9 @@
    "brand": "Newland",
    "device": "NLS-MT6555-GL",
    "model": "NLS-MT65"
-  },
+  }
+ ],
+ "NLS-MT6755-GL": [
   {
    "brand": "Newland",
    "device": "NLS-MT6755-GL",
@@ -132433,6 +132468,13 @@
    "model": "Nokia G10"
   }
  ],
+ "Nokia G11": [
+  {
+   "brand": "Nokia",
+   "device": "SCT_sprout",
+   "model": "Nokia G11"
+  }
+ ],
  "Nokia G20": [
   {
    "brand": "Nokia",
@@ -132448,6 +132490,23 @@
    "brand": "Nokia",
    "device": "RNN_sprout",
    "model": "Nokia G20"
+  }
+ ],
+ "Nokia G21": [
+  {
+   "brand": "Nokia",
+   "device": "SCP",
+   "model": "Nokia G21"
+  },
+  {
+   "brand": "Nokia",
+   "device": "SCPA_sprout",
+   "model": "Nokia G21"
+  },
+  {
+   "brand": "Nokia",
+   "device": "SCP_sprout",
+   "model": "Nokia G21"
   }
  ],
  "Nokia G300": [
@@ -134095,6 +134154,11 @@
    "brand": "OnePlus",
    "device": "OnePlus8T",
    "model": "KB2000"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus8T",
+   "model": "KB2003"
   },
   {
    "brand": "OnePlus",
@@ -165312,6 +165376,11 @@
    "brand": "Samsung",
    "device": "r9q",
    "model": "SM-G990U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "r9q",
+   "model": "SM-G990U1"
   },
   {
    "brand": "Samsung",
@@ -200143,6 +200212,13 @@
    "model": "VucaPad_N20"
   }
  ],
+ "VucaPad_N20PRO": [
+  {
+   "brand": "VUCATIMES",
+   "device": "VucaPad_N20PRO",
+   "model": "VucaPad_N20PRO"
+  }
+ ],
  "VucaPad_N20_LTE": [
   {
    "brand": "VUCATIMES",
@@ -221036,6 +221112,11 @@
    "brand": "ZTE",
    "device": "P963F60",
    "model": "ZTE Blade A51"
+  },
+  {
+   "brand": "ZTE",
+   "device": "Z6355O",
+   "model": "ZTE Blade A51"
   }
  ],
  "ZTE Blade A51 Lite": [
@@ -222486,6 +222567,13 @@
    "brand": "Zexelon",
    "device": "ZTAB01B",
    "model": "ZTAB01B"
+  }
+ ],
+ "EON_9": [
+  {
+   "brand": "Zigo",
+   "device": "EON_9",
+   "model": "EON 9"
   }
  ],
  "Zigo_Nebula_10_1": [

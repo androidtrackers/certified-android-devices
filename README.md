@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-02-15
+Last sync is 2022-02-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4305,6 +4305,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Compaq|CT211|CT211|CT211|
 |Compaq|CT301T|CT301T|CT301T|
 |Compaq|CT311T|CT311T|CT311T|
+|Compaq|QTab8|QTab8|QTab8|
 |Concord|A10|A10|A10|
 |Concord|C-708|C-708|C-708|
 |Concord|Concord M15|Concord_M15|Concord M15|
@@ -11831,6 +11832,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IRIE|FFF-TAB10H|FFF-TAB10H|FFF-TAB10H|
 |IRIS_OHYAMA|TE101N1|Aquaman_10_Smart_WIFI|TE101|
 |ISCED|ISCEDTAB21|ISCEDTAB21|ISCEDTAB21|
+|ITAB|ITAB_X40L_Plus|ITAB_X40L_Plus|ITAB_X40L_Plus|
 |ITAB|X40L|X40L|X40L|
 |ITOS|IC-51|IC_51|IC_51|
 |ITOS|IC_55|IC_55|IC_55|
@@ -13012,6 +13014,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KEMPLER STRAUSS|KEMPLERP1_Amateur|P1_Amateur|P1 Amateur|
 |KEMPLER STRAUSS|KEMPLER_8_PLUS|KEMPLER_8_PLUS|KEMPLER_8_PLUS|
 |KEMPLER STRAUSS|KEMPLER_P1|KEMPLER_P1|KEMPLER_P1|
+|KEMPLER STRAUSS|KEMPLER_P1_AMATEUR_PLUS|KEMPLER_P1_AMATEUR_PLUS|P1_AMATEUR|
 |KEMPLER STRAUSS|KEMPLER_P3|KEMPLER_P3|KEMPLER_P3|
 |KEMPLER STRAUSS|KEMPLER_X_TV|KEMPLER_X_TV|KEMPLER_X_TV|
 |KEMPLER STRAUSS|KemplerP1pro|P1pro|P1 Pro|
@@ -17012,6 +17015,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maxwest|Astro 4 PRO|Astro_4_PRO|Astro 4 PRO|
 |Maxwest|Astro 5 Go LTE|Astro_5_GO_LTE|Astro_5_GO_LTE|
 |Maxwest|Astro 5 PRO|Astro_5_PRO|Astro 5 PRO|
+|Maxwest|Astro 55T|Astro_55T|Astro 55T|
 |Maxwest|Astro 5N LTE|Astro_5N_LTE|Astro_5N_LTE|
 |Maxwest|Astro 5P|Astro_5P|Astro 5P|
 |Maxwest|Astro 6M|Astro_6M|Astro 6M|
@@ -19349,7 +19353,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Newland|NLS-MT6552-GL|NLS-MT6552-GL|NLS-MT65|
 |Newland|NLS-MT6552-RU|NLS-MT6552-RU|NLS-MT65|
 |Newland|NLS-MT6555-GL|NLS-MT6555-GL|NLS-MT65|
-|Newland|NLS-MT6555-GL|NLS-MT6755-GL|NLS-MT67|
+|Newland|NLS-MT6755-GL|NLS-MT6755-GL|NLS-MT67|
 |Newland|NLS-MT9050-AM|NLS-MT9052-GL|NLS-MT90|
 |Newland|NLS-MT9052-EEA|NLS-MT9052-GL|NLS-MT90|
 |Newland|NLS-MT9052-GL|NLS-MT9052-GL|NLS-MT90|
@@ -19522,9 +19526,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia C5 Endi|PMC_CUS|Nokia C5 Endi|
 |Nokia|Nokia G10|ROGA|Nokia G10|
 |Nokia|Nokia G10|ROGA_sprout|Nokia G10|
+|Nokia|Nokia G11|SCT_sprout|Nokia G11|
 |Nokia|Nokia G20|RNN|Nokia G20|
 |Nokia|Nokia G20|RNNA_sprout|Nokia G20|
 |Nokia|Nokia G20|RNN_sprout|Nokia G20|
+|Nokia|Nokia G21|SCP|Nokia G21|
+|Nokia|Nokia G21|SCPA_sprout|Nokia G21|
+|Nokia|Nokia G21|SCP_sprout|Nokia G21|
 |Nokia|Nokia G300|AKT|N1374DL|
 |Nokia|Nokia G50|PHR|Nokia G50|
 |Nokia|Nokia G50|PHR_sprout|Nokia G50|
@@ -19817,6 +19825,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 8 Pro|OnePlus8Pro|IN2020|
 |OnePlus|OnePlus 8 Pro|OnePlus8Pro|IN2023|
 |OnePlus|OnePlus 8T|OnePlus8T|KB2000|
+|OnePlus|OnePlus 8T|OnePlus8T|KB2003|
 |OnePlus|OnePlus 8T|OnePlus8T|KB2005|
 |OnePlus|OnePlus 8T+ 5G|OnePlus8TTMO|KB2007|
 |OnePlus|OnePlus 9 5G|OnePlus9|LE2110|
@@ -24987,6 +24996,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S21 FE 5G|r9q|SM-G9900|
 |Samsung|Galaxy S21 FE 5G|r9q|SM-G990B|
 |Samsung|Galaxy S21 FE 5G|r9q|SM-G990U|
+|Samsung|Galaxy S21 FE 5G|r9q|SM-G990U1|
 |Samsung|Galaxy S21 FE 5G|r9q|SM-G990W|
 |Samsung|Galaxy S21 FE 5G|r9s|SM-G990E|
 |Samsung|Galaxy S21 Ultra 5G|SC-52B|SC-52B|
@@ -30989,6 +30999,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VUCATIMES|N8_EEA|N8_EEA|N8_EEA|
 |VUCATIMES|VUCATIMES|N7|N7|
 |VUCATIMES|VucaPad_N20|VucaPad_N20|VucaPad_N20|
+|VUCATIMES|VucaPad_N20PRO|VucaPad_N20PRO|VucaPad_N20PRO|
 |VUCATIMES|VucaPad_N20_LTE|VucaPad_N20_LTE|VucaPad_N20_LTE|
 |VUCATIMES|VucaPad_NS20|VucaPad_NS20|VucaPad_NS20|
 |VUCATIMES|VucaPad_NS20_EEA|VucaPad_NS20_EEA|VucaPad_NS20_EEA|
@@ -34644,6 +34655,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A5 2020|P963F50_A|ZTE Blade A5 2020|
 |ZTE|ZTE Blade A5 2020RU|P963F50|ZTE Blade A5 2020RU|
 |ZTE|ZTE Blade A51|P963F60|ZTE Blade A51|
+|ZTE|ZTE Blade A51|Z6355O|ZTE Blade A51|
 |ZTE|ZTE Blade A51 Lite|P963F50_A|ZTE Blade A51 Lite|
 |ZTE|ZTE Blade A51 Lite RU|P963F50_A|ZTE Blade A51 Lite RU|
 |ZTE|ZTE Blade A51RU|P963F60|ZTE Blade A51RU|
@@ -34865,6 +34877,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zephir|Zephir android TV|hanyang|ZEPHIR Android TV|
 |Zettaly|ZA-407|ZA-407|Zettaly Avy ZA-407|
 |Zexelon|ZTAB01B|ZTAB01B|ZTAB01B|
+|Zigo|EON_9|EON_9|EON 9|
 |Zigo|Zigo_Nebula_10_1|Zigo_Nebula_10_1|Zigo_Nebula_10_1|
 |Zilo|Zilo|Zilo|Zilo|
 |Zinox|Zpad-X8|Zpad-X8|Zpad-X8|
@@ -35435,6 +35448,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |koobee|koobee_K10|koobee_K10|K10|
 |koobee|koobee_S12|koobee_S12|S12|
 |kozen|T5|T05|T5|
+|memetech|P30|P30|P30|
 |mytel|M9501|M9501|M9501|
 |mytel|M9502|M9502|M9502|
 |mytel|M9503|M9503|M9503|

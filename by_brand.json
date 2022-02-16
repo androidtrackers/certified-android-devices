@@ -22311,6 +22311,11 @@
    "device": "CT311T",
    "name": "CT311T",
    "model": "CT311T"
+  },
+  {
+   "device": "QTab8",
+   "name": "QTab8",
+   "model": "QTab8"
   }
  ],
  "Concord": [
@@ -60919,6 +60924,11 @@
  ],
  "ITAB": [
   {
+   "device": "ITAB_X40L_Plus",
+   "name": "ITAB_X40L_Plus",
+   "model": "ITAB_X40L_Plus"
+  },
+  {
    "device": "X40L",
    "name": "X40L",
    "model": "X40L"
@@ -67014,6 +67024,11 @@
    "device": "KEMPLER_P1",
    "name": "KEMPLER_P1",
    "model": "KEMPLER_P1"
+  },
+  {
+   "device": "KEMPLER_P1_AMATEUR_PLUS",
+   "name": "KEMPLER_P1_AMATEUR_PLUS",
+   "model": "P1_AMATEUR"
   },
   {
    "device": "KEMPLER_P3",
@@ -87470,6 +87485,11 @@
    "model": "Astro 5 PRO"
   },
   {
+   "device": "Astro_55T",
+   "name": "Astro 55T",
+   "model": "Astro 55T"
+  },
+  {
    "device": "Astro_5N_LTE",
    "name": "Astro 5N LTE",
    "model": "Astro_5N_LTE"
@@ -99430,7 +99450,7 @@
   },
   {
    "device": "NLS-MT6755-GL",
-   "name": "NLS-MT6555-GL",
+   "name": "NLS-MT6755-GL",
    "model": "NLS-MT67"
   },
   {
@@ -100334,6 +100354,11 @@
    "model": "Nokia G10"
   },
   {
+   "device": "SCT_sprout",
+   "name": "Nokia G11",
+   "model": "Nokia G11"
+  },
+  {
    "device": "RNN",
    "name": "Nokia G20",
    "model": "Nokia G20"
@@ -100347,6 +100372,21 @@
    "device": "RNN_sprout",
    "name": "Nokia G20",
    "model": "Nokia G20"
+  },
+  {
+   "device": "SCP",
+   "name": "Nokia G21",
+   "model": "Nokia G21"
+  },
+  {
+   "device": "SCPA_sprout",
+   "name": "Nokia G21",
+   "model": "Nokia G21"
+  },
+  {
+   "device": "SCP_sprout",
+   "name": "Nokia G21",
+   "model": "Nokia G21"
   },
   {
    "device": "AKT",
@@ -101917,6 +101957,11 @@
    "device": "OnePlus8T",
    "name": "OnePlus 8T",
    "model": "KB2000"
+  },
+  {
+   "device": "OnePlus8T",
+   "name": "OnePlus 8T",
+   "model": "KB2003"
   },
   {
    "device": "OnePlus8T",
@@ -128299,6 +128344,11 @@
    "device": "r9q",
    "name": "Galaxy S21 FE 5G",
    "model": "SM-G990U"
+  },
+  {
+   "device": "r9q",
+   "name": "Galaxy S21 FE 5G",
+   "model": "SM-G990U1"
   },
   {
    "device": "r9q",
@@ -159057,6 +159107,11 @@
    "model": "VucaPad_N20"
   },
   {
+   "device": "VucaPad_N20PRO",
+   "name": "VucaPad_N20PRO",
+   "model": "VucaPad_N20PRO"
+  },
+  {
    "device": "VucaPad_N20_LTE",
    "name": "VucaPad_N20_LTE",
    "model": "VucaPad_N20_LTE"
@@ -177686,6 +177741,11 @@
    "model": "ZTE Blade A51"
   },
   {
+   "device": "Z6355O",
+   "name": "ZTE Blade A51",
+   "model": "ZTE Blade A51"
+  },
+  {
    "device": "P963F50_A",
    "name": "ZTE Blade A51 Lite",
    "model": "ZTE Blade A51 Lite"
@@ -178820,6 +178880,11 @@
   }
  ],
  "Zigo": [
+  {
+   "device": "EON_9",
+   "name": "EON_9",
+   "model": "EON 9"
+  },
   {
    "device": "Zigo_Nebula_10_1",
    "name": "Zigo_Nebula_10_1",
@@ -181843,6 +181908,13 @@
    "device": "T05",
    "name": "T5",
    "model": "T5"
+  }
+ ],
+ "memetech": [
+  {
+   "device": "P30",
+   "name": "P30",
+   "model": "P30"
   }
  ],
  "mytel": [
