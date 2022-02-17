@@ -65828,13 +65828,6 @@
    "model": "Algiz RT7"
   }
  ],
- "HTA11": [
-  {
-   "brand": "Handheld Group",
-   "name": "HTA11",
-   "model": "HTA11"
-  }
- ],
  "NAUTIZ_X2": [
   {
    "brand": "Handheld Group",
@@ -65906,6 +65899,13 @@
    "brand": "Handheld Group",
    "name": "Nautiz_X9",
    "model": "Nautiz_X9"
+  }
+ ],
+ "HTA11": [
+  {
+   "brand": "Handtop",
+   "name": "HTA11",
+   "model": "HTA11"
   }
  ],
  "HANNSpad": [
@@ -84405,13 +84405,6 @@
    "model": "Infinix X693"
   }
  ],
- "Infinix-X663": [
-  {
-   "brand": "Infinix",
-   "name": "Infinix NOTE 11",
-   "model": "Infinix X663"
-  }
- ],
  "Infinix-X663B": [
   {
    "brand": "Infinix",
@@ -84553,6 +84546,13 @@
    "brand": "Infinix",
    "name": "Infinix ZERO8",
    "model": "Infinix X687"
+  }
+ ],
+ "Infinix-X663": [
+  {
+   "brand": "Infinix",
+   "name": "NOTE",
+   "model": "Infinix X663"
   }
  ],
  "Infinix-X695": [
@@ -146827,6 +146827,13 @@
    "brand": "Prestigio",
    "name": "PMT4337_3G_RU",
    "model": "PMT4337_3G_RU"
+  }
+ ],
+ "HP10A17L": [
+  {
+   "brand": "Prestigio",
+   "name": "PMT4511_4G_EEA",
+   "model": "PMT4511_4G_EEA"
   }
  ],
  "HP70A7G": [

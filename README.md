@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-02-16
+Last sync is 2022-02-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8869,7 +8869,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hammer|Hammer_Energy_2_2022|Energy_2_2022|Hammer_Energy_2_2022|
 |Handheld Group|ALGIZ RT8|ALGIZ_RT8|ALGIZ_RT8|
 |Handheld Group|Algiz RT7|algizRT7|Algiz RT7|
-|Handheld Group|HTA11|HTA11|HTA11|
 |Handheld Group|HandHeld NAUTIZ X2|NAUTIZ_X2|NAUTIZ_X2|
 |Handheld Group|NAUTIZ X6|NAUTIZ_X6|NAUTIZ_X6|
 |Handheld Group|NAUTIZ X6|NAUTIZ_X6P|NAUTIZ_X6P|
@@ -8886,6 +8885,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Handheld-Wireless|C6_TU|C6|C6|
 |Handheld-Wireless|X6|X6|X6|
 |Handsfree|R5|R5|R5|
+|Handtop|HTA11|HTA11|HTA11|
 |HannSpree|HSG1279|HANNSpad|HSG1279|
 |HannSpree|HSG1341|mid1024_e|HSG1341|
 |HannSpree|HSG1351|HSG1351|HSG1351|
@@ -12032,7 +12032,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 9 Play|Infinix-X680F|Infinix X680F|
 |Infinix|Infinix HOT 9 Pro|Infinix-X655F|Infinix X655F|
 |Infinix|Infinix NOTE 10|Infinix-X693|Infinix X693|
-|Infinix|Infinix NOTE 11|Infinix-X663|Infinix X663|
 |Infinix|Infinix NOTE 11|Infinix-X663B|Infinix X663B|
 |Infinix|Infinix NOTE 11i|Infinix-X693|Infinix X693|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604|
@@ -12053,6 +12052,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix ZERO X NEO|Infinix-X6810|Infinix X6810|
 |Infinix|Infinix ZERO X Pro|Infinix-X6811|Infinix X6811|
 |Infinix|Infinix ZERO8|Infinix-X687|Infinix X687|
+|Infinix|NOTE|Infinix-X663|Infinix X663|
 |Infinix|NOTE 10 Pro|Infinix-X695|Infinix X695|
 |Infinix|NOTE 10 Pro|Infinix-X695C|Infinix X695C|
 |Infinix|NOTE 10 Pro|Infinix-X695D|Infinix X695D|
@@ -21892,6 +21892,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|PMT4337_3G|HP70A15G|PMT4337_3G|
 |Prestigio|PMT4337_3G_EEA|HP70A15G|PMT4337_3G_EEA|
 |Prestigio|PMT4337_3G_RU|HP70A15G|PMT4337_3G_RU|
+|Prestigio|PMT4511_4G_EEA|HP10A17L|PMT4511_4G_EEA|
 |Prestigio|PMT4667_3G_RU|HP70A7G|PMT4667_3G_RU|
 |Prestigio|PMT5001_3G|PMT5001_3G|PMT5001_3G|
 |Prestigio|PMT5002_Wi|PMT5002_Wi|PMT5002_Wi|

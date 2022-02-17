@@ -45953,11 +45953,6 @@
    "model": "Algiz RT7"
   },
   {
-   "device": "HTA11",
-   "name": "HTA11",
-   "model": "HTA11"
-  },
-  {
    "device": "NAUTIZ_X2",
    "name": "HandHeld NAUTIZ X2",
    "model": "NAUTIZ_X2"
@@ -46040,6 +46035,13 @@
    "device": "R5",
    "name": "R5",
    "model": "R5"
+  }
+ ],
+ "Handtop": [
+  {
+   "device": "HTA11",
+   "name": "HTA11",
+   "model": "HTA11"
   }
  ],
  "HannSpree": [
@@ -61974,11 +61976,6 @@
    "model": "Infinix X693"
   },
   {
-   "device": "Infinix-X663",
-   "name": "Infinix NOTE 11",
-   "model": "Infinix X663"
-  },
-  {
    "device": "Infinix-X663B",
    "name": "Infinix NOTE 11",
    "model": "Infinix X663B"
@@ -62077,6 +62074,11 @@
    "device": "Infinix-X687",
    "name": "Infinix ZERO8",
    "model": "Infinix X687"
+  },
+  {
+   "device": "Infinix-X663",
+   "name": "NOTE",
+   "model": "Infinix X663"
   },
   {
    "device": "Infinix-X695",
@@ -112500,6 +112502,11 @@
    "device": "HP70A15G",
    "name": "PMT4337_3G_RU",
    "model": "PMT4337_3G_RU"
+  },
+  {
+   "device": "HP10A17L",
+   "name": "PMT4511_4G_EEA",
+   "model": "PMT4511_4G_EEA"
   },
   {
    "device": "HP70A7G",
