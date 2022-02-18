@@ -28852,6 +28852,13 @@
    "model": "AMICO SMARTPHONE XL"
   }
  ],
+ "AMICO_SMARTPHONE_XS": [
+  {
+   "brand": "Brondi",
+   "name": "AMICO_SMARTPHONE_XS_EEA",
+   "model": "AMICO SMARTPHONE XS"
+  }
+ ],
  "MIDNIGHT_SKY_EEA": [
   {
    "brand": "Brondi",
@@ -65356,6 +65363,13 @@
    "model": "M53-52401"
   }
  ],
+ "M53-524O1": [
+  {
+   "brand": "Haier",
+   "name": "M53-52401",
+   "model": "M53-52401"
+  }
+ ],
  "M5352401": [
   {
    "brand": "Haier",
@@ -94015,6 +94029,13 @@
    "model": "KYL21"
   }
  ],
+ "KC-S304": [
+  {
+   "brand": "Kyocera",
+   "name": "DIGNO SANGA edition",
+   "model": "KC-S304"
+  }
+ ],
  "302KC": [
   {
    "brand": "Kyocera",
@@ -94051,6 +94072,13 @@
    "brand": "Kyocera",
    "name": "rafre",
    "model": "KYV40"
+  }
+ ],
+ "KC-S303": [
+  {
+   "brand": "Kyocera",
+   "name": "DIGNO WX",
+   "model": "KC-S303"
   }
  ],
  "DM015K": [
@@ -94421,6 +94449,13 @@
    "brand": "Kyocera",
    "name": "KC-T302DT",
    "model": "SZJ-JS202"
+  }
+ ],
+ "SZJ203": [
+  {
+   "brand": "Kyocera",
+   "name": "KC-T303DT",
+   "model": "SZJ-JS203"
   }
  ],
  "KC-T304": [
@@ -133778,6 +133813,11 @@
   {
    "brand": "OnePlus",
    "name": "OnePlus 8 Pro",
+   "model": "IN2021"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 8 Pro",
    "model": "IN2023"
   }
  ],
@@ -136136,6 +136176,18 @@
    "brand": "Oppo",
    "name": "OPPO Watch",
    "model": "OPPO Watch"
+  }
+ ],
+ "OP4ABB": [
+  {
+   "brand": "Oppo",
+   "name": "PDKM00",
+   "model": "PDKM00"
+  },
+  {
+   "brand": "Oppo",
+   "name": "PDKT00",
+   "model": "PDKT00"
   }
  ],
  "OP4EA3": [
@@ -139394,6 +139446,18 @@
    "brand": "Redmi",
    "name": "Redmi Note 10T",
    "model": "M2103K19Y"
+  }
+ ],
+ "fleur": [
+  {
+   "brand": "POCO",
+   "name": "POCO M4 Pro",
+   "model": "2201117PG"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 11S",
+   "model": "2201117SY"
   }
  ],
  "evergreen": [
@@ -152536,13 +152600,6 @@
    "model": "21091116UC"
   }
  ],
- "fleur": [
-  {
-   "brand": "Redmi",
-   "name": "Redmi Note 11S",
-   "model": "2201117SY"
-  }
- ],
  "miel": [
   {
    "brand": "Redmi",
@@ -154746,34 +154803,6 @@
    "model": "S19"
   }
  ],
- "SMART_MAX_2": [
-  {
-   "brand": "SPC Mobile",
-   "name": "SMART_MAX_2",
-   "model": "SMART_MAX_2"
-  }
- ],
- "SMART_PRO": [
-  {
-   "brand": "SPC Mobile",
-   "name": "SMART_PRO",
-   "model": "SMART_PRO"
-  }
- ],
- "SMART_PRO_EEA": [
-  {
-   "brand": "SPC Mobile",
-   "name": "SMART_PRO",
-   "model": "SMART_PRO"
-  }
- ],
- "SMART_ULTIMATE": [
-  {
-   "brand": "SPC Mobile",
-   "name": "SMART_ULTIMATE",
-   "model": "SMART_ULTIMATE"
-  }
- ],
  "SPC_X1": [
   {
    "brand": "SPC Mobile",
@@ -154892,6 +154921,34 @@
    "brand": "SPC Universe",
    "name": "SMART  2",
    "model": "SMART 2"
+  }
+ ],
+ "SMART_MAX_2": [
+  {
+   "brand": "SPC Universe",
+   "name": "SMART_MAX_2",
+   "model": "SMART_MAX_2"
+  }
+ ],
+ "SMART_PRO": [
+  {
+   "brand": "SPC Universe",
+   "name": "SMART_PRO",
+   "model": "SMART_PRO"
+  }
+ ],
+ "SMART_PRO_EEA": [
+  {
+   "brand": "SPC Universe",
+   "name": "SMART_PRO",
+   "model": "SMART_PRO"
+  }
+ ],
+ "SMART_ULTIMATE": [
+  {
+   "brand": "SPC Universe",
+   "name": "SMART_ULTIMATE",
+   "model": "SMART_ULTIMATE"
   }
  ],
  "SPC_GEN": [
@@ -155904,6 +155961,13 @@
    "brand": "Safaricom",
    "name": "SFCSTB2LITE",
    "model": "SFCSTB2LITE"
+  }
+ ],
+ "Safaricom_ET_Kimem": [
+  {
+   "brand": "Safaricom",
+   "name": "Safaricom ET Kimem",
+   "model": "Safaricom ET Kimem"
   }
  ],
  "dtiw384wb": [
@@ -179081,6 +179145,20 @@
    "model": "BRAVIA VU2"
   }
  ],
+ "BRAVIA_VU3_2K": [
+  {
+   "brand": "Sony",
+   "name": "BRAVIA_VU3",
+   "model": "BRAVIA VU3"
+  }
+ ],
+ "BRAVIA_VU3_4K": [
+  {
+   "brand": "Sony",
+   "name": "BRAVIA_VU3",
+   "model": "BRAVIA VU3"
+  }
+ ],
  "WT19a": [
   {
    "brand": "Sony",
@@ -195232,6 +195310,20 @@
    "model": "T40Pro_RUS"
   }
  ],
+ "T40Pro_YKM_EEA": [
+  {
+   "brand": "Teclast",
+   "name": "T40Pro_YKM_EEA",
+   "model": "T40Pro_YKM_EEA"
+  }
+ ],
+ "T40Pro_YKM_ROW": [
+  {
+   "brand": "Teclast",
+   "name": "T40Pro_YKM_ROW",
+   "model": "T40Pro_YKM_ROW"
+  }
+ ],
  "T40_Plus_EEA": [
   {
    "brand": "Teclast",
@@ -198722,6 +198814,13 @@
    "model": "mdt1060"
   }
  ],
+ "Torex8plus": [
+  {
+   "brand": "Torex",
+   "name": "Rugged_tablets",
+   "model": "Torex8plus"
+  }
+ ],
  "WDPF-703TI": [
   {
    "brand": "Toshiba",
@@ -201190,6 +201289,11 @@
   {
    "brand": "Umidigi",
    "name": "BISON X10G NFC",
+   "model": "RP05"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "BISON X10G NFC EEA",
    "model": "RP05"
   }
  ],

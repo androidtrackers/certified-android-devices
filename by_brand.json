@@ -18162,6 +18162,11 @@
    "model": "AMICO SMARTPHONE XL"
   },
   {
+   "device": "AMICO_SMARTPHONE_XS",
+   "name": "AMICO_SMARTPHONE_XS_EEA",
+   "model": "AMICO SMARTPHONE XS"
+  },
+  {
    "device": "MIDNIGHT_SKY_EEA",
    "name": "MIDNIGHT_SKY_EEA",
    "model": "MIDNIGHT_SKY"
@@ -45581,6 +45586,11 @@
    "model": "M53-52401"
   },
   {
+   "device": "M53-524O1",
+   "name": "M53-52401",
+   "model": "M53-52401"
+  },
+  {
    "device": "M5352401",
    "name": "M53-52401",
    "model": "M53-52401"
@@ -69708,6 +69718,11 @@
    "model": "KYL21"
   },
   {
+   "device": "KC-S304",
+   "name": "DIGNO SANGA edition",
+   "model": "KC-S304"
+  },
+  {
    "device": "KY21L-ST100",
    "name": "DIGNO SX2",
    "model": "KC-S302"
@@ -69731,6 +69746,11 @@
    "device": "KYV40",
    "name": "DIGNO W",
    "model": "KYV40U"
+  },
+  {
+   "device": "KC-S303",
+   "name": "DIGNO WX",
+   "model": "KC-S303"
   },
   {
    "device": "KYV36",
@@ -70001,6 +70021,11 @@
    "device": "SZJ202",
    "name": "KC-T302DT",
    "model": "SZJ-JS202"
+  },
+  {
+   "device": "SZJ203",
+   "name": "KC-T303DT",
+   "model": "SZJ-JS203"
   },
   {
    "device": "KC-T304",
@@ -101953,6 +101978,11 @@
   {
    "device": "OnePlus8Pro",
    "name": "OnePlus 8 Pro",
+   "model": "IN2021"
+  },
+  {
+   "device": "OnePlus8Pro",
+   "name": "OnePlus 8 Pro",
    "model": "IN2023"
   },
   {
@@ -103922,6 +103952,16 @@
    "device": "orca",
    "name": "OPPO Watch",
    "model": "OPPO Watch"
+  },
+  {
+   "device": "OP4ABB",
+   "name": "PDKM00",
+   "model": "PDKM00"
+  },
+  {
+   "device": "OP4ABB",
+   "name": "PDKT00",
+   "model": "PDKT00"
   },
   {
    "device": "OP4EA3",
@@ -106438,6 +106478,11 @@
    "device": "camellian",
    "name": "POCO M3 Pro 5G",
    "model": "M2103K19PG"
+  },
+  {
+   "device": "fleur",
+   "name": "POCO M4 Pro",
+   "model": "2201117PG"
   },
   {
    "device": "evergreen",
@@ -119191,26 +119236,6 @@
    "model": "S19"
   },
   {
-   "device": "SMART_MAX_2",
-   "name": "SMART_MAX_2",
-   "model": "SMART_MAX_2"
-  },
-  {
-   "device": "SMART_PRO",
-   "name": "SMART_PRO",
-   "model": "SMART_PRO"
-  },
-  {
-   "device": "SMART_PRO_EEA",
-   "name": "SMART_PRO",
-   "model": "SMART_PRO"
-  },
-  {
-   "device": "SMART_ULTIMATE",
-   "name": "SMART_ULTIMATE",
-   "model": "SMART_ULTIMATE"
-  },
-  {
    "device": "SPC_X1",
    "name": "X1",
    "model": "X1"
@@ -119296,6 +119321,26 @@
    "device": "SMART_2",
    "name": "SMART  2",
    "model": "SMART 2"
+  },
+  {
+   "device": "SMART_MAX_2",
+   "name": "SMART_MAX_2",
+   "model": "SMART_MAX_2"
+  },
+  {
+   "device": "SMART_PRO",
+   "name": "SMART_PRO",
+   "model": "SMART_PRO"
+  },
+  {
+   "device": "SMART_PRO_EEA",
+   "name": "SMART_PRO",
+   "model": "SMART_PRO"
+  },
+  {
+   "device": "SMART_ULTIMATE",
+   "name": "SMART_ULTIMATE",
+   "model": "SMART_ULTIMATE"
   },
   {
    "device": "SPC_GEN",
@@ -120180,6 +120225,11 @@
    "device": "SFCSTB2LITE",
    "name": "SFCSTB2LITE",
    "model": "SFCSTB2LITE"
+  },
+  {
+   "device": "Safaricom_ET_Kimem",
+   "name": "Safaricom ET Kimem",
+   "model": "Safaricom ET Kimem"
   }
  ],
  "Sagemcom": [
@@ -138587,6 +138637,16 @@
    "model": "BRAVIA VU2"
   },
   {
+   "device": "BRAVIA_VU3_2K",
+   "name": "BRAVIA_VU3",
+   "model": "BRAVIA VU3"
+  },
+  {
+   "device": "BRAVIA_VU3_4K",
+   "name": "BRAVIA_VU3",
+   "model": "BRAVIA VU3"
+  },
+  {
    "device": "WT19a",
    "name": "Ericsson Live with Walkman",
    "model": "WT19a"
@@ -152964,6 +153024,16 @@
    "model": "T40Pro_RUS"
   },
   {
+   "device": "T40Pro_YKM_EEA",
+   "name": "T40Pro_YKM_EEA",
+   "model": "T40Pro_YKM_EEA"
+  },
+  {
+   "device": "T40Pro_YKM_ROW",
+   "name": "T40Pro_YKM_ROW",
+   "model": "T40Pro_YKM_ROW"
+  },
+  {
    "device": "T40_Plus_EEA",
    "name": "T40_Plus_EEA",
    "model": "T40_Plus_EEA"
@@ -155791,6 +155861,13 @@
    "model": "mdt1060"
   }
  ],
+ "Torex": [
+  {
+   "device": "Torex8plus",
+   "name": "Rugged_tablets",
+   "model": "Torex8plus"
+  }
+ ],
  "Toshiba": [
   {
    "device": "WDPF-703TI",
@@ -158018,6 +158095,11 @@
   {
    "device": "BISON_X10G_NFC",
    "name": "BISON X10G NFC",
+   "model": "RP05"
+  },
+  {
+   "device": "BISON_X10G_NFC",
+   "name": "BISON X10G NFC EEA",
    "model": "RP05"
   },
   {

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-02-17
+Last sync is 2022-02-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3524,6 +3524,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Brondi|730 4G HD|Brondi_730_4G_HD|Brondi_730_4G_HD|
 |Brondi|850_4G|850_4G|850_4G|
 |Brondi|AMICO SMARTPHONE XL|AMICO_SMARTPHONE_XL|AMICO SMARTPHONE XL|
+|Brondi|AMICO_SMARTPHONE_XS_EEA|AMICO_SMARTPHONE_XS|AMICO SMARTPHONE XS|
 |Brondi|MIDNIGHT_SKY_EEA|MIDNIGHT_SKY_EEA|MIDNIGHT_SKY|
 |Brookstone|Android TV|R1|ATV R1|
 |Brown|Brown2|I9080_PH1|brown 2|
@@ -8797,6 +8798,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|LE55M7000CF|LE55M7000CF|LE55M7000CF|
 |Haier|Logicom S9782|Logicom-S9782|Logicom-S9782|
 |Haier|M53-52401|M53-52401|M53-52401|
+|Haier|M53-52401|M53-524O1|M53-52401|
 |Haier|M53-52401|M5352401|M53-52401|
 |Haier|M7808|M7808|M7808|
 |Haier|MD-01P|MD-01P|MD-01P|
@@ -13524,11 +13526,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|DIGNO L|KYV36|KYV36|
 |Kyocera|DIGNO R|202K|202K|
 |Kyocera|DIGNO S|KYL21|KYL21|
+|Kyocera|DIGNO SANGA edition|KC-S304|KC-S304|
 |Kyocera|DIGNO SX2|KY21L-ST100|KC-S302|
 |Kyocera|DIGNO T|302KC|302KC|
 |Kyocera|DIGNO Tab|KYT34|KYT34|
 |Kyocera|DIGNO V|KYV42|KYV42_u|
 |Kyocera|DIGNO W|KYV40|KYV40U|
+|Kyocera|DIGNO WX|KC-S303|KC-S303|
 |Kyocera|DIGNO rafre|KYV36|KYV36|
 |Kyocera|DM015K|DM015K|DM015K|
 |Kyocera|DURA FORCE PRO|KC-S702|KC-S702|
@@ -13583,6 +13587,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|KC-01|KC-01|KC-01|
 |Kyocera|KC-T302DT|KC-T302DT|KC-T302DT|
 |Kyocera|KC-T302DT|SZJ202|SZJ-JS202|
+|Kyocera|KC-T303DT|SZJ203|SZJ-JS203|
 |Kyocera|KC-T304|KC-T304|KC-T304|
 |Kyocera|LUCE|KCP01K|KCP01K|
 |Kyocera|LifeWatch Universal Gateway|CD8100|CD8100|
@@ -19823,6 +19828,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 8 5G|OnePlus8TMO|IN2017|
 |OnePlus|OnePlus 8 5G UW|OnePlus8VZW|IN2019|
 |OnePlus|OnePlus 8 Pro|OnePlus8Pro|IN2020|
+|OnePlus|OnePlus 8 Pro|OnePlus8Pro|IN2021|
 |OnePlus|OnePlus 8 Pro|OnePlus8Pro|IN2023|
 |OnePlus|OnePlus 8T|OnePlus8T|KB2000|
 |OnePlus|OnePlus 8T|OnePlus8T|KB2003|
@@ -20214,6 +20220,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Reno5 pro|OP4F1FL1|CPH2201|
 |Oppo|OPPO Watch|beluga|OPPO Watch|
 |Oppo|OPPO Watch|orca|OPPO Watch|
+|Oppo|PDKM00|OP4ABB|PDKM00|
+|Oppo|PDKT00|OP4ABB|PDKT00|
 |Oppo|PDST00|OP4EA3|PDST00|
 |Oppo|PDYM20|OP4E21|PDYM20|
 |Oppo|PDYT20|OP4E21|PDYT20|
@@ -20704,6 +20712,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO M3|citrus|M2010J19CI|
 |POCO|POCO M3 Pro 5G|camellia|M2103K19PI|
 |POCO|POCO M3 Pro 5G|camellian|M2103K19PG|
+|POCO|POCO M4 Pro|fleur|2201117PG|
 |POCO|POCO M4 Pro 5G|evergreen|21091116AG|
 |POCO|POCO X2|phoenixin|POCO X2|
 |POCO|POCO X3|karna|M2007J20CI|
@@ -23173,10 +23182,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Mobile|LIGHTYEAR2-4G|LIGHTYEAR2-4G|LIGHTYEAR2-4G|
 |SPC Mobile|Lightyear|Lightyear|Lightyear|
 |SPC Mobile|S19|S19|S19|
-|SPC Mobile|SMART_MAX_2|SMART_MAX_2|SMART_MAX_2|
-|SPC Mobile|SMART_PRO|SMART_PRO|SMART_PRO|
-|SPC Mobile|SMART_PRO|SMART_PRO_EEA|SMART_PRO|
-|SPC Mobile|SMART_ULTIMATE|SMART_ULTIMATE|SMART_ULTIMATE|
 |SPC Mobile|X1|SPC_X1|X1|
 |SPC Mobile|X3|SPC_X3|X3|
 |SPC Mobile|X5|X5|X5|
@@ -23194,6 +23199,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Universe|Laika|Laika|Laika|
 |SPC Universe|Lightyear|Lightyear|Lightyear|
 |SPC Universe|SMART  2|SMART_2|SMART 2|
+|SPC Universe|SMART_MAX_2|SMART_MAX_2|SMART_MAX_2|
+|SPC Universe|SMART_PRO|SMART_PRO|SMART_PRO|
+|SPC Universe|SMART_PRO|SMART_PRO_EEA|SMART_PRO|
+|SPC Universe|SMART_ULTIMATE|SMART_ULTIMATE|SMART_ULTIMATE|
 |SPC Universe|SPC GEN|SPC_GEN|SPC GEN|
 |SPC Universe|SPC GEN LITE|SPC_GEN_LITE|SPC GEN LITE|
 |SPC Universe|SPC GEN MAX|SPC_GEN_MAX|SPC GEN MAX|
@@ -23364,6 +23373,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Safaricom|NEON_RAY_PRO|NEON_RAY_PRO|NEON_RAY_PRO|
 |Safaricom|Neon Storm|Neon_Storm|Neon Storm|
 |Safaricom|SFCSTB2LITE|SFCSTB2LITE|SFCSTB2LITE|
+|Safaricom|Safaricom ET Kimem|Safaricom_ET_Kimem|Safaricom ET Kimem|
 |Sagemcom|Wibox|dtiw384wb|m384wb|
 |Saltillo|CF10|CF10|CF10|
 |Samsung||GT-I5510M|GT-I5510M|
@@ -27013,6 +27023,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|BRAVIA_VU|BRAVIA_VU1|BRAVIA VU1|
 |Sony|BRAVIA_VU2|BRAVIA_VU1_2K|BRAVIA VU2|
 |Sony|BRAVIA_VU2|BRAVIA_VU1_4K|BRAVIA VU2|
+|Sony|BRAVIA_VU3|BRAVIA_VU3_2K|BRAVIA VU3|
+|Sony|BRAVIA_VU3|BRAVIA_VU3_4K|BRAVIA VU3|
 |Sony|Ericsson Live with Walkman|WT19a|WT19a|
 |Sony|Ericsson Live with Walkman|WT19i|WT19i|
 |Sony|Internet TV|asura|Internet TV|
@@ -29832,6 +29844,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|T40Pro_ROW|T40Pro_ROW|T40Pro_ROW|
 |Teclast|T40Pro_RU|Teclast_T40Pro_RU|T40Pro|
 |Teclast|T40Pro_RUS|T40Pro_RUS|T40Pro_RUS|
+|Teclast|T40Pro_YKM_EEA|T40Pro_YKM_EEA|T40Pro_YKM_EEA|
+|Teclast|T40Pro_YKM_ROW|T40Pro_YKM_ROW|T40Pro_YKM_ROW|
 |Teclast|T40_Plus_EEA|T40_Plus_EEA|T40_Plus_EEA|
 |Teclast|T40_Plus_ROW|T40_Plus_ROW|T40_Plus_ROW|
 |Teclast|T40_Plus_RUS|T40_Plus_RUS|T40_Plus_RUS|
@@ -30375,6 +30389,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tonino Lamborghini|TL99|ailsa_ii|TL99|
 |Tonino Lamborghini|TL99G|ailsa_ii|TL99G|
 |Topicon|Topicon MDT1060|mdt1060|mdt1060|
+|Torex|Rugged_tablets|Torex8plus|Torex8plus|
 |Toshiba||WDPF-703TI|Hikari-iFrame/WDPF-703TI|
 |Toshiba||tosebook01|DB50|
 |Toshiba||tostab05|AT200|
@@ -30801,6 +30816,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|BISON X10G|BISON_X10G|RP05|
 |Umidigi|BISON X10G EEA|BISON_X10G|RP05|
 |Umidigi|BISON X10G NFC|BISON_X10G_NFC|RP05|
+|Umidigi|BISON X10G NFC EEA|BISON_X10G_NFC|RP05|
 |Umidigi|BISON X10S|BISON_X10S|RP05|
 |Umidigi|BISON X10S EEA|BISON_X10S|RP05|
 |Umidigi|BISON X10S NFC|BISON_X10S_NFC|RP05|

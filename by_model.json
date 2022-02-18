@@ -26694,6 +26694,13 @@
    "device": "AMICO_SMARTPHONE_XL"
   }
  ],
+ "AMICO SMARTPHONE XS": [
+  {
+   "brand": "Brondi",
+   "name": "AMICO_SMARTPHONE_XS_EEA",
+   "device": "AMICO_SMARTPHONE_XS"
+  }
+ ],
  "MIDNIGHT_SKY": [
   {
    "brand": "Brondi",
@@ -63798,6 +63805,11 @@
   {
    "brand": "Haier",
    "name": "M53-52401",
+   "device": "M53-524O1"
+  },
+  {
+   "brand": "Haier",
+   "name": "M53-52401",
    "device": "M5352401"
   }
  ],
@@ -95170,6 +95182,13 @@
    "device": "KYL21"
   }
  ],
+ "KC-S304": [
+  {
+   "brand": "Kyocera",
+   "name": "DIGNO SANGA edition",
+   "device": "KC-S304"
+  }
+ ],
  "KC-S302": [
   {
    "brand": "Kyocera",
@@ -95203,6 +95222,13 @@
    "brand": "Kyocera",
    "name": "DIGNO W",
    "device": "KYV40"
+  }
+ ],
+ "KC-S303": [
+  {
+   "brand": "Kyocera",
+   "name": "DIGNO WX",
+   "device": "KC-S303"
   }
  ],
  "DM015K": [
@@ -95573,6 +95599,13 @@
    "brand": "Kyocera",
    "name": "KC-T302DT",
    "device": "SZJ202"
+  }
+ ],
+ "SZJ-JS203": [
+  {
+   "brand": "Kyocera",
+   "name": "KC-T303DT",
+   "device": "SZJ203"
   }
  ],
  "KC-T304": [
@@ -136438,6 +136471,13 @@
    "device": "OnePlus8Pro"
   }
  ],
+ "IN2021": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 8 Pro",
+   "device": "OnePlus8Pro"
+  }
+ ],
  "IN2023": [
   {
    "brand": "OnePlus",
@@ -139096,6 +139136,20 @@
    "brand": "Oppo",
    "name": "OPPO Watch",
    "device": "orca"
+  }
+ ],
+ "PDKM00": [
+  {
+   "brand": "Oppo",
+   "name": "PDKM00",
+   "device": "OP4ABB"
+  }
+ ],
+ "PDKT00": [
+  {
+   "brand": "Oppo",
+   "name": "PDKT00",
+   "device": "OP4ABB"
   }
  ],
  "PDST00": [
@@ -142226,6 +142280,13 @@
    "brand": "POCO",
    "name": "POCO M3 Pro 5G",
    "device": "camellian"
+  }
+ ],
+ "2201117PG": [
+  {
+   "brand": "POCO",
+   "name": "POCO M4 Pro",
+   "device": "fleur"
   }
  ],
  "21091116AG": [
@@ -158337,32 +158398,6 @@
    "device": "Koobee_S19"
   }
  ],
- "SMART_MAX_2": [
-  {
-   "brand": "SPC Mobile",
-   "name": "SMART_MAX_2",
-   "device": "SMART_MAX_2"
-  }
- ],
- "SMART_PRO": [
-  {
-   "brand": "SPC Mobile",
-   "name": "SMART_PRO",
-   "device": "SMART_PRO"
-  },
-  {
-   "brand": "SPC Mobile",
-   "name": "SMART_PRO",
-   "device": "SMART_PRO_EEA"
-  }
- ],
- "SMART_ULTIMATE": [
-  {
-   "brand": "SPC Mobile",
-   "name": "SMART_ULTIMATE",
-   "device": "SMART_ULTIMATE"
-  }
- ],
  "Blink 10.1": [
   {
    "brand": "SPC Universe",
@@ -158445,6 +158480,32 @@
    "brand": "SPC Universe",
    "name": "SMART  2",
    "device": "SMART_2"
+  }
+ ],
+ "SMART_MAX_2": [
+  {
+   "brand": "SPC Universe",
+   "name": "SMART_MAX_2",
+   "device": "SMART_MAX_2"
+  }
+ ],
+ "SMART_PRO": [
+  {
+   "brand": "SPC Universe",
+   "name": "SMART_PRO",
+   "device": "SMART_PRO"
+  },
+  {
+   "brand": "SPC Universe",
+   "name": "SMART_PRO",
+   "device": "SMART_PRO_EEA"
+  }
+ ],
+ "SMART_ULTIMATE": [
+  {
+   "brand": "SPC Universe",
+   "name": "SMART_ULTIMATE",
+   "device": "SMART_ULTIMATE"
   }
  ],
  "SPC GEN": [
@@ -159592,6 +159653,13 @@
    "brand": "Safaricom",
    "name": "SFCSTB2LITE",
    "device": "SFCSTB2LITE"
+  }
+ ],
+ "Safaricom ET Kimem": [
+  {
+   "brand": "Safaricom",
+   "name": "Safaricom ET Kimem",
+   "device": "Safaricom_ET_Kimem"
   }
  ],
  "m384wb": [
@@ -184386,6 +184454,18 @@
    "device": "BRAVIA_VU1_4K"
   }
  ],
+ "BRAVIA VU3": [
+  {
+   "brand": "Sony",
+   "name": "BRAVIA_VU3",
+   "device": "BRAVIA_VU3_2K"
+  },
+  {
+   "brand": "Sony",
+   "name": "BRAVIA_VU3",
+   "device": "BRAVIA_VU3_4K"
+  }
+ ],
  "WT19a": [
   {
    "brand": "Sony",
@@ -203004,6 +203084,20 @@
    "device": "T40Pro_RUS"
   }
  ],
+ "T40Pro_YKM_EEA": [
+  {
+   "brand": "Teclast",
+   "name": "T40Pro_YKM_EEA",
+   "device": "T40Pro_YKM_EEA"
+  }
+ ],
+ "T40Pro_YKM_ROW": [
+  {
+   "brand": "Teclast",
+   "name": "T40Pro_YKM_ROW",
+   "device": "T40Pro_YKM_ROW"
+  }
+ ],
  "T40_Plus_EEA": [
   {
    "brand": "Teclast",
@@ -206585,6 +206679,13 @@
    "device": "mdt1060"
   }
  ],
+ "Torex8plus": [
+  {
+   "brand": "Torex",
+   "name": "Rugged_tablets",
+   "device": "Torex8plus"
+  }
+ ],
  "Hikari-iFrame/WDPF-703TI": [
   {
    "brand": "Toshiba",
@@ -209159,6 +209260,11 @@
   {
    "brand": "Umidigi",
    "name": "BISON X10G NFC",
+   "device": "BISON_X10G_NFC"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "BISON X10G NFC EEA",
    "device": "BISON_X10G_NFC"
   },
   {

@@ -32671,6 +32671,13 @@
    "model": "AMICO SMARTPHONE XL"
   }
  ],
+ "AMICO_SMARTPHONE_XS_EEA": [
+  {
+   "brand": "Brondi",
+   "device": "AMICO_SMARTPHONE_XS",
+   "model": "AMICO SMARTPHONE XS"
+  }
+ ],
  "MIDNIGHT_SKY_EEA": [
   {
    "brand": "Brondi",
@@ -69836,6 +69843,11 @@
   },
   {
    "brand": "Haier",
+   "device": "M53-524O1",
+   "model": "M53-52401"
+  },
+  {
+   "brand": "Haier",
    "device": "M5352401",
    "model": "M53-52401"
   }
@@ -97396,6 +97408,13 @@
    "model": "KYL21"
   }
  ],
+ "DIGNO SANGA edition": [
+  {
+   "brand": "Kyocera",
+   "device": "KC-S304",
+   "model": "KC-S304"
+  }
+ ],
  "DIGNO SX2": [
   {
    "brand": "Kyocera",
@@ -97429,6 +97448,13 @@
    "brand": "Kyocera",
    "device": "KYV40",
    "model": "KYV40U"
+  }
+ ],
+ "DIGNO WX": [
+  {
+   "brand": "Kyocera",
+   "device": "KC-S303",
+   "model": "KC-S303"
   }
  ],
  "DIGNO rafre": [
@@ -97767,6 +97793,13 @@
    "brand": "Kyocera",
    "device": "SZJ202",
    "model": "SZJ-JS202"
+  }
+ ],
+ "KC-T303DT": [
+  {
+   "brand": "Kyocera",
+   "device": "SZJ203",
+   "model": "SZJ-JS203"
   }
  ],
  "KC-T304": [
@@ -134148,6 +134181,11 @@
   {
    "brand": "OnePlus",
    "device": "OnePlus8Pro",
+   "model": "IN2021"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus8Pro",
    "model": "IN2023"
   }
  ],
@@ -136406,6 +136444,20 @@
    "brand": "Oppo",
    "device": "orca",
    "model": "OPPO Watch"
+  }
+ ],
+ "PDKM00": [
+  {
+   "brand": "Oppo",
+   "device": "OP4ABB",
+   "model": "PDKM00"
+  }
+ ],
+ "PDKT00": [
+  {
+   "brand": "Oppo",
+   "device": "OP4ABB",
+   "model": "PDKT00"
   }
  ],
  "PDST00": [
@@ -139585,6 +139637,13 @@
    "brand": "POCO",
    "device": "camellian",
    "model": "M2103K19PG"
+  }
+ ],
+ "POCO M4 Pro": [
+  {
+   "brand": "POCO",
+   "device": "fleur",
+   "model": "2201117PG"
   }
  ],
  "POCO M4 Pro 5G": [
@@ -155389,32 +155448,6 @@
    "model": "S19"
   }
  ],
- "SMART_MAX_2": [
-  {
-   "brand": "SPC Mobile",
-   "device": "SMART_MAX_2",
-   "model": "SMART_MAX_2"
-  }
- ],
- "SMART_PRO": [
-  {
-   "brand": "SPC Mobile",
-   "device": "SMART_PRO",
-   "model": "SMART_PRO"
-  },
-  {
-   "brand": "SPC Mobile",
-   "device": "SMART_PRO_EEA",
-   "model": "SMART_PRO"
-  }
- ],
- "SMART_ULTIMATE": [
-  {
-   "brand": "SPC Mobile",
-   "device": "SMART_ULTIMATE",
-   "model": "SMART_ULTIMATE"
-  }
- ],
  "Blink_10_1": [
   {
    "brand": "SPC Universe",
@@ -155504,6 +155537,32 @@
    "brand": "SPC Universe",
    "device": "SMART_2",
    "model": "SMART 2"
+  }
+ ],
+ "SMART_MAX_2": [
+  {
+   "brand": "SPC Universe",
+   "device": "SMART_MAX_2",
+   "model": "SMART_MAX_2"
+  }
+ ],
+ "SMART_PRO": [
+  {
+   "brand": "SPC Universe",
+   "device": "SMART_PRO",
+   "model": "SMART_PRO"
+  },
+  {
+   "brand": "SPC Universe",
+   "device": "SMART_PRO_EEA",
+   "model": "SMART_PRO"
+  }
+ ],
+ "SMART_ULTIMATE": [
+  {
+   "brand": "SPC Universe",
+   "device": "SMART_ULTIMATE",
+   "model": "SMART_ULTIMATE"
   }
  ],
  "SPC GEN": [
@@ -156649,6 +156708,13 @@
    "brand": "Safaricom",
    "device": "SFCSTB2LITE",
    "model": "SFCSTB2LITE"
+  }
+ ],
+ "Safaricom ET Kimem": [
+  {
+   "brand": "Safaricom",
+   "device": "Safaricom_ET_Kimem",
+   "model": "Safaricom ET Kimem"
   }
  ],
  "Wibox": [
@@ -177231,6 +177297,18 @@
    "model": "BRAVIA VU2"
   }
  ],
+ "BRAVIA_VU3": [
+  {
+   "brand": "Sony",
+   "device": "BRAVIA_VU3_2K",
+   "model": "BRAVIA VU3"
+  },
+  {
+   "brand": "Sony",
+   "device": "BRAVIA_VU3_4K",
+   "model": "BRAVIA VU3"
+  }
+ ],
  "Ericsson Live with Walkman": [
   {
    "brand": "Sony",
@@ -193161,6 +193239,20 @@
    "model": "T40Pro_RUS"
   }
  ],
+ "T40Pro_YKM_EEA": [
+  {
+   "brand": "Teclast",
+   "device": "T40Pro_YKM_EEA",
+   "model": "T40Pro_YKM_EEA"
+  }
+ ],
+ "T40Pro_YKM_ROW": [
+  {
+   "brand": "Teclast",
+   "device": "T40Pro_YKM_ROW",
+   "model": "T40Pro_YKM_ROW"
+  }
+ ],
  "T40_Plus_EEA": [
   {
    "brand": "Teclast",
@@ -196430,6 +196522,13 @@
    "model": "mdt1060"
   }
  ],
+ "Rugged_tablets": [
+  {
+   "brand": "Torex",
+   "device": "Torex8plus",
+   "model": "Torex8plus"
+  }
+ ],
  "A204": [
   {
    "brand": "Toshiba",
@@ -198994,6 +199093,13 @@
   }
  ],
  "BISON X10G NFC": [
+  {
+   "brand": "Umidigi",
+   "device": "BISON_X10G_NFC",
+   "model": "RP05"
+  }
+ ],
+ "BISON X10G NFC EEA": [
   {
    "brand": "Umidigi",
    "device": "BISON_X10G_NFC",
