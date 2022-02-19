@@ -6087,6 +6087,11 @@
    "model": "AQUA Android TV 2K"
   },
   {
+   "device": "dupont",
+   "name": "AQUA Android TV DVB",
+   "model": "AQUA Android TV DVB"
+  },
+  {
    "device": "broadway",
    "name": "AQUA Android TV DVB2K",
    "model": "AQUA Android TV DVB2K"
@@ -45121,6 +45126,11 @@
    "model": "Andromax C46B2H"
   },
   {
+   "device": "dupont",
+   "name": "CANDY Android TV DVB",
+   "model": "CANDY Android TV DVB"
+  },
+  {
    "device": "broadway",
    "name": "CANDY Android TV DVB2K",
    "model": "CANDY Android TV DVB2K"
@@ -45309,6 +45319,11 @@
    "device": "hanyang",
    "name": "HEC Android TV",
    "model": "HEC Android TV"
+  },
+  {
+   "device": "dupont",
+   "name": "HEC Android TV DVB",
+   "model": "HEC Android TV DVB"
   },
   {
    "device": "broadway",
@@ -61279,6 +61294,11 @@
    "model": "A6"
   },
   {
+   "device": "A6_2022",
+   "name": "A6_2022",
+   "model": "IKU A6 2022"
+  },
+  {
    "device": "A70",
    "name": "A70",
    "model": "iKU A70"
@@ -65391,6 +65411,11 @@
    "device": "itel-L5007",
    "name": "itel A24",
    "model": "itel L5007"
+  },
+  {
+   "device": "itel-A551L",
+   "name": "itel A27(P17 Pro 4G)",
+   "model": "itel A551L"
   },
   {
    "device": "itel-A551L-Pro",
@@ -101871,6 +101896,11 @@
    "model": "C00"
   },
   {
+   "device": "Dubai",
+   "name": "D00",
+   "model": "D00"
+  },
+  {
    "device": "A0001",
    "name": "One",
    "model": "A0001"
@@ -101953,7 +101983,17 @@
   {
    "device": "OnePlus8",
    "name": "OnePlus 8",
+   "model": "IN2011"
+  },
+  {
+   "device": "OnePlus8",
+   "name": "OnePlus 8",
    "model": "IN2013"
+  },
+  {
+   "device": "OnePlus8",
+   "name": "OnePlus 8",
+   "model": "IN2015"
   },
   {
    "device": "OnePlus8Visible",
@@ -101989,6 +102029,11 @@
    "device": "OnePlus8T",
    "name": "OnePlus 8T",
    "model": "KB2000"
+  },
+  {
+   "device": "OnePlus8T",
+   "name": "OnePlus 8T",
+   "model": "KB2001"
   },
   {
    "device": "OnePlus8T",
@@ -106258,6 +106303,11 @@
    "device": "P55",
    "name": "P55",
    "model": "P55"
+  },
+  {
+   "device": "P60_CENAM",
+   "name": "P60 CENAM",
+   "model": "P60 CENAM"
   },
   {
    "device": "PCD508",
@@ -117145,6 +117195,11 @@
    "device": "haydn",
    "name": "Redmi K40 Pro +",
    "model": "M2012K11C"
+  },
+  {
+   "device": "ingres",
+   "name": "Redmi K50G",
+   "model": "21121210C"
   },
   {
    "device": "camellia",
@@ -154009,6 +154064,11 @@
    "device": "TECNO-KG8",
    "name": "SPARK 8 Pro",
    "model": "TECNO KG8"
+  },
+  {
+   "device": "TECNO-Mobile-KG8",
+   "name": "SPARK 8 Pro",
+   "model": "TECNO Mobile KG8"
   },
   {
    "device": "TECNO-KA9",

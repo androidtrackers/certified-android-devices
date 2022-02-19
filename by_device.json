@@ -11694,6 +11694,28 @@
    "model": "ZEPHIR Android TV 2K"
   }
  ],
+ "dupont": [
+  {
+   "brand": "Aqua",
+   "name": "AQUA Android TV DVB",
+   "model": "AQUA Android TV DVB"
+  },
+  {
+   "brand": "Haier",
+   "name": "CANDY Android TV DVB",
+   "model": "CANDY Android TV DVB"
+  },
+  {
+   "brand": "Haier",
+   "name": "HEC Android TV DVB",
+   "model": "HEC Android TV DVB"
+  },
+  {
+   "brand": "Haier",
+   "name": "Haier Android TV DVB",
+   "model": "Haier Android TV DVB"
+  }
+ ],
  "broadway": [
   {
    "brand": "Aqua",
@@ -65176,13 +65198,6 @@
    "model": "Seiki Android TV 2K"
   }
  ],
- "dupont": [
-  {
-   "brand": "Haier",
-   "name": "Haier Android TV DVB",
-   "model": "Haier Android TV DVB"
-  }
- ],
  "Haier_Leisure_L7": [
   {
    "brand": "Haier",
@@ -83492,6 +83507,13 @@
    "model": "OPPO A35"
   }
  ],
+ "A6_2022": [
+  {
+   "brand": "IkuMobile",
+   "name": "A6_2022",
+   "model": "IKU A6 2022"
+  }
+ ],
  "I3": [
   {
    "brand": "IkuMobile",
@@ -88788,6 +88810,13 @@
    "brand": "Itel",
    "name": "itel A24",
    "model": "itel L5007"
+  }
+ ],
+ "itel-A551L": [
+  {
+   "brand": "Itel",
+   "name": "itel A27(P17 Pro 4G)",
+   "model": "itel A551L"
   }
  ],
  "itel-A551L-Pro": [
@@ -133667,6 +133696,13 @@
    "model": "C00"
   }
  ],
+ "Dubai": [
+  {
+   "brand": "OnePlus",
+   "name": "D00",
+   "model": "D00"
+  }
+ ],
  "A0001": [
   {
    "brand": "OnePlus",
@@ -133780,7 +133816,17 @@
   {
    "brand": "OnePlus",
    "name": "OnePlus 8",
+   "model": "IN2011"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 8",
    "model": "IN2013"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 8",
+   "model": "IN2015"
   }
  ],
  "OnePlus8Visible": [
@@ -133826,6 +133872,11 @@
    "brand": "OnePlus",
    "name": "OnePlus 8T",
    "model": "KB2000"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 8T",
+   "model": "KB2001"
   },
   {
    "brand": "OnePlus",
@@ -139144,6 +139195,13 @@
    "brand": "Panasonic",
    "name": "P55",
    "model": "Panasonic P55"
+  }
+ ],
+ "P60_CENAM": [
+  {
+   "brand": "PCD Argentina",
+   "name": "P60 CENAM",
+   "model": "P60 CENAM"
   }
  ],
  "PCD508": [
@@ -152433,6 +152491,13 @@
    "brand": "Xiaomi",
    "name": "Mi 11i",
    "model": "M2012K11G"
+  }
+ ],
+ "ingres": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi K50G",
+   "model": "21121210C"
   }
  ],
  "sunny": [
@@ -196629,6 +196694,13 @@
    "brand": "Tecno",
    "name": "SPARK 8 Pro",
    "model": "TECNO KG8"
+  }
+ ],
+ "TECNO-Mobile-KG8": [
+  {
+   "brand": "Tecno",
+   "name": "SPARK 8 Pro",
+   "model": "TECNO Mobile KG8"
   }
  ],
  "TECNO-KA9": [

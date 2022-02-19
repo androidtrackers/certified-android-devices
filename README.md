@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-02-18
+Last sync is 2022-02-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1167,6 +1167,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aprix|Tab_X2|Tab_X2|Tab_X2|
 |Aprix|X4|Aprix_X4|Aprix_X4|
 |Aqua|APAC|nippori|AQUA Android TV 2K|
+|Aqua|AQUA Android TV DVB|dupont|AQUA Android TV DVB|
 |Aqua|AQUA Android TV DVB2K|broadway|AQUA Android TV DVB2K|
 |Aqua|AQUA Android TV FF Pro|daan|AQUA Android TV FF Pro|
 |Aqua|AQUA android TV|hanyang|AQUA Android TV|
@@ -8705,6 +8706,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|Alpha A6|A6|A6|
 |Haier|Beeline Smart 3|Beeline_Smart3|Beeline Smart 3|
 |Haier|C46B2H|C46B2H|Andromax C46B2H|
+|Haier|CANDY Android TV DVB|dupont|CANDY Android TV DVB|
 |Haier|CANDY Android TV DVB2K|broadway|CANDY Android TV DVB2K|
 |Haier|CDP7TAB4C8|CDP7TAB4C8|CDP7TAB4C8|
 |Haier|CDP8TAB16SD|CDP8TAB16SD|CDP8TAB16SD|
@@ -8743,6 +8745,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|G7s|G7s|G7s|
 |Haier|GF88|I7A-LE|I7A-LE|
 |Haier|HEC Android TV|hanyang|HEC Android TV|
+|Haier|HEC Android TV DVB|dupont|HEC Android TV DVB|
 |Haier|HEC Android TV DVB2K|broadway|HEC Android TV DVB2K|
 |Haier|HG-9041|HG-9041|HG-9041|
 |Haier|HM-I557-FL|HM-I557-FL|HM-I557-FL|
@@ -11897,6 +11900,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IkuMobile|A4|A4|A4|
 |IkuMobile|A50|A50|iKU A50|
 |IkuMobile|A6|A6|A6|
+|IkuMobile|A6_2022|A6_2022|IKU A6 2022|
 |IkuMobile|A70|A70|iKU A70|
 |IkuMobile|I3|I3|IKU i3|
 |IkuMobile|IKU|IKU|K10|
@@ -12705,6 +12709,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel A23|itel-A23S|itel A23S|
 |Itel|itel A24|itel-A507LS|itel A507LS|
 |Itel|itel A24|itel-L5007|itel L5007|
+|Itel|itel A27(P17 Pro 4G)|itel-A551L|itel A551L|
 |Itel|itel A27(P17 Pro 4G)|itel-A551L-Pro|itel A551L|
 |Itel|itel A31|itel_A31|itel A31|
 |Itel|itel A36|itel-W5505|itel W5505|
@@ -19807,6 +19812,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|2|OnePlus2|ONE A2003|
 |OnePlus|3|OnePlus3|ONEPLUS A3000|
 |OnePlus|C00|Cebu|C00|
+|OnePlus|D00|Dubai|D00|
 |OnePlus|One|A0001|A0001|
 |OnePlus|One|A0001|One|
 |OnePlus|OnePlus|OnePlus|ONE E1003|
@@ -19823,7 +19829,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 7T Pro|OnePlus7TPro|HD1913|
 |OnePlus|OnePlus 7T Pro 5G|OnePlus7TProNR|HD1925|
 |OnePlus|OnePlus 8|OnePlus8|IN2010|
+|OnePlus|OnePlus 8|OnePlus8|IN2011|
 |OnePlus|OnePlus 8|OnePlus8|IN2013|
+|OnePlus|OnePlus 8|OnePlus8|IN2015|
 |OnePlus|OnePlus 8|OnePlus8Visible|IN2015|
 |OnePlus|OnePlus 8 5G|OnePlus8TMO|IN2017|
 |OnePlus|OnePlus 8 5G UW|OnePlus8VZW|IN2019|
@@ -19831,6 +19839,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 8 Pro|OnePlus8Pro|IN2021|
 |OnePlus|OnePlus 8 Pro|OnePlus8Pro|IN2023|
 |OnePlus|OnePlus 8T|OnePlus8T|KB2000|
+|OnePlus|OnePlus 8T|OnePlus8T|KB2001|
 |OnePlus|OnePlus 8T|OnePlus8T|KB2003|
 |OnePlus|OnePlus 8T|OnePlus8T|KB2005|
 |OnePlus|OnePlus 8T+ 5G|OnePlus8TTMO|KB2007|
@@ -20672,6 +20681,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PCD Argentina|P41|P41|P41|
 |PCD Argentina|P50|P50|P50|
 |PCD Argentina|P55|P55|P55|
+|PCD Argentina|P60 CENAM|P60_CENAM|P60 CENAM|
 |PCD Argentina|PCD508|PCD508|PCD508|
 |PCD Argentina|PCD509|PCD509|PCD509|
 |PCD Argentina|PD60|P60|P60|
@@ -22793,6 +22803,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi K40 Gaming|ares|M2012K10C|
 |Redmi|Redmi K40 Pro|haydn|M2012K11C|
 |Redmi|Redmi K40 Pro +|haydn|M2012K11C|
+|Redmi|Redmi K50G|ingres|21121210C|
 |Redmi|Redmi Note 10|camellia|M2103K19C|
 |Redmi|Redmi Note 10|sunny|M2101K7AG|
 |Redmi|Redmi Note 10|sunny|M2101K7AI|
@@ -30041,6 +30052,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|SPARK 6 Go|TECNO-KE5|TECNO KE5|
 |Tecno|SPARK 6 Go|TECNO-KE5k|TECNO KE5k|
 |Tecno|SPARK 8 Pro|TECNO-KG8|TECNO KG8|
+|Tecno|SPARK 8 Pro|TECNO-Mobile-KG8|TECNO Mobile KG8|
 |Tecno|SPARK CM|TECNO-KA9|TECNO KA9|
 |Tecno|SPARK Go 2020|TECNO-KE5S|TECNO KE5S|
 |Tecno|SPARK Go 2021(SPARK 6 Go)|TECNO-KE5|TECNO KE5|
