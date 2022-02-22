@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-02-21
+Last sync is 2022-02-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -148,6 +148,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AOpen|RK3288 Mini Chromebox|fievel_cheets|AOpen Chromebox Mini|
 |ARATEK|Marshall-8|Marshall-8|Marshall-8|
 |ARBOR|G47|G47|G47|
+|ARBOR|GT78-VN|GT78-VN|GT78-VN|
 |ARRQW|RO-55LCS|samseong|AI PONT|
 |ARRQW|Saudi Arabia|tamachi|ARRQW FHD Android TV|
 |ARRQW|Saudi Arabia|yeongdeungpo|ARRQW UHD Android TV|
@@ -2115,6 +2116,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azeyou|AT1012U|AT1012U|AT1012U|
 |Azeyou|AT1031E|AT1031E|AT1031E|
 |Azeyou|AT1031U|AT1031U|AT1031U|
+|Azeyou|AT701E|AT701E|AT701E|
 |Azeyou|AT701U|AT701U|AT701U|
 |Azumi|A4|A4|Azumi A4|
 |Azumi|A4|A4_AC25|Azumi A4|
@@ -3965,6 +3967,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Channel Master|Stream+|dwt765cha|CM-7600|
 |Chemist Warehouse|JR-MB603|JR_MB603|JR_MB603|
 |Chenrui|M40|M40|M40|
+|Cherry Mobile|A1090|A1090|A1090|
 |Cherry Mobile|A1100|A1100|A1100|
 |Cherry Mobile|A810|A810|Superion S1 Plus DTV|
 |Cherry Mobile|A840|A840|Flare Tab Ultra|
@@ -5137,9 +5140,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DUODUOGO|Tablet-P8_A|Tablet-P8_A|Tablet-P8_A|
 |DUODUOGO|Tablet-P8_EEA|Tablet-P8_EEA|Tablet-P8_EEA|
 |Daehap|DH-B301K|DH-B301K|DH-B301K|
-|Daewoo|DAEWOO|mateo|2K SA Smart TV|
 |Daewoo|DW-TN7RK16|DW-TN7RK16|DW-TN7RK16|
 |Daewoo|Daewoo 4K TV|SW4H_FF|Daewoo 4K TV|
+|Daewoo|Smart TV|mateo|2K SA Smart TV|
 |Dahl Sweden|People Plus|People_Plus|People_Plus|
 |Daihatsu|A-DA|balticaAA|MY22ADA|
 |Danew|DSlide 710|Dslide710|Dslide710|
@@ -13433,6 +13436,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Krik Krak|Freedom|Freedom|Freedom|
 |Krono|776PLUS|KRONO_776PLUS|776PLUS|
 |Krono|COLORS|COLORS|COLORS|
+|Krono|MATRIX PRO|MATRIX_PRO|MATRIX_PRO|
 |Krono|NETWORK|NETWORK|NETWORK|
 |Krono|NET_ADVANCE|NET_ADVANCE|NET_ADVANCE|
 |Krono|NET_K7|NET_K7|NET_K7|
@@ -19838,6 +19842,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 8 Pro|OnePlus8Pro|IN2020|
 |OnePlus|OnePlus 8 Pro|OnePlus8Pro|IN2021|
 |OnePlus|OnePlus 8 Pro|OnePlus8Pro|IN2023|
+|OnePlus|OnePlus 8 Pro|OnePlus8Pro|IN2025|
 |OnePlus|OnePlus 8T|OnePlus8T|KB2000|
 |OnePlus|OnePlus 8T|OnePlus8T|KB2001|
 |OnePlus|OnePlus 8T|OnePlus8T|KB2003|
@@ -20229,6 +20234,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Reno5 pro|OP4F1FL1|CPH2201|
 |Oppo|OPPO Watch|beluga|OPPO Watch|
 |Oppo|OPPO Watch|orca|OPPO Watch|
+|Oppo|PCRT01|OP4AB5|PCRT01|
 |Oppo|PDKM00|OP4ABB|PDKM00|
 |Oppo|PDKT00|OP4ABB|PDKT00|
 |Oppo|PDST00|OP4EA3|PDST00|
@@ -20624,6 +20630,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|WP5|WP5|WP5|
 |Oukitel|WP5 Pro|WP5_Pro|WP5 Pro|
 |Oukitel|WP5000|WP5000|WP5000|
+|Oukitel|WP5_Pro_row|WP5_Pro|WP5 Pro|
 |Oukitel|WP6|WP6|WP6|
 |Oukitel|WP6_EEA|WP6|WP6|
 |Oukitel|WP7|WP7|WP7|
@@ -21590,6 +21597,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|T750|t750|Positivo T750|
 |Positivo|T800|T800|T800|
 |Positivo|T800|T800|TabQ8-T800|
+|Positivo|T800|T800M|T800|
 |Positivo|T810|T810|T810|
 |Positivo|Twist|S520|Positivo Twist M|
 |Positivo|Twist|S520|Positivo Twist S|
@@ -22359,6 +22367,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Qtouch|Q05A|Q05A|Q05A|
 |Qtouch|QS31|QS31|QS31|
 |Qtouch|QS355|QS355|QS355|
+|Qtouch|QS362|QS362|QS362|
 |Qtouch|QS701|QS701|QS701|
 |Qtouch|QS702|QTOUCH-QS702|QS702|
 |Qtouch|Qtouch_Q502|Qtouch_Q502|Qtouch_Q502|
@@ -22446,7 +22455,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|Atlas 10|RCT6B03W12|RCT6B03W12|
 |RCA|Atlas 10|RCT6B03W13|RCT6B03W13|
 |RCA|BNT-710|BNT-710|BNT-710|
-|RCA|Candy|mateo|2K SA Smart TV|
 |RCA|DAA730R / RCA DAA738R|MD7081|DAA730R|
 |RCA|DAA730R / RCA DAA738R|MD7081|DAA738R|
 |RCA|DRP2091Q|DRP2091Q|DRP2091Q|
@@ -22454,8 +22462,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|DRP29101QT|DRP29101QT|DRP29101QT|
 |RCA|Gemini 10 pro|RCT6A03W13FU|RCT6A03W13FU|
 |RCA|HKC|gangbyeon|HKC 4K AI Smart TV|
-|RCA|HKC|mateo|2K PA Smart TV|
-|RCA|HKC|mateo|HKC 2K SA Smart TV|
+|RCA|HKC|pioneer|HKC 4K SA Smart TV|
 |RCA|Juno 10|RCT6A03W12EU|RCT6A03W12EU|
 |RCA|Mercury 7|CT9973W43M|CT9973W43M|
 |RCA|Mexico|yeongdeungpo|AiPlus4K|
@@ -22532,7 +22539,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|RS43F2-EU|osaki|2K AI Smart TV|
 |RCA|RTA3201|kanda|2K Smart TV|
 |RCA|Reno_Pro|Reno_Pro|Reno Pro|
-|RCA|SAMWON|mateo|2K SA Smart TV|
+|RCA|Smart TV|mateo|2K PA Smart TV|
+|RCA|Smart TV|mateo|2K SA Smart TV|
+|RCA|Smart TV|mateo|HKC 2K SA Smart TV|
 |RCA|Tree|gangbyeon|Treeview 4K AI Smart TV|
 |RCA|Tree|osaki|Treeview 2K AI Smart TV|
 |RCA|UNICO|osaki|UNICO 2K AI Smart TV|
@@ -23622,6 +23631,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A32 5G|a32x|SM-A326U1|
 |Samsung|Galaxy A32 5G|a32x|SM-A326W|
 |Samsung|Galaxy A32 5G|a32x|SM-S326DL|
+|Samsung|Galaxy A33 5G|a33x|SM-A336B|
 |Samsung|Galaxy A40|a40|SM-A405FM|
 |Samsung|Galaxy A40|a40|SM-A405FN|
 |Samsung|Galaxy A40|a40|SM-A405S|
@@ -25041,12 +25051,17 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S22|r0q|SM-S901U1|
 |Samsung|Galaxy S22|r0q|SM-S901W|
 |Samsung|Galaxy S22|r0s|SM-S901B|
+|Samsung|Galaxy S22 Ultra|b0q|SM-S9080|
 |Samsung|Galaxy S22 Ultra|b0q|SM-S908E|
+|Samsung|Galaxy S22 Ultra|b0q|SM-S908N|
+|Samsung|Galaxy S22 Ultra|b0q|SM-S908U|
 |Samsung|Galaxy S22 Ultra|b0q|SM-S908U1|
 |Samsung|Galaxy S22 Ultra|b0q|SM-S908W|
 |Samsung|Galaxy S22 Ultra|b0s|SM-S908B|
 |Samsung|Galaxy S22+|g0q|SM-S9060|
 |Samsung|Galaxy S22+|g0q|SM-S906E|
+|Samsung|Galaxy S22+|g0q|SM-S906N|
+|Samsung|Galaxy S22+|g0q|SM-S906U|
 |Samsung|Galaxy S22+|g0q|SM-S906U1|
 |Samsung|Galaxy S22+|g0q|SM-S906W|
 |Samsung|Galaxy S22+|g0s|SM-S906B|
@@ -26092,7 +26107,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sansui|Israel|SAN-8487|SAN-8487|
 |Sansui|Mexio|yeongdeungpo|AiPlus4K|
 |Sansui|Nitro|Nitro|Nitro|
-|Sansui|SANSUI|martin|AiPlus2K|
 |Sansui|SANSUI SmartTV|sunnyvale|SANSUI SmartTV|
 |Sansui|SANSUITV UHD|SW4H|SANSUITV UHD|
 |Sansui|Sansui Play|Play|Sansui Play|
@@ -26101,6 +26115,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sansui|"Tab 7"""|ETAB_I7043G|ETAB I7043G|
 |Sansui|"Tab 7"""|ETAB_I7043G|ETAB_I7043G|
 |Sansui|"Tab 7"""|ETAB_I7043G_VP3|ETAB_I7043G_VP3|
+|Sansui|"USA|Canada|Mexico"|
 |Sansui TV|Canada|yeongdeungpo|AiPlus4K|
 |Sansui TV|JSC43ASUHD|samseong|AI PONT|
 |Sansui TV|SANSUITV|shibuya|SANSUITV|
@@ -31539,6 +31554,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|I2012|2012|I2012|
 |Vivo|I2017|2017|I2017|
 |Vivo|I2018|2018|I2018|
+|Vivo|I2127|I2127|I2127|
 |Vivo|NEX A|PD1806B|vivo NEX A|
 |Vivo|PD1304DL|PD1304DL|vivo Y13iL|
 |Vivo|PD1419V|PD1419V|vivo Y923|
@@ -31706,6 +31722,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2115|2116|V2115|
 |Vivo|V2115A|PD2115|V2115A|
 |Vivo|V2116|2116|V2116|
+|Vivo|V2117|2116|V2117|
 |Vivo|V2118|2120|V2118|
 |Vivo|V2118A|PD2118|V2118A|
 |Vivo|V2120|2120|V2120|
@@ -31733,6 +31750,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2136GA|PD2136|V2136GA|
 |Vivo|V2139|2120|V2139|
 |Vivo|V2140A|PD2140|V2140A|
+|Vivo|V2141|2141|V2141|
 |Vivo|V2141A|PD2141|V2141A|
 |Vivo|V2142|2127|V2142|
 |Vivo|V2143|2135|V2143|
@@ -31826,6 +31844,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Z3i|PD1813C|V1813A|
 |Vivo|Z3i|PD1813E|V1813A|
 |Vivo|iQOO 9 Pro|2022|I2022|
+|Vivo|iQOO 9 SE|2019|I2019|
 |Vivo|vivo  1907|1907|vivo 1907|
 |Vivo|vivo  X21i  A|PD1801|vivo X21i A|
 |Vivo|vivo  Y75s|PD1708C|vivo Y75s|
@@ -35357,7 +35376,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iMuz|L101|G10|L101|
 |iMuz|M101|G10|M101|
 |iMuz|RA10|RA10|RA10|
-|iMuz|iMUZ|mateo|2K SA Smart TV|
+|iMuz|Smart TV|mateo|2K SA Smart TV|
 |iMuz|muPAD L10|muPAD_L10|muPAD L10|
 |iMuz|muPADT7|muPADT7|muPADT7|
 |iMuz|muPAD_K10|muPAD_K10|muPAD_K10|

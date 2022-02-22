@@ -6729,6 +6729,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "Daewoo",
+   "device": "mateo",
+   "model": "2K SA Smart TV"
+  },
+  {
    "brand": "Funai Electric",
    "device": "peach",
    "model": "FUNAI 4K TV"
@@ -6769,6 +6774,21 @@
    "model": "PHILIPS 4K TV"
   },
   {
+   "brand": "RCA",
+   "device": "mateo",
+   "model": "2K PA Smart TV"
+  },
+  {
+   "brand": "RCA",
+   "device": "mateo",
+   "model": "2K SA Smart TV"
+  },
+  {
+   "brand": "RCA",
+   "device": "mateo",
+   "model": "HKC 2K SA Smart TV"
+  },
+  {
    "brand": "Redmi",
    "device": "tarzan",
    "model": "MiTV-MOOQ3"
@@ -6787,6 +6807,11 @@
    "brand": "TCL",
    "device": "BeyondTV4",
    "model": "Smart TV"
+  },
+  {
+   "brand": "iMuz",
+   "device": "mateo",
+   "model": "2K SA Smart TV"
   }
  ],
  "LXL43G7H-AT": [
@@ -7076,6 +7101,13 @@
    "brand": "ARBOR",
    "device": "G47",
    "model": "G47"
+  }
+ ],
+ "GT78-VN": [
+  {
+   "brand": "ARBOR",
+   "device": "GT78-VN",
+   "model": "GT78-VN"
   }
  ],
  "RO-55LCS": [
@@ -21841,6 +21873,13 @@
    "model": "AT1031U"
   }
  ],
+ "AT701E": [
+  {
+   "brand": "Azeyou",
+   "device": "AT701E",
+   "model": "AT701E"
+  }
+ ],
  "AT701U": [
   {
    "brand": "Azeyou",
@@ -36219,6 +36258,13 @@
    "model": "M40"
   }
  ],
+ "A1090": [
+  {
+   "brand": "Cherry Mobile",
+   "device": "A1090",
+   "model": "A1090"
+  }
+ ],
  "A1100": [
   {
    "brand": "Cherry Mobile",
@@ -44648,13 +44694,6 @@
    "brand": "Daehap",
    "device": "DH-B301K",
    "model": "DH-B301K"
-  }
- ],
- "DAEWOO": [
-  {
-   "brand": "Daewoo",
-   "device": "mateo",
-   "model": "2K SA Smart TV"
   }
  ],
  "DW-TN7RK16": [
@@ -96793,6 +96832,13 @@
    "model": "COLORS"
   }
  ],
+ "MATRIX PRO": [
+  {
+   "brand": "Krono",
+   "device": "MATRIX_PRO",
+   "model": "MATRIX_PRO"
+  }
+ ],
  "NETWORK": [
   {
    "brand": "Krono",
@@ -121826,11 +121872,6 @@
    "model": "Candy"
   },
   {
-   "brand": "RCA",
-   "device": "mateo",
-   "model": "2K SA Smart TV"
-  },
-  {
    "brand": "Yuho",
    "device": "Candy",
    "model": "Candy"
@@ -134237,6 +134278,11 @@
    "brand": "OnePlus",
    "device": "OnePlus8Pro",
    "model": "IN2023"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus8Pro",
+   "model": "IN2025"
   }
  ],
  "OnePlus 8T": [
@@ -136499,6 +136545,13 @@
    "brand": "Oppo",
    "device": "orca",
    "model": "OPPO Watch"
+  }
+ ],
+ "PCRT01": [
+  {
+   "brand": "Oppo",
+   "device": "OP4AB5",
+   "model": "PCRT01"
   }
  ],
  "PDKM00": [
@@ -139084,6 +139137,13 @@
    "brand": "Oukitel",
    "device": "WP5000",
    "model": "WP5000"
+  }
+ ],
+ "WP5_Pro_row": [
+  {
+   "brand": "Oukitel",
+   "device": "WP5_Pro",
+   "model": "WP5 Pro"
   }
  ],
  "WP6": [
@@ -145173,6 +145233,11 @@
    "brand": "Positivo",
    "device": "T800",
    "model": "TabQ8-T800"
+  },
+  {
+   "brand": "Positivo",
+   "device": "T800M",
+   "model": "T800"
   }
  ],
  "T810": [
@@ -150114,6 +150179,13 @@
    "model": "QS355"
   }
  ],
+ "QS362": [
+  {
+   "brand": "Qtouch",
+   "device": "QS362",
+   "model": "QS362"
+  }
+ ],
  "QS701": [
   {
    "brand": "Qtouch",
@@ -150704,13 +150776,8 @@
   },
   {
    "brand": "RCA",
-   "device": "mateo",
-   "model": "2K PA Smart TV"
-  },
-  {
-   "brand": "RCA",
-   "device": "mateo",
-   "model": "HKC 2K SA Smart TV"
+   "device": "pioneer",
+   "model": "HKC 4K SA Smart TV"
   }
  ],
  "Juno 10": [
@@ -151225,13 +151292,6 @@
    "brand": "RCA",
    "device": "Reno_Pro",
    "model": "Reno Pro"
-  }
- ],
- "SAMWON": [
-  {
-   "brand": "RCA",
-   "device": "mateo",
-   "model": "2K SA Smart TV"
   }
  ],
  "Tree": [
@@ -157881,6 +157941,13 @@
    "brand": "Samsung",
    "device": "a32x",
    "model": "SM-S326DL"
+  }
+ ],
+ "Galaxy A33 5G": [
+  {
+   "brand": "Samsung",
+   "device": "a33x",
+   "model": "SM-A336B"
   }
  ],
  "Galaxy A40": [
@@ -165647,7 +165714,22 @@
   {
    "brand": "Samsung",
    "device": "b0q",
+   "model": "SM-S9080"
+  },
+  {
+   "brand": "Samsung",
+   "device": "b0q",
    "model": "SM-S908E"
+  },
+  {
+   "brand": "Samsung",
+   "device": "b0q",
+   "model": "SM-S908N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "b0q",
+   "model": "SM-S908U"
   },
   {
    "brand": "Samsung",
@@ -165675,6 +165757,16 @@
    "brand": "Samsung",
    "device": "g0q",
    "model": "SM-S906E"
+  },
+  {
+   "brand": "Samsung",
+   "device": "g0q",
+   "model": "SM-S906N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "g0q",
+   "model": "SM-S906U"
   },
   {
    "brand": "Samsung",
@@ -171413,13 +171505,6 @@
    "model": "6045O"
   }
  ],
- "SANSUI": [
-  {
-   "brand": "Sansui",
-   "device": "martin",
-   "model": "AiPlus2K"
-  }
- ],
  "SANSUI SmartTV": [
   {
    "brand": "Sansui",
@@ -171453,6 +171538,13 @@
    "brand": "Sansui",
    "device": "SansuiSwitch",
    "model": "Sansui_Switch"
+  }
+ ],
+ "\"USA": [
+  {
+   "brand": "Sansui",
+   "device": "Canada",
+   "model": "Mexico\""
   }
  ],
  "JSC43ASUHD": [
@@ -203539,6 +203631,13 @@
    "model": "I2018"
   }
  ],
+ "I2127": [
+  {
+   "brand": "Vivo",
+   "device": "I2127",
+   "model": "I2127"
+  }
+ ],
  "NEX A": [
   {
    "brand": "Vivo",
@@ -204666,6 +204765,13 @@
    "model": "V2116"
   }
  ],
+ "V2117": [
+  {
+   "brand": "Vivo",
+   "device": "2116",
+   "model": "V2117"
+  }
+ ],
  "V2118": [
   {
    "brand": "Vivo",
@@ -204849,6 +204955,13 @@
    "brand": "Vivo",
    "device": "PD2140",
    "model": "V2140A"
+  }
+ ],
+ "V2141": [
+  {
+   "brand": "Vivo",
+   "device": "2141",
+   "model": "V2141"
   }
  ],
  "V2141A": [
@@ -205403,6 +205516,13 @@
    "brand": "Vivo",
    "device": "2022",
    "model": "I2022"
+  }
+ ],
+ "iQOO 9 SE": [
+  {
+   "brand": "Vivo",
+   "device": "2019",
+   "model": "I2019"
   }
  ],
  "vivo  1907": [
@@ -225535,13 +225655,6 @@
    "brand": "iMuz",
    "device": "RA10",
    "model": "RA10"
-  }
- ],
- "iMUZ": [
-  {
-   "brand": "iMuz",
-   "device": "mateo",
-   "model": "2K SA Smart TV"
   }
  ],
  "muPAD L10": [
