@@ -13914,6 +13914,11 @@
  ],
  "Bauhn": [
   {
+   "device": "gangbyeon",
+   "name": "4K Smart TV",
+   "model": "4K AI Smart TV"
+  },
+  {
    "device": "nippori",
    "name": "Australia",
    "model": "Bauhn Android TV 2K"
@@ -13922,11 +13927,6 @@
    "device": "bangbae",
    "name": "BAUHN",
    "model": "BAUHN 4K Android TV"
-  },
-  {
-   "device": "gangbyeon",
-   "name": "BAUHN",
-   "model": "4K AI Smart TV"
   },
   {
    "device": "komagome",
@@ -20153,11 +20153,6 @@
  ],
  "Cello": [
   {
-   "device": "ueno",
-   "name": "C2420G",
-   "model": "2K Android TV"
-  },
-  {
    "device": "sadang",
    "name": "Cello",
    "model": "cello UK 4K Android TV"
@@ -20166,6 +20161,11 @@
    "device": "tabata",
    "name": "Cello",
    "model": "cello 2K Android TV"
+  },
+  {
+   "device": "ueno",
+   "name": "Smart TV",
+   "model": "2K Android TV"
   },
   {
    "device": "T1045PC",
@@ -20438,6 +20438,11 @@
  ],
  "Challenger": [
   {
+   "device": "gangbyeon",
+   "name": "4K Smart TV",
+   "model": "Challenger 4K AI Smart TV"
+  },
+  {
    "device": "R1",
    "name": "Android TV",
    "model": "ATV R1"
@@ -20448,13 +20453,8 @@
    "model": "ATV R2"
   },
   {
-   "device": "gangbyeon",
-   "name": "Challenger",
-   "model": "Challenger 4K AI Smart TV"
-  },
-  {
    "device": "osaki",
-   "name": "Challenger",
+   "name": "Smart TV",
    "model": "2K AI Smart TV"
   }
  ],
@@ -32252,7 +32252,7 @@
   },
   {
    "device": "osaki",
-   "name": "LE3290ATV",
+   "name": "Smart TV",
    "model": "2K AI Smart TV"
   }
  ],
@@ -40698,6 +40698,11 @@
    "device": "Gtel_Infinity_9",
    "name": "Gtel_Infinity_9",
    "model": "Gtel Infinity 9"
+  },
+  {
+   "device": "Gtel_Infinity_X",
+   "name": "Gtel_Infinity_X",
+   "model": "Gtel Infinity X"
   },
   {
    "device": "Gtel_Vivo3",
@@ -59712,6 +59717,16 @@
    "model": "10LA2"
   },
   {
+   "device": "gangbyeon",
+   "name": "4K Smart TV",
+   "model": "HYUNDAI 4K AI Smart TV"
+  },
+  {
+   "device": "gangbyeon",
+   "name": "4K Smart TV",
+   "model": "HYUNDAI 4K Smart TV"
+  },
+  {
    "device": "7LB1",
    "name": "7LB1",
    "model": "7LB1"
@@ -60037,29 +60052,9 @@
    "model": "Hyundai 4K Android TV"
   },
   {
-   "device": "gangbyeon",
-   "name": "Hyundai",
-   "model": "HYUNDAI 4K AI Smart TV"
-  },
-  {
-   "device": "gangbyeon",
-   "name": "Hyundai",
-   "model": "HYUNDAI 4K Smart TV"
-  },
-  {
-   "device": "kanda",
-   "name": "Hyundai",
-   "model": "HYUNDAI 2K Smart TV"
-  },
-  {
    "device": "komagome",
    "name": "Hyundai",
    "model": "Hyundai 2K Android TV"
-  },
-  {
-   "device": "osaki",
-   "name": "Hyundai",
-   "model": "HYUNDAI 2K AI Smart TV"
   },
   {
    "device": "shinjuku",
@@ -60312,6 +60307,16 @@
    "model": "Seoul S8"
   },
   {
+   "device": "kanda",
+   "name": "Smart TV",
+   "model": "HYUNDAI 2K Smart TV"
+  },
+  {
+   "device": "osaki",
+   "name": "Smart TV",
+   "model": "HYUNDAI 2K AI Smart TV"
+  },
+  {
    "device": "sindorim",
    "name": "UHD Android TV",
    "model": "AI PONT"
@@ -60556,14 +60561,14 @@
  ],
  "IMPECCA": [
   {
-   "device": "kanda",
-   "name": "IMP",
-   "model": "IMPECCA 2K Smart TV"
+   "device": "gangbyeon",
+   "name": "4K Smart TV",
+   "model": "IMPECCA 4K Smart TV"
   },
   {
-   "device": "gangbyeon",
-   "name": "IMPECCA",
-   "model": "IMPECCA 4K Smart TV"
+   "device": "kanda",
+   "name": "Smart TV",
+   "model": "IMPECCA 2K Smart TV"
   }
  ],
  "IMPEX": [
@@ -65962,6 +65967,11 @@
    "model": "RY-AP1"
   },
   {
+   "device": "gangbyeon",
+   "name": "4K Smart TV",
+   "model": "4K AI Smart TV"
+  },
+  {
    "device": "Android_TV_BOX",
    "name": "4K_Edition",
    "model": "4K_Edition"
@@ -65980,16 +65990,6 @@
    "device": "AV-11NT510",
    "name": "AV-11NT510",
    "model": "AV-11NT510"
-  },
-  {
-   "device": "gangbyeon",
-   "name": "Amtran",
-   "model": "4K AI Smart TV"
-  },
-  {
-   "device": "osaki",
-   "name": "Amtran",
-   "model": "2K AI Smart TV"
   },
   {
    "device": "R1",
@@ -66097,11 +66097,6 @@
    "model": "J20"
   },
   {
-   "device": "osaki",
-   "name": "LT-32K397",
-   "model": "2K AI Smart TV"
-  },
-  {
    "device": "ikebukuro",
    "name": "LT-32N3115A",
    "model": "AI PONT"
@@ -66130,6 +66125,11 @@
    "device": "sindorim",
    "name": "LT-55KB597",
    "model": "AI PONT"
+  },
+  {
+   "device": "osaki",
+   "name": "Smart TV",
+   "model": "2K AI Smart TV"
   },
   {
    "device": "tamachi",
@@ -66204,6 +66204,11 @@
   },
   {
    "device": "XM75",
+   "name": "XM75",
+   "model": "XM75"
+  },
+  {
+   "device": "XM75P",
    "name": "XM75",
    "model": "XM75"
   },
@@ -67038,13 +67043,8 @@
  ],
  "KEMPLER STRAUSS": [
   {
-   "device": "kanda",
-   "name": "32FD1",
-   "model": "2K Smart TV"
-  },
-  {
    "device": "gangbyeon",
-   "name": "50F1",
+   "name": "4K Smart TV",
    "model": "4K Smart TV"
   },
   {
@@ -67101,6 +67101,11 @@
    "device": "Kempler_X_Pro",
    "name": "Kempler_X_Pro",
    "model": "Kempler_X_Pro"
+  },
+  {
+   "device": "kanda",
+   "name": "Smart TV",
+   "model": "2K Smart TV"
   },
   {
    "device": "ZKEMPLER",
@@ -70429,7 +70434,7 @@
  "LEVEL TV": [
   {
    "device": "osaki",
-   "name": "32F1D",
+   "name": "Smart TV",
    "model": "2K AI Smart TV"
   }
  ],
@@ -79015,11 +79020,6 @@
    "model": "LAVA LZG402_1"
   },
   {
-   "device": "LZG402_OMI",
-   "name": "Z1S",
-   "model": "LAVA LZG402 OMI"
-  },
-  {
    "device": "LMG01",
    "name": "Z2",
    "model": "LAVA LMG01"
@@ -79028,6 +79028,11 @@
    "device": "LZG402_OM",
    "name": "Z21",
    "model": "LAVA LZG402 OM"
+  },
+  {
+   "device": "LZG402_OMI",
+   "name": "Z21",
+   "model": "LAVA LZG402 OMI"
   },
   {
    "device": "Z25",
@@ -84061,7 +84066,7 @@
   },
   {
    "device": "ueno",
-   "name": "Llinsar",
+   "name": "Smart TV",
    "model": "Linsar 2K Android TV"
   }
  ],
@@ -85158,11 +85163,6 @@
  ],
  "Logik": [
   {
-   "device": "ueno",
-   "name": "L32AHE19",
-   "model": "2K Android TV"
-  },
-  {
    "device": "sadang",
    "name": "LOGIK",
    "model": "LOGIK 4K Android TV"
@@ -85171,6 +85171,11 @@
    "device": "tabata",
    "name": "LOGIK",
    "model": "LOGIK 2K Android TV"
+  },
+  {
+   "device": "ueno",
+   "name": "Smart TV",
+   "model": "2K Android TV"
   }
  ],
  "Logitec": [
@@ -85181,6 +85186,11 @@
   }
  ],
  "Logitech": [
+  {
+   "device": "GR0006",
+   "name": "GR0006",
+   "model": "GR0006"
+  },
   {
    "device": "ka",
    "name": "Revue",
@@ -90199,6 +90209,11 @@
    "device": "E7544",
    "name": "IN_2b",
    "model": "IN_2b"
+  },
+  {
+   "device": "E6533",
+   "name": "IN_2c",
+   "model": "IN_2c"
   },
   {
    "device": "E7746",
@@ -95948,6 +95963,11 @@
    "model": "M10_3G"
   },
   {
+   "device": "ML_JI0C_M10_4G_AC",
+   "name": "M10_4G _AC",
+   "model": "M10_4G_AC"
+  },
+  {
    "device": "ML-SO0C_M10_4G_PRO_PLUS",
    "name": "M10_4G_PRO",
    "model": "M10_4G_PRO"
@@ -98727,6 +98747,16 @@
  ],
  "Nano": [
   {
+   "device": "gangbyeon",
+   "name": "4K Smart TV",
+   "model": "nano 4K AI Smart TV"
+  },
+  {
+   "device": "osaki",
+   "name": "Smart TV",
+   "model": "nano 2K AI Smart TV"
+  },
+  {
    "device": "tamachi",
    "name": "Thailand",
    "model": "Nano FHD Android TV"
@@ -98735,16 +98765,6 @@
    "device": "yeongdeungpo",
    "name": "Thailand",
    "model": "Nano UHD Android TV"
-  },
-  {
-   "device": "gangbyeon",
-   "name": "nano",
-   "model": "nano 4K AI Smart TV"
-  },
-  {
-   "device": "osaki",
-   "name": "nano",
-   "model": "nano 2K AI Smart TV"
   }
  ],
  "NanoTech": [
@@ -99098,9 +99118,24 @@
    "model": "NID-9009"
   },
   {
+   "device": "NID_1021",
+   "name": "NID_1021",
+   "model": "NID-1021"
+  },
+  {
    "device": "NID_1056",
    "name": "NID_1056",
    "model": "NID-1056"
+  },
+  {
+   "device": "NID_7021",
+   "name": "NID_7021",
+   "model": "NID-7021"
+  },
+  {
+   "device": "NID_7022",
+   "name": "NID_7022",
+   "model": "NID-7022"
   },
   {
    "device": "NID_7056",
@@ -101316,11 +101351,6 @@
    "model": "OK 2K Android TV"
   },
   {
-   "device": "osaki",
-   "name": "ODL 32760HN-TAB",
-   "model": "2K AI Smart TV"
-  },
-  {
    "device": "ikebukuro",
    "name": "ODL 32770H-TAB",
    "model": "AI PONT"
@@ -101339,6 +101369,11 @@
    "device": "shinagawa",
    "name": "OK 2K TV",
    "model": "OK 2K TV"
+  },
+  {
+   "device": "osaki",
+   "name": "Smart TV",
+   "model": "2K AI Smart TV"
   },
   {
    "device": "samseong",
@@ -105330,6 +105365,11 @@
    "device": "Neva_Rise_S1",
    "name": "Neva Rise S1",
    "model": "Neva Rise S1"
+  },
+  {
+   "device": "Neva_leaf",
+   "name": "Neva leaf",
+   "model": "Orange Neva leaf"
   },
   {
    "device": "Neva_start",
@@ -115348,6 +115388,31 @@
    "model": "RCT6213W87DK"
   },
   {
+   "device": "pioneer",
+   "name": "4K SA Smart TV",
+   "model": "HKC 4K SA Smart TV"
+  },
+  {
+   "device": "gangbyeon",
+   "name": "4K Smart TV",
+   "model": "4K AI Smart TV"
+  },
+  {
+   "device": "gangbyeon",
+   "name": "4K Smart TV",
+   "model": "4K Smart TV"
+  },
+  {
+   "device": "gangbyeon",
+   "name": "4K Smart TV",
+   "model": "HKC 4K AI Smart TV"
+  },
+  {
+   "device": "gangbyeon",
+   "name": "4K Smart TV",
+   "model": "Treeview 4K AI Smart TV"
+  },
+  {
    "device": "RCT6673W23M",
    "name": "7 Mercury",
    "model": "RCT6673W23M"
@@ -115433,16 +115498,6 @@
    "model": "RCT6A03W13FU"
   },
   {
-   "device": "gangbyeon",
-   "name": "HKC",
-   "model": "HKC 4K AI Smart TV"
-  },
-  {
-   "device": "pioneer",
-   "name": "HKC",
-   "model": "HKC 4K SA Smart TV"
-  },
-  {
    "device": "RCT6A03W12EU",
    "name": "Juno 10",
    "model": "RCT6A03W12EU"
@@ -115493,19 +115548,9 @@
    "model": "RC8T3G21"
   },
   {
-   "device": "gangbyeon",
-   "name": "RCA",
-   "model": "4K AI Smart TV"
-  },
-  {
    "device": "seocho",
    "name": "RCA",
    "model": "RCA 4K Android TV"
-  },
-  {
-   "device": "ueno",
-   "name": "RCA",
-   "model": "2K Android TV"
   },
   {
    "device": "DRP2091",
@@ -115808,19 +115853,14 @@
    "model": "RLTP5573"
   },
   {
-   "device": "osaki",
-   "name": "RS43F2-EU",
-   "model": "2K AI Smart TV"
-  },
-  {
-   "device": "kanda",
-   "name": "RTA3201",
-   "model": "2K Smart TV"
-  },
-  {
    "device": "Reno_Pro",
    "name": "Reno_Pro",
    "model": "Reno Pro"
+  },
+  {
+   "device": "kanda",
+   "name": "Smart TV",
+   "model": "2K Smart TV"
   },
   {
    "device": "mateo",
@@ -115838,24 +115878,24 @@
    "model": "HKC 2K SA Smart TV"
   },
   {
-   "device": "gangbyeon",
-   "name": "Tree",
-   "model": "Treeview 4K AI Smart TV"
+   "device": "osaki",
+   "name": "Smart TV",
+   "model": "2K AI Smart TV"
   },
   {
    "device": "osaki",
-   "name": "Tree",
+   "name": "Smart TV",
    "model": "Treeview 2K AI Smart TV"
   },
   {
    "device": "osaki",
-   "name": "UNICO",
+   "name": "Smart TV",
    "model": "UNICO 2K AI Smart TV"
   },
   {
-   "device": "gangbyeon",
-   "name": "US",
-   "model": "4K Smart TV"
+   "device": "ueno",
+   "name": "Smart TV",
+   "model": "2K Android TV"
   },
   {
    "device": "RCT6873W42BMF8",
@@ -116164,11 +116204,6 @@
   }
  ],
  "Realme": [
-  {
-   "device": "gangbyeon",
-   "name": "50F1",
-   "model": "4K AI Smart TV"
-  },
   {
    "device": "RMX2020",
    "name": "RMX2020",
@@ -118696,6 +118731,13 @@
    "model": "GO5E"
   }
  ],
+ "SENSETALK": [
+  {
+   "device": "ACM-T01K",
+   "name": "ACM-T01K",
+   "model": "ACM-T01K"
+  }
+ ],
  "SERVO": [
   {
    "device": "P20",
@@ -120133,7 +120175,7 @@
   },
   {
    "device": "kanda",
-   "name": "SUPERSONIC",
+   "name": "Smart TV",
    "model": "SUPERSONIC 2K Smart TV"
   },
   {
@@ -120248,9 +120290,9 @@
  ],
  "SYLVANIA": [
   {
-   "device": "kanda",
-   "name": "SL321AN",
-   "model": "2K Smart TV"
+   "device": "gangbyeon",
+   "name": "4K Smart TV",
+   "model": "4K Smart TV"
   },
   {
    "device": "mdt1005_mk_32",
@@ -120268,9 +120310,9 @@
    "model": "SLTDVD9220-C"
   },
   {
-   "device": "gangbyeon",
-   "name": "US",
-   "model": "4K Smart TV"
+   "device": "kanda",
+   "name": "Smart TV",
+   "model": "2K Smart TV"
   }
  ],
  "SZSUPER": [
@@ -121525,7 +121567,22 @@
   {
    "device": "a33x",
    "name": "Galaxy A33 5G",
+   "model": "SM-A3360"
+  },
+  {
+   "device": "a33x",
+   "name": "Galaxy A33 5G",
    "model": "SM-A336B"
+  },
+  {
+   "device": "a33x",
+   "name": "Galaxy A33 5G",
+   "model": "SM-A336E"
+  },
+  {
+   "device": "a33x",
+   "name": "Galaxy A33 5G",
+   "model": "SM-A336M"
   },
   {
    "device": "a40",
@@ -121971,6 +122028,31 @@
    "device": "a52sxq",
    "name": "Galaxy A52s 5G",
    "model": "SM-A528N"
+  },
+  {
+   "device": "a53x",
+   "name": "Galaxy A53 5G",
+   "model": "SM-A5360"
+  },
+  {
+   "device": "a53x",
+   "name": "Galaxy A53 5G",
+   "model": "SM-A536B"
+  },
+  {
+   "device": "a53x",
+   "name": "Galaxy A53 5G",
+   "model": "SM-A536E"
+  },
+  {
+   "device": "a53x",
+   "name": "Galaxy A53 5G",
+   "model": "SM-A536N"
+  },
+  {
+   "device": "a53x",
+   "name": "Galaxy A53 5G UW",
+   "model": "SM-A536V"
   },
   {
    "device": "a6elteaio",
@@ -126403,6 +126485,11 @@
    "model": "SM-N770F"
   },
   {
+   "device": "SC-01M",
+   "name": "Galaxy Note10+",
+   "model": "SC-01M"
+  },
+  {
    "device": "SCV45",
    "name": "Galaxy Note10+",
    "model": "SCV45"
@@ -126626,6 +126713,16 @@
    "device": "c2s",
    "name": "Galaxy Note20 Ultra",
    "model": "SM-N985F"
+  },
+  {
+   "device": "SC-53A",
+   "name": "Galaxy Note20 Ultra 5G",
+   "model": "SC-53A"
+  },
+  {
+   "device": "SCG06",
+   "name": "Galaxy Note20 Ultra 5G",
+   "model": "SCG06"
   },
   {
    "device": "c2q",
@@ -127918,11 +128015,6 @@
    "model": "SM-G8750"
   },
   {
-   "device": "SC-03L",
-   "name": "Galaxy S10",
-   "model": "SC-03L"
-  },
-  {
    "device": "SCV41",
    "name": "Galaxy S10",
    "model": "SCV41"
@@ -128001,11 +128093,6 @@
    "device": "r5q",
    "name": "Galaxy S10 Lite",
    "model": "SM-G770U1"
-  },
-  {
-   "device": "SC-04L",
-   "name": "Galaxy S10+",
-   "model": "SC-04L"
   },
   {
    "device": "SCV42",
@@ -128418,9 +128505,9 @@
    "model": "SM-G985F"
   },
   {
-   "device": "SC-52A",
+   "device": "SCG02",
    "name": "Galaxy S20+ 5G",
-   "model": "SC-52A"
+   "model": "SCG02"
   },
   {
    "device": "y2q",
@@ -134077,24 +134164,24 @@
  ],
  "Sceptre": [
   {
-   "device": "kanda",
-   "name": "A322BV-SRC",
-   "model": "2K Smart TV"
-  },
-  {
    "device": "gangbyeon",
-   "name": "Sceptre",
+   "name": "4K Smart TV",
    "model": "4K Smart TV"
   },
   {
    "device": "gangbyeon",
-   "name": "TATUNG",
+   "name": "4K Smart TV",
    "model": "TATUNG 4K AI Smart TV"
   },
   {
    "device": "gangbyeon",
-   "name": "imiia",
+   "name": "4K Smart TV",
    "model": "imiia 4K AI Smart TV"
+  },
+  {
+   "device": "kanda",
+   "name": "Smart TV",
+   "model": "2K Smart TV"
   }
  ],
  "Schok": [
@@ -137558,6 +137645,11 @@
    "model": "Elite J55"
   },
   {
+   "device": "Elite_J55US",
+   "name": "Elite_J55US",
+   "model": "Elite J55US"
+  },
+  {
    "device": "Elite_OctaXkk3",
    "name": "Elite_OctaX",
    "model": "Elite OctaX"
@@ -137871,6 +137963,11 @@
    "device": "SKY_Pro_III",
    "name": "SKY_Pro_III",
    "model": "SKY_Pro_III"
+  },
+  {
+   "device": "SKY_prestigeMax",
+   "name": "SKY_prestigeMax",
+   "model": "SKY_prestigeMax"
   },
   {
    "device": "Sky_Vision2",
@@ -138620,11 +138717,6 @@
  ],
  "Soniq": [
   {
-   "device": "osaki",
-   "name": "G32HW60A",
-   "model": "2K AI Smart TV"
-  },
-  {
    "device": "PT0719A",
    "name": "PT0719A",
    "model": "PT0719A"
@@ -138633,6 +138725,11 @@
    "device": "PT1019A",
    "name": "PT1019A",
    "model": "PT1019A"
+  },
+  {
+   "device": "osaki",
+   "name": "Smart TV",
+   "model": "2K AI Smart TV"
   },
   {
    "device": "hanyang",
@@ -153126,6 +153223,11 @@
   {
    "device": "Teclast_T40Pro",
    "name": "T40Pro",
+   "model": "T40 PRO_ROW"
+  },
+  {
+   "device": "Teclast_T40Pro",
+   "name": "T40Pro",
    "model": "T40Pro"
   },
   {
@@ -153389,6 +153491,11 @@
    "device": "TECNO-CH6n",
    "name": "CAMON 18",
    "model": "TECNO CH6n"
+  },
+  {
+   "device": "TECNO-Mobile-CH6n",
+   "name": "CAMON 18",
+   "model": "TECNO Mobile CH6n"
   },
   {
    "device": "TECNO-CH7",
@@ -154244,6 +154351,16 @@
    "device": "TECNO-K9",
    "name": "TECNO K9",
    "model": "TECNO K9"
+  },
+  {
+   "device": "TECNO-Mobile-KG6k",
+   "name": "TECNO Mobile SPARK 8",
+   "model": "TECNO Mobile KG6k"
+  },
+  {
+   "device": "TECNO-Mobile-KG6p",
+   "name": "TECNO Mobile SPARK 8T",
+   "model": "TECNO Mobile KG6p"
   },
   {
    "device": "TECNO-P904",
@@ -157215,18 +157332,18 @@
  ],
  "UNITED TV": [
   {
+   "device": "gangbyeon",
+   "name": "4K Smart TV",
+   "model": "4K AI Smart TV"
+  },
+  {
    "device": "ikebukuro",
    "name": "LED32HS72A9",
    "model": "AI PONT"
   },
   {
-   "device": "gangbyeon",
-   "name": "UNITED",
-   "model": "4K AI Smart TV"
-  },
-  {
    "device": "osaki",
-   "name": "UNITED",
+   "name": "Smart TV",
    "model": "2K AI Smart TV"
   }
  ],
@@ -165264,11 +165381,6 @@
  ],
  "Walton": [
   {
-   "device": "osaki",
-   "name": "32FD1",
-   "model": "2K AI Smart TV"
-  },
-  {
    "device": "tamachi",
    "name": "Bangladesh and EU",
    "model": "WALTON Android TV"
@@ -165779,6 +165891,11 @@
    "model": "RX7 Mini"
   },
   {
+   "device": "osaki",
+   "name": "Smart TV",
+   "model": "2K AI Smart TV"
+  },
+  {
    "device": "Walpad_10H",
    "name": "WALPAD 10H",
    "model": "Walpad_10H"
@@ -165987,6 +166104,11 @@
  ],
  "Westinghouse": [
   {
+   "device": "ueno",
+   "name": "Smart TV",
+   "model": "2K Android TV"
+  },
+  {
    "device": "W10TWF19",
    "name": "W10TWF19",
    "model": "W10TWF19"
@@ -166020,11 +166142,6 @@
    "device": "WH10S9863232",
    "name": "WH10S9863232",
    "model": "WH10S9863232"
-  },
-  {
-   "device": "ueno",
-   "name": "West",
-   "model": "2K Android TV"
   }
  ],
  "Wexler": [
@@ -169101,6 +169218,11 @@
    "device": "venus",
    "name": "Mi 11",
    "model": "M2011K2G"
+  },
+  {
+   "device": "lisa",
+   "name": "Mi 11 LE",
+   "model": "2107119DC"
   },
   {
    "device": "courbet",
@@ -182342,6 +182464,11 @@
    "model": "4K Google TV Stick"
   },
   {
+   "device": "gangbyeon",
+   "name": "4K Smart TV",
+   "model": "4K AI Smart TV"
+  },
+  {
    "device": "RED8F6",
    "name": "RMX3269",
    "model": "RMX3269"
@@ -182573,6 +182700,11 @@
   },
   {
    "device": "RE548BL1",
+   "name": "真我Q3s",
+   "model": "RMX3461"
+  },
+  {
+   "device": "RE54BFL1",
    "name": "真我Q3s",
    "model": "RMX3461"
   }
