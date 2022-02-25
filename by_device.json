@@ -120962,6 +120962,13 @@
    "model": "FEVER_PLUS_H"
   }
  ],
+ "FORCE": [
+  {
+   "brand": "Mobicell",
+   "name": "FORCE",
+   "model": "FORCE"
+  }
+ ],
  "FRIO": [
   {
    "brand": "Mobicell",
@@ -125224,6 +125231,18 @@
    "model": "moto g stylus (XT2115DL)"
   }
  ],
+ "milan": [
+  {
+   "brand": "Motorola",
+   "name": "moto g stylus (2022)",
+   "model": "moto g stylus (2022)"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g stylus (2022)",
+   "model": "motorola"
+  }
+ ],
  "denver": [
   {
    "brand": "Motorola",
@@ -127417,6 +127436,13 @@
    "brand": "MwalimuPlus",
    "name": "MP01A3G",
    "model": "MP01A3G"
+  }
+ ],
+ "shandao": [
+  {
+   "brand": "My",
+   "name": "Android TV",
+   "model": "Android TV"
   }
  ],
  "tokyo": [
@@ -152778,6 +152804,11 @@
    "brand": "Redmi",
    "name": "Redmi Note 11 Pro+",
    "model": "21091116UC"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 11 Pro+ 5G",
+   "model": "21091116UG"
   }
  ],
  "miel": [

@@ -123347,6 +123347,13 @@
    "device": "FEVER_PLUS_H"
   }
  ],
+ "FORCE": [
+  {
+   "brand": "Mobicell",
+   "name": "FORCE",
+   "device": "FORCE"
+  }
+ ],
  "FRIO": [
   {
    "brand": "Mobicell",
@@ -127788,6 +127795,45 @@
    "device": "minsk"
   }
  ],
+ "moto g stylus (2022)": [
+  {
+   "brand": "Motorola",
+   "name": "moto g stylus (2022)",
+   "device": "milan"
+  }
+ ],
+ "motorola": [
+  {
+   "brand": "Motorola",
+   "name": "moto g stylus (2022)",
+   "device": "milan"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g31",
+   "device": "cofud"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g31",
+   "device": "coful"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g41",
+   "device": "corfu"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 20 fusion",
+   "device": "kyoto"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 20 lite",
+   "device": "kyoto"
+  }
+ ],
  "moto g stylus 5G": [
   {
    "brand": "Motorola",
@@ -128152,33 +128198,6 @@
    "brand": "Motorola",
    "name": "moto g31",
    "device": "cofud"
-  }
- ],
- "motorola": [
-  {
-   "brand": "Motorola",
-   "name": "moto g31",
-   "device": "cofud"
-  },
-  {
-   "brand": "Motorola",
-   "name": "moto g31",
-   "device": "coful"
-  },
-  {
-   "brand": "Motorola",
-   "name": "moto g41",
-   "device": "corfu"
-  },
-  {
-   "brand": "Motorola",
-   "name": "motorola edge 20 fusion",
-   "device": "kyoto"
-  },
-  {
-   "brand": "Motorola",
-   "name": "motorola edge 20 lite",
-   "device": "kyoto"
   }
  ],
  "moto g31": [
@@ -129988,6 +130007,11 @@
   }
  ],
  "Android TV": [
+  {
+   "brand": "My",
+   "name": "Android TV",
+   "device": "shandao"
+  },
   {
    "brand": "My",
    "name": "Android TV",
@@ -156321,6 +156345,13 @@
   {
    "brand": "Redmi",
    "name": "Redmi Note 11 Pro+",
+   "device": "pissarropro"
+  }
+ ],
+ "21091116UG": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 11 Pro+ 5G",
    "device": "pissarropro"
   }
  ],

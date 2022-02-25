@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-02-24
+Last sync is 2022-02-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17770,6 +17770,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|FENDY_DS|FENDY_DS|FENDY_DS|
 |Mobicell|FEVER|FEVER|FEVER|
 |Mobicell|FEVER_PLUS_H|FEVER_PLUS_H|FEVER_PLUS_H|
+|Mobicell|FORCE|FORCE|FORCE|
 |Mobicell|FRIO|FRIO|FRIO|
 |Mobicell|Fendy plus|Fendy_plus|Fendy plus|
 |Mobicell|Fever_Plus|Fever_Plus|Fever_Plus|
@@ -18449,6 +18450,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g stylus (2021)|minsk|moto g stylus|
 |Motorola|moto g stylus (2021)|minsk|moto g stylus (2021)|
 |Motorola|moto g stylus (2021)|minsk|moto g stylus (XT2115DL)|
+|Motorola|moto g stylus (2022)|milan|moto g stylus (2022)|
+|Motorola|moto g stylus (2022)|milan|motorola|
 |Motorola|moto g stylus 5G|denver|moto g stylus (2021)|
 |Motorola|moto g stylus 5G|denver|moto g stylus 5G|
 |Motorola|moto g(10)|capri|moto e(7) plus|
@@ -18805,6 +18808,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|Sikur|Multilaser_GMax_2_Sikur|Multilaser_GMax_2_Sikur|
 |Multilaser|ULTRA 10|ML_SO0C_ULTRA_10|ULTRA_10|
 |MwalimuPlus|MP01A3G|MP01A3G|MP01A3G|
+|My|Android TV|shandao|Android TV|
 |My|Android TV|tokyo|Android TV|
 |My|Android TV|yeoksam|Android TV|
 |My|Android TV|yeoksam|AndroidTV|
@@ -22847,6 +22851,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 11 Pro 5G|veux|2201116SG|
 |Redmi|Redmi Note 11 Pro 5G|veux|2201116SR|
 |Redmi|Redmi Note 11 Pro+|pissarropro|21091116UC|
+|Redmi|Redmi Note 11 Pro+ 5G|pissarropro|21091116UG|
 |Redmi|Redmi Note 11E Pro|veux|2201116SC|
 |Redmi|Redmi Note 11S|fleur|2201117SY|
 |Redmi|Redmi Note 11S|miel|2201117SG|
