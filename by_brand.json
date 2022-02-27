@@ -18459,6 +18459,11 @@
    "model": "AiPlus2K"
   },
   {
+   "device": "patrick",
+   "name": "South of America",
+   "model": "Aipro4K"
+  },
+  {
    "device": "yeongdeungpo",
    "name": "USA",
    "model": "AiPlus4K"
@@ -28858,9 +28863,24 @@
    "model": "SH960C-DS"
   },
   {
+   "device": "SNAP2",
+   "name": "Hopper Plus",
+   "model": "Hopper Plus"
+  },
+  {
+   "device": "ATVMJ4",
+   "name": "Joey 4",
+   "model": "Joey 4"
+  },
+  {
    "device": "HiCast",
    "name": "SV10",
    "model": "SV10"
+  },
+  {
+   "device": "ATVWJ4",
+   "name": "Wireless Joey 4",
+   "model": "Wireless Joey 4"
   }
  ],
  "DishTV (IN)": [
@@ -96213,6 +96233,11 @@
    "model": "M8-4G"
   },
   {
+   "device": "ML_JI0I_M8_4G",
+   "name": "M8 4G",
+   "model": "M8_4G"
+  },
+  {
    "device": "ML_SO0J_M8_4G",
    "name": "M8 4G",
    "model": "M8_4G"
@@ -107018,6 +107043,11 @@
    "device": "R1",
    "name": "Android TV",
    "model": "PANASONIC TV"
+  },
+  {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
   },
   {
    "device": "R2",
@@ -143530,6 +143560,11 @@
    "model": "G10+"
   },
   {
+   "device": "G50",
+   "name": "G50",
+   "model": "G50"
+  },
+  {
    "device": "H300",
    "name": "H300",
    "model": "H300"
@@ -144763,6 +144798,11 @@
    "device": "Tokyo_Lite",
    "name": "TCL L9S",
    "model": "5107J"
+  },
+  {
+   "device": "Odin2",
+   "name": "TCL NXTPAPER 10s",
+   "model": "9081X"
   },
   {
    "device": "T1",
@@ -182552,6 +182592,21 @@
    "device": "RMX3081L1",
    "name": "realme 8 Pro",
    "model": "RMX3081"
+  },
+  {
+   "device": "RE879EL1",
+   "name": "realme 9 Pro+",
+   "model": "RMX3392"
+  },
+  {
+   "device": "RE879EL1",
+   "name": "realme 9 Pro+",
+   "model": "RMX3393"
+  },
+  {
+   "device": "RED8C1L1",
+   "name": "realme 9i",
+   "model": "RMX3493"
   },
   {
    "device": "RED8C1L1",

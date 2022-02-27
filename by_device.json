@@ -4688,6 +4688,11 @@
   {
    "brand": "Panasonic",
    "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "Android TV",
    "model": "PANASONIC TV"
   },
   {
@@ -29098,6 +29103,11 @@
    "brand": "CAIXUN",
    "name": "Columbia",
    "model": "Aiplus4K"
+  },
+  {
+   "brand": "CAIXUN",
+   "name": "South of America",
+   "model": "Aipro4K"
   }
  ],
  "martin": [
@@ -43698,6 +43708,20 @@
    "model": "SH960C-DS"
   }
  ],
+ "SNAP2": [
+  {
+   "brand": "Dish",
+   "name": "Hopper Plus",
+   "model": "Hopper Plus"
+  }
+ ],
+ "ATVMJ4": [
+  {
+   "brand": "Dish",
+   "name": "Joey 4",
+   "model": "Joey 4"
+  }
+ ],
  "HiCast": [
   {
    "brand": "Dish",
@@ -43708,6 +43732,13 @@
    "brand": "DishTV-NZ",
    "name": "SV10",
    "model": "SV10"
+  }
+ ],
+ "ATVWJ4": [
+  {
+   "brand": "Dish",
+   "name": "Wireless Joey 4",
+   "model": "Wireless Joey 4"
   }
  ],
  "SEI110": [
@@ -47487,6 +47518,11 @@
   },
   {
    "brand": "Swissvoice",
+   "name": "G50",
+   "model": "G50"
+  },
+  {
+   "brand": "Symphony",
    "name": "G50",
    "model": "G50"
   }
@@ -126894,6 +126930,13 @@
    "model": "M8-4G"
   }
  ],
+ "ML_JI0I_M8_4G": [
+  {
+   "brand": "Multilaser",
+   "name": "M8 4G",
+   "model": "M8_4G"
+  }
+ ],
  "ML_SO0J_M8_4G": [
   {
    "brand": "Multilaser",
@@ -186426,6 +186469,11 @@
    "brand": "TCL",
    "name": "TAB 10s New",
    "model": "9081X"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL NXTPAPER 10s",
+   "model": "9081X"
   }
  ],
  "Seattle": [
@@ -229092,7 +229140,24 @@
    "model": "RMX2151"
   }
  ],
+ "RE879EL1": [
+  {
+   "brand": "realme",
+   "name": "realme 9 Pro+",
+   "model": "RMX3392"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 9 Pro+",
+   "model": "RMX3393"
+  }
+ ],
  "RED8C1L1": [
+  {
+   "brand": "realme",
+   "name": "realme 9i",
+   "model": "RMX3493"
+  },
   {
    "brand": "realme",
    "name": "realme 9i",

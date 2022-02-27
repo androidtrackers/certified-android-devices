@@ -9105,6 +9105,11 @@
   {
    "brand": "Panasonic",
    "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Panasonic",
+   "device": "R2",
    "model": "PANASONIC TV"
   },
   {
@@ -30450,6 +30455,11 @@
    "brand": "Swissvoice",
    "device": "G50",
    "model": "G50"
+  },
+  {
+   "brand": "Symphony",
+   "device": "G50",
+   "model": "G50"
   }
  ],
  "G50 MEGA": [
@@ -33450,6 +33460,11 @@
    "brand": "CAIXUN",
    "device": "martin",
    "model": "AiPlus2K"
+  },
+  {
+   "brand": "CAIXUN",
+   "device": "patrick",
+   "model": "Aipro4K"
   }
  ],
  "USA": [
@@ -47945,6 +47960,20 @@
    "model": "EVOLVE"
   }
  ],
+ "Hopper Plus": [
+  {
+   "brand": "Dish",
+   "device": "SNAP2",
+   "model": "Hopper Plus"
+  }
+ ],
+ "Joey 4": [
+  {
+   "brand": "Dish",
+   "device": "ATVMJ4",
+   "model": "Joey 4"
+  }
+ ],
  "SV10": [
   {
    "brand": "Dish",
@@ -47955,6 +47984,13 @@
    "brand": "DishTV-NZ",
    "device": "HiCast",
    "model": "SV10"
+  }
+ ],
+ "Wireless Joey 4": [
+  {
+   "brand": "Dish",
+   "device": "ATVWJ4",
+   "model": "Wireless Joey 4"
   }
  ],
  "D-805XATV HD": [
@@ -127568,6 +127604,11 @@
   },
   {
    "brand": "Multilaser",
+   "device": "ML_JI0I_M8_4G",
+   "model": "M8_4G"
+  },
+  {
+   "brand": "Multilaser",
    "device": "ML_SO0J_M8_4G",
    "model": "M8_4G"
   },
@@ -184290,6 +184331,13 @@
    "model": "5107J"
   }
  ],
+ "TCL NXTPAPER 10s": [
+  {
+   "brand": "TCL",
+   "device": "Odin2",
+   "model": "9081X"
+  }
+ ],
  "TCL PLEX": [
   {
    "brand": "TCL",
@@ -226661,7 +226709,24 @@
    "model": "RMX3081"
   }
  ],
+ "realme 9 Pro+": [
+  {
+   "brand": "realme",
+   "device": "RE879EL1",
+   "model": "RMX3392"
+  },
+  {
+   "brand": "realme",
+   "device": "RE879EL1",
+   "model": "RMX3393"
+  }
+ ],
  "realme 9i": [
+  {
+   "brand": "realme",
+   "device": "RED8C1L1",
+   "model": "RMX3493"
+  },
   {
    "brand": "realme",
    "device": "RED8C1L1",

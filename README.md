@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-02-26
+Last sync is 2022-02-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3579,6 +3579,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CAIXUN|Malaysia|yeongdeungpo|AiPlus4KMY|
 |CAIXUN|Mexico|yeongdeungpo|AiPlus4K|
 |CAIXUN|South of America|martin|AiPlus2K|
+|CAIXUN|South of America|patrick|Aipro4K|
 |CAIXUN|USA|yeongdeungpo|AiPlus4K|
 |CALME|LT5|LT5|LT5|
 |CANAL-PLUS|CANAL+ BOX|HY40A2|CANAL PLUS BOX|
@@ -5574,7 +5575,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dish|AirTV Player|uiw4010ech|AirTV Player|
 |Dish|Celero 5G|Jupiter|WTCELERO5G|
 |Dish|EVOLVE|dish_cable_bcm|SH960C-DS|
+|Dish|Hopper Plus|SNAP2|Hopper Plus|
+|Dish|Joey 4|ATVMJ4|Joey 4|
 |Dish|SV10|HiCast|SV10|
+|Dish|Wireless Joey 4|ATVWJ4|Wireless Joey 4|
 |DishTV (IN)|D-805XATV HD|SEI110|D-805XATV HD|
 |DishTV-NZ|A7070|STB|A7070|
 |DishTV-NZ|SV10|HiCast|SV10|
@@ -18729,6 +18733,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M7s Quad Core|astar-ococci|ML01-M7S-Quad-Core|
 |Multilaser|M7sLite|ML-SO06-M7sLite|M7sLite|
 |Multilaser|M8 4G|ML-WI0G-M8-4G|M8-4G|
+|Multilaser|M8 4G|ML_JI0I_M8_4G|M8_4G|
 |Multilaser|M8 4G|ML_SO0J_M8_4G|M8_4G|
 |Multilaser|M8 4G|ML_SO1J_M8_4G|M8_4G|
 |Multilaser|M8 Wifi|ML_SO0F_M8_WIFI|M8_WIFI|
@@ -20816,6 +20821,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|Altus 4K 24|Altus4K24|Qualcomm elite|
 |Panasonic|Altus4K43|Altus4K43|Qualcomm elite|
 |Panasonic|Android TV|R1|PANASONIC TV|
+|Panasonic|Android TV|R2|ATV R2|
 |Panasonic|Android TV|R2|PANASONIC TV|
 |Panasonic|Android TV|R4|PANASONIC TV|
 |Panasonic|Asia|globe_ap|PanasonicTV|
@@ -27978,6 +27984,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|G10|G10|Symphony G10|
 |Symphony|G100|G100|Symphony G100|
 |Symphony|G10plus|G10plus|G10+|
+|Symphony|G50|G50|G50|
 |Symphony|H300|H300|H300|
 |Symphony|H400|H400|H400|
 |Symphony|H58|H58|H58|
@@ -28221,6 +28228,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL L9 Plus|Wright|5101J|
 |TCL|TCL L9S|Tokyo_Lite|5107G|
 |TCL|TCL L9S|Tokyo_Lite|5107J|
+|TCL|TCL NXTPAPER 10s|Odin2|9081X|
 |TCL|TCL PLEX|T1|T780H|
 |TCL|TCL PLEX|T1_L1|T780H|
 |TCL|TCL T Pro|Jakarta|5130M|
@@ -35570,6 +35578,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 8|RMX3085L1|RMX3085|
 |realme|realme 8 5G|RE513CL1|RMX3241|
 |realme|realme 8 Pro|RMX3081L1|RMX3081|
+|realme|realme 9 Pro+|RE879EL1|RMX3392|
+|realme|realme 9 Pro+|RE879EL1|RMX3393|
+|realme|realme 9i|RED8C1L1|RMX3493|
 |realme|realme 9i|RED8C1L1|RMX3493|
 |realme|realme C11 2021|RMX3231|RMX3231|
 |realme|realme C15 Qualcomm Edition|RMX2195L1|RMX2195|
