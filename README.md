@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-02-27
+Last sync is 2022-02-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -702,6 +702,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiwa|AWM580|AWM580|AWM580|
 |Aiwa|AWM599|AWM599|AWM599|
 |Aiwa|AWM999|AWM999|AWM999|
+|Aiwa|AWT10H|AWT10H|AWT10H|
 |Aiwa|Aiwa|KSTB6043|KSTB6043|
 |Aiwa|Android TV|ikebukuro|AI PONT|
 |Aiwa|Android TV|samseong|AI PONT|
@@ -12839,7 +12840,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|JVC|seocho|JVC SA 4K Android TV|
 |JVC|JVC|seocho|JVC US 4K Android TV|
 |JVC|JVC|seocho|SA 4K Android TV|
-|JVC|JVC|shilin|JVC PA 4K Android TV|
 |JVC|JVC|sugamo|JVC 2K Android TV|
 |JVC|JVC|sugamo|JVC SA 2K Android TV|
 |JVC|JVC|sugamo|JVC US 2K Android TV|
@@ -16822,6 +16822,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MTC|Hansung|seocho|Hansung 4K Android TV|
 |MTC|Infiniton|bangbae|Infiniton 4K Android TV|
 |MTC|Infiniton|komagome|Infiniton 2K Android TV|
+|MTC|JVC|shilin|JVC PA 4K Android TV|
 |MTC|MTC|seocho|DWSUMMUS 4K Android TV|
 |MTC|MTC|seocho|Posfic 4K Android TV|
 |MTC|MTC|seocho|WasabiMango 4K Android TV|

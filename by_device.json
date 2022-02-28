@@ -7823,6 +7823,13 @@
    "model": "AWM999"
   }
  ],
+ "AWT10H": [
+  {
+   "brand": "Aiwa",
+   "name": "AWT10H",
+   "model": "AWT10H"
+  }
+ ],
  "KSTB6043": [
   {
    "brand": "Aiwa",
@@ -89529,13 +89536,6 @@
    "model": "JVC PA 2K Android TV"
   }
  ],
- "shilin": [
-  {
-   "brand": "JVC",
-   "name": "JVC",
-   "model": "JVC PA 4K Android TV"
-  }
- ],
  "Cunda": [
   {
    "brand": "JVC",
@@ -114756,6 +114756,13 @@
    "brand": "MTC",
    "name": "982",
    "model": "MTC 982"
+  }
+ ],
+ "shilin": [
+  {
+   "brand": "MTC",
+   "name": "JVC",
+   "model": "JVC PA 4K Android TV"
   }
  ],
  "Osmartphona": [

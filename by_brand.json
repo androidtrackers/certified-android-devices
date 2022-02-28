@@ -3686,6 +3686,11 @@
    "model": "AWM999"
   },
   {
+   "device": "AWT10H",
+   "name": "AWT10H",
+   "model": "AWT10H"
+  },
+  {
    "device": "KSTB6043",
    "name": "Aiwa",
    "model": "KSTB6043"
@@ -66087,11 +66092,6 @@
    "model": "SA 4K Android TV"
   },
   {
-   "device": "shilin",
-   "name": "JVC",
-   "model": "JVC PA 4K Android TV"
-  },
-  {
    "device": "sugamo",
    "name": "JVC",
    "model": "JVC 2K Android TV"
@@ -86444,6 +86444,11 @@
    "device": "komagome",
    "name": "Infiniton",
    "model": "Infiniton 2K Android TV"
+  },
+  {
+   "device": "shilin",
+   "name": "JVC",
+   "model": "JVC PA 4K Android TV"
   },
   {
    "device": "seocho",

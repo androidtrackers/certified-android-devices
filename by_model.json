@@ -6466,6 +6466,13 @@
    "device": "AWM999"
   }
  ],
+ "AWT10H": [
+  {
+   "brand": "Aiwa",
+   "name": "AWT10H",
+   "device": "AWT10H"
+  }
+ ],
  "KSTB6043": [
   {
    "brand": "Aiwa",
@@ -90478,13 +90485,6 @@
    "device": "seocho"
   }
  ],
- "JVC PA 4K Android TV": [
-  {
-   "brand": "JVC",
-   "name": "JVC",
-   "device": "shilin"
-  }
- ],
  "JVC 2K Android TV": [
   {
    "brand": "JVC",
@@ -117051,6 +117051,13 @@
    "brand": "MTC",
    "name": "Infiniton",
    "device": "komagome"
+  }
+ ],
+ "JVC PA 4K Android TV": [
+  {
+   "brand": "MTC",
+   "name": "JVC",
+   "device": "shilin"
   }
  ],
  "DWSUMMUS 4K Android TV": [

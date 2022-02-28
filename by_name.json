@@ -12161,6 +12161,13 @@
    "model": "AWM999"
   }
  ],
+ "AWT10H": [
+  {
+   "brand": "Aiwa",
+   "device": "AWT10H",
+   "model": "AWT10H"
+  }
+ ],
  "Aiwa": [
   {
    "brand": "Aiwa",
@@ -92981,11 +92988,6 @@
   },
   {
    "brand": "JVC",
-   "device": "shilin",
-   "model": "JVC PA 4K Android TV"
-  },
-  {
-   "brand": "JVC",
    "device": "sugamo",
    "model": "JVC 2K Android TV"
   },
@@ -93003,6 +93005,11 @@
    "brand": "JVC",
    "device": "sugamo",
    "model": "US 2K Android TV"
+  },
+  {
+   "brand": "MTC",
+   "device": "shilin",
+   "model": "JVC PA 4K Android TV"
   }
  ],
  "JVC J20": [
