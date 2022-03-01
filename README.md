@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-02-28
+Last sync is 2022-03-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3169,6 +3169,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|C5L 2021|C0100TT|C5L 2021|
 |Blu|C5L 2021|C0101TT|C5L 2021|
 |Blu|C5L 2021|C0110WW|C5L 2021|
+|Blu|C5L IW|C017U|C5L|
 |Blu|C5L Max|C0170WW|C5L Max|
 |Blu|C5L+ 2021|C0130WW|C5L+ 2021|
 |Blu|C5L_2020|C0070WW|C5L 2020|
@@ -3226,6 +3227,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G50 MEGA|G0390WW|G50 Mega|
 |Blu|G50 Plus|G0350WW|G50 Plus|
 |Blu|G51 Plus|G0510WW|G51 Plus|
+|Blu|G51S|G0580WW|G51S|
 |Blu|G51S|G0590WW|G51S|
 |Blu|G6|G0210|G6|
 |Blu|G60|G0270WW|G60|
@@ -7105,6 +7107,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Tab|C9|C9|C9|
 |G-Tab|F1|F1|F1|
 |G-Tab|F10|F10|F10|
+|G-Tab|F1_1|F1_1|F1_1|
 |G-Tab|F2|F2|F2|
 |G-Tab|F2X|F2X|F2X|
 |G-Tab|F4|F4|F4|
@@ -11968,8 +11971,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinity|10.1-v3|Infinity_101_v3|Infinity-10.1-v3|
 |Infinity|Infinity|Infinity|Infinity|
 |Infinix|32X1|ikebukuro|AI PONT|
-|Infinix|43X3|beaudry|Infinix AndroidTV|
 |Infinix|55X1|samseong|AI PONT|
+|Infinix|"APAC|Africa"|beaudry|
 |Infinix|HOT  11|Infinix-X689F|Infinix X689F|
 |Infinix|HOT 10|Infinix-X682B|Infinix X682B|
 |Infinix|HOT 10|Infinix-X682C|Infinix X682C|
@@ -11984,6 +11987,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|HOT 11|Infinix-X662|Infinix X662|
 |Infinix|HOT 11|Infinix-X662B|Infinix X662B|
 |Infinix|HOT 11|Infinix-X689F|Infinix X689F|
+|Infinix|HOT 11 2022|Infinix-X675|Infinix X675|
 |Infinix|HOT 11S|Infinix-X6812|Infinix X6812|
 |Infinix|HOT 2|Infinix_X510|Infinix X510|
 |Infinix|HOT 3|INFINIX-X554|Infinix HOT 3 Pro|
@@ -12620,13 +12624,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|A55|itel-W6003|itel W6003|
 |Itel|A58|itel-A661W|itel A661W|
 |Itel|A62|itel-A62|itel A62|
+|Itel|"APAC|Africa"|barking|
+|Itel|"APAC|Africa"|beaudry|
 |Itel|F311|Spice-F311|Spice F311|
 |Itel|F3116|itel-A571WM|itel A571W|
 |Itel|F3116|itel-A571WM|itel A571WM|
 |Itel|G4310IE|ikebukuro|AI PONT|
-|Itel|G4350|beaudry|itel AndroidTV|
 |Itel|G5524BE|samseong|AI PONT|
-|Itel|G5550|barking|itel Android TV|
 |Itel|ITELL_K4700Q|ITELL_K4700Q|ITELL K4700Q|
 |Itel|ITELMOBILE GP10X2019|GP10X2019|GP10X2019|
 |Itel|P11|itel_P11|itel P11|
@@ -27973,9 +27977,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Swosh|Smart TV|samseong|AI PONT|
 |Syco|RS-403_EEA|RS-403|RS-403|
 |Syinix|32A1S|ikebukuro|AI PONT|
-|Syinix|43A51|beaudry|Syinix AndroidTV|
 |Syinix|55A1S|samseong|AI PONT|
 |Syinix|55U51|barking|Syinix AndroidTV|
+|Syinix|"APAC|Africa"|beaudry|
 |Syinix|Africa|yeongdeungpo|Syinix UHD Android TV|
 |Symphony|ATOM|ATOM|ATOM|
 |Symphony|Allegro|RFIP_ST4K_2|Allegro|
@@ -28078,6 +28082,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|i69|i69|i69|
 |Symphony|i72|i72|i72|
 |Symphony|i74|i74|i74|
+|Symphony|i80|i80|i80|
 |Symphony|i90|i90|i90|
 |Symphony|i95|i95|i95|
 |Symphony|i97|i97|i97|
@@ -28200,6 +28205,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 20Y|Hong_Kong_Pro|6156D|
 |TCL|TCL 20Y|Hong_Kong_Pro|6156H|
 |TCL|TCL 20Y|Hong_Kong_Pro|A1 Alpha 21|
+|TCL|TCL 30|Passat|T676H|
+|TCL|TCL 30+|Passat|T676J|
+|TCL|TCL 30+|Passat|T676K|
 |TCL|TCL A3X|Delhi_TF|A600DL|
 |TCL|TCL C5|A3A|5152D|
 |TCL|TCL C5|Gauss|5153A|
@@ -29721,6 +29729,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TUNTUN English|DREAM PAD|delight|ITP-R408W|
 |TUPAD|TU7_58212_18222|TU7_58212|TU7_18222|
 |TVB|A15|A151|A15|
+|TVCore|TV Stick|ts401|TV Stick|
+|TVCore|ts401l|ts401|TV StickL|
 |TVPLUS|TV PLUS 4K BOX|DV6069Y_TVPLUS|TV PLUS 4K BOX|
 |TVUp|HP5116|HPA12_8GB|HP5116|
 |TVUp|Mediacenter 6G 4K|SEI300T|Mediacenter 6G 4K|
@@ -34109,6 +34119,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|NX669J|NX669J-EEA|NX669J|
 |ZTE|NX669J|NX669J-UN|NX669J|
 |ZTE|NX679J|NX679J|NX679J|
+|ZTE|NX709J|NX709J|NX709J|
 |ZTE|NX907J|NX907J|NX907J|
 |ZTE|Nubia 4010|P963F60|Nubia 4010|
 |ZTE|Nubia 6010|P963F07|Nubia 6010|
@@ -34506,7 +34517,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z2020N3|Z8850K|A2020N3|
 |ZTE|Z3153V|Z3153|Z3153V|
 |ZTE|Z3351S|Z3351|Z3351S|
+|ZTE|Z3353CA|Z3353|Z3353CA|
 |ZTE|Z353VL|oldman|Z353VL|
+|ZTE|Z40 Pro|P898A11|NX701J|
 |ZTE|Z5031O|Z5031O|Z5031O|
 |ZTE|Z5151V|Z5151|Z5151V|
 |ZTE|Z5158|Z5158|Z5158|

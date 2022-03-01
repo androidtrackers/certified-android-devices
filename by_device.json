@@ -26290,6 +26290,11 @@
    "brand": "Blu",
    "name": "C5L",
    "model": "C5L"
+  },
+  {
+   "brand": "Blu",
+   "name": "C5L IW",
+   "model": "C5L"
   }
  ],
  "C0070WW": [
@@ -26704,6 +26709,13 @@
    "brand": "Blu",
    "name": "G51 Plus",
    "model": "G51 Plus"
+  }
+ ],
+ "G0580WW": [
+  {
+   "brand": "Blu",
+   "name": "G51S",
+   "model": "G51S"
   }
  ],
  "G0590WW": [
@@ -54530,6 +54542,13 @@
    "brand": "Telego",
    "name": "F10",
    "model": "F10"
+  }
+ ],
+ "F1_1": [
+  {
+   "brand": "G-Tab",
+   "name": "F1_1",
+   "model": "F1_1"
   }
  ],
  "F2X": [
@@ -83947,21 +83966,26 @@
    "model": "Infinity"
   }
  ],
- "beaudry": [
+ "Africa\"": [
   {
    "brand": "Infinix",
-   "name": "43X3",
-   "model": "Infinix AndroidTV"
+   "name": "\"APAC",
+   "model": "beaudry"
   },
   {
    "brand": "Itel",
-   "name": "G4350",
-   "model": "itel AndroidTV"
+   "name": "\"APAC",
+   "model": "barking"
+  },
+  {
+   "brand": "Itel",
+   "name": "\"APAC",
+   "model": "beaudry"
   },
   {
    "brand": "Syinix",
-   "name": "43A51",
-   "model": "Syinix AndroidTV"
+   "name": "\"APAC",
+   "model": "beaudry"
   }
  ],
  "Infinix-X689F": [
@@ -84081,6 +84105,13 @@
    "brand": "Infinix",
    "name": "HOT 11",
    "model": "Infinix X662B"
+  }
+ ],
+ "Infinix-X675": [
+  {
+   "brand": "Infinix",
+   "name": "HOT 11 2022",
+   "model": "Infinix X675"
   }
  ],
  "Infinix-X6812": [
@@ -88257,18 +88288,6 @@
    "brand": "Itel",
    "name": "F3116",
    "model": "itel A571WM"
-  }
- ],
- "barking": [
-  {
-   "brand": "Itel",
-   "name": "G5550",
-   "model": "itel Android TV"
-  },
-  {
-   "brand": "Syinix",
-   "name": "55U51",
-   "model": "Syinix AndroidTV"
   }
  ],
  "ITELL_K4700Q": [
@@ -185256,6 +185275,13 @@
    "model": "RS-403"
   }
  ],
+ "barking": [
+  {
+   "brand": "Syinix",
+   "name": "55U51",
+   "model": "Syinix AndroidTV"
+  }
+ ],
  "ATOM": [
   {
    "brand": "Symphony",
@@ -185861,6 +185887,13 @@
    "brand": "Symphony",
    "name": "i74",
    "model": "i74"
+  }
+ ],
+ "i80": [
+  {
+   "brand": "Symphony",
+   "name": "i80",
+   "model": "i80"
   }
  ],
  "i90": [
@@ -186792,6 +186825,23 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 3L",
    "model": "6056H_TR"
+  }
+ ],
+ "Passat": [
+  {
+   "brand": "TCL",
+   "name": "TCL 30",
+   "model": "T676H"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL 30+",
+   "model": "T676J"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL 30+",
+   "model": "T676K"
   }
  ],
  "Delhi_TF": [
@@ -194541,6 +194591,18 @@
    "brand": "TVB",
    "name": "A15",
    "model": "A15"
+  }
+ ],
+ "ts401": [
+  {
+   "brand": "TVCore",
+   "name": "TV Stick",
+   "model": "TV Stick"
+  },
+  {
+   "brand": "TVCore",
+   "name": "ts401l",
+   "model": "TV StickL"
   }
  ],
  "DV6069Y_TVPLUS": [
@@ -221428,6 +221490,13 @@
    "model": "NX679J"
   }
  ],
+ "NX709J": [
+  {
+   "brand": "ZTE",
+   "name": "NX709J",
+   "model": "NX709J"
+  }
+ ],
  "NX907J": [
   {
    "brand": "ZTE",
@@ -223189,11 +223258,25 @@
    "model": "Z3351S"
   }
  ],
+ "Z3353": [
+  {
+   "brand": "ZTE",
+   "name": "Z3353CA",
+   "model": "Z3353CA"
+  }
+ ],
  "oldman": [
   {
    "brand": "ZTE",
    "name": "Z353VL",
    "model": "Z353VL"
+  }
+ ],
+ "P898A11": [
+  {
+   "brand": "ZTE",
+   "name": "Z40 Pro",
+   "model": "NX701J"
   }
  ],
  "Z5031O": [

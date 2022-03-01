@@ -16337,6 +16337,11 @@
    "model": "C5L 2021"
   },
   {
+   "device": "C017U",
+   "name": "C5L IW",
+   "model": "C5L"
+  },
+  {
    "device": "C0170WW",
    "name": "C5L Max",
    "model": "C5L Max"
@@ -16620,6 +16625,11 @@
    "device": "G0510WW",
    "name": "G51 Plus",
    "model": "G51 Plus"
+  },
+  {
+   "device": "G0580WW",
+   "name": "G51S",
+   "model": "G51S"
   },
   {
    "device": "G0590WW",
@@ -36905,6 +36915,11 @@
    "device": "F10",
    "name": "F10",
    "model": "F10"
+  },
+  {
+   "device": "F1_1",
+   "name": "F1_1",
+   "model": "F1_1"
   },
   {
    "device": "F2",
@@ -61656,14 +61671,14 @@
    "model": "AI PONT"
   },
   {
-   "device": "beaudry",
-   "name": "43X3",
-   "model": "Infinix AndroidTV"
-  },
-  {
    "device": "samseong",
    "name": "55X1",
    "model": "AI PONT"
+  },
+  {
+   "device": "Africa\"",
+   "name": "\"APAC",
+   "model": "beaudry"
   },
   {
    "device": "Infinix-X689F",
@@ -61734,6 +61749,11 @@
    "device": "Infinix-X689F",
    "name": "HOT 11",
    "model": "Infinix X689F"
+  },
+  {
+   "device": "Infinix-X675",
+   "name": "HOT 11 2022",
+   "model": "Infinix X675"
   },
   {
    "device": "Infinix-X6812",
@@ -64968,6 +64988,16 @@
    "model": "itel A62"
   },
   {
+   "device": "Africa\"",
+   "name": "\"APAC",
+   "model": "barking"
+  },
+  {
+   "device": "Africa\"",
+   "name": "\"APAC",
+   "model": "beaudry"
+  },
+  {
    "device": "Spice-F311",
    "name": "F311",
    "model": "Spice F311"
@@ -64988,19 +65018,9 @@
    "model": "AI PONT"
   },
   {
-   "device": "beaudry",
-   "name": "G4350",
-   "model": "itel AndroidTV"
-  },
-  {
    "device": "samseong",
    "name": "G5524BE",
    "model": "AI PONT"
-  },
-  {
-   "device": "barking",
-   "name": "G5550",
-   "model": "itel Android TV"
   },
   {
    "device": "ITELL_K4700Q",
@@ -143503,11 +143523,6 @@
    "model": "AI PONT"
   },
   {
-   "device": "beaudry",
-   "name": "43A51",
-   "model": "Syinix AndroidTV"
-  },
-  {
    "device": "samseong",
    "name": "55A1S",
    "model": "AI PONT"
@@ -143516,6 +143531,11 @@
    "device": "barking",
    "name": "55U51",
    "model": "Syinix AndroidTV"
+  },
+  {
+   "device": "Africa\"",
+   "name": "\"APAC",
+   "model": "beaudry"
   },
   {
    "device": "yeongdeungpo",
@@ -144028,6 +144048,11 @@
    "device": "i74",
    "name": "i74",
    "model": "i74"
+  },
+  {
+   "device": "i80",
+   "name": "i80",
+   "model": "i80"
   },
   {
    "device": "i90",
@@ -144658,6 +144683,21 @@
    "device": "Hong_Kong_Pro",
    "name": "TCL 20Y",
    "model": "A1 Alpha 21"
+  },
+  {
+   "device": "Passat",
+   "name": "TCL 30",
+   "model": "T676H"
+  },
+  {
+   "device": "Passat",
+   "name": "TCL 30+",
+   "model": "T676J"
+  },
+  {
+   "device": "Passat",
+   "name": "TCL 30+",
+   "model": "T676K"
   },
   {
    "device": "Delhi_TF",
@@ -152357,6 +152397,18 @@
    "device": "A151",
    "name": "A15",
    "model": "A15"
+  }
+ ],
+ "TVCore": [
+  {
+   "device": "ts401",
+   "name": "TV Stick",
+   "model": "TV Stick"
+  },
+  {
+   "device": "ts401",
+   "name": "ts401l",
+   "model": "TV StickL"
   }
  ],
  "TVPLUS": [
@@ -175017,6 +175069,11 @@
    "model": "NX679J"
   },
   {
+   "device": "NX709J",
+   "name": "NX709J",
+   "model": "NX709J"
+  },
+  {
    "device": "NX907J",
    "name": "NX907J",
    "model": "NX907J"
@@ -177002,9 +177059,19 @@
    "model": "Z3351S"
   },
   {
+   "device": "Z3353",
+   "name": "Z3353CA",
+   "model": "Z3353CA"
+  },
+  {
    "device": "oldman",
    "name": "Z353VL",
    "model": "Z353VL"
+  },
+  {
+   "device": "P898A11",
+   "name": "Z40 Pro",
+   "model": "NX701J"
   },
   {
    "device": "Z5031O",
