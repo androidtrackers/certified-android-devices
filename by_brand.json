@@ -38082,6 +38082,13 @@
    "model": "E-Tab10"
   }
  ],
+ "GeneralSupreme": [
+  {
+   "device": "longshan",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  }
+ ],
  "Geniatech": [
   {
    "device": "enjoytv",
@@ -40600,6 +40607,11 @@
   },
   {
    "device": "longshan",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
+   "device": "redwood",
    "name": "Smart TV",
    "model": "AI PONT"
   }
@@ -60357,6 +60369,11 @@
    "model": "HYUNDAI 2K AI Smart TV"
   },
   {
+   "device": "redwood",
+   "name": "Smart TV",
+   "model": "AI PONT CO"
+  },
+  {
    "device": "sindorim",
    "name": "UHD Android TV",
    "model": "AI PONT"
@@ -69094,6 +69111,13 @@
    "name": "RF9220",
    "model": "AI PONT"
   },
+  {
+   "device": "longshan",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  }
+ ],
+ "Kolin": [
   {
    "device": "longshan",
    "name": "Smart TV",
@@ -85699,6 +85723,13 @@
    "model": "T7"
   }
  ],
+ "MAGICworld": [
+  {
+   "device": "longshan",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  }
+ ],
  "MAGNUMTECH": [
   {
    "device": "MG715",
@@ -87635,6 +87666,11 @@
    "device": "Astro_6R",
    "name": "Astro 6R",
    "model": "Astro 6R"
+  },
+  {
+   "device": "Astro_8T",
+   "name": "Astro 8T",
+   "model": "Astro 8T"
   },
   {
    "device": "Astro_4P",
@@ -95958,6 +95994,11 @@
    "model": "M10_4G_MONTES_CLAROS"
   },
   {
+   "device": "ML_SO0G_M10_4G_MC",
+   "name": "M10 4G MC",
+   "model": "M10_4G_MONTES_CLAROS"
+  },
+  {
    "device": "WI0C_M10_4G_MON_CLA",
    "name": "M10 4G MON CLA",
    "model": "M10_4G_MON_CLA"
@@ -95981,6 +96022,11 @@
    "device": "ML-WI1C-M10-4G-T3",
    "name": "M10 4G T3",
    "model": "M10-4G-T3"
+  },
+  {
+   "device": "ML_JI0B_M10_4G_TERE",
+   "name": "M10 4G TERE",
+   "model": "M10_4G_TERESOPOLIS"
   },
   {
    "device": "ML-JI06-M10-3G",
@@ -96114,6 +96160,11 @@
   },
   {
    "device": "ML_SO1E_M7_Wifi",
+   "name": "M7 WIFI",
+   "model": "M7_WIFI"
+  },
+  {
+   "device": "ML_SO2E_M7_WIFI",
    "name": "M7 WIFI",
    "model": "M7_WIFI"
   },
@@ -99865,6 +99916,11 @@
    "model": "AI PONT"
   },
   {
+   "device": "redwood",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
+  {
    "device": "ikebukuro",
    "name": "NI32HG7NA9",
    "model": "AI PONT"
@@ -101412,6 +101468,11 @@
   },
   {
    "device": "longshan",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
+  {
+   "device": "redwood",
    "name": "Android TV",
    "model": "AI PONT"
   },
@@ -106581,6 +106642,11 @@
    "device": "samseong",
    "name": "PQ55CH",
    "model": "AI PONT"
+  },
+  {
+   "device": "redwood",
+   "name": "Smart TV",
+   "model": "AI PONT"
   }
  ],
  "PIPO": [
@@ -107068,11 +107134,6 @@
    "device": "R1",
    "name": "Android TV",
    "model": "PANASONIC TV"
-  },
-  {
-   "device": "R2",
-   "name": "Android TV",
-   "model": "ATV R2"
   },
   {
    "device": "R2",
@@ -116278,6 +116339,13 @@
    "model": "Phone"
   }
  ],
+ "Realix": [
+  {
+   "device": "RxIS202",
+   "name": "RxIS202",
+   "model": "RxIS202"
+  }
+ ],
  "Realme": [
   {
    "device": "RMX2020",
@@ -116880,11 +116948,6 @@
    "model": "RMP2103"
   },
   {
-   "device": "RMX2121CN",
-   "name": "realme  X7 Pro",
-   "model": "RMX2121"
-  },
-  {
    "device": "RE50C1",
    "name": "realme 7i",
    "model": "RMX2103"
@@ -116893,11 +116956,6 @@
    "device": "RE50C1",
    "name": "realme 7i",
    "model": "RMX2104"
-  },
-  {
-   "device": "RMX2205CN",
-   "name": "真我 Q3 Pro 5G",
-   "model": "RMX2205"
   },
   {
    "device": "RMX3116CN",
@@ -118163,6 +118221,16 @@
   {
    "device": "ikebukuro",
    "name": "R-32B6600",
+   "model": "AI PONT"
+  },
+  {
+   "device": "longshan",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
+   "device": "redwood",
+   "name": "Smart TV",
    "model": "AI PONT"
   },
   {
@@ -125793,6 +125861,11 @@
    "device": "m22",
    "name": "Galaxy M22",
    "model": "SM-M225FV"
+  },
+  {
+   "device": "m23xq",
+   "name": "Galaxy M23 5G",
+   "model": "SM-M236B"
   },
   {
    "device": "m30lte",
@@ -138358,6 +138431,11 @@
  ],
  "Smart-Tech TV": [
   {
+   "device": "martin",
+   "name": "EU、UK、AP",
+   "model": "AiPlus2K"
+  },
+  {
    "device": "tamachi",
    "name": "France",
    "model": "AiPlus2K"
@@ -143501,6 +143579,11 @@
   {
    "device": "samseong",
    "name": "AndroidTV",
+   "model": "AI PONT"
+  },
+  {
+   "device": "longshan",
+   "name": "Smart TV",
    "model": "AI PONT"
   },
   {
@@ -153249,8 +153332,18 @@
   },
   {
    "device": "P30HD",
+   "name": "P30HD",
+   "model": "P30HD_EEA"
+  },
+  {
+   "device": "P30HD",
    "name": "P30HD_ROW",
    "model": "P30HD"
+  },
+  {
+   "device": "P30HD",
+   "name": "P30HD_ROW",
+   "model": "P30HD_ROW"
   },
   {
    "device": "P30HD",
@@ -157914,6 +158007,11 @@
    "device": "Note_11P",
    "name": "Note 11P",
    "model": "Note 11P"
+  },
+  {
+   "device": "Note_12",
+   "name": "Note 12",
+   "model": "Note 12"
   },
   {
    "device": "Note_12P",
@@ -166044,6 +166142,11 @@
   }
  ],
  "Wansa": [
+  {
+   "device": "longshan",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
   {
    "device": "samseong",
    "name": "WUD55JOA63S",
@@ -180159,6 +180262,13 @@
    "model": "LE9920_P"
   }
  ],
+ "biolux": [
+  {
+   "device": "longshan",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  }
+ ],
  "bontel": [
   {
    "device": "T20",
@@ -182611,6 +182721,11 @@
    "model": "RMX3269"
   },
   {
+   "device": "redwood",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
    "device": "RMX3085L1",
    "name": "realme  8",
    "model": "RMX3085"
@@ -182809,6 +182924,16 @@
    "device": "RE54C1L1",
    "name": "realme pad",
    "model": "RMP2103"
+  },
+  {
+   "device": "RMX2121CN",
+   "name": "realme  X7 Pro",
+   "model": "RMX2121"
+  },
+  {
+   "device": "RMX2205CN",
+   "name": "真我 Q3 Pro 5G",
+   "model": "RMX2205"
   },
   {
    "device": "RE5471",

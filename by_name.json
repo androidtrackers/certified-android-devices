@@ -6754,8 +6754,18 @@
    "model": "FUNAI 4K TV"
   },
   {
+   "brand": "GeneralSupreme",
+   "device": "longshan",
+   "model": "AI PONT"
+  },
+  {
    "brand": "Grunhelm",
    "device": "longshan",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Grunhelm",
+   "device": "redwood",
    "model": "AI PONT"
   },
   {
@@ -6767,6 +6777,11 @@
    "brand": "Hyundai",
    "device": "osaki",
    "model": "HYUNDAI 2K AI Smart TV"
+  },
+  {
+   "brand": "Hyundai",
+   "device": "redwood",
+   "model": "AI PONT CO"
   },
   {
    "brand": "IMPECCA",
@@ -6785,6 +6800,11 @@
   },
   {
    "brand": "Kogan",
+   "device": "longshan",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Kolin",
    "device": "longshan",
    "model": "AI PONT"
   },
@@ -6809,6 +6829,11 @@
    "model": "2K Android TV"
   },
   {
+   "brand": "MAGICworld",
+   "device": "longshan",
+   "model": "AI PONT"
+  },
+  {
    "brand": "Nano",
    "device": "osaki",
    "model": "nano 2K AI Smart TV"
@@ -6821,6 +6846,11 @@
   {
    "brand": "OK (Mediamark)",
    "device": "samseong",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "PILOT",
+   "device": "redwood",
    "model": "AI PONT"
   },
   {
@@ -6885,6 +6915,16 @@
   },
   {
    "brand": "Rindo",
+   "device": "longshan",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Rindo",
+   "device": "redwood",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Rindo",
    "device": "samseong",
    "model": "AI PONT"
   },
@@ -6910,6 +6950,11 @@
   },
   {
    "brand": "Swosh",
+   "device": "longshan",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Swosh",
    "device": "samseong",
    "model": "AI PONT"
   },
@@ -6929,14 +6974,29 @@
    "model": "2K AI Smart TV"
   },
   {
+   "brand": "Wansa",
+   "device": "longshan",
+   "model": "AI PONT"
+  },
+  {
    "brand": "Westinghouse",
    "device": "ueno",
    "model": "2K Android TV"
   },
   {
+   "brand": "biolux",
+   "device": "longshan",
+   "model": "AI PONT"
+  },
+  {
    "brand": "iMuz",
    "device": "mateo",
    "model": "2K SA Smart TV"
+  },
+  {
+   "brand": "realme",
+   "device": "redwood",
+   "model": "AI PONT"
   }
  ],
  "LXL43G7H-AT": [
@@ -9058,6 +9118,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "Nikkei",
+   "device": "redwood",
+   "model": "AI PONT"
+  },
+  {
    "brand": "Nokia",
    "device": "R1",
    "model": "ATV R1"
@@ -9075,6 +9140,11 @@
   {
    "brand": "OK (Mediamark)",
    "device": "longshan",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "OK (Mediamark)",
+   "device": "redwood",
    "model": "AI PONT"
   },
   {
@@ -9101,11 +9171,6 @@
    "brand": "Panasonic",
    "device": "R1",
    "model": "PANASONIC TV"
-  },
-  {
-   "brand": "Panasonic",
-   "device": "R2",
-   "model": "ATV R2"
   },
   {
    "brand": "Panasonic",
@@ -117675,6 +117740,13 @@
    "model": "Astro 6R"
   }
  ],
+ "Astro 8T": [
+  {
+   "brand": "Maxwest",
+   "device": "Astro_8T",
+   "model": "Astro 8T"
+  }
+ ],
  "Astro_4P": [
   {
    "brand": "Maxwest",
@@ -127272,6 +127344,11 @@
    "brand": "Multilaser",
    "device": "ML_JI0B_M10_4G_MC",
    "model": "M10_4G_MONTES_CLAROS"
+  },
+  {
+   "brand": "Multilaser",
+   "device": "ML_SO0G_M10_4G_MC",
+   "model": "M10_4G_MONTES_CLAROS"
   }
  ],
  "M10 4G MON CLA": [
@@ -127303,6 +127380,13 @@
    "brand": "Multilaser",
    "device": "ML-WI1C-M10-4G-T3",
    "model": "M10-4G-T3"
+  }
+ ],
+ "M10 4G TERE": [
+  {
+   "brand": "Multilaser",
+   "device": "ML_JI0B_M10_4G_TERE",
+   "model": "M10_4G_TERESOPOLIS"
   }
  ],
  "M10-3G": [
@@ -127460,6 +127544,11 @@
   {
    "brand": "Multilaser",
    "device": "ML_SO1E_M7_Wifi",
+   "model": "M7_WIFI"
+  },
+  {
+   "brand": "Multilaser",
+   "device": "ML_SO2E_M7_WIFI",
    "model": "M7_WIFI"
   }
  ],
@@ -151836,6 +151925,13 @@
    "model": "Phone"
   }
  ],
+ "RxIS202": [
+  {
+   "brand": "Realix",
+   "device": "RxIS202",
+   "model": "RxIS202"
+  }
+ ],
  "RMX2020": [
   {
    "brand": "Realme",
@@ -152648,13 +152744,6 @@
    "model": "RMP2103"
   }
  ],
- "realme  X7 Pro": [
-  {
-   "brand": "Realme",
-   "device": "RMX2121CN",
-   "model": "RMX2121"
-  }
- ],
  "realme 7i": [
   {
    "brand": "Realme",
@@ -152665,13 +152754,6 @@
    "brand": "Realme",
    "device": "RE50C1",
    "model": "RMX2104"
-  }
- ],
- "真我 Q3 Pro 5G": [
-  {
-   "brand": "Realme",
-   "device": "RMX2205CN",
-   "model": "RMX2205"
   }
  ],
  "真我 X7 pro至尊版": [
@@ -162649,6 +162731,13 @@
    "brand": "Samsung",
    "device": "m22",
    "model": "SM-M225FV"
+  }
+ ],
+ "Galaxy M23 5G": [
+  {
+   "brand": "Samsung",
+   "device": "m23xq",
+   "model": "SM-M236B"
   }
  ],
  "Galaxy M30": [
@@ -176988,6 +177077,13 @@
    "brand": "Smart (BD)",
    "device": "SQ811G",
    "model": "SQ811G"
+  }
+ ],
+ "EU、UK、AP": [
+  {
+   "brand": "Smart-Tech TV",
+   "device": "martin",
+   "model": "AiPlus2K"
   }
  ],
  "Germany": [
@@ -193480,6 +193576,11 @@
    "brand": "Teclast",
    "device": "P30HD",
    "model": "P30HD"
+  },
+  {
+   "brand": "Teclast",
+   "device": "P30HD",
+   "model": "P30HD_EEA"
   }
  ],
  "P30HD_ROW": [
@@ -193487,6 +193588,11 @@
    "brand": "Teclast",
    "device": "P30HD",
    "model": "P30HD"
+  },
+  {
+   "brand": "Teclast",
+   "device": "P30HD",
+   "model": "P30HD_ROW"
   }
  ],
  "P30HD_RU": [
@@ -198876,6 +198982,13 @@
    "brand": "Ulefone",
    "device": "Note_11P",
    "model": "Note 11P"
+  }
+ ],
+ "Note 12": [
+  {
+   "brand": "Ulefone",
+   "device": "Note_12",
+   "model": "Note 12"
   }
  ],
  "Note 12P": [
@@ -226861,6 +226974,20 @@
    "brand": "realme",
    "device": "RED8FA",
    "model": "RMX3235"
+  }
+ ],
+ "realme  X7 Pro": [
+  {
+   "brand": "realme",
+   "device": "RMX2121CN",
+   "model": "RMX2121"
+  }
+ ],
+ "真我 Q3 Pro 5G": [
+  {
+   "brand": "realme",
+   "device": "RMX2205CN",
+   "model": "RMX2205"
   }
  ],
  "真我GT 2": [

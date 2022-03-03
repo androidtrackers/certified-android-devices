@@ -1113,6 +1113,11 @@
    "device": "sindorim"
   },
   {
+   "brand": "GeneralSupreme",
+   "name": "Smart TV",
+   "device": "longshan"
+  },
+  {
    "brand": "Grunhelm",
    "name": "GT9HD32",
    "device": "ikebukuro"
@@ -1126,6 +1131,11 @@
    "brand": "Grunhelm",
    "name": "Smart TV",
    "device": "longshan"
+  },
+  {
+   "brand": "Grunhelm",
+   "name": "Smart TV",
+   "device": "redwood"
   },
   {
    "brand": "HIMADE",
@@ -1278,6 +1288,11 @@
    "device": "longshan"
   },
   {
+   "brand": "Kolin",
+   "name": "Smart TV",
+   "device": "longshan"
+  },
+  {
    "brand": "Kubo",
    "name": "Smart TV",
    "device": "samseong"
@@ -1288,6 +1303,11 @@
    "device": "sindorim"
   },
   {
+   "brand": "MAGICworld",
+   "name": "Smart TV",
+   "device": "longshan"
+  },
+  {
    "brand": "Micromax",
    "name": "32CAM6SHD",
    "device": "ikebukuro"
@@ -1296,6 +1316,11 @@
    "brand": "Nikkei",
    "name": "Android TV",
    "device": "longshan"
+  },
+  {
+   "brand": "Nikkei",
+   "name": "Android TV",
+   "device": "redwood"
   },
   {
    "brand": "Nikkei",
@@ -1329,6 +1354,11 @@
   },
   {
    "brand": "OK (Mediamark)",
+   "name": "Android TV",
+   "device": "redwood"
+  },
+  {
+   "brand": "OK (Mediamark)",
    "name": "ODL 32770H-TAB",
    "device": "ikebukuro"
   },
@@ -1351,6 +1381,11 @@
    "brand": "PILOT",
    "name": "PQ55CH",
    "device": "samseong"
+  },
+  {
+   "brand": "PILOT",
+   "name": "Smart TV",
+   "device": "redwood"
   },
   {
    "brand": "Philco",
@@ -1386,6 +1421,16 @@
    "brand": "Rindo",
    "name": "R-32B6600",
    "device": "ikebukuro"
+  },
+  {
+   "brand": "Rindo",
+   "name": "Smart TV",
+   "device": "longshan"
+  },
+  {
+   "brand": "Rindo",
+   "name": "Smart TV",
+   "device": "redwood"
   },
   {
    "brand": "Rindo",
@@ -1431,6 +1476,11 @@
    "brand": "Swosh",
    "name": "AndroidTV",
    "device": "samseong"
+  },
+  {
+   "brand": "Swosh",
+   "name": "Smart TV",
+   "device": "longshan"
   },
   {
    "brand": "Swosh",
@@ -1509,6 +1559,11 @@
   },
   {
    "brand": "Wansa",
+   "name": "Smart TV",
+   "device": "longshan"
+  },
+  {
+   "brand": "Wansa",
    "name": "WUD55JOA63S",
    "device": "samseong"
   },
@@ -1516,6 +1571,16 @@
    "brand": "Witooth",
    "name": "UHD Android TV",
    "device": "sindorim"
+  },
+  {
+   "brand": "biolux",
+   "name": "Smart TV",
+   "device": "longshan"
+  },
+  {
+   "brand": "realme",
+   "name": "Smart TV",
+   "device": "redwood"
   }
  ],
  "A97GT": [
@@ -3620,11 +3685,6 @@
   },
   {
    "brand": "PALSONIC",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "Panasonic",
    "name": "Android TV",
    "device": "R2"
   },
@@ -27147,6 +27207,11 @@
    "brand": "Contex",
    "name": "Egypt",
    "device": "tamachi"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "name": "EU、UK、AP",
+   "device": "martin"
   },
   {
    "brand": "Smart-Tech TV",
@@ -83156,6 +83221,13 @@
    "device": "osaki"
   }
  ],
+ "AI PONT CO": [
+  {
+   "brand": "Hyundai",
+   "name": "Smart TV",
+   "device": "redwood"
+  }
+ ],
  "Ultra Active": [
   {
    "brand": "Hyundai",
@@ -118576,6 +118648,13 @@
    "device": "Astro_6R"
   }
  ],
+ "Astro 8T": [
+  {
+   "brand": "Maxwest",
+   "name": "Astro 8T",
+   "device": "Astro_8T"
+  }
+ ],
  "Astro_4P": [
   {
    "brand": "Maxwest",
@@ -129192,6 +129271,11 @@
    "brand": "Multilaser",
    "name": "M10 4G MC",
    "device": "ML_JI0B_M10_4G_MC"
+  },
+  {
+   "brand": "Multilaser",
+   "name": "M10 4G MC",
+   "device": "ML_SO0G_M10_4G_MC"
   }
  ],
  "M10_4G_MON_CLA": [
@@ -129233,6 +129317,13 @@
    "brand": "Multilaser",
    "name": "M10 4G T3",
    "device": "ML-WI1C-M10-4G-T3"
+  }
+ ],
+ "M10_4G_TERESOPOLIS": [
+  {
+   "brand": "Multilaser",
+   "name": "M10 4G TERE",
+   "device": "ML_JI0B_M10_4G_TERE"
   }
  ],
  "M10A-Lite": [
@@ -129385,6 +129476,11 @@
    "brand": "Multilaser",
    "name": "M7 WIFI",
    "device": "ML_SO1E_M7_Wifi"
+  },
+  {
+   "brand": "Multilaser",
+   "name": "M7 WIFI",
+   "device": "ML_SO2E_M7_WIFI"
   },
   {
    "brand": "Multilaser",
@@ -154691,6 +154787,13 @@
    "device": "cheryl_ckh"
   }
  ],
+ "RxIS202": [
+  {
+   "brand": "Realix",
+   "name": "RxIS202",
+   "device": "RxIS202"
+  }
+ ],
  "RMX2020": [
   {
    "brand": "Realme",
@@ -155576,25 +155679,11 @@
    "device": "RE54C1L1"
   }
  ],
- "RMX2121": [
-  {
-   "brand": "Realme",
-   "name": "realme  X7 Pro",
-   "device": "RMX2121CN"
-  }
- ],
  "RMX2104": [
   {
    "brand": "Realme",
    "name": "realme 7i",
    "device": "RE50C1"
-  }
- ],
- "RMX2205": [
-  {
-   "brand": "Realme",
-   "name": "真我 Q3 Pro 5G",
-   "device": "RMX2205CN"
   }
  ],
  "RMX3116": [
@@ -167425,6 +167514,13 @@
    "brand": "Samsung",
    "name": "Galaxy M22",
    "device": "m22"
+  }
+ ],
+ "SM-M236B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M23 5G",
+   "device": "m23xq"
   }
  ],
  "SM-M305F": [
@@ -203379,6 +203475,20 @@
    "device": "P30HD"
   }
  ],
+ "P30HD_EEA": [
+  {
+   "brand": "Teclast",
+   "name": "P30HD",
+   "device": "P30HD"
+  }
+ ],
+ "P30HD_ROW": [
+  {
+   "brand": "Teclast",
+   "name": "P30HD_ROW",
+   "device": "P30HD"
+  }
+ ],
  "P80X": [
   {
    "brand": "Teclast",
@@ -209108,6 +209218,13 @@
    "brand": "Ulefone",
    "name": "Note 11P",
    "device": "Note_11P"
+  }
+ ],
+ "Note 12": [
+  {
+   "brand": "Ulefone",
+   "name": "Note 12",
+   "device": "Note_12"
   }
  ],
  "Note 12P": [
@@ -239646,6 +239763,20 @@
    "brand": "realme",
    "name": "realme narzo 50i",
    "device": "RED8FA"
+  }
+ ],
+ "RMX2121": [
+  {
+   "brand": "realme",
+   "name": "realme  X7 Pro",
+   "device": "RMX2121CN"
+  }
+ ],
+ "RMX2205": [
+  {
+   "brand": "realme",
+   "name": "真我 Q3 Pro 5G",
+   "device": "RMX2205CN"
   }
  ],
  "RMX3310": [

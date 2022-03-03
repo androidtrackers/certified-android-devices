@@ -1846,12 +1846,27 @@
    "model": "AI PONT NA"
   },
   {
+   "brand": "GeneralSupreme",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
    "brand": "Grunhelm",
    "name": "Smart TV",
    "model": "AI PONT"
   },
   {
    "brand": "Kogan",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Kolin",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "MAGICworld",
    "name": "Smart TV",
    "model": "AI PONT"
   },
@@ -1871,8 +1886,18 @@
    "model": "AI PONT NA"
   },
   {
+   "brand": "Rindo",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
    "brand": "SABA",
    "name": "A11",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Swosh",
+   "name": "Smart TV",
    "model": "AI PONT"
   },
   {
@@ -1891,9 +1916,19 @@
    "model": "AI PONT"
   },
   {
+   "brand": "Wansa",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
    "brand": "Witooth",
    "name": "Android TV",
    "model": "AI PONT NA"
+  },
+  {
+   "brand": "biolux",
+   "name": "Smart TV",
+   "model": "AI PONT"
   }
  ],
  "redwood": [
@@ -1928,6 +1963,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "Grunhelm",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
    "brand": "HP",
    "name": "7 G2",
    "model": "HP 7 G2"
@@ -1943,13 +1983,43 @@
    "model": "AI PONT SA"
   },
   {
+   "brand": "Hyundai",
+   "name": "Smart TV",
+   "model": "AI PONT CO"
+  },
+  {
    "brand": "Kogan",
    "name": "RF9220",
    "model": "AI PONT"
   },
   {
+   "brand": "Nikkei",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "OK (Mediamark)",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "PILOT",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Rindo",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
    "brand": "SABA",
    "name": "A11",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "realme",
+   "name": "Smart TV",
    "model": "AI PONT"
   }
  ],
@@ -4682,11 +4752,6 @@
   },
   {
    "brand": "PALSONIC",
-   "name": "Android TV",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "Panasonic",
    "name": "Android TV",
    "model": "ATV R2"
   },
@@ -29144,6 +29209,11 @@
    "brand": "Multilaser",
    "name": "Brazil",
    "model": "Multilaser Android TV"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "name": "EU、UK、AP",
+   "model": "AiPlus2K"
   }
  ],
  "LT5": [
@@ -116207,6 +116277,13 @@
    "model": "Astro 6R"
   }
  ],
+ "Astro_8T": [
+  {
+   "brand": "Maxwest",
+   "name": "Astro 8T",
+   "model": "Astro 8T"
+  }
+ ],
  "Astro_4P": [
   {
    "brand": "Maxwest",
@@ -126550,6 +126627,13 @@
    "model": "M10_4G_MONTES_CLAROS"
   }
  ],
+ "ML_SO0G_M10_4G_MC": [
+  {
+   "brand": "Multilaser",
+   "name": "M10 4G MC",
+   "model": "M10_4G_MONTES_CLAROS"
+  }
+ ],
  "WI0C_M10_4G_MON_CLA": [
   {
    "brand": "Multilaser",
@@ -126583,6 +126667,13 @@
    "brand": "Multilaser",
    "name": "M10 4G T3",
    "model": "M10-4G-T3"
+  }
+ ],
+ "ML_JI0B_M10_4G_TERE": [
+  {
+   "brand": "Multilaser",
+   "name": "M10 4G TERE",
+   "model": "M10_4G_TERESOPOLIS"
   }
  ],
  "ML-JI06-M10-3G": [
@@ -126766,6 +126857,13 @@
   }
  ],
  "ML_SO1E_M7_Wifi": [
+  {
+   "brand": "Multilaser",
+   "name": "M7 WIFI",
+   "model": "M7_WIFI"
+  }
+ ],
+ "ML_SO2E_M7_WIFI": [
   {
    "brand": "Multilaser",
    "name": "M7 WIFI",
@@ -151259,6 +151357,13 @@
    "model": "Phone"
   }
  ],
+ "RxIS202": [
+  {
+   "brand": "Realix",
+   "name": "RxIS202",
+   "model": "RxIS202"
+  }
+ ],
  "RMX2020": [
   {
    "brand": "Realme",
@@ -152141,13 +152246,6 @@
    "model": "RMX3430"
   }
  ],
- "RMX2121CN": [
-  {
-   "brand": "Realme",
-   "name": "realme  X7 Pro",
-   "model": "RMX2121"
-  }
- ],
  "RE50C1": [
   {
    "brand": "Realme",
@@ -152158,13 +152256,6 @@
    "brand": "Realme",
    "name": "realme 7i",
    "model": "RMX2104"
-  }
- ],
- "RMX2205CN": [
-  {
-   "brand": "Realme",
-   "name": "真我 Q3 Pro 5G",
-   "model": "RMX2205"
   }
  ],
  "RMX3116CN": [
@@ -162911,6 +163002,13 @@
    "brand": "Samsung",
    "name": "Galaxy M22",
    "model": "SM-M225FV"
+  }
+ ],
+ "m23xq": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M23 5G",
+   "model": "SM-M236B"
   }
  ],
  "m30lte": [
@@ -195587,8 +195685,18 @@
   },
   {
    "brand": "Teclast",
+   "name": "P30HD",
+   "model": "P30HD_EEA"
+  },
+  {
+   "brand": "Teclast",
    "name": "P30HD_ROW",
    "model": "P30HD"
+  },
+  {
+   "brand": "Teclast",
+   "name": "P30HD_ROW",
+   "model": "P30HD_ROW"
   },
   {
    "brand": "Teclast",
@@ -201104,6 +201212,13 @@
    "brand": "Ulefone",
    "name": "Note 11P",
    "model": "Note 11P"
+  }
+ ],
+ "Note_12": [
+  {
+   "brand": "Ulefone",
+   "name": "Note 12",
+   "model": "Note 12"
   }
  ],
  "Note_12P": [
@@ -229315,6 +229430,20 @@
    "brand": "realme",
    "name": "realme narzo 50i",
    "model": "RMX3235"
+  }
+ ],
+ "RMX2121CN": [
+  {
+   "brand": "realme",
+   "name": "realme  X7 Pro",
+   "model": "RMX2121"
+  }
+ ],
+ "RMX2205CN": [
+  {
+   "brand": "realme",
+   "name": "真我 Q3 Pro 5G",
+   "model": "RMX2205"
   }
  ],
  "RE5471": [
