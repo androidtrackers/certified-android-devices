@@ -16587,6 +16587,11 @@
    "model": "Energy X LTE"
   },
   {
+   "device": "F0030UU",
+   "name": "F91 5G",
+   "model": "F91 5G"
+  },
+  {
    "device": "G0290WW",
    "name": "G0290WW",
    "model": "G80"
@@ -65844,6 +65849,11 @@
    "model": "KSTB7043"
   },
   {
+   "device": "SC40",
+   "name": "SC40",
+   "model": "SC40"
+  },
+  {
    "device": "XA401",
    "name": "XA401",
    "model": "XA401"
@@ -92492,6 +92502,13 @@
    "model": "MH-CHANNELS"
   }
  ],
+ "MojaTV": [
+  {
+   "device": "SEI530BHT",
+   "name": "MojaTV",
+   "model": "Moja TV"
+  }
+ ],
  "Mola TV": [
   {
    "device": "DV8235_P",
@@ -96082,6 +96099,11 @@
    "device": "ML_SO0G_M10_4G_PRO_PLUS",
    "name": "M10_4G_PRO",
    "model": "M10_4G_PRO"
+  },
+  {
+   "device": "WI0C_M10_4G_PRO_TERE",
+   "name": "M10_4G_PRO_TERE",
+   "model": "M10_4G_PRO_TERE"
   },
   {
    "device": "ML-WI1B-M7-3G",
@@ -142081,6 +142103,13 @@
    "model": "VC9253"
   }
  ],
+ "Speedata": [
+  {
+   "device": "FG60",
+   "name": "FG60 EEA",
+   "model": "FG60"
+  }
+ ],
  "Speedmind": [
   {
    "device": "AM801",
@@ -143611,9 +143640,9 @@
    "model": "AI PONT"
   },
   {
-   "device": "barking",
-   "name": "55U51",
-   "model": "Syinix AndroidTV"
+   "device": "Africa\"",
+   "name": "\"APAC",
+   "model": "barking"
   },
   {
    "device": "Africa\"",
@@ -158002,6 +158031,11 @@
    "device": "Note_10",
    "name": "Note 10",
    "model": "Note 10"
+  },
+  {
+   "device": "Note_10P",
+   "name": "Note 10P",
+   "model": "Note 10P"
   },
   {
    "device": "Note_11P",

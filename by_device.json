@@ -26720,6 +26720,13 @@
    "model": "Energy X LTE"
   }
  ],
+ "F0030UU": [
+  {
+   "brand": "Blu",
+   "name": "F91 5G",
+   "model": "F91 5G"
+  }
+ ],
  "G0290WW": [
   {
    "brand": "Blu",
@@ -84055,6 +84062,11 @@
   {
    "brand": "Syinix",
    "name": "\"APAC",
+   "model": "barking"
+  },
+  {
+   "brand": "Syinix",
+   "name": "\"APAC",
    "model": "beaudry"
   }
  ],
@@ -89378,6 +89390,13 @@
    "brand": "SkyLife",
    "name": "KSTB6165",
    "model": "KSTB6165"
+  }
+ ],
+ "SC40": [
+  {
+   "brand": "J:COM",
+   "name": "SC40",
+   "model": "SC40"
   }
  ],
  "XA401": [
@@ -122500,6 +122519,13 @@
    "model": "MH-CHANNELS"
   }
  ],
+ "SEI530BHT": [
+  {
+   "brand": "MojaTV",
+   "name": "MojaTV",
+   "model": "Moja TV"
+  }
+ ],
  "DV8235_P": [
   {
    "brand": "Mola TV",
@@ -126744,6 +126770,13 @@
    "brand": "Multilaser",
    "name": "M10_4G_PRO",
    "model": "M10_4G_PRO"
+  }
+ ],
+ "WI0C_M10_4G_PRO_TERE": [
+  {
+   "brand": "Multilaser",
+   "name": "M10_4G_PRO_TERE",
+   "model": "M10_4G_PRO_TERE"
   }
  ],
  "ML-WI1B-M7-3G": [
@@ -183624,6 +183657,13 @@
    "model": "VC9253"
   }
  ],
+ "FG60": [
+  {
+   "brand": "Speedata",
+   "name": "FG60 EEA",
+   "model": "FG60"
+  }
+ ],
  "AM801": [
   {
    "brand": "Speedmind",
@@ -185371,13 +185411,6 @@
    "brand": "Syco",
    "name": "RS-403_EEA",
    "model": "RS-403"
-  }
- ],
- "barking": [
-  {
-   "brand": "Syinix",
-   "name": "55U51",
-   "model": "Syinix AndroidTV"
   }
  ],
  "ATOM": [
@@ -201205,6 +201238,13 @@
    "brand": "Ulefone",
    "name": "MIX S",
    "model": "MIX_S"
+  }
+ ],
+ "Note_10P": [
+  {
+   "brand": "Ulefone",
+   "name": "Note 10P",
+   "model": "Note 10P"
   }
  ],
  "Note_11P": [

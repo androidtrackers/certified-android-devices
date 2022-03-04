@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-03-03
+Last sync is 2022-03-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3219,6 +3219,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|ENERGY_DIAMOND_MINI|ENERGY_DIAMOND_MINI|ENERGY_DIAMOND_MINI|
 |Blu|Energy X 2|BLU_Energy_X_2|Energy X 2|
 |Blu|Energy X LTE|BLU_Energy_X_LTE|Energy X LTE|
+|Blu|F91 5G|F0030UU|F91 5G|
 |Blu|G0290WW|G0290WW|G80|
 |Blu|G5|G0090|G5|
 |Blu|G5 Plus|G0180LL|G5 Plus|
@@ -12794,6 +12795,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel-L5007S|itel-L5007S|itel L5007S|
 |Itworks|TM705|TM705|NID_7010|
 |J:COM|KSTB7043|KSTB6165|KSTB7043|
+|J:COM|SC40|SC40|SC40|
 |J:COM|XA401|XA401|XA401|
 |J:COM|XA402|XA402|XA402|
 |J:COM|XA403|sti6260d195|XA403|
@@ -17994,6 +17996,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Modecom|Horizon Lite Plus|HORIZON_LITE_PLUS|HORIZON LITE PLUS|
 |Modecom|Xino Z46 X4+|xino_z46|Xino Z46 X4+|
 |Mohu|MH-CHANNELS|MH-CHANNELS|MH-CHANNELS|
+|MojaTV|MojaTV|SEI530BHT|Moja TV|
 |Mola TV|PDBM11ADL|DV8235_P|PDBM11ADL|
 |Molvu|M10PRO|M10PRO|M10PRO|
 |Molvu|V7S|V7S|V7S|
@@ -18702,6 +18705,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M10_4G _AC|ML_JI0C_M10_4G_AC|M10_4G_AC|
 |Multilaser|M10_4G_PRO|ML-SO0C_M10_4G_PRO_PLUS|M10_4G_PRO|
 |Multilaser|M10_4G_PRO|ML_SO0G_M10_4G_PRO_PLUS|M10_4G_PRO|
+|Multilaser|M10_4G_PRO_TERE|WI0C_M10_4G_PRO_TERE|M10_4G_PRO_TERE|
 |Multilaser|M7 3G|ML-WI1B-M7-3G|M7-3G|
 |Multilaser|M7 3G|ML_JI0N_M7_3G|M7_3G|
 |Multilaser|M7 3G|ML_JI1G_M7_3G|M7_3G|
@@ -27705,6 +27709,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Spectralink|Versity|Versity|Versity 9640|
 |Spectralink|Versity|Versity|Versity 9653|
 |Spectralink|Versity 92-Series|VC92|VC9253|
+|Speedata|FG60 EEA|FG60|FG60|
 |Speedmind|AM801|AM801|AM801|
 |Speedmind|Pr6145|Pr6145|Pr6145|
 |Spice|Dream Uno|Mi-498_sprout|Spice Mi-498|
@@ -27993,7 +27998,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Syco|RS-403_EEA|RS-403|RS-403|
 |Syinix|32A1S|ikebukuro|AI PONT|
 |Syinix|55A1S|samseong|AI PONT|
-|Syinix|55U51|barking|Syinix AndroidTV|
+|Syinix|"APAC|Africa"|barking|
 |Syinix|"APAC|Africa"|beaudry|
 |Syinix|Africa|yeongdeungpo|Syinix UHD Android TV|
 |Symphony|ATOM|ATOM|ATOM|
@@ -30796,6 +30801,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|MIX S|t815_gq_ulefone|MIX_S|
 |Ulefone|MIX_2|MIX_2|MIX_2|
 |Ulefone|Note 10|Note_10|Note 10|
+|Ulefone|Note 10P|Note_10P|Note 10P|
 |Ulefone|Note 11P|Note_11P|Note 11P|
 |Ulefone|Note 12|Note_12|Note 12|
 |Ulefone|Note 12P|Note_12P|Note 12P|
