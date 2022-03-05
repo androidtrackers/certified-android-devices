@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-03-04
+Last sync is 2022-03-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11975,8 +11975,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinity|10.1-v3|Infinity_101_v3|Infinity-10.1-v3|
 |Infinity|Infinity|Infinity|Infinity|
 |Infinix|32X1|ikebukuro|AI PONT|
+|Infinix|43X3|beaudry|Infinix AndroidTV|
 |Infinix|55X1|samseong|AI PONT|
-|Infinix|"APAC|Africa"|beaudry|
 |Infinix|HOT  11|Infinix-X689F|Infinix X689F|
 |Infinix|HOT 10|Infinix-X682B|Infinix X682B|
 |Infinix|HOT 10|Infinix-X682C|Infinix X682C|
@@ -12628,13 +12628,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|A55|itel-W6003|itel W6003|
 |Itel|A58|itel-A661W|itel A661W|
 |Itel|A62|itel-A62|itel A62|
-|Itel|"APAC|Africa"|barking|
-|Itel|"APAC|Africa"|beaudry|
 |Itel|F311|Spice-F311|Spice F311|
 |Itel|F3116|itel-A571WM|itel A571W|
 |Itel|F3116|itel-A571WM|itel A571WM|
 |Itel|G4310IE|ikebukuro|AI PONT|
+|Itel|G4350|beaudry|itel AndroidTV|
 |Itel|G5524BE|samseong|AI PONT|
+|Itel|G5550|barking|itel Android TV|
 |Itel|ITELL_K4700Q|ITELL_K4700Q|ITELL K4700Q|
 |Itel|ITELMOBILE GP10X2019|GP10X2019|GP10X2019|
 |Itel|P11|itel_P11|itel P11|
@@ -18685,6 +18685,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M10 4G|ML-JI0A-M10-4G|M10-4G|
 |Multilaser|M10 4G|ML-WI0C-M10-4G|M10-4G|
 |Multilaser|M10 4G|ML_JI0B_M10_4G|M10_4G|
+|Multilaser|M10 4G|ML_JI0M_M10_4G|M10_4G|
 |Multilaser|M10 4G|ML_SO0G_M10_4G|M10_4G|
 |Multilaser|M10 4G MC|ML_JI0B_M10_4G_MC|M10_4G_MONTES_CLAROS|
 |Multilaser|M10 4G MC|ML_SO0G_M10_4G_MC|M10_4G_MONTES_CLAROS|
@@ -20241,6 +20242,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Find5|FIND5|X909|
 |Oppo|Find5|FIND5|X909T|
 |Oppo|K1|PBCM30|PBCM30|
+|Oppo|K10 5G|OP4FA7L1|CPH2237|
 |Oppo|K3|OP4679|PCGM00|
 |Oppo|K3|OP4679|PCGT00|
 |Oppo|K3|OP486B|CPH1955|
@@ -20747,6 +20749,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEAQ|PET-1081-H232S|PET-1081-H232S|PET 1081-H232S|
 |PEAQ|PET-1081-LH332S|PET-1081-LH332S|PET 1081-LH332S|
 |PERSONA|MyTab_A8|MyTab_A8|MyTab_A8|
+|PHILCO (ar)|P510|P510|P510|
+|PHILCO (ar)|P610|P610|P610|
 |PHYWE|SMARTlink|SMARTlink|SMARTlink|
 |PHYWE|SMARTlink_EEA|SMARTlink_EEA|SMARTlink_EEA|
 |PILOT|PQ55CH|samseong|AI PONT|
@@ -22695,7 +22699,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme C21Y|RMX3261|RMX3261|
 |Realme|realme C21Y|RMX3262|RMX3262|
 |Realme|realme C25|RMX3191|RMX3191|
-|Realme|realme C25|RMX3193|RMX3193|
 |Realme|realme C25Y|RE54D1|RMX3265|
 |Realme|realme C25s|RMX3195|RMX3195|
 |Realme|realme C3|RMX2020|RMX2020|
@@ -22747,7 +22750,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme X50m 5G|RMX2142CN|RMX2142|
 |Realme|realme X50t 5G|RE508C|RMX2052|
 |Realme|realme X50t 5G|RMX2052CN|RMX2052|
-|Realme|realme X7 5G|RMX3092L1|RMX3092|
 |Realme|realme X7 5G|RMX2176CN|RMX2176|
 |Realme|realme XT|RMX1921|RMX1921|
 |Realme|realme XT|RMX1921L1|RMX1921|
@@ -27997,9 +27999,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Swosh|Smart TV|samseong|AI PONT|
 |Syco|RS-403_EEA|RS-403|RS-403|
 |Syinix|32A1S|ikebukuro|AI PONT|
+|Syinix|43A51|beaudry|Syinix AndroidTV|
 |Syinix|55A1S|samseong|AI PONT|
-|Syinix|"APAC|Africa"|barking|
-|Syinix|"APAC|Africa"|beaudry|
+|Syinix|55U51|barking|Syinix AndroidTV|
 |Syinix|Africa|yeongdeungpo|Syinix UHD Android TV|
 |Symphony|ATOM|ATOM|ATOM|
 |Symphony|Allegro|RFIP_ST4K_2|Allegro|
@@ -35630,6 +35632,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C21 Y|RMX3261|RMX3261|
 |realme|realme C21-Y|RED8D1|RMX3263|
 |realme|realme C25|RMX3191|RMX3191|
+|realme|realme C25|RMX3193|RMX3193|
 |realme|realme C25Y|RED8F6|RMX3269|
 |realme|realme C25s|RMX3195|RMX3195|
 |realme|realme C25s|RMX3197|RMX3197|
@@ -35640,6 +35643,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme X50 Pro|RMX2075L1|RMX2075|
 |realme|realme X50 Pro|RMX2076L1|RMX2076|
 |realme|realme X50 Pro Play|RMX2072CN|RMX2072|
+|realme|realme X7 5G|RMX3092L1|RMX3092|
 |realme|realme X7Pro Ultra|RMX3115CN|RMX3115|
 |realme|realme narzo 20 Pro|RMX2161L1|RMX2161|
 |realme|realme narzo 30 5G|RE513CL1|RMX3242|

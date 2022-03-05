@@ -40039,6 +40039,11 @@
    "brand": "DEXP",
    "name": "P510",
    "model": "P510"
+  },
+  {
+   "brand": "PHILCO (ar)",
+   "name": "P510",
+   "model": "P510"
   }
  ],
  "Q110": [
@@ -84043,31 +84048,21 @@
    "model": "Infinity"
   }
  ],
- "Africa\"": [
+ "beaudry": [
   {
    "brand": "Infinix",
-   "name": "\"APAC",
-   "model": "beaudry"
+   "name": "43X3",
+   "model": "Infinix AndroidTV"
   },
   {
    "brand": "Itel",
-   "name": "\"APAC",
-   "model": "barking"
-  },
-  {
-   "brand": "Itel",
-   "name": "\"APAC",
-   "model": "beaudry"
+   "name": "G4350",
+   "model": "itel AndroidTV"
   },
   {
    "brand": "Syinix",
-   "name": "\"APAC",
-   "model": "barking"
-  },
-  {
-   "brand": "Syinix",
-   "name": "\"APAC",
-   "model": "beaudry"
+   "name": "43A51",
+   "model": "Syinix AndroidTV"
   }
  ],
  "Infinix-X689F": [
@@ -88370,6 +88365,18 @@
    "brand": "Itel",
    "name": "F3116",
    "model": "itel A571WM"
+  }
+ ],
+ "barking": [
+  {
+   "brand": "Itel",
+   "name": "G5550",
+   "model": "itel Android TV"
+  },
+  {
+   "brand": "Syinix",
+   "name": "55U51",
+   "model": "Syinix AndroidTV"
   }
  ],
  "ITELL_K4700Q": [
@@ -126639,6 +126646,13 @@
    "model": "M10_4G"
   }
  ],
+ "ML_JI0M_M10_4G": [
+  {
+   "brand": "Multilaser",
+   "name": "M10 4G",
+   "model": "M10_4G"
+  }
+ ],
  "ML_SO0G_M10_4G": [
   {
    "brand": "Multilaser",
@@ -136112,6 +136126,11 @@
    "brand": "Oppo",
    "name": "CPH2237",
    "model": "CPH2237"
+  },
+  {
+   "brand": "Oppo",
+   "name": "K10 5G",
+   "model": "CPH2237"
   }
  ],
  "OP4F7FL1": [
@@ -139662,6 +139681,13 @@
    "brand": "PERSONA",
    "name": "MyTab_A8",
    "model": "MyTab_A8"
+  }
+ ],
+ "P610": [
+  {
+   "brand": "PHILCO (ar)",
+   "name": "P610",
+   "model": "P610"
   }
  ],
  "SMARTlink": [
@@ -151876,13 +151902,6 @@
    "model": "RMX3191"
   }
  ],
- "RMX3193": [
-  {
-   "brand": "Realme",
-   "name": "realme C25",
-   "model": "RMX3193"
-  }
- ],
  "RE54D1": [
   {
    "brand": "Realme",
@@ -152211,13 +152230,6 @@
    "brand": "Realme",
    "name": "realme X50t 5G",
    "model": "RMX2052"
-  }
- ],
- "RMX3092L1": [
-  {
-   "brand": "Realme",
-   "name": "realme X7 5G",
-   "model": "RMX3092"
   }
  ],
  "RMX2176CN": [
@@ -229423,6 +229435,13 @@
    "model": "RMX3263"
   }
  ],
+ "RMX3193": [
+  {
+   "brand": "realme",
+   "name": "realme C25",
+   "model": "RMX3193"
+  }
+ ],
  "RMX3197": [
   {
    "brand": "realme",
@@ -229449,6 +229468,13 @@
    "brand": "realme",
    "name": "realme X50 Pro Play",
    "model": "RMX2072"
+  }
+ ],
+ "RMX3092L1": [
+  {
+   "brand": "realme",
+   "name": "realme X7 5G",
+   "model": "RMX3092"
   }
  ],
  "RMX3115CN": [

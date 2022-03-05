@@ -37674,6 +37674,11 @@
    "brand": "DEXP",
    "name": "P510",
    "device": "P510"
+  },
+  {
+   "brand": "PHILCO (ar)",
+   "name": "P510",
+   "device": "P510"
   }
  ],
  "Q110": [
@@ -84856,21 +84861,11 @@
    "device": "Infinity"
   }
  ],
- "beaudry": [
+ "Infinix AndroidTV": [
   {
    "brand": "Infinix",
-   "name": "\"APAC",
-   "device": "Africa\""
-  },
-  {
-   "brand": "Itel",
-   "name": "\"APAC",
-   "device": "Africa\""
-  },
-  {
-   "brand": "Syinix",
-   "name": "\"APAC",
-   "device": "Africa\""
+   "name": "43X3",
+   "device": "beaudry"
   }
  ],
  "Infinix X689F": [
@@ -89205,18 +89200,6 @@
    "device": "itel-A62"
   }
  ],
- "barking": [
-  {
-   "brand": "Itel",
-   "name": "\"APAC",
-   "device": "Africa\""
-  },
-  {
-   "brand": "Syinix",
-   "name": "\"APAC",
-   "device": "Africa\""
-  }
- ],
  "Spice F311": [
   {
    "brand": "Itel",
@@ -89229,6 +89212,20 @@
    "brand": "Itel",
    "name": "F3116",
    "device": "itel-A571WM"
+  }
+ ],
+ "itel AndroidTV": [
+  {
+   "brand": "Itel",
+   "name": "G4350",
+   "device": "beaudry"
+  }
+ ],
+ "itel Android TV": [
+  {
+   "brand": "Itel",
+   "name": "G5550",
+   "device": "barking"
   }
  ],
  "ITELL K4700Q": [
@@ -129289,6 +129286,11 @@
   {
    "brand": "Multilaser",
    "name": "M10 4G",
+   "device": "ML_JI0M_M10_4G"
+  },
+  {
+   "brand": "Multilaser",
+   "name": "M10 4G",
    "device": "ML_SO0G_M10_4G"
   }
  ],
@@ -138938,6 +138940,11 @@
    "brand": "Oppo",
    "name": "CPH2237",
    "device": "OP4FA7L1"
+  },
+  {
+   "brand": "Oppo",
+   "name": "K10 5G",
+   "device": "OP4FA7L1"
   }
  ],
  "CPH2239": [
@@ -142541,6 +142548,18 @@
    "brand": "PERSONA",
    "name": "MyTab_A8",
    "device": "MyTab_A8"
+  }
+ ],
+ "P610": [
+  {
+   "brand": "PHILCO (ar)",
+   "name": "P610",
+   "device": "P610"
+  },
+  {
+   "brand": "Premio",
+   "name": "Premio P610",
+   "device": "Premio_P610"
   }
  ],
  "SMARTlink": [
@@ -149149,13 +149168,6 @@
    "device": "Premio_P420"
   }
  ],
- "P610": [
-  {
-   "brand": "Premio",
-   "name": "Premio P610",
-   "device": "Premio_P610"
-  }
- ],
  "P620": [
   {
    "brand": "Premio",
@@ -155305,13 +155317,6 @@
    "device": "RMX3191"
   }
  ],
- "RMX3193": [
-  {
-   "brand": "Realme",
-   "name": "realme C25",
-   "device": "RMX3193"
-  }
- ],
  "RMX3265": [
   {
    "brand": "Realme",
@@ -155468,7 +155473,7 @@
    "device": "RMX3092CN"
   },
   {
-   "brand": "Realme",
+   "brand": "realme",
    "name": "realme X7 5G",
    "device": "RMX3092L1"
   }
@@ -190708,6 +190713,18 @@
    "brand": "Syco",
    "name": "RS-403_EEA",
    "device": "RS-403"
+  }
+ ],
+ "Syinix AndroidTV": [
+  {
+   "brand": "Syinix",
+   "name": "43A51",
+   "device": "beaudry"
+  },
+  {
+   "brand": "Syinix",
+   "name": "55U51",
+   "device": "barking"
   }
  ],
  "Syinix UHD Android TV": [
@@ -239747,6 +239764,13 @@
    "brand": "realme",
    "name": "realme C21-Y",
    "device": "RED8D1"
+  }
+ ],
+ "RMX3193": [
+  {
+   "brand": "realme",
+   "name": "realme C25",
+   "device": "RMX3193"
   }
  ],
  "RMX3197": [

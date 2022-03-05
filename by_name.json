@@ -44358,6 +44358,11 @@
    "brand": "DEXP",
    "device": "P510",
    "model": "P510"
+  },
+  {
+   "brand": "PHILCO (ar)",
+   "device": "P510",
+   "model": "P510"
   }
  ],
  "Q110": [
@@ -87689,38 +87694,18 @@
    "model": "AI PONT"
   }
  ],
+ "43X3": [
+  {
+   "brand": "Infinix",
+   "device": "beaudry",
+   "model": "Infinix AndroidTV"
+  }
+ ],
  "55X1": [
   {
    "brand": "Infinix",
    "device": "samseong",
    "model": "AI PONT"
-  }
- ],
- "\"APAC": [
-  {
-   "brand": "Infinix",
-   "device": "Africa\"",
-   "model": "beaudry"
-  },
-  {
-   "brand": "Itel",
-   "device": "Africa\"",
-   "model": "barking"
-  },
-  {
-   "brand": "Itel",
-   "device": "Africa\"",
-   "model": "beaudry"
-  },
-  {
-   "brand": "Syinix",
-   "device": "Africa\"",
-   "model": "barking"
-  },
-  {
-   "brand": "Syinix",
-   "device": "Africa\"",
-   "model": "beaudry"
   }
  ],
  "HOT  11": [
@@ -91780,11 +91765,25 @@
    "model": "AI PONT"
   }
  ],
+ "G4350": [
+  {
+   "brand": "Itel",
+   "device": "beaudry",
+   "model": "itel AndroidTV"
+  }
+ ],
  "G5524BE": [
   {
    "brand": "Itel",
    "device": "samseong",
    "model": "AI PONT"
+  }
+ ],
+ "G5550": [
+  {
+   "brand": "Itel",
+   "device": "barking",
+   "model": "itel Android TV"
   }
  ],
  "ITELL_K4700Q": [
@@ -127361,6 +127360,11 @@
   },
   {
    "brand": "Multilaser",
+   "device": "ML_JI0M_M10_4G",
+   "model": "M10_4G"
+  },
+  {
+   "brand": "Multilaser",
    "device": "ML_SO0G_M10_4G",
    "model": "M10_4G"
   }
@@ -136730,6 +136734,13 @@
    "model": "X909T"
   }
  ],
+ "K10 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP4FA7L1",
+   "model": "CPH2237"
+  }
+ ],
  "N1 mimi": [
   {
    "brand": "Oppo",
@@ -139981,6 +139992,13 @@
    "brand": "PERSONA",
    "device": "MyTab_A8",
    "model": "MyTab_A8"
+  }
+ ],
+ "P610": [
+  {
+   "brand": "PHILCO (ar)",
+   "device": "P610",
+   "model": "P610"
   }
  ],
  "SMARTlink": [
@@ -152315,14 +152333,14 @@
    "model": "RMX3191"
   },
   {
-   "brand": "Realme",
-   "device": "RMX3193",
-   "model": "RMX3193"
-  },
-  {
    "brand": "realme",
    "device": "RMX3191",
    "model": "RMX3191"
+  },
+  {
+   "brand": "realme",
+   "device": "RMX3193",
+   "model": "RMX3193"
   }
  ],
  "realme C25Y": [
@@ -152677,13 +152695,6 @@
    "brand": "Realme",
    "device": "RMX2052CN",
    "model": "RMX2052"
-  }
- ],
- "realme X7 5G": [
-  {
-   "brand": "Realme",
-   "device": "RMX3092L1",
-   "model": "RMX3092"
   }
  ],
  "realme X7 5G": [
@@ -182963,11 +182974,25 @@
    "model": "AI PONT"
   }
  ],
+ "43A51": [
+  {
+   "brand": "Syinix",
+   "device": "beaudry",
+   "model": "Syinix AndroidTV"
+  }
+ ],
  "55A1S": [
   {
    "brand": "Syinix",
    "device": "samseong",
    "model": "AI PONT"
+  }
+ ],
+ "55U51": [
+  {
+   "brand": "Syinix",
+   "device": "barking",
+   "model": "Syinix AndroidTV"
   }
  ],
  "Africa": [
@@ -226993,6 +227018,13 @@
    "brand": "realme",
    "device": "RMX2072CN",
    "model": "RMX2072"
+  }
+ ],
+ "realme X7 5G": [
+  {
+   "brand": "realme",
+   "device": "RMX3092L1",
+   "model": "RMX3092"
   }
  ],
  "realme X7Pro Ultra": [
