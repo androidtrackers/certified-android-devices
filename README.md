@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-03-05
+Last sync is 2022-03-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -27944,6 +27944,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sunmi|V2sNC|V2sNC|V2sNC_TR|
 |Sunmi|V2sPLUSNC|V2sPLUSNC|V2sPLUSNC_EEA|
 |Sunmi|V2sPLUSNC|V2sPLUSNC|V2sPLUSNC_GL|
+|Sunmi|V2sPLUSNC|V2sPLUSNC|V2sPLUSNC_RU|
 |Sunmi|V2sPLUSNC|V2sPLUSNC|V2sPLUSNC_TR|
 |Sunny|SN01DNGL300|YQB|SN01DNGL300|
 |Sunny|SN10016|SN10016|SN10016|

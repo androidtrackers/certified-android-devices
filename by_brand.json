@@ -143336,6 +143336,11 @@
   {
    "device": "V2sPLUSNC",
    "name": "V2sPLUSNC",
+   "model": "V2sPLUSNC_RU"
+  },
+  {
+   "device": "V2sPLUSNC",
+   "name": "V2sPLUSNC",
    "model": "V2sPLUSNC_TR"
   }
  ],
