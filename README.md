@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-03-11
+Last sync is 2022-03-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3298,6 +3298,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|M8L|M0173WW|M8L|
 |Blu|M8L|M0174WW|M8L|
 |Blu|M8L 2022|M0220WW|M8L 2022|
+|Blu|M8L 2022|M0220WW_ND|M8L 2022|
 |Blu|M8L PLUS|M0209WW|M8L PLUS|
 |Blu|M8L PLUS|M0210WW|M8L PLUS|
 |Blu|M8L_PLUS|M0208WW|M8L PLUS|
@@ -17165,6 +17166,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mecer|TF10EA2|TF10EA2_11|TF10EA2|
 |Mecer|TF10MK1|TF10MK1_2|TF10MK1|
 |Mecer|TF10MK1|TF10MK1_3|TF10MK1|
+|Mecool|KA1|KA1|KA1|
 |Mecool|KA2|KA2|KA2|
 |Mecool|KD1|KD1|KD1|
 |Mecool|KD2|KD2|KD2|
@@ -19170,6 +19172,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NETGREEN|M16QF9AR|M16QF9AR|M16QF9AR|
 |NETGREEN|M16QF9ES|M16QF9ES|M16QF9ES|
 |NETGREEN|MW75QF6|MW75QF6|MW75QF6|
+|NETTV|NETTV|SEI500NTV|NETTV|
 |NEWSUN|S13|S13|S13|
 |NEWSUN|S20|S20|S20|
 |NEWSUN|S9|S9|S9|
@@ -20583,6 +20586,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Orange|Orange|Rise_55|Orange Rise 55|
 |Orange|Orange Neva leaf|Neva_leaf|Orange Neva leaf|
 |Orange|Orange Neva play|Neva_play|Orange Neva play|
+|Orange|Orange Neva sparkle|Neva_sparkle|Orange Neva sparkle|
 |Orange|Orange Neva zen|Neva_zen|Orange Neva zen|
 |Orange|Orange Nola play|Nola_play|Orange Nola play|
 |Orange|Orange Rise 33|Rise33|Orange_Rise_33|
@@ -22979,6 +22983,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reeder|P13 Blue Maks|P13_Blue_Maks|P13_Blue_Maks|
 |Reeder|P13 Blue Max|P13_Blue_Max|P13_Blue_Max|
 |Reeder|P13 Blue Max 128 GB|P13_Blue_Max_128_GB|P13 Blue Max 128 GB|
+|Reeder|P13 Blue Max 128 GB 2022|Blue_Max_128GB_2022k1|P13 Blue Max 128 GB 2022|
 |Reeder|P13 Blue Max Lite|P13_BML|P13 Blue Max Lite|
 |Reeder|P13 Blue Max Pro|P13_Blue_Max_Pro|P13 Blue Max Pro|
 |Reeder|P13 Blue Max Pro 2021|P13_Blue_Max_Pro_2021|P13 Blue Max Pro 2021|
@@ -23634,6 +23639,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A13|a13|SM-A135M|
 |Samsung|Galaxy A13|a13|SM-A135N|
 |Samsung|Galaxy A13|a13|SM-A135U|
+|Samsung|Galaxy A13|a13|SM-A135U1|
 |Samsung|Galaxy A13 5G|a13x|SM-A136U|
 |Samsung|Galaxy A13 5G|a13x|SM-A136U1|
 |Samsung|Galaxy A13 5G|a13x|SM-A136W|
@@ -24564,6 +24570,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M32|m32|SM-M325F|
 |Samsung|Galaxy M32|m32|SM-M325FV|
 |Samsung|Galaxy M32 5G|a32x|SM-M326B|
+|Samsung|Galaxy M33 5G|m33x|SM-M336B|
+|Samsung|Galaxy M33 5G|m33x|SM-M336BU|
+|Samsung|Galaxy M33 5G|m33x|SM-M336K|
 |Samsung|Galaxy M40|m40|SM-M405F|
 |Samsung|Galaxy M42 5G|a42xq|SM-M426B|
 |Samsung|Galaxy M51|m51|SM-M515F|
@@ -25151,18 +25160,21 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S21+ 5G|t2s|SM-G996N|
 |Samsung|Galaxy S22|r0q|SM-S9010|
 |Samsung|Galaxy S22|r0q|SM-S901E|
+|Samsung|Galaxy S22|r0q|SM-S901N|
 |Samsung|Galaxy S22|r0q|SM-S901U|
 |Samsung|Galaxy S22|r0q|SM-S901U1|
 |Samsung|Galaxy S22|r0q|SM-S901W|
 |Samsung|Galaxy S22|r0s|SM-S901B|
 |Samsung|Galaxy S22 Ultra|b0q|SM-S9080|
 |Samsung|Galaxy S22 Ultra|b0q|SM-S908E|
+|Samsung|Galaxy S22 Ultra|b0q|SM-S908N|
 |Samsung|Galaxy S22 Ultra|b0q|SM-S908U|
 |Samsung|Galaxy S22 Ultra|b0q|SM-S908U1|
 |Samsung|Galaxy S22 Ultra|b0q|SM-S908W|
 |Samsung|Galaxy S22 Ultra|b0s|SM-S908B|
 |Samsung|Galaxy S22+|g0q|SM-S9060|
 |Samsung|Galaxy S22+|g0q|SM-S906E|
+|Samsung|Galaxy S22+|g0q|SM-S906N|
 |Samsung|Galaxy S22+|g0q|SM-S906U|
 |Samsung|Galaxy S22+|g0q|SM-S906U1|
 |Samsung|Galaxy S22+|g0q|SM-S906W|
@@ -25825,19 +25837,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S7+ 5G|gts7xl|SM-T976N|
 |Samsung|Galaxy Tab S7+ 5G|gts7xl|SM-T978U|
 |Samsung|Galaxy Tab S8|gts8wifi|SM-X700|
-|Samsung|Galaxy Tab S8 5G|gts8|SM-X706B|
-|Samsung|Galaxy Tab S8 5G|gts8|SM-X706C|
-|Samsung|Galaxy Tab S8 5G|gts8|SM-X706N|
 |Samsung|Galaxy Tab S8 Ultra|gts8uwifi|SM-X900|
-|Samsung|Galaxy Tab S8 Ultra 5G|gts8u|SM-X906B|
-|Samsung|Galaxy Tab S8 Ultra 5G|gts8u|SM-X906C|
-|Samsung|Galaxy Tab S8 Ultra 5G|gts8u|SM-X906N|
-|Samsung|Galaxy Tab S8+|gts8pwifi|SM-X800|
-|Samsung|Galaxy Tab S8+ 5G|gts8p|SM-X806B|
-|Samsung|Galaxy Tab S8+ 5G|gts8p|SM-X806C|
-|Samsung|Galaxy Tab S8+ 5G|gts8p|SM-X806E|
-|Samsung|Galaxy Tab S8+ 5G|gts8p|SM-X806N|
-|Samsung|Galaxy Tab S8+ 5G|gts8p|SM-X808U|
 |Samsung|Galaxy Tab2 10.1|espresso10att|SAMSUNG-SGH-I497|
 |Samsung|Galaxy Tab2 10.1|espresso10can|SGH-I497|
 |Samsung|Galaxy Tab2 10.1|espresso10rf|GT-P5100|
@@ -27218,8 +27218,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 10 III|A102SO|A102SO|
 |Sony|Xperia 10 III|SO-52B|SO-52B|
 |Sony|Xperia 10 III|SOG04|SOG04|
-|Sony|Xperia 10 III|XQ-BT44|XQ-BT44|
 |Sony|Xperia 10 III|XQ-BT52|XQ-BT52|
+|Sony|Xperia 10 III Lite|XQ-BT44|XQ-BT44|
 |Sony|Xperia 10 Plus|I3213|I3213|
 |Sony|Xperia 10 Plus|I3223|I3223|
 |Sony|Xperia 10 Plus|I4213|I4213|
@@ -30235,6 +30235,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO POP 5|TECNO-BD2p|TECNO BD2p|
 |Tecno|TECNO POP 5 Go|TECNO-BD1|TECNO BD1|
 |Tecno|TECNO POP 5 LTE|TECNO-BD4|TECNO BD4|
+|Tecno|TECNO POP 6 Go|TECNO-BE6-R2|TECNO BE6|
 |Tecno|TECNO POP X5|TECNO-L6502S|TECNO L6502S|
 |Tecno|TECNO POVA 2|TECNO-LE7|TECNO LE7|
 |Tecno|TECNO POVA 2|TECNO-LE7n|TECNO LE7n|
@@ -30945,6 +30946,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|A11S EEA|A11S|MP01|
 |Umidigi|A11_Tab|A11_Tab|MT01|
 |Umidigi|A11_Tab-EEA|A11_Tab-EEA|MT01|
+|Umidigi|A13 Pro|A13_Pro|MP05|
 |Umidigi|A3|A3|A3|
 |Umidigi|A3S|A3S|A3S|
 |Umidigi|A3S_EEA|A3S|A3S|
@@ -35763,6 +35765,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |simpliTV|Strong-SRT4150|HY43X|Strong-SRT4150|
 |simpliTV|Strong-SRT4250|HY43X|Strong-SRT4250|
 |sincoole|ST11-A5|ST11-A5|ST11-A5|
+|stc myhome|myHome|SEI560STC|myHome|
 |sugar_aums|QPOINT|QPI-1|QPI-1|
 |teXet|TM-4510|TM-4510|TM-4510|
 |teXet|TM-5071|TM_5071|TM-5071|

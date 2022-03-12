@@ -27267,6 +27267,13 @@
    "model": "M8L 2022"
   }
  ],
+ "M0220WW_ND": [
+  {
+   "brand": "Blu",
+   "name": "M8L 2022",
+   "model": "M8L 2022"
+  }
+ ],
  "M0209WW": [
   {
    "brand": "Blu",
@@ -117072,6 +117079,13 @@
    "model": "TF10MK1"
   }
  ],
+ "KA1": [
+  {
+   "brand": "Mecool",
+   "name": "KA1",
+   "model": "KA1"
+  }
+ ],
  "KA2": [
   {
    "brand": "Mecool",
@@ -129937,6 +129951,13 @@
    "model": "MW75QF6"
   }
  ],
+ "SEI500NTV": [
+  {
+   "brand": "NETTV",
+   "name": "NETTV",
+   "model": "NETTV"
+  }
+ ],
  "NexaN5a": [
   {
    "brand": "NEXA",
@@ -138466,6 +138487,13 @@
    "brand": "Orange",
    "name": "Orange Neva play",
    "model": "Orange Neva play"
+  }
+ ],
+ "Neva_sparkle": [
+  {
+   "brand": "Orange",
+   "name": "Orange Neva sparkle",
+   "model": "Orange Neva sparkle"
   }
  ],
  "Neva_zen": [
@@ -153673,6 +153701,13 @@
    "model": "P13 Blue Max 128 GB"
   }
  ],
+ "Blue_Max_128GB_2022k1": [
+  {
+   "brand": "Reeder",
+   "name": "P13 Blue Max 128 GB 2022",
+   "model": "P13 Blue Max 128 GB 2022"
+  }
+ ],
  "P13_BML": [
   {
    "brand": "Reeder",
@@ -157678,6 +157713,11 @@
    "brand": "Samsung",
    "name": "Galaxy A13",
    "model": "SM-A135U"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A13",
+   "model": "SM-A135U1"
   }
  ],
  "a13x": [
@@ -163457,6 +163497,23 @@
    "model": "SM-M325FV"
   }
  ],
+ "m33x": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M33 5G",
+   "model": "SM-M336B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M33 5G",
+   "model": "SM-M336BU"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M33 5G",
+   "model": "SM-M336K"
+  }
+ ],
  "m40": [
   {
    "brand": "Samsung",
@@ -167193,6 +167250,11 @@
   {
    "brand": "Samsung",
    "name": "Galaxy S22",
+   "model": "SM-S901N"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22",
    "model": "SM-S901U"
   },
   {
@@ -167227,6 +167289,11 @@
   {
    "brand": "Samsung",
    "name": "Galaxy S22 Ultra",
+   "model": "SM-S908N"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22 Ultra",
    "model": "SM-S908U"
   },
   {
@@ -167257,6 +167324,11 @@
    "brand": "Samsung",
    "name": "Galaxy S22+",
    "model": "SM-S906E"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22+",
+   "model": "SM-S906N"
   },
   {
    "brand": "Samsung",
@@ -171616,79 +171688,11 @@
    "model": "SM-X700"
   }
  ],
- "gts8": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Tab S8 5G",
-   "model": "SM-X706B"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Tab S8 5G",
-   "model": "SM-X706C"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Tab S8 5G",
-   "model": "SM-X706N"
-  }
- ],
  "gts8uwifi": [
   {
    "brand": "Samsung",
    "name": "Galaxy Tab S8 Ultra",
    "model": "SM-X900"
-  }
- ],
- "gts8u": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Tab S8 Ultra 5G",
-   "model": "SM-X906B"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Tab S8 Ultra 5G",
-   "model": "SM-X906C"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Tab S8 Ultra 5G",
-   "model": "SM-X906N"
-  }
- ],
- "gts8pwifi": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Tab S8+",
-   "model": "SM-X800"
-  }
- ],
- "gts8p": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Tab S8+ 5G",
-   "model": "SM-X806B"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Tab S8+ 5G",
-   "model": "SM-X806C"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Tab S8+ 5G",
-   "model": "SM-X806E"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Tab S8+ 5G",
-   "model": "SM-X806N"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Tab S8+ 5G",
-   "model": "SM-X808U"
   }
  ],
  "espresso10att": [
@@ -180506,18 +180510,18 @@
    "model": "SOG04"
   }
  ],
- "XQ-BT44": [
-  {
-   "brand": "Sony",
-   "name": "Xperia 10 III",
-   "model": "XQ-BT44"
-  }
- ],
  "XQ-BT52": [
   {
    "brand": "Sony",
    "name": "Xperia 10 III",
    "model": "XQ-BT52"
+  }
+ ],
+ "XQ-BT44": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 III Lite",
+   "model": "XQ-BT44"
   }
  ],
  "I3213": [
@@ -197867,6 +197871,13 @@
    "model": "TECNO BD4"
   }
  ],
+ "TECNO-BE6-R2": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO POP 6 Go",
+   "model": "TECNO BE6"
+  }
+ ],
  "TECNO-L6502S": [
   {
    "brand": "Tecno",
@@ -202165,6 +202176,13 @@
    "brand": "Umidigi",
    "name": "A11_Tab-EEA",
    "model": "MT01"
+  }
+ ],
+ "A13_Pro": [
+  {
+   "brand": "Umidigi",
+   "name": "A13 Pro",
+   "model": "MP05"
   }
  ],
  "A3S": [
@@ -230229,6 +230247,13 @@
    "brand": "sincoole",
    "name": "ST11-A5",
    "model": "ST11-A5"
+  }
+ ],
+ "SEI560STC": [
+  {
+   "brand": "stc myhome",
+   "name": "myHome",
+   "model": "myHome"
   }
  ],
  "QPI-1": [
