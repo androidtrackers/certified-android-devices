@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-03-12
+Last sync is 2022-03-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -30996,6 +30996,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|F1_EEA|F1|F1|
 |Umidigi|F2|F2|F2|
 |Umidigi|F3 SE|F3_SE|MP09|
+|Umidigi|F3S|F3S|MP09|
 |Umidigi|MT02_EEA|MT02_EEA|AblePad|
 |Umidigi|MT02_ROW|MT02_ROW|AblePad|
 |Umidigi|One|One|One|

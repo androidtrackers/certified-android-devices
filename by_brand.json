@@ -159030,6 +159030,11 @@
    "model": "MP09"
   },
   {
+   "device": "F3S",
+   "name": "F3S",
+   "model": "MP09"
+  },
+  {
    "device": "MT02_EEA",
    "name": "MT02_EEA",
    "model": "AblePad"
