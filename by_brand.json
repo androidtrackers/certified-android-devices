@@ -4720,6 +4720,11 @@
    "model": "H1003_LTE_PRO1"
   },
   {
+   "device": "H1003_LTE_PRO1_32",
+   "name": "Viva H1003 LTE PRO/1",
+   "model": "H1003_LTE_PRO1"
+  },
+  {
    "device": "H1003_LTE_PRO1_64",
    "name": "Viva H1003 LTE PRO/1-64GB",
    "model": "H1003_LTE_PRO1"
@@ -10960,6 +10965,11 @@
    "device": "AT701U",
    "name": "AT701U",
    "model": "AT701U"
+  },
+  {
+   "device": "AT801",
+   "name": "AT801",
+   "model": "AT801"
   }
  ],
  "Azumi": [
@@ -13865,6 +13875,13 @@
    "device": "LRNS10WIFI",
    "name": "LRNS10WNW0",
    "model": "LRNS10WNW0"
+  }
+ ],
+ "BYYBUO": [
+  {
+   "device": "BYYBUO_SmartPad_T10",
+   "name": "BYYBUO_SmartPad_T10",
+   "model": "BYYBUO_SmartPad_T10"
   }
  ],
  "Bang & Olufsen": [
@@ -18848,6 +18865,13 @@
    "model": "F880"
   }
  ],
+ "CIMI": [
+  {
+   "device": "A8",
+   "name": "A8",
+   "model": "A8"
+  }
+ ],
  "CIMRL": [
   {
    "device": "tab10",
@@ -23097,6 +23121,11 @@
    "model": "CONQUEST S21"
   },
   {
+   "device": "S21",
+   "name": "S21_RU",
+   "model": "CONQUEST S21"
+  },
+  {
    "device": "conquest-S20",
    "name": "conquest-S20",
    "model": "conquest-S20"
@@ -25650,6 +25679,11 @@
    "device": "C37",
    "name": "C37",
    "model": "C37"
+  },
+  {
+   "device": "C38",
+   "name": "C38",
+   "model": "C38"
   },
   {
    "device": "D11",
@@ -34319,6 +34353,11 @@
    "device": "T8M",
    "name": "T8M",
    "model": "T8M"
+  },
+  {
+   "device": "T8Plus",
+   "name": "T8Plus",
+   "model": "T8 Plus"
   }
  ],
  "FPT Telecom": [
@@ -37059,6 +37098,11 @@
    "model": "F8"
   },
   {
+   "device": "F8X",
+   "name": "F8X",
+   "model": "F8X"
+  },
+  {
    "device": "G4",
    "name": "G4",
    "model": "G4"
@@ -38209,6 +38253,13 @@
    "device": "longshan",
    "name": "Smart TV",
    "model": "AI PONT"
+  }
+ ],
+ "General_luxe": [
+  {
+   "device": "Shahin_III",
+   "name": "Shahin_III",
+   "model": "SHAHIN III"
   }
  ],
  "Geniatech": [
@@ -41045,6 +41096,13 @@
    "device": "Tab_i_excess",
    "name": "Tab_i_excess",
    "model": "Tab_i_excess"
+  }
+ ],
+ "HEALTHJAY": [
+  {
+   "device": "JayPad_2_0",
+   "name": "JayPad_2_0",
+   "model": "JayPad_2_0"
   }
  ],
  "HEATZ": [
@@ -60161,6 +60219,11 @@
    "model": "Koral_8W2"
   },
   {
+   "device": "HT10LA1MSGNA02",
+   "name": "HT10LA1MSGNA02",
+   "model": "10LA1"
+  },
+  {
    "device": "HT10LB3MBKLTM",
    "name": "HT10LB3MBKLTM",
    "model": "HT10LB3MBKLTM"
@@ -60194,6 +60257,11 @@
    "device": "HT8LA1RBKNA01",
    "name": "HT8LA1RBKNA01",
    "model": "8LA1"
+  },
+  {
+   "device": "HT8LAB1PBKLTM",
+   "name": "HT8LAB1PBKLTM",
+   "model": "HT8LAB1PBKLTM"
   },
   {
    "device": "HT8WB1RBK01",
@@ -67924,6 +67992,11 @@
   }
  ],
  "Kammunica": [
+  {
+   "device": "Kammunica_500V",
+   "name": "Kammunica_500V",
+   "model": "Kammunica_500V"
+  },
   {
    "device": "Kammunica_XD",
    "name": "Kammunica_XD",
@@ -102951,6 +103024,11 @@
    "model": "Smart_J2"
   },
   {
+   "device": "SMARTKIDS",
+   "name": "SMARTKIDS",
+   "model": "SMARTKIDS"
+  },
+  {
    "device": "SmartX6",
    "name": "Smart X6",
    "model": "Opel Mobile SmartX6"
@@ -122525,6 +122603,11 @@
   },
   {
    "device": "a53x",
+   "name": "Galaxy A53 5G",
+   "model": "SM-A536U"
+  },
+  {
+   "device": "a53x",
    "name": "Galaxy A53 5G UW",
    "model": "SM-A536V"
   },
@@ -126187,6 +126270,11 @@
    "device": "m22",
    "name": "Galaxy M22",
    "model": "SM-M225FV"
+  },
+  {
+   "device": "m23xq",
+   "name": "Galaxy M23 5G",
+   "model": "SM-E236B"
   },
   {
    "device": "m23xq",
@@ -132579,9 +132667,69 @@
    "model": "SM-X700"
   },
   {
+   "device": "gts8",
+   "name": "Galaxy Tab S8 5G",
+   "model": "SM-X706B"
+  },
+  {
+   "device": "gts8",
+   "name": "Galaxy Tab S8 5G",
+   "model": "SM-X706C"
+  },
+  {
+   "device": "gts8",
+   "name": "Galaxy Tab S8 5G",
+   "model": "SM-X706N"
+  },
+  {
    "device": "gts8uwifi",
    "name": "Galaxy Tab S8 Ultra",
    "model": "SM-X900"
+  },
+  {
+   "device": "gts8u",
+   "name": "Galaxy Tab S8 Ultra 5G",
+   "model": "SM-X906B"
+  },
+  {
+   "device": "gts8u",
+   "name": "Galaxy Tab S8 Ultra 5G",
+   "model": "SM-X906C"
+  },
+  {
+   "device": "gts8u",
+   "name": "Galaxy Tab S8 Ultra 5G",
+   "model": "SM-X906N"
+  },
+  {
+   "device": "gts8pwifi",
+   "name": "Galaxy Tab S8+",
+   "model": "SM-X800"
+  },
+  {
+   "device": "gts8p",
+   "name": "Galaxy Tab S8+ 5G",
+   "model": "SM-X806B"
+  },
+  {
+   "device": "gts8p",
+   "name": "Galaxy Tab S8+ 5G",
+   "model": "SM-X806C"
+  },
+  {
+   "device": "gts8p",
+   "name": "Galaxy Tab S8+ 5G",
+   "model": "SM-X806E"
+  },
+  {
+   "device": "gts8p",
+   "name": "Galaxy Tab S8+ 5G",
+   "model": "SM-X806N"
+  },
+  {
+   "device": "gts8p",
+   "name": "Galaxy Tab S8+ 5G",
+   "model": "SM-X808U"
   },
   {
    "device": "espresso10att",
@@ -152344,6 +152492,11 @@
    "model": "TJD MT-710QU"
   },
   {
+   "device": "MT-710QU_Pro",
+   "name": "MT-710QU_Pro",
+   "model": "MT-710QU_Pro"
+  },
+  {
    "device": "MT-715QR",
    "name": "MT-715QR",
    "model": "MT-715QR"
@@ -153779,6 +153932,11 @@
    "device": "P85_ROW",
    "name": "P85_ROW",
    "model": "P85_ROW"
+  },
+  {
+   "device": "P85_RUS",
+   "name": "P85_RUS",
+   "model": "P85_RUS"
   },
   {
    "device": "T30",
@@ -162081,6 +162239,11 @@
    "device": "NEW_7",
    "name": "NEW 7",
    "model": "NEW 7"
+  },
+  {
+   "device": "NEW_20",
+   "name": "NEW_20",
+   "model": "NEW 20"
   },
   {
    "device": "NEW_5",
@@ -170687,6 +170850,13 @@
    "device": "yetruepad21_EEA",
    "name": "yetruepad21",
    "model": "yetruepad21"
+  }
+ ],
+ "YOBANSE": [
+  {
+   "device": "T88",
+   "name": "T88",
+   "model": "T88"
   }
  ],
  "YOSATOO": [
@@ -182360,6 +182530,11 @@
    "model": "muPAD L10"
   },
   {
+   "device": "muPAD102",
+   "name": "muPAD102",
+   "model": "muPAD102"
+  },
+  {
    "device": "muPADT7",
    "name": "muPADT7",
    "model": "muPADT7"
@@ -183019,6 +183194,13 @@
    "device": "P30",
    "name": "P30",
    "model": "P30"
+  }
+ ],
+ "menfop": [
+  {
+   "device": "HaierP8B",
+   "name": "HaierP8B",
+   "model": "HaierP8B"
   }
  ],
  "mytel": [

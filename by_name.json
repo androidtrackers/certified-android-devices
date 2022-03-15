@@ -10828,6 +10828,11 @@
    "model": "A8"
   },
   {
+   "brand": "CIMI",
+   "device": "A8",
+   "model": "A8"
+  },
+  {
    "brand": "Coolpad",
    "device": "A8",
    "model": "Coolpad A8"
@@ -13653,6 +13658,11 @@
   {
    "brand": "AllView",
    "device": "H1003_LTE_PRO1",
+   "model": "H1003_LTE_PRO1"
+  },
+  {
+   "brand": "AllView",
+   "device": "H1003_LTE_PRO1_32",
    "model": "H1003_LTE_PRO1"
   }
  ],
@@ -22144,6 +22154,13 @@
    "model": "AT701U"
   }
  ],
+ "AT801": [
+  {
+   "brand": "Azeyou",
+   "device": "AT801",
+   "model": "AT801"
+  }
+ ],
  "A4": [
   {
    "brand": "Azumi",
@@ -26234,6 +26251,13 @@
    "brand": "BYJUS",
    "device": "LRNS10WIFI",
    "model": "LRNS10WNW0"
+  }
+ ],
+ "BYYBUO_SmartPad_T10": [
+  {
+   "brand": "BYYBUO",
+   "device": "BYYBUO_SmartPad_T10",
+   "model": "BYYBUO_SmartPad_T10"
   }
  ],
  "BeoVision": [
@@ -40107,6 +40131,13 @@
    "model": "S21_EEA"
   }
  ],
+ "S21_RU": [
+  {
+   "brand": "Conquest",
+   "device": "S21",
+   "model": "CONQUEST S21"
+  }
+ ],
  "conquest-S20": [
   {
    "brand": "Conquest",
@@ -43732,6 +43763,13 @@
    "brand": "DEXP",
    "device": "C37",
    "model": "C37"
+  }
+ ],
+ "C38": [
+  {
+   "brand": "DEXP",
+   "device": "C38",
+   "model": "C38"
   }
  ],
  "D11": [
@@ -55686,6 +55724,13 @@
    "model": "T8M"
   }
  ],
+ "T8Plus": [
+  {
+   "brand": "FOXXD",
+   "device": "T8Plus",
+   "model": "T8 Plus"
+  }
+ ],
  "FPT ATV Play Box": [
   {
    "brand": "FPT Telecom",
@@ -59383,6 +59428,13 @@
    "model": "F8"
   }
  ],
+ "F8X": [
+  {
+   "brand": "G-Tab",
+   "device": "F8X",
+   "model": "F8X"
+  }
+ ],
  "N271": [
   {
    "brand": "G-Tab",
@@ -60735,6 +60787,13 @@
    "brand": "GeneralMobile",
    "device": "blue_eye",
    "model": "E-Tab10"
+  }
+ ],
+ "Shahin_III": [
+  {
+   "brand": "General_luxe",
+   "device": "Shahin_III",
+   "model": "SHAHIN III"
   }
  ],
  "ATV495MAX": [
@@ -64865,6 +64924,13 @@
    "brand": "HDD SAT",
    "device": "Tab_i_excess",
    "model": "Tab_i_excess"
+  }
+ ],
+ "JayPad_2_0": [
+  {
+   "brand": "HEALTHJAY",
+   "device": "JayPad_2_0",
+   "model": "JayPad_2_0"
   }
  ],
  "HZ9950": [
@@ -85789,6 +85855,13 @@
    "model": "Koral_8W2"
   }
  ],
+ "HT10LA1MSGNA02": [
+  {
+   "brand": "Hyundai",
+   "device": "HT10LA1MSGNA02",
+   "model": "10LA1"
+  }
+ ],
  "HT10LB3MBKLTM": [
   {
    "brand": "Hyundai",
@@ -85836,6 +85909,13 @@
    "brand": "Hyundai",
    "device": "HT8LA1RBKNA01",
    "model": "8LA1"
+  }
+ ],
+ "HT8LAB1PBKLTM": [
+  {
+   "brand": "Hyundai",
+   "device": "HT8LAB1PBKLTM",
+   "model": "HT8LAB1PBKLTM"
   }
  ],
  "HT8WB1RBK01": [
@@ -95284,6 +95364,13 @@
    "brand": "Kalley",
    "device": "xiaoyushan",
    "model": "HiSmartTV A4"
+  }
+ ],
+ "Kammunica_500V": [
+  {
+   "brand": "Kammunica",
+   "device": "Kammunica_500V",
+   "model": "Kammunica_500V"
   }
  ],
  "Kammunica_XD": [
@@ -135534,6 +135621,13 @@
    "model": "Smart_J2"
   }
  ],
+ "SMARTKIDS": [
+  {
+   "brand": "OpelMobile",
+   "device": "SMARTKIDS",
+   "model": "SMARTKIDS"
+  }
+ ],
  "Smart X6": [
   {
    "brand": "OpelMobile",
@@ -159138,6 +159232,11 @@
    "brand": "Samsung",
    "device": "a53x",
    "model": "SM-A536N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a53x",
+   "model": "SM-A536U"
   }
  ],
  "Galaxy A53 5G UW": [
@@ -163161,6 +163260,11 @@
   }
  ],
  "Galaxy M23 5G": [
+  {
+   "brand": "Samsung",
+   "device": "m23xq",
+   "model": "SM-E236B"
+  },
   {
    "brand": "Samsung",
    "device": "m23xq",
@@ -170072,11 +170176,79 @@
    "model": "SM-X700"
   }
  ],
+ "Galaxy Tab S8 5G": [
+  {
+   "brand": "Samsung",
+   "device": "gts8",
+   "model": "SM-X706B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gts8",
+   "model": "SM-X706C"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gts8",
+   "model": "SM-X706N"
+  }
+ ],
  "Galaxy Tab S8 Ultra": [
   {
    "brand": "Samsung",
    "device": "gts8uwifi",
    "model": "SM-X900"
+  }
+ ],
+ "Galaxy Tab S8 Ultra 5G": [
+  {
+   "brand": "Samsung",
+   "device": "gts8u",
+   "model": "SM-X906B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gts8u",
+   "model": "SM-X906C"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gts8u",
+   "model": "SM-X906N"
+  }
+ ],
+ "Galaxy Tab S8+": [
+  {
+   "brand": "Samsung",
+   "device": "gts8pwifi",
+   "model": "SM-X800"
+  }
+ ],
+ "Galaxy Tab S8+ 5G": [
+  {
+   "brand": "Samsung",
+   "device": "gts8p",
+   "model": "SM-X806B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gts8p",
+   "model": "SM-X806C"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gts8p",
+   "model": "SM-X806E"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gts8p",
+   "model": "SM-X806N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gts8p",
+   "model": "SM-X808U"
   }
  ],
  "Galaxy Tab2 10.1": [
@@ -192516,6 +192688,13 @@
    "model": "TJD MT-710QU"
   }
  ],
+ "MT-710QU_Pro": [
+  {
+   "brand": "TJD(SZ)",
+   "device": "MT-710QU_Pro",
+   "model": "MT-710QU_Pro"
+  }
+ ],
  "MT-715QR": [
   {
    "brand": "TJD(SZ)",
@@ -194163,6 +194342,13 @@
    "brand": "Teclast",
    "device": "P85_ROW",
    "model": "P85_ROW"
+  }
+ ],
+ "P85_RUS": [
+  {
+   "brand": "Teclast",
+   "device": "P85_RUS",
+   "model": "P85_RUS"
   }
  ],
  "T30_EEA": [
@@ -203807,6 +203993,13 @@
    "brand": "Vgo Tel",
    "device": "NEW_7",
    "model": "NEW 7"
+  }
+ ],
+ "NEW_20": [
+  {
+   "brand": "Vgo Tel",
+   "device": "NEW_20",
+   "model": "NEW 20"
   }
  ],
  "New 5": [
@@ -214042,6 +214235,18 @@
    "model": "yetruepad21"
   }
  ],
+ "T88": [
+  {
+   "brand": "YOBANSE",
+   "device": "T88",
+   "model": "T88"
+  },
+  {
+   "brand": "ZTE",
+   "device": "msm8226",
+   "model": "ZTE T88"
+  }
+ ],
  "KIDS07A": [
   {
    "brand": "YOSATOO",
@@ -219607,13 +219812,6 @@
    "brand": "ZTE",
    "device": "msm8226",
    "model": "ZTE T86"
-  }
- ],
- "T88": [
-  {
-   "brand": "ZTE",
-   "device": "msm8226",
-   "model": "ZTE T88"
   }
  ],
  "T911": [
@@ -226666,6 +226864,13 @@
    "model": "muPAD L10"
   }
  ],
+ "muPAD102": [
+  {
+   "brand": "iMuz",
+   "device": "muPAD102",
+   "model": "muPAD102"
+  }
+ ],
  "muPADT7": [
   {
    "brand": "iMuz",
@@ -227310,6 +227515,13 @@
    "brand": "mMax",
    "device": "M55",
    "model": "M55"
+  }
+ ],
+ "HaierP8B": [
+  {
+   "brand": "menfop",
+   "device": "HaierP8B",
+   "model": "HaierP8B"
   }
  ],
  "M9501": [
