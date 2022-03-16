@@ -6699,6 +6699,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "Aiwa",
+   "device": "redwood",
+   "model": "AI PONT"
+  },
+  {
    "brand": "BEC-KW",
    "device": "longshan",
    "model": "AI PONT"
@@ -6964,6 +6969,11 @@
    "model": "Smart TV"
   },
   {
+   "brand": "UD (EU)",
+   "device": "redwood",
+   "model": "AI PONT"
+  },
+  {
    "brand": "UNITED TV",
    "device": "osaki",
    "model": "2K AI Smart TV"
@@ -6986,6 +6996,11 @@
   {
    "brand": "biolux",
    "device": "longshan",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "homez",
+   "device": "redwood",
    "model": "AI PONT"
   },
   {
@@ -7456,6 +7471,13 @@
    "brand": "ATEAM",
    "device": "A801",
    "model": "A801"
+  }
+ ],
+ "APD3": [
+  {
+   "brand": "ATEC",
+   "device": "APD3",
+   "model": "APD3"
   }
  ],
  "AT908": [
@@ -9268,6 +9290,11 @@
    "model": "ATV R2"
   },
   {
+   "brand": "TD SYSTEMS",
+   "device": "redwood",
+   "model": "TD SYSTEMS Android TV"
+  },
+  {
    "brand": "TECO",
    "device": "longshan",
    "model": "AI PONT"
@@ -9316,6 +9343,11 @@
    "brand": "Xtreme",
    "device": "R1",
    "model": "ATV R1"
+  },
+  {
+   "brand": "biolux",
+   "device": "redwood",
+   "model": "AI PONT"
   },
   {
    "brand": "innos",
@@ -14752,8 +14784,20 @@
  "Altus Android TV": [
   {
    "brand": "Altus",
+   "device": "kunyang",
+   "model": "4K Pro TV"
+  },
+  {
+   "brand": "Altus",
    "device": "shinagawa",
    "model": "Altus Android TV"
+  }
+ ],
+ "Altus UHD Android TV": [
+  {
+   "brand": "Altus",
+   "device": "kunyang",
+   "model": "UHD Pro TV"
   }
  ],
  "KIREI A5Q PLUS": [
@@ -35269,6 +35313,13 @@
    "model": "WSD-F30"
   }
  ],
+ "dtx450": [
+  {
+   "brand": "Casio",
+   "device": "dtx450",
+   "model": "DT-X400/X450"
+  }
+ ],
  "itg600": [
   {
    "brand": "Casio",
@@ -50524,6 +50575,13 @@
    "model": "Durabrand 2K Android TV"
   }
  ],
+ "DB Android TV 4K": [
+  {
+   "brand": "Durabrand",
+   "device": "dupont",
+   "model": "DB Android TV 4K"
+  }
+ ],
  "Durabrand android TV": [
   {
    "brand": "Durabrand",
@@ -52136,6 +52194,13 @@
    "brand": "Echolink",
    "device": "shinagawa",
    "model": "Echolink TV"
+  }
+ ],
+ "ECOSTAR": [
+  {
+   "brand": "EcoStar",
+   "device": "stanford",
+   "model": "40D"
   }
  ],
  "ECOSTAR SMART TV": [
@@ -54306,6 +54371,11 @@
   }
  ],
  "Fine 7B": [
+  {
+   "brand": "Everex",
+   "device": "Fine_7B",
+   "model": "FINE 7B"
+  },
   {
    "brand": "Everex",
    "device": "Fine_7B",
@@ -70313,6 +70383,13 @@
    "brand": "Haier",
    "device": "daan",
    "model": "Haier Android TV FFProISDB"
+  }
+ ],
+ "Haier Android TV ISDB": [
+  {
+   "brand": "Haier",
+   "device": "dupont",
+   "model": "Haier Android TV ISDB"
   }
  ],
  "Haier Android TV ISDB2K": [
@@ -95146,6 +95223,20 @@
    "model": "40D"
   }
  ],
+ "Rosso": [
+  {
+   "brand": "KTCtv",
+   "device": "stanford",
+   "model": "40D"
+  }
+ ],
+ "SA": [
+  {
+   "brand": "KTCtv",
+   "device": "stanford",
+   "model": "40DSA"
+  }
+ ],
  "PureKTV": [
   {
    "brand": "KTV",
@@ -95703,6 +95794,13 @@
    "brand": "Karbonn",
    "device": "K9_Viraat_Plus",
    "model": "K9_Viraat_Plus"
+  }
+ ],
+ "Karbonn": [
+  {
+   "brand": "Karbonn",
+   "device": "stanford",
+   "model": "40D"
   }
  ],
  "Karbonn K9 Music 4G": [
@@ -97533,6 +97631,13 @@
    "model": "KE-TB1032OF"
   }
  ],
+ "KE-TB815": [
+  {
+   "brand": "KrossElegance",
+   "device": "KE-TB815",
+   "model": "KE-TB815"
+  }
+ ],
  "KE-TB816OF": [
   {
    "brand": "KrossElegance",
@@ -98773,6 +98878,13 @@
    "brand": "Kyocera",
    "device": "KYV44_u2",
    "model": "KYV44_u2"
+  }
+ ],
+ "かんたんスマホ2+": [
+  {
+   "brand": "Kyocera",
+   "device": "A201KC",
+   "model": "A201KC"
   }
  ],
  "かんたんスマホ２": [
@@ -106485,6 +106597,13 @@
    "model": "Alpha 9V"
   }
  ],
+ "Alpha_1VPlus": [
+  {
+   "brand": "Lanix",
+   "device": "Alpha_1VPlus",
+   "model": "Alpha 1V"
+  }
+ ],
  "Alpha_3V": [
   {
    "brand": "Lanix",
@@ -113668,8 +113787,25 @@
  "X1-Prime-c": [
   {
    "brand": "LinkNet",
+   "device": "DTC2140",
+   "model": "X1-Prime-c"
+  },
+  {
+   "brand": "LinkNet",
    "device": "DTC9565",
    "model": "X1-Prime-c"
+  }
+ ],
+ "X1-Prime-i": [
+  {
+   "brand": "LinkNet",
+   "device": "DTP2162",
+   "model": "X1-Prime-i"
+  },
+  {
+   "brand": "LinkNet",
+   "device": "DTP9718",
+   "model": "X1-Prime-i"
   }
  ],
  "Linsar": [
@@ -113872,6 +114008,13 @@
    "brand": "Logic Mobility",
    "device": "L4T",
    "model": "L4T"
+  }
+ ],
+ "L50 Plus": [
+  {
+   "brand": "Logic Mobility",
+   "device": "L50_PLUS",
+   "model": "L50 PLUS"
   }
  ],
  "L55A": [
@@ -119226,6 +119369,13 @@
    "brand": "Medion",
    "device": "lifetab_p1034x",
    "model": "LIFETAB_P1034X"
+  }
+ ],
+ "LIFETAB P1075X": [
+  {
+   "brand": "Medion",
+   "device": "P1075X",
+   "model": "LIFETAB_P1075X"
   }
  ],
  "LIFETAB P733x": [
@@ -154504,6 +154654,13 @@
    "model": "Preo P3"
   }
  ],
+ "S19 Max Pro": [
+  {
+   "brand": "Reeder",
+   "device": "S19_Max_Pro",
+   "model": "S19 Max Pro"
+  }
+ ],
  "Turkcell_T_Tablet": [
   {
    "brand": "Reeder",
@@ -158435,6 +158592,23 @@
    "model": "SM-A226B"
   }
  ],
+ "Galaxy A23": [
+  {
+   "brand": "Samsung",
+   "device": "a23",
+   "model": "SM-A235F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a23",
+   "model": "SM-A235M"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a23",
+   "model": "SM-A235N"
+  }
+ ],
  "Galaxy A3": [
   {
    "brand": "Samsung",
@@ -161014,6 +161188,13 @@
    "model": "SM-E225F"
   }
  ],
+ "Galaxy F23 5G": [
+  {
+   "brand": "Samsung",
+   "device": "m23xq",
+   "model": "SM-E236B"
+  }
+ ],
  "Galaxy F41": [
   {
    "brand": "Samsung",
@@ -163260,11 +163441,6 @@
   }
  ],
  "Galaxy M23 5G": [
-  {
-   "brand": "Samsung",
-   "device": "m23xq",
-   "model": "SM-E236B"
-  },
   {
    "brand": "Samsung",
    "device": "m23xq",
@@ -171413,27 +171589,7 @@
   {
    "brand": "Samsung",
    "device": "xcoverpro",
-   "model": "SM-G715A"
-  },
-  {
-   "brand": "Samsung",
-   "device": "xcoverpro",
    "model": "SM-G715FN"
-  },
-  {
-   "brand": "Samsung",
-   "device": "xcoverpro",
-   "model": "SM-G715U"
-  },
-  {
-   "brand": "Samsung",
-   "device": "xcoverpro",
-   "model": "SM-G715U1"
-  },
-  {
-   "brand": "Samsung",
-   "device": "xcoverpro",
-   "model": "SM-G715W"
   }
  ],
  "Galaxy XCover4": [
@@ -172399,6 +172555,13 @@
    "brand": "Sansui",
    "device": "Play",
    "model": "Sansui Play"
+  }
+ ],
+ "Sansui Smart TV": [
+  {
+   "brand": "Sansui",
+   "device": "stanford",
+   "model": "40D"
   }
  ],
  "Sansui_Nova": [
@@ -176301,6 +176464,13 @@
    "brand": "Sintel",
    "device": "SINTEL_X1",
    "model": "SINTEL-X1"
+  }
+ ],
+ "SP 6200": [
+  {
+   "brand": "Siragon",
+   "device": "SP-6200",
+   "model": "SP-6200"
   }
  ],
  "SP-5000": [
@@ -192681,6 +192851,13 @@
    "model": "MT-707OF"
   }
  ],
+ "MT-710QF": [
+  {
+   "brand": "TJD(SZ)",
+   "device": "MT-710QF",
+   "model": "MT-710QF"
+  }
+ ],
  "MT-710QU": [
   {
    "brand": "TJD(SZ)",
@@ -200144,6 +200321,13 @@
    "model": "MP05"
   }
  ],
+ "A13S EEA": [
+  {
+   "brand": "Umidigi",
+   "device": "A13S",
+   "model": "MP05"
+  }
+ ],
  "A3S": [
   {
    "brand": "Umidigi",
@@ -200411,6 +200595,13 @@
   }
  ],
  "F3 SE": [
+  {
+   "brand": "Umidigi",
+   "device": "F3_SE",
+   "model": "MP09"
+  }
+ ],
+ "F3 SE EEA": [
   {
    "brand": "Umidigi",
    "device": "F3_SE",
@@ -200770,6 +200961,13 @@
    "brand": "Uniqcell",
    "device": "UNI_GO",
    "model": "UNI_GO"
+  }
+ ],
+ "UNI X": [
+  {
+   "brand": "Uniqcell",
+   "device": "UNI_X",
+   "model": "UNI X"
   }
  ],
  "s6w": [
@@ -201159,6 +201357,11 @@
   {
    "brand": "Urovo",
    "device": "DT50",
+   "model": "DT50"
+  },
+  {
+   "brand": "Urovo",
+   "device": "DT50S",
    "model": "DT50"
   }
  ],
@@ -221798,6 +222001,13 @@
    "model": "ZTE 9040N"
   }
  ],
+ "ZTE 9045": [
+  {
+   "brand": "ZTE",
+   "device": "P618F06",
+   "model": "ZTE 9045"
+  }
+ ],
  "ZTE A0616": [
   {
    "brand": "ZTE",
@@ -224676,6 +224886,13 @@
    "brand": "Zuum",
    "device": "STELLAR_P4",
    "model": "STELLAR P4"
+  }
+ ],
+ "STELLAR P5": [
+  {
+   "brand": "Zuum",
+   "device": "STELLAR_P5",
+   "model": "STELLAR P5"
   }
  ],
  "STELLAR PLUS": [

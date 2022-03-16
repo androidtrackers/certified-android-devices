@@ -918,6 +918,13 @@
    "model": "A801"
   }
  ],
+ "ATEC": [
+  {
+   "device": "APD3",
+   "name": "APD3",
+   "model": "APD3"
+  }
+ ],
  "ATID": [
   {
    "device": "AT908",
@@ -3706,6 +3713,11 @@
    "model": "AI PONT"
   },
   {
+   "device": "redwood",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
    "device": "TA07-2GB",
    "name": "TA07-2GB",
    "model": "TA07-2GB"
@@ -5464,9 +5476,19 @@
  ],
  "Altus": [
   {
+   "device": "kunyang",
+   "name": "Altus Android TV",
+   "model": "4K Pro TV"
+  },
+  {
    "device": "shinagawa",
    "name": "Altus Android TV",
    "model": "Altus Android TV"
+  },
+  {
+   "device": "kunyang",
+   "name": "Altus UHD Android TV",
+   "model": "UHD Pro TV"
   }
  ],
  "Americamovil": [
@@ -19658,6 +19680,11 @@
    "model": "WSD-F30"
   },
   {
+   "device": "dtx450",
+   "name": "dtx450",
+   "model": "DT-X400/X450"
+  },
+  {
    "device": "itg600",
    "name": "itg600",
    "model": "IT-G600"
@@ -30447,6 +30474,11 @@
    "model": "Durabrand 2K Android TV"
   },
   {
+   "device": "dupont",
+   "name": "DB Android TV 4K",
+   "model": "DB Android TV 4K"
+  },
+  {
    "device": "hanyang",
    "name": "Durabrand android TV",
    "model": "Durabrand 4K Android TV"
@@ -31667,6 +31699,11 @@
   }
  ],
  "EcoStar": [
+  {
+   "device": "stanford",
+   "name": "ECOSTAR",
+   "model": "40D"
+  },
   {
    "device": "SW4H",
    "name": "ECOSTAR SMART TV",
@@ -33331,6 +33368,11 @@
   }
  ],
  "Everex": [
+  {
+   "device": "Fine_7B",
+   "name": "Fine 7B",
+   "model": "FINE 7B"
+  },
   {
    "device": "Fine_7B",
    "name": "Fine 7B",
@@ -45696,6 +45738,11 @@
    "device": "daan",
    "name": "Haier Android TV FF Pro ISDB",
    "model": "Haier Android TV FFProISDB"
+  },
+  {
+   "device": "dupont",
+   "name": "Haier Android TV ISDB",
+   "model": "Haier Android TV ISDB"
   },
   {
    "device": "broadway",
@@ -67803,6 +67850,16 @@
    "device": "zhongshan",
    "name": "EU",
    "model": "43F"
+  },
+  {
+   "device": "stanford",
+   "name": "Rosso",
+   "model": "40D"
+  },
+  {
+   "device": "stanford",
+   "name": "SA",
+   "model": "40DSA"
   }
  ],
  "KTV": [
@@ -68244,6 +68301,11 @@
    "device": "K9_Viraat_Plus",
    "name": "K9_Viraat_Plus",
    "model": "K9_Viraat_Plus"
+  },
+  {
+   "device": "stanford",
+   "name": "Karbonn",
+   "model": "40D"
   },
   {
    "device": "K9Music4G",
@@ -69645,6 +69707,11 @@
    "model": "KE-TB1032OF"
   },
   {
+   "device": "KE-TB815",
+   "name": "KE-TB815",
+   "model": "KE-TB815"
+  },
+  {
    "device": "KE-TB816OF",
    "name": "KE-TB816OF",
    "model": "KE-TB816OF"
@@ -70627,6 +70694,11 @@
    "device": "KYV44_u2",
    "name": "おてがるスマホ01",
    "model": "KYV44_u2"
+  },
+  {
+   "device": "A201KC",
+   "name": "かんたんスマホ2+",
+   "model": "A201KC"
   },
   {
    "device": "A001KC",
@@ -78105,6 +78177,11 @@
    "model": "Alpha 9V"
   },
   {
+   "device": "Alpha_1VPlus",
+   "name": "Alpha_1VPlus",
+   "model": "Alpha 1V"
+  },
+  {
    "device": "Alpha_3V",
    "name": "Alpha_3V",
    "model": "Alpha 3V"
@@ -84344,9 +84421,24 @@
    "model": "DCN88_72604_LN"
   },
   {
+   "device": "DTC2140",
+   "name": "X1-Prime-c",
+   "model": "X1-Prime-c"
+  },
+  {
    "device": "DTC9565",
    "name": "X1-Prime-c",
    "model": "X1-Prime-c"
+  },
+  {
+   "device": "DTP2162",
+   "name": "X1-Prime-i",
+   "model": "X1-Prime-i"
+  },
+  {
+   "device": "DTP9718",
+   "name": "X1-Prime-i",
+   "model": "X1-Prime-i"
   }
  ],
  "Linsar": [
@@ -84533,6 +84625,11 @@
    "device": "LOGIC_L50",
    "name": "L50",
    "model": "LOGIC L50"
+  },
+  {
+   "device": "L50_PLUS",
+   "name": "L50 Plus",
+   "model": "L50 PLUS"
   },
   {
    "device": "L55A",
@@ -88796,6 +88893,11 @@
    "device": "lifetab_p1034x",
    "name": "LIFETAB P1034X",
    "model": "LIFETAB_P1034X"
+  },
+  {
+   "device": "P1075X",
+   "name": "LIFETAB P1075X",
+   "model": "LIFETAB_P1075X"
   },
   {
    "device": "lifetab_p733x",
@@ -118286,6 +118388,11 @@
    "model": "Preo P3"
   },
   {
+   "device": "S19_Max_Pro",
+   "name": "S19 Max Pro",
+   "model": "S19 Max Pro"
+  },
+  {
    "device": "reeder_T8",
    "name": "T8",
    "model": "reeder_T8"
@@ -121857,6 +121964,21 @@
    "model": "SM-A226B"
   },
   {
+   "device": "a23",
+   "name": "Galaxy A23",
+   "model": "SM-A235F"
+  },
+  {
+   "device": "a23",
+   "name": "Galaxy A23",
+   "model": "SM-A235M"
+  },
+  {
+   "device": "a23",
+   "name": "Galaxy A23",
+   "model": "SM-A235N"
+  },
+  {
    "device": "a33g",
    "name": "Galaxy A3",
    "model": "SM-A300H"
@@ -124247,6 +124369,11 @@
    "model": "SM-E225F"
   },
   {
+   "device": "m23xq",
+   "name": "Galaxy F23 5G",
+   "model": "SM-E236B"
+  },
+  {
    "device": "f41",
    "name": "Galaxy F41",
    "model": "SM-F415F"
@@ -126270,11 +126397,6 @@
    "device": "m22",
    "name": "Galaxy M22",
    "model": "SM-M225FV"
-  },
-  {
-   "device": "m23xq",
-   "name": "Galaxy M23 5G",
-   "model": "SM-E236B"
   },
   {
    "device": "m23xq",
@@ -133784,27 +133906,7 @@
   {
    "device": "xcoverpro",
    "name": "Galaxy XCover Pro",
-   "model": "SM-G715A"
-  },
-  {
-   "device": "xcoverpro",
-   "name": "Galaxy XCover Pro",
    "model": "SM-G715FN"
-  },
-  {
-   "device": "xcoverpro",
-   "name": "Galaxy XCover Pro",
-   "model": "SM-G715U"
-  },
-  {
-   "device": "xcoverpro",
-   "name": "Galaxy XCover Pro",
-   "model": "SM-G715U1"
-  },
-  {
-   "device": "xcoverpro",
-   "name": "Galaxy XCover Pro",
-   "model": "SM-G715W"
   },
   {
    "device": "xcover4lte",
@@ -134617,6 +134719,11 @@
    "device": "Play",
    "name": "Sansui Play",
    "model": "Sansui Play"
+  },
+  {
+   "device": "stanford",
+   "name": "Sansui Smart TV",
+   "model": "40D"
   },
   {
    "device": "Sansui_Nova",
@@ -137782,6 +137889,11 @@
   }
  ],
  "Siragon": [
+  {
+   "device": "SP-6200",
+   "name": "SP 6200",
+   "model": "SP-6200"
+  },
   {
    "device": "SP-5000",
    "name": "SP-5000",
@@ -152237,6 +152349,11 @@
  ],
  "TD SYSTEMS": [
   {
+   "device": "redwood",
+   "name": "Android TV",
+   "model": "TD SYSTEMS Android TV"
+  },
+  {
    "device": "tamachi",
    "name": "Spain",
    "model": "TD SYSTEMS Android TV"
@@ -152485,6 +152602,11 @@
    "device": "MT-707OF",
    "name": "MT-707OF",
    "model": "MT-707OF"
+  },
+  {
+   "device": "MT-710QF",
+   "name": "MT-710QF",
+   "model": "MT-710QF"
   },
   {
    "device": "MT-710QU",
@@ -157988,6 +158110,13 @@
    "model": "UBC Android TV"
   }
  ],
+ "UD (EU)": [
+  {
+   "device": "redwood",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  }
+ ],
  "UJoyFeel": [
   {
    "device": "KIDS705_701A",
@@ -158943,6 +159072,11 @@
    "model": "MP05"
   },
   {
+   "device": "A13S",
+   "name": "A13S EEA",
+   "model": "MP05"
+  },
+  {
    "device": "A3",
    "name": "A3",
    "model": "A3"
@@ -159185,6 +159319,11 @@
   {
    "device": "F3_SE",
    "name": "F3 SE",
+   "model": "MP09"
+  },
+  {
+   "device": "F3_SE",
+   "name": "F3 SE EEA",
    "model": "MP09"
   },
   {
@@ -159504,6 +159643,11 @@
    "device": "UNI_GO",
    "name": "UNI GO",
    "model": "UNI_GO"
+  },
+  {
+   "device": "UNI_X",
+   "name": "UNI X",
+   "model": "UNI X"
   }
  ],
  "Uniscope": [
@@ -159809,6 +159953,11 @@
   },
   {
    "device": "DT50",
+   "name": "DT50",
+   "model": "DT50"
+  },
+  {
+   "device": "DT50S",
    "name": "DT50",
    "model": "DT50"
   },
@@ -178369,6 +178518,11 @@
    "model": "ZTE 9040N"
   },
   {
+   "device": "P618F06",
+   "name": "ZTE 9045",
+   "model": "ZTE 9045"
+  },
+  {
    "device": "P637S15",
    "name": "ZTE A0616",
    "model": "ZTE A0616"
@@ -180675,6 +180829,11 @@
    "model": "STELLAR P4"
   },
   {
+   "device": "STELLAR_P5",
+   "name": "STELLAR P5",
+   "model": "STELLAR P5"
+  },
+  {
    "device": "STELLAR_PLUS",
    "name": "STELLAR PLUS",
    "model": "STELLAR PLUS"
@@ -180912,6 +181071,11 @@
   }
  ],
  "biolux": [
+  {
+   "device": "redwood",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
   {
    "device": "longshan",
    "name": "Smart TV",
@@ -181462,6 +181626,13 @@
    "device": "H8502",
    "name": "H8502",
    "model": "H8502"
+  }
+ ],
+ "homez": [
+  {
+   "device": "redwood",
+   "name": "Smart TV",
+   "model": "AI PONT"
   }
  ],
  "i-Buddie": [
