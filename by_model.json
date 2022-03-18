@@ -17183,6 +17183,20 @@
    "device": "Azumi_V54_AC24"
   }
  ],
+ "Azumi_V65": [
+  {
+   "brand": "Azumi",
+   "name": "Azumi V65",
+   "device": "AZUMI_V65_AC04"
+  }
+ ],
+ "Azumi_V65_PLUS": [
+  {
+   "brand": "Azumi",
+   "name": "Azumi V65+",
+   "device": "AZUMI_V65_PLUS_AC04"
+  }
+ ],
  "Azumi AKANE": [
   {
    "brand": "Azumi",
@@ -30052,6 +30066,13 @@
    "brand": "Cellution",
    "name": "PADUA",
    "device": "PADUA"
+  }
+ ],
+ "PADUA_1": [
+  {
+   "brand": "Cellution",
+   "name": "PADUA_1",
+   "device": "PADUA_1"
   }
  ],
  "Centric CM3331": [
@@ -43567,6 +43588,13 @@
    "brand": "Durabrand",
    "name": "Central America",
    "device": "nippori"
+  }
+ ],
+ "DB Android TV 2K": [
+  {
+   "brand": "Durabrand",
+   "name": "DB Android TV 2K",
+   "device": "broadway"
   }
  ],
  "DB Android TV 4K": [
@@ -155880,18 +155908,6 @@
    "device": "RMX3262"
   }
  ],
- "RMX3191": [
-  {
-   "brand": "Realme",
-   "name": "realme C25",
-   "device": "RMX3191"
-  },
-  {
-   "brand": "realme",
-   "name": "realme C25",
-   "device": "RMX3191"
-  }
- ],
  "RMX3265": [
   {
    "brand": "Realme",
@@ -156755,6 +156771,13 @@
    "device": "lime"
   }
  ],
+ "220233L2G": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 9A",
+   "device": "dandelion"
+  }
+ ],
  "M2006C3LC": [
   {
    "brand": "Redmi",
@@ -156929,6 +156952,27 @@
    "brand": "Redmi",
    "name": "Redmi K40 Pro +",
    "device": "haydn"
+  }
+ ],
+ "22021211RC": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi K40S",
+   "device": "munch"
+  }
+ ],
+ "22041211AC": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi K50",
+   "device": "rubens"
+  }
+ ],
+ "22011211C": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi K50 Pro",
+   "device": "matisse"
   }
  ],
  "21121210C": [
@@ -168221,6 +168265,13 @@
   }
  ],
  "SM-M236B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M23 5G",
+   "device": "m23xq"
+  }
+ ],
+ "SM-M236Q": [
   {
    "brand": "Samsung",
    "name": "Galaxy M23 5G",
@@ -210334,6 +210385,13 @@
    "device": "Ulefone_Tab_A7"
   }
  ],
+ "Tab R8 5G": [
+  {
+   "brand": "Ulefone",
+   "name": "Tab R8 5G",
+   "device": "Tab_R8_5G"
+  }
+ ],
  "Ulefone_Note 7": [
   {
    "brand": "Ulefone",
@@ -211714,6 +211772,13 @@
    "brand": "VIKUSHA",
    "name": "VZ-30",
    "device": "VZ-30"
+  }
+ ],
+ "VIMOQ A507LE": [
+  {
+   "brand": "VIMOQ",
+   "name": "VIMOQ V51 LTE",
+   "device": "VIMOQ-A507LE"
   }
  ],
  "Z08MK": [
@@ -224783,6 +224848,20 @@
    "brand": "Xiaomi",
    "name": "Xiaomi 11T Pro",
    "device": "vili"
+  }
+ ],
+ "2201123G": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 12",
+   "device": "cupid"
+  }
+ ],
+ "2201122G": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 12 Pro",
+   "device": "zeus"
   }
  ],
  "2112123AC": [
@@ -240748,6 +240827,13 @@
    "brand": "realme",
    "name": "realme C21-Y",
    "device": "RED8D1"
+  }
+ ],
+ "RMX3191": [
+  {
+   "brand": "realme",
+   "name": "realme C25",
+   "device": "RMX3191"
   }
  ],
  "RMX3193": [

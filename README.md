@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-03-17
+Last sync is 2022-03-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2173,6 +2173,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Azumi|Azumi V5|Azumi_V5_AC04|Azumi_V5|
 |Azumi|Azumi V54|Azumi_V54_AC01|V54|
 |Azumi|Azumi V54|Azumi_V54_AC23|V54|
+|Azumi|Azumi V65|AZUMI_V65_AC04|Azumi_V65|
+|Azumi|Azumi V65+|AZUMI_V65_PLUS_AC04|Azumi_V65_PLUS|
 |Azumi|Azumi_ V5_ AC05|Azumi_V5_AC05|V5|
 |Azumi|Azumi_A4PLUS_AC11|Azumi_A4PLUS_AC11|Azumi A4+|
 |Azumi|Azumi_A5_AC15|Azumi_A5_AC15|A5|
@@ -3966,6 +3968,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cellution|IRIS|IRIS|IRIS|
 |Cellution|IRIS_EV|IRIS_EV|IRIS_EV|
 |Cellution|PADUA|PADUA|PADUA|
+|Cellution|PADUA_1|PADUA_1|PADUA_1|
 |Centric|Centric L3|L3|Centric CM3331|
 |Centric|Centric L4|Centric_L4|Centric L4|
 |Centric|G1|CM4331|CM4331|
@@ -5886,6 +5889,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dunns|ETAB_M9041G|ETAB_M9041G|ETAB_M9041G|
 |Dunns|Smarty II|Smarty_II|Smarty_II|
 |Durabrand|Central America|nippori|Durabrand 2K Android TV|
+|Durabrand|DB Android TV 2K|broadway|DB Android TV 2K|
 |Durabrand|DB Android TV 4K|dupont|DB Android TV 4K|
 |Durabrand|Durabrand android TV|hanyang|Durabrand 4K Android TV|
 |Duubee|D601L|Gaia|D601L|
@@ -22781,7 +22785,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme C21 Y|RMX3261|RMX3261|
 |Realme|realme C21Y|RMX3261|RMX3261|
 |Realme|realme C21Y|RMX3262|RMX3262|
-|Realme|realme C25|RMX3191|RMX3191|
 |Realme|realme C25Y|RE54D1|RMX3265|
 |Realme|realme C25s|RMX3195|RMX3195|
 |Realme|realme C3|RMX2020|RMX2020|
@@ -22906,6 +22909,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 9|lancelot|M2004J19C|
 |Redmi|Redmi 9 Power|lime|M2010J19SI|
 |Redmi|Redmi 9 Prime|lancelot|M2004J19C|
+|Redmi|Redmi 9A|dandelion|220233L2G|
 |Redmi|Redmi 9A|dandelion|M2006C3LC|
 |Redmi|Redmi 9A|dandelion|M2006C3LG|
 |Redmi|Redmi 9A|dandelion|M2006C3LI|
@@ -22933,6 +22937,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi K40 Gaming|ares|M2012K10C|
 |Redmi|Redmi K40 Pro|haydn|M2012K11C|
 |Redmi|Redmi K40 Pro +|haydn|M2012K11C|
+|Redmi|Redmi K40S|munch|22021211RC|
+|Redmi|Redmi K50|rubens|22041211AC|
+|Redmi|Redmi K50 Pro|matisse|22011211C|
 |Redmi|Redmi K50G|ingres|21121210C|
 |Redmi|Redmi Note 10|camellia|M2103K19C|
 |Redmi|Redmi Note 10|sunny|M2101K7AG|
@@ -24600,6 +24607,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M21 2021 Edition|m21|SM-M215G|
 |Samsung|Galaxy M22|m22|SM-M225FV|
 |Samsung|Galaxy M23 5G|m23xq|SM-M236B|
+|Samsung|Galaxy M23 5G|m23xq|SM-M236Q|
 |Samsung|Galaxy M30|m30lte|SM-M305F|
 |Samsung|Galaxy M30|m30lte|SM-M305M|
 |Samsung|Galaxy M30s|m30s|SM-M3070|
@@ -30962,6 +30970,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|T1|Ulefone_T1|T1|
 |Ulefone|T2|T2|T2|
 |Ulefone|Tab A7|Ulefone_Tab_A7|Ulefone Tab A7|
+|Ulefone|Tab R8 5G|Tab_R8_5G|Tab R8 5G|
 |Ulefone|Ulefone Tab A7|Ulefone_Tab_A7|Ulefone Tab A7|
 |Ulefone|Ulefone_Note_7|Note_7P|Note_7P|
 |Ulefone|Ulefone_Note_7|Ulefone_Note_7|Ulefone_Note 7|
@@ -31207,6 +31216,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VIKUSHA|V-N5|V-N5|V-N5|
 |VIKUSHA|V-Z40|V-Z40|V-Z40|
 |VIKUSHA|VZ-30|VZ-30|VZ-30|
+|VIMOQ|VIMOQ V51 LTE|VIMOQ-A507LE|VIMOQ A507LE|
 |VIPER|VIPER-Z08MK|VIPER-Z08MK|Z08MK|
 |VISIO|VISIO 4K Android TV|SW4H|VISIO 4K Android TV|
 |VISIO|VISIO TV|shinagawa|VISIO TV|
@@ -33262,6 +33272,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 11T Pro|vili|2107113SG|
 |Xiaomi|Xiaomi 11T Pro|vili|2107113SI|
 |Xiaomi|Xiaomi 11T Pro|vili|2107113SR|
+|Xiaomi|Xiaomi 12|cupid|2201123G|
+|Xiaomi|Xiaomi 12 Pro|zeus|2201122G|
 |Xiaomi|Xiaomi 12X|psyche|2112123AC|
 |Xiaomi|Xiaomi Civi|mona|2109119BC|
 |Xiaomi|Xiaomi Pad 5|nabu|21051182C|
