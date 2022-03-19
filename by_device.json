@@ -21265,6 +21265,13 @@
    "model": "BL51_MV12"
   }
  ],
+ "Bmobile_BL52_TG06": [
+  {
+   "brand": "BMobile",
+   "name": "BL52_TG06",
+   "model": "BL52"
+  }
+ ],
  "Bmobile_BL54Pro": [
   {
    "brand": "BMobile",
@@ -38323,6 +38330,23 @@
    "brand": "Hisense",
    "name": "HLTE501N",
    "model": "HLTE501N"
+  }
+ ],
+ "Hidr_S1_PRO": [
+  {
+   "brand": "CryptoDATA",
+   "name": "Hidr S1 PRO",
+   "model": "Hidr_S1_PRO"
+  },
+  {
+   "brand": "CryptoDATA",
+   "name": "Hidr S1 PRO ROW",
+   "model": "Hidr_S1_PRO"
+  },
+  {
+   "brand": "CryptoDATA",
+   "name": "Hidr S1 PRO RU",
+   "model": "Hidr_S1_PRO"
   }
  ],
  "FT7_tw": [
@@ -91780,6 +91804,11 @@
    "brand": "KTCtv",
    "name": "EU",
    "model": "43F"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "NA",
+   "model": "43FNA"
   }
  ],
  "KUBIK_GENTA_10": [
@@ -126490,6 +126519,11 @@
    "brand": "Motorola",
    "name": "motorola edge 30 pro",
    "model": "motorola edge plus"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge plus 5G UW (2022)",
+   "model": "motorola edge plus 5G UW (2022)"
   }
  ],
  "burton": [

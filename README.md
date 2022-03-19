@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-03-18
+Last sync is 2022-03-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2450,6 +2450,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|BL51|Bmobile_BL51_MV05|BL51_MV05|
 |BMobile|BL51|Bmobile_BL51_MV12|BL51|
 |BMobile|BL51|Bmobile_BL51_MV12|BL51_MV12|
+|BMobile|BL52_TG06|Bmobile_BL52_TG06|BL52|
 |BMobile|BL54Pro|Bmobile_BL54Pro|BL54Pro|
 |BMobile|BL54Pro_MV12|Bmobile_BL54Pro|BL54Pro|
 |BMobile|BL54_PRO_TG05|Bmobile_BL54_PRO_TG05|BL54_PRO|
@@ -4817,6 +4818,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Crosscall|TREKKER-M1 CORE|HS8909QC|TREKKER-M1 CORE|
 |Crosscall|Trekker- M1|HS8916QC|Trekker-M1|
 |Crosscall|Trekker- X4|HSSDM660QC|Trekker-X4|
+|CryptoDATA|Hidr S1 PRO|Hidr_S1_PRO|Hidr_S1_PRO|
+|CryptoDATA|Hidr S1 PRO ROW|Hidr_S1_PRO|Hidr_S1_PRO|
+|CryptoDATA|Hidr S1 PRO RU|Hidr_S1_PRO|Hidr_S1_PRO|
 |Cspire|FT7|FT7_tw|Android Tablet FT7|
 |Ctroniq|CTRONIQ-SNOOK-X10|CTRONIQ-SNOOK-X10|CTRONIQ-SNOOK-X10|
 |Ctroniq|CTRONIQ-SNOOK-X10L|CTRONIQ-SNOOK-X10L|CTRONIQ-SNOOK-X10L|
@@ -13174,6 +13178,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTC (PD)|BLISS_8|BLISS_8|BLISS_8|
 |KTCtv|AP|stanford|40D|
 |KTCtv|EU|zhongshan|43F|
+|KTCtv|NA|zhongshan|43FNA|
 |KTCtv|Rosso|stanford|40D|
 |KTCtv|SA|stanford|40DSA|
 |KTV|PureKTV|DV8219|Pure|
@@ -18641,6 +18646,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge 5G UW (2021)|berlna|motorola edge 5G UW (2021)|
 |Motorola|motorola edge S30|xpeng|XT2175-2|
 |Motorola|motorola edge plus|burton|motorola edge plus|
+|Motorola|motorola edge plus 5G UW (2022)|hiphi|motorola edge plus 5G UW (2022)|
 |Motorola|motorola edge s|nio|XT2125-4|
 |Motorola|motorola edge s pro|pstar|XT2153-1|
 |Motorola|motorola edge 轻奢版|berlin|XT2143-1|

@@ -18993,6 +18993,13 @@
    "device": "Bmobile_BL51_MV12"
   }
  ],
+ "BL52": [
+  {
+   "brand": "BMobile",
+   "name": "BL52_TG06",
+   "device": "Bmobile_BL52_TG06"
+  }
+ ],
  "BL54Pro": [
   {
    "brand": "BMobile",
@@ -35952,6 +35959,23 @@
    "brand": "Crosscall",
    "name": "Trekker- X4",
    "device": "HSSDM660QC"
+  }
+ ],
+ "Hidr_S1_PRO": [
+  {
+   "brand": "CryptoDATA",
+   "name": "Hidr S1 PRO",
+   "device": "Hidr_S1_PRO"
+  },
+  {
+   "brand": "CryptoDATA",
+   "name": "Hidr S1 PRO ROW",
+   "device": "Hidr_S1_PRO"
+  },
+  {
+   "brand": "CryptoDATA",
+   "name": "Hidr S1 PRO RU",
+   "device": "Hidr_S1_PRO"
   }
  ],
  "Android Tablet FT7": [
@@ -92871,6 +92895,13 @@
    "device": "zhongshan"
   }
  ],
+ "43FNA": [
+  {
+   "brand": "KTCtv",
+   "name": "NA",
+   "device": "zhongshan"
+  }
+ ],
  "40DSA": [
   {
    "brand": "KTCtv",
@@ -129046,6 +129077,13 @@
    "brand": "Motorola",
    "name": "motorola edge S30",
    "device": "xpeng"
+  }
+ ],
+ "motorola edge plus 5G UW (2022)": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge plus 5G UW (2022)",
+   "device": "hiphi"
   }
  ],
  "XT2125-4": [

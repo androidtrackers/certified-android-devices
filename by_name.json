@@ -24506,6 +24506,13 @@
    "model": "BL51_MV12"
   }
  ],
+ "BL52_TG06": [
+  {
+   "brand": "BMobile",
+   "device": "Bmobile_BL52_TG06",
+   "model": "BL52"
+  }
+ ],
  "BL54Pro": [
   {
    "brand": "BMobile",
@@ -42578,6 +42585,27 @@
    "brand": "Crosscall",
    "device": "HSSDM660QC",
    "model": "Trekker-X4"
+  }
+ ],
+ "Hidr S1 PRO": [
+  {
+   "brand": "CryptoDATA",
+   "device": "Hidr_S1_PRO",
+   "model": "Hidr_S1_PRO"
+  }
+ ],
+ "Hidr S1 PRO ROW": [
+  {
+   "brand": "CryptoDATA",
+   "device": "Hidr_S1_PRO",
+   "model": "Hidr_S1_PRO"
+  }
+ ],
+ "Hidr S1 PRO RU": [
+  {
+   "brand": "CryptoDATA",
+   "device": "Hidr_S1_PRO",
+   "model": "Hidr_S1_PRO"
   }
  ],
  "FT7": [
@@ -95251,6 +95279,13 @@
    "model": "40D"
   }
  ],
+ "NA": [
+  {
+   "brand": "KTCtv",
+   "device": "zhongshan",
+   "model": "43FNA"
+  }
+ ],
  "Rosso": [
   {
    "brand": "KTCtv",
@@ -127143,6 +127178,13 @@
    "brand": "Motorola",
    "device": "burton",
    "model": "motorola edge plus"
+  }
+ ],
+ "motorola edge plus 5G UW (2022)": [
+  {
+   "brand": "Motorola",
+   "device": "hiphi",
+   "model": "motorola edge plus 5G UW (2022)"
   }
  ],
  "motorola edge s": [

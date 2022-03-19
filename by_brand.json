@@ -12638,6 +12638,11 @@
    "model": "BL51_MV12"
   },
   {
+   "device": "Bmobile_BL52_TG06",
+   "name": "BL52_TG06",
+   "model": "BL52"
+  },
+  {
    "device": "Bmobile_BL54Pro",
    "name": "BL54Pro",
    "model": "BL54Pro"
@@ -24927,6 +24932,23 @@
    "device": "HSSDM660QC",
    "name": "Trekker- X4",
    "model": "Trekker-X4"
+  }
+ ],
+ "CryptoDATA": [
+  {
+   "device": "Hidr_S1_PRO",
+   "name": "Hidr S1 PRO",
+   "model": "Hidr_S1_PRO"
+  },
+  {
+   "device": "Hidr_S1_PRO",
+   "name": "Hidr S1 PRO ROW",
+   "model": "Hidr_S1_PRO"
+  },
+  {
+   "device": "Hidr_S1_PRO",
+   "name": "Hidr S1 PRO RU",
+   "model": "Hidr_S1_PRO"
   }
  ],
  "Cspire": [
@@ -67872,6 +67894,11 @@
    "model": "43F"
   },
   {
+   "device": "zhongshan",
+   "name": "NA",
+   "model": "43FNA"
+  },
+  {
    "device": "stanford",
    "name": "Rosso",
    "model": "40D"
@@ -95765,6 +95792,11 @@
    "device": "burton",
    "name": "motorola edge plus",
    "model": "motorola edge plus"
+  },
+  {
+   "device": "hiphi",
+   "name": "motorola edge plus 5G UW (2022)",
+   "model": "motorola edge plus 5G UW (2022)"
   },
   {
    "device": "nio",
