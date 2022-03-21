@@ -6566,6 +6566,13 @@
    "model": "Zoom"
   }
  ],
+ "Age": [
+  {
+   "brand": "AGE (in)",
+   "device": "stanford",
+   "model": "40D"
+  }
+ ],
  "India": [
   {
    "brand": "AGE (in)",
@@ -18029,6 +18036,13 @@
    "brand": "Archos",
    "device": "ac67x5g",
    "model": "X67 5G"
+  }
+ ],
+ "act101hdp": [
+  {
+   "brand": "Archos",
+   "device": "act101hdp",
+   "model": "Archos T101 HD PLUS"
   }
  ],
  "alba 10": [
@@ -31529,6 +31543,13 @@
    "brand": "Turbopad",
    "device": "S5",
    "model": "S5"
+  }
+ ],
+ "S91": [
+  {
+   "brand": "Blu",
+   "device": "S0690WW",
+   "model": "S91"
   }
  ],
  "S950P": [
@@ -51248,6 +51269,13 @@
    "brand": "EKO",
    "device": "hanyang",
    "model": "EKO 4K Android TV"
+  }
+ ],
+ "Eko": [
+  {
+   "brand": "EKO",
+   "device": "stanford",
+   "model": "EKO 2K Android TV"
   }
  ],
  "KATV10": [
@@ -94249,6 +94277,13 @@
    "brand": "K-ELEC",
    "device": "bangbae",
    "model": "K-Elec 4K Android TV"
+  }
+ ],
+ "KELEC": [
+  {
+   "brand": "K-ELEC",
+   "device": "stanford",
+   "model": "40D"
   }
  ],
  "\"": [
@@ -227851,6 +227886,13 @@
    "brand": "menfop",
    "device": "HaierP8B",
    "model": "HaierP8B"
+  }
+ ],
+ "TK807": [
+  {
+   "brand": "moderness.online",
+   "device": "TK807",
+   "model": "TK807"
   }
  ],
  "M9501": [

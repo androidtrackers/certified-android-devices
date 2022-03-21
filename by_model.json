@@ -792,6 +792,43 @@
    "device": "Xcell_Zoom"
   }
  ],
+ "40D": [
+  {
+   "brand": "AGE (in)",
+   "name": "Age",
+   "device": "stanford"
+  },
+  {
+   "brand": "EcoStar",
+   "name": "ECOSTAR",
+   "device": "stanford"
+  },
+  {
+   "brand": "K-ELEC",
+   "name": "KELEC",
+   "device": "stanford"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "AP",
+   "device": "stanford"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "Rosso",
+   "device": "stanford"
+  },
+  {
+   "brand": "Karbonn",
+   "name": "Karbonn",
+   "device": "stanford"
+  },
+  {
+   "brand": "Sansui",
+   "name": "Sansui Smart TV",
+   "device": "stanford"
+  }
+ ],
  "AGE FHD Android TV": [
   {
    "brand": "AGE (in)",
@@ -12506,6 +12543,13 @@
    "brand": "Archos",
    "name": "X67 5G",
    "device": "ac67x5g"
+  }
+ ],
+ "Archos T101 HD PLUS": [
+  {
+   "brand": "Archos",
+   "name": "act101hdp",
+   "device": "act101hdp"
   }
  ],
  "Benefit_M551": [
@@ -25328,6 +25372,13 @@
    "brand": "Turbopad",
    "name": "S5",
    "device": "S5"
+  }
+ ],
+ "S91": [
+  {
+   "brand": "Blu",
+   "name": "S91",
+   "device": "S0690WW"
   }
  ],
  "Studio X9 HD": [
@@ -44169,6 +44220,11 @@
    "brand": "EKO",
    "name": "EKO",
    "device": "komagome"
+  },
+  {
+   "brand": "EKO",
+   "name": "Eko",
+   "device": "stanford"
   }
  ],
  "EKO OMEGA LTE Q60": [
@@ -45212,33 +45268,6 @@
    "brand": "Echolink",
    "name": "Echolink TV",
    "device": "shinagawa"
-  }
- ],
- "40D": [
-  {
-   "brand": "EcoStar",
-   "name": "ECOSTAR",
-   "device": "stanford"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "AP",
-   "device": "stanford"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "Rosso",
-   "device": "stanford"
-  },
-  {
-   "brand": "Karbonn",
-   "name": "Karbonn",
-   "device": "stanford"
-  },
-  {
-   "brand": "Sansui",
-   "name": "Sansui Smart TV",
-   "device": "stanford"
   }
  ],
  "ECOSTAR SMART TV": [
@@ -240628,6 +240657,13 @@
    "brand": "menfop",
    "name": "HaierP8B",
    "device": "HaierP8B"
+  }
+ ],
+ "TK807": [
+  {
+   "brand": "moderness.online",
+   "name": "TK807",
+   "device": "TK807"
   }
  ],
  "M9501": [

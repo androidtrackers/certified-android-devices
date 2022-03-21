@@ -498,6 +498,11 @@
  ],
  "AGE (in)": [
   {
+   "device": "stanford",
+   "name": "Age",
+   "model": "40D"
+  },
+  {
    "device": "tamachi",
    "name": "India",
    "model": "AGE FHD Android TV"
@@ -7851,6 +7856,11 @@
    "device": "ac67x5g",
    "name": "X67 5G",
    "model": "X67 5G"
+  },
+  {
+   "device": "act101hdp",
+   "name": "act101hdp",
+   "model": "Archos T101 HD PLUS"
   },
   {
    "device": "ac101cplv2",
@@ -17154,6 +17164,11 @@
    "device": "S0480LL_ALTAN",
    "name": "S5",
    "model": "S5"
+  },
+  {
+   "device": "S0690WW",
+   "name": "S91",
+   "model": "S91"
   },
   {
    "device": "S950P",
@@ -30966,6 +30981,11 @@
    "device": "hanyang",
    "name": "EKO android TV ISDB",
    "model": "EKO 4K Android TV"
+  },
+  {
+   "device": "stanford",
+   "name": "Eko",
+   "model": "EKO 2K Android TV"
   },
   {
    "device": "ICN",
@@ -67018,6 +67038,11 @@
    "device": "bangbae",
    "name": "K-ELEC",
    "model": "K-Elec 4K Android TV"
+  },
+  {
+   "device": "stanford",
+   "name": "KELEC",
+   "model": "40D"
   }
  ],
  "K-LEADTONE": [
@@ -183466,6 +183491,13 @@
    "device": "HaierP8B",
    "name": "HaierP8B",
    "model": "HaierP8B"
+  }
+ ],
+ "moderness.online": [
+  {
+   "device": "TK807",
+   "name": "TK807",
+   "model": "TK807"
   }
  ],
  "mytel": [

@@ -746,6 +746,53 @@
    "model": "Zoom"
   }
  ],
+ "stanford": [
+  {
+   "brand": "AGE (in)",
+   "name": "Age",
+   "model": "40D"
+  },
+  {
+   "brand": "EKO",
+   "name": "Eko",
+   "model": "EKO 2K Android TV"
+  },
+  {
+   "brand": "EcoStar",
+   "name": "ECOSTAR",
+   "model": "40D"
+  },
+  {
+   "brand": "K-ELEC",
+   "name": "KELEC",
+   "model": "40D"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "AP",
+   "model": "40D"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "Rosso",
+   "model": "40D"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "SA",
+   "model": "40DSA"
+  },
+  {
+   "brand": "Karbonn",
+   "name": "Karbonn",
+   "model": "40D"
+  },
+  {
+   "brand": "Sansui",
+   "name": "Sansui Smart TV",
+   "model": "40D"
+  }
+ ],
  "tamachi": [
   {
    "brand": "AGE (in)",
@@ -14453,6 +14500,13 @@
    "model": "X67 5G"
   }
  ],
+ "act101hdp": [
+  {
+   "brand": "Archos",
+   "name": "act101hdp",
+   "model": "Archos T101 HD PLUS"
+  }
+ ],
  "A100": [
   {
    "brand": "Arima",
@@ -27530,6 +27584,13 @@
    "brand": "Blu",
    "name": "S5",
    "model": "S5"
+  }
+ ],
+ "S0690WW": [
+  {
+   "brand": "Blu",
+   "name": "S91",
+   "model": "S91"
   }
  ],
  "S950P": [
@@ -47586,38 +47647,6 @@
    "brand": "Echo Mobiles",
    "name": "Stellar 4G",
    "model": "Stellar 4G"
-  }
- ],
- "stanford": [
-  {
-   "brand": "EcoStar",
-   "name": "ECOSTAR",
-   "model": "40D"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "AP",
-   "model": "40D"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "Rosso",
-   "model": "40D"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "SA",
-   "model": "40DSA"
-  },
-  {
-   "brand": "Karbonn",
-   "name": "Karbonn",
-   "model": "40D"
-  },
-  {
-   "brand": "Sansui",
-   "name": "Sansui Smart TV",
-   "model": "40D"
   }
  ],
  "MotionE11": [
@@ -230237,6 +230266,13 @@
    "brand": "menfop",
    "name": "HaierP8B",
    "model": "HaierP8B"
+  }
+ ],
+ "TK807": [
+  {
+   "brand": "moderness.online",
+   "name": "TK807",
+   "model": "TK807"
   }
  ],
  "M9501": [

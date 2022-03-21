@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-03-20
+Last sync is 2022-03-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -96,6 +96,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AG Mobile|Zenith|Zenith|Zenith|
 |AG Mobile|Zone|Zone|Zone|
 |AG Mobile|Zoom|Zoom|Zoom|
+|AGE (in)|Age|stanford|40D|
 |AGE (in)|India|tamachi|AGE FHD Android TV|
 |AGE (in)|India|yeongdeungpo|AGE UHD Android TV|
 |AGM Mobile|AGM Glory G1|AGM_Glory_G1|AGM Glory G1|
@@ -1519,6 +1520,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Archos|TV Connect|LUDO|ARCHOS LUDOG10|
 |Archos|X18_Ultra|X18_Ultra|X18_Ultra|
 |Archos|X67 5G|ac67x5g|X67 5G|
+|Archos|act101hdp|act101hdp|Archos T101 HD PLUS|
 |Archos|alba 10|ac101cplv2|ALBA 10 TABLET|
 |Archos|alba 10|ac101cplv2|"Alba 10"""|
 |Arima|A100|A100|A100|
@@ -3332,6 +3334,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|R2_3G|R010P|R2 3G|
 |Blu|S5|S0480LL|S5|
 |Blu|S5|S0480LL_ALTAN|S5|
+|Blu|S91|S0690WW|S91|
 |Blu|S950P|S950P|Studio X9 HD|
 |Blu|STUDIO 7.0 LTE|blu_s0010tw|BLU STUDIO 7.0 LTE|
 |Blu|STUDIO 7.0 LTE|blu_s0010uu|BLU STUDIO 7.0 LTE|
@@ -5976,6 +5979,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EKO|EKO Star LTE G60|EKO_Star_LTE_G60|EKO Star LTE G60|
 |EKO|EKO android TV|hanyang|Ayonz Android TV|
 |EKO|EKO android TV ISDB|hanyang|EKO 4K Android TV|
+|EKO|Eko|stanford|EKO 2K Android TV|
 |EKO|KATV10|ICN|KATV10|
 |EKO|Star 4.0 G40|Star_4_0_G40|Star 4.0 G40|
 |EKO|Star 5.0 G50|Star_5_0_G50|Star 5.0 G50|
@@ -13014,6 +13018,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Just5|Mode1 MD-02P|MD-02P|MD-02P|
 |Jyonetsu Kakaku|YMR8|YMR8|YMR8|
 |K-ELEC|K-ELEC|bangbae|K-Elec 4K Android TV|
+|K-ELEC|KELEC|stanford|40D|
 |K-LEADTONE|K2|K2|K2|
 |"K-Lite|"|F1+4G|K_Lite_F1_4G|
 |"K-Lite|"|K-LITE NEXT M1|K-LITE_NEXT_M1|
@@ -35746,6 +35751,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |mMax|mMax M55|M55|M55|
 |memetech|P30|P30|P30|
 |menfop|HaierP8B|HaierP8B|HaierP8B|
+|moderness.online|TK807|TK807|TK807|
 |mytel|M9501|M9501|M9501|
 |mytel|M9502|M9502|M9502|
 |mytel|M9503|M9503|M9503|
