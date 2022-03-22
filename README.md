@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-03-21
+Last sync is 2022-03-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3815,6 +3815,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Casper|Casper VIA S48|VIA_S48|VIA_S48|
 |Casper|Casper VIA X20|VIA_X20|VIA X20|
 |Casper|L20|L20|L20|
+|Casper|R3|R3|R3|
 |Casper|S20|S20|S20|
 |Casper|S38|Casper_S38|Casper_S38|
 |Casper|TA80CA2|TA80CA2_1|TA80CA2|
@@ -4015,6 +4016,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cherry Mobile|Aqua S9|Aqua_S9|Aqua S9|
 |Cherry Mobile|Aqua S9 Lite|X1020|Aqua S9 lite|
 |Cherry Mobile|Aqua S9 Max|Aqua_S9_Max|Aqua S9 Max|
+|Cherry Mobile|Aqua SV|Aqua_SV|Aqua SV|
 |Cherry Mobile|Aqua Tab|Cherry_Aqua_Tab_S1|A870|
 |Cherry Mobile|Aqua Tab Deluxe|A950|A950|
 |Cherry Mobile|Aqua_Infinity|Aqua_Infinity|Aqua_Infinity|
@@ -6127,6 +6129,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Echo Mobiles|Stellar 4G|Stellar_4G|Stellar 4G|
 |Echolink|Echolink TV|shinagawa|Echolink TV|
 |EcoStar|ECOSTAR|stanford|40D|
+|EcoStar|ECOSTAR|zhongshan|43F|
 |EcoStar|ECOSTAR SMART TV|SW4H|ECOSTAR SMART TV|
 |EcoStar|EcostarTV|shibuya|EcostarTV|
 |Edcon|Motion E1.1|MotionE11|MotionE11|
@@ -13607,6 +13610,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|704KC|704KC|704KC|
 |Kyocera|705KC|705KC|705KC|
 |Kyocera|Android One S2|S2_sprout|S2|
+|Kyocera|Android One S9|S9-KC_sprout|S9-KC|
 |Kyocera|BASIO|KYV32|KYV32|
 |Kyocera|BASIO 3|KYV43|KYV43|
 |Kyocera|BASIO4|KYV47|KYV47|
@@ -17467,6 +17471,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Micromax|A89|A89|A89|
 |Micromax|A91|A91|A91|
 |Micromax|A91|A91|Micromax A91|
+|Micromax|ATV R1|R1|ATV R1|
+|Micromax|ATV R2|R2|ATV R2|
 |Micromax|Android TV|R2|ATV R2|
 |Micromax|B5 Pro|B5_Pro|Micromax B5 Pro|
 |Micromax|B5_RU|Bharat_5|Micromax Bharat 5|
@@ -18485,6 +18491,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|XT605|umts_jorian|XT605|
 |Motorola|XT627|umts_irock|XT627|
 |Motorola|moto P30 NOTE|chef|XT1942-1|
+|Motorola|moto X30 屏下摄像版|hiphid|XT2201-6|
 |Motorola|moto e|ginna|moto e|
 |Motorola|moto e (XT2052DL)|ginna|moto e (XT2052DL)|
 |Motorola|moto e(5) cruise|james|moto e5 cruise|
@@ -23321,6 +23328,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Mobile|GRAVITY-ULTIMATE-2|GRAVITY-ULTIMATE-2|GRAVITY ULTIMATE 2|
 |SPC Mobile|GRAVITY2-4G|GRAVITY2-4G|GRAVITY2-4G|
 |SPC Mobile|GRAVITY_3G_2019_eea|GRAVITY_3G|GRAVITY 3G_2019|
+|SPC Mobile|GRAVITY_3_PRO|GRAVITY_3_PRO|GRAVITY 3 PRO|
 |SPC Mobile|Gravity_Max_EEA|Gravity_Max|Gravity Max|
 |SPC Mobile|L100|L100|L100|
 |SPC Mobile|L50|SPC_L50|L50|
@@ -24580,6 +24588,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Jean|a6pltektt|SM-A605K|
 |Samsung|Galaxy Jean2|a20e|SM-A202K|
 |Samsung|Galaxy Jump|a32x|SM-A326K|
+|Samsung|Galaxy Jump2|m33x|SM-M336K|
 |Samsung|Galaxy K|SHW-M130K|SHW-M130K|
 |Samsung|Galaxy K Zoom|m2a3g|SM-C111|
 |Samsung|Galaxy K Zoom|m2a3g|SM-C111M|
@@ -24631,7 +24640,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M32 5G|a32x|SM-M326B|
 |Samsung|Galaxy M33 5G|m33x|SM-M336B|
 |Samsung|Galaxy M33 5G|m33x|SM-M336BU|
-|Samsung|Galaxy M33 5G|m33x|SM-M336K|
 |Samsung|Galaxy M40|m40|SM-M405F|
 |Samsung|Galaxy M42 5G|a42xq|SM-M426B|
 |Samsung|Galaxy M51|m51|SM-M515F|

@@ -3517,6 +3517,11 @@
   },
   {
    "brand": "Micromax",
+   "name": "ATV R1",
+   "device": "R1"
+  },
+  {
+   "brand": "Micromax",
    "name": "R1",
    "device": "R1"
   },
@@ -3720,6 +3725,11 @@
   {
    "brand": "Master-G",
    "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Micromax",
+   "name": "ATV R2",
    "device": "R2"
   },
   {
@@ -28968,6 +28978,23 @@
    "device": "L20"
   }
  ],
+ "R3": [
+  {
+   "brand": "Casper",
+   "name": "R3",
+   "device": "R3"
+  },
+  {
+   "brand": "Lava",
+   "name": "R3",
+   "device": "R3"
+  },
+  {
+   "brand": "Mobicell",
+   "name": "R3",
+   "device": "R3"
+  }
+ ],
  "S20": [
   {
    "brand": "Casper",
@@ -30403,6 +30430,13 @@
    "brand": "Cherry Mobile",
    "name": "Aqua S9 Max",
    "device": "Aqua_S9_Max"
+  }
+ ],
+ "Aqua SV": [
+  {
+   "brand": "Cherry Mobile",
+   "name": "Aqua SV",
+   "device": "Aqua_SV"
   }
  ],
  "A870": [
@@ -45268,6 +45302,18 @@
    "brand": "Echolink",
    "name": "Echolink TV",
    "device": "shinagawa"
+  }
+ ],
+ "43F": [
+  {
+   "brand": "EcoStar",
+   "name": "ECOSTAR",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "EU",
+   "device": "zhongshan"
   }
  ],
  "ECOSTAR SMART TV": [
@@ -92917,13 +92963,6 @@
    "device": "BLISS_8"
   }
  ],
- "43F": [
-  {
-   "brand": "KTCtv",
-   "name": "EU",
-   "device": "zhongshan"
-  }
- ],
  "43FNA": [
   {
    "brand": "KTCtv",
@@ -95779,6 +95818,13 @@
    "brand": "Kyocera",
    "name": "705KC",
    "device": "705KC"
+  }
+ ],
+ "S9-KC": [
+  {
+   "brand": "Kyocera",
+   "name": "Android One S9",
+   "device": "S9-KC_sprout"
   }
  ],
  "KYV32": [
@@ -107726,18 +107772,6 @@
    "brand": "Lava",
    "name": "R2",
    "device": "R2"
-  }
- ],
- "R3": [
-  {
-   "brand": "Lava",
-   "name": "R3",
-   "device": "R3"
-  },
-  {
-   "brand": "Mobicell",
-   "name": "R3",
-   "device": "R3"
   }
  ],
  "LTN10RT": [
@@ -128148,6 +128182,13 @@
    "brand": "Motorola",
    "name": "moto P30 NOTE",
    "device": "chef"
+  }
+ ],
+ "XT2201-6": [
+  {
+   "brand": "Motorola",
+   "name": "moto X30 屏下摄像版",
+   "device": "hiphid"
   }
  ],
  "moto e": [
@@ -159368,6 +159409,13 @@
    "device": "GRAVITY_3G"
   }
  ],
+ "GRAVITY 3 PRO": [
+  {
+   "brand": "SPC Mobile",
+   "name": "GRAVITY_3_PRO",
+   "device": "GRAVITY_3_PRO"
+  }
+ ],
  "Gravity Max": [
   {
    "brand": "SPC Mobile",
@@ -168072,6 +168120,13 @@
    "device": "a32x"
   }
  ],
+ "SM-M336K": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Jump2",
+   "device": "m33x"
+  }
+ ],
  "SHW-M130K": [
   {
    "brand": "Samsung",
@@ -168423,13 +168478,6 @@
   }
  ],
  "SM-M336BU": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy M33 5G",
-   "device": "m33x"
-  }
- ],
- "SM-M336K": [
   {
    "brand": "Samsung",
    "name": "Galaxy M33 5G",

@@ -4584,6 +4584,11 @@
   },
   {
    "brand": "Micromax",
+   "name": "ATV R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "Micromax",
    "name": "R1",
    "model": "ATV R1"
   },
@@ -4802,6 +4807,11 @@
   {
    "brand": "Master-G",
    "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "Micromax",
+   "name": "ATV R2",
    "model": "ATV R2"
   },
   {
@@ -30925,6 +30935,33 @@
    "model": "L20"
   }
  ],
+ "R3": [
+  {
+   "brand": "Casper",
+   "name": "R3",
+   "model": "R3"
+  },
+  {
+   "brand": "Lava",
+   "name": "R3",
+   "model": "R3"
+  },
+  {
+   "brand": "Mobicell",
+   "name": "R3",
+   "model": "R3"
+  },
+  {
+   "brand": "Oppo",
+   "name": "R6006",
+   "model": "R6006"
+  },
+  {
+   "brand": "Oppo",
+   "name": "R7005",
+   "model": "R7005"
+  }
+ ],
  "S20": [
   {
    "brand": "Casper",
@@ -32342,6 +32379,13 @@
    "brand": "Cherry Mobile",
    "name": "Aqua S9 Max",
    "model": "Aqua S9 Max"
+  }
+ ],
+ "Aqua_SV": [
+  {
+   "brand": "Cherry Mobile",
+   "name": "Aqua SV",
+   "model": "Aqua SV"
   }
  ],
  "Cherry_Aqua_Tab_S1": [
@@ -47647,6 +47691,23 @@
    "brand": "Echo Mobiles",
    "name": "Stellar 4G",
    "model": "Stellar 4G"
+  }
+ ],
+ "zhongshan": [
+  {
+   "brand": "EcoStar",
+   "name": "ECOSTAR",
+   "model": "43F"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "EU",
+   "model": "43F"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "NA",
+   "model": "43FNA"
   }
  ],
  "MotionE11": [
@@ -91828,18 +91889,6 @@
    "model": "BLISS_8"
   }
  ],
- "zhongshan": [
-  {
-   "brand": "KTCtv",
-   "name": "EU",
-   "model": "43F"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "NA",
-   "model": "43FNA"
-  }
- ],
  "KUBIK_GENTA_10": [
   {
    "brand": "KUBIK",
@@ -94622,6 +94671,13 @@
    "brand": "Kyocera",
    "name": "Android One S2",
    "model": "S2"
+  }
+ ],
+ "S9-KC_sprout": [
+  {
+   "brand": "Kyocera",
+   "name": "Android One S9",
+   "model": "S9-KC"
   }
  ],
  "KYV32": [
@@ -105539,28 +105595,6 @@
    "brand": "iLa Mobile",
    "name": "R1 Lite",
    "model": "R1 Lite"
-  }
- ],
- "R3": [
-  {
-   "brand": "Lava",
-   "name": "R3",
-   "model": "R3"
-  },
-  {
-   "brand": "Mobicell",
-   "name": "R3",
-   "model": "R3"
-  },
-  {
-   "brand": "Oppo",
-   "name": "R6006",
-   "model": "R6006"
-  },
-  {
-   "brand": "Oppo",
-   "name": "R7005",
-   "model": "R7005"
   }
  ],
  "LTN10RT": [
@@ -125667,6 +125701,13 @@
    "brand": "Motorola",
    "name": "moto P30 NOTE",
    "model": "XT1942-1"
+  }
+ ],
+ "hiphid": [
+  {
+   "brand": "Motorola",
+   "name": "moto X30 屏下摄像版",
+   "model": "XT2201-6"
   }
  ],
  "ginna": [
@@ -155761,6 +155802,13 @@
    "model": "GRAVITY 3G_2019"
   }
  ],
+ "GRAVITY_3_PRO": [
+  {
+   "brand": "SPC Mobile",
+   "name": "GRAVITY_3_PRO",
+   "model": "GRAVITY 3 PRO"
+  }
+ ],
  "Gravity_Max": [
   {
    "brand": "SPC Mobile",
@@ -163637,6 +163685,23 @@
    "model": "SM-A605K"
   }
  ],
+ "m33x": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Jump2",
+   "model": "SM-M336K"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M33 5G",
+   "model": "SM-M336B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M33 5G",
+   "model": "SM-M336BU"
+  }
+ ],
  "SHW-M130K": [
   {
    "brand": "Samsung",
@@ -163881,23 +163946,6 @@
    "brand": "Samsung",
    "name": "Galaxy M32",
    "model": "SM-M325FV"
-  }
- ],
- "m33x": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy M33 5G",
-   "model": "SM-M336B"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy M33 5G",
-   "model": "SM-M336BU"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy M33 5G",
-   "model": "SM-M336K"
   }
  ],
  "m40": [

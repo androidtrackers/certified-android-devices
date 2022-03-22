@@ -35432,6 +35432,23 @@
    "model": "L20"
   }
  ],
+ "R3": [
+  {
+   "brand": "Casper",
+   "device": "R3",
+   "model": "R3"
+  },
+  {
+   "brand": "Lava",
+   "device": "R3",
+   "model": "R3"
+  },
+  {
+   "brand": "Mobicell",
+   "device": "R3",
+   "model": "R3"
+  }
+ ],
  "S20": [
   {
    "brand": "Casper",
@@ -36911,6 +36928,13 @@
    "brand": "Cherry Mobile",
    "device": "Aqua_S9_Max",
    "model": "Aqua S9 Max"
+  }
+ ],
+ "Aqua SV": [
+  {
+   "brand": "Cherry Mobile",
+   "device": "Aqua_SV",
+   "model": "Aqua SV"
   }
  ],
  "Aqua Tab": [
@@ -52285,6 +52309,11 @@
    "brand": "EcoStar",
    "device": "stanford",
    "model": "40D"
+  },
+  {
+   "brand": "EcoStar",
+   "device": "zhongshan",
+   "model": "43F"
   }
  ],
  "ECOSTAR SMART TV": [
@@ -98189,6 +98218,13 @@
    "model": "S2"
   }
  ],
+ "Android One S9": [
+  {
+   "brand": "Kyocera",
+   "device": "S9-KC_sprout",
+   "model": "S9-KC"
+  }
+ ],
  "BASIO": [
   {
    "brand": "Kyocera",
@@ -108041,18 +108077,6 @@
    "brand": "Lava",
    "device": "R2",
    "model": "R2"
-  }
- ],
- "R3": [
-  {
-   "brand": "Lava",
-   "device": "R3",
-   "model": "R3"
-  },
-  {
-   "brand": "Mobicell",
-   "device": "R3",
-   "model": "R3"
   }
  ],
  "R3 Prime": [
@@ -120471,6 +120495,20 @@
    "model": "PCPM00"
   }
  ],
+ "ATV R1": [
+  {
+   "brand": "Micromax",
+   "device": "R1",
+   "model": "ATV R1"
+  }
+ ],
+ "ATV R2": [
+  {
+   "brand": "Micromax",
+   "device": "R2",
+   "model": "ATV R2"
+  }
+ ],
  "B5 Pro": [
   {
    "brand": "Micromax",
@@ -126205,6 +126243,13 @@
    "brand": "Motorola",
    "device": "chef",
    "model": "XT1942-1"
+  }
+ ],
+ "moto X30 屏下摄像版": [
+  {
+   "brand": "Motorola",
+   "device": "hiphid",
+   "model": "XT2201-6"
   }
  ],
  "moto e": [
@@ -156436,6 +156481,13 @@
    "model": "GRAVITY 3G_2019"
   }
  ],
+ "GRAVITY_3_PRO": [
+  {
+   "brand": "SPC Mobile",
+   "device": "GRAVITY_3_PRO",
+   "model": "GRAVITY 3 PRO"
+  }
+ ],
  "Gravity_Max_EEA": [
   {
    "brand": "SPC Mobile",
@@ -163335,6 +163387,13 @@
    "model": "SM-A326K"
   }
  ],
+ "Galaxy Jump2": [
+  {
+   "brand": "Samsung",
+   "device": "m33x",
+   "model": "SM-M336K"
+  }
+ ],
  "Galaxy K": [
   {
    "brand": "Samsung",
@@ -163638,11 +163697,6 @@
    "brand": "Samsung",
    "device": "m33x",
    "model": "SM-M336BU"
-  },
-  {
-   "brand": "Samsung",
-   "device": "m33x",
-   "model": "SM-M336K"
   }
  ],
  "Galaxy M40": [

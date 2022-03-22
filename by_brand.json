@@ -19757,6 +19757,11 @@
    "model": "L20"
   },
   {
+   "device": "R3",
+   "name": "R3",
+   "model": "R3"
+  },
+  {
    "device": "S20",
    "name": "S20",
    "model": "S20"
@@ -20803,6 +20808,11 @@
    "device": "Aqua_S9_Max",
    "name": "Aqua S9 Max",
    "model": "Aqua S9 Max"
+  },
+  {
+   "device": "Aqua_SV",
+   "name": "Aqua SV",
+   "model": "Aqua SV"
   },
   {
    "device": "Cherry_Aqua_Tab_S1",
@@ -31765,6 +31775,11 @@
    "device": "stanford",
    "name": "ECOSTAR",
    "model": "40D"
+  },
+  {
+   "device": "zhongshan",
+   "name": "ECOSTAR",
+   "model": "43F"
   },
   {
    "device": "SW4H",
@@ -70143,6 +70158,11 @@
    "model": "S2"
   },
   {
+   "device": "S9-KC_sprout",
+   "name": "Android One S9",
+   "model": "S9-KC"
+  },
+  {
    "device": "KYV32",
    "name": "BASIO",
    "model": "KYV32"
@@ -89815,6 +89835,16 @@
    "model": "Micromax A91"
   },
   {
+   "device": "R1",
+   "name": "ATV R1",
+   "model": "ATV R1"
+  },
+  {
+   "device": "R2",
+   "name": "ATV R2",
+   "model": "ATV R2"
+  },
+  {
    "device": "R2",
    "name": "Android TV",
    "model": "ATV R2"
@@ -94987,6 +95017,11 @@
    "device": "chef",
    "name": "moto P30 NOTE",
    "model": "XT1942-1"
+  },
+  {
+   "device": "hiphid",
+   "name": "moto X30 屏下摄像版",
+   "model": "XT2201-6"
   },
   {
    "device": "ginna",
@@ -119969,6 +120004,11 @@
    "model": "GRAVITY 3G_2019"
   },
   {
+   "device": "GRAVITY_3_PRO",
+   "name": "GRAVITY_3_PRO",
+   "model": "GRAVITY 3 PRO"
+  },
+  {
    "device": "Gravity_Max",
    "name": "Gravity_Max_EEA",
    "model": "Gravity Max"
@@ -126306,6 +126346,11 @@
    "model": "SM-A326K"
   },
   {
+   "device": "m33x",
+   "name": "Galaxy Jump2",
+   "model": "SM-M336K"
+  },
+  {
    "device": "SHW-M130K",
    "name": "Galaxy K",
    "model": "SHW-M130K"
@@ -126559,11 +126604,6 @@
    "device": "m33x",
    "name": "Galaxy M33 5G",
    "model": "SM-M336BU"
-  },
-  {
-   "device": "m33x",
-   "name": "Galaxy M33 5G",
-   "model": "SM-M336K"
   },
   {
    "device": "m40",
