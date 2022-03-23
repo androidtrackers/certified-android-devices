@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-03-22
+Last sync is 2022-03-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3310,7 +3310,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|M8L|M0173WW|M8L|
 |Blu|M8L|M0174WW|M8L|
 |Blu|M8L 2022|M0220WW|M8L 2022|
-|Blu|M8L 2022|M0220WW_ND|M8L 2022|
 |Blu|M8L PLUS|M0209WW|M8L PLUS|
 |Blu|M8L PLUS|M0210WW|M8L PLUS|
 |Blu|M8L_PLUS|M0208WW|M8L PLUS|
@@ -3400,6 +3399,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|T5 Plus|T0070TT_TIGO|T5 Plus|
 |Blu|T6|T0080TT|T6|
 |Blu|T6|T0090TT|T6|
+|Blu|T6L|T0130TT|T6L|
 |Blu|TOUCHBOOK M7|BLU_TOUCHBOOK_M7|BLU TOUCHBOOK M7|
 |Blu|Tank Xtreme 4.0|Tank_Xtreme_4_0|Tank Xtreme 4.0|
 |Blu|Tank Xtreme 5.0|Tank_Xtreme_5_0|Tank Xtreme 5.0|
@@ -5130,6 +5130,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DIAMANT|EU|tamachi|DIAMANT Android TV|
 |DIAMANT|EU|yeongdeungpo|DIAMANT Android TV|
 |DIFRNCE|DIT702201|DIT702201|NID_7010|
+|DIJITSU|Smart A11s|Smart_A11s|DIJITSU_Smart_A11s|
 |DIMENSIONS|DISHM7863|DISHM7863|DISHM7863|
 |DIRECTV|DIRECTV STREAM|c71kw200|AT&T TV|
 |DIRECTV|DIRECTV STREAM|c71kw200|c71kw200|
@@ -7208,6 +7209,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-TiDE|G-TiDE_P1_4|G-TiDE_P1_4|G-TiDE_P1|
 |G-TiDE|G-TiDE_P1_4G|G-TiDE_P1_4G|G-TiDE_P1_4G|
 |G-TiDE|PL1080|G-TiDE_H1_4G_EEA|G-TiDE_H1_4G|
+|G-TiDE|V1_4G|V1_4G|V1_4G|
 |G-TiDE|Zeal1|Zeal1|Zeal1|
 |G-TiDE EXTREME|EX10|EX10|EX10|
 |G-TiDE EXTREME|EX760|EX760|EX760|
@@ -12106,6 +12108,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 10T|Infinix-X689C|Infinix X689C|
 |Infinix|Infinix HOT 10i|Infinix-PR652B|Infinix PR652B|
 |Infinix|Infinix HOT 11S NFC|Infinix-X6812B|Infinix X6812B|
+|Infinix|Infinix HOT 12|Infinix-X6817|Infinix X6817|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623B|
 |Infinix|Infinix HOT 7|Infinix-X625C|Infinix X625C|
@@ -13160,6 +13163,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KRIP|K4b|K4b|K4b|
 |KRIP|K4m|K4m|K4m|
 |KRIP|K5|K5|K5|
+|KRIP|K50|K50|K50|
 |KRIP|K55h|K55h|K55h|
 |KRIP|K57|K57|K57|
 |KRIP|K5b|K5b|K5b|
@@ -17358,6 +17362,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MegaFon|MT3A|MT3A|MT3A|
 |Megacable|Mexico|B826C-A12_ZTE|B826C-A12|
 |Megacable|Mexico|B866V2_ZTE|Xview+|
+|Megacable|XView+|ucw4046meg|Xview+|
 |Megahouse|CP-D403|CP-D403|CP-D403|
 |Meiigoo|S8|MEIIGOO_S8|S8|
 |Meiigoo|S9|S9|S9|
@@ -33291,7 +33296,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 11T Pro|vili|2107113SG|
 |Xiaomi|Xiaomi 11T Pro|vili|2107113SI|
 |Xiaomi|Xiaomi 11T Pro|vili|2107113SR|
+|Xiaomi|Xiaomi 12|cupid|2201123C|
 |Xiaomi|Xiaomi 12|cupid|2201123G|
+|Xiaomi|Xiaomi 12 Pro|zeus|2201122C|
 |Xiaomi|Xiaomi 12 Pro|zeus|2201122G|
 |Xiaomi|Xiaomi 12X|psyche|2112123AC|
 |Xiaomi|Xiaomi Civi|mona|2109119BC|
@@ -35810,6 +35817,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 9i|RED8C1L1|RMX3493|
 |realme|realme 9i|RED8C1L1|RMX3493|
 |realme|realme C11 2021|RMX3231|RMX3231|
+|realme|realme C15|RMX2180|RMX2180|
 |realme|realme C15 Qualcomm Edition|RMX2195L1|RMX2195|
 |realme|realme C20|RMX3061|RMX3061|
 |realme|realme C20|RMX3063|RMX3063|

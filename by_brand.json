@@ -17046,11 +17046,6 @@
    "model": "M8L 2022"
   },
   {
-   "device": "M0220WW_ND",
-   "name": "M8L 2022",
-   "model": "M8L 2022"
-  },
-  {
    "device": "M0209WW",
    "name": "M8L PLUS",
    "model": "M8L PLUS"
@@ -17494,6 +17489,11 @@
    "device": "T0090TT",
    "name": "T6",
    "model": "T6"
+  },
+  {
+   "device": "T0130TT",
+   "name": "T6L",
+   "model": "T6L"
   },
   {
    "device": "BLU_TOUCHBOOK_M7",
@@ -26528,6 +26528,13 @@
    "device": "DIT702201",
    "name": "DIT702201",
    "model": "NID_7010"
+  }
+ ],
+ "DIJITSU": [
+  {
+   "device": "Smart_A11s",
+   "name": "Smart A11s",
+   "model": "DIJITSU_Smart_A11s"
   }
  ],
  "DIMENSIONS": [
@@ -37432,6 +37439,11 @@
    "device": "G-TiDE_H1_4G_EEA",
    "name": "PL1080",
    "model": "G-TiDE_H1_4G"
+  },
+  {
+   "device": "V1_4G",
+   "name": "V1_4G",
+   "model": "V1_4G"
   },
   {
    "device": "Zeal1",
@@ -62362,6 +62374,11 @@
    "model": "Infinix X6812B"
   },
   {
+   "device": "Infinix-X6817",
+   "name": "Infinix HOT 12",
+   "model": "Infinix X6817"
+  },
+  {
    "device": "Infinix-X623",
    "name": "Infinix HOT 6X",
    "model": "Infinix X623"
@@ -67796,6 +67813,11 @@
    "device": "K5",
    "name": "K5",
    "model": "K5"
+  },
+  {
+   "device": "K50",
+   "name": "K50",
+   "model": "K50"
   },
   {
    "device": "K55h",
@@ -89243,6 +89265,11 @@
   {
    "device": "B866V2_ZTE",
    "name": "Mexico",
+   "model": "Xview+"
+  },
+  {
+   "device": "ucw4046meg",
+   "name": "XView+",
    "model": "Xview+"
   }
  ],
@@ -170885,7 +170912,17 @@
   {
    "device": "cupid",
    "name": "Xiaomi 12",
+   "model": "2201123C"
+  },
+  {
+   "device": "cupid",
+   "name": "Xiaomi 12",
    "model": "2201123G"
+  },
+  {
+   "device": "zeus",
+   "name": "Xiaomi 12 Pro",
+   "model": "2201122C"
   },
   {
    "device": "zeus",
@@ -183814,6 +183851,11 @@
    "device": "RMX3231",
    "name": "realme C11 2021",
    "model": "RMX3231"
+  },
+  {
+   "device": "RMX2180",
+   "name": "realme C15",
+   "model": "RMX2180"
   },
   {
    "device": "RMX2195L1",

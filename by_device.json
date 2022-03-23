@@ -27430,13 +27430,6 @@
    "model": "M8L 2022"
   }
  ],
- "M0220WW_ND": [
-  {
-   "brand": "Blu",
-   "name": "M8L 2022",
-   "model": "M8L 2022"
-  }
- ],
  "M0209WW": [
   {
    "brand": "Blu",
@@ -28064,6 +28057,13 @@
    "brand": "Blu",
    "name": "T6",
    "model": "T6"
+  }
+ ],
+ "T0130TT": [
+  {
+   "brand": "Blu",
+   "name": "T6L",
+   "model": "T6L"
   }
  ],
  "BLU_TOUCHBOOK_M7": [
@@ -40715,6 +40715,13 @@
    "brand": "DIFRNCE",
    "name": "DIT702201",
    "model": "NID_7010"
+  }
+ ],
+ "Smart_A11s": [
+  {
+   "brand": "DIJITSU",
+   "name": "Smart A11s",
+   "model": "DIJITSU_Smart_A11s"
   }
  ],
  "DISHM7863": [
@@ -55421,6 +55428,13 @@
    "brand": "G-TiDE",
    "name": "PL1080",
    "model": "G-TiDE_H1_4G"
+  }
+ ],
+ "V1_4G": [
+  {
+   "brand": "G-TiDE",
+   "name": "V1_4G",
+   "model": "V1_4G"
   }
  ],
  "Zeal1": [
@@ -85025,6 +85039,13 @@
    "model": "Infinix X6812B"
   }
  ],
+ "Infinix-X6817": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 12",
+   "model": "Infinix X6817"
+  }
+ ],
  "Infinix-X623": [
   {
    "brand": "Infinix",
@@ -91701,6 +91722,13 @@
    "model": "K4m"
   }
  ],
+ "K50": [
+  {
+   "brand": "KRIP",
+   "name": "K50",
+   "model": "K50"
+  }
+ ],
  "K55h": [
   {
    "brand": "KRIP",
@@ -93574,6 +93602,11 @@
    "brand": "Kobo",
    "name": "Arc",
    "model": "Arc"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 12 Pro",
+   "model": "2201122C"
   },
   {
    "brand": "Xiaomi",
@@ -118382,6 +118415,13 @@
   {
    "brand": "Megacable",
    "name": "Mexico",
+   "model": "Xview+"
+  }
+ ],
+ "ucw4046meg": [
+  {
+   "brand": "Megacable",
+   "name": "XView+",
    "model": "Xview+"
   }
  ],
@@ -152520,6 +152560,11 @@
  "RMX2180": [
   {
    "brand": "Realme",
+   "name": "realme C15",
+   "model": "RMX2180"
+  },
+  {
+   "brand": "realme",
    "name": "realme C15",
    "model": "RMX2180"
   }
@@ -216270,6 +216315,11 @@
   }
  ],
  "cupid": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 12",
+   "model": "2201123C"
+  },
   {
    "brand": "Xiaomi",
    "name": "Xiaomi 12",

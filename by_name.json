@@ -31350,11 +31350,6 @@
    "brand": "Blu",
    "device": "M0220WW",
    "model": "M8L 2022"
-  },
-  {
-   "brand": "Blu",
-   "device": "M0220WW_ND",
-   "model": "M8L 2022"
   }
  ],
  "M8L PLUS": [
@@ -32014,6 +32009,13 @@
    "brand": "IkuMobile",
    "device": "T6",
    "model": "T6"
+  }
+ ],
+ "T6L": [
+  {
+   "brand": "Blu",
+   "device": "T0130TT",
+   "model": "T6L"
   }
  ],
  "TOUCHBOOK M7": [
@@ -44992,6 +44994,13 @@
    "brand": "DIFRNCE",
    "device": "DIT702201",
    "model": "NID_7010"
+  }
+ ],
+ "Smart A11s": [
+  {
+   "brand": "DIJITSU",
+   "device": "Smart_A11s",
+   "model": "DIJITSU_Smart_A11s"
   }
  ],
  "DISHM7863": [
@@ -59865,6 +59874,13 @@
    "brand": "G-TiDE",
    "device": "G-TiDE_H1_4G_EEA",
    "model": "G-TiDE_H1_4G"
+  }
+ ],
+ "V1_4G": [
+  {
+   "brand": "G-TiDE",
+   "device": "V1_4G",
+   "model": "V1_4G"
   }
  ],
  "Zeal1": [
@@ -88564,6 +88580,13 @@
    "model": "Infinix X6812B"
   }
  ],
+ "Infinix HOT 12": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6817",
+   "model": "Infinix X6817"
+  }
+ ],
  "Infinix HOT 6X": [
   {
    "brand": "Infinix",
@@ -95188,6 +95211,23 @@
    "brand": "KRIP",
    "device": "K4m",
    "model": "K4m"
+  }
+ ],
+ "K50": [
+  {
+   "brand": "KRIP",
+   "device": "K50",
+   "model": "K50"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "K50-t5",
+   "model": "Lenovo K50-t5"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "aio_3m_otfp",
+   "model": "Lenovo K50-t3s"
   }
  ],
  "K55h": [
@@ -110905,18 +110945,6 @@
    "model": "Lenovo L38031"
   }
  ],
- "K50": [
-  {
-   "brand": "Lenovo",
-   "device": "K50-t5",
-   "model": "Lenovo K50-t5"
-  },
-  {
-   "brand": "Lenovo",
-   "device": "aio_3m_otfp",
-   "model": "Lenovo K50-t3s"
-  }
- ],
  "K50-T5": [
   {
    "brand": "Lenovo",
@@ -119824,6 +119852,13 @@
    "brand": "MegaFon",
    "device": "MT3A",
    "model": "MT3A"
+  }
+ ],
+ "XView+": [
+  {
+   "brand": "Megacable",
+   "device": "ucw4046meg",
+   "model": "Xview+"
   }
  ],
  "CP-D403": [
@@ -152978,6 +153013,11 @@
    "brand": "Realme",
    "device": "RMX2183",
    "model": "RMX2183"
+  },
+  {
+   "brand": "realme",
+   "device": "RMX2180",
+   "model": "RMX2180"
   }
  ],
  "realme C15 Qualcomm Edition": [
@@ -214350,10 +214390,20 @@
   {
    "brand": "Xiaomi",
    "device": "cupid",
+   "model": "2201123C"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "cupid",
    "model": "2201123G"
   }
  ],
  "Xiaomi 12 Pro": [
+  {
+   "brand": "Xiaomi",
+   "device": "zeus",
+   "model": "2201122C"
+  },
   {
    "brand": "Xiaomi",
    "device": "zeus",

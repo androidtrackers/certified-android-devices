@@ -25211,11 +25211,6 @@
    "brand": "Blu",
    "name": "M8L 2022",
    "device": "M0220WW"
-  },
-  {
-   "brand": "Blu",
-   "name": "M8L 2022",
-   "device": "M0220WW_ND"
   }
  ],
  "M8L PLUS": [
@@ -25864,6 +25859,13 @@
    "brand": "IkuMobile",
    "name": "T6",
    "device": "T6"
+  }
+ ],
+ "T6L": [
+  {
+   "brand": "Blu",
+   "name": "T6L",
+   "device": "T0130TT"
   }
  ],
  "BLU TOUCHBOOK M7": [
@@ -38318,6 +38320,13 @@
    "brand": "DIAMANT",
    "name": "EU",
    "device": "yeongdeungpo"
+  }
+ ],
+ "DIJITSU_Smart_A11s": [
+  {
+   "brand": "DIJITSU",
+   "name": "Smart A11s",
+   "device": "Smart_A11s"
   }
  ],
  "DISHM7863": [
@@ -53012,6 +53021,13 @@
    "brand": "G-TiDE",
    "name": "G-TiDE_P1_4G",
    "device": "G-TiDE_P1_4G"
+  }
+ ],
+ "V1_4G": [
+  {
+   "brand": "G-TiDE",
+   "name": "V1_4G",
+   "device": "V1_4G"
   }
  ],
  "Zeal1": [
@@ -85826,6 +85842,13 @@
    "device": "Infinix-X6812B"
   }
  ],
+ "Infinix X6817": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 12",
+   "device": "Infinix-X6817"
+  }
+ ],
  "Infinix X623": [
   {
    "brand": "Infinix",
@@ -92773,6 +92796,13 @@
    "brand": "KRIP",
    "name": "K4m",
    "device": "K4m"
+  }
+ ],
+ "K50": [
+  {
+   "brand": "KRIP",
+   "name": "K50",
+   "device": "K50"
   }
  ],
  "K55h": [
@@ -120733,6 +120763,11 @@
    "brand": "Megacable",
    "name": "Mexico",
    "device": "B866V2_ZTE"
+  },
+  {
+   "brand": "Megacable",
+   "name": "XView+",
+   "device": "ucw4046meg"
   }
  ],
  "CP-D403": [
@@ -155915,6 +155950,11 @@
  "RMX2180": [
   {
    "brand": "Realme",
+   "name": "realme C15",
+   "device": "RMX2180"
+  },
+  {
+   "brand": "realme",
    "name": "realme C15",
    "device": "RMX2180"
   }
@@ -224965,11 +225005,25 @@
    "device": "vili"
   }
  ],
+ "2201123C": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 12",
+   "device": "cupid"
+  }
+ ],
  "2201123G": [
   {
    "brand": "Xiaomi",
    "name": "Xiaomi 12",
    "device": "cupid"
+  }
+ ],
+ "2201122C": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 12 Pro",
+   "device": "zeus"
   }
  ],
  "2201122G": [
