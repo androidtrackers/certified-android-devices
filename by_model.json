@@ -820,7 +820,7 @@
   },
   {
    "brand": "Karbonn",
-   "name": "Karbonn",
+   "name": "Karbonn Smart TV",
    "device": "stanford"
   },
   {
@@ -24085,6 +24085,13 @@
    "device": "N0030WW"
   }
  ],
+ "BOLD N2": [
+  {
+   "brand": "Blu",
+   "name": "BOLD N2",
+   "device": "N0050UU"
+  }
+ ],
  "C1": [
   {
    "brand": "Blu",
@@ -25011,6 +25018,11 @@
    "brand": "Blu",
    "name": "J9L",
    "device": "J0090WW"
+  },
+  {
+   "brand": "Blu",
+   "name": "J9L",
+   "device": "J0092WW"
   }
  ],
  "BLU LIFE ONE X": [
@@ -25862,6 +25874,11 @@
   }
  ],
  "T6L": [
+  {
+   "brand": "Blu",
+   "name": "T6L",
+   "device": "T0120TT"
+  },
   {
    "brand": "Blu",
    "name": "T6L",
@@ -31542,6 +31559,11 @@
    "brand": "Chuwi",
    "name": "HiPadX_11",
    "device": "HiPadX"
+  },
+  {
+   "brand": "Chuwi",
+   "name": "HiPadX_ROW",
+   "device": "HiPadX"
   }
  ],
  "HiPad Pro": [
@@ -31792,6 +31814,13 @@
    "brand": "Clarmin",
    "name": "CLARMIN C1",
    "device": "CLARMIN_C1"
+  }
+ ],
+ "CLARO BOX TV": [
+  {
+   "brand": "Claro",
+   "name": "CLARO BOX TV",
+   "device": "SEI810CCOA"
   }
  ],
  "Claro Colombia STB": [
@@ -38667,6 +38696,16 @@
  "2K SA Smart TV": [
   {
    "brand": "Daewoo",
+   "name": "Smart TV",
+   "device": "mateo"
+  },
+  {
+   "brand": "JVC",
+   "name": "Smart TV",
+   "device": "mateo"
+  },
+  {
+   "brand": "Master-G",
    "name": "Smart TV",
    "device": "mateo"
   },
@@ -53016,6 +53055,13 @@
    "device": "G-TiDE_P1_4"
   }
  ],
+ "G-TiDE_P1_3G": [
+  {
+   "brand": "G-TiDE",
+   "name": "G-TiDE_P1_3G",
+   "device": "G-TiDE_P1_3G"
+  }
+ ],
  "G-TiDE_P1_4G": [
   {
    "brand": "G-TiDE",
@@ -54262,6 +54308,18 @@
    "brand": "Geo (GeoTechVision)",
    "name": "GEO10",
    "device": "GEO10"
+  }
+ ],
+ "P9IV": [
+  {
+   "brand": "Geoelectron",
+   "name": "P9IV",
+   "device": "P9IV_Handheld"
+  },
+  {
+   "brand": "Geoelectron",
+   "name": "P9IV_Handheld_EEA",
+   "device": "P9IV_Handheld"
   }
  ],
  "CP600": [
@@ -70278,6 +70336,11 @@
    "brand": "Hisense",
    "name": "huangshan",
    "device": "huangshan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "songshan",
+   "device": "songshan"
   }
  ],
  "SmartTV 4K FFM": [
@@ -92805,6 +92868,13 @@
    "device": "K50"
   }
  ],
+ "K55g": [
+  {
+   "brand": "KRIP",
+   "name": "K55g",
+   "device": "K55g"
+  }
+ ],
  "K55h": [
   {
    "brand": "KRIP",
@@ -112727,6 +112797,13 @@
    "device": "TB125FU"
   }
  ],
+ "Lenovo TB128FU": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M10 Plus 3rd Gen",
+   "device": "TB128FU"
+  }
+ ],
  "Lenovo TB-7305F": [
   {
    "brand": "Lenovo",
@@ -119053,6 +119130,13 @@
    "device": "MS553"
   }
  ],
+ "MS554": [
+  {
+   "brand": "Maxcom",
+   "name": "MS554_eea",
+   "device": "Maxcom_MS554"
+  }
+ ],
  "MS571": [
   {
    "brand": "Maxcom",
@@ -119211,6 +119295,13 @@
    "brand": "Maxwest",
    "name": "Astro 4 PRO",
    "device": "Astro_4_PRO"
+  }
+ ],
+ "Astro 4R": [
+  {
+   "brand": "Maxwest",
+   "name": "Astro 4R",
+   "device": "Astro_4R"
   }
  ],
  "Astro_5_GO_LTE": [
@@ -140359,13 +140450,6 @@
    "device": "OP5231"
   }
  ],
- "PFJM10": [
-  {
-   "brand": "Oppo",
-   "name": "PFJM10",
-   "device": "OP5227"
-  }
- ],
  "PGCM10": [
   {
    "brand": "Oppo",
@@ -141527,6 +141611,13 @@
    "brand": "Oppo",
    "name": "Reno6 Pro+ 5G",
    "device": "OP4EC1"
+  }
+ ],
+ "PFJM10": [
+  {
+   "brand": "Oppo",
+   "name": "Reno7 中国版",
+   "device": "OP5227"
   }
  ],
  "U707": [
@@ -143427,6 +143518,13 @@
    "device": "fleur"
   }
  ],
+ "2201117PI": [
+  {
+   "brand": "POCO",
+   "name": "POCO M4 Pro",
+   "device": "miel"
+  }
+ ],
  "21091116AG": [
   {
    "brand": "POCO",
@@ -143467,6 +143565,20 @@
    "brand": "POCO",
    "name": "POCO X3 Pro",
    "device": "vayu"
+  }
+ ],
+ "2201116PI": [
+  {
+   "brand": "POCO",
+   "name": "POCO X4 Pro 5G",
+   "device": "peux"
+  }
+ ],
+ "2201116PG": [
+  {
+   "brand": "POCO",
+   "name": "POCO X4 Pro 5G",
+   "device": "veux"
   }
  ],
  "Kammunica_V10": [
@@ -155224,6 +155336,13 @@
    "device": "mateo"
   }
  ],
+ "DAEWOO 2K SA Smart TV": [
+  {
+   "brand": "RCA",
+   "name": "Smart TV",
+   "device": "mateo"
+  }
+ ],
  "HKC 2K SA Smart TV": [
   {
    "brand": "RCA",
@@ -156346,7 +156465,7 @@
    "device": "RE508C"
   },
   {
-   "brand": "Realme",
+   "brand": "realme",
    "name": "realme X50m 5G",
    "device": "RMX2141CN"
   }
@@ -156727,6 +156846,13 @@
    "device": "eos"
   }
  ],
+ "220333QBI": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10",
+   "device": "fog"
+  }
+ ],
  "21061119AG": [
   {
    "brand": "Redmi",
@@ -156753,6 +156879,13 @@
    "brand": "Redmi",
    "name": "Redmi 10 2022",
    "device": "selene"
+  }
+ ],
+ "220333QAG": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10C",
+   "device": "fog"
   }
  ],
  "M2004J7AC": [
@@ -157277,6 +157410,13 @@
    "device": "spesn"
   }
  ],
+ "21121119SC": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 11 4G",
+   "device": "selene"
+  }
+ ],
  "21091116AC": [
   {
    "brand": "Redmi",
@@ -157319,11 +157459,25 @@
    "device": "pissarropro"
   }
  ],
+ "2201116SI": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 11 Pro+ 5G",
+   "device": "peux"
+  }
+ ],
  "21091116UG": [
   {
    "brand": "Redmi",
    "name": "Redmi Note 11 Pro+ 5G",
    "device": "pissarropro"
+  }
+ ],
+ "22041219C": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 11E",
+   "device": "light"
   }
  ],
  "2201116SC": [
@@ -157341,6 +157495,13 @@
   }
  ],
  "2201117SG": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 11S",
+   "device": "miel"
+  }
+ ],
+ "2201117SI": [
   {
    "brand": "Redmi",
    "name": "Redmi Note 11S",
@@ -162644,6 +162805,13 @@
   }
  ],
  "SM-A336M": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A33 5G",
+   "device": "a33x"
+  }
+ ],
+ "SM-A336N": [
   {
    "brand": "Samsung",
    "name": "Galaxy A33 5G",
@@ -192318,6 +192486,13 @@
    "device": "i69"
   }
  ],
+ "i71": [
+  {
+   "brand": "Symphony",
+   "name": "i71",
+   "device": "i71"
+  }
+ ],
  "i72": [
   {
    "brand": "Symphony",
@@ -209796,6 +209971,18 @@
    "device": "M101"
   }
  ],
+ "W888": [
+  {
+   "brand": "UNIWA",
+   "name": "UNIWA W888",
+   "device": "UNIWA_W888"
+  },
+  {
+   "brand": "VALIFONE",
+   "name": "W888",
+   "device": "W888"
+  }
+ ],
  "UC_TK03": [
   {
    "brand": "UNNIC",
@@ -211023,6 +211210,11 @@
    "brand": "Umidigi",
    "name": "F3S",
    "device": "F3S"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "F3S EEA",
+   "device": "F3S"
   }
  ],
  "AblePad": [
@@ -211087,6 +211279,11 @@
   {
    "brand": "Umidigi",
    "name": "Power 7 Max",
+   "device": "Power_7_Max"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "Power 7 Max EEA",
    "device": "Power_7_Max"
   },
   {
@@ -211831,13 +212028,6 @@
    "brand": "VALIFONE",
    "name": "V710",
    "device": "V710"
-  }
- ],
- "W888": [
-  {
-   "brand": "VALIFONE",
-   "name": "W888",
-   "device": "W888"
   }
  ],
  "TAB7Q804VAL": [
@@ -215492,6 +215682,13 @@
    "device": "PD1731"
   }
  ],
+ "V2180GA": [
+  {
+   "brand": "Vivo",
+   "name": "U5x",
+   "device": "PD2180"
+  }
+ ],
  "vivo V1": [
   {
    "brand": "Vivo",
@@ -217176,6 +217373,13 @@
    "brand": "Vivo",
    "name": "Xplay6",
    "device": "PD1610"
+  }
+ ],
+ "V2180A": [
+  {
+   "brand": "Vivo",
+   "name": "Y10",
+   "device": "PD2180"
   }
  ],
  "vivo Y11": [
