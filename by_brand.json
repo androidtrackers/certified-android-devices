@@ -25371,6 +25371,11 @@
    "model": "P50"
   },
   {
+   "device": "Pocket",
+   "name": "Pocket",
+   "model": "Pocket"
+  },
+  {
    "device": "QUEST",
    "name": "QUEST",
    "model": "QUEST"
@@ -41437,6 +41442,13 @@
    "device": "Tab_i_excess",
    "name": "Tab_i_excess",
    "model": "Tab_i_excess"
+  }
+ ],
+ "HEADWOLF": [
+  {
+   "device": "Hpad1",
+   "name": "Hpad1",
+   "model": "Hpad1"
   }
  ],
  "HEALTHJAY": [
@@ -62691,6 +62703,11 @@
    "model": "Infinix X693"
   },
   {
+   "device": "Infinix-X6819",
+   "name": "Infinix NOTE 12i",
+   "model": "Infinix X6819"
+  },
+  {
    "device": "Infinix-X604_sprout",
    "name": "Infinix NOTE 5",
    "model": "Infinix X604"
@@ -62979,6 +62996,11 @@
    "device": "Infinix-X6511E",
    "name": "SMART 6",
    "model": "Infinix X6511E"
+  },
+  {
+   "device": "Infinix-X6512",
+   "name": "SMART 6 HD",
+   "model": "Infinix X6512"
   },
   {
    "device": "Infinix-X6511G",
@@ -87404,6 +87426,11 @@
  ],
  "MTS (RU)": [
   {
+   "device": "B866_MTS_IPTV",
+   "name": "B866",
+   "model": "B866"
+  },
+  {
    "device": "B866_MTS_OTT",
    "name": "B866",
    "model": "B866"
@@ -87412,11 +87439,6 @@
    "device": "DV8304C",
    "name": "DV8304-C",
    "model": "DV8304-C"
-  },
-  {
-   "device": "B866_MTS_IPTV",
-   "name": "Russia",
-   "model": "B866"
   },
   {
    "device": "Smart_Bit",
@@ -88900,6 +88922,11 @@
    "device": "KD2",
    "name": "KD2",
    "model": "KD2"
+  },
+  {
+   "device": "YYT",
+   "name": "KD3",
+   "model": "4K Google TV Stick"
   },
   {
    "device": "KM1",
@@ -93304,6 +93331,13 @@
    "model": "MD_G1212U"
   }
  ],
+ "ModeEarnPhone": [
+  {
+   "device": "MEP2",
+   "name": "MEP2",
+   "model": "MEP2Q421G"
+  }
+ ],
  "Modecom": [
   {
    "device": "ECHO_LOLLY",
@@ -96875,6 +96909,11 @@
    "device": "ML_SO0G_M10_4G",
    "name": "M10 4G",
    "model": "M10_4G"
+  },
+  {
+   "device": "ML_SO2G_M10_4G_T1",
+   "name": "M10 4G",
+   "model": "M10_4G_T1"
   },
   {
    "device": "ML_JI0B_M10_4G_MC",
@@ -122381,21 +122420,6 @@
    "model": "SM-A135U1"
   },
   {
-   "device": "a13x",
-   "name": "Galaxy A13 5G",
-   "model": "SM-A136U"
-  },
-  {
-   "device": "a13x",
-   "name": "Galaxy A13 5G",
-   "model": "SM-A136U1"
-  },
-  {
-   "device": "a13x",
-   "name": "Galaxy A13 5G",
-   "model": "SM-A136W"
-  },
-  {
    "device": "a2corelte",
    "name": "Galaxy A2 Core",
    "model": "SM-A260F"
@@ -123659,6 +123683,11 @@
    "device": "a72q",
    "name": "Galaxy A72",
    "model": "SM-A725M"
+  },
+  {
+   "device": "a73xq",
+   "name": "Galaxy A73 5G",
+   "model": "SM-A736B"
   },
   {
    "device": "SCV32",

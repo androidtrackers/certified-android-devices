@@ -39099,6 +39099,13 @@
    "model": "P50"
   }
  ],
+ "Pocket": [
+  {
+   "brand": "Cubot",
+   "name": "Pocket",
+   "model": "Pocket"
+  }
+ ],
  "QUEST": [
   {
    "brand": "Cubot",
@@ -60685,6 +60692,13 @@
    "brand": "HDD SAT",
    "name": "Tab_i_excess",
    "model": "Tab_i_excess"
+  }
+ ],
+ "Hpad1": [
+  {
+   "brand": "HEADWOLF",
+   "name": "Hpad1",
+   "model": "Hpad1"
   }
  ],
  "JayPad_2_0": [
@@ -85484,6 +85498,13 @@
    "model": "Infinix X663B"
   }
  ],
+ "Infinix-X6819": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix NOTE 12i",
+   "model": "Infinix X6819"
+  }
+ ],
  "Infinix-X604_sprout": [
   {
    "brand": "Infinix",
@@ -85852,6 +85873,13 @@
    "brand": "Infinix",
    "name": "SMART 6",
    "model": "Infinix X6511E"
+  }
+ ],
+ "Infinix-X6512": [
+  {
+   "brand": "Infinix",
+   "name": "SMART 6 HD",
+   "model": "Infinix X6512"
   }
  ],
  "Infinix-X6511G": [
@@ -116061,6 +116089,13 @@
    "model": "MT9"
   }
  ],
+ "B866_MTS_IPTV": [
+  {
+   "brand": "MTS (RU)",
+   "name": "B866",
+   "model": "B866"
+  }
+ ],
  "B866_MTS_OTT": [
   {
    "brand": "MTS (RU)",
@@ -116073,13 +116108,6 @@
    "brand": "MTS (RU)",
    "name": "DV8304-C",
    "model": "DV8304-C"
-  }
- ],
- "B866_MTS_IPTV": [
-  {
-   "brand": "MTS (RU)",
-   "name": "Russia",
-   "model": "B866"
   }
  ],
  "Smart_Bit": [
@@ -117925,6 +117953,18 @@
    "brand": "Mecool",
    "name": "KD1",
    "model": "KD1"
+  }
+ ],
+ "YYT": [
+  {
+   "brand": "Mecool",
+   "name": "KD3",
+   "model": "4K Google TV Stick"
+  },
+  {
+   "brand": "realme",
+   "name": "4K Google TV Stick",
+   "model": "4K Google TV Stick"
   }
  ],
  "KM1": [
@@ -123604,6 +123644,13 @@
    "model": "MD_G1212U"
   }
  ],
+ "MEP2": [
+  {
+   "brand": "ModeEarnPhone",
+   "name": "MEP2",
+   "model": "MEP2Q421G"
+  }
+ ],
  "ECHO_LOLLY": [
   {
    "brand": "Modecom",
@@ -127816,6 +127863,13 @@
    "brand": "Multilaser",
    "name": "M10 4G",
    "model": "M10_4G"
+  }
+ ],
+ "ML_SO2G_M10_4G_T1": [
+  {
+   "brand": "Multilaser",
+   "name": "M10 4G",
+   "model": "M10_4G_T1"
   }
  ],
  "ML_JI0B_M10_4G_MC": [
@@ -158746,23 +158800,6 @@
    "model": "SM-A135U1"
   }
  ],
- "a13x": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy A13 5G",
-   "model": "SM-A136U"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy A13 5G",
-   "model": "SM-A136U1"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy A13 5G",
-   "model": "SM-A136W"
-  }
- ],
  "a2corelte": [
   {
    "brand": "Samsung",
@@ -160212,6 +160249,13 @@
    "brand": "Samsung",
    "name": "Galaxy A72",
    "model": "SM-A725M"
+  }
+ ],
+ "a73xq": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A73 5G",
+   "model": "SM-A736B"
   }
  ],
  "SCV32": [
@@ -231358,13 +231402,6 @@
    "brand": "qunyiCO",
    "name": "Y7_EEA",
    "model": "Y7"
-  }
- ],
- "YYT": [
-  {
-   "brand": "realme",
-   "name": "4K Google TV Stick",
-   "model": "4K Google TV Stick"
   }
  ],
  "RED8F6": [

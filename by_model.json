@@ -36682,6 +36682,18 @@
    "device": "P50"
   }
  ],
+ "Pocket": [
+  {
+   "brand": "Cubot",
+   "name": "Pocket",
+   "device": "Pocket"
+  },
+  {
+   "brand": "MyPhone (PL)",
+   "name": "myPhone Pocket",
+   "device": "Pocket_OPM"
+  }
+ ],
  "QUEST": [
   {
    "brand": "Cubot",
@@ -58534,6 +58546,13 @@
    "brand": "HDD SAT",
    "name": "Tab_i_excess",
    "device": "Tab_i_excess"
+  }
+ ],
+ "Hpad1": [
+  {
+   "brand": "HEADWOLF",
+   "name": "Hpad1",
+   "device": "Hpad1"
   }
  ],
  "JayPad_2_0": [
@@ -86289,6 +86308,13 @@
    "device": "Infinix-X663B"
   }
  ],
+ "Infinix X6819": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix NOTE 12i",
+   "device": "Infinix-X6819"
+  }
+ ],
  "Infinix X604": [
   {
    "brand": "Infinix",
@@ -86658,6 +86684,13 @@
    "brand": "Infinix",
    "name": "SMART 6",
    "device": "Infinix-X6511E"
+  }
+ ],
+ "Infinix X6512": [
+  {
+   "brand": "Infinix",
+   "name": "SMART 6 HD",
+   "device": "Infinix-X6512"
   }
  ],
  "Infinix X6511G": [
@@ -118362,12 +118395,12 @@
   {
    "brand": "MTS (RU)",
    "name": "B866",
-   "device": "B866_MTS_OTT"
+   "device": "B866_MTS_IPTV"
   },
   {
    "brand": "MTS (RU)",
-   "name": "Russia",
-   "device": "B866_MTS_IPTV"
+   "name": "B866",
+   "device": "B866_MTS_OTT"
   },
   {
    "brand": "ZTE",
@@ -120230,6 +120263,18 @@
    "brand": "Mecool",
    "name": "KD1",
    "device": "KD1"
+  }
+ ],
+ "4K Google TV Stick": [
+  {
+   "brand": "Mecool",
+   "name": "KD3",
+   "device": "YYT"
+  },
+  {
+   "brand": "realme",
+   "name": "4K Google TV Stick",
+   "device": "YYT"
   }
  ],
  "KM1": [
@@ -125935,6 +125980,13 @@
    "device": "MP1"
   }
  ],
+ "MEP2Q421G": [
+  {
+   "brand": "ModeEarnPhone",
+   "name": "MEP2",
+   "device": "MEP2"
+  }
+ ],
  "ECHO LOLLY": [
   {
    "brand": "Modecom",
@@ -130429,6 +130481,13 @@
    "device": "ML_SO0G_M10_4G"
   }
  ],
+ "M10_4G_T1": [
+  {
+   "brand": "Multilaser",
+   "name": "M10 4G",
+   "device": "ML_SO2G_M10_4G_T1"
+  }
+ ],
  "M10_4G_MONTES_CLAROS": [
   {
    "brand": "Multilaser",
@@ -131608,13 +131667,6 @@
    "brand": "Myphone",
    "name": "My phone PRIME PLUS",
    "device": "Prime_Plus_EN"
-  }
- ],
- "Pocket": [
-  {
-   "brand": "MyPhone (PL)",
-   "name": "myPhone Pocket",
-   "device": "Pocket_OPM"
   }
  ],
  "myPhone_Prime_3": [
@@ -162595,27 +162647,6 @@
    "device": "a13"
   }
  ],
- "SM-A136U": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy A13 5G",
-   "device": "a13x"
-  }
- ],
- "SM-A136U1": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy A13 5G",
-   "device": "a13x"
-  }
- ],
- "SM-A136W": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy A13 5G",
-   "device": "a13x"
-  }
- ],
  "SM-A260F": [
   {
    "brand": "Samsung",
@@ -164369,6 +164400,13 @@
    "brand": "Samsung",
    "name": "Galaxy A72",
    "device": "a72q"
+  }
+ ],
+ "SM-A736B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A73 5G",
+   "device": "a73xq"
   }
  ],
  "SCV32": [
@@ -241712,13 +241750,6 @@
    "brand": "preo",
    "name": "PTAB_P8",
    "device": "PTAB_P8"
-  }
- ],
- "4K Google TV Stick": [
-  {
-   "brand": "realme",
-   "name": "4K Google TV Stick",
-   "device": "YYT"
   }
  ],
  "RMX3269": [

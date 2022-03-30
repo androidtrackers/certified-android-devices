@@ -43328,6 +43328,18 @@
    "model": "P50"
   }
  ],
+ "Pocket": [
+  {
+   "brand": "Cubot",
+   "device": "Pocket",
+   "model": "Pocket"
+  },
+  {
+   "brand": "Pantech",
+   "device": "mini",
+   "model": "PantechP9060"
+  }
+ ],
  "QUEST": [
   {
    "brand": "Cubot",
@@ -65433,6 +65445,13 @@
    "brand": "HDD SAT",
    "device": "Tab_i_excess",
    "model": "Tab_i_excess"
+  }
+ ],
+ "Hpad1": [
+  {
+   "brand": "HEADWOLF",
+   "device": "Hpad1",
+   "model": "Hpad1"
   }
  ],
  "JayPad_2_0": [
@@ -89021,6 +89040,13 @@
    "model": "Infinix X693"
   }
  ],
+ "Infinix NOTE 12i": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6819",
+   "model": "Infinix X6819"
+  }
+ ],
  "Infinix NOTE 5": [
   {
    "brand": "Infinix",
@@ -89339,6 +89365,13 @@
    "brand": "Infinix",
    "device": "Infinix-X6511E",
    "model": "Infinix X6511E"
+  }
+ ],
+ "SMART 6 HD": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6512",
+   "model": "Infinix X6512"
   }
  ],
  "SMART 6 PLUS": [
@@ -117571,6 +117604,11 @@
  "B866": [
   {
    "brand": "MTS (RU)",
+   "device": "B866_MTS_IPTV",
+   "model": "B866"
+  },
+  {
+   "brand": "MTS (RU)",
    "device": "B866_MTS_OTT",
    "model": "B866"
   },
@@ -117585,18 +117623,6 @@
    "brand": "MTS (RU)",
    "device": "DV8304C",
    "model": "DV8304-C"
-  }
- ],
- "Russia": [
-  {
-   "brand": "MTS (RU)",
-   "device": "B866_MTS_IPTV",
-   "model": "B866"
-  },
-  {
-   "brand": "Prestigio",
-   "device": "yeongdeungpo",
-   "model": "Prestigio UHD Android TV"
   }
  ],
  "Smart_Bit": [
@@ -119378,6 +119404,13 @@
    "brand": "Mecool",
    "device": "KD1",
    "model": "KD1"
+  }
+ ],
+ "KD3": [
+  {
+   "brand": "Mecool",
+   "device": "YYT",
+   "model": "4K Google TV Stick"
   }
  ],
  "KM1": [
@@ -124738,6 +124771,13 @@
    "model": "MD_G1212U"
   }
  ],
+ "MEP2": [
+  {
+   "brand": "ModeEarnPhone",
+   "device": "MEP2",
+   "model": "MEP2Q421G"
+  }
+ ],
  "ECHO LOLLY": [
   {
    "brand": "Modecom",
@@ -128545,6 +128585,11 @@
    "brand": "Multilaser",
    "device": "ML_SO0G_M10_4G",
    "model": "M10_4G"
+  },
+  {
+   "brand": "Multilaser",
+   "device": "ML_SO2G_M10_4G_T1",
+   "model": "M10_4G_T1"
   }
  ],
  "M10 4G MC": [
@@ -143852,13 +143897,6 @@
    "model": "PTL21"
   }
  ],
- "Pocket": [
-  {
-   "brand": "Pantech",
-   "device": "mini",
-   "model": "PantechP9060"
-  }
- ],
  "SIRIUS α": [
   {
    "brand": "Pantech",
@@ -149764,6 +149802,13 @@
    "brand": "Prestigio",
    "device": "KN54B1L",
    "model": "PSP7546DUO_RU"
+  }
+ ],
+ "Russia": [
+  {
+   "brand": "Prestigio",
+   "device": "yeongdeungpo",
+   "model": "Prestigio UHD Android TV"
   }
  ],
  "TC10A3L": [
@@ -159196,23 +159241,6 @@
    "model": "SM-A135U1"
   }
  ],
- "Galaxy A13 5G": [
-  {
-   "brand": "Samsung",
-   "device": "a13x",
-   "model": "SM-A136U"
-  },
-  {
-   "brand": "Samsung",
-   "device": "a13x",
-   "model": "SM-A136U1"
-  },
-  {
-   "brand": "Samsung",
-   "device": "a13x",
-   "model": "SM-A136W"
-  }
- ],
  "Galaxy A2 Core": [
   {
    "brand": "Samsung",
@@ -160529,6 +160557,13 @@
    "brand": "Samsung",
    "device": "a72q",
    "model": "SM-A725M"
+  }
+ ],
+ "Galaxy A73 5G": [
+  {
+   "brand": "Samsung",
+   "device": "a73xq",
+   "model": "SM-A736B"
   }
  ],
  "Galaxy A8": [

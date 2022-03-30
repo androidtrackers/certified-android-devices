@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-03-29
+Last sync is 2022-03-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4903,6 +4903,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|P30|P30|P30|
 |Cubot|P40|P40|P40|
 |Cubot|P50|P50|P50|
+|Cubot|Pocket|Pocket|Pocket|
 |Cubot|QUEST|QUEST|QUEST|
 |Cubot|QUEST LITE|QUEST_LITE|QUEST LITE|
 |Cubot|R15|R15|R15|
@@ -7971,6 +7972,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HDC S.A.|HDC|TK718|TK718|
 |HDC S.A.|T700B|T700B|T700B|
 |HDD SAT|Tab_i_excess|Tab_i_excess|Tab_i_excess|
+|HEADWOLF|Hpad1|Hpad1|Hpad1|
 |HEALTHJAY|JayPad_2_0|JayPad_2_0|JayPad_2_0|
 |HEATZ|HZ9950|HZ9950|HZ9950|
 |HEATZ|Z9950|Z9950|Z9950|
@@ -12169,6 +12171,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix NOTE 10|Infinix-X693|Infinix X693|
 |Infinix|Infinix NOTE 11|Infinix-X663B|Infinix X663B|
 |Infinix|Infinix NOTE 11i|Infinix-X693|Infinix X693|
+|Infinix|Infinix NOTE 12i|Infinix-X6819|Infinix X6819|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604B|
 |Infinix|Infinix NOTE 5 Stylus|Infinix-X605_sprout|Infinix X605|
@@ -12227,6 +12230,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|SMART 5|Infinix-X657C|Infinix X657C|
 |Infinix|SMART 5(SMART 6)|Infinix-X657B|Infinix X657B|
 |Infinix|SMART 6|Infinix-X6511E|Infinix X6511E|
+|Infinix|SMART 6 HD|Infinix-X6512|Infinix X6512|
 |Infinix|SMART 6 PLUS|Infinix-X6511G|Infinix X6511G|
 |Infinix|SMART HD|Infinix-X612|Infinix X612|
 |Infinix|SMART HD|Infinix-X612B|Infinix X612B|
@@ -17004,9 +17008,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MTN Group|Sting|Sting|Sting|
 |MTN-E70|MTN-E70|MTN-E70|MTN-E70|
 |MTR (MY)|MT9|MT9|MT9|
+|MTS (RU)|B866|B866_MTS_IPTV|B866|
 |MTS (RU)|B866|B866_MTS_OTT|B866|
 |MTS (RU)|DV8304-C|DV8304C|DV8304-C|
-|MTS (RU)|Russia|B866_MTS_IPTV|B866|
 |MTS (RU)|Smart_Bit|Smart_Bit|Smart Bit|
 |MTT|Master|Master|M.T.T. Master|
 |MTT|Smart Fun|SmartFun|M.T.T. Smart Fun|
@@ -17288,6 +17292,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mecool|KA2|KA2|KA2|
 |Mecool|KD1|KD1|KD1|
 |Mecool|KD2|KD2|KD2|
+|Mecool|KD3|YYT|4K Google TV Stick|
 |Mecool|KM1|KM1|KM1|
 |Mecool|KM2|LAS|LEAP-S1|
 |Mecool|KM3|KM3|KM3|
@@ -18150,6 +18155,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mode1|MD-04P|MD-04P|MD-04P|
 |Mode1|MD-05P|MD-05P|MD-05P|
 |Mode1|MP1|MP1|MD_G1212U|
+|ModeEarnPhone|MEP2|MEP2|MEP2Q421G|
 |Modecom|ECHO LOLLY|ECHO_LOLLY|ECHO LOLLY|
 |Modecom|FreeTAB 10.1 Silver|silver|FreeTAB 10.1 Silver|
 |Modecom|FreeTAB 8015 IPS X4 LTE|reverie|FreeTAB 8015 IPS X4|
@@ -18853,6 +18859,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M10 4G|ML_JI0B_M10_4G|M10_4G|
 |Multilaser|M10 4G|ML_JI0M_M10_4G|M10_4G|
 |Multilaser|M10 4G|ML_SO0G_M10_4G|M10_4G|
+|Multilaser|M10 4G|ML_SO2G_M10_4G_T1|M10_4G_T1|
 |Multilaser|M10 4G MC|ML_JI0B_M10_4G_MC|M10_4G_MONTES_CLAROS|
 |Multilaser|M10 4G MC|ML_SO0G_M10_4G_MC|M10_4G_MONTES_CLAROS|
 |Multilaser|M10 4G MON CLA|WI0C_M10_4G_MON_CLA|M10_4G_MON_CLA|
@@ -23791,9 +23798,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A13|a13|SM-A135N|
 |Samsung|Galaxy A13|a13|SM-A135U|
 |Samsung|Galaxy A13|a13|SM-A135U1|
-|Samsung|Galaxy A13 5G|a13x|SM-A136U|
-|Samsung|Galaxy A13 5G|a13x|SM-A136U1|
-|Samsung|Galaxy A13 5G|a13x|SM-A136W|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260F|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260G|
 |Samsung|Galaxy A20|SC-02M|SC-02M|
@@ -24047,6 +24051,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A71 5G|a71xq|SM-A716V|
 |Samsung|Galaxy A72|a72q|SM-A725F|
 |Samsung|Galaxy A72|a72q|SM-A725M|
+|Samsung|Galaxy A73 5G|a73xq|SM-A736B|
 |Samsung|Galaxy A8|SCV32|SCV32|
 |Samsung|Galaxy A8|a8elte|SM-A800F|
 |Samsung|Galaxy A8|a8elte|SM-A800YZ|
