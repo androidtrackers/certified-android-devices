@@ -151,6 +151,20 @@
    "device": "OC1020A"
   }
  ],
+ "VT-7GA": [
+  {
+   "brand": "3Rtablet",
+   "name": "VT-7GA",
+   "device": "VT-7GA"
+  }
+ ],
+ "VT-7GE": [
+  {
+   "brand": "3Rtablet",
+   "name": "VT-7GE",
+   "device": "VT-7GE"
+  }
+ ],
  "Light B100": [
   {
    "brand": "4good",
@@ -1971,6 +1985,115 @@
    "device": "SURGE_AA_787_S"
   }
  ],
+ "R3": [
+  {
+   "brand": "ASTECH",
+   "name": "Android TV",
+   "device": "R3"
+  },
+  {
+   "brand": "Acer",
+   "name": "Android TV",
+   "device": "R3"
+  },
+  {
+   "brand": "BLACKLINE",
+   "name": "Android TV",
+   "device": "R3"
+  },
+  {
+   "brand": "Casper",
+   "name": "R3",
+   "device": "R3"
+  },
+  {
+   "brand": "Evvoli",
+   "name": "Android TV",
+   "device": "R3"
+  },
+  {
+   "brand": "FAVORITT",
+   "name": "Android TV",
+   "device": "R3"
+  },
+  {
+   "brand": "Lava",
+   "name": "R3",
+   "device": "R3"
+  },
+  {
+   "brand": "Mobicell",
+   "name": "R3",
+   "device": "R3"
+  },
+  {
+   "brand": "Olimpo",
+   "name": "Android TV",
+   "device": "R3"
+  }
+ ],
+ "R4": [
+  {
+   "brand": "ASTECH",
+   "name": "Android TV",
+   "device": "R4"
+  },
+  {
+   "brand": "Acer",
+   "name": "Android TV",
+   "device": "R4"
+  },
+  {
+   "brand": "Alhafidh",
+   "name": "Android TV",
+   "device": "R4"
+  },
+  {
+   "brand": "BLACKLINE",
+   "name": "Android TV",
+   "device": "R4"
+  },
+  {
+   "brand": "Casper",
+   "name": "Android TV",
+   "device": "R4"
+  },
+  {
+   "brand": "Evvoli",
+   "name": "Android TV",
+   "device": "R4"
+  },
+  {
+   "brand": "FAVORITT",
+   "name": "Android TV",
+   "device": "R4"
+  },
+  {
+   "brand": "Mobicell",
+   "name": "R4",
+   "device": "R4"
+  },
+  {
+   "brand": "Motorola",
+   "name": "Android TV",
+   "device": "R4"
+  },
+  {
+   "brand": "Nokia",
+   "name": "Android TV",
+   "device": "R4"
+  },
+  {
+   "brand": "Nokia",
+   "name": "R4",
+   "device": "R4"
+  },
+  {
+   "brand": "Olimpo",
+   "name": "Android TV",
+   "device": "R4"
+  }
+ ],
  "ASTECH FHD Android TV": [
   {
    "brand": "ASTECH",
@@ -2339,6 +2462,23 @@
    "brand": "AVH San Luis S.A.",
    "name": "Vortech_3_0",
    "device": "Vortech_3_0"
+  }
+ ],
+ "T101": [
+  {
+   "brand": "AVITA",
+   "name": "T101",
+   "device": "T101"
+  },
+  {
+   "brand": "Fly_Tech",
+   "name": "T101",
+   "device": "T101"
+  },
+  {
+   "brand": "Lava",
+   "name": "T101",
+   "device": "T101"
   }
  ],
  "TS11A1": [
@@ -6993,38 +7133,6 @@
    "device": "GIU6770"
   }
  ],
- "R4": [
-  {
-   "brand": "Alhafidh",
-   "name": "Android TV",
-   "device": "R4"
-  },
-  {
-   "brand": "Casper",
-   "name": "Android TV",
-   "device": "R4"
-  },
-  {
-   "brand": "Mobicell",
-   "name": "R4",
-   "device": "R4"
-  },
-  {
-   "brand": "Motorola",
-   "name": "Android TV",
-   "device": "R4"
-  },
-  {
-   "brand": "Nokia",
-   "name": "Android TV",
-   "device": "R4"
-  },
-  {
-   "brand": "Nokia",
-   "name": "R4",
-   "device": "R4"
-  }
- ],
  "ALIGATOR RX800": [
   {
    "brand": "Aligator",
@@ -8936,6 +9044,13 @@
    "brand": "Altice",
    "name": "STARNAUTE 4",
    "device": "STARNAUTE4"
+  }
+ ],
+ "E25": [
+  {
+   "brand": "Altice",
+   "name": "E25",
+   "device": "E25"
   }
  ],
  "E54": [
@@ -19038,6 +19153,18 @@
    "device": "Bmobile_BL50_DG"
   }
  ],
+ "BL51": [
+  {
+   "brand": "BMobile",
+   "name": "BL50",
+   "device": "Bmobile_BL50_TG07"
+  },
+  {
+   "brand": "BMobile",
+   "name": "BL51",
+   "device": "Bmobile_BL51_MV12"
+  }
+ ],
  "BL50P_TG06": [
   {
    "brand": "BMobile",
@@ -19085,13 +19212,6 @@
    "brand": "BMobile",
    "name": "BL51",
    "device": "Bmobile_BL51_MV05"
-  }
- ],
- "BL51": [
-  {
-   "brand": "BMobile",
-   "name": "BL51",
-   "device": "Bmobile_BL51_MV12"
   }
  ],
  "BL51_MV12": [
@@ -29117,23 +29237,6 @@
    "device": "L20"
   }
  ],
- "R3": [
-  {
-   "brand": "Casper",
-   "name": "R3",
-   "device": "R3"
-  },
-  {
-   "brand": "Lava",
-   "name": "R3",
-   "device": "R3"
-  },
-  {
-   "brand": "Mobicell",
-   "name": "R3",
-   "device": "R3"
-  }
- ],
  "S20": [
   {
    "brand": "Casper",
@@ -38837,6 +38940,18 @@
    "brand": "Daehap",
    "name": "DH-B301K",
    "device": "DH-B301K"
+  }
+ ],
+ "4K SA Smart TV": [
+  {
+   "brand": "Daewoo",
+   "name": "4K SA Smart TV",
+   "device": "pioneer"
+  },
+  {
+   "brand": "JVC",
+   "name": "4K SA Smart TV",
+   "device": "pioneer"
   }
  ],
  "DW-TN7RK16": [
@@ -50771,18 +50886,6 @@
    "brand": "Xcell",
    "name": "View",
    "device": "View"
-  }
- ],
- "T101": [
-  {
-   "brand": "Fly_Tech",
-   "name": "T101",
-   "device": "T101"
-  },
-  {
-   "brand": "Lava",
-   "name": "T101",
-   "device": "T101"
   }
  ],
  "Bolt": [
@@ -71683,6 +71786,13 @@
    "device": "HNNTN"
   }
  ],
+ "TFY-LX2": [
+  {
+   "brand": "Honor",
+   "name": "HONOR X8",
+   "device": "HNTFY-Q"
+  }
+ ],
  "HZ0010": [
   {
    "brand": "Hoozo",
@@ -85874,6 +85984,20 @@
    "device": "Infinix-X6812"
   }
  ],
+ "Infinix X665": [
+  {
+   "brand": "Infinix",
+   "name": "HOT 12i",
+   "device": "Infinix-X665"
+  }
+ ],
+ "Infinix X665B": [
+  {
+   "brand": "Infinix",
+   "name": "HOT 12i",
+   "device": "Infinix-X665B"
+  }
+ ],
  "Infinix X510": [
   {
    "brand": "Infinix",
@@ -92976,6 +93100,11 @@
    "brand": "KONKA",
    "name": "KONKA",
    "device": "seocho"
+  },
+  {
+   "brand": "KONKA",
+   "name": "KONKA 4K Android TV",
+   "device": "kenton"
   },
   {
    "brand": "KONKA",
@@ -129707,6 +129836,13 @@
    "device": "xpeng"
   }
  ],
+ "motorola edge plus (2022)": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge plus (2022)",
+   "device": "hiphi"
+  }
+ ],
  "motorola edge plus 5G UW (2022)": [
   {
    "brand": "Motorola",
@@ -130617,6 +130753,11 @@
    "brand": "Multilaser",
    "name": "M7 3G",
    "device": "ML_JI1G_M7_3G"
+  },
+  {
+   "brand": "Multilaser",
+   "name": "M7 3G",
+   "device": "ML_JI2G_M7_3G"
   },
   {
    "brand": "Multilaser",
@@ -140293,6 +140434,13 @@
    "device": "OP5303"
   }
  ],
+ "CPH2365": [
+  {
+   "brand": "Oppo",
+   "name": "CPH2365",
+   "device": "OP4F11L1"
+  }
+ ],
  "CPH1911": [
   {
    "brand": "Oppo",
@@ -140562,6 +140710,13 @@
    "brand": "Oppo",
    "name": "Find X3 中国版",
    "device": "OP4E5D"
+  }
+ ],
+ "CPH2305": [
+  {
+   "brand": "Oppo",
+   "name": "Find X5 Pro",
+   "device": "OP52D1L1"
   }
  ],
  "X909T": [
@@ -144482,6 +144637,13 @@
    "brand": "TCL",
    "name": "Percee TV",
    "device": "tcl_eu"
+  }
+ ],
+ "2KTV-2TH": [
+  {
+   "brand": "Panasonic",
+   "name": "Android TV",
+   "device": "R3"
   }
  ],
  "PanasonicTV": [
@@ -211544,8 +211706,18 @@
  "MP05": [
   {
    "brand": "Umidigi",
+   "name": "A13 EEA",
+   "device": "A13"
+  },
+  {
+   "brand": "Umidigi",
    "name": "A13 Pro",
    "device": "A13_Pro"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "A13S",
+   "device": "A13S"
   },
   {
    "brand": "Umidigi",
@@ -211855,6 +212027,11 @@
  "MP06": [
   {
    "brand": "Umidigi",
+   "name": "Power 7 EEA",
+   "device": "Power_7"
+  },
+  {
+   "brand": "Umidigi",
    "name": "Power 7 Max",
    "device": "Power_7_Max"
   },
@@ -211866,6 +212043,11 @@
   {
    "brand": "Umidigi",
    "name": "Power 7S",
+   "device": "Power_7S"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "Power 7S EEA",
    "device": "Power_7S"
   }
  ],
