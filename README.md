@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-03-31
+Last sync is 2022-04-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -107,6 +107,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AIDATA|ADT1061|ADT1061|ADT1061|
 |AIDATA|ADT1061_1|ADT1061_1|ADT1061_1|
 |AIDATA|ADT_1061|ADT_1061|ADT_1061|
+|AIS (Thailand)|AISPLAYBOX|AISPLAYBOX|AISPLAYBOX|
 |AIS (Thailand)|AISPLAYBOX|B866V2-HA|AISPLAYBOX|
 |AKOR|AKOR|TG1016|TG1016|
 |AKOR|TG797|TG797|TG797|
@@ -2407,6 +2408,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|AX687|Bmobile_AX687|AX687|
 |BMobile|AX687|Bmobile_AX687_MV03|AX687|
 |BMobile|AX688|Bmobile_AX688|AX688|
+|BMobile|AX688P|Bmobile_AX688P|Bmobile AX688+|
 |BMobile|AX700|Bmobile|AX7OO|
 |BMobile|AX715|Bmobile_AX715|AX715|
 |BMobile|AX751|Bmobile_AX751|AX751|
@@ -2452,6 +2454,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|B60Pro|Bmobile_B60Pro_MV03SP|B60Pro|
 |BMobile|B60Pro_DG|Bmobile_B60Pro_DG|B60Pro_DG|
 |BMobile|B60Pro_MV03|B60Pro_MV03|B60Pro_MV03|
+|BMobile|B61Pro_OM|Bmobile_B61Pro|Bmobile B61Pro|
 |BMobile|BL40|Bmobile_BL40_MV12|BL40_MV12|
 |BMobile|BL50|Bmobile_BL50|BL50|
 |BMobile|BL50|Bmobile_BL50_CL|BL50_CL|
@@ -3271,6 +3274,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G50 Plus|G0350WW|G50 Plus|
 |Blu|G51 Plus|G0510WW|G51 Plus|
 |Blu|G51S|G0580WW|G51S|
+|Blu|G51S|G0581WW|G51S|
 |Blu|G51S|G0590WW|G51S|
 |Blu|G6|G0210|G6|
 |Blu|G60|G0270WW|G60|
@@ -4907,6 +4911,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|NOTE 20|NOTE_20|NOTE 20|
 |Cubot|NOTE 20 PRO|NOTE_20_PRO|NOTE 20 PRO|
 |Cubot|NOTE 7|NOTE_7|NOTE 7|
+|Cubot|NOTE 8|NOTE_8|NOTE 8|
 |Cubot|NOTE 9|NOTE_9|NOTE 9|
 |Cubot|NOTE S|CUBOT_CHEETAH_2|CUBOT CHEETAH 2|
 |Cubot|NOTE S|CUBOT_NOTE_S|CUBOT_NOTE_S|
@@ -12174,6 +12179,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 10i|Infinix-PR652B|Infinix PR652B|
 |Infinix|Infinix HOT 11S NFC|Infinix-X6812B|Infinix X6812B|
 |Infinix|Infinix HOT 12|Infinix-X6817|Infinix X6817|
+|Infinix|Infinix HOT 12 Play|Infinix-X6816C|Infinix X6816C|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623B|
 |Infinix|Infinix HOT 7|Infinix-X625C|Infinix X625C|
@@ -13286,6 +13292,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kalley|Silver Max Pro|Silver_Max_Pro|Silver Max Pro|
 |Kalley|Android TV|R1|ATV R1|
 |Kalley|Android TV|R2|ATV R2|
+|Kalley|Android TV|R3|R3|
 |Kalley|BLACK_PRO|BLACK_PRO|BLACK_PRO|
 |Kalley|Black|Black|Black|
 |Kalley|Black G|Black_G|Black G|
@@ -17175,6 +17182,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Masstel|Tab_8A|Tab_8A|Masstel Tab 8A|
 |Masstel|X3|Masstel_X3|Masstel X3|
 |Masstel|X8|Masstel_X8|Masstel_X8|
+|Master-G|4K SA Smart TV|pioneer|4K SA Smart TV|
 |Master-G|Android TV|R1|ATV R1|
 |Master-G|Android TV|R2|ATV R2|
 |Master-G|"Chile|Bolivia|Peru|
@@ -18871,6 +18879,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|F Max 2|Multilaser_F_Max_2|Multilaser_F_Max_2|
 |Multilaser|G 3|Multilaser_G_3|Multilaser_G_3|
 |Multilaser|G Max 2 SE|Multilaser_G_Max_2_SE_64|Multilaser_G_Max_2_SE_64|
+|Multilaser|G Max 2 SE 128|G_Max_2_SE_128|Multilaser_G_Max_2_SE_128|
 |Multilaser|GMax 2 Payjoy|GMAX_2_Payjoy|Multilaser_GMAX_2_Payjoy|
 |Multilaser|KIDPAD 3G|ML-JI21-M7-3G-PLUS-KIDPAD|KIDPAD-3G|
 |Multilaser|KIDPAD LITE|ML-SO06-M7S-LITE-KIDPAD|KIDPAD_LITE|
@@ -18879,6 +18888,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M10 4G|ML-JI0A-M10-4G|M10-4G|
 |Multilaser|M10 4G|ML-WI0C-M10-4G|M10-4G|
 |Multilaser|M10 4G|ML_JI0B_M10_4G|M10_4G|
+|Multilaser|M10 4G|ML_JI0L_M10_4G|M10_4G|
 |Multilaser|M10 4G|ML_JI0M_M10_4G|M10_4G|
 |Multilaser|M10 4G|ML_SO0G_M10_4G|M10_4G|
 |Multilaser|M10 4G|ML_SO2G_M10_4G_T1|M10_4G_T1|
@@ -20977,6 +20987,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PLDT|Smart Page 8 Pro|Smart_Page_8_Pro|Smart_Page_8_Pro|
 |POC|POC2|CBL7509MM|POC2|
 |POCO|POCO C3|angelicain|M2006C3MI|
+|POCO|POCO C31|angelicain|211033MI|
 |POCO|POCO F2 Pro|lmi|POCO F2 Pro|
 |POCO|POCO F3|alioth|M2012K11AG|
 |POCO|POCO F3 GT|aresin|M2104K10I|
@@ -22708,6 +22719,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|11 Delta Pro|RCT6613W23P|RCT6613W23P|
 |RCA|11 Galileo Pro|RCT6513W87|RCT6513W87|
 |RCA|11 Maven Pro|RCT6213W87DK|RCT6213W87DK|
+|RCA|4K SA Smart TV|pioneer|4K SA Smart TV|
+|RCA|4K SA Smart TV|pioneer|DAEWOO 4K SA Smart TV|
 |RCA|4K SA Smart TV|pioneer|HKC 4K SA Smart TV|
 |RCA|4K Smart TV|gangbyeon|4K AI Smart TV|
 |RCA|4K Smart TV|gangbyeon|4K Smart TV|
@@ -35789,6 +35802,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iLife|KIDS-TAB-5|KIDS-TAB-5|KIDS-TAB-5|
 |iLife|KIDS_TAB_6|KIDS_TAB_6|KIDS_TAB_6|
 |iLife|MISA|MISA|MISA|
+|iMuz|4K SA Smart TV|pioneer|4K SA Smart TV|
 |iMuz|EG104|EG104|EG104|
 |iMuz|G10|G10|G10|
 |iMuz|G10E|G10|G10|
@@ -35989,6 +36003,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme GT Master Edition|RE507C|RMX3361|
 |realme|realme GT Master Edition|RE54ABL1|RMX3360|
 |realme|realme GT Neo2 5G|RE879AL1|RMX3370|
+|realme|realme Pad mini|RE87CCL1|RMP2105|
 |realme|realme X3|RMX2083L1|RMX2083|
 |realme|realme X3|RMX2086L1|RMX2086|
 |realme|realme X50 Pro|RMX2075L1|RMX2075|

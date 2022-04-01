@@ -903,6 +903,11 @@
   {
    "brand": "AIS (Thailand)",
    "name": "AISPLAYBOX",
+   "device": "AISPLAYBOX"
+  },
+  {
+   "brand": "AIS (Thailand)",
+   "name": "AISPLAYBOX",
    "device": "B866V2-HA"
   }
  ],
@@ -2013,6 +2018,11 @@
   },
   {
    "brand": "FAVORITT",
+   "name": "Android TV",
+   "device": "R3"
+  },
+  {
+   "brand": "Kalley",
    "name": "Android TV",
    "device": "R3"
   },
@@ -18788,6 +18798,13 @@
    "device": "Bmobile_AX688"
   }
  ],
+ "Bmobile AX688+": [
+  {
+   "brand": "BMobile",
+   "name": "AX688P",
+   "device": "Bmobile_AX688P"
+  }
+ ],
  "AX7OO": [
   {
    "brand": "BMobile",
@@ -19103,6 +19120,13 @@
    "brand": "BMobile",
    "name": "B60Pro_MV03",
    "device": "B60Pro_MV03"
+  }
+ ],
+ "Bmobile B61Pro": [
+  {
+   "brand": "BMobile",
+   "name": "B61Pro_OM",
+   "device": "Bmobile_B61Pro"
   }
  ],
  "BL40_MV12": [
@@ -24918,6 +24942,11 @@
    "brand": "Blu",
    "name": "G51S",
    "device": "G0580WW"
+  },
+  {
+   "brand": "Blu",
+   "name": "G51S",
+   "device": "G0581WW"
   },
   {
    "brand": "Blu",
@@ -36708,6 +36737,13 @@
    "device": "NOTE_7"
   }
  ],
+ "NOTE 8": [
+  {
+   "brand": "Cubot",
+   "name": "NOTE 8",
+   "device": "NOTE_8"
+  }
+ ],
  "NOTE 9": [
   {
    "brand": "Cubot",
@@ -38950,6 +38986,21 @@
   },
   {
    "brand": "JVC",
+   "name": "4K SA Smart TV",
+   "device": "pioneer"
+  },
+  {
+   "brand": "Master-G",
+   "name": "4K SA Smart TV",
+   "device": "pioneer"
+  },
+  {
+   "brand": "RCA",
+   "name": "4K SA Smart TV",
+   "device": "pioneer"
+  },
+  {
+   "brand": "iMuz",
    "name": "4K SA Smart TV",
    "device": "pioneer"
   }
@@ -86319,6 +86370,13 @@
    "device": "Infinix-X6817"
   }
  ],
+ "Infinix X6816C": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 12 Play",
+   "device": "Infinix-X6816C"
+  }
+ ],
  "Infinix X623": [
   {
    "brand": "Infinix",
@@ -130543,6 +130601,13 @@
    "device": "Multilaser_G_Max_2_SE_64"
   }
  ],
+ "Multilaser_G_Max_2_SE_128": [
+  {
+   "brand": "Multilaser",
+   "name": "G Max 2 SE 128",
+   "device": "G_Max_2_SE_128"
+  }
+ ],
  "Multilaser_GMAX_2_Payjoy": [
   {
    "brand": "Multilaser",
@@ -130605,6 +130670,11 @@
    "brand": "Multilaser",
    "name": "M10 4G",
    "device": "ML_JI0B_M10_4G"
+  },
+  {
+   "brand": "Multilaser",
+   "name": "M10 4G",
+   "device": "ML_JI0L_M10_4G"
   },
   {
    "brand": "Multilaser",
@@ -144070,6 +144140,13 @@
    "device": "angelicain"
   }
  ],
+ "211033MI": [
+  {
+   "brand": "POCO",
+   "name": "POCO C31",
+   "device": "angelicain"
+  }
+ ],
  "POCO F2 Pro": [
   {
    "brand": "POCO",
@@ -155337,6 +155414,13 @@
    "brand": "RCA",
    "name": "11 Maven Pro",
    "device": "RCT6213W87DK"
+  }
+ ],
+ "DAEWOO 4K SA Smart TV": [
+  {
+   "brand": "RCA",
+   "name": "4K SA Smart TV",
+   "device": "pioneer"
   }
  ],
  "HKC 4K SA Smart TV": [
@@ -242057,6 +242141,13 @@
    "brand": "realme",
    "name": "realme GT Master Edition",
    "device": "RE54ABL1"
+  }
+ ],
+ "RMP2105": [
+  {
+   "brand": "realme",
+   "name": "realme Pad mini",
+   "device": "RE87CCL1"
   }
  ],
  "RMX2083": [

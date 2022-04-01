@@ -1373,6 +1373,13 @@
    "model": "ADT_1061"
   }
  ],
+ "AISPLAYBOX": [
+  {
+   "brand": "AIS (Thailand)",
+   "name": "AISPLAYBOX",
+   "model": "AISPLAYBOX"
+  }
+ ],
  "B866V2-HA": [
   {
    "brand": "AIS (Thailand)",
@@ -2824,6 +2831,11 @@
   },
   {
    "brand": "FAVORITT",
+   "name": "Android TV",
+   "model": "R3"
+  },
+  {
+   "brand": "Kalley",
    "name": "Android TV",
    "model": "R3"
   },
@@ -21094,6 +21106,13 @@
    "model": "AX688+"
   }
  ],
+ "Bmobile_AX688P": [
+  {
+   "brand": "BMobile",
+   "name": "AX688P",
+   "model": "Bmobile AX688+"
+  }
+ ],
  "Bmobile_AX715": [
   {
    "brand": "BMobile",
@@ -21394,6 +21413,13 @@
    "brand": "BMobile",
    "name": "B60Pro_MV03",
    "model": "B60Pro_MV03"
+  }
+ ],
+ "Bmobile_B61Pro": [
+  {
+   "brand": "BMobile",
+   "name": "B61Pro_OM",
+   "model": "Bmobile B61Pro"
   }
  ],
  "Bmobile_BL40_MV12": [
@@ -27223,6 +27249,13 @@
   }
  ],
  "G0580WW": [
+  {
+   "brand": "Blu",
+   "name": "G51S",
+   "model": "G51S"
+  }
+ ],
+ "G0581WW": [
   {
    "brand": "Blu",
    "name": "G51S",
@@ -39130,6 +39163,13 @@
    "model": "NOTE 7"
   }
  ],
+ "NOTE_8": [
+  {
+   "brand": "Cubot",
+   "name": "NOTE 8",
+   "model": "NOTE 8"
+  }
+ ],
  "NOTE_9": [
   {
    "brand": "Cubot",
@@ -41373,9 +41413,29 @@
    "model": "4K SA Smart TV"
   },
   {
+   "brand": "Master-G",
+   "name": "4K SA Smart TV",
+   "model": "4K SA Smart TV"
+  },
+  {
+   "brand": "RCA",
+   "name": "4K SA Smart TV",
+   "model": "4K SA Smart TV"
+  },
+  {
+   "brand": "RCA",
+   "name": "4K SA Smart TV",
+   "model": "DAEWOO 4K SA Smart TV"
+  },
+  {
    "brand": "RCA",
    "name": "4K SA Smart TV",
    "model": "HKC 4K SA Smart TV"
+  },
+  {
+   "brand": "iMuz",
+   "name": "4K SA Smart TV",
+   "model": "4K SA Smart TV"
   }
  ],
  "DW-TN7RK16": [
@@ -85521,6 +85581,13 @@
    "model": "Infinix X6817"
   }
  ],
+ "Infinix-X6816C": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 12 Play",
+   "model": "Infinix X6816C"
+  }
+ ],
  "Infinix-X623": [
   {
    "brand": "Infinix",
@@ -127941,6 +128008,13 @@
    "model": "Multilaser_G_Max_2_SE_64"
   }
  ],
+ "G_Max_2_SE_128": [
+  {
+   "brand": "Multilaser",
+   "name": "G Max 2 SE 128",
+   "model": "Multilaser_G_Max_2_SE_128"
+  }
+ ],
  "GMAX_2_Payjoy": [
   {
    "brand": "Multilaser",
@@ -127991,6 +128065,13 @@
   }
  ],
  "ML_JI0B_M10_4G": [
+  {
+   "brand": "Multilaser",
+   "name": "M10 4G",
+   "model": "M10_4G"
+  }
+ ],
+ "ML_JI0L_M10_4G": [
   {
    "brand": "Multilaser",
    "name": "M10 4G",
@@ -141224,6 +141305,11 @@
    "brand": "POCO",
    "name": "POCO C3",
    "model": "M2006C3MI"
+  },
+  {
+   "brand": "POCO",
+   "name": "POCO C31",
+   "model": "211033MI"
   }
  ],
  "lmi": [
@@ -231700,6 +231786,13 @@
    "brand": "realme",
    "name": "realme GT Master Edition",
    "model": "RMX3361"
+  }
+ ],
+ "RE87CCL1": [
+  {
+   "brand": "realme",
+   "name": "realme Pad mini",
+   "model": "RMP2105"
   }
  ],
  "RMX2083L1": [
