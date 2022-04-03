@@ -10683,6 +10683,13 @@
    "model": "S24"
   }
  ],
+ "S25": [
+  {
+   "brand": "Altice",
+   "name": "S25",
+   "model": "S25"
+  }
+ ],
  "S31": [
   {
    "brand": "Altice",
@@ -11062,13 +11069,13 @@
    "model": "UHD Pro TV"
   },
   {
-   "brand": "Arcelik",
-   "name": "Arcelik Android TV",
+   "brand": "Arçelik",
+   "name": "Arçelik Android TV",
    "model": "Arcelik Android TV"
   },
   {
-   "brand": "Arcelik",
-   "name": "Arcelik UHD Android TV",
+   "brand": "Arçelik",
+   "name": "Arçelik UHD Android TV",
    "model": "Arcelik Android UHD TV"
   },
   {
@@ -30639,6 +30646,13 @@
    "brand": "CWOWDEFU",
    "name": "F81L_EEA",
    "model": "F81L"
+  }
+ ],
+ "P20L": [
+  {
+   "brand": "CWOWDEFU",
+   "name": "P20L",
+   "model": "P20L"
   }
  ],
  "P80L": [
@@ -72770,7 +72784,24 @@
   {
    "brand": "Honor",
    "name": "HONOR X8",
+   "model": "TFY-LX1"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR X8",
    "model": "TFY-LX2"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR X8",
+   "model": "TFY-LX3"
+  }
+ ],
+ "HNANY-Q": [
+  {
+   "brand": "Honor",
+   "name": "HONOR X9 5G",
+   "model": "ANY-NX1"
   }
  ],
  "HZ0010": [
@@ -85882,6 +85913,13 @@
    "brand": "Infinix",
    "name": "NOTE 11S",
    "model": "Infinix X698"
+  }
+ ],
+ "Infinix-X670": [
+  {
+   "brand": "Infinix",
+   "name": "NOTE 12",
+   "model": "Infinix X670"
   }
  ],
  "X601": [
@@ -136027,25 +136065,6 @@
    "model": "DP-X1A"
   }
  ],
- "mid8011": [
-  {
-   "brand": "Onn (Walmart)",
-   "name": "onn_100003561",
-   "model": "100003561"
-  }
- ],
- "mid1035_mq": [
-  {
-   "brand": "Onn (Walmart)",
-   "name": "100003562",
-   "model": "100003562"
-  },
-  {
-   "brand": "Onn (Walmart)",
-   "name": "100026203",
-   "model": "100026203"
-  }
- ],
  "100005207": [
   {
    "brand": "Onn (Walmart)",
@@ -136074,18 +136093,6 @@
    "model": "100005209"
   }
  ],
- "100011885": [
-  {
-   "brand": "Onn (Walmart)",
-   "name": "100011885",
-   "model": "100011885"
-  },
-  {
-   "brand": "Visiontech",
-   "name": "100011885",
-   "model": "100011885"
-  }
- ],
  "100011886": [
   {
    "brand": "Onn (Walmart)",
@@ -136107,13 +136114,6 @@
    "model": "100011886CA"
   }
  ],
- "100015685-A": [
-  {
-   "brand": "Onn (Walmart)",
-   "name": "100015685-A",
-   "model": "100015685-A"
-  }
- ],
  "100015685-E": [
   {
    "brand": "Onn (Walmart)",
@@ -136128,53 +136128,23 @@
    "model": "100026191"
   }
  ],
+ "mid1035_mq": [
+  {
+   "brand": "Onn (Walmart)",
+   "name": "100026203",
+   "model": "100026203"
+  },
+  {
+   "brand": "onn.",
+   "name": "100003562",
+   "model": "100003562"
+  }
+ ],
  "mid1105_mp": [
   {
    "brand": "Onn (Walmart)",
    "name": "100043279",
    "model": "100043279"
-  }
- ],
- "100044018G": [
-  {
-   "brand": "Onn (Walmart)",
-   "name": "100044018G",
-   "model": "100044018G"
-  }
- ],
- "100044018P": [
-  {
-   "brand": "Onn (Walmart)",
-   "name": "100044018P",
-   "model": "100044018P"
-  }
- ],
- "mid7019_mr_32": [
-  {
-   "brand": "Onn (Walmart)",
-   "name": "100071481",
-   "model": "100071481"
-  }
- ],
- "100071483": [
-  {
-   "brand": "Onn (Walmart)",
-   "name": "100071483",
-   "model": "100071483"
-  }
- ],
- "100071485": [
-  {
-   "brand": "Onn (Walmart)",
-   "name": "100071485",
-   "model": "100071485"
-  }
- ],
- "100071486": [
-  {
-   "brand": "Onn (Walmart)",
-   "name": "100071486",
-   "model": "100071486"
   }
  ],
  "ONA19TB002": [
@@ -145624,6 +145594,13 @@
    "brand": "PlayPoland",
    "name": "play_dctiw362",
    "model": "DCTIW362_PLAY"
+  }
+ ],
+ "PlimPad_P3": [
+  {
+   "brand": "Plimpton",
+   "name": "PlimPad_P3",
+   "model": "PlimPad P3"
   }
  ],
  "Z621": [
@@ -207893,6 +207870,18 @@
    "model": "V1"
   }
  ],
+ "100011885": [
+  {
+   "brand": "Visiontech",
+   "name": "100011885",
+   "model": "100011885"
+  },
+  {
+   "brand": "onn.",
+   "name": "100011885",
+   "model": "100011885"
+  }
+ ],
  "PVT-8-A50-R1": [
   {
    "brand": "Visiontech",
@@ -224047,6 +224036,18 @@
    "model": "Soshphone 4G"
   }
  ],
+ "Z3052O": [
+  {
+   "brand": "ZTE",
+   "name": "P501",
+   "model": "P501"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE A31 Lite",
+   "model": "ZTE A31 Lite"
+  }
+ ],
  "P545": [
   {
    "brand": "ZTE",
@@ -226298,6 +226299,13 @@
    "model": "ZTE 8031"
   }
  ],
+ "P606F02": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE 8045",
+   "model": "ZTE 8045"
+  }
+ ],
  "P618F05": [
   {
    "brand": "ZTE",
@@ -226329,6 +226337,20 @@
    "brand": "ZTE",
    "name": "ZTE 9045",
    "model": "ZTE 9045"
+  }
+ ],
+ "P618F07": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE 9046",
+   "model": "ZTE 9046"
+  }
+ ],
+ "P633F05": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE 9100N",
+   "model": "ZTE 9100N"
   }
  ],
  "P637S15": [
@@ -226439,13 +226461,6 @@
    "model": "ZTE A2322G"
   }
  ],
- "Z3052O": [
-  {
-   "brand": "ZTE",
-   "name": "ZTE A31 Lite",
-   "model": "ZTE A31 Lite"
-  }
- ],
  "P639T10": [
   {
    "brand": "ZTE",
@@ -226489,6 +226504,13 @@
    "brand": "ZTE",
    "name": "ZTE Blade A7s 2020",
    "model": "ZTE A7020RU"
+  }
+ ],
+ "P606F01": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE A7040",
+   "model": "ZTE A7040"
   }
  ],
  "Z6556O": [
@@ -226816,6 +226838,13 @@
    "brand": "ZTE",
    "name": "ZTE Blade A5 2020RU",
    "model": "ZTE Blade A5 2020RU"
+  }
+ ],
+ "P963F61": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A52",
+   "model": "ZTE Blade A52"
   }
  ],
  "P932F10": [
@@ -231593,6 +231622,62 @@
    "model": "ZIDS701"
   }
  ],
+ "mid8011": [
+  {
+   "brand": "onn.",
+   "name": "onn_100003561",
+   "model": "100003561"
+  }
+ ],
+ "100015685-A": [
+  {
+   "brand": "onn.",
+   "name": "100015685-A",
+   "model": "100015685-A"
+  }
+ ],
+ "100044018G": [
+  {
+   "brand": "onn.",
+   "name": "100044018G",
+   "model": "100044018G"
+  }
+ ],
+ "100044018P": [
+  {
+   "brand": "onn.",
+   "name": "100044018P",
+   "model": "100044018P"
+  }
+ ],
+ "mid7019_mr_32": [
+  {
+   "brand": "onn.",
+   "name": "100071481",
+   "model": "100071481"
+  }
+ ],
+ "100071483": [
+  {
+   "brand": "onn.",
+   "name": "100071483",
+   "model": "100071483"
+  }
+ ],
+ "100071485": [
+  {
+   "brand": "onn.",
+   "name": "100071485",
+   "model": "100071485"
+  }
+ ],
+ "100071486": [
+  {
+   "brand": "onn.",
+   "name": "100071486",
+   "model": "100071486"
+  }
+ ],
  "sti6140d360": [
   {
    "brand": "onn.",
@@ -231793,6 +231878,11 @@
    "brand": "realme",
    "name": "realme Pad mini",
    "model": "RMP2105"
+  },
+  {
+   "brand": "realme",
+   "name": "realme Pad mini",
+   "model": "RMP2106"
   }
  ],
  "RMX2083L1": [

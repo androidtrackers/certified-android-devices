@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-04-02
+Last sync is 2022-04-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1030,6 +1030,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Altice|S22|S22|S22|
 |Altice|S23|S23|S23|
 |Altice|S24|S24|S24|
+|Altice|S25|S25|S25|
 |Altice|S31|S31|Altice_S31|
 |Altice|S31|S31|S31|
 |Altice|S32|S32|S32|
@@ -1193,8 +1194,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aqua|AQUA Android TV FF Pro|daan|AQUA Android TV FF Pro|
 |Aqua|AQUA android TV|hanyang|AQUA Android TV|
 |Aqua|S1 Jazz|S1_Jazz|S1 Jazz|
-|Arcelik|Arcelik Android TV|kunyang|Arcelik Android TV|
-|Arcelik|Arcelik UHD Android TV|kunyang|Arcelik Android UHD TV|
 |Arcelik|B55L 9682 5AS|arcelik_eu|arcelik_uhd_powermax_at|
 |Archos||A101S|ARCHOS 101G9|
 |Archos||A101S|Archos 101 Internet Tablet|
@@ -1582,7 +1581,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Artel|U4|U4|U4|
 |Artizlee|Artizlee S9|Artizlee_S9|Artizlee_S9|
 |Arçelik|Arcelik Android TV|shinagawa|Arcelik Android TV|
+|Arçelik|Arçelik Android TV|kunyang|Arcelik Android TV|
 |Arçelik|Arçelik Android TV|sinchon|Arcelik Android TV|
+|Arçelik|Arçelik UHD Android TV|kunyang|Arcelik Android UHD TV|
 |Asanzo|A1|A1|A1|
 |Asanzo|ASANZO 2K TV|shibuya|ASANZO 2K TV|
 |Asanzo|ASANZO A2|ASANZO_A2|ASANZO A2|
@@ -3766,6 +3767,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CWOWDEFU|F80W|F80W|F80W|
 |CWOWDEFU|F80W_EEA|F80W_EEA|F80W_EEA|
 |CWOWDEFU|F81L_EEA|F81L|F81L|
+|CWOWDEFU|P20L|P20L|P20L|
 |CWOWDEFU|P80L|P80L|P80L|
 |CWOWDEFU|P81L|P81L|P81L|
 |CWOWDEFU|P83L|P83L|P83L|
@@ -10028,7 +10030,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR 50 Lite|HNNTN|NTN-L22|
 |Honor|HONOR 50 Lite|HNNTN|NTN-LX1|
 |Honor|HONOR 50 Lite|HNNTN|NTN-LX3|
+|Honor|HONOR X8|HNTFY-Q|TFY-LX1|
 |Honor|HONOR X8|HNTFY-Q|TFY-LX2|
+|Honor|HONOR X8|HNTFY-Q|TFY-LX3|
+|Honor|HONOR X9 5G|HNANY-Q|ANY-NX1|
 |Hoozo|HZ0010|HZ0010|HZ0010|
 |Hoozo|HZ0010J|HZ0010J|HZ0010J|
 |Hoozo|HZ0011|HZ0011|HZ0011|
@@ -12221,6 +12226,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|NOTE 10 Pro|Infinix-X695D|Infinix X695D|
 |Infinix|NOTE 11 Pro|Infinix-X697|Infinix X697|
 |Infinix|NOTE 11S|Infinix-X698|Infinix X698|
+|Infinix|NOTE 12|Infinix-X670|Infinix X670|
 |Infinix|NOTE 3|X601|Infinix NOTE 3|
 |Infinix|NOTE 3 Pro|X601-3G|Infinix NOTE 3 Pro|
 |Infinix|NOTE 3 Pro|X601-LTE|Infinix NOTE 3 Pro|
@@ -20155,27 +20161,17 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Onkyo|DP-CTX1|DP-CTX1|DP-CTX1|
 |Onkyo|DP-X1|Rai_Zin_32|DP-X1|
 |Onkyo|DP-X1A|Rai_Zin2R_64|DP-X1A|
-|Onn (Walmart)|onn_100003561|mid8011|100003561|
-|Onn (Walmart)|100003562|mid1035_mq|100003562|
 |Onn (Walmart)|100005207|100005207|100005207|
 |Onn (Walmart)|100005208|100005208|100005208|
 |Onn (Walmart)|100005208-CA|100005208-CA|100005208-CA|
 |Onn (Walmart)|100005209|100005209|100005209|
-|Onn (Walmart)|100011885|100011885|100011885|
 |Onn (Walmart)|100011886|100011886|100011886|
 |Onn (Walmart)|100011886A|100011886A|100011886A|
 |Onn (Walmart)|100011886CA|100011886CA|100011886CA|
-|Onn (Walmart)|100015685-A|100015685-A|100015685-A|
 |Onn (Walmart)|100015685-E|100015685-E|100015685-E|
 |Onn (Walmart)|100026191|mid7018_mr_32|100026191|
 |Onn (Walmart)|100026203|mid1035_mq|100026203|
 |Onn (Walmart)|100043279|mid1105_mp|100043279|
-|Onn (Walmart)|100044018G|100044018G|100044018G|
-|Onn (Walmart)|100044018P|100044018P|100044018P|
-|Onn (Walmart)|100071481|mid7019_mr_32|100071481|
-|Onn (Walmart)|100071483|100071483|100071483|
-|Onn (Walmart)|100071485|100071485|100071485|
-|Onn (Walmart)|100071486|100071486|100071486|
 |Onn (Walmart)|ONA19TB002|ONA19TB002|ONA19TB002|
 |Onn (Walmart)|ONA19TB003|ONA19TB003|ONA19TB003|
 |Onn (Walmart)|ONA19TB007|ONA19TB007|ONA19TB007|
@@ -21656,6 +21652,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PlayPoland|PLAY NOW TV BOX 3|DV8945-KPP|PLAY NOW TV BOX 3|
 |PlayPoland|Play Now|dctiw362p|DCTIW362_PLAY|
 |PlayPoland|play_dctiw362|dctiw362p|DCTIW362_PLAY|
+|Plimpton|PlimPad_P3|PlimPad_P3|PlimPad P3|
 |Plimpton|X100|X100|X100|
 |Plum|Phantom3|Z621|Z621|
 |Plum|Z518|Z518|Z518|
@@ -34516,6 +34513,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Orange Rono|msm8226|Orange Rono|
 |ZTE|Orange Zali|nice|Orange Zali|
 |ZTE|Own One|P635A20|Own One|
+|ZTE|P501|Z3052O|P501|
 |ZTE|P545|P545|P545|
 |ZTE|P600|P963F80|P600|
 |ZTE|P609|P609|P609|
@@ -34999,11 +34997,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE 8030N|P633S01|ZTE 8030N|
 |ZTE|ZTE 8030RU|P963F06|ZTE 8030RU|
 |ZTE|ZTE 8031|P963F06_A|ZTE 8031|
+|ZTE|ZTE 8045|P606F02|ZTE 8045|
 |ZTE|ZTE 9030|P618F05|ZTE 9030|
 |ZTE|ZTE 9030N|P653S07|ZTE 9030N|
 |ZTE|ZTE 9030RU|P618F05|ZTE 9030RU|
 |ZTE|ZTE 9040N|P653S11|ZTE 9040N|
 |ZTE|ZTE 9045|P618F06|ZTE 9045|
+|ZTE|ZTE 9046|P618F07|ZTE 9046|
+|ZTE|ZTE 9100N|P633F05|ZTE 9100N|
 |ZTE|ZTE A0616|P637S15|ZTE A0616|
 |ZTE|ZTE A0620|P840S13|ZTE A0620|
 |ZTE|ZTE A0622|P817S13|ZTE A0622|
@@ -35033,6 +35034,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE A7020|P963F03|ZTE A7020|
 |ZTE|ZTE A7030|P963F07|ZTE A7030|
 |ZTE|ZTE A7030RU|P963F07|ZTE A7030RU|
+|ZTE|ZTE A7040|P606F01|ZTE A7040|
 |ZTE|ZTE A71 5G|Z6556O|ZTE A71 5G|
 |ZTE|ZTE AVID 4|calbee|Z855|
 |ZTE|ZTE AVID 559|Z559DL|Z559DL|
@@ -35131,6 +35133,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A51 Lite|P963F50_A|ZTE Blade A51 Lite|
 |ZTE|ZTE Blade A51 Lite RU|P963F50_A|ZTE Blade A51 Lite RU|
 |ZTE|ZTE Blade A51RU|P963F60|ZTE Blade A51RU|
+|ZTE|ZTE Blade A52|P963F61|ZTE Blade A52|
 |ZTE|ZTE Blade A522|P817E53|ZTE Blade A522|
 |ZTE|ZTE Blade A531|P932F10|ZTE Blade A531|
 |ZTE|ZTE Blade A7 2019|P963F02|ZTE Blade A7 2019|
@@ -35954,6 +35957,16 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |novo|Bonvi Pro|t596_dp_n_37m35|Bonvi Pro|
 |okayseamedia|TK706|TK706|TK706|
 |okulaku|ZIDS701|ZIDS701|ZIDS701|
+|onn.|onn_100003561|mid8011|100003561|
+|onn.|100003562|mid1035_mq|100003562|
+|onn.|100011885|100011885|100011885|
+|onn.|100015685-A|100015685-A|100015685-A|
+|onn.|100044018G|100044018G|100044018G|
+|onn.|100044018P|100044018P|100044018P|
+|onn.|100071481|mid7019_mr_32|100071481|
+|onn.|100071483|100071483|100071483|
+|onn.|100071485|100071485|100071485|
+|onn.|100071486|100071486|100071486|
 |onn.|onn. 4k TV|sti6140d360|sti6140d360|
 |pendo|PNDPP44QC10|PNDPP44QC10|PNDPP44QC10|
 |pendo|PNDPP44QC7|PNDPP44QC7|PNDPP44QC7|
@@ -36004,6 +36017,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme GT Master Edition|RE54ABL1|RMX3360|
 |realme|realme GT Neo2 5G|RE879AL1|RMX3370|
 |realme|realme Pad mini|RE87CCL1|RMP2105|
+|realme|realme Pad mini|RE87CCL1|RMP2106|
 |realme|realme X3|RMX2083L1|RMX2083|
 |realme|realme X3|RMX2086L1|RMX2086|
 |realme|realme X50 Pro|RMX2075L1|RMX2075|

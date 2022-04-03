@@ -5374,6 +5374,11 @@
    "model": "S24"
   },
   {
+   "device": "S25",
+   "name": "S25",
+   "model": "S25"
+  },
+  {
    "device": "S31",
    "name": "S31",
    "model": "Altice_S31"
@@ -6222,16 +6227,6 @@
   }
  ],
  "Arcelik": [
-  {
-   "device": "kunyang",
-   "name": "Arcelik Android TV",
-   "model": "Arcelik Android TV"
-  },
-  {
-   "device": "kunyang",
-   "name": "Arcelik UHD Android TV",
-   "model": "Arcelik Android UHD TV"
-  },
   {
    "device": "arcelik_eu",
    "name": "B55L 9682 5AS",
@@ -8190,9 +8185,19 @@
    "model": "Arcelik Android TV"
   },
   {
+   "device": "kunyang",
+   "name": "Arçelik Android TV",
+   "model": "Arcelik Android TV"
+  },
+  {
    "device": "sinchon",
    "name": "Arçelik Android TV",
    "model": "Arcelik Android TV"
+  },
+  {
+   "device": "kunyang",
+   "name": "Arçelik UHD Android TV",
+   "model": "Arcelik Android UHD TV"
   }
  ],
  "Asanzo": [
@@ -19482,6 +19487,11 @@
    "device": "F81L",
    "name": "F81L_EEA",
    "model": "F81L"
+  },
+  {
+   "device": "P20L",
+   "name": "P20L",
+   "model": "P20L"
   },
   {
    "device": "P80L",
@@ -51860,7 +51870,22 @@
   {
    "device": "HNTFY-Q",
    "name": "HONOR X8",
+   "model": "TFY-LX1"
+  },
+  {
+   "device": "HNTFY-Q",
+   "name": "HONOR X8",
    "model": "TFY-LX2"
+  },
+  {
+   "device": "HNTFY-Q",
+   "name": "HONOR X8",
+   "model": "TFY-LX3"
+  },
+  {
+   "device": "HNANY-Q",
+   "name": "HONOR X9 5G",
+   "model": "ANY-NX1"
   }
  ],
  "Hoozo": [
@@ -62957,6 +62982,11 @@
    "device": "Infinix-X698",
    "name": "NOTE 11S",
    "model": "Infinix X698"
+  },
+  {
+   "device": "Infinix-X670",
+   "name": "NOTE 12",
+   "model": "Infinix X670"
   },
   {
    "device": "X601",
@@ -103675,16 +103705,6 @@
  ],
  "Onn (Walmart)": [
   {
-   "device": "mid8011",
-   "name": "onn_100003561",
-   "model": "100003561"
-  },
-  {
-   "device": "mid1035_mq",
-   "name": "100003562",
-   "model": "100003562"
-  },
-  {
    "device": "100005207",
    "name": "100005207",
    "model": "100005207"
@@ -103705,11 +103725,6 @@
    "model": "100005209"
   },
   {
-   "device": "100011885",
-   "name": "100011885",
-   "model": "100011885"
-  },
-  {
    "device": "100011886",
    "name": "100011886",
    "model": "100011886"
@@ -103723,11 +103738,6 @@
    "device": "100011886CA",
    "name": "100011886CA",
    "model": "100011886CA"
-  },
-  {
-   "device": "100015685-A",
-   "name": "100015685-A",
-   "model": "100015685-A"
   },
   {
    "device": "100015685-E",
@@ -103748,36 +103758,6 @@
    "device": "mid1105_mp",
    "name": "100043279",
    "model": "100043279"
-  },
-  {
-   "device": "100044018G",
-   "name": "100044018G",
-   "model": "100044018G"
-  },
-  {
-   "device": "100044018P",
-   "name": "100044018P",
-   "model": "100044018P"
-  },
-  {
-   "device": "mid7019_mr_32",
-   "name": "100071481",
-   "model": "100071481"
-  },
-  {
-   "device": "100071483",
-   "name": "100071483",
-   "model": "100071483"
-  },
-  {
-   "device": "100071485",
-   "name": "100071485",
-   "model": "100071485"
-  },
-  {
-   "device": "100071486",
-   "name": "100071486",
-   "model": "100071486"
   },
   {
    "device": "ONA19TB002",
@@ -111335,6 +111315,11 @@
   }
  ],
  "Plimpton": [
+  {
+   "device": "PlimPad_P3",
+   "name": "PlimPad_P3",
+   "model": "PlimPad P3"
+  },
   {
    "device": "X100",
    "name": "X100",
@@ -177136,6 +177121,11 @@
    "model": "Own One"
   },
   {
+   "device": "Z3052O",
+   "name": "P501",
+   "model": "P501"
+  },
+  {
    "device": "P545",
    "name": "P545",
    "model": "P545"
@@ -179551,6 +179541,11 @@
    "model": "ZTE 8031"
   },
   {
+   "device": "P606F02",
+   "name": "ZTE 8045",
+   "model": "ZTE 8045"
+  },
+  {
    "device": "P618F05",
    "name": "ZTE 9030",
    "model": "ZTE 9030"
@@ -179574,6 +179569,16 @@
    "device": "P618F06",
    "name": "ZTE 9045",
    "model": "ZTE 9045"
+  },
+  {
+   "device": "P618F07",
+   "name": "ZTE 9046",
+   "model": "ZTE 9046"
+  },
+  {
+   "device": "P633F05",
+   "name": "ZTE 9100N",
+   "model": "ZTE 9100N"
   },
   {
    "device": "P637S15",
@@ -179719,6 +179724,11 @@
    "device": "P963F07",
    "name": "ZTE A7030RU",
    "model": "ZTE A7030RU"
+  },
+  {
+   "device": "P606F01",
+   "name": "ZTE A7040",
+   "model": "ZTE A7040"
   },
   {
    "device": "Z6556O",
@@ -180209,6 +180219,11 @@
    "device": "P963F60",
    "name": "ZTE Blade A51RU",
    "model": "ZTE Blade A51RU"
+  },
+  {
+   "device": "P963F61",
+   "name": "ZTE Blade A52",
+   "model": "ZTE Blade A52"
   },
   {
    "device": "P817E53",
@@ -184562,6 +184577,56 @@
  ],
  "onn.": [
   {
+   "device": "mid8011",
+   "name": "onn_100003561",
+   "model": "100003561"
+  },
+  {
+   "device": "mid1035_mq",
+   "name": "100003562",
+   "model": "100003562"
+  },
+  {
+   "device": "100011885",
+   "name": "100011885",
+   "model": "100011885"
+  },
+  {
+   "device": "100015685-A",
+   "name": "100015685-A",
+   "model": "100015685-A"
+  },
+  {
+   "device": "100044018G",
+   "name": "100044018G",
+   "model": "100044018G"
+  },
+  {
+   "device": "100044018P",
+   "name": "100044018P",
+   "model": "100044018P"
+  },
+  {
+   "device": "mid7019_mr_32",
+   "name": "100071481",
+   "model": "100071481"
+  },
+  {
+   "device": "100071483",
+   "name": "100071483",
+   "model": "100071483"
+  },
+  {
+   "device": "100071485",
+   "name": "100071485",
+   "model": "100071485"
+  },
+  {
+   "device": "100071486",
+   "name": "100071486",
+   "model": "100071486"
+  },
+  {
    "device": "sti6140d360",
    "name": "onn. 4k TV",
    "model": "sti6140d360"
@@ -184818,6 +184883,11 @@
    "device": "RE87CCL1",
    "name": "realme Pad mini",
    "model": "RMP2105"
+  },
+  {
+   "device": "RE87CCL1",
+   "name": "realme Pad mini",
+   "model": "RMP2106"
   },
   {
    "device": "RMX2083L1",

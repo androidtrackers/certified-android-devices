@@ -14638,6 +14638,18 @@
    "model": "S24"
   }
  ],
+ "S25": [
+  {
+   "brand": "Altice",
+   "device": "S25",
+   "model": "S25"
+  },
+  {
+   "brand": "Helio",
+   "device": "HelioS25",
+   "model": "S25"
+  }
+ ],
  "S31": [
   {
    "brand": "Altice",
@@ -15914,25 +15926,6 @@
    "brand": "Aqua",
    "device": "S1_Jazz",
    "model": "S1 Jazz"
-  }
- ],
- "Arcelik Android TV": [
-  {
-   "brand": "Arcelik",
-   "device": "kunyang",
-   "model": "Arcelik Android TV"
-  },
-  {
-   "brand": "Arçelik",
-   "device": "shinagawa",
-   "model": "Arcelik Android TV"
-  }
- ],
- "Arcelik UHD Android TV": [
-  {
-   "brand": "Arcelik",
-   "device": "kunyang",
-   "model": "Arcelik Android UHD TV"
   }
  ],
  "B55L 9682 5AS": [
@@ -18597,11 +18590,30 @@
    "model": "Artizlee_S9"
   }
  ],
+ "Arcelik Android TV": [
+  {
+   "brand": "Arçelik",
+   "device": "shinagawa",
+   "model": "Arcelik Android TV"
+  }
+ ],
  "Arçelik Android TV": [
+  {
+   "brand": "Arçelik",
+   "device": "kunyang",
+   "model": "Arcelik Android TV"
+  },
   {
    "brand": "Arçelik",
    "device": "sinchon",
    "model": "Arcelik Android TV"
+  }
+ ],
+ "Arçelik UHD Android TV": [
+  {
+   "brand": "Arçelik",
+   "device": "kunyang",
+   "model": "Arcelik Android UHD TV"
   }
  ],
  "A1": [
@@ -35103,6 +35115,13 @@
    "brand": "CWOWDEFU",
    "device": "F81L",
    "model": "F81L"
+  }
+ ],
+ "P20L": [
+  {
+   "brand": "CWOWDEFU",
+   "device": "P20L",
+   "model": "P20L"
   }
  ],
  "P80L": [
@@ -72078,13 +72097,6 @@
    "model": "Helio S5"
   }
  ],
- "S25": [
-  {
-   "brand": "Helio",
-   "device": "HelioS25",
-   "model": "S25"
-  }
- ],
  "HERCLS A15": [
   {
    "brand": "Hercls",
@@ -77973,7 +77985,24 @@
   {
    "brand": "Honor",
    "device": "HNTFY-Q",
+   "model": "TFY-LX1"
+  },
+  {
+   "brand": "Honor",
+   "device": "HNTFY-Q",
    "model": "TFY-LX2"
+  },
+  {
+   "brand": "Honor",
+   "device": "HNTFY-Q",
+   "model": "TFY-LX3"
+  }
+ ],
+ "HONOR X9 5G": [
+  {
+   "brand": "Honor",
+   "device": "HNANY-Q",
+   "model": "ANY-NX1"
   }
  ],
  "HZ0010": [
@@ -89405,6 +89434,13 @@
    "brand": "Infinix",
    "device": "Infinix-X698",
    "model": "Infinix X698"
+  }
+ ],
+ "NOTE 12": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X670",
+   "model": "Infinix X670"
   }
  ],
  "NOTE 3": [
@@ -136480,20 +136516,6 @@
    "model": "DP-X1A"
   }
  ],
- "onn_100003561": [
-  {
-   "brand": "Onn (Walmart)",
-   "device": "mid8011",
-   "model": "100003561"
-  }
- ],
- "100003562": [
-  {
-   "brand": "Onn (Walmart)",
-   "device": "mid1035_mq",
-   "model": "100003562"
-  }
- ],
  "100005207": [
   {
    "brand": "Onn (Walmart)",
@@ -136522,18 +136544,6 @@
    "model": "100005209"
   }
  ],
- "100011885": [
-  {
-   "brand": "Onn (Walmart)",
-   "device": "100011885",
-   "model": "100011885"
-  },
-  {
-   "brand": "Visiontech",
-   "device": "100011885",
-   "model": "100011885"
-  }
- ],
  "100011886A": [
   {
    "brand": "Onn (Walmart)",
@@ -136546,13 +136556,6 @@
    "brand": "Onn (Walmart)",
    "device": "100011886CA",
    "model": "100011886CA"
-  }
- ],
- "100015685-A": [
-  {
-   "brand": "Onn (Walmart)",
-   "device": "100015685-A",
-   "model": "100015685-A"
   }
  ],
  "100015685-E": [
@@ -136581,48 +136584,6 @@
    "brand": "Onn (Walmart)",
    "device": "mid1105_mp",
    "model": "100043279"
-  }
- ],
- "100044018G": [
-  {
-   "brand": "Onn (Walmart)",
-   "device": "100044018G",
-   "model": "100044018G"
-  }
- ],
- "100044018P": [
-  {
-   "brand": "Onn (Walmart)",
-   "device": "100044018P",
-   "model": "100044018P"
-  }
- ],
- "100071481": [
-  {
-   "brand": "Onn (Walmart)",
-   "device": "mid7019_mr_32",
-   "model": "100071481"
-  }
- ],
- "100071483": [
-  {
-   "brand": "Onn (Walmart)",
-   "device": "100071483",
-   "model": "100071483"
-  }
- ],
- "100071485": [
-  {
-   "brand": "Onn (Walmart)",
-   "device": "100071485",
-   "model": "100071485"
-  }
- ],
- "100071486": [
-  {
-   "brand": "Onn (Walmart)",
-   "device": "100071486",
-   "model": "100071486"
   }
  ],
  "ONA19TB002": [
@@ -145817,6 +145778,13 @@
    "brand": "PlayPoland",
    "device": "dctiw362p",
    "model": "DCTIW362_PLAY"
+  }
+ ],
+ "PlimPad_P3": [
+  {
+   "brand": "Plimpton",
+   "device": "PlimPad_P3",
+   "model": "PlimPad P3"
   }
  ],
  "Phantom3": [
@@ -205861,6 +205829,18 @@
    "model": "V1"
   }
  ],
+ "100011885": [
+  {
+   "brand": "Visiontech",
+   "device": "100011885",
+   "model": "100011885"
+  },
+  {
+   "brand": "onn.",
+   "device": "100011885",
+   "model": "100011885"
+  }
+ ],
  "PVT-8-A50-R1": [
   {
    "brand": "Visiontech",
@@ -220454,6 +220434,13 @@
    "model": "Own One"
   }
  ],
+ "P501": [
+  {
+   "brand": "ZTE",
+   "device": "Z3052O",
+   "model": "P501"
+  }
+ ],
  "P545": [
   {
    "brand": "ZTE",
@@ -223297,6 +223284,13 @@
    "model": "ZTE 8031"
   }
  ],
+ "ZTE 8045": [
+  {
+   "brand": "ZTE",
+   "device": "P606F02",
+   "model": "ZTE 8045"
+  }
+ ],
  "ZTE 9030": [
   {
    "brand": "ZTE",
@@ -223330,6 +223324,20 @@
    "brand": "ZTE",
    "device": "P618F06",
    "model": "ZTE 9045"
+  }
+ ],
+ "ZTE 9046": [
+  {
+   "brand": "ZTE",
+   "device": "P618F07",
+   "model": "ZTE 9046"
+  }
+ ],
+ "ZTE 9100N": [
+  {
+   "brand": "ZTE",
+   "device": "P633F05",
+   "model": "ZTE 9100N"
   }
  ],
  "ZTE A0616": [
@@ -223531,6 +223539,13 @@
    "brand": "ZTE",
    "device": "P963F07",
    "model": "ZTE A7030RU"
+  }
+ ],
+ "ZTE A7040": [
+  {
+   "brand": "ZTE",
+   "device": "P606F01",
+   "model": "ZTE A7040"
   }
  ],
  "ZTE A71 5G": [
@@ -224167,6 +224182,13 @@
    "brand": "ZTE",
    "device": "P963F60",
    "model": "ZTE Blade A51RU"
+  }
+ ],
+ "ZTE Blade A52": [
+  {
+   "brand": "ZTE",
+   "device": "P963F61",
+   "model": "ZTE Blade A52"
   }
  ],
  "ZTE Blade A522": [
@@ -229212,6 +229234,69 @@
    "model": "ZIDS701"
   }
  ],
+ "onn_100003561": [
+  {
+   "brand": "onn.",
+   "device": "mid8011",
+   "model": "100003561"
+  }
+ ],
+ "100003562": [
+  {
+   "brand": "onn.",
+   "device": "mid1035_mq",
+   "model": "100003562"
+  }
+ ],
+ "100015685-A": [
+  {
+   "brand": "onn.",
+   "device": "100015685-A",
+   "model": "100015685-A"
+  }
+ ],
+ "100044018G": [
+  {
+   "brand": "onn.",
+   "device": "100044018G",
+   "model": "100044018G"
+  }
+ ],
+ "100044018P": [
+  {
+   "brand": "onn.",
+   "device": "100044018P",
+   "model": "100044018P"
+  }
+ ],
+ "100071481": [
+  {
+   "brand": "onn.",
+   "device": "mid7019_mr_32",
+   "model": "100071481"
+  }
+ ],
+ "100071483": [
+  {
+   "brand": "onn.",
+   "device": "100071483",
+   "model": "100071483"
+  }
+ ],
+ "100071485": [
+  {
+   "brand": "onn.",
+   "device": "100071485",
+   "model": "100071485"
+  }
+ ],
+ "100071486": [
+  {
+   "brand": "onn.",
+   "device": "100071486",
+   "model": "100071486"
+  }
+ ],
  "onn. 4k TV": [
   {
    "brand": "onn.",
@@ -229386,6 +229471,11 @@
    "brand": "realme",
    "device": "RE87CCL1",
    "model": "RMP2105"
+  },
+  {
+   "brand": "realme",
+   "device": "RE87CCL1",
+   "model": "RMP2106"
   }
  ],
  "realme X50 Pro Play": [
