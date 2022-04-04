@@ -117887,11 +117887,6 @@
    "model": "RMX3265"
   },
   {
-   "device": "RMX3195",
-   "name": "realme C25s",
-   "model": "RMX3195"
-  },
-  {
    "device": "RMX2020",
    "name": "realme C3",
    "model": "RMX2020"
@@ -139704,6 +139699,11 @@
    "device": "open_uhd_hk",
    "name": "Hong Kong",
    "model": "open_uhd"
+  },
+  {
+   "device": "YYT",
+   "name": "Leap-S2",
+   "model": "4K Google TV Stick"
   },
   {
    "device": "shinagawa",

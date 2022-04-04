@@ -153899,23 +153899,6 @@
    "model": "RMX3269"
   }
  ],
- "realme C25s": [
-  {
-   "brand": "Realme",
-   "device": "RMX3195",
-   "model": "RMX3195"
-  },
-  {
-   "brand": "realme",
-   "device": "RMX3195",
-   "model": "RMX3195"
-  },
-  {
-   "brand": "realme",
-   "device": "RMX3197",
-   "model": "RMX3197"
-  }
- ],
  "realme C3": [
   {
    "brand": "Realme",
@@ -178722,6 +178705,13 @@
    "brand": "Skyworth",
    "device": "open_uhd_hk",
    "model": "open_uhd"
+  }
+ ],
+ "Leap-S2": [
+  {
+   "brand": "Skyworth",
+   "device": "YYT",
+   "model": "4K Google TV Stick"
   }
  ],
  "METZ 2K TV": [
@@ -229464,6 +229454,18 @@
    "brand": "realme",
    "device": "RMX3193",
    "model": "RMX3193"
+  }
+ ],
+ "realme C25s": [
+  {
+   "brand": "realme",
+   "device": "RMX3195",
+   "model": "RMX3195"
+  },
+  {
+   "brand": "realme",
+   "device": "RMX3197",
+   "model": "RMX3197"
   }
  ],
  "realme Pad mini": [

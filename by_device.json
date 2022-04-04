@@ -118208,6 +118208,11 @@
    "model": "4K Google TV Stick"
   },
   {
+   "brand": "Skyworth",
+   "name": "Leap-S2",
+   "model": "4K Google TV Stick"
+  },
+  {
    "brand": "realme",
    "name": "4K Google TV Stick",
    "model": "4K Google TV Stick"
@@ -153506,18 +153511,6 @@
    "brand": "Realme",
    "name": "realme C25Y",
    "model": "RMX3265"
-  }
- ],
- "RMX3195": [
-  {
-   "brand": "Realme",
-   "name": "realme C25s",
-   "model": "RMX3195"
-  },
-  {
-   "brand": "realme",
-   "name": "realme C25s",
-   "model": "RMX3195"
   }
  ],
  "RMX2021": [
@@ -231857,6 +231850,13 @@
    "brand": "realme",
    "name": "realme C25",
    "model": "RMX3193"
+  }
+ ],
+ "RMX3195": [
+  {
+   "brand": "realme",
+   "name": "realme C25s",
+   "model": "RMX3195"
   }
  ],
  "RMX3197": [

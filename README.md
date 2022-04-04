@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-04-03
+Last sync is 2022-04-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -22931,7 +22931,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme C21Y|RMX3261|RMX3261|
 |Realme|realme C21Y|RMX3262|RMX3262|
 |Realme|realme C25Y|RE54D1|RMX3265|
-|Realme|realme C25s|RMX3195|RMX3195|
 |Realme|realme C3|RMX2020|RMX2020|
 |Realme|realme C3|RMX2021|RMX2021|
 |Realme|realme C3|RMX2022|RMX2022|
@@ -27232,6 +27231,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Skyworth|Euro|SW3_ATV|SWTV|
 |Skyworth|Europe|globe_eu|globe|
 |Skyworth|Hong Kong|open_uhd_hk|open_uhd|
+|Skyworth|Leap-S2|YYT|4K Google TV Stick|
 |Skyworth|METZ 2K TV|shinagawa|METZ 2K TV|
 |Skyworth|NT-01|HP40A|NT-01|
 |Skyworth|North America|globe_na|globe|
