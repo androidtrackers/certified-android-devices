@@ -25483,6 +25483,11 @@
    "brand": "Blu",
    "name": "M8L 2022",
    "device": "M0220WW"
+  },
+  {
+   "brand": "Blu",
+   "name": "M8L 2022",
+   "device": "M0220WW_ND"
   }
  ],
  "M8L PLUS": [
@@ -108574,6 +108579,13 @@
    "device": "X17"
   }
  ],
+ "LAVA LZG403 225": [
+  {
+   "brand": "Lava",
+   "name": "X2",
+   "device": "LZG403_225"
+  }
+ ],
  "X28": [
   {
    "brand": "Lava",
@@ -108846,6 +108858,13 @@
    "brand": "Lava",
    "name": "Z3",
    "device": "LZG403"
+  }
+ ],
+ "LAVA Z3 UP": [
+  {
+   "brand": "Lava",
+   "name": "Z3",
+   "device": "Z3_UP"
   }
  ],
  "LAVA Z3 UP 2": [

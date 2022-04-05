@@ -17204,6 +17204,11 @@
    "model": "M8L 2022"
   },
   {
+   "device": "M0220WW_ND",
+   "name": "M8L 2022",
+   "model": "M8L 2022"
+  },
+  {
    "device": "M0209WW",
    "name": "M8L PLUS",
    "model": "M8L PLUS"
@@ -79869,6 +79874,11 @@
    "model": "X19"
   },
   {
+   "device": "LZG403_225",
+   "name": "X2",
+   "model": "LAVA LZG403 225"
+  },
+  {
    "device": "X28",
    "name": "X28",
    "model": "X28"
@@ -80017,6 +80027,11 @@
    "device": "LZG403",
    "name": "Z3",
    "model": "LAVA LZG403"
+  },
+  {
+   "device": "Z3_UP",
+   "name": "Z3",
+   "model": "LAVA Z3 UP"
   },
   {
    "device": "Z3_UP_2",

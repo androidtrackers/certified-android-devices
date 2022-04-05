@@ -31636,6 +31636,11 @@
    "brand": "Blu",
    "device": "M0220WW",
    "model": "M8L 2022"
+  },
+  {
+   "brand": "Blu",
+   "device": "M0220WW_ND",
+   "model": "M8L 2022"
   }
  ],
  "M8L PLUS": [
@@ -64016,6 +64021,11 @@
    "brand": "IkuMobile",
    "device": "X2",
    "model": "iKU X2"
+  },
+  {
+   "brand": "Lava",
+   "device": "LZG403_225",
+   "model": "LAVA LZG403 225"
   },
   {
    "brand": "Lenovo",
@@ -109180,6 +109190,11 @@
    "brand": "Lava",
    "device": "LZG403",
    "model": "LAVA LZG403"
+  },
+  {
+   "brand": "Lava",
+   "device": "Z3_UP",
+   "model": "LAVA Z3 UP"
   },
   {
    "brand": "Lava",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-04-04
+Last sync is 2022-04-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3340,6 +3340,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|M8L|M0173WW|M8L|
 |Blu|M8L|M0174WW|M8L|
 |Blu|M8L 2022|M0220WW|M8L 2022|
+|Blu|M8L 2022|M0220WW_ND|M8L 2022|
 |Blu|M8L PLUS|M0209WW|M8L PLUS|
 |Blu|M8L PLUS|M0210WW|M8L PLUS|
 |Blu|M8L_PLUS|M0208WW|M8L PLUS|
@@ -15531,6 +15532,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|X12|X12|X12|
 |Lava|X17|X17|X17|
 |Lava|X19|X19|X19|
+|Lava|X2|LZG403_225|LAVA LZG403 225|
 |Lava|X28|X28|X28|
 |Lava|X28 Plus|X28_plus|X28 Plus|
 |Lava|X28plus|X28_plus|X28 Plus|
@@ -15561,6 +15563,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|Z25|Z25|Z25|
 |Lava|Z3|LMX04|LAVA LMX04|
 |Lava|Z3|LZG403|LAVA LZG403|
+|Lava|Z3|Z3_UP|LAVA Z3 UP|
 |Lava|Z3|Z3_UP_2|LAVA Z3 UP 2|
 |Lava|Z30|AH9910|AH9910|
 |Lava|Z30|AN9910|AN9910|
