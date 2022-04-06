@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-04-05
+Last sync is 2022-04-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2456,6 +2456,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|B60Pro_DG|Bmobile_B60Pro_DG|B60Pro_DG|
 |BMobile|B60Pro_MV03|B60Pro_MV03|B60Pro_MV03|
 |BMobile|B61Pro_OM|Bmobile_B61Pro|Bmobile B61Pro|
+|BMobile|B70Pro|Bmobile_B70Pro|B70Pro|
 |BMobile|BL40|Bmobile_BL40_MV12|BL40_MV12|
 |BMobile|BL50|Bmobile_BL50|BL50|
 |BMobile|BL50|Bmobile_BL50_CL|BL50_CL|
@@ -3217,6 +3218,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|C5L 2021|C0110WW|C5L 2021|
 |Blu|C5L IW|C017U|C5L|
 |Blu|C5L Max|C0170WW|C5L Max|
+|Blu|C5L Max|C0173WW|C5L Max|
 |Blu|C5L+ 2021|C0130WW|C5L+ 2021|
 |Blu|C5L_2020|C0070WW|C5L 2020|
 |Blu|C5L_Plus|C0040TT|C5L Plus|
@@ -3316,6 +3318,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Grand_X|Grand_X|Grand X|
 |Blu|J7|J0000LL_ATT_MX|J7|
 |Blu|J9L|J0080WW|J9L|
+|Blu|J9L|J0082WW|J9L|
 |Blu|J9L|J0090WW|J9L|
 |Blu|J9L|J0092WW|J9L|
 |Blu|LIFE ONE X|BLU_LIFE_ONE_X|BLU LIFE ONE X|
@@ -11740,6 +11743,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyatta|Model_6s_TR|Model_6s|Model 6s|
 |Hyjoy|KT1006|KT1006|KT1006|
 |Hykker|Smart Box Android TV|DV8038|Smart Box Android TV|
+|Hytel|HOT MINI|HOT_MINI|HOT MINI|
 |Hytera|PDC550|PDC550|PDC550|
 |Hytera|PDC680|PDC680|PDC680|
 |Hytera|PDC760|PDC760|PDC760|
@@ -12777,6 +12781,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|A52B|itel-A52B|itel A52B|
 |Itel|A55|itel-W6003|itel W6003|
 |Itel|A58|itel-A661W|itel A661W|
+|Itel|A58 Pro|itel-A661WP|itel A661WP|
 |Itel|A62|itel-A62|itel A62|
 |Itel|F311|Spice-F311|Spice F311|
 |Itel|F3116|itel-A571WM|itel A571W|
@@ -12856,6 +12861,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|it1655S|itel_it1655S|itel it1655S|
 |Itel|it1702|itel_it1702|itel it1702|
 |Itel|it1703|itel_it1703|itel it1703|
+|Itel|itel  V51 LTE|itel-A507LP|itel A507LP|
 |Itel|itel 4K TV|SW4H|itel 4K TV|
 |Itel|itel A11|itel_A11|itel A11|
 |Itel|itel A14|itel-A14|itel A14|
@@ -12874,6 +12880,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel A23|itel-A23|itel A23R|
 |Itel|itel A23|itel-A23F|itel A23|
 |Itel|itel A23|itel-A23S|itel A23S|
+|Itel|itel A24|itel-A507LM|itel A507LM|
 |Itel|itel A24|itel-A507LS|itel A507LS|
 |Itel|itel A24|itel-L5007|itel L5007|
 |Itel|itel A25|itel-L5002R|itel L5002|
@@ -17969,6 +17976,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|BERRY|BERRY|BERRY|
 |Mobicell|BERRY PLUS|BERRY_PLUS|BERRY_PLUS|
 |Mobicell|BERRY1|BERRY1|BERRY1|
+|Mobicell|BERRY_PRO|BERRY_PRO|BERRY PRO|
 |Mobicell|BLINK|BLINK|BLINK|
 |Mobicell|Berry 2|BERRY_2|BERRY 2|
 |Mobicell|CHAMP|CHAMP|CHAMP|
@@ -19637,6 +19645,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Newsday|Newsday_N2+|Newsday_N2_|Newsday_N2+|
 |Newsday|U5|GIGI_U5|U5|
 |Nexian|journey one|Mi438S_sprout|Mi438S|
+|Next|4K TV Stick|YYT|4K Google TV Stick|
 |Next Learning|Nexttab N3|N3|N3|
 |Next Technologies|GO7BSC|GO7BSC|GO7BSC|
 |Next Technologies|N7526|N7526|N7526|
@@ -21859,6 +21868,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|T1060|t1060|T1060C|
 |Positivo|T1075|T1075|Positivo T1075|
 |Positivo|T1085|T1085|T1085|
+|Positivo|T2040|T2040B|T2040|
 |Positivo|T701 TV|T701|T701|
 |Positivo|T705|T705|T705|
 |Positivo|T705|T705|T705/T708|
@@ -22838,6 +22848,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |REDLINE|Space_A18|Space_A8|Space_A8|
 |REDLINE|Space_M10|Space_M10|Space_M10|
 |REDLINE|Space_M10Pro|Space_M10Pro|Space_M10Pro|
+|REGZA|RSG-11B|YYT|4K Google TV Stick|
 |RENSO|NEP N1|NEP_N1|NEP N1|
 |REVOX|REVOX-RM-RX1-EU|REVOX-RM-RX1-EU|C200-RM-RX1|
 |RIO Mobile|R7MAX|R7MAX|R7MAX|
@@ -31397,6 +31408,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VIKUSHA|V-N5|V-N5|V-N5|
 |VIKUSHA|V-Z40|V-Z40|V-Z40|
 |VIKUSHA|VZ-30|VZ-30|VZ-30|
+|VIMOQ|VIMOQ  AC50|VIMOQ-A507LD|VIMOQ A507LD|
 |VIMOQ|VIMOQ V51 LTE|VIMOQ-A507LE|VIMOQ A507LE|
 |VIPER|VIPER-Z08MK|VIPER-Z08MK|Z08MK|
 |VISIO|VISIO 4K Android TV|SW4H|VISIO 4K Android TV|
@@ -35987,6 +35999,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|4K Smart TV|gangbyeon|4K AI Smart TV|
 |realme|RMX3269|RED8F6|RMX3269|
 |realme|Smart TV|redwood|AI PONT|
+|realme|TV Stick|BOS|TV Stick|
 |realme|realme  8|RMX3085L1|RMX3085|
 |realme|realme  X7 Max|RMX3031L1|RMX3031|
 |realme|realme 6|RMX2001L1|RMX2001|

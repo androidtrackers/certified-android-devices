@@ -12674,6 +12674,11 @@
    "model": "Bmobile B61Pro"
   },
   {
+   "device": "Bmobile_B70Pro",
+   "name": "B70Pro",
+   "model": "B70Pro"
+  },
+  {
    "device": "Bmobile_BL40_MV12",
    "name": "BL40",
    "model": "BL40_MV12"
@@ -16589,6 +16594,11 @@
    "model": "C5L Max"
   },
   {
+   "device": "C0173WW",
+   "name": "C5L Max",
+   "model": "C5L Max"
+  },
+  {
    "device": "C0130WW",
    "name": "C5L+ 2021",
    "model": "C5L+ 2021"
@@ -17080,6 +17090,11 @@
   },
   {
    "device": "J0080WW",
+   "name": "J9L",
+   "model": "J9L"
+  },
+  {
+   "device": "J0082WW",
    "name": "J9L",
    "model": "J9L"
   },
@@ -60444,6 +60459,13 @@
    "model": "Smart Box Android TV"
   }
  ],
+ "Hytel": [
+  {
+   "device": "HOT_MINI",
+   "name": "HOT MINI",
+   "model": "HOT MINI"
+  }
+ ],
  "Hytera": [
   {
    "device": "PDC550",
@@ -65793,6 +65815,11 @@
    "model": "itel A661W"
   },
   {
+   "device": "itel-A661WP",
+   "name": "A58 Pro",
+   "model": "itel A661WP"
+  },
+  {
    "device": "itel-A62",
    "name": "A62",
    "model": "itel A62"
@@ -66188,6 +66215,11 @@
    "model": "itel it1703"
   },
   {
+   "device": "itel-A507LP",
+   "name": "itel  V51 LTE",
+   "model": "itel A507LP"
+  },
+  {
    "device": "SW4H",
    "name": "itel 4K TV",
    "model": "itel 4K TV"
@@ -66276,6 +66308,11 @@
    "device": "itel-A23S",
    "name": "itel A23",
    "model": "itel A23S"
+  },
+  {
+   "device": "itel-A507LM",
+   "name": "itel A24",
+   "model": "itel A507LM"
   },
   {
    "device": "itel-A507LS",
@@ -92387,6 +92424,11 @@
    "model": "BERRY1"
   },
   {
+   "device": "BERRY_PRO",
+   "name": "BERRY_PRO",
+   "model": "BERRY PRO"
+  },
+  {
    "device": "BLINK",
    "name": "BLINK",
    "model": "BLINK"
@@ -100929,6 +100971,13 @@
    "device": "Mi438S_sprout",
    "name": "journey one",
    "model": "Mi438S"
+  }
+ ],
+ "Next": [
+  {
+   "device": "YYT",
+   "name": "4K TV Stick",
+   "model": "4K Google TV Stick"
   }
  ],
  "Next Learning": [
@@ -112383,6 +112432,11 @@
    "model": "T1085"
   },
   {
+   "device": "T2040B",
+   "name": "T2040",
+   "model": "T2040"
+  },
+  {
    "device": "T701",
    "name": "T701 TV",
    "model": "T701"
@@ -117386,6 +117440,13 @@
    "device": "Space_M10Pro",
    "name": "Space_M10Pro",
    "model": "Space_M10Pro"
+  }
+ ],
+ "REGZA": [
+  {
+   "device": "YYT",
+   "name": "RSG-11B",
+   "model": "4K Google TV Stick"
   }
  ],
  "RENSO": [
@@ -161157,6 +161218,11 @@
  ],
  "VIMOQ": [
   {
+   "device": "VIMOQ-A507LD",
+   "name": "VIMOQ  AC50",
+   "model": "VIMOQ A507LD"
+  },
+  {
    "device": "VIMOQ-A507LE",
    "name": "VIMOQ V51 LTE",
    "model": "VIMOQ A507LE"
@@ -184733,6 +184799,11 @@
    "device": "redwood",
    "name": "Smart TV",
    "model": "AI PONT"
+  },
+  {
+   "device": "BOS",
+   "name": "TV Stick",
+   "model": "TV Stick"
   },
   {
    "device": "RMX3085L1",

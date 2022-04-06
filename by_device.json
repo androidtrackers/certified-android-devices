@@ -21429,6 +21429,13 @@
    "model": "Bmobile B61Pro"
   }
  ],
+ "Bmobile_B70Pro": [
+  {
+   "brand": "BMobile",
+   "name": "B70Pro",
+   "model": "B70Pro"
+  }
+ ],
  "Bmobile_BL40_MV12": [
   {
    "brand": "BMobile",
@@ -26874,6 +26881,13 @@
    "model": "C5L Max"
   }
  ],
+ "C0173WW": [
+  {
+   "brand": "Blu",
+   "name": "C5L Max",
+   "model": "C5L Max"
+  }
+ ],
  "C0130WW": [
   {
    "brand": "Blu",
@@ -27539,6 +27553,13 @@
   }
  ],
  "J0080WW": [
+  {
+   "brand": "Blu",
+   "name": "J9L",
+   "model": "J9L"
+  }
+ ],
+ "J0082WW": [
   {
    "brand": "Blu",
    "name": "J9L",
@@ -82657,6 +82678,13 @@
    "model": "IZY01"
   }
  ],
+ "HOT_MINI": [
+  {
+   "brand": "Hytel",
+   "name": "HOT MINI",
+   "model": "HOT MINI"
+  }
+ ],
  "PDC550": [
   {
    "brand": "Hytera",
@@ -89506,6 +89534,13 @@
    "model": "itel A661W"
   }
  ],
+ "itel-A661WP": [
+  {
+   "brand": "Itel",
+   "name": "A58 Pro",
+   "model": "itel A661WP"
+  }
+ ],
  "itel-A62": [
   {
    "brand": "Itel",
@@ -90032,6 +90067,13 @@
    "model": "itel it1703"
   }
  ],
+ "itel-A507LP": [
+  {
+   "brand": "Itel",
+   "name": "itel  V51 LTE",
+   "model": "itel A507LP"
+  }
+ ],
  "itel-W4003": [
   {
    "brand": "Itel",
@@ -90125,6 +90167,13 @@
    "brand": "Itel",
    "name": "itel A23",
    "model": "itel A23S"
+  }
+ ],
+ "itel-A507LM": [
+  {
+   "brand": "Itel",
+   "name": "itel A24",
+   "model": "itel A507LM"
   }
  ],
  "itel-A507LS": [
@@ -118229,6 +118278,16 @@
    "model": "4K Google TV Stick"
   },
   {
+   "brand": "Next",
+   "name": "4K TV Stick",
+   "model": "4K Google TV Stick"
+  },
+  {
+   "brand": "REGZA",
+   "name": "RSG-11B",
+   "model": "4K Google TV Stick"
+  },
+  {
    "brand": "Skyworth",
    "name": "Leap-S2",
    "model": "4K Google TV Stick"
@@ -122400,6 +122459,13 @@
    "brand": "Mobicell",
    "name": "BERRY1",
    "model": "BERRY1"
+  }
+ ],
+ "BERRY_PRO": [
+  {
+   "brand": "Mobicell",
+   "name": "BERRY_PRO",
+   "model": "BERRY PRO"
   }
  ],
  "BLINK": [
@@ -146862,6 +146928,13 @@
    "brand": "Positivo",
    "name": "T1085",
    "model": "T1085"
+  }
+ ],
+ "T2040B": [
+  {
+   "brand": "Positivo",
+   "name": "T2040",
+   "model": "T2040"
   }
  ],
  "T705": [
@@ -204922,6 +204995,13 @@
    "model": "VZ-30"
   }
  ],
+ "VIMOQ-A507LD": [
+  {
+   "brand": "VIMOQ",
+   "name": "VIMOQ  AC50",
+   "model": "VIMOQ A507LD"
+  }
+ ],
  "VIMOQ-A507LE": [
   {
    "brand": "VIMOQ",
@@ -231779,6 +231859,13 @@
    "brand": "realme",
    "name": "realme C25Y",
    "model": "RMX3269"
+  }
+ ],
+ "BOS": [
+  {
+   "brand": "realme",
+   "name": "TV Stick",
+   "model": "TV Stick"
   }
  ],
  "RMX3085L1": [

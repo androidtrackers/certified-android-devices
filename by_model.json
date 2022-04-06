@@ -19141,6 +19141,13 @@
    "device": "Bmobile_B61Pro"
   }
  ],
+ "B70Pro": [
+  {
+   "brand": "BMobile",
+   "name": "B70Pro",
+   "device": "Bmobile_B70Pro"
+  }
+ ],
  "BL40_MV12": [
   {
    "brand": "BMobile",
@@ -24504,6 +24511,11 @@
    "brand": "Blu",
    "name": "C5L Max",
    "device": "C0170WW"
+  },
+  {
+   "brand": "Blu",
+   "name": "C5L Max",
+   "device": "C0173WW"
   }
  ],
  "C5L+ 2021": [
@@ -25273,6 +25285,11 @@
    "brand": "Blu",
    "name": "J9L",
    "device": "J0080WW"
+  },
+  {
+   "brand": "Blu",
+   "name": "J9L",
+   "device": "J0082WW"
   },
   {
    "brand": "Blu",
@@ -83438,6 +83455,13 @@
    "device": "DV8038"
   }
  ],
+ "HOT MINI": [
+  {
+   "brand": "Hytel",
+   "name": "HOT MINI",
+   "device": "HOT_MINI"
+  }
+ ],
  "PDC550": [
   {
    "brand": "Hytera",
@@ -90331,6 +90355,13 @@
    "device": "itel-A661W"
   }
  ],
+ "itel A661WP": [
+  {
+   "brand": "Itel",
+   "name": "A58 Pro",
+   "device": "itel-A661WP"
+  }
+ ],
  "itel A62": [
   {
    "brand": "Itel",
@@ -90863,6 +90894,13 @@
    "device": "itel_it1703"
   }
  ],
+ "itel A507LP": [
+  {
+   "brand": "Itel",
+   "name": "itel  V51 LTE",
+   "device": "itel-A507LP"
+  }
+ ],
  "itel 4K TV": [
   {
    "brand": "Itel",
@@ -90999,6 +91037,13 @@
    "brand": "Itel",
    "name": "itel A23",
    "device": "itel-A23S"
+  }
+ ],
+ "itel A507LM": [
+  {
+   "brand": "Itel",
+   "name": "itel A24",
+   "device": "itel-A507LM"
   }
  ],
  "itel A507LS": [
@@ -120518,6 +120563,16 @@
    "device": "YYT"
   },
   {
+   "brand": "Next",
+   "name": "4K TV Stick",
+   "device": "YYT"
+  },
+  {
+   "brand": "REGZA",
+   "name": "RSG-11B",
+   "device": "YYT"
+  },
+  {
    "brand": "Skyworth",
    "name": "Leap-S2",
    "device": "YYT"
@@ -124731,6 +124786,13 @@
    "brand": "Mobicell",
    "name": "BERRY1",
    "device": "BERRY1"
+  }
+ ],
+ "BERRY PRO": [
+  {
+   "brand": "Mobicell",
+   "name": "BERRY_PRO",
+   "device": "BERRY_PRO"
   }
  ],
  "BLINK": [
@@ -149566,6 +149628,11 @@
    "brand": "Positivo",
    "name": "M10 4G PRO X",
    "device": "T2040"
+  },
+  {
+   "brand": "Positivo",
+   "name": "T2040",
+   "device": "T2040B"
   }
  ],
  "Positivo Mini": [
@@ -204433,6 +204500,11 @@
    "brand": "TVCore",
    "name": "TV Stick",
    "device": "ts401"
+  },
+  {
+   "brand": "realme",
+   "name": "TV Stick",
+   "device": "BOS"
   }
  ],
  "TV StickL": [
@@ -212951,6 +213023,13 @@
    "brand": "VIKUSHA",
    "name": "VZ-30",
    "device": "VZ-30"
+  }
+ ],
+ "VIMOQ A507LD": [
+  {
+   "brand": "VIMOQ",
+   "name": "VIMOQ  AC50",
+   "device": "VIMOQ-A507LD"
   }
  ],
  "VIMOQ A507LE": [

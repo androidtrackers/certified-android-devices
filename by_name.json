@@ -24644,6 +24644,13 @@
    "model": "Bmobile B61Pro"
   }
  ],
+ "B70Pro": [
+  {
+   "brand": "BMobile",
+   "device": "Bmobile_B70Pro",
+   "model": "B70Pro"
+  }
+ ],
  "BL40": [
   {
    "brand": "BMobile",
@@ -30598,6 +30605,11 @@
    "brand": "Blu",
    "device": "C0170WW",
    "model": "C5L Max"
+  },
+  {
+   "brand": "Blu",
+   "device": "C0173WW",
+   "model": "C5L Max"
   }
  ],
  "C5L+ 2021": [
@@ -31375,6 +31387,11 @@
   {
    "brand": "Blu",
    "device": "J0080WW",
+   "model": "J9L"
+  },
+  {
+   "brand": "Blu",
+   "device": "J0082WW",
    "model": "J9L"
   },
   {
@@ -86276,6 +86293,13 @@
    "model": "Smart Box Android TV"
   }
  ],
+ "HOT MINI": [
+  {
+   "brand": "Hytel",
+   "device": "HOT_MINI",
+   "model": "HOT MINI"
+  }
+ ],
  "PDC550": [
   {
    "brand": "Hytera",
@@ -92855,6 +92879,13 @@
    "model": "itel A661W"
   }
  ],
+ "A58 Pro": [
+  {
+   "brand": "Itel",
+   "device": "itel-A661WP",
+   "model": "itel A661WP"
+  }
+ ],
  "A62": [
   {
    "brand": "Itel",
@@ -93347,6 +93378,13 @@
    "model": "itel it1703"
   }
  ],
+ "itel  V51 LTE": [
+  {
+   "brand": "Itel",
+   "device": "itel-A507LP",
+   "model": "itel A507LP"
+  }
+ ],
  "itel 4K TV": [
   {
    "brand": "Itel",
@@ -93458,6 +93496,11 @@
   }
  ],
  "itel A24": [
+  {
+   "brand": "Itel",
+   "device": "itel-A507LM",
+   "model": "itel A507LM"
+  },
   {
    "brand": "Itel",
    "device": "itel-A507LS",
@@ -123507,6 +123550,13 @@
    "model": "BERRY1"
   }
  ],
+ "BERRY_PRO": [
+  {
+   "brand": "Mobicell",
+   "device": "BERRY_PRO",
+   "model": "BERRY PRO"
+  }
+ ],
  "BLINK": [
   {
    "brand": "Mobicell",
@@ -133493,6 +133543,13 @@
    "brand": "Nexian",
    "device": "Mi438S_sprout",
    "model": "Mi438S"
+  }
+ ],
+ "4K TV Stick": [
+  {
+   "brand": "Next",
+   "device": "YYT",
+   "model": "4K Google TV Stick"
   }
  ],
  "Nexttab N3": [
@@ -147099,6 +147156,13 @@
    "model": "T1085"
   }
  ],
+ "T2040": [
+  {
+   "brand": "Positivo",
+   "device": "T2040B",
+   "model": "T2040"
+  }
+ ],
  "T701 TV": [
   {
    "brand": "Positivo",
@@ -153285,6 +153349,13 @@
    "brand": "REDLINE",
    "device": "Space_M10Pro",
    "model": "Space_M10Pro"
+  }
+ ],
+ "RSG-11B": [
+  {
+   "brand": "REGZA",
+   "device": "YYT",
+   "model": "4K Google TV Stick"
   }
  ],
  "NEP N1": [
@@ -194554,6 +194625,11 @@
    "brand": "TVCore",
    "device": "ts401",
    "model": "TV Stick"
+  },
+  {
+   "brand": "realme",
+   "device": "BOS",
+   "model": "TV Stick"
   }
  ],
  "ts401l": [
@@ -202795,6 +202871,13 @@
    "brand": "VIKUSHA",
    "device": "VZ-30",
    "model": "VZ-30"
+  }
+ ],
+ "VIMOQ  AC50": [
+  {
+   "brand": "VIMOQ",
+   "device": "VIMOQ-A507LD",
+   "model": "VIMOQ A507LD"
   }
  ],
  "VIMOQ V51 LTE": [
