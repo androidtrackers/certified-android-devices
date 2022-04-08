@@ -6202,6 +6202,13 @@
    "model": "D30"
   }
  ],
+ "ADVANNASAPro": [
+  {
+   "brand": "ADVAN",
+   "device": "ADVANNASAPro",
+   "model": "ADVANNASAPro"
+  }
+ ],
  "TK701": [
   {
    "brand": "AEEZO",
@@ -30966,6 +30973,13 @@
    "model": "C6x"
   }
  ],
+ "C7x": [
+  {
+   "brand": "Blu",
+   "device": "C290EQ",
+   "model": "C7x"
+  }
+ ],
  "D10": [
   {
    "brand": "Blu",
@@ -31414,6 +31428,13 @@
    "brand": "Blu",
    "device": "G0710WW",
    "model": "G71L"
+  }
+ ],
+ "G71_PLUS_TIGO": [
+  {
+   "brand": "Blu",
+   "device": "G0560WW",
+   "model": "G71 PLUS"
   }
  ],
  "G8": [
@@ -31949,6 +31970,11 @@
    "brand": "Blu",
    "device": "M0174WW",
    "model": "M8L"
+  },
+  {
+   "brand": "Blu",
+   "device": "M0174WW_ND",
+   "model": "M8L"
   }
  ],
  "M8L 2022": [
@@ -31980,6 +32006,11 @@
    "brand": "Blu",
    "device": "M0209WW_ND",
    "model": "M8L Plus"
+  },
+  {
+   "brand": "Blu",
+   "device": "M0210WW_ND",
+   "model": "M8L PLUS"
   },
   {
    "brand": "Blu",
@@ -32535,6 +32566,13 @@
    "brand": "Blu",
    "device": "S0610WW",
    "model": "Studio X5"
+  }
+ ],
+ "Studio X5 Max": [
+  {
+   "brand": "Blu",
+   "device": "S0630WW",
+   "model": "Studio X5 Max"
   }
  ],
  "Studio X8 HD": [
@@ -65525,7 +65563,7 @@
    "model": "100011886"
   },
   {
-   "brand": "Onn (Walmart)",
+   "brand": "onn.",
    "device": "100011886",
    "model": "100011886"
   }
@@ -77108,6 +77146,13 @@
    "brand": "Hisense",
    "device": "MSM8212",
    "model": "HS-U688"
+  }
+ ],
+ "U6H/A6H/U6G1": [
+  {
+   "brand": "Hisense",
+   "device": "songshan",
+   "model": "SmartTV 4K"
   }
  ],
  "U800": [
@@ -203131,6 +203176,13 @@
    "model": "MP02"
   }
  ],
+ "Power 7": [
+  {
+   "brand": "Umidigi",
+   "device": "Power_7",
+   "model": "MP06"
+  }
+ ],
  "Power 7 EEA": [
   {
    "brand": "Umidigi",
@@ -212439,6 +212491,11 @@
   }
  ],
  "WALPAD 8G": [
+  {
+   "brand": "Walton",
+   "device": "WALPAD8G_V2",
+   "model": "WALPAD8G"
+  },
   {
    "brand": "Walton",
    "device": "WALPAD8G_V2",
@@ -229743,13 +229800,6 @@
    "brand": "iLife",
    "device": "MISA",
    "model": "MISA"
-  }
- ],
- "EG104": [
-  {
-   "brand": "iMuz",
-   "device": "EG104",
-   "model": "EG104"
   }
  ],
  "G10E": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-04-07
+Last sync is 2022-04-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -57,6 +57,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ACT|ACT4K1007|IPBox|ACT4K1007|
 |ACT|ACT4K2020|HP40A|ACT4K2020|
 |ADOC|D30|D30|D30|
+|ADVAN|ADVANNASAPro|ADVANNASAPro|ADVANNASAPro|
 |AEEZO|TK701|TK701|TK701|
 |AEEZO|TK701_EEA|TK701_EEA|TK701_EEA|
 |AEEZO|TK801|TK801|TK801|
@@ -3263,6 +3264,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|C6L 2021|C0152TT|C6L 2021|
 |Blu|C6x|C090P|C6x|
 |Blu|C7|C250EQ|C7|
+|Blu|C7x|C290EQ|C7x|
 |Blu|D10|D10|D10|
 |Blu|D500|D500|D500|
 |Blu|D510|D510|D510|
@@ -3324,6 +3326,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G70|G0251WW|G70|
 |Blu|G71|G0570WW|G71 PLUS|
 |Blu|G71L|G0710WW|G71L|
+|Blu|G71_PLUS_TIGO|G0560WW|G71 PLUS|
 |Blu|G8|G0170|G8|
 |Blu|G9|G0130WW|G9|
 |Blu|G9|G0130WW_SR|G9|
@@ -3378,11 +3381,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|M8L|M0172WW|M8L|
 |Blu|M8L|M0173WW|M8L|
 |Blu|M8L|M0174WW|M8L|
+|Blu|M8L|M0174WW_ND|M8L|
 |Blu|M8L 2022|M0220WW|M8L 2022|
 |Blu|M8L 2022|M0220WW_ND|M8L 2022|
 |Blu|M8L PLUS|M0209WW|M8L PLUS|
 |Blu|M8L PLUS|M0210WW|M8L PLUS|
 |Blu|M8L Plus|M0209WW_ND|M8L Plus|
+|Blu|M8L Plus|M0210WW_ND|M8L PLUS|
 |Blu|M8L Plus|M0212WW_ND|M8L Plus|
 |Blu|M8L_PLUS|M0208WW|M8L PLUS|
 |Blu|NEO ENERGY MINI|BLU_NEO_ENERGY_MINI|BLU NEO ENERGY MINI|
@@ -3461,6 +3466,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Studio X10L|S0570WW|Studio X10L|
 |Blu|Studio X12|S050EQ|Studio X12|
 |Blu|Studio X5|S0610WW|Studio X5|
+|Blu|Studio X5 Max|S0630WW|Studio X5 Max|
 |Blu|Studio X8 HD|S532|Studio X8 HD|
 |Blu|Studio_J8M|S0450WW|Studio J8M|
 |Blu|Studio_View|S810P|Studio View|
@@ -9859,6 +9865,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|U610|U610E_1|HS-U610|
 |Hisense|U688|U688|HS-U688|
 |Hisense|U688BE|MSM8212|HS-U688|
+|Hisense|U6H/A6H/U6G1|songshan|SmartTV 4K|
 |Hisense|U800|U800|HS-U800|
 |Hisense|U800E-1|U800E_1|HS-U800|
 |Hisense|U800E-1|U800E_1|HS-U800E-1|
@@ -20298,7 +20305,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Onn (Walmart)|100005208|100005208|100005208|
 |Onn (Walmart)|100005208-CA|100005208-CA|100005208-CA|
 |Onn (Walmart)|100005209|100005209|100005209|
-|Onn (Walmart)|100011886|100011886|100011886|
 |Onn (Walmart)|100011886A|100011886A|100011886A|
 |Onn (Walmart)|100011886CA|100011886CA|100011886CA|
 |Onn (Walmart)|100015685-E|100015685-E|100015685-E|
@@ -31439,6 +31445,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|Power 5S EEA|Power_5S|MP02|
 |Umidigi|Power 5S RU|Power_5S|MP02|
 |Umidigi|Power 5S TR|Power_5S|MP02|
+|Umidigi|Power 7|Power_7|MP06|
 |Umidigi|Power 7 EEA|Power_7|MP06|
 |Umidigi|Power 7 Max|Power_7_Max|MP06|
 |Umidigi|Power 7 Max EEA|Power_7_Max|MP06|
@@ -32904,6 +32911,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|Smart TV|osaki|2K AI Smart TV|
 |Walton|WALPAD 10H|Walpad_10H|Walpad_10H|
 |Walton|WALPAD 10P|10P|WALPAD 10P|
+|Walton|WALPAD 8G|WALPAD8G_V2|WALPAD8G|
 |Walton|WALPAD 8G|WALPAD8G_V2|WALPAD_8G|
 |Walton|WALPAD 8G|WALPAD_8G|WALPAD_8G|
 |Walton|Walton Primo X5|Primo_X5|Walton Primo X5|
@@ -36011,7 +36019,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iLife|KIDS_TAB_6|KIDS_TAB_6|KIDS_TAB_6|
 |iLife|MISA|MISA|MISA|
 |iMuz|4K SA Smart TV|pioneer|4K SA Smart TV|
-|iMuz|EG104|EG104|EG104|
 |iMuz|G10|G10|G10|
 |iMuz|G10E|G10|G10|
 |iMuz|L101|G10|L101|
@@ -36168,6 +36175,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |onn.|onn_100003561|mid8011|100003561|
 |onn.|100003562|mid1035_mq|100003562|
 |onn.|100011885|100011885|100011885|
+|onn.|100011886|100011886|100011886|
 |onn.|100015685-A|100015685-A|100015685-A|
 |onn.|100044018G|100044018G|100044018G|
 |onn.|100044018P|100044018P|100044018P|

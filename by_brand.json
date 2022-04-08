@@ -299,6 +299,13 @@
    "model": "D30"
   }
  ],
+ "ADVAN": [
+  {
+   "device": "ADVANNASAPro",
+   "name": "ADVANNASAPro",
+   "model": "ADVANNASAPro"
+  }
+ ],
  "AEEZO": [
   {
    "device": "TK701",
@@ -16821,6 +16828,11 @@
    "model": "C7"
   },
   {
+   "device": "C290EQ",
+   "name": "C7x",
+   "model": "C7x"
+  },
+  {
    "device": "D10",
    "name": "D10",
    "model": "D10"
@@ -17126,6 +17138,11 @@
    "model": "G71L"
   },
   {
+   "device": "G0560WW",
+   "name": "G71_PLUS_TIGO",
+   "model": "G71 PLUS"
+  },
+  {
    "device": "G0170",
    "name": "G8",
    "model": "G8"
@@ -17396,6 +17413,11 @@
    "model": "M8L"
   },
   {
+   "device": "M0174WW_ND",
+   "name": "M8L",
+   "model": "M8L"
+  },
+  {
    "device": "M0220WW",
    "name": "M8L 2022",
    "model": "M8L 2022"
@@ -17419,6 +17441,11 @@
    "device": "M0209WW_ND",
    "name": "M8L Plus",
    "model": "M8L Plus"
+  },
+  {
+   "device": "M0210WW_ND",
+   "name": "M8L Plus",
+   "model": "M8L PLUS"
   },
   {
    "device": "M0212WW_ND",
@@ -17809,6 +17836,11 @@
    "device": "S0610WW",
    "name": "Studio X5",
    "model": "Studio X5"
+  },
+  {
+   "device": "S0630WW",
+   "name": "Studio X5 Max",
+   "model": "Studio X5 Max"
   },
   {
    "device": "S532",
@@ -50995,6 +51027,11 @@
    "device": "MSM8212",
    "name": "U688BE",
    "model": "HS-U688"
+  },
+  {
+   "device": "songshan",
+   "name": "U6H/A6H/U6G1",
+   "model": "SmartTV 4K"
   },
   {
    "device": "U800",
@@ -104404,11 +104441,6 @@
    "device": "100005209",
    "name": "100005209",
    "model": "100005209"
-  },
-  {
-   "device": "100011886",
-   "name": "100011886",
-   "model": "100011886"
   },
   {
    "device": "100011886A",
@@ -161324,6 +161356,11 @@
   },
   {
    "device": "Power_7",
+   "name": "Power 7",
+   "model": "MP06"
+  },
+  {
+   "device": "Power_7",
    "name": "Power 7 EEA",
    "model": "MP06"
   },
@@ -168900,6 +168937,11 @@
    "device": "10P",
    "name": "WALPAD 10P",
    "model": "WALPAD 10P"
+  },
+  {
+   "device": "WALPAD8G_V2",
+   "name": "WALPAD 8G",
+   "model": "WALPAD8G"
   },
   {
    "device": "WALPAD8G_V2",
@@ -184803,11 +184845,6 @@
    "model": "4K SA Smart TV"
   },
   {
-   "device": "EG104",
-   "name": "EG104",
-   "model": "EG104"
-  },
-  {
    "device": "G10",
    "name": "G10",
    "model": "G10"
@@ -185664,6 +185701,11 @@
    "device": "100011885",
    "name": "100011885",
    "model": "100011885"
+  },
+  {
+   "device": "100011886",
+   "name": "100011886",
+   "model": "100011886"
   },
   {
    "device": "100015685-A",

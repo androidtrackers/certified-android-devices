@@ -461,6 +461,13 @@
    "device": "D30"
   }
  ],
+ "ADVANNASAPro": [
+  {
+   "brand": "ADVAN",
+   "name": "ADVANNASAPro",
+   "device": "ADVANNASAPro"
+  }
+ ],
  "TK701": [
   {
    "brand": "AEEZO",
@@ -24888,6 +24895,13 @@
    "device": "C090P"
   }
  ],
+ "C7x": [
+  {
+   "brand": "Blu",
+   "name": "C7x",
+   "device": "C290EQ"
+  }
+ ],
  "D10": [
   {
    "brand": "Blu",
@@ -25354,6 +25368,11 @@
    "brand": "Blu",
    "name": "G71",
    "device": "G0570WW"
+  },
+  {
+   "brand": "Blu",
+   "name": "G71_PLUS_TIGO",
+   "device": "G0560WW"
   }
  ],
  "G71L": [
@@ -25799,6 +25818,11 @@
    "brand": "Blu",
    "name": "M8L",
    "device": "M0174WW"
+  },
+  {
+   "brand": "Blu",
+   "name": "M8L",
+   "device": "M0174WW_ND"
   }
  ],
  "M8L 2022": [
@@ -25823,6 +25847,11 @@
    "brand": "Blu",
    "name": "M8L PLUS",
    "device": "M0210WW"
+  },
+  {
+   "brand": "Blu",
+   "name": "M8L Plus",
+   "device": "M0210WW_ND"
   },
   {
    "brand": "Blu",
@@ -26374,6 +26403,13 @@
    "brand": "Blu",
    "name": "Studio X5",
    "device": "S0610WW"
+  }
+ ],
+ "Studio X5 Max": [
+  {
+   "brand": "Blu",
+   "name": "Studio X5 Max",
+   "device": "S0630WW"
   }
  ],
  "Studio X8 HD": [
@@ -58609,7 +58645,7 @@
    "device": "tablet"
   },
   {
-   "brand": "Onn (Walmart)",
+   "brand": "onn.",
    "name": "100011886",
    "device": "100011886"
   }
@@ -71077,6 +71113,23 @@
    "device": "MSM8212"
   }
  ],
+ "SmartTV 4K": [
+  {
+   "brand": "Hisense",
+   "name": "U6H/A6H/U6G1",
+   "device": "songshan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "huangshan",
+   "device": "huangshan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "songshan",
+   "device": "songshan"
+  }
+ ],
  "HS-U800": [
   {
    "brand": "Hisense",
@@ -71335,18 +71388,6 @@
    "brand": "Hisense",
    "name": "fushan_2",
    "device": "hamamatsucho"
-  }
- ],
- "SmartTV 4K": [
-  {
-   "brand": "Hisense",
-   "name": "huangshan",
-   "device": "huangshan"
-  },
-  {
-   "brand": "Hisense",
-   "name": "songshan",
-   "device": "songshan"
   }
  ],
  "SmartTV 4K FFM": [
@@ -213310,6 +213351,11 @@
  "MP06": [
   {
    "brand": "Umidigi",
+   "name": "Power 7",
+   "device": "Power_7"
+  },
+  {
+   "brand": "Umidigi",
    "name": "Power 7 EEA",
    "device": "Power_7"
   },
@@ -222701,6 +222747,13 @@
    "brand": "Walton",
    "name": "WALPAD 10P",
    "device": "10P"
+  }
+ ],
+ "WALPAD8G": [
+  {
+   "brand": "Walton",
+   "name": "WALPAD 8G",
+   "device": "WALPAD8G_V2"
   }
  ],
  "WALPAD_8G": [
@@ -242518,13 +242571,6 @@
    "brand": "iLife",
    "name": "MISA",
    "device": "MISA"
-  }
- ],
- "EG104": [
-  {
-   "brand": "iMuz",
-   "name": "EG104",
-   "device": "EG104"
   }
  ],
  "L101": [

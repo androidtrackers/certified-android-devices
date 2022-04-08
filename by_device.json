@@ -424,6 +424,13 @@
    "model": "D30"
   }
  ],
+ "ADVANNASAPro": [
+  {
+   "brand": "ADVAN",
+   "name": "ADVANNASAPro",
+   "model": "ADVANNASAPro"
+  }
+ ],
  "TK701": [
   {
    "brand": "AEEZO",
@@ -27259,6 +27266,13 @@
    "model": "C7"
   }
  ],
+ "C290EQ": [
+  {
+   "brand": "Blu",
+   "name": "C7x",
+   "model": "C7x"
+  }
+ ],
  "D10": [
   {
    "brand": "Blu",
@@ -27680,6 +27694,13 @@
    "model": "G71L"
   }
  ],
+ "G0560WW": [
+  {
+   "brand": "Blu",
+   "name": "G71_PLUS_TIGO",
+   "model": "G71 PLUS"
+  }
+ ],
  "G0170": [
   {
    "brand": "Blu",
@@ -28047,6 +28068,13 @@
    "model": "M8L"
   }
  ],
+ "M0174WW_ND": [
+  {
+   "brand": "Blu",
+   "name": "M8L",
+   "model": "M8L"
+  }
+ ],
  "M0220WW": [
   {
    "brand": "Blu",
@@ -28080,6 +28108,13 @@
    "brand": "Blu",
    "name": "M8L Plus",
    "model": "M8L Plus"
+  }
+ ],
+ "M0210WW_ND": [
+  {
+   "brand": "Blu",
+   "name": "M8L Plus",
+   "model": "M8L PLUS"
   }
  ],
  "M0212WW_ND": [
@@ -28631,6 +28666,13 @@
    "brand": "Blu",
    "name": "Studio X5",
    "model": "Studio X5"
+  }
+ ],
+ "S0630WW": [
+  {
+   "brand": "Blu",
+   "name": "Studio X5 Max",
+   "model": "Studio X5 Max"
   }
  ],
  "S532": [
@@ -72000,6 +72042,18 @@
    "model": "HS-U988"
   }
  ],
+ "songshan": [
+  {
+   "brand": "Hisense",
+   "name": "U6H/A6H/U6G1",
+   "model": "SmartTV 4K"
+  },
+  {
+   "brand": "Hisense",
+   "name": "songshan",
+   "model": "SmartTV 4K"
+  }
+ ],
  "U800": [
   {
    "brand": "Hisense",
@@ -72310,13 +72364,6 @@
    "brand": "Hisense",
    "name": "lt971",
    "model": "LT971"
-  }
- ],
- "songshan": [
-  {
-   "brand": "Hisense",
-   "name": "songshan",
-   "model": "SmartTV 4K"
   }
  ],
  "vision2_1": [
@@ -137016,13 +137063,6 @@
    "brand": "Onn (Walmart)",
    "name": "100005209",
    "model": "100005209"
-  }
- ],
- "100011886": [
-  {
-   "brand": "Onn (Walmart)",
-   "name": "100011886",
-   "model": "100011886"
   }
  ],
  "100011886A": [
@@ -205280,6 +205320,11 @@
  "Power_7": [
   {
    "brand": "Umidigi",
+   "name": "Power 7",
+   "model": "MP06"
+  },
+  {
+   "brand": "Umidigi",
    "name": "Power 7 EEA",
    "model": "MP06"
   }
@@ -214375,6 +214420,11 @@
   }
  ],
  "WALPAD8G_V2": [
+  {
+   "brand": "Walton",
+   "name": "WALPAD 8G",
+   "model": "WALPAD8G"
+  },
   {
    "brand": "Walton",
    "name": "WALPAD 8G",
@@ -232120,13 +232170,6 @@
    "model": "MISA"
   }
  ],
- "EG104": [
-  {
-   "brand": "iMuz",
-   "name": "EG104",
-   "model": "EG104"
-  }
- ],
  "RA10": [
   {
    "brand": "iMuz",
@@ -232989,6 +233032,13 @@
    "brand": "onn.",
    "name": "onn_100003561",
    "model": "100003561"
+  }
+ ],
+ "100011886": [
+  {
+   "brand": "onn.",
+   "name": "100011886",
+   "model": "100011886"
   }
  ],
  "100015685-A": [
