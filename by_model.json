@@ -19707,6 +19707,13 @@
    "device": "BQru-1025L"
   }
  ],
+ "BQ-1036L": [
+  {
+   "brand": "BQru",
+   "name": "BQ-1036L",
+   "device": "BQ_1036L"
+  }
+ ],
  "BQ-1045": [
   {
    "brand": "BQru",
@@ -21741,6 +21748,11 @@
   }
  ],
  "QS01": [
+  {
+   "brand": "BenQ",
+   "name": "Q Stick",
+   "device": "S905Y2"
+  },
   {
    "brand": "BenQ",
    "name": "QS01",
@@ -24076,6 +24088,18 @@
    "device": "BP_6110"
   }
  ],
+ "Blaupunkt 2K Android TV": [
+  {
+   "brand": "Blaupunkt",
+   "name": "Blaupunk",
+   "device": "stanford"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "Turkey",
+   "device": "tamachi"
+  }
+ ],
  "BLAUPUNKT 4K Android TV": [
   {
    "brand": "Blaupunkt",
@@ -24294,13 +24318,6 @@
    "brand": "Blaupunkt",
    "name": "TX01",
    "device": "TX01"
-  }
- ],
- "Blaupunkt 2K Android TV": [
-  {
-   "brand": "Blaupunkt",
-   "name": "Turkey",
-   "device": "tamachi"
   }
  ],
  "A250": [
@@ -24885,7 +24902,17 @@
   {
    "brand": "Blu",
    "name": "C6L 2021",
+   "device": "C0151WW"
+  },
+  {
+   "brand": "Blu",
+   "name": "C6L 2021",
    "device": "C0152TT"
+  },
+  {
+   "brand": "Blu",
+   "name": "C6L 2021",
+   "device": "C0152WW"
   }
  ],
  "C6x": [
@@ -28999,6 +29026,18 @@
    "brand": "CWOWDEFU",
    "name": "C10G",
    "device": "C10G"
+  }
+ ],
+ "C6 Pro": [
+  {
+   "brand": "CWOWDEFU",
+   "name": "C6 Pro",
+   "device": "C6_Pro"
+  },
+  {
+   "brand": "Oukitel",
+   "name": "C6 Pro",
+   "device": "C6_Pro"
   }
  ],
  "C73W": [
@@ -39946,6 +39985,13 @@
    "device": "T104G"
   }
  ],
+ "T104G_T610": [
+  {
+   "brand": "Datamini",
+   "name": "T104G_T610",
+   "device": "T104G_T610"
+  }
+ ],
  "T74G": [
   {
    "brand": "Datamini",
@@ -43655,6 +43701,11 @@
  "X90": [
   {
    "brand": "Doogee",
+   "name": "X90",
+   "device": "X90"
+  },
+  {
+   "brand": "Premio",
    "name": "X90",
    "device": "X90"
   }
@@ -138639,6 +138690,13 @@
    "device": "X500"
   }
  ],
+ "OMIX X700": [
+  {
+   "brand": "OMIX",
+   "name": "X700",
+   "device": "X700"
+  }
+ ],
  "T7_PRO": [
   {
    "brand": "ONDA TLC",
@@ -144147,13 +144205,6 @@
    "brand": "Oukitel",
    "name": "C27_Pro_EEA",
    "device": "C27_Pro"
-  }
- ],
- "C6 Pro": [
-  {
-   "brand": "Oukitel",
-   "name": "C6 Pro",
-   "device": "C6_Pro"
   }
  ],
  "C8 4G": [
@@ -208512,6 +208563,20 @@
    "device": "TECNO-LE7n"
   }
  ],
+ "TECNO LF7": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO POVA 3",
+   "device": "TECNO-LF7"
+  }
+ ],
+ "TECNO LF7n": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO POVA 3",
+   "device": "TECNO-LF7n"
+  }
+ ],
  "TECNO LE8": [
   {
    "brand": "Tecno",
@@ -210079,6 +210144,11 @@
    "brand": "Thomson",
    "name": "TEO 8",
    "device": "TEO8LTE32"
+  },
+  {
+   "brand": "VAARAHI",
+   "name": "TEO 8",
+   "device": "T8LTE32G"
   }
  ],
  "SPTEO10BK16": [
@@ -212699,6 +212769,13 @@
    "device": "Power_Armor_14"
   }
  ],
+ "Power Armor14 Pro": [
+  {
+   "brand": "Ulefone",
+   "name": "Power Armor 14 Pro",
+   "device": "Power_Armor14_Pro"
+  }
+ ],
  "Power_3L": [
   {
    "brand": "Ulefone",
@@ -213023,6 +213100,11 @@
   }
  ],
  "MP05": [
+  {
+   "brand": "Umidigi",
+   "name": "A13",
+   "device": "A13"
+  },
   {
    "brand": "Umidigi",
    "name": "A13 EEA",
@@ -228097,6 +228179,13 @@
    "device": "T5_EEA_0"
   }
  ],
+ "X11_EEA": [
+  {
+   "brand": "YesTeL",
+   "name": "X11_EEA",
+   "device": "X11_EEA"
+  }
+ ],
  "X2_EEA": [
   {
    "brand": "YesTeL",
@@ -242573,10 +242662,22 @@
    "device": "MISA"
   }
  ],
+ "I22M01": [
+  {
+   "brand": "iMin",
+   "name": "I22M01",
+   "device": "I22M01"
+  }
+ ],
  "L101": [
   {
    "brand": "iMuz",
    "name": "L101",
+   "device": "G10"
+  },
+  {
+   "brand": "iMuz",
+   "name": "M101N",
    "device": "G10"
   }
  ],

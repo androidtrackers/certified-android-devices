@@ -13106,6 +13106,11 @@
    "model": "BQ-1025L"
   },
   {
+   "device": "BQ_1036L",
+   "name": "BQ-1036L",
+   "model": "BQ-1036L"
+  },
+  {
    "device": "BQru-1045",
    "name": "BQ-1045G",
    "model": "BQ-1045"
@@ -14601,6 +14606,11 @@
    "device": "PT2200",
    "name": "PT2200",
    "model": "PT2200"
+  },
+  {
+   "device": "S905Y2",
+   "name": "Q Stick",
+   "model": "QS01"
   },
   {
    "device": "S905Y2",
@@ -16221,6 +16231,11 @@
    "model": "BP_6110"
   },
   {
+   "device": "stanford",
+   "name": "Blaupunk",
+   "model": "Blaupunkt 2K Android TV"
+  },
+  {
    "device": "bangbae",
    "name": "Blaupunkt",
    "model": "BLAUPUNKT 4K Android TV"
@@ -16813,7 +16828,17 @@
    "model": "C6L 2021"
   },
   {
+   "device": "C0151WW",
+   "name": "C6L 2021",
+   "model": "C6L 2021"
+  },
+  {
    "device": "C0152TT",
+   "name": "C6L 2021",
+   "model": "C6L 2021"
+  },
+  {
+   "device": "C0152WW",
    "name": "C6L 2021",
    "model": "C6L 2021"
   },
@@ -19696,6 +19721,11 @@
    "device": "C6",
    "name": "C6",
    "model": "C6"
+  },
+  {
+   "device": "C6_Pro",
+   "name": "C6 Pro",
+   "model": "C6 Pro"
   },
   {
    "device": "C73W",
@@ -27682,6 +27712,11 @@
    "device": "T104G",
    "name": "T104G",
    "model": "T104G"
+  },
+  {
+   "device": "T104G_T610",
+   "name": "T104G_T610",
+   "model": "T104G_T610"
   },
   {
    "device": "T74G",
@@ -103493,6 +103528,11 @@
    "device": "X600",
    "name": "X600",
    "model": "X600"
+  },
+  {
+   "device": "X700",
+   "name": "X700",
+   "model": "OMIX X700"
   }
  ],
  "ONDA TLC": [
@@ -114001,6 +114041,11 @@
    "device": "X88",
    "name": "X88",
    "model": "X88"
+  },
+  {
+   "device": "X90",
+   "name": "X90",
+   "model": "X90"
   }
  ],
  "Prestige": [
@@ -157207,6 +157252,16 @@
    "model": "TECNO LE7n"
   },
   {
+   "device": "TECNO-LF7",
+   "name": "TECNO POVA 3",
+   "model": "TECNO LF7"
+  },
+  {
+   "device": "TECNO-LF7n",
+   "name": "TECNO POVA 3",
+   "model": "TECNO LF7n"
+  },
+  {
    "device": "TECNO-LE8",
    "name": "TECNO POVA 5G",
    "model": "TECNO LE8"
@@ -160714,6 +160769,11 @@
    "model": "Power Armor 14"
   },
   {
+   "device": "Power_Armor14_Pro",
+   "name": "Power Armor 14 Pro",
+   "model": "Power Armor14 Pro"
+  },
+  {
    "device": "Power_3L",
    "name": "Power_3L",
    "model": "Power_3L"
@@ -160998,6 +161058,11 @@
    "device": "A11_Tab-EEA",
    "name": "A11_Tab-EEA",
    "model": "MT01"
+  },
+  {
+   "device": "A13",
+   "name": "A13",
+   "model": "MP05"
   },
   {
    "device": "A13",
@@ -162003,6 +162068,13 @@
    "device": "zyro",
    "name": "Zyro",
    "model": "V7 Zyro"
+  }
+ ],
+ "VAARAHI": [
+  {
+   "device": "T8LTE32G",
+   "name": "TEO 8",
+   "model": "TEO8LTE"
   }
  ],
  "VAIO": [
@@ -173472,6 +173544,11 @@
    "model": "T5_EEA_0"
   },
   {
+   "device": "X11_EEA",
+   "name": "X11_EEA",
+   "model": "X11_EEA"
+  },
+  {
    "device": "X2_EEA",
    "name": "X2_EEA",
    "model": "X2_EEA"
@@ -184838,6 +184915,13 @@
    "model": "MISA"
   }
  ],
+ "iMin": [
+  {
+   "device": "I22M01",
+   "name": "I22M01",
+   "model": "I22M01"
+  }
+ ],
  "iMuz": [
   {
    "device": "pioneer",
@@ -184863,6 +184947,11 @@
    "device": "G10",
    "name": "M101",
    "model": "M101"
+  },
+  {
+   "device": "G10",
+   "name": "M101N",
+   "model": "L101"
   },
   {
    "device": "RA10",

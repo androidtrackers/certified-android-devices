@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-04-08
+Last sync is 2022-04-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2540,6 +2540,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BQru|BQ-1024L|BQru-1024L|BQ-1024L|
 |BQru|BQ-1025L|BQ-1025L|BQ-1025L|
 |BQru|BQ-1025L|BQru-1025L|BQ-1025L|
+|BQru|BQ-1036L|BQ_1036L|BQ-1036L|
 |BQru|BQ-1045G|BQru-1045|BQ-1045|
 |BQru|BQ-1045G|BQru-1045G_2019|BQ-1045G|
 |BQru|BQ-1056L|BQru_1056L|BQru-1056L|
@@ -2831,6 +2832,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|Kogan 4G+|Agora_4G_PLUS|Agora 4G+|
 |BenQ|Kogan Agora 4G Lite|B506|Kogan Agora 4G Lite|
 |BenQ|PT2200|PT2200|PT2200|
+|BenQ|Q Stick|S905Y2|QS01|
 |BenQ|QS01|S905Y2|QS01|
 |BenQ|Smart TV|longshan|AI PONT|
 |BenQ|T3|T3|BenQ T3|
@@ -3143,6 +3145,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|BP_6010|BP_6010|BP_6010|
 |Blaupunkt|BP_6108|BP_6108|BP_6108|
 |Blaupunkt|BP_6110|BP_6110|BP_6110|
+|Blaupunkt|Blaupunk|stanford|Blaupunkt 2K Android TV|
 |Blaupunkt|Blaupunkt|bangbae|BLAUPUNKT 4K Android TV|
 |Blaupunkt|Blaupunkt|ewha|BLAU-TVE19I|
 |Blaupunkt|Blaupunkt|komagome|BLAUPUNKT 2K Android TV|
@@ -3261,7 +3264,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|C6L 2021|C0141TT|C6L 2021|
 |Blu|C6L 2021|C0142TT|C6L 2021|
 |Blu|C6L 2021|C0150WW|C6L 2021|
+|Blu|C6L 2021|C0151WW|C6L 2021|
 |Blu|C6L 2021|C0152TT|C6L 2021|
+|Blu|C6L 2021|C0152WW|C6L 2021|
 |Blu|C6x|C090P|C6x|
 |Blu|C7|C250EQ|C7|
 |Blu|C7x|C290EQ|C7x|
@@ -3808,6 +3813,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CWELL|M10|M10|CWELL M10|
 |CWOWDEFU|C10G|C10G|C10G|
 |CWOWDEFU|C6|C6|C6|
+|CWOWDEFU|C6 Pro|C6_Pro|C6 Pro|
 |CWOWDEFU|C73W|C73W|C73W|
 |CWOWDEFU|C73W_EEA|C73W|C73W|
 |CWOWDEFU|C80W|C80W|C80W|
@@ -5350,6 +5356,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datamini|K508101|K508101|K508101|
 |Datamini|K908H4G|K908H4G|K908H4G|
 |Datamini|T104G|T104G|T104G|
+|Datamini|T104G_T610|T104G_T610|T104G_T610|
 |Datamini|T74G|T74G|T74G|
 |Datamini|T8004G|T8004G|T8004G|
 |Datamini|T84G|T84G|T84G|
@@ -20129,6 +20136,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OMIX|X300|X300|OMIX X300|
 |OMIX|X500|X500|OMIX X500|
 |OMIX|X600|X600|X600|
+|OMIX|X700|X700|OMIX X700|
 |ONDA TLC|T7 Pro|T7_PRO|T7_PRO|
 |ONDA TLC|T9 S|T9S|T9S|
 |ONYX|AKA Model A|Model_A|Model A|
@@ -22177,6 +22185,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Premio|X86|X86|X86|
 |Premio|X87|X87|X87|
 |Premio|X88|X88|X88|
+|Premio|X90|X90|X90|
 |Prestige|7G|Prestige-7G|Prestige 7G|
 |Prestige|ELITE10Q|Elite10Q|Elite10Q|
 |Prestige|ELITE7Q|Elite7Q|Elite7Q|
@@ -30659,6 +30668,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO POP X5|TECNO-L6502S|TECNO L6502S|
 |Tecno|TECNO POVA 2|TECNO-LE7|TECNO LE7|
 |Tecno|TECNO POVA 2|TECNO-LE7n|TECNO LE7n|
+|Tecno|TECNO POVA 3|TECNO-LF7|TECNO LF7|
+|Tecno|TECNO POVA 3|TECNO-LF7n|TECNO LF7n|
 |Tecno|TECNO POVA 5G|TECNO-LE8|TECNO LE8|
 |Tecno|TECNO R6S|TECNO-R6|TECNO R6S|
 |Tecno|TECNO R7+|TECNO-RC6|TECNO RC6|
@@ -31318,6 +31329,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Power 5S|Power_5S|Power_5S|
 |Ulefone|Power Armor 13|Power_Armor_13|Power Armor 13|
 |Ulefone|Power Armor 14|Power_Armor_14|Power Armor 14|
+|Ulefone|Power Armor 14 Pro|Power_Armor14_Pro|Power Armor14 Pro|
 |Ulefone|Power_3L|Power_3L|Power_3L|
 |Ulefone|Power_3L_EEA|Power_3L_EEA|Power_3L|
 |Ulefone|Power_6|Power_6|Power_6|
@@ -31374,6 +31386,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|A11S EEA|A11S|MP01|
 |Umidigi|A11_Tab|A11_Tab|MT01|
 |Umidigi|A11_Tab-EEA|A11_Tab-EEA|MT01|
+|Umidigi|A13|A13|MP05|
 |Umidigi|A13 EEA|A13|MP05|
 |Umidigi|A13 Pro|A13_Pro|MP05|
 |Umidigi|A13 Pro EEA|A13_Pro|MP05|
@@ -31565,6 +31578,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |V-MOCCS|VT-A9|VT-A9|VT-A9|
 |V2COM|T2|ROCKY_T2|ROCKY T2|
 |V7|Zyro|zyro|V7 Zyro|
+|VAARAHI|TEO 8|T8LTE32G|TEO8LTE|
 |VAIO|VA-10J|VA-10J|JCI VA-10J|
 |VAIO|VPA051|VPA051|VPA051|
 |VALIFONE|M790|M790|M790|
@@ -33784,6 +33798,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |YesTeL|T5_EEA|T5-plus-EEA|T5-plus-EEA|
 |YesTeL|T5_EEA|T5_EEA|T5_EEA|
 |YesTeL|T5_EEA_0|T5_EEA_0|T5_EEA_0|
+|YesTeL|X11_EEA|X11_EEA|X11_EEA|
 |YesTeL|X2_EEA|X2_EEA|X2_EEA|
 |YesTeL|X3|X3|X3|
 |YesTeL|X3_EEA|X3_EEA|X3_EEA|
@@ -36018,11 +36033,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iLife|KIDS-TAB-5|KIDS-TAB-5|KIDS-TAB-5|
 |iLife|KIDS_TAB_6|KIDS_TAB_6|KIDS_TAB_6|
 |iLife|MISA|MISA|MISA|
+|iMin|I22M01|I22M01|I22M01|
 |iMuz|4K SA Smart TV|pioneer|4K SA Smart TV|
 |iMuz|G10|G10|G10|
 |iMuz|G10E|G10|G10|
 |iMuz|L101|G10|L101|
 |iMuz|M101|G10|M101|
+|iMuz|M101N|G10|L101|
 |iMuz|RA10|RA10|RA10|
 |iMuz|RG11|RG11|RG11|
 |iMuz|Smart TV|mateo|2K SA Smart TV|
