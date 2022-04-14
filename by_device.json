@@ -30500,6 +30500,13 @@
    "model": "C72"
   }
  ],
+ "C75": [
+  {
+   "brand": "CHAINWAY",
+   "name": "C75_GL",
+   "model": "C75"
+  }
+ ],
  "C90": [
   {
    "brand": "CHAINWAY",
@@ -62086,6 +62093,13 @@
    "brand": "HP",
    "name": "HP Chromebook 13 G1",
    "model": "HP Chromebook 13 G1"
+  }
+ ],
+ "napa_gw": [
+  {
+   "brand": "HP",
+   "name": "HP Engage One Essential All-in-One System",
+   "model": "HP Engage One Essential All-in-One System"
   }
  ],
  "anderson_gw": [
@@ -150293,6 +150307,13 @@
    "model": "PMT4511_4G_RU"
   }
  ],
+ "HP80A20L": [
+  {
+   "brand": "Prestigio",
+   "name": "PMT4518_4G_E_RU",
+   "model": "PMT4518_4G_E_RU"
+  }
+ ],
  "HP70A7G": [
   {
    "brand": "Prestigio",
@@ -155343,17 +155364,17 @@
   {
    "brand": "Realme",
    "name": "真我V13 5G",
-   "model": "RMX3041"
-  },
-  {
-   "brand": "Realme",
-   "name": "真我V13 5G",
    "model": "RMX3042"
   },
   {
    "brand": "Realme",
    "name": "真我V13 5G",
    "model": "RMX3043"
+  },
+  {
+   "brand": "realme",
+   "name": "真我V13 5G",
+   "model": "RMX3041"
   }
  ],
  "RealtekHank": [

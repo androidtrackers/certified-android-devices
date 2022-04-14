@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-04-13
+Last sync is 2022-04-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3736,6 +3736,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CHAINWAY|C71_GL|C71|C71|
 |CHAINWAY|C72_EEA|C72|C72|
 |CHAINWAY|C72_GL|C72|C72|
+|CHAINWAY|C75_GL|C75|C75|
 |CHAINWAY|C90|C90|C90|
 |CHAINWAY|P80|P80|P80|
 |CHAINWAY|P80_EEA|P80|P80|
@@ -8157,6 +8158,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HP|HP Chromebook 11 G5 / 11-vxxx|setzer_cheets|HP Chromebook 11 G5|
 |HP|HP Chromebook 11 G5 / 11-vxxx|setzer_cheets|HP Chromebook 11 G5 / HP Chromebook 11-vxxx|
 |HP|HP Chromebook 13 G1|chell_cheets|HP Chromebook 13 G1|
+|HP|HP Engage One Essential All-in-One System|napa_gw|HP Engage One Essential All-in-One System|
 |HP|HP Engage One Pro AIO System|anderson_gw|HP Engage One Pro AIO System|
 |HP|Pro 8 Tablet with Voice|neetu|HP Pro 8 Tablet with Voice|
 |HP|Pro Slate 10 EE G1|bulldog|HP Pro Slate 10 EE G1|
@@ -22389,6 +22391,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|PMT4338_4G_E_EEA|HP80A18L|PMT4338_4G_E_EEA|
 |Prestigio|PMT4511_4G_EEA|HP10A17L|PMT4511_4G_EEA|
 |Prestigio|PMT4511_4G_RU|HP10A17L|PMT4511_4G_RU|
+|Prestigio|PMT4518_4G_E_RU|HP80A20L|PMT4518_4G_E_RU|
 |Prestigio|PMT4667_3G_RU|HP70A7G|PMT4667_3G_RU|
 |Prestigio|PMT4881_4G_F_EEA|HP10A19L|PMT4881_4G_F_EEA|
 |Prestigio|PMT5001_3G|PMT5001_3G|PMT5001_3G|
@@ -23203,7 +23206,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|真我GT Neo 闪速版|RE5469|RMX3350|
 |Realme|真我GT Neo2T|RE5469|RMX3357|
 |Realme|真我V11s 5G|RE5485|RMX3125|
-|Realme|真我V13 5G|RE5081|RMX3041|
 |Realme|真我V13 5G|RE5081|RMX3042|
 |Realme|真我V13 5G|RE5081|RMX3043|
 |Realtek|RealtekHank|RealtekHank|RealtekHank|
@@ -36367,6 +36369,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我Q3s|RE548B|RMX3462|
 |realme|真我Q3s|RE548BL1|RMX3461|
 |realme|真我Q3s|RE54BFL1|RMX3461|
+|realme|真我V13 5G|RE5081|RMX3041|
 |redfox|Valuer_V8|Valuer_V8|Valuer_V8|
 |redfox|Wizpad_Valuer_V8|wvv832|Wizpad_Valuer_V8|
 |rephone|rephone|rephone|2000_000170_00|

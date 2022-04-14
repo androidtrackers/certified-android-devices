@@ -19282,6 +19282,11 @@
    "model": "C72"
   },
   {
+   "device": "C75",
+   "name": "C75_GL",
+   "model": "C75"
+  },
+  {
    "device": "C90",
    "name": "C90",
    "model": "C90"
@@ -42415,6 +42420,11 @@
    "device": "chell_cheets",
    "name": "HP Chromebook 13 G1",
    "model": "HP Chromebook 13 G1"
+  },
+  {
+   "device": "napa_gw",
+   "name": "HP Engage One Essential All-in-One System",
+   "model": "HP Engage One Essential All-in-One System"
   },
   {
    "device": "anderson_gw",
@@ -115079,6 +115089,11 @@
    "model": "PMT4511_4G_RU"
   },
   {
+   "device": "HP80A20L",
+   "name": "PMT4518_4G_E_RU",
+   "model": "PMT4518_4G_E_RU"
+  },
+  {
    "device": "HP70A7G",
    "name": "PMT4667_3G_RU",
    "model": "PMT4667_3G_RU"
@@ -119277,11 +119292,6 @@
    "device": "RE5485",
    "name": "真我V11s 5G",
    "model": "RMX3125"
-  },
-  {
-   "device": "RE5081",
-   "name": "真我V13 5G",
-   "model": "RMX3041"
   },
   {
    "device": "RE5081",
@@ -186691,6 +186701,11 @@
    "device": "RE54BFL1",
    "name": "真我Q3s",
    "model": "RMX3461"
+  },
+  {
+   "device": "RE5081",
+   "name": "真我V13 5G",
+   "model": "RMX3041"
   }
  ],
  "redfox": [

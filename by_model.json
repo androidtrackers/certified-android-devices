@@ -28522,6 +28522,13 @@
    "device": "C72"
   }
  ],
+ "C75": [
+  {
+   "brand": "CHAINWAY",
+   "name": "C75_GL",
+   "device": "C75"
+  }
+ ],
  "C90": [
   {
    "brand": "CHAINWAY",
@@ -59867,6 +59874,13 @@
    "brand": "HP",
    "name": "HP Chromebook 13 G1",
    "device": "chell_cheets"
+  }
+ ],
+ "HP Engage One Essential All-in-One System": [
+  {
+   "brand": "HP",
+   "name": "HP Engage One Essential All-in-One System",
+   "device": "napa_gw"
   }
  ],
  "HP Engage One Pro AIO System": [
@@ -153302,6 +153316,13 @@
    "device": "HP10A17L"
   }
  ],
+ "PMT4518_4G_E_RU": [
+  {
+   "brand": "Prestigio",
+   "name": "PMT4518_4G_E_RU",
+   "device": "HP80A20L"
+  }
+ ],
  "PMT4667_3G_RU": [
   {
    "brand": "Prestigio",
@@ -158663,13 +158684,6 @@
    "brand": "Realme",
    "name": "真我V11s 5G",
    "device": "RE5485"
-  }
- ],
- "RMX3041": [
-  {
-   "brand": "Realme",
-   "name": "真我V13 5G",
-   "device": "RE5081"
   }
  ],
  "RMX3042": [
@@ -244419,6 +244433,13 @@
    "brand": "realme",
    "name": "真我Q3s",
    "device": "RE548B"
+  }
+ ],
+ "RMX3041": [
+  {
+   "brand": "realme",
+   "name": "真我V13 5G",
+   "device": "RE5081"
   }
  ],
  "Valuer_V8": [

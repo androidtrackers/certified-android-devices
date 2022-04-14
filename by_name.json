@@ -34796,6 +34796,13 @@
    "model": "C72"
   }
  ],
+ "C75_GL": [
+  {
+   "brand": "CHAINWAY",
+   "device": "C75",
+   "model": "C75"
+  }
+ ],
  "C90": [
   {
    "brand": "CHAINWAY",
@@ -66914,6 +66921,13 @@
    "brand": "HP",
    "device": "chell_cheets",
    "model": "HP Chromebook 13 G1"
+  }
+ ],
+ "HP Engage One Essential All-in-One System": [
+  {
+   "brand": "HP",
+   "device": "napa_gw",
+   "model": "HP Engage One Essential All-in-One System"
   }
  ],
  "HP Engage One Pro AIO System": [
@@ -150628,6 +150642,13 @@
    "model": "PMT4511_4G_RU"
   }
  ],
+ "PMT4518_4G_E_RU": [
+  {
+   "brand": "Prestigio",
+   "device": "HP80A20L",
+   "model": "PMT4518_4G_E_RU"
+  }
+ ],
  "PMT4667_3G_RU": [
   {
    "brand": "Prestigio",
@@ -155778,17 +155799,17 @@
   {
    "brand": "Realme",
    "device": "RE5081",
-   "model": "RMX3041"
-  },
-  {
-   "brand": "Realme",
-   "device": "RE5081",
    "model": "RMX3042"
   },
   {
    "brand": "Realme",
    "device": "RE5081",
    "model": "RMX3043"
+  },
+  {
+   "brand": "realme",
+   "device": "RE5081",
+   "model": "RMX3041"
   }
  ],
  "RealtekHank": [
