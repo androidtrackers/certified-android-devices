@@ -131947,6 +131947,13 @@
    "model": "LAVIE Tab E 8HD1"
   }
  ],
+ "LAVIETab10FHD3": [
+  {
+   "brand": "NEC",
+   "name": "LAVIE Tab T10",
+   "model": "LAVIE Tab 10FHD3"
+  }
+ ],
  "LAVIETabT1212QHD1": [
   {
    "brand": "NEC",
@@ -155601,6 +155608,48 @@
    "model": "21121119SC"
   }
  ],
+ "dandelion": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10A",
+   "model": "220233L2C"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 9A",
+   "model": "220233L2G"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 9A",
+   "model": "M2006C3LC"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 9A",
+   "model": "M2006C3LG"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 9A",
+   "model": "M2006C3LI"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 9A",
+   "model": "M2006C3LVG"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 9A",
+   "model": "dandelion"
+  },
+  {
+   "brand": "ZTE",
+   "name": "Zmax 3",
+   "model": "Z978"
+  }
+ ],
  "apricot": [
   {
    "brand": "Redmi",
@@ -155736,43 +155785,6 @@
    "brand": "Redmi",
    "name": "Redmi Note 9 4G",
    "model": "M2010J19SC"
-  }
- ],
- "dandelion": [
-  {
-   "brand": "Redmi",
-   "name": "Redmi 9A",
-   "model": "220233L2G"
-  },
-  {
-   "brand": "Redmi",
-   "name": "Redmi 9A",
-   "model": "M2006C3LC"
-  },
-  {
-   "brand": "Redmi",
-   "name": "Redmi 9A",
-   "model": "M2006C3LG"
-  },
-  {
-   "brand": "Redmi",
-   "name": "Redmi 9A",
-   "model": "M2006C3LI"
-  },
-  {
-   "brand": "Redmi",
-   "name": "Redmi 9A",
-   "model": "M2006C3LVG"
-  },
-  {
-   "brand": "Redmi",
-   "name": "Redmi 9A",
-   "model": "dandelion"
-  },
-  {
-   "brand": "ZTE",
-   "name": "Zmax 3",
-   "model": "Z978"
   }
  ],
  "angelica": [
@@ -161623,6 +161635,13 @@
    "brand": "Samsung",
    "name": "Galaxy A52s 5G",
    "model": "SM-A528N"
+  }
+ ],
+ "SC-53C": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A53 5G",
+   "model": "SC-53C"
   }
  ],
  "a53x": [

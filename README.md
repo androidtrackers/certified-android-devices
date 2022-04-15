@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-04-14
+Last sync is 2022-04-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -19449,6 +19449,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NEC|LAVIE Tab E 7SD1|LAVIETabE7SD1|LAVIE Tab E 7SD1|
 |NEC|LAVIE Tab E 8FHD1|LAVIETabE8FHD1|LAVIE Tab E 8FHD1|
 |NEC|LAVIE Tab E 8HD1|LAVIETabE8HD1|LAVIE Tab E 8HD1|
+|NEC|LAVIE Tab T10|LAVIETab10FHD3|LAVIE Tab 10FHD3|
 |NEC|LAVIETab T12 12QHD1|LAVIETabT1212QHD1|LAVIE Tab T12 12QHD1|
 |NEC|LaVieTab PC-TE508BAW|TE508BAW|PC-TE508BAW|
 |NEC|LaVieTab PC-TE508S1W/LaVieTab PC-TE508S1L|PC-TE508S1_nec|LaVieTab PC-TE508S1|
@@ -23240,6 +23241,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 10 2022|selene|21061119AL|
 |Redmi|Redmi 10 2022|selene|21121119SG|
 |Redmi|Redmi 10 2022|selene|21121119VL|
+|Redmi|Redmi 10A|dandelion|220233L2C|
 |Redmi|Redmi 10C|fog|220333QAG|
 |Redmi|Redmi 10X|apricot|M2004J7AC|
 |Redmi|Redmi 10X|atom|M2004J7AC|
@@ -24250,6 +24252,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A52 5G|a52xq|SM-A526W|
 |Samsung|Galaxy A52s 5G|a52sxq|SM-A528B|
 |Samsung|Galaxy A52s 5G|a52sxq|SM-A528N|
+|Samsung|Galaxy A53 5G|SC-53C|SC-53C|
 |Samsung|Galaxy A53 5G|a53x|SM-A5360|
 |Samsung|Galaxy A53 5G|a53x|SM-A536B|
 |Samsung|Galaxy A53 5G|a53x|SM-A536E|

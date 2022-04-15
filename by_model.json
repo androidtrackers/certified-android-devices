@@ -134349,6 +134349,13 @@
    "device": "LAVIETabE8HD1"
   }
  ],
+ "LAVIE Tab 10FHD3": [
+  {
+   "brand": "NEC",
+   "name": "LAVIE Tab T10",
+   "device": "LAVIETab10FHD3"
+  }
+ ],
  "LAVIE Tab T12 12QHD1": [
   {
    "brand": "NEC",
@@ -158950,6 +158957,13 @@
    "device": "selene"
   }
  ],
+ "220233L2C": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10A",
+   "device": "dandelion"
+  }
+ ],
  "220333QAG": [
   {
    "brand": "Redmi",
@@ -165656,6 +165670,13 @@
    "brand": "Samsung",
    "name": "Galaxy A52s 5G",
    "device": "a52sxq"
+  }
+ ],
+ "SC-53C": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A53 5G",
+   "device": "SC-53C"
   }
  ],
  "SM-A5360": [

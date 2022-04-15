@@ -99931,6 +99931,11 @@
    "model": "LAVIE Tab E 8HD1"
   },
   {
+   "device": "LAVIETab10FHD3",
+   "name": "LAVIE Tab T10",
+   "model": "LAVIE Tab 10FHD3"
+  },
+  {
    "device": "LAVIETabT1212QHD1",
    "name": "LAVIETab T12 12QHD1",
    "model": "LAVIE Tab T12 12QHD1"
@@ -119476,6 +119481,11 @@
    "model": "21121119VL"
   },
   {
+   "device": "dandelion",
+   "name": "Redmi 10A",
+   "model": "220233L2C"
+  },
+  {
    "device": "fog",
    "name": "Redmi 10C",
    "model": "220333QAG"
@@ -124724,6 +124734,11 @@
    "device": "a52sxq",
    "name": "Galaxy A52s 5G",
    "model": "SM-A528N"
+  },
+  {
+   "device": "SC-53C",
+   "name": "Galaxy A53 5G",
+   "model": "SC-53C"
   },
   {
    "device": "a53x",

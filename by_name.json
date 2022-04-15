@@ -132494,6 +132494,13 @@
    "model": "LAVIE Tab E 8HD1"
   }
  ],
+ "LAVIE Tab T10": [
+  {
+   "brand": "NEC",
+   "device": "LAVIETab10FHD3",
+   "model": "LAVIE Tab 10FHD3"
+  }
+ ],
  "LAVIETab T12 12QHD1": [
   {
    "brand": "NEC",
@@ -156066,6 +156073,13 @@
    "model": "21121119VL"
   }
  ],
+ "Redmi 10A": [
+  {
+   "brand": "Redmi",
+   "device": "dandelion",
+   "model": "220233L2C"
+  }
+ ],
  "Redmi 10C": [
   {
    "brand": "Redmi",
@@ -161987,6 +162001,11 @@
   }
  ],
  "Galaxy A53 5G": [
+  {
+   "brand": "Samsung",
+   "device": "SC-53C",
+   "model": "SC-53C"
+  },
   {
    "brand": "Samsung",
    "device": "a53x",
