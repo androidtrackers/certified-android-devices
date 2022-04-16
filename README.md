@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-04-15
+Last sync is 2022-04-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -23207,8 +23207,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|真我GT Neo 闪速版|RE5469|RMX3350|
 |Realme|真我GT Neo2T|RE5469|RMX3357|
 |Realme|真我V11s 5G|RE5485|RMX3125|
-|Realme|真我V13 5G|RE5081|RMX3042|
-|Realme|真我V13 5G|RE5081|RMX3043|
 |Realtek|RealtekHank|RealtekHank|RealtekHank|
 |Realtek|RealtekThor|RealtekThor|RealtekThor|
 |Realtime|RS405|RS405|RS405|
@@ -36373,6 +36371,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我Q3s|RE548BL1|RMX3461|
 |realme|真我Q3s|RE54BFL1|RMX3461|
 |realme|真我V13 5G|RE5081|RMX3041|
+|realme|真我V13 5G|RE5081|RMX3042|
+|realme|真我V13 5G|RE5081|RMX3043|
 |redfox|Valuer_V8|Valuer_V8|Valuer_V8|
 |redfox|Wizpad_Valuer_V8|wvv832|Wizpad_Valuer_V8|
 |rephone|rephone|rephone|2000_000170_00|

@@ -155802,23 +155802,6 @@
    "model": "RMX3125"
   }
  ],
- "真我V13 5G": [
-  {
-   "brand": "Realme",
-   "device": "RE5081",
-   "model": "RMX3042"
-  },
-  {
-   "brand": "Realme",
-   "device": "RE5081",
-   "model": "RMX3043"
-  },
-  {
-   "brand": "realme",
-   "device": "RE5081",
-   "model": "RMX3041"
-  }
- ],
  "RealtekHank": [
   {
    "brand": "Realtek",
@@ -231713,6 +231696,23 @@
    "brand": "realme",
    "device": "RE54BFL1",
    "model": "RMX3461"
+  }
+ ],
+ "真我V13 5G": [
+  {
+   "brand": "realme",
+   "device": "RE5081",
+   "model": "RMX3041"
+  },
+  {
+   "brand": "realme",
+   "device": "RE5081",
+   "model": "RMX3042"
+  },
+  {
+   "brand": "realme",
+   "device": "RE5081",
+   "model": "RMX3043"
   }
  ],
  "Valuer_V8": [

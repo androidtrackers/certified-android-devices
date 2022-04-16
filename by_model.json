@@ -158693,20 +158693,6 @@
    "device": "RE5485"
   }
  ],
- "RMX3042": [
-  {
-   "brand": "Realme",
-   "name": "真我V13 5G",
-   "device": "RE5081"
-  }
- ],
- "RMX3043": [
-  {
-   "brand": "Realme",
-   "name": "真我V13 5G",
-   "device": "RE5081"
-  }
- ],
  "RealtekHank": [
   {
    "brand": "Realtek",
@@ -244457,6 +244443,20 @@
   }
  ],
  "RMX3041": [
+  {
+   "brand": "realme",
+   "name": "真我V13 5G",
+   "device": "RE5081"
+  }
+ ],
+ "RMX3042": [
+  {
+   "brand": "realme",
+   "name": "真我V13 5G",
+   "device": "RE5081"
+  }
+ ],
+ "RMX3043": [
   {
    "brand": "realme",
    "name": "真我V13 5G",

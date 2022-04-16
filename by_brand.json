@@ -119297,16 +119297,6 @@
    "device": "RE5485",
    "name": "真我V11s 5G",
    "model": "RMX3125"
-  },
-  {
-   "device": "RE5081",
-   "name": "真我V13 5G",
-   "model": "RMX3042"
-  },
-  {
-   "device": "RE5081",
-   "name": "真我V13 5G",
-   "model": "RMX3043"
   }
  ],
  "Realtek": [
@@ -186721,6 +186711,16 @@
    "device": "RE5081",
    "name": "真我V13 5G",
    "model": "RMX3041"
+  },
+  {
+   "device": "RE5081",
+   "name": "真我V13 5G",
+   "model": "RMX3042"
+  },
+  {
+   "device": "RE5081",
+   "name": "真我V13 5G",
+   "model": "RMX3043"
   }
  ],
  "redfox": [
