@@ -503,6 +503,13 @@
    "device": "TK806"
   }
  ],
+ "TK806_EEA": [
+  {
+   "brand": "AEEZO",
+   "name": "TK806_EEA",
+   "device": "TK806_EEA"
+  }
+ ],
  "TP1001": [
   {
    "brand": "AEEZO",
@@ -4013,6 +4020,11 @@
   },
   {
    "brand": "PALSONIC",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "Pioneer",
    "name": "Android TV",
    "device": "R2"
   },
@@ -29094,6 +29106,11 @@
   {
    "brand": "CWOWDEFU",
    "name": "C6 Pro",
+   "device": "C6_Pro"
+  },
+  {
+   "brand": "CWOWDEFU",
+   "name": "C6 Pro ROW",
    "device": "C6_Pro"
   },
   {
@@ -122713,6 +122730,13 @@
    "device": "ucw4046meg"
   }
  ],
+ "OTT Xview+ AV1": [
+  {
+   "brand": "Megacable",
+   "name": "OTT Xview+ AV1",
+   "device": "B866V2F"
+  }
+ ],
  "CP-D403": [
   {
    "brand": "Megahouse",
@@ -141799,6 +141823,13 @@
    "brand": "Oppo",
    "name": "CPH2365",
    "device": "OP4F11L1"
+  }
+ ],
+ "CPH2421": [
+  {
+   "brand": "Oppo",
+   "name": "CPH2421",
+   "device": "OP5325"
   }
  ],
  "CPH1911": [
@@ -170964,13 +170995,6 @@
    "device": "m53x"
   }
  ],
- "SM-M536S": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy M53 5G",
-   "device": "m53x"
-  }
- ],
  "SM-M625F": [
   {
    "brand": "Samsung",
@@ -173610,6 +173634,13 @@
    "brand": "Samsung",
    "name": "Galaxy Quantum2",
    "device": "a82xq"
+  }
+ ],
+ "SM-M536S": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Quantum3",
+   "device": "m53x"
   }
  ],
  "SHV-E170K": [
@@ -192445,6 +192476,11 @@
  "FG60": [
   {
    "brand": "Speedata",
+   "name": "FG60",
+   "device": "FG60"
+  },
+  {
+   "brand": "Speedata",
    "name": "FG60 EEA",
    "device": "FG60"
   }
@@ -205624,6 +205660,13 @@
    "brand": "TJD(SZ)",
    "name": "MT-792OF_EEA",
    "device": "MT-792OF_EEA"
+  }
+ ],
+ "MT_1025QU": [
+  {
+   "brand": "TJD(SZ)",
+   "name": "MT_1025QU",
+   "device": "MT_1025QU"
   }
  ],
  "T_101H": [
@@ -244299,6 +244342,13 @@
    "device": "RMX3197"
   }
  ],
+ "RMX3301": [
+  {
+   "brand": "realme",
+   "name": "realme GT 2 Pro",
+   "device": "RED8ACL1"
+  }
+ ],
  "RMX3361": [
   {
    "brand": "realme",
@@ -244409,13 +244459,6 @@
    "brand": "realme",
    "name": "真我GT 2 Pro",
    "device": "RE547F"
-  }
- ],
- "RMX3301": [
-  {
-   "brand": "realme",
-   "name": "真我GT 2 Pro",
-   "device": "RED8ACL1"
   }
  ],
  "RMX3461": [
@@ -244755,6 +244798,13 @@
    "brand": "truvii",
    "name": "Truvii",
    "device": "seocho"
+  }
+ ],
+ "uLesson_Education_Tab": [
+  {
+   "brand": "uLesson",
+   "name": "uLesson_Education_Tab",
+   "device": "uLesson_Education_Tab"
   }
  ],
  "EASY1": [

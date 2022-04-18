@@ -6244,6 +6244,13 @@
    "model": "TK806"
   }
  ],
+ "TK806_EEA": [
+  {
+   "brand": "AEEZO",
+   "device": "TK806_EEA",
+   "model": "TK806_EEA"
+  }
+ ],
  "TP1001": [
   {
    "brand": "AEEZO",
@@ -8044,6 +8051,11 @@
    "brand": "Philco",
    "device": "ikebukuro",
    "model": "AI PONT"
+  },
+  {
+   "brand": "Pioneer",
+   "device": "R2",
+   "model": "ATV R2"
   },
   {
    "brand": "Polaroid",
@@ -35527,6 +35539,13 @@
   },
   {
    "brand": "Oukitel",
+   "device": "C6_Pro",
+   "model": "C6 Pro"
+  }
+ ],
+ "C6 Pro ROW": [
+  {
+   "brand": "CWOWDEFU",
    "device": "C6_Pro",
    "model": "C6 Pro"
   }
@@ -121835,6 +121854,13 @@
    "model": "MT3A"
   }
  ],
+ "OTT Xview+ AV1": [
+  {
+   "brand": "Megacable",
+   "device": "B866V2F",
+   "model": "OTT Xview+ AV1"
+  }
+ ],
  "XView+": [
   {
    "brand": "Megacable",
@@ -139326,6 +139352,13 @@
    "brand": "Oppo",
    "device": "OP4F11L1",
    "model": "CPH2365"
+  }
+ ],
+ "CPH2421": [
+  {
+   "brand": "Oppo",
+   "device": "OP5325",
+   "model": "CPH2421"
   }
  ],
  "F11 Pro": [
@@ -166173,11 +166206,6 @@
    "brand": "Samsung",
    "device": "m53x",
    "model": "SM-M536B"
-  },
-  {
-   "brand": "Samsung",
-   "device": "m53x",
-   "model": "SM-M536S"
   }
  ],
  "Galaxy M62": [
@@ -168282,6 +168310,13 @@
    "brand": "Samsung",
    "device": "a82xq",
    "model": "SM-A826S"
+  }
+ ],
+ "Galaxy Quantum3": [
+  {
+   "brand": "Samsung",
+   "device": "m53x",
+   "model": "SM-M536S"
   }
  ],
  "Galaxy R-Style": [
@@ -184727,6 +184762,13 @@
    "model": "FG50"
   }
  ],
+ "FG60": [
+  {
+   "brand": "Speedata",
+   "device": "FG60",
+   "model": "FG60"
+  }
+ ],
  "FG60 EEA": [
   {
    "brand": "Speedata",
@@ -195769,6 +195811,13 @@
    "brand": "TJD(SZ)",
    "device": "MT-792OF_EEA",
    "model": "MT-792OF"
+  }
+ ],
+ "MT_1025QU": [
+  {
+   "brand": "TJD(SZ)",
+   "device": "MT_1025QU",
+   "model": "MT_1025QU"
   }
  ],
  "T_101H": [
@@ -231579,6 +231628,13 @@
    "model": "RMX3197"
   }
  ],
+ "realme GT 2 Pro": [
+  {
+   "brand": "realme",
+   "device": "RED8ACL1",
+   "model": "RMX3301"
+  }
+ ],
  "realme Pad mini": [
   {
    "brand": "realme",
@@ -231662,11 +231718,6 @@
    "brand": "realme",
    "device": "RE547F",
    "model": "RMX3300"
-  },
-  {
-   "brand": "realme",
-   "device": "RED8ACL1",
-   "model": "RMX3301"
   }
  ],
  "真我GT Neo": [
@@ -232014,6 +232065,13 @@
    "brand": "truvii",
    "device": "seocho",
    "model": "Truvii 4K Android TV"
+  }
+ ],
+ "uLesson_Education_Tab": [
+  {
+   "brand": "uLesson",
+   "device": "uLesson_Education_Tab",
+   "model": "uLesson_Education_Tab"
   }
  ],
  "EASY1": [

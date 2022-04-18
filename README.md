@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-04-17
+Last sync is 2022-04-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -63,6 +63,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AEEZO|TK701_EEA|TK701_EEA|TK701_EEA|
 |AEEZO|TK801|TK801|TK801|
 |AEEZO|TK806|TK806|TK806|
+|AEEZO|TK806_EEA|TK806_EEA|TK806_EEA|
 |AEEZO|TP1001|TP1001|TP1001|
 |AEEZO|TP901|TP901|TP901|
 |AG Mobile|AG BOOST 2|BOOST2|E4010|
@@ -3822,6 +3823,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CWOWDEFU|C10G|C10G|C10G|
 |CWOWDEFU|C6|C6|C6|
 |CWOWDEFU|C6 Pro|C6_Pro|C6 Pro|
+|CWOWDEFU|C6 Pro ROW|C6_Pro|C6 Pro|
 |CWOWDEFU|C73W|C73W|C73W|
 |CWOWDEFU|C73W_EEA|C73W|C73W|
 |CWOWDEFU|C80W|C80W|C80W|
@@ -17644,6 +17646,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MegaFon|MT3A|MT3A|MT3A|
 |Megacable|Mexico|B826C-A12_ZTE|B826C-A12|
 |Megacable|Mexico|B866V2_ZTE|Xview+|
+|Megacable|OTT Xview+ AV1|B866V2F|OTT Xview+ AV1|
 |Megacable|XView+|ucw4046meg|Xview+|
 |Megahouse|CP-D403|CP-D403|CP-D403|
 |Meiigoo|S8|MEIIGOO_S8|S8|
@@ -20609,6 +20612,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|CPH2309|OP52EBL1|CPH2309|
 |Oppo|CPH2325|OP5303|CPH2325|
 |Oppo|CPH2365|OP4F11L1|CPH2365|
+|Oppo|CPH2421|OP5325|CPH2421|
 |Oppo|F11|OP4883|CPH1911|
 |Oppo|F11|OP4883|CPH1913|
 |Oppo|F11|OP4883|CPH1915|
@@ -21770,6 +21774,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Phone Max|S4G|S4G|S4G|
 |Phone Max|X1|X1|X1|
 |Pioneer|AV Receiver|AVH_W4400NEX|Jupiter|
+|Pioneer|Android TV|R2|ATV R2|
 |Pioneer|B.PROカーナビ|AVIC_BX500|jupiter|
 |Pioneer|B.PROカーナビ|AVIC_BZ500|jupiter|
 |Pioneer|Car Navigation|AVIC_W6400NEX|Jupiter|
@@ -25011,7 +25016,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M52 5G|m52xq|SM-M526B|
 |Samsung|Galaxy M52 5G|m52xq|SM-M526BR|
 |Samsung|Galaxy M53 5G|m53x|SM-M536B|
-|Samsung|Galaxy M53 5G|m53x|SM-M536S|
 |Samsung|Galaxy M62|m62|SM-M625F|
 |Samsung|Galaxy Mega 2|mega23g|SM-G750H|
 |Samsung|Galaxy Mega 5.8|crater|GT-I9152|
@@ -25402,6 +25406,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Q|SGH-T589R|SGH-T589R|
 |Samsung|Galaxy Q|SGH-T589W|SGH-T589W|
 |Samsung|Galaxy Quantum2|a82xq|SM-A826S|
+|Samsung|Galaxy Quantum3|m53x|SM-M536S|
 |Samsung|Galaxy R-Style|jaguark|SHV-E170K|
 |Samsung|Galaxy R-Style|jaguarl|SHV-E170L|
 |Samsung|Galaxy R-Style|jaguars|SHV-E170S|
@@ -28238,6 +28243,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Spectralink|Versity|Versity|Versity 9653|
 |Spectralink|Versity 92-Series|VC92|VC9253|
 |Speedata|FG50|FG50|FG50|
+|Speedata|FG60|FG60|FG60|
 |Speedata|FG60 EEA|FG60|FG60|
 |Speedata|SD100|SD100|SD100|
 |Speedmind|AM801|AM801|AM801|
@@ -30214,6 +30220,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TJD(SZ)|MT-790QR_V1|MT-790QR_V1|MT-790QR_V1|
 |TJD(SZ)|MT-790QR_V1_EEA|MT-790QR_V1_EEA|MT-790QR_V1_EEA|
 |TJD(SZ)|MT-792OF_EEA|MT-792OF_EEA|MT-792OF|
+|TJD(SZ)|MT_1025QU|MT_1025QU|MT_1025QU|
 |TKDS|T_101H|T_101H|T_101H|
 |TM Cell|ISWAG KRONOS|ISWAG_KRONOSX|ISWAG KRONOS|
 |TM Cell|LOGIC X50|LOGIC_X50X|LOGIC X50|
@@ -36337,6 +36344,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C25Y|RED8F6|RMX3269|
 |realme|realme C25s|RMX3195|RMX3195|
 |realme|realme C25s|RMX3197|RMX3197|
+|realme|realme GT 2 Pro|RED8ACL1|RMX3301|
 |realme|realme GT 5G|RMX2202L1|RMX2202|
 |realme|realme GT Master Edition|RE507C|RMX3361|
 |realme|realme GT Master Edition|RE54ABL1|RMX3360|
@@ -36364,7 +36372,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|真我GT 2|RE58B2L1|RMX3311|
 |realme|真我GT 2|RE58B2L1|RMX3312|
 |realme|真我GT 2 Pro|RE547F|RMX3300|
-|realme|真我GT 2 Pro|RED8ACL1|RMX3301|
 |realme|真我GT Neo|RMX3031CN|RMX3031|
 |realme|真我Q3s|RE548B|RMX3461|
 |realme|真我Q3s|RE548B|RMX3462|
@@ -36418,6 +36425,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |truevisions|SKWAMX3|HP42F|SKWAMX3|
 |truevisions|STI6030_TRUE_TV_A01|TV_A01|STI6030_TRUE_TV_A01|
 |truvii|Truvii|seocho|Truvii 4K Android TV|
+|uLesson|uLesson_Education_Tab|uLesson_Education_Tab|uLesson_Education_Tab|
 |ucall|EASY1|EASY1|EASY1|
 |unitel|P45|P45|P45|
 |unitel|U901|U901|U901|

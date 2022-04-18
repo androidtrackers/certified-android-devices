@@ -333,6 +333,11 @@
    "model": "TK806"
   },
   {
+   "device": "TK806_EEA",
+   "name": "TK806_EEA",
+   "model": "TK806_EEA"
+  },
+  {
    "device": "TP1001",
    "name": "TP1001",
    "model": "TP1001"
@@ -19767,6 +19772,11 @@
   {
    "device": "C6_Pro",
    "name": "C6 Pro",
+   "model": "C6 Pro"
+  },
+  {
+   "device": "C6_Pro",
+   "name": "C6 Pro ROW",
    "model": "C6 Pro"
   },
   {
@@ -90726,6 +90736,11 @@
    "model": "Xview+"
   },
   {
+   "device": "B866V2F",
+   "name": "OTT Xview+ AV1",
+   "model": "OTT Xview+ AV1"
+  },
+  {
    "device": "ucw4046meg",
    "name": "XView+",
    "model": "Xview+"
@@ -105987,6 +106002,11 @@
    "model": "CPH2365"
   },
   {
+   "device": "OP5325",
+   "name": "CPH2421",
+   "model": "CPH2421"
+  },
+  {
    "device": "OP4883",
    "name": "F11",
    "model": "CPH1911"
@@ -111916,6 +111936,11 @@
    "device": "AVH_W4400NEX",
    "name": "AV Receiver",
    "model": "Jupiter"
+  },
+  {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
   },
   {
    "device": "AVIC_BX500",
@@ -128531,11 +128556,6 @@
    "model": "SM-M536B"
   },
   {
-   "device": "m53x",
-   "name": "Galaxy M53 5G",
-   "model": "SM-M536S"
-  },
-  {
    "device": "m62",
    "name": "Galaxy M62",
    "model": "SM-M625F"
@@ -130484,6 +130504,11 @@
    "device": "a82xq",
    "name": "Galaxy Quantum2",
    "model": "SM-A826S"
+  },
+  {
+   "device": "m53x",
+   "name": "Galaxy Quantum3",
+   "model": "SM-M536S"
   },
   {
    "device": "jaguark",
@@ -144851,6 +144876,11 @@
   },
   {
    "device": "FG60",
+   "name": "FG60",
+   "model": "FG60"
+  },
+  {
+   "device": "FG60",
    "name": "FG60 EEA",
    "model": "FG60"
   },
@@ -154888,6 +154918,11 @@
    "device": "MT-792OF_EEA",
    "name": "MT-792OF_EEA",
    "model": "MT-792OF"
+  },
+  {
+   "device": "MT_1025QU",
+   "name": "MT_1025QU",
+   "model": "MT_1025QU"
   }
  ],
  "TKDS": [
@@ -186543,6 +186578,11 @@
    "model": "RMX3197"
   },
   {
+   "device": "RED8ACL1",
+   "name": "realme GT 2 Pro",
+   "model": "RMX3301"
+  },
+  {
    "device": "RMX2202L1",
    "name": "realme GT 5G",
    "model": "RMX2202"
@@ -186676,11 +186716,6 @@
    "device": "RE547F",
    "name": "真我GT 2 Pro",
    "model": "RMX3300"
-  },
-  {
-   "device": "RED8ACL1",
-   "name": "真我GT 2 Pro",
-   "model": "RMX3301"
   },
   {
    "device": "RMX3031CN",
@@ -186974,6 +187009,13 @@
    "device": "seocho",
    "name": "Truvii",
    "model": "Truvii 4K Android TV"
+  }
+ ],
+ "uLesson": [
+  {
+   "device": "uLesson_Education_Tab",
+   "name": "uLesson_Education_Tab",
+   "model": "uLesson_Education_Tab"
   }
  ],
  "ucall": [

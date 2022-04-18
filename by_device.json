@@ -466,6 +466,13 @@
    "model": "TK806"
   }
  ],
+ "TK806_EEA": [
+  {
+   "brand": "AEEZO",
+   "name": "TK806_EEA",
+   "model": "TK806_EEA"
+  }
+ ],
  "TP1001": [
   {
    "brand": "AEEZO",
@@ -5184,6 +5191,11 @@
    "brand": "Panasonic",
    "name": "Android TV",
    "model": "PANASONIC TV"
+  },
+  {
+   "brand": "Pioneer",
+   "name": "Android TV",
+   "model": "ATV R2"
   },
   {
    "brand": "Polaroid",
@@ -31121,6 +31133,11 @@
   {
    "brand": "CWOWDEFU",
    "name": "C6 Pro",
+   "model": "C6 Pro"
+  },
+  {
+   "brand": "CWOWDEFU",
+   "name": "C6 Pro ROW",
    "model": "C6 Pro"
   },
   {
@@ -120445,6 +120462,13 @@
    "model": "Xview+"
   }
  ],
+ "B866V2F": [
+  {
+   "brand": "Megacable",
+   "name": "OTT Xview+ AV1",
+   "model": "OTT Xview+ AV1"
+  }
+ ],
  "ucw4046meg": [
   {
    "brand": "Megacable",
@@ -139036,6 +139060,13 @@
    "brand": "Oppo",
    "name": "CPH2325",
    "model": "CPH2325"
+  }
+ ],
+ "OP5325": [
+  {
+   "brand": "Oppo",
+   "name": "CPH2421",
+   "model": "CPH2421"
   }
  ],
  "OP4863": [
@@ -166448,7 +166479,7 @@
   },
   {
    "brand": "Samsung",
-   "name": "Galaxy M53 5G",
+   "name": "Galaxy Quantum3",
    "model": "SM-M536S"
   }
  ],
@@ -187185,6 +187216,11 @@
  "FG60": [
   {
    "brand": "Speedata",
+   "name": "FG60",
+   "model": "FG60"
+  },
+  {
+   "brand": "Speedata",
    "name": "FG60 EEA",
    "model": "FG60"
   }
@@ -197848,6 +197884,13 @@
    "brand": "TJD(SZ)",
    "name": "MT-792OF_EEA",
    "model": "MT-792OF"
+  }
+ ],
+ "MT_1025QU": [
+  {
+   "brand": "TJD(SZ)",
+   "name": "MT_1025QU",
+   "model": "MT_1025QU"
   }
  ],
  "T_101H": [
@@ -233995,6 +234038,13 @@
    "model": "RMX3197"
   }
  ],
+ "RED8ACL1": [
+  {
+   "brand": "realme",
+   "name": "realme GT 2 Pro",
+   "model": "RMX3301"
+  }
+ ],
  "RE507C": [
   {
    "brand": "realme",
@@ -234108,13 +234158,6 @@
    "brand": "realme",
    "name": "真我GT 2 Pro",
    "model": "RMX3300"
-  }
- ],
- "RED8ACL1": [
-  {
-   "brand": "realme",
-   "name": "真我GT 2 Pro",
-   "model": "RMX3301"
   }
  ],
  "RMX3031CN": [
@@ -234450,6 +234493,13 @@
    "brand": "truevisions",
    "name": "SKWAMX3",
    "model": "SKWAMX3"
+  }
+ ],
+ "uLesson_Education_Tab": [
+  {
+   "brand": "uLesson",
+   "name": "uLesson_Education_Tab",
+   "model": "uLesson_Education_Tab"
   }
  ],
  "EASY1": [
