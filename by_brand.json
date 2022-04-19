@@ -4786,6 +4786,11 @@
    "model": "Viva_803G"
   },
   {
+   "device": "C1004",
+   "name": "Viva C1004",
+   "model": "C1004"
+  },
+  {
    "device": "Viva_C701",
    "name": "Viva C701",
    "model": "Viva_C701"
@@ -12941,6 +12946,11 @@
    "device": "Bmobile_BL62H",
    "name": "BL62",
    "model": "BL62"
+  },
+  {
+   "device": "Bmobile_BL62_TG",
+   "name": "BL62",
+   "model": "BL62_TG"
   },
   {
    "device": "Bmobile_BL65_OM",
@@ -47275,6 +47285,11 @@
  ],
  "Handheld Group": [
   {
+   "device": "ALGIZ_RT10",
+   "name": "ALGIZ RT10",
+   "model": "ALGIZ_RT10"
+  },
+  {
    "device": "ALGIZ_RT8",
    "name": "ALGIZ RT8",
    "model": "ALGIZ_RT8"
@@ -65496,6 +65511,11 @@
    "model": "Benny10"
   },
   {
+   "device": "BennyM",
+   "name": "BennyM",
+   "model": "BennyM"
+  },
+  {
    "device": "Jade7s",
    "name": "Jade7s",
    "model": "Jade7s"
@@ -66881,6 +66901,11 @@
    "device": "itel_it1703",
    "name": "it1703",
    "model": "itel it1703"
+  },
+  {
+   "device": "itel-A507LN",
+   "name": "itel  A24",
+   "model": "itel A507LN"
   },
   {
    "device": "itel-A507LP",
@@ -79225,6 +79250,16 @@
   }
  ],
  "LP (TN)": [
+  {
+   "device": "LP_Legend",
+   "name": "LP Legend",
+   "model": "LP Legend"
+  },
+  {
+   "device": "LP_N60",
+   "name": "LP_N60",
+   "model": "LP N60"
+  },
   {
    "device": "LP_Pro1",
    "name": "LP_Pro1",
@@ -97218,6 +97253,11 @@
   {
    "device": "hawaiip",
    "name": "moto g22",
+   "model": "Lenovo K15 Plus"
+  },
+  {
+   "device": "hawaiip",
+   "name": "moto g22",
    "model": "moto g22"
   },
   {
@@ -97274,6 +97314,16 @@
    "device": "cypfq",
    "name": "moto g51 5G",
    "model": "moto g51 5G"
+  },
+  {
+   "device": "rhode",
+   "name": "moto g52",
+   "model": "moto g(50)"
+  },
+  {
+   "device": "rhode",
+   "name": "moto g52",
+   "model": "moto g52"
   },
   {
    "device": "jeter",
@@ -113063,6 +113113,11 @@
    "model": "Polaroid 2K Android TV"
   },
   {
+   "device": "kenton",
+   "name": "Polaroid 4K Android TV",
+   "model": "Polaroid 4K Android TV"
+  },
+  {
    "device": "hanyang",
    "name": "Polaroid android TV",
    "model": "Polaroid Android TV"
@@ -118610,6 +118665,13 @@
    "model": "RAINBOW"
   }
  ],
+ "Rakioo": [
+  {
+   "device": "X5",
+   "name": "X5",
+   "model": "X5"
+  }
+ ],
  "Rakuten": [
   {
    "device": "C330",
@@ -119277,11 +119339,6 @@
    "device": "RMX3171",
    "name": "realme narzo 30A",
    "model": "RMX3171"
-  },
-  {
-   "device": "RED8AF",
-   "name": "realme narzo 50A",
-   "model": "RMX3430"
   },
   {
    "device": "RE54C1L1",
@@ -124779,6 +124836,21 @@
    "device": "a53x",
    "name": "Galaxy A53 5G",
    "model": "SM-A536U"
+  },
+  {
+   "device": "a53x",
+   "name": "Galaxy A53 5G",
+   "model": "SM-A536U1"
+  },
+  {
+   "device": "a53x",
+   "name": "Galaxy A53 5G",
+   "model": "SM-A536W"
+  },
+  {
+   "device": "a53x",
+   "name": "Galaxy A53 5G",
+   "model": "SM-S536DL"
   },
   {
    "device": "a53x",
@@ -146692,6 +146764,11 @@
    "model": "V138"
   },
   {
+   "device": "V139",
+   "name": "V139",
+   "model": "V139"
+  },
+  {
    "device": "V140",
    "name": "V140",
    "model": "V140"
@@ -162640,6 +162717,11 @@
    "device": "VIMOQ-A507LE",
    "name": "VIMOQ V51 LTE",
    "model": "VIMOQ A507LE"
+  },
+  {
+   "device": "VIMOQ-A512WS",
+   "name": "itel A18",
+   "model": "VIMOQ A512WS"
   }
  ],
  "VIPER": [
@@ -165173,6 +165255,13 @@
    "device": "vsi8q_1_coho",
    "name": "ViewPadi8Q",
    "model": "vsi8q_1_coho"
+  }
+ ],
+ "Virse": [
+  {
+   "device": "E95",
+   "name": "E95",
+   "model": "E95"
   }
  ],
  "Virzo": [
@@ -181200,6 +181289,11 @@
    "device": "P618F06",
    "name": "ZTE 9045",
    "model": "ZTE 9045"
+  },
+  {
+   "device": "P618F06",
+   "name": "ZTE 9045RU",
+   "model": "ZTE 9045RU"
   },
   {
    "device": "P618F07",

@@ -8291,6 +8291,13 @@
    "device": "Viva_803G"
   }
  ],
+ "C1004": [
+  {
+   "brand": "AllView",
+   "name": "Viva C1004",
+   "device": "C1004"
+  }
+ ],
  "Viva_C701": [
   {
    "brand": "AllView",
@@ -19534,6 +19541,13 @@
    "device": "Bmobile_BL62H"
   }
  ],
+ "BL62_TG": [
+  {
+   "brand": "BMobile",
+   "name": "BL62",
+   "device": "Bmobile_BL62_TG"
+  }
+ ],
  "BL65_OM": [
   {
    "brand": "BMobile",
@@ -29033,6 +29047,11 @@
    "brand": "KGTEL",
    "name": "X5",
    "device": "X5A"
+  },
+  {
+   "brand": "Rakioo",
+   "name": "X5",
+   "device": "X5"
   },
   {
    "brand": "SPC Mobile",
@@ -66231,6 +66250,13 @@
    "device": "Energy_2_2022"
   }
  ],
+ "ALGIZ_RT10": [
+  {
+   "brand": "Handheld Group",
+   "name": "ALGIZ RT10",
+   "device": "ALGIZ_RT10"
+  }
+ ],
  "ALGIZ_RT8": [
   {
    "brand": "Handheld Group",
@@ -89918,6 +89944,13 @@
    "device": "Benny10"
   }
  ],
+ "BennyM": [
+  {
+   "brand": "Ipro",
+   "name": "BennyM",
+   "device": "BennyM"
+  }
+ ],
  "Jade7s": [
   {
    "brand": "Ipro",
@@ -91836,6 +91869,13 @@
    "brand": "Itel",
    "name": "it1703",
    "device": "itel_it1703"
+  }
+ ],
+ "itel A507LN": [
+  {
+   "brand": "Itel",
+   "name": "itel  A24",
+   "device": "itel-A507LN"
   }
  ],
  "itel A507LP": [
@@ -107783,6 +107823,20 @@
    "brand": "LOOQS",
    "name": "L108MR",
    "device": "L108MR"
+  }
+ ],
+ "LP Legend": [
+  {
+   "brand": "LP (TN)",
+   "name": "LP Legend",
+   "device": "LP_Legend"
+  }
+ ],
+ "LP N60": [
+  {
+   "brand": "LP (TN)",
+   "name": "LP_N60",
+   "device": "LP_N60"
   }
  ],
  "LP_Pro1": [
@@ -130731,6 +130785,11 @@
   },
   {
    "brand": "Motorola",
+   "name": "moto g52",
+   "device": "rhode"
+  },
+  {
+   "brand": "Motorola",
    "name": "moto g71 5G",
    "device": "corfur"
   }
@@ -131018,6 +131077,13 @@
    "device": "pstar"
   }
  ],
+ "Lenovo K15 Plus": [
+  {
+   "brand": "Motorola",
+   "name": "moto g22",
+   "device": "hawaiip"
+  }
+ ],
  "moto g22": [
   {
    "brand": "Motorola",
@@ -131072,6 +131138,13 @@
    "brand": "Motorola",
    "name": "moto g51 5G",
    "device": "cypfq"
+  }
+ ],
+ "moto g52": [
+  {
+   "brand": "Motorola",
+   "name": "moto g52",
+   "device": "rhode"
   }
  ],
  "moto g71 5G": [
@@ -150628,6 +150701,11 @@
    "brand": "Polaroid",
    "name": "Polaroid",
    "device": "bangbae"
+  },
+  {
+   "brand": "Polaroid",
+   "name": "Polaroid 4K Android TV",
+   "device": "kenton"
   }
  ],
  "POLA-TVE19K": [
@@ -158665,18 +158743,6 @@
    "device": "RMX3171"
   }
  ],
- "RMX3430": [
-  {
-   "brand": "Realme",
-   "name": "realme narzo 50A",
-   "device": "RED8AF"
-  },
-  {
-   "brand": "realme",
-   "name": "realme narzo 50A",
-   "device": "RED8AF"
-  }
- ],
  "RMP2103": [
   {
    "brand": "Realme",
@@ -165725,6 +165791,27 @@
   }
  ],
  "SM-A536U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A53 5G",
+   "device": "a53x"
+  }
+ ],
+ "SM-A536U1": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A53 5G",
+   "device": "a53x"
+  }
+ ],
+ "SM-A536W": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A53 5G",
+   "device": "a53x"
+  }
+ ],
+ "SM-S536DL": [
   {
    "brand": "Samsung",
    "name": "Galaxy A53 5G",
@@ -194345,6 +194432,11 @@
    "brand": "Symphony",
    "name": "E95",
    "device": "E95"
+  },
+  {
+   "brand": "Virse",
+   "name": "E95",
+   "device": "E95"
   }
  ],
  "Symphony G10": [
@@ -194576,6 +194668,13 @@
    "brand": "Symphony",
    "name": "V138",
    "device": "V138"
+  }
+ ],
+ "V139": [
+  {
+   "brand": "Symphony",
+   "name": "V139",
+   "device": "V139"
   }
  ],
  "V140": [
@@ -214825,6 +214924,13 @@
    "brand": "VIMOQ",
    "name": "VIMOQ V51 LTE",
    "device": "VIMOQ-A507LE"
+  }
+ ],
+ "VIMOQ A512WS": [
+  {
+   "brand": "VIMOQ",
+   "name": "itel A18",
+   "device": "VIMOQ-A512WS"
   }
  ],
  "Z08MK": [
@@ -238441,6 +238547,13 @@
    "device": "P618F06"
   }
  ],
+ "ZTE 9045RU": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE 9045RU",
+   "device": "P618F06"
+  }
+ ],
  "ZTE 9046": [
   {
    "brand": "ZTE",
@@ -244410,6 +244523,13 @@
    "brand": "realme",
    "name": "realme narzo 20 Pro",
    "device": "RMX2161L1"
+  }
+ ],
+ "RMX3430": [
+  {
+   "brand": "realme",
+   "name": "realme narzo 50A",
+   "device": "RED8AF"
   }
  ],
  "RMX3235": [

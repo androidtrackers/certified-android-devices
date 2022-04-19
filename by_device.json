@@ -9934,6 +9934,13 @@
    "model": "Viva_803G"
   }
  ],
+ "C1004": [
+  {
+   "brand": "AllView",
+   "name": "Viva C1004",
+   "model": "C1004"
+  }
+ ],
  "Viva_C701": [
   {
    "brand": "AllView",
@@ -21905,6 +21912,13 @@
    "brand": "BMobile",
    "name": "BL62",
    "model": "BL62"
+  }
+ ],
+ "Bmobile_BL62_TG": [
+  {
+   "brand": "BMobile",
+   "name": "BL62",
+   "model": "BL62_TG"
   }
  ],
  "Bmobile_BL65_OM": [
@@ -67887,6 +67901,13 @@
    "model": "Hammer_Energy_2_2022"
   }
  ],
+ "ALGIZ_RT10": [
+  {
+   "brand": "Handheld Group",
+   "name": "ALGIZ RT10",
+   "model": "ALGIZ_RT10"
+  }
+ ],
  "ALGIZ_RT8": [
   {
    "brand": "Handheld Group",
@@ -89142,6 +89163,13 @@
    "model": "Benny10"
   }
  ],
+ "BennyM": [
+  {
+   "brand": "Ipro",
+   "name": "BennyM",
+   "model": "BennyM"
+  }
+ ],
  "Jade7s": [
   {
    "brand": "Ipro",
@@ -91060,6 +91088,13 @@
    "brand": "Itel",
    "name": "it1703",
    "model": "itel it1703"
+  }
+ ],
+ "itel-A507LN": [
+  {
+   "brand": "Itel",
+   "name": "itel  A24",
+   "model": "itel A507LN"
   }
  ],
  "itel-A507LP": [
@@ -93280,6 +93315,11 @@
    "brand": "KONKA",
    "name": "KONKA 4K Android TV",
    "model": "KONKA 4K Android TV"
+  },
+  {
+   "brand": "Polaroid",
+   "name": "Polaroid 4K Android TV",
+   "model": "Polaroid 4K Android TV"
   }
  ],
  "N15": [
@@ -105623,6 +105663,20 @@
    "brand": "LOOQS",
    "name": "L108MR",
    "model": "L108MR"
+  }
+ ],
+ "LP_Legend": [
+  {
+   "brand": "LP (TN)",
+   "name": "LP Legend",
+   "model": "LP Legend"
+  }
+ ],
+ "LP_N60": [
+  {
+   "brand": "LP (TN)",
+   "name": "LP_N60",
+   "model": "LP N60"
   }
  ],
  "LP_Pro1": [
@@ -128539,6 +128593,11 @@
   {
    "brand": "Motorola",
    "name": "moto g22",
+   "model": "Lenovo K15 Plus"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g22",
    "model": "moto g22"
   }
  ],
@@ -128586,6 +128645,18 @@
    "brand": "Motorola",
    "name": "moto g51 5G",
    "model": "moto g51 5G"
+  }
+ ],
+ "rhode": [
+  {
+   "brand": "Motorola",
+   "name": "moto g52",
+   "model": "moto g(50)"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g52",
+   "model": "moto g52"
   }
  ],
  "corfur": [
@@ -154382,6 +154453,33 @@
    "model": "RAINBOW"
   }
  ],
+ "X5": [
+  {
+   "brand": "Rakioo",
+   "name": "X5",
+   "model": "X5"
+  },
+  {
+   "brand": "SPC Mobile",
+   "name": "X5",
+   "model": "X5"
+  },
+  {
+   "brand": "Selfix",
+   "name": "X5",
+   "model": "X5"
+  },
+  {
+   "brand": "Stylo",
+   "name": "X5",
+   "model": "X5"
+  },
+  {
+   "brand": "Vivo",
+   "name": "X5",
+   "model": "vivo X5"
+  }
+ ],
  "C330": [
   {
    "brand": "Rakuten",
@@ -155339,18 +155437,6 @@
    "brand": "realme",
    "name": "realme narzo 30A",
    "model": "RMX3171"
-  }
- ],
- "RED8AF": [
-  {
-   "brand": "Realme",
-   "name": "realme narzo 50A",
-   "model": "RMX3430"
-  },
-  {
-   "brand": "realme",
-   "name": "realme narzo 50A",
-   "model": "RMX3430"
   }
  ],
  "RE50C1": [
@@ -158442,28 +158528,6 @@
    "brand": "SPC Mobile",
    "name": "X3",
    "model": "X3"
-  }
- ],
- "X5": [
-  {
-   "brand": "SPC Mobile",
-   "name": "X5",
-   "model": "X5"
-  },
-  {
-   "brand": "Selfix",
-   "name": "X5",
-   "model": "X5"
-  },
-  {
-   "brand": "Stylo",
-   "name": "X5",
-   "model": "X5"
-  },
-  {
-   "brand": "Vivo",
-   "name": "X5",
-   "model": "vivo X5"
   }
  ],
  "Blink_10_1": [
@@ -161683,6 +161747,21 @@
    "brand": "Samsung",
    "name": "Galaxy A53 5G",
    "model": "SM-A536U"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A53 5G",
+   "model": "SM-A536U1"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A53 5G",
+   "model": "SM-A536W"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A53 5G",
+   "model": "SM-S536DL"
   },
   {
    "brand": "Samsung",
@@ -189047,6 +189126,11 @@
    "brand": "Symphony",
    "name": "E95",
    "model": "E95"
+  },
+  {
+   "brand": "Virse",
+   "name": "E95",
+   "model": "E95"
   }
  ],
  "G10plus": [
@@ -189257,6 +189341,13 @@
    "brand": "Symphony",
    "name": "V138",
    "model": "V138"
+  }
+ ],
+ "V139": [
+  {
+   "brand": "Symphony",
+   "name": "V139",
+   "model": "V139"
   }
  ],
  "V140": [
@@ -206829,6 +206920,13 @@
    "brand": "VIMOQ",
    "name": "VIMOQ V51 LTE",
    "model": "VIMOQ A507LE"
+  }
+ ],
+ "VIMOQ-A512WS": [
+  {
+   "brand": "VIMOQ",
+   "name": "itel A18",
+   "model": "VIMOQ A512WS"
   }
  ],
  "VIPER-Z08MK": [
@@ -228399,6 +228497,11 @@
    "brand": "ZTE",
    "name": "ZTE 9045",
    "model": "ZTE 9045"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE 9045RU",
+   "model": "ZTE 9045RU"
   }
  ],
  "P618F07": [
@@ -234111,6 +234214,13 @@
    "brand": "realme",
    "name": "realme narzo 20 Pro",
    "model": "RMX2161"
+  }
+ ],
+ "RED8AF": [
+  {
+   "brand": "realme",
+   "name": "realme narzo 50A",
+   "model": "RMX3430"
   }
  ],
  "RED8FA": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-04-18
+Last sync is 2022-04-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -916,6 +916,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AllView|Viva 1003G Lite|Viva_1003G_Lite|Viva_1003G_Lite|
 |AllView|Viva 1003G Lite|Viva_1003G_Lite_Q|Viva_1003G_Lite|
 |AllView|Viva 803G|Viva_803G|Viva_803G|
+|AllView|Viva C1004|C1004|C1004|
 |AllView|Viva C701|Viva_C701|Viva_C701|
 |AllView|Viva C702|Viva_C702|Viva_C702|
 |AllView|Viva C703|Viva_C703|Viva_C703|
@@ -2509,6 +2510,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|BL60_TG17|Bmobile_BL60_TG17|BL60_TG17|
 |BMobile|BL61|Bmobile_BL61_MV05|BL61|
 |BMobile|BL62|Bmobile_BL62H|BL62|
+|BMobile|BL62|Bmobile_BL62_TG|BL62_TG|
 |BMobile|BL65|Bmobile_BL65_OM|BL65_OM|
 |BMobile|Bella|Bella|Bella|
 |BMobile|Bmbile AX687|Bmobile_AX687|AX687|
@@ -9123,6 +9125,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hammer|Hammer Explorer Plus|Explorer_Plus|Hammer_Explorer_Plus|
 |Hammer|Hammer Explorer Pro|Hammer_Expl_Pro|Hammer_Explorer_Pro|
 |Hammer|Hammer_Energy_2_2022|Energy_2_2022|Hammer_Energy_2_2022|
+|Handheld Group|ALGIZ RT10|ALGIZ_RT10|ALGIZ_RT10|
 |Handheld Group|ALGIZ RT8|ALGIZ_RT8|ALGIZ_RT8|
 |Handheld Group|Algiz RT7|algizRT7|Algiz RT7|
 |Handheld Group|HandHeld NAUTIZ X2|NAUTIZ_X2|NAUTIZ_X2|
@@ -12716,6 +12719,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ipro|BEQUE7S|BEQUE7S|BEQUE7S|
 |Ipro|Benny|Benny|Benny|
 |Ipro|Benny10|Benny10|Benny10|
+|Ipro|BennyM|BennyM|BennyM|
 |Ipro|Jade7s|Jade7s|Jade7s|
 |Ipro|Jade8S|Jade8S|Jade8S|
 |Ipro|KYLIN40|KYLIN40|KYLIN40|
@@ -12991,6 +12995,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|it1655S|itel_it1655S|itel it1655S|
 |Itel|it1702|itel_it1702|itel it1702|
 |Itel|it1703|itel_it1703|itel it1703|
+|Itel|itel  A24|itel-A507LN|itel A507LN|
 |Itel|itel  V51 LTE|itel-A507LP|itel A507LP|
 |Itel|itel 4K TV|SW4H|itel 4K TV|
 |Itel|itel A11|itel_A11|itel A11|
@@ -15404,6 +15409,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LOOQS|F102-EEA|F102-EEA|F102-EEA|
 |LOOQS|F102-T610P-EEA|F102-T610P-EEA|F102-T610P-EEA|
 |LOOQS|L108MR|L108MR|L108MR|
+|LP (TN)|LP Legend|LP_Legend|LP Legend|
+|LP (TN)|LP_N60|LP_N60|LP N60|
 |LP (TN)|LP_Pro1|LP_Pro1|LP_Pro1|
 |LP (TN)|LP_T70|LP_T70|LP_T70|
 |LP (TN)|LP_T70_Lite|LP_T70_Lite|LP_T70_Lite|
@@ -18920,6 +18927,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g10 power|capri|moto g(10) power|
 |Motorola|moto g200 5G|xpeng|moto g200 5G|
 |Motorola|moto g200 5G|xpeng|motorola edge 20 pro|
+|Motorola|moto g22|hawaiip|Lenovo K15 Plus|
 |Motorola|moto g22|hawaiip|moto g22|
 |Motorola|moto g31|cofud|moto g31(w)|
 |Motorola|moto g31|cofud|motorola|
@@ -18932,6 +18940,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g51|cypfq|moto[SPACE]g(50)|
 |Motorola|moto g51 5G|cypfq|moto g(50)|
 |Motorola|moto g51 5G|cypfq|moto g51 5G|
+|Motorola|moto g52|rhode|moto g(50)|
+|Motorola|moto g52|rhode|moto g52|
 |Motorola|moto g6 play|jeter|Moto G Play|
 |Motorola|moto g6 play|jeter|moto g(6) play|
 |Motorola|moto g60|hanoip|moto g(60)|
@@ -21991,6 +22001,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Polaroid|Polaroid|bangbae|Polaroid 4K Android TV|
 |Polaroid|Polaroid|ewha|POLA-TVE19K|
 |Polaroid|Polaroid|komagome|Polaroid 2K Android TV|
+|Polaroid|Polaroid 4K Android TV|kenton|Polaroid 4K Android TV|
 |Polaroid|Polaroid android TV|hanyang|Polaroid Android TV|
 |Polaroid|SIGMA 5|SIGMA-5|SIGMA-5|
 |Polaroid|SMX4K|GMP|SMX4K|
@@ -23072,6 +23083,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RVP(AB)|RVPVK808|RVPVK808|RVPVK808|
 |Radger|IMP-F01K|IMP-F01K|IMP-F01K|
 |Rainbow|WIKO|s5501|RAINBOW|
+|Rakioo|X5|X5|X5|
 |Rakuten|C330|C330|C330|
 |Rakuten|Rakuten BIG s|gaea|3917JR|
 |Rakuten|Rakuten Hand|P710|P710|
@@ -23203,7 +23215,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme narzo 30|RMX2156L1|RMX2156|
 |Realme|realme narzo 30 5G|RE513CL1|RMX3242|
 |Realme|realme narzo 30A|RMX3171|RMX3171|
-|Realme|realme narzo 50A|RED8AF|RMX3430|
 |Realme|realme pad|RE54C1L1|RMP2103|
 |Realme|realme 7i|RE50C1|RMX2103|
 |Realme|realme 7i|RE50C1|RMX2104|
@@ -24261,6 +24272,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A53 5G|a53x|SM-A536E|
 |Samsung|Galaxy A53 5G|a53x|SM-A536N|
 |Samsung|Galaxy A53 5G|a53x|SM-A536U|
+|Samsung|Galaxy A53 5G|a53x|SM-A536U1|
+|Samsung|Galaxy A53 5G|a53x|SM-A536W|
+|Samsung|Galaxy A53 5G|a53x|SM-S536DL|
 |Samsung|Galaxy A53 5G UW|a53x|SM-A536V|
 |Samsung|Galaxy A6|a6elteaio|SM-A600AZ|
 |Samsung|Galaxy A6|a6elteatt|SM-A600A|
@@ -28588,6 +28602,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|V130|V130|V130|
 |Symphony|V136|V136|V136|
 |Symphony|V138|V138|V138|
+|Symphony|V139|V139|V139|
 |Symphony|V140|V140|V140|
 |Symphony|V141|V141|V141|
 |Symphony|V142|V142|V142|
@@ -31684,6 +31699,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VIMOQ|VIMOQ  AC50|VIMOQ-A507LD|VIMOQ A507LD|
 |VIMOQ|VIMOQ A507LT|VIMOQ-A507LT|VIMOQ A507LT|
 |VIMOQ|VIMOQ V51 LTE|VIMOQ-A507LE|VIMOQ A507LE|
+|VIMOQ|itel A18|VIMOQ-A512WS|VIMOQ A512WS|
 |VIPER|VIPER-Z08MK|VIPER-Z08MK|Z08MK|
 |VISIO|VISIO 4K Android TV|SW4H|VISIO 4K Android TV|
 |VISIO|VISIO TV|shinagawa|VISIO TV|
@@ -32173,6 +32189,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ViewSonic|ViewPadi7Q|vsi7q_1_coho|vsi7q_1_coho|
 |ViewSonic|ViewPadi8Q|vsi8q_1_coho|vsi8q_1|
 |ViewSonic|ViewPadi8Q|vsi8q_1_coho|vsi8q_1_coho|
+|Virse|E95|E95|E95|
 |Virzo|V501C|V501C|V501C|
 |Virzo|V505c|V505c|V505c|
 |Virzo|V511|V511|V511|
@@ -35318,6 +35335,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE 9030RU|P618F05|ZTE 9030RU|
 |ZTE|ZTE 9040N|P653S11|ZTE 9040N|
 |ZTE|ZTE 9045|P618F06|ZTE 9045|
+|ZTE|ZTE 9045RU|P618F06|ZTE 9045RU|
 |ZTE|ZTE 9046|P618F07|ZTE 9046|
 |ZTE|ZTE 9100N|P633F05|ZTE 9100N|
 |ZTE|ZTE A0616|P637S15|ZTE A0616|
