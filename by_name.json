@@ -78946,6 +78946,13 @@
    "model": "ANY-NX1"
   }
  ],
+ "HONOR Magic4 Lite": [
+  {
+   "brand": "Honor",
+   "device": "HNANY-Q1",
+   "model": "ANY-LX1"
+  }
+ ],
  "HONOR X7": [
   {
    "brand": "Honor",
@@ -139749,6 +139756,13 @@
    "model": "PEDM00"
   }
  ],
+ "Find X5": [
+  {
+   "brand": "Oppo",
+   "device": "OP52D5L1",
+   "model": "CPH2307"
+  }
+ ],
  "Find X5 Pro": [
   {
    "brand": "Oppo",
@@ -159006,18 +159020,74 @@
    "model": "BE_ets"
   }
  ],
+ "GRAVITY-2": [
+  {
+   "brand": "SPC",
+   "device": "GRAVITY-2",
+   "model": "GRAVITY 2"
+  }
+ ],
+ "GRAVITY-PRO-2": [
+  {
+   "brand": "SPC",
+   "device": "GRAVITY-PRO-2",
+   "model": "GRAVITY PRO 2"
+  }
+ ],
+ "GRAVITY-SE": [
+  {
+   "brand": "SPC",
+   "device": "GRAVITY-SE",
+   "model": "GRAVITY SE"
+  }
+ ],
+ "GRAVITY-ULTIMATE-2": [
+  {
+   "brand": "SPC",
+   "device": "GRAVITY-ULTIMATE-2",
+   "model": "GRAVITY ULTIMATE 2"
+  }
+ ],
+ "GRAVITY_3": [
+  {
+   "brand": "SPC",
+   "device": "GRAVITY_3",
+   "model": "GRAVITY_3"
+  }
+ ],
+ "GRAVITY_3_SE": [
+  {
+   "brand": "SPC",
+   "device": "GRAVITY_3_SE",
+   "model": "GRAVITY_3_SE"
+  }
+ ],
+ "Gravity_Max_EEA": [
+  {
+   "brand": "SPC",
+   "device": "Gravity_Max",
+   "model": "Gravity Max"
+  }
+ ],
+ "LIGHTYEAR-2": [
+  {
+   "brand": "SPC",
+   "device": "LIGHTYEAR-2",
+   "model": "LIGHTYEAR 2"
+  }
+ ],
+ "LIGHTYEAR-PRO-2": [
+  {
+   "brand": "SPC",
+   "device": "LIGHTYEAR-PRO-2",
+   "model": "LIGHTYEAR PRO 2"
+  }
+ ],
  "APOLO": [
   {
    "brand": "SPC Mobile",
    "device": "APOLO",
    "model": "APOLO"
-  }
- ],
- "GRAVITY-2": [
-  {
-   "brand": "SPC Mobile",
-   "device": "GRAVITY-2",
-   "model": "GRAVITY 2"
   }
  ],
  "GRAVITY-2-MAX": [
@@ -159027,39 +159097,11 @@
    "model": "GRAVITY-2-MAX"
   }
  ],
- "GRAVITY-PRO-2": [
-  {
-   "brand": "SPC Mobile",
-   "device": "GRAVITY-PRO-2",
-   "model": "GRAVITY PRO 2"
-  }
- ],
- "GRAVITY-SE": [
-  {
-   "brand": "SPC Mobile",
-   "device": "GRAVITY-SE",
-   "model": "GRAVITY SE"
-  }
- ],
- "GRAVITY-ULTIMATE-2": [
-  {
-   "brand": "SPC Mobile",
-   "device": "GRAVITY-ULTIMATE-2",
-   "model": "GRAVITY ULTIMATE 2"
-  }
- ],
  "GRAVITY2-4G": [
   {
    "brand": "SPC Mobile",
    "device": "GRAVITY2-4G",
    "model": "GRAVITY2-4G"
-  }
- ],
- "GRAVITY_3": [
-  {
-   "brand": "SPC Mobile",
-   "device": "GRAVITY_3",
-   "model": "GRAVITY_3"
   }
  ],
  "GRAVITY_3G_2019_eea": [
@@ -159081,20 +159123,6 @@
    "brand": "SPC Mobile",
    "device": "GRAVITY_3_PRO",
    "model": "GRAVITY 3 PRO"
-  }
- ],
- "GRAVITY_3_SE": [
-  {
-   "brand": "SPC Mobile",
-   "device": "GRAVITY_3_SE",
-   "model": "GRAVITY_3_SE"
-  }
- ],
- "Gravity_Max_EEA": [
-  {
-   "brand": "SPC Mobile",
-   "device": "Gravity_Max",
-   "model": "Gravity Max"
   }
  ],
  "L100": [
@@ -159214,20 +159242,6 @@
    "brand": "SPC Mobile",
    "device": "L80_S",
    "model": "L80_S"
-  }
- ],
- "LIGHTYEAR-2": [
-  {
-   "brand": "SPC Mobile",
-   "device": "LIGHTYEAR-2",
-   "model": "LIGHTYEAR 2"
-  }
- ],
- "LIGHTYEAR-PRO-2": [
-  {
-   "brand": "SPC Mobile",
-   "device": "LIGHTYEAR-PRO-2",
-   "model": "LIGHTYEAR PRO 2"
   }
  ],
  "LIGHTYEAR2-4G": [
@@ -209632,11 +209646,6 @@
    "brand": "Vivo",
    "device": "2131",
    "model": "V2131"
-  },
-  {
-   "brand": "Vivo",
-   "device": "2131",
-   "model": "V2140"
   }
  ],
  "V2131A": [
@@ -209686,11 +209695,6 @@
    "brand": "Vivo",
    "device": "2135",
    "model": "V2135"
-  },
-  {
-   "brand": "Vivo",
-   "device": "2135",
-   "model": "V2146"
   }
  ],
  "V2135A": [
@@ -209719,6 +209723,13 @@
    "brand": "Vivo",
    "device": "2120",
    "model": "V2139"
+  }
+ ],
+ "V2140": [
+  {
+   "brand": "Vivo",
+   "device": "2131",
+   "model": "V2140"
   }
  ],
  "V2140A": [
@@ -217764,6 +217775,13 @@
   {
    "brand": "Xiaomi",
    "device": "mona",
+   "model": "2109119BC"
+  }
+ ],
+ "Xiaomi Civi 1S": [
+  {
+   "brand": "Xiaomi",
+   "device": "zijin",
    "model": "2109119BC"
   }
  ],
@@ -231960,6 +231978,16 @@
    "brand": "realme",
    "device": "RE549C",
    "model": "RMX3501"
+  },
+  {
+   "brand": "realme",
+   "device": "RE549C",
+   "model": "RMX3502"
+  },
+  {
+   "brand": "realme",
+   "device": "RE549C",
+   "model": "RMX3503"
   }
  ],
  "realme C35": [
@@ -231967,6 +231995,16 @@
    "brand": "realme",
    "device": "RE87BAL1",
    "model": "RMX3511"
+  },
+  {
+   "brand": "realme",
+   "device": "RE87BAL1",
+   "model": "RMX3512"
+  },
+  {
+   "brand": "realme",
+   "device": "RE87BAL1",
+   "model": "RMX3513"
   }
  ],
  "realme GT 2 Pro": [
@@ -232035,6 +232073,11 @@
    "brand": "realme",
    "device": "RE54D8L1",
    "model": "RMX3516"
+  },
+  {
+   "brand": "realme",
+   "device": "RE54D8L1",
+   "model": "RMX3517"
   }
  ],
  "realme narzo 50i": [

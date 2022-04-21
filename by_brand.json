@@ -52521,6 +52521,11 @@
    "model": "ANY-NX1"
   },
   {
+   "device": "HNANY-Q1",
+   "name": "HONOR Magic4 Lite",
+   "model": "ANY-LX1"
+  },
+  {
    "device": "HNCMA-Q",
    "name": "HONOR X7",
    "model": "CMA-LX1"
@@ -106338,6 +106343,11 @@
    "model": "PEDM00"
   },
   {
+   "device": "OP52D5L1",
+   "name": "Find X5",
+   "model": "CPH2307"
+  },
+  {
    "device": "OP52D1L1",
    "name": "Find X5 Pro",
    "model": "CPH2305"
@@ -121978,21 +121988,11 @@
    "model": "SOSMART_T5"
   }
  ],
- "SPC Mobile": [
-  {
-   "device": "APOLO",
-   "name": "APOLO",
-   "model": "APOLO"
-  },
+ "SPC": [
   {
    "device": "GRAVITY-2",
    "name": "GRAVITY-2",
    "model": "GRAVITY 2"
-  },
-  {
-   "device": "GRAVITY-2-MAX",
-   "name": "GRAVITY-2-MAX",
-   "model": "GRAVITY-2-MAX"
   },
   {
    "device": "GRAVITY-PRO-2",
@@ -122010,14 +122010,46 @@
    "model": "GRAVITY ULTIMATE 2"
   },
   {
-   "device": "GRAVITY2-4G",
-   "name": "GRAVITY2-4G",
-   "model": "GRAVITY2-4G"
-  },
-  {
    "device": "GRAVITY_3",
    "name": "GRAVITY_3",
    "model": "GRAVITY_3"
+  },
+  {
+   "device": "GRAVITY_3_SE",
+   "name": "GRAVITY_3_SE",
+   "model": "GRAVITY_3_SE"
+  },
+  {
+   "device": "Gravity_Max",
+   "name": "Gravity_Max_EEA",
+   "model": "Gravity Max"
+  },
+  {
+   "device": "LIGHTYEAR-2",
+   "name": "LIGHTYEAR-2",
+   "model": "LIGHTYEAR 2"
+  },
+  {
+   "device": "LIGHTYEAR-PRO-2",
+   "name": "LIGHTYEAR-PRO-2",
+   "model": "LIGHTYEAR PRO 2"
+  }
+ ],
+ "SPC Mobile": [
+  {
+   "device": "APOLO",
+   "name": "APOLO",
+   "model": "APOLO"
+  },
+  {
+   "device": "GRAVITY-2-MAX",
+   "name": "GRAVITY-2-MAX",
+   "model": "GRAVITY-2-MAX"
+  },
+  {
+   "device": "GRAVITY2-4G",
+   "name": "GRAVITY2-4G",
+   "model": "GRAVITY2-4G"
   },
   {
    "device": "GRAVITY_3G",
@@ -122033,16 +122065,6 @@
    "device": "GRAVITY_3_PRO",
    "name": "GRAVITY_3_PRO",
    "model": "GRAVITY 3 PRO"
-  },
-  {
-   "device": "GRAVITY_3_SE",
-   "name": "GRAVITY_3_SE",
-   "model": "GRAVITY_3_SE"
-  },
-  {
-   "device": "Gravity_Max",
-   "name": "Gravity_Max_EEA",
-   "model": "Gravity Max"
   },
   {
    "device": "L100",
@@ -122148,16 +122170,6 @@
    "device": "L80_S",
    "name": "L80_S",
    "model": "L80_S"
-  },
-  {
-   "device": "LIGHTYEAR-2",
-   "name": "LIGHTYEAR-2",
-   "model": "LIGHTYEAR 2"
-  },
-  {
-   "device": "LIGHTYEAR-PRO-2",
-   "name": "LIGHTYEAR-PRO-2",
-   "model": "LIGHTYEAR PRO 2"
   },
   {
    "device": "LIGHTYEAR2-4G",
@@ -166696,11 +166708,6 @@
    "model": "V2131"
   },
   {
-   "device": "2131",
-   "name": "V2131",
-   "model": "V2140"
-  },
-  {
    "device": "PD2131",
    "name": "V2131A",
    "model": "V2131A"
@@ -166736,11 +166743,6 @@
    "model": "V2135"
   },
   {
-   "device": "2135",
-   "name": "V2135",
-   "model": "V2146"
-  },
-  {
    "device": "PD2133",
    "name": "V2135A",
    "model": "V2135A"
@@ -166759,6 +166761,11 @@
    "device": "2120",
    "name": "V2139",
    "model": "V2139"
+  },
+  {
+   "device": "2131",
+   "name": "V2140",
+   "model": "V2140"
   },
   {
    "device": "PD2140",
@@ -173616,6 +173623,11 @@
   {
    "device": "mona",
    "name": "Xiaomi Civi",
+   "model": "2109119BC"
+  },
+  {
+   "device": "zijin",
+   "name": "Xiaomi Civi 1S",
    "model": "2109119BC"
   },
   {
@@ -186861,9 +186873,29 @@
    "model": "RMX3501"
   },
   {
+   "device": "RE549C",
+   "name": "realme C31",
+   "model": "RMX3502"
+  },
+  {
+   "device": "RE549C",
+   "name": "realme C31",
+   "model": "RMX3503"
+  },
+  {
    "device": "RE87BAL1",
    "name": "realme C35",
    "model": "RMX3511"
+  },
+  {
+   "device": "RE87BAL1",
+   "name": "realme C35",
+   "model": "RMX3512"
+  },
+  {
+   "device": "RE87BAL1",
+   "name": "realme C35",
+   "model": "RMX3513"
   },
   {
    "device": "RED8ACL1",
@@ -186969,6 +187001,11 @@
    "device": "RE54D8L1",
    "name": "realme narzo 50A Prime",
    "model": "RMX3516"
+  },
+  {
+   "device": "RE54D8L1",
+   "name": "realme narzo 50A Prime",
+   "model": "RMX3517"
   },
   {
    "device": "RED8FA",

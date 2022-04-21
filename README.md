@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-04-20
+Last sync is 2022-04-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10157,6 +10157,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR 50 Lite|HNNTN|NTN-LX3|
 |Honor|HONOR 50 lite|HNNTN|NTN-L22|
 |Honor|HONOR Magic 4 Lite 5G|HNANY-Q|ANY-NX1|
+|Honor|HONOR Magic4 Lite|HNANY-Q1|ANY-LX1|
 |Honor|HONOR X7|HNCMA-Q|CMA-LX1|
 |Honor|HONOR X7|HNCMA-Q|CMA-LX2|
 |Honor|HONOR X7|HNCMA-Q|CMA-LX3|
@@ -20678,6 +20679,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Find X3 Pro|OP4F57L1|OPG03|
 |Oppo|Find X3 Pro 中国版|OP4E3F|PEEM00|
 |Oppo|Find X3 中国版|OP4E5D|PEDM00|
+|Oppo|Find X5|OP52D5L1|CPH2307|
 |Oppo|Find X5 Pro|OP52D1L1|CPH2305|
 |Oppo|Find5|FIND5|X909|
 |Oppo|Find5|FIND5|X909T|
@@ -23708,19 +23710,21 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SOLO|Inspire_U5_PLUS|Inspire_U5_PLUS|Inspire_U5_PLUS|
 |SORIANA|BE_ets|BE_ets|BE_ets|
 |SOSMART|T5|SOSMART_T5|SOSMART_T5|
+|SPC|GRAVITY-2|GRAVITY-2|GRAVITY 2|
+|SPC|GRAVITY-PRO-2|GRAVITY-PRO-2|GRAVITY PRO 2|
+|SPC|GRAVITY-SE|GRAVITY-SE|GRAVITY SE|
+|SPC|GRAVITY-ULTIMATE-2|GRAVITY-ULTIMATE-2|GRAVITY ULTIMATE 2|
+|SPC|GRAVITY_3|GRAVITY_3|GRAVITY_3|
+|SPC|GRAVITY_3_SE|GRAVITY_3_SE|GRAVITY_3_SE|
+|SPC|Gravity_Max_EEA|Gravity_Max|Gravity Max|
+|SPC|LIGHTYEAR-2|LIGHTYEAR-2|LIGHTYEAR 2|
+|SPC|LIGHTYEAR-PRO-2|LIGHTYEAR-PRO-2|LIGHTYEAR PRO 2|
 |SPC Mobile|APOLO|APOLO|APOLO|
-|SPC Mobile|GRAVITY-2|GRAVITY-2|GRAVITY 2|
 |SPC Mobile|GRAVITY-2-MAX|GRAVITY-2-MAX|GRAVITY-2-MAX|
-|SPC Mobile|GRAVITY-PRO-2|GRAVITY-PRO-2|GRAVITY PRO 2|
-|SPC Mobile|GRAVITY-SE|GRAVITY-SE|GRAVITY SE|
-|SPC Mobile|GRAVITY-ULTIMATE-2|GRAVITY-ULTIMATE-2|GRAVITY ULTIMATE 2|
 |SPC Mobile|GRAVITY2-4G|GRAVITY2-4G|GRAVITY2-4G|
-|SPC Mobile|GRAVITY_3|GRAVITY_3|GRAVITY_3|
 |SPC Mobile|GRAVITY_3G_2019_eea|GRAVITY_3G|GRAVITY 3G_2019|
 |SPC Mobile|GRAVITY_3_4G|GRAVITY_3_4G|GRAVITY 3 4G|
 |SPC Mobile|GRAVITY_3_PRO|GRAVITY_3_PRO|GRAVITY 3 PRO|
-|SPC Mobile|GRAVITY_3_SE|GRAVITY_3_SE|GRAVITY_3_SE|
-|SPC Mobile|Gravity_Max_EEA|Gravity_Max|Gravity Max|
 |SPC Mobile|L100|L100|L100|
 |SPC Mobile|L50|SPC_L50|L50|
 |SPC Mobile|L50E|L50E|SPC L50E|
@@ -23742,8 +23746,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Mobile|L70_PRO|L70_PRO|L70_PRO|
 |SPC Mobile|L80|L80|L80|
 |SPC Mobile|L80_S|L80_S|L80_S|
-|SPC Mobile|LIGHTYEAR-2|LIGHTYEAR-2|LIGHTYEAR 2|
-|SPC Mobile|LIGHTYEAR-PRO-2|LIGHTYEAR-PRO-2|LIGHTYEAR PRO 2|
 |SPC Mobile|LIGHTYEAR2-4G|LIGHTYEAR2-4G|LIGHTYEAR2-4G|
 |SPC Mobile|Lightyear|Lightyear|Lightyear|
 |SPC Mobile|S19|S19|S19|
@@ -32470,7 +32472,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2130|2130|V2130|
 |Vivo|V2130A|PD2130|V2130A|
 |Vivo|V2131|2131|V2131|
-|Vivo|V2131|2131|V2140|
 |Vivo|V2131A|PD2131|V2131A|
 |Vivo|V2132|2132|V2132|
 |Vivo|V2132A|PD2134|V2132A|
@@ -32478,11 +32479,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2134|2120|V2134|
 |Vivo|V2134A|PD2134|V2134A|
 |Vivo|V2135|2135|V2135|
-|Vivo|V2135|2135|V2146|
 |Vivo|V2135A|PD2133|V2135A|
 |Vivo|V2136A|PD2136|V2136A|
 |Vivo|V2136GA|PD2136|V2136GA|
 |Vivo|V2139|2120|V2139|
+|Vivo|V2140|2131|V2140|
 |Vivo|V2140A|PD2140|V2140A|
 |Vivo|V2141|2141|V2141|
 |Vivo|V2141A|PD2141|V2141A|
@@ -33817,6 +33818,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 12 Pro|zeus|2201122G|
 |Xiaomi|Xiaomi 12X|psyche|2112123AC|
 |Xiaomi|Xiaomi Civi|mona|2109119BC|
+|Xiaomi|Xiaomi Civi 1S|zijin|2109119BC|
 |Xiaomi|Xiaomi Pad 5|nabu|21051182C|
 |Xiaomi|Xiaomi Pad 5|nabu|21051182G|
 |Xiaomi|Xiaomi Pad 5 Pro|elish|M2105K81AC|
@@ -36397,7 +36399,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C25s|RMX3195|RMX3195|
 |realme|realme C25s|RMX3197|RMX3197|
 |realme|realme C31|RE549C|RMX3501|
+|realme|realme C31|RE549C|RMX3502|
+|realme|realme C31|RE549C|RMX3503|
 |realme|realme C35|RE87BAL1|RMX3511|
+|realme|realme C35|RE87BAL1|RMX3512|
+|realme|realme C35|RE87BAL1|RMX3513|
 |realme|realme GT 2 Pro|RED8ACL1|RMX3301|
 |realme|realme GT 5G|RMX2202L1|RMX2202|
 |realme|realme GT Master Edition|RE507C|RMX3361|
@@ -36419,6 +36425,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme narzo 30A|RMX3171|RMX3171|
 |realme|realme narzo 50A|RED8AF|RMX3430|
 |realme|realme narzo 50A Prime|RE54D8L1|RMX3516|
+|realme|realme narzo 50A Prime|RE54D8L1|RMX3517|
 |realme|realme narzo 50i|RED8FA|RMX3235|
 |realme|realme pad|RE54C1L1|RMP2102|
 |realme|realme pad|RE54C1L1|RMP2103|
