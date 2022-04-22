@@ -78953,6 +78953,13 @@
    "model": "ANY-LX1"
   }
  ],
+ "HONOR Magic4 Lite 5G": [
+  {
+   "brand": "Honor",
+   "device": "HNANY-Q",
+   "model": "ANY-NX1"
+  }
+ ],
  "HONOR X7": [
   {
    "brand": "Honor",
@@ -155432,6 +155439,11 @@
  "realme 8i": [
   {
    "brand": "Realme",
+   "device": "RE54B4L1",
+   "model": "RMX3151"
+  },
+  {
+   "brand": "realme",
    "device": "RE54B4L1",
    "model": "RMX3151"
   }

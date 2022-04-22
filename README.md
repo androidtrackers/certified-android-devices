@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-04-21
+Last sync is 2022-04-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10158,6 +10158,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR 50 lite|HNNTN|NTN-L22|
 |Honor|HONOR Magic 4 Lite 5G|HNANY-Q|ANY-NX1|
 |Honor|HONOR Magic4 Lite|HNANY-Q1|ANY-LX1|
+|Honor|HONOR Magic4 Lite 5G|HNANY-Q|ANY-NX1|
 |Honor|HONOR X7|HNCMA-Q|CMA-LX1|
 |Honor|HONOR X7|HNCMA-Q|CMA-LX2|
 |Honor|HONOR X7|HNCMA-Q|CMA-LX3|
@@ -36379,6 +36380,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 8|RMX3085L1|RMX3085|
 |realme|realme 8 5G|RE513CL1|RMX3241|
 |realme|realme 8 Pro|RMX3081L1|RMX3081|
+|realme|realme 8i|RE54B4L1|RMX3151|
 |realme|realme 8s 5G|RE58A0L1|RMX3381|
 |realme|realme 9 Pro+|RE879EL1|RMX3392|
 |realme|realme 9 Pro+|RE879EL1|RMX3393|

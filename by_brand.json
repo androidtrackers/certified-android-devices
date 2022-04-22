@@ -52526,6 +52526,11 @@
    "model": "ANY-LX1"
   },
   {
+   "device": "HNANY-Q",
+   "name": "HONOR Magic4 Lite 5G",
+   "model": "ANY-NX1"
+  },
+  {
    "device": "HNCMA-Q",
    "name": "HONOR X7",
    "model": "CMA-LX1"
@@ -186771,6 +186776,11 @@
    "device": "RMX3081L1",
    "name": "realme 8 Pro",
    "model": "RMX3081"
+  },
+  {
+   "device": "RE54B4L1",
+   "name": "realme 8i",
+   "model": "RMX3151"
   },
   {
    "device": "RE58A0L1",

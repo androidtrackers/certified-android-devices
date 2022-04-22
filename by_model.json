@@ -72788,6 +72788,11 @@
   },
   {
    "brand": "Honor",
+   "name": "HONOR Magic4 Lite 5G",
+   "device": "HNANY-Q"
+  },
+  {
+   "brand": "Honor",
    "name": "HONOR X9 5G",
    "device": "HNANY-Q"
   }
@@ -158374,6 +158379,11 @@
  "RMX3151": [
   {
    "brand": "Realme",
+   "name": "realme 8i",
+   "device": "RE54B4L1"
+  },
+  {
+   "brand": "realme",
    "name": "realme 8i",
    "device": "RE54B4L1"
   }
