@@ -158868,6 +158868,13 @@
    "model": "HEAVEN 10.1"
   }
  ],
+ "tap-POS-AM": [
+  {
+   "brand": "SPECTRA",
+   "name": "tap-POS-AM",
+   "model": "SAH55AM"
+  }
+ ],
  "Spurt_K800": [
   {
    "brand": "SPURT",
@@ -199099,6 +199106,13 @@
    "brand": "Technicolor",
    "name": "Agile TV",
    "model": "AgileTV"
+  }
+ ],
+ "uzw4026ele": [
+  {
+   "brand": "Technicolor",
+   "name": "Elisa Elamus",
+   "model": "Elisa Elamus"
   }
  ],
  "dci765ekt": [

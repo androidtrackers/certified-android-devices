@@ -122359,6 +122359,13 @@
    "model": "HEAVEN 10.1"
   }
  ],
+ "SPECTRA": [
+  {
+   "device": "tap-POS-AM",
+   "name": "tap-POS-AM",
+   "model": "SAH55AM"
+  }
+ ],
  "SPURT": [
   {
    "device": "Spurt_K800",
@@ -156016,6 +156023,11 @@
    "device": "dwt765mm",
    "name": "Agile TV",
    "model": "AgileTV"
+  },
+  {
+   "device": "uzw4026ele",
+   "name": "Elisa Elamus",
+   "model": "Elisa Elamus"
   },
   {
    "device": "dci765ekt",

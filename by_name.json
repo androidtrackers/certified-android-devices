@@ -159488,6 +159488,13 @@
    "model": "HEAVEN 10.1"
   }
  ],
+ "tap-POS-AM": [
+  {
+   "brand": "SPECTRA",
+   "device": "tap-POS-AM",
+   "model": "SAH55AM"
+  }
+ ],
  "Spurt_K800": [
   {
    "brand": "SPURT",
@@ -197043,6 +197050,13 @@
    "brand": "Technicolor",
    "device": "dwt765mm",
    "model": "AgileTV"
+  }
+ ],
+ "Elisa Elamus": [
+  {
+   "brand": "Technicolor",
+   "device": "uzw4026ele",
+   "model": "Elisa Elamus"
   }
  ],
  "LMT viedtelevīzijas iekārta": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-04-23
+Last sync is 2022-04-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -23783,6 +23783,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Universe|ZEUS_4G|ZEUS_4G|ZEUS_4G|
 |SPC Universe|ZEUS_4G_PRO|ZEUS_4G_PRO|ZEUS_4G_PRO|
 |SPC Universe|heaven_10_1|heaven-10_1|HEAVEN 10.1|
+|SPECTRA|tap-POS-AM|tap-POS-AM|SAH55AM|
 |SPURT|Spurt_K800|Spurt_K800|Spurt K800|
 |SQ(max)|Hope10_Max|Hope10_Max|Hope10 Max|
 |SQ(max)|Hope8_Max|Hope8_Max|Hope8_Max|
@@ -30418,6 +30419,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tech 4u|Tech4U S8|S8|S8|
 |Technicolor||omap4_WT3|T-Hub2|
 |Technicolor|Agile TV|dwt765mm|AgileTV|
+|Technicolor|Elisa Elamus|uzw4026ele|Elisa Elamus|
 |Technicolor|Euskaltel|dci765ekt|cooper|
 |Technicolor|LMT viedtelevīzijas iekārta|dwt765lmt|skipper|
 |Technicolor|NETBOX|uiw4030dnm|pearl|

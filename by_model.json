@@ -162395,6 +162395,13 @@
    "device": "heaven-10_1"
   }
  ],
+ "SAH55AM": [
+  {
+   "brand": "SPECTRA",
+   "name": "tap-POS-AM",
+   "device": "tap-POS-AM"
+  }
+ ],
  "Spurt K800": [
   {
    "brand": "SPURT",
@@ -206892,6 +206899,13 @@
    "brand": "Technicolor",
    "name": "Agile TV",
    "device": "dwt765mm"
+  }
+ ],
+ "Elisa Elamus": [
+  {
+   "brand": "Technicolor",
+   "name": "Elisa Elamus",
+   "device": "uzw4026ele"
   }
  ],
  "cooper": [
