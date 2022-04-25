@@ -18178,6 +18178,11 @@
   },
   {
    "brand": "TCL",
+   "name": "BeyondTV6",
+   "device": "BeyondTV4"
+  },
+  {
+   "brand": "TCL",
    "name": "C02_4K_US",
    "device": "BeyondTV"
   },
@@ -37378,6 +37383,13 @@
    "device": "KINGKONG_5_Pro"
   }
  ],
+ "KINGKONG 6": [
+  {
+   "brand": "Cubot",
+   "name": "KINGKONG 6",
+   "device": "KINGKONG_6"
+  }
+ ],
  "KINGKONG 7": [
   {
    "brand": "Cubot",
@@ -39931,6 +39943,13 @@
    "brand": "Danew",
    "name": "Dslide807",
    "device": "Dslide807"
+  }
+ ],
+ "Dslide808": [
+  {
+   "brand": "Danew",
+   "name": "Dslide808",
+   "device": "Dslide808"
   }
  ],
  "Dslide971DC": [
@@ -72802,6 +72821,13 @@
    "brand": "Honor",
    "name": "HONOR Magic4 Lite",
    "device": "HNANY-Q1"
+  }
+ ],
+ "LGE-NX9": [
+  {
+   "brand": "Honor",
+   "name": "HONOR Magic4 Pro",
+   "device": "HNLGE"
   }
  ],
  "CMA-LX1": [
@@ -138507,6 +138533,13 @@
    "brand": "Now E",
    "name": "Now E",
    "device": "hk101"
+  }
+ ],
+ "Now TV Android TV 3103A": [
+  {
+   "brand": "NowTV",
+   "name": "3103A",
+   "device": "3103"
   }
  ],
  "3HT2018": [
@@ -244591,18 +244624,6 @@
    "device": "PTAB_P8"
   }
  ],
- "RMX3269": [
-  {
-   "brand": "realme",
-   "name": "RMX3269",
-   "device": "RED8F6"
-  },
-  {
-   "brand": "realme",
-   "name": "realme C25Y",
-   "device": "RED8F6"
-  }
- ],
  "RMX3085": [
   {
    "brand": "realme",
@@ -244648,6 +244669,13 @@
    "device": "RE58A0L1"
   }
  ],
+ "RMX3521": [
+  {
+   "brand": "realme",
+   "name": "realme 9",
+   "device": "RE54E2L1"
+  }
+ ],
  "RMX3392": [
   {
    "brand": "realme",
@@ -244674,6 +244702,13 @@
    "brand": "realme",
    "name": "realme 9Pro 5G",
    "device": "RE54CBL1"
+  }
+ ],
+ "RMX3491": [
+  {
+   "brand": "realme",
+   "name": "realme 9i",
+   "device": "RED8C1L1"
   }
  ],
  "RMX3493": [
@@ -244707,6 +244742,13 @@
    "brand": "realme",
    "name": "realme C25",
    "device": "RMX3193"
+  }
+ ],
+ "RMX3269": [
+  {
+   "brand": "realme",
+   "name": "realme C25Y",
+   "device": "RED8F6"
   }
  ],
  "RMX3195": [
@@ -244800,6 +244842,20 @@
    "device": "RE87CCL1"
   }
  ],
+ "RMX3574": [
+  {
+   "brand": "realme",
+   "name": "realme Q5i",
+   "device": "RE873D"
+  }
+ ],
+ "RMX3571": [
+  {
+   "brand": "realme",
+   "name": "realme V23",
+   "device": "RE5487"
+  }
+ ],
  "RMX3475": [
   {
    "brand": "realme",
@@ -244842,6 +244898,13 @@
    "device": "RMX2161L1"
   }
  ],
+ "RMX3286": [
+  {
+   "brand": "realme",
+   "name": "realme narzo 50",
+   "device": "RE54B4L1"
+  }
+ ],
  "RMX3430": [
   {
    "brand": "realme",
@@ -244875,6 +244938,20 @@
    "brand": "realme",
    "name": "realme  X7 Pro",
    "device": "RMX2121CN"
+  }
+ ],
+ "RMX3562": [
+  {
+   "brand": "realme",
+   "name": "真我 GT NEO  3  150W",
+   "device": "RE5489"
+  }
+ ],
+ "RMX3560": [
+  {
+   "brand": "realme",
+   "name": "真我 GT NEO 3",
+   "device": "RE5489"
   }
  ],
  "RMX2205": [

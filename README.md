@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-04-24
+Last sync is 2022-04-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4989,6 +4989,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|KING KONG CS|KING_KONG_CS|KING KONG CS|
 |Cubot|KINGKONG 5|KINGKONG_5|KINGKONG 5|
 |Cubot|KINGKONG 5 Pro|KINGKONG_5_Pro|KINGKONG 5 Pro|
+|Cubot|KINGKONG 6|KINGKONG_6|KINGKONG 6|
 |Cubot|KINGKONG 7|KINGKONG_7|KINGKONG 7|
 |Cubot|KINGKONG MINI2|KINGKONG_MINI2|KINGKONG MINI2|
 |Cubot|KINGKONG MINI2 Pro|KINGKONG_MINI2_Pro|KINGKONG_MINI2_Pro|
@@ -5340,6 +5341,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Danew|Dslide714|Dslide714|Dslide714|
 |Danew|Dslide716|Dslide716|Dslide716|
 |Danew|Dslide807|Dslide807|Dslide807|
+|Danew|Dslide808|Dslide808|Dslide808|
 |Danew|Dslide971DC|Dslide971DC|Dslide971DC|
 |Danew|Dslide_1020|Dslide_1020|Dslide_1020|
 |Danew|Dslide_1021C|Dslide_1021C|Dslide_1021C|
@@ -10159,6 +10161,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR Magic 4 Lite 5G|HNANY-Q|ANY-NX1|
 |Honor|HONOR Magic4 Lite|HNANY-Q1|ANY-LX1|
 |Honor|HONOR Magic4 Lite 5G|HNANY-Q|ANY-NX1|
+|Honor|HONOR Magic4 Pro|HNLGE|LGE-NX9|
 |Honor|HONOR X7|HNCMA-Q|CMA-LX1|
 |Honor|HONOR X7|HNCMA-Q|CMA-LX2|
 |Honor|HONOR X7|HNCMA-Q|CMA-LX3|
@@ -20095,6 +20098,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Novinsun|N11|N11|N11|
 |Novinsun|TN618|TN618|TN618|
 |Now E|Now E|hk101|hk101|
+|NowTV|3103A|3103|Now TV Android TV 3103A|
 |Nowtha|3HT2018|3HT2018|3HT2018|
 |NuAns|NEO [Reloaded]|NEO2|NEO [Reloaded]|
 |Nubia|NX401|NX40X|NX401|
@@ -28737,6 +28741,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|BeyondTV2|BeyondTV|BeyondTV2|
 |TCL|BeyondTV4|BeyondTV4|Smart TV Pro|
 |TCL|BeyondTV5|BeyondTV|BeyondTV5|
+|TCL|BeyondTV6|BeyondTV4|Smart TV|
 |TCL|BeyondTV6|BeyondTV4|Smart TV Pro|
 |TCL|C02_4K_US|BeyondTV|Smart TV|
 |TCL|C06_2K_US|C06|Smart TV|
@@ -36367,7 +36372,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |qunyiCO|Y7_EEA|Y7_EEA|Y7|
 |realme|4K Google TV Stick|YYT|4K Google TV Stick|
 |realme|4K Smart TV|gangbyeon|4K AI Smart TV|
-|realme|RMX3269|RED8F6|RMX3269|
 |realme|Smart TV|mateo|2K PA Smart TV|
 |realme|Smart TV|redwood|AI PONT|
 |realme|TV Stick|BOS|TV Stick|
@@ -36384,10 +36388,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 8 Pro|RMX3081L1|RMX3081|
 |realme|realme 8i|RE54B4L1|RMX3151|
 |realme|realme 8s 5G|RE58A0L1|RMX3381|
+|realme|realme 9|RE54E2L1|RMX3521|
 |realme|realme 9 Pro+|RE879EL1|RMX3392|
 |realme|realme 9 Pro+|RE879EL1|RMX3393|
 |realme|realme 9Pro 5G|RE54CBL1|RMX3471|
 |realme|realme 9Pro 5G|RE54CBL1|RMX3472|
+|realme|realme 9i|RED8C1L1|RMX3491|
 |realme|realme 9i|RED8C1L1|RMX3493|
 |realme|realme 9i|RED8C1L1|RMX3493|
 |realme|realme C11 2021|RMX3231|RMX3231|
@@ -36415,6 +36421,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme GT Neo2 5G|RE879AL1|RMX3370|
 |realme|realme Pad mini|RE87CCL1|RMP2105|
 |realme|realme Pad mini|RE87CCL1|RMP2106|
+|realme|realme Q5i|RE873D|RMX3574|
+|realme|realme V23|RE5487|RMX3571|
 |realme|realme V25|RE547D|RMX3475|
 |realme|realme X3|RMX2083L1|RMX2083|
 |realme|realme X3|RMX2086L1|RMX2086|
@@ -36427,6 +36435,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme narzo 20 Pro|RMX2161L1|RMX2161|
 |realme|realme narzo 30 5G|RE513CL1|RMX3242|
 |realme|realme narzo 30A|RMX3171|RMX3171|
+|realme|realme narzo 50|RE54B4L1|RMX3286|
 |realme|realme narzo 50A|RED8AF|RMX3430|
 |realme|realme narzo 50A Prime|RE54D8L1|RMX3516|
 |realme|realme narzo 50A Prime|RE54D8L1|RMX3517|
@@ -36434,6 +36443,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme pad|RE54C1L1|RMP2102|
 |realme|realme pad|RE54C1L1|RMP2103|
 |realme|realme  X7 Pro|RMX2121CN|RMX2121|
+|realme|真我 GT NEO  3  150W|RE5489|RMX3562|
+|realme|真我 GT NEO 3|RE5489|RMX3560|
 |realme|真我 Q3 Pro 5G|RMX2205CN|RMX2205|
 |realme|真我GT 2|RE5471|RMX3310|
 |realme|真我GT 2|RE58B2L1|RMX3311|
