@@ -16320,6 +16320,11 @@
    "model": "BLAUPUNKT 2K Android TV"
   },
   {
+   "device": "shilin",
+   "name": "Blaupunkt",
+   "model": "BLAUPUNKT 4K Android TV"
+  },
+  {
    "device": "sindang",
    "name": "Blaupunkt",
    "model": "BLAU-TVE19H"
@@ -19842,6 +19847,11 @@
    "model": "C82W_EEA"
   },
   {
+   "device": "F10L",
+   "name": "F10L ROW",
+   "model": "F10L"
+  },
+  {
    "device": "F12W",
    "name": "F12W",
    "model": "F12W"
@@ -19879,6 +19889,11 @@
   {
    "device": "P20L",
    "name": "P20L",
+   "model": "P20L"
+  },
+  {
+   "device": "P20L",
+   "name": "P20L ROW",
    "model": "P20L"
   },
   {
@@ -31285,6 +31300,11 @@
    "device": "komagome",
    "name": "Dual",
    "model": "Dual 2K Android TV"
+  },
+  {
+   "device": "kenton",
+   "name": "Dual 4K Android TV",
+   "model": "Dual 4K Android TV"
   }
  ],
  "Dunns": [
@@ -31651,6 +31671,11 @@
    "device": "komagome",
    "name": "EDENWOOD",
    "model": "EDENWOOD 2K Android TV"
+  },
+  {
+   "device": "kenton",
+   "name": "EDENWOOD 4K Android TV",
+   "model": "EDENWOOD 4K Android TV"
   }
  ],
  "EDUTAB": [
@@ -31748,6 +31773,11 @@
    "model": "EKO 2K Android TV"
   },
   {
+   "device": "shilin",
+   "name": "EKO",
+   "model": "EKO 4K Android TV"
+  },
+  {
    "device": "zhongshan",
    "name": "EKO",
    "model": "EKO 4K Android TV"
@@ -31780,6 +31810,11 @@
   {
    "device": "stanford",
    "name": "Eko",
+   "model": "EKO 2K Android TV"
+  },
+  {
+   "device": "bruno",
+   "name": "JVC",
    "model": "EKO 2K Android TV"
   },
   {
@@ -52521,11 +52556,6 @@
    "model": "NTN-LX3"
   },
   {
-   "device": "HNNTN",
-   "name": "HONOR 50 lite",
-   "model": "NTN-L22"
-  },
-  {
    "device": "HNANY-Q",
    "name": "HONOR Magic 4 Lite 5G",
    "model": "ANY-NX1"
@@ -52578,7 +52608,17 @@
   {
    "device": "HNANY-Q1",
    "name": "HONOR X9",
+   "model": "ANY-LX1"
+  },
+  {
+   "device": "HNANY-Q1",
+   "name": "HONOR X9",
    "model": "ANY-LX2"
+  },
+  {
+   "device": "HNANY-Q1",
+   "name": "HONOR X9",
+   "model": "ANY-LX3"
   },
   {
    "device": "HNANY-Q",
@@ -61553,6 +61593,11 @@
    "model": "AI PONT"
   },
   {
+   "device": "kenton",
+   "name": "HYUNDAI 4K Android TV",
+   "model": "HYUNDAI 4K Android TV"
+  },
+  {
    "device": "HY_BDL163G_001_EEA",
    "name": "HY_BDL163G_001",
    "model": "HY-BDL163G-001"
@@ -67728,6 +67773,11 @@
    "model": "JVC PA 2K Android TV"
   },
   {
+   "device": "bruno",
+   "name": "JVC",
+   "model": "JVC2KAndroid TV"
+  },
+  {
    "device": "komagome",
    "name": "JVC",
    "model": "EU 2K Android TV"
@@ -68960,6 +69010,11 @@
    "device": "Y109",
    "name": "KONKA  Y109",
    "model": "KONKA-Y109"
+  },
+  {
+   "device": "lasalle",
+   "name": "KONKA 2K Android TV",
+   "model": "KONKA 2K Android TV"
   },
   {
    "device": "kenton",
@@ -79678,6 +79733,11 @@
  ],
  "Lanix": [
   {
+   "device": "Alpha_1R",
+   "name": "Alpha 1R",
+   "model": "Alpha 1R"
+  },
+  {
    "device": "Alpha_1V",
    "name": "Alpha 1V",
    "model": "Alpha 1V"
@@ -88487,6 +88547,11 @@
    "device": "seocho",
    "name": "SmartEver",
    "model": "SmartEver 4K Android TV"
+  },
+  {
+   "device": "shilin",
+   "name": "SmartEver",
+   "model": "SmartEver4KAndroidTV"
   },
   {
    "device": "Smart_Light",
@@ -108102,6 +108167,11 @@
    "device": "LeNumero2",
    "name": "Ordissimo LeNumero2",
    "model": "LeNumero2"
+  },
+  {
+   "device": "PixStarTouch",
+   "name": "PixStarTouch",
+   "model": "PixStarTouch"
   }
  ],
  "Orient": [
@@ -119459,11 +119529,6 @@
    "model": "RMX2050"
   },
   {
-   "device": "RMX2156L1",
-   "name": "realme narzo 30",
-   "model": "RMX2156"
-  },
-  {
    "device": "RE513CL1",
    "name": "realme narzo 30 5G",
    "model": "RMX3242"
@@ -120736,6 +120801,11 @@
    "device": "RD86QE",
    "name": "RD86QE",
    "model": "RD86QE"
+  },
+  {
+   "device": "RD895T",
+   "name": "RD895T",
+   "model": "RD895T"
   },
   {
    "device": "RD895TE",
@@ -138594,6 +138664,11 @@
    "model": "SHG05"
   },
   {
+   "device": "BOL",
+   "name": "AQUOS sense6s",
+   "model": "SHG07"
+  },
+  {
    "device": "SX1",
    "name": "AQUOS wish",
    "model": "A103SH"
@@ -139692,6 +139767,11 @@
    "device": "OI6",
    "name": "シンプルスマホ５",
    "model": "A001SH"
+  },
+  {
+   "device": "Levil",
+   "name": "シンプルスマホ６",
+   "model": "A201SH"
   },
   {
    "device": "SR01MW",
@@ -161650,6 +161730,11 @@
    "model": "visionbook P55 LTE"
   },
   {
+   "device": "shilin",
+   "name": "Umax",
+   "model": "UMAX4KAndroidTV"
+  },
+  {
    "device": "P50Plus_LTE",
    "name": "VisionBook P50 Plus LTE",
    "model": "VisionBook_P50Plus_LTE"
@@ -161989,6 +162074,11 @@
   {
    "device": "UMIDIGI_F3",
    "name": "F3",
+   "model": "MP09"
+  },
+  {
+   "device": "UMIDIGI_F3",
+   "name": "F3 EEA",
    "model": "MP09"
   },
   {
@@ -186358,6 +186448,16 @@
    "device": "R2",
    "name": "Android TV",
    "model": "ATV R2"
+  },
+  {
+   "device": "shilin",
+   "name": "Innos",
+   "model": "Innos4KAndroidTV"
+  },
+  {
+   "device": "bruno",
+   "name": "innos",
+   "model": "Innos2KAndroidTV"
   }
  ],
  "intelkom": [
@@ -187045,6 +187145,11 @@
    "device": "RMX2161L1",
    "name": "realme narzo 20 Pro",
    "model": "RMX2161"
+  },
+  {
+   "device": "RMX2156L1",
+   "name": "realme narzo 30",
+   "model": "RMX2156"
   },
   {
    "device": "RE513CL1",

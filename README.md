@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-04-25
+Last sync is 2022-04-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3162,6 +3162,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|Blaupunkt|bangbae|BLAUPUNKT 4K Android TV|
 |Blaupunkt|Blaupunkt|ewha|BLAU-TVE19I|
 |Blaupunkt|Blaupunkt|komagome|BLAUPUNKT 2K Android TV|
+|Blaupunkt|Blaupunkt|shilin|BLAUPUNKT 4K Android TV|
 |Blaupunkt|Blaupunkt|sindang|BLAU-TVE19H|
 |Blaupunkt|Blaupunkt|zhongshan|Blaupunkt 4K Android TV|
 |Blaupunkt|Blaupunkt SL 01|Blaupunkt_SL_01|Blaupunkt SL 01|
@@ -3836,6 +3837,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CWOWDEFU|C80W_EEA|C80W_EEA|C80W_EEA|
 |CWOWDEFU|C82W|C82W|C82W|
 |CWOWDEFU|C82W_EEA|C82W_EEA|C82W_EEA|
+|CWOWDEFU|F10L ROW|F10L|F10L|
 |CWOWDEFU|F12W|F12W|F12W|
 |CWOWDEFU|F12W_EEA|F12W|F12W_EEA|
 |CWOWDEFU|F35W|F35W|F35W|
@@ -3844,6 +3846,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CWOWDEFU|F80W_EEA|F80W_EEA|F80W_EEA|
 |CWOWDEFU|F81L_EEA|F81L|F81L|
 |CWOWDEFU|P20L|P20L|P20L|
+|CWOWDEFU|P20L ROW|P20L|P20L|
 |CWOWDEFU|P80L|P80L|P80L|
 |CWOWDEFU|P81L|P81L|P81L|
 |CWOWDEFU|P83L|P83L|P83L|
@@ -6045,6 +6048,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dual|BDL0948|BDL0948|BDL0948|
 |Dual|Dual|bangbae|Dual 4K Android TV|
 |Dual|Dual|komagome|Dual 2K Android TV|
+|Dual|Dual 4K Android TV|kenton|Dual 4K Android TV|
 |Dunns|Dunns Slinger|DunnsSlinger|Dunns Slinger|
 |Dunns|ETAB_M9041G|ETAB_M9041G|ETAB_M9041G|
 |Dunns|Smarty II|Smarty_II|Smarty_II|
@@ -6111,6 +6115,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ECS|TU11MK2|TU11MK2|TU11MK2|
 |EDENWOOD|EDENWOOD|bangbae|EDENWOOD 4K Android TV|
 |EDENWOOD|EDENWOOD|komagome|EDENWOOD 2K Android TV|
+|EDENWOOD|EDENWOOD 4K Android TV|kenton|EDENWOOD 4K Android TV|
 |EDUTAB|ELITE_10|ELITE_10|ELITE_10|
 |EGBOK|P803|P803|P803|
 |EGOTEK|Mars8|Mars8|Mars8|
@@ -6128,6 +6133,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EKO|Australia|yeongdeungpo|EKO Android TV|
 |EKO|EKO|bangbae|EKO 4K Android TV|
 |EKO|EKO|komagome|EKO 2K Android TV|
+|EKO|EKO|shilin|EKO 4K Android TV|
 |EKO|EKO|zhongshan|EKO 4K Android TV|
 |EKO|EKO OMEGA LTE Q60|EKO_OMEGA_LTE_Q60|EKO OMEGA LTE Q60|
 |EKO|EKO OMEGA Q55|EKO_OMEGA_Q55|EKO OMEGA Q55|
@@ -6135,6 +6141,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EKO|EKO android TV|hanyang|Ayonz Android TV|
 |EKO|EKO android TV ISDB|hanyang|EKO 4K Android TV|
 |EKO|Eko|stanford|EKO 2K Android TV|
+|EKO|JVC|bruno|EKO 2K Android TV|
 |EKO|KATV10|ICN|KATV10|
 |EKO|Star 4.0 G40|Star_4_0_G40|Star 4.0 G40|
 |EKO|Star 5.0 G50|Star_5_0_G50|Star 5.0 G50|
@@ -10157,7 +10164,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR 50 Lite|HNNTN|NTN-L22|
 |Honor|HONOR 50 Lite|HNNTN|NTN-LX1|
 |Honor|HONOR 50 Lite|HNNTN|NTN-LX3|
-|Honor|HONOR 50 lite|HNNTN|NTN-L22|
 |Honor|HONOR Magic 4 Lite 5G|HNANY-Q|ANY-NX1|
 |Honor|HONOR Magic4 Lite|HNANY-Q1|ANY-LX1|
 |Honor|HONOR Magic4 Lite 5G|HNANY-Q|ANY-NX1|
@@ -10168,7 +10174,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X8|HNTFY-Q|TFY-LX1|
 |Honor|HONOR X8|HNTFY-Q|TFY-LX2|
 |Honor|HONOR X8|HNTFY-Q|TFY-LX3|
+|Honor|HONOR X9|HNANY-Q1|ANY-LX1|
 |Honor|HONOR X9|HNANY-Q1|ANY-LX2|
+|Honor|HONOR X9|HNANY-Q1|ANY-LX3|
 |Honor|HONOR X9 5G|HNANY-Q|ANY-NX1|
 |Hoozo|HZ0010|HZ0010|HZ0010|
 |Hoozo|HZ0010J|HZ0010J|HZ0010J|
@@ -11957,6 +11965,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HYLED4321AiM|ikebukuro|AI PONT|
 |Hyundai|HYLED5015A4KM|samseong|AI PONT|
 |Hyundai|HYLED5520A4KM|sindorim|AI PONT|
+|Hyundai|HYUNDAI 4K Android TV|kenton|HYUNDAI 4K Android TV|
 |Hyundai|HY_BDL163G_001|HY_BDL163G_001_EEA|HY-BDL163G-001|
 |Hyundai|HyTab_Plus_10LC2|HyTab_Plus_10LC2|HyTab Plus 10LC2|
 |Hyundai|HyTab_Plus_7WA1|7WA1|7WA1|
@@ -13154,6 +13163,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|JVC|bangbae|JVC 4K Android TV|
 |JVC|JVC|bangbae|JVC EU 4K Android TV|
 |JVC|JVC|bruno|JVC PA 2K Android TV|
+|JVC|JVC|bruno|JVC2KAndroid TV|
 |JVC|JVC|komagome|EU 2K Android TV|
 |JVC|JVC|komagome|JVC EU 2K Android TV|
 |JVC|JVC|seocho|JVC 4K Android TV|
@@ -13384,6 +13394,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KONKA|KONKA|sugamo|KONKA 2K Android TV|
 |KONKA|KONKA  N188|N188|KONKA-N188|
 |KONKA|KONKA  Y109|Y109|KONKA-Y109|
+|KONKA|KONKA 2K Android TV|lasalle|KONKA 2K Android TV|
 |KONKA|KONKA 4K Android TV|kenton|KONKA 4K Android TV|
 |KONKA|KONKA Android TV|hongik|KONKA 4K Android TV|
 |KONKA|Konka Android TV|uguisudani|KONKA 2K Android TV|
@@ -15488,6 +15499,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Land Rover|Land Rover Explore R|LRExploreR|Land Rover Explore R|
 |Landbyte|LT5030|LT5030|LT5030|
 |Landbyte|Lt6248|Lt6248|Lt6248|
+|Lanix|Alpha 1R|Alpha_1R|Alpha 1R|
 |Lanix|Alpha 1V|Alpha_1V|Alpha 1V|
 |Lanix|Alpha 5V|Alpha_5V|Alpha 5V|
 |Lanix|Alpha 9V|Alpha_9V|Alpha 9V|
@@ -17215,6 +17227,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MTC|MTC|seocho|WasabiMango 4K Android TV|
 |MTC|Osmartphona|Osmartphona|Osmartphona|
 |MTC|SmartEver|seocho|SmartEver 4K Android TV|
+|MTC|SmartEver|shilin|SmartEver4KAndroidTV|
 |MTC|Smart_Light|Smart_Light|Smart_Light|
 |MTC|Vodafone Smart mini|Vodafone_875|MTC 970H|
 |MTN Group|5982C3|MTN-TBW5982C3|MTN-TBW5982C3|
@@ -21028,6 +21041,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Orbic|Wonder|RC555L|RC555L|
 |Ordissimo|Celia|Celia|Celia|
 |Ordissimo|Ordissimo LeNumero2|LeNumero2|LeNumero2|
+|Ordissimo|PixStarTouch|PixStarTouch|PixStarTouch|
 |Orient|Android TV|R1|ATV R1|
 |Orient|Android TV|R2|ATV R2|
 |Orient|OrientTV|shibuya|OrientTV|
@@ -23237,7 +23251,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme XT|RMX1921L1|RMX1921|
 |Realme|realme XT|RMX1922|RMX1922|
 |Realme|realme narzo 20A|RMX2050|RMX2050|
-|Realme|realme narzo 30|RMX2156L1|RMX2156|
 |Realme|realme narzo 30 5G|RE513CL1|RMX3242|
 |Realme|realme narzo 30A|RMX3171|RMX3171|
 |Realme|realme pad|RE54C1L1|RMP2103|
@@ -23488,6 +23501,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Remdun|RD865MQE|RD865MQE|RD865MQE|
 |Remdun|RD86E|RD86E|RD86E|
 |Remdun|RD86QE|RD86QE|RD86QE|
+|Remdun|RD895T|RD895T|RD895T|
 |Remdun|RD895TE|RD895TE|RD895TE|
 |Renault|OpenR Link|aivi2_full|AIVI2 FULL|
 |Reveal 16i|rk3399_rvlEEA_box|rk3399_reveal16i_box|Reveal 16i|
@@ -27008,6 +27022,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS sense6|Chara|SH-RM19|
 |Sharp|AQUOS sense6|SH-54B|SH-54B|
 |Sharp|AQUOS sense6|ZMJ|SHG05|
+|Sharp|AQUOS sense6s|BOL|SHG07|
 |Sharp|AQUOS wish|SX1|A103SH|
 |Sharp|AQUOS wish|SX1|A104SH|
 |Sharp|AQUOS wish|SX1|SH-M20|
@@ -27228,6 +27243,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|シンプルスマホ３|SG509SH|509SH|
 |Sharp|シンプルスマホ４|SG704SH|704SH|
 |Sharp|シンプルスマホ５|OI6|A001SH|
+|Sharp|シンプルスマホ６|Levil|A201SH|
 |Sharp|ロボホン|SR01MW|SR01MW|
 |Sharp|ロボホン|SR02MW|SR02MW|
 |Sharp|ロボホン|SRX002|SRX002|
@@ -31498,6 +31514,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umax|U452TL|U452TL|U452TL|
 |Umax|UMAX|seocho|UMAX 4K Android TV|
 |Umax|UMAX|visionbook_P55_LTE|visionbook P55 LTE|
+|Umax|Umax|shilin|UMAX4KAndroidTV|
 |Umax|VisionBook P50 Plus LTE|P50Plus_LTE|VisionBook_P50Plus_LTE|
 |Umax|VisionBook P55 X2 LTE|VisionBook_P55_X2_LTE|VisionBook P55 X2 LTE|
 |Umax|VisionBook10Q|VB_10Q_Plus|VB_10Q_Plus|
@@ -31566,6 +31583,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|F1_EEA|F1|F1|
 |Umidigi|F2|F2|F2|
 |Umidigi|F3|UMIDIGI_F3|MP09|
+|Umidigi|F3 EEA|UMIDIGI_F3|MP09|
 |Umidigi|F3 SE|F3_SE|MP09|
 |Umidigi|F3 SE EEA|F3_SE|MP09|
 |Umidigi|F3S|F3S|MP09|
@@ -36304,6 +36322,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |imose|Omotab2|Omotab2|Omotab2|
 |indigi|G4i|G4i|G4i|
 |innos|Android TV|R2|ATV R2|
+|innos|Innos|shilin|Innos4KAndroidTV|
+|innos|innos|bruno|Innos2KAndroidTV|
 |intelkom|meanIT_C1|meanIT_C1|meanIT_C1|
 |intelkom|meanIT_C2|meanIT_C2|meanIT_C2|
 |intelkom|meanIT_X2|meanIT_X2|meanIT_X2|
@@ -36433,6 +36453,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme X7 5G|RMX3092L1|RMX3092|
 |realme|realme X7Pro Ultra|RMX3115CN|RMX3115|
 |realme|realme narzo 20 Pro|RMX2161L1|RMX2161|
+|realme|realme narzo 30|RMX2156L1|RMX2156|
 |realme|realme narzo 30 5G|RE513CL1|RMX3242|
 |realme|realme narzo 30A|RMX3171|RMX3171|
 |realme|realme narzo 50|RE54B4L1|RMX3286|

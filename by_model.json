@@ -24239,6 +24239,11 @@
    "brand": "Blaupunkt",
    "name": "Blaupunkt",
    "device": "bangbae"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "Blaupunkt",
+   "device": "shilin"
   }
  ],
  "BLAU-TVE19I": [
@@ -29241,6 +29246,18 @@
    "device": "C82W_EEA"
   }
  ],
+ "F10L": [
+  {
+   "brand": "CWOWDEFU",
+   "name": "F10L ROW",
+   "device": "F10L"
+  },
+  {
+   "brand": "FAMIX",
+   "name": "F10L",
+   "device": "F10L"
+  }
+ ],
  "F12W": [
   {
    "brand": "CWOWDEFU",
@@ -29294,6 +29311,11 @@
   {
    "brand": "CWOWDEFU",
    "name": "P20L",
+   "device": "P20L"
+  },
+  {
+   "brand": "CWOWDEFU",
+   "name": "P20L ROW",
    "device": "P20L"
   }
  ],
@@ -44900,6 +44922,11 @@
    "brand": "Dual",
    "name": "Dual",
    "device": "bangbae"
+  },
+  {
+   "brand": "Dual",
+   "name": "Dual 4K Android TV",
+   "device": "kenton"
   }
  ],
  "Dual 2K Android TV": [
@@ -45354,6 +45381,11 @@
    "brand": "EDENWOOD",
    "name": "EDENWOOD",
    "device": "bangbae"
+  },
+  {
+   "brand": "EDENWOOD",
+   "name": "EDENWOOD 4K Android TV",
+   "device": "kenton"
   }
  ],
  "EDENWOOD 2K Android TV": [
@@ -45491,6 +45523,11 @@
   {
    "brand": "EKO",
    "name": "EKO",
+   "device": "shilin"
+  },
+  {
+   "brand": "EKO",
+   "name": "EKO",
    "device": "zhongshan"
   },
   {
@@ -45509,6 +45546,11 @@
    "brand": "EKO",
    "name": "Eko",
    "device": "stanford"
+  },
+  {
+   "brand": "EKO",
+   "name": "JVC",
+   "device": "bruno"
   }
  ],
  "EKO OMEGA LTE Q60": [
@@ -49814,13 +49856,6 @@
    "brand": "FACILOTAB",
    "name": "Facilotab_L_Rubis",
    "device": "Facilotab_L_Rubis"
-  }
- ],
- "F10L": [
-  {
-   "brand": "FAMIX",
-   "name": "F10L",
-   "device": "F10L"
   }
  ],
  "F-863": [
@@ -72778,11 +72813,6 @@
    "brand": "Honor",
    "name": "HONOR 50 Lite",
    "device": "HNNTN"
-  },
-  {
-   "brand": "Honor",
-   "name": "HONOR 50 lite",
-   "device": "HNNTN"
   }
  ],
  "NTN-LX1": [
@@ -72820,6 +72850,11 @@
   {
    "brand": "Honor",
    "name": "HONOR Magic4 Lite",
+   "device": "HNANY-Q1"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR X9",
    "device": "HNANY-Q1"
   }
  ],
@@ -72873,6 +72908,13 @@
   }
  ],
  "ANY-LX2": [
+  {
+   "brand": "Honor",
+   "name": "HONOR X9",
+   "device": "HNANY-Q1"
+  }
+ ],
+ "ANY-LX3": [
   {
    "brand": "Honor",
    "name": "HONOR X9",
@@ -84941,6 +84983,23 @@
    "device": "HY1_5085"
   }
  ],
+ "HYUNDAI 4K Android TV": [
+  {
+   "brand": "Hyundai",
+   "name": "HYUNDAI 4K Android TV",
+   "device": "kenton"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Hyundai android TV",
+   "device": "hanyang"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Italy",
+   "device": "yeongdeungpo"
+  }
+ ],
  "HY-BDL163G-001": [
   {
    "brand": "Hyundai",
@@ -85037,18 +85096,6 @@
    "brand": "Hyundai",
    "name": "Hyundai TV",
    "device": "SW4H"
-  }
- ],
- "HYUNDAI 4K Android TV": [
-  {
-   "brand": "Hyundai",
-   "name": "Hyundai android TV",
-   "device": "hanyang"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "Italy",
-   "device": "yeongdeungpo"
   }
  ],
  "Hyundai_Eternity_G50": [
@@ -92850,6 +92897,13 @@
    "device": "bruno"
   }
  ],
+ "JVC2KAndroid TV": [
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "device": "bruno"
+  }
+ ],
  "EU 2K Android TV": [
   {
    "brand": "JVC",
@@ -94374,6 +94428,11 @@
    "brand": "KONKA",
    "name": "KONKA",
    "device": "sugamo"
+  },
+  {
+   "brand": "KONKA",
+   "name": "KONKA 2K Android TV",
+   "device": "lasalle"
   },
   {
    "brand": "KONKA",
@@ -108325,6 +108384,13 @@
    "device": "Lt6248"
   }
  ],
+ "Alpha 1R": [
+  {
+   "brand": "Lanix",
+   "name": "Alpha 1R",
+   "device": "Alpha_1R"
+  }
+ ],
  "Alpha 1V": [
   {
    "brand": "Lanix",
@@ -119801,6 +119867,13 @@
    "brand": "MTC",
    "name": "SmartEver",
    "device": "seocho"
+  }
+ ],
+ "SmartEver4KAndroidTV": [
+  {
+   "brand": "MTC",
+   "name": "SmartEver",
+   "device": "shilin"
   }
  ],
  "Smart_Light": [
@@ -144604,6 +144677,13 @@
    "device": "LeNumero2"
   }
  ],
+ "PixStarTouch": [
+  {
+   "brand": "Ordissimo",
+   "name": "PixStarTouch",
+   "device": "PixStarTouch"
+  }
+ ],
  "OrientTV": [
   {
    "brand": "Orient",
@@ -158171,7 +158251,7 @@
    "device": "RMX2156L1"
   },
   {
-   "brand": "Realme",
+   "brand": "realme",
    "name": "realme narzo 30",
    "device": "RMX2156L1"
   }
@@ -160623,6 +160703,13 @@
    "brand": "Remdun",
    "name": "RD86E",
    "device": "RD86E"
+  }
+ ],
+ "RD895T": [
+  {
+   "brand": "Remdun",
+   "name": "RD895T",
+   "device": "RD895T"
   }
  ],
  "RD895TE": [
@@ -184521,6 +184608,13 @@
    "device": "ZMJ"
   }
  ],
+ "SHG07": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense6s",
+   "device": "BOL"
+  }
+ ],
  "A103SH": [
   {
    "brand": "Sharp",
@@ -185954,6 +186048,13 @@
    "brand": "Sharp",
    "name": "シンプルスマホ５",
    "device": "OI6"
+  }
+ ],
+ "A201SH": [
+  {
+   "brand": "Sharp",
+   "name": "シンプルスマホ６",
+   "device": "Levil"
   }
  ],
  "SR01MW": [
@@ -213863,6 +213964,13 @@
    "device": "visionbook_P55_LTE"
   }
  ],
+ "UMAX4KAndroidTV": [
+  {
+   "brand": "Umax",
+   "name": "Umax",
+   "device": "shilin"
+  }
+ ],
  "VisionBook_P50Plus_LTE": [
   {
    "brand": "Umax",
@@ -214189,6 +214297,11 @@
   {
    "brand": "Umidigi",
    "name": "F3",
+   "device": "UMIDIGI_F3"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "F3 EEA",
    "device": "UMIDIGI_F3"
   },
   {
@@ -244318,6 +244431,20 @@
    "brand": "indigi",
    "name": "G4i",
    "device": "G4i"
+  }
+ ],
+ "Innos4KAndroidTV": [
+  {
+   "brand": "innos",
+   "name": "Innos",
+   "device": "shilin"
+  }
+ ],
+ "Innos2KAndroidTV": [
+  {
+   "brand": "innos",
+   "name": "innos",
+   "device": "bruno"
   }
  ],
  "meanIT_C1": [

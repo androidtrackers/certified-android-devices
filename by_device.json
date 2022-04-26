@@ -26545,6 +26545,38 @@
    "model": "TECH-TVE19J"
   }
  ],
+ "shilin": [
+  {
+   "brand": "Blaupunkt",
+   "name": "Blaupunkt",
+   "model": "BLAUPUNKT 4K Android TV"
+  },
+  {
+   "brand": "EKO",
+   "name": "EKO",
+   "model": "EKO 4K Android TV"
+  },
+  {
+   "brand": "MTC",
+   "name": "JVC",
+   "model": "JVC PA 4K Android TV"
+  },
+  {
+   "brand": "MTC",
+   "name": "SmartEver",
+   "model": "SmartEver4KAndroidTV"
+  },
+  {
+   "brand": "Umax",
+   "name": "Umax",
+   "model": "UMAX4KAndroidTV"
+  },
+  {
+   "brand": "innos",
+   "name": "Innos",
+   "model": "Innos4KAndroidTV"
+  }
+ ],
  "sindang": [
   {
    "brand": "Blaupunkt",
@@ -31253,6 +31285,18 @@
    "model": "C82W_EEA"
   }
  ],
+ "F10L": [
+  {
+   "brand": "CWOWDEFU",
+   "name": "F10L ROW",
+   "model": "F10L"
+  },
+  {
+   "brand": "FAMIX",
+   "name": "F10L",
+   "model": "F10L"
+  }
+ ],
  "F12W": [
   {
    "brand": "CWOWDEFU",
@@ -31304,6 +31348,11 @@
   {
    "brand": "CWOWDEFU",
    "name": "P20L",
+   "model": "P20L"
+  },
+  {
+   "brand": "CWOWDEFU",
+   "name": "P20L ROW",
    "model": "P20L"
   }
  ],
@@ -47489,6 +47538,33 @@
    "model": "BDL0948"
   }
  ],
+ "kenton": [
+  {
+   "brand": "Dual",
+   "name": "Dual 4K Android TV",
+   "model": "Dual 4K Android TV"
+  },
+  {
+   "brand": "EDENWOOD",
+   "name": "EDENWOOD 4K Android TV",
+   "model": "EDENWOOD 4K Android TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "HYUNDAI 4K Android TV",
+   "model": "HYUNDAI 4K Android TV"
+  },
+  {
+   "brand": "KONKA",
+   "name": "KONKA 4K Android TV",
+   "model": "KONKA 4K Android TV"
+  },
+  {
+   "brand": "Polaroid",
+   "name": "Polaroid 4K Android TV",
+   "model": "Polaroid 4K Android TV"
+  }
+ ],
  "DunnsSlinger": [
   {
    "brand": "Dunns",
@@ -48021,6 +48097,28 @@
    "brand": "EKO",
    "name": "EKO Star LTE G60",
    "model": "EKO Star LTE G60"
+  }
+ ],
+ "bruno": [
+  {
+   "brand": "EKO",
+   "name": "JVC",
+   "model": "EKO 2K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "JVC PA 2K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "JVC2KAndroid TV"
+  },
+  {
+   "brand": "innos",
+   "name": "innos",
+   "model": "Innos2KAndroidTV"
   }
  ],
  "Star_4_0_G40": [
@@ -52325,13 +52423,6 @@
    "brand": "FACILOTAB",
    "name": "Facilotab_L_Rubis",
    "model": "Facilotab L Rubis"
-  }
- ],
- "F10L": [
-  {
-   "brand": "FAMIX",
-   "name": "F10L",
-   "model": "F10L"
   }
  ],
  "F-863": [
@@ -73791,11 +73882,6 @@
    "brand": "Honor",
    "name": "HONOR 50 Lite",
    "model": "NTN-LX3"
-  },
-  {
-   "brand": "Honor",
-   "name": "HONOR 50 lite",
-   "model": "NTN-L22"
   }
  ],
  "HNANY-Q": [
@@ -73824,7 +73910,17 @@
   {
    "brand": "Honor",
    "name": "HONOR X9",
+   "model": "ANY-LX1"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR X9",
    "model": "ANY-LX2"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR X9",
+   "model": "ANY-LX3"
   }
  ],
  "HNLGE": [
@@ -92016,13 +92112,6 @@
    "model": "DM65UXR"
   }
  ],
- "bruno": [
-  {
-   "brand": "JVC",
-   "name": "JVC",
-   "model": "JVC PA 2K Android TV"
-  }
- ],
  "Cunda": [
   {
    "brand": "JVC",
@@ -93417,16 +93506,11 @@
    "model": "KONKA-Y109"
   }
  ],
- "kenton": [
+ "lasalle": [
   {
    "brand": "KONKA",
-   "name": "KONKA 4K Android TV",
-   "model": "KONKA 4K Android TV"
-  },
-  {
-   "brand": "Polaroid",
-   "name": "Polaroid 4K Android TV",
-   "model": "Polaroid 4K Android TV"
+   "name": "KONKA 2K Android TV",
+   "model": "KONKA 2K Android TV"
   }
  ],
  "N15": [
@@ -106179,6 +106263,13 @@
    "model": "Lt6248"
   }
  ],
+ "Alpha_1R": [
+  {
+   "brand": "Lanix",
+   "name": "Alpha 1R",
+   "model": "Alpha 1R"
+  }
+ ],
  "Alpha_1V": [
   {
    "brand": "Lanix",
@@ -117566,13 +117657,6 @@
    "brand": "MTC",
    "name": "982",
    "model": "MTC 982"
-  }
- ],
- "shilin": [
-  {
-   "brand": "MTC",
-   "name": "JVC",
-   "model": "JVC PA 4K Android TV"
   }
  ],
  "Osmartphona": [
@@ -141830,6 +141914,13 @@
    "model": "LeNumero2"
   }
  ],
+ "PixStarTouch": [
+  {
+   "brand": "Ordissimo",
+   "name": "PixStarTouch",
+   "model": "PixStarTouch"
+  }
+ ],
  "OSIDDV1": [
   {
    "brand": "Orpyx",
@@ -154860,7 +154951,7 @@
    "model": "RMX2156"
   },
   {
-   "brand": "Realme",
+   "brand": "realme",
    "name": "realme narzo 30",
    "model": "RMX2156"
   }
@@ -157120,6 +157211,13 @@
    "brand": "Remdun",
    "name": "RD86E",
    "model": "RD86E"
+  }
+ ],
+ "RD895T": [
+  {
+   "brand": "Remdun",
+   "name": "RD895T",
+   "model": "RD895T"
   }
  ],
  "RD895TE": [
@@ -179183,6 +179281,13 @@
    "model": "SHG05"
   }
  ],
+ "BOL": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense6s",
+   "model": "SHG07"
+  }
+ ],
  "SX1": [
   {
    "brand": "Sharp",
@@ -180575,6 +180680,13 @@
    "brand": "Sharp",
    "name": "シンプルスマホ５",
    "model": "A001SH"
+  }
+ ],
+ "Levil": [
+  {
+   "brand": "Sharp",
+   "name": "シンプルスマホ６",
+   "model": "A201SH"
   }
  ],
  "SR01MW": [
@@ -206172,6 +206284,11 @@
   {
    "brand": "Umidigi",
    "name": "F3",
+   "model": "MP09"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "F3 EEA",
    "model": "MP09"
   }
  ],
