@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-04-26
+Last sync is 2022-04-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3329,6 +3329,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G50 MEGA|G0390WW|G50 Mega|
 |Blu|G50 MEGA 2022|G0670WW|G50 Mega 2022|
 |Blu|G50 Plus|G0350WW|G50 Plus|
+|Blu|G51|G0480WW|G51|
 |Blu|G51|G0490WW|G51|
 |Blu|G51 Plus|G0510WW|G51 Plus|
 |Blu|G51 Plus|G0512WW|G51 Plus|
@@ -19264,6 +19265,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|Multilaser F|Multilaser_F_A10|Multilaser_F|
 |Multilaser|Multilaser F Pro|Multilaser_F_Pro|Multilaser_F_Pro|
 |Multilaser|Multilaser F Pro 2|Multilaser_F_Pro_2|Multilaser_F_Pro_2|
+|Multilaser|Multilaser F2|Multilaser_F2|Multilaser_F2|
 |Multilaser|Multilaser G|Multilaser_G|Multilaser_G|
 |Multilaser|Multilaser G 2|Multilaser_G_2|Multilaser_G_2|
 |Multilaser|Multilaser G Max|Multilaser_G_Max|Multilaser_G_Max|
@@ -27541,6 +27543,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Skyworth|Euro|SW3_ATV|SWTV|
 |Skyworth|Europe|globe_eu|globe|
 |Skyworth|Hong Kong|open_uhd_hk|open_uhd|
+|Skyworth|LEAP-S1|LAS|LEAP-S1|
 |Skyworth|Leap-S2|YYT|4K Google TV Stick|
 |Skyworth|METZ 2K TV|shinagawa|METZ 2K TV|
 |Skyworth|NT-01|HP40A|NT-01|
@@ -28889,10 +28892,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 7 Lite|U3A_7_WIFI_Refresh|9309X|
 |TCL|TCL TAB 8 4G|Apollo_8_4G|9032X|
 |TCL|TCL TAB kids|Thor_8_4G_VZW|9049L|
-|TCL|TKEE MAX New|Aquaman_10_Smart_WIFI|8491XN|
-|TCL|TKEE MAX New|Aquaman_10_Smart_WIFI|8491XN_EEA|
-|TCL|TKEE MAX New|Aquaman_10_Smart_WIFI|8491XN_RU|
-|TCL|TKEE MAX New|Aquaman_10_Smart_WIFI|8491XN_TR|
+|TCL|TKEE MAX|Aquaman_10_Smart_WIFI|8491XN|
+|TCL|TKEE MAX|Aquaman_10_Smart_WIFI|8491XN_EEA|
+|TCL|TKEE MAX|Aquaman_10_Smart_WIFI|8491XN_RU|
+|TCL|TKEE MAX|Aquaman_10_Smart_WIFI|8491XN_TR|
 |TCL|TKEE MINI|Hulk_7_KIDS_WIFI|8093|
 |TCL|TKEE mini|Phoenix_7_Kids|9317G|
 |TCL|Union TV|UnionTV|UnionTV|
@@ -33254,7 +33257,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wiko|Sunny5|W-K380|W-K380-TVM2G|
 |Wiko|Sunny5 Lite|W-K211|W-K211-TH|
 |Wiko|Sunny5 Lite|W-K211|W-K211-TVM|
-|Wiko|T01|W-V674|WIKO T01|
 |Wiko|T10|W-V673|WIKO T10|
 |Wiko|T3|W-V770|W-V770|
 |Wiko|T50|W-P861|WIKO T50|

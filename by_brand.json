@@ -17157,6 +17157,11 @@
    "model": "G50 Plus"
   },
   {
+   "device": "G0480WW",
+   "name": "G51",
+   "model": "G51"
+  },
+  {
    "device": "G0490WW",
    "name": "G51",
    "model": "G51"
@@ -98972,6 +98977,11 @@
    "model": "Multilaser_F_Pro_2"
   },
   {
+   "device": "Multilaser_F2",
+   "name": "Multilaser F2",
+   "model": "Multilaser_F2"
+  },
+  {
    "device": "Multilaser_G",
    "name": "Multilaser G",
    "model": "Multilaser_G"
@@ -141303,6 +141313,11 @@
    "model": "open_uhd"
   },
   {
+   "device": "LAS",
+   "name": "LEAP-S1",
+   "model": "LEAP-S1"
+  },
+  {
    "device": "YYT",
    "name": "Leap-S2",
    "model": "4K Google TV Stick"
@@ -148232,22 +148247,22 @@
   },
   {
    "device": "Aquaman_10_Smart_WIFI",
-   "name": "TKEE MAX New",
+   "name": "TKEE MAX",
    "model": "8491XN"
   },
   {
    "device": "Aquaman_10_Smart_WIFI",
-   "name": "TKEE MAX New",
+   "name": "TKEE MAX",
    "model": "8491XN_EEA"
   },
   {
    "device": "Aquaman_10_Smart_WIFI",
-   "name": "TKEE MAX New",
+   "name": "TKEE MAX",
    "model": "8491XN_RU"
   },
   {
    "device": "Aquaman_10_Smart_WIFI",
-   "name": "TKEE MAX New",
+   "name": "TKEE MAX",
    "model": "8491XN_TR"
   },
   {
@@ -170732,11 +170747,6 @@
    "device": "W-K211",
    "name": "Sunny5 Lite",
    "model": "W-K211-TVM"
-  },
-  {
-   "device": "W-V674",
-   "name": "T01",
-   "model": "WIKO T01"
   },
   {
    "device": "W-V673",

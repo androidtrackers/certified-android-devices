@@ -25422,6 +25422,11 @@
   {
    "brand": "Blu",
    "name": "G51",
+   "device": "G0480WW"
+  },
+  {
+   "brand": "Blu",
+   "name": "G51",
    "device": "G0490WW"
   }
  ],
@@ -122013,6 +122018,11 @@
    "device": "LAS"
   },
   {
+   "brand": "Skyworth",
+   "name": "LEAP-S1",
+   "device": "LAS"
+  },
+  {
    "brand": "Strong",
    "name": "LEAP-S1",
    "device": "LAS"
@@ -133138,6 +133148,13 @@
    "brand": "Multilaser",
    "name": "Multilaser F Pro 2",
    "device": "Multilaser_F_Pro_2"
+  }
+ ],
+ "Multilaser_F2": [
+  {
+   "brand": "Multilaser",
+   "name": "Multilaser F2",
+   "device": "Multilaser_F2"
   }
  ],
  "Multilaser_G": [
@@ -196601,28 +196618,28 @@
  "8491XN": [
   {
    "brand": "TCL",
-   "name": "TKEE MAX New",
+   "name": "TKEE MAX",
    "device": "Aquaman_10_Smart_WIFI"
   }
  ],
  "8491XN_EEA": [
   {
    "brand": "TCL",
-   "name": "TKEE MAX New",
+   "name": "TKEE MAX",
    "device": "Aquaman_10_Smart_WIFI"
   }
  ],
  "8491XN_RU": [
   {
    "brand": "TCL",
-   "name": "TKEE MAX New",
+   "name": "TKEE MAX",
    "device": "Aquaman_10_Smart_WIFI"
   }
  ],
  "8491XN_TR": [
   {
    "brand": "TCL",
-   "name": "TKEE MAX New",
+   "name": "TKEE MAX",
    "device": "Aquaman_10_Smart_WIFI"
   }
  ],
@@ -224897,13 +224914,6 @@
    "brand": "Wiko",
    "name": "Sunny5 Lite",
    "device": "W-K211"
-  }
- ],
- "WIKO T01": [
-  {
-   "brand": "Wiko",
-   "name": "T01",
-   "device": "W-V674"
   }
  ],
  "WIKO T10": [

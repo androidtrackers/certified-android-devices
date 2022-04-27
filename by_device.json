@@ -27781,6 +27781,13 @@
    "model": "G50 Plus"
   }
  ],
+ "G0480WW": [
+  {
+   "brand": "Blu",
+   "name": "G51",
+   "model": "G51"
+  }
+ ],
  "G0490WW": [
   {
    "brand": "Blu",
@@ -85513,22 +85520,22 @@
   },
   {
    "brand": "TCL",
-   "name": "TKEE MAX New",
+   "name": "TKEE MAX",
    "model": "8491XN"
   },
   {
    "brand": "TCL",
-   "name": "TKEE MAX New",
+   "name": "TKEE MAX",
    "model": "8491XN_EEA"
   },
   {
    "brand": "TCL",
-   "name": "TKEE MAX New",
+   "name": "TKEE MAX",
    "model": "8491XN_RU"
   },
   {
    "brand": "TCL",
-   "name": "TKEE MAX New",
+   "name": "TKEE MAX",
    "model": "8491XN_TR"
   },
   {
@@ -119798,6 +119805,11 @@
    "model": "LEAP-S1"
   },
   {
+   "brand": "Skyworth",
+   "name": "LEAP-S1",
+   "model": "LEAP-S1"
+  },
+  {
    "brand": "Strong",
    "name": "LEAP-S1",
    "model": "LEAP-S1"
@@ -130693,6 +130705,13 @@
    "brand": "Multilaser",
    "name": "Multilaser F Pro 2",
    "model": "Multilaser_F_Pro_2"
+  }
+ ],
+ "Multilaser_F2": [
+  {
+   "brand": "Multilaser",
+   "name": "Multilaser F2",
+   "model": "Multilaser_F2"
   }
  ],
  "Multilaser_G": [
@@ -216612,13 +216631,6 @@
    "brand": "Wiko",
    "name": "Y51",
    "model": "W-K211-OPE"
-  }
- ],
- "W-V674": [
-  {
-   "brand": "Wiko",
-   "name": "T01",
-   "model": "WIKO T01"
   }
  ],
  "W-V673": [

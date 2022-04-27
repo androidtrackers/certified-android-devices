@@ -31491,6 +31491,11 @@
  "G51": [
   {
    "brand": "Blu",
+   "device": "G0480WW",
+   "model": "G51"
+  },
+  {
+   "brand": "Blu",
    "device": "G0490WW",
    "model": "G51"
   },
@@ -131307,6 +131312,13 @@
    "model": "Multilaser_F_Pro_2"
   }
  ],
+ "Multilaser F2": [
+  {
+   "brand": "Multilaser",
+   "device": "Multilaser_F2",
+   "model": "Multilaser_F2"
+  }
+ ],
  "Multilaser G": [
   {
    "brand": "Multilaser",
@@ -180766,6 +180778,18 @@
    "model": "open_uhd"
   }
  ],
+ "LEAP-S1": [
+  {
+   "brand": "Skyworth",
+   "device": "LAS",
+   "model": "LEAP-S1"
+  },
+  {
+   "brand": "Strong",
+   "device": "LAS",
+   "model": "LEAP-S1"
+  }
+ ],
  "Leap-S2": [
   {
    "brand": "Skyworth",
@@ -185833,13 +185857,6 @@
    "model": "Stream"
   }
  ],
- "LEAP-S1": [
-  {
-   "brand": "Strong",
-   "device": "LAS",
-   "model": "LEAP-S1"
-  }
- ],
  "SRT41": [
   {
    "brand": "Strong",
@@ -188716,7 +188733,7 @@
    "model": "9049L"
   }
  ],
- "TKEE MAX New": [
+ "TKEE MAX": [
   {
    "brand": "TCL",
    "device": "Aquaman_10_Smart_WIFI",
@@ -188736,6 +188753,26 @@
    "brand": "TCL",
    "device": "Aquaman_10_Smart_WIFI",
    "model": "8491XN_TR"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Aquaman_10_Kids_WIFI",
+   "model": "8095"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Aquaman_10_Kids_WIFI",
+   "model": "8095_EEA"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Aquaman_10_Kids_WIFI",
+   "model": "8095_RU"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "device": "Aquaman_10_Kids_WIFI",
+   "model": "8095_TR"
   }
  ],
  "TKEE MINI": [
@@ -195417,28 +195454,6 @@
    "brand": "TCT (Alcatel)",
    "device": "U50A_ATT",
    "model": "5041C"
-  }
- ],
- "TKEE MAX": [
-  {
-   "brand": "TCT (Alcatel)",
-   "device": "Aquaman_10_Kids_WIFI",
-   "model": "8095"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "device": "Aquaman_10_Kids_WIFI",
-   "model": "8095_EEA"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "device": "Aquaman_10_Kids_WIFI",
-   "model": "8095_RU"
-  },
-  {
-   "brand": "TCT (Alcatel)",
-   "device": "Aquaman_10_Kids_WIFI",
-   "model": "8095_TR"
   }
  ],
  "TKEE MINI NEW": [
@@ -214605,13 +214620,6 @@
    "brand": "Wiko",
    "device": "W-K211",
    "model": "W-K211-TVM"
-  }
- ],
- "T01": [
-  {
-   "brand": "Wiko",
-   "device": "W-V674",
-   "model": "WIKO T01"
   }
  ],
  "TOMMY": [
