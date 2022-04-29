@@ -2840,6 +2840,11 @@
    "model": "ADMIRAL 4K TV"
   },
   {
+   "device": "sunnyvale",
+   "name": "ADMIRAL TV",
+   "model": "ADMIRAL TV"
+  },
+  {
    "device": "C7",
    "name": "C7",
    "model": "C7"
@@ -17507,6 +17512,11 @@
    "model": "M8L"
   },
   {
+   "device": "M0171WW_ND",
+   "name": "M8L",
+   "model": "M8L"
+  },
+  {
    "device": "M0172WW",
    "name": "M8L",
    "model": "M8L"
@@ -20331,6 +20341,11 @@
    "device": "CASPER_L10_4_5G",
    "name": "CASPER_L10_4_5G",
    "model": "CASPER_L10_4.5G"
+  },
+  {
+   "device": "sunnyvale",
+   "name": "Casper 2K Smart TV",
+   "model": "Casper 2K Smart TV"
   },
   {
    "device": "VIA_S48",
@@ -27529,6 +27544,11 @@
    "device": "pioneer",
    "name": "4K SA Smart TV",
    "model": "4K SA Smart TV"
+  },
+  {
+   "device": "sunnyvale",
+   "name": "DAEWOO SMART TV",
+   "model": "DAEWOO SMART TV"
   },
   {
    "device": "DW-TN7RK16",
@@ -38378,6 +38398,11 @@
   {
    "device": "Klap_S1",
    "name": "Klap_S1",
+   "model": "Klap_S1"
+  },
+  {
+   "device": "Klap_S1_EEA",
+   "name": "Klap_S1_EEA",
    "model": "Klap_S1"
   },
   {
@@ -70777,6 +70802,11 @@
   }
  ],
  "Kodak": [
+  {
+   "device": "Kodak_D50PRO",
+   "name": "D50PRO",
+   "model": "D50PRO"
+  },
   {
    "device": "KodakEktra",
    "name": "Ektra",
@@ -112764,6 +112794,11 @@
  ],
  "Pluzz": [
   {
+   "device": "P13",
+   "name": "P13",
+   "model": "P13"
+  },
+  {
    "device": "PL4010",
    "name": "PL4010",
    "model": "PLUZZ_PL4010"
@@ -116545,6 +116580,13 @@
    "device": "Punos_7",
    "name": "Punos_7",
    "model": "Punos 7"
+  }
+ ],
+ "Q phone": [
+  {
+   "device": "2022",
+   "name": "2022",
+   "model": "2022"
   }
  ],
  "QBell": [
@@ -122593,9 +122635,19 @@
  ],
  "SSmooth": [
   {
+   "device": "Smooth_5_0_2022",
+   "name": "Smooth 5.0 2022",
+   "model": "Smooth 5.0 2022"
+  },
+  {
    "device": "Smooth5_5_Lite",
    "name": "Smooth 5.5 Lite",
    "model": "Smooth 5.5 Lite"
+  },
+  {
+   "device": "Smooth_5_5_MAX",
+   "name": "Smooth 5.5 MAX",
+   "model": "Smooth 5.5 MAX"
   },
   {
    "device": "Smooth6_26_Lite",
@@ -123045,6 +123097,16 @@
    "device": "ST7230MG",
    "name": "SUNWIND_SKY_7_E200_3G",
    "model": "SUNWIND SKY 7 E200 3G ST7230MG"
+  },
+  {
+   "device": "SS1259PG",
+   "name": "Sky_1123B_3G",
+   "model": "Sky 1123B 3G SS1259PG"
+  },
+  {
+   "device": "SS1260PG",
+   "name": "Sky_1262C_3G",
+   "model": "Sky 1262C 3G SS1260PG"
   },
   {
    "device": "SS7265PG",
@@ -146396,6 +146458,11 @@
  ],
  "Sunmi": [
   {
+   "device": "SUNMI-L2HNFC",
+   "name": "Sunmi L2H",
+   "model": "L2H_EEA"
+  },
+  {
    "device": "SUNMI-L2KsNFC",
    "name": "Sunmi L2Ks",
    "model": "L2Ks_EEA"
@@ -146406,6 +146473,16 @@
    "model": "L2Ks_GL"
   },
   {
+   "device": "SUNMI-L2KsNFC",
+   "name": "Sunmi L2Ks",
+   "model": "L2Ks_RU"
+  },
+  {
+   "device": "SUNMI-L2KsNFC",
+   "name": "Sunmi L2Ks",
+   "model": "L2Ks_TR"
+  },
+  {
    "device": "V2s",
    "name": "Sunmi V2s",
    "model": "V2s_EEA"
@@ -146414,6 +146491,11 @@
    "device": "V2s",
    "name": "Sunmi V2s",
    "model": "V2s_GL"
+  },
+  {
+   "device": "V2s",
+   "name": "Sunmi V2s",
+   "model": "V2s_TR"
   },
   {
    "device": "V2sNC",
@@ -167167,6 +167249,11 @@
    "model": "V2144"
   },
   {
+   "device": "V2145",
+   "name": "X80 Pro",
+   "model": "V2145"
+  },
+  {
    "device": "PD1616",
    "name": "X9",
    "model": "vivo X9"
@@ -184003,6 +184090,11 @@
    "device": "ZUUM_PAD_Kids",
    "name": "ZUUM PAD Kids",
    "model": "ZUUM PAD Kids"
+  },
+  {
+   "device": "ZUUM_PAD_Lightyear",
+   "name": "ZUUM PAD Lightyear",
+   "model": "ZUUM PAD Lightyear"
   }
  ],
  "afriphone": [

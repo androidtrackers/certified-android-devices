@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-04-28
+Last sync is 2022-04-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -540,6 +540,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Admiral Overseas Corporation|A2472PW4T|G3SMNTA24|G3SMNTA24|
 |Admiral Overseas Corporation|A7|A7|A7|
 |Admiral Overseas Corporation|ADMIRAL 4K TV|SW4H|ADMIRAL 4K TV|
+|Admiral Overseas Corporation|ADMIRAL TV|sunnyvale|ADMIRAL TV|
 |Admiral Overseas Corporation|C7|C7|C7|
 |Admiral Overseas Corporation|Fire|Fire|Fire|
 |Admiral Overseas Corporation|O7|O7|O7|
@@ -3399,6 +3400,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|M7i|M0160WW|M7i|
 |Blu|M8L|M0170WW|M8L|
 |Blu|M8L|M0171WW|M8L|
+|Blu|M8L|M0171WW_ND|M8L|
 |Blu|M8L|M0172WW|M8L|
 |Blu|M8L|M0173WW|M8L|
 |Blu|M8L|M0174WW|M8L|
@@ -3927,6 +3929,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Casper|Android TV|R2|ATV R2|
 |Casper|Android TV|R4|R4|
 |Casper|CASPER_L10_4_5G|CASPER_L10_4_5G|CASPER_L10_4.5G|
+|Casper|Casper 2K Smart TV|sunnyvale|Casper 2K Smart TV|
 |Casper|Casper VIA S48|VIA_S48|VIA_S48|
 |Casper|Casper VIA X20|VIA_X20|VIA X20|
 |Casper|L20|L20|L20|
@@ -5321,6 +5324,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DUODUOGO|Tablet-P8_EEA|Tablet-P8_EEA|Tablet-P8_EEA|
 |Daehap|DH-B301K|DH-B301K|DH-B301K|
 |Daewoo|4K SA Smart TV|pioneer|4K SA Smart TV|
+|Daewoo|DAEWOO SMART TV|sunnyvale|DAEWOO SMART TV|
 |Daewoo|DW-TN7RK16|DW-TN7RK16|DW-TN7RK16|
 |Daewoo|Daewoo 4K TV|SW4H_FF|Daewoo 4K TV|
 |Daewoo|Smart TV|mateo|2K SA Smart TV|
@@ -7391,6 +7395,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-TiDE|G-TiDE_P1_4|G-TiDE_P1_4|G-TiDE_P1|
 |G-TiDE|G-TiDE_P1_4G|G-TiDE_P1_4G|G-TiDE_P1_4G|
 |G-TiDE|Klap_S1|Klap_S1|Klap_S1|
+|G-TiDE|Klap_S1_EEA|Klap_S1_EEA|Klap_S1|
 |G-TiDE|PL1080|G-TiDE_H1_4G_EEA|G-TiDE_H1_4G|
 |G-TiDE|V1|V1|V1|
 |G-TiDE|V1_4G|V1_4G|V1_4G|
@@ -13730,6 +13735,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kobo|Arc 7|lbp8|arc 7|
 |Kobo|Arc 7HD|cardhu|arc 7HD|
 |Kobo|Vox|pegasus|Vox|
+|Kodak|D50PRO|Kodak_D50PRO|D50PRO|
 |Kodak|Ektra|KodakEktra|Ektra|
 |Kodak|IM5|IM5|IM5|
 |Kodak|KODAK SMARTWAY L1 PRO|L1_PRO|KODAK SMARTWAY L1 PRO|
@@ -21932,6 +21938,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Plusone|Priori 3|FTJ152A|FTJ152A|
 |Plusone|Priori3S|FTJ152B|FTJ152B|
 |Plusone|Smart HD|Smart_HD|Smart_HD|
+|Pluzz|P13|P13|P13|
 |Pluzz|PL4010|PL4010|PLUZZ_PL4010|
 |Pluzz|PLUZZ_PL5010|PL5010|PLUZZ_PL5010|
 |Pluzz|PLUZZ_PL5510|PLUZZ_PL5510|PLUZZ_PL5510|
@@ -22675,6 +22682,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Proximus|Proximus TV|uiw4020pxm|decoder|
 |Punos|Punos_10|Punos_10|Punos 10|
 |Punos|Punos_7|Punos_7|Punos 7|
+|Q phone|2022|2022|2022|
 |QBell|EU|nippori|QBELL Android TV 2K|
 |QBell|Italy|tamachi|Qbell FHD Android TV|
 |QBell|Italy|yeongdeungpo|Qbell UHD Android TV|
@@ -23827,7 +23835,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SSB PHONES|SSB5118R_GO|SSB5118R_GO|SSB5118R_GO|
 |SSB PHONES|SSB5518|SSB5518|SSB5518|
 |SSB PHONES|SSB554R|SSB554R|SSB554R|
+|SSmooth|Smooth 5.0 2022|Smooth_5_0_2022|Smooth 5.0 2022|
 |SSmooth|Smooth 5.5 Lite|Smooth5_5_Lite|Smooth 5.5 Lite|
+|SSmooth|Smooth 5.5 MAX|Smooth_5_5_MAX|Smooth 5.5 MAX|
 |SSmooth|Smooth 6.26 Lite|Smooth6_26_Lite|Smooth 6.26 Lite|
 |SSmooth|Smooth 6.26 Max|Smooth6_26_Max|Smooth 6.26 Max|
 |SSmooth|Smooth 6.26 Pro|Smooth6_26_Pro|Smooth 6.26 Pro|
@@ -23915,6 +23925,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SUNWIND|SS1270PL|SS1270PL|Sky 1430D 4G SS1270PL|
 |SUNWIND|SS7238PG|SS7238PG|SKY Kids 70 SS7238PG|
 |SUNWIND|SUNWIND_SKY_7_E200_3G|ST7230MG|SUNWIND SKY 7 E200 3G ST7230MG|
+|SUNWIND|Sky_1123B_3G|SS1259PG|Sky 1123B 3G SS1259PG|
+|SUNWIND|Sky_1262C_3G|SS1260PG|Sky 1262C 3G SS1260PG|
 |SUNWIND|Sky_7143B_3G_SS7265PG|SS7265PG|Sky 7143B 3G SS7265PG|
 |SUNWIND|Sky_8244B_3G_SS8263PG|SS8263PG|Sky 8244B 3G SS8263PG|
 |SUPERSONIC|SC-2109|SC-2109|SC-2109|
@@ -28534,10 +28546,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sumitomo Electric Industries|ST4500|ST4500|ST-4500|
 |Sumitomo Electric Networks||dhe1100|Hikari-iFrame/WDPF-703SE|
 |Sunbio|SB-TM700|SB-TM700|SB-TM700|
+|Sunmi|Sunmi L2H|SUNMI-L2HNFC|L2H_EEA|
 |Sunmi|Sunmi L2Ks|SUNMI-L2KsNFC|L2Ks_EEA|
 |Sunmi|Sunmi L2Ks|SUNMI-L2KsNFC|L2Ks_GL|
+|Sunmi|Sunmi L2Ks|SUNMI-L2KsNFC|L2Ks_RU|
+|Sunmi|Sunmi L2Ks|SUNMI-L2KsNFC|L2Ks_TR|
 |Sunmi|Sunmi V2s|V2s|V2s_EEA|
 |Sunmi|Sunmi V2s|V2s|V2s_GL|
+|Sunmi|Sunmi V2s|V2s|V2s_TR|
 |Sunmi|V2sNC|V2sNC|V2sNC_EEA|
 |Sunmi|V2sNC|V2sNC|V2sNC_GL|
 |Sunmi|V2sNC|V2sNC|V2sNC_RU|
@@ -32563,6 +32579,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|X7|PD1602|vivo X7|
 |Vivo|X7Plus|PD1603|vivo X7Plus|
 |Vivo|X80|V2144|V2144|
+|Vivo|X80 Pro|V2145|V2145|
 |Vivo|X9|PD1616|vivo X9|
 |Vivo|X9i|PD1624|vivo X9i|
 |Vivo|Xplay5A|PD1522A|vivo PD1522A|
@@ -35863,6 +35880,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zuum|ZUUM Gravity|Gravity|Gravity|
 |Zuum|ZUUM MAGNO PLUS|MAGNO_PLUS|MAGNO PLUS|
 |Zuum|ZUUM PAD Kids|ZUUM_PAD_Kids|ZUUM PAD Kids|
+|Zuum|ZUUM PAD Lightyear|ZUUM_PAD_Lightyear|ZUUM PAD Lightyear|
 |afriphone|smart_S5|smart_S5|smart_S5|
 |alter|MIG|MIG|MIG|
 |amulet7|P10SU_Plus|P10SU_Plus|P10SU_Plus|

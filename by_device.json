@@ -6849,6 +6849,68 @@
    "model": "Yasin Android TV"
   }
  ],
+ "sunnyvale": [
+  {
+   "brand": "Admiral Overseas Corporation",
+   "name": "ADMIRAL TV",
+   "model": "ADMIRAL TV"
+  },
+  {
+   "brand": "Casper",
+   "name": "Casper 2K Smart TV",
+   "model": "Casper 2K Smart TV"
+  },
+  {
+   "brand": "Daewoo",
+   "name": "DAEWOO SMART TV",
+   "model": "DAEWOO SMART TV"
+  },
+  {
+   "brand": "Indurama",
+   "name": "indurama Smart TV",
+   "model": "indurama Smart TV"
+  },
+  {
+   "brand": "Mondial",
+   "name": "MONDIAL Smart TV",
+   "model": "MONDIAL Smart TV"
+  },
+  {
+   "brand": "PRISMPLUS",
+   "name": "PrismPlus Android TV",
+   "model": "PrismPlus Android TV"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-21AE",
+   "model": "SWTV-21AE"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-21SA",
+   "model": "SWTV-21SA"
+  },
+  {
+   "brand": "Sansui",
+   "name": "SANSUI SmartTV",
+   "model": "SANSUI SmartTV"
+  },
+  {
+   "brand": "Singer",
+   "name": "SINGER ANDROID TV",
+   "model": "SINGER ANDROID TV"
+  },
+  {
+   "brand": "VIZZION",
+   "name": "VIZZION Smart TV",
+   "model": "VIZZION Smart TV"
+  },
+  {
+   "brand": "Xtreme",
+   "name": "XTREME AI TV",
+   "model": "XTREME AI TV"
+  }
+ ],
  "Fire": [
   {
    "brand": "Admiral Overseas Corporation",
@@ -28259,6 +28321,13 @@
   }
  ],
  "M0171WW": [
+  {
+   "brand": "Blu",
+   "name": "M8L",
+   "model": "M8L"
+  }
+ ],
+ "M0171WW_ND": [
   {
    "brand": "Blu",
    "name": "M8L",
@@ -56912,6 +56981,13 @@
   {
    "brand": "G-TiDE",
    "name": "Klap_S1",
+   "model": "Klap_S1"
+  }
+ ],
+ "Klap_S1_EEA": [
+  {
+   "brand": "G-TiDE",
+   "name": "Klap_S1_EEA",
    "model": "Klap_S1"
   }
  ],
@@ -86283,53 +86359,6 @@
    "model": "HG680_FJ"
   }
  ],
- "sunnyvale": [
-  {
-   "brand": "Indurama",
-   "name": "indurama Smart TV",
-   "model": "indurama Smart TV"
-  },
-  {
-   "brand": "Mondial",
-   "name": "MONDIAL Smart TV",
-   "model": "MONDIAL Smart TV"
-  },
-  {
-   "brand": "PRISMPLUS",
-   "name": "PrismPlus Android TV",
-   "model": "PrismPlus Android TV"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-21AE",
-   "model": "SWTV-21AE"
-  },
-  {
-   "brand": "SWTV",
-   "name": "SWTV-21SA",
-   "model": "SWTV-21SA"
-  },
-  {
-   "brand": "Sansui",
-   "name": "SANSUI SmartTV",
-   "model": "SANSUI SmartTV"
-  },
-  {
-   "brand": "Singer",
-   "name": "SINGER ANDROID TV",
-   "model": "SINGER ANDROID TV"
-  },
-  {
-   "brand": "VIZZION",
-   "name": "VIZZION Smart TV",
-   "model": "VIZZION Smart TV"
-  },
-  {
-   "brand": "Xtreme",
-   "name": "XTREME AI TV",
-   "model": "XTREME AI TV"
-  }
- ],
  "D711HC_PG": [
   {
    "brand": "Inet-Tablet",
@@ -95645,6 +95674,13 @@
    "brand": "Kobo",
    "name": "Vox",
    "model": "Vox"
+  }
+ ],
+ "Kodak_D50PRO": [
+  {
+   "brand": "Kodak",
+   "name": "D50PRO",
+   "model": "D50PRO"
   }
  ],
  "KodakEktra": [
@@ -107792,6 +107828,11 @@
    "brand": "Sunmi",
    "name": "Sunmi V2s",
    "model": "V2s_GL"
+  },
+  {
+   "brand": "Sunmi",
+   "name": "Sunmi V2s",
+   "model": "V2s_TR"
   }
  ],
  "LE9920_P": [
@@ -147520,6 +147561,18 @@
    "model": "Smart_HD"
   }
  ],
+ "P13": [
+  {
+   "brand": "Pluzz",
+   "name": "P13",
+   "model": "P13"
+  },
+  {
+   "brand": "Reeder",
+   "name": "P13",
+   "model": "P13"
+  }
+ ],
  "PL4010": [
   {
    "brand": "Pluzz",
@@ -152048,6 +152101,18 @@
    "brand": "Punos",
    "name": "Punos_7",
    "model": "Punos 7"
+  }
+ ],
+ "2022": [
+  {
+   "brand": "Q phone",
+   "name": "2022",
+   "model": "2022"
+  },
+  {
+   "brand": "Vivo",
+   "name": "iQOO 9 Pro",
+   "model": "I2022"
   }
  ],
  "QPHONE_10_1": [
@@ -156749,13 +156814,6 @@
    "model": "P12Curve"
   }
  ],
- "P13": [
-  {
-   "brand": "Reeder",
-   "name": "P13",
-   "model": "P13"
-  }
- ],
  "P13_Blue": [
   {
    "brand": "Reeder",
@@ -159186,11 +159244,25 @@
    "model": "SSB554R"
   }
  ],
+ "Smooth_5_0_2022": [
+  {
+   "brand": "SSmooth",
+   "name": "Smooth 5.0 2022",
+   "model": "Smooth 5.0 2022"
+  }
+ ],
  "Smooth5_5_Lite": [
   {
    "brand": "SSmooth",
    "name": "Smooth 5.5 Lite",
    "model": "Smooth 5.5 Lite"
+  }
+ ],
+ "Smooth_5_5_MAX": [
+  {
+   "brand": "SSmooth",
+   "name": "Smooth 5.5 MAX",
+   "model": "Smooth 5.5 MAX"
   }
  ],
  "Smooth6_26_Lite": [
@@ -159783,6 +159855,20 @@
    "brand": "SUNWIND",
    "name": "SUNWIND_SKY_7_E200_3G",
    "model": "SUNWIND SKY 7 E200 3G ST7230MG"
+  }
+ ],
+ "SS1259PG": [
+  {
+   "brand": "SUNWIND",
+   "name": "Sky_1123B_3G",
+   "model": "Sky 1123B 3G SS1259PG"
+  }
+ ],
+ "SS1260PG": [
+  {
+   "brand": "SUNWIND",
+   "name": "Sky_1262C_3G",
+   "model": "Sky 1262C 3G SS1260PG"
   }
  ],
  "SS7265PG": [
@@ -189065,6 +189151,13 @@
    "model": "SB-TM700"
   }
  ],
+ "SUNMI-L2HNFC": [
+  {
+   "brand": "Sunmi",
+   "name": "Sunmi L2H",
+   "model": "L2H_EEA"
+  }
+ ],
  "SUNMI-L2KsNFC": [
   {
    "brand": "Sunmi",
@@ -189075,6 +189168,16 @@
    "brand": "Sunmi",
    "name": "Sunmi L2Ks",
    "model": "L2Ks_GL"
+  },
+  {
+   "brand": "Sunmi",
+   "name": "Sunmi L2Ks",
+   "model": "L2Ks_RU"
+  },
+  {
+   "brand": "Sunmi",
+   "name": "Sunmi L2Ks",
+   "model": "L2Ks_TR"
   }
  ],
  "V2sNC": [
@@ -212285,6 +212388,13 @@
    "model": "V2144"
   }
  ],
+ "V2145": [
+  {
+   "brand": "Vivo",
+   "name": "X80 Pro",
+   "model": "V2145"
+  }
+ ],
  "PD1616": [
   {
    "brand": "Vivo",
@@ -212584,13 +212694,6 @@
    "brand": "Vivo",
    "name": "Z3i",
    "model": "V1813A"
-  }
- ],
- "2022": [
-  {
-   "brand": "Vivo",
-   "name": "iQOO 9 Pro",
-   "model": "I2022"
   }
  ],
  "2019": [
@@ -231313,6 +231416,13 @@
    "brand": "Zuum",
    "name": "ZUUM PAD Kids",
    "model": "ZUUM PAD Kids"
+  }
+ ],
+ "ZUUM_PAD_Lightyear": [
+  {
+   "brand": "Zuum",
+   "name": "ZUUM PAD Lightyear",
+   "model": "ZUUM PAD Lightyear"
   }
  ],
  "smart_S5": [
