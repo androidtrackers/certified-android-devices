@@ -1113,6 +1113,11 @@
    "device": "Mete8_EEA",
    "name": "Mete8_EEA",
    "model": "Mete8_EEA"
+  },
+  {
+   "device": "Azumi_V60F",
+   "name": "V60",
+   "model": "V60"
   }
  ],
  "AV": [
@@ -3580,6 +3585,18 @@
    "device": "moxie",
    "name": "moxie",
    "model": "moxie"
+  }
+ ],
+ "Afrrikia": [
+  {
+   "device": "AFK-0001-1001",
+   "name": "AFK-0001-1001",
+   "model": "AFK-0001-1001"
+  },
+  {
+   "device": "AFK-0001-1002",
+   "name": "AFK-0001-1002",
+   "model": "AFK-0001-1002"
   }
  ],
  "Aikun": [
@@ -12970,6 +12987,11 @@
    "model": "BL61"
   },
   {
+   "device": "Bmobile_BL62",
+   "name": "BL62",
+   "model": "BL62"
+  },
+  {
    "device": "Bmobile_BL62H",
    "name": "BL62",
    "model": "BL62"
@@ -16128,9 +16150,19 @@
    "model": "Tab 10"
   },
   {
+   "device": "Tab11_EA",
+   "name": "Tab11_EA",
+   "model": "Tab 11"
+  },
+  {
    "device": "Tab11_EEA",
    "name": "Tab11_EEA",
    "model": "Tab11"
+  },
+  {
+   "device": "Tab11_NEU",
+   "name": "Tab11_NEU",
+   "model": "Tab 11"
   },
   {
    "device": "Tab11_ROW",
@@ -17152,6 +17184,11 @@
    "model": "G50 Mega"
   },
   {
+   "device": "G0660WW",
+   "name": "G50 MEGA 2022",
+   "model": "G50 Mega 2022"
+  },
+  {
    "device": "G0670WW",
    "name": "G50 MEGA 2022",
    "model": "G50 Mega 2022"
@@ -17945,6 +17982,11 @@
    "device": "S0570WW",
    "name": "Studio X10L",
    "model": "Studio X10L"
+  },
+  {
+   "device": "S0590LL",
+   "name": "Studio X10L 2022",
+   "model": "Studio X10L 2022"
   },
   {
    "device": "S050EQ",
@@ -21361,6 +21403,11 @@
    "device": "A1100",
    "name": "A1100",
    "model": "A1100"
+  },
+  {
+   "device": "A1130",
+   "name": "A1130",
+   "model": "A1130"
   },
   {
    "device": "A810",
@@ -32094,6 +32141,11 @@
    "model": "ENIE_E2"
   },
   {
+   "device": "SKT119",
+   "name": "SKT119",
+   "model": "SKT119"
+  },
+  {
    "device": "SKT706",
    "name": "SKT706",
    "model": "SKT706"
@@ -32696,6 +32748,11 @@
   }
  ],
  "Ehlel": [
+  {
+   "device": "Ehlel-C7PRO",
+   "name": "Ehlel C7 PRO",
+   "model": "Ehlel C7 PRO"
+  },
   {
    "device": "Ehlel-Hulan21",
    "name": "HULAN21 PLUS",
@@ -35136,6 +35193,11 @@
    "device": "F10L",
    "name": "F10L",
    "model": "F10L"
+  },
+  {
+   "device": "F11",
+   "name": "F11",
+   "model": "F11"
   }
  ],
  "FANGOR": [
@@ -42251,6 +42313,11 @@
    "device": "Hpad1",
    "name": "Hpad1",
    "model": "Hpad1"
+  },
+  {
+   "device": "Hpad2",
+   "name": "Hpad2",
+   "model": "H2"
   }
  ],
  "HEALTHJAY": [
@@ -44716,6 +44783,11 @@
    "device": "HTC_A100",
    "name": "HTC A100",
    "model": "HTC A100"
+  },
+  {
+   "device": "HTC_A101",
+   "name": "HTC A101",
+   "model": "HTC A101"
   },
   {
    "device": "htc_zddugl",
@@ -47311,6 +47383,11 @@
   }
  ],
  "Haitech": [
+  {
+   "device": "HPAD-M2",
+   "name": "HPAD-M2",
+   "model": "HPAD-M2"
+  },
   {
    "device": "HPAD_IA65",
    "name": "HPAD_IA65",
@@ -69164,6 +69241,13 @@
    "model": "RAINBOW"
   }
  ],
+ "KOOMII": [
+  {
+   "device": "KOOMII_A6",
+   "name": "KOOMII_A6",
+   "model": "KOOMII A6"
+  }
+ ],
  "KOOOK": [
   {
    "device": "GBC_bravo",
@@ -70117,6 +70201,11 @@
    "model": "D58"
   },
   {
+   "device": "D70",
+   "name": "D70",
+   "model": "D70"
+  },
+  {
    "device": "K10",
    "name": "K10",
    "model": "K10"
@@ -70858,6 +70947,11 @@
    "model": "D50L"
   },
   {
+   "device": "Kodak_D50PROL",
+   "name": "Kodak_D50PROL",
+   "model": "D50PROL"
+  },
+  {
    "device": "Kodak_D55L",
    "name": "Kodak_D55L",
    "model": "D55L"
@@ -70866,6 +70960,11 @@
    "device": "Kodak_D60LX",
    "name": "Kodak_D60LX",
    "model": "D60LX"
+  },
+  {
+   "device": "Kodak_D65L",
+   "name": "Kodak_D65L",
+   "model": "D65L"
   },
   {
    "device": "Kodak_D65LX",
@@ -72330,6 +72429,13 @@
    "device": "X-431PADVII",
    "name": "X-431 PAD VII",
    "model": "AI System EN P133-01"
+  }
+ ],
+ "LAZOR": [
+  {
+   "device": "InfinityT10101",
+   "name": "InfinityT10101",
+   "model": "InfinityT10101"
   }
  ],
  "LBQ (UK)": [
@@ -89261,6 +89367,11 @@
    "model": "MASCOM SS289"
   },
   {
+   "device": "MASCOM_WS517",
+   "name": "MASCOM WS517",
+   "model": "MASCOM WS517"
+  },
+  {
    "device": "Mascom_L850",
    "name": "Mascom_L850",
    "model": "Mascom_L850"
@@ -98110,6 +98221,16 @@
    "model": "M9110"
   },
   {
+   "device": "M9111",
+   "name": "M9111",
+   "model": "M9111"
+  },
+  {
+   "device": "M9112",
+   "name": "M9112",
+   "model": "M9112"
+  },
+  {
    "device": "M9113",
    "name": "M9113",
    "model": "M9113"
@@ -106743,6 +106864,11 @@
    "device": "OP5217",
    "name": "PFDM00",
    "model": "PFDM00"
+  },
+  {
+   "device": "OP520DL1",
+   "name": "PFFM10",
+   "model": "PFFM10"
   },
   {
    "device": "OP520F",
@@ -116232,6 +116358,11 @@
    "model": "M10_Lite"
   },
   {
+   "device": "M10_Max",
+   "name": "M10_Max",
+   "model": "M10_Max"
+  },
+  {
    "device": "M10_PLUS",
    "name": "M10_PLUS",
    "model": "M10_PLUS"
@@ -121723,6 +121854,11 @@
   }
  ],
  "SGIN": [
+  {
+   "device": "SGIN_E10M",
+   "name": "SGIN_E10M",
+   "model": "SGIN_E10M"
+  },
   {
    "device": "SGIN_X10",
    "name": "SGIN_X10",
@@ -145146,6 +145282,13 @@
    "model": "SoyMomo_Pro_V2"
   }
  ],
+ "SoyMomo_Tablet": [
+  {
+   "device": "SoyMomo_PRO_V2MAX",
+   "name": "SoyMomo_PRO_V2MAX",
+   "model": "SoyMomo_PRO_V2MAX"
+  }
+ ],
  "Spark": [
   {
    "device": "Spark_Plus_3",
@@ -145972,6 +146115,11 @@
    "model": "INKULU"
   },
   {
+   "device": "INKULU_PRO",
+   "name": "INKULU_PRO",
+   "model": "INKULU_PRO"
+  },
+  {
    "device": "Ithemba",
    "name": "Ithemba",
    "model": "Ithemba"
@@ -146165,6 +146313,11 @@
    "device": "TAB4",
    "name": "TAB4",
    "model": "TAB4"
+  },
+  {
+   "device": "TITAN",
+   "name": "TITAN",
+   "model": "TITAN"
   },
   {
    "device": "Ultra",
@@ -156584,6 +156737,11 @@
    "model": "M40SE"
   },
   {
+   "device": "M40SE_Y_ROW",
+   "name": "M40SE_Y_ROW",
+   "model": "M40SE"
+  },
+  {
    "device": "M40_EEA",
    "name": "M40_EEA",
    "model": "M40_EEA"
@@ -158573,6 +158731,18 @@
    "device": "TC97RA1_1",
    "name": "TC97RA1",
    "model": "TC97RA1"
+  }
+ ],
+ "Telas": [
+  {
+   "device": "RKG107",
+   "name": "RKG107",
+   "model": "RKG107"
+  },
+  {
+   "device": "RKG107_EEA",
+   "name": "RKG107_EEA",
+   "model": "RKG107_EEA"
   }
  ],
  "Telcel": [
@@ -169434,6 +169604,11 @@
    "device": "OrbitM20",
    "name": "Orbit M20",
    "model": "Orbit M20"
+  },
+  {
+   "device": "OrbitY20",
+   "name": "Orbit Y20",
+   "model": "Orbit Y20"
   },
   {
    "device": "PRIMO_D10",
