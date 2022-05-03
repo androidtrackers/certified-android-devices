@@ -131463,6 +131463,11 @@
    "brand": "Motorola",
    "name": "moto g200 5G",
    "device": "xpeng"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 30",
+   "device": "dubai"
   }
  ],
  "motorola edge 20 pro": [
@@ -131647,6 +131652,13 @@
    "brand": "Motorola",
    "name": "motorola edge 20 lite",
    "device": "kyoto"
+  }
+ ],
+ "motorola edge 30": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 30",
+   "device": "dubai"
   }
  ],
  "motorola edge 30 pro": [

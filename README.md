@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-05-02
+Last sync is 2022-05-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -19024,6 +19024,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge 20 lite|kyoto|motorola edge 20 lite|
 |Motorola|motorola edge 20 pro|pstar|moto g(100)|
 |Motorola|motorola edge 20 pro|pstar|motorola edge 20 pro|
+|Motorola|motorola edge 30|dubai|moto g200 5G|
+|Motorola|motorola edge 30|dubai|motorola edge 30|
 |Motorola|motorola edge 30 pro|hiphi|motorola edge 30 pro|
 |Motorola|motorola edge 30 pro|hiphi|motorola edge plus|
 |Motorola|motorola edge 5G UW (2021)|berlna|motorola edge 5G UW|
