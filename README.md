@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-05-04
+Last sync is 2022-05-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -24161,6 +24161,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A13|a13|SM-A135N|
 |Samsung|Galaxy A13|a13|SM-A135U|
 |Samsung|Galaxy A13|a13|SM-A135U1|
+|Samsung|Galaxy A13 5G|a13x|SM-A136B|
 |Samsung|Galaxy A13 5G|a13x|SM-A136U|
 |Samsung|Galaxy A13 5G|a13x|SM-A136U1|
 |Samsung|Galaxy A13 5G|a13x|SM-A136W|
@@ -36451,6 +36452,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|Smart TV|redwood|AI PONT|
 |realme|TV Stick|BOS|TV Stick|
 |realme|realme  8|RMX3085L1|RMX3085|
+|realme|realme  9i|RED8C1L1|RMX3491|
 |realme|realme  X7 Max|RMX3031L1|RMX3031|
 |realme|realme 6|RMX2001L1|RMX2001|
 |realme|realme 6|RMX2002L1|RMX2002|

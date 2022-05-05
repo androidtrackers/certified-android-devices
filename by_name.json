@@ -161615,6 +161615,11 @@
   {
    "brand": "Samsung",
    "device": "a13x",
+   "model": "SM-A136B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a13x",
    "model": "SM-A136U"
   },
   {
@@ -232395,6 +232400,13 @@
    "brand": "realme",
    "device": "RMX3085L1",
    "model": "RMX3085"
+  }
+ ],
+ "realme  9i": [
+  {
+   "brand": "realme",
+   "device": "RED8C1L1",
+   "model": "RMX3491"
   }
  ],
  "realme  X7 Max": [

@@ -161250,6 +161250,11 @@
   {
    "brand": "Samsung",
    "name": "Galaxy A13 5G",
+   "model": "SM-A136B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A13 5G",
    "model": "SM-A136U"
   },
   {
@@ -234805,6 +234810,28 @@
    "model": "RMX3085"
   }
  ],
+ "RED8C1L1": [
+  {
+   "brand": "realme",
+   "name": "realme  9i",
+   "model": "RMX3491"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 9i",
+   "model": "RMX3491"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 9i",
+   "model": "RMX3493"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 9i",
+   "model": "RMX3493"
+  }
+ ],
  "RMX3031L1": [
   {
    "brand": "realme",
@@ -234862,23 +234889,6 @@
    "brand": "realme",
    "name": "realme 9Pro 5G",
    "model": "RMX3472"
-  }
- ],
- "RED8C1L1": [
-  {
-   "brand": "realme",
-   "name": "realme 9i",
-   "model": "RMX3491"
-  },
-  {
-   "brand": "realme",
-   "name": "realme 9i",
-   "model": "RMX3493"
-  },
-  {
-   "brand": "realme",
-   "name": "realme 9i",
-   "model": "RMX3493"
   }
  ],
  "RMX2195L1": [
