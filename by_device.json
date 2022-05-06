@@ -104,6 +104,13 @@
    "model": "G706"
   }
  ],
+ "S3000": [
+  {
+   "brand": "3BBTV",
+   "name": "3BBTV",
+   "model": "S3000-T0C08"
+  }
+ ],
  "TBBTV01": [
   {
    "brand": "3BBTV",
@@ -898,6 +905,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "Banana",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "COL",
    "model": "40DCOL"
   },
@@ -924,6 +936,11 @@
   {
    "brand": "KTCtv",
    "name": "SA",
+   "model": "40DSA"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "Zitro",
    "model": "40DSA"
   },
   {
@@ -117871,6 +117888,20 @@
    "model": "Vodafone 875"
   }
  ],
+ "S4000": [
+  {
+   "brand": "MTC",
+   "name": "canada",
+   "model": "S4000-C0C10"
+  }
+ ],
+ "S2000": [
+  {
+   "brand": "MTC",
+   "name": "chile",
+   "model": "S2000-Z0C11"
+  }
+ ],
  "MTN-TBW5982C3": [
   {
    "brand": "MTN Group",
@@ -137583,6 +137614,11 @@
   }
  ],
  "OnePlus7T": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 7T",
+   "model": "HD1900"
+  },
   {
    "brand": "OnePlus",
    "name": "OnePlus 7T",
@@ -161251,6 +161287,11 @@
    "brand": "Samsung",
    "name": "Galaxy A13 5G",
    "model": "SM-A136B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A13 5G",
+   "model": "SM-A136M"
   },
   {
    "brand": "Samsung",

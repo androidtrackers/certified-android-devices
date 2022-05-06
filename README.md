@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-05-05
+Last sync is 2022-05-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17,6 +17,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |10.or|G|G|G|
 |10.or|G2|G2|G2|
 |3222222 Satelital|G706|G706|G706|
+|3BBTV|3BBTV|S3000|S3000-T0C08|
 |3BBTV|TBBTV01|TBBTV01|TBBTV01|
 |3Go|GT10K3IPS|GT10K3IPS|GT10K3IPS|
 |3Go|GT70053G|GT70053G|GT70053G|
@@ -13473,6 +13474,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTC (PD)|BLISS503|BLISS503|BLISS503|
 |KTC (PD)|BLISS_8|BLISS_8|BLISS_8|
 |KTCtv|AP|stanford|40D|
+|KTCtv|Banana|stanford|2K SMART TV|
 |KTCtv|Banana|zhongshan|4K SMART TV|
 |KTCtv|COL|stanford|40DCOL|
 |KTCtv|DIGGIO|stanford|CSV2K|
@@ -13482,6 +13484,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|NAKAMICHI|stanford|CSV2K|
 |KTCtv|Rosso|stanford|40D|
 |KTCtv|SA|stanford|40DSA|
+|KTCtv|Zitro|stanford|40DSA|
 |KTV|PureKTV|DV8219|Pure|
 |KTV|PureKTV|DV8219|PureKTV|
 |KUBIK|KUBIK_GENTA_10|KUBIK_GENTA_10|KUBIK_GENTA_10|
@@ -17257,6 +17260,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MTC|SmartEver|shilin|SmartEver4KAndroidTV|
 |MTC|Smart_Light|Smart_Light|Smart_Light|
 |MTC|Vodafone Smart mini|Vodafone_875|MTC 970H|
+|MTC|canada|S4000|S4000-C0C10|
+|MTC|chile|S2000|S2000-Z0C11|
 |MTN Group|5982C3|MTN-TBW5982C3|MTN-TBW5982C3|
 |MTN Group|8978P|MTN-8978P|MTN-8978P|
 |MTN Group|K919|K919|K919|
@@ -20364,6 +20369,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 7 Pro|OnePlus7Pro|GM1917|
 |OnePlus|OnePlus 7 Pro|OnePlus7ProTMO|GM1915|
 |OnePlus|OnePlus 7 Pro 5G|OnePlus7ProNR|GM1920|
+|OnePlus|OnePlus 7T|OnePlus7T|HD1900|
 |OnePlus|OnePlus 7T|OnePlus7T|HD1905|
 |OnePlus|OnePlus 7T|OnePlus7TTMO|HD1907|
 |OnePlus|OnePlus 7T Pro|OnePlus7TPro|HD1913|
@@ -24162,6 +24168,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A13|a13|SM-A135U|
 |Samsung|Galaxy A13|a13|SM-A135U1|
 |Samsung|Galaxy A13 5G|a13x|SM-A136B|
+|Samsung|Galaxy A13 5G|a13x|SM-A136M|
 |Samsung|Galaxy A13 5G|a13x|SM-A136U|
 |Samsung|Galaxy A13 5G|a13x|SM-A136U1|
 |Samsung|Galaxy A13 5G|a13x|SM-A136W|
