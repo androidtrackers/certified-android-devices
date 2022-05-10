@@ -11524,6 +11524,28 @@
    "model": "Singer Android UHD TV"
   }
  ],
+ "sinchon": [
+  {
+   "brand": "Altus",
+   "name": "Altus Android TV",
+   "model": "4K Pro TV"
+  },
+  {
+   "brand": "Arçelik",
+   "name": "Arçelik Android TV",
+   "model": "Arcelik Android TV"
+  },
+  {
+   "brand": "Beko",
+   "name": "Beko Android TV",
+   "model": "Beko Android TV"
+  },
+  {
+   "brand": "Grundig",
+   "name": "Grundig Android TV",
+   "model": "Grundig Android TV"
+  }
+ ],
  "Azumi_KIREI_A5Q_PLUS_AC06": [
   {
    "brand": "Americamovil",
@@ -15571,23 +15593,6 @@
    "brand": "Artizlee",
    "name": "Artizlee S9",
    "model": "Artizlee_S9"
-  }
- ],
- "sinchon": [
-  {
-   "brand": "Arçelik",
-   "name": "Arçelik Android TV",
-   "model": "Arcelik Android TV"
-  },
-  {
-   "brand": "Beko",
-   "name": "Beko Android TV",
-   "model": "Beko Android TV"
-  },
-  {
-   "brand": "Grundig",
-   "name": "Grundig Android TV",
-   "model": "Grundig Android TV"
   }
  ],
  "A1": [
@@ -31292,6 +31297,13 @@
    "brand": "CORN",
    "name": "C55",
    "model": "C55"
+  }
+ ],
+ "S55310": [
+  {
+   "brand": "CORN",
+   "name": "C55 Pro",
+   "model": "C55 Pro"
   }
  ],
  "C55_Pro": [
@@ -49015,6 +49027,11 @@
    "model": "X400"
   },
   {
+   "brand": "OMIX",
+   "name": "X400",
+   "model": "X400"
+  },
+  {
    "brand": "Positivo",
    "name": "X400",
    "model": "X400"
@@ -57090,6 +57107,13 @@
    "model": "Q4"
   }
  ],
+ "Q6": [
+  {
+   "brand": "G-Tab",
+   "name": "Q6",
+   "model": "Q6"
+  }
+ ],
  "Q69": [
   {
    "brand": "G-Tab",
@@ -61813,6 +61837,13 @@
    "brand": "Greentel",
    "name": "X1_Light_Lte",
    "model": "X1_Light_Lte"
+  }
+ ],
+ "X2_Premium": [
+  {
+   "brand": "Greentel",
+   "name": "X2 Premium",
+   "model": "X2 Premium"
   }
  ],
  "P4072": [
@@ -85494,6 +85525,20 @@
    "model": "INOI_5_Pro"
   }
  ],
+ "A170": [
+  {
+   "brand": "INOI",
+   "name": "INOI A72",
+   "model": "A170"
+  }
+ ],
+ "A171": [
+  {
+   "brand": "INOI",
+   "name": "INOI A72",
+   "model": "A171"
+  }
+ ],
  "A180": [
   {
    "brand": "INOI",
@@ -93761,6 +93806,18 @@
    "brand": "KEYENCE",
    "name": "DX-A600",
    "model": "DX-A600"
+  }
+ ],
+ "A56": [
+  {
+   "brand": "KGTEL",
+   "name": "A56",
+   "model": "A56"
+  },
+  {
+   "brand": "Micromax",
+   "name": "A56",
+   "model": "Micromax A56"
   }
  ],
  "Better10": [
@@ -121809,13 +121866,6 @@
    "model": "A54"
   }
  ],
- "A56": [
-  {
-   "brand": "Micromax",
-   "name": "A56",
-   "model": "Micromax A56"
-  }
- ],
  "A57": [
   {
    "brand": "Micromax",
@@ -129094,11 +129144,6 @@
    "brand": "Motorola",
    "name": "moto g40 fusion",
    "model": "moto g(40) fusion"
-  },
-  {
-   "brand": "Motorola",
-   "name": "moto g60",
-   "model": "moto g(60)"
   }
  ],
  "lisbon": [
@@ -149218,6 +149263,11 @@
    "brand": "Positivo",
    "name": "T810",
    "model": "T810"
+  },
+  {
+   "brand": "Positivo",
+   "name": "T810",
+   "model": "Tab Q8 Lite"
   }
  ],
  "S520": [
@@ -164868,6 +164918,11 @@
    "brand": "Samsung",
    "name": "Galaxy M23 5G",
    "model": "SM-M236B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M23 5G",
+   "model": "SM-M236L"
   },
   {
    "brand": "Samsung",
@@ -211472,6 +211527,13 @@
    "model": "vivo NEX A"
   }
  ],
+ "DPD2106": [
+  {
+   "brand": "Vivo",
+   "name": "PA2170",
+   "model": "PA2170"
+  }
+ ],
  "PD1304DL": [
   {
    "brand": "Vivo",
@@ -211508,6 +211570,40 @@
    "brand": "Vivo",
    "name": "PD1731D",
    "model": "vivo Y71A"
+  }
+ ],
+ "V2154": [
+  {
+   "brand": "Vivo",
+   "name": "T1",
+   "model": "V2153"
+  },
+  {
+   "brand": "Vivo",
+   "name": "T1",
+   "model": "V2168"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y55",
+   "model": "V2154"
+  }
+ ],
+ "V2151": [
+  {
+   "brand": "Vivo",
+   "name": "T1 5G",
+   "model": "V2151"
+  },
+  {
+   "brand": "Vivo",
+   "name": "T1 Pro 5G",
+   "model": "V2150"
+  },
+  {
+   "brand": "Vivo",
+   "name": "T1 Pro 5G",
+   "model": "V2151"
   }
  ],
  "PD2180": [
@@ -213440,6 +213536,25 @@
    "brand": "Vivo",
    "name": "iQOO Z5 6000mAh",
    "model": "V2188A"
+  }
+ ],
+ "I2203": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Z6",
+   "model": "I2203"
+  },
+  {
+   "brand": "Vivo",
+   "name": "iQOO Z6",
+   "model": "I2206"
+  }
+ ],
+ "I2126": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Z6 Pro",
+   "model": "I2126"
   }
  ],
  "1907": [
@@ -226222,6 +226337,13 @@
    "model": "ZTE T57"
   }
  ],
+ "K96": [
+  {
+   "brand": "ZTE",
+   "name": "ISE-T100C",
+   "model": "ISE-T100C"
+  }
+ ],
  "helen": [
   {
    "brand": "ZTE",
@@ -229264,6 +229386,13 @@
    "model": "Z753G"
   }
  ],
+ "Z7540": [
+  {
+   "brand": "ZTE",
+   "name": "Z7540",
+   "model": "Z7540"
+  }
+ ],
  "Z768G": [
   {
    "brand": "ZTE",
@@ -229634,6 +229763,20 @@
    "model": "ZTE 7530N"
   }
  ],
+ "P633S08": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE 7532N",
+   "model": "ZTE 7532N"
+  }
+ ],
+ "P633F08": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE 7540N",
+   "model": "ZTE 7540N"
+  }
+ ],
  "P963S05": [
   {
    "brand": "ZTE",
@@ -229679,6 +229822,13 @@
    "model": "ZTE 8031"
   }
  ],
+ "P633S05": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE 8040N",
+   "model": "ZTE 8040N"
+  }
+ ],
  "P606F02": [
   {
    "brand": "ZTE",
@@ -229710,6 +229860,13 @@
    "brand": "ZTE",
    "name": "ZTE 9040N",
    "model": "ZTE 9040N"
+  }
+ ],
+ "P633S21": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE 9041N",
+   "model": "ZTE 9041N"
   }
  ],
  "P618F06": [
@@ -229816,6 +229973,13 @@
    "brand": "ZTE",
    "name": "ZTE Axon 30 Ultra 5G",
    "model": "ZTE A2022PG"
+  }
+ ],
+ "P898A01": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE A2023P",
+   "model": "ZTE A2023P"
   }
  ],
  "P618A01": [
@@ -230172,6 +230336,13 @@
    "model": "ZTE Blade A31 Lite RU"
   }
  ],
+ "P963F90W": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A32",
+   "model": "ZTE Blade A32"
+  }
+ ],
  "Z5157": [
   {
    "brand": "ZTE",
@@ -230226,6 +230397,13 @@
   }
  ],
  "P963F61": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A52",
+   "model": "ZTE Blade A52"
+  }
+ ],
+ "P963F61_A": [
   {
    "brand": "ZTE",
    "name": "ZTE Blade A52",
@@ -233145,6 +233323,13 @@
    "brand": "i-PLUS",
    "name": "Nu65",
    "model": "Nu65"
+  }
+ ],
+ "Nu70": [
+  {
+   "brand": "i-PLUS",
+   "name": "Nu70",
+   "model": "Nu70"
   }
  ],
  "AF51": [

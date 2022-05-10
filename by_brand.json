@@ -5657,6 +5657,11 @@
    "model": "Altus Android TV"
   },
   {
+   "device": "sinchon",
+   "name": "Altus Android TV",
+   "model": "4K Pro TV"
+  },
+  {
    "device": "kunyang",
    "name": "Altus UHD Android TV",
    "model": "UHD Pro TV"
@@ -19789,6 +19794,11 @@
    "device": "C55",
    "name": "C55",
    "model": "C55"
+  },
+  {
+   "device": "S55310",
+   "name": "C55 Pro",
+   "model": "C55 Pro"
   },
   {
    "device": "C55_Pro",
@@ -38401,6 +38411,11 @@
    "model": "Q5"
   },
   {
+   "device": "Q6",
+   "name": "Q6",
+   "model": "Q6"
+  },
+  {
    "device": "Q69",
    "name": "Q69",
    "model": "Q69"
@@ -42001,6 +42016,11 @@
    "device": "X2",
    "name": "X2",
    "model": "X2"
+  },
+  {
+   "device": "X2_Premium",
+   "name": "X2 Premium",
+   "model": "X2 Premium"
   },
   {
    "device": "P4072",
@@ -62459,6 +62479,16 @@
    "model": "A150"
   },
   {
+   "device": "A170",
+   "name": "INOI A72",
+   "model": "A170"
+  },
+  {
+   "device": "A171",
+   "name": "INOI A72",
+   "model": "A171"
+  },
+  {
    "device": "A180",
    "name": "INOI Note 12",
    "model": "A180"
@@ -69138,6 +69168,11 @@
   }
  ],
  "KGTEL": [
+  {
+   "device": "A56",
+   "name": "A56",
+   "model": "A56"
+  },
   {
    "device": "Better10",
    "name": "Better10",
@@ -97823,11 +97858,6 @@
    "model": "moto g(6) play"
   },
   {
-   "device": "hanoip",
-   "name": "moto g60",
-   "model": "moto g(60)"
-  },
-  {
    "device": "corfur",
    "name": "moto g71 5G",
    "model": "moto g(50)"
@@ -104378,6 +104408,11 @@
    "device": "X300",
    "name": "X300",
    "model": "OMIX X300"
+  },
+  {
+   "device": "X400",
+   "name": "X400",
+   "model": "X400"
   },
   {
    "device": "X500",
@@ -114141,6 +114176,11 @@
    "device": "T810",
    "name": "T810",
    "model": "T810"
+  },
+  {
+   "device": "T810",
+   "name": "T810",
+   "model": "Tab Q8 Lite"
   },
   {
    "device": "S520",
@@ -129264,6 +129304,11 @@
    "device": "m23xq",
    "name": "Galaxy M23 5G",
    "model": "SM-M236B"
+  },
+  {
+   "device": "m23xq",
+   "name": "Galaxy M23 5G",
+   "model": "SM-M236L"
   },
   {
    "device": "m23xq",
@@ -166586,6 +166631,11 @@
    "model": "vivo NEX A"
   },
   {
+   "device": "DPD2106",
+   "name": "PA2170",
+   "model": "PA2170"
+  },
+  {
    "device": "PD1304DL",
    "name": "PD1304DL",
    "model": "vivo Y13iL"
@@ -166609,6 +166659,31 @@
    "device": "PD1731D",
    "name": "PD1731D",
    "model": "vivo Y71A"
+  },
+  {
+   "device": "V2154",
+   "name": "T1",
+   "model": "V2153"
+  },
+  {
+   "device": "V2154",
+   "name": "T1",
+   "model": "V2168"
+  },
+  {
+   "device": "V2151",
+   "name": "T1 5G",
+   "model": "V2151"
+  },
+  {
+   "device": "V2151",
+   "name": "T1 Pro 5G",
+   "model": "V2150"
+  },
+  {
+   "device": "V2151",
+   "name": "T1 Pro 5G",
+   "model": "V2151"
   },
   {
    "device": "PD2180",
@@ -167966,6 +168041,11 @@
    "model": "vivo 1603"
   },
   {
+   "device": "V2154",
+   "name": "Y55",
+   "model": "V2154"
+  },
+  {
    "device": "PD1613",
    "name": "Y55A",
    "model": "vivo Y55"
@@ -168074,6 +168154,21 @@
    "device": "PD2188",
    "name": "iQOO Z5 6000mAh",
    "model": "V2188A"
+  },
+  {
+   "device": "I2203",
+   "name": "iQOO Z6",
+   "model": "I2203"
+  },
+  {
+   "device": "I2203",
+   "name": "iQOO Z6",
+   "model": "I2206"
+  },
+  {
+   "device": "I2126",
+   "name": "iQOO Z6 Pro",
+   "model": "I2126"
   },
   {
    "device": "1907",
@@ -178678,6 +178773,11 @@
    "model": "AV-ATB100"
   },
   {
+   "device": "K96",
+   "name": "ISE-T100C",
+   "model": "ISE-T100C"
+  },
+  {
    "device": "msm8226",
    "name": "Infinity X^2 mini",
    "model": "Infinity X^2 mini"
@@ -181848,6 +181948,11 @@
    "model": "Z753G"
   },
   {
+   "device": "Z7540",
+   "name": "Z7540",
+   "model": "Z7540"
+  },
+  {
    "device": "iris",
    "name": "Z755",
    "model": "Z755"
@@ -182193,6 +182298,16 @@
    "model": "ZTE 7530N"
   },
   {
+   "device": "P633S08",
+   "name": "ZTE 7532N",
+   "model": "ZTE 7532N"
+  },
+  {
+   "device": "P633F08",
+   "name": "ZTE 7540N",
+   "model": "ZTE 7540N"
+  },
+  {
    "device": "P963F05",
    "name": "ZTE 8010",
    "model": "ZTE 8010"
@@ -182238,6 +182353,11 @@
    "model": "ZTE 8031"
   },
   {
+   "device": "P633S05",
+   "name": "ZTE 8040N",
+   "model": "ZTE 8040N"
+  },
+  {
    "device": "P606F02",
    "name": "ZTE 8045",
    "model": "ZTE 8045"
@@ -182261,6 +182381,11 @@
    "device": "P653S11",
    "name": "ZTE 9040N",
    "model": "ZTE 9040N"
+  },
+  {
+   "device": "P633S21",
+   "name": "ZTE 9041N",
+   "model": "ZTE 9041N"
   },
   {
    "device": "P618F06",
@@ -182356,6 +182481,11 @@
    "device": "P875A11",
    "name": "ZTE A2022PG",
    "model": "ZTE A2022PG"
+  },
+  {
+   "device": "P898A01",
+   "name": "ZTE A2023P",
+   "model": "ZTE A2023P"
   },
   {
    "device": "P618A01",
@@ -182848,6 +182978,11 @@
    "model": "ZTE Blade A31RU"
   },
   {
+   "device": "P963F90W",
+   "name": "ZTE Blade A32",
+   "model": "ZTE Blade A32"
+  },
+  {
    "device": "Z5157",
    "name": "ZTE Blade A3v",
    "model": "Z5157V"
@@ -182924,6 +183059,11 @@
   },
   {
    "device": "P963F61",
+   "name": "ZTE Blade A52",
+   "model": "ZTE Blade A52"
+  },
+  {
+   "device": "P963F61_A",
    "name": "ZTE Blade A52",
    "model": "ZTE Blade A52"
   },
@@ -185619,6 +185759,11 @@
    "device": "Nu65",
    "name": "Nu65",
    "model": "Nu65"
+  },
+  {
+   "device": "Nu70",
+   "name": "Nu70",
+   "model": "Nu70"
   }
  ],
  "i5 (dza)": [

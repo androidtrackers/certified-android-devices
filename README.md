@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-05-09
+Last sync is 2022-05-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1085,6 +1085,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Altron|OB_628|OB_628|OB_628|
 |Altus|Altus Android TV|kunyang|4K Pro TV|
 |Altus|Altus Android TV|shinagawa|Altus Android TV|
+|Altus|Altus Android TV|sinchon|4K Pro TV|
 |Altus|Altus UHD Android TV|kunyang|UHD Pro TV|
 |Americamovil|KIREI A5Q PLUS|Azumi_KIREI_A5Q_PLUS_AC06|KIREI A5Q PLUS|
 |Amgoo|AM350|AM350|AM350|
@@ -3827,6 +3828,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |COPAN|Aplus|Aplus|Aplus|
 |CORN|C5|C5|C5|
 |CORN|C55|C55|C55|
+|CORN|C55 Pro|S55310|C55 Pro|
 |CORN|C55_Pro|C55_Pro|C55 Pro|
 |CORN|C60|C60|C60|
 |CORN|C60 Ultra|C60_Ultra|C60 Ultra|
@@ -7395,6 +7397,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Tab|Q3|Q3|Q3|
 |G-Tab|Q4|Q4|Q4|
 |G-Tab|Q5|Q5|Q5|
+|G-Tab|Q6|Q6|Q6|
 |G-Tab|Q69|Q69|Q69|
 |G-Tab|Q7|Q7|Q7|
 |G-Tab|S10|S10|S10|
@@ -8085,6 +8088,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Greentel|X1_Light|X1_Light|X1 Light|
 |Greentel|X1_Light_Lte|X1_Light_Lte|X1_Light_Lte|
 |Greentel|X2|X2|X2|
+|Greentel|X2 Premium|X2_Premium|X2 Premium|
 |Greentel|Xmini|P4072|Xmini|
 |Greentel|Xmini|Xmini|Xmini|
 |Greentel|Xmini4G|Xmini4G|Xmini4G|
@@ -12131,6 +12135,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |INOI|INOI 3 LITE|INOI_3_LITE|INOI_3_LITE|
 |INOI|INOI 5 Pro|INOI_5_Pro|INOI_5_Pro|
 |INOI|INOI A52 Lite 32GB|A150|A150|
+|INOI|INOI A72|A170|A170|
+|INOI|INOI A72|A171|A171|
 |INOI|INOI Note 12|A180|A180|
 |INOI|INOI _7i_Lite|INOI_7i_Lite|INOI_7i_Lite|
 |INOI|INOI_1|INOI_1|INOI 1|
@@ -13421,6 +13427,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KEYENCE|BTA700|BTA700|BTA700|
 |KEYENCE|DX-A400|DX-A400|DX-A400|
 |KEYENCE|DX-A600|DX-A600|DX-A600|
+|KGTEL|A56|A56|A56|
 |KGTEL|Better10|Better10|Better10|
 |KGTEL|R10|R10A|R10|
 |KGTEL|X5|X5A|X5|
@@ -19039,7 +19046,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g52|rhode|moto g52|
 |Motorola|moto g6 play|jeter|Moto G Play|
 |Motorola|moto g6 play|jeter|moto g(6) play|
-|Motorola|moto g60|hanoip|moto g(60)|
 |Motorola|moto g71 5G|corfur|moto g(50)|
 |Motorola|moto g71 5G|corfur|moto g71 5G|
 |Motorola|moto p30|robusta|XT1943-1|
@@ -20300,6 +20306,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OLAX|Q101_EEA|Q101_EEA|Q101_EEA|
 |OMIX|MixTab Pro|MixTab_Pro|MixTab Pro|
 |OMIX|X300|X300|OMIX X300|
+|OMIX|X400|X400|X400|
 |OMIX|X500|X500|OMIX X500|
 |OMIX|X600|X600|X600|
 |OMIX|X700|X700|OMIX X700|
@@ -22201,6 +22208,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|T800|T800|TabQ8-T800|
 |Positivo|T800|T800M|T800|
 |Positivo|T810|T810|T810|
+|Positivo|T810|T810|Tab Q8 Lite|
 |Positivo|Twist|S520|Positivo Twist M|
 |Positivo|Twist|S520|Positivo Twist S|
 |Positivo|Twist 2|S512|Twist 2|
@@ -25152,6 +25160,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M21 2021 Edition|m21|SM-M215G|
 |Samsung|Galaxy M22|m22|SM-M225FV|
 |Samsung|Galaxy M23 5G|m23xq|SM-M236B|
+|Samsung|Galaxy M23 5G|m23xq|SM-M236L|
 |Samsung|Galaxy M23 5G|m23xq|SM-M236Q|
 |Samsung|Galaxy M30|m30lte|SM-M305F|
 |Samsung|Galaxy M30|m30lte|SM-M305M|
@@ -32442,11 +32451,17 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|I2017|2017|I2017|
 |Vivo|I2127|I2127|I2127|
 |Vivo|NEX A|PD1806B|vivo NEX A|
+|Vivo|PA2170|DPD2106|PA2170|
 |Vivo|PD1304DL|PD1304DL|vivo Y13iL|
 |Vivo|PD1419V|PD1419V|vivo Y923|
 |Vivo|PD1612|PD1612|vivo PD1612|
 |Vivo|PD1612|PD1612|vivo Y67|
 |Vivo|PD1731D|PD1731D|vivo Y71A|
+|Vivo|T1|V2154|V2153|
+|Vivo|T1|V2154|V2168|
+|Vivo|T1 5G|V2151|V2151|
+|Vivo|T1 Pro 5G|V2151|V2150|
+|Vivo|T1 Pro 5G|V2151|V2151|
 |Vivo|U5x|PD2180|V2180GA|
 |Vivo|V1|V1|vivo V1|
 |Vivo|V1730EA|PD1730E|V1730EA|
@@ -32718,6 +32733,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y53|1606|vivo 1606|
 |Vivo|Y53L|PD1628|vivo PD1628|
 |Vivo|Y55|1603|vivo 1603|
+|Vivo|Y55|V2154|V2154|
 |Vivo|Y55A|PD1613|vivo Y55|
 |Vivo|Y55s|1610|vivo 1610|
 |Vivo|Y55s|PD2164|V2164A|
@@ -32740,6 +32756,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Neo5S|PD2154|V2154A|
 |Vivo|iQOO Z5|2018|I2018|
 |Vivo|iQOO Z5 6000mAh|PD2188|V2188A|
+|Vivo|iQOO Z6|I2203|I2203|
+|Vivo|iQOO Z6|I2203|I2206|
+|Vivo|iQOO Z6 Pro|I2126|I2126|
 |Vivo|vivo  1907|1907|vivo 1907|
 |Vivo|vivo  X21i  A|PD1801|vivo X21i A|
 |Vivo|vivo  Y75s|PD1708C|vivo Y75s|
@@ -34804,6 +34823,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|GrayJoy|grayjoy|N9136|
 |ZTE|Helios X1|P809A01|Helios X1|
 |ZTE|I-O DATA|B800S2_V1|AV-ATB100|
+|ZTE|ISE-T100C|K96|ISE-T100C|
 |ZTE|Infinity X^2 mini|msm8226|Infinity X^2 mini|
 |ZTE|Jasper LTE|lemon|Z718TL|
 |ZTE|K81|helen|K81|
@@ -35438,6 +35458,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z750C|Z750C|Z750C|
 |ZTE|Z752C|eros|Z752C|
 |ZTE|Z753G|faerie|Z753G|
+|ZTE|Z7540|Z7540|Z7540|
 |ZTE|Z755|iris|Z755|
 |ZTE|Z768G|Z768G|Z768G|
 |ZTE|Z777|betty|Z777|
@@ -35507,6 +35528,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE 2050|P671S50|ZTE 2050|
 |ZTE|ZTE 2050RU|P671F50_D|ZTE 2050RU|
 |ZTE|ZTE 7530N|P633S07|ZTE 7530N|
+|ZTE|ZTE 7532N|P633S08|ZTE 7532N|
+|ZTE|ZTE 7540N|P633F08|ZTE 7540N|
 |ZTE|ZTE 8010|P963F05|ZTE 8010|
 |ZTE|ZTE 8010|P963S05|ZTE 8010|
 |ZTE|ZTE 8010RU|P963F05|ZTE 8010RU|
@@ -35516,11 +35539,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE 8030N|P633S01|ZTE 8030N|
 |ZTE|ZTE 8030RU|P963F06|ZTE 8030RU|
 |ZTE|ZTE 8031|P963F06_A|ZTE 8031|
+|ZTE|ZTE 8040N|P633S05|ZTE 8040N|
 |ZTE|ZTE 8045|P606F02|ZTE 8045|
 |ZTE|ZTE 9030|P618F05|ZTE 9030|
 |ZTE|ZTE 9030N|P653S07|ZTE 9030N|
 |ZTE|ZTE 9030RU|P618F05|ZTE 9030RU|
 |ZTE|ZTE 9040N|P653S11|ZTE 9040N|
+|ZTE|ZTE 9041N|P633S21|ZTE 9041N|
 |ZTE|ZTE 9045|P618F06|ZTE 9045|
 |ZTE|ZTE 9045RU|P618F06|ZTE 9045RU|
 |ZTE|ZTE 9046|P618F07|ZTE 9046|
@@ -35540,6 +35565,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE A2020N2 Pro|P855A21|ZTE A2020N3 Pro|
 |ZTE|ZTE A2022L|P618A11|ZTE A2022L|
 |ZTE|ZTE A2022PG|P875A11|ZTE A2022PG|
+|ZTE|ZTE A2023P|P898A01|ZTE A2023P|
 |ZTE|ZTE A2121E|P618A01|ZTE A2121E|
 |ZTE|ZTE A2121L|P618A03|ZTE A2121L|
 |ZTE|ZTE A2322|P870A01|ZTE A2322|
@@ -35638,6 +35664,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A31 Plus|P963F80|ZTE Blade A31 Plus|
 |ZTE|ZTE Blade A31 Plus RU|P963F80|ZTE Blade A31 Plus RU|
 |ZTE|ZTE Blade A31RU|P963F70|ZTE Blade A31RU|
+|ZTE|ZTE Blade A32|P963F90W|ZTE Blade A32|
 |ZTE|ZTE Blade A3v|Z5157|Z5157V|
 |ZTE|ZTE Blade A3v|Z5157|Z5157Y|
 |ZTE|ZTE Blade A5 2019|P963F30|ZTE Blade A5 2019|
@@ -35654,6 +35681,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A51 Lite RU|P963F50_A|ZTE Blade A51 Lite RU|
 |ZTE|ZTE Blade A51RU|P963F60|ZTE Blade A51RU|
 |ZTE|ZTE Blade A52|P963F61|ZTE Blade A52|
+|ZTE|ZTE Blade A52|P963F61_A|ZTE Blade A52|
 |ZTE|ZTE Blade A522|P817E53|ZTE Blade A522|
 |ZTE|ZTE Blade A531|P932F10|ZTE Blade A531|
 |ZTE|ZTE Blade A7 2019|P963F02|ZTE Blade A7 2019|
@@ -36167,6 +36195,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |i-Mobile|i-note WiFi 1.1|M1703|i-mobile M1703|
 |i-Mobile|iM319|iM319|iM319|
 |i-PLUS|Nu65|Nu65|Nu65|
+|i-PLUS|Nu70|Nu70|Nu70|
 |i5 (dza)|V10|V10|V10|
 |iBRIT|Alpha|AF51|AF51|
 |iBRIT|Alpha_Plus|Alpha_Plus|Alpha_Plus|
