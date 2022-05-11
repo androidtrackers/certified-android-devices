@@ -56497,6 +56497,11 @@
    "brand": "Hafury",
    "device": "M20",
    "model": "M20"
+  },
+  {
+   "brand": "Smart",
+   "device": "M20",
+   "model": "M20"
   }
  ],
  "M20 Mini": [
@@ -125720,6 +125725,13 @@
    "model": "EPIC_1"
   }
  ],
+ "EPIC_2": [
+  {
+   "brand": "Mobicell",
+   "device": "EPIC_2",
+   "model": "EPIC_2"
+  }
+ ],
  "FAME_DS": [
   {
    "brand": "Mobicell",
@@ -133931,6 +133943,13 @@
    "model": "MW75QF6"
   }
  ],
+ "NOVA": [
+  {
+   "brand": "NETOGY",
+   "device": "YXU",
+   "model": "NOVA"
+  }
+ ],
  "NETTV": [
   {
    "brand": "NETTV",
@@ -138277,6 +138296,11 @@
   {
    "brand": "OnePlus",
    "device": "OnePlus7",
+   "model": "GM1901"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus7",
    "model": "GM1903"
   },
   {
@@ -138295,6 +138319,11 @@
    "brand": "OnePlus",
    "device": "OnePlus7Pro",
    "model": "GM1910"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus7Pro",
+   "model": "GM1911"
   },
   {
    "brand": "OnePlus",
@@ -138342,6 +138371,11 @@
   }
  ],
  "OnePlus 7T Pro": [
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus7TPro",
+   "model": "HD1910"
+  },
   {
    "brand": "OnePlus",
    "device": "OnePlus7TPro",

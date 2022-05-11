@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-05-10
+Last sync is 2022-05-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -18271,6 +18271,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|EGO|EGO|EGO|
 |Mobicell|EPIC PRO 1|EPIC_PRO_1|EPIC PRO_1|
 |Mobicell|EPIC_1|EPIC_1|EPIC_1|
+|Mobicell|EPIC_2|EPIC_2|EPIC_2|
 |Mobicell|FAME|FAME|FAME|
 |Mobicell|FAME_DS|FAME_DS|FAME_DS|
 |Mobicell|FENDY_DS|FENDY_DS|FENDY_DS|
@@ -19657,6 +19658,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NETGREEN|M16QF9AR|M16QF9AR|M16QF9AR|
 |NETGREEN|M16QF9ES|M16QF9ES|M16QF9ES|
 |NETGREEN|MW75QF6|MW75QF6|MW75QF6|
+|NETOGY|NOVA|YXU|NOVA|
 |NETTV|NETTV|SEI500NTV|NETTV|
 |NEWSUN|S13|S13|S13|
 |NEWSUN|S20|S20|S20|
@@ -20405,10 +20407,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6000|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6003|
 |OnePlus|OnePlus 7|OnePlus7|GM1900|
+|OnePlus|OnePlus 7|OnePlus7|GM1901|
 |OnePlus|OnePlus 7|OnePlus7|GM1903|
 |OnePlus|OnePlus 7|OnePlus7|GM1905|
 |OnePlus|OnePlus 7 Pro|OP7ProNRSpr|GM1925|
 |OnePlus|OnePlus 7 Pro|OnePlus7Pro|GM1910|
+|OnePlus|OnePlus 7 Pro|OnePlus7Pro|GM1911|
 |OnePlus|OnePlus 7 Pro|OnePlus7Pro|GM1917|
 |OnePlus|OnePlus 7 Pro|OnePlus7ProTMO|GM1915|
 |OnePlus|OnePlus 7 Pro 5G|OnePlus7ProNR|GM1920|
@@ -20417,6 +20421,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 7T|OnePlus7T|HD1903|
 |OnePlus|OnePlus 7T|OnePlus7T|HD1905|
 |OnePlus|OnePlus 7T|OnePlus7TTMO|HD1907|
+|OnePlus|OnePlus 7T Pro|OnePlus7TPro|HD1910|
 |OnePlus|OnePlus 7T Pro|OnePlus7TPro|HD1913|
 |OnePlus|OnePlus 7T Pro 5G|OnePlus7TProNR|HD1925|
 |OnePlus|OnePlus 8|OnePlus8|IN2010|
@@ -27681,6 +27686,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smart|Coral 4|Coral_4|Coral 4|
 |Smart|FW503KH|FW503KH|FW503KH|
 |Smart|Grand|Grand|Grand|
+|Smart|M20|M20|M20|
 |Smart|Max|Max|Max|
 |Smart|Notrino|Notrino|Notrino|
 |Smart|SK3401|SK3401|SK3401|

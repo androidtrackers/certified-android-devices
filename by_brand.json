@@ -93935,6 +93935,11 @@
    "model": "EPIC_1"
   },
   {
+   "device": "EPIC_2",
+   "name": "EPIC_2",
+   "model": "EPIC_2"
+  },
+  {
    "device": "FAME",
    "name": "FAME",
    "model": "FAME"
@@ -100991,6 +100996,13 @@
    "model": "MW75QF6"
   }
  ],
+ "NETOGY": [
+  {
+   "device": "YXU",
+   "name": "NOVA",
+   "model": "NOVA"
+  }
+ ],
  "NETTV": [
   {
    "device": "SEI500NTV",
@@ -104971,6 +104983,11 @@
   {
    "device": "OnePlus7",
    "name": "OnePlus 7",
+   "model": "GM1901"
+  },
+  {
+   "device": "OnePlus7",
+   "name": "OnePlus 7",
    "model": "GM1903"
   },
   {
@@ -104987,6 +105004,11 @@
    "device": "OnePlus7Pro",
    "name": "OnePlus 7 Pro",
    "model": "GM1910"
+  },
+  {
+   "device": "OnePlus7Pro",
+   "name": "OnePlus 7 Pro",
+   "model": "GM1911"
   },
   {
    "device": "OnePlus7Pro",
@@ -105027,6 +105049,11 @@
    "device": "OnePlus7TTMO",
    "name": "OnePlus 7T",
    "model": "HD1907"
+  },
+  {
+   "device": "OnePlus7TPro",
+   "name": "OnePlus 7T Pro",
+   "model": "HD1910"
   },
   {
    "device": "OnePlus7TPro",
@@ -142025,6 +142052,11 @@
    "device": "Grand",
    "name": "Grand",
    "model": "Grand"
+  },
+  {
+   "device": "M20",
+   "name": "M20",
+   "model": "M20"
   },
   {
    "device": "Max",
