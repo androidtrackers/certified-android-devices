@@ -832,6 +832,11 @@
    "model": "Blaupunkt 4K Android TV"
   },
   {
+   "brand": "Challenger",
+   "name": "challenger",
+   "model": "43FCOL"
+  },
+  {
    "brand": "EKO",
    "name": "EKO",
    "model": "EKO 4K Android TV"
@@ -853,8 +858,18 @@
   },
   {
    "brand": "KTCtv",
+   "name": "COL",
+   "model": "43FCOL"
+  },
+  {
+   "brand": "KTCtv",
    "name": "EU",
    "model": "43F"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "Electroman",
+   "model": "Smart UHD TV"
   },
   {
    "brand": "KTCtv",
@@ -892,6 +907,11 @@
    "brand": "EcoStar",
    "name": "ECOSTAR",
    "model": "40D"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Hyundai",
+   "model": "COL 2K SMART TV"
   },
   {
    "brand": "K-ELEC",
@@ -940,6 +960,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "SA",
+   "model": "F VIZZION TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "Zitro",
    "model": "40DSA"
   },
@@ -952,6 +977,11 @@
    "brand": "Sansui",
    "name": "Sansui Smart TV",
    "model": "40D"
+  },
+  {
+   "brand": "Siragon",
+   "name": "SA",
+   "model": "SMART TV"
   }
  ],
  "tamachi": [
@@ -26805,7 +26835,7 @@
    "model": "EKO 4K Android TV"
   },
   {
-   "brand": "MTC",
+   "brand": "JVC",
    "name": "JVC",
    "model": "JVC PA 4K Android TV"
   },
@@ -53511,6 +53541,13 @@
    "model": "Smart601"
   }
  ],
+ "DV8545-C-KIF": [
+  {
+   "brand": "Fastway",
+   "name": "FW-Plus Ultra 4K Box1",
+   "model": "FW-Plus Ultra 4K Box1"
+  }
+ ],
  "A4001_Plus_2019": [
   {
    "brand": "Fero",
@@ -60261,6 +60298,11 @@
    "model": "M2"
   },
   {
+   "brand": "M-Horse",
+   "name": "M2",
+   "model": "M2"
+  },
+  {
    "brand": "Mgt electric",
    "name": "M2",
    "model": "M2"
@@ -61254,6 +61296,13 @@
    "model": "HPE device"
   }
  ],
+ "brya_cheets": [
+  {
+   "brand": "Google",
+   "name": "Intel Alder Lake Chromebook",
+   "model": "brya"
+  }
+ ],
  "rammus_cheets": [
   {
    "brand": "Google",
@@ -61487,6 +61536,13 @@
    "brand": "Google",
    "name": "Pixel 6 Pro",
    "model": "Pixel 6 Pro"
+  }
+ ],
+ "bluejay": [
+  {
+   "brand": "Google",
+   "name": "Pixel 6a",
+   "model": "Pixel 6a"
   }
  ],
  "dragon": [
@@ -72904,6 +72960,11 @@
  "songshan": [
   {
    "brand": "Hisense",
+   "name": "U6H",
+   "model": "SmartTV 4K FFM"
+  },
+  {
+   "brand": "Hisense",
    "name": "U6H/A6H/U6G1",
    "model": "SmartTV 4K"
   },
@@ -72911,6 +72972,11 @@
    "brand": "Hisense",
    "name": "songshan",
    "model": "SmartTV 4K"
+  },
+  {
+   "brand": "Toshiba",
+   "name": "C350LK",
+   "model": "Toshiba TV"
   }
  ],
  "U800": [
@@ -73532,6 +73598,13 @@
    "model": "MY20ADA"
   }
  ],
+ "yebisuCA": [
+  {
+   "brand": "Honda",
+   "name": "A-DA",
+   "model": "MY21ADA"
+  }
+ ],
  "yebisuDA": [
   {
    "brand": "Honda",
@@ -73540,6 +73613,13 @@
   }
  ],
  "yebisuGA": [
+  {
+   "brand": "Honda",
+   "name": "A-DA",
+   "model": "MY22ADA"
+  }
+ ],
+ "yebisuHA": [
   {
    "brand": "Honda",
    "name": "A-DA",
@@ -74170,6 +74250,11 @@
    "brand": "Honeywell",
    "name": "EDA52",
    "model": "EDA52"
+  },
+  {
+   "brand": "Honeywell",
+   "name": "EDA56",
+   "model": "EDA56"
   }
  ],
  "EDA5S": [
@@ -117548,6 +117633,13 @@
    "model": "AMBK290471"
   }
  ],
+ "Model-6-Pro-Max-4G": [
+  {
+   "brand": "MIFONE",
+   "name": "Model 6 Pro Max 4G",
+   "model": "Model-6-Pro-Max-4G"
+  }
+ ],
  "TAB63A": [
   {
    "brand": "MIKU",
@@ -119954,6 +120046,13 @@
    "brand": "Maze_speed",
    "name": "M1582C",
    "model": "M1582C"
+  }
+ ],
+ "M1587K": [
+  {
+   "brand": "Maze_speed",
+   "name": "M1587K",
+   "model": "M1587K"
   }
  ],
  "MS5314G": [
@@ -123961,6 +124060,11 @@
   {
    "brand": "Mintt",
    "name": "MinttM3",
+   "model": "Mintt M3"
+  },
+  {
+   "brand": "Mintt",
+   "name": "MinttM3",
    "model": "Mintt__M3"
   }
  ],
@@ -124584,6 +124688,13 @@
    "brand": "Mobicell",
    "name": "Clik plus",
    "model": "Clik plus"
+  }
+ ],
+ "Cosmo_LTE_1": [
+  {
+   "brand": "Mobicell",
+   "name": "Cosmo LTE_1",
+   "model": "Cosmo LTE_1"
   }
  ],
  "DANDY": [
@@ -130384,6 +130495,13 @@
    "brand": "Multilaser",
    "name": "M10 4G MON CLA",
    "model": "M10_4G_MON_CLA"
+  }
+ ],
+ "ML_SO0C_M10_4G_NOVA": [
+  {
+   "brand": "Multilaser",
+   "name": "M10 4G NOVA",
+   "model": "M10_4G_NOVA"
   }
  ],
  "ML_JI0B_M10_4G_PRO": [
@@ -137934,6 +138052,11 @@
   {
    "brand": "OnePlus",
    "name": "OnePlus 7 Pro",
+   "model": "GM1913"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 7 Pro",
    "model": "GM1917"
   }
  ],
@@ -137985,6 +138108,11 @@
    "brand": "OnePlus",
    "name": "OnePlus 7T Pro",
    "model": "HD1910"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 7T Pro",
+   "model": "HD1911"
   },
   {
    "brand": "OnePlus",
@@ -140248,6 +140376,11 @@
    "brand": "Oppo",
    "name": "Find X5 Pro",
    "model": "CPH2305"
+  },
+  {
+   "brand": "Oppo",
+   "name": "OPPO Find X5 Pro",
+   "model": "CPH2305"
   }
  ],
  "PBCM30": [
@@ -140373,6 +140506,35 @@
    "brand": "Oppo",
    "name": "OPPO Reno5 Pro+ 5G",
    "model": "PDRM00"
+  }
+ ],
+ "OP533FL1": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno7",
+   "model": "CPH2363"
+  },
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno7/F21 Pro",
+   "model": "CPH2363"
+  },
+  {
+   "brand": "Oppo",
+   "name": "Reno7",
+   "model": "CPH2363"
+  }
+ ],
+ "OPD4A1L1": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno7 5G",
+   "model": "CPH2371"
+  },
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno7 5G/Find X5 Lite",
+   "model": "CPH2371"
   }
  ],
  "beluga": [
@@ -150071,6 +150233,20 @@
    "model": "Axe"
   }
  ],
+ "EA07B00001H": [
+  {
+   "brand": "Premio",
+   "name": "EA07B00001H",
+   "model": "EA07B00001H"
+  }
+ ],
+ "EA07C00001H": [
+  {
+   "brand": "Premio",
+   "name": "EA07C00001H",
+   "model": "EA07C00001H"
+  }
+ ],
  "X82": [
   {
    "brand": "Premio",
@@ -155407,6 +155583,23 @@
    "model": "IMP-F01K"
   }
  ],
+ "fog": [
+  {
+   "brand": "Radger",
+   "name": "Redmi 10C",
+   "model": "220333QAG"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10",
+   "model": "220333QBI"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10C",
+   "model": "220333QAG"
+  }
+ ],
  "s5501": [
   {
    "brand": "Rainbow",
@@ -156645,18 +156838,6 @@
    "model": "V72M"
   }
  ],
- "fog": [
-  {
-   "brand": "Redmi",
-   "name": "Redmi 10",
-   "model": "220333QBI"
-  },
-  {
-   "brand": "Redmi",
-   "name": "Redmi 10C",
-   "model": "220333QAG"
-  }
- ],
  "selene": [
   {
    "brand": "Redmi",
@@ -156724,6 +156905,20 @@
    "brand": "ZTE",
    "name": "Zmax 3",
    "model": "Z978"
+  }
+ ],
+ "rain": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10C",
+   "model": "220333QNY"
+  }
+ ],
+ "wind": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10C",
+   "model": "220333QL"
   }
  ],
  "apricot": [
@@ -159103,6 +159298,13 @@
    "model": "SA100"
   }
  ],
+ "usw8052skb": [
+  {
+   "brand": "SKY_Brasil",
+   "name": "Sky Brazil",
+   "model": "SKR02"
+  }
+ ],
  "SK3402": [
   {
    "brand": "SMART_KASSEL",
@@ -160467,6 +160669,34 @@
    "brand": "SUNMAX",
    "name": "Model_3",
    "model": "Model 3"
+  }
+ ],
+ "Model_6": [
+  {
+   "brand": "SUNMAX",
+   "name": "Model_6",
+   "model": "Model 6"
+  }
+ ],
+ "Model_6_Pro": [
+  {
+   "brand": "SUNMAX",
+   "name": "Model_6_Pro",
+   "model": "Model 6 Pro"
+  }
+ ],
+ "Model_6_pro_4G": [
+  {
+   "brand": "SUNMAX",
+   "name": "Model_6_Pro_4G",
+   "model": "Model_6_pro_4G"
+  }
+ ],
+ "Model_6_Pro_Max": [
+  {
+   "brand": "SUNMAX",
+   "name": "Model_6_Pro_Max",
+   "model": "Model 6 Pro Max"
   }
  ],
  "Model_S": [
@@ -162790,6 +163020,13 @@
    "brand": "Samsung",
    "name": "Galaxy A53 5G",
    "model": "SC-53C"
+  }
+ ],
+ "SCG15": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A53 5G",
+   "model": "SCG15"
   }
  ],
  "a53x": [
@@ -175678,6 +175915,13 @@
    "model": "SM-P617"
   }
  ],
+ "gta4xlve": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S6 Lite",
+   "model": "SM-P619"
+  }
+ ],
  "gta4xlwifi": [
   {
    "brand": "Samsung",
@@ -183224,6 +183468,13 @@
    "model": "Sky BlackMax"
   }
  ],
+ "SKY_KID1": [
+  {
+   "brand": "Sky Devices",
+   "name": "SKY KID1",
+   "model": "SKY_KID1"
+  }
+ ],
  "SKY_Prestige": [
   {
    "brand": "Sky Devices",
@@ -184739,6 +184990,41 @@
    "model": "XQ-BC72"
   }
  ],
+ "A201SO": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 1 IV",
+   "model": "A201SO"
+  }
+ ],
+ "SO-51C": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 1 IV",
+   "model": "SO-51C"
+  }
+ ],
+ "SOG06": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 1 IV",
+   "model": "SOG06"
+  }
+ ],
+ "XQ-CT54": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 1 IV",
+   "model": "XQ-CT54"
+  }
+ ],
+ "XQ-CT72": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 1 IV",
+   "model": "XQ-CT72"
+  }
+ ],
  "J9150": [
   {
    "brand": "Sony",
@@ -185094,6 +185380,13 @@
    "brand": "Sony",
    "name": "Xperia Ace II",
    "model": "SO-41B"
+  }
+ ],
+ "SO-53C": [
+  {
+   "brand": "Sony",
+   "name": "Xperia Ace III",
+   "model": "SO-53C"
   }
  ],
  "C2304": [
@@ -220870,6 +221163,13 @@
    "model": "2107113SR"
   }
  ],
+ "pissarroin": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 11i",
+   "model": "21091116I"
+  }
+ ],
  "cupid": [
   {
    "brand": "Xiaomi",
@@ -232495,6 +232795,13 @@
    "model": "M1000"
   }
  ],
+ "AE9150": [
+  {
+   "brand": "benco",
+   "name": "benco V62",
+   "model": "AE9150"
+  }
+ ],
  "AH9110": [
   {
    "brand": "benco",
@@ -235702,6 +236009,23 @@
    "brand": "realme",
    "name": "realme GT Master Edition",
    "model": "RMX3361"
+  }
+ ],
+ "RED8BEL1": [
+  {
+   "brand": "realme",
+   "name": "realme GT NEO 3",
+   "model": "RMX3561"
+  },
+  {
+   "brand": "realme",
+   "name": "realme GT NEO 3 150W",
+   "model": "RMX3563"
+  },
+  {
+   "brand": "realme",
+   "name": "realme GT NEO 3 150w",
+   "model": "RMX3563"
   }
  ],
  "RE87CCL1": [
