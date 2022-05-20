@@ -34290,6 +34290,11 @@
    "model": "C8"
   },
   {
+   "brand": "SGIN",
+   "device": "C8",
+   "model": "C8"
+  },
+  {
    "brand": "Tecno",
    "device": "TECNO-C8",
    "model": "TECNO-C8"
@@ -78010,6 +78015,13 @@
    "brand": "Hisense",
    "device": "U609",
    "model": "HS-U609"
+  }
+ ],
+ "U60H": [
+  {
+   "brand": "Hisense",
+   "device": "songshan",
+   "model": "SmartTV 4K FFM"
   }
  ],
  "U610": [
@@ -140775,6 +140787,13 @@
    "model": "CPH2305"
   }
  ],
+ "OPPO Pad": [
+  {
+   "brand": "Oppo",
+   "device": "OP5223",
+   "model": "OPD2101"
+  }
+ ],
  "OPPO Reno5 A": [
   {
    "brand": "Oppo",
@@ -199393,6 +199412,18 @@
    "model": "TECNO CH7n"
   }
  ],
+ "CAMON 19": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-CI6",
+   "model": "TECNO CI6"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-CI6n",
+   "model": "TECNO CI6n"
+  }
+ ],
  "CAMON C7": [
   {
    "brand": "Tecno",
@@ -201189,6 +201220,13 @@
    "brand": "Tele2",
    "device": "Tele2fon_v5",
    "model": "Tele2fon v5"
+  }
+ ],
+ "Tv Hub Mini": [
+  {
+   "brand": "Tele2",
+   "device": "SEI700TE",
+   "model": "Tv Hub Mini"
   }
  ],
  "tedi": [

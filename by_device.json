@@ -6168,6 +6168,11 @@
    "brand": "Oukitel",
    "name": "C8",
    "model": "C8"
+  },
+  {
+   "brand": "SGIN",
+   "name": "C8",
+   "model": "C8"
   }
  ],
  "acer_S55": [
@@ -72924,6 +72929,33 @@
    "model": "HS-U609"
   }
  ],
+ "songshan": [
+  {
+   "brand": "Hisense",
+   "name": "U60H",
+   "model": "SmartTV 4K FFM"
+  },
+  {
+   "brand": "Hisense",
+   "name": "U6H",
+   "model": "SmartTV 4K FFM"
+  },
+  {
+   "brand": "Hisense",
+   "name": "U6H/A6H/U6G1",
+   "model": "SmartTV 4K"
+  },
+  {
+   "brand": "Hisense",
+   "name": "songshan",
+   "model": "SmartTV 4K"
+  },
+  {
+   "brand": "Toshiba",
+   "name": "C350LK",
+   "model": "Toshiba TV"
+  }
+ ],
  "U610": [
   {
    "brand": "Hisense",
@@ -72955,28 +72987,6 @@
    "brand": "Hisense",
    "name": "U988AE",
    "model": "HS-U988"
-  }
- ],
- "songshan": [
-  {
-   "brand": "Hisense",
-   "name": "U6H",
-   "model": "SmartTV 4K FFM"
-  },
-  {
-   "brand": "Hisense",
-   "name": "U6H/A6H/U6G1",
-   "model": "SmartTV 4K"
-  },
-  {
-   "brand": "Hisense",
-   "name": "songshan",
-   "model": "SmartTV 4K"
-  },
-  {
-   "brand": "Toshiba",
-   "name": "C350LK",
-   "model": "Toshiba TV"
   }
  ],
  "U800": [
@@ -140489,6 +140499,13 @@
    "model": "PELM00"
   }
  ],
+ "OP5223": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO Pad",
+   "model": "OPD2101"
+  }
+ ],
  "OP4F2BL1": [
   {
    "brand": "Oppo",
@@ -201562,6 +201579,20 @@
    "model": "TECNO CH7n"
   }
  ],
+ "TECNO-CI6": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 19",
+   "model": "TECNO CI6"
+  }
+ ],
+ "TECNO-CI6n": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 19",
+   "model": "TECNO CI6n"
+  }
+ ],
  "TECNO-CA6": [
   {
    "brand": "Tecno",
@@ -203535,6 +203566,13 @@
    "brand": "Tele2",
    "name": "Tele2fon V5",
    "model": "Tele2fon v5"
+  }
+ ],
+ "SEI700TE": [
+  {
+   "brand": "Tele2",
+   "name": "Tv Hub Mini",
+   "model": "Tv Hub Mini"
   }
  ],
  "dtiw384": [

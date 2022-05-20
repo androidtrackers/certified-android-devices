@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-05-19
+Last sync is 2022-05-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9959,6 +9959,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|U606AE|U606AE|PHS-402|
 |Hisense|U607|U607|Bouygues Telecom Bs 403|
 |Hisense|U609|U609|HS-U609|
+|Hisense|U60H|songshan|SmartTV 4K FFM|
 |Hisense|U610|U610|HS-U610|
 |Hisense|U610|U610E_1|HS-U610|
 |Hisense|U688|U688|HS-U688|
@@ -20836,6 +20837,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO A74 5G|OP4F39L1|CPH2197|
 |Oppo|OPPO A95 5G|OP4EB7|PELM00|
 |Oppo|OPPO Find X5 Pro|OP52D1L1|CPH2305|
+|Oppo|OPPO Pad|OP5223|OPD2101|
 |Oppo|OPPO Reno5 A|OP4F2BL1|A101OP|
 |Oppo|OPPO Reno5 A|OP4F2BL1|CPH2199|
 |Oppo|OPPO Reno5 Pro+ 5G|OP4EA7|PDRM00|
@@ -23791,6 +23793,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SFR.fr|Connect TV de SFR|DV8555-SFR|Connect TV de SFR|
 |SFR.fr|DV8219_SFR|DV8219|DV8219_SFR|
 |SFR.fr|FR|DV8219|DV8219_SFR|
+|SGIN|C8|C8|C8|
 |SGIN|SGIN_E10M|SGIN_E10M|SGIN_E10M|
 |SGIN|SGIN_X10|SGIN_X10|SGIN_X10|
 |SGIN|SGIN_X10_EEA|SGIN_X10_EEA|SGIN_X10_EEA|
@@ -30795,6 +30798,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|CAMON 18|TECNO-Mobile-CH6n|TECNO Mobile CH6n|
 |Tecno|CAMON 18P|TECNO-CH7|TECNO CH7|
 |Tecno|CAMON 18P|TECNO-CH7n|TECNO CH7n|
+|Tecno|CAMON 19|TECNO-CI6|TECNO CI6|
+|Tecno|CAMON 19|TECNO-CI6n|TECNO CI6n|
 |Tecno|CAMON C7|TECNO-C7|TECNO-C7|
 |Tecno|CAMON CM|TECNO-CA6|TECNO CA6|
 |Tecno|CAMON I Ace|TECNO-IN1|TECNO IN1|
@@ -31099,6 +31104,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tele2|Tele2_Midi_2_0|Tele2_Midi_2_0|Tele2_Midi_2_0|
 |Tele2|Tele2fon V4|Tele2fon_v4|Tele2fon v4|
 |Tele2|Tele2fon V5|Tele2fon_v5|Tele2fon v5|
+|Tele2|Tv Hub Mini|SEI700TE|Tv Hub Mini|
 |Telecable|tedi|dtiw384|Telecable ATV|
 |Teleepoch||MaxBravo|PMI920|
 |Teleepoch||U670C|U670C|

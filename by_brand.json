@@ -51511,6 +51511,11 @@
    "model": "HS-U609"
   },
   {
+   "device": "songshan",
+   "name": "U60H",
+   "model": "SmartTV 4K FFM"
+  },
+  {
    "device": "U610",
    "name": "U610",
    "model": "HS-U610"
@@ -107148,6 +107153,11 @@
    "model": "CPH2305"
   },
   {
+   "device": "OP5223",
+   "name": "OPPO Pad",
+   "model": "OPD2101"
+  },
+  {
    "device": "OP4F2BL1",
    "name": "OPPO Reno5 A",
    "model": "A101OP"
@@ -122378,6 +122388,11 @@
   }
  ],
  "SGIN": [
+  {
+   "device": "C8",
+   "name": "C8",
+   "model": "C8"
+  },
   {
    "device": "SGIN_E10M",
    "name": "SGIN_E10M",
@@ -157947,6 +157962,16 @@
    "model": "TECNO CH7n"
   },
   {
+   "device": "TECNO-CI6",
+   "name": "CAMON 19",
+   "model": "TECNO CI6"
+  },
+  {
+   "device": "TECNO-CI6n",
+   "name": "CAMON 19",
+   "model": "TECNO CI6n"
+  },
+  {
    "device": "TECNO-C7",
    "name": "CAMON C7",
    "model": "TECNO-C7"
@@ -159485,6 +159510,11 @@
    "device": "Tele2fon_v5",
    "name": "Tele2fon V5",
    "model": "Tele2fon v5"
+  },
+  {
+   "device": "SEI700TE",
+   "name": "Tv Hub Mini",
+   "model": "Tv Hub Mini"
   }
  ],
  "Telecable": [

@@ -28043,6 +28043,11 @@
    "brand": "Oukitel",
    "name": "C8",
    "device": "C8"
+  },
+  {
+   "brand": "SGIN",
+   "name": "C8",
+   "device": "C8"
   }
  ],
  "M8047IU": [
@@ -71847,6 +71852,23 @@
    "device": "U609"
   }
  ],
+ "SmartTV 4K FFM": [
+  {
+   "brand": "Hisense",
+   "name": "U60H",
+   "device": "songshan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "U6H",
+   "device": "songshan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "huangshan",
+   "device": "huangshan"
+  }
+ ],
  "HS-U610": [
   {
    "brand": "Hisense",
@@ -71869,18 +71891,6 @@
    "brand": "Hisense",
    "name": "U688BE",
    "device": "MSM8212"
-  }
- ],
- "SmartTV 4K FFM": [
-  {
-   "brand": "Hisense",
-   "name": "U6H",
-   "device": "songshan"
-  },
-  {
-   "brand": "Hisense",
-   "name": "huangshan",
-   "device": "huangshan"
   }
  ],
  "SmartTV 4K": [
@@ -143338,6 +143348,13 @@
    "device": "OP4EB7"
   }
  ],
+ "OPD2101": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO Pad",
+   "device": "OP5223"
+  }
+ ],
  "A101OP": [
   {
    "brand": "Oppo",
@@ -209362,6 +209379,20 @@
    "device": "TECNO-CH7n"
   }
  ],
+ "TECNO CI6": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 19",
+   "device": "TECNO-CI6"
+  }
+ ],
+ "TECNO CI6n": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 19",
+   "device": "TECNO-CI6n"
+  }
+ ],
  "TECNO CA6": [
   {
    "brand": "Tecno",
@@ -211406,6 +211437,13 @@
    "brand": "Tele2",
    "name": "Tele2fon V5",
    "device": "Tele2fon_v5"
+  }
+ ],
+ "Tv Hub Mini": [
+  {
+   "brand": "Tele2",
+   "name": "Tv Hub Mini",
+   "device": "SEI700TE"
   }
  ],
  "Telecable ATV": [
