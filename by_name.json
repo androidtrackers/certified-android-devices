@@ -12677,6 +12677,13 @@
    "model": "AI PONT"
   }
  ],
+ "AIWA": [
+  {
+   "brand": "Aiwa",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
+  }
+ ],
  "AIWA 2K TV": [
   {
    "brand": "Aiwa",
@@ -30350,6 +30357,11 @@
    "brand": "Blaupunkt",
    "device": "stanford",
    "model": "CSV2K"
+  },
+  {
+   "brand": "Blaupunkt",
+   "device": "zhongshan",
+   "model": "CSV4K"
   }
  ],
  "BLAUPUNKT2K": [
@@ -34804,6 +34816,11 @@
    "model": "AiPlus4K"
   },
   {
+   "brand": "JVC",
+   "device": "martin",
+   "model": "Android TV"
+  },
+  {
    "brand": "Sansui TV",
    "device": "yeongdeungpo",
    "model": "AiPlus4K"
@@ -35825,6 +35842,18 @@
    "brand": "CP Plus",
    "device": "CP-MUD-M721",
    "model": "CP-MUD-M721"
+  }
+ ],
+ "Argentina": [
+  {
+   "brand": "CROWN MUSTANG",
+   "device": "martin",
+   "model": "Crown Mustang 2K Android TV"
+  },
+  {
+   "brand": "CROWN MUSTANG",
+   "device": "patrick",
+   "model": "Crown Mustang 4K Android TV"
   }
  ],
  "M10": [
@@ -41660,6 +41689,123 @@
    "model": "Continental 4K Android TV"
   }
  ],
+ "EU、UK、AP": [
+  {
+   "brand": "Continental Edison",
+   "device": "martin",
+   "model": "Continental Edison Android TV"
+  },
+  {
+   "brand": "Digiquest",
+   "device": "martin",
+   "model": "Digiquest 2K Android TV"
+  },
+  {
+   "brand": "EKO",
+   "device": "martin",
+   "model": "EKO 2K Android TV"
+  },
+  {
+   "brand": "Estar",
+   "device": "martin",
+   "model": "eSTAR 2K Android TV"
+  },
+  {
+   "brand": "F&U (Fandu)",
+   "device": "martin",
+   "model": "FandU Android TV"
+  },
+  {
+   "brand": "Grunkel",
+   "device": "martin",
+   "model": "Grunkel 2K Android TV"
+  },
+  {
+   "brand": "Hyundai",
+   "device": "martin",
+   "model": "HYUNDAI ANDROID TV"
+  },
+  {
+   "brand": "JVC",
+   "device": "martin",
+   "model": "JVC Android TV"
+  },
+  {
+   "brand": "Kogan",
+   "device": "martin",
+   "model": "Kogan TV"
+  },
+  {
+   "brand": "Marcel",
+   "device": "martin",
+   "model": "MARCEL Android TV"
+  },
+  {
+   "brand": "Nano",
+   "device": "martin",
+   "model": "Nano Android TV"
+  },
+  {
+   "brand": "QBell",
+   "device": "martin",
+   "model": "Qbell 2K Android TV"
+  },
+  {
+   "brand": "S Vision",
+   "device": "martin",
+   "model": "SVISION 2K Android TV"
+  },
+  {
+   "brand": "SCHNEIDER",
+   "device": "martin",
+   "model": "Schneider 2K Android TV"
+  },
+  {
+   "brand": "SPC",
+   "device": "martin",
+   "model": "SPC Android TV"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "device": "martin",
+   "model": "AiPlus2K"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "device": "martin",
+   "model": "WALTON Android TV"
+  },
+  {
+   "brand": "TD SYSTEMS",
+   "device": "martin",
+   "model": "TD SYSTEMS Android TV"
+  },
+  {
+   "brand": "TELE System",
+   "device": "martin",
+   "model": "TELESYSTEM 2K Android TV"
+  },
+  {
+   "brand": "Tesla",
+   "device": "martin",
+   "model": "Tesla Android TV"
+  },
+  {
+   "brand": "Turbo-X",
+   "device": "martin",
+   "model": "TURBO-X Android TV"
+  },
+  {
+   "brand": "Vision",
+   "device": "martin",
+   "model": "Vision Android TV"
+  },
+  {
+   "brand": "Zephir",
+   "device": "martin",
+   "model": "Zephir 2K Android TV"
+  }
+ ],
  "France": [
   {
    "brand": "Continental Edison",
@@ -42925,6 +43071,13 @@
    "brand": "Coolpad",
    "device": "k69v1_64",
    "model": "CP03"
+  }
+ ],
+ "Cool 20 pro": [
+  {
+   "brand": "Coolpad",
+   "device": "CP05",
+   "model": "CP05"
   }
  ],
  "Cool C1": [
@@ -52910,6 +53063,18 @@
    "model": "Ara 5.7 A5719"
   }
  ],
+ "\"Australia": [
+  {
+   "brand": "EKO",
+   "device": "Japan",
+   "model": "Germany"
+  },
+  {
+   "brand": "EKO",
+   "device": "Japan",
+   "model": "Germany"
+  }
+ ],
  "EKO": [
   {
    "brand": "EKO",
@@ -55158,6 +55323,13 @@
    "model": "U505S"
   }
  ],
+ "U608S": [
+  {
+   "brand": "Energizer",
+   "device": "U608S",
+   "model": "U608S"
+  }
+ ],
  "Ultimate U710S": [
   {
    "brand": "Energizer",
@@ -55847,6 +56019,11 @@
   {
    "brand": "Euskaltel",
    "device": "m392",
+   "model": "Deco 4K con Android TV"
+  },
+  {
+   "brand": "Euskaltel",
+   "device": "m393gena_esk",
    "model": "Deco 4K con Android TV"
   },
   {
@@ -90991,6 +91168,13 @@
    "model": "Infinix X693"
   }
  ],
+ "Infinix NOTE 12": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X663C",
+   "model": "Infinix X663C"
+  }
+ ],
  "Infinix NOTE 12i": [
   {
    "brand": "Infinix",
@@ -91083,6 +91267,13 @@
    "brand": "Infinix",
    "device": "Infinix-X572",
    "model": "Infinix X572"
+  }
+ ],
+ "Infinix ZERO 5G": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6815B",
+   "model": "Infinix X6815B"
   }
  ],
  "Infinix ZERO 8i": [
@@ -97854,6 +98045,11 @@
    "brand": "KTCtv",
    "device": "stanford",
    "model": "CSV2K"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "zhongshan",
+   "model": "CSV4K"
   }
  ],
  "Electroman": [
@@ -97868,6 +98064,11 @@
    "brand": "KTCtv",
    "device": "stanford",
    "model": "CSV2K"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "zhongshan",
+   "model": "CSV4K"
   }
  ],
  "NA": [
@@ -97882,6 +98083,11 @@
    "brand": "KTCtv",
    "device": "stanford",
    "model": "CSV2K"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "zhongshan",
+   "model": "CSV4K"
   }
  ],
  "Rosso": [
@@ -97903,8 +98109,18 @@
    "model": "F VIZZION TV"
   },
   {
+   "brand": "KTCtv",
+   "device": "zhongshan",
+   "model": "43FSA"
+  },
+  {
    "brand": "Siragon",
    "device": "stanford",
+   "model": "SMART TV"
+  },
+  {
+   "brand": "Siragon",
+   "device": "zhongshan",
    "model": "SMART TV"
   }
  ],
@@ -97913,6 +98129,11 @@
    "brand": "KTCtv",
    "device": "stanford",
    "model": "40DSA"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "zhongshan",
+   "model": "43FSA"
   }
  ],
  "PureKTV": [
@@ -111220,6 +111441,13 @@
    "model": "FS8009"
   }
  ],
+ "Z3 PRO": [
+  {
+   "brand": "Lava",
+   "device": "LZG403_25",
+   "model": "LAVA LZG403 25"
+  }
+ ],
  "Z30": [
   {
    "brand": "Lava",
@@ -120933,6 +121161,11 @@
    "brand": "Master-G",
    "device": "Bolivia",
    "model": "Peru"
+  },
+  {
+   "brand": "Master-G",
+   "device": "Bolivia",
+   "model": "Peru"
   }
  ],
  "HE2704": [
@@ -129010,6 +129243,13 @@
    "model": "XT720"
   }
  ],
+ "Motorola": [
+  {
+   "brand": "Motorola",
+   "device": "zhongshan",
+   "model": "CSV4K"
+  }
+ ],
  "Motorola Android 9.0 TV": [
   {
    "brand": "Motorola",
@@ -129579,6 +129819,18 @@
    "model": "motorola edge"
   }
  ],
+ "moto g 5G (2022)": [
+  {
+   "brand": "Motorola",
+   "device": "austin",
+   "model": "moto g 5G (2022)"
+  },
+  {
+   "brand": "Motorola",
+   "device": "austin",
+   "model": "moto g pure"
+  }
+ ],
  "moto g 5G plus": [
   {
    "brand": "Motorola",
@@ -129703,6 +129955,18 @@
    "brand": "Motorola",
    "device": "denver",
    "model": "moto g stylus 5G"
+  }
+ ],
+ "moto g stylus 5G (2022)": [
+  {
+   "brand": "Motorola",
+   "device": "milanf",
+   "model": "moto g stylus 5G (2022)"
+  },
+  {
+   "brand": "Motorola",
+   "device": "milanf",
+   "model": "moto g(50)"
   }
  ],
  "moto g(10)": [
@@ -135322,6 +135586,13 @@
    "brand": "Nebula",
    "device": "D2140-Cosmos",
    "model": "D2150"
+  }
+ ],
+ "D2160": [
+  {
+   "brand": "Nebula",
+   "device": "D2140-Cosmos",
+   "model": "D2160"
   }
  ],
  "D2241": [
@@ -142127,13 +142398,6 @@
    "brand": "Oppo",
    "device": "OP4EC1",
    "model": "PENM00"
-  }
- ],
- "Reno7": [
-  {
-   "brand": "Oppo",
-   "device": "OP533FL1",
-   "model": "CPH2363"
   }
  ],
  "Reno7 中国版": [
@@ -156422,18 +156686,6 @@
    "model": "RMX2193"
   }
  ],
- "realme 8 5G": [
-  {
-   "brand": "Realme",
-   "device": "RE513CL1",
-   "model": "RMX3241"
-  },
-  {
-   "brand": "realme",
-   "device": "RE513CL1",
-   "model": "RMX3241"
-  }
- ],
  "realme 8Pro": [
   {
    "brand": "Realme",
@@ -156771,18 +157023,6 @@
    "brand": "Realme",
    "device": "RMX3122CN",
    "model": "RMX3122"
-  }
- ],
- "realme V15 5G": [
-  {
-   "brand": "Realme",
-   "device": "RMX3092CN",
-   "model": "RMX3092"
-  },
-  {
-   "brand": "Realme",
-   "device": "RMX3093CN",
-   "model": "RMX3093"
   }
  ],
  "realme V3  5G": [
@@ -159166,6 +159406,13 @@
    "brand": "Russound",
    "device": "XTS7",
    "model": "XTS7"
+  }
+ ],
+ "\"Japan": [
+  {
+   "brand": "S Vision",
+   "device": "USA",
+   "model": "Australia"
   }
  ],
  "S android TV": [
@@ -173465,6 +173712,11 @@
   },
   {
    "brand": "Samsung",
+   "device": "gta4lvewifi",
+   "model": "SM-T503"
+  },
+  {
+   "brand": "Samsung",
    "device": "gta4lwifi",
    "model": "SM-T500"
   }
@@ -174268,6 +174520,11 @@
    "brand": "Samsung",
    "device": "gta4xlve",
    "model": "SM-P619"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gta4xlvewifi",
+   "model": "SM-P613"
   },
   {
    "brand": "Samsung",
@@ -175639,6 +175896,13 @@
    "brand": "Samsung",
    "device": "xcover4lte",
    "model": "SM-G390F"
+  }
+ ],
+ "Galaxy XCover6 Pro": [
+  {
+   "brand": "Samsung",
+   "device": "xcoverpro2",
+   "model": "SM-G736B"
   }
  ],
  "Galaxy Xcover": [
@@ -182071,11 +182335,11 @@
    "model": "SQ811G"
   }
  ],
- "EU、UK、AP": [
+ "Aiplus4K": [
   {
    "brand": "Smart-Tech TV",
-   "device": "martin",
-   "model": "AiPlus2K"
+   "device": "guandu",
+   "model": "Aiplus4K"
   }
  ],
  "Germany": [
@@ -197090,6 +197354,13 @@
    "model": "TERRA_PAD_1006"
   }
  ],
+ "TERRA_PAD_1006_V2": [
+  {
+   "brand": "TERRA",
+   "device": "TERRA_PAD_1006_V2",
+   "model": "TERRA_PAD_1006_V2"
+  }
+ ],
  "igs-series": [
   {
    "brand": "TES (Touch Embedded Solutions)",
@@ -203445,6 +203716,13 @@
    "model": "Trio-Stealth-G4-7.85"
   }
  ],
+ "Alpha_5G": [
+  {
+   "brand": "True",
+   "device": "Alpha_5G",
+   "model": "Alpha 5G"
+  }
+ ],
  "HCH03": [
   {
    "brand": "True",
@@ -206440,6 +206718,13 @@
    "brand": "VIZZION",
    "device": "shinjuku",
    "model": "VIZZION TV"
+  }
+ ],
+ "vizzion": [
+  {
+   "brand": "VIZZION",
+   "device": "zhongshan",
+   "model": "F VIZZION TV"
   }
  ],
  "VNPT SmartBox 2x": [
@@ -211765,6 +212050,13 @@
    "model": "V2154A"
   }
  ],
+ "iQOO Neo6 SE": [
+  {
+   "brand": "Vivo",
+   "device": "PD2199",
+   "model": "V2199A"
+  }
+ ],
  "iQOO Z5": [
   {
    "brand": "Vivo",
@@ -212277,6 +212569,13 @@
    "brand": "Vivo",
    "device": "PD1831",
    "model": "V1831A"
+  }
+ ],
+ "vivo T2": [
+  {
+   "brand": "Vivo",
+   "device": "PD2199",
+   "model": "V2199GA"
   }
  ],
  "vivo X Fold": [
@@ -228932,6 +229231,13 @@
    "model": "TC75"
   }
  ],
+ "TC15": [
+  {
+   "brand": "Zebra",
+   "device": "TC15",
+   "model": "TC15"
+  }
+ ],
  "TC20": [
   {
    "brand": "Zebra",
@@ -228991,11 +229297,32 @@
    "model": "TC52AX"
   }
  ],
+ "TC53": [
+  {
+   "brand": "Zebra",
+   "device": "TC53",
+   "model": "TC53"
+  }
+ ],
+ "TC53A": [
+  {
+   "brand": "Zebra",
+   "device": "TC53",
+   "model": "TC53"
+  }
+ ],
  "TC56": [
   {
    "brand": "Zebra",
    "device": "TC56",
    "model": "TC56"
+  }
+ ],
+ "TC58": [
+  {
+   "brand": "Zebra",
+   "device": "TC58",
+   "model": "TC58"
   }
  ],
  "TC70x": [
@@ -233425,6 +233752,18 @@
    "model": "4K Google TV Stick"
   }
  ],
+ "narzo 50 5G": [
+  {
+   "brand": "realme",
+   "device": "RED8CDL1",
+   "model": "RMX3571"
+  },
+  {
+   "brand": "realme",
+   "device": "RED8CDL1",
+   "model": "RMX3572"
+  }
+ ],
  "realme  8": [
   {
    "brand": "realme",
@@ -233460,6 +233799,13 @@
    "model": "RMX3085"
   }
  ],
+ "realme 8 5G": [
+  {
+   "brand": "realme",
+   "device": "RE513CL1",
+   "model": "RMX3241"
+  }
+ ],
  "realme 8 Pro": [
   {
    "brand": "realme",
@@ -233479,6 +233825,13 @@
    "brand": "realme",
    "device": "RE54E2L1",
    "model": "RMX3521"
+  }
+ ],
+ "realme 9 5G Speed Edition": [
+  {
+   "brand": "realme",
+   "device": "RE54BFL1",
+   "model": "RMX3461"
   }
  ],
  "realme 9 Pro+": [
@@ -233644,11 +233997,6 @@
    "brand": "realme",
    "device": "RE548BL1",
    "model": "RMX3461"
-  },
-  {
-   "brand": "realme",
-   "device": "RE54BFL1",
-   "model": "RMX3461"
   }
  ],
  "realme Q5i": [
@@ -233656,6 +234004,18 @@
    "brand": "realme",
    "device": "RE873D",
    "model": "RMX3574"
+  }
+ ],
+ "realme V15 5G": [
+  {
+   "brand": "realme",
+   "device": "RMX3092CN",
+   "model": "RMX3092"
+  },
+  {
+   "brand": "realme",
+   "device": "RMX3093CN",
+   "model": "RMX3093"
   }
  ],
  "realme V23": [
