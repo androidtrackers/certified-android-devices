@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-05-25
+Last sync is 2022-05-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17385,6 +17385,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mafe|Z1|Z1|Z1|
 |Mafe|Z2|Z2|Z2|
 |Magenta TV|MagentaTV ONE|HY44G|MagentaTV ONE|
+|Magenta TV|TV Box|HY44G|TV Box|
 |MagentaTV|DV6067Y-T|DV6067Y_TVStick|DV6067Y-T|
 |MagentaTV|MagentaTV ONE|HY44G|MagentaTV ONE|
 |MagentaTV|OTT-G1|DV6067Y|OTT-G1|
@@ -23410,12 +23411,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme X50m 5G|RMX2142CN|RMX2142|
 |Realme|realme X50t 5G|RE508C|RMX2052|
 |Realme|realme X50t 5G|RMX2052CN|RMX2052|
-|Realme|realme X7 5G|RMX2176CN|RMX2176|
 |Realme|realme XT|RMX1921|RMX1921|
 |Realme|realme XT|RMX1921L1|RMX1921|
 |Realme|realme XT|RMX1922|RMX1922|
 |Realme|realme narzo 20A|RMX2050|RMX2050|
-|Realme|realme narzo 30 5G|RE513CL1|RMX3242|
 |Realme|realme narzo 30A|RMX3171|RMX3171|
 |Realme|realme pad|RE54C1L1|RMP2103|
 |Realme|realme 7i|RE50C1|RMX2103|
@@ -36745,6 +36744,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme X50m 5G|RMX2141CN|RMX2141|
 |realme|realme X7 5G|RMX3092L1|RMX3092|
 |realme|realme X7Pro Ultra|RMX3115CN|RMX3115|
+|realme|realme X7 5G|RMX2176CN|RMX2176|
 |realme|realme narzo 20 Pro|RMX2161L1|RMX2161|
 |realme|realme narzo 30|RMX2156L1|RMX2156|
 |realme|realme narzo 30 5G|RE513CL1|RMX3242|

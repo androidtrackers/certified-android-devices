@@ -35827,6 +35827,11 @@
    "model": "TV Box"
   },
   {
+   "brand": "Magenta TV",
+   "device": "HY44G",
+   "model": "TV Box"
+  },
+  {
    "brand": "Orange",
    "device": "zc4455v_orb",
    "model": "Orange TV Box"
@@ -157163,13 +157168,6 @@
    "model": "RMX2052"
   }
  ],
- "realme X7 5G": [
-  {
-   "brand": "Realme",
-   "device": "RMX2176CN",
-   "model": "RMX2176"
-  }
- ],
  "realme XT": [
   {
    "brand": "Realme",
@@ -157192,18 +157190,6 @@
    "brand": "Realme",
    "device": "RMX2050",
    "model": "RMX2050"
-  }
- ],
- "realme narzo 30 5G": [
-  {
-   "brand": "Realme",
-   "device": "RE513CL1",
-   "model": "RMX3242"
-  },
-  {
-   "brand": "realme",
-   "device": "RE513CL1",
-   "model": "RMX3242"
   }
  ],
  "realme narzo 30A": [
@@ -234053,6 +234039,13 @@
    "model": "RMX3115"
   }
  ],
+ "realme X7 5G": [
+  {
+   "brand": "realme",
+   "device": "RMX2176CN",
+   "model": "RMX2176"
+  }
+ ],
  "realme narzo 20 Pro": [
   {
    "brand": "realme",
@@ -234065,6 +234058,13 @@
    "brand": "realme",
    "device": "RMX2156L1",
    "model": "RMX2156"
+  }
+ ],
+ "realme narzo 30 5G": [
+  {
+   "brand": "realme",
+   "device": "RE513CL1",
+   "model": "RMX3242"
   }
  ],
  "realme narzo 50": [

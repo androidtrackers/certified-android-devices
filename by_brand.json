@@ -89377,6 +89377,11 @@
    "device": "HY44G",
    "name": "MagentaTV ONE",
    "model": "MagentaTV ONE"
+  },
+  {
+   "device": "HY44G",
+   "name": "TV Box",
+   "model": "TV Box"
   }
  ],
  "MagentaTV": [
@@ -120348,11 +120353,6 @@
    "model": "RMX2052"
   },
   {
-   "device": "RMX2176CN",
-   "name": "realme X7 5G",
-   "model": "RMX2176"
-  },
-  {
    "device": "RMX1921",
    "name": "realme XT",
    "model": "RMX1921"
@@ -120371,11 +120371,6 @@
    "device": "RMX2050",
    "name": "realme narzo 20A",
    "model": "RMX2050"
-  },
-  {
-   "device": "RE513CL1",
-   "name": "realme narzo 30 5G",
-   "model": "RMX3242"
   },
   {
    "device": "RMX3171",
@@ -188639,6 +188634,11 @@
    "device": "RMX3115CN",
    "name": "realme X7Pro Ultra",
    "model": "RMX3115"
+  },
+  {
+   "device": "RMX2176CN",
+   "name": "realme X7 5G",
+   "model": "RMX2176"
   },
   {
    "device": "RMX2161L1",

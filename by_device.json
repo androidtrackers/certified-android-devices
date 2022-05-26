@@ -31688,6 +31688,11 @@
    "model": "MagentaTV ONE"
   },
   {
+   "brand": "Magenta TV",
+   "name": "TV Box",
+   "model": "TV Box"
+  },
+  {
    "brand": "MagentaTV",
    "name": "MagentaTV ONE",
    "model": "MagentaTV ONE"
@@ -156798,13 +156803,6 @@
    "model": "RMX2052"
   }
  ],
- "RMX2176CN": [
-  {
-   "brand": "Realme",
-   "name": "realme X7 5G",
-   "model": "RMX2176"
-  }
- ],
  "RMX1921": [
   {
    "brand": "Realme",
@@ -156831,23 +156829,6 @@
    "brand": "Realme",
    "name": "realme narzo 20A",
    "model": "RMX2050"
-  }
- ],
- "RE513CL1": [
-  {
-   "brand": "Realme",
-   "name": "realme narzo 30 5G",
-   "model": "RMX3242"
-  },
-  {
-   "brand": "realme",
-   "name": "realme 8 5G",
-   "model": "RMX3241"
-  },
-  {
-   "brand": "realme",
-   "name": "realme narzo 30 5G",
-   "model": "RMX3242"
   }
  ],
  "RMX3171": [
@@ -236250,6 +236231,18 @@
    "model": "RMX2151"
   }
  ],
+ "RE513CL1": [
+  {
+   "brand": "realme",
+   "name": "realme 8 5G",
+   "model": "RMX3241"
+  },
+  {
+   "brand": "realme",
+   "name": "realme narzo 30 5G",
+   "model": "RMX3242"
+  }
+ ],
  "RE58A0L1": [
   {
    "brand": "realme",
@@ -236503,6 +236496,13 @@
    "brand": "realme",
    "name": "realme X7Pro Ultra",
    "model": "RMX3115"
+  }
+ ],
+ "RMX2176CN": [
+  {
+   "brand": "realme",
+   "name": "realme X7 5G",
+   "model": "RMX2176"
   }
  ],
  "RMX2161L1": [

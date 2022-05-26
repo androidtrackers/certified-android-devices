@@ -29436,6 +29436,11 @@
    "device": "HY44G"
   },
   {
+   "brand": "Magenta TV",
+   "name": "TV Box",
+   "device": "HY44G"
+  },
+  {
    "brand": "T-Mobile-CZ-Telekom-SK",
    "name": "TV Box HY4403",
    "device": "HY44G"
@@ -160038,13 +160043,6 @@
    "device": "RMX2052CN"
   }
  ],
- "RMX2176": [
-  {
-   "brand": "Realme",
-   "name": "realme X7 5G",
-   "device": "RMX2176CN"
-  }
- ],
  "RMX1921": [
   {
    "brand": "Realme",
@@ -160069,18 +160067,6 @@
    "brand": "Realme",
    "name": "realme narzo 20A",
    "device": "RMX2050"
-  }
- ],
- "RMX3242": [
-  {
-   "brand": "Realme",
-   "name": "realme narzo 30 5G",
-   "device": "RE513CL1"
-  },
-  {
-   "brand": "realme",
-   "name": "realme narzo 30 5G",
-   "device": "RE513CL1"
   }
  ],
  "RMX3171": [
@@ -246904,11 +246890,25 @@
    "device": "RMX3115CN"
   }
  ],
+ "RMX2176": [
+  {
+   "brand": "realme",
+   "name": "realme X7 5G",
+   "device": "RMX2176CN"
+  }
+ ],
  "RMX2161": [
   {
    "brand": "realme",
    "name": "realme narzo 20 Pro",
    "device": "RMX2161L1"
+  }
+ ],
+ "RMX3242": [
+  {
+   "brand": "realme",
+   "name": "realme narzo 30 5G",
+   "device": "RE513CL1"
   }
  ],
  "RMX3286": [
