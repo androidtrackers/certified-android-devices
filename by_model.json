@@ -40098,27 +40098,27 @@
  "4K SA Smart TV": [
   {
    "brand": "Daewoo",
-   "name": "4K SA Smart TV",
+   "name": "4K Smart TV",
    "device": "pioneer"
   },
   {
    "brand": "JVC",
-   "name": "4K SA Smart TV",
+   "name": "4K Smart TV",
    "device": "pioneer"
   },
   {
    "brand": "Master-G",
-   "name": "4K SA Smart TV",
+   "name": "4K Smart TV",
    "device": "pioneer"
   },
   {
    "brand": "RCA",
-   "name": "4K SA Smart TV",
+   "name": "4K Smart TV",
    "device": "pioneer"
   },
   {
    "brand": "iMuz",
-   "name": "4K SA Smart TV",
+   "name": "4K Smart TV",
    "device": "pioneer"
   }
  ],
@@ -45417,6 +45417,23 @@
    "brand": "Dyon",
    "name": "Dyon",
    "device": "komagome"
+  }
+ ],
+ "2K SMART TV": [
+  {
+   "brand": "Dyon",
+   "name": "Dyon",
+   "device": "stanford"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "AP",
+   "device": "stanford"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "Banana",
+   "device": "stanford"
   }
  ],
  "Eclipse_G400M": [
@@ -86137,6 +86154,23 @@
    "device": "e551_Lite"
   }
  ],
+ "SMART TV": [
+  {
+   "brand": "Hyundai",
+   "name": "hyundai",
+   "device": "stanford"
+  },
+  {
+   "brand": "Siragon",
+   "name": "SA",
+   "device": "stanford"
+  },
+  {
+   "brand": "Siragon",
+   "name": "SA",
+   "device": "zhongshan"
+  }
+ ],
  "BU01": [
   {
    "brand": "Hyve",
@@ -95527,13 +95561,6 @@
    "device": "BLISS_8"
   }
  ],
- "2K SMART TV": [
-  {
-   "brand": "KTCtv",
-   "name": "Banana",
-   "device": "stanford"
-  }
- ],
  "Smart UHD TV": [
   {
    "brand": "KTCtv",
@@ -95541,11 +95568,25 @@
    "device": "zhongshan"
   }
  ],
+ "40DNA": [
+  {
+   "brand": "KTCtv",
+   "name": "NA",
+   "device": "stanford"
+  }
+ ],
  "43FNA": [
   {
    "brand": "KTCtv",
    "name": "NA",
    "device": "zhongshan"
+  }
+ ],
+ "Smart FHD TV": [
+  {
+   "brand": "KTCtv",
+   "name": "Nobrand",
+   "device": "stanford"
   }
  ],
  "40DSA": [
@@ -132237,6 +132278,18 @@
    "brand": "Motorola",
    "name": "moto g71 5G",
    "device": "corfur"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g82 5G",
+   "device": "rhodep"
+  }
+ ],
+ "moto g82 5G": [
+  {
+   "brand": "Motorola",
+   "name": "moto g82 5G",
+   "device": "rhodep"
   }
  ],
  "XT1943-1": [
@@ -158252,20 +158305,6 @@
    "device": "RCT6213W87DK"
   }
  ],
- "DAEWOO 4K SA Smart TV": [
-  {
-   "brand": "RCA",
-   "name": "4K SA Smart TV",
-   "device": "pioneer"
-  }
- ],
- "HKC 4K SA Smart TV": [
-  {
-   "brand": "RCA",
-   "name": "4K SA Smart TV",
-   "device": "pioneer"
-  }
- ],
  "HKC 4K AI Smart TV": [
   {
    "brand": "RCA",
@@ -158278,6 +158317,20 @@
    "brand": "RCA",
    "name": "4K Smart TV",
    "device": "gangbyeon"
+  }
+ ],
+ "DAEWOO 4K SA Smart TV": [
+  {
+   "brand": "RCA",
+   "name": "4K Smart TV",
+   "device": "pioneer"
+  }
+ ],
+ "HKC 4K SA Smart TV": [
+  {
+   "brand": "RCA",
+   "name": "4K Smart TV",
+   "device": "pioneer"
   }
  ],
  "RCT6673W23M": [
@@ -187988,18 +188041,6 @@
    "device": "SINTEL_X1"
   }
  ],
- "SMART TV": [
-  {
-   "brand": "Siragon",
-   "name": "SA",
-   "device": "stanford"
-  },
-  {
-   "brand": "Siragon",
-   "name": "SA",
-   "device": "zhongshan"
-  }
- ],
  "SP-6200": [
   {
    "brand": "Siragon",
@@ -211215,6 +211256,20 @@
    "brand": "Tecno",
    "name": "TECNO SPARK 8T",
    "device": "TECNO-KG6P"
+  }
+ ],
+ "TECNO KH7n": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 9 Pro",
+   "device": "TECNO-KH7n"
+  }
+ ],
+ "TECNO KH6": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 9T",
+   "device": "TECNO-KH6"
   }
  ],
  "TECNO KC1": [

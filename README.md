@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-05-26
+Last sync is 2022-05-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5357,7 +5357,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DUODUOGO|Tablet-P8_A|Tablet-P8_A|Tablet-P8_A|
 |DUODUOGO|Tablet-P8_EEA|Tablet-P8_EEA|Tablet-P8_EEA|
 |Daehap|DH-B301K|DH-B301K|DH-B301K|
-|Daewoo|4K SA Smart TV|pioneer|4K SA Smart TV|
+|Daewoo|4K Smart TV|pioneer|4K SA Smart TV|
 |Daewoo|DAEWOO SMART TV|sunnyvale|DAEWOO SMART TV|
 |Daewoo|DW-TN7RK16|DW-TN7RK16|DW-TN7RK16|
 |Daewoo|Daewoo 4K TV|SW4H_FF|Daewoo 4K TV|
@@ -6104,6 +6104,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dynalink|STI6130-D350|sti6130d350|Dynalink TV Box|
 |Dyon|Dyon|bangbae|Dyon 4K Android TV|
 |Dyon|Dyon|komagome|Dyon 2K Android TV|
+|Dyon|Dyon|stanford|2K SMART TV|
 |E-Boda|Eclipse G400M|Eclipse_G400M|Eclipse_G400M|
 |E-Boda|Eclipse G500HD|E-Boda_Eclipse_G500HD|Eclipse G500HD|
 |E-Boda|Eclipse G500M|Eclipse_G500M|Eclipse_G500M|
@@ -12119,6 +12120,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|e502|e502|e502|
 |Hyundai|e551|e551|e551|
 |Hyundai|e551 Lite|e551_Lite|e551 Lite|
+|Hyundai|hyundai|stanford|SMART TV|
 |Hyve|Buzz BU01|buzz_bu01|BU01|
 |Hyve|Pryme01|pryme01|Pryme 01|
 |Hyve|Storm ST01|storm_st01|ST01|
@@ -13226,8 +13228,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JUSYEA|J8|J8|J8|
 |JUSYEA|J8_EEA|J8_EEA|J8_EEA|
 |JVC||gener|RY-AP1|
-|JVC|4K SA Smart TV|pioneer|4K SA Smart TV|
 |JVC|4K Smart TV|gangbyeon|4K AI Smart TV|
+|JVC|4K Smart TV|pioneer|4K SA Smart TV|
 |JVC|4K_Edition|Android_TV_BOX|4K_Edition|
 |JVC|AV-08NT310|AV-08NT310|AV-08NT310|
 |JVC|AV-10NT310|AV-10NT310|AV-10NT310|
@@ -13534,6 +13536,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KT Tech|TAKE SUIT|e100|KM-E100|
 |KTC (PD)|BLISS503|BLISS503|BLISS503|
 |KTC (PD)|BLISS_8|BLISS_8|BLISS_8|
+|KTCtv|AP|stanford|2K SMART TV|
 |KTCtv|AP|stanford|40D|
 |KTCtv|Banana|stanford|2K SMART TV|
 |KTCtv|Banana|zhongshan|4K SMART TV|
@@ -13545,9 +13548,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|Electroman|zhongshan|Smart UHD TV|
 |KTCtv|INNOVA|stanford|CSV2K|
 |KTCtv|INNOVA|zhongshan|CSV4K|
+|KTCtv|NA|stanford|40DNA|
 |KTCtv|NA|zhongshan|43FNA|
 |KTCtv|NAKAMICHI|stanford|CSV2K|
 |KTCtv|NAKAMICHI|zhongshan|CSV4K|
+|KTCtv|Nobrand|stanford|Smart FHD TV|
 |KTCtv|Rosso|stanford|40D|
 |KTCtv|SA|stanford|40DSA|
 |KTCtv|SA|stanford|F VIZZION TV|
@@ -17509,7 +17514,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Masstel|Tab_8A|Tab_8A|Masstel Tab 8A|
 |Masstel|X3|Masstel_X3|Masstel X3|
 |Masstel|X8|Masstel_X8|Masstel_X8|
-|Master-G|4K SA Smart TV|pioneer|4K SA Smart TV|
+|Master-G|4K Smart TV|pioneer|4K SA Smart TV|
 |Master-G|Android TV|R1|ATV R1|
 |Master-G|Android TV|R2|ATV R2|
 |Master-G|"Chile|Bolivia|Peru|
@@ -19102,6 +19107,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g6 play|jeter|moto g(6) play|
 |Motorola|moto g71 5G|corfur|moto g(50)|
 |Motorola|moto g71 5G|corfur|moto g71 5G|
+|Motorola|moto g82 5G|rhodep|moto g71 5G|
+|Motorola|moto g82 5G|rhodep|moto g82 5G|
 |Motorola|moto p30|robusta|XT1943-1|
 |Motorola|moto p30 play|deen|XT1941-2|
 |Motorola|moto tab g20|mototabg20|moto tab g20|
@@ -23144,13 +23151,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|11 Delta Pro|RCT6613W23P|RCT6613W23P|
 |RCA|11 Galileo Pro|RCT6513W87|RCT6513W87|
 |RCA|11 Maven Pro|RCT6213W87DK|RCT6213W87DK|
-|RCA|4K SA Smart TV|pioneer|4K SA Smart TV|
-|RCA|4K SA Smart TV|pioneer|DAEWOO 4K SA Smart TV|
-|RCA|4K SA Smart TV|pioneer|HKC 4K SA Smart TV|
 |RCA|4K Smart TV|gangbyeon|4K AI Smart TV|
 |RCA|4K Smart TV|gangbyeon|4K Smart TV|
 |RCA|4K Smart TV|gangbyeon|HKC 4K AI Smart TV|
 |RCA|4K Smart TV|gangbyeon|Treeview 4K AI Smart TV|
+|RCA|4K Smart TV|pioneer|4K SA Smart TV|
+|RCA|4K Smart TV|pioneer|DAEWOO 4K SA Smart TV|
+|RCA|4K Smart TV|pioneer|HKC 4K SA Smart TV|
 |RCA|7 Mercury|RCT6673W23M|RCT6673W23M|
 |RCA|7 Mercury|RCT6673W43M|RCT6673W43M|
 |RCA|7 Voyager|RCT6873W42|RCT6873W42|
@@ -31074,6 +31081,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 8P|TECNO-KG7n|TECNO KG7n|
 |Tecno|TECNO SPARK 8T|TECNO-KG6P|TECNO KG6P|
 |Tecno|TECNO SPARK 8T|TECNO-KG6P|TECNO KG6p|
+|Tecno|TECNO SPARK 9 Pro|TECNO-KH7n|TECNO KH7n|
+|Tecno|TECNO SPARK 9T|TECNO-KH6|TECNO KH6|
 |Tecno|TECNO SPARK Go|TECNO-KC1|TECNO KC1|
 |Tecno|TECNO SPARK Go 2022|TECNO-KG5|TECNO KG5|
 |Tecno|TECNO SPARK Go 2022|TECNO-KG5h|TECNO KG5h|
@@ -36485,7 +36494,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iLife|KIDS_TAB_6|KIDS_TAB_6|KIDS_TAB_6|
 |iLife|MISA|MISA|MISA|
 |iMin|I22M01|I22M01|I22M01|
-|iMuz|4K SA Smart TV|pioneer|4K SA Smart TV|
+|iMuz|4K Smart TV|pioneer|4K SA Smart TV|
 |iMuz|EG104|EG104|EG104|
 |iMuz|G10|G10|G10|
 |iMuz|G10E|G10|G10|

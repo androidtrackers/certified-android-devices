@@ -949,6 +949,11 @@
    "model": "40DCOL"
   },
   {
+   "brand": "Dyon",
+   "name": "Dyon",
+   "model": "2K SMART TV"
+  },
+  {
    "brand": "EKO",
    "name": "Eko",
    "model": "EKO 2K Android TV"
@@ -964,9 +969,19 @@
    "model": "COL 2K SMART TV"
   },
   {
+   "brand": "Hyundai",
+   "name": "hyundai",
+   "model": "SMART TV"
+  },
+  {
    "brand": "K-ELEC",
    "name": "KELEC",
    "model": "40D"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "AP",
+   "model": "2K SMART TV"
   },
   {
    "brand": "KTCtv",
@@ -995,8 +1010,18 @@
   },
   {
    "brand": "KTCtv",
+   "name": "NA",
+   "model": "40DNA"
+  },
+  {
+   "brand": "KTCtv",
    "name": "NAKAMICHI",
    "model": "CSV2K"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "Nobrand",
+   "model": "Smart FHD TV"
   },
   {
    "brand": "KTCtv",
@@ -42797,37 +42822,37 @@
  "pioneer": [
   {
    "brand": "Daewoo",
-   "name": "4K SA Smart TV",
+   "name": "4K Smart TV",
    "model": "4K SA Smart TV"
   },
   {
    "brand": "JVC",
-   "name": "4K SA Smart TV",
+   "name": "4K Smart TV",
    "model": "4K SA Smart TV"
   },
   {
    "brand": "Master-G",
-   "name": "4K SA Smart TV",
+   "name": "4K Smart TV",
    "model": "4K SA Smart TV"
   },
   {
    "brand": "RCA",
-   "name": "4K SA Smart TV",
+   "name": "4K Smart TV",
    "model": "4K SA Smart TV"
   },
   {
    "brand": "RCA",
-   "name": "4K SA Smart TV",
+   "name": "4K Smart TV",
    "model": "DAEWOO 4K SA Smart TV"
   },
   {
    "brand": "RCA",
-   "name": "4K SA Smart TV",
+   "name": "4K Smart TV",
    "model": "HKC 4K SA Smart TV"
   },
   {
    "brand": "iMuz",
-   "name": "4K SA Smart TV",
+   "name": "4K Smart TV",
    "model": "4K SA Smart TV"
   }
  ],
@@ -129817,6 +129842,18 @@
    "model": "moto g71 5G"
   }
  ],
+ "rhodep": [
+  {
+   "brand": "Motorola",
+   "name": "moto g82 5G",
+   "model": "moto g71 5G"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g82 5G",
+   "model": "moto g82 5G"
+  }
+ ],
  "robusta": [
   {
    "brand": "Motorola",
@@ -203356,6 +203393,20 @@
    "brand": "Tecno",
    "name": "TECNO SPARK 8T",
    "model": "TECNO KG6p"
+  }
+ ],
+ "TECNO-KH7n": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 9 Pro",
+   "model": "TECNO KH7n"
+  }
+ ],
+ "TECNO-KH6": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 9T",
+   "model": "TECNO KH6"
   }
  ],
  "TECNO-KC1": [

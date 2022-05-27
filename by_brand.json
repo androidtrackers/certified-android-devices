@@ -27716,7 +27716,7 @@
  "Daewoo": [
   {
    "device": "pioneer",
-   "name": "4K SA Smart TV",
+   "name": "4K Smart TV",
    "model": "4K SA Smart TV"
   },
   {
@@ -31594,6 +31594,11 @@
    "device": "komagome",
    "name": "Dyon",
    "model": "Dyon 2K Android TV"
+  },
+  {
+   "device": "stanford",
+   "name": "Dyon",
+   "model": "2K SMART TV"
   }
  ],
  "E-Boda": [
@@ -62367,6 +62372,11 @@
    "device": "e551_Lite",
    "name": "e551 Lite",
    "model": "e551 Lite"
+  },
+  {
+   "device": "stanford",
+   "name": "hyundai",
+   "model": "SMART TV"
   }
  ],
  "Hyve": [
@@ -68094,14 +68104,14 @@
    "model": "RY-AP1"
   },
   {
-   "device": "pioneer",
-   "name": "4K SA Smart TV",
-   "model": "4K SA Smart TV"
-  },
-  {
    "device": "gangbyeon",
    "name": "4K Smart TV",
    "model": "4K AI Smart TV"
+  },
+  {
+   "device": "pioneer",
+   "name": "4K Smart TV",
+   "model": "4K SA Smart TV"
   },
   {
    "device": "Android_TV_BOX",
@@ -69736,6 +69746,11 @@
   {
    "device": "stanford",
    "name": "AP",
+   "model": "2K SMART TV"
+  },
+  {
+   "device": "stanford",
+   "name": "AP",
    "model": "40D"
   },
   {
@@ -69789,6 +69804,11 @@
    "model": "CSV4K"
   },
   {
+   "device": "stanford",
+   "name": "NA",
+   "model": "40DNA"
+  },
+  {
    "device": "zhongshan",
    "name": "NA",
    "model": "43FNA"
@@ -69802,6 +69822,11 @@
    "device": "zhongshan",
    "name": "NAKAMICHI",
    "model": "CSV4K"
+  },
+  {
+   "device": "stanford",
+   "name": "Nobrand",
+   "model": "Smart FHD TV"
   },
   {
    "device": "stanford",
@@ -90030,7 +90055,7 @@
  "Master-G": [
   {
    "device": "pioneer",
-   "name": "4K SA Smart TV",
+   "name": "4K Smart TV",
    "model": "4K SA Smart TV"
   },
   {
@@ -98142,6 +98167,16 @@
    "device": "corfur",
    "name": "moto g71 5G",
    "model": "moto g71 5G"
+  },
+  {
+   "device": "rhodep",
+   "name": "moto g82 5G",
+   "model": "moto g71 5G"
+  },
+  {
+   "device": "rhodep",
+   "name": "moto g82 5G",
+   "model": "moto g82 5G"
   },
   {
    "device": "robusta",
@@ -118968,21 +119003,6 @@
    "model": "RCT6213W87DK"
   },
   {
-   "device": "pioneer",
-   "name": "4K SA Smart TV",
-   "model": "4K SA Smart TV"
-  },
-  {
-   "device": "pioneer",
-   "name": "4K SA Smart TV",
-   "model": "DAEWOO 4K SA Smart TV"
-  },
-  {
-   "device": "pioneer",
-   "name": "4K SA Smart TV",
-   "model": "HKC 4K SA Smart TV"
-  },
-  {
    "device": "gangbyeon",
    "name": "4K Smart TV",
    "model": "4K AI Smart TV"
@@ -119001,6 +119021,21 @@
    "device": "gangbyeon",
    "name": "4K Smart TV",
    "model": "Treeview 4K AI Smart TV"
+  },
+  {
+   "device": "pioneer",
+   "name": "4K Smart TV",
+   "model": "4K SA Smart TV"
+  },
+  {
+   "device": "pioneer",
+   "name": "4K Smart TV",
+   "model": "DAEWOO 4K SA Smart TV"
+  },
+  {
+   "device": "pioneer",
+   "name": "4K Smart TV",
+   "model": "HKC 4K SA Smart TV"
   },
   {
    "device": "RCT6673W23M",
@@ -159344,6 +159379,16 @@
    "model": "TECNO KG6p"
   },
   {
+   "device": "TECNO-KH7n",
+   "name": "TECNO SPARK 9 Pro",
+   "model": "TECNO KH7n"
+  },
+  {
+   "device": "TECNO-KH6",
+   "name": "TECNO SPARK 9T",
+   "model": "TECNO KH6"
+  },
+  {
    "device": "TECNO-KC1",
    "name": "TECNO SPARK Go",
    "model": "TECNO KC1"
@@ -187256,7 +187301,7 @@
  "iMuz": [
   {
    "device": "pioneer",
-   "name": "4K SA Smart TV",
+   "name": "4K Smart TV",
    "model": "4K SA Smart TV"
   },
   {

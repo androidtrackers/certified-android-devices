@@ -27210,6 +27210,11 @@
    "model": "Challenger 4K AI Smart TV"
   },
   {
+   "brand": "Daewoo",
+   "device": "pioneer",
+   "model": "4K SA Smart TV"
+  },
+  {
    "brand": "Hyundai",
    "device": "gangbyeon",
    "model": "HYUNDAI 4K AI Smart TV"
@@ -27230,9 +27235,19 @@
    "model": "4K AI Smart TV"
   },
   {
+   "brand": "JVC",
+   "device": "pioneer",
+   "model": "4K SA Smart TV"
+  },
+  {
    "brand": "KEMPLER STRAUSS",
    "device": "gangbyeon",
    "model": "4K Smart TV"
+  },
+  {
+   "brand": "Master-G",
+   "device": "pioneer",
+   "model": "4K SA Smart TV"
   },
   {
    "brand": "Nano",
@@ -27260,6 +27275,21 @@
    "model": "Treeview 4K AI Smart TV"
   },
   {
+   "brand": "RCA",
+   "device": "pioneer",
+   "model": "4K SA Smart TV"
+  },
+  {
+   "brand": "RCA",
+   "device": "pioneer",
+   "model": "DAEWOO 4K SA Smart TV"
+  },
+  {
+   "brand": "RCA",
+   "device": "pioneer",
+   "model": "HKC 4K SA Smart TV"
+  },
+  {
    "brand": "SYLVANIA",
    "device": "gangbyeon",
    "model": "4K Smart TV"
@@ -27283,6 +27313,11 @@
    "brand": "UNITED TV",
    "device": "gangbyeon",
    "model": "4K AI Smart TV"
+  },
+  {
+   "brand": "iMuz",
+   "device": "pioneer",
+   "model": "4K SA Smart TV"
   },
   {
    "brand": "realme",
@@ -46920,43 +46955,6 @@
    "model": "DH-B301K"
   }
  ],
- "4K SA Smart TV": [
-  {
-   "brand": "Daewoo",
-   "device": "pioneer",
-   "model": "4K SA Smart TV"
-  },
-  {
-   "brand": "JVC",
-   "device": "pioneer",
-   "model": "4K SA Smart TV"
-  },
-  {
-   "brand": "Master-G",
-   "device": "pioneer",
-   "model": "4K SA Smart TV"
-  },
-  {
-   "brand": "RCA",
-   "device": "pioneer",
-   "model": "4K SA Smart TV"
-  },
-  {
-   "brand": "RCA",
-   "device": "pioneer",
-   "model": "DAEWOO 4K SA Smart TV"
-  },
-  {
-   "brand": "RCA",
-   "device": "pioneer",
-   "model": "HKC 4K SA Smart TV"
-  },
-  {
-   "brand": "iMuz",
-   "device": "pioneer",
-   "model": "4K SA Smart TV"
-  }
- ],
  "DAEWOO SMART TV": [
   {
    "brand": "Daewoo",
@@ -52561,6 +52559,11 @@
    "brand": "Dyon",
    "device": "komagome",
    "model": "Dyon 2K Android TV"
+  },
+  {
+   "brand": "Dyon",
+   "device": "stanford",
+   "model": "2K SMART TV"
   }
  ],
  "Eclipse G400M": [
@@ -89111,6 +89114,13 @@
    "model": "e551 Lite"
   }
  ],
+ "hyundai": [
+  {
+   "brand": "Hyundai",
+   "device": "stanford",
+   "model": "SMART TV"
+  }
+ ],
  "Buzz BU01": [
   {
    "brand": "Hyve",
@@ -98018,6 +98028,11 @@
   {
    "brand": "KTCtv",
    "device": "stanford",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "stanford",
    "model": "40D"
   }
  ],
@@ -98079,6 +98094,11 @@
  "NA": [
   {
    "brand": "KTCtv",
+   "device": "stanford",
+   "model": "40DNA"
+  },
+  {
+   "brand": "KTCtv",
    "device": "zhongshan",
    "model": "43FNA"
   }
@@ -98093,6 +98113,13 @@
    "brand": "KTCtv",
    "device": "zhongshan",
    "model": "CSV4K"
+  }
+ ],
+ "Nobrand": [
+  {
+   "brand": "KTCtv",
+   "device": "stanford",
+   "model": "Smart FHD TV"
   }
  ],
  "Rosso": [
@@ -130433,6 +130460,18 @@
    "brand": "Motorola",
    "device": "corfur",
    "model": "moto g71 5G"
+  }
+ ],
+ "moto g82 5G": [
+  {
+   "brand": "Motorola",
+   "device": "rhodep",
+   "model": "moto g71 5G"
+  },
+  {
+   "brand": "Motorola",
+   "device": "rhodep",
+   "model": "moto g82 5G"
   }
  ],
  "moto p30": [
@@ -201038,6 +201077,20 @@
    "brand": "Tecno",
    "device": "TECNO-KG6P",
    "model": "TECNO KG6p"
+  }
+ ],
+ "TECNO SPARK 9 Pro": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KH7n",
+   "model": "TECNO KH7n"
+  }
+ ],
+ "TECNO SPARK 9T": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KH6",
+   "model": "TECNO KH6"
   }
  ],
  "TECNO SPARK Go": [
