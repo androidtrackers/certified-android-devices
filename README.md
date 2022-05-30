@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-05-29
+Last sync is 2022-05-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -24318,6 +24318,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A13 5G|a13x|SM-A136U|
 |Samsung|Galaxy A13 5G|a13x|SM-A136U1|
 |Samsung|Galaxy A13 5G|a13x|SM-A136W|
+|Samsung|Galaxy A13 5G|a13x|SM-M136B|
 |Samsung|Galaxy A13 5G|a13x|SM-S136DL|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260F|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260G|

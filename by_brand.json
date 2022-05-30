@@ -125108,6 +125108,11 @@
   {
    "device": "a13x",
    "name": "Galaxy A13 5G",
+   "model": "SM-M136B"
+  },
+  {
+   "device": "a13x",
+   "name": "Galaxy A13 5G",
    "model": "SM-S136DL"
   },
   {

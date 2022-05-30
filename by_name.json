@@ -162639,6 +162639,11 @@
   {
    "brand": "Samsung",
    "device": "a13x",
+   "model": "SM-M136B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a13x",
    "model": "SM-S136DL"
   }
  ],
