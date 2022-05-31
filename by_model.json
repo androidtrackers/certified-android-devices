@@ -48269,6 +48269,13 @@
    "device": "DIW585"
   }
  ],
+ "DECO ENTEL VSB3930": [
+  {
+   "brand": "Entel",
+   "name": "DECO ENTEL VSB3930",
+   "device": "m393vsb_entel"
+  }
+ ],
  "OWN-I62S": [
   {
    "brand": "Entel",
@@ -72784,6 +72791,13 @@
    "brand": "Honda",
    "name": "Accord",
    "device": "koelsch"
+  }
+ ],
+ "22M Gathers": [
+  {
+   "brand": "Honda",
+   "name": "Gathers",
+   "device": "pl0a"
   }
  ],
  "MY19ADA": [
@@ -137837,6 +137851,13 @@
    "brand": "Nelson Mandela",
    "name": "Freedom 5.5",
    "device": "Freedom_55"
+  }
+ ],
+ "KT1007_EEA": [
+  {
+   "brand": "Neoregent",
+   "name": "KT1007_EEA",
+   "device": "KT1007_EEA"
   }
  ],
  "Neostra-R10": [
@@ -220501,6 +220522,18 @@
    "device": "V2154"
   }
  ],
+ "V2154": [
+  {
+   "brand": "Vivo",
+   "name": "T1",
+   "device": "V2154"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y55",
+   "device": "V2154"
+  }
+ ],
  "V2168": [
   {
    "brand": "Vivo",
@@ -222424,13 +222457,6 @@
    "brand": "Vivo",
    "name": "Y55",
    "device": "1603"
-  }
- ],
- "V2154": [
-  {
-   "brand": "Vivo",
-   "name": "Y55",
-   "device": "V2154"
   }
  ],
  "vivo Y55": [

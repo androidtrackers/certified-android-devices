@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-05-30
+Last sync is 2022-05-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6519,6 +6519,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Enspert|orion|orion|NGM Orion|
 |Enspert|vanitysmart|vanitysmart|NGM Vanity Smart|
 |Entel|DECO ENTEL|DIW585|DECO ENTEL|
+|Entel|DECO ENTEL VSB3930|m393vsb_entel|DECO ENTEL VSB3930|
 |Entel|OWN I62S|OWN-I62S|OWN-I62S|
 |Entel|S3015|S3015|S3015|
 |Entity|ENT11QF12|ENT11QF12|ENT11QF12|
@@ -10120,6 +10121,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honda|A-DA|yebisuGA|MY22ADA|
 |Honda|A-DA|yebisuHA|MY22ADA|
 |Honda|Accord|koelsch|MY16ADA|
+|Honda|Gathers|pl0a|22M Gathers|
 |Honda|MY15ADA|koelsch|MY15ADA|
 |Honda|NSX|koelsch|MY15ADA|
 |Honda|Pilot|koelsch|MY15ADA|
@@ -19976,6 +19978,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nelson Mandela|Freedom 5.0|Freedom_5_0|Freedom 5.0|
 |Nelson Mandela|Freedom 5.2|Freedom_5_2|Freedom 5.2|
 |Nelson Mandela|Freedom 5.5|Freedom_55|Freedom 5.5|
+|Neoregent|KT1007_EEA|KT1007_EEA|KT1007_EEA|
 |Neostra|Neostra-R10|Neostra-R10|Neostra-R10|
 |Neostra|Neostra-R10C|Neostra-R10C|Neostra-R10C|
 |Neostra|Neostra-R7|Neostra-R7|Neostra-R7|
@@ -32577,6 +32580,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|PD1612|PD1612|vivo Y67|
 |Vivo|PD1731D|PD1731D|vivo Y71A|
 |Vivo|T1|V2154|V2153|
+|Vivo|T1|V2154|V2154|
 |Vivo|T1|V2154|V2168|
 |Vivo|T1 5G|V2151|V2151|
 |Vivo|T1 Pro 5G|V2151|V2150|

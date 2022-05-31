@@ -9073,6 +9073,11 @@
   {
    "brand": "Vivo",
    "device": "V2154",
+   "model": "V2154"
+  },
+  {
+   "brand": "Vivo",
+   "device": "V2154",
    "model": "V2168"
   },
   {
@@ -55511,6 +55516,13 @@
    "model": "DECO ENTEL"
   }
  ],
+ "DECO ENTEL VSB3930": [
+  {
+   "brand": "Entel",
+   "device": "m393vsb_entel",
+   "model": "DECO ENTEL VSB3930"
+  }
+ ],
  "OWN I62S": [
   {
    "brand": "Entel",
@@ -79030,6 +79042,13 @@
    "brand": "Honda",
    "device": "koelsch",
    "model": "MY16ADA"
+  }
+ ],
+ "Gathers": [
+  {
+   "brand": "Honda",
+   "device": "pl0a",
+   "model": "22M Gathers"
   }
  ],
  "MY15ADA": [
@@ -135921,6 +135940,13 @@
    "brand": "Nelson Mandela",
    "device": "Freedom_55",
    "model": "Freedom 5.5"
+  }
+ ],
+ "KT1007_EEA": [
+  {
+   "brand": "Neoregent",
+   "device": "KT1007_EEA",
+   "model": "KT1007_EEA"
   }
  ],
  "Neostra-R10": [

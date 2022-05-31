@@ -33815,6 +33815,11 @@
    "model": "DECO ENTEL"
   },
   {
+   "device": "m393vsb_entel",
+   "name": "DECO ENTEL VSB3930",
+   "model": "DECO ENTEL VSB3930"
+  },
+  {
    "device": "OWN-I62S",
    "name": "OWN I62S",
    "model": "OWN-I62S"
@@ -52336,6 +52341,11 @@
    "device": "koelsch",
    "name": "Accord",
    "model": "MY16ADA"
+  },
+  {
+   "device": "pl0a",
+   "name": "Gathers",
+   "model": "22M Gathers"
   },
   {
    "device": "koelsch",
@@ -102652,6 +102662,13 @@
    "device": "Freedom_55",
    "name": "Freedom 5.5",
    "model": "Freedom 5.5"
+  }
+ ],
+ "Neoregent": [
+  {
+   "device": "KT1007_EEA",
+   "name": "KT1007_EEA",
+   "model": "KT1007_EEA"
   }
  ],
  "Neostra": [
@@ -167269,6 +167286,11 @@
    "device": "V2154",
    "name": "T1",
    "model": "V2153"
+  },
+  {
+   "device": "V2154",
+   "name": "T1",
+   "model": "V2154"
   },
   {
    "device": "V2154",

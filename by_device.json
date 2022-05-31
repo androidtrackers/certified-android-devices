@@ -50967,6 +50967,13 @@
    "model": "DECO ENTEL"
   }
  ],
+ "m393vsb_entel": [
+  {
+   "brand": "Entel",
+   "name": "DECO ENTEL VSB3930",
+   "model": "DECO ENTEL VSB3930"
+  }
+ ],
  "OWN-I62S": [
   {
    "brand": "Entel",
@@ -73914,6 +73921,13 @@
    "brand": "Honda",
    "name": "Spirior",
    "model": "MY15ADA"
+  }
+ ],
+ "pl0a": [
+  {
+   "brand": "Honda",
+   "name": "Gathers",
+   "model": "22M Gathers"
   }
  ],
  "h16": [
@@ -135357,6 +135371,13 @@
    "brand": "Nelson Mandela",
    "name": "Freedom 5.5",
    "model": "Freedom 5.5"
+  }
+ ],
+ "KT1007_EEA": [
+  {
+   "brand": "Neoregent",
+   "name": "KT1007_EEA",
+   "model": "KT1007_EEA"
   }
  ],
  "Neostra-R10": [
@@ -212265,6 +212286,11 @@
    "brand": "Vivo",
    "name": "T1",
    "model": "V2153"
+  },
+  {
+   "brand": "Vivo",
+   "name": "T1",
+   "model": "V2154"
   },
   {
    "brand": "Vivo",
