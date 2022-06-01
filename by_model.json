@@ -29441,6 +29441,11 @@
    "device": "HY44G"
   },
   {
+   "brand": "Magenta TV",
+   "name": "TV box",
+   "device": "HY44G"
+  },
+  {
    "brand": "T-Mobile-CZ-Telekom-SK",
    "name": "TV Box HY4403",
    "device": "HY44G"
@@ -85618,6 +85623,13 @@
    "device": "yeongdeungpo"
   }
  ],
+ "HYUNDAI SMART TV": [
+  {
+   "brand": "Hyundai",
+   "name": "HYUNDAI SMART TV",
+   "device": "sunnyvale"
+  }
+ ],
  "HY-BDL163G-001": [
   {
    "brand": "Hyundai",
@@ -88437,6 +88449,11 @@
   {
    "brand": "Infinix",
    "name": "Infinix ZERO X Pro",
+   "device": "Infinix-X6811"
+  },
+  {
+   "brand": "Infinix",
+   "name": "ZERO X Pro",
    "device": "Infinix-X6811"
   }
  ],
@@ -138431,6 +138448,13 @@
    "device": "E270BSA"
   }
  ],
+ "NOBLEX Smart TV": [
+  {
+   "brand": "Noblex",
+   "name": "NOBLEX Smart TV",
+   "device": "sunnyvale"
+  }
+ ],
  "Noblex TV": [
   {
    "brand": "Noblex",
@@ -149903,6 +149927,13 @@
    "device": "PTB8R4G"
   }
  ],
+ "Philco Smart TV": [
+  {
+   "brand": "Philco",
+   "name": "Philco Smart TV",
+   "device": "sunnyvale"
+  }
+ ],
  "PhilcoTV": [
   {
    "brand": "Philco",
@@ -152170,6 +152201,18 @@
    "brand": "Polestar",
    "name": "Polestar Emu",
    "device": "ihu_emulator"
+  }
+ ],
+ "4K PA Smart TV": [
+  {
+   "brand": "Polytron",
+   "name": "4K Smart TV",
+   "device": "pioneer"
+  },
+  {
+   "brand": "RCA",
+   "name": "4K Smart TV",
+   "device": "pioneer"
   }
  ],
  "P500": [
@@ -161178,6 +161221,20 @@
    "brand": "Redmi",
    "name": "Redmi Note 9",
    "device": "cannon"
+  }
+ ],
+ "M2003J15SS": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 9",
+   "device": "merlin"
+  }
+ ],
+ "M2003J15SG": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 9",
+   "device": "merlinnfc"
   }
  ],
  "M2010J19SC": [
@@ -172492,6 +172549,27 @@
    "device": "m12"
   }
  ],
+ "SM-E135F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M13",
+   "device": "m13"
+  }
+ ],
+ "SM-M135F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M13",
+   "device": "m13"
+  }
+ ],
+ "SM-M135M": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M13",
+   "device": "m13"
+  }
+ ],
  "SM-M205N": [
   {
    "brand": "Samsung",
@@ -182871,6 +182949,13 @@
    "device": "xcoverpro2"
   }
  ],
+ "SM-G736U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy XCover6 Pro",
+   "device": "xcoverpro2"
+  }
+ ],
  "GT-S5690": [
   {
    "brand": "Samsung",
@@ -191035,11 +191120,25 @@
    "device": "SO-41B"
   }
  ],
+ "A203SO": [
+  {
+   "brand": "Sony",
+   "name": "Xperia Ace III",
+   "device": "A203SO"
+  }
+ ],
  "SO-53C": [
   {
    "brand": "Sony",
    "name": "Xperia Ace III",
    "device": "SO-53C"
+  }
+ ],
+ "SOG08": [
+  {
+   "brand": "Sony",
+   "name": "Xperia Ace III",
+   "device": "SOG08"
   }
  ],
  "C2304": [

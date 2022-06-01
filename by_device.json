@@ -7094,6 +7094,11 @@
    "model": "DAEWOO SMART TV"
   },
   {
+   "brand": "Hyundai",
+   "name": "HYUNDAI SMART TV",
+   "model": "HYUNDAI SMART TV"
+  },
+  {
    "brand": "Indurama",
    "name": "indurama Smart TV",
    "model": "indurama Smart TV"
@@ -7104,9 +7109,19 @@
    "model": "MONDIAL Smart TV"
   },
   {
+   "brand": "Noblex",
+   "name": "NOBLEX Smart TV",
+   "model": "NOBLEX Smart TV"
+  },
+  {
    "brand": "PRISMPLUS",
    "name": "PrismPlus Android TV",
    "model": "PrismPlus Android TV"
+  },
+  {
+   "brand": "Philco",
+   "name": "Philco Smart TV",
+   "model": "Philco Smart TV"
   },
   {
    "brand": "SWTV",
@@ -31718,6 +31733,11 @@
    "model": "TV Box"
   },
   {
+   "brand": "Magenta TV",
+   "name": "TV box",
+   "model": "TV Box"
+  },
+  {
    "brand": "MagentaTV",
    "name": "MagentaTV ONE",
    "model": "MagentaTV ONE"
@@ -42834,6 +42854,16 @@
    "brand": "Master-G",
    "name": "4K Smart TV",
    "model": "4K SA Smart TV"
+  },
+  {
+   "brand": "Polytron",
+   "name": "4K Smart TV",
+   "model": "4K PA Smart TV"
+  },
+  {
+   "brand": "RCA",
+   "name": "4K Smart TV",
+   "model": "4K PA Smart TV"
   },
   {
    "brand": "RCA",
@@ -87875,6 +87905,11 @@
    "brand": "Infinix",
    "name": "Infinix ZERO X Pro",
    "model": "Infinix X6811"
+  },
+  {
+   "brand": "Infinix",
+   "name": "ZERO X Pro",
+   "model": "Infinix X6811"
   }
  ],
  "Infinix-X687": [
@@ -128378,6 +128413,11 @@
    "brand": "Redmi",
    "name": "Redmi Note 9",
    "model": "M2003J15SC"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 9",
+   "model": "M2003J15SS"
   }
  ],
  "peregrine": [
@@ -157728,6 +157768,11 @@
    "brand": "Redmi",
    "name": "Redmi Note 9",
    "model": "M2003J15SC"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 9",
+   "model": "M2003J15SG"
   }
  ],
  "curtana": [
@@ -168038,6 +168083,23 @@
    "model": "SM-M127N"
   }
  ],
+ "m13": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M13",
+   "model": "SM-E135F"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M13",
+   "model": "SM-M135F"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M13",
+   "model": "SM-M135M"
+  }
+ ],
  "m20": [
   {
    "brand": "Samsung",
@@ -177664,6 +177726,11 @@
    "brand": "Samsung",
    "name": "Galaxy XCover6 Pro",
    "model": "SM-G736B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy XCover6 Pro",
+   "model": "SM-G736U"
   }
  ],
  "GT-S5690": [
@@ -185715,11 +185782,25 @@
    "model": "SO-41B"
   }
  ],
+ "A203SO": [
+  {
+   "brand": "Sony",
+   "name": "Xperia Ace III",
+   "model": "A203SO"
+  }
+ ],
  "SO-53C": [
   {
    "brand": "Sony",
    "name": "Xperia Ace III",
    "model": "SO-53C"
+  }
+ ],
+ "SOG08": [
+  {
+   "brand": "Sony",
+   "name": "Xperia Ace III",
+   "model": "SOG08"
   }
  ],
  "C2304": [

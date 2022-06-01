@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-05-31
+Last sync is 2022-06-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12040,6 +12040,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HYLED5015A4KM|samseong|AI PONT|
 |Hyundai|HYLED5520A4KM|sindorim|AI PONT|
 |Hyundai|HYUNDAI 4K Android TV|kenton|HYUNDAI 4K Android TV|
+|Hyundai|HYUNDAI SMART TV|sunnyvale|HYUNDAI SMART TV|
 |Hyundai|HY_BDL163G_001|HY_BDL163G_001_EEA|HY-BDL163G-001|
 |Hyundai|HyTab_Plus_10LC2|HyTab_Plus_10LC2|HyTab Plus 10LC2|
 |Hyundai|HyTab_Plus_7WA1|7WA1|7WA1|
@@ -12560,6 +12561,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|X600|INFINIX-X600-5M|Infinix-X600|
 |Infinix|X600|INFINIX-X600-H533-5M|Infinix-X600-LTE|
 |Infinix|ZERO 5G|Infinix-X6815|Infinix X6815|
+|Infinix|ZERO X Pro|Infinix-X6811|Infinix X6811|
 |Infinix|Zero 2|Infinix_X509|Infinix X509|
 |Infinix|Zero 4|X555|Infinix Zero 4|
 |Infinix|Zero 4 Plus|X602|Infinix Zero 4 Plus|
@@ -17393,6 +17395,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mafe|Z2|Z2|Z2|
 |Magenta TV|MagentaTV ONE|HY44G|MagentaTV ONE|
 |Magenta TV|TV Box|HY44G|TV Box|
+|Magenta TV|TV box|HY44G|TV Box|
 |MagentaTV|DV6067Y-T|DV6067Y_TVStick|DV6067Y-T|
 |MagentaTV|MagentaTV ONE|HY44G|MagentaTV ONE|
 |MagentaTV|OTT-G1|DV6067Y|OTT-G1|
@@ -20074,6 +20077,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Noblex|N601|N601|N601|
 |Noblex|NBX-T1014N|TA10CA2|TA10CA2|
 |Noblex|NBX-T7014|E270BSA|NBX-T7014|
+|Noblex|NOBLEX Smart TV|sunnyvale|NOBLEX Smart TV|
 |Noblex|Noblex TV|SW4H|Noblex TV|
 |Noblex|NoblexTV|shinjuku|NoblexTV|
 |Noblex|T7A6INC|T7A6INC|T7A6INC|
@@ -21864,6 +21868,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philco|PTB8R4G|PTB8R4G|PTB8R4G|
 |Philco|PTV40G71AGBL-VA|ikebukuro|AI PONT|
 |Philco|PTV55G71AGBLS-4K-VA|sindorim|AI PONT|
+|Philco|Philco Smart TV|sunnyvale|Philco Smart TV|
 |Philco|PhilcoTV|shinjuku|PhilcoTV|
 |Philco|TP10A3N|TP10A3N|TP10A3N|
 |Philco|TP10F|TP10F|TP10F|
@@ -22217,6 +22222,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Polaroid|polaroid|sindang|POLA-TVE19M|
 |Polestar|Polestar|ihu_abl_car|Polestar|
 |Polestar|Polestar Emu|ihu_emulator|Polestar 2|
+|Polytron|4K Smart TV|pioneer|4K PA Smart TV|
 |Polytron|P500|P500|P500|
 |Polytron|P551S|P551S|P551S|
 |Polytron|PDB-F2|PDB_F2|PDB-F2|
@@ -23158,6 +23164,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|4K Smart TV|gangbyeon|4K Smart TV|
 |RCA|4K Smart TV|gangbyeon|HKC 4K AI Smart TV|
 |RCA|4K Smart TV|gangbyeon|Treeview 4K AI Smart TV|
+|RCA|4K Smart TV|pioneer|4K PA Smart TV|
 |RCA|4K Smart TV|pioneer|4K SA Smart TV|
 |RCA|4K Smart TV|pioneer|DAEWOO 4K SA Smart TV|
 |RCA|4K Smart TV|pioneer|HKC 4K SA Smart TV|
@@ -23573,7 +23580,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 8T|willow|willow|
 |Redmi|Redmi Note 9|cannon|M2007J22C|
 |Redmi|Redmi Note 9|merlin|M2003J15SC|
+|Redmi|Redmi Note 9|merlin|M2003J15SS|
 |Redmi|Redmi Note 9|merlinnfc|M2003J15SC|
+|Redmi|Redmi Note 9|merlinnfc|M2003J15SG|
 |Redmi|Redmi Note 9 4G|lime|M2010J19SC|
 |Redmi|Redmi Note 9 Pro|curtana|Redmi Note 9 Pro|
 |Redmi|Redmi Note 9 Pro|curtana|curtana|
@@ -25243,6 +25252,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M12|m12|SM-M127F|
 |Samsung|Galaxy M12|m12|SM-M127G|
 |Samsung|Galaxy M12|m12|SM-M127N|
+|Samsung|Galaxy M13|m13|SM-E135F|
+|Samsung|Galaxy M13|m13|SM-M135F|
+|Samsung|Galaxy M13|m13|SM-M135M|
 |Samsung|Galaxy M20|m20|SM-M205N|
 |Samsung|Galaxy M20|m20lte|SM-M205F|
 |Samsung|Galaxy M20|m20lte|SM-M205FN|
@@ -26764,6 +26776,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy XCover Pro|xcoverpro|SM-G715FN|
 |Samsung|Galaxy XCover4|xcover4lte|SM-G390F|
 |Samsung|Galaxy XCover6 Pro|xcoverpro2|SM-G736B|
+|Samsung|Galaxy XCover6 Pro|xcoverpro2|SM-G736U|
 |Samsung|Galaxy Xcover|GT-S5690|GT-S5690|
 |Samsung|Galaxy Xcover|GT-S5690L|GT-S5690L|
 |Samsung|Galaxy Xcover|GT-S5690M|GT-S5690M|
@@ -28006,7 +28019,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia Ace|J3173|J3173|
 |Sony|Xperia Ace|SO-02L|SO-02L|
 |Sony|Xperia Ace II|SO-41B|SO-41B|
+|Sony|Xperia Ace III|A203SO|A203SO|
 |Sony|Xperia Ace III|SO-53C|SO-53C|
+|Sony|Xperia Ace III|SOG08|SOG08|
 |Sony|Xperia C|C2304|C2304|
 |Sony|Xperia C|C2305|C2305|
 |Sony|Xperia C3|D2533|D2533|
