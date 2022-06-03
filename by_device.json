@@ -6737,6 +6737,100 @@
    "model": "X63L"
   }
  ],
+ "bruno": [
+  {
+   "brand": "Aconatic",
+   "name": "ACONATIC",
+   "model": "ACONATIC 2K Android TV"
+  },
+  {
+   "brand": "EKO",
+   "name": "JVC",
+   "model": "EKO 2K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "JVC PA 2K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "JVC2KAndroid TV"
+  },
+  {
+   "brand": "Sharp",
+   "name": "Sharp",
+   "model": "Sharp 2K Android TV"
+  },
+  {
+   "brand": "innos",
+   "name": "innos",
+   "model": "Innos2KAndroidTV"
+  },
+  {
+   "brand": "truvii",
+   "name": "Truvii",
+   "model": "Truvii2KAndroidTV"
+  }
+ ],
+ "shilin": [
+  {
+   "brand": "Aconatic",
+   "name": "ACONATIC",
+   "model": "ACONATIC 4K Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "Blaupunkt",
+   "model": "BLAUPUNKT 4K Android TV"
+  },
+  {
+   "brand": "EKO",
+   "name": "EKO",
+   "model": "EKO 4K Android TV"
+  },
+  {
+   "brand": "HIMADE",
+   "name": "HIMADE",
+   "model": "HIMADE4KAndroidTV"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "JVC PA 4K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "JVC4KAndroid TV"
+  },
+  {
+   "brand": "MTC",
+   "name": "SmartEver",
+   "model": "SmartEver4KAndroidTV"
+  },
+  {
+   "brand": "Sharp",
+   "name": "Sharp",
+   "model": "Sharp 4K Android TV"
+  },
+  {
+   "brand": "Umax",
+   "name": "Umax",
+   "model": "UMAX4KAndroidTV"
+  },
+  {
+   "brand": "innos",
+   "name": "Innos",
+   "model": "Innos4KAndroidTV"
+  },
+  {
+   "brand": "truvii",
+   "name": "Truvii",
+   "model": "Truvii4KAndroidTV"
+  }
+ ],
  "takao": [
   {
    "brand": "Aconatic",
@@ -8699,6 +8793,13 @@
    "brand": "Aiwa",
    "name": "Aiwa",
    "model": "KSTB6043"
+  }
+ ],
+ "TA-07-232": [
+  {
+   "brand": "Aiwa",
+   "name": "TA-07-232",
+   "model": "TA-07-232"
   }
  ],
  "TA07-2GB": [
@@ -26916,38 +27017,6 @@
    "brand": "Tesco",
    "name": "Technika",
    "model": "TECH-TVE19J"
-  }
- ],
- "shilin": [
-  {
-   "brand": "Blaupunkt",
-   "name": "Blaupunkt",
-   "model": "BLAUPUNKT 4K Android TV"
-  },
-  {
-   "brand": "EKO",
-   "name": "EKO",
-   "model": "EKO 4K Android TV"
-  },
-  {
-   "brand": "JVC",
-   "name": "JVC",
-   "model": "JVC PA 4K Android TV"
-  },
-  {
-   "brand": "MTC",
-   "name": "SmartEver",
-   "model": "SmartEver4KAndroidTV"
-  },
-  {
-   "brand": "Umax",
-   "name": "Umax",
-   "model": "UMAX4KAndroidTV"
-  },
-  {
-   "brand": "innos",
-   "name": "Innos",
-   "model": "Innos4KAndroidTV"
   }
  ],
  "sindang": [
@@ -48735,28 +48804,6 @@
    "brand": "EKO",
    "name": "EKO Star LTE G60",
    "model": "EKO Star LTE G60"
-  }
- ],
- "bruno": [
-  {
-   "brand": "EKO",
-   "name": "JVC",
-   "model": "EKO 2K Android TV"
-  },
-  {
-   "brand": "JVC",
-   "name": "JVC",
-   "model": "JVC PA 2K Android TV"
-  },
-  {
-   "brand": "JVC",
-   "name": "JVC",
-   "model": "JVC2KAndroid TV"
-  },
-  {
-   "brand": "innos",
-   "name": "innos",
-   "model": "Innos2KAndroidTV"
   }
  ],
  "Star_4_0_G40": [
@@ -87762,6 +87809,20 @@
    "brand": "Infinix",
    "name": "Infinix NOTE 12",
    "model": "Infinix X663C"
+  }
+ ],
+ "Infinix-X671": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix NOTE 12 5G",
+   "model": "Infinix X671"
+  }
+ ],
+ "Infinix-X671B": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix NOTE 12 Pro 5G",
+   "model": "Infinix X671B"
   }
  ],
  "Infinix-X6819": [
@@ -149617,6 +149678,11 @@
    "brand": "Positivo",
    "name": "M10 4G PRO X",
    "model": "T2040"
+  },
+  {
+   "brand": "Positivo",
+   "name": "M10 4G PRO X",
+   "model": "Tab Q10"
   }
  ],
  "OCTA": [
@@ -201995,6 +202061,13 @@
    "brand": "Tecno",
    "name": "CAMON 19",
    "model": "TECNO CI6n"
+  }
+ ],
+ "TECNO-CI7n": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 19 Pro 5G",
+   "model": "TECNO CI7n"
   }
  ],
  "TECNO-CA6": [

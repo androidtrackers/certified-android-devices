@@ -5405,6 +5405,20 @@
    "device": "bangbae"
   }
  ],
+ "ACONATIC 2K Android TV": [
+  {
+   "brand": "Aconatic",
+   "name": "ACONATIC",
+   "device": "bruno"
+  }
+ ],
+ "ACONATIC 4K Android TV": [
+  {
+   "brand": "Aconatic",
+   "name": "ACONATIC",
+   "device": "shilin"
+  }
+ ],
  "ACONATIC FHD TV": [
   {
    "brand": "Aconatic",
@@ -7065,6 +7079,13 @@
    "brand": "Aiwa",
    "name": "Aiwa",
    "device": "KSTB6043"
+  }
+ ],
+ "TA-07-232": [
+  {
+   "brand": "Aiwa",
+   "name": "TA-07-232",
+   "device": "TA-07-232"
   }
  ],
  "TA07-2GB": [
@@ -60254,6 +60275,13 @@
    "device": "C-TABLET"
   }
  ],
+ "HIMADE4KAndroidTV": [
+  {
+   "brand": "HIMADE",
+   "name": "HIMADE",
+   "device": "shilin"
+  }
+ ],
  "A79": [
   {
    "brand": "HKC",
@@ -88329,6 +88357,20 @@
    "device": "Infinix-X663C"
   }
  ],
+ "Infinix X671": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix NOTE 12 5G",
+   "device": "Infinix-X671"
+  }
+ ],
+ "Infinix X671B": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix NOTE 12 Pro 5G",
+   "device": "Infinix-X671B"
+  }
+ ],
  "Infinix X6819": [
   {
    "brand": "Infinix",
@@ -93673,6 +93715,13 @@
   }
  ],
  "JVC PA 4K Android TV": [
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "device": "shilin"
+  }
+ ],
+ "JVC4KAndroid TV": [
   {
    "brand": "JVC",
    "name": "JVC",
@@ -152415,6 +152464,13 @@
    "device": "T2040B"
   }
  ],
+ "Tab Q10": [
+  {
+   "brand": "Positivo",
+   "name": "M10 4G PRO X",
+   "device": "T2040"
+  }
+ ],
  "Positivo Mini": [
   {
    "brand": "Positivo",
@@ -187332,6 +187388,13 @@
    "device": "OD0M_EA_T32"
   }
  ],
+ "Sharp 2K Android TV": [
+  {
+   "brand": "Sharp",
+   "name": "Sharp",
+   "device": "bruno"
+  }
+ ],
  "AQUOS-TVE19G": [
   {
    "brand": "Sharp",
@@ -187344,6 +187407,13 @@
    "brand": "Sharp",
    "name": "Sharp",
    "device": "ewha"
+  }
+ ],
+ "Sharp 4K Android TV": [
+  {
+   "brand": "Sharp",
+   "name": "Sharp",
+   "device": "shilin"
   }
  ],
  "AQUOS-TVE21C": [
@@ -209834,6 +209904,13 @@
    "brand": "Tecno",
    "name": "CAMON 19",
    "device": "TECNO-CI6n"
+  }
+ ],
+ "TECNO CI7n": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 19 Pro 5G",
+   "device": "TECNO-CI7n"
   }
  ],
  "TECNO CA6": [
@@ -247504,11 +247581,25 @@
    "device": "HP42F"
   }
  ],
+ "Truvii2KAndroidTV": [
+  {
+   "brand": "truvii",
+   "name": "Truvii",
+   "device": "bruno"
+  }
+ ],
  "Truvii 4K Android TV": [
   {
    "brand": "truvii",
    "name": "Truvii",
    "device": "seocho"
+  }
+ ],
+ "Truvii4KAndroidTV": [
+  {
+   "brand": "truvii",
+   "name": "Truvii",
+   "device": "shilin"
   }
  ],
  "uLesson_Education_Tab": [

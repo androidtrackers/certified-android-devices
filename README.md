@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-06-02
+Last sync is 2022-06-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -523,6 +523,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aceson|R726|R726|R726|
 |Acet|X63L|X63L|X63L|
 |Aconatic|ACONATIC|bangbae|Aconatic 4K Android TV|
+|Aconatic|ACONATIC|bruno|ACONATIC 2K Android TV|
+|Aconatic|ACONATIC|shilin|ACONATIC 4K Android TV|
 |Aconatic|ACONATIC FHD TV|takao|ACONATIC FHD TV|
 |Aconatic|ACONATIC UHD TV|OD0M_EA_T32|ACONATIC UHD TV|
 |Aconatic|Aconatic|komagome|Aconatic 2K Android TV|
@@ -738,6 +740,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiwa|Android TV|ikebukuro|AI PONT|
 |Aiwa|Android TV|samseong|AI PONT|
 |Aiwa|Smart TV|redwood|AI PONT|
+|Aiwa|TA-07-232|TA-07-232|TA-07-232|
 |Aiwa|TA07-2GB|TA07-2GB|TA07-2GB|
 |Aiwa|TA10-SO10|TA10-SO10|TA10-SO10|
 |Aiwa|TAB_1003G|TAB_1003G|TAB_1003G|
@@ -8191,6 +8194,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HEATZ|HZ9950|HZ9950|HZ9950|
 |HEATZ|Z9950|Z9950|Z9950|
 |HELIX_INC|C-TABLET|C-TABLET|C-TABLET|
+|HIMADE|HIMADE|shilin|HIMADE4KAndroidTV|
 |HIMADE|UHD Android TV|sindorim|AI PONT|
 |HKC|A79 Tablet|EM62|A79|
 |HKT|eye3|UY3-PCW|eye3|
@@ -12442,6 +12446,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix NOTE 11|Infinix-X663B|Infinix X663B|
 |Infinix|Infinix NOTE 11i|Infinix-X693|Infinix X693|
 |Infinix|Infinix NOTE 12|Infinix-X663C|Infinix X663C|
+|Infinix|Infinix NOTE 12 5G|Infinix-X671|Infinix X671|
+|Infinix|Infinix NOTE 12 Pro 5G|Infinix-X671B|Infinix X671B|
 |Infinix|Infinix NOTE 12i|Infinix-X6819|Infinix X6819|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604B|
@@ -13257,6 +13263,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|JVC|seocho|JVC US 4K Android TV|
 |JVC|JVC|seocho|SA 4K Android TV|
 |JVC|JVC|shilin|JVC PA 4K Android TV|
+|JVC|JVC|shilin|JVC4KAndroid TV|
 |JVC|JVC|sugamo|JVC 2K Android TV|
 |JVC|JVC|sugamo|JVC SA 2K Android TV|
 |JVC|JVC|sugamo|JVC US 2K Android TV|
@@ -22252,6 +22259,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|Life|S421|S421 Positivo Life|
 |Positivo|M10 4G PRO X|T2040|M10 4G PRO X|
 |Positivo|M10 4G PRO X|T2040|T2040|
+|Positivo|M10 4G PRO X|T2040|Tab Q10|
 |Positivo|Mini|mini|Positivo Mini|
 |Positivo|Mini|mini|Positivo Mini TE|
 |Positivo|Next|X500|Positivo Next|
@@ -27429,8 +27437,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|SHARP R1S|SK3|FS8028|
 |Sharp|SHARP TBC|SI3|FS8025|
 |Sharp|SHARP UHD TV|OD0M_EA_T32|SHARP UHD TV|
+|Sharp|Sharp|bruno|Sharp 2K Android TV|
 |Sharp|Sharp|ewha|AQUOS-TVE19G|
 |Sharp|Sharp|ewha|AQUOS-TVE21B|
+|Sharp|Sharp|shilin|Sharp 4K Android TV|
 |Sharp|Sharp|sindang|AQUOS-TVE19C|
 |Sharp|Sharp|sindang|AQUOS-TVE21C|
 |Sharp|Sharp A Click|AH3|IF9003|
@@ -30871,6 +30881,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|CAMON 18P|TECNO-CH7n|TECNO CH7n|
 |Tecno|CAMON 19|TECNO-CI6|TECNO CI6|
 |Tecno|CAMON 19|TECNO-CI6n|TECNO CI6n|
+|Tecno|CAMON 19 Pro 5G|TECNO-CI7n|TECNO CI7n|
 |Tecno|CAMON C7|TECNO-C7|TECNO-C7|
 |Tecno|CAMON CM|TECNO-CA6|TECNO CA6|
 |Tecno|CAMON I Ace|TECNO-IN1|TECNO IN1|
@@ -36843,7 +36854,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |truevisions|N9106H-C|HB_N9106H_C_truevisions|N9106H-C|
 |truevisions|SKWAMX3|HP42F|SKWAMX3|
 |truevisions|STI6030_TRUE_TV_A01|TV_A01|STI6030_TRUE_TV_A01|
+|truvii|Truvii|bruno|Truvii2KAndroidTV|
 |truvii|Truvii|seocho|Truvii 4K Android TV|
+|truvii|Truvii|shilin|Truvii4KAndroidTV|
 |uLesson|uLesson_Education_Tab|uLesson_Education_Tab|uLesson_Education_Tab|
 |ucall|EASY1|EASY1|EASY1|
 |unitel|P45|P45|P45|

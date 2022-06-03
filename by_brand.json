@@ -2751,6 +2751,16 @@
    "model": "Aconatic 4K Android TV"
   },
   {
+   "device": "bruno",
+   "name": "ACONATIC",
+   "model": "ACONATIC 2K Android TV"
+  },
+  {
+   "device": "shilin",
+   "name": "ACONATIC",
+   "model": "ACONATIC 4K Android TV"
+  },
+  {
    "device": "takao",
    "name": "ACONATIC FHD TV",
    "model": "ACONATIC FHD TV"
@@ -3872,6 +3882,11 @@
    "device": "redwood",
    "name": "Smart TV",
    "model": "AI PONT"
+  },
+  {
+   "device": "TA-07-232",
+   "name": "TA-07-232",
+   "model": "TA-07-232"
   },
   {
    "device": "TA07-2GB",
@@ -42577,6 +42592,11 @@
  ],
  "HIMADE": [
   {
+   "device": "shilin",
+   "name": "HIMADE",
+   "model": "HIMADE4KAndroidTV"
+  },
+  {
    "device": "sindorim",
    "name": "UHD Android TV",
    "model": "AI PONT"
@@ -64092,6 +64112,16 @@
    "model": "Infinix X663C"
   },
   {
+   "device": "Infinix-X671",
+   "name": "Infinix NOTE 12 5G",
+   "model": "Infinix X671"
+  },
+  {
+   "device": "Infinix-X671B",
+   "name": "Infinix NOTE 12 Pro 5G",
+   "model": "Infinix X671B"
+  },
+  {
    "device": "Infinix-X6819",
    "name": "Infinix NOTE 12i",
    "model": "Infinix X6819"
@@ -68247,6 +68277,11 @@
    "device": "shilin",
    "name": "JVC",
    "model": "JVC PA 4K Android TV"
+  },
+  {
+   "device": "shilin",
+   "name": "JVC",
+   "model": "JVC4KAndroid TV"
   },
   {
    "device": "sugamo",
@@ -114408,6 +114443,11 @@
    "model": "T2040"
   },
   {
+   "device": "T2040",
+   "name": "M10 4G PRO X",
+   "model": "Tab Q10"
+  },
+  {
    "device": "mini",
    "name": "Mini",
    "model": "Positivo Mini"
@@ -140727,6 +140767,11 @@
    "model": "SHARP UHD TV"
   },
   {
+   "device": "bruno",
+   "name": "Sharp",
+   "model": "Sharp 2K Android TV"
+  },
+  {
    "device": "ewha",
    "name": "Sharp",
    "model": "AQUOS-TVE19G"
@@ -140735,6 +140780,11 @@
    "device": "ewha",
    "name": "Sharp",
    "model": "AQUOS-TVE21B"
+  },
+  {
+   "device": "shilin",
+   "name": "Sharp",
+   "model": "Sharp 4K Android TV"
   },
   {
    "device": "sindang",
@@ -158329,6 +158379,11 @@
    "device": "TECNO-CI6n",
    "name": "CAMON 19",
    "model": "TECNO CI6n"
+  },
+  {
+   "device": "TECNO-CI7n",
+   "name": "CAMON 19 Pro 5G",
+   "model": "TECNO CI7n"
   },
   {
    "device": "TECNO-C7",
@@ -189161,9 +189216,19 @@
  ],
  "truvii": [
   {
+   "device": "bruno",
+   "name": "Truvii",
+   "model": "Truvii2KAndroidTV"
+  },
+  {
    "device": "seocho",
    "name": "Truvii",
    "model": "Truvii 4K Android TV"
+  },
+  {
+   "device": "shilin",
+   "name": "Truvii",
+   "model": "Truvii4KAndroidTV"
   }
  ],
  "uLesson": [

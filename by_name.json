@@ -10934,6 +10934,16 @@
    "brand": "Aconatic",
    "device": "bangbae",
    "model": "Aconatic 4K Android TV"
+  },
+  {
+   "brand": "Aconatic",
+   "device": "bruno",
+   "model": "ACONATIC 2K Android TV"
+  },
+  {
+   "brand": "Aconatic",
+   "device": "shilin",
+   "model": "ACONATIC 4K Android TV"
   }
  ],
  "ACONATIC FHD TV": [
@@ -12771,6 +12781,13 @@
    "brand": "Aiwa",
    "device": "KSTB6043",
    "model": "KSTB6043"
+  }
+ ],
+ "TA-07-232": [
+  {
+   "brand": "Aiwa",
+   "device": "TA-07-232",
+   "model": "TA-07-232"
   }
  ],
  "TA07-2GB": [
@@ -53230,6 +53247,11 @@
   },
   {
    "brand": "JVC",
+   "device": "shilin",
+   "model": "JVC4KAndroid TV"
+  },
+  {
+   "brand": "JVC",
    "device": "sugamo",
    "model": "JVC 2K Android TV"
   },
@@ -67351,6 +67373,13 @@
    "brand": "HELIX_INC",
    "device": "C-TABLET",
    "model": "C-TABLET"
+  }
+ ],
+ "HIMADE": [
+  {
+   "brand": "HIMADE",
+   "device": "shilin",
+   "model": "HIMADE4KAndroidTV"
   }
  ],
  "A79 Tablet": [
@@ -91224,6 +91253,20 @@
    "brand": "Infinix",
    "device": "Infinix-X663C",
    "model": "Infinix X663C"
+  }
+ ],
+ "Infinix NOTE 12 5G": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X671",
+   "model": "Infinix X671"
+  }
+ ],
+ "Infinix NOTE 12 Pro 5G": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X671B",
+   "model": "Infinix X671B"
   }
  ],
  "Infinix NOTE 12i": [
@@ -149837,6 +149880,11 @@
    "brand": "Positivo",
    "device": "T2040",
    "model": "T2040"
+  },
+  {
+   "brand": "Positivo",
+   "device": "T2040",
+   "model": "Tab Q10"
   }
  ],
  "Next": [
@@ -180135,6 +180183,11 @@
  "Sharp": [
   {
    "brand": "Sharp",
+   "device": "bruno",
+   "model": "Sharp 2K Android TV"
+  },
+  {
+   "brand": "Sharp",
    "device": "ewha",
    "model": "AQUOS-TVE19G"
   },
@@ -180142,6 +180195,11 @@
    "brand": "Sharp",
    "device": "ewha",
    "model": "AQUOS-TVE21B"
+  },
+  {
+   "brand": "Sharp",
+   "device": "shilin",
+   "model": "Sharp 4K Android TV"
   },
   {
    "brand": "Sharp",
@@ -199836,6 +199894,13 @@
    "brand": "Tecno",
    "device": "TECNO-CI6n",
    "model": "TECNO CI6n"
+  }
+ ],
+ "CAMON 19 Pro 5G": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-CI7n",
+   "model": "TECNO CI7n"
   }
  ],
  "CAMON C7": [
@@ -234656,8 +234721,18 @@
  "Truvii": [
   {
    "brand": "truvii",
+   "device": "bruno",
+   "model": "Truvii2KAndroidTV"
+  },
+  {
+   "brand": "truvii",
    "device": "seocho",
    "model": "Truvii 4K Android TV"
+  },
+  {
+   "brand": "truvii",
+   "device": "shilin",
+   "model": "Truvii4KAndroidTV"
   }
  ],
  "uLesson_Education_Tab": [
