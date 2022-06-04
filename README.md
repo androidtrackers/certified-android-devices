@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-06-03
+Last sync is 2022-06-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17619,6 +17619,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maxwest|Panda_7|Panda_7|Panda_7|
 |Maxwest|Ranger 5|Ranger_5|Ranger_5|
 |Maxwest|TAB-9G|TAB-9G|TAB-9G|
+|Maxwest|TAB_MAX_7|TAB_MAX_7|Byybuo|
 |Maxwest|TAB_MAX_7|TAB_MAX_7|TAB_MAX_7|
 |Maze_speed|M1582C|M1582C|M1582C|
 |Maze_speed|M1587K|M1587K|M1587K|
@@ -27081,6 +27082,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|4T-C**BN1H/BL1H|tcmeruj|AQUOS-TVJ20B|
 |Sharp|4T-C**DL1/DJ1/DQ1/DN2|tcve2uj|AQUOS-TVJ21-2|
 |Sharp|4T-C**DS1/DN1|tcvenuj|AQUOS-TVJ21|
+|Sharp|4T-C**EN1/EQ1/ES1/EU1|tcvenruj|AQUOS-4KTVJ22|
+|Sharp|4T-C**EN2/EL1/EQ2|tcvenruj|AQUOS-4KTVJ22-2|
 |Sharp|4T-C50AG1T|LCD_50FOCAG1T|LCD_50FOCAG1T|
 |Sharp|4T-C50BDXA;4T-C50BDKA;4T-C50BDMA;4T-C50BDCA;4T-C50BDZA|Lcd_50sumtcca_xa|LCD_50SUMTCCA_XA|
 |Sharp|4T-C50BJ8T|gangnam|TVX19B|
@@ -27994,6 +27997,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 10 III|SOG04|SOG04|
 |Sony|Xperia 10 III|XQ-BT52|XQ-BT52|
 |Sony|Xperia 10 III Lite|XQ-BT44|XQ-BT44|
+|Sony|Xperia 10 IV|XQ-CC54|XQ-CC54|
+|Sony|Xperia 10 IV|XQ-CC72|XQ-CC72|
 |Sony|Xperia 10 Plus|I3213|I3213|
 |Sony|Xperia 10 Plus|I3223|I3223|
 |Sony|Xperia 10 Plus|I4213|I4213|

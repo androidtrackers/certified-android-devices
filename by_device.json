@@ -120432,6 +120432,11 @@
   {
    "brand": "Maxwest",
    "name": "TAB_MAX_7",
+   "model": "Byybuo"
+  },
+  {
+   "brand": "Maxwest",
+   "name": "TAB_MAX_7",
    "model": "TAB_MAX_7"
   }
  ],
@@ -179596,6 +179601,18 @@
    "model": "AQUOS-TVJ21"
   }
  ],
+ "tcvenruj": [
+  {
+   "brand": "Sharp",
+   "name": "4T-C**EN1/EQ1/ES1/EU1",
+   "model": "AQUOS-4KTVJ22"
+  },
+  {
+   "brand": "Sharp",
+   "name": "4T-C**EN2/EL1/EQ2",
+   "model": "AQUOS-4KTVJ22-2"
+  }
+ ],
  "LCD_50FOCAG1T": [
   {
    "brand": "Sharp",
@@ -185601,6 +185618,20 @@
    "brand": "Sony",
    "name": "Xperia 10 III Lite",
    "model": "XQ-BT44"
+  }
+ ],
+ "XQ-CC54": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 IV",
+   "model": "XQ-CC54"
+  }
+ ],
+ "XQ-CC72": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 IV",
+   "model": "XQ-CC72"
   }
  ],
  "I3213": [

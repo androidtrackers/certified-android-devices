@@ -90601,6 +90601,11 @@
   {
    "device": "TAB_MAX_7",
    "name": "TAB_MAX_7",
+   "model": "Byybuo"
+  },
+  {
+   "device": "TAB_MAX_7",
+   "name": "TAB_MAX_7",
    "model": "TAB_MAX_7"
   }
  ],
@@ -138987,6 +138992,16 @@
    "model": "AQUOS-TVJ21"
   },
   {
+   "device": "tcvenruj",
+   "name": "4T-C**EN1/EQ1/ES1/EU1",
+   "model": "AQUOS-4KTVJ22"
+  },
+  {
+   "device": "tcvenruj",
+   "name": "4T-C**EN2/EL1/EQ2",
+   "model": "AQUOS-4KTVJ22-2"
+  },
+  {
    "device": "LCD_50FOCAG1T",
    "name": "4T-C50AG1T",
    "model": "LCD_50FOCAG1T"
@@ -143644,6 +143659,16 @@
    "device": "XQ-BT44",
    "name": "Xperia 10 III Lite",
    "model": "XQ-BT44"
+  },
+  {
+   "device": "XQ-CC54",
+   "name": "Xperia 10 IV",
+   "model": "XQ-CC54"
+  },
+  {
+   "device": "XQ-CC72",
+   "name": "Xperia 10 IV",
+   "model": "XQ-CC72"
   },
   {
    "device": "I3213",

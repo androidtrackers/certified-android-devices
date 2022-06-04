@@ -121863,6 +121863,11 @@
   {
    "brand": "Maxwest",
    "device": "TAB_MAX_7",
+   "model": "Byybuo"
+  },
+  {
+   "brand": "Maxwest",
+   "device": "TAB_MAX_7",
    "model": "TAB_MAX_7"
   }
  ],
@@ -177820,6 +177825,20 @@
    "model": "AQUOS-TVJ21"
   }
  ],
+ "4T-C**EN1/EQ1/ES1/EU1": [
+  {
+   "brand": "Sharp",
+   "device": "tcvenruj",
+   "model": "AQUOS-4KTVJ22"
+  }
+ ],
+ "4T-C**EN2/EL1/EQ2": [
+  {
+   "brand": "Sharp",
+   "device": "tcvenruj",
+   "model": "AQUOS-4KTVJ22-2"
+  }
+ ],
  "4T-C50AG1T": [
   {
    "brand": "Sharp",
@@ -183579,6 +183598,18 @@
    "brand": "Sony",
    "device": "XQ-BT44",
    "model": "XQ-BT44"
+  }
+ ],
+ "Xperia 10 IV": [
+  {
+   "brand": "Sony",
+   "device": "XQ-CC54",
+   "model": "XQ-CC54"
+  },
+  {
+   "brand": "Sony",
+   "device": "XQ-CC72",
+   "model": "XQ-CC72"
   }
  ],
  "Xperia 10 Plus": [
