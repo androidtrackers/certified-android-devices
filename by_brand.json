@@ -16342,6 +16342,11 @@
    "model": "A-STREAM"
   },
   {
+   "device": "EU",
+   "name": "\"AUSTRALIA",
+   "model": "JAPAN"
+  },
+  {
    "device": "Atlantis_A10_G403",
    "name": "Atlantis_A10_G403",
    "model": "Atlantis_A10_G403"
@@ -19701,6 +19706,13 @@
    "device": "F910B0101",
    "name": "F910B0101",
    "model": "F910"
+  }
+ ],
+ "COEX": [
+  {
+   "device": "sunnyvale",
+   "name": "COEX 2K Smart TV",
+   "model": "COEX 2K Smart TV"
   }
  ],
  "COMPUMAX": [
@@ -63688,7 +63700,7 @@
   },
   {
    "device": "Infinix-X689F",
-   "name": "HOT  11",
+   "name": "HOT",
    "model": "Infinix X689F"
   },
   {
@@ -67709,6 +67721,11 @@
    "device": "itel-A611WP",
    "name": "itel A57 2GB",
    "model": "itel A611WP"
+  },
+  {
+   "device": "itel-A631W-R2",
+   "name": "itel A58 Lite",
+   "model": "itel A631W"
   },
   {
    "device": "itel-A14",
@@ -86208,6 +86225,11 @@
    "model": "TB128FU"
   },
   {
+   "device": "TB128XC",
+   "name": "启天K10 Pro",
+   "model": "TB128XC"
+  },
+  {
    "device": "TB223FC",
    "name": "启天K10 Pro",
    "model": "Lenovo TB223FC"
@@ -98546,6 +98568,11 @@
    "model": "LEX L11"
   },
   {
+   "device": "lexl11g_64",
+   "name": "LEX L11",
+   "model": "LEX L11j"
+  },
+  {
    "device": "mkz_sdm660_64",
    "name": "MOTOTRBO ION",
    "model": "MSLB-MKZ900"
@@ -106607,11 +106634,6 @@
    "model": "PCDT00"
   },
   {
-   "device": "OP4E7F",
-   "name": "A7x 中国版",
-   "model": "PERM00"
-  },
-  {
    "device": "PBBM00",
    "name": "A7x 中国版",
    "model": "PBBM00"
@@ -107350,6 +107372,11 @@
    "device": "OP4AA7",
    "name": "K5",
    "model": "PCNM00"
+  },
+  {
+   "device": "OP4E7F",
+   "name": "K7x 中国版",
+   "model": "PERM00"
   },
   {
    "device": "N1",
@@ -184601,6 +184628,11 @@
    "model": "TC70x"
   },
   {
+   "device": "TC73",
+   "name": "TC73",
+   "model": "TC73"
+  },
+  {
    "device": "TC75x",
    "name": "TC75x",
    "model": "TC75x"
@@ -184614,6 +184646,11 @@
    "device": "TC8000",
    "name": "TC8000",
    "model": "TC8000"
+  },
+  {
+   "device": "TN28",
+   "name": "TN28",
+   "model": "TN28"
   },
   {
    "device": "VC80x",
@@ -188085,6 +188122,11 @@
  ],
  "imiia": [
   {
+   "device": "mateo",
+   "name": "Smart TV",
+   "model": "2K PA Smart TV"
+  },
+  {
    "device": "YUL",
    "name": "i-217D1",
    "model": "i-217D1"
@@ -188770,11 +188812,6 @@
   {
    "device": "RED8BEL1",
    "name": "realme GT NEO 3 150W",
-   "model": "RMX3563"
-  },
-  {
-   "device": "RED8BEL1",
-   "name": "realme GT NEO 3 150w",
    "model": "RMX3563"
   },
   {

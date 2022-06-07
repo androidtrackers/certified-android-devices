@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-06-06
+Last sync is 2022-06-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3166,6 +3166,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blackview|Tab_7_EEA|Tab_7_EEA|Tab 7|
 |Blackview|Tab_7_NEU|Tab_7_NEU|Tab 7|
 |Blaupunkt|A-STREAM|GMP|A-STREAM|
+|Blaupunkt|"AUSTRALIA|EU|JAPAN|
 |Blaupunkt|Atlantis_A10_G403|Atlantis_A10_G403|Atlantis_A10_G403|
 |Blaupunkt|Australia|nippori|BP Android TV 2K|
 |Blaupunkt|Australia|tamachi|BLAUPUNKT Android TV|
@@ -3813,6 +3814,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CMCC|M811|m811hk|M811|
 |COCOMM|F900|F900N0101|F900|
 |COCOMM|F910B0101|F910B0101|F910|
+|COEX|COEX 2K Smart TV|sunnyvale|COEX 2K Smart TV|
 |COMPUMAX|BLUEPAD10|BLUEPAD10|BLUEPAD10|
 |COMPUMAX|BlueS10|COMPUMAX|BlueS10|
 |COMTECO|DV8535|DV8535-KBC|DV8535|
@@ -12361,7 +12363,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|32X1|ikebukuro|AI PONT|
 |Infinix|43X3|beaudry|Infinix AndroidTV|
 |Infinix|55X1|samseong|AI PONT|
-|Infinix|HOT  11|Infinix-X689F|Infinix X689F|
+|Infinix|HOT|Infinix-X689F|Infinix X689F|
 |Infinix|HOT 10|Infinix-X682B|Infinix X682B|
 |Infinix|HOT 10|Infinix-X682C|Infinix X682C|
 |Infinix|HOT 10 Lite|Infinix-X657B|Infinix X657B|
@@ -13155,6 +13157,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel A56 Pro LTE|itel-L6004P|itel L6004P|
 |Itel|itel A57|itel-A611W|itel A611W|
 |Itel|itel A57 2GB|itel-A611WP|itel A611WP|
+|Itel|itel A58 Lite|itel-A631W-R2|itel A631W|
 |Itel|itel AC12|itel-A14|itel A14|
 |Itel|itel AC13|itel-W4001P|itel W4001P|
 |Itel|itel AC32|itel-A16S|itel A16S|
@@ -16786,6 +16789,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|ideatv S52|ideatv_S52|ideatv S52|
 |Lenovo|ideatvK82 60LX750A  52LX750A  46LX750A  60LX850A  70LX850A 80LX850A|ideatv_K82|ideatv K82|
 |Lenovo|启天K10 Pro|TB128FU|TB128FU|
+|Lenovo|启天K10 Pro|TB128XC|TB128XC|
 |Lenovo|启天K10 Pro|TB223FC|Lenovo TB223FC|
 |Lenovo|启天K10 Pro|TB226XC|Lenovo TB226XC|
 |Lenovo|小新 Pad GT|TB-J616F|Lenovo TB-J616F|
@@ -19182,6 +19186,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola Solutions|LEX L10g|lexl10g|LEX L10g|
 |Motorola Solutions|LEX L10ig|lexl10ig|LEX L10ig|
 |Motorola Solutions|LEX L11|lexl11g_64|LEX L11|
+|Motorola Solutions|LEX L11|lexl11g_64|LEX L11j|
 |Motorola Solutions|MOTOTRBO ION|mkz_sdm660_64|MSLB-MKZ900|
 |Motorola Solutions|MOTOTRBO ION|mkz_sdm660_64|MSLB-MKZ900i|
 |Motorola Solutions|TC55|TC55|TC55|
@@ -20727,7 +20732,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A79t|A79|OPPO A79t|
 |Oppo|A79t|A79t|OPPO A79t|
 |Oppo|A7n|PCDT00|PCDT00|
-|Oppo|A7x 中国版|OP4E7F|PERM00|
 |Oppo|A7x 中国版|PBBM00|PBBM00|
 |Oppo|A7x 中国版|PBBT00|PBBT00|
 |Oppo|A83|A83|OPPO A83|
@@ -20876,6 +20880,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|K3|OP4679|PCGT00|
 |Oppo|K3|OP486B|CPH1955|
 |Oppo|K5|OP4AA7|PCNM00|
+|Oppo|K7x 中国版|OP4E7F|PERM00|
 |Oppo|N1|N1|N1|
 |Oppo|N1 mimi|N1mini|N5111|
 |Oppo|N1 mimi|N1mini|N5116|
@@ -35983,9 +35988,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|TC56|TC56|TC56|
 |Zebra|TC58|TC58|TC58|
 |Zebra|TC70x|TC70x|TC70x|
+|Zebra|TC73|TC73|TC73|
 |Zebra|TC75x|TC75x|TC75x|
 |Zebra|TC75xDF|TC75xDF|TC75x|
 |Zebra|TC8000|TC8000|TC8000|
+|Zebra|TN28|TN28|TN28|
 |Zebra|VC80x|VC80x|VC80x|
 |Zebra|WT6000|WT6000|WT6000|
 |Zebra|Zebra Technologies ET51|ET51L|ET51|
@@ -36643,6 +36650,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iWaylink|TC603B_P|TC603B_GWL|TC603B_GWL|
 |iYOU|iYOU_M1|iYOU_M1|iYOU_M1|
 |ibowin|M10ES11|M10ES11|M130s|
+|imiia|Smart TV|mateo|2K PA Smart TV|
 |imiia|i-217D1|YUL|i-217D1|
 |imose|BAM-II|BAM-II|BAM-II|
 |imose|Omotab2|Omotab2|Omotab2|
@@ -36771,7 +36779,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme GT Master Edition|RE54ABL1|RMX3360|
 |realme|realme GT NEO 3|RED8BEL1|RMX3561|
 |realme|realme GT NEO 3 150W|RED8BEL1|RMX3563|
-|realme|realme GT NEO 3 150w|RED8BEL1|RMX3563|
 |realme|realme GT Neo2 5G|RE879AL1|RMX3370|
 |realme|realme Pad mini|RE87CCL1|RMP2105|
 |realme|realme Pad mini|RE87CCL1|RMP2106|

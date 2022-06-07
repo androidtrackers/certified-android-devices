@@ -24326,6 +24326,13 @@
    "device": "GMP"
   }
  ],
+ "JAPAN": [
+  {
+   "brand": "Blaupunkt",
+   "name": "\"AUSTRALIA",
+   "device": "EU"
+  }
+ ],
  "Atlantis_A10_G403": [
   {
    "brand": "Blaupunkt",
@@ -29126,6 +29133,13 @@
    "brand": "COCOMM",
    "name": "F910B0101",
    "device": "F910B0101"
+  }
+ ],
+ "COEX 2K Smart TV": [
+  {
+   "brand": "COEX",
+   "name": "COEX 2K Smart TV",
+   "device": "sunnyvale"
   }
  ],
  "BLUEPAD10": [
@@ -87765,7 +87779,7 @@
  "Infinix X689F": [
   {
    "brand": "Infinix",
-   "name": "HOT  11",
+   "name": "HOT",
    "device": "Infinix-X689F"
   },
   {
@@ -93067,6 +93081,13 @@
    "brand": "Itel",
    "name": "itel A57 2GB",
    "device": "itel-A611WP"
+  }
+ ],
+ "itel A631W": [
+  {
+   "brand": "Itel",
+   "name": "itel A58 Lite",
+   "device": "itel-A631W-R2"
   }
  ],
  "itel W4001P": [
@@ -117193,6 +117214,13 @@
    "device": "TB128FU"
   }
  ],
+ "TB128XC": [
+  {
+   "brand": "Lenovo",
+   "name": "启天K10 Pro",
+   "device": "TB128XC"
+  }
+ ],
  "Lenovo TB223FC": [
   {
    "brand": "Lenovo",
@@ -132718,6 +132746,13 @@
    "device": "lexl11g_64"
   }
  ],
+ "LEX L11j": [
+  {
+   "brand": "Motorola Solutions",
+   "name": "LEX L11",
+   "device": "lexl11g_64"
+  }
+ ],
  "MSLB-MKZ900": [
   {
    "brand": "Motorola Solutions",
@@ -137009,6 +137044,11 @@
   },
   {
    "brand": "Walton",
+   "name": "Smart TV",
+   "device": "mateo"
+  },
+  {
+   "brand": "imiia",
    "name": "Smart TV",
    "device": "mateo"
   },
@@ -142562,13 +142602,6 @@
    "device": "PCDT00"
   }
  ],
- "PERM00": [
-  {
-   "brand": "Oppo",
-   "name": "A7x 中国版",
-   "device": "OP4E7F"
-  }
- ],
  "PBBM00": [
   {
    "brand": "Oppo",
@@ -143614,6 +143647,13 @@
    "brand": "Oppo",
    "name": "K5",
    "device": "OP4AA7"
+  }
+ ],
+ "PERM00": [
+  {
+   "brand": "Oppo",
+   "name": "K7x 中国版",
+   "device": "OP4E7F"
   }
  ],
  "N5111": [
@@ -242553,6 +242593,13 @@
    "device": "TC70x"
   }
  ],
+ "TC73": [
+  {
+   "brand": "Zebra",
+   "name": "TC73",
+   "device": "TC73"
+  }
+ ],
  "TC75x": [
   {
    "brand": "Zebra",
@@ -242570,6 +242617,13 @@
    "brand": "Zebra",
    "name": "TC8000",
    "device": "TC8000"
+  }
+ ],
+ "TN28": [
+  {
+   "brand": "Zebra",
+   "name": "TN28",
+   "device": "TN28"
   }
  ],
  "VC80x": [
@@ -247106,11 +247160,6 @@
   {
    "brand": "realme",
    "name": "realme GT NEO 3 150W",
-   "device": "RED8BEL1"
-  },
-  {
-   "brand": "realme",
-   "name": "realme GT NEO 3 150w",
    "device": "RED8BEL1"
   }
  ],

@@ -7178,6 +7178,11 @@
    "model": "ADMIRAL TV"
   },
   {
+   "brand": "COEX",
+   "name": "COEX 2K Smart TV",
+   "model": "COEX 2K Smart TV"
+  },
+  {
    "brand": "Casper",
    "name": "Casper 2K Smart TV",
    "model": "Casper 2K Smart TV"
@@ -26935,6 +26940,13 @@
    "model": "SMX4K"
   }
  ],
+ "EU": [
+  {
+   "brand": "Blaupunkt",
+   "name": "\"AUSTRALIA",
+   "model": "JAPAN"
+  }
+ ],
  "Atlantis_A10_G403": [
   {
    "brand": "Blaupunkt",
@@ -43027,6 +43039,11 @@
    "brand": "iMuz",
    "name": "Smart TV",
    "model": "2K SA Smart TV"
+  },
+  {
+   "brand": "imiia",
+   "name": "Smart TV",
+   "model": "2K PA Smart TV"
   },
   {
    "brand": "realme",
@@ -87232,7 +87249,7 @@
  "Infinix-X689F": [
   {
    "brand": "Infinix",
-   "name": "HOT  11",
+   "name": "HOT",
    "model": "Infinix X689F"
   },
   {
@@ -92447,6 +92464,13 @@
    "brand": "Itel",
    "name": "itel A57 2GB",
    "model": "itel A611WP"
+  }
+ ],
+ "itel-A631W-R2": [
+  {
+   "brand": "Itel",
+   "name": "itel A58 Lite",
+   "model": "itel A631W"
   }
  ],
  "itel-W4001P": [
@@ -115036,6 +115060,13 @@
    "model": "ideatv K82"
   }
  ],
+ "TB128XC": [
+  {
+   "brand": "Lenovo",
+   "name": "启天K10 Pro",
+   "model": "TB128XC"
+  }
+ ],
  "TB223FC": [
   {
    "brand": "Lenovo",
@@ -130265,6 +130296,11 @@
    "brand": "Motorola Solutions",
    "name": "LEX L11",
    "model": "LEX L11"
+  },
+  {
+   "brand": "Motorola Solutions",
+   "name": "LEX L11",
+   "model": "LEX L11j"
   }
  ],
  "mkz_sdm660_64": [
@@ -139928,13 +139964,6 @@
    "model": "PCDT00"
   }
  ],
- "OP4E7F": [
-  {
-   "brand": "Oppo",
-   "name": "A7x 中国版",
-   "model": "PERM00"
-  }
- ],
  "PBBM00": [
   {
    "brand": "Oppo",
@@ -140854,6 +140883,13 @@
    "brand": "Oppo",
    "name": "K5",
    "model": "PCNM00"
+  }
+ ],
+ "OP4E7F": [
+  {
+   "brand": "Oppo",
+   "name": "K7x 中国版",
+   "model": "PERM00"
   }
  ],
  "N1mini": [
@@ -232134,6 +232170,13 @@
    "model": "TC70x"
   }
  ],
+ "TC73": [
+  {
+   "brand": "Zebra",
+   "name": "TC73",
+   "model": "TC73"
+  }
+ ],
  "TC75x": [
   {
    "brand": "Zebra",
@@ -232153,6 +232196,13 @@
    "brand": "Zebra",
    "name": "TC8000",
    "model": "TC8000"
+  }
+ ],
+ "TN28": [
+  {
+   "brand": "Zebra",
+   "name": "TN28",
+   "model": "TN28"
   }
  ],
  "VC80x": [
@@ -236661,11 +236711,6 @@
   {
    "brand": "realme",
    "name": "realme GT NEO 3 150W",
-   "model": "RMX3563"
-  },
-  {
-   "brand": "realme",
-   "name": "realme GT NEO 3 150w",
    "model": "RMX3563"
   }
  ],
