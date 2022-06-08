@@ -27357,6 +27357,11 @@
    "model": "4K SA Smart TV"
   },
   {
+   "brand": "imiia",
+   "device": "pioneer",
+   "model": "4K PA Smart TV"
+  },
+  {
    "brand": "realme",
    "device": "gangbyeon",
    "model": "4K AI Smart TV"
@@ -95660,6 +95665,13 @@
    "model": "itel L6006L"
   }
  ],
+ "itel A510W": [
+  {
+   "brand": "Itel",
+   "device": "itel-A510W",
+   "model": "itel A510W"
+  }
+ ],
  "itel A52": [
   {
    "brand": "Itel",
@@ -143407,6 +143419,11 @@
    "brand": "Rhino",
    "device": "Rhino_C10",
    "model": "C10"
+  },
+  {
+   "brand": "SGIN",
+   "device": "C10",
+   "model": "C10"
   }
  ],
  "C10 Pro": [
@@ -160533,6 +160550,13 @@
    "brand": "SORIANA",
    "device": "BE_ets",
    "model": "BE_ets"
+  }
+ ],
+ "AG_1088_A133": [
+  {
+   "brand": "SOWLY",
+   "device": "AG_1088_A133",
+   "model": "AG_1088_A133"
   }
  ],
  "GRAVITY-2": [

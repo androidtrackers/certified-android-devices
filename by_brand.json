@@ -67678,6 +67678,11 @@
    "model": "itel L6006L"
   },
   {
+   "device": "itel-A510W",
+   "name": "itel A510W",
+   "model": "itel A510W"
+  },
+  {
    "device": "itel-A52",
    "name": "itel A52",
    "model": "itel A52"
@@ -122735,6 +122740,11 @@
  ],
  "SGIN": [
   {
+   "device": "C10",
+   "name": "C10",
+   "model": "C10"
+  },
+  {
    "device": "C8",
    "name": "C8",
    "model": "C8"
@@ -123168,6 +123178,13 @@
    "device": "SOSMART_T5",
    "name": "T5",
    "model": "SOSMART_T5"
+  }
+ ],
+ "SOWLY": [
+  {
+   "device": "AG_1088_A133",
+   "name": "AG_1088_A133",
+   "model": "AG_1088_A133"
   }
  ],
  "SPC": [
@@ -188121,6 +188138,11 @@
   }
  ],
  "imiia": [
+  {
+   "device": "pioneer",
+   "name": "4K Smart TV",
+   "model": "4K PA Smart TV"
+  },
   {
    "device": "mateo",
    "name": "Smart TV",

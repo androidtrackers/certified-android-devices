@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-06-07
+Last sync is 2022-06-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13148,6 +13148,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel A47|itel-L5505|itel L5505|
 |Itel|itel A48|itel-L6006|itel L6006|
 |Itel|itel A48|itel-L6006L|itel L6006L|
+|Itel|itel A510W|itel-A510W|itel A510W|
 |Itel|itel A52|itel-A52|itel A52|
 |Itel|itel A52 Lite|itel-A52-Lite|itel A52 Lite|
 |Itel|itel A52S Lite|itel-A52S-Lite|itel A52S Lite|
@@ -23861,6 +23862,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SFR.fr|Connect TV de SFR|DV8555-SFR|Connect TV de SFR|
 |SFR.fr|DV8219_SFR|DV8219|DV8219_SFR|
 |SFR.fr|FR|DV8219|DV8219_SFR|
+|SGIN|C10|C10|C10|
 |SGIN|C8|C8|C8|
 |SGIN|SGIN_E10M|SGIN_E10M|SGIN_E10M|
 |SGIN|SGIN_X10|SGIN_X10|SGIN_X10|
@@ -23940,6 +23942,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SOLO|Inspire_U5_PLUS|Inspire_U5_PLUS|Inspire_U5_PLUS|
 |SORIANA|BE_ets|BE_ets|BE_ets|
 |SOSMART|T5|SOSMART_T5|SOSMART_T5|
+|SOWLY|AG_1088_A133|AG_1088_A133|AG_1088_A133|
 |SPC|EU、UK、AP|martin|SPC Android TV|
 |SPC|GRAVITY-2|GRAVITY-2|GRAVITY 2|
 |SPC|GRAVITY-PRO-2|GRAVITY-PRO-2|GRAVITY PRO 2|
@@ -36650,6 +36653,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iWaylink|TC603B_P|TC603B_GWL|TC603B_GWL|
 |iYOU|iYOU_M1|iYOU_M1|iYOU_M1|
 |ibowin|M10ES11|M10ES11|M130s|
+|imiia|4K Smart TV|pioneer|4K PA Smart TV|
 |imiia|Smart TV|mateo|2K PA Smart TV|
 |imiia|i-217D1|YUL|i-217D1|
 |imose|BAM-II|BAM-II|BAM-II|

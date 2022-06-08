@@ -6171,6 +6171,11 @@
    "brand": "Oukitel",
    "name": "C10",
    "model": "C10"
+  },
+  {
+   "brand": "SGIN",
+   "name": "C10",
+   "model": "C10"
   }
  ],
  "C11": [
@@ -42965,6 +42970,11 @@
    "brand": "iMuz",
    "name": "4K Smart TV",
    "model": "4K SA Smart TV"
+  },
+  {
+   "brand": "imiia",
+   "name": "4K Smart TV",
+   "model": "4K PA Smart TV"
   }
  ],
  "DW-TN7RK16": [
@@ -92403,6 +92413,18 @@
    "model": "itel L6006L"
   }
  ],
+ "itel-A510W": [
+  {
+   "brand": "Itel",
+   "name": "itel A510W",
+   "model": "itel A510W"
+  },
+  {
+   "brand": "Itel",
+   "name": "itel-A510W",
+   "model": "itel A510W"
+  }
+ ],
  "itel-A52": [
   {
    "brand": "Itel",
@@ -92728,13 +92750,6 @@
    "brand": "Itel",
    "name": "itel W5503",
    "model": "itel W5503"
-  }
- ],
- "itel-A510W": [
-  {
-   "brand": "Itel",
-   "name": "itel-A510W",
-   "model": "itel A510W"
   }
  ],
  "TM705": [
@@ -159931,6 +159946,13 @@
    "brand": "SOSMART",
    "name": "T5",
    "model": "SOSMART_T5"
+  }
+ ],
+ "AG_1088_A133": [
+  {
+   "brand": "SOWLY",
+   "name": "AG_1088_A133",
+   "model": "AG_1088_A133"
   }
  ],
  "GRAVITY-2": [

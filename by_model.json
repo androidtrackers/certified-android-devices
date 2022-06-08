@@ -29312,6 +29312,11 @@
    "brand": "Rhino",
    "name": "C10",
    "device": "Rhino_C10"
+  },
+  {
+   "brand": "SGIN",
+   "name": "C10",
+   "device": "C10"
   }
  ],
  "CORN Note1": [
@@ -93020,6 +93025,18 @@
    "device": "itel-L6006L"
   }
  ],
+ "itel A510W": [
+  {
+   "brand": "Itel",
+   "name": "itel A510W",
+   "device": "itel-A510W"
+  },
+  {
+   "brand": "Itel",
+   "name": "itel-A510W",
+   "device": "itel-A510W"
+  }
+ ],
  "itel A52": [
   {
    "brand": "Itel",
@@ -93335,13 +93352,6 @@
    "brand": "Itel",
    "name": "itel W5503",
    "device": "itel-W5503"
-  }
- ],
- "itel A510W": [
-  {
-   "brand": "Itel",
-   "name": "itel-A510W",
-   "device": "itel-A510W"
   }
  ],
  "SC40": [
@@ -152309,6 +152319,11 @@
    "brand": "RCA",
    "name": "4K Smart TV",
    "device": "pioneer"
+  },
+  {
+   "brand": "imiia",
+   "name": "4K Smart TV",
+   "device": "pioneer"
   }
  ],
  "P500": [
@@ -163477,6 +163492,13 @@
    "brand": "SOSMART",
    "name": "T5",
    "device": "SOSMART_T5"
+  }
+ ],
+ "AG_1088_A133": [
+  {
+   "brand": "SOWLY",
+   "name": "AG_1088_A133",
+   "device": "AG_1088_A133"
   }
  ],
  "SPC Android TV": [
