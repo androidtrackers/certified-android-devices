@@ -6992,6 +6992,28 @@
    "device": "AIWA_A81"
   }
  ],
+ "SMART TV": [
+  {
+   "brand": "Aiwa",
+   "name": "AIWA",
+   "device": "stanford"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "hyundai",
+   "device": "stanford"
+  },
+  {
+   "brand": "Siragon",
+   "name": "SA",
+   "device": "stanford"
+  },
+  {
+   "brand": "Siragon",
+   "name": "SA",
+   "device": "zhongshan"
+  }
+ ],
  "4K SMART TV": [
   {
    "brand": "Aiwa",
@@ -6999,8 +7021,23 @@
    "device": "zhongshan"
   },
   {
+   "brand": "JVC",
+   "name": "JVC",
+   "device": "zhongshan"
+  },
+  {
    "brand": "KTCtv",
    "name": "Banana",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "Enova",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "Maxsonic_elite",
    "device": "zhongshan"
   }
  ],
@@ -24391,12 +24428,22 @@
   },
   {
    "brand": "KTCtv",
+   "name": "Global",
+   "device": "stanford"
+  },
+  {
+   "brand": "KTCtv",
    "name": "INNOVA",
    "device": "stanford"
   },
   {
    "brand": "KTCtv",
    "name": "NAKAMICHI",
+   "device": "stanford"
+  },
+  {
+   "brand": "Motorola",
+   "name": "Motorola",
    "device": "stanford"
   }
  ],
@@ -24409,6 +24456,11 @@
   {
    "brand": "KTCtv",
    "name": "DIGGIO",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "Golbal",
    "device": "zhongshan"
   },
   {
@@ -45471,6 +45523,11 @@
    "device": "stanford"
   },
   {
+   "brand": "JVC",
+   "name": "SA",
+   "device": "stanford"
+  },
+  {
    "brand": "KTCtv",
    "name": "AP",
    "device": "stanford"
@@ -45478,6 +45535,11 @@
   {
    "brand": "KTCtv",
    "name": "Banana",
+   "device": "stanford"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "Maxsonic_elite",
    "device": "stanford"
   }
  ],
@@ -85719,6 +85781,13 @@
    "device": "stanford"
   }
  ],
+ "SA 2K SMART TV": [
+  {
+   "brand": "Hyundai",
+   "name": "Hyundai",
+   "device": "stanford"
+  }
+ ],
  "Hyundai 2K TV": [
   {
    "brand": "Hyundai",
@@ -86225,23 +86294,6 @@
    "brand": "Hyundai",
    "name": "e551 Lite",
    "device": "e551_Lite"
-  }
- ],
- "SMART TV": [
-  {
-   "brand": "Hyundai",
-   "name": "hyundai",
-   "device": "stanford"
-  },
-  {
-   "brand": "Siragon",
-   "name": "SA",
-   "device": "stanford"
-  },
-  {
-   "brand": "Siragon",
-   "name": "SA",
-   "device": "zhongshan"
   }
  ],
  "BU01": [
@@ -95700,6 +95752,13 @@
    "device": "stanford"
   }
  ],
+ "2K Siera SMART TV": [
+  {
+   "brand": "KTCtv",
+   "name": "SA",
+   "device": "stanford"
+  }
+ ],
  "40DSA": [
   {
    "brand": "KTCtv",
@@ -95733,6 +95792,13 @@
   {
    "brand": "KTCtv",
    "name": "Zitro",
+   "device": "zhongshan"
+  }
+ ],
+ "4K Siera SMART TV": [
+  {
+   "brand": "KTCtv",
+   "name": "Siera",
    "device": "zhongshan"
   }
  ],
@@ -127582,6 +127648,13 @@
    "brand": "Mobicell",
    "name": "NEO_1",
    "device": "NEO_1"
+  }
+ ],
+ "Neo_Plus": [
+  {
+   "brand": "Mobicell",
+   "name": "Neo_Plus",
+   "device": "Neo_Plus"
   }
  ],
  "ONYX": [
@@ -159790,7 +159863,7 @@
    "device": "RMX2111L1"
   },
   {
-   "brand": "Realme",
+   "brand": "realme",
    "name": "realme V5 5G",
    "device": "RMX2111CN"
   }
@@ -160063,7 +160136,7 @@
    "device": "RMX2117L1"
   },
   {
-   "brand": "Realme",
+   "brand": "realme",
    "name": "realme Q2 5G",
    "device": "RMX2117CN"
   }
@@ -160141,13 +160214,6 @@
    "brand": "Realme",
    "name": "realme V3 5G",
    "device": "RMX2201CN"
-  }
- ],
- "RMX2112": [
-  {
-   "brand": "Realme",
-   "name": "realme V5 5G",
-   "device": "RMX2112CN"
   }
  ],
  "RMX1991": [
@@ -164170,6 +164236,13 @@
    "device": "Smooth6_5"
   }
  ],
+ "Smooth Note 6.8": [
+  {
+   "brand": "SSmooth",
+   "name": "Smooth Note 6.8",
+   "device": "Smooth_Note_6_8"
+  }
+ ],
  "Smooth 6.1": [
   {
    "brand": "SSmooth",
@@ -166235,6 +166308,13 @@
   }
  ],
  "SM-A136M": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A13 5G",
+   "device": "a13x"
+  }
+ ],
+ "SM-A136S": [
   {
    "brand": "Samsung",
    "name": "Galaxy A13 5G",
@@ -169883,6 +169963,13 @@
    "device": "f12"
   }
  ],
+ "SM-E135F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy F13",
+   "device": "m13"
+  }
+ ],
  "SM-E225F": [
   {
    "brand": "Samsung",
@@ -172672,13 +172759,6 @@
    "brand": "Samsung",
    "name": "Galaxy M12",
    "device": "m12"
-  }
- ],
- "SM-E135F": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy M13",
-   "device": "m13"
   }
  ],
  "SM-M135F": [
@@ -247230,6 +247310,13 @@
    "brand": "realme",
    "name": "realme V25",
    "device": "RE547D"
+  }
+ ],
+ "RMX2112": [
+  {
+   "brand": "realme",
+   "name": "realme V5 5G",
+   "device": "RMX2112CN"
   }
  ],
  "RMX2083": [

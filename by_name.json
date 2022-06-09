@@ -12700,6 +12700,11 @@
  "AIWA": [
   {
    "brand": "Aiwa",
+   "device": "stanford",
+   "model": "SMART TV"
+  },
+  {
+   "brand": "Aiwa",
    "device": "zhongshan",
    "model": "4K SMART TV"
   }
@@ -53293,6 +53298,11 @@
    "brand": "JVC",
    "device": "sugamo",
    "model": "US 2K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
   }
  ],
  "KATV10": [
@@ -88725,6 +88735,11 @@
    "brand": "Hyundai",
    "device": "stanford",
    "model": "COL 2K SMART TV"
+  },
+  {
+   "brand": "Hyundai",
+   "device": "stanford",
+   "model": "SA 2K SMART TV"
   }
  ],
  "Hyundai 2K TV": [
@@ -96364,6 +96379,43 @@
    "model": "AI PONT"
   }
  ],
+ "SA": [
+  {
+   "brand": "JVC",
+   "device": "stanford",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "stanford",
+   "model": "2K Siera SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "stanford",
+   "model": "40DSA"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "stanford",
+   "model": "F VIZZION TV"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "zhongshan",
+   "model": "43FSA"
+  },
+  {
+   "brand": "Siragon",
+   "device": "stanford",
+   "model": "SMART TV"
+  },
+  {
+   "brand": "Siragon",
+   "device": "zhongshan",
+   "model": "SMART TV"
+  }
+ ],
  "South Africa/Australia /Israel/Paraguay": [
   {
    "brand": "JVC",
@@ -98203,6 +98255,27 @@
    "model": "Smart UHD TV"
   }
  ],
+ "Enova": [
+  {
+   "brand": "KTCtv",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
+  }
+ ],
+ "Global": [
+  {
+   "brand": "KTCtv",
+   "device": "stanford",
+   "model": "CSV2K"
+  }
+ ],
+ "Golbal": [
+  {
+   "brand": "KTCtv",
+   "device": "zhongshan",
+   "model": "CSV4K"
+  }
+ ],
  "INNOVA": [
   {
    "brand": "KTCtv",
@@ -98213,6 +98286,18 @@
    "brand": "KTCtv",
    "device": "zhongshan",
    "model": "CSV4K"
+  }
+ ],
+ "Maxsonic_elite": [
+  {
+   "brand": "KTCtv",
+   "device": "stanford",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
   }
  ],
  "NA": [
@@ -98253,31 +98338,11 @@
    "model": "40D"
   }
  ],
- "SA": [
-  {
-   "brand": "KTCtv",
-   "device": "stanford",
-   "model": "40DSA"
-  },
-  {
-   "brand": "KTCtv",
-   "device": "stanford",
-   "model": "F VIZZION TV"
-  },
+ "Siera": [
   {
    "brand": "KTCtv",
    "device": "zhongshan",
-   "model": "43FSA"
-  },
-  {
-   "brand": "Siragon",
-   "device": "stanford",
-   "model": "SMART TV"
-  },
-  {
-   "brand": "Siragon",
-   "device": "zhongshan",
-   "model": "SMART TV"
+   "model": "4K Siera SMART TV"
   }
  ],
  "Zitro": [
@@ -126481,6 +126546,13 @@
    "model": "NEO_1"
   }
  ],
+ "Neo_Plus": [
+  {
+   "brand": "Mobicell",
+   "device": "Neo_Plus",
+   "model": "Neo_Plus"
+  }
+ ],
  "ONYX": [
   {
    "brand": "Mobicell",
@@ -129417,6 +129489,11 @@
   }
  ],
  "Motorola": [
+  {
+   "brand": "Motorola",
+   "device": "stanford",
+   "model": "CSV2K"
+  },
   {
    "brand": "Motorola",
    "device": "zhongshan",
@@ -157180,13 +157257,6 @@
    "model": "RMX1971"
   }
  ],
- "realme Q2 5G": [
-  {
-   "brand": "Realme",
-   "device": "RMX2117CN",
-   "model": "RMX2117"
-  }
- ],
  "realme Q3 5G": [
   {
    "brand": "Realme",
@@ -157260,18 +157330,6 @@
    "brand": "Realme",
    "device": "RMX2201CN",
    "model": "RMX2201"
-  }
- ],
- "realme V5 5G": [
-  {
-   "brand": "Realme",
-   "device": "RMX2111CN",
-   "model": "RMX2111"
-  },
-  {
-   "brand": "Realme",
-   "device": "RMX2112CN",
-   "model": "RMX2112"
   }
  ],
  "realme X2": [
@@ -161232,6 +161290,13 @@
    "model": "Smooth 6.5"
   }
  ],
+ "Smooth Note 6.8": [
+  {
+   "brand": "SSmooth",
+   "device": "Smooth_Note_6_8",
+   "model": "Smooth Note 6.8"
+  }
+ ],
  "Smooth6_1": [
   {
    "brand": "SSmooth",
@@ -162816,6 +162881,11 @@
    "brand": "Samsung",
    "device": "a13x",
    "model": "SM-A136M"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a13x",
+   "model": "SM-A136S"
   },
   {
    "brand": "Samsung",
@@ -165657,6 +165727,13 @@
    "model": "SM-F127G"
   }
  ],
+ "Galaxy F13": [
+  {
+   "brand": "Samsung",
+   "device": "m13",
+   "model": "SM-E135F"
+  }
+ ],
  "Galaxy F22": [
   {
    "brand": "Samsung",
@@ -167869,11 +167946,6 @@
   }
  ],
  "Galaxy M13": [
-  {
-   "brand": "Samsung",
-   "device": "m13",
-   "model": "SM-E135F"
-  },
   {
    "brand": "Samsung",
    "device": "m13",
@@ -234314,6 +234386,13 @@
    "model": "RMP2106"
   }
  ],
+ "realme Q2 5G": [
+  {
+   "brand": "realme",
+   "device": "RMX2117CN",
+   "model": "RMX2117"
+  }
+ ],
  "realme Q3s": [
   {
    "brand": "realme",
@@ -234352,6 +234431,18 @@
    "brand": "realme",
    "device": "RE547D",
    "model": "RMX3475"
+  }
+ ],
+ "realme V5 5G": [
+  {
+   "brand": "realme",
+   "device": "RMX2111CN",
+   "model": "RMX2111"
+  },
+  {
+   "brand": "realme",
+   "device": "RMX2112CN",
+   "model": "RMX2112"
   }
  ],
  "realme X50 Pro Play": [

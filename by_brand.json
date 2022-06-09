@@ -3804,6 +3804,11 @@
    "model": "AI PONT"
   },
   {
+   "device": "stanford",
+   "name": "AIWA",
+   "model": "SMART TV"
+  },
+  {
    "device": "zhongshan",
    "name": "AIWA",
    "model": "4K SMART TV"
@@ -62041,6 +62046,11 @@
    "model": "COL 2K SMART TV"
   },
   {
+   "device": "stanford",
+   "name": "Hyundai",
+   "model": "SA 2K SMART TV"
+  },
+  {
    "device": "shinjuku",
    "name": "Hyundai 2K TV",
    "model": "Hyundai 2K TV"
@@ -68326,6 +68336,11 @@
    "model": "US 2K Android TV"
   },
   {
+   "device": "zhongshan",
+   "name": "JVC",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "Cunda",
    "name": "JVC J20",
    "model": "J20"
@@ -68359,6 +68374,11 @@
    "device": "sindorim",
    "name": "LT-55KB597",
    "model": "AI PONT"
+  },
+  {
+   "device": "stanford",
+   "name": "SA",
+   "model": "2K SMART TV"
   },
   {
    "device": "mateo",
@@ -69871,6 +69891,21 @@
    "model": "Smart UHD TV"
   },
   {
+   "device": "zhongshan",
+   "name": "Enova",
+   "model": "4K SMART TV"
+  },
+  {
+   "device": "stanford",
+   "name": "Global",
+   "model": "CSV2K"
+  },
+  {
+   "device": "zhongshan",
+   "name": "Golbal",
+   "model": "CSV4K"
+  },
+  {
    "device": "stanford",
    "name": "INNOVA",
    "model": "CSV2K"
@@ -69879,6 +69914,16 @@
    "device": "zhongshan",
    "name": "INNOVA",
    "model": "CSV4K"
+  },
+  {
+   "device": "stanford",
+   "name": "Maxsonic_elite",
+   "model": "2K SMART TV"
+  },
+  {
+   "device": "zhongshan",
+   "name": "Maxsonic_elite",
+   "model": "4K SMART TV"
   },
   {
    "device": "stanford",
@@ -69913,6 +69958,11 @@
   {
    "device": "stanford",
    "name": "SA",
+   "model": "2K Siera SMART TV"
+  },
+  {
+   "device": "stanford",
+   "name": "SA",
    "model": "40DSA"
   },
   {
@@ -69924,6 +69974,11 @@
    "device": "zhongshan",
    "name": "SA",
    "model": "43FSA"
+  },
+  {
+   "device": "zhongshan",
+   "name": "Siera",
+   "model": "4K Siera SMART TV"
   },
   {
    "device": "stanford",
@@ -94473,6 +94528,11 @@
    "model": "NEO_1"
   },
   {
+   "device": "Neo_Plus",
+   "name": "Neo_Plus",
+   "model": "Neo_Plus"
+  },
+  {
    "device": "ONYX",
    "name": "ONYX",
    "model": "ONYX"
@@ -97259,6 +97319,11 @@
    "device": "sholest",
    "name": "Motoroi",
    "model": "XT720"
+  },
+  {
+   "device": "stanford",
+   "name": "Motorola",
+   "model": "CSV2K"
   },
   {
    "device": "zhongshan",
@@ -120362,11 +120427,6 @@
    "model": "RMX1971"
   },
   {
-   "device": "RMX2117CN",
-   "name": "realme Q2 5G",
-   "model": "RMX2117"
-  },
-  {
    "device": "RMX3161CN",
    "name": "realme Q3 5G",
    "model": "RMX3161"
@@ -120420,16 +120480,6 @@
    "device": "RMX2201CN",
    "name": "realme V3 5G",
    "model": "RMX2201"
-  },
-  {
-   "device": "RMX2111CN",
-   "name": "realme V5 5G",
-   "model": "RMX2111"
-  },
-  {
-   "device": "RMX2112CN",
-   "name": "realme V5 5G",
-   "model": "RMX2112"
   },
   {
    "device": "RMX1991CN",
@@ -123725,6 +123775,11 @@
    "model": "Smooth 6.5"
   },
   {
+   "device": "Smooth_Note_6_8",
+   "name": "Smooth Note 6.8",
+   "model": "Smooth Note 6.8"
+  },
+  {
    "device": "Smooth6_1",
    "name": "Smooth6_1",
    "model": "Smooth 6.1"
@@ -125240,6 +125295,11 @@
    "device": "a13x",
    "name": "Galaxy A13 5G",
    "model": "SM-A136M"
+  },
+  {
+   "device": "a13x",
+   "name": "Galaxy A13 5G",
+   "model": "SM-A136S"
   },
   {
    "device": "a13x",
@@ -127872,6 +127932,11 @@
    "model": "SM-F127G"
   },
   {
+   "device": "m13",
+   "name": "Galaxy F13",
+   "model": "SM-E135F"
+  },
+  {
    "device": "f22",
    "name": "Galaxy F22",
    "model": "SM-E225F"
@@ -129865,11 +129930,6 @@
    "device": "m12",
    "name": "Galaxy M12",
    "model": "SM-M127N"
-  },
-  {
-   "device": "m13",
-   "name": "Galaxy M13",
-   "model": "SM-E135F"
   },
   {
    "device": "m13",
@@ -188852,6 +188912,11 @@
    "model": "RMP2106"
   },
   {
+   "device": "RMX2117CN",
+   "name": "realme Q2 5G",
+   "model": "RMX2117"
+  },
+  {
    "device": "RE548BL1",
    "name": "realme Q3s",
    "model": "RMX3461"
@@ -188880,6 +188945,16 @@
    "device": "RE547D",
    "name": "realme V25",
    "model": "RMX3475"
+  },
+  {
+   "device": "RMX2111CN",
+   "name": "realme V5 5G",
+   "model": "RMX2111"
+  },
+  {
+   "device": "RMX2112CN",
+   "name": "realme V5 5G",
+   "model": "RMX2112"
   },
   {
    "device": "RMX2083L1",

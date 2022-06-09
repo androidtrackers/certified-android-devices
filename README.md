@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-06-08
+Last sync is 2022-06-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -724,6 +724,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiuto|AT702|AT702|AT702|
 |Aiwa|A81|AIWA_A81|A81|
 |Aiwa|AFL0065S|sindorim|AI PONT|
+|Aiwa|AIWA|stanford|SMART TV|
 |Aiwa|AIWA|zhongshan|4K SMART TV|
 |Aiwa|AIWA 2K TV|shinagawa|AIWA 2K TV|
 |Aiwa|AW-LED43GKF|ikebukuro|AI PONT|
@@ -12053,6 +12054,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|Hyundai|bangbae|Hyundai 4K Android TV|
 |Hyundai|Hyundai|komagome|Hyundai 2K Android TV|
 |Hyundai|Hyundai|stanford|COL 2K SMART TV|
+|Hyundai|Hyundai|stanford|SA 2K SMART TV|
 |Hyundai|Hyundai 2K TV|shinjuku|Hyundai 2K TV|
 |Hyundai|Hyundai Eternity G50L|HT1G50L|Hyundai_Eternity_G50L|
 |Hyundai|Hyundai HyTab Pro 10LC1|HyTab_Pro_10LC1|HyTab Pro 10LC1|
@@ -13272,6 +13274,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|JVC|sugamo|JVC SA 2K Android TV|
 |JVC|JVC|sugamo|JVC US 2K Android TV|
 |JVC|JVC|sugamo|US 2K Android TV|
+|JVC|JVC|zhongshan|4K SMART TV|
 |JVC|JVC J20|Cunda|J20|
 |JVC|LT-32N3115A|ikebukuro|AI PONT|
 |JVC|LT-40KB308|ikebukuro|AI PONT|
@@ -13279,6 +13282,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|LT-50KD507|samseong|AI PONT|
 |JVC|LT-50N7115A|samseong|AI PONT|
 |JVC|LT-55KB597|sindorim|AI PONT|
+|JVC|SA|stanford|2K SMART TV|
 |JVC|Smart TV|mateo|2K SA Smart TV|
 |JVC|Smart TV|osaki|2K AI Smart TV|
 |JVC|South Africa/Australia /Israel/Paraguay|tamachi|JVC Android TV|
@@ -13561,17 +13565,24 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|DIGGIO|zhongshan|CSV4K|
 |KTCtv|EU|zhongshan|43F|
 |KTCtv|Electroman|zhongshan|Smart UHD TV|
+|KTCtv|Enova|zhongshan|4K SMART TV|
+|KTCtv|Global|stanford|CSV2K|
+|KTCtv|Golbal|zhongshan|CSV4K|
 |KTCtv|INNOVA|stanford|CSV2K|
 |KTCtv|INNOVA|zhongshan|CSV4K|
+|KTCtv|Maxsonic_elite|stanford|2K SMART TV|
+|KTCtv|Maxsonic_elite|zhongshan|4K SMART TV|
 |KTCtv|NA|stanford|40DNA|
 |KTCtv|NA|zhongshan|43FNA|
 |KTCtv|NAKAMICHI|stanford|CSV2K|
 |KTCtv|NAKAMICHI|zhongshan|CSV4K|
 |KTCtv|Nobrand|stanford|Smart FHD TV|
 |KTCtv|Rosso|stanford|40D|
+|KTCtv|SA|stanford|2K Siera SMART TV|
 |KTCtv|SA|stanford|40DSA|
 |KTCtv|SA|stanford|F VIZZION TV|
 |KTCtv|SA|zhongshan|43FSA|
+|KTCtv|Siera|zhongshan|4K Siera SMART TV|
 |KTCtv|Zitro|stanford|40DSA|
 |KTCtv|Zitro|zhongshan|43FSA|
 |KTV|PureKTV|DV8219|Pure|
@@ -18377,6 +18388,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|NEO|NEO|NEO|
 |Mobicell|NEO LTE|Neo_LTE|Neo LTE|
 |Mobicell|NEO_1|NEO_1|NEO_1|
+|Mobicell|Neo_Plus|Neo_Plus|Neo_Plus|
 |Mobicell|ONYX|ONYX|ONYX|
 |Mobicell|OREO|OREO|OREO|
 |Mobicell|PLAY|PLAY|PLAY|
@@ -18925,6 +18937,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|Motoroi|sholest|Milestone XT720|
 |Motorola|Motoroi|sholest|Motorola XT720|
 |Motorola|Motoroi|sholest|XT720|
+|Motorola|Motorola|stanford|CSV2K|
 |Motorola|Motorola|zhongshan|CSV4K|
 |Motorola|Motorola Android 9.0 TV|shibuya|FlipkartTV|
 |Motorola|Motorola Defy|bathena|Motorola Defy|
@@ -23412,7 +23425,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme Narzo 30 Pro 5G|RMX2117L1|RMX2117|
 |Realme|realme Pad|RE54C1L1|RMP2102|
 |Realme|realme Q|RMX1971CN|RMX1971|
-|Realme|realme Q2 5G|RMX2117CN|RMX2117|
 |Realme|realme Q3 5G|RMX3161CN|RMX3161|
 |Realme|realme Q3 Pro Play|RE811C|RMX3142|
 |Realme|realme SA Smart TV|SW4H_FF|realme SA Smart TV|
@@ -23424,8 +23436,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme V11 5G|RMX3122CN|RMX3122|
 |Realme|realme V3  5G|RMX2200CN|RMX2200|
 |Realme|realme V3 5G|RMX2201CN|RMX2201|
-|Realme|realme V5 5G|RMX2111CN|RMX2111|
-|Realme|realme V5 5G|RMX2112CN|RMX2112|
 |Realme|realme X2|RMX1991CN|RMX1991|
 |Realme|realme X2|RMX1992L1|RMX1992|
 |Realme|realme X2|RMX1993L1|RMX1993|
@@ -24047,6 +24057,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SSmooth|Smooth 6.26 Max|Smooth6_26_Max|Smooth 6.26 Max|
 |SSmooth|Smooth 6.26 Pro|Smooth6_26_Pro|Smooth 6.26 Pro|
 |SSmooth|Smooth 6.5|Smooth6_5|Smooth 6.5|
+|SSmooth|Smooth Note 6.8|Smooth_Note_6_8|Smooth Note 6.8|
 |SSmooth|Smooth6_1|Smooth6_1|Smooth 6.1|
 |SSmooth|Smooth6_5|Smooth6_5|Smooth 6.5|
 |SSmooth|Smooth_5|SSmooth_5|Smooth 5.0|
@@ -24344,6 +24355,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A13|a13|SM-A135U1|
 |Samsung|Galaxy A13 5G|a13x|SM-A136B|
 |Samsung|Galaxy A13 5G|a13x|SM-A136M|
+|Samsung|Galaxy A13 5G|a13x|SM-A136S|
 |Samsung|Galaxy A13 5G|a13x|SM-A136U|
 |Samsung|Galaxy A13 5G|a13x|SM-A136U1|
 |Samsung|Galaxy A13 5G|a13x|SM-A136W|
@@ -24870,6 +24882,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Express2|wilcoxlte|SM-G3815|
 |Samsung|Galaxy F02s|a02q|SM-E025F|
 |Samsung|Galaxy F12|f12|SM-F127G|
+|Samsung|Galaxy F13|m13|SM-E135F|
 |Samsung|Galaxy F22|f22|SM-E225F|
 |Samsung|Galaxy F23 5G|m23xq|SM-E236B|
 |Samsung|Galaxy F41|f41|SM-F415F|
@@ -25269,7 +25282,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M12|m12|SM-M127F|
 |Samsung|Galaxy M12|m12|SM-M127G|
 |Samsung|Galaxy M12|m12|SM-M127N|
-|Samsung|Galaxy M13|m13|SM-E135F|
 |Samsung|Galaxy M13|m13|SM-M135F|
 |Samsung|Galaxy M13|m13|SM-M135M|
 |Samsung|Galaxy M20|m20|SM-M205N|
@@ -36786,12 +36798,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme GT Neo2 5G|RE879AL1|RMX3370|
 |realme|realme Pad mini|RE87CCL1|RMP2105|
 |realme|realme Pad mini|RE87CCL1|RMP2106|
+|realme|realme Q2 5G|RMX2117CN|RMX2117|
 |realme|realme Q3s|RE548BL1|RMX3461|
 |realme|realme Q5i|RE873D|RMX3574|
 |realme|realme V15 5G|RMX3092CN|RMX3092|
 |realme|realme V15 5G|RMX3093CN|RMX3093|
 |realme|realme V23|RE5487|RMX3571|
 |realme|realme V25|RE547D|RMX3475|
+|realme|realme V5 5G|RMX2111CN|RMX2111|
+|realme|realme V5 5G|RMX2112CN|RMX2112|
 |realme|realme X3|RMX2083L1|RMX2083|
 |realme|realme X3|RMX2086L1|RMX2086|
 |realme|realme X50 Pro|RMX2075L1|RMX2075|
