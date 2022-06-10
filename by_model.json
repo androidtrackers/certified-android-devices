@@ -95333,6 +95333,13 @@
    "device": "Y109"
   }
  ],
+ "KONKA 4K Android TV-A": [
+  {
+   "brand": "KONKA",
+   "name": "KONKA 4K Android TV-A",
+   "device": "kenton"
+  }
+ ],
  "KONKA Android TV 4K": [
   {
    "brand": "KONKA",
@@ -132086,6 +132093,11 @@
   },
   {
    "brand": "Motorola",
+   "name": "moto g42",
+   "device": "hawao"
+  },
+  {
+   "brand": "Motorola",
    "name": "motorola edge 20 pro",
    "device": "pstar"
   }
@@ -132443,6 +132455,13 @@
    "device": "corfu"
   }
  ],
+ "moto g42": [
+  {
+   "brand": "Motorola",
+   "name": "moto g42",
+   "device": "hawao"
+  }
+ ],
  "XT2171-3": [
   {
    "brand": "Motorola",
@@ -132462,6 +132481,11 @@
    "brand": "Motorola",
    "name": "moto g51 5G",
    "device": "cypfq"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g62 5G",
+   "device": "rhodec"
   }
  ],
  "moto g52": [
@@ -132469,6 +132493,13 @@
    "brand": "Motorola",
    "name": "moto g52",
    "device": "rhode"
+  }
+ ],
+ "moto g62 5G": [
+  {
+   "brand": "Motorola",
+   "name": "moto g62 5G",
+   "device": "rhodec"
   }
  ],
  "moto g71 5G": [
@@ -132844,6 +132875,13 @@
   }
  ],
  "MSLB-MKZ900i": [
+  {
+   "brand": "Motorola Solutions",
+   "name": "MOTOTRBO ION",
+   "device": "mkz_sdm660_64"
+  }
+ ],
+ "MSLB-MKZ920": [
   {
    "brand": "Motorola Solutions",
    "name": "MOTOTRBO ION",
@@ -210081,6 +210119,20 @@
    "brand": "Tecno",
    "name": "CAMON 19",
    "device": "TECNO-CI6n"
+  }
+ ],
+ "TECNO CI8": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 19 Pro",
+   "device": "TECNO-CI8"
+  }
+ ],
+ "TECNO CI8n": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 19 Pro",
+   "device": "TECNO-CI8n"
   }
  ],
  "TECNO CI7n": [

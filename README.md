@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-06-09
+Last sync is 2022-06-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13500,6 +13500,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KONKA|KONKA  Y109|Y109|KONKA-Y109|
 |KONKA|KONKA 2K Android TV|lasalle|KONKA 2K Android TV|
 |KONKA|KONKA 4K Android TV|kenton|KONKA 4K Android TV|
+|KONKA|KONKA 4K Android TV-A|kenton|KONKA 4K Android TV-A|
 |KONKA|KONKA Android TV|hongik|KONKA 4K Android TV|
 |KONKA|Konka Android TV|uguisudani|KONKA 2K Android TV|
 |KONKA|Konka android tv|hanyang|KONKA Android TV 4K|
@@ -19128,6 +19129,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g40 fusion|hanoip|moto g(40) fusion|
 |Motorola|moto g41|corfu|moto g41|
 |Motorola|moto g41|corfu|motorola|
+|Motorola|moto g42|hawao|moto g(100)|
+|Motorola|moto g42|hawao|moto g42|
 |Motorola|moto g51|cypfq|XT2171-3|
 |Motorola|moto g51|cypfq|moto[SPACE]g(50)|
 |Motorola|moto g51 5G|cypfq|moto g(50)|
@@ -19136,6 +19139,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g52|rhode|moto g52|
 |Motorola|moto g6 play|jeter|Moto G Play|
 |Motorola|moto g6 play|jeter|moto g(6) play|
+|Motorola|moto g62 5G|rhodec|moto g51 5G|
+|Motorola|moto g62 5G|rhodec|moto g62 5G|
 |Motorola|moto g71 5G|corfur|moto g(50)|
 |Motorola|moto g71 5G|corfur|moto g71 5G|
 |Motorola|moto g82 5G|rhodep|moto g71 5G|
@@ -19203,6 +19208,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola Solutions|LEX L11|lexl11g_64|LEX L11j|
 |Motorola Solutions|MOTOTRBO ION|mkz_sdm660_64|MSLB-MKZ900|
 |Motorola Solutions|MOTOTRBO ION|mkz_sdm660_64|MSLB-MKZ900i|
+|Motorola Solutions|MOTOTRBO ION|mkz_sdm660_64|MSLB-MKZ920|
 |Motorola Solutions|TC55|TC55|TC55|
 |Motorola Solutions|TC55CH|TC55CH|TC55CH|
 |Motumation|MTab8|MTab8|MTab8|
@@ -30906,6 +30912,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|CAMON 18P|TECNO-CH7n|TECNO CH7n|
 |Tecno|CAMON 19|TECNO-CI6|TECNO CI6|
 |Tecno|CAMON 19|TECNO-CI6n|TECNO CI6n|
+|Tecno|CAMON 19 Pro|TECNO-CI8|TECNO CI8|
+|Tecno|CAMON 19 Pro|TECNO-CI8n|TECNO CI8n|
 |Tecno|CAMON 19 Pro 5G|TECNO-CI7n|TECNO CI7n|
 |Tecno|CAMON C7|TECNO-C7|TECNO-C7|
 |Tecno|CAMON CM|TECNO-CA6|TECNO CA6|

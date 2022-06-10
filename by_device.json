@@ -48342,6 +48342,11 @@
    "model": "KONKA 4K Android TV"
   },
   {
+   "brand": "KONKA",
+   "name": "KONKA 4K Android TV-A",
+   "model": "KONKA 4K Android TV-A"
+  },
+  {
    "brand": "Polaroid",
    "name": "Polaroid 4K Android TV",
    "model": "Polaroid 4K Android TV"
@@ -130029,6 +130034,18 @@
    "model": "motorola"
   }
  ],
+ "hawao": [
+  {
+   "brand": "Motorola",
+   "name": "moto g42",
+   "model": "moto g(100)"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g42",
+   "model": "moto g42"
+  }
+ ],
  "cypfq": [
   {
    "brand": "Motorola",
@@ -130061,6 +130078,18 @@
    "brand": "Motorola",
    "name": "moto g52",
    "model": "moto g52"
+  }
+ ],
+ "rhodec": [
+  {
+   "brand": "Motorola",
+   "name": "moto g62 5G",
+   "model": "moto g51 5G"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g62 5G",
+   "model": "moto g62 5G"
   }
  ],
  "corfur": [
@@ -130395,6 +130424,11 @@
    "brand": "Motorola Solutions",
    "name": "MOTOTRBO ION",
    "model": "MSLB-MKZ900i"
+  },
+  {
+   "brand": "Motorola Solutions",
+   "name": "MOTOTRBO ION",
+   "model": "MSLB-MKZ920"
   }
  ],
  "TC55": [
@@ -202208,6 +202242,20 @@
    "brand": "Tecno",
    "name": "CAMON 19",
    "model": "TECNO CI6n"
+  }
+ ],
+ "TECNO-CI8": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 19 Pro",
+   "model": "TECNO CI8"
+  }
+ ],
+ "TECNO-CI8n": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 19 Pro",
+   "model": "TECNO CI8n"
   }
  ],
  "TECNO-CI7n": [
