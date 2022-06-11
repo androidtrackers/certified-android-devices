@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-06-10
+Last sync is 2022-06-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -36770,6 +36770,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 8i|RE54B4L1|RMX3151|
 |realme|realme 8s 5G|RE58A0L1|RMX3381|
 |realme|realme 9|RE54E2L1|RMX3521|
+|realme|realme 9 5G|RE54F3L1|RMX3388|
 |realme|realme 9 5G Speed Edition|RE54BFL1|RMX3461|
 |realme|realme 9 Pro+|RE879EL1|RMX3392|
 |realme|realme 9 Pro+|RE879EL1|RMX3393|
