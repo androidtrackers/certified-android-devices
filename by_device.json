@@ -3364,6 +3364,16 @@
    "model": "R4"
   },
   {
+   "brand": "Fresh",
+   "name": "Android TV",
+   "model": "R4"
+  },
+  {
+   "brand": "JVC",
+   "name": "Android TV",
+   "model": "R4"
+  },
+  {
    "brand": "Mobicell",
    "name": "R4",
    "model": "R4"
@@ -25309,13 +25319,6 @@
    "model": "F15"
   }
  ],
- "IC_51R": [
-  {
-   "brand": "Bird",
-   "name": "IC_51R",
-   "model": "IC_51"
-  }
- ],
  "Bird_S1": [
   {
    "brand": "Bird",
@@ -27871,6 +27874,11 @@
   }
  ],
  "C0170WW": [
+  {
+   "brand": "Blu",
+   "name": "C5L Max",
+   "model": "C5L MAX"
+  },
   {
    "brand": "Blu",
    "name": "C5L Max",
@@ -86570,6 +86578,13 @@
    "model": "IC_58"
   }
  ],
+ "IC_51R": [
+  {
+   "brand": "ITOS",
+   "name": "IC_51R",
+   "model": "IC_51"
+  }
+ ],
  "IC_55": [
   {
    "brand": "ITOS",
@@ -87783,6 +87798,13 @@
    "brand": "Infinix",
    "name": "Infinix HOT 12 Play",
    "model": "Infinix X6816C"
+  }
+ ],
+ "Infinix-X6816D": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 12 Play NFC",
+   "model": "Infinix X6816D"
   }
  ],
  "Infinix-X623": [
@@ -152899,6 +152921,11 @@
    "brand": "Pritom",
    "name": "K7_A101_EEA",
    "model": "K7_A101"
+  },
+  {
+   "brand": "Pritom",
+   "name": "K7_A101_EEA",
+   "model": "K7_A101_EEA"
   }
  ],
  "K7_A102": [
@@ -212656,11 +212683,6 @@
   {
    "brand": "Vivo",
    "name": "T1 5G",
-   "model": "V2151"
-  },
-  {
-   "brand": "Vivo",
-   "name": "T1 Pro 5G",
    "model": "V2150"
   },
   {
@@ -234139,6 +234161,11 @@
    "brand": "ecom",
    "name": "Smart-Ex02",
    "model": "Smart-Ex02 ROW"
+  },
+  {
+   "brand": "ecom",
+   "name": "Smart-Ex02",
+   "model": "Smart-Ex02 RUS"
   }
  ],
  "efiootabn7a": [
@@ -236873,6 +236900,13 @@
    "brand": "realme",
    "name": "realme Q3s",
    "model": "RMX3461"
+  }
+ ],
+ "RE5477": [
+  {
+   "brand": "realme",
+   "name": "realme Q5 Pro",
+   "model": "RMX3372"
   }
  ],
  "RE873D": [

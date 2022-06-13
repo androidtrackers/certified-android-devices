@@ -15091,11 +15091,6 @@
    "model": "F15"
   },
   {
-   "device": "IC_51R",
-   "name": "IC_51R",
-   "model": "IC_51"
-  },
-  {
    "device": "Bird_S1",
    "name": "S1",
    "model": "S1"
@@ -16955,6 +16950,11 @@
   },
   {
    "device": "C0162WW",
+   "name": "C5L Max",
+   "model": "C5L MAX"
+  },
+  {
+   "device": "C0170WW",
    "name": "C5L Max",
    "model": "C5L MAX"
   },
@@ -37484,6 +37484,11 @@
   }
  ],
  "Fresh": [
+  {
+   "device": "R4",
+   "name": "Android TV",
+   "model": "R4"
+  },
   {
    "device": "tamachi",
    "name": "Egypt",
@@ -63041,6 +63046,11 @@
    "model": "IC_58"
   },
   {
+   "device": "IC_51R",
+   "name": "IC_51R",
+   "model": "IC_51"
+  },
+  {
    "device": "IC_55",
    "name": "IC_55",
    "model": "IC_55"
@@ -64047,6 +64057,11 @@
    "device": "Infinix-X6816C",
    "name": "Infinix HOT 12 Play",
    "model": "Infinix X6816C"
+  },
+  {
+   "device": "Infinix-X6816D",
+   "name": "Infinix HOT 12 Play NFC",
+   "model": "Infinix X6816D"
   },
   {
    "device": "Infinix-X623",
@@ -68224,6 +68239,11 @@
    "device": "R2",
    "name": "Android TV",
    "model": "ATV R2"
+  },
+  {
+   "device": "R4",
+   "name": "Android TV",
+   "model": "R4"
   },
   {
    "device": "martin",
@@ -117159,6 +117179,11 @@
    "device": "K7_A101_EEA",
    "name": "K7_A101_EEA",
    "model": "K7_A101"
+  },
+  {
+   "device": "K7_A101_EEA",
+   "name": "K7_A101_EEA",
+   "model": "K7_A101_EEA"
   },
   {
    "device": "K7_A102",
@@ -167599,11 +167624,6 @@
   {
    "device": "V2151",
    "name": "T1 5G",
-   "model": "V2151"
-  },
-  {
-   "device": "V2151",
-   "name": "T1 Pro 5G",
    "model": "V2150"
   },
   {
@@ -186468,6 +186488,11 @@
    "device": "Smart-Ex02",
    "name": "Smart-Ex02",
    "model": "Smart-Ex02 ROW"
+  },
+  {
+   "device": "Smart-Ex02",
+   "name": "Smart-Ex02",
+   "model": "Smart-Ex02 RUS"
   }
  ],
  "efioo": [
@@ -188965,6 +188990,11 @@
    "device": "RE548BL1",
    "name": "realme Q3s",
    "model": "RMX3461"
+  },
+  {
+   "device": "RE5477",
+   "name": "realme Q5 Pro",
+   "model": "RMX3372"
   },
   {
    "device": "RE873D",

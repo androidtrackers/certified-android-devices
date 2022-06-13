@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-06-12
+Last sync is 2022-06-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2921,7 +2921,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bird|Energy|Energy|Energy|
 |Bird|F07|Bird_F07|F07|
 |Bird|F15|Bird_F15|F15|
-|Bird|IC_51R|IC_51R|IC_51|
 |Bird|S1|Bird_S1|S1|
 |Bird|X6|Bird_X6|X6|
 |Bita-International|MC66|MC66|MC66|
@@ -3289,6 +3288,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|C5L MAX|C0160WW|C5L Max|
 |Blu|C5L Max|C0161WW|C5L MAX|
 |Blu|C5L Max|C0162WW|C5L MAX|
+|Blu|C5L Max|C0170WW|C5L MAX|
 |Blu|C5L Max|C0170WW|C5L Max|
 |Blu|C5L Max|C0173WW|C5L Max|
 |Blu|C5L+ 2021|C0130WW|C5L+ 2021|
@@ -7215,6 +7215,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Freetel|SAKURA_FTE1|SAKURA_FTE1|SAKURA_FTE1|
 |Freetel|SAMURAI REI|FTJ161B|FTJ161B|
 |Freetel|SAMURAI REI 2|SAMURAI_REI2|FTJ17A00|
+|Fresh|Android TV|R4|R4|
 |Fresh|Egypt|tamachi|Fresh FHD Android TV|
 |Fresh|Egypt|yeongdeungpo|Fresh UHD Android TV|
 |Fresh|FRESH SMART TV|SW4H|FRESH SMART TV|
@@ -12241,6 +12242,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ITAB|X40L|X40L|X40L|
 |ITOS|IC-51|IC_51|IC_51|
 |ITOS|IC-58|IC_58|IC_58|
+|ITOS|IC_51R|IC_51R|IC_51|
 |ITOS|IC_55|IC_55|IC_55|
 |ITOS|IC_56_EEA|IC_56|IC_56|
 |ITOS|IC_61|IC_61|IC_61|
@@ -12433,6 +12435,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 11S NFC|Infinix-X6812B|Infinix X6812B|
 |Infinix|Infinix HOT 12|Infinix-X6817|Infinix X6817|
 |Infinix|Infinix HOT 12 Play|Infinix-X6816C|Infinix X6816C|
+|Infinix|Infinix HOT 12 Play NFC|Infinix-X6816D|Infinix X6816D|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623B|
 |Infinix|Infinix HOT 7|Infinix-X625C|Infinix X625C|
@@ -13252,6 +13255,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|AV-11NT510|AV-11NT510|AV-11NT510|
 |JVC|Android TV|R1|ATV R1|
 |JVC|Android TV|R2|ATV R2|
+|JVC|Android TV|R4|R4|
 |JVC|Canada|martin|Android TV|
 |JVC|DM65UXR\DM65USR\DM85UXR|mstarnapoli_atsc|DM65UXR|
 |JVC|Dixons|sadang|UK 4K Android TV|
@@ -22797,6 +22801,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|K7|K7|K7|
 |Pritom|K7_A101|K7_A101|K7_A101|
 |Pritom|K7_A101_EEA|K7_A101_EEA|K7_A101|
+|Pritom|K7_A101_EEA|K7_A101_EEA|K7_A101_EEA|
 |Pritom|K7_A102|K7_A102|K7_A102|
 |Pritom|K7_A102_EEA|K7_A102_EEA|K7_A102|
 |Pritom|K7_EEA|K7|K7|
@@ -32641,8 +32646,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|T1|V2154|V2153|
 |Vivo|T1|V2154|V2154|
 |Vivo|T1|V2154|V2168|
-|Vivo|T1 5G|V2151|V2151|
-|Vivo|T1 Pro 5G|V2151|V2150|
+|Vivo|T1 5G|V2151|V2150|
 |Vivo|T1 Pro 5G|V2151|V2151|
 |Vivo|U5x|PD2180|V2180GA|
 |Vivo|V1|V1|vivo V1|
@@ -36338,6 +36342,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ecom|Ex-Handy 10|Ex-Handy10|Ex-Handy 10 RUS|
 |ecom|Smart-Ex02|Smart-Ex02|Smart-Ex 02 RUS|
 |ecom|Smart-Ex02|Smart-Ex02|Smart-Ex02 ROW|
+|ecom|Smart-Ex02|Smart-Ex02|Smart-Ex02 RUS|
 |efioo|efiootabn7a|efiootabn7a|Tab N7a|
 |elevn|elevn_eTab|elevn_eTab|elevn_eTab|
 |fplus|H166|H166|H166|
@@ -36809,6 +36814,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme Pad mini|RE87CCL1|RMP2106|
 |realme|realme Q2 5G|RMX2117CN|RMX2117|
 |realme|realme Q3s|RE548BL1|RMX3461|
+|realme|realme Q5 Pro|RE5477|RMX3372|
 |realme|realme Q5i|RE873D|RMX3574|
 |realme|realme V15 5G|RMX3092CN|RMX3092|
 |realme|realme V15 5G|RMX3093CN|RMX3093|

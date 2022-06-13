@@ -2311,6 +2311,16 @@
    "device": "R4"
   },
   {
+   "brand": "Fresh",
+   "name": "Android TV",
+   "device": "R4"
+  },
+  {
+   "brand": "JVC",
+   "name": "Android TV",
+   "device": "R4"
+  },
+  {
    "brand": "Mobicell",
    "name": "R4",
    "device": "R4"
@@ -22541,18 +22551,6 @@
    "device": "Bird_F15"
   }
  ],
- "IC_51": [
-  {
-   "brand": "Bird",
-   "name": "IC_51R",
-   "device": "IC_51R"
-  },
-  {
-   "brand": "ITOS",
-   "name": "IC-51",
-   "device": "IC_51"
-  }
- ],
  "S1": [
   {
    "brand": "Bird",
@@ -25233,6 +25231,11 @@
    "brand": "Blu",
    "name": "C5L Max",
    "device": "C0162WW"
+  },
+  {
+   "brand": "Blu",
+   "name": "C5L Max",
+   "device": "C0170WW"
   }
  ],
  "C5L+ 2021": [
@@ -87022,6 +87025,18 @@
    "device": "X40L"
   }
  ],
+ "IC_51": [
+  {
+   "brand": "ITOS",
+   "name": "IC-51",
+   "device": "IC_51"
+  },
+  {
+   "brand": "ITOS",
+   "name": "IC_51R",
+   "device": "IC_51R"
+  }
+ ],
  "IC_58": [
   {
    "brand": "ITOS",
@@ -88306,6 +88321,13 @@
    "brand": "Infinix",
    "name": "Infinix HOT 12 Play",
    "device": "Infinix-X6816C"
+  }
+ ],
+ "Infinix X6816D": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 12 Play NFC",
+   "device": "Infinix-X6816D"
   }
  ],
  "Infinix X623": [
@@ -156052,6 +156074,13 @@
    "device": "K7_A101_EEA"
   }
  ],
+ "K7_A101_EEA": [
+  {
+   "brand": "Pritom",
+   "name": "K7_A101_EEA",
+   "device": "K7_A101_EEA"
+  }
+ ],
  "K7_A102": [
   {
    "brand": "Pritom",
@@ -220946,19 +220975,14 @@
    "device": "V2154"
   }
  ],
- "V2151": [
+ "V2150": [
   {
    "brand": "Vivo",
    "name": "T1 5G",
    "device": "V2151"
-  },
-  {
-   "brand": "Vivo",
-   "name": "T1 Pro 5G",
-   "device": "V2151"
   }
  ],
- "V2150": [
+ "V2151": [
   {
    "brand": "Vivo",
    "name": "T1 Pro 5G",
@@ -244690,6 +244714,13 @@
    "device": "Smart-Ex02"
   }
  ],
+ "Smart-Ex02 RUS": [
+  {
+   "brand": "ecom",
+   "name": "Smart-Ex02",
+   "device": "Smart-Ex02"
+  }
+ ],
  "Tab N7a": [
   {
    "brand": "efioo",
@@ -247336,6 +247367,13 @@
    "brand": "realme",
    "name": "realme Pad mini",
    "device": "RE87CCL1"
+  }
+ ],
+ "RMX3372": [
+  {
+   "brand": "realme",
+   "name": "realme Q5 Pro",
+   "device": "RE5477"
   }
  ],
  "RMX3574": [
