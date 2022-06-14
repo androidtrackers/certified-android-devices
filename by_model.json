@@ -122151,6 +122151,13 @@
    "device": "Bolivia"
   }
  ],
+ "Peru\"": [
+  {
+   "brand": "Master-G",
+   "name": "\"Chile",
+   "device": "Bolivia"
+  }
+ ],
  "HE2704": [
   {
    "brand": "MauritiusTelcom",
@@ -159923,18 +159930,6 @@
    "device": "RMX2002L1"
   }
  ],
- "RMX2111": [
-  {
-   "brand": "Realme",
-   "name": "realme 7 5G",
-   "device": "RMX2111L1"
-  },
-  {
-   "brand": "realme",
-   "name": "realme V5 5G",
-   "device": "RMX2111CN"
-  }
- ],
  "RMX2170": [
   {
    "brand": "Realme",
@@ -160196,18 +160191,6 @@
    "device": "RE879AL1"
   }
  ],
- "RMX2117": [
-  {
-   "brand": "Realme",
-   "name": "realme Narzo 30 Pro 5G",
-   "device": "RMX2117L1"
-  },
-  {
-   "brand": "realme",
-   "name": "realme Q2 5G",
-   "device": "RMX2117CN"
-  }
- ],
  "RMP2102": [
   {
    "brand": "Realme",
@@ -160218,13 +160201,6 @@
    "brand": "realme",
    "name": "realme pad",
    "device": "RE54C1L1"
-  }
- ],
- "RMX3161": [
-  {
-   "brand": "Realme",
-   "name": "realme Q3 5G",
-   "device": "RMX3161CN"
   }
  ],
  "RMX3142": [
@@ -160924,6 +160900,13 @@
    "device": "galahad"
   }
  ],
+ "M2004J19G": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 9",
+   "device": "lancelot"
+  }
+ ],
  "M2010J19SI": [
   {
    "brand": "Redmi",
@@ -161472,6 +161455,13 @@
    "brand": "Redmi",
    "name": "Redmi Note 9",
    "device": "cannon"
+  }
+ ],
+ "M2003J15SI": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 9",
+   "device": "merlin"
   }
  ],
  "M2003J15SS": [
@@ -166403,13 +166393,6 @@
   }
  ],
  "SM-A136W": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy A13 5G",
-   "device": "a13x"
-  }
- ],
- "SM-M136B": [
   {
    "brand": "Samsung",
    "name": "Galaxy A13 5G",
@@ -172840,6 +172823,13 @@
    "brand": "Samsung",
    "name": "Galaxy M13",
    "device": "m13"
+  }
+ ],
+ "SM-M136B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M13 5G",
+   "device": "a13x"
   }
  ],
  "SM-M205N": [
@@ -190646,6 +190636,13 @@
   {
    "brand": "Sony",
    "name": "BRAVIA TL",
+   "device": "OD0M_EA_T32"
+  }
+ ],
+ "BRAVIA TL2": [
+  {
+   "brand": "Sony",
+   "name": "BRAVIA TL2",
    "device": "OD0M_EA_T32"
   }
  ],
@@ -247144,6 +247141,18 @@
    "device": "RMX2151L1"
   }
  ],
+ "RMX2111": [
+  {
+   "brand": "realme",
+   "name": "realme 7 5G",
+   "device": "RMX2111L1"
+  },
+  {
+   "brand": "realme",
+   "name": "realme V5 5G",
+   "device": "RMX2111CN"
+  }
+ ],
  "RMX3241": [
   {
    "brand": "realme",
@@ -247163,6 +247172,13 @@
    "brand": "realme",
    "name": "realme 9",
    "device": "RE54E2L1"
+  }
+ ],
+ "RMX3474": [
+  {
+   "brand": "realme",
+   "name": "realme 9 5G",
+   "device": "RE54CBL1"
   }
  ],
  "RMX3388": [
@@ -247355,6 +247371,18 @@
    "device": "RED8BEL1"
   }
  ],
+ "RMX2117": [
+  {
+   "brand": "realme",
+   "name": "realme Narzo 30 Pro 5G",
+   "device": "RMX2117L1"
+  },
+  {
+   "brand": "realme",
+   "name": "realme Q2 5G",
+   "device": "RMX2117CN"
+  }
+ ],
  "RMP2105": [
   {
    "brand": "realme",
@@ -247367,6 +247395,13 @@
    "brand": "realme",
    "name": "realme Pad mini",
    "device": "RE87CCL1"
+  }
+ ],
+ "RMX3161": [
+  {
+   "brand": "realme",
+   "name": "realme Q3 5G",
+   "device": "RMX3161CN"
   }
  ],
  "RMX3372": [

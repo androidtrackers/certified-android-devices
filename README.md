@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-06-13
+Last sync is 2022-06-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17552,6 +17552,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Master-G|Android TV|R2|ATV R2|
 |Master-G|"Chile|Bolivia|Peru|
 |Master-G|"Chile|Bolivia|Peru|
+|Master-G|"Chile|Bolivia|Peru"|
 |Master-G|Smart TV|mateo|2K SA Smart TV|
 |MauritiusTelcom|HE2704|MTIPTVBox|HE2704|
 |Maxcom|MS453|MS453|MS453|
@@ -23397,7 +23398,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme 6i|RMX2041|RMX2041|
 |Realme|realme 6i|RMX2042|RMX2042|
 |Realme|realme 6s|RMX2002L1|RMX2002|
-|Realme|realme 7 5G|RMX2111L1|RMX2111|
 |Realme|realme 7 Pro|RMX2170L1|RMX2170|
 |Realme|realme 7i|RE50C1L1|RMX2103|
 |Realme|realme 7i|RMX2193|RMX2193|
@@ -23433,10 +23433,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme GT Neo 2|RE5473|RMX3370|
 |Realme|realme GT Neo2 5G|RE879AL1|RMX3370|
 |Realme|realme Narzo 20|RMX2193|RMX2193|
-|Realme|realme Narzo 30 Pro 5G|RMX2117L1|RMX2117|
 |Realme|realme Pad|RE54C1L1|RMP2102|
 |Realme|realme Q|RMX1971CN|RMX1971|
-|Realme|realme Q3 5G|RMX3161CN|RMX3161|
 |Realme|realme Q3 Pro Play|RE811C|RMX3142|
 |Realme|realme SA Smart TV|SW4H_FF|realme SA Smart TV|
 |Realme|realme Smart TV|SW4H_FF|realme Smart TV|
@@ -23533,6 +23531,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 9|galahad|M2004J19C|
 |Redmi|Redmi 9|galahad|galahad|
 |Redmi|Redmi 9|lancelot|M2004J19C|
+|Redmi|Redmi 9|lancelot|M2004J19G|
 |Redmi|Redmi 9 Power|lime|M2010J19SI|
 |Redmi|Redmi 9 Prime|lancelot|M2004J19C|
 |Redmi|Redmi 9A|dandelion|220233L2G|
@@ -23616,6 +23615,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 8T|willow|willow|
 |Redmi|Redmi Note 9|cannon|M2007J22C|
 |Redmi|Redmi Note 9|merlin|M2003J15SC|
+|Redmi|Redmi Note 9|merlin|M2003J15SI|
 |Redmi|Redmi Note 9|merlin|M2003J15SS|
 |Redmi|Redmi Note 9|merlinnfc|M2003J15SC|
 |Redmi|Redmi Note 9|merlinnfc|M2003J15SG|
@@ -24370,7 +24370,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A13 5G|a13x|SM-A136U|
 |Samsung|Galaxy A13 5G|a13x|SM-A136U1|
 |Samsung|Galaxy A13 5G|a13x|SM-A136W|
-|Samsung|Galaxy A13 5G|a13x|SM-M136B|
 |Samsung|Galaxy A13 5G|a13x|SM-S136DL|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260F|
 |Samsung|Galaxy A2 Core|a2corelte|SM-A260G|
@@ -25295,6 +25294,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M12|m12|SM-M127N|
 |Samsung|Galaxy M13|m13|SM-M135F|
 |Samsung|Galaxy M13|m13|SM-M135M|
+|Samsung|Galaxy M13 5G|a13x|SM-M136B|
 |Samsung|Galaxy M20|m20|SM-M205N|
 |Samsung|Galaxy M20|m20lte|SM-M205F|
 |Samsung|Galaxy M20|m20lte|SM-M205FN|
@@ -27957,6 +27957,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|BRAVIA 4K UR3|BRAVIA_UR3|BRAVIA 4K UR3|
 |Sony|BRAVIA Smart Stick|NSZGU1|NSZ-GU1|
 |Sony|BRAVIA TL|OD0M_EA_T32|BRAVIA TL|
+|Sony|BRAVIA TL2|OD0M_EA_T32|BRAVIA TL2|
 |Sony|BRAVIA VH1|BRAVIA_VH1|BRAVIA VH1|
 |Sony|BRAVIA VH2|BRAVIA_VH2|BRAVIA 4K VH2|
 |Sony|BRAVIA VH21|BRAVIA_VH21|BRAVIA 4K VH21|
@@ -36768,6 +36769,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 6Pro|RMX2061L1|RMX2061|
 |realme|realme 6Pro|RMX2063L1|RMX2063|
 |realme|realme 7|RMX2151L1|RMX2151|
+|realme|realme 7 5G|RMX2111L1|RMX2111|
 |realme|realme 7 Pro|RMX2170L1|RMX2170|
 |realme|realme 8|RMX3085L1|RMX3085|
 |realme|realme 8 5G|RE513CL1|RMX3241|
@@ -36775,6 +36777,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 8i|RE54B4L1|RMX3151|
 |realme|realme 8s 5G|RE58A0L1|RMX3381|
 |realme|realme 9|RE54E2L1|RMX3521|
+|realme|realme 9 5G|RE54CBL1|RMX3474|
 |realme|realme 9 5G|RE54F3L1|RMX3388|
 |realme|realme 9 5G Speed Edition|RE54BFL1|RMX3461|
 |realme|realme 9 Pro+|RE879EL1|RMX3392|
@@ -36810,9 +36813,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme GT NEO 3|RED8BEL1|RMX3561|
 |realme|realme GT NEO 3 150W|RED8BEL1|RMX3563|
 |realme|realme GT Neo2 5G|RE879AL1|RMX3370|
+|realme|realme Narzo 30 Pro 5G|RMX2117L1|RMX2117|
 |realme|realme Pad mini|RE87CCL1|RMP2105|
 |realme|realme Pad mini|RE87CCL1|RMP2106|
 |realme|realme Q2 5G|RMX2117CN|RMX2117|
+|realme|realme Q3 5G|RMX3161CN|RMX3161|
 |realme|realme Q3s|RE548BL1|RMX3461|
 |realme|realme Q5 Pro|RE5477|RMX3372|
 |realme|realme Q5i|RE873D|RMX3574|
