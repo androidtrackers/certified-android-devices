@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-06-14
+Last sync is 2022-06-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6799,6 +6799,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |F&U (Fandu)|EU、UK、AP|martin|FandU Android TV|
 |F&U (Fandu)|Greece|tamachi|F and U Android TV|
 |F&U (Fandu)|Greece|yeongdeungpo|F and U Android TV|
+|F150|Air1 Pro|Air1_Pro|Air1 Pro|
 |F150|B2021|B2021|B2021|
 |F150|B2021|H2022|H2022|
 |F150|B2021_EEA|B2021|B2021|
@@ -25293,6 +25294,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M12|m12|SM-M127G|
 |Samsung|Galaxy M12|m12|SM-M127N|
 |Samsung|Galaxy M13|m13|SM-M135F|
+|Samsung|Galaxy M13|m13|SM-M135FU|
 |Samsung|Galaxy M13|m13|SM-M135M|
 |Samsung|Galaxy M13 5G|a13x|SM-M136B|
 |Samsung|Galaxy M20|m20|SM-M205N|
@@ -29057,9 +29059,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|C02_4K_US|BeyondTV|Smart TV|
 |TCL|C06_2K_US|C06|Smart TV|
 |TCL|C9|A3A_XL_4G|5199I|
+|TCL|G03_4K_GB|BeyondTV4|Smart TV Pro|
+|TCL|G03_4K_GB_NF|BeyondTV4|Smart TV|
 |TCL|G03_4K_US|BeyondTV4|Smart TV Pro|
 |TCL|G03_4K_US_NF|BeyondTV4|Smart TV|
 |TCL|G03_4K_US_NF|BeyondTV4|Smart TV Pro|
+|TCL|G05_4K_GB|G05|Smart TV Pro|
 |TCL|G05_4K_US|G05|Smart TV Pro|
 |TCL|GO5c|U3A_PLUS_4G|5033E|
 |TCL|HotelTV|HotelTV|WelcomeTV|
@@ -29073,6 +29078,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|Percee TV|tcl_eu|Percee TV|
 |TCL|Percee TV|tcl_eu|SANYO TV|
 |TCL|Percee TV|tcl_sa|Percee TV|
+|TCL|Smart TV|BeyondTV|BeyondTV5|
 |TCL|Smart TV|BeyondTV4|Smart TV|
 |TCL|Smart TV Pro|C05|Smart TV Pro|
 |TCL|Smartphone|A5A_INFINI|5086D|
@@ -36761,6 +36767,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|TV Stick|BOS|TV Stick|
 |realme|narzo 50 5G|RED8CDL1|RMX3571|
 |realme|narzo 50 5G|RED8CDL1|RMX3572|
+|realme|narzo 50 Pro 5G|RE879EL1|RMX3395|
+|realme|narzo 50 Pro 5G|RE879EL1|RMX3396|
 |realme|realme  8|RMX3085L1|RMX3085|
 |realme|realme  9i|RED8C1L1|RMX3491|
 |realme|realme  X7 Max|RMX3031L1|RMX3031|

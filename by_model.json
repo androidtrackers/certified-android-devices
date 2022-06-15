@@ -18424,6 +18424,11 @@
   },
   {
    "brand": "TCL",
+   "name": "G03_4K_GB_NF",
+   "device": "BeyondTV4"
+  },
+  {
+   "brand": "TCL",
    "name": "G03_4K_US_NF",
    "device": "BeyondTV4"
   },
@@ -50293,6 +50298,13 @@
    "brand": "F&U (Fandu)",
    "name": "Greece",
    "device": "yeongdeungpo"
+  }
+ ],
+ "Air1 Pro": [
+  {
+   "brand": "F150",
+   "name": "Air1 Pro",
+   "device": "Air1_Pro"
   }
  ],
  "B2021": [
@@ -172818,6 +172830,13 @@
    "device": "m13"
   }
  ],
+ "SM-M135FU": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M13",
+   "device": "m13"
+  }
+ ],
  "SM-M135M": [
   {
    "brand": "Samsung",
@@ -197620,6 +197639,11 @@
   },
   {
    "brand": "TCL",
+   "name": "G03_4K_GB",
+   "device": "BeyondTV4"
+  },
+  {
+   "brand": "TCL",
    "name": "G03_4K_US",
    "device": "BeyondTV4"
   },
@@ -197627,6 +197651,11 @@
    "brand": "TCL",
    "name": "G03_4K_US_NF",
    "device": "BeyondTV4"
+  },
+  {
+   "brand": "TCL",
+   "name": "G05_4K_GB",
+   "device": "G05"
   },
   {
    "brand": "TCL",
@@ -197643,6 +197672,11 @@
   {
    "brand": "TCL",
    "name": "BeyondTV5",
+   "device": "BeyondTV"
+  },
+  {
+   "brand": "TCL",
+   "name": "Smart TV",
    "device": "BeyondTV"
   }
  ],
@@ -247089,6 +247123,20 @@
    "brand": "realme",
    "name": "narzo 50 5G",
    "device": "RED8CDL1"
+  }
+ ],
+ "RMX3395": [
+  {
+   "brand": "realme",
+   "name": "narzo 50 Pro 5G",
+   "device": "RE879EL1"
+  }
+ ],
+ "RMX3396": [
+  {
+   "brand": "realme",
+   "name": "narzo 50 Pro 5G",
+   "device": "RE879EL1"
   }
  ],
  "RMX3085": [

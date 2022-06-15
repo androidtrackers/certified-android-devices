@@ -53114,6 +53114,13 @@
    "model": "EyeOnGo"
   }
  ],
+ "Air1_Pro": [
+  {
+   "brand": "F150",
+   "name": "Air1 Pro",
+   "model": "Air1 Pro"
+  }
+ ],
  "B2021": [
   {
    "brand": "F150",
@@ -165783,6 +165790,11 @@
   {
    "brand": "Samsung",
    "name": "Galaxy M13",
+   "model": "SM-M135FU"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M13",
    "model": "SM-M135M"
   }
  ],
@@ -192187,6 +192199,11 @@
    "brand": "TCL",
    "name": "C02_4K_US",
    "model": "Smart TV"
+  },
+  {
+   "brand": "TCL",
+   "name": "Smart TV",
+   "model": "BeyondTV5"
   }
  ],
  "BeyondTV4": [
@@ -192204,6 +192221,16 @@
    "brand": "TCL",
    "name": "BeyondTV6",
    "model": "Smart TV Pro"
+  },
+  {
+   "brand": "TCL",
+   "name": "G03_4K_GB",
+   "model": "Smart TV Pro"
+  },
+  {
+   "brand": "TCL",
+   "name": "G03_4K_GB_NF",
+   "model": "Smart TV"
   },
   {
    "brand": "TCL",
@@ -192271,6 +192298,11 @@
   }
  ],
  "G05": [
+  {
+   "brand": "TCL",
+   "name": "G05_4K_GB",
+   "model": "Smart TV Pro"
+  },
   {
    "brand": "TCL",
    "name": "G05_4K_US",
@@ -236642,6 +236674,28 @@
    "model": "RMX3572"
   }
  ],
+ "RE879EL1": [
+  {
+   "brand": "realme",
+   "name": "narzo 50 Pro 5G",
+   "model": "RMX3395"
+  },
+  {
+   "brand": "realme",
+   "name": "narzo 50 Pro 5G",
+   "model": "RMX3396"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 9 Pro+",
+   "model": "RMX3392"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 9 Pro+",
+   "model": "RMX3393"
+  }
+ ],
  "RMX3085L1": [
   {
    "brand": "realme",
@@ -236764,18 +236818,6 @@
    "brand": "realme",
    "name": "realme 9 5G Speed Edition",
    "model": "RMX3461"
-  }
- ],
- "RE879EL1": [
-  {
-   "brand": "realme",
-   "name": "realme 9 Pro+",
-   "model": "RMX3392"
-  },
-  {
-   "brand": "realme",
-   "name": "realme 9 Pro+",
-   "model": "RMX3393"
   }
  ],
  "RMX2195L1": [

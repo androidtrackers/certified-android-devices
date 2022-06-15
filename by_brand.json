@@ -35291,6 +35291,11 @@
  ],
  "F150": [
   {
+   "device": "Air1_Pro",
+   "name": "Air1 Pro",
+   "model": "Air1 Pro"
+  },
+  {
    "device": "B2021",
    "name": "B2021",
    "model": "B2021"
@@ -129989,6 +129994,11 @@
   {
    "device": "m13",
    "name": "Galaxy M13",
+   "model": "SM-M135FU"
+  },
+  {
+   "device": "m13",
+   "name": "Galaxy M13",
    "model": "SM-M135M"
   },
   {
@@ -149106,6 +149116,16 @@
   },
   {
    "device": "BeyondTV4",
+   "name": "G03_4K_GB",
+   "model": "Smart TV Pro"
+  },
+  {
+   "device": "BeyondTV4",
+   "name": "G03_4K_GB_NF",
+   "model": "Smart TV"
+  },
+  {
+   "device": "BeyondTV4",
    "name": "G03_4K_US",
    "model": "Smart TV Pro"
   },
@@ -149117,6 +149137,11 @@
   {
    "device": "BeyondTV4",
    "name": "G03_4K_US_NF",
+   "model": "Smart TV Pro"
+  },
+  {
+   "device": "G05",
+   "name": "G05_4K_GB",
    "model": "Smart TV Pro"
   },
   {
@@ -149183,6 +149208,11 @@
    "device": "tcl_sa",
    "name": "Percee TV",
    "model": "Percee TV"
+  },
+  {
+   "device": "BeyondTV",
+   "name": "Smart TV",
+   "model": "BeyondTV5"
   },
   {
    "device": "BeyondTV4",
@@ -188725,6 +188755,16 @@
    "device": "RED8CDL1",
    "name": "narzo 50 5G",
    "model": "RMX3572"
+  },
+  {
+   "device": "RE879EL1",
+   "name": "narzo 50 Pro 5G",
+   "model": "RMX3395"
+  },
+  {
+   "device": "RE879EL1",
+   "name": "narzo 50 Pro 5G",
+   "model": "RMX3396"
   },
   {
    "device": "RMX3085L1",
