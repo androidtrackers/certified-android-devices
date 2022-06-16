@@ -18434,6 +18434,11 @@
   },
   {
    "brand": "TCL",
+   "name": "G07_4K_GB_NF",
+   "device": "G07"
+  },
+  {
+   "brand": "TCL",
    "name": "Smart TV",
    "device": "BeyondTV4"
   },
@@ -68393,6 +68398,28 @@
    "device": "HLTE203T"
   }
  ],
+ "SmartTV 4K FFM": [
+  {
+   "brand": "Hisense",
+   "name": "A6H/E6H/A6600H/A6500H/E7H/A6HA",
+   "device": "songshan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "U60H",
+   "device": "songshan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "U6H",
+   "device": "songshan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "huangshan",
+   "device": "huangshan"
+  }
+ ],
  "HLTE730T": [
   {
    "brand": "Hisense",
@@ -72144,23 +72171,6 @@
    "device": "U609"
   }
  ],
- "SmartTV 4K FFM": [
-  {
-   "brand": "Hisense",
-   "name": "U60H",
-   "device": "songshan"
-  },
-  {
-   "brand": "Hisense",
-   "name": "U6H",
-   "device": "songshan"
-  },
-  {
-   "brand": "Hisense",
-   "name": "huangshan",
-   "device": "huangshan"
-  }
- ],
  "HS-U610": [
   {
    "brand": "Hisense",
@@ -72199,6 +72209,11 @@
   {
    "brand": "Hisense",
    "name": "songshan",
+   "device": "songshan"
+  },
+  {
+   "brand": "Riviera",
+   "name": "HIKA5",
    "device": "songshan"
   }
  ],
@@ -85476,6 +85491,11 @@
   },
   {
    "brand": "Hyundai",
+   "name": "HYUNDAI 2K Android TV",
+   "device": "lasalle"
+  },
+  {
+   "brand": "Hyundai",
    "name": "Italy",
    "device": "tamachi"
   }
@@ -95365,6 +95385,13 @@
    "brand": "KONKA",
    "name": "KONKA  Y109",
    "device": "Y109"
+  }
+ ],
+ "KONKA 2K Android TV-A": [
+  {
+   "brand": "KONKA",
+   "name": "KONKA 2K Android TV-A",
+   "device": "lasalle"
   }
  ],
  "KONKA 4K Android TV-A": [
@@ -152384,6 +152411,11 @@
    "brand": "Polaroid",
    "name": "Polaroid",
    "device": "komagome"
+  },
+  {
+   "brand": "Polaroid",
+   "name": "Polaroid 2K Android TV",
+   "device": "lasalle"
   }
  ],
  "Polaroid Android TV": [
@@ -207663,21 +207695,21 @@
   {
    "brand": "TD SYSTEMS",
    "name": "Android TV",
-   "device": "redwood"
-  },
-  {
-   "brand": "TD SYSTEMS",
-   "name": "EU、UK、AP",
    "device": "martin"
   },
   {
    "brand": "TD SYSTEMS",
-   "name": "Spain",
+   "name": "Android TV",
+   "device": "redwood"
+  },
+  {
+   "brand": "TD SYSTEMS",
+   "name": "Android TV",
    "device": "tamachi"
   },
   {
    "brand": "TD SYSTEMS",
-   "name": "Spain",
+   "name": "Android TV",
    "device": "yeongdeungpo"
   }
  ],
@@ -213785,6 +213817,11 @@
    "brand": "Toshiba",
    "name": "C350LK",
    "device": "songshan"
+  },
+  {
+   "brand": "Toshiba",
+   "name": "C350LP/C350LI/E350LP/E450LP/C350LT/M550LT",
+   "device": "songshan"
   }
  ],
  "AT270": [
@@ -213918,6 +213955,18 @@
    "brand": "Toshiba",
    "name": "L9450",
    "device": "l9450"
+  }
+ ],
+ "Toshiba TV with MIC": [
+  {
+   "brand": "Toshiba",
+   "name": "M550LK",
+   "device": "songshan"
+  },
+  {
+   "brand": "Toshiba",
+   "name": "M550LP/M550LI",
+   "device": "songshan"
   }
  ],
  "Mozart": [
@@ -238515,6 +238564,13 @@
    "device": "P635E40"
   }
  ],
+ "ZTE 8045RU": [
+  {
+   "brand": "ZTE",
+   "name": "Russia",
+   "device": "P606F02"
+  }
+ ],
  "Grand S Lite": [
   {
    "brand": "ZTE",
@@ -240356,6 +240412,18 @@
    "device": "Z5151"
   }
  ],
+ "Z5156CC": [
+  {
+   "brand": "ZTE",
+   "name": "Z5156CC",
+   "device": "Z5156U"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Avid 579",
+   "device": "Z5156"
+  }
+ ],
  "Z5158": [
   {
    "brand": "ZTE",
@@ -241398,13 +241466,6 @@
    "device": "calbee"
   }
  ],
- "Z5156CC": [
-  {
-   "brand": "ZTE",
-   "name": "ZTE Avid 579",
-   "device": "Z5156"
-  }
- ],
  "ZTE A2020G Pro": [
   {
    "brand": "ZTE",
@@ -241913,6 +241974,20 @@
    "brand": "ZTE",
    "name": "ZTE Blade A52",
    "device": "P963F61_A"
+  }
+ ],
+ "ZTE Blade A52 Lite": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A52 Lite",
+   "device": "P963F51W"
+  }
+ ],
+ "ZTE Blade A52RU": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A52RU",
+   "device": "P963F61"
   }
  ],
  "ZTE Blade A531": [

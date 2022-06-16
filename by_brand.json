@@ -48795,6 +48795,11 @@
    "model": "HLTE203T"
   },
   {
+   "device": "songshan",
+   "name": "A6H/E6H/A6600H/A6500H/E7H/A6HA",
+   "model": "SmartTV 4K FFM"
+  },
+  {
    "device": "HLTE730T",
    "name": "A6L",
    "model": "HLTE730T"
@@ -62016,6 +62021,11 @@
    "model": "AI PONT"
   },
   {
+   "device": "lasalle",
+   "name": "HYUNDAI 2K Android TV",
+   "model": "HYUNDAI 2K Android TV"
+  },
+  {
    "device": "kenton",
    "name": "HYUNDAI 4K Android TV",
    "model": "HYUNDAI 4K Android TV"
@@ -69568,6 +69578,11 @@
    "device": "lasalle",
    "name": "KONKA 2K Android TV",
    "model": "KONKA 2K Android TV"
+  },
+  {
+   "device": "lasalle",
+   "name": "KONKA 2K Android TV-A",
+   "model": "KONKA 2K Android TV-A"
   },
   {
    "device": "kenton",
@@ -114385,6 +114400,11 @@
    "model": "Polaroid 2K Android TV"
   },
   {
+   "device": "lasalle",
+   "name": "Polaroid 2K Android TV",
+   "model": "Polaroid 2K Android TV"
+  },
+  {
    "device": "kenton",
    "name": "Polaroid 4K Android TV",
    "model": "Polaroid 4K Android TV"
@@ -122087,6 +122107,11 @@
   }
  ],
  "Riviera": [
+  {
+   "device": "songshan",
+   "name": "HIKA5",
+   "model": "SmartTV 4K"
+  },
   {
    "device": "ikebukuro",
    "name": "RLED-AND42CHG6F",
@@ -149150,6 +149175,11 @@
    "model": "Smart TV Pro"
   },
   {
+   "device": "G07",
+   "name": "G07_4K_GB_NF",
+   "model": "Smart TV"
+  },
+  {
    "device": "U3A_PLUS_4G",
    "name": "GO5c",
    "model": "5033E"
@@ -156446,23 +156476,23 @@
  ],
  "TD SYSTEMS": [
   {
+   "device": "martin",
+   "name": "Android TV",
+   "model": "TD SYSTEMS Android TV"
+  },
+  {
    "device": "redwood",
    "name": "Android TV",
    "model": "TD SYSTEMS Android TV"
   },
   {
-   "device": "martin",
-   "name": "EU、UK、AP",
-   "model": "TD SYSTEMS Android TV"
-  },
-  {
    "device": "tamachi",
-   "name": "Spain",
+   "name": "Android TV",
    "model": "TD SYSTEMS Android TV"
   },
   {
    "device": "yeongdeungpo",
-   "name": "Spain",
+   "name": "Android TV",
    "model": "TD SYSTEMS Android TV"
   }
  ],
@@ -161433,6 +161463,11 @@
    "model": "Toshiba TV"
   },
   {
+   "device": "songshan",
+   "name": "C350LP/C350LI/E350LP/E450LP/C350LT/M550LT",
+   "model": "Toshiba TV"
+  },
+  {
    "device": "tostab11BS",
    "name": "JP:REGZA Tablet AT570  Others:TOSHIBA AT270",
    "model": "AT270"
@@ -161536,6 +161571,16 @@
    "device": "l9450",
    "name": "L9450",
    "model": "l9450"
+  },
+  {
+   "device": "songshan",
+   "name": "M550LK",
+   "model": "Toshiba TV with MIC"
+  },
+  {
+   "device": "songshan",
+   "name": "M550LP/M550LI",
+   "model": "Toshiba TV with MIC"
   },
   {
    "device": "Mozart",
@@ -181294,6 +181339,11 @@
    "model": "Rook from EE"
   },
   {
+   "device": "P606F02",
+   "name": "Russia",
+   "model": "ZTE 8045RU"
+  },
+  {
    "device": "P189S10",
    "name": "S118",
    "model": "Grand S Lite"
@@ -182809,6 +182859,11 @@
    "model": "Z5151V"
   },
   {
+   "device": "Z5156U",
+   "name": "Z5156CC",
+   "model": "Z5156CC"
+  },
+  {
    "device": "Z5158",
    "name": "Z5158",
    "model": "Z5158"
@@ -184064,9 +184119,19 @@
    "model": "ZTE Blade A52"
   },
   {
+   "device": "P963F51W",
+   "name": "ZTE Blade A52 Lite",
+   "model": "ZTE Blade A52 Lite"
+  },
+  {
    "device": "P817E53",
    "name": "ZTE Blade A522",
    "model": "ZTE Blade A522"
+  },
+  {
+   "device": "P963F61",
+   "name": "ZTE Blade A52RU",
+   "model": "ZTE Blade A52RU"
   },
   {
    "device": "P932F10",

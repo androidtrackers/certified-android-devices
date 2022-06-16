@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-06-15
+Last sync is 2022-06-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9415,6 +9415,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|A2T|HS8953QC|Hisense A2T|
 |Hisense|A5|HLTE202N|HLTE202N|
 |Hisense|A5 Pro|HLTE203T|HLTE203T|
+|Hisense|A6H/E6H/A6600H/A6500H/E7H/A6HA|songshan|SmartTV 4K FFM|
 |Hisense|A6L|HLTE730T|HLTE730T|
 |Hisense|AGM  X2|HS8976QC|AGM X2|
 |Hisense|AGM  X2|HS8976QC|X2 SE|
@@ -12048,6 +12049,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HYLED4321AiM|ikebukuro|AI PONT|
 |Hyundai|HYLED5015A4KM|samseong|AI PONT|
 |Hyundai|HYLED5520A4KM|sindorim|AI PONT|
+|Hyundai|HYUNDAI 2K Android TV|lasalle|HYUNDAI 2K Android TV|
 |Hyundai|HYUNDAI 4K Android TV|kenton|HYUNDAI 4K Android TV|
 |Hyundai|HYUNDAI SMART TV|sunnyvale|HYUNDAI SMART TV|
 |Hyundai|HY_BDL163G_001|HY_BDL163G_001_EEA|HY-BDL163G-001|
@@ -13504,6 +13506,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KONKA|KONKA  N188|N188|KONKA-N188|
 |KONKA|KONKA  Y109|Y109|KONKA-Y109|
 |KONKA|KONKA 2K Android TV|lasalle|KONKA 2K Android TV|
+|KONKA|KONKA 2K Android TV-A|lasalle|KONKA 2K Android TV-A|
 |KONKA|KONKA 4K Android TV|kenton|KONKA 4K Android TV|
 |KONKA|KONKA 4K Android TV-A|kenton|KONKA 4K Android TV-A|
 |KONKA|KONKA Android TV|hongik|KONKA 4K Android TV|
@@ -22249,6 +22252,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Polaroid|Polaroid|bangbae|Polaroid 4K Android TV|
 |Polaroid|Polaroid|ewha|POLA-TVE19K|
 |Polaroid|Polaroid|komagome|Polaroid 2K Android TV|
+|Polaroid|Polaroid 2K Android TV|lasalle|Polaroid 2K Android TV|
 |Polaroid|Polaroid 4K Android TV|kenton|Polaroid 4K Android TV|
 |Polaroid|Polaroid android TV|hanyang|Polaroid Android TV|
 |Polaroid|SIGMA 5|SIGMA-5|SIGMA-5|
@@ -23748,6 +23752,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rinno|R505|Rinno_R505|R505|
 |Rinno|R520|R520|R520|
 |Rinno|R550|R550|R550|
+|Riviera|HIKA5|songshan|SmartTV 4K|
 |Riviera|RLED-AND42CHG6F|ikebukuro|AI PONT|
 |Riviera|RLED-AND50CHG6FP|sindorim|AI PONT|
 |Riviera|Riviera|hamamatsucho|Smart TV|
@@ -29066,6 +29071,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|G03_4K_US_NF|BeyondTV4|Smart TV Pro|
 |TCL|G05_4K_GB|G05|Smart TV Pro|
 |TCL|G05_4K_US|G05|Smart TV Pro|
+|TCL|G07_4K_GB_NF|G07|Smart TV|
 |TCL|GO5c|U3A_PLUS_4G|5033E|
 |TCL|HotelTV|HotelTV|WelcomeTV|
 |TCL|L55E6700UDS|movo_la|movo_la|
@@ -30524,10 +30530,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|tbd|U50A_PLUS_ATT|Alcatel_5059R|
 |TCT (Alcatel)|tmn smarta8|ONE_TOUCH_991D_gsm|moche smart a8|
 |TCT (Alcatel)|tmn smarta8|ONE_TOUCH_991D_gsm|tmn smart a8|
+|TD SYSTEMS|Android TV|martin|TD SYSTEMS Android TV|
 |TD SYSTEMS|Android TV|redwood|TD SYSTEMS Android TV|
-|TD SYSTEMS|EU、UK、AP|martin|TD SYSTEMS Android TV|
-|TD SYSTEMS|Spain|tamachi|TD SYSTEMS Android TV|
-|TD SYSTEMS|Spain|yeongdeungpo|TD SYSTEMS Android TV|
+|TD SYSTEMS|Android TV|tamachi|TD SYSTEMS Android TV|
+|TD SYSTEMS|Android TV|yeongdeungpo|TD SYSTEMS Android TV|
 |TDS|VIP6102W|vip6102w|VIP6102W|
 |TECHLIFE|Smart TV|redwood|AI PONT|
 |TECHNOLOGIA Y CRATIVIDAD|M103H|M103H|M103H|
@@ -31467,6 +31473,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Toshiba|AT7-C|tos14riy20|A17|
 |Toshiba|AT7-C|tos14riy20|AT7-C|
 |Toshiba|C350LK|songshan|Toshiba TV|
+|Toshiba|C350LP/C350LI/E350LP/E450LP/C350LT/M550LT|songshan|Toshiba TV|
 |Toshiba|JP:REGZA Tablet AT570  Others:TOSHIBA AT270|tostab11BS|AT270|
 |Toshiba|JP:REGZA Tablet AT570  Others:TOSHIBA AT270|tostab11BS|AT470|
 |Toshiba|JP:REGZA Tablet AT570  Others:TOSHIBA AT270|tostab11BS|AT570|
@@ -31488,6 +31495,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Toshiba|L5450ME|tostv14rtk2|l5450|
 |Toshiba|L5550/L5551/L5552|tostv15rtk2|l5550|
 |Toshiba|L9450|l9450|l9450|
+|Toshiba|M550LK|songshan|Toshiba TV with MIC|
+|Toshiba|M550LP/M550LI|songshan|Toshiba TV with MIC|
 |Toshiba|Mozart|Mozart|Mozart|
 |Toshiba|STB10|TOSPASB|TOSPASB|
 |Toshiba|Thrive 7|tostab04|AT1S0|
@@ -35324,6 +35333,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Red Magic 5G|NX659J-EEA|NX659J|
 |ZTE|Red Magic 5G lite|NX651J-EEA|NX651J|
 |ZTE|Rook from EE|P635E40|Rook from EE|
+|ZTE|Russia|P606F02|ZTE 8045RU|
 |ZTE|S118|P189S10|Grand S Lite|
 |ZTE|S118|P189S10|ZTE S118|
 |ZTE|S2004|msm8974|ZTE S2004|
@@ -35627,6 +35637,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z40 Pro|P898A11|NX701J|
 |ZTE|Z5031O|Z5031O|Z5031O|
 |ZTE|Z5151V|Z5151|Z5151V|
+|ZTE|Z5156CC|Z5156U|Z5156CC|
 |ZTE|Z5158|Z5158|Z5158|
 |ZTE|Z557BL|Z557|Z557BL|
 |ZTE|Z557BL|lewis|Z557BL|
@@ -35878,7 +35889,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A51RU|P963F60|ZTE Blade A51RU|
 |ZTE|ZTE Blade A52|P963F61|ZTE Blade A52|
 |ZTE|ZTE Blade A52|P963F61_A|ZTE Blade A52|
+|ZTE|ZTE Blade A52 Lite|P963F51W|ZTE Blade A52 Lite|
 |ZTE|ZTE Blade A522|P817E53|ZTE Blade A522|
+|ZTE|ZTE Blade A52RU|P963F61|ZTE Blade A52RU|
 |ZTE|ZTE Blade A531|P932F10|ZTE Blade A531|
 |ZTE|ZTE Blade A7 2019|P963F02|ZTE Blade A7 2019|
 |ZTE|ZTE Blade A7 2019RU|P963F02|ZTE Blade A7 2019RU|

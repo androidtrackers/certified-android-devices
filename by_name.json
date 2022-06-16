@@ -8317,7 +8317,22 @@
   },
   {
    "brand": "TD SYSTEMS",
+   "device": "martin",
+   "model": "TD SYSTEMS Android TV"
+  },
+  {
+   "brand": "TD SYSTEMS",
    "device": "redwood",
+   "model": "TD SYSTEMS Android TV"
+  },
+  {
+   "brand": "TD SYSTEMS",
+   "device": "tamachi",
+   "model": "TD SYSTEMS Android TV"
+  },
+  {
+   "brand": "TD SYSTEMS",
+   "device": "yeongdeungpo",
    "model": "TD SYSTEMS Android TV"
   },
   {
@@ -26885,16 +26900,6 @@
    "brand": "Inves",
    "device": "yeongdeungpo",
    "model": "INVES UHD Android TV"
-  },
-  {
-   "brand": "TD SYSTEMS",
-   "device": "tamachi",
-   "model": "TD SYSTEMS Android TV"
-  },
-  {
-   "brand": "TD SYSTEMS",
-   "device": "yeongdeungpo",
-   "model": "TD SYSTEMS Android TV"
   }
  ],
  "BTF-43SG": [
@@ -41888,11 +41893,6 @@
    "brand": "Smart-Tech TV",
    "device": "martin",
    "model": "WALTON Android TV"
-  },
-  {
-   "brand": "TD SYSTEMS",
-   "device": "martin",
-   "model": "TD SYSTEMS Android TV"
   },
   {
    "brand": "TELE System",
@@ -74631,6 +74631,13 @@
    "model": "A5_Pro"
   }
  ],
+ "A6H/E6H/A6600H/A6500H/E7H/A6HA": [
+  {
+   "brand": "Hisense",
+   "device": "songshan",
+   "model": "SmartTV 4K FFM"
+  }
+ ],
  "A6L": [
   {
    "brand": "Hisense",
@@ -88705,6 +88712,13 @@
    "model": "AI PONT"
   }
  ],
+ "HYUNDAI 2K Android TV": [
+  {
+   "brand": "Hyundai",
+   "device": "lasalle",
+   "model": "HYUNDAI 2K Android TV"
+  }
+ ],
  "HYUNDAI 4K Android TV": [
   {
    "brand": "Hyundai",
@@ -97860,6 +97874,13 @@
    "brand": "KONKA",
    "device": "lasalle",
    "model": "KONKA 2K Android TV"
+  }
+ ],
+ "KONKA 2K Android TV-A": [
+  {
+   "brand": "KONKA",
+   "device": "lasalle",
+   "model": "KONKA 2K Android TV-A"
   }
  ],
  "KONKA 4K Android TV": [
@@ -149827,6 +149848,13 @@
    "model": "Polaroid 2K Android TV"
   }
  ],
+ "Polaroid 2K Android TV": [
+  {
+   "brand": "Polaroid",
+   "device": "lasalle",
+   "model": "Polaroid 2K Android TV"
+  }
+ ],
  "Polaroid 4K Android TV": [
   {
    "brand": "Polaroid",
@@ -153239,6 +153267,11 @@
    "brand": "Prestigio",
    "device": "yeongdeungpo",
    "model": "Prestigio UHD Android TV"
+  },
+  {
+   "brand": "ZTE",
+   "device": "P606F02",
+   "model": "ZTE 8045RU"
   }
  ],
  "TC10A3L": [
@@ -159352,6 +159385,13 @@
    "brand": "Rinno",
    "device": "R550",
    "model": "R550"
+  }
+ ],
+ "HIKA5": [
+  {
+   "brand": "Riviera",
+   "device": "songshan",
+   "model": "SmartTV 4K"
   }
  ],
  "RLED-AND42CHG6F": [
@@ -189879,6 +189919,13 @@
    "model": "Smart TV Pro"
   }
  ],
+ "G07_4K_GB_NF": [
+  {
+   "brand": "TCL",
+   "device": "G07",
+   "model": "Smart TV"
+  }
+ ],
  "GO5c": [
   {
    "brand": "TCL",
@@ -203442,6 +203489,13 @@
    "model": "Toshiba TV"
   }
  ],
+ "C350LP/C350LI/E350LP/E450LP/C350LT/M550LT": [
+  {
+   "brand": "Toshiba",
+   "device": "songshan",
+   "model": "Toshiba TV"
+  }
+ ],
  "JP:REGZA Tablet AT570  Others:TOSHIBA AT270": [
   {
    "brand": "Toshiba",
@@ -203565,6 +203619,20 @@
    "brand": "Toshiba",
    "device": "l9450",
    "model": "l9450"
+  }
+ ],
+ "M550LK": [
+  {
+   "brand": "Toshiba",
+   "device": "songshan",
+   "model": "Toshiba TV with MIC"
+  }
+ ],
+ "M550LP/M550LI": [
+  {
+   "brand": "Toshiba",
+   "device": "songshan",
+   "model": "Toshiba TV with MIC"
   }
  ],
  "Mozart": [
@@ -227186,6 +227254,13 @@
    "model": "Z5151V"
   }
  ],
+ "Z5156CC": [
+  {
+   "brand": "ZTE",
+   "device": "Z5156U",
+   "model": "Z5156CC"
+  }
+ ],
  "Z5158": [
   {
    "brand": "ZTE",
@@ -228871,11 +228946,25 @@
    "model": "ZTE Blade A52"
   }
  ],
+ "ZTE Blade A52 Lite": [
+  {
+   "brand": "ZTE",
+   "device": "P963F51W",
+   "model": "ZTE Blade A52 Lite"
+  }
+ ],
  "ZTE Blade A522": [
   {
    "brand": "ZTE",
    "device": "P817E53",
    "model": "ZTE Blade A522"
+  }
+ ],
+ "ZTE Blade A52RU": [
+  {
+   "brand": "ZTE",
+   "device": "P963F61",
+   "model": "ZTE Blade A52RU"
   }
  ],
  "ZTE Blade A531": [
