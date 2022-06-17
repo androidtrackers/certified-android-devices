@@ -18399,6 +18399,11 @@
   },
   {
    "brand": "Hisense",
+   "name": "A55",
+   "device": "songshan"
+  },
+  {
+   "brand": "Hisense",
    "name": "fushan_akino",
    "device": "hamamatsucho"
   },
@@ -68399,6 +68404,11 @@
   }
  ],
  "SmartTV 4K FFM": [
+  {
+   "brand": "Hisense",
+   "name": "A65",
+   "device": "songshan"
+  },
   {
    "brand": "Hisense",
    "name": "A6H/E6H/A6600H/A6500H/E7H/A6HA",
@@ -122204,6 +122214,13 @@
    "device": "MTIPTVBox"
   }
  ],
+ "HP4411": [
+  {
+   "brand": "MauritiusTelcom",
+   "name": "HP4411",
+   "device": "HY44G"
+  }
+ ],
  "MS453": [
   {
    "brand": "Maxcom",
@@ -166399,6 +166416,13 @@
    "brand": "Samsung",
    "name": "Galaxy A13",
    "device": "a13"
+  }
+ ],
+ "SM-A137F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A13",
+   "device": "a13ve"
   }
  ],
  "SM-A136B": [
@@ -215710,6 +215734,13 @@
    "device": "Note_6P"
   }
  ],
+ "Note 6T": [
+  {
+   "brand": "Ulefone",
+   "name": "Note 6T",
+   "device": "Note_6T"
+  }
+ ],
  "Note 8": [
   {
    "brand": "Ulefone",
@@ -216313,6 +216344,13 @@
    "brand": "Umidigi",
    "name": "BISON R EEA",
    "device": "BISON_R"
+  }
+ ],
+ "RP04": [
+  {
+   "brand": "Umidigi",
+   "name": "BISON 2",
+   "device": "BISON_2"
   }
  ],
  "BISON GT": [

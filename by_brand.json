@@ -48796,6 +48796,16 @@
   },
   {
    "device": "songshan",
+   "name": "A55",
+   "model": "Smart TV"
+  },
+  {
+   "device": "songshan",
+   "name": "A65",
+   "model": "SmartTV 4K FFM"
+  },
+  {
+   "device": "songshan",
    "name": "A6H/E6H/A6600H/A6500H/E7H/A6HA",
    "model": "SmartTV 4K FFM"
   },
@@ -90281,6 +90291,11 @@
    "device": "MTIPTVBox",
    "name": "HE2704",
    "model": "HE2704"
+  },
+  {
+   "device": "HY44G",
+   "name": "HP4411",
+   "model": "HP4411"
   }
  ],
  "Maxcom": [
@@ -125370,6 +125385,11 @@
    "device": "a13",
    "name": "Galaxy A13",
    "model": "SM-A135U1"
+  },
+  {
+   "device": "a13ve",
+   "name": "Galaxy A13",
+   "model": "SM-A137F"
   },
   {
    "device": "a13x",
@@ -163121,6 +163141,11 @@
    "model": "Note 6P"
   },
   {
+   "device": "Note_6T",
+   "name": "Note 6T",
+   "model": "Note 6T"
+  },
+  {
    "device": "Note_8",
    "name": "Note 8",
    "model": "Note 8"
@@ -163645,6 +163670,11 @@
    "device": "BISON",
    "name": "BISON",
    "model": "BISON"
+  },
+  {
+   "device": "BISON_2",
+   "name": "BISON 2",
+   "model": "RP04"
   },
   {
    "device": "BISON_GT",

@@ -29414,6 +29414,11 @@
    "model": "A55"
   },
   {
+   "brand": "Hisense",
+   "device": "songshan",
+   "model": "Smart TV"
+  },
+  {
    "brand": "Itel",
    "device": "itel-W6003",
    "model": "itel W6003"
@@ -74629,6 +74634,13 @@
    "brand": "Umidigi",
    "device": "A5_Pro",
    "model": "A5_Pro"
+  }
+ ],
+ "A65": [
+  {
+   "brand": "Hisense",
+   "device": "songshan",
+   "model": "SmartTV 4K FFM"
   }
  ],
  "A6H/E6H/A6600H/A6500H/E7H/A6HA": [
@@ -121475,6 +121487,13 @@
    "model": "HE2704"
   }
  ],
+ "HP4411": [
+  {
+   "brand": "MauritiusTelcom",
+   "device": "HY44G",
+   "model": "HP4411"
+  }
+ ],
  "MS453": [
   {
    "brand": "Maxcom",
@@ -162978,6 +162997,11 @@
    "brand": "Samsung",
    "device": "a13",
    "model": "SM-A135U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a13ve",
+   "model": "SM-A137F"
   }
  ],
  "Galaxy A13 5G": [
@@ -205398,6 +205422,13 @@
    "model": "Note 6P"
   }
  ],
+ "Note 6T": [
+  {
+   "brand": "Ulefone",
+   "device": "Note_6T",
+   "model": "Note 6T"
+  }
+ ],
  "Note 8": [
   {
    "brand": "Ulefone",
@@ -205988,6 +206019,13 @@
    "brand": "Umidigi",
    "device": "BISON",
    "model": "BISON"
+  }
+ ],
+ "BISON 2": [
+  {
+   "brand": "Umidigi",
+   "device": "BISON_2",
+   "model": "RP04"
   }
  ],
  "BISON GT EEA": [

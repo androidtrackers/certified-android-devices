@@ -31902,6 +31902,11 @@
    "model": "MagentaTV ONE"
   },
   {
+   "brand": "MauritiusTelcom",
+   "name": "HP4411",
+   "model": "HP4411"
+  },
+  {
    "brand": "T-Mobile-CZ-Telekom-SK",
    "name": "TV Box HY4403",
    "model": "TV Box"
@@ -70330,6 +70335,16 @@
   }
  ],
  "songshan": [
+  {
+   "brand": "Hisense",
+   "name": "A55",
+   "model": "Smart TV"
+  },
+  {
+   "brand": "Hisense",
+   "name": "A65",
+   "model": "SmartTV 4K FFM"
+  },
   {
    "brand": "Hisense",
    "name": "A6H/E6H/A6600H/A6500H/E7H/A6HA",
@@ -162588,6 +162603,13 @@
    "model": "SM-A135U1"
   }
  ],
+ "a13ve": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A13",
+   "model": "SM-A137F"
+  }
+ ],
  "a13x": [
   {
    "brand": "Samsung",
@@ -207591,6 +207613,13 @@
    "model": "Note 6P"
   }
  ],
+ "Note_6T": [
+  {
+   "brand": "Ulefone",
+   "name": "Note 6T",
+   "model": "Note 6T"
+  }
+ ],
  "Note_8": [
   {
    "brand": "Ulefone",
@@ -208177,6 +208206,13 @@
    "brand": "Umidigi",
    "name": "BISON",
    "model": "BISON"
+  }
+ ],
+ "BISON_2": [
+  {
+   "brand": "Umidigi",
+   "name": "BISON 2",
+   "model": "RP04"
   }
  ],
  "BISON_GT": [

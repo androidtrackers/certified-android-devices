@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-06-16
+Last sync is 2022-06-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9415,6 +9415,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|A2T|HS8953QC|Hisense A2T|
 |Hisense|A5|HLTE202N|HLTE202N|
 |Hisense|A5 Pro|HLTE203T|HLTE203T|
+|Hisense|A55|songshan|Smart TV|
+|Hisense|A65|songshan|SmartTV 4K FFM|
 |Hisense|A6H/E6H/A6600H/A6500H/E7H/A6HA|songshan|SmartTV 4K FFM|
 |Hisense|A6L|HLTE730T|HLTE730T|
 |Hisense|AGM  X2|HS8976QC|AGM X2|
@@ -17559,6 +17561,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Master-G|"Chile|Bolivia|Peru"|
 |Master-G|Smart TV|mateo|2K SA Smart TV|
 |MauritiusTelcom|HE2704|MTIPTVBox|HE2704|
+|MauritiusTelcom|HP4411|HY44G|HP4411|
 |Maxcom|MS453|MS453|MS453|
 |Maxcom|MS457|MS457|MS457|
 |Maxcom|MS457Orange|MS457Orange|MS457Orange|
@@ -24370,6 +24373,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A13|a13|SM-A135N|
 |Samsung|Galaxy A13|a13|SM-A135U|
 |Samsung|Galaxy A13|a13|SM-A135U1|
+|Samsung|Galaxy A13|a13ve|SM-A137F|
 |Samsung|Galaxy A13 5G|a13x|SM-A136B|
 |Samsung|Galaxy A13 5G|a13x|SM-A136M|
 |Samsung|Galaxy A13 5G|a13x|SM-A136S|
@@ -31785,6 +31789,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Note 13P|Note_13P|Note 13P|
 |Ulefone|Note 6|Note_6|Note 6|
 |Ulefone|Note 6P|Note_6P|Note 6P|
+|Ulefone|Note 6T|Note_6T|Note 6T|
 |Ulefone|Note 8|Note_8|Note 8|
 |Ulefone|Note 8P|Note_8P|Note 8P|
 |Ulefone|Note 9P|Note_9P|Note 9P|
@@ -31889,6 +31894,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|A9 Pro_EEA|A9_Pro|A9 Pro|
 |Umidigi|AblePad S EEA|AblePad_S|MT03|
 |Umidigi|BISON|BISON|BISON|
+|Umidigi|BISON 2|BISON_2|RP04|
 |Umidigi|BISON GT EEA|BISON_GT|BISON GT|
 |Umidigi|BISON Pro|BISON_Pro|BISON Pro|
 |Umidigi|BISON Pro EEA|BISON_Pro|BISON Pro|
