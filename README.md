@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-06-17
+Last sync is 2022-06-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -16811,6 +16811,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|d-42A|d-42A|d-42A|
 |Lenovo|ideatv S52|ideatv_S52|ideatv S52|
 |Lenovo|ideatvK82 60LX750A  52LX750A  46LX750A  60LX850A  70LX850A 80LX850A|ideatv_K82|ideatv K82|
+|Lenovo|moto tab g62|XT2261-1|XT2261-1|
+|Lenovo|moto tab g62 LTE|XT2261-2|XT2261-2|
 |Lenovo|启天K10 Pro|TB128FU|TB128FU|
 |Lenovo|启天K10 Pro|TB128XC|TB128XC|
 |Lenovo|启天K10 Pro|TB223FC|Lenovo TB223FC|

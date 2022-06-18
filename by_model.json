@@ -117361,6 +117361,20 @@
    "device": "ideatv_K82"
   }
  ],
+ "XT2261-1": [
+  {
+   "brand": "Lenovo",
+   "name": "moto tab g62",
+   "device": "XT2261-1"
+  }
+ ],
+ "XT2261-2": [
+  {
+   "brand": "Lenovo",
+   "name": "moto tab g62 LTE",
+   "device": "XT2261-2"
+  }
+ ],
  "TB128FU": [
   {
    "brand": "Lenovo",

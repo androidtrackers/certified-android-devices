@@ -86335,6 +86335,16 @@
    "model": "ideatv K82"
   },
   {
+   "device": "XT2261-1",
+   "name": "moto tab g62",
+   "model": "XT2261-1"
+  },
+  {
+   "device": "XT2261-2",
+   "name": "moto tab g62 LTE",
+   "model": "XT2261-2"
+  },
+  {
    "device": "TB128FU",
    "name": "启天K10 Pro",
    "model": "TB128FU"
