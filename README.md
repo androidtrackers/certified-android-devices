@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-06-18
+Last sync is 2022-06-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -184,6 +184,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AT&T|U304AA|U304AA|U304AA|
 |AT&T|U318AA|U318AA|U318AA|
 |AT&T|U319AA|U319AA|U319AA|
+|AT&T|U626AA|U626AA|U626AA|
 |AT&T|U705AA|U705AA|U705AA|
 |ATEAM|A1010|A1010|A1010|
 |ATEAM|A801|A801|A801|
