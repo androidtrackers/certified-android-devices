@@ -349,6 +349,70 @@
    "device": "Ai-ES1059"
   }
  ],
+ "X20": [
+  {
+   "brand": "ABCTECH",
+   "name": "X20",
+   "device": "X20"
+  },
+  {
+   "brand": "Cubot",
+   "name": "X20",
+   "device": "X20"
+  },
+  {
+   "brand": "Doogee",
+   "name": "X20",
+   "device": "X20"
+  },
+  {
+   "brand": "LiteTEL",
+   "name": "X20",
+   "device": "X20"
+  },
+  {
+   "brand": "bontel",
+   "name": "X20",
+   "device": "X20"
+  }
+ ],
+ "X5": [
+  {
+   "brand": "ABCTECH",
+   "name": "X5",
+   "device": "X5"
+  },
+  {
+   "brand": "CORN",
+   "name": "X5",
+   "device": "X5S"
+  },
+  {
+   "brand": "KGTEL",
+   "name": "X5",
+   "device": "X5A"
+  },
+  {
+   "brand": "Rakioo",
+   "name": "X5",
+   "device": "X5"
+  },
+  {
+   "brand": "SPC Mobile",
+   "name": "X5",
+   "device": "X5"
+  },
+  {
+   "brand": "Selfix",
+   "name": "X5",
+   "device": "X5"
+  },
+  {
+   "brand": "Stylo",
+   "name": "X5",
+   "device": "X5"
+  }
+ ],
  "BUZZ 3": [
   {
    "brand": "ACE (Global)",
@@ -3230,33 +3294,6 @@
    "brand": "Accent",
    "name": "TANK_P55",
    "device": "TANK_P55"
-  }
- ],
- "X20": [
-  {
-   "brand": "Accent",
-   "name": "X20",
-   "device": "X20"
-  },
-  {
-   "brand": "Cubot",
-   "name": "X20",
-   "device": "X20"
-  },
-  {
-   "brand": "Doogee",
-   "name": "X20",
-   "device": "X20"
-  },
-  {
-   "brand": "LiteTEL",
-   "name": "X20",
-   "device": "X20"
-  },
-  {
-   "brand": "bontel",
-   "name": "X20",
-   "device": "X20"
   }
  ],
  "fm502": [
@@ -29495,38 +29532,6 @@
    "device": "Star8_3G"
   }
  ],
- "X5": [
-  {
-   "brand": "CORN",
-   "name": "X5",
-   "device": "X5S"
-  },
-  {
-   "brand": "KGTEL",
-   "name": "X5",
-   "device": "X5A"
-  },
-  {
-   "brand": "Rakioo",
-   "name": "X5",
-   "device": "X5"
-  },
-  {
-   "brand": "SPC Mobile",
-   "name": "X5",
-   "device": "X5"
-  },
-  {
-   "brand": "Selfix",
-   "name": "X5",
-   "device": "X5"
-  },
-  {
-   "brand": "Stylo",
-   "name": "X5",
-   "device": "X5"
-  }
- ],
  "X60": [
   {
    "brand": "CORN",
@@ -37899,6 +37904,13 @@
    "device": "KINGKONG_MINI2"
   }
  ],
+ "KINGKONG MINI2 Pro": [
+  {
+   "brand": "Cubot",
+   "name": "KINGKONG MINI2 Pro",
+   "device": "KINGKONG_MINI2_Pro"
+  }
+ ],
  "KINGKONG_MINI2_Pro": [
   {
    "brand": "Cubot",
@@ -40304,6 +40316,11 @@
    "brand": "Daihatsu",
    "name": "A-DA",
    "device": "balticaAA"
+  },
+  {
+   "brand": "Honda",
+   "name": "A-DA",
+   "device": "yebisuFA"
   },
   {
    "brand": "Honda",
@@ -160996,6 +161013,13 @@
    "device": "lime"
   }
  ],
+ "M2004J19I": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 9 Prime",
+   "device": "lancelot"
+  }
+ ],
  "220233L2G": [
   {
    "brand": "Redmi",
@@ -169293,6 +169317,13 @@
    "device": "a22x"
   }
  ],
+ "SM-M236L": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Buddy2",
+   "device": "m23xq"
+  }
+ ],
  "SM-C5000": [
   {
    "brand": "Samsung",
@@ -172985,13 +173016,6 @@
   }
  ],
  "SM-M236B": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy M23 5G",
-   "device": "m23xq"
-  }
- ],
- "SM-M236L": [
   {
    "brand": "Samsung",
    "name": "Galaxy M23 5G",
@@ -176968,6 +176992,13 @@
    "device": "r9q"
   }
  ],
+ "SM-G990B2": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 FE 5G",
+   "device": "r9q"
+  }
+ ],
  "SM-G990U": [
   {
    "brand": "Samsung",
@@ -176982,7 +177013,28 @@
    "device": "r9q"
   }
  ],
+ "SM-G990U2": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 FE 5G",
+   "device": "r9q"
+  }
+ ],
+ "SM-G990U3": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 FE 5G",
+   "device": "r9q"
+  }
+ ],
  "SM-G990W": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 FE 5G",
+   "device": "r9q"
+  }
+ ],
+ "SM-G990W2": [
   {
    "brand": "Samsung",
    "name": "Galaxy S21 FE 5G",
@@ -183314,6 +183366,13 @@
    "device": "xcoverpro2"
   }
  ],
+ "SM-G736W": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy XCover6 Pro",
+   "device": "xcoverpro2"
+  }
+ ],
  "GT-S5690": [
   {
    "brand": "Samsung",
@@ -186489,6 +186548,20 @@
    "brand": "Sharp",
    "name": "AQUOS wish",
    "device": "YLI"
+  }
+ ],
+ "SH-51C": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS wish2",
+   "device": "SH-51C"
+  }
+ ],
+ "A204SH": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS wish2",
+   "device": "SXI"
   }
  ],
  "801SH": [

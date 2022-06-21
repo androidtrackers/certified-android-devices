@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-06-20
+Last sync is 2022-06-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -41,6 +41,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |A1|A1 Smart N9|VFD720|VFD 720|
 |A1|ADT-3|adt3|ADT-3|
 |A1|Ai-ES1059|Ai-ES1059|Ai-ES1059|
+|ABCTECH|X20|X20|X20|
+|ABCTECH|X5|X5|X5|
 |ACE (Global)|BUZZ 3|BUZZ_3|BUZZ 3|
 |ACE (Global)|BUZZ 3 Plus|BUZZ_3_Plus|BUZZ 3 Plus|
 |ACE (Global)|URBAN 3|URBAN_3|URBAN 3|
@@ -289,7 +291,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Accent|Pearl_A4|Pearl_A4|Pearl A4|
 |Accent|SPEED S8|SPEED_S8|SPEED_S8|
 |Accent|TANK_P55|TANK_P55|TANK_P55|
-|Accent|X20|X20|X20|
 |Access|fm502|fm502|fm502|
 |Acegame S.A.|NEONHD/NEONGo|NEON|NEONHD/NEONGo|
 |Acegame S.A.|One_Mundial|One_Mundial|One_Mundial|
@@ -5040,6 +5041,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|KINGKONG 6|KINGKONG_6|KINGKONG 6|
 |Cubot|KINGKONG 7|KINGKONG_7|KINGKONG 7|
 |Cubot|KINGKONG MINI2|KINGKONG_MINI2|KINGKONG MINI2|
+|Cubot|KINGKONG MINI2 Pro|KINGKONG_MINI2_Pro|KINGKONG MINI2 Pro|
 |Cubot|KINGKONG MINI2 Pro|KINGKONG_MINI2_Pro|KINGKONG_MINI2_Pro|
 |Cubot|KINGKONG_MINI|KINGKONG_MINI|KINGKONG_MINI|
 |Cubot|KING_KONG_3|KING_KONG_3|KING_KONG_3|
@@ -10131,6 +10133,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honda|A-DA|yebisuBA|MY20ADA|
 |Honda|A-DA|yebisuCA|MY21ADA|
 |Honda|A-DA|yebisuDA|MY21ADA|
+|Honda|A-DA|yebisuFA|MY22ADA|
 |Honda|A-DA|yebisuGA|MY22ADA|
 |Honda|A-DA|yebisuHA|MY22ADA|
 |Honda|Accord|koelsch|MY16ADA|
@@ -23545,6 +23548,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 9|lancelot|M2004J19G|
 |Redmi|Redmi 9 Power|lime|M2010J19SI|
 |Redmi|Redmi 9 Prime|lancelot|M2004J19C|
+|Redmi|Redmi 9 Prime|lancelot|M2004J19I|
 |Redmi|Redmi 9A|dandelion|220233L2G|
 |Redmi|Redmi 9A|dandelion|M2006C3LC|
 |Redmi|Redmi 9A|dandelion|M2006C3LG|
@@ -24787,6 +24791,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Beam|GT-I8250|GT-I8250|
 |Samsung|Galaxy Beam|GT-I8530|GT-I8530|
 |Samsung|Galaxy Buddy|a22x|SM-A226L|
+|Samsung|Galaxy Buddy2|m23xq|SM-M236L|
 |Samsung|Galaxy C5|c5ltechn|SM-C5000|
 |Samsung|Galaxy C5|c5ltechn|SM-C500X|
 |Samsung|Galaxy C5|c5pltechn|SM-C5000|
@@ -25318,7 +25323,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M21 2021 Edition|m21|SM-M215G|
 |Samsung|Galaxy M22|m22|SM-M225FV|
 |Samsung|Galaxy M23 5G|m23xq|SM-M236B|
-|Samsung|Galaxy M23 5G|m23xq|SM-M236L|
 |Samsung|Galaxy M23 5G|m23xq|SM-M236Q|
 |Samsung|Galaxy M30|m30lte|SM-M305F|
 |Samsung|Galaxy M30|m30lte|SM-M305M|
@@ -25902,9 +25906,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S21 5G|o1s|SM-G991N|
 |Samsung|Galaxy S21 FE 5G|r9q|SM-G9900|
 |Samsung|Galaxy S21 FE 5G|r9q|SM-G990B|
+|Samsung|Galaxy S21 FE 5G|r9q|SM-G990B2|
 |Samsung|Galaxy S21 FE 5G|r9q|SM-G990U|
 |Samsung|Galaxy S21 FE 5G|r9q|SM-G990U1|
+|Samsung|Galaxy S21 FE 5G|r9q|SM-G990U2|
+|Samsung|Galaxy S21 FE 5G|r9q|SM-G990U3|
 |Samsung|Galaxy S21 FE 5G|r9q|SM-G990W|
+|Samsung|Galaxy S21 FE 5G|r9q|SM-G990W2|
 |Samsung|Galaxy S21 FE 5G|r9s|SM-G990E|
 |Samsung|Galaxy S21 Ultra 5G|SC-52B|SC-52B|
 |Samsung|Galaxy S21 Ultra 5G|p3q|SM-G9980|
@@ -26831,6 +26839,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy XCover4|xcover4lte|SM-G390F|
 |Samsung|Galaxy XCover6 Pro|xcoverpro2|SM-G736B|
 |Samsung|Galaxy XCover6 Pro|xcoverpro2|SM-G736U|
+|Samsung|Galaxy XCover6 Pro|xcoverpro2|SM-G736W|
 |Samsung|Galaxy Xcover|GT-S5690|GT-S5690|
 |Samsung|Galaxy Xcover|GT-S5690L|GT-S5690L|
 |Samsung|Galaxy Xcover|GT-S5690M|GT-S5690M|
@@ -27305,6 +27314,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS wish|SX1|SH-M20|
 |Sharp|AQUOS wish|SX1|SH-WS10|
 |Sharp|AQUOS wish|YLI|SHG06|
+|Sharp|AQUOS wish2|SH-51C|SH-51C|
+|Sharp|AQUOS wish2|SXI|A204SH|
 |Sharp|AQUOS zero|SG801SH|801SH|
 |Sharp|AQUOS zero|SH-Z10|SH-Z10|
 |Sharp|AQUOS zero|SH-Z10A|SH-Z10A|

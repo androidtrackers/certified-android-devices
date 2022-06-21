@@ -6092,6 +6092,90 @@
    "model": "Ai-ES1059"
   }
  ],
+ "X20": [
+  {
+   "brand": "ABCTECH",
+   "device": "X20",
+   "model": "X20"
+  },
+  {
+   "brand": "Cubot",
+   "device": "X20",
+   "model": "X20"
+  },
+  {
+   "brand": "Doogee",
+   "device": "X20",
+   "model": "X20"
+  },
+  {
+   "brand": "LiteTEL",
+   "device": "X20",
+   "model": "X20"
+  },
+  {
+   "brand": "bontel",
+   "device": "X20",
+   "model": "X20"
+  }
+ ],
+ "X5": [
+  {
+   "brand": "ABCTECH",
+   "device": "X5",
+   "model": "X5"
+  },
+  {
+   "brand": "CORN",
+   "device": "X5S",
+   "model": "X5"
+  },
+  {
+   "brand": "Gtel",
+   "device": "Gtel_X5",
+   "model": "Gtel X5"
+  },
+  {
+   "brand": "KGTEL",
+   "device": "X5A",
+   "model": "X5"
+  },
+  {
+   "brand": "LGE",
+   "device": "phoenix_sprout",
+   "model": "X5-LG"
+  },
+  {
+   "brand": "Nuu",
+   "device": "NUU_X5",
+   "model": "NUU_X5"
+  },
+  {
+   "brand": "Rakioo",
+   "device": "X5",
+   "model": "X5"
+  },
+  {
+   "brand": "SPC Mobile",
+   "device": "X5",
+   "model": "X5"
+  },
+  {
+   "brand": "Selfix",
+   "device": "X5",
+   "model": "X5"
+  },
+  {
+   "brand": "Stylo",
+   "device": "X5",
+   "model": "X5"
+  },
+  {
+   "brand": "Vivo",
+   "device": "X5",
+   "model": "vivo X5"
+  }
+ ],
  "BUZZ 3": [
   {
    "brand": "ACE (Global)",
@@ -9488,33 +9572,6 @@
    "brand": "Accent",
    "device": "TANK_P55",
    "model": "TANK_P55"
-  }
- ],
- "X20": [
-  {
-   "brand": "Accent",
-   "device": "X20",
-   "model": "X20"
-  },
-  {
-   "brand": "Cubot",
-   "device": "X20",
-   "model": "X20"
-  },
-  {
-   "brand": "Doogee",
-   "device": "X20",
-   "model": "X20"
-  },
-  {
-   "brand": "LiteTEL",
-   "device": "X20",
-   "model": "X20"
-  },
-  {
-   "brand": "bontel",
-   "device": "X20",
-   "model": "X20"
   }
  ],
  "fm502": [
@@ -35830,58 +35887,6 @@
    "model": "Star8_3G"
   }
  ],
- "X5": [
-  {
-   "brand": "CORN",
-   "device": "X5S",
-   "model": "X5"
-  },
-  {
-   "brand": "Gtel",
-   "device": "Gtel_X5",
-   "model": "Gtel X5"
-  },
-  {
-   "brand": "KGTEL",
-   "device": "X5A",
-   "model": "X5"
-  },
-  {
-   "brand": "LGE",
-   "device": "phoenix_sprout",
-   "model": "X5-LG"
-  },
-  {
-   "brand": "Nuu",
-   "device": "NUU_X5",
-   "model": "NUU_X5"
-  },
-  {
-   "brand": "Rakioo",
-   "device": "X5",
-   "model": "X5"
-  },
-  {
-   "brand": "SPC Mobile",
-   "device": "X5",
-   "model": "X5"
-  },
-  {
-   "brand": "Selfix",
-   "device": "X5",
-   "model": "X5"
-  },
-  {
-   "brand": "Stylo",
-   "device": "X5",
-   "model": "X5"
-  },
-  {
-   "brand": "Vivo",
-   "device": "X5",
-   "model": "vivo X5"
-  }
- ],
  "X60": [
   {
    "brand": "CORN",
@@ -44667,6 +44672,11 @@
   {
    "brand": "Cubot",
    "device": "KINGKONG_MINI2_Pro",
+   "model": "KINGKONG MINI2 Pro"
+  },
+  {
+   "brand": "Cubot",
+   "device": "KINGKONG_MINI2_Pro",
    "model": "KINGKONG_MINI2_Pro"
   }
  ],
@@ -47119,6 +47129,11 @@
    "brand": "Honda",
    "device": "yebisuDA",
    "model": "MY21ADA"
+  },
+  {
+   "brand": "Honda",
+   "device": "yebisuFA",
+   "model": "MY22ADA"
   },
   {
    "brand": "Honda",
@@ -158101,6 +158116,11 @@
    "brand": "Redmi",
    "device": "lancelot",
    "model": "M2004J19C"
+  },
+  {
+   "brand": "Redmi",
+   "device": "lancelot",
+   "model": "M2004J19I"
   }
  ],
  "Redmi 9A": [
@@ -165218,6 +165238,13 @@
    "model": "SM-A226L"
   }
  ],
+ "Galaxy Buddy2": [
+  {
+   "brand": "Samsung",
+   "device": "m23xq",
+   "model": "SM-M236L"
+  }
+ ],
  "Galaxy C5": [
   {
    "brand": "Samsung",
@@ -168171,11 +168198,6 @@
    "brand": "Samsung",
    "device": "m23xq",
    "model": "SM-M236B"
-  },
-  {
-   "brand": "Samsung",
-   "device": "m23xq",
-   "model": "SM-M236L"
   },
   {
    "brand": "Samsung",
@@ -171377,6 +171399,11 @@
   {
    "brand": "Samsung",
    "device": "r9q",
+   "model": "SM-G990B2"
+  },
+  {
+   "brand": "Samsung",
+   "device": "r9q",
    "model": "SM-G990U"
   },
   {
@@ -171387,7 +171414,22 @@
   {
    "brand": "Samsung",
    "device": "r9q",
+   "model": "SM-G990U2"
+  },
+  {
+   "brand": "Samsung",
+   "device": "r9q",
+   "model": "SM-G990U3"
+  },
+  {
+   "brand": "Samsung",
+   "device": "r9q",
    "model": "SM-G990W"
+  },
+  {
+   "brand": "Samsung",
+   "device": "r9q",
+   "model": "SM-G990W2"
   },
   {
    "brand": "Samsung",
@@ -176384,6 +176426,11 @@
    "brand": "Samsung",
    "device": "xcoverpro2",
    "model": "SM-G736U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "xcoverpro2",
+   "model": "SM-G736W"
   }
  ],
  "Galaxy Xcover": [
@@ -179323,6 +179370,18 @@
    "brand": "Sharp",
    "device": "YLI",
    "model": "SHG06"
+  }
+ ],
+ "AQUOS wish2": [
+  {
+   "brand": "Sharp",
+   "device": "SH-51C",
+   "model": "SH-51C"
+  },
+  {
+   "brand": "Sharp",
+   "device": "SXI",
+   "model": "A204SH"
   }
  ],
  "AQUOS zero": [

@@ -292,6 +292,75 @@
    "model": "Ai-ES1059"
   }
  ],
+ "X20": [
+  {
+   "brand": "ABCTECH",
+   "name": "X20",
+   "model": "X20"
+  },
+  {
+   "brand": "Cubot",
+   "name": "X20",
+   "model": "X20"
+  },
+  {
+   "brand": "Doogee",
+   "name": "X20",
+   "model": "X20"
+  },
+  {
+   "brand": "LiteTEL",
+   "name": "X20",
+   "model": "X20"
+  },
+  {
+   "brand": "Neffos",
+   "name": "Neffos X20",
+   "model": "Neffos X20"
+  },
+  {
+   "brand": "Qsmart",
+   "name": "QSmart X20",
+   "model": "QSmart X20"
+  },
+  {
+   "brand": "bontel",
+   "name": "X20",
+   "model": "X20"
+  }
+ ],
+ "X5": [
+  {
+   "brand": "ABCTECH",
+   "name": "X5",
+   "model": "X5"
+  },
+  {
+   "brand": "Rakioo",
+   "name": "X5",
+   "model": "X5"
+  },
+  {
+   "brand": "SPC Mobile",
+   "name": "X5",
+   "model": "X5"
+  },
+  {
+   "brand": "Selfix",
+   "name": "X5",
+   "model": "X5"
+  },
+  {
+   "brand": "Stylo",
+   "name": "X5",
+   "model": "X5"
+  },
+  {
+   "brand": "Vivo",
+   "name": "X5",
+   "model": "vivo X5"
+  }
+ ],
  "BUZZ_3": [
   {
    "brand": "ACE (Global)",
@@ -4457,43 +4526,6 @@
    "brand": "Accent",
    "name": "TANK_P55",
    "model": "TANK_P55"
-  }
- ],
- "X20": [
-  {
-   "brand": "Accent",
-   "name": "X20",
-   "model": "X20"
-  },
-  {
-   "brand": "Cubot",
-   "name": "X20",
-   "model": "X20"
-  },
-  {
-   "brand": "Doogee",
-   "name": "X20",
-   "model": "X20"
-  },
-  {
-   "brand": "LiteTEL",
-   "name": "X20",
-   "model": "X20"
-  },
-  {
-   "brand": "Neffos",
-   "name": "Neffos X20",
-   "model": "Neffos X20"
-  },
-  {
-   "brand": "Qsmart",
-   "name": "QSmart X20",
-   "model": "QSmart X20"
-  },
-  {
-   "brand": "bontel",
-   "name": "X20",
-   "model": "X20"
   }
  ],
  "fm502": [
@@ -40694,6 +40726,11 @@
   {
    "brand": "Cubot",
    "name": "KINGKONG MINI2 Pro",
+   "model": "KINGKONG MINI2 Pro"
+  },
+  {
+   "brand": "Cubot",
+   "name": "KINGKONG MINI2 Pro",
    "model": "KINGKONG_MINI2_Pro"
   }
  ],
@@ -74101,6 +74138,13 @@
    "brand": "Honda",
    "name": "A-DA",
    "model": "MY21ADA"
+  }
+ ],
+ "yebisuFA": [
+  {
+   "brand": "Honda",
+   "name": "A-DA",
+   "model": "MY22ADA"
   }
  ],
  "yebisuGA": [
@@ -156336,33 +156380,6 @@
    "model": "RAINBOW"
   }
  ],
- "X5": [
-  {
-   "brand": "Rakioo",
-   "name": "X5",
-   "model": "X5"
-  },
-  {
-   "brand": "SPC Mobile",
-   "name": "X5",
-   "model": "X5"
-  },
-  {
-   "brand": "Selfix",
-   "name": "X5",
-   "model": "X5"
-  },
-  {
-   "brand": "Stylo",
-   "name": "X5",
-   "model": "X5"
-  },
-  {
-   "brand": "Vivo",
-   "name": "X5",
-   "model": "vivo X5"
-  }
- ],
  "C330": [
   {
    "brand": "Rakuten",
@@ -157683,6 +157700,11 @@
    "brand": "Redmi",
    "name": "Redmi 9 Prime",
    "model": "M2004J19C"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 9 Prime",
+   "model": "M2004J19I"
   }
  ],
  "lime": [
@@ -165083,6 +165105,28 @@
    "model": "GT-I8530"
   }
  ],
+ "m23xq": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Buddy2",
+   "model": "SM-M236L"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy F23 5G",
+   "model": "SM-E236B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M23 5G",
+   "model": "SM-M236B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M23 5G",
+   "model": "SM-M236Q"
+  }
+ ],
  "c5ltechn": [
   {
    "brand": "Samsung",
@@ -165886,28 +165930,6 @@
    "brand": "Samsung",
    "name": "Galaxy F22",
    "model": "SM-E225F"
-  }
- ],
- "m23xq": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy F23 5G",
-   "model": "SM-E236B"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy M23 5G",
-   "model": "SM-M236B"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy M23 5G",
-   "model": "SM-M236L"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy M23 5G",
-   "model": "SM-M236Q"
   }
  ],
  "f41": [
@@ -172182,6 +172204,11 @@
   {
    "brand": "Samsung",
    "name": "Galaxy S21 FE 5G",
+   "model": "SM-G990B2"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 FE 5G",
    "model": "SM-G990U"
   },
   {
@@ -172192,7 +172219,22 @@
   {
    "brand": "Samsung",
    "name": "Galaxy S21 FE 5G",
+   "model": "SM-G990U2"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 FE 5G",
+   "model": "SM-G990U3"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 FE 5G",
    "model": "SM-G990W"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S21 FE 5G",
+   "model": "SM-G990W2"
   }
  ],
  "r9s": [
@@ -178073,6 +178115,11 @@
    "brand": "Samsung",
    "name": "Galaxy XCover6 Pro",
    "model": "SM-G736U"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy XCover6 Pro",
+   "model": "SM-G736W"
   }
  ],
  "GT-S5690": [
@@ -181115,6 +181162,20 @@
    "brand": "Sharp",
    "name": "AQUOS wish",
    "model": "SHG06"
+  }
+ ],
+ "SH-51C": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS wish2",
+   "model": "SH-51C"
+  }
+ ],
+ "SXI": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS wish2",
+   "model": "A204SH"
   }
  ],
  "SG801SH": [
