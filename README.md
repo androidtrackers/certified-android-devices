@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-06-21
+Last sync is 2022-06-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -20433,6 +20433,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OMIX|X500|X500|OMIX X500|
 |OMIX|X600|X600|X600|
 |OMIX|X700|X700|OMIX X700|
+|OMIX|X700|X700|X700|
 |ONDA TLC|T7 Pro|T7_PRO|T7_PRO|
 |ONDA TLC|T9 S|T9S|T9S|
 |ONYX|AKA Model A|Model_A|Model A|
@@ -20443,6 +20444,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ORCA|Kuwait|tamachi|ORCA FHD Android TV|
 |ORCA|Kuwait|yeongdeungpo|ORCA UHD Android TV|
 |ORCA|OR-50UX400S|samseong|AI PONT|
+|ORION|Smart TV|longshan|AI PONT|
 |ORION|Smart TV|redwood|AI PONT|
 |OSCAL|C20|C20|C20|
 |OSCAL|C20 Pro|C20_Pro|C20 Pro|
@@ -22455,6 +22457,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Precision Biometric|PBTAB100-1G3|PBTAB100-1G3|PBTAB100-1G3|
 |Precision Biometric|PBTAB100-2G4|PBTAB100-2G4|PBTAB100-2G4|
 |Premier|MAXI 20|MAXI_20|MAXI 20|
+|Premier|Smart TV|longshan|AI PONT|
 |Premier|TAB-7001-16G|TAB-7001-16G|TAB-7001-16G|
 |Premier|TAB-7293-16G|TAB-7293-16G|TAB-7293-16G|
 |Premier|TAB-7304-16G3GS|TAB-7304-16G3GS|TAB-7304-16G3GS|
@@ -23840,6 +23843,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |S-tell|P850|P850|P850|
 |SABA|A11|longshan|AI PONT|
 |SABA|A11|redwood|AI PONT|
+|SABA|Smart TV|longshan|AI PONT IT|
 |SABA|Smart TV|redwood|AI PONT IT|
 |SAELITE|MD1063B|MD1063B|MD1063B|
 |SAGI|E5501|E5501|E5501|
@@ -32649,6 +32653,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivax|Point X502|Point_X502|Point X502|
 |Vivax|Point_X2|Point_X2|Point_X2|
 |Vivax|Point_X503|Point_X503|Point_X503|
+|Vivax|Smart TV|longshan|AI PONT|
 |Vivax|TPC-102_4G_eea|TPC-102_4G|VIVAX TPC-102 4G|
 |Vivax|TPC-704-3G|TPC-704-3G|TPC-704-3G|
 |Vivax|TPC_8043G|TPC_8043G|TPC_8043G|

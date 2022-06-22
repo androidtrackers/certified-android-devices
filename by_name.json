@@ -7119,6 +7119,11 @@
   },
   {
    "brand": "ORION",
+   "device": "longshan",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "ORION",
    "device": "redwood",
    "model": "AI PONT"
   },
@@ -7146,6 +7151,11 @@
    "brand": "Polytron",
    "device": "mateo",
    "model": "2K PA Smart TV"
+  },
+  {
+   "brand": "Premier",
+   "device": "longshan",
+   "model": "AI PONT"
   },
   {
    "brand": "Profilo",
@@ -7216,6 +7226,11 @@
    "brand": "Rindo",
    "device": "samseong",
    "model": "AI PONT"
+  },
+  {
+   "brand": "SABA",
+   "device": "longshan",
+   "model": "AI PONT IT"
   },
   {
    "brand": "SABA",
@@ -7295,6 +7310,11 @@
   {
    "brand": "UNITED TV",
    "device": "redwood",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Vivax",
+   "device": "longshan",
    "model": "AI PONT"
   },
   {
@@ -138705,6 +138725,11 @@
    "brand": "OMIX",
    "device": "X700",
    "model": "OMIX X700"
+  },
+  {
+   "brand": "OMIX",
+   "device": "X700",
+   "model": "X700"
   }
  ],
  "T7 Pro": [

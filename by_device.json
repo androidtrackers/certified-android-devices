@@ -2367,6 +2367,16 @@
    "model": "AI PONT"
   },
   {
+   "brand": "ORION",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Premier",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
    "brand": "Prism",
    "name": "Android TV",
    "model": "AI PONT NA"
@@ -2380,6 +2390,11 @@
    "brand": "SABA",
    "name": "A11",
    "model": "AI PONT"
+  },
+  {
+   "brand": "SABA",
+   "name": "Smart TV",
+   "model": "AI PONT IT"
   },
   {
    "brand": "Strong",
@@ -2400,6 +2415,11 @@
    "brand": "THEHAM",
    "name": "Android TV",
    "model": "AI PONT NA"
+  },
+  {
+   "brand": "Vivax",
+   "name": "Smart TV",
+   "model": "AI PONT"
   },
   {
    "brand": "Vu Televisions",
@@ -138317,6 +138337,11 @@
    "brand": "OMIX",
    "name": "X700",
    "model": "OMIX X700"
+  },
+  {
+   "brand": "OMIX",
+   "name": "X700",
+   "model": "X700"
   }
  ],
  "T7_PRO": [

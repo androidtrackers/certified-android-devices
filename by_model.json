@@ -1644,6 +1644,11 @@
   {
    "brand": "ORION",
    "name": "Smart TV",
+   "device": "longshan"
+  },
+  {
+   "brand": "ORION",
+   "name": "Smart TV",
    "device": "redwood"
   },
   {
@@ -1670,6 +1675,11 @@
    "brand": "Philco",
    "name": "PTV55G71AGBLS-4K-VA",
    "device": "sindorim"
+  },
+  {
+   "brand": "Premier",
+   "name": "Smart TV",
+   "device": "longshan"
   },
   {
    "brand": "Prism",
@@ -1840,6 +1850,11 @@
    "brand": "Vise",
    "name": "32VRCHG5SP",
    "device": "ikebukuro"
+  },
+  {
+   "brand": "Vivax",
+   "name": "Smart TV",
+   "device": "longshan"
   },
   {
    "brand": "Vu Televisions",
@@ -140707,6 +140722,13 @@
    "device": "X700"
   }
  ],
+ "X700": [
+  {
+   "brand": "OMIX",
+   "name": "X700",
+   "device": "X700"
+  }
+ ],
  "T7_PRO": [
   {
    "brand": "ONDA TLC",
@@ -162846,6 +162868,11 @@
   }
  ],
  "AI PONT IT": [
+  {
+   "brand": "SABA",
+   "name": "Smart TV",
+   "device": "longshan"
+  },
   {
    "brand": "SABA",
    "name": "Smart TV",
