@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-06-22
+Last sync is 2022-06-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13598,6 +13598,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|SA|stanford|F VIZZION TV|
 |KTCtv|SA|zhongshan|43FSA|
 |KTCtv|Siera|zhongshan|4K Siera SMART TV|
+|KTCtv|Telsa|zhongshan|Tesla 4K Android TV|
 |KTCtv|Zitro|stanford|40DSA|
 |KTCtv|Zitro|zhongshan|43FSA|
 |KTV|PureKTV|DV8219|Pure|
@@ -20240,6 +20241,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia G50|PHR_sprout|Nokia G50|
 |Nokia|Nokia Steaming Box 8000|HND|Nokia Streaming Box 8000|
 |Nokia|Nokia T20|RDD|Nokia T20|
+|Nokia|Nokia T20|RDDCN|Nokia T20|
 |Nokia|Nokia X10|SCW|Nokia X10|
 |Nokia|Nokia X10|SCW_sprout|Nokia X10|
 |Nokia|Nokia X100|DM5|Nokia X100|
@@ -20949,6 +20951,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Reno7|OP533FL1|CPH2363|
 |Oppo|OPPO Reno7 5G|OPD4A1L1|CPH2371|
 |Oppo|OPPO Reno7 5G/Find X5 Lite|OPD4A1L1|CPH2371|
+|Oppo|OPPO Reno7 A|OP532BL1|A201OP|
+|Oppo|OPPO Reno7 A|OP532BL1|CPH2353|
+|Oppo|OPPO Reno7 A|OP532BL1|OPG04|
 |Oppo|OPPO Reno7/F21 Pro|OP533FL1|CPH2363|
 |Oppo|OPPO Watch|beluga|OPPO Watch|
 |Oppo|OPPO Watch|orca|OPPO Watch|
@@ -30581,6 +30586,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |THANHHUNG_TECHNOLOGY|HERO 9|HERO_9|HERO 9|
 |THE UHD|Android TV|R2|ATV R2|
 |THEHAM|Android TV|longshan|AI PONT NA|
+|THEHAM|THEHAM|zhongshan|Smart UHD TV|
 |THEHAM|UHD Android TV|sindorim|AI PONT|
 |THL|Knight 2|Knight_2|Knight 2|
 |THOMSON_KODAK|PATH_7XPRO|LEDTV32HD|PATH_7XPRO|
@@ -31887,6 +31893,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|A13|A13|MP05|
 |Umidigi|A13 EEA|A13|MP05|
 |Umidigi|A13 Pro|A13_Pro|MP05|
+|Umidigi|A13 Pro 5G|A13_Pro_5G|MP03|
+|Umidigi|A13 Pro 5G EEA|A13_Pro_5G|MP03|
 |Umidigi|A13 Pro EEA|A13_Pro|MP05|
 |Umidigi|A13S|A13S|MP05|
 |Umidigi|A13S EEA|A13S|MP05|
@@ -31913,6 +31921,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|AblePad S EEA|AblePad_S|MT03|
 |Umidigi|BISON|BISON|BISON|
 |Umidigi|BISON 2|BISON_2|RP04|
+|Umidigi|BISON 2 EEA|BISON_2|RP04|
 |Umidigi|BISON GT EEA|BISON_GT|BISON GT|
 |Umidigi|BISON Pro|BISON_Pro|BISON Pro|
 |Umidigi|BISON Pro EEA|BISON_Pro|BISON Pro|

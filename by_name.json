@@ -98461,6 +98461,13 @@
    "model": "4K Siera SMART TV"
   }
  ],
+ "Telsa": [
+  {
+   "brand": "KTCtv",
+   "device": "zhongshan",
+   "model": "Tesla 4K Android TV"
+  }
+ ],
  "Zitro": [
   {
    "brand": "KTCtv",
@@ -137584,6 +137591,11 @@
    "brand": "Nokia",
    "device": "RDD",
    "model": "Nokia T20"
+  },
+  {
+   "brand": "Nokia",
+   "device": "RDDCN",
+   "model": "Nokia T20"
   }
  ],
  "Nokia X10": [
@@ -141569,6 +141581,23 @@
    "brand": "Oppo",
    "device": "OPD4A1L1",
    "model": "CPH2371"
+  }
+ ],
+ "OPPO Reno7 A": [
+  {
+   "brand": "Oppo",
+   "device": "OP532BL1",
+   "model": "A201OP"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP532BL1",
+   "model": "CPH2353"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP532BL1",
+   "model": "OPG04"
   }
  ],
  "OPPO Reno7/F21 Pro": [
@@ -198049,6 +198078,13 @@
    "model": "HERO 9"
   }
  ],
+ "THEHAM": [
+  {
+   "brand": "THEHAM",
+   "device": "zhongshan",
+   "model": "Smart UHD TV"
+  }
+ ],
  "Knight 2": [
   {
    "brand": "THL",
@@ -206007,6 +206043,20 @@
    "model": "MP05"
   }
  ],
+ "A13 Pro 5G": [
+  {
+   "brand": "Umidigi",
+   "device": "A13_Pro_5G",
+   "model": "MP03"
+  }
+ ],
+ "A13 Pro 5G EEA": [
+  {
+   "brand": "Umidigi",
+   "device": "A13_Pro_5G",
+   "model": "MP03"
+  }
+ ],
  "A13 Pro EEA": [
   {
    "brand": "Umidigi",
@@ -206127,6 +206177,13 @@
   }
  ],
  "BISON 2": [
+  {
+   "brand": "Umidigi",
+   "device": "BISON_2",
+   "model": "RP04"
+  }
+ ],
+ "BISON 2 EEA": [
   {
    "brand": "Umidigi",
    "device": "BISON_2",

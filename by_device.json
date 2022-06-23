@@ -1002,6 +1002,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "Telsa",
+   "model": "Tesla 4K Android TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "Zitro",
    "model": "43FSA"
   },
@@ -1014,6 +1019,11 @@
    "brand": "Siragon",
    "name": "SA",
    "model": "SMART TV"
+  },
+  {
+   "brand": "THEHAM",
+   "name": "THEHAM",
+   "model": "Smart UHD TV"
   },
   {
    "brand": "VIZZION",
@@ -137123,6 +137133,13 @@
    "model": "Nokia T20"
   }
  ],
+ "RDDCN": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia T20",
+   "model": "Nokia T20"
+  }
+ ],
  "SCW": [
   {
    "brand": "Nokia",
@@ -141318,6 +141335,23 @@
    "brand": "Oppo",
    "name": "OPPO Reno7 5G/Find X5 Lite",
    "model": "CPH2371"
+  }
+ ],
+ "OP532BL1": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno7 A",
+   "model": "A201OP"
+  },
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno7 A",
+   "model": "CPH2353"
+  },
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno7 A",
+   "model": "OPG04"
   }
  ],
  "beluga": [
@@ -208208,6 +208242,18 @@
    "model": "MP05"
   }
  ],
+ "A13_Pro_5G": [
+  {
+   "brand": "Umidigi",
+   "name": "A13 Pro 5G",
+   "model": "MP03"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "A13 Pro 5G EEA",
+   "model": "MP03"
+  }
+ ],
  "A13S": [
   {
    "brand": "Umidigi",
@@ -208319,6 +208365,11 @@
   {
    "brand": "Umidigi",
    "name": "BISON 2",
+   "model": "RP04"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "BISON 2 EEA",
    "model": "RP04"
   }
  ],

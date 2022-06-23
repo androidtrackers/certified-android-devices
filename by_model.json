@@ -95846,6 +95846,11 @@
    "brand": "KTCtv",
    "name": "Electroman",
    "device": "zhongshan"
+  },
+  {
+   "brand": "THEHAM",
+   "name": "THEHAM",
+   "device": "zhongshan"
   }
  ],
  "40DNA": [
@@ -95917,6 +95922,18 @@
    "brand": "KTCtv",
    "name": "Siera",
    "device": "zhongshan"
+  }
+ ],
+ "Tesla 4K Android TV": [
+  {
+   "brand": "KTCtv",
+   "name": "Telsa",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Tesla",
+   "name": "EU",
+   "device": "yeongdeungpo"
   }
  ],
  "Pure": [
@@ -139503,6 +139520,11 @@
    "brand": "Nokia",
    "name": "Nokia T20",
    "device": "RDD"
+  },
+  {
+   "brand": "Nokia",
+   "name": "Nokia T20",
+   "device": "RDDCN"
   }
  ],
  "Nokia X10": [
@@ -144091,6 +144113,27 @@
    "brand": "Oppo",
    "name": "OPPO Reno7 5G/Find X5 Lite",
    "device": "OPD4A1L1"
+  }
+ ],
+ "A201OP": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno7 A",
+   "device": "OP532BL1"
+  }
+ ],
+ "CPH2353": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno7 A",
+   "device": "OP532BL1"
+  }
+ ],
+ "OPG04": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno7 A",
+   "device": "OP532BL1"
   }
  ],
  "OPPO Watch": [
@@ -213073,13 +213116,6 @@
    "device": "tamachi"
   }
  ],
- "Tesla 4K Android TV": [
-  {
-   "brand": "Tesla",
-   "name": "EU",
-   "device": "yeongdeungpo"
-  }
- ],
  "Tesla Android TV": [
   {
    "brand": "Tesla",
@@ -216361,6 +216397,18 @@
    "device": "A13S"
   }
  ],
+ "MP03": [
+  {
+   "brand": "Umidigi",
+   "name": "A13 Pro 5G",
+   "device": "A13_Pro_5G"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "A13 Pro 5G EEA",
+   "device": "A13_Pro_5G"
+  }
+ ],
  "A3S": [
   {
    "brand": "Umidigi",
@@ -216471,6 +216519,11 @@
   {
    "brand": "Umidigi",
    "name": "BISON 2",
+   "device": "BISON_2"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "BISON 2 EEA",
    "device": "BISON_2"
   }
  ],

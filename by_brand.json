@@ -70058,6 +70058,11 @@
    "model": "4K Siera SMART TV"
   },
   {
+   "device": "zhongshan",
+   "name": "Telsa",
+   "model": "Tesla 4K Android TV"
+  },
+  {
    "device": "stanford",
    "name": "Zitro",
    "model": "40DSA"
@@ -104040,6 +104045,11 @@
    "model": "Nokia T20"
   },
   {
+   "device": "RDDCN",
+   "name": "Nokia T20",
+   "model": "Nokia T20"
+  },
+  {
    "device": "SCW",
    "name": "Nokia X10",
    "model": "Nokia X10"
@@ -107719,6 +107729,21 @@
    "device": "OPD4A1L1",
    "name": "OPPO Reno7 5G/Find X5 Lite",
    "model": "CPH2371"
+  },
+  {
+   "device": "OP532BL1",
+   "name": "OPPO Reno7 A",
+   "model": "A201OP"
+  },
+  {
+   "device": "OP532BL1",
+   "name": "OPPO Reno7 A",
+   "model": "CPH2353"
+  },
+  {
+   "device": "OP532BL1",
+   "name": "OPPO Reno7 A",
+   "model": "OPG04"
   },
   {
    "device": "OP533FL1",
@@ -156761,6 +156786,11 @@
    "model": "AI PONT NA"
   },
   {
+   "device": "zhongshan",
+   "name": "THEHAM",
+   "model": "Smart UHD TV"
+  },
+  {
    "device": "sindorim",
    "name": "UHD Android TV",
    "model": "AI PONT"
@@ -163639,6 +163669,16 @@
    "model": "MP05"
   },
   {
+   "device": "A13_Pro_5G",
+   "name": "A13 Pro 5G",
+   "model": "MP03"
+  },
+  {
+   "device": "A13_Pro_5G",
+   "name": "A13 Pro 5G EEA",
+   "model": "MP03"
+  },
+  {
    "device": "A13_Pro",
    "name": "A13 Pro EEA",
    "model": "MP05"
@@ -163766,6 +163806,11 @@
   {
    "device": "BISON_2",
    "name": "BISON 2",
+   "model": "RP04"
+  },
+  {
+   "device": "BISON_2",
+   "name": "BISON 2 EEA",
    "model": "RP04"
   },
   {
