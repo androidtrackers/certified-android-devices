@@ -1166,6 +1166,18 @@
    "model": "RX1"
   }
  ],
+ "AVANGARD": [
+  {
+   "device": "R3",
+   "name": "Android TV",
+   "model": "R3"
+  },
+  {
+   "device": "R4",
+   "name": "Android tv",
+   "model": "R4"
+  }
+ ],
  "AVATEL": [
   {
    "device": "DV8547-KSA",
@@ -8266,6 +8278,16 @@
    "model": "ATV R2"
   },
   {
+   "device": "R3",
+   "name": "Android TV",
+   "model": "R3"
+  },
+  {
+   "device": "R4",
+   "name": "Android TV",
+   "model": "R4"
+  },
+  {
    "device": "shinagawa",
    "name": "Artel 2K TV",
    "model": "Artel 2K TV"
@@ -13082,6 +13104,11 @@
    "device": "Bmobile_BL65_OM",
    "name": "BL65",
    "model": "BL65_OM"
+  },
+  {
+   "device": "Bmobile_BL65_TG",
+   "name": "BL65",
+   "model": "BL65_TG"
   },
   {
    "device": "Bella",
@@ -19400,6 +19427,11 @@
    "device": "R2",
    "name": "Android TV",
    "model": "ATV R2"
+  },
+  {
+   "device": "R3",
+   "name": "Android TV",
+   "model": "R3"
   }
  ],
  "CG Mobile": [
@@ -20514,6 +20546,11 @@
    "device": "R2",
    "name": "Android TV",
    "model": "ATV R2"
+  },
+  {
+   "device": "R3",
+   "name": "Android TV",
+   "model": "R3"
   },
   {
    "device": "R4",
@@ -34117,6 +34154,11 @@
    "model": "ATV R2"
   },
   {
+   "device": "R3",
+   "name": "Android TV",
+   "model": "R3"
+  },
+  {
    "device": "bird77_a_cu_ics2",
    "name": "Black Diamond",
    "model": "Essentielb-Black Diamond"
@@ -37506,6 +37548,11 @@
   }
  ],
  "Fresh": [
+  {
+   "device": "R3",
+   "name": "Android TV",
+   "model": "R3"
+  },
   {
    "device": "R4",
    "name": "Android TV",
@@ -52227,6 +52274,13 @@
    "device": "R1",
    "name": "Android TV",
    "model": "ATV R1"
+  }
+ ],
+ "Home Planet": [
+  {
+   "device": "R4",
+   "name": "Android TV",
+   "model": "R4"
   }
  ],
  "Homeplustv": [
@@ -103940,6 +103994,11 @@
    "model": "Nokia C2"
   },
   {
+   "device": "DMN",
+   "name": "Nokia C2 2nd Edition",
+   "model": "Nokia C2 2nd Edition"
+  },
+  {
    "device": "ARV_CUS",
    "name": "Nokia C2 Tennen",
    "model": "Nokia C2 Tennen"
@@ -103953,6 +104012,21 @@
    "device": "SUS",
    "name": "Nokia C20 Plus",
    "model": "Nokia C20 Plus"
+  },
+  {
+   "device": "COR",
+   "name": "Nokia C21",
+   "model": "Nokia C21"
+  },
+  {
+   "device": "HPE",
+   "name": "Nokia C21 Plus",
+   "model": "Hope"
+  },
+  {
+   "device": "HPE",
+   "name": "Nokia C21 Plus",
+   "model": "Nokia C21 Plus"
   },
   {
    "device": "GMR",
@@ -109340,6 +109414,16 @@
    "device": "R2",
    "name": "Android TV",
    "model": "ATV R2"
+  },
+  {
+   "device": "R3",
+   "name": "Android TV",
+   "model": "R3"
+  },
+  {
+   "device": "R4",
+   "name": "Android TV",
+   "model": "R4"
   },
   {
    "device": "shibuya",
@@ -141749,6 +141833,11 @@
    "model": "ATV R2"
   },
   {
+   "device": "R3",
+   "name": "Android TV",
+   "model": "R3"
+  },
+  {
    "device": "sunnyvale",
    "name": "SINGER ANDROID TV",
    "model": "SINGER ANDROID TV"
@@ -147396,6 +147485,16 @@
    "device": "R2",
    "name": "Android TV",
    "model": "ATV R2"
+  },
+  {
+   "device": "R3",
+   "name": "Android TV",
+   "model": "R3"
+  },
+  {
+   "device": "R4",
+   "name": "Android TV",
+   "model": "R4"
   }
  ],
  "Strong": [
@@ -161011,6 +161110,16 @@
    "model": "ATV R2"
   },
   {
+   "device": "R3",
+   "name": "Android TV",
+   "model": "R3"
+  },
+  {
+   "device": "R4",
+   "name": "Android TV",
+   "model": "R4"
+  },
+  {
    "device": "Delight_TH201",
    "name": "Delight TH201",
    "model": "Delight TH201"
@@ -167533,6 +167642,16 @@
    "device": "R2",
    "name": "Android TV",
    "model": "ATV R2"
+  },
+  {
+   "device": "R3",
+   "name": "Android TV",
+   "model": "R3"
+  },
+  {
+   "device": "R4",
+   "name": "Android TV",
+   "model": "R4"
   }
  ],
  "Visiontech": [

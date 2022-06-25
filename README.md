@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-06-24
+Last sync is 2022-06-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -214,6 +214,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AV|AV10|RCT6203W46|AV10|
 |AV|AV7|RCT6773W22|AV7|
 |AVA(USA)|AVA-RM-RX1-EU|AVA-RM-RX1|RX1|
+|AVANGARD|Android TV|R3|R3|
+|AVANGARD|Android tv|R4|R4|
 |AVATEL|DV8547_Avatel|DV8547-KSA|DV8547_Avatel|
 |AVH San Luis S.A.|ActionKids3.0|ActionKids3_0|ActionKids3.0|
 |AVH San Luis S.A.|Actionkids 3.0|Action_Kids_3|Action_Kids_3.0|
@@ -1596,6 +1598,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Artel|ALO|ALO|ALO|
 |Artel|Android TV|R1|ATV R1|
 |Artel|Android TV|R2|ATV R2|
+|Artel|Android TV|R3|R3|
+|Artel|Android TV|R4|R4|
 |Artel|Artel 2K TV|shinagawa|Artel 2K TV|
 |Artel|Artel Air|Artel_Air|Artel Air|
 |Artel|Artel Android TV|SW4H|Artel Android TV|
@@ -2536,6 +2540,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|BL62|Bmobile_BL62H|BL62|
 |BMobile|BL62|Bmobile_BL62_TG|BL62_TG|
 |BMobile|BL65|Bmobile_BL65_OM|BL65_OM|
+|BMobile|BL65|Bmobile_BL65_TG|BL65_TG|
 |BMobile|Bella|Bella|Bella|
 |BMobile|Bmbile AX687|Bmobile_AX687|AX687|
 |BMobile|Bmobile AX1076|Bmobile_AX1076|AX1076|
@@ -3760,6 +3765,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CEM Global|HS29779-18|HS29779-18|HS29779-18|
 |CG Inspiring Life|Android TV|R1|ATV R1|
 |CG Inspiring Life|Android TV|R2|ATV R2|
+|CG Inspiring Life|Android TV|R3|R3|
 |CG Mobile|Blaze  G|Blaze_G|Blaze G|
 |CG Mobile|Blaze N|Blaze_N|Blaze N|
 |CG Mobile|EON Blaze Pro|CG_EON_Blaze_Pro|CG_EON_Blaze_Pro|
@@ -3962,6 +3968,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Casio|itg600|itg600|IT-G600|
 |Casper|Android TV|R1|ATV R1|
 |Casper|Android TV|R2|ATV R2|
+|Casper|Android TV|R3|R3|
 |Casper|Android TV|R4|R4|
 |Casper|CASPER_L10_4_5G|CASPER_L10_4_5G|CASPER_L10_4.5G|
 |Casper|Casper 2K Smart TV|sunnyvale|Casper 2K Smart TV|
@@ -6575,6 +6582,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Essential Products|PH-1|mata|PH-1|
 |EssentielB|Android TV|R1|ATV R1|
 |EssentielB|Android TV|R2|ATV R2|
+|EssentielB|Android TV|R3|R3|
 |EssentielB|Black Diamond|bird77_a_cu_ics2|Essentielb-Black Diamond|
 |EssentielB|Pyxis|pyxis_boulanger|Essentielb-Pixis|
 |EssentielB|ST7001 Tablet|ST7001|ST7001|
@@ -7219,6 +7227,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Freetel|SAKURA_FTE1|SAKURA_FTE1|SAKURA_FTE1|
 |Freetel|SAMURAI REI|FTJ161B|FTJ161B|
 |Freetel|SAMURAI REI 2|SAMURAI_REI2|FTJ17A00|
+|Fresh|Android TV|R3|R3|
 |Fresh|Android TV|R4|R4|
 |Fresh|Egypt|tamachi|Fresh FHD Android TV|
 |Fresh|Egypt|yeongdeungpo|Fresh UHD Android TV|
@@ -10099,6 +10108,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Homatics|Dongle R 4K|YQB|Dongle R 4K|
 |Homatics|SEI600HM|HND|Box Q|
 |Home Elite|Android TV|R1|ATV R1|
+|Home Planet|Android TV|R4|R4|
 |Homeplustv|Homeplus_ATV HCA-6010|HCA6010|HCA-6010|
 |Homeplustv|STB-6252C|STB6252C|STB-6252C|
 |Hometech|ALFA10TX|ALFA10TX|ALFA10TX|
@@ -20220,9 +20230,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia C10|MNT|Nokia C10|
 |Nokia|Nokia C2|NBL|Nebula|
 |Nokia|Nokia C2|NBL|Nokia C2|
+|Nokia|Nokia C2 2nd Edition|DMN|Nokia C2 2nd Edition|
 |Nokia|Nokia C2 Tennen|ARV_CUS|Nokia C2 Tennen|
 |Nokia|Nokia C20|COS|Nokia C20|
 |Nokia|Nokia C20 Plus|SUS|Nokia C20 Plus|
+|Nokia|Nokia C21|COR|Nokia C21|
+|Nokia|Nokia C21 Plus|HPE|Hope|
+|Nokia|Nokia C21 Plus|HPE|Nokia C21 Plus|
 |Nokia|Nokia C3|GMR|Nokia C3|
 |Nokia|Nokia C30|MNI|Nokia C30|
 |Nokia|Nokia C30|MNR|Nokia C30|
@@ -21270,6 +21284,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ordissimo|PixStarTouch|PixStarTouch|PixStarTouch|
 |Orient|Android TV|R1|ATV R1|
 |Orient|Android TV|R2|ATV R2|
+|Orient|Android TV|R3|R3|
+|Orient|Android TV|R4|R4|
 |Orient|OrientTV|shibuya|OrientTV|
 |Orpyx|OSIDDV1|OSIDDV1|OSIDDV1|
 |Oteeto|OE1|OE1|OE1|
@@ -27627,6 +27643,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SimiMobile|S8001|S8001|S8001|
 |Singer|Android TV|R1|ATV R1|
 |Singer|Android TV|R2|ATV R2|
+|Singer|Android TV|R3|R3|
 |Singer|SINGER ANDROID TV|sunnyvale|SINGER ANDROID TV|
 |Singer|SINGER BD SMART TV|SW4H_FF|SINGER BD SMART TV|
 |Singer|SINGER SL SMART TV|SW4H|SINGER SL SMART TV|
@@ -28732,6 +28749,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stream|Stream|DV8555-Altice|Stream|
 |Stream System|Android TV|R1|ATV R1|
 |Stream System|Android TV|R2|ATV R2|
+|Stream System|Android TV|R3|R3|
+|Stream System|Android TV|R4|R4|
 |Strong|Android TV|R1|ATV R1|
 |Strong|Android TV|R2|ATV R2|
 |Strong|Android TV|redwood|AI PONT|
@@ -31391,6 +31410,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Thomson|50TG7UA9X|samseong|AI PONT|
 |Thomson|Android TV|R1|ATV R1|
 |Thomson|Android TV|R2|ATV R2|
+|Thomson|Android TV|R3|R3|
+|Thomson|Android TV|R4|R4|
 |Thomson|Delight TH201|Delight_TH201|Delight TH201|
 |Thomson|EBK_5014G|EBK_5014G|EBK_5014G|
 |Thomson|EBL-5304G|EBL_5304G|EBL-5304G|
@@ -32631,6 +32652,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vision|Vision V1|VISION_V1|V1|
 |Vision Technology|Android TV|R1|ATV R1|
 |Vision Technology|Android TV|R2|ATV R2|
+|Vision Technology|Android TV|R3|R3|
+|Vision Technology|Android TV|R4|R4|
 |Visiontech|100011885|100011885|100011885|
 |Visiontech|PVT-8-A50-R1|PVT-8-A50-R1|PVT-8-A50-R1|
 |Visiontouch|Inspire|VisionTouchInspire|Vision Touch Inspire|

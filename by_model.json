@@ -2308,7 +2308,17 @@
    "device": "R3"
   },
   {
+   "brand": "AVANGARD",
+   "name": "Android TV",
+   "device": "R3"
+  },
+  {
    "brand": "Acer",
+   "name": "Android TV",
+   "device": "R3"
+  },
+  {
+   "brand": "Artel",
    "name": "Android TV",
    "device": "R3"
   },
@@ -2318,8 +2328,23 @@
    "device": "R3"
   },
   {
+   "brand": "CG Inspiring Life",
+   "name": "Android TV",
+   "device": "R3"
+  },
+  {
+   "brand": "Casper",
+   "name": "Android TV",
+   "device": "R3"
+  },
+  {
    "brand": "Casper",
    "name": "R3",
+   "device": "R3"
+  },
+  {
+   "brand": "EssentielB",
+   "name": "Android TV",
    "device": "R3"
   },
   {
@@ -2329,6 +2354,11 @@
   },
   {
    "brand": "FAVORITT",
+   "name": "Android TV",
+   "device": "R3"
+  },
+  {
+   "brand": "Fresh",
    "name": "Android TV",
    "device": "R3"
   },
@@ -2351,6 +2381,31 @@
    "brand": "Olimpo",
    "name": "Android TV",
    "device": "R3"
+  },
+  {
+   "brand": "Orient",
+   "name": "Android TV",
+   "device": "R3"
+  },
+  {
+   "brand": "Singer",
+   "name": "Android TV",
+   "device": "R3"
+  },
+  {
+   "brand": "Stream System",
+   "name": "Android TV",
+   "device": "R3"
+  },
+  {
+   "brand": "Thomson",
+   "name": "Android TV",
+   "device": "R3"
+  },
+  {
+   "brand": "Vision Technology",
+   "name": "Android TV",
+   "device": "R3"
   }
  ],
  "R4": [
@@ -2360,12 +2415,22 @@
    "device": "R4"
   },
   {
+   "brand": "AVANGARD",
+   "name": "Android tv",
+   "device": "R4"
+  },
+  {
    "brand": "Acer",
    "name": "Android TV",
    "device": "R4"
   },
   {
    "brand": "Alhafidh",
+   "name": "Android TV",
+   "device": "R4"
+  },
+  {
+   "brand": "Artel",
    "name": "Android TV",
    "device": "R4"
   },
@@ -2391,6 +2456,11 @@
   },
   {
    "brand": "Fresh",
+   "name": "Android TV",
+   "device": "R4"
+  },
+  {
+   "brand": "Home Planet",
    "name": "Android TV",
    "device": "R4"
   },
@@ -2421,6 +2491,26 @@
   },
   {
    "brand": "Olimpo",
+   "name": "Android TV",
+   "device": "R4"
+  },
+  {
+   "brand": "Orient",
+   "name": "Android TV",
+   "device": "R4"
+  },
+  {
+   "brand": "Stream System",
+   "name": "Android TV",
+   "device": "R4"
+  },
+  {
+   "brand": "Thomson",
+   "name": "Android TV",
+   "device": "R4"
+  },
+  {
+   "brand": "Vision Technology",
    "name": "Android TV",
    "device": "R4"
   }
@@ -19931,6 +20021,13 @@
    "brand": "BMobile",
    "name": "BL65",
    "device": "Bmobile_BL65_OM"
+  }
+ ],
+ "BL65_TG": [
+  {
+   "brand": "BMobile",
+   "name": "BL65",
+   "device": "Bmobile_BL65_TG"
   }
  ],
  "Bella": [
@@ -139389,6 +139486,13 @@
    "device": "NBL"
   }
  ],
+ "Nokia C2 2nd Edition": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C2 2nd Edition",
+   "device": "DMN"
+  }
+ ],
  "Nokia C2 Tennen": [
   {
    "brand": "Nokia",
@@ -139408,6 +139512,27 @@
    "brand": "Nokia",
    "name": "Nokia C20 Plus",
    "device": "SUS"
+  }
+ ],
+ "Nokia C21": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C21",
+   "device": "COR"
+  }
+ ],
+ "Hope": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C21 Plus",
+   "device": "HPE"
+  }
+ ],
+ "Nokia C21 Plus": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C21 Plus",
+   "device": "HPE"
   }
  ],
  "Nokia C3": [

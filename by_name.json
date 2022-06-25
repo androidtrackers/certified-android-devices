@@ -7815,6 +7815,11 @@
    "model": "R4"
   },
   {
+   "brand": "AVANGARD",
+   "device": "R3",
+   "model": "R3"
+  },
+  {
    "brand": "Acer",
    "device": "R1",
    "model": "ATV R1"
@@ -7885,6 +7890,16 @@
    "model": "ATV R2"
   },
   {
+   "brand": "Artel",
+   "device": "R3",
+   "model": "R3"
+  },
+  {
+   "brand": "Artel",
+   "device": "R4",
+   "model": "R4"
+  },
+  {
    "brand": "BLACKLINE",
    "device": "R3",
    "model": "R3"
@@ -7915,6 +7930,11 @@
    "model": "ATV R2"
   },
   {
+   "brand": "CG Inspiring Life",
+   "device": "R3",
+   "model": "R3"
+  },
+  {
    "brand": "Casper",
    "device": "R1",
    "model": "ATV R1"
@@ -7923,6 +7943,11 @@
    "brand": "Casper",
    "device": "R2",
    "model": "ATV R2"
+  },
+  {
+   "brand": "Casper",
+   "device": "R3",
+   "model": "R3"
   },
   {
    "brand": "Casper",
@@ -8005,6 +8030,11 @@
    "model": "ATV R2"
   },
   {
+   "brand": "EssentielB",
+   "device": "R3",
+   "model": "R3"
+  },
+  {
    "brand": "Estla",
    "device": "longshan",
    "model": "AI PONT NA"
@@ -8041,6 +8071,11 @@
   },
   {
    "brand": "Fresh",
+   "device": "R3",
+   "model": "R3"
+  },
+  {
+   "brand": "Fresh",
    "device": "R4",
    "model": "R4"
   },
@@ -8058,6 +8093,11 @@
    "brand": "Home Elite",
    "device": "R1",
    "model": "ATV R1"
+  },
+  {
+   "brand": "Home Planet",
+   "device": "R4",
+   "model": "R4"
   },
   {
    "brand": "Hyundai",
@@ -8295,6 +8335,16 @@
    "model": "ATV R2"
   },
   {
+   "brand": "Orient",
+   "device": "R3",
+   "model": "R3"
+  },
+  {
+   "brand": "Orient",
+   "device": "R4",
+   "model": "R4"
+  },
+  {
    "brand": "PALSONIC",
    "device": "R1",
    "model": "ATV R1"
@@ -8395,6 +8445,11 @@
    "model": "ATV R2"
   },
   {
+   "brand": "Singer",
+   "device": "R3",
+   "model": "R3"
+  },
+  {
    "brand": "Stream System",
    "device": "R1",
    "model": "ATV R1"
@@ -8403,6 +8458,16 @@
    "brand": "Stream System",
    "device": "R2",
    "model": "ATV R2"
+  },
+  {
+   "brand": "Stream System",
+   "device": "R3",
+   "model": "R3"
+  },
+  {
+   "brand": "Stream System",
+   "device": "R4",
+   "model": "R4"
   },
   {
    "brand": "Strong",
@@ -8465,6 +8530,16 @@
    "model": "ATV R2"
   },
   {
+   "brand": "Thomson",
+   "device": "R3",
+   "model": "R3"
+  },
+  {
+   "brand": "Thomson",
+   "device": "R4",
+   "model": "R4"
+  },
+  {
    "brand": "Vision Technology",
    "device": "R1",
    "model": "ATV R1"
@@ -8473,6 +8548,16 @@
    "brand": "Vision Technology",
    "device": "R2",
    "model": "ATV R2"
+  },
+  {
+   "brand": "Vision Technology",
+   "device": "R3",
+   "model": "R3"
+  },
+  {
+   "brand": "Vision Technology",
+   "device": "R4",
+   "model": "R4"
   },
   {
    "brand": "Vu Televisions",
@@ -8840,6 +8925,13 @@
    "brand": "AVA(USA)",
    "device": "AVA-RM-RX1",
    "model": "RX1"
+  }
+ ],
+ "Android tv": [
+  {
+   "brand": "AVANGARD",
+   "device": "R4",
+   "model": "R4"
   }
  ],
  "DV8547_Avatel": [
@@ -25462,6 +25554,11 @@
    "brand": "BMobile",
    "device": "Bmobile_BL65_OM",
    "model": "BL65_OM"
+  },
+  {
+   "brand": "BMobile",
+   "device": "Bmobile_BL65_TG",
+   "model": "BL65_TG"
   }
  ],
  "Bella": [
@@ -137460,6 +137557,13 @@
    "model": "Nokia C2"
   }
  ],
+ "Nokia C2 2nd Edition": [
+  {
+   "brand": "Nokia",
+   "device": "DMN",
+   "model": "Nokia C2 2nd Edition"
+  }
+ ],
  "Nokia C2 Tennen": [
   {
    "brand": "Nokia",
@@ -137479,6 +137583,25 @@
    "brand": "Nokia",
    "device": "SUS",
    "model": "Nokia C20 Plus"
+  }
+ ],
+ "Nokia C21": [
+  {
+   "brand": "Nokia",
+   "device": "COR",
+   "model": "Nokia C21"
+  }
+ ],
+ "Nokia C21 Plus": [
+  {
+   "brand": "Nokia",
+   "device": "HPE",
+   "model": "Hope"
+  },
+  {
+   "brand": "Nokia",
+   "device": "HPE",
+   "model": "Nokia C21 Plus"
   }
  ],
  "Nokia C3": [

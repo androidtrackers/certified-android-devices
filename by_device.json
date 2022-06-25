@@ -3366,7 +3366,17 @@
    "model": "R3"
   },
   {
+   "brand": "AVANGARD",
+   "name": "Android TV",
+   "model": "R3"
+  },
+  {
    "brand": "Acer",
+   "name": "Android TV",
+   "model": "R3"
+  },
+  {
+   "brand": "Artel",
    "name": "Android TV",
    "model": "R3"
   },
@@ -3376,8 +3386,23 @@
    "model": "R3"
   },
   {
+   "brand": "CG Inspiring Life",
+   "name": "Android TV",
+   "model": "R3"
+  },
+  {
+   "brand": "Casper",
+   "name": "Android TV",
+   "model": "R3"
+  },
+  {
    "brand": "Casper",
    "name": "R3",
+   "model": "R3"
+  },
+  {
+   "brand": "EssentielB",
+   "name": "Android TV",
    "model": "R3"
   },
   {
@@ -3387,6 +3412,11 @@
   },
   {
    "brand": "FAVORITT",
+   "name": "Android TV",
+   "model": "R3"
+  },
+  {
+   "brand": "Fresh",
    "name": "Android TV",
    "model": "R3"
   },
@@ -3421,9 +3451,34 @@
    "model": "R7005"
   },
   {
+   "brand": "Orient",
+   "name": "Android TV",
+   "model": "R3"
+  },
+  {
    "brand": "Panasonic",
    "name": "Android TV",
    "model": "2KTV-2TH"
+  },
+  {
+   "brand": "Singer",
+   "name": "Android TV",
+   "model": "R3"
+  },
+  {
+   "brand": "Stream System",
+   "name": "Android TV",
+   "model": "R3"
+  },
+  {
+   "brand": "Thomson",
+   "name": "Android TV",
+   "model": "R3"
+  },
+  {
+   "brand": "Vision Technology",
+   "name": "Android TV",
+   "model": "R3"
   }
  ],
  "R4": [
@@ -3433,12 +3488,22 @@
    "model": "R4"
   },
   {
+   "brand": "AVANGARD",
+   "name": "Android tv",
+   "model": "R4"
+  },
+  {
    "brand": "Acer",
    "name": "Android TV",
    "model": "R4"
   },
   {
    "brand": "Alhafidh",
+   "name": "Android TV",
+   "model": "R4"
+  },
+  {
+   "brand": "Artel",
    "name": "Android TV",
    "model": "R4"
   },
@@ -3464,6 +3529,11 @@
   },
   {
    "brand": "Fresh",
+   "name": "Android TV",
+   "model": "R4"
+  },
+  {
+   "brand": "Home Planet",
    "name": "Android TV",
    "model": "R4"
   },
@@ -3498,9 +3568,29 @@
    "model": "R4"
   },
   {
+   "brand": "Orient",
+   "name": "Android TV",
+   "model": "R4"
+  },
+  {
    "brand": "Panasonic",
    "name": "Android TV",
    "model": "PANASONIC TV"
+  },
+  {
+   "brand": "Stream System",
+   "name": "Android TV",
+   "model": "R4"
+  },
+  {
+   "brand": "Thomson",
+   "name": "Android TV",
+   "model": "R4"
+  },
+  {
+   "brand": "Vision Technology",
+   "name": "Android TV",
+   "model": "R4"
   }
  ],
  "IDEA": [
@@ -22593,6 +22683,13 @@
    "brand": "BMobile",
    "name": "BL65",
    "model": "BL65_OM"
+  }
+ ],
+ "Bmobile_BL65_TG": [
+  {
+   "brand": "BMobile",
+   "name": "BL65",
+   "model": "BL65_TG"
   }
  ],
  "Bella": [
@@ -136993,6 +137090,13 @@
    "model": "Nokia C2"
   }
  ],
+ "DMN": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C2 2nd Edition",
+   "model": "Nokia C2 2nd Edition"
+  }
+ ],
  "ARV_CUS": [
   {
    "brand": "Nokia",
@@ -137012,6 +137116,25 @@
    "brand": "Nokia",
    "name": "Nokia C20 Plus",
    "model": "Nokia C20 Plus"
+  }
+ ],
+ "COR": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C21",
+   "model": "Nokia C21"
+  }
+ ],
+ "HPE": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C21 Plus",
+   "model": "Hope"
+  },
+  {
+   "brand": "Nokia",
+   "name": "Nokia C21 Plus",
+   "model": "Nokia C21 Plus"
   }
  ],
  "GMR": [
