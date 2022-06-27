@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-06-26
+Last sync is 2022-06-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -34257,6 +34257,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 12X|psyche|2112123AC|
 |Xiaomi|Xiaomi Civi|mona|2109119BC|
 |Xiaomi|Xiaomi Civi 1S|zijin|2109119BC|
+|Xiaomi|Xiaomi MIX Fold|cetus|M2011J18C|
 |Xiaomi|Xiaomi Pad 5|nabu|21051182C|
 |Xiaomi|Xiaomi Pad 5|nabu|21051182G|
 |Xiaomi|Xiaomi Pad 5 Pro|elish|M2105K81AC|
