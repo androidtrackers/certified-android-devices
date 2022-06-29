@@ -30874,6 +30874,123 @@
    "model": "Tesla 4K Android TV"
   }
  ],
+ "EU、UK、AP": [
+  {
+   "brand": "Blaupunkt",
+   "device": "martin",
+   "model": "BLAUPUNKT 2K Android TV"
+  },
+  {
+   "brand": "Continental Edison",
+   "device": "martin",
+   "model": "Continental Edison Android TV"
+  },
+  {
+   "brand": "Digiquest",
+   "device": "martin",
+   "model": "Digiquest 2K Android TV"
+  },
+  {
+   "brand": "EKO",
+   "device": "martin",
+   "model": "EKO 2K Android TV"
+  },
+  {
+   "brand": "Estar",
+   "device": "martin",
+   "model": "eSTAR 2K Android TV"
+  },
+  {
+   "brand": "F&U (Fandu)",
+   "device": "martin",
+   "model": "FandU Android TV"
+  },
+  {
+   "brand": "Grunkel",
+   "device": "martin",
+   "model": "Grunkel 2K Android TV"
+  },
+  {
+   "brand": "Hyundai",
+   "device": "martin",
+   "model": "HYUNDAI ANDROID TV"
+  },
+  {
+   "brand": "JVC",
+   "device": "martin",
+   "model": "JVC Android TV"
+  },
+  {
+   "brand": "Kogan",
+   "device": "martin",
+   "model": "Kogan TV"
+  },
+  {
+   "brand": "Marcel",
+   "device": "martin",
+   "model": "MARCEL Android TV"
+  },
+  {
+   "brand": "Nano",
+   "device": "martin",
+   "model": "Nano Android TV"
+  },
+  {
+   "brand": "QBell",
+   "device": "martin",
+   "model": "Qbell 2K Android TV"
+  },
+  {
+   "brand": "S Vision",
+   "device": "martin",
+   "model": "SVISION 2K Android TV"
+  },
+  {
+   "brand": "SCHNEIDER",
+   "device": "martin",
+   "model": "Schneider 2K Android TV"
+  },
+  {
+   "brand": "SPC",
+   "device": "martin",
+   "model": "SPC Android TV"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "device": "martin",
+   "model": "AiPlus2K"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "device": "martin",
+   "model": "WALTON Android TV"
+  },
+  {
+   "brand": "TELE System",
+   "device": "martin",
+   "model": "TELESYSTEM 2K Android TV"
+  },
+  {
+   "brand": "Tesla",
+   "device": "martin",
+   "model": "Tesla Android TV"
+  },
+  {
+   "brand": "Turbo-X",
+   "device": "martin",
+   "model": "TURBO-X Android TV"
+  },
+  {
+   "brand": "Vision",
+   "device": "martin",
+   "model": "Vision Android TV"
+  },
+  {
+   "brand": "Zephir",
+   "device": "martin",
+   "model": "Zephir 2K Android TV"
+  }
+ ],
  "Endeavour101": [
   {
    "brand": "Blaupunkt",
@@ -30982,6 +31099,11 @@
  "Turkey": [
   {
    "brand": "Blaupunkt",
+   "device": "martin",
+   "model": "Blaupunkt 2K Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
    "device": "tamachi",
    "model": "Blaupunkt 2K Android TV"
   },
@@ -30994,6 +31116,11 @@
    "brand": "Hometech",
    "device": "ALFA_7MRC",
    "model": "ALFA_7MRC"
+  },
+  {
+   "brand": "Profilo",
+   "device": "martin",
+   "model": "Profilo 2K Android TV"
   },
   {
    "brand": "Profilo",
@@ -35124,6 +35251,33 @@
    "brand": "CAIXUN",
    "device": "patrick",
    "model": "Aiplus4K"
+  }
+ ],
+ "Europe": [
+  {
+   "brand": "CAIXUN",
+   "device": "martin",
+   "model": "Caixun Android TV"
+  },
+  {
+   "brand": "Qilive",
+   "device": "tamachi",
+   "model": "Qilive FHD Android TV"
+  },
+  {
+   "brand": "Qilive",
+   "device": "yeongdeungpo",
+   "model": "Qilive UHD Android TV"
+  },
+  {
+   "brand": "SWTV",
+   "device": "SW3H_ATV",
+   "model": "SWTV"
+  },
+  {
+   "brand": "Skyworth",
+   "device": "globe_eu",
+   "model": "globe"
   }
  ],
  "Malaysia": [
@@ -41942,119 +42096,12 @@
    "model": "Continental 4K Android TV"
   }
  ],
- "EU、UK、AP": [
+ "France": [
   {
    "brand": "Continental Edison",
-   "device": "martin",
+   "device": "guandu",
    "model": "Continental Edison Android TV"
   },
-  {
-   "brand": "Digiquest",
-   "device": "martin",
-   "model": "Digiquest 2K Android TV"
-  },
-  {
-   "brand": "EKO",
-   "device": "martin",
-   "model": "EKO 2K Android TV"
-  },
-  {
-   "brand": "Estar",
-   "device": "martin",
-   "model": "eSTAR 2K Android TV"
-  },
-  {
-   "brand": "F&U (Fandu)",
-   "device": "martin",
-   "model": "FandU Android TV"
-  },
-  {
-   "brand": "Grunkel",
-   "device": "martin",
-   "model": "Grunkel 2K Android TV"
-  },
-  {
-   "brand": "Hyundai",
-   "device": "martin",
-   "model": "HYUNDAI ANDROID TV"
-  },
-  {
-   "brand": "JVC",
-   "device": "martin",
-   "model": "JVC Android TV"
-  },
-  {
-   "brand": "Kogan",
-   "device": "martin",
-   "model": "Kogan TV"
-  },
-  {
-   "brand": "Marcel",
-   "device": "martin",
-   "model": "MARCEL Android TV"
-  },
-  {
-   "brand": "Nano",
-   "device": "martin",
-   "model": "Nano Android TV"
-  },
-  {
-   "brand": "QBell",
-   "device": "martin",
-   "model": "Qbell 2K Android TV"
-  },
-  {
-   "brand": "S Vision",
-   "device": "martin",
-   "model": "SVISION 2K Android TV"
-  },
-  {
-   "brand": "SCHNEIDER",
-   "device": "martin",
-   "model": "Schneider 2K Android TV"
-  },
-  {
-   "brand": "SPC",
-   "device": "martin",
-   "model": "SPC Android TV"
-  },
-  {
-   "brand": "Smart-Tech TV",
-   "device": "martin",
-   "model": "AiPlus2K"
-  },
-  {
-   "brand": "Smart-Tech TV",
-   "device": "martin",
-   "model": "WALTON Android TV"
-  },
-  {
-   "brand": "TELE System",
-   "device": "martin",
-   "model": "TELESYSTEM 2K Android TV"
-  },
-  {
-   "brand": "Tesla",
-   "device": "martin",
-   "model": "Tesla Android TV"
-  },
-  {
-   "brand": "Turbo-X",
-   "device": "martin",
-   "model": "TURBO-X Android TV"
-  },
-  {
-   "brand": "Vision",
-   "device": "martin",
-   "model": "Vision Android TV"
-  },
-  {
-   "brand": "Zephir",
-   "device": "martin",
-   "model": "Zephir 2K Android TV"
-  }
- ],
- "France": [
   {
    "brand": "Continental Edison",
    "device": "tamachi",
@@ -98818,6 +98865,23 @@
    "model": "Kammunica_XD"
   }
  ],
+ "ARGENTINA": [
+  {
+   "brand": "Kanji",
+   "device": "martin",
+   "model": "KANJI 2K Android TV"
+  },
+  {
+   "brand": "Kanji",
+   "device": "patrick",
+   "model": "KANJI 4K Android TV"
+  },
+  {
+   "brand": "SMART_KASSEL",
+   "device": "SK3402",
+   "model": "SK3402"
+  }
+ ],
  "KANJI_AC05": [
   {
    "brand": "Kanji",
@@ -114462,6 +114526,13 @@
    "model": "LIFETAB_E7312"
   }
  ],
+ "Legion Y70": [
+  {
+   "brand": "Lenovo",
+   "device": "halo",
+   "model": "Lenovo L71091"
+  }
+ ],
  "Lenovo": [
   {
    "brand": "Lenovo",
@@ -116882,6 +116953,13 @@
    "brand": "Lenovo",
    "device": "J716F",
    "model": "Lenovo TB-J716F"
+  }
+ ],
+ "小新Pad Pro 2022": [
+  {
+   "brand": "Lenovo",
+   "device": "TB132FU",
+   "model": "TB132FU"
   }
  ],
  "小新平板": [
@@ -121633,6 +121711,11 @@
    "brand": "Master-G",
    "device": "Bolivia",
    "model": "Peru"
+  },
+  {
+   "brand": "Master-G",
+   "device": "Bolivia",
+   "model": "Peru\""
   },
   {
    "brand": "Master-G",
@@ -137647,6 +137730,18 @@
    "brand": "Nokia",
    "device": "SCT_sprout",
    "model": "Nokia G11"
+  }
+ ],
+ "Nokia G11 Plus": [
+  {
+   "brand": "Nokia",
+   "device": "MGKA",
+   "model": "Nokia G11 Plus"
+  },
+  {
+   "brand": "Nokia",
+   "device": "MGKA_sprout",
+   "model": "Nokia G11 Plus"
   }
  ],
  "Nokia G20": [
@@ -155310,28 +155405,6 @@
    "model": "VISION"
   }
  ],
- "Europe": [
-  {
-   "brand": "Qilive",
-   "device": "tamachi",
-   "model": "Qilive FHD Android TV"
-  },
-  {
-   "brand": "Qilive",
-   "device": "yeongdeungpo",
-   "model": "Qilive UHD Android TV"
-  },
-  {
-   "brand": "SWTV",
-   "device": "SW3H_ATV",
-   "model": "SWTV"
-  },
-  {
-   "brand": "Skyworth",
-   "device": "globe_eu",
-   "model": "globe"
-  }
- ],
  "Q.3778": [
   {
    "brand": "Qilive",
@@ -160783,13 +160856,6 @@
    "brand": "SKY_Brasil",
    "device": "usw8052skb",
    "model": "SKR02"
-  }
- ],
- "ARGENTINA": [
-  {
-   "brand": "SMART_KASSEL",
-   "device": "SK3402",
-   "model": "SK3402"
   }
  ],
  "SK3403": [
@@ -179722,6 +179788,13 @@
    "model": "AQUOS-TVX19D"
   }
  ],
+ "DJ1": [
+  {
+   "brand": "Sharp",
+   "device": "banqiao",
+   "model": "AQUOS-TVW21A"
+  }
+ ],
  "DL1X": [
   {
    "brand": "Sharp",
@@ -188722,6 +188795,11 @@
    "brand": "Sunmi",
    "device": "SUNMI-L2HNFC",
    "model": "L2H_EEA"
+  },
+  {
+   "brand": "Sunmi",
+   "device": "SUNMI-L2HNFC",
+   "model": "L2H_GL"
   }
  ],
  "Sunmi L2Ks": [
@@ -188840,6 +188918,13 @@
    "brand": "Sunny",
    "device": "SN7032",
    "model": "SN7032"
+  }
+ ],
+ "Spain / Portugal": [
+  {
+   "brand": "Sunstech",
+   "device": "martin",
+   "model": "SUNSTECH SD ANDROID TV"
   }
  ],
  "TAB1011": [
@@ -201878,6 +201963,13 @@
    "model": "TECNO KG6p"
   }
  ],
+ "TECNO SPARK 9": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KG5p",
+   "model": "TECNO KG5p"
+  }
+ ],
  "TECNO SPARK 9 Pro": [
   {
    "brand": "Tecno",
@@ -202965,6 +203057,13 @@
    "brand": "Tesla",
    "device": "Tesla_SP6_4_Lite",
    "model": "Tesla_SP6_4_Lite"
+  }
+ ],
+ "South American": [
+  {
+   "brand": "Tesla",
+   "device": "patrick",
+   "model": "Tesla 4K Android TV"
   }
  ],
  "Tablet_L7_1": [
@@ -213637,6 +213736,13 @@
    "brand": "Vivo",
    "device": "PD1718",
    "model": "vivo Y75A"
+  }
+ ],
+ "vivo Y77": [
+  {
+   "brand": "Vivo",
+   "device": "PD2219",
+   "model": "V2219A"
   }
  ],
  "vivo Y83A": [

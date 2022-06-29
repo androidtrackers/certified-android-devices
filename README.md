@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-06-28
+Last sync is 2022-06-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3206,6 +3206,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|Czech/Ukraine/Russia|nippori|BLAUPUNKT Android TV 2K|
 |Blaupunkt|Discovery_A10_302|Discovery_A10_302|Discovery_A10_302|
 |Blaupunkt|EU|tamachi|BLAUPUNKT FHD Android TV|
+|Blaupunkt|EU、UK、AP|martin|BLAUPUNKT 2K Android TV|
 |Blaupunkt|Endeavour101|Blaupunkt|Endeavour101|
 |Blaupunkt|Guardian|Guardian|Guardian|
 |Blaupunkt|MP3-A 4K TV|SW4H|MP3-A 4K TV|
@@ -3222,6 +3223,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|Smart TV|samseong|AI PONT|
 |Blaupunkt|Soundphone_S1|Soundphone_S1|Soundphone_S1|
 |Blaupunkt|TX01|TX01|TX01|
+|Blaupunkt|Turkey|martin|Blaupunkt 2K Android TV|
 |Blaupunkt|Turkey|tamachi|Blaupunkt 2K Android TV|
 |Blaupunkt|Turkey|yeongdeungpo|Blaupunkt 4K Android TV|
 |Blu|A-200|A200|A200|
@@ -3742,6 +3744,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CAIXUN|Australian/EU|yeongdeungpo|AiPlus4K|
 |CAIXUN|Canada|yeongdeungpo|AiPlus4K|
 |CAIXUN|Columbia|patrick|Aiplus4K|
+|CAIXUN|Europe|martin|Caixun Android TV|
 |CAIXUN|Malaysia|yeongdeungpo|AiPlus4KMY|
 |CAIXUN|Mexico|yeongdeungpo|AiPlus4K|
 |CAIXUN|South of America|martin|AiPlus2K|
@@ -4663,6 +4666,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Continental Edison|Continental Edison|yeongdeungpo|B UHD Android TV|
 |Continental Edison|Continential_Edison|bangbae|Continental 4K Android TV|
 |Continental Edison|EU、UK、AP|martin|Continental Edison Android TV|
+|Continental Edison|France|guandu|Continental Edison Android TV|
 |Continental Edison|France|tamachi|Continental Android TV|
 |Continential|CE10412|CE10412|CE10412|
 |Continential|Edison-Continential|komagome|Continental 2K Android TV|
@@ -13649,6 +13653,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kalley|xiaoyushan_kalley|xiaoyushan|HiSmartTV A4|
 |Kammunica|Kammunica_500V|Kammunica_500V|Kammunica_500V|
 |Kammunica|Kammunica_XD|Kammunica_XD|Kammunica_XD|
+|Kanji|ARGENTINA|martin|KANJI 2K Android TV|
+|Kanji|ARGENTINA|patrick|KANJI 4K Android TV|
 |Kanji|KANJI_AC05|KANJI-AC05|KJ-AC05|
 |Kanji|KJ-AC02|KJ-AC02|KJ-AC02|
 |Kanji|KJ-AC05|KJ_AC05|KJ-AC05|
@@ -16420,6 +16426,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|LIFETAB E10310|LIFETAB_E10310|LIFETAB_E10310|
 |Lenovo|LIFETAB E7310|LIFETAB_E7310|LIFETAB_E7310|
 |Lenovo|LIFETAB E7310|LIFETAB_E7310|LIFETAB_E7312|
+|Lenovo|Legion Y70|halo|Lenovo L71091|
 |Lenovo|Lenovo|A708t|Lenovo A708t|
 |Lenovo|Lenovo|A880|Lenovo A880|
 |Lenovo|Lenovo|PB1-770P|Lenovo PB1-770P|
@@ -16836,6 +16843,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|小新 Pad GT|TB-J616N|Lenovo TB-J616N|
 |Lenovo|小新Pad Pro 12.6|Q706F|Lenovo TB-Q706F|
 |Lenovo|小新Pad Pro 2021|J716F|Lenovo TB-J716F|
+|Lenovo|小新Pad Pro 2022|TB132FU|TB132FU|
 |Lenovo|小新平板|TB-8804F|Lenovo TB-8804F|
 |Lenovo|小新平板|X804F|Lenovo TB-X804F|
 |Lenovo|拯救者电竞手机|moba|Lenovo L79031|
@@ -17575,6 +17583,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Master-G|Android TV|R2|ATV R2|
 |Master-G|"Chile|Bolivia|Peru|
 |Master-G|"Chile|Bolivia|Peru|
+|Master-G|"Chile|Bolivia|Peru"|
 |Master-G|"Chile|Bolivia|Peru"|
 |Master-G|Smart TV|mateo|2K SA Smart TV|
 |MauritiusTelcom|HE2704|MTIPTVBox|HE2704|
@@ -20244,6 +20253,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia G10|ROGA|Nokia G10|
 |Nokia|Nokia G10|ROGA_sprout|Nokia G10|
 |Nokia|Nokia G11|SCT_sprout|Nokia G11|
+|Nokia|Nokia G11 Plus|MGKA|Nokia G11 Plus|
+|Nokia|Nokia G11 Plus|MGKA_sprout|Nokia G11 Plus|
 |Nokia|Nokia G20|RNN|Nokia G20|
 |Nokia|Nokia G20|RNNA_sprout|Nokia G20|
 |Nokia|Nokia G20|RNN_sprout|Nokia G20|
@@ -22891,6 +22902,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prodigi Connect12|Prodigi Connect 12|connect|Prodigi Connect 12|
 |Professional Mobile|Pro V5|Pro_V5|Pro V5|
 |Profilo|Smart TV|mateo|2K PA Smart TV|
+|Profilo|Turkey|martin|Profilo 2K Android TV|
 |Profilo|Turkey|tamachi|Profilo 2K Android TV|
 |Profilo|Turkey|yeongdeungpo|Profilo 4K Android TV|
 |Proline|H10885M|H10885M|H10885M|
@@ -27369,6 +27381,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|BK/BJ/CK/CL/CJ|jamsil|AQUOS-TVX19D|
 |Sharp|C1|MS1|FS8001|
 |Sharp|C20|VGO|SH-C02|
+|Sharp|DJ1|banqiao|AQUOS-TVW21A|
 |Sharp|DL1X|banqiao|AQUOS-TVP21A|
 |Sharp|DL1X|banqiao|AQUOS-TVX21B|
 |Sharp|DM009SH|DM009SH|DM009SH|
@@ -28876,6 +28889,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sumitomo Electric Networks||dhe1100|Hikari-iFrame/WDPF-703SE|
 |Sunbio|SB-TM700|SB-TM700|SB-TM700|
 |Sunmi|Sunmi L2H|SUNMI-L2HNFC|L2H_EEA|
+|Sunmi|Sunmi L2H|SUNMI-L2HNFC|L2H_GL|
 |Sunmi|Sunmi L2Ks|SUNMI-L2KsNFC|L2Ks_EEA|
 |Sunmi|Sunmi L2Ks|SUNMI-L2KsNFC|L2Ks_GL|
 |Sunmi|Sunmi L2Ks|SUNMI-L2KsNFC|L2Ks_RU|
@@ -28896,6 +28910,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sunny|SN10064|TABLET|SN10064|
 |Sunny|SN7016|SN7016|SN7016|
 |Sunny|SN7032|SN7032|SN7032|
+|Sunstech|Spain / Portugal|martin|SUNSTECH SD ANDROID TV|
 |Sunstech|TAB1011|TAB1011|TAB1011|
 |Sunstech|TAB1081|TAB1081|TAB1081|
 |Sunstech|TAB1081_eea|TAB1081|TAB1081|
@@ -31209,6 +31224,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SPARK 8P|TECNO-KG7n|TECNO KG7n|
 |Tecno|TECNO SPARK 8T|TECNO-KG6P|TECNO KG6P|
 |Tecno|TECNO SPARK 8T|TECNO-KG6P|TECNO KG6p|
+|Tecno|TECNO SPARK 9|TECNO-KG5p|TECNO KG5p|
 |Tecno|TECNO SPARK 9 Pro|TECNO-KH7n|TECNO KH7n|
 |Tecno|TECNO SPARK 9T|TECNO-KH6|TECNO KH6|
 |Tecno|TECNO SPARK Go|TECNO-KC1|TECNO KC1|
@@ -31389,6 +31405,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tesla|SMARTPHONE3.5|Tesla_SP3_5|Tesla_SP3.5|
 |Tesla|Smartphone 3.4|Tesla_SP3_4|Tesla_SP3_4|
 |Tesla|Smartphone 6.4 Lite|Tesla_SP6_4_Lite|Tesla_SP6_4_Lite|
+|Tesla|South American|patrick|Tesla 4K Android TV|
 |Tesla|Tablet_L7_1|Tablet_L7_1|Tesla L7.1|
 |Tesla|Tesla 2K TV|shinagawa|Tesla 2K TV|
 |Tesla|Tesla S906|SW4H|Tesla S906|
@@ -33117,6 +33134,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo Y69A|PD1705|vivo Y69A|
 |Vivo|vivo Y71A|PD1731|vivo Y71A|
 |Vivo|vivo Y75A|PD1718|vivo Y75A|
+|Vivo|vivo Y77|PD2219|V2219A|
 |Vivo|vivo Y83A|PD1803|vivo Y83A|
 |Vivo|vivo Z1i|PD1730D|vivo Y89|
 |Vivo|vivo Z1i|PD1730D|vivo Z1i|

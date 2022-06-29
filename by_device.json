@@ -27354,6 +27354,178 @@
    "model": "Discovery_A10_302"
   }
  ],
+ "martin": [
+  {
+   "brand": "Blaupunkt",
+   "name": "EU、UK、AP",
+   "model": "BLAUPUNKT 2K Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "Turkey",
+   "model": "Blaupunkt 2K Android TV"
+  },
+  {
+   "brand": "CAIXUN",
+   "name": "Europe",
+   "model": "Caixun Android TV"
+  },
+  {
+   "brand": "CAIXUN",
+   "name": "South of America",
+   "model": "AiPlus2K"
+  },
+  {
+   "brand": "CROWN MUSTANG",
+   "name": "Argentina",
+   "model": "Crown Mustang 2K Android TV"
+  },
+  {
+   "brand": "Continental Edison",
+   "name": "EU、UK、AP",
+   "model": "Continental Edison Android TV"
+  },
+  {
+   "brand": "Digiquest",
+   "name": "EU、UK、AP",
+   "model": "Digiquest 2K Android TV"
+  },
+  {
+   "brand": "EKO",
+   "name": "EU、UK、AP",
+   "model": "EKO 2K Android TV"
+  },
+  {
+   "brand": "Estar",
+   "name": "EU、UK、AP",
+   "model": "eSTAR 2K Android TV"
+  },
+  {
+   "brand": "F&U (Fandu)",
+   "name": "EU、UK、AP",
+   "model": "FandU Android TV"
+  },
+  {
+   "brand": "Grunkel",
+   "name": "EU、UK、AP",
+   "model": "Grunkel 2K Android TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "EU、UK、AP",
+   "model": "HYUNDAI ANDROID TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "Canada",
+   "model": "Android TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "EU、UK、AP",
+   "model": "JVC Android TV"
+  },
+  {
+   "brand": "Kanji",
+   "name": "ARGENTINA",
+   "model": "KANJI 2K Android TV"
+  },
+  {
+   "brand": "Kioto",
+   "name": "Chile",
+   "model": "KIOTO 2K Android TV"
+  },
+  {
+   "brand": "Kogan",
+   "name": "EU、UK、AP",
+   "model": "Kogan TV"
+  },
+  {
+   "brand": "Marcel",
+   "name": "EU、UK、AP",
+   "model": "MARCEL Android TV"
+  },
+  {
+   "brand": "Multilaser",
+   "name": "Brazil",
+   "model": "Multilaser Android TV"
+  },
+  {
+   "brand": "Nano",
+   "name": "EU、UK、AP",
+   "model": "Nano Android TV"
+  },
+  {
+   "brand": "Profilo",
+   "name": "Turkey",
+   "model": "Profilo 2K Android TV"
+  },
+  {
+   "brand": "QBell",
+   "name": "EU、UK、AP",
+   "model": "Qbell 2K Android TV"
+  },
+  {
+   "brand": "S Vision",
+   "name": "EU、UK、AP",
+   "model": "SVISION 2K Android TV"
+  },
+  {
+   "brand": "SCHNEIDER",
+   "name": "EU、UK、AP",
+   "model": "Schneider 2K Android TV"
+  },
+  {
+   "brand": "SPC",
+   "name": "EU、UK、AP",
+   "model": "SPC Android TV"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "name": "EU、UK、AP",
+   "model": "AiPlus2K"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "name": "EU、UK、AP",
+   "model": "WALTON Android TV"
+  },
+  {
+   "brand": "Sunstech",
+   "name": "Spain / Portugal",
+   "model": "SUNSTECH SD ANDROID TV"
+  },
+  {
+   "brand": "TD SYSTEMS",
+   "name": "Android TV",
+   "model": "TD SYSTEMS Android TV"
+  },
+  {
+   "brand": "TELE System",
+   "name": "EU、UK、AP",
+   "model": "TELESYSTEM 2K Android TV"
+  },
+  {
+   "brand": "Tesla",
+   "name": "EU、UK、AP",
+   "model": "Tesla Android TV"
+  },
+  {
+   "brand": "Turbo-X",
+   "name": "EU、UK、AP",
+   "model": "TURBO-X Android TV"
+  },
+  {
+   "brand": "Vision",
+   "name": "EU、UK、AP",
+   "model": "Vision Android TV"
+  },
+  {
+   "brand": "Zephir",
+   "name": "EU、UK、AP",
+   "model": "Zephir 2K Android TV"
+  }
+ ],
  "Blaupunkt": [
   {
    "brand": "Blaupunkt",
@@ -31108,148 +31280,16 @@
    "brand": "CROWN MUSTANG",
    "name": "Argentina",
    "model": "Crown Mustang 4K Android TV"
-  }
- ],
- "martin": [
-  {
-   "brand": "CAIXUN",
-   "name": "South of America",
-   "model": "AiPlus2K"
   },
   {
-   "brand": "CROWN MUSTANG",
-   "name": "Argentina",
-   "model": "Crown Mustang 2K Android TV"
-  },
-  {
-   "brand": "Continental Edison",
-   "name": "EU、UK、AP",
-   "model": "Continental Edison Android TV"
-  },
-  {
-   "brand": "Digiquest",
-   "name": "EU、UK、AP",
-   "model": "Digiquest 2K Android TV"
-  },
-  {
-   "brand": "EKO",
-   "name": "EU、UK、AP",
-   "model": "EKO 2K Android TV"
-  },
-  {
-   "brand": "Estar",
-   "name": "EU、UK、AP",
-   "model": "eSTAR 2K Android TV"
-  },
-  {
-   "brand": "F&U (Fandu)",
-   "name": "EU、UK、AP",
-   "model": "FandU Android TV"
-  },
-  {
-   "brand": "Grunkel",
-   "name": "EU、UK、AP",
-   "model": "Grunkel 2K Android TV"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "EU、UK、AP",
-   "model": "HYUNDAI ANDROID TV"
-  },
-  {
-   "brand": "JVC",
-   "name": "Canada",
-   "model": "Android TV"
-  },
-  {
-   "brand": "JVC",
-   "name": "EU、UK、AP",
-   "model": "JVC Android TV"
-  },
-  {
-   "brand": "Kioto",
-   "name": "Chile",
-   "model": "KIOTO 2K Android TV"
-  },
-  {
-   "brand": "Kogan",
-   "name": "EU、UK、AP",
-   "model": "Kogan TV"
-  },
-  {
-   "brand": "Marcel",
-   "name": "EU、UK、AP",
-   "model": "MARCEL Android TV"
-  },
-  {
-   "brand": "Multilaser",
-   "name": "Brazil",
-   "model": "Multilaser Android TV"
-  },
-  {
-   "brand": "Nano",
-   "name": "EU、UK、AP",
-   "model": "Nano Android TV"
-  },
-  {
-   "brand": "QBell",
-   "name": "EU、UK、AP",
-   "model": "Qbell 2K Android TV"
-  },
-  {
-   "brand": "S Vision",
-   "name": "EU、UK、AP",
-   "model": "SVISION 2K Android TV"
-  },
-  {
-   "brand": "SCHNEIDER",
-   "name": "EU、UK、AP",
-   "model": "Schneider 2K Android TV"
-  },
-  {
-   "brand": "SPC",
-   "name": "EU、UK、AP",
-   "model": "SPC Android TV"
-  },
-  {
-   "brand": "Smart-Tech TV",
-   "name": "EU、UK、AP",
-   "model": "AiPlus2K"
-  },
-  {
-   "brand": "Smart-Tech TV",
-   "name": "EU、UK、AP",
-   "model": "WALTON Android TV"
-  },
-  {
-   "brand": "TD SYSTEMS",
-   "name": "Android TV",
-   "model": "TD SYSTEMS Android TV"
-  },
-  {
-   "brand": "TELE System",
-   "name": "EU、UK、AP",
-   "model": "TELESYSTEM 2K Android TV"
+   "brand": "Kanji",
+   "name": "ARGENTINA",
+   "model": "KANJI 4K Android TV"
   },
   {
    "brand": "Tesla",
-   "name": "EU、UK、AP",
-   "model": "Tesla Android TV"
-  },
-  {
-   "brand": "Turbo-X",
-   "name": "EU、UK、AP",
-   "model": "TURBO-X Android TV"
-  },
-  {
-   "brand": "Vision",
-   "name": "EU、UK、AP",
-   "model": "Vision Android TV"
-  },
-  {
-   "brand": "Zephir",
-   "name": "EU、UK、AP",
-   "model": "Zephir 2K Android TV"
+   "name": "South American",
+   "model": "Tesla 4K Android TV"
   }
  ],
  "LT5": [
@@ -37627,6 +37667,18 @@
    "brand": "Continental Edison",
    "name": "CE10402",
    "model": "CE10402"
+  }
+ ],
+ "guandu": [
+  {
+   "brand": "Continental Edison",
+   "name": "France",
+   "model": "Continental Edison Android TV"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "name": "Aiplus4K",
+   "model": "Aiplus4K"
   }
  ],
  "CE10412": [
@@ -112702,6 +112754,13 @@
    "model": "LIFETAB_E7312"
   }
  ],
+ "halo": [
+  {
+   "brand": "Lenovo",
+   "name": "Legion Y70",
+   "model": "Lenovo L71091"
+  }
+ ],
  "A708t": [
   {
    "brand": "Lenovo",
@@ -114037,6 +114096,11 @@
   {
    "brand": "Lenovo",
    "name": "Lenovo Tab P11 Pro (2nd Gen)",
+   "model": "TB132FU"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "小新Pad Pro 2022",
    "model": "TB132FU"
   }
  ],
@@ -120219,6 +120283,11 @@
    "brand": "Master-G",
    "name": "\"Chile",
    "model": "Peru"
+  },
+  {
+   "brand": "Master-G",
+   "name": "\"Chile",
+   "model": "Peru\""
   },
   {
    "brand": "Master-G",
@@ -137184,6 +137253,20 @@
    "brand": "Nokia",
    "name": "Nokia G11",
    "model": "Nokia G11"
+  }
+ ],
+ "MGKA": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia G11 Plus",
+   "model": "Nokia G11 Plus"
+  }
+ ],
+ "MGKA_sprout": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia G11 Plus",
+   "model": "Nokia G11 Plus"
   }
  ],
  "RNN": [
@@ -181504,6 +181587,11 @@
  "banqiao": [
   {
    "brand": "Sharp",
+   "name": "DJ1",
+   "model": "AQUOS-TVW21A"
+  },
+  {
+   "brand": "Sharp",
    "name": "DL1X",
    "model": "AQUOS-TVP21A"
   },
@@ -184907,13 +184995,6 @@
    "brand": "Smart (BD)",
    "name": "SQ811G",
    "model": "SQ811G"
-  }
- ],
- "guandu": [
-  {
-   "brand": "Smart-Tech TV",
-   "name": "Aiplus4K",
-   "model": "Aiplus4K"
   }
  ],
  "sml5442tw": [
@@ -191213,6 +191294,11 @@
    "brand": "Sunmi",
    "name": "Sunmi L2H",
    "model": "L2H_EEA"
+  },
+  {
+   "brand": "Sunmi",
+   "name": "Sunmi L2H",
+   "model": "L2H_GL"
   }
  ],
  "SUNMI-L2KsNFC": [
@@ -204161,6 +204247,13 @@
    "model": "TECNO KG6p"
   }
  ],
+ "TECNO-KG5p": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 9",
+   "model": "TECNO KG5p"
+  }
+ ],
  "TECNO-KH7n": [
   {
    "brand": "Tecno",
@@ -215635,6 +215728,13 @@
    "brand": "Vivo",
    "name": "vivo Y75A",
    "model": "vivo Y75A"
+  }
+ ],
+ "PD2219": [
+  {
+   "brand": "Vivo",
+   "name": "vivo Y77",
+   "model": "V2219A"
   }
  ],
  "PD1803": [

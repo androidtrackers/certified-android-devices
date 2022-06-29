@@ -24692,6 +24692,11 @@
   {
    "brand": "Blaupunkt",
    "name": "Turkey",
+   "device": "martin"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "Turkey",
    "device": "tamachi"
   }
  ],
@@ -24808,6 +24813,13 @@
    "brand": "Blaupunkt",
    "name": "EU",
    "device": "tamachi"
+  }
+ ],
+ "BLAUPUNKT 2K Android TV": [
+  {
+   "brand": "Blaupunkt",
+   "name": "EU、UK、AP",
+   "device": "martin"
   }
  ],
  "Endeavour101": [
@@ -28881,6 +28893,13 @@
    "brand": "Smart-Tech TV",
    "name": "Aiplus4K",
    "device": "guandu"
+  }
+ ],
+ "Caixun Android TV": [
+  {
+   "brand": "CAIXUN",
+   "name": "Europe",
+   "device": "martin"
   }
  ],
  "AiPlus4KMY": [
@@ -35227,6 +35246,11 @@
    "brand": "Continental Edison",
    "name": "EU、UK、AP",
    "device": "martin"
+  },
+  {
+   "brand": "Continental Edison",
+   "name": "France",
+   "device": "guandu"
   }
  ],
  "Continental Android TV": [
@@ -96031,6 +96055,11 @@
    "brand": "Tesla",
    "name": "EU",
    "device": "yeongdeungpo"
+  },
+  {
+   "brand": "Tesla",
+   "name": "South American",
+   "device": "patrick"
   }
  ],
  "Pure": [
@@ -96244,6 +96273,20 @@
    "brand": "Kammunica",
    "name": "Kammunica_XD",
    "device": "Kammunica_XD"
+  }
+ ],
+ "KANJI 2K Android TV": [
+  {
+   "brand": "Kanji",
+   "name": "ARGENTINA",
+   "device": "martin"
+  }
+ ],
+ "KANJI 4K Android TV": [
+  {
+   "brand": "Kanji",
+   "name": "ARGENTINA",
+   "device": "patrick"
   }
  ],
  "KJ-AC05": [
@@ -114773,6 +114816,13 @@
    "device": "LIFETAB_E7310"
   }
  ],
+ "Lenovo L71091": [
+  {
+   "brand": "Lenovo",
+   "name": "Legion Y70",
+   "device": "halo"
+  }
+ ],
  "Lenovo A708t": [
   {
    "brand": "Lenovo",
@@ -116119,6 +116169,11 @@
   {
    "brand": "Lenovo",
    "name": "Lenovo Tab P11 Pro (2nd Gen)",
+   "device": "TB132FU"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "小新Pad Pro 2022",
    "device": "TB132FU"
   }
  ],
@@ -122368,6 +122423,11 @@
   }
  ],
  "Peru\"": [
+  {
+   "brand": "Master-G",
+   "name": "\"Chile",
+   "device": "Bolivia"
+  },
   {
    "brand": "Master-G",
    "name": "\"Chile",
@@ -139580,6 +139640,18 @@
    "device": "SCT_sprout"
   }
  ],
+ "Nokia G11 Plus": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia G11 Plus",
+   "device": "MGKA"
+  },
+  {
+   "brand": "Nokia",
+   "name": "Nokia G11 Plus",
+   "device": "MGKA_sprout"
+  }
+ ],
  "Nokia G20": [
   {
    "brand": "Nokia",
@@ -156662,6 +156734,11 @@
   }
  ],
  "Profilo 2K Android TV": [
+  {
+   "brand": "Profilo",
+   "name": "Turkey",
+   "device": "martin"
+  },
   {
    "brand": "Profilo",
    "name": "Turkey",
@@ -186899,6 +186976,13 @@
    "device": "SHV36"
   }
  ],
+ "AQUOS-TVW21A": [
+  {
+   "brand": "Sharp",
+   "name": "DJ1",
+   "device": "banqiao"
+  }
+ ],
  "AQUOS-TVP21A": [
   {
    "brand": "Sharp",
@@ -196536,6 +196620,13 @@
    "device": "SUNMI-L2HNFC"
   }
  ],
+ "L2H_GL": [
+  {
+   "brand": "Sunmi",
+   "name": "Sunmi L2H",
+   "device": "SUNMI-L2HNFC"
+  }
+ ],
  "L2Ks_EEA": [
   {
    "brand": "Sunmi",
@@ -196674,6 +196765,13 @@
    "brand": "Sunny",
    "name": "SN7032",
    "device": "SN7032"
+  }
+ ],
+ "SUNSTECH SD ANDROID TV": [
+  {
+   "brand": "Sunstech",
+   "name": "Spain / Portugal",
+   "device": "martin"
   }
  ],
  "TAB1011": [
@@ -212096,6 +212194,13 @@
    "device": "TECNO-KG6P"
   }
  ],
+ "TECNO KG5p": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 9",
+   "device": "TECNO-KG5p"
+  }
+ ],
  "TECNO KH7n": [
   {
    "brand": "Tecno",
@@ -224071,6 +224176,13 @@
    "brand": "Vivo",
    "name": "vivo Y75A",
    "device": "PD1718"
+  }
+ ],
+ "V2219A": [
+  {
+   "brand": "Vivo",
+   "name": "vivo Y77",
+   "device": "PD2219"
   }
  ],
  "vivo Y83A": [
