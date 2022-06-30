@@ -73749,23 +73749,6 @@
    "device": "HNNTN"
   }
  ],
- "ANY-NX1": [
-  {
-   "brand": "Honor",
-   "name": "HONOR Magic 4 Lite 5G",
-   "device": "HNANY-Q"
-  },
-  {
-   "brand": "Honor",
-   "name": "HONOR Magic4 Lite 5G",
-   "device": "HNANY-Q"
-  },
-  {
-   "brand": "Honor",
-   "name": "HONOR X9 5G",
-   "device": "HNANY-Q"
-  }
- ],
  "ANY-LX1": [
   {
    "brand": "Honor",
@@ -73776,6 +73759,18 @@
    "brand": "Honor",
    "name": "HONOR X9",
    "device": "HNANY-Q1"
+  }
+ ],
+ "ANY-NX1": [
+  {
+   "brand": "Honor",
+   "name": "HONOR Magic4 Lite 5G",
+   "device": "HNANY-Q"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR X9 5G",
+   "device": "HNANY-Q"
   }
  ],
  "LGE-NX9": [
@@ -141818,6 +141813,20 @@
    "device": "Nord"
   }
  ],
+ "CPH2399": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord 2T 5G",
+   "device": "OP557AL1"
+  }
+ ],
+ "CPH2401": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord 2T 5G",
+   "device": "OP557AL1"
+  }
+ ],
  "EB2101": [
   {
    "brand": "OnePlus",
@@ -191618,6 +191627,13 @@
    "brand": "Sony",
    "name": "Xperia 10 III Lite",
    "device": "XQ-BT44"
+  }
+ ],
+ "SO-52C": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 IV",
+   "device": "SO-52C"
   }
  ],
  "XQ-CC54": [
@@ -247692,6 +247708,13 @@
    "brand": "realme",
    "name": "realme 9i",
    "device": "RED8C1L1"
+  }
+ ],
+ "RMX3576": [
+  {
+   "brand": "realme",
+   "name": "realme  V23i",
+   "device": "RE873B"
   }
  ],
  "RMX3031": [

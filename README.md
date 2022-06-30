@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-06-29
+Last sync is 2022-06-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10266,7 +10266,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR 50 Lite|HNNTN|NTN-L22|
 |Honor|HONOR 50 Lite|HNNTN|NTN-LX1|
 |Honor|HONOR 50 Lite|HNNTN|NTN-LX3|
-|Honor|HONOR Magic 4 Lite 5G|HNANY-Q|ANY-NX1|
 |Honor|HONOR Magic4 Lite|HNANY-Q1|ANY-LX1|
 |Honor|HONOR Magic4 Lite 5G|HNANY-Q|ANY-NX1|
 |Honor|HONOR Magic4 Pro|HNLGE|LGE-NX9|
@@ -20609,6 +20608,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 9RT 5G|OP5155L1|MT2111|
 |OnePlus|OnePlus Nord|Nord|AC2001|
 |OnePlus|OnePlus Nord|Nord|AC2003|
+|OnePlus|OnePlus Nord 2T 5G|OP557AL1|CPH2399|
+|OnePlus|OnePlus Nord 2T 5G|OP557AL1|CPH2401|
 |OnePlus|OnePlus Nord CE 5G|OnePlusNordCE|EB2101|
 |OnePlus|OnePlus Nord CE 5G|OnePlusNordCE|EB2103|
 |OnePlus|OnePlus Nord N10 5G|OnePlusN10|BE2026|
@@ -28093,6 +28094,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 10 III|SOG04|SOG04|
 |Sony|Xperia 10 III|XQ-BT52|XQ-BT52|
 |Sony|Xperia 10 III Lite|XQ-BT44|XQ-BT44|
+|Sony|Xperia 10 IV|SO-52C|SO-52C|
 |Sony|Xperia 10 IV|XQ-CC54|XQ-CC54|
 |Sony|Xperia 10 IV|XQ-CC72|XQ-CC72|
 |Sony|Xperia 10 Plus|I3213|I3213|
@@ -36860,6 +36862,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|narzo 50 Pro 5G|RE879EL1|RMX3396|
 |realme|realme  8|RMX3085L1|RMX3085|
 |realme|realme  9i|RED8C1L1|RMX3491|
+|realme|realme  V23i|RE873B|RMX3576|
 |realme|realme  X7 Max|RMX3031L1|RMX3031|
 |realme|realme 6|RMX2001L1|RMX2001|
 |realme|realme 6|RMX2002L1|RMX2002|

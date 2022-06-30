@@ -53080,11 +53080,6 @@
    "model": "NTN-LX3"
   },
   {
-   "device": "HNANY-Q",
-   "name": "HONOR Magic 4 Lite 5G",
-   "model": "ANY-NX1"
-  },
-  {
    "device": "HNANY-Q1",
    "name": "HONOR Magic4 Lite",
    "model": "ANY-LX1"
@@ -106007,6 +106002,16 @@
    "model": "AC2003"
   },
   {
+   "device": "OP557AL1",
+   "name": "OnePlus Nord 2T 5G",
+   "model": "CPH2399"
+  },
+  {
+   "device": "OP557AL1",
+   "name": "OnePlus Nord 2T 5G",
+   "model": "CPH2401"
+  },
+  {
    "device": "OnePlusNordCE",
    "name": "OnePlus Nord CE 5G",
    "model": "EB2101"
@@ -144149,6 +144154,11 @@
    "device": "XQ-BT44",
    "name": "Xperia 10 III Lite",
    "model": "XQ-BT44"
+  },
+  {
+   "device": "SO-52C",
+   "name": "Xperia 10 IV",
+   "model": "SO-52C"
   },
   {
    "device": "XQ-CC54",
@@ -189226,6 +189236,11 @@
    "device": "RED8C1L1",
    "name": "realme  9i",
    "model": "RMX3491"
+  },
+  {
+   "device": "RE873B",
+   "name": "realme  V23i",
+   "model": "RMX3576"
   },
   {
    "device": "RMX3031L1",

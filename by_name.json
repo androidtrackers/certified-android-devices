@@ -80039,13 +80039,6 @@
    "model": "NTN-LX3"
   }
  ],
- "HONOR Magic 4 Lite 5G": [
-  {
-   "brand": "Honor",
-   "device": "HNANY-Q",
-   "model": "ANY-NX1"
-  }
- ],
  "HONOR Magic4 Lite": [
   {
    "brand": "Honor",
@@ -139673,6 +139666,18 @@
    "model": "AC2003"
   }
  ],
+ "OnePlus Nord 2T 5G": [
+  {
+   "brand": "OnePlus",
+   "device": "OP557AL1",
+   "model": "CPH2399"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OP557AL1",
+   "model": "CPH2401"
+  }
+ ],
  "OnePlus Nord CE 5G": [
   {
    "brand": "OnePlus",
@@ -184212,6 +184217,11 @@
   }
  ],
  "Xperia 10 IV": [
+  {
+   "brand": "Sony",
+   "device": "SO-52C",
+   "model": "SO-52C"
+  },
   {
    "brand": "Sony",
    "device": "XQ-CC54",
@@ -234830,6 +234840,13 @@
    "brand": "realme",
    "device": "RED8C1L1",
    "model": "RMX3491"
+  }
+ ],
+ "realme  V23i": [
+  {
+   "brand": "realme",
+   "device": "RE873B",
+   "model": "RMX3576"
   }
  ],
  "realme  X7 Max": [
