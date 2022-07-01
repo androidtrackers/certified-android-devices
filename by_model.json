@@ -93442,6 +93442,11 @@
   },
   {
    "brand": "Itel",
+   "name": "itel V51 LTE",
+   "device": "itel-L5007S"
+  },
+  {
+   "brand": "Itel",
    "name": "itel-L5007S",
    "device": "itel-L5007S"
   }
@@ -141429,6 +141434,55 @@
    "device": "OnePlus"
   }
  ],
+ "NE2210": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 10 Pro",
+   "device": "OP516EL1"
+  }
+ ],
+ "NE2211": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 10 Pro 5G",
+   "device": "OP516FL1"
+  }
+ ],
+ "NE2213": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 10 Pro 5G",
+   "device": "OP516FL1"
+  }
+ ],
+ "NE2215": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 10 Pro 5G",
+   "device": "OP516FL1"
+  }
+ ],
+ "NE2217": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 10 Pro 5G",
+   "device": "OP516FL1"
+  }
+ ],
+ "CPH2411": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 10R 5G",
+   "device": "OP5566L1"
+  }
+ ],
+ "CPH2423": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 10R 5G",
+   "device": "OP5567L1"
+  }
+ ],
  "ONEPLUS A6000": [
   {
    "brand": "OnePlus",
@@ -141799,6 +141853,20 @@
    "device": "OP5155L1"
   }
  ],
+ "PGKM10": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Ace",
+   "device": "OP5565"
+  }
+ ],
+ "PGZ110": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Ace 竞速版",
+   "device": "OP5911"
+  }
+ ],
  "AC2001": [
   {
    "brand": "OnePlus",
@@ -141825,6 +141893,27 @@
    "brand": "OnePlus",
    "name": "OnePlus Nord 2T 5G",
    "device": "OP557AL1"
+  }
+ ],
+ "IV2201": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord CE 2",
+   "device": "OP555BL1"
+  }
+ ],
+ "CPH2381": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord CE 2 Lite 5G",
+   "device": "OP535DL1"
+  }
+ ],
+ "CPH2409": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord CE 2 Lite 5G",
+   "device": "OP535DL1"
   }
  ],
  "EB2101": [
@@ -141915,6 +142004,20 @@
    "brand": "OnePlus",
    "name": "OnePlus Nord N100",
    "device": "OnePlusN100TMO"
+  }
+ ],
+ "CPH2459": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord N20 5G",
+   "device": "OP5159L1"
+  }
+ ],
+ "GN2200": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord N20 5G",
+   "device": "OP515AL1"
   }
  ],
  "DE2117": [
@@ -150908,6 +151011,13 @@
   }
  ],
  "Philips FHD Android TV": [
+  {
+   "brand": "Philips",
+   "name": "Philips Android TV",
+   "device": "PH0M_EA_T32"
+  }
+ ],
+ "Philips UHD Android TV": [
   {
    "brand": "Philips",
    "name": "Philips Android TV",
@@ -191629,11 +191739,32 @@
    "device": "XQ-BT44"
   }
  ],
+ "A202SO": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 IV",
+   "device": "A202SO"
+  }
+ ],
  "SO-52C": [
   {
    "brand": "Sony",
    "name": "Xperia 10 IV",
    "device": "SO-52C"
+  }
+ ],
+ "SOG07": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 IV",
+   "device": "SOG07"
+  }
+ ],
+ "XQ-CC44": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 IV",
+   "device": "XQ-CC44"
   }
  ],
  "XQ-CC54": [
@@ -211700,6 +211831,13 @@
    "device": "TECNO-Mobile-KG8"
   }
  ],
+ "TECNO KG5q": [
+  {
+   "brand": "Tecno",
+   "name": "SPARK 8C",
+   "device": "TECNO-KG5q"
+  }
+ ],
  "TECNO KA9": [
   {
    "brand": "Tecno",
@@ -217387,6 +217525,13 @@
    "brand": "Unitech",
    "name": "EA630_Plus",
    "device": "EA630_Plus"
+  }
+ ],
+ "HT330": [
+  {
+   "brand": "Unitech",
+   "name": "HT330",
+   "device": "HT330"
   }
  ],
  "HT730": [
@@ -247971,6 +248116,13 @@
    "brand": "realme",
    "name": "realme GT NEO 3 150W",
    "device": "RED8BEL1"
+  }
+ ],
+ "RMX3371": [
+  {
+   "brand": "realme",
+   "name": "realme GT NEO 3T",
+   "device": "RE54E4L1"
   }
  ],
  "RMX2117": [

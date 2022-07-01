@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-06-30
+Last sync is 2022-07-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13213,6 +13213,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel S32LTE|itel-S32LTE|itel S32LTE|
 |Itel|itel TV|shibuya|itel TV|
 |Itel|itel V41|itel-W4001S|itel W4001S|
+|Itel|itel V51 LTE|itel-L5007S|itel L5007S|
 |Itel|itel Vision1(P36 Play)|itel-L6005|itel L6005|
 |Itel|itel Vision2s|itel-P651L|itel P651L|
 |Itel|itel W4001|itel-W4001|itel W4001|
@@ -20553,6 +20554,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|One|A0001|A0001|
 |OnePlus|One|A0001|One|
 |OnePlus|OnePlus|OnePlus|ONE E1003|
+|OnePlus|OnePlus 10 Pro|OP516EL1|NE2210|
+|OnePlus|OnePlus 10 Pro 5G|OP516FL1|NE2211|
+|OnePlus|OnePlus 10 Pro 5G|OP516FL1|NE2213|
+|OnePlus|OnePlus 10 Pro 5G|OP516FL1|NE2215|
+|OnePlus|OnePlus 10 Pro 5G|OP516FL1|NE2217|
+|OnePlus|OnePlus 10R 5G|OP5566L1|CPH2411|
+|OnePlus|OnePlus 10R 5G|OP5567L1|CPH2423|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6000|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6003|
 |OnePlus|OnePlus 7|OnePlus7|GM1900|
@@ -20606,10 +20614,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 9R|OnePlus9R|LE2100|
 |OnePlus|OnePlus 9RT 5G|OP5154L1|MT2110|
 |OnePlus|OnePlus 9RT 5G|OP5155L1|MT2111|
+|OnePlus|OnePlus Ace|OP5565|PGKM10|
+|OnePlus|OnePlus Ace 竞速版|OP5911|PGZ110|
 |OnePlus|OnePlus Nord|Nord|AC2001|
 |OnePlus|OnePlus Nord|Nord|AC2003|
 |OnePlus|OnePlus Nord 2T 5G|OP557AL1|CPH2399|
 |OnePlus|OnePlus Nord 2T 5G|OP557AL1|CPH2401|
+|OnePlus|OnePlus Nord CE 2|OP555BL1|IV2201|
+|OnePlus|OnePlus Nord CE 2 Lite 5G|OP535DL1|CPH2381|
+|OnePlus|OnePlus Nord CE 2 Lite 5G|OP535DL1|CPH2409|
 |OnePlus|OnePlus Nord CE 5G|OnePlusNordCE|EB2101|
 |OnePlus|OnePlus Nord CE 5G|OnePlusNordCE|EB2103|
 |OnePlus|OnePlus Nord N10 5G|OnePlusN10|BE2026|
@@ -20624,6 +20637,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Nord N100|OnePlusN100METRO|BE2015|
 |OnePlus|OnePlus Nord N100|OnePlusN100TMO|BE2012|
 |OnePlus|OnePlus Nord N100|OnePlusN100TMO|BE2013|
+|OnePlus|OnePlus Nord N20 5G|OP5159L1|CPH2459|
+|OnePlus|OnePlus Nord N20 5G|OP515AL1|GN2200|
 |OnePlus|OnePlus Nord N200 5G|OnePlusN200|DE2117|
 |OnePlus|OnePlus Nord N200 5G|OnePlusN200TMO|DE2118|
 |OnePlus|OnePlus Nord2 5G|OP515BL1|DN2101|
@@ -22009,6 +22024,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|Philips Android TV|PH0M_EA_T32|2020/2021 FHD Android TV|
 |Philips|Philips Android TV|PH0M_EA_T32|2020/2021 UHD Android TV|
 |Philips|Philips Android TV|PH0M_EA_T32|Philips FHD Android TV|
+|Philips|Philips Android TV|PH0M_EA_T32|Philips UHD Android TV|
 |Philips|Philips Android TV|PH1M_EA_9970A|2021/22 Philips UHD Android TV|
 |Philips|Philips Android TV|PH9M_EA_5599|TPM191E|
 |Philips|Philips Android TV|PH9M_EA_5599|TPM191KN|
@@ -28094,7 +28110,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 10 III|SOG04|SOG04|
 |Sony|Xperia 10 III|XQ-BT52|XQ-BT52|
 |Sony|Xperia 10 III Lite|XQ-BT44|XQ-BT44|
+|Sony|Xperia 10 IV|A202SO|A202SO|
 |Sony|Xperia 10 IV|SO-52C|SO-52C|
+|Sony|Xperia 10 IV|SOG07|SOG07|
+|Sony|Xperia 10 IV|XQ-CC44|XQ-CC44|
 |Sony|Xperia 10 IV|XQ-CC54|XQ-CC54|
 |Sony|Xperia 10 IV|XQ-CC72|XQ-CC72|
 |Sony|Xperia 10 Plus|I3213|I3213|
@@ -31146,6 +31165,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|SPARK 6 Go|TECNO-KE5k|TECNO KE5k|
 |Tecno|SPARK 8 Pro|TECNO-KG8|TECNO KG8|
 |Tecno|SPARK 8 Pro|TECNO-Mobile-KG8|TECNO Mobile KG8|
+|Tecno|SPARK 8C|TECNO-KG5q|TECNO KG5q|
 |Tecno|SPARK CM|TECNO-KA9|TECNO KA9|
 |Tecno|SPARK Go 2020|TECNO-KE5S|TECNO KE5S|
 |Tecno|SPARK Go 2021(SPARK 6 Go)|TECNO-KE5|TECNO KE5|
@@ -32077,6 +32097,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unitech|EA630|EA630|EA630|
 |Unitech|EA630Plus|EA630Plus|EA630Plus|
 |Unitech|EA630_Plus|EA630_Plus|EA630_Plus|
+|Unitech|HT330|HT330|HT330|
 |Unitech|HT730|HT730|HT730|
 |Unitech|PA760|PA760|PA760|
 |Unitech|PA760_EE|PA760|PA760|
@@ -36912,6 +36933,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme GT Master Edition|RE54ABL1|RMX3360|
 |realme|realme GT NEO 3|RED8BEL1|RMX3561|
 |realme|realme GT NEO 3 150W|RED8BEL1|RMX3563|
+|realme|realme GT NEO 3T|RE54E4L1|RMX3371|
 |realme|realme GT Neo2 5G|RE879AL1|RMX3370|
 |realme|realme Narzo 30 Pro 5G|RMX2117L1|RMX2117|
 |realme|realme Pad mini|RE87CCL1|RMP2105|
