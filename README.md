@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-07-01
+Last sync is 2022-07-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -529,6 +529,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aconatic|ACONATIC|bangbae|Aconatic 4K Android TV|
 |Aconatic|ACONATIC|bruno|ACONATIC 2K Android TV|
 |Aconatic|ACONATIC|shilin|ACONATIC 4K Android TV|
+|Aconatic|ACONATIC|stanford|2K SMART TV|
 |Aconatic|ACONATIC FHD TV|takao|ACONATIC FHD TV|
 |Aconatic|ACONATIC UHD TV|OD0M_EA_T32|ACONATIC UHD TV|
 |Aconatic|Aconatic|komagome|Aconatic 2K Android TV|
@@ -24437,7 +24438,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A13|a13ve|SM-A137F|
 |Samsung|Galaxy A13 5G|a13x|SM-A136B|
 |Samsung|Galaxy A13 5G|a13x|SM-A136M|
-|Samsung|Galaxy A13 5G|a13x|SM-A136S|
 |Samsung|Galaxy A13 5G|a13x|SM-A136U|
 |Samsung|Galaxy A13 5G|a13x|SM-A136U1|
 |Samsung|Galaxy A13 5G|a13x|SM-A136W|
@@ -26869,6 +26869,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Wide3|j7toplteskt|SM-J737S|
 |Samsung|Galaxy Wide4|a20|SM-A205S|
 |Samsung|Galaxy Wide5|f42x|SM-E426S|
+|Samsung|Galaxy Wide6|a13x|SM-A136S|
 |Samsung|Galaxy Win|delos3gcmcc|GT-I8558|
 |Samsung|Galaxy Win|delos3gduosctc|SCH-I869|
 |Samsung|Galaxy Win|delos3geur|GT-I8552|
@@ -32732,6 +32733,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivax|TPC_8053G|TPC_8053G|TPC_8053G|
 |Vivax|TPC_8063G|TPC_8063G|TPC_8063G|
 |Vivax|TPC_8074G|TPC_8074G|TPC_8074G|
+|Vivax|VIVAX|stanford|2K SMART TV|
 |Vivax|VIVAX Fly6|VIVAX_Fly6|VIVAX Fly6|
 |Vivax|VIVAX Fun_S1|FUN_S1|FUN S1|
 |Vivax|VIVAX Point X2 Lite|VIVAX_Point_X2_Lite|VIVAX_Point_X2_Lite|

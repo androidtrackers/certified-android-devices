@@ -1038,6 +1038,11 @@
    "model": "40D"
   },
   {
+   "brand": "Aconatic",
+   "name": "ACONATIC",
+   "model": "2K SMART TV"
+  },
+  {
    "brand": "Aiwa",
    "name": "AIWA",
    "model": "SMART TV"
@@ -1196,6 +1201,11 @@
    "brand": "Siragon",
    "name": "SA",
    "model": "SMART TV"
+  },
+  {
+   "brand": "Vivax",
+   "name": "VIVAX",
+   "model": "2K SMART TV"
   }
  ],
  "tamachi": [
@@ -163039,11 +163049,6 @@
   {
    "brand": "Samsung",
    "name": "Galaxy A13 5G",
-   "model": "SM-A136S"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy A13 5G",
    "model": "SM-A136U"
   },
   {
@@ -163065,6 +163070,11 @@
    "brand": "Samsung",
    "name": "Galaxy M13 5G",
    "model": "SM-M136B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Wide6",
+   "model": "SM-A136S"
   }
  ],
  "a2corelte": [

@@ -5578,6 +5578,43 @@
    "device": "shilin"
   }
  ],
+ "2K SMART TV": [
+  {
+   "brand": "Aconatic",
+   "name": "ACONATIC",
+   "device": "stanford"
+  },
+  {
+   "brand": "Dyon",
+   "name": "Dyon",
+   "device": "stanford"
+  },
+  {
+   "brand": "JVC",
+   "name": "SA",
+   "device": "stanford"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "AP",
+   "device": "stanford"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "Banana",
+   "device": "stanford"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "Maxsonic_elite",
+   "device": "stanford"
+  },
+  {
+   "brand": "Vivax",
+   "name": "VIVAX",
+   "device": "stanford"
+  }
+ ],
  "ACONATIC FHD TV": [
   {
    "brand": "Aconatic",
@@ -45692,33 +45729,6 @@
    "brand": "Dyon",
    "name": "Dyon",
    "device": "komagome"
-  }
- ],
- "2K SMART TV": [
-  {
-   "brand": "Dyon",
-   "name": "Dyon",
-   "device": "stanford"
-  },
-  {
-   "brand": "JVC",
-   "name": "SA",
-   "device": "stanford"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "AP",
-   "device": "stanford"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "Banana",
-   "device": "stanford"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "Maxsonic_elite",
-   "device": "stanford"
   }
  ],
  "Eclipse_G400M": [
@@ -166875,13 +166885,6 @@
    "device": "a13x"
   }
  ],
- "SM-A136S": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy A13 5G",
-   "device": "a13x"
-  }
- ],
  "SM-A136U": [
   {
    "brand": "Samsung",
@@ -183589,6 +183592,13 @@
    "brand": "Samsung",
    "name": "Galaxy Wide5",
    "device": "f42x"
+  }
+ ],
+ "SM-A136S": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Wide6",
+   "device": "a13x"
   }
  ],
  "GT-I8558": [

@@ -11155,6 +11155,11 @@
    "brand": "Aconatic",
    "device": "shilin",
    "model": "ACONATIC 4K Android TV"
+  },
+  {
+   "brand": "Aconatic",
+   "device": "stanford",
+   "model": "2K SMART TV"
   }
  ],
  "ACONATIC FHD TV": [
@@ -163405,11 +163410,6 @@
   {
    "brand": "Samsung",
    "device": "a13x",
-   "model": "SM-A136S"
-  },
-  {
-   "brand": "Samsung",
-   "device": "a13x",
    "model": "SM-A136U"
   },
   {
@@ -176628,6 +176628,13 @@
    "brand": "Samsung",
    "device": "f42x",
    "model": "SM-E426S"
+  }
+ ],
+ "Galaxy Wide6": [
+  {
+   "brand": "Samsung",
+   "device": "a13x",
+   "model": "SM-A136S"
   }
  ],
  "Galaxy Win": [
@@ -211105,6 +211112,13 @@
    "brand": "Vivax",
    "device": "TPC_8074G",
    "model": "TPC_8074G"
+  }
+ ],
+ "VIVAX": [
+  {
+   "brand": "Vivax",
+   "device": "stanford",
+   "model": "2K SMART TV"
   }
  ],
  "VIVAX Fly6": [

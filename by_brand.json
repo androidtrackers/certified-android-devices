@@ -2785,6 +2785,11 @@
    "model": "ACONATIC 4K Android TV"
   },
   {
+   "device": "stanford",
+   "name": "ACONATIC",
+   "model": "2K SMART TV"
+  },
+  {
    "device": "takao",
    "name": "ACONATIC FHD TV",
    "model": "ACONATIC FHD TV"
@@ -125715,11 +125720,6 @@
   {
    "device": "a13x",
    "name": "Galaxy A13 5G",
-   "model": "SM-A136S"
-  },
-  {
-   "device": "a13x",
-   "name": "Galaxy A13 5G",
    "model": "SM-A136U"
   },
   {
@@ -137871,6 +137871,11 @@
    "device": "f42x",
    "name": "Galaxy Wide5",
    "model": "SM-E426S"
+  },
+  {
+   "device": "a13x",
+   "name": "Galaxy Wide6",
+   "model": "SM-A136S"
   },
   {
    "device": "delos3gcmcc",
@@ -168054,6 +168059,11 @@
    "device": "TPC_8074G",
    "name": "TPC_8074G",
    "model": "TPC_8074G"
+  },
+  {
+   "device": "stanford",
+   "name": "VIVAX",
+   "model": "2K SMART TV"
   },
   {
    "device": "VIVAX_Fly6",
