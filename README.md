@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-07-02
+Last sync is 2022-07-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -20984,6 +20984,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO A54|OP4E7B|PEZM00|
 |Oppo|OPPO A74 5G|OP4F39L1|CPH2197|
 |Oppo|OPPO A95 5G|OP4EB7|PELM00|
+|Oppo|OPPO F21 Pro 5G|OP532FL1|CPH2341|
 |Oppo|OPPO Find X5 Pro|OP52D1L1|CPH2305|
 |Oppo|OPPO Pad|OP5223|OPD2101|
 |Oppo|OPPO Reno5 A|OP4F2BL1|A101OP|
