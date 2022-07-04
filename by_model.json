@@ -5610,6 +5610,11 @@
    "device": "stanford"
   },
   {
+   "brand": "Smart-Tech TV",
+   "name": "SMART TECHNOLOGY",
+   "device": "stanford"
+  },
+  {
    "brand": "Vivax",
    "name": "VIVAX",
    "device": "stanford"
@@ -7319,6 +7324,13 @@
    "brand": "Aiwa",
    "name": "TA-07-232",
    "device": "TA-07-232"
+  }
+ ],
+ "TA-10-232": [
+  {
+   "brand": "Aiwa",
+   "name": "TA-10-232",
+   "device": "TA-10-232"
   }
  ],
  "TA07-2GB": [
@@ -9801,6 +9813,11 @@
    "brand": "Cat",
    "name": "Cat S61",
    "device": "CatS61"
+  },
+  {
+   "brand": "Doogee",
+   "name": "S61",
+   "device": "S61"
   },
   {
    "brand": "Mobell",
@@ -18422,6 +18439,53 @@
    "device": "AZUMI_V60_AC04"
   }
  ],
+ "M10": [
+  {
+   "brand": "BAKEN",
+   "name": "M10",
+   "device": "M10_A03"
+  },
+  {
+   "brand": "Dragontouch",
+   "name": "M10",
+   "device": "M10"
+  },
+  {
+   "brand": "Evertek",
+   "name": "M10",
+   "device": "M10"
+  },
+  {
+   "brand": "Leagoo",
+   "name": "M10",
+   "device": "M10"
+  },
+  {
+   "brand": "Monster",
+   "name": "M10",
+   "device": "M10"
+  },
+  {
+   "brand": "Pritom",
+   "name": "M10",
+   "device": "M10_A01"
+  },
+  {
+   "brand": "Pritom",
+   "name": "M10_A01_EEA",
+   "device": "M10_A01_EEA"
+  },
+  {
+   "brand": "Snopow",
+   "name": "M10",
+   "device": "M10"
+  },
+  {
+   "brand": "Southern Telecom",
+   "name": "M10",
+   "device": "ST1009"
+  }
+ ],
  "A101BM": [
   {
    "brand": "BALMUDA",
@@ -24483,6 +24547,11 @@
    "brand": "Blackview",
    "name": "Tab6s_EEA",
    "device": "Tab6s_EEA"
+  },
+  {
+   "brand": "Blackview",
+   "name": "Tab6s_NEU",
+   "device": "Tab6s_NEU"
   }
  ],
  "Tab8": [
@@ -26750,6 +26819,13 @@
    "brand": "Blu",
    "name": "S91",
    "device": "S0690WW"
+  }
+ ],
+ "S91 Pro": [
+  {
+   "brand": "Blu",
+   "name": "S91 Pro",
+   "device": "S0730WW"
   }
  ],
  "Studio X9 HD": [
@@ -36464,6 +36540,13 @@
    "device": "CoolpadCM001"
   }
  ],
+ "CP07": [
+  {
+   "brand": "Coolpad",
+   "name": "COOL 20S 5G",
+   "device": "CP07"
+  }
+ ],
  "COOLPAD C202": [
   {
    "brand": "Coolpad",
@@ -45291,48 +45374,6 @@
    "device": "KidzPad_Y88X_8_EEA"
   }
  ],
- "M10": [
-  {
-   "brand": "Dragontouch",
-   "name": "M10",
-   "device": "M10"
-  },
-  {
-   "brand": "Evertek",
-   "name": "M10",
-   "device": "M10"
-  },
-  {
-   "brand": "Leagoo",
-   "name": "M10",
-   "device": "M10"
-  },
-  {
-   "brand": "Monster",
-   "name": "M10",
-   "device": "M10"
-  },
-  {
-   "brand": "Pritom",
-   "name": "M10",
-   "device": "M10_A01"
-  },
-  {
-   "brand": "Pritom",
-   "name": "M10_A01_EEA",
-   "device": "M10_A01_EEA"
-  },
-  {
-   "brand": "Snopow",
-   "name": "M10",
-   "device": "M10"
-  },
-  {
-   "brand": "Southern Telecom",
-   "name": "M10",
-   "device": "ST1009"
-  }
- ],
  "MAX 10": [
   {
    "brand": "Dragontouch",
@@ -49394,6 +49435,11 @@
    "brand": "Evercoss",
    "name": "U55",
    "device": "U55"
+  },
+  {
+   "brand": "QUICK",
+   "name": "U55",
+   "device": "U55"
   }
  ],
  "U6": [
@@ -49764,6 +49810,13 @@
    "brand": "Evertek",
    "name": "M20_S",
    "device": "M20_S"
+  }
+ ],
+ "M20_Ultra": [
+  {
+   "brand": "Evertek",
+   "name": "M20_Ultra",
+   "device": "M20_Ultra"
   }
  ],
  "P17": [
@@ -57255,6 +57308,13 @@
    "device": "GS5"
   }
  ],
+ "E940-2878-03": [
+  {
+   "brand": "Gigaset",
+   "name": "GS5 LITE",
+   "device": "GS5_LITE"
+  }
+ ],
  "E940-2796-05": [
   {
    "brand": "Gigaset",
@@ -60488,6 +60548,13 @@
    "brand": "HDC S.A.",
    "name": "HDC",
    "device": "TK718"
+  }
+ ],
+ "T10_232": [
+  {
+   "brand": "HDC S.A.",
+   "name": "T10_232",
+   "device": "T10_232"
   }
  ],
  "T700B": [
@@ -74190,6 +74257,13 @@
    "brand": "Hotwav",
    "name": "Symbol X",
    "device": "Symbol_X"
+  }
+ ],
+ "T5 Pro": [
+  {
+   "brand": "Hotwav",
+   "name": "T5 Pro",
+   "device": "T5_Pro"
   }
  ],
  "Venus": [
@@ -94266,6 +94340,13 @@
    "device": "JESY_J20"
   }
  ],
+ "JESY K1": [
+  {
+   "brand": "Jesy",
+   "name": "JESY K1",
+   "device": "JESY_K1"
+  }
+ ],
  "JESY_K1": [
   {
    "brand": "Jesy",
@@ -110619,6 +110700,13 @@
    "device": "MID_789IPSA100"
   }
  ],
+ "MID_799IPS": [
+  {
+   "brand": "Laser",
+   "name": "MID_799IPS",
+   "device": "MID_799IPS"
+  }
+ ],
  "LAVAA1": [
   {
    "brand": "Lava",
@@ -122749,13 +122837,6 @@
    "brand": "Maxwest",
    "name": "Astro 6M",
    "device": "Astro_6M"
-  }
- ],
- "Astro 6R": [
-  {
-   "brand": "Maxwest",
-   "name": "Astro 6R",
-   "device": "Astro_6R"
   }
  ],
  "Astro_6S": [
@@ -147080,6 +147161,18 @@
    "device": "WP2"
   }
  ],
+ "WP20": [
+  {
+   "brand": "Oukitel",
+   "name": "WP20_EEA",
+   "device": "WP20"
+  },
+  {
+   "brand": "Peninsula",
+   "name": "WP20",
+   "device": "WP20"
+  }
+ ],
  "WP5": [
   {
    "brand": "Oukitel",
@@ -150485,13 +150578,6 @@
    "brand": "Pendo",
    "name": "Pendo",
    "device": "PNDP70M7BLK"
-  }
- ],
- "WP20": [
-  {
-   "brand": "Peninsula",
-   "name": "WP20",
-   "device": "WP20"
   }
  ],
  "WP20N": [
@@ -190605,6 +190691,13 @@
    "device": "ST8200"
   }
  ],
+ "ST8888": [
+  {
+   "brand": "Smartab",
+   "name": "ST8888",
+   "device": "ST8888"
+  }
+ ],
  "STJR700": [
   {
    "brand": "Smartab",
@@ -196188,6 +196281,13 @@
    "brand": "Stylo",
    "name": "LIFE_2",
    "device": "LIFE_2"
+  }
+ ],
+ "MOSCOW": [
+  {
+   "brand": "Stylo",
+   "name": "MOSCOW",
+   "device": "MOSCOW"
   }
  ],
  "PRIME": [
@@ -213374,6 +213474,13 @@
    "device": "Telma_F1_Max_4G"
   }
  ],
+ "Telma_S_Prime": [
+  {
+   "brand": "Telma",
+   "name": "Telma_S_Prime",
+   "device": "Telma_S_Prime"
+  }
+ ],
  "TE580P": [
   {
    "brand": "TeloSystems",
@@ -216653,6 +216760,13 @@
    "device": "8C_LTE"
   }
  ],
+ "8L_PLUS_EEA": [
+  {
+   "brand": "Umax",
+   "name": "8L_PLUS_EEA",
+   "device": "8L_PLUS_EEA"
+  }
+ ],
  "8Qa_3G": [
   {
    "brand": "Umax",
@@ -217376,6 +217490,13 @@
    "brand": "Unihertz",
    "name": "Jelly2_JP",
    "device": "Jelly2_JP"
+  }
+ ],
+ "UNIA62_S01": [
+  {
+   "brand": "Unihertz",
+   "name": "TickTock-E",
+   "device": "UNIA62"
   }
  ],
  "Ticktock": [
@@ -218114,6 +218235,13 @@
    "brand": "VNPT Technology",
    "name": "VNPT SmartBox 2x",
    "device": "vnptt_smb_v2x"
+  }
+ ],
+ "VNTTab2": [
+  {
+   "brand": "VNPT Technology",
+   "name": "VNPTTechnology",
+   "device": "VNTTab2"
   }
  ],
  "VNT_Tab8": [
@@ -226883,6 +227011,13 @@
    "device": "WE_V4"
   }
  ],
+ "WeTap_Y10": [
+  {
+   "brand": "WeTap",
+   "name": "WeTap_Y10",
+   "device": "WeTap_Y10"
+  }
+ ],
  "Play": [
   {
    "brand": "WeTek",
@@ -228184,6 +228319,13 @@
    "device": "WC300SN"
   }
  ],
+ "VHEM": [
+  {
+   "brand": "Wiko",
+   "name": "WIKO 10",
+   "device": "VHEM"
+  }
+ ],
  "WIM": [
   {
    "brand": "Wiko",
@@ -228538,6 +228680,13 @@
   }
  ],
  "W-K630-TRU": [
+  {
+   "brand": "Wiko",
+   "name": "Y82",
+   "device": "W-K630"
+  }
+ ],
+ "W-K630-TVM": [
   {
    "brand": "Wiko",
    "name": "Y82",
