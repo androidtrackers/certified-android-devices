@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-07-06
+Last sync is 2022-07-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1786,6 +1786,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ROG Phone 5|ASUS_I005_1|ASUS_I005DB|
 |Asus|ROG Phone 5|ASUS_I005_1|ZS673KS|
 |Asus|ROG Phone 5|ASUS_I005_1|ZS676KS|
+|Asus|ROG Phone 6 (AI2201)|ASUS_AI2201|ASUS_AI2201_B|
+|Asus|ROG Phone 6 (AI2201)|ASUS_AI2201|ASUS_AI2201_C|
+|Asus|ROG Phone 6 (AI2201)|ASUS_AI2201|ASUS_AI2201_D|
 |Asus|ROG Phone ll|ASUS_I001_1|ASUS_I001D|
 |Asus|ROG Phone ll|ASUS_I001_1|ASUS_I001DC|
 |Asus|ROG Phone ll|ASUS_I001_1|ASUS_I001DE|
@@ -4665,6 +4668,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Connex|CTAB-1044|CTAB-1044|CTAB-1044|
 |Connex|CTAB1044hn|CTAB1044hn|CTAB1044hn|
 |Connex|SEN_1055_ARM|SEN_1055_ARM|SEN_1055_ARM|
+|Connex|SEN_1055_ARM1064|SEN_1055_ARM|SEN_1055_ARM1064|
 |Connexion TV|VIP6102W FCGOV|vip6102w|VIP6102W|
 |Conquest|CONQUEST S12Pro|S12Pro|S12Pro|
 |Conquest|S11|conquest-S11|S11|
@@ -13166,6 +13170,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|it1702|itel_it1702|itel it1702|
 |Itel|it1703|itel_it1703|itel it1703|
 |Itel|itel  A24|itel-A507LN|itel A507LN|
+|Itel|itel  A58 Lite|itel-A631W-R2|itel A631W|
 |Itel|itel  V51 LTE|itel-A507LP|itel A507LP|
 |Itel|itel 4K TV|SW4H|itel 4K TV|
 |Itel|itel A11|itel_A11|itel A11|
@@ -16877,6 +16882,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|小新Pad Pro 12.6|Q706F|Lenovo TB-Q706F|
 |Lenovo|小新Pad Pro 2021|J716F|Lenovo TB-J716F|
 |Lenovo|小新Pad Pro 2022|TB132FU|TB132FU|
+|Lenovo|小新Pad Pro 2022|olivine|TB138FC|
 |Lenovo|小新平板|TB-8804F|Lenovo TB-8804F|
 |Lenovo|小新平板|X804F|Lenovo TB-X804F|
 |Lenovo|拯救者电竞手机|moba|Lenovo L79031|
@@ -27344,6 +27350,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS R6|Judau|A101SH|
 |Sharp|AQUOS R6|Judau|SH-M22|
 |Sharp|AQUOS R6|SH-51B|SH-51B|
+|Sharp|AQUOS R7|Mineva|A202SH|
 |Sharp|AQUOS SERIE SHL25|SHL25|SHL25|
 |Sharp|AQUOS SERIE SHV32|SHV32|SHV32|
 |Sharp|AQUOS SERIE SHV34|SHV34|SHV34|
@@ -31875,6 +31882,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor 11 5G|Armor_11_5G|Armor 11 5G|
 |Ulefone|Armor 11T 5G|Armor_11T_5G|Armor 11T 5G|
 |Ulefone|Armor 12 5G|Armor_12_5G|Armor 12 5G|
+|Ulefone|Armor 15|Armor_15|Armor 15|
 |Ulefone|Armor 2|Armor_2|Armor_2|
 |Ulefone|Armor 2S|Armor_2S|Armor_2S|
 |Ulefone|Armor 6|Armor_6|Armor_6|
@@ -34361,6 +34369,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 12 Pro|zeus|2201122C|
 |Xiaomi|Xiaomi 12 Pro|zeus|2201122G|
 |Xiaomi|Xiaomi 12 Pro Dimensity|daumier|2207122MC|
+|Xiaomi|Xiaomi 12S|mayfly|2206123SC|
+|Xiaomi|Xiaomi 12S Pro|unicorn|2206122SC|
 |Xiaomi|Xiaomi 12S Ultra|thor|2203121C|
 |Xiaomi|Xiaomi 12X|psyche|2112123AC|
 |Xiaomi|Xiaomi Civi|mona|2109119BC|

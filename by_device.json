@@ -17462,6 +17462,23 @@
    "model": "ZS676KS"
   }
  ],
+ "ASUS_AI2201": [
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 6 (AI2201)",
+   "model": "ASUS_AI2201_B"
+  },
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 6 (AI2201)",
+   "model": "ASUS_AI2201_C"
+  },
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 6 (AI2201)",
+   "model": "ASUS_AI2201_D"
+  }
+ ],
  "ASUS_I001_1": [
   {
    "brand": "Asus",
@@ -37799,6 +37816,11 @@
    "brand": "Connex",
    "name": "SEN_1055_ARM",
    "model": "SEN_1055_ARM"
+  },
+  {
+   "brand": "Connex",
+   "name": "SEN_1055_ARM1064",
+   "model": "SEN_1055_ARM1064"
   }
  ],
  "S12Pro": [
@@ -92837,6 +92859,18 @@
    "model": "itel A507LN"
   }
  ],
+ "itel-A631W-R2": [
+  {
+   "brand": "Itel",
+   "name": "itel  A58 Lite",
+   "model": "itel A631W"
+  },
+  {
+   "brand": "Itel",
+   "name": "itel A58 Lite",
+   "model": "itel A631W"
+  }
+ ],
  "itel-A507LP": [
   {
    "brand": "Itel",
@@ -93120,13 +93154,6 @@
   }
  ],
  "itel-A631W": [
-  {
-   "brand": "Itel",
-   "name": "itel A58 Lite",
-   "model": "itel A631W"
-  }
- ],
- "itel-A631W-R2": [
   {
    "brand": "Itel",
    "name": "itel A58 Lite",
@@ -115796,6 +115823,13 @@
    "brand": "Lenovo",
    "name": "小新Pad Pro 2021",
    "model": "Lenovo TB-J716F"
+  }
+ ],
+ "olivine": [
+  {
+   "brand": "Lenovo",
+   "name": "小新Pad Pro 2022",
+   "model": "TB138FC"
   }
  ],
  "TB-8804F": [
@@ -181354,6 +181388,13 @@
    "model": "SH-51B"
   }
  ],
+ "Mineva": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS R7",
+   "model": "A202SH"
+  }
+ ],
  "SHL25": [
   {
    "brand": "Sharp",
@@ -208134,6 +208175,13 @@
    "model": "Armor 12 5G"
   }
  ],
+ "Armor_15": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor 15",
+   "model": "Armor 15"
+  }
+ ],
  "Armor_2": [
   {
    "brand": "Ulefone",
@@ -223006,6 +223054,20 @@
    "brand": "Xiaomi",
    "name": "Xiaomi 12 Pro Dimensity",
    "model": "2207122MC"
+  }
+ ],
+ "mayfly": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 12S",
+   "model": "2206123SC"
+  }
+ ],
+ "unicorn": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 12S Pro",
+   "model": "2206122SC"
   }
  ],
  "thor": [

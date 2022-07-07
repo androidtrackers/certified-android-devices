@@ -20515,6 +20515,23 @@
    "model": "ZS676KS"
   }
  ],
+ "ROG Phone 6 (AI2201)": [
+  {
+   "brand": "Asus",
+   "device": "ASUS_AI2201",
+   "model": "ASUS_AI2201_B"
+  },
+  {
+   "brand": "Asus",
+   "device": "ASUS_AI2201",
+   "model": "ASUS_AI2201_C"
+  },
+  {
+   "brand": "Asus",
+   "device": "ASUS_AI2201",
+   "model": "ASUS_AI2201_D"
+  }
+ ],
  "ROG Phone ll": [
   {
    "brand": "Asus",
@@ -42103,6 +42120,13 @@
    "brand": "Connex",
    "device": "SEN_1055_ARM",
    "model": "SEN_1055_ARM"
+  }
+ ],
+ "SEN_1055_ARM1064": [
+  {
+   "brand": "Connex",
+   "device": "SEN_1055_ARM",
+   "model": "SEN_1055_ARM1064"
   }
  ],
  "VIP6102W FCGOV": [
@@ -95877,6 +95901,13 @@
    "model": "itel A507LN"
   }
  ],
+ "itel  A58 Lite": [
+  {
+   "brand": "Itel",
+   "device": "itel-A631W-R2",
+   "model": "itel A631W"
+  }
+ ],
  "itel  V51 LTE": [
   {
    "brand": "Itel",
@@ -117186,6 +117217,11 @@
    "brand": "Lenovo",
    "device": "TB132FU",
    "model": "TB132FU"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "olivine",
+   "model": "TB138FC"
   }
  ],
  "小新平板": [
@@ -179550,6 +179586,13 @@
    "model": "SH-51B"
   }
  ],
+ "AQUOS R7": [
+  {
+   "brand": "Sharp",
+   "device": "Mineva",
+   "model": "A202SH"
+  }
+ ],
  "AQUOS SERIE SHL25": [
   {
    "brand": "Sharp",
@@ -205916,6 +205959,13 @@
    "model": "Armor 12 5G"
   }
  ],
+ "Armor 15": [
+  {
+   "brand": "Ulefone",
+   "device": "Armor_15",
+   "model": "Armor 15"
+  }
+ ],
  "Armor 2": [
   {
    "brand": "Ulefone",
@@ -221107,6 +221157,20 @@
    "brand": "Xiaomi",
    "device": "daumier",
    "model": "2207122MC"
+  }
+ ],
+ "Xiaomi 12S": [
+  {
+   "brand": "Xiaomi",
+   "device": "mayfly",
+   "model": "2206123SC"
+  }
+ ],
+ "Xiaomi 12S Pro": [
+  {
+   "brand": "Xiaomi",
+   "device": "unicorn",
+   "model": "2206122SC"
   }
  ],
  "Xiaomi 12S Ultra": [

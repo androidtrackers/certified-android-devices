@@ -14979,6 +14979,27 @@
    "device": "ASUS_I005_1"
   }
  ],
+ "ASUS_AI2201_B": [
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 6 (AI2201)",
+   "device": "ASUS_AI2201"
+  }
+ ],
+ "ASUS_AI2201_C": [
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 6 (AI2201)",
+   "device": "ASUS_AI2201"
+  }
+ ],
+ "ASUS_AI2201_D": [
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 6 (AI2201)",
+   "device": "ASUS_AI2201"
+  }
+ ],
  "ASUS_I001D": [
   {
    "brand": "Asus",
@@ -35352,6 +35373,13 @@
   {
    "brand": "Connex",
    "name": "SEN_1055_ARM",
+   "device": "SEN_1055_ARM"
+  }
+ ],
+ "SEN_1055_ARM1064": [
+  {
+   "brand": "Connex",
+   "name": "SEN_1055_ARM1064",
    "device": "SEN_1055_ARM"
   }
  ],
@@ -93244,6 +93272,23 @@
    "device": "itel-A507LN"
   }
  ],
+ "itel A631W": [
+  {
+   "brand": "Itel",
+   "name": "itel  A58 Lite",
+   "device": "itel-A631W-R2"
+  },
+  {
+   "brand": "Itel",
+   "name": "itel A58 Lite",
+   "device": "itel-A631W"
+  },
+  {
+   "brand": "Itel",
+   "name": "itel A58 Lite",
+   "device": "itel-A631W-R2"
+  }
+ ],
  "itel A507LP": [
   {
    "brand": "Itel",
@@ -93558,18 +93603,6 @@
    "brand": "Itel",
    "name": "itel A57 2GB",
    "device": "itel-A611WP"
-  }
- ],
- "itel A631W": [
-  {
-   "brand": "Itel",
-   "name": "itel A58 Lite",
-   "device": "itel-A631W"
-  },
-  {
-   "brand": "Itel",
-   "name": "itel A58 Lite",
-   "device": "itel-A631W-R2"
   }
  ],
  "itel W4001P": [
@@ -117852,6 +117885,13 @@
    "brand": "Lenovo",
    "name": "小新Pad Pro 2021",
    "device": "J716F"
+  }
+ ],
+ "TB138FC": [
+  {
+   "brand": "Lenovo",
+   "name": "小新Pad Pro 2022",
+   "device": "olivine"
   }
  ],
  "Lenovo TB-8804F": [
@@ -186746,6 +186786,13 @@
    "device": "SH-51B"
   }
  ],
+ "A202SH": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS R7",
+   "device": "Mineva"
+  }
+ ],
  "SHL25": [
   {
    "brand": "Sharp",
@@ -216312,6 +216359,13 @@
    "device": "Armor_12_5G"
   }
  ],
+ "Armor 15": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor 15",
+   "device": "Armor_15"
+  }
+ ],
  "Armor_2": [
   {
    "brand": "Ulefone",
@@ -231850,6 +231904,20 @@
    "brand": "Xiaomi",
    "name": "Xiaomi 12 Pro Dimensity",
    "device": "daumier"
+  }
+ ],
+ "2206123SC": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 12S",
+   "device": "mayfly"
+  }
+ ],
+ "2206122SC": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 12S Pro",
+   "device": "unicorn"
   }
  ],
  "2203121C": [

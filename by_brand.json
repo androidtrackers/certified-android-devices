@@ -9252,6 +9252,21 @@
    "model": "ZS676KS"
   },
   {
+   "device": "ASUS_AI2201",
+   "name": "ROG Phone 6 (AI2201)",
+   "model": "ASUS_AI2201_B"
+  },
+  {
+   "device": "ASUS_AI2201",
+   "name": "ROG Phone 6 (AI2201)",
+   "model": "ASUS_AI2201_C"
+  },
+  {
+   "device": "ASUS_AI2201",
+   "name": "ROG Phone 6 (AI2201)",
+   "model": "ASUS_AI2201_D"
+  },
+  {
    "device": "ASUS_I001_1",
    "name": "ROG Phone ll",
    "model": "ASUS_I001D"
@@ -24157,6 +24172,11 @@
    "device": "SEN_1055_ARM",
    "name": "SEN_1055_ARM",
    "model": "SEN_1055_ARM"
+  },
+  {
+   "device": "SEN_1055_ARM",
+   "name": "SEN_1055_ARM1064",
+   "model": "SEN_1055_ARM1064"
   }
  ],
  "Connexion TV": [
@@ -67776,6 +67796,11 @@
    "model": "itel A507LN"
   },
   {
+   "device": "itel-A631W-R2",
+   "name": "itel  A58 Lite",
+   "model": "itel A631W"
+  },
+  {
    "device": "itel-A507LP",
    "name": "itel  V51 LTE",
    "model": "itel A507LP"
@@ -86671,6 +86696,11 @@
    "device": "TB132FU",
    "name": "小新Pad Pro 2022",
    "model": "TB132FU"
+  },
+  {
+   "device": "olivine",
+   "name": "小新Pad Pro 2022",
+   "model": "TB138FC"
   },
   {
    "device": "TB-8804F",
@@ -140316,6 +140346,11 @@
    "model": "SH-51B"
   },
   {
+   "device": "Mineva",
+   "name": "AQUOS R7",
+   "model": "A202SH"
+  },
+  {
    "device": "SHL25",
    "name": "AQUOS SERIE SHL25",
    "model": "SHL25"
@@ -163583,6 +163618,11 @@
    "model": "Armor 12 5G"
   },
   {
+   "device": "Armor_15",
+   "name": "Armor 15",
+   "model": "Armor 15"
+  },
+  {
    "device": "Armor_2",
    "name": "Armor 2",
    "model": "Armor_2"
@@ -176397,6 +176437,16 @@
    "device": "daumier",
    "name": "Xiaomi 12 Pro Dimensity",
    "model": "2207122MC"
+  },
+  {
+   "device": "mayfly",
+   "name": "Xiaomi 12S",
+   "model": "2206123SC"
+  },
+  {
+   "device": "unicorn",
+   "name": "Xiaomi 12S Pro",
+   "model": "2206122SC"
   },
   {
    "device": "thor",
