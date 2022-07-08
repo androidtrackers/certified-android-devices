@@ -45347,6 +45347,16 @@
    "model": "HTC Desire 21 pro 5G"
   },
   {
+   "device": "htc_botdugls",
+   "name": "HTC Desire 22 5G",
+   "model": "2QBK10000"
+  },
+  {
+   "device": "htc_botdugls",
+   "name": "HTC Desire 22 5G",
+   "model": "HTC Desire 22 pro"
+  },
+  {
    "device": "htc_a3ul",
    "name": "HTC Desire 610",
    "model": "HTC Desire 610"
@@ -49014,6 +49024,11 @@
    "device": "HS8953QC",
    "name": "A2T",
    "model": "Hisense A2T"
+  },
+  {
+   "device": "songshan",
+   "name": "A36",
+   "model": "2K Smart TV"
   },
   {
    "device": "HLTE202N",
@@ -122168,6 +122183,11 @@
    "model": "P13"
   },
   {
+   "device": "P13_Blue_Pro_2022",
+   "name": "P13  Blue Max Pro Lite 2022",
+   "model": "P13 Blue Max Pro Lite 2022"
+  },
+  {
    "device": "P13_Blue",
    "name": "P13 Blue",
    "model": "P13_Blue"
@@ -160317,6 +160337,11 @@
    "model": "TECNO BD4"
   },
   {
+   "device": "TECNO-BE7",
+   "name": "TECNO POP 6",
+   "model": "TECNO BE7"
+  },
+  {
    "device": "TECNO-BE6-R2",
    "name": "TECNO POP 6 Go",
    "model": "TECNO BE6"
@@ -161490,6 +161515,11 @@
    "model": "Explr 9"
   },
   {
+   "device": "LAS",
+   "name": "LEAP-S1",
+   "model": "LEAP-S1"
+  },
+  {
    "device": "TTM813G",
    "name": "M8.1 3G",
    "model": "TTM813G"
@@ -161674,6 +161704,11 @@
    "device": "HERO10RK",
    "name": "Hero10RK",
    "model": "HERO10RK"
+  },
+  {
+   "device": "LAS",
+   "name": "LEAP-S1",
+   "model": "LEAP-S1"
   },
   {
    "device": "PRIMO7",

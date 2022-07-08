@@ -70807,6 +70807,18 @@
    "model": "HTC Desire 21 pro 5G"
   }
  ],
+ "HTC Desire 22 5G": [
+  {
+   "brand": "HTC",
+   "device": "htc_botdugls",
+   "model": "2QBK10000"
+  },
+  {
+   "brand": "HTC",
+   "device": "htc_botdugls",
+   "model": "HTC Desire 22 pro"
+  }
+ ],
  "HTC Desire 610": [
   {
    "brand": "HTC",
@@ -75006,6 +75018,13 @@
    "brand": "Hisense",
    "device": "HS8953QC",
    "model": "Hisense A2T"
+  }
+ ],
+ "A36": [
+  {
+   "brand": "Hisense",
+   "device": "songshan",
+   "model": "2K Smart TV"
   }
  ],
  "A5 Pro": [
@@ -159500,6 +159519,13 @@
    "model": "P12Curve"
   }
  ],
+ "P13  Blue Max Pro Lite 2022": [
+  {
+   "brand": "Reeder",
+   "device": "P13_Blue_Pro_2022",
+   "model": "P13 Blue Max Pro Lite 2022"
+  }
+ ],
  "P13 Blue": [
   {
    "brand": "Reeder",
@@ -183362,6 +183388,16 @@
    "brand": "Strong",
    "device": "LAS",
    "model": "LEAP-S1"
+  },
+  {
+   "brand": "Tesla",
+   "device": "LAS",
+   "model": "LEAP-S1"
+  },
+  {
+   "brand": "Thomson",
+   "device": "LAS",
+   "model": "LEAP-S1"
   }
  ],
  "Leap-S2": [
@@ -202228,6 +202264,13 @@
    "brand": "Tecno",
    "device": "TECNO-BD4",
    "model": "TECNO BD4"
+  }
+ ],
+ "TECNO POP 6": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-BE7",
+   "model": "TECNO BE7"
   }
  ],
  "TECNO POP 6 Go": [

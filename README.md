@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-07-07
+Last sync is 2022-07-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8739,6 +8739,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HTC|HTC Desire 21 Pro 5G|htc_thudugl|HTC Desire 21 pro 5G|
 |HTC|HTC Desire 21 pro 5G|htc_thudugl|2QAG100|
 |HTC|HTC Desire 21 pro 5G|htc_thudugl|HTC Desire 21 pro 5G|
+|HTC|HTC Desire 22 5G|htc_botdugls|2QBK10000|
+|HTC|HTC Desire 22 5G|htc_botdugls|HTC Desire 22 pro|
 |HTC|HTC Desire 610|htc_a3ul|HTC Desire 610|
 |HTC|HTC Desire 628 dual sim|htc_v36bml_dugl|HTC 2PVG2|
 |HTC|HTC Desire 628 dual sim|htc_v36bml_dugl|HTC Desire 628 dual sim|
@@ -9458,6 +9460,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|A2|HS8937QC|Hisense A2|
 |Hisense|A2M|HS8953QC|Hisense A2M|
 |Hisense|A2T|HS8953QC|Hisense A2T|
+|Hisense|A36|songshan|2K Smart TV|
 |Hisense|A5|HLTE202N|HLTE202N|
 |Hisense|A5 Pro|HLTE203T|HLTE203T|
 |Hisense|A55|songshan|Smart TV|
@@ -23768,6 +23771,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reeder|P10SE|P10SE|P10SE|
 |Reeder|P12 Curve|P12Curve|P12Curve|
 |Reeder|P13|P13|P13|
+|Reeder|P13  Blue Max Pro Lite 2022|P13_Blue_Pro_2022|P13 Blue Max Pro Lite 2022|
 |Reeder|P13 Blue|P13_Blue|P13_Blue|
 |Reeder|P13 Blue  Max Lite 32GB|P13_BML_32|P13 Blue Max Lite 32GB|
 |Reeder|P13 Blue 2022|P13_Blue_2022|P13 Blue 2022|
@@ -31265,6 +31269,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO POP 5|TECNO-BD2p|TECNO BD2p|
 |Tecno|TECNO POP 5 Go|TECNO-BD1|TECNO BD1|
 |Tecno|TECNO POP 5 LTE|TECNO-BD4|TECNO BD4|
+|Tecno|TECNO POP 6|TECNO-BE7|TECNO BE7|
 |Tecno|TECNO POP 6 Go|TECNO-BE6-R2|TECNO BE6|
 |Tecno|TECNO POP 6 Go|TECNO-BE7|TECNO BE7|
 |Tecno|TECNO POP X5|TECNO-L6502S|TECNO L6502S|
@@ -31486,6 +31491,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tesla|EU|yeongdeungpo|Tesla 4K Android TV|
 |Tesla|EU、UK、AP|martin|Tesla Android TV|
 |Tesla|Explr 9|Explr_9|Explr 9|
+|Tesla|LEAP-S1|LAS|LEAP-S1|
 |Tesla|M8.1 3G|TTM813G|TTM813G|
 |Tesla|P80X_ROW|P80X|P80X|
 |Tesla|SMARTPHONE3.5|Tesla_SP3_5|Tesla_SP3.5|
@@ -31522,6 +31528,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Thomson|Friendly TH101|Friendly_TH101|Friendly_TH101|
 |Thomson|HERO10RK|HERO10RK_EEA|HERO10RK|
 |Thomson|Hero10RK|HERO10RK|HERO10RK|
+|Thomson|LEAP-S1|LAS|LEAP-S1|
 |Thomson|PRIMO7 Tablet|PRIMO7|PRIMO7|
 |Thomson|PRIMO8 Tablet|AMLMY8306P|PRIMO8|
 |Thomson|TEO 8|TEO8LTE32|TEO8LTE|

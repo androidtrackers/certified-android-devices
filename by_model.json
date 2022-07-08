@@ -64107,6 +64107,20 @@
    "device": "htc_thudugl"
   }
  ],
+ "2QBK10000": [
+  {
+   "brand": "HTC",
+   "name": "HTC Desire 22 5G",
+   "device": "htc_botdugls"
+  }
+ ],
+ "HTC Desire 22 pro": [
+  {
+   "brand": "HTC",
+   "name": "HTC Desire 22 5G",
+   "device": "htc_botdugls"
+  }
+ ],
  "HTC 2PVG2": [
   {
    "brand": "HTC",
@@ -68750,6 +68764,33 @@
    "brand": "Hisense",
    "name": "A2T",
    "device": "HS8953QC"
+  }
+ ],
+ "2K Smart TV": [
+  {
+   "brand": "Hisense",
+   "name": "A36",
+   "device": "songshan"
+  },
+  {
+   "brand": "KEMPLER STRAUSS",
+   "name": "Smart TV",
+   "device": "kanda"
+  },
+  {
+   "brand": "RCA",
+   "name": "Smart TV",
+   "device": "kanda"
+  },
+  {
+   "brand": "SYLVANIA",
+   "name": "Smart TV",
+   "device": "kanda"
+  },
+  {
+   "brand": "Sceptre",
+   "name": "Smart TV",
+   "device": "kanda"
   }
  ],
  "HLTE202N": [
@@ -95585,28 +95626,6 @@
    "brand": "KEMPLER STRAUSS",
    "name": "Kempler_X_Pro",
    "device": "Kempler_X_Pro"
-  }
- ],
- "2K Smart TV": [
-  {
-   "brand": "KEMPLER STRAUSS",
-   "name": "Smart TV",
-   "device": "kanda"
-  },
-  {
-   "brand": "RCA",
-   "name": "Smart TV",
-   "device": "kanda"
-  },
-  {
-   "brand": "SYLVANIA",
-   "name": "Smart TV",
-   "device": "kanda"
-  },
-  {
-   "brand": "Sceptre",
-   "name": "Smart TV",
-   "device": "kanda"
   }
  ],
  "ZKEMPLER": [
@@ -123664,6 +123683,16 @@
   },
   {
    "brand": "Strong",
+   "name": "LEAP-S1",
+   "device": "LAS"
+  },
+  {
+   "brand": "Tesla",
+   "name": "LEAP-S1",
+   "device": "LAS"
+  },
+  {
+   "brand": "Thomson",
    "name": "LEAP-S1",
    "device": "LAS"
   }
@@ -162493,6 +162522,18 @@
    "device": "P12Curve"
   }
  ],
+ "P13 Blue Max Pro Lite 2022": [
+  {
+   "brand": "Reeder",
+   "name": "P13  Blue Max Pro Lite 2022",
+   "device": "P13_Blue_Pro_2022"
+  },
+  {
+   "brand": "Reeder",
+   "name": "P13_Blue_Pro_2022",
+   "device": "P13_Blue_Pro_2022"
+  }
+ ],
  "P13_Blue": [
   {
    "brand": "Reeder",
@@ -162624,13 +162665,6 @@
    "brand": "Reeder",
    "name": "P13_Blue_Plus_2022",
    "device": "P13_Blue_Plus_2022"
-  }
- ],
- "P13 Blue Max Pro Lite 2022": [
-  {
-   "brand": "Reeder",
-   "name": "P13_Blue_Pro_2022",
-   "device": "P13_Blue_Pro_2022"
   }
  ],
  "P13_Lite": [
@@ -212454,18 +212488,23 @@
    "device": "TECNO-BD4"
   }
  ],
+ "TECNO BE7": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO POP 6",
+   "device": "TECNO-BE7"
+  },
+  {
+   "brand": "Tecno",
+   "name": "TECNO POP 6 Go",
+   "device": "TECNO-BE7"
+  }
+ ],
  "TECNO BE6": [
   {
    "brand": "Tecno",
    "name": "TECNO POP 6 Go",
    "device": "TECNO-BE6-R2"
-  }
- ],
- "TECNO BE7": [
-  {
-   "brand": "Tecno",
-   "name": "TECNO POP 6 Go",
-   "device": "TECNO-BE7"
   }
  ],
  "TECNO L6502S": [

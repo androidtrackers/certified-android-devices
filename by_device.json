@@ -66640,6 +66640,18 @@
    "model": "HTC Desire 21 pro 5G"
   }
  ],
+ "htc_botdugls": [
+  {
+   "brand": "HTC",
+   "name": "HTC Desire 22 5G",
+   "model": "2QBK10000"
+  },
+  {
+   "brand": "HTC",
+   "name": "HTC Desire 22 5G",
+   "model": "HTC Desire 22 pro"
+  }
+ ],
  "htc_bre2pdugl": [
   {
    "brand": "HTC",
@@ -70825,21 +70837,12 @@
    "model": "Hisense P1"
   }
  ],
- "HLTE202N": [
-  {
-   "brand": "Hisense",
-   "name": "A5",
-   "model": "HLTE202N"
-  }
- ],
- "HLTE203T": [
-  {
-   "brand": "Hisense",
-   "name": "A5 Pro",
-   "model": "HLTE203T"
-  }
- ],
  "songshan": [
+  {
+   "brand": "Hisense",
+   "name": "A36",
+   "model": "2K Smart TV"
+  },
   {
    "brand": "Hisense",
    "name": "A55",
@@ -70899,6 +70902,20 @@
    "brand": "Toshiba",
    "name": "M550LP/M550LI",
    "model": "Toshiba TV with MIC"
+  }
+ ],
+ "HLTE202N": [
+  {
+   "brand": "Hisense",
+   "name": "A5",
+   "model": "HLTE202N"
+  }
+ ],
+ "HLTE203T": [
+  {
+   "brand": "Hisense",
+   "name": "A5 Pro",
+   "model": "HLTE203T"
   }
  ],
  "HLTE730T": [
@@ -121615,6 +121632,16 @@
    "brand": "Strong",
    "name": "LEAP-S1",
    "model": "LEAP-S1"
+  },
+  {
+   "brand": "Tesla",
+   "name": "LEAP-S1",
+   "model": "LEAP-S1"
+  },
+  {
+   "brand": "Thomson",
+   "name": "LEAP-S1",
+   "model": "LEAP-S1"
   }
  ],
  "KM3": [
@@ -159009,6 +159036,18 @@
    "model": "P12Curve"
   }
  ],
+ "P13_Blue_Pro_2022": [
+  {
+   "brand": "Reeder",
+   "name": "P13  Blue Max Pro Lite 2022",
+   "model": "P13 Blue Max Pro Lite 2022"
+  },
+  {
+   "brand": "Reeder",
+   "name": "P13_Blue_Pro_2022",
+   "model": "P13 Blue Max Pro Lite 2022"
+  }
+ ],
  "P13_Blue": [
   {
    "brand": "Reeder",
@@ -159140,13 +159179,6 @@
    "brand": "Reeder",
    "name": "P13_Blue_Plus_2022",
    "model": "P13_Blue_Plus_2022"
-  }
- ],
- "P13_Blue_Pro_2022": [
-  {
-   "brand": "Reeder",
-   "name": "P13_Blue_Pro_2022",
-   "model": "P13 Blue Max Pro Lite 2022"
   }
  ],
  "P13_Lite": [
@@ -204495,18 +204527,23 @@
    "model": "TECNO BD4"
   }
  ],
+ "TECNO-BE7": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO POP 6",
+   "model": "TECNO BE7"
+  },
+  {
+   "brand": "Tecno",
+   "name": "TECNO POP 6 Go",
+   "model": "TECNO BE7"
+  }
+ ],
  "TECNO-BE6-R2": [
   {
    "brand": "Tecno",
    "name": "TECNO POP 6 Go",
    "model": "TECNO BE6"
-  }
- ],
- "TECNO-BE7": [
-  {
-   "brand": "Tecno",
-   "name": "TECNO POP 6 Go",
-   "model": "TECNO BE7"
   }
  ],
  "TECNO-L6502S": [
