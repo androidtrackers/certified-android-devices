@@ -926,6 +926,11 @@
    "model": "43F"
   },
   {
+   "brand": "Indurama",
+   "name": "Indurama",
+   "model": "CSV4K"
+  },
+  {
    "brand": "JVC",
    "name": "JVC",
    "model": "4K SMART TV"
@@ -1091,6 +1096,11 @@
    "brand": "Hyundai",
    "name": "hyundai",
    "model": "SMART TV"
+  },
+  {
+   "brand": "Indurama",
+   "name": "Indurama",
+   "model": "CSV2K"
   },
   {
    "brand": "JVC",
@@ -109115,6 +109125,13 @@
    "brand": "Lava",
    "name": "BE_U",
    "model": "Lava Be_U"
+  }
+ ],
+ "LZX403": [
+  {
+   "brand": "Lava",
+   "name": "BLAZE",
+   "model": "LAVA Blaze"
   }
  ],
  "era1X": [

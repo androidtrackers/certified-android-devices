@@ -91152,6 +91152,18 @@
    "model": "HG680_FJ"
   }
  ],
+ "Indurama": [
+  {
+   "brand": "Indurama",
+   "device": "stanford",
+   "model": "CSV2K"
+  },
+  {
+   "brand": "Indurama",
+   "device": "zhongshan",
+   "model": "CSV4K"
+  }
+ ],
  "indurama 2K TV": [
   {
    "brand": "Indurama",
@@ -111535,6 +111547,13 @@
    "brand": "Lava",
    "device": "Be_U",
    "model": "Lava Be_U"
+  }
+ ],
+ "BLAZE": [
+  {
+   "brand": "Lava",
+   "device": "LZX403",
+   "model": "LAVA Blaze"
   }
  ],
  "ERA 1X": [

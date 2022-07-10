@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-07-09
+Last sync is 2022-07-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12410,6 +12410,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Inco|eco_s|eco_s|eco_s|
 |IndiHome|B860H V5.0|B860HV5_Telkom|B860H V5.0|
 |IndiHome|HG680_FJ|HG680|HG680_FJ|
+|Indurama|Indurama|stanford|CSV2K|
+|Indurama|Indurama|zhongshan|CSV4K|
 |Indurama|indurama 2K TV|shinjuku|indurama 2K TV|
 |Indurama|indurama 4K TV|SW4H|indurama 4K TV|
 |Indurama|indurama Smart TV|sunnyvale|indurama Smart TV|
@@ -15868,6 +15870,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lava|A97 2GB Plus|A97_2GB_PLUS|A97 2GB PLUS|
 |Lava|Aura Plus|Lava_Aura_Plus|Aura_Plus|
 |Lava|BE_U|Be_U|Lava Be_U|
+|Lava|BLAZE|LZX403|LAVA Blaze|
 |Lava|ERA 1X|era1X|era1X|
 |Lava|ERA 1X|era1X|era1Xpro|
 |Lava|Era 2X 3GB|XE2X3GB|Era 2X 3GB|

@@ -63936,6 +63936,16 @@
  ],
  "Indurama": [
   {
+   "device": "stanford",
+   "name": "Indurama",
+   "model": "CSV2K"
+  },
+  {
+   "device": "zhongshan",
+   "name": "Indurama",
+   "model": "CSV4K"
+  },
+  {
    "device": "shinjuku",
    "name": "indurama 2K TV",
    "model": "indurama 2K TV"
@@ -81604,6 +81614,11 @@
    "device": "Be_U",
    "name": "BE_U",
    "model": "Lava Be_U"
+  },
+  {
+   "device": "LZX403",
+   "name": "BLAZE",
+   "model": "LAVA Blaze"
   },
   {
    "device": "era1X",

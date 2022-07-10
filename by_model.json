@@ -24750,6 +24750,11 @@
    "device": "stanford"
   },
   {
+   "brand": "Indurama",
+   "name": "Indurama",
+   "device": "stanford"
+  },
+  {
    "brand": "KTCtv",
    "name": "DIGGIO",
    "device": "stanford"
@@ -24779,6 +24784,11 @@
   {
    "brand": "Blaupunkt",
    "name": "BLAUPUNKT",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Indurama",
+   "name": "Indurama",
    "device": "zhongshan"
   },
   {
@@ -111043,6 +111053,13 @@
    "brand": "Lava",
    "name": "BE_U",
    "device": "Be_U"
+  }
+ ],
+ "LAVA Blaze": [
+  {
+   "brand": "Lava",
+   "name": "BLAZE",
+   "device": "LZX403"
   }
  ],
  "era1X": [
