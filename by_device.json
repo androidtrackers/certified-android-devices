@@ -73995,6 +73995,13 @@
    "model": "HS-U988"
   }
  ],
+ "wuyishan": [
+  {
+   "brand": "Hisense",
+   "name": "U70H/U8H/U80H/U85H",
+   "model": "SmartTV 4K FFM"
+  }
+ ],
  "U800": [
   {
    "brand": "Hisense",
@@ -145258,6 +145265,13 @@
    "model": "SMARTlink_EEA"
   }
  ],
+ "SGWIFIPAD320093": [
+  {
+   "brand": "PINOCCHIO",
+   "name": "SGWIFIPAD320093",
+   "model": "SGWIFIPAD320093"
+  }
+ ],
  "IconX_P109": [
   {
    "brand": "PIPO",
@@ -181442,6 +181456,13 @@
    "brand": "Sharp",
    "name": "AQUOS R7",
    "model": "A202SH"
+  }
+ ],
+ "SH-52C": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS R7",
+   "model": "SH-52C"
   }
  ],
  "SHL25": [

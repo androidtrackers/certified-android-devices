@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-07-10
+Last sync is 2022-07-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10043,6 +10043,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|U688BE|MSM8212|HS-U688|
 |Hisense|U6H|songshan|SmartTV 4K FFM|
 |Hisense|U6H/A6H/U6G1|songshan|SmartTV 4K|
+|Hisense|U70H/U8H/U80H/U85H|wuyishan|SmartTV 4K FFM|
 |Hisense|U800|U800|HS-U800|
 |Hisense|U800E-1|U800E_1|HS-U800|
 |Hisense|U800E-1|U800E_1|HS-U800E-1|
@@ -21541,6 +21542,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PHYWE|SMARTlink_EEA|SMARTlink_EEA|SMARTlink_EEA|
 |PILOT|PQ55CH|samseong|AI PONT|
 |PILOT|Smart TV|redwood|AI PONT|
+|PINOCCHIO|SGWIFIPAD320093|SGWIFIPAD320093|SGWIFIPAD320093|
 |PIPO|IconX_P109|IconX_P109|IconX_P109|
 |PIXART|Pixart_P20|Pixart_P20|Pixart_P20|
 |PIXPRO|PIXPRO L1 PRO|PIXPRO_L1_PRO|PIXPRO L1 PRO|
@@ -27358,6 +27360,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS R6|Judau|SH-M22|
 |Sharp|AQUOS R6|SH-51B|SH-51B|
 |Sharp|AQUOS R7|Mineva|A202SH|
+|Sharp|AQUOS R7|SH-52C|SH-52C|
 |Sharp|AQUOS SERIE SHL25|SHL25|SHL25|
 |Sharp|AQUOS SERIE SHV32|SHV32|SHV32|
 |Sharp|AQUOS SERIE SHV34|SHV34|SHV34|

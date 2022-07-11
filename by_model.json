@@ -68840,6 +68840,11 @@
   },
   {
    "brand": "Hisense",
+   "name": "U70H/U8H/U80H/U85H",
+   "device": "wuyishan"
+  },
+  {
+   "brand": "Hisense",
    "name": "huangshan",
    "device": "huangshan"
   }
@@ -147929,6 +147934,13 @@
    "device": "SMARTlink_EEA"
   }
  ],
+ "SGWIFIPAD320093": [
+  {
+   "brand": "PINOCCHIO",
+   "name": "SGWIFIPAD320093",
+   "device": "SGWIFIPAD320093"
+  }
+ ],
  "IconX_P109": [
   {
    "brand": "PIPO",
@@ -186842,6 +186854,13 @@
    "brand": "Sharp",
    "name": "AQUOS R7",
    "device": "Mineva"
+  }
+ ],
+ "SH-52C": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS R7",
+   "device": "SH-52C"
   }
  ],
  "SHL25": [

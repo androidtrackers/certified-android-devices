@@ -78776,6 +78776,13 @@
    "model": "SmartTV 4K"
   }
  ],
+ "U70H/U8H/U80H/U85H": [
+  {
+   "brand": "Hisense",
+   "device": "wuyishan",
+   "model": "SmartTV 4K FFM"
+  }
+ ],
  "U800": [
   {
    "brand": "Hisense",
@@ -145437,6 +145444,13 @@
    "model": "AI PONT"
   }
  ],
+ "SGWIFIPAD320093": [
+  {
+   "brand": "PINOCCHIO",
+   "device": "SGWIFIPAD320093",
+   "model": "SGWIFIPAD320093"
+  }
+ ],
  "IconX_P109": [
   {
    "brand": "PIPO",
@@ -179636,6 +179650,11 @@
    "brand": "Sharp",
    "device": "Mineva",
    "model": "A202SH"
+  },
+  {
+   "brand": "Sharp",
+   "device": "SH-52C",
+   "model": "SH-52C"
   }
  ],
  "AQUOS SERIE SHL25": [

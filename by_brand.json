@@ -51941,6 +51941,11 @@
    "model": "SmartTV 4K"
   },
   {
+   "device": "wuyishan",
+   "name": "U70H/U8H/U80H/U85H",
+   "model": "SmartTV 4K FFM"
+  },
+  {
    "device": "U800",
    "name": "U800",
    "model": "HS-U800"
@@ -110743,6 +110748,13 @@
    "model": "AI PONT"
   }
  ],
+ "PINOCCHIO": [
+  {
+   "device": "SGWIFIPAD320093",
+   "name": "SGWIFIPAD320093",
+   "model": "SGWIFIPAD320093"
+  }
+ ],
  "PIPO": [
   {
    "device": "IconX_P109",
@@ -140384,6 +140396,11 @@
    "device": "Mineva",
    "name": "AQUOS R7",
    "model": "A202SH"
+  },
+  {
+   "device": "SH-52C",
+   "name": "AQUOS R7",
+   "model": "SH-52C"
   },
   {
    "device": "SHL25",
