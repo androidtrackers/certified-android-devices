@@ -51906,11 +51906,6 @@
    "model": "Y10"
   },
   {
-   "brand": "Vivo",
-   "device": "PD2180",
-   "model": "V2180A"
-  },
-  {
    "brand": "X-TIGI",
    "device": "Y10",
    "model": "Y10"
@@ -137445,6 +137440,20 @@
    "model": "T7A6N"
   }
  ],
+ "X7500": [
+  {
+   "brand": "Noblex",
+   "device": "songshan",
+   "model": "SmartTV 4K"
+  }
+ ],
+ "X9500": [
+  {
+   "brand": "Noblex",
+   "device": "songshan",
+   "model": "SmartTV 4K FFM"
+  }
+ ],
  "DVN2KA01": [
   {
    "brand": "Nokia",
@@ -141076,6 +141085,13 @@
    "model": "CPH2219"
   }
  ],
+ "A77 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP52F3L1",
+   "model": "CPH2339"
+  }
+ ],
  "A79k": [
   {
    "brand": "Oppo",
@@ -142228,6 +142244,20 @@
    "brand": "Oppo",
    "device": "OP532BL1",
    "model": "OPG04"
+  }
+ ],
+ "OPPO Reno7 Z 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP532FL1",
+   "model": "CPH2343"
+  }
+ ],
+ "OPPO Reno7 Z 5G/F21 Pro 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP532FL1",
+   "model": "CPH2343"
   }
  ],
  "OPPO Reno7/F21 Pro": [
@@ -143516,6 +143546,13 @@
    "brand": "Oppo",
    "device": "OP4EC1",
    "model": "PENM00"
+  }
+ ],
+ "Reno7 Z 5G/Reno7 Lite 5G/Reno8 Lite 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP532FL1",
+   "model": "CPH2343"
   }
  ],
  "Reno7 中国版": [
@@ -147633,6 +147670,13 @@
    "model": "FZ-B2D"
   }
  ],
+ "50 google tv/58 google tv/65 google tv/75 google tv": [
+  {
+   "brand": "Panavox",
+   "device": "songshan",
+   "model": "SmartTV 4K"
+  }
+ ],
  "IPHDCK16H": [
   {
    "brand": "Panodic",
@@ -151129,6 +151173,13 @@
    "brand": "Positivo",
    "device": "T810",
    "model": "Tab Q8 Lite"
+  }
+ ],
+ "T810C": [
+  {
+   "brand": "Positivo",
+   "device": "T810C",
+   "model": "T810"
   }
  ],
  "Twist": [
@@ -158123,13 +158174,6 @@
    "model": "RMX1971"
   }
  ],
- "realme Q3 Pro Play": [
-  {
-   "brand": "Realme",
-   "device": "RE811C",
-   "model": "RMX3142"
-  }
- ],
  "realme SA Smart TV": [
   {
    "brand": "Realme",
@@ -162907,6 +162951,13 @@
    "brand": "Skyworth",
    "device": "shimbashi",
    "model": "2K TV"
+  }
+ ],
+ "SW-22AE NF": [
+  {
+   "brand": "SWTV",
+   "device": "SW6H",
+   "model": "SW-22AE NF"
   }
  ],
  "SW-22NA NF": [
@@ -177165,6 +177216,11 @@
   {
    "brand": "Samsung",
    "device": "xcoverpro2",
+   "model": "SM-G736U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "xcoverpro2",
    "model": "SM-G736W"
   }
  ],
@@ -188139,6 +188195,13 @@
    "model": "NVSH800H1"
   }
  ],
+ "StarHub TV+ Pro": [
+  {
+   "brand": "StarHub",
+   "device": "m393vsb_starhub",
+   "model": "SCSH900AT"
+  }
+ ],
  "Mobiistar_Zumbo_J2": [
   {
    "brand": "StarMobile",
@@ -189374,6 +189437,11 @@
    "brand": "Sunmi",
    "device": "SUNMI-L2HNFC",
    "model": "L2H_GL"
+  },
+  {
+   "brand": "Sunmi",
+   "device": "SUNMI-L2HNFC",
+   "model": "L2H_TR"
   }
  ],
  "Sunmi L2Ks": [
@@ -210179,6 +210247,13 @@
    "model": "VTL-202101"
   }
  ],
+ "VTL-202201": [
+  {
+   "brand": "Vertu",
+   "device": "VTL-202201",
+   "model": "VTL-202201"
+  }
+ ],
  "SL5029": [
   {
    "brand": "Verykool",
@@ -213247,6 +213322,13 @@
    "brand": "Vivo",
    "device": "PD2172",
    "model": "V2172A"
+  }
+ ],
+ "V2180A": [
+  {
+   "brand": "Vivo",
+   "device": "PD2180",
+   "model": "V2180A"
   }
  ],
  "V3Lite": [
@@ -226120,11 +226202,25 @@
    "model": "NX679J"
   }
  ],
+ "NX679S": [
+  {
+   "brand": "ZTE",
+   "device": "NX679S",
+   "model": "NX679S"
+  }
+ ],
  "NX709J": [
   {
    "brand": "ZTE",
    "device": "NX709J",
    "model": "NX709J"
+  }
+ ],
+ "NX709S": [
+  {
+   "brand": "ZTE",
+   "device": "NX709S",
+   "model": "NX709S"
   }
  ],
  "NX907J": [
@@ -229048,6 +229144,13 @@
    "brand": "ZTE",
    "device": "P768A02",
    "model": "ZTE A2122H"
+  }
+ ],
+ "ZTE 1010L": [
+  {
+   "brand": "ZTE",
+   "device": "P963F61_A",
+   "model": "ZTE 1010L"
   }
  ],
  "ZTE 2050": [
@@ -235831,6 +235934,13 @@
    "brand": "realme",
    "device": "RMX3161CN",
    "model": "RMX3161"
+  }
+ ],
+ "realme Q3 Pro Play": [
+  {
+   "brand": "realme",
+   "device": "RE811C",
+   "model": "RMX3142"
   }
  ],
  "realme Q3s": [

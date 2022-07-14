@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-07-13
+Last sync is 2022-07-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -20199,6 +20199,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Noblex|NoblexTV|shinjuku|NoblexTV|
 |Noblex|T7A6INC|T7A6INC|T7A6INC|
 |Noblex|T7A6N|Tablet|T7A6N|
+|Noblex|X7500|songshan|SmartTV 4K|
+|Noblex|X9500|songshan|SmartTV 4K FFM|
 |Nokia|Android TV|R1|ATV R1|
 |Nokia|Android TV|R2|ATV R2|
 |Nokia|Android TV|R4|R4|
@@ -20855,6 +20857,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A74|OP4F11L1|CPH2219|
 |Oppo|A77|A77|OPPO A77|
 |Oppo|A77|A77|OPPO A77t|
+|Oppo|A77 5G|OP52F3L1|CPH2339|
 |Oppo|A79|A79|OPPO A79|
 |Oppo|A79k|A79k|OPPO A79k|
 |Oppo|A79kt|A79kt|OPPO A79kt|
@@ -21042,6 +21045,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Reno7 A|OP532BL1|A201OP|
 |Oppo|OPPO Reno7 A|OP532BL1|CPH2353|
 |Oppo|OPPO Reno7 A|OP532BL1|OPG04|
+|Oppo|OPPO Reno7 Z 5G|OP532FL1|CPH2343|
+|Oppo|OPPO Reno7 Z 5G/F21 Pro 5G|OP532FL1|CPH2343|
 |Oppo|OPPO Reno7/F21 Pro|OP533FL1|CPH2363|
 |Oppo|OPPO Watch|beluga|OPPO Watch|
 |Oppo|OPPO Watch|orca|OPPO Watch|
@@ -21244,6 +21249,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno5 Lite|OP4F43L1|CPH2205|
 |Oppo|Reno5 Pro 5G|OP4EA3|PDSM00|
 |Oppo|Reno6 Pro+ 5G|OP4EC1|PENM00|
+|Oppo|Reno7 Z 5G/Reno7 Lite 5G/Reno8 Lite 5G|OP532FL1|CPH2343|
 |Oppo|Reno7 中国版|OP5227|PFJM10|
 |Oppo|U3|U3|U3|
 |Oppo|U707|U707|U707|
@@ -21891,6 +21897,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|WSCU|wscu|WSCU3|
 |Panasonic|Yaris M|T31|Panasonic T31|
 |Panasonic|fz_b2dh|fz_b2d|FZ-B2D|
+|Panavox|50 google tv/58 google tv/65 google tv/75 google tv|songshan|SmartTV 4K|
 |Panodic|IPHDCK16H|IPHDCK16H|IPHDCK16H|
 |Pantech|ADR910L|ADR910L|ADR910L|
 |Pantech|ADR930L|ADR930L|ADR930L|
@@ -22449,6 +22456,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|T800|T800M|T800|
 |Positivo|T810|T810|T810|
 |Positivo|T810|T810|Tab Q8 Lite|
+|Positivo|T810C|T810C|T810|
 |Positivo|Twist|S520|Positivo Twist M|
 |Positivo|Twist|S520|Positivo Twist S|
 |Positivo|Twist 2|S512|Twist 2|
@@ -23559,7 +23567,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme Narzo 20|RMX2193|RMX2193|
 |Realme|realme Pad|RE54C1L1|RMP2102|
 |Realme|realme Q|RMX1971CN|RMX1971|
-|Realme|realme Q3 Pro Play|RE811C|RMX3142|
 |Realme|realme SA Smart TV|SW4H_FF|realme SA Smart TV|
 |Realme|realme Smart TV|SW4H_FF|realme Smart TV|
 |Realme|realme TV|ikebukuro|AI PONT|
@@ -24308,6 +24315,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SWTV|Asia|SW3_ATV|SWTV|
 |SWTV|Europe|SW3H_ATV|SWTV|
 |SWTV|North America|SW3_ATV|SWTV|
+|SWTV|SW-22AE NF|SW6H|SW-22AE NF|
 |SWTV|SW-22NA NF|SW6H|SW-22NA NF|
 |SWTV|SW-22SA|SW6H|SW-22SA|
 |SWTV|SWTV-20AE|SW4H|SWTV-20AE|
@@ -26954,6 +26962,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy XCover4|xcover4lte|SM-G390F|
 |Samsung|Galaxy XCover6 Pro|xcoverpro2|SM-G736B|
 |Samsung|Galaxy XCover6 Pro|xcoverpro2|SM-G736U|
+|Samsung|Galaxy XCover6 Pro|xcoverpro2|SM-G736U1|
 |Samsung|Galaxy XCover6 Pro|xcoverpro2|SM-G736W|
 |Samsung|Galaxy Xcover|GT-S5690|GT-S5690|
 |Samsung|Galaxy Xcover|GT-S5690L|GT-S5690L|
@@ -28775,6 +28784,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Star-X|Middle East|yeongdeungpo|STAR-X UHD Android TV|
 |StarHub|Android TV Set-Top Box|KM_SH368AT|KM_SH368AT|
 |StarHub|StarHub TV+ Box (Innopia)|NVSH800H1|NVSH800H1|
+|StarHub|StarHub TV+ Pro|m393vsb_starhub|SCSH900AT|
 |StarMobile|Mobiistar_Zumbo_J2|Mobiistar_Zumbo_J2|Mobiistar Zumbo J2|
 |StarMobile|PLAY Click LTE|PLAY_Click_LTE|PLAY Click LTE|
 |StarMobile|Play Go|PLAY_GO|Starmobile PLAY GO|
@@ -28980,6 +28990,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sunbio|SB-TM700|SB-TM700|SB-TM700|
 |Sunmi|Sunmi L2H|SUNMI-L2HNFC|L2H_EEA|
 |Sunmi|Sunmi L2H|SUNMI-L2HNFC|L2H_GL|
+|Sunmi|Sunmi L2H|SUNMI-L2HNFC|L2H_TR|
 |Sunmi|Sunmi L2Ks|SUNMI-L2KsNFC|L2Ks_EEA|
 |Sunmi|Sunmi L2Ks|SUNMI-L2KsNFC|L2Ks_GL|
 |Sunmi|Sunmi L2Ks|SUNMI-L2KsNFC|L2Ks_RU|
@@ -32579,6 +32590,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vertu|Signature Touch|titan|Signature Touch L|
 |Vertu|Ti|hermione|VERTU Ti|
 |Vertu|VTL-202101|VTL-202101|VTL-202101|
+|Vertu|VTL-202201|VTL-202201|VTL-202201|
 |Verykool|SL5029|verykoolSL5029|verykoolSL5029|
 |Verykool|SL5050|verykoolSL5050|verykoolSL5050|
 |Verykool|SL5200|verykoolSL5200|verykoolSL5200|
@@ -33054,6 +33066,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2168A|PD2168|V2168A|
 |Vivo|V2171A|PD2171|V2171A|
 |Vivo|V2172A|PD2172|V2172A|
+|Vivo|V2180A|PD2180|V2180A|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
 |Vivo|V3Lite|V3Lite|vivo V3Lite|
@@ -33090,7 +33103,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Xplay5A|PD1522A|vivo PD1522A|
 |Vivo|Xplay5A|PD1522A|vivo Xplay5A|
 |Vivo|Xplay6|PD1610|vivo Xplay6|
-|Vivo|Y10|PD2180|V2180A|
 |Vivo|Y11|Y11|vivo Y11|
 |Vivo|Y15|Y15|vivo Y15|
 |Vivo|Y15S|Y15S|vivo Y15S|
@@ -35419,7 +35431,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|NX679J|NX679J|NX679J|
 |ZTE|NX679J|NX679J-EEA|NX679J|
 |ZTE|NX679J|NX679J-UN|NX679J|
+|ZTE|NX679S|NX679S|NX679S|
 |ZTE|NX709J|NX709J|NX709J|
+|ZTE|NX709S|NX709S|NX709S|
 |ZTE|NX907J|NX907J|NX907J|
 |ZTE|Nubia 4010|P963F60|Nubia 4010|
 |ZTE|Nubia 6010|P963F07|Nubia 6010|
@@ -35919,6 +35933,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZPAD|gevjon|K90U|
 |ZTE|ZR01|Z7750R|ZR01|
 |ZTE|ZTE  S30 Pro 5G|P768A02|ZTE A2122H|
+|ZTE|ZTE 1010L|P963F61_A|ZTE 1010L|
 |ZTE|ZTE 2050|P671F50|ZTE 2050|
 |ZTE|ZTE 2050|P671F50_D|ZTE 2050|
 |ZTE|ZTE 2050|P671S50|ZTE 2050|
@@ -37033,6 +37048,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme Pad mini|RE87CCL1|RMP2106|
 |realme|realme Q2 5G|RMX2117CN|RMX2117|
 |realme|realme Q3 5G|RMX3161CN|RMX3161|
+|realme|realme Q3 Pro Play|RE811C|RMX3142|
 |realme|realme Q3s|RE548BL1|RMX3461|
 |realme|realme Q5 Pro|RE5477|RMX3372|
 |realme|realme Q5i|RE873D|RMX3574|

@@ -68847,6 +68847,11 @@
    "brand": "Hisense",
    "name": "huangshan",
    "device": "huangshan"
+  },
+  {
+   "brand": "Noblex",
+   "name": "X9500",
+   "device": "songshan"
   }
  ],
  "HLTE730T": [
@@ -72638,6 +72643,16 @@
   {
    "brand": "Hisense",
    "name": "songshan",
+   "device": "songshan"
+  },
+  {
+   "brand": "Noblex",
+   "name": "X7500",
+   "device": "songshan"
+  },
+  {
+   "brand": "Panavox",
+   "name": "50 google tv/58 google tv/65 google tv/75 google tv",
    "device": "songshan"
   },
   {
@@ -143479,6 +143494,13 @@
    "device": "A77"
   }
  ],
+ "CPH2339": [
+  {
+   "brand": "Oppo",
+   "name": "A77 5G",
+   "device": "OP52F3L1"
+  }
+ ],
  "OPPO A79": [
   {
    "brand": "Oppo",
@@ -144770,6 +144792,23 @@
    "brand": "Oppo",
    "name": "OPPO Reno7 A",
    "device": "OP532BL1"
+  }
+ ],
+ "CPH2343": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno7 Z 5G",
+   "device": "OP532FL1"
+  },
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno7 Z 5G/F21 Pro 5G",
+   "device": "OP532FL1"
+  },
+  {
+   "brand": "Oppo",
+   "name": "Reno7 Z 5G/Reno7 Lite 5G/Reno8 Lite 5G",
+   "device": "OP532FL1"
   }
  ],
  "OPPO Watch": [
@@ -153752,6 +153791,11 @@
    "brand": "Positivo",
    "name": "T810",
    "device": "T810"
+  },
+  {
+   "brand": "Positivo",
+   "name": "T810C",
+   "device": "T810C"
   }
  ],
  "Tab Q8 Lite": [
@@ -161065,13 +161109,6 @@
    "device": "RE54C1L1"
   }
  ],
- "RMX3142": [
-  {
-   "brand": "Realme",
-   "name": "realme Q3 Pro Play",
-   "device": "RE811C"
-  }
- ],
  "realme SA Smart TV": [
   {
    "brand": "Realme",
@@ -165943,6 +165980,13 @@
    "brand": "Skyworth",
    "name": "Euro",
    "device": "SW3_ATV"
+  }
+ ],
+ "SW-22AE NF": [
+  {
+   "brand": "SWTV",
+   "name": "SW-22AE NF",
+   "device": "SW6H"
   }
  ],
  "SW-22NA NF": [
@@ -184160,6 +184204,13 @@
    "device": "xcoverpro2"
   }
  ],
+ "SM-G736U1": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy XCover6 Pro",
+   "device": "xcoverpro2"
+  }
+ ],
  "SM-G736W": [
   {
    "brand": "Samsung",
@@ -195996,6 +196047,13 @@
    "device": "NVSH800H1"
   }
  ],
+ "SCSH900AT": [
+  {
+   "brand": "StarHub",
+   "name": "StarHub TV+ Pro",
+   "device": "m393vsb_starhub"
+  }
+ ],
  "Mobiistar Zumbo J2": [
   {
    "brand": "StarMobile",
@@ -197220,6 +197278,13 @@
   }
  ],
  "L2H_GL": [
+  {
+   "brand": "Sunmi",
+   "name": "Sunmi L2H",
+   "device": "SUNMI-L2HNFC"
+  }
+ ],
+ "L2H_TR": [
   {
    "brand": "Sunmi",
    "name": "Sunmi L2H",
@@ -220394,6 +220459,13 @@
    "device": "VTL-202101"
   }
  ],
+ "VTL-202201": [
+  {
+   "brand": "Vertu",
+   "name": "VTL-202201",
+   "device": "VTL-202201"
+  }
+ ],
  "verykoolSL5029": [
   {
    "brand": "Verykool",
@@ -223642,6 +223714,13 @@
    "device": "PD2172"
   }
  ],
+ "V2180A": [
+  {
+   "brand": "Vivo",
+   "name": "V2180A",
+   "device": "PD2180"
+  }
+ ],
  "vivo V3": [
   {
    "brand": "Vivo",
@@ -223900,13 +223979,6 @@
    "brand": "Vivo",
    "name": "Xplay6",
    "device": "PD1610"
-  }
- ],
- "V2180A": [
-  {
-   "brand": "Vivo",
-   "name": "Y10",
-   "device": "PD2180"
   }
  ],
  "vivo Y11": [
@@ -239102,6 +239174,13 @@
    "device": "NX679J-UN"
   }
  ],
+ "NX679S": [
+  {
+   "brand": "ZTE",
+   "name": "NX679S",
+   "device": "NX679S"
+  }
+ ],
  "NX709J": [
   {
    "brand": "ZTE",
@@ -239117,6 +239196,13 @@
    "brand": "ZTE",
    "name": "REDMAGIC 7Pro",
    "device": "NX709J-UN"
+  }
+ ],
+ "NX709S": [
+  {
+   "brand": "ZTE",
+   "name": "NX709S",
+   "device": "NX709S"
   }
  ],
  "NX907J": [
@@ -242265,6 +242351,13 @@
    "brand": "ZTE",
    "name": "ZTE  S30 Pro 5G",
    "device": "P768A02"
+  }
+ ],
+ "ZTE 1010L": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE 1010L",
+   "device": "P963F61_A"
   }
  ],
  "ZTE 2050": [
@@ -248753,6 +248846,13 @@
    "brand": "realme",
    "name": "realme Q3 5G",
    "device": "RMX3161CN"
+  }
+ ],
+ "RMX3142": [
+  {
+   "brand": "realme",
+   "name": "realme Q3 Pro Play",
+   "device": "RE811C"
   }
  ],
  "RMX3372": [
