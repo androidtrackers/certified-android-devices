@@ -4349,6 +4349,11 @@
    "model": "T780H"
   },
   {
+   "brand": "digITS",
+   "name": "T1",
+   "model": "T1"
+  },
+  {
    "brand": "iData",
    "name": "iData T1",
    "model": "iData T1"
@@ -40170,6 +40175,18 @@
    "model": "CREMA0810T"
   }
  ],
+ "SL100EA": [
+  {
+   "brand": "Cricket",
+   "name": "DEMK4120",
+   "model": "SL100EA"
+  },
+  {
+   "brand": "Cricket",
+   "name": "DEMK4115",
+   "model": "SL100EA"
+  }
+ ],
  "EC211001": [
   {
    "brand": "Cricket",
@@ -40212,11 +40229,18 @@
    "model": "EC211003"
   }
  ],
- "SL100EA": [
+ "SN304AE": [
   {
    "brand": "Cricket",
-   "name": "DEMK4115",
-   "model": "SL100EA"
+   "name": "DEMK4117",
+   "model": "SN304AE"
+  }
+ ],
+ "SL101AE": [
+  {
+   "brand": "Cricket",
+   "name": "DEMK4119",
+   "model": "SL101AE"
   }
  ],
  "U304AC": [
@@ -43345,6 +43369,13 @@
    "model": "TT 7.0"
   }
  ],
+ "K712": [
+  {
+   "brand": "DOMATON",
+   "name": "K712",
+   "model": "K712"
+  }
+ ],
  "ds6": [
   {
    "brand": "DSIC",
@@ -44728,6 +44759,13 @@
    "brand": "Denver Electronics",
    "name": "TIQ-70",
    "model": "TIQ-70"
+  }
+ ],
+ "TIQ_1048": [
+  {
+   "brand": "Denver Electronics",
+   "name": "TIQ_1048",
+   "model": "TIQ-1048"
   }
  ],
  "DDT-001": [
@@ -46789,6 +46827,13 @@
    "model": "AirTV Player"
   }
  ],
+ "SL104D": [
+  {
+   "brand": "Dish",
+   "name": "CSSL104DBL16",
+   "model": "SL104D"
+  }
+ ],
  "Jupiter": [
   {
    "brand": "Dish",
@@ -46820,6 +46865,13 @@
    "brand": "Dish",
    "name": "Joey 4",
    "model": "Joey 4"
+  }
+ ],
+ "SL201D": [
+  {
+   "brand": "Dish",
+   "name": "SL201D",
+   "model": "SL201D"
   }
  ],
  "HiCast": [
@@ -58384,6 +58436,13 @@
    "model": "TA80CA1"
   }
  ],
+ "G200": [
+  {
+   "brand": "GDL(BD)",
+   "name": "G200",
+   "model": "G200"
+  }
+ ],
  "MB10": [
   {
    "brand": "GDM (es)",
@@ -63380,6 +63439,13 @@
    "brand": "HEADWOLF",
    "name": "Hpad2",
    "model": "H2"
+  }
+ ],
+ "Wpad1": [
+  {
+   "brand": "HEADWOLF",
+   "name": "Wpad1",
+   "model": "W1"
   }
  ],
  "JayPad_2_0": [
@@ -85751,6 +85817,13 @@
    "model": "10LA1"
   }
  ],
+ "HT10LB2MBKLTM": [
+  {
+   "brand": "Hyundai",
+   "name": "HT10LB2MBKLTM",
+   "model": "10LB2"
+  }
+ ],
  "HT10LB3MBKLTM": [
   {
    "brand": "Hyundai",
@@ -95639,6 +95712,13 @@
    "model": "Black G"
   }
  ],
+ "Black_G_2": [
+  {
+   "brand": "Kalley",
+   "name": "Black_G_2",
+   "model": "Black_G_2"
+  }
+ ],
  "Black_X": [
   {
    "brand": "Kalley",
@@ -95740,6 +95820,13 @@
    "brand": "Oale",
    "name": "P5",
    "model": "P5"
+  }
+ ],
+ "Silver_Max_Pro_2": [
+  {
+   "brand": "Kalley",
+   "name": "Silver_Max_Pro_2",
+   "model": "Silver_Max_Pro_2"
   }
  ],
  "Kammunica_500V": [
@@ -96703,6 +96790,13 @@
    "brand": "Kimfly",
    "name": "MX",
    "model": "MX"
+  }
+ ],
+ "K712_EEA": [
+  {
+   "brand": "Kimlok",
+   "name": "K712_EEA",
+   "model": "K712_EEA"
   }
  ],
  "C500": [
@@ -125206,6 +125300,13 @@
    "model": "ULTRAMINTT X5"
   }
  ],
+ "COOLMINTT_X7": [
+  {
+   "brand": "Mintt",
+   "name": "COOLMINTT_X7",
+   "model": "COOLMINTT X7"
+  }
+ ],
  "CoolMintt_Rival": [
   {
    "brand": "Mintt",
@@ -127519,6 +127620,13 @@
    "brand": "Montblanc",
    "name": "Summit 2+",
    "model": "Summit 2+"
+  }
+ ],
+ "bluefish": [
+  {
+   "brand": "Montblanc",
+   "name": "Summit 3",
+   "model": "SUMMIT"
   }
  ],
  "icefish": [
@@ -131504,6 +131612,13 @@
    "model": "MT-T800"
   }
  ],
+ "MT-T8B22": [
+  {
+   "brand": "Moxee Technologies",
+   "name": "MT-T8B22",
+   "model": "MT-T8B22"
+  }
+ ],
  "MTN_E1": [
   {
    "brand": "MozaTab",
@@ -131757,6 +131872,11 @@
    "brand": "Multilaser",
    "name": "M10 4G",
    "model": "M10_4G"
+  },
+  {
+   "brand": "Multilaser",
+   "name": "M10 4G",
+   "model": "M10_4G_PRO"
   }
  ],
  "ML_SO0K_M10_4G_T3": [
@@ -144207,6 +144327,13 @@
    "model": "RC545L"
   }
  ],
+ "RC609LSM": [
+  {
+   "brand": "Orbic",
+   "name": "RC609LSM",
+   "model": "RC609LSM"
+  }
+ ],
  "RC555L": [
   {
    "brand": "Orbic",
@@ -155694,6 +155821,13 @@
    "brand": "Qlink",
    "name": "Scepter_8",
    "model": "Scepter 8 Tablet"
+  }
+ ],
+ "Scepter8": [
+  {
+   "brand": "Qlink",
+   "name": "scepter8",
+   "model": "Scepter8"
   }
  ],
  "Qphone2019_A": [
@@ -193201,6 +193335,11 @@
   }
  ],
  "TATV_8000": [
+  {
+   "brand": "TBC (TW)",
+   "name": "TATV-8000",
+   "model": "TATV-8000"
+  },
   {
    "brand": "TBC (TW)",
    "name": "TATV_8000",
@@ -235357,6 +235496,13 @@
    "brand": "eBox",
    "name": "Ebox",
    "model": "EboxTV"
+  }
+ ],
+ "TAE08N10": [
+  {
+   "brand": "eNOVA",
+   "name": "TAE08N10",
+   "model": "TAE08N10"
   }
  ],
  "SEI500EV": [

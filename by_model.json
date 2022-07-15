@@ -37693,6 +37693,18 @@
    "device": "crema0810t"
   }
  ],
+ "SL100EA": [
+  {
+   "brand": "Cricket",
+   "name": "DEMK4120",
+   "device": "SL100EA"
+  },
+  {
+   "brand": "Cricket",
+   "name": "DEMK4115",
+   "device": "SL100EA"
+  }
+ ],
  "EC211001": [
   {
    "brand": "Cricket",
@@ -37735,11 +37747,18 @@
    "device": "EC211003"
   }
  ],
- "SL100EA": [
+ "SN304AE": [
   {
    "brand": "Cricket",
-   "name": "DEMK4115",
-   "device": "SL100EA"
+   "name": "DEMK4117",
+   "device": "SN304AE"
+  }
+ ],
+ "SL101AE": [
+  {
+   "brand": "Cricket",
+   "name": "DEMK4119",
+   "device": "SL101AE"
   }
  ],
  "U304AC": [
@@ -40525,6 +40544,13 @@
    "device": "TT_7_0"
   }
  ],
+ "K712": [
+  {
+   "brand": "DOMATON",
+   "name": "K712",
+   "device": "K712"
+  }
+ ],
  "DS6": [
   {
    "brand": "DSIC",
@@ -41834,6 +41860,13 @@
    "brand": "Denver Electronics",
    "name": "TIQ-70",
    "device": "TIQ-70"
+  }
+ ],
+ "TIQ-1048": [
+  {
+   "brand": "Denver Electronics",
+   "name": "TIQ_1048",
+   "device": "TIQ_1048"
   }
  ],
  "DDT-001": [
@@ -43858,6 +43891,13 @@
    "device": "uiw4010ech"
   }
  ],
+ "SL104D": [
+  {
+   "brand": "Dish",
+   "name": "CSSL104DBL16",
+   "device": "SL104D"
+  }
+ ],
  "WTCELERO5G": [
   {
    "brand": "Dish",
@@ -43884,6 +43924,13 @@
    "brand": "Dish",
    "name": "Joey 4",
    "device": "ATVMJ4"
+  }
+ ],
+ "SL201D": [
+  {
+   "brand": "Dish",
+   "name": "SL201D",
+   "device": "SL201D"
   }
  ],
  "SV10": [
@@ -45861,6 +45908,11 @@
    "brand": "Duubee",
    "name": "W1",
    "device": "W1"
+  },
+  {
+   "brand": "HEADWOLF",
+   "name": "Wpad1",
+   "device": "Wpad1"
   },
   {
    "brand": "Wings",
@@ -55483,6 +55535,13 @@
    "device": "TA80CA1"
   }
  ],
+ "G200": [
+  {
+   "brand": "GDL(BD)",
+   "name": "G200",
+   "device": "G200"
+  }
+ ],
  "MB10": [
   {
    "brand": "GDM (es)",
@@ -56228,6 +56287,11 @@
    "brand": "We (BD)",
    "name": "T1",
    "device": "WE_T1"
+  },
+  {
+   "brand": "digITS",
+   "name": "T1",
+   "device": "T1"
   }
  ],
  "1008S": [
@@ -86070,6 +86134,13 @@
    "device": "HT10LA1MSGNA02"
   }
  ],
+ "10LB2": [
+  {
+   "brand": "Hyundai",
+   "name": "HT10LB2MBKLTM",
+   "device": "HT10LB2MBKLTM"
+  }
+ ],
  "HT10LB3MBKLTM": [
   {
    "brand": "Hyundai",
@@ -96474,6 +96545,13 @@
    "device": "Black_G"
   }
  ],
+ "Black_G_2": [
+  {
+   "brand": "Kalley",
+   "name": "Black_G_2",
+   "device": "Black_G_2"
+  }
+ ],
  "Black X": [
   {
    "brand": "Kalley",
@@ -96563,6 +96641,13 @@
    "brand": "Kalley",
    "name": "Silver Max Lite",
    "device": "Silver_Max_Lite"
+  }
+ ],
+ "Silver_Max_Pro_2": [
+  {
+   "brand": "Kalley",
+   "name": "Silver_Max_Pro_2",
+   "device": "Silver_Max_Pro_2"
   }
  ],
  "Kammunica_500V": [
@@ -97559,6 +97644,13 @@
    "brand": "Kimfly",
    "name": "MX",
    "device": "MX"
+  }
+ ],
+ "K712_EEA": [
+  {
+   "brand": "Kimlok",
+   "name": "K712_EEA",
+   "device": "K712_EEA"
   }
  ],
  "RSTV-A4K-16": [
@@ -127338,6 +127430,13 @@
    "device": "ULTRAMINTT_X5"
   }
  ],
+ "COOLMINTT X7": [
+  {
+   "brand": "Mintt",
+   "name": "COOLMINTT_X7",
+   "device": "COOLMINTT_X7"
+  }
+ ],
  "CoolMintt Rival": [
   {
    "brand": "Mintt",
@@ -129614,6 +129713,11 @@
    "brand": "Montblanc",
    "name": "SUMMIT",
    "device": "triton"
+  },
+  {
+   "brand": "Montblanc",
+   "name": "Summit 3",
+   "device": "bluefish"
   }
  ],
  "Summit 2+": [
@@ -133881,6 +133985,13 @@
    "device": "MT-T800"
   }
  ],
+ "MT-T8B22": [
+  {
+   "brand": "Moxee Technologies",
+   "name": "MT-T8B22",
+   "device": "MT-T8B22"
+  }
+ ],
  "TU10MK1": [
   {
    "brand": "MozaTab",
@@ -134126,6 +134237,38 @@
    "device": "ML_SO0G_M10_4G"
   }
  ],
+ "M10_4G_PRO": [
+  {
+   "brand": "Multilaser",
+   "name": "M10 4G",
+   "device": "ML_SO0G_M10_4G"
+  },
+  {
+   "brand": "Multilaser",
+   "name": "M10 4G PRO",
+   "device": "ML_JI0B_M10_4G_PRO"
+  },
+  {
+   "brand": "Multilaser",
+   "name": "M10 4G PRO",
+   "device": "ML_JI0F_M10_4G_PRO"
+  },
+  {
+   "brand": "Multilaser",
+   "name": "M10 4G PRO",
+   "device": "ML_SO1G_M10_4G_PRO"
+  },
+  {
+   "brand": "Multilaser",
+   "name": "M10_4G_PRO",
+   "device": "ML-SO0C_M10_4G_PRO_PLUS"
+  },
+  {
+   "brand": "Multilaser",
+   "name": "M10_4G_PRO",
+   "device": "ML_SO0G_M10_4G_PRO_PLUS"
+  }
+ ],
  "M10_4G_T3": [
   {
    "brand": "Multilaser",
@@ -134169,33 +134312,6 @@
    "brand": "Multilaser",
    "name": "M10 4G NOVA",
    "device": "ML_SO0C_M10_4G_NOVA"
-  }
- ],
- "M10_4G_PRO": [
-  {
-   "brand": "Multilaser",
-   "name": "M10 4G PRO",
-   "device": "ML_JI0B_M10_4G_PRO"
-  },
-  {
-   "brand": "Multilaser",
-   "name": "M10 4G PRO",
-   "device": "ML_JI0F_M10_4G_PRO"
-  },
-  {
-   "brand": "Multilaser",
-   "name": "M10 4G PRO",
-   "device": "ML_SO1G_M10_4G_PRO"
-  },
-  {
-   "brand": "Multilaser",
-   "name": "M10_4G_PRO",
-   "device": "ML-SO0C_M10_4G_PRO_PLUS"
-  },
-  {
-   "brand": "Multilaser",
-   "name": "M10_4G_PRO",
-   "device": "ML_SO0G_M10_4G_PRO_PLUS"
   }
  ],
  "M10-4G-T3": [
@@ -146861,6 +146977,13 @@
    "device": "RC545L"
   }
  ],
+ "RC609LSM": [
+  {
+   "brand": "Orbic",
+   "name": "RC609LSM",
+   "device": "RC609LSM"
+  }
+ ],
  "RC555L": [
   {
    "brand": "Orbic",
@@ -158829,6 +158952,13 @@
    "brand": "Qlink",
    "name": "Scepter_8",
    "device": "Scepter_8"
+  }
+ ],
+ "Scepter8": [
+  {
+   "brand": "Qlink",
+   "name": "scepter8",
+   "device": "Scepter8"
   }
  ],
  "Qphone2019_A": [
@@ -198694,6 +198824,11 @@
   }
  ],
  "TATV-8000": [
+  {
+   "brand": "TBC (TW)",
+   "name": "TATV-8000",
+   "device": "TATV_8000"
+  },
   {
    "brand": "TBC (TW)",
    "name": "TATV_8000",
@@ -245985,6 +246120,13 @@
    "brand": "eBox",
    "name": "Ebox",
    "device": "diw387eb"
+  }
+ ],
+ "TAE08N10": [
+  {
+   "brand": "eNOVA",
+   "name": "TAE08N10",
+   "device": "TAE08N10"
   }
  ],
  "EVOPRO": [
