@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-07-15
+Last sync is 2022-07-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3774,6 +3774,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CCC|LifeStick|ts201|LifeStick|
 |CCC|LifeStick 4k|ts302|LifeStick 4K|
 |CCC|TSUTAYA Stick|ts201|TStick|
+|CCC|TV Stick|ts401|TV Stick|
 |CCIT|Xedition|Xedition|Xedition|
 |CEM Global|Continental|CE10412-26|CE10412-26|
 |CEM Global|Continential|CE10402-16|CE10402-16|
@@ -6356,6 +6357,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EVEREST-EVERPAD|DC-1032|mid1032_mk|DC-1032|
 |EVEREST-EVERPAD|DC-8015|mid7015_mk|DC-8015|
 |EVEREST-EVERPAD|DC-M700|DC-M700|DC-M700|
+|EVOFORCE1|FRC1-RCN|SEI800RCN|FRC1-RCN|
 |EVVO|Android TV|R1|ATV R1|
 |EVVO|Android TV|R2|ATV R2|
 |EWIS|OCTA-T700M|OCTA-T700M|EWIS OCTA-T700M|
@@ -12550,6 +12552,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|NOTE 11 Pro|Infinix-X697|Infinix X697|
 |Infinix|NOTE 11S|Infinix-X698|Infinix X698|
 |Infinix|NOTE 12|Infinix-X670|Infinix X670|
+|Infinix|NOTE 12 PRO|Infinix-X676B|Infinix X676B|
 |Infinix|NOTE 12 VIP|Infinix-X672|Infinix X672|
 |Infinix|NOTE 3|X601|Infinix NOTE 3|
 |Infinix|NOTE 3 Pro|X601-3G|Infinix NOTE 3 Pro|
@@ -13329,6 +13332,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|Android TV|R1|ATV R1|
 |JVC|Android TV|R2|ATV R2|
 |JVC|Android TV|R4|R4|
+|JVC|COL|stanford|COL 2K SMART TV|
 |JVC|Canada|martin|Android TV|
 |JVC|DM65UXR\DM65USR\DM85UXR|mstarnapoli_atsc|DM65UXR|
 |JVC|Dixons|sadang|UK 4K Android TV|
@@ -13347,11 +13351,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|JVC|seocho|SA 4K Android TV|
 |JVC|JVC|shilin|JVC PA 4K Android TV|
 |JVC|JVC|shilin|JVC4KAndroid TV|
+|JVC|JVC|stanford|2K SMART TV|
 |JVC|JVC|sugamo|JVC 2K Android TV|
 |JVC|JVC|sugamo|JVC SA 2K Android TV|
 |JVC|JVC|sugamo|JVC US 2K Android TV|
 |JVC|JVC|sugamo|US 2K Android TV|
 |JVC|JVC|zhongshan|4K SMART TV|
+|JVC|JVC|zhongshan|COL 4K SMART TV|
 |JVC|JVC 4K Smart TV NZ|SW6H|JVC 4K Smart TV NZ|
 |JVC|JVC J20|Cunda|J20|
 |JVC|LT-32N3115A|ikebukuro|AI PONT|
@@ -15177,6 +15183,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LGE|LG Tribute Empire|mcv1s|LM-X220PM|
 |LGE|LG Tribute Royal|mmh5lm|LM-X320|
 |LGE|LG U|bbg|LG-F820L|
+|LGE|LG Ultra Tab|jettalt|10A30Q|
 |LGE|LG V35 ThinQ|judyp|LM-V350|
 |LGE|LG V35 ThinQ|judyp|LM-V350N|
 |LGE|LG V50 ThinQ|flashlmdd|LM-V500|
@@ -15806,6 +15813,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lanix|Ilium_S520|Ilium_S520|ILIUM S520|
 |Lanix|L530|L530|L530|
 |Lanix|L540|L540|L540|
+|Lanix|LANIX|zhongshan|4K SMART TV|
 |Lanix|LANIX_PAD_E7|ILIUM_PADE7V11|LANIX_PAD_E7|
 |Lanix|Llium L910|Ilium_L910|Ilium L910|
 |Lanix|X100|ILIUM_X100|ILIUM_X100|
@@ -18001,6 +18009,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Meizu|meizu note8|meizunote8|meizu note8|
 |Meizu|meizu note9|meizunote9|meizu note9|
 |Melefon|Good|Good|Good|
+|Melita|Melita-4K-TV|DV8955C-C-KMM|DV8955C-C|
 |Memorex|MTAB-07530A|MTAB-07530A|MTAB-07530A|
 |Memorex|MTAB-0753AK|MTAB-07535AK|MTAB-07535AK|
 |Memorex|MTAB-08530A|MTAB-08530A|MTAB-08530A|
@@ -20396,6 +20405,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NoonEast|Smart TV|longshan|AI PONT|
 |NorthTech|NT-P70|NT-P70|NT-P70|
 |NorthTech|NT-S10|NT-S10|NT-S10|
+|Nothing|Nothing phone (1)|Spacewar|A063|
 |Nous|Fabulous|NS5005|NS5005|
 |Nous|NS5002|NS5002|NS5002|
 |Nous|NS5502|NS5502|NS5502|
@@ -23602,7 +23612,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme X2Pro|RMX1931L1|RMX1931|
 |Realme|realme X3|RMX2081L1|RMX2081|
 |Realme|realme X3|RMX2085L1|RMX2085|
-|Realme|realme X3|RMX2086L1|RMX2086|
 |Realme|realme X50 5G|RMX2025CN|RMX2025|
 |Realme|realme X50 5G|RMX2144L1|RMX2144|
 |Realme|realme X50 Pro|RMX2071CN|RMX2071|
@@ -33488,6 +33497,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vsun|SATURN Selfie|SATURN_SELFIE|SATURN SELFIE|
 |Vu Televisions|43UA|ikebukuro|AI PONT|
 |Vu Televisions|50CA|samseong|AI PONT|
+|Vu Televisions|50CLED/55CLED/65CLED|songshan|VU TV FFM|
 |Vu Televisions|Android TV|longshan|AI PONT|
 |Vu Televisions|fushan_vu|hamamatsucho|Smart 2K ATV4|
 |Vu Televisions|xiaoyushan-vu|xiaoyushan|HiSmartTV A4|

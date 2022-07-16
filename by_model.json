@@ -5613,6 +5613,11 @@
   },
   {
    "brand": "JVC",
+   "name": "JVC",
+   "device": "stanford"
+  },
+  {
+   "brand": "JVC",
    "name": "SA",
    "device": "stanford"
   },
@@ -7261,6 +7266,11 @@
   {
    "brand": "KTCtv",
    "name": "Maxsonic_elite",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Lanix",
+   "name": "LANIX",
    "device": "zhongshan"
   }
  ],
@@ -29184,6 +29194,23 @@
    "device": "ts201"
   }
  ],
+ "TV Stick": [
+  {
+   "brand": "CCC",
+   "name": "TV Stick",
+   "device": "ts401"
+  },
+  {
+   "brand": "TVCore",
+   "name": "TV Stick",
+   "device": "ts401"
+  },
+  {
+   "brand": "realme",
+   "name": "TV Stick",
+   "device": "BOS"
+  }
+ ],
  "Xedition": [
   {
    "brand": "CCIT",
@@ -47333,6 +47360,13 @@
    "brand": "EVEREST-EVERPAD",
    "name": "DC-M700",
    "device": "DC-M700"
+  }
+ ],
+ "FRC1-RCN": [
+  {
+   "brand": "EVOFORCE1",
+   "name": "FRC1-RCN",
+   "device": "SEI800RCN"
   }
  ],
  "EWIS OCTA-T700M": [
@@ -86331,6 +86365,11 @@
    "brand": "Hyundai",
    "name": "Hyundai",
    "device": "stanford"
+  },
+  {
+   "brand": "JVC",
+   "name": "COL",
+   "device": "stanford"
   }
  ],
  "SA 2K SMART TV": [
@@ -89195,6 +89234,13 @@
    "brand": "Infinix",
    "name": "NOTE 12",
    "device": "Infinix-X670"
+  }
+ ],
+ "Infinix X676B": [
+  {
+   "brand": "Infinix",
+   "name": "NOTE 12 PRO",
+   "device": "Infinix-X676B"
   }
  ],
  "Infinix X672": [
@@ -94442,6 +94488,13 @@
    "brand": "JVC",
    "name": "JVC",
    "device": "sugamo"
+  }
+ ],
+ "COL 4K SMART TV": [
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "device": "zhongshan"
   }
  ],
  "JVC 4K Smart TV NZ": [
@@ -106954,6 +107007,13 @@
    "brand": "LGE",
    "name": "LG U",
    "device": "bbg"
+  }
+ ],
+ "10A30Q": [
+  {
+   "brand": "LGE",
+   "name": "LG Ultra Tab",
+   "device": "jettalt"
   }
  ],
  "LM-V350": [
@@ -125249,6 +125309,13 @@
    "device": "Good"
   }
  ],
+ "DV8955C-C": [
+  {
+   "brand": "Melita",
+   "name": "Melita-4K-TV",
+   "device": "DV8955C-C-KMM"
+  }
+ ],
  "MTAB-07530A": [
   {
    "brand": "Memorex",
@@ -140599,6 +140666,13 @@
    "brand": "NorthTech",
    "name": "NT-S10",
    "device": "NT-S10"
+  }
+ ],
+ "A063": [
+  {
+   "brand": "Nothing",
+   "name": "Nothing phone (1)",
+   "device": "Spacewar"
   }
  ],
  "NS5005": [
@@ -161333,18 +161407,6 @@
    "brand": "Realme",
    "name": "realme X3",
    "device": "RMX2085L1"
-  }
- ],
- "RMX2086": [
-  {
-   "brand": "Realme",
-   "name": "realme X3",
-   "device": "RMX2086L1"
-  },
-  {
-   "brand": "realme",
-   "name": "realme X3",
-   "device": "RMX2086L1"
   }
  ],
  "RMX2025": [
@@ -209803,18 +209865,6 @@
    "device": "TU7_58212"
   }
  ],
- "TV Stick": [
-  {
-   "brand": "TVCore",
-   "name": "TV Stick",
-   "device": "ts401"
-  },
-  {
-   "brand": "realme",
-   "name": "TV Stick",
-   "device": "BOS"
-  }
- ],
  "TV StickL": [
   {
    "brand": "TVCore",
@@ -226398,6 +226448,13 @@
    "brand": "Vsun",
    "name": "SATURN Selfie",
    "device": "SATURN_SELFIE"
+  }
+ ],
+ "VU TV FFM": [
+  {
+   "brand": "Vu Televisions",
+   "name": "50CLED/55CLED/65CLED",
+   "device": "songshan"
   }
  ],
  "Smart 2K ATV4": [
@@ -249049,6 +249106,13 @@
    "brand": "realme",
    "name": "realme X3",
    "device": "RMX2083L1"
+  }
+ ],
+ "RMX2086": [
+  {
+   "brand": "realme",
+   "name": "realme X3",
+   "device": "RMX2086L1"
   }
  ],
  "RMX2076": [

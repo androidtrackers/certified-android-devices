@@ -35605,6 +35605,23 @@
    "model": "TStick"
   }
  ],
+ "TV Stick": [
+  {
+   "brand": "CCC",
+   "device": "ts401",
+   "model": "TV Stick"
+  },
+  {
+   "brand": "TVCore",
+   "device": "ts401",
+   "model": "TV Stick"
+  },
+  {
+   "brand": "realme",
+   "device": "BOS",
+   "model": "TV Stick"
+  }
+ ],
  "Xedition": [
   {
    "brand": "CCIT",
@@ -53699,6 +53716,11 @@
   },
   {
    "brand": "JVC",
+   "device": "stanford",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "JVC",
    "device": "sugamo",
    "model": "JVC 2K Android TV"
   },
@@ -53721,6 +53743,11 @@
    "brand": "JVC",
    "device": "zhongshan",
    "model": "4K SMART TV"
+  },
+  {
+   "brand": "JVC",
+   "device": "zhongshan",
+   "model": "COL 4K SMART TV"
   }
  ],
  "KATV10": [
@@ -54532,6 +54559,13 @@
    "brand": "EVEREST-EVERPAD",
    "device": "DC-M700",
    "model": "DC-M700"
+  }
+ ],
+ "FRC1-RCN": [
+  {
+   "brand": "EVOFORCE1",
+   "device": "SEI800RCN",
+   "model": "FRC1-RCN"
   }
  ],
  "OCTA-T700M": [
@@ -92041,6 +92075,13 @@
    "model": "Infinix X670"
   }
  ],
+ "NOTE 12 PRO": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X676B",
+   "model": "Infinix X676B"
+  }
+ ],
  "NOTE 12 VIP": [
   {
    "brand": "Infinix",
@@ -96899,6 +96940,23 @@
    "model": "AV-11NT510"
   }
  ],
+ "COL": [
+  {
+   "brand": "JVC",
+   "device": "stanford",
+   "model": "COL 2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "stanford",
+   "model": "40DCOL"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "zhongshan",
+   "model": "43FCOL"
+  }
+ ],
  "DM65UXR\\DM65USR\\DM85UXR": [
   {
    "brand": "JVC",
@@ -98840,18 +98898,6 @@
    "brand": "KTCtv",
    "device": "zhongshan",
    "model": "4K SMART TV"
-  }
- ],
- "COL": [
-  {
-   "brand": "KTCtv",
-   "device": "stanford",
-   "model": "40DCOL"
-  },
-  {
-   "brand": "KTCtv",
-   "device": "zhongshan",
-   "model": "43FCOL"
   }
  ],
  "DIGGIO": [
@@ -107445,6 +107491,13 @@
    "model": "LG-F820L"
   }
  ],
+ "LG Ultra Tab": [
+  {
+   "brand": "LGE",
+   "device": "jettalt",
+   "model": "10A30Q"
+  }
+ ],
  "LG V35 ThinQ": [
   {
    "brand": "LGE",
@@ -111087,6 +111140,13 @@
    "brand": "Lanix",
    "device": "L540",
    "model": "L540"
+  }
+ ],
+ "LANIX": [
+  {
+   "brand": "Lanix",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
   }
  ],
  "LANIX_PAD_E7": [
@@ -124436,6 +124496,13 @@
    "brand": "Melefon",
    "device": "Good",
    "model": "Good"
+  }
+ ],
+ "Melita-4K-TV": [
+  {
+   "brand": "Melita",
+   "device": "DV8955C-C-KMM",
+   "model": "DV8955C-C"
   }
  ],
  "MTAB-07530A": [
@@ -138661,6 +138728,13 @@
    "brand": "NorthTech",
    "device": "NT-S10",
    "model": "NT-S10"
+  }
+ ],
+ "Nothing phone (1)": [
+  {
+   "brand": "Nothing",
+   "device": "Spacewar",
+   "model": "A063"
   }
  ],
  "Fabulous": [
@@ -158410,11 +158484,6 @@
    "brand": "Realme",
    "device": "RMX2085L1",
    "model": "RMX2085"
-  },
-  {
-   "brand": "Realme",
-   "device": "RMX2086L1",
-   "model": "RMX2086"
   },
   {
    "brand": "realme",
@@ -199844,18 +199913,6 @@
    "model": "TU7_18222"
   }
  ],
- "TV Stick": [
-  {
-   "brand": "TVCore",
-   "device": "ts401",
-   "model": "TV Stick"
-  },
-  {
-   "brand": "realme",
-   "device": "BOS",
-   "model": "TV Stick"
-  }
- ],
  "ts401l": [
   {
    "brand": "TVCore",
@@ -216017,6 +216074,13 @@
    "brand": "Vu Televisions",
    "device": "samseong",
    "model": "AI PONT"
+  }
+ ],
+ "50CLED/55CLED/65CLED": [
+  {
+   "brand": "Vu Televisions",
+   "device": "songshan",
+   "model": "VU TV FFM"
   }
  ],
  "fushan_vu": [

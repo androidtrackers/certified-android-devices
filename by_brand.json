@@ -19468,6 +19468,11 @@
    "device": "ts201",
    "name": "TSUTAYA Stick",
    "model": "TStick"
+  },
+  {
+   "device": "ts401",
+   "name": "TV Stick",
+   "model": "TV Stick"
   }
  ],
  "CCIT": [
@@ -32932,6 +32937,13 @@
    "device": "DC-M700",
    "name": "DC-M700",
    "model": "DC-M700"
+  }
+ ],
+ "EVOFORCE1": [
+  {
+   "device": "SEI800RCN",
+   "name": "FRC1-RCN",
+   "model": "FRC1-RCN"
   }
  ],
  "EVVO": [
@@ -64646,6 +64658,11 @@
    "model": "Infinix X670"
   },
   {
+   "device": "Infinix-X676B",
+   "name": "NOTE 12 PRO",
+   "model": "Infinix X676B"
+  },
+  {
    "device": "Infinix-X672",
    "name": "NOTE 12 VIP",
    "model": "Infinix X672"
@@ -68623,6 +68640,11 @@
    "model": "R4"
   },
   {
+   "device": "stanford",
+   "name": "COL",
+   "model": "COL 2K SMART TV"
+  },
+  {
    "device": "martin",
    "name": "Canada",
    "model": "Android TV"
@@ -68713,6 +68735,11 @@
    "model": "JVC4KAndroid TV"
   },
   {
+   "device": "stanford",
+   "name": "JVC",
+   "model": "2K SMART TV"
+  },
+  {
    "device": "sugamo",
    "name": "JVC",
    "model": "JVC 2K Android TV"
@@ -68736,6 +68763,11 @@
    "device": "zhongshan",
    "name": "JVC",
    "model": "4K SMART TV"
+  },
+  {
+   "device": "zhongshan",
+   "name": "JVC",
+   "model": "COL 4K SMART TV"
   },
   {
    "device": "SW6H",
@@ -78099,6 +78131,11 @@
    "model": "LG-F820L"
   },
   {
+   "device": "jettalt",
+   "name": "LG Ultra Tab",
+   "model": "10A30Q"
+  },
+  {
    "device": "judyp",
    "name": "LG V35 ThinQ",
    "model": "LM-V350"
@@ -81294,6 +81331,11 @@
    "device": "L540",
    "name": "L540",
    "model": "L540"
+  },
+  {
+   "device": "zhongshan",
+   "name": "LANIX",
+   "model": "4K SMART TV"
   },
   {
    "device": "ILIUM_PADE7V11",
@@ -92553,6 +92595,13 @@
    "device": "Good",
    "name": "Good",
    "model": "Good"
+  }
+ ],
+ "Melita": [
+  {
+   "device": "DV8955C-C-KMM",
+   "name": "Melita-4K-TV",
+   "model": "DV8955C-C"
   }
  ],
  "Memorex": [
@@ -104838,6 +104887,13 @@
    "device": "NT-S10",
    "name": "NT-S10",
    "model": "NT-S10"
+  }
+ ],
+ "Nothing": [
+  {
+   "device": "Spacewar",
+   "name": "Nothing phone (1)",
+   "model": "A063"
   }
  ],
  "Nous": [
@@ -121330,11 +121386,6 @@
    "device": "RMX2085L1",
    "name": "realme X3",
    "model": "RMX2085"
-  },
-  {
-   "device": "RMX2086L1",
-   "name": "realme X3",
-   "model": "RMX2086"
   },
   {
    "device": "RMX2025CN",
@@ -171888,6 +171939,11 @@
    "device": "samseong",
    "name": "50CA",
    "model": "AI PONT"
+  },
+  {
+   "device": "songshan",
+   "name": "50CLED/55CLED/65CLED",
+   "model": "VU TV FFM"
   },
   {
    "device": "longshan",

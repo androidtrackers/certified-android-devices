@@ -936,6 +936,11 @@
    "model": "4K SMART TV"
   },
   {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "COL 4K SMART TV"
+  },
+  {
    "brand": "K-ELEC",
    "name": "KELEC",
    "model": "43F"
@@ -1014,6 +1019,11 @@
    "brand": "KTCtv",
    "name": "Zitro",
    "model": "43FSA"
+  },
+  {
+   "brand": "Lanix",
+   "name": "LANIX",
+   "model": "4K SMART TV"
   },
   {
    "brand": "Motorola",
@@ -1101,6 +1111,16 @@
    "brand": "Indurama",
    "name": "Indurama",
    "model": "CSV2K"
+  },
+  {
+   "brand": "JVC",
+   "name": "COL",
+   "model": "COL 2K SMART TV"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "model": "2K SMART TV"
   },
   {
    "brand": "JVC",
@@ -31492,6 +31512,23 @@
    "model": "LifeStick 4K"
   }
  ],
+ "ts401": [
+  {
+   "brand": "CCC",
+   "name": "TV Stick",
+   "model": "TV Stick"
+  },
+  {
+   "brand": "TVCore",
+   "name": "TV Stick",
+   "model": "TV Stick"
+  },
+  {
+   "brand": "TVCore",
+   "name": "ts401l",
+   "model": "TV StickL"
+  }
+ ],
  "Xedition": [
   {
    "brand": "CCIT",
@@ -50270,6 +50307,13 @@
    "brand": "EVEREST-EVERPAD",
    "name": "DC-M700",
    "model": "DC-M700"
+  }
+ ],
+ "SEI800RCN": [
+  {
+   "brand": "EVOFORCE1",
+   "name": "FRC1-RCN",
+   "model": "FRC1-RCN"
   }
  ],
  "OCTA-T700M": [
@@ -70998,6 +71042,11 @@
    "brand": "Toshiba",
    "name": "M550LP/M550LI",
    "model": "Toshiba TV with MIC"
+  },
+  {
+   "brand": "Vu Televisions",
+   "name": "50CLED/55CLED/65CLED",
+   "model": "VU TV FFM"
   }
  ],
  "HLTE202N": [
@@ -88841,6 +88890,13 @@
    "model": "Infinix X670"
   }
  ],
+ "Infinix-X676B": [
+  {
+   "brand": "Infinix",
+   "name": "NOTE 12 PRO",
+   "model": "Infinix X676B"
+  }
+ ],
  "Infinix-X672": [
   {
    "brand": "Infinix",
@@ -105393,6 +105449,13 @@
    "brand": "LGE",
    "name": "LG U",
    "model": "LG-F820L"
+  }
+ ],
+ "jettalt": [
+  {
+   "brand": "LGE",
+   "name": "LG Ultra Tab",
+   "model": "10A30Q"
   }
  ],
  "judyp": [
@@ -123153,6 +123216,13 @@
    "model": "Good"
   }
  ],
+ "DV8955C-C-KMM": [
+  {
+   "brand": "Melita",
+   "name": "Melita-4K-TV",
+   "model": "DV8955C-C"
+  }
+ ],
  "MTAB-07530A": [
   {
    "brand": "Memorex",
@@ -138244,6 +138314,13 @@
    "brand": "NorthTech",
    "name": "NT-S10",
    "model": "NT-S10"
+  }
+ ],
+ "Spacewar": [
+  {
+   "brand": "Nothing",
+   "name": "Nothing phone (1)",
+   "model": "A063"
   }
  ],
  "NS5005": [
@@ -158110,18 +158187,6 @@
    "brand": "Realme",
    "name": "realme X3",
    "model": "RMX2085"
-  }
- ],
- "RMX2086L1": [
-  {
-   "brand": "Realme",
-   "name": "realme X3",
-   "model": "RMX2086"
-  },
-  {
-   "brand": "realme",
-   "name": "realme X3",
-   "model": "RMX2086"
   }
  ],
  "RMX2025CN": [
@@ -201907,18 +201972,6 @@
    "model": "A15"
   }
  ],
- "ts401": [
-  {
-   "brand": "TVCore",
-   "name": "TV Stick",
-   "model": "TV Stick"
-  },
-  {
-   "brand": "TVCore",
-   "name": "ts401l",
-   "model": "TV StickL"
-  }
- ],
  "DV6069Y_TVPLUS": [
   {
    "brand": "TVPLUS",
@@ -238513,6 +238566,13 @@
    "brand": "realme",
    "name": "realme X3",
    "model": "RMX2083"
+  }
+ ],
+ "RMX2086L1": [
+  {
+   "brand": "realme",
+   "name": "realme X3",
+   "model": "RMX2086"
   }
  ],
  "RMX2076L1": [
