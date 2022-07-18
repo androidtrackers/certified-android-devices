@@ -987,6 +987,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "LikeMe",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "Maxsonic_elite",
    "model": "4K SMART TV"
   },
@@ -1019,6 +1024,11 @@
    "brand": "KTCtv",
    "name": "Zitro",
    "model": "43FSA"
+  },
+  {
+   "brand": "LUCOMS",
+   "name": "LUCOMS",
+   "model": "4K SMART TV"
   },
   {
    "brand": "Lanix",
@@ -1218,6 +1228,11 @@
    "model": "40D"
   },
   {
+   "brand": "LUCOMS",
+   "name": "LUCOMS",
+   "model": "2K SMART TV"
+  },
+  {
    "brand": "Motorola",
    "name": "Motorola",
    "model": "CSV2K"
@@ -1236,6 +1251,11 @@
    "brand": "Smart-Tech TV",
    "name": "SMART TECHNOLOGY",
    "model": "2K SMART TV"
+  },
+  {
+   "brand": "THEHAM",
+   "name": "THEHAM",
+   "model": "Smart FHD TV"
   },
   {
    "brand": "Vivax",
@@ -31709,6 +31729,11 @@
    "brand": "CHAINWAY",
    "name": "P80_EEA",
    "model": "P80"
+  },
+  {
+   "brand": "Teclast",
+   "name": "P80_ROW",
+   "model": "P80_ROW"
   }
  ],
  "HCE600": [

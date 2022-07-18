@@ -5637,6 +5637,11 @@
    "device": "stanford"
   },
   {
+   "brand": "LUCOMS",
+   "name": "LUCOMS",
+   "device": "stanford"
+  },
+  {
    "brand": "Smart-Tech TV",
    "name": "SMART TECHNOLOGY",
    "device": "stanford"
@@ -7265,7 +7270,17 @@
   },
   {
    "brand": "KTCtv",
+   "name": "LikeMe",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
    "name": "Maxsonic_elite",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "LUCOMS",
+   "name": "LUCOMS",
    "device": "zhongshan"
   },
   {
@@ -96420,6 +96435,11 @@
   {
    "brand": "KTCtv",
    "name": "Nobrand",
+   "device": "stanford"
+  },
+  {
+   "brand": "THEHAM",
+   "name": "THEHAM",
    "device": "stanford"
   }
  ],
@@ -210995,6 +211015,11 @@
   }
  ],
  "P80_ROW": [
+  {
+   "brand": "Teclast",
+   "name": "P80_ROW",
+   "device": "P80"
+  },
   {
    "brand": "Teclast",
    "name": "P80_ROW",

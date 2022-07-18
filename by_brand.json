@@ -70370,6 +70370,11 @@
    "model": "CSV4K"
   },
   {
+   "device": "zhongshan",
+   "name": "LikeMe",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "stanford",
    "name": "Maxsonic_elite",
    "model": "2K SMART TV"
@@ -80750,6 +80755,16 @@
    "device": "R2",
    "name": "Android TV",
    "model": "ATV R2"
+  },
+  {
+   "device": "stanford",
+   "name": "LUCOMS",
+   "model": "2K SMART TV"
+  },
+  {
+   "device": "zhongshan",
+   "name": "LUCOMS",
+   "model": "4K SMART TV"
   },
   {
    "device": "sindorim",
@@ -157632,6 +157647,11 @@
    "model": "AI PONT NA"
   },
   {
+   "device": "stanford",
+   "name": "THEHAM",
+   "model": "Smart FHD TV"
+  },
+  {
    "device": "zhongshan",
    "name": "THEHAM",
    "model": "Smart UHD TV"
@@ -159249,6 +159269,11 @@
    "device": "P80_KOR",
    "name": "P80_KOR",
    "model": "P80_KOR"
+  },
+  {
+   "device": "P80",
+   "name": "P80_ROW",
+   "model": "P80_ROW"
   },
   {
    "device": "P80_G3M2_ROW",

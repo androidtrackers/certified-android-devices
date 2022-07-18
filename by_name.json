@@ -98952,6 +98952,13 @@
    "model": "CSV4K"
   }
  ],
+ "LikeMe": [
+  {
+   "brand": "KTCtv",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
+  }
+ ],
  "Maxsonic_elite": [
   {
    "brand": "KTCtv",
@@ -110387,6 +110394,18 @@
    "brand": "LT Electronics",
    "device": "SPURT_K600",
    "model": "K600"
+  }
+ ],
+ "LUCOMS": [
+  {
+   "brand": "LUCOMS",
+   "device": "stanford",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "LUCOMS",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
   }
  ],
  "AT11R464_LUKE": [
@@ -199143,6 +199162,11 @@
  "THEHAM": [
   {
    "brand": "THEHAM",
+   "device": "stanford",
+   "model": "Smart FHD TV"
+  },
+  {
+   "brand": "THEHAM",
    "device": "zhongshan",
    "model": "Smart UHD TV"
   }
@@ -201002,6 +201026,11 @@
   }
  ],
  "P80_ROW": [
+  {
+   "brand": "Teclast",
+   "device": "P80",
+   "model": "P80_ROW"
+  },
   {
    "brand": "Teclast",
    "device": "P80_G3M2_ROW",

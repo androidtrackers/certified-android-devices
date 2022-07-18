@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-07-17
+Last sync is 2022-07-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13658,6 +13658,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|Golbal|zhongshan|CSV4K|
 |KTCtv|INNOVA|stanford|CSV2K|
 |KTCtv|INNOVA|zhongshan|CSV4K|
+|KTCtv|LikeMe|zhongshan|4K SMART TV|
 |KTCtv|Maxsonic_elite|stanford|2K SMART TV|
 |KTCtv|Maxsonic_elite|zhongshan|4K SMART TV|
 |KTCtv|NA|stanford|40DNA|
@@ -15702,6 +15703,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LT Electronics|SPURT_K600|SPURT_K600|K600|
 |LUCOMS|Android TV|R1|ATV R1|
 |LUCOMS|Android TV|R2|ATV R2|
+|LUCOMS|LUCOMS|stanford|2K SMART TV|
+|LUCOMS|LUCOMS|zhongshan|4K SMART TV|
 |LUCOMS|UHD Android TV|sindorim|AI PONT|
 |LUKE|AT11R464_LUKE|AT11R464_LUKE|AT11R464|
 |LUMUS|INNOSR545|INNOSR545|INNOSR545|
@@ -30750,6 +30753,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |THANHHUNG_TECHNOLOGY|HERO 9|HERO_9|HERO 9|
 |THE UHD|Android TV|R2|ATV R2|
 |THEHAM|Android TV|longshan|AI PONT NA|
+|THEHAM|THEHAM|stanford|Smart FHD TV|
 |THEHAM|THEHAM|zhongshan|Smart UHD TV|
 |THEHAM|UHD Android TV|sindorim|AI PONT|
 |THL|Knight 2|Knight_2|Knight 2|
@@ -31049,6 +31053,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P80_EEA|P80_EEA|P80_EEA|
 |Teclast|P80_EEA|P80_G3M2_EEA|P80_EEA|
 |Teclast|P80_KOR|P80_KOR|P80_KOR|
+|Teclast|P80_ROW|P80|P80_ROW|
 |Teclast|P80_ROW|P80_G3M2_ROW|P80_ROW|
 |Teclast|P80_ROW|P80_ROW|P80_ROW|
 |Teclast|P80h_EEA|P80h_EEA|P80h_EEA|
