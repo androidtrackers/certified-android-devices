@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-07-18
+Last sync is 2022-07-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3395,6 +3395,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G71|G0570WW|G71 PLUS|
 |Blu|G71L|G0710WW|G71L|
 |Blu|G71_PLUS_TIGO|G0560WW|G71 PLUS|
+|Blu|G8|G0160LL|G8|
 |Blu|G8|G0170|G8|
 |Blu|G9|G0130WW|G9|
 |Blu|G9|G0130WW_SR|G9|
@@ -9826,6 +9827,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U963|SC9832E|Hisense U963|
 |Hisense|Hisense U963|SC9832E|Hisense V40|
 |Hisense|Hisense U964|HLTE106E_01|Hisense U964|
+|Hisense|Hisense U964|HLTE106E_02|Hisense E32 Lite|
 |Hisense|Hisense U964|HLTE106E_02|Hisense U964|
 |Hisense|Hisense U964|HS7731ESP|HWCD100E|
 |Hisense|Hisense U964|HS7731ESP|Hisense U40 Lite|
@@ -23669,6 +23671,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 10 2022|selene|21061119AL|
 |Redmi|Redmi 10 2022|selene|21121119SG|
 |Redmi|Redmi 10 2022|selene|21121119VL|
+|Redmi|Redmi 10 Power|fog|220333QBI|
 |Redmi|Redmi 10A|dandelion|220233L2C|
 |Redmi|Redmi 10C|fog|220333QAG|
 |Redmi|Redmi 10C|rain|220333QNY|
@@ -23767,6 +23770,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 11S|miel|2201117SL|
 |Redmi|Redmi Note 11S 5G|opal|22031116BG|
 |Redmi|Redmi Note 11T 5G|evergo|21091116AI|
+|Redmi|Redmi Note 11T Pro|xaga|22041216C|
+|Redmi|Redmi Note 11T Pro +|xagapro|22041216UC|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Redmi|Redmi Note 8|biloba|M1908C3JGG|
 |Redmi|Redmi Note 8|ginkgo|GINKGO|
@@ -26503,6 +26508,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A|gt5note8ltechn|SM-P355C|
 |Samsung|Galaxy Tab A|gta3xl|SM-T515|
 |Samsung|Galaxy Tab A|gta3xl|SM-T515N|
+|Samsung|Galaxy Tab A|gta3xl|SM-T517|
 |Samsung|Galaxy Tab A|gta3xl|SM-T517P|
 |Samsung|Galaxy Tab A|gta3xlwifi|SM-T510|
 |Samsung|Galaxy Tab A|gtaslitelteusc|SM-T387R4|
@@ -26585,7 +26591,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A S 8.0|gt58ltebmc|SM-T357W|
 |Samsung|Galaxy Tab A with S Pen|wisdom|SM-P205|
 |Samsung|Galaxy Tab A with S Pen|wisdomwifi|SM-P200|
-|Samsung|"Galaxy Tab A(10.1|2019)"|gta3xl|
 |Samsung|Galaxy Tab A6|gtexswifi|SM-T280|
 |Samsung|Galaxy Tab A7|gta4l|SM-T505|
 |Samsung|Galaxy Tab A7|gta4l|SM-T505C|
@@ -33179,8 +33184,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Z1 Pro|1951|vivo 1951|
 |Vivo|Z3i|PD1813C|V1813A|
 |Vivo|Z3i|PD1813E|V1813A|
+|Vivo|iQOO 10|PD2217|V2217A|
+|Vivo|iQOO 10 Pro|PD2218|V2218A|
 |Vivo|iQOO 9 Pro|2022|I2022|
 |Vivo|iQOO 9 SE|2019|I2019|
+|Vivo|iQOO 9T|I2201|I2201|
 |Vivo|iQOO Neo5S|PD2154|V2154A|
 |Vivo|iQOO Neo6 SE|PD2199|V2199A|
 |Vivo|iQOO Z5|2018|I2018|

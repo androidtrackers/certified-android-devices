@@ -32419,6 +32419,11 @@
  "G8": [
   {
    "brand": "Blu",
+   "device": "G0160LL",
+   "model": "G8"
+  },
+  {
+   "brand": "Blu",
    "device": "G0170",
    "model": "G8"
   },
@@ -77285,6 +77290,11 @@
    "brand": "Hisense",
    "device": "HLTE106E_01",
    "model": "Hisense U964"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HLTE106E_02",
+   "model": "Hisense E32 Lite"
   },
   {
    "brand": "Hisense",
@@ -158925,6 +158935,13 @@
    "model": "21121119VL"
   }
  ],
+ "Redmi 10 Power": [
+  {
+   "brand": "Redmi",
+   "device": "fog",
+   "model": "220333QBI"
+  }
+ ],
  "Redmi 10A": [
   {
    "brand": "Redmi",
@@ -159531,6 +159548,20 @@
    "brand": "Redmi",
    "device": "evergo",
    "model": "21091116AI"
+  }
+ ],
+ "Redmi Note 11T Pro": [
+  {
+   "brand": "Redmi",
+   "device": "xaga",
+   "model": "22041216C"
+  }
+ ],
+ "Redmi Note 11T Pro +": [
+  {
+   "brand": "Redmi",
+   "device": "xagapro",
+   "model": "22041216UC"
   }
  ],
  "Redmi Note 7": [
@@ -174756,6 +174787,11 @@
   {
    "brand": "Samsung",
    "device": "gta3xl",
+   "model": "SM-T517"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gta3xl",
    "model": "SM-T517P"
   },
   {
@@ -175194,13 +175230,6 @@
    "brand": "Samsung",
    "device": "wisdomwifi",
    "model": "SM-P200"
-  }
- ],
- "\"Galaxy Tab A(10.1": [
-  {
-   "brand": "Samsung",
-   "device": "2019)\"",
-   "model": "gta3xl"
   }
  ],
  "Galaxy Tab A6": [
@@ -214000,6 +214029,20 @@
    "model": "V1813A"
   }
  ],
+ "iQOO 10": [
+  {
+   "brand": "Vivo",
+   "device": "PD2217",
+   "model": "V2217A"
+  }
+ ],
+ "iQOO 10 Pro": [
+  {
+   "brand": "Vivo",
+   "device": "PD2218",
+   "model": "V2218A"
+  }
+ ],
  "iQOO 9 Pro": [
   {
    "brand": "Vivo",
@@ -214012,6 +214055,13 @@
    "brand": "Vivo",
    "device": "2019",
    "model": "I2019"
+  }
+ ],
+ "iQOO 9T": [
+  {
+   "brand": "Vivo",
+   "device": "I2201",
+   "model": "I2201"
   }
  ],
  "iQOO Neo5S": [

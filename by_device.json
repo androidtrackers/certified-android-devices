@@ -28961,6 +28961,13 @@
    "model": "G71 PLUS"
   }
  ],
+ "G0160LL": [
+  {
+   "brand": "Blu",
+   "name": "G8",
+   "model": "G8"
+  }
+ ],
  "G0170": [
   {
    "brand": "Blu",
@@ -73094,6 +73101,11 @@
   }
  ],
  "HLTE106E_02": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U964",
+   "model": "Hisense E32 Lite"
+  },
   {
    "brand": "Hisense",
    "name": "Hisense U964",
@@ -157437,6 +157449,11 @@
   },
   {
    "brand": "Redmi",
+   "name": "Redmi 10 Power",
+   "model": "220333QBI"
+  },
+  {
+   "brand": "Redmi",
    "name": "Redmi 10C",
    "model": "220333QAG"
   }
@@ -159054,6 +159071,20 @@
    "brand": "Redmi",
    "name": "Redmi Note 11S 5G",
    "model": "22031116BG"
+  }
+ ],
+ "xaga": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 11T Pro",
+   "model": "22041216C"
+  }
+ ],
+ "xagapro": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 11T Pro +",
+   "model": "22041216UC"
   }
  ],
  "biloba": [
@@ -176180,6 +176211,11 @@
   {
    "brand": "Samsung",
    "name": "Galaxy Tab A",
+   "model": "SM-T517"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab A",
    "model": "SM-T517P"
   }
  ],
@@ -176451,11 +176487,6 @@
    "brand": "Samsung",
    "name": "\"Galaxy Tab A (8.0\"\"",
    "model": "gto"
-  },
-  {
-   "brand": "Samsung",
-   "name": "\"Galaxy Tab A(10.1",
-   "model": "gta3xl"
   }
  ],
  "2020)\"": [
@@ -216019,11 +216050,32 @@
    "model": "V1813A"
   }
  ],
+ "PD2217": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO 10",
+   "model": "V2217A"
+  }
+ ],
+ "PD2218": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO 10 Pro",
+   "model": "V2218A"
+  }
+ ],
  "2019": [
   {
    "brand": "Vivo",
    "name": "iQOO 9 SE",
    "model": "I2019"
+  }
+ ],
+ "I2201": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO 9T",
+   "model": "I2201"
   }
  ],
  "PD2154": [
