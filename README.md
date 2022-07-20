@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-07-19
+Last sync is 2022-07-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2577,6 +2577,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BPL|A4300|ikebukuro|AI PONT|
 |BPL|A4310|samseong|AI PONT|
 |BPL|Android TV|longshan|AI PONT|
+|BPL|BPL FHD TV|takao|BPL FHD TV|
 |BPL|BPL UHD TV|OD0M_EA_T32|BPL UHD TV|
 |BQru|5060|BQru-5060|BQru-5060|
 |BQru|5701L Slim|BQru-5701L|BQ-5701L|
@@ -3458,6 +3459,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|M8L 2022|M0220WW_ND|M8L 2022|
 |Blu|M8L PLUS|M0209WW|M8L PLUS|
 |Blu|M8L PLUS|M0210WW|M8L PLUS|
+|Blu|M8L PLUS|M0213WW|M8L Plus|
 |Blu|M8L Plus|M0209WW_ND|M8L Plus|
 |Blu|M8L Plus|M0210WW_ND|M8L PLUS|
 |Blu|M8L Plus|M0212WW_ND|M8L Plus|
@@ -3671,6 +3673,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Brandt|B-ONE|B-ONE|B-ONE|
 |Brandt|BPRIME|BPRIME|BPRIME|
 |Brandt|BPRIMES|BPRIMES|BPRIMES|
+|Brandt|BRANDT FHD TV|takao|BRANDT FHD TV|
+|Brandt|BRANDT UHD TV|OD0M_EA_T32|BRANDT UHD TV|
 |Brandt|BSTAR|BSTAR|BSTAR|
 |Brandt|BSTAR+|BSTAR_PLUS|BSTAR+|
 |Brantel|E-tel_i10|E-tel_i10|E-tel i10|
@@ -5141,6 +5145,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |D-Tech|LM-01|LM_01|LM-01|
 |DAIICHI|Vietnam|tamachi|Daiichi FHD Android TV|
 |DAIICHI|Vietnam|yeongdeungpo|Daiichi UHD Android TV|
+|DAIKO|DAIKO UHD TV|OD0M_EA_T32|DAIKO UHD TV|
 |DBM Maroc|ACCENT SURF 1000|SURF1000|SURF1000|
 |DBM Maroc|Accent Speed Y2|Speed-Y2|Speed-Y2|
 |DBM Maroc|Accent Speed Y3|Speed-Y3|Speed-Y3|
@@ -12231,6 +12236,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IMO(In My Opinion)|IMO S2|S2|IMO S2|
 |IMPECCA|4K Smart TV|gangbyeon|IMPECCA 4K Smart TV|
 |IMPECCA|Smart TV|kanda|IMPECCA 2K Smart TV|
+|IMPEX|GRANDE UHD TV|OD0M_EA_T32|GRANDE UHD TV|
 |IMPEX|Grande FHD TV|takao|GRANDE FHD TV|
 |IMTO|GKL089|GKL089|GKL089|
 |INFINITON|"SPAIN|MOROCCO|PORTUGAL"|
@@ -12306,6 +12312,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IRA (explore more)|IRA_W801|IRA_W801|IRA_W801|
 |IRA (explore more)|T803|T803|T803|
 |IRIE|FFF-TAB10H|FFF-TAB10H|FFF-TAB10H|
+|IRIS_OHYAMA|Android TV|R4|R4|
 |IRIS_OHYAMA|TE101N1|Aquaman_10_Smart_WIFI|TE101|
 |ISCED|ISCEDTAB21|ISCEDTAB21|ISCEDTAB21|
 |ITAB|ITAB_X40L_Plus|ITAB_X40L_Plus|ITAB_X40L_Plus|
@@ -16494,6 +16501,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|L38011|k5|Lenovo L38011|
 |Lenovo|L38021|k5_cmcc|Lenovo L38021|
 |Lenovo|L38082|L38082|Lenovo L38082|
+|Lenovo|LAVIE Tab 102K1|LAVIETab102K1|LAVIE Tab 102K1|
 |Lenovo|LIFETAB E10310|LIFETAB_E10310|LIFETAB_E10310|
 |Lenovo|LIFETAB E7310|LIFETAB_E7310|LIFETAB_E7310|
 |Lenovo|LIFETAB E7310|LIFETAB_E7310|LIFETAB_E7312|

@@ -8147,6 +8147,11 @@
    "model": "AI PONT SA"
   },
   {
+   "brand": "IRIS_OHYAMA",
+   "device": "R4",
+   "model": "R4"
+  },
+  {
    "brand": "Intex",
    "device": "R1",
    "model": "ATV R1"
@@ -25940,6 +25945,13 @@
    "model": "AI PONT"
   }
  ],
+ "BPL FHD TV": [
+  {
+   "brand": "BPL",
+   "device": "takao",
+   "model": "BPL FHD TV"
+  }
+ ],
  "BPL UHD TV": [
   {
    "brand": "BPL",
@@ -33000,6 +33012,11 @@
    "brand": "Blu",
    "device": "M0210WW",
    "model": "M8L PLUS"
+  },
+  {
+   "brand": "Blu",
+   "device": "M0213WW",
+   "model": "M8L Plus"
   }
  ],
  "M8L Plus": [
@@ -34602,6 +34619,20 @@
    "brand": "Brandt",
    "device": "BPRIMES",
    "model": "BPRIMES"
+  }
+ ],
+ "BRANDT FHD TV": [
+  {
+   "brand": "Brandt",
+   "device": "takao",
+   "model": "BRANDT FHD TV"
+  }
+ ],
+ "BRANDT UHD TV": [
+  {
+   "brand": "Brandt",
+   "device": "OD0M_EA_T32",
+   "model": "BRANDT UHD TV"
   }
  ],
  "BSTAR": [
@@ -45575,6 +45606,13 @@
    "brand": "UBCtv",
    "device": "yeongdeungpo",
    "model": "UBC Android TV"
+  }
+ ],
+ "DAIKO UHD TV": [
+  {
+   "brand": "DAIKO",
+   "device": "OD0M_EA_T32",
+   "model": "DAIKO UHD TV"
   }
  ],
  "ACCENT SURF 1000": [
@@ -89980,6 +90018,13 @@
    "model": "IMO S2"
   }
  ],
+ "GRANDE UHD TV": [
+  {
+   "brand": "IMPEX",
+   "device": "OD0M_EA_T32",
+   "model": "GRANDE UHD TV"
+  }
+ ],
  "Grande FHD TV": [
   {
    "brand": "IMPEX",
@@ -114987,6 +115032,13 @@
    "brand": "Lenovo",
    "device": "L38082",
    "model": "Lenovo L38082"
+  }
+ ],
+ "LAVIE Tab 102K1": [
+  {
+   "brand": "Lenovo",
+   "device": "LAVIETab102K1",
+   "model": "LAVIE Tab 102K1"
   }
  ],
  "LIFETAB E10310": [

@@ -13299,6 +13299,11 @@
    "model": "AI PONT"
   },
   {
+   "device": "takao",
+   "name": "BPL FHD TV",
+   "model": "BPL FHD TV"
+  },
+  {
    "device": "OD0M_EA_T32",
    "name": "BPL UHD TV",
    "model": "BPL UHD TV"
@@ -17810,6 +17815,11 @@
    "model": "M8L PLUS"
   },
   {
+   "device": "M0213WW",
+   "name": "M8L PLUS",
+   "model": "M8L Plus"
+  },
+  {
    "device": "M0209WW_ND",
    "name": "M8L Plus",
    "model": "M8L Plus"
@@ -18905,6 +18915,16 @@
    "device": "BPRIMES",
    "name": "BPRIMES",
    "model": "BPRIMES"
+  },
+  {
+   "device": "takao",
+   "name": "BRANDT FHD TV",
+   "model": "BRANDT FHD TV"
+  },
+  {
+   "device": "OD0M_EA_T32",
+   "name": "BRANDT UHD TV",
+   "model": "BRANDT UHD TV"
   },
   {
    "device": "BSTAR",
@@ -26595,6 +26615,13 @@
    "device": "yeongdeungpo",
    "name": "Vietnam",
    "model": "Daiichi UHD Android TV"
+  }
+ ],
+ "DAIKO": [
+  {
+   "device": "OD0M_EA_T32",
+   "name": "DAIKO UHD TV",
+   "model": "DAIKO UHD TV"
   }
  ],
  "DBM Maroc": [
@@ -62973,6 +63000,11 @@
  ],
  "IMPEX": [
   {
+   "device": "OD0M_EA_T32",
+   "name": "GRANDE UHD TV",
+   "model": "GRANDE UHD TV"
+  },
+  {
    "device": "takao",
    "name": "Grande FHD TV",
    "model": "GRANDE FHD TV"
@@ -63373,6 +63405,11 @@
   }
  ],
  "IRIS_OHYAMA": [
+  {
+   "device": "R4",
+   "name": "Android TV",
+   "model": "R4"
+  },
   {
    "device": "Aquaman_10_Smart_WIFI",
    "name": "TE101N1",
@@ -84764,6 +84801,11 @@
    "device": "L38082",
    "name": "L38082",
    "model": "Lenovo L38082"
+  },
+  {
+   "device": "LAVIETab102K1",
+   "name": "LAVIE Tab 102K1",
+   "model": "LAVIE Tab 102K1"
   },
   {
    "device": "LIFETAB_E10310",

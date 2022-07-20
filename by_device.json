@@ -3629,6 +3629,11 @@
    "model": "R4"
   },
   {
+   "brand": "IRIS_OHYAMA",
+   "name": "Android TV",
+   "model": "R4"
+  },
+  {
    "brand": "JVC",
    "name": "Android TV",
    "model": "R4"
@@ -7173,6 +7178,16 @@
    "model": "ACONATIC FHD TV"
   },
   {
+   "brand": "BPL",
+   "name": "BPL FHD TV",
+   "model": "BPL FHD TV"
+  },
+  {
+   "brand": "Brandt",
+   "name": "BRANDT FHD TV",
+   "model": "BRANDT FHD TV"
+  },
+  {
    "brand": "IMPEX",
    "name": "Grande FHD TV",
    "model": "GRANDE FHD TV"
@@ -7198,6 +7213,21 @@
    "brand": "BPL",
    "name": "BPL UHD TV",
    "model": "BPL UHD TV"
+  },
+  {
+   "brand": "Brandt",
+   "name": "BRANDT UHD TV",
+   "model": "BRANDT UHD TV"
+  },
+  {
+   "brand": "DAIKO",
+   "name": "DAIKO UHD TV",
+   "model": "DAIKO UHD TV"
+  },
+  {
+   "brand": "IMPEX",
+   "name": "GRANDE UHD TV",
+   "model": "GRANDE UHD TV"
   },
   {
    "brand": "Panasonic",
@@ -29389,6 +29419,13 @@
    "brand": "Blu",
    "name": "M8L PLUS",
    "model": "M8L PLUS"
+  }
+ ],
+ "M0213WW": [
+  {
+   "brand": "Blu",
+   "name": "M8L PLUS",
+   "model": "M8L Plus"
   }
  ],
  "M0209WW_ND": [
@@ -113293,6 +113330,13 @@
    "brand": "Lenovo",
    "name": "Lenovo K11",
    "model": "Lenovo L38082"
+  }
+ ],
+ "LAVIETab102K1": [
+  {
+   "brand": "Lenovo",
+   "name": "LAVIE Tab 102K1",
+   "model": "LAVIE Tab 102K1"
   }
  ],
  "LIFETAB_E10310": [
