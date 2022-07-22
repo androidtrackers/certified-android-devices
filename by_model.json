@@ -52000,6 +52000,11 @@
    "brand": "Flow",
    "name": "FlowBox-F1",
    "device": "HP40A2"
+  },
+  {
+   "brand": "Flow",
+   "name": "Flowbox-F1",
+   "device": "HP40A2"
   }
  ],
  "F": [
@@ -87531,6 +87536,13 @@
    "brand": "INSYS",
    "name": "HK9-K5023",
    "device": "HK9-K5023"
+  }
+ ],
+ "HN2-M16Q": [
+  {
+   "brand": "INSYS",
+   "name": "HN2-M16Q",
+   "device": "HN2-M16Q"
   }
  ],
  "IH8-S559": [

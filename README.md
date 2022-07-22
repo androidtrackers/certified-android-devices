@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-07-21
+Last sync is 2022-07-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7021,6 +7021,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Flnet|BANDOTT Sandwich|ba201|ba201|
 |Flnet|BandOTT|ba101|ba101|
 |Flow|FlowBox-F1|HP40A2|FlowBox-F1|
+|Flow|Flowbox-F1|HP40A2|FlowBox-F1|
 |Fluo|F|F|F|
 |Fluo|F Plus|F_Plus|F_Plus|
 |Fluo|F2|F2|F2|
@@ -12293,6 +12294,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |INSYS|AF9- AT701_ EEA|AF9-AT701_EEA|AF9-AT701_EEA|
 |INSYS|HK9-4010_EEA|HK9-4010|HK9-4010|
 |INSYS|HK9-K5023|HK9-K5023|HK9-K5023|
+|INSYS|HN2-M16Q|HN2-M16Q|HN2-M16Q|
 |INSYS|IH8-S559|IH8-S559|IH8-S559|
 |INSYS|IH9-L614|IH9-L614|IH9-L614|
 |INSYS|KP1_S10|KP1_S10|KP1_S10|

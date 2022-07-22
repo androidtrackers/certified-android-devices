@@ -36491,6 +36491,11 @@
    "device": "HP40A2",
    "name": "FlowBox-F1",
    "model": "FlowBox-F1"
+  },
+  {
+   "device": "HP40A2",
+   "name": "Flowbox-F1",
+   "model": "FlowBox-F1"
   }
  ],
  "Fluo": [
@@ -63295,6 +63300,11 @@
    "device": "HK9-K5023",
    "name": "HK9-K5023",
    "model": "HK9-K5023"
+  },
+  {
+   "device": "HN2-M16Q",
+   "name": "HN2-M16Q",
+   "model": "HN2-M16Q"
   },
   {
    "device": "IH8-S559",
