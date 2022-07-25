@@ -7823,6 +7823,13 @@
    "model": "ARRQW UHD Android TV"
   }
  ],
+ "OEM50ANDROID22/OEM55ANDROID22": [
+  {
+   "brand": "ASHIMA",
+   "device": "songshan",
+   "model": "SmartTV 4K"
+  }
+ ],
  "AA 787 S": [
   {
    "brand": "ASTCA",
@@ -147167,13 +147174,6 @@
   {
    "brand": "Panasonic",
    "device": "FZ-N1VUF",
-   "model": "FZ-N1"
-  }
- ],
- "FZ-N1E": [
-  {
-   "brand": "Panasonic",
-   "device": "FZ-N1E",
    "model": "FZ-N1"
   }
  ],

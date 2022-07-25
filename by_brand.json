@@ -924,6 +924,13 @@
    "model": "ARRQW UHD Android TV"
   }
  ],
+ "ASHIMA": [
+  {
+   "device": "songshan",
+   "name": "OEM50ANDROID22/OEM55ANDROID22",
+   "model": "SmartTV 4K"
+  }
+ ],
  "ASTCA": [
   {
    "device": "SURGE_AA_787_S",
@@ -112123,11 +112130,6 @@
   {
    "device": "FZ-N1VUF",
    "name": "FZ-N1",
-   "model": "FZ-N1"
-  },
-  {
-   "device": "FZ-N1E",
-   "name": "FZ-N1E",
    "model": "FZ-N1"
   },
   {

@@ -2316,6 +2316,43 @@
    "device": "yeongdeungpo"
   }
  ],
+ "SmartTV 4K": [
+  {
+   "brand": "ASHIMA",
+   "name": "OEM50ANDROID22/OEM55ANDROID22",
+   "device": "songshan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "U6H/A6H/U6G1",
+   "device": "songshan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "huangshan",
+   "device": "huangshan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "songshan",
+   "device": "songshan"
+  },
+  {
+   "brand": "Noblex",
+   "name": "X7500",
+   "device": "songshan"
+  },
+  {
+   "brand": "Panavox",
+   "name": "50 google tv/58 google tv/65 google tv/75 google tv",
+   "device": "songshan"
+  },
+  {
+   "brand": "Riviera",
+   "name": "HIKA5",
+   "device": "songshan"
+  }
+ ],
  "AA 787 S": [
   {
    "brand": "ASTCA",
@@ -72795,38 +72832,6 @@
    "brand": "Hisense",
    "name": "U688BE",
    "device": "MSM8212"
-  }
- ],
- "SmartTV 4K": [
-  {
-   "brand": "Hisense",
-   "name": "U6H/A6H/U6G1",
-   "device": "songshan"
-  },
-  {
-   "brand": "Hisense",
-   "name": "huangshan",
-   "device": "huangshan"
-  },
-  {
-   "brand": "Hisense",
-   "name": "songshan",
-   "device": "songshan"
-  },
-  {
-   "brand": "Noblex",
-   "name": "X7500",
-   "device": "songshan"
-  },
-  {
-   "brand": "Panavox",
-   "name": "50 google tv/58 google tv/65 google tv/75 google tv",
-   "device": "songshan"
-  },
-  {
-   "brand": "Riviera",
-   "name": "HIKA5",
-   "device": "songshan"
   }
  ],
  "HS-U800": [
@@ -149695,11 +149700,6 @@
    "brand": "Panasonic",
    "name": "FZ-N1",
    "device": "FZ-N1VUF"
-  },
-  {
-   "brand": "Panasonic",
-   "name": "FZ-N1E",
-   "device": "FZ-N1E"
   },
   {
    "brand": "Panasonic",

@@ -3443,6 +3443,98 @@
    "model": "GT78-VN"
   }
  ],
+ "songshan": [
+  {
+   "brand": "ASHIMA",
+   "name": "OEM50ANDROID22/OEM55ANDROID22",
+   "model": "SmartTV 4K"
+  },
+  {
+   "brand": "Hisense",
+   "name": "A36",
+   "model": "2K Smart TV"
+  },
+  {
+   "brand": "Hisense",
+   "name": "A55",
+   "model": "Smart TV"
+  },
+  {
+   "brand": "Hisense",
+   "name": "A65",
+   "model": "SmartTV 4K FFM"
+  },
+  {
+   "brand": "Hisense",
+   "name": "A6H/E6H/A6600H/A6500H/E7H/A6HA",
+   "model": "SmartTV 4K FFM"
+  },
+  {
+   "brand": "Hisense",
+   "name": "U60H",
+   "model": "SmartTV 4K FFM"
+  },
+  {
+   "brand": "Hisense",
+   "name": "U6H",
+   "model": "SmartTV 4K FFM"
+  },
+  {
+   "brand": "Hisense",
+   "name": "U6H/A6H/U6G1",
+   "model": "SmartTV 4K"
+  },
+  {
+   "brand": "Hisense",
+   "name": "songshan",
+   "model": "SmartTV 4K"
+  },
+  {
+   "brand": "Noblex",
+   "name": "X7500",
+   "model": "SmartTV 4K"
+  },
+  {
+   "brand": "Noblex",
+   "name": "X9500",
+   "model": "SmartTV 4K FFM"
+  },
+  {
+   "brand": "Panavox",
+   "name": "50 google tv/58 google tv/65 google tv/75 google tv",
+   "model": "SmartTV 4K"
+  },
+  {
+   "brand": "Riviera",
+   "name": "HIKA5",
+   "model": "SmartTV 4K"
+  },
+  {
+   "brand": "Toshiba",
+   "name": "C350LK",
+   "model": "Toshiba TV"
+  },
+  {
+   "brand": "Toshiba",
+   "name": "C350LP/C350LI/E350LP/E450LP/C350LT/M550LT",
+   "model": "Toshiba TV"
+  },
+  {
+   "brand": "Toshiba",
+   "name": "M550LK",
+   "model": "Toshiba TV with MIC"
+  },
+  {
+   "brand": "Toshiba",
+   "name": "M550LP/M550LI",
+   "model": "Toshiba TV with MIC"
+  },
+  {
+   "brand": "Vu Televisions",
+   "name": "50CLED/55CLED/65CLED",
+   "model": "VU TV FFM"
+  }
+ ],
  "SURGE_AA_787_S": [
   {
    "brand": "ASTCA",
@@ -71034,93 +71126,6 @@
    "brand": "Hisense",
    "name": "Hisense P1",
    "model": "Hisense P1"
-  }
- ],
- "songshan": [
-  {
-   "brand": "Hisense",
-   "name": "A36",
-   "model": "2K Smart TV"
-  },
-  {
-   "brand": "Hisense",
-   "name": "A55",
-   "model": "Smart TV"
-  },
-  {
-   "brand": "Hisense",
-   "name": "A65",
-   "model": "SmartTV 4K FFM"
-  },
-  {
-   "brand": "Hisense",
-   "name": "A6H/E6H/A6600H/A6500H/E7H/A6HA",
-   "model": "SmartTV 4K FFM"
-  },
-  {
-   "brand": "Hisense",
-   "name": "U60H",
-   "model": "SmartTV 4K FFM"
-  },
-  {
-   "brand": "Hisense",
-   "name": "U6H",
-   "model": "SmartTV 4K FFM"
-  },
-  {
-   "brand": "Hisense",
-   "name": "U6H/A6H/U6G1",
-   "model": "SmartTV 4K"
-  },
-  {
-   "brand": "Hisense",
-   "name": "songshan",
-   "model": "SmartTV 4K"
-  },
-  {
-   "brand": "Noblex",
-   "name": "X7500",
-   "model": "SmartTV 4K"
-  },
-  {
-   "brand": "Noblex",
-   "name": "X9500",
-   "model": "SmartTV 4K FFM"
-  },
-  {
-   "brand": "Panavox",
-   "name": "50 google tv/58 google tv/65 google tv/75 google tv",
-   "model": "SmartTV 4K"
-  },
-  {
-   "brand": "Riviera",
-   "name": "HIKA5",
-   "model": "SmartTV 4K"
-  },
-  {
-   "brand": "Toshiba",
-   "name": "C350LK",
-   "model": "Toshiba TV"
-  },
-  {
-   "brand": "Toshiba",
-   "name": "C350LP/C350LI/E350LP/E450LP/C350LT/M550LT",
-   "model": "Toshiba TV"
-  },
-  {
-   "brand": "Toshiba",
-   "name": "M550LK",
-   "model": "Toshiba TV with MIC"
-  },
-  {
-   "brand": "Toshiba",
-   "name": "M550LP/M550LI",
-   "model": "Toshiba TV with MIC"
-  },
-  {
-   "brand": "Vu Televisions",
-   "name": "50CLED/55CLED/65CLED",
-   "model": "VU TV FFM"
   }
  ],
  "HLTE202N": [
@@ -147051,11 +147056,6 @@
   {
    "brand": "Panasonic",
    "name": "FZ-N1",
-   "model": "FZ-N1"
-  },
-  {
-   "brand": "Panasonic",
-   "name": "FZ-N1E",
    "model": "FZ-N1"
   }
  ],

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-07-24
+Last sync is 2022-07-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -172,6 +172,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ARRQW|RO-55LCS|samseong|AI PONT|
 |ARRQW|Saudi Arabia|tamachi|ARRQW FHD Android TV|
 |ARRQW|Saudi Arabia|yeongdeungpo|ARRQW UHD Android TV|
+|ASHIMA|OEM50ANDROID22/OEM55ANDROID22|songshan|SmartTV 4K|
 |ASTCA|AA 787 S|SURGE_AA_787_S|AA 787 S|
 |ASTECH|Android TV|R3|R3|
 |ASTECH|Android TV|R4|R4|
@@ -21808,7 +21809,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|FZ-N1|FZ-N1VUCCL|FZ-N1|
 |Panasonic|FZ-N1|FZ-N1VUCF|FZ-N1|
 |Panasonic|FZ-N1|FZ-N1VUF|FZ-N1|
-|Panasonic|FZ-N1E|FZ-N1E|FZ-N1|
 |Panasonic|FZ-N1EVF|FZ-N1EVF|FZ-N1|
 |Panasonic|FZ-N1EVFE|FZ-N1EVFE|FZ-N1|
 |Panasonic|FZ-N1F|FZ-N1F|FZ-N1|
