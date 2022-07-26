@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-07-25
+Last sync is 2022-07-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -31973,6 +31973,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor X5 Pro|Armor_X5_Pro|Armor X5 Pro|
 |Ulefone|Armor X5 Pro|Armor_X5_Pro_R|Armor X5 Pro|
 |Ulefone|Armor X5 Q|Armor_X5_Q|Armor X5|
+|Ulefone|Armor X6 Pro|Armor_X6_Pro|Armor X6 Pro|
 |Ulefone|Armor X7|Armor_X7_Q|Armor X7|
 |Ulefone|Armor X7 Pro|Armor_X7_Pro|Armor X7 Pro|
 |Ulefone|Armor X8|Armor_X8_R|Armor X8|
