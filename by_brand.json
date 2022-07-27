@@ -30977,6 +30977,11 @@
    "model": "V10"
   },
   {
+   "device": "V10",
+   "name": "V10",
+   "model": "V11"
+  },
+  {
    "device": "V20",
    "name": "V20",
    "model": "V20"

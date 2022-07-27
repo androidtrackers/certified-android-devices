@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-07-26
+Last sync is 2022-07-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5983,6 +5983,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|T5|T5|T5|
 |Doogee|T5S|T5S|T5S|
 |Doogee|V10|V10|V10|
+|Doogee|V10|V10|V11|
 |Doogee|V20|V20|V20|
 |Doogee|X10|doogee-X10|DOOGEE X10|
 |Doogee|X100|X100|X100|
