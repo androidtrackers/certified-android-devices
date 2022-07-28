@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-07-27
+Last sync is 2022-07-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3906,6 +3906,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CWOWDEFU|C80W_EEA|C80W_EEA|C80W_EEA|
 |CWOWDEFU|C82W|C82W|C82W|
 |CWOWDEFU|C82W_EEA|C82W_EEA|C82W_EEA|
+|CWOWDEFU|C84W|C84W|C84W|
 |CWOWDEFU|F10L ROW|F10L|F10L|
 |CWOWDEFU|F12W|F12W|F12W|
 |CWOWDEFU|F12W_EEA|F12W|F12W_EEA|
@@ -7551,6 +7552,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GIRASOLE|TAB5|TAB5|TAB5|
 |GIRASOLE|X9|X9|X9|
 |GLOBAL3|B02|B02|B02|
+|GMMZ|DongleTV1|DongleTV1|DongleTV1|
 |GOODTEL|G2_A_EEA|G2_A_EEA|G2_A_EEA|
 |GOODTEL|G2_EEA|G2_EEA|G2_EEA|
 |GOODTEL|G3_EEA|G3_EEA|G3_EEA|
@@ -9321,6 +9323,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Harris|LMC-1000|granite|LMC-1000|
 |Harris|RF-3590-RT|msm8660_cougar|Harris 12131-1000|
 |Hatch|101S|101S|Hatch_101S|
+|Hatch|Hatch_103S|Hatch_103S|Hatch_103S|
 |Hathway|DVB-ATV100|SEI111H|DVB-ATV100|
 |Hathway|OTH-100|SEI103|OTH-100|
 |Haus|HAUS JS408|HAUS_JS408|HAUS JS408|
@@ -12311,6 +12314,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IQ Touch|iMax_EC1053|iMax_EC1053|iMax_EC1053|
 |IQU_GROUP|IQU_T10_4G|IQU_T10_4G|IQU T10 4G|
 |IQU_GROUP|IQU_T8_4G|IQU_T8_4G|IQU T8 4G|
+|IQU_GROUP|SMARTEasy_Q50|SMARTEasy_Q50|SMARTEasy_Q50|
 |IRA (explore more)|IRA801|IRA801|IRA801|
 |IRA (explore more)|IRA_DUO_PLUS|IRA_DUO_PLUS|IRA_DUO_PLUS|
 |IRA (explore more)|IRA_W801|IRA_W801|IRA_W801|
@@ -13799,6 +13803,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Karma|KG777 Pro|KG777Pro|KG777 Pro|
 |Karvy|KA7Q3|KA7Q3|KA7Q3|
 |Kbro|A0_S905X2|sti6160d19|A0_S905X2|
+|Kbro|A25751P|A2_5751P|A25751P|
 |Kbro|N97_A1B_72115|A1B_72115|N97_A1B_72115|
 |Kbro|N97_A1_3796|A1_3796|N97_A1_3796|
 |Keian|KI-R10|KI-R10|KI-R10|
@@ -16693,6 +16698,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab P10|X705M|Lenovo TB-X705M|
 |Lenovo|Lenovo Tab P11|J606F|Lenovo TB-J606F|
 |Lenovo|Lenovo Tab P11|J606L|Lenovo TB-J606L|
+|Lenovo|Lenovo Tab P11 (2nd Gen)|TB350FU|TB350FU|
 |Lenovo|Lenovo Tab P11 5G|J607Z|Lenovo TB-J607Z|
 |Lenovo|Lenovo Tab P11 Plus|TB-J616F|Lenovo TB-J616F|
 |Lenovo|Lenovo Tab P11 Plus|TB-J616X|Lenovo TB-J616X|
@@ -17771,6 +17777,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maze_speed|SSB1000T|SSB1000T|SSB1000T|
 |Maze_speed|SSB1001T|SSB1001T|SSB1001T|
 |MeanIT|C4|C4|C4|
+|MeanIT|K17|K17|K17|
 |MeanIT|MTAB32_EEA|MTAB32_EEA|meanIT K10|
 |MeanIT|MeanIt_X30|MeanIt_X30_EEA|MeanIt_X30|
 |MeanIT|START_S5|START_S5|START_S5|
@@ -21402,6 +21409,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Orbic|R8L5T|R8L5T|R8L5T|
 |Orbic|RC506LT|Orbic-RC506LT|RC506LT|
 |Orbic|RC545L|RC545L|RC545L|
+|Orbic|RC609L|RC609L|RC609L|
 |Orbic|RC609LSM|RC609LSM|RC609LSM|
 |Orbic|Wonder|RC555L|RC555L|
 |Ordissimo|Celia|Celia|Celia|
@@ -21611,6 +21619,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO M3|citrus|M2010J19CI|
 |POCO|POCO M3 Pro 5G|camellia|M2103K19PI|
 |POCO|POCO M3 Pro 5G|camellian|M2103K19PG|
+|POCO|POCO M4 5G|light|22041219PI|
 |POCO|POCO M4 Pro|fleur|2201117PG|
 |POCO|POCO M4 Pro|miel|2201117PI|
 |POCO|POCO M4 Pro 5G|evergreen|21091116AG|
@@ -22656,6 +22665,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Premio|S85|S85|S85|
 |Premio|S86|S86|S86|
 |Premio|S87|S87|S87|
+|Premio|S88|S88|S88|
 |Premio|T1|T1|T1|
 |Premio|X1|186HS2080531|186HS2080531|
 |Premio|X70-2021|X70-2021|X70-2021|
@@ -23682,6 +23692,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 10 2022|selene|21061119AL|
 |Redmi|Redmi 10 2022|selene|21121119SG|
 |Redmi|Redmi 10 2022|selene|21121119VL|
+|Redmi|Redmi 10 5G|light|22041219G|
+|Redmi|Redmi 10 5G|thunder|22041219NY|
 |Redmi|Redmi 10 Power|fog|220333QBI|
 |Redmi|Redmi 10A|dandelion|220233L2C|
 |Redmi|Redmi 10C|fog|220333QAG|
@@ -27482,6 +27494,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS sense6|SH-54B|SH-54B|
 |Sharp|AQUOS sense6|ZMJ|SHG05|
 |Sharp|AQUOS sense6s|BOL|SHG07|
+|Sharp|AQUOS sense6s|Nee|SH-RM19s|
 |Sharp|AQUOS wish|SX1|A103SH|
 |Sharp|AQUOS wish|SX1|A104SH|
 |Sharp|AQUOS wish|SX1|SH-M20|
@@ -34446,6 +34459,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 11i|pissarroin|21091116I|
 |Xiaomi|Xiaomi 12|cupid|2201123C|
 |Xiaomi|Xiaomi 12|cupid|2201123G|
+|Xiaomi|Xiaomi 12 Lite|taoyao|2203129G|
 |Xiaomi|Xiaomi 12 Pro|zeus|2201122C|
 |Xiaomi|Xiaomi 12 Pro|zeus|2201122G|
 |Xiaomi|Xiaomi 12 Pro Dimensity|daumier|2207122MC|
@@ -37217,6 +37231,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |weelikeit|C72W_EEA|C72W_EEA|C72W_EEA|
 |weelikeit|C81W|C81W|C81W|
 |weelikeit|C81W_EEA|C81W_EEA|C81W_EEA|
+|weelikeit|C83W|C83W|C83W|
 |weelikeit|F11W|F11W|F11W|
 |weelikeit|F11W_EEA|F11W|F11W_EEA|
 |weelikeit|P82L|P82L|P82L|

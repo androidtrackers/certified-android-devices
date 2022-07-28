@@ -36557,6 +36557,13 @@
    "model": "C82W_EEA"
   }
  ],
+ "C84W": [
+  {
+   "brand": "CWOWDEFU",
+   "device": "C84W",
+   "model": "C84W"
+  }
+ ],
  "F10L ROW": [
   {
    "brand": "CWOWDEFU",
@@ -46474,6 +46481,11 @@
  "K17": [
   {
    "brand": "DEXP",
+   "device": "K17",
+   "model": "K17"
+  },
+  {
+   "brand": "MeanIT",
    "device": "K17",
    "model": "K17"
   }
@@ -62829,6 +62841,13 @@
    "model": "B02"
   }
  ],
+ "DongleTV1": [
+  {
+   "brand": "GMMZ",
+   "device": "DongleTV1",
+   "model": "DongleTV1"
+  }
+ ],
  "G2_A_EEA": [
   {
    "brand": "GOODTEL",
@@ -74395,6 +74414,13 @@
    "brand": "Hatch",
    "device": "101S",
    "model": "Hatch_101S"
+  }
+ ],
+ "Hatch_103S": [
+  {
+   "brand": "Hatch",
+   "device": "Hatch_103S",
+   "model": "Hatch_103S"
   }
  ],
  "DVB-ATV100": [
@@ -90498,6 +90524,13 @@
    "model": "IQU T8 4G"
   }
  ],
+ "SMARTEasy_Q50": [
+  {
+   "brand": "IQU_GROUP",
+   "device": "SMARTEasy_Q50",
+   "model": "SMARTEasy_Q50"
+  }
+ ],
  "IRA801": [
   {
    "brand": "IRA (explore more)",
@@ -99861,6 +99894,13 @@
    "brand": "Kbro",
    "device": "sti6160d19",
    "model": "A0_S905X2"
+  }
+ ],
+ "A25751P": [
+  {
+   "brand": "Kbro",
+   "device": "A2_5751P",
+   "model": "A25751P"
   }
  ],
  "N97_A1B_72115": [
@@ -116155,6 +116195,13 @@
    "brand": "Lenovo",
    "device": "J606L",
    "model": "Lenovo TB-J606L"
+  }
+ ],
+ "Lenovo Tab P11 (2nd Gen)": [
+  {
+   "brand": "Lenovo",
+   "device": "TB350FU",
+   "model": "TB350FU"
   }
  ],
  "Lenovo Tab P11 5G": [
@@ -144605,6 +144652,13 @@
    "model": "RC545L"
   }
  ],
+ "RC609L": [
+  {
+   "brand": "Orbic",
+   "device": "RC609L",
+   "model": "RC609L"
+  }
+ ],
  "RC609LSM": [
   {
    "brand": "Orbic",
@@ -145911,6 +145965,13 @@
    "brand": "POCO",
    "device": "camellian",
    "model": "M2103K19PG"
+  }
+ ],
+ "POCO M4 5G": [
+  {
+   "brand": "POCO",
+   "device": "light",
+   "model": "22041219PI"
   }
  ],
  "POCO M4 Pro": [
@@ -152459,6 +152520,13 @@
    "model": "S87"
   }
  ],
+ "S88": [
+  {
+   "brand": "Premio",
+   "device": "S88",
+   "model": "S88"
+  }
+ ],
  "X70-2021": [
   {
    "brand": "Premio",
@@ -159004,6 +159072,18 @@
    "brand": "Redmi",
    "device": "selene",
    "model": "21121119VL"
+  }
+ ],
+ "Redmi 10 5G": [
+  {
+   "brand": "Redmi",
+   "device": "light",
+   "model": "22041219G"
+  },
+  {
+   "brand": "Redmi",
+   "device": "thunder",
+   "model": "22041219NY"
   }
  ],
  "Redmi 10 Power": [
@@ -180470,6 +180550,11 @@
    "brand": "Sharp",
    "device": "BOL",
    "model": "SHG07"
+  },
+  {
+   "brand": "Sharp",
+   "device": "Nee",
+   "model": "SH-RM19s"
   }
  ],
  "AQUOS wish": [
@@ -221667,6 +221752,13 @@
    "model": "2201123G"
   }
  ],
+ "Xiaomi 12 Lite": [
+  {
+   "brand": "Xiaomi",
+   "device": "taoyao",
+   "model": "2203129G"
+  }
+ ],
  "Xiaomi 12 Pro": [
   {
    "brand": "Xiaomi",
@@ -236980,6 +237072,13 @@
    "brand": "weelikeit",
    "device": "C81W_EEA",
    "model": "C81W_EEA"
+  }
+ ],
+ "C83W": [
+  {
+   "brand": "weelikeit",
+   "device": "C83W",
+   "model": "C83W"
   }
  ],
  "F11W": [

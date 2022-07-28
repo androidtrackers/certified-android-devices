@@ -20206,6 +20206,11 @@
    "model": "C82W_EEA"
   },
   {
+   "device": "C84W",
+   "name": "C84W",
+   "model": "C84W"
+  },
+  {
    "device": "F10L",
    "name": "F10L ROW",
    "model": "F10L"
@@ -39235,6 +39240,13 @@
    "model": "B02"
   }
  ],
+ "GMMZ": [
+  {
+   "device": "DongleTV1",
+   "name": "DongleTV1",
+   "model": "DongleTV1"
+  }
+ ],
  "GOODTEL": [
   {
    "device": "G2_A_EEA",
@@ -48305,6 +48317,11 @@
    "device": "101S",
    "name": "101S",
    "model": "Hatch_101S"
+  },
+  {
+   "device": "Hatch_103S",
+   "name": "Hatch_103S",
+   "model": "Hatch_103S"
   }
  ],
  "Hathway": [
@@ -63395,6 +63412,11 @@
    "device": "IQU_T8_4G",
    "name": "IQU_T8_4G",
    "model": "IQU T8 4G"
+  },
+  {
+   "device": "SMARTEasy_Q50",
+   "name": "SMARTEasy_Q50",
+   "model": "SMARTEasy_Q50"
   }
  ],
  "IRA (explore more)": [
@@ -71109,6 +71131,11 @@
    "device": "sti6160d19",
    "name": "A0_S905X2",
    "model": "A0_S905X2"
+  },
+  {
+   "device": "A2_5751P",
+   "name": "A25751P",
+   "model": "A25751P"
   },
   {
    "device": "A1B_72115",
@@ -85765,6 +85792,11 @@
    "model": "Lenovo TB-J606L"
   },
   {
+   "device": "TB350FU",
+   "name": "Lenovo Tab P11 (2nd Gen)",
+   "model": "TB350FU"
+  },
+  {
    "device": "J607Z",
    "name": "Lenovo Tab P11 5G",
    "model": "Lenovo TB-J607Z"
@@ -91383,6 +91415,11 @@
    "device": "C4",
    "name": "C4",
    "model": "C4"
+  },
+  {
+   "device": "K17",
+   "name": "K17",
+   "model": "K17"
   },
   {
    "device": "MTAB32_EEA",
@@ -110020,6 +110057,11 @@
    "model": "RC545L"
   },
   {
+   "device": "RC609L",
+   "name": "RC609L",
+   "model": "RC609L"
+  },
+  {
    "device": "RC609LSM",
    "name": "RC609LSM",
    "model": "RC609LSM"
@@ -111121,6 +111163,11 @@
    "device": "camellian",
    "name": "POCO M3 Pro 5G",
    "model": "M2103K19PG"
+  },
+  {
+   "device": "light",
+   "name": "POCO M4 5G",
+   "model": "22041219PI"
   },
   {
    "device": "fleur",
@@ -116470,6 +116517,11 @@
    "model": "S87"
   },
   {
+   "device": "S88",
+   "name": "S88",
+   "model": "S88"
+  },
+  {
    "device": "T1",
    "name": "T1",
    "model": "T1"
@@ -121752,6 +121804,16 @@
    "device": "selene",
    "name": "Redmi 10 2022",
    "model": "21121119VL"
+  },
+  {
+   "device": "light",
+   "name": "Redmi 10 5G",
+   "model": "22041219G"
+  },
+  {
+   "device": "thunder",
+   "name": "Redmi 10 5G",
+   "model": "22041219NY"
   },
   {
    "device": "fog",
@@ -141024,6 +141086,11 @@
    "device": "BOL",
    "name": "AQUOS sense6s",
    "model": "SHG07"
+  },
+  {
+   "device": "Nee",
+   "name": "AQUOS sense6s",
+   "model": "SH-RM19s"
   },
   {
    "device": "SX1",
@@ -176844,6 +176911,11 @@
    "model": "2201123G"
   },
   {
+   "device": "taoyao",
+   "name": "Xiaomi 12 Lite",
+   "model": "2203129G"
+  },
+  {
    "device": "zeus",
    "name": "Xiaomi 12 Pro",
    "model": "2201122C"
@@ -191085,6 +191157,11 @@
    "device": "C81W_EEA",
    "name": "C81W_EEA",
    "model": "C81W_EEA"
+  },
+  {
+   "device": "C83W",
+   "name": "C83W",
+   "model": "C83W"
   },
   {
    "device": "F11W",
