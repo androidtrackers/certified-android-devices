@@ -9262,6 +9262,13 @@
    "model": "KSTB6043"
   }
  ],
+ "JA2-TBA1001": [
+  {
+   "brand": "Aiwa",
+   "name": "JA2-TBA1001",
+   "model": "JA2-TBA1001"
+  }
+ ],
  "TA-07-232": [
   {
    "brand": "Aiwa",
@@ -19357,6 +19364,13 @@
    "brand": "Asus",
    "name": "Zenfone 8 Flip",
    "model": "ZS672KS"
+  }
+ ],
+ "ASUS_AI2202": [
+  {
+   "brand": "Asus",
+   "name": "Zenfone 9",
+   "model": "ASUS_AI2202"
   }
  ],
  "P022_1": [
@@ -51913,6 +51927,13 @@
    "brand": "Entel",
    "name": "DECO ENTEL",
    "model": "DECO ENTEL"
+  }
+ ],
+ "DV8957X-KCE": [
+  {
+   "brand": "Entel",
+   "name": "DECO ENTEL DIW586",
+   "model": "DECO ENTEL DIW586"
   }
  ],
  "m393vsb_entel": [
@@ -95801,6 +95822,18 @@
    "model": "BLISS_8"
   }
  ],
+ "TMS-KR01P": [
+  {
+   "brand": "KTS (JP)",
+   "name": "IPN99_RTD1319_TOA",
+   "model": "TMS-KR01P"
+  },
+  {
+   "brand": "Pravion",
+   "name": "TMS-KR01P",
+   "model": "TMS-KR01P"
+  }
+ ],
  "KUBIK_GENTA_10": [
   {
    "brand": "KUBIK",
@@ -116671,6 +116704,13 @@
    "brand": "LinkNet",
    "name": "X1-Prime-i",
    "model": "X1-Prime-i"
+  }
+ ],
+ "DMTS21LC": [
+  {
+   "brand": "LinkNet",
+   "name": "X1Lite",
+   "model": "X1Lite"
   }
  ],
  "F10XIPS": [
@@ -141893,11 +141933,6 @@
    "brand": "Oppo",
    "name": "CPH2237",
    "model": "CPH2237"
-  },
-  {
-   "brand": "Oppo",
-   "name": "K10 5G",
-   "model": "CPH2237"
   }
  ],
  "OP4F7FL1": [
@@ -152022,13 +152057,6 @@
    "model": "DRN_EEA"
   }
  ],
- "TMS-KR01P": [
-  {
-   "brand": "Pravion",
-   "name": "TMS-KR01P",
-   "model": "TMS-KR01P"
-  }
- ],
  "PBTAB100-1G3": [
   {
    "brand": "Precision Biometric",
@@ -159807,6 +159835,13 @@
    "brand": "Reliance",
    "name": "RC501L",
    "model": "RC501L"
+  }
+ ],
+ "RC608L": [
+  {
+   "brand": "Reliance",
+   "name": "RC608L",
+   "model": "RC608L"
   }
  ],
  "LS-5010": [
@@ -179279,6 +179314,11 @@
    "brand": "Samsung",
    "name": "Galaxy XCover Filed Pro",
    "model": "SM-G889YB"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy XCover FiledPro",
+   "model": "SM-G889YB"
   }
  ],
  "haechiy19lteatt": [
@@ -191420,6 +191460,13 @@
    "brand": "Xiaomi",
    "name": "Mi 11",
    "model": "M2011K2G"
+  }
+ ],
+ "INTV": [
+  {
+   "brand": "Steren",
+   "name": "INTV 1000",
+   "model": "INTV 1000"
   }
  ],
  "INTV_1000": [
@@ -209969,6 +210016,13 @@
    "model": "S5 Pro"
   }
  ],
+ "UMIDIGI_G1": [
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI G1",
+   "model": "MP08"
+  }
+ ],
  "UMIDIGI_X": [
   {
    "brand": "Umidigi",
@@ -215402,6 +215456,26 @@
    "brand": "Vivo",
    "name": "V2139",
    "model": "V2139"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2147",
+   "model": "V2147"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V2162",
+   "model": "V2162"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y01A",
+   "model": "V2166"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y15C",
+   "model": "V2212"
   }
  ],
  "PD2118": [
@@ -215621,6 +215695,18 @@
    "model": "V2163A"
   }
  ],
+ "PD2164": [
+  {
+   "brand": "Vivo",
+   "name": "V2164A",
+   "model": "V2164A"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y55s",
+   "model": "V2164A"
+  }
+ ],
  "PD2165": [
   {
    "brand": "Vivo",
@@ -215654,6 +215740,32 @@
    "brand": "Vivo",
    "name": "V2172A",
    "model": "V2172A"
+  }
+ ],
+ "V2202": [
+  {
+   "brand": "Vivo",
+   "name": "V2202",
+   "model": "V2202"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V25",
+   "model": "V2202"
+  }
+ ],
+ "PD2220": [
+  {
+   "brand": "Vivo",
+   "name": "V2220A",
+   "model": "V2220A"
+  }
+ ],
+ "V2201": [
+  {
+   "brand": "Vivo",
+   "name": "V25e",
+   "model": "V2201"
   }
  ],
  "PD1524": [
@@ -215935,6 +216047,23 @@
    "model": "vivo Xplay6"
   }
  ],
+ "V2204": [
+  {
+   "brand": "Vivo",
+   "name": "Y02s",
+   "model": "V2203"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y16",
+   "model": "V2204"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y16",
+   "model": "V2214"
+  }
+ ],
  "Y15S": [
   {
    "brand": "Vivo",
@@ -215980,6 +216109,13 @@
    "brand": "Vivo",
    "name": "vivo Y22",
    "model": "vivo Y22"
+  }
+ ],
+ "V2206": [
+  {
+   "brand": "Vivo",
+   "name": "Y22s",
+   "model": "V2206"
   }
  ],
  "Y27": [
@@ -216053,6 +216189,13 @@
    "model": "vivo Y35"
   }
  ],
+ "V2205": [
+  {
+   "brand": "Vivo",
+   "name": "Y35",
+   "model": "V2205"
+  }
+ ],
  "PD1502A": [
   {
    "brand": "Vivo",
@@ -216107,13 +216250,6 @@
    "brand": "Vivo",
    "name": "Y55s",
    "model": "vivo 1610"
-  }
- ],
- "PD2164": [
-  {
-   "brand": "Vivo",
-   "name": "Y55s",
-   "model": "V2164A"
   }
  ],
  "PD1621": [
@@ -216236,6 +216372,13 @@
    "brand": "Vivo",
    "name": "iQOO Neo5S",
    "model": "V2154A"
+  }
+ ],
+ "PD2196": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Neo6",
+   "model": "V2196A"
   }
  ],
  "PD2199": [
@@ -216725,6 +216868,13 @@
    "model": "V1831A"
   }
  ],
+ "PD2207": [
+  {
+   "brand": "Vivo",
+   "name": "vivo S15 Pro",
+   "model": "V2207A"
+  }
+ ],
  "PD2178": [
   {
    "brand": "Vivo",
@@ -216801,6 +216951,13 @@
    "brand": "Vivo",
    "name": "vivo X80",
    "model": "V2183A"
+  }
+ ],
+ "PD2185": [
+  {
+   "brand": "Vivo",
+   "name": "vivo X80 Pro",
+   "model": "V2185A"
   }
  ],
  "PD2186": [
@@ -216881,6 +217038,13 @@
    "brand": "Vivo",
    "name": "vivo Y77",
    "model": "V2219A"
+  }
+ ],
+ "PD2224": [
+  {
+   "brand": "Vivo",
+   "name": "vivo Y77e",
+   "model": "V2166BA"
   }
  ],
  "PD1803": [
@@ -233661,6 +233825,13 @@
    "brand": "Zaith",
    "name": "Z3211G",
    "model": "Z3211G"
+  }
+ ],
+ "SEI800ZAPI": [
+  {
+   "brand": "ZapiTV",
+   "name": "ZAPI2022",
+   "model": "ZAPI2022"
   }
  ],
  "SEI500PTV": [

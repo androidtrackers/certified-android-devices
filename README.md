@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-07-28
+Last sync is 2022-07-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -749,6 +749,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiwa|Aiwa|KSTB6043|KSTB6043|
 |Aiwa|Android TV|ikebukuro|AI PONT|
 |Aiwa|Android TV|samseong|AI PONT|
+|Aiwa|JA2-TBA1001|JA2-TBA1001|JA2-TBA1001|
 |Aiwa|Smart TV|redwood|AI PONT|
 |Aiwa|TA-07-232|TA-07-232|TA-07-232|
 |Aiwa|TA-10-232|TA-10-232|TA-10-232|
@@ -2052,6 +2053,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|Zenfone 8 / ASUS 8Z|ASUS_I006D|ZS590KS|
 |Asus|Zenfone 8 Flip|ASUS_I004D|ASUS_I004D|
 |Asus|Zenfone 8 Flip|ASUS_I004D|ZS672KS|
+|Asus|Zenfone 9|ASUS_AI2202|ASUS_AI2202|
 |Asus|Zenfone Go (ASUS_X00BD)|ASUS_X00BD_1|ASUS_X00BD|
 |Asus|Zenpad 8.0 (Z380C)|P022_1|P022|
 |Asus|Zenpad 8.0 (Z380C)|P022_2|P022|
@@ -6582,6 +6584,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Enspert|orion|orion|NGM Orion|
 |Enspert|vanitysmart|vanitysmart|NGM Vanity Smart|
 |Entel|DECO ENTEL|DIW585|DECO ENTEL|
+|Entel|DECO ENTEL DIW586|DV8957X-KCE|DECO ENTEL DIW586|
 |Entel|DECO ENTEL VSB3930|m393vsb_entel|DECO ENTEL VSB3930|
 |Entel|OWN I62S|OWN-I62S|OWN-I62S|
 |Entel|S3015|S3015|S3015|
@@ -13692,6 +13695,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|Telsa|zhongshan|Tesla 4K Android TV|
 |KTCtv|Zitro|stanford|40DSA|
 |KTCtv|Zitro|zhongshan|43FSA|
+|KTS (JP)|IPN99_RTD1319_TOA|TMS-KR01P|TMS-KR01P|
 |KTV|PureKTV|DV8219|Pure|
 |KTV|PureKTV|DV8219|PureKTV|
 |KUBIK|KUBIK_GENTA_10|KUBIK_GENTA_10|KUBIK_GENTA_10|
@@ -17017,6 +17021,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LinkNet|X1-Prime-c|DTC9565|X1-Prime-c|
 |LinkNet|X1-Prime-i|DTP2162|X1-Prime-i|
 |LinkNet|X1-Prime-i|DTP9718|X1-Prime-i|
+|LinkNet|X1Lite|DMTS21LC|X1Lite|
 |Linsar|Linsar|bangbae|Linsar 4K Android TV|
 |Linsar|Linsar|komagome|Linsar 2K Android TV|
 |Linsar|Linsar|sadang|Linsar UK 4K Android TV|
@@ -21058,7 +21063,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Find5|FIND5|X909|
 |Oppo|Find5|FIND5|X909T|
 |Oppo|K1|PBCM30|PBCM30|
-|Oppo|K10 5G|OP4FA7L1|CPH2237|
 |Oppo|K3|OP4679|PCGM00|
 |Oppo|K3|OP4679|PCGT00|
 |Oppo|K3|OP486B|CPH1955|
@@ -23887,6 +23891,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reliance|RC500L|RC500L|RC500L|
 |Reliance|RC501L|RC501L|RC501L|
 |Reliance|RC555L|RC555L|RC555L|
+|Reliance|RC608L|RC608L|RC608L|
 |Reliance|Smartphone JS LS-5010|LS-5010|LS-5010|
 |Remdun|RD-52|RD52|RD52|
 |Remdun|RD115MQ|RD115MQ|RD115MQ|
@@ -27017,6 +27022,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy XCover FieldPro|haechiy19|SM-G889G|
 |Samsung|Galaxy XCover FieldPro|haechiy19lteatt|SM-G889A|
 |Samsung|Galaxy XCover Filed Pro|haechiy19|SM-G889YB|
+|Samsung|Galaxy XCover FiledPro|haechiy19|SM-G889YB|
 |Samsung|Galaxy XCover Pro|xcoverpro|SM-G715FN|
 |Samsung|Galaxy XCover4|xcover4lte|SM-G390F|
 |Samsung|Galaxy XCover6 Pro|xcoverpro2|SM-G736B|
@@ -28893,6 +28899,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Starlight|star_plus_plus|star_plus_plus|star_plus_plus|
 |Starlight|star_two|star_two|star_two|
 |Starlight|venus|venus|venus|
+|Steren|INTV 1000|INTV|INTV 1000|
 |Steren|Steren INTV_1000|INTV_1000|Steren INTV_1000|
 |Stofa|IC1130|IC1130|IC1130|
 |Storex|MDDDI13310|MDDDI13310|FONDATION_ORANGE_2021|
@@ -32196,6 +32203,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|S3_Pro|S3_Pro|S3_Pro|
 |Umidigi|S5 Pro|S5_Pro|S5 Pro|
 |Umidigi|S5_Pro_EEA|S5_Pro|S5 Pro|
+|Umidigi|UMIDIGI G1|UMIDIGI_G1|MP08|
 |Umidigi|UMIDIGI X|UMIDIGI_X|UMIDIGI X|
 |Umidigi|Z2|Z2|Z2|
 |Umidigi|Z2 Pro|Z2_PRO|Z2_PRO|
@@ -33118,19 +33126,26 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2143A|PD2143|V2143A|
 |Vivo|V2145A|PD2145|V2145A|
 |Vivo|V2146|2135|V2146|
+|Vivo|V2147|2120|V2147|
 |Vivo|V2148A|PD2148|V2148A|
 |Vivo|V2152|2110|V2152|
 |Vivo|V2156A|PD2156|V2156A|
 |Vivo|V2157A|PD2157|V2157A|
 |Vivo|V2158A|PD2158|V2158A|
+|Vivo|V2162|2120|V2162|
 |Vivo|V2162A|PD2162|V2162A|
 |Vivo|V2163A|PD2163|V2163A|
+|Vivo|V2164A|PD2164|V2164A|
 |Vivo|V2165A|PD2165|V2165A|
 |Vivo|V2166A|PD2166|V2166A|
 |Vivo|V2168A|PD2168|V2168A|
 |Vivo|V2171A|PD2171|V2171A|
 |Vivo|V2172A|PD2172|V2172A|
 |Vivo|V2180A|PD2180|V2180A|
+|Vivo|V2202|V2202|V2202|
+|Vivo|V2220A|PD2220|V2220A|
+|Vivo|V25|V2202|V2202|
+|Vivo|V25e|V2201|V2201|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
 |Vivo|V3Lite|V3Lite|vivo V3Lite|
@@ -33167,14 +33182,20 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Xplay5A|PD1522A|vivo PD1522A|
 |Vivo|Xplay5A|PD1522A|vivo Xplay5A|
 |Vivo|Xplay6|PD1610|vivo Xplay6|
+|Vivo|Y01A|2120|V2166|
+|Vivo|Y02s|V2204|V2203|
 |Vivo|Y11|Y11|vivo Y11|
 |Vivo|Y15|Y15|vivo Y15|
+|Vivo|Y15C|2120|V2212|
 |Vivo|Y15S|Y15S|vivo Y15S|
+|Vivo|Y16|V2204|V2204|
+|Vivo|Y16|V2204|V2214|
 |Vivo|Y17|1902D|vivo 1902|
 |Vivo|Y21|Y21|vivo Y21|
 |Vivo|Y21A|2149|V2149|
 |Vivo|Y21L|Y21L|vivo Y21L|
 |Vivo|Y22|Y22|vivo Y22|
+|Vivo|Y22s|V2206|V2206|
 |Vivo|Y27|Y27|vivo Y27|
 |Vivo|Y28|Y28|vivo Y28|
 |Vivo|Y31|PD1505|vivo Y31|
@@ -33185,6 +33206,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y31i|Y31i|vivo Y31i|
 |Vivo|Y33|bbk6735_65c_l|vivo Y33|
 |Vivo|Y35|PD1502L|vivo Y35|
+|Vivo|Y35|V2205|V2205|
 |Vivo|Y35A|PD1502A|vivo Y35A|
 |Vivo|Y51|Y51|vivo Y51|
 |Vivo|Y51A|PD1510|vivo Y51A|
@@ -33215,6 +33237,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO 9 SE|2019|I2019|
 |Vivo|iQOO 9T|I2201|I2201|
 |Vivo|iQOO Neo5S|PD2154|V2154A|
+|Vivo|iQOO Neo6|PD2196|V2196A|
 |Vivo|iQOO Neo6 SE|PD2199|V2199A|
 |Vivo|iQOO Z5|2018|I2018|
 |Vivo|iQOO Z5 6000mAh|PD2188|V2188A|
@@ -33292,6 +33315,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo NEX A|PD1806|vivo NEX A|
 |Vivo|vivo NEX S|PD1805|vivo NEX S|
 |Vivo|vivo S1|PD1831|V1831A|
+|Vivo|vivo S15 Pro|PD2207|V2207A|
 |Vivo|vivo T2|PD2199|V2199GA|
 |Vivo|vivo X Fold|PD2178|V2178A|
 |Vivo|vivo X Note|PD2170|V2170A|
@@ -33305,6 +33329,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo X21UD A|PD1728UD|vivo X21UD A|
 |Vivo|vivo X70 Pro+|2114|V2114|
 |Vivo|vivo X80|PD2183|V2183A|
+|Vivo|vivo X80 Pro|PD2185|V2185A|
 |Vivo|vivo X80 Pro 天玑9000版|PD2186|V2186A|
 |Vivo|vivo X9Plus|PD1619|vivo X9Plus|
 |Vivo|vivo X9s|PD1616B|vivo PD1616B|
@@ -33320,6 +33345,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo Y71A|PD1731|vivo Y71A|
 |Vivo|vivo Y75A|PD1718|vivo Y75A|
 |Vivo|vivo Y77|PD2219|V2219A|
+|Vivo|vivo Y77e|PD2224|V2166BA|
 |Vivo|vivo Y83A|PD1803|vivo Y83A|
 |Vivo|vivo Z1i|PD1730D|vivo Y89|
 |Vivo|vivo Z1i|PD1730D|vivo Z1i|
@@ -36254,6 +36280,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZZB (cn)|ZB40_EEA|ZB40_EEA|ZB40_EEA|
 |ZZB (cn)|ZZB_ZB30|ZZB_ZB30|ZZB_ZB30|
 |Zaith|Z3211G|Z3211G|Z3211G|
+|ZapiTV|ZAPI2022|SEI800ZAPI|ZAPI2022|
 |ZapiTV|Zapi2020|SEI500PTV|Zapi2020|
 |Zatec|JOY|JOY|JOY|
 |Zatec|JOY_PLUS|JOY_PLUS|JOY_PLUS|
