@@ -48469,6 +48469,13 @@
    "model": "S500"
   }
  ],
+ "Hicel": [
+  {
+   "device": "STAR_1",
+   "name": "STAR_1",
+   "model": "STAR 1"
+  }
+ ],
  "HighScreen": [
   {
    "device": "Bay",
@@ -68006,6 +68013,11 @@
    "device": "itel-A631W-R2",
    "name": "itel  A58 Lite",
    "model": "itel A631W"
+  },
+  {
+   "device": "itel-A507LM",
+   "name": "itel  AC50",
+   "model": "itel A507LM"
   },
   {
    "device": "itel-A507LP",
@@ -111030,6 +111042,11 @@
    "model": "PET 101-H332S-W"
   },
   {
+   "device": "PET-102-H232S",
+   "name": "PET-102-H232S",
+   "model": "PET-102-H232S"
+  },
+  {
    "device": "PET-1081-H232S",
    "name": "PET-1081-H232S",
    "model": "PET 1081-H232S"
@@ -114760,6 +114777,11 @@
    "device": "pm30",
    "name": "PM30",
    "model": "PM30"
+  },
+  {
+   "device": "PM351",
+   "name": "PM351",
+   "model": "PM351"
   },
   {
    "device": "pm45",
@@ -138656,19 +138678,14 @@
    "model": "SM-G889G"
   },
   {
+   "device": "haechiy19",
+   "name": "Galaxy XCover FieldPro",
+   "model": "SM-G889YB"
+  },
+  {
    "device": "haechiy19lteatt",
    "name": "Galaxy XCover FieldPro",
    "model": "SM-G889A"
-  },
-  {
-   "device": "haechiy19",
-   "name": "Galaxy XCover Filed Pro",
-   "model": "SM-G889YB"
-  },
-  {
-   "device": "haechiy19",
-   "name": "Galaxy XCover FiledPro",
-   "model": "SM-G889YB"
   },
   {
    "device": "xcoverpro",
@@ -159444,6 +159461,11 @@
    "model": "P80X_EEA"
   },
   {
+   "device": "P80",
+   "name": "P80_EEA",
+   "model": "P80_EEA"
+  },
+  {
    "device": "P80_EEA",
    "name": "P80_EEA",
    "model": "P80_EEA"
@@ -160309,6 +160331,11 @@
    "device": "TECNO-BD3",
    "name": "POP 5P",
    "model": "TECNO BD3"
+  },
+  {
+   "device": "TECNO-BE8i",
+   "name": "POP 6 Pro",
+   "model": "TECNO BE8i"
   },
   {
    "device": "TECNO-F3",
@@ -169008,6 +169035,11 @@
    "model": "I2127"
   },
   {
+   "device": "I2202",
+   "name": "I2202",
+   "model": "I2202"
+  },
+  {
    "device": "PD1806B",
    "name": "NEX A",
    "model": "vivo NEX A"
@@ -169066,6 +169098,11 @@
    "device": "V2151",
    "name": "T1 Pro 5G",
    "model": "V2151"
+  },
+  {
+   "device": "2135",
+   "name": "T1x",
+   "model": "V2143"
   },
   {
    "device": "PD2180",
@@ -169863,6 +169900,11 @@
    "model": "V2111"
   },
   {
+   "device": "2111",
+   "name": "V2111-EG",
+   "model": "V2111-EG"
+  },
+  {
    "device": "PD2111",
    "name": "V2111A",
    "model": "V2111A"
@@ -170108,6 +170150,11 @@
    "model": "V2164A"
   },
   {
+   "device": "PD2164U",
+   "name": "V2164PA",
+   "model": "V2164PA"
+  },
+  {
    "device": "PD2165",
    "name": "V2165A",
    "model": "V2165A"
@@ -170138,9 +170185,24 @@
    "model": "V2180A"
   },
   {
+   "device": "PD2166",
+   "name": "V2197A",
+   "model": "V2197A"
+  },
+  {
    "device": "V2202",
    "name": "V2202",
    "model": "V2202"
+  },
+  {
+   "device": "PD2202",
+   "name": "V2202A",
+   "model": "V2202A"
+  },
+  {
+   "device": "PD2203",
+   "name": "V2203A",
+   "model": "V2203A"
   },
   {
    "device": "PD2220",
@@ -170156,6 +170218,11 @@
    "device": "V2201",
    "name": "V25e",
    "model": "V2201"
+  },
+  {
+   "device": "V2201",
+   "name": "V25e",
+   "model": "V2209"
   },
   {
    "device": "PD1524",
@@ -170308,6 +170375,11 @@
    "model": "V2144"
   },
   {
+   "device": "V2202",
+   "name": "X80 Lite  5G",
+   "model": "V2208"
+  },
+  {
    "device": "V2145",
    "name": "X80 Pro",
    "model": "V2145"
@@ -170416,6 +170488,11 @@
    "device": "Y28",
    "name": "Y28",
    "model": "vivo Y28"
+  },
+  {
+   "device": "2160",
+   "name": "Y30 5G",
+   "model": "V2160"
   },
   {
    "device": "PD1505",
@@ -170646,6 +170723,11 @@
    "device": "I2126",
    "name": "iQOO Z6 Pro",
    "model": "I2126"
+  },
+  {
+   "device": "PD2164U",
+   "name": "iQOO Z6x",
+   "model": "V2164KA"
   },
   {
    "device": "1907",
@@ -171011,6 +171093,11 @@
    "device": "PD2199",
    "name": "vivo T2",
    "model": "V2199GA"
+  },
+  {
+   "device": "V2158",
+   "name": "vivo V25 Pro",
+   "model": "V2158"
   },
   {
    "device": "PD2178",
@@ -186243,6 +186330,26 @@
    "model": "EC55"
   },
   {
+   "device": "ET40L",
+   "name": "ET40",
+   "model": "ET40"
+  },
+  {
+   "device": "ET40S",
+   "name": "ET40",
+   "model": "ET40"
+  },
+  {
+   "device": "ET40L",
+   "name": "ET40A",
+   "model": "ET40"
+  },
+  {
+   "device": "ET40S",
+   "name": "ET40A",
+   "model": "ET40"
+  },
+  {
    "device": "ET56L",
    "name": "ET56CA",
    "model": "ET56"
@@ -190592,6 +190699,11 @@
    "device": "RMX3197",
    "name": "realme C25s",
    "model": "RMX3197"
+  },
+  {
+   "device": "RE5887",
+   "name": "realme C30",
+   "model": "RMX3581"
   },
   {
    "device": "RE549C",

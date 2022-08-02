@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-08-01
+Last sync is 2022-08-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9349,6 +9349,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hi-online|Boost Ultra|Boost_Ultra|Boost Ultra|
 |Hi-online|HMR5450|HMR5450|HMR5450|
 |HiMedia|S500|HiBox|S500|
+|Hicel|STAR_1|STAR_1|STAR 1|
 |HighScreen|Bay|Bay|Bay|
 |HighScreen|Easy Power|Easy-Power|Easy-Power|
 |HighScreen|Easy Power Pro|Easy-Power-Pro|Easy-Power-Pro|
@@ -13210,6 +13211,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|it1703|itel_it1703|itel it1703|
 |Itel|itel  A24|itel-A507LN|itel A507LN|
 |Itel|itel  A58 Lite|itel-A631W-R2|itel A631W|
+|Itel|itel  AC50|itel-A507LM|itel A507LM|
 |Itel|itel  V51 LTE|itel-A507LP|itel A507LP|
 |Itel|itel 4K TV|SW4H|itel 4K TV|
 |Itel|itel A11|itel_A11|itel A11|
@@ -21596,6 +21598,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PCD Argentina|PL620|PL620|PL620|
 |PEAQ|PET-101-F464S|PET-101-F464S|PET-101-F464S|
 |PEAQ|PET-101-H332S-W|PET-101-H332S-W|PET 101-H332S-W|
+|PEAQ|PET-102-H232S|PET-102-H232S|PET-102-H232S|
 |PEAQ|PET-1081-H232S|PET-1081-H232S|PET 1081-H232S|
 |PEAQ|PET-1081-LH332S|PET-1081-LH332S|PET 1081-LH332S|
 |PERSONA|MyTab_A8|MyTab_A8|MyTab_A8|
@@ -22320,6 +22323,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pluzz|PLUZZ_PL5010|PL5010|PLUZZ_PL5010|
 |Pluzz|PLUZZ_PL5510|PLUZZ_PL5510|PLUZZ_PL5510|
 |Point Mobile|PM30|pm30|PM30|
+|Point Mobile|PM351|PM351|PM351|
 |Point Mobile|PM45|pm45|PM45|
 |Point Mobile|PM451|PM451|PM451|
 |Point Mobile|PM45E|pm45e|PM45E|
@@ -27020,9 +27024,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy XCover 5|xcover5|SM-G525N|
 |Samsung|Galaxy XCover Field Pro|haechiy19|SM-G889F|
 |Samsung|Galaxy XCover FieldPro|haechiy19|SM-G889G|
+|Samsung|Galaxy XCover FieldPro|haechiy19|SM-G889YB|
 |Samsung|Galaxy XCover FieldPro|haechiy19lteatt|SM-G889A|
-|Samsung|Galaxy XCover Filed Pro|haechiy19|SM-G889YB|
-|Samsung|Galaxy XCover FiledPro|haechiy19|SM-G889YB|
 |Samsung|Galaxy XCover Pro|xcoverpro|SM-G715FN|
 |Samsung|Galaxy XCover4|xcover4lte|SM-G390F|
 |Samsung|Galaxy XCover6 Pro|xcoverpro2|SM-G736B|
@@ -31086,6 +31089,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P80X|P80X|P80X|
 |Teclast|P80X_EEA|P80X|P80X|
 |Teclast|P80X_EEA|P80X|P80X_EEA|
+|Teclast|P80_EEA|P80|P80_EEA|
 |Teclast|P80_EEA|P80_EEA|P80_EEA|
 |Teclast|P80_EEA|P80_G3M2_EEA|P80_EEA|
 |Teclast|P80_KOR|P80_KOR|P80_KOR|
@@ -31259,6 +31263,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|POP 4 Pro|TECNO-BC3|TECNO BC3|
 |Tecno|POP 5 LTE|TECNO-BD4i|TECNO BD4i|
 |Tecno|POP 5P|TECNO-BD3|TECNO BD3|
+|Tecno|POP 6 Pro|TECNO-BE8i|TECNO BE8i|
 |Tecno|POP1|TECNO-F3|TECNO F3|
 |Tecno|POVA|TECNO-LD7|TECNO LD7|
 |Tecno|POVA|TECNO-LD7j|TECNO LD7j|
@@ -32916,6 +32921,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|I2012|2012|I2012|
 |Vivo|I2017|2017|I2017|
 |Vivo|I2127|I2127|I2127|
+|Vivo|I2202|I2202|I2202|
 |Vivo|NEX A|PD1806B|vivo NEX A|
 |Vivo|PA2170|DPD2106|PA2170|
 |Vivo|PD1304DL|PD1304DL|vivo Y13iL|
@@ -32928,6 +32934,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|T1|V2154|V2168|
 |Vivo|T1 5G|V2151|V2150|
 |Vivo|T1 Pro 5G|V2151|V2151|
+|Vivo|T1x|2135|V2143|
 |Vivo|U5x|PD2180|V2180GA|
 |Vivo|V1|V1|vivo V1|
 |Vivo|V1730EA|PD1730E|V1730EA|
@@ -33087,6 +33094,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2110|2109|V2136|
 |Vivo|V2110|2110|V2110|
 |Vivo|V2111|2111|V2111|
+|Vivo|V2111-EG|2111|V2111-EG|
 |Vivo|V2111A|PD2111|V2111A|
 |Vivo|V2113|2113|V2113|
 |Vivo|V2115|2116|V2115|
@@ -33136,16 +33144,21 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2162A|PD2162|V2162A|
 |Vivo|V2163A|PD2163|V2163A|
 |Vivo|V2164A|PD2164|V2164A|
+|Vivo|V2164PA|PD2164U|V2164PA|
 |Vivo|V2165A|PD2165|V2165A|
 |Vivo|V2166A|PD2166|V2166A|
 |Vivo|V2168A|PD2168|V2168A|
 |Vivo|V2171A|PD2171|V2171A|
 |Vivo|V2172A|PD2172|V2172A|
 |Vivo|V2180A|PD2180|V2180A|
+|Vivo|V2197A|PD2166|V2197A|
 |Vivo|V2202|V2202|V2202|
+|Vivo|V2202A|PD2202|V2202A|
+|Vivo|V2203A|PD2203|V2203A|
 |Vivo|V2220A|PD2220|V2220A|
 |Vivo|V25|V2202|V2202|
 |Vivo|V25e|V2201|V2201|
+|Vivo|V25e|V2201|V2209|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
 |Vivo|V3Lite|V3Lite|vivo V3Lite|
@@ -33176,6 +33189,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|X7|PD1602|vivo X7|
 |Vivo|X7Plus|PD1603|vivo X7Plus|
 |Vivo|X80|V2144|V2144|
+|Vivo|X80 Lite  5G|V2202|V2208|
 |Vivo|X80 Pro|V2145|V2145|
 |Vivo|X9|PD1616|vivo X9|
 |Vivo|X9i|PD1624|vivo X9i|
@@ -33198,6 +33212,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y22s|V2206|V2206|
 |Vivo|Y27|Y27|vivo Y27|
 |Vivo|Y28|Y28|vivo Y28|
+|Vivo|Y30 5G|2160|V2160|
 |Vivo|Y31|PD1505|vivo Y31|
 |Vivo|Y31|Y31|vivo Y31|
 |Vivo|Y31L|Y31L|vivo Y31L|
@@ -33244,6 +33259,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Z6|I2203|I2203|
 |Vivo|iQOO Z6|I2203|I2206|
 |Vivo|iQOO Z6 Pro|I2126|I2126|
+|Vivo|iQOO Z6x|PD2164U|V2164KA|
 |Vivo|vivo  1907|1907|vivo 1907|
 |Vivo|vivo  X21i  A|PD1801|vivo X21i A|
 |Vivo|vivo  Y75s|PD1708C|vivo Y75s|
@@ -33317,6 +33333,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo S1|PD1831|V1831A|
 |Vivo|vivo S15 Pro|PD2207|V2207A|
 |Vivo|vivo T2|PD2199|V2199GA|
+|Vivo|vivo V25 Pro|V2158|V2158|
 |Vivo|vivo X Fold|PD2178|V2178A|
 |Vivo|vivo X Note|PD2170|V2170A|
 |Vivo|vivo X20|PD1709|vivo PD1709|
@@ -36303,6 +36320,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|EC55|EC55|EC55|
 |Zebra|EC55SA AOSP|EC55|EC55|
 |Zebra|EC55SANF AOSP|EC55|EC55|
+|Zebra|ET40|ET40L|ET40|
+|Zebra|ET40|ET40S|ET40|
+|Zebra|ET40A|ET40L|ET40|
+|Zebra|ET40A|ET40S|ET40|
 |Zebra|ET56CA|ET56L|ET56|
 |Zebra|ET5X|ET50E|ET5X|
 |Zebra|ET5X|ET50T|ET5X|
@@ -37126,6 +37147,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C25Y|RED8F6|RMX3269|
 |realme|realme C25s|RMX3195|RMX3195|
 |realme|realme C25s|RMX3197|RMX3197|
+|realme|realme C30|RE5887|RMX3581|
 |realme|realme C31|RE549C|RMX3501|
 |realme|realme C31|RE549C|RMX3502|
 |realme|realme C31|RE549C|RMX3503|
