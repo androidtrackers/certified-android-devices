@@ -6119,6 +6119,13 @@
    "model": "X20"
   }
  ],
+ "X20_Pro": [
+  {
+   "brand": "ABCTECH",
+   "device": "X20_Pro",
+   "model": "X20_Pro"
+  }
+ ],
  "X5": [
   {
    "brand": "ABCTECH",
@@ -7733,6 +7740,11 @@
   {
    "brand": "PAX (CN)",
    "device": "PAXM50",
+   "model": "M50"
+  },
+  {
+   "brand": "Smart",
+   "device": "M50",
    "model": "M50"
   },
   {
@@ -15502,6 +15514,11 @@
    "model": "T10"
   },
   {
+   "brand": "Moolah Mobile",
+   "device": "T10",
+   "model": "T10"
+  },
+  {
    "brand": "NOVATAB",
    "device": "NOVAT-10",
    "model": "NOVAT-10"
@@ -18918,6 +18935,13 @@
    "model": "Archos T101 HD PLUS"
   }
  ],
+ "act101hdwf": [
+  {
+   "brand": "Archos",
+   "device": "act101hdwf",
+   "model": "Archos T101 HD WIFI"
+  }
+ ],
  "alba 10": [
   {
    "brand": "Archos",
@@ -19823,6 +19847,11 @@
   },
   {
    "brand": "Oukitel",
+   "device": "K10",
+   "model": "K10"
+  },
+  {
+   "brand": "Surfans",
    "device": "K10",
    "model": "K10"
   }
@@ -27504,6 +27533,13 @@
    "brand": "BYYBUO",
    "device": "BYYBUO_SmartPad_T10",
    "model": "BYYBUO_SmartPad_T10"
+  }
+ ],
+ "SmartPad_K7": [
+  {
+   "brand": "BYYBUO",
+   "device": "SmartPad_K7",
+   "model": "SmartPad_K7"
   }
  ],
  "BeoVision": [
@@ -36394,6 +36430,11 @@
    "brand": "CORN",
    "device": "Corn_Star8",
    "model": "CORN Star8"
+  },
+  {
+   "brand": "CORN",
+   "device": "Star8",
+   "model": "Star8"
   }
  ],
  "Star8_3G": [
@@ -58106,6 +58147,13 @@
    "model": "TURBO-X FHD Android TV"
   }
  ],
+ "Air1": [
+  {
+   "brand": "F150",
+   "device": "Air1",
+   "model": "Air1"
+  }
+ ],
  "Air1 Pro": [
   {
    "brand": "F150",
@@ -58520,6 +58568,13 @@
    "brand": "FFFSMARTLIFE",
    "device": "FFFTAB10a4",
    "model": "FFFTAB10a4"
+  }
+ ],
+ "FFFTAB10b0": [
+  {
+   "brand": "FFFSMARTLIFE",
+   "device": "FFFTAB10b0",
+   "model": "FFFTAB10b0"
   }
  ],
  "FFFTAB7": [
@@ -63341,6 +63396,13 @@
    "model": "GWAT10_1"
   }
  ],
+ "GAKM10822": [
+  {
+   "brand": "Gateway",
+   "device": "GAKM10822",
+   "model": "GAKM10822"
+  }
+ ],
  "GATA30812": [
   {
    "brand": "Gateway",
@@ -63353,6 +63415,13 @@
    "brand": "Gateway",
    "device": "GATA31012",
    "model": "GATA31012"
+  }
+ ],
+ "GATM11022": [
+  {
+   "brand": "Gateway",
+   "device": "GATM11022",
+   "model": "GATM11022"
   }
  ],
  "GWAT8_1": [
@@ -67922,6 +67991,13 @@
    "brand": "Serenity",
    "device": "T2000",
    "model": "T2000"
+  }
+ ],
+ "HL_1068_A133": [
+  {
+   "brand": "HBESTORE",
+   "device": "HL_1068_A133",
+   "model": "HL_1068_A133"
   }
  ],
  "H10_ONE": [
@@ -78547,6 +78623,11 @@
   },
   {
    "brand": "Pritom",
+   "device": "M30",
+   "model": "M30"
+  },
+  {
+   "brand": "Smart",
    "device": "M30",
    "model": "M30"
   },
@@ -97778,6 +97859,13 @@
    "model": "EZpad M10S"
   }
  ],
+ "EZpad_M10S_ROW": [
+  {
+   "brand": "Jumper",
+   "device": "EZpad_M10S_ROW",
+   "model": "EZpad M10S"
+  }
+ ],
  "EZpad_M10_EEA": [
   {
    "brand": "Jumper",
@@ -99054,6 +99142,13 @@
    "model": "4K SMART TV"
   }
  ],
+ "CHIMEI": [
+  {
+   "brand": "KTCtv",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
+  }
+ ],
  "DIGGIO": [
   {
    "brand": "KTCtv",
@@ -99175,6 +99270,13 @@
    "brand": "KTCtv",
    "device": "zhongshan",
    "model": "Tesla 4K Android TV"
+  }
+ ],
+ "VISTA": [
+  {
+   "brand": "KTCtv",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
   }
  ],
  "Zitro": [
@@ -100492,6 +100594,13 @@
    "brand": "Kinstone",
    "device": "KST103SD",
    "model": "KST103SD"
+  }
+ ],
+ "KST103SD-L": [
+  {
+   "brand": "Kinstone",
+   "device": "KST103SD-L",
+   "model": "KST103SD-L"
   }
  ],
  "SA070": [
@@ -110688,6 +110797,13 @@
    "model": "MID704DC"
   }
  ],
+ "TP1005": [
+  {
+   "brand": "LVILLE",
+   "device": "TP1005",
+   "model": "TP1005"
+  }
+ ],
  "LW688": [
   {
    "brand": "LW",
@@ -115147,13 +115263,6 @@
    "model": "Lenovo L38082"
   }
  ],
- "LAVIE Tab 102K1": [
-  {
-   "brand": "Lenovo",
-   "device": "LAVIETab102K1",
-   "model": "LAVIE Tab 102K1"
-  }
- ],
  "LIFETAB E10310": [
   {
    "brand": "Lenovo",
@@ -117980,6 +118089,13 @@
    "model": "LBOX500"
   }
  ],
+ "TL70": [
+  {
+   "brand": "Lexibook",
+   "device": "TL70",
+   "model": "TL70"
+  }
+ ],
  "Tablet Phone": [
   {
    "brand": "Lexibook",
@@ -119574,6 +119690,13 @@
    "brand": "Logicom",
    "device": "S952",
    "model": "S952"
+  }
+ ],
+ "SOLAR": [
+  {
+   "brand": "Logicom",
+   "device": "SOLAR",
+   "model": "SOLAR"
   }
  ],
  "Touch Tablet CT730": [
@@ -135055,6 +135178,13 @@
    "model": "LAVIE T8 8HD1"
   }
  ],
+ "LAVIE Tab 102K1": [
+  {
+   "brand": "NEC",
+   "device": "LAVIETab102K1",
+   "model": "LAVIE Tab 102K1"
+  }
+ ],
  "LAVIE Tab E": [
   {
    "brand": "NEC",
@@ -137430,6 +137560,13 @@
    "model": "4K Google TV Stick"
   }
  ],
+ "NEXT": [
+  {
+   "brand": "Next",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
+  }
+ ],
  "Nexttab N3": [
   {
    "brand": "Next Learning",
@@ -139670,6 +139807,13 @@
    "model": "MixTab Pro"
   }
  ],
+ "X600 NFC": [
+  {
+   "brand": "OMIX",
+   "device": "X600_NFC",
+   "model": "X600 NFC"
+  }
+ ],
  "X700": [
   {
    "brand": "OMIX",
@@ -140917,6 +141061,13 @@
    "brand": "OpelMobile",
    "device": "SmartX1",
    "model": "OpelMobile_SmartX1"
+  }
+ ],
+ "SmartZ6": [
+  {
+   "brand": "OpelMobile",
+   "device": "SmartZ6",
+   "model": "SmartZ6"
   }
  ],
  "Active 5.0": [
@@ -142603,6 +142754,13 @@
    "brand": "Oppo",
    "device": "OP4F1FL1",
    "model": "CPH2201"
+  }
+ ],
+ "OPPO Reno6 Z 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP4FA7L1",
+   "model": "CPH2237"
   }
  ],
  "OPPO Reno7": [
@@ -146132,6 +146290,13 @@
    "brand": "PORTFOLIO",
    "device": "P9001",
    "model": "P9001"
+  }
+ ],
+ "OrderGo5_EEA": [
+  {
+   "brand": "POSSAFE",
+   "device": "OrderGo5",
+   "model": "OrderGo5"
   }
  ],
  "PrismPlus 4K Android TV": [
@@ -154837,6 +155002,13 @@
    "model": "L8_EEA"
   }
  ],
+ "M10-EEA": [
+  {
+   "brand": "Pritom",
+   "device": "M10-EEA",
+   "model": "M10-EEA"
+  }
+ ],
  "M10_A01_EEA": [
   {
    "brand": "Pritom",
@@ -154959,6 +155131,13 @@
    "brand": "Pritom",
    "device": "M10_EEA",
    "model": "M10_EEA"
+  }
+ ],
+ "Pritom_M10_EEA": [
+  {
+   "brand": "Pritom",
+   "device": "Pritom_M10_EEA",
+   "model": "Pritom_M10_EEA"
   }
  ],
  "Pritom_M50": [
@@ -155272,6 +155451,20 @@
    "brand": "Proximus",
    "device": "uiw4020pxm",
    "model": "decoder"
+  }
+ ],
+ "Punos X10": [
+  {
+   "brand": "Punos",
+   "device": "PTX1022G",
+   "model": "X10 Tablet"
+  }
+ ],
+ "Punos X8 PTX822G": [
+  {
+   "brand": "Punos",
+   "device": "PTX822G",
+   "model": "X8 Tablet"
   }
  ],
  "Punos_10": [
@@ -181735,6 +181928,13 @@
    "model": "SH825Wi"
   }
  ],
+ "SHARP": [
+  {
+   "brand": "Sharp",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
+  }
+ ],
  "SHARP 2K SMART TV": [
   {
    "brand": "Sharp",
@@ -184225,6 +184425,13 @@
    "brand": "Smart-Tech TV",
    "device": "stanford",
    "model": "2K SMART TV"
+  }
+ ],
+ "SMART TEcHNOLGY": [
+  {
+   "brand": "Smart-Tech TV",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
   }
  ],
  "SmartTech": [
@@ -201184,6 +201391,20 @@
    "model": "P20HD_RUS"
   }
  ],
+ "P20S_EEA": [
+  {
+   "brand": "Teclast",
+   "device": "P20S_EEA",
+   "model": "P20S_EEA"
+  }
+ ],
+ "P20S_ROW": [
+  {
+   "brand": "Teclast",
+   "device": "P20S_ROW",
+   "model": "P20S_ROW"
+  }
+ ],
  "P20_EEA": [
   {
    "brand": "Teclast",
@@ -201740,6 +201961,11 @@
    "brand": "Tecno",
    "device": "TECNO-CI6n",
    "model": "TECNO CI6n"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-Mobile-CI6n",
+   "model": "TECNO Mobile CI6n"
   }
  ],
  "CAMON 19 Pro": [
@@ -206236,6 +206462,18 @@
    "brand": "Tvstar",
    "device": "seocho",
    "model": "TVSTAR 4K Android TV"
+  }
+ ],
+ "T60": [
+  {
+   "brand": "UAUU",
+   "device": "T60",
+   "model": "T60"
+  },
+  {
+   "brand": "ZTE",
+   "device": "turies",
+   "model": "ZTE T60"
   }
  ],
  "KIDS705-701A": [
@@ -212223,6 +212461,11 @@
    "brand": "Vivax",
    "device": "stanford",
    "model": "2K SMART TV"
+  },
+  {
+   "brand": "Vivax",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
   }
  ],
  "VIVAX Fly6": [
@@ -227926,13 +228169,6 @@
    "model": "ZTE T57"
   }
  ],
- "T60": [
-  {
-   "brand": "ZTE",
-   "device": "turies",
-   "model": "ZTE T60"
-  }
- ],
  "T617": [
   {
    "brand": "ZTE",
@@ -231199,6 +231435,13 @@
    "brand": "ZTE",
    "device": "P450S10",
    "model": "ZTE V0900"
+  }
+ ],
+ "ZTE Blade X10 Pro": [
+  {
+   "brand": "ZTE",
+   "device": "P963T02C",
+   "model": "ZTE T1003"
   }
  ],
  "ZTE Blade X10s": [

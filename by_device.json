@@ -329,6 +329,18 @@
    "model": "X20"
   }
  ],
+ "X20_Pro": [
+  {
+   "brand": "ABCTECH",
+   "name": "X20_Pro",
+   "model": "X20_Pro"
+  },
+  {
+   "brand": "Neffos",
+   "name": "Neffos X20 Pro",
+   "model": "Neffos X20 Pro"
+  }
+ ],
  "X5": [
   {
    "brand": "ABCTECH",
@@ -952,6 +964,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "CHIMEI",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "COL",
    "model": "43FCOL"
   },
@@ -1022,6 +1039,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "VISTA",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "Zitro",
    "model": "43FSA"
   },
@@ -1041,9 +1063,24 @@
    "model": "CSV4K"
   },
   {
+   "brand": "Next",
+   "name": "NEXT",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Sharp",
+   "name": "SHARP",
+   "model": "4K SMART TV"
+  },
+  {
    "brand": "Siragon",
    "name": "SA",
    "model": "SMART TV"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "name": "SMART TEcHNOLGY",
+   "model": "4K SMART TV"
   },
   {
    "brand": "THEHAM",
@@ -1054,6 +1091,11 @@
    "brand": "VIZZION",
    "name": "vizzion",
    "model": "F VIZZION TV"
+  },
+  {
+   "brand": "Vivax",
+   "name": "VIVAX",
+   "model": "4K SMART TV"
   }
  ],
  "stanford": [
@@ -3371,6 +3413,11 @@
   },
   {
    "brand": "ELO Touch",
+   "name": "M50",
+   "model": "M50"
+  },
+  {
+   "brand": "Smart",
    "name": "M50",
    "model": "M50"
   },
@@ -12075,6 +12122,11 @@
    "model": "T10"
   },
   {
+   "brand": "Moolah Mobile",
+   "name": "T10",
+   "model": "T10"
+  },
+  {
    "brand": "SAWINK",
    "name": "T10",
    "model": "T10"
@@ -15886,6 +15938,13 @@
    "model": "Archos T101 HD PLUS"
   }
  ],
+ "act101hdwf": [
+  {
+   "brand": "Archos",
+   "name": "act101hdwf",
+   "model": "Archos T101 HD WIFI"
+  }
+ ],
  "A100": [
   {
    "brand": "Arima",
@@ -16828,6 +16887,11 @@
   },
   {
    "brand": "Oukitel",
+   "name": "K10",
+   "model": "K10"
+  },
+  {
+   "brand": "Surfans",
    "name": "K10",
    "model": "K10"
   }
@@ -24668,6 +24732,13 @@
    "model": "BYYBUO_SmartPad_T10"
   }
  ],
+ "SmartPad_K7": [
+  {
+   "brand": "BYYBUO",
+   "name": "SmartPad_K7",
+   "model": "SmartPad_K7"
+  }
+ ],
  "bno_MT5593Uplus_EU": [
   {
    "brand": "Bang & Olufsen",
@@ -32440,6 +32511,13 @@
    "brand": "CORN",
    "name": "Star8",
    "model": "CORN Star8"
+  }
+ ],
+ "Star8": [
+  {
+   "brand": "CORN",
+   "name": "Star8",
+   "model": "Star8"
   }
  ],
  "Star8_3G": [
@@ -53918,6 +53996,13 @@
    "model": "EyeOnGo"
   }
  ],
+ "Air1": [
+  {
+   "brand": "F150",
+   "name": "Air1",
+   "model": "Air1"
+  }
+ ],
  "Air1_Pro": [
   {
    "brand": "F150",
@@ -54282,6 +54367,13 @@
    "brand": "FFFSMARTLIFE",
    "name": "FFFTAB10a4",
    "model": "FFFTAB10a4"
+  }
+ ],
+ "FFFTAB10b0": [
+  {
+   "brand": "FFFSMARTLIFE",
+   "name": "FFFTAB10b0",
+   "model": "FFFTAB10b0"
   }
  ],
  "FFFTAB7": [
@@ -59321,6 +59413,13 @@
    "model": "GWAT10_1"
   }
  ],
+ "GAKM10822": [
+  {
+   "brand": "Gateway",
+   "name": "GAKM10822",
+   "model": "GAKM10822"
+  }
+ ],
  "GATA30812": [
   {
    "brand": "Gateway",
@@ -59333,6 +59432,13 @@
    "brand": "Gateway",
    "name": "GATA31012",
    "model": "GATA31012"
+  }
+ ],
+ "GATM11022": [
+  {
+   "brand": "Gateway",
+   "name": "GATM11022",
+   "model": "GATM11022"
   }
  ],
  "GWAT8_1": [
@@ -63643,6 +63749,13 @@
    "brand": "Serenity",
    "name": "T2000",
    "model": "T2000"
+  }
+ ],
+ "HL_1068_A133": [
+  {
+   "brand": "HBESTORE",
+   "name": "HL_1068_A133",
+   "model": "HL_1068_A133"
   }
  ],
  "H10_ONE": [
@@ -94580,6 +94693,13 @@
    "model": "EZpad M10S"
   }
  ],
+ "EZpad_M10S_ROW": [
+  {
+   "brand": "Jumper",
+   "name": "EZpad_M10S_ROW",
+   "model": "EZpad M10S"
+  }
+ ],
  "EZpad_M10": [
   {
    "brand": "Jumper",
@@ -97079,6 +97199,13 @@
    "brand": "Kinstone",
    "name": "KST103SD",
    "model": "KST103SD"
+  }
+ ],
+ "KST103SD-L": [
+  {
+   "brand": "Kinstone",
+   "name": "KST103SD-L",
+   "model": "KST103SD-L"
   }
  ],
  "Kinstone_SA070": [
@@ -108291,6 +108418,13 @@
    "model": "LUVO 001L"
   }
  ],
+ "TP1005": [
+  {
+   "brand": "LVILLE",
+   "name": "TP1005",
+   "model": "TP1005"
+  }
+ ],
  "LW688": [
   {
    "brand": "LW",
@@ -113444,13 +113578,6 @@
    "model": "Lenovo L38082"
   }
  ],
- "LAVIETab102K1": [
-  {
-   "brand": "Lenovo",
-   "name": "LAVIE Tab 102K1",
-   "model": "LAVIE Tab 102K1"
-  }
- ],
  "LIFETAB_E10310": [
   {
    "brand": "Lenovo",
@@ -116604,6 +116731,13 @@
    "model": "LBOX500"
   }
  ],
+ "TL70": [
+  {
+   "brand": "Lexibook",
+   "name": "TL70",
+   "model": "TL70"
+  }
+ ],
  "MFS100": [
   {
    "brand": "Lexibook",
@@ -118167,6 +118301,13 @@
    "brand": "Logicom",
    "name": "S952",
    "model": "S952"
+  }
+ ],
+ "SOLAR": [
+  {
+   "brand": "Logicom",
+   "name": "SOLAR",
+   "model": "SOLAR"
   }
  ],
  "CT730": [
@@ -134630,6 +134771,13 @@
    "model": "LAVIE T8 8HD1"
   }
  ],
+ "LAVIETab102K1": [
+  {
+   "brand": "NEC",
+   "name": "LAVIE Tab 102K1",
+   "model": "LAVIE Tab 102K1"
+  }
+ ],
  "PC-TE410JAW": [
   {
    "brand": "NEC",
@@ -136666,13 +136814,6 @@
    "brand": "Neffos",
    "name": "Neffos X1 Max",
    "model": "Neffos X1 Max"
-  }
- ],
- "X20_Pro": [
-  {
-   "brand": "Neffos",
-   "name": "Neffos X20 Pro",
-   "model": "Neffos X20 Pro"
   }
  ],
  "Y5i": [
@@ -139330,6 +139471,13 @@
    "model": "X600"
   }
  ],
+ "X600_NFC": [
+  {
+   "brand": "OMIX",
+   "name": "X600 NFC",
+   "model": "X600 NFC"
+  }
+ ],
  "X700": [
   {
    "brand": "OMIX",
@@ -140611,6 +140759,13 @@
    "brand": "OpelMobile",
    "name": "SmartX1",
    "model": "OpelMobile_SmartX1"
+  }
+ ],
+ "SmartZ6": [
+  {
+   "brand": "OpelMobile",
+   "name": "SmartZ6",
+   "model": "SmartZ6"
   }
  ],
  "CIUS-7": [
@@ -141949,6 +142104,11 @@
   {
    "brand": "Oppo",
    "name": "CPH2237",
+   "model": "CPH2237"
+  },
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno6 Z 5G",
    "model": "CPH2237"
   }
  ],
@@ -146040,6 +146200,13 @@
    "brand": "PORTFOLIO",
    "name": "P9001",
    "model": "P9001"
+  }
+ ],
+ "OrderGo5": [
+  {
+   "brand": "POSSAFE",
+   "name": "OrderGo5_EEA",
+   "model": "OrderGo5"
   }
  ],
  "K726": [
@@ -154412,6 +154579,13 @@
    "model": "M10"
   }
  ],
+ "M10-EEA": [
+  {
+   "brand": "Pritom",
+   "name": "M10-EEA",
+   "model": "M10-EEA"
+  }
+ ],
  "M10_A01_EEA": [
   {
    "brand": "Pritom",
@@ -154494,6 +154668,11 @@
    "model": "M30"
   },
   {
+   "brand": "Smart",
+   "name": "M30",
+   "model": "M30"
+  },
+  {
    "brand": "ZOLON",
    "name": "M30",
    "model": "M30"
@@ -154567,6 +154746,13 @@
    "brand": "Pritom",
    "name": "PRITOM",
    "model": "M10_EEA"
+  }
+ ],
+ "Pritom_M10_EEA": [
+  {
+   "brand": "Pritom",
+   "name": "Pritom_M10_EEA",
+   "model": "Pritom_M10_EEA"
   }
  ],
  "Pritom_M50": [
@@ -154882,6 +155068,20 @@
    "brand": "Proximus",
    "name": "Proximus TV",
    "model": "decoder"
+  }
+ ],
+ "PTX1022G": [
+  {
+   "brand": "Punos",
+   "name": "Punos X10",
+   "model": "X10 Tablet"
+  }
+ ],
+ "PTX822G": [
+  {
+   "brand": "Punos",
+   "name": "Punos X8 PTX822G",
+   "model": "X8 Tablet"
   }
  ],
  "Punos_10": [
@@ -195707,6 +195907,11 @@
    "brand": "TCT (Alcatel)",
    "name": "",
    "model": "onetouch T60"
+  },
+  {
+   "brand": "UAUU",
+   "name": "T60",
+   "model": "T60"
   }
  ],
  "TCL-A909_A909_gsm": [
@@ -203245,6 +203450,20 @@
    "model": "P20HD_RUS"
   }
  ],
+ "P20S_EEA": [
+  {
+   "brand": "Teclast",
+   "name": "P20S_EEA",
+   "model": "P20S_EEA"
+  }
+ ],
+ "P20S_ROW": [
+  {
+   "brand": "Teclast",
+   "name": "P20S_ROW",
+   "model": "P20S_ROW"
+  }
+ ],
  "P20_EEA": [
   {
    "brand": "Teclast",
@@ -203849,6 +204068,13 @@
    "brand": "Tecno",
    "name": "CAMON 19",
    "model": "TECNO CI6n"
+  }
+ ],
+ "TECNO-Mobile-CI6n": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 19",
+   "model": "TECNO Mobile CI6n"
   }
  ],
  "TECNO-CI8": [
@@ -233674,6 +233900,13 @@
    "brand": "ZTE",
    "name": "ZTE Blade V9",
    "model": "ZTE V0900"
+  }
+ ],
+ "P963T02C": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade X10 Pro",
+   "model": "ZTE T1003"
   }
  ],
  "P963T01C": [
