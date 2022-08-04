@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-08-03
+Last sync is 2022-08-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5043,6 +5043,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Crosscall|Core-X4|L762|Core-X4|
 |Crosscall|Core-X4 Neo|L770|Core-X4 Neo|
 |Crosscall|Core-X5|L771|Core-X5|
+|Crosscall|Core-Z5|L790|Core-Z5|
+|Crosscall|Core-Z5|L790_02|Core-Z5|
 |Crosscall|ODYSSEY|ODYSSEY3G|ODYSSEY|
 |Crosscall|TREKKER- X3|HS8952QC|TREKKER-X3|
 |Crosscall|TREKKER-M1 CORE|HS8909QC|TREKKER-M1 CORE|
@@ -29326,6 +29328,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|BeyondTV6|BeyondTV4|Smart TV|
 |TCL|BeyondTV6|BeyondTV4|Smart TV Pro|
 |TCL|C02_4K_US|BeyondTV|Smart TV|
+|TCL|C06_2K_GB|C06|Smart TV|
 |TCL|C06_2K_US|C06|Smart TV|
 |TCL|C9|A3A_XL_4G|5199I|
 |TCL|G03_4K_GB|BeyondTV4|Smart TV Pro|

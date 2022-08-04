@@ -44743,6 +44743,18 @@
    "model": "Core-X5"
   }
  ],
+ "Core-Z5": [
+  {
+   "brand": "Crosscall",
+   "device": "L790",
+   "model": "Core-Z5"
+  },
+  {
+   "brand": "Crosscall",
+   "device": "L790_02",
+   "model": "Core-Z5"
+  }
+ ],
  "ODYSSEY": [
   {
    "brand": "Crosscall",
@@ -191566,6 +191578,13 @@
   {
    "brand": "TCL",
    "device": "BeyondTV",
+   "model": "Smart TV"
+  }
+ ],
+ "C06_2K_GB": [
+  {
+   "brand": "TCL",
+   "device": "C06",
    "model": "Smart TV"
   }
  ],

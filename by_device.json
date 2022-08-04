@@ -40890,6 +40890,20 @@
    "model": "Core-X5"
   }
  ],
+ "L790": [
+  {
+   "brand": "Crosscall",
+   "name": "Core-Z5",
+   "model": "Core-Z5"
+  }
+ ],
+ "L790_02": [
+  {
+   "brand": "Crosscall",
+   "name": "Core-Z5",
+   "model": "Core-Z5"
+  }
+ ],
  "ODYSSEY3G": [
   {
    "brand": "Crosscall",
@@ -193980,6 +193994,11 @@
   }
  ],
  "C06": [
+  {
+   "brand": "TCL",
+   "name": "C06_2K_GB",
+   "model": "Smart TV"
+  },
   {
    "brand": "TCL",
    "name": "C06_2K_US",

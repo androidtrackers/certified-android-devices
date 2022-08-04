@@ -18867,6 +18867,11 @@
   },
   {
    "brand": "TCL",
+   "name": "C06_2K_GB",
+   "device": "C06"
+  },
+  {
+   "brand": "TCL",
    "name": "C06_2K_US",
    "device": "C06"
   },
@@ -38135,6 +38140,18 @@
    "brand": "Crosscall",
    "name": "Core-X5",
    "device": "L771"
+  }
+ ],
+ "Core-Z5": [
+  {
+   "brand": "Crosscall",
+   "name": "Core-Z5",
+   "device": "L790"
+  },
+  {
+   "brand": "Crosscall",
+   "name": "Core-Z5",
+   "device": "L790_02"
   }
  ],
  "ODYSSEY": [

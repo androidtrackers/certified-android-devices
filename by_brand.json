@@ -26091,6 +26091,16 @@
    "model": "Core-X5"
   },
   {
+   "device": "L790",
+   "name": "Core-Z5",
+   "model": "Core-Z5"
+  },
+  {
+   "device": "L790_02",
+   "name": "Core-Z5",
+   "model": "Core-Z5"
+  },
+  {
    "device": "ODYSSEY3G",
    "name": "ODYSSEY",
    "model": "ODYSSEY"
@@ -150493,6 +150503,11 @@
   {
    "device": "BeyondTV",
    "name": "C02_4K_US",
+   "model": "Smart TV"
+  },
+  {
+   "device": "C06",
+   "name": "C06_2K_GB",
    "model": "Smart TV"
   },
   {
