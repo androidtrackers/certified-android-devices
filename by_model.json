@@ -46217,6 +46217,13 @@
    "device": "Eclipse_G500M"
   }
  ],
+ "EL-712": [
+  {
+   "brand": "E-LEAD",
+   "name": "RSE",
+   "device": "RSE"
+  }
+ ],
  "A10_SMART": [
   {
    "brand": "E-TACHI",
@@ -67792,6 +67799,13 @@
    "device": "XZPAD470LTE"
   }
  ],
+ "Hammer_Energy_2_2022": [
+  {
+   "brand": "Hammer",
+   "name": "Energy_2_2022_EEA",
+   "device": "Energy_2_2022"
+  }
+ ],
  "Hammer_Blade_3": [
   {
    "brand": "Hammer",
@@ -67818,13 +67832,6 @@
    "brand": "Hammer",
    "name": "Hammer Explorer Pro",
    "device": "Hammer_Expl_Pro"
-  }
- ],
- "Hammer_Energy_2_2022": [
-  {
-   "brand": "Hammer",
-   "name": "Hammer_Energy_2_2022",
-   "device": "Energy_2_2022"
   }
  ],
  "ALGIZ_RT10": [
@@ -138333,6 +138340,11 @@
  "2K PA Smart TV": [
   {
    "brand": "Nano",
+   "name": "Smart TV",
+   "device": "mateo"
+  },
+  {
+   "brand": "Nokia",
    "name": "Smart TV",
    "device": "mateo"
   },

@@ -43892,6 +43892,11 @@
    "model": "2K PA Smart TV"
   },
   {
+   "brand": "Nokia",
+   "name": "Smart TV",
+   "model": "2K PA Smart TV"
+  },
+  {
    "brand": "Polytron",
    "name": "Smart TV",
    "model": "2K PA Smart TV"
@@ -49315,6 +49320,13 @@
    "brand": "E-Boda",
    "name": "Eclipse G500M",
    "model": "Eclipse_G500M"
+  }
+ ],
+ "RSE": [
+  {
+   "brand": "E-LEAD",
+   "name": "RSE",
+   "model": "EL-712"
   }
  ],
  "A10_SMART": [
@@ -69959,6 +69971,13 @@
    "model": "XZPAD470LTE"
   }
  ],
+ "Energy_2_2022": [
+  {
+   "brand": "Hammer",
+   "name": "Energy_2_2022_EEA",
+   "model": "Hammer_Energy_2_2022"
+  }
+ ],
  "Hammer_Blade_3": [
   {
    "brand": "Hammer",
@@ -69985,13 +70004,6 @@
    "brand": "Hammer",
    "name": "Hammer Explorer Pro",
    "model": "Hammer_Explorer_Pro"
-  }
- ],
- "Energy_2_2022": [
-  {
-   "brand": "Hammer",
-   "name": "Hammer_Energy_2_2022",
-   "model": "Hammer_Energy_2_2022"
   }
  ],
  "ALGIZ_RT10": [

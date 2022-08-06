@@ -31982,6 +31982,13 @@
    "model": "Eclipse_G500M"
   }
  ],
+ "E-LEAD": [
+  {
+   "device": "RSE",
+   "name": "RSE",
+   "model": "EL-712"
+  }
+ ],
  "E-TACHI": [
   {
    "device": "A10_SMART",
@@ -48163,6 +48170,11 @@
  ],
  "Hammer": [
   {
+   "device": "Energy_2_2022",
+   "name": "Energy_2_2022_EEA",
+   "model": "Hammer_Energy_2_2022"
+  },
+  {
    "device": "Hammer_Blade_3",
    "name": "Hammer Blade 3",
    "model": "Hammer_Blade_3"
@@ -48181,11 +48193,6 @@
    "device": "Hammer_Expl_Pro",
    "name": "Hammer Explorer Pro",
    "model": "Hammer_Explorer_Pro"
-  },
-  {
-   "device": "Energy_2_2022",
-   "name": "Hammer_Energy_2_2022",
-   "model": "Hammer_Energy_2_2022"
   }
  ],
  "Handheld Group": [
@@ -104895,6 +104902,11 @@
    "device": "longshan",
    "name": "Smart TV",
    "model": "AI PONT"
+  },
+  {
+   "device": "mateo",
+   "name": "Smart TV",
+   "model": "2K PA Smart TV"
   },
   {
    "device": "redwood",

@@ -7128,6 +7128,11 @@
   },
   {
    "brand": "Nokia",
+   "device": "mateo",
+   "model": "2K PA Smart TV"
+  },
+  {
+   "brand": "Nokia",
    "device": "redwood",
    "model": "AI PONT"
   },
@@ -53222,6 +53227,13 @@
    "model": "Eclipse_G500M"
   }
  ],
+ "RSE": [
+  {
+   "brand": "E-LEAD",
+   "device": "RSE",
+   "model": "EL-712"
+  }
+ ],
  "A10_SMART": [
   {
    "brand": "E-TACHI",
@@ -74265,6 +74277,13 @@
    "model": "XZPAD470LTE"
   }
  ],
+ "Energy_2_2022_EEA": [
+  {
+   "brand": "Hammer",
+   "device": "Energy_2_2022",
+   "model": "Hammer_Energy_2_2022"
+  }
+ ],
  "Hammer Blade 3": [
   {
    "brand": "Hammer",
@@ -74291,13 +74310,6 @@
    "brand": "Hammer",
    "device": "Hammer_Expl_Pro",
    "model": "Hammer_Explorer_Pro"
-  }
- ],
- "Hammer_Energy_2_2022": [
-  {
-   "brand": "Hammer",
-   "device": "Energy_2_2022",
-   "model": "Hammer_Energy_2_2022"
   }
  ],
  "ALGIZ RT10": [

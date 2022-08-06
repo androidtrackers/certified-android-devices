@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-08-05
+Last sync is 2022-08-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6178,6 +6178,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |E-Boda|Eclipse G400M|Eclipse_G400M|Eclipse_G400M|
 |E-Boda|Eclipse G500HD|E-Boda_Eclipse_G500HD|Eclipse G500HD|
 |E-Boda|Eclipse G500M|Eclipse_G500M|Eclipse_G500M|
+|E-LEAD|RSE|RSE|EL-712|
 |E-TACHI|A10_SMART|A10_SMART|A10_SMART|
 |E-TACHI|A5SLIM|A5SLIM|A5SLIM|
 |E-TACHI|A8_SMART|A8_SMART|A8_SMART|
@@ -9295,11 +9296,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hamlet|XZPAD414LTE|XZPAD414LTE|XZPAD414LTE|
 |Hamlet|XZPAD414W|XZPAD414W|XZPAD414W|
 |Hamlet|XZPAD470LTE|XZPAD470LTE|XZPAD470LTE|
+|Hammer|Energy_2_2022_EEA|Energy_2_2022|Hammer_Energy_2_2022|
 |Hammer|Hammer Blade 3|Hammer_Blade_3|Hammer_Blade_3|
 |Hammer|Hammer Blade 5G|Hammer_Blade_5G|Hammer_Blade_5G|
 |Hammer|Hammer Explorer Plus|Explorer_Plus|Hammer_Explorer_Plus|
 |Hammer|Hammer Explorer Pro|Hammer_Expl_Pro|Hammer_Explorer_Pro|
-|Hammer|Hammer_Energy_2_2022|Energy_2_2022|Hammer_Energy_2_2022|
 |Handheld Group|ALGIZ RT10|ALGIZ_RT10|ALGIZ_RT10|
 |Handheld Group|ALGIZ RT8|ALGIZ_RT8|ALGIZ_RT8|
 |Handheld Group|Algiz RT7|algizRT7|Algiz RT7|
@@ -20405,6 +20406,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia XR20|TTG_sprout|Nokia XR20|
 |Nokia|R4|R4|R4|
 |Nokia|Smart TV|longshan|AI PONT|
+|Nokia|Smart TV|mateo|2K PA Smart TV|
 |Nokia|Smart TV|redwood|AI PONT|
 |Nomi|CORSA 3 LTE|Nomi_C070030|Nomi_C070030|
 |Nomi|Corsa 3 3G|Nomi_C070012|Nomi_C070012|
