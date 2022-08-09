@@ -1004,6 +1004,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "KTC",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "LikeMe",
    "model": "4K SMART TV"
   },
@@ -1221,6 +1226,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "KTC",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "Maxsonic_elite",
    "model": "2K SMART TV"
   },
@@ -1258,6 +1268,11 @@
    "brand": "KTCtv",
    "name": "SA",
    "model": "F VIZZION TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "VISTA",
+   "model": "2K SMART TV"
   },
   {
    "brand": "KTCtv",
@@ -3606,6 +3621,16 @@
    "model": "R3"
   },
   {
+   "brand": "Aiwa",
+   "name": "Android TV",
+   "model": "R3"
+  },
+  {
+   "brand": "Alhafidh",
+   "name": "Android TV",
+   "model": "R3"
+  },
+  {
    "brand": "Artel",
    "name": "Android TV",
    "model": "R3"
@@ -3631,6 +3656,16 @@
    "model": "R3"
   },
   {
+   "brand": "Challenger",
+   "name": "Android TV",
+   "model": "R3"
+  },
+  {
+   "brand": "EVVO",
+   "name": "Android TV",
+   "model": "R3"
+  },
+  {
    "brand": "EssentielB",
    "name": "Android TV",
    "model": "R3"
@@ -3651,7 +3686,17 @@
    "model": "R3"
   },
   {
+   "brand": "Hyundai",
+   "name": "Android TV",
+   "model": "R3"
+  },
+  {
    "brand": "Kalley",
+   "name": "Android TV",
+   "model": "R3"
+  },
+  {
+   "brand": "LLOYD",
    "name": "Android TV",
    "model": "R3"
   },
@@ -3663,6 +3708,11 @@
   {
    "brand": "Mobicell",
    "name": "R3",
+   "model": "R3"
+  },
+  {
+   "brand": "Mystic",
+   "name": "Android TV",
    "model": "R3"
   },
   {
@@ -3728,7 +3778,17 @@
    "model": "R4"
   },
   {
+   "brand": "Aiwa",
+   "name": "Android TV",
+   "model": "R4"
+  },
+  {
    "brand": "Alhafidh",
+   "name": "Android TV",
+   "model": "R4"
+  },
+  {
+   "brand": "Amstrad",
    "name": "Android TV",
    "model": "R4"
   },
@@ -3744,6 +3804,16 @@
   },
   {
    "brand": "Casper",
+   "name": "Android TV",
+   "model": "R4"
+  },
+  {
+   "brand": "Challenger",
+   "name": "Android TV",
+   "model": "R4"
+  },
+  {
+   "brand": "EVVO",
    "name": "Android TV",
    "model": "R4"
   },
@@ -3768,6 +3838,11 @@
    "model": "R4"
   },
   {
+   "brand": "Hyundai",
+   "name": "Android TV",
+   "model": "R4"
+  },
+  {
    "brand": "IRIS_OHYAMA",
    "name": "Android TV",
    "model": "R4"
@@ -3778,12 +3853,27 @@
    "model": "R4"
   },
   {
+   "brand": "Kalley",
+   "name": "Android TV",
+   "model": "R4"
+  },
+  {
+   "brand": "MIRAY",
+   "name": "Android TV",
+   "model": "R4"
+  },
+  {
    "brand": "Mobicell",
    "name": "R4",
    "model": "R4"
   },
   {
    "brand": "Motorola",
+   "name": "Android TV",
+   "model": "R4"
+  },
+  {
+   "brand": "Mystic",
    "name": "Android TV",
    "model": "R4"
   },
@@ -32234,6 +32324,11 @@
    "brand": "SWTV",
    "name": "SW-22SA",
    "model": "SW-22SA"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SW-22SA NF",
+   "model": "SW-22SA NF"
   },
   {
    "brand": "SWTV",
@@ -75942,6 +76037,13 @@
    "brand": "Honor",
    "name": "HONOR X8",
    "model": "TFY-LX3"
+  }
+ ],
+ "HNVNE-Q": [
+  {
+   "brand": "Honor",
+   "name": "HONOR X8 5G",
+   "model": "VNE-N41"
   }
  ],
  "HZ0010": [
@@ -125966,6 +126068,13 @@
    "model": "MI86"
   }
  ],
+ "MP0101632": [
+  {
+   "brand": "Mio Tab",
+   "name": "MP0101632",
+   "model": "MP0101632"
+  }
+ ],
  "MioTab2016": [
   {
    "brand": "Mio Tab",
@@ -145885,6 +145994,13 @@
    "model": "PET 1081-LH332S"
   }
  ],
+ "PET-882-H232S": [
+  {
+   "brand": "PEAQ",
+   "name": "PET-882-H232S",
+   "model": "PET-882-H232S"
+  }
+ ],
  "MyTab_A8": [
   {
    "brand": "PERSONA",
@@ -156333,6 +156449,13 @@
    "model": "QT2110BP"
   }
  ],
+ "QT22101B": [
+  {
+   "brand": "Qilive",
+   "name": "QT22101B",
+   "model": "QT22101B"
+  }
+ ],
  "R106": [
   {
    "brand": "Qisur",
@@ -164417,6 +164540,33 @@
    "brand": "Samsung",
    "name": "Galaxy A23",
    "model": "SM-A235N"
+  }
+ ],
+ "a23xq": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A23 5G",
+   "model": "SM-A236B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A23 5G",
+   "model": "SM-A236E"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A23 5G",
+   "model": "SM-A236M"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A23 5G",
+   "model": "SM-A236U1"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A23 5G",
+   "model": "SM-S236DL"
   }
  ],
  "a33g": [

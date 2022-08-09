@@ -7902,6 +7902,16 @@
   },
   {
    "brand": "Aiwa",
+   "device": "R3",
+   "model": "R3"
+  },
+  {
+   "brand": "Aiwa",
+   "device": "R4",
+   "model": "R4"
+  },
+  {
+   "brand": "Aiwa",
    "device": "ikebukuro",
    "model": "AI PONT"
   },
@@ -7922,6 +7932,11 @@
   },
   {
    "brand": "Alhafidh",
+   "device": "R3",
+   "model": "R3"
+  },
+  {
+   "brand": "Alhafidh",
    "device": "R4",
    "model": "R4"
   },
@@ -7929,6 +7944,11 @@
    "brand": "Amstrad",
    "device": "R2",
    "model": "ATV R2"
+  },
+  {
+   "brand": "Amstrad",
+   "device": "R4",
+   "model": "R4"
   },
   {
    "brand": "Artel",
@@ -8016,6 +8036,16 @@
    "model": "ATV R2"
   },
   {
+   "brand": "Challenger",
+   "device": "R3",
+   "model": "R3"
+  },
+  {
+   "brand": "Challenger",
+   "device": "R4",
+   "model": "R4"
+  },
+  {
    "brand": "Compaq",
    "device": "R1",
    "model": "ATV R1"
@@ -8064,6 +8094,16 @@
    "brand": "EVVO",
    "device": "R2",
    "model": "ATV R2"
+  },
+  {
+   "brand": "EVVO",
+   "device": "R3",
+   "model": "R3"
+  },
+  {
+   "brand": "EVVO",
+   "device": "R4",
+   "model": "R4"
   },
   {
    "brand": "Erito",
@@ -8162,6 +8202,16 @@
   },
   {
    "brand": "Hyundai",
+   "device": "R3",
+   "model": "R3"
+  },
+  {
+   "brand": "Hyundai",
+   "device": "R4",
+   "model": "R4"
+  },
+  {
+   "brand": "Hyundai",
    "device": "redwood",
    "model": "AI PONT NA"
   },
@@ -8211,6 +8261,11 @@
    "model": "R3"
   },
   {
+   "brand": "Kalley",
+   "device": "R4",
+   "model": "R4"
+  },
+  {
    "brand": "LGE",
    "device": "cosmo",
    "model": "LG Google TV"
@@ -8241,6 +8296,11 @@
    "model": "ATV R2"
   },
   {
+   "brand": "LLOYD",
+   "device": "R3",
+   "model": "R3"
+  },
+  {
    "brand": "LUCOMS",
    "device": "R1",
    "model": "ATV R1"
@@ -8259,6 +8319,11 @@
    "brand": "MIRAY",
    "device": "R2",
    "model": "ATV R2"
+  },
+  {
+   "brand": "MIRAY",
+   "device": "R4",
+   "model": "R4"
   },
   {
    "brand": "Master-G",
@@ -8324,6 +8389,16 @@
    "brand": "Mystic",
    "device": "R2",
    "model": "ATV R2"
+  },
+  {
+   "brand": "Mystic",
+   "device": "R3",
+   "model": "R3"
+  },
+  {
+   "brand": "Mystic",
+   "device": "R4",
+   "model": "R4"
   },
   {
    "brand": "NGM Italia SRL",
@@ -80646,6 +80721,13 @@
    "model": "TFY-LX3"
   }
  ],
+ "HONOR X8 5G": [
+  {
+   "brand": "Honor",
+   "device": "HNVNE-Q",
+   "model": "VNE-N41"
+  }
+ ],
  "HONOR X9": [
   {
    "brand": "Honor",
@@ -99225,6 +99307,18 @@
    "model": "CSV4K"
   }
  ],
+ "KTC": [
+  {
+   "brand": "KTCtv",
+   "device": "stanford",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
+  }
+ ],
  "LikeMe": [
   {
    "brand": "KTCtv",
@@ -99297,6 +99391,11 @@
   }
  ],
  "VISTA": [
+  {
+   "brand": "KTCtv",
+   "device": "stanford",
+   "model": "2K SMART TV"
+  },
   {
    "brand": "KTCtv",
    "device": "zhongshan",
@@ -126953,6 +127052,13 @@
    "model": "MI86"
   }
  ],
+ "MP0101632": [
+  {
+   "brand": "Mio Tab",
+   "device": "MP0101632",
+   "model": "MP0101632"
+  }
+ ],
  "MioTab": [
   {
    "brand": "Mio Tab",
@@ -146046,6 +146152,13 @@
    "model": "PET 1081-LH332S"
   }
  ],
+ "PET-882-H232S": [
+  {
+   "brand": "PEAQ",
+   "device": "PET-882-H232S",
+   "model": "PET-882-H232S"
+  }
+ ],
  "MyTab_A8": [
   {
    "brand": "PERSONA",
@@ -156674,6 +156787,13 @@
    "model": "QT2110BP"
   }
  ],
+ "QT22101B": [
+  {
+   "brand": "Qilive",
+   "device": "QT22101B",
+   "model": "QT22101B"
+  }
+ ],
  "X72": [
   {
    "brand": "Qisur",
@@ -163665,6 +163785,13 @@
    "model": "SW-22SA"
   }
  ],
+ "SW-22SA NF": [
+  {
+   "brand": "SWTV",
+   "device": "SW6H",
+   "model": "SW-22SA NF"
+  }
+ ],
  "SWTV-20AE": [
   {
    "brand": "SWTV",
@@ -164755,6 +164882,33 @@
    "brand": "Samsung",
    "device": "a23",
    "model": "SM-A235N"
+  }
+ ],
+ "Galaxy A23 5G": [
+  {
+   "brand": "Samsung",
+   "device": "a23xq",
+   "model": "SM-A236B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a23xq",
+   "model": "SM-A236E"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a23xq",
+   "model": "SM-A236M"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a23xq",
+   "model": "SM-A236U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a23xq",
+   "model": "SM-S236DL"
   }
  ],
  "Galaxy A3": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-08-08
+Last sync is 2022-08-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -748,6 +748,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiwa|AWM999|AWM999|AWM999|
 |Aiwa|AWT10H|AWT10H|AWT10H|
 |Aiwa|Aiwa|KSTB6043|KSTB6043|
+|Aiwa|Android TV|R3|R3|
+|Aiwa|Android TV|R4|R4|
 |Aiwa|Android TV|ikebukuro|AI PONT|
 |Aiwa|Android TV|samseong|AI PONT|
 |Aiwa|JA2-TBA1001|JA2-TBA1001|JA2-TBA1001|
@@ -798,6 +800,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Algar|GIU6770|GIU6770|GIU6770|
 |Alhafidh|Android TV|R1|ATV R1|
 |Alhafidh|Android TV|R2|ATV R2|
+|Alhafidh|Android TV|R3|R3|
 |Alhafidh|Android TV|R4|R4|
 |Aligator|ALIGATOR RX800|ALIGATOR_RX800|ALIGATOR RX800|
 |Aligator|ALIGATOR S5070|ALIGATOR_S5070|ALIGATOR S5070|
@@ -1139,6 +1142,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Amplify|TR10CD3|TR10CD3_1|TR10CD3|
 |Amplify|TR10CD3|TR10CD3_2|TR10CD3|
 |Amstrad|Android TV|R2|ATV R2|
+|Amstrad|Android TV|R4|R4|
 |Andersson|TBQ-7321|TBQ-7321|TBQ-7321|
 |Andersson|TBQ10322|TBQ10322|TBQ10322|
 |Andersson|TBQ8322|TBQ8322|TBQ8322|
@@ -4179,6 +4183,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Challenger|4K Smart TV|gangbyeon|Challenger 4K AI Smart TV|
 |Challenger|Android TV|R1|ATV R1|
 |Challenger|Android TV|R2|ATV R2|
+|Challenger|Android TV|R3|R3|
+|Challenger|Android TV|R4|R4|
 |Challenger|Smart TV|osaki|2K AI Smart TV|
 |Challenger|challenger|stanford|40DCOL|
 |Challenger|challenger|zhongshan|43FCOL|
@@ -6378,6 +6384,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EVOFORCE1|FRC1-RCN|SEI800RCN|FRC1-RCN|
 |EVVO|Android TV|R1|ATV R1|
 |EVVO|Android TV|R2|ATV R2|
+|EVVO|Android TV|R3|R3|
+|EVVO|Android TV|R4|R4|
 |EWIS|OCTA-T700M|OCTA-T700M|EWIS OCTA-T700M|
 |EWIS|OCTA-T700M-T2|OCTA-T700M-T2|OCTA-T700M-T2|
 |EWIS|T800MC|T800MC|T800MC|
@@ -10348,6 +10356,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X8|HNTFY-Q|TFY-LX1|
 |Honor|HONOR X8|HNTFY-Q|TFY-LX2|
 |Honor|HONOR X8|HNTFY-Q|TFY-LX3|
+|Honor|HONOR X8 5G|HNVNE-Q|VNE-N41|
 |Honor|HONOR X9|HNANY-Q1|ANY-LX1|
 |Honor|HONOR X9|HNANY-Q1|ANY-LX2|
 |Honor|HONOR X9|HNANY-Q1|ANY-LX3|
@@ -12078,6 +12087,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|A26062k|A26062K|A26062K|
 |Hyundai|Android TV|R1|ATV R1|
 |Hyundai|Android TV|R2|ATV R2|
+|Hyundai|Android TV|R3|R3|
+|Hyundai|Android TV|R4|R4|
 |Hyundai|Android TV|redwood|AI PONT NA|
 |Hyundai|Android TV|redwood|AI PONT SA|
 |Hyundai|Blade_C5|Blade_C5|Blade_C5|
@@ -13694,6 +13705,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|Golbal|zhongshan|CSV4K|
 |KTCtv|INNOVA|stanford|CSV2K|
 |KTCtv|INNOVA|zhongshan|CSV4K|
+|KTCtv|KTC|stanford|2K SMART TV|
+|KTCtv|KTC|zhongshan|4K SMART TV|
 |KTCtv|LikeMe|zhongshan|4K SMART TV|
 |KTCtv|Maxsonic_elite|stanford|2K SMART TV|
 |KTCtv|Maxsonic_elite|zhongshan|4K SMART TV|
@@ -13709,6 +13722,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|SA|zhongshan|43FSA|
 |KTCtv|Siera|zhongshan|4K Siera SMART TV|
 |KTCtv|Telsa|zhongshan|Tesla 4K Android TV|
+|KTCtv|VISTA|stanford|2K SMART TV|
 |KTCtv|VISTA|zhongshan|4K SMART TV|
 |KTCtv|Zitro|stanford|40DSA|
 |KTCtv|Zitro|zhongshan|43FSA|
@@ -13731,6 +13745,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kalley|Android TV|R1|ATV R1|
 |Kalley|Android TV|R2|ATV R2|
 |Kalley|Android TV|R3|R3|
+|Kalley|Android TV|R4|R4|
 |Kalley|BLACK_PRO|BLACK_PRO|BLACK_PRO|
 |Kalley|Black|Black|Black|
 |Kalley|Black G|Black_G|Black G|
@@ -15691,6 +15706,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LLA|VIP6102W-LLA|vip6102w|VIP6102W|
 |LLOYD|Android TV|R1|ATV R1|
 |LLOYD|Android TV|R2|ATV R2|
+|LLOYD|Android TV|R3|R3|
 |LNMBBS|H11-EEA|H11-EEA|H11-EEA|
 |LNMBBS|L18|L18|L18|
 |LNMBBS|L18-EEA|L18-EEA|L18-EEA|
@@ -17418,6 +17434,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MINIX|MINIX NEO T5|DV8553|DV8553|
 |MIRAY|Android TV|R1|ATV R1|
 |MIRAY|Android TV|R2|ATV R2|
+|MIRAY|Android TV|R4|R4|
 |MIRAY|MIDM_737|MIDM_737|MIDM_737|
 |MIRAY|MIDM_F10|MIDM_F10|MIDM_F10|
 |MIRAY|TPM4G_105|TPM4G_105|TPM4G_105|
@@ -18423,6 +18440,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mio Tab|MI106|MI106|MI106|
 |Mio Tab|MI706|MI706|MI706|
 |Mio Tab|MI86|MI86|MI86|
+|Mio Tab|MP0101632|MP0101632|MP0101632|
 |Mio Tab|MioTab|MioTab2016|MioTab 2016|
 |Mio Tab|MioTab2017|MioTab2017|MioTab2017|
 |Mio Tab|Mio_Tab_2019|Mio_Tab_2019|Mio_Tab_2019|
@@ -19788,6 +19806,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Myros|E70 Ultra|E70_Ultra|E70 Ultra|
 |Mystic|Android TV|R1|ATV R1|
 |Mystic|Android TV|R2|ATV R2|
+|Mystic|Android TV|R3|R3|
+|Mystic|Android TV|R4|R4|
 |Mytron|Pad_60|Pad_60|Pad_60|
 |NAGU|R1|NAGU_R1|R1|
 |NASCO|Allure_Plus|NASCO_Allure_Plus|NASCO_Allure_Plus|
@@ -21626,6 +21646,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEAQ|PET-102-H232S|PET-102-H232S|PET-102-H232S|
 |PEAQ|PET-1081-H232S|PET-1081-H232S|PET 1081-H232S|
 |PEAQ|PET-1081-LH332S|PET-1081-LH332S|PET 1081-LH332S|
+|PEAQ|PET-882-H232S|PET-882-H232S|PET-882-H232S|
 |PERSONA|MyTab_A8|MyTab_A8|MyTab_A8|
 |PHILCO (ar)|P510|P510|P510|
 |PHILCO (ar)|P610|P610|P610|
@@ -23311,6 +23332,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Qilive|QT201101L|QT21101L_232_EEA|QT21101L|
 |Qilive|QT2108BP|QT2108BP|QT2108BP|
 |Qilive|QT2110BP|QT2110BP|QT2110BP|
+|Qilive|QT22101B|QT22101B|QT22101B|
 |Qilive|W55|W55|W55|
 |Qisur|R106|R106|R106|
 |Qisur|X72|X72|X72|
@@ -24416,6 +24438,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SWTV|SW-22AE NF|SW6H|SW-22AE NF|
 |SWTV|SW-22NA NF|SW6H|SW-22NA NF|
 |SWTV|SW-22SA|SW6H|SW-22SA|
+|SWTV|SW-22SA NF|SW6H|SW-22SA NF|
 |SWTV|SWTV-20AE|SW4H|SWTV-20AE|
 |SWTV|SWTV-20AE-PRO|SW4H_FF|SWTV-20AE-PRO|
 |SWTV|SWTV-20HK|SW4H|SWTV-20HK|
@@ -24645,6 +24668,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A23|a23|SM-A235F|
 |Samsung|Galaxy A23|a23|SM-A235M|
 |Samsung|Galaxy A23|a23|SM-A235N|
+|Samsung|Galaxy A23 5G|a23xq|SM-A236B|
+|Samsung|Galaxy A23 5G|a23xq|SM-A236E|
+|Samsung|Galaxy A23 5G|a23xq|SM-A236M|
+|Samsung|Galaxy A23 5G|a23xq|SM-A236U1|
+|Samsung|Galaxy A23 5G|a23xq|SM-S236DL|
 |Samsung|Galaxy A3|a33g|SM-A300H|
 |Samsung|Galaxy A3|a3lte|SM-A300F|
 |Samsung|Galaxy A3|a3lte|SM-A300M|
