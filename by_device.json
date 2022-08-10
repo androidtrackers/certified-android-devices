@@ -70066,13 +70066,6 @@
    "model": "XZPAD470LTE"
   }
  ],
- "Energy_2_2022": [
-  {
-   "brand": "Hammer",
-   "name": "Energy_2_2022_EEA",
-   "model": "Hammer_Energy_2_2022"
-  }
- ],
  "Hammer_Blade_3": [
   {
    "brand": "Hammer",
@@ -70085,6 +70078,13 @@
    "brand": "Hammer",
    "name": "Hammer Blade 5G",
    "model": "Hammer_Blade_5G"
+  }
+ ],
+ "Energy_2_2022": [
+  {
+   "brand": "Hammer",
+   "name": "Hammer Energy 2 2022",
+   "model": "Hammer_Energy_2_2022"
   }
  ],
  "Explorer_Plus": [
@@ -70153,13 +70153,6 @@
    "model": "NAUTIZ_X6P"
   }
  ],
- "alta_EEA": [
-  {
-   "brand": "Handheld Group",
-   "name": "Nautiz X2",
-   "model": "Nautiz X2"
-  }
- ],
  "alta_GL": [
   {
    "brand": "Handheld Group",
@@ -70167,17 +70160,24 @@
    "model": "Nautiz X2"
   }
  ],
- "albatross_EEA": [
+ "alta_EEA": [
   {
    "brand": "Handheld Group",
-   "name": "Nautiz X41",
-   "model": "Nautiz X41"
+   "name": "Nautiz X2 EEA",
+   "model": "Nautiz X2"
   }
  ],
  "albatross_GL": [
   {
    "brand": "Handheld Group",
    "name": "Nautiz X41",
+   "model": "Nautiz X41"
+  }
+ ],
+ "albatross_EEA": [
+  {
+   "brand": "Handheld Group",
+   "name": "Nautiz X41 EEA",
    "model": "Nautiz X41"
   }
  ],

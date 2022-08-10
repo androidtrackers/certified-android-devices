@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-08-09
+Last sync is 2022-08-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9304,9 +9304,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hamlet|XZPAD414LTE|XZPAD414LTE|XZPAD414LTE|
 |Hamlet|XZPAD414W|XZPAD414W|XZPAD414W|
 |Hamlet|XZPAD470LTE|XZPAD470LTE|XZPAD470LTE|
-|Hammer|Energy_2_2022_EEA|Energy_2_2022|Hammer_Energy_2_2022|
 |Hammer|Hammer Blade 3|Hammer_Blade_3|Hammer_Blade_3|
 |Hammer|Hammer Blade 5G|Hammer_Blade_5G|Hammer_Blade_5G|
+|Hammer|Hammer Energy 2 2022|Energy_2_2022|Hammer_Energy_2_2022|
 |Hammer|Hammer Explorer Plus|Explorer_Plus|Hammer_Explorer_Plus|
 |Hammer|Hammer Explorer Pro|Hammer_Expl_Pro|Hammer_Explorer_Pro|
 |Handheld Group|ALGIZ RT10|ALGIZ_RT10|ALGIZ_RT10|
@@ -9316,10 +9316,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Handheld Group|NAUTIZ X6|NAUTIZ_X6|NAUTIZ_X6|
 |Handheld Group|NAUTIZ X6|NAUTIZ_X6P|NAUTIZ_X6P|
 |Handheld Group|NAUTIZ_X6|NAUTIZ_X6|NAUTIZ_X6|
-|Handheld Group|Nautiz X2|alta_EEA|Nautiz X2|
 |Handheld Group|Nautiz X2|alta_GL|Nautiz X2|
-|Handheld Group|Nautiz X41|albatross_EEA|Nautiz X41|
+|Handheld Group|Nautiz X2 EEA|alta_EEA|Nautiz X2|
 |Handheld Group|Nautiz X41|albatross_GL|Nautiz X41|
+|Handheld Group|Nautiz X41 EEA|albatross_EEA|Nautiz X41|
 |Handheld Group|Nautiz X9|Nautiz_X9P|Nautiz X9P|
 |Handheld Group|Nautiz_X2|NAUTIZ_X2|NAUTIZ_X2|
 |Handheld Group|Nautiz_X9|Nautiz_X9|Nautiz_X9|

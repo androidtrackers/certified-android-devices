@@ -48210,11 +48210,6 @@
  ],
  "Hammer": [
   {
-   "device": "Energy_2_2022",
-   "name": "Energy_2_2022_EEA",
-   "model": "Hammer_Energy_2_2022"
-  },
-  {
    "device": "Hammer_Blade_3",
    "name": "Hammer Blade 3",
    "model": "Hammer_Blade_3"
@@ -48223,6 +48218,11 @@
    "device": "Hammer_Blade_5G",
    "name": "Hammer Blade 5G",
    "model": "Hammer_Blade_5G"
+  },
+  {
+   "device": "Energy_2_2022",
+   "name": "Hammer Energy 2 2022",
+   "model": "Hammer_Energy_2_2022"
   },
   {
    "device": "Explorer_Plus",
@@ -48272,23 +48272,23 @@
    "model": "NAUTIZ_X6"
   },
   {
-   "device": "alta_EEA",
-   "name": "Nautiz X2",
-   "model": "Nautiz X2"
-  },
-  {
    "device": "alta_GL",
    "name": "Nautiz X2",
    "model": "Nautiz X2"
   },
   {
-   "device": "albatross_EEA",
-   "name": "Nautiz X41",
-   "model": "Nautiz X41"
+   "device": "alta_EEA",
+   "name": "Nautiz X2 EEA",
+   "model": "Nautiz X2"
   },
   {
    "device": "albatross_GL",
    "name": "Nautiz X41",
+   "model": "Nautiz X41"
+  },
+  {
+   "device": "albatross_EEA",
+   "name": "Nautiz X41 EEA",
    "model": "Nautiz X41"
   },
   {
