@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-08-10
+Last sync is 2022-08-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12598,6 +12598,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|NOTE 12|Infinix-X670|Infinix X670|
 |Infinix|NOTE 12 PRO|Infinix-X676B|Infinix X676B|
 |Infinix|NOTE 12 VIP|Infinix-X672|Infinix X672|
+|Infinix|NOTE 12i 2022|Infinix-X677|Infinix X677|
 |Infinix|NOTE 3|X601|Infinix NOTE 3|
 |Infinix|NOTE 3 Pro|X601-3G|Infinix NOTE 3 Pro|
 |Infinix|NOTE 3 Pro|X601-LTE|Infinix NOTE 3 Pro|
@@ -21642,6 +21643,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PCD Argentina|PL571US|PL571US|PL571US|
 |PCD Argentina|PL620|PL620|PL620|
 |PEAQ|PET-101-F464S|PET-101-F464S|PET-101-F464S|
+|PEAQ|PET-101-H232E|PET-101-H232E|PET 101-H232E|
 |PEAQ|PET-101-H332S-W|PET-101-H332S-W|PET 101-H332S-W|
 |PEAQ|PET-102-H232S|PET-102-H232S|PET-102-H232S|
 |PEAQ|PET-1081-H232S|PET-1081-H232S|PET 1081-H232S|
@@ -31335,6 +31337,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|POVA|TECNO-LD7|TECNO LD7|
 |Tecno|POVA|TECNO-LD7j|TECNO LD7j|
 |Tecno|POVA Neo|TECNO-LE6|TECNO LE6|
+|Tecno|POVA Neo 2|TECNO-LG6n|TECNO LG6n|
 |Tecno|Phantom 9|TECNO-AB7|TECNO AB7|
 |Tecno|Phantom6|Phantom6|Phantom6|
 |Tecno|Phantom6 plus|Phantom6-Plus|Phantom6-Plus|
@@ -33207,6 +33210,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2148A|PD2148|V2148A|
 |Vivo|V2152|2110|V2152|
 |Vivo|V2156A|PD2156|V2156A|
+|Vivo|V2156FA|PD2156U|V2156FA|
 |Vivo|V2157A|PD2157|V2157A|
 |Vivo|V2158A|PD2158|V2158A|
 |Vivo|V2162|2120|V2162|
@@ -33423,6 +33427,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo X9s Plus|PD1635|vivo PD1635|
 |Vivo|vivo X9s Plus|PD1635|vivo X9s Plus|
 |Vivo|vivo Y11|Y11|vivo Y11|
+|Vivo|vivo Y22|V2207|V2207|
 |Vivo|vivo Y22|Y22|vivo Y22|
 |Vivo|vivo Y28|Y28|vivo Y28|
 |Vivo|vivo Y65|1719|vivo 1719|

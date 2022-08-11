@@ -89634,6 +89634,13 @@
    "device": "Infinix-X672"
   }
  ],
+ "Infinix X677": [
+  {
+   "brand": "Infinix",
+   "name": "NOTE 12i 2022",
+   "device": "Infinix-X677"
+  }
+ ],
  "Infinix NOTE 3": [
   {
    "brand": "Infinix",
@@ -148619,6 +148626,13 @@
    "brand": "PEAQ",
    "name": "PET-101-F464S",
    "device": "PET-101-F464S"
+  }
+ ],
+ "PET 101-H232E": [
+  {
+   "brand": "PEAQ",
+   "name": "PET-101-H232E",
+   "device": "PET-101-H232E"
   }
  ],
  "PET 101-H332S-W": [
@@ -212863,6 +212877,13 @@
    "device": "TECNO-LE6"
   }
  ],
+ "TECNO LG6n": [
+  {
+   "brand": "Tecno",
+   "name": "POVA Neo 2",
+   "device": "TECNO-LG6n"
+  }
+ ],
  "TECNO AB7": [
   {
    "brand": "Tecno",
@@ -224587,6 +224608,13 @@
    "device": "PD2156"
   }
  ],
+ "V2156FA": [
+  {
+   "brand": "Vivo",
+   "name": "V2156FA",
+   "device": "PD2156U"
+  }
+ ],
  "V2157A": [
   {
    "brand": "Vivo",
@@ -226036,6 +226064,13 @@
    "brand": "Vivo",
    "name": "vivo X9s Plus",
    "device": "PD1635"
+  }
+ ],
+ "V2207": [
+  {
+   "brand": "Vivo",
+   "name": "vivo Y22",
+   "device": "V2207"
   }
  ],
  "vivo 1719": [

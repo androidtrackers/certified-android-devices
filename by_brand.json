@@ -64900,6 +64900,11 @@
    "model": "Infinix X672"
   },
   {
+   "device": "Infinix-X677",
+   "name": "NOTE 12i 2022",
+   "model": "Infinix X677"
+  },
+  {
    "device": "X601",
    "name": "NOTE 3",
    "model": "Infinix NOTE 3"
@@ -111268,6 +111273,11 @@
    "device": "PET-101-F464S",
    "name": "PET-101-F464S",
    "model": "PET-101-F464S"
+  },
+  {
+   "device": "PET-101-H232E",
+   "name": "PET-101-H232E",
+   "model": "PET 101-H232E"
   },
   {
    "device": "PET-101-H332S-W",
@@ -160703,6 +160713,11 @@
    "model": "TECNO LE6"
   },
   {
+   "device": "TECNO-LG6n",
+   "name": "POVA Neo 2",
+   "model": "TECNO LG6n"
+  },
+  {
    "device": "TECNO-AB7",
    "name": "Phantom 9",
    "model": "TECNO AB7"
@@ -170477,6 +170492,11 @@
    "model": "V2156A"
   },
   {
+   "device": "PD2156U",
+   "name": "V2156FA",
+   "model": "V2156FA"
+  },
+  {
    "device": "PD2157",
    "name": "V2157A",
    "model": "V2157A"
@@ -171555,6 +171575,11 @@
    "device": "Y11",
    "name": "vivo Y11",
    "model": "vivo Y11"
+  },
+  {
+   "device": "V2207",
+   "name": "vivo Y22",
+   "model": "V2207"
   },
   {
    "device": "Y22",
