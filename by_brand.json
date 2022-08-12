@@ -23415,6 +23415,11 @@
    "model": "1100AS_plus"
   },
   {
+   "device": "1200AS",
+   "name": "1200AS",
+   "model": "1200AS"
+  },
+  {
    "device": "TF10EA2_5",
    "name": "TF10EA2",
    "model": "TF10EA2"
@@ -108758,7 +108763,7 @@
   },
   {
    "device": "OP532FL1",
-   "name": "OPPO Reno7 Z 5G/F21 Pro 5G",
+   "name": "OPPO Reno7 Z 5G/F21 Pro 5G/Reno8 Lite 5G",
    "model": "CPH2343"
   },
   {
@@ -158138,6 +158143,11 @@
    "device": "TERRA_PAD_1006_V2",
    "name": "TERRA_PAD_1006_V2",
    "model": "TERRA_PAD_1006_V2"
+  },
+  {
+   "device": "TERRA_PAD_1200_V2",
+   "name": "TERRA_PAD_1200_V2",
+   "model": "TERRA_PAD_1200_V2"
   }
  ],
  "TES (Touch Embedded Solutions)": [
@@ -170542,6 +170552,11 @@
    "model": "V2166A"
   },
   {
+   "device": "PD2224",
+   "name": "V2166BA",
+   "model": "V2166BA"
+  },
+  {
    "device": "PD2168",
    "name": "V2168A",
    "model": "V2168A"
@@ -171620,11 +171635,6 @@
    "device": "PD2219",
    "name": "vivo Y77",
    "model": "V2219A"
-  },
-  {
-   "device": "PD2224",
-   "name": "vivo Y77e",
-   "model": "V2166BA"
   },
   {
    "device": "PD1803",
@@ -177547,6 +177557,11 @@
    "model": "2203121C"
   },
   {
+   "device": "diting",
+   "name": "Xiaomi 12T Pro",
+   "model": "22081212C"
+  },
+  {
    "device": "psyche",
    "name": "Xiaomi 12X",
    "model": "2112123AC"
@@ -177567,6 +177582,11 @@
    "model": "M2011J18C"
   },
   {
+   "device": "zizhan",
+   "name": "Xiaomi MIX Fold 2",
+   "model": "22061218C"
+  },
+  {
    "device": "nabu",
    "name": "Xiaomi Pad 5",
    "model": "21051182C"
@@ -177575,6 +177595,11 @@
    "device": "nabu",
    "name": "Xiaomi Pad 5",
    "model": "21051182G"
+  },
+  {
+   "device": "dagu",
+   "name": "Xiaomi Pad 5 Pro",
+   "model": "22081281AC"
   },
   {
    "device": "elish",

@@ -37077,6 +37077,13 @@
    "model": "1100AS_plus"
   }
  ],
+ "1200AS": [
+  {
+   "brand": "CoinComputers",
+   "name": "1200AS",
+   "model": "1200AS"
+  }
+ ],
  "TF10EA2_5": [
   {
    "brand": "CoinComputers",
@@ -142687,7 +142694,7 @@
   },
   {
    "brand": "Oppo",
-   "name": "OPPO Reno7 Z 5G/F21 Pro 5G",
+   "name": "OPPO Reno7 Z 5G/F21 Pro 5G/Reno8 Lite 5G",
    "model": "CPH2343"
   },
   {
@@ -201865,6 +201872,13 @@
    "model": "TERRA_PAD_1006_V2"
   }
  ],
+ "TERRA_PAD_1200_V2": [
+  {
+   "brand": "TERRA",
+   "name": "TERRA_PAD_1200_V2",
+   "model": "TERRA_PAD_1200_V2"
+  }
+ ],
  "igs-series": [
   {
    "brand": "TES (Touch Embedded Solutions)",
@@ -216223,6 +216237,13 @@
    "model": "V2197A"
   }
  ],
+ "PD2224": [
+  {
+   "brand": "Vivo",
+   "name": "V2166BA",
+   "model": "V2166BA"
+  }
+ ],
  "PD2168": [
   {
    "brand": "Vivo",
@@ -217585,13 +217606,6 @@
    "brand": "Vivo",
    "name": "vivo Y77",
    "model": "V2219A"
-  }
- ],
- "PD2224": [
-  {
-   "brand": "Vivo",
-   "name": "vivo Y77e",
-   "model": "V2166BA"
   }
  ],
  "PD1803": [
@@ -224358,6 +224372,13 @@
    "model": "2203121C"
   }
  ],
+ "diting": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 12T Pro",
+   "model": "22081212C"
+  }
+ ],
  "psyche": [
   {
    "brand": "Xiaomi",
@@ -224386,6 +224407,13 @@
    "model": "M2011J18C"
   }
  ],
+ "zizhan": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi MIX Fold 2",
+   "model": "22061218C"
+  }
+ ],
  "nabu": [
   {
    "brand": "Xiaomi",
@@ -224396,6 +224424,13 @@
    "brand": "Xiaomi",
    "name": "Xiaomi Pad 5",
    "model": "21051182G"
+  }
+ ],
+ "dagu": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Pad 5 Pro",
+   "model": "22081281AC"
   }
  ],
  "elish": [

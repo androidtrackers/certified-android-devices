@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-08-11
+Last sync is 2022-08-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4519,6 +4519,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cogeco|EPICO 4K|m393gena_c|EPICO 4K|
 |Cogeco|TV|uiw4020cog|TV|
 |CoinComputers|1100AS_plus|1100AS_plus|1100AS_plus|
+|CoinComputers|1200AS|1200AS|1200AS|
 |CoinComputers|TF10EA2|TF10EA2_5|TF10EA2|
 |ColorsMobile|P40_Pride_1|P40_Pride_1|P40_Pride_1|
 |ColorsMobile|P45|Colors_P45|Colors P45|
@@ -21149,7 +21150,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Reno7 A|OP532BL1|CPH2353|
 |Oppo|OPPO Reno7 A|OP532BL1|OPG04|
 |Oppo|OPPO Reno7 Z 5G|OP532FL1|CPH2343|
-|Oppo|OPPO Reno7 Z 5G/F21 Pro 5G|OP532FL1|CPH2343|
+|Oppo|OPPO Reno7 Z 5G/F21 Pro 5G/Reno8 Lite 5G|OP532FL1|CPH2343|
 |Oppo|OPPO Reno7/F21 Pro|OP533FL1|CPH2363|
 |Oppo|OPPO Watch|beluga|OPPO Watch|
 |Oppo|OPPO Watch|orca|OPPO Watch|
@@ -30850,6 +30851,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TERRA|TERRA_PAD_1005POKO|TERRA_PAD_1005POKO|TERRA_PAD_1005POKO|
 |TERRA|TERRA_PAD_1006|TERRA_PAD_1006|TERRA_PAD_1006|
 |TERRA|TERRA_PAD_1006_V2|TERRA_PAD_1006_V2|TERRA_PAD_1006_V2|
+|TERRA|TERRA_PAD_1200_V2|TERRA_PAD_1200_V2|TERRA_PAD_1200_V2|
 |TES (Touch Embedded Solutions)|igs-series|igs-series|igs-series|
 |TES (Touch Embedded Solutions)|igs-series-gen2|igs-series-gen2|igs-series-gen2|
 |TESPRO|Mayumi U1|Mayumi_U1|Mayumi U1|
@@ -33220,6 +33222,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2164PA|PD2164U|V2164PA|
 |Vivo|V2165A|PD2165|V2165A|
 |Vivo|V2166A|PD2166|V2166A|
+|Vivo|V2166BA|PD2224|V2166BA|
 |Vivo|V2168A|PD2168|V2168A|
 |Vivo|V2171A|PD2171|V2171A|
 |Vivo|V2172A|PD2172|V2172A|
@@ -33436,7 +33439,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo Y71A|PD1731|vivo Y71A|
 |Vivo|vivo Y75A|PD1718|vivo Y75A|
 |Vivo|vivo Y77|PD2219|V2219A|
-|Vivo|vivo Y77e|PD2224|V2166BA|
 |Vivo|vivo Y83A|PD1803|vivo Y83A|
 |Vivo|vivo Z1i|PD1730D|vivo Y89|
 |Vivo|vivo Z1i|PD1730D|vivo Z1i|
@@ -34583,12 +34585,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 12S|mayfly|2206123SC|
 |Xiaomi|Xiaomi 12S Pro|unicorn|2206122SC|
 |Xiaomi|Xiaomi 12S Ultra|thor|2203121C|
+|Xiaomi|Xiaomi 12T Pro|diting|22081212C|
 |Xiaomi|Xiaomi 12X|psyche|2112123AC|
 |Xiaomi|Xiaomi Civi|mona|2109119BC|
 |Xiaomi|Xiaomi Civi 1S|zijin|2109119BC|
 |Xiaomi|Xiaomi MIX Fold|cetus|M2011J18C|
+|Xiaomi|Xiaomi MIX Fold 2|zizhan|22061218C|
 |Xiaomi|Xiaomi Pad 5|nabu|21051182C|
 |Xiaomi|Xiaomi Pad 5|nabu|21051182G|
+|Xiaomi|Xiaomi Pad 5 Pro|dagu|22081281AC|
 |Xiaomi|Xiaomi Pad 5 Pro|elish|M2105K81AC|
 |Xiaomi|Xiaomi Pad 5 Pro 5G|enuma|M2105K81C|
 |Xiaomi|Xiaomi TV stick 4K|soul|MiTV-AYFR0|
