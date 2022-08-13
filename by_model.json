@@ -182544,6 +182544,13 @@
    "device": "gtactive3"
   }
  ],
+ "SM-T636B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab Active4 Pro 5G",
+   "device": "gtact4pro"
+  }
+ ],
  "SM-T583": [
   {
    "brand": "Samsung",
@@ -184861,6 +184868,97 @@
    "device": "wiseus"
   }
  ],
+ "SM-R910": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch5",
+   "device": "heartbl"
+  }
+ ],
+ "SM-R900": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch5",
+   "device": "heartbs"
+  }
+ ],
+ "SM-R9150": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch5",
+   "device": "heartul"
+  }
+ ],
+ "SM-R915F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch5",
+   "device": "heartul"
+  }
+ ],
+ "SM-R915N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch5",
+   "device": "heartul"
+  }
+ ],
+ "SM-R915U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch5",
+   "device": "heartul"
+  }
+ ],
+ "SM-R905F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch5",
+   "device": "heartus"
+  }
+ ],
+ "SM-R905N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch5",
+   "device": "heartus"
+  }
+ ],
+ "SM-R905U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch5",
+   "device": "heartus"
+  }
+ ],
+ "SM-R920": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch5",
+   "device": "projectxbl"
+  }
+ ],
+ "SM-R925F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch5",
+   "device": "projectxul"
+  }
+ ],
+ "SM-R925N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch5",
+   "device": "projectxul"
+  }
+ ],
+ "SM-R925U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch5",
+   "device": "projectxul"
+  }
+ ],
  "SM-G600S": [
   {
    "brand": "Samsung",
@@ -185550,6 +185648,41 @@
    "device": "b2q"
   }
  ],
+ "SM-F7210": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Flip4",
+   "device": "b4q"
+  }
+ ],
+ "SM-F721B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Flip4",
+   "device": "b4q"
+  }
+ ],
+ "SM-F721C": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Flip4",
+   "device": "b4q"
+  }
+ ],
+ "SM-F721U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Flip4",
+   "device": "b4q"
+  }
+ ],
+ "SM-F721U1": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Flip4",
+   "device": "b4q"
+  }
+ ],
  "SM-F9160": [
   {
    "brand": "Samsung",
@@ -185653,6 +185786,41 @@
    "brand": "Samsung",
    "name": "Galaxy Z Fold3 5G",
    "device": "q2q"
+  }
+ ],
+ "SM-F936U1": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold4",
+   "device": "q4q"
+  }
+ ],
+ "SM-F9360": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z fold4",
+   "device": "q4q"
+  }
+ ],
+ "SM-F936B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z fold4",
+   "device": "q4q"
+  }
+ ],
+ "SM-F936U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z fold4",
+   "device": "q4q"
+  }
+ ],
+ "SM-F936W": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z fold4",
+   "device": "q4q"
   }
  ],
  "YP-GB70D": [

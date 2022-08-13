@@ -176028,6 +176028,13 @@
    "model": "SM-T577U"
   }
  ],
+ "Galaxy Tab Active4 Pro 5G": [
+  {
+   "brand": "Samsung",
+   "device": "gtact4pro",
+   "model": "SM-T636B"
+  }
+ ],
  "Galaxy Tab Advanced2": [
   {
    "brand": "Samsung",
@@ -177896,6 +177903,73 @@
    "model": "SM-R885U"
   }
  ],
+ "Galaxy Watch5": [
+  {
+   "brand": "Samsung",
+   "device": "heartbl",
+   "model": "SM-R910"
+  },
+  {
+   "brand": "Samsung",
+   "device": "heartbs",
+   "model": "SM-R900"
+  },
+  {
+   "brand": "Samsung",
+   "device": "heartul",
+   "model": "SM-R9150"
+  },
+  {
+   "brand": "Samsung",
+   "device": "heartul",
+   "model": "SM-R915F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "heartul",
+   "model": "SM-R915N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "heartul",
+   "model": "SM-R915U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "heartus",
+   "model": "SM-R905F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "heartus",
+   "model": "SM-R905N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "heartus",
+   "model": "SM-R905U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "projectxbl",
+   "model": "SM-R920"
+  },
+  {
+   "brand": "Samsung",
+   "device": "projectxul",
+   "model": "SM-R925F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "projectxul",
+   "model": "SM-R925N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "projectxul",
+   "model": "SM-R925U"
+  }
+ ],
  "Galaxy Wide": [
   {
    "brand": "Samsung",
@@ -178464,6 +178538,33 @@
    "model": "SM-F711W"
   }
  ],
+ "Galaxy Z Flip4": [
+  {
+   "brand": "Samsung",
+   "device": "b4q",
+   "model": "SM-F7210"
+  },
+  {
+   "brand": "Samsung",
+   "device": "b4q",
+   "model": "SM-F721B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "b4q",
+   "model": "SM-F721C"
+  },
+  {
+   "brand": "Samsung",
+   "device": "b4q",
+   "model": "SM-F721U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "b4q",
+   "model": "SM-F721U1"
+  }
+ ],
  "Galaxy Z Fold2 5G": [
   {
    "brand": "Samsung",
@@ -178541,6 +178642,35 @@
    "brand": "Samsung",
    "device": "q2q",
    "model": "SM-F926W"
+  }
+ ],
+ "Galaxy Z Fold4": [
+  {
+   "brand": "Samsung",
+   "device": "q4q",
+   "model": "SM-F936U1"
+  }
+ ],
+ "Galaxy Z fold4": [
+  {
+   "brand": "Samsung",
+   "device": "q4q",
+   "model": "SM-F9360"
+  },
+  {
+   "brand": "Samsung",
+   "device": "q4q",
+   "model": "SM-F936B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "q4q",
+   "model": "SM-F936U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "q4q",
+   "model": "SM-F936W"
   }
  ],
  "Galaxy player 70 Plus": [

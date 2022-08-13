@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-08-12
+Last sync is 2022-08-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -26717,6 +26717,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab Active3|gtactive3|SM-T575N|
 |Samsung|Galaxy Tab Active3|gtactive3|SM-T577|
 |Samsung|Galaxy Tab Active3|gtactive3|SM-T577U|
+|Samsung|Galaxy Tab Active4 Pro 5G|gtact4pro|SM-T636B|
 |Samsung|Galaxy Tab Advanced2|gtaxladwifikx|SM-T583|
 |Samsung|Galaxy Tab E|gtel3g|SM-T561M|
 |Samsung|Galaxy Tab E|gtelwifi|SM-T560|
@@ -27061,6 +27062,19 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Watch4 Classic|wiseus|SM-R885F|
 |Samsung|Galaxy Watch4 Classic|wiseus|SM-R885N|
 |Samsung|Galaxy Watch4 Classic|wiseus|SM-R885U|
+|Samsung|Galaxy Watch5|heartbl|SM-R910|
+|Samsung|Galaxy Watch5|heartbs|SM-R900|
+|Samsung|Galaxy Watch5|heartul|SM-R9150|
+|Samsung|Galaxy Watch5|heartul|SM-R915F|
+|Samsung|Galaxy Watch5|heartul|SM-R915N|
+|Samsung|Galaxy Watch5|heartul|SM-R915U|
+|Samsung|Galaxy Watch5|heartus|SM-R905F|
+|Samsung|Galaxy Watch5|heartus|SM-R905N|
+|Samsung|Galaxy Watch5|heartus|SM-R905U|
+|Samsung|Galaxy Watch5|projectxbl|SM-R920|
+|Samsung|Galaxy Watch5|projectxul|SM-R925F|
+|Samsung|Galaxy Watch5|projectxul|SM-R925N|
+|Samsung|Galaxy Watch5|projectxul|SM-R925U|
 |Samsung|Galaxy Wide|on7nlteskt|SM-G600S|
 |Samsung|Galaxy Wide2|j7popelteskt|SM-J727S|
 |Samsung|Galaxy Wide3|j7toplteskt|SM-J737S|
@@ -27161,6 +27175,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Flip3 5G|b2q|SM-F711U|
 |Samsung|Galaxy Z Flip3 5G|b2q|SM-F711U1|
 |Samsung|Galaxy Z Flip3 5G|b2q|SM-F711W|
+|Samsung|Galaxy Z Flip4|b4q|SM-F7210|
+|Samsung|Galaxy Z Flip4|b4q|SM-F721B|
+|Samsung|Galaxy Z Flip4|b4q|SM-F721C|
+|Samsung|Galaxy Z Flip4|b4q|SM-F721U|
+|Samsung|Galaxy Z Flip4|b4q|SM-F721U1|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F9160|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F916B|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F916N|
@@ -27176,6 +27195,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Fold3 5G|q2q|SM-F926U|
 |Samsung|Galaxy Z Fold3 5G|q2q|SM-F926U1|
 |Samsung|Galaxy Z Fold3 5G|q2q|SM-F926W|
+|Samsung|Galaxy Z Fold4|q4q|SM-F936U1|
+|Samsung|Galaxy Z fold4|q4q|SM-F9360|
+|Samsung|Galaxy Z fold4|q4q|SM-F936B|
+|Samsung|Galaxy Z fold4|q4q|SM-F936U|
+|Samsung|Galaxy Z fold4|q4q|SM-F936W|
 |Samsung|Galaxy player 70 Plus|YP-GB70D|YP-GB70D|
 |Samsung|Galaxy view|gvltektt|SM-T677NK|
 |Samsung|Galaxy view|gvltelgt|SM-T677NL|
