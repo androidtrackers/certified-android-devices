@@ -136606,6 +136606,13 @@
    "device": "myPhone_Prime_5"
   }
  ],
+ "myT10": [
+  {
+   "brand": "Myphone",
+   "name": "myT10",
+   "device": "myT10"
+  }
+ ],
  "myT3 DTV": [
   {
    "brand": "Myphone",

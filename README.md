@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-08-14
+Last sync is 2022-08-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -19767,6 +19767,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Myphone|myPhone_Fun_8|myPhone_Fun_8|myPhone_Fun_8|
 |Myphone|myPhone_Pocket_2|myPhone_Pocket_2|Pocket_2|
 |Myphone|myPhone_Prime_5|myPhone_Prime_5|myPhone_Prime_5|
+|Myphone|myT10|myT10|myT10|
 |Myphone|myT3 DTV|myT3_DTV|myT3 DTV|
 |Myphone|myT5 DTV|myT5_DTV|myT5 DTV|
 |Myphone|myT6 DTV|myT6_DTV|myT6 DTV|

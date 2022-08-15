@@ -101555,6 +101555,11 @@
    "model": "myPhone_Prime_5"
   },
   {
+   "device": "myT10",
+   "name": "myT10",
+   "model": "myT10"
+  },
+  {
    "device": "myT3_DTV",
    "name": "myT3 DTV",
    "model": "myT3 DTV"
