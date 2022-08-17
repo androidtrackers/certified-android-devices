@@ -117197,6 +117197,13 @@
    "device": "TB-8506X"
   }
  ],
+ "TB300FU": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M8 (4th gen)",
+   "device": "TB300FU"
+  }
+ ],
  "Lenovo TB-X705F": [
   {
    "brand": "Lenovo",
@@ -117230,6 +117237,13 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab P11 (2nd Gen)",
    "device": "TB350FU"
+  }
+ ],
+ "TB350XU": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab P11 (2nd Gen)",
+   "device": "TB350XU"
   }
  ],
  "Lenovo TB-J607Z": [
@@ -185937,6 +185951,13 @@
    "device": "b4q"
   }
  ],
+ "SM-F721N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Flip4",
+   "device": "b4q"
+  }
+ ],
  "SM-F721U": [
   {
    "brand": "Samsung",
@@ -185945,6 +185966,13 @@
   }
  ],
  "SM-F721U1": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Flip4",
+   "device": "b4q"
+  }
+ ],
+ "SM-F721W": [
   {
    "brand": "Samsung",
    "name": "Galaxy Z Flip4",
@@ -186056,6 +186084,18 @@
    "device": "q2q"
   }
  ],
+ "SM-F936B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold4",
+   "device": "q4q"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z fold4",
+   "device": "q4q"
+  }
+ ],
  "SM-F936U1": [
   {
    "brand": "Samsung",
@@ -186070,7 +186110,7 @@
    "device": "q4q"
   }
  ],
- "SM-F936B": [
+ "SM-F936N": [
   {
    "brand": "Samsung",
    "name": "Galaxy Z fold4",
@@ -250307,6 +250347,11 @@
    "brand": "realme",
    "name": "narzo 50 5G",
    "device": "RED8CDL1"
+  },
+  {
+   "brand": "realme",
+   "name": "realme narzo 50 5G",
+   "device": "RED8CDL1"
   }
  ],
  "RMX3395": [
@@ -250830,6 +250875,13 @@
    "device": "RE5489"
   }
  ],
+ "RMX3551": [
+  {
+   "brand": "realme",
+   "name": "真我 GT2 大师探索版",
+   "device": "RE5465"
+  }
+ ],
  "RMX2205": [
   {
    "brand": "realme",
@@ -250842,6 +250894,20 @@
    "brand": "realme",
    "name": "真我 Q5",
    "device": "RE547D"
+  }
+ ],
+ "RMX3610": [
+  {
+   "brand": "realme",
+   "name": "真我 V20",
+   "device": "RE584B"
+  }
+ ],
+ "RMX3611": [
+  {
+   "brand": "realme",
+   "name": "真我 V20",
+   "device": "RE584B"
   }
  ],
  "RMX3310": [

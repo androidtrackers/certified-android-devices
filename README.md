@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-08-16
+Last sync is 2022-08-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -16761,12 +16761,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M8 (3rd Gen)|TB-8506F|Lenovo TB-8506F|
 |Lenovo|Lenovo Tab M8 (3rd Gen)|TB-8506FS|Lenovo TB-8506FS|
 |Lenovo|Lenovo Tab M8 (3rd Gen)|TB-8506X|Lenovo TB-8506X|
+|Lenovo|Lenovo Tab M8 (4th gen)|TB300FU|TB300FU|
 |Lenovo|Lenovo Tab P10|X705F|Lenovo TB-X705F|
 |Lenovo|Lenovo Tab P10|X705L|Lenovo TB-X705L|
 |Lenovo|Lenovo Tab P10|X705M|Lenovo TB-X705M|
 |Lenovo|Lenovo Tab P11|J606F|Lenovo TB-J606F|
 |Lenovo|Lenovo Tab P11|J606L|Lenovo TB-J606L|
 |Lenovo|Lenovo Tab P11 (2nd Gen)|TB350FU|TB350FU|
+|Lenovo|Lenovo Tab P11 (2nd Gen)|TB350XU|TB350XU|
 |Lenovo|Lenovo Tab P11 5G|J607Z|Lenovo TB-J607Z|
 |Lenovo|Lenovo Tab P11 Plus|TB-J616F|Lenovo TB-J616F|
 |Lenovo|Lenovo Tab P11 Plus|TB-J616X|Lenovo TB-J616X|
@@ -27220,8 +27222,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Flip4|b4q|SM-F7210|
 |Samsung|Galaxy Z Flip4|b4q|SM-F721B|
 |Samsung|Galaxy Z Flip4|b4q|SM-F721C|
+|Samsung|Galaxy Z Flip4|b4q|SM-F721N|
 |Samsung|Galaxy Z Flip4|b4q|SM-F721U|
 |Samsung|Galaxy Z Flip4|b4q|SM-F721U1|
+|Samsung|Galaxy Z Flip4|b4q|SM-F721W|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F9160|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F916B|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F916N|
@@ -27237,9 +27241,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Fold3 5G|q2q|SM-F926U|
 |Samsung|Galaxy Z Fold3 5G|q2q|SM-F926U1|
 |Samsung|Galaxy Z Fold3 5G|q2q|SM-F926W|
+|Samsung|Galaxy Z Fold4|q4q|SM-F936B|
 |Samsung|Galaxy Z Fold4|q4q|SM-F936U1|
 |Samsung|Galaxy Z fold4|q4q|SM-F9360|
 |Samsung|Galaxy Z fold4|q4q|SM-F936B|
+|Samsung|Galaxy Z fold4|q4q|SM-F936N|
 |Samsung|Galaxy Z fold4|q4q|SM-F936U|
 |Samsung|Galaxy Z fold4|q4q|SM-F936W|
 |Samsung|Galaxy player 70 Plus|YP-GB70D|YP-GB70D|
@@ -37355,6 +37361,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme narzo 30 5G|RE513CL1|RMX3242|
 |realme|realme narzo 30A|RMX3171|RMX3171|
 |realme|realme narzo 50|RE54B4L1|RMX3286|
+|realme|realme narzo 50 5G|RED8CDL1|RMX3572|
 |realme|realme narzo 50A|RED8AF|RMX3430|
 |realme|realme narzo 50A Prime|RE54D8L1|RMX3516|
 |realme|realme narzo 50A Prime|RE54D8L1|RMX3517|
@@ -37364,8 +37371,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme  X7 Pro|RMX2121CN|RMX2121|
 |realme|真我 GT NEO  3  150W|RE5489|RMX3562|
 |realme|真我 GT NEO 3|RE5489|RMX3560|
+|realme|真我 GT2 大师探索版|RE5465|RMX3551|
 |realme|真我 Q3 Pro 5G|RMX2205CN|RMX2205|
 |realme|真我 Q5|RE547D|RMX3478|
+|realme|真我 V20|RE584B|RMX3610|
+|realme|真我 V20|RE584B|RMX3611|
 |realme|真我GT 2|RE5471|RMX3310|
 |realme|真我GT 2|RE58B2L1|RMX3311|
 |realme|真我GT 2 Pro|RE547F|RMX3300|

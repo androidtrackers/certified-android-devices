@@ -86121,6 +86121,11 @@
    "model": "Lenovo TB-8506X"
   },
   {
+   "device": "TB300FU",
+   "name": "Lenovo Tab M8 (4th gen)",
+   "model": "TB300FU"
+  },
+  {
    "device": "X705F",
    "name": "Lenovo Tab P10",
    "model": "Lenovo TB-X705F"
@@ -86149,6 +86154,11 @@
    "device": "TB350FU",
    "name": "Lenovo Tab P11 (2nd Gen)",
    "model": "TB350FU"
+  },
+  {
+   "device": "TB350XU",
+   "name": "Lenovo Tab P11 (2nd Gen)",
+   "model": "TB350XU"
   },
   {
    "device": "J607Z",
@@ -139674,12 +139684,22 @@
   {
    "device": "b4q",
    "name": "Galaxy Z Flip4",
+   "model": "SM-F721N"
+  },
+  {
+   "device": "b4q",
+   "name": "Galaxy Z Flip4",
    "model": "SM-F721U"
   },
   {
    "device": "b4q",
    "name": "Galaxy Z Flip4",
    "model": "SM-F721U1"
+  },
+  {
+   "device": "b4q",
+   "name": "Galaxy Z Flip4",
+   "model": "SM-F721W"
   },
   {
    "device": "f2q",
@@ -139759,6 +139779,11 @@
   {
    "device": "q4q",
    "name": "Galaxy Z Fold4",
+   "model": "SM-F936B"
+  },
+  {
+   "device": "q4q",
+   "name": "Galaxy Z Fold4",
    "model": "SM-F936U1"
   },
   {
@@ -139770,6 +139795,11 @@
    "device": "q4q",
    "name": "Galaxy Z fold4",
    "model": "SM-F936B"
+  },
+  {
+   "device": "q4q",
+   "name": "Galaxy Z fold4",
+   "model": "SM-F936N"
   },
   {
    "device": "q4q",
@@ -191761,6 +191791,11 @@
    "model": "RMX3286"
   },
   {
+   "device": "RED8CDL1",
+   "name": "realme narzo 50 5G",
+   "model": "RMX3572"
+  },
+  {
    "device": "RED8AF",
    "name": "realme narzo 50A",
    "model": "RMX3430"
@@ -191806,6 +191841,11 @@
    "model": "RMX3560"
   },
   {
+   "device": "RE5465",
+   "name": "真我 GT2 大师探索版",
+   "model": "RMX3551"
+  },
+  {
    "device": "RMX2205CN",
    "name": "真我 Q3 Pro 5G",
    "model": "RMX2205"
@@ -191814,6 +191854,16 @@
    "device": "RE547D",
    "name": "真我 Q5",
    "model": "RMX3478"
+  },
+  {
+   "device": "RE584B",
+   "name": "真我 V20",
+   "model": "RMX3610"
+  },
+  {
+   "device": "RE584B",
+   "name": "真我 V20",
+   "model": "RMX3611"
   },
   {
    "device": "RE5471",

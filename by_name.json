@@ -116675,6 +116675,13 @@
    "model": "Lenovo TB-8506X"
   }
  ],
+ "Lenovo Tab M8 (4th gen)": [
+  {
+   "brand": "Lenovo",
+   "device": "TB300FU",
+   "model": "TB300FU"
+  }
+ ],
  "Lenovo Tab P10": [
   {
    "brand": "Lenovo",
@@ -116709,6 +116716,11 @@
    "brand": "Lenovo",
    "device": "TB350FU",
    "model": "TB350FU"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "TB350XU",
+   "model": "TB350XU"
   }
  ],
  "Lenovo Tab P11 5G": [
@@ -178847,12 +178859,22 @@
   {
    "brand": "Samsung",
    "device": "b4q",
+   "model": "SM-F721N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "b4q",
    "model": "SM-F721U"
   },
   {
    "brand": "Samsung",
    "device": "b4q",
    "model": "SM-F721U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "b4q",
+   "model": "SM-F721W"
   }
  ],
  "Galaxy Z Fold2 5G": [
@@ -178938,6 +178960,11 @@
   {
    "brand": "Samsung",
    "device": "q4q",
+   "model": "SM-F936B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "q4q",
    "model": "SM-F936U1"
   }
  ],
@@ -178951,6 +178978,11 @@
    "brand": "Samsung",
    "device": "q4q",
    "model": "SM-F936B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "q4q",
+   "model": "SM-F936N"
   },
   {
    "brand": "Samsung",
@@ -237871,6 +237903,13 @@
    "model": "RMX3286"
   }
  ],
+ "realme narzo 50 5G": [
+  {
+   "brand": "realme",
+   "device": "RED8CDL1",
+   "model": "RMX3572"
+  }
+ ],
  "realme narzo 50A": [
   {
    "brand": "realme",
@@ -237918,6 +237957,13 @@
    "model": "RMX3560"
   }
  ],
+ "真我 GT2 大师探索版": [
+  {
+   "brand": "realme",
+   "device": "RE5465",
+   "model": "RMX3551"
+  }
+ ],
  "真我 Q3 Pro 5G": [
   {
    "brand": "realme",
@@ -237930,6 +237976,18 @@
    "brand": "realme",
    "device": "RE547D",
    "model": "RMX3478"
+  }
+ ],
+ "真我 V20": [
+  {
+   "brand": "realme",
+   "device": "RE584B",
+   "model": "RMX3610"
+  },
+  {
+   "brand": "realme",
+   "device": "RE584B",
+   "model": "RMX3611"
   }
  ],
  "真我GT 2": [
