@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-08-17
+Last sync is 2022-08-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13178,6 +13178,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|A52B|itel-A52B|itel A52B|
 |Itel|A55|itel-W6003|itel W6003|
 |Itel|A58|itel-A661W|itel A661W|
+|Itel|A58 Lite|itel-A631W|itel A631W|
 |Itel|A58 Pro|itel-A661WP|itel A661WP|
 |Itel|A62|itel-A62|itel A62|
 |Itel|F311|Spice-F311|Spice F311|
@@ -13189,6 +13190,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|G5550|barking|itel Android TV|
 |Itel|ITELL_K4700Q|ITELL_K4700Q|ITELL K4700Q|
 |Itel|ITELMOBILE GP10X2019|GP10X2019|GP10X2019|
+|Itel|Itel A58 Lite|itel-A631W|itel A631W|
 |Itel|P11|itel_P11|itel P11|
 |Itel|P12|itel_P12|itel P12|
 |Itel|P13|itel-P13|itel P13|
@@ -13275,6 +13277,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel A16 Plus|itel-A16-Plus|itel A16 Plus|
 |Itel|itel A16 Plus|itel-A16-Plus|itel A16 Plus RU|
 |Itel|itel A16 Plus|itel-A16-Plus-BD|itel A16 Plus|
+|Itel|itel A18|itel-A512W|itel A512W|
 |Itel|itel A20|itel-A20|itel A20|
 |Itel|itel A23|itel-A23|itel A23|
 |Itel|itel A23|itel-A23|itel A23R|
@@ -13310,6 +13313,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel A57 2GB|itel-A611WP|itel A611WP|
 |Itel|itel A58 Lite|itel-A631W|itel A631W|
 |Itel|itel A58 Lite|itel-A631W-R2|itel A631W|
+|Itel|itel A58 lite|itel-A631W|itel A631W|
 |Itel|itel AC12|itel-A14|itel A14|
 |Itel|itel AC13|itel-W4001P|itel W4001P|
 |Itel|itel AC32|itel-A16S|itel A16S|
@@ -16762,6 +16766,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M8 (3rd Gen)|TB-8506FS|Lenovo TB-8506FS|
 |Lenovo|Lenovo Tab M8 (3rd Gen)|TB-8506X|Lenovo TB-8506X|
 |Lenovo|Lenovo Tab M8 (4th gen)|TB300FU|TB300FU|
+|Lenovo|Lenovo Tab M8 (4th gen)|TB300XU|TB300XU|
 |Lenovo|Lenovo Tab P10|X705F|Lenovo TB-X705F|
 |Lenovo|Lenovo Tab P10|X705L|Lenovo TB-X705L|
 |Lenovo|Lenovo Tab P10|X705M|Lenovo TB-X705M|
@@ -17952,6 +17957,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mediacom|M-SP1X10|M-SP1X10|X10|
 |Mediacom|M-SP7HXAH|M-SP7HXAH|M-SP7HXAH|
 |Mediacom|M-SP7xGO3G|M-SP7xGO3G|M-SP7xGO3G|
+|Mediacom|M-SP8EY|M-SP8EY|8EY|
 |Mediacom|M-SP8HXAH|M-SP8HXAH|M-SP8HXAH|
 |Mediacom|M-SP8MXA|SP8MXA|M-SP8MXA|
 |Medion|E1050X|E1050X|E1050X|
@@ -26762,6 +26768,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab Active3|gtactive3|SM-T577|
 |Samsung|Galaxy Tab Active3|gtactive3|SM-T577U|
 |Samsung|Galaxy Tab Active4 Pro 5G|gtact4pro|SM-T636B|
+|Samsung|Galaxy Tab Active4 Pro 5G|gtact4pro|SM-T636N|
 |Samsung|Galaxy Tab Advanced2|gtaxladwifikx|SM-T583|
 |Samsung|Galaxy Tab E|gtel3g|SM-T561M|
 |Samsung|Galaxy Tab E|gtelwifi|SM-T560|
@@ -37317,6 +37324,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C25s|RMX3195|RMX3195|
 |realme|realme C25s|RMX3197|RMX3197|
 |realme|realme C30|RE5887|RMX3581|
+|realme|realme C30|RE588E|RMX3623|
 |realme|realme C31|RE549C|RMX3501|
 |realme|realme C31|RE549C|RMX3502|
 |realme|realme C31|RE549C|RMX3503|
@@ -37333,6 +37341,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme GT NEO 3T|RE54E4L1|RMX3371|
 |realme|realme GT Neo2 5G|RE879AL1|RMX3370|
 |realme|realme Narzo 30 Pro 5G|RMX2117L1|RMX2117|
+|realme|realme Pad X|RE5496|RMP2108|
+|realme|realme Pad X|RE54F2L1|RMP2107|
+|realme|realme Pad X|RE54F2L1|RMP2108|
 |realme|realme Pad mini|RE87CCL1|RMP2105|
 |realme|realme Pad mini|RE87CCL1|RMP2106|
 |realme|realme Q2 5G|RMX2117CN|RMX2117|
@@ -37366,6 +37377,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme narzo 50A Prime|RE54D8L1|RMX3516|
 |realme|realme narzo 50A Prime|RE54D8L1|RMX3517|
 |realme|realme narzo 50i|RED8FA|RMX3235|
+|realme|realme narzo 50i Prime|RE588E|RMX3506|
 |realme|realme pad|RE54C1L1|RMP2102|
 |realme|realme pad|RE54C1L1|RMP2103|
 |realme|realme  X7 Pro|RMX2121CN|RMX2121|

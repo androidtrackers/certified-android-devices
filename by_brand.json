@@ -67858,6 +67858,11 @@
    "model": "itel A661W"
   },
   {
+   "device": "itel-A631W",
+   "name": "A58 Lite",
+   "model": "itel A631W"
+  },
+  {
    "device": "itel-A661WP",
    "name": "A58 Pro",
    "model": "itel A661WP"
@@ -67911,6 +67916,11 @@
    "device": "GP10X2019",
    "name": "ITELMOBILE GP10X2019",
    "model": "GP10X2019"
+  },
+  {
+   "device": "itel-A631W",
+   "name": "Itel A58 Lite",
+   "model": "itel A631W"
   },
   {
    "device": "itel_P11",
@@ -68343,6 +68353,11 @@
    "model": "itel A16 Plus"
   },
   {
+   "device": "itel-A512W",
+   "name": "itel A18",
+   "model": "itel A512W"
+  },
+  {
    "device": "itel-A20",
    "name": "itel A20",
    "model": "itel A20"
@@ -68515,6 +68530,11 @@
   {
    "device": "itel-A631W-R2",
    "name": "itel A58 Lite",
+   "model": "itel A631W"
+  },
+  {
+   "device": "itel-A631W",
+   "name": "itel A58 lite",
    "model": "itel A631W"
   },
   {
@@ -86126,6 +86146,11 @@
    "model": "TB300FU"
   },
   {
+   "device": "TB300XU",
+   "name": "Lenovo Tab M8 (4th gen)",
+   "model": "TB300XU"
+  },
+  {
    "device": "X705F",
    "name": "Lenovo Tab P10",
    "model": "Lenovo TB-X705F"
@@ -92314,6 +92339,11 @@
    "device": "M-SP7xGO3G",
    "name": "M-SP7xGO3G",
    "model": "M-SP7xGO3G"
+  },
+  {
+   "device": "M-SP8EY",
+   "name": "M-SP8EY",
+   "model": "8EY"
   },
   {
    "device": "M-SP8HXAH",
@@ -137380,6 +137410,11 @@
    "device": "gtact4pro",
    "name": "Galaxy Tab Active4 Pro 5G",
    "model": "SM-T636B"
+  },
+  {
+   "device": "gtact4pro",
+   "name": "Galaxy Tab Active4 Pro 5G",
+   "model": "SM-T636N"
   },
   {
    "device": "gtaxladwifikx",
@@ -191571,6 +191606,11 @@
    "model": "RMX3581"
   },
   {
+   "device": "RE588E",
+   "name": "realme C30",
+   "model": "RMX3623"
+  },
+  {
    "device": "RE549C",
    "name": "realme C31",
    "model": "RMX3501"
@@ -191649,6 +191689,21 @@
    "device": "RMX2117L1",
    "name": "realme Narzo 30 Pro 5G",
    "model": "RMX2117"
+  },
+  {
+   "device": "RE5496",
+   "name": "realme Pad X",
+   "model": "RMP2108"
+  },
+  {
+   "device": "RE54F2L1",
+   "name": "realme Pad X",
+   "model": "RMP2107"
+  },
+  {
+   "device": "RE54F2L1",
+   "name": "realme Pad X",
+   "model": "RMP2108"
   },
   {
    "device": "RE87CCL1",
@@ -191814,6 +191869,11 @@
    "device": "RED8FA",
    "name": "realme narzo 50i",
    "model": "RMX3235"
+  },
+  {
+   "device": "RE588E",
+   "name": "realme narzo 50i Prime",
+   "model": "RMX3506"
   },
   {
    "device": "RE54C1L1",

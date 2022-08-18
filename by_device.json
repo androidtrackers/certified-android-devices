@@ -93075,6 +93075,11 @@
    "brand": "Itel",
    "name": "A512W",
    "model": "itel A512W"
+  },
+  {
+   "brand": "Itel",
+   "name": "itel A18",
+   "model": "itel A512W"
   }
  ],
  "itel-A52B": [
@@ -93096,6 +93101,28 @@
    "brand": "Itel",
    "name": "A58",
    "model": "itel A661W"
+  }
+ ],
+ "itel-A631W": [
+  {
+   "brand": "Itel",
+   "name": "A58 Lite",
+   "model": "itel A631W"
+  },
+  {
+   "brand": "Itel",
+   "name": "Itel A58 Lite",
+   "model": "itel A631W"
+  },
+  {
+   "brand": "Itel",
+   "name": "itel A58 Lite",
+   "model": "itel A631W"
+  },
+  {
+   "brand": "Itel",
+   "name": "itel A58 lite",
+   "model": "itel A631W"
   }
  ],
  "itel-A661WP": [
@@ -93930,13 +93957,6 @@
    "brand": "Itel",
    "name": "itel A57 2GB",
    "model": "itel A611WP"
-  }
- ],
- "itel-A631W": [
-  {
-   "brand": "Itel",
-   "name": "itel A58 Lite",
-   "model": "itel A631W"
   }
  ],
  "itel-W4001P": [
@@ -115196,6 +115216,13 @@
    "model": "TB300FU"
   }
  ],
+ "TB300XU": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M8 (4th gen)",
+   "model": "TB300XU"
+  }
+ ],
  "X705F": [
   {
    "brand": "Lenovo",
@@ -122904,6 +122931,13 @@
    "brand": "Mediacom",
    "name": "M-SP7xGO3G",
    "model": "M-SP7xGO3G"
+  }
+ ],
+ "M-SP8EY": [
+  {
+   "brand": "Mediacom",
+   "name": "M-SP8EY",
+   "model": "8EY"
   }
  ],
  "M-SP8HXAH": [
@@ -177815,6 +177849,11 @@
    "brand": "Samsung",
    "name": "Galaxy Tab Active4 Pro 5G",
    "model": "SM-T636B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab Active4 Pro 5G",
+   "model": "SM-T636N"
   }
  ],
  "gtaxladwifikx": [
@@ -239966,6 +240005,18 @@
    "model": "RMX3581"
   }
  ],
+ "RE588E": [
+  {
+   "brand": "realme",
+   "name": "realme C30",
+   "model": "RMX3623"
+  },
+  {
+   "brand": "realme",
+   "name": "realme narzo 50i Prime",
+   "model": "RMX3506"
+  }
+ ],
  "RE549C": [
   {
    "brand": "realme",
@@ -240050,6 +240101,25 @@
    "brand": "realme",
    "name": "realme Narzo 30 Pro 5G",
    "model": "RMX2117"
+  }
+ ],
+ "RE5496": [
+  {
+   "brand": "realme",
+   "name": "realme Pad X",
+   "model": "RMP2108"
+  }
+ ],
+ "RE54F2L1": [
+  {
+   "brand": "realme",
+   "name": "realme Pad X",
+   "model": "RMP2107"
+  },
+  {
+   "brand": "realme",
+   "name": "realme Pad X",
+   "model": "RMP2108"
   }
  ],
  "RE87CCL1": [

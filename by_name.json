@@ -96070,6 +96070,13 @@
    "model": "itel A661W"
   }
  ],
+ "A58 Lite": [
+  {
+   "brand": "Itel",
+   "device": "itel-A631W",
+   "model": "itel A631W"
+  }
+ ],
  "A58 Pro": [
   {
    "brand": "Itel",
@@ -96153,6 +96160,13 @@
    "brand": "Itel",
    "device": "GP10X2019",
    "model": "GP10X2019"
+  }
+ ],
+ "Itel A58 Lite": [
+  {
+   "brand": "Itel",
+   "device": "itel-A631W",
+   "model": "itel A631W"
   }
  ],
  "P12": [
@@ -96683,6 +96697,18 @@
    "model": "itel A16 Plus"
   }
  ],
+ "itel A18": [
+  {
+   "brand": "Itel",
+   "device": "itel-A512W",
+   "model": "itel A512W"
+  },
+  {
+   "brand": "VIMOQ",
+   "device": "VIMOQ-A512WS",
+   "model": "VIMOQ A512WS"
+  }
+ ],
  "itel A20": [
   {
    "brand": "Itel",
@@ -96909,6 +96935,13 @@
   {
    "brand": "Itel",
    "device": "itel-A631W-R2",
+   "model": "itel A631W"
+  }
+ ],
+ "itel A58 lite": [
+  {
+   "brand": "Itel",
+   "device": "itel-A631W",
    "model": "itel A631W"
   }
  ],
@@ -116680,6 +116713,11 @@
    "brand": "Lenovo",
    "device": "TB300FU",
    "model": "TB300FU"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "TB300XU",
+   "model": "TB300XU"
   }
  ],
  "Lenovo Tab P10": [
@@ -124175,6 +124213,13 @@
    "brand": "Mediacom",
    "device": "M-SP7xGO3G",
    "model": "M-SP7xGO3G"
+  }
+ ],
+ "M-SP8EY": [
+  {
+   "brand": "Mediacom",
+   "device": "M-SP8EY",
+   "model": "8EY"
   }
  ],
  "M-SP8HXAH": [
@@ -176335,6 +176380,11 @@
    "brand": "Samsung",
    "device": "gtact4pro",
    "model": "SM-T636B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gtact4pro",
+   "model": "SM-T636N"
   }
  ],
  "Galaxy Tab Advanced2": [
@@ -209819,13 +209869,6 @@
    "model": "VIMOQ A507LE"
   }
  ],
- "itel A18": [
-  {
-   "brand": "VIMOQ",
-   "device": "VIMOQ-A512WS",
-   "model": "VIMOQ A512WS"
-  }
- ],
  "VIPER-Z08MK": [
   {
    "brand": "VIPER",
@@ -237677,6 +237720,11 @@
    "brand": "realme",
    "device": "RE5887",
    "model": "RMX3581"
+  },
+  {
+   "brand": "realme",
+   "device": "RE588E",
+   "model": "RMX3623"
   }
  ],
  "realme C31": [
@@ -237753,6 +237801,23 @@
    "brand": "realme",
    "device": "RMX2117L1",
    "model": "RMX2117"
+  }
+ ],
+ "realme Pad X": [
+  {
+   "brand": "realme",
+   "device": "RE5496",
+   "model": "RMP2108"
+  },
+  {
+   "brand": "realme",
+   "device": "RE54F2L1",
+   "model": "RMP2107"
+  },
+  {
+   "brand": "realme",
+   "device": "RE54F2L1",
+   "model": "RMP2108"
   }
  ],
  "realme Pad mini": [
@@ -237934,6 +237999,13 @@
    "brand": "realme",
    "device": "RED8FA",
    "model": "RMX3235"
+  }
+ ],
+ "realme narzo 50i Prime": [
+  {
+   "brand": "realme",
+   "device": "RE588E",
+   "model": "RMX3506"
   }
  ],
  "realme  X7 Pro": [
