@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-08-18
+Last sync is 2022-08-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -12591,6 +12591,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix NOTE 11|Infinix-X663B|Infinix X663B|
 |Infinix|Infinix NOTE 11i|Infinix-X693|Infinix X693|
 |Infinix|Infinix NOTE 12|Infinix-X663C|Infinix X663C|
+|Infinix|Infinix NOTE 12 2023|Infinix-X676C|Infinix X676C|
 |Infinix|Infinix NOTE 12 5G|Infinix-X671|Infinix X671|
 |Infinix|Infinix NOTE 12 Pro 5G|Infinix-X671B|Infinix X671B|
 |Infinix|Infinix NOTE 12i|Infinix-X6819|Infinix X6819|
@@ -19381,8 +19382,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge 20 pro|pstar|motorola edge 20 pro|
 |Motorola|motorola edge 30|dubai|moto g200 5G|
 |Motorola|motorola edge 30|dubai|motorola edge 30|
+|Motorola|motorola edge 30 fusion|tundra|moto g200 5G|
+|Motorola|motorola edge 30 fusion|tundra|motorola edge 30 fusion|
 |Motorola|motorola edge 30 pro|hiphi|motorola edge 30 pro|
 |Motorola|motorola edge 30 pro|hiphi|motorola edge plus|
+|Motorola|motorola edge 30 ultra|eqs|motorola edge|
+|Motorola|motorola edge 30 ultra|eqs|motorola edge 30 ultra|
 |Motorola|motorola edge 5G UW (2021)|berlna|motorola edge 5G UW|
 |Motorola|motorola edge 5G UW (2021)|berlna|motorola edge 5G UW (2021)|
 |Motorola|motorola edge S30|xpeng|XT2175-2|
@@ -31423,6 +31428,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|POP1|TECNO-F3|TECNO F3|
 |Tecno|POVA|TECNO-LD7|TECNO LD7|
 |Tecno|POVA|TECNO-LD7j|TECNO LD7j|
+|Tecno|POVA 4|TECNO-LG7n|TECNO LG7n|
 |Tecno|POVA Neo|TECNO-LE6|TECNO LE6|
 |Tecno|POVA Neo 2|TECNO-LG6n|TECNO LG6n|
 |Tecno|Phantom 9|TECNO-AB7|TECNO AB7|
@@ -31609,6 +31615,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|i5|TECNO-i5|TECNO i5|
 |Tecno|i5-Pro|TECNO-i5-Pro|TECNO i5 Pro|
 |Tecno|i7|TECNO-i7|TECNO i7|
+|Tecno Mobile|CAMON 19 Neo|TECNO-Mobile-CH6i|TECNO Mobile CH6i|
 |Tecnomaster|EDT800|EDT800|EDT800|
 |Tecnomaster|TESHM1863|TESHM1863|TESHM1863|
 |Tecnomaster|TESHM8863|TESHM8863|TESHM8863|
@@ -33321,6 +33328,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2203A|PD2203|V2203A|
 |Vivo|V2220A|PD2220|V2220A|
 |Vivo|V25|V2202|V2202|
+|Vivo|V25 Pro|V2158|V2158|
 |Vivo|V25e|V2201|V2201|
 |Vivo|V25e|V2201|V2209|
 |Vivo|V3|PD1524|vivo V3|
@@ -33497,7 +33505,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo S1|PD1831|V1831A|
 |Vivo|vivo S15 Pro|PD2207|V2207A|
 |Vivo|vivo T2|PD2199|V2199GA|
-|Vivo|vivo V25 Pro|V2158|V2158|
 |Vivo|vivo X Fold|PD2178|V2178A|
 |Vivo|vivo X Note|PD2170|V2170A|
 |Vivo|vivo X20|PD1709|vivo PD1709|

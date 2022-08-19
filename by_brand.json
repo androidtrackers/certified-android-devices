@@ -64869,6 +64869,11 @@
    "model": "Infinix X663C"
   },
   {
+   "device": "Infinix-X676C",
+   "name": "Infinix NOTE 12 2023",
+   "model": "Infinix X676C"
+  },
+  {
    "device": "Infinix-X671",
    "name": "Infinix NOTE 12 5G",
    "model": "Infinix X671"
@@ -99581,6 +99586,16 @@
    "model": "motorola edge 30"
   },
   {
+   "device": "tundra",
+   "name": "motorola edge 30 fusion",
+   "model": "moto g200 5G"
+  },
+  {
+   "device": "tundra",
+   "name": "motorola edge 30 fusion",
+   "model": "motorola edge 30 fusion"
+  },
+  {
    "device": "hiphi",
    "name": "motorola edge 30 pro",
    "model": "motorola edge 30 pro"
@@ -99589,6 +99604,16 @@
    "device": "hiphi",
    "name": "motorola edge 30 pro",
    "model": "motorola edge plus"
+  },
+  {
+   "device": "eqs",
+   "name": "motorola edge 30 ultra",
+   "model": "motorola edge"
+  },
+  {
+   "device": "eqs",
+   "name": "motorola edge 30 ultra",
+   "model": "motorola edge 30 ultra"
   },
   {
    "device": "berlna",
@@ -161147,6 +161172,11 @@
    "model": "TECNO LD7j"
   },
   {
+   "device": "TECNO-LG7n",
+   "name": "POVA 4",
+   "model": "TECNO LG7n"
+  },
+  {
    "device": "TECNO-LE6",
    "name": "POVA Neo",
    "model": "TECNO LE6"
@@ -162075,6 +162105,13 @@
    "device": "TECNO-i7",
    "name": "i7",
    "model": "TECNO i7"
+  }
+ ],
+ "Tecno Mobile": [
+  {
+   "device": "TECNO-Mobile-CH6i",
+   "name": "CAMON 19 Neo",
+   "model": "TECNO Mobile CH6i"
   }
  ],
  "Tecnomaster": [
@@ -171051,6 +171088,11 @@
    "model": "V2202"
   },
   {
+   "device": "V2158",
+   "name": "V25 Pro",
+   "model": "V2158"
+  },
+  {
    "device": "V2201",
    "name": "V25e",
    "model": "V2201"
@@ -171929,11 +171971,6 @@
    "device": "PD2199",
    "name": "vivo T2",
    "model": "V2199GA"
-  },
-  {
-   "device": "V2158",
-   "name": "vivo V25 Pro",
-   "model": "V2158"
   },
   {
    "device": "PD2178",

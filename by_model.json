@@ -89590,6 +89590,13 @@
    "device": "Infinix-X663C"
   }
  ],
+ "Infinix X676C": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix NOTE 12 2023",
+   "device": "Infinix-X676C"
+  }
+ ],
  "Infinix X671": [
   {
    "brand": "Infinix",
@@ -133416,6 +133423,11 @@
    "brand": "Motorola",
    "name": "motorola edge",
    "device": "racer"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 30 ultra",
+   "device": "eqs"
   }
  ],
  "moto g 5G (2022)": [
@@ -133952,6 +133964,11 @@
    "brand": "Motorola",
    "name": "motorola edge 30",
    "device": "dubai"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 30 fusion",
+   "device": "tundra"
   }
  ],
  "motorola edge 20 pro": [
@@ -134176,11 +134193,25 @@
    "device": "dubai"
   }
  ],
+ "motorola edge 30 fusion": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 30 fusion",
+   "device": "tundra"
+  }
+ ],
  "motorola edge 30 pro": [
   {
    "brand": "Motorola",
    "name": "motorola edge 30 pro",
    "device": "hiphi"
+  }
+ ],
+ "motorola edge 30 ultra": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 30 ultra",
+   "device": "eqs"
   }
  ],
  "motorola edge 5G UW": [
@@ -213441,6 +213472,13 @@
    "device": "TECNO-LD7j"
   }
  ],
+ "TECNO LG7n": [
+  {
+   "brand": "Tecno",
+   "name": "POVA 4",
+   "device": "TECNO-LG7n"
+  }
+ ],
  "TECNO LE6": [
   {
    "brand": "Tecno",
@@ -214685,6 +214723,13 @@
    "brand": "Tecno",
    "name": "i7",
    "device": "TECNO-i7"
+  }
+ ],
+ "TECNO Mobile CH6i": [
+  {
+   "brand": "Tecno Mobile",
+   "name": "CAMON 19 Neo",
+   "device": "TECNO-Mobile-CH6i"
   }
  ],
  "EDT800": [
@@ -225355,6 +225400,13 @@
    "device": "PD2220"
   }
  ],
+ "V2158": [
+  {
+   "brand": "Vivo",
+   "name": "V25 Pro",
+   "device": "V2158"
+  }
+ ],
  "V2201": [
   {
    "brand": "Vivo",
@@ -226528,13 +226580,6 @@
    "brand": "Vivo",
    "name": "vivo T2",
    "device": "PD2199"
-  }
- ],
- "V2158": [
-  {
-   "brand": "Vivo",
-   "name": "vivo V25 Pro",
-   "device": "V2158"
   }
  ],
  "V2178A": [
