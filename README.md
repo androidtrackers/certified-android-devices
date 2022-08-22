@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-08-21
+Last sync is 2022-08-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5459,6 +5459,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Danew|Dslide1016|Dslide1016|Dslide1016|
 |Danew|Dslide1016_V2_EEA|Dslide1016_V2|Dslide1016_V2|
 |Danew|Dslide1019|Dslide1019|Dslide1019|
+|Danew|Dslide1023_EEA|Dslide1023|Dslide1023|
 |Danew|Dslide113_V2_EEA|Dslide113_V2|Dslide113_V2|
 |Danew|Dslide113_V3|Dslide113_V3|Dslide113_V3|
 |Danew|Dslide714|Dslide714|Dslide714|
@@ -6895,6 +6896,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |F&U (Fandu)|Greece|yeongdeungpo|F and U Android TV|
 |F150|Air1|Air1|Air1|
 |F150|Air1 Pro|Air1_Pro|Air1 Pro|
+|F150|B1|B1|B1|
 |F150|B1 Pro|B1_Pro|B1 Pro|
 |F150|B2021|B2021|B2021|
 |F150|B2021|H2022|H2022|
@@ -6923,6 +6925,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FANGOR|F-C10|F-C10|F-C10|
 |FANGOR|F-X10|F-X10|F-X10|
 |FANGOR|UJ_1098|UJ_1098|UJ_1098|
+|FATARUS|K10|K10|K10|
 |FAVORITT|Android TV|R3|R3|
 |FAVORITT|Android TV|R4|R4|
 |FBC|M24IS810|MX24|TDA02|
@@ -8793,6 +8796,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HTC|HTC 5G Hub|htc_rtxspcs|HTC 5G Hub|
 |HTC|HTC A100|HTC_A100|HTC A100|
 |HTC|HTC A101|HTC_A101|HTC A101|
+|HTC|HTC A103|HTC_A103|HTC A103|
 |HTC|HTC Desire 19s|htc_zddugl|2Q8L10000|
 |HTC|HTC Desire 19s|htc_zddugl|HTC Desire 19s|
 |HTC|HTC Desire 20 Pro|htc_bymdugl|HTC 2Q9J10000|
@@ -10370,6 +10374,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR Magic4 Lite|HNANY-Q1|ANY-LX1|
 |Honor|HONOR Magic4 Lite 5G|HNANY-Q|ANY-NX1|
 |Honor|HONOR Magic4 Pro|HNLGE|LGE-NX9|
+|Honor|HONOR Pad 8|HNHEY-Q|HEY-W09|
 |Honor|HONOR X7|HNCMA-Q|CMA-LX1|
 |Honor|HONOR X7|HNCMA-Q|CMA-LX2|
 |Honor|HONOR X7|HNCMA-Q|CMA-LX3|
@@ -12499,6 +12504,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Indurama|indurama smart TV|SW4H_FF|indurama smart TV|
 |Inet-Tablet|D711HC_PG|D711HC_PG|D711HC_PG|
 |Inet-Tablet|D7911L3BC_OGS|D7911L3BC_OGS|D7911L3BC_OGS|
+|InfiRay|PX1|PX1|PX1|
 |Infinity|10.1-v2|Infinity-101-v2|Infinity-10.1-v2|
 |Infinity|10.1-v3|Infinity_101_v3|Infinity-10.1-v3|
 |Infinity|Infinity|Infinity|Infinity|
@@ -27998,6 +28004,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sirin|LABS SOLARIN|solarin|SOLARIN|
 |Sirin|LABS SOLARIN|solarin|Solarin|
 |Sky (CH)|Elite C55|Elite_C55USA|Elite C55|
+|Sky (CH)|Elite OctaPlus|Elite_OctaPlus4us|Elite OctaPlus|
 |Sky (CH)|Elite OctaPlus|Elite_OctaPlusKK1|Elite OctaPlus|
 |Sky (CH)|Elite OctaX|Elite_OctaXkk3|Elite OctaX|
 |Sky (CH)|Elite T8|ELITE_US_T8|ELITE T8|
@@ -28034,6 +28041,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|Elite C55|Elite_C55|Elite C55|
 |Sky Devices|Elite C55|Elite_C55US|Elite C55|
 |Sky Devices|Elite D55|Elite_D55|Elite_D55|
+|Sky Devices|Elite D55T|Elite_D55T|Elite D55T|
 |Sky Devices|Elite D5Max|Elite_D5Max|Elite D5Max|
 |Sky Devices|Elite D5Max|Elite_D5MaxUS2|Elite D5Max|
 |Sky Devices|Elite D5Max|Elite_D5Max_US|Elite D5Max|
@@ -28049,6 +28057,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|Elite H55|Elite_H55|Elite H55|
 |Sky Devices|Elite I55|Elite_I55|Elite I55|
 |Sky Devices|Elite M45|Elite_M45|Elite M45|
+|Sky Devices|Elite M55|Elite_M55|Elite M55|
 |Sky Devices|Elite M5Plus|Elite_M5Plus|Elite M5Plus|
 |Sky Devices|Elite M5Plus|Elite_M5Plus_PA|Elite M5Plus|
 |Sky Devices|Elite M5Plus|Elite_M5Plus_SAL|Elite M5Plus|
@@ -28077,11 +28086,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|Elite T6|Elite_T6|Elite T6|
 |Sky Devices|Elite T8|ELITE_T8|ELITE T8|
 |Sky Devices|Elite T8 Plus|Elite_T8PUB|Elite T8Plus|
+|Sky Devices|Elite T8Plus|Elite_T8Plus|Elite T8Plus|
 |Sky Devices|Elite T8Plus|Elite_T8PlusK|Elite T8Plus|
 |Sky Devices|Elite_A65|Elite_A65|Elite A65|
 |Sky Devices|Elite_B5MS|Elite_B5MS|Elite B5|
 |Sky Devices|Elite_D5|Elite_D5|Elite D5|
 |Sky Devices|Elite_D55|Elite_D55|Elite_D55|
+|Sky Devices|Elite_D5T|Elite_D5T|Elite D5T|
 |Sky Devices|Elite_E5|Elite_E5|Elite_E5|
 |Sky Devices|Elite_F5|Elite_F5|Elite_F5|
 |Sky Devices|Elite_H55|Elite_H55|Elite H55|
@@ -28097,6 +28108,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|Elite_T8Pluss|Elite_T8Pluss|Elite T8Plus|
 |Sky Devices|Elite_T8Pluss|Elite_T8Pluss2|Elite T8Plus|
 |Sky Devices|Elite_V55|Elite_V55|Elite V55|
+|Sky Devices|F55Max|F55Max|F55Max|
 |Sky Devices|Fuego 4.0T|Fuego_4_0T_EC|Fuego 4.0T|
 |Sky Devices|PLATINUM 4.0|Platinum_40|Platinum 4.0|
 |Sky Devices|PLATINUM 4.0|Platinum_4_0|Platinum 4.0|
@@ -28146,6 +28158,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|SKY Black|SKY_Black|SKY Black|
 |Sky Devices|SKY Black|TIBLA28|SKY Black|
 |Sky Devices|SKY Black2|Sky_Black2|SKY Black2|
+|Sky Devices|SKY Black2|Sky_Black2gt|Sky Black2|
 |Sky Devices|SKY BlackMax|Sky_BlackMax|Sky BlackMax|
 |Sky Devices|SKY KID1|SKY_KID1|SKY_KID1|
 |Sky Devices|SKY Prestige|SKY_Prestige|SKY Prestige|
@@ -28153,6 +28166,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|SKY Prestige2|Sky_Prestige2_NFP|Sky Prestige2|
 |Sky Devices|SKY PrestigeX|SKY_PrestigeX|SKY PrestigeX|
 |Sky Devices|SKY PrestigeX1|SKY_PrestigeX1|SKY PrestigeX1|
+|Sky Devices|SKY PrestigeX2|SKY_PrestigeX2|SKY PrestigeX2|
 |Sky Devices|SKY VISION1|SKYVISION|SKYVISION|
 |Sky Devices|SKY Volt|SKY_Volt|SKY Volt|
 |Sky Devices|SKY_Pro_III|SKY_Pro_III|SKY_Pro_III|
@@ -28166,6 +28180,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|X2|Xmobile_X2|X2|
 |Sky Devices|X2|Xmobile_X2_US|X2|
 |Sky Devices|X8A|X8A|X8A|
+|Sky Devices|Xmobile X55|X55|X55|
 |Sky Devices|pro selfie|PRO_SELFIE|PRO_SELFIE|
 |SkyLife|KSTB2019|KSTB2019|KSTB2019|
 |SkyLife|KSTB6165|KSTB6165|KSTB6165|
@@ -31703,6 +31718,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telenor|Telenor Mediahubb|vip5702w_tn|Telenor Mediahubb|
 |Telenor|V51|V51|Infinity_i4|
 |Teleone|I06|I06|I06|
+|Telia|DV8919X-KET|DV8919X-KET|DV8919X-EE|
 |Telia|Telia Nordic STB|DV8919-KST|Telia Nordic STB|
 |Telkom|TVB-100|DV8219|TVB-100|
 |Telkom|Telkom|DV8219|TVB-100|
@@ -32447,6 +32463,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Unnion Technologies|UNSP7|UNSP7|UNSP7|
 |Unnion Technologies|Unnion SP10|SP10|SP10|
 |UnoPhone|Premier5|Premier5|Premier5|
+|UnoPhone|Premier8|Premier8|Premier8|
+|UnoPhone|UNO_Premier55|Premier55|Premier55|
 |Unonu|N63A|N63A|UNONU N63|
 |Unonu|UN55L|UN55L|UN55L|
 |Unonu|UNONU N65 LITE|UNONU_N65_LITE|UNONU N65 LITE|
@@ -34422,6 +34440,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |X-View|X-ViewTablet10|X-ViewTablet10|X-ViewTablet10|
 |X-View|X_ViewTablet10|X_ViewTablet10|X-ViewTablet|
 |X-mobile|X-mobile SmartWiFi|XM-SW1|XM-SW1|
+|X-mobile|X4|X4|X4|
+|X-mobile|XW|XW|XW|
 |XGIMI|Halo|xgimiapollo|Halo|
 |XGIMI|MoGo|xgimiapollo|MoGo|
 |XGIMI|MoGo Pro|xgimiapollo|MoGo Pro|

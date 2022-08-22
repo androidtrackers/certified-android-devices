@@ -14173,6 +14173,11 @@
    "brand": "Doogee",
    "name": "X55",
    "device": "X55"
+  },
+  {
+   "brand": "Sky Devices",
+   "name": "Xmobile X55",
+   "device": "X55"
   }
  ],
  "X66": [
@@ -14401,6 +14406,11 @@
  "K10": [
   {
    "brand": "Astro_Tab",
+   "name": "K10",
+   "device": "K10"
+  },
+  {
+   "brand": "FATARUS",
    "name": "K10",
    "device": "K10"
   },
@@ -28674,6 +28684,11 @@
    "device": "B1"
   },
   {
+   "brand": "F150",
+   "name": "B1",
+   "device": "B1"
+  },
+  {
    "brand": "NYX Mobile",
    "name": "B1",
    "device": "B1"
@@ -41259,6 +41274,13 @@
    "brand": "Danew",
    "name": "Dslide1019",
    "device": "Dslide1019"
+  }
+ ],
+ "Dslide1023": [
+  {
+   "brand": "Danew",
+   "name": "Dslide1023_EEA",
+   "device": "Dslide1023"
   }
  ],
  "Dslide113_V2": [
@@ -64660,6 +64682,13 @@
    "device": "HTC_A101"
   }
  ],
+ "HTC A103": [
+  {
+   "brand": "HTC",
+   "name": "HTC A103",
+   "device": "HTC_A103"
+  }
+ ],
  "2Q8L10000": [
   {
    "brand": "HTC",
@@ -74648,6 +74677,13 @@
    "brand": "Honor",
    "name": "HONOR Magic4 Pro",
    "device": "HNLGE"
+  }
+ ],
+ "HEY-W09": [
+  {
+   "brand": "Honor",
+   "name": "HONOR Pad 8",
+   "device": "HNHEY-Q"
   }
  ],
  "CMA-LX1": [
@@ -88728,6 +88764,11 @@
    "device": "X4"
   },
   {
+   "brand": "X-mobile",
+   "name": "X4",
+   "device": "X4"
+  },
+  {
    "brand": "iRulu",
    "name": "X4",
    "device": "iRULU_X4"
@@ -88948,6 +88989,13 @@
    "brand": "Inet-Tablet",
    "name": "D7911L3BC_OGS",
    "device": "D7911L3BC_OGS"
+  }
+ ],
+ "PX1": [
+  {
+   "brand": "InfiRay",
+   "name": "PX1",
+   "device": "PX1"
   }
  ],
  "Infinity-10.1-v2": [
@@ -165455,6 +165503,11 @@
   {
    "brand": "Sky (CH)",
    "name": "Elite OctaPlus",
+   "device": "Elite_OctaPlus4us"
+  },
+  {
+   "brand": "Sky (CH)",
+   "name": "Elite OctaPlus",
    "device": "Elite_OctaPlusKK1"
   }
  ],
@@ -191270,6 +191323,13 @@
    "device": "Elite_D55"
   }
  ],
+ "Elite D55T": [
+  {
+   "brand": "Sky Devices",
+   "name": "Elite D55T",
+   "device": "Elite_D55T"
+  }
+ ],
  "Elite D5Max": [
   {
    "brand": "Sky Devices",
@@ -191361,6 +191421,13 @@
    "brand": "Sky Devices",
    "name": "Elite M45",
    "device": "Elite_M45"
+  }
+ ],
+ "Elite M55": [
+  {
+   "brand": "Sky Devices",
+   "name": "Elite M55",
+   "device": "Elite_M55"
   }
  ],
  "Elite M5Plus": [
@@ -191514,6 +191581,11 @@
   {
    "brand": "Sky Devices",
    "name": "Elite T8Plus",
+   "device": "Elite_T8Plus"
+  },
+  {
+   "brand": "Sky Devices",
+   "name": "Elite T8Plus",
    "device": "Elite_T8PlusK"
   },
   {
@@ -191558,6 +191630,13 @@
    "device": "Elite_D5"
   }
  ],
+ "Elite D5T": [
+  {
+   "brand": "Sky Devices",
+   "name": "Elite_D5T",
+   "device": "Elite_D5T"
+  }
+ ],
  "Elite_E5": [
   {
    "brand": "Sky Devices",
@@ -191598,6 +191677,13 @@
    "brand": "Sky Devices",
    "name": "Elite_V55",
    "device": "Elite_V55"
+  }
+ ],
+ "F55Max": [
+  {
+   "brand": "Sky Devices",
+   "name": "F55Max",
+   "device": "F55Max"
   }
  ],
  "Fuego 4.0T": [
@@ -191936,6 +192022,13 @@
    "device": "Sky_Black2"
   }
  ],
+ "Sky Black2": [
+  {
+   "brand": "Sky Devices",
+   "name": "SKY Black2",
+   "device": "Sky_Black2gt"
+  }
+ ],
  "Sky BlackMax": [
   {
    "brand": "Sky Devices",
@@ -191976,6 +192069,13 @@
    "brand": "Sky Devices",
    "name": "SKY PrestigeX1",
    "device": "SKY_PrestigeX1"
+  }
+ ],
+ "SKY PrestigeX2": [
+  {
+   "brand": "Sky Devices",
+   "name": "SKY PrestigeX2",
+   "device": "SKY_PrestigeX2"
   }
  ],
  "SKYVISION": [
@@ -215304,6 +215404,13 @@
    "device": "I06"
   }
  ],
+ "DV8919X-EE": [
+  {
+   "brand": "Telia",
+   "name": "DV8919X-KET",
+   "device": "DV8919X-KET"
+  }
+ ],
  "Telia Nordic STB": [
   {
    "brand": "Telia",
@@ -219751,6 +219858,20 @@
    "brand": "Unnion Technologies",
    "name": "UNSP7",
    "device": "UNSP7"
+  }
+ ],
+ "Premier8": [
+  {
+   "brand": "UnoPhone",
+   "name": "Premier8",
+   "device": "Premier8"
+  }
+ ],
+ "Premier55": [
+  {
+   "brand": "UnoPhone",
+   "name": "UNO_Premier55",
+   "device": "Premier55"
   }
  ],
  "UNONU N63": [
@@ -232206,6 +232327,13 @@
    "brand": "X-mobile",
    "name": "X-mobile SmartWiFi",
    "device": "XM-SW1"
+  }
+ ],
+ "XW": [
+  {
+   "brand": "X-mobile",
+   "name": "XW",
+   "device": "XW"
   }
  ],
  "Halo": [

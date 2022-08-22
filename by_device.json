@@ -16680,6 +16680,11 @@
    "brand": "Leeco",
    "name": "\"X Serials(X43 Pro",
    "model": "X65)\""
+  },
+  {
+   "brand": "Sky Devices",
+   "name": "Xmobile X55",
+   "model": "X55"
   }
  ],
  "X66": [
@@ -16997,6 +17002,11 @@
  "K10": [
   {
    "brand": "Astro_Tab",
+   "name": "K10",
+   "model": "K10"
+  },
+  {
+   "brand": "FATARUS",
    "name": "K10",
    "model": "K10"
   },
@@ -31371,6 +31381,11 @@
    "model": "B1"
   },
   {
+   "brand": "F150",
+   "name": "B1",
+   "model": "B1"
+  },
+  {
    "brand": "NYX Mobile",
    "name": "B1",
    "model": "B1"
@@ -44251,6 +44266,13 @@
    "brand": "Danew",
    "name": "Dslide1019",
    "model": "Dslide1019"
+  }
+ ],
+ "Dslide1023": [
+  {
+   "brand": "Danew",
+   "name": "Dslide1023_EEA",
+   "model": "Dslide1023"
   }
  ],
  "Dslide113_V2": [
@@ -67303,6 +67325,13 @@
    "model": "HTC A101"
   }
  ],
+ "HTC_A103": [
+  {
+   "brand": "HTC",
+   "name": "HTC A103",
+   "model": "HTC A103"
+  }
+ ],
  "htc_zddugl": [
   {
    "brand": "HTC",
@@ -76142,6 +76171,13 @@
    "brand": "Honor",
    "name": "HONOR Magic4 Pro",
    "model": "LGE-NX9"
+  }
+ ],
+ "HNHEY-Q": [
+  {
+   "brand": "Honor",
+   "name": "HONOR Pad 8",
+   "model": "HEY-W09"
   }
  ],
  "HNCMA-Q": [
@@ -88428,6 +88464,11 @@
    "brand": "Nuu",
    "name": "X4",
    "model": "X4"
+  },
+  {
+   "brand": "X-mobile",
+   "name": "X4",
+   "model": "X4"
   }
  ],
  "Y2": [
@@ -88615,6 +88656,13 @@
    "brand": "Inet-Tablet",
    "name": "D7911L3BC_OGS",
    "model": "D7911L3BC_OGS"
+  }
+ ],
+ "PX1": [
+  {
+   "brand": "InfiRay",
+   "name": "PX1",
+   "model": "PX1"
   }
  ],
  "Infinity-101-v2": [
@@ -185480,6 +185528,13 @@
    "model": "Elite C55"
   }
  ],
+ "Elite_OctaPlus4us": [
+  {
+   "brand": "Sky (CH)",
+   "name": "Elite OctaPlus",
+   "model": "Elite OctaPlus"
+  }
+ ],
  "Elite_OctaPlusKK1": [
   {
    "brand": "Sky (CH)",
@@ -185738,6 +185793,13 @@
    "model": "Elite_D55"
   }
  ],
+ "Elite_D55T": [
+  {
+   "brand": "Sky Devices",
+   "name": "Elite D55T",
+   "model": "Elite D55T"
+  }
+ ],
  "Elite_D5Max": [
   {
    "brand": "Sky Devices",
@@ -185851,6 +185913,13 @@
    "brand": "Sky Devices",
    "name": "Elite M45",
    "model": "Elite M45"
+  }
+ ],
+ "Elite_M55": [
+  {
+   "brand": "Sky Devices",
+   "name": "Elite M55",
+   "model": "Elite M55"
   }
  ],
  "Elite_M5Plus": [
@@ -186049,6 +186118,18 @@
    "model": "Elite T8Plus"
   }
  ],
+ "Elite_T8Plus": [
+  {
+   "brand": "Sky Devices",
+   "name": "Elite T8Plus",
+   "model": "Elite T8Plus"
+  },
+  {
+   "brand": "Sky Devices",
+   "name": "Elite_T8Plus",
+   "model": "Elite T8Plus"
+  }
+ ],
  "Elite_T8PlusK": [
   {
    "brand": "Sky Devices",
@@ -186075,6 +186156,13 @@
    "brand": "Sky Devices",
    "name": "Elite_D5",
    "model": "Elite D5"
+  }
+ ],
+ "Elite_D5T": [
+  {
+   "brand": "Sky Devices",
+   "name": "Elite_D5T",
+   "model": "Elite D5T"
   }
  ],
  "Elite_E5": [
@@ -186133,13 +186221,6 @@
    "model": "Elite T8Plus"
   }
  ],
- "Elite_T8Plus": [
-  {
-   "brand": "Sky Devices",
-   "name": "Elite_T8Plus",
-   "model": "Elite T8Plus"
-  }
- ],
  "Elite_T8Pluss": [
   {
    "brand": "Sky Devices",
@@ -186159,6 +186240,13 @@
    "brand": "Sky Devices",
    "name": "Elite_V55",
    "model": "Elite V55"
+  }
+ ],
+ "F55Max": [
+  {
+   "brand": "Sky Devices",
+   "name": "F55Max",
+   "model": "F55Max"
   }
  ],
  "Fuego_4_0T_EC": [
@@ -186505,6 +186593,13 @@
    "model": "SKY Black2"
   }
  ],
+ "Sky_Black2gt": [
+  {
+   "brand": "Sky Devices",
+   "name": "SKY Black2",
+   "model": "Sky Black2"
+  }
+ ],
  "Sky_BlackMax": [
   {
    "brand": "Sky Devices",
@@ -186552,6 +186647,13 @@
    "brand": "Sky Devices",
    "name": "SKY PrestigeX1",
    "model": "SKY PrestigeX1"
+  }
+ ],
+ "SKY_PrestigeX2": [
+  {
+   "brand": "Sky Devices",
+   "name": "SKY PrestigeX2",
+   "model": "SKY PrestigeX2"
   }
  ],
  "SKYVISION": [
@@ -207269,6 +207371,13 @@
    "model": "I06"
   }
  ],
+ "DV8919X-KET": [
+  {
+   "brand": "Telia",
+   "name": "DV8919X-KET",
+   "model": "DV8919X-EE"
+  }
+ ],
  "DV8919-KST": [
   {
    "brand": "Telia",
@@ -211513,6 +211622,20 @@
    "brand": "UnoPhone",
    "name": "Premier5",
    "model": "Premier5"
+  }
+ ],
+ "Premier8": [
+  {
+   "brand": "UnoPhone",
+   "name": "Premier8",
+   "model": "Premier8"
+  }
+ ],
+ "Premier55": [
+  {
+   "brand": "UnoPhone",
+   "name": "UNO_Premier55",
+   "model": "Premier55"
   }
  ],
  "N63A": [
@@ -223545,6 +223668,13 @@
    "brand": "X-mobile",
    "name": "X-mobile SmartWiFi",
    "model": "XM-SW1"
+  }
+ ],
+ "XW": [
+  {
+   "brand": "X-mobile",
+   "name": "XW",
+   "model": "XW"
   }
  ],
  "xgimiapollo": [

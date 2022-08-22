@@ -28249,6 +28249,11 @@
    "model": "Dslide1019"
   },
   {
+   "device": "Dslide1023",
+   "name": "Dslide1023_EEA",
+   "model": "Dslide1023"
+  },
+  {
    "device": "Dslide113_V2",
    "name": "Dslide113_V2_EEA",
    "model": "Dslide113_V2"
@@ -35791,6 +35796,11 @@
    "model": "Air1 Pro"
   },
   {
+   "device": "B1",
+   "name": "B1",
+   "model": "B1"
+  },
+  {
    "device": "B1_Pro",
    "name": "B1 Pro",
    "model": "B1 Pro"
@@ -35939,6 +35949,13 @@
    "device": "UJ_1098",
    "name": "UJ_1098",
    "model": "UJ_1098"
+  }
+ ],
+ "FATARUS": [
+  {
+   "device": "K10",
+   "name": "K10",
+   "model": "K10"
   }
  ],
  "FAVORITT": [
@@ -45637,6 +45654,11 @@
    "model": "HTC A101"
   },
   {
+   "device": "HTC_A103",
+   "name": "HTC A103",
+   "model": "HTC A103"
+  },
+  {
    "device": "htc_zddugl",
    "name": "HTC Desire 19s",
    "model": "2Q8L10000"
@@ -53622,6 +53644,11 @@
    "device": "HNLGE",
    "name": "HONOR Magic4 Pro",
    "model": "LGE-NX9"
+  },
+  {
+   "device": "HNHEY-Q",
+   "name": "HONOR Pad 8",
+   "model": "HEY-W09"
   },
   {
    "device": "HNCMA-Q",
@@ -64403,6 +64430,13 @@
    "device": "D7911L3BC_OGS",
    "name": "D7911L3BC_OGS",
    "model": "D7911L3BC_OGS"
+  }
+ ],
+ "InfiRay": [
+  {
+   "device": "PX1",
+   "name": "PX1",
+   "model": "PX1"
   }
  ],
  "Infinity": [
@@ -143662,6 +143696,11 @@
    "model": "Elite C55"
   },
   {
+   "device": "Elite_OctaPlus4us",
+   "name": "Elite OctaPlus",
+   "model": "Elite OctaPlus"
+  },
+  {
    "device": "Elite_OctaPlusKK1",
    "name": "Elite OctaPlus",
    "model": "Elite OctaPlus"
@@ -143844,6 +143883,11 @@
    "model": "Elite_D55"
   },
   {
+   "device": "Elite_D55T",
+   "name": "Elite D55T",
+   "model": "Elite D55T"
+  },
+  {
    "device": "Elite_D5Max",
    "name": "Elite D5Max",
    "model": "Elite D5Max"
@@ -143917,6 +143961,11 @@
    "device": "Elite_M45",
    "name": "Elite M45",
    "model": "Elite M45"
+  },
+  {
+   "device": "Elite_M55",
+   "name": "Elite M55",
+   "model": "Elite M55"
   },
   {
    "device": "Elite_M5Plus",
@@ -144059,6 +144108,11 @@
    "model": "Elite T8Plus"
   },
   {
+   "device": "Elite_T8Plus",
+   "name": "Elite T8Plus",
+   "model": "Elite T8Plus"
+  },
+  {
    "device": "Elite_T8PlusK",
    "name": "Elite T8Plus",
    "model": "Elite T8Plus"
@@ -144082,6 +144136,11 @@
    "device": "Elite_D55",
    "name": "Elite_D55",
    "model": "Elite_D55"
+  },
+  {
+   "device": "Elite_D5T",
+   "name": "Elite_D5T",
+   "model": "Elite D5T"
   },
   {
    "device": "Elite_E5",
@@ -144157,6 +144216,11 @@
    "device": "Elite_V55",
    "name": "Elite_V55",
    "model": "Elite V55"
+  },
+  {
+   "device": "F55Max",
+   "name": "F55Max",
+   "model": "F55Max"
   },
   {
    "device": "Fuego_4_0T_EC",
@@ -144404,6 +144468,11 @@
    "model": "SKY Black2"
   },
   {
+   "device": "Sky_Black2gt",
+   "name": "SKY Black2",
+   "model": "Sky Black2"
+  },
+  {
    "device": "Sky_BlackMax",
    "name": "SKY BlackMax",
    "model": "Sky BlackMax"
@@ -144437,6 +144506,11 @@
    "device": "SKY_PrestigeX1",
    "name": "SKY PrestigeX1",
    "model": "SKY PrestigeX1"
+  },
+  {
+   "device": "SKY_PrestigeX2",
+   "name": "SKY PrestigeX2",
+   "model": "SKY PrestigeX2"
   },
   {
    "device": "SKYVISION",
@@ -144502,6 +144576,11 @@
    "device": "X8A",
    "name": "X8A",
    "model": "X8A"
+  },
+  {
+   "device": "X55",
+   "name": "Xmobile X55",
+   "model": "X55"
   },
   {
    "device": "PRO_SELFIE",
@@ -162597,6 +162676,11 @@
  ],
  "Telia": [
   {
+   "device": "DV8919X-KET",
+   "name": "DV8919X-KET",
+   "model": "DV8919X-EE"
+  },
+  {
    "device": "DV8919-KST",
    "name": "Telia Nordic STB",
    "model": "Telia Nordic STB"
@@ -166523,6 +166607,16 @@
    "device": "Premier5",
    "name": "Premier5",
    "model": "Premier5"
+  },
+  {
+   "device": "Premier8",
+   "name": "Premier8",
+   "model": "Premier8"
+  },
+  {
+   "device": "Premier55",
+   "name": "UNO_Premier55",
+   "model": "Premier55"
   }
  ],
  "Unonu": [
@@ -176726,6 +176820,16 @@
    "device": "XM-SW1",
    "name": "X-mobile SmartWiFi",
    "model": "XM-SW1"
+  },
+  {
+   "device": "X4",
+   "name": "X4",
+   "model": "X4"
+  },
+  {
+   "device": "XW",
+   "name": "XW",
+   "model": "XW"
   }
  ],
  "XGIMI": [
