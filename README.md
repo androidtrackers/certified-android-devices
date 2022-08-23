@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-08-22
+Last sync is 2022-08-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3212,6 +3212,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|B-STREAM|JFK|B-STREAM|
 |Blaupunkt|B5000|ikebukuro|AI PONT|
 |Blaupunkt|BATV10|ICN|BATV10|
+|Blaupunkt|BLAUPUNKT|bruno|BLAUPUNKT 2K Android TV|
 |Blaupunkt|BLAUPUNKT|stanford|CSV2K|
 |Blaupunkt|BLAUPUNKT|zhongshan|CSV4K|
 |Blaupunkt|BLAUPUNKT2K|nippori|BP 2K Android TV|
@@ -3800,6 +3801,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CCC|LifeStick 4k|ts302|LifeStick 4K|
 |CCC|TSUTAYA Stick|ts201|TStick|
 |CCC|TV Stick|ts401|TV Stick|
+|CCC|TV Stick|ts401|TV StickL|
 |CCIT|Xedition|Xedition|Xedition|
 |CEM Global|Continental|CE10412-26|CE10412-26|
 |CEM Global|Continential|CE10402-16|CE10402-16|
@@ -13973,6 +13975,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kiowa|X4_CRISTAL|X4_CRISTAL|X4_CRISTAL|
 |Kiowa|X4_LTE|X4_LTE|X4_LTE|
 |Kivi|KIVI|bangbae|KIVI 4K Android TV|
+|Kivi|KIVI|bruno|KIVI 2K Android TV|
 |Kivi|KIVI|komagome|KIVI 2K Android TV|
 |Klipad|7588AN|tulip-d9003|7588AN|
 |Klipad|7588AN|tulip-d9003|KL3838|
@@ -17575,9 +17578,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MTC|Hansung|seocho|Hansung 4K Android TV|
 |MTC|Infiniton|bangbae|Infiniton 4K Android TV|
 |MTC|Infiniton|komagome|Infiniton 2K Android TV|
+|MTC|KIVI|shilin|KIVI 4K Android TV|
 |MTC|MTC|seocho|DWSUMMUS 4K Android TV|
 |MTC|MTC|seocho|Posfic 4K Android TV|
 |MTC|MTC|seocho|WasabiMango 4K Android TV|
+|MTC|Olive|bruno|Olive 2K Android TV|
+|MTC|Olive|shilin|Olive 4K Android TV|
 |MTC|Osmartphona|Osmartphona|Osmartphona|
 |MTC|SmartEver|seocho|SmartEver 4K Android TV|
 |MTC|SmartEver|shilin|SmartEver4KAndroidTV|
@@ -27259,13 +27265,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Fold3 5G|q2q|SM-F926U|
 |Samsung|Galaxy Z Fold3 5G|q2q|SM-F926U1|
 |Samsung|Galaxy Z Fold3 5G|q2q|SM-F926W|
+|Samsung|Galaxy Z Fold4|q4q|SM-F9360|
 |Samsung|Galaxy Z Fold4|q4q|SM-F936B|
+|Samsung|Galaxy Z Fold4|q4q|SM-F936N|
+|Samsung|Galaxy Z Fold4|q4q|SM-F936U|
 |Samsung|Galaxy Z Fold4|q4q|SM-F936U1|
-|Samsung|Galaxy Z fold4|q4q|SM-F9360|
-|Samsung|Galaxy Z fold4|q4q|SM-F936B|
-|Samsung|Galaxy Z fold4|q4q|SM-F936N|
-|Samsung|Galaxy Z fold4|q4q|SM-F936U|
-|Samsung|Galaxy Z fold4|q4q|SM-F936W|
+|Samsung|Galaxy Z Fold4|q4q|SM-F936W|
 |Samsung|Galaxy player 70 Plus|YP-GB70D|YP-GB70D|
 |Samsung|Galaxy view|gvltektt|SM-T677NK|
 |Samsung|Galaxy view|gvltelgt|SM-T677NL|

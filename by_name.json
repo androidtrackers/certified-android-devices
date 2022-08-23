@@ -31017,6 +31017,11 @@
  "BLAUPUNKT": [
   {
    "brand": "Blaupunkt",
+   "device": "bruno",
+   "model": "BLAUPUNKT 2K Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
    "device": "stanford",
    "model": "CSV2K"
   },
@@ -35873,6 +35878,11 @@
    "brand": "CCC",
    "device": "ts401",
    "model": "TV Stick"
+  },
+  {
+   "brand": "CCC",
+   "device": "ts401",
+   "model": "TV StickL"
   },
   {
    "brand": "TVCore",
@@ -101113,8 +101123,18 @@
   },
   {
    "brand": "Kivi",
+   "device": "bruno",
+   "model": "KIVI 2K Android TV"
+  },
+  {
+   "brand": "Kivi",
    "device": "komagome",
    "model": "KIVI 2K Android TV"
+  },
+  {
+   "brand": "MTC",
+   "device": "shilin",
+   "model": "KIVI 4K Android TV"
   }
  ],
  "7588AN": [
@@ -121781,6 +121801,18 @@
    "brand": "MTC",
    "device": "seocho",
    "model": "WasabiMango 4K Android TV"
+  }
+ ],
+ "Olive": [
+  {
+   "brand": "MTC",
+   "device": "bruno",
+   "model": "Olive 2K Android TV"
+  },
+  {
+   "brand": "MTC",
+   "device": "shilin",
+   "model": "Olive 4K Android TV"
   }
  ],
  "Osmartphona": [
@@ -179089,18 +179121,6 @@
   {
    "brand": "Samsung",
    "device": "q4q",
-   "model": "SM-F936B"
-  },
-  {
-   "brand": "Samsung",
-   "device": "q4q",
-   "model": "SM-F936U1"
-  }
- ],
- "Galaxy Z fold4": [
-  {
-   "brand": "Samsung",
-   "device": "q4q",
    "model": "SM-F9360"
   },
   {
@@ -179117,6 +179137,11 @@
    "brand": "Samsung",
    "device": "q4q",
    "model": "SM-F936U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "q4q",
+   "model": "SM-F936U1"
   },
   {
    "brand": "Samsung",

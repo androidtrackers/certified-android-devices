@@ -25073,6 +25073,18 @@
    "device": "ICN"
   }
  ],
+ "BLAUPUNKT 2K Android TV": [
+  {
+   "brand": "Blaupunkt",
+   "name": "BLAUPUNKT",
+   "device": "bruno"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "Blaupunkt",
+   "device": "komagome"
+  }
+ ],
  "CSV2K": [
   {
    "brand": "Blaupunkt",
@@ -25216,13 +25228,6 @@
    "brand": "Blaupunkt",
    "name": "Blaupunkt",
    "device": "ewha"
-  }
- ],
- "BLAUPUNKT 2K Android TV": [
-  {
-   "brand": "Blaupunkt",
-   "name": "Blaupunkt",
-   "device": "komagome"
   }
  ],
  "BLAU-TVE19H": [
@@ -29558,6 +29563,18 @@
    "brand": "realme",
    "name": "TV Stick",
    "device": "BOS"
+  }
+ ],
+ "TV StickL": [
+  {
+   "brand": "CCC",
+   "name": "TV Stick",
+   "device": "ts401"
+  },
+  {
+   "brand": "TVCore",
+   "name": "ts401l",
+   "device": "ts401"
   }
  ],
  "Xedition": [
@@ -98524,9 +98541,19 @@
    "brand": "Kivi",
    "name": "KIVI",
    "device": "bangbae"
+  },
+  {
+   "brand": "MTC",
+   "name": "KIVI",
+   "device": "shilin"
   }
  ],
  "KIVI 2K Android TV": [
+  {
+   "brand": "Kivi",
+   "name": "KIVI",
+   "device": "bruno"
+  },
   {
    "brand": "Kivi",
    "name": "KIVI",
@@ -122462,6 +122489,20 @@
    "brand": "MTC",
    "name": "MTC",
    "device": "seocho"
+  }
+ ],
+ "Olive 2K Android TV": [
+  {
+   "brand": "MTC",
+   "name": "Olive",
+   "device": "bruno"
+  }
+ ],
+ "Olive 4K Android TV": [
+  {
+   "brand": "MTC",
+   "name": "Olive",
+   "device": "shilin"
   }
  ],
  "Osmartphona": [
@@ -186209,15 +186250,31 @@
    "device": "q2q"
   }
  ],
+ "SM-F9360": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold4",
+   "device": "q4q"
+  }
+ ],
  "SM-F936B": [
   {
    "brand": "Samsung",
    "name": "Galaxy Z Fold4",
    "device": "q4q"
-  },
+  }
+ ],
+ "SM-F936N": [
   {
    "brand": "Samsung",
-   "name": "Galaxy Z fold4",
+   "name": "Galaxy Z Fold4",
+   "device": "q4q"
+  }
+ ],
+ "SM-F936U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold4",
    "device": "q4q"
   }
  ],
@@ -186228,31 +186285,10 @@
    "device": "q4q"
   }
  ],
- "SM-F9360": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Z fold4",
-   "device": "q4q"
-  }
- ],
- "SM-F936N": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Z fold4",
-   "device": "q4q"
-  }
- ],
- "SM-F936U": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Z fold4",
-   "device": "q4q"
-  }
- ],
  "SM-F936W": [
   {
    "brand": "Samsung",
-   "name": "Galaxy Z fold4",
+   "name": "Galaxy Z Fold4",
    "device": "q4q"
   }
  ],
@@ -211224,13 +211260,6 @@
    "brand": "TUPAD",
    "name": "TU7_58212_18222",
    "device": "TU7_58212"
-  }
- ],
- "TV StickL": [
-  {
-   "brand": "TVCore",
-   "name": "ts401l",
-   "device": "ts401"
   }
  ],
  "TV PLUS 4K BOX": [

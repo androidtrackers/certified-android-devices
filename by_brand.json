@@ -16584,6 +16584,11 @@
    "model": "BATV10"
   },
   {
+   "device": "bruno",
+   "name": "BLAUPUNKT",
+   "model": "BLAUPUNKT 2K Android TV"
+  },
+  {
    "device": "stanford",
    "name": "BLAUPUNKT",
    "model": "CSV2K"
@@ -19604,6 +19609,11 @@
    "device": "ts401",
    "name": "TV Stick",
    "model": "TV Stick"
+  },
+  {
+   "device": "ts401",
+   "name": "TV Stick",
+   "model": "TV StickL"
   }
  ],
  "CCIT": [
@@ -72037,6 +72047,11 @@
    "model": "KIVI 4K Android TV"
   },
   {
+   "device": "bruno",
+   "name": "KIVI",
+   "model": "KIVI 2K Android TV"
+  },
+  {
    "device": "komagome",
    "name": "KIVI",
    "model": "KIVI 2K Android TV"
@@ -90345,6 +90360,11 @@
    "model": "Infiniton 2K Android TV"
   },
   {
+   "device": "shilin",
+   "name": "KIVI",
+   "model": "KIVI 4K Android TV"
+  },
+  {
    "device": "seocho",
    "name": "MTC",
    "model": "DWSUMMUS 4K Android TV"
@@ -90358,6 +90378,16 @@
    "device": "seocho",
    "name": "MTC",
    "model": "WasabiMango 4K Android TV"
+  },
+  {
+   "device": "bruno",
+   "name": "Olive",
+   "model": "Olive 2K Android TV"
+  },
+  {
+   "device": "shilin",
+   "name": "Olive",
+   "model": "Olive 4K Android TV"
   },
   {
    "device": "Osmartphona",
@@ -139873,7 +139903,22 @@
   {
    "device": "q4q",
    "name": "Galaxy Z Fold4",
+   "model": "SM-F9360"
+  },
+  {
+   "device": "q4q",
+   "name": "Galaxy Z Fold4",
    "model": "SM-F936B"
+  },
+  {
+   "device": "q4q",
+   "name": "Galaxy Z Fold4",
+   "model": "SM-F936N"
+  },
+  {
+   "device": "q4q",
+   "name": "Galaxy Z Fold4",
+   "model": "SM-F936U"
   },
   {
    "device": "q4q",
@@ -139882,27 +139927,7 @@
   },
   {
    "device": "q4q",
-   "name": "Galaxy Z fold4",
-   "model": "SM-F9360"
-  },
-  {
-   "device": "q4q",
-   "name": "Galaxy Z fold4",
-   "model": "SM-F936B"
-  },
-  {
-   "device": "q4q",
-   "name": "Galaxy Z fold4",
-   "model": "SM-F936N"
-  },
-  {
-   "device": "q4q",
-   "name": "Galaxy Z fold4",
-   "model": "SM-F936U"
-  },
-  {
-   "device": "q4q",
-   "name": "Galaxy Z fold4",
+   "name": "Galaxy Z Fold4",
    "model": "SM-F936W"
   },
   {

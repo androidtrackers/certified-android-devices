@@ -7329,6 +7329,11 @@
    "model": "ACONATIC 2K Android TV"
   },
   {
+   "brand": "Blaupunkt",
+   "name": "BLAUPUNKT",
+   "model": "BLAUPUNKT 2K Android TV"
+  },
+  {
    "brand": "EKO",
    "name": "JVC",
    "model": "EKO 2K Android TV"
@@ -7342,6 +7347,16 @@
    "brand": "JVC",
    "name": "JVC",
    "model": "JVC2KAndroid TV"
+  },
+  {
+   "brand": "Kivi",
+   "name": "KIVI",
+   "model": "KIVI 2K Android TV"
+  },
+  {
+   "brand": "MTC",
+   "name": "Olive",
+   "model": "Olive 2K Android TV"
   },
   {
    "brand": "Polaroid",
@@ -7394,6 +7409,16 @@
    "brand": "JVC",
    "name": "JVC",
    "model": "JVC4KAndroid TV"
+  },
+  {
+   "brand": "MTC",
+   "name": "KIVI",
+   "model": "KIVI 4K Android TV"
+  },
+  {
+   "brand": "MTC",
+   "name": "Olive",
+   "model": "Olive 4K Android TV"
   },
   {
    "brand": "MTC",
@@ -31933,6 +31958,11 @@
    "brand": "CCC",
    "name": "TV Stick",
    "model": "TV Stick"
+  },
+  {
+   "brand": "CCC",
+   "name": "TV Stick",
+   "model": "TV StickL"
   },
   {
    "brand": "TVCore",
@@ -180826,7 +180856,22 @@
   {
    "brand": "Samsung",
    "name": "Galaxy Z Fold4",
+   "model": "SM-F9360"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold4",
    "model": "SM-F936B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold4",
+   "model": "SM-F936N"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold4",
+   "model": "SM-F936U"
   },
   {
    "brand": "Samsung",
@@ -180835,27 +180880,7 @@
   },
   {
    "brand": "Samsung",
-   "name": "Galaxy Z fold4",
-   "model": "SM-F9360"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Z fold4",
-   "model": "SM-F936B"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Z fold4",
-   "model": "SM-F936N"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Z fold4",
-   "model": "SM-F936U"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Z fold4",
+   "name": "Galaxy Z Fold4",
    "model": "SM-F936W"
   }
  ],
