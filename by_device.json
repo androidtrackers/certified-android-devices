@@ -23004,6 +23004,11 @@
    "brand": "BMobile",
    "name": "BL50",
    "model": "BL50"
+  },
+  {
+   "brand": "BMobile",
+   "name": "BL50",
+   "model": "BL52"
   }
  ],
  "Bmobile_BL50_TG07": [
@@ -34371,6 +34376,13 @@
    "brand": "Cellacom",
    "name": "S51_lite",
    "model": "S51_lite"
+  }
+ ],
+ "SEI800CC": [
+  {
+   "brand": "Cellcom TV",
+   "name": "SEI-S905X4",
+   "model": "SEI-S905X4"
   }
  ],
  "S4": [
@@ -69119,6 +69131,13 @@
    "model": "Hackers_Tab"
   }
  ],
+ "A863K_EEA": [
+  {
+   "brand": "Haehne",
+   "name": "A863K_EEA",
+   "model": "HAEHNE"
+  }
+ ],
  "HAEHNE_M7": [
   {
    "brand": "Haehne",
@@ -87681,6 +87700,13 @@
    "model": "AF9-AT701_EEA"
   }
  ],
+ "GW2-L1049": [
+  {
+   "brand": "INSYS",
+   "name": "GW2-L1049",
+   "model": "GW2-L1049"
+  }
+ ],
  "HK9-4010": [
   {
    "brand": "INSYS",
@@ -96502,6 +96528,13 @@
    "model": "Black X"
   }
  ],
+ "Black_Z": [
+  {
+   "brand": "Kalley",
+   "name": "Black_Z",
+   "model": "Black_Z"
+  }
+ ],
  "ELEMENT_MAX": [
   {
    "brand": "Kalley",
@@ -96610,6 +96643,13 @@
    "brand": "Kammunica",
    "name": "Kammunica_500V",
    "model": "Kammunica_500V"
+  }
+ ],
+ "Kammunica_800": [
+  {
+   "brand": "Kammunica",
+   "name": "Kammunica_800",
+   "model": "Kammunica_800"
   }
  ],
  "Kammunica_XD": [
@@ -126019,6 +126059,13 @@
    "model": "MT003-21"
   }
  ],
+ "MT003_22": [
+  {
+   "brand": "Mightier",
+   "name": "MT003_22",
+   "model": "MT003-22"
+  }
+ ],
  "MT004_20": [
   {
    "brand": "Mightier",
@@ -132630,6 +132677,13 @@
    "brand": "Mpgio",
    "name": "Legend_A",
    "model": "Legend_A"
+  }
+ ],
+ "MAT10221": [
+  {
+   "brand": "Mpgio",
+   "name": "MAT10221",
+   "model": "MAT10221"
   }
  ],
  "MAT80211B": [
@@ -146256,6 +146310,13 @@
    "model": "PCB_S1063"
   }
  ],
+ "PCB_T801": [
+  {
+   "brand": "PCBOX",
+   "name": "PCB_T801",
+   "model": "PCB_T801"
+  }
+ ],
  "610": [
   {
    "brand": "PCD Argentina",
@@ -157451,6 +157512,20 @@
    "brand": "RAVOZ",
    "name": "RAVOZ_V2",
    "model": "RAVOZ V2"
+  }
+ ],
+ "RAVOZ_V3": [
+  {
+   "brand": "RAVOZ",
+   "name": "RAVOZ_V3",
+   "model": "RAVOZ V3"
+  }
+ ],
+ "RAVOZ_V5": [
+  {
+   "brand": "RAVOZ",
+   "name": "RAVOZ_V5",
+   "model": "RAVOZ V5"
   }
  ],
  "RAVOZ_Z3_Lite": [
@@ -181275,6 +181350,13 @@
    "model": "T5"
   }
  ],
+ "TAB7A3G06": [
+  {
+   "brand": "Sankey",
+   "name": "TAB7A3G06",
+   "model": "TAB7A3G06"
+  }
+ ],
  "TAB1012FKY": [
   {
    "brand": "Sankey",
@@ -202758,6 +202840,13 @@
    "model": "MT-750QU_Pro"
   }
  ],
+ "MT-750QU_V1": [
+  {
+   "brand": "TJD(SZ)",
+   "name": "MT-750QU_V1",
+   "model": "MT-750QU"
+  }
+ ],
  "MT-761QU": [
   {
    "brand": "TJD(SZ)",
@@ -205591,6 +205680,13 @@
    "brand": "Tecno",
    "name": "POP 5P",
    "model": "TECNO BD3"
+  }
+ ],
+ "TECNO-BE8": [
+  {
+   "brand": "Tecno",
+   "name": "POP 6 Pro",
+   "model": "TECNO BE8"
   }
  ],
  "TECNO-BE8i": [
@@ -212779,6 +212875,13 @@
    "brand": "Veidoo",
    "name": "T80",
    "model": "T80"
+  }
+ ],
+ "T80_PLUS": [
+  {
+   "brand": "Veidoo",
+   "name": "T80_PLUS",
+   "model": "T80_PLUS"
   }
  ],
  "V88": [
@@ -235165,6 +235268,13 @@
    "model": "ZB10"
   }
  ],
+ "ZB10M": [
+  {
+   "brand": "ZZB (cn)",
+   "name": "ZB10M",
+   "model": "ZB10M"
+  }
+ ],
  "ZB10_EEA": [
   {
    "brand": "ZZB (cn)",
@@ -236266,6 +236376,13 @@
    "brand": "Zonko",
    "name": "K108_EEA",
    "model": "K108_EEA"
+  }
+ ],
+ "K112": [
+  {
+   "brand": "Zonko",
+   "name": "K112",
+   "model": "K112"
   }
  ],
  "K113": [
@@ -238933,6 +239050,11 @@
    "brand": "iMin",
    "name": "I22M01",
    "model": "I22M01"
+  },
+  {
+   "brand": "iMin",
+   "name": "Swift 1",
+   "model": "Swift_1"
   }
  ],
  "EG104": [
@@ -241023,6 +241145,13 @@
    "brand": "weelikeit",
    "name": "C83W",
    "model": "C83W"
+  }
+ ],
+ "C83W_EEA": [
+  {
+   "brand": "weelikeit",
+   "name": "C83W_EEA",
+   "model": "C83W_EEA"
   }
  ],
  "F11W": [

@@ -20297,6 +20297,23 @@
    "device": "Bmobile_BL50_DG"
   }
  ],
+ "BL52": [
+  {
+   "brand": "BMobile",
+   "name": "BL50",
+   "device": "Bmobile_BL50_TG06"
+  },
+  {
+   "brand": "BMobile",
+   "name": "BL52",
+   "device": "Bmobile_BL52"
+  },
+  {
+   "brand": "BMobile",
+   "name": "BL52_TG06",
+   "device": "Bmobile_BL52_TG06"
+  }
+ ],
  "BL51": [
   {
    "brand": "BMobile",
@@ -20363,18 +20380,6 @@
    "brand": "BMobile",
    "name": "BL51",
    "device": "Bmobile_BL51_MV12"
-  }
- ],
- "BL52": [
-  {
-   "brand": "BMobile",
-   "name": "BL52",
-   "device": "Bmobile_BL52"
-  },
-  {
-   "brand": "BMobile",
-   "name": "BL52_TG06",
-   "device": "Bmobile_BL52_TG06"
   }
  ],
  "BL54Pro": [
@@ -31874,6 +31879,13 @@
    "brand": "Cellcom TV",
    "name": "SEI-S905X2",
    "device": "tai"
+  }
+ ],
+ "SEI-S905X4": [
+  {
+   "brand": "Cellcom TV",
+   "name": "SEI-S905X4",
+   "device": "SEI800CC"
   }
  ],
  "S4": [
@@ -66851,6 +66863,13 @@
    "device": "Hackers_Tab"
   }
  ],
+ "HAEHNE": [
+  {
+   "brand": "Haehne",
+   "name": "A863K_EEA",
+   "device": "A863K_EEA"
+  }
+ ],
  "G20": [
   {
    "brand": "Hafury",
@@ -88026,6 +88045,13 @@
    "device": "AF9-AT701_EEA"
   }
  ],
+ "GW2-L1049": [
+  {
+   "brand": "INSYS",
+   "name": "GW2-L1049",
+   "device": "GW2-L1049"
+  }
+ ],
  "HK9-4010": [
   {
    "brand": "INSYS",
@@ -97304,6 +97330,13 @@
    "device": "Black_X"
   }
  ],
+ "Black_Z": [
+  {
+   "brand": "Kalley",
+   "name": "Black_Z",
+   "device": "Black_Z"
+  }
+ ],
  "ELEMENT MAX": [
   {
    "brand": "Kalley",
@@ -97400,6 +97433,13 @@
    "brand": "Kammunica",
    "name": "Kammunica_500V",
    "device": "Kammunica_500V"
+  }
+ ],
+ "Kammunica_800": [
+  {
+   "brand": "Kammunica",
+   "name": "Kammunica_800",
+   "device": "Kammunica_800"
   }
  ],
  "Kammunica_XD": [
@@ -128122,6 +128162,13 @@
    "device": "MT003-21"
   }
  ],
+ "MT003-22": [
+  {
+   "brand": "Mightier",
+   "name": "MT003_22",
+   "device": "MT003_22"
+  }
+ ],
  "MT004_20": [
   {
    "brand": "Mightier",
@@ -134973,6 +135020,13 @@
    "brand": "Mpgio",
    "name": "Legend_A",
    "device": "Legend_A"
+  }
+ ],
+ "MAT10221": [
+  {
+   "brand": "Mpgio",
+   "name": "MAT10221",
+   "device": "MAT10221"
   }
  ],
  "MAT80211B": [
@@ -148910,6 +148964,13 @@
    "device": "PCB_S1063"
   }
  ],
+ "PCB_T801": [
+  {
+   "brand": "PCBOX",
+   "name": "PCB_T801",
+   "device": "PCB_T801"
+  }
+ ],
  "610": [
   {
    "brand": "PCD Argentina",
@@ -160617,6 +160678,20 @@
    "brand": "RAVOZ",
    "name": "RAVOZ_V2",
    "device": "RAVOZ_V2"
+  }
+ ],
+ "RAVOZ V3": [
+  {
+   "brand": "RAVOZ",
+   "name": "RAVOZ_V3",
+   "device": "RAVOZ_V3"
+  }
+ ],
+ "RAVOZ V5": [
+  {
+   "brand": "RAVOZ",
+   "name": "RAVOZ_V5",
+   "device": "RAVOZ_V5"
   }
  ],
  "RAVOZ Z3 Lite": [
@@ -186685,6 +186760,13 @@
    "device": "SANAEKO"
   }
  ],
+ "TAB7A3G06": [
+  {
+   "brand": "Sankey",
+   "name": "TAB7A3G06",
+   "device": "TAB7A3G06"
+  }
+ ],
  "TAB1012FKY": [
   {
    "brand": "Sankey",
@@ -210602,6 +210684,11 @@
    "brand": "TJD(SZ)",
    "name": "MT 750QU",
    "device": "MT-750QU"
+  },
+  {
+   "brand": "TJD(SZ)",
+   "name": "MT-750QU_V1",
+   "device": "MT-750QU_V1"
   }
  ],
  "MT-1010OF": [
@@ -213578,6 +213665,13 @@
    "brand": "Tecno",
    "name": "POP 5P",
    "device": "TECNO-BD3"
+  }
+ ],
+ "TECNO BE8": [
+  {
+   "brand": "Tecno",
+   "name": "POP 6 Pro",
+   "device": "TECNO-BE8"
   }
  ],
  "TECNO BE8i": [
@@ -221020,6 +221114,13 @@
    "brand": "Veidoo",
    "name": "T80",
    "device": "T80"
+  }
+ ],
+ "T80_PLUS": [
+  {
+   "brand": "Veidoo",
+   "name": "T80_PLUS",
+   "device": "T80_PLUS"
   }
  ],
  "V88": [
@@ -245822,6 +245923,13 @@
    "device": "ZB10"
   }
  ],
+ "ZB10M": [
+  {
+   "brand": "ZZB (cn)",
+   "name": "ZB10M",
+   "device": "ZB10M"
+  }
+ ],
  "ZB10_EEA": [
   {
    "brand": "ZZB (cn)",
@@ -246938,6 +247046,13 @@
    "brand": "Zonko",
    "name": "K108_EEA",
    "device": "K108_EEA"
+  }
+ ],
+ "K112": [
+  {
+   "brand": "Zonko",
+   "name": "K112",
+   "device": "K112"
   }
  ],
  "K113": [
@@ -249593,6 +249708,13 @@
    "device": "I22M01"
   }
  ],
+ "Swift_1": [
+  {
+   "brand": "iMin",
+   "name": "Swift 1",
+   "device": "I22M01"
+  }
+ ],
  "EG104": [
   {
    "brand": "iMuz",
@@ -251681,6 +251803,13 @@
    "brand": "weelikeit",
    "name": "C83W",
    "device": "C83W"
+  }
+ ],
+ "C83W_EEA": [
+  {
+   "brand": "weelikeit",
+   "name": "C83W_EEA",
+   "device": "C83W_EEA"
   }
  ],
  "F11W": [

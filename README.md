@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-08-23
+Last sync is 2022-08-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2537,6 +2537,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|BL50|Bmobile_BL50_DG|BL50_DG|
 |BMobile|BL50|Bmobile_BL50_TG05|BL50|
 |BMobile|BL50|Bmobile_BL50_TG06|BL50|
+|BMobile|BL50|Bmobile_BL50_TG06|BL52|
 |BMobile|BL50|Bmobile_BL50_TG07|BL50|
 |BMobile|BL50|Bmobile_BL50_TG07|BL51|
 |BMobile|BL50|Bmobile_BL50_TG09|BL50|
@@ -4134,6 +4135,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cellacom|M531|M531|M531|
 |Cellacom|S51_lite|S51_lite|S51_lite|
 |Cellcom TV|SEI-S905X2|tai|SEI-S905X2|
+|Cellcom TV|SEI-S905X4|SEI800CC|SEI-S905X4|
 |Cellecor|S2|S2|S2|
 |Cellecor|S3|S3|S3|
 |Cellecor|S4|S4|S4|
@@ -9139,6 +9141,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HYUNDAI_MAESTRO|HDT_7427G_PLUS|HDT_7427G_PLUS|HDT_7427G_PLUS|
 |HYUNDAI_MAESTRO|HDT_7433H_PLUS|HDT_7433H_PLUS|HDT_7433H_PLUS|
 |Hackers|HackersTab|Hackers_Tab|Hackers_Tab|
+|Haehne|A863K_EEA|A863K_EEA|HAEHNE|
 |Haehne|HAEHNE_M7|HAEHNE_M7|M7|
 |Hafury|A7|A7|A7|
 |Hafury|G20|G20|G20|
@@ -12353,6 +12356,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |INQ Mobile||camden|INQ Cloud Touch -parrot|
 |INQ Mobile||msm7627_surf|INQ Mayfair (EU)|
 |INSYS|AF9- AT701_ EEA|AF9-AT701_EEA|AF9-AT701_EEA|
+|INSYS|GW2-L1049|GW2-L1049|GW2-L1049|
 |INSYS|HK9-4010_EEA|HK9-4010|HK9-4010|
 |INSYS|HK9-K5023|HK9-K5023|HK9-K5023|
 |INSYS|HN2-M16Q|HN2-M16Q|HN2-M16Q|
@@ -13791,6 +13795,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kalley|Black G|Black_G|Black G|
 |Kalley|Black_G_2|Black_G_2|Black_G_2|
 |Kalley|Black_X|Black_X|Black X|
+|Kalley|Black_Z|Black_Z|Black_Z|
 |Kalley|ELEMENT MAX|ELEMENT_MAX|ELEMENT MAX|
 |Kalley|ELEMENT PLUS|ELEMENT_PLUS|ELEMENT PLUS|
 |Kalley|ELEMENT_PRO|ELEMENT_PRO|ELEMENT_PRO|
@@ -13807,6 +13812,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kalley|Silver_Max_Pro_2|Silver_Max_Pro_2|Silver_Max_Pro_2|
 |Kalley|xiaoyushan_kalley|xiaoyushan|HiSmartTV A4|
 |Kammunica|Kammunica_500V|Kammunica_500V|Kammunica_500V|
+|Kammunica|Kammunica_800|Kammunica_800|Kammunica_800|
 |Kammunica|Kammunica_XD|Kammunica_XD|Kammunica_XD|
 |Kanji|ARGENTINA|martin|KANJI 2K Android TV|
 |Kanji|ARGENTINA|patrick|KANJI 4K Android TV|
@@ -18430,6 +18436,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mightier|MT003-19|MT003-19|MT003-19|
 |Mightier|MT003-20|MT003-20|MT003-20|
 |Mightier|MT003-21|MT003-21|MT003-21|
+|Mightier|MT003_22|MT003_22|MT003-22|
 |Mightier|MT004_20|MT004_20|MT004_20|
 |Migu|MGV2002|MGV2002|MGV2002|
 |MiiA|MT-733G|MT-733G|MT-733G|
@@ -19508,6 +19515,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mpgio|LEGEND_R|LEGEND_R|LEGEND_R|
 |Mpgio|LEGEND_R_PLUS|LEGEND_R_PLUS|LEGEND_R_PLUS|
 |Mpgio|Legend_A|Legend_A|Legend_A|
+|Mpgio|MAT10221|MAT10221|MAT10221|
 |Mpgio|MAT80211B|MAT80211B|MAT80211B|
 |Mpgio|MLT703824|MLT703824|MLT703824|
 |Mpgio|MPGIO_10|MPGIO_10|MPGIO-10|
@@ -21684,6 +21692,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PCBOX|PCB-T104|mid1032_mk|PCB-T104|
 |PCBOX|PCB-T732|MID7015A-MK|Kova 2 Plus PCB-T732|
 |PCBOX|PCB_S1063|PCB_S1063|PCB_S1063|
+|PCBOX|PCB_T801|PCB_T801|PCB_T801|
 |PCD Argentina|610|610|610|
 |PCD Argentina|P40|P40|P40|
 |PCD Argentina|P41|P41|P41|
@@ -23495,6 +23504,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RAVOZ|RAVOZ Z7|RAVOZ_Z7|RAVOZ Z7|
 |RAVOZ|RAVOZ Z7 Pro|RAVOZ_Z7_Pro|RAVOZ Z7 Pro|
 |RAVOZ|RAVOZ_V2|RAVOZ_V2|RAVOZ V2|
+|RAVOZ|RAVOZ_V3|RAVOZ_V3|RAVOZ V3|
+|RAVOZ|RAVOZ_V5|RAVOZ_V5|RAVOZ V5|
 |RAVOZ|RAVOZ_Z3_Lite|RAVOZ_Z3_Lite|RAVOZ Z3 Lite|
 |RAVOZ|RAVOZ_Z4|RAVOZ_Z4|RAVOZ_Z4|
 |RAVOZ|RAVOZ_Z6|RAVOZ_Z6|RAVOZ_Z6|
@@ -27332,6 +27343,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sanaeko|FX9|SANAEKO|FX9|
 |Sandata|Sandata|Sandata_T5|T5|
 |Sandata|Sandata_T5|Sandata_T5|T5|
+|Sankey|TAB7A3G06|TAB7A3G06|TAB7A3G06|
 |Sankey|TAB1012FKY|TAB1012FKY|TAB1012FKY|
 |Sankey|TAB10A3G02|TAB10A3G02|TAB10A3G02|
 |Sankey|TAB7A3G05|TAB7A3G05|TAB7A3G05|
@@ -30997,6 +31009,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TJD(SZ)|MT-717QW|MT-717QW|MT-717QW|
 |TJD(SZ)|MT-750QR|MT-750QR|MT-750QR|
 |TJD(SZ)|MT-750QU_Pro|MT-750QU_Pro|MT-750QU_Pro|
+|TJD(SZ)|MT-750QU_V1|MT-750QU_V1|MT-750QU|
 |TJD(SZ)|MT-761QU|MT-761QU|MT-761QU|
 |TJD(SZ)|MT-761QU_Pro|MT-761QU_Pro|MT-761QU_Pro|
 |TJD(SZ)|MT-762QR|MT-762QR|MT-762QR|
@@ -31444,6 +31457,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|POP 4 Pro|TECNO-BC3|TECNO BC3|
 |Tecno|POP 5 LTE|TECNO-BD4i|TECNO BD4i|
 |Tecno|POP 5P|TECNO-BD3|TECNO BD3|
+|Tecno|POP 6 Pro|TECNO-BE8|TECNO BE8|
 |Tecno|POP 6 Pro|TECNO-BE8i|TECNO BE8i|
 |Tecno|POP1|TECNO-F3|TECNO F3|
 |Tecno|POVA|TECNO-LD7|TECNO LD7|
@@ -32671,6 +32685,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Veidoo|T7|T7|T7|
 |Veidoo|T7S|T7S|T7S|
 |Veidoo|T80|T80|T80|
+|Veidoo|T80_PLUS|T80_PLUS|T80_PLUS|
 |Veidoo|V88|V88|V88|
 |Veidoo|VEIDOO_T40_EEA|VEIDOO_T40_EEA|VEIDOO_T40_EEA|
 |Veidoo|VEIDOO_T8|VEIDOO_T8|T8|
@@ -36498,6 +36513,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZUOPU|JH863|JH863|JH863|
 |ZUOPU|M2a103|M2a103|M2a103|
 |ZZB (cn)|ZB10|ZB10|ZB10|
+|ZZB (cn)|ZB10M|ZB10M|ZB10M|
 |ZZB (cn)|ZB10_EEA|ZB10_EEA|ZB10_EEA|
 |ZZB (cn)|ZB40|ZB40|ZB40|
 |ZZB (cn)|ZB40_EEA|ZB40_EEA|ZB40_EEA|
@@ -36681,6 +36697,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zonko|K106|K106|K106|
 |Zonko|K108|K108|K108|
 |Zonko|K108_EEA|K108_EEA|K108_EEA|
+|Zonko|K112|K112|K112|
 |Zonko|K113|K113|K113|
 |Zonko|K116_M|K116_M|K116_M|
 |Zonko|K118|K118|K118|
@@ -37117,6 +37134,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iLife|KIDS_TAB_6|KIDS_TAB_6|KIDS_TAB_6|
 |iLife|MISA|MISA|MISA|
 |iMin|I22M01|I22M01|I22M01|
+|iMin|Swift 1|I22M01|Swift_1|
 |iMuz|4K Smart TV|pioneer|4K SA Smart TV|
 |iMuz|EG104|EG104|EG104|
 |iMuz|G10|G10|G10|
@@ -37498,6 +37516,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |weelikeit|C81W|C81W|C81W|
 |weelikeit|C81W_EEA|C81W_EEA|C81W_EEA|
 |weelikeit|C83W|C83W|C83W|
+|weelikeit|C83W_EEA|C83W_EEA|C83W_EEA|
 |weelikeit|F11W|F11W|F11W|
 |weelikeit|F11W_EEA|F11W|F11W_EEA|
 |weelikeit|P82L|P82L|P82L|
