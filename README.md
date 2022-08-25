@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-08-24
+Last sync is 2022-08-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2590,6 +2590,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|X10|Bmobile_X10_MV03|X10|
 |BMobile|X11|Bmobile_X11|Bmobile X11|
 |BOLVA|B_TAB1021|B_TAB1021|B_TAB1021|
+|BOREAL|Android TV|R1|ATV R1|
+|BOREAL|Android TV|R2|ATV R2|
+|BOTECH|Android TV|R1|ATV R1|
 |BOTECH|WZONE|HND|WZONE|
 |BPL|A4300|ikebukuro|AI PONT|
 |BPL|A4310|samseong|AI PONT|
@@ -10222,6 +10225,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Homatics|Dongle R 4K|YQB|Dongle R 4K|
 |Homatics|SEI600HM|HND|Box Q|
 |Home Elite|Android TV|R1|ATV R1|
+|Home Elite|Android TV|R2|ATV R2|
 |Home Planet|Android TV|R4|R4|
 |Homeplustv|Homeplus_ATV HCA-6010|HCA6010|HCA-6010|
 |Homeplustv|STB-6252C|STB6252C|STB-6252C|
@@ -13733,7 +13737,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KT Tech|TAKE SUIT|e100|KM-E100|
 |KTC (PD)|BLISS503|BLISS503|BLISS503|
 |KTC (PD)|BLISS_8|BLISS_8|BLISS_8|
-|KTCtv|AP|stanford|2K SMART TV|
 |KTCtv|AP|stanford|40D|
 |KTCtv|Banana|stanford|2K SMART TV|
 |KTCtv|Banana|zhongshan|4K SMART TV|
@@ -13742,6 +13745,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|COL|zhongshan|43FCOL|
 |KTCtv|DIGGIO|stanford|CSV2K|
 |KTCtv|DIGGIO|zhongshan|CSV4K|
+|KTCtv|ENGLAON|stanford|2K SMART TV|
 |KTCtv|EU|zhongshan|43F|
 |KTCtv|Electroman|zhongshan|Smart UHD TV|
 |KTCtv|Enova|zhongshan|4K SMART TV|
@@ -18445,6 +18449,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mikona|MHDBT10267|MHDBT10267|MHDBT10267|
 |Mikona|MIKONA|MSW_BT767QC8TN|MSW_BT767QC8TN|
 |Minister|Android TV|R1|ATV R1|
+|Minister|Android TV|R2|ATV R2|
 |Mint|Clover|M4CR|M4CR|
 |Mint|Clover|M4CR|M4CRD|
 |Mint|Emerald|Emerald|Emerald_M55CR|
@@ -21663,7 +21668,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oysters|T72HM3G|T72HM3G|T72HM3G|
 |Oysters|T72HMs 3G|T72HM3G|T72HMs_3G|
 |PALSONIC|Android TV|R1|ATV R1|
-|PALSONIC|Android TV|R2|ATV R2|
 |PAPAGO|GoPad8|GoPad8|GoPad8|
 |PARTNER MOBILE|E22|E22|E22|
 |PARTNER MOBILE|EV1_PRO|EV1_PRO|EV1 PRO|
@@ -21742,6 +21746,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO F2 Pro|lmi|POCO F2 Pro|
 |POCO|POCO F3|alioth|M2012K11AG|
 |POCO|POCO F3 GT|aresin|M2104K10I|
+|POCO|POCO F4 GT|ingres|21121210G|
 |POCO|POCO M2|shiva|M2004J19PI|
 |POCO|POCO M2 Pro|gram|POCO M2 Pro|
 |POCO|POCO M3|citrus|M2010J19CG|
@@ -21749,6 +21754,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO M3 Pro 5G|camellia|M2103K19PI|
 |POCO|POCO M3 Pro 5G|camellian|M2103K19PG|
 |POCO|POCO M4 5G|light|22041219PI|
+|POCO|POCO M4 5G|thunder|22041219PG|
 |POCO|POCO M4 Pro|fleur|2201117PG|
 |POCO|POCO M4 Pro|miel|2201117PI|
 |POCO|POCO M4 Pro 5G|evergreen|21091116AG|
@@ -21757,6 +21763,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO X3 NFC|surya|M2007J20CG|
 |POCO|POCO X3 Pro|bhima|M2102J20SI|
 |POCO|POCO X3 Pro|vayu|M2102J20SG|
+|POCO|POCO X4 GT|xaga|22041216G|
 |POCO|POCO X4 Pro 5G|peux|2201116PI|
 |POCO|POCO X4 Pro 5G|veux|2201116PG|
 |POPTEL|Kammunica V10|Kammunica_V10|Kammunica_V10|
@@ -23835,6 +23842,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 10 5G|thunder|22041219NY|
 |Redmi|Redmi 10 Power|fog|220333QBI|
 |Redmi|Redmi 10A|dandelion|220233L2C|
+|Redmi|Redmi 10A|dandelion|220233L2G|
+|Redmi|Redmi 10A Sport|dandelion|220233L2I|
 |Redmi|Redmi 10C|fog|220333QAG|
 |Redmi|Redmi 10C|rain|220333QNY|
 |Redmi|Redmi 10C|wind|220333QL|
@@ -23894,6 +23903,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi K50|rubens|22041211AC|
 |Redmi|Redmi K50 Pro|matisse|22011211C|
 |Redmi|Redmi K50G|ingres|21121210C|
+|Redmi|Redmi K50i|xagain|22041216I|
 |Redmi|Redmi Note 10|camellia|M2103K19C|
 |Redmi|Redmi Note 10|sunny|M2101K7AG|
 |Redmi|Redmi Note 10|sunny|M2101K7AI|
@@ -24372,6 +24382,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Universe|ZEUS_4G_PRO|ZEUS_4G_PRO|ZEUS_4G_PRO|
 |SPC Universe|heaven_10_1|heaven-10_1|HEAVEN 10.1|
 |SPECTRA|tap-POS-AM|tap-POS-AM|SAH55AM|
+|SPJtv|Android TV|R2|ATV R2|
 |SPURT|Spurt_K800|Spurt_K800|Spurt K800|
 |SQ(max)|Hope10_Max|Hope10_Max|Hope10 Max|
 |SQ(max)|Hope8_Max|Hope8_Max|Hope8_Max|
@@ -34715,6 +34726,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 11T Pro|vili|2107113SI|
 |Xiaomi|Xiaomi 11T Pro|vili|2107113SR|
 |Xiaomi|Xiaomi 11i|pissarroin|21091116I|
+|Xiaomi|Xiaomi 11i HyperCharge|pissarroinpro|21091116UI|
 |Xiaomi|Xiaomi 12|cupid|2201123C|
 |Xiaomi|Xiaomi 12|cupid|2201123G|
 |Xiaomi|Xiaomi 12 Lite|taoyao|2203129G|

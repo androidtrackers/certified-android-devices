@@ -7988,6 +7988,21 @@
    "model": "R4"
   },
   {
+   "brand": "BOREAL",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "BOREAL",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "BOTECH",
+   "device": "R1",
+   "model": "ATV R1"
+  },
+  {
    "brand": "BPL",
    "device": "longshan",
    "model": "AI PONT"
@@ -8193,6 +8208,11 @@
    "model": "ATV R1"
   },
   {
+   "brand": "Home Elite",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
    "brand": "Home Planet",
    "device": "R4",
    "model": "R4"
@@ -8353,6 +8373,11 @@
    "model": "ATV R1"
   },
   {
+   "brand": "Minister",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
    "brand": "Motorola",
    "device": "R4",
    "model": "R4"
@@ -8488,11 +8513,6 @@
    "model": "ATV R1"
   },
   {
-   "brand": "PALSONIC",
-   "device": "R2",
-   "model": "ATV R2"
-  },
-  {
    "brand": "Panasonic",
    "device": "R1",
    "model": "PANASONIC TV"
@@ -8559,6 +8579,11 @@
   },
   {
    "brand": "SCHNEIDER",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "SPJtv",
    "device": "R2",
    "model": "ATV R2"
   },
@@ -99551,11 +99576,6 @@
   {
    "brand": "KTCtv",
    "device": "stanford",
-   "model": "2K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "device": "stanford",
    "model": "40D"
   }
  ],
@@ -99588,6 +99608,13 @@
    "brand": "KTCtv",
    "device": "zhongshan",
    "model": "CSV4K"
+  }
+ ],
+ "ENGLAON": [
+  {
+   "brand": "KTCtv",
+   "device": "stanford",
+   "model": "2K SMART TV"
   }
  ],
  "Electroman": [
@@ -146800,6 +146827,13 @@
    "model": "M2104K10I"
   }
  ],
+ "POCO F4 GT": [
+  {
+   "brand": "POCO",
+   "device": "ingres",
+   "model": "21121210G"
+  }
+ ],
  "POCO M2": [
   {
    "brand": "POCO",
@@ -146843,6 +146877,11 @@
    "brand": "POCO",
    "device": "light",
    "model": "22041219PI"
+  },
+  {
+   "brand": "POCO",
+   "device": "thunder",
+   "model": "22041219PG"
   }
  ],
  "POCO M4 Pro": [
@@ -146895,6 +146934,13 @@
    "brand": "POCO",
    "device": "vayu",
    "model": "M2102J20SG"
+  }
+ ],
+ "POCO X4 GT": [
+  {
+   "brand": "POCO",
+   "device": "xaga",
+   "model": "22041216G"
   }
  ],
  "POCO X4 Pro 5G": [
@@ -160039,6 +160085,18 @@
    "brand": "Redmi",
    "device": "dandelion",
    "model": "220233L2C"
+  },
+  {
+   "brand": "Redmi",
+   "device": "dandelion",
+   "model": "220233L2G"
+  }
+ ],
+ "Redmi 10A Sport": [
+  {
+   "brand": "Redmi",
+   "device": "dandelion",
+   "model": "220233L2I"
   }
  ],
  "Redmi 10X": [
@@ -160408,6 +160466,13 @@
    "brand": "Redmi",
    "device": "ingres",
    "model": "21121210C"
+  }
+ ],
+ "Redmi K50i": [
+  {
+   "brand": "Redmi",
+   "device": "xagain",
+   "model": "22041216I"
   }
  ],
  "Redmi Note 10": [
@@ -223384,6 +223449,13 @@
    "brand": "Xiaomi",
    "device": "pissarroin",
    "model": "21091116I"
+  }
+ ],
+ "Xiaomi 11i HyperCharge": [
+  {
+   "brand": "Xiaomi",
+   "device": "pissarroinpro",
+   "model": "21091116UI"
   }
  ],
  "Xiaomi 12": [

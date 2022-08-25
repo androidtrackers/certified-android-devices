@@ -4148,6 +4148,16 @@
    "device": "R1"
   },
   {
+   "brand": "BOREAL",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
+   "brand": "BOTECH",
+   "name": "Android TV",
+   "device": "R1"
+  },
+  {
    "brand": "Brookstone",
    "name": "Android TV",
    "device": "R1"
@@ -4370,6 +4380,11 @@
    "device": "R2"
   },
   {
+   "brand": "BOREAL",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
    "brand": "CG Inspiring Life",
    "name": "Android TV",
    "device": "R2"
@@ -4430,6 +4445,11 @@
    "device": "R2"
   },
   {
+   "brand": "Home Elite",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
    "brand": "Hyundai",
    "name": "Android TV",
    "device": "R2"
@@ -4475,6 +4495,11 @@
    "device": "R2"
   },
   {
+   "brand": "Minister",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
    "brand": "Mystic",
    "name": "Android TV",
    "device": "R2"
@@ -4491,11 +4516,6 @@
   },
   {
    "brand": "Orient",
-   "name": "Android TV",
-   "device": "R2"
-  },
-  {
-   "brand": "PALSONIC",
    "name": "Android TV",
    "device": "R2"
   },
@@ -4521,6 +4541,11 @@
   },
   {
    "brand": "SCHNEIDER",
+   "name": "Android TV",
+   "device": "R2"
+  },
+  {
+   "brand": "SPJtv",
    "name": "Android TV",
    "device": "R2"
   },
@@ -5778,12 +5803,12 @@
   },
   {
    "brand": "KTCtv",
-   "name": "AP",
+   "name": "Banana",
    "device": "stanford"
   },
   {
    "brand": "KTCtv",
-   "name": "Banana",
+   "name": "ENGLAON",
    "device": "stanford"
   },
   {
@@ -149270,6 +149295,13 @@
    "device": "aresin"
   }
  ],
+ "21121210G": [
+  {
+   "brand": "POCO",
+   "name": "POCO F4 GT",
+   "device": "ingres"
+  }
+ ],
  "M2004J19PI": [
   {
    "brand": "POCO",
@@ -149317,6 +149349,13 @@
    "brand": "POCO",
    "name": "POCO M4 5G",
    "device": "light"
+  }
+ ],
+ "22041219PG": [
+  {
+   "brand": "POCO",
+   "name": "POCO M4 5G",
+   "device": "thunder"
   }
  ],
  "2201117PG": [
@@ -149373,6 +149412,13 @@
    "brand": "POCO",
    "name": "POCO X3 Pro",
    "device": "vayu"
+  }
+ ],
+ "22041216G": [
+  {
+   "brand": "POCO",
+   "name": "POCO X4 GT",
+   "device": "xaga"
   }
  ],
  "2201116PI": [
@@ -162927,6 +162973,25 @@
    "device": "dandelion"
   }
  ],
+ "220233L2G": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10A",
+   "device": "dandelion"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 9A",
+   "device": "dandelion"
+  }
+ ],
+ "220233L2I": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10A Sport",
+   "device": "dandelion"
+  }
+ ],
  "220333QNY": [
   {
    "brand": "Redmi",
@@ -163117,13 +163182,6 @@
    "brand": "Redmi",
    "name": "Redmi 9 Prime",
    "device": "lancelot"
-  }
- ],
- "220233L2G": [
-  {
-   "brand": "Redmi",
-   "name": "Redmi 9A",
-   "device": "dandelion"
   }
  ],
  "M2006C3LC": [
@@ -163328,6 +163386,13 @@
    "brand": "Redmi",
    "name": "Redmi K50G",
    "device": "ingres"
+  }
+ ],
+ "22041216I": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi K50i",
+   "device": "xagain"
   }
  ],
  "M2103K19C": [
@@ -234119,6 +234184,13 @@
    "brand": "Xiaomi",
    "name": "Xiaomi 11i",
    "device": "pissarroin"
+  }
+ ],
+ "21091116UI": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 11i HyperCharge",
+   "device": "pissarroinpro"
   }
  ],
  "2201123C": [

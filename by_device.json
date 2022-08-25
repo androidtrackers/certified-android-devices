@@ -1199,11 +1199,6 @@
   {
    "brand": "KTCtv",
    "name": "AP",
-   "model": "2K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "AP",
    "model": "40D"
   },
   {
@@ -1220,6 +1215,11 @@
    "brand": "KTCtv",
    "name": "DIGGIO",
    "model": "CSV2K"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "ENGLAON",
+   "model": "2K SMART TV"
   },
   {
    "brand": "KTCtv",
@@ -5656,6 +5656,16 @@
    "model": "ATV R1"
   },
   {
+   "brand": "BOREAL",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
+   "brand": "BOTECH",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
    "brand": "Brookstone",
    "name": "Android TV",
    "model": "ATV R1"
@@ -5883,6 +5893,11 @@
    "model": "ATV R2"
   },
   {
+   "brand": "BOREAL",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
    "brand": "CG Inspiring Life",
    "name": "Android TV",
    "model": "ATV R2"
@@ -5943,6 +5958,11 @@
    "model": "ATV R2"
   },
   {
+   "brand": "Home Elite",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
    "brand": "Hyundai",
    "name": "Android TV",
    "model": "ATV R2"
@@ -5998,6 +6018,11 @@
    "model": "ATV R2"
   },
   {
+   "brand": "Minister",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
    "brand": "Mystic",
    "name": "Android TV",
    "model": "ATV R2"
@@ -6014,11 +6039,6 @@
   },
   {
    "brand": "Orient",
-   "name": "Android TV",
-   "model": "ATV R2"
-  },
-  {
-   "brand": "PALSONIC",
    "name": "Android TV",
    "model": "ATV R2"
   },
@@ -6049,6 +6069,11 @@
   },
   {
    "brand": "SCHNEIDER",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "SPJtv",
    "name": "Android TV",
    "model": "ATV R2"
   },
@@ -146622,6 +146647,18 @@
    "model": "M2104K10I"
   }
  ],
+ "ingres": [
+  {
+   "brand": "POCO",
+   "name": "POCO F4 GT",
+   "model": "21121210G"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi K50G",
+   "model": "21121210C"
+  }
+ ],
  "shiva": [
   {
    "brand": "POCO",
@@ -146709,6 +146746,18 @@
    "model": "22041219C"
   }
  ],
+ "thunder": [
+  {
+   "brand": "POCO",
+   "name": "POCO M4 5G",
+   "model": "22041219PG"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10 5G",
+   "model": "22041219NY"
+  }
+ ],
  "fleur": [
   {
    "brand": "POCO",
@@ -146783,6 +146832,18 @@
    "brand": "POCO",
    "name": "POCO X3 Pro",
    "model": "M2102J20SG"
+  }
+ ],
+ "xaga": [
+  {
+   "brand": "POCO",
+   "name": "POCO X4 GT",
+   "model": "22041216G"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 11T Pro",
+   "model": "22041216C"
   }
  ],
  "peux": [
@@ -159636,18 +159697,21 @@
    "model": "V72M"
   }
  ],
- "thunder": [
-  {
-   "brand": "Redmi",
-   "name": "Redmi 10 5G",
-   "model": "22041219NY"
-  }
- ],
  "dandelion": [
   {
    "brand": "Redmi",
    "name": "Redmi 10A",
    "model": "220233L2C"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10A",
+   "model": "220233L2G"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10A Sport",
+   "model": "220233L2I"
   },
   {
    "brand": "Redmi",
@@ -159977,11 +160041,11 @@
    "model": "22011211C"
   }
  ],
- "ingres": [
+ "xagain": [
   {
    "brand": "Redmi",
-   "name": "Redmi K50G",
-   "model": "21121210C"
+   "name": "Redmi K50i",
+   "model": "22041216I"
   }
  ],
  "sunny": [
@@ -160142,13 +160206,6 @@
    "brand": "Redmi",
    "name": "Redmi Note 11S 5G",
    "model": "22031116BG"
-  }
- ],
- "xaga": [
-  {
-   "brand": "Redmi",
-   "name": "Redmi Note 11T Pro",
-   "model": "22041216C"
   }
  ],
  "xagapro": [
@@ -225198,6 +225255,13 @@
    "brand": "Xiaomi",
    "name": "Xiaomi 11i",
    "model": "21091116I"
+  }
+ ],
+ "pissarroinpro": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 11i HyperCharge",
+   "model": "21091116UI"
   }
  ],
  "cupid": [
