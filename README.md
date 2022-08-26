@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-08-25
+Last sync is 2022-08-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8814,6 +8814,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HTC|HTC Desire 21 Pro 5G|htc_thudugl|HTC Desire 21 pro 5G|
 |HTC|HTC Desire 21 pro 5G|htc_thudugl|2QAG100|
 |HTC|HTC Desire 21 pro 5G|htc_thudugl|HTC Desire 21 pro 5G|
+|HTC|HTC Desire 22 5G|htc_botdugls|2QBK100|
 |HTC|HTC Desire 22 5G|htc_botdugls|2QBK10000|
 |HTC|HTC Desire 22 5G|htc_botdugls|HTC Desire 22 pro|
 |HTC|HTC Desire 610|htc_a3ul|HTC Desire 610|
@@ -20456,6 +20457,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia C1 2nd Edition|IRU|Nokia C1 2nd Edition|
 |Nokia|Nokia C1 Plus|YDU|Nokia C1 Plus|
 |Nokia|Nokia C10|MNT|Nokia C10|
+|Nokia|Nokia C100|DKT|N152DL|
+|Nokia|Nokia C100|DKT|Nokia C100|
 |Nokia|Nokia C2|NBL|Nebula|
 |Nokia|Nokia C2|NBL|Nokia C2|
 |Nokia|Nokia C2 2nd Edition|DMN|Nokia C2 2nd Edition|
@@ -20481,6 +20484,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia G21|SCPA_sprout|Nokia G21|
 |Nokia|Nokia G21|SCP_sprout|Nokia G21|
 |Nokia|Nokia G300|AKT|N1374DL|
+|Nokia|Nokia G400 5G|STF|N1530DL|
+|Nokia|Nokia G400 5G|STM|Nokia G400 5G|
+|Nokia|Nokia G400 5G|STO|Nokia G400 5G|
 |Nokia|Nokia G50|PHR|Nokia G50|
 |Nokia|Nokia G50|PHR_sprout|Nokia G50|
 |Nokia|Nokia Steaming Box 8000|HND|Nokia Streaming Box 8000|
@@ -31577,6 +31583,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO POVA 2|TECNO-LE7n|TECNO LE7n|
 |Tecno|TECNO POVA 3|TECNO-LF7|TECNO LF7|
 |Tecno|TECNO POVA 3|TECNO-LF7n|TECNO LF7n|
+|Tecno|TECNO POVA 4 Pro|TECNO-LG8n|TECNO LG8n|
 |Tecno|TECNO POVA 5G|TECNO-LE8|TECNO LE8|
 |Tecno|TECNO R6S|TECNO-R6|TECNO R6S|
 |Tecno|TECNO R7+|TECNO-RC6|TECNO RC6|

@@ -57988,6 +57988,11 @@
    "brand": "Fujitsu",
    "name": "TM20",
    "model": "TM20"
+  },
+  {
+   "brand": "Nokia",
+   "name": "Nokia G400 5G",
+   "model": "N1530DL"
   }
  ],
  "TONEm17": [
@@ -67446,6 +67451,11 @@
   }
  ],
  "htc_botdugls": [
+  {
+   "brand": "HTC",
+   "name": "HTC Desire 22 5G",
+   "model": "2QBK100"
+  },
   {
    "brand": "HTC",
    "name": "HTC Desire 22 5G",
@@ -138671,6 +138681,18 @@
    "model": "Nokia C10"
   }
  ],
+ "DKT": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C100",
+   "model": "N152DL"
+  },
+  {
+   "brand": "Nokia",
+   "name": "Nokia C100",
+   "model": "Nokia C100"
+  }
+ ],
  "NBL": [
   {
    "brand": "Nokia",
@@ -138840,6 +138862,20 @@
    "brand": "Nokia",
    "name": "Nokia G300",
    "model": "N1374DL"
+  }
+ ],
+ "STM": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia G400 5G",
+   "model": "Nokia G400 5G"
+  }
+ ],
+ "STO": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia G400 5G",
+   "model": "Nokia G400 5G"
   }
  ],
  "PHR": [
@@ -206440,6 +206476,13 @@
    "brand": "Tecno",
    "name": "TECNO POVA 3",
    "model": "TECNO LF7n"
+  }
+ ],
+ "TECNO-LG8n": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO POVA 4 Pro",
+   "model": "TECNO LG8n"
   }
  ],
  "TECNO-LE8": [

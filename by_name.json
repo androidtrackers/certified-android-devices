@@ -71409,6 +71409,11 @@
   {
    "brand": "HTC",
    "device": "htc_botdugls",
+   "model": "2QBK100"
+  },
+  {
+   "brand": "HTC",
+   "device": "htc_botdugls",
    "model": "2QBK10000"
   },
   {
@@ -139108,6 +139113,18 @@
    "model": "Nokia C10"
   }
  ],
+ "Nokia C100": [
+  {
+   "brand": "Nokia",
+   "device": "DKT",
+   "model": "N152DL"
+  },
+  {
+   "brand": "Nokia",
+   "device": "DKT",
+   "model": "Nokia C100"
+  }
+ ],
  "Nokia C2": [
   {
    "brand": "Nokia",
@@ -139263,6 +139280,23 @@
    "brand": "Nokia",
    "device": "AKT",
    "model": "N1374DL"
+  }
+ ],
+ "Nokia G400 5G": [
+  {
+   "brand": "Nokia",
+   "device": "STF",
+   "model": "N1530DL"
+  },
+  {
+   "brand": "Nokia",
+   "device": "STM",
+   "model": "Nokia G400 5G"
+  },
+  {
+   "brand": "Nokia",
+   "device": "STO",
+   "model": "Nokia G400 5G"
   }
  ],
  "Nokia G50": [
@@ -204223,6 +204257,13 @@
    "brand": "Tecno",
    "device": "TECNO-LF7n",
    "model": "TECNO LF7n"
+  }
+ ],
+ "TECNO POVA 4 Pro": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-LG8n",
+   "model": "TECNO LG8n"
   }
  ],
  "TECNO POVA 5G": [
