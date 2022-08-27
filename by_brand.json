@@ -13385,6 +13385,11 @@
    "model": "ATV R1"
   },
   {
+   "device": "R2",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
    "device": "HND",
    "name": "WZONE",
    "model": "WZONE"
@@ -32266,6 +32271,11 @@
   }
  ],
  "EAS ELECTRIC": [
+  {
+   "device": "R1",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
   {
    "device": "R2",
    "name": "Android TV",
@@ -99527,6 +99537,16 @@
    "model": "motorola"
   },
   {
+   "device": "devon",
+   "name": "moto g32",
+   "model": "moto g(100)"
+  },
+  {
+   "device": "devon",
+   "name": "moto g32",
+   "model": "moto g32"
+  },
+  {
    "device": "hanoip",
    "name": "moto g40 fusion",
    "model": "moto g(40) fusion"
@@ -105209,6 +105229,16 @@
    "model": "Nokia C20 Plus"
   },
   {
+   "device": "DRK",
+   "name": "Nokia C200",
+   "model": "N151DL"
+  },
+  {
+   "device": "DRK",
+   "name": "Nokia C200",
+   "model": "Nokia C200"
+  },
+  {
    "device": "COR",
    "name": "Nokia C21",
    "model": "Nokia C21"
@@ -105252,6 +105282,16 @@
    "device": "ROGA_sprout",
    "name": "Nokia G10",
    "model": "Nokia G10"
+  },
+  {
+   "device": "DPT",
+   "name": "Nokia G100",
+   "model": "N150DL"
+  },
+  {
+   "device": "DPT",
+   "name": "Nokia G100",
+   "model": "Nokia G100"
   },
   {
    "device": "SCT_sprout",
@@ -105302,11 +105342,6 @@
    "device": "AKT",
    "name": "Nokia G300",
    "model": "N1374DL"
-  },
-  {
-   "device": "STF",
-   "name": "Nokia G400 5G",
-   "model": "N1530DL"
   },
   {
    "device": "STM",

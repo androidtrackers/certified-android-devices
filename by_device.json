@@ -5701,6 +5701,11 @@
    "model": "ATV R1"
   },
   {
+   "brand": "EAS ELECTRIC",
+   "name": "Android TV",
+   "model": "ATV R1"
+  },
+  {
    "brand": "EVVO",
    "name": "Android TV",
    "model": "ATV R1"
@@ -5894,6 +5899,11 @@
   },
   {
    "brand": "BOREAL",
+   "name": "Android TV",
+   "model": "ATV R2"
+  },
+  {
+   "brand": "BOTECH",
    "name": "Android TV",
    "model": "ATV R2"
   },
@@ -57988,11 +57998,6 @@
    "brand": "Fujitsu",
    "name": "TM20",
    "model": "TM20"
-  },
-  {
-   "brand": "Nokia",
-   "name": "Nokia G400 5G",
-   "model": "N1530DL"
   }
  ],
  "TONEm17": [
@@ -131859,6 +131864,18 @@
    "model": "motorola"
   }
  ],
+ "devon": [
+  {
+   "brand": "Motorola",
+   "name": "moto g32",
+   "model": "moto g(100)"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g32",
+   "model": "moto g32"
+  }
+ ],
  "corfu": [
   {
    "brand": "Motorola",
@@ -138733,6 +138750,18 @@
    "model": "Nokia C20 Plus"
   }
  ],
+ "DRK": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C200",
+   "model": "N151DL"
+  },
+  {
+   "brand": "Nokia",
+   "name": "Nokia C200",
+   "model": "Nokia C200"
+  }
+ ],
  "COR": [
   {
    "brand": "Nokia",
@@ -138792,6 +138821,18 @@
    "brand": "Nokia",
    "name": "Nokia G10",
    "model": "Nokia G10"
+  }
+ ],
+ "DPT": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia G100",
+   "model": "N150DL"
+  },
+  {
+   "brand": "Nokia",
+   "name": "Nokia G100",
+   "model": "Nokia G100"
   }
  ],
  "SCT_sprout": [

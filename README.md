@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-08-26
+Last sync is 2022-08-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2593,6 +2593,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BOREAL|Android TV|R1|ATV R1|
 |BOREAL|Android TV|R2|ATV R2|
 |BOTECH|Android TV|R1|ATV R1|
+|BOTECH|Android TV|R2|ATV R2|
 |BOTECH|WZONE|HND|WZONE|
 |BPL|A4300|ikebukuro|AI PONT|
 |BPL|A4310|samseong|AI PONT|
@@ -6231,6 +6232,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EACRUGGED|RG80|RG80|RG80|
 |EACRUGGED|Serenity-B8|Serenity-B8|Serenity-B8|
 |EACRUGGED|Wolf10R|Wolf10R|Wolf10R|
+|EAS ELECTRIC|Android TV|R1|ATV R1|
 |EAS ELECTRIC|Android TV|R2|ATV R2|
 |EASYTECK|EK10|EK10|EK10|
 |EBN|NEBUPOS3|UY3A|NEBUPOS3|
@@ -19369,6 +19371,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g31|cofud|motorola|
 |Motorola|moto g31|coful|moto g31|
 |Motorola|moto g31|coful|motorola|
+|Motorola|moto g32|devon|moto g(100)|
+|Motorola|moto g32|devon|moto g32|
 |Motorola|moto g40 fusion|hanoip|moto g(40) fusion|
 |Motorola|moto g41|corfu|moto g41|
 |Motorola|moto g41|corfu|motorola|
@@ -20465,6 +20469,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia C2 Tennen|ARV_CUS|Nokia C2 Tennen|
 |Nokia|Nokia C20|COS|Nokia C20|
 |Nokia|Nokia C20 Plus|SUS|Nokia C20 Plus|
+|Nokia|Nokia C200|DRK|N151DL|
+|Nokia|Nokia C200|DRK|Nokia C200|
 |Nokia|Nokia C21|COR|Nokia C21|
 |Nokia|Nokia C21 Plus|HPE|Hope|
 |Nokia|Nokia C21 Plus|HPE|Nokia C21 Plus|
@@ -20474,6 +20480,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia C5 Endi|PMC_CUS|Nokia C5 Endi|
 |Nokia|Nokia G10|ROGA|Nokia G10|
 |Nokia|Nokia G10|ROGA_sprout|Nokia G10|
+|Nokia|Nokia G100|DPT|N150DL|
+|Nokia|Nokia G100|DPT|Nokia G100|
 |Nokia|Nokia G11|SCT_sprout|Nokia G11|
 |Nokia|Nokia G11 Plus|MGKA|Nokia G11 Plus|
 |Nokia|Nokia G11 Plus|MGKA_sprout|Nokia G11 Plus|
@@ -20484,7 +20492,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia G21|SCPA_sprout|Nokia G21|
 |Nokia|Nokia G21|SCP_sprout|Nokia G21|
 |Nokia|Nokia G300|AKT|N1374DL|
-|Nokia|Nokia G400 5G|STF|N1530DL|
 |Nokia|Nokia G400 5G|STM|Nokia G400 5G|
 |Nokia|Nokia G400 5G|STO|Nokia G400 5G|
 |Nokia|Nokia G50|PHR|Nokia G50|

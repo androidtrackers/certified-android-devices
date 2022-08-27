@@ -8003,6 +8003,11 @@
    "model": "ATV R1"
   },
   {
+   "brand": "BOTECH",
+   "device": "R2",
+   "model": "ATV R2"
+  },
+  {
    "brand": "BPL",
    "device": "longshan",
    "model": "AI PONT"
@@ -8101,6 +8106,11 @@
    "brand": "Denka",
    "device": "R2",
    "model": "ATV R2"
+  },
+  {
+   "brand": "EAS ELECTRIC",
+   "device": "R1",
+   "model": "ATV R1"
   },
   {
    "brand": "EAS ELECTRIC",
@@ -132330,6 +132340,18 @@
    "model": "motorola"
   }
  ],
+ "moto g32": [
+  {
+   "brand": "Motorola",
+   "device": "devon",
+   "model": "moto g(100)"
+  },
+  {
+   "brand": "Motorola",
+   "device": "devon",
+   "model": "moto g32"
+  }
+ ],
  "moto g40 fusion": [
   {
    "brand": "Motorola",
@@ -139165,6 +139187,18 @@
    "model": "Nokia C20 Plus"
   }
  ],
+ "Nokia C200": [
+  {
+   "brand": "Nokia",
+   "device": "DRK",
+   "model": "N151DL"
+  },
+  {
+   "brand": "Nokia",
+   "device": "DRK",
+   "model": "Nokia C200"
+  }
+ ],
  "Nokia C21": [
   {
    "brand": "Nokia",
@@ -139220,6 +139254,18 @@
    "brand": "Nokia",
    "device": "ROGA_sprout",
    "model": "Nokia G10"
+  }
+ ],
+ "Nokia G100": [
+  {
+   "brand": "Nokia",
+   "device": "DPT",
+   "model": "N150DL"
+  },
+  {
+   "brand": "Nokia",
+   "device": "DPT",
+   "model": "Nokia G100"
   }
  ],
  "Nokia G11": [
@@ -139283,11 +139329,6 @@
   }
  ],
  "Nokia G400 5G": [
-  {
-   "brand": "Nokia",
-   "device": "STF",
-   "model": "N1530DL"
-  },
   {
    "brand": "Nokia",
    "device": "STM",
