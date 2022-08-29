@@ -5833,6 +5833,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "POWER_GREEN",
+   "device": "stanford"
+  },
+  {
+   "brand": "KTCtv",
    "name": "VISTA",
    "device": "stanford"
   },
@@ -7500,6 +7505,11 @@
   {
    "brand": "KTCtv",
    "name": "Maxsonic_elite",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "POWER GREEN",
    "device": "zhongshan"
   },
   {
@@ -15280,6 +15290,13 @@
    "brand": "Asus",
    "name": "ROG Phone 5",
    "device": "ASUS_I005_1"
+  }
+ ],
+ "ASUS_AI2201_A": [
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 6 (AI2201)",
+   "device": "ASUS_AI2201"
   }
  ],
  "ASUS_AI2201_B": [
@@ -97421,6 +97438,13 @@
    "device": "smartphone"
   }
  ],
+ "Element 5": [
+  {
+   "brand": "Kalley",
+   "name": "Element 5",
+   "device": "Element_5"
+  }
+ ],
  "ELEMENT PLAY": [
   {
    "brand": "Kalley",
@@ -130346,6 +130370,18 @@
    "brand": "Mobiwire",
    "name": "Smart E11",
    "device": "Smart_E11_1"
+  }
+ ],
+ "Vodafone Lite 4G": [
+  {
+   "brand": "Mobiwire",
+   "name": "Smart Green",
+   "device": "MobiWire_Verda"
+  },
+  {
+   "brand": "Mobiwire",
+   "name": "Vodafone Lite 4G",
+   "device": "MobiWire_Verda"
   }
  ],
  "SmartN11": [
@@ -164117,6 +164153,18 @@
    "device": "P13_BML"
   }
  ],
+ "P13 Blue Max Lite 2022": [
+  {
+   "brand": "Reeder",
+   "name": "P13 Blue Max Lite 2022",
+   "device": "P13_Blue_2022kk1"
+  },
+  {
+   "brand": "Reeder",
+   "name": "P13_Blue_2022",
+   "device": "P13_Blue_2022kk1"
+  }
+ ],
  "P13 Blue Max Pro": [
   {
    "brand": "Reeder",
@@ -164178,13 +164226,6 @@
    "brand": "Reeder",
    "name": "P13_Blue_2021",
    "device": "P13_Blue_2021"
-  }
- ],
- "P13 Blue Max Lite 2022": [
-  {
-   "brand": "Reeder",
-   "name": "P13_Blue_2022",
-   "device": "P13_Blue_2022kk1"
   }
  ],
  "P13_Blue_Plus_2022": [
@@ -164493,6 +164534,13 @@
    "brand": "Remdun",
    "name": "RD62E",
    "device": "RD62E"
+  }
+ ],
+ "RD695TE": [
+  {
+   "brand": "Remdun",
+   "name": "RD695TE",
+   "device": "RD695TE"
   }
  ],
  "RD81PT": [
@@ -185605,28 +185653,28 @@
  "SM-R920": [
   {
    "brand": "Samsung",
-   "name": "Galaxy Watch5",
+   "name": "Galaxy Watch5 Pro",
    "device": "projectxbl"
   }
  ],
  "SM-R925F": [
   {
    "brand": "Samsung",
-   "name": "Galaxy Watch5",
+   "name": "Galaxy Watch5 Pro",
    "device": "projectxul"
   }
  ],
  "SM-R925N": [
   {
    "brand": "Samsung",
-   "name": "Galaxy Watch5",
+   "name": "Galaxy Watch5 Pro",
    "device": "projectxul"
   }
  ],
  "SM-R925U": [
   {
    "brand": "Samsung",
-   "name": "Galaxy Watch5",
+   "name": "Galaxy Watch5 Pro",
    "device": "projectxul"
   }
  ],
@@ -218750,6 +218798,13 @@
    "device": "Note_13P"
   }
  ],
+ "Note 14": [
+  {
+   "brand": "Ulefone",
+   "name": "Note 14",
+   "device": "Note_14"
+  }
+ ],
  "Note 6": [
   {
    "brand": "Ulefone",
@@ -219689,10 +219744,27 @@
    "device": "S5_Pro"
   }
  ],
+ "MP07": [
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI C1",
+   "device": "UMIDIGI_C1"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI C1 EEA",
+   "device": "UMIDIGI_C1"
+  }
+ ],
  "MP08": [
   {
    "brand": "Umidigi",
    "name": "UMIDIGI G1",
+   "device": "UMIDIGI_G1"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI G1 EEA",
    "device": "UMIDIGI_G1"
   }
  ],

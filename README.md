@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-08-28
+Last sync is 2022-08-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1799,6 +1799,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ROG Phone 5|ASUS_I005_1|ASUS_I005DB|
 |Asus|ROG Phone 5|ASUS_I005_1|ZS673KS|
 |Asus|ROG Phone 5|ASUS_I005_1|ZS676KS|
+|Asus|ROG Phone 6 (AI2201)|ASUS_AI2201|ASUS_AI2201_A|
 |Asus|ROG Phone 6 (AI2201)|ASUS_AI2201|ASUS_AI2201_B|
 |Asus|ROG Phone 6 (AI2201)|ASUS_AI2201|ASUS_AI2201_C|
 |Asus|ROG Phone 6 (AI2201)|ASUS_AI2201|ASUS_AI2201_D|
@@ -13766,6 +13767,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|NAKAMICHI|stanford|CSV2K|
 |KTCtv|NAKAMICHI|zhongshan|CSV4K|
 |KTCtv|Nobrand|stanford|Smart FHD TV|
+|KTCtv|POWER GREEN|zhongshan|4K SMART TV|
+|KTCtv|POWER_GREEN|stanford|2K SMART TV|
 |KTCtv|Rosso|stanford|40D|
 |KTCtv|SA|stanford|2K Siera SMART TV|
 |KTCtv|SA|stanford|40DSA|
@@ -13809,6 +13812,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kalley|ELEMENT_PRO_2|ELEMENT_PRO_2|ELEMENT_PRO_2|
 |Kalley|Element 4|Element_4|Element 4|
 |Kalley|Element 4 Plus|smartphone|Element 4 Plus|
+|Kalley|Element 5|Element_5|Element 5|
 |Kalley|Element Play|ELEMENT_PLAY|ELEMENT PLAY|
 |Kalley|Gold Pro|GOLD_PRO|GOLD_PRO|
 |Kalley|K-BOOK73G|K_BOOK73G|K-BOOK73G|
@@ -18779,6 +18783,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|Smart C11|Kicka_5_U|Smart C11|
 |Mobiwire|Smart E11|Smart_E11|SmartE11|
 |Mobiwire|Smart E11|Smart_E11_1|SmartE11|
+|Mobiwire|Smart Green|MobiWire_Verda|Vodafone Lite 4G|
 |Mobiwire|Smart N11|Smart_N11|SmartN11|
 |Mobiwire|Smart N12|Smart_N12|SmartN12|
 |Mobiwire|Tala|Tala|Tala|
@@ -18788,6 +18793,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|V.45|VSN|V.45S|
 |Mobiwire|VSN V.45|up06_h26_v45|V.45|
 |Mobiwire|Verda|MobiWire_Verda|Verda|
+|Mobiwire|Vodafone Lite 4G|MobiWire_Verda|Vodafone Lite 4G|
 |Mobvoi|TicWatch C2|skipjack|TicWatch C2|
 |Mobvoi|TicWatch C2|skipjack|TicWatch C2+|
 |Mobvoi|TicWatch E2/S2|tunny|TicWatch E2|
@@ -24013,6 +24019,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reeder|P13 Blue Max 128 GB|P13_Blue_Max_128_GB|P13 Blue Max 128 GB|
 |Reeder|P13 Blue Max 128 GB 2022|Blue_Max_128GB_2022k1|P13 Blue Max 128 GB 2022|
 |Reeder|P13 Blue Max Lite|P13_BML|P13 Blue Max Lite|
+|Reeder|P13 Blue Max Lite 2022|P13_Blue_2022kk1|P13 Blue Max Lite 2022|
 |Reeder|P13 Blue Max Pro|P13_Blue_Max_Pro|P13 Blue Max Pro|
 |Reeder|P13 Blue Max Pro 2021|P13_Blue_Max_Pro_2021|P13 Blue Max Pro 2021|
 |Reeder|P13 Blue Max Pro 256 GB|P13_Blue_Max_Pro_256_GB|P13 Blue Max Pro 256 GB|
@@ -24069,6 +24076,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Remdun|RD52E|RD52E|RD52E|
 |Remdun|RD60TE|RD60TE|RD60TE|
 |Remdun|RD62E|RD62E|RD62E|
+|Remdun|RD695TE|RD695TE|RD695TE|
 |Remdun|RD81PT|RD81PT|RD81PT|
 |Remdun|RD81PTE|RD81PTE|RD81PTE|
 |Remdun|RD86|RD86|RD86|
@@ -27174,10 +27182,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Watch5|heartus|SM-R905F|
 |Samsung|Galaxy Watch5|heartus|SM-R905N|
 |Samsung|Galaxy Watch5|heartus|SM-R905U|
-|Samsung|Galaxy Watch5|projectxbl|SM-R920|
-|Samsung|Galaxy Watch5|projectxul|SM-R925F|
-|Samsung|Galaxy Watch5|projectxul|SM-R925N|
-|Samsung|Galaxy Watch5|projectxul|SM-R925U|
+|Samsung|Galaxy Watch5 Pro|projectxbl|SM-R920|
+|Samsung|Galaxy Watch5 Pro|projectxul|SM-R925F|
+|Samsung|Galaxy Watch5 Pro|projectxul|SM-R925N|
+|Samsung|Galaxy Watch5 Pro|projectxul|SM-R925U|
 |Samsung|Galaxy Wide|on7nlteskt|SM-G600S|
 |Samsung|Galaxy Wide2|j7popelteskt|SM-J727S|
 |Samsung|Galaxy Wide3|j7toplteskt|SM-J737S|
@@ -32261,6 +32269,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Note 12|Note_12|Note 12|
 |Ulefone|Note 12P|Note_12P|Note 12P|
 |Ulefone|Note 13P|Note_13P|Note 13P|
+|Ulefone|Note 14|Note_14|Note 14|
 |Ulefone|Note 6|Note_6|Note 6|
 |Ulefone|Note 6P|Note_6P|Note 6P|
 |Ulefone|Note 6T|Note_6T|Note 6T|
@@ -32434,7 +32443,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|S3_Pro|S3_Pro|S3_Pro|
 |Umidigi|S5 Pro|S5_Pro|S5 Pro|
 |Umidigi|S5_Pro_EEA|S5_Pro|S5 Pro|
+|Umidigi|UMIDIGI C1|UMIDIGI_C1|MP07|
+|Umidigi|UMIDIGI C1 EEA|UMIDIGI_C1|MP07|
 |Umidigi|UMIDIGI G1|UMIDIGI_G1|MP08|
+|Umidigi|UMIDIGI G1 EEA|UMIDIGI_G1|MP08|
 |Umidigi|UMIDIGI X|UMIDIGI_X|UMIDIGI X|
 |Umidigi|Z2|Z2|Z2|
 |Umidigi|Z2 Pro|Z2_PRO|Z2_PRO|

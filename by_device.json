@@ -1036,6 +1036,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "POWER GREEN",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "SA",
    "model": "43FSA"
   },
@@ -1255,6 +1260,11 @@
    "brand": "KTCtv",
    "name": "Nobrand",
    "model": "Smart FHD TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "POWER_GREEN",
+   "model": "2K SMART TV"
   },
   {
    "brand": "KTCtv",
@@ -17906,6 +17916,11 @@
   }
  ],
  "ASUS_AI2201": [
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 6 (AI2201)",
+   "model": "ASUS_AI2201_A"
+  },
   {
    "brand": "Asus",
    "name": "ROG Phone 6 (AI2201)",
@@ -96617,6 +96632,13 @@
    "model": "Element 4 Plus"
   }
  ],
+ "Element_5": [
+  {
+   "brand": "Kalley",
+   "name": "Element 5",
+   "model": "Element 5"
+  }
+ ],
  "ELEMENT_PLAY": [
   {
    "brand": "Kalley",
@@ -128299,6 +128321,23 @@
    "model": "SmartE11"
   }
  ],
+ "MobiWire_Verda": [
+  {
+   "brand": "Mobiwire",
+   "name": "Smart Green",
+   "model": "Vodafone Lite 4G"
+  },
+  {
+   "brand": "Mobiwire",
+   "name": "Verda",
+   "model": "Verda"
+  },
+  {
+   "brand": "Mobiwire",
+   "name": "Vodafone Lite 4G",
+   "model": "Vodafone Lite 4G"
+  }
+ ],
  "Smart_N11": [
   {
    "brand": "Mobiwire",
@@ -128353,13 +128392,6 @@
    "brand": "Mobiwire",
    "name": "VSN V.45",
    "model": "V.45"
-  }
- ],
- "MobiWire_Verda": [
-  {
-   "brand": "Mobiwire",
-   "name": "Verda",
-   "model": "Verda"
   }
  ],
  "skipjack": [
@@ -160637,6 +160669,18 @@
    "model": "P13 Blue Max Lite"
   }
  ],
+ "P13_Blue_2022kk1": [
+  {
+   "brand": "Reeder",
+   "name": "P13 Blue Max Lite 2022",
+   "model": "P13 Blue Max Lite 2022"
+  },
+  {
+   "brand": "Reeder",
+   "name": "P13_Blue_2022",
+   "model": "P13 Blue Max Lite 2022"
+  }
+ ],
  "P13_Blue_Max_Pro": [
   {
    "brand": "Reeder",
@@ -160698,13 +160742,6 @@
    "brand": "Reeder",
    "name": "P13_Blue_2021",
    "model": "P13 Blue 2021"
-  }
- ],
- "P13_Blue_2022kk1": [
-  {
-   "brand": "Reeder",
-   "name": "P13_Blue_2022",
-   "model": "P13 Blue Max Lite 2022"
   }
  ],
  "P13_Blue_Plus_2022": [
@@ -161013,6 +161050,13 @@
    "brand": "Remdun",
    "name": "RD62E",
    "model": "RD62E"
+  }
+ ],
+ "RD695TE": [
+  {
+   "brand": "Remdun",
+   "name": "RD695TE",
+   "model": "RD695TE"
   }
  ],
  "RD81PT": [
@@ -180317,24 +180361,24 @@
  "projectxbl": [
   {
    "brand": "Samsung",
-   "name": "Galaxy Watch5",
+   "name": "Galaxy Watch5 Pro",
    "model": "SM-R920"
   }
  ],
  "projectxul": [
   {
    "brand": "Samsung",
-   "name": "Galaxy Watch5",
+   "name": "Galaxy Watch5 Pro",
    "model": "SM-R925F"
   },
   {
    "brand": "Samsung",
-   "name": "Galaxy Watch5",
+   "name": "Galaxy Watch5 Pro",
    "model": "SM-R925N"
   },
   {
    "brand": "Samsung",
-   "name": "Galaxy Watch5",
+   "name": "Galaxy Watch5 Pro",
    "model": "SM-R925U"
   }
  ],
@@ -210514,6 +210558,13 @@
    "model": "Note 13P"
   }
  ],
+ "Note_14": [
+  {
+   "brand": "Ulefone",
+   "name": "Note 14",
+   "model": "Note 14"
+  }
+ ],
  "Note_6": [
   {
    "brand": "Ulefone",
@@ -211444,10 +211495,27 @@
    "model": "S5 Pro"
   }
  ],
+ "UMIDIGI_C1": [
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI C1",
+   "model": "MP07"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI C1 EEA",
+   "model": "MP07"
+  }
+ ],
  "UMIDIGI_G1": [
   {
    "brand": "Umidigi",
    "name": "UMIDIGI G1",
+   "model": "MP08"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI G1 EEA",
    "model": "MP08"
   }
  ],

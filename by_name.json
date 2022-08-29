@@ -20732,6 +20732,11 @@
   {
    "brand": "Asus",
    "device": "ASUS_AI2201",
+   "model": "ASUS_AI2201_A"
+  },
+  {
+   "brand": "Asus",
+   "device": "ASUS_AI2201",
    "model": "ASUS_AI2201_B"
   },
   {
@@ -99734,6 +99739,20 @@
    "model": "Smart FHD TV"
   }
  ],
+ "POWER GREEN": [
+  {
+   "brand": "KTCtv",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
+  }
+ ],
+ "POWER_GREEN": [
+  {
+   "brand": "KTCtv",
+   "device": "stanford",
+   "model": "2K SMART TV"
+  }
+ ],
  "Rosso": [
   {
    "brand": "KTCtv",
@@ -99969,6 +99988,13 @@
    "brand": "Kalley",
    "device": "smartphone",
    "model": "Element 4 Plus"
+  }
+ ],
+ "Element 5": [
+  {
+   "brand": "Kalley",
+   "device": "Element_5",
+   "model": "Element 5"
   }
  ],
  "Element Play": [
@@ -129240,6 +129266,13 @@
    "model": "SmartE11"
   }
  ],
+ "Smart Green": [
+  {
+   "brand": "Mobiwire",
+   "device": "MobiWire_Verda",
+   "model": "Vodafone Lite 4G"
+  }
+ ],
  "Smart N11": [
   {
    "brand": "Mobiwire",
@@ -129311,6 +129344,13 @@
    "brand": "Mobiwire",
    "device": "MobiWire_Verda",
    "model": "Verda"
+  }
+ ],
+ "Vodafone Lite 4G": [
+  {
+   "brand": "Mobiwire",
+   "device": "MobiWire_Verda",
+   "model": "Vodafone Lite 4G"
   }
  ],
  "TicWatch C2": [
@@ -161146,6 +161186,13 @@
    "model": "P13 Blue Max Lite"
   }
  ],
+ "P13 Blue Max Lite 2022": [
+  {
+   "brand": "Reeder",
+   "device": "P13_Blue_2022kk1",
+   "model": "P13 Blue Max Lite 2022"
+  }
+ ],
  "P13 Blue Max Pro": [
   {
    "brand": "Reeder",
@@ -161529,6 +161576,13 @@
    "brand": "Remdun",
    "device": "RD62E",
    "model": "RD62E"
+  }
+ ],
+ "RD695TE": [
+  {
+   "brand": "Remdun",
+   "device": "RD695TE",
+   "model": "RD695TE"
   }
  ],
  "RD81PT": [
@@ -178626,7 +178680,9 @@
    "brand": "Samsung",
    "device": "heartus",
    "model": "SM-R905U"
-  },
+  }
+ ],
+ "Galaxy Watch5 Pro": [
   {
    "brand": "Samsung",
    "device": "projectxbl",
@@ -208394,6 +208450,13 @@
    "model": "Note 13P"
   }
  ],
+ "Note 14": [
+  {
+   "brand": "Ulefone",
+   "device": "Note_14",
+   "model": "Note 14"
+  }
+ ],
  "Note 6P": [
   {
    "brand": "Ulefone",
@@ -209413,7 +209476,28 @@
    "model": "S5 Pro"
   }
  ],
+ "UMIDIGI C1": [
+  {
+   "brand": "Umidigi",
+   "device": "UMIDIGI_C1",
+   "model": "MP07"
+  }
+ ],
+ "UMIDIGI C1 EEA": [
+  {
+   "brand": "Umidigi",
+   "device": "UMIDIGI_C1",
+   "model": "MP07"
+  }
+ ],
  "UMIDIGI G1": [
+  {
+   "brand": "Umidigi",
+   "device": "UMIDIGI_G1",
+   "model": "MP08"
+  }
+ ],
+ "UMIDIGI G1 EEA": [
   {
    "brand": "Umidigi",
    "device": "UMIDIGI_G1",
