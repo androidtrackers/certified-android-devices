@@ -1312,6 +1312,11 @@
    "model": "CSV2K"
   },
   {
+   "brand": "S Vision",
+   "name": "AP",
+   "model": "2K SMART TV"
+  },
+  {
    "brand": "Sansui",
    "name": "Sansui Smart TV",
    "model": "40D"
@@ -53066,6 +53071,11 @@
  "M60": [
   {
    "brand": "Evercoss",
+   "name": "M60",
+   "model": "M60"
+  },
+  {
+   "brand": "Pritom",
    "name": "M60",
    "model": "M60"
   }
@@ -132151,6 +132161,18 @@
    "model": "motorola edge 30 fusion"
   }
  ],
+ "miami": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 30 neo",
+   "model": "moto g71 5G"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 30 neo",
+   "model": "motorola edge 30 neo"
+  }
+ ],
  "hiphi": [
   {
    "brand": "Motorola",
@@ -146756,6 +146778,23 @@
    "model": "M2104K10I"
   }
  ],
+ "munch": [
+  {
+   "brand": "POCO",
+   "name": "POCO F4",
+   "model": "22021211RG"
+  },
+  {
+   "brand": "POCO",
+   "name": "POCO F4",
+   "model": "22021211RI"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi K40S",
+   "model": "22021211RC"
+  }
+ ],
  "ingres": [
   {
    "brand": "POCO",
@@ -160129,13 +160168,6 @@
    "model": "M2012K11G"
   }
  ],
- "munch": [
-  {
-   "brand": "Redmi",
-   "name": "Redmi K40S",
-   "model": "22021211RC"
-  }
- ],
  "rubens": [
   {
    "brand": "Redmi",
@@ -160245,6 +160277,16 @@
   {
    "brand": "Redmi",
    "name": "Redmi Note 10S",
+   "model": "M2101K7BI"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 11 SE",
+   "model": "22087RA4DI"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 11 SE",
    "model": "M2101K7BI"
   }
  ],
@@ -216854,6 +216896,11 @@
    "brand": "Vivo",
    "name": "V2069A",
    "model": "V2069A"
+  },
+  {
+   "brand": "Vivo",
+   "name": "vivo Y75s",
+   "model": "V2069BA"
   }
  ],
  "PD2072": [

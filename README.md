@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-08-29
+Last sync is 2022-08-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -19419,6 +19419,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge 30|dubai|motorola edge 30|
 |Motorola|motorola edge 30 fusion|tundra|moto g200 5G|
 |Motorola|motorola edge 30 fusion|tundra|motorola edge 30 fusion|
+|Motorola|motorola edge 30 neo|miami|moto g71 5G|
+|Motorola|motorola edge 30 neo|miami|motorola edge 30 neo|
 |Motorola|motorola edge 30 pro|hiphi|motorola edge 30 pro|
 |Motorola|motorola edge 30 pro|hiphi|motorola edge plus|
 |Motorola|motorola edge 30 ultra|eqs|motorola edge|
@@ -21765,6 +21767,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO F2 Pro|lmi|POCO F2 Pro|
 |POCO|POCO F3|alioth|M2012K11AG|
 |POCO|POCO F3 GT|aresin|M2104K10I|
+|POCO|POCO F4|munch|22021211RG|
+|POCO|POCO F4|munch|22021211RI|
 |POCO|POCO F4 GT|ingres|21121210G|
 |POCO|POCO M2|shiva|M2004J19PI|
 |POCO|POCO M2 Pro|gram|POCO M2 Pro|
@@ -23170,6 +23174,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pritom|M10_PRO_EEA|M10_PRO_EEA|M10_PRO_EEA|
 |Pritom|M30|M30|M30|
 |Pritom|M30_EEA|M30_EEA|M30_EEA|
+|Pritom|M60|M60|M60|
 |Pritom|P7|P7|P7|
 |Pritom|P7|P7_A1|P7|
 |Pritom|P7PLUS|P7PLUS|P7PLUS|
@@ -23953,6 +23958,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 11 Pro+|pissarropro|21091116UC|
 |Redmi|Redmi Note 11 Pro+ 5G|peux|2201116SI|
 |Redmi|Redmi Note 11 Pro+ 5G|pissarropro|21091116UG|
+|Redmi|Redmi Note 11 SE|secret|22087RA4DI|
+|Redmi|Redmi Note 11 SE|secret|M2101K7BI|
 |Redmi|Redmi Note 11E|light|22041219C|
 |Redmi|Redmi Note 11E Pro|veux|2201116SC|
 |Redmi|Redmi Note 11S|fleur|2201117SY|
@@ -24170,6 +24177,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rumie|RT-1708|RT-1708|RT-1708|
 |Runbo|F1Plus|F1Plus|F1Plus|
 |Russound|XTS7|XTS7|XTS7|
+|S Vision|AP|stanford|2K SMART TV|
 |S Vision|Australia|nippori|Svision Android TV 2K|
 |S Vision|EU、UK、AP|martin|SVISION 2K Android TV|
 |S Vision|"Japan|USA|Australia|
@@ -33608,6 +33616,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo Y69A|PD1705|vivo Y69A|
 |Vivo|vivo Y71A|PD1731|vivo Y71A|
 |Vivo|vivo Y75A|PD1718|vivo Y75A|
+|Vivo|vivo Y75s|PD2069|V2069BA|
 |Vivo|vivo Y77|PD2219|V2219A|
 |Vivo|vivo Y83A|PD1803|vivo Y83A|
 |Vivo|vivo Z1i|PD1730D|vivo Y89|

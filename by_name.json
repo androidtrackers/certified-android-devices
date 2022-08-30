@@ -57131,6 +57131,11 @@
    "brand": "Evercoss",
    "device": "M60",
    "model": "M60"
+  },
+  {
+   "brand": "Pritom",
+   "device": "M60",
+   "model": "M60"
   }
  ],
  "M6A": [
@@ -99597,6 +99602,11 @@
    "brand": "KTCtv",
    "device": "stanford",
    "model": "40D"
+  },
+  {
+   "brand": "S Vision",
+   "device": "stanford",
+   "model": "2K SMART TV"
   }
  ],
  "Banana": [
@@ -132638,6 +132648,18 @@
    "model": "motorola edge 30 fusion"
   }
  ],
+ "motorola edge 30 neo": [
+  {
+   "brand": "Motorola",
+   "device": "miami",
+   "model": "moto g71 5G"
+  },
+  {
+   "brand": "Motorola",
+   "device": "miami",
+   "model": "motorola edge 30 neo"
+  }
+ ],
  "motorola edge 30 pro": [
   {
    "brand": "Motorola",
@@ -146942,6 +146964,18 @@
    "model": "M2104K10I"
   }
  ],
+ "POCO F4": [
+  {
+   "brand": "POCO",
+   "device": "munch",
+   "model": "22021211RG"
+  },
+  {
+   "brand": "POCO",
+   "device": "munch",
+   "model": "22021211RI"
+  }
+ ],
  "POCO F4 GT": [
   {
    "brand": "POCO",
@@ -160770,6 +160804,18 @@
    "brand": "Redmi",
    "device": "pissarropro",
    "model": "21091116UG"
+  }
+ ],
+ "Redmi Note 11 SE": [
+  {
+   "brand": "Redmi",
+   "device": "secret",
+   "model": "22087RA4DI"
+  },
+  {
+   "brand": "Redmi",
+   "device": "secret",
+   "model": "M2101K7BI"
   }
  ],
  "Redmi Note 11E": [
@@ -216774,6 +216820,13 @@
    "brand": "Vivo",
    "device": "PD1718",
    "model": "vivo Y75A"
+  }
+ ],
+ "vivo Y75s": [
+  {
+   "brand": "Vivo",
+   "device": "PD2069",
+   "model": "V2069BA"
   }
  ],
  "vivo Y77": [

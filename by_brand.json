@@ -99777,6 +99777,16 @@
    "model": "motorola edge 30 fusion"
   },
   {
+   "device": "miami",
+   "name": "motorola edge 30 neo",
+   "model": "moto g71 5G"
+  },
+  {
+   "device": "miami",
+   "name": "motorola edge 30 neo",
+   "model": "motorola edge 30 neo"
+  },
+  {
    "device": "hiphi",
    "name": "motorola edge 30 pro",
    "model": "motorola edge 30 pro"
@@ -111917,6 +111927,16 @@
    "model": "M2104K10I"
   },
   {
+   "device": "munch",
+   "name": "POCO F4",
+   "model": "22021211RG"
+  },
+  {
+   "device": "munch",
+   "name": "POCO F4",
+   "model": "22021211RI"
+  },
+  {
    "device": "ingres",
    "name": "POCO F4 GT",
    "model": "21121210G"
@@ -119080,6 +119100,11 @@
    "model": "M30_EEA"
   },
   {
+   "device": "M60",
+   "name": "M60",
+   "model": "M60"
+  },
+  {
    "device": "P7",
    "name": "P7",
    "model": "P7"
@@ -123135,6 +123160,16 @@
    "model": "21091116UG"
   },
   {
+   "device": "secret",
+   "name": "Redmi Note 11 SE",
+   "model": "22087RA4DI"
+  },
+  {
+   "device": "secret",
+   "name": "Redmi Note 11 SE",
+   "model": "M2101K7BI"
+  },
+  {
    "device": "light",
    "name": "Redmi Note 11E",
    "model": "22041219C"
@@ -124281,6 +124316,11 @@
   }
  ],
  "S Vision": [
+  {
+   "device": "stanford",
+   "name": "AP",
+   "model": "2K SMART TV"
+  },
   {
    "device": "nippori",
    "name": "Australia",
@@ -172494,6 +172534,11 @@
    "device": "PD1718",
    "name": "vivo Y75A",
    "model": "vivo Y75A"
+  },
+  {
+   "device": "PD2069",
+   "name": "vivo Y75s",
+   "model": "V2069BA"
   },
   {
    "device": "PD2219",
