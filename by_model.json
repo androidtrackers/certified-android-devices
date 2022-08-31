@@ -74753,6 +74753,13 @@
    "device": "HNNTN"
   }
  ],
+ "FNE-NX9": [
+  {
+   "brand": "Honor",
+   "name": "HONOR 70",
+   "device": "HNFNE"
+  }
+ ],
  "ANY-LX1": [
   {
    "brand": "Honor",
@@ -89616,6 +89623,20 @@
    "device": "Infinix-X6817"
   }
  ],
+ "Infinix X668": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 12 PRO",
+   "device": "Infinix-X668"
+  }
+ ],
+ "Infinix X668C": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 12 PRO",
+   "device": "Infinix-X668C"
+  }
+ ],
  "Infinix X6816C": [
   {
    "brand": "Infinix",
@@ -89762,6 +89783,18 @@
    "brand": "Infinix",
    "name": "Infinix NOTE 12 5G",
    "device": "Infinix-X671"
+  }
+ ],
+ "Infinix X676B": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix NOTE 12 PRO",
+   "device": "Infinix-X676B"
+  },
+  {
+   "brand": "Infinix",
+   "name": "NOTE 12 PRO",
+   "device": "Infinix-X676B"
   }
  ],
  "Infinix X671B": [
@@ -89953,13 +89986,6 @@
    "brand": "Infinix",
    "name": "NOTE 12",
    "device": "Infinix-X670"
-  }
- ],
- "Infinix X676B": [
-  {
-   "brand": "Infinix",
-   "name": "NOTE 12 PRO",
-   "device": "Infinix-X676B"
   }
  ],
  "Infinix X672": [
@@ -133929,6 +133955,11 @@
    "brand": "Motorola",
    "name": "moto g(50) 5G",
    "device": "saipan"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge (2022)",
+   "device": "tesla"
   }
  ],
  "XT1925-10": [
@@ -134404,6 +134435,13 @@
    "brand": "Motorola",
    "name": "motorola edge plus",
    "device": "burton"
+  }
+ ],
+ "motorola edge (2022)": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge (2022)",
+   "device": "tesla"
   }
  ],
  "motorola edge 20": [
@@ -141329,6 +141367,13 @@
    "brand": "Nokia",
    "name": "Nokia Steaming Box 8000",
    "device": "HND"
+  }
+ ],
+ "Nokia T10": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia T10",
+   "device": "PGN"
   }
  ],
  "Nokia T20": [
@@ -165650,6 +165695,18 @@
    "device": "BFX-AT100"
   }
  ],
+ "BFX-UA300": [
+  {
+   "brand": "SK Broadband",
+   "name": "BFX-UA300",
+   "device": "BFX-UA300"
+  },
+  {
+   "brand": "SK Broadband",
+   "name": "SWAN",
+   "device": "BFX-UA300"
+  }
+ ],
  "BKO-AT800": [
   {
    "brand": "SK Broadband",
@@ -165662,13 +165719,6 @@
    "brand": "SK Broadband",
    "name": "BTV",
    "device": "vip5442"
-  }
- ],
- "BFX-UA300": [
-  {
-   "brand": "SK Broadband",
-   "name": "SWAN",
-   "device": "BFX-UA300"
   }
  ],
  "SK-S170": [

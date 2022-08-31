@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-08-30
+Last sync is 2022-08-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10384,6 +10384,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR 50 Lite|HNNTN|NTN-L22|
 |Honor|HONOR 50 Lite|HNNTN|NTN-LX1|
 |Honor|HONOR 50 Lite|HNNTN|NTN-LX3|
+|Honor|HONOR 70|HNFNE|FNE-NX9|
 |Honor|HONOR Magic4 Lite|HNANY-Q1|ANY-LX1|
 |Honor|HONOR Magic4 Lite 5G|HNANY-Q|ANY-NX1|
 |Honor|HONOR Magic4 Pro|HNLGE|LGE-NX9|
@@ -12592,6 +12593,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 10i|Infinix-PR652B|Infinix PR652B|
 |Infinix|Infinix HOT 11S NFC|Infinix-X6812B|Infinix X6812B|
 |Infinix|Infinix HOT 12|Infinix-X6817|Infinix X6817|
+|Infinix|Infinix HOT 12 PRO|Infinix-X668|Infinix X668|
+|Infinix|Infinix HOT 12 PRO|Infinix-X668C|Infinix X668C|
 |Infinix|Infinix HOT 12 Play|Infinix-X6816C|Infinix X6816C|
 |Infinix|Infinix HOT 12 Play NFC|Infinix-X6816D|Infinix X6816D|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623|
@@ -12613,6 +12616,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix NOTE 12|Infinix-X663C|Infinix X663C|
 |Infinix|Infinix NOTE 12 2023|Infinix-X676C|Infinix X676C|
 |Infinix|Infinix NOTE 12 5G|Infinix-X671|Infinix X671|
+|Infinix|Infinix NOTE 12 PRO|Infinix-X676B|Infinix X676B|
 |Infinix|Infinix NOTE 12 Pro 5G|Infinix-X671B|Infinix X671B|
 |Infinix|Infinix NOTE 12i|Infinix-X6819|Infinix X6819|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604|
@@ -19407,6 +19411,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge|racer|motorola edge|
 |Motorola|motorola edge (2021)|berlna|motorola edge (2021)|
 |Motorola|motorola edge (2021)|berlna|motorola edge plus|
+|Motorola|motorola edge (2022)|tesla|moto g(50) 5G|
+|Motorola|motorola edge (2022)|tesla|motorola edge (2022)|
 |Motorola|motorola edge 20|berlin|motorola edge 20|
 |Motorola|motorola edge 20|berlin|motorola edge plus|
 |Motorola|motorola edge 20 fusion|kyoto|motorola|
@@ -20505,6 +20511,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia G50|PHR|Nokia G50|
 |Nokia|Nokia G50|PHR_sprout|Nokia G50|
 |Nokia|Nokia Steaming Box 8000|HND|Nokia Streaming Box 8000|
+|Nokia|Nokia T10|PGN|Nokia T10|
 |Nokia|Nokia T20|RDD|Nokia T20|
 |Nokia|Nokia T20|RDDCN|Nokia T20|
 |Nokia|Nokia X10|SCW|Nokia X10|
@@ -24275,6 +24282,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SK Broadband|B tv smart|BHX-S100|BHX-S100|
 |SK Broadband|B tv smart|BKO-S200|BKO-S200|
 |SK Broadband|BFX-AT100|BFX-AT100|BFX-AT100|
+|SK Broadband|BFX-UA300|BFX-UA300|BFX-UA300|
 |SK Broadband|BKO-AT800|BKO-AT800|BKO-AT800|
 |SK Broadband|BTV|vip5442|BAS-AT800|
 |SK Broadband|SWAN|BFX-UA300|BFX-UA300|
