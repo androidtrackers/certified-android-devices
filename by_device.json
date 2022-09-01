@@ -1293,6 +1293,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "VON",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "Zitro",
    "model": "40DSA"
   },
@@ -1304,6 +1309,11 @@
   {
    "brand": "LUCOMS",
    "name": "LUCOMS",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "Motorola",
+   "name": "MOTOROLA",
    "model": "2K SMART TV"
   },
   {
@@ -44788,11 +44798,25 @@
    "model": "DS-BD1"
   }
  ],
+ "DS_BD2": [
+  {
+   "brand": "Dcode",
+   "name": "DS_BD2",
+   "model": "DS-BD2"
+  }
+ ],
  "DS_CL1": [
   {
    "brand": "Dcode",
    "name": "DS_CL1",
    "model": "DS-CL1"
+  }
+ ],
+ "DS_CL2_Pro": [
+  {
+   "brand": "Dcode",
+   "name": "DS_CL2_Pro",
+   "model": "DS-CL2 Pro"
   }
  ],
  "AM5E3I047": [
@@ -52486,6 +52510,25 @@
    "model": "VMD1029"
   }
  ],
+ "sti6200d101": [
+  {
+   "brand": "Epson",
+   "name": "EF-12/EH-LS300",
+   "model": "Projector"
+  },
+  {
+   "brand": "Epson",
+   "name": "Projector",
+   "model": "Projector"
+  }
+ ],
+ "sti6202d101": [
+  {
+   "brand": "Epson",
+   "name": "EH-LS800",
+   "model": "HA90"
+  }
+ ],
  "embt4": [
   {
    "brand": "Epson",
@@ -52506,18 +52549,6 @@
    "brand": "Epson",
    "name": "embt4ru",
    "model": "EMBT4"
-  }
- ],
- "sti6200d101": [
-  {
-   "brand": "Epson",
-   "name": "Projector",
-   "model": "Projector"
-  },
-  {
-   "brand": "Epson",
-   "name": "SMF2",
-   "model": "Projector"
   }
  ],
  "Bushi": [
@@ -59457,6 +59488,13 @@
    "brand": "GREATASIA",
    "name": "Pad_M30",
    "model": "Pad_M30"
+  }
+ ],
+ "TK-E8765": [
+  {
+   "brand": "GREATASIA",
+   "name": "TK-E8765",
+   "model": "TK-E8765"
   }
  ],
  "Z8": [
@@ -89571,6 +89609,13 @@
    "brand": "Infinix",
    "name": "X572",
    "model": "Infinix X572-LTE"
+  }
+ ],
+ "Infinix-X6821": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix ZERO 20",
+   "model": "Infinix X6821"
   }
  ],
  "Infinix-X6815B": [
@@ -204755,6 +204800,13 @@
    "model": "P25_RUS"
   }
  ],
+ "P25_T": [
+  {
+   "brand": "Teclast",
+   "name": "P25_T_ROW",
+   "model": "P25_T_ROW"
+  }
+ ],
  "P30Air_ROW": [
   {
    "brand": "Teclast",
@@ -211283,6 +211335,13 @@
    "brand": "Umidigi",
    "name": "AblePad S EEA",
    "model": "MT03"
+  }
+ ],
+ "AblePad_Pro": [
+  {
+   "brand": "Umidigi",
+   "name": "AblePad_Pro",
+   "model": "MT04"
   }
  ],
  "BISON": [

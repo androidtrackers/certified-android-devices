@@ -48424,11 +48424,25 @@
    "model": "DS-BD1"
   }
  ],
+ "DS_BD2": [
+  {
+   "brand": "Dcode",
+   "device": "DS_BD2",
+   "model": "DS-BD2"
+  }
+ ],
  "DS_CL1": [
   {
    "brand": "Dcode",
    "device": "DS_CL1",
    "model": "DS-CL1"
+  }
+ ],
+ "DS_CL2_Pro": [
+  {
+   "brand": "Dcode",
+   "device": "DS_CL2_Pro",
+   "model": "DS-CL2 Pro"
   }
  ],
  "ANDY 5EI": [
@@ -56585,6 +56599,20 @@
    "model": "VMD1029"
   }
  ],
+ "EF-12/EH-LS300": [
+  {
+   "brand": "Epson",
+   "device": "sti6200d101",
+   "model": "Projector"
+  }
+ ],
+ "EH-LS800": [
+  {
+   "brand": "Epson",
+   "device": "sti6202d101",
+   "model": "HA90"
+  }
+ ],
  "Epson": [
   {
    "brand": "Epson",
@@ -56593,13 +56621,6 @@
   }
  ],
  "Projector": [
-  {
-   "brand": "Epson",
-   "device": "sti6200d101",
-   "model": "Projector"
-  }
- ],
- "SMF2": [
   {
    "brand": "Epson",
    "device": "sti6200d101",
@@ -63406,6 +63427,13 @@
    "brand": "GREATASIA",
    "device": "Pad_M30",
    "model": "Pad_M30"
+  }
+ ],
+ "TK-E8765": [
+  {
+   "brand": "GREATASIA",
+   "device": "TK-E8765",
+   "model": "TK-E8765"
   }
  ],
  "Z8": [
@@ -92667,6 +92695,13 @@
    "model": "Infinix X572"
   }
  ],
+ "Infinix ZERO 20": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6821",
+   "model": "Infinix X6821"
+  }
+ ],
  "Infinix ZERO 5G": [
   {
    "brand": "Infinix",
@@ -99820,6 +99855,13 @@
    "brand": "KTCtv",
    "device": "zhongshan",
    "model": "4K SMART TV"
+  }
+ ],
+ "VON": [
+  {
+   "brand": "KTCtv",
+   "device": "stanford",
+   "model": "2K SMART TV"
   }
  ],
  "Zitro": [
@@ -130298,6 +130340,13 @@
    "brand": "Motorola",
    "device": "cebu",
    "model": "Lenovo XT2091-7"
+  }
+ ],
+ "MOTOROLA": [
+  {
+   "brand": "Motorola",
+   "device": "stanford",
+   "model": "2K SMART TV"
   }
  ],
  "Master Touch": [
@@ -202733,6 +202782,13 @@
    "model": "P25_RUS"
   }
  ],
+ "P25_T_ROW": [
+  {
+   "brand": "Teclast",
+   "device": "P25_T",
+   "model": "P25_T_ROW"
+  }
+ ],
  "P30Air_ROW": [
   {
    "brand": "Teclast",
@@ -209180,6 +209236,13 @@
    "brand": "Umidigi",
    "device": "AblePad_S",
    "model": "MT03"
+  }
+ ],
+ "AblePad_Pro": [
+  {
+   "brand": "Umidigi",
+   "device": "AblePad_Pro",
+   "model": "MT04"
   }
  ],
  "BISON": [

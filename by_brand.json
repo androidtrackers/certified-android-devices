@@ -28603,9 +28603,19 @@
    "model": "DS-BD1"
   },
   {
+   "device": "DS_BD2",
+   "name": "DS_BD2",
+   "model": "DS-BD2"
+  },
+  {
    "device": "DS_CL1",
    "name": "DS_CL1",
    "model": "DS-CL1"
+  },
+  {
+   "device": "DS_CL2_Pro",
+   "name": "DS_CL2_Pro",
+   "model": "DS-CL2 Pro"
   }
  ],
  "Ddm": [
@@ -34467,6 +34477,16 @@
  ],
  "Epson": [
   {
+   "device": "sti6200d101",
+   "name": "EF-12/EH-LS300",
+   "model": "Projector"
+  },
+  {
+   "device": "sti6202d101",
+   "name": "EH-LS800",
+   "model": "HA90"
+  },
+  {
    "device": "embt4",
    "name": "Epson",
    "model": "EMBT4"
@@ -34474,11 +34494,6 @@
   {
    "device": "sti6200d101",
    "name": "Projector",
-   "model": "Projector"
-  },
-  {
-   "device": "sti6200d101",
-   "name": "SMF2",
    "model": "Projector"
   },
   {
@@ -39623,6 +39638,11 @@
    "device": "Pad_M30",
    "name": "Pad_M30",
    "model": "Pad_M30"
+  },
+  {
+   "device": "TK-E8765",
+   "name": "TK-E8765",
+   "model": "TK-E8765"
   },
   {
    "device": "Z8",
@@ -65080,6 +65100,11 @@
    "model": "Infinix X572"
   },
   {
+   "device": "Infinix-X6821",
+   "name": "Infinix ZERO 20",
+   "model": "Infinix X6821"
+  },
+  {
    "device": "Infinix-X6815B",
    "name": "Infinix ZERO 5G",
    "model": "Infinix X6815B"
@@ -71010,6 +71035,11 @@
    "device": "zhongshan",
    "name": "VISTA",
    "model": "4K SMART TV"
+  },
+  {
+   "device": "stanford",
+   "name": "VON",
+   "model": "2K SMART TV"
   },
   {
    "device": "stanford",
@@ -97740,6 +97770,11 @@
    "device": "cebu",
    "name": "Lenovo XT2091-7",
    "model": "Lenovo XT2091-7"
+  },
+  {
+   "device": "stanford",
+   "name": "MOTOROLA",
+   "model": "2K SMART TV"
   },
   {
    "device": "umts_primus",
@@ -160643,6 +160678,11 @@
    "model": "P25_RUS"
   },
   {
+   "device": "P25_T",
+   "name": "P25_T_ROW",
+   "model": "P25_T_ROW"
+  },
+  {
    "device": "P30Air_ROW",
    "name": "P30Air_ROW",
    "model": "P30Air_ROW"
@@ -166244,6 +166284,11 @@
    "device": "AblePad_S",
    "name": "AblePad S EEA",
    "model": "MT03"
+  },
+  {
+   "device": "AblePad_Pro",
+   "name": "AblePad_Pro",
+   "model": "MT04"
   },
   {
    "device": "BISON",

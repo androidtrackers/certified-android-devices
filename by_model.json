@@ -5842,8 +5842,18 @@
    "device": "stanford"
   },
   {
+   "brand": "KTCtv",
+   "name": "VON",
+   "device": "stanford"
+  },
+  {
    "brand": "LUCOMS",
    "name": "LUCOMS",
+   "device": "stanford"
+  },
+  {
+   "brand": "Motorola",
+   "name": "MOTOROLA",
    "device": "stanford"
   },
   {
@@ -41767,11 +41777,25 @@
    "device": "DS_BD1"
   }
  ],
+ "DS-BD2": [
+  {
+   "brand": "Dcode",
+   "name": "DS_BD2",
+   "device": "DS_BD2"
+  }
+ ],
  "DS-CL1": [
   {
    "brand": "Dcode",
    "name": "DS_CL1",
    "device": "DS_CL1"
+  }
+ ],
+ "DS-CL2 Pro": [
+  {
+   "brand": "Dcode",
+   "name": "DS_CL2_Pro",
+   "device": "DS_CL2_Pro"
   }
  ],
  "ANDY 5EI": [
@@ -49478,6 +49502,25 @@
    "device": "VMD1029"
   }
  ],
+ "Projector": [
+  {
+   "brand": "Epson",
+   "name": "EF-12/EH-LS300",
+   "device": "sti6200d101"
+  },
+  {
+   "brand": "Epson",
+   "name": "Projector",
+   "device": "sti6200d101"
+  }
+ ],
+ "HA90": [
+  {
+   "brand": "Epson",
+   "name": "EH-LS800",
+   "device": "sti6202d101"
+  }
+ ],
  "EMBT4": [
   {
    "brand": "Epson",
@@ -49498,18 +49541,6 @@
    "brand": "Epson",
    "name": "embt4ru",
    "device": "embt4"
-  }
- ],
- "Projector": [
-  {
-   "brand": "Epson",
-   "name": "Projector",
-   "device": "sti6200d101"
-  },
-  {
-   "brand": "Epson",
-   "name": "SMF2",
-   "device": "sti6200d101"
   }
  ],
  "STI6110": [
@@ -56451,6 +56482,13 @@
    "brand": "GREATASIA",
    "name": "Pad_M30",
    "device": "Pad_M30"
+  }
+ ],
+ "TK-E8765": [
+  {
+   "brand": "GREATASIA",
+   "name": "TK-E8765",
+   "device": "TK-E8765"
   }
  ],
  "Z8": [
@@ -89890,6 +89928,13 @@
    "brand": "Infinix",
    "name": "X572",
    "device": "Infinix-X572"
+  }
+ ],
+ "Infinix X6821": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix ZERO 20",
+   "device": "Infinix-X6821"
   }
  ],
  "Infinix X6815B": [
@@ -212714,6 +212759,13 @@
    "device": "P25_RUS"
   }
  ],
+ "P25_T_ROW": [
+  {
+   "brand": "Teclast",
+   "name": "P25_T_ROW",
+   "device": "P25_T"
+  }
+ ],
  "P30Air_ROW": [
   {
    "brand": "Teclast",
@@ -219536,6 +219588,13 @@
    "brand": "Umidigi",
    "name": "AblePad S EEA",
    "device": "AblePad_S"
+  }
+ ],
+ "MT04": [
+  {
+   "brand": "Umidigi",
+   "name": "AblePad_Pro",
+   "device": "AblePad_Pro"
   }
  ],
  "BISON": [

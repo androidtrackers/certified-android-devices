@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-08-31
+Last sync is 2022-09-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5527,7 +5527,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dcode|Cypher|Dcode_Cypher|DS-CR1|
 |Dcode|DS-X1|DS-X1|DS-X1|
 |Dcode|DS_BD1|DS_BD1|DS-BD1|
+|Dcode|DS_BD2|DS_BD2|DS-BD2|
 |Dcode|DS_CL1|DS_CL1|DS-CL1|
+|Dcode|DS_CL2_Pro|DS_CL2_Pro|DS-CL2 Pro|
 |Ddm|ANDY 5EI|AM5E3I047|ANDY 5EI|
 |DeWALT|DeWalt md501|md501|md501|
 |Delephas|"Chang Co.|Ltd"|seocho|
@@ -6643,9 +6645,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Envizen Digital|V100MD|V100MD|V100MD|
 |Envizen Digital|V917G|GK-MID9022|V917G|
 |Envizen Digital|VMD1029|VMD1029|VMD1029|
+|Epson|EF-12/EH-LS300|sti6200d101|Projector|
+|Epson|EH-LS800|sti6202d101|HA90|
 |Epson|Epson|embt4|EMBT4|
 |Epson|Projector|sti6200d101|Projector|
-|Epson|SMF2|sti6200d101|Projector|
 |Epson|STI6110|Bushi|STI6110|
 |Epson|embt4|embt4|EMBT4|
 |Epson|embt4cn|embt4|EMBT4|
@@ -7625,6 +7628,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GREATASIA|ET103G|ET103G|ET103G|
 |GREATASIA|Kidpad_M7|Kidpa_M7|Kidpa_M7|
 |GREATASIA|Pad_M30|Pad_M30|Pad_M30|
+|GREATASIA|TK-E8765|TK-E8765|TK-E8765|
 |GREATASIA|Z8|Z8|Z8|
 |GRID Communications (SG)|GS6100|GRID_GS6100|GS6100|
 |GSmart|Akta A4|Akta_A4|Akta_A4|
@@ -12632,6 +12636,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix X559|Infinix-X559|Infinix X559|
 |Infinix|Infinix X571|Infinix-X571|Infinix X571|
 |Infinix|Infinix X572|Infinix-X572|Infinix X572|
+|Infinix|Infinix ZERO 20|Infinix-X6821|Infinix X6821|
 |Infinix|Infinix ZERO 5G|Infinix-X6815B|Infinix X6815B|
 |Infinix|Infinix ZERO 8i|Infinix-X687B|Infinix X687B|
 |Infinix|Infinix ZERO X|Infinix-X6811B|Infinix X6811B|
@@ -13782,6 +13787,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|Telsa|zhongshan|Tesla 4K Android TV|
 |KTCtv|VISTA|stanford|2K SMART TV|
 |KTCtv|VISTA|zhongshan|4K SMART TV|
+|KTCtv|VON|stanford|2K SMART TV|
 |KTCtv|Zitro|stanford|40DSA|
 |KTCtv|Zitro|zhongshan|43FSA|
 |KTS (JP)|IPN99_RTD1319_TOA|TMS-KR01P|TMS-KR01P|
@@ -19012,6 +19018,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|Lenovo K14 Note|cofud|Lenovo K14 Note|
 |Motorola|Lenovo XT2081-4|guam|Lenovo XT2081-4|
 |Motorola|Lenovo XT2091-7|cebu|Lenovo XT2091-7|
+|Motorola|MOTOROLA|stanford|2K SMART TV|
 |Motorola|Master Touch|umts_primus|XT621|
 |Motorola|Master Touch XT621|umts_primus|XT621|
 |Motorola|Milestone2|umts_milestone2|A953|
@@ -31321,6 +31328,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P25_EEA|P25_EEA|P25_EEA|
 |Teclast|P25_ROW|P25_ROW|P25_ROW|
 |Teclast|P25_RUS|P25_RUS|P25_RUS|
+|Teclast|P25_T_ROW|P25_T|P25_T_ROW|
 |Teclast|P30Air_ROW|P30Air_ROW|P30Air_ROW|
 |Teclast|P30HD|P30HD|P30HD|
 |Teclast|P30HD|P30HD|P30HD_EEA|
@@ -32396,6 +32404,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|A9 Pro R EEA|A9_Pro_R|A9 Pro|
 |Umidigi|A9 Pro_EEA|A9_Pro|A9 Pro|
 |Umidigi|AblePad S EEA|AblePad_S|MT03|
+|Umidigi|AblePad_Pro|AblePad_Pro|MT04|
 |Umidigi|BISON|BISON|BISON|
 |Umidigi|BISON 2|BISON_2|RP04|
 |Umidigi|BISON 2 EEA|BISON_2|RP04|
