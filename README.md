@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-09-01
+Last sync is 2022-09-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6647,6 +6647,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Envizen Digital|VMD1029|VMD1029|VMD1029|
 |Epson|EF-12/EH-LS300|sti6200d101|Projector|
 |Epson|EH-LS800|sti6202d101|HA90|
+|Epson|ELPAP12|Bushi|STI6110|
 |Epson|Epson|embt4|EMBT4|
 |Epson|Projector|sti6200d101|Projector|
 |Epson|STI6110|Bushi|STI6110|
@@ -12549,6 +12550,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|HOT 12i|Infinix-X665|Infinix X665|
 |Infinix|HOT 12i|Infinix-X665B|Infinix X665B|
 |Infinix|HOT 2|Infinix_X510|Infinix X510|
+|Infinix|HOT 20i|Infinix-X665C|Infinix X665C|
+|Infinix|HOT 20i|Infinix-X665E|Infinix X665E|
 |Infinix|HOT 3|INFINIX-X554|Infinix HOT 3 Pro|
 |Infinix|HOT 3|INFINIX-X554|Infinix-X554|
 |Infinix|HOT 3 LTE|INFINIX-X553|Infinix HOT 3 LTE|
@@ -13368,6 +13371,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel S16 Pro|itel-W6503|itel W6503|
 |Itel|itel S16 Pro（Vision 2）|itel-L6503|itel L6503|
 |Itel|itel S17|itel-S661W|itel S661W|
+|Itel|itel S18|itel-S663L|itel S663L|
 |Itel|itel S32LTE|itel-S32LTE|itel S32LTE|
 |Itel|itel TV|shibuya|itel TV|
 |Itel|itel V41|itel-W4001S|itel W4001S|
@@ -19701,6 +19705,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|MS70|MS70|MS70|
 |Multilaser|MS80|ML-TI-MS80|ML-TI-MS80|
 |Multilaser|MS80X|ML-TI0D-MS80X|MS80X|
+|Multilaser|MULTILASER|zhongshan|4K SMART TV|
 |Multilaser|Ms5|MTL-MS5|MS5|
 |Multilaser|Ms6|MS6|MS6|
 |Multilaser|Multilaser E|Multilaser_E|Multilaser_E|
@@ -22244,6 +22249,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philco|P13|Hit_P13|Hit P13|
 |Philco|PCS01|PCS01|PCS01|
 |Philco|PCS02|PCS02|PCS02|
+|Philco|PHILCO|zhongshan|4K SMART TV|
 |Philco|PHILCO Smart TV|SW4H|PHILCO Smart TV|
 |Philco|PHILCO_TP7A6|PHILCO_TP7A6|TP7A6|
 |Philco|PTB7PAP_ PTB7PAB _ PTB7PAR|PTB7PA|PTB7PAP_PTB7PAB_PTB7PAR|
@@ -24358,6 +24364,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC|GRAVITY-SE|GRAVITY-SE|GRAVITY SE|
 |SPC|GRAVITY-ULTIMATE-2|GRAVITY-ULTIMATE-2|GRAVITY ULTIMATE 2|
 |SPC|GRAVITY_3|GRAVITY_3|GRAVITY_3|
+|SPC|GRAVITY_3_PRO|GRAVITY_3_PRO|GRAVITY 3 PRO|
 |SPC|GRAVITY_3_SE|GRAVITY_3_SE|GRAVITY_3_SE|
 |SPC|Gravity_Max_EEA|Gravity_Max|Gravity Max|
 |SPC|LIGHTYEAR-2|LIGHTYEAR-2|LIGHTYEAR 2|
@@ -24367,7 +24374,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SPC Mobile|GRAVITY2-4G|GRAVITY2-4G|GRAVITY2-4G|
 |SPC Mobile|GRAVITY_3G_2019_eea|GRAVITY_3G|GRAVITY 3G_2019|
 |SPC Mobile|GRAVITY_3_4G|GRAVITY_3_4G|GRAVITY 3 4G|
-|SPC Mobile|GRAVITY_3_PRO|GRAVITY_3_PRO|GRAVITY 3 PRO|
 |SPC Mobile|L100|L100|L100|
 |SPC Mobile|L50|SPC_L50|L50|
 |SPC Mobile|L50E|L50E|SPC L50E|
@@ -27901,6 +27907,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|SH8128U|msm7627|SH8128U|
 |Sharp|SH8188U|SH8188U|SH8188U|
 |Sharp|SH825wi|SH825Wi|SH825Wi|
+|Sharp|SHARP|stanford|2K SMART TV|
 |Sharp|SHARP|zhongshan|4K SMART TV|
 |Sharp|SHARP 2K SMART TV|shinagawa|SHARP 2K SMART TV|
 |Sharp|SHARP A2 Lite|SJ3|FS8026|
@@ -31622,6 +31629,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO POVA 2|TECNO-LE7n|TECNO LE7n|
 |Tecno|TECNO POVA 3|TECNO-LF7|TECNO LF7|
 |Tecno|TECNO POVA 3|TECNO-LF7n|TECNO LF7n|
+|Tecno|TECNO POVA 4|TECNO-LG7n|TECNO LG7n|
 |Tecno|TECNO POVA 4 Pro|TECNO-LG8n|TECNO LG8n|
 |Tecno|TECNO POVA 5G|TECNO-LE8|TECNO LE8|
 |Tecno|TECNO R6S|TECNO-R6|TECNO R6S|

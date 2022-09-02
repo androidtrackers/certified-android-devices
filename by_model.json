@@ -5862,6 +5862,11 @@
    "device": "stanford"
   },
   {
+   "brand": "Sharp",
+   "name": "SHARP",
+   "device": "stanford"
+  },
+  {
    "brand": "Smart-Tech TV",
    "name": "SMART TECHNOLOGY",
    "device": "stanford"
@@ -7543,8 +7548,18 @@
    "device": "zhongshan"
   },
   {
+   "brand": "Multilaser",
+   "name": "MULTILASER",
+   "device": "zhongshan"
+  },
+  {
    "brand": "Next",
    "name": "NEXT",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Philco",
+   "name": "PHILCO",
    "device": "zhongshan"
   },
   {
@@ -49521,6 +49536,18 @@
    "device": "sti6202d101"
   }
  ],
+ "STI6110": [
+  {
+   "brand": "Epson",
+   "name": "ELPAP12",
+   "device": "Bushi"
+  },
+  {
+   "brand": "Epson",
+   "name": "STI6110",
+   "device": "Bushi"
+  }
+ ],
  "EMBT4": [
   {
    "brand": "Epson",
@@ -49541,13 +49568,6 @@
    "brand": "Epson",
    "name": "embt4ru",
    "device": "embt4"
-  }
- ],
- "STI6110": [
-  {
-   "brand": "Epson",
-   "name": "STI6110",
-   "device": "Bushi"
   }
  ],
  "Axis": [
@@ -89352,6 +89372,20 @@
    "device": "Infinix_X510_sprout"
   }
  ],
+ "Infinix X665C": [
+  {
+   "brand": "Infinix",
+   "name": "HOT 20i",
+   "device": "Infinix-X665C"
+  }
+ ],
+ "Infinix X665E": [
+  {
+   "brand": "Infinix",
+   "name": "HOT 20i",
+   "device": "Infinix-X665E"
+  }
+ ],
  "Infinix HOT 3 Pro": [
   {
    "brand": "Infinix",
@@ -94784,6 +94818,13 @@
    "brand": "Itel",
    "name": "itel S17",
    "device": "itel-S661W"
+  }
+ ],
+ "itel S663L": [
+  {
+   "brand": "Itel",
+   "name": "itel S18",
+   "device": "itel-S663L"
   }
  ],
  "itel S32LTE": [
@@ -166246,6 +166287,13 @@
    "device": "GRAVITY_3"
   }
  ],
+ "GRAVITY 3 PRO": [
+  {
+   "brand": "SPC",
+   "name": "GRAVITY_3_PRO",
+   "device": "GRAVITY_3_PRO"
+  }
+ ],
  "GRAVITY_3_SE": [
   {
    "brand": "SPC",
@@ -166312,13 +166360,6 @@
    "brand": "SPC Mobile",
    "name": "GRAVITY_3_4G",
    "device": "GRAVITY_3_4G"
-  }
- ],
- "GRAVITY 3 PRO": [
-  {
-   "brand": "SPC Mobile",
-   "name": "GRAVITY_3_PRO",
-   "device": "GRAVITY_3_PRO"
   }
  ],
  "L100": [
@@ -214045,6 +214086,11 @@
   {
    "brand": "Tecno",
    "name": "POVA 4",
+   "device": "TECNO-LG7n"
+  },
+  {
+   "brand": "Tecno",
+   "name": "TECNO POVA 4",
    "device": "TECNO-LG7n"
   }
  ],

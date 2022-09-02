@@ -1080,8 +1080,18 @@
    "model": "CSV4K"
   },
   {
+   "brand": "Multilaser",
+   "name": "MULTILASER",
+   "model": "4K SMART TV"
+  },
+  {
    "brand": "Next",
    "name": "NEXT",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Philco",
+   "name": "PHILCO",
    "model": "4K SMART TV"
   },
   {
@@ -1330,6 +1340,11 @@
    "brand": "Sansui",
    "name": "Sansui Smart TV",
    "model": "40D"
+  },
+  {
+   "brand": "Sharp",
+   "name": "SHARP",
+   "model": "2K SMART TV"
   },
   {
    "brand": "Siragon",
@@ -52529,6 +52544,18 @@
    "model": "HA90"
   }
  ],
+ "Bushi": [
+  {
+   "brand": "Epson",
+   "name": "ELPAP12",
+   "model": "STI6110"
+  },
+  {
+   "brand": "Epson",
+   "name": "STI6110",
+   "model": "STI6110"
+  }
+ ],
  "embt4": [
   {
    "brand": "Epson",
@@ -52549,13 +52576,6 @@
    "brand": "Epson",
    "name": "embt4ru",
    "model": "EMBT4"
-  }
- ],
- "Bushi": [
-  {
-   "brand": "Epson",
-   "name": "STI6110",
-   "model": "STI6110"
   }
  ],
  "Axis": [
@@ -89021,6 +89041,20 @@
    "model": "Infinix X510"
   }
  ],
+ "Infinix-X665C": [
+  {
+   "brand": "Infinix",
+   "name": "HOT 20i",
+   "model": "Infinix X665C"
+  }
+ ],
+ "Infinix-X665E": [
+  {
+   "brand": "Infinix",
+   "name": "HOT 20i",
+   "model": "Infinix X665E"
+  }
+ ],
  "INFINIX-X554": [
   {
    "brand": "Infinix",
@@ -94361,6 +94395,13 @@
    "brand": "Itel",
    "name": "itel S17",
    "model": "itel S661W"
+  }
+ ],
+ "itel-S663L": [
+  {
+   "brand": "Itel",
+   "name": "itel S18",
+   "model": "itel S663L"
   }
  ],
  "itel-S32LTE": [
@@ -162657,6 +162698,13 @@
    "model": "GRAVITY_3"
   }
  ],
+ "GRAVITY_3_PRO": [
+  {
+   "brand": "SPC",
+   "name": "GRAVITY_3_PRO",
+   "model": "GRAVITY 3 PRO"
+  }
+ ],
  "GRAVITY_3_SE": [
   {
    "brand": "SPC",
@@ -162723,13 +162771,6 @@
    "brand": "SPC Mobile",
    "name": "GRAVITY_3_4G",
    "model": "GRAVITY 3 4G"
-  }
- ],
- "GRAVITY_3_PRO": [
-  {
-   "brand": "SPC Mobile",
-   "name": "GRAVITY_3_PRO",
-   "model": "GRAVITY 3 PRO"
   }
  ],
  "L100": [
@@ -206043,6 +206084,11 @@
   {
    "brand": "Tecno",
    "name": "POVA 4",
+   "model": "TECNO LG7n"
+  },
+  {
+   "brand": "Tecno",
+   "name": "TECNO POVA 4",
    "model": "TECNO LG7n"
   }
  ],

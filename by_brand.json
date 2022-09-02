@@ -34487,6 +34487,11 @@
    "model": "HA90"
   },
   {
+   "device": "Bushi",
+   "name": "ELPAP12",
+   "model": "STI6110"
+  },
+  {
    "device": "embt4",
    "name": "Epson",
    "model": "EMBT4"
@@ -64665,6 +64670,16 @@
    "model": "Infinix X510"
   },
   {
+   "device": "Infinix-X665C",
+   "name": "HOT 20i",
+   "model": "Infinix X665C"
+  },
+  {
+   "device": "Infinix-X665E",
+   "name": "HOT 20i",
+   "model": "Infinix X665E"
+  },
+  {
    "device": "INFINIX-X554",
    "name": "HOT 3",
    "model": "Infinix HOT 3 Pro"
@@ -68812,6 +68827,11 @@
    "device": "itel-S661W",
    "name": "itel S17",
    "model": "itel S661W"
+  },
+  {
+   "device": "itel-S663L",
+   "name": "itel S18",
+   "model": "itel S663L"
   },
   {
    "device": "itel-S32LTE",
@@ -101219,6 +101239,11 @@
    "model": "MS80X"
   },
   {
+   "device": "zhongshan",
+   "name": "MULTILASER",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "MTL-MS5",
    "name": "Ms5",
    "model": "MS5"
@@ -114364,6 +114389,11 @@
    "model": "PCS02"
   },
   {
+   "device": "zhongshan",
+   "name": "PHILCO",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "SW4H",
    "name": "PHILCO Smart TV",
    "model": "PHILCO Smart TV"
@@ -125320,6 +125350,11 @@
    "model": "GRAVITY_3"
   },
   {
+   "device": "GRAVITY_3_PRO",
+   "name": "GRAVITY_3_PRO",
+   "model": "GRAVITY 3 PRO"
+  },
+  {
    "device": "GRAVITY_3_SE",
    "name": "GRAVITY_3_SE",
    "model": "GRAVITY_3_SE"
@@ -125365,11 +125400,6 @@
    "device": "GRAVITY_3_4G",
    "name": "GRAVITY_3_4G",
    "model": "GRAVITY 3 4G"
-  },
-  {
-   "device": "GRAVITY_3_PRO",
-   "name": "GRAVITY_3_PRO",
-   "model": "GRAVITY 3 PRO"
   },
   {
    "device": "L100",
@@ -143147,6 +143177,11 @@
    "device": "SH825Wi",
    "name": "SH825wi",
    "model": "SH825Wi"
+  },
+  {
+   "device": "stanford",
+   "name": "SHARP",
+   "model": "2K SMART TV"
   },
   {
    "device": "zhongshan",
@@ -162148,6 +162183,11 @@
    "device": "TECNO-LF7n",
    "name": "TECNO POVA 3",
    "model": "TECNO LF7n"
+  },
+  {
+   "device": "TECNO-LG7n",
+   "name": "TECNO POVA 4",
+   "model": "TECNO LG7n"
   },
   {
    "device": "TECNO-LG8n",

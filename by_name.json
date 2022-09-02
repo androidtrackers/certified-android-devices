@@ -56613,6 +56613,13 @@
    "model": "HA90"
   }
  ],
+ "ELPAP12": [
+  {
+   "brand": "Epson",
+   "device": "Bushi",
+   "model": "STI6110"
+  }
+ ],
  "Epson": [
   {
    "brand": "Epson",
@@ -92172,6 +92179,18 @@
    "model": "Infinix X510"
   }
  ],
+ "HOT 20i": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X665C",
+   "model": "Infinix X665C"
+  },
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X665E",
+   "model": "Infinix X665E"
+  }
+ ],
  "HOT 3": [
   {
    "brand": "Infinix",
@@ -97304,6 +97323,13 @@
    "brand": "Itel",
    "device": "itel-S661W",
    "model": "itel S661W"
+  }
+ ],
+ "itel S18": [
+  {
+   "brand": "Itel",
+   "device": "itel-S663L",
+   "model": "itel S663L"
   }
  ],
  "itel S32LTE": [
@@ -134427,6 +134453,13 @@
    "model": "MS80X"
   }
  ],
+ "MULTILASER": [
+  {
+   "brand": "Multilaser",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
+  }
+ ],
  "Ms5": [
   {
    "brand": "Multilaser",
@@ -149950,6 +149983,13 @@
    "model": "PCS02"
   }
  ],
+ "PHILCO": [
+  {
+   "brand": "Philco",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
+  }
+ ],
  "PHILCO Smart TV": [
   {
    "brand": "Philco",
@@ -163277,6 +163317,13 @@
    "model": "GRAVITY_3"
   }
  ],
+ "GRAVITY_3_PRO": [
+  {
+   "brand": "SPC",
+   "device": "GRAVITY_3_PRO",
+   "model": "GRAVITY 3 PRO"
+  }
+ ],
  "GRAVITY_3_SE": [
   {
    "brand": "SPC",
@@ -163338,13 +163385,6 @@
    "brand": "SPC Mobile",
    "device": "GRAVITY_3_4G",
    "model": "GRAVITY 3 4G"
-  }
- ],
- "GRAVITY_3_PRO": [
-  {
-   "brand": "SPC Mobile",
-   "device": "GRAVITY_3_PRO",
-   "model": "GRAVITY 3 PRO"
   }
  ],
  "L100": [
@@ -183163,6 +183203,11 @@
   }
  ],
  "SHARP": [
+  {
+   "brand": "Sharp",
+   "device": "stanford",
+   "model": "2K SMART TV"
+  },
   {
    "brand": "Sharp",
    "device": "zhongshan",
@@ -204508,6 +204553,13 @@
    "brand": "Tecno",
    "device": "TECNO-LF7n",
    "model": "TECNO LF7n"
+  }
+ ],
+ "TECNO POVA 4": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-LG7n",
+   "model": "TECNO LG7n"
   }
  ],
  "TECNO POVA 4 Pro": [
