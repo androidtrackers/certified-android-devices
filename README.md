@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-09-02
+Last sync is 2022-09-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13236,6 +13236,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|P33 Plus|itel-W6001|itel W6001|
 |Itel|P36|itel-W6501|itel W6501|
 |Itel|P37|itel-P651W|itel P651W|
+|Itel|P38|itel-P661W|itel P661W|
 |Itel|P51|P51|itel P51|
 |Itel|Prime 4|itel_Prime4|itel Prime 4|
 |Itel|S11|S11|itel S11|
