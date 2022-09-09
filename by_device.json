@@ -3674,6 +3674,11 @@
   },
   {
    "brand": "Vu Televisions",
+   "name": "43GloLED",
+   "model": "VU SMART TV"
+  },
+  {
+   "brand": "Vu Televisions",
    "name": "50CLED/55CLED/65CLED",
    "model": "VU TV FFM"
   }
@@ -36779,6 +36784,13 @@
    "model": "Claro STB"
   }
  ],
+ "SEI700CPR": [
+  {
+   "brand": "Claro",
+   "name": "ClaroTV+ Mini",
+   "model": "Claro TV+ Mini"
+  }
+ ],
  "m393_4l": [
   {
    "brand": "Claro",
@@ -41888,6 +41900,11 @@
   {
    "brand": "Cubot",
    "name": "KING KONG CS",
+   "model": "KING KONG CS"
+  },
+  {
+   "brand": "Cubot",
+   "name": "KINGKONG CS",
    "model": "KING KONG CS"
   }
  ],
@@ -89543,6 +89560,13 @@
    "model": "Infinix X6816D"
   }
  ],
+ "Infinix-X6826": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 20",
+   "model": "Infinix X6826"
+  }
+ ],
  "Infinix-X623": [
   {
    "brand": "Infinix",
@@ -117278,6 +117302,13 @@
    "brand": "Lenovo",
    "name": "拯救者电竞手机二代",
    "model": "Lenovo L70081"
+  }
+ ],
+ "TB230FC": [
+  {
+   "brand": "Lenovo",
+   "name": "联想平板电脑 启天K11 Gen2",
+   "model": "TB230FC"
   }
  ],
  "LETAB731": [
@@ -181439,6 +181470,13 @@
    "model": "SM-F711W"
   }
  ],
+ "SC-54C": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Flip4",
+   "model": "SC-54C"
+  }
+ ],
  "b4q": [
   {
    "brand": "Samsung",
@@ -181557,6 +181595,13 @@
    "brand": "Samsung",
    "name": "Galaxy Z Fold3 5G",
    "model": "SM-F926W"
+  }
+ ],
+ "SC-55C": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold4",
+   "model": "SC-55C"
   }
  ],
  "q4q": [
@@ -182900,7 +182945,7 @@
  "tcvenuj": [
   {
    "brand": "Sharp",
-   "name": "4T-C**DS1/DN1",
+   "name": "4T-C**DS1/DN1/DP1",
    "model": "AQUOS-TVJ21"
   }
  ],
@@ -183023,7 +183068,7 @@
  "tcve8sj": [
   {
    "brand": "Sharp",
-   "name": "8T-C**DW1",
+   "name": "8T-C**DW1/DX1",
    "model": "AQUOS-8KTVJ21"
   }
  ],
@@ -218536,6 +218581,13 @@
    "brand": "Vivo",
    "name": "iQOO Z6",
    "model": "I2206"
+  }
+ ],
+ "I2208": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Z6 Lite 5G",
+   "model": "I2208"
   }
  ],
  "I2126": [

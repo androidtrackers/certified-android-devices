@@ -34153,6 +34153,13 @@
    "device": "SEI810CPR"
   }
  ],
+ "Claro TV+ Mini": [
+  {
+   "brand": "Claro",
+   "name": "ClaroTV+ Mini",
+   "device": "SEI700CPR"
+  }
+ ],
  "S4KW3": [
   {
    "brand": "Claro",
@@ -38866,6 +38873,11 @@
   {
    "brand": "Cubot",
    "name": "KING KONG CS",
+   "device": "KING_KONG_CS"
+  },
+  {
+   "brand": "Cubot",
+   "name": "KINGKONG CS",
    "device": "KING_KONG_CS"
   }
  ],
@@ -89824,6 +89836,13 @@
    "device": "Infinix-X6816D"
   }
  ],
+ "Infinix X6826": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 20",
+   "device": "Infinix-X6826"
+  }
+ ],
  "Infinix X623": [
   {
    "brand": "Infinix",
@@ -119270,6 +119289,13 @@
    "brand": "Lenovo",
    "name": "拯救者电竞手机二代",
    "device": "doom"
+  }
+ ],
+ "TB230FC": [
+  {
+   "brand": "Lenovo",
+   "name": "联想平板电脑 启天K11 Gen2",
+   "device": "TB230FC"
   }
  ],
  "LETAB731": [
@@ -186827,6 +186853,13 @@
    "device": "b2q"
   }
  ],
+ "SC-54C": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Flip4",
+   "device": "SC-54C"
+  }
+ ],
  "SM-F7210": [
   {
    "brand": "Samsung",
@@ -186979,6 +187012,13 @@
    "brand": "Samsung",
    "name": "Galaxy Z Fold3 5G",
    "device": "q2q"
+  }
+ ],
+ "SC-55C": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold4",
+   "device": "SC-55C"
   }
  ],
  "SM-F9360": [
@@ -188360,7 +188400,7 @@
  "AQUOS-TVJ21": [
   {
    "brand": "Sharp",
-   "name": "4T-C**DS1/DN1",
+   "name": "4T-C**DS1/DN1/DP1",
    "device": "tcvenuj"
   }
  ],
@@ -188487,7 +188527,7 @@
  "AQUOS-8KTVJ21": [
   {
    "brand": "Sharp",
-   "name": "8T-C**DW1",
+   "name": "8T-C**DW1/DX1",
    "device": "tcve8sj"
   }
  ],
@@ -227117,6 +227157,13 @@
    "device": "I2203"
   }
  ],
+ "I2208": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Z6 Lite 5G",
+   "device": "I2208"
+  }
+ ],
  "I2126": [
   {
    "brand": "Vivo",
@@ -229102,6 +229149,13 @@
    "brand": "Vsun",
    "name": "SATURN Selfie",
    "device": "SATURN_SELFIE"
+  }
+ ],
+ "VU SMART TV": [
+  {
+   "brand": "Vu Televisions",
+   "name": "43GloLED",
+   "device": "songshan"
   }
  ],
  "VU TV FFM": [

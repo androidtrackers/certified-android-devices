@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-09-08
+Last sync is 2022-09-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4451,6 +4451,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Claro|CLARO BOX TV|SEI810CCOA|CLARO BOX TV|
 |Claro|Claro Colombia STB|SEI800CCOA|Claro Colombia STB|
 |Claro|Claro STB|SEI810CPR|Claro STB|
+|Claro|ClaroTV+ Mini|SEI700CPR|Claro TV+ Mini|
 |Claro|S4KW3|m393_4l|S4KW3|
 |Claro|SEI810CPR|SEI810CPR|Claro STB|
 |Classpro|CGS55UHD|samseong|AI PONT|
@@ -5127,6 +5128,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|KINGKONG 5 Pro|KINGKONG_5_Pro|KINGKONG 5 Pro|
 |Cubot|KINGKONG 6|KINGKONG_6|KINGKONG 6|
 |Cubot|KINGKONG 7|KINGKONG_7|KINGKONG 7|
+|Cubot|KINGKONG CS|KING_KONG_CS|KING KONG CS|
 |Cubot|KINGKONG MINI2|KINGKONG_MINI2|KINGKONG MINI2|
 |Cubot|KINGKONG MINI2 Pro|KINGKONG_MINI2_Pro|KINGKONG MINI2 Pro|
 |Cubot|KINGKONG MINI2 Pro|KINGKONG_MINI2_Pro|KINGKONG_MINI2_Pro|
@@ -12619,6 +12621,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 12 PRO|Infinix-X668C|Infinix X668C|
 |Infinix|Infinix HOT 12 Play|Infinix-X6816C|Infinix X6816C|
 |Infinix|Infinix HOT 12 Play NFC|Infinix-X6816D|Infinix X6816D|
+|Infinix|Infinix HOT 20|Infinix-X6826|Infinix X6826|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623B|
 |Infinix|Infinix HOT 7|Infinix-X625C|Infinix X625C|
@@ -17077,6 +17080,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|拯救者电竞手机二代|doom|Lenovo L70081|
 |Lenovo|联想平板电脑 启天K10|X6C6NBF|Lenovo TB-X6C6NBF|
 |Lenovo|联想平板电脑 启天K10|X6C6NBX|Lenovo TB-X6C6NBX|
+|Lenovo|联想平板电脑 启天K11 Gen2|TB230FC|TB230FC|
 |Lenovo|联想平板电脑K10 5G|TB-X607Z|Lenovo TB-X607Z|
 |Leotec|LEOTEC|LETAB731|LETAB731|
 |Leotec|Letab1020|Letab1020|SUPERNOVA Qi32|
@@ -27355,6 +27359,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Flip3 5G|b2q|SM-F711U|
 |Samsung|Galaxy Z Flip3 5G|b2q|SM-F711U1|
 |Samsung|Galaxy Z Flip3 5G|b2q|SM-F711W|
+|Samsung|Galaxy Z Flip4|SC-54C|SC-54C|
 |Samsung|Galaxy Z Flip4|b4q|SM-F7210|
 |Samsung|Galaxy Z Flip4|b4q|SM-F721B|
 |Samsung|Galaxy Z Flip4|b4q|SM-F721C|
@@ -27377,6 +27382,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Fold3 5G|q2q|SM-F926U|
 |Samsung|Galaxy Z Fold3 5G|q2q|SM-F926U1|
 |Samsung|Galaxy Z Fold3 5G|q2q|SM-F926W|
+|Samsung|Galaxy Z Fold4|SC-55C|SC-55C|
 |Samsung|Galaxy Z Fold4|q4q|SM-F9360|
 |Samsung|Galaxy Z Fold4|q4q|SM-F936B|
 |Samsung|Galaxy Z Fold4|q4q|SM-F936N|
@@ -27597,7 +27603,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|4T-C**BN1/BL1|tcmeruj|AQUOS-TVJ19B|
 |Sharp|4T-C**BN1H/BL1H|tcmeruj|AQUOS-TVJ20B|
 |Sharp|4T-C**DL1/DJ1/DQ1/DN2|tcve2uj|AQUOS-TVJ21-2|
-|Sharp|4T-C**DS1/DN1|tcvenuj|AQUOS-TVJ21|
+|Sharp|4T-C**DS1/DN1/DP1|tcvenuj|AQUOS-TVJ21|
 |Sharp|4T-C**EN1/EQ1/ES1/EU1|tcvenruj|AQUOS-4KTVJ22|
 |Sharp|4T-C**EN2/EL1/EQ2|tcvenruj|AQUOS-4KTVJ22-2|
 |Sharp|4T-C50AG1T|LCD_50FOCAG1T|LCD_50FOCAG1T|
@@ -27613,7 +27619,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|507SH|eve_sprout|507SH|
 |Sharp|8T-C**BW1|tcme8sj|AQUOS-8KTVJ19|
 |Sharp|8T-C**CX1|tcme8tsj|AQUOS-8KTVJ20|
-|Sharp|8T-C**DW1|tcve8sj|AQUOS-8KTVJ21|
+|Sharp|8T-C**DW1/DX1|tcve8sj|AQUOS-8KTVJ21|
 |Sharp|8T-C**DW1X|tcba8sx|AQUOS-TVH21A|
 |Sharp|8T-C**DW1X/DW2X|tcba8sx|AQUOS-TVX21A|
 |Sharp|8T-CxxAXAA|lcd_xxgae9a|LCD-xxGAE9A|
@@ -33586,6 +33592,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Z5 6000mAh|PD2188|V2188A|
 |Vivo|iQOO Z6|I2203|I2203|
 |Vivo|iQOO Z6|I2203|I2206|
+|Vivo|iQOO Z6 Lite 5G|I2208|I2208|
 |Vivo|iQOO Z6 Pro|I2126|I2126|
 |Vivo|iQOO Z6x|PD2164U|V2164KA|
 |Vivo|vivo  1907|1907|vivo 1907|
@@ -33905,6 +33912,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vsun|MARS Note|MARS_NOTE|MARS NOTE|
 |Vsun|MERCURY Tough|MERCURY_Tough|MERCURY Tough|
 |Vsun|SATURN Selfie|SATURN_SELFIE|SATURN SELFIE|
+|Vu Televisions|43GloLED|songshan|VU SMART TV|
 |Vu Televisions|43UA|ikebukuro|AI PONT|
 |Vu Televisions|50CA|samseong|AI PONT|
 |Vu Televisions|50CLED/55CLED/65CLED|songshan|VU TV FFM|

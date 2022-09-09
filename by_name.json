@@ -40576,6 +40576,13 @@
    "model": "Claro STB"
   }
  ],
+ "ClaroTV+ Mini": [
+  {
+   "brand": "Claro",
+   "device": "SEI700CPR",
+   "model": "Claro TV+ Mini"
+  }
+ ],
  "S4KW3": [
   {
    "brand": "Claro",
@@ -45463,6 +45470,13 @@
    "brand": "Cubot",
    "device": "KINGKONG_7",
    "model": "KINGKONG 7"
+  }
+ ],
+ "KINGKONG CS": [
+  {
+   "brand": "Cubot",
+   "device": "KING_KONG_CS",
+   "model": "KING KONG CS"
   }
  ],
  "KINGKONG MINI2": [
@@ -92590,6 +92604,13 @@
    "model": "Infinix X6816D"
   }
  ],
+ "Infinix HOT 20": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6826",
+   "model": "Infinix X6826"
+  }
+ ],
  "Infinix HOT 6X": [
   {
    "brand": "Infinix",
@@ -118594,6 +118615,13 @@
    "brand": "Lenovo",
    "device": "X6C6NBX",
    "model": "Lenovo TB-X6C6NBX"
+  }
+ ],
+ "联想平板电脑 启天K11 Gen2": [
+  {
+   "brand": "Lenovo",
+   "device": "TB230FC",
+   "model": "TB230FC"
   }
  ],
  "联想平板电脑K10 5G": [
@@ -179726,6 +179754,11 @@
  "Galaxy Z Flip4": [
   {
    "brand": "Samsung",
+   "device": "SC-54C",
+   "model": "SC-54C"
+  },
+  {
+   "brand": "Samsung",
    "device": "b4q",
    "model": "SM-F7210"
   },
@@ -179840,6 +179873,11 @@
   }
  ],
  "Galaxy Z Fold4": [
+  {
+   "brand": "Samsung",
+   "device": "SC-55C",
+   "model": "SC-55C"
+  },
   {
    "brand": "Samsung",
    "device": "q4q",
@@ -181152,7 +181190,7 @@
    "model": "AQUOS-TVJ21-2"
   }
  ],
- "4T-C**DS1/DN1": [
+ "4T-C**DS1/DN1/DP1": [
   {
    "brand": "Sharp",
    "device": "tcvenuj",
@@ -181262,7 +181300,7 @@
    "model": "AQUOS-8KTVJ20"
   }
  ],
- "8T-C**DW1": [
+ "8T-C**DW1/DX1": [
   {
    "brand": "Sharp",
    "device": "tcve8sj",
@@ -216616,6 +216654,13 @@
    "model": "I2206"
   }
  ],
+ "iQOO Z6 Lite 5G": [
+  {
+   "brand": "Vivo",
+   "device": "I2208",
+   "model": "I2208"
+  }
+ ],
  "iQOO Z6 Pro": [
   {
    "brand": "Vivo",
@@ -218691,6 +218736,13 @@
    "brand": "Vsun",
    "device": "SATURN_SELFIE",
    "model": "SATURN SELFIE"
+  }
+ ],
+ "43GloLED": [
+  {
+   "brand": "Vu Televisions",
+   "device": "songshan",
+   "model": "VU SMART TV"
   }
  ],
  "43UA": [

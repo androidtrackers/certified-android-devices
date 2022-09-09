@@ -23051,6 +23051,11 @@
    "model": "Claro STB"
   },
   {
+   "device": "SEI700CPR",
+   "name": "ClaroTV+ Mini",
+   "model": "Claro TV+ Mini"
+  },
+  {
    "device": "m393_4l",
    "name": "S4KW3",
    "model": "S4KW3"
@@ -26527,6 +26532,11 @@
    "device": "KINGKONG_7",
    "name": "KINGKONG 7",
    "model": "KINGKONG 7"
+  },
+  {
+   "device": "KING_KONG_CS",
+   "name": "KINGKONG CS",
+   "model": "KING KONG CS"
   },
   {
    "device": "KINGKONG_MINI2",
@@ -65021,6 +65031,11 @@
    "model": "Infinix X6816D"
   },
   {
+   "device": "Infinix-X6826",
+   "name": "Infinix HOT 20",
+   "model": "Infinix X6826"
+  },
+  {
    "device": "Infinix-X623",
    "name": "Infinix HOT 6X",
    "model": "Infinix X623"
@@ -87711,6 +87726,11 @@
    "device": "X6C6NBX",
    "name": "联想平板电脑 启天K10",
    "model": "Lenovo TB-X6C6NBX"
+  },
+  {
+   "device": "TB230FC",
+   "name": "联想平板电脑 启天K11 Gen2",
+   "model": "TB230FC"
   },
   {
    "device": "TB-X607Z",
@@ -140361,6 +140381,11 @@
    "model": "SM-F711W"
   },
   {
+   "device": "SC-54C",
+   "name": "Galaxy Z Flip4",
+   "model": "SC-54C"
+  },
+  {
    "device": "b4q",
    "name": "Galaxy Z Flip4",
    "model": "SM-F7210"
@@ -140469,6 +140494,11 @@
    "device": "q2q",
    "name": "Galaxy Z Fold3 5G",
    "model": "SM-F926W"
+  },
+  {
+   "device": "SC-55C",
+   "name": "Galaxy Z Fold4",
+   "model": "SC-55C"
   },
   {
    "device": "q4q",
@@ -141636,7 +141666,7 @@
   },
   {
    "device": "tcvenuj",
-   "name": "4T-C**DS1/DN1",
+   "name": "4T-C**DS1/DN1/DP1",
    "model": "AQUOS-TVJ21"
   },
   {
@@ -141716,7 +141746,7 @@
   },
   {
    "device": "tcve8sj",
-   "name": "8T-C**DW1",
+   "name": "8T-C**DW1/DX1",
    "model": "AQUOS-8KTVJ21"
   },
   {
@@ -172392,6 +172422,11 @@
    "model": "I2206"
   },
   {
+   "device": "I2208",
+   "name": "iQOO Z6 Lite 5G",
+   "model": "I2208"
+  },
+  {
    "device": "I2126",
    "name": "iQOO Z6 Pro",
    "model": "I2126"
@@ -174022,6 +174057,11 @@
   }
  ],
  "Vu Televisions": [
+  {
+   "device": "songshan",
+   "name": "43GloLED",
+   "model": "VU SMART TV"
+  },
   {
    "device": "ikebukuro",
    "name": "43UA",
