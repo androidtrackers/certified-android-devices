@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-09-09
+Last sync is 2022-09-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -21316,6 +21316,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|PFFM10|OP520DL1|PFFM10|
 |Oppo|PFFM20|OP520F|PFFM20|
 |Oppo|PFGM00|OP5231|PFGM00|
+|Oppo|PFTM10|OP526D|PFTM10|
+|Oppo|PFTM20|OP526D|PFTM20|
 |Oppo|PGCM10|OPD2A0|PGCM10|
 |Oppo|R1001|OPPO72_13076|R1001|
 |Oppo|R1001|R1001|R1001|

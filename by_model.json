@@ -146610,6 +146610,20 @@
    "device": "OP5231"
   }
  ],
+ "PFTM10": [
+  {
+   "brand": "Oppo",
+   "name": "PFTM10",
+   "device": "OP526D"
+  }
+ ],
+ "PFTM20": [
+  {
+   "brand": "Oppo",
+   "name": "PFTM20",
+   "device": "OP526D"
+  }
+ ],
  "PGCM10": [
   {
    "brand": "Oppo",

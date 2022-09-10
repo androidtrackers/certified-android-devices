@@ -109608,6 +109608,16 @@
    "model": "PFGM00"
   },
   {
+   "device": "OP526D",
+   "name": "PFTM10",
+   "model": "PFTM10"
+  },
+  {
+   "device": "OP526D",
+   "name": "PFTM20",
+   "model": "PFTM20"
+  },
+  {
    "device": "OPD2A0",
    "name": "PGCM10",
    "model": "PGCM10"
