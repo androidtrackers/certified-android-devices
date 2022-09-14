@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-09-13
+Last sync is 2022-09-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -284,6 +284,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aamra WE|A50|A50|WE A50|
 |Aamra WE|E2|E2|WE E2|
 |Abocom|A08SM|A08|A08S|
+|Aborder|Tanzania|martin|Aborder 2K Android TV|
 |Accent|Accent Camelon C5|CAMELEON_C5|CAMELEON_C5|
 |Accent|Accent Camelon C6|CAMELEON_C6|CAMELEON_C6|
 |Accent|Accent Camelon C6 Plus|CAMELEON_C6_PLUS|CAMELEON_C6_PLUS|
@@ -561,6 +562,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Admiral Overseas Corporation|A2272PWHT|AOC_WW|G2SMNT|
 |Admiral Overseas Corporation|A2472PW4T|G3SMNTA24|G3SMNTA24|
 |Admiral Overseas Corporation|A7|A7|A7|
+|Admiral Overseas Corporation|ADMIRAL|zhongshan|4K SMART TV|
 |Admiral Overseas Corporation|ADMIRAL 4K TV|SW4H|ADMIRAL 4K TV|
 |Admiral Overseas Corporation|ADMIRAL TV|sunnyvale|ADMIRAL TV|
 |Admiral Overseas Corporation|C7|C7|C7|
@@ -12567,6 +12569,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|HOT 12i|Infinix-X665|Infinix X665|
 |Infinix|HOT 12i|Infinix-X665B|Infinix X665B|
 |Infinix|HOT 2|Infinix_X510|Infinix X510|
+|Infinix|HOT 20S|Infinix-X6827|Infinix X6827|
 |Infinix|HOT 20i|Infinix-X665C|Infinix X665C|
 |Infinix|HOT 20i|Infinix-X665E|Infinix X665E|
 |Infinix|HOT 3|INFINIX-X554|Infinix HOT 3 Pro|
@@ -13444,6 +13447,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JREN|JR-101|JR-101|JR-101|
 |JREN|JR-J71|JR-J71|JR-J71|
 |JREN|JR-J8|JR-J8|JR-J8|
+|JREN|JR_J7|JR_J7|JR_J7|
 |JUSYEA|J3|JUSYEA_J3|J3|
 |JUSYEA|J3_EEA|J3_EEA|J3|
 |JUSYEA|J5-EEA|J5-EEA|J5-EEA|
@@ -13787,6 +13791,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|EU|zhongshan|43F|
 |KTCtv|Electroman|zhongshan|Smart UHD TV|
 |KTCtv|Enova|zhongshan|4K SMART TV|
+|KTCtv|GAZER|zhongshan|4K SMART TV|
 |KTCtv|Global|stanford|CSV2K|
 |KTCtv|Golbal|zhongshan|CSV4K|
 |KTCtv|INNOVA|stanford|CSV2K|
@@ -13813,6 +13818,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|VISTA|stanford|2K SMART TV|
 |KTCtv|VISTA|zhongshan|4K SMART TV|
 |KTCtv|VON|stanford|2K SMART TV|
+|KTCtv|VON|zhongshan|4K SMART TV|
 |KTCtv|Zitro|stanford|40DSA|
 |KTCtv|Zitro|zhongshan|43FSA|
 |KTS (JP)|IPN99_RTD1319_TOA|TMS-KR01P|TMS-KR01P|
@@ -19047,6 +19053,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|Lenovo XT2081-4|guam|Lenovo XT2081-4|
 |Motorola|Lenovo XT2091-7|cebu|Lenovo XT2091-7|
 |Motorola|MOTOROLA|stanford|2K SMART TV|
+|Motorola|MOTOROLA|zhongshan|4K SMART TV|
 |Motorola|Master Touch|umts_primus|XT621|
 |Motorola|Master Touch XT621|umts_primus|XT621|
 |Motorola|Milestone2|umts_milestone2|A953|
@@ -20528,6 +20535,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia C3|GMR|Nokia C3|
 |Nokia|Nokia C30|MNI|Nokia C30|
 |Nokia|Nokia C30|MNR|Nokia C30|
+|Nokia|Nokia C31|VSI|Nokia C31|
 |Nokia|Nokia C5 Endi|PMC_CUS|Nokia C5 Endi|
 |Nokia|Nokia G10|ROGA|Nokia G10|
 |Nokia|Nokia G10|ROGA_sprout|Nokia G10|
@@ -20547,6 +20555,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia G400 5G|STO|Nokia G400 5G|
 |Nokia|Nokia G50|PHR|Nokia G50|
 |Nokia|Nokia G50|PHR_sprout|Nokia G50|
+|Nokia|Nokia G60 5G|APO_sprout|Nokia G60 5G|
 |Nokia|Nokia Steaming Box 8000|HND|Nokia Streaming Box 8000|
 |Nokia|Nokia T10|PGN|Nokia T10|
 |Nokia|Nokia T20|RDD|Nokia T20|
@@ -20556,6 +20565,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia X100|DM5|Nokia X100|
 |Nokia|Nokia X20|QKS|Nokia X20|
 |Nokia|Nokia X20|QKS_sprout|Nokia X20|
+|Nokia|Nokia X30 5G|FCN_sprout|Nokia X30 5G|
 |Nokia|Nokia X5|PDA|Nokia X5|
 |Nokia|Nokia X6|DRG|Nokia X6|
 |Nokia|Nokia X7|PNX|Nokia X7|
@@ -21833,6 +21843,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO M4 Pro|fleur|2201117PG|
 |POCO|POCO M4 Pro|miel|2201117PI|
 |POCO|POCO M4 Pro 5G|evergreen|21091116AG|
+|POCO|POCO M5s|rosemary|2207117BPG|
 |POCO|POCO X2|phoenixin|POCO X2|
 |POCO|POCO X3|karna|M2007J20CI|
 |POCO|POCO X3 NFC|surya|M2007J20CG|
@@ -24163,9 +24174,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Revomovil|X12|S6523|S6523|
 |Revomovil|X12|S6523_EEA|S6523 EEA|
 |Revtel|R45|Revel_R45|R45|
+|Rhino|Atom|atom|T5se|
 |Rhino|C10|Rhino_C10|C10|
 |Rhino|M10p_001|Rhino_M10p|M10p|
 |Rhino|T8|Rhino_T8|T8|
+|Rhino|portal|portal|PACE A1|
 |RiksTV|SRT412|HP40A3|SRT412|
 |Rindo|R-32B6600|ikebukuro|AI PONT|
 |Rindo|Smart TV|longshan|AI PONT|
@@ -24240,6 +24253,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |S Vision|EU、UK、AP|martin|SVISION 2K Android TV|
 |S Vision|"Japan|USA|Australia|
 |S Vision|S android TV|hanyang|Svision Android TV|
+|S Vision|SVISION|zhongshan|4K SMART TV|
 |S&T Global|8788_7|8788_7|8788_7|
 |S&T Global|C20|C20|C20|
 |S-tell|M555i|M555i|M555i|
@@ -29144,6 +29158,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SriLankaTelecom|DV8040|DV8040|DV8040|
 |Star-X|Middle East|tamachi|STAR-X FHD Android TV|
 |Star-X|Middle East|yeongdeungpo|STAR-X UHD Android TV|
+|Star-X|United Arab Emirates|martin|STAR-X 2K Android TV|
 |StarHub|Android TV Set-Top Box|KM_SH368AT|KM_SH368AT|
 |StarHub|StarHub TV+ Box (Innopia)|NVSH800H1|NVSH800H1|
 |StarHub|StarHub TV+ Pro|m393vsb_starhub|SCSH900AT|
@@ -34592,6 +34607,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |X-mobile|X-mobile SmartWiFi|XM-SW1|XM-SW1|
 |X-mobile|X4|X4|X4|
 |X-mobile|XW|XW|XW|
+|XD-DML|XD|martin|XD 2K Andriod TV|
 |XGIMI|Halo|xgimiapollo|Halo|
 |XGIMI|MoGo|xgimiapollo|MoGo|
 |XGIMI|MoGo Pro|xgimiapollo|MoGo Pro|
@@ -34795,6 +34811,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|MiTV2|entrapment|MiTV2|
 |Xiaomi|MiTV4C|matrix|MiTV4C|
 |Xiaomi|POCO F1|beryllium|POCOPHONE F1|
+|Xiaomi|POCO M5s|rosemary|2207117BPG|
 |Xiaomi|Redmi|HM2013023|2013023|
 |Xiaomi|Redmi  Go|tiare|Redmi Go|
 |Xiaomi|Redmi  Note  6  Pro|tulip|Redmi Note 6 Pro|

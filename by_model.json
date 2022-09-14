@@ -3434,6 +3434,13 @@
    "device": "A08"
   }
  ],
+ "Aborder 2K Android TV": [
+  {
+   "brand": "Aborder",
+   "name": "Tanzania",
+   "device": "martin"
+  }
+ ],
  "CAMELEON_C5": [
   {
    "brand": "Accent",
@@ -6040,6 +6047,123 @@
    "device": "MMD_WW"
   }
  ],
+ "4K SMART TV": [
+  {
+   "brand": "Admiral Overseas Corporation",
+   "name": "ADMIRAL",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Aiwa",
+   "name": "AIWA",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "Banana",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "CHIMEI",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "Enova",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "GAZER",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "KTC",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "LikeMe",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "Maxsonic_elite",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "POWER GREEN",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "VISTA",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "VON",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "LUCOMS",
+   "name": "LUCOMS",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Lanix",
+   "name": "LANIX",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Motorola",
+   "name": "MOTOROLA",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Multilaser",
+   "name": "MULTILASER",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Next",
+   "name": "NEXT",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Philco",
+   "name": "PHILCO",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "S Vision",
+   "name": "SVISION",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Sharp",
+   "name": "SHARP",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "name": "SMART TEcHNOLGY",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Vivax",
+   "name": "VIVAX",
+   "device": "zhongshan"
+  }
+ ],
  "ADMIRAL 4K TV": [
   {
    "brand": "Admiral Overseas Corporation",
@@ -7509,98 +7633,6 @@
   {
    "brand": "Siragon",
    "name": "SA",
-   "device": "zhongshan"
-  }
- ],
- "4K SMART TV": [
-  {
-   "brand": "Aiwa",
-   "name": "AIWA",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "JVC",
-   "name": "JVC",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "Banana",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "CHIMEI",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "Enova",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "KTC",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "LikeMe",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "Maxsonic_elite",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "POWER GREEN",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "VISTA",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "LUCOMS",
-   "name": "LUCOMS",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Lanix",
-   "name": "LANIX",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Multilaser",
-   "name": "MULTILASER",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Next",
-   "name": "NEXT",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Philco",
-   "name": "PHILCO",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Sharp",
-   "name": "SHARP",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Smart-Tech TV",
-   "name": "SMART TEcHNOLGY",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "Vivax",
-   "name": "VIVAX",
    "device": "zhongshan"
   }
  ],
@@ -89485,6 +89517,13 @@
    "device": "Infinix_X510_sprout"
   }
  ],
+ "Infinix X6827": [
+  {
+   "brand": "Infinix",
+   "name": "HOT 20S",
+   "device": "Infinix-X6827"
+  }
+ ],
  "Infinix X665C": [
   {
    "brand": "Infinix",
@@ -95237,6 +95276,13 @@
    "brand": "JREN",
    "name": "JR-J8",
    "device": "JR-J8"
+  }
+ ],
+ "JR_J7": [
+  {
+   "brand": "JREN",
+   "name": "JR_J7",
+   "device": "JR_J7"
   }
  ],
  "J3": [
@@ -141500,6 +141546,13 @@
    "device": "MNR"
   }
  ],
+ "Nokia C31": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C31",
+   "device": "VSI"
+  }
+ ],
  "Nokia C5 Endi": [
   {
    "brand": "Nokia",
@@ -141617,6 +141670,13 @@
    "device": "PHR_sprout"
   }
  ],
+ "Nokia G60 5G": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia G60 5G",
+   "device": "APO_sprout"
+  }
+ ],
  "Nokia Streaming Box 8000": [
   {
    "brand": "Nokia",
@@ -141672,6 +141732,13 @@
    "brand": "Nokia",
    "name": "Nokia X20",
    "device": "QKS_sprout"
+  }
+ ],
+ "Nokia X30 5G": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia X30 5G",
+   "device": "FCN_sprout"
   }
  ],
  "Nokia X5": [
@@ -149888,6 +149955,18 @@
    "brand": "POCO",
    "name": "POCO M4 Pro 5G",
    "device": "evergreen"
+  }
+ ],
+ "2207117BPG": [
+  {
+   "brand": "POCO",
+   "name": "POCO M5s",
+   "device": "rosemary"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "POCO M5s",
+   "device": "rosemary"
   }
  ],
  "POCO X2": [
@@ -165106,11 +165185,25 @@
    "device": "S6523_EEA"
   }
  ],
+ "T5se": [
+  {
+   "brand": "Rhino",
+   "name": "Atom",
+   "device": "atom"
+  }
+ ],
  "M10p": [
   {
    "brand": "Rhino",
    "name": "M10p_001",
    "device": "Rhino_M10p"
+  }
+ ],
+ "PACE A1": [
+  {
+   "brand": "Rhino",
+   "name": "portal",
+   "device": "portal"
   }
  ],
  "SRT412": [
@@ -198398,6 +198491,13 @@
    "brand": "Star-X",
    "name": "Middle East",
    "device": "yeongdeungpo"
+  }
+ ],
+ "STAR-X 2K Android TV": [
+  {
+   "brand": "Star-X",
+   "name": "United Arab Emirates",
+   "device": "martin"
   }
  ],
  "NVSH800H1": [
@@ -233308,6 +233408,13 @@
    "brand": "X-mobile",
    "name": "XW",
    "device": "XW"
+  }
+ ],
+ "XD 2K Andriod TV": [
+  {
+   "brand": "XD-DML",
+   "name": "XD",
+   "device": "martin"
   }
  ],
  "Halo": [

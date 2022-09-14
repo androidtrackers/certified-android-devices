@@ -9729,6 +9729,13 @@
    "model": "A08S"
   }
  ],
+ "Tanzania": [
+  {
+   "brand": "Aborder",
+   "device": "martin",
+   "model": "Aborder 2K Android TV"
+  }
+ ],
  "Accent Camelon C5": [
   {
    "brand": "Accent",
@@ -11505,6 +11512,13 @@
    "brand": "Admiral Overseas Corporation",
    "device": "G3SMNTA24",
    "model": "G3SMNTA24"
+  }
+ ],
+ "ADMIRAL": [
+  {
+   "brand": "Admiral Overseas Corporation",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
   }
  ],
  "ADMIRAL 4K TV": [
@@ -58196,6 +58210,11 @@
    "model": "Atom"
   },
   {
+   "brand": "Rhino",
+   "device": "atom",
+   "model": "T5se"
+  },
+  {
    "brand": "Unihertz",
    "device": "Atom",
    "model": "Atom"
@@ -92296,6 +92315,13 @@
    "model": "Infinix X510"
   }
  ],
+ "HOT 20S": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6827",
+   "model": "Infinix X6827"
+  }
+ ],
  "HOT 20i": [
   {
    "brand": "Infinix",
@@ -97802,6 +97828,13 @@
    "model": "JR-J8"
   }
  ],
+ "JR_J7": [
+  {
+   "brand": "JREN",
+   "device": "JR_J7",
+   "model": "JR_J7"
+  }
+ ],
  "J3": [
   {
    "brand": "JUSYEA",
@@ -99893,6 +99926,13 @@
    "model": "4K SMART TV"
   }
  ],
+ "GAZER": [
+  {
+   "brand": "KTCtv",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
+  }
+ ],
  "Global": [
   {
    "brand": "KTCtv",
@@ -100033,6 +100073,11 @@
    "brand": "KTCtv",
    "device": "stanford",
    "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
   }
  ],
  "Zitro": [
@@ -130539,6 +130584,11 @@
    "brand": "Motorola",
    "device": "stanford",
    "model": "2K SMART TV"
+  },
+  {
+   "brand": "Motorola",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
   }
  ],
  "Master Touch": [
@@ -139592,6 +139642,13 @@
    "model": "Nokia C30"
   }
  ],
+ "Nokia C31": [
+  {
+   "brand": "Nokia",
+   "device": "VSI",
+   "model": "Nokia C31"
+  }
+ ],
  "Nokia C5 Endi": [
   {
    "brand": "Nokia",
@@ -139707,6 +139764,13 @@
    "model": "Nokia G50"
   }
  ],
+ "Nokia G60 5G": [
+  {
+   "brand": "Nokia",
+   "device": "APO_sprout",
+   "model": "Nokia G60 5G"
+  }
+ ],
  "Nokia Steaming Box 8000": [
   {
    "brand": "Nokia",
@@ -139762,6 +139826,13 @@
    "brand": "Nokia",
    "device": "QKS_sprout",
    "model": "Nokia X20"
+  }
+ ],
+ "Nokia X30 5G": [
+  {
+   "brand": "Nokia",
+   "device": "FCN_sprout",
+   "model": "Nokia X30 5G"
   }
  ],
  "Nokia X5": [
@@ -147400,6 +147471,18 @@
    "brand": "POCO",
    "device": "evergreen",
    "model": "21091116AG"
+  }
+ ],
+ "POCO M5s": [
+  {
+   "brand": "POCO",
+   "device": "rosemary",
+   "model": "2207117BPG"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "rosemary",
+   "model": "2207117BPG"
   }
  ],
  "POCO X2": [
@@ -162154,6 +162237,13 @@
    "model": "M10p"
   }
  ],
+ "portal": [
+  {
+   "brand": "Rhino",
+   "device": "portal",
+   "model": "PACE A1"
+  }
+ ],
  "SRT412": [
   {
    "brand": "RiksTV",
@@ -162610,6 +162700,13 @@
    "brand": "S Vision",
    "device": "hanyang",
    "model": "Svision Android TV"
+  }
+ ],
+ "SVISION": [
+  {
+   "brand": "S Vision",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
   }
  ],
  "8788_7": [
@@ -190515,6 +190612,13 @@
    "brand": "Star-X",
    "device": "yeongdeungpo",
    "model": "STAR-X UHD Android TV"
+  }
+ ],
+ "United Arab Emirates": [
+  {
+   "brand": "Star-X",
+   "device": "martin",
+   "model": "STAR-X 2K Android TV"
   }
  ],
  "Android TV Set-Top Box": [
@@ -222736,6 +222840,13 @@
    "brand": "X-mobile",
    "device": "XW",
    "model": "XW"
+  }
+ ],
+ "XD": [
+  {
+   "brand": "XD-DML",
+   "device": "martin",
+   "model": "XD 2K Andriod TV"
   }
  ],
  "Halo": [
