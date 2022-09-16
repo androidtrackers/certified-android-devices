@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-09-15
+Last sync is 2022-09-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -21321,6 +21321,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Reno7 Z 5G|OP532FL1|CPH2343|
 |Oppo|OPPO Reno7 Z 5G/F21 Pro 5G/Reno8 Lite 5G|OP532FL1|CPH2343|
 |Oppo|OPPO Reno7/F21 Pro|OP533FL1|CPH2363|
+|Oppo|OPPO Reno8 Pro 5G|OP5335L1|CPH2357|
 |Oppo|OPPO Watch|beluga|OPPO Watch|
 |Oppo|OPPO Watch|orca|OPPO Watch|
 |Oppo|PCRT01|OP4AB5|PCRT01|
@@ -21347,6 +21348,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|PFGM00|OP5231|PFGM00|
 |Oppo|PFTM10|OP526D|PFTM10|
 |Oppo|PFTM20|OP526D|PFTM20|
+|Oppo|PFZM10|OP5281|PFZM10|
 |Oppo|PGCM10|OPD2A0|PGCM10|
 |Oppo|R1001|OPPO72_13076|R1001|
 |Oppo|R1001|R1001|R1001|
@@ -23966,6 +23968,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 10X Pro|banana|M2004J7BC|
 |Redmi|Redmi 10X pro|bomb|M2004J7BC|
 |Redmi|Redmi 10X pro|bomb|bomb|
+|Redmi|Redmi 11 Prime 5G|light|22041219I|
 |Redmi|Redmi 6|cereus|Redmi 6|
 |Redmi|Redmi 7|onc|Redmi 7|
 |Redmi|Redmi 7|onc|Redmi Y3|
@@ -27624,7 +27627,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Seuic|CRUISE1|d700s|CRUISE1|
 |Seuic|CRUISE2|d730|CRUISE2|
 |Seuic|CRUISE2 5G|d740|CRUISE2 5G|
-|Seuic|CRUISE2 5G EEA|d740|CRUISE2 5G|
 |Seuic|HHT8B|hht8b|HHT8B|
 |Sharp||SH7218T|SH7218T|
 |Sharp||SH8268U|SH8268U|
@@ -33536,6 +33538,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2203A|PD2203|V2203A|
 |Vivo|V2220A|PD2220|V2220A|
 |Vivo|V25|V2202|V2202|
+|Vivo|V25|V2202|V2228|
 |Vivo|V25 Pro|V2158|V2158|
 |Vivo|V25e|V2201|V2201|
 |Vivo|V25e|V2201|V2209|

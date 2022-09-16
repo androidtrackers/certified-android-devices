@@ -144117,6 +144117,13 @@
    "model": "CPH2363"
   }
  ],
+ "OPPO Reno8 Pro 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP5335L1",
+   "model": "CPH2357"
+  }
+ ],
  "OPPO Watch": [
   {
    "brand": "Oppo",
@@ -144295,6 +144302,13 @@
    "brand": "Oppo",
    "device": "OP526D",
    "model": "PFTM20"
+  }
+ ],
+ "PFZM10": [
+  {
+   "brand": "Oppo",
+   "device": "OP5281",
+   "model": "PFZM10"
   }
  ],
  "PGCM10": [
@@ -160904,6 +160918,13 @@
    "brand": "Redmi",
    "device": "bomb",
    "model": "bomb"
+  }
+ ],
+ "Redmi 11 Prime 5G": [
+  {
+   "brand": "Redmi",
+   "device": "light",
+   "model": "22041219I"
   }
  ],
  "Redmi 6": [
@@ -181374,13 +181395,6 @@
   }
  ],
  "CRUISE2 5G": [
-  {
-   "brand": "Seuic",
-   "device": "d740",
-   "model": "CRUISE2 5G"
-  }
- ],
- "CRUISE2 5G EEA": [
   {
    "brand": "Seuic",
    "device": "d740",
@@ -216373,6 +216387,11 @@
    "brand": "Vivo",
    "device": "V2202",
    "model": "V2202"
+  },
+  {
+   "brand": "Vivo",
+   "device": "V2202",
+   "model": "V2228"
   }
  ],
  "V25 Pro": [

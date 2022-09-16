@@ -109639,6 +109639,11 @@
    "model": "CPH2363"
   },
   {
+   "device": "OP5335L1",
+   "name": "OPPO Reno8 Pro 5G",
+   "model": "CPH2357"
+  },
+  {
    "device": "beluga",
    "name": "OPPO Watch",
    "model": "OPPO Watch"
@@ -109767,6 +109772,11 @@
    "device": "OP526D",
    "name": "PFTM20",
    "model": "PFTM20"
+  },
+  {
+   "device": "OP5281",
+   "name": "PFZM10",
+   "model": "PFZM10"
   },
   {
    "device": "OPD2A0",
@@ -123210,6 +123220,11 @@
    "device": "bomb",
    "name": "Redmi 10X pro",
    "model": "bomb"
+  },
+  {
+   "device": "light",
+   "name": "Redmi 11 Prime 5G",
+   "model": "22041219I"
   },
   {
    "device": "cereus",
@@ -141771,11 +141786,6 @@
   {
    "device": "d740",
    "name": "CRUISE2 5G",
-   "model": "CRUISE2 5G"
-  },
-  {
-   "device": "d740",
-   "name": "CRUISE2 5G EEA",
    "model": "CRUISE2 5G"
   },
   {
@@ -172146,6 +172156,11 @@
    "device": "V2202",
    "name": "V25",
    "model": "V2202"
+  },
+  {
+   "device": "V2202",
+   "name": "V25",
+   "model": "V2228"
   },
   {
    "device": "V2158",
