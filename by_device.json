@@ -2853,6 +2853,18 @@
    "model": "A97GT"
   }
  ],
+ "thor": [
+  {
+   "brand": "ALT.STYLEFOLDER",
+   "name": "Style Folder",
+   "model": "AT-M120"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 12S Ultra",
+   "model": "2203121C"
+  }
+ ],
  "MD1001": [
   {
    "brand": "AMTC",
@@ -211545,6 +211557,13 @@
    "model": "Power Armor 16 Pro"
   }
  ],
+ "Power_Armor_18T": [
+  {
+   "brand": "Ulefone",
+   "name": "Power Armor 18T",
+   "model": "Power Armor 18T"
+  }
+ ],
  "PowerArmorX11Pro": [
   {
    "brand": "Ulefone",
@@ -226332,13 +226351,6 @@
    "brand": "Xiaomi",
    "name": "Xiaomi 12S Pro",
    "model": "2206122SC"
-  }
- ],
- "thor": [
-  {
-   "brand": "Xiaomi",
-   "name": "Xiaomi 12S Ultra",
-   "model": "2203121C"
   }
  ],
  "diting": [

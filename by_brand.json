@@ -703,6 +703,13 @@
    "model": "A97GT"
   }
  ],
+ "ALT.STYLEFOLDER": [
+  {
+   "device": "thor",
+   "name": "Style Folder",
+   "model": "AT-M120"
+  }
+ ],
  "AMTC": [
   {
    "device": "MD1001",
@@ -166385,6 +166392,11 @@
    "device": "PowerArmor16Pro",
    "name": "Power Armor 16 Pro",
    "model": "Power Armor 16 Pro"
+  },
+  {
+   "device": "Power_Armor_18T",
+   "name": "Power Armor 18T",
+   "model": "Power Armor 18T"
   },
   {
    "device": "PowerArmorX11Pro",

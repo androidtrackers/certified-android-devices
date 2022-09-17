@@ -7450,6 +7450,13 @@
    "model": "A97GT"
   }
  ],
+ "Style Folder": [
+  {
+   "brand": "ALT.STYLEFOLDER",
+   "device": "thor",
+   "model": "AT-M120"
+  }
+ ],
  "MD1001 Tablet": [
   {
    "brand": "AMTC",
@@ -209469,6 +209476,13 @@
    "brand": "Ulefone",
    "device": "PowerArmor16Pro",
    "model": "Power Armor 16 Pro"
+  }
+ ],
+ "Power Armor 18T": [
+  {
+   "brand": "Ulefone",
+   "device": "Power_Armor_18T",
+   "model": "Power Armor 18T"
   }
  ],
  "Power Armor X11 Pro": [

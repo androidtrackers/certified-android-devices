@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-09-16
+Last sync is 2022-09-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -133,6 +133,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ALBADEEL|Smart TV|redwood|AI PONT|
 |ALMATEEN|LXL43G7H-AT|samseong|AI PONT|
 |ALPHA_LING|A97GT|A97GT|A97GT|
+|ALT.STYLEFOLDER|Style Folder|thor|AT-M120|
 |AMTC|MD1001 Tablet|MD1001|MD1001|
 |AMTC|MD7008|MD7008A|MD7008|
 |AMTC|MD7081|MD7081A|MD7081|
@@ -32423,6 +32424,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Power Armor 14|Power_Armor_14|Power Armor 14|
 |Ulefone|Power Armor 14 Pro|Power_Armor14_Pro|Power Armor14 Pro|
 |Ulefone|Power Armor 16 Pro|PowerArmor16Pro|Power Armor 16 Pro|
+|Ulefone|Power Armor 18T|Power_Armor_18T|Power Armor 18T|
 |Ulefone|Power Armor X11 Pro|PowerArmorX11Pro|Power Armor X11 Pro|
 |Ulefone|Power_3L|Power_3L|Power_3L|
 |Ulefone|Power_3L_EEA|Power_3L_EEA|Power_3L|

@@ -1967,6 +1967,13 @@
    "device": "A97GT"
   }
  ],
+ "AT-M120": [
+  {
+   "brand": "ALT.STYLEFOLDER",
+   "name": "Style Folder",
+   "device": "thor"
+  }
+ ],
  "MD1001": [
   {
    "brand": "AMTC",
@@ -219852,6 +219859,13 @@
    "brand": "Ulefone",
    "name": "Power Armor 16 Pro",
    "device": "PowerArmor16Pro"
+  }
+ ],
+ "Power Armor 18T": [
+  {
+   "brand": "Ulefone",
+   "name": "Power Armor 18T",
+   "device": "Power_Armor_18T"
   }
  ],
  "Power Armor X11 Pro": [
