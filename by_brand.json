@@ -109786,6 +109786,11 @@
    "model": "PFZM10"
   },
   {
+   "device": "OP5287",
+   "name": "PGBM10",
+   "model": "PGBM10"
+  },
+  {
    "device": "OPD2A0",
    "name": "PGCM10",
    "model": "PGCM10"
@@ -123386,7 +123391,22 @@
   {
    "device": "ice",
    "name": "Redmi A1",
+   "model": "220733SG"
+  },
+  {
+   "device": "ice",
+   "name": "Redmi A1",
    "model": "220733SI"
+  },
+  {
+   "device": "ice",
+   "name": "Redmi A1",
+   "model": "220733SL"
+  },
+  {
+   "device": "snow",
+   "name": "Redmi A1+",
+   "model": "220733SFG"
   },
   {
    "device": "snow",

@@ -144150,6 +144150,13 @@
    "model": "PFZM10"
   }
  ],
+ "OP5287": [
+  {
+   "brand": "Oppo",
+   "name": "PGBM10",
+   "model": "PGBM10"
+  }
+ ],
  "OPD2A0": [
   {
    "brand": "Oppo",
@@ -160782,10 +160789,25 @@
   {
    "brand": "Redmi",
    "name": "Redmi A1",
+   "model": "220733SG"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi A1",
    "model": "220733SI"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi A1",
+   "model": "220733SL"
   }
  ],
  "snow": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi A1+",
+   "model": "220733SFG"
+  },
   {
    "brand": "Redmi",
    "name": "Redmi A1+",

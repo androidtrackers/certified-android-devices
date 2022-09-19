@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-09-18
+Last sync is 2022-09-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -21350,6 +21350,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|PFTM10|OP526D|PFTM10|
 |Oppo|PFTM20|OP526D|PFTM20|
 |Oppo|PFZM10|OP5281|PFZM10|
+|Oppo|PGBM10|OP5287|PGBM10|
 |Oppo|PGCM10|OPD2A0|PGCM10|
 |Oppo|R1001|OPPO72_13076|R1001|
 |Oppo|R1001|R1001|R1001|
@@ -24000,7 +24001,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 9T|lemon|M2010J19SY|
 |Redmi|Redmi 9T|lime|M2010J19SG|
 |Redmi|Redmi 9T|pomelo|M2010J19SL|
+|Redmi|Redmi A1|ice|220733SG|
 |Redmi|Redmi A1|ice|220733SI|
+|Redmi|Redmi A1|ice|220733SL|
+|Redmi|Redmi A1+|snow|220733SFG|
 |Redmi|Redmi A1+|snow|220743FI|
 |Redmi|Redmi K20|davinci|Mi 9T|
 |Redmi|Redmi K20|davinci|Redmi K20|
