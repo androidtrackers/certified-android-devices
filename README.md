@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-09-19
+Last sync is 2022-09-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -26922,6 +26922,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab A7|gta4l|SM-T505C|
 |Samsung|Galaxy Tab A7|gta4l|SM-T505N|
 |Samsung|Galaxy Tab A7|gta4l|SM-T507|
+|Samsung|Galaxy Tab A7|gta4lve|SM-T509|
 |Samsung|Galaxy Tab A7|gta4lvewifi|SM-T503|
 |Samsung|Galaxy Tab A7|gta4lwifi|SM-T500|
 |Samsung|Galaxy Tab A7 Lite|gta7lite|SM-T225|

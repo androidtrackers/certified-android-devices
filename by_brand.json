@@ -138204,6 +138204,11 @@
    "model": "SM-T507"
   },
   {
+   "device": "gta4lve",
+   "name": "Galaxy Tab A7",
+   "model": "SM-T509"
+  },
+  {
    "device": "gta4lvewifi",
    "name": "Galaxy Tab A7",
    "model": "SM-T503"
