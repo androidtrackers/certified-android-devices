@@ -53857,6 +53857,13 @@
    "device": "hoki"
   }
  ],
+ "Gen 6 Wellness Edition": [
+  {
+   "brand": "Fossil",
+   "name": "Fossil Gen 6",
+   "device": "hoki"
+  }
+ ],
  "Fadelite": [
   {
    "brand": "Fossil",
@@ -74144,6 +74151,11 @@
   {
    "brand": "Homatics",
    "name": "Dongle R 4K",
+   "device": "YQB"
+  },
+  {
+   "brand": "Homatics",
+   "name": "Global",
    "device": "YQB"
   }
  ],
@@ -119477,6 +119489,13 @@
    "device": "TB230FC"
   }
  ],
+ "TB230XC": [
+  {
+   "brand": "Lenovo",
+   "name": "联想平板电脑 启天K11 Gen2",
+   "device": "TB230XC"
+  }
+ ],
  "LETAB731": [
   {
    "brand": "Leotec",
@@ -149863,6 +149882,13 @@
    "brand": "PCD Argentina",
    "name": "PL620",
    "device": "PL620"
+  }
+ ],
+ "PET 1008-H332E": [
+  {
+   "brand": "PEAQ",
+   "name": "PET-1008-H332E",
+   "device": "PET-1008-H332E"
   }
  ],
  "PET-101-F464S": [

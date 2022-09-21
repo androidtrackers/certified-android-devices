@@ -57023,6 +57023,11 @@
    "brand": "Fossil",
    "name": "Fossil Gen 6",
    "model": "Fossil Gen 6"
+  },
+  {
+   "brand": "Fossil",
+   "name": "Fossil Gen 6",
+   "model": "Gen 6 Wellness Edition"
   }
  ],
  "darter": [
@@ -69837,6 +69842,11 @@
   {
    "brand": "Homatics",
    "name": "Dongle R 4K",
+   "model": "Dongle R 4K"
+  },
+  {
+   "brand": "Homatics",
+   "name": "Global",
    "model": "Dongle R 4K"
   },
   {
@@ -117482,6 +117492,13 @@
    "model": "TB230FC"
   }
  ],
+ "TB230XC": [
+  {
+   "brand": "Lenovo",
+   "name": "联想平板电脑 启天K11 Gen2",
+   "model": "TB230XC"
+  }
+ ],
  "LETAB731": [
   {
    "brand": "Leotec",
@@ -147264,6 +147281,13 @@
    "brand": "PCD Argentina",
    "name": "PL620",
    "model": "PL620"
+  }
+ ],
+ "PET-1008-H332E": [
+  {
+   "brand": "PEAQ",
+   "name": "PET-1008-H332E",
+   "model": "PET 1008-H332E"
   }
  ],
  "PET-101-F464S": [

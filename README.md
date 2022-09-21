@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-09-20
+Last sync is 2022-09-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7247,6 +7247,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fossil|Fossil Gen 5e|sole|Fossil 5e|
 |Fossil|Fossil Gen 5e|sole|Fossil SS|
 |Fossil|Fossil Gen 6|hoki|Fossil Gen 6|
+|Fossil|Fossil Gen 6|hoki|Gen 6 Wellness Edition|
 |Fossil|Fossil Sport|darter|Fadelite|
 |Fossil|Fossil Sport|darter|Hugo|
 |Fossil|Fossil Sport|darter|MK Go|
@@ -10263,6 +10264,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Homatics|Box Q|HND|Box Q|
 |Homatics|Dongle Q|ICN|Dongle Q|
 |Homatics|Dongle R 4K|YQB|Dongle R 4K|
+|Homatics|Global|YQB|Dongle R 4K|
 |Homatics|SEI600HM|HND|Box Q|
 |Home Elite|Android TV|R1|ATV R1|
 |Home Elite|Android TV|R2|ATV R2|
@@ -17102,6 +17104,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|联想平板电脑 启天K10|X6C6NBF|Lenovo TB-X6C6NBF|
 |Lenovo|联想平板电脑 启天K10|X6C6NBX|Lenovo TB-X6C6NBX|
 |Lenovo|联想平板电脑 启天K11 Gen2|TB230FC|TB230FC|
+|Lenovo|联想平板电脑 启天K11 Gen2|TB230XC|TB230XC|
 |Lenovo|联想平板电脑K10 5G|TB-X607Z|Lenovo TB-X607Z|
 |Leotec|LEOTEC|LETAB731|LETAB731|
 |Leotec|Letab1020|Letab1020|SUPERNOVA Qi32|
@@ -21827,6 +21830,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PCD Argentina|PL571|PL571|PL571|
 |PCD Argentina|PL571US|PL571US|PL571US|
 |PCD Argentina|PL620|PL620|PL620|
+|PEAQ|PET-1008-H332E|PET-1008-H332E|PET 1008-H332E|
 |PEAQ|PET-101-F464S|PET-101-F464S|PET-101-F464S|
 |PEAQ|PET-101-H232E|PET-101-H232E|PET 101-H232E|
 |PEAQ|PET-101-H332S-W|PET-101-H332S-W|PET 101-H332S-W|

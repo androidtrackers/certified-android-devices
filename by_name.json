@@ -61062,6 +61062,11 @@
    "brand": "Fossil",
    "device": "hoki",
    "model": "Fossil Gen 6"
+  },
+  {
+   "brand": "Fossil",
+   "device": "hoki",
+   "model": "Gen 6 Wellness Edition"
   }
  ],
  "Fossil Sport": [
@@ -80314,6 +80319,18 @@
    "brand": "Homatics",
    "device": "YQB",
    "model": "Dongle R 4K"
+  }
+ ],
+ "Global": [
+  {
+   "brand": "Homatics",
+   "device": "YQB",
+   "model": "Dongle R 4K"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "stanford",
+   "model": "CSV2K"
   }
  ],
  "SEI600HM": [
@@ -100037,13 +100054,6 @@
    "model": "4K SMART TV"
   }
  ],
- "Global": [
-  {
-   "brand": "KTCtv",
-   "device": "stanford",
-   "model": "CSV2K"
-  }
- ],
  "Golbal": [
   {
    "brand": "KTCtv",
@@ -118776,6 +118786,11 @@
    "brand": "Lenovo",
    "device": "TB230FC",
    "model": "TB230FC"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "TB230XC",
+   "model": "TB230XC"
   }
  ],
  "联想平板电脑K10 5G": [
@@ -147385,6 +147400,13 @@
    "brand": "PCD Argentina",
    "device": "PL620",
    "model": "PL620"
+  }
+ ],
+ "PET-1008-H332E": [
+  {
+   "brand": "PEAQ",
+   "device": "PET-1008-H332E",
+   "model": "PET 1008-H332E"
   }
  ],
  "PET-101-F464S": [

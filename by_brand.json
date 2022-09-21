@@ -37661,6 +37661,11 @@
    "model": "Fossil Gen 6"
   },
   {
+   "device": "hoki",
+   "name": "Fossil Gen 6",
+   "model": "Gen 6 Wellness Edition"
+  },
+  {
    "device": "darter",
    "name": "Fossil Sport",
    "model": "Fadelite"
@@ -53088,6 +53093,11 @@
   {
    "device": "YQB",
    "name": "Dongle R 4K",
+   "model": "Dongle R 4K"
+  },
+  {
+   "device": "YQB",
+   "name": "Global",
    "model": "Dongle R 4K"
   },
   {
@@ -87846,6 +87856,11 @@
    "model": "TB230FC"
   },
   {
+   "device": "TB230XC",
+   "name": "联想平板电脑 启天K11 Gen2",
+   "model": "TB230XC"
+  },
+  {
    "device": "TB-X607Z",
    "name": "联想平板电脑K10 5G",
    "model": "Lenovo TB-X607Z"
@@ -112218,6 +112233,11 @@
   }
  ],
  "PEAQ": [
+  {
+   "device": "PET-1008-H332E",
+   "name": "PET-1008-H332E",
+   "model": "PET 1008-H332E"
+  },
   {
    "device": "PET-101-F464S",
    "name": "PET-101-F464S",
