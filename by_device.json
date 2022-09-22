@@ -517,6 +517,13 @@
    "model": "ViettelTV 4K Box"
   }
  ],
+ "AC_934312": [
+  {
+   "brand": "ACTECK",
+   "name": "AC_934312",
+   "model": "AC_934312"
+  }
+ ],
  "D30": [
   {
    "brand": "ADOC",
@@ -1036,6 +1043,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "MTEK",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "Maxsonic_elite",
    "model": "4K SMART TV"
   },
@@ -1077,6 +1089,11 @@
   {
    "brand": "KTCtv",
    "name": "VON",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "XITRIX",
    "model": "4K SMART TV"
   },
   {
@@ -1164,6 +1181,11 @@
   {
    "brand": "Aconatic",
    "name": "ACONATIC",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "Admiral Overseas Corporation",
+   "name": "ADMIRAL",
    "model": "2K SMART TV"
   },
   {
@@ -1264,6 +1286,11 @@
   {
    "brand": "KTCtv",
    "name": "ENGLAON",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "GAZER",
    "model": "2K SMART TV"
   },
   {
@@ -4024,6 +4051,11 @@
    "brand": "Panasonic",
    "name": "Android TV",
    "model": "PANASONIC TV"
+  },
+  {
+   "brand": "SAMPO",
+   "name": "Android TV",
+   "model": "R4"
   },
   {
    "brand": "Stream System",
@@ -27412,6 +27444,13 @@
    "model": "BV5100Pro"
   }
  ],
+ "BV5200": [
+  {
+   "brand": "Blackview",
+   "name": "BV5200",
+   "model": "BV5200"
+  }
+ ],
  "BV5500": [
   {
    "brand": "Blackview",
@@ -32995,6 +33034,11 @@
    "brand": "CORN",
    "name": "R60",
    "model": "CORN R60"
+  },
+  {
+   "brand": "SinoGNSS",
+   "name": "R60 Data Collector",
+   "model": "R60"
   }
  ],
  "Star10_3G": [
@@ -48946,6 +48990,13 @@
    "model": "X97Pro"
   }
  ],
+ "1918T": [
+  {
+   "brand": "Doogee",
+   "name": "X98Pro",
+   "model": "X98Pro"
+  }
+ ],
  "X9S": [
   {
    "brand": "Doogee",
@@ -51374,6 +51425,13 @@
    "brand": "EXO S.A.",
    "name": "wave-i007w",
    "model": "wave-i007w"
+  }
+ ],
+ "EE1010_EEA": [
+  {
+   "brand": "Eaglesoar",
+   "name": "EE1010_EEA",
+   "model": "EE1010_EEA"
   }
  ],
  "Z_766_EEA": [
@@ -59672,6 +59730,13 @@
    "model": "G10_EEA"
   }
  ],
+ "G10_US": [
+  {
+   "brand": "GOODTEL",
+   "name": "G10_US",
+   "model": "G10_US"
+  }
+ ],
  "G2_A_EEA": [
   {
    "brand": "GOODTEL",
@@ -61482,6 +61547,13 @@
    "brand": "Gigaset",
    "name": "Gigaset GS4",
    "model": "E940-2795-00"
+  }
+ ],
+ "GX6": [
+  {
+   "brand": "Gigaset",
+   "name": "Gigaset GX6",
+   "model": "E940-2849-00"
   }
  ],
  "maxwell_10": [
@@ -63367,6 +63439,13 @@
    "model": "Chromecast"
   }
  ],
+ "boreal": [
+  {
+   "brand": "Google",
+   "name": "Chromecast Google TV (HD)",
+   "model": "Chromecast HD"
+  }
+ ],
  "generic_x86_arm": [
   {
    "brand": "Google",
@@ -64640,6 +64719,13 @@
    "brand": "HOMII",
    "name": "XBOOK_PRO",
    "model": "XBOOK_PRO"
+  }
+ ],
+ "Xbook_Plus": [
+  {
+   "brand": "HOMII",
+   "name": "Xbook_Plus",
+   "model": "Xbook_Plus"
   }
  ],
  "Xbookkids": [
@@ -76681,6 +76767,23 @@
    "brand": "Honor",
    "name": "HONOR Pad 8",
    "model": "HEY-W09"
+  }
+ ],
+ "HNVNE-M": [
+  {
+   "brand": "Honor",
+   "name": "HONOR X6",
+   "model": "VNE-LX1"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR X6",
+   "model": "VNE-LX2"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR X6",
+   "model": "VNE-LX3"
   }
  ],
  "HNCMA-Q": [
@@ -96994,6 +97097,13 @@
    "model": "D68S"
   }
  ],
+ "KPad_U2": [
+  {
+   "brand": "KYASTER",
+   "name": "KPad_U2",
+   "model": "KPad_U2"
+  }
+ ],
  "Dream_one": [
   {
    "brand": "KZG (Ke Zhi Guang)",
@@ -109041,6 +109151,13 @@
    "brand": "LNMBBS",
    "name": "L211",
    "model": "L211"
+  }
+ ],
+ "L23": [
+  {
+   "brand": "LNMBBS",
+   "name": "L23",
+   "model": "L23"
   }
  ],
  "L23-EEA": [
@@ -128939,6 +129056,13 @@
    "model": "V.45"
   }
  ],
+ "Vodafone_Smart": [
+  {
+   "brand": "Mobiwire",
+   "name": "Vodafone Smart 4G",
+   "model": "Vodafone Smart 4G"
+  }
+ ],
  "skipjack": [
   {
    "brand": "Mobvoi",
@@ -147281,6 +147405,13 @@
    "brand": "PCD Argentina",
    "name": "PL620",
    "model": "PL620"
+  }
+ ],
+ "PET-1008-F464E": [
+  {
+   "brand": "PEAQ",
+   "name": "PET-1008-F464E",
+   "model": "PET 1008-F464E"
   }
  ],
  "PET-1008-H332E": [
@@ -204221,6 +204352,13 @@
    "model": "T201-EEA"
   }
  ],
+ "T21-EEA": [
+  {
+   "brand": "TOSCIDO",
+   "name": "T21-EEA",
+   "model": "T21-EEA"
+  }
+ ],
  "T211-EEA": [
   {
    "brand": "TOSCIDO",
@@ -205150,6 +205288,13 @@
    "model": "816x"
   }
  ],
+ "Tech_Pad_732": [
+  {
+   "brand": "Techpad",
+   "name": "Tech732",
+   "model": "732"
+  }
+ ],
  "TechPad_916": [
   {
    "brand": "Techpad",
@@ -205552,6 +205697,11 @@
  "P25_T": [
   {
    "brand": "Teclast",
+   "name": "P25_T_EEA",
+   "model": "P25_T_EEA"
+  },
+  {
+   "brand": "Teclast",
    "name": "P25_T_ROW",
    "model": "P25_T_ROW"
   }
@@ -205595,6 +205745,13 @@
    "brand": "Teclast",
    "name": "P30HD_RU",
    "model": "P30HD"
+  }
+ ],
+ "P40HD_EEA": [
+  {
+   "brand": "Teclast",
+   "name": "P40HD_EEA",
+   "model": "P40HD"
   }
  ],
  "P80X": [
@@ -218598,6 +218755,11 @@
    "brand": "Vivo",
    "name": "Y02s",
    "model": "V2203"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y02s",
+   "model": "V2229"
   },
   {
    "brand": "Vivo",
@@ -236731,6 +236893,20 @@
    "brand": "Zebra",
    "name": "ET40A",
    "model": "ET40"
+  }
+ ],
+ "ET45L": [
+  {
+   "brand": "Zebra",
+   "name": "ET45",
+   "model": "ET45"
+  }
+ ],
+ "ET45S": [
+  {
+   "brand": "Zebra",
+   "name": "ET45",
+   "model": "ET45"
   }
  ],
  "ET56L": [
