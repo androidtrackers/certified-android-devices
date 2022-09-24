@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-09-23
+Last sync is 2022-09-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5160,6 +5160,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|P30|P30|P30|
 |Cubot|P40|P40|P40|
 |Cubot|P50|P50|P50|
+|Cubot|P60|P60|P60|
 |Cubot|Pocket|Pocket|Pocket|
 |Cubot|QUEST|QUEST|QUEST|
 |Cubot|QUEST LITE|QUEST_LITE|QUEST LITE|
@@ -7495,6 +7496,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fusion5|F105D_128GB|F105D_128GB|F105D_128GB|
 |Fusion5|F105Dv2|F105Dv2|F105Dv2|
 |Fusion5|F105DvII|F105DvII|F105DvII|
+|Fusion5|F202_UK|F202_UK|F202_UK|
 |Fusion5|F704Bv2|F704Bv2|F704Bv2|
 |Fusion5|F704Bv2_EEA|F704Bv2_EEA|F704Bv2_EEA|
 |Fusion5|Fusion5|Fusion5_F104B|Fusion5_F104B|
@@ -12077,6 +12079,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|麦芒5|HWMLA|MLA-AL00|
 |Huawei|麦芒5|HWMLA|MLA-AL10|
 |Hublot|Hublot Big Bang e|halibut|Big Bang e|
+|Human_Acadaemy|HA-007|HA-007|HA-007|
 |HumaxDigital|Descodificador Orange TV|b604tnw|Descodificador Orange TV|
 |HumaxDigital|FVP-4KGTR|fvp4kgtr|FVP-4KGTR|
 |HumaxDigital|H5_DLIVE|h5mini|H5_DLIVE|
@@ -18876,6 +18879,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|VSN V.45|up06_h26_v45|V.45|
 |Mobiwire|Verda|MobiWire_Verda|Verda|
 |Mobiwire|Vodafone Lite 4G|MobiWire_Verda|Vodafone Lite 4G|
+|Mobiwire|Vodafone Pro 4G|Vodafone_Pro|Vodafone Pro 4G|
 |Mobiwire|Vodafone Smart 4G|Vodafone_Smart|Vodafone Smart 4G|
 |Mobvoi|TicWatch C2|skipjack|TicWatch C2|
 |Mobvoi|TicWatch C2|skipjack|TicWatch C2+|
@@ -28605,7 +28609,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 1 IV|A201SO|A201SO|
 |Sony|Xperia 1 IV|SO-51C|SO-51C|
 |Sony|Xperia 1 IV|SOG06|SOG06|
+|Sony|Xperia 1 IV|XQ-CT44|XQ-CT44|
 |Sony|Xperia 1 IV|XQ-CT54|XQ-CT54|
+|Sony|Xperia 1 IV|XQ-CT62|XQ-CT62|
 |Sony|Xperia 1 IV|XQ-CT72|XQ-CT72|
 |Sony|Xperia 1 Professional Edition|J9150|J9150|
 |Sony|Xperia 10|I3113|I3113|

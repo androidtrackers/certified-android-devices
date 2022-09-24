@@ -37634,6 +37634,11 @@
    "model": "P60"
   },
   {
+   "brand": "Cubot",
+   "name": "P60",
+   "model": "P60"
+  },
+  {
    "brand": "PCD Argentina",
    "name": "PD60",
    "model": "P60"
@@ -58619,6 +58624,13 @@
    "brand": "Fusion5",
    "name": "F105DvII",
    "model": "F105DvII"
+  }
+ ],
+ "F202_UK": [
+  {
+   "brand": "Fusion5",
+   "name": "F202_UK",
+   "model": "F202_UK"
   }
  ],
  "F704Bv2": [
@@ -86206,6 +86218,13 @@
    "brand": "Hublot",
    "name": "Hublot Big Bang e",
    "model": "Big Bang e"
+  }
+ ],
+ "HA-007": [
+  {
+   "brand": "Human_Acadaemy",
+   "name": "HA-007",
+   "model": "HA-007"
   }
  ],
  "b604tnw": [
@@ -129054,6 +129073,13 @@
    "brand": "Mobiwire",
    "name": "VSN V.45",
    "model": "V.45"
+  }
+ ],
+ "Vodafone_Pro": [
+  {
+   "brand": "Mobiwire",
+   "name": "Vodafone Pro 4G",
+   "model": "Vodafone Pro 4G"
   }
  ],
  "Vodafone_Smart": [
@@ -189468,11 +189494,25 @@
    "model": "SOG06"
   }
  ],
+ "XQ-CT44": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 1 IV",
+   "model": "XQ-CT44"
+  }
+ ],
  "XQ-CT54": [
   {
    "brand": "Sony",
    "name": "Xperia 1 IV",
    "model": "XQ-CT54"
+  }
+ ],
+ "XQ-CT62": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 1 IV",
+   "model": "XQ-CT62"
   }
  ],
  "XQ-CT72": [

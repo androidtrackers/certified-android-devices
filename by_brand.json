@@ -26702,6 +26702,11 @@
    "model": "P50"
   },
   {
+   "device": "P60",
+   "name": "P60",
+   "model": "P60"
+  },
+  {
    "device": "Pocket",
    "name": "Pocket",
    "model": "Pocket"
@@ -38927,6 +38932,11 @@
    "device": "F105DvII",
    "name": "F105DvII",
    "model": "F105DvII"
+  },
+  {
+   "device": "F202_UK",
+   "name": "F202_UK",
+   "model": "F202_UK"
   },
   {
    "device": "F704Bv2",
@@ -62191,6 +62201,13 @@
    "device": "halibut",
    "name": "Hublot Big Bang e",
    "model": "Big Bang e"
+  }
+ ],
+ "Human_Acadaemy": [
+  {
+   "device": "HA-007",
+   "name": "HA-007",
+   "model": "HA-007"
   }
  ],
  "HumaxDigital": [
@@ -97044,6 +97061,11 @@
    "device": "MobiWire_Verda",
    "name": "Vodafone Lite 4G",
    "model": "Vodafone Lite 4G"
+  },
+  {
+   "device": "Vodafone_Pro",
+   "name": "Vodafone Pro 4G",
+   "model": "Vodafone Pro 4G"
   },
   {
    "device": "Vodafone_Smart",
@@ -146783,9 +146805,19 @@
    "model": "SOG06"
   },
   {
+   "device": "XQ-CT44",
+   "name": "Xperia 1 IV",
+   "model": "XQ-CT44"
+  },
+  {
    "device": "XQ-CT54",
    "name": "Xperia 1 IV",
    "model": "XQ-CT54"
+  },
+  {
+   "device": "XQ-CT62",
+   "name": "Xperia 1 IV",
+   "model": "XQ-CT62"
   },
   {
    "device": "XQ-CT72",

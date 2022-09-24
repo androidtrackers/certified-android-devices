@@ -45753,6 +45753,18 @@
    "model": "P50"
   }
  ],
+ "P60": [
+  {
+   "brand": "Cubot",
+   "device": "P60",
+   "model": "P60"
+  },
+  {
+   "brand": "POPTEL",
+   "device": "P60",
+   "model": "P60"
+  }
+ ],
  "Pocket": [
   {
    "brand": "Cubot",
@@ -62495,6 +62507,13 @@
    "brand": "Fusion5",
    "device": "F105DvII",
    "model": "F105DvII"
+  }
+ ],
+ "F202_UK": [
+  {
+   "brand": "Fusion5",
+   "device": "F202_UK",
+   "model": "F202_UK"
   }
  ],
  "F704Bv2": [
@@ -89148,6 +89167,13 @@
    "brand": "Hublot",
    "device": "halibut",
    "model": "Big Bang e"
+  }
+ ],
+ "HA-007": [
+  {
+   "brand": "Human_Acadaemy",
+   "device": "HA-007",
+   "model": "HA-007"
   }
  ],
  "Descodificador Orange TV": [
@@ -129932,6 +129958,13 @@
    "model": "Vodafone Lite 4G"
   }
  ],
+ "Vodafone Pro 4G": [
+  {
+   "brand": "Mobiwire",
+   "device": "Vodafone_Pro",
+   "model": "Vodafone Pro 4G"
+  }
+ ],
  "TicWatch C2": [
   {
    "brand": "Mobvoi",
@@ -147862,13 +147895,6 @@
    "brand": "POPTEL",
    "device": "Kammunica_V10",
    "model": "Kammunica_V10"
-  }
- ],
- "P60": [
-  {
-   "brand": "POPTEL",
-   "device": "P60",
-   "model": "P60"
   }
  ],
  "P9000 MAX": [
@@ -187549,8 +187575,18 @@
   },
   {
    "brand": "Sony",
+   "device": "XQ-CT44",
+   "model": "XQ-CT44"
+  },
+  {
+   "brand": "Sony",
    "device": "XQ-CT54",
    "model": "XQ-CT54"
+  },
+  {
+   "brand": "Sony",
+   "device": "XQ-CT62",
+   "model": "XQ-CT62"
   },
   {
    "brand": "Sony",
