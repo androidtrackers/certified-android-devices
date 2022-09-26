@@ -4030,6 +4030,11 @@
    "model": "JA2-SMP0601"
   },
   {
+   "device": "JA2-TBA0801",
+   "name": "JA2-TBA0801",
+   "model": "JA2-TBA0801"
+  },
+  {
    "device": "JA2-TBA1001",
    "name": "JA2-TBA1001",
    "model": "JA2-TBA1001"
@@ -26602,6 +26607,11 @@
    "model": "KING KONG CS"
   },
   {
+   "device": "KINGKONGMINI3",
+   "name": "KINGKONG MINI 3",
+   "model": "KINGKONG MINI 3"
+  },
+  {
    "device": "KINGKONG_MINI2",
    "name": "KINGKONG MINI2",
    "model": "KINGKONG MINI2"
@@ -36402,6 +36412,11 @@
  ],
  "FIVAHIVA": [
   {
+   "device": "FF1010",
+   "name": "FF1010",
+   "model": "FF1010"
+  },
+  {
    "device": "YY_766",
    "name": "YY_766",
    "model": "YY_766"
@@ -38937,6 +38952,11 @@
    "device": "F202_UK",
    "name": "F202_UK",
    "model": "F202_UK"
+  },
+  {
+   "device": "F202_US",
+   "name": "F202_US",
+   "model": "F202_US"
   },
   {
    "device": "F704Bv2",
@@ -53984,6 +54004,11 @@
    "model": "HEY-W09"
   },
   {
+   "device": "HNAGM",
+   "name": "HONOR Pad X8 Lite",
+   "model": "AGM-W09HN"
+  },
+  {
    "device": "HNVNE-M",
    "name": "HONOR X6",
    "model": "VNE-LX1"
@@ -64078,6 +64103,11 @@
    "model": "IRA801"
   },
   {
+   "device": "IRABIO",
+   "name": "IRABIO",
+   "model": "IRABIO"
+  },
+  {
    "device": "IRA_DUO_PLUS",
    "name": "IRA_DUO_PLUS",
    "model": "IRA_DUO_PLUS"
@@ -68932,6 +68962,11 @@
    "model": "itel L6006L"
   },
   {
+   "device": "itel-A631L",
+   "name": "itel A49 Play",
+   "model": "itel A631L"
+  },
+  {
    "device": "itel-A510W",
    "name": "itel A510W",
    "model": "itel A510W"
@@ -71228,6 +71263,11 @@
    "device": "zhongshan",
    "name": "Enova",
    "model": "4K SMART TV"
+  },
+  {
+   "device": "zhongshan",
+   "name": "FASTLIFE",
+   "model": "SMART TV"
   },
   {
    "device": "stanford",
@@ -90681,6 +90721,11 @@
    "model": "K1"
   },
   {
+   "device": "K6",
+   "name": "K6",
+   "model": "K6"
+  },
+  {
    "device": "NOTE1",
    "name": "NOTE1",
    "model": "NOTE1"
@@ -95916,6 +95961,11 @@
    "device": "HotahOTG_V",
    "name": "Hotah",
    "model": "HotahOTG"
+  },
+  {
+   "device": "MobiGo2PP",
+   "name": "MobiGo 2+ Pro",
+   "model": "MobiGo2PP"
   },
   {
    "device": "MobiPrint4_Plus",
@@ -101399,6 +101449,11 @@
    "model": "M9_3G"
   },
   {
+   "device": "ML_JI0E_M9_WIFI",
+   "name": "M9 WIFI",
+   "model": "M9_WIFI"
+  },
+  {
    "device": "ML_SO08_M9_Wifi",
    "name": "M9 Wifi",
    "model": "M9_Wifi"
@@ -101762,6 +101817,11 @@
    "device": "Multilaser_GMax_2_Sikur",
    "name": "Sikur",
    "model": "Multilaser_GMax_2_Sikur"
+  },
+  {
+   "device": "ML_SO0K_U10_MTK",
+   "name": "U10",
+   "model": "U10"
   },
   {
    "device": "ML_SO0C_ULTRA_10",
@@ -111372,6 +111432,11 @@
    "device": "RC609LSM",
    "name": "RC609LSM",
    "model": "RC609LSM"
+  },
+  {
+   "device": "RC8L1T-RW",
+   "name": "RC8L1T-RW",
+   "model": "RC8L1T-RW"
   },
   {
    "device": "RC555L",
@@ -141210,6 +141275,11 @@
    "model": "SM-W2022"
   },
   {
+   "device": "e4q",
+   "name": "心系天下 三星 W23 Flip",
+   "model": "SM-W7023"
+  },
+  {
    "device": "venenoltechn",
    "name": "领世旗舰8",
    "model": "SM-G9298"
@@ -141738,6 +141808,11 @@
    "device": "M_766",
    "name": "M_766",
    "model": "M_766"
+  },
+  {
+   "device": "SS1010",
+   "name": "SS1010",
+   "model": "SS1010"
   }
  ],
  "Senseit": [
@@ -166948,6 +167023,11 @@
    "model": "MP05"
   },
   {
+   "device": "A13_Pro_Max_5G",
+   "name": "A13 Pro Max 5G",
+   "model": "MP04"
+  },
+  {
    "device": "A13S",
    "name": "A13S",
    "model": "MP05"
@@ -173715,6 +173795,11 @@
    "device": "VFD700",
    "name": "Smart ultra 7",
    "model": "VFD 700"
+  },
+  {
+   "device": "Smart_V22",
+   "name": "SmartV22",
+   "model": "SmartV22"
   },
   {
    "device": "VFD620",
@@ -181709,6 +181794,11 @@
    "device": "candice",
    "name": "A2018",
    "model": "ZTE A2018"
+  },
+  {
+   "device": "Z6575S",
+   "name": "A202ZT",
+   "model": "A202ZT"
   },
   {
    "device": "ZTE-A880",
@@ -189719,6 +189809,11 @@
    "model": "AURA X"
   },
   {
+   "device": "AURA_Z",
+   "name": "AURA Z",
+   "model": "AURA_Z"
+  },
+  {
    "device": "COVET",
    "name": "COVET",
    "model": "COVET"
@@ -192532,6 +192627,11 @@
    "device": "Koobee_K60",
    "name": "Koobee K60",
    "model": "K60"
+  },
+  {
+   "device": "SL004T",
+   "name": "Koobee_K100",
+   "model": "SL004T"
   },
   {
    "device": "koobee_S12",

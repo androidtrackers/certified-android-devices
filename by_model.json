@@ -7665,6 +7665,11 @@
    "device": "stanford"
   },
   {
+   "brand": "KTCtv",
+   "name": "FASTLIFE",
+   "device": "zhongshan"
+  },
+  {
    "brand": "Siragon",
    "name": "SA",
    "device": "stanford"
@@ -7757,6 +7762,13 @@
    "brand": "Aiwa",
    "name": "JA2-SMP0601",
    "device": "JA2-SMP0601"
+  }
+ ],
+ "JA2-TBA0801": [
+  {
+   "brand": "Aiwa",
+   "name": "JA2-TBA0801",
+   "device": "JA2-TBA0801"
   }
  ],
  "JA2-TBA1001": [
@@ -11322,6 +11334,11 @@
    "brand": "Apex",
    "name": "U10",
    "device": "U10"
+  },
+  {
+   "brand": "Multilaser",
+   "name": "U10",
+   "device": "ML_SO0K_U10_MTK"
   }
  ],
  "U10PRO": [
@@ -39055,6 +39072,13 @@
    "device": "KINGKONG_7"
   }
  ],
+ "KINGKONG MINI 3": [
+  {
+   "brand": "Cubot",
+   "name": "KINGKONG MINI 3",
+   "device": "KINGKONGMINI3"
+  }
+ ],
  "KINGKONG MINI2": [
   {
    "brand": "Cubot",
@@ -52090,6 +52114,13 @@
    "device": "VIVID_PRO"
   }
  ],
+ "FF1010": [
+  {
+   "brand": "FIVAHIVA",
+   "name": "FF1010",
+   "device": "FF1010"
+  }
+ ],
  "YY_766": [
   {
    "brand": "FIVAHIVA",
@@ -55632,6 +55663,13 @@
    "brand": "Fusion5",
    "name": "F202_UK",
    "device": "F202_UK"
+  }
+ ],
+ "F202_US": [
+  {
+   "brand": "Fusion5",
+   "name": "F202_US",
+   "device": "F202_US"
   }
  ],
  "F704Bv2": [
@@ -75223,6 +75261,13 @@
    "device": "HNHEY-Q"
   }
  ],
+ "AGM-W09HN": [
+  {
+   "brand": "Honor",
+   "name": "HONOR Pad X8 Lite",
+   "device": "HNAGM"
+  }
+ ],
  "VNE-LX1": [
   {
    "brand": "Honor",
@@ -88721,6 +88766,13 @@
    "device": "IRA801"
   }
  ],
+ "IRABIO": [
+  {
+   "brand": "IRA (explore more)",
+   "name": "IRABIO",
+   "device": "IRABIO"
+  }
+ ],
  "IRA_DUO_PLUS": [
   {
    "brand": "IRA (explore more)",
@@ -95018,6 +95070,13 @@
    "device": "itel-L6006L"
   }
  ],
+ "itel A631L": [
+  {
+   "brand": "Itel",
+   "name": "itel A49 Play",
+   "device": "itel-A631L"
+  }
+ ],
  "itel A510W": [
   {
    "brand": "Itel",
@@ -97590,6 +97649,11 @@
   },
   {
    "brand": "Lesia",
+   "name": "K6",
+   "device": "K6"
+  },
+  {
+   "brand": "MOBULAA",
    "name": "K6",
    "device": "K6"
   },
@@ -129617,6 +129681,13 @@
    "device": "HotahOTG_V"
   }
  ],
+ "MobiGo2PP": [
+  {
+   "brand": "MobiIoT",
+   "name": "MobiGo 2+ Pro",
+   "device": "MobiGo2PP"
+  }
+ ],
  "MobiPrint4_Plus": [
   {
    "brand": "MobiIoT",
@@ -136457,6 +136528,13 @@
    "brand": "Multilaser",
    "name": "M9 3G",
    "device": "ML-WI16-M9_3G"
+  }
+ ],
+ "M9_WIFI": [
+  {
+   "brand": "Multilaser",
+   "name": "M9 WIFI",
+   "device": "ML_JI0E_M9_WIFI"
   }
  ],
  "M9_Wifi": [
@@ -148920,6 +148998,13 @@
    "brand": "Orbic",
    "name": "RC609LSM",
    "device": "RC609LSM"
+  }
+ ],
+ "RC8L1T-RW": [
+  {
+   "brand": "Orbic",
+   "name": "RC8L1T-RW",
+   "device": "RC8L1T-RW"
   }
  ],
  "RC555L": [
@@ -187962,6 +188047,13 @@
    "device": "v2q"
   }
  ],
+ "SM-W7023": [
+  {
+   "brand": "Samsung",
+   "name": "心系天下 三星 W23 Flip",
+   "device": "e4q"
+  }
+ ],
  "SM-G9298": [
   {
    "brand": "Samsung",
@@ -188521,6 +188613,13 @@
    "brand": "Semeakoko",
    "name": "M_766",
    "device": "M_766"
+  }
+ ],
+ "SS1010": [
+  {
+   "brand": "Semeakoko",
+   "name": "SS1010",
+   "device": "SS1010"
   }
  ],
  "SENSEIT_A109": [
@@ -220532,6 +220631,13 @@
    "device": "A13_Pro_5G"
   }
  ],
+ "MP04": [
+  {
+   "brand": "Umidigi",
+   "name": "A13 Pro Max 5G",
+   "device": "A13_Pro_Max_5G"
+  }
+ ],
  "A3S": [
   {
    "brand": "Umidigi",
@@ -228772,6 +228878,13 @@
    "brand": "Vodafone",
    "name": "Smart ultra 7",
    "device": "VFD700"
+  }
+ ],
+ "SmartV22": [
+  {
+   "brand": "Vodafone",
+   "name": "SmartV22",
+   "device": "Smart_V22"
   }
  ],
  "VFD 620": [
@@ -238672,6 +238785,13 @@
    "brand": "ZTE",
    "name": "ZTE A2018",
    "device": "candice"
+  }
+ ],
+ "A202ZT": [
+  {
+   "brand": "ZTE",
+   "name": "A202ZT",
+   "device": "Z6575S"
   }
  ],
  "ZTE A880": [
@@ -248880,6 +249000,13 @@
    "device": "AURA_X"
   }
  ],
+ "AURA_Z": [
+  {
+   "brand": "Zuum",
+   "name": "AURA Z",
+   "device": "AURA_Z"
+  }
+ ],
  "COVET": [
   {
    "brand": "Zuum",
@@ -252025,6 +252152,13 @@
    "brand": "koobee",
    "name": "Koobee K60",
    "device": "Koobee_K60"
+  }
+ ],
+ "SL004T": [
+  {
+   "brand": "koobee",
+   "name": "Koobee_K100",
+   "device": "SL004T"
   }
  ],
  "HaierP8B": [
