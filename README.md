@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-09-26
+Last sync is 2022-09-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5040,6 +5040,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Coppernic|TN502A1|access|access|
 |Core Innovations|CRTB7001|CRTB7001|CRTB7001|
 |Core Innovations|CTB1016G|CTB1016G|CTB1016G|
+|CosMedia|Meta-C1|YYT|4K Google TV Stick|
 |Covia|CP-G3|CP-G3|CP-G3|
 |Covia|CP-J55a|x5090_rh_j9_covia|CP-J55a|
 |Covia|CP-J55aW|CP_J55aW|CP-J55aW|
@@ -12663,6 +12664,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 12 Play|Infinix-X6816C|Infinix X6816C|
 |Infinix|Infinix HOT 12 Play NFC|Infinix-X6816D|Infinix X6816D|
 |Infinix|Infinix HOT 20|Infinix-X6826|Infinix X6826|
+|Infinix|Infinix HOT 20|Infinix-X6826B|Infinix X6826B|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623B|
 |Infinix|Infinix HOT 7|Infinix-X625C|Infinix X625C|
@@ -18029,6 +18031,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mecool|KD3|YYT|4K Google TV Stick|
 |Mecool|KM1|KM1|KM1|
 |Mecool|KM2|LAS|LEAP-S1|
+|Mecool|KM2 PLUS|YYC|4K Android TV Box|
 |Mecool|KM3|KM3|KM3|
 |Mecool|KM6|KM6|KM6|
 |Mecool|KM7|KM7|KM7|
@@ -27874,12 +27877,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS sense6|SH-54B|SH-54B|
 |Sharp|AQUOS sense6|ZMJ|SHG05|
 |Sharp|AQUOS sense6s|BOL|SHG07|
+|Sharp|AQUOS sense6s|Nee|SH-M19s-y|
 |Sharp|AQUOS sense6s|Nee|SH-RM19s|
 |Sharp|AQUOS wish|SX1|A103SH|
 |Sharp|AQUOS wish|SX1|A104SH|
 |Sharp|AQUOS wish|SX1|SH-M20|
 |Sharp|AQUOS wish|SX1|SH-WS10|
 |Sharp|AQUOS wish|YLI|SHG06|
+|Sharp|AQUOS wish2|ANK|SHG08|
 |Sharp|AQUOS wish2|SH-51C|SH-51C|
 |Sharp|AQUOS wish2|SXI|A204SH|
 |Sharp|AQUOS zero|SG801SH|801SH|

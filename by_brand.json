@@ -26074,6 +26074,13 @@
    "model": "CTB1016G"
   }
  ],
+ "CosMedia": [
+  {
+   "device": "YYT",
+   "name": "Meta-C1",
+   "model": "4K Google TV Stick"
+  }
+ ],
  "Covia": [
   {
    "device": "CP-G3",
@@ -65253,6 +65260,11 @@
    "model": "Infinix X6826"
   },
   {
+   "device": "Infinix-X6826B",
+   "name": "Infinix HOT 20",
+   "model": "Infinix X6826B"
+  },
+  {
    "device": "Infinix-X623",
    "name": "Infinix HOT 6X",
    "model": "Infinix X623"
@@ -92721,6 +92733,11 @@
    "device": "LAS",
    "name": "KM2",
    "model": "LEAP-S1"
+  },
+  {
+   "device": "YYC",
+   "name": "KM2 PLUS",
+   "model": "4K Android TV Box"
   },
   {
    "device": "KM3",
@@ -143036,6 +143053,11 @@
   {
    "device": "Nee",
    "name": "AQUOS sense6s",
+   "model": "SH-M19s-y"
+  },
+  {
+   "device": "Nee",
+   "name": "AQUOS sense6s",
    "model": "SH-RM19s"
   },
   {
@@ -143062,6 +143084,11 @@
    "device": "YLI",
    "name": "AQUOS wish",
    "model": "SHG06"
+  },
+  {
+   "device": "ANK",
+   "name": "AQUOS wish2",
+   "model": "SHG08"
   },
   {
    "device": "SH-51C",

@@ -38351,6 +38351,43 @@
    "device": "CTB1016G"
   }
  ],
+ "4K Google TV Stick": [
+  {
+   "brand": "CosMedia",
+   "name": "Meta-C1",
+   "device": "YYT"
+  },
+  {
+   "brand": "Mecool",
+   "name": "KD3",
+   "device": "YYT"
+  },
+  {
+   "brand": "Next",
+   "name": "4K TV Stick",
+   "device": "YYT"
+  },
+  {
+   "brand": "REGZA",
+   "name": "RSG-11B",
+   "device": "YYT"
+  },
+  {
+   "brand": "Skyworth",
+   "name": "Leap-S2",
+   "device": "YYT"
+  },
+  {
+   "brand": "Strong",
+   "name": "SRT41",
+   "device": "YYT"
+  },
+  {
+   "brand": "realme",
+   "name": "4K Google TV Stick",
+   "device": "YYT"
+  }
+ ],
  "CP-G3": [
   {
    "brand": "Covia",
@@ -90198,6 +90235,13 @@
    "device": "Infinix-X6826"
   }
  ],
+ "Infinix X6826B": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 20",
+   "device": "Infinix-X6826B"
+  }
+ ],
  "Infinix X623": [
   {
    "brand": "Infinix",
@@ -125450,38 +125494,6 @@
    "device": "KD1"
   }
  ],
- "4K Google TV Stick": [
-  {
-   "brand": "Mecool",
-   "name": "KD3",
-   "device": "YYT"
-  },
-  {
-   "brand": "Next",
-   "name": "4K TV Stick",
-   "device": "YYT"
-  },
-  {
-   "brand": "REGZA",
-   "name": "RSG-11B",
-   "device": "YYT"
-  },
-  {
-   "brand": "Skyworth",
-   "name": "Leap-S2",
-   "device": "YYT"
-  },
-  {
-   "brand": "Strong",
-   "name": "SRT41",
-   "device": "YYT"
-  },
-  {
-   "brand": "realme",
-   "name": "4K Google TV Stick",
-   "device": "YYT"
-  }
- ],
  "KM1": [
   {
    "brand": "Mecool",
@@ -125514,6 +125526,13 @@
    "brand": "Thomson",
    "name": "LEAP-S1",
    "device": "LAS"
+  }
+ ],
+ "4K Android TV Box": [
+  {
+   "brand": "Mecool",
+   "name": "KM2 PLUS",
+   "device": "YYC"
   }
  ],
  "KM3": [
@@ -190308,6 +190327,13 @@
    "device": "BOL"
   }
  ],
+ "SH-M19s-y": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense6s",
+   "device": "Nee"
+  }
+ ],
  "SH-RM19s": [
   {
    "brand": "Sharp",
@@ -190348,6 +190374,13 @@
    "brand": "Sharp",
    "name": "AQUOS wish",
    "device": "YLI"
+  }
+ ],
+ "SHG08": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS wish2",
+   "device": "ANK"
   }
  ],
  "SH-51C": [

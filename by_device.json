@@ -40985,6 +40985,43 @@
    "model": "CTB1016G"
   }
  ],
+ "YYT": [
+  {
+   "brand": "CosMedia",
+   "name": "Meta-C1",
+   "model": "4K Google TV Stick"
+  },
+  {
+   "brand": "Mecool",
+   "name": "KD3",
+   "model": "4K Google TV Stick"
+  },
+  {
+   "brand": "Next",
+   "name": "4K TV Stick",
+   "model": "4K Google TV Stick"
+  },
+  {
+   "brand": "REGZA",
+   "name": "RSG-11B",
+   "model": "4K Google TV Stick"
+  },
+  {
+   "brand": "Skyworth",
+   "name": "Leap-S2",
+   "model": "4K Google TV Stick"
+  },
+  {
+   "brand": "Strong",
+   "name": "SRT41",
+   "model": "4K Google TV Stick"
+  },
+  {
+   "brand": "realme",
+   "name": "4K Google TV Stick",
+   "model": "4K Google TV Stick"
+  }
+ ],
  "CP-G3": [
   {
    "brand": "Covia",
@@ -89905,6 +89942,13 @@
    "model": "Infinix X6826"
   }
  ],
+ "Infinix-X6826B": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 20",
+   "model": "Infinix X6826B"
+  }
+ ],
  "Infinix-X623": [
   {
    "brand": "Infinix",
@@ -123446,38 +123490,6 @@
    "model": "KD1"
   }
  ],
- "YYT": [
-  {
-   "brand": "Mecool",
-   "name": "KD3",
-   "model": "4K Google TV Stick"
-  },
-  {
-   "brand": "Next",
-   "name": "4K TV Stick",
-   "model": "4K Google TV Stick"
-  },
-  {
-   "brand": "REGZA",
-   "name": "RSG-11B",
-   "model": "4K Google TV Stick"
-  },
-  {
-   "brand": "Skyworth",
-   "name": "Leap-S2",
-   "model": "4K Google TV Stick"
-  },
-  {
-   "brand": "Strong",
-   "name": "SRT41",
-   "model": "4K Google TV Stick"
-  },
-  {
-   "brand": "realme",
-   "name": "4K Google TV Stick",
-   "model": "4K Google TV Stick"
-  }
- ],
  "KM1": [
   {
    "brand": "Mecool",
@@ -123510,6 +123522,13 @@
    "brand": "Thomson",
    "name": "LEAP-S1",
    "model": "LEAP-S1"
+  }
+ ],
+ "YYC": [
+  {
+   "brand": "Mecool",
+   "name": "KM2 PLUS",
+   "model": "4K Android TV Box"
   }
  ],
  "KM3": [
@@ -184823,6 +184842,11 @@
   {
    "brand": "Sharp",
    "name": "AQUOS sense6s",
+   "model": "SH-M19s-y"
+  },
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense6s",
    "model": "SH-RM19s"
   }
  ],
@@ -184853,6 +184877,13 @@
    "brand": "Sharp",
    "name": "AQUOS wish",
    "model": "SHG06"
+  }
+ ],
+ "ANK": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS wish2",
+   "model": "SHG08"
   }
  ],
  "SH-51C": [
