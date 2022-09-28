@@ -20491,6 +20491,13 @@
    "device": "Bmobile_B61Pro"
   }
  ],
+ "B63Pro": [
+  {
+   "brand": "BMobile",
+   "name": "B63Pro",
+   "device": "Bmobile_B63Pro_MV03"
+  }
+ ],
  "B70Pro": [
   {
    "brand": "BMobile",
@@ -39282,6 +39289,13 @@
    "brand": "QPS Digital Electronics",
    "name": "P50",
    "device": "P50"
+  }
+ ],
+ "POCKET 3": [
+  {
+   "brand": "Cubot",
+   "name": "POCKET 3",
+   "device": "POCKET_3"
   }
  ],
  "Pocket": [
@@ -94462,6 +94476,13 @@
    "device": "P51"
   }
  ],
+ "itel P10001L": [
+  {
+   "brand": "Itel",
+   "name": "Pad1",
+   "device": "itel-P10001L"
+  }
+ ],
  "itel Prime 4": [
   {
    "brand": "Itel",
@@ -148935,6 +148956,11 @@
    "brand": "Orange",
    "name": "TV Box",
    "device": "zi4450v_ors"
+  },
+  {
+   "brand": "Orange",
+   "name": "TV Box 4K",
+   "device": "zc4450v_orm"
   }
  ],
  "Zilo": [

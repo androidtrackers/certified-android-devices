@@ -13139,6 +13139,11 @@
    "model": "Bmobile B61Pro"
   },
   {
+   "device": "Bmobile_B63Pro_MV03",
+   "name": "B63Pro",
+   "model": "B63Pro"
+  },
+  {
    "device": "Bmobile_B70Pro",
    "name": "B70Pro",
    "model": "B70Pro"
@@ -26722,6 +26727,11 @@
    "device": "P60",
    "name": "P60",
    "model": "P60"
+  },
+  {
+   "device": "POCKET_3",
+   "name": "POCKET 3",
+   "model": "POCKET 3"
   },
   {
    "device": "Pocket",
@@ -68487,6 +68497,11 @@
    "device": "P51",
    "name": "P51",
    "model": "itel P51"
+  },
+  {
+   "device": "itel-P10001L",
+   "name": "Pad1",
+   "model": "itel P10001L"
   },
   {
    "device": "itel_Prime4",
@@ -111389,6 +111404,11 @@
   {
    "device": "zi4450v_ors",
    "name": "TV Box",
+   "model": "Orange TV Box"
+  },
+  {
+   "device": "zc4450v_orm",
+   "name": "TV Box 4K",
    "model": "Orange TV Box"
   },
   {

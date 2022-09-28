@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-09-27
+Last sync is 2022-09-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2543,6 +2543,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|B60Pro_DG|Bmobile_B60Pro_DG|B60Pro_DG|
 |BMobile|B60Pro_MV03|B60Pro_MV03|B60Pro_MV03|
 |BMobile|B61Pro_OM|Bmobile_B61Pro|Bmobile B61Pro|
+|BMobile|B63Pro|Bmobile_B63Pro_MV03|B63Pro|
 |BMobile|B70Pro|Bmobile_B70Pro|B70Pro|
 |BMobile|B70pro|Bmobile_B70Pro_MV03|B70Pro|
 |BMobile|BL40|Bmobile_BL40_MV12|BL40_MV12|
@@ -5164,6 +5165,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|P40|P40|P40|
 |Cubot|P50|P50|P50|
 |Cubot|P60|P60|P60|
+|Cubot|POCKET 3|POCKET_3|POCKET 3|
 |Cubot|Pocket|Pocket|Pocket|
 |Cubot|QUEST|QUEST|QUEST|
 |Cubot|QUEST LITE|QUEST_LITE|QUEST LITE|
@@ -13299,6 +13301,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|P37|itel-P651W|itel P651W|
 |Itel|P38|itel-P661W|itel P661W|
 |Itel|P51|P51|itel P51|
+|Itel|Pad1|itel-P10001L|itel P10001L|
 |Itel|Prime 4|itel_Prime4|itel Prime 4|
 |Itel|S11|S11|itel S11|
 |Itel|S11 Plus|S11Plus|itel S11 Plus|
@@ -21668,6 +21671,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Orange|Sego|Orange_Sego|Orange Sego|
 |Orange|TV Box|zc4455v_orb|Orange TV Box|
 |Orange|TV Box|zi4450v_ors|Orange TV Box|
+|Orange|TV Box 4K|zc4450v_orm|Orange TV Box|
 |Orange|Zilo|Orange_Zilo|Zilo|
 |Orange|idol S|Diablo_LTE|Orange Niva|
 |Orange TV|Descodificador Orange TV|KSTB6130|KSTB6130|
