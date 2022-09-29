@@ -6209,6 +6209,13 @@
    "model": "BUZZ 3 Plus"
   }
  ],
+ "CLEVER 3": [
+  {
+   "brand": "ACE (Global)",
+   "device": "CLEVER_3",
+   "model": "CLEVER 3"
+  }
+ ],
  "URBAN 3": [
   {
    "brand": "ACE (Global)",
@@ -41948,13 +41955,6 @@
    "model": "PGN-508"
   }
  ],
- "CLEVER 3": [
-  {
-   "brand": "Condor",
-   "device": "CLEVER_3",
-   "model": "CLEVER 3"
-  }
- ],
  "C_5": [
   {
    "brand": "Condor",
@@ -41967,11 +41967,6 @@
    "brand": "Condor",
    "device": "TB108W",
    "model": "TB108W"
-  },
-  {
-   "brand": "KONKA",
-   "device": "KC516",
-   "model": "KC516"
   }
  ],
  "G6 Pro": [
@@ -67724,6 +67719,20 @@
    "brand": "Google",
    "device": "bluejay",
    "model": "Pixel 6a"
+  }
+ ],
+ "Pixel 7": [
+  {
+   "brand": "Google",
+   "device": "panther",
+   "model": "Pixel 7"
+  }
+ ],
+ "Pixel 7 Pro": [
+  {
+   "brand": "Google",
+   "device": "cheetah",
+   "model": "Pixel 7 Pro"
   }
  ],
  "Pixel C": [
@@ -99751,6 +99760,13 @@
    "model": "Cygnus45"
   }
  ],
+ "KC516": [
+  {
+   "brand": "KONKA",
+   "device": "KC516",
+   "model": "KC516"
+  }
+ ],
  "KC516_Pro": [
   {
    "brand": "KONKA",
@@ -100638,6 +100654,13 @@
   }
  ],
  "Element 5": [
+  {
+   "brand": "Kalley",
+   "device": "Element_5",
+   "model": "Element 5"
+  }
+ ],
+ "Element 5 Plus": [
   {
    "brand": "Kalley",
    "device": "Element_5",
@@ -103016,7 +103039,7 @@
    "model": "KIDS_FIVE"
   }
  ],
- "Acer": [
+ "AS10LXPro": [
   {
    "brand": "KrossElegance",
    "device": "AS10LXPro",

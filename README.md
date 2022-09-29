@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-09-28
+Last sync is 2022-09-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -47,6 +47,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ABCTECH|X5|X5|X5|
 |ACE (Global)|BUZZ 3|BUZZ_3|BUZZ 3|
 |ACE (Global)|BUZZ 3 Plus|BUZZ_3_Plus|BUZZ 3 Plus|
+|ACE (Global)|CLEVER 3|CLEVER_3|CLEVER 3|
 |ACE (Global)|URBAN 3|URBAN_3|URBAN 3|
 |ACE France|AS0218|AS0218|BUZZ 1|
 |ACE France|AS0518|AS0518|URBAN 1 Pro|
@@ -4634,7 +4635,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Condor|C1+|C1Plus|C1+|
 |Condor|C6+|PGN_508|PGN-508|
 |Condor|C7|PGN_506|PGN-506|
-|Condor|CLEVER 3|CLEVER_3|CLEVER 3|
 |Condor|C_5|u970_5|C-6|
 |Condor|Customer need debug|TB108W|TB108W|
 |Condor|G6 Pro|PHQ526|PHQ526|
@@ -8232,6 +8232,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel 6|oriole|Pixel 6|
 |Google|Pixel 6 Pro|raven|Pixel 6 Pro|
 |Google|Pixel 6a|bluejay|Pixel 6a|
+|Google|Pixel 7|panther|Pixel 7|
+|Google|Pixel 7 Pro|cheetah|Pixel 7 Pro|
 |Google|Pixel C|dragon|Pixel C|
 |Google|Pixel Slate|nocturne_cheets|Google Pixel Slate|
 |Google|Pixel Slate|nocturne_cheets|Pixel Slate|
@@ -13756,8 +13758,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KONDE|KD2|KD2|KD2|
 |KONDE|KIDS_FIVE|KIDS_FIVE|KIDS_FIVE|
 |KONKA|"Asia Pacific|Europe|MiddleEast，Africa"|
-|KONKA|Customer need debug|KC516|KC516|
 |KONKA|Cygnus|Cygnus|Cygnus|
+|KONKA|KC516|KC516|KC516|
 |KONKA|KC516_Pro|KC516_Pro|KC516 Pro|
 |KONKA|KM7012BK|KM7012BK|KM7012BK|
 |KONKA|KONKA|seocho|KONKA 4K Android TV|
@@ -13902,6 +13904,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kalley|Element 4|Element_4|Element 4|
 |Kalley|Element 4 Plus|smartphone|Element 4 Plus|
 |Kalley|Element 5|Element_5|Element 5|
+|Kalley|Element 5 Plus|Element_5|Element 5|
 |Kalley|Element Play|ELEMENT_PLAY|ELEMENT PLAY|
 |Kalley|Gold Pro|GOLD_PRO|GOLD_PRO|
 |Kalley|K-BOOK73G|K_BOOK73G|K-BOOK73G|
@@ -14249,7 +14252,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Krono|SKY|SKY|SKY|
 |Krono|ULTRA|ULTRA|ULTRA|
 |Krono|kIDS_FIVE|KIDS_FIVE|KIDS_FIVE|
-|KrossElegance|Acer|AS10LXPro|SOSPIRO-AS10LXPro|
+|KrossElegance|AS10LXPro|AS10LXPro|SOSPIRO-AS10LXPro|
 |KrossElegance|KE-TB1032OF|KE-TB1032OF|KE-TB1032OF|
 |KrossElegance|KE-TB815|KE-TB815|KE-TB815|
 |KrossElegance|KE-TB816OF|KE-TB816OF|KE-TB816OF|
