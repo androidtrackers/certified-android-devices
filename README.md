@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-09-29
+Last sync is 2022-09-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8232,8 +8232,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel 6|oriole|Pixel 6|
 |Google|Pixel 6 Pro|raven|Pixel 6 Pro|
 |Google|Pixel 6a|bluejay|Pixel 6a|
-|Google|Pixel 7|panther|Pixel 7|
-|Google|Pixel 7 Pro|cheetah|Pixel 7 Pro|
 |Google|Pixel C|dragon|Pixel C|
 |Google|Pixel Slate|nocturne_cheets|Google Pixel Slate|
 |Google|Pixel Slate|nocturne_cheets|Pixel Slate|
@@ -9298,6 +9296,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|Haier Android TV ISDB|dupont|Haier Android TV ISDB|
 |Haier|Haier Android TV ISDB2K|broadway|Haier Android TV ISDB2K|
 |Haier|Haier Android TV PRO|daan|Haier Android TV PRO|
+|Haier|Haier Android TV PRO ISDB|daan|Haier Android TV PRO ISDB|
 |Haier|Haier Leisure L7|Haier_Leisure_L7|HM-N700-FL|
 |Haier|Haier Titan T5|Titan_T5|Titan_T5|
 |Haier|Haier android TV|hanyang|Haier 4K Android TV|
@@ -12438,6 +12437,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |INSYS|IH9-L614|IH9-L614|IH9-L614|
 |INSYS|KP1_S10|KP1_S10|KP1_S10|
 |INSYS|KT9-70RA|KT9-70RA|KT9-70RA|
+|INSYS|WH2-9832|WH2-9832|WH2-9832|
 |ION ELECTRONICS|Gravity|Gravity|Gravity|
 |ION ELECTRONICS|Kids|Kids|Kids|
 |ION ELECTRONICS|Orbit|Orbit|Orbit|
@@ -21157,6 +21157,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A55s 5G|OP52EBL1|A102OP|
 |Oppo|A57|A57|OPPO A57|
 |Oppo|A57|A57|OPPO A57t|
+|Oppo|A57s/A77|OP5353L1|CPH2385|
 |Oppo|A57t|A57|OPPO A57t|
 |Oppo|A59|A59|OPPO A59|
 |Oppo|A59|A59|OPPO A59m|
@@ -31506,6 +31507,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P30HD_ROW|P30HD|P30HD_ROW|
 |Teclast|P30HD_RU|P30HD|P30HD|
 |Teclast|P40HD_EEA|P40HD_EEA|P40HD|
+|Teclast|P80T_ROW|P80T|P80T_ROW|
 |Teclast|P80X|P80X|P80X|
 |Teclast|P80X_EEA|P80X|P80X|
 |Teclast|P80X_EEA|P80X|P80X_EEA|
@@ -36735,6 +36737,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE C2017|alice|ZTE C2017|
 |ZTE|ZTE Fanfare 3|kelly|Z852|
 |ZTE|ZTE Overture 3|jeff|Z851|
+|ZTE|ZTE T0801|P876T01J|ZTE T0801|
 |ZTE|ZTE Tempo X|grayjoylite|N9137|
 |ZTE|ZTE V0840|P817S01|ZTE V0840|
 |ZTE|ZTE V0920|P840S03|ZTE V0920|

@@ -67721,20 +67721,6 @@
    "model": "Pixel 6a"
   }
  ],
- "Pixel 7": [
-  {
-   "brand": "Google",
-   "device": "panther",
-   "model": "Pixel 7"
-  }
- ],
- "Pixel 7 Pro": [
-  {
-   "brand": "Google",
-   "device": "cheetah",
-   "model": "Pixel 7 Pro"
-  }
- ],
  "Pixel C": [
   {
    "brand": "Google",
@@ -74275,6 +74261,13 @@
    "brand": "Haier",
    "device": "daan",
    "model": "Haier Android TV PRO"
+  }
+ ],
+ "Haier Android TV PRO ISDB": [
+  {
+   "brand": "Haier",
+   "device": "daan",
+   "model": "Haier Android TV PRO ISDB"
   }
  ],
  "Haier Leisure L7": [
@@ -91455,6 +91448,13 @@
    "brand": "INSYS",
    "device": "KT9-70RA",
    "model": "KT9-70RA"
+  }
+ ],
+ "WH2-9832": [
+  {
+   "brand": "INSYS",
+   "device": "WH2-9832",
+   "model": "WH2-9832"
   }
  ],
  "Kids": [
@@ -143181,6 +143181,13 @@
    "brand": "Oppo",
    "device": "OP52EBL1",
    "model": "A102OP"
+  }
+ ],
+ "A57s/A77": [
+  {
+   "brand": "Oppo",
+   "device": "OP5353L1",
+   "model": "CPH2385"
   }
  ],
  "A57t": [
@@ -203966,6 +203973,13 @@
    "model": "P40HD"
   }
  ],
+ "P80T_ROW": [
+  {
+   "brand": "Teclast",
+   "device": "P80T",
+   "model": "P80T_ROW"
+  }
+ ],
  "P80X": [
   {
    "brand": "Teclast",
@@ -234355,6 +234369,13 @@
    "brand": "ZTE",
    "device": "jeff",
    "model": "Z851"
+  }
+ ],
+ "ZTE T0801": [
+  {
+   "brand": "ZTE",
+   "device": "P876T01J",
+   "model": "ZTE T0801"
   }
  ],
  "ZTE Tempo X": [

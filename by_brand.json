@@ -42780,16 +42780,6 @@
    "model": "Pixel 6a"
   },
   {
-   "device": "panther",
-   "name": "Pixel 7",
-   "model": "Pixel 7"
-  },
-  {
-   "device": "cheetah",
-   "name": "Pixel 7 Pro",
-   "model": "Pixel 7 Pro"
-  },
-  {
    "device": "dragon",
    "name": "Pixel C",
    "model": "Pixel C"
@@ -48194,6 +48184,11 @@
    "device": "daan",
    "name": "Haier Android TV PRO",
    "model": "Haier Android TV PRO"
+  },
+  {
+   "device": "daan",
+   "name": "Haier Android TV PRO ISDB",
+   "model": "Haier Android TV PRO ISDB"
   },
   {
    "device": "Haier_Leisure_L7",
@@ -64058,6 +64053,11 @@
    "device": "KT9-70RA",
    "name": "KT9-70RA",
    "model": "KT9-70RA"
+  },
+  {
+   "device": "WH2-9832",
+   "name": "WH2-9832",
+   "model": "WH2-9832"
   }
  ],
  "ION ELECTRONICS": [
@@ -108827,6 +108827,11 @@
    "device": "A57",
    "name": "A57",
    "model": "OPPO A57t"
+  },
+  {
+   "device": "OP5353L1",
+   "name": "A57s/A77",
+   "model": "CPH2385"
   },
   {
    "device": "A57",
@@ -161592,6 +161597,11 @@
    "model": "P40HD"
   },
   {
+   "device": "P80T",
+   "name": "P80T_ROW",
+   "model": "P80T_ROW"
+  },
+  {
    "device": "P80X",
    "name": "P80X",
    "model": "P80X"
@@ -188441,6 +188451,11 @@
    "device": "jeff",
    "name": "ZTE Overture 3",
    "model": "Z851"
+  },
+  {
+   "device": "P876T01J",
+   "name": "ZTE T0801",
+   "model": "ZTE T0801"
   },
   {
    "device": "grayjoylite",

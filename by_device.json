@@ -13986,6 +13986,11 @@
    "brand": "Haier",
    "name": "Haier Android TV PRO",
    "model": "Haier Android TV PRO"
+  },
+  {
+   "brand": "Haier",
+   "name": "Haier Android TV PRO ISDB",
+   "model": "Haier Android TV PRO ISDB"
   }
  ],
  "hanyang": [
@@ -63846,20 +63851,6 @@
    "model": "Pixel 6a"
   }
  ],
- "panther": [
-  {
-   "brand": "Google",
-   "name": "Pixel 7",
-   "model": "Pixel 7"
-  }
- ],
- "cheetah": [
-  {
-   "brand": "Google",
-   "name": "Pixel 7 Pro",
-   "model": "Pixel 7 Pro"
-  }
- ],
  "dragon": [
   {
    "brand": "Google",
@@ -88447,6 +88438,13 @@
    "brand": "INSYS",
    "name": "KT9-70RA",
    "model": "KT9-70RA"
+  }
+ ],
+ "WH2-9832": [
+  {
+   "brand": "INSYS",
+   "name": "WH2-9832",
+   "model": "WH2-9832"
   }
  ],
  "Gravity": [
@@ -143041,6 +143039,13 @@
    "brand": "Oppo",
    "name": "CPH2309",
    "model": "CPH2309"
+  }
+ ],
+ "OP5353L1": [
+  {
+   "brand": "Oppo",
+   "name": "A57s/A77",
+   "model": "CPH2385"
   }
  ],
  "A59": [
@@ -205973,6 +205978,13 @@
    "model": "P40HD"
   }
  ],
+ "P80T": [
+  {
+   "brand": "Teclast",
+   "name": "P80T_ROW",
+   "model": "P80T_ROW"
+  }
+ ],
  "P80X": [
   {
    "brand": "Teclast",
@@ -236707,6 +236719,13 @@
    "brand": "ZTE",
    "name": "ZTE Fanfare 3",
    "model": "Z852"
+  }
+ ],
+ "P876T01J": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE T0801",
+   "model": "ZTE T0801"
   }
  ],
  "grayjoylite": [
