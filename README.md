@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-09-30
+Last sync is 2022-10-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -16889,6 +16889,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab M8 (3rd Gen)|TB-8506X|Lenovo TB-8506X|
 |Lenovo|Lenovo Tab M8 (4th gen)|TB300FU|TB300FU|
 |Lenovo|Lenovo Tab M8 (4th gen)|TB300XU|TB300XU|
+|Lenovo|Lenovo Tab M9|TB310FU|TB310FU|
 |Lenovo|Lenovo Tab P10|X705F|Lenovo TB-X705F|
 |Lenovo|Lenovo Tab P10|X705L|Lenovo TB-X705L|
 |Lenovo|Lenovo Tab P10|X705M|Lenovo TB-X705M|
@@ -21369,6 +21370,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO Reno7 Z 5G|OP532FL1|CPH2343|
 |Oppo|OPPO Reno7 Z 5G/F21 Pro 5G/Reno8 Lite 5G|OP532FL1|CPH2343|
 |Oppo|OPPO Reno7/F21 Pro|OP533FL1|CPH2363|
+|Oppo|OPPO Reno8 5G|OP5339L1|CPH2359|
 |Oppo|OPPO Reno8 Pro 5G|OP5335L1|CPH2357|
 |Oppo|OPPO Watch|beluga|OPPO Watch|
 |Oppo|OPPO Watch|orca|OPPO Watch|
@@ -21577,6 +21579,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno6 Pro+ 5G|OP4EC1|PENM00|
 |Oppo|Reno7 Z 5G/Reno7 Lite 5G/Reno8 Lite 5G|OP532FL1|CPH2343|
 |Oppo|Reno7 中国版|OP5227|PFJM10|
+|Oppo|Reno8 Pro 5G|OP5335L1|CPH2357|
 |Oppo|U3|U3|U3|
 |Oppo|U707|U707|U707|
 |Oppo|U707T|U707T|U707T|

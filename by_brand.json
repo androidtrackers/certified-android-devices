@@ -86789,6 +86789,11 @@
    "model": "TB300XU"
   },
   {
+   "device": "TB310FU",
+   "name": "Lenovo Tab M9",
+   "model": "TB310FU"
+  },
+  {
    "device": "X705F",
    "name": "Lenovo Tab P10",
    "model": "Lenovo TB-X705F"
@@ -109889,6 +109894,11 @@
    "model": "CPH2363"
   },
   {
+   "device": "OP5339L1",
+   "name": "OPPO Reno8 5G",
+   "model": "CPH2359"
+  },
+  {
    "device": "OP5335L1",
    "name": "OPPO Reno8 Pro 5G",
    "model": "CPH2357"
@@ -110927,6 +110937,11 @@
    "device": "OP5227",
    "name": "Reno7 中国版",
    "model": "PFJM10"
+  },
+  {
+   "device": "OP5335L1",
+   "name": "Reno8 Pro 5G",
+   "model": "CPH2357"
   },
   {
    "device": "U3",

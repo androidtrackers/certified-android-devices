@@ -116192,6 +116192,13 @@
    "model": "TB300XU"
   }
  ],
+ "TB310FU": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M9",
+   "model": "TB310FU"
+  }
+ ],
  "X705F": [
   {
    "brand": "Lenovo",
@@ -144279,10 +144286,22 @@
    "model": "OPG04"
   }
  ],
+ "OP5339L1": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO Reno8 5G",
+   "model": "CPH2359"
+  }
+ ],
  "OP5335L1": [
   {
    "brand": "Oppo",
    "name": "OPPO Reno8 Pro 5G",
+   "model": "CPH2357"
+  },
+  {
+   "brand": "Oppo",
+   "name": "Reno8 Pro 5G",
    "model": "CPH2357"
   }
  ],

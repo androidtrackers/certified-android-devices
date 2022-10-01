@@ -117587,6 +117587,13 @@
    "model": "TB300XU"
   }
  ],
+ "Lenovo Tab M9": [
+  {
+   "brand": "Lenovo",
+   "device": "TB310FU",
+   "model": "TB310FU"
+  }
+ ],
  "Lenovo Tab P10": [
   {
    "brand": "Lenovo",
@@ -144443,6 +144450,13 @@
    "model": "CPH2363"
   }
  ],
+ "OPPO Reno8 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP5339L1",
+   "model": "CPH2359"
+  }
+ ],
  "OPPO Reno8 Pro 5G": [
   {
    "brand": "Oppo",
@@ -145771,6 +145785,13 @@
    "brand": "Oppo",
    "device": "OP5227",
    "model": "PFJM10"
+  }
+ ],
+ "Reno8 Pro 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP5335L1",
+   "model": "CPH2357"
   }
  ],
  "U707": [
