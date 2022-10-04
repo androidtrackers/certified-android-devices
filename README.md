@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-10-03
+Last sync is 2022-10-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -28691,6 +28691,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 5 III|XQ-BQ52|XQ-BQ52|
 |Sony|Xperia 5 III|XQ-BQ62|XQ-BQ62|
 |Sony|Xperia 5 III|XQ-BQ72|XQ-BQ72|
+|Sony|Xperia 5 IV|SO-54C|SO-54C|
 |Sony|Xperia 8|902SO|902SO|
 |Sony|Xperia 8|SOV42|SOV42|
 |Sony|Xperia 8|SOV42-u|SOV42-u|
