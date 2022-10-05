@@ -131027,6 +131027,11 @@
   },
   {
    "brand": "Motorola",
+   "device": "stanford",
+   "model": "Smart FHD TV"
+  },
+  {
+   "brand": "Motorola",
    "device": "zhongshan",
    "model": "4K SMART TV"
   }

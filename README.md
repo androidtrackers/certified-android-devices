@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-10-04
+Last sync is 2022-10-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -19116,6 +19116,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|Lenovo XT2081-4|guam|Lenovo XT2081-4|
 |Motorola|Lenovo XT2091-7|cebu|Lenovo XT2091-7|
 |Motorola|MOTOROLA|stanford|2K SMART TV|
+|Motorola|MOTOROLA|stanford|Smart FHD TV|
 |Motorola|MOTOROLA|zhongshan|4K SMART TV|
 |Motorola|Master Touch|umts_primus|XT621|
 |Motorola|Master Touch XT621|umts_primus|XT621|
