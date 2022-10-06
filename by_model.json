@@ -5871,11 +5871,6 @@
    "device": "stanford"
   },
   {
-   "brand": "JVC",
-   "name": "SA",
-   "device": "stanford"
-  },
-  {
    "brand": "KTCtv",
    "name": "Banana",
    "device": "stanford"
@@ -7679,12 +7674,12 @@
   {
    "brand": "Siragon",
    "name": "SA",
-   "device": "stanford"
+   "device": "zhongshan"
   },
   {
    "brand": "Siragon",
-   "name": "SA",
-   "device": "zhongshan"
+   "name": "SIRAGON",
+   "device": "stanford"
   }
  ],
  "AIWA 2K TV": [
@@ -30141,6 +30136,11 @@
    "brand": "CILICO",
    "name": "C80",
    "device": "C80"
+  },
+  {
+   "brand": "OSCAL",
+   "name": "C80",
+   "device": "C80"
   }
  ],
  "F750": [
@@ -48377,6 +48377,13 @@
    "device": "EXO_Wave_i716"
   }
  ],
+ "EXO_Wave_i726": [
+  {
+   "brand": "EXO S.A.",
+   "name": "EXO_Wave_i726",
+   "device": "EXO_Wave_i726"
+  }
+ ],
  "Wave i007Kids": [
   {
    "brand": "EXO S.A.",
@@ -54677,6 +54684,18 @@
    "device": "FR-CK718"
   }
  ],
+ "F9": [
+  {
+   "brand": "FreeYond",
+   "name": "F9",
+   "device": "F9"
+  },
+  {
+   "brand": "Gol Mobile",
+   "name": "F9",
+   "device": "F9"
+  }
+ ],
  "TONE m15": [
   {
    "brand": "Freebit",
@@ -60402,13 +60421,6 @@
    "device": "F3Prime"
   }
  ],
- "F9": [
-  {
-   "brand": "Gol Mobile",
-   "name": "F9",
-   "device": "F9"
-  }
- ],
  "F9prime": [
   {
    "brand": "Gol Mobile",
@@ -62329,6 +62341,11 @@
    "brand": "HP",
    "name": "HP Engage One Pro AIO System",
    "device": "anderson_gw"
+  },
+  {
+   "brand": "HP",
+   "name": "HP Engage One Pro AIO System",
+   "device": "anderson_gw_i5"
   }
  ],
  "HP Pro 8 Tablet with Voice": [
@@ -68688,6 +68705,13 @@
    "brand": "Hammer",
    "name": "Hammer Blade 5G",
    "device": "Hammer_Blade_5G"
+  }
+ ],
+ "Hammer_Construction": [
+  {
+   "brand": "Hammer",
+   "name": "Hammer Construction",
+   "device": "Hammer_Construction"
   }
  ],
  "Hammer_Energy_2_2022": [
@@ -88446,6 +88470,13 @@
    "device": "A180"
   }
  ],
+ "A180_Plus": [
+  {
+   "brand": "INOI",
+   "name": "INOI Note 12",
+   "device": "A180"
+  }
+ ],
  "INOI_7i_Lite": [
   {
    "brand": "INOI",
@@ -97909,13 +97940,6 @@
    "device": "stanford"
   }
  ],
- "2K Siera SMART TV": [
-  {
-   "brand": "KTCtv",
-   "name": "SA",
-   "device": "stanford"
-  }
- ],
  "40DSA": [
   {
    "brand": "KTCtv",
@@ -97928,18 +97952,6 @@
    "device": "stanford"
   }
  ],
- "F VIZZION TV": [
-  {
-   "brand": "KTCtv",
-   "name": "SA",
-   "device": "stanford"
-  },
-  {
-   "brand": "VIZZION",
-   "name": "vizzion",
-   "device": "zhongshan"
-  }
- ],
  "43FSA": [
   {
    "brand": "KTCtv",
@@ -97950,6 +97962,13 @@
    "brand": "KTCtv",
    "name": "Zitro",
    "device": "zhongshan"
+  }
+ ],
+ "2K Siera SMART TV": [
+  {
+   "brand": "KTCtv",
+   "name": "SIERA",
+   "device": "stanford"
   }
  ],
  "4K Siera SMART TV": [
@@ -97974,6 +97993,18 @@
    "brand": "Tesla",
    "name": "South American",
    "device": "patrick"
+  }
+ ],
+ "F VIZZION TV": [
+  {
+   "brand": "KTCtv",
+   "name": "VIZZION",
+   "device": "stanford"
+  },
+  {
+   "brand": "VIZZION",
+   "name": "vizzion",
+   "device": "zhongshan"
   }
  ],
  "TMS-KR01P": [
@@ -125292,6 +125323,13 @@
    "brand": "Maze_speed",
    "name": "SSB1001T",
    "device": "SSB1001T"
+  }
+ ],
+ "SSB8T323": [
+  {
+   "brand": "Maze_speed",
+   "name": "SSB8T323",
+   "device": "SSB8T323"
   }
  ],
  "meanIT K10": [
@@ -161928,6 +161966,13 @@
    "device": "RAVOZ_Z8"
   }
  ],
+ "RAYO X1": [
+  {
+   "brand": "RAYO_MOVIl",
+   "name": "RAYO X1",
+   "device": "RAYO_X1"
+  }
+ ],
  "RCT6716Q25": [
   {
    "brand": "RCA",
@@ -168414,6 +168459,13 @@
    "brand": "SUNMAX",
    "name": "Model_T",
    "device": "Model_T"
+  }
+ ],
+ "Model X": [
+  {
+   "brand": "SUNMAX",
+   "name": "Model_X",
+   "device": "Model_X"
   }
  ],
  "Model Y": [
@@ -200900,6 +200952,13 @@
    "device": "Atom_ii"
   }
  ],
+ "Atom3": [
+  {
+   "brand": "Symphony",
+   "name": "Atom3",
+   "device": "Atom3"
+  }
+ ],
  "E90": [
   {
    "brand": "Symphony",
@@ -213219,7 +213278,7 @@
  ],
  "Tata Sky Binge Plus": [
   {
-   "brand": "TataSky",
+   "brand": "Tataplay",
    "name": "Tata Sky Binge Plus",
    "device": "usw4026tat"
   }
@@ -214001,6 +214060,11 @@
    "brand": "Teclast",
    "name": "P40HD_EEA",
    "device": "P40HD_EEA"
+  },
+  {
+   "brand": "Teclast",
+   "name": "P40HD_ROW",
+   "device": "P40HD_ROW"
   }
  ],
  "P80T_ROW": [
@@ -219861,6 +219925,13 @@
    "device": "Armor_15"
   }
  ],
+ "Armor 17 Pro": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor 17 Pro",
+   "device": "Armor_17_Pro"
+  }
+ ],
  "Armor_2": [
   {
    "brand": "Ulefone",
@@ -221937,6 +222008,13 @@
    "brand": "VALIFONE",
    "name": "V710",
    "device": "V710"
+  }
+ ],
+ "V730": [
+  {
+   "brand": "VALIFONE",
+   "name": "V730",
+   "device": "V730"
   }
  ],
  "TAB7Q804VAL": [
@@ -249315,6 +249393,13 @@
    "brand": "Zuum",
    "name": "STELLAR M2",
    "device": "STELLAR_M2"
+  }
+ ],
+ "STELLAR M3": [
+  {
+   "brand": "Zuum",
+   "name": "STELLAR M3",
+   "device": "STELLAR_M3"
   }
  ],
  "STELLAR MINI": [

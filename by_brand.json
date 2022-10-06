@@ -33495,6 +33495,11 @@
    "model": "EXO_Wave_i716"
   },
   {
+   "device": "EXO_Wave_i726",
+   "name": "EXO_Wave_i726",
+   "model": "EXO_Wave_i726"
+  },
+  {
    "device": "Wave_i007Kids",
    "name": "Wave i007Kids",
    "model": "Wave i007Kids"
@@ -38188,6 +38193,13 @@
    "device": "FR-CK718",
    "name": "FR-CK718",
    "model": "FR-CK718"
+  }
+ ],
+ "FreeYond": [
+  {
+   "device": "F9",
+   "name": "F9",
+   "model": "F9"
   }
  ],
  "Freebit": [
@@ -43840,6 +43852,11 @@
    "model": "HP Engage One Pro AIO System"
   },
   {
+   "device": "anderson_gw_i5",
+   "name": "HP Engage One Pro AIO System",
+   "model": "HP Engage One Pro AIO System"
+  },
+  {
    "device": "neetu",
    "name": "Pro 8 Tablet with Voice",
    "model": "HP Pro 8 Tablet with Voice"
@@ -48694,6 +48711,11 @@
    "device": "Hammer_Blade_5G",
    "name": "Hammer Blade 5G",
    "model": "Hammer_Blade_5G"
+  },
+  {
+   "device": "Hammer_Construction",
+   "name": "Hammer Construction",
+   "model": "Hammer_Construction"
   },
   {
    "device": "Energy_2_2022",
@@ -63824,6 +63846,11 @@
    "model": "A180"
   },
   {
+   "device": "A180",
+   "name": "INOI Note 12",
+   "model": "A180_Plus"
+  },
+  {
    "device": "INOI_7i_Lite",
    "name": "INOI _7i_Lite",
    "model": "INOI_7i_Lite"
@@ -69747,11 +69774,6 @@
    "model": "AI PONT"
   },
   {
-   "device": "stanford",
-   "name": "SA",
-   "model": "2K SMART TV"
-  },
-  {
    "device": "mateo",
    "name": "Smart TV",
    "model": "2K SA Smart TV"
@@ -71409,22 +71431,17 @@
   {
    "device": "stanford",
    "name": "SA",
-   "model": "2K Siera SMART TV"
-  },
-  {
-   "device": "stanford",
-   "name": "SA",
    "model": "40DSA"
-  },
-  {
-   "device": "stanford",
-   "name": "SA",
-   "model": "F VIZZION TV"
   },
   {
    "device": "zhongshan",
    "name": "SA",
    "model": "43FSA"
+  },
+  {
+   "device": "stanford",
+   "name": "SIERA",
+   "model": "2K Siera SMART TV"
   },
   {
    "device": "zhongshan",
@@ -71445,6 +71462,11 @@
    "device": "zhongshan",
    "name": "VISTA",
    "model": "4K SMART TV"
+  },
+  {
+   "device": "stanford",
+   "name": "VIZZION",
+   "model": "F VIZZION TV"
   },
   {
    "device": "stanford",
@@ -92515,6 +92537,11 @@
    "device": "SSB1001T",
    "name": "SSB1001T",
    "model": "SSB1001T"
+  },
+  {
+   "device": "SSB8T323",
+   "name": "SSB8T323",
+   "model": "SSB8T323"
   }
  ],
  "MeanIT": [
@@ -107179,6 +107206,11 @@
    "model": "C60"
   },
   {
+   "device": "C80",
+   "name": "C80",
+   "model": "C80"
+  },
+  {
    "device": "S60",
    "name": "S60",
    "model": "S60"
@@ -121773,6 +121805,13 @@
    "model": "RAVOZ Z3 Lite"
   }
  ],
+ "RAYO_MOVIl": [
+  {
+   "device": "RAYO_X1",
+   "name": "RAYO X1",
+   "model": "RAYO X1"
+  }
+ ],
  "RCA": [
   {
    "device": "RCT6716Q25",
@@ -127015,6 +127054,11 @@
    "device": "Model_T",
    "name": "Model_T",
    "model": "Model T"
+  },
+  {
+   "device": "Model_X",
+   "name": "Model_X",
+   "model": "Model X"
   },
   {
    "device": "Model_Y",
@@ -144820,13 +144864,13 @@
  ],
  "Siragon": [
   {
-   "device": "stanford",
+   "device": "zhongshan",
    "name": "SA",
    "model": "SMART TV"
   },
   {
-   "device": "zhongshan",
-   "name": "SA",
+   "device": "stanford",
+   "name": "SIRAGON",
    "model": "SMART TV"
   },
   {
@@ -151617,6 +151661,11 @@
    "device": "Atom_ii",
    "name": "Atom ii",
    "model": "Symphony Atom ii"
+  },
+  {
+   "device": "Atom3",
+   "name": "Atom3",
+   "model": "Atom3"
   },
   {
    "device": "E90",
@@ -160992,7 +161041,7 @@
    "model": "TTBKB10-A1"
   }
  ],
- "TataSky": [
+ "Tataplay": [
   {
    "device": "usw4026tat",
    "name": "Tata Sky Binge Plus",
@@ -161619,6 +161668,11 @@
   {
    "device": "P40HD_EEA",
    "name": "P40HD_EEA",
+   "model": "P40HD"
+  },
+  {
+   "device": "P40HD_ROW",
+   "name": "P40HD_ROW",
    "model": "P40HD"
   },
   {
@@ -166394,6 +166448,11 @@
    "model": "Armor 15"
   },
   {
+   "device": "Armor_17_Pro",
+   "name": "Armor 17 Pro",
+   "model": "Armor 17 Pro"
+  },
+  {
    "device": "Armor_2",
    "name": "Armor 2",
    "model": "Armor_2"
@@ -168239,6 +168298,11 @@
    "device": "V710",
    "name": "V710",
    "model": "V710"
+  },
+  {
+   "device": "V730",
+   "name": "V730",
+   "model": "V730"
   },
   {
    "device": "W888",
@@ -190044,6 +190108,11 @@
    "device": "STELLAR_M2",
    "name": "STELLAR M2",
    "model": "STELLAR M2"
+  },
+  {
+   "device": "STELLAR_M3",
+   "name": "STELLAR M3",
+   "model": "STELLAR M3"
   },
   {
    "device": "STELLAR_MINI",

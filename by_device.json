@@ -1266,11 +1266,6 @@
    "model": "2K SMART TV"
   },
   {
-   "brand": "JVC",
-   "name": "SA",
-   "model": "2K SMART TV"
-  },
-  {
    "brand": "K-ELEC",
    "name": "KELEC",
    "model": "40D"
@@ -1353,22 +1348,22 @@
   {
    "brand": "KTCtv",
    "name": "SA",
-   "model": "2K Siera SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "SA",
    "model": "40DSA"
   },
   {
    "brand": "KTCtv",
-   "name": "SA",
-   "model": "F VIZZION TV"
+   "name": "SIERA",
+   "model": "2K Siera SMART TV"
   },
   {
    "brand": "KTCtv",
    "name": "VISTA",
    "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "VIZZION",
+   "model": "F VIZZION TV"
   },
   {
    "brand": "KTCtv",
@@ -1422,7 +1417,7 @@
   },
   {
    "brand": "Siragon",
-   "name": "SA",
+   "name": "SIRAGON",
    "model": "SMART TV"
   },
   {
@@ -32676,6 +32671,11 @@
    "brand": "CILICO",
    "name": "C80",
    "model": "C80"
+  },
+  {
+   "brand": "OSCAL",
+   "name": "C80",
+   "model": "C80"
   }
  ],
  "F750": [
@@ -51479,6 +51479,13 @@
    "model": "EXO_Wave_i716"
   }
  ],
+ "EXO_Wave_i726": [
+  {
+   "brand": "EXO S.A.",
+   "name": "EXO_Wave_i726",
+   "model": "EXO_Wave_i726"
+  }
+ ],
  "Wave_i007Kids": [
   {
    "brand": "EXO S.A.",
@@ -57709,6 +57716,23 @@
    "model": "FR-CK718"
   }
  ],
+ "F9": [
+  {
+   "brand": "FreeYond",
+   "name": "F9",
+   "model": "F9"
+  },
+  {
+   "brand": "Gionee",
+   "name": "F9",
+   "model": "GIONEE F9"
+  },
+  {
+   "brand": "Gol Mobile",
+   "name": "F9",
+   "model": "F9"
+  }
+ ],
  "arima6735_65u_l1": [
   {
    "brand": "Freebit",
@@ -62216,18 +62240,6 @@
    "model": "GIONEE F8 Neo"
   }
  ],
- "F9": [
-  {
-   "brand": "Gionee",
-   "name": "F9",
-   "model": "GIONEE F9"
-  },
-  {
-   "brand": "Gol Mobile",
-   "name": "F9",
-   "model": "F9"
-  }
- ],
  "F9_Plus": [
   {
    "brand": "Gionee",
@@ -65130,6 +65142,13 @@
   }
  ],
  "anderson_gw": [
+  {
+   "brand": "HP",
+   "name": "HP Engage One Pro AIO System",
+   "model": "HP Engage One Pro AIO System"
+  }
+ ],
+ "anderson_gw_i5": [
   {
    "brand": "HP",
    "name": "HP Engage One Pro AIO System",
@@ -70924,6 +70943,13 @@
    "brand": "Hammer",
    "name": "Hammer Blade 5G",
    "model": "Hammer_Blade_5G"
+  }
+ ],
+ "Hammer_Construction": [
+  {
+   "brand": "Hammer",
+   "name": "Hammer Construction",
+   "model": "Hammer_Construction"
   }
  ],
  "Energy_2_2022": [
@@ -88153,6 +88179,11 @@
    "brand": "INOI",
    "name": "INOI Note 12",
    "model": "A180"
+  },
+  {
+   "brand": "INOI",
+   "name": "INOI Note 12",
+   "model": "A180_Plus"
   }
  ],
  "INOI_7i_Lite": [
@@ -123258,6 +123289,13 @@
    "brand": "Maze_speed",
    "name": "SSB1001T",
    "model": "SSB1001T"
+  }
+ ],
+ "SSB8T323": [
+  {
+   "brand": "Maze_speed",
+   "name": "SSB8T323",
+   "model": "SSB8T323"
   }
  ],
  "C4": [
@@ -158817,6 +158855,13 @@
    "model": "RAVOZ Z8"
   }
  ],
+ "RAYO_X1": [
+  {
+   "brand": "RAYO_MOVIl",
+   "name": "RAYO X1",
+   "model": "RAYO X1"
+  }
+ ],
  "RCT6716Q25": [
   {
    "brand": "RCA",
@@ -164885,6 +164930,13 @@
    "brand": "SUNMAX",
    "name": "Model_T",
    "model": "Model T"
+  }
+ ],
+ "Model_X": [
+  {
+   "brand": "SUNMAX",
+   "name": "Model_X",
+   "model": "Model X"
   }
  ],
  "Model_Y": [
@@ -195382,6 +195434,13 @@
    "model": "Symphony Atom ii"
   }
  ],
+ "Atom3": [
+  {
+   "brand": "Symphony",
+   "name": "Atom3",
+   "model": "Atom3"
+  }
+ ],
  "E90": [
   {
    "brand": "Symphony",
@@ -205245,7 +205304,7 @@
  ],
  "usw4026tat": [
   {
-   "brand": "TataSky",
+   "brand": "Tataplay",
    "name": "Tata Sky Binge Plus",
    "model": "Tata Sky Binge Plus"
   }
@@ -206006,6 +206065,13 @@
   {
    "brand": "Teclast",
    "name": "P40HD_EEA",
+   "model": "P40HD"
+  }
+ ],
+ "P40HD_ROW": [
+  {
+   "brand": "Teclast",
+   "name": "P40HD_ROW",
    "model": "P40HD"
   }
  ],
@@ -211546,6 +211612,13 @@
    "model": "Armor 15"
   }
  ],
+ "Armor_17_Pro": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor 17 Pro",
+   "model": "Armor 17 Pro"
+  }
+ ],
  "Armor_2": [
   {
    "brand": "Ulefone",
@@ -213639,6 +213712,13 @@
    "brand": "VALIFONE",
    "name": "V710",
    "model": "V710"
+  }
+ ],
+ "V730": [
+  {
+   "brand": "VALIFONE",
+   "name": "V730",
+   "model": "V730"
   }
  ],
  "W888": [
@@ -238525,6 +238605,13 @@
    "brand": "Zuum",
    "name": "STELLAR M2",
    "model": "STELLAR M2"
+  }
+ ],
+ "STELLAR_M3": [
+  {
+   "brand": "Zuum",
+   "name": "STELLAR M3",
+   "model": "STELLAR M3"
   }
  ],
  "STELLAR_MINI": [

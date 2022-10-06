@@ -36422,6 +36422,11 @@
    "brand": "CILICO",
    "device": "C80",
    "model": "C80"
+  },
+  {
+   "brand": "OSCAL",
+   "device": "C80",
+   "model": "C80"
   }
  ],
  "F750": [
@@ -55355,6 +55360,13 @@
    "model": "EXO_Wave_i716"
   }
  ],
+ "EXO_Wave_i726": [
+  {
+   "brand": "EXO S.A.",
+   "device": "EXO_Wave_i726",
+   "model": "EXO_Wave_i726"
+  }
+ ],
  "Wave i007Kids": [
   {
    "brand": "EXO S.A.",
@@ -61552,6 +61564,38 @@
    "model": "FR-CK718"
   }
  ],
+ "F9": [
+  {
+   "brand": "FreeYond",
+   "device": "F9",
+   "model": "F9"
+  },
+  {
+   "brand": "Gionee",
+   "device": "F9",
+   "model": "GIONEE F9"
+  },
+  {
+   "brand": "Gol Mobile",
+   "device": "F9",
+   "model": "F9"
+  },
+  {
+   "brand": "Oppo",
+   "device": "CPH1823",
+   "model": "CPH1823"
+  },
+  {
+   "brand": "Oppo",
+   "device": "CPH1825",
+   "model": "CPH1825"
+  },
+  {
+   "brand": "Oppo",
+   "device": "CPH1881",
+   "model": "CPH1881"
+  }
+ ],
  "A55J": [
   {
    "brand": "Freebit",
@@ -65924,33 +65968,6 @@
    "model": "GIONEE F8 Neo"
   }
  ],
- "F9": [
-  {
-   "brand": "Gionee",
-   "device": "F9",
-   "model": "GIONEE F9"
-  },
-  {
-   "brand": "Gol Mobile",
-   "device": "F9",
-   "model": "F9"
-  },
-  {
-   "brand": "Oppo",
-   "device": "CPH1823",
-   "model": "CPH1823"
-  },
-  {
-   "brand": "Oppo",
-   "device": "CPH1825",
-   "model": "CPH1825"
-  },
-  {
-   "brand": "Oppo",
-   "device": "CPH1881",
-   "model": "CPH1881"
-  }
- ],
  "F9 Plus": [
   {
    "brand": "Gionee",
@@ -69292,6 +69309,11 @@
   {
    "brand": "HP",
    "device": "anderson_gw",
+   "model": "HP Engage One Pro AIO System"
+  },
+  {
+   "brand": "HP",
+   "device": "anderson_gw_i5",
    "model": "HP Engage One Pro AIO System"
   }
  ],
@@ -75022,6 +75044,13 @@
    "brand": "Hammer",
    "device": "Hammer_Blade_5G",
    "model": "Hammer_Blade_5G"
+  }
+ ],
+ "Hammer Construction": [
+  {
+   "brand": "Hammer",
+   "device": "Hammer_Construction",
+   "model": "Hammer_Construction"
   }
  ],
  "Hammer Energy 2 2022": [
@@ -91161,6 +91190,11 @@
    "brand": "INOI",
    "device": "A180",
    "model": "A180"
+  },
+  {
+   "brand": "INOI",
+   "device": "A180",
+   "model": "A180_Plus"
   }
  ],
  "INOI _7i_Lite": [
@@ -98323,43 +98357,6 @@
    "model": "AI PONT"
   }
  ],
- "SA": [
-  {
-   "brand": "JVC",
-   "device": "stanford",
-   "model": "2K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "device": "stanford",
-   "model": "2K Siera SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "device": "stanford",
-   "model": "40DSA"
-  },
-  {
-   "brand": "KTCtv",
-   "device": "stanford",
-   "model": "F VIZZION TV"
-  },
-  {
-   "brand": "KTCtv",
-   "device": "zhongshan",
-   "model": "43FSA"
-  },
-  {
-   "brand": "Siragon",
-   "device": "stanford",
-   "model": "SMART TV"
-  },
-  {
-   "brand": "Siragon",
-   "device": "zhongshan",
-   "model": "SMART TV"
-  }
- ],
  "South Africa/Australia /Israel/Paraguay": [
   {
    "brand": "JVC",
@@ -100397,6 +100394,30 @@
    "model": "40D"
   }
  ],
+ "SA": [
+  {
+   "brand": "KTCtv",
+   "device": "stanford",
+   "model": "40DSA"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "zhongshan",
+   "model": "43FSA"
+  },
+  {
+   "brand": "Siragon",
+   "device": "zhongshan",
+   "model": "SMART TV"
+  }
+ ],
+ "SIERA": [
+  {
+   "brand": "KTCtv",
+   "device": "stanford",
+   "model": "2K Siera SMART TV"
+  }
+ ],
  "Siera": [
   {
    "brand": "KTCtv",
@@ -100421,6 +100442,13 @@
    "brand": "KTCtv",
    "device": "zhongshan",
    "model": "4K SMART TV"
+  }
+ ],
+ "VIZZION": [
+  {
+   "brand": "KTCtv",
+   "device": "stanford",
+   "model": "F VIZZION TV"
   }
  ],
  "VON": [
@@ -124490,6 +124518,13 @@
    "brand": "Maze_speed",
    "device": "SSB1001T",
    "model": "SSB1001T"
+  }
+ ],
+ "SSB8T323": [
+  {
+   "brand": "Maze_speed",
+   "device": "SSB8T323",
+   "model": "SSB8T323"
   }
  ],
  "MTAB32_EEA": [
@@ -159153,6 +159188,13 @@
    "model": "RAVOZ Z3 Lite"
   }
  ],
+ "RAYO X1": [
+  {
+   "brand": "RAYO_MOVIl",
+   "device": "RAYO_X1",
+   "model": "RAYO X1"
+  }
+ ],
  "RCA RCT6716Q25": [
   {
    "brand": "RCA",
@@ -165451,6 +165493,13 @@
    "brand": "SUNMAX",
    "device": "Model_T",
    "model": "Model T"
+  }
+ ],
+ "Model_X": [
+  {
+   "brand": "SUNMAX",
+   "device": "Model_X",
+   "model": "Model X"
   }
  ],
  "Model_Y": [
@@ -185250,6 +185299,13 @@
    "model": "SINTEL-X1"
   }
  ],
+ "SIRAGON": [
+  {
+   "brand": "Siragon",
+   "device": "stanford",
+   "model": "SMART TV"
+  }
+ ],
  "SP 6200": [
   {
    "brand": "Siragon",
@@ -193018,6 +193074,13 @@
    "brand": "Symphony",
    "device": "Atom_ii",
    "model": "Symphony Atom ii"
+  }
+ ],
+ "Atom3": [
+  {
+   "brand": "Symphony",
+   "device": "Atom3",
+   "model": "Atom3"
   }
  ],
  "E90": [
@@ -203255,7 +203318,7 @@
  ],
  "Tata Sky Binge Plus": [
   {
-   "brand": "TataSky",
+   "brand": "Tataplay",
    "device": "usw4026tat",
    "model": "Tata Sky Binge Plus"
   }
@@ -204003,6 +204066,13 @@
   {
    "brand": "Teclast",
    "device": "P40HD_EEA",
+   "model": "P40HD"
+  }
+ ],
+ "P40HD_ROW": [
+  {
+   "brand": "Teclast",
+   "device": "P40HD_ROW",
    "model": "P40HD"
   }
  ],
@@ -209457,6 +209527,13 @@
    "model": "Armor 15"
   }
  ],
+ "Armor 17 Pro": [
+  {
+   "brand": "Ulefone",
+   "device": "Armor_17_Pro",
+   "model": "Armor 17 Pro"
+  }
+ ],
  "Armor 2": [
   {
    "brand": "Ulefone",
@@ -211676,6 +211753,13 @@
    "brand": "VALIFONE",
    "device": "V710",
    "model": "V710"
+  }
+ ],
+ "V730": [
+  {
+   "brand": "VALIFONE",
+   "device": "V730",
+   "model": "V730"
   }
  ],
  "W888": [
@@ -236294,6 +236378,13 @@
    "brand": "Zuum",
    "device": "STELLAR_M2",
    "model": "STELLAR M2"
+  }
+ ],
+ "STELLAR M3": [
+  {
+   "brand": "Zuum",
+   "device": "STELLAR_M3",
+   "model": "STELLAR M3"
   }
  ],
  "STELLAR MINI": [
