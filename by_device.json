@@ -1317,6 +1317,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "MTEK",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "Maxsonic_elite",
    "model": "2K SMART TV"
   },
@@ -1339,6 +1344,11 @@
    "brand": "KTCtv",
    "name": "POWER_GREEN",
    "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "PROMETHEUS",
+   "model": "SMART TV"
   },
   {
    "brand": "KTCtv",
@@ -63612,6 +63622,13 @@
    "model": "GT-I9505G"
   }
  ],
+ "r11": [
+  {
+   "brand": "Google",
+   "name": "Google Pixel Watch",
+   "model": "Google Pixel Watch"
+  }
+ ],
  "vsoc_kiwi_x86_64": [
   {
    "brand": "Google",
@@ -63890,6 +63907,13 @@
    "brand": "Google",
    "name": "Pixel Slate",
    "model": "nocturne"
+  }
+ ],
+ "r11btwifi": [
+  {
+   "brand": "Google",
+   "name": "Pixel Watch",
+   "model": "Google Pixel Watch"
   }
  ],
  "marlin": [
@@ -151462,6 +151486,13 @@
    "model": "PHILIPS TV"
   }
  ],
+ "queenstown": [
+  {
+   "brand": "Philips",
+   "name": "Smart TV",
+   "model": "Philips 4K A1"
+  }
+ ],
  "sindap": [
   {
    "brand": "Philips",
@@ -226922,6 +226953,13 @@
    "brand": "Xiaomi",
    "name": "Xiaomi 12S Pro",
    "model": "2206122SC"
+  }
+ ],
+ "plato": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 12T",
+   "model": "22071212AG"
   }
  ],
  "diting": [

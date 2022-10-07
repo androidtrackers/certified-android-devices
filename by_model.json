@@ -5892,6 +5892,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "MTEK",
+   "device": "stanford"
+  },
+  {
+   "brand": "KTCtv",
    "name": "Maxsonic_elite",
    "device": "stanford"
   },
@@ -7670,6 +7675,11 @@
    "brand": "KTCtv",
    "name": "FASTLIFE",
    "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "PROMETHEUS",
+   "device": "stanford"
   },
   {
    "brand": "Siragon",
@@ -60658,6 +60668,18 @@
    "brand": "Google",
    "name": "Google Android Emulator",
    "device": "generic_x86_arm"
+  }
+ ],
+ "Google Pixel Watch": [
+  {
+   "brand": "Google",
+   "name": "Google Pixel Watch",
+   "device": "r11"
+  },
+  {
+   "brand": "Google",
+   "name": "Pixel Watch",
+   "device": "r11btwifi"
   }
  ],
  "HPE device": [
@@ -154092,6 +154114,13 @@
    "device": "S395"
   }
  ],
+ "Philips 4K A1": [
+  {
+   "brand": "Philips",
+   "name": "Smart TV",
+   "device": "queenstown"
+  }
+ ],
  "PI7000": [
   {
    "brand": "Philips",
@@ -235967,6 +235996,13 @@
    "brand": "Xiaomi",
    "name": "Xiaomi 12S Ultra",
    "device": "thor"
+  }
+ ],
+ "22071212AG": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 12T",
+   "device": "plato"
   }
  ],
  "22081212C": [

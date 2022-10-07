@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-10-06
+Last sync is 2022-10-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8196,6 +8196,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Emulator|generic_x86_64|Android SDK built for x86_64|
 |Google|Galaxy S4 Google Play edition|jgedlte|GT-I9505G|
 |Google|Google Android Emulator|generic_x86_arm|sdk_gphone_x86|
+|Google|Google Pixel Watch|r11|Google Pixel Watch|
 |Google|Google Play Games on PC|vsoc_kiwi_x86_64|HPE device|
 |Google|Intel Alder Lake Chromebook|brya_cheets|brya|
 |Google|Intel Amber Lake Y Chromebook|rammus_cheets|rammus|
@@ -8238,6 +8239,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel Slate|nocturne_cheets|Google Pixel Slate|
 |Google|Pixel Slate|nocturne_cheets|Pixel Slate|
 |Google|Pixel Slate|nocturne_cheets|nocturne|
+|Google|Pixel Watch|r11btwifi|Google Pixel Watch|
 |Google|Pixel XL|marlin|Pixel XL|
 |Google|Pixelbook|atlas_cheets|Google Pixelbook Go|
 |Google|Pixelbook|atlas_cheets|atlas|
@@ -13850,6 +13852,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|KTC|stanford|2K SMART TV|
 |KTCtv|KTC|zhongshan|4K SMART TV|
 |KTCtv|LikeMe|zhongshan|4K SMART TV|
+|KTCtv|MTEK|stanford|2K SMART TV|
 |KTCtv|MTEK|zhongshan|4K SMART TV|
 |KTCtv|Maxsonic_elite|stanford|2K SMART TV|
 |KTCtv|Maxsonic_elite|zhongshan|4K SMART TV|
@@ -13860,6 +13863,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|Nobrand|stanford|Smart FHD TV|
 |KTCtv|POWER GREEN|zhongshan|4K SMART TV|
 |KTCtv|POWER_GREEN|stanford|2K SMART TV|
+|KTCtv|PROMETHEUS|stanford|SMART TV|
 |KTCtv|Rosso|stanford|40D|
 |KTCtv|SA|stanford|40DSA|
 |KTCtv|SA|zhongshan|43FSA|
@@ -22480,6 +22484,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|S395|S395|Philips S395|
 |Philips|Smart TV|guui|PHILIPS 4k TV|
 |Philips|Smart TV|hino|PHILIPS TV|
+|Philips|Smart TV|queenstown|Philips 4K A1|
 |Philips|Smart TV|sindap|PHILIPS 4K TV|
 |Philips|T8 PI7000|Tablet_8|PI7000|
 |Philips|TLE722G|TLE722G|TLE722G|
@@ -34995,6 +35000,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 12S|mayfly|2206123SC|
 |Xiaomi|Xiaomi 12S Pro|unicorn|2206122SC|
 |Xiaomi|Xiaomi 12S Ultra|thor|2203121C|
+|Xiaomi|Xiaomi 12T|plato|22071212AG|
 |Xiaomi|Xiaomi 12T Pro|diting|22081212C|
 |Xiaomi|Xiaomi 12X|psyche|2112123AC|
 |Xiaomi|Xiaomi Civi|mona|2109119BC|

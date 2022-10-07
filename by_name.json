@@ -7216,6 +7216,11 @@
   },
   {
    "brand": "Philips",
+   "device": "queenstown",
+   "model": "Philips 4K A1"
+  },
+  {
+   "brand": "Philips",
    "device": "sindap",
    "model": "PHILIPS 4K TV"
   },
@@ -67488,6 +67493,13 @@
    "model": "sdk_gphone_x86"
   }
  ],
+ "Google Pixel Watch": [
+  {
+   "brand": "Google",
+   "device": "r11",
+   "model": "Google Pixel Watch"
+  }
+ ],
  "Google Play Games on PC": [
   {
    "brand": "Google",
@@ -67760,6 +67772,13 @@
    "brand": "Google",
    "device": "nocturne_cheets",
    "model": "nocturne"
+  }
+ ],
+ "Pixel Watch": [
+  {
+   "brand": "Google",
+   "device": "r11btwifi",
+   "model": "Google Pixel Watch"
   }
  ],
  "Pixel XL": [
@@ -100326,6 +100345,11 @@
  "MTEK": [
   {
    "brand": "KTCtv",
+   "device": "stanford",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "device": "zhongshan",
    "model": "4K SMART TV"
   }
@@ -100385,6 +100409,13 @@
    "brand": "KTCtv",
    "device": "stanford",
    "model": "2K SMART TV"
+  }
+ ],
+ "PROMETHEUS": [
+  {
+   "brand": "KTCtv",
+   "device": "stanford",
+   "model": "SMART TV"
   }
  ],
  "Rosso": [
@@ -225220,6 +225251,13 @@
    "brand": "Xiaomi",
    "device": "thor",
    "model": "2203121C"
+  }
+ ],
+ "Xiaomi 12T": [
+  {
+   "brand": "Xiaomi",
+   "device": "plato",
+   "model": "22071212AG"
   }
  ],
  "Xiaomi 12T Pro": [

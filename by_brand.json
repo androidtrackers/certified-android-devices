@@ -42602,6 +42602,11 @@
    "model": "sdk_gphone_x86"
   },
   {
+   "device": "r11",
+   "name": "Google Pixel Watch",
+   "model": "Google Pixel Watch"
+  },
+  {
    "device": "vsoc_kiwi_x86_64",
    "name": "Google Play Games on PC",
    "model": "HPE device"
@@ -42810,6 +42815,11 @@
    "device": "nocturne_cheets",
    "name": "Pixel Slate",
    "model": "nocturne"
+  },
+  {
+   "device": "r11btwifi",
+   "name": "Pixel Watch",
+   "model": "Google Pixel Watch"
   },
   {
    "device": "marlin",
@@ -71374,6 +71384,11 @@
    "model": "4K SMART TV"
   },
   {
+   "device": "stanford",
+   "name": "MTEK",
+   "model": "2K SMART TV"
+  },
+  {
    "device": "zhongshan",
    "name": "MTEK",
    "model": "4K SMART TV"
@@ -71422,6 +71437,11 @@
    "device": "stanford",
    "name": "POWER_GREEN",
    "model": "2K SMART TV"
+  },
+  {
+   "device": "stanford",
+   "name": "PROMETHEUS",
+   "model": "SMART TV"
   },
   {
    "device": "stanford",
@@ -115568,6 +115588,11 @@
    "device": "hino",
    "name": "Smart TV",
    "model": "PHILIPS TV"
+  },
+  {
+   "device": "queenstown",
+   "name": "Smart TV",
+   "model": "Philips 4K A1"
   },
   {
    "device": "sindap",
@@ -179649,6 +179674,11 @@
    "device": "thor",
    "name": "Xiaomi 12S Ultra",
    "model": "2203121C"
+  },
+  {
+   "device": "plato",
+   "name": "Xiaomi 12T",
+   "model": "22071212AG"
   },
   {
    "device": "diting",
