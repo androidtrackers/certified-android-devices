@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-10-07
+Last sync is 2022-10-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13451,6 +13451,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel TV|shibuya|itel TV|
 |Itel|itel V41|itel-W4001S|itel W4001S|
 |Itel|itel V51 LTE|itel-L5007S|itel L5007S|
+|Itel|itel Vision 5|itel-S663LC|itel S663LC|
 |Itel|itel Vision1(P36 Play)|itel-L6005|itel L6005|
 |Itel|itel Vision2s|itel-P651L|itel P651L|
 |Itel|itel W4001|itel-W4001|itel W4001|
