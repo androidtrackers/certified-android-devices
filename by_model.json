@@ -70142,6 +70142,11 @@
   },
   {
    "brand": "Hisense",
+   "name": "SmartTV 4K FFM",
+   "device": "wuyishan"
+  },
+  {
+   "brand": "Hisense",
    "name": "U60H",
    "device": "songshan"
   },
@@ -236013,6 +236018,13 @@
   }
  ],
  "22081212C": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 12T Pro",
+   "device": "diting"
+  }
+ ],
+ "22081212UG": [
   {
    "brand": "Xiaomi",
    "name": "Xiaomi 12T Pro",

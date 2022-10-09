@@ -75297,6 +75297,18 @@
    "model": "E2281SS"
   }
  ],
+ "wuyishan": [
+  {
+   "brand": "Hisense",
+   "name": "SmartTV 4K FFM",
+   "model": "SmartTV 4K FFM"
+  },
+  {
+   "brand": "Hisense",
+   "name": "U70H/U8H/U80H/U85H",
+   "model": "SmartTV 4K FFM"
+  }
+ ],
  "rk3028a": [
   {
    "brand": "Hisense",
@@ -75416,13 +75428,6 @@
    "brand": "Hisense",
    "name": "U988AE",
    "model": "HS-U988"
-  }
- ],
- "wuyishan": [
-  {
-   "brand": "Hisense",
-   "name": "U70H/U8H/U80H/U85H",
-   "model": "SmartTV 4K FFM"
   }
  ],
  "U800": [
@@ -226974,6 +226979,11 @@
    "brand": "Xiaomi",
    "name": "Xiaomi 12T Pro",
    "model": "22081212C"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 12T Pro",
+   "model": "22081212UG"
   }
  ],
  "psyche": [

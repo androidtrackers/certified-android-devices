@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-10-08
+Last sync is 2022-10-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10169,6 +10169,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Sero7|rk3168|E2171SS|
 |Hisense|Sero7 LE|rk3026|E2371|
 |Hisense|Sero8|rk3188|E2281SS|
+|Hisense|SmartTV 4K FFM|wuyishan|SmartTV 4K FFM|
 |Hisense|SoundTab MA-317|rk3028a|Hisense SoundTab MA-317|
 |Hisense|SoundTab MA-327|rk3028a|Hisense SoundTab MA-327|
 |Hisense|T963|HS7331CSC|Hisense T963|
@@ -35003,6 +35004,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 12S Ultra|thor|2203121C|
 |Xiaomi|Xiaomi 12T|plato|22071212AG|
 |Xiaomi|Xiaomi 12T Pro|diting|22081212C|
+|Xiaomi|Xiaomi 12T Pro|diting|22081212UG|
 |Xiaomi|Xiaomi 12X|psyche|2112123AC|
 |Xiaomi|Xiaomi Civi|mona|2109119BC|
 |Xiaomi|Xiaomi Civi 1S|zijin|2109119BC|

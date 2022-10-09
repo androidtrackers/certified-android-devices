@@ -52617,6 +52617,11 @@
    "model": "E2281SS"
   },
   {
+   "device": "wuyishan",
+   "name": "SmartTV 4K FFM",
+   "model": "SmartTV 4K FFM"
+  },
+  {
    "device": "rk3028a",
    "name": "SoundTab MA-317",
    "model": "Hisense SoundTab MA-317"
@@ -179689,6 +179694,11 @@
    "device": "diting",
    "name": "Xiaomi 12T Pro",
    "model": "22081212C"
+  },
+  {
+   "device": "diting",
+   "name": "Xiaomi 12T Pro",
+   "model": "22081212UG"
   },
   {
    "device": "psyche",

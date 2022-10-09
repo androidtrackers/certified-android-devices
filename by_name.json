@@ -79757,6 +79757,13 @@
    "model": "E2281SS"
   }
  ],
+ "SmartTV 4K FFM": [
+  {
+   "brand": "Hisense",
+   "device": "wuyishan",
+   "model": "SmartTV 4K FFM"
+  }
+ ],
  "SoundTab MA-317": [
   {
    "brand": "Hisense",
@@ -225272,6 +225279,11 @@
    "brand": "Xiaomi",
    "device": "diting",
    "model": "22081212C"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "diting",
+   "model": "22081212UG"
   }
  ],
  "Xiaomi 12X": [
