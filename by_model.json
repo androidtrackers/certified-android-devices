@@ -118278,6 +118278,11 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab P11 (2nd Gen)",
    "device": "TB350FU"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "小新Pad Plus 2023",
+   "device": "TB350FU"
   }
  ],
  "TB350XU": [
@@ -147255,6 +147260,13 @@
    "brand": "Oppo",
    "name": "PFZM10",
    "device": "OP5281"
+  }
+ ],
+ "PGAM10": [
+  {
+   "brand": "Oppo",
+   "name": "PGAM10",
+   "device": "OP5285"
   }
  ],
  "PGBM10": [

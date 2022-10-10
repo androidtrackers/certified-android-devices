@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-10-09
+Last sync is 2022-10-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17138,6 +17138,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|启天K10 Pro|TB226XC|Lenovo TB226XC|
 |Lenovo|小新 Pad GT|TB-J616F|Lenovo TB-J616F|
 |Lenovo|小新 Pad GT|TB-J616N|Lenovo TB-J616N|
+|Lenovo|小新Pad Plus 2023|TB350FU|TB350FU|
 |Lenovo|小新Pad Pro 12.6|Q706F|Lenovo TB-Q706F|
 |Lenovo|小新Pad Pro 2021|J716F|Lenovo TB-J716F|
 |Lenovo|小新Pad Pro 2022|TB132FU|TB132FU|
@@ -21412,6 +21413,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|PFTM10|OP526D|PFTM10|
 |Oppo|PFTM20|OP526D|PFTM20|
 |Oppo|PFZM10|OP5281|PFZM10|
+|Oppo|PGAM10|OP5285|PGAM10|
 |Oppo|PGBM10|OP5287|PGBM10|
 |Oppo|PGCM10|OPD2A0|PGCM10|
 |Oppo|R1001|OPPO72_13076|R1001|

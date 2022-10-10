@@ -119052,6 +119052,13 @@
    "model": "Lenovo TB-J616N"
   }
  ],
+ "小新Pad Plus 2023": [
+  {
+   "brand": "Lenovo",
+   "device": "TB350FU",
+   "model": "TB350FU"
+  }
+ ],
  "小新Pad Pro 12.6": [
   {
    "brand": "Lenovo",
@@ -144734,6 +144741,13 @@
    "brand": "Oppo",
    "device": "OP5281",
    "model": "PFZM10"
+  }
+ ],
+ "PGAM10": [
+  {
+   "brand": "Oppo",
+   "device": "OP5285",
+   "model": "PGAM10"
   }
  ],
  "PGBM10": [

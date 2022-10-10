@@ -88036,6 +88036,11 @@
    "model": "Lenovo TB-J616N"
   },
   {
+   "device": "TB350FU",
+   "name": "小新Pad Plus 2023",
+   "model": "TB350FU"
+  },
+  {
    "device": "Q706F",
    "name": "小新Pad Pro 12.6",
    "model": "Lenovo TB-Q706F"
@@ -110104,6 +110109,11 @@
    "device": "OP5281",
    "name": "PFZM10",
    "model": "PFZM10"
+  },
+  {
+   "device": "OP5285",
+   "name": "PGAM10",
+   "model": "PGAM10"
   },
   {
    "device": "OP5287",
