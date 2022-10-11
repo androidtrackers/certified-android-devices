@@ -60670,18 +60670,6 @@
    "device": "generic_x86_arm"
   }
  ],
- "Google Pixel Watch": [
-  {
-   "brand": "Google",
-   "name": "Google Pixel Watch",
-   "device": "r11"
-  },
-  {
-   "brand": "Google",
-   "name": "Pixel Watch",
-   "device": "r11btwifi"
-  }
- ],
  "HPE device": [
   {
    "brand": "Google",
@@ -60982,6 +60970,18 @@
    "brand": "Google",
    "name": "Pixel Slate",
    "device": "nocturne_cheets"
+  }
+ ],
+ "Google Pixel Watch": [
+  {
+   "brand": "Google",
+   "name": "Pixel Watch",
+   "device": "r11"
+  },
+  {
+   "brand": "Google",
+   "name": "Pixel Watch",
+   "device": "r11btwifi"
   }
  ],
  "Pixel XL": [
@@ -70053,6 +70053,48 @@
    "device": "Vision"
   }
  ],
+ "SmartTV 4K FFM": [
+  {
+   "brand": "Hisense",
+   "name": "55U7H",
+   "device": "wuyishan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "A65",
+   "device": "songshan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "A6H/E6H/A6600H/A6500H/E7H/A6HA",
+   "device": "songshan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "U60H",
+   "device": "songshan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "U6H",
+   "device": "songshan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "U70H/U8H/U80H/U85H",
+   "device": "wuyishan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "huangshan",
+   "device": "huangshan"
+  },
+  {
+   "brand": "Noblex",
+   "name": "X9500",
+   "device": "songshan"
+  }
+ ],
  "HLTE700T": [
   {
    "brand": "Hisense",
@@ -70127,48 +70169,6 @@
    "brand": "Hisense",
    "name": "A5 Pro",
    "device": "HLTE203T"
-  }
- ],
- "SmartTV 4K FFM": [
-  {
-   "brand": "Hisense",
-   "name": "A65",
-   "device": "songshan"
-  },
-  {
-   "brand": "Hisense",
-   "name": "A6H/E6H/A6600H/A6500H/E7H/A6HA",
-   "device": "songshan"
-  },
-  {
-   "brand": "Hisense",
-   "name": "SmartTV 4K FFM",
-   "device": "wuyishan"
-  },
-  {
-   "brand": "Hisense",
-   "name": "U60H",
-   "device": "songshan"
-  },
-  {
-   "brand": "Hisense",
-   "name": "U6H",
-   "device": "songshan"
-  },
-  {
-   "brand": "Hisense",
-   "name": "U70H/U8H/U80H/U85H",
-   "device": "wuyishan"
-  },
-  {
-   "brand": "Hisense",
-   "name": "huangshan",
-   "device": "huangshan"
-  },
-  {
-   "brand": "Noblex",
-   "name": "X9500",
-   "device": "songshan"
   }
  ],
  "HLTE730T": [
@@ -170440,6 +170440,13 @@
    "device": "a23"
   }
  ],
+ "SC-56C": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A23 5G",
+   "device": "SC-56C"
+  }
+ ],
  "SM-A2360": [
   {
    "brand": "Samsung",
@@ -190520,6 +190527,13 @@
    "brand": "Sharp",
    "name": "AQUOS sense6s",
    "device": "Nee"
+  }
+ ],
+ "A208SH": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense7 plus",
+   "device": "Quattro"
   }
  ],
  "A103SH": [
@@ -217152,13 +217166,6 @@
    "device": "Telenor_K530"
   }
  ],
- "MediaBox": [
-  {
-   "brand": "Telenor",
-   "name": "MediaBox",
-   "device": "MediaBox_B866V2"
-  }
- ],
  "Telenor N940": [
   {
    "brand": "Telenor",
@@ -236792,6 +236799,13 @@
    "brand": "YesTeL",
    "name": "X7_EEA",
    "device": "X7_EEA"
+  }
+ ],
+ "MediaBox": [
+  {
+   "brand": "Yettel",
+   "name": "MediaBox",
+   "device": "MediaBox_B866V2"
   }
  ],
  "4E": [

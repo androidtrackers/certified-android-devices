@@ -63622,13 +63622,6 @@
    "model": "GT-I9505G"
   }
  ],
- "r11": [
-  {
-   "brand": "Google",
-   "name": "Google Pixel Watch",
-   "model": "Google Pixel Watch"
-  }
- ],
  "vsoc_kiwi_x86_64": [
   {
    "brand": "Google",
@@ -63907,6 +63900,13 @@
    "brand": "Google",
    "name": "Pixel Slate",
    "model": "nocturne"
+  }
+ ],
+ "r11": [
+  {
+   "brand": "Google",
+   "name": "Pixel Watch",
+   "model": "Google Pixel Watch"
   }
  ],
  "r11btwifi": [
@@ -72298,6 +72298,18 @@
    "model": "Vision"
   }
  ],
+ "wuyishan": [
+  {
+   "brand": "Hisense",
+   "name": "55U7H",
+   "model": "SmartTV 4K FFM"
+  },
+  {
+   "brand": "Hisense",
+   "name": "U70H/U8H/U80H/U85H",
+   "model": "SmartTV 4K FFM"
+  }
+ ],
  "taishan": [
   {
    "brand": "Hisense",
@@ -75295,18 +75307,6 @@
    "brand": "Hisense",
    "name": "Sero8",
    "model": "E2281SS"
-  }
- ],
- "wuyishan": [
-  {
-   "brand": "Hisense",
-   "name": "SmartTV 4K FFM",
-   "model": "SmartTV 4K FFM"
-  },
-  {
-   "brand": "Hisense",
-   "name": "U70H/U8H/U80H/U85H",
-   "model": "SmartTV 4K FFM"
   }
  ],
  "rk3028a": [
@@ -166545,6 +166545,13 @@
    "model": "SM-A235N"
   }
  ],
+ "SC-56C": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A23 5G",
+   "model": "SC-56C"
+  }
+ ],
  "a23xq": [
   {
    "brand": "Samsung",
@@ -185031,6 +185038,13 @@
    "brand": "Sharp",
    "name": "AQUOS sense6s",
    "model": "SH-RM19s"
+  }
+ ],
+ "Quattro": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS sense7 plus",
+   "model": "A208SH"
   }
  ],
  "SX1": [
@@ -209049,23 +209063,6 @@
    "model": "Telenor K530"
   }
  ],
- "MediaBox_B866V2": [
-  {
-   "brand": "Telenor",
-   "name": "MediaBox",
-   "model": "MediaBox"
-  },
-  {
-   "brand": "Viettel",
-   "name": "B866V2",
-   "model": "B866V2"
-  },
-  {
-   "brand": "Vision",
-   "name": "B866V2",
-   "model": "B866V2"
-  }
- ],
  "Telenor_N940": [
   {
    "brand": "Telenor",
@@ -216726,6 +216723,23 @@
    "brand": "Vida",
    "name": "i401",
    "model": "VIDA-i401"
+  }
+ ],
+ "MediaBox_B866V2": [
+  {
+   "brand": "Viettel",
+   "name": "B866V2",
+   "model": "B866V2"
+  },
+  {
+   "brand": "Vision",
+   "name": "B866V2",
+   "model": "B866V2"
+  },
+  {
+   "brand": "Yettel",
+   "name": "MediaBox",
+   "model": "MediaBox"
   }
  ],
  "V8802": [

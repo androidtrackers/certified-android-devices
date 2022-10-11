@@ -67493,13 +67493,6 @@
    "model": "sdk_gphone_x86"
   }
  ],
- "Google Pixel Watch": [
-  {
-   "brand": "Google",
-   "device": "r11",
-   "model": "Google Pixel Watch"
-  }
- ],
  "Google Play Games on PC": [
   {
    "brand": "Google",
@@ -67775,6 +67768,11 @@
   }
  ],
  "Pixel Watch": [
+  {
+   "brand": "Google",
+   "device": "r11",
+   "model": "Google Pixel Watch"
+  },
   {
    "brand": "Google",
    "device": "r11btwifi",
@@ -76102,6 +76100,13 @@
    "model": "Vision"
   }
  ],
+ "55U7H": [
+  {
+   "brand": "Hisense",
+   "device": "wuyishan",
+   "model": "SmartTV 4K FFM"
+  }
+ ],
  "700T": [
   {
    "brand": "Hisense",
@@ -79755,13 +79760,6 @@
    "brand": "Hisense",
    "device": "rk3188",
    "model": "E2281SS"
-  }
- ],
- "SmartTV 4K FFM": [
-  {
-   "brand": "Hisense",
-   "device": "wuyishan",
-   "model": "SmartTV 4K FFM"
   }
  ],
  "SoundTab MA-317": [
@@ -166936,6 +166934,11 @@
  "Galaxy A23 5G": [
   {
    "brand": "Samsung",
+   "device": "SC-56C",
+   "model": "SC-56C"
+  },
+  {
+   "brand": "Samsung",
    "device": "a23xq",
    "model": "SM-A2360"
   },
@@ -183245,6 +183248,13 @@
    "brand": "Sharp",
    "device": "Nee",
    "model": "SH-RM19s"
+  }
+ ],
+ "AQUOS sense7 plus": [
+  {
+   "brand": "Sharp",
+   "device": "Quattro",
+   "model": "A208SH"
   }
  ],
  "AQUOS wish": [
@@ -206816,13 +206826,6 @@
    "model": "Telenor K530"
   }
  ],
- "MediaBox": [
-  {
-   "brand": "Telenor",
-   "device": "MediaBox_B866V2",
-   "model": "MediaBox"
-  }
- ],
  "N940": [
   {
    "brand": "Telenor",
@@ -226063,6 +226066,13 @@
    "brand": "YesTeL",
    "device": "X8_EEA",
    "model": "X8"
+  }
+ ],
+ "MediaBox": [
+  {
+   "brand": "Yettel",
+   "device": "MediaBox_B866V2",
+   "model": "MediaBox"
   }
  ],
  "4E": [

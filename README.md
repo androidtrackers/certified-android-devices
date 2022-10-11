@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-10-10
+Last sync is 2022-10-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8196,7 +8196,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Emulator|generic_x86_64|Android SDK built for x86_64|
 |Google|Galaxy S4 Google Play edition|jgedlte|GT-I9505G|
 |Google|Google Android Emulator|generic_x86_arm|sdk_gphone_x86|
-|Google|Google Pixel Watch|r11|Google Pixel Watch|
 |Google|Google Play Games on PC|vsoc_kiwi_x86_64|HPE device|
 |Google|Intel Alder Lake Chromebook|brya_cheets|brya|
 |Google|Intel Amber Lake Y Chromebook|rammus_cheets|rammus|
@@ -8239,6 +8238,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel Slate|nocturne_cheets|Google Pixel Slate|
 |Google|Pixel Slate|nocturne_cheets|Pixel Slate|
 |Google|Pixel Slate|nocturne_cheets|nocturne|
+|Google|Pixel Watch|r11|Google Pixel Watch|
 |Google|Pixel Watch|r11btwifi|Google Pixel Watch|
 |Google|Pixel XL|marlin|Pixel XL|
 |Google|Pixelbook|atlas_cheets|Google Pixelbook Go|
@@ -9599,6 +9599,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense||t960|HS-T960|
 |Hisense|50A7H|songshan|Smart TV|
 |Hisense|55H6SG|Vision|Vision|
+|Hisense|55U7H|wuyishan|SmartTV 4K FFM|
 |Hisense|700T|HSSDM660QC|HLTE700T|
 |Hisense|9980|taishan|SmartTV 8K FFM|
 |Hisense|A2|HS8937QC|Hisense A2|
@@ -10169,7 +10170,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Sero7|rk3168|E2171SS|
 |Hisense|Sero7 LE|rk3026|E2371|
 |Hisense|Sero8|rk3188|E2281SS|
-|Hisense|SmartTV 4K FFM|wuyishan|SmartTV 4K FFM|
 |Hisense|SoundTab MA-317|rk3028a|Hisense SoundTab MA-317|
 |Hisense|SoundTab MA-327|rk3028a|Hisense SoundTab MA-327|
 |Hisense|T963|HS7331CSC|Hisense T963|
@@ -24975,6 +24975,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A23|a23|SM-A235F|
 |Samsung|Galaxy A23|a23|SM-A235M|
 |Samsung|Galaxy A23|a23|SM-A235N|
+|Samsung|Galaxy A23 5G|SC-56C|SC-56C|
 |Samsung|Galaxy A23 5G|a23xq|SM-A2360|
 |Samsung|Galaxy A23 5G|a23xq|SM-A236B|
 |Samsung|Galaxy A23 5G|a23xq|SM-A236E|
@@ -27908,6 +27909,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS sense6s|BOL|SHG07|
 |Sharp|AQUOS sense6s|Nee|SH-M19s-y|
 |Sharp|AQUOS sense6s|Nee|SH-RM19s|
+|Sharp|AQUOS sense7 plus|Quattro|A208SH|
 |Sharp|AQUOS wish|SX1|A103SH|
 |Sharp|AQUOS wish|SX1|A104SH|
 |Sharp|AQUOS wish|SX1|SH-M20|
@@ -31983,7 +31985,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telenor|Infinity_e|Telenor_Infinity_e|Infinity_e|
 |Telenor|Infinity_i|TELENOR_Infinity_i|Infinity i|
 |Telenor|K530|Telenor_K530|Telenor K530|
-|Telenor|MediaBox|MediaBox_B866V2|MediaBox|
 |Telenor|N940|Telenor_N940|Telenor N940|
 |Telenor|Smart|Telenor_Smart|Telenor_Smart|
 |Telenor|Smart II|SmartII|SmartII|
@@ -35138,6 +35139,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |YesTeL|X7_EEA|X7_EEA|X7_EEA|
 |YesTeL|X8|YESTEL_X8|X8|
 |YesTeL|X8_EEA|X8_EEA|X8|
+|Yettel|MediaBox|MediaBox_B866V2|MediaBox|
 |Yezz|4E|4E|4E|
 |Yezz|5.5M|5_5M|5.5M|
 |Yezz|5E|5E|5E|

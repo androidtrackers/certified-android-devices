@@ -42602,11 +42602,6 @@
    "model": "sdk_gphone_x86"
   },
   {
-   "device": "r11",
-   "name": "Google Pixel Watch",
-   "model": "Google Pixel Watch"
-  },
-  {
    "device": "vsoc_kiwi_x86_64",
    "name": "Google Play Games on PC",
    "model": "HPE device"
@@ -42815,6 +42810,11 @@
    "device": "nocturne_cheets",
    "name": "Pixel Slate",
    "model": "nocturne"
+  },
+  {
+   "device": "r11",
+   "name": "Pixel Watch",
+   "model": "Google Pixel Watch"
   },
   {
    "device": "r11btwifi",
@@ -49767,6 +49767,11 @@
    "model": "Vision"
   },
   {
+   "device": "wuyishan",
+   "name": "55U7H",
+   "model": "SmartTV 4K FFM"
+  },
+  {
    "device": "HSSDM660QC",
    "name": "700T",
    "model": "HLTE700T"
@@ -52615,11 +52620,6 @@
    "device": "rk3188",
    "name": "Sero8",
    "model": "E2281SS"
-  },
-  {
-   "device": "wuyishan",
-   "name": "SmartTV 4K FFM",
-   "model": "SmartTV 4K FFM"
   },
   {
    "device": "rk3028a",
@@ -128481,6 +128481,11 @@
    "model": "SM-A235N"
   },
   {
+   "device": "SC-56C",
+   "name": "Galaxy A23 5G",
+   "model": "SC-56C"
+  },
+  {
    "device": "a23xq",
    "name": "Galaxy A23 5G",
    "model": "SM-A2360"
@@ -143208,6 +143213,11 @@
    "device": "Nee",
    "name": "AQUOS sense6s",
    "model": "SH-RM19s"
+  },
+  {
+   "device": "Quattro",
+   "name": "AQUOS sense7 plus",
+   "model": "A208SH"
   },
   {
    "device": "SX1",
@@ -164029,11 +164039,6 @@
    "model": "Telenor K530"
   },
   {
-   "device": "MediaBox_B866V2",
-   "name": "MediaBox",
-   "model": "MediaBox"
-  },
-  {
    "device": "Telenor_N940",
    "name": "N940",
    "model": "Telenor N940"
@@ -180418,6 +180423,13 @@
    "device": "X8_EEA",
    "name": "X8_EEA",
    "model": "X8"
+  }
+ ],
+ "Yettel": [
+  {
+   "device": "MediaBox_B866V2",
+   "name": "MediaBox",
+   "model": "MediaBox"
   }
  ],
  "Yezz": [
