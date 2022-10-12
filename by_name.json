@@ -67743,6 +67743,20 @@
    "model": "Pixel 6a"
   }
  ],
+ "Pixel 7": [
+  {
+   "brand": "Google",
+   "device": "panther",
+   "model": "Pixel 7"
+  }
+ ],
+ "Pixel 7 Pro": [
+  {
+   "brand": "Google",
+   "device": "cheetah",
+   "model": "Pixel 7 Pro"
+  }
+ ],
  "Pixel C": [
   {
    "brand": "Google",

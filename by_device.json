@@ -63878,6 +63878,20 @@
    "model": "Pixel 6a"
   }
  ],
+ "panther": [
+  {
+   "brand": "Google",
+   "name": "Pixel 7",
+   "model": "Pixel 7"
+  }
+ ],
+ "cheetah": [
+  {
+   "brand": "Google",
+   "name": "Pixel 7 Pro",
+   "model": "Pixel 7 Pro"
+  }
+ ],
  "dragon": [
   {
    "brand": "Google",

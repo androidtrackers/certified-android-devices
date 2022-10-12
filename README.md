@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-10-11
+Last sync is 2022-10-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8234,6 +8234,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel 6|oriole|Pixel 6|
 |Google|Pixel 6 Pro|raven|Pixel 6 Pro|
 |Google|Pixel 6a|bluejay|Pixel 6a|
+|Google|Pixel 7|panther|Pixel 7|
+|Google|Pixel 7 Pro|cheetah|Pixel 7 Pro|
 |Google|Pixel C|dragon|Pixel C|
 |Google|Pixel Slate|nocturne_cheets|Google Pixel Slate|
 |Google|Pixel Slate|nocturne_cheets|Pixel Slate|

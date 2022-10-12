@@ -60944,6 +60944,20 @@
    "device": "bluejay"
   }
  ],
+ "Pixel 7": [
+  {
+   "brand": "Google",
+   "name": "Pixel 7",
+   "device": "panther"
+  }
+ ],
+ "Pixel 7 Pro": [
+  {
+   "brand": "Google",
+   "name": "Pixel 7 Pro",
+   "device": "cheetah"
+  }
+ ],
  "Pixel C": [
   {
    "brand": "Google",

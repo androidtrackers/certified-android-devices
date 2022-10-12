@@ -42792,6 +42792,16 @@
    "model": "Pixel 6a"
   },
   {
+   "device": "panther",
+   "name": "Pixel 7",
+   "model": "Pixel 7"
+  },
+  {
+   "device": "cheetah",
+   "name": "Pixel 7 Pro",
+   "model": "Pixel 7 Pro"
+  },
+  {
    "device": "dragon",
    "name": "Pixel C",
    "model": "Pixel C"
