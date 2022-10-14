@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-10-13
+Last sync is 2022-10-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -21921,6 +21921,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POC|POC2|CBL7509MM|POC2|
 |POCO|POCO C3|angelicain|M2006C3MI|
 |POCO|POCO C31|angelicain|211033MI|
+|POCO|POCO C50|snow|220733SPI|
 |POCO|POCO F2 Pro|lmi|POCO F2 Pro|
 |POCO|POCO F3|alioth|M2012K11AG|
 |POCO|POCO F3 GT|aresin|M2104K10I|
@@ -24166,6 +24167,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 9S|curtana|Redmi Note 9S|
 |Redmi|Redmi Note 9T|cannong|A001XM|
 |Redmi|Redmi Note 9T|cannong|M2007J22G|
+|Redmi|Redmi Pad|yunluo|22081283G|
 |Redmi|Smart TV|tarzan|MiTV-MOOQ3|
 |Redway|redway10|redway10|redway10|
 |Redway|redway10_lite|redway10_lite|redway10_lite|
@@ -24978,6 +24980,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A23|a23|SM-A235M|
 |Samsung|Galaxy A23|a23|SM-A235N|
 |Samsung|Galaxy A23 5G|SC-56C|SC-56C|
+|Samsung|Galaxy A23 5G|SCG18|SCG18|
+|Samsung|Galaxy A23 5G|a23ex|SM-A233C|
 |Samsung|Galaxy A23 5G|a23xq|SM-A2360|
 |Samsung|Galaxy A23 5G|a23xq|SM-A236B|
 |Samsung|Galaxy A23 5G|a23xq|SM-A236E|
@@ -28441,6 +28445,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|X8A|X8A|X8A|
 |Sky Devices|Xmobile X55|X55|X55|
 |Sky Devices|pro selfie|PRO_SELFIE|PRO_SELFIE|
+|Sky NZ|Sky Pod|SEI700SKY|Sky Pod|
 |SkyLife|KSTB2019|KSTB2019|KSTB2019|
 |SkyLife|KSTB6165|KSTB6165|KSTB6165|
 |SkyLife|Skylife android 2nd TV|DMTS18SS|USI-7000NA|

@@ -147860,6 +147860,23 @@
    "model": "211033MI"
   }
  ],
+ "snow": [
+  {
+   "brand": "POCO",
+   "name": "POCO C50",
+   "model": "220733SPI"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi A1+",
+   "model": "220733SFG"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi A1+",
+   "model": "220743FI"
+  }
+ ],
  "lmi": [
   {
    "brand": "POCO",
@@ -161279,18 +161296,6 @@
    "model": "220733SL"
   }
  ],
- "snow": [
-  {
-   "brand": "Redmi",
-   "name": "Redmi A1+",
-   "model": "220733SFG"
-  },
-  {
-   "brand": "Redmi",
-   "name": "Redmi A1+",
-   "model": "220743FI"
-  }
- ],
  "davinciin": [
   {
    "brand": "Redmi",
@@ -161681,6 +161686,13 @@
    "brand": "Redmi",
    "name": "Redmi Note 9T",
    "model": "M2007J22G"
+  }
+ ],
+ "yunluo": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Pad",
+   "model": "22081283G"
   }
  ],
  "tarzan": [
@@ -166564,6 +166576,20 @@
    "brand": "Samsung",
    "name": "Galaxy A23 5G",
    "model": "SC-56C"
+  }
+ ],
+ "SCG18": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A23 5G",
+   "model": "SCG18"
+  }
+ ],
+ "a23ex": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A23 5G",
+   "model": "SM-A233C"
   }
  ],
  "a23xq": [
@@ -188416,6 +188442,13 @@
    "brand": "Sky Devices",
    "name": "pro selfie",
    "model": "PRO_SELFIE"
+  }
+ ],
+ "SEI700SKY": [
+  {
+   "brand": "Sky NZ",
+   "name": "Sky Pod",
+   "model": "Sky Pod"
   }
  ],
  "KSTB2019": [

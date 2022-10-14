@@ -148013,6 +148013,13 @@
    "model": "211033MI"
   }
  ],
+ "POCO C50": [
+  {
+   "brand": "POCO",
+   "device": "snow",
+   "model": "220733SPI"
+  }
+ ],
  "POCO F2 Pro": [
   {
    "brand": "POCO",
@@ -162194,6 +162201,13 @@
    "model": "M2007J22G"
   }
  ],
+ "Redmi Pad": [
+  {
+   "brand": "Redmi",
+   "device": "yunluo",
+   "model": "22081283G"
+  }
+ ],
  "redway10": [
   {
    "brand": "Redway",
@@ -166950,6 +166964,16 @@
    "brand": "Samsung",
    "device": "SC-56C",
    "model": "SC-56C"
+  },
+  {
+   "brand": "Samsung",
+   "device": "SCG18",
+   "model": "SCG18"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a23ex",
+   "model": "SM-A233C"
   },
   {
    "brand": "Samsung",
@@ -186608,6 +186632,13 @@
    "brand": "Sky Devices",
    "device": "PRO_SELFIE",
    "model": "PRO_SELFIE"
+  }
+ ],
+ "Sky Pod": [
+  {
+   "brand": "Sky NZ",
+   "device": "SEI700SKY",
+   "model": "Sky Pod"
   }
  ],
  "KSTB2019": [

@@ -112721,6 +112721,11 @@
    "model": "211033MI"
   },
   {
+   "device": "snow",
+   "name": "POCO C50",
+   "model": "220733SPI"
+  },
+  {
    "device": "lmi",
    "name": "POCO F2 Pro",
    "model": "POCO F2 Pro"
@@ -124226,6 +124231,11 @@
    "model": "M2007J22G"
   },
   {
+   "device": "yunluo",
+   "name": "Redmi Pad",
+   "model": "22081283G"
+  },
+  {
    "device": "tarzan",
    "name": "Smart TV",
    "model": "MiTV-MOOQ3"
@@ -128494,6 +128504,16 @@
    "device": "SC-56C",
    "name": "Galaxy A23 5G",
    "model": "SC-56C"
+  },
+  {
+   "device": "SCG18",
+   "name": "Galaxy A23 5G",
+   "model": "SCG18"
+  },
+  {
+   "device": "a23ex",
+   "name": "Galaxy A23 5G",
+   "model": "SM-A233C"
   },
   {
    "device": "a23xq",
@@ -145913,6 +145933,13 @@
    "device": "PRO_SELFIE",
    "name": "pro selfie",
    "model": "PRO_SELFIE"
+  }
+ ],
+ "Sky NZ": [
+  {
+   "device": "SEI700SKY",
+   "name": "Sky Pod",
+   "model": "Sky Pod"
   }
  ],
  "SkyLife": [

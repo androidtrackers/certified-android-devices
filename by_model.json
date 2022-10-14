@@ -150468,6 +150468,13 @@
    "device": "angelicain"
   }
  ],
+ "220733SPI": [
+  {
+   "brand": "POCO",
+   "name": "POCO C50",
+   "device": "snow"
+  }
+ ],
  "POCO F2 Pro": [
   {
    "brand": "POCO",
@@ -165149,6 +165156,13 @@
    "device": "cannong"
   }
  ],
+ "22081283G": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Pad",
+   "device": "yunluo"
+  }
+ ],
  "MiTV-MOOQ3": [
   {
    "brand": "Redmi",
@@ -170459,6 +170473,20 @@
    "brand": "Samsung",
    "name": "Galaxy A23 5G",
    "device": "SC-56C"
+  }
+ ],
+ "SCG18": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A23 5G",
+   "device": "SCG18"
+  }
+ ],
+ "SM-A233C": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A23 5G",
+   "device": "a23ex"
   }
  ],
  "SM-A2360": [
@@ -193872,6 +193900,13 @@
    "brand": "Sky Devices",
    "name": "pro selfie",
    "device": "PRO_SELFIE"
+  }
+ ],
+ "Sky Pod": [
+  {
+   "brand": "Sky NZ",
+   "name": "Sky Pod",
+   "device": "SEI700SKY"
   }
  ],
  "KSTB2019": [
