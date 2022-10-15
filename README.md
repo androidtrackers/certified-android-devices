@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-10-14
+Last sync is 2022-10-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7260,6 +7260,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fossil|Fossil Gen 5e|sole|Fossil 5e|
 |Fossil|Fossil Gen 5e|sole|Fossil SS|
 |Fossil|Fossil Gen 6|hoki|Fossil Gen 6|
+|Fossil|Fossil Gen 6|hoki|Fossil Gen 6 Venture Edition|
 |Fossil|Fossil Gen 6|hoki|Gen 6 Wellness Edition|
 |Fossil|Fossil Sport|darter|Fadelite|
 |Fossil|Fossil Sport|darter|Hugo|

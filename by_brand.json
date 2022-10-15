@@ -37732,6 +37732,11 @@
   {
    "device": "hoki",
    "name": "Fossil Gen 6",
+   "model": "Fossil Gen 6 Venture Edition"
+  },
+  {
+   "device": "hoki",
+   "name": "Fossil Gen 6",
    "model": "Gen 6 Wellness Edition"
   },
   {
