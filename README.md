@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-10-16
+Last sync is 2022-10-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7006,6 +7006,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FFFSMARTLIFE|FFFTAB10a4|FFFTAB10a4|FFFTAB10a4|
 |FFFSMARTLIFE|FFFTAB10b0|FFFTAB10b0|FFFTAB10b0|
 |FFFSMARTLIFE|FFFTAB10b1|FFFTAB10b1|FFFTAB10b1|
+|FFFSMARTLIFE|FFFTAB10b3|FFFTAB10b3|FFFTAB10b3|
 |FFFSMARTLIFE|FFFTAB7|FFFTAB7|FFFTAB7|
 |FFFSMARTLIFE|FFFTAB8|FFFTAB8|FFFTAB8|
 |FIREFLY MOBILE|AURII_AMUSE_3G|AURII_AMUSE_3G|AURII_AMUSE_3G|
@@ -9467,6 +9468,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hi TFG|Spitfire|Spitfire|Spitfire|
 |Hi-online|Boost Ultra|Boost_Ultra|Boost Ultra|
 |Hi-online|HMR5450|HMR5450|HMR5450|
+|HiMedia|HCA6010|HCA6010|HCA-6010|
 |HiMedia|S500|HiBox|S500|
 |Hicel|STAR_1|STAR_1|STAR 1|
 |HighScreen|Bay|Bay|Bay|
@@ -21175,6 +21177,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A55s 5G|OP52EBL1|A102OP|
 |Oppo|A57|A57|OPPO A57|
 |Oppo|A57|A57|OPPO A57t|
+|Oppo|A57|OP5355|CPH2387|
+|Oppo|A57|OP5355|CPH2407|
 |Oppo|A57s/A77|OP5353L1|CPH2385|
 |Oppo|A57t|A57|OPPO A57t|
 |Oppo|A59|A59|OPPO A59|
@@ -21368,6 +21372,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO A53 5G|OP4E49|PECT30|
 |Oppo|OPPO A53s 5G|OP4F53L1|CPH2321|
 |Oppo|OPPO A54|OP4E7B|PEZM00|
+|Oppo|OPPO A57s|OP5353L1|CPH2385|
 |Oppo|OPPO A74 5G|OP4F39L1|CPH2197|
 |Oppo|OPPO A95 5G|OP4EB7|PELM00|
 |Oppo|OPPO F21 Pro 5G|OP532FL1|CPH2341|
@@ -37676,6 +37681,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 9i|RED8C1L1|RMX3492|
 |realme|realme 9i|RED8C1L1|RMX3493|
 |realme|realme 9i|RED8C1L1|RMX3493|
+|realme|realme 9i 5G|RE588DL1|RMX3612|
 |realme|realme C11 2021|RMX3231|RMX3231|
 |realme|realme C15|RMX2180|RMX2180|
 |realme|realme C15 Qualcomm Edition|RMX2195L1|RMX2195|

@@ -36390,6 +36390,11 @@
    "model": "FFFTAB10b1"
   },
   {
+   "device": "FFFTAB10b3",
+   "name": "FFFTAB10b3",
+   "model": "FFFTAB10b3"
+  },
+  {
    "device": "FFFTAB7",
    "name": "FFFTAB7",
    "model": "FFFTAB7"
@@ -49090,6 +49095,11 @@
   }
  ],
  "HiMedia": [
+  {
+   "device": "HCA6010",
+   "name": "HCA6010",
+   "model": "HCA-6010"
+  },
   {
    "device": "HiBox",
    "name": "S500",
@@ -108921,6 +108931,16 @@
    "model": "OPPO A57t"
   },
   {
+   "device": "OP5355",
+   "name": "A57",
+   "model": "CPH2387"
+  },
+  {
+   "device": "OP5355",
+   "name": "A57",
+   "model": "CPH2407"
+  },
+  {
    "device": "OP5353L1",
    "name": "A57s/A77",
    "model": "CPH2385"
@@ -109884,6 +109904,11 @@
    "device": "OP4E7B",
    "name": "OPPO A54",
    "model": "PEZM00"
+  },
+  {
+   "device": "OP5353L1",
+   "name": "OPPO A57s",
+   "model": "CPH2385"
   },
   {
    "device": "OP4F39L1",
@@ -193408,6 +193433,11 @@
    "device": "RED8C1L1",
    "name": "realme 9i",
    "model": "RMX3493"
+  },
+  {
+   "device": "RE588DL1",
+   "name": "realme 9i 5G",
+   "model": "RMX3612"
   },
   {
    "device": "RMX3231",

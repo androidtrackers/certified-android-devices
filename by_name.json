@@ -59222,6 +59222,13 @@
    "model": "FFFTAB10b1"
   }
  ],
+ "FFFTAB10b3": [
+  {
+   "brand": "FFFSMARTLIFE",
+   "device": "FFFTAB10b3",
+   "model": "FFFTAB10b3"
+  }
+ ],
  "FFFTAB7": [
   {
    "brand": "FFFSMARTLIFE",
@@ -75475,6 +75482,13 @@
    "brand": "Hi-online",
    "device": "HMR5450",
    "model": "HMR5450"
+  }
+ ],
+ "HCA6010": [
+  {
+   "brand": "HiMedia",
+   "device": "HCA6010",
+   "model": "HCA-6010"
   }
  ],
  "S500": [
@@ -126451,6 +126465,16 @@
    "brand": "Oppo",
    "device": "A57",
    "model": "OPPO A57t"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP5355",
+   "model": "CPH2387"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP5355",
+   "model": "CPH2407"
   }
  ],
  "A75": [
@@ -144430,6 +144454,13 @@
    "brand": "Oppo",
    "device": "OP4E7B",
    "model": "PEZM00"
+  }
+ ],
+ "OPPO A57s": [
+  {
+   "brand": "Oppo",
+   "device": "OP5353L1",
+   "model": "CPH2385"
   }
  ],
  "OPPO A74 5G": [
@@ -240044,6 +240075,13 @@
    "brand": "realme",
    "device": "RED8C1L1",
    "model": "RMX3493"
+  }
+ ],
+ "realme 9i 5G": [
+  {
+   "brand": "realme",
+   "device": "RE588DL1",
+   "model": "RMX3612"
   }
  ],
  "realme C11 2021": [

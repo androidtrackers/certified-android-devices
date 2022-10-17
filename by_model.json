@@ -52126,6 +52126,13 @@
    "device": "FFFTAB10b1"
   }
  ],
+ "FFFTAB10b3": [
+  {
+   "brand": "FFFSMARTLIFE",
+   "name": "FFFTAB10b3",
+   "device": "FFFTAB10b3"
+  }
+ ],
  "FFFTAB7": [
   {
    "brand": "FFFSMARTLIFE",
@@ -69116,6 +69123,18 @@
    "device": "HMR5450"
   }
  ],
+ "HCA-6010": [
+  {
+   "brand": "HiMedia",
+   "name": "HCA6010",
+   "device": "HCA6010"
+  },
+  {
+   "brand": "Homeplustv",
+   "name": "Homeplus_ATV HCA-6010",
+   "device": "HCA6010"
+  }
+ ],
  "STAR 1": [
   {
    "brand": "Hicel",
@@ -74423,13 +74442,6 @@
    "brand": "Homatics",
    "name": "Global",
    "device": "YQB"
-  }
- ],
- "HCA-6010": [
-  {
-   "brand": "Homeplustv",
-   "name": "Homeplus_ATV HCA-6010",
-   "device": "HCA6010"
   }
  ],
  "STB-6252C": [
@@ -145621,10 +145633,29 @@
    "device": "A57"
   }
  ],
+ "CPH2387": [
+  {
+   "brand": "Oppo",
+   "name": "A57",
+   "device": "OP5355"
+  }
+ ],
+ "CPH2407": [
+  {
+   "brand": "Oppo",
+   "name": "A57",
+   "device": "OP5355"
+  }
+ ],
  "CPH2385": [
   {
    "brand": "Oppo",
    "name": "A57s/A77",
+   "device": "OP5353L1"
+  },
+  {
+   "brand": "Oppo",
+   "name": "OPPO A57s",
    "device": "OP5353L1"
   }
  ],
@@ -252962,6 +252993,13 @@
    "brand": "realme",
    "name": "realme 9i",
    "device": "RED8C1L1"
+  }
+ ],
+ "RMX3612": [
+  {
+   "brand": "realme",
+   "name": "realme 9i 5G",
+   "device": "RE588DL1"
   }
  ],
  "RMX3263": [
