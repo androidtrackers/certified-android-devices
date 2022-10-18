@@ -3994,6 +3994,13 @@
    "device": "ACTAB721"
   }
  ],
+ "ACTAB723": [
+  {
+   "brand": "Acer",
+   "name": "ACTAB723",
+   "device": "ACTAB723"
+  }
+ ],
  "ACTAB821_A": [
   {
    "brand": "Acer",
@@ -129810,6 +129817,28 @@
    "device": "S22-8A"
   }
  ],
+ "4K PA Smart TV": [
+  {
+   "brand": "Mobell",
+   "name": "4K Smart TV",
+   "device": "pioneer"
+  },
+  {
+   "brand": "Polytron",
+   "name": "4K Smart TV",
+   "device": "pioneer"
+  },
+  {
+   "brand": "RCA",
+   "name": "4K Smart TV",
+   "device": "pioneer"
+  },
+  {
+   "brand": "imiia",
+   "name": "4K Smart TV",
+   "device": "pioneer"
+  }
+ ],
  "MBL Tab 8.1": [
   {
    "brand": "Mobell",
@@ -155885,23 +155914,6 @@
    "brand": "Polestar",
    "name": "Polestar Emu",
    "device": "ihu_emulator"
-  }
- ],
- "4K PA Smart TV": [
-  {
-   "brand": "Polytron",
-   "name": "4K Smart TV",
-   "device": "pioneer"
-  },
-  {
-   "brand": "RCA",
-   "name": "4K Smart TV",
-   "device": "pioneer"
-  },
-  {
-   "brand": "imiia",
-   "name": "4K Smart TV",
-   "device": "pioneer"
   }
  ],
  "P500": [
@@ -223256,6 +223268,13 @@
    "brand": "Veon",
    "name": "VEON",
    "device": "bangbae"
+  }
+ ],
+ "VEON 2K Android TV": [
+  {
+   "brand": "Veon",
+   "name": "VEON",
+   "device": "bruno"
   }
  ],
  "VEON 4K Smart TV": [

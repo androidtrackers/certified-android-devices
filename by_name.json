@@ -10170,6 +10170,13 @@
    "model": "ACTAB721"
   }
  ],
+ "ACTAB723": [
+  {
+   "brand": "Acer",
+   "device": "ACTAB723",
+   "model": "ACTAB723"
+  }
+ ],
  "ACTAB821_A": [
   {
    "brand": "Acer",
@@ -28035,6 +28042,11 @@
    "brand": "Master-G",
    "device": "pioneer",
    "model": "4K SA Smart TV"
+  },
+  {
+   "brand": "Mobell",
+   "device": "pioneer",
+   "model": "4K PA Smart TV"
   },
   {
    "brand": "Nano",
@@ -213028,6 +213040,11 @@
    "brand": "Veon",
    "device": "bangbae",
    "model": "VEON 4K Android TV"
+  },
+  {
+   "brand": "Veon",
+   "device": "bruno",
+   "model": "VEON 2K Android TV"
   }
  ],
  "VEON 4K Smart TV": [

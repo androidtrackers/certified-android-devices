@@ -1889,6 +1889,11 @@
    "model": "ACTAB721"
   },
   {
+   "device": "ACTAB723",
+   "name": "ACTAB723",
+   "model": "ACTAB723"
+  },
+  {
    "device": "ACTAB821_A",
    "name": "ACTAB821_A",
    "model": "ACTAB821_A"
@@ -96040,6 +96045,11 @@
  ],
  "Mobell": [
   {
+   "device": "pioneer",
+   "name": "4K Smart TV",
+   "model": "4K PA Smart TV"
+  },
+  {
    "device": "MBLTab81",
    "name": "MBLTab81",
    "model": "MBL Tab 8.1"
@@ -169489,6 +169499,11 @@
    "device": "bangbae",
    "name": "VEON",
    "model": "VEON 4K Android TV"
+  },
+  {
+   "device": "bruno",
+   "name": "VEON",
+   "model": "VEON 2K Android TV"
   },
   {
    "device": "SW6H",

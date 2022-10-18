@@ -5822,6 +5822,13 @@
    "model": "ACTAB721"
   }
  ],
+ "ACTAB723": [
+  {
+   "brand": "Acer",
+   "name": "ACTAB723",
+   "model": "ACTAB723"
+  }
+ ],
  "ACTAB821_A": [
   {
    "brand": "Acer",
@@ -7766,6 +7773,11 @@
    "brand": "Sharp",
    "name": "Sharp",
    "model": "Sharp 2K Android TV"
+  },
+  {
+   "brand": "Veon",
+   "name": "VEON",
+   "model": "VEON 2K Android TV"
   },
   {
    "brand": "innos",
@@ -44541,6 +44553,11 @@
    "brand": "Master-G",
    "name": "4K Smart TV",
    "model": "4K SA Smart TV"
+  },
+  {
+   "brand": "Mobell",
+   "name": "4K Smart TV",
+   "model": "4K PA Smart TV"
   },
   {
    "brand": "Polytron",

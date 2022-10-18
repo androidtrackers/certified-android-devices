@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-10-17
+Last sync is 2022-10-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -349,6 +349,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|ACTAB1022|ACTAB1022|ACTAB1022|
 |Acer|ACTAB1422|ACTAB1422|ACTAB1422|
 |Acer|ACTAB721|ACTAB721|ACTAB721|
+|Acer|ACTAB723|ACTAB723|ACTAB723|
 |Acer|ACTAB821_A|ACTAB821_A|ACTAB821_A|
 |Acer|AK330s|C8n|AK330S|
 |Acer|AS10W|AS10W|AS10W|
@@ -18678,6 +18679,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mito|T5091A|MITO_A16|MITO A16|
 |Mito|T8|T8|T8|
 |MoT(Mobility Technologies)|S22-8A|S22-8A|S22-8A|
+|Mobell|4K Smart TV|pioneer|4K PA Smart TV|
 |Mobell|MBLTab81|MBLTab81|MBL Tab 8.1|
 |Mobell|Mobell S50|Mobell_S50|Mobell S50|
 |Mobell|NOVA P3|NOVA_P3|NOVA P3|
@@ -33013,6 +33015,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Venus|V6|V6|V6|
 |Venus|Venus V6|Samos|Venus V6|
 |Veon|VEON|bangbae|VEON 4K Android TV|
+|Veon|VEON|bruno|VEON 2K Android TV|
 |Veon|VEON 4K Smart TV|SW6H|VEON 4K Smart TV|
 |VerD|E1|E1|E1|
 |VerD|E2|E2|E2|
