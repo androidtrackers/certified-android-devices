@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-10-19
+Last sync is 2022-10-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4462,6 +4462,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Clarmin|B8Lite|B8Lite|B8Lite|
 |Clarmin|B8plus|B8plus|B8plus|
 |Clarmin|CLARMIN C1|CLARMIN_C1|CLARMIN C1|
+|Claro|B866V2|B866V2_V1_0_0|B866V2|
 |Claro|CLARO BOX TV|SEI810CCOA|CLARO BOX TV|
 |Claro|Claro Colombia STB|SEI800CCOA|Claro Colombia STB|
 |Claro|Claro STB|SEI810CPR|Claro STB|
@@ -12100,6 +12101,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Huawei|麦芒5|HWMLA|HUAWEI MLA-AL10|
 |Huawei|麦芒5|HWMLA|MLA-AL00|
 |Huawei|麦芒5|HWMLA|MLA-AL10|
+|Hublot|Big Bang e Gen 3|turbot|BIG BANG e Gen 3|
 |Hublot|Hublot Big Bang e|halibut|Big Bang e|
 |Human_Acadaemy|HA-007|HA-007|HA-007|
 |HumaxDigital|Descodificador Orange TV|b604tnw|Descodificador Orange TV|
@@ -12827,6 +12829,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|X600|INFINIX-X600-5M|Infinix-X600|
 |Infinix|X600|INFINIX-X600-H533-5M|Infinix-X600-LTE|
 |Infinix|ZERO 5G|Infinix-X6815|Infinix X6815|
+|Infinix|ZERO 5G 2023|Infinix-X6815C|Infinix X6815C|
 |Infinix|ZERO ULTRA|Infinix-X6820|Infinix X6820|
 |Infinix|ZERO X Pro|Infinix-X6811|Infinix X6811|
 |Infinix|Zero 2|Infinix_X509|Infinix X509|
@@ -13401,6 +13404,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel A24|itel-A507LM|itel A507LM|
 |Itel|itel A24|itel-A507LS|itel A507LS|
 |Itel|itel A24|itel-L5007|itel L5007|
+|Itel|itel A24 Pro|itel-A511LP2|itel A511LP|
 |Itel|itel A25|itel-L5002R|itel L5002|
 |Itel|itel A27(P17 Pro 4G)|itel-A551L|itel A551L|
 |Itel|itel A27(P17 Pro 4G)|itel-A551L-Pro|itel A551L|
@@ -13873,6 +13877,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|POWER_GREEN|stanford|2K SMART TV|
 |KTCtv|PROMETHEUS|stanford|SMART TV|
 |KTCtv|Rosso|stanford|40D|
+|KTCtv|SA|hongkong|EcoTV Plus|
 |KTCtv|SA|stanford|40DSA|
 |KTCtv|SA|zhongshan|43FSA|
 |KTCtv|SIERA|stanford|2K Siera SMART TV|
@@ -17710,6 +17715,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MSota|Nobby X800 Pro|Nobby_X800_Pro|Nobby X800 Pro|
 |MTC|982|MTC_982|MTC 982|
 |MTC|ENTV|seocho|ENTV 4K Android TV|
+|MTC|ENTV|shilin|ENTV4KAndroidTV|
 |MTC|Hansung|seocho|Hansung 4K Android TV|
 |MTC|Infiniton|bangbae|Infiniton 4K Android TV|
 |MTC|Infiniton|komagome|Infiniton 2K Android TV|
@@ -18930,11 +18936,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobvoi|TicWatch Pro|catfish_ext|TicWatch Pro S|
 |Mobvoi|TicWatch Pro 3|rover|TicWatch Pro 3|
 |Mobvoi|TicWatch Pro 3|rover|TicWatch Pro X|
-|Mobvoi|TicWatch Pro 3 Cellular/LTE|rover|TicWatch Pro 3|
-|Mobvoi|TicWatch Pro 3 Cellular/LTE|rover|TicWatch Pro 3 Ultra|
-|Mobvoi|TicWatch Pro 3 GPS|rubyfish|TicWatch Pro 3 GPS|
-|Mobvoi|TicWatch Pro 3 GPS|rubyfish|TicWatch Pro 3 Ultra GPS|
-|Mobvoi|TicWatch Pro 3 GPS|rubyfish|TicWatch Pro 3U|
+|Mobvoi|TicWatch Pro 3 Cellular/LTE; TicWatch Pro 3 Ultra|rover|TicWatch Pro 3|
+|Mobvoi|TicWatch Pro 3 Cellular/LTE; TicWatch Pro 3 Ultra|rover|TicWatch Pro 3 Ultra|
+|Mobvoi|TicWatch Pro 3 GPS; TicWatch Pro 3 Ultra GPS|rubyfish|TicWatch Pro 3 GPS|
+|Mobvoi|TicWatch Pro 3 GPS; TicWatch Pro 3 Ultra GPS|rubyfish|TicWatch Pro 3 Ultra GPS|
+|Mobvoi|TicWatch Pro 3 GPS; TicWatch Pro 3 Ultra GPS|rubyfish|TicWatch Pro 3U|
 |Mobvoi|TicWatch Pro 4G|catshark|TicWatch Pro 4G|
 |Mobvoi|Ticwatch Pro 4G|catshark|TicWatch Pro 4G|
 |Mobvoi|Ticwatch S Smartwatch; Ticwatch E Smartwatch|mooneye|Ticwatch E|
@@ -22617,6 +22623,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PlayPoland|play_dctiw362|dctiw362p|DCTIW362_PLAY|
 |Plimpton|Kids_10|Kids_10|Kids_10|
 |Plimpton|PlimPad_P3|PlimPad_P3|PlimPad P3|
+|Plimpton|PlimPad_P60|PlimPad_P60|PlimPad_P60|
 |Plimpton|X100|X100|X100|
 |Plum|Phantom3|Z621|Z621|
 |Plum|Z518|Z518|Z518|
@@ -23904,7 +23911,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|RMX3063|RMX3063|RMX3063|
 |Realme|RMX3231|RMX3231|RMX3231|
 |Realme|realme  GT 5G|RMX2202L1|RMX2202|
-|Realme|realme  narzo  30|RMX2156L1|RMX2156|
 |Realme|realme 2 Pro|RMX1801|RMX1801|
 |Realme|realme 3Pro|RMX1851|RMX1851|
 |Realme|realme 5|RMX1911L1|RMX1911|
@@ -28726,7 +28732,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 5 III|XQ-BQ52|XQ-BQ52|
 |Sony|Xperia 5 III|XQ-BQ62|XQ-BQ62|
 |Sony|Xperia 5 III|XQ-BQ72|XQ-BQ72|
+|Sony|Xperia 5 IV|A204SO|A204SO|
 |Sony|Xperia 5 IV|SO-54C|SO-54C|
+|Sony|Xperia 5 IV|SOG09|SOG09|
+|Sony|Xperia 5 IV|XQ-CQ44|XQ-CQ44|
+|Sony|Xperia 5 IV|XQ-CQ54|XQ-CQ54|
+|Sony|Xperia 5 IV|XQ-CQ62|XQ-CQ62|
+|Sony|Xperia 5 IV|XQ-CQ72|XQ-CQ72|
 |Sony|Xperia 8|902SO|902SO|
 |Sony|Xperia 8|SOV42|SOV42|
 |Sony|Xperia 8|SOV42-u|SOV42-u|
@@ -31922,6 +31934,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|i5-Pro|TECNO-i5-Pro|TECNO i5 Pro|
 |Tecno|i7|TECNO-i7|TECNO i7|
 |Tecno Mobile|CAMON 19 Neo|TECNO-Mobile-CH6i|TECNO Mobile CH6i|
+|Tecno Mobile|POVA Neo 2|TECNO-Mobile-LG6n|TECNO Mobile LG6n|
 |Tecnomaster|EDT800|EDT800|EDT800|
 |Tecnomaster|TESHM1863|TESHM1863|TESHM1863|
 |Tecnomaster|TESHM8863|TESHM8863|TESHM8863|
@@ -37660,6 +37673,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme  9i|RED8C1L1|RMX3491|
 |realme|realme  V23i|RE873B|RMX3576|
 |realme|realme  X7 Max|RMX3031L1|RMX3031|
+|realme|realme  narzo  30|RMX2156L1|RMX2156|
 |realme|realme 6|RMX2001L1|RMX2001|
 |realme|realme 6|RMX2002L1|RMX2002|
 |realme|realme 6Pro|RMX2061L1|RMX2061|

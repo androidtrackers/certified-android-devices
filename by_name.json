@@ -40679,6 +40679,23 @@
    "model": "CLARMIN C1"
   }
  ],
+ "B866V2": [
+  {
+   "brand": "Claro",
+   "device": "B866V2_V1_0_0",
+   "model": "B866V2"
+  },
+  {
+   "brand": "Viettel",
+   "device": "MediaBox_B866V2",
+   "model": "B866V2"
+  },
+  {
+   "brand": "Vision",
+   "device": "MediaBox_B866V2",
+   "model": "B866V2"
+  }
+ ],
  "CLARO BOX TV": [
   {
    "brand": "Claro",
@@ -89323,6 +89340,13 @@
    "model": "MLA-AL10"
   }
  ],
+ "Big Bang e Gen 3": [
+  {
+   "brand": "Hublot",
+   "device": "turbot",
+   "model": "BIG BANG e Gen 3"
+  }
+ ],
  "Hublot Big Bang e": [
   {
    "brand": "Hublot",
@@ -93901,6 +93925,13 @@
    "model": "Infinix X6815"
   }
  ],
+ "ZERO 5G 2023": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6815C",
+   "model": "Infinix X6815C"
+  }
+ ],
  "ZERO ULTRA": [
   {
    "brand": "Infinix",
@@ -97562,6 +97593,13 @@
    "model": "itel L5007"
   }
  ],
+ "itel A24 Pro": [
+  {
+   "brand": "Itel",
+   "device": "itel-A511LP2",
+   "model": "itel A511LP"
+  }
+ ],
  "itel A25": [
   {
    "brand": "Itel",
@@ -100483,6 +100521,11 @@
   }
  ],
  "SA": [
+  {
+   "brand": "KTCtv",
+   "device": "hongkong",
+   "model": "EcoTV Plus"
+  },
   {
    "brand": "KTCtv",
    "device": "stanford",
@@ -122718,6 +122761,11 @@
    "brand": "MTC",
    "device": "seocho",
    "model": "ENTV 4K Android TV"
+  },
+  {
+   "brand": "MTC",
+   "device": "shilin",
+   "model": "ENTV4KAndroidTV"
   }
  ],
  "Hansung": [
@@ -130308,7 +130356,7 @@
    "model": "TicWatch Pro X"
   }
  ],
- "TicWatch Pro 3 Cellular/LTE": [
+ "TicWatch Pro 3 Cellular/LTE; TicWatch Pro 3 Ultra": [
   {
    "brand": "Mobvoi",
    "device": "rover",
@@ -130320,7 +130368,7 @@
    "model": "TicWatch Pro 3 Ultra"
   }
  ],
- "TicWatch Pro 3 GPS": [
+ "TicWatch Pro 3 GPS; TicWatch Pro 3 Ultra GPS": [
   {
    "brand": "Mobvoi",
    "device": "rubyfish",
@@ -152363,6 +152411,13 @@
    "model": "PlimPad P3"
   }
  ],
+ "PlimPad_P60": [
+  {
+   "brand": "Plimpton",
+   "device": "PlimPad_P60",
+   "model": "PlimPad_P60"
+  }
+ ],
  "Phantom3": [
   {
    "brand": "Plum",
@@ -160454,13 +160509,6 @@
    "brand": "Realme",
    "device": "RMX2202L1",
    "model": "RMX2202"
-  }
- ],
- "realme  narzo  30": [
-  {
-   "brand": "Realme",
-   "device": "RMX2156L1",
-   "model": "RMX2156"
   }
  ],
  "realme 5Pro": [
@@ -188284,8 +188332,38 @@
  "Xperia 5 IV": [
   {
    "brand": "Sony",
+   "device": "A204SO",
+   "model": "A204SO"
+  },
+  {
+   "brand": "Sony",
    "device": "SO-54C",
    "model": "SO-54C"
+  },
+  {
+   "brand": "Sony",
+   "device": "SOG09",
+   "model": "SOG09"
+  },
+  {
+   "brand": "Sony",
+   "device": "XQ-CQ44",
+   "model": "XQ-CQ44"
+  },
+  {
+   "brand": "Sony",
+   "device": "XQ-CQ54",
+   "model": "XQ-CQ54"
+  },
+  {
+   "brand": "Sony",
+   "device": "XQ-CQ62",
+   "model": "XQ-CQ62"
+  },
+  {
+   "brand": "Sony",
+   "device": "XQ-CQ72",
+   "model": "XQ-CQ72"
   }
  ],
  "Xperia 8": [
@@ -205310,6 +205388,11 @@
    "brand": "Tecno",
    "device": "TECNO-LG6n",
    "model": "TECNO LG6n"
+  },
+  {
+   "brand": "Tecno Mobile",
+   "device": "TECNO-Mobile-LG6n",
+   "model": "TECNO Mobile LG6n"
   }
  ],
  "Phantom 9": [
@@ -214945,18 +215028,6 @@
    "brand": "Vida",
    "device": "VIDA-i401",
    "model": "VIDA-i401"
-  }
- ],
- "B866V2": [
-  {
-   "brand": "Viettel",
-   "device": "MediaBox_B866V2",
-   "model": "B866V2"
-  },
-  {
-   "brand": "Vision",
-   "device": "MediaBox_B866V2",
-   "model": "B866V2"
   }
  ],
  "V8802": [
@@ -239978,6 +240049,13 @@
    "brand": "realme",
    "device": "RMX3031L1",
    "model": "RMX3031"
+  }
+ ],
+ "realme  narzo  30": [
+  {
+   "brand": "realme",
+   "device": "RMX2156L1",
+   "model": "RMX2156"
   }
  ],
  "realme 7": [

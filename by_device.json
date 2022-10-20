@@ -7823,6 +7823,11 @@
   },
   {
    "brand": "MTC",
+   "name": "ENTV",
+   "model": "ENTV4KAndroidTV"
+  },
+  {
+   "brand": "MTC",
    "name": "KIVI",
    "model": "KIVI 4K Android TV"
   },
@@ -36939,6 +36944,13 @@
    "brand": "Clarmin",
    "name": "CLARMIN C1",
    "model": "CLARMIN C1"
+  }
+ ],
+ "B866V2_V1_0_0": [
+  {
+   "brand": "Claro",
+   "name": "B866V2",
+   "model": "B866V2"
   }
  ],
  "SEI810CCOA": [
@@ -86417,6 +86429,13 @@
    "model": "HUAWEI RIO-AL00"
   }
  ],
+ "turbot": [
+  {
+   "brand": "Hublot",
+   "name": "Big Bang e Gen 3",
+   "model": "BIG BANG e Gen 3"
+  }
+ ],
  "halibut": [
   {
    "brand": "Hublot",
@@ -91002,6 +91021,13 @@
    "model": "Infinix X6815"
   }
  ],
+ "Infinix-X6815C": [
+  {
+   "brand": "Infinix",
+   "name": "ZERO 5G 2023",
+   "model": "Infinix X6815C"
+  }
+ ],
  "Infinix-X6820": [
   {
    "brand": "Infinix",
@@ -94797,6 +94823,13 @@
    "model": "itel L5007"
   }
  ],
+ "itel-A511LP2": [
+  {
+   "brand": "Itel",
+   "name": "itel A24 Pro",
+   "model": "itel A511LP"
+  }
+ ],
  "itel-L5002R": [
   {
    "brand": "Itel",
@@ -97337,6 +97370,13 @@
    "brand": "KTC (PD)",
    "name": "BLISS_8",
    "model": "BLISS_8"
+  }
+ ],
+ "hongkong": [
+  {
+   "brand": "KTCtv",
+   "name": "SA",
+   "model": "EcoTV Plus"
   }
  ],
  "TMS-KR01P": [
@@ -129414,29 +129454,29 @@
   },
   {
    "brand": "Mobvoi",
-   "name": "TicWatch Pro 3 Cellular/LTE",
+   "name": "TicWatch Pro 3 Cellular/LTE; TicWatch Pro 3 Ultra",
    "model": "TicWatch Pro 3"
   },
   {
    "brand": "Mobvoi",
-   "name": "TicWatch Pro 3 Cellular/LTE",
+   "name": "TicWatch Pro 3 Cellular/LTE; TicWatch Pro 3 Ultra",
    "model": "TicWatch Pro 3 Ultra"
   }
  ],
  "rubyfish": [
   {
    "brand": "Mobvoi",
-   "name": "TicWatch Pro 3 GPS",
+   "name": "TicWatch Pro 3 GPS; TicWatch Pro 3 Ultra GPS",
    "model": "TicWatch Pro 3 GPS"
   },
   {
    "brand": "Mobvoi",
-   "name": "TicWatch Pro 3 GPS",
+   "name": "TicWatch Pro 3 GPS; TicWatch Pro 3 Ultra GPS",
    "model": "TicWatch Pro 3 Ultra GPS"
   },
   {
    "brand": "Mobvoi",
-   "name": "TicWatch Pro 3 GPS",
+   "name": "TicWatch Pro 3 GPS; TicWatch Pro 3 Ultra GPS",
    "model": "TicWatch Pro 3U"
   }
  ],
@@ -152364,6 +152404,13 @@
    "model": "PlimPad P3"
   }
  ],
+ "PlimPad_P60": [
+  {
+   "brand": "Plimpton",
+   "name": "PlimPad_P60",
+   "model": "PlimPad_P60"
+  }
+ ],
  "Z621": [
   {
    "brand": "Plum",
@@ -160185,18 +160232,6 @@
    "brand": "realme",
    "name": "realme GT 5G",
    "model": "RMX2202"
-  }
- ],
- "RMX2156L1": [
-  {
-   "brand": "Realme",
-   "name": "realme  narzo  30",
-   "model": "RMX2156"
-  },
-  {
-   "brand": "realme",
-   "name": "realme narzo 30",
-   "model": "RMX2156"
   }
  ],
  "RMX1801": [
@@ -190278,11 +190313,53 @@
    "model": "XQ-BQ72"
   }
  ],
+ "A204SO": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 5 IV",
+   "model": "A204SO"
+  }
+ ],
  "SO-54C": [
   {
    "brand": "Sony",
    "name": "Xperia 5 IV",
    "model": "SO-54C"
+  }
+ ],
+ "SOG09": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 5 IV",
+   "model": "SOG09"
+  }
+ ],
+ "XQ-CQ44": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 5 IV",
+   "model": "XQ-CQ44"
+  }
+ ],
+ "XQ-CQ54": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 5 IV",
+   "model": "XQ-CQ54"
+  }
+ ],
+ "XQ-CQ62": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 5 IV",
+   "model": "XQ-CQ62"
+  }
+ ],
+ "XQ-CQ72": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 5 IV",
+   "model": "XQ-CQ72"
   }
  ],
  "902SO": [
@@ -208680,6 +208757,13 @@
    "brand": "Tecno Mobile",
    "name": "CAMON 19 Neo",
    "model": "TECNO Mobile CH6i"
+  }
+ ],
+ "TECNO-Mobile-LG6n": [
+  {
+   "brand": "Tecno Mobile",
+   "name": "POVA Neo 2",
+   "model": "TECNO Mobile LG6n"
   }
  ],
  "EDT800": [
@@ -242190,6 +242274,18 @@
    "brand": "realme",
    "name": "realme  X7 Max",
    "model": "RMX3031"
+  }
+ ],
+ "RMX2156L1": [
+  {
+   "brand": "realme",
+   "name": "realme  narzo  30",
+   "model": "RMX2156"
+  },
+  {
+   "brand": "realme",
+   "name": "realme narzo 30",
+   "model": "RMX2156"
   }
  ],
  "RMX2061L1": [

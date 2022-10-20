@@ -34304,6 +34304,23 @@
    "device": "CLARMIN_C1"
   }
  ],
+ "B866V2": [
+  {
+   "brand": "Claro",
+   "name": "B866V2",
+   "device": "B866V2_V1_0_0"
+  },
+  {
+   "brand": "Viettel",
+   "name": "B866V2",
+   "device": "MediaBox_B866V2"
+  },
+  {
+   "brand": "Vision",
+   "name": "B866V2",
+   "device": "MediaBox_B866V2"
+  }
+ ],
  "CLARO BOX TV": [
   {
    "brand": "Claro",
@@ -86567,6 +86584,13 @@
    "device": "HWMLA"
   }
  ],
+ "BIG BANG e Gen 3": [
+  {
+   "brand": "Hublot",
+   "name": "Big Bang e Gen 3",
+   "device": "turbot"
+  }
+ ],
  "Big Bang e": [
   {
    "brand": "Hublot",
@@ -91295,6 +91319,13 @@
    "device": "Infinix-X6815"
   }
  ],
+ "Infinix X6815C": [
+  {
+   "brand": "Infinix",
+   "name": "ZERO 5G 2023",
+   "device": "Infinix-X6815C"
+  }
+ ],
  "Infinix X6820": [
   {
    "brand": "Infinix",
@@ -95172,6 +95203,13 @@
    "device": "itel-L5007"
   }
  ],
+ "itel A511LP": [
+  {
+   "brand": "Itel",
+   "name": "itel A24 Pro",
+   "device": "itel-A511LP2"
+  }
+ ],
  "itel A551L": [
   {
    "brand": "Itel",
@@ -98012,6 +98050,13 @@
    "brand": "THEHAM",
    "name": "THEHAM",
    "device": "stanford"
+  }
+ ],
+ "EcoTV Plus": [
+  {
+   "brand": "KTCtv",
+   "name": "SA",
+   "device": "hongkong"
   }
  ],
  "40DSA": [
@@ -123454,6 +123499,13 @@
    "device": "seocho"
   }
  ],
+ "ENTV4KAndroidTV": [
+  {
+   "brand": "MTC",
+   "name": "ENTV",
+   "device": "shilin"
+  }
+ ],
  "Hansung 4K Android TV": [
   {
    "brand": "MTC",
@@ -131445,7 +131497,7 @@
   },
   {
    "brand": "Mobvoi",
-   "name": "TicWatch Pro 3 Cellular/LTE",
+   "name": "TicWatch Pro 3 Cellular/LTE; TicWatch Pro 3 Ultra",
    "device": "rover"
   }
  ],
@@ -131459,28 +131511,28 @@
  "TicWatch Pro 3 Ultra": [
   {
    "brand": "Mobvoi",
-   "name": "TicWatch Pro 3 Cellular/LTE",
+   "name": "TicWatch Pro 3 Cellular/LTE; TicWatch Pro 3 Ultra",
    "device": "rover"
   }
  ],
  "TicWatch Pro 3 GPS": [
   {
    "brand": "Mobvoi",
-   "name": "TicWatch Pro 3 GPS",
+   "name": "TicWatch Pro 3 GPS; TicWatch Pro 3 Ultra GPS",
    "device": "rubyfish"
   }
  ],
  "TicWatch Pro 3 Ultra GPS": [
   {
    "brand": "Mobvoi",
-   "name": "TicWatch Pro 3 GPS",
+   "name": "TicWatch Pro 3 GPS; TicWatch Pro 3 Ultra GPS",
    "device": "rubyfish"
   }
  ],
  "TicWatch Pro 3U": [
   {
    "brand": "Mobvoi",
-   "name": "TicWatch Pro 3 GPS",
+   "name": "TicWatch Pro 3 GPS; TicWatch Pro 3 Ultra GPS",
    "device": "rubyfish"
   }
  ],
@@ -154926,6 +154978,13 @@
    "device": "PlimPad_P3"
   }
  ],
+ "PlimPad_P60": [
+  {
+   "brand": "Plimpton",
+   "name": "PlimPad_P60",
+   "device": "PlimPad_P60"
+  }
+ ],
  "Z621": [
   {
    "brand": "Plum",
@@ -163323,18 +163382,6 @@
    "brand": "realme",
    "name": "realme GT 5G",
    "device": "RMX2202L1"
-  }
- ],
- "RMX2156": [
-  {
-   "brand": "Realme",
-   "name": "realme  narzo  30",
-   "device": "RMX2156L1"
-  },
-  {
-   "brand": "realme",
-   "name": "realme narzo 30",
-   "device": "RMX2156L1"
   }
  ],
  "RMX1801": [
@@ -195788,11 +195835,53 @@
    "device": "XQ-BQ72"
   }
  ],
+ "A204SO": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 5 IV",
+   "device": "A204SO"
+  }
+ ],
  "SO-54C": [
   {
    "brand": "Sony",
    "name": "Xperia 5 IV",
    "device": "SO-54C"
+  }
+ ],
+ "SOG09": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 5 IV",
+   "device": "SOG09"
+  }
+ ],
+ "XQ-CQ44": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 5 IV",
+   "device": "XQ-CQ44"
+  }
+ ],
+ "XQ-CQ54": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 5 IV",
+   "device": "XQ-CQ54"
+  }
+ ],
+ "XQ-CQ62": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 5 IV",
+   "device": "XQ-CQ62"
+  }
+ ],
+ "XQ-CQ72": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 5 IV",
+   "device": "XQ-CQ72"
   }
  ],
  "902SO": [
@@ -216749,6 +216838,13 @@
    "device": "TECNO-Mobile-CH6i"
   }
  ],
+ "TECNO Mobile LG6n": [
+  {
+   "brand": "Tecno Mobile",
+   "name": "POVA Neo 2",
+   "device": "TECNO-Mobile-LG6n"
+  }
+ ],
  "EDT800": [
   {
    "brand": "Tecnomaster",
@@ -225234,18 +225330,6 @@
    "brand": "Vida",
    "name": "i401",
    "device": "VIDA-i401"
-  }
- ],
- "B866V2": [
-  {
-   "brand": "Viettel",
-   "name": "B866V2",
-   "device": "MediaBox_B866V2"
-  },
-  {
-   "brand": "Vision",
-   "name": "B866V2",
-   "device": "MediaBox_B866V2"
   }
  ],
  "V8802": [
@@ -252887,6 +252971,18 @@
    "brand": "realme",
    "name": "真我GT Neo",
    "device": "RMX3031CN"
+  }
+ ],
+ "RMX2156": [
+  {
+   "brand": "realme",
+   "name": "realme  narzo  30",
+   "device": "RMX2156L1"
+  },
+  {
+   "brand": "realme",
+   "name": "realme narzo 30",
+   "device": "RMX2156L1"
   }
  ],
  "RMX2061": [

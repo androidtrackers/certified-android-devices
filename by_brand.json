@@ -23114,6 +23114,11 @@
  ],
  "Claro": [
   {
+   "device": "B866V2_V1_0_0",
+   "name": "B866V2",
+   "model": "B866V2"
+  },
+  {
    "device": "SEI810CCOA",
    "name": "CLARO BOX TV",
    "model": "CLARO BOX TV"
@@ -62312,6 +62317,11 @@
  ],
  "Hublot": [
   {
+   "device": "turbot",
+   "name": "Big Bang e Gen 3",
+   "model": "BIG BANG e Gen 3"
+  },
+  {
    "device": "halibut",
    "name": "Hublot Big Bang e",
    "model": "Big Bang e"
@@ -66077,6 +66087,11 @@
    "model": "Infinix X6815"
   },
   {
+   "device": "Infinix-X6815C",
+   "name": "ZERO 5G 2023",
+   "model": "Infinix X6815C"
+  },
+  {
    "device": "Infinix-X6820",
    "name": "ZERO ULTRA",
    "model": "Infinix X6820"
@@ -69001,6 +69016,11 @@
    "model": "itel L5007"
   },
   {
+   "device": "itel-A511LP2",
+   "name": "itel A24 Pro",
+   "model": "itel A511LP"
+  },
+  {
    "device": "itel-L5002R",
    "name": "itel A25",
    "model": "itel L5002"
@@ -71487,6 +71507,11 @@
    "device": "stanford",
    "name": "Rosso",
    "model": "40D"
+  },
+  {
+   "device": "hongkong",
+   "name": "SA",
+   "model": "EcoTV Plus"
   },
   {
    "device": "stanford",
@@ -91046,6 +91071,11 @@
    "model": "ENTV 4K Android TV"
   },
   {
+   "device": "shilin",
+   "name": "ENTV",
+   "model": "ENTV4KAndroidTV"
+  },
+  {
    "device": "seocho",
    "name": "Hansung",
    "model": "Hansung 4K Android TV"
@@ -97325,27 +97355,27 @@
   },
   {
    "device": "rover",
-   "name": "TicWatch Pro 3 Cellular/LTE",
+   "name": "TicWatch Pro 3 Cellular/LTE; TicWatch Pro 3 Ultra",
    "model": "TicWatch Pro 3"
   },
   {
    "device": "rover",
-   "name": "TicWatch Pro 3 Cellular/LTE",
+   "name": "TicWatch Pro 3 Cellular/LTE; TicWatch Pro 3 Ultra",
    "model": "TicWatch Pro 3 Ultra"
   },
   {
    "device": "rubyfish",
-   "name": "TicWatch Pro 3 GPS",
+   "name": "TicWatch Pro 3 GPS; TicWatch Pro 3 Ultra GPS",
    "model": "TicWatch Pro 3 GPS"
   },
   {
    "device": "rubyfish",
-   "name": "TicWatch Pro 3 GPS",
+   "name": "TicWatch Pro 3 GPS; TicWatch Pro 3 Ultra GPS",
    "model": "TicWatch Pro 3 Ultra GPS"
   },
   {
    "device": "rubyfish",
-   "name": "TicWatch Pro 3 GPS",
+   "name": "TicWatch Pro 3 GPS; TicWatch Pro 3 Ultra GPS",
    "model": "TicWatch Pro 3U"
   },
   {
@@ -116281,6 +116311,11 @@
    "model": "PlimPad P3"
   },
   {
+   "device": "PlimPad_P60",
+   "name": "PlimPad_P60",
+   "model": "PlimPad_P60"
+  },
+  {
    "device": "X100",
    "name": "X100",
    "model": "X100"
@@ -122902,11 +122937,6 @@
    "device": "RMX2202L1",
    "name": "realme  GT 5G",
    "model": "RMX2202"
-  },
-  {
-   "device": "RMX2156L1",
-   "name": "realme  narzo  30",
-   "model": "RMX2156"
   },
   {
    "device": "RMX1801",
@@ -147398,9 +147428,39 @@
    "model": "XQ-BQ72"
   },
   {
+   "device": "A204SO",
+   "name": "Xperia 5 IV",
+   "model": "A204SO"
+  },
+  {
    "device": "SO-54C",
    "name": "Xperia 5 IV",
    "model": "SO-54C"
+  },
+  {
+   "device": "SOG09",
+   "name": "Xperia 5 IV",
+   "model": "SOG09"
+  },
+  {
+   "device": "XQ-CQ44",
+   "name": "Xperia 5 IV",
+   "model": "XQ-CQ44"
+  },
+  {
+   "device": "XQ-CQ54",
+   "name": "Xperia 5 IV",
+   "model": "XQ-CQ54"
+  },
+  {
+   "device": "XQ-CQ62",
+   "name": "Xperia 5 IV",
+   "model": "XQ-CQ62"
+  },
+  {
+   "device": "XQ-CQ72",
+   "name": "Xperia 5 IV",
+   "model": "XQ-CQ72"
   },
   {
    "device": "902SO",
@@ -163680,6 +163740,11 @@
    "device": "TECNO-Mobile-CH6i",
    "name": "CAMON 19 Neo",
    "model": "TECNO Mobile CH6i"
+  },
+  {
+   "device": "TECNO-Mobile-LG6n",
+   "name": "POVA Neo 2",
+   "model": "TECNO Mobile LG6n"
   }
  ],
  "Tecnomaster": [
@@ -193328,6 +193393,11 @@
    "device": "RMX3031L1",
    "name": "realme  X7 Max",
    "model": "RMX3031"
+  },
+  {
+   "device": "RMX2156L1",
+   "name": "realme  narzo  30",
+   "model": "RMX2156"
   },
   {
    "device": "RMX2001L1",
