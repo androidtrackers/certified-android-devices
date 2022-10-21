@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-10-20
+Last sync is 2022-10-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6429,6 +6429,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EPIKONE|X650|X650|X650|
 |EPIKONE|X655|X655|X655|
 |EPIKONE|k503|K503|K503|
+|ER-Telecom|Movix Pro Voice|SEI700ER|Movix Pro Voice|
 |ESI Enterprises|CKT3|CKT3|CKT3|
 |ESI Enterprises|DT101Bv51|DT101Bv51|DT101Bv51|
 |ESI Enterprises|DT7v51B|DT7v51B|DT7v51B|
@@ -12594,6 +12595,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Inco|eco_s|eco_s|eco_s|
 |IndiHome|B860H V5.0|B860HV5_Telkom|B860H V5.0|
 |IndiHome|HG680_FJ|HG680|HG680_FJ|
+|Indurama|INDURAMA|stanford|INDURAMA SMART TV 2K|
+|Indurama|INDURAMA|zhongshan|INDURAMA SMART TV 4K|
 |Indurama|Indurama|stanford|CSV2K|
 |Indurama|Indurama|zhongshan|CSV4K|
 |Indurama|indurama 2K TV|shinjuku|indurama 2K TV|
@@ -13888,6 +13891,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|VIZZION|stanford|F VIZZION TV|
 |KTCtv|VON|stanford|2K SMART TV|
 |KTCtv|VON|zhongshan|4K SMART TV|
+|KTCtv|XITRIX|stanford|SMART TV|
 |KTCtv|XITRIX|zhongshan|4K SMART TV|
 |KTCtv|Zitro|stanford|40DSA|
 |KTCtv|Zitro|zhongshan|43FSA|
@@ -22622,6 +22626,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PlayPoland|Play Now|dctiw362p|DCTIW362_PLAY|
 |PlayPoland|play_dctiw362|dctiw362p|DCTIW362_PLAY|
 |Plimpton|Kids_10|Kids_10|Kids_10|
+|Plimpton|P60_Pro|P60_Pro|PlimPad_P60_Pro|
 |Plimpton|PlimPad_P3|PlimPad_P3|PlimPad P3|
 |Plimpton|PlimPad_P60|PlimPad_P60|PlimPad_P60|
 |Plimpton|X100|X100|X100|
@@ -27507,6 +27512,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Flip3 5G|b2q|SM-F711U1|
 |Samsung|Galaxy Z Flip3 5G|b2q|SM-F711W|
 |Samsung|Galaxy Z Flip4|SC-54C|SC-54C|
+|Samsung|Galaxy Z Flip4|SCG17|SCG17|
 |Samsung|Galaxy Z Flip4|b4q|SM-F7210|
 |Samsung|Galaxy Z Flip4|b4q|SM-F721B|
 |Samsung|Galaxy Z Flip4|b4q|SM-F721C|
@@ -27530,6 +27536,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Fold3 5G|q2q|SM-F926U1|
 |Samsung|Galaxy Z Fold3 5G|q2q|SM-F926W|
 |Samsung|Galaxy Z Fold4|SC-55C|SC-55C|
+|Samsung|Galaxy Z Fold4|SCG16|SCG16|
 |Samsung|Galaxy Z Fold4|q4q|SM-F9360|
 |Samsung|Galaxy Z Fold4|q4q|SM-F936B|
 |Samsung|Galaxy Z Fold4|q4q|SM-F936N|
@@ -28167,6 +28174,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Shenzhen Jiuzhou|DTP9503|DTP9503|DTP9503|
 |Shenzhen Jiuzhou|DTP9710|DTP9710|DTP9710|
 |Shenzhen SEI Robotics|ADT-2|adt2|ADT-2|
+|Shenzhen SEI Robotics|SCVinfi 4K|SEI630SCV|SCVinfi 4K|
 |Shenzhen SEI Robotics|SEI103V|SEI103|ANDROID TV MEDIA BOX|
 |Shenzhen SEI Robotics|waipu tv stick|SEI700WP|waipu tv stick|
 |Shuttle|PNT-7045|PNT-7045|PNT-7045|
@@ -28596,6 +28604,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sonimtech|RS60|RS60|RS60|
 |Sonimtech|RS80|RS80|RS80|
 |Sonimtech|Smart-Ex 01|XP7700Z1|Smart-Ex 01|
+|Sonimtech|XP10|XP9900|XP9900|
 |Sonimtech|XP6|XP6700|Ex-Handy 209|
 |Sonimtech|XP6|XP6700|XP6700|
 |Sonimtech|XP7|XP7700|Smart-Ex 201|
@@ -34961,14 +34970,19 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|MiBox S|oneday|MIBOX4|
 |Xiaomi|MiTV|amelie|MiTV-MSSP0|
 |Xiaomi|MiTV|croods|MiTV-MOOQ0|
+|Xiaomi|MiTV|croods|MiTV-MOOQ2|
 |Xiaomi|MiTV|dangal|MiTV-AXSO0|
 |Xiaomi|MiTV|dangalFHD|MiTV-AXSO1|
 |Xiaomi|MiTV|dangalUHD|MiTV-AXSO2|
 |Xiaomi|MiTV|hermano|MiTV-MOSR0|
+|Xiaomi|MiTV|hermano|MiTV-MOSR1|
 |Xiaomi|MiTV|machuca|MiTV-MSSP3|
 |Xiaomi|MiTV|magnolia|MiTV4I|
+|Xiaomi|MiTV|martian|MiTV-MSOR0|
 |Xiaomi|MiTV|nino|MiTV-MSSP1|
+|Xiaomi|MiTV|rango|MiTV-AXFR1|
 |Xiaomi|MiTV|tarzan|MiTV-MOOQ1|
+|Xiaomi|MiTV|venom|MiTV-MOOR0|
 |Xiaomi|MiTV|volver|MiTV-MSSP2|
 |Xiaomi|MiTV2|entrapment|MiTV2|
 |Xiaomi|MiTV4C|matrix|MiTV4C|

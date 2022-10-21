@@ -55191,6 +55191,13 @@
    "model": "K503"
   }
  ],
+ "Movix Pro Voice": [
+  {
+   "brand": "ER-Telecom",
+   "device": "SEI700ER",
+   "model": "Movix Pro Voice"
+  }
+ ],
  "CKT3": [
   {
    "brand": "ESI Enterprises",
@@ -92519,6 +92526,18 @@
    "model": "HG680_FJ"
   }
  ],
+ "INDURAMA": [
+  {
+   "brand": "Indurama",
+   "device": "stanford",
+   "model": "INDURAMA SMART TV 2K"
+  },
+  {
+   "brand": "Indurama",
+   "device": "zhongshan",
+   "model": "INDURAMA SMART TV 4K"
+  }
+ ],
  "Indurama": [
   {
    "brand": "Indurama",
@@ -100595,6 +100614,11 @@
   }
  ],
  "XITRIX": [
+  {
+   "brand": "KTCtv",
+   "device": "stanford",
+   "model": "SMART TV"
+  },
   {
    "brand": "KTCtv",
    "device": "zhongshan",
@@ -152404,6 +152428,13 @@
    "model": "Kids_10"
   }
  ],
+ "P60_Pro": [
+  {
+   "brand": "Plimpton",
+   "device": "P60_Pro",
+   "model": "PlimPad_P60_Pro"
+  }
+ ],
  "PlimPad_P3": [
   {
    "brand": "Plimpton",
@@ -161323,6 +161354,11 @@
   },
   {
    "brand": "Xiaomi",
+   "device": "croods",
+   "model": "MiTV-MOOQ2"
+  },
+  {
+   "brand": "Xiaomi",
    "device": "dangal",
    "model": "MiTV-AXSO0"
   },
@@ -161343,6 +161379,11 @@
   },
   {
    "brand": "Xiaomi",
+   "device": "hermano",
+   "model": "MiTV-MOSR1"
+  },
+  {
+   "brand": "Xiaomi",
    "device": "machuca",
    "model": "MiTV-MSSP3"
   },
@@ -161353,13 +161394,28 @@
   },
   {
    "brand": "Xiaomi",
+   "device": "martian",
+   "model": "MiTV-MSOR0"
+  },
+  {
+   "brand": "Xiaomi",
    "device": "nino",
    "model": "MiTV-MSSP1"
   },
   {
    "brand": "Xiaomi",
+   "device": "rango",
+   "model": "MiTV-AXFR1"
+  },
+  {
+   "brand": "Xiaomi",
    "device": "tarzan",
    "model": "MiTV-MOOQ1"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "venom",
+   "model": "MiTV-MOOR0"
   },
   {
    "brand": "Xiaomi",
@@ -180739,6 +180795,11 @@
   },
   {
    "brand": "Samsung",
+   "device": "SCG17",
+   "model": "SCG17"
+  },
+  {
+   "brand": "Samsung",
    "device": "b4q",
    "model": "SM-F7210"
   },
@@ -180857,6 +180918,11 @@
    "brand": "Samsung",
    "device": "SC-55C",
    "model": "SC-55C"
+  },
+  {
+   "brand": "Samsung",
+   "device": "SCG16",
+   "model": "SCG16"
   },
   {
    "brand": "Samsung",
@@ -184899,6 +184965,13 @@
    "model": "ADT-2"
   }
  ],
+ "SCVinfi 4K": [
+  {
+   "brand": "Shenzhen SEI Robotics",
+   "device": "SEI630SCV",
+   "model": "SCVinfi 4K"
+  }
+ ],
  "SEI103V": [
   {
    "brand": "Shenzhen SEI Robotics",
@@ -187576,6 +187649,13 @@
    "brand": "Sonimtech",
    "device": "XP7700Z1",
    "model": "Smart-Ex 01"
+  }
+ ],
+ "XP10": [
+  {
+   "brand": "Sonimtech",
+   "device": "XP9900",
+   "model": "XP9900"
   }
  ],
  "XP6": [

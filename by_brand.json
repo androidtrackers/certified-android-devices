@@ -33317,6 +33317,13 @@
    "model": "K503"
   }
  ],
+ "ER-Telecom": [
+  {
+   "device": "SEI700ER",
+   "name": "Movix Pro Voice",
+   "model": "Movix Pro Voice"
+  }
+ ],
  "ESI Enterprises": [
   {
    "device": "CKT3",
@@ -64905,6 +64912,16 @@
  "Indurama": [
   {
    "device": "stanford",
+   "name": "INDURAMA",
+   "model": "INDURAMA SMART TV 2K"
+  },
+  {
+   "device": "zhongshan",
+   "name": "INDURAMA",
+   "model": "INDURAMA SMART TV 4K"
+  },
+  {
+   "device": "stanford",
    "name": "Indurama",
    "model": "CSV2K"
   },
@@ -71562,6 +71579,11 @@
    "device": "zhongshan",
    "name": "VON",
    "model": "4K SMART TV"
+  },
+  {
+   "device": "stanford",
+   "name": "XITRIX",
+   "model": "SMART TV"
   },
   {
    "device": "zhongshan",
@@ -116306,6 +116328,11 @@
    "model": "Kids_10"
   },
   {
+   "device": "P60_Pro",
+   "name": "P60_Pro",
+   "model": "PlimPad_P60_Pro"
+  },
+  {
    "device": "PlimPad_P3",
    "name": "PlimPad_P3",
    "model": "PlimPad P3"
@@ -141141,6 +141168,11 @@
    "model": "SC-54C"
   },
   {
+   "device": "SCG17",
+   "name": "Galaxy Z Flip4",
+   "model": "SCG17"
+  },
+  {
    "device": "b4q",
    "name": "Galaxy Z Flip4",
    "model": "SM-F7210"
@@ -141254,6 +141286,11 @@
    "device": "SC-55C",
    "name": "Galaxy Z Fold4",
    "model": "SC-55C"
+  },
+  {
+   "device": "SCG16",
+   "name": "Galaxy Z Fold4",
+   "model": "SCG16"
   },
   {
    "device": "q4q",
@@ -144511,6 +144548,11 @@
    "model": "ADT-2"
   },
   {
+   "device": "SEI630SCV",
+   "name": "SCVinfi 4K",
+   "model": "SCVinfi 4K"
+  },
+  {
    "device": "SEI103",
    "name": "SEI103V",
    "model": "ANDROID TV MEDIA BOX"
@@ -146742,6 +146784,11 @@
    "device": "XP7700Z1",
    "name": "Smart-Ex 01",
    "model": "Smart-Ex 01"
+  },
+  {
+   "device": "XP9900",
+   "name": "XP10",
+   "model": "XP9900"
   },
   {
    "device": "XP6700",
@@ -179483,6 +179530,11 @@
    "model": "MiTV-MOOQ0"
   },
   {
+   "device": "croods",
+   "name": "MiTV",
+   "model": "MiTV-MOOQ2"
+  },
+  {
    "device": "dangal",
    "name": "MiTV",
    "model": "MiTV-AXSO0"
@@ -179503,6 +179555,11 @@
    "model": "MiTV-MOSR0"
   },
   {
+   "device": "hermano",
+   "name": "MiTV",
+   "model": "MiTV-MOSR1"
+  },
+  {
    "device": "machuca",
    "name": "MiTV",
    "model": "MiTV-MSSP3"
@@ -179513,14 +179570,29 @@
    "model": "MiTV4I"
   },
   {
+   "device": "martian",
+   "name": "MiTV",
+   "model": "MiTV-MSOR0"
+  },
+  {
    "device": "nino",
    "name": "MiTV",
    "model": "MiTV-MSSP1"
   },
   {
+   "device": "rango",
+   "name": "MiTV",
+   "model": "MiTV-AXFR1"
+  },
+  {
    "device": "tarzan",
    "name": "MiTV",
    "model": "MiTV-MOOQ1"
+  },
+  {
+   "device": "venom",
+   "name": "MiTV",
+   "model": "MiTV-MOOR0"
   },
   {
    "device": "volver",

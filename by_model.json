@@ -7689,6 +7689,11 @@
    "device": "stanford"
   },
   {
+   "brand": "KTCtv",
+   "name": "XITRIX",
+   "device": "stanford"
+  },
+  {
    "brand": "Siragon",
    "name": "SA",
    "device": "zhongshan"
@@ -48206,6 +48211,13 @@
    "brand": "EPIKONE",
    "name": "k503",
    "device": "K503"
+  }
+ ],
+ "Movix Pro Voice": [
+  {
+   "brand": "ER-Telecom",
+   "name": "Movix Pro Voice",
+   "device": "SEI700ER"
   }
  ],
  "CKT3": [
@@ -89772,6 +89784,20 @@
    "brand": "IndiHome",
    "name": "HG680_FJ",
    "device": "HG680"
+  }
+ ],
+ "INDURAMA SMART TV 2K": [
+  {
+   "brand": "Indurama",
+   "name": "INDURAMA",
+   "device": "stanford"
+  }
+ ],
+ "INDURAMA SMART TV 4K": [
+  {
+   "brand": "Indurama",
+   "name": "INDURAMA",
+   "device": "zhongshan"
   }
  ],
  "indurama 2K TV": [
@@ -154971,6 +154997,13 @@
    "device": "Kids_10"
   }
  ],
+ "PlimPad_P60_Pro": [
+  {
+   "brand": "Plimpton",
+   "name": "P60_Pro",
+   "device": "P60_Pro"
+  }
+ ],
  "PlimPad P3": [
   {
    "brand": "Plimpton",
@@ -187846,6 +187879,13 @@
    "device": "SC-54C"
   }
  ],
+ "SCG17": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Flip4",
+   "device": "SCG17"
+  }
+ ],
  "SM-F7210": [
   {
    "brand": "Samsung",
@@ -188005,6 +188045,13 @@
    "brand": "Samsung",
    "name": "Galaxy Z Fold4",
    "device": "SC-55C"
+  }
+ ],
+ "SCG16": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold4",
+   "device": "SCG16"
   }
  ],
  "SM-F9360": [
@@ -192215,6 +192262,13 @@
    "device": "adt2"
   }
  ],
+ "SCVinfi 4K": [
+  {
+   "brand": "Shenzhen SEI Robotics",
+   "name": "SCVinfi 4K",
+   "device": "SEI630SCV"
+  }
+ ],
  "ANDROID TV MEDIA BOX": [
   {
    "brand": "Shenzhen SEI Robotics",
@@ -194829,6 +194883,13 @@
    "brand": "Sonimtech",
    "name": "XP7700Z1",
    "device": "XP7700Z1"
+  }
+ ],
+ "XP9900": [
+  {
+   "brand": "Sonimtech",
+   "name": "XP10",
+   "device": "XP9900"
   }
  ],
  "Ex-Handy 209": [
@@ -235777,6 +235838,13 @@
    "device": "croods"
   }
  ],
+ "MiTV-MOOQ2": [
+  {
+   "brand": "Xiaomi",
+   "name": "MiTV",
+   "device": "croods"
+  }
+ ],
  "MiTV-AXSO0": [
   {
    "brand": "Xiaomi",
@@ -235805,6 +235873,13 @@
    "device": "hermano"
   }
  ],
+ "MiTV-MOSR1": [
+  {
+   "brand": "Xiaomi",
+   "name": "MiTV",
+   "device": "hermano"
+  }
+ ],
  "MiTV-MSSP3": [
   {
    "brand": "Xiaomi",
@@ -235819,6 +235894,13 @@
    "device": "magnolia"
   }
  ],
+ "MiTV-MSOR0": [
+  {
+   "brand": "Xiaomi",
+   "name": "MiTV",
+   "device": "martian"
+  }
+ ],
  "MiTV-MSSP1": [
   {
    "brand": "Xiaomi",
@@ -235826,11 +235908,25 @@
    "device": "nino"
   }
  ],
+ "MiTV-AXFR1": [
+  {
+   "brand": "Xiaomi",
+   "name": "MiTV",
+   "device": "rango"
+  }
+ ],
  "MiTV-MOOQ1": [
   {
    "brand": "Xiaomi",
    "name": "MiTV",
    "device": "tarzan"
+  }
+ ],
+ "MiTV-MOOR0": [
+  {
+   "brand": "Xiaomi",
+   "name": "MiTV",
+   "device": "venom"
   }
  ],
  "MiTV-MSSP2": [
