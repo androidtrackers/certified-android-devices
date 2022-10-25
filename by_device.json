@@ -206384,6 +206384,11 @@
  "P80T": [
   {
    "brand": "Teclast",
+   "name": "P80T_EEA",
+   "model": "P80T_EEA"
+  },
+  {
+   "brand": "Teclast",
    "name": "P80T_ROW",
    "model": "P80T_ROW"
   }

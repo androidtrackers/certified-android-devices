@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2022-10-24
+Last sync is 2022-10-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -31569,6 +31569,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P30HD_RU|P30HD|P30HD|
 |Teclast|P40HD_EEA|P40HD_EEA|P40HD|
 |Teclast|P40HD_ROW|P40HD_ROW|P40HD|
+|Teclast|P80T_EEA|P80T|P80T_EEA|
 |Teclast|P80T_ROW|P80T|P80T_ROW|
 |Teclast|P80X|P80X|P80X|
 |Teclast|P80X_EEA|P80X|P80X|
