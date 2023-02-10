@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-02-09
+Last sync is 2023-02-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -38140,7 +38140,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iLife|KIDS-TAB-5|KIDS-TAB-5|KIDS-TAB-5|
 |iLife|KIDS_TAB_6|KIDS_TAB_6|KIDS_TAB_6|
 |iLife|MISA|MISA|MISA|
-|iMin|Falcon_1|I22T01|I22T01|
+|iMin|Falcon 1|I22T01|I22T01|
 |iMin|Swift 1|I22M01|I22M01|
 |iMin|Swift 1|I22M01|Swift_1|
 |iMuz|4K Smart TV|pioneer|4K SA Smart TV|
