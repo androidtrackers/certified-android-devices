@@ -109471,6 +109471,11 @@
    "model": "D00"
   },
   {
+   "device": "Edinburgh",
+   "name": "E00",
+   "model": "E00"
+  },
+  {
    "device": "A0001",
    "name": "One",
    "model": "A0001"

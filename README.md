@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-02-10
+Last sync is 2023-02-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -21279,6 +21279,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|3|OnePlus3|ONEPLUS A3000|
 |OnePlus|C00|Cebu|C00|
 |OnePlus|D00|Dubai|D00|
+|OnePlus|E00|Edinburgh|E00|
 |OnePlus|One|A0001|A0001|
 |OnePlus|One|A0001|One|
 |OnePlus|OnePlus|OnePlus|ONE E1003|
