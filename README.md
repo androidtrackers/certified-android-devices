@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-02-12
+Last sync is 2023-02-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10652,6 +10652,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X8|HNTFY-Q|TFY-LX2|
 |Honor|HONOR X8|HNTFY-Q|TFY-LX3|
 |Honor|HONOR X8 5G|HNVNE-Q|VNE-N41|
+|Honor|HONOR X8a|HNCRT-M1|CRT-LX1|
+|Honor|HONOR X8a|HNCRT-M1|CRT-LX2|
+|Honor|HONOR X8a|HNCRT-M1|CRT-LX3|
 |Honor|HONOR X9|HNANY-Q1|ANY-LX1|
 |Honor|HONOR X9|HNANY-Q1|ANY-LX2|
 |Honor|HONOR X9|HNANY-Q1|ANY-LX3|
@@ -20060,6 +20063,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M7 WIFI|ML_JI2D_M7_WIFI|M7_WIFI|
 |Multilaser|M7 WIFI|ML_JI3D_M7_WIFI|M7_WIFI|
 |Multilaser|M7 WIFI|ML_SO0E_M7_WIFI|M7_WIFI|
+|Multilaser|M7 WIFI|ML_SO0P_M7_WIFI|M7_WIFI|
 |Multilaser|M7 WIFI|ML_SO1E_M7_Wifi|M7_WIFI|
 |Multilaser|M7 WIFI|ML_SO2E_M7_WIFI|M7_WIFI|
 |Multilaser|M7-3G PLUS|ML-JI21-M7-3G-PLUS|M7-3G-PLUS|
@@ -21420,6 +21424,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Opay|V9 Pro|V9_Pro|V9 Pro|
 |OpelMobile|EasySmart|EasySmart|EasySmart|
 |OpelMobile|EasySmart 2|Easy_Smart_2|Easy_Smart_2|
+|OpelMobile|OMSJ523B|OpelMobile_OMSJ523B|Smart J5|
 |OpelMobile|Opel Mobile_Smart_J2|Smart_J2|Smart_J2|
 |OpelMobile|SMARTKIDS|SMARTKIDS|SMARTKIDS|
 |OpelMobile|Smart X6|SmartX6|Opel Mobile SmartX6|
@@ -21549,6 +21554,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A77|A77|OPPO A77|
 |Oppo|A77|A77|OPPO A77t|
 |Oppo|A77 5G|OP52F3L1|CPH2339|
+|Oppo|A78 5G|OP52F3L1|CPH2483|
+|Oppo|A78 5G|OP52F3L1|CPH2495|
 |Oppo|A79|A79|OPPO A79|
 |Oppo|A79k|A79k|OPPO A79k|
 |Oppo|A79kt|A79kt|OPPO A79kt|
@@ -34354,6 +34361,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y31i|Y31i|vivo Y31|
 |Vivo|Y31i|Y31i|vivo Y31i|
 |Vivo|Y33|bbk6735_65c_l|vivo Y33|
+|Vivo|Y33t|PD2236|V2236A|
 |Vivo|Y35|PD1502L|vivo Y35|
 |Vivo|Y35|PD2230|V2230A|
 |Vivo|Y35|V2205|V2205|

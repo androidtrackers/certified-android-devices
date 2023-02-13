@@ -83072,6 +83072,23 @@
    "model": "VNE-N41"
   }
  ],
+ "HONOR X8a": [
+  {
+   "brand": "Honor",
+   "device": "HNCRT-M1",
+   "model": "CRT-LX1"
+  },
+  {
+   "brand": "Honor",
+   "device": "HNCRT-M1",
+   "model": "CRT-LX2"
+  },
+  {
+   "brand": "Honor",
+   "device": "HNCRT-M1",
+   "model": "CRT-LX3"
+  }
+ ],
  "HONOR X9": [
   {
    "brand": "Honor",
@@ -137020,6 +137037,11 @@
   },
   {
    "brand": "Multilaser",
+   "device": "ML_SO0P_M7_WIFI",
+   "model": "M7_WIFI"
+  },
+  {
+   "brand": "Multilaser",
    "device": "ML_SO1E_M7_Wifi",
    "model": "M7_WIFI"
   },
@@ -145181,6 +145203,13 @@
    "model": "Easy_Smart_2"
   }
  ],
+ "OMSJ523B": [
+  {
+   "brand": "OpelMobile",
+   "device": "OpelMobile_OMSJ523B",
+   "model": "Smart J5"
+  }
+ ],
  "Opel Mobile_Smart_J2": [
   {
    "brand": "OpelMobile",
@@ -145805,6 +145834,18 @@
    "brand": "Oppo",
    "device": "OP52F3L1",
    "model": "CPH2339"
+  }
+ ],
+ "A78 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP52F3L1",
+   "model": "CPH2483"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP52F3L1",
+   "model": "CPH2495"
   }
  ],
  "A79k": [
@@ -221525,6 +221566,13 @@
    "brand": "Vivo",
    "device": "bbk6735_65c_l",
    "model": "vivo Y33"
+  }
+ ],
+ "Y33t": [
+  {
+   "brand": "Vivo",
+   "device": "PD2236",
+   "model": "V2236A"
   }
  ],
  "Y35": [
