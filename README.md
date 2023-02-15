@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-02-14
+Last sync is 2023-02-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10509,6 +10509,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honda|A-DA|yebisuHA|MY22ADA|
 |Honda|Accord|koelsch|MY16ADA|
 |Honda|Gathers|pl0a|22M Gathers|
+|Honda|IVI-SYSTEM|msmnile_au|IVI-SYSTEM|
 |Honda|MY15ADA|koelsch|MY15ADA|
 |Honda|NSX|koelsch|MY15ADA|
 |Honda|Pilot|koelsch|MY15ADA|
@@ -13471,6 +13472,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Isafe|IS655|IS655|IS655|
 |Isafe|IS910.1|IS910_1|IS910_1|
 |Isafe|IS930|IS930|IS930|
+|Iskon|Iskon.Play TV|HY44G|Iskon.Play TV|
 |Iskon|Iskon.TV|wh220_iskon|Iskon.TV|
 |Iskon|wh220_iskon|wh220_iskon|Iskon.TV|
 |Itel|A11|itel_A11|itel A11|
@@ -19845,6 +19847,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g71 5G|corfur|moto g71 5G|
 |Motorola|moto g72|vicky|moto g(50) 5G|
 |Motorola|moto g72|vicky|moto g72|
+|Motorola|moto g73 5G|devonf|moto g(50) 5G|
+|Motorola|moto g73 5G|devonf|moto g73 5G|
 |Motorola|moto g82 5G|rhodep|moto g71 5G|
 |Motorola|moto g82 5G|rhodep|moto g82 5G|
 |Motorola|moto p30|robusta|XT1943-1|
@@ -32598,6 +32602,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telenor|Smart4G|Telenor_Smart_4G|Telenor_Smart_4G|
 |Telenor|Telenor Mediahubb|vip5702w_tn|Telenor Mediahubb|
 |Telenor|V51|V51|Infinity_i4|
+|Telenor(HU)|Hipernet TV Box|Hipernet_TV_Box_B866V2|Hipernet TV Box|
 |Teleone|I06|I06|I06|
 |Telia|DV8919X-KET|DV8919X-KET|DV8919X-EE|
 |Telia|Telia Nordic STB|DV8919-KST|Telia Nordic STB|
@@ -34145,7 +34150,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2034|2034|V2034|
 |Vivo|V2034A|PD2034|V2034A|
 |Vivo|V2035|2036|V2035|
-|Vivo|V2036|2036|V2031|
 |Vivo|V2036|2036|V2036|
 |Vivo|V2036A|PD2036|V2036A|
 |Vivo|V2036_21|2036|V2036_21|

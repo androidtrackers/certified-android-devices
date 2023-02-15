@@ -34126,6 +34126,11 @@
    "model": "TV Box"
   },
   {
+   "brand": "Iskon",
+   "name": "Iskon.Play TV",
+   "model": "Iskon.Play TV"
+  },
+  {
    "brand": "Magenta TV",
    "name": "MagentaTV ONE",
    "model": "MagentaTV ONE"
@@ -77670,6 +77675,13 @@
    "brand": "Honda",
    "name": "Gathers",
    "model": "22M Gathers"
+  }
+ ],
+ "msmnile_au": [
+  {
+   "brand": "Honda",
+   "name": "IVI-SYSTEM",
+   "model": "IVI-SYSTEM"
   }
  ],
  "h16": [
@@ -135186,6 +135198,18 @@
    "brand": "Motorola",
    "name": "moto g72",
    "model": "moto g72"
+  }
+ ],
+ "devonf": [
+  {
+   "brand": "Motorola",
+   "name": "moto g73 5G",
+   "model": "moto g(50) 5G"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g73 5G",
+   "model": "moto g73 5G"
   }
  ],
  "rhodep": [
@@ -213009,6 +213033,13 @@
    "model": "Infinity_i4"
   }
  ],
+ "Hipernet_TV_Box_B866V2": [
+  {
+   "brand": "Telenor(HU)",
+   "name": "Hipernet TV Box",
+   "model": "Hipernet TV Box"
+  }
+ ],
  "I06": [
   {
    "brand": "Teleone",
@@ -222105,11 +222136,6 @@
    "brand": "Vivo",
    "name": "V2035",
    "model": "V2035"
-  },
-  {
-   "brand": "Vivo",
-   "name": "V2036",
-   "model": "V2031"
   },
   {
    "brand": "Vivo",

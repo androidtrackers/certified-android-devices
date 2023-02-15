@@ -82203,6 +82203,13 @@
    "model": "22M Gathers"
   }
  ],
+ "IVI-SYSTEM": [
+  {
+   "brand": "Honda",
+   "device": "msmnile_au",
+   "model": "IVI-SYSTEM"
+  }
+ ],
  "MY15ADA": [
   {
    "brand": "Honda",
@@ -98394,6 +98401,13 @@
    "brand": "Isafe",
    "device": "IS930",
    "model": "IS930"
+  }
+ ],
+ "Iskon.Play TV": [
+  {
+   "brand": "Iskon",
+   "device": "HY44G",
+   "model": "Iskon.Play TV"
   }
  ],
  "Iskon.TV": [
@@ -135686,6 +135700,18 @@
    "brand": "Motorola",
    "device": "vicky",
    "model": "moto g72"
+  }
+ ],
+ "moto g73 5G": [
+  {
+   "brand": "Motorola",
+   "device": "devonf",
+   "model": "moto g(50) 5G"
+  },
+  {
+   "brand": "Motorola",
+   "device": "devonf",
+   "model": "moto g73 5G"
   }
  ],
  "moto g82 5G": [
@@ -210794,6 +210820,13 @@
    "model": "Telenor Mediahubb"
   }
  ],
+ "Hipernet TV Box": [
+  {
+   "brand": "Telenor(HU)",
+   "device": "Hipernet_TV_Box_B866V2",
+   "model": "Hipernet TV Box"
+  }
+ ],
  "I06": [
   {
    "brand": "Teleone",
@@ -220213,11 +220246,6 @@
   }
  ],
  "V2036": [
-  {
-   "brand": "Vivo",
-   "device": "2036",
-   "model": "V2031"
-  },
   {
    "brand": "Vivo",
    "device": "2036",

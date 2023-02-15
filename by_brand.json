@@ -54365,6 +54365,11 @@
    "model": "22M Gathers"
   },
   {
+   "device": "msmnile_au",
+   "name": "IVI-SYSTEM",
+   "model": "IVI-SYSTEM"
+  },
+  {
    "device": "koelsch",
    "name": "MY15ADA",
    "model": "MY15ADA"
@@ -69378,6 +69383,11 @@
   }
  ],
  "Iskon": [
+  {
+   "device": "HY44G",
+   "name": "Iskon.Play TV",
+   "model": "Iskon.Play TV"
+  },
   {
    "device": "wh220_iskon",
    "name": "Iskon.TV",
@@ -101971,6 +101981,16 @@
    "device": "vicky",
    "name": "moto g72",
    "model": "moto g72"
+  },
+  {
+   "device": "devonf",
+   "name": "moto g73 5G",
+   "model": "moto g(50) 5G"
+  },
+  {
+   "device": "devonf",
+   "name": "moto g73 5G",
+   "model": "moto g73 5G"
   },
   {
    "device": "rhodep",
@@ -167182,6 +167202,13 @@
    "model": "Infinity_i4"
   }
  ],
+ "Telenor(HU)": [
+  {
+   "device": "Hipernet_TV_Box_B866V2",
+   "name": "Hipernet TV Box",
+   "model": "Hipernet TV Box"
+  }
+ ],
  "Teleone": [
   {
    "device": "I06",
@@ -175285,11 +175312,6 @@
    "device": "2036",
    "name": "V2035",
    "model": "V2035"
-  },
-  {
-   "device": "2036",
-   "name": "V2036",
-   "model": "V2031"
   },
   {
    "device": "2036",

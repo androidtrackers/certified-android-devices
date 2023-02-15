@@ -76173,6 +76173,13 @@
    "device": "pl0a"
   }
  ],
+ "IVI-SYSTEM": [
+  {
+   "brand": "Honda",
+   "name": "IVI-SYSTEM",
+   "device": "msmnile_au"
+  }
+ ],
  "MY19ADA": [
   {
    "brand": "Honda",
@@ -95854,6 +95861,13 @@
    "brand": "Isafe",
    "name": "IS930",
    "device": "IS930"
+  }
+ ],
+ "Iskon.Play TV": [
+  {
+   "brand": "Iskon",
+   "name": "Iskon.Play TV",
+   "device": "HY44G"
   }
  ],
  "Iskon.TV": [
@@ -137158,6 +137172,11 @@
   },
   {
    "brand": "Motorola",
+   "name": "moto g73 5G",
+   "device": "devonf"
+  },
+  {
+   "brand": "Motorola",
    "name": "motorola edge (2022)",
    "device": "tesla"
   }
@@ -137575,6 +137594,13 @@
    "brand": "Motorola",
    "name": "moto g72",
    "device": "vicky"
+  }
+ ],
+ "moto g73 5G": [
+  {
+   "brand": "Motorola",
+   "name": "moto g73 5G",
+   "device": "devonf"
   }
  ],
  "moto g82 5G": [
@@ -221198,6 +221224,13 @@
    "device": "V51"
   }
  ],
+ "Hipernet TV Box": [
+  {
+   "brand": "Telenor(HU)",
+   "name": "Hipernet TV Box",
+   "device": "Hipernet_TV_Box_B866V2"
+  }
+ ],
  "I06": [
   {
    "brand": "Teleone",
@@ -230640,11 +230673,6 @@
   {
    "brand": "Vivo",
    "name": "V2031",
-   "device": "2036"
-  },
-  {
-   "brand": "Vivo",
-   "name": "V2036",
    "device": "2036"
   }
  ],
