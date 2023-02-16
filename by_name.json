@@ -36647,6 +36647,11 @@
    "model": "AiPlus4K"
   },
   {
+   "brand": "EVOFORCE1",
+   "device": "SEI800MOBI",
+   "model": "MOBI-Buckeye"
+  },
+  {
    "brand": "Ematic",
    "device": "Jetstream",
    "model": "AGT418"
@@ -61296,6 +61301,13 @@
    "brand": "Flow",
    "device": "HP40A2",
    "model": "FlowBox-F1"
+  }
+ ],
+ "FlowBox-F2": [
+  {
+   "brand": "Flow",
+   "device": "HP44H",
+   "model": "FlowBox-F2"
   }
  ],
  "FlowSoundBox": [
@@ -113135,6 +113147,11 @@
    "brand": "Lenovo",
    "device": "kunlun2",
    "model": "Lenovo L38111"
+  },
+  {
+   "brand": "TCL",
+   "device": "Apollo84GBoostR",
+   "model": "9132S"
   },
   {
    "brand": "TCL",
@@ -169228,13 +169245,6 @@
    "model": "YP-GI2"
   }
  ],
- "Galaxy 12": [
-  {
-   "brand": "Samsung",
-   "device": "b0q",
-   "model": "SM-S908W"
-  }
- ],
  "Galaxy A": [
   {
    "brand": "Samsung",
@@ -178295,26 +178305,6 @@
  "Galaxy S22 Ultra": [
   {
    "brand": "Samsung",
-   "device": "b0q",
-   "model": "SM-S9080"
-  },
-  {
-   "brand": "Samsung",
-   "device": "b0q",
-   "model": "SM-S908E"
-  },
-  {
-   "brand": "Samsung",
-   "device": "b0q",
-   "model": "SM-S908U"
-  },
-  {
-   "brand": "Samsung",
-   "device": "b0s",
-   "model": "SM-S908B"
-  },
-  {
-   "brand": "Samsung",
    "device": "SC-52C",
    "model": "SC-52C"
   },
@@ -178331,12 +178321,32 @@
   {
    "brand": "Samsung",
    "device": "b0q",
+   "model": "SM-S908E"
+  },
+  {
+   "brand": "Samsung",
+   "device": "b0q",
    "model": "SM-S908N"
   },
   {
    "brand": "Samsung",
    "device": "b0q",
+   "model": "SM-S908U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "b0q",
    "model": "SM-S908U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "b0q",
+   "model": "SM-S908W"
+  },
+  {
+   "brand": "Samsung",
+   "device": "b0s",
+   "model": "SM-S908B"
   }
  ],
  "Galaxy S22+": [
@@ -184225,6 +184235,13 @@
    "model": "SM-W2017"
   }
  ],
+ "asdf": [
+  {
+   "brand": "Samsung",
+   "device": "q4q",
+   "model": "SM-F936B"
+  }
+ ],
  "olleh": [
   {
    "brand": "Samsung",
@@ -188708,6 +188725,18 @@
    "model": "Solarin"
   }
  ],
+ "Elite A6": [
+  {
+   "brand": "Sky (CH)",
+   "device": "Elite_A6",
+   "model": "Elite A6"
+  },
+  {
+   "brand": "Sky Devices",
+   "device": "Elite_A6",
+   "model": "Elite A6"
+  }
+ ],
  "Elite C55": [
   {
    "brand": "Sky (CH)",
@@ -188891,13 +188920,6 @@
    "brand": "Sky Devices",
    "device": "Elite_A55",
    "model": "Elite_A55"
-  }
- ],
- "Elite A6": [
-  {
-   "brand": "Sky Devices",
-   "device": "Elite_A6",
-   "model": "Elite A6"
   }
  ],
  "Elite B5": [
@@ -213964,6 +213986,13 @@
    "model": "Note 14"
   }
  ],
+ "Note 15": [
+  {
+   "brand": "Ulefone",
+   "device": "Note_15",
+   "model": "Note 15"
+  }
+ ],
  "Note 6P": [
   {
    "brand": "Ulefone",
@@ -216135,6 +216164,13 @@
    "brand": "VIZZION",
    "device": "zhongshan",
    "model": "F VIZZION TV"
+  }
+ ],
+ "VNPT SmartBox": [
+  {
+   "brand": "VNPT Technology",
+   "device": "vnptt_smb_3",
+   "model": "VNPT SmartBox 3"
   }
  ],
  "VNPT SmartBox 2x": [

@@ -34073,6 +34073,11 @@
    "device": "SEI800RCN",
    "name": "FRC1-RCN",
    "model": "FRC1-RCN"
+  },
+  {
+   "device": "SEI800MOBI",
+   "name": "USA",
+   "model": "MOBI-Buckeye"
   }
  ],
  "EVVO": [
@@ -37744,6 +37749,11 @@
    "device": "HP40A2",
    "name": "FlowBox-F1",
    "model": "FlowBox-F1"
+  },
+  {
+   "device": "HP44H",
+   "name": "FlowBox-F2",
+   "model": "FlowBox-F2"
   },
   {
    "device": "m393gena_teco",
@@ -130132,11 +130142,6 @@
    "model": "YP-GI2"
   },
   {
-   "device": "b0q",
-   "name": "Galaxy 12",
-   "model": "SM-S908W"
-  },
-  {
    "device": "archer",
    "name": "Galaxy A",
    "model": "SHW-M100S"
@@ -138417,26 +138422,6 @@
    "model": "SM-S901B"
   },
   {
-   "device": "b0q",
-   "name": "Galaxy S22 Ultra",
-   "model": "SM-S9080"
-  },
-  {
-   "device": "b0q",
-   "name": "Galaxy S22 Ultra",
-   "model": "SM-S908E"
-  },
-  {
-   "device": "b0q",
-   "name": "Galaxy S22 Ultra",
-   "model": "SM-S908U"
-  },
-  {
-   "device": "b0s",
-   "name": "Galaxy S22 Ultra",
-   "model": "SM-S908B"
-  },
-  {
    "device": "SC-52C",
    "name": "Galaxy S22 Ultra",
    "model": "SC-52C"
@@ -138454,12 +138439,32 @@
   {
    "device": "b0q",
    "name": "Galaxy S22 Ultra",
+   "model": "SM-S908E"
+  },
+  {
+   "device": "b0q",
+   "name": "Galaxy S22 Ultra",
    "model": "SM-S908N"
   },
   {
    "device": "b0q",
    "name": "Galaxy S22 Ultra",
+   "model": "SM-S908U"
+  },
+  {
+   "device": "b0q",
+   "name": "Galaxy S22 Ultra",
    "model": "SM-S908U1"
+  },
+  {
+   "device": "b0q",
+   "name": "Galaxy S22 Ultra",
+   "model": "SM-S908W"
+  },
+  {
+   "device": "b0s",
+   "name": "Galaxy S22 Ultra",
+   "model": "SM-S908B"
   },
   {
    "device": "g0q",
@@ -143862,6 +143867,11 @@
    "model": "SM-W2017"
   },
   {
+   "device": "q4q",
+   "name": "asdf",
+   "model": "SM-F936B"
+  },
+  {
    "device": "ik1",
    "name": "olleh",
    "model": "SMT-E5015"
@@ -147528,6 +147538,11 @@
   }
  ],
  "Sky (CH)": [
+  {
+   "device": "Elite_A6",
+   "name": "Elite A6",
+   "model": "Elite A6"
+  },
   {
    "device": "Elite_C55USA",
    "name": "Elite C55",
@@ -155367,6 +155382,11 @@
    "device": "Odin2",
    "name": "TAB 10s New",
    "model": "9081X"
+  },
+  {
+   "device": "Apollo84GBoostR",
+   "name": "TBD",
+   "model": "9132S"
   },
   {
    "device": "Odin_5G_TMO",
@@ -169978,6 +169998,11 @@
    "model": "Note 14"
   },
   {
+   "device": "Note_15",
+   "name": "Note 15",
+   "model": "Note 15"
+  },
+  {
    "device": "Note_6",
    "name": "Note 6",
    "model": "Note 6"
@@ -171849,6 +171874,11 @@
   }
  ],
  "VNPT Technology": [
+  {
+   "device": "vnptt_smb_3",
+   "name": "VNPT SmartBox",
+   "model": "VNPT SmartBox 3"
+  },
   {
    "device": "vnptt_smb_v2x",
    "name": "VNPT SmartBox 2x",

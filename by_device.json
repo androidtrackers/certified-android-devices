@@ -25928,6 +25928,11 @@
    "brand": "BULSATCOM",
    "name": "b-box",
    "model": "b-box"
+  },
+  {
+   "brand": "Flow",
+   "name": "FlowBox-F2",
+   "model": "FlowBox-F2"
   }
  ],
  "Smart502": [
@@ -52745,6 +52750,11 @@
    "brand": "EVOFORCE1",
    "name": "FRC1-MOBI",
    "model": "FRC1-MOBI"
+  },
+  {
+   "brand": "EVOFORCE1",
+   "name": "USA",
+   "model": "MOBI-Buckeye"
   }
  ],
  "SEI800RCN": [
@@ -168743,43 +168753,6 @@
    "model": "YP-GI2"
   }
  ],
- "b0q": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy 12",
-   "model": "SM-S908W"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy S22 Ultra",
-   "model": "SM-S9080"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy S22 Ultra",
-   "model": "SM-S908E"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy S22 Ultra",
-   "model": "SM-S908U"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy S22 Ultra",
-   "model": "SM-S9080"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy S22 Ultra",
-   "model": "SM-S908N"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy S22 Ultra",
-   "model": "SM-S908U1"
-  }
- ],
  "archer": [
   {
    "brand": "Samsung",
@@ -179072,13 +179045,6 @@
    "model": "SM-S901B"
   }
  ],
- "b0s": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy S22 Ultra",
-   "model": "SM-S908B"
-  }
- ],
  "SC-52C": [
   {
    "brand": "Samsung",
@@ -179091,6 +179057,45 @@
    "brand": "Samsung",
    "name": "Galaxy S22 Ultra",
    "model": "SCG14"
+  }
+ ],
+ "b0q": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22 Ultra",
+   "model": "SM-S9080"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22 Ultra",
+   "model": "SM-S908E"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22 Ultra",
+   "model": "SM-S908N"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22 Ultra",
+   "model": "SM-S908U"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22 Ultra",
+   "model": "SM-S908U1"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22 Ultra",
+   "model": "SM-S908W"
+  }
+ ],
+ "b0s": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22 Ultra",
+   "model": "SM-S908B"
   }
  ],
  "g0q": [
@@ -185586,6 +185591,11 @@
    "brand": "Samsung",
    "name": "Galaxy Z Fold4",
    "model": "SM-F936W"
+  },
+  {
+   "brand": "Samsung",
+   "name": "asdf",
+   "model": "SM-F936B"
   }
  ],
  "YP-GB70D": [
@@ -190382,6 +190392,18 @@
    "model": "Solarin"
   }
  ],
+ "Elite_A6": [
+  {
+   "brand": "Sky (CH)",
+   "name": "Elite A6",
+   "model": "Elite A6"
+  },
+  {
+   "brand": "Sky Devices",
+   "name": "Elite A6",
+   "model": "Elite A6"
+  }
+ ],
  "Elite_C55USA": [
   {
    "brand": "Sky (CH)",
@@ -190584,13 +190606,6 @@
    "brand": "Sky Devices",
    "name": "Elite A55",
    "model": "Elite_A55"
-  }
- ],
- "Elite_A6": [
-  {
-   "brand": "Sky Devices",
-   "name": "Elite A6",
-   "model": "Elite A6"
   }
  ],
  "Elite_B5": [
@@ -200200,6 +200215,18 @@
    "model": "9081X"
   }
  ],
+ "Apollo84GBoostR": [
+  {
+   "brand": "TCL",
+   "name": "TBD",
+   "model": "9132S"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL TAB Lite",
+   "model": "9132S"
+  }
+ ],
  "Odin_5G_TMO": [
   {
    "brand": "TCL",
@@ -201722,13 +201749,6 @@
    "brand": "TCT (Alcatel)",
    "name": "alcatel 3T8",
    "model": "9032X_TR"
-  }
- ],
- "Apollo84GBoostR": [
-  {
-   "brand": "TCL",
-   "name": "TCL TAB Lite",
-   "model": "9132S"
   }
  ],
  "Macau": [
@@ -216001,6 +216021,13 @@
    "model": "Note 14"
   }
  ],
+ "Note_15": [
+  {
+   "brand": "Ulefone",
+   "name": "Note 15",
+   "model": "Note 15"
+  }
+ ],
  "Note_6": [
   {
    "brand": "Ulefone",
@@ -218031,6 +218058,13 @@
    "brand": "VIVIMAGE",
    "name": "VIVIMAGE_E11",
    "model": "VIVIMAGE_E11"
+  }
+ ],
+ "vnptt_smb_3": [
+  {
+   "brand": "VNPT Technology",
+   "name": "VNPT SmartBox",
+   "model": "VNPT SmartBox 3"
   }
  ],
  "vnptt_smb_v2x": [

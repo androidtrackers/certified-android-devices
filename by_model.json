@@ -49491,6 +49491,13 @@
    "device": "SEI800RCN"
   }
  ],
+ "MOBI-Buckeye": [
+  {
+   "brand": "EVOFORCE1",
+   "name": "USA",
+   "device": "SEI800MOBI"
+  }
+ ],
  "EWIS OCTA-T700M": [
   {
    "brand": "EWIS",
@@ -54230,6 +54237,13 @@
    "brand": "Flow",
    "name": "Flowbox-F1",
    "device": "HP40A2"
+  }
+ ],
+ "FlowBox-F2": [
+  {
+   "brand": "Flow",
+   "name": "FlowBox-F2",
+   "device": "HP44H"
   }
  ],
  "FlowSoundBox": [
@@ -172506,13 +172520,6 @@
    "device": "hendrix"
   }
  ],
- "SM-S908W": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy 12",
-   "device": "b0q"
-  }
- ],
  "SHW-M100S": [
   {
    "brand": "Samsung",
@@ -183957,39 +183964,6 @@
    "device": "r0s"
   }
  ],
- "SM-S9080": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy S22 Ultra",
-   "device": "b0q"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy S22 Ultra",
-   "device": "b0q"
-  }
- ],
- "SM-S908E": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy S22 Ultra",
-   "device": "b0q"
-  }
- ],
- "SM-S908U": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy S22 Ultra",
-   "device": "b0q"
-  }
- ],
- "SM-S908B": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy S22 Ultra",
-   "device": "b0s"
-  }
- ],
  "SC-52C": [
   {
    "brand": "Samsung",
@@ -184004,7 +183978,28 @@
    "device": "SCG14"
   }
  ],
+ "SM-S9080": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22 Ultra",
+   "device": "b0q"
+  }
+ ],
+ "SM-S908E": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22 Ultra",
+   "device": "b0q"
+  }
+ ],
  "SM-S908N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22 Ultra",
+   "device": "b0q"
+  }
+ ],
+ "SM-S908U": [
   {
    "brand": "Samsung",
    "name": "Galaxy S22 Ultra",
@@ -184016,6 +184011,20 @@
    "brand": "Samsung",
    "name": "Galaxy S22 Ultra",
    "device": "b0q"
+  }
+ ],
+ "SM-S908W": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22 Ultra",
+   "device": "b0q"
+  }
+ ],
+ "SM-S908B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S22 Ultra",
+   "device": "b0s"
   }
  ],
  "SM-S9060": [
@@ -191046,6 +191055,11 @@
    "brand": "Samsung",
    "name": "Galaxy Z Fold4",
    "device": "q4q"
+  },
+  {
+   "brand": "Samsung",
+   "name": "asdf",
+   "device": "q4q"
   }
  ],
  "SM-F936N": [
@@ -196038,6 +196052,18 @@
    "device": "solarin"
   }
  ],
+ "Elite A6": [
+  {
+   "brand": "Sky (CH)",
+   "name": "Elite A6",
+   "device": "Elite_A6"
+  },
+  {
+   "brand": "Sky Devices",
+   "name": "Elite A6",
+   "device": "Elite_A6"
+  }
+ ],
  "Elite C55": [
   {
    "brand": "Sky (CH)",
@@ -196238,13 +196264,6 @@
    "brand": "Sky Devices",
    "name": "Elite A55",
    "device": "Elite_A55"
-  }
- ],
- "Elite A6": [
-  {
-   "brand": "Sky Devices",
-   "name": "Elite A6",
-   "device": "Elite_A6"
   }
  ],
  "Elite_B5": [
@@ -205630,6 +205649,18 @@
    "device": "Odin"
   }
  ],
+ "9132S": [
+  {
+   "brand": "TCL",
+   "name": "TBD",
+   "device": "Apollo84GBoostR"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL TAB Lite",
+   "device": "Apollo84GBoostR"
+  }
+ ],
  "9183W": [
   {
    "brand": "TCL",
@@ -206487,13 +206518,6 @@
    "brand": "TCL",
    "name": "TCL TAB Disney Edition",
    "device": "Thor_8_4G_VZW"
-  }
- ],
- "9132S": [
-  {
-   "brand": "TCL",
-   "name": "TCL TAB Lite",
-   "device": "Apollo84GBoostR"
   }
  ],
  "9049L": [
@@ -224411,6 +224435,13 @@
    "device": "Note_14"
   }
  ],
+ "Note 15": [
+  {
+   "brand": "Ulefone",
+   "name": "Note 15",
+   "device": "Note_15"
+  }
+ ],
  "Note 6": [
   {
    "brand": "Ulefone",
@@ -226453,6 +226484,13 @@
    "brand": "VIZZION",
    "name": "VIZZION TV",
    "device": "shinjuku"
+  }
+ ],
+ "VNPT SmartBox 3": [
+  {
+   "brand": "VNPT Technology",
+   "name": "VNPT SmartBox",
+   "device": "vnptt_smb_3"
   }
  ],
  "VNPT SmartBox 2x": [

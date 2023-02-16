@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-02-15
+Last sync is 2023-02-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6575,6 +6575,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EVEREST-EVERPAD|DC-M700|DC-M700|DC-M700|
 |EVOFORCE1|FRC1-MOBI|SEI800MOBI|FRC1-MOBI|
 |EVOFORCE1|FRC1-RCN|SEI800RCN|FRC1-RCN|
+|EVOFORCE1|USA|SEI800MOBI|MOBI-Buckeye|
 |EVVO|Android TV|R1|ATV R1|
 |EVVO|Android TV|R2|ATV R2|
 |EVVO|R3|R3|R3|
@@ -7262,6 +7263,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Flnet|BANDOTT Sandwich|ba201|ba201|
 |Flnet|BandOTT|ba101|ba101|
 |Flow|FlowBox-F1|HP40A2|FlowBox-F1|
+|Flow|FlowBox-F2|HP44H|FlowBox-F2|
 |Flow|FlowSoundBox|m393gena_teco|FlowSoundBox|
 |Flow|Flowbox-F1|HP40A2|FlowBox-F1|
 |Fluo|F|F|F|
@@ -25292,7 +25294,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|GALAXY Camera|gd1|EK-GC100|
 |Samsung|Galaxy (China)|GT-B9062|GT-B9062|
 |Samsung|Galaxy 070|hendrix|YP-GI2|
-|Samsung|Galaxy 12|b0q|SM-S908W|
 |Samsung|Galaxy A|archer|SHW-M100S|
 |Samsung|Galaxy A|archer|archer|
 |Samsung|Galaxy A Quantum|a71x|SM-A716S|
@@ -26949,15 +26950,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S22|r0q|SM-S901U1|
 |Samsung|Galaxy S22|r0q|SM-S901W|
 |Samsung|Galaxy S22|r0s|SM-S901B|
-|Samsung|Galaxy S22 Ultra|b0q|SM-S9080|
-|Samsung|Galaxy S22 Ultra|b0q|SM-S908E|
-|Samsung|Galaxy S22 Ultra|b0q|SM-S908U|
-|Samsung|Galaxy S22 Ultra|b0s|SM-S908B|
 |Samsung|Galaxy S22 Ultra|SC-52C|SC-52C|
 |Samsung|Galaxy S22 Ultra|SCG14|SCG14|
 |Samsung|Galaxy S22 Ultra|b0q|SM-S9080|
+|Samsung|Galaxy S22 Ultra|b0q|SM-S908E|
 |Samsung|Galaxy S22 Ultra|b0q|SM-S908N|
+|Samsung|Galaxy S22 Ultra|b0q|SM-S908U|
 |Samsung|Galaxy S22 Ultra|b0q|SM-S908U1|
+|Samsung|Galaxy S22 Ultra|b0q|SM-S908W|
+|Samsung|Galaxy S22 Ultra|b0s|SM-S908B|
 |Samsung|Galaxy S22+|g0q|SM-S9060|
 |Samsung|Galaxy S22+|g0q|SM-S906E|
 |Samsung|Galaxy S22+|g0q|SM-S906N|
@@ -28038,6 +28039,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|VinsQ(M910)|SPH-M910|SPH-M910|
 |Samsung|W2016|royceltectc|SM-W2016|
 |Samsung|W2017|veyronltectc|SM-W2017|
+|Samsung|asdf|q4q|SM-F936B|
 |Samsung|olleh|ik1|SMT-E5015|
 |Samsung|三星 W21 5G|victory|SM-W2021|
 |Samsung|三星W20|zodiac|SM-W2020|
@@ -28751,6 +28753,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sirin|FINNEY PHONE|SR00300-W|FINNEY U1|
 |Sirin|LABS SOLARIN|solarin|SOLARIN|
 |Sirin|LABS SOLARIN|solarin|Solarin|
+|Sky (CH)|Elite A6|Elite_A6|Elite A6|
 |Sky (CH)|Elite C55|Elite_C55USA|Elite C55|
 |Sky (CH)|Elite OctaPlus|Elite_OctaPlus4us|Elite OctaPlus|
 |Sky (CH)|Elite OctaPlus|Elite_OctaPlusKK1|Elite OctaPlus|
@@ -30277,6 +30280,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TAB 10s 4G 2022|Odin2|9080G|
 |TCL|TAB 10s 4G New|Odin2|9080G|
 |TCL|TAB 10s New|Odin2|9081X|
+|TCL|TBD|Apollo84GBoostR|9132S|
 |TCL|TBD|Odin_5G_TMO|9183W|
 |TCL|TCL 10 5G|Seattle|T790B|
 |TCL|TCL 10 5G|Seattle|T790H|
@@ -33122,6 +33126,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Note 12P|Note_12P|Note 12P|
 |Ulefone|Note 13P|Note_13P|Note 13P|
 |Ulefone|Note 14|Note_14|Note 14|
+|Ulefone|Note 15|Note_15|Note 15|
 |Ulefone|Note 6|Note_6|Note 6|
 |Ulefone|Note 6P|Note_6P|Note 6P|
 |Ulefone|Note 6T|Note_6T|Note 6T|
@@ -33478,6 +33483,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VIZZION|VIZZION Smart TV|sunnyvale|VIZZION Smart TV|
 |VIZZION|VIZZION TV|shinjuku|VIZZION TV|
 |VIZZION|vizzion|zhongshan|F VIZZION TV|
+|VNPT Technology|VNPT SmartBox|vnptt_smb_3|VNPT SmartBox 3|
 |VNPT Technology|VNPT SmartBox 2x|vnptt_smb_v2x|VNPT SmartBox 2x|
 |VNPT Technology|VNPTTechnology|VNTTab2|VNTTab2|
 |VNPT Technology|VNT_Tab8|VNT_Tab8|VNT_Tab8|
