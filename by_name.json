@@ -32117,6 +32117,11 @@
   {
    "brand": "Zephir",
    "device": "martin",
+   "model": "Zephir 2K Android TV"
+  },
+  {
+   "brand": "Zephir",
+   "device": "martin",
    "model": "Zephir 2K Android TV"
   }
  ],
@@ -105103,6 +105108,13 @@
    "model": "MA4000"
   }
  ],
+ "MA4100": [
+  {
+   "brand": "Korea Telecom",
+   "device": "MA4100",
+   "model": "MA4100"
+  }
+ ],
  "Freedom": [
   {
    "brand": "Krik Krak",
@@ -168399,6 +168411,13 @@
    "model": "STK X2"
   }
  ],
+ "STK X3": [
+  {
+   "brand": "STK(Santok)",
+   "device": "X3",
+   "model": "X3"
+  }
+ ],
  "SYNC 5C": [
   {
    "brand": "STK(Santok)",
@@ -184235,7 +184254,7 @@
    "model": "SM-W2017"
   }
  ],
- "asdf": [
+ "asdf121": [
   {
    "brand": "Samsung",
    "device": "q4q",
@@ -189881,6 +189900,13 @@
    "brand": "SkyLife",
    "device": "KSTB6165",
    "model": "KSTB6165"
+  }
+ ],
+ "MA5000": [
+  {
+   "brand": "SkyLife",
+   "device": "MA5000",
+   "model": "MA5000"
   }
  ],
  "Skylife android 2nd TV": [

@@ -74861,6 +74861,11 @@
    "device": "MA4000",
    "name": "MA4000",
    "model": "MA4000"
+  },
+  {
+   "device": "MA4100",
+   "name": "MA4100",
+   "model": "MA4100"
   }
  ],
  "Krik Krak": [
@@ -129265,6 +129270,11 @@
    "model": "STK X2"
   },
   {
+   "device": "X3",
+   "name": "STK X3",
+   "model": "X3"
+  },
+  {
    "device": "STK_Sync_5c",
    "name": "SYNC 5C",
    "model": "STK_Sync_5c"
@@ -143868,7 +143878,7 @@
   },
   {
    "device": "q4q",
-   "name": "asdf",
+   "name": "asdf121",
    "model": "SM-F936B"
   },
   {
@@ -148468,6 +148478,11 @@
    "device": "KSTB6165",
    "name": "KSTB6165",
    "model": "KSTB6165"
+  },
+  {
+   "device": "MA5000",
+   "name": "MA5000",
+   "model": "MA5000"
   },
   {
    "device": "DMTS18SS",
@@ -193209,6 +193224,11 @@
   }
  ],
  "Zephir": [
+  {
+   "device": "martin",
+   "name": "EU、UK、AP",
+   "model": "Zephir 2K Android TV"
+  },
   {
    "device": "martin",
    "name": "EU、UK、AP",

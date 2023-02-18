@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-02-17
+Last sync is 2023-02-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14523,6 +14523,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Korea Telecom|KI1101|KI1101|KI1101|
 |Korea Telecom|KSTB6188|KSTB6188|KSTB6188|
 |Korea Telecom|MA4000|MA4000|MA4000|
+|Korea Telecom|MA4100|MA4100|MA4100|
 |Krik Krak|Freedom|Freedom|Freedom|
 |Krono|776PLUS|KRONO_776PLUS|776PLUS|
 |Krono|COLORS|COLORS|COLORS|
@@ -25123,6 +25124,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |STK(Santok)|STK Life Plus S|Life_Plus_S|STK Life Plus S|
 |STK(Santok)|STK Life Plus S|STK_Life_Plus_S|STK Life Plus S|
 |STK(Santok)|STK X2|STK_X2|STK X2|
+|STK(Santok)|STK X3|X3|X3|
 |STK(Santok)|SYNC 5C|STK_Sync_5c|STK_Sync_5c|
 |STK(Santok)|Storm 2e  Plus|Storm_2e_Plus|Storm 2e Plus|
 |STK(Santok)|Storm 2e Pluz|Storm_2e_Pluz|Storm 2e Pluz|
@@ -28039,7 +28041,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|VinsQ(M910)|SPH-M910|SPH-M910|
 |Samsung|W2016|royceltectc|SM-W2016|
 |Samsung|W2017|veyronltectc|SM-W2017|
-|Samsung|asdf|q4q|SM-F936B|
+|Samsung|asdf121|q4q|SM-F936B|
 |Samsung|olleh|ik1|SMT-E5015|
 |Samsung|三星 W21 5G|victory|SM-W2021|
 |Samsung|三星W20|zodiac|SM-W2020|
@@ -28938,6 +28940,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky NZ|Sky Pod|SEI700SKY|Sky Pod|
 |SkyLife|KSTB2019|KSTB2019|KSTB2019|
 |SkyLife|KSTB6165|KSTB6165|KSTB6165|
+|SkyLife|MA5000|MA5000|MA5000|
 |SkyLife|Skylife android 2nd TV|DMTS18SS|USI-7000NA|
 |SkyLife|UHD2|IC1110|IC1110|
 |SkyLife|UHD_S56AT|INTEKS19SS|UHD_S56AT|
@@ -37666,6 +37669,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zen|Zen Cinemax Prime|ZEN_CINEMAX_PRIME|CINEMAX_PRIME|
 |Zen|Zen M72 Smart|M72_Smart|M72 Smart|
 |Zenijust|H20|H20_EEA|H20|
+|Zephir|EU、UK、AP|martin|Zephir 2K Android TV|
 |Zephir|EU、UK、AP|martin|Zephir 2K Android TV|
 |Zephir|Italy|guandu|Zephir 4K Android TV|
 |Zephir|Italy|tamachi|Zephir FHD Android TV|

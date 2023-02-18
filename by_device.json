@@ -5555,6 +5555,11 @@
   {
    "brand": "Zephir",
    "name": "EU、UK、AP",
+   "model": "Zephir 2K Android TV"
+  },
+  {
+   "brand": "Zephir",
+   "name": "EU、UK、AP",
    "model": "Zephir 2K Android TV"
   }
  ],
@@ -66069,6 +66074,11 @@
   },
   {
    "brand": "STK(Santok)",
+   "name": "STK X3",
+   "model": "X3"
+  },
+  {
+   "brand": "STK(Santok)",
    "name": "X3",
    "model": "X3"
   },
@@ -101637,6 +101647,13 @@
    "brand": "Korea Telecom",
    "name": "MA4000",
    "model": "MA4000"
+  }
+ ],
+ "MA4100": [
+  {
+   "brand": "Korea Telecom",
+   "name": "MA4100",
+   "model": "MA4100"
   }
  ],
  "Freedom": [
@@ -185594,7 +185611,7 @@
   },
   {
    "brand": "Samsung",
-   "name": "asdf",
+   "name": "asdf121",
    "model": "SM-F936B"
   }
  ],
@@ -191654,6 +191671,13 @@
    "brand": "SkyLife",
    "name": "KSTB2019",
    "model": "KSTB2019"
+  }
+ ],
+ "MA5000": [
+  {
+   "brand": "SkyLife",
+   "name": "MA5000",
+   "model": "MA5000"
   }
  ],
  "DMTS18SS": [

@@ -63037,6 +63037,11 @@
   },
   {
    "brand": "STK(Santok)",
+   "name": "STK X3",
+   "device": "X3"
+  },
+  {
+   "brand": "STK(Santok)",
    "name": "X3",
    "device": "X3"
   },
@@ -102565,6 +102570,13 @@
    "brand": "Korea Telecom",
    "name": "MA4000",
    "device": "MA4000"
+  }
+ ],
+ "MA4100": [
+  {
+   "brand": "Korea Telecom",
+   "name": "MA4100",
+   "device": "MA4100"
   }
  ],
  "Freedom": [
@@ -191058,7 +191070,7 @@
   },
   {
    "brand": "Samsung",
-   "name": "asdf",
+   "name": "asdf121",
    "device": "q4q"
   }
  ],
@@ -197176,6 +197188,13 @@
    "brand": "SkyLife",
    "name": "KSTB6165",
    "device": "KSTB6165"
+  }
+ ],
+ "MA5000": [
+  {
+   "brand": "SkyLife",
+   "name": "MA5000",
+   "device": "MA5000"
   }
  ],
  "USI-7000NA": [
@@ -253400,6 +253419,18 @@
    "device": "M72_Smart"
   }
  ],
+ "Zephir 2K Android TV": [
+  {
+   "brand": "Zephir",
+   "name": "EU、UK、AP",
+   "device": "martin"
+  },
+  {
+   "brand": "Zephir",
+   "name": "Zephir",
+   "device": "komagome"
+  }
+ ],
  "Zephir 2K Android TV": [
   {
    "brand": "Zephir",
@@ -253431,13 +253462,6 @@
    "brand": "Zephir",
    "name": "Italy",
    "device": "yeongdeungpo"
-  }
- ],
- "Zephir 2K Android TV": [
-  {
-   "brand": "Zephir",
-   "name": "Zephir",
-   "device": "komagome"
   }
  ],
  "ZEPHIR Android TV 2K": [
