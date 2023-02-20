@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-02-19
+Last sync is 2023-02-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3317,6 +3317,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|Czech/Ukraine/Russia|nippori|BLAUPUNKT Android TV 2K|
 |Blaupunkt|Discovery_A10_302|Discovery_A10_302|Discovery_A10_302|
 |Blaupunkt|EU|tamachi|BLAUPUNKT FHD Android TV|
+|Blaupunkt|EU、UK、AP|martin|BLAUPUNKT 2K Android TV|
 |Blaupunkt|EU、UK、AP|martin|BLAUPUNKT 2K Android TV|
 |Blaupunkt|Endeavour101|Blaupunkt|Endeavour101|
 |Blaupunkt|Europe|guandu|BLAUPUNKT EU 4K Android TV|
@@ -24782,6 +24783,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |S Vision|AP|stanford|2K SMART TV|
 |S Vision|"AUSTRALIA|JAPAN|EUROPE"|
 |S Vision|Australia|nippori|Svision Android TV 2K|
+|S Vision|EU、UK、AP|martin|SVISION 2K Android TV|
 |S Vision|EU、UK、AP|martin|SVISION 2K Android TV|
 |S Vision|"Japan|USA|Australia|
 |S Vision|S android TV|hanyang|Svision Android TV|
@@ -24825,6 +24827,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SBET|X7|X7|X7|
 |SCHNEIDER|Android TV|R1|ATV R1|
 |SCHNEIDER|Android TV|R2|ATV R2|
+|SCHNEIDER|EU、UK、AP|martin|Schneider 2K Android TV|
 |SCHNEIDER|EU、UK、AP|martin|Schneider 2K Android TV|
 |SCHNEIDER|SCHNEIDER|bangbae|SCHNEIDER 4K Android TV|
 |SCHNEIDER|SCHNEIDER|komagome|SCHNEIDER 2K Android TV|
@@ -32441,6 +32444,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SA2S|TECNO-SA2S|TECNO SA2S|
 |Tecno|TECNO SA7S|TECNO-SA7S|TECNO SA7S|
 |Tecno|TECNO SPARK 10|TECNO-KI5n|TECNO KI5n|
+|Tecno|TECNO SPARK 10C|TECNO-KI5k|TECNO KI5k|
 |Tecno|TECNO SPARK 4|TECNO-KC2|TECNO KC2|
 |Tecno|TECNO SPARK 4|TECNO-KC2j|TECNO KC2j|
 |Tecno|TECNO SPARK 4 Air|TECNO-KC1j|TECNO KC1j|

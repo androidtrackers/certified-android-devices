@@ -5340,6 +5340,11 @@
   {
    "brand": "Blaupunkt",
    "name": "EU、UK、AP",
+   "model": "BLAUPUNKT 2K Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "EU、UK、AP",
    "model": "BLAUPUNKT 2K Android TV"
   },
   {
@@ -5480,7 +5485,17 @@
   {
    "brand": "S Vision",
    "name": "EU、UK、AP",
+   "model": "SVISION 2K Android TV"
+  },
+  {
+   "brand": "S Vision",
+   "name": "EU、UK、AP",
    "model": "SVISION 2K Android TV"
+  },
+  {
+   "brand": "SCHNEIDER",
+   "name": "EU、UK、AP",
+   "model": "Schneider 2K Android TV"
   },
   {
    "brand": "SCHNEIDER",
@@ -211992,6 +212007,13 @@
    "brand": "Tecno",
    "name": "TECNO SPARK 10",
    "model": "TECNO KI5n"
+  }
+ ],
+ "TECNO-KI5k": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 10C",
+   "model": "TECNO KI5k"
   }
  ],
  "TECNO-KC2": [

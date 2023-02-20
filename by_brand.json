@@ -17131,6 +17131,11 @@
   {
    "device": "martin",
    "name": "EU、UK、AP",
+   "model": "BLAUPUNKT 2K Android TV"
+  },
+  {
+   "device": "martin",
+   "name": "EU、UK、AP",
    "model": "BLAUPUNKT 2K Android TV"
   },
   {
@@ -127432,6 +127437,11 @@
   {
    "device": "martin",
    "name": "EU、UK、AP",
+   "model": "SVISION 2K Android TV"
+  },
+  {
+   "device": "martin",
+   "name": "EU、UK、AP",
    "model": "SVISION 2K Android TV"
   },
   {
@@ -127673,6 +127683,11 @@
    "device": "R2",
    "name": "Android TV",
    "model": "ATV R2"
+  },
+  {
+   "device": "martin",
+   "name": "EU、UK、AP",
+   "model": "Schneider 2K Android TV"
   },
   {
    "device": "martin",
@@ -166349,6 +166364,11 @@
    "device": "TECNO-KI5n",
    "name": "TECNO SPARK 10",
    "model": "TECNO KI5n"
+  },
+  {
+   "device": "TECNO-KI5k",
+   "name": "TECNO SPARK 10C",
+   "model": "TECNO KI5k"
   },
   {
    "device": "TECNO-KC2",

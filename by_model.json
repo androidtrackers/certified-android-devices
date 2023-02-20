@@ -26034,6 +26034,11 @@
    "brand": "Blaupunkt",
    "name": "Blaupunkt",
    "device": "komagome"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "EU、UK、AP",
+   "device": "martin"
   }
  ],
  "CSV2K": [
@@ -169174,6 +169179,13 @@
    "device": "nippori"
   }
  ],
+ "SVISION 2K Android TV": [
+  {
+   "brand": "S Vision",
+   "name": "EU、UK、AP",
+   "device": "martin"
+  }
+ ],
  "SVISION 2K Android TV": [
   {
    "brand": "S Vision",
@@ -169378,6 +169390,13 @@
    "brand": "SARL WISE TECHNOLOGIE",
    "name": "Wise_Tech_Wifi",
    "device": "Wise_Tech_Wifi"
+  }
+ ],
+ "Schneider 2K Android TV": [
+  {
+   "brand": "SCHNEIDER",
+   "name": "EU、UK、AP",
+   "device": "martin"
   }
  ],
  "Schneider 2K Android TV": [
@@ -220144,6 +220163,13 @@
    "brand": "Tecno",
    "name": "TECNO SPARK 10",
    "device": "TECNO-KI5n"
+  }
+ ],
+ "TECNO KI5k": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 10C",
+   "device": "TECNO-KI5k"
   }
  ],
  "TECNO KC2": [
