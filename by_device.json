@@ -5400,6 +5400,11 @@
   {
    "brand": "EKO",
    "name": "EU、UK、AP",
+   "model": "EKO 2K Android TV"
+  },
+  {
+   "brand": "EKO",
+   "name": "EU、UK、AP",
    "model": "EKO 2K Android TV"
   },
   {
@@ -5476,6 +5481,11 @@
    "brand": "Profilo",
    "name": "Turkey",
    "model": "Profilo 2K Android TV"
+  },
+  {
+   "brand": "QBell",
+   "name": "EU、UK、AP",
+   "model": "Qbell 2K Android TV"
   },
   {
    "brand": "QBell",
@@ -45716,6 +45726,11 @@
    "model": "DAEWOO 4K SA Smart TV"
   },
   {
+   "brand": "Soniq",
+   "name": "4K Smart TV",
+   "model": "4K PA Smart TV"
+  },
+  {
    "brand": "iMuz",
    "name": "4K Smart TV",
    "model": "4K SA Smart TV"
@@ -46302,6 +46317,11 @@
   {
    "brand": "Datalogic",
    "name": "MEMOR 11",
+   "model": "Memor 11"
+  },
+  {
+   "brand": "Datalogic",
+   "name": "Memor 11",
    "model": "Memor 11"
   }
  ],
@@ -186955,7 +186975,7 @@
  "tcvenruj": [
   {
    "brand": "Sharp",
-   "name": "4T-C**EN1/EQ1/ES1/EU1",
+   "name": "4T-C**EN1/EQ1/ES1/EU1/EP1",
    "model": "AQUOS-4KTVJ22"
   },
   {
@@ -200601,6 +200621,13 @@
    "model": "T676K"
   }
  ],
+ "Jetta_Visible": [
+  {
+   "brand": "TCL",
+   "name": "TCL 30 LE",
+   "model": "4188V"
+  }
+ ],
  "Cruze_Pro": [
   {
    "brand": "TCL",
@@ -200661,6 +200688,13 @@
    "brand": "TCL",
    "name": "TCL 30 Z",
    "model": "4188L"
+  }
+ ],
+ "Jetta_NA_OM": [
+  {
+   "brand": "TCL",
+   "name": "TCL 30 Z",
+   "model": "4188O"
   }
  ],
  "Kona": [

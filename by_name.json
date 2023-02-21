@@ -28527,6 +28527,11 @@
    "model": "imiia 4K AI Smart TV"
   },
   {
+   "brand": "Soniq",
+   "device": "pioneer",
+   "model": "4K PA Smart TV"
+  },
+  {
    "brand": "UNITED TV",
    "device": "gangbyeon",
    "model": "4K AI Smart TV"
@@ -32027,6 +32032,11 @@
   {
    "brand": "EKO",
    "device": "martin",
+   "model": "EKO 2K Android TV"
+  },
+  {
+   "brand": "EKO",
+   "device": "martin",
    "model": "EKO 2K Android TV"
   },
   {
@@ -32068,6 +32078,11 @@
    "brand": "Nano",
    "device": "martin",
    "model": "Nano Android TV"
+  },
+  {
+   "brand": "QBell",
+   "device": "martin",
+   "model": "Qbell 2K Android TV"
   },
   {
    "brand": "QBell",
@@ -49535,6 +49550,13 @@
   }
  ],
  "MEMOR 11": [
+  {
+   "brand": "Datalogic",
+   "device": "m11",
+   "model": "Memor 11"
+  }
+ ],
+ "Memor 11": [
   {
    "brand": "Datalogic",
    "device": "m11",
@@ -185253,7 +185275,7 @@
    "model": "AQUOS-TVJ21"
   }
  ],
- "4T-C**EN1/EQ1/ES1/EU1": [
+ "4T-C**EN1/EQ1/ES1/EU1/EP1": [
   {
    "brand": "Sharp",
    "device": "tcvenruj",
@@ -198048,6 +198070,13 @@
    "model": "T676H"
   }
  ],
+ "TCL 30 LE": [
+  {
+   "brand": "TCL",
+   "device": "Jetta_Visible",
+   "model": "4188V"
+  }
+ ],
  "TCL 30 SE": [
   {
    "brand": "TCL",
@@ -198099,6 +198128,11 @@
    "brand": "TCL",
    "device": "Jetta_Dish",
    "model": "4188L"
+  },
+  {
+   "brand": "TCL",
+   "device": "Jetta_NA_OM",
+   "model": "4188O"
   }
  ],
  "TCL 30+": [

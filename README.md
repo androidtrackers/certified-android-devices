@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-02-20
+Last sync is 2023-02-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5643,6 +5643,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datalogic|MEMOR 1|M1_HANDHELD|Memor 1|
 |Datalogic|MEMOR 1|M1_PISTOL|Memor 1|
 |Datalogic|MEMOR 11|m11|Memor 11|
+|Datalogic|Memor 11|m11|Memor 11|
 |Datalogic|Memor 20|Q10|Memor 20|
 |Datalogic|Memor 20|Q10A|Memor 20|
 |Datalogic|Memor K|memor_k|Memor K|
@@ -6452,6 +6453,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EKO|EKO Star LTE G60|EKO_Star_LTE_G60|EKO Star LTE G60|
 |EKO|EKO android TV|hanyang|Ayonz Android TV|
 |EKO|EKO android TV ISDB|hanyang|EKO 4K Android TV|
+|EKO|EU、UK、AP|martin|EKO 2K Android TV|
 |EKO|EU、UK、AP|martin|EKO 2K Android TV|
 |EKO|Eko|stanford|EKO 2K Android TV|
 |EKO|JVC|bruno|EKO 2K Android TV|
@@ -23817,6 +23819,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Q-electronics|QP-TAQC70|QP-TAQC70|QP-TAQC70|
 |Q-electronics|QP-TAQC80|QP-TAQC80|QP-TAQC80|
 |QBell|EU|nippori|QBELL Android TV 2K|
+|QBell|EU、UK、AP|martin|Qbell 2K Android TV|
 |QBell|EU、UK、AP|martin|Qbell 2K Android TV|
 |QBell|Italy|guandu|Qbell 4K Android TV|
 |QBell|Italy|tamachi|Qbell FHD Android TV|
@@ -28213,7 +28216,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|4T-C**BN1H/BL1H|tcmeruj|AQUOS-TVJ20B|
 |Sharp|4T-C**DL1/DJ1/DQ1/DN2|tcve2uj|AQUOS-TVJ21-2|
 |Sharp|4T-C**DS1/DN1/DP1|tcvenuj|AQUOS-TVJ21|
-|Sharp|4T-C**EN1/EQ1/ES1/EU1|tcvenruj|AQUOS-4KTVJ22|
+|Sharp|4T-C**EN1/EQ1/ES1/EU1/EP1|tcvenruj|AQUOS-4KTVJ22|
 |Sharp|4T-C**EN2/EL1/EQ2|tcvenruj|AQUOS-4KTVJ22-2|
 |Sharp|4T-C50AG1T|LCD_50FOCAG1T|LCD_50FOCAG1T|
 |Sharp|4T-C50BDXA;4T-C50BDKA;4T-C50BDMA;4T-C50BDCA;4T-C50BDZA|Lcd_50sumtcca_xa|LCD_50SUMTCCA_XA|
@@ -29090,6 +29093,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sonimtech|XP7700Z1|XP7700Z1|Smart-Ex 01|
 |Sonimtech|XP7705|XP7705|XP7700|
 |Sonimtech|XP8|XP8800|XP8800|
+|Soniq|4K Smart TV|pioneer|4K PA Smart TV|
 |Soniq|PT0719A|PT0719A|PT0719A|
 |Soniq|PT1019A|PT1019A|PT1019A|
 |Soniq|Smart TV|mateo|2K PA Smart TV|
@@ -30332,6 +30336,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 20Y|Hong_Kong_Pro|6156H|
 |TCL|TCL 20Y|Hong_Kong_Pro|A1 Alpha 21|
 |TCL|TCL 30|Passat|T676H|
+|TCL|TCL 30 LE|Jetta_Visible|4188V|
 |TCL|TCL 30 SE|Cruze_Pro|6165A|
 |TCL|TCL 30 SE|Cruze_Pro|6165H|
 |TCL|TCL 30 SE|Cruze_Pro|6165H_EEA|
@@ -30341,6 +30346,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 30 XL|Austin_TF|T701DL|
 |TCL|TCL 30 XL|Austin_US|T671G|
 |TCL|TCL 30 Z|Jetta_Dish|4188L|
+|TCL|TCL 30 Z|Jetta_NA_OM|4188O|
 |TCL|TCL 30+|Passat|T676J|
 |TCL|TCL 30+|Passat|T676K|
 |TCL|TCL 303|Kona|5131G|

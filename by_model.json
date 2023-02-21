@@ -43055,6 +43055,11 @@
    "brand": "Datalogic",
    "name": "MEMOR 11",
    "device": "m11"
+  },
+  {
+   "brand": "Datalogic",
+   "name": "Memor 11",
+   "device": "m11"
   }
  ],
  "Memor 20": [
@@ -48607,6 +48612,11 @@
    "brand": "EKO",
    "name": "EKO",
    "device": "komagome"
+  },
+  {
+   "brand": "EKO",
+   "name": "EU、UK、AP",
+   "device": "martin"
   },
   {
    "brand": "EKO",
@@ -63394,6 +63404,11 @@
   },
   {
    "brand": "Polytron",
+   "name": "4K Smart TV",
+   "device": "pioneer"
+  },
+  {
+   "brand": "Soniq",
    "name": "4K Smart TV",
    "device": "pioneer"
   },
@@ -162875,6 +162890,13 @@
    "device": "nippori"
   }
  ],
+ "Qbell 2K Android TV": [
+  {
+   "brand": "QBell",
+   "name": "EU、UK、AP",
+   "device": "martin"
+  }
+ ],
  "Qbell 2K Android TV": [
   {
    "brand": "QBell",
@@ -192474,7 +192496,7 @@
  "AQUOS-4KTVJ22": [
   {
    "brand": "Sharp",
-   "name": "4T-C**EN1/EQ1/ES1/EU1",
+   "name": "4T-C**EN1/EQ1/ES1/EU1/EP1",
    "device": "tcvenruj"
   }
  ],
@@ -206014,6 +206036,13 @@
    "device": "Passat"
   }
  ],
+ "4188V": [
+  {
+   "brand": "TCL",
+   "name": "TCL 30 LE",
+   "device": "Jetta_Visible"
+  }
+ ],
  "6165A": [
   {
    "brand": "TCL",
@@ -206075,6 +206104,13 @@
    "brand": "TCL",
    "name": "TCL 30 Z",
    "device": "Jetta_Dish"
+  }
+ ],
+ "4188O": [
+  {
+   "brand": "TCL",
+   "name": "TCL 30 Z",
+   "device": "Jetta_NA_OM"
   }
  ],
  "T676J": [
