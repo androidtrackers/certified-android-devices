@@ -114953,6 +114953,13 @@
    "model": "K726"
   }
  ],
+ "PROTON": [
+  {
+   "device": "lasalle",
+   "name": "PROTON 2K Android",
+   "model": "PROTON 2K Android"
+  }
+ ],
  "PS_Mobile": [
   {
    "device": "Neo_Pro",

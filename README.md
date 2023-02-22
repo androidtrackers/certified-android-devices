@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-02-21
+Last sync is 2023-02-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -22355,6 +22355,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PRISMPLUS|PrismPlus P4KA|SW6H|PrismPlus P4KA|
 |PRISMPLUS|Prismplus TV|shibuya|Prismplus TV|
 |PROGRACE|K726|K726|K726|
+|PROTON|PROTON 2K Android|lasalle|PROTON 2K Android|
 |PS_Mobile|Neo_Pro|Neo_Pro|Neo Pro|
 |PS_Mobile|neo|neo|neo|
 |PT mobile|P10|P10|P10|
