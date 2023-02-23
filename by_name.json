@@ -54376,6 +54376,20 @@
    "model": "Doro 8100"
   }
  ],
+ "Doro 8200": [
+  {
+   "brand": "Doro",
+   "device": "DSB0440",
+   "model": "Doro 8200"
+  }
+ ],
+ "Doro 8220": [
+  {
+   "brand": "Doro",
+   "device": "DSB0440",
+   "model": "Doro 8200"
+  }
+ ],
  "Doro 824": [
   {
    "brand": "Doro",
@@ -184296,13 +184310,6 @@
    "brand": "Samsung",
    "device": "veyronltectc",
    "model": "SM-W2017"
-  }
- ],
- "asdf121": [
-  {
-   "brand": "Samsung",
-   "device": "q4q",
-   "model": "SM-F936B"
   }
  ],
  "olleh": [

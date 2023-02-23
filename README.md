@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-02-22
+Last sync is 2023-02-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6282,6 +6282,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doro|Doro 8042|DSB0110|Doro 8042|
 |Doro|Doro 8050|DSB0230|Doro 8050|
 |Doro|Doro 8100|DSB0400|Doro 8100|
+|Doro|Doro 8200|DSB0440|Doro 8200|
+|Doro|Doro 8220|DSB0440|Doro 8200|
 |Doro|Doro 824|825A|Doro 824|
 |Doro|Doro Tablet|DTO0410|Doro Tablet|
 |Doro|Liberto 810|Liberto810|Doro Liberto 810|
@@ -28048,7 +28050,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|VinsQ(M910)|SPH-M910|SPH-M910|
 |Samsung|W2016|royceltectc|SM-W2016|
 |Samsung|W2017|veyronltectc|SM-W2017|
-|Samsung|asdf121|q4q|SM-F936B|
 |Samsung|olleh|ik1|SMT-E5015|
 |Samsung|三星 W21 5G|victory|SM-W2021|
 |Samsung|三星W20|zodiac|SM-W2020|

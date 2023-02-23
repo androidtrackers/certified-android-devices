@@ -47546,6 +47546,18 @@
    "device": "DSB0400"
   }
  ],
+ "Doro 8200": [
+  {
+   "brand": "Doro",
+   "name": "Doro 8200",
+   "device": "DSB0440"
+  },
+  {
+   "brand": "Doro",
+   "name": "Doro 8220",
+   "device": "DSB0440"
+  }
+ ],
  "Doro Tablet": [
   {
    "brand": "Doro",
@@ -191114,11 +191126,6 @@
   {
    "brand": "Samsung",
    "name": "Galaxy Z Fold4",
-   "device": "q4q"
-  },
-  {
-   "brand": "Samsung",
-   "name": "asdf121",
    "device": "q4q"
   }
  ],

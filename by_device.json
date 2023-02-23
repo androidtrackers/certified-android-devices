@@ -50946,6 +50946,18 @@
    "model": "Doro 8100"
   }
  ],
+ "DSB0440": [
+  {
+   "brand": "Doro",
+   "name": "Doro 8200",
+   "model": "Doro 8200"
+  },
+  {
+   "brand": "Doro",
+   "name": "Doro 8220",
+   "model": "Doro 8200"
+  }
+ ],
  "DTO0410": [
   {
    "brand": "Doro",
@@ -185648,11 +185660,6 @@
    "brand": "Samsung",
    "name": "Galaxy Z Fold4",
    "model": "SM-F936W"
-  },
-  {
-   "brand": "Samsung",
-   "name": "asdf121",
-   "model": "SM-F936B"
   }
  ],
  "YP-GB70D": [

@@ -32514,6 +32514,16 @@
    "model": "Doro 8100"
   },
   {
+   "device": "DSB0440",
+   "name": "Doro 8200",
+   "model": "Doro 8200"
+  },
+  {
+   "device": "DSB0440",
+   "name": "Doro 8220",
+   "model": "Doro 8200"
+  },
+  {
    "device": "825A",
    "name": "Doro 824",
    "model": "Doro 824"
@@ -143912,11 +143922,6 @@
    "device": "veyronltectc",
    "name": "W2017",
    "model": "SM-W2017"
-  },
-  {
-   "device": "q4q",
-   "name": "asdf121",
-   "model": "SM-F936B"
   },
   {
    "device": "ik1",
