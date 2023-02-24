@@ -99574,6 +99574,11 @@
    "brand": "Oale",
    "name": "P5",
    "model": "P5"
+  },
+  {
+   "brand": "Wiseasy",
+   "name": "Wiseasy P5",
+   "model": "P5"
   }
  ],
  "Silver_Max_Pro_2": [
@@ -169321,6 +169326,25 @@
    "model": "SM-M136B"
   }
  ],
+ "a14": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A14",
+   "model": "SM-A145F"
+  }
+ ],
+ "a14m": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A14",
+   "model": "SM-A145P"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A14",
+   "model": "SM-A145R"
+  }
+ ],
  "a14x": [
   {
    "brand": "Samsung",
@@ -169982,6 +170006,33 @@
    "model": "SM-A336N"
   }
  ],
+ "a34x": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A34 5G",
+   "model": "SM-A3460"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A34 5G",
+   "model": "SM-A346B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A34 5G",
+   "model": "SM-A346E"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A34 5G",
+   "model": "SM-A346M"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A34 5G",
+   "model": "SM-A346N"
+  }
+ ],
  "a40": [
   {
    "brand": "Samsung",
@@ -170511,6 +170562,48 @@
    "brand": "Samsung",
    "name": "Galaxy A53 5G UW",
    "model": "SM-A536V"
+  }
+ ],
+ "a54x": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A54 5G",
+   "model": "SM-A5460"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A54 5G",
+   "model": "SM-A546B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A54 5G",
+   "model": "SM-A546E"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A54 5G",
+   "model": "SM-A546U"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A54 5G",
+   "model": "SM-A546U1"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A54 5G",
+   "model": "SM-A546V"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A54 5G",
+   "model": "SM-A546W"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A54 5G",
+   "model": "SM-S546VL"
   }
  ],
  "a6elteaio": [
@@ -201836,6 +201929,13 @@
    "model": "9032X_TR"
   }
  ],
+ "Luna_8_4G_TMO": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 8 LE",
+   "model": "9137W"
+  }
+ ],
  "Macau": [
   {
    "brand": "TCL",
@@ -229177,6 +229277,13 @@
    "brand": "Wise-Tech",
    "name": "Wise-Tech_M1",
    "model": "Wise-Tech_M1"
+  }
+ ],
+ "Nano6": [
+  {
+   "brand": "Wiseasy",
+   "name": "Nano 6",
+   "model": "Nano6"
   }
  ],
  "Tech-A1": [

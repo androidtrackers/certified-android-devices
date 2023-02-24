@@ -61100,6 +61100,11 @@
    "brand": "Oale",
    "name": "P5",
    "device": "P5"
+  },
+  {
+   "brand": "Wiseasy",
+   "name": "Wiseasy P5",
+   "device": "P5"
   }
  ],
  "P5L": [
@@ -173213,6 +173218,27 @@
    "device": "a13x"
   }
  ],
+ "SM-A145F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A14",
+   "device": "a14"
+  }
+ ],
+ "SM-A145P": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A14",
+   "device": "a14m"
+  }
+ ],
+ "SM-A145R": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A14",
+   "device": "a14m"
+  }
+ ],
  "SM-A146B": [
   {
    "brand": "Samsung",
@@ -173982,6 +174008,41 @@
    "device": "a33x"
   }
  ],
+ "SM-A3460": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A34 5G",
+   "device": "a34x"
+  }
+ ],
+ "SM-A346B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A34 5G",
+   "device": "a34x"
+  }
+ ],
+ "SM-A346E": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A34 5G",
+   "device": "a34x"
+  }
+ ],
+ "SM-A346M": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A34 5G",
+   "device": "a34x"
+  }
+ ],
+ "SM-A346N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A34 5G",
+   "device": "a34x"
+  }
+ ],
  "SM-A405FM": [
   {
    "brand": "Samsung",
@@ -174674,6 +174735,62 @@
    "brand": "Samsung",
    "name": "Galaxy A53 5G UW",
    "device": "a53x"
+  }
+ ],
+ "SM-A5460": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A54 5G",
+   "device": "a54x"
+  }
+ ],
+ "SM-A546B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A54 5G",
+   "device": "a54x"
+  }
+ ],
+ "SM-A546E": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A54 5G",
+   "device": "a54x"
+  }
+ ],
+ "SM-A546U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A54 5G",
+   "device": "a54x"
+  }
+ ],
+ "SM-A546U1": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A54 5G",
+   "device": "a54x"
+  }
+ ],
+ "SM-A546V": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A54 5G",
+   "device": "a54x"
+  }
+ ],
+ "SM-A546W": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A54 5G",
+   "device": "a54x"
+  }
+ ],
+ "SM-S546VL": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A54 5G",
+   "device": "a54x"
   }
  ],
  "SM-A600AZ": [
@@ -206601,6 +206718,13 @@
    "device": "Apollo_8_4G"
   }
  ],
+ "9137W": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 8 LE",
+   "device": "Luna_8_4G_TMO"
+  }
+ ],
  "9050S": [
   {
    "brand": "TCL",
@@ -238049,6 +238173,13 @@
    "brand": "Wise-Tech",
    "name": "Wise-Tech_M1",
    "device": "Wise-Tech_M1"
+  }
+ ],
+ "Nano6": [
+  {
+   "brand": "Wiseasy",
+   "name": "Nano 6",
+   "device": "Nano6"
   }
  ],
  "Tech A1": [

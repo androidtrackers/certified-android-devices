@@ -130639,6 +130639,21 @@
    "model": "SM-S136DL"
   },
   {
+   "device": "a14",
+   "name": "Galaxy A14",
+   "model": "SM-A145F"
+  },
+  {
+   "device": "a14m",
+   "name": "Galaxy A14",
+   "model": "SM-A145P"
+  },
+  {
+   "device": "a14m",
+   "name": "Galaxy A14",
+   "model": "SM-A145R"
+  },
+  {
    "device": "a14x",
    "name": "Galaxy A14 5G",
    "model": "SM-A146B"
@@ -131199,6 +131214,31 @@
    "model": "SM-A336N"
   },
   {
+   "device": "a34x",
+   "name": "Galaxy A34 5G",
+   "model": "SM-A3460"
+  },
+  {
+   "device": "a34x",
+   "name": "Galaxy A34 5G",
+   "model": "SM-A346B"
+  },
+  {
+   "device": "a34x",
+   "name": "Galaxy A34 5G",
+   "model": "SM-A346E"
+  },
+  {
+   "device": "a34x",
+   "name": "Galaxy A34 5G",
+   "model": "SM-A346M"
+  },
+  {
+   "device": "a34x",
+   "name": "Galaxy A34 5G",
+   "model": "SM-A346N"
+  },
+  {
    "device": "a40",
    "name": "Galaxy A40",
    "model": "SM-A405FM"
@@ -131697,6 +131737,46 @@
    "device": "a53x",
    "name": "Galaxy A53 5G UW",
    "model": "SM-A536V"
+  },
+  {
+   "device": "a54x",
+   "name": "Galaxy A54 5G",
+   "model": "SM-A5460"
+  },
+  {
+   "device": "a54x",
+   "name": "Galaxy A54 5G",
+   "model": "SM-A546B"
+  },
+  {
+   "device": "a54x",
+   "name": "Galaxy A54 5G",
+   "model": "SM-A546E"
+  },
+  {
+   "device": "a54x",
+   "name": "Galaxy A54 5G",
+   "model": "SM-A546U"
+  },
+  {
+   "device": "a54x",
+   "name": "Galaxy A54 5G",
+   "model": "SM-A546U1"
+  },
+  {
+   "device": "a54x",
+   "name": "Galaxy A54 5G",
+   "model": "SM-A546V"
+  },
+  {
+   "device": "a54x",
+   "name": "Galaxy A54 5G",
+   "model": "SM-A546W"
+  },
+  {
+   "device": "a54x",
+   "name": "Galaxy A54 5G",
+   "model": "SM-S546VL"
   },
   {
    "device": "a6elteaio",
@@ -156059,6 +156139,11 @@
    "device": "Apollo_8_4G",
    "name": "TCL TAB 8 4G",
    "model": "9032X"
+  },
+  {
+   "device": "Luna_8_4G_TMO",
+   "name": "TCL TAB 8 LE",
+   "model": "9137W"
   },
   {
    "device": "Thor_8_4G_VZW",
@@ -181254,6 +181339,11 @@
  ],
  "Wiseasy": [
   {
+   "device": "Nano6",
+   "name": "Nano 6",
+   "model": "Nano6"
+  },
+  {
    "device": "Tech-A1",
    "name": "Tech-A1",
    "model": "Tech A1"
@@ -181262,6 +181352,11 @@
    "device": "WISENET5",
    "name": "WISENET5",
    "model": "WISENET5"
+  },
+  {
+   "device": "P5",
+   "name": "Wiseasy P5",
+   "model": "P5"
   }
  ],
  "Wishtel": [

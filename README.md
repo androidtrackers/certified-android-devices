@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-02-23
+Last sync is 2023-02-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -25393,6 +25393,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A13 5G|a13x|SM-A136U1|
 |Samsung|Galaxy A13 5G|a13x|SM-A136W|
 |Samsung|Galaxy A13 5G|a13x|SM-S136DL|
+|Samsung|Galaxy A14|a14|SM-A145F|
+|Samsung|Galaxy A14|a14m|SM-A145P|
+|Samsung|Galaxy A14|a14m|SM-A145R|
 |Samsung|Galaxy A14 5G|a14x|SM-A146B|
 |Samsung|Galaxy A14 5G|a14x|SM-A146M|
 |Samsung|Galaxy A14 5G|a14xm|SM-A146P|
@@ -25505,6 +25508,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A33 5G|a33x|SM-A336E|
 |Samsung|Galaxy A33 5G|a33x|SM-A336M|
 |Samsung|Galaxy A33 5G|a33x|SM-A336N|
+|Samsung|Galaxy A34 5G|a34x|SM-A3460|
+|Samsung|Galaxy A34 5G|a34x|SM-A346B|
+|Samsung|Galaxy A34 5G|a34x|SM-A346E|
+|Samsung|Galaxy A34 5G|a34x|SM-A346M|
+|Samsung|Galaxy A34 5G|a34x|SM-A346N|
 |Samsung|Galaxy A40|a40|SM-A405FM|
 |Samsung|Galaxy A40|a40|SM-A405FN|
 |Samsung|Galaxy A40|a40|SM-A405S|
@@ -25605,6 +25613,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A53 5G|a53x|SM-A536W|
 |Samsung|Galaxy A53 5G|a53x|SM-S536DL|
 |Samsung|Galaxy A53 5G UW|a53x|SM-A536V|
+|Samsung|Galaxy A54 5G|a54x|SM-A5460|
+|Samsung|Galaxy A54 5G|a54x|SM-A546B|
+|Samsung|Galaxy A54 5G|a54x|SM-A546E|
+|Samsung|Galaxy A54 5G|a54x|SM-A546U|
+|Samsung|Galaxy A54 5G|a54x|SM-A546U1|
+|Samsung|Galaxy A54 5G|a54x|SM-A546V|
+|Samsung|Galaxy A54 5G|a54x|SM-A546W|
+|Samsung|Galaxy A54 5G|a54x|SM-S546VL|
 |Samsung|Galaxy A6|a6elteaio|SM-A600AZ|
 |Samsung|Galaxy A6|a6elteatt|SM-A600A|
 |Samsung|Galaxy A6|a6eltemtr|SM-A600T1|
@@ -30415,6 +30431,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 8|Luna|9132G|
 |TCL|TCL TAB 8|Luna|9132X|
 |TCL|TCL TAB 8 4G|Apollo_8_4G|9032X|
+|TCL|TCL TAB 8 LE|Luna_8_4G_TMO|9137W|
 |TCL|TCL TAB Disney Edition|Thor_8_4G_VZW|9050S|
 |TCL|TCL TAB Lite|Apollo84GBoostR|9132S|
 |TCL|TCL TAB kids|Thor_8_4G_VZW|9049L|
@@ -35310,8 +35327,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Wirele-X|MT70|MT70|MT70|
 |Wise-Tech|Tech_A1_Plus|Tech_A1_Plus|Tech_A1_Plus|
 |Wise-Tech|Wise-Tech_M1|Wise-Tech_M1|Wise-Tech_M1|
+|Wiseasy|Nano 6|Nano6|Nano6|
 |Wiseasy|Tech-A1|Tech-A1|Tech A1|
 |Wiseasy|WISENET5|WISENET5|WISENET5|
+|Wiseasy|Wiseasy P5|P5|P5|
 |Wishtel|102017|102017|102017|
 |Wishtel|IRA|IRA|IRAI1705|
 |Wishtel|IRA07|IRA07|IRA07|

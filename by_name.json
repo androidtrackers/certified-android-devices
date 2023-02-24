@@ -169800,6 +169800,23 @@
    "model": "SM-S136DL"
   }
  ],
+ "Galaxy A14": [
+  {
+   "brand": "Samsung",
+   "device": "a14",
+   "model": "SM-A145F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a14m",
+   "model": "SM-A145P"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a14m",
+   "model": "SM-A145R"
+  }
+ ],
  "Galaxy A14 5G": [
   {
    "brand": "Samsung",
@@ -170408,6 +170425,33 @@
    "model": "SM-A336N"
   }
  ],
+ "Galaxy A34 5G": [
+  {
+   "brand": "Samsung",
+   "device": "a34x",
+   "model": "SM-A3460"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a34x",
+   "model": "SM-A346B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a34x",
+   "model": "SM-A346E"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a34x",
+   "model": "SM-A346M"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a34x",
+   "model": "SM-A346N"
+  }
+ ],
  "Galaxy A40": [
   {
    "brand": "Samsung",
@@ -170940,6 +170984,48 @@
    "brand": "Samsung",
    "device": "a53x",
    "model": "SM-A536V"
+  }
+ ],
+ "Galaxy A54 5G": [
+  {
+   "brand": "Samsung",
+   "device": "a54x",
+   "model": "SM-A5460"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a54x",
+   "model": "SM-A546B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a54x",
+   "model": "SM-A546E"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a54x",
+   "model": "SM-A546U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a54x",
+   "model": "SM-A546U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a54x",
+   "model": "SM-A546V"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a54x",
+   "model": "SM-A546W"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a54x",
+   "model": "SM-S546VL"
   }
  ],
  "Galaxy A6": [
@@ -198578,6 +198664,13 @@
    "brand": "TCL",
    "device": "Apollo_8_4G",
    "model": "9032X"
+  }
+ ],
+ "TCL TAB 8 LE": [
+  {
+   "brand": "TCL",
+   "device": "Luna_8_4G_TMO",
+   "model": "9137W"
   }
  ],
  "TCL TAB Disney Edition": [
@@ -227359,6 +227452,13 @@
    "model": "Wise-Tech_M1"
   }
  ],
+ "Nano 6": [
+  {
+   "brand": "Wiseasy",
+   "device": "Nano6",
+   "model": "Nano6"
+  }
+ ],
  "Tech-A1": [
   {
    "brand": "Wiseasy",
@@ -227371,6 +227471,13 @@
    "brand": "Wiseasy",
    "device": "WISENET5",
    "model": "WISENET5"
+  }
+ ],
+ "Wiseasy P5": [
+  {
+   "brand": "Wiseasy",
+   "device": "P5",
+   "model": "P5"
   }
  ],
  "102017": [
