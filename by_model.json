@@ -103120,6 +103120,13 @@
    "device": "U3A_7_WIFI_Refresh_KD"
   }
  ],
+ "9309S_EEA": [
+  {
+   "brand": "Kurio",
+   "name": "KURIO LITE GO NEW",
+   "device": "U3A_7_WIFI_Refresh_KD"
+  }
+ ],
  "8391X": [
   {
    "brand": "Kurio",
@@ -146049,6 +146056,13 @@
    "device": "MPC10T"
   }
  ],
+ "MPC80T": [
+  {
+   "brand": "ONERugged",
+   "name": "MPC80T",
+   "device": "MPC80T"
+  }
+ ],
  "Model A": [
   {
    "brand": "ONYX",
@@ -159319,6 +159333,20 @@
    "device": "T770E"
   }
  ],
+ "Twist Tab +": [
+  {
+   "brand": "Positivo",
+   "name": "Twist Tab",
+   "device": "T770G"
+  }
+ ],
+ "Twist Tab Minions +": [
+  {
+   "brand": "Positivo",
+   "name": "Twist Tab",
+   "device": "T770G"
+  }
+ ],
  "Twist XL": [
   {
    "brand": "Positivo",
@@ -168602,6 +168630,13 @@
    "brand": "Remdun",
    "name": "RD195T",
    "device": "RD195T"
+  }
+ ],
+ "RD1XT": [
+  {
+   "brand": "Remdun",
+   "name": "RD1XT",
+   "device": "RD1XT"
   }
  ],
  "RD40T": [
@@ -213190,13 +213225,6 @@
    "brand": "TCT (Alcatel)",
    "name": "Juke-A554C",
    "device": "A554C"
-  }
- ],
- "9309S_EEA": [
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "KURIO LITE GO NEW",
-   "device": "U3A_7_WIFI_Refresh_KD"
   }
  ],
  "DIGICEL DL810": [

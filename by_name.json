@@ -105664,7 +105664,7 @@
    "model": "9309S"
   },
   {
-   "brand": "TCT (Alcatel)",
+   "brand": "Kurio",
    "device": "U3A_7_WIFI_Refresh_KD",
    "model": "9309S_EEA"
   }
@@ -144061,6 +144061,13 @@
    "model": "MPC10T"
   }
  ],
+ "MPC80T": [
+  {
+   "brand": "ONERugged",
+   "device": "MPC80T",
+   "model": "MPC80T"
+  }
+ ],
  "AKA Model A": [
   {
    "brand": "ONYX",
@@ -156694,6 +156701,16 @@
    "brand": "Positivo",
    "device": "T770G",
    "model": "Twist Tab"
+  },
+  {
+   "brand": "Positivo",
+   "device": "T770G",
+   "model": "Twist Tab +"
+  },
+  {
+   "brand": "Positivo",
+   "device": "T770G",
+   "model": "Twist Tab Minions +"
   }
  ],
  "Twist Tab Kids": [
@@ -165699,6 +165716,13 @@
    "brand": "Remdun",
    "device": "RD195T",
    "model": "RD195T"
+  }
+ ],
+ "RD1XT": [
+  {
+   "brand": "Remdun",
+   "device": "RD1XT",
+   "model": "RD1XT"
   }
  ],
  "RD40T": [

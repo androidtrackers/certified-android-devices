@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-02-24
+Last sync is 2023-02-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14604,6 +14604,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kult|Kult Beyond|Beyond|Beyond|
 |Kunfabo|F99Pro|F99Pro|F99Pro|
 |Kurio|KURIO LITE GO NEW|U3A_7_WIFI_Refresh_KD|9309S|
+|Kurio|KURIO LITE GO NEW|U3A_7_WIFI_Refresh_KD|9309S_EEA|
 |Kurio|Kurio Smart 2 in 1 PRO|Aquaman_10_WIFI|8391X|
 |Kurio|Kurio Smart 2 in 1 PRO|Aquaman_10_WIFI|8391X_EEA|
 |Kurio|Kurio Tab|Hulk_7_KIDS_WIFI|8076|
@@ -21203,6 +21204,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONDA TLC|T7 Pro|T7_PRO|T7_PRO|
 |ONDA TLC|T9 S|T9S|T9S|
 |ONERugged|MPC10T|MPC10T|MPC10T|
+|ONERugged|MPC80T|MPC80T|MPC80T|
 |ONYX|AKA Model A|Model_A|Model A|
 |ONYX|BOOX|BOOX|BOOX|
 |ONYX|BOOX Tab|BOOX_Tab|BOOX Tab|
@@ -23267,6 +23269,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|Twist Tab|T770E|T790|
 |Positivo|Twist Tab|T770E|Twist Tab|
 |Positivo|Twist Tab|T770G|Twist Tab|
+|Positivo|Twist Tab|T770G|Twist Tab +|
+|Positivo|Twist Tab|T770G|Twist Tab Minions +|
 |Positivo|Twist Tab Kids|T770|Twist Tab|
 |Positivo|Twist Tab Kids|T770|Twist Tab Kids|
 |Positivo|Twist XL|S555|Twist XL|
@@ -24679,6 +24683,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Remdun|RD16Q|RD16Q|RD16Q|
 |Remdun|RD16QE|RD16QE|RD16QE|
 |Remdun|RD195T|RD195T|RD195T|
+|Remdun|RD1XT|RD1XT|RD1XT|
 |Remdun|RD40T|RD40T|RD40T|
 |Remdun|RD40TE|RD40TE|RD40TE|
 |Remdun|RD50T|RD50T|RD50T|
@@ -31355,7 +31360,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCT (Alcatel)|Idol2 MINI S|MIATA_lte|6036X|
 |TCT (Alcatel)|Idol2 MINI S|MIATA_lte|6036Y|
 |TCT (Alcatel)|Juke-A554C|A554C|A554C|
-|TCT (Alcatel)|KURIO LITE GO NEW|U3A_7_WIFI_Refresh_KD|9309S_EEA|
 |TCT (Alcatel)|LCATEL ONETOUCH PIXI 3 (4.5)|PIXI3_45_4G|DIGICEL DL810|
 |TCT (Alcatel)|Lively Smart|Tokyo_GC|5007S|
 |TCT (Alcatel)|M812C|M812|M812C|

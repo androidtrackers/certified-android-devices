@@ -75286,6 +75286,11 @@
    "model": "9309S"
   },
   {
+   "device": "U3A_7_WIFI_Refresh_KD",
+   "name": "KURIO LITE GO NEW",
+   "model": "9309S_EEA"
+  },
+  {
    "device": "Aquaman_10_WIFI",
    "name": "Kurio Smart 2 in 1 PRO",
    "model": "8391X"
@@ -109027,6 +109032,11 @@
    "device": "MPC10T",
    "name": "MPC10T",
    "model": "MPC10T"
+  },
+  {
+   "device": "MPC80T",
+   "name": "MPC80T",
+   "model": "MPC80T"
   }
  ],
  "ONYX": [
@@ -119617,6 +119627,16 @@
    "model": "Twist Tab"
   },
   {
+   "device": "T770G",
+   "name": "Twist Tab",
+   "model": "Twist Tab +"
+  },
+  {
+   "device": "T770G",
+   "name": "Twist Tab",
+   "model": "Twist Tab Minions +"
+  },
+  {
    "device": "T770",
    "name": "Twist Tab Kids",
    "model": "Twist Tab"
@@ -126865,6 +126885,11 @@
    "device": "RD195T",
    "name": "RD195T",
    "model": "RD195T"
+  },
+  {
+   "device": "RD1XT",
+   "name": "RD1XT",
+   "model": "RD1XT"
   },
   {
    "device": "RD40T",
@@ -160763,11 +160788,6 @@
    "device": "A554C",
    "name": "Juke-A554C",
    "model": "A554C"
-  },
-  {
-   "device": "U3A_7_WIFI_Refresh_KD",
-   "name": "KURIO LITE GO NEW",
-   "model": "9309S_EEA"
   },
   {
    "device": "PIXI3_45_4G",

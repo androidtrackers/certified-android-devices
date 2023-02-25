@@ -102211,7 +102211,7 @@
    "model": "9309S"
   },
   {
-   "brand": "TCT (Alcatel)",
+   "brand": "Kurio",
    "name": "KURIO LITE GO NEW",
    "model": "9309S_EEA"
   }
@@ -143762,6 +143762,13 @@
    "model": "MPC10T"
   }
  ],
+ "MPC80T": [
+  {
+   "brand": "ONERugged",
+   "name": "MPC80T",
+   "model": "MPC80T"
+  }
+ ],
  "Model_A": [
   {
    "brand": "ONYX",
@@ -156595,6 +156602,16 @@
    "brand": "Positivo",
    "name": "Twist Tab",
    "model": "Twist Tab"
+  },
+  {
+   "brand": "Positivo",
+   "name": "Twist Tab",
+   "model": "Twist Tab +"
+  },
+  {
+   "brand": "Positivo",
+   "name": "Twist Tab",
+   "model": "Twist Tab Minions +"
   }
  ],
  "S555": [
@@ -165150,6 +165167,13 @@
    "brand": "Remdun",
    "name": "RD195T",
    "model": "RD195T"
+  }
+ ],
+ "RD1XT": [
+  {
+   "brand": "Remdun",
+   "name": "RD1XT",
+   "model": "RD1XT"
   }
  ],
  "RD40T": [
