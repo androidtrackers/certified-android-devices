@@ -20058,6 +20058,11 @@
    "model": "QMobile S6"
   },
   {
+   "brand": "SparX",
+   "device": "S6",
+   "model": "S6"
+  },
+  {
    "brand": "Techpad",
    "device": "S6",
    "model": "S6"
@@ -26490,6 +26495,13 @@
    "brand": "BMobile",
    "device": "Bmobile_BL65_TG",
    "model": "BL65_TG"
+  }
+ ],
+ "BL70": [
+  {
+   "brand": "BMobile",
+   "device": "Bmobile_BL70",
+   "model": "BL70"
   }
  ],
  "Bella": [
@@ -55425,6 +55437,13 @@
    "brand": "EGOTEK",
    "device": "Venus10",
    "model": "Venus10"
+  }
+ ],
+ "T80 EEA": [
+  {
+   "brand": "EKEMP",
+   "device": "T80",
+   "model": "T80"
   }
  ],
  "E6": [
@@ -221455,6 +221474,18 @@
    "model": "V2242"
   }
  ],
+ "V27": [
+  {
+   "brand": "Vivo",
+   "device": "V2231",
+   "model": "V2231"
+  },
+  {
+   "brand": "Vivo",
+   "device": "V2231",
+   "model": "V2246"
+  }
+ ],
  "V27 Pro": [
   {
    "brand": "Vivo",
@@ -245182,6 +245213,20 @@
    "brand": "realme",
    "device": "RMX2121CN",
    "model": "RMX2121"
+  }
+ ],
+ "realmeGT Neo5 150W": [
+  {
+   "brand": "realme",
+   "device": "RE5860",
+   "model": "RMX3706"
+  }
+ ],
+ "realmeGT Neo5 240W": [
+  {
+   "brand": "realme",
+   "device": "RE5860",
+   "model": "RMX3708"
   }
  ],
  "真我 GT NEO  3  150W": [

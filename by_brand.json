@@ -13523,6 +13523,11 @@
    "model": "BL65_TG"
   },
   {
+   "device": "Bmobile_BL70",
+   "name": "BL70",
+   "model": "BL70"
+  },
+  {
    "device": "Bella",
    "name": "Bella",
    "model": "Bella"
@@ -33321,6 +33326,13 @@
    "device": "Venus10",
    "name": "Venus10",
    "model": "Venus10"
+  }
+ ],
+ "EKEMP": [
+  {
+   "device": "T80",
+   "name": "T80 EEA",
+   "model": "T80"
   }
  ],
  "EKINOX": [
@@ -152706,6 +152718,11 @@
    "device": "NEO5",
    "name": "NEO 5",
    "model": "NEO 5"
+  },
+  {
+   "device": "S6",
+   "name": "S6",
+   "model": "S6"
   }
  ],
  "Spark": [
@@ -176236,6 +176253,16 @@
    "model": "V2242"
   },
   {
+   "device": "V2231",
+   "name": "V27",
+   "model": "V2231"
+  },
+  {
+   "device": "V2231",
+   "name": "V27",
+   "model": "V2246"
+  },
+  {
    "device": "V2230",
    "name": "V27 Pro",
    "model": "V2230"
@@ -197695,6 +197722,16 @@
    "device": "RMX2121CN",
    "name": "realme  X7 Pro",
    "model": "RMX2121"
+  },
+  {
+   "device": "RE5860",
+   "name": "realmeGT Neo5 150W",
+   "model": "RMX3706"
+  },
+  {
+   "device": "RE5860",
+   "name": "realmeGT Neo5 240W",
+   "model": "RMX3708"
   },
   {
    "device": "RE5489",

@@ -17746,6 +17746,11 @@
    "model": "S6"
   },
   {
+   "brand": "SparX",
+   "name": "S6",
+   "model": "S6"
+  },
+  {
    "brand": "Techpad",
    "name": "S6",
    "model": "S6"
@@ -24498,6 +24503,13 @@
    "brand": "BMobile",
    "name": "BL65",
    "model": "BL65_TG"
+  }
+ ],
+ "Bmobile_BL70": [
+  {
+   "brand": "BMobile",
+   "name": "BL70",
+   "model": "BL70"
   }
  ],
  "Bella": [
@@ -51878,6 +51890,18 @@
    "brand": "EGOTEK",
    "name": "Venus10",
    "model": "Venus10"
+  }
+ ],
+ "T80": [
+  {
+   "brand": "EKEMP",
+   "name": "T80 EEA",
+   "model": "T80"
+  },
+  {
+   "brand": "Veidoo",
+   "name": "T80",
+   "model": "T80"
   }
  ],
  "E6": [
@@ -218919,13 +218943,6 @@
    "model": "T7S"
   }
  ],
- "T80": [
-  {
-   "brand": "Veidoo",
-   "name": "T80",
-   "model": "T80"
-  }
- ],
  "T80_PLUS": [
   {
    "brand": "Veidoo",
@@ -223281,6 +223298,18 @@
    "brand": "Vivo",
    "name": "V27e",
    "model": "V2237"
+  }
+ ],
+ "V2231": [
+  {
+   "brand": "Vivo",
+   "name": "V27",
+   "model": "V2231"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V27",
+   "model": "V2246"
   }
  ],
  "V2230": [
@@ -247407,6 +247436,18 @@
    "brand": "realme",
    "name": "realme  X7 Pro",
    "model": "RMX2121"
+  }
+ ],
+ "RE5860": [
+  {
+   "brand": "realme",
+   "name": "realmeGT Neo5 150W",
+   "model": "RMX3706"
+  },
+  {
+   "brand": "realme",
+   "name": "realmeGT Neo5 240W",
+   "model": "RMX3708"
   }
  ],
  "RE5489": [

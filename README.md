@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-02-26
+Last sync is 2023-02-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2619,6 +2619,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|BL62|Bmobile_BL62i|BL62|
 |BMobile|BL65|Bmobile_BL65_OM|BL65_OM|
 |BMobile|BL65|Bmobile_BL65_TG|BL65_TG|
+|BMobile|BL70|Bmobile_BL70|BL70|
 |BMobile|Bella|Bella|Bella|
 |BMobile|Bmbile AX687|Bmobile_AX687|AX687|
 |BMobile|Bmobile AX1076|Bmobile_AX1076|AX1076|
@@ -6433,6 +6434,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EGOTEK|Mars8|Mars8|Mars8|
 |EGOTEK|Penguin|Penguin|Penguin|
 |EGOTEK|Venus10|Venus10|Venus10|
+|EKEMP|T80 EEA|T80|T80|
 |EKINOX|E6|E6|E6|
 |EKINOX|E8_Ultra|E8_Ultra|E8_Ultra|
 |EKINOX|G1|G1|G1|
@@ -29770,6 +29772,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SoyMomo|SoyMomo_Pro_V2|SoyMomo_Pro_V2|SoyMomo_Pro_V2|
 |SoyMomo_Tablet|SoyMomo_PRO_V2MAX|SoyMomo_PRO_V2MAX|SoyMomo_PRO_V2MAX|
 |SparX|NEO 5|NEO5|NEO 5|
+|SparX|S6|S6|S6|
 |Spark|Spark_Plus_3|Spark_Plus_3|Spark Plus 3|
 |Spectra Geospatial|MobileMapper60_2|MM60_2|MobileMapper60_2|
 |Spectra Geospatial|Ranger 5|bcat|RGR5|
@@ -34334,6 +34337,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V25e|V2201|V2201|
 |Vivo|V25e|V2201|V2209|
 |Vivo|V25e|V2237|V2242|
+|Vivo|V27|V2231|V2231|
+|Vivo|V27|V2231|V2246|
 |Vivo|V27 Pro|V2230|V2230|
 |Vivo|V27e|V2237|V2237|
 |Vivo|V3|PD1524|vivo V3|
@@ -38517,6 +38522,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme pad|RE54C1L1|RMP2102|
 |realme|realme pad|RE54C1L1|RMP2103|
 |realme|realme  X7 Pro|RMX2121CN|RMX2121|
+|realme|realmeGT Neo5 150W|RE5860|RMX3706|
+|realme|realmeGT Neo5 240W|RE5860|RMX3708|
 |realme|真我 GT NEO  3  150W|RE5489|RMX3562|
 |realme|真我 GT NEO 3|RE5489|RMX3560|
 |realme|真我 GT2 大师探索版|RE5465|RMX3551|
