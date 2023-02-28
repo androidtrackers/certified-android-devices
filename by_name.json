@@ -24992,6 +24992,11 @@
    "brand": "Panasonic",
    "device": "T30",
    "model": "Panasonic T30"
+  },
+  {
+   "brand": "UAUU",
+   "device": "T30",
+   "model": "T30"
   }
  ],
  "X101": [
@@ -56716,6 +56721,13 @@
    "model": "Wave_i101G"
   }
  ],
+ "Wave_i101u": [
+  {
+   "brand": "EXO S.A.",
+   "device": "Wave_i101u",
+   "model": "Wave_i101u"
+  }
+ ],
  "i101T2": [
   {
    "brand": "EXO S.A.",
@@ -69740,6 +69752,13 @@
    "brand": "Grundig",
    "device": "sinchon",
    "model": "Grundig Android TV"
+  }
+ ],
+ "Grundig Google TV": [
+  {
+   "brand": "Grundig",
+   "device": "wanchai",
+   "model": "Grundig Google TV"
   }
  ],
  "Grundig UHD Android TV": [
@@ -145482,6 +145501,13 @@
    "model": "3008"
   }
  ],
+ "A1 Pro 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP5613",
+   "model": "PHQ110"
+  }
+ ],
  "A11 中国版": [
   {
    "brand": "Oppo",
@@ -148581,6 +148607,13 @@
    "brand": "Oppo",
    "device": "OP5227",
    "model": "PFJM10"
+  }
+ ],
+ "Reno8 T 5G": [
+  {
+   "brand": "Oppo",
+   "device": "OP56EDL1",
+   "model": "CPH2505"
   }
  ],
  "U707": [
@@ -169848,6 +169881,11 @@
    "brand": "Samsung",
    "device": "a14",
    "model": "SM-A145F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a14",
+   "model": "SM-A145FB"
   },
   {
    "brand": "Samsung",
@@ -210082,6 +210120,11 @@
    "brand": "Tecno",
    "device": "TECNO-KI5n",
    "model": "TECNO KI5n"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KI5q",
+   "model": "TECNO KI5q"
   }
  ],
  "TECNO SPARK 10C": [
@@ -210089,6 +210132,11 @@
    "brand": "Tecno",
    "device": "TECNO-KI5k",
    "model": "TECNO KI5k"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-KI5m",
+   "model": "TECNO KI5m"
   }
  ],
  "TECNO SPARK 4": [
@@ -245215,7 +245263,7 @@
    "model": "RMX2121"
   }
  ],
- "realmeGT Neo5 150W": [
+ "realmeGT Neo5": [
   {
    "brand": "realme",
    "device": "RE5860",

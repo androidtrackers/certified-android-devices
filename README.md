@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-02-27
+Last sync is 2023-02-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6606,6 +6606,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EXO S.A.|Wave i007T|Wave_i007T|Wave i007T|
 |EXO S.A.|Wave_i007Kids|Wave_i007Kids|Wave i007Kids|
 |EXO S.A.|Wave_i101G|Wave_i101G|Wave_i101G|
+|EXO S.A.|Wave_i101u|Wave_i101u|Wave_i101u|
 |EXO S.A.|i101T2|i101T2|TabletEXO_Wave_i101T2|
 |EXO S.A.|wave-i007w|wave-i007w|wave-i007w|
 |Eaglesoar|EE1010_EEA|EE1010_EEA|EE1010_EEA|
@@ -8471,6 +8472,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Grundig|Grundig Android TV|kunyang|Grundig Android TV|
 |Grundig|Grundig Android TV|shinagawa|Grundig Android TV|
 |Grundig|Grundig Android TV|sinchon|Grundig Android TV|
+|Grundig|Grundig Google TV|wanchai|Grundig Google TV|
 |Grundig|Grundig UHD Android TV|kunyang|Grundig Android UHD TV|
 |Grundig|TC69CA2|GTB801|GTB 801|
 |Grunhelm|GT9HD32|ikebukuro|AI PONT|
@@ -21464,6 +21466,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|3006|Mirror3|3006|
 |Oppo|3007|3007|3007|
 |Oppo|3008|3008|3008|
+|Oppo|A1 Pro 5G|OP5613|PHQ110|
 |Oppo|A11|A11|A11|
 |Oppo|A11 中国版|OP4A4D|PCHM10|
 |Oppo|A11 中国版|OP4A4D|PCHT10|
@@ -21984,6 +21987,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno6 Pro+ 5G|OP4EC1|PENM00|
 |Oppo|Reno7 Z 5G/Reno7 Lite 5G/Reno8 Lite 5G|OP532FL1|CPH2343|
 |Oppo|Reno7 中国版|OP5227|PFJM10|
+|Oppo|Reno8 T 5G|OP56EDL1|CPH2505|
 |Oppo|U3|U3|U3|
 |Oppo|U707|U707|U707|
 |Oppo|U707T|U707T|U707T|
@@ -25401,6 +25405,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A13 5G|a13x|SM-A136W|
 |Samsung|Galaxy A13 5G|a13x|SM-S136DL|
 |Samsung|Galaxy A14|a14|SM-A145F|
+|Samsung|Galaxy A14|a14|SM-A145FB|
 |Samsung|Galaxy A14|a14m|SM-A145P|
 |Samsung|Galaxy A14|a14m|SM-A145R|
 |Samsung|Galaxy A14 5G|a14x|SM-A146B|
@@ -32476,7 +32481,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SA2S|TECNO-SA2S|TECNO SA2S|
 |Tecno|TECNO SA7S|TECNO-SA7S|TECNO SA7S|
 |Tecno|TECNO SPARK 10|TECNO-KI5n|TECNO KI5n|
+|Tecno|TECNO SPARK 10|TECNO-KI5q|TECNO KI5q|
 |Tecno|TECNO SPARK 10C|TECNO-KI5k|TECNO KI5k|
+|Tecno|TECNO SPARK 10C|TECNO-KI5m|TECNO KI5m|
 |Tecno|TECNO SPARK 4|TECNO-KC2|TECNO KC2|
 |Tecno|TECNO SPARK 4|TECNO-KC2j|TECNO KC2j|
 |Tecno|TECNO SPARK 4 Air|TECNO-KC1j|TECNO KC1j|
@@ -33038,6 +33045,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tvera|Tvera|seocho|Tvera 4K Android TV|
 |Tvstar|TVSTAR|seocho|TVSTAR 4K Android TV|
 |TwinMOS|MQ703G|MQ703G|MQ703G|
+|UAUU|T30|T30|T30|
 |UAUU|T60|T60|T60|
 |UBCtv|Vietnam|tamachi|UBC Android TV|
 |UBCtv|Vietnam|yeongdeungpo|UBC Android TV|
@@ -38522,7 +38530,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme pad|RE54C1L1|RMP2102|
 |realme|realme pad|RE54C1L1|RMP2103|
 |realme|realme  X7 Pro|RMX2121CN|RMX2121|
-|realme|realmeGT Neo5 150W|RE5860|RMX3706|
+|realme|realmeGT Neo5|RE5860|RMX3706|
 |realme|realmeGT Neo5 240W|RE5860|RMX3708|
 |realme|真我 GT NEO  3  150W|RE5489|RMX3562|
 |realme|真我 GT NEO 3|RE5489|RMX3560|

@@ -34240,6 +34240,11 @@
    "model": "Wave_i101G"
   },
   {
+   "device": "Wave_i101u",
+   "name": "Wave_i101u",
+   "model": "Wave_i101u"
+  },
+  {
    "device": "i101T2",
    "name": "i101T2",
    "model": "TabletEXO_Wave_i101T2"
@@ -44013,6 +44018,11 @@
    "device": "sinchon",
    "name": "Grundig Android TV",
    "model": "Grundig Android TV"
+  },
+  {
+   "device": "wanchai",
+   "name": "Grundig Google TV",
+   "model": "Grundig Google TV"
   },
   {
    "device": "kunyang",
@@ -110416,6 +110426,11 @@
    "model": "3008"
   },
   {
+   "device": "OP5613",
+   "name": "A1 Pro 5G",
+   "model": "PHQ110"
+  },
+  {
    "device": "A11",
    "name": "A11",
    "model": "A11"
@@ -113014,6 +113029,11 @@
    "device": "OP5227",
    "name": "Reno7 中国版",
    "model": "PFJM10"
+  },
+  {
+   "device": "OP56EDL1",
+   "name": "Reno8 T 5G",
+   "model": "CPH2505"
   },
   {
    "device": "U3",
@@ -130679,6 +130699,11 @@
    "device": "a14",
    "name": "Galaxy A14",
    "model": "SM-A145F"
+  },
+  {
+   "device": "a14",
+   "name": "Galaxy A14",
+   "model": "SM-A145FB"
   },
   {
    "device": "a14m",
@@ -166530,9 +166555,19 @@
    "model": "TECNO KI5n"
   },
   {
+   "device": "TECNO-KI5q",
+   "name": "TECNO SPARK 10",
+   "model": "TECNO KI5q"
+  },
+  {
    "device": "TECNO-KI5k",
    "name": "TECNO SPARK 10C",
    "model": "TECNO KI5k"
+  },
+  {
+   "device": "TECNO-KI5m",
+   "name": "TECNO SPARK 10C",
+   "model": "TECNO KI5m"
   },
   {
    "device": "TECNO-KC2",
@@ -169519,6 +169554,11 @@
   }
  ],
  "UAUU": [
+  {
+   "device": "T30",
+   "name": "T30",
+   "model": "T30"
+  },
   {
    "device": "T60",
    "name": "T60",
@@ -197725,7 +197765,7 @@
   },
   {
    "device": "RE5860",
-   "name": "realmeGT Neo5 150W",
+   "name": "realmeGT Neo5",
    "model": "RMX3706"
   },
   {
