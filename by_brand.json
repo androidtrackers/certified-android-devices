@@ -29142,6 +29142,11 @@
    "model": "Konnect_509"
   },
   {
+   "device": "Konnect_557",
+   "name": "Konnect_557",
+   "model": "Konnect_557"
+  },
+  {
    "device": "Konnect_607",
    "name": "Konnect_607",
    "model": "Konnect_607"
@@ -29184,6 +29189,11 @@
    "device": "dl35",
    "name": "Datalogic MEMOR 10",
    "model": "MEMOR 10"
+  },
+  {
+   "device": "jta11",
+   "name": "Joya Touch 22",
+   "model": "Joya Touch 22"
   },
   {
    "device": "M1_AOSP",
@@ -40224,6 +40234,11 @@
    "device": "S3",
    "name": "S3",
    "model": "S3"
+  },
+  {
+   "device": "S30_1",
+   "name": "S30_1",
+   "model": "S30_1"
   },
   {
    "device": "S40",
@@ -141999,6 +142014,11 @@
    "device": "gta4xlve",
    "name": "Galaxy Tab S6 Lite",
    "model": "SM-P619"
+  },
+  {
+   "device": "gta4xlve",
+   "name": "Galaxy Tab S6 Lite",
+   "model": "SM-P619N"
   },
   {
    "device": "gta4xlvewifi",

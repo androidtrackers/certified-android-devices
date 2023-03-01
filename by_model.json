@@ -42994,6 +42994,13 @@
    "device": "Konnect_509"
   }
  ],
+ "Konnect_557": [
+  {
+   "brand": "Danew",
+   "name": "Konnect_557",
+   "device": "Konnect_557"
+  }
+ ],
  "Konnect_607": [
   {
    "brand": "Danew",
@@ -43048,6 +43055,13 @@
    "brand": "Datalogic",
    "name": "Datalogic MEMOR 10",
    "device": "dl35"
+  }
+ ],
+ "Joya Touch 22": [
+  {
+   "brand": "Datalogic",
+   "name": "Joya Touch 22",
+   "device": "jta11"
   }
  ],
  "Memor 1": [
@@ -57677,6 +57691,13 @@
    "brand": "X-View",
    "name": "Q7",
    "device": "Q7"
+  }
+ ],
+ "S30_1": [
+  {
+   "brand": "G-Tab",
+   "name": "S30_1",
+   "device": "S30_1"
   }
  ],
  "S8K": [
@@ -188931,6 +188952,13 @@
   }
  ],
  "SM-P619": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S6 Lite",
+   "device": "gta4xlve"
+  }
+ ],
+ "SM-P619N": [
   {
    "brand": "Samsung",
    "name": "Galaxy Tab S6 Lite",

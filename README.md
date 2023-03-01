@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-02-28
+Last sync is 2023-03-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5632,6 +5632,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Danew|Konnect 602|Konnect602|Konnect602|
 |Danew|Konnect_508|Konnect_508|Konnect_508|
 |Danew|Konnect_509|Konnect_509|Konnect_509|
+|Danew|Konnect_557|Konnect_557|Konnect_557|
 |Danew|Konnect_607|Konnect_607|Konnect_607|
 |Danew|Konnect_608|Konnect_608|Konnect_608|
 |Danew|Surnaturel_R500|Surnaturel_R500|Surnaturel_R500|
@@ -5640,6 +5641,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dany|MAXX_05|MAXX_05|MAXX_05|
 |Dany|Signature-S8|Signature-S8|Signature-S8|
 |Datalogic|Datalogic MEMOR 10|dl35|MEMOR 10|
+|Datalogic|Joya Touch 22|jta11|Joya Touch 22|
 |Datalogic|MEMOR 1|M1_AOSP|Memor 1|
 |Datalogic|MEMOR 1|M1_HANDHELD|Memor 1|
 |Datalogic|MEMOR 1|M1_PISTOL|Memor 1|
@@ -7746,6 +7748,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |G-Tab|S12|S12|S12|
 |G-Tab|S20|S20|S20|
 |G-Tab|S3|S3|S3|
+|G-Tab|S30_1|S30_1|S30_1|
 |G-Tab|S40|S40|S40|
 |G-Tab|S8|S8|S8|
 |G-Tab|S8K_1|S8K_1|S8K|
@@ -27665,6 +27668,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S6 Lite|gta4xl|SM-P615N|
 |Samsung|Galaxy Tab S6 Lite|gta4xl|SM-P617|
 |Samsung|Galaxy Tab S6 Lite|gta4xlve|SM-P619|
+|Samsung|Galaxy Tab S6 Lite|gta4xlve|SM-P619N|
 |Samsung|Galaxy Tab S6 Lite|gta4xlvewifi|SM-P613|
 |Samsung|Galaxy Tab S6 Lite|gta4xlwifi|SM-P610|
 |Samsung|Galaxy Tab S6 Lite|gta4xlwifi|SM-P610X|
