@@ -19997,6 +19997,13 @@
    "model": "ASG 4K TV"
   }
  ],
+ "E Series": [
+  {
+   "brand": "Asanzo",
+   "device": "umeda",
+   "model": "E Series"
+  }
+ ],
  "EX Series": [
   {
    "brand": "Asanzo",
@@ -20243,6 +20250,13 @@
    "brand": "Aspera",
    "device": "AS7",
    "model": "AS7"
+  }
+ ],
+ "AS9": [
+  {
+   "brand": "Aspera",
+   "device": "AS9",
+   "model": "AS9"
   }
  ],
  "ASPERA R9": [
@@ -25039,6 +25053,13 @@
    "brand": "BGH S.A.",
    "device": "BGH_Joy_303",
    "model": "BGH Joy 303"
+  }
+ ],
+ "BGH Smart TV": [
+  {
+   "brand": "BGH S.A.",
+   "device": "sunnyvale",
+   "model": "BGH Smart TV"
   }
  ],
  "fushan_BGH": [
@@ -98310,6 +98331,13 @@
    "model": "G8060"
   }
  ],
+ "IRIS 2K SmartTV": [
+  {
+   "brand": "Iris",
+   "device": "umeda",
+   "model": "IRIS 2K SmartTV"
+  }
+ ],
  "IRIS 4K Android TV": [
   {
    "brand": "Iris",
@@ -98587,6 +98615,11 @@
    "brand": "Itel",
    "device": "itel-W5006X",
    "model": "itel W5006X"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP56F5",
+   "model": "CPH2477"
   }
  ],
  "A22 Pro": [
@@ -105721,6 +105754,11 @@
    "brand": "Kurio",
    "device": "U3A_7_WIFI_Refresh_KD",
    "model": "9309S"
+  },
+  {
+   "brand": "Kurio",
+   "device": "U3A_7_WIFI_Refresh_KD",
+   "model": "9309S2_EEA"
   },
   {
    "brand": "Kurio",
@@ -113823,6 +113861,13 @@
    "brand": "LLA",
    "device": "vip6102w",
    "model": "VIP6102W"
+  }
+ ],
+ "LLOYD 2K SMART TV": [
+  {
+   "brand": "LLOYD",
+   "device": "umeda",
+   "model": "LLOYD 2K SMART TV"
   }
  ],
  "LLOYD 4K SMART TV": [
@@ -142055,6 +142100,13 @@
    "model": "AI PONT"
   }
  ],
+ "NS 2K SmartTV": [
+  {
+   "brand": "NobleSkiodo",
+   "device": "sunnyvale",
+   "model": "NS 2K SmartTV"
+  }
+ ],
  "Go Action": [
   {
    "brand": "Noblex",
@@ -143961,6 +144013,13 @@
    "model": "OK 4K Android TV"
   }
  ],
+ "ok 2K TV": [
+  {
+   "brand": "OK (Mediamark)",
+   "device": "umeda",
+   "model": "ok 2K TV"
+  }
+ ],
  "Okapi Rambo": [
   {
    "brand": "OKAPI",
@@ -145612,6 +145671,13 @@
    "brand": "Oppo",
    "device": "A1603",
    "model": "A1603"
+  }
+ ],
+ "A17k": [
+  {
+   "brand": "Oppo",
+   "device": "OP56F5",
+   "model": "CPH2471"
   }
  ],
  "A1k": [
@@ -151021,6 +151087,13 @@
    "model": "OrderGo5"
   }
  ],
+ "PrismPlus 2KA": [
+  {
+   "brand": "PRISMPLUS",
+   "device": "umeda",
+   "model": "PrismPlus 2KA"
+  }
+ ],
  "PrismPlus 4K Android TV": [
   {
    "brand": "PRISMPLUS",
@@ -153701,6 +153774,13 @@
    "brand": "Perseo TV",
    "device": "DV8219",
    "model": "Perseo TV Home 2nd Generation Ranger"
+  }
+ ],
+ "Britania Smart TV": [
+  {
+   "brand": "Philco",
+   "device": "sunnyvale",
+   "model": "Britania Smart TV"
   }
  ],
  "HIT P10a": [
@@ -169051,6 +169131,27 @@
    "brand": "SWTV",
    "device": "SW6H",
    "model": "SWTV-22AE"
+  }
+ ],
+ "SWTV-22AE-FHD": [
+  {
+   "brand": "SWTV",
+   "device": "umeda",
+   "model": "SWTV-22AE-FHD"
+  }
+ ],
+ "SWTV-22NA-FHD": [
+  {
+   "brand": "SWTV",
+   "device": "umeda",
+   "model": "SWTV-22NA-FHD"
+  }
+ ],
+ "SWTV-22SA-FHD": [
+  {
+   "brand": "SWTV",
+   "device": "umeda",
+   "model": "SWTV-22SA-FHD"
   }
  ],
  "South America": [
@@ -196363,6 +196464,11 @@
   {
    "brand": "Sunmi",
    "device": "V2s",
+   "model": "V2s_GL"
+  },
+  {
+   "brand": "Sunmi",
+   "device": "V2s",
    "model": "V2s_TR"
   }
  ],
@@ -198412,6 +198518,18 @@
    "brand": "TCT (Alcatel)",
    "device": "Levin",
    "model": "T771K"
+  }
+ ],
+ "TCL 40 SE": [
+  {
+   "brand": "TCL",
+   "device": "Model_3",
+   "model": "T610E"
+  },
+  {
+   "brand": "TCL",
+   "device": "Model_3",
+   "model": "T610K"
   }
  ],
  "TCL A3X": [
@@ -211485,6 +211603,13 @@
    "model": "Tesla 4K Android TV"
   }
  ],
+ "TESLA 2K SMART TV": [
+  {
+   "brand": "Tesla",
+   "device": "umeda",
+   "model": "TESLA 2K SMART TV"
+  }
+ ],
  "TESLA 4K SMART TV": [
   {
    "brand": "Tesla",
@@ -211686,6 +211811,13 @@
    "brand": "Thomson",
    "device": "AMLMY8306P",
    "model": "PRIMO8"
+  }
+ ],
+ "SPPL 2K GSmartTV": [
+  {
+   "brand": "Thomson",
+   "device": "umeda",
+   "model": "SPPL 2K GSmartTV"
   }
  ],
  "SPPL 4K GSmartTV": [
@@ -230693,6 +230825,13 @@
    "brand": "Yasin",
    "device": "komagome",
    "model": "YASIN 2K Android TV"
+  }
+ ],
+ "YASIN 2K G Smart TV": [
+  {
+   "brand": "Yasin",
+   "device": "umeda",
+   "model": "YASIN 2K G Smart TV"
   }
  ],
  "YASIN 2K TV": [

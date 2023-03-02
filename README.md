@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-03-01
+Last sync is 2023-03-02
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1677,6 +1677,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asanzo|ASANZO 2K TV|shibuya|ASANZO 2K TV|
 |Asanzo|ASANZO A2|ASANZO_A2|ASANZO A2|
 |Asanzo|Asanzo|SW4H|ASG 4K TV|
+|Asanzo|E Series|umeda|E Series|
 |Asanzo|EX Series|SW6H|EX Series|
 |Asanzo|S3 Plus|ASANZO_S3_PLUS|ASANZO_S3_PLUS|
 |Asanzo|S6|S6|S6|
@@ -1704,6 +1705,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aspera|A4G|A4G|A4G|
 |Aspera|AS6|AS6|AS6|
 |Aspera|AS7|AS7|AS7|
+|Aspera|AS9|AS9|AS9|
 |Aspera|ASPERA R9|R9|ASPERA_R9|
 |Aspera|Aspera Swift|Aspera_Swift|Swift|
 |Aspera|Aspera_Nitro|Aspera_Nitro|Nitro|
@@ -2394,6 +2396,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BEISTA|X108|X108|X108|
 |BEISTA|X80-EEA|X80-EEA|X80-EEA|
 |BGH S.A.|BGH Joy 303|BGH_Joy_303|BGH Joy 303|
+|BGH S.A.|BGH Smart TV|sunnyvale|BGH Smart TV|
 |BGH S.A.|fushan_BGH|hamamatsucho|Smart TV|
 |BGH S.A.|xiaoyushan-bgh|xiaoyushan|HiSmartTV A4|
 |BIOSfone|T11|T11|T11|
@@ -13453,6 +13456,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Iris|G7060|G7060|G7060|
 |Iris|G7100|G7100|G7100|
 |Iris|G8060|G8060|G8060|
+|Iris|IRIS 2K SmartTV|umeda|IRIS 2K SmartTV|
 |Iris|IRIS 4K Android TV|SW4H_FF|IRIS 4K Android TV|
 |Iris|IRIS 4K SmartTV|SW6H|IRIS 4K SmartTV|
 |Iris|IRIS 4K SmartTV FF|SW6H|IRIS 4K SmartTV FF|
@@ -14611,6 +14615,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kult|Kult Beyond|Beyond|Beyond|
 |Kunfabo|F99Pro|F99Pro|F99Pro|
 |Kurio|KURIO LITE GO NEW|U3A_7_WIFI_Refresh_KD|9309S|
+|Kurio|KURIO LITE GO NEW|U3A_7_WIFI_Refresh_KD|9309S2_EEA|
 |Kurio|KURIO LITE GO NEW|U3A_7_WIFI_Refresh_KD|9309S_EEA|
 |Kurio|Kurio Smart 2 in 1 PRO|Aquaman_10_WIFI|8391X|
 |Kurio|Kurio Smart 2 in 1 PRO|Aquaman_10_WIFI|8391X_EEA|
@@ -16164,6 +16169,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LLA|VIP6102W-LLA|vip6102w|VIP6102W|
 |LLOYD|Android TV|R1|ATV R1|
 |LLOYD|Android TV|R2|ATV R2|
+|LLOYD|LLOYD 2K SMART TV|umeda|LLOYD 2K SMART TV|
 |LLOYD|LLOYD 4K SMART TV|SW6H|LLOYD 4K SMART TV|
 |LLOYD|R3|R3|R3|
 |LNMBBS|H11-EEA|H11-EEA|H11-EEA|
@@ -20857,6 +20863,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nobis|NB7850S|NB7850S|NB7850S|
 |NobleSkiodo|32VRCHG5SP|ikebukuro|AI PONT|
 |NobleSkiodo|43UDVRCHG7H|samseong|AI PONT|
+|NobleSkiodo|NS 2K SmartTV|sunnyvale|NS 2K SmartTV|
 |Noblex|A50|A50UNS|A50UNS|
 |Noblex|A60|A60UNS|A60UNS|
 |Noblex|Go Action|N551|N551|
@@ -21183,6 +21190,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OK (Mediamark)|Smart TV|redwood|AI PONT DE|
 |OK (Mediamark)|Smart TV|samseong|AI PONT|
 |OK (Mediamark)|eu|yeongdeungpo|OK 4K Android TV|
+|OK (Mediamark)|ok 2K TV|umeda|ok 2K TV|
 |OKAPI|Okapi Rambo|Okapi_Rambo|Okapi Rambo|
 |OKAPI|Okapi stone|Okapi_stone|Okapi stone|
 |OKAPI|Okapi10|Okapi10|Okapi10|
@@ -21484,6 +21492,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A1601|A1601|A1601fw|
 |Oppo|A1601fw|A1601|A1601fw|
 |Oppo|A1603|A1603|A1603|
+|Oppo|A17|OP56F5|CPH2477|
+|Oppo|A17k|OP56F5|CPH2471|
 |Oppo|A1k|OP486C|CPH1923|
 |Oppo|A3|CPH1837|CPH1837|
 |Oppo|A31|A31t|A31|
@@ -22361,6 +22371,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POPTEL|V9|V9|V9|
 |PORTFOLIO|P9001|P9001|P9001|
 |POSSAFE|OrderGo5_EEA|OrderGo5|OrderGo5|
+|PRISMPLUS|PrismPlus 2KA|umeda|PrismPlus 2KA|
 |PRISMPLUS|PrismPlus 4K Android TV|SW4H|PrismPlus 4K Android TV|
 |PRISMPLUS|PrismPlus 4K Pro Android TV|SW4H_FF|PrismPlus 4K Pro Android TV|
 |PRISMPLUS|PrismPlus 4KA|SW6H|PrismPlus 4KA|
@@ -22788,6 +22799,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Performance|T9|T9|T9|
 |Perseo TV|Perseo TV Home 2nd Generation Ranger|DV8219|Perseo TV Home 2nd Generation Ranger|
 |Philco|Android TV|ikebukuro|AI PONT|
+|Philco|Britania Smart TV|sunnyvale|Britania Smart TV|
 |Philco|HIT P10a|HIT_P10a|HIT P10a|
 |Philco|HIT_P8|HIT_P8|HIT P8|
 |Philco|Hit Max|Hit_Max|Hit Max|
@@ -25220,6 +25232,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SWTV|SWTV-21AE|sunnyvale|SWTV-21AE|
 |SWTV|SWTV-21SA|sunnyvale|SWTV-21SA|
 |SWTV|SWTV-22AE|SW6H|SWTV-22AE|
+|SWTV|SWTV-22AE-FHD|umeda|SWTV-22AE-FHD|
+|SWTV|SWTV-22NA-FHD|umeda|SWTV-22NA-FHD|
+|SWTV|SWTV-22SA-FHD|umeda|SWTV-22SA-FHD|
 |SWTV|South America|SW3_ATV|SWTV|
 |SWTV|TV|SW3H_ATV|SWTV|
 |SWTV|Taiwan|SW3H_ATV|SWTV|
@@ -30052,6 +30067,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sunmi|Sunmi L2Ks|SUNMI-L2KsNFC|L2Ks_RU|
 |Sunmi|Sunmi L2Ks|SUNMI-L2KsNFC|L2Ks_TR|
 |Sunmi|Sunmi V2s|V2s|V2s_EEA|
+|Sunmi|Sunmi V2s|V2s|V2s_GL|
 |Sunmi|Sunmi V2s|V2s|V2s_TR|
 |Sunmi|V2sNC|V2sNC|V2sNC_EEA|
 |Sunmi|V2sNC|V2sNC|V2sNC_GL|
@@ -30389,6 +30405,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 306|Cruze_Lite_S|6102H|
 |TCL|TCL 30E|Cruze|6127I|
 |TCL|TCL 40 R 5G|Levin|T771H|
+|TCL|TCL 40 SE|Model_3|T610E|
+|TCL|TCL 40 SE|Model_3|T610K|
 |TCL|TCL A3X|Delhi_TF|A600DL|
 |TCL|TCL C5|A3A|5152D|
 |TCL|TCL C5|Gauss|5153A|
@@ -32711,6 +32729,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tesla|Smartphone 3.4|Tesla_SP3_4|Tesla_SP3_4|
 |Tesla|Smartphone 6.4 Lite|Tesla_SP6_4_Lite|Tesla_SP6_4_Lite|
 |Tesla|South American|patrick|Tesla 4K Android TV|
+|Tesla|TESLA 2K SMART TV|umeda|TESLA 2K SMART TV|
 |Tesla|TESLA 4K SMART TV|SW6H|TESLA 4K SMART TV|
 |Tesla|TESLA 4K SMART TV FF|SW6H|TESLA 4K SMART TV FF|
 |Tesla|Tablet_L7_1|Tablet_L7_1|Tesla L7.1|
@@ -32746,6 +32765,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Thomson|PRIMO8 Tablet|AMLMY8306P|PRIMO8|
 |Thomson|R3|R3|R3|
 |Thomson|R4|R4|R4|
+|Thomson|SPPL 2K GSmartTV|umeda|SPPL 2K GSmartTV|
 |Thomson|SPPL 4K GSmartTV|SW6H|SPPL 4K GSmartTV|
 |Thomson|SPPL 4K GSmartTV FF|SW6H|SPPL 4K GSmartTV FF|
 |Thomson|Smart TV|redwood|AI PONT|
@@ -35873,6 +35893,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Yandex|Amber|Amber|YNDX-000SB|
 |Yandex|YNDX-000SB|Amber|YNDX-000SB|
 |Yasin|YASIN|komagome|YASIN 2K Android TV|
+|Yasin|YASIN 2K G Smart TV|umeda|YASIN 2K G Smart TV|
 |Yasin|YASIN 2K TV|shinagawa|YASIN 2K TV|
 |Yasin|YASIN 4K G Smart TV|SW6H|YASIN 4K G Smart TV|
 |Yasin|Yasin|bangbae|YASIN 4K Android TV|

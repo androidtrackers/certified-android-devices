@@ -8656,6 +8656,11 @@
    "model": "ADMIRAL TV"
   },
   {
+   "brand": "BGH S.A.",
+   "name": "BGH Smart TV",
+   "model": "BGH Smart TV"
+  },
+  {
    "brand": "COEX",
    "name": "COEX 2K Smart TV",
    "model": "COEX 2K Smart TV"
@@ -8686,6 +8691,11 @@
    "model": "MONDIAL Smart TV"
   },
   {
+   "brand": "NobleSkiodo",
+   "name": "NS 2K SmartTV",
+   "model": "NS 2K SmartTV"
+  },
+  {
    "brand": "Noblex",
    "name": "NOBLEX Smart TV",
    "model": "NOBLEX Smart TV"
@@ -8694,6 +8704,11 @@
    "brand": "PRISMPLUS",
    "name": "PrismPlus Android TV",
    "model": "PrismPlus Android TV"
+  },
+  {
+   "brand": "Philco",
+   "name": "Britania Smart TV",
+   "model": "Britania Smart TV"
   },
   {
    "brand": "Philco",
@@ -17580,6 +17595,63 @@
    "model": "ASANZO A2"
   }
  ],
+ "umeda": [
+  {
+   "brand": "Asanzo",
+   "name": "E Series",
+   "model": "E Series"
+  },
+  {
+   "brand": "Iris",
+   "name": "IRIS 2K SmartTV",
+   "model": "IRIS 2K SmartTV"
+  },
+  {
+   "brand": "LLOYD",
+   "name": "LLOYD 2K SMART TV",
+   "model": "LLOYD 2K SMART TV"
+  },
+  {
+   "brand": "OK (Mediamark)",
+   "name": "ok 2K TV",
+   "model": "ok 2K TV"
+  },
+  {
+   "brand": "PRISMPLUS",
+   "name": "PrismPlus 2KA",
+   "model": "PrismPlus 2KA"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-22AE-FHD",
+   "model": "SWTV-22AE-FHD"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-22NA-FHD",
+   "model": "SWTV-22NA-FHD"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-22SA-FHD",
+   "model": "SWTV-22SA-FHD"
+  },
+  {
+   "brand": "Tesla",
+   "name": "TESLA 2K SMART TV",
+   "model": "TESLA 2K SMART TV"
+  },
+  {
+   "brand": "Thomson",
+   "name": "SPPL 2K GSmartTV",
+   "model": "SPPL 2K GSmartTV"
+  },
+  {
+   "brand": "Yasin",
+   "name": "YASIN 2K G Smart TV",
+   "model": "YASIN 2K G Smart TV"
+  }
+ ],
  "SW6H": [
   {
    "brand": "Asanzo",
@@ -17939,6 +18011,13 @@
    "brand": "Aspera",
    "name": "AS7",
    "model": "AS7"
+  }
+ ],
+ "AS9": [
+  {
+   "brand": "Aspera",
+   "name": "AS9",
+   "model": "AS9"
   }
  ],
  "R9": [
@@ -102277,6 +102356,11 @@
   {
    "brand": "Kurio",
    "name": "KURIO LITE GO NEW",
+   "model": "9309S2_EEA"
+  },
+  {
+   "brand": "Kurio",
+   "name": "KURIO LITE GO NEW",
    "model": "9309S_EEA"
   }
  ],
@@ -113625,6 +113709,11 @@
    "brand": "Sunmi",
    "name": "Sunmi V2s",
    "model": "V2s_EEA"
+  },
+  {
+   "brand": "Sunmi",
+   "name": "Sunmi V2s",
+   "model": "V2s_GL"
   },
   {
    "brand": "Sunmi",
@@ -145360,6 +145449,18 @@
    "model": "A1603"
   }
  ],
+ "OP56F5": [
+  {
+   "brand": "Oppo",
+   "name": "A17",
+   "model": "CPH2477"
+  },
+  {
+   "brand": "Oppo",
+   "name": "A17k",
+   "model": "CPH2471"
+  }
+ ],
  "OP486C": [
   {
    "brand": "Oppo",
@@ -168030,6 +168131,16 @@
    "brand": "SUNMAX",
    "name": "Model_3",
    "model": "Model 3"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL 40 SE",
+   "model": "T610E"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL 40 SE",
+   "model": "T610K"
   }
  ],
  "Model_6": [
