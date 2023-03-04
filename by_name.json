@@ -165636,6 +165636,20 @@
    "model": "22101316C"
   }
  ],
+ "Redmi Note 12 Pro + 5G": [
+  {
+   "brand": "Redmi",
+   "device": "rubypro",
+   "model": "22101316UP"
+  }
+ ],
+ "Redmi Note 12 Pro 5G": [
+  {
+   "brand": "Redmi",
+   "device": "ruby",
+   "model": "22101316I"
+  }
+ ],
  "Redmi Note 12 Pro Speed": [
   {
    "brand": "Redmi",
@@ -230775,7 +230789,22 @@
   {
    "brand": "Xiaomi",
    "device": "diting",
+   "model": "22081212R"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "diting",
    "model": "22081212UG"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "diting",
+   "model": "22200414R"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "diting",
+   "model": "A201XM"
   }
  ],
  "Xiaomi 12X": [

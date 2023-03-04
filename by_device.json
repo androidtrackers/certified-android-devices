@@ -68124,6 +68124,11 @@
    "brand": "Redmi",
    "name": "Redmi Note 12 Pro",
    "model": "22101316C"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 12 Pro 5G",
+   "model": "22101316I"
   }
  ],
  "liberty": [
@@ -165138,6 +165143,11 @@
  "rubypro": [
   {
    "brand": "Redmi",
+   "name": "Redmi Note 12 Pro + 5G",
+   "model": "22101316UP"
+  },
+  {
+   "brand": "Redmi",
    "name": "Redmi Note 12 Pro+",
    "model": "22101316UCP"
   }
@@ -232447,7 +232457,22 @@
   {
    "brand": "Xiaomi",
    "name": "Xiaomi 12T Pro",
+   "model": "22081212R"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 12T Pro",
    "model": "22081212UG"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 12T Pro",
+   "model": "22200414R"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 12T Pro",
+   "model": "A201XM"
   }
  ],
  "psyche": [

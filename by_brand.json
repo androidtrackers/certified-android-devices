@@ -126812,6 +126812,16 @@
    "model": "22101316C"
   },
   {
+   "device": "rubypro",
+   "name": "Redmi Note 12 Pro + 5G",
+   "model": "22101316UP"
+  },
+  {
+   "device": "ruby",
+   "name": "Redmi Note 12 Pro 5G",
+   "model": "22101316I"
+  },
+  {
    "device": "redwood",
    "name": "Redmi Note 12 Pro Speed",
    "model": "22101320C"
@@ -184138,7 +184148,22 @@
   {
    "device": "diting",
    "name": "Xiaomi 12T Pro",
+   "model": "22081212R"
+  },
+  {
+   "device": "diting",
+   "name": "Xiaomi 12T Pro",
    "model": "22081212UG"
+  },
+  {
+   "device": "diting",
+   "name": "Xiaomi 12T Pro",
+   "model": "22200414R"
+  },
+  {
+   "device": "diting",
+   "name": "Xiaomi 12T Pro",
+   "model": "A201XM"
   },
   {
    "device": "psyche",

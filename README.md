@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-03-03
+Last sync is 2023-03-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -24666,6 +24666,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 12 5G|sunstone|22101317C|
 |Redmi|Redmi Note 12 DISCOVERY EDITION|rubyplus|22101316UC|
 |Redmi|Redmi Note 12 Pro|ruby|22101316C|
+|Redmi|Redmi Note 12 Pro + 5G|rubypro|22101316UP|
+|Redmi|Redmi Note 12 Pro 5G|ruby|22101316I|
 |Redmi|Redmi Note 12 Pro Speed|redwood|22101320C|
 |Redmi|Redmi Note 12 Pro+|rubypro|22101316UCP|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
@@ -35870,7 +35872,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 12S Ultra|thor|2203121C|
 |Xiaomi|Xiaomi 12T|plato|22071212AG|
 |Xiaomi|Xiaomi 12T Pro|diting|22081212C|
+|Xiaomi|Xiaomi 12T Pro|diting|22081212R|
 |Xiaomi|Xiaomi 12T Pro|diting|22081212UG|
+|Xiaomi|Xiaomi 12T Pro|diting|22200414R|
+|Xiaomi|Xiaomi 12T Pro|diting|A201XM|
 |Xiaomi|Xiaomi 12X|psyche|2112123AC|
 |Xiaomi|Xiaomi 13|fuxi|2211133C|
 |Xiaomi|Xiaomi 13 Lite|ziyi|2210129SG|

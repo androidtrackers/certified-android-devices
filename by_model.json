@@ -168570,6 +168570,20 @@
    "device": "ruby"
   }
  ],
+ "22101316UP": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 12 Pro + 5G",
+   "device": "rubypro"
+  }
+ ],
+ "22101316I": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 12 Pro 5G",
+   "device": "ruby"
+  }
+ ],
  "22101320C": [
   {
    "brand": "Redmi",
@@ -241689,7 +241703,28 @@
    "device": "diting"
   }
  ],
+ "22081212R": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 12T Pro",
+   "device": "diting"
+  }
+ ],
  "22081212UG": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 12T Pro",
+   "device": "diting"
+  }
+ ],
+ "22200414R": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 12T Pro",
+   "device": "diting"
+  }
+ ],
+ "A201XM": [
   {
    "brand": "Xiaomi",
    "name": "Xiaomi 12T Pro",
