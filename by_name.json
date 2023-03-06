@@ -7855,6 +7855,13 @@
    "model": "CPH1915"
   }
  ],
+ "P21": [
+  {
+   "brand": "AOSKEY",
+   "device": "P21",
+   "model": "P21"
+  }
+ ],
  "A21S": [
   {
    "brand": "AOYODKG",
@@ -36251,6 +36258,13 @@
    "model": "M8047IU"
   }
  ],
+ "Britania Smart TV": [
+  {
+   "brand": "Britania",
+   "device": "sunnyvale",
+   "model": "Britania Smart TV"
+  }
+ ],
  "BT Home SmartPhone III": [
   {
    "brand": "British Telecom",
@@ -39036,18 +39050,6 @@
    "model": "B15Q"
   }
  ],
- "BM1S1B": [
-  {
-   "brand": "Cat",
-   "device": "BM1S1B",
-   "model": "Cat S75"
-  },
-  {
-   "brand": "Cat",
-   "device": "BM1S1B",
-   "model": "S75"
-  }
- ],
  "Cat S22 FLIP": [
   {
    "brand": "Cat",
@@ -39121,6 +39123,18 @@
    "brand": "Cat",
    "device": "S62Pro",
    "model": "S62 Pro"
+  }
+ ],
+ "Cat S75": [
+  {
+   "brand": "Cat",
+   "device": "BM1S1B",
+   "model": "Cat S75"
+  },
+  {
+   "brand": "Cat",
+   "device": "BM1S1B",
+   "model": "S75"
   }
  ],
  "CatS50c": [
@@ -154239,13 +154253,6 @@
    "brand": "Perseo TV",
    "device": "DV8219",
    "model": "Perseo TV Home 2nd Generation Ranger"
-  }
- ],
- "Britania Smart TV": [
-  {
-   "brand": "Philco",
-   "device": "sunnyvale",
-   "model": "Britania Smart TV"
   }
  ],
  "HIT P10a": [

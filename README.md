@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-03-05
+Last sync is 2023-03-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -167,6 +167,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AOC|Q10107LW-ME|Q10107LW-ME|Q10107LW-ME|
 |AOC|Q8108L-ME|Q8108L-ME|Q8108L-ME|
 |AOSKEY|F11|F11|F11|
+|AOSKEY|P21|P21|P21|
 |AOYODKG|A21S|A21S|A21S|
 |AOYODKG|A21S_US|A21S|A21S|
 |AOYODKG|A7|A7|A7|
@@ -3839,6 +3840,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Brightside|KS_T01|KS_T01|KS_T01|
 |Brightstar|C8|C8|C8|
 |Brightstar|M8046IU|M8047IU|M8047IU|
+|Britania|Britania Smart TV|sunnyvale|Britania Smart TV|
 |British Telecom|BT Home SmartPhone III|BT_Home_SmartPhone_III|E81|
 |British Telecom|HomeSmartphone d800|d800|BT Home SmartPhone S II|
 |Brondi|620SZ|G223_JH|Brondi 620 SZ|
@@ -4200,8 +4202,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cat|B15|TOUGH|B15|
 |Cat|B15Q|B15Q|B15Q|
 |Cat|B15Q|CatB15Q|B15Q|
-|Cat|BM1S1B|BM1S1B|Cat S75|
-|Cat|BM1S1B|BM1S1B|S75|
 |Cat|Cat S22 FLIP|S22FLIP|S22 FLIP|
 |Cat|Cat S31|CatS31|S31|
 |Cat|Cat S41|CatS41|S41|
@@ -4213,6 +4213,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cat|Cat S61B|CatS61|S61B|
 |Cat|Cat S62|S62|S62|
 |Cat|Cat S62 Pro|S62Pro|S62 Pro|
+|Cat|Cat S75|BM1S1B|Cat S75|
+|Cat|Cat S75|BM1S1B|S75|
 |Cat|CatS50c|CatS50c|S50c|
 |Cat|S30|CatS30|S30|
 |Cat|S40|CatS40|S40|
@@ -22868,7 +22870,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Performance|T9|T9|T9|
 |Perseo TV|Perseo TV Home 2nd Generation Ranger|DV8219|Perseo TV Home 2nd Generation Ranger|
 |Philco|Android TV|ikebukuro|AI PONT|
-|Philco|Britania Smart TV|sunnyvale|Britania Smart TV|
 |Philco|HIT P10a|HIT_P10a|HIT P10a|
 |Philco|HIT_P8|HIT_P8|HIT P8|
 |Philco|Hit Max|Hit_Max|Hit Max|

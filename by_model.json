@@ -2380,6 +2380,13 @@
    "device": "F11"
   }
  ],
+ "P21": [
+  {
+   "brand": "AOSKEY",
+   "name": "P21",
+   "device": "P21"
+  }
+ ],
  "A21S": [
   {
    "brand": "AOYODKG",
@@ -30097,6 +30104,13 @@
    "device": "M8047IU"
   }
  ],
+ "Britania Smart TV": [
+  {
+   "brand": "Britania",
+   "name": "Britania Smart TV",
+   "device": "sunnyvale"
+  }
+ ],
  "E81": [
   {
    "brand": "British Telecom",
@@ -32715,25 +32729,6 @@
    "device": "CatB15Q"
   }
  ],
- "Cat S75": [
-  {
-   "brand": "Cat",
-   "name": "BM1S1B",
-   "device": "BM1S1B"
-  }
- ],
- "S75": [
-  {
-   "brand": "Cat",
-   "name": "BM1S1B",
-   "device": "BM1S1B"
-  },
-  {
-   "brand": "Premio",
-   "name": "S75",
-   "device": "S75"
-  }
- ],
  "S22 FLIP": [
   {
    "brand": "Cat",
@@ -32779,6 +32774,25 @@
    "brand": "Cat",
    "name": "S62Pro",
    "device": "S62Pro"
+  }
+ ],
+ "Cat S75": [
+  {
+   "brand": "Cat",
+   "name": "Cat S75",
+   "device": "BM1S1B"
+  }
+ ],
+ "S75": [
+  {
+   "brand": "Cat",
+   "name": "Cat S75",
+   "device": "BM1S1B"
+  },
+  {
+   "brand": "Premio",
+   "name": "S75",
+   "device": "S75"
   }
  ],
  "S50c": [
@@ -156813,13 +156827,6 @@
    "brand": "Perseo TV",
    "name": "Perseo TV Home 2nd Generation Ranger",
    "device": "DV8219"
-  }
- ],
- "Britania Smart TV": [
-  {
-   "brand": "Philco",
-   "name": "Britania Smart TV",
-   "device": "sunnyvale"
   }
  ],
  "HIT P10a": [

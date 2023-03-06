@@ -3786,6 +3786,13 @@
    "model": "F11"
   }
  ],
+ "P21": [
+  {
+   "brand": "AOSKEY",
+   "name": "P21",
+   "model": "P21"
+  }
+ ],
  "A21S": [
   {
    "brand": "AOYODKG",
@@ -8685,6 +8692,11 @@
    "model": "BGH Smart TV"
   },
   {
+   "brand": "Britania",
+   "name": "Britania Smart TV",
+   "model": "Britania Smart TV"
+  },
+  {
    "brand": "COEX",
    "name": "COEX 2K Smart TV",
    "model": "COEX 2K Smart TV"
@@ -8728,11 +8740,6 @@
    "brand": "PRISMPLUS",
    "name": "PrismPlus Android TV",
    "model": "PrismPlus Android TV"
-  },
-  {
-   "brand": "Philco",
-   "name": "Britania Smart TV",
-   "model": "Britania Smart TV"
   },
   {
    "brand": "Philco",
@@ -35604,18 +35611,6 @@
    "model": "B15Q"
   }
  ],
- "BM1S1B": [
-  {
-   "brand": "Cat",
-   "name": "BM1S1B",
-   "model": "Cat S75"
-  },
-  {
-   "brand": "Cat",
-   "name": "BM1S1B",
-   "model": "S75"
-  }
- ],
  "S22FLIP": [
   {
    "brand": "Cat",
@@ -35680,6 +35675,18 @@
    "brand": "Cat",
    "name": "S62Pro",
    "model": "S62 Pro"
+  }
+ ],
+ "BM1S1B": [
+  {
+   "brand": "Cat",
+   "name": "Cat S75",
+   "model": "Cat S75"
+  },
+  {
+   "brand": "Cat",
+   "name": "Cat S75",
+   "model": "S75"
   }
  ],
  "CatS50c": [
