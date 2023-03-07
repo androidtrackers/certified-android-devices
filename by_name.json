@@ -117661,6 +117661,13 @@
    "model": "SEP011037"
   }
  ],
+ "Lume Pad": [
+  {
+   "brand": "LeiaInc",
+   "device": "LumePad",
+   "model": "LPD-20W"
+  }
+ ],
  "Lenovo Tab K8": [
   {
    "brand": "Lenco",
@@ -170525,6 +170532,11 @@
   },
   {
    "brand": "Samsung",
+   "device": "a14",
+   "model": "SM-A145M"
+  },
+  {
+   "brand": "Samsung",
    "device": "a14m",
    "model": "SM-A145P"
   },
@@ -173527,6 +173539,13 @@
    "model": "SM-E135F"
   }
  ],
+ "Galaxy F14 5G": [
+  {
+   "brand": "Samsung",
+   "device": "m14x",
+   "model": "SM-E146B"
+  }
+ ],
  "Galaxy F22": [
   {
    "brand": "Samsung",
@@ -175772,6 +175791,13 @@
    "brand": "Samsung",
    "device": "a13x",
    "model": "SM-M136B"
+  }
+ ],
+ "Galaxy M14 5G": [
+  {
+   "brand": "Samsung",
+   "device": "m14x",
+   "model": "SM-M146B"
   }
  ],
  "Galaxy M20": [

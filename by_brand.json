@@ -86024,6 +86024,13 @@
    "model": "SEP011037"
   }
  ],
+ "LeiaInc": [
+  {
+   "device": "LumePad",
+   "name": "Lume Pad",
+   "model": "LPD-20W"
+  }
+ ],
  "Lenco": [
   {
    "device": "TB-8506N",
@@ -131200,6 +131207,11 @@
    "model": "SM-A145FB"
   },
   {
+   "device": "a14",
+   "name": "Galaxy A14",
+   "model": "SM-A145M"
+  },
+  {
    "device": "a14m",
    "name": "Galaxy A14",
    "model": "SM-A145P"
@@ -133980,6 +133992,11 @@
    "model": "SM-E135F"
   },
   {
+   "device": "m14x",
+   "name": "Galaxy F14 5G",
+   "model": "SM-E146B"
+  },
+  {
    "device": "f22",
    "name": "Galaxy F22",
    "model": "SM-E225F"
@@ -136003,6 +136020,11 @@
    "device": "a13x",
    "name": "Galaxy M13 5G",
    "model": "SM-M136B"
+  },
+  {
+   "device": "m14x",
+   "name": "Galaxy M14 5G",
+   "model": "SM-M146B"
   },
   {
    "device": "m20",

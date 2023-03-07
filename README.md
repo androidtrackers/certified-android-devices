@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-03-06
+Last sync is 2023-03-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -16726,6 +16726,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Leeco|LeoPro3|le_zl1|LEX725|
 |Leeco|"X Serials(X43 Pro|X55|X65)"|
 |LegendComfortable|SEP011037|SEP011037|SEP011037|
+|LeiaInc|Lume Pad|LumePad|LPD-20W|
 |Lenco|Lenovo Tab K8|TB-8506N|Lenovo TB-8506N|
 |Lenovo||18382AU|ThinkPad Tablet|
 |Lenovo||A1_07|A1_07|
@@ -25500,6 +25501,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A13 5G|a13x|SM-S136DL|
 |Samsung|Galaxy A14|a14|SM-A145F|
 |Samsung|Galaxy A14|a14|SM-A145FB|
+|Samsung|Galaxy A14|a14|SM-A145M|
 |Samsung|Galaxy A14|a14m|SM-A145P|
 |Samsung|Galaxy A14|a14m|SM-A145R|
 |Samsung|Galaxy A14 5G|a14x|SM-A146B|
@@ -26056,6 +26058,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy F02s|a02q|SM-E025F|
 |Samsung|Galaxy F12|f12|SM-F127G|
 |Samsung|Galaxy F13|m13|SM-E135F|
+|Samsung|Galaxy F14 5G|m14x|SM-E146B|
 |Samsung|Galaxy F22|f22|SM-E225F|
 |Samsung|Galaxy F23 5G|m23xq|SM-E236B|
 |Samsung|Galaxy F41|f41|SM-F415F|
@@ -26461,6 +26464,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M13|m13|SM-M135FU|
 |Samsung|Galaxy M13|m13|SM-M135M|
 |Samsung|Galaxy M13 5G|a13x|SM-M136B|
+|Samsung|Galaxy M14 5G|m14x|SM-M146B|
 |Samsung|Galaxy M20|m20|SM-M205N|
 |Samsung|Galaxy M20|m20lte|SM-M205F|
 |Samsung|Galaxy M20|m20lte|SM-M205FN|

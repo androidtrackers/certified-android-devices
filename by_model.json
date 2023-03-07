@@ -117244,6 +117244,13 @@
    "device": "SEP011037"
   }
  ],
+ "LPD-20W": [
+  {
+   "brand": "LeiaInc",
+   "name": "Lume Pad",
+   "device": "LumePad"
+  }
+ ],
  "Lenovo TB-8506N": [
   {
    "brand": "Lenco",
@@ -173975,6 +173982,13 @@
    "device": "a14"
   }
  ],
+ "SM-A145M": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A14",
+   "device": "a14"
+  }
+ ],
  "SM-A145P": [
   {
    "brand": "Samsung",
@@ -177827,6 +177841,13 @@
    "device": "m13"
   }
  ],
+ "SM-E146B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy F14 5G",
+   "device": "m14x"
+  }
+ ],
  "SM-E225F": [
   {
    "brand": "Samsung",
@@ -180658,6 +180679,13 @@
    "brand": "Samsung",
    "name": "Galaxy M13 5G",
    "device": "a13x"
+  }
+ ],
+ "SM-M146B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M14 5G",
+   "device": "m14x"
   }
  ],
  "SM-M205N": [
