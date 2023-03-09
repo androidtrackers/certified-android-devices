@@ -14305,6 +14305,18 @@
    "model": "Z4PRO"
   }
  ],
+ "NW1495T": [
+  {
+   "brand": "Apolosign",
+   "name": "NW1495T_ROW",
+   "model": "NW1495T"
+  },
+  {
+   "brand": "Apolosign",
+   "name": "elcnw tablet",
+   "model": "NW1495T_EEA"
+  }
+ ],
  "Tab64_T2": [
   {
    "brand": "Aprix",
@@ -14766,6 +14778,23 @@
    "brand": "Aqua",
    "name": "S1 Jazz",
    "model": "S1 Jazz"
+  }
+ ],
+ "wanchai": [
+  {
+   "brand": "Arcelik",
+   "name": "Arcelik Google TV",
+   "model": "Arcelik Google TV"
+  },
+  {
+   "brand": "Beko",
+   "name": "Beko Google TV",
+   "model": "Beko Google TV"
+  },
+  {
+   "brand": "Grundig",
+   "name": "Grundig Google TV",
+   "model": "Grundig Google TV"
   }
  ],
  "arcelik_eu": [
@@ -50121,7 +50150,7 @@
  "M22": [
   {
    "brand": "Doogee",
-   "name": "S1000",
+   "name": "S100",
    "model": "S100"
   }
  ],
@@ -66309,13 +66338,6 @@
    "brand": "Grundig",
    "name": "GTB850",
    "model": "GTB 850"
-  }
- ],
- "wanchai": [
-  {
-   "brand": "Grundig",
-   "name": "Grundig Google TV",
-   "model": "Grundig Google TV"
   }
  ],
  "GTB801": [
@@ -147320,6 +147342,20 @@
    "model": "PEUM00"
   }
  ],
+ "OP56CDL1": [
+  {
+   "brand": "Oppo",
+   "name": "Find N2 Flip",
+   "model": "CPH2437"
+  }
+ ],
+ "OP5605": [
+  {
+   "brand": "Oppo",
+   "name": "Find N2 Flip 中国版",
+   "model": "PGT110"
+  }
+ ],
  "CPH1871": [
   {
    "brand": "Oppo",
@@ -190796,6 +190832,13 @@
    "brand": "Sigma Mobile",
    "name": "Tab A1020",
    "model": "Tab A1020"
+  }
+ ],
+ "Tab_A802": [
+  {
+   "brand": "Sigma Mobile",
+   "name": "Tab A802",
+   "model": "Tab A802"
   }
  ],
  "Tab_A1010_Neo": [
@@ -247424,6 +247467,13 @@
    "brand": "mytel",
    "name": "Mytel M9601",
    "model": "M9601"
+  }
+ ],
+ "N4MAX": [
+  {
+   "brand": "naomicase",
+   "name": "N4MAX",
+   "model": "N4MAX"
   }
  ],
  "NEOCORE_E2": [

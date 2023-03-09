@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-03-08
+Last sync is 2023-03-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1262,6 +1262,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Apex|U10|U10|U10|
 |Apex|U10PRO|U10PRO|U10PRO|
 |Apex|Z4PRO|Z4PRO|Z4PRO|
+|Apolosign|NW1495T_ROW|NW1495T|NW1495T|
+|Apolosign|elcnw tablet|NW1495T|NW1495T_EEA|
 |Aprix|Aprix_Tab64_T2|Tab64_T2|Tab64_T|
 |Aprix|Phat6|Aprix_Phat6|Aprix_Phat6|
 |Aprix|Phat6|Phat6|Phat6|
@@ -1281,6 +1283,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aqua|AQUA MatrixTV BE|jordan|AQUA MatrixTV BE|
 |Aqua|AQUA android TV|hanyang|AQUA Android TV|
 |Aqua|S1 Jazz|S1_Jazz|S1 Jazz|
+|Arcelik|Arcelik Google TV|wanchai|Arcelik Google TV|
 |Arcelik|B55L 9682 5AS|arcelik_eu|arcelik_uhd_powermax_at|
 |Archos||A101S|ARCHOS 101G9|
 |Archos||A101S|Archos 101 Internet Tablet|
@@ -2929,6 +2932,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Beko|Beko Android TV|kunyang|Beko Android TV|
 |Beko|Beko Android TV|shinagawa|Beko Android TV|
 |Beko|Beko Android TV|sinchon|Beko Android TV|
+|Beko|Beko Google TV|wanchai|Beko Google TV|
 |Beko|Beko UHD Android TV|kunyang|Beko Android UHD TV|
 |Bell Canada|Bell Streamer|sti6130d324|Bell Streamer|
 |Bell Canada|FibeTV|vip7802_bell|FibeTV|
@@ -6156,7 +6160,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|N40Pro|N40Pro|N40Pro|
 |Doogee|N40Pro_RU|N40Pro|N40Pro|
 |Doogee|N60Pro|1919|N60Pro|
-|Doogee|S1000|M22|S100|
+|Doogee|S100|M22|S100|
 |Doogee|S100Pro|M22H|S100Pro|
 |Doogee|S30|S30|S30|
 |Doogee|S35|S35|S35|
@@ -21785,6 +21789,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|F9|CPH1881|CPH1881|
 |Oppo|Find 5|FIND5|X909|
 |Oppo|Find N|OP4E75L1|PEUM00|
+|Oppo|Find N2 Flip|OP56CDL1|CPH2437|
+|Oppo|Find N2 Flip 中国版|OP5605|PGT110|
 |Oppo|Find X|CPH1871|CPH1871|
 |Oppo|Find X|CPH1875|CPH1875|
 |Oppo|Find X|PAFM00|PAFM00|
@@ -28798,6 +28804,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sico SmartPhone|SSR1-5-8M|GBC_bravo|sico pro|
 |Sigma Mobile|Tab A1015|TabA1015|Tab A1015|
 |Sigma Mobile|Tab A1020|TabA1020|Tab A1020|
+|Sigma Mobile|Tab A802|Tab_A802|Tab A802|
 |Sigma Mobile|Tab_A1010_Neo|Tab_A1010_Neo|Tab_A1010_Neo|
 |Sigma Mobile|X-Style S5502|X-Style_S5502|X-Style_S5502|
 |Sigma Mobile|X-Style_S5501|X-Style_S5501|X-Style_S5501|
@@ -38498,6 +38505,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |mytel|M9602|M9602|M9602|
 |mytel|Msuper|Msuper|Msuper|
 |mytel|Mytel M9601|Mytel_M9601|M9601|
+|naomicase|N4MAX|N4MAX|N4MAX|
 |neocore|NEOCORE_E2|NEOCORE_E2|NEOCORE_E2|
 |neocore|neocore_E1_2|neocore_E1_2_eea|neocore E1-2|
 |neocore|neocore_N1G1|neocore_N1G1|neocore_N1G1|

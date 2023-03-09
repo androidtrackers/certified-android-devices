@@ -17045,6 +17045,20 @@
    "model": "Z4PRO"
   }
  ],
+ "NW1495T_ROW": [
+  {
+   "brand": "Apolosign",
+   "device": "NW1495T",
+   "model": "NW1495T"
+  }
+ ],
+ "elcnw tablet": [
+  {
+   "brand": "Apolosign",
+   "device": "NW1495T",
+   "model": "NW1495T_EEA"
+  }
+ ],
  "Aprix_Tab64_T2": [
   {
    "brand": "Aprix",
@@ -17234,6 +17248,13 @@
    "brand": "Aqua",
    "device": "S1_Jazz",
    "model": "S1 Jazz"
+  }
+ ],
+ "Arcelik Google TV": [
+  {
+   "brand": "Arcelik",
+   "device": "wanchai",
+   "model": "Arcelik Google TV"
   }
  ],
  "B55L 9682 5AS": [
@@ -28953,6 +28974,13 @@
    "brand": "Beko",
    "device": "sinchon",
    "model": "Beko Android TV"
+  }
+ ],
+ "Beko Google TV": [
+  {
+   "brand": "Beko",
+   "device": "wanchai",
+   "model": "Beko Google TV"
   }
  ],
  "Beko UHD Android TV": [
@@ -53331,10 +53359,20 @@
    "model": "N60Pro"
   }
  ],
- "S1000": [
+ "S100": [
   {
    "brand": "Doogee",
    "device": "M22",
+   "model": "S100"
+  },
+  {
+   "brand": "Ipro",
+   "device": "S100",
+   "model": "S100"
+  },
+  {
+   "brand": "iGet",
+   "device": "iGET_S100",
    "model": "S100"
   }
  ],
@@ -97855,18 +97893,6 @@
    "brand": "Ipro",
    "device": "Ruby5S",
    "model": "Ruby5S"
-  }
- ],
- "S100": [
-  {
-   "brand": "Ipro",
-   "device": "S100",
-   "model": "S100"
-  },
-  {
-   "brand": "iGet",
-   "device": "iGET_S100",
-   "model": "S100"
   }
  ],
  "S100E": [
@@ -147364,6 +147390,20 @@
    "model": "PEUM00"
   }
  ],
+ "Find N2 Flip": [
+  {
+   "brand": "Oppo",
+   "device": "OP56CDL1",
+   "model": "CPH2437"
+  }
+ ],
+ "Find N2 Flip 中国版": [
+  {
+   "brand": "Oppo",
+   "device": "OP5605",
+   "model": "PGT110"
+  }
+ ],
  "Find X": [
   {
    "brand": "Oppo",
@@ -189076,6 +189116,13 @@
    "brand": "Sigma Mobile",
    "device": "TabA1020",
    "model": "Tab A1020"
+  }
+ ],
+ "Tab A802": [
+  {
+   "brand": "Sigma Mobile",
+   "device": "Tab_A802",
+   "model": "Tab A802"
   }
  ],
  "Tab_A1010_Neo": [
@@ -245283,6 +245330,13 @@
    "brand": "mytel",
    "device": "Mytel_M9601",
    "model": "M9601"
+  }
+ ],
+ "N4MAX": [
+  {
+   "brand": "naomicase",
+   "device": "N4MAX",
+   "model": "N4MAX"
   }
  ],
  "NEOCORE_E2": [

@@ -6592,6 +6592,18 @@
    "model": "Z4PRO"
   }
  ],
+ "Apolosign": [
+  {
+   "device": "NW1495T",
+   "name": "NW1495T_ROW",
+   "model": "NW1495T"
+  },
+  {
+   "device": "NW1495T",
+   "name": "elcnw tablet",
+   "model": "NW1495T_EEA"
+  }
+ ],
  "Aprix": [
   {
    "device": "Tab64_T2",
@@ -6692,6 +6704,11 @@
   }
  ],
  "Arcelik": [
+  {
+   "device": "wanchai",
+   "name": "Arcelik Google TV",
+   "model": "Arcelik Google TV"
+  },
   {
    "device": "arcelik_eu",
    "name": "B55L 9682 5AS",
@@ -15127,6 +15144,11 @@
    "device": "sinchon",
    "name": "Beko Android TV",
    "model": "Beko Android TV"
+  },
+  {
+   "device": "wanchai",
+   "name": "Beko Google TV",
+   "model": "Beko Google TV"
   },
   {
    "device": "kunyang",
@@ -31887,7 +31909,7 @@
   },
   {
    "device": "M22",
-   "name": "S1000",
+   "name": "S100",
    "model": "S100"
   },
   {
@@ -112041,6 +112063,16 @@
    "model": "PEUM00"
   },
   {
+   "device": "OP56CDL1",
+   "name": "Find N2 Flip",
+   "model": "CPH2437"
+  },
+  {
+   "device": "OP5605",
+   "name": "Find N2 Flip 中国版",
+   "model": "PGT110"
+  },
+  {
    "device": "CPH1871",
    "name": "Find X",
    "model": "CPH1871"
@@ -147770,6 +147802,11 @@
    "device": "TabA1020",
    "name": "Tab A1020",
    "model": "Tab A1020"
+  },
+  {
+   "device": "Tab_A802",
+   "name": "Tab A802",
+   "model": "Tab A802"
   },
   {
    "device": "Tab_A1010_Neo",
@@ -197608,6 +197645,13 @@
    "device": "Mytel_M9601",
    "name": "Mytel M9601",
    "model": "M9601"
+  }
+ ],
+ "naomicase": [
+  {
+   "device": "N4MAX",
+   "name": "N4MAX",
+   "model": "N4MAX"
   }
  ],
  "neocore": [
