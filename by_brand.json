@@ -73069,6 +73069,11 @@
    "model": "4K SMART TV"
   },
   {
+   "device": "zhongshan",
+   "name": "GHIA",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "stanford",
    "name": "Global",
    "model": "CSV2K"
@@ -145221,6 +145226,11 @@
    "device": "S917V9",
    "name": "S917V9",
    "model": "S917V9"
+  },
+  {
+   "device": "SD917R_Tablet",
+   "name": "SD917R",
+   "model": "SD917R"
   }
  ],
  "Senwa": [
@@ -146141,6 +146151,11 @@
    "device": "Levin",
    "name": "AQUOS V6 5G",
    "model": "SH-C05"
+  },
+  {
+   "device": "Model_3",
+   "name": "AQUOS V7 plus",
+   "model": "SH-C06"
   },
   {
    "device": "SG404SH",
@@ -167097,6 +167112,11 @@
    "model": "TECNO BE6j"
   },
   {
+   "device": "TECNO-BF6",
+   "name": "TECNO POP 7",
+   "model": "TECNO BF6"
+  },
+  {
    "device": "TECNO-L6502S",
    "name": "TECNO POP X5",
    "model": "TECNO L6502S"
@@ -167602,6 +167622,11 @@
    "device": "TECNO-Mobile-LG6n",
    "name": "POVA Neo 2",
    "model": "TECNO Mobile LG6n"
+  },
+  {
+   "device": "TECNO-Mobile-BF7n",
+   "name": "SPARK Go 2023",
+   "model": "TECNO Mobile BF7n"
   }
  ],
  "Tecnomaster": [
@@ -177168,6 +177193,11 @@
    "device": "V2217",
    "name": "Y02",
    "model": "V2217"
+  },
+  {
+   "device": "V2236",
+   "name": "Y02",
+   "model": "V2234_PK"
   },
   {
    "device": "V2236",

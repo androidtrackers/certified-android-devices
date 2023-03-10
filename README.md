@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-03-09
+Last sync is 2023-03-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14179,6 +14179,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|FASTLIFE|zhongshan|SMART TV|
 |KTCtv|GAZER|stanford|2K SMART TV|
 |KTCtv|GAZER|zhongshan|4K SMART TV|
+|KTCtv|GHIA|zhongshan|4K SMART TV|
 |KTCtv|Global|stanford|CSV2K|
 |KTCtv|Golbal|zhongshan|CSV4K|
 |KTCtv|INNOVA|stanford|CSV2K|
@@ -28293,6 +28294,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Senseit|Senseit N151|SENSEIT_N151|SENSEIT N151|
 |Senseit|Senseit_J2|Senseit|Senseit_J2|
 |Senter|S917V9|S917V9|S917V9|
+|Senter|SD917R|SD917R_Tablet|SD917R|
 |Senwa|LS5|Telcel_LS5|LS5|
 |Senwa|LS5000|Senwa_LS5000|LS5000|
 |Senwa|LS5018FP|LS5018FP|LS5018FP|
@@ -28475,6 +28477,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS U SHV37|FSP|SHV37|
 |Sharp|AQUOS V|VGO|SH-C02|
 |Sharp|AQUOS V6 5G|Levin|SH-C05|
+|Sharp|AQUOS V7 plus|Model_3|SH-C06|
 |Sharp|AQUOS Xx|SG404SH|404SH|
 |Sharp|AQUOS Xx 3|SG506SH|506SH|
 |Sharp|AQUOS Xx 304SH|SG304SH|304SH|
@@ -32583,6 +32586,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO POP 6 Go|TECNO-BE6-R2|TECNO BE6|
 |Tecno|TECNO POP 6 Go|TECNO-BE7|TECNO BE7|
 |Tecno|TECNO POP 6 Go 4G|TECNO-BE6j|TECNO BE6j|
+|Tecno|TECNO POP 7|TECNO-BF6|TECNO BF6|
 |Tecno|TECNO POP X5|TECNO-L6502S|TECNO L6502S|
 |Tecno|TECNO POVA 2|TECNO-LE7|TECNO LE7|
 |Tecno|TECNO POVA 2|TECNO-LE7n|TECNO LE7n|
@@ -32684,6 +32688,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno Mobile|CAMON 19 Neo|TECNO-Mobile-CH6i|TECNO Mobile CH6i|
 |Tecno Mobile|PHANTOM X2 5G|TECNO-Mobile-AD8|TECNO Mobile AD8|
 |Tecno Mobile|POVA Neo 2|TECNO-Mobile-LG6n|TECNO Mobile LG6n|
+|Tecno Mobile|SPARK Go 2023|TECNO-Mobile-BF7n|TECNO Mobile BF7n|
 |Tecnomaster|EDT800|EDT800|EDT800|
 |Tecnomaster|TESHM1863|TESHM1863|TESHM1863|
 |Tecnomaster|TESHM8863|TESHM8863|TESHM8863|
@@ -34514,6 +34519,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Xplay6|PD1610|vivo Xplay6|
 |Vivo|Y01A|2120|V2166|
 |Vivo|Y02|V2217|V2217|
+|Vivo|Y02|V2236|V2234_PK|
 |Vivo|Y02|V2236|V2236|
 |Vivo|Y02A|V2236|V2234|
 |Vivo|Y02s|V2204|V2203|

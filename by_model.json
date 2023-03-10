@@ -6376,6 +6376,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "GHIA",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
    "name": "KTC",
    "device": "zhongshan"
   },
@@ -193076,6 +193081,13 @@
    "device": "S917V9"
   }
  ],
+ "SD917R": [
+  {
+   "brand": "Senter",
+   "name": "SD917R",
+   "device": "SD917R_Tablet"
+  }
+ ],
  "LS5": [
   {
    "brand": "Senwa",
@@ -194347,6 +194359,13 @@
    "brand": "Sharp",
    "name": "AQUOS V6 5G",
    "device": "Levin"
+  }
+ ],
+ "SH-C06": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS V7 plus",
+   "device": "Model_3"
   }
  ],
  "404SH": [
@@ -221136,6 +221155,13 @@
    "device": "TECNO-BE6j"
   }
  ],
+ "TECNO BF6": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO POP 7",
+   "device": "TECNO-BF6"
+  }
+ ],
  "TECNO L6502S": [
   {
    "brand": "Tecno",
@@ -221816,6 +221842,13 @@
    "brand": "Tecno Mobile",
    "name": "POVA Neo 2",
    "device": "TECNO-Mobile-LG6n"
+  }
+ ],
+ "TECNO Mobile BF7n": [
+  {
+   "brand": "Tecno Mobile",
+   "name": "SPARK Go 2023",
+   "device": "TECNO-Mobile-BF7n"
   }
  ],
  "EDT800": [
@@ -233219,6 +233252,13 @@
    "brand": "Vivo",
    "name": "Y02",
    "device": "V2217"
+  }
+ ],
+ "V2234_PK": [
+  {
+   "brand": "Vivo",
+   "name": "Y02",
+   "device": "V2236"
   }
  ],
  "V2236": [

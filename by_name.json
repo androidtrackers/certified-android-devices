@@ -16113,6 +16113,11 @@
    "brand": "Ghia",
    "device": "stanford",
    "model": "SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
   }
  ],
  "GI-420": [
@@ -185831,6 +185836,13 @@
    "model": "S917V9"
   }
  ],
+ "SD917R": [
+  {
+   "brand": "Senter",
+   "device": "SD917R_Tablet",
+   "model": "SD917R"
+  }
+ ],
  "LS5": [
   {
    "brand": "Senwa",
@@ -187021,6 +187033,13 @@
    "brand": "Sharp",
    "device": "Levin",
    "model": "SH-C05"
+  }
+ ],
+ "AQUOS V7 plus": [
+  {
+   "brand": "Sharp",
+   "device": "Model_3",
+   "model": "SH-C06"
   }
  ],
  "AQUOS Xx": [
@@ -210811,6 +210830,13 @@
    "model": "TECNO BE6j"
   }
  ],
+ "TECNO POP 7": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-BF6",
+   "model": "TECNO BF6"
+  }
+ ],
  "TECNO POP X5": [
   {
    "brand": "Tecno",
@@ -211398,6 +211424,13 @@
    "brand": "Tecno Mobile",
    "device": "TECNO-Mobile-CH6i",
    "model": "TECNO Mobile CH6i"
+  }
+ ],
+ "SPARK Go 2023": [
+  {
+   "brand": "Tecno Mobile",
+   "device": "TECNO-Mobile-BF7n",
+   "model": "TECNO Mobile BF7n"
   }
  ],
  "EDT800": [
@@ -222586,6 +222619,11 @@
    "brand": "Vivo",
    "device": "V2217",
    "model": "V2217"
+  },
+  {
+   "brand": "Vivo",
+   "device": "V2236",
+   "model": "V2234_PK"
   },
   {
    "brand": "Vivo",
