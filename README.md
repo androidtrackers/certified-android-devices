@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-03-11
+Last sync is 2023-03-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -34674,6 +34674,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo 2019|1938|vivo 2019|
 |Vivo|vivo NEX A|PD1806|vivo NEX A|
 |Vivo|vivo NEX S|PD1805|vivo NEX S|
+|Vivo|vivo Pad2|DPD2221|PA2373|
 |Vivo|vivo S1|PD1831|V1831A|
 |Vivo|vivo S15 Pro|PD2207|V2207A|
 |Vivo|vivo S16|PD2244|V2244A|
