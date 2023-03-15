@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-03-14
+Last sync is 2023-03-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13005,6 +13005,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 20|Infinix-X6826C|Infinix X6826C|
 |Infinix|Infinix HOT 30i|Infinix-X669|Infinix X669|
 |Infinix|Infinix HOT 30i|Infinix-X669C|Infinix X669C|
+|Infinix|Infinix HOT 30i|Infinix-X669D|Infinix X669D|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623|
 |Infinix|Infinix HOT 6X|Infinix-X623|Infinix X623B|
 |Infinix|Infinix HOT 7|Infinix-X625C|Infinix X625C|
@@ -14866,6 +14867,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|あんしんスマホ|KY-51B|KY-51B|
 |Kyocera|おてがるスマホ01|KYV44_u2|KYV44_u2|
 |Kyocera|かんたんスマホ2+|A201KC|A201KC|
+|Kyocera|かんたんスマホ3|KY22L-SN300|A205KC|
 |Kyocera|かんたんスマホ２|A001KC|A001KC|
 |Kyowon|All&G PAD|mypad2|KA-E410W|
 |Kzen|Eva_E01|Eva_E01|Eva_E01|
@@ -37087,6 +37089,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|P650 Pro|Z6351O|P650 Pro|
 |ZTE|P651 2021|Z6355O|P651 2021|
 |ZTE|P652|P963F61|P652|
+|ZTE|P652 Pro|Z6356O|P652 Pro|
 |ZTE|P_C880S|P_P635N34|ZTE P_C880S|
 |ZTE|Preo Teknosa P1|msm8916_32|Preo Teknosa P1|
 |ZTE|Q101T|P810T10|ZTE Q101T|
@@ -37457,6 +37460,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z2020N3|Z8850K|A2020N3|
 |ZTE|Z3153V|Z3153|Z3153V|
 |ZTE|Z3351S|Z3351|Z3351S|
+|ZTE|Z3352CA|Z3352CA|Z3352CA|
 |ZTE|Z3353CA|Z3353|Z3353CA|
 |ZTE|Z353VL|oldman|Z353VL|
 |ZTE|Z40 Pro|P898A11|NX701J|
@@ -37473,6 +37477,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z6251|Z6251|Z6251|
 |ZTE|Z6251V|Z6251|Z6251V|
 |ZTE|Z6252CA|Z6252|Z6252CA|
+|ZTE|Z6356T|Z6356T|Z6356T|
 |ZTE|Z6410|Z6410|Z6410S|
 |ZTE|Z6530M|Z6530|Z6530M|
 |ZTE|Z6530V|Z6530|Z6530V|
@@ -37734,6 +37739,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A7 2020|P662F02|ZTE Blade A7 2020|
 |ZTE|ZTE Blade A7 2020|P662F02D|ZTE Blade A7 2020|
 |ZTE|ZTE Blade A7 2020|P662F02_D1|ZTE Blade A7 2020|
+|ZTE|ZTE Blade A7 2020|P662F02_D2|ZTE Blade A7 2020|
 |ZTE|ZTE Blade A7 2020RU|P662F02D|ZTE Blade A7 2020RU|
 |ZTE|ZTE Blade A7 2020RU|P662F02_D1|ZTE Blade A7 2020RU|
 |ZTE|ZTE Blade A7s|P662F02|ZTE Blade A7s|

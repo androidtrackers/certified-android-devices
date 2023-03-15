@@ -95574,6 +95574,11 @@
    "brand": "Infinix",
    "device": "Infinix-X669C",
    "model": "Infinix X669C"
+  },
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X669D",
+   "model": "Infinix X669D"
   }
  ],
  "Infinix HOT 6X": [
@@ -107429,6 +107434,13 @@
    "brand": "Kyocera",
    "device": "A201KC",
    "model": "A201KC"
+  }
+ ],
+ "かんたんスマホ3": [
+  {
+   "brand": "Kyocera",
+   "device": "KY22L-SN300",
+   "model": "A205KC"
   }
  ],
  "かんたんスマホ２": [
@@ -236809,6 +236821,13 @@
    "model": "P652"
   }
  ],
+ "P652 Pro": [
+  {
+   "brand": "ZTE",
+   "device": "Z6356O",
+   "model": "P652 Pro"
+  }
+ ],
  "P_C880S": [
   {
    "brand": "ZTE",
@@ -238826,6 +238845,13 @@
    "model": "Z3351S"
   }
  ],
+ "Z3352CA": [
+  {
+   "brand": "ZTE",
+   "device": "Z3352CA",
+   "model": "Z3352CA"
+  }
+ ],
  "Z3353CA": [
   {
    "brand": "ZTE",
@@ -238932,6 +238958,13 @@
    "brand": "ZTE",
    "device": "Z6252",
    "model": "Z6252CA"
+  }
+ ],
+ "Z6356T": [
+  {
+   "brand": "ZTE",
+   "device": "Z6356T",
+   "model": "Z6356T"
   }
  ],
  "Z6410": [
@@ -240682,6 +240715,11 @@
   {
    "brand": "ZTE",
    "device": "P662F02_D1",
+   "model": "ZTE Blade A7 2020"
+  },
+  {
+   "brand": "ZTE",
+   "device": "P662F02_D2",
    "model": "ZTE Blade A7 2020"
   }
  ],
