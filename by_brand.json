@@ -22849,6 +22849,21 @@
    "model": "Aqua_Infinity"
   },
   {
+   "device": "Aqua_Tab_S1_2023",
+   "name": "Aqua_Tab_S1_2023",
+   "model": "A1250"
+  },
+  {
+   "device": "Aqua_Tab_S2_Pro",
+   "name": "Aqua_Tab_S2_Pro",
+   "model": "Aqua_Tab_S2_Pro"
+  },
+  {
+   "device": "Aqua_Tab_Ultra",
+   "name": "Aqua_Tab_Ultra",
+   "model": "Aqua_Tab_Ultra"
+  },
+  {
    "device": "Cherry_Comet",
    "name": "Cherry Comet",
    "model": "A870"
@@ -108574,6 +108589,16 @@
    "model": "Nokia G21"
   },
   {
+   "device": "SFI",
+   "name": "Nokia G22",
+   "model": "Nokia G22"
+  },
+  {
+   "device": "SFIA",
+   "name": "Nokia G22",
+   "model": "Nokia G22"
+  },
+  {
    "device": "AKT",
    "name": "Nokia G300",
    "model": "N1374DL"
@@ -110414,6 +110439,11 @@
    "device": "OP5552L1",
    "name": "OnePlus 10T 5G",
    "model": "CPH2419"
+  },
+  {
+   "device": "OP594DL1",
+   "name": "OnePlus 11 5G",
+   "model": "CPH2449"
   },
   {
    "device": "OnePlus6",
@@ -167400,6 +167430,11 @@
    "model": "TECNO KE5"
   },
   {
+   "device": "TECNO-BF7n",
+   "name": "SPARK Go 2023",
+   "model": "TECNO BF7n"
+  },
+  {
    "device": "TECNO-BB4k",
    "name": "SPARK Go Plus",
    "model": "TECNO BB4k"
@@ -171120,6 +171155,11 @@
    "device": "Armor_2",
    "name": "Armor 2",
    "model": "Armor_2"
+  },
+  {
+   "device": "Armor_20WT",
+   "name": "Armor 20WT",
+   "model": "Armor 20WT"
   },
   {
    "device": "Armor_2S",
@@ -178128,6 +178168,11 @@
    "device": "PD2164U",
    "name": "iQOO Z6x",
    "model": "V2164KA"
+  },
+  {
+   "device": "PD2270",
+   "name": "iQOO Z7",
+   "model": "V2270A"
   },
   {
    "device": "I2207",

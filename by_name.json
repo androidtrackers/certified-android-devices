@@ -40577,6 +40577,27 @@
    "model": "Aqua_Infinity"
   }
  ],
+ "Aqua_Tab_S1_2023": [
+  {
+   "brand": "Cherry Mobile",
+   "device": "Aqua_Tab_S1_2023",
+   "model": "A1250"
+  }
+ ],
+ "Aqua_Tab_S2_Pro": [
+  {
+   "brand": "Cherry Mobile",
+   "device": "Aqua_Tab_S2_Pro",
+   "model": "Aqua_Tab_S2_Pro"
+  }
+ ],
+ "Aqua_Tab_Ultra": [
+  {
+   "brand": "Cherry Mobile",
+   "device": "Aqua_Tab_Ultra",
+   "model": "Aqua_Tab_Ultra"
+  }
+ ],
  "Cherry Comet": [
   {
    "brand": "Cherry Mobile",
@@ -143738,6 +143759,18 @@
    "model": "Nokia G21"
   }
  ],
+ "Nokia G22": [
+  {
+   "brand": "Nokia",
+   "device": "SFI",
+   "model": "Nokia G22"
+  },
+  {
+   "brand": "Nokia",
+   "device": "SFIA",
+   "model": "Nokia G22"
+  }
+ ],
  "Nokia G300": [
   {
    "brand": "Nokia",
@@ -145572,6 +145605,13 @@
    "brand": "OnePlus",
    "device": "OP5552L1",
    "model": "CPH2419"
+  }
+ ],
+ "OnePlus 11 5G": [
+  {
+   "brand": "OnePlus",
+   "device": "OP594DL1",
+   "model": "CPH2449"
   }
  ],
  "OnePlus 6": [
@@ -211211,6 +211251,18 @@
    "model": "TECNO KE5"
   }
  ],
+ "SPARK Go 2023": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-BF7n",
+   "model": "TECNO BF7n"
+  },
+  {
+   "brand": "Tecno Mobile",
+   "device": "TECNO-Mobile-BF7n",
+   "model": "TECNO Mobile BF7n"
+  }
+ ],
  "SPARK Go Plus": [
   {
    "brand": "Tecno",
@@ -212087,13 +212139,6 @@
    "brand": "Tecno Mobile",
    "device": "TECNO-Mobile-CH6i",
    "model": "TECNO Mobile CH6i"
-  }
- ],
- "SPARK Go 2023": [
-  {
-   "brand": "Tecno Mobile",
-   "device": "TECNO-Mobile-BF7n",
-   "model": "TECNO Mobile BF7n"
   }
  ],
  "EDT800": [
@@ -215412,6 +215457,13 @@
    "brand": "Ulefone",
    "device": "Armor_2",
    "model": "Armor_2"
+  }
+ ],
+ "Armor 20WT": [
+  {
+   "brand": "Ulefone",
+   "device": "Armor_20WT",
+   "model": "Armor 20WT"
   }
  ],
  "Armor 2S": [
@@ -223809,6 +223861,13 @@
    "brand": "Vivo",
    "device": "PD2164U",
    "model": "V2164KA"
+  }
+ ],
+ "iQOO Z7": [
+  {
+   "brand": "Vivo",
+   "device": "PD2270",
+   "model": "V2270A"
   }
  ],
  "iQOO Z7 5G": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-03-15
+Last sync is 2023-03-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4409,6 +4409,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cherry Mobile|Aqua Tab|Cherry_Aqua_Tab_S1|A870|
 |Cherry Mobile|Aqua Tab Deluxe|A950|A950|
 |Cherry Mobile|Aqua_Infinity|Aqua_Infinity|Aqua_Infinity|
+|Cherry Mobile|Aqua_Tab_S1_2023|Aqua_Tab_S1_2023|A1250|
+|Cherry Mobile|Aqua_Tab_S2_Pro|Aqua_Tab_S2_Pro|Aqua_Tab_S2_Pro|
+|Cherry Mobile|Aqua_Tab_Ultra|Aqua_Tab_Ultra|Aqua_Tab_Ultra|
 |Cherry Mobile|Cherry Comet|Cherry_Comet|A870|
 |Cherry Mobile|Cherry S8 Deluxe|Flare_S8_Deluxe|Flare_S8_Deluxe|
 |Cherry Mobile|Cherry W900 LTE|al7|W900 LTE|
@@ -21118,6 +21121,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia G21|SCP|Nokia G21|
 |Nokia|Nokia G21|SCPA_sprout|Nokia G21|
 |Nokia|Nokia G21|SCP_sprout|Nokia G21|
+|Nokia|Nokia G22|SFI|Nokia G22|
+|Nokia|Nokia G22|SFIA|Nokia G22|
 |Nokia|Nokia G300|AKT|N1374DL|
 |Nokia|Nokia G400 5G|STM|Nokia G400 5G|
 |Nokia|Nokia G400 5G|STO|Nokia G400 5G|
@@ -21462,6 +21467,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 10T 5G|OP5552L1|CPH2415|
 |OnePlus|OnePlus 10T 5G|OP5552L1|CPH2417|
 |OnePlus|OnePlus 10T 5G|OP5552L1|CPH2419|
+|OnePlus|OnePlus 11 5G|OP594DL1|CPH2449|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6000|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6003|
 |OnePlus|OnePlus 7|OnePlus7|GM1900|
@@ -32642,6 +32648,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|SPARK CM|TECNO-KA9|TECNO KA9|
 |Tecno|SPARK Go 2020|TECNO-KE5S|TECNO KE5S|
 |Tecno|SPARK Go 2021(SPARK 6 Go)|TECNO-KE5|TECNO KE5|
+|Tecno|SPARK Go 2023|TECNO-BF7n|TECNO BF7n|
 |Tecno|SPARK Go Plus|TECNO-BB4k|TECNO BB4k|
 |Tecno|SPARK Plus|TECNO-K9|TECNO K9|
 |Tecno|SPARK Pro|TECNO-K8|TECNO K8|
@@ -33342,6 +33349,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor 15|Armor_15|Armor 15|
 |Ulefone|Armor 17 Pro|Armor_17_Pro|Armor 17 Pro|
 |Ulefone|Armor 2|Armor_2|Armor_2|
+|Ulefone|Armor 20WT|Armor_20WT|Armor 20WT|
 |Ulefone|Armor 2S|Armor_2S|Armor_2S|
 |Ulefone|Armor 6|Armor_6|Armor_6|
 |Ulefone|Armor 7|Armor_7_Q|Armor 7|
@@ -34704,6 +34712,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Z6 Lite 5G|I2208|I2208|
 |Vivo|iQOO Z6 Pro|I2126|I2126|
 |Vivo|iQOO Z6x|PD2164U|V2164KA|
+|Vivo|iQOO Z7|PD2270|V2270A|
 |Vivo|iQOO Z7 5G|I2207|I2207|
 |Vivo|vivo  1907|1907|vivo 1907|
 |Vivo|vivo  X21i  A|PD1801|vivo X21i A|
