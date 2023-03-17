@@ -20537,9 +20537,19 @@
    "model": "C90"
   },
   {
+   "device": "MC21",
+   "name": "MC21",
+   "model": "MC21"
+  },
+  {
    "device": "MC50",
    "name": "MC50",
    "model": "MC50"
+  },
+  {
+   "device": "MC95",
+   "name": "MC95",
+   "model": "MC95"
   },
   {
    "device": "P80",
@@ -84721,6 +84731,11 @@
    "model": "X570Lite"
   },
   {
+   "device": "X7",
+   "name": "X7",
+   "model": "X7"
+  },
+  {
    "device": "X750",
    "name": "X750",
    "model": "X750"
@@ -115212,6 +115227,11 @@
    "device": "A650",
    "name": "A650",
    "model": "A650"
+  },
+  {
+   "device": "A6650",
+   "name": "A6650",
+   "model": "A6650"
   },
   {
    "device": "A77",
@@ -185990,6 +186010,11 @@
    "device": "M50",
    "name": "M50",
    "model": "M50"
+  },
+  {
+   "device": "M9200",
+   "name": "M9200",
+   "model": "M9200"
   }
  ],
  "ZONMAI": [
@@ -199425,6 +199450,13 @@
    "device": "OmnisOne",
    "name": "OmnisOne",
    "model": "Omnis One"
+  }
+ ],
+ "trueslim": [
+  {
+   "device": "5516D",
+   "name": "5516D",
+   "model": "5516D"
   }
  ],
  "truevisions": [

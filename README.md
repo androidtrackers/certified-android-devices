@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-03-16
+Last sync is 2023-03-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3977,7 +3977,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CHAINWAY|C72_GL|C72|C72|
 |CHAINWAY|C75_GL|C75|C75|
 |CHAINWAY|C90|C90|C90|
+|CHAINWAY|MC21|MC21|MC21|
 |CHAINWAY|MC50|MC50|MC50|
+|CHAINWAY|MC95|MC95|MC95|
 |CHAINWAY|P80|P80|P80|
 |CHAINWAY|P80_EEA|P80|P80|
 |CHCNAV|HCE600|HCE600|HCE600|
@@ -16469,6 +16471,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lanix|X560|X560|X560|
 |Lanix|X570|X570|X570|
 |Lanix|X570Lite|X570Lite|X570Lite|
+|Lanix|X7|X7|X7|
 |Lanix|X750|X750|X750|
 |Lanix|X770|X770|X770|
 |Lanix|X860|X860|X860|
@@ -22410,6 +22413,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PAWBO|Tab-T8|Tab-T8|Tab-T8|
 |PAX (CN)|A50|A50|A50|
 |PAX (CN)|A650|A650|A650|
+|PAX (CN)|A6650|A6650|A6650|
 |PAX (CN)|A77|A77|A77|
 |PAX (CN)|A950|A950|A950|
 |PAX (CN)|M30|PAXM30|M30|
@@ -36220,6 +36224,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZMBIZI|ZMBIZI Z2|ZMBIZI_Z2|ZMBIZI Z2|
 |ZOLON|M30|M30|M30|
 |ZOLON|M50|M50|M50|
+|ZOLON|M9200|M9200|M9200|
 |ZONMAI|MX2|MX2|MX2|
 |ZONMAI|MX2_EEA|MX2_EEA|MX2_EEA|
 |ZOOMME|M1|M1|M1|
@@ -38849,6 +38854,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |techBITE|Flix  TV  Box|DV8219|Flix TV Box|
 |techBITE|SmartBoard 10 LTE|SmartBoard_10_LTE|SmartBoard_10_LTE|
 |tecmobile|OmnisOne|OmnisOne|Omnis One|
+|trueslim|5516D|5516D|5516D|
 |truevisions|HCH03|TrueHCH03|HCH03|
 |truevisions|N9106H-B|HB_N9106H_B_truevisions|N9106H-B|
 |truevisions|N9106H-C|HB_N9106H_C_truevisions|N9106H-C|

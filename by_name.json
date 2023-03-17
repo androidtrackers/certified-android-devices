@@ -37412,11 +37412,25 @@
    "model": "C90"
   }
  ],
+ "MC21": [
+  {
+   "brand": "CHAINWAY",
+   "device": "MC21",
+   "model": "MC21"
+  }
+ ],
  "MC50": [
   {
    "brand": "CHAINWAY",
    "device": "MC50",
    "model": "MC50"
+  }
+ ],
+ "MC95": [
+  {
+   "brand": "CHAINWAY",
+   "device": "MC95",
+   "model": "MC95"
   }
  ],
  "P80": [
@@ -49593,6 +49607,11 @@
   },
   {
    "brand": "Kenxinda",
+   "device": "X7",
+   "model": "X7"
+  },
+  {
+   "brand": "Lanix",
    "device": "X7",
    "model": "X7"
   },
@@ -151423,6 +151442,13 @@
    "model": "A650"
   }
  ],
+ "A6650": [
+  {
+   "brand": "PAX (CN)",
+   "device": "A6650",
+   "model": "A6650"
+  }
+ ],
  "A950": [
   {
    "brand": "PAX (CN)",
@@ -232954,6 +232980,13 @@
    "model": "ZMBIZI Z2"
   }
  ],
+ "M9200": [
+  {
+   "brand": "ZOLON",
+   "device": "M9200",
+   "model": "M9200"
+  }
+ ],
  "MX2": [
   {
    "brand": "ZONMAI",
@@ -247365,6 +247398,13 @@
    "brand": "tecmobile",
    "device": "OmnisOne",
    "model": "Omnis One"
+  }
+ ],
+ "5516D": [
+  {
+   "brand": "trueslim",
+   "device": "5516D",
+   "model": "5516D"
   }
  ],
  "N9106H-B": [
