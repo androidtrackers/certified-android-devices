@@ -145449,7 +145449,17 @@
   {
    "brand": "OnePlus",
    "name": "OnePlus 11 5G",
+   "model": "CPH2447"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 11 5G",
    "model": "CPH2449"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 11 5G",
+   "model": "CPH2451"
   }
  ],
  "OnePlus6": [

@@ -110458,7 +110458,17 @@
   {
    "device": "OP594DL1",
    "name": "OnePlus 11 5G",
+   "model": "CPH2447"
+  },
+  {
+   "device": "OP594DL1",
+   "name": "OnePlus 11 5G",
    "model": "CPH2449"
+  },
+  {
+   "device": "OP594DL1",
+   "name": "OnePlus 11 5G",
+   "model": "CPH2451"
   },
   {
    "device": "OnePlus6",

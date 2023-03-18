@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-03-17
+Last sync is 2023-03-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -21470,7 +21470,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 10T 5G|OP5552L1|CPH2415|
 |OnePlus|OnePlus 10T 5G|OP5552L1|CPH2417|
 |OnePlus|OnePlus 10T 5G|OP5552L1|CPH2419|
+|OnePlus|OnePlus 11 5G|OP594DL1|CPH2447|
 |OnePlus|OnePlus 11 5G|OP594DL1|CPH2449|
+|OnePlus|OnePlus 11 5G|OP594DL1|CPH2451|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6000|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6003|
 |OnePlus|OnePlus 7|OnePlus7|GM1900|
