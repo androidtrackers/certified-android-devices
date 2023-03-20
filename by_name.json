@@ -7275,6 +7275,11 @@
    "model": "2K SA Smart TV"
   },
   {
+   "brand": "Mito",
+   "device": "mateo",
+   "model": "2K PA Smart TV"
+  },
+  {
    "brand": "Motorola",
    "device": "longshan",
    "model": "AI PONT"
@@ -7313,6 +7318,11 @@
    "brand": "OK (Mediamark)",
    "device": "longshan",
    "model": "AI PONT DE"
+  },
+  {
+   "brand": "OK (Mediamark)",
+   "device": "mateo",
+   "model": "2K PA Smart TV"
   },
   {
    "brand": "OK (Mediamark)",
@@ -28723,6 +28733,11 @@
   },
   {
    "brand": "Nokia",
+   "device": "pioneer",
+   "model": "4K PA Smart TV"
+  },
+  {
+   "brand": "OK (Mediamark)",
    "device": "pioneer",
    "model": "4K PA Smart TV"
   },
@@ -151459,6 +151474,13 @@
    "model": "A6650"
   }
  ],
+ "A6650_PLUS": [
+  {
+   "brand": "PAX (CN)",
+   "device": "A6650",
+   "model": "A6650"
+  }
+ ],
  "A950": [
   {
    "brand": "PAX (CN)",
@@ -246760,6 +246782,13 @@
    "model": "RMX3513"
   }
  ],
+ "realme C55": [
+  {
+   "brand": "realme",
+   "device": "REE2ADL1",
+   "model": "RMX3710"
+  }
+ ],
  "realme GT 2": [
   {
    "brand": "realme",
@@ -246897,6 +246926,13 @@
    "brand": "realme",
    "device": "RE547D",
    "model": "RMX3475"
+  }
+ ],
+ "realme V30": [
+  {
+   "brand": "realme",
+   "device": "RE584B",
+   "model": "RMX3619"
   }
  ],
  "realme V5 5G": [

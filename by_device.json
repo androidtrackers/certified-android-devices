@@ -46328,6 +46328,11 @@
    "model": "4K PA Smart TV"
   },
   {
+   "brand": "OK (Mediamark)",
+   "name": "4K Smart TV",
+   "model": "4K PA Smart TV"
+  },
+  {
    "brand": "Polytron",
    "name": "4K Smart TV",
    "model": "4K PA Smart TV"
@@ -46397,12 +46402,22 @@
    "model": "2K SA Smart TV"
   },
   {
+   "brand": "Mito",
+   "name": "Smart TV",
+   "model": "2K PA Smart TV"
+  },
+  {
    "brand": "Nano",
    "name": "Smart TV",
    "model": "2K PA Smart TV"
   },
   {
    "brand": "Nokia",
+   "name": "Smart TV",
+   "model": "2K PA Smart TV"
+  },
+  {
+   "brand": "OK (Mediamark)",
    "name": "Smart TV",
    "model": "2K PA Smart TV"
   },
@@ -151402,6 +151417,11 @@
    "brand": "PAX (CN)",
    "name": "A6650",
    "model": "A6650"
+  },
+  {
+   "brand": "PAX (CN)",
+   "name": "A6650_PLUS",
+   "model": "A6650"
   }
  ],
  "PAXM30": [
@@ -248947,6 +248967,13 @@
    "model": "RMX3513"
   }
  ],
+ "REE2ADL1": [
+  {
+   "brand": "realme",
+   "name": "realme C55",
+   "model": "RMX3710"
+  }
+ ],
  "RE58B2L1": [
   {
    "brand": "realme",
@@ -249105,6 +249132,23 @@
    "model": "RMX3478"
   }
  ],
+ "RE584B": [
+  {
+   "brand": "realme",
+   "name": "realme V30",
+   "model": "RMX3619"
+  },
+  {
+   "brand": "realme",
+   "name": "真我 V20",
+   "model": "RMX3610"
+  },
+  {
+   "brand": "realme",
+   "name": "真我 V20",
+   "model": "RMX3611"
+  }
+ ],
  "RMX2111CN": [
   {
    "brand": "realme",
@@ -249251,18 +249295,6 @@
    "brand": "realme",
    "name": "真我 Q3 Pro 5G",
    "model": "RMX2205"
-  }
- ],
- "RE584B": [
-  {
-   "brand": "realme",
-   "name": "真我 V20",
-   "model": "RMX3610"
-  },
-  {
-   "brand": "realme",
-   "name": "真我 V20",
-   "model": "RMX3611"
   }
  ],
  "RE5854": [

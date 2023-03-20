@@ -64179,6 +64179,11 @@
    "device": "pioneer"
   },
   {
+   "brand": "OK (Mediamark)",
+   "name": "4K Smart TV",
+   "device": "pioneer"
+  },
+  {
    "brand": "Polytron",
    "name": "4K Smart TV",
    "device": "pioneer"
@@ -64208,12 +64213,22 @@
    "device": "mateo"
   },
   {
+   "brand": "Mito",
+   "name": "Smart TV",
+   "device": "mateo"
+  },
+  {
    "brand": "Nano",
    "name": "Smart TV",
    "device": "mateo"
   },
   {
    "brand": "Nokia",
+   "name": "Smart TV",
+   "device": "mateo"
+  },
+  {
+   "brand": "OK (Mediamark)",
    "name": "Smart TV",
    "device": "mateo"
   },
@@ -153963,6 +153978,11 @@
   {
    "brand": "PAX (CN)",
    "name": "A6650",
+   "device": "A6650"
+  },
+  {
+   "brand": "PAX (CN)",
+   "name": "A6650_PLUS",
    "device": "A6650"
   }
  ],
@@ -259902,6 +259922,13 @@
    "device": "RE87BAL1"
   }
  ],
+ "RMX3710": [
+  {
+   "brand": "realme",
+   "name": "realme C55",
+   "device": "REE2ADL1"
+  }
+ ],
  "RMX3312": [
   {
    "brand": "realme",
@@ -260048,6 +260075,13 @@
    "brand": "realme",
    "name": "realme V25",
    "device": "RE547D"
+  }
+ ],
+ "RMX3619": [
+  {
+   "brand": "realme",
+   "name": "realme V30",
+   "device": "RE584B"
   }
  ],
  "RMX2112": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-03-19
+Last sync is 2023-03-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -19113,6 +19113,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mito|Mito_A36_W1|MITO_A36_W1|MITO_A36_W1|
 |Mito|Mito_A37_Z1|MITO_A37_Z1|MITO_A37_Z1|
 |Mito|Mito_A37_Z1|MITO_A37_Z1plus|MITO_A37_Z1plus|
+|Mito|Smart TV|mateo|2K PA Smart TV|
 |Mito|T5091A|MITO_A16|MITO A16|
 |Mito|T8|T8|T8|
 |MoT(Mobility Technologies)|S22-8A|S22-8A|S22-8A|
@@ -21309,6 +21310,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ODYS|XELIO_HD10|XELIO_HD10|XELIO_HD10|
 |ODYS|FALCON_10_PLUS_3G|FALCON_10_PLUS_3G|FALCON_10_PLUS_3G|
 |OK (Mediamark)|32770H-TAB|ikebukuro|AI PONT|
+|OK (Mediamark)|4K Smart TV|pioneer|4K PA Smart TV|
 |OK (Mediamark)|Android TV|longshan|AI PONT|
 |OK (Mediamark)|Android TV|redwood|AI PONT|
 |OK (Mediamark)|EU|tamachi|OK 2K Android TV|
@@ -21317,6 +21319,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OK (Mediamark)|OK|bangbae|OK 4K Android TV|
 |OK (Mediamark)|OK 2K TV|shinagawa|OK 2K TV|
 |OK (Mediamark)|Smart TV|longshan|AI PONT DE|
+|OK (Mediamark)|Smart TV|mateo|2K PA Smart TV|
 |OK (Mediamark)|Smart TV|osaki|2K AI Smart TV|
 |OK (Mediamark)|Smart TV|redwood|AI PONT DE|
 |OK (Mediamark)|Smart TV|samseong|AI PONT|
@@ -22416,6 +22419,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PAX (CN)|A50|A50|A50|
 |PAX (CN)|A650|A650|A650|
 |PAX (CN)|A6650|A6650|A6650|
+|PAX (CN)|A6650_PLUS|A6650|A6650|
 |PAX (CN)|A77|A77|A77|
 |PAX (CN)|A950|A950|A950|
 |PAX (CN)|M30|PAXM30|M30|
@@ -38746,6 +38750,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C35|RE87BAL1|RMX3511|
 |realme|realme C35|RE87BAL1|RMX3512|
 |realme|realme C35|RE87BAL1|RMX3513|
+|realme|realme C55|REE2ADL1|RMX3710|
 |realme|realme GT 2|RE58B2L1|RMX3312|
 |realme|realme GT 2 Pro|RED8ACL1|RMX3301|
 |realme|realme GT 5G|RMX2202L1|RMX2202|
@@ -38772,6 +38777,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme V15 5G|RMX3093CN|RMX3093|
 |realme|realme V23|RE5487|RMX3571|
 |realme|realme V25|RE547D|RMX3475|
+|realme|realme V30|RE584B|RMX3619|
 |realme|realme V5 5G|RMX2111CN|RMX2111|
 |realme|realme V5 5G|RMX2112CN|RMX2112|
 |realme|realme X3|RMX2083L1|RMX2083|

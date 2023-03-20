@@ -98279,6 +98279,11 @@
    "model": "MITO_A37_Z1plus"
   },
   {
+   "device": "mateo",
+   "name": "Smart TV",
+   "model": "2K PA Smart TV"
+  },
+  {
    "device": "MITO_A16",
    "name": "T5091A",
    "model": "MITO A16"
@@ -109575,6 +109580,11 @@
    "model": "AI PONT"
   },
   {
+   "device": "pioneer",
+   "name": "4K Smart TV",
+   "model": "4K PA Smart TV"
+  },
+  {
    "device": "longshan",
    "name": "Android TV",
    "model": "AI PONT"
@@ -109613,6 +109623,11 @@
    "device": "longshan",
    "name": "Smart TV",
    "model": "AI PONT DE"
+  },
+  {
+   "device": "mateo",
+   "name": "Smart TV",
+   "model": "2K PA Smart TV"
   },
   {
    "device": "osaki",
@@ -115241,6 +115256,11 @@
   {
    "device": "A6650",
    "name": "A6650",
+   "model": "A6650"
+  },
+  {
+   "device": "A6650",
+   "name": "A6650_PLUS",
    "model": "A6650"
   },
   {
@@ -198888,6 +198908,11 @@
    "model": "RMX3513"
   },
   {
+   "device": "REE2ADL1",
+   "name": "realme C55",
+   "model": "RMX3710"
+  },
+  {
    "device": "RE58B2L1",
    "name": "realme GT 2",
    "model": "RMX3312"
@@ -199016,6 +199041,11 @@
    "device": "RE547D",
    "name": "realme V25",
    "model": "RMX3475"
+  },
+  {
+   "device": "RE584B",
+   "name": "realme V30",
+   "model": "RMX3619"
   },
   {
    "device": "RMX2111CN",
