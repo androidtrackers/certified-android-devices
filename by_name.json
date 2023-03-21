@@ -7131,6 +7131,11 @@
   },
   {
    "brand": "Engel",
+   "device": "mateo",
+   "model": "2K PA Smart TV"
+  },
+  {
+   "brand": "Engel",
    "device": "osaki",
    "model": "2K AI Smart TV"
   },
@@ -28667,6 +28672,11 @@
    "model": "4K SA Smart TV"
   },
   {
+   "brand": "Engel",
+   "device": "pioneer",
+   "model": "4K PA Smart TV"
+  },
+  {
    "brand": "Green House",
    "device": "pioneer",
    "model": "4K SA Smart TV"
@@ -28717,9 +28727,19 @@
    "model": "4K Smart TV"
   },
   {
+   "brand": "Marcel",
+   "device": "pioneer",
+   "model": "4K PA Smart TV"
+  },
+  {
    "brand": "Master-G",
    "device": "pioneer",
    "model": "4K SA Smart TV"
+  },
+  {
+   "brand": "Mito",
+   "device": "pioneer",
+   "model": "4K PA Smart TV"
   },
   {
    "brand": "Mobell",
@@ -28800,6 +28820,11 @@
    "brand": "UNITED TV",
    "device": "gangbyeon",
    "model": "4K AI Smart TV"
+  },
+  {
+   "brand": "Walton",
+   "device": "pioneer",
+   "model": "4K PA Smart TV"
   },
   {
    "brand": "iMuz",
@@ -83823,6 +83848,13 @@
    "model": "LGE-NX9"
   }
  ],
+ "HONOR Magic5": [
+  {
+   "brand": "Honor",
+   "device": "HNPGT",
+   "model": "PGT-N09"
+  }
+ ],
  "HONOR Magic5 Lite 5G": [
   {
    "brand": "Honor",
@@ -83833,6 +83865,13 @@
    "brand": "Honor",
    "device": "HNRMO-Q",
    "model": "RMO-NX3"
+  }
+ ],
+ "HONOR Magic5 Pro": [
+  {
+   "brand": "Honor",
+   "device": "HNPGT",
+   "model": "PGT-N19"
   }
  ],
  "HONOR Pad 8": [
@@ -198911,6 +198950,13 @@
    "model": "i99"
   }
  ],
+ "innova10": [
+  {
+   "brand": "Symphony",
+   "device": "innova10",
+   "model": "innova10"
+  }
+ ],
  "roarV95": [
   {
    "brand": "Symphony",
@@ -200209,6 +200255,11 @@
    "brand": "TCL",
    "device": "U3A_7_WIFI_Refresh",
    "model": "9309X"
+  },
+  {
+   "brand": "TCL",
+   "device": "U3A_7_WIFI_Refresh",
+   "model": "9309X2"
   }
  ],
  "TCL TAB 8": [
@@ -207717,6 +207768,16 @@
   }
  ],
  "ONEtv": [
+  {
+   "brand": "TIGO",
+   "device": "uiw4054mil",
+   "model": "ONEtv"
+  },
+  {
+   "brand": "TIGO",
+   "device": "uiw4059mil",
+   "model": "ONEtv"
+  },
   {
    "brand": "TIGO",
    "device": "vip6102w",

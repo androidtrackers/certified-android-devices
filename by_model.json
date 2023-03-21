@@ -51466,11 +51466,140 @@
    "device": "SMIG_V"
   }
  ],
+ "4K PA Smart TV": [
+  {
+   "brand": "Engel",
+   "name": "4K Smart TV",
+   "device": "pioneer"
+  },
+  {
+   "brand": "HKC Elec",
+   "name": "4K Smart TV",
+   "device": "pioneer"
+  },
+  {
+   "brand": "Marcel",
+   "name": "4K Smart TV",
+   "device": "pioneer"
+  },
+  {
+   "brand": "Mito",
+   "name": "4K Smart TV",
+   "device": "pioneer"
+  },
+  {
+   "brand": "Mobell",
+   "name": "4K Smart TV",
+   "device": "pioneer"
+  },
+  {
+   "brand": "Nokia",
+   "name": "4K Smart TV",
+   "device": "pioneer"
+  },
+  {
+   "brand": "OK (Mediamark)",
+   "name": "4K Smart TV",
+   "device": "pioneer"
+  },
+  {
+   "brand": "Polytron",
+   "name": "4K Smart TV",
+   "device": "pioneer"
+  },
+  {
+   "brand": "Soniq",
+   "name": "4K Smart TV",
+   "device": "pioneer"
+  },
+  {
+   "brand": "Walton",
+   "name": "4K Smart TV",
+   "device": "pioneer"
+  },
+  {
+   "brand": "imiia",
+   "name": "4K Smart TV",
+   "device": "pioneer"
+  }
+ ],
  "Engel 4K Android TV": [
   {
    "brand": "Engel",
    "name": "ENGEL",
    "device": "bangbae"
+  }
+ ],
+ "2K PA Smart TV": [
+  {
+   "brand": "Engel",
+   "name": "Smart TV",
+   "device": "mateo"
+  },
+  {
+   "brand": "HKC Elec",
+   "name": "Smart TV",
+   "device": "mateo"
+  },
+  {
+   "brand": "Mito",
+   "name": "Smart TV",
+   "device": "mateo"
+  },
+  {
+   "brand": "Nano",
+   "name": "Smart TV",
+   "device": "mateo"
+  },
+  {
+   "brand": "Nokia",
+   "name": "Smart TV",
+   "device": "mateo"
+  },
+  {
+   "brand": "OK (Mediamark)",
+   "name": "Smart TV",
+   "device": "mateo"
+  },
+  {
+   "brand": "Polytron",
+   "name": "Smart TV",
+   "device": "mateo"
+  },
+  {
+   "brand": "Profilo",
+   "name": "Smart TV",
+   "device": "mateo"
+  },
+  {
+   "brand": "RCA",
+   "name": "2K PA Smart TV",
+   "device": "mateo"
+  },
+  {
+   "brand": "RCA",
+   "name": "Smart TV",
+   "device": "mateo"
+  },
+  {
+   "brand": "Soniq",
+   "name": "Smart TV",
+   "device": "mateo"
+  },
+  {
+   "brand": "Walton",
+   "name": "Smart TV",
+   "device": "mateo"
+  },
+  {
+   "brand": "imiia",
+   "name": "Smart TV",
+   "device": "mateo"
+  },
+  {
+   "brand": "realme",
+   "name": "Smart TV",
+   "device": "mateo"
   }
  ],
  "E-TAB": [
@@ -64162,115 +64291,11 @@
    "device": "gangbyeon"
   }
  ],
- "4K PA Smart TV": [
-  {
-   "brand": "HKC Elec",
-   "name": "4K Smart TV",
-   "device": "pioneer"
-  },
-  {
-   "brand": "Mobell",
-   "name": "4K Smart TV",
-   "device": "pioneer"
-  },
-  {
-   "brand": "Nokia",
-   "name": "4K Smart TV",
-   "device": "pioneer"
-  },
-  {
-   "brand": "OK (Mediamark)",
-   "name": "4K Smart TV",
-   "device": "pioneer"
-  },
-  {
-   "brand": "Polytron",
-   "name": "4K Smart TV",
-   "device": "pioneer"
-  },
-  {
-   "brand": "Soniq",
-   "name": "4K Smart TV",
-   "device": "pioneer"
-  },
-  {
-   "brand": "imiia",
-   "name": "4K Smart TV",
-   "device": "pioneer"
-  }
- ],
  "HKC 4K SA Smart TV": [
   {
    "brand": "HKC Elec",
    "name": "4K Smart TV",
    "device": "pioneer"
-  }
- ],
- "2K PA Smart TV": [
-  {
-   "brand": "HKC Elec",
-   "name": "Smart TV",
-   "device": "mateo"
-  },
-  {
-   "brand": "Mito",
-   "name": "Smart TV",
-   "device": "mateo"
-  },
-  {
-   "brand": "Nano",
-   "name": "Smart TV",
-   "device": "mateo"
-  },
-  {
-   "brand": "Nokia",
-   "name": "Smart TV",
-   "device": "mateo"
-  },
-  {
-   "brand": "OK (Mediamark)",
-   "name": "Smart TV",
-   "device": "mateo"
-  },
-  {
-   "brand": "Polytron",
-   "name": "Smart TV",
-   "device": "mateo"
-  },
-  {
-   "brand": "Profilo",
-   "name": "Smart TV",
-   "device": "mateo"
-  },
-  {
-   "brand": "RCA",
-   "name": "2K PA Smart TV",
-   "device": "mateo"
-  },
-  {
-   "brand": "RCA",
-   "name": "Smart TV",
-   "device": "mateo"
-  },
-  {
-   "brand": "Soniq",
-   "name": "Smart TV",
-   "device": "mateo"
-  },
-  {
-   "brand": "Walton",
-   "name": "Smart TV",
-   "device": "mateo"
-  },
-  {
-   "brand": "imiia",
-   "name": "Smart TV",
-   "device": "mateo"
-  },
-  {
-   "brand": "realme",
-   "name": "Smart TV",
-   "device": "mateo"
   }
  ],
  "2K US Smart TV": [
@@ -77747,6 +77772,13 @@
    "device": "HNLGE"
   }
  ],
+ "PGT-N09": [
+  {
+   "brand": "Honor",
+   "name": "HONOR Magic5",
+   "device": "HNPGT"
+  }
+ ],
  "RMO-NX1": [
   {
    "brand": "Honor",
@@ -77764,6 +77796,13 @@
    "brand": "Honor",
    "name": "HONOR Magic5 Lite 5G",
    "device": "HNRMO-Q"
+  }
+ ],
+ "PGT-N19": [
+  {
+   "brand": "Honor",
+   "name": "HONOR Magic5 Pro",
+   "device": "HNPGT"
   }
  ],
  "HEY-W09": [
@@ -206896,6 +206935,13 @@
    "device": "i99"
   }
  ],
+ "innova10": [
+  {
+   "brand": "Symphony",
+   "name": "innova10",
+   "device": "innova10"
+  }
+ ],
  "roarV95": [
   {
    "brand": "Symphony",
@@ -208257,6 +208303,18 @@
   {
    "brand": "TCT (Alcatel)",
    "name": "TKEE MINI NEW",
+   "device": "U3A_7_WIFI_Refresh"
+  },
+  {
+   "brand": "TCT (Alcatel)",
+   "name": "alcatel 1T7 NEW",
+   "device": "U3A_7_WIFI_Refresh"
+  }
+ ],
+ "9309X2": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 7 Lite",
    "device": "U3A_7_WIFI_Refresh"
   },
   {
@@ -217332,13 +217390,6 @@
    "device": "King_Kong_7_4G"
   }
  ],
- "9309X2": [
-  {
-   "brand": "TCT (Alcatel)",
-   "name": "alcatel 1T7 NEW",
-   "device": "U3A_7_WIFI_Refresh"
-  }
- ],
  "5008A": [
   {
    "brand": "TCT (Alcatel)",
@@ -217792,6 +217843,16 @@
   }
  ],
  "ONEtv": [
+  {
+   "brand": "TIGO",
+   "name": "ONEtv",
+   "device": "uiw4054mil"
+  },
+  {
+   "brand": "TIGO",
+   "name": "ONEtv",
+   "device": "uiw4059mil"
+  },
   {
    "brand": "TIGO",
    "name": "ONEtv",

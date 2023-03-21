@@ -46293,6 +46293,11 @@
    "model": "4K SA Smart TV"
   },
   {
+   "brand": "Engel",
+   "name": "4K Smart TV",
+   "model": "4K PA Smart TV"
+  },
+  {
    "brand": "Green House",
    "name": "4K Smart TV",
    "model": "4K SA Smart TV"
@@ -46313,9 +46318,19 @@
    "model": "4K SA Smart TV"
   },
   {
+   "brand": "Marcel",
+   "name": "4K Smart TV",
+   "model": "4K PA Smart TV"
+  },
+  {
    "brand": "Master-G",
    "name": "4K Smart TV",
    "model": "4K SA Smart TV"
+  },
+  {
+   "brand": "Mito",
+   "name": "4K Smart TV",
+   "model": "4K PA Smart TV"
   },
   {
    "brand": "Mobell",
@@ -46353,6 +46368,11 @@
    "model": "4K PA Smart TV"
   },
   {
+   "brand": "Walton",
+   "name": "4K Smart TV",
+   "model": "4K PA Smart TV"
+  },
+  {
    "brand": "iMuz",
    "name": "4K Smart TV",
    "model": "4K SA Smart TV"
@@ -46375,6 +46395,11 @@
    "brand": "Daewoo",
    "name": "Smart TV",
    "model": "2K SA Smart TV"
+  },
+  {
+   "brand": "Engel",
+   "name": "Smart TV",
+   "model": "2K PA Smart TV"
   },
   {
    "brand": "HKC Elec",
@@ -79458,6 +79483,18 @@
    "brand": "Honor",
    "name": "HONOR Magic4 Pro",
    "model": "LGE-NX9"
+  }
+ ],
+ "HNPGT": [
+  {
+   "brand": "Honor",
+   "name": "HONOR Magic5",
+   "model": "PGT-N09"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR Magic5 Pro",
+   "model": "PGT-N19"
   }
  ],
  "HNRMO-Q": [
@@ -201260,6 +201297,13 @@
    "model": "i99"
   }
  ],
+ "innova10": [
+  {
+   "brand": "Symphony",
+   "name": "innova10",
+   "model": "innova10"
+  }
+ ],
  "roarV95": [
   {
    "brand": "Symphony",
@@ -203401,6 +203445,11 @@
    "brand": "TCL",
    "name": "TCL TAB 7 Lite",
    "model": "9309X"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 7 Lite",
+   "model": "9309X2"
   },
   {
    "brand": "TCL",
@@ -209677,6 +209726,20 @@
    "brand": "TIANHOO",
    "name": "EOS Pro",
    "model": "EOS Pro"
+  }
+ ],
+ "uiw4054mil": [
+  {
+   "brand": "TIGO",
+   "name": "ONEtv",
+   "model": "ONEtv"
+  }
+ ],
+ "uiw4059mil": [
+  {
+   "brand": "TIGO",
+   "name": "ONEtv",
+   "model": "ONEtv"
   }
  ],
  "uzw4010tim": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-03-20
+Last sync is 2023-03-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6853,7 +6853,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Energizer|Ultimate U710S|Ultimate_U710S|Ultimate U710S|
 |EnergySistem|adelroth|adelroth|Energy Tablet Pro 4|
 |Enerpres|SMIG_V|SMIG_V|SMIG_V|
+|Engel|4K Smart TV|pioneer|4K PA Smart TV|
 |Engel|ENGEL|bangbae|Engel 4K Android TV|
+|Engel|Smart TV|mateo|2K PA Smart TV|
 |Engel|Smart TV|osaki|2K AI Smart TV|
 |Enspert||E-TAB|E-TAB|
 |Enspert||ESP_E301|ESP_E301BK|
@@ -10742,8 +10744,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR Magic4 Lite|HNANY-Q1|ANY-LX1|
 |Honor|HONOR Magic4 Lite 5G|HNANY-Q|ANY-NX1|
 |Honor|HONOR Magic4 Pro|HNLGE|LGE-NX9|
+|Honor|HONOR Magic5|HNPGT|PGT-N09|
 |Honor|HONOR Magic5 Lite 5G|HNRMO-Q|RMO-NX1|
 |Honor|HONOR Magic5 Lite 5G|HNRMO-Q|RMO-NX3|
+|Honor|HONOR Magic5 Pro|HNPGT|PGT-N19|
 |Honor|HONOR Pad 8|HNHEY-Q|HEY-W09|
 |Honor|HONOR Pad X8|HNAGM3|AGM3-AL09HN|
 |Honor|HONOR Pad X8|HNAGM3|AGM3-W09HN|
@@ -18281,6 +18285,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mara Phones|Mara X1 d|Mara_X1_d|Mara Phones X1|
 |Mara Phones|Mara Z d|Mara_Z_d_sprout|Mara Z d|
 |Mara Phones|Mara Z1 d|Mara_Z1_d|Mara Phones Z1|
+|Marcel|4K Smart TV|pioneer|4K PA Smart TV|
 |Marcel|EU|tamachi|MARCEL Android TV|
 |Marcel|EU|yeongdeungpo|MARCEL Android TV|
 |Marcel|EU、UK、AP|martin|MARCEL Android TV|
@@ -19095,6 +19100,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mirage|64T|MI-JI-64T|MI-JI-64T|
 |Mirage|82S|MI-CH-82S|MI-CH-82S|
 |Mirage|MI-SO-81T|MI-SO-81T|MI-SO-81T|
+|Mito|4K Smart TV|pioneer|4K PA Smart TV|
 |Mito|A10|A10_sprout|MITO A10|
 |Mito|A10|A10_sprout|MITO_A10|
 |Mito|A62|A62|A62|
@@ -30452,6 +30458,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|i97|i97|i97|
 |Symphony|i98|i98|i98|
 |Symphony|i99|i99|i99|
+|Symphony|innova10|innova10|innova10|
 |Symphony|roarV95|roarV95|roarV95|
 |Symphony|roar_V150|roar_V150|roar_V150|
 |T-Mobile|REVVL 2|A30ATMO|REVVL 2|
@@ -30662,6 +30669,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 10s 4G|Odin|9080G|
 |TCL|TCL TAB 10s 4G|Odin|9080X|
 |TCL|TCL TAB 7 Lite|U3A_7_WIFI_Refresh|9309X|
+|TCL|TCL TAB 7 Lite|U3A_7_WIFI_Refresh|9309X2|
 |TCL|TCL TAB 8|Luna|9132G|
 |TCL|TCL TAB 8|Luna|9132X|
 |TCL|TCL TAB 8 4G|Apollo_8_4G|9032X|
@@ -32069,6 +32077,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |THOMSON_KODAK|PATH_UHDXANDROID|LEDTVUHD|PATH_UHDXANDROID|
 |THTF|"TSINGHUA TONGFANG CO.|LTD."|TR10CD1_3|
 |TIANHOO|EOS Pro|EOS_Pro|EOS Pro|
+|TIGO|ONEtv|uiw4054mil|ONEtv|
+|TIGO|ONEtv|uiw4059mil|ONEtv|
 |TIGO|ONEtv|vip6102w|ONEtv|
 |TIM|TIM BOX|uzw4010tim|TIM_BOX|
 |TIM|TIMVISION Box|uzw4054tim|TIMVISION Box|
@@ -35113,6 +35123,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Waf|F803YM|F803YM|F803YM|
 |Waf|F808NM|F808NM|F808NM|
 |Waf|THMTKAW01216_eea|THMTKAW01216|Surftab WAF|
+|Walton|4K Smart TV|pioneer|4K PA Smart TV|
 |Walton|Bangladesh and EU|tamachi|WALTON Android TV|
 |Walton|Bangladesh and EU|yeongdeungpo|WALTON Android TV|
 |Walton|EXPRESS|guandu|WALTON Android TV|

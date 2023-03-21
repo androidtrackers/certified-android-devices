@@ -35555,9 +35555,19 @@
  ],
  "Engel": [
   {
+   "device": "pioneer",
+   "name": "4K Smart TV",
+   "model": "4K PA Smart TV"
+  },
+  {
    "device": "bangbae",
    "name": "ENGEL",
    "model": "Engel 4K Android TV"
+  },
+  {
+   "device": "mateo",
+   "name": "Smart TV",
+   "model": "2K PA Smart TV"
   },
   {
    "device": "osaki",
@@ -55556,6 +55566,11 @@
    "model": "LGE-NX9"
   },
   {
+   "device": "HNPGT",
+   "name": "HONOR Magic5",
+   "model": "PGT-N09"
+  },
+  {
    "device": "HNRMO-Q",
    "name": "HONOR Magic5 Lite 5G",
    "model": "RMO-NX1"
@@ -55564,6 +55579,11 @@
    "device": "HNRMO-Q",
    "name": "HONOR Magic5 Lite 5G",
    "model": "RMO-NX3"
+  },
+  {
+   "device": "HNPGT",
+   "name": "HONOR Magic5 Pro",
+   "model": "PGT-N19"
   },
   {
    "device": "HNHEY-Q",
@@ -94015,6 +94035,11 @@
  ],
  "Marcel": [
   {
+   "device": "pioneer",
+   "name": "4K Smart TV",
+   "model": "4K PA Smart TV"
+  },
+  {
    "device": "tamachi",
    "name": "EU",
    "model": "MARCEL Android TV"
@@ -98188,6 +98213,11 @@
   }
  ],
  "Mito": [
+  {
+   "device": "pioneer",
+   "name": "4K Smart TV",
+   "model": "4K PA Smart TV"
+  },
   {
    "device": "A10_sprout",
    "name": "A10",
@@ -156264,6 +156294,11 @@
    "model": "i99"
   },
   {
+   "device": "innova10",
+   "name": "innova10",
+   "model": "innova10"
+  },
+  {
    "device": "roarV95",
    "name": "roarV95",
    "model": "roarV95"
@@ -157332,6 +157367,11 @@
    "device": "U3A_7_WIFI_Refresh",
    "name": "TCL TAB 7 Lite",
    "model": "9309X"
+  },
+  {
+   "device": "U3A_7_WIFI_Refresh",
+   "name": "TCL TAB 7 Lite",
+   "model": "9309X2"
   },
   {
    "device": "Luna",
@@ -164414,6 +164454,16 @@
   }
  ],
  "TIGO": [
+  {
+   "device": "uiw4054mil",
+   "name": "ONEtv",
+   "model": "ONEtv"
+  },
+  {
+   "device": "uiw4059mil",
+   "name": "ONEtv",
+   "model": "ONEtv"
+  },
   {
    "device": "vip6102w",
    "name": "ONEtv",
@@ -180246,6 +180296,11 @@
   }
  ],
  "Walton": [
+  {
+   "device": "pioneer",
+   "name": "4K Smart TV",
+   "model": "4K PA Smart TV"
+  },
   {
    "device": "tamachi",
    "name": "Bangladesh and EU",
