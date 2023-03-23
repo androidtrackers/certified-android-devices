@@ -12848,6 +12848,13 @@
    "model": "Allente 1"
   }
  ],
+ "SEI700ALLG": [
+  {
+   "brand": "Allente",
+   "name": "Sweden Norway",
+   "model": "Allente Streaming Hub"
+  }
+ ],
  "86S": [
   {
    "brand": "Allfine",
@@ -26608,6 +26615,11 @@
   {
    "brand": "HKC Elec",
    "name": "4K Smart TV",
+   "model": "HKC 4K AI Smart TV"
+  },
+  {
+   "brand": "HKC Elec",
+   "name": "4K Smart TV",
    "model": "TATUNG 4K AI Smart TV"
   },
   {
@@ -26653,11 +26665,6 @@
   {
    "brand": "RCA",
    "name": "4K Smart TV",
-   "model": "HKC 4K AI Smart TV"
-  },
-  {
-   "brand": "RCA",
-   "name": "4K Smart TV",
    "model": "Treeview 4K AI Smart TV"
   },
   {
@@ -26671,14 +26678,14 @@
    "model": "4K Smart TV"
   },
   {
-   "brand": "Sceptre",
-   "name": "4K Smart TV",
-   "model": "imiia 4K AI Smart TV"
-  },
-  {
    "brand": "UNITED TV",
    "name": "4K Smart TV",
    "model": "4K AI Smart TV"
+  },
+  {
+   "brand": "imiia",
+   "name": "4K Smart TV",
+   "model": "imiia 4K AI Smart TV"
   },
   {
    "brand": "realme",
@@ -36305,7 +36312,7 @@
   },
   {
    "brand": "TCL",
-   "name": "TCL TAB 8",
+   "name": "TCL TAB 8 Wi-Fi",
    "model": "9132X"
   },
   {
@@ -36870,14 +36877,14 @@
    "model": "Treeview 2K AI Smart TV"
   },
   {
-   "brand": "RCA",
-   "name": "Smart TV",
-   "model": "UNICO 2K AI Smart TV"
-  },
-  {
    "brand": "Soniq",
    "name": "Smart TV",
    "model": "2K AI Smart TV"
+  },
+  {
+   "brand": "UNICO",
+   "name": "Smart TV",
+   "model": "UNICO 2K AI Smart TV"
   },
   {
    "brand": "UNITED TV",
@@ -46293,6 +46300,11 @@
    "model": "4K SA Smart TV"
   },
   {
+   "brand": "Daewoo",
+   "name": "4K Smart TV",
+   "model": "DAEWOO 4K SA Smart TV"
+  },
+  {
    "brand": "Engel",
    "name": "4K Smart TV",
    "model": "4K PA Smart TV"
@@ -46306,6 +46318,11 @@
    "brand": "HKC Elec",
    "name": "4K Smart TV",
    "model": "4K PA Smart TV"
+  },
+  {
+   "brand": "HKC Elec",
+   "name": "4K Smart TV",
+   "model": "4K SA Smart TV"
   },
   {
    "brand": "HKC Elec",
@@ -46358,11 +46375,6 @@
    "model": "4K SA Smart TV"
   },
   {
-   "brand": "RCA",
-   "name": "4K Smart TV",
-   "model": "DAEWOO 4K SA Smart TV"
-  },
-  {
    "brand": "Soniq",
    "name": "4K Smart TV",
    "model": "4K PA Smart TV"
@@ -46397,9 +46409,19 @@
    "model": "2K SA Smart TV"
   },
   {
+   "brand": "Daewoo",
+   "name": "Smart TV",
+   "model": "DAEWOO 2K SA Smart TV"
+  },
+  {
    "brand": "Engel",
    "name": "Smart TV",
    "model": "2K PA Smart TV"
+  },
+  {
+   "brand": "HKC Elec",
+   "name": "Smart Monitor",
+   "model": "2K Smart Monitor"
   },
   {
    "brand": "HKC Elec",
@@ -46475,11 +46497,6 @@
    "brand": "RCA",
    "name": "Smart TV",
    "model": "2K SA Smart TV"
-  },
-  {
-   "brand": "RCA",
-   "name": "Smart TV",
-   "model": "DAEWOO 2K SA Smart TV"
   },
   {
    "brand": "SUPERSONIC",
@@ -119241,18 +119258,6 @@
    "model": "Lenovo TB-X505X"
   }
  ],
- "TB-X607Z": [
-  {
-   "brand": "Lenovo",
-   "name": "Lenovo Tab M10 5G",
-   "model": "Lenovo TB-X607Z"
-  },
-  {
-   "brand": "Lenovo",
-   "name": "联想平板电脑K10 5G",
-   "model": "Lenovo TB-X607Z"
-  }
- ],
  "X606F": [
   {
    "brand": "Lenovo",
@@ -119768,6 +119773,18 @@
    "brand": "Lenovo",
    "name": "TAB 2 A7-30HC",
    "model": "Lenovo TAB 2 A7-30HC"
+  }
+ ],
+ "TB-X607Z": [
+  {
+   "brand": "Lenovo",
+   "name": "LenovoTB-X607Z_EEA",
+   "model": "Lenovo TB-X607Z"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "联想平板电脑K10 5G",
+   "model": "Lenovo TB-X607Z"
   }
  ],
  "jazz": [
@@ -131969,6 +131986,11 @@
    "brand": "Mobicell",
    "name": "VX18",
    "model": "VX18"
+  },
+  {
+   "brand": "Mobicell",
+   "name": "VX_18",
+   "model": "VX18"
   }
  ],
  "VX18_1": [
@@ -131982,6 +132004,11 @@
   {
    "brand": "Mobicell",
    "name": "VX19",
+   "model": "VX19"
+  },
+  {
+   "brand": "Mobicell",
+   "name": "XV19",
    "model": "VX19"
   }
  ],
@@ -151122,6 +151149,11 @@
    "brand": "Oukitel",
    "name": "WP15",
    "model": "WP15"
+  },
+  {
+   "brand": "Oukitel",
+   "name": "WP15",
+   "model": "WP25"
   }
  ],
  "WP15_S": [
@@ -151897,6 +151929,28 @@
    "brand": "Redmi",
    "name": "Redmi A1+",
    "model": "220743FI"
+  }
+ ],
+ "earth": [
+  {
+   "brand": "POCO",
+   "name": "POCO C55",
+   "model": "22127PC95I"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 12C",
+   "model": "22120RN86G"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 12C",
+   "model": "22120RN86I"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 12C",
+   "model": "2212ARNC4L"
   }
  ],
  "lmi": [
@@ -165365,6 +165419,13 @@
    "model": "bomb"
   }
  ],
+ "aether": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 12C",
+   "model": "22126RN91Y"
+  }
+ ],
  "cereus": [
   {
    "brand": "Redmi",
@@ -165539,6 +165600,18 @@
    "brand": "Redmi",
    "name": "Redmi A1",
    "model": "220733SL"
+  }
+ ],
+ "cloud": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi A2",
+   "model": "23026RN54G"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi A2",
+   "model": "23028RN4DG"
   }
  ],
  "davinciin": [
@@ -240159,6 +240232,34 @@
    "model": "NX709S"
   }
  ],
+ "NX709S-EEA": [
+  {
+   "brand": "ZTE",
+   "name": "NX709S",
+   "model": "NX709S"
+  }
+ ],
+ "NX709S-UN": [
+  {
+   "brand": "ZTE",
+   "name": "NX709S",
+   "model": "NX709S"
+  }
+ ],
+ "PQ82A01": [
+  {
+   "brand": "ZTE",
+   "name": "NX711J",
+   "model": "NX711J"
+  }
+ ],
+ "NX729J-EEA": [
+  {
+   "brand": "ZTE",
+   "name": "NX729J",
+   "model": "NX729J"
+  }
+ ],
  "NX729J-UN": [
   {
    "brand": "ZTE",
@@ -240205,6 +240306,28 @@
    "brand": "ZTE",
    "name": "ZTE 8010RU",
    "model": "ZTE 8010RU"
+  }
+ ],
+ "P963F06": [
+  {
+   "brand": "ZTE",
+   "name": "Nubia 8031",
+   "model": "Nubia 8031"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE 8030",
+   "model": "ZTE 8030"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE 8030",
+   "model": "ZTE 8031"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE 8030RU",
+   "model": "ZTE 8030RU"
   }
  ],
  "P731F50": [
@@ -241904,6 +242027,18 @@
    "model": "VFD 520"
   }
  ],
+ "Z6201": [
+  {
+   "brand": "ZTE",
+   "name": "Verve Connect",
+   "model": "Z6103"
+  },
+  {
+   "brand": "ZTE",
+   "name": "Z6201V",
+   "model": "Z6201V"
+  }
+ ],
  "proline": [
   {
    "brand": "ZTE",
@@ -242079,13 +242214,6 @@
    "brand": "ZTE",
    "name": "ZTE AVID 559",
    "model": "Z559DL"
-  }
- ],
- "Z6201": [
-  {
-   "brand": "ZTE",
-   "name": "Z6201V",
-   "model": "Z6201V"
   }
  ],
  "Z6250": [
@@ -242543,6 +242671,11 @@
    "brand": "ZTE",
    "name": "ZTE  S30 Pro 5G",
    "model": "ZTE A2122H"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE A2122H",
+   "model": "ZTE A2122H"
   }
  ],
  "P963F61_A": [
@@ -242635,23 +242768,6 @@
    "model": "ZTE 8012N"
   }
  ],
- "P963F06": [
-  {
-   "brand": "ZTE",
-   "name": "ZTE 8030",
-   "model": "ZTE 8030"
-  },
-  {
-   "brand": "ZTE",
-   "name": "ZTE 8030",
-   "model": "ZTE 8031"
-  },
-  {
-   "brand": "ZTE",
-   "name": "ZTE 8030RU",
-   "model": "ZTE 8030RU"
-  }
- ],
  "P633S01": [
   {
    "brand": "ZTE",
@@ -242678,6 +242794,13 @@
    "brand": "ZTE",
    "name": "ZTE 8046",
    "model": "ZTE 8046"
+  }
+ ],
+ "P633F10": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE 8140N",
+   "model": "ZTE 8140N"
   }
  ],
  "P618F05": [
@@ -243222,6 +243345,13 @@
    "model": "ZTE Blade A31 Lite RU"
   }
  ],
+ "P932F21_A": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A31 Lite",
+   "model": "ZTE Blade A31 Lite"
+  }
+ ],
  "P963F71": [
   {
    "brand": "ZTE",
@@ -243234,6 +243364,34 @@
    "brand": "ZTE",
    "name": "ZTE Blade A32",
    "model": "ZTE Blade A32"
+  }
+ ],
+ "P932F22": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A33",
+   "model": "ZTE Blade A33"
+  }
+ ],
+ "P932F23": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A33 Core",
+   "model": "ZTE Blade A33 Core"
+  }
+ ],
+ "P963F91": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A33+",
+   "model": "ZTE Blade A33+"
+  }
+ ],
+ "P963F92": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A33+ Core",
+   "model": "ZTE Blade A33+ Core"
   }
  ],
  "Z5157": [
@@ -243294,6 +243452,13 @@
    "brand": "ZTE",
    "name": "ZTE Blade A52 Lite",
    "model": "ZTE Blade A52 Lite"
+  }
+ ],
+ "P963F62": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A53",
+   "model": "ZTE Blade A53"
   }
  ],
  "P932F10": [
@@ -243375,6 +243540,13 @@
    "brand": "ZTE",
    "name": "ZTE Blade L130",
    "model": "ZTE Blade L130"
+  }
+ ],
+ "P731F60": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade L220",
+   "model": "ZTE Blade L220"
   }
  ],
  "P731F20": [
@@ -247566,6 +247738,13 @@
    "brand": "iLife",
    "name": "MISA",
    "model": "MISA"
+  }
+ ],
+ "MobilePOSTerminal": [
+  {
+   "brand": "iMACHINE",
+   "name": "MobilePOSTerminal",
+   "model": "AP12"
   }
  ],
  "I22T01": [

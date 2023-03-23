@@ -10408,6 +10408,13 @@
    "device": "OnePlace2"
   }
  ],
+ "Allente Streaming Hub": [
+  {
+   "brand": "Allente",
+   "name": "Sweden Norway",
+   "device": "SEI700ALLG"
+  }
+ ],
  "M721": [
   {
    "brand": "Allfine",
@@ -43053,6 +43060,11 @@
    "device": "pioneer"
   },
   {
+   "brand": "HKC Elec",
+   "name": "4K Smart TV",
+   "device": "pioneer"
+  },
+  {
    "brand": "JVC",
    "name": "4K Smart TV",
    "device": "pioneer"
@@ -43069,6 +43081,13 @@
   },
   {
    "brand": "iMuz",
+   "name": "4K Smart TV",
+   "device": "pioneer"
+  }
+ ],
+ "DAEWOO 4K SA Smart TV": [
+  {
+   "brand": "Daewoo",
    "name": "4K Smart TV",
    "device": "pioneer"
   }
@@ -43117,6 +43136,13 @@
   },
   {
    "brand": "iMuz",
+   "name": "Smart TV",
+   "device": "mateo"
+  }
+ ],
+ "DAEWOO 2K SA Smart TV": [
+  {
+   "brand": "Daewoo",
    "name": "Smart TV",
    "device": "mateo"
   }
@@ -64284,6 +64310,13 @@
    "device": "LA79"
   }
  ],
+ "HKC 4K AI Smart TV": [
+  {
+   "brand": "HKC Elec",
+   "name": "4K Smart TV",
+   "device": "gangbyeon"
+  }
+ ],
  "TATUNG 4K AI Smart TV": [
   {
    "brand": "HKC Elec",
@@ -64296,6 +64329,18 @@
    "brand": "HKC Elec",
    "name": "4K Smart TV",
    "device": "pioneer"
+  }
+ ],
+ "2K Smart Monitor": [
+  {
+   "brand": "HKC Elec",
+   "name": "Smart Monitor",
+   "device": "mateo"
+  },
+  {
+   "brand": "RCA",
+   "name": "Smart Monitor",
+   "device": "mateo"
   }
  ],
  "2K US Smart TV": [
@@ -121200,18 +121245,6 @@
    "device": "TB-X505X"
   }
  ],
- "Lenovo TB-X607Z": [
-  {
-   "brand": "Lenovo",
-   "name": "Lenovo Tab M10 5G",
-   "device": "TB-X607Z"
-  },
-  {
-   "brand": "Lenovo",
-   "name": "联想平板电脑K10 5G",
-   "device": "TB-X607Z"
-  }
- ],
  "Lenovo TB-X606F": [
   {
    "brand": "Lenovo",
@@ -121712,6 +121745,18 @@
    "brand": "Lenovo",
    "name": "LenovoTAB2 A7-30DC",
    "device": "A7-30HC"
+  }
+ ],
+ "Lenovo TB-X607Z": [
+  {
+   "brand": "Lenovo",
+   "name": "LenovoTB-X607Z_EEA",
+   "device": "TB-X607Z"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "联想平板电脑K10 5G",
+   "device": "TB-X607Z"
   }
  ],
  "AQUOS 58U1": [
@@ -133980,6 +134025,11 @@
    "brand": "Mobicell",
    "name": "VX18",
    "device": "VX18"
+  },
+  {
+   "brand": "Mobicell",
+   "name": "VX_18",
+   "device": "VX18"
   }
  ],
  "VX18_1": [
@@ -133993,6 +134043,11 @@
   {
    "brand": "Mobicell",
    "name": "VX19",
+   "device": "VX19"
+  },
+  {
+   "brand": "Mobicell",
+   "name": "XV19",
    "device": "VX19"
   }
  ],
@@ -153695,6 +153750,13 @@
    "device": "WP15"
   }
  ],
+ "WP25": [
+  {
+   "brand": "Oukitel",
+   "name": "WP15",
+   "device": "WP15"
+  }
+ ],
  "WP15 S": [
   {
    "brand": "Oukitel",
@@ -154470,6 +154532,13 @@
    "brand": "POCO",
    "name": "POCO C50",
    "device": "snow"
+  }
+ ],
+ "22127PC95I": [
+  {
+   "brand": "POCO",
+   "name": "POCO C55",
+   "device": "earth"
   }
  ],
  "POCO F2 Pro": [
@@ -166327,25 +166396,11 @@
    "device": "RCT6213W87DK"
   }
  ],
- "HKC 4K AI Smart TV": [
-  {
-   "brand": "RCA",
-   "name": "4K Smart TV",
-   "device": "gangbyeon"
-  }
- ],
  "Treeview 4K AI Smart TV": [
   {
    "brand": "RCA",
    "name": "4K Smart TV",
    "device": "gangbyeon"
-  }
- ],
- "DAEWOO 4K SA Smart TV": [
-  {
-   "brand": "RCA",
-   "name": "4K Smart TV",
-   "device": "pioneer"
   }
  ],
  "RCT6673W23M": [
@@ -166988,28 +167043,7 @@
    "device": "Reno_Pro"
   }
  ],
- "2K Smart Monitor": [
-  {
-   "brand": "RCA",
-   "name": "Smart Monitor",
-   "device": "mateo"
-  }
- ],
- "DAEWOO 2K SA Smart TV": [
-  {
-   "brand": "RCA",
-   "name": "Smart TV",
-   "device": "mateo"
-  }
- ],
  "Treeview 2K AI Smart TV": [
-  {
-   "brand": "RCA",
-   "name": "Smart TV",
-   "device": "osaki"
-  }
- ],
- "UNICO 2K AI Smart TV": [
   {
    "brand": "RCA",
    "name": "Smart TV",
@@ -168552,6 +168586,34 @@
    "device": "light"
   }
  ],
+ "22126RN91Y": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 12C",
+   "device": "aether"
+  }
+ ],
+ "22120RN86G": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 12C",
+   "device": "earth"
+  }
+ ],
+ "22120RN86I": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 12C",
+   "device": "earth"
+  }
+ ],
+ "2212ARNC4L": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 12C",
+   "device": "earth"
+  }
+ ],
  "Redmi 6": [
   {
    "brand": "Redmi",
@@ -168792,6 +168854,20 @@
    "brand": "Redmi",
    "name": "Redmi A1+",
    "device": "snow"
+  }
+ ],
+ "23026RN54G": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi A2",
+   "device": "cloud"
+  }
+ ],
+ "23028RN4DG": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi A2",
+   "device": "cloud"
   }
  ],
  "Redmi K20": [
@@ -193464,13 +193540,6 @@
    "device": "HPAD-IP8045"
   }
  ],
- "imiia 4K AI Smart TV": [
-  {
-   "brand": "Sceptre",
-   "name": "4K Smart TV",
-   "device": "gangbyeon"
-  }
- ],
  "FreedomTurboXL": [
   {
    "brand": "Schok",
@@ -208330,13 +208399,6 @@
    "device": "Luna"
   }
  ],
- "9132X": [
-  {
-   "brand": "TCL",
-   "name": "TCL TAB 8",
-   "device": "Luna"
-  }
- ],
  "9032X": [
   {
    "brand": "TCL",
@@ -208354,6 +208416,13 @@
    "brand": "TCL",
    "name": "TCL TAB 8 LE",
    "device": "Luna_8_4G_TMO"
+  }
+ ],
+ "9132X": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 8 Wi-Fi",
+   "device": "Luna"
   }
  ],
  "9050S": [
@@ -225720,6 +225789,13 @@
    "brand": "UKA-Dream",
    "name": "UKA_Dream_1",
    "device": "UKA_Dream_1"
+  }
+ ],
+ "UNICO 2K AI Smart TV": [
+  {
+   "brand": "UNICO",
+   "name": "Smart TV",
+   "device": "osaki"
   }
  ],
  "UNI10IN": [
@@ -249953,9 +250029,31 @@
    "brand": "ZTE",
    "name": "NX709S",
    "device": "NX709S"
+  },
+  {
+   "brand": "ZTE",
+   "name": "NX709S",
+   "device": "NX709S-EEA"
+  },
+  {
+   "brand": "ZTE",
+   "name": "NX709S",
+   "device": "NX709S-UN"
+  }
+ ],
+ "NX711J": [
+  {
+   "brand": "ZTE",
+   "name": "NX711J",
+   "device": "PQ82A01"
   }
  ],
  "NX729J": [
+  {
+   "brand": "ZTE",
+   "name": "NX729J",
+   "device": "NX729J-EEA"
+  },
   {
    "brand": "ZTE",
    "name": "NX729J",
@@ -249988,6 +250086,13 @@
    "brand": "ZTE",
    "name": "Nubia 8011",
    "device": "P963F05"
+  }
+ ],
+ "Nubia 8031": [
+  {
+   "brand": "ZTE",
+   "name": "Nubia 8031",
+   "device": "P963F06"
   }
  ],
  "Nubia N11": [
@@ -252336,6 +252441,13 @@
    "device": "VFD520"
   }
  ],
+ "Z6103": [
+  {
+   "brand": "ZTE",
+   "name": "Verve Connect",
+   "device": "Z6201"
+  }
+ ],
  "Z965": [
   {
    "brand": "ZTE",
@@ -253136,6 +253248,11 @@
    "brand": "ZTE",
    "name": "ZTE  S30 Pro 5G",
    "device": "P768A02"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE A2122H",
+   "device": "P768A02"
   }
  ],
  "ZTE 1010L": [
@@ -253275,6 +253392,13 @@
    "brand": "ZTE",
    "name": "ZTE 8046",
    "device": "P616F01"
+  }
+ ],
+ "ZTE 8140N": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE 8140N",
+   "device": "P633F10"
   }
  ],
  "ZTE 9030": [
@@ -253962,6 +254086,11 @@
    "brand": "ZTE",
    "name": "ZTE Blade A31 Lite",
    "device": "P932F21"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A31 Lite",
+   "device": "P932F21_A"
   }
  ],
  "ZTE Blade A31 Lite RU": [
@@ -254002,6 +254131,34 @@
    "brand": "ZTE",
    "name": "ZTE Blade A32",
    "device": "P963F90W"
+  }
+ ],
+ "ZTE Blade A33": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A33",
+   "device": "P932F22"
+  }
+ ],
+ "ZTE Blade A33 Core": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A33 Core",
+   "device": "P932F23"
+  }
+ ],
+ "ZTE Blade A33+": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A33+",
+   "device": "P963F91"
+  }
+ ],
+ "ZTE Blade A33+ Core": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A33+ Core",
+   "device": "P963F92"
   }
  ],
  "Z5157V": [
@@ -254127,6 +254284,13 @@
    "device": "P963F61_A"
   }
  ],
+ "ZTE Blade A53": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A53",
+   "device": "P963F62"
+  }
+ ],
  "ZTE Blade A531": [
   {
    "brand": "ZTE",
@@ -254227,6 +254391,13 @@
    "brand": "ZTE",
    "name": "ZTE Blade L210RU",
    "device": "P731F50"
+  }
+ ],
+ "ZTE Blade L220": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade L220",
+   "device": "P731F60"
   }
  ],
  "ZTE Blade L8": [
@@ -258539,6 +258710,13 @@
    "device": "MISA"
   }
  ],
+ "AP12": [
+  {
+   "brand": "iMACHINE",
+   "name": "MobilePOSTerminal",
+   "device": "MobilePOSTerminal"
+  }
+ ],
  "I22T01": [
   {
    "brand": "iMin",
@@ -259204,6 +259382,13 @@
    "brand": "ibowin",
    "name": "M10ES11",
    "device": "M10ES11"
+  }
+ ],
+ "imiia 4K AI Smart TV": [
+  {
+   "brand": "imiia",
+   "name": "4K Smart TV",
+   "device": "gangbyeon"
   }
  ],
  "i-217D1": [

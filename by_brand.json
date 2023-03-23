@@ -5688,6 +5688,11 @@
    "device": "OnePlace2",
    "name": "Allente 1",
    "model": "Allente 1"
+  },
+  {
+   "device": "SEI700ALLG",
+   "name": "Sweden Norway",
+   "model": "Allente Streaming Hub"
   }
  ],
  "Allfine": [
@@ -29242,6 +29247,11 @@
    "model": "4K SA Smart TV"
   },
   {
+   "device": "pioneer",
+   "name": "4K Smart TV",
+   "model": "DAEWOO 4K SA Smart TV"
+  },
+  {
    "device": "sunnyvale",
    "name": "DAEWOO SMART TV",
    "model": "DAEWOO SMART TV"
@@ -29265,6 +29275,11 @@
    "device": "mateo",
    "name": "Smart TV",
    "model": "2K SA Smart TV"
+  },
+  {
+   "device": "mateo",
+   "name": "Smart TV",
+   "model": "DAEWOO 2K SA Smart TV"
   },
   {
    "device": "X7",
@@ -44964,6 +44979,11 @@
   {
    "device": "gangbyeon",
    "name": "4K Smart TV",
+   "model": "HKC 4K AI Smart TV"
+  },
+  {
+   "device": "gangbyeon",
+   "name": "4K Smart TV",
    "model": "TATUNG 4K AI Smart TV"
   },
   {
@@ -44974,7 +44994,17 @@
   {
    "device": "pioneer",
    "name": "4K Smart TV",
+   "model": "4K SA Smart TV"
+  },
+  {
+   "device": "pioneer",
+   "name": "4K Smart TV",
    "model": "HKC 4K SA Smart TV"
+  },
+  {
+   "device": "mateo",
+   "name": "Smart Monitor",
+   "model": "2K Smart Monitor"
   },
   {
    "device": "mateo",
@@ -88853,11 +88883,6 @@
    "model": "Lenovo TB-X505X"
   },
   {
-   "device": "TB-X607Z",
-   "name": "Lenovo Tab M10 5G",
-   "model": "Lenovo TB-X607Z"
-  },
-  {
    "device": "X606F",
    "name": "Lenovo Tab M10 FHD Plus",
    "model": "Lenovo TB-X606F"
@@ -89216,6 +89241,11 @@
    "device": "A7-30HC",
    "name": "LenovoTAB2 A7-30DC",
    "model": "Lenovo TAB 2 A7-30DC"
+  },
+  {
+   "device": "TB-X607Z",
+   "name": "LenovoTB-X607Z_EEA",
+   "model": "Lenovo TB-X607Z"
   },
   {
    "device": "jazz",
@@ -99054,6 +99084,11 @@
    "model": "VX20"
   },
   {
+   "device": "VX18",
+   "name": "VX_18",
+   "model": "VX18"
+  },
+  {
    "device": "X1",
    "name": "X1",
    "model": "X1"
@@ -99072,6 +99107,11 @@
    "device": "X9",
    "name": "X9",
    "model": "X9"
+  },
+  {
+   "device": "VX19",
+   "name": "XV19",
+   "model": "VX19"
   },
   {
    "device": "ZEN",
@@ -115011,6 +115051,11 @@
    "model": "WP15"
   },
   {
+   "device": "WP15",
+   "name": "WP15",
+   "model": "WP25"
+  },
+  {
    "device": "WP15_S",
    "name": "WP15 S",
    "model": "WP15 S"
@@ -115698,6 +115743,11 @@
    "device": "snow",
    "name": "POCO C50",
    "model": "220733SPI"
+  },
+  {
+   "device": "earth",
+   "name": "POCO C55",
+   "model": "22127PC95I"
   },
   {
    "device": "lmi",
@@ -125139,22 +125189,12 @@
   {
    "device": "gangbyeon",
    "name": "4K Smart TV",
-   "model": "HKC 4K AI Smart TV"
-  },
-  {
-   "device": "gangbyeon",
-   "name": "4K Smart TV",
    "model": "Treeview 4K AI Smart TV"
   },
   {
    "device": "pioneer",
    "name": "4K Smart TV",
    "model": "4K SA Smart TV"
-  },
-  {
-   "device": "pioneer",
-   "name": "4K Smart TV",
-   "model": "DAEWOO 4K SA Smart TV"
   },
   {
    "device": "RCT6673W23M",
@@ -125647,11 +125687,6 @@
    "model": "2K SA Smart TV"
   },
   {
-   "device": "mateo",
-   "name": "Smart TV",
-   "model": "DAEWOO 2K SA Smart TV"
-  },
-  {
    "device": "osaki",
    "name": "Smart TV",
    "model": "2K AI Smart TV"
@@ -125660,11 +125695,6 @@
    "device": "osaki",
    "name": "Smart TV",
    "model": "Treeview 2K AI Smart TV"
-  },
-  {
-   "device": "osaki",
-   "name": "Smart TV",
-   "model": "UNICO 2K AI Smart TV"
   },
   {
    "device": "ueno",
@@ -126824,6 +126854,26 @@
    "model": "22041219I"
   },
   {
+   "device": "aether",
+   "name": "Redmi 12C",
+   "model": "22126RN91Y"
+  },
+  {
+   "device": "earth",
+   "name": "Redmi 12C",
+   "model": "22120RN86G"
+  },
+  {
+   "device": "earth",
+   "name": "Redmi 12C",
+   "model": "22120RN86I"
+  },
+  {
+   "device": "earth",
+   "name": "Redmi 12C",
+   "model": "2212ARNC4L"
+  },
+  {
    "device": "cereus",
    "name": "Redmi 6",
    "model": "Redmi 6"
@@ -126997,6 +127047,16 @@
    "device": "snow",
    "name": "Redmi A1+",
    "model": "220743FI"
+  },
+  {
+   "device": "cloud",
+   "name": "Redmi A2",
+   "model": "23026RN54G"
+  },
+  {
+   "device": "cloud",
+   "name": "Redmi A2",
+   "model": "23028RN4DG"
   },
   {
    "device": "davinci",
@@ -145486,11 +145546,6 @@
    "model": "4K Smart TV"
   },
   {
-   "device": "gangbyeon",
-   "name": "4K Smart TV",
-   "model": "imiia 4K AI Smart TV"
-  },
-  {
    "device": "kanda",
    "name": "Smart TV",
    "model": "2K Smart TV"
@@ -157379,11 +157434,6 @@
    "model": "9132G"
   },
   {
-   "device": "Luna",
-   "name": "TCL TAB 8",
-   "model": "9132X"
-  },
-  {
    "device": "Apollo_8_4G",
    "name": "TCL TAB 8 4G",
    "model": "9032X"
@@ -157392,6 +157442,11 @@
    "device": "Luna_8_4G_TMO",
    "name": "TCL TAB 8 LE",
    "model": "9137W"
+  },
+  {
+   "device": "Luna",
+   "name": "TCL TAB 8 Wi-Fi",
+   "model": "9132X"
   },
   {
    "device": "Thor_8_4G_VZW",
@@ -170920,6 +170975,13 @@
    "device": "U2",
    "name": "U2",
    "model": "U2"
+  }
+ ],
+ "UNICO": [
+  {
+   "device": "osaki",
+   "name": "Smart TV",
+   "model": "UNICO 2K AI Smart TV"
   }
  ],
  "UNILORIN": [
@@ -190335,6 +190397,26 @@
    "model": "NX709S"
   },
   {
+   "device": "NX709S-EEA",
+   "name": "NX709S",
+   "model": "NX709S"
+  },
+  {
+   "device": "NX709S-UN",
+   "name": "NX709S",
+   "model": "NX709S"
+  },
+  {
+   "device": "PQ82A01",
+   "name": "NX711J",
+   "model": "NX711J"
+  },
+  {
+   "device": "NX729J-EEA",
+   "name": "NX729J",
+   "model": "NX729J"
+  },
+  {
    "device": "NX729J-UN",
    "name": "NX729J",
    "model": "NX729J"
@@ -190358,6 +190440,11 @@
    "device": "P963F05",
    "name": "Nubia 8011",
    "model": "Nubia 8011"
+  },
+  {
+   "device": "P963F06",
+   "name": "Nubia 8031",
+   "model": "Nubia 8031"
   },
   {
    "device": "P731F50",
@@ -192270,6 +192357,11 @@
    "model": "VFD 520"
   },
   {
+   "device": "Z6201",
+   "name": "Verve Connect",
+   "model": "Z6103"
+  },
+  {
    "device": "proline",
    "name": "Vesta",
    "model": "Z965"
@@ -192960,6 +193052,11 @@
    "model": "ZTE 8046"
   },
   {
+   "device": "P633F10",
+   "name": "ZTE 8140N",
+   "model": "ZTE 8140N"
+  },
+  {
    "device": "P618F05",
    "name": "ZTE 9030",
    "model": "ZTE 9030"
@@ -193118,6 +193215,11 @@
    "device": "P618A03",
    "name": "ZTE A2121L",
    "model": "ZTE A2121L"
+  },
+  {
+   "device": "P768A02",
+   "name": "ZTE A2122H",
+   "model": "ZTE A2122H"
   },
   {
    "device": "P870A01",
@@ -193585,6 +193687,11 @@
    "model": "ZTE Blade A31 Lite"
   },
   {
+   "device": "P932F21_A",
+   "name": "ZTE Blade A31 Lite",
+   "model": "ZTE Blade A31 Lite"
+  },
+  {
    "device": "P932F21",
    "name": "ZTE Blade A31 Lite RU",
    "model": "ZTE Blade A31 Lite RU"
@@ -193613,6 +193720,26 @@
    "device": "P963F90W",
    "name": "ZTE Blade A32",
    "model": "ZTE Blade A32"
+  },
+  {
+   "device": "P932F22",
+   "name": "ZTE Blade A33",
+   "model": "ZTE Blade A33"
+  },
+  {
+   "device": "P932F23",
+   "name": "ZTE Blade A33 Core",
+   "model": "ZTE Blade A33 Core"
+  },
+  {
+   "device": "P963F91",
+   "name": "ZTE Blade A33+",
+   "model": "ZTE Blade A33+"
+  },
+  {
+   "device": "P963F92",
+   "name": "ZTE Blade A33+ Core",
+   "model": "ZTE Blade A33+ Core"
   },
   {
    "device": "Z5157",
@@ -193720,6 +193847,11 @@
    "model": "ZTE Blade A52RU"
   },
   {
+   "device": "P963F62",
+   "name": "ZTE Blade A53",
+   "model": "ZTE Blade A53"
+  },
+  {
    "device": "P932F10",
    "name": "ZTE Blade A531",
    "model": "ZTE Blade A531"
@@ -193808,6 +193940,11 @@
    "device": "P731F50",
    "name": "ZTE Blade L210RU",
    "model": "ZTE Blade L210RU"
+  },
+  {
+   "device": "P731F60",
+   "name": "ZTE Blade L220",
+   "model": "ZTE Blade L220"
   },
   {
    "device": "P172A40",
@@ -197526,6 +197663,13 @@
    "model": "MISA"
   }
  ],
+ "iMACHINE": [
+  {
+   "device": "MobilePOSTerminal",
+   "name": "MobilePOSTerminal",
+   "model": "AP12"
+  }
+ ],
  "iMin": [
   {
    "device": "I22T01",
@@ -198162,6 +198306,11 @@
   }
  ],
  "imiia": [
+  {
+   "device": "gangbyeon",
+   "name": "4K Smart TV",
+   "model": "imiia 4K AI Smart TV"
+  },
   {
    "device": "pioneer",
    "name": "4K Smart TV",
