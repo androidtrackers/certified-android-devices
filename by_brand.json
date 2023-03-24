@@ -16532,6 +16532,11 @@
    "model": "BV5300"
   },
   {
+   "device": "BV5300_Pro",
+   "name": "BV5300 Pro",
+   "model": "BV5300 Pro"
+  },
+  {
    "device": "BV5500",
    "name": "BV5500",
    "model": "BV5500"
@@ -37701,6 +37706,13 @@
    "device": "S9",
    "name": "S9",
    "model": "S9"
+  }
+ ],
+ "FOSSiBOT": [
+  {
+   "device": "F101",
+   "name": "F101",
+   "model": "F101"
   }
  ],
  "FOXXD": [
@@ -105725,11 +105737,6 @@
    "model": "LaVieTab PC-TE510S1"
   },
   {
-   "device": "LAVIET77SD1",
-   "name": "Lenovo Tab M7 3rd Gen",
-   "model": "LAVIE T7 7SD1"
-  },
-  {
    "device": "LTB013",
    "name": "LifeTouch B",
    "model": "D000-000013-101"
@@ -106068,6 +106075,11 @@
    "device": "LaVieTab",
    "name": "PC-TE510N1B",
    "model": "LaVieTab PC-TE510N1B"
+  },
+  {
+   "device": "LAVIET77SD1",
+   "name": "Tab M7 3rd Gen",
+   "model": "LAVIE T7 7SD1"
   }
  ],
  "NELATECH": [
@@ -109382,6 +109394,11 @@
    "model": "N5005L"
   },
   {
+   "device": "N5005LA_F",
+   "name": "Tab 5",
+   "model": "N5005L"
+  },
+  {
    "device": "T0801LAV1",
    "name": "Tab 8",
    "model": "T0801L"
@@ -109390,6 +109407,11 @@
    "device": "T0801LAV2",
    "name": "Tab 8",
    "model": "T0801L"
+  },
+  {
+   "device": "T0801LAV2",
+   "name": "Tab 8",
+   "model": "T0802L"
   },
   {
    "device": "X4",
@@ -110027,6 +110049,16 @@
    "device": "S60Pro",
    "name": "S60Pro",
    "model": "S60Pro"
+  },
+  {
+   "device": "S70",
+   "name": "S70",
+   "model": "S70"
+  },
+  {
+   "device": "S70_Pro",
+   "name": "S70 Pro",
+   "model": "S70 Pro"
   },
   {
    "device": "S80",
@@ -155484,6 +155516,11 @@
  "SuperLead": [
   {
    "device": "P3S",
+   "name": "P3S",
+   "model": "P3S"
+  },
+  {
+   "device": "P3S",
    "name": "P3S_EEA",
    "model": "P3S"
   },
@@ -165943,6 +165980,11 @@
    "model": "M40 Pro_EEA"
   },
   {
+   "device": "M40Pro_T",
+   "name": "M40 Pro_EEA",
+   "model": "M40 Pro_EEA"
+  },
+  {
    "device": "M40Pro_A_ROW",
    "name": "M40 Pro_ROW",
    "model": "M40 Pro_ROW"
@@ -166226,6 +166268,11 @@
    "device": "P40HD_EEA",
    "name": "P40HD_EEA",
    "model": "P40HD"
+  },
+  {
+   "device": "P40HD_T",
+   "name": "P40HD_EEA",
+   "model": "P40HD_EEA"
   },
   {
    "device": "P40HD_ROW",
@@ -166526,6 +166573,11 @@
    "device": "T50_2022_RUS",
    "name": "T50_2022_RUS",
    "model": "T50_RUS"
+  },
+  {
+   "device": "T50_T",
+   "name": "T50_EEA",
+   "model": "T50_EEA"
   },
   {
    "device": "T50_T",
@@ -168315,6 +168367,11 @@
    "device": "TECNO-Mobile-BF7n",
    "name": "SPARK Go 2023",
    "model": "TECNO Mobile BF7n"
+  },
+  {
+   "device": "TECNO-Mobile-KI5q",
+   "name": "TECNO SPARK 10",
+   "model": "TECNO Mobile KI5q"
   }
  ],
  "Tecnomaster": [
@@ -168349,6 +168406,11 @@
    "device": "TokyoPro",
    "name": "TECTOY ON 128GB",
    "model": "TECTOY_5029Y"
+  },
+  {
+   "device": "TT1000",
+   "name": "TT1000",
+   "model": "TT1000"
   }
  ],
  "Teeno": [
@@ -178342,6 +178404,21 @@
    "model": "I2207"
   },
   {
+   "device": "I2213",
+   "name": "iQOO Z7 5G",
+   "model": "I2213"
+  },
+  {
+   "device": "PD2272",
+   "name": "iQOO Z7x",
+   "model": "V2272A"
+  },
+  {
+   "device": "PD2272",
+   "name": "iQOO Z7x (m)",
+   "model": "V2272A"
+  },
+  {
    "device": "1907",
    "name": "vivo  1907",
    "model": "vivo 1907"
@@ -186817,11 +186894,6 @@
    "model": "ZTE N790S"
   },
   {
-   "device": "enterprise",
-   "name": "",
-   "model": "ZTE U5"
-  },
-  {
    "device": "enterprise_HK",
    "name": "",
    "model": "ZTE Grand Era"
@@ -186845,11 +186917,6 @@
    "device": "frosty",
    "name": "",
    "model": "ZTE T82"
-  },
-  {
-   "device": "hct77_ics2",
-   "name": "",
-   "model": "V865M"
   },
   {
    "device": "hope",
@@ -187497,6 +187564,11 @@
    "model": "ZTE Blade V220"
   },
   {
+   "device": "K82",
+   "name": "Avid Slate",
+   "model": "K82"
+  },
+  {
    "device": "P855A21",
    "name": "Axon 10 Pro 5G",
    "model": "ZTE A2020N2 Pro"
@@ -187655,6 +187727,11 @@
    "device": "skate",
    "name": "BASE Lutea 2",
    "model": "BASE Lutea 2"
+  },
+  {
+   "device": "BBC100_1",
+   "name": "BBC100-1",
+   "model": "BBC100-1"
   },
   {
    "device": "ZTE_Blade_V580",
@@ -189377,6 +189454,11 @@
    "model": "Z718TL"
   },
   {
+   "device": "crane-zte7",
+   "name": "K75",
+   "model": "K75"
+  },
+  {
    "device": "helen",
    "name": "K81",
    "model": "K81"
@@ -190285,6 +190367,16 @@
    "device": "NX606J",
    "name": "NX606J",
    "model": "NX606J"
+  },
+  {
+   "device": "NX607J",
+   "name": "NX607J",
+   "model": "NX607J"
+  },
+  {
+   "device": "NX608J",
+   "name": "NX608J",
+   "model": "NX608J"
   },
   {
    "device": "NX609J",
@@ -192072,6 +192164,11 @@
    "model": "ZTE-V856"
   },
   {
+   "device": "hct77_ics2",
+   "name": "V865M",
+   "model": "V865M"
+  },
+  {
    "device": "hct77_jb",
    "name": "V865M",
    "model": "V865M"
@@ -192375,6 +192472,11 @@
    "device": "turies",
    "name": "Vodafone Smart Chat",
    "model": "Vodafone Smart Chat"
+  },
+  {
+   "device": "VFD820",
+   "name": "Vodafone Smart X9",
+   "model": "VFD 820"
   },
   {
    "device": "VFD822",
@@ -193442,6 +193544,11 @@
    "model": "ZTE BLADE A321"
   },
   {
+   "device": "P809V52",
+   "name": "ZTE BLADE A322",
+   "model": "ZTE BLADE A322"
+  },
+  {
    "device": "P809F30",
    "name": "ZTE BLADE A330",
    "model": "ZTE BLADE A330"
@@ -194075,6 +194182,11 @@
    "device": "grayjoylite",
    "name": "ZTE Tempo X",
    "model": "N9137"
+  },
+  {
+   "device": "enterprise",
+   "name": "ZTE U5",
+   "model": "ZTE U5"
   },
   {
    "device": "P817S01",

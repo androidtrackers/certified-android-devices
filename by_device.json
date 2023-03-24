@@ -12955,6 +12955,11 @@
    "model": "S70"
   },
   {
+   "brand": "OSCAL",
+   "name": "S70",
+   "model": "S70"
+  },
+  {
    "brand": "Premio",
    "name": "S70",
    "model": "S70"
@@ -28628,6 +28633,13 @@
    "brand": "Blackview",
    "name": "BV5300",
    "model": "BV5300"
+  }
+ ],
+ "BV5300_Pro": [
+  {
+   "brand": "Blackview",
+   "name": "BV5300 Pro",
+   "model": "BV5300 Pro"
   }
  ],
  "BV5500": [
@@ -57674,6 +57686,18 @@
    "model": "S9"
   }
  ],
+ "F101": [
+  {
+   "brand": "FOSSiBOT",
+   "name": "F101",
+   "model": "F101"
+  },
+  {
+   "brand": "Nanho",
+   "name": "F101",
+   "model": "F101"
+  }
+ ],
  "A5Pro": [
   {
    "brand": "FOXXD",
@@ -63816,6 +63840,11 @@
    "brand": "Gigabyte",
    "name": "TECNO P3S",
    "model": "TECNO P3S"
+  },
+  {
+   "brand": "SuperLead",
+   "name": "P3S",
+   "model": "P3S"
   },
   {
    "brand": "SuperLead",
@@ -140111,13 +140140,6 @@
    "model": "LaVieTab PC-TE510S1"
   }
  ],
- "LAVIET77SD1": [
-  {
-   "brand": "NEC",
-   "name": "Lenovo Tab M7 3rd Gen",
-   "model": "LAVIE T7 7SD1"
-  }
- ],
  "LTB013": [
   {
    "brand": "NEC",
@@ -140536,6 +140558,13 @@
    "brand": "NEC",
    "name": "PC-TE510N1B",
    "model": "LaVieTab PC-TE510N1B"
+  }
+ ],
+ "LAVIET77SD1": [
+  {
+   "brand": "NEC",
+   "name": "Tab M7 3rd Gen",
+   "model": "LAVIE T7 7SD1"
   }
  ],
  "TAB8V1": [
@@ -141386,13 +141415,6 @@
    "brand": "Nabi",
    "name": "Fisher Price Learning Tablet",
    "model": "NBFP07PMKG"
-  }
- ],
- "F101": [
-  {
-   "brand": "Nanho",
-   "name": "F101",
-   "model": "F101"
   }
  ],
  "nuvola": [
@@ -144463,6 +144485,13 @@
    "model": "N5005L"
   }
  ],
+ "N5005LA_F": [
+  {
+   "brand": "Nuu",
+   "name": "Tab 5",
+   "model": "N5005L"
+  }
+ ],
  "T0801LAV1": [
   {
    "brand": "Nuu",
@@ -144475,6 +144504,11 @@
    "brand": "Nuu",
    "name": "Tab 8",
    "model": "T0801L"
+  },
+  {
+   "brand": "Nuu",
+   "name": "Tab 8",
+   "model": "T0802L"
   }
  ],
  "NUU_X5": [
@@ -145065,6 +145099,13 @@
    "brand": "OSCAL",
    "name": "S60Pro",
    "model": "S60Pro"
+  }
+ ],
+ "S70_Pro": [
+  {
+   "brand": "OSCAL",
+   "name": "S70 Pro",
+   "model": "S70 Pro"
   }
  ],
  "BM57_lite": [
@@ -211416,14 +211457,19 @@
    "model": "M40 Pro_EEA"
   }
  ],
- "M40Pro_A_ROW": [
+ "M40Pro_T": [
+  {
+   "brand": "Teclast",
+   "name": "M40 Pro_EEA",
+   "model": "M40 Pro_EEA"
+  },
   {
    "brand": "Teclast",
    "name": "M40 Pro_ROW",
    "model": "M40 Pro_ROW"
   }
  ],
- "M40Pro_T": [
+ "M40Pro_A_ROW": [
   {
    "brand": "Teclast",
    "name": "M40 Pro_ROW",
@@ -211800,18 +211846,23 @@
    "model": "P40HD"
   }
  ],
+ "P40HD_T": [
+  {
+   "brand": "Teclast",
+   "name": "P40HD_EEA",
+   "model": "P40HD_EEA"
+  },
+  {
+   "brand": "Teclast",
+   "name": "P40HD_ROW",
+   "model": "P40HD_ROW"
+  }
+ ],
  "P40HD_ROW": [
   {
    "brand": "Teclast",
    "name": "P40HD_ROW",
    "model": "P40HD"
-  }
- ],
- "P40HD_T": [
-  {
-   "brand": "Teclast",
-   "name": "P40HD_ROW",
-   "model": "P40HD_ROW"
   }
  ],
  "P40HD_RUS": [
@@ -212173,6 +212224,11 @@
   }
  ],
  "T50_T": [
+  {
+   "brand": "Teclast",
+   "name": "T50_EEA",
+   "model": "T50_EEA"
+  },
   {
    "brand": "Teclast",
    "name": "T50_ROW",
@@ -214526,6 +214582,13 @@
    "model": "TECNO Mobile BF7n"
   }
  ],
+ "TECNO-Mobile-KI5q": [
+  {
+   "brand": "Tecno Mobile",
+   "name": "TECNO SPARK 10",
+   "model": "TECNO Mobile KI5q"
+  }
+ ],
  "EDT800": [
   {
    "brand": "Tecnomaster",
@@ -214545,6 +214608,13 @@
    "brand": "Tecnomaster",
    "name": "TESHM8863",
    "model": "TESHM8863"
+  }
+ ],
+ "TT1000": [
+  {
+   "brand": "Tectoy",
+   "name": "TT1000",
+   "model": "TT1000"
   }
  ],
  "A1_EEA": [
@@ -225960,6 +226030,25 @@
    "model": "I2207"
   }
  ],
+ "I2213": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Z7 5G",
+   "model": "I2213"
+  }
+ ],
+ "PD2272": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Z7x",
+   "model": "V2272A"
+  },
+  {
+   "brand": "Vivo",
+   "name": "iQOO Z7x (m)",
+   "model": "V2272A"
+  }
+ ],
  "1907": [
   {
    "brand": "Vivo",
@@ -227128,6 +227217,11 @@
  "VFD820": [
   {
    "brand": "Vodafone",
+   "name": "Vodafone Smart X9",
+   "model": "VFD 820"
+  },
+  {
+   "brand": "ZTE",
    "name": "Vodafone Smart X9",
    "model": "VFD 820"
   }
@@ -235799,6 +235893,11 @@
    "brand": "ZTE",
    "name": "",
    "model": "K75"
+  },
+  {
+   "brand": "ZTE",
+   "name": "K75",
+   "model": "K75"
   }
  ],
  "dana": [
@@ -235838,13 +235937,6 @@
    "brand": "ZTE",
    "name": "Switch X1",
    "model": "ZTE V796"
-  }
- ],
- "enterprise": [
-  {
-   "brand": "ZTE",
-   "name": "",
-   "model": "ZTE U5"
   }
  ],
  "enterprise_HK": [
@@ -235890,13 +235982,6 @@
    "brand": "ZTE",
    "name": "T82",
    "model": "ZTE T82"
-  }
- ],
- "hct77_ics2": [
-  {
-   "brand": "ZTE",
-   "name": "",
-   "model": "V865M"
   }
  ],
  "hope": [
@@ -236830,6 +236915,13 @@
    "model": "Andromax G46D1Z"
   }
  ],
+ "K82": [
+  {
+   "brand": "ZTE",
+   "name": "Avid Slate",
+   "model": "K82"
+  }
+ ],
  "P855A21": [
   {
    "brand": "ZTE",
@@ -237024,6 +237116,13 @@
    "brand": "ZTE",
    "name": "BA910T",
    "model": "ZTE BA910T"
+  }
+ ],
+ "BBC100_1": [
+  {
+   "brand": "ZTE",
+   "name": "BBC100-1",
+   "model": "BBC100-1"
   }
  ],
  "ZTE_Blade_V580": [
@@ -240078,6 +240177,20 @@
    "model": "NX606J"
   }
  ],
+ "NX607J": [
+  {
+   "brand": "ZTE",
+   "name": "NX607J",
+   "model": "NX607J"
+  }
+ ],
+ "NX608J": [
+  {
+   "brand": "ZTE",
+   "name": "NX608J",
+   "model": "NX608J"
+  }
+ ],
  "NX609J": [
   {
    "brand": "ZTE",
@@ -241800,6 +241913,13 @@
    "model": "ZTE-V856"
   }
  ],
+ "hct77_ics2": [
+  {
+   "brand": "ZTE",
+   "name": "V865M",
+   "model": "V865M"
+  }
+ ],
  "hct77_jb": [
   {
    "brand": "ZTE",
@@ -243218,6 +243338,13 @@
    "model": "ZTE Blade A3 Lite"
   }
  ],
+ "P809V52": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE BLADE A322",
+   "model": "ZTE BLADE A322"
+  }
+ ],
  "P809F30": [
   {
    "brand": "ZTE",
@@ -243661,6 +243788,13 @@
    "brand": "ZTE",
    "name": "ZTE Tempo X",
    "model": "N9137"
+  }
+ ],
+ "enterprise": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE U5",
+   "model": "ZTE U5"
   }
  ],
  "P817S01": [
