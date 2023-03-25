@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-03-24
+Last sync is 2023-03-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -36295,7 +36295,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE||P117A13|ZTE U807N|
 |ZTE||P117A20qHD|ZTE U817|
 |ZTE||P117A30|ZTE U935|
-|ZTE||P117T21|ZTE U960E|
 |ZTE||P188T10|ZTE U956|
 |ZTE||P188T20|ZTE U819|
 |ZTE||P253A20|ZTE V768|
@@ -37857,6 +37856,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE T0801|P876T01J|ZTE T0801|
 |ZTE|ZTE Tempo X|grayjoylite|N9137|
 |ZTE|ZTE U5|enterprise|ZTE U5|
+|ZTE|ZTE U960E|P117T21|ZTE U960E|
 |ZTE|ZTE V0840|P817S01|ZTE V0840|
 |ZTE|ZTE V0920|P840S03|ZTE V0920|
 |ZTE|ZTE V1000|P671S20|ZTE V1000|

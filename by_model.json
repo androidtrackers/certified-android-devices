@@ -244333,13 +244333,6 @@
    "device": "P117A30"
   }
  ],
- "ZTE U960E": [
-  {
-   "brand": "ZTE",
-   "name": "",
-   "device": "P117T21"
-  }
- ],
  "ZTE U956": [
   {
    "brand": "ZTE",
@@ -254685,6 +254678,13 @@
    "brand": "ZTE",
    "name": "ZTE U5",
    "device": "enterprise"
+  }
+ ],
+ "ZTE U960E": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE U960E",
+   "device": "P117T21"
   }
  ],
  "ZTE V0840": [

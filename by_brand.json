@@ -186379,11 +186379,6 @@
    "model": "ZTE U935"
   },
   {
-   "device": "P117T21",
-   "name": "",
-   "model": "ZTE U960E"
-  },
-  {
    "device": "P188T10",
    "name": "",
    "model": "ZTE U956"
@@ -194187,6 +194182,11 @@
    "device": "enterprise",
    "name": "ZTE U5",
    "model": "ZTE U5"
+  },
+  {
+   "device": "P117T21",
+   "name": "ZTE U960E",
+   "model": "ZTE U960E"
   },
   {
    "device": "P817S01",

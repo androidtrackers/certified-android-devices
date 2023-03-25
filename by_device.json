@@ -234986,13 +234986,6 @@
    "model": "ZTE U935"
   }
  ],
- "P117T21": [
-  {
-   "brand": "ZTE",
-   "name": "",
-   "model": "ZTE U960E"
-  }
- ],
  "P188T10": [
   {
    "brand": "ZTE",
@@ -243795,6 +243788,13 @@
    "brand": "ZTE",
    "name": "ZTE U5",
    "model": "ZTE U5"
+  }
+ ],
+ "P117T21": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE U960E",
+   "model": "ZTE U960E"
   }
  ],
  "P817S01": [
