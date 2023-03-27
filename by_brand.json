@@ -178799,6 +178799,11 @@
    "model": "V2199GA"
   },
   {
+   "device": "PD2256",
+   "name": "vivo X Flip",
+   "model": "V2256A"
+  },
+  {
    "device": "PD2178",
    "name": "vivo X Fold",
    "model": "V2178A"
@@ -186379,16 +186384,6 @@
    "model": "ZTE U935"
   },
   {
-   "device": "P188T10",
-   "name": "",
-   "model": "ZTE U956"
-  },
-  {
-   "device": "P188T20",
-   "name": "",
-   "model": "ZTE U819"
-  },
-  {
    "device": "P253A20",
    "name": "",
    "model": "ZTE V768"
@@ -186454,34 +186449,9 @@
    "model": "ZTE U880s2"
   },
   {
-   "device": "P810A20",
-   "name": "",
-   "model": "ZTE U887"
-  },
-  {
-   "device": "P810T01",
-   "name": "",
-   "model": "ZTE U791"
-  },
-  {
-   "device": "P810T01",
-   "name": "",
-   "model": "ZTE U791(OPEN)"
-  },
-  {
    "device": "P810T02",
    "name": "",
    "model": "ZTE U793"
-  },
-  {
-   "device": "P825T10",
-   "name": "",
-   "model": "ZTE U808"
-  },
-  {
-   "device": "P825T10",
-   "name": "",
-   "model": "ZTE U808(OPEN)"
   },
   {
    "device": "QB7211",
@@ -186492,11 +186462,6 @@
    "device": "QB7211",
    "name": "",
    "model": "STARTEXT II"
-  },
-  {
-   "device": "T77",
-   "name": "",
-   "model": "T77"
   },
   {
    "device": "T9",
@@ -191369,6 +191334,11 @@
    "model": "ZTE T760"
   },
   {
+   "device": "T77",
+   "name": "T77",
+   "model": "T77"
+  },
+  {
    "device": "roamer2",
    "name": "T790",
    "model": "ZTE T790"
@@ -193489,6 +193459,11 @@
    "model": "ZTE A2022PG"
   },
   {
+   "device": "msm8952_64",
+   "name": "ZTE B2017",
+   "model": "ZTE B2017"
+  },
+  {
    "device": "P809F15",
    "name": "ZTE BLADE A0605",
    "model": "ZTE BLADE A0605"
@@ -193765,6 +193740,11 @@
   },
   {
    "device": "P932F50",
+   "name": "ZTE Blade A3 2020",
+   "model": "ZTE Blade A3 2020"
+  },
+  {
+   "device": "P932K30",
    "name": "ZTE Blade A3 2020",
    "model": "ZTE Blade A3 2020"
   },
@@ -194159,6 +194139,11 @@
    "model": "ZTE C2017"
   },
   {
+   "device": "ZTE_E7LS",
+   "name": "ZTE E7LS",
+   "model": "ZTE E7LS"
+  },
+  {
    "device": "kelly",
    "name": "ZTE Fanfare 3",
    "model": "Z852"
@@ -194182,6 +194167,41 @@
    "device": "enterprise",
    "name": "ZTE U5",
    "model": "ZTE U5"
+  },
+  {
+   "device": "P810T01",
+   "name": "ZTE U791",
+   "model": "ZTE U791"
+  },
+  {
+   "device": "P810T01",
+   "name": "ZTE U791",
+   "model": "ZTE U791(OPEN)"
+  },
+  {
+   "device": "P825T10",
+   "name": "ZTE U808",
+   "model": "ZTE U808"
+  },
+  {
+   "device": "P825T10",
+   "name": "ZTE U808",
+   "model": "ZTE U808(OPEN)"
+  },
+  {
+   "device": "P188T20",
+   "name": "ZTE U819",
+   "model": "ZTE U819"
+  },
+  {
+   "device": "P810A20",
+   "name": "ZTE U887",
+   "model": "ZTE U887"
+  },
+  {
+   "device": "P188T10",
+   "name": "ZTE U956",
+   "model": "ZTE U956"
   },
   {
    "device": "P117T21",

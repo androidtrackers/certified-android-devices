@@ -235311,6 +235311,13 @@
    "device": "PD2199"
   }
  ],
+ "V2256A": [
+  {
+   "brand": "Vivo",
+   "name": "vivo X Flip",
+   "device": "PD2256"
+  }
+ ],
  "V2178A": [
   {
    "brand": "Vivo",
@@ -244333,20 +244340,6 @@
    "device": "P117A30"
   }
  ],
- "ZTE U956": [
-  {
-   "brand": "ZTE",
-   "name": "",
-   "device": "P188T10"
-  }
- ],
- "ZTE U819": [
-  {
-   "brand": "ZTE",
-   "name": "",
-   "device": "P188T20"
-  }
- ],
  "ZTE V768": [
   {
    "brand": "ZTE",
@@ -244469,46 +244462,11 @@
    "device": "P810A10"
   }
  ],
- "ZTE U887": [
-  {
-   "brand": "ZTE",
-   "name": "",
-   "device": "P810A20"
-  }
- ],
- "ZTE U791": [
-  {
-   "brand": "ZTE",
-   "name": "",
-   "device": "P810T01"
-  }
- ],
- "ZTE U791(OPEN)": [
-  {
-   "brand": "ZTE",
-   "name": "",
-   "device": "P810T01"
-  }
- ],
  "ZTE U793": [
   {
    "brand": "ZTE",
    "name": "",
    "device": "P810T02"
-  }
- ],
- "ZTE U808": [
-  {
-   "brand": "ZTE",
-   "name": "",
-   "device": "P825T10"
-  }
- ],
- "ZTE U808(OPEN)": [
-  {
-   "brand": "ZTE",
-   "name": "",
-   "device": "P825T10"
   }
  ],
  "QB7211": [
@@ -244523,13 +244481,6 @@
    "brand": "ZTE",
    "name": "",
    "device": "QB7211"
-  }
- ],
- "T77": [
-  {
-   "brand": "ZTE",
-   "name": "",
-   "device": "T77"
   }
  ],
  "ZTE-T T9": [
@@ -251239,6 +251190,13 @@
    "device": "P173A10T"
   }
  ],
+ "T77": [
+  {
+   "brand": "ZTE",
+   "name": "T77",
+   "device": "T77"
+  }
+ ],
  "ZTE T790": [
   {
    "brand": "ZTE",
@@ -253928,6 +253886,13 @@
    "device": "P875A12"
   }
  ],
+ "ZTE B2017": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE B2017",
+   "device": "msm8952_64"
+  }
+ ],
  "ZTE BLADE A0605": [
   {
    "brand": "ZTE",
@@ -254185,6 +254150,11 @@
    "brand": "ZTE",
    "name": "ZTE Blade A3 2020",
    "device": "P932F50"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A3 2020",
+   "device": "P932K30"
   }
  ],
  "ZTE Blade A3 2020RU": [
@@ -254652,6 +254622,13 @@
    "device": "P963T02C"
   }
  ],
+ "ZTE E7LS": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE E7LS",
+   "device": "ZTE_E7LS"
+  }
+ ],
  "Z852": [
   {
    "brand": "ZTE",
@@ -254678,6 +254655,55 @@
    "brand": "ZTE",
    "name": "ZTE U5",
    "device": "enterprise"
+  }
+ ],
+ "ZTE U791": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE U791",
+   "device": "P810T01"
+  }
+ ],
+ "ZTE U791(OPEN)": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE U791",
+   "device": "P810T01"
+  }
+ ],
+ "ZTE U808": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE U808",
+   "device": "P825T10"
+  }
+ ],
+ "ZTE U808(OPEN)": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE U808",
+   "device": "P825T10"
+  }
+ ],
+ "ZTE U819": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE U819",
+   "device": "P188T20"
+  }
+ ],
+ "ZTE U887": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE U887",
+   "device": "P810A20"
+  }
+ ],
+ "ZTE U956": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE U956",
+   "device": "P188T10"
   }
  ],
  "ZTE U960E": [

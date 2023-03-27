@@ -4837,16 +4837,6 @@
   },
   {
    "brand": "ZTE",
-   "device": "P188T10",
-   "model": "ZTE U956"
-  },
-  {
-   "brand": "ZTE",
-   "device": "P188T20",
-   "model": "ZTE U819"
-  },
-  {
-   "brand": "ZTE",
    "device": "P253A20",
    "model": "ZTE V768"
   },
@@ -4912,33 +4902,8 @@
   },
   {
    "brand": "ZTE",
-   "device": "P810A20",
-   "model": "ZTE U887"
-  },
-  {
-   "brand": "ZTE",
-   "device": "P810T01",
-   "model": "ZTE U791"
-  },
-  {
-   "brand": "ZTE",
-   "device": "P810T01",
-   "model": "ZTE U791(OPEN)"
-  },
-  {
-   "brand": "ZTE",
    "device": "P810T02",
    "model": "ZTE U793"
-  },
-  {
-   "brand": "ZTE",
-   "device": "P825T10",
-   "model": "ZTE U808"
-  },
-  {
-   "brand": "ZTE",
-   "device": "P825T10",
-   "model": "ZTE U808(OPEN)"
   },
   {
    "brand": "ZTE",
@@ -4949,11 +4914,6 @@
    "brand": "ZTE",
    "device": "QB7211",
    "model": "STARTEXT II"
-  },
-  {
-   "brand": "ZTE",
-   "device": "T77",
-   "model": "T77"
   },
   {
    "brand": "ZTE",
@@ -224663,6 +224623,13 @@
    "model": "V2199GA"
   }
  ],
+ "vivo X Flip": [
+  {
+   "brand": "Vivo",
+   "device": "PD2256",
+   "model": "V2256A"
+  }
+ ],
  "vivo X Fold": [
   {
    "brand": "Vivo",
@@ -238021,6 +237988,13 @@
    "model": "ZTE T760"
   }
  ],
+ "T77": [
+  {
+   "brand": "ZTE",
+   "device": "T77",
+   "model": "T77"
+  }
+ ],
  "T790": [
   {
    "brand": "ZTE",
@@ -240549,6 +240523,13 @@
    "model": "ZTE A2022PG"
   }
  ],
+ "ZTE B2017": [
+  {
+   "brand": "ZTE",
+   "device": "msm8952_64",
+   "model": "ZTE B2017"
+  }
+ ],
  "ZTE BLADE A0605": [
   {
    "brand": "ZTE",
@@ -240916,6 +240897,11 @@
   {
    "brand": "ZTE",
    "device": "P932F50",
+   "model": "ZTE Blade A3 2020"
+  },
+  {
+   "brand": "ZTE",
+   "device": "P932K30",
    "model": "ZTE Blade A3 2020"
   }
  ],
@@ -241427,6 +241413,13 @@
    "model": "ZTE C2017"
   }
  ],
+ "ZTE E7LS": [
+  {
+   "brand": "ZTE",
+   "device": "ZTE_E7LS",
+   "model": "ZTE E7LS"
+  }
+ ],
  "ZTE Fanfare 3": [
   {
    "brand": "ZTE",
@@ -241460,6 +241453,51 @@
    "brand": "ZTE",
    "device": "enterprise",
    "model": "ZTE U5"
+  }
+ ],
+ "ZTE U791": [
+  {
+   "brand": "ZTE",
+   "device": "P810T01",
+   "model": "ZTE U791"
+  },
+  {
+   "brand": "ZTE",
+   "device": "P810T01",
+   "model": "ZTE U791(OPEN)"
+  }
+ ],
+ "ZTE U808": [
+  {
+   "brand": "ZTE",
+   "device": "P825T10",
+   "model": "ZTE U808"
+  },
+  {
+   "brand": "ZTE",
+   "device": "P825T10",
+   "model": "ZTE U808(OPEN)"
+  }
+ ],
+ "ZTE U819": [
+  {
+   "brand": "ZTE",
+   "device": "P188T20",
+   "model": "ZTE U819"
+  }
+ ],
+ "ZTE U887": [
+  {
+   "brand": "ZTE",
+   "device": "P810A20",
+   "model": "ZTE U887"
+  }
+ ],
+ "ZTE U956": [
+  {
+   "brand": "ZTE",
+   "device": "P188T10",
+   "model": "ZTE U956"
   }
  ],
  "ZTE U960E": [
