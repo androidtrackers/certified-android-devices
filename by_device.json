@@ -67495,6 +67495,13 @@
    "model": "S99i"
   }
  ],
+ "VSB3918_ALT_ME": [
+  {
+   "brand": "HOT (il)",
+   "name": "HOT ONE",
+   "model": "HOT ONE"
+  }
+ ],
  "DV8555-KIH": [
   {
    "brand": "HOT (il)",
@@ -124109,6 +124116,13 @@
    "model": "MEO TV Box 4K (DIW3930)"
   }
  ],
+ "DIW377-MEO": [
+  {
+   "brand": "MEO(Portugal)",
+   "name": "MEOBox 4K v2",
+   "model": "MEO TV Box 4K (DIW377)"
+  }
+ ],
  "TR10CS2_3": [
   {
    "brand": "MG Series",
@@ -134252,6 +134266,28 @@
    "brand": "Motorola",
    "name": "moto e40",
    "model": "moto e40"
+  }
+ ],
+ "hawaii": [
+  {
+   "brand": "Motorola",
+   "name": "Lenovo K15",
+   "model": "Hawaii"
+  },
+  {
+   "brand": "Motorola",
+   "name": "Lenovo K15",
+   "model": "Lenovo K15"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto e32",
+   "model": "Hawaii"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto e32",
+   "model": "moto e32"
   }
  ],
  "guam": [
@@ -180940,6 +180976,11 @@
   {
    "brand": "Samsung",
    "name": "Galaxy S23",
+   "model": "SM-S911C"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S23",
    "model": "SM-S911N"
   },
   {
@@ -194252,6 +194293,33 @@
    "brand": "Soda",
    "name": "soda",
    "model": "soda S1"
+  }
+ ],
+ "P809F10": [
+  {
+   "brand": "SoftBank",
+   "name": "602ZT",
+   "model": "602ZT"
+  },
+  {
+   "brand": "ZTE",
+   "name": "BLADE A521",
+   "model": "BLADE A521"
+  },
+  {
+   "brand": "ZTE",
+   "name": "BLADE A521",
+   "model": "ZTE BLADE A521"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE BLADE A520C",
+   "model": "ZTE BLADE A520C"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE BLADE A521",
+   "model": "ZTE BLADE A521"
   }
  ],
  "SOL07": [
@@ -225541,6 +225609,11 @@
    "brand": "Vivo",
    "name": "Y16",
    "model": "V2214"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y16",
+   "model": "V2305"
   }
  ],
  "V2239": [
@@ -226498,13 +226571,6 @@
    "brand": "Vivo",
    "name": "vivo S16 Pro",
    "model": "V2245A"
-  }
- ],
- "PD2256": [
-  {
-   "brand": "Vivo",
-   "name": "vivo X Flip",
-   "model": "V2256A"
   }
  ],
  "PD2178": [
@@ -237224,28 +237290,6 @@
    "model": "ZTE BLADE A520"
   }
  ],
- "P809F10": [
-  {
-   "brand": "ZTE",
-   "name": "BLADE A521",
-   "model": "BLADE A521"
-  },
-  {
-   "brand": "ZTE",
-   "name": "BLADE A521",
-   "model": "ZTE BLADE A521"
-  },
-  {
-   "brand": "ZTE",
-   "name": "ZTE BLADE A520C",
-   "model": "ZTE BLADE A520C"
-  },
-  {
-   "brand": "ZTE",
-   "name": "ZTE BLADE A521",
-   "model": "ZTE BLADE A521"
-  }
- ],
  "P639F10": [
   {
    "brand": "ZTE",
@@ -243553,6 +243597,11 @@
    "brand": "ZTE",
    "name": "ZTE Blade A53",
    "model": "ZTE Blade A53"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A53+",
+   "model": "ZTE Blade A53+"
   }
  ],
  "P932F10": [
@@ -243939,6 +243988,13 @@
    "brand": "ZTE",
    "name": "nubia Play",
    "model": "NX651J"
+  }
+ ],
+ "PQ82A11": [
+  {
+   "brand": "ZTE",
+   "name": "nubia Z50 Ultra",
+   "model": "NX712J"
   }
  ],
  "sapphire4g": [

@@ -45203,6 +45203,11 @@
  ],
  "HOT (il)": [
   {
+   "device": "VSB3918_ALT_ME",
+   "name": "HOT ONE",
+   "model": "HOT ONE"
+  },
+  {
    "device": "DV8555-KIH",
    "name": "HOT Streamer",
    "model": "HOT Streamer"
@@ -92681,6 +92686,11 @@
    "device": "DIW3930-MEO",
    "name": "MEOBox 4K",
    "model": "MEO TV Box 4K (DIW3930)"
+  },
+  {
+   "device": "DIW377-MEO",
+   "name": "MEOBox 4K v2",
+   "model": "MEO TV Box 4K (DIW377)"
   }
  ],
  "MG Series": [
@@ -100803,6 +100813,16 @@
    "model": "cyprus64"
   },
   {
+   "device": "hawaii",
+   "name": "Lenovo K15",
+   "model": "Hawaii"
+  },
+  {
+   "device": "hawaii",
+   "name": "Lenovo K15",
+   "model": "Lenovo K15"
+  },
+  {
    "device": "guam",
    "name": "Lenovo XT2081-4",
    "model": "Lenovo XT2081-4"
@@ -102111,6 +102131,16 @@
    "device": "cyprus",
    "name": "moto e30",
    "model": "moto e30"
+  },
+  {
+   "device": "hawaii",
+   "name": "moto e32",
+   "model": "Hawaii"
+  },
+  {
+   "device": "hawaii",
+   "name": "moto e32",
+   "model": "moto e32"
   },
   {
    "device": "cyprus64",
@@ -139891,6 +139921,11 @@
   {
    "device": "dm1q",
    "name": "Galaxy S23",
+   "model": "SM-S911C"
+  },
+  {
+   "device": "dm1q",
+   "name": "Galaxy S23",
    "model": "SM-S911N"
   },
   {
@@ -150571,6 +150606,13 @@
    "device": "soda_SW17W16",
    "name": "soda",
    "model": "soda S1"
+  }
+ ],
+ "SoftBank": [
+  {
+   "device": "P809F10",
+   "name": "602ZT",
+   "model": "602ZT"
   }
  ],
  "Solinftec": [
@@ -178049,6 +178091,11 @@
    "model": "V2214"
   },
   {
+   "device": "V2204",
+   "name": "Y16",
+   "model": "V2305"
+  },
+  {
    "device": "1902D",
    "name": "Y17",
    "model": "vivo 1902"
@@ -178797,11 +178844,6 @@
    "device": "PD2199",
    "name": "vivo T2",
    "model": "V2199GA"
-  },
-  {
-   "device": "PD2256",
-   "name": "vivo X Flip",
-   "model": "V2256A"
   },
   {
    "device": "PD2178",
@@ -193934,6 +193976,11 @@
    "model": "ZTE Blade A53"
   },
   {
+   "device": "P963F62",
+   "name": "ZTE Blade A53+",
+   "model": "ZTE Blade A53+"
+  },
+  {
    "device": "P932F10",
    "name": "ZTE Blade A531",
    "model": "ZTE Blade A531"
@@ -194352,6 +194399,11 @@
    "device": "NX501",
    "name": "nubia Z5",
    "model": "nubia Z5"
+  },
+  {
+   "device": "PQ82A11",
+   "name": "nubia Z50 Ultra",
+   "model": "NX712J"
   },
   {
    "device": "sapphire4g",

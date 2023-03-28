@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-03-27
+Last sync is 2023-03-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8693,6 +8693,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HOMTOM|c1|C1|C1|
 |HORIZON|EU|tamachi|HORIZON Android TV|
 |HORIZON|EU|yeongdeungpo|HORIZON Android TV|
+|HOT (il)|HOT ONE|VSB3918_ALT_ME|HOT ONE|
 |HOT (il)|HOT Streamer|DV8555-KIH|HOT Streamer|
 |HOTWIRE|Fision TV Plus|uiw4054hwc|Fision TV Plus|
 |HP|10|spruce|HP 10|
@@ -18035,6 +18036,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MEO(Portugal)|MEO TV Box 4K|DV8555-MEO|MEO TV Box 4K|
 |MEO(Portugal)|MEO TV Box 4K (DIW3930)|DIW3930-MEO|MEO TV Box 4K (DIW3930)|
 |MEO(Portugal)|MEOBox 4K|DIW3930-MEO|MEO TV Box 4K (DIW3930)|
+|MEO(Portugal)|MEOBox 4K v2|DIW377-MEO|MEO TV Box 4K (DIW377)|
 |MG Series|Any 302|TR10CS2_3|TR10CS2|
 |MG series|Any 302|TR10CS1_15|TR10CS1|
 |MG series|Any 302|TR10CS2_2|TR10CS2|
@@ -19605,6 +19607,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|Lenovo K14 Note|cofud|Lenovo K14 Note|
 |Motorola|Lenovo K14 Plus|cyprus64|Lenovo K14 Plus|
 |Motorola|Lenovo K14 Plus|cyprus64|cyprus64|
+|Motorola|Lenovo K15|hawaii|Hawaii|
+|Motorola|Lenovo K15|hawaii|Lenovo K15|
 |Motorola|Lenovo XT2081-4|guam|Lenovo XT2081-4|
 |Motorola|Lenovo XT2091-7|cebu|Lenovo XT2091-7|
 |Motorola|MOTOROLA|stanford|2K SMART TV|
@@ -19867,6 +19871,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto e20|aruba|moto e20|
 |Motorola|moto e30|cyprus|cyprus|
 |Motorola|moto e30|cyprus|moto e30|
+|Motorola|moto e32|hawaii|Hawaii|
+|Motorola|moto e32|hawaii|moto e32|
 |Motorola|moto e40|cyprus64|cyprus64|
 |Motorola|moto e40|cyprus64|moto e40|
 |Motorola|moto e5|nora|moto e5 (XT1920DL)|
@@ -27235,6 +27241,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S22+|g0s|SM-S906B|
 |Samsung|Galaxy S23|dm1q|SM-S9110|
 |Samsung|Galaxy S23|dm1q|SM-S911B|
+|Samsung|Galaxy S23|dm1q|SM-S911C|
 |Samsung|Galaxy S23|dm1q|SM-S911N|
 |Samsung|Galaxy S23|dm1q|SM-S911U|
 |Samsung|Galaxy S23|dm1q|SM-S911U1|
@@ -29341,6 +29348,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Soda|Note 12Pro|Note_12Pro|Note 12Pro|
 |Soda|s2|soda_CSW1802|soda S2|
 |Soda|soda|soda_SW17W16|soda S1|
+|SoftBank|602ZT|P809F10|602ZT|
 |Solinftec|SOL07|SOL07|SOL07|
 |Solone|E1457|E1457|E1457|
 |Solone|W1450|W1450|W1450|
@@ -34687,6 +34695,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y15S|Y15S|vivo Y15S|
 |Vivo|Y16|V2204|V2204|
 |Vivo|Y16|V2204|V2214|
+|Vivo|Y16|V2204|V2305|
 |Vivo|Y17|1902D|vivo 1902|
 |Vivo|Y21|Y21|vivo Y21|
 |Vivo|Y21A|2149|V2149|
@@ -34837,7 +34846,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo S16|PD2244|V2244A|
 |Vivo|vivo S16 Pro|PD2245|V2245A|
 |Vivo|vivo T2|PD2199|V2199GA|
-|Vivo|vivo X Flip|PD2256|V2256A|
 |Vivo|vivo X Fold|PD2178|V2178A|
 |Vivo|vivo X Fold+|PD2229|V2229A|
 |Vivo|vivo X Note|PD2170|V2170A|
@@ -37806,6 +37814,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A52RU|P963F61|ZTE Blade A52RU|
 |ZTE|ZTE Blade A52RU|P963F61_A|ZTE Blade A52RU|
 |ZTE|ZTE Blade A53|P963F62|ZTE Blade A53|
+|ZTE|ZTE Blade A53+|P963F62|ZTE Blade A53+|
 |ZTE|ZTE Blade A531|P932F10|ZTE Blade A531|
 |ZTE|ZTE Blade A7 2019|P963F02|ZTE Blade A7 2019|
 |ZTE|ZTE Blade A7 2019RU|P963F02|ZTE Blade A7 2019RU|
@@ -37890,6 +37899,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|nubia  Z30 Pro|P875N02|NX667J|
 |ZTE|nubia Play|NX651J|NX651J|
 |ZTE|nubia Z5|NX501|nubia Z5|
+|ZTE|nubia Z50 Ultra|PQ82A11|NX712J|
 |ZTE|sapphire lte|sapphire4g|Z3001S|
 |ZTE|tmn smart a15|atlas40|tmn smart a15|
 |ZTE|tmn smart a60|kiska|tmn smart a60|

@@ -71398,6 +71398,13 @@
    "model": "C1"
   }
  ],
+ "HOT ONE": [
+  {
+   "brand": "HOT (il)",
+   "device": "VSB3918_ALT_ME",
+   "model": "HOT ONE"
+  }
+ ],
  "HOT Streamer": [
   {
    "brand": "HOT (il)",
@@ -125166,6 +125173,13 @@
    "model": "MEO TV Box 4K (DIW3930)"
   }
  ],
+ "MEOBox 4K v2": [
+  {
+   "brand": "MEO(Portugal)",
+   "device": "DIW377-MEO",
+   "model": "MEO TV Box 4K (DIW377)"
+  }
+ ],
  "Any 302": [
   {
    "brand": "MG Series",
@@ -134475,6 +134489,18 @@
    "model": "cyprus64"
   }
  ],
+ "Lenovo K15": [
+  {
+   "brand": "Motorola",
+   "device": "hawaii",
+   "model": "Hawaii"
+  },
+  {
+   "brand": "Motorola",
+   "device": "hawaii",
+   "model": "Lenovo K15"
+  }
+ ],
  "Lenovo XT2081-4": [
   {
    "brand": "Motorola",
@@ -135957,6 +135983,18 @@
    "brand": "Motorola",
    "device": "cyprus",
    "model": "moto e30"
+  }
+ ],
+ "moto e32": [
+  {
+   "brand": "Motorola",
+   "device": "hawaii",
+   "model": "Hawaii"
+  },
+  {
+   "brand": "Motorola",
+   "device": "hawaii",
+   "model": "moto e32"
   }
  ],
  "moto e40": [
@@ -180121,6 +180159,11 @@
   {
    "brand": "Samsung",
    "device": "dm1q",
+   "model": "SM-S911C"
+  },
+  {
+   "brand": "Samsung",
+   "device": "dm1q",
    "model": "SM-S911N"
   },
   {
@@ -192453,6 +192496,13 @@
    "brand": "Soda",
    "device": "soda_SW17W16",
    "model": "soda S1"
+  }
+ ],
+ "602ZT": [
+  {
+   "brand": "SoftBank",
+   "device": "P809F10",
+   "model": "602ZT"
   }
  ],
  "SOL07": [
@@ -223619,6 +223669,11 @@
    "brand": "Vivo",
    "device": "V2204",
    "model": "V2214"
+  },
+  {
+   "brand": "Vivo",
+   "device": "V2204",
+   "model": "V2305"
   }
  ],
  "Y17": [
@@ -224621,13 +224676,6 @@
    "brand": "Vivo",
    "device": "PD2199",
    "model": "V2199GA"
-  }
- ],
- "vivo X Flip": [
-  {
-   "brand": "Vivo",
-   "device": "PD2256",
-   "model": "V2256A"
   }
  ],
  "vivo X Fold": [
@@ -241144,6 +241192,13 @@
    "model": "ZTE Blade A53"
   }
  ],
+ "ZTE Blade A53+": [
+  {
+   "brand": "ZTE",
+   "device": "P963F62",
+   "model": "ZTE Blade A53+"
+  }
+ ],
  "ZTE Blade A531": [
   {
    "brand": "ZTE",
@@ -241702,6 +241757,13 @@
    "brand": "ZTE",
    "device": "NX501",
    "model": "nubia Z5"
+  }
+ ],
+ "nubia Z50 Ultra": [
+  {
+   "brand": "ZTE",
+   "device": "PQ82A11",
+   "model": "NX712J"
   }
  ],
  "sapphire lte": [
