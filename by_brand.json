@@ -55598,6 +55598,11 @@
    "model": "FNE-NX9"
   },
   {
+   "device": "HNRBN-Q",
+   "name": "HONOR 70 Lite",
+   "model": "RBN-NX1"
+  },
+  {
    "device": "HNANY-Q1",
    "name": "HONOR Magic4 Lite",
    "model": "ANY-LX1"
@@ -115393,6 +115398,11 @@
   {
    "device": "A6650",
    "name": "A6650",
+   "model": "A6650"
+  },
+  {
+   "device": "A6650",
+   "name": "A6650_EEA",
    "model": "A6650"
   },
   {
@@ -186285,6 +186295,11 @@
   {
    "device": "M9200",
    "name": "M9200",
+   "model": "M9200"
+  },
+  {
+   "device": "M9200",
+   "name": "M9200_ZLEEA",
    "model": "M9200"
   }
  ],

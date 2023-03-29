@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-03-28
+Last sync is 2023-03-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10750,6 +10750,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR 50 Lite|HNNTN|NTN-LX1|
 |Honor|HONOR 50 Lite|HNNTN|NTN-LX3|
 |Honor|HONOR 70|HNFNE|FNE-NX9|
+|Honor|HONOR 70 Lite|HNRBN-Q|RBN-NX1|
 |Honor|HONOR Magic4 Lite|HNANY-Q1|ANY-LX1|
 |Honor|HONOR Magic4 Lite 5G|HNANY-Q|ANY-NX1|
 |Honor|HONOR Magic4 Pro|HNLGE|LGE-NX9|
@@ -22446,6 +22447,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PAX (CN)|A50|A50|A50|
 |PAX (CN)|A650|A650|A650|
 |PAX (CN)|A6650|A6650|A6650|
+|PAX (CN)|A6650_EEA|A6650|A6650|
 |PAX (CN)|A6650_PLUS|A6650|A6650|
 |PAX (CN)|A77|A77|A77|
 |PAX (CN)|A950|A950|A950|
@@ -36278,6 +36280,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZOLON|M30|M30|M30|
 |ZOLON|M50|M50|M50|
 |ZOLON|M9200|M9200|M9200|
+|ZOLON|M9200_ZLEEA|M9200|M9200|
 |ZONMAI|MX2|MX2|MX2|
 |ZONMAI|MX2_EEA|MX2_EEA|MX2_EEA|
 |ZOOMME|M1|M1|M1|

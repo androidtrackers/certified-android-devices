@@ -83832,6 +83832,13 @@
    "model": "FNE-NX9"
   }
  ],
+ "HONOR 70 Lite": [
+  {
+   "brand": "Honor",
+   "device": "HNRBN-Q",
+   "model": "RBN-NX1"
+  }
+ ],
  "HONOR Magic4 Lite": [
   {
    "brand": "Honor",
@@ -151572,6 +151579,13 @@
   }
  ],
  "A6650": [
+  {
+   "brand": "PAX (CN)",
+   "device": "A6650",
+   "model": "A6650"
+  }
+ ],
+ "A6650_EEA": [
   {
    "brand": "PAX (CN)",
    "device": "A6650",
@@ -233245,6 +233259,13 @@
   }
  ],
  "M9200": [
+  {
+   "brand": "ZOLON",
+   "device": "M9200",
+   "model": "M9200"
+  }
+ ],
+ "M9200_ZLEEA": [
   {
    "brand": "ZOLON",
    "device": "M9200",

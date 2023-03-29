@@ -79497,6 +79497,13 @@
    "model": "FNE-NX9"
   }
  ],
+ "HNRBN-Q": [
+  {
+   "brand": "Honor",
+   "name": "HONOR 70 Lite",
+   "model": "RBN-NX1"
+  }
+ ],
  "HNANY-Q1": [
   {
    "brand": "Honor",
@@ -151562,6 +151569,11 @@
   {
    "brand": "PAX (CN)",
    "name": "A6650",
+   "model": "A6650"
+  },
+  {
+   "brand": "PAX (CN)",
+   "name": "A6650_EEA",
    "model": "A6650"
   },
   {
@@ -234902,6 +234914,11 @@
   {
    "brand": "ZOLON",
    "name": "M9200",
+   "model": "M9200"
+  },
+  {
+   "brand": "ZOLON",
+   "name": "M9200_ZLEEA",
    "model": "M9200"
   }
  ],

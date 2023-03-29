@@ -77827,6 +77827,13 @@
    "device": "HNFNE"
   }
  ],
+ "RBN-NX1": [
+  {
+   "brand": "Honor",
+   "name": "HONOR 70 Lite",
+   "device": "HNRBN-Q"
+  }
+ ],
  "ANY-LX1": [
   {
    "brand": "Honor",
@@ -154165,6 +154172,11 @@
   {
    "brand": "PAX (CN)",
    "name": "A6650",
+   "device": "A6650"
+  },
+  {
+   "brand": "PAX (CN)",
+   "name": "A6650_EEA",
    "device": "A6650"
   },
   {
@@ -244220,6 +244232,11 @@
   {
    "brand": "ZOLON",
    "name": "M9200",
+   "device": "M9200"
+  },
+  {
+   "brand": "ZOLON",
+   "name": "M9200_ZLEEA",
    "device": "M9200"
   }
  ],
