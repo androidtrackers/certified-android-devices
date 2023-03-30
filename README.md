@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-03-29
+Last sync is 2023-03-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10630,6 +10630,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honda|A-DA|yebisuHA|MY22ADA|
 |Honda|Accord|koelsch|MY16ADA|
 |Honda|Gathers|pl0a|22M Gathers|
+|Honda|IVI-SYSTEM|emu_pub_h_30a_g_car|IVI-SYSTEM|
 |Honda|IVI-SYSTEM|msmnile_au|IVI-SYSTEM|
 |Honda|MY15ADA|koelsch|MY15ADA|
 |Honda|NSX|koelsch|MY15ADA|
@@ -13056,6 +13057,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix SMART 4|Infinix-X680|Infinix X680|
 |Infinix|Infinix SMART 4 Plus|Infinix-X680D|Infinix X680D|
 |Infinix|Infinix SMART 7|Infinix-X6515|Infinix X6515|
+|Infinix|Infinix SMART 7 HD|Infinix-X6516|Infinix X6516|
 |Infinix|Infinix X5010|Infinix-X5010|Infinix X5010|
 |Infinix|Infinix X510|Infinix_X510_sprout|Infinix X510|
 |Infinix|Infinix X559|Infinix-X559|Infinix X559|
@@ -22448,6 +22450,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PAX (CN)|A650|A650|A650|
 |PAX (CN)|A6650|A6650|A6650|
 |PAX (CN)|A6650_EEA|A6650|A6650|
+|PAX (CN)|A6650_PEEA|A6650|A6650|
 |PAX (CN)|A6650_PLUS|A6650|A6650|
 |PAX (CN)|A77|A77|A77|
 |PAX (CN)|A950|A950|A950|
@@ -24796,9 +24799,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 12 DISCOVERY EDITION|rubyplus|22101316UC|
 |Redmi|Redmi Note 12 Pro|ruby|22101316C|
 |Redmi|Redmi Note 12 Pro + 5G|rubypro|22101316UP|
+|Redmi|Redmi Note 12 Pro 5G|ruby|22101316G|
 |Redmi|Redmi Note 12 Pro 5G|ruby|22101316I|
 |Redmi|Redmi Note 12 Pro Speed|redwood|22101320C|
 |Redmi|Redmi Note 12 Pro+|rubypro|22101316UCP|
+|Redmi|Redmi Note 12 Pro+ 5G|rubypro|22101316UG|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Redmi|Redmi Note 8|biloba|M1908C3JGG|
 |Redmi|Redmi Note 8|ginkgo|GINKGO|
@@ -25368,7 +25373,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |STK(Santok)|STK Life Plus S|Life_Plus_S|STK Life Plus S|
 |STK(Santok)|STK Life Plus S|STK_Life_Plus_S|STK Life Plus S|
 |STK(Santok)|STK X2|STK_X2|STK X2|
-|STK(Santok)|STK X3|X3|X3|
+|STK(Santok)|STKX3|X3|X3|
 |STK(Santok)|SYNC 5C|STK_Sync_5c|STK_Sync_5c|
 |STK(Santok)|Storm 2e  Plus|Storm_2e_Plus|Storm 2e Plus|
 |STK(Santok)|Storm 2e Pluz|Storm_2e_Pluz|Storm 2e Pluz|
@@ -34409,6 +34414,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|T1 Pro 5G|V2151|V2151|
 |Vivo|T1x|2135|V2143|
 |Vivo|T2 5G|V2222|V2240|
+|Vivo|T2x 5G|V2225|V2253|
 |Vivo|U5x|PD2180|V2180GA|
 |Vivo|V1|V1|vivo V1|
 |Vivo|V1730EA|PD1730E|V1730EA|
@@ -34734,6 +34740,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y66|PD1621|vivo Y66|
 |Vivo|Y67|PD1612|vivo Y67|
 |Vivo|Y71|1801|vivo 1801|
+|Vivo|Y78+|PD2271|V2271A|
 |Vivo|Y79A|PD1708|vivo PD1708|
 |Vivo|Y79A|PD1708|vivo Y79A|
 |Vivo|Y937|PD1503|vivo Y937|
@@ -34770,6 +34777,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Z7|PD2270|V2270A|
 |Vivo|iQOO Z7 5G|I2207|I2207|
 |Vivo|iQOO Z7 5G|I2213|I2213|
+|Vivo|iQOO Z7i|PD2230|V2230EA|
 |Vivo|iQOO Z7x|PD2272|V2272A|
 |Vivo|iQOO Z7x (m)|PD2272|V2272A|
 |Vivo|vivo  1907|1907|vivo 1907|
@@ -36066,7 +36074,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 12T Pro|diting|A201XM|
 |Xiaomi|Xiaomi 12X|psyche|2112123AC|
 |Xiaomi|Xiaomi 13|fuxi|2211133C|
+|Xiaomi|Xiaomi 13|fuxi|2211133G|
 |Xiaomi|Xiaomi 13 Lite|ziyi|2210129SG|
+|Xiaomi|Xiaomi 13 Pro|nuwa|2210132G|
 |Xiaomi|Xiaomi 13 pro|nuwa|2210132C|
 |Xiaomi|Xiaomi Civi|mona|2109119BC|
 |Xiaomi|Xiaomi Civi 1S|zijin|2109119BC|
@@ -38761,6 +38771,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |qunyiCO|Y7_EEA|Y7_EEA|Y7|
 |realme|4K Google TV Stick|YYT|4K Google TV Stick|
 |realme|4K Smart TV|gangbyeon|4K AI Smart TV|
+|realme|RMX3612|RE588DL1|RMX3612|
 |realme|Smart TV|mateo|2K PA Smart TV|
 |realme|Smart TV|redwood|AI PONT|
 |realme|TV Stick|BOS|TV Stick|

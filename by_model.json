@@ -64032,7 +64032,7 @@
   },
   {
    "brand": "STK(Santok)",
-   "name": "STK X3",
+   "name": "STKX3",
    "device": "X3"
   },
   {
@@ -77153,6 +77153,11 @@
   }
  ],
  "IVI-SYSTEM": [
+  {
+   "brand": "Honda",
+   "name": "IVI-SYSTEM",
+   "device": "emu_pub_h_30a_g_car"
+  },
   {
    "brand": "Honda",
    "name": "IVI-SYSTEM",
@@ -93324,6 +93329,13 @@
    "brand": "Tecno",
    "name": "Infinix SMART 7",
    "device": "Infinix-X6515"
+  }
+ ],
+ "Infinix X6516": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix SMART 7 HD",
+   "device": "Infinix-X6516"
   }
  ],
  "Infinix X5010": [
@@ -154181,6 +154193,11 @@
   },
   {
    "brand": "PAX (CN)",
+   "name": "A6650_PEEA",
+   "device": "A6650"
+  },
+  {
+   "brand": "PAX (CN)",
    "name": "A6650_PLUS",
    "device": "A6650"
   }
@@ -169436,6 +169453,13 @@
    "device": "rubypro"
   }
  ],
+ "22101316G": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 12 Pro 5G",
+   "device": "ruby"
+  }
+ ],
  "22101316I": [
   {
    "brand": "Redmi",
@@ -169454,6 +169478,13 @@
   {
    "brand": "Redmi",
    "name": "Redmi Note 12 Pro+",
+   "device": "rubypro"
+  }
+ ],
+ "22101316UG": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 12 Pro+ 5G",
    "device": "rubypro"
   }
  ],
@@ -232405,6 +232436,13 @@
    "device": "V2222"
   }
  ],
+ "V2253": [
+  {
+   "brand": "Vivo",
+   "name": "T2x 5G",
+   "device": "V2225"
+  }
+ ],
  "V2180GA": [
   {
    "brand": "Vivo",
@@ -234653,6 +234691,13 @@
    "device": "1801"
   }
  ],
+ "V2271A": [
+  {
+   "brand": "Vivo",
+   "name": "Y78+",
+   "device": "PD2271"
+  }
+ ],
  "vivo PD1708": [
   {
    "brand": "Vivo",
@@ -234885,6 +234930,13 @@
    "brand": "Vivo",
    "name": "iQOO Z7 5G",
    "device": "I2213"
+  }
+ ],
+ "V2230EA": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Z7i",
+   "device": "PD2230"
   }
  ],
  "V2272A": [
@@ -242955,11 +243007,25 @@
    "device": "fuxi"
   }
  ],
+ "2211133G": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 13",
+   "device": "fuxi"
+  }
+ ],
  "2210129SG": [
   {
    "brand": "Xiaomi",
    "name": "Xiaomi 13 Lite",
    "device": "ziyi"
+  }
+ ],
+ "2210132G": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 13 Pro",
+   "device": "nuwa"
   }
  ],
  "2210132C": [
@@ -260017,6 +260083,18 @@
    "device": "PTAB_P8"
   }
  ],
+ "RMX3612": [
+  {
+   "brand": "realme",
+   "name": "RMX3612",
+   "device": "RE588DL1"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 9i 5G",
+   "device": "RE588DL1"
+  }
+ ],
  "RMX3571": [
   {
    "brand": "realme",
@@ -260292,13 +260370,6 @@
    "brand": "realme",
    "name": "realme 9i",
    "device": "RED8C1L1"
-  }
- ],
- "RMX3612": [
-  {
-   "brand": "realme",
-   "name": "realme 9i 5G",
-   "device": "RE588DL1"
   }
  ],
  "RMX3263": [

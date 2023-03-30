@@ -54994,6 +54994,11 @@
    "model": "22M Gathers"
   },
   {
+   "device": "emu_pub_h_30a_g_car",
+   "name": "IVI-SYSTEM",
+   "model": "IVI-SYSTEM"
+  },
+  {
    "device": "msmnile_au",
    "name": "IVI-SYSTEM",
    "model": "IVI-SYSTEM"
@@ -67276,6 +67281,11 @@
    "device": "Infinix-X6515",
    "name": "Infinix SMART 7",
    "model": "Infinix X6515"
+  },
+  {
+   "device": "Infinix-X6516",
+   "name": "Infinix SMART 7 HD",
+   "model": "Infinix X6516"
   },
   {
    "device": "Infinix-X5010",
@@ -115407,6 +115417,11 @@
   },
   {
    "device": "A6650",
+   "name": "A6650_PEEA",
+   "model": "A6650"
+  },
+  {
+   "device": "A6650",
    "name": "A6650_PLUS",
    "model": "A6650"
   },
@@ -127478,6 +127493,11 @@
   {
    "device": "ruby",
    "name": "Redmi Note 12 Pro 5G",
+   "model": "22101316G"
+  },
+  {
+   "device": "ruby",
+   "name": "Redmi Note 12 Pro 5G",
    "model": "22101316I"
   },
   {
@@ -127489,6 +127509,11 @@
    "device": "rubypro",
    "name": "Redmi Note 12 Pro+",
    "model": "22101316UCP"
+  },
+  {
+   "device": "rubypro",
+   "name": "Redmi Note 12 Pro+ 5G",
+   "model": "22101316UG"
   },
   {
    "device": "lavender",
@@ -130533,7 +130558,7 @@
   },
   {
    "device": "X3",
-   "name": "STK X3",
+   "name": "STKX3",
    "model": "X3"
   },
   {
@@ -176661,6 +176686,11 @@
    "model": "V2240"
   },
   {
+   "device": "V2225",
+   "name": "T2x 5G",
+   "model": "V2253"
+  },
+  {
    "device": "PD2180",
    "name": "U5x",
    "model": "V2180GA"
@@ -178286,6 +178316,11 @@
    "model": "vivo 1801"
   },
   {
+   "device": "PD2271",
+   "name": "Y78+",
+   "model": "V2271A"
+  },
+  {
    "device": "PD1708",
    "name": "Y79A",
    "model": "vivo PD1708"
@@ -178464,6 +178499,11 @@
    "device": "I2213",
    "name": "iQOO Z7 5G",
    "model": "I2213"
+  },
+  {
+   "device": "PD2230",
+   "name": "iQOO Z7i",
+   "model": "V2230EA"
   },
   {
    "device": "PD2272",
@@ -185138,9 +185178,19 @@
    "model": "2211133C"
   },
   {
+   "device": "fuxi",
+   "name": "Xiaomi 13",
+   "model": "2211133G"
+  },
+  {
    "device": "ziyi",
    "name": "Xiaomi 13 Lite",
    "model": "2210129SG"
+  },
+  {
+   "device": "nuwa",
+   "name": "Xiaomi 13 Pro",
+   "model": "2210132G"
   },
   {
    "device": "nuwa",
@@ -198969,6 +199019,11 @@
    "device": "gangbyeon",
    "name": "4K Smart TV",
    "model": "4K AI Smart TV"
+  },
+  {
+   "device": "RE588DL1",
+   "name": "RMX3612",
+   "model": "RMX3612"
   },
   {
    "device": "mateo",

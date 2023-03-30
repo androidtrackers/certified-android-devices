@@ -67053,7 +67053,7 @@
   },
   {
    "brand": "STK(Santok)",
-   "name": "STK X3",
+   "name": "STKX3",
    "model": "X3"
   },
   {
@@ -68604,6 +68604,11 @@
    "brand": "Redmi",
    "name": "Redmi Note 12 Pro",
    "model": "22101316C"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 12 Pro 5G",
+   "model": "22101316G"
   },
   {
    "brand": "Redmi",
@@ -78711,6 +78716,13 @@
    "brand": "Honda",
    "name": "Gathers",
    "model": "22M Gathers"
+  }
+ ],
+ "emu_pub_h_30a_g_car": [
+  {
+   "brand": "Honda",
+   "name": "IVI-SYSTEM",
+   "model": "IVI-SYSTEM"
   }
  ],
  "msmnile_au": [
@@ -93088,6 +93100,13 @@
    "brand": "Tecno",
    "name": "Infinix SMART 7",
    "model": "Infinix X6515"
+  }
+ ],
+ "Infinix-X6516": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix SMART 7 HD",
+   "model": "Infinix X6516"
   }
  ],
  "Infinix-X5010": [
@@ -151578,6 +151597,11 @@
   },
   {
    "brand": "PAX (CN)",
+   "name": "A6650_PEEA",
+   "model": "A6650"
+  },
+  {
+   "brand": "PAX (CN)",
    "name": "A6650_PLUS",
    "model": "A6650"
   }
@@ -166006,6 +166030,11 @@
    "brand": "Redmi",
    "name": "Redmi Note 12 Pro+",
    "model": "22101316UCP"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 12 Pro+ 5G",
+   "model": "22101316UG"
   }
  ],
  "biloba": [
@@ -223783,6 +223812,18 @@
    "model": "V2222"
   }
  ],
+ "V2225": [
+  {
+   "brand": "Vivo",
+   "name": "T2x 5G",
+   "model": "V2253"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y56 5G",
+   "model": "V2225"
+  }
+ ],
  "PD2180": [
   {
    "brand": "Vivo",
@@ -225794,6 +225835,11 @@
    "brand": "Vivo",
    "name": "Y53t",
    "model": "V2230A"
+  },
+  {
+   "brand": "Vivo",
+   "name": "iQOO Z7i",
+   "model": "V2230EA"
   }
  ],
  "V2205": [
@@ -225859,13 +225905,6 @@
    "model": "vivo 1610"
   }
  ],
- "V2225": [
-  {
-   "brand": "Vivo",
-   "name": "Y56 5G",
-   "model": "V2225"
-  }
- ],
  "PD1621": [
   {
    "brand": "Vivo",
@@ -225878,6 +225917,13 @@
    "brand": "Vivo",
    "name": "Y71",
    "model": "vivo 1801"
+  }
+ ],
+ "PD2271": [
+  {
+   "brand": "Vivo",
+   "name": "Y78+",
+   "model": "V2271A"
   }
  ],
  "PD1708": [
@@ -233711,6 +233757,11 @@
    "brand": "Xiaomi",
    "name": "Xiaomi 13",
    "model": "2211133C"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 13",
+   "model": "2211133G"
   }
  ],
  "ziyi": [
@@ -233726,6 +233777,11 @@
   }
  ],
  "nuwa": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 13 Pro",
+   "model": "2210132G"
+  },
   {
    "brand": "Xiaomi",
    "name": "Xiaomi 13 pro",
@@ -249078,6 +249134,18 @@
    "model": "Y7"
   }
  ],
+ "RE588DL1": [
+  {
+   "brand": "realme",
+   "name": "RMX3612",
+   "model": "RMX3612"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 9i 5G",
+   "model": "RMX3612"
+  }
+ ],
  "RED8CDL1": [
   {
    "brand": "realme",
@@ -249317,13 +249385,6 @@
    "brand": "realme",
    "name": "realme 9 5G Speed Edition",
    "model": "RMX3461"
-  }
- ],
- "RE588DL1": [
-  {
-   "brand": "realme",
-   "name": "realme 9i 5G",
-   "model": "RMX3612"
   }
  ],
  "RMX2195L1": [

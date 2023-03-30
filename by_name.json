@@ -83105,6 +83105,11 @@
  "IVI-SYSTEM": [
   {
    "brand": "Honda",
+   "device": "emu_pub_h_30a_g_car",
+   "model": "IVI-SYSTEM"
+  },
+  {
+   "brand": "Honda",
    "device": "msmnile_au",
    "model": "IVI-SYSTEM"
   }
@@ -95889,6 +95894,13 @@
    "brand": "Tecno",
    "device": "Infinix-X6515",
    "model": "Infinix X6515"
+  }
+ ],
+ "Infinix SMART 7 HD": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6516",
+   "model": "Infinix X6516"
   }
  ],
  "Infinix X5010": [
@@ -151592,6 +151604,13 @@
    "model": "A6650"
   }
  ],
+ "A6650_PEEA": [
+  {
+   "brand": "PAX (CN)",
+   "device": "A6650",
+   "model": "A6650"
+  }
+ ],
  "A6650_PLUS": [
   {
    "brand": "PAX (CN)",
@@ -166453,6 +166472,11 @@
   {
    "brand": "Redmi",
    "device": "ruby",
+   "model": "22101316G"
+  },
+  {
+   "brand": "Redmi",
+   "device": "ruby",
    "model": "22101316I"
   }
  ],
@@ -166468,6 +166492,13 @@
    "brand": "Redmi",
    "device": "rubypro",
    "model": "22101316UCP"
+  }
+ ],
+ "Redmi Note 12 Pro+ 5G": [
+  {
+   "brand": "Redmi",
+   "device": "rubypro",
+   "model": "22101316UG"
   }
  ],
  "Redmi Note 7": [
@@ -169994,7 +170025,7 @@
    "model": "STK X2"
   }
  ],
- "STK X3": [
+ "STKX3": [
   {
    "brand": "STK(Santok)",
    "device": "X3",
@@ -221838,6 +221869,13 @@
    "model": "V2240"
   }
  ],
+ "T2x 5G": [
+  {
+   "brand": "Vivo",
+   "device": "V2225",
+   "model": "V2253"
+  }
+ ],
  "U5x": [
   {
    "brand": "Vivo",
@@ -223938,6 +223976,13 @@
    "model": "vivo 1801"
   }
  ],
+ "Y78+": [
+  {
+   "brand": "Vivo",
+   "device": "PD2271",
+   "model": "V2271A"
+  }
+ ],
  "Y79A": [
   {
    "brand": "Vivo",
@@ -224160,6 +224205,13 @@
    "brand": "Vivo",
    "device": "I2213",
    "model": "I2213"
+  }
+ ],
+ "iQOO Z7i": [
+  {
+   "brand": "Vivo",
+   "device": "PD2230",
+   "model": "V2230EA"
   }
  ],
  "iQOO Z7x": [
@@ -231970,6 +232022,11 @@
    "brand": "Xiaomi",
    "device": "fuxi",
    "model": "2211133C"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "fuxi",
+   "model": "2211133G"
   }
  ],
  "Xiaomi 13 Lite": [
@@ -231977,6 +232034,13 @@
    "brand": "Xiaomi",
    "device": "ziyi",
    "model": "2210129SG"
+  }
+ ],
+ "Xiaomi 13 Pro": [
+  {
+   "brand": "Xiaomi",
+   "device": "nuwa",
+   "model": "2210132G"
   }
  ],
  "Xiaomi 13 pro": [
@@ -246950,6 +247014,13 @@
    "brand": "realme",
    "device": "YYT",
    "model": "4K Google TV Stick"
+  }
+ ],
+ "RMX3612": [
+  {
+   "brand": "realme",
+   "device": "RE588DL1",
+   "model": "RMX3612"
   }
  ],
  "narzo 50 5G": [
