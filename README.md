@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-03-31
+Last sync is 2023-04-01
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8445,6 +8445,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Gome|GOME_C7_Note|GOME_C7_Note|GOME_C7_Note|
 |Gonna|Zebra|Zebra|Zebra|
 |Goo|g08|v12dn|View Prime|
+|Google|AMD FP6 Chromebook|guybrush_cheets|guybrush|
 |Google|AMD Raven Ridge Chromebook|zork_cheets|zork|
 |Google|AMD Stoney Ridge Chromebook|grunt_cheets|grunt|
 |Google|Chromebook 14 (CB3-431)|edgar_cheets|Acer Chromebook 14 (CB3-431)|
@@ -9694,6 +9695,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hamlet|XZPAD414W|XZPAD414W|XZPAD414W|
 |Hamlet|XZPAD470LTE|XZPAD470LTE|XZPAD470LTE|
 |Hammer|Hammer Blade 3|Hammer_Blade_3|Hammer_Blade_3|
+|Hammer|Hammer Blade 4|Hammer_Blade_4|Hammer_Blade_4|
 |Hammer|Hammer Blade 5G|Hammer_Blade_5G|Hammer_Blade_5G|
 |Hammer|Hammer Construction|Hammer_Construction|Hammer_Construction|
 |Hammer|Hammer Energy 2 2022|Energy_2_2022|Hammer_Energy_2_2022|
@@ -13023,6 +13025,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 20|Infinix-X6826|Infinix X6826|
 |Infinix|Infinix HOT 20|Infinix-X6826B|Infinix X6826B|
 |Infinix|Infinix HOT 20|Infinix-X6826C|Infinix X6826C|
+|Infinix|Infinix HOT 30 PLAY|Infinix-X6835B|Infinix X6835B|
 |Infinix|Infinix HOT 30i|Infinix-X669|Infinix X669|
 |Infinix|Infinix HOT 30i|Infinix-X669C|Infinix X669C|
 |Infinix|Infinix HOT 30i|Infinix-X669D|Infinix X669D|
@@ -24795,6 +24798,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 11T 5G|evergo|21091116AI|
 |Redmi|Redmi Note 11T Pro|xaga|22041216C|
 |Redmi|Redmi Note 11T Pro +|xagapro|22041216UC|
+|Redmi|Redmi Note 12|tapas|23021RAAEG|
+|Redmi|Redmi Note 12|tapas|23027RAD4I|
+|Redmi|Redmi Note 12|tapas|23028RA60L|
+|Redmi|Redmi Note 12|topaz|23021RAA2Y|
 |Redmi|Redmi Note 12 5G|sunstone|22101317C|
 |Redmi|Redmi Note 12 DISCOVERY EDITION|rubyplus|22101316UC|
 |Redmi|Redmi Note 12 Pro|ruby|22101316C|
@@ -25644,6 +25651,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A14|a14|SM-A145F|
 |Samsung|Galaxy A14|a14|SM-A145FB|
 |Samsung|Galaxy A14|a14|SM-A145M|
+|Samsung|Galaxy A14|a14|SM-A145MB|
 |Samsung|Galaxy A14|a14m|SM-A145P|
 |Samsung|Galaxy A14|a14m|SM-A145R|
 |Samsung|Galaxy A14 5G|a14x|SM-A146B|
@@ -32541,6 +32549,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|CAMON 19 Pro|TECNO-CI8|TECNO CI8|
 |Tecno|CAMON 19 Pro|TECNO-CI8n|TECNO CI8n|
 |Tecno|CAMON 19 Pro 5G|TECNO-CI7n|TECNO CI7n|
+|Tecno|CAMON 20 Pro|TECNO-CK7n|TECNO CK7n|
 |Tecno|CAMON C7|TECNO-C7|TECNO-C7|
 |Tecno|CAMON CM|TECNO-CA6|TECNO CA6|
 |Tecno|CAMON I Ace|TECNO-IN1|TECNO IN1|

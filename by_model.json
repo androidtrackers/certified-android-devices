@@ -62850,6 +62850,13 @@
    "device": "v12bn"
   }
  ],
+ "guybrush": [
+  {
+   "brand": "Google",
+   "name": "AMD FP6 Chromebook",
+   "device": "guybrush_cheets"
+  }
+ ],
  "zork": [
   {
    "brand": "Google",
@@ -71167,6 +71174,13 @@
    "brand": "Hammer",
    "name": "Hammer Blade 3",
    "device": "Hammer_Blade_3"
+  }
+ ],
+ "Hammer_Blade_4": [
+  {
+   "brand": "Hammer",
+   "name": "Hammer Blade 4",
+   "device": "Hammer_Blade_4"
   }
  ],
  "Hammer_Blade_5G": [
@@ -93091,6 +93105,13 @@
    "brand": "Infinix",
    "name": "Infinix HOT 20",
    "device": "Infinix-X6826C"
+  }
+ ],
+ "Infinix X6835B": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix HOT 30 PLAY",
+   "device": "Infinix-X6835B"
   }
  ],
  "Infinix X669": [
@@ -169425,6 +169446,34 @@
    "device": "xagapro"
   }
  ],
+ "23021RAAEG": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 12",
+   "device": "tapas"
+  }
+ ],
+ "23027RAD4I": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 12",
+   "device": "tapas"
+  }
+ ],
+ "23028RA60L": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 12",
+   "device": "tapas"
+  }
+ ],
+ "23021RAA2Y": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 12",
+   "device": "topaz"
+  }
+ ],
  "22101317C": [
   {
    "brand": "Redmi",
@@ -174929,6 +174978,13 @@
   }
  ],
  "SM-A145M": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A14",
+   "device": "a14"
+  }
+ ],
+ "SM-A145MB": [
   {
    "brand": "Samsung",
    "name": "Galaxy A14",
@@ -220799,6 +220855,13 @@
    "brand": "Tecno",
    "name": "CAMON 19 Pro 5G",
    "device": "TECNO-CI7n"
+  }
+ ],
+ "TECNO CK7n": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 20 Pro",
+   "device": "TECNO-CK7n"
   }
  ],
  "TECNO CA6": [
