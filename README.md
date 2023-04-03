@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-04-02
+Last sync is 2023-04-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5746,6 +5746,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dcode|DS_CL1|DS_CL1|DS-CL1|
 |Dcode|DS_CL2_Lite|DS_CL2_Lite|DS-CL2 Lite|
 |Dcode|DS_CL2_Pro|DS_CL2_Pro|DS-CL2 Pro|
+|Dcolor|GD1 4K|YUL|GD1 4K|
 |Ddm|ANDY 5EI|AM5E3I047|ANDY 5EI|
 |DeWALT|DeWalt md501|md501|md501|
 |Delephas|"Chang Co.|Ltd"|seocho|
@@ -6659,6 +6660,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ETERNITY|HERO-SP001|HERO-SP001|HERO-SP001|
 |ETERNITY|HEROSP001|HEROSP001|SP-001|
 |ETG（G）|ETG-BT1121|ETG-BT1121|ETG-BT1121|
+|ETOE|D1221|YUL|D1221|
 |EVEREST-EVERPAD|DC-1032|mid1032_mk|DC-1032|
 |EVEREST-EVERPAD|DC-8015|mid7015_mk|DC-8015|
 |EVEREST-EVERPAD|DC-M700|DC-M700|DC-M700|
@@ -13051,6 +13053,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix NOTE 12 PRO|Infinix-X676B|Infinix X676B|
 |Infinix|Infinix NOTE 12 Pro 5G|Infinix-X671B|Infinix X671B|
 |Infinix|Infinix NOTE 12i|Infinix-X6819|Infinix X6819|
+|Infinix|Infinix NOTE 30|Infinix-X6833B|Infinix X6833B|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604|
 |Infinix|Infinix NOTE 5|Infinix-X604_sprout|Infinix X604B|
 |Infinix|Infinix NOTE 5 Stylus|Infinix-X605_sprout|Infinix X605|
@@ -30687,6 +30690,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL NXTPAPER 10s|Odin2|9081X|
 |TCL|TCL PLEX|T1|T780H|
 |TCL|TCL PLEX|T1_L1|T780H|
+|TCL|TCL Stylus 5G|Challenger_CS|T779W|
 |TCL|TCL Stylus 5G|Challenger_TMO|T779W|
 |TCL|TCL T Pro|Jakarta|5130M|
 |TCL|TCL T Pro|Milan|5161A|
@@ -32240,6 +32244,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TUFF|T500|T500|T500|
 |TUNTUN English|DREAM PAD|delight|ITP-R408W|
 |TUPAD|TU7_58212_18222|TU7_58212|TU7_18222|
+|TV Smart|TV Smart 4K BOX|DV8981-KPV|TV Smart 4K BOX|
 |TVB|A15|A151|A15|
 |TVCore|TV Stick|ts401|TV Stick|
 |TVCore|ts401l|ts401|TV StickL|
@@ -38578,6 +38583,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iLife|KIDS_TAB_6|KIDS_TAB_6|KIDS_TAB_6|
 |iLife|MISA|MISA|MISA|
 |iMACHINE|MobilePOSTerminal|MobilePOSTerminal|AP12|
+|iMESH|IM-560|IM-560|IM-560|
 |iMin|Falcon 1|I22T01|I22T01|
 |iMin|Swift 1|I22M01|I22M01|
 |iMin|Swift 1|I22M01|Swift_1|

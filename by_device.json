@@ -47241,6 +47241,23 @@
    "model": "DS-CL2 Pro"
   }
  ],
+ "YUL": [
+  {
+   "brand": "Dcolor",
+   "name": "GD1 4K",
+   "model": "GD1 4K"
+  },
+  {
+   "brand": "ETOE",
+   "name": "D1221",
+   "model": "D1221"
+  },
+  {
+   "brand": "imiia",
+   "name": "i-217D1",
+   "model": "i-217D1"
+  }
+ ],
  "AM5E3I047": [
   {
    "brand": "Ddm",
@@ -93066,6 +93083,13 @@
    "brand": "Infinix",
    "name": "Infinix NOTE 12i",
    "model": "Infinix X6819"
+  }
+ ],
+ "Infinix-X6833B": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix NOTE 30",
+   "model": "Infinix X6833B"
   }
  ],
  "Infinix-X604_sprout": [
@@ -203506,6 +203530,13 @@
    "model": "T780H"
   }
  ],
+ "Challenger_CS": [
+  {
+   "brand": "TCL",
+   "name": "TCL Stylus 5G",
+   "model": "T779W"
+  }
+ ],
  "Challenger_TMO": [
   {
    "brand": "TCL",
@@ -210753,6 +210784,13 @@
    "brand": "TUPAD",
    "name": "TU7_58212_18222",
    "model": "TU7_18222"
+  }
+ ],
+ "DV8981-KPV": [
+  {
+   "brand": "TV Smart",
+   "name": "TV Smart 4K BOX",
+   "model": "TV Smart 4K BOX"
   }
  ],
  "A151": [
@@ -248093,6 +248131,13 @@
    "model": "AP12"
   }
  ],
+ "IM-560": [
+  {
+   "brand": "iMESH",
+   "name": "IM-560",
+   "model": "IM-560"
+  }
+ ],
  "I22T01": [
   {
    "brand": "iMin",
@@ -248728,13 +248773,6 @@
    "brand": "ibowin",
    "name": "M10ES11",
    "model": "M130s"
-  }
- ],
- "YUL": [
-  {
-   "brand": "imiia",
-   "name": "i-217D1",
-   "model": "i-217D1"
   }
  ],
  "BAM-II": [

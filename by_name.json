@@ -50342,6 +50342,13 @@
    "model": "DS-CL2 Pro"
   }
  ],
+ "GD1 4K": [
+  {
+   "brand": "Dcolor",
+   "device": "YUL",
+   "model": "GD1 4K"
+  }
+ ],
  "ANDY 5EI": [
   {
    "brand": "Ddm",
@@ -57207,6 +57214,13 @@
    "brand": "ETG（G）",
    "device": "ETG-BT1121",
    "model": "ETG-BT1121"
+  }
+ ],
+ "D1221": [
+  {
+   "brand": "ETOE",
+   "device": "YUL",
+   "model": "D1221"
   }
  ],
  "DC-1032": [
@@ -95851,6 +95865,13 @@
    "brand": "Infinix",
    "device": "Infinix-X6819",
    "model": "Infinix X6819"
+  }
+ ],
+ "Infinix NOTE 30": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6833B",
+   "model": "Infinix X6833B"
   }
  ],
  "Infinix NOTE 5": [
@@ -200319,6 +200340,11 @@
  "TCL Stylus 5G": [
   {
    "brand": "TCL",
+   "device": "Challenger_CS",
+   "model": "T779W"
+  },
+  {
+   "brand": "TCL",
    "device": "Challenger_TMO",
    "model": "T779W"
   }
@@ -208761,6 +208787,13 @@
    "brand": "TUPAD",
    "device": "TU7_58212",
    "model": "TU7_18222"
+  }
+ ],
+ "TV Smart 4K BOX": [
+  {
+   "brand": "TV Smart",
+   "device": "DV8981-KPV",
+   "model": "TV Smart 4K BOX"
   }
  ],
  "ts401l": [
@@ -245965,6 +245998,13 @@
    "brand": "iMACHINE",
    "device": "MobilePOSTerminal",
    "model": "AP12"
+  }
+ ],
+ "IM-560": [
+  {
+   "brand": "iMESH",
+   "device": "IM-560",
+   "model": "IM-560"
   }
  ],
  "Falcon 1": [

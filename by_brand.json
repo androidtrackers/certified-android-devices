@@ -29740,6 +29740,13 @@
    "model": "DS-CL2 Pro"
   }
  ],
+ "Dcolor": [
+  {
+   "device": "YUL",
+   "name": "GD1 4K",
+   "model": "GD1 4K"
+  }
+ ],
  "Ddm": [
   {
    "device": "AM5E3I047",
@@ -34507,6 +34514,13 @@
    "device": "ETG-BT1121",
    "name": "ETG-BT1121",
    "model": "ETG-BT1121"
+  }
+ ],
+ "ETOE": [
+  {
+   "device": "YUL",
+   "name": "D1221",
+   "model": "D1221"
   }
  ],
  "EVEREST-EVERPAD": [
@@ -67251,6 +67265,11 @@
    "device": "Infinix-X6819",
    "name": "Infinix NOTE 12i",
    "model": "Infinix X6819"
+  },
+  {
+   "device": "Infinix-X6833B",
+   "name": "Infinix NOTE 30",
+   "model": "Infinix X6833B"
   },
   {
    "device": "Infinix-X604_sprout",
@@ -157463,6 +157482,11 @@
    "model": "T780H"
   },
   {
+   "device": "Challenger_CS",
+   "name": "TCL Stylus 5G",
+   "model": "T779W"
+  },
+  {
    "device": "Challenger_TMO",
    "name": "TCL Stylus 5G",
    "model": "T779W"
@@ -165330,6 +165354,13 @@
    "device": "TU7_58212",
    "name": "TU7_58212_18222",
    "model": "TU7_18222"
+  }
+ ],
+ "TV Smart": [
+  {
+   "device": "DV8981-KPV",
+   "name": "TV Smart 4K BOX",
+   "model": "TV Smart 4K BOX"
   }
  ],
  "TVB": [
@@ -197962,6 +197993,13 @@
    "device": "MobilePOSTerminal",
    "name": "MobilePOSTerminal",
    "model": "AP12"
+  }
+ ],
+ "iMESH": [
+  {
+   "device": "IM-560",
+   "name": "IM-560",
+   "model": "IM-560"
   }
  ],
  "iMin": [
