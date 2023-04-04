@@ -34597,6 +34597,11 @@
    "brand": "Blu",
    "device": "M0213_ND",
    "model": "M8L Plus"
+  },
+  {
+   "brand": "Blu",
+   "device": "M0213_SM",
+   "model": "M8L Plus"
   }
  ],
  "NEO ENERGY MINI": [
@@ -41843,6 +41848,13 @@
    "brand": "Cipherlab",
    "device": "RS35",
    "model": "RS35"
+  }
+ ],
+ "RS36": [
+  {
+   "brand": "Cipherlab",
+   "device": "RS36",
+   "model": "RS36"
   }
  ],
  "RS51_HS": [
@@ -49236,6 +49248,13 @@
    "brand": "DIRECTV",
    "device": "HP40A",
    "model": "OTT-01"
+  }
+ ],
+ "Pendant": [
+  {
+   "brand": "DIRECTV",
+   "device": "p21kw500",
+   "model": "Pendant"
   }
  ],
  "3406": [
@@ -93743,6 +93762,23 @@
    "model": "GKL089"
   }
  ],
+ "Infiniton": [
+  {
+   "brand": "INFINITON",
+   "device": "shilin",
+   "model": "Infiniton4KAndroidTV"
+  },
+  {
+   "brand": "MTC",
+   "device": "bangbae",
+   "model": "Infiniton 4K Android TV"
+  },
+  {
+   "brand": "MTC",
+   "device": "komagome",
+   "model": "Infiniton 2K Android TV"
+  }
+ ],
  "\"SPAIN": [
   {
    "brand": "INFINITON",
@@ -95704,6 +95740,11 @@
   }
  ],
  "Infinix HOT 30 PLAY": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6835",
+   "model": "Infinix X6835"
+  },
   {
    "brand": "Infinix",
    "device": "Infinix-X6835B",
@@ -102879,6 +102920,13 @@
    "brand": "KONKA",
    "device": "N15",
    "model": "N15"
+  }
+ ],
+ "N17": [
+  {
+   "brand": "KONKA",
+   "device": "N17",
+   "model": "N17"
   }
  ],
  "N7": [
@@ -125975,18 +126023,6 @@
    "brand": "MTC",
    "device": "seocho",
    "model": "Hansung 4K Android TV"
-  }
- ],
- "Infiniton": [
-  {
-   "brand": "MTC",
-   "device": "bangbae",
-   "model": "Infiniton 4K Android TV"
-  },
-  {
-   "brand": "MTC",
-   "device": "komagome",
-   "model": "Infiniton 2K Android TV"
   }
  ],
  "MTC": [
@@ -157868,6 +157904,18 @@
    "model": "T2040"
   }
  ],
+ "T2050C": [
+  {
+   "brand": "Positivo",
+   "device": "T2050C",
+   "model": "T2050C"
+  },
+  {
+   "brand": "Positivo",
+   "device": "T2050C",
+   "model": "Tab Q10"
+  }
+ ],
  "T701 TV": [
   {
    "brand": "Positivo",
@@ -158059,6 +158107,13 @@
    "brand": "Positivo",
    "device": "S520_4G",
    "model": "Positivo Twist 4G"
+  }
+ ],
+ "Twist 5 Pro": [
+  {
+   "brand": "Positivo",
+   "device": "S640",
+   "model": "Twist 5 Pro"
   }
  ],
  "Twist Max": [
@@ -224314,6 +224369,13 @@
    "brand": "Vivo",
    "device": "PD2272",
    "model": "V2272A"
+  }
+ ],
+ "iQOO Z7x 5G": [
+  {
+   "brand": "Vivo",
+   "device": "I2216",
+   "model": "I2216"
   }
  ],
  "vivo  1907": [

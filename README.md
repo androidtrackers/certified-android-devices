@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-04-03
+Last sync is 2023-04-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3630,6 +3630,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|M8L Plus|M0212WW_ND|M8L Plus|
 |Blu|M8L_PLUS|M0208WW|M8L PLUS|
 |Blu|M8L_Plus|M0213_ND|M8L Plus|
+|Blu|M8L_Plus|M0213_SM|M8L Plus|
 |Blu|NEO ENERGY MINI|BLU_NEO_ENERGY_MINI|BLU NEO ENERGY MINI|
 |Blu|NEO X|BLU_NEO_X|BLU NEO X|
 |Blu|NEO X LTE|BLU_NEO_X_LTE|BLU NEO X LTE|
@@ -4594,6 +4595,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cipherlab|RS30|Mercury|CipherLab RS30|
 |Cipherlab|RS31|RS31|RS31|
 |Cipherlab|RS35|RS35|RS35|
+|Cipherlab|RS36|RS36|RS36|
 |Cipherlab|RS51_HS|RS51_HS|RS51_HS|
 |Cipherlab|Saturn|RS50|RS50|
 |Cisco|CP-860|860|CP-860|
@@ -5599,6 +5601,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DIRECTV|DIRECTV STREAM|c71kw400|AT&T TV|
 |DIRECTV|DIRECTV STREAM|c71kw400-4gb|AT&T TV|
 |DIRECTV|OTT-01|HP40A|OTT-01|
+|DIRECTV|Pendant|p21kw500|Pendant|
 |DL|3406|G02DL|Tablet DL 3406|
 |DL|3420|Tablet_DL_3420|Tablet DL 3420|
 |DL|3420|Tablet_DL_3420|Tablet_DL_3420|
@@ -12723,6 +12726,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |IMPEX|GRANDE UHD TV|OD0M_EA_T32|GRANDE UHD TV|
 |IMPEX|Grande FHD TV|takao|GRANDE FHD TV|
 |IMTO|GKL089|GKL089|GKL089|
+|INFINITON|Infiniton|shilin|Infiniton4KAndroidTV|
 |INFINITON|"SPAIN|MOROCCO|PORTUGAL"|
 |INFINITON|"SPAIN|MOROCCO|PORTUGAL"|
 |INOI|A126|A126|A126|
@@ -13027,6 +13031,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|Infinix HOT 20|Infinix-X6826|Infinix X6826|
 |Infinix|Infinix HOT 20|Infinix-X6826B|Infinix X6826B|
 |Infinix|Infinix HOT 20|Infinix-X6826C|Infinix X6826C|
+|Infinix|Infinix HOT 30 PLAY|Infinix-X6835|Infinix X6835|
 |Infinix|Infinix HOT 30 PLAY|Infinix-X6835B|Infinix X6835B|
 |Infinix|Infinix HOT 30i|Infinix-X669|Infinix X669|
 |Infinix|Infinix HOT 30i|Infinix-X669C|Infinix X669C|
@@ -14181,6 +14186,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KONKA|Konka android tv|hanyang|KONKA Android TV 4K|
 |KONKA|MOON|MOON|MOON|
 |KONKA|N15|N15|N15|
+|KONKA|N17|N17|N17|
 |KONKA|N7|N7|N7|
 |KONKA|RE1|RE1|RE1|
 |KONKA|RU1|RU1|RU1|
@@ -23449,6 +23455,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|T1075|T1075|Positivo T1075|
 |Positivo|T1085|T1085|T1085|
 |Positivo|T2040|T2040B|T2040|
+|Positivo|T2050C|T2050C|T2050C|
+|Positivo|T2050C|T2050C|Tab Q10|
 |Positivo|T701 TV|T701|T701|
 |Positivo|T705|T705|T705|
 |Positivo|T705|T705|T705/T708|
@@ -23480,6 +23488,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|Twist 4 Pro|S518|UP 32|
 |Positivo|Twist 4G|S5094G|Twist 4G|
 |Positivo|Twist 4G|S520_4G|Positivo Twist 4G|
+|Positivo|Twist 5 Pro|S640|Twist 5 Pro|
 |Positivo|Twist Max|S540|Twist Max|
 |Positivo|Twist Metal|S530|Twist Metal|
 |Positivo|Twist Metal 32G|S531|Twist Metal 32GB|
@@ -34794,6 +34803,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Z7i|PD2230|V2230EA|
 |Vivo|iQOO Z7x|PD2272|V2272A|
 |Vivo|iQOO Z7x (m)|PD2272|V2272A|
+|Vivo|iQOO Z7x 5G|I2216|I2216|
 |Vivo|vivo  1907|1907|vivo 1907|
 |Vivo|vivo  X21i  A|PD1801|vivo X21i A|
 |Vivo|vivo  Y75s|PD1708C|vivo Y75s|

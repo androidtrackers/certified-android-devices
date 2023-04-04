@@ -18706,6 +18706,11 @@
    "model": "M8L Plus"
   },
   {
+   "device": "M0213_SM",
+   "name": "M8L_Plus",
+   "model": "M8L Plus"
+  },
+  {
    "device": "BLU_NEO_ENERGY_MINI",
    "name": "NEO ENERGY MINI",
    "model": "BLU NEO ENERGY MINI"
@@ -23788,6 +23793,11 @@
    "device": "RS35",
    "name": "RS35",
    "model": "RS35"
+  },
+  {
+   "device": "RS36",
+   "name": "RS36",
+   "model": "RS36"
   },
   {
    "device": "RS51_HS",
@@ -28961,6 +28971,11 @@
    "device": "HP40A",
    "name": "OTT-01",
    "model": "OTT-01"
+  },
+  {
+   "device": "p21kw500",
+   "name": "Pendant",
+   "model": "Pendant"
   }
  ],
  "DL": [
@@ -65539,6 +65554,11 @@
  ],
  "INFINITON": [
   {
+   "device": "shilin",
+   "name": "Infiniton",
+   "model": "Infiniton4KAndroidTV"
+  },
+  {
    "device": "MOROCCO",
    "name": "\"SPAIN",
    "model": "PORTUGAL\""
@@ -67135,6 +67155,11 @@
    "device": "Infinix-X6826C",
    "name": "Infinix HOT 20",
    "model": "Infinix X6826C"
+  },
+  {
+   "device": "Infinix-X6835",
+   "name": "Infinix HOT 30 PLAY",
+   "model": "Infinix X6835"
   },
   {
    "device": "Infinix-X6835B",
@@ -73071,6 +73096,11 @@
    "device": "N15",
    "name": "N15",
    "model": "N15"
+  },
+  {
+   "device": "N17",
+   "name": "N17",
+   "model": "N17"
   },
   {
    "device": "N7",
@@ -120567,6 +120597,16 @@
    "model": "T2040"
   },
   {
+   "device": "T2050C",
+   "name": "T2050C",
+   "model": "T2050C"
+  },
+  {
+   "device": "T2050C",
+   "name": "T2050C",
+   "model": "Tab Q10"
+  },
+  {
    "device": "T701",
    "name": "T701 TV",
    "model": "T701"
@@ -120720,6 +120760,11 @@
    "device": "S520_4G",
    "name": "Twist 4G",
    "model": "Positivo Twist 4G"
+  },
+  {
+   "device": "S640",
+   "name": "Twist 5 Pro",
+   "model": "Twist 5 Pro"
   },
   {
    "device": "S540",
@@ -178590,6 +178635,11 @@
    "device": "PD2272",
    "name": "iQOO Z7x (m)",
    "model": "V2272A"
+  },
+  {
+   "device": "I2216",
+   "name": "iQOO Z7x 5G",
+   "model": "I2216"
   },
   {
    "device": "1907",
