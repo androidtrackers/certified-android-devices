@@ -37103,6 +37103,11 @@
   {
    "brand": "EVOFORCE1",
    "device": "SEI800MOBI",
+   "model": "FRC1-MOBI"
+  },
+  {
+   "brand": "EVOFORCE1",
+   "device": "SEI800MOBI",
    "model": "MOBI-Buckeye"
   },
   {
@@ -66838,6 +66843,13 @@
    "brand": "General Motors",
    "device": "gminfo37",
    "model": "gminfo38"
+  }
+ ],
+ "VCU": [
+  {
+   "brand": "General Motors",
+   "device": "aegean",
+   "model": "aegean"
   }
  ],
  "E-Tab10": [
@@ -243040,6 +243052,13 @@
    "brand": "Zen",
    "device": "M72_Smart",
    "model": "M72 Smart"
+  }
+ ],
+ "Zeop N9000": [
+  {
+   "brand": "Zeop",
+   "device": "B866V2F",
+   "model": "Zeop N9000"
   }
  ],
  "Zephir": [

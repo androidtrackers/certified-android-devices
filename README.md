@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-04-04
+Last sync is 2023-04-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6669,6 +6669,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EVEREST-EVERPAD|DC-M700|DC-M700|DC-M700|
 |EVOFORCE1|FRC1-MOBI|SEI800MOBI|FRC1-MOBI|
 |EVOFORCE1|FRC1-RCN|SEI800RCN|FRC1-RCN|
+|EVOFORCE1|USA|SEI800MOBI|FRC1-MOBI|
 |EVOFORCE1|USA|SEI800MOBI|MOBI-Buckeye|
 |EVVO|Android TV|R1|ATV R1|
 |EVVO|Android TV|R2|ATV R2|
@@ -8058,6 +8059,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |General Mobile|e-tab 20|e-tab20_variant|e-tab 20|
 |General Motors|Infotainment 3.7|gminfo37|gminfo37|
 |General Motors|Infotainment 3.8|gminfo37|gminfo38|
+|General Motors|VCU|aegean|aegean|
 |GeneralMobile|E-Tab10|blue_eye|E-Tab10|
 |GeneralSupreme|Smart TV|longshan|AI PONT|
 |General_luxe|Shahin_III|Shahin_III|SHAHIN III|
@@ -38096,6 +38098,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zen|Zen Cinemax Prime|ZEN_CINEMAX_PRIME|CINEMAX_PRIME|
 |Zen|Zen M72 Smart|M72_Smart|M72 Smart|
 |Zenijust|H20|H20_EEA|H20|
+|Zeop|Zeop N9000|B866V2F|Zeop N9000|
 |Zephir|EU、UK、AP|martin|Zephir 2K Android TV|
 |Zephir|EU、UK、AP|martin|Zephir 2K Android TV|
 |Zephir|Italy|guandu|Zephir 4K Android TV|

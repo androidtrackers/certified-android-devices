@@ -50240,6 +50240,11 @@
    "brand": "EVOFORCE1",
    "name": "FRC1-MOBI",
    "device": "SEI800MOBI"
+  },
+  {
+   "brand": "EVOFORCE1",
+   "name": "USA",
+   "device": "SEI800MOBI"
   }
  ],
  "FRC1-RCN": [
@@ -60038,6 +60043,13 @@
    "brand": "General Motors",
    "name": "Infotainment 3.8",
    "device": "gminfo37"
+  }
+ ],
+ "aegean": [
+  {
+   "brand": "General Motors",
+   "name": "VCU",
+   "device": "aegean"
   }
  ],
  "E-Tab10": [
@@ -256196,6 +256208,13 @@
    "brand": "Zen",
    "name": "Zen M72 Smart",
    "device": "M72_Smart"
+  }
+ ],
+ "Zeop N9000": [
+  {
+   "brand": "Zeop",
+   "name": "Zeop N9000",
+   "device": "B866V2F"
   }
  ],
  "Zephir 2K Android TV": [

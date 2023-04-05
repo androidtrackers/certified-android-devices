@@ -53652,6 +53652,11 @@
   {
    "brand": "EVOFORCE1",
    "name": "USA",
+   "model": "FRC1-MOBI"
+  },
+  {
+   "brand": "EVOFORCE1",
+   "name": "USA",
    "model": "MOBI-Buckeye"
   }
  ],
@@ -63245,6 +63250,13 @@
    "brand": "General Motors",
    "name": "Infotainment 3.8",
    "model": "gminfo38"
+  }
+ ],
+ "aegean": [
+  {
+   "brand": "General Motors",
+   "name": "VCU",
+   "model": "aegean"
   }
  ],
  "blue_eye": [
@@ -128122,6 +128134,11 @@
    "brand": "Megacable",
    "name": "OTT Xview+ AV1",
    "model": "OTT Xview+ AV1"
+  },
+  {
+   "brand": "Zeop",
+   "name": "Zeop N9000",
+   "model": "Zeop N9000"
   }
  ],
  "ucw4046meg": [
