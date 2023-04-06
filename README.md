@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-04-05
+Last sync is 2023-04-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5772,6 +5772,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dell|Chromebook 13 7310|lulu_cheets|Dell Chromebook 13 (7310)|
 |Dell|Chromebook 13 7310|lulu_cheets|Dell Chromebook 13 7310|
 |Dell|Cloud Connect|capri_wyse|CS-1A13|
+|Dell|Dell Latitude Chromebook Enterprise|sarien_cheets|Dell Latitude 5400 Chromebook Enterprise|
+|Dell|Dell Latitude Chromebook Enterprise|sarien_cheets|sarien|
 |Dell|Latitude 7000|drallion_cheets|drallion|
 |Dell|Streak|streak|001DL|
 |Dell|Streak|streak|Dell M01M|
@@ -8455,6 +8457,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|AMD FP6 Chromebook|guybrush_cheets|guybrush|
 |Google|AMD Raven Ridge Chromebook|zork_cheets|zork|
 |Google|AMD Stoney Ridge Chromebook|grunt_cheets|grunt|
+|Google|Chromebase|kalista_cheets|kalista|
 |Google|Chromebook 14 (CB3-431)|edgar_cheets|Acer Chromebook 14 (CB3-431)|
 |Google|Chromebook 14 (CB3-431)|edgar_cheets|Chromebook 14 (CB3-431)|
 |Google|Chromebook Pixel (2015)|samus_cheets|Google Chromebook Pixel (2015)|
@@ -8470,6 +8473,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Google Android Emulator|generic_x86_arm|sdk_gphone_x86|
 |Google|Google Play Games on PC|vsoc_kiwi_x86_64|HPE device|
 |Google|Intel Alder Lake Chromebook|brya_cheets|brya|
+|Google|Intel Alder Lake Chromebox|brask_cheets|brask|
+|Google|Intel Alder Lake-N Chromebook|nissa_cheets|nissa|
 |Google|Intel Amber Lake Y Chromebook|rammus_cheets|rammus|
 |Google|Intel Apollo Lake Chromebook|coral_cheets|coral|
 |Google|Intel Apollo Lake Chromebook|reef_cheets|ASUS Chromebook C213NA|
@@ -8486,7 +8491,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Intel Tiger Lake Chromebook|volteer_cheets|volteer|
 |Google|Mediatek MT8173 Chromebook|jacuzzi_cheets|jacuzzi|
 |Google|Mediatek MT8183 Tablet|kukui_cheets|kukui|
+|Google|Mediatek MT8186 Chromebook|corsola_cheets|corsola|
 |Google|Mediatek MT8192 Chromebook|asurada_cheets|asurada|
+|Google|Mediatek MT8195 Chromebook|cherry_cheets|cherry|
 |Google|Mediatek MTK8173 Chromebook|hana_cheets|Lenovo N23 Yoga/Flex 11 Chromebook|
 |Google|Mediatek MTK8173 Chromebook|hana_cheets|Mediatek MT8173 Chromebook|
 |Google|Mediatek MTK8173 Chromebook|hana_cheets|Mediatek MTK8173 Chromebook|
@@ -23446,6 +23453,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|S450|S450|S450|
 |Positivo|S480|S480|S480|
 |Positivo|S550|S550|S550|
+|Positivo|S620|S620|S620|
+|Positivo|S620|S620|Twist 5|
 |Positivo|SP2|SP2|SP2|
 |Positivo|SX1000|SX1000|Positivo SX1000|
 |Positivo|Selfie|S455|S455|
@@ -23490,6 +23499,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|Twist 4 Pro|S518|UP 32|
 |Positivo|Twist 4G|S5094G|Twist 4G|
 |Positivo|Twist 4G|S520_4G|Positivo Twist 4G|
+|Positivo|Twist 5 Max|S650|Twist 5 Max|
 |Positivo|Twist 5 Pro|S640|Twist 5 Pro|
 |Positivo|Twist Max|S540|Twist Max|
 |Positivo|Twist Metal|S530|Twist Metal|
@@ -23560,6 +23570,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|mini I|mini_i|Positivo BGH Y300|
 |Positivo|mini I|mini_i|Positivo Mini I|
 |Positivo|quattro|X435|quattro|
+|Positivo BGH|BGH Series Q10|M16QF1XMT8183|"Positivo BGH Series Q10"""|
 |Positivo BGH|BGH Y100|Y700|Positivo BGH Y100|
 |Positivo BGH|BGH Y210|Y210|Positivo BGH 7Di-A|
 |Positivo BGH|BGH Y210|Y210|Positivo BGH Y210|
@@ -24333,7 +24344,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Quantum|Mini|S431|Quantum Mini|
 |Quantum|Muv|Q3|MUV|
 |Quantum|Muv|Q3|Quantum MUV|
+|Quantum|Q-Test|S518AR|Q-test|
 |Quantum|QSPT-1952|QF3A|QT-195W-aa2|
+|Quantum|Qrash|S600AR|Qrash|
 |Quantum|Quantum FIT|S511|Quantum Fit|
 |Quantum|Quantum Lio +|QC84|LIO+|
 |Quantum|Quantum M|QM83|Quantum M|
@@ -25888,7 +25901,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A54 5G|a54x|SM-A5460|
 |Samsung|Galaxy A54 5G|a54x|SM-A546B|
 |Samsung|Galaxy A54 5G|a54x|SM-A546E|
-|Samsung|Galaxy A54 5G|a54x|SM-A546S|
 |Samsung|Galaxy A54 5G|a54x|SM-A546U|
 |Samsung|Galaxy A54 5G|a54x|SM-A546U1|
 |Samsung|Galaxy A54 5G|a54x|SM-A546V|
@@ -27268,6 +27280,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S22+|g0q|SM-S906U1|
 |Samsung|Galaxy S22+|g0q|SM-S906W|
 |Samsung|Galaxy S22+|g0s|SM-S906B|
+|Samsung|Galaxy S23|SC-51D|SC-51D|
 |Samsung|Galaxy S23|dm1q|SM-S9110|
 |Samsung|Galaxy S23|dm1q|SM-S911B|
 |Samsung|Galaxy S23|dm1q|SM-S911C|
@@ -27275,6 +27288,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S23|dm1q|SM-S911U|
 |Samsung|Galaxy S23|dm1q|SM-S911U1|
 |Samsung|Galaxy S23|dm1q|SM-S911W|
+|Samsung|Galaxy S23 Ultra|SC-52D|SC-52D|
 |Samsung|Galaxy S23 Ultra|dm3q|SM-S9180|
 |Samsung|Galaxy S23 Ultra|dm3q|SM-S918B|
 |Samsung|Galaxy S23 Ultra|dm3q|SM-S918N|
@@ -30724,6 +30738,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 10s|Odin|9081X|
 |TCL|TCL TAB 10s 4G|Odin|9080G|
 |TCL|TCL TAB 10s 4G|Odin|9080X|
+|TCL|TCL TAB 11|Eternals11|9466X|
+|TCL|TCL TAB 11 LTE|Eternals11|9166G|
 |TCL|TCL TAB 7 Lite|U3A_7_WIFI_Refresh|9309X|
 |TCL|TCL TAB 7 Lite|U3A_7_WIFI_Refresh|9309X2|
 |TCL|TCL TAB 8|Luna|9132G|
@@ -32745,6 +32761,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CAMON 18 Premier|TECNO-CH9|TECNO CH9|
 |Tecno|TECNO CAMON 18 Premier|TECNO-CH9n|TECNO CH9n|
 |Tecno|TECNO CAMON 19 Neo|TECNO-CH6IS|TECNO CH6IS|
+|Tecno|TECNO CAMON 20|TECNO-CK6|TECNO CK6|
+|Tecno|TECNO CAMON 20 PRO|TECNO-CK6n|TECNO CK6n|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|
 |Tecno|TECNO CAMON iACE 2x|TECNO-KB2j|TECNO KB2j|
 |Tecno|TECNO CX Air|TECNO-CX-Air|TECNO CX Air|

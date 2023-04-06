@@ -47435,6 +47435,18 @@
    "model": "CS-1A13"
   }
  ],
+ "sarien_cheets": [
+  {
+   "brand": "Dell",
+   "name": "Dell Latitude Chromebook Enterprise",
+   "model": "Dell Latitude 5400 Chromebook Enterprise"
+  },
+  {
+   "brand": "Dell",
+   "name": "Dell Latitude Chromebook Enterprise",
+   "model": "sarien"
+  }
+ ],
  "drallion_cheets": [
   {
    "brand": "Dell",
@@ -66032,6 +66044,13 @@
    "model": "grunt"
   }
  ],
+ "kalista_cheets": [
+  {
+   "brand": "Google",
+   "name": "Chromebase",
+   "model": "kalista"
+  }
+ ],
  "edgar_cheets": [
   {
    "brand": "Google",
@@ -66146,6 +66165,20 @@
    "model": "brya"
   }
  ],
+ "brask_cheets": [
+  {
+   "brand": "Google",
+   "name": "Intel Alder Lake Chromebox",
+   "model": "brask"
+  }
+ ],
+ "nissa_cheets": [
+  {
+   "brand": "Google",
+   "name": "Intel Alder Lake-N Chromebook",
+   "model": "nissa"
+  }
+ ],
  "rammus_cheets": [
   {
    "brand": "Google",
@@ -66252,11 +66285,25 @@
    "model": "kukui"
   }
  ],
+ "corsola_cheets": [
+  {
+   "brand": "Google",
+   "name": "Mediatek MT8186 Chromebook",
+   "model": "corsola"
+  }
+ ],
  "asurada_cheets": [
   {
    "brand": "Google",
    "name": "Mediatek MT8192 Chromebook",
    "model": "asurada"
+  }
+ ],
+ "cherry_cheets": [
+  {
+   "brand": "Google",
+   "name": "Mediatek MT8195 Chromebook",
+   "model": "cherry"
   }
  ],
  "hana_cheets": [
@@ -120254,6 +120301,11 @@
    "brand": "Lenovo",
    "name": "S650",
    "model": "Lenovo S650"
+  },
+  {
+   "brand": "Positivo",
+   "name": "Twist 5 Max",
+   "model": "Twist 5 Max"
   }
  ],
  "S650_ROW": [
@@ -157846,6 +157898,18 @@
    "model": "S480"
   }
  ],
+ "S620": [
+  {
+   "brand": "Positivo",
+   "name": "S620",
+   "model": "S620"
+  },
+  {
+   "brand": "Positivo",
+   "name": "S620",
+   "model": "Twist 5"
+  }
+ ],
  "SP2": [
   {
    "brand": "Positivo",
@@ -158566,6 +158630,13 @@
    "brand": "Positivo",
    "name": "quattro",
    "model": "quattro"
+  }
+ ],
+ "M16QF1XMT8183": [
+  {
+   "brand": "Positivo BGH",
+   "name": "BGH Series Q10",
+   "model": "\"Positivo BGH Series Q10\"\"\""
   }
  ],
  "Y700": [
@@ -163221,11 +163292,25 @@
    "model": "Quantum MUV UP"
   }
  ],
+ "S518AR": [
+  {
+   "brand": "Quantum",
+   "name": "Q-Test",
+   "model": "Q-test"
+  }
+ ],
  "QF3A": [
   {
    "brand": "Quantum",
    "name": "QSPT-1952",
    "model": "QT-195W-aa2"
+  }
+ ],
+ "S600AR": [
+  {
+   "brand": "Quantum",
+   "name": "Qrash",
+   "model": "Qrash"
   }
  ],
  "QC84": [
@@ -172420,11 +172505,6 @@
   {
    "brand": "Samsung",
    "name": "Galaxy A54 5G",
-   "model": "SM-A546S"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy A54 5G",
    "model": "SM-A546U"
   },
   {
@@ -181153,6 +181233,13 @@
    "model": "SM-S906B"
   }
  ],
+ "SC-51D": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S23",
+   "model": "SC-51D"
+  }
+ ],
  "dm1q": [
   {
    "brand": "Samsung",
@@ -181188,6 +181275,13 @@
    "brand": "Samsung",
    "name": "Galaxy S23",
    "model": "SM-S911W"
+  }
+ ],
+ "SC-52D": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy S23 Ultra",
+   "model": "SC-52D"
   }
  ],
  "dm3q": [
@@ -203820,6 +203914,18 @@
    "model": "9080X"
   }
  ],
+ "Eternals11": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 11",
+   "model": "9466X"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 11 LTE",
+   "model": "9166G"
+  }
+ ],
  "U3A_7_WIFI_Refresh": [
   {
    "brand": "TCL",
@@ -214029,6 +214135,20 @@
    "brand": "Tecno",
    "name": "TECNO CAMON 19 Neo",
    "model": "TECNO CH6IS"
+  }
+ ],
+ "TECNO-CK6": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO CAMON 20",
+   "model": "TECNO CK6"
+  }
+ ],
+ "TECNO-CK6n": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO CAMON 20 PRO",
+   "model": "TECNO CK6n"
   }
  ],
  "TECNO-KB2": [
