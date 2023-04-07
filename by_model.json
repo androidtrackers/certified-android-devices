@@ -1355,6 +1355,11 @@
   },
   {
    "brand": "Blaupunkt",
+   "name": "Android TV",
+   "device": "redwood"
+  },
+  {
+   "brand": "Blaupunkt",
    "name": "B5000",
    "device": "ikebukuro"
   },
@@ -1489,6 +1494,11 @@
    "device": "ikebukuro"
   },
   {
+   "brand": "DORA",
+   "name": "Smart TV",
+   "device": "redwood"
+  },
+  {
    "brand": "Ditecma",
    "name": "Smart TV",
    "device": "longshan"
@@ -1552,6 +1562,11 @@
    "brand": "Hitachi",
    "name": "LD50CHS04U",
    "device": "samseong"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "BS5002",
+   "device": "redwood"
   },
   {
    "brand": "Hyundai",
@@ -1887,6 +1902,11 @@
    "brand": "Premier",
    "name": "Smart TV",
    "device": "longshan"
+  },
+  {
+   "brand": "Premier",
+   "name": "Smart TV",
+   "device": "redwood"
   },
   {
    "brand": "Prism",
@@ -42717,6 +42737,11 @@
   {
    "brand": "DIRECTV",
    "name": "DIRECTV",
+   "device": "c71kw400-4gb"
+  },
+  {
+   "brand": "DIRECTV",
+   "name": "DIRECTV",
    "device": "c71kw400-BEAM"
   },
   {
@@ -42728,11 +42753,6 @@
    "brand": "DIRECTV",
    "name": "DIRECTV STREAM",
    "device": "c71kw400"
-  },
-  {
-   "brand": "DIRECTV",
-   "name": "DIRECTV STREAM",
-   "device": "c71kw400-4gb"
   }
  ],
  "c71kw200": [
@@ -56314,6 +56334,13 @@
   }
  ],
  "Fossil Gen 6 Venture Edition": [
+  {
+   "brand": "Fossil",
+   "name": "Fossil Gen 6",
+   "device": "hoki"
+  }
+ ],
+ "Gen 6 Wellness": [
   {
    "brand": "Fossil",
    "name": "Fossil Gen 6",
@@ -244138,6 +244165,13 @@
    "brand": "Yettel",
    "name": "MediaBox",
    "device": "MediaBox_B866V2"
+  }
+ ],
+ "STB BG": [
+  {
+   "brand": "Yettel",
+   "name": "STB BG",
+   "device": "STB_BG_B866V2H01"
   }
  ],
  "4E": [

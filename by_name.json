@@ -7065,6 +7065,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "DORA",
+   "device": "redwood",
+   "model": "AI PONT"
+  },
+  {
    "brand": "Daewoo",
    "device": "mateo",
    "model": "2K SA Smart TV"
@@ -7337,6 +7342,11 @@
   {
    "brand": "Premier",
    "device": "longshan",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Premier",
+   "device": "redwood",
    "model": "AI PONT"
   },
   {
@@ -10033,6 +10043,11 @@
   {
    "brand": "BPL",
    "device": "longshan",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Blaupunkt",
+   "device": "redwood",
    "model": "AI PONT"
   },
   {
@@ -49222,6 +49237,11 @@
  "DIRECTV": [
   {
    "brand": "DIRECTV",
+   "device": "c71kw400-4gb",
+   "model": "AT&T TV"
+  },
+  {
+   "brand": "DIRECTV",
    "device": "c71kw400-BEAM",
    "model": "AT&T TV"
   }
@@ -49240,11 +49260,6 @@
   {
    "brand": "DIRECTV",
    "device": "c71kw400",
-   "model": "AT&T TV"
-  },
-  {
-   "brand": "DIRECTV",
-   "device": "c71kw400-4gb",
    "model": "AT&T TV"
   }
  ],
@@ -63430,6 +63445,11 @@
    "brand": "Fossil",
    "device": "hoki",
    "model": "Fossil Gen 6 Venture Edition"
+  },
+  {
+   "brand": "Fossil",
+   "device": "hoki",
+   "model": "Gen 6 Wellness"
   },
   {
    "brand": "Fossil",
@@ -92621,6 +92641,13 @@
    "brand": "Hyundai",
    "device": "A26062K",
    "model": "A26062K"
+  }
+ ],
+ "BS5002": [
+  {
+   "brand": "Hyundai",
+   "device": "redwood",
+   "model": "AI PONT"
   }
  ],
  "Blade_C5": [
@@ -233147,6 +233174,13 @@
    "brand": "Yettel",
    "device": "MediaBox_B866V2",
    "model": "MediaBox"
+  }
+ ],
+ "STB BG": [
+  {
+   "brand": "Yettel",
+   "device": "STB_BG_B866V2H01",
+   "model": "STB BG"
   }
  ],
  "4E": [

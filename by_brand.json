@@ -17209,6 +17209,11 @@
    "model": "JAPAN\""
   },
   {
+   "device": "redwood",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
+  {
    "device": "Atlantis_A10_G403",
    "name": "Atlantis_A10_G403",
    "model": "Atlantis_A10_G403"
@@ -28943,6 +28948,11 @@
  ],
  "DIRECTV": [
   {
+   "device": "c71kw400-4gb",
+   "name": "DIRECTV",
+   "model": "AT&T TV"
+  },
+  {
    "device": "c71kw400-BEAM",
    "name": "DIRECTV",
    "model": "AT&T TV"
@@ -28959,11 +28969,6 @@
   },
   {
    "device": "c71kw400",
-   "name": "DIRECTV STREAM",
-   "model": "AT&T TV"
-  },
-  {
-   "device": "c71kw400-4gb",
    "name": "DIRECTV STREAM",
    "model": "AT&T TV"
   },
@@ -29163,6 +29168,11 @@
    "device": "R2",
    "name": "Android TV",
    "model": "ATV R2"
+  },
+  {
+   "device": "redwood",
+   "name": "Smart TV",
+   "model": "AI PONT"
   }
  ],
  "DSIC": [
@@ -39071,6 +39081,11 @@
    "device": "hoki",
    "name": "Fossil Gen 6",
    "model": "Fossil Gen 6 Venture Edition"
+  },
+  {
+   "device": "hoki",
+   "name": "Fossil Gen 6",
+   "model": "Gen 6 Wellness"
   },
   {
    "device": "hoki",
@@ -64596,6 +64611,11 @@
    "device": "redwood",
    "name": "Android TV",
    "model": "AI PONT SA"
+  },
+  {
+   "device": "redwood",
+   "name": "BS5002",
+   "model": "AI PONT"
   },
   {
    "device": "Blade_C5",
@@ -121330,6 +121350,11 @@
   },
   {
    "device": "longshan",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
+   "device": "redwood",
    "name": "Smart TV",
    "model": "AI PONT"
   },
@@ -186178,6 +186203,11 @@
    "device": "MediaBox_B866V2",
    "name": "MediaBox",
    "model": "MediaBox"
+  },
+  {
+   "device": "STB_BG_B866V2H01",
+   "name": "STB BG",
+   "model": "STB BG"
   }
  ],
  "Yezz": [

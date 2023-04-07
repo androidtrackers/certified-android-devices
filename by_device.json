@@ -2972,6 +2972,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "Blaupunkt",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
+  {
    "brand": "CHiQ",
    "name": "H7",
    "model": "AI PONT"
@@ -2988,6 +2993,11 @@
   },
   {
    "brand": "Condor",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "DORA",
    "name": "Smart TV",
    "model": "AI PONT"
   },
@@ -3020,6 +3030,11 @@
    "brand": "Hyundai",
    "name": "Android TV",
    "model": "AI PONT SA"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "BS5002",
+   "model": "AI PONT"
   },
   {
    "brand": "Hyundai",
@@ -3084,6 +3099,11 @@
   {
    "brand": "Polaroid",
    "name": "G5N",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Premier",
+   "name": "Smart TV",
    "model": "AI PONT"
   },
   {
@@ -45933,6 +45953,13 @@
    "model": "DISHM7863"
   }
  ],
+ "c71kw400-4gb": [
+  {
+   "brand": "DIRECTV",
+   "name": "DIRECTV",
+   "model": "AT&T TV"
+  }
+ ],
  "c71kw400-BEAM": [
   {
    "brand": "DIRECTV",
@@ -45953,13 +45980,6 @@
   }
  ],
  "c71kw400": [
-  {
-   "brand": "DIRECTV",
-   "name": "DIRECTV STREAM",
-   "model": "AT&T TV"
-  }
- ],
- "c71kw400-4gb": [
   {
    "brand": "DIRECTV",
    "name": "DIRECTV STREAM",
@@ -59650,6 +59670,11 @@
    "brand": "Fossil",
    "name": "Fossil Gen 6",
    "model": "Fossil Gen 6 Venture Edition"
+  },
+  {
+   "brand": "Fossil",
+   "name": "Fossil Gen 6",
+   "model": "Gen 6 Wellness"
   },
   {
    "brand": "Fossil",
@@ -234815,6 +234840,13 @@
    "brand": "YesTeL",
    "name": "X8_EEA",
    "model": "X8"
+  }
+ ],
+ "STB_BG_B866V2H01": [
+  {
+   "brand": "Yettel",
+   "name": "STB BG",
+   "model": "STB BG"
   }
  ],
  "4E": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-04-06
+Last sync is 2023-04-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3331,6 +3331,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|A-STREAM|GMP|A-STREAM|
 |Blaupunkt|"AUSTRALIA|EU|JAPAN|
 |Blaupunkt|"AUSTRALIA|MIDDLE EAST|JAPAN"|
+|Blaupunkt|Android TV|redwood|AI PONT|
 |Blaupunkt|Atlantis_A10_G403|Atlantis_A10_G403|Atlantis_A10_G403|
 |Blaupunkt|Australia|nippori|BP Android TV 2K|
 |Blaupunkt|Australia|tamachi|BLAUPUNKT Android TV|
@@ -5595,11 +5596,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DIFRNCE|DIT702201|DIT702201|NID_7010|
 |DIJITSU|Smart A11s|Smart_A11s|DIJITSU_Smart_A11s|
 |DIMENSIONS|DISHM7863|DISHM7863|DISHM7863|
+|DIRECTV|DIRECTV|c71kw400-4gb|AT&T TV|
 |DIRECTV|DIRECTV|c71kw400-BEAM|AT&T TV|
 |DIRECTV|DIRECTV STREAM|c71kw200|AT&T TV|
 |DIRECTV|DIRECTV STREAM|c71kw200|c71kw200|
 |DIRECTV|DIRECTV STREAM|c71kw400|AT&T TV|
-|DIRECTV|DIRECTV STREAM|c71kw400-4gb|AT&T TV|
 |DIRECTV|OTT-01|HP40A|OTT-01|
 |DIRECTV|Pendant|p21kw500|Pendant|
 |DL|3406|G02DL|Tablet DL 3406|
@@ -5637,6 +5638,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DOMATON|MID_1099IPS|MID_1099IPS|MID_1099IPS|
 |DORA|Android TV|R1|ATV R1|
 |DORA|Android TV|R2|ATV R2|
+|DORA|Smart TV|redwood|AI PONT|
 |DSIC|Mobilebase DS6|ds6|DS6|
 |DSIC|RD86QE|RD86QE|RD86QE|
 |DTC products|S10|S10|S10|
@@ -7519,6 +7521,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Fossil|Fossil Gen 5e|sole|Fossil SS|
 |Fossil|Fossil Gen 6|hoki|Fossil Gen 6|
 |Fossil|Fossil Gen 6|hoki|Fossil Gen 6 Venture Edition|
+|Fossil|Fossil Gen 6|hoki|Gen 6 Wellness|
 |Fossil|Fossil Gen 6|hoki|Gen 6 Wellness Edition|
 |Fossil|Fossil Sport|darter|Fadelite|
 |Fossil|Fossil Sport|darter|Hugo|
@@ -12542,6 +12545,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|Android TV|R2|ATV R2|
 |Hyundai|Android TV|redwood|AI PONT NA|
 |Hyundai|Android TV|redwood|AI PONT SA|
+|Hyundai|BS5002|redwood|AI PONT|
 |Hyundai|Blade_C5|Blade_C5|Blade_C5|
 |Hyundai|Blade_C6|Blade_C6|Blade_C6|
 |Hyundai|Blade_C7|Blade_C7|Blade_C7|
@@ -23600,6 +23604,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Premier|MAXI 20|MAXI_20|MAXI 20|
 |Premier|PRM750USV|samseong|AI PONT|
 |Premier|Smart TV|longshan|AI PONT|
+|Premier|Smart TV|redwood|AI PONT|
 |Premier|TAB-7001-16G|TAB-7001-16G|TAB-7001-16G|
 |Premier|TAB-7293-16G|TAB-7293-16G|TAB-7293-16G|
 |Premier|TAB-7304-16G3GS|TAB-7304-16G3GS|TAB-7304-16G3GS|
@@ -36262,6 +36267,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |YesTeL|X8|YESTEL_X8|X8|
 |YesTeL|X8_EEA|X8_EEA|X8|
 |Yettel|MediaBox|MediaBox_B866V2|MediaBox|
+|Yettel|STB BG|STB_BG_B866V2H01|STB BG|
 |Yezz|4E|4E|4E|
 |Yezz|5.5M|5_5M|5.5M|
 |Yezz|5E|5E|5E|
