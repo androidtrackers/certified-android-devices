@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-04-07
+Last sync is 2023-04-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -32766,6 +32766,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CAMON 18 Premier|TECNO-CH9|TECNO CH9|
 |Tecno|TECNO CAMON 18 Premier|TECNO-CH9n|TECNO CH9n|
 |Tecno|TECNO CAMON 19 Neo|TECNO-CH6IS|TECNO CH6IS|
+|Tecno|TECNO CAMON 19 Neo|TECNO-CH6i|TECNO CH6i|
 |Tecno|TECNO CAMON 20|TECNO-CK6|TECNO CK6|
 |Tecno|TECNO CAMON 20 PRO|TECNO-CK6n|TECNO CK6n|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|
