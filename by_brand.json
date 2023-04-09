@@ -199301,6 +199301,11 @@
    "model": "RMX3612"
   },
   {
+   "device": "REE2ADL1",
+   "name": "RMX3710",
+   "model": "RMX3710"
+  },
+  {
    "device": "mateo",
    "name": "Smart TV",
    "model": "2K PA Smart TV"

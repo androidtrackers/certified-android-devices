@@ -260450,6 +260450,18 @@
    "device": "RE588DL1"
   }
  ],
+ "RMX3710": [
+  {
+   "brand": "realme",
+   "name": "RMX3710",
+   "device": "REE2ADL1"
+  },
+  {
+   "brand": "realme",
+   "name": "realme C55",
+   "device": "REE2ADL1"
+  }
+ ],
  "RMX3571": [
   {
    "brand": "realme",
@@ -260837,13 +260849,6 @@
    "brand": "realme",
    "name": "realme C35",
    "device": "RE87BAL1"
-  }
- ],
- "RMX3710": [
-  {
-   "brand": "realme",
-   "name": "realme C55",
-   "device": "REE2ADL1"
   }
  ],
  "RMX3312": [

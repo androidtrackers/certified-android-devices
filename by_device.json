@@ -249483,6 +249483,18 @@
    "model": "RMX3612"
   }
  ],
+ "REE2ADL1": [
+  {
+   "brand": "realme",
+   "name": "RMX3710",
+   "model": "RMX3710"
+  },
+  {
+   "brand": "realme",
+   "name": "realme C55",
+   "model": "RMX3710"
+  }
+ ],
  "RED8CDL1": [
   {
    "brand": "realme",
@@ -249838,13 +249850,6 @@
    "brand": "realme",
    "name": "realme C35",
    "model": "RMX3513"
-  }
- ],
- "REE2ADL1": [
-  {
-   "brand": "realme",
-   "name": "realme C55",
-   "model": "RMX3710"
   }
  ],
  "RE58B2L1": [

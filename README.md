@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-04-08
+Last sync is 2023-04-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -38825,6 +38825,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|4K Google TV Stick|YYT|4K Google TV Stick|
 |realme|4K Smart TV|gangbyeon|4K AI Smart TV|
 |realme|RMX3612|RE588DL1|RMX3612|
+|realme|RMX3710|REE2ADL1|RMX3710|
 |realme|Smart TV|mateo|2K PA Smart TV|
 |realme|Smart TV|redwood|AI PONT|
 |realme|TV Stick|BOS|TV Stick|
