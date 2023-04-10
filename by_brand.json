@@ -67542,6 +67542,16 @@
    "model": "Infinix_X601_LTE"
   },
   {
+   "device": "Infinix-X6716B",
+   "name": "NOTE 30",
+   "model": "Infinix X6716B"
+  },
+  {
+   "device": "Infinix-X6716",
+   "name": "NOTE 30i",
+   "model": "Infinix X6716"
+  },
+  {
    "device": "Infinix-X572",
    "name": "NOTE 4",
    "model": "Infinix X572"
@@ -118757,6 +118767,11 @@
    "device": "PH9M_EA_5599",
    "name": "Philips Android TV",
    "model": "TPM191L"
+  },
+  {
+   "device": "kujo",
+   "name": "Philips Google TV TA6",
+   "model": "Philips Google TV TA6"
   },
   {
    "device": "S257",
@@ -178102,6 +178117,11 @@
    "model": "V2237"
   },
   {
+   "device": "V2244",
+   "name": "V29 Lite 5G",
+   "model": "V2244"
+  },
+  {
    "device": "PD1524",
    "name": "V3",
    "model": "vivo V3"
@@ -178565,6 +178585,11 @@
    "device": "1801",
    "name": "Y71",
    "model": "vivo 1801"
+  },
+  {
+   "device": "V2244",
+   "name": "Y78 5G",
+   "model": "V2244"
   },
   {
    "device": "PD2271",
@@ -199299,6 +199324,11 @@
    "device": "RE588DL1",
    "name": "RMX3612",
    "model": "RMX3612"
+  },
+  {
+   "device": "RE58AF",
+   "name": "RMX3627",
+   "model": "RMX3627"
   },
   {
    "device": "REE2ADL1",

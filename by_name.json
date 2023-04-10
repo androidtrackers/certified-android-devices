@@ -47187,6 +47187,11 @@
    "brand": "Cubot",
    "device": "NOTE_30",
    "model": "NOTE 30"
+  },
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6716B",
+   "model": "Infinix X6716B"
   }
  ],
  "NOTE 7": [
@@ -96244,6 +96249,13 @@
    "brand": "Infinix",
    "device": "X601-LTE",
    "model": "Infinix_X601_LTE"
+  }
+ ],
+ "NOTE 30i": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6716",
+   "model": "Infinix X6716"
   }
  ],
  "NOTE 4": [
@@ -155685,6 +155697,13 @@
    "brand": "Philips",
    "device": "PH9M_EA_5599",
    "model": "TPM191L"
+  }
+ ],
+ "Philips Google TV TA6": [
+  {
+   "brand": "Philips",
+   "device": "kujo",
+   "model": "Philips Google TV TA6"
   }
  ],
  "Philips S257": [
@@ -223753,6 +223772,13 @@
    "model": "V2237"
   }
  ],
+ "V29 Lite 5G": [
+  {
+   "brand": "Vivo",
+   "device": "V2244",
+   "model": "V2244"
+  }
+ ],
  "V3Lite": [
   {
    "brand": "Vivo",
@@ -224279,6 +224305,13 @@
    "brand": "Vivo",
    "device": "1801",
    "model": "vivo 1801"
+  }
+ ],
+ "Y78 5G": [
+  {
+   "brand": "Vivo",
+   "device": "V2244",
+   "model": "V2244"
   }
  ],
  "Y78+": [
@@ -247354,6 +247387,13 @@
    "brand": "realme",
    "device": "RE588DL1",
    "model": "RMX3612"
+  }
+ ],
+ "RMX3627": [
+  {
+   "brand": "realme",
+   "device": "RE58AF",
+   "model": "RMX3627"
   }
  ],
  "RMX3710": [

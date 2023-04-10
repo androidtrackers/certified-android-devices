@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-04-09
+Last sync is 2023-04-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13108,6 +13108,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|NOTE 3 Pro|X601-3G|Infinix NOTE 3 Pro|
 |Infinix|NOTE 3 Pro|X601-LTE|Infinix NOTE 3 Pro|
 |Infinix|NOTE 3 Pro|X601-LTE|Infinix_X601_LTE|
+|Infinix|NOTE 30|Infinix-X6716B|Infinix X6716B|
+|Infinix|NOTE 30i|Infinix-X6716|Infinix X6716|
 |Infinix|NOTE 4|Infinix-X572|Infinix X572|
 |Infinix|NOTE 4|Infinix-X572|Infinix X572-LTE|
 |Infinix|NOTE 4 Pro|Infinix-X571|Infinix X571|
@@ -23099,6 +23101,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|Philips Android TV|PH9M_EA_5599|TPM191E|
 |Philips|Philips Android TV|PH9M_EA_5599|TPM191KN|
 |Philips|Philips Android TV|PH9M_EA_5599|TPM191L|
+|Philips|Philips Google TV TA6|kujo|Philips Google TV TA6|
 |Philips|Philips S257|S257|Philips S257|
 |Philips|Philips S260|Philips_S260|Philips_S260|
 |Philips|Philips S310X|Philips_S310X|Philips S310X|
@@ -34696,6 +34699,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V27|V2231|V2246|
 |Vivo|V27 Pro|V2230|V2230|
 |Vivo|V27e|V2237|V2237|
+|Vivo|V29 Lite 5G|V2244|V2244|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|
 |Vivo|V3Lite|V3Lite|vivo V3Lite|
@@ -34789,6 +34793,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y66|PD1621|vivo Y66|
 |Vivo|Y67|PD1612|vivo Y67|
 |Vivo|Y71|1801|vivo 1801|
+|Vivo|Y78 5G|V2244|V2244|
 |Vivo|Y78+|PD2271|V2271A|
 |Vivo|Y79A|PD1708|vivo PD1708|
 |Vivo|Y79A|PD1708|vivo Y79A|
@@ -38825,6 +38830,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|4K Google TV Stick|YYT|4K Google TV Stick|
 |realme|4K Smart TV|gangbyeon|4K AI Smart TV|
 |realme|RMX3612|RE588DL1|RMX3612|
+|realme|RMX3627|RE58AF|RMX3627|
 |realme|RMX3710|REE2ADL1|RMX3710|
 |realme|Smart TV|mateo|2K PA Smart TV|
 |realme|Smart TV|redwood|AI PONT|

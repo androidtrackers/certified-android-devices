@@ -93472,6 +93472,20 @@
    "model": "Infinix_X601_LTE"
   }
  ],
+ "Infinix-X6716B": [
+  {
+   "brand": "Infinix",
+   "name": "NOTE 30",
+   "model": "Infinix X6716B"
+  }
+ ],
+ "Infinix-X6716": [
+  {
+   "brand": "Infinix",
+   "name": "NOTE 30i",
+   "model": "Infinix X6716"
+  }
+ ],
  "Infinix-X690": [
   {
    "brand": "Infinix",
@@ -155731,6 +155745,13 @@
    "brand": "Philips",
    "name": "Philips Android TV",
    "model": "TPM191L"
+  }
+ ],
+ "kujo": [
+  {
+   "brand": "Philips",
+   "name": "Philips Google TV TA6",
+   "model": "Philips Google TV TA6"
   }
  ],
  "S257": [
@@ -225643,6 +225664,18 @@
    "model": "V2230"
   }
  ],
+ "V2244": [
+  {
+   "brand": "Vivo",
+   "name": "V29 Lite 5G",
+   "model": "V2244"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y78 5G",
+   "model": "V2244"
+  }
+ ],
  "PD1524": [
   {
    "brand": "Vivo",
@@ -249481,6 +249514,13 @@
    "brand": "realme",
    "name": "realme 9i 5G",
    "model": "RMX3612"
+  }
+ ],
+ "RE58AF": [
+  {
+   "brand": "realme",
+   "name": "RMX3627",
+   "model": "RMX3627"
   }
  ],
  "REE2ADL1": [
