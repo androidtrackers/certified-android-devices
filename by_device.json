@@ -44187,6 +44187,13 @@
    "model": "TAB 10"
   }
  ],
+ "TAB_20": [
+  {
+   "brand": "Cubot",
+   "name": "TAB 20",
+   "model": "TAB 20"
+  }
+ ],
  "X19": [
   {
    "brand": "Cubot",
@@ -135846,6 +135853,11 @@
    "brand": "Motorola",
    "name": "moto g53 5G",
    "model": "moto g53 5G"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g53j 5G",
+   "model": "moto g53j 5G"
   }
  ],
  "chef": [

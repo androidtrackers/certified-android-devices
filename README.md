@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-04-10
+Last sync is 2023-04-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5348,6 +5348,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|RAINBOW 2|RAINBOW_2|RAINBOW 2|
 |Cubot|Rainbow|RAINBOW|RAINBOW|
 |Cubot|TAB 10|TAB_10|TAB 10|
+|Cubot|TAB 20|TAB_20|TAB 20|
 |Cubot|X19|X19|X19|
 |Cubot|X19_S|X19_S|X19 S|
 |Cubot|X20|X20|X20|
@@ -20037,6 +20038,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g52j 5G|cypfr|moto g52j 5G|
 |Motorola|moto g53 5G|penang|moto g stylus 5G (2022)|
 |Motorola|moto g53 5G|penang|moto g53 5G|
+|Motorola|moto g53j 5G|penang|moto g53j 5G|
 |Motorola|moto g6 play|jeter|Moto G Play|
 |Motorola|moto g6 play|jeter|moto g(6) play|
 |Motorola|moto g62 5G|rhodec|moto g51 5G|

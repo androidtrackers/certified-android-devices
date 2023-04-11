@@ -40947,6 +40947,13 @@
    "device": "TAB_10"
   }
  ],
+ "TAB 20": [
+  {
+   "brand": "Cubot",
+   "name": "TAB 20",
+   "device": "TAB_20"
+  }
+ ],
  "X19": [
   {
    "brand": "Cubot",
@@ -139000,6 +139007,13 @@
   {
    "brand": "Motorola",
    "name": "moto g53 5G",
+   "device": "penang"
+  }
+ ],
+ "moto g53j 5G": [
+  {
+   "brand": "Motorola",
+   "name": "moto g53j 5G",
    "device": "penang"
   }
  ],
