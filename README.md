@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-04-11
+Last sync is 2023-04-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4063,6 +4063,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CORN|CORN_X5|CORN_X5|CORN X5|
 |CORN|CORN_X55|CORN_X55|CORN X55|
 |CORN|G60|G60|G60|
+|CORN|Note13|Note13|Note13|
 |CORN|R10|R10S|R10|
 |CORN|R10E|R10E|R10|
 |CORN|R20|R20|CORN R20|
@@ -8078,6 +8079,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Geoelectron|P9IV|P9IV_Handheld|P9IV|
 |Geoelectron|P9IV_Handheld_EEA|P9IV_Handheld|P9IV|
 |Gesellschaft für SMK mBH|Tough Mobile|granite|CP600|
+|Geshem|GS0882T|GS0882T|GS0882T|
+|Geshem|GS0883T|GS0883T|GS0883T|
 |Geshem|GS1081T|GS1081T|GS1081T|
 |Geshem|GS81TE|GS81TE|GS81TE|
 |Get|Get Box|dciw387get|Get boX|
@@ -8651,6 +8654,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HAOVM|P9_EEA|P9_EEA|P9_EEA|
 |HAOVM|PS30|PS30|S30|
 |HAOVM|T2000|T2000|T2000|
+|HAOWEI|HBDC-1122|HBDC-1122|HBDC-1122|
+|HAOWEI|HBDC-822|HBDC-822|HBDC-822|
 |HBESTORE|HL_1068_A133|HL_1068_A133|HL_1068_A133|
 |HDC S.A.|H10_ONE|H10_ONE|H10_ONE|
 |HDC S.A.|H7_ONE|H7_ONE|H7_ONE|
@@ -18330,6 +18335,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Marcel|EU|tamachi|MARCEL Android TV|
 |Marcel|EU|yeongdeungpo|MARCEL Android TV|
 |Marcel|EU、UK、AP|martin|MARCEL Android TV|
+|Marcel|Smart TV|mateo|2K US Smart TV|
 |Marshall|London|KB-1501|London|
 |Marvie|MARVIE_CT4|MARVIE-CT4|CT4|
 |Mascom|MASCOM SS289|MASCOM_SS289|MASCOM SS289|
@@ -33021,6 +33027,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TeloSystems|TELO_TE610|TELO_TE610|TELO_TE610|
 |TeloSystems|TELO_TE610_O|TELO_TE610_O|TELO_TE610_O|
 |Telpo|M1|M1s|M1s|
+|Telpo|M1K|M1K|M1K|
 |Telus|HMB2213PW22TS|HMB2213PW22TS|HMB2213PW22TS|
 |Telus|Pik TV Media Box|HMB2213PW22TS|HMB2213PW22TS|
 |Telus|TELUSTV-21T|uiw4054tlu|TELUSTV-21T|
@@ -34007,6 +34014,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Veidoo|T80_PLUS|T80_PLUS_EEA|T80_PLUS_EEA|
 |Veidoo|V88|V88|V88|
 |Veidoo|VEIDOO_T40_EEA|VEIDOO_T40_EEA|VEIDOO_T40_EEA|
+|Veidoo|VEIDOO_T50|VEIDOO_T50|VEIDOO_T50|
 |Veidoo|VEIDOO_T60|VEIDOO_T60|VEIDOO_T60|
 |Veidoo|VEIDOO_T60_EEA|VEIDOO_T60_EEA|VEIDOO_T60_EEA|
 |Veidoo|VEIDOO_T8|VEIDOO_T8|T8|
@@ -35335,6 +35343,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|Primo S6 Dual|Primo_S6_Dual|Primo S6 Dual|
 |Walton|RX7 Mini|RX7_Mini|RX7 Mini|
 |Walton|Smart TV|mateo|2K PA Smart TV|
+|Walton|Smart TV|mateo|2K US Smart TV|
 |Walton|Smart TV|osaki|2K AI Smart TV|
 |Walton|WALPAD 10H|Walpad_10H|Walpad_10H|
 |Walton|WALPAD 10P|10P|WALPAD 10P|
@@ -36147,6 +36156,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi TV stick 4K|soul|MiTV-AYFR0|
 |Xiaomi|Xiaomi civi2|ziyi|2209129SC|
 |Xiaomi|小米手表|baiji|Mi Watch|
+|Xinlian|HC750|HC750|HC750|
 |Xmobile|X1|X1|X1|
 |Xmobile|X10|XMOBILE|X10|
 |Xmobile|X3|Xmobile_X3|X3|

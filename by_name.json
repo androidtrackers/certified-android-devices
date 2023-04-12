@@ -7230,6 +7230,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "Marcel",
+   "device": "mateo",
+   "model": "2K US Smart TV"
+  },
+  {
    "brand": "Master-G",
    "device": "mateo",
    "model": "2K SA Smart TV"
@@ -7543,6 +7548,11 @@
    "brand": "Walton",
    "device": "mateo",
    "model": "2K PA Smart TV"
+  },
+  {
+   "brand": "Walton",
+   "device": "mateo",
+   "model": "2K US Smart TV"
   },
   {
    "brand": "Walton",
@@ -37996,6 +38006,13 @@
    "model": "CORN X55"
   }
  ],
+ "Note13": [
+  {
+   "brand": "CORN",
+   "device": "Note13",
+   "model": "Note13"
+  }
+ ],
  "R10": [
   {
    "brand": "CORN",
@@ -66966,6 +66983,20 @@
    "model": "P9IV"
   }
  ],
+ "GS0882T": [
+  {
+   "brand": "Geshem",
+   "device": "GS0882T",
+   "model": "GS0882T"
+  }
+ ],
+ "GS0883T": [
+  {
+   "brand": "Geshem",
+   "device": "GS0883T",
+   "model": "GS0883T"
+  }
+ ],
  "GS1081T": [
   {
    "brand": "Geshem",
@@ -71138,6 +71169,20 @@
    "brand": "Serenity",
    "device": "T2000",
    "model": "T2000"
+  }
+ ],
+ "HBDC-1122": [
+  {
+   "brand": "HAOWEI",
+   "device": "HBDC-1122",
+   "model": "HBDC-1122"
+  }
+ ],
+ "HBDC-822": [
+  {
+   "brand": "HAOWEI",
+   "device": "HBDC-822",
+   "model": "HBDC-822"
   }
  ],
  "HL_1068_A133": [
@@ -213496,6 +213541,13 @@
    "model": "TELO_TE610_O"
   }
  ],
+ "M1K": [
+  {
+   "brand": "Telpo",
+   "device": "M1K",
+   "model": "M1K"
+  }
+ ],
  "HMB2213PW22TS": [
   {
    "brand": "Telus",
@@ -219340,6 +219392,13 @@
    "brand": "Veidoo",
    "device": "VEIDOO_T40_EEA",
    "model": "VEIDOO_T40_EEA"
+  }
+ ],
+ "VEIDOO_T50": [
+  {
+   "brand": "Veidoo",
+   "device": "VEIDOO_T50",
+   "model": "VEIDOO_T50"
   }
  ],
  "VEIDOO_T60": [
@@ -232487,6 +232546,13 @@
    "brand": "Xiaomi",
    "device": "baiji",
    "model": "Mi Watch"
+  }
+ ],
+ "HC750": [
+  {
+   "brand": "Xinlian",
+   "device": "HC750",
+   "model": "HC750"
   }
  ],
  "X8Max": [

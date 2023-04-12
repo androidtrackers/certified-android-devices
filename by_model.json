@@ -31774,6 +31774,13 @@
    "device": "CORN_X55"
   }
  ],
+ "Note13": [
+  {
+   "brand": "CORN",
+   "name": "Note13",
+   "device": "Note13"
+  }
+ ],
  "R10": [
   {
    "brand": "CORN",
@@ -60173,6 +60180,20 @@
    "device": "granite"
   }
  ],
+ "GS0882T": [
+  {
+   "brand": "Geshem",
+   "name": "GS0882T",
+   "device": "GS0882T"
+  }
+ ],
+ "GS0883T": [
+  {
+   "brand": "Geshem",
+   "name": "GS0883T",
+   "device": "GS0883T"
+  }
+ ],
  "GS1081T": [
   {
    "brand": "Geshem",
@@ -64338,6 +64359,20 @@
    "device": "T2000"
   }
  ],
+ "HBDC-1122": [
+  {
+   "brand": "HAOWEI",
+   "name": "HBDC-1122",
+   "device": "HBDC-1122"
+  }
+ ],
+ "HBDC-822": [
+  {
+   "brand": "HAOWEI",
+   "name": "HBDC-822",
+   "device": "HBDC-822"
+  }
+ ],
  "HL_1068_A133": [
   {
    "brand": "HBESTORE",
@@ -64519,7 +64554,17 @@
    "device": "mateo"
   },
   {
+   "brand": "Marcel",
+   "name": "Smart TV",
+   "device": "mateo"
+  },
+  {
    "brand": "SUPERSONIC",
+   "name": "Smart TV",
+   "device": "mateo"
+  },
+  {
+   "brand": "Walton",
    "name": "Smart TV",
    "device": "mateo"
   }
@@ -224021,6 +224066,13 @@
    "device": "M1s"
   }
  ],
+ "M1K": [
+  {
+   "brand": "Telpo",
+   "name": "M1K",
+   "device": "M1K"
+  }
+ ],
  "HMB2213PW22TS": [
   {
    "brand": "Telus",
@@ -229786,6 +229838,13 @@
    "brand": "Veidoo",
    "name": "VEIDOO_T40_EEA",
    "device": "VEIDOO_T40_EEA"
+  }
+ ],
+ "VEIDOO_T50": [
+  {
+   "brand": "Veidoo",
+   "name": "VEIDOO_T50",
+   "device": "VEIDOO_T50"
   }
  ],
  "VEIDOO_T60": [
@@ -243496,6 +243555,13 @@
    "brand": "Xiaomi",
    "name": "小米手表",
    "device": "baiji"
+  }
+ ],
+ "HC750": [
+  {
+   "brand": "Xinlian",
+   "name": "HC750",
+   "device": "HC750"
   }
  ],
  "XMOBILE X7": [

@@ -21021,6 +21021,11 @@
    "model": "G60"
   },
   {
+   "device": "Note13",
+   "name": "Note13",
+   "model": "Note13"
+  },
+  {
    "device": "R10S",
    "name": "R10",
    "model": "R10"
@@ -42012,6 +42017,16 @@
  ],
  "Geshem": [
   {
+   "device": "GS0882T",
+   "name": "GS0882T",
+   "model": "GS0882T"
+  },
+  {
+   "device": "GS0883T",
+   "name": "GS0883T",
+   "model": "GS0883T"
+  },
+  {
    "device": "GS1081T",
    "name": "GS1081T",
    "model": "GS1081T"
@@ -44961,6 +44976,18 @@
    "device": "T2000",
    "name": "T2000",
    "model": "T2000"
+  }
+ ],
+ "HAOWEI": [
+  {
+   "device": "HBDC-1122",
+   "name": "HBDC-1122",
+   "model": "HBDC-1122"
+  },
+  {
+   "device": "HBDC-822",
+   "name": "HBDC-822",
+   "model": "HBDC-822"
   }
  ],
  "HBESTORE": [
@@ -94264,6 +94291,11 @@
    "device": "martin",
    "name": "EU、UK、AP",
    "model": "MARCEL Android TV"
+  },
+  {
+   "device": "mateo",
+   "name": "Smart TV",
+   "model": "2K US Smart TV"
   }
  ],
  "Marshall": [
@@ -169367,6 +169399,11 @@
    "device": "M1s",
    "name": "M1",
    "model": "M1s"
+  },
+  {
+   "device": "M1K",
+   "name": "M1K",
+   "model": "M1K"
   }
  ],
  "Telus": [
@@ -174587,6 +174624,11 @@
    "device": "VEIDOO_T40_EEA",
    "name": "VEIDOO_T40_EEA",
    "model": "VEIDOO_T40_EEA"
+  },
+  {
+   "device": "VEIDOO_T50",
+   "name": "VEIDOO_T50",
+   "model": "VEIDOO_T50"
   },
   {
    "device": "VEIDOO_T60",
@@ -181369,6 +181411,11 @@
    "model": "2K PA Smart TV"
   },
   {
+   "device": "mateo",
+   "name": "Smart TV",
+   "model": "2K US Smart TV"
+  },
+  {
    "device": "osaki",
    "name": "Smart TV",
    "model": "2K AI Smart TV"
@@ -185547,6 +185594,13 @@
    "device": "baiji",
    "name": "小米手表",
    "model": "Mi Watch"
+  }
+ ],
+ "Xinlian": [
+  {
+   "device": "HC750",
+   "name": "HC750",
+   "model": "HC750"
   }
  ],
  "Xmobile": [
