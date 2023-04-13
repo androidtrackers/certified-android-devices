@@ -98625,6 +98625,13 @@
    "device": "itel-S662L"
   }
  ],
+ "itel S665L": [
+  {
+   "brand": "Itel",
+   "name": "itel S23",
+   "device": "itel-S665L"
+  }
+ ],
  "itel S32LTE": [
   {
    "brand": "Itel",
@@ -260514,6 +260521,13 @@
    "brand": "onn.",
    "name": "MID8016",
    "device": "mid8016_mk_32"
+  }
+ ],
+ "onn. 4K Streaming Box": [
+  {
+   "brand": "onn.",
+   "name": "onn. 4K Streaming Box",
+   "device": "YOC"
   }
  ],
  "sti6140d360": [

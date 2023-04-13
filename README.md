@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-04-12
+Last sync is 2023-04-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13856,6 +13856,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel S17|itel-S661W|itel S661W|
 |Itel|itel S18|itel-S663L|itel S663L|
 |Itel|itel S18 Pro|itel-S662L|itel S662L|
+|Itel|itel S23|itel-S665L|itel S665L|
 |Itel|itel S32LTE|itel-S32LTE|itel S32LTE|
 |Itel|itel TV|shibuya|itel TV|
 |Itel|itel V41|itel-W4001S|itel W4001S|
@@ -38826,6 +38827,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |onn.|100092980|100092980|100092980|
 |onn.|100092988|mid7019_mr_32|100092988|
 |onn.|MID8016|mid8016_mk_32|MID8016|
+|onn.|onn. 4K Streaming Box|YOC|onn. 4K Streaming Box|
 |onn.|onn. 4k TV|sti6140d360|sti6140d360|
 |pendo|PNDPP44QC10|PNDPP44QC10|PNDPP44QC10|
 |pendo|PNDPP44QC7|PNDPP44QC7|PNDPP44QC7|
