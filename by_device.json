@@ -19321,6 +19321,18 @@
    "model": "ASUS_AI2203_D"
   }
  ],
+ "ASUS_AI2205": [
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 7 (AI2205)",
+   "model": "ASUS_AI2205_A"
+  },
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 7 (AI2205)",
+   "model": "ASUS_AI2205_C"
+  }
+ ],
  "ASUS_I001_1": [
   {
    "brand": "Asus",
@@ -98784,6 +98796,11 @@
    "brand": "JVC",
    "name": "JVC",
    "model": "JVCSA 4KGoogle TV"
+  },
+  {
+   "brand": "MGS",
+   "name": "MGS",
+   "model": "4K MGS Google TV"
   }
  ],
  "kaitak": [
@@ -148144,6 +148161,25 @@
    "brand": "Oppo",
    "name": "CPH2325",
    "model": "CPH2325"
+  }
+ ],
+ "OP571DL1": [
+  {
+   "brand": "Oppo",
+   "name": "CPH2385",
+   "model": "CPH2385"
+  }
+ ],
+ "OP571F": [
+  {
+   "brand": "Oppo",
+   "name": "CPH2387",
+   "model": "CPH2387"
+  },
+  {
+   "brand": "Oppo",
+   "name": "CPH2407",
+   "model": "CPH2407"
   }
  ],
  "OP5325": [

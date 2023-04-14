@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-04-13
+Last sync is 2023-04-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1858,6 +1858,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ROG Phone 6 (AI2201)|ASUS_AI2201|ASUS_AI2201_D|
 |Asus|ROG Phone 6D Ultimate|ASUS_AI2203|ASUS_AI2203_B|
 |Asus|ROG Phone 6D Ultimate|ASUS_AI2203|ASUS_AI2203_D|
+|Asus|ROG Phone 7 (AI2205)|ASUS_AI2205|ASUS_AI2205_A|
+|Asus|ROG Phone 7 (AI2205)|ASUS_AI2205|ASUS_AI2205_C|
 |Asus|ROG Phone ll|ASUS_I001_1|ASUS_I001D|
 |Asus|ROG Phone ll|ASUS_I001_1|ASUS_I001DC|
 |Asus|ROG Phone ll|ASUS_I001_1|ASUS_I001DE|
@@ -18081,6 +18083,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MG series|Any 303|TR10CD2_2|TR10CD2|
 |MG series|Any 303|TR10CD2_3|TR10CD2|
 |MGS|MGS|bangbae|MGS 4K Android TV|
+|MGS|MGS|expo|4K MGS Google TV|
 |MGS|MGS|komagome|MGS 2K Android TV|
 |MHL Mobile Company|TRECFONE_A21S|TRECFONE_A21S|TRECFONE_A21S|
 |MIAPRODUCT|AMBK290471|AMBK290471|AMBK290471|
@@ -21907,6 +21910,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|CPH2309|OP52EBL1|CPH2309|
 |Oppo|CPH2325|OP5303|CPH2325|
 |Oppo|CPH2365|OP4F11L1|CPH2365|
+|Oppo|CPH2385|OP571DL1|CPH2385|
+|Oppo|CPH2387|OP571F|CPH2387|
+|Oppo|CPH2407|OP571F|CPH2407|
 |Oppo|CPH2421|OP5325|CPH2421|
 |Oppo|CPH2455|OP56E1L1|CPH2455|
 |Oppo|CPH2457|OP56E1L1|CPH2457|

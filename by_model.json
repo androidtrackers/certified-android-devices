@@ -16116,6 +16116,20 @@
    "device": "ASUS_AI2203"
   }
  ],
+ "ASUS_AI2205_A": [
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 7 (AI2205)",
+   "device": "ASUS_AI2205"
+  }
+ ],
+ "ASUS_AI2205_C": [
+  {
+   "brand": "Asus",
+   "name": "ROG Phone 7 (AI2205)",
+   "device": "ASUS_AI2205"
+  }
+ ],
  "ASUS_I001D": [
   {
    "brand": "Asus",
@@ -126345,6 +126359,13 @@
    "device": "bangbae"
   }
  ],
+ "4K MGS Google TV": [
+  {
+   "brand": "MGS",
+   "name": "MGS",
+   "device": "expo"
+  }
+ ],
  "MGS 2K Android TV": [
   {
    "brand": "MGS",
@@ -149799,6 +149820,11 @@
    "brand": "Oppo",
    "name": "A57",
    "device": "OP5355"
+  },
+  {
+   "brand": "Oppo",
+   "name": "CPH2387",
+   "device": "OP571F"
   }
  ],
  "CPH2407": [
@@ -149806,6 +149832,11 @@
    "brand": "Oppo",
    "name": "A57",
    "device": "OP5355"
+  },
+  {
+   "brand": "Oppo",
+   "name": "CPH2407",
+   "device": "OP571F"
   }
  ],
  "CPH2385": [
@@ -149813,6 +149844,11 @@
    "brand": "Oppo",
    "name": "A57s/A77",
    "device": "OP5353L1"
+  },
+  {
+   "brand": "Oppo",
+   "name": "CPH2385",
+   "device": "OP571DL1"
   },
   {
    "brand": "Oppo",

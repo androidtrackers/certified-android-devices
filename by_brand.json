@@ -9638,6 +9638,16 @@
    "model": "ASUS_AI2203_D"
   },
   {
+   "device": "ASUS_AI2205",
+   "name": "ROG Phone 7 (AI2205)",
+   "model": "ASUS_AI2205_A"
+  },
+  {
+   "device": "ASUS_AI2205",
+   "name": "ROG Phone 7 (AI2205)",
+   "model": "ASUS_AI2205_C"
+  },
+  {
    "device": "ASUS_I001_1",
    "name": "ROG Phone ll",
    "model": "ASUS_I001D"
@@ -92925,6 +92935,11 @@
    "model": "MGS 4K Android TV"
   },
   {
+   "device": "expo",
+   "name": "MGS",
+   "model": "4K MGS Google TV"
+  },
+  {
    "device": "komagome",
    "name": "MGS",
    "model": "MGS 2K Android TV"
@@ -112665,6 +112680,21 @@
    "device": "OP4F11L1",
    "name": "CPH2365",
    "model": "CPH2365"
+  },
+  {
+   "device": "OP571DL1",
+   "name": "CPH2385",
+   "model": "CPH2385"
+  },
+  {
+   "device": "OP571F",
+   "name": "CPH2387",
+   "model": "CPH2387"
+  },
+  {
+   "device": "OP571F",
+   "name": "CPH2407",
+   "model": "CPH2407"
   },
   {
    "device": "OP5325",
