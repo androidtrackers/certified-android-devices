@@ -112932,6 +112932,16 @@
    "model": "CPH2305"
   },
   {
+   "device": "OP528F",
+   "name": "Find X6",
+   "model": "PGFM10"
+  },
+  {
+   "device": "OP528BL1",
+   "name": "Find X6 Pro",
+   "model": "PGEM10"
+  },
+  {
    "device": "FIND5",
    "name": "Find5",
    "model": "X909"

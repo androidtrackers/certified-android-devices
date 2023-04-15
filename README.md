@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-04-14
+Last sync is 2023-04-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -21960,6 +21960,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Find X3 中国版|OP4E5D|PEDM00|
 |Oppo|Find X5|OP52D5L1|CPH2307|
 |Oppo|Find X5 Pro|OP52D1L1|CPH2305|
+|Oppo|Find X6|OP528F|PGFM10|
+|Oppo|Find X6 Pro|OP528BL1|PGEM10|
 |Oppo|Find5|FIND5|X909|
 |Oppo|Find5|FIND5|X909T|
 |Oppo|K1|PBCM30|PBCM30|
