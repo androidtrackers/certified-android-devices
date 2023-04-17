@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-04-16
+Last sync is 2023-04-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5341,6 +5341,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|P40|P40|P40|
 |Cubot|P50|P50|P50|
 |Cubot|P60|P60|P60|
+|Cubot|P80|P80|P80|
 |Cubot|POCKET 3|POCKET_3|POCKET 3|
 |Cubot|Pocket|Pocket|Pocket|
 |Cubot|QUEST|QUEST|QUEST|
@@ -13953,6 +13954,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|JVC|bruno|JVC2KAndroid TV|
 |JVC|JVC|expo|JVCPA 4KAndroid TV|
 |JVC|JVC|expo|JVCSA 4KGoogle TV|
+|JVC|JVC|expo|JVCUS 4K TV|
 |JVC|JVC|kaitak|JVCPA 4KAndroid TV|
 |JVC|JVC|komagome|EU 2K Android TV|
 |JVC|JVC|komagome|JVC EU 2K Android TV|
@@ -21608,6 +21610,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Nord CE 2|OP555BL1|IV2201|
 |OnePlus|OnePlus Nord CE 2 Lite 5G|OP535DL1|CPH2381|
 |OnePlus|OnePlus Nord CE 2 Lite 5G|OP535DL1|CPH2409|
+|OnePlus|OnePlus Nord CE 3 Lite 5G|OP5958L1|CPH2467|
 |OnePlus|OnePlus Nord CE 5G|OnePlusNordCE|EB2101|
 |OnePlus|OnePlus Nord CE 5G|OnePlusNordCE|EB2103|
 |OnePlus|OnePlus Nord N10 5G|OnePlusN10|BE2026|
@@ -25761,6 +25764,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A23 5G|a23xq|SM-A236U1|
 |Samsung|Galaxy A23 5G|a23xq|SM-S236DL|
 |Samsung|Galaxy A23 5G UW|a23xq|SM-A236V|
+|Samsung|Galaxy A24|a24|SM-A245F|
+|Samsung|Galaxy A24|a24|SM-A245M|
+|Samsung|Galaxy A24|a24|SM-A245N|
 |Samsung|Galaxy A3|a33g|SM-A300H|
 |Samsung|Galaxy A3|a3lte|SM-A300F|
 |Samsung|Galaxy A3|a3lte|SM-A300M|
@@ -33879,6 +33885,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VIMOQ|VIMOQ  AC50|VIMOQ-A507LD|VIMOQ A507LD|
 |VIMOQ|VIMOQ A507LT|VIMOQ-A507LT|VIMOQ A507LT|
 |VIMOQ|VIMOQ V51 LTE|VIMOQ-A507LE|VIMOQ A507LE|
+|VIMOQ|VIMOQ Vision 3|VIMOQ-S661LS|VIMOQ S661LS|
 |VIMOQ|itel A18|VIMOQ-A512WS|VIMOQ A512WS|
 |VIPER|SZ11MK1|SZ11MK1|SZ11MK1|
 |VIPER|VIPER-Z08MK|VIPER-Z08MK|Z08MK|
@@ -34812,8 +34819,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y66|PD1621|vivo Y66|
 |Vivo|Y67|PD1612|vivo Y67|
 |Vivo|Y71|1801|vivo 1801|
+|Vivo|Y78|PD2278|V2278A|
 |Vivo|Y78 5G|V2244|V2244|
 |Vivo|Y78+|PD2271|V2271A|
+|Vivo|Y78m|PD2278|V2278A|
 |Vivo|Y79A|PD1708|vivo PD1708|
 |Vivo|Y79A|PD1708|vivo Y79A|
 |Vivo|Y937|PD1503|vivo Y937|
@@ -34930,6 +34939,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo S16|PD2244|V2244A|
 |Vivo|vivo S16 Pro|PD2245|V2245A|
 |Vivo|vivo T2|PD2199|V2199GA|
+|Vivo|vivo X Flip|PD2256|V2256A|
 |Vivo|vivo X Fold|PD2178|V2178A|
 |Vivo|vivo X Fold+|PD2229|V2229A|
 |Vivo|vivo X Note|PD2170|V2170A|
@@ -35187,6 +35197,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vu Televisions|50CA|samseong|AI PONT|
 |Vu Televisions|50CLED/55CLED/65CLED|songshan|VU TV FFM|
 |Vu Televisions|Android TV|longshan|AI PONT|
+|Vu Televisions|ULED|wuyishan|VU TV FFM|
 |Vu Televisions|fushan_vu|hamamatsucho|Smart 2K ATV4|
 |Vu Televisions|huangshan_emV|huangshan|VU TV|
 |Vu Televisions|xiaoyushan-vu|xiaoyushan|HiSmartTV A4|

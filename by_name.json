@@ -37489,6 +37489,11 @@
    "brand": "CHAINWAY",
    "device": "P80",
    "model": "P80"
+  },
+  {
+   "brand": "Cubot",
+   "device": "P80",
+   "model": "P80"
   }
  ],
  "P80_EEA": [
@@ -56422,6 +56427,11 @@
    "brand": "JVC",
    "device": "expo",
    "model": "JVCSA 4KGoogle TV"
+  },
+  {
+   "brand": "JVC",
+   "device": "expo",
+   "model": "JVCUS 4K TV"
   },
   {
    "brand": "JVC",
@@ -82594,6 +82604,11 @@
    "brand": "Hisense",
    "device": "wuyishan",
    "model": "SmartTV 4K FFM"
+  },
+  {
+   "brand": "Vu Televisions",
+   "device": "wuyishan",
+   "model": "VU TV FFM"
   }
  ],
  "VH777": [
@@ -146413,6 +146428,13 @@
    "model": "CPH2409"
   }
  ],
+ "OnePlus Nord CE 3 Lite 5G": [
+  {
+   "brand": "OnePlus",
+   "device": "OP5958L1",
+   "model": "CPH2467"
+  }
+ ],
  "OnePlus Nord CE 5G": [
   {
    "brand": "OnePlus",
@@ -172123,6 +172145,23 @@
    "brand": "Samsung",
    "device": "a23xq",
    "model": "SM-A236V"
+  }
+ ],
+ "Galaxy A24": [
+  {
+   "brand": "Samsung",
+   "device": "a24",
+   "model": "SM-A245F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a24",
+   "model": "SM-A245M"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a24",
+   "model": "SM-A245N"
   }
  ],
  "Galaxy A3": [
@@ -218683,6 +218722,13 @@
    "model": "VIMOQ A507LE"
   }
  ],
+ "VIMOQ Vision 3": [
+  {
+   "brand": "VIMOQ",
+   "device": "VIMOQ-S661LS",
+   "model": "VIMOQ S661LS"
+  }
+ ],
  "SZ11MK1": [
   {
    "brand": "VIPER",
@@ -224439,6 +224485,13 @@
    "model": "vivo 1801"
   }
  ],
+ "Y78": [
+  {
+   "brand": "Vivo",
+   "device": "PD2278",
+   "model": "V2278A"
+  }
+ ],
  "Y78 5G": [
   {
    "brand": "Vivo",
@@ -224451,6 +224504,13 @@
    "brand": "Vivo",
    "device": "PD2271",
    "model": "V2271A"
+  }
+ ],
+ "Y78m": [
+  {
+   "brand": "Vivo",
+   "device": "PD2278",
+   "model": "V2278A"
   }
  ],
  "Y79A": [
@@ -225219,6 +225279,13 @@
    "brand": "Vivo",
    "device": "PD2199",
    "model": "V2199GA"
+  }
+ ],
+ "vivo X Flip": [
+  {
+   "brand": "Vivo",
+   "device": "PD2256",
+   "model": "V2256A"
   }
  ],
  "vivo X Fold": [

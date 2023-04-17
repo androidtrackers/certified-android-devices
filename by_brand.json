@@ -27635,6 +27635,11 @@
    "model": "P60"
   },
   {
+   "device": "P80",
+   "name": "P80",
+   "model": "P80"
+  },
+  {
    "device": "POCKET_3",
    "name": "POCKET 3",
    "model": "POCKET 3"
@@ -71851,6 +71856,11 @@
    "model": "JVCSA 4KGoogle TV"
   },
   {
+   "device": "expo",
+   "name": "JVC",
+   "model": "JVCUS 4K TV"
+  },
+  {
    "device": "kaitak",
    "name": "JVC",
    "model": "JVCPA 4KAndroid TV"
@@ -111154,6 +111164,11 @@
    "model": "CPH2409"
   },
   {
+   "device": "OP5958L1",
+   "name": "OnePlus Nord CE 3 Lite 5G",
+   "model": "CPH2467"
+  },
+  {
    "device": "OnePlusNordCE",
    "name": "OnePlus Nord CE 5G",
    "model": "EB2101"
@@ -132523,6 +132538,21 @@
    "device": "a23xq",
    "name": "Galaxy A23 5G UW",
    "model": "SM-A236V"
+  },
+  {
+   "device": "a24",
+   "name": "Galaxy A24",
+   "model": "SM-A245F"
+  },
+  {
+   "device": "a24",
+   "name": "Galaxy A24",
+   "model": "SM-A245M"
+  },
+  {
+   "device": "a24",
+   "name": "Galaxy A24",
+   "model": "SM-A245N"
   },
   {
    "device": "a33g",
@@ -173905,6 +173935,11 @@
    "model": "VIMOQ A507LE"
   },
   {
+   "device": "VIMOQ-S661LS",
+   "name": "VIMOQ Vision 3",
+   "model": "VIMOQ S661LS"
+  },
+  {
    "device": "VIMOQ-A512WS",
    "name": "itel A18",
    "model": "VIMOQ A512WS"
@@ -178684,6 +178719,11 @@
    "model": "vivo 1801"
   },
   {
+   "device": "PD2278",
+   "name": "Y78",
+   "model": "V2278A"
+  },
+  {
    "device": "V2244",
    "name": "Y78 5G",
    "model": "V2244"
@@ -178692,6 +178732,11 @@
    "device": "PD2271",
    "name": "Y78+",
    "model": "V2271A"
+  },
+  {
+   "device": "PD2278",
+   "name": "Y78m",
+   "model": "V2278A"
   },
   {
    "device": "PD1708",
@@ -179272,6 +179317,11 @@
    "device": "PD2199",
    "name": "vivo T2",
    "model": "V2199GA"
+  },
+  {
+   "device": "PD2256",
+   "name": "vivo X Flip",
+   "model": "V2256A"
   },
   {
    "device": "PD2178",
@@ -180593,6 +180643,11 @@
    "device": "longshan",
    "name": "Android TV",
    "model": "AI PONT"
+  },
+  {
+   "device": "wuyishan",
+   "name": "ULED",
+   "model": "VU TV FFM"
   },
   {
    "device": "hamamatsucho",

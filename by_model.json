@@ -31308,6 +31308,11 @@
    "brand": "CHAINWAY",
    "name": "P80_EEA",
    "device": "P80"
+  },
+  {
+   "brand": "Cubot",
+   "name": "P80",
+   "device": "P80"
   }
  ],
  "HCE600": [
@@ -99213,6 +99218,13 @@
    "device": "expo"
   }
  ],
+ "JVCUS 4K TV": [
+  {
+   "brand": "JVC",
+   "name": "JVC",
+   "device": "expo"
+  }
+ ],
  "EU 2K Android TV": [
   {
    "brand": "JVC",
@@ -148669,6 +148681,13 @@
    "device": "OP535DL1"
   }
  ],
+ "CPH2467": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord CE 3 Lite 5G",
+   "device": "OP5958L1"
+  }
+ ],
  "EB2101": [
   {
    "brand": "OnePlus",
@@ -175733,6 +175752,27 @@
    "brand": "Samsung",
    "name": "Galaxy A23 5G UW",
    "device": "a23xq"
+  }
+ ],
+ "SM-A245F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A24",
+   "device": "a24"
+  }
+ ],
+ "SM-A245M": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A24",
+   "device": "a24"
+  }
+ ],
+ "SM-A245N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A24",
+   "device": "a24"
   }
  ],
  "SM-A300H": [
@@ -229134,6 +229174,13 @@
    "device": "VIMOQ-A507LE"
   }
  ],
+ "VIMOQ S661LS": [
+  {
+   "brand": "VIMOQ",
+   "name": "VIMOQ Vision 3",
+   "device": "VIMOQ-S661LS"
+  }
+ ],
  "VIMOQ A512WS": [
   {
    "brand": "VIMOQ",
@@ -235181,6 +235228,18 @@
    "device": "1801"
   }
  ],
+ "V2278A": [
+  {
+   "brand": "Vivo",
+   "name": "Y78",
+   "device": "PD2278"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y78m",
+   "device": "PD2278"
+  }
+ ],
  "V2271A": [
   {
    "brand": "Vivo",
@@ -235931,6 +235990,13 @@
    "brand": "Vivo",
    "name": "vivo T2",
    "device": "PD2199"
+  }
+ ],
+ "V2256A": [
+  {
+   "brand": "Vivo",
+   "name": "vivo X Flip",
+   "device": "PD2256"
   }
  ],
  "V2178A": [
@@ -237508,6 +237574,11 @@
    "brand": "Vu Televisions",
    "name": "50CLED/55CLED/65CLED",
    "device": "songshan"
+  },
+  {
+   "brand": "Vu Televisions",
+   "name": "ULED",
+   "device": "wuyishan"
   }
  ],
  "Smart 2K ATV4": [
