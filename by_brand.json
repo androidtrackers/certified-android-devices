@@ -92878,7 +92878,7 @@
   },
   {
    "device": "ME40K_M",
-   "name": "ME40K",
+   "name": "ME40M",
    "model": "ME40K"
   }
  ],
@@ -111166,6 +111166,11 @@
   {
    "device": "OP5958L1",
    "name": "OnePlus Nord CE 3 Lite 5G",
+   "model": "CPH2465"
+  },
+  {
+   "device": "OP5958L1",
+   "name": "OnePlus Nord CE 3 Lite 5G",
    "model": "CPH2467"
   },
   {
@@ -128643,6 +128648,11 @@
  ],
  "Riviera": [
   {
+   "device": "sindorim",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
+  {
    "device": "songshan",
    "name": "HIKA5",
    "model": "SmartTV 4K"
@@ -128650,11 +128660,6 @@
   {
    "device": "ikebukuro",
    "name": "RLED-AND42CHG6F",
-   "model": "AI PONT"
-  },
-  {
-   "device": "sindorim",
-   "name": "RLED-AND50CHG6FP",
    "model": "AI PONT"
   },
   {
@@ -135078,6 +135083,11 @@
    "device": "f52x",
    "name": "Galaxy F52 5G",
    "model": "SM-E5260"
+  },
+  {
+   "device": "m54x",
+   "name": "Galaxy F54 5G",
+   "model": "SM-E546B"
   },
   {
    "device": "f62",
@@ -156652,6 +156662,16 @@
    "device": "Z45",
    "name": "Z45",
    "model": "Symphony Z45"
+  },
+  {
+   "device": "Z60",
+   "name": "Z60",
+   "model": "Symphony Z60"
+  },
+  {
+   "device": "Z60",
+   "name": "Z60",
+   "model": "Z60"
   },
   {
    "device": "ZVII",
@@ -185689,6 +185709,11 @@
    "device": "ziyi",
    "name": "Xiaomi civi2",
    "model": "2209129SC"
+  },
+  {
+   "device": "liuqin",
+   "name": "Xiaomi pad 6 Pro",
+   "model": "23046RP50C"
   },
   {
    "device": "baiji",

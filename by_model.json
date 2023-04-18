@@ -1950,13 +1950,13 @@
   },
   {
    "brand": "Riviera",
-   "name": "RLED-AND42CHG6F",
-   "device": "ikebukuro"
+   "name": "Android TV",
+   "device": "sindorim"
   },
   {
    "brand": "Riviera",
-   "name": "RLED-AND50CHG6FP",
-   "device": "sindorim"
+   "name": "RLED-AND42CHG6F",
+   "device": "ikebukuro"
   },
   {
    "brand": "SABA",
@@ -117273,6 +117273,11 @@
    "brand": "Lava",
    "name": "Z60",
    "device": "Z60"
+  },
+  {
+   "brand": "Symphony",
+   "name": "Z60",
+   "device": "Z60"
   }
  ],
  "Z60s": [
@@ -126305,7 +126310,7 @@
   },
   {
    "brand": "MEFERI",
-   "name": "ME40K",
+   "name": "ME40M",
    "device": "ME40K_M"
   }
  ],
@@ -148679,6 +148684,13 @@
    "brand": "OnePlus",
    "name": "OnePlus Nord CE 2 Lite 5G",
    "device": "OP535DL1"
+  }
+ ],
+ "CPH2465": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord CE 3 Lite 5G",
+   "device": "OP5958L1"
   }
  ],
  "CPH2467": [
@@ -179272,6 +179284,13 @@
    "device": "f52x"
   }
  ],
+ "SM-E546B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy F54 5G",
+   "device": "m54x"
+  }
+ ],
  "SM-E625F": [
   {
    "brand": "Samsung",
@@ -207392,6 +207411,13 @@
    "brand": "Symphony",
    "name": "Z45",
    "device": "Z45"
+  }
+ ],
+ "Symphony Z60": [
+  {
+   "brand": "Symphony",
+   "name": "Z60",
+   "device": "Z60"
   }
  ],
  "ZVII": [
@@ -243676,6 +243702,13 @@
    "brand": "Xiaomi",
    "name": "Xiaomi civi2",
    "device": "ziyi"
+  }
+ ],
+ "23046RP50C": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi pad 6 Pro",
+   "device": "liuqin"
   }
  ],
  "Mi Watch": [

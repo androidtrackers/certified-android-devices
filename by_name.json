@@ -10461,6 +10461,11 @@
    "model": "ATV R2"
   },
   {
+   "brand": "Riviera",
+   "device": "sindorim",
+   "model": "AI PONT"
+  },
+  {
    "brand": "SAMPO",
    "device": "R2",
    "model": "ATV R2"
@@ -117556,6 +117561,16 @@
    "brand": "Lava",
    "device": "Z60",
    "model": "Z60"
+  },
+  {
+   "brand": "Symphony",
+   "device": "Z60",
+   "model": "Symphony Z60"
+  },
+  {
+   "brand": "Symphony",
+   "device": "Z60",
+   "model": "Z60"
   }
  ],
  "Z60S": [
@@ -125438,7 +125453,9 @@
    "brand": "MEFERI",
    "device": "ME40K",
    "model": "ME40K"
-  },
+  }
+ ],
+ "ME40M": [
   {
    "brand": "MEFERI",
    "device": "ME40K_M",
@@ -146429,6 +146446,11 @@
   }
  ],
  "OnePlus Nord CE 3 Lite 5G": [
+  {
+   "brand": "OnePlus",
+   "device": "OP5958L1",
+   "model": "CPH2465"
+  },
   {
    "brand": "OnePlus",
    "device": "OP5958L1",
@@ -167888,13 +167910,6 @@
    "model": "AI PONT"
   }
  ],
- "RLED-AND50CHG6FP": [
-  {
-   "brand": "Riviera",
-   "device": "sindorim",
-   "model": "AI PONT"
-  }
- ],
  "Riviera": [
   {
    "brand": "Riviera",
@@ -174896,6 +174911,13 @@
    "brand": "Samsung",
    "device": "f52x",
    "model": "SM-E5260"
+  }
+ ],
+ "Galaxy F54 5G": [
+  {
+   "brand": "Samsung",
+   "device": "m54x",
+   "model": "SM-E546B"
   }
  ],
  "Galaxy F62": [
@@ -232665,6 +232687,13 @@
    "brand": "Xiaomi",
    "device": "ziyi",
    "model": "2209129SC"
+  }
+ ],
+ "Xiaomi pad 6 Pro": [
+  {
+   "brand": "Xiaomi",
+   "device": "liuqin",
+   "model": "23046RP50C"
   }
  ],
  "小米手表": [

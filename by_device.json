@@ -10234,7 +10234,7 @@
   },
   {
    "brand": "Riviera",
-   "name": "RLED-AND50CHG6FP",
+   "name": "Android TV",
    "model": "AI PONT"
   },
   {
@@ -115374,6 +115374,16 @@
    "brand": "Lava",
    "name": "Z60",
    "model": "Z60"
+  },
+  {
+   "brand": "Symphony",
+   "name": "Z60",
+   "model": "Symphony Z60"
+  },
+  {
+   "brand": "Symphony",
+   "name": "Z60",
+   "model": "Z60"
   }
  ],
  "Z60s": [
@@ -124398,7 +124408,7 @@
  "ME40K_M": [
   {
    "brand": "MEFERI",
-   "name": "ME40K",
+   "name": "ME40M",
    "model": "ME40K"
   }
  ],
@@ -146324,6 +146334,11 @@
   }
  ],
  "OP5958L1": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord CE 3 Lite 5G",
+   "model": "CPH2465"
+  },
   {
    "brand": "OnePlus",
    "name": "OnePlus Nord CE 3 Lite 5G",
@@ -174910,6 +174925,13 @@
    "brand": "Samsung",
    "name": "Galaxy F52 5G",
    "model": "SM-E5260"
+  }
+ ],
+ "m54x": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy F54 5G",
+   "model": "SM-E546B"
   }
  ],
  "f62": [
@@ -234410,6 +234432,13 @@
    "brand": "Xiaomi",
    "name": "Xiaomi TV stick 4K",
    "model": "MiTV-AYFR0"
+  }
+ ],
+ "liuqin": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi pad 6 Pro",
+   "model": "23046RP50C"
   }
  ],
  "baiji": [

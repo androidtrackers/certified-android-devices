@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-04-17
+Last sync is 2023-04-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -18073,7 +18073,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MEDER|MEDER|smartguide210_eea|SmartGuide_2.10|
 |MEDER|SmartGuide210-464|SmartGuide210-464|SmartGuide210-464|
 |MEFERI|ME40K|ME40K|ME40K|
-|MEFERI|ME40K|ME40K_M|ME40K|
+|MEFERI|ME40M|ME40K_M|ME40K|
 |MEO(Portugal)|MEO TV Box 4K|DV8555-MEO|MEO TV Box 4K|
 |MEO(Portugal)|MEO TV Box 4K (DIW3930)|DIW3930-MEO|MEO TV Box 4K (DIW3930)|
 |MEO(Portugal)|MEOBox 4K|DIW3930-MEO|MEO TV Box 4K (DIW3930)|
@@ -21610,6 +21610,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Nord CE 2|OP555BL1|IV2201|
 |OnePlus|OnePlus Nord CE 2 Lite 5G|OP535DL1|CPH2381|
 |OnePlus|OnePlus Nord CE 2 Lite 5G|OP535DL1|CPH2409|
+|OnePlus|OnePlus Nord CE 3 Lite 5G|OP5958L1|CPH2465|
 |OnePlus|OnePlus Nord CE 3 Lite 5G|OP5958L1|CPH2467|
 |OnePlus|OnePlus Nord CE 5G|OnePlusNordCE|EB2101|
 |OnePlus|OnePlus Nord CE 5G|OnePlusNordCE|EB2103|
@@ -25021,9 +25022,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rinno|R505|Rinno_R505|R505|
 |Rinno|R520|R520|R520|
 |Rinno|R550|R550|R550|
+|Riviera|Android TV|sindorim|AI PONT|
 |Riviera|HIKA5|songshan|SmartTV 4K|
 |Riviera|RLED-AND42CHG6F|ikebukuro|AI PONT|
-|Riviera|RLED-AND50CHG6FP|sindorim|AI PONT|
 |Riviera|Riviera|hamamatsucho|Smart TV|
 |Riviera|xiaoyushan_riviera|xiaoyushan|HiSmartTV A4|
 |Rixun|T107|T107|T107|
@@ -26272,6 +26273,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy F41|f41|SM-F415F|
 |Samsung|Galaxy F42 5G|f42x|SM-E426B|
 |Samsung|Galaxy F52 5G|f52x|SM-E5260|
+|Samsung|Galaxy F54 5G|m54x|SM-E546B|
 |Samsung|Galaxy F62|f62|SM-E625F|
 |Samsung|Galaxy Fame|SCH-I629|SCH-I629|
 |Samsung|Galaxy Fame|nevis|GT-S6810|
@@ -30528,6 +30530,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|Z40|Z40|Z40|
 |Symphony|Z42|Z42|Z42|
 |Symphony|Z45|Z45|Symphony Z45|
+|Symphony|Z60|Z60|Symphony Z60|
+|Symphony|Z60|Z60|Z60|
 |Symphony|ZVII|ZVII|ZVII|
 |Symphony|ZVIII|ZVIII|ZVIII|
 |Symphony|i10|i10|i10|
@@ -36175,6 +36179,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi Pad 5 Pro 5G|enuma|M2105K81C|
 |Xiaomi|Xiaomi TV stick 4K|soul|MiTV-AYFR0|
 |Xiaomi|Xiaomi civi2|ziyi|2209129SC|
+|Xiaomi|Xiaomi pad 6 Pro|liuqin|23046RP50C|
 |Xiaomi|小米手表|baiji|Mi Watch|
 |Xinlian|HC750|HC750|HC750|
 |Xmobile|X1|X1|X1|
