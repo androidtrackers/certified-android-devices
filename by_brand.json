@@ -44168,7 +44168,7 @@
   },
   {
    "device": "jacuzzi_cheets",
-   "name": "Mediatek MT8173 Chromebook",
+   "name": "Mediatek MT8183 Chromebook",
    "model": "jacuzzi"
   },
   {
@@ -54678,6 +54678,11 @@
    "model": "HiSmart 2K ATV4"
   },
   {
+   "device": "hamamatsucho",
+   "name": "fushan_sa",
+   "model": "HiSmart TV"
+  },
+  {
    "device": "huangshan",
    "name": "huangshan",
    "model": "SmartTV 4K"
@@ -55899,6 +55904,11 @@
    "model": "CRT-LX3"
   },
   {
+   "device": "HNRBN-Q",
+   "name": "HONOR X8a 5G",
+   "model": "RBN-NX3"
+  },
+  {
    "device": "HNANY-Q1",
    "name": "HONOR X9",
    "model": "ANY-LX1"
@@ -55922,6 +55932,11 @@
    "device": "HNRMO-Q",
    "name": "HONOR X9a 5G",
    "model": "RMO-NX1"
+  },
+  {
+   "device": "HNRBN-Q",
+   "name": "RBN-NX1",
+   "model": "RBN-NX1"
   }
  ],
  "Hoozo": [
@@ -111262,6 +111277,16 @@
    "device": "OnePlusN200TMO",
    "name": "OnePlus Nord N200 5G",
    "model": "DE2118"
+  },
+  {
+   "device": "OP5958L1",
+   "name": "OnePlus Nord N30 5G",
+   "model": "CPH2513"
+  },
+  {
+   "device": "OP5958L1",
+   "name": "OnePlus Nord N30 5G",
+   "model": "CPH2515"
   },
   {
    "device": "OP515BL1",

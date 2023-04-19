@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-04-18
+Last sync is 2023-04-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8499,7 +8499,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Intel Jasper Lake Chromebook|keeby_cheets|keeby|
 |Google|Intel Kaby Lake U Chromebook|nami_cheets|nami|
 |Google|Intel Tiger Lake Chromebook|volteer_cheets|volteer|
-|Google|Mediatek MT8173 Chromebook|jacuzzi_cheets|jacuzzi|
+|Google|Mediatek MT8183 Chromebook|jacuzzi_cheets|jacuzzi|
 |Google|Mediatek MT8183 Tablet|kukui_cheets|kukui|
 |Google|Mediatek MT8186 Chromebook|corsola_cheets|corsola|
 |Google|Mediatek MT8192 Chromebook|asurada_cheets|asurada|
@@ -10570,6 +10570,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|fushan_em|hamamatsucho|HiSmart 2K ATV4|
 |Hisense|fushan_emeu|hamamatsucho|HiSmart 2K ATV4|
 |Hisense|fushan_sa|hamamatsucho|HiSmart 2K ATV4|
+|Hisense|fushan_sa|hamamatsucho|HiSmart TV|
 |Hisense|huangshan|huangshan|SmartTV 4K|
 |Hisense|huangshan|huangshan|SmartTV 4K FFM|
 |Hisense|l676be|HS8929QC|Hisense L676|
@@ -10809,11 +10810,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X8a|HNCRT-M1|CRT-LX1|
 |Honor|HONOR X8a|HNCRT-M1|CRT-LX2|
 |Honor|HONOR X8a|HNCRT-M1|CRT-LX3|
+|Honor|HONOR X8a 5G|HNRBN-Q|RBN-NX3|
 |Honor|HONOR X9|HNANY-Q1|ANY-LX1|
 |Honor|HONOR X9|HNANY-Q1|ANY-LX2|
 |Honor|HONOR X9|HNANY-Q1|ANY-LX3|
 |Honor|HONOR X9 5G|HNANY-Q|ANY-NX1|
 |Honor|HONOR X9a 5G|HNRMO-Q|RMO-NX1|
+|Honor|RBN-NX1|HNRBN-Q|RBN-NX1|
 |Hoozo|HZ0010|HZ0010|HZ0010|
 |Hoozo|HZ0010J|HZ0010J|HZ0010J|
 |Hoozo|HZ0011|HZ0011|HZ0011|
@@ -21630,6 +21633,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Nord N20 5G|OP515AL1|GN2200|
 |OnePlus|OnePlus Nord N200 5G|OnePlusN200|DE2117|
 |OnePlus|OnePlus Nord N200 5G|OnePlusN200TMO|DE2118|
+|OnePlus|OnePlus Nord N30 5G|OP5958L1|CPH2513|
+|OnePlus|OnePlus Nord N30 5G|OP5958L1|CPH2515|
 |OnePlus|OnePlus Nord2 5G|OP515BL1|DN2101|
 |OnePlus|OnePlus Nord2 5G|OP515BL1|DN2103|
 |OnePlus|OnePlus2|OnePlus2|ONE A2003|

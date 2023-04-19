@@ -70042,7 +70042,7 @@
    "model": "volteer"
   }
  ],
- "Mediatek MT8173 Chromebook": [
+ "Mediatek MT8183 Chromebook": [
   {
    "brand": "Google",
    "device": "jacuzzi_cheets",
@@ -82840,6 +82840,11 @@
    "brand": "Hisense",
    "device": "hamamatsucho",
    "model": "HiSmart 2K ATV4"
+  },
+  {
+   "brand": "Hisense",
+   "device": "hamamatsucho",
+   "model": "HiSmart TV"
   }
  ],
  "huangshan": [
@@ -84236,6 +84241,13 @@
    "model": "CRT-LX3"
   }
  ],
+ "HONOR X8a 5G": [
+  {
+   "brand": "Honor",
+   "device": "HNRBN-Q",
+   "model": "RBN-NX3"
+  }
+ ],
  "HONOR X9": [
   {
    "brand": "Honor",
@@ -84265,6 +84277,13 @@
    "brand": "Honor",
    "device": "HNRMO-Q",
    "model": "RMO-NX1"
+  }
+ ],
+ "RBN-NX1": [
+  {
+   "brand": "Honor",
+   "device": "HNRBN-Q",
+   "model": "RBN-NX1"
   }
  ],
  "HZ0010": [
@@ -146555,6 +146574,18 @@
    "brand": "OnePlus",
    "device": "OnePlusN200TMO",
    "model": "DE2118"
+  }
+ ],
+ "OnePlus Nord N30 5G": [
+  {
+   "brand": "OnePlus",
+   "device": "OP5958L1",
+   "model": "CPH2513"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OP5958L1",
+   "model": "CPH2515"
   }
  ],
  "OnePlus Nord2 5G": [

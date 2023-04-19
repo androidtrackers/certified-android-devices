@@ -63244,7 +63244,7 @@
  "jacuzzi": [
   {
    "brand": "Google",
-   "name": "Mediatek MT8173 Chromebook",
+   "name": "Mediatek MT8183 Chromebook",
    "device": "jacuzzi_cheets"
   }
  ],
@@ -76879,6 +76879,11 @@
    "brand": "Hisense",
    "name": "fushan_2",
    "device": "hamamatsucho"
+  },
+  {
+   "brand": "Hisense",
+   "name": "fushan_sa",
+   "device": "hamamatsucho"
   }
  ],
  "Hisense L830": [
@@ -78043,6 +78048,11 @@
    "brand": "Honor",
    "name": "HONOR 70 Lite",
    "device": "HNRBN-Q"
+  },
+  {
+   "brand": "Honor",
+   "name": "RBN-NX1",
+   "device": "HNRBN-Q"
   }
  ],
  "ANY-LX1": [
@@ -78261,6 +78271,13 @@
    "brand": "Honor",
    "name": "HONOR X8a",
    "device": "HNCRT-M1"
+  }
+ ],
+ "RBN-NX3": [
+  {
+   "brand": "Honor",
+   "name": "HONOR X8a 5G",
+   "device": "HNRBN-Q"
   }
  ],
  "ANY-LX2": [
@@ -148816,6 +148833,20 @@
    "brand": "OnePlus",
    "name": "OnePlus Nord N200 5G",
    "device": "OnePlusN200TMO"
+  }
+ ],
+ "CPH2513": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord N30 5G",
+   "device": "OP5958L1"
+  }
+ ],
+ "CPH2515": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord N30 5G",
+   "device": "OP5958L1"
   }
  ],
  "DN2101": [

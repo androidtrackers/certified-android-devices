@@ -10764,6 +10764,11 @@
    "model": "HiSmart 2K ATV4"
   },
   {
+   "brand": "Hisense",
+   "name": "fushan_sa",
+   "model": "HiSmart TV"
+  },
+  {
    "brand": "Riviera",
    "name": "Riviera",
    "model": "Smart TV"
@@ -66354,7 +66359,7 @@
  "jacuzzi_cheets": [
   {
    "brand": "Google",
-   "name": "Mediatek MT8173 Chromebook",
+   "name": "Mediatek MT8183 Chromebook",
    "model": "jacuzzi"
   }
  ],
@@ -79728,6 +79733,16 @@
   {
    "brand": "Honor",
    "name": "HONOR 70 Lite",
+   "model": "RBN-NX1"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR X8a 5G",
+   "model": "RBN-NX3"
+  },
+  {
+   "brand": "Honor",
+   "name": "RBN-NX1",
    "model": "RBN-NX1"
   }
  ],
@@ -146343,6 +146358,16 @@
    "brand": "OnePlus",
    "name": "OnePlus Nord CE 3 Lite 5G",
    "model": "CPH2467"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord N30 5G",
+   "model": "CPH2513"
+  },
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus Nord N30 5G",
+   "model": "CPH2515"
   }
  ],
  "OnePlusNordCE": [
