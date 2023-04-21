@@ -2454,11 +2454,6 @@
   },
   {
    "brand": "Aiwa",
-   "name": "AW-LED43GKF",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Aiwa",
    "name": "Android TV",
    "model": "AI PONT"
   },
@@ -2504,6 +2499,11 @@
   },
   {
    "brand": "Changhong",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Changhong",
    "name": "L32H7",
    "model": "AI PONT"
   },
@@ -2511,11 +2511,6 @@
    "brand": "Changhong",
    "name": "L32H7",
    "model": "CHiQ AI Center"
-  },
-  {
-   "brand": "Changhong",
-   "name": "L42G6F",
-   "model": "AI PONT"
   },
   {
    "brand": "Classpro",
@@ -2539,6 +2534,11 @@
   },
   {
    "brand": "Hyundai",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Hyundai",
    "name": "G9S",
    "model": "AI PONT"
   },
@@ -2553,11 +2553,6 @@
    "model": "AI PONT"
   },
   {
-   "brand": "Hyundai",
-   "name": "HYLED4321AiM",
-   "model": "AI PONT"
-  },
-  {
    "brand": "Infinix",
    "name": "32X1",
    "model": "AI PONT"
@@ -2569,12 +2564,12 @@
   },
   {
    "brand": "JVC",
-   "name": "LT-32N3115A",
+   "name": "Android TV",
    "model": "AI PONT"
   },
   {
    "brand": "JVC",
-   "name": "LT-40KB308",
+   "name": "LT-32N3115A",
    "model": "AI PONT"
   },
   {
@@ -2623,13 +2618,8 @@
    "model": "AI PONT"
   },
   {
-   "brand": "Philco",
-   "name": "PTV40G71AGBL-VA",
-   "model": "AI PONT"
-  },
-  {
    "brand": "Premier",
-   "name": "32FSV720",
+   "name": "Android TV",
    "model": "AI PONT"
   },
   {
@@ -2649,7 +2639,7 @@
   },
   {
    "brand": "Riviera",
-   "name": "RLED-AND42CHG6F",
+   "name": "Android TV",
    "model": "AI PONT"
   },
   {
@@ -10156,98 +10146,6 @@
    "model": "A81"
   }
  ],
- "sindorim": [
-  {
-   "brand": "Aiwa",
-   "name": "AFL0065S",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "CHiQ",
-   "name": "H7",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Changhong",
-   "name": "U58H7",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Changhong",
-   "name": "UHD Android TV",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Estla",
-   "name": "UHD Android TV",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "HIMADE",
-   "name": "UHD Android TV",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "HYLED5520A4KM",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "UHD Android TV",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Infocus",
-   "name": "UHD Android TV",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "JVC",
-   "name": "LT-55KB597",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "JVC",
-   "name": "UHD Android TV",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Jooyon",
-   "name": "UHD Android TV",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "LUCOMS",
-   "name": "UHD Android TV",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Philco",
-   "name": "PTV55G71AGBLS-4K-VA",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Prism",
-   "name": "UHD Android TV",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Riviera",
-   "name": "Android TV",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "THEHAM",
-   "name": "UHD Android TV",
-   "model": "AI PONT"
-  },
-  {
-   "brand": "Witooth",
-   "name": "UHD Android TV",
-   "model": "AI PONT"
-  }
- ],
  "shinagawa": [
   {
    "brand": "Aiwa",
@@ -10418,6 +10316,98 @@
    "brand": "Aiwa",
    "name": "Aiwa",
    "model": "KSTB6043"
+  }
+ ],
+ "sindorim": [
+  {
+   "brand": "Aiwa",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "CHiQ",
+   "name": "H7",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Changhong",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Changhong",
+   "name": "UHD Android TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Estla",
+   "name": "UHD Android TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "HIMADE",
+   "name": "UHD Android TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "UHD Android TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Infocus",
+   "name": "UHD Android TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "JVC",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "JVC",
+   "name": "UHD Android TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Jooyon",
+   "name": "UHD Android TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "LUCOMS",
+   "name": "UHD Android TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Philco",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Prism",
+   "name": "UHD Android TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Riviera",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "THEHAM",
+   "name": "UHD Android TV",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Witooth",
+   "name": "UHD Android TV",
+   "model": "AI PONT"
   }
  ],
  "JA2-SMP0601": [
@@ -14744,6 +14734,11 @@
    "brand": "Haier",
    "name": "Haier MatrixTV AEL",
    "model": "Haier MatrixTV AEL"
+  },
+  {
+   "brand": "Haier",
+   "name": "Haier MatrixTV AS",
+   "model": "Haier MatrixTV AS"
   }
  ],
  "jordan": [
@@ -124998,6 +124993,13 @@
    "model": "Tab-1"
   }
  ],
+ "DV6071Z-KTM": [
+  {
+   "brand": "MONOMAX",
+   "name": "Max Play",
+   "model": "Max Play"
+  }
+ ],
  "Movi": [
   {
    "brand": "MOVI",
@@ -143743,6 +143745,23 @@
    "model": "Nokia C100"
   }
  ],
+ "NVA": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C12",
+   "model": "Nokia C12"
+  },
+  {
+   "brand": "Nokia",
+   "name": "Nokia C12 Pro",
+   "model": "Nokia C12 Plus"
+  },
+  {
+   "brand": "Nokia",
+   "name": "Nokia C12 Pro",
+   "model": "Nokia C12 Pro"
+  }
+ ],
  "NBL": [
   {
    "brand": "Nokia",
@@ -145482,6 +145501,13 @@
    "brand": "OSCAL",
    "name": "S70 Pro",
    "model": "S70 Pro"
+  }
+ ],
+ "HY45N": [
+  {
+   "brand": "OSN tv",
+   "name": "NGB22-OSN",
+   "model": "NGB22-OSN"
   }
  ],
  "BM57_lite": [
@@ -234391,6 +234417,13 @@
    "model": "2210132C"
   }
  ],
+ "ishtar": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 13 Ultra",
+   "model": "2304FPN6DC"
+  }
+ ],
  "mona": [
   {
    "brand": "Xiaomi",
@@ -234457,6 +234490,13 @@
    "brand": "Xiaomi",
    "name": "Xiaomi TV stick 4K",
    "model": "MiTV-AYFR0"
+  }
+ ],
+ "pipa": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi pad 6",
+   "model": "23043RP34C"
   }
  ],
  "liuqin": [
@@ -239938,6 +239978,18 @@
    "model": "ISE-T100C"
   }
  ],
+ "K70": [
+  {
+   "brand": "ZTE",
+   "name": "K70",
+   "model": "K70"
+  },
+  {
+   "brand": "Zonko",
+   "name": "k70",
+   "model": "K70"
+  }
+ ],
  "helen": [
   {
    "brand": "ZTE",
@@ -241058,6 +241110,13 @@
    "brand": "ZTE",
    "name": "NX711J",
    "model": "NX711J"
+  }
+ ],
+ "NX729J": [
+  {
+   "brand": "ZTE",
+   "name": "NX729J",
+   "model": "NX729J"
   }
  ],
  "NX729J-EEA": [
@@ -245968,13 +246027,6 @@
    "brand": "Zonko",
    "name": "K79",
    "model": "K79"
-  }
- ],
- "K70": [
-  {
-   "brand": "Zonko",
-   "name": "k70",
-   "model": "K70"
   }
  ],
  "LitePro": [

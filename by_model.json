@@ -1235,16 +1235,6 @@
   },
   {
    "brand": "Aiwa",
-   "name": "AFL0065S",
-   "device": "sindorim"
-  },
-  {
-   "brand": "Aiwa",
-   "name": "AW-LED43GKF",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "Aiwa",
    "name": "Android TV",
    "device": "ikebukuro"
   },
@@ -1252,6 +1242,11 @@
    "brand": "Aiwa",
    "name": "Android TV",
    "device": "samseong"
+  },
+  {
+   "brand": "Aiwa",
+   "name": "Android TV",
+   "device": "sindorim"
   },
   {
    "brand": "Aiwa",
@@ -1420,17 +1415,22 @@
   },
   {
    "brand": "Changhong",
+   "name": "Android TV",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "Changhong",
+   "name": "Android TV",
+   "device": "sindorim"
+  },
+  {
+   "brand": "Changhong",
    "name": "H7",
    "device": "redwood"
   },
   {
    "brand": "Changhong",
    "name": "L32H7",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "Changhong",
-   "name": "L42G6F",
    "device": "ikebukuro"
   },
   {
@@ -1442,11 +1442,6 @@
    "brand": "Changhong",
    "name": "U50H7",
    "device": "samseong"
-  },
-  {
-   "brand": "Changhong",
-   "name": "U58H7",
-   "device": "sindorim"
   },
   {
    "brand": "Changhong",
@@ -1565,6 +1560,16 @@
   },
   {
    "brand": "Hyundai",
+   "name": "Android TV",
+   "device": "ikebukuro"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "Android TV",
+   "device": "sindorim"
+  },
+  {
+   "brand": "Hyundai",
    "name": "BS5002",
    "device": "redwood"
   },
@@ -1595,18 +1600,8 @@
   },
   {
    "brand": "Hyundai",
-   "name": "HYLED4321AiM",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "Hyundai",
    "name": "HYLED5015A4KM",
    "device": "samseong"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "HYLED5520A4KM",
-   "device": "sindorim"
   },
   {
    "brand": "Hyundai",
@@ -1655,12 +1650,17 @@
   },
   {
    "brand": "JVC",
-   "name": "LT-32N3115A",
+   "name": "Android TV",
    "device": "ikebukuro"
   },
   {
    "brand": "JVC",
-   "name": "LT-40KB308",
+   "name": "Android TV",
+   "device": "sindorim"
+  },
+  {
+   "brand": "JVC",
+   "name": "LT-32N3115A",
    "device": "ikebukuro"
   },
   {
@@ -1677,11 +1677,6 @@
    "brand": "JVC",
    "name": "LT-50N7115A",
    "device": "samseong"
-  },
-  {
-   "brand": "JVC",
-   "name": "LT-55KB597",
-   "device": "sindorim"
   },
   {
    "brand": "JVC",
@@ -1875,12 +1870,7 @@
   },
   {
    "brand": "Philco",
-   "name": "PTV40G71AGBL-VA",
-   "device": "ikebukuro"
-  },
-  {
-   "brand": "Philco",
-   "name": "PTV55G71AGBLS-4K-VA",
+   "name": "Android TV",
    "device": "sindorim"
   },
   {
@@ -1890,7 +1880,7 @@
   },
   {
    "brand": "Premier",
-   "name": "32FSV720",
+   "name": "Android TV",
    "device": "ikebukuro"
   },
   {
@@ -1951,12 +1941,12 @@
   {
    "brand": "Riviera",
    "name": "Android TV",
-   "device": "sindorim"
+   "device": "ikebukuro"
   },
   {
    "brand": "Riviera",
-   "name": "RLED-AND42CHG6F",
-   "device": "ikebukuro"
+   "name": "Android TV",
+   "device": "sindorim"
   },
   {
    "brand": "SABA",
@@ -70708,6 +70698,13 @@
    "device": "irvine"
   }
  ],
+ "Haier MatrixTV AS": [
+  {
+   "brand": "Haier",
+   "name": "Haier MatrixTV AS",
+   "device": "irvine"
+  }
+ ],
  "Haier MatrixTV BE": [
   {
    "brand": "Haier",
@@ -126898,6 +126895,13 @@
    "device": "Tab-1"
   }
  ],
+ "Max Play": [
+  {
+   "brand": "MONOMAX",
+   "name": "Max Play",
+   "device": "DV6071Z-KTM"
+  }
+ ],
  "Movi Projector Phone": [
   {
    "brand": "MOVI",
@@ -146024,6 +146028,27 @@
    "device": "DKT"
   }
  ],
+ "Nokia C12": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C12",
+   "device": "NVA"
+  }
+ ],
+ "Nokia C12 Plus": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C12 Pro",
+   "device": "NVA"
+  }
+ ],
+ "Nokia C12 Pro": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C12 Pro",
+   "device": "NVA"
+  }
+ ],
  "Nebula": [
   {
    "brand": "Nokia",
@@ -147745,6 +147770,13 @@
    "brand": "OSCAL",
    "name": "S70 Pro",
    "device": "S70_Pro"
+  }
+ ],
+ "NGB22-OSN": [
+  {
+   "brand": "OSN tv",
+   "name": "NGB22-OSN",
+   "device": "HY45N"
   }
  ],
  "BM57_lite": [
@@ -243653,6 +243685,13 @@
    "device": "nuwa"
   }
  ],
+ "2304FPN6DC": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 13 Ultra",
+   "device": "ishtar"
+  }
+ ],
  "2210132C": [
   {
    "brand": "Xiaomi",
@@ -243733,6 +243772,13 @@
    "brand": "Xiaomi",
    "name": "Xiaomi civi2",
    "device": "ziyi"
+  }
+ ],
+ "23043RP34C": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi pad 6",
+   "device": "pipa"
   }
  ],
  "23046RP50C": [
@@ -249489,6 +249535,18 @@
    "device": "lemon"
   }
  ],
+ "K70": [
+  {
+   "brand": "ZTE",
+   "name": "K70",
+   "device": "K70"
+  },
+  {
+   "brand": "Zonko",
+   "name": "k70",
+   "device": "K70"
+  }
+ ],
  "K81": [
   {
    "brand": "ZTE",
@@ -250884,6 +250942,11 @@
   }
  ],
  "NX729J": [
+  {
+   "brand": "ZTE",
+   "name": "NX729J",
+   "device": "NX729J"
+  },
   {
    "brand": "ZTE",
    "name": "NX729J",
@@ -257005,13 +257068,6 @@
    "brand": "Zonko",
    "name": "K79",
    "device": "K79"
-  }
- ],
- "K70": [
-  {
-   "brand": "Zonko",
-   "name": "k70",
-   "device": "K70"
   }
  ],
  "LitePro": [

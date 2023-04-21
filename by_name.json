@@ -10006,6 +10006,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "Aiwa",
+   "device": "sindorim",
+   "model": "AI PONT"
+  },
+  {
    "brand": "Alhafidh",
    "device": "R1",
    "model": "ATV R1"
@@ -10094,6 +10099,16 @@
    "brand": "Challenger",
    "device": "R2",
    "model": "ATV R2"
+  },
+  {
+   "brand": "Changhong",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Changhong",
+   "device": "sindorim",
+   "model": "AI PONT"
   },
   {
    "brand": "Compaq",
@@ -10212,6 +10227,11 @@
   },
   {
    "brand": "Hyundai",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "Hyundai",
    "device": "redwood",
    "model": "AI PONT NA"
   },
@@ -10219,6 +10239,11 @@
    "brand": "Hyundai",
    "device": "redwood",
    "model": "AI PONT SA"
+  },
+  {
+   "brand": "Hyundai",
+   "device": "sindorim",
+   "model": "AI PONT"
   },
   {
    "brand": "Intex",
@@ -10234,6 +10259,16 @@
    "brand": "JVC",
    "device": "R2",
    "model": "ATV R2"
+  },
+  {
+   "brand": "JVC",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "JVC",
+   "device": "sindorim",
+   "model": "AI PONT"
   },
   {
    "brand": "Kalley",
@@ -10431,6 +10466,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "Philco",
+   "device": "sindorim",
+   "model": "AI PONT"
+  },
+  {
    "brand": "Pioneer",
    "device": "R2",
    "model": "ATV R2"
@@ -10446,6 +10486,11 @@
    "model": "ATV R2"
   },
   {
+   "brand": "Premier",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  },
+  {
    "brand": "Prism",
    "device": "longshan",
    "model": "AI PONT NA"
@@ -10459,6 +10504,11 @@
    "brand": "RECCO",
    "device": "R2",
    "model": "ATV R2"
+  },
+  {
+   "brand": "Riviera",
+   "device": "ikebukuro",
+   "model": "AI PONT"
   },
   {
    "brand": "Riviera",
@@ -13458,13 +13508,6 @@
    "model": "A81"
   }
  ],
- "AFL0065S": [
-  {
-   "brand": "Aiwa",
-   "device": "sindorim",
-   "model": "AI PONT"
-  }
- ],
  "AIWA": [
   {
    "brand": "Aiwa",
@@ -13482,13 +13525,6 @@
    "brand": "Aiwa",
    "device": "shinagawa",
    "model": "AIWA 2K TV"
-  }
- ],
- "AW-LED43GKF": [
-  {
-   "brand": "Aiwa",
-   "device": "ikebukuro",
-   "model": "AI PONT"
   }
  ],
  "AW790": [
@@ -40405,13 +40441,6 @@
    "model": "CHiQ AI Center"
   }
  ],
- "L42G6F": [
-  {
-   "brand": "Changhong",
-   "device": "ikebukuro",
-   "model": "AI PONT"
-  }
- ],
  "U50H7": [
   {
    "brand": "Changhong",
@@ -40422,13 +40451,6 @@
    "brand": "Changhong",
    "device": "samseong",
    "model": "CHiQ AI Center"
-  }
- ],
- "U58H7": [
-  {
-   "brand": "Changhong",
-   "device": "sindorim",
-   "model": "AI PONT"
   }
  ],
  "UHD Android TV": [
@@ -76871,6 +76893,13 @@
    "model": "Haier MatrixTV AEL"
   }
  ],
+ "Haier MatrixTV AS": [
+  {
+   "brand": "Haier",
+   "device": "irvine",
+   "model": "Haier MatrixTV AS"
+  }
+ ],
  "Haier MatrixTV BE": [
   {
    "brand": "Haier",
@@ -93165,24 +93194,10 @@
    "model": "HY1-5085"
   }
  ],
- "HYLED4321AiM": [
-  {
-   "brand": "Hyundai",
-   "device": "ikebukuro",
-   "model": "AI PONT"
-  }
- ],
  "HYLED5015A4KM": [
   {
    "brand": "Hyundai",
    "device": "samseong",
-   "model": "AI PONT"
-  }
- ],
- "HYLED5520A4KM": [
-  {
-   "brand": "Hyundai",
-   "device": "sindorim",
    "model": "AI PONT"
   }
  ],
@@ -101559,13 +101574,6 @@
    "model": "AI PONT"
   }
  ],
- "LT-40KB308": [
-  {
-   "brand": "JVC",
-   "device": "ikebukuro",
-   "model": "AI PONT"
-  }
- ],
  "LT-40N5115A": [
   {
    "brand": "JVC",
@@ -101584,13 +101592,6 @@
   {
    "brand": "JVC",
    "device": "samseong",
-   "model": "AI PONT"
-  }
- ],
- "LT-55KB597": [
-  {
-   "brand": "JVC",
-   "device": "sindorim",
    "model": "AI PONT"
   }
  ],
@@ -126053,6 +126054,13 @@
    "model": "Tab-1"
   }
  ],
+ "Max Play": [
+  {
+   "brand": "MONOMAX",
+   "device": "DV6071Z-KTM",
+   "model": "Max Play"
+  }
+ ],
  "Movi Projector Phone": [
   {
    "brand": "MOVI",
@@ -144033,6 +144041,25 @@
    "model": "Nokia C100"
   }
  ],
+ "Nokia C12": [
+  {
+   "brand": "Nokia",
+   "device": "NVA",
+   "model": "Nokia C12"
+  }
+ ],
+ "Nokia C12 Pro": [
+  {
+   "brand": "Nokia",
+   "device": "NVA",
+   "model": "Nokia C12 Plus"
+  },
+  {
+   "brand": "Nokia",
+   "device": "NVA",
+   "model": "Nokia C12 Pro"
+  }
+ ],
  "Nokia C2": [
   {
    "brand": "Nokia",
@@ -145670,6 +145697,13 @@
    "brand": "OSCAL",
    "device": "S80",
    "model": "S80"
+  }
+ ],
+ "NGB22-OSN": [
+  {
+   "brand": "OSN tv",
+   "device": "HY45N",
+   "model": "NGB22-OSN"
   }
  ],
  "BM57 lite": [
@@ -155492,20 +155526,6 @@
    "model": "PTB8R4G"
   }
  ],
- "PTV40G71AGBL-VA": [
-  {
-   "brand": "Philco",
-   "device": "ikebukuro",
-   "model": "AI PONT"
-  }
- ],
- "PTV55G71AGBLS-4K-VA": [
-  {
-   "brand": "Philco",
-   "device": "sindorim",
-   "model": "AI PONT"
-  }
- ],
  "Philco": [
   {
    "brand": "Philco",
@@ -159028,13 +159048,6 @@
    "brand": "Precision Biometric",
    "device": "PBTAB100-2G4",
    "model": "PBTAB100-2G4"
-  }
- ],
- "32FSV720": [
-  {
-   "brand": "Premier",
-   "device": "ikebukuro",
-   "model": "AI PONT"
   }
  ],
  "MAXI 20": [
@@ -167932,13 +167945,6 @@
    "brand": "Riviera",
    "device": "songshan",
    "model": "SmartTV 4K"
-  }
- ],
- "RLED-AND42CHG6F": [
-  {
-   "brand": "Riviera",
-   "device": "ikebukuro",
-   "model": "AI PONT"
   }
  ],
  "Riviera": [
@@ -232640,6 +232646,13 @@
    "model": "2210132G"
   }
  ],
+ "Xiaomi 13 Ultra": [
+  {
+   "brand": "Xiaomi",
+   "device": "ishtar",
+   "model": "2304FPN6DC"
+  }
+ ],
  "Xiaomi 13 pro": [
   {
    "brand": "Xiaomi",
@@ -232718,6 +232731,13 @@
    "brand": "Xiaomi",
    "device": "ziyi",
    "model": "2209129SC"
+  }
+ ],
+ "Xiaomi pad 6": [
+  {
+   "brand": "Xiaomi",
+   "device": "pipa",
+   "model": "23043RP34C"
   }
  ],
  "Xiaomi pad 6 Pro": [
@@ -236389,6 +236409,13 @@
    "model": "Z718TL"
   }
  ],
+ "K70": [
+  {
+   "brand": "ZTE",
+   "device": "K70",
+   "model": "K70"
+  }
+ ],
  "K75": [
   {
    "brand": "ZTE",
@@ -237723,6 +237750,11 @@
   }
  ],
  "NX729J": [
+  {
+   "brand": "ZTE",
+   "device": "NX729J",
+   "model": "NX729J"
+  },
   {
    "brand": "ZTE",
    "device": "NX729J-EEA",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-04-20
+Last sync is 2023-04-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -765,11 +765,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiuto|AT701|AT701|AT701|
 |Aiuto|AT702|AT702|AT702|
 |Aiwa|A81|AIWA_A81|A81|
-|Aiwa|AFL0065S|sindorim|AI PONT|
 |Aiwa|AIWA|stanford|SMART TV|
 |Aiwa|AIWA|zhongshan|4K SMART TV|
 |Aiwa|AIWA 2K TV|shinagawa|AIWA 2K TV|
-|Aiwa|AW-LED43GKF|ikebukuro|AI PONT|
 |Aiwa|AW790|AW790|AW790|
 |Aiwa|AWM501|AWM501|AWM501|
 |Aiwa|AWM509|AWM509|AWM509|
@@ -782,6 +780,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiwa|Aiwa|KSTB6043|KSTB6043|
 |Aiwa|Android TV|ikebukuro|AI PONT|
 |Aiwa|Android TV|samseong|AI PONT|
+|Aiwa|Android TV|sindorim|AI PONT|
 |Aiwa|JA2-SMP0601|JA2-SMP0601|JA2-SMP0601|
 |Aiwa|JA2-TBA0801|JA2-TBA0801|JA2-TBA0801|
 |Aiwa|JA2-TBA1001|JA2-TBA1001|JA2-TBA1001|
@@ -4383,17 +4382,17 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Chameleon|Chameleon-H|Chameleon-H|E9XG-A05-M|
 |Champtek|X-120|X-120|X-120|
 |Chanbly|q7|q7|q7|
+|Changhong|Android TV|ikebukuro|AI PONT|
+|Changhong|Android TV|sindorim|AI PONT|
 |Changhong|G7P|hapjeong|AI PONT PLUS|
 |Changhong|GIU6060|GIU6060|GIU6060|
 |Changhong|GIU6860|GIU6860|GIU6860|
 |Changhong|H7|redwood|AI PONT|
 |Changhong|L32H7|ikebukuro|AI PONT|
 |Changhong|L32H7|ikebukuro|CHiQ AI Center|
-|Changhong|L42G6F|ikebukuro|AI PONT|
 |Changhong|Smart TV|longshan|AI PONT|
 |Changhong|U50H7|samseong|AI PONT|
 |Changhong|U50H7|samseong|CHiQ AI Center|
-|Changhong|U58H7|sindorim|AI PONT|
 |Changhong|UHD Android TV|sindorim|AI PONT|
 |Channel Master|Stream+|dwt765cha|CM-7600|
 |Chemist Warehouse|JR-MB603|JR_MB603|JR_MB603|
@@ -9621,6 +9620,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|Haier Leisure L7|Haier_Leisure_L7|HM-N700-FL|
 |Haier|Haier MatrixTV AE|irvine|Haier MatrixTV AE|
 |Haier|Haier MatrixTV AEL|irvine|Haier MatrixTV AEL|
+|Haier|Haier MatrixTV AS|irvine|Haier MatrixTV AS|
 |Haier|Haier MatrixTV BE|jordan|Haier MatrixTV BE|
 |Haier|Haier MatrixTV BS|jordan|Haier MatrixTV BS|
 |Haier|Haier Titan T5|Titan_T5|Titan_T5|
@@ -12555,8 +12555,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|A26062k|A26062K|A26062K|
 |Hyundai|Android TV|R1|ATV R1|
 |Hyundai|Android TV|R2|ATV R2|
+|Hyundai|Android TV|ikebukuro|AI PONT|
 |Hyundai|Android TV|redwood|AI PONT NA|
 |Hyundai|Android TV|redwood|AI PONT SA|
+|Hyundai|Android TV|sindorim|AI PONT|
 |Hyundai|BS5002|redwood|AI PONT|
 |Hyundai|Blade_C5|Blade_C5|Blade_C5|
 |Hyundai|Blade_C6|Blade_C6|Blade_C6|
@@ -12619,9 +12621,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HT8WB1RBK02_12|HT8WB1RBK02_12|8WB1|
 |Hyundai|HT8WB1RBK03|HT8WB1RBK03|HT8WB1RBK03|
 |Hyundai|HY1-5085|HY1_5085|HY1-5085|
-|Hyundai|HYLED4321AiM|ikebukuro|AI PONT|
 |Hyundai|HYLED5015A4KM|samseong|AI PONT|
-|Hyundai|HYLED5520A4KM|sindorim|AI PONT|
 |Hyundai|HYUNDAI 2K Android TV|lasalle|HYUNDAI 2K Android TV|
 |Hyundai|HYUNDAI 4K Android TV|kenton|HYUNDAI 4K Android TV|
 |Hyundai|HYUNDAI SMART TV|sunnyvale|HYUNDAI SMART TV|
@@ -13940,6 +13940,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|AV-11NT510|AV-11NT510|AV-11NT510|
 |JVC|Android TV|R1|ATV R1|
 |JVC|Android TV|R2|ATV R2|
+|JVC|Android TV|ikebukuro|AI PONT|
+|JVC|Android TV|sindorim|AI PONT|
 |JVC|Australia|martin|JVC 2K Android TV|
 |JVC|"Australia|URUGUAY/PARAGUAY|UAE|
 |JVC|"Australia|URUGUAY/PARAGUAY|UAE|
@@ -13977,11 +13979,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|JVC 4K Smart TV NZ|SW6H|JVC 4K Smart TV NZ|
 |JVC|JVC J20|Cunda|J20|
 |JVC|LT-32N3115A|ikebukuro|AI PONT|
-|JVC|LT-40KB308|ikebukuro|AI PONT|
 |JVC|LT-40N5115A|ikebukuro|AI PONT|
 |JVC|LT-50KD507|samseong|AI PONT|
 |JVC|LT-50N7115A|samseong|AI PONT|
-|JVC|LT-55KB597|sindorim|AI PONT|
 |JVC|R4|R4|R4|
 |JVC|Smart TV|mateo|2K SA Smart TV|
 |JVC|Smart TV|osaki|2K AI Smart TV|
@@ -18169,6 +18169,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MOBULAA|S11|S11|S11|
 |MOBULAA|S6|S6|S6|
 |MOBULAA|Tab-1|Tab-1|Tab-1|
+|MONOMAX|Max Play|DV6071Z-KTM|Max Play|
 |MOVI|Movi Projector Phone|Movi|Movi Projector Phone|
 |MOVIC|A5501|A5501|A5501|
 |MOVIC|Dual|Dual|Dual|
@@ -21165,6 +21166,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia C10|MNT|Nokia C10|
 |Nokia|Nokia C100|DKT|N152DL|
 |Nokia|Nokia C100|DKT|Nokia C100|
+|Nokia|Nokia C12|NVA|Nokia C12|
+|Nokia|Nokia C12 Pro|NVA|Nokia C12 Plus|
+|Nokia|Nokia C12 Pro|NVA|Nokia C12 Pro|
 |Nokia|Nokia C2|NBL|Nebula|
 |Nokia|Nokia C2|NBL|Nokia C2|
 |Nokia|Nokia C2 2nd Edition|DMN|Nokia C2 2nd Edition|
@@ -21456,6 +21460,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OSCAL|S70 Pro|S70_Pro|S70 Pro|
 |OSCAL|S80|S80|S80|
 |OSCAL|S80_RU|S80|S80|
+|OSN tv|NGB22-OSN|HY45N|NGB22-OSN|
 |OTHO|T1|T1|T1|
 |OTHO|T3|T3|T3|
 |OTK|BM57 lite|BM57_lite|BM57_lite|
@@ -23047,6 +23052,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Performance|T9|T9|T9|
 |Perseo TV|Perseo TV Home 2nd Generation Ranger|DV8219|Perseo TV Home 2nd Generation Ranger|
 |Philco|Android TV|ikebukuro|AI PONT|
+|Philco|Android TV|sindorim|AI PONT|
 |Philco|HIT P10a|HIT_P10a|HIT P10a|
 |Philco|HIT_P8|HIT_P8|HIT P8|
 |Philco|Hit Max|Hit_Max|Hit Max|
@@ -23064,8 +23070,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philco|PTB7R|PTB7R|PTB7R|
 |Philco|PTB8R|PTB8R|PTB8R|
 |Philco|PTB8R4G|PTB8R4G|PTB8R4G|
-|Philco|PTV40G71AGBL-VA|ikebukuro|AI PONT|
-|Philco|PTV55G71AGBLS-4K-VA|sindorim|AI PONT|
 |Philco|Philco|stanford|PHILCO SMART|
 |Philco|Philco Smart TV|sunnyvale|Philco Smart TV|
 |Philco|PhilcoTV|shinjuku|PhilcoTV|
@@ -23629,7 +23633,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Pravion|TMS-KR01P|TMS-KR01P|TMS-KR01P|
 |Precision Biometric|PBTAB100-1G3|PBTAB100-1G3|PBTAB100-1G3|
 |Precision Biometric|PBTAB100-2G4|PBTAB100-2G4|PBTAB100-2G4|
-|Premier|32FSV720|ikebukuro|AI PONT|
+|Premier|Android TV|ikebukuro|AI PONT|
 |Premier|MAXI 20|MAXI_20|MAXI 20|
 |Premier|PRM750USV|samseong|AI PONT|
 |Premier|Smart TV|longshan|AI PONT|
@@ -25027,9 +25031,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Rinno|R505|Rinno_R505|R505|
 |Rinno|R520|R520|R520|
 |Rinno|R550|R550|R550|
+|Riviera|Android TV|ikebukuro|AI PONT|
 |Riviera|Android TV|sindorim|AI PONT|
 |Riviera|HIKA5|songshan|SmartTV 4K|
-|Riviera|RLED-AND42CHG6F|ikebukuro|AI PONT|
 |Riviera|Riviera|hamamatsucho|Smart TV|
 |Riviera|xiaoyushan_riviera|xiaoyushan|HiSmartTV A4|
 |Rixun|T107|T107|T107|
@@ -36172,6 +36176,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 13|fuxi|2211133G|
 |Xiaomi|Xiaomi 13 Lite|ziyi|2210129SG|
 |Xiaomi|Xiaomi 13 Pro|nuwa|2210132G|
+|Xiaomi|Xiaomi 13 Ultra|ishtar|2304FPN6DC|
 |Xiaomi|Xiaomi 13 pro|nuwa|2210132C|
 |Xiaomi|Xiaomi Civi|mona|2109119BC|
 |Xiaomi|Xiaomi Civi 1S|zijin|2109119BC|
@@ -36184,6 +36189,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi Pad 5 Pro 5G|enuma|M2105K81C|
 |Xiaomi|Xiaomi TV stick 4K|soul|MiTV-AYFR0|
 |Xiaomi|Xiaomi civi2|ziyi|2209129SC|
+|Xiaomi|Xiaomi pad 6|pipa|23043RP34C|
 |Xiaomi|Xiaomi pad 6 Pro|liuqin|23046RP50C|
 |Xiaomi|小米手表|baiji|Mi Watch|
 |Xinlian|HC750|HC750|HC750|
@@ -37021,6 +37027,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ISE-T100C|K96|ISE-T100C|
 |ZTE|Infinity X^2 mini|msm8226|Infinity X^2 mini|
 |ZTE|Jasper LTE|lemon|Z718TL|
+|ZTE|K70|K70|K70|
 |ZTE|K75|crane-zte7|K75|
 |ZTE|K81|helen|K81|
 |ZTE|K813|P809K50|ZTE-K813|
@@ -37231,6 +37238,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|NX709S|NX709S-EEA|NX709S|
 |ZTE|NX709S|NX709S-UN|NX709S|
 |ZTE|NX711J|PQ82A01|NX711J|
+|ZTE|NX729J|NX729J|NX729J|
 |ZTE|NX729J|NX729J-EEA|NX729J|
 |ZTE|NX729J|NX729J-UN|NX729J|
 |ZTE|NX907J|NX907J|NX907J|

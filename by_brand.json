@@ -4035,11 +4035,6 @@
    "model": "A81"
   },
   {
-   "device": "sindorim",
-   "name": "AFL0065S",
-   "model": "AI PONT"
-  },
-  {
    "device": "stanford",
    "name": "AIWA",
    "model": "SMART TV"
@@ -4053,11 +4048,6 @@
    "device": "shinagawa",
    "name": "AIWA 2K TV",
    "model": "AIWA 2K TV"
-  },
-  {
-   "device": "ikebukuro",
-   "name": "AW-LED43GKF",
-   "model": "AI PONT"
   },
   {
    "device": "AW790",
@@ -4116,6 +4106,11 @@
   },
   {
    "device": "samseong",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
+  {
+   "device": "sindorim",
    "name": "Android TV",
    "model": "AI PONT"
   },
@@ -22711,6 +22706,16 @@
  ],
  "Changhong": [
   {
+   "device": "ikebukuro",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
+  {
+   "device": "sindorim",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
+  {
    "device": "hapjeong",
    "name": "G7P",
    "model": "AI PONT PLUS"
@@ -22741,11 +22746,6 @@
    "model": "CHiQ AI Center"
   },
   {
-   "device": "ikebukuro",
-   "name": "L42G6F",
-   "model": "AI PONT"
-  },
-  {
    "device": "longshan",
    "name": "Smart TV",
    "model": "AI PONT"
@@ -22759,11 +22759,6 @@
    "device": "samseong",
    "name": "U50H7",
    "model": "CHiQ AI Center"
-  },
-  {
-   "device": "sindorim",
-   "name": "U58H7",
-   "model": "AI PONT"
   },
   {
    "device": "sindorim",
@@ -49869,6 +49864,11 @@
    "model": "Haier MatrixTV AEL"
   },
   {
+   "device": "irvine",
+   "name": "Haier MatrixTV AS",
+   "model": "Haier MatrixTV AS"
+  },
+  {
    "device": "jordan",
    "name": "Haier MatrixTV BE",
    "model": "Haier MatrixTV BE"
@@ -64665,6 +64665,11 @@
    "model": "ATV R2"
   },
   {
+   "device": "ikebukuro",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
+  {
    "device": "redwood",
    "name": "Android TV",
    "model": "AI PONT NA"
@@ -64673,6 +64678,11 @@
    "device": "redwood",
    "name": "Android TV",
    "model": "AI PONT SA"
+  },
+  {
+   "device": "sindorim",
+   "name": "Android TV",
+   "model": "AI PONT"
   },
   {
    "device": "redwood",
@@ -64985,18 +64995,8 @@
    "model": "HY1-5085"
   },
   {
-   "device": "ikebukuro",
-   "name": "HYLED4321AiM",
-   "model": "AI PONT"
-  },
-  {
    "device": "samseong",
    "name": "HYLED5015A4KM",
-   "model": "AI PONT"
-  },
-  {
-   "device": "sindorim",
-   "name": "HYLED5520A4KM",
    "model": "AI PONT"
   },
   {
@@ -71786,6 +71786,16 @@
    "model": "ATV R2"
   },
   {
+   "device": "ikebukuro",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
+  {
+   "device": "sindorim",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
+  {
    "device": "martin",
    "name": "Australia",
    "model": "JVC 2K Android TV"
@@ -71972,11 +71982,6 @@
   },
   {
    "device": "ikebukuro",
-   "name": "LT-40KB308",
-   "model": "AI PONT"
-  },
-  {
-   "device": "ikebukuro",
    "name": "LT-40N5115A",
    "model": "AI PONT"
   },
@@ -71988,11 +71993,6 @@
   {
    "device": "samseong",
    "name": "LT-50N7115A",
-   "model": "AI PONT"
-  },
-  {
-   "device": "sindorim",
-   "name": "LT-55KB597",
    "model": "AI PONT"
   },
   {
@@ -93401,6 +93401,13 @@
    "model": "Tab-1"
   }
  ],
+ "MONOMAX": [
+  {
+   "device": "DV6071Z-KTM",
+   "name": "Max Play",
+   "model": "Max Play"
+  }
+ ],
  "MOVI": [
   {
    "device": "Movi",
@@ -108817,6 +108824,21 @@
    "model": "Nokia C100"
   },
   {
+   "device": "NVA",
+   "name": "Nokia C12",
+   "model": "Nokia C12"
+  },
+  {
+   "device": "NVA",
+   "name": "Nokia C12 Pro",
+   "model": "Nokia C12 Plus"
+  },
+  {
+   "device": "NVA",
+   "name": "Nokia C12 Pro",
+   "model": "Nokia C12 Pro"
+  },
+  {
    "device": "NBL",
    "name": "Nokia C2",
    "model": "Nebula"
@@ -110340,6 +110362,13 @@
    "device": "S80",
    "name": "S80_RU",
    "model": "S80"
+  }
+ ],
+ "OSN tv": [
+  {
+   "device": "HY45N",
+   "name": "NGB22-OSN",
+   "model": "NGB22-OSN"
   }
  ],
  "OTHO": [
@@ -118499,6 +118528,11 @@
    "model": "AI PONT"
   },
   {
+   "device": "sindorim",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
+  {
    "device": "HIT_P10a",
    "name": "HIT P10a",
    "model": "HIT P10a"
@@ -118582,16 +118616,6 @@
    "device": "PTB8R4G",
    "name": "PTB8R4G",
    "model": "PTB8R4G"
-  },
-  {
-   "device": "ikebukuro",
-   "name": "PTV40G71AGBL-VA",
-   "model": "AI PONT"
-  },
-  {
-   "device": "sindorim",
-   "name": "PTV55G71AGBLS-4K-VA",
-   "model": "AI PONT"
   },
   {
    "device": "stanford",
@@ -121482,7 +121506,7 @@
  "Premier": [
   {
    "device": "ikebukuro",
-   "name": "32FSV720",
+   "name": "Android TV",
    "model": "AI PONT"
   },
   {
@@ -128673,6 +128697,11 @@
  ],
  "Riviera": [
   {
+   "device": "ikebukuro",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
+  {
    "device": "sindorim",
    "name": "Android TV",
    "model": "AI PONT"
@@ -128681,11 +128710,6 @@
    "device": "songshan",
    "name": "HIKA5",
    "model": "SmartTV 4K"
-  },
-  {
-   "device": "ikebukuro",
-   "name": "RLED-AND42CHG6F",
-   "model": "AI PONT"
   },
   {
    "device": "hamamatsucho",
@@ -185676,6 +185700,11 @@
    "model": "2210132G"
   },
   {
+   "device": "ishtar",
+   "name": "Xiaomi 13 Ultra",
+   "model": "2304FPN6DC"
+  },
+  {
    "device": "nuwa",
    "name": "Xiaomi 13 pro",
    "model": "2210132C"
@@ -185734,6 +185763,11 @@
    "device": "ziyi",
    "name": "Xiaomi civi2",
    "model": "2209129SC"
+  },
+  {
+   "device": "pipa",
+   "name": "Xiaomi pad 6",
+   "model": "23043RP34C"
   },
   {
    "device": "liuqin",
@@ -190021,6 +190055,11 @@
    "model": "Z718TL"
   },
   {
+   "device": "K70",
+   "name": "K70",
+   "model": "K70"
+  },
+  {
    "device": "crane-zte7",
    "name": "K75",
    "model": "K75"
@@ -191069,6 +191108,11 @@
    "device": "PQ82A01",
    "name": "NX711J",
    "model": "NX711J"
+  },
+  {
+   "device": "NX729J",
+   "name": "NX729J",
+   "model": "NX729J"
   },
   {
    "device": "NX729J-EEA",
