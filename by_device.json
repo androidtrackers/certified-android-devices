@@ -29370,6 +29370,11 @@
    "brand": "Blackview",
    "name": "Tab12Pro_NEU",
    "model": "Tab 12 Pro"
+  },
+  {
+   "brand": "Blackview",
+   "name": "Tab12Pro_RU",
+   "model": "Tab 12 Pro"
   }
  ],
  "Tab12_EEA": [
@@ -29416,6 +29421,11 @@
   {
    "brand": "Blackview",
    "name": "Tab15Pro_NEU",
+   "model": "Tab 15 Pro"
+  },
+  {
+   "brand": "Blackview",
+   "name": "Tab15Pro_RU",
    "model": "Tab 15 Pro"
   }
  ],
@@ -63391,6 +63401,13 @@
    "model": "GEO10X"
   }
  ],
+ "Zenius08": [
+  {
+   "brand": "GeoMax",
+   "name": "GeoMax Zenius08",
+   "model": "GMT-08QA-2301"
+  }
+ ],
  "P9IV_Handheld": [
   {
    "brand": "Geoelectron",
@@ -67421,6 +67438,13 @@
    "brand": "HDC S.A.",
    "name": "T700B",
    "model": "T700B"
+  }
+ ],
+ "T7I_232": [
+  {
+   "brand": "HDC S.A.",
+   "name": "T7I_232",
+   "model": "T7I_232"
   }
  ],
  "Tab_i_excess": [
@@ -79693,6 +79717,13 @@
    "model": "VM3A"
   }
  ],
+ "HNFRI": [
+  {
+   "brand": "Honor",
+   "name": "FRI",
+   "model": "FRI-NX9"
+  }
+ ],
  "HNNTH": [
   {
    "brand": "Honor",
@@ -80058,6 +80089,13 @@
    "brand": "Hoozo",
    "name": "YK_P30_EEA",
    "model": "YK_P30_EEA"
+  }
+ ],
+ "Bola": [
+  {
+   "brand": "Hot Pepper",
+   "name": "Bola",
+   "model": "Bola"
   }
  ],
  "HPPL60A": [
@@ -93293,6 +93331,13 @@
    "model": "Infinix X6833B"
   }
  ],
+ "Infinix-X6711": [
+  {
+   "brand": "Infinix",
+   "name": "Infinix NOTE 30 5G",
+   "model": "Infinix X6711"
+  }
+ ],
  "Infinix-X604_sprout": [
   {
    "brand": "Infinix",
@@ -93561,6 +93606,13 @@
    "brand": "Infinix",
    "name": "NOTE 30",
    "model": "Infinix X6716B"
+  }
+ ],
+ "Infinix-X678B": [
+  {
+   "brand": "Infinix",
+   "name": "NOTE 30 Pro",
+   "model": "Infinix X678B"
   }
  ],
  "Infinix-X6716": [
@@ -100731,6 +100783,13 @@
    "brand": "KYASTER",
    "name": "KPad_U2",
    "model": "KPad_U2"
+  }
+ ],
+ "KPad_U2_Pro": [
+  {
+   "brand": "KYASTER",
+   "name": "KPad_U2_Pro",
+   "model": "KPad_U2_Pro"
   }
  ],
  "KPad_U2_Pro_EEA": [
@@ -116254,6 +116313,13 @@
    "brand": "LeiaInc",
    "name": "Lume Pad",
    "model": "LPD-20W"
+  }
+ ],
+ "CSX8": [
+  {
+   "brand": "Leica",
+   "name": "Leica CSX8",
+   "model": "LGT-08QA-2301"
   }
  ],
  "TB-8506N": [
@@ -144632,6 +144698,13 @@
    "model": "S5502L"
   }
  ],
+ "S5504LA": [
+  {
+   "brand": "Nuu",
+   "name": "A12L",
+   "model": "S5504L"
+  }
+ ],
  "S6303LA_Go": [
   {
    "brand": "Nuu",
@@ -145982,6 +146055,13 @@
    "brand": "OnePlus",
    "name": "OnePlus 11 5G",
    "model": "CPH2451"
+  }
+ ],
+ "OP591BL1": [
+  {
+   "brand": "OnePlus",
+   "name": "OnePlus 11 5G 中国版",
+   "model": "PHB110"
   }
  ],
  "OnePlus6": [
@@ -156942,6 +157022,13 @@
    "model": "Kids_10"
   }
  ],
+ "Kids_8": [
+  {
+   "brand": "Plimpton",
+   "name": "Kids_8",
+   "model": "Kids_8"
+  }
+ ],
  "P60_Pro": [
   {
    "brand": "Plimpton",
@@ -161352,6 +161439,13 @@
    "model": "L8_A02_EEA"
   }
  ],
+ "L8_B01": [
+  {
+   "brand": "Pritom",
+   "name": "L8_B01",
+   "model": "TAB_8"
+  }
+ ],
  "L8_EEA": [
   {
    "brand": "Pritom",
@@ -164688,6 +164782,13 @@
    "brand": "RT Project",
    "name": "popper2",
    "model": "popper2"
+  }
+ ],
+ "UA100": [
+  {
+   "brand": "RUGSTORM",
+   "name": "UA100",
+   "model": "UA100"
   }
  ],
  "RVPVK808": [
@@ -213208,6 +213309,13 @@
    "model": "TECNO CK7n"
   }
  ],
+ "TECNO-CK8n": [
+  {
+   "brand": "Tecno",
+   "name": "CAMON 20 Pro 5G",
+   "model": "TECNO CK8n"
+  }
+ ],
  "TECNO-CA6": [
   {
    "brand": "Tecno",
@@ -218163,6 +218271,13 @@
    "model": "ZX_001"
   }
  ],
+ "K626": [
+  {
+   "brand": "UNIWA",
+   "name": "K626_EEA",
+   "model": "K626"
+  }
+ ],
  "M101": [
   {
    "brand": "UNIWA",
@@ -220864,6 +220979,13 @@
    "brand": "VIVIMAGE",
    "name": "VIVIMAGE_E11",
    "model": "VIVIMAGE_E11"
+  }
+ ],
+ "V5Pro": [
+  {
+   "brand": "VIVIVIEW",
+   "name": "V5Pro",
+   "model": "V5Pro"
   }
  ],
  "vnptt_smb_3": [
@@ -227272,6 +227394,13 @@
    "brand": "Vivo",
    "name": "vivo X Fold+",
    "model": "V2229A"
+  }
+ ],
+ "PD2266": [
+  {
+   "brand": "Vivo",
+   "name": "vivo X Fold2",
+   "model": "V2266A"
   }
  ],
  "PD2170": [

@@ -17012,6 +17012,11 @@
    "model": "Tab 12 Pro"
   },
   {
+   "device": "Tab12Pro_NEU",
+   "name": "Tab12Pro_RU",
+   "model": "Tab 12 Pro"
+  },
+  {
    "device": "Tab12_EEA",
    "name": "Tab12_EEA",
    "model": "Tab 12"
@@ -17044,6 +17049,11 @@
   {
    "device": "Tab15Pro_NEU",
    "name": "Tab15Pro_NEU",
+   "model": "Tab 15 Pro"
+  },
+  {
+   "device": "Tab15Pro_NEU",
+   "name": "Tab15Pro_RU",
    "model": "Tab 15 Pro"
   },
   {
@@ -42006,6 +42016,13 @@
    "model": "GEO10X"
   }
  ],
+ "GeoMax": [
+  {
+   "device": "Zenius08",
+   "name": "GeoMax Zenius08",
+   "model": "GMT-08QA-2301"
+  }
+ ],
  "Geoelectron": [
   {
    "device": "P9IV_Handheld",
@@ -45032,6 +45049,11 @@
    "device": "T700B",
    "name": "T700B",
    "model": "T700B"
+  },
+  {
+   "device": "T7I_232",
+   "name": "T7I_232",
+   "model": "T7I_232"
   }
  ],
  "HDD SAT": [
@@ -55729,6 +55751,11 @@
  ],
  "Honor": [
   {
+   "device": "HNFRI",
+   "name": "FRI",
+   "model": "FRI-NX9"
+  },
+  {
    "device": "HNNTH",
    "name": "HONOR 50",
    "model": "NTH-NX9"
@@ -56027,6 +56054,11 @@
   }
  ],
  "Hot Pepper": [
+  {
+   "device": "Bola",
+   "name": "Bola",
+   "model": "Bola"
+  },
   {
    "device": "HPPL60A",
    "name": "Chilaca",
@@ -67424,6 +67456,11 @@
    "model": "Infinix X6833B"
   },
   {
+   "device": "Infinix-X6711",
+   "name": "Infinix NOTE 30 5G",
+   "model": "Infinix X6711"
+  },
+  {
    "device": "Infinix-X604_sprout",
    "name": "Infinix NOTE 5",
    "model": "Infinix X604"
@@ -67607,6 +67644,11 @@
    "device": "Infinix-X6716B",
    "name": "NOTE 30",
    "model": "Infinix X6716B"
+  },
+  {
+   "device": "Infinix-X678B",
+   "name": "NOTE 30 Pro",
+   "model": "Infinix X678B"
   },
   {
    "device": "Infinix-X6716",
@@ -73885,6 +73927,11 @@
    "device": "KPad_U2",
    "name": "KPad_U2",
    "model": "KPad_U2"
+  },
+  {
+   "device": "KPad_U2_Pro",
+   "name": "KPad_U2_Pro",
+   "model": "KPad_U2_Pro"
   },
   {
    "device": "KPad_U2_Pro_EEA",
@@ -86630,6 +86677,13 @@
    "device": "LumePad",
    "name": "Lume Pad",
    "model": "LPD-20W"
+  }
+ ],
+ "Leica": [
+  {
+   "device": "CSX8",
+   "name": "Leica CSX8",
+   "model": "LGT-08QA-2301"
   }
  ],
  "Lenco": [
@@ -109507,6 +109561,11 @@
    "model": "S5502L"
   },
   {
+   "device": "S5504LA",
+   "name": "A12L",
+   "model": "S5504L"
+  },
+  {
    "device": "S6303LA_Go",
    "name": "A19L",
    "model": "S6303L"
@@ -110886,6 +110945,11 @@
    "device": "OP594DL1",
    "name": "OnePlus 11 5G",
    "model": "CPH2451"
+  },
+  {
+   "device": "OP591BL1",
+   "name": "OnePlus 11 5G 中国版",
+   "model": "PHB110"
   },
   {
    "device": "OnePlus6",
@@ -119696,6 +119760,11 @@
    "model": "Kids_10"
   },
   {
+   "device": "Kids_8",
+   "name": "Kids_8",
+   "model": "Kids_8"
+  },
+  {
    "device": "P60_Pro",
    "name": "P60_Pro",
    "model": "PlimPad_P60_Pro"
@@ -123456,6 +123525,11 @@
    "model": "L8_A02_EEA"
   },
   {
+   "device": "L8_B01",
+   "name": "L8_B01",
+   "model": "TAB_8"
+  },
+  {
    "device": "L8_EEA",
    "name": "L8_EEA",
    "model": "L8_EEA"
@@ -126330,6 +126404,13 @@
    "device": "popper2",
    "name": "popper2",
    "model": "popper2"
+  }
+ ],
+ "RUGSTORM": [
+  {
+   "device": "UA100",
+   "name": "UA100",
+   "model": "UA100"
   }
  ],
  "RVP(AB)": [
@@ -167336,6 +167417,11 @@
    "model": "TECNO CK7n"
   },
   {
+   "device": "TECNO-CK8n",
+   "name": "CAMON 20 Pro 5G",
+   "model": "TECNO CK8n"
+  },
+  {
    "device": "TECNO-C7",
    "name": "CAMON C7",
    "model": "TECNO-C7"
@@ -171668,6 +171754,11 @@
  ],
  "UNIWA": [
   {
+   "device": "K626",
+   "name": "K626_EEA",
+   "model": "K626"
+  },
+  {
    "device": "M101",
    "name": "M101",
    "model": "M101"
@@ -174073,6 +174164,13 @@
    "device": "E11",
    "name": "VIVIMAGE_E11",
    "model": "VIVIMAGE_E11"
+  }
+ ],
+ "VIVIVIEW": [
+  {
+   "device": "V5Pro",
+   "name": "V5Pro",
+   "model": "V5Pro"
   }
  ],
  "VIZZION": [
@@ -179401,6 +179499,11 @@
    "device": "PD2229",
    "name": "vivo X Fold+",
    "model": "V2229A"
+  },
+  {
+   "device": "PD2266",
+   "name": "vivo X Fold2",
+   "model": "V2266A"
   },
   {
    "device": "PD2170",

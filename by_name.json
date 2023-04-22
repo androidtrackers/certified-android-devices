@@ -31921,6 +31921,13 @@
    "model": "Tab 12 Pro"
   }
  ],
+ "Tab12Pro_RU": [
+  {
+   "brand": "Blackview",
+   "device": "Tab12Pro_NEU",
+   "model": "Tab 12 Pro"
+  }
+ ],
  "Tab12_EEA": [
   {
    "brand": "Blackview",
@@ -31964,6 +31971,13 @@
   }
  ],
  "Tab15Pro_NEU": [
+  {
+   "brand": "Blackview",
+   "device": "Tab15Pro_NEU",
+   "model": "Tab 15 Pro"
+  }
+ ],
+ "Tab15Pro_RU": [
   {
    "brand": "Blackview",
    "device": "Tab15Pro_NEU",
@@ -67018,6 +67032,13 @@
    "model": "GEO10X"
   }
  ],
+ "GeoMax Zenius08": [
+  {
+   "brand": "GeoMax",
+   "device": "Zenius08",
+   "model": "GMT-08QA-2301"
+  }
+ ],
  "P9IV": [
   {
    "brand": "Geoelectron",
@@ -71274,6 +71295,13 @@
    "brand": "HDC S.A.",
    "device": "T700B",
    "model": "T700B"
+  }
+ ],
+ "T7I_232": [
+  {
+   "brand": "HDC S.A.",
+   "device": "T7I_232",
+   "model": "T7I_232"
   }
  ],
  "Tab_i_excess": [
@@ -84055,6 +84083,13 @@
    "model": "VM3A"
   }
  ],
+ "FRI": [
+  {
+   "brand": "Honor",
+   "device": "HNFRI",
+   "model": "FRI-NX9"
+  }
+ ],
  "HONOR 50": [
   {
    "brand": "Honor",
@@ -84432,6 +84467,13 @@
    "brand": "Hoozo",
    "device": "YK_P30_EEA",
    "model": "YK_P30_EEA"
+  }
+ ],
+ "Bola": [
+  {
+   "brand": "Hot Pepper",
+   "device": "Bola",
+   "model": "Bola"
   }
  ],
  "Chilaca": [
@@ -96124,6 +96166,13 @@
    "model": "Infinix X6833B"
   }
  ],
+ "Infinix NOTE 30 5G": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6711",
+   "model": "Infinix X6711"
+  }
+ ],
  "Infinix NOTE 5": [
   {
    "brand": "Infinix",
@@ -96367,6 +96416,13 @@
    "brand": "Infinix",
    "device": "X601-LTE",
    "model": "Infinix_X601_LTE"
+  }
+ ],
+ "NOTE 30 Pro": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X678B",
+   "model": "Infinix X678B"
   }
  ],
  "NOTE 30i": [
@@ -103905,6 +103961,13 @@
    "brand": "KYASTER",
    "device": "KPad_U2",
    "model": "KPad_U2"
+  }
+ ],
+ "KPad_U2_Pro": [
+  {
+   "brand": "KYASTER",
+   "device": "KPad_U2_Pro",
+   "model": "KPad_U2_Pro"
   }
  ],
  "KPad_U2_Pro_EEA": [
@@ -118489,6 +118552,13 @@
    "brand": "LeiaInc",
    "device": "LumePad",
    "model": "LPD-20W"
+  }
+ ],
+ "Leica CSX8": [
+  {
+   "brand": "Leica",
+   "device": "CSX8",
+   "model": "LGT-08QA-2301"
   }
  ],
  "Lenovo Tab K8": [
@@ -144842,6 +144912,13 @@
    "model": "S5502L"
   }
  ],
+ "A12L": [
+  {
+   "brand": "Nuu",
+   "device": "S5504LA",
+   "model": "S5504L"
+  }
+ ],
  "A19L": [
   {
    "brand": "Nuu",
@@ -146128,6 +146205,13 @@
    "brand": "OnePlus",
    "device": "OP594DL1",
    "model": "CPH2451"
+  }
+ ],
+ "OnePlus 11 5G 中国版": [
+  {
+   "brand": "OnePlus",
+   "device": "OP591BL1",
+   "model": "PHB110"
   }
  ],
  "OnePlus 6": [
@@ -156845,6 +156929,13 @@
    "model": "Kids_10"
   }
  ],
+ "Kids_8": [
+  {
+   "brand": "Plimpton",
+   "device": "Kids_8",
+   "model": "Kids_8"
+  }
+ ],
  "P60_Pro": [
   {
    "brand": "Plimpton",
@@ -161629,6 +161720,13 @@
    "model": "L8_A02_EEA"
   }
  ],
+ "L8_B01": [
+  {
+   "brand": "Pritom",
+   "device": "L8_B01",
+   "model": "TAB_8"
+  }
+ ],
  "L8_EEA": [
   {
    "brand": "Pritom",
@@ -164908,6 +165006,13 @@
    "brand": "RT Project",
    "device": "popper2",
    "model": "popper2"
+  }
+ ],
+ "UA100": [
+  {
+   "brand": "RUGSTORM",
+   "device": "UA100",
+   "model": "UA100"
   }
  ],
  "RVPVK808": [
@@ -211120,6 +211225,13 @@
    "model": "TECNO CK7n"
   }
  ],
+ "CAMON 20 Pro 5G": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-CK8n",
+   "model": "TECNO CK8n"
+  }
+ ],
  "CAMON C7": [
   {
    "brand": "Tecno",
@@ -216016,6 +216128,13 @@
    "model": "AI PONT"
   }
  ],
+ "K626_EEA": [
+  {
+   "brand": "UNIWA",
+   "device": "K626",
+   "model": "K626"
+  }
+ ],
  "M101": [
   {
    "brand": "UNIWA",
@@ -218856,6 +218975,13 @@
    "brand": "VIVIMAGE",
    "device": "E11",
    "model": "VIVIMAGE_E11"
+  }
+ ],
+ "V5Pro": [
+  {
+   "brand": "VIVIVIEW",
+   "device": "V5Pro",
+   "model": "V5Pro"
   }
  ],
  "VIZZION 4K TV": [
@@ -225359,6 +225485,13 @@
    "brand": "Vivo",
    "device": "PD2229",
    "model": "V2229A"
+  }
+ ],
+ "vivo X Fold2": [
+  {
+   "brand": "Vivo",
+   "device": "PD2266",
+   "model": "V2266A"
   }
  ],
  "vivo X Note": [
