@@ -45090,6 +45090,11 @@
    "model": "H2"
   },
   {
+   "device": "WPAD2",
+   "name": "WPAD2",
+   "model": "W2"
+  },
+  {
    "device": "Wpad1",
    "name": "Wpad1",
    "model": "W1"
@@ -65728,6 +65733,13 @@
    "model": "PORTUGAL\""
   }
  ],
+ "INNOCN": [
+  {
+   "device": "32S1U_Pro",
+   "name": "32S1U Pro",
+   "model": "32S1U_Pro"
+  }
+ ],
  "INOI": [
   {
    "device": "A126",
@@ -67649,6 +67661,11 @@
    "device": "Infinix-X678B",
    "name": "NOTE 30 Pro",
    "model": "Infinix X678B"
+  },
+  {
+   "device": "Infinix-X6710",
+   "name": "NOTE 30 VIP",
+   "model": "Infinix X6710"
   },
   {
    "device": "Infinix-X6716",
@@ -76246,6 +76263,13 @@
    "device": "F99Pro",
    "name": "F99Pro",
    "model": "F99Pro"
+  }
+ ],
+ "Kuori": [
+  {
+   "device": "Nupiton",
+   "name": "KH660",
+   "model": "KH660"
   }
  ],
  "Kurio": [
@@ -102408,6 +102432,16 @@
    "device": "maltalsc",
    "name": "moto e(7i) power",
    "model": "moto e(7i) power"
+  },
+  {
+   "device": "sabahl",
+   "name": "moto e13",
+   "model": "SabahLite"
+  },
+  {
+   "device": "sabahl",
+   "name": "moto e13",
+   "model": "moto e13"
   },
   {
    "device": "aruba",
@@ -157904,6 +157938,11 @@
    "model": "9081X"
   },
   {
+   "device": "Eternals11",
+   "name": "TCL NXTPAPER 11",
+   "model": "9466X"
+  },
+  {
    "device": "T1",
    "name": "TCL PLEX",
    "model": "T780H"
@@ -168325,6 +168364,11 @@
    "device": "TECNO-CK6",
    "name": "TECNO CAMON 20",
    "model": "TECNO CK6"
+  },
+  {
+   "device": "TECNO-CK6n",
+   "name": "TECNO CAMON 20",
+   "model": "TECNO CK6n"
   },
   {
    "device": "TECNO-CK6n",

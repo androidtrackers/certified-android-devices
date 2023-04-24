@@ -71351,6 +71351,13 @@
    "model": "H2"
   }
  ],
+ "WPAD2": [
+  {
+   "brand": "HEADWOLF",
+   "device": "WPAD2",
+   "model": "W2"
+  }
+ ],
  "Wpad1": [
   {
    "brand": "HEADWOLF",
@@ -94052,6 +94059,13 @@
    "model": "PORTUGAL\""
   }
  ],
+ "32S1U Pro": [
+  {
+   "brand": "INNOCN",
+   "device": "32S1U_Pro",
+   "model": "32S1U_Pro"
+  }
+ ],
  "A126": [
   {
    "brand": "INOI",
@@ -96423,6 +96437,13 @@
    "brand": "Infinix",
    "device": "Infinix-X678B",
    "model": "Infinix X678B"
+  }
+ ],
+ "NOTE 30 VIP": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6710",
+   "model": "Infinix X6710"
   }
  ],
  "NOTE 30i": [
@@ -106975,6 +106996,13 @@
    "brand": "Kunfabo",
    "device": "F99Pro",
    "model": "F99Pro"
+  }
+ ],
+ "KH660": [
+  {
+   "brand": "Kuori",
+   "device": "Nupiton",
+   "model": "KH660"
   }
  ],
  "KURIO LITE GO NEW": [
@@ -136369,6 +136397,18 @@
    "brand": "Motorola",
    "device": "maltalsc",
    "model": "moto e(7i) power"
+  }
+ ],
+ "moto e13": [
+  {
+   "brand": "Motorola",
+   "device": "sabahl",
+   "model": "SabahLite"
+  },
+  {
+   "brand": "Motorola",
+   "device": "sabahl",
+   "model": "moto e13"
   }
  ],
  "moto e20": [
@@ -200849,6 +200889,13 @@
    "model": "9081X"
   }
  ],
+ "TCL NXTPAPER 11": [
+  {
+   "brand": "TCL",
+   "device": "Eternals11",
+   "model": "9466X"
+  }
+ ],
  "TCL PLEX": [
   {
    "brand": "TCL",
@@ -212301,6 +212348,11 @@
    "brand": "Tecno",
    "device": "TECNO-CK6",
    "model": "TECNO CK6"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-CK6n",
+   "model": "TECNO CK6n"
   }
  ],
  "TECNO CAMON 20 PRO": [

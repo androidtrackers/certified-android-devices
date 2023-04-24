@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-04-23
+Last sync is 2023-04-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8674,6 +8674,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HEADWOLF|HPAD1A|HPAD1A|H1A|
 |HEADWOLF|Hpad1|Hpad1|Hpad1|
 |HEADWOLF|Hpad2|Hpad2|H2|
+|HEADWOLF|WPAD2|WPAD2|W2|
 |HEADWOLF|Wpad1|Wpad1|W1|
 |HEADWOLF|Wpad2|Wpad2|W2|
 |HEALTHJAY|JayPad_2_0|JayPad_2_0|JayPad_2_0|
@@ -12760,6 +12761,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |INFINITON|Infiniton|shilin|Infiniton4KAndroidTV|
 |INFINITON|"SPAIN|MOROCCO|PORTUGAL"|
 |INFINITON|"SPAIN|MOROCCO|PORTUGAL"|
+|INNOCN|32S1U Pro|32S1U_Pro|32S1U_Pro|
 |INOI|A126|A126|A126|
 |INOI|A150|A150|A150|
 |INOI|A160|A160|A160|
@@ -13129,6 +13131,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|NOTE 3 Pro|X601-LTE|Infinix_X601_LTE|
 |Infinix|NOTE 30|Infinix-X6716B|Infinix X6716B|
 |Infinix|NOTE 30 Pro|Infinix-X678B|Infinix X678B|
+|Infinix|NOTE 30 VIP|Infinix-X6710|Infinix X6710|
 |Infinix|NOTE 30i|Infinix-X6716|Infinix X6716|
 |Infinix|NOTE 4|Infinix-X572|Infinix X572|
 |Infinix|NOTE 4|Infinix-X572|Infinix X572-LTE|
@@ -14790,6 +14793,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kult|Kult Ambition|Ambition|Ambition|
 |Kult|Kult Beyond|Beyond|Beyond|
 |Kunfabo|F99Pro|F99Pro|F99Pro|
+|Kuori|KH660|Nupiton|KH660|
 |Kurio|KURIO LITE GO NEW|U3A_7_WIFI_Refresh_KD|9309S|
 |Kurio|KURIO LITE GO NEW|U3A_7_WIFI_Refresh_KD|9309S2|
 |Kurio|KURIO LITE GO NEW|U3A_7_WIFI_Refresh_KD|9309S2_EEA|
@@ -19924,6 +19928,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto e(7) power|malta|moto e(7) power|
 |Motorola|moto e(7i) power|maltalsc|maltalsc|
 |Motorola|moto e(7i) power|maltalsc|moto e(7i) power|
+|Motorola|moto e13|sabahl|SabahLite|
+|Motorola|moto e13|sabahl|moto e13|
 |Motorola|moto e20|aruba|aruba|
 |Motorola|moto e20|aruba|moto e20|
 |Motorola|moto e30|cyprus|cyprus|
@@ -30772,6 +30778,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL L9S|Tokyo_Lite|5107G|
 |TCL|TCL L9S|Tokyo_Lite|5107J|
 |TCL|TCL NXTPAPER 10s|Odin2|9081X|
+|TCL|TCL NXTPAPER 11|Eternals11|9466X|
 |TCL|TCL PLEX|T1|T780H|
 |TCL|TCL PLEX|T1_L1|T780H|
 |TCL|TCL Stylus 5G|Challenger_CS|T779W|
@@ -32823,6 +32830,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CAMON 19 Neo|TECNO-CH6IS|TECNO CH6IS|
 |Tecno|TECNO CAMON 19 Neo|TECNO-CH6i|TECNO CH6i|
 |Tecno|TECNO CAMON 20|TECNO-CK6|TECNO CK6|
+|Tecno|TECNO CAMON 20|TECNO-CK6n|TECNO CK6n|
 |Tecno|TECNO CAMON 20 PRO|TECNO-CK6n|TECNO CK6n|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|
 |Tecno|TECNO CAMON iACE 2x|TECNO-KB2j|TECNO KB2j|

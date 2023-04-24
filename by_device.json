@@ -67489,6 +67489,13 @@
    "model": "H2"
   }
  ],
+ "WPAD2": [
+  {
+   "brand": "HEADWOLF",
+   "name": "WPAD2",
+   "model": "W2"
+  }
+ ],
  "Wpad1": [
   {
    "brand": "HEADWOLF",
@@ -91176,6 +91183,13 @@
    "model": "PORTUGAL\""
   }
  ],
+ "32S1U_Pro": [
+  {
+   "brand": "INNOCN",
+   "name": "32S1U Pro",
+   "model": "32S1U_Pro"
+  }
+ ],
  "A126": [
   {
    "brand": "INOI",
@@ -93613,6 +93627,13 @@
    "brand": "Infinix",
    "name": "NOTE 30 Pro",
    "model": "Infinix X678B"
+  }
+ ],
+ "Infinix-X6710": [
+  {
+   "brand": "Infinix",
+   "name": "NOTE 30 VIP",
+   "model": "Infinix X6710"
   }
  ],
  "Infinix-X6716": [
@@ -103650,6 +103671,13 @@
    "brand": "Kunfabo",
    "name": "F99Pro",
    "model": "F99Pro"
+  }
+ ],
+ "Nupiton": [
+  {
+   "brand": "Kuori",
+   "name": "KH660",
+   "model": "KH660"
   }
  ],
  "U3A_7_WIFI_Refresh_KD": [
@@ -136141,6 +136169,18 @@
    "brand": "Motorola",
    "name": "moto e(6i)",
    "model": "moto e(6i)"
+  }
+ ],
+ "sabahl": [
+  {
+   "brand": "Motorola",
+   "name": "moto e13",
+   "model": "SabahLite"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto e13",
+   "model": "moto e13"
   }
  ],
  "cyprus": [
@@ -204066,6 +204106,23 @@
    "model": "HEYOU40"
   }
  ],
+ "Eternals11": [
+  {
+   "brand": "TCL",
+   "name": "TCL NXTPAPER 11",
+   "model": "9466X"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 11",
+   "model": "9466X"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 11 LTE",
+   "model": "9166G"
+  }
+ ],
  "T1_L1": [
   {
    "brand": "TCL",
@@ -204285,18 +204342,6 @@
    "brand": "TCL",
    "name": "TCL TAB 10s 4G",
    "model": "9080X"
-  }
- ],
- "Eternals11": [
-  {
-   "brand": "TCL",
-   "name": "TCL TAB 11",
-   "model": "9466X"
-  },
-  {
-   "brand": "TCL",
-   "name": "TCL TAB 11 LTE",
-   "model": "9166G"
   }
  ],
  "U3A_7_WIFI_Refresh": [
@@ -214532,6 +214577,11 @@
   }
  ],
  "TECNO-CK6n": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO CAMON 20",
+   "model": "TECNO CK6n"
+  },
   {
    "brand": "Tecno",
    "name": "TECNO CAMON 20 PRO",
