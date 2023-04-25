@@ -5852,6 +5852,11 @@
    "model": "S6001L"
   },
   {
+   "brand": "Umidigi",
+   "device": "UMIDIGI_G2",
+   "model": "MP21"
+  },
+  {
    "brand": "X-Age",
    "device": "G2",
    "model": "G2"
@@ -16311,6 +16316,125 @@
    "model": "UHD Pro TV"
   }
  ],
+ "Europe": [
+  {
+   "brand": "Altus",
+   "device": "marina",
+   "model": "Altus UHD Pro TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "device": "guandu",
+   "model": "BLAUPUNKT EU 4K Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "device": "martin",
+   "model": "BLAUPUNKT EU 2K Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "device": "martin",
+   "model": "BLAUPUNKT EU 2K Android TV"
+  },
+  {
+   "brand": "CAIXUN",
+   "device": "martin",
+   "model": "Caixun Android TV"
+  },
+  {
+   "brand": "CAIXUN",
+   "device": "martin",
+   "model": "SE 2K Android Monitor"
+  },
+  {
+   "brand": "CAIXUN",
+   "device": "martin",
+   "model": "Smarttech Android Monitor"
+  },
+  {
+   "brand": "Qilive",
+   "device": "tamachi",
+   "model": "Qilive FHD Android TV"
+  },
+  {
+   "brand": "Qilive",
+   "device": "yeongdeungpo",
+   "model": "Qilive UHD Android TV"
+  },
+  {
+   "brand": "SWTV",
+   "device": "SW3H_ATV",
+   "model": "SWTV"
+  },
+  {
+   "brand": "Sharp",
+   "device": "guandu",
+   "model": "SHARP 4K EU Android TV"
+  },
+  {
+   "brand": "Sharp",
+   "device": "martin",
+   "model": "SHARP 2K EU Android TV"
+  },
+  {
+   "brand": "Skyworth",
+   "device": "globe_eu",
+   "model": "globe"
+  },
+  {
+   "brand": "Tesla",
+   "device": "guandu",
+   "model": "Tesla Android TV"
+  },
+  {
+   "brand": "Thomson",
+   "device": "martin",
+   "model": "Thomson TV"
+  }
+ ],
+ "Turkey": [
+  {
+   "brand": "Altus",
+   "device": "martin",
+   "model": "Altus Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "device": "martin",
+   "model": "Blaupunkt 2K Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "device": "tamachi",
+   "model": "Blaupunkt 2K Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "device": "yeongdeungpo",
+   "model": "Blaupunkt 4K Android TV"
+  },
+  {
+   "brand": "Hometech",
+   "device": "ALFA_7MRC",
+   "model": "ALFA_7MRC"
+  },
+  {
+   "brand": "Profilo",
+   "device": "martin",
+   "model": "Profilo 2K Android TV"
+  },
+  {
+   "brand": "Profilo",
+   "device": "tamachi",
+   "model": "Profilo 2K Android TV"
+  },
+  {
+   "brand": "Profilo",
+   "device": "yeongdeungpo",
+   "model": "Profilo 4K Android TV"
+  }
+ ],
  "KIREI A5Q PLUS": [
   {
    "brand": "Americamovil",
@@ -18560,6 +18684,13 @@
    "brand": "Archos",
    "device": "act1014g",
    "model": "Archos T 101 4G"
+  }
+ ],
+ "ARCHOS T101HD 4G": [
+  {
+   "brand": "Archos",
+   "device": "act101hd4g2",
+   "model": "ARCHOS T101 HD 4G"
   }
  ],
  "ARCHOS T96 3G_EEA": [
@@ -29560,6 +29691,13 @@
    "model": "QS01"
   }
  ],
+ "QS02": [
+  {
+   "brand": "BenQ",
+   "device": "YUL",
+   "model": "QS02"
+  }
+ ],
  "T3_08": [
   {
    "brand": "BenQ",
@@ -32644,68 +32782,6 @@
    "model": "Endeavour101"
   }
  ],
- "Europe": [
-  {
-   "brand": "Blaupunkt",
-   "device": "guandu",
-   "model": "BLAUPUNKT EU 4K Android TV"
-  },
-  {
-   "brand": "Blaupunkt",
-   "device": "martin",
-   "model": "BLAUPUNKT EU 2K Android TV"
-  },
-  {
-   "brand": "Blaupunkt",
-   "device": "martin",
-   "model": "BLAUPUNKT EU 2K Android TV"
-  },
-  {
-   "brand": "CAIXUN",
-   "device": "martin",
-   "model": "Caixun Android TV"
-  },
-  {
-   "brand": "CAIXUN",
-   "device": "martin",
-   "model": "Smarttech Android Monitor"
-  },
-  {
-   "brand": "Qilive",
-   "device": "tamachi",
-   "model": "Qilive FHD Android TV"
-  },
-  {
-   "brand": "Qilive",
-   "device": "yeongdeungpo",
-   "model": "Qilive UHD Android TV"
-  },
-  {
-   "brand": "SWTV",
-   "device": "SW3H_ATV",
-   "model": "SWTV"
-  },
-  {
-   "brand": "Sharp",
-   "device": "guandu",
-   "model": "SHARP 4K EU Android TV"
-  },
-  {
-   "brand": "Sharp",
-   "device": "martin",
-   "model": "SHARP 2K EU Android TV"
-  },
-  {
-   "brand": "Skyworth",
-   "device": "globe_eu",
-   "model": "globe"
-  },
-  {
-   "brand": "Tesla",
-   "device": "guandu",
-   "model": "Tesla Android TV"
-  }
- ],
  "Guardian": [
   {
    "brand": "Blaupunkt",
@@ -32821,43 +32897,6 @@
    "brand": "Blaupunkt",
    "device": "Blaupunkt_TX60",
    "model": "Blaupunkt_TX60"
-  }
- ],
- "Turkey": [
-  {
-   "brand": "Blaupunkt",
-   "device": "martin",
-   "model": "Blaupunkt 2K Android TV"
-  },
-  {
-   "brand": "Blaupunkt",
-   "device": "tamachi",
-   "model": "Blaupunkt 2K Android TV"
-  },
-  {
-   "brand": "Blaupunkt",
-   "device": "yeongdeungpo",
-   "model": "Blaupunkt 4K Android TV"
-  },
-  {
-   "brand": "Hometech",
-   "device": "ALFA_7MRC",
-   "model": "ALFA_7MRC"
-  },
-  {
-   "brand": "Profilo",
-   "device": "martin",
-   "model": "Profilo 2K Android TV"
-  },
-  {
-   "brand": "Profilo",
-   "device": "tamachi",
-   "model": "Profilo 2K Android TV"
-  },
-  {
-   "brand": "Profilo",
-   "device": "yeongdeungpo",
-   "model": "Profilo 4K Android TV"
   }
  ],
  "A-200": [
@@ -33204,6 +33243,11 @@
    "brand": "Sharp",
    "device": "MS1",
    "model": "FS8001"
+  },
+  {
+   "brand": "Telpo",
+   "device": "C1",
+   "model": "C1"
   }
  ],
  "C2": [
@@ -37130,6 +37174,18 @@
    "model": "Aiplus4K"
   }
  ],
+ "EXPRESS": [
+  {
+   "brand": "CAIXUN",
+   "device": "marina",
+   "model": "Apollo Premium4K TV"
+  },
+  {
+   "brand": "Walton",
+   "device": "guandu",
+   "model": "WALTON Android TV"
+  }
+ ],
  "Malaysia": [
   {
    "brand": "CAIXUN",
@@ -39352,6 +39408,13 @@
    "model": "VIA_L30_0"
   }
  ],
+ "VIA_L40": [
+  {
+   "brand": "Casper",
+   "device": "VIA_L40",
+   "model": "VIA L40"
+  }
+ ],
  "VIA_M4": [
   {
    "brand": "Casper",
@@ -39406,6 +39469,13 @@
    "brand": "Casper",
    "device": "VIA_S30_0",
    "model": "VIA_S30_0"
+  }
+ ],
+ "VIA_S40": [
+  {
+   "brand": "Casper",
+   "device": "VIA_S40",
+   "model": "VIA S40"
   }
  ],
  "VIA_S48_0": [
@@ -47846,6 +47916,13 @@
    "brand": "DEA Factory",
    "device": "KTAB",
    "model": "KTAB"
+  }
+ ],
+ "DC-WT15": [
+  {
+   "brand": "DEED",
+   "device": "DC-WT15",
+   "model": "DC-WT15"
   }
  ],
  "BS703_EEA": [
@@ -71400,6 +71477,13 @@
    "model": "C-TABLET"
   }
  ],
+ "OC101": [
+  {
+   "brand": "HIGRACE",
+   "device": "OC101",
+   "model": "OC101"
+  }
+ ],
  "HIMADE": [
   {
    "brand": "HIMADE",
@@ -76940,6 +77024,13 @@
    "brand": "Haier",
    "device": "jordan",
    "model": "Haier MatrixTV BE"
+  }
+ ],
+ "Haier MatrixTV BN": [
+  {
+   "brand": "Haier",
+   "device": "jordan",
+   "model": "Haier MatrixTV BN"
   }
  ],
  "Haier MatrixTV BS": [
@@ -106998,6 +107089,13 @@
    "model": "F99Pro"
   }
  ],
+ "KH3566": [
+  {
+   "brand": "Kuori",
+   "device": "Kivi",
+   "model": "KH3566"
+  }
+ ],
  "KH660": [
   {
    "brand": "Kuori",
@@ -127271,6 +127369,13 @@
    "model": "Mara Phones Z1"
   }
  ],
+ "\"Asia": [
+  {
+   "brand": "Marcel",
+   "device": "EU (Including UK)",
+   "model": "Australia"
+  }
+ ],
  "London": [
   {
    "brand": "Marshall",
@@ -132592,6 +132697,13 @@
    "brand": "Mobicell",
    "device": "Clik_plus",
    "model": "Clik plus"
+  }
+ ],
+ "Cosmo LTE": [
+  {
+   "brand": "Mobicell",
+   "device": "Cosmo_LTE",
+   "model": "Cosmo LTE"
   }
  ],
  "Cosmo LTE_1": [
@@ -152615,6 +152727,13 @@
    "model": "220733SPI"
   }
  ],
+ "POCO C51": [
+  {
+   "brand": "POCO",
+   "device": "water",
+   "model": "2302EPCC4H"
+  }
+ ],
  "POCO C55": [
   {
    "brand": "POCO",
@@ -166620,6 +166739,13 @@
    "model": "23028RN4DG"
   }
  ],
+ "Redmi A2+": [
+  {
+   "brand": "Redmi",
+   "device": "water",
+   "model": "23028RNCAG"
+  }
+ ],
  "Redmi K20": [
   {
    "brand": "Redmi",
@@ -167072,6 +167198,11 @@
    "brand": "Redmi",
    "device": "ruby",
    "model": "22101316C"
+  },
+  {
+   "brand": "Redmi",
+   "device": "sweet",
+   "model": "2209116AG"
   }
  ],
  "Redmi Note 12 Pro + 5G": [
@@ -187038,6 +187169,13 @@
    "brand": "Satewave",
    "device": "HPAD-IP8045",
    "model": "HPAD-IP8045"
+  }
+ ],
+ "Nigeria": [
+  {
+   "brand": "Scanfrost",
+   "device": "martin",
+   "model": "Scanfrost 2K Android TV"
   }
  ],
  "FreedomTurboXL": [
@@ -214302,6 +214440,13 @@
    "model": "TEO8-A2BK32"
   }
  ],
+ "TEO84G": [
+  {
+   "brand": "Thomson",
+   "device": "TEO84G332",
+   "model": "TEO84G"
+  }
+ ],
  "TEOX102": [
   {
    "brand": "Thomson",
@@ -227554,13 +227699,6 @@
    "model": "WALTON Android TV"
   }
  ],
- "EXPRESS": [
-  {
-   "brand": "Walton",
-   "device": "guandu",
-   "model": "WALTON Android TV"
-  }
- ],
  "LT750": [
   {
    "brand": "Walton",
@@ -232902,6 +233040,13 @@
    "brand": "Xiaomi",
    "device": "enuma",
    "model": "M2105K81C"
+  }
+ ],
+ "Xiaomi TV Box S (2nd Gen)": [
+  {
+   "brand": "Xiaomi",
+   "device": "jaws",
+   "model": "MiTV-AFKR0"
   }
  ],
  "Xiaomi TV stick 4K": [

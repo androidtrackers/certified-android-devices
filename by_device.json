@@ -5424,6 +5424,11 @@
    "model": "Aborder 2K Android TV"
   },
   {
+   "brand": "Altus",
+   "name": "Turkey",
+   "model": "Altus Android TV"
+  },
+  {
    "brand": "Blaupunkt",
    "name": "EU、UK、AP",
    "model": "BLAUPUNKT 2K Android TV"
@@ -5452,6 +5457,11 @@
    "brand": "CAIXUN",
    "name": "Europe",
    "model": "Caixun Android TV"
+  },
+  {
+   "brand": "CAIXUN",
+   "name": "Europe",
+   "model": "SE 2K Android Monitor"
   },
   {
    "brand": "CAIXUN",
@@ -5609,6 +5619,11 @@
    "model": "SPC Android Monitor"
   },
   {
+   "brand": "Scanfrost",
+   "name": "Nigeria",
+   "model": "Scanfrost 2K Android TV"
+  },
+  {
    "brand": "Sharp",
    "name": "Europe",
    "model": "SHARP 2K EU Android TV"
@@ -5647,6 +5662,11 @@
    "brand": "Tesla",
    "name": "EU、UK、AP",
    "model": "Tesla Android TV"
+  },
+  {
+   "brand": "Thomson",
+   "name": "Europe",
+   "model": "Thomson TV"
   },
   {
    "brand": "Turbo-X",
@@ -13553,6 +13573,18 @@
    "model": "Grundig Android TV"
   }
  ],
+ "marina": [
+  {
+   "brand": "Altus",
+   "name": "Europe",
+   "model": "Altus UHD Pro TV"
+  },
+  {
+   "brand": "CAIXUN",
+   "name": "EXPRESS",
+   "model": "Apollo Premium4K TV"
+  }
+ ],
  "Azumi_KIREI_A5Q_PLUS_AC06": [
   {
    "brand": "Americamovil",
@@ -14756,6 +14788,11 @@
    "brand": "Haier",
    "name": "Haier MatrixTV BE",
    "model": "Haier MatrixTV BE"
+  },
+  {
+   "brand": "Haier",
+   "name": "Haier MatrixTV BN",
+   "model": "Haier MatrixTV BN"
   },
   {
    "brand": "Haier",
@@ -16341,6 +16378,13 @@
    "brand": "Archos",
    "name": "ARCHOS T101 4G",
    "model": "Archos T 101 4G"
+  }
+ ],
+ "act101hd4g2": [
+  {
+   "brand": "Archos",
+   "name": "ARCHOS T101HD 4G",
+   "model": "ARCHOS T101 HD 4G"
   }
  ],
  "ARCHOST963G": [
@@ -27231,6 +27275,28 @@
    "model": "QS01"
   }
  ],
+ "YUL": [
+  {
+   "brand": "BenQ",
+   "name": "QS02",
+   "model": "QS02"
+  },
+  {
+   "brand": "Dcolor",
+   "name": "GD1 4K",
+   "model": "GD1 4K"
+  },
+  {
+   "brand": "ETOE",
+   "name": "D1221",
+   "model": "D1221"
+  },
+  {
+   "brand": "imiia",
+   "name": "i-217D1",
+   "model": "i-217D1"
+  }
+ ],
  "T3_17A": [
   {
    "brand": "BenQ",
@@ -35883,6 +35949,13 @@
    "model": "VIA_L30_0"
   }
  ],
+ "VIA_L40": [
+  {
+   "brand": "Casper",
+   "name": "VIA_L40",
+   "model": "VIA L40"
+  }
+ ],
  "VIA_M4": [
   {
    "brand": "Casper",
@@ -35937,6 +36010,13 @@
    "brand": "Casper",
    "name": "VIA_S30_0",
    "model": "VIA_S30_0"
+  }
+ ],
+ "VIA_S40": [
+  {
+   "brand": "Casper",
+   "name": "VIA_S40",
+   "model": "VIA S40"
   }
  ],
  "VIA_S48_0": [
@@ -44533,6 +44613,13 @@
    "model": "KTAB"
   }
  ],
+ "DC-WT15": [
+  {
+   "brand": "DEED",
+   "name": "DC-WT15",
+   "model": "DC-WT15"
+  }
+ ],
  "BS703_EEA": [
   {
    "brand": "DEPLAY",
@@ -47336,23 +47423,6 @@
    "brand": "Dcode",
    "name": "DS_CL2_Pro",
    "model": "DS-CL2 Pro"
-  }
- ],
- "YUL": [
-  {
-   "brand": "Dcolor",
-   "name": "GD1 4K",
-   "model": "GD1 4K"
-  },
-  {
-   "brand": "ETOE",
-   "name": "D1221",
-   "model": "D1221"
-  },
-  {
-   "brand": "imiia",
-   "name": "i-217D1",
-   "model": "i-217D1"
   }
  ],
  "AM5E3I047": [
@@ -51558,6 +51628,11 @@
    "brand": "Micromax",
    "name": "Micromax Canvas 1",
    "model": "Micromax C1"
+  },
+  {
+   "brand": "Telpo",
+   "name": "C1",
+   "model": "C1"
   }
  ],
  "C1_Pro": [
@@ -67536,6 +67611,13 @@
    "brand": "HELIX_INC",
    "name": "C-TABLET",
    "model": "C-TABLET"
+  }
+ ],
+ "OC101": [
+  {
+   "brand": "HIGRACE",
+   "name": "OC101",
+   "model": "OC101"
   }
  ],
  "UY3-PCW": [
@@ -103673,6 +103755,13 @@
    "model": "F99Pro"
   }
  ],
+ "Kivi": [
+  {
+   "brand": "Kuori",
+   "name": "KH3566",
+   "model": "KH3566"
+  }
+ ],
  "Nupiton": [
   {
    "brand": "Kuori",
@@ -126092,6 +126181,13 @@
    "model": "Mara Phones Z1"
   }
  ],
+ "EU (Including UK)": [
+  {
+   "brand": "Marcel",
+   "name": "\"Asia",
+   "model": "Australia"
+  }
+ ],
  "KB-1501": [
   {
    "brand": "Marshall",
@@ -131776,6 +131872,13 @@
    "brand": "Mobicell",
    "name": "Clik plus",
    "model": "Clik plus"
+  }
+ ],
+ "Cosmo_LTE": [
+  {
+   "brand": "Mobicell",
+   "name": "Cosmo LTE",
+   "model": "Cosmo LTE"
   }
  ],
  "Cosmo_LTE_1": [
@@ -152559,6 +152662,18 @@
    "model": "220743FI"
   }
  ],
+ "water": [
+  {
+   "brand": "POCO",
+   "name": "POCO C51",
+   "model": "2302EPCC4H"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi A2+",
+   "model": "23028RNCAG"
+  }
+ ],
  "earth": [
   {
    "brand": "POCO",
@@ -166472,6 +166587,11 @@
    "brand": "Redmi",
    "name": "Redmi Note 10 Pro",
    "model": "M2101K6G"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 12 Pro",
+   "model": "2209116AG"
   },
   {
    "brand": "ZTE",
@@ -216495,6 +216615,13 @@
    "model": "TEO8-A2BK32"
   }
  ],
+ "TEO84G332": [
+  {
+   "brand": "Thomson",
+   "name": "TEO84G",
+   "model": "TEO84G"
+  }
+ ],
  "TEOX102": [
   {
    "brand": "Thomson",
@@ -219889,6 +220016,13 @@
    "brand": "Umidigi",
    "name": "G1 Max RU",
    "model": "MP18"
+  }
+ ],
+ "UMIDIGI_G2": [
+  {
+   "brand": "Umidigi",
+   "name": "G2",
+   "model": "MP21"
   }
  ],
  "MT02_EEA": [
@@ -234662,6 +234796,13 @@
    "brand": "Xiaomi",
    "name": "Xiaomi Pad 5 Pro 5G",
    "model": "M2105K81C"
+  }
+ ],
+ "jaws": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi TV Box S (2nd Gen)",
+   "model": "MiTV-AFKR0"
   }
  ],
  "soul": [

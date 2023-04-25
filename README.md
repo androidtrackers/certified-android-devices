@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-04-24
+Last sync is 2023-04-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1150,6 +1150,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Altus|Altus Android TV|shinagawa|Altus Android TV|
 |Altus|Altus Android TV|sinchon|4K Pro TV|
 |Altus|Altus UHD Android TV|kunyang|UHD Pro TV|
+|Altus|Europe|marina|Altus UHD Pro TV|
+|Altus|Turkey|martin|Altus Android TV|
 |Americamovil|KIREI A5Q PLUS|Azumi_KIREI_A5Q_PLUS_AC06|KIREI A5Q PLUS|
 |Amgoo|AM350|AM350|AM350|
 |Amgoo|AM402|AM402|AM402|
@@ -1471,6 +1473,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Archos|ALBA4|ac40as3g|ALBA 4|
 |Archos|ARCHOS|ARCHOS|ARCHOS T96 WIFI_EEA_V2|
 |Archos|ARCHOS T101 4G|act1014g|Archos T 101 4G|
+|Archos|ARCHOS T101HD 4G|act101hd4g2|ARCHOS T101 HD 4G|
 |Archos|ARCHOS T96 3G_EEA|ARCHOST963G|ARCHOS T96 3G_EEA|
 |Archos|ARCHOS T96 WIFI_EEA|ARCHOST96|ARCHOS T96 WIFI_EEA|
 |Archos|ARCHOST963G|ARCHOST963G|ARCHOS T96 3G|
@@ -2991,6 +2994,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|PT2200|PT2200|PT2200|
 |BenQ|Q Stick|S905Y2|QS01|
 |BenQ|QS01|S905Y2|QS01|
+|BenQ|QS02|YUL|QS02|
 |BenQ|Smart TV|longshan|AI PONT|
 |BenQ|T3|T3|BenQ T3|
 |BenQ|T3|T3_17A|BenQ T3|
@@ -3935,7 +3939,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CAIXUN|Australian/EU|yeongdeungpo|AiPlus4K|
 |CAIXUN|Canada|yeongdeungpo|AiPlus4K|
 |CAIXUN|Columbia|patrick|Aiplus4K|
+|CAIXUN|EXPRESS|marina|Apollo Premium4K TV|
 |CAIXUN|Europe|martin|Caixun Android TV|
+|CAIXUN|Europe|martin|SE 2K Android Monitor|
 |CAIXUN|Europe|martin|Smarttech Android Monitor|
 |CAIXUN|Malaysia|yeongdeungpo|AiPlus4KMY|
 |CAIXUN|Mexico|yeongdeungpo|AiPlus4K|
@@ -4233,6 +4239,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Casper|VIA_G5|VIA_G5|VIA G5|
 |Casper|VIA_L30|VIA_L30|VIA_L30|
 |Casper|VIA_L30_0|VIA_L30_0|VIA_L30_0|
+|Casper|VIA_L40|VIA_L40|VIA L40|
 |Casper|VIA_M4|VIA_M4|VIA_M4|
 |Casper|VIA_P2|VIA_P2|VIA_P2|
 |Casper|VIA_S|VIA_S|VIA_S|
@@ -4241,6 +4248,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Casper|VIA_S18|VIA_S18|VIA_S18|
 |Casper|VIA_S30|VIA_S30|VIA_S30|
 |Casper|VIA_S30_0|VIA_S30_0|VIA_S30_0|
+|Casper|VIA_S40|VIA_S40|VIA S40|
 |Casper|VIA_S48_0|VIA_S48_0|VIA_S48_0|
 |Casper|VIA_T41|VIA_T41|VIA_T41|
 |Cat|B15|TOUGH|B15|
@@ -5399,6 +5407,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DBM Maroc|Speed X2|Speed-X2|Speed-X2|
 |DCG-INSPIRATECH|DCG-N10|DCG-N10|DCG-N10|
 |DEA Factory|KTAB|KTAB|KTAB|
+|DEED|DC-WT15|DC-WT15|DC-WT15|
 |DEPLAY|BS703_EEA|BS703_EEA|BS703_EEA|
 |DEXP|A.350|A350|A350|
 |DEXP|A150|A150|A150|
@@ -8681,6 +8690,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HEATZ|HZ9950|HZ9950|HZ9950|
 |HEATZ|Z9950|Z9950|Z9950|
 |HELIX_INC|C-TABLET|C-TABLET|C-TABLET|
+|HIGRACE|OC101|OC101|OC101|
 |HIMADE|HIMADE|shilin|HIMADE4KAndroidTV|
 |HIMADE|UHD Android TV|sindorim|AI PONT|
 |HKC|A79 Tablet|EM62|A79|
@@ -9627,6 +9637,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|Haier MatrixTV AEL|irvine|Haier MatrixTV AEL|
 |Haier|Haier MatrixTV AS|irvine|Haier MatrixTV AS|
 |Haier|Haier MatrixTV BE|jordan|Haier MatrixTV BE|
+|Haier|Haier MatrixTV BN|jordan|Haier MatrixTV BN|
 |Haier|Haier MatrixTV BS|jordan|Haier MatrixTV BS|
 |Haier|Haier Titan T5|Titan_T5|Titan_T5|
 |Haier|HaierG61|HM-G701-FL|HM-G701-FL|
@@ -14793,6 +14804,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kult|Kult Ambition|Ambition|Ambition|
 |Kult|Kult Beyond|Beyond|Beyond|
 |Kunfabo|F99Pro|F99Pro|F99Pro|
+|Kuori|KH3566|Kivi|KH3566|
 |Kuori|KH660|Nupiton|KH660|
 |Kurio|KURIO LITE GO NEW|U3A_7_WIFI_Refresh_KD|9309S|
 |Kurio|KURIO LITE GO NEW|U3A_7_WIFI_Refresh_KD|9309S2|
@@ -18356,6 +18368,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mara Phones|Mara Z d|Mara_Z_d_sprout|Mara Z d|
 |Mara Phones|Mara Z1 d|Mara_Z1_d|Mara Phones Z1|
 |Marcel|4K Smart TV|pioneer|4K PA Smart TV|
+|Marcel|"Asia|EU (Including UK)|Australia|
 |Marcel|EU|tamachi|MARCEL Android TV|
 |Marcel|EU|yeongdeungpo|MARCEL Android TV|
 |Marcel|EU、UK、AP|martin|MARCEL Android TV|
@@ -19233,6 +19246,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|Chrome LTE|CHROME_LTE|CHROME LTE|
 |Mobicell|Chrome_LTE|Chrome_LTE|Chrome LTE|
 |Mobicell|Clik plus|Clik_plus|Clik plus|
+|Mobicell|Cosmo LTE|Cosmo_LTE|Cosmo LTE|
 |Mobicell|Cosmo LTE_1|Cosmo_LTE_1|Cosmo LTE_1|
 |Mobicell|DANDY|DANDY|DANDY|
 |Mobicell|DANDY_RW|DANDY_RW|DANDY_RW|
@@ -22602,6 +22616,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO C3|angelicain|M2006C3MI|
 |POCO|POCO C31|angelicain|211033MI|
 |POCO|POCO C50|snow|220733SPI|
+|POCO|POCO C51|water|2302EPCC4H|
 |POCO|POCO C55|earth|22127PC95I|
 |POCO|POCO F2 Pro|lmi|POCO F2 Pro|
 |POCO|POCO F3|alioth|M2012K11AG|
@@ -24819,6 +24834,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi A1+|snow|220743FI|
 |Redmi|Redmi A2|cloud|23026RN54G|
 |Redmi|Redmi A2|cloud|23028RN4DG|
+|Redmi|Redmi A2+|water|23028RNCAG|
 |Redmi|Redmi K20|davinci|Mi 9T|
 |Redmi|Redmi K20|davinci|Redmi K20|
 |Redmi|Redmi K20|davinciin|Redmi K20|
@@ -24891,6 +24907,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 12 5G|sunstone|22101317C|
 |Redmi|Redmi Note 12 DISCOVERY EDITION|rubyplus|22101316UC|
 |Redmi|Redmi Note 12 Pro|ruby|22101316C|
+|Redmi|Redmi Note 12 Pro|sweet|2209116AG|
 |Redmi|Redmi Note 12 Pro + 5G|rubypro|22101316UP|
 |Redmi|Redmi Note 12 Pro 5G|ruby|22101316G|
 |Redmi|Redmi Note 12 Pro 5G|ruby|22101316I|
@@ -28480,6 +28497,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sasktel|SaskTel maxTV Stream|HMB2213PW22WA|HMB2213PW22WA|
 |Sasktel|maxTV Stream|uiw4054sas|maxTV Stream|
 |Satewave|HPAD-IP8045|HPAD-IP8045|HPAD-IP8045|
+|Scanfrost|Nigeria|martin|Scanfrost 2K Android TV|
 |Sceptre|4K Smart TV|gangbyeon|4K Smart TV|
 |Sceptre|Smart TV|kanda|2K Smart TV|
 |Schok|FreedomTurboXL|SFT57216|FreedomTurboXL|
@@ -33078,6 +33096,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TeloSystems|TE590P|TE590P_O|TE590P_O|
 |TeloSystems|TELO_TE610|TELO_TE610|TELO_TE610|
 |TeloSystems|TELO_TE610_O|TELO_TE610_O|TELO_TE610_O|
+|Telpo|C1|C1|C1|
 |Telpo|M1|M1s|M1s|
 |Telpo|M1K|M1K|M1K|
 |Telus|HMB2213PW22TS|HMB2213PW22TS|HMB2213PW22TS|
@@ -33133,6 +33152,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Thomson|EBK_5014G|EBK_5014G|EBK_5014G|
 |Thomson|EBL-5304G|EBL_5304G|EBL-5304G|
 |Thomson|EGO_5014G|EGO_5014G|EGO_5014G|
+|Thomson|Europe|martin|Thomson TV|
 |Thomson|Friendly TH101|Friendly_TH101|Friendly_TH101|
 |Thomson|HERO10RK|HERO10RK_EEA|HERO10RK|
 |Thomson|Hero10RK|HERO10RK|HERO10RK|
@@ -33154,6 +33174,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Thomson|TEO13P|TEO13P|TEO13P|
 |Thomson|TEO7RK|TEO7RK|TEO7RK|
 |Thomson|TEO8-A2BK32|TEO8-A2BK32|TEO8-A2BK32|
+|Thomson|TEO84G|TEO84G332|TEO84G|
 |Thomson|TEOX102|TEOX102|TEOX102|
 |Thomson|TEOX103|TEOX103|TEOX103|
 |Thomson|THOMSON SEREA500|L35_A|THOMSON SEREA500|
@@ -33740,6 +33761,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|G1 Max|G1_Max|MP18|
 |Umidigi|G1 Max EEA|G1_Max|MP18|
 |Umidigi|G1 Max RU|G1_Max|MP18|
+|Umidigi|G2|UMIDIGI_G2|MP21|
 |Umidigi|MT02_EEA|MT02_EEA|AblePad|
 |Umidigi|MT02_ROW|MT02_ROW|AblePad|
 |Umidigi|One|One|One|
@@ -36214,6 +36236,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi Pad 5 Pro|dagu|22081281AC|
 |Xiaomi|Xiaomi Pad 5 Pro|elish|M2105K81AC|
 |Xiaomi|Xiaomi Pad 5 Pro 5G|enuma|M2105K81C|
+|Xiaomi|Xiaomi TV Box S (2nd Gen)|jaws|MiTV-AFKR0|
 |Xiaomi|Xiaomi TV stick 4K|soul|MiTV-AYFR0|
 |Xiaomi|Xiaomi civi2|ziyi|2209129SC|
 |Xiaomi|Xiaomi pad 6|pipa|23043RP34C|
