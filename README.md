@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-04-25
+Last sync is 2023-04-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7258,6 +7258,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FEITIAN|F100_EEA|F100|F100|
 |FELUX|LUXE 3|LUXE_3|LUXE 3|
 |FELUX|X_Pro|X_Pro|X Pro|
+|FEONAL|K104|K104|K104|
 |FEONAL|K118_EEA|K118_EEA|K118_EEA|
 |FEONAL|K711_EEA|K711_EEA|K711_EEA|
 |FFFSMARTLIFE|F3T10A3|F3T10A3|F3T10A3|
@@ -20237,6 +20238,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MozaTab|MTN_E1|MTN_E1|TU10MK1|
 |Mpgio|ATHENA_A10|ATHENA_A10|ATHENA_A10|
 |Mpgio|ATHENA_X|MID|MID|
+|Mpgio|IKP104|IKP104|IKP104|
 |Mpgio|LEGEND_EZ|LEGEND_EZ|LEGEND_EZ|
 |Mpgio|LEGEND_NEW7|LEGEND_NEW7|LEGEND_NEW7|
 |Mpgio|LEGEND_R|LEGEND_R|LEGEND_R|
@@ -21315,6 +21317,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nous|Optimum|NS5008|NS5008|
 |Novinsun|N11|N11|N11|
 |Novinsun|TN618|TN618|TN618|
+|Novinsun|TN618pro|TN618pro|TN618pro|
 |Now E|Now E|hk101|hk101|
 |NowTV|3103A|3103|Now TV Android TV 3103A|
 |Nowtha|3HT2018|3HT2018|3HT2018|
@@ -28466,6 +28469,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sansui|Israel|SAN-8487|SAN-8487|
 |Sansui|Mexio|yeongdeungpo|AiPlus4K|
 |Sansui|Nitro|Nitro|Nitro|
+|Sansui|North American|marina|Apollo Premium4K TV|
 |Sansui|SANSUI SmartTV|sunnyvale|SANSUI SmartTV|
 |Sansui|SANSUITV UHD|SW4H|SANSUITV UHD|
 |Sansui|Sansui Play|Play|Sansui Play|
@@ -28497,6 +28501,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sasktel|SaskTel maxTV Stream|HMB2213PW22WA|HMB2213PW22WA|
 |Sasktel|maxTV Stream|uiw4054sas|maxTV Stream|
 |Satewave|HPAD-IP8045|HPAD-IP8045|HPAD-IP8045|
+|Scanfrost|Nigeria|marina|Scanfrost TV|
 |Scanfrost|Nigeria|martin|Scanfrost 2K Android TV|
 |Sceptre|4K Smart TV|gangbyeon|4K Smart TV|
 |Sceptre|Smart TV|kanda|2K Smart TV|
@@ -32850,6 +32855,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CAMON 20|TECNO-CK6|TECNO CK6|
 |Tecno|TECNO CAMON 20|TECNO-CK6n|TECNO CK6n|
 |Tecno|TECNO CAMON 20 PRO|TECNO-CK6n|TECNO CK6n|
+|Tecno|TECNO CAMON 20 Premier 5G|TECNO-CK9n|TECNO CK9n|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|
 |Tecno|TECNO CAMON iACE 2x|TECNO-KB2j|TECNO KB2j|
 |Tecno|TECNO CX Air|TECNO-CX-Air|TECNO CX Air|
@@ -33762,6 +33768,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|G1 Max EEA|G1_Max|MP18|
 |Umidigi|G1 Max RU|G1_Max|MP18|
 |Umidigi|G2|UMIDIGI_G2|MP21|
+|Umidigi|G3 Plus|G3_Plus|MP25|
 |Umidigi|MT02_EEA|MT02_EEA|AblePad|
 |Umidigi|MT02_ROW|MT02_ROW|AblePad|
 |Umidigi|One|One|One|

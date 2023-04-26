@@ -37694,6 +37694,11 @@
  ],
  "FEONAL": [
   {
+   "device": "K104",
+   "name": "K104",
+   "model": "K104"
+  },
+  {
    "device": "K118_EEA",
    "name": "K118_EEA",
    "model": "K118_EEA"
@@ -104011,6 +104016,11 @@
    "model": "MID"
   },
   {
+   "device": "IKP104",
+   "name": "IKP104",
+   "model": "IKP104"
+  },
+  {
    "device": "LEGEND_EZ",
    "name": "LEGEND_EZ",
    "model": "LEGEND_EZ"
@@ -109593,6 +109603,11 @@
    "device": "TN618",
    "name": "TN618",
    "model": "TN618"
+  },
+  {
+   "device": "TN618pro",
+   "name": "TN618pro",
+   "model": "TN618pro"
   }
  ],
  "Now E": [
@@ -146080,6 +146095,11 @@
    "model": "Nitro"
   },
   {
+   "device": "marina",
+   "name": "North American",
+   "model": "Apollo Premium4K TV"
+  },
+  {
    "device": "sunnyvale",
    "name": "SANSUI SmartTV",
    "model": "SANSUI SmartTV"
@@ -146246,6 +146266,11 @@
   }
  ],
  "Scanfrost": [
+  {
+   "device": "marina",
+   "name": "Nigeria",
+   "model": "Scanfrost TV"
+  },
   {
    "device": "martin",
    "name": "Nigeria",
@@ -168472,6 +168497,11 @@
    "model": "TECNO CK6n"
   },
   {
+   "device": "TECNO-CK9n",
+   "name": "TECNO CAMON 20 Premier 5G",
+   "model": "TECNO CK9n"
+  },
+  {
    "device": "TECNO-KB2",
    "name": "TECNO CAMON iACE 2",
    "model": "TECNO KB2"
@@ -173260,6 +173290,11 @@
    "device": "UMIDIGI_G2",
    "name": "G2",
    "model": "MP21"
+  },
+  {
+   "device": "G3_Plus",
+   "name": "G3 Plus",
+   "model": "MP25"
   },
   {
    "device": "MT02_EEA",

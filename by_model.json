@@ -30979,6 +30979,11 @@
    "brand": "CAIXUN",
    "name": "EXPRESS",
    "device": "marina"
+  },
+  {
+   "brand": "Sansui",
+   "name": "North American",
+   "device": "marina"
   }
  ],
  "Caixun Android TV": [
@@ -54350,6 +54355,13 @@
    "brand": "FELUX",
    "name": "LUXE 3",
    "device": "LUXE_3"
+  }
+ ],
+ "K104": [
+  {
+   "brand": "FEONAL",
+   "name": "K104",
+   "device": "K104"
   }
  ],
  "K118_EEA": [
@@ -140187,6 +140199,13 @@
    "device": "ATHENA_A10"
   }
  ],
+ "IKP104": [
+  {
+   "brand": "Mpgio",
+   "name": "IKP104",
+   "device": "IKP104"
+  }
+ ],
  "LEGEND_EZ": [
   {
    "brand": "Mpgio",
@@ -146986,6 +147005,13 @@
    "brand": "Novinsun",
    "name": "TN618",
    "device": "TN618"
+  }
+ ],
+ "TN618pro": [
+  {
+   "brand": "Novinsun",
+   "name": "TN618pro",
+   "device": "TN618pro"
   }
  ],
  "hk101": [
@@ -194469,6 +194495,13 @@
    "device": "HPAD-IP8045"
   }
  ],
+ "Scanfrost TV": [
+  {
+   "brand": "Scanfrost",
+   "name": "Nigeria",
+   "device": "marina"
+  }
+ ],
  "Scanfrost 2K Android TV": [
   {
    "brand": "Scanfrost",
@@ -222913,6 +222946,13 @@
    "device": "TECNO-CK6n"
   }
  ],
+ "TECNO CK9n": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO CAMON 20 Premier 5G",
+   "device": "TECNO-CK9n"
+  }
+ ],
  "TECNO KB2": [
   {
    "brand": "Tecno",
@@ -228511,6 +228551,13 @@
    "brand": "Umidigi",
    "name": "G2",
    "device": "UMIDIGI_G2"
+  }
+ ],
+ "MP25": [
+  {
+   "brand": "Umidigi",
+   "name": "G3 Plus",
+   "device": "G3_Plus"
   }
  ],
  "AblePad": [

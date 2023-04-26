@@ -61431,6 +61431,13 @@
    "model": "X Pro"
   }
  ],
+ "K104": [
+  {
+   "brand": "FEONAL",
+   "device": "K104",
+   "model": "K104"
+  }
+ ],
  "K118_EEA": [
   {
    "brand": "FEONAL",
@@ -138306,6 +138313,13 @@
    "model": "MID"
   }
  ],
+ "IKP104": [
+  {
+   "brand": "Mpgio",
+   "device": "IKP104",
+   "model": "IKP104"
+  }
+ ],
  "LEGEND_EZ": [
   {
    "brand": "Mpgio",
@@ -144982,6 +144996,13 @@
    "brand": "Novinsun",
    "device": "TN618",
    "model": "TN618"
+  }
+ ],
+ "TN618pro": [
+  {
+   "brand": "Novinsun",
+   "device": "TN618pro",
+   "model": "TN618pro"
   }
  ],
  "Now E": [
@@ -187007,6 +187028,13 @@
    "model": "6045O"
   }
  ],
+ "North American": [
+  {
+   "brand": "Sansui",
+   "device": "marina",
+   "model": "Apollo Premium4K TV"
+  }
+ ],
  "SANSUI SmartTV": [
   {
    "brand": "Sansui",
@@ -187172,6 +187200,11 @@
   }
  ],
  "Nigeria": [
+  {
+   "brand": "Scanfrost",
+   "device": "marina",
+   "model": "Scanfrost TV"
+  },
   {
    "brand": "Scanfrost",
    "device": "martin",
@@ -212500,6 +212533,13 @@
    "model": "TECNO CK6n"
   }
  ],
+ "TECNO CAMON 20 Premier 5G": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-CK9n",
+   "model": "TECNO CK9n"
+  }
+ ],
  "TECNO CAMON iACE 2": [
   {
    "brand": "Tecno",
@@ -217969,6 +218009,13 @@
    "brand": "Umidigi",
    "device": "G1_Max",
    "model": "MP18"
+  }
+ ],
+ "G3 Plus": [
+  {
+   "brand": "Umidigi",
+   "device": "G3_Plus",
+   "model": "MP25"
   }
  ],
  "MT02_EEA": [

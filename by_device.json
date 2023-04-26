@@ -13583,6 +13583,16 @@
    "brand": "CAIXUN",
    "name": "EXPRESS",
    "model": "Apollo Premium4K TV"
+  },
+  {
+   "brand": "Sansui",
+   "name": "North American",
+   "model": "Apollo Premium4K TV"
+  },
+  {
+   "brand": "Scanfrost",
+   "name": "Nigeria",
+   "model": "Scanfrost TV"
   }
  ],
  "Azumi_KIREI_A5Q_PLUS_AC06": [
@@ -57646,6 +57656,13 @@
    "brand": "FELUX",
    "name": "LUXE 3",
    "model": "LUXE 3"
+  }
+ ],
+ "K104": [
+  {
+   "brand": "FEONAL",
+   "name": "K104",
+   "model": "K104"
   }
  ],
  "K118_EEA": [
@@ -137856,6 +137873,13 @@
    "model": "JOY8_LTE"
   }
  ],
+ "IKP104": [
+  {
+   "brand": "Mpgio",
+   "name": "IKP104",
+   "model": "IKP104"
+  }
+ ],
  "LEGEND_EZ": [
   {
    "brand": "Mpgio",
@@ -144720,6 +144744,13 @@
    "brand": "Novinsun",
    "name": "TN618",
    "model": "TN618"
+  }
+ ],
+ "TN618pro": [
+  {
+   "brand": "Novinsun",
+   "name": "TN618pro",
+   "model": "TN618pro"
   }
  ],
  "hk101": [
@@ -214708,6 +214739,13 @@
    "model": "TECNO CK6n"
   }
  ],
+ "TECNO-CK9n": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO CAMON 20 Premier 5G",
+   "model": "TECNO CK9n"
+  }
+ ],
  "TECNO-KB2": [
   {
    "brand": "Tecno",
@@ -220023,6 +220061,13 @@
    "brand": "Umidigi",
    "name": "G2",
    "model": "MP21"
+  }
+ ],
+ "G3_Plus": [
+  {
+   "brand": "Umidigi",
+   "name": "G3 Plus",
+   "model": "MP25"
   }
  ],
  "MT02_EEA": [
