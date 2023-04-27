@@ -77889,6 +77889,13 @@
    "device": "75E-L0N"
   }
  ],
+ "EDA10A": [
+  {
+   "brand": "Honeywell",
+   "name": "EDA10A",
+   "device": "EDA10A"
+  }
+ ],
  "EDA40": [
   {
    "brand": "Honeywell",
@@ -98756,6 +98763,13 @@
    "brand": "Itel",
    "name": "itel P40",
    "device": "itel-P662L"
+  }
+ ],
+ "itel P683L": [
+  {
+   "brand": "Itel",
+   "name": "itel P40+",
+   "device": "itel-P683L"
   }
  ],
  "itel P41": [

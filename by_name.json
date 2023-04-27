@@ -83955,6 +83955,13 @@
    "model": "CT50"
   }
  ],
+ "EDA10A": [
+  {
+   "brand": "Honeywell",
+   "device": "EDA10A",
+   "model": "EDA10A"
+  }
+ ],
  "EDA40": [
   {
    "brand": "Honeywell",
@@ -101140,6 +101147,13 @@
    "brand": "Itel",
    "device": "itel-P662L",
    "model": "itel P662L"
+  }
+ ],
+ "itel P40+": [
+  {
+   "brand": "Itel",
+   "device": "itel-P683L",
+   "model": "itel P683L"
   }
  ],
  "itel P41": [

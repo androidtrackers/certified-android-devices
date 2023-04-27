@@ -55623,6 +55623,11 @@
    "model": "CT50"
   },
   {
+   "device": "EDA10A",
+   "name": "EDA10A",
+   "model": "EDA10A"
+  },
+  {
    "device": "EDA40-0",
    "name": "EDA40",
    "model": "EDA40"
@@ -71439,6 +71444,11 @@
    "device": "itel-P662L",
    "name": "itel P40",
    "model": "itel P662L"
+  },
+  {
+   "device": "itel-P683L",
+   "name": "itel P40+",
+   "model": "itel P683L"
   },
   {
    "device": "itel_P41",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-04-26
+Last sync is 2023-04-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10753,6 +10753,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|Dolphin CT50|CT50L0N-CS13S|CT50|
 |Honeywell|Dolphin CT50|CT50LFN-CS13S|CT50|
 |Honeywell|Dolphin CT50|CT50LUN-CS13S|CT50|
+|Honeywell|EDA10A|EDA10A|EDA10A|
 |Honeywell|EDA40|EDA40-0|EDA40|
 |Honeywell|EDA40|EDA40-1|EDA40|
 |Honeywell|EDA50|eda50-011|EDA50|
@@ -13875,6 +13876,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel P37 Pro(Vision2 Plus)|itel-P681L|itel P681L|
 |Itel|itel P38 Pro(Vision 3 Plus)|itel-P682L|itel P682L|
 |Itel|itel P40|itel-P662L|itel P662L|
+|Itel|itel P40+|itel-P683L|itel P683L|
 |Itel|itel P41|itel_P41|itel P41|
 |Itel|itel Prime 4|itel_Prime4|itel Prime 4|
 |Itel|itel PrimeTab 1|itel-W7002|itel W7002|
