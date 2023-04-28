@@ -9766,11 +9766,25 @@
    "model": "ACTAB1022"
   }
  ],
+ "ACTAB1024": [
+  {
+   "brand": "Acer",
+   "device": "ACTAB1024",
+   "model": "ACTAB1024"
+  }
+ ],
  "ACTAB10KB23": [
   {
    "brand": "Acer",
    "device": "ACTAB10KB23",
    "model": "ACTAB10KB23"
+  }
+ ],
+ "ACTAB10KB24": [
+  {
+   "brand": "Acer",
+   "device": "ACTAB10KB24",
+   "model": "ACTAB10KB24"
   }
  ],
  "ACTAB1123": [
@@ -29865,6 +29879,13 @@
    "brand": "Benten",
    "device": "Benten_T20",
    "model": "Benten_T20"
+  }
+ ],
+ "Benten_T30": [
+  {
+   "brand": "Benten",
+   "device": "Benten_T30",
+   "model": "T30"
   }
  ],
  "T8": [
@@ -71505,6 +71526,13 @@
    "model": "A79"
   }
  ],
+ "Google TV": [
+  {
+   "brand": "HKC Elec",
+   "device": "nagai",
+   "model": "2K SA Google TV"
+  }
+ ],
  "Smart Monitor": [
   {
    "brand": "HKC Elec",
@@ -81120,6 +81148,11 @@
    "brand": "Hisense",
    "device": "HS7731ESP",
    "model": "Hisense U50 lite"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HS7731ESP",
+   "model": "Hisense U60 Lite"
   },
   {
    "brand": "Hisense",
@@ -139101,6 +139134,13 @@
    "model": "M9S-Go"
   }
  ],
+ "M9_WIFI": [
+  {
+   "brand": "Multilaser",
+   "device": "ML_JI0T_M9_WIFI",
+   "model": "M9_WIFI"
+  }
+ ],
  "ML-JI-M7_3G_PLUS": [
   {
    "brand": "Multilaser",
@@ -143338,6 +143378,13 @@
    "brand": "Newland",
    "device": "NLS-N7-GL",
    "model": "NLS-N7"
+  }
+ ],
+ "Q23": [
+  {
+   "brand": "Newline",
+   "device": "rk3588_t",
+   "model": "Q23"
   }
  ],
  "Newsday_N2+": [
@@ -152644,6 +152691,11 @@
   }
  ],
  "PET-882-H232S": [
+  {
+   "brand": "PEAQ",
+   "device": "PET-882-H232S",
+   "model": "Lightyear 2"
+  },
   {
    "brand": "PEAQ",
    "device": "PET-882-H232S",
@@ -197845,6 +197897,11 @@
    "brand": "Storex",
    "device": "MDDDI13310",
    "model": "FONDATION_ORANGE_2021"
+  },
+  {
+   "brand": "Storex",
+   "device": "MDDDI13310",
+   "model": "FONDATION_ORANGE_2023"
   }
  ],
  "MDDDI13311": [
@@ -200891,6 +200948,13 @@
    "model": "T610K"
   }
  ],
+ "TCL 40XL": [
+  {
+   "brand": "TCL",
+   "device": "Sonata_Pro_OM",
+   "model": "T608M"
+  }
+ ],
  "TCL A3X": [
   {
    "brand": "TCL",
@@ -201234,6 +201298,13 @@
    "brand": "TCL",
    "device": "Odin",
    "model": "9080X"
+  }
+ ],
+ "TCL TAB 10s 5G": [
+  {
+   "brand": "TCL",
+   "device": "Odin_5G",
+   "model": "9183G"
   }
  ],
  "TCL TAB 11": [
@@ -225715,6 +225786,13 @@
    "brand": "Vivo",
    "device": "PD2245",
    "model": "V2245A"
+  }
+ ],
+ "vivo S17e": [
+  {
+   "brand": "Vivo",
+   "device": "PD2285",
+   "model": "V2285A"
   }
  ],
  "vivo T2": [

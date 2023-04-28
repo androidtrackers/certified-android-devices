@@ -1959,9 +1959,19 @@
    "model": "ACTAB1022"
   },
   {
+   "device": "ACTAB1024",
+   "name": "ACTAB1024",
+   "model": "ACTAB1024"
+  },
+  {
    "device": "ACTAB10KB23",
    "name": "ACTAB10KB23",
    "model": "ACTAB10KB23"
+  },
+  {
+   "device": "ACTAB10KB24",
+   "name": "ACTAB10KB24",
+   "model": "ACTAB10KB24"
   },
   {
    "device": "ACTAB1123",
@@ -15598,6 +15608,11 @@
    "device": "Benten_T20",
    "name": "Benten_T20",
    "model": "Benten_T20"
+  },
+  {
+   "device": "Benten_T30",
+   "name": "Benten_T30",
+   "model": "T30"
   },
   {
    "device": "Benten_T10",
@@ -45236,6 +45251,11 @@
    "model": "HKC 4K SA Smart TV"
   },
   {
+   "device": "nagai",
+   "name": "Google TV",
+   "model": "2K SA Google TV"
+  },
+  {
    "device": "mateo",
    "name": "Smart Monitor",
    "model": "2K Smart Monitor"
@@ -53392,6 +53412,11 @@
    "device": "HS7731ESP",
    "name": "Hisense U964",
    "model": "Hisense U50 lite"
+  },
+  {
+   "device": "HS7731ESP",
+   "name": "Hisense U964",
+   "model": "Hisense U60 Lite"
   },
   {
    "device": "HS7731ESP",
@@ -104667,6 +104692,11 @@
    "model": "M9S-Go"
   },
   {
+   "device": "ML_JI0T_M9_WIFI",
+   "name": "M9_WIFI",
+   "model": "M9_WIFI"
+  },
+  {
    "device": "ML-JI-M7_3G_PLUS",
    "name": "ML-JI-M7_3G_PLUS",
    "model": "ML-JI-M7_3G_PLUS"
@@ -108157,6 +108187,13 @@
    "device": "NLS-N7-GL",
    "name": "Newland NLS-N7",
    "model": "NLS-N7"
+  }
+ ],
+ "Newline": [
+  {
+   "device": "rk3588_t",
+   "name": "Q23",
+   "model": "Q23"
   }
  ],
  "Newsday": [
@@ -116208,6 +116245,11 @@
    "device": "PET-1081-LH332S",
    "name": "PET-1081-LH332S",
    "model": "PET 1081-LH332S"
+  },
+  {
+   "device": "PET-882-H232S",
+   "name": "PET-882-H232S",
+   "model": "Lightyear 2"
   },
   {
    "device": "PET-882-H232S",
@@ -155275,6 +155317,11 @@
    "model": "FONDATION_ORANGE_2021"
   },
   {
+   "device": "MDDDI13310",
+   "name": "MDDDI13310",
+   "model": "FONDATION_ORANGE_2023"
+  },
+  {
    "device": "MDDDI13311",
    "name": "MDDDI13311",
    "model": "FONDATION_ORANGEH_2021"
@@ -157914,6 +157961,11 @@
    "model": "T610K"
   },
   {
+   "device": "Sonata_Pro_OM",
+   "name": "TCL 40XL",
+   "model": "T608M"
+  },
+  {
    "device": "Delhi_TF",
    "name": "TCL A3X",
    "model": "A600DL"
@@ -158197,6 +158249,11 @@
    "device": "Odin",
    "name": "TCL TAB 10s 4G",
    "model": "9080X"
+  },
+  {
+   "device": "Odin_5G",
+   "name": "TCL TAB 10s 5G",
+   "model": "9183G"
   },
   {
    "device": "Eternals11",
@@ -179684,6 +179741,11 @@
    "device": "PD2245",
    "name": "vivo S16 Pro",
    "model": "V2245A"
+  },
+  {
+   "device": "PD2285",
+   "name": "vivo S17e",
+   "model": "V2285A"
   },
   {
    "device": "PD2199",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-04-27
+Last sync is 2023-04-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -361,7 +361,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|A3-A40|acer_jetfirefhd|A3-A40|
 |Acer|ACTAB1021_A|ACTAB1021_A|ACTAB1021_A|
 |Acer|ACTAB1022|ACTAB1022|ACTAB1022|
+|Acer|ACTAB1024|ACTAB1024|ACTAB1024|
 |Acer|ACTAB10KB23|ACTAB10KB23|ACTAB10KB23|
+|Acer|ACTAB10KB24|ACTAB10KB24|ACTAB10KB24|
 |Acer|ACTAB1123|ACTAB1123|ACTAB1123|
 |Acer|ACTAB1422|ACTAB1422|ACTAB1422|
 |Acer|ACTAB721|ACTAB721|ACTAB721|
@@ -3020,6 +3022,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Beneve|M7152D1_EEA|M7152D1_EEA|M7152D1_EEA|
 |Beneve|M755|M755|M755|
 |Benten|Benten_T20|Benten_T20|Benten_T20|
+|Benten|Benten_T30|Benten_T30|T30|
 |Benten|T10|Benten_T10|T10|
 |Benten|T30|T30|T30|
 |Benten|T8|T8|T8|
@@ -8700,6 +8703,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HKC Elec|4K Smart TV|pioneer|4K PA Smart TV|
 |HKC Elec|4K Smart TV|pioneer|4K SA Smart TV|
 |HKC Elec|4K Smart TV|pioneer|HKC 4K SA Smart TV|
+|HKC Elec|Google TV|nagai|2K SA Google TV|
 |HKC Elec|Smart Monitor|mateo|2K Smart Monitor|
 |HKC Elec|Smart TV|mateo|2K PA Smart TV|
 |HKC Elec|Smart TV|mateo|2K US Smart TV|
@@ -10312,6 +10316,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U964|HS7731ESP|Hisense U40 Lite|
 |Hisense|Hisense U964|HS7731ESP|Hisense U50 Lite|
 |Hisense|Hisense U964|HS7731ESP|Hisense U50 lite|
+|Hisense|Hisense U964|HS7731ESP|Hisense U60 Lite|
 |Hisense|Hisense U964|HS7731ESP|Hisense U964|
 |Hisense|Hisense U965|HS6580MT|Hisense Hi 1 PRO|
 |Hisense|Hisense U965|HS6580MT|Hisense U965|
@@ -20367,6 +20372,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Multilaser|M9-3G|ML-WI-M9-3G|ML-WI-M9-3G|
 |Multilaser|M9-3G-2|M9-3G_2|M9-3G_2|
 |Multilaser|M9S-Go|ML-JI09-M9S-GO|M9S-Go|
+|Multilaser|M9_WIFI|ML_JI0T_M9_WIFI|M9_WIFI|
 |Multilaser|ML-JI-M7_3G_PLUS|ML-JI-M7_3G_PLUS|ML-JI-M7_3G_PLUS|
 |Multilaser|ML-JI11-M7_3G_PLUS|ML-JI11-M7_3G_PLUS|ML-JI11-M7_3G_PLUS|
 |Multilaser|ML-SO-M7_3G_PLUS|ML-SO-M7_3G_PLUS|ML-SO-M7_3G_PLUS|
@@ -21039,6 +21045,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Newland|NLS-NFT10|NLS-NFT10-RU|NLS-NFT10|
 |Newland|Newland NLS-MT90|NLS-MT90-GL|NLS-MT90|
 |Newland|Newland NLS-N7|NLS-N7-GL|NLS-N7|
+|Newline|Q23|rk3588_t|Q23|
 |Newsday|A1|Newsday_A1|Newsday_A1|
 |Newsday|A2|Newsday_A2|Newsday_A2|
 |Newsday|E1|Newsday_E1|Newsday_E1|
@@ -22602,6 +22609,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEAQ|PET-102-H232S|PET-102-H232S|PET-102-H232S|
 |PEAQ|PET-1081-H232S|PET-1081-H232S|PET 1081-H232S|
 |PEAQ|PET-1081-LH332S|PET-1081-LH332S|PET 1081-LH332S|
+|PEAQ|PET-882-H232S|PET-882-H232S|Lightyear 2|
 |PEAQ|PET-882-H232S|PET-882-H232S|PET-882-H232S|
 |PERSONA|MyTab_A8|MyTab_A8|MyTab_A8|
 |PHILCO (ar)|P510|P510|P510|
@@ -30263,6 +30271,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Steren|Steren INTV_1000|INTV_1000|Steren INTV_1000|
 |Stofa|IC1130|IC1130|IC1130|
 |Storex|MDDDI13310|MDDDI13310|FONDATION_ORANGE_2021|
+|Storex|MDDDI13310|MDDDI13310|FONDATION_ORANGE_2023|
 |Storex|MDDDI13311|MDDDI13311|FONDATION_ORANGEH_2021|
 |Storex|eZee'Tab7Q11-M|Tab7Q11|Tab7Q11|
 |Storex|eZeeTab10D12-S|eZeeTab10D12-S|eZeeTab10D12-S|
@@ -30772,6 +30781,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 40 R 5G|Levin|T771H|
 |TCL|TCL 40 SE|Model_3|T610E|
 |TCL|TCL 40 SE|Model_3|T610K|
+|TCL|TCL 40XL|Sonata_Pro_OM|T608M|
 |TCL|TCL A3X|Delhi_TF|A600DL|
 |TCL|TCL C5|A3A|5152D|
 |TCL|TCL C5|Gauss|5153A|
@@ -30829,6 +30839,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 10s|Odin|9081X|
 |TCL|TCL TAB 10s 4G|Odin|9080G|
 |TCL|TCL TAB 10s 4G|Odin|9080X|
+|TCL|TCL TAB 10s 5G|Odin_5G|9183G|
 |TCL|TCL TAB 11|Eternals11|9466X|
 |TCL|TCL TAB 11 LTE|Eternals11|9166G|
 |TCL|TCL TAB 7 Lite|U3A_7_WIFI_Refresh|9309X|
@@ -35008,6 +35019,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo S15 Pro|PD2207|V2207A|
 |Vivo|vivo S16|PD2244|V2244A|
 |Vivo|vivo S16 Pro|PD2245|V2245A|
+|Vivo|vivo S17e|PD2285|V2285A|
 |Vivo|vivo T2|PD2199|V2199GA|
 |Vivo|vivo X Flip|PD2256|V2256A|
 |Vivo|vivo X Fold|PD2178|V2178A|
