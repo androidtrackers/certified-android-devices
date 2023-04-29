@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-04-28
+Last sync is 2023-04-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1091,7 +1091,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Alldocube|kPad|T1026|kPad|
 |Allducube|T1001|T1001|T1001|
 |Allente|Allente 1|OnePlace2|Allente 1|
-|Allente|Sweden Norway|SEI700ALLG|Allente Streaming Hub|
+|Allente|Allente Streaming Hub|SEI700ALLG|Allente Streaming Hub|
 |Allfine|M721|86S|M721|
 |Allfine|PC1038Q|fine10_Joy|PC1038Q|
 |Alliance|DTP9731|DTP9731|DTP9731|
