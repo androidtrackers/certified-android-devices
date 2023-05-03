@@ -16397,6 +16397,11 @@
    "model": "globe"
   },
   {
+   "brand": "Smart-Tech TV",
+   "device": "nagata",
+   "model": "Apollo Premium2K TV"
+  },
+  {
    "brand": "Tesla",
    "device": "guandu",
    "model": "Tesla Android TV"
@@ -28449,6 +28454,11 @@
    "brand": "Grunkel",
    "device": "yeongdeungpo",
    "model": "GRUNKEL UHD Android TV"
+  },
+  {
+   "brand": "Invens",
+   "device": "nagata",
+   "model": "INVES SMART TV"
   },
   {
    "brand": "Inves",
@@ -144296,6 +144306,18 @@
    "brand": "Nokia",
    "device": "IRS",
    "model": "Nokia C01 Plus"
+  }
+ ],
+ "Nokia C02": [
+  {
+   "brand": "Nokia",
+   "device": "CYR",
+   "model": "Cypher"
+  },
+  {
+   "brand": "Nokia",
+   "device": "CYR",
+   "model": "Nokia C02"
   }
  ],
  "Nokia C1": [

@@ -96139,6 +96139,13 @@
    "device": "MAX_2"
   }
  ],
+ "INVES SMART TV": [
+  {
+   "brand": "Invens",
+   "name": "Spain",
+   "device": "nagata"
+  }
+ ],
  "UNO": [
   {
    "brand": "Invens",
@@ -146274,6 +146281,20 @@
    "brand": "Nokia",
    "name": "Nokia C01 Plus",
    "device": "IRS"
+  }
+ ],
+ "Cypher": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C02",
+   "device": "CYR"
+  }
+ ],
+ "Nokia C02": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C02",
+   "device": "CYR"
   }
  ],
  "Nokia C1": [
@@ -200379,6 +200400,13 @@
    "brand": "Walton",
    "name": "EXPRESS",
    "device": "guandu"
+  }
+ ],
+ "Apollo Premium2K TV": [
+  {
+   "brand": "Smart-Tech TV",
+   "name": "Europe",
+   "device": "nagata"
   }
  ],
  "SML-5442TW": [

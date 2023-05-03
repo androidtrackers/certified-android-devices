@@ -95893,6 +95893,18 @@
    "model": "S1"
   }
  ],
+ "nagata": [
+  {
+   "brand": "Invens",
+   "name": "Spain",
+   "model": "INVES SMART TV"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "name": "Europe",
+   "model": "Apollo Premium2K TV"
+  }
+ ],
  "UNO": [
   {
    "brand": "Invens",
@@ -143997,6 +144009,18 @@
    "brand": "Nokia",
    "name": "Nokia C01 Plus",
    "model": "Nokia C01 Plus"
+  }
+ ],
+ "CYR": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia C02",
+   "model": "Cypher"
+  },
+  {
+   "brand": "Nokia",
+   "name": "Nokia C02",
+   "model": "Nokia C02"
   }
  ],
  "RKU": [

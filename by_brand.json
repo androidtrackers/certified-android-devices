@@ -69513,6 +69513,11 @@
    "model": "S1"
   },
   {
+   "device": "nagata",
+   "name": "Spain",
+   "model": "INVES SMART TV"
+  },
+  {
    "device": "UNO",
    "name": "UNO",
    "model": "UNO"
@@ -109011,6 +109016,16 @@
    "device": "IRS",
    "name": "Nokia C01 Plus",
    "model": "Nokia C01 Plus"
+  },
+  {
+   "device": "CYR",
+   "name": "Nokia C02",
+   "model": "Cypher"
+  },
+  {
+   "device": "CYR",
+   "name": "Nokia C02",
+   "model": "Nokia C02"
   },
   {
    "device": "RKU",
@@ -150934,6 +150949,11 @@
    "device": "martin",
    "name": "EU、UK、AP",
    "model": "WALTON Android TV"
+  },
+  {
+   "device": "nagata",
+   "name": "Europe",
+   "model": "Apollo Premium2K TV"
   },
   {
    "device": "tamachi",

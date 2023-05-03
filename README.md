@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-05-02
+Last sync is 2023-05-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13493,6 +13493,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Invens|MAX_1|MAX_1|MAX_1|
 |Invens|MAX_2|MAX_2|MAX_2|
 |Invens|S1|S1|S1|
+|Invens|Spain|nagata|INVES SMART TV|
 |Invens|UNO|UNO|UNO|
 |Invens|WE1|WE1|WE1|
 |Inverse Net|EP172BZ|EP172BZ|EP172BZ|
@@ -21201,6 +21202,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia 9|AOP|Nokia 9|
 |Nokia|Nokia 9|AOP_sprout|Nokia 9|
 |Nokia|Nokia C01 Plus|IRS|Nokia C01 Plus|
+|Nokia|Nokia C02|CYR|Cypher|
+|Nokia|Nokia C02|CYR|Nokia C02|
 |Nokia|Nokia C1|RKU|Nokia C1|
 |Nokia|Nokia C1 2nd Edition|IRU|Nokia C1 2nd Edition|
 |Nokia|Nokia C1 Plus|YDU|Nokia C1 Plus|
@@ -29414,6 +29417,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smart-Tech TV|Aiplus4K|guandu|Aiplus4K|
 |Smart-Tech TV|EU、UK、AP|martin|AiPlus2K|
 |Smart-Tech TV|EU、UK、AP|martin|WALTON Android TV|
+|Smart-Tech TV|Europe|nagata|Apollo Premium2K TV|
 |Smart-Tech TV|France|tamachi|AiPlus2K|
 |Smart-Tech TV|Germany|yeongdeungpo|AiPlus4K|
 |Smart-Tech TV|SMART TECHNOLOGY|stanford|2K SMART TV|
