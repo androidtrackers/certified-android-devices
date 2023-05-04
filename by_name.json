@@ -30162,6 +30162,11 @@
    "model": "S1"
   },
   {
+   "brand": "INNOCN",
+   "device": "YUL",
+   "model": "S1"
+  },
+  {
    "brand": "Invens",
    "device": "S1",
    "model": "S1"
@@ -34107,6 +34112,13 @@
    "model": "G71 PLUS"
   }
  ],
+ "G73": [
+  {
+   "brand": "Blu",
+   "device": "G0771",
+   "model": "G73"
+  }
+ ],
  "G8": [
   {
    "brand": "Blu",
@@ -35954,6 +35966,13 @@
    "brand": "Bluebird",
    "device": "EF550R",
    "model": "EF550R"
+  }
+ ],
+ "EF551": [
+  {
+   "brand": "Bluebird",
+   "device": "EF551",
+   "model": "EF551"
   }
  ],
  "EK430": [
@@ -115870,6 +115889,13 @@
    "model": "Lt6248"
   }
  ],
+ "LANGO OPS8195": [
+  {
+   "brand": "Lango Tech",
+   "device": "OPS-8195A",
+   "model": "OPS-8195A-3-V0"
+  }
+ ],
  "Alpha 1R": [
   {
    "brand": "Lanix",
@@ -123306,6 +123332,13 @@
    "brand": "LinkNet",
    "device": "DCN88_72604_LN",
    "model": "DCN88_72604_LN"
+  }
+ ],
+ "X1-Prime-R2": [
+  {
+   "brand": "LinkNet",
+   "device": "DTC2160",
+   "model": "X1-Prime-R2"
   }
  ],
  "X1-Prime-c": [
@@ -137278,6 +137311,18 @@
    "model": "moto g(10) power"
   }
  ],
+ "moto g13": [
+  {
+   "brand": "Motorola",
+   "device": "penangf",
+   "model": "moto g13"
+  },
+  {
+   "brand": "Motorola",
+   "device": "penangf",
+   "model": "penangf"
+  }
+ ],
  "moto g200 5G": [
   {
    "brand": "Motorola",
@@ -137300,6 +137345,13 @@
    "brand": "Motorola",
    "device": "hawaiip",
    "model": "moto g22"
+  }
+ ],
+ "moto g23": [
+  {
+   "brand": "Motorola",
+   "device": "penangf",
+   "model": "moto g23"
   }
  ],
  "moto g31": [
@@ -137693,6 +137745,18 @@
    "brand": "Motorola",
    "device": "eqs",
    "model": "motorola edge 30 ultra"
+  }
+ ],
+ "motorola edge 40 pro": [
+  {
+   "brand": "Motorola",
+   "device": "rtwo",
+   "model": "motorola edge 30 pro"
+  },
+  {
+   "brand": "Motorola",
+   "device": "rtwo",
+   "model": "motorola edge 40 pro"
   }
  ],
  "motorola edge 5G UW (2021)": [
@@ -157586,6 +157650,13 @@
    "brand": "Point of view",
    "device": "TAB_TS101S_LTE",
    "model": "TAB_TS101S_LTE"
+  }
+ ],
+ "PM86": [
+  {
+   "brand": "PointMobile",
+   "device": "PM86",
+   "model": "PM86"
   }
  ],
  "M600": [
@@ -200970,6 +201041,13 @@
    "model": "T610K"
   }
  ],
+ "TCL 40 XE 5G": [
+  {
+   "brand": "TCL",
+   "device": "Encore_CAN",
+   "model": "T609J"
+  }
+ ],
  "TCL 40XL": [
   {
    "brand": "TCL",
@@ -201013,6 +201091,13 @@
    "brand": "TCL",
    "device": "Venice",
    "model": "5148I"
+  }
+ ],
+ "TCL ION V": [
+  {
+   "brand": "TCL",
+   "device": "Bora_NA_OM",
+   "model": "T430M"
   }
  ],
  "TCL ION X": [
@@ -212132,6 +212217,13 @@
    "brand": "Tecno",
    "device": "TECNO-LG7n",
    "model": "TECNO LG7n"
+  }
+ ],
+ "POVA 5": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-LH7n",
+   "model": "TECNO LH7n"
   }
  ],
  "POVA Neo": [
@@ -224903,6 +224995,13 @@
    "model": "V2205"
   }
  ],
+ "Y35+": [
+  {
+   "brand": "Vivo",
+   "device": "PD2279",
+   "model": "V2279A"
+  }
+ ],
  "Y35A": [
   {
    "brand": "Vivo",
@@ -224915,6 +225014,13 @@
    "brand": "Vivo",
    "device": "PD2230",
    "model": "V2230A"
+  }
+ ],
+ "Y35m+": [
+  {
+   "brand": "Vivo",
+   "device": "PD2279",
+   "model": "V2279A"
   }
  ],
  "Y51": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-05-03
+Last sync is 2023-05-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3566,6 +3566,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G71|G0570WW|G71 PLUS|
 |Blu|G71L|G0710WW|G71L|
 |Blu|G71_PLUS_TIGO|G0560WW|G71 PLUS|
+|Blu|G73|G0771|G73|
 |Blu|G8|G0160LL|G8|
 |Blu|G8|G0170|G8|
 |Blu|G9|G0130WW|G9|
@@ -3794,6 +3795,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Bluebird|EF501R|EF501|EF501R_RU|
 |Bluebird|EF550|EF550|EF550|
 |Bluebird|EF550R|EF550R|EF550R|
+|Bluebird|EF551|EF551|EF551|
 |Bluebird|EK430|EK430|EK430|
 |Bluebird|HF450|HF450|HF450|
 |Bluebird|HF550|HF550|HF550|
@@ -12780,6 +12782,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |INFINITON|"SPAIN|MOROCCO|PORTUGAL"|
 |INFINITON|"SPAIN|MOROCCO|PORTUGAL"|
 |INNOCN|32S1U Pro|32S1U_Pro|32S1U_Pro|
+|INNOCN|S1|YUL|S1|
 |INOI|A126|A126|A126|
 |INOI|A150|A150|A150|
 |INOI|A160|A160|A160|
@@ -16460,6 +16463,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Land Rover|Land Rover Explore R|LRExploreR|Land Rover Explore R|
 |Landbyte|LT5030|LT5030|LT5030|
 |Landbyte|Lt6248|Lt6248|Lt6248|
+|Lango Tech|LANGO OPS8195|OPS-8195A|OPS-8195A-3-V0|
 |Lanix|Alpha 1R|Alpha_1R|Alpha 1R|
 |Lanix|Alpha 1V|Alpha_1V|Alpha 1V|
 |Lanix|Alpha 3R|ALPHA_3R|Alpha 3R|
@@ -17743,6 +17747,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LinkNet|ST950I-LN|ST950I-LN|ST950I-LN|
 |LinkNet|Smart Box HD|SH940C-LN|SH940C-LN|
 |LinkNet|X1 Prime|DCN88_72604_LN|DCN88_72604_LN|
+|LinkNet|X1-Prime-R2|DTC2160|X1-Prime-R2|
 |LinkNet|X1-Prime-c|DTC2140|X1-Prime-c|
 |LinkNet|X1-Prime-c|DTC9565|X1-Prime-c|
 |LinkNet|X1-Prime-i|DTP2162|X1-Prime-i|
@@ -20068,10 +20073,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g(9) plus|odessa|moto g(9) plus|
 |Motorola|moto g(9) power|cebu|moto g(9) power|
 |Motorola|moto g10 power|capri|moto g(10) power|
+|Motorola|moto g13|penangf|moto g13|
+|Motorola|moto g13|penangf|penangf|
 |Motorola|moto g200 5G|xpeng|moto g200 5G|
 |Motorola|moto g200 5G|xpeng|motorola edge 20 pro|
 |Motorola|moto g22|hawaiip|Lenovo K15 Plus|
 |Motorola|moto g22|hawaiip|moto g22|
+|Motorola|moto g23|penangf|moto g23|
 |Motorola|moto g31|cofud|moto g31(w)|
 |Motorola|moto g31|cofud|motorola|
 |Motorola|moto g31|coful|moto g31|
@@ -20137,6 +20145,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge 30 pro|hiphi|motorola edge plus|
 |Motorola|motorola edge 30 ultra|eqs|motorola edge|
 |Motorola|motorola edge 30 ultra|eqs|motorola edge 30 ultra|
+|Motorola|motorola edge 40 pro|rtwo|motorola edge 30 pro|
+|Motorola|motorola edge 40 pro|rtwo|motorola edge 40 pro|
 |Motorola|motorola edge 5G UW (2021)|berlna|motorola edge 5G UW|
 |Motorola|motorola edge 5G UW (2021)|berlna|motorola edge 5G UW (2021)|
 |Motorola|motorola edge S30|xpeng|XT2175-2|
@@ -23388,6 +23398,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Point of view|TAB_7232_3G_A|TAB_7232_3G_A|TAB_7232_3G_A|
 |Point of view|TAB_ASR_7232_3G_SERIES|TABLET_PC|TAB_ASR_7232_3G_SERIES|
 |Point of view|TAB_TS101S_LTE|TAB_TS101S_LTE|TAB_TS101S_LTE|
+|PointMobile|PM86|PM86|PM86|
 |Pokini|K6|K6|K6|
 |Polar|M600|pike|Polar M600|
 |Polaris|Condroid_X7|polaris-Condroid_X7|Condroid_X7|
@@ -30785,6 +30796,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 40 R 5G|Levin|T771H|
 |TCL|TCL 40 SE|Model_3|T610E|
 |TCL|TCL 40 SE|Model_3|T610K|
+|TCL|TCL 40 XE 5G|Encore_CAN|T609J|
 |TCL|TCL 40XL|Sonata_Pro_OM|T608M|
 |TCL|TCL A3X|Delhi_TF|A600DL|
 |TCL|TCL C5|A3A|5152D|
@@ -30792,6 +30804,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL C5|Gauss|5153K|
 |TCL|TCL C7|A3A_PLUS|5158A|
 |TCL|TCL C9 Plus|Venice|5148I|
+|TCL|TCL ION V|Bora_NA_OM|T430M|
 |TCL|TCL ION X|Bora_TMO|T430W|
 |TCL|TCL L10|Faraday|5124J|
 |TCL|TCL L10 Lite|Jakarta_Lite|4187M|
@@ -32789,6 +32802,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|POVA|TECNO-LD7|TECNO LD7|
 |Tecno|POVA|TECNO-LD7j|TECNO LD7j|
 |Tecno|POVA 4|TECNO-LG7n|TECNO LG7n|
+|Tecno|POVA 5|TECNO-LH7n|TECNO LH7n|
 |Tecno|POVA Neo|TECNO-LE6|TECNO LE6|
 |Tecno|POVA Neo 2|TECNO-LG6n|TECNO LG6n|
 |Tecno|Phantom 9|TECNO-AB7|TECNO AB7|
@@ -34888,8 +34902,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y35|PD1502L|vivo Y35|
 |Vivo|Y35|PD2230|V2230A|
 |Vivo|Y35|V2205|V2205|
+|Vivo|Y35+|PD2279|V2279A|
 |Vivo|Y35A|PD1502A|vivo Y35A|
 |Vivo|Y35m|PD2230|V2230A|
+|Vivo|Y35m+|PD2279|V2279A|
 |Vivo|Y51|Y51|vivo Y51|
 |Vivo|Y51A|PD1510|vivo Y51A|
 |Vivo|Y53|1606|vivo 1606|

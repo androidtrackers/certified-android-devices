@@ -24358,6 +24358,11 @@
    "device": "HS8937QC"
   },
   {
+   "brand": "INNOCN",
+   "name": "S1",
+   "device": "YUL"
+  },
+  {
    "brand": "Invens",
    "name": "S1",
    "device": "S1"
@@ -28042,6 +28047,13 @@
    "device": "G0710WW"
   }
  ],
+ "G73": [
+  {
+   "brand": "Blu",
+   "name": "G73",
+   "device": "G0771"
+  }
+ ],
  "G8": [
   {
    "brand": "Blu",
@@ -29757,6 +29769,13 @@
    "brand": "Bluebird",
    "name": "EF550R",
    "device": "EF550R"
+  }
+ ],
+ "EF551": [
+  {
+   "brand": "Bluebird",
+   "name": "EF551",
+   "device": "EF551"
   }
  ],
  "EK430": [
@@ -115561,6 +115580,13 @@
    "device": "Lt6248"
   }
  ],
+ "OPS-8195A-3-V0": [
+  {
+   "brand": "Lango Tech",
+   "name": "LANGO OPS8195",
+   "device": "OPS-8195A"
+  }
+ ],
  "Alpha 1R": [
   {
    "brand": "Lanix",
@@ -124106,6 +124132,13 @@
    "brand": "LinkNet",
    "name": "X1 Prime",
    "device": "DCN88_72604_LN"
+  }
+ ],
+ "X1-Prime-R2": [
+  {
+   "brand": "LinkNet",
+   "name": "X1-Prime-R2",
+   "device": "DTC2160"
   }
  ],
  "X1-Prime-c": [
@@ -138338,6 +138371,11 @@
   },
   {
    "brand": "Motorola",
+   "name": "motorola edge 40 pro",
+   "device": "rtwo"
+  },
+  {
+   "brand": "Motorola",
    "name": "motorola razr 2022",
    "device": "oneli"
   }
@@ -139267,6 +139305,20 @@
    "device": "capri"
   }
  ],
+ "moto g13": [
+  {
+   "brand": "Motorola",
+   "name": "moto g13",
+   "device": "penangf"
+  }
+ ],
+ "penangf": [
+  {
+   "brand": "Motorola",
+   "name": "moto g13",
+   "device": "penangf"
+  }
+ ],
  "moto g200 5G": [
   {
    "brand": "Motorola",
@@ -139308,6 +139360,13 @@
    "brand": "Motorola",
    "name": "moto g22",
    "device": "hawaiip"
+  }
+ ],
+ "moto g23": [
+  {
+   "brand": "Motorola",
+   "name": "moto g23",
+   "device": "penangf"
   }
  ],
  "moto g31(w)": [
@@ -139593,6 +139652,13 @@
    "brand": "Motorola",
    "name": "motorola edge 30 ultra",
    "device": "eqs"
+  }
+ ],
+ "motorola edge 40 pro": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 40 pro",
+   "device": "rtwo"
   }
  ],
  "motorola edge 5G UW": [
@@ -160237,6 +160303,13 @@
    "brand": "Point of view",
    "name": "TAB_TS101S_LTE",
    "device": "TAB_TS101S_LTE"
+  }
+ ],
+ "PM86": [
+  {
+   "brand": "PointMobile",
+   "name": "PM86",
+   "device": "PM86"
   }
  ],
  "Polar M600": [
@@ -209070,6 +209143,13 @@
    "device": "Model_3"
   }
  ],
+ "T609J": [
+  {
+   "brand": "TCL",
+   "name": "TCL 40 XE 5G",
+   "device": "Encore_CAN"
+  }
+ ],
  "T608M": [
   {
    "brand": "TCL",
@@ -209117,6 +209197,13 @@
    "brand": "TCL",
    "name": "TCL C9 Plus",
    "device": "Venice"
+  }
+ ],
+ "T430M": [
+  {
+   "brand": "TCL",
+   "name": "TCL ION V",
+   "device": "Bora_NA_OM"
   }
  ],
  "T430W": [
@@ -222490,6 +222577,13 @@
    "device": "TECNO-LG7n"
   }
  ],
+ "TECNO LH7n": [
+  {
+   "brand": "Tecno",
+   "name": "POVA 5",
+   "device": "TECNO-LH7n"
+  }
+ ],
  "TECNO LE6": [
   {
    "brand": "Tecno",
@@ -235720,6 +235814,18 @@
    "brand": "Vivo",
    "name": "Y35",
    "device": "V2205"
+  }
+ ],
+ "V2279A": [
+  {
+   "brand": "Vivo",
+   "name": "Y35+",
+   "device": "PD2279"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y35m+",
+   "device": "PD2279"
   }
  ],
  "vivo Y35A": [

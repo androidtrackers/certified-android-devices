@@ -27316,6 +27316,11 @@
    "model": "D1221"
   },
   {
+   "brand": "INNOCN",
+   "name": "S1",
+   "model": "S1"
+  },
+  {
    "brand": "imiia",
    "name": "i-217D1",
    "model": "i-217D1"
@@ -31295,6 +31300,13 @@
    "model": "G71 PLUS"
   }
  ],
+ "G0771": [
+  {
+   "brand": "Blu",
+   "name": "G73",
+   "model": "G73"
+  }
+ ],
  "G0160LL": [
   {
    "brand": "Blu",
@@ -32936,6 +32948,13 @@
    "brand": "Bluebird",
    "name": "EF550R",
    "model": "EF550R"
+  }
+ ],
+ "EF551": [
+  {
+   "brand": "Bluebird",
+   "name": "EF551",
+   "model": "EF551"
   }
  ],
  "EK430": [
@@ -113665,6 +113684,13 @@
    "model": "Lt6248"
   }
  ],
+ "OPS-8195A": [
+  {
+   "brand": "Lango Tech",
+   "name": "LANGO OPS8195",
+   "model": "OPS-8195A-3-V0"
+  }
+ ],
  "Alpha_1R": [
   {
    "brand": "Lanix",
@@ -122148,6 +122174,13 @@
    "brand": "LinkNet",
    "name": "X1 Prime",
    "model": "DCN88_72604_LN"
+  }
+ ],
+ "DTC2160": [
+  {
+   "brand": "LinkNet",
+   "name": "X1-Prime-R2",
+   "model": "X1-Prime-R2"
   }
  ],
  "DTC2140": [
@@ -136280,6 +136313,16 @@
    "brand": "Motorola",
    "name": "moto X40",
    "model": "XT2301-5"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 40 pro",
+   "model": "motorola edge 30 pro"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 40 pro",
+   "model": "motorola edge 40 pro"
   }
  ],
  "ginna": [
@@ -136968,6 +137011,23 @@
    "brand": "Motorola",
    "name": "moto g(9) plus",
    "model": "moto g(9) plus"
+  }
+ ],
+ "penangf": [
+  {
+   "brand": "Motorola",
+   "name": "moto g13",
+   "model": "moto g13"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g13",
+   "model": "penangf"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g23",
+   "model": "moto g23"
   }
  ],
  "xpeng": [
@@ -157682,6 +157742,13 @@
    "brand": "Point of view",
    "name": "TAB_TS101S_LTE",
    "model": "TAB_TS101S_LTE"
+  }
+ ],
+ "PM86": [
+  {
+   "brand": "PointMobile",
+   "name": "PM86",
+   "model": "PM86"
   }
  ],
  "pike": [
@@ -203599,6 +203666,13 @@
    "model": "6127A"
   }
  ],
+ "Encore_CAN": [
+  {
+   "brand": "TCL",
+   "name": "TCL 40 XE 5G",
+   "model": "T609J"
+  }
+ ],
  "Sonata_Pro_OM": [
   {
    "brand": "TCL",
@@ -203804,6 +203878,13 @@
    "brand": "TCT (Alcatel)",
    "name": "Alcatel 3X",
    "model": "5048Y_TR"
+  }
+ ],
+ "Bora_NA_OM": [
+  {
+   "brand": "TCL",
+   "name": "TCL ION V",
+   "model": "T430M"
   }
  ],
  "Bora_TMO": [
@@ -214297,6 +214378,13 @@
    "brand": "Tecno",
    "name": "TECNO POVA 4",
    "model": "TECNO LG7n"
+  }
+ ],
+ "TECNO-LH7n": [
+  {
+   "brand": "Tecno",
+   "name": "POVA 5",
+   "model": "TECNO LH7n"
   }
  ],
  "TECNO-LE6": [
@@ -226910,6 +226998,18 @@
    "brand": "Vivo",
    "name": "Y35",
    "model": "V2205"
+  }
+ ],
+ "PD2279": [
+  {
+   "brand": "Vivo",
+   "name": "Y35+",
+   "model": "V2279A"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y35m+",
+   "model": "V2279A"
   }
  ],
  "PD1502A": [

@@ -18386,6 +18386,11 @@
    "model": "G71 PLUS"
   },
   {
+   "device": "G0771",
+   "name": "G73",
+   "model": "G73"
+  },
+  {
    "device": "G0160LL",
    "name": "G8",
    "model": "G8"
@@ -19530,6 +19535,11 @@
    "device": "EF550R",
    "name": "EF550R",
    "model": "EF550R"
+  },
+  {
+   "device": "EF551",
+   "name": "EF551",
+   "model": "EF551"
   },
   {
    "device": "EK430",
@@ -65832,6 +65842,11 @@
    "device": "32S1U_Pro",
    "name": "32S1U Pro",
    "model": "32S1U_Pro"
+  },
+  {
+   "device": "YUL",
+   "name": "S1",
+   "model": "S1"
   }
  ],
  "INOI": [
@@ -84692,6 +84707,13 @@
    "model": "Lt6248"
   }
  ],
+ "Lango Tech": [
+  {
+   "device": "OPS-8195A",
+   "name": "LANGO OPS8195",
+   "model": "OPS-8195A-3-V0"
+  }
+ ],
  "Lanix": [
   {
    "device": "Alpha_1R",
@@ -91169,6 +91191,11 @@
    "device": "DCN88_72604_LN",
    "name": "X1 Prime",
    "model": "DCN88_72604_LN"
+  },
+  {
+   "device": "DTC2160",
+   "name": "X1-Prime-R2",
+   "model": "X1-Prime-R2"
   },
   {
    "device": "DTC2140",
@@ -103138,6 +103165,16 @@
    "model": "moto g(10) power"
   },
   {
+   "device": "penangf",
+   "name": "moto g13",
+   "model": "moto g13"
+  },
+  {
+   "device": "penangf",
+   "name": "moto g13",
+   "model": "penangf"
+  },
+  {
    "device": "xpeng",
    "name": "moto g200 5G",
    "model": "moto g200 5G"
@@ -103156,6 +103193,11 @@
    "device": "hawaiip",
    "name": "moto g22",
    "model": "moto g22"
+  },
+  {
+   "device": "penangf",
+   "name": "moto g23",
+   "model": "moto g23"
   },
   {
    "device": "cofud",
@@ -103481,6 +103523,16 @@
    "device": "eqs",
    "name": "motorola edge 30 ultra",
    "model": "motorola edge 30 ultra"
+  },
+  {
+   "device": "rtwo",
+   "name": "motorola edge 40 pro",
+   "model": "motorola edge 30 pro"
+  },
+  {
+   "device": "rtwo",
+   "name": "motorola edge 40 pro",
+   "model": "motorola edge 40 pro"
   },
   {
    "device": "berlna",
@@ -120262,6 +120314,13 @@
    "device": "TAB_TS101S_LTE",
    "name": "TAB_TS101S_LTE",
    "model": "TAB_TS101S_LTE"
+  }
+ ],
+ "PointMobile": [
+  {
+   "device": "PM86",
+   "name": "PM86",
+   "model": "PM86"
   }
  ],
  "Pokini": [
@@ -157981,6 +158040,11 @@
    "model": "T610K"
   },
   {
+   "device": "Encore_CAN",
+   "name": "TCL 40 XE 5G",
+   "model": "T609J"
+  },
+  {
    "device": "Sonata_Pro_OM",
    "name": "TCL 40XL",
    "model": "T608M"
@@ -158014,6 +158078,11 @@
    "device": "Venice",
    "name": "TCL C9 Plus",
    "model": "5148I"
+  },
+  {
+   "device": "Bora_NA_OM",
+   "name": "TCL ION V",
+   "model": "T430M"
   },
   {
    "device": "Bora_TMO",
@@ -168167,6 +168236,11 @@
    "device": "TECNO-LG7n",
    "name": "POVA 4",
    "model": "TECNO LG7n"
+  },
+  {
+   "device": "TECNO-LH7n",
+   "name": "POVA 5",
+   "model": "TECNO LH7n"
   },
   {
    "device": "TECNO-LE6",
@@ -179088,6 +179162,11 @@
    "model": "V2205"
   },
   {
+   "device": "PD2279",
+   "name": "Y35+",
+   "model": "V2279A"
+  },
+  {
    "device": "PD1502A",
    "name": "Y35A",
    "model": "vivo Y35A"
@@ -179096,6 +179175,11 @@
    "device": "PD2230",
    "name": "Y35m",
    "model": "V2230A"
+  },
+  {
+   "device": "PD2279",
+   "name": "Y35m+",
+   "model": "V2279A"
   },
   {
    "device": "Y51",
