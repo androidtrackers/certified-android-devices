@@ -4370,6 +4370,11 @@
    "model": "R4"
   },
   {
+   "brand": "Sharp",
+   "name": "R4-SH",
+   "model": "R4-SH"
+  },
+  {
    "brand": "Stream System",
    "name": "R4",
    "model": "R4"
@@ -113516,6 +113521,13 @@
    "model": "K600"
   }
  ],
+ "LTC1066": [
+  {
+   "brand": "LTC(LR)",
+   "name": "LTC1066",
+   "model": "LTC1066"
+  }
+ ],
  "AT11R464_LUKE": [
   {
    "brand": "LUKE",
@@ -203880,13 +203892,6 @@
    "model": "5048Y_TR"
   }
  ],
- "Bora_NA_OM": [
-  {
-   "brand": "TCL",
-   "name": "TCL ION V",
-   "model": "T430M"
-  }
- ],
  "Bora_TMO": [
   {
    "brand": "TCL",
@@ -214852,6 +214857,13 @@
    "brand": "Tecno",
    "name": "TECNO",
    "model": "TECNO BF7"
+  }
+ ],
+ "TECNO-BF7s": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO",
+   "model": "TECNO BF7s"
   }
  ],
  "TECNO-KC3": [
@@ -250396,6 +250408,13 @@
    "brand": "qunyiCO",
    "name": "Y7_EEA",
    "model": "Y7"
+  }
+ ],
+ "RED8D7": [
+  {
+   "brand": "realme",
+   "name": "RMX3268",
+   "model": "RMX3268"
   }
  ],
  "RE588DL1": [

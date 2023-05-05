@@ -84514,6 +84514,13 @@
    "model": "K600"
   }
  ],
+ "LTC(LR)": [
+  {
+   "device": "LTC1066",
+   "name": "LTC1066",
+   "model": "LTC1066"
+  }
+ ],
  "LUCOMS": [
   {
    "device": "R1",
@@ -148695,6 +148702,11 @@
    "model": "SH-04D"
   },
   {
+   "device": "R4",
+   "name": "R4-SH",
+   "model": "R4-SH"
+  },
+  {
    "device": "STTM21VAPP",
    "name": "ROUVO V",
    "model": "STTM21VAPP"
@@ -158078,11 +158090,6 @@
    "device": "Venice",
    "name": "TCL C9 Plus",
    "model": "5148I"
-  },
-  {
-   "device": "Bora_NA_OM",
-   "name": "TCL ION V",
-   "model": "T430M"
   },
   {
    "device": "Bora_TMO",
@@ -168591,6 +168598,11 @@
    "device": "TECNO-BF7n",
    "name": "TECNO",
    "model": "TECNO BF7n"
+  },
+  {
+   "device": "TECNO-BF7s",
+   "name": "TECNO",
+   "model": "TECNO BF7s"
   },
   {
    "device": "TECNO-AX8",
@@ -200061,6 +200073,11 @@
    "device": "gangbyeon",
    "name": "4K Smart TV",
    "model": "4K AI Smart TV"
+  },
+  {
+   "device": "RED8D7",
+   "name": "RMX3268",
+   "model": "RMX3268"
   },
   {
    "device": "RE588DL1",

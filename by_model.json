@@ -115400,6 +115400,13 @@
    "device": "SPURT_K300"
   }
  ],
+ "LTC1066": [
+  {
+   "brand": "LTC(LR)",
+   "name": "LTC1066",
+   "device": "LTC1066"
+  }
+ ],
  "AT11R464": [
   {
    "brand": "LUKE",
@@ -197741,6 +197748,13 @@
    "device": "SH04D"
   }
  ],
+ "R4-SH": [
+  {
+   "brand": "Sharp",
+   "name": "R4-SH",
+   "device": "R4"
+  }
+ ],
  "STTM21VAPP": [
   {
    "brand": "Sharp",
@@ -209197,13 +209211,6 @@
    "brand": "TCL",
    "name": "TCL C9 Plus",
    "device": "Venice"
-  }
- ],
- "T430M": [
-  {
-   "brand": "TCL",
-   "name": "TCL ION V",
-   "device": "Bora_NA_OM"
   }
  ],
  "T430W": [
@@ -223071,6 +223078,13 @@
    "brand": "Tecno",
    "name": "TECNO",
    "device": "TECNO-BF7"
+  }
+ ],
+ "TECNO BF7s": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO",
+   "device": "TECNO-BF7s"
   }
  ],
  "TECNO KC3": [
@@ -261413,6 +261427,13 @@
    "brand": "preo",
    "name": "PTAB_P8",
    "device": "PTAB_P8"
+  }
+ ],
+ "RMX3268": [
+  {
+   "brand": "realme",
+   "name": "RMX3268",
+   "device": "RED8D7"
   }
  ],
  "RMX3612": [

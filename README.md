@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-05-04
+Last sync is 2023-05-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -16430,6 +16430,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LT Electronics|SPURT_K400|SPURT_K400|K400|
 |LT Electronics|SPURT_K500|SPURT_K500|K500|
 |LT Electronics|SPURT_K600|SPURT_K600|K600|
+|LTC(LR)|LTC1066|LTC1066|LTC1066|
 |LUCOMS|Android TV|R1|ATV R1|
 |LUCOMS|Android TV|R2|ATV R2|
 |LUCOMS|LUCOMS|stanford|2K SMART TV|
@@ -28977,6 +28978,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|PN-M501/PN-M401|PN_M_series_w|PN_M_series|
 |Sharp|PN-ZC02|PN_ZC02|PN-ZC02|
 |Sharp|Q-pot.Phone SH-04D|SH04D|SH-04D|
+|Sharp|R4-SH|R4|R4-SH|
 |Sharp|ROUVO V|STTM21VAPP|STTM21VAPP|
 |Sharp|RW107|RW107|RW107|
 |Sharp|RZ-E302|rk3188_10P_A|RZ-E302|
@@ -30804,7 +30806,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL C5|Gauss|5153K|
 |TCL|TCL C7|A3A_PLUS|5158A|
 |TCL|TCL C9 Plus|Venice|5148I|
-|TCL|TCL ION V|Bora_NA_OM|T430M|
 |TCL|TCL ION X|Bora_TMO|T430W|
 |TCL|TCL L10|Faraday|5124J|
 |TCL|TCL L10 Lite|Jakarta_Lite|4187M|
@@ -32873,6 +32874,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|SPARK Youth|TECNO-KA6|TECNO KA6|
 |Tecno|TECNO|TECNO-BF7|TECNO BF7|
 |Tecno|TECNO|TECNO-BF7n|TECNO BF7n|
+|Tecno|TECNO|TECNO-BF7s|TECNO BF7s|
 |Tecno|TECNO AX8|TECNO-AX8|TECNO AX8|
 |Tecno|TECNO CAMON 12 Air|TECNO-KC3|TECNO KC3|
 |Tecno|TECNO CAMON 12 Pro|TECNO-CC9|TECNO CC9|
@@ -38971,6 +38973,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |qunyiCO|Y7_EEA|Y7_EEA|Y7|
 |realme|4K Google TV Stick|YYT|4K Google TV Stick|
 |realme|4K Smart TV|gangbyeon|4K AI Smart TV|
+|realme|RMX3268|RED8D7|RMX3268|
 |realme|RMX3612|RE588DL1|RMX3612|
 |realme|RMX3627|RE58AF|RMX3627|
 |realme|RMX3710|REE2ADL1|RMX3710|

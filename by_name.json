@@ -115690,6 +115690,13 @@
    "model": "K600"
   }
  ],
+ "LTC1066": [
+  {
+   "brand": "LTC(LR)",
+   "device": "LTC1066",
+   "model": "LTC1066"
+  }
+ ],
  "LUCOMS": [
   {
    "brand": "LUCOMS",
@@ -190256,6 +190263,13 @@
    "model": "SH-04D"
   }
  ],
+ "R4-SH": [
+  {
+   "brand": "Sharp",
+   "device": "R4",
+   "model": "R4-SH"
+  }
+ ],
  "ROUVO V": [
   {
    "brand": "Sharp",
@@ -201091,13 +201105,6 @@
    "brand": "TCL",
    "device": "Venice",
    "model": "5148I"
-  }
- ],
- "TCL ION V": [
-  {
-   "brand": "TCL",
-   "device": "Bora_NA_OM",
-   "model": "T430M"
   }
  ],
  "TCL ION X": [
@@ -212645,6 +212652,11 @@
    "brand": "Tecno",
    "device": "TECNO-BF7n",
    "model": "TECNO BF7n"
+  },
+  {
+   "brand": "Tecno",
+   "device": "TECNO-BF7s",
+   "model": "TECNO BF7s"
   }
  ],
  "TECNO AX8": [
@@ -248282,6 +248294,13 @@
    "brand": "realme",
    "device": "YYT",
    "model": "4K Google TV Stick"
+  }
+ ],
+ "RMX3268": [
+  {
+   "brand": "realme",
+   "device": "RED8D7",
+   "model": "RMX3268"
   }
  ],
  "RMX3612": [
