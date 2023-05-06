@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-05-05
+Last sync is 2023-05-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -20005,6 +20005,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g power (2021)|borneo|moto g power (2021)|
 |Motorola|moto g power (2022)|tonga|moto g power (2022)|
 |Motorola|moto g power (XT2041DL)|sofia|moto g power (XT2041DL)|
+|Motorola|moto g power 5G - 2023|devonn|moto g power 5G - 2023|
+|Motorola|moto g power 5G - 2023|devonn|moto g(50) 5G|
 |Motorola|moto g pro|sofiap_sprout|moto g pro|
 |Motorola|moto g pure|ellis|moto g power|
 |Motorola|moto g pure|ellis|moto g pure|
@@ -20146,6 +20148,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge 30 pro|hiphi|motorola edge plus|
 |Motorola|motorola edge 30 ultra|eqs|motorola edge|
 |Motorola|motorola edge 30 ultra|eqs|motorola edge 30 ultra|
+|Motorola|motorola edge 40|lyriq|moto g 5G (2022)|
+|Motorola|motorola edge 40|lyriq|motorola edge 40|
 |Motorola|motorola edge 40 pro|rtwo|motorola edge 30 pro|
 |Motorola|motorola edge 40 pro|rtwo|motorola edge 40 pro|
 |Motorola|motorola edge 5G UW (2021)|berlna|motorola edge 5G UW|
@@ -34952,6 +34956,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Neo7|PD2231|V2231A|
 |Vivo|iQOO Neo7 SE|PD2238|V2238A|
 |Vivo|iQOO Neo7 竞速版|PD2232|V2232A|
+|Vivo|iQOO Neo8 Pro|PD2302|V2302A|
 |Vivo|iQOO Z5|2018|I2018|
 |Vivo|iQOO Z5 6000mAh|PD2188|V2188A|
 |Vivo|iQOO Z6|I2203|I2203|

@@ -136903,6 +136903,18 @@
    "model": "moto g power (XT2041DL)"
   }
  ],
+ "moto g power 5G - 2023": [
+  {
+   "brand": "Motorola",
+   "device": "devonn",
+   "model": "moto g power 5G - 2023"
+  },
+  {
+   "brand": "Motorola",
+   "device": "devonn",
+   "model": "moto g(50) 5G"
+  }
+ ],
  "moto g pro": [
   {
    "brand": "Motorola",
@@ -137752,6 +137764,18 @@
    "brand": "Motorola",
    "device": "eqs",
    "model": "motorola edge 30 ultra"
+  }
+ ],
+ "motorola edge 40": [
+  {
+   "brand": "Motorola",
+   "device": "lyriq",
+   "model": "moto g 5G (2022)"
+  },
+  {
+   "brand": "Motorola",
+   "device": "lyriq",
+   "model": "motorola edge 40"
   }
  ],
  "motorola edge 40 pro": [
@@ -225323,6 +225347,13 @@
    "brand": "Vivo",
    "device": "PD2232",
    "model": "V2232A"
+  }
+ ],
+ "iQOO Neo8 Pro": [
+  {
+   "brand": "Vivo",
+   "device": "PD2302",
+   "model": "V2302A"
   }
  ],
  "iQOO Z5": [

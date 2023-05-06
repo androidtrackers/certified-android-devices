@@ -136619,6 +136619,18 @@
    "model": "moto g power (2022)"
   }
  ],
+ "devonn": [
+  {
+   "brand": "Motorola",
+   "name": "moto g power 5G - 2023",
+   "model": "moto g power 5G - 2023"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g power 5G - 2023",
+   "model": "moto g(50) 5G"
+  }
+ ],
  "sofiap_sprout": [
   {
    "brand": "Motorola",
@@ -137428,6 +137440,18 @@
    "brand": "Motorola",
    "name": "motorola edge 30 ultra",
    "model": "motorola edge 30 ultra"
+  }
+ ],
+ "lyriq": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 40",
+   "model": "moto g 5G (2022)"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 40",
+   "model": "motorola edge 40"
   }
  ],
  "burton": [
@@ -227287,6 +227311,13 @@
    "brand": "Vivo",
    "name": "iQOO Neo7 竞速版",
    "model": "V2232A"
+  }
+ ],
+ "PD2302": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Neo8 Pro",
+   "model": "V2302A"
   }
  ],
  "2018": [

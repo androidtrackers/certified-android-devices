@@ -138763,6 +138763,11 @@
    "brand": "Motorola",
    "name": "moto g 5G (2022)",
    "device": "austin"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 40",
+   "device": "lyriq"
   }
  ],
  "moto g pure": [
@@ -138846,6 +138851,40 @@
    "brand": "Motorola",
    "name": "moto g power (XT2041DL)",
    "device": "sofia"
+  }
+ ],
+ "moto g power 5G - 2023": [
+  {
+   "brand": "Motorola",
+   "name": "moto g power 5G - 2023",
+   "device": "devonn"
+  }
+ ],
+ "moto g(50) 5G": [
+  {
+   "brand": "Motorola",
+   "name": "moto g power 5G - 2023",
+   "device": "devonn"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g(50) 5G",
+   "device": "saipan"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g72",
+   "device": "vicky"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g73 5G",
+   "device": "devonf"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge (2022)",
+   "device": "tesla"
   }
  ],
  "moto g pro": [
@@ -139036,28 +139075,6 @@
    "brand": "Motorola",
    "name": "moto g(50)",
    "device": "ibiza"
-  }
- ],
- "moto g(50) 5G": [
-  {
-   "brand": "Motorola",
-   "name": "moto g(50) 5G",
-   "device": "saipan"
-  },
-  {
-   "brand": "Motorola",
-   "name": "moto g72",
-   "device": "vicky"
-  },
-  {
-   "brand": "Motorola",
-   "name": "moto g73 5G",
-   "device": "devonf"
-  },
-  {
-   "brand": "Motorola",
-   "name": "motorola edge (2022)",
-   "device": "tesla"
   }
  ],
  "XT1925-10": [
@@ -139659,6 +139676,13 @@
    "brand": "Motorola",
    "name": "motorola edge 30 ultra",
    "device": "eqs"
+  }
+ ],
+ "motorola edge 40": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge 40",
+   "device": "lyriq"
   }
  ],
  "motorola edge 40 pro": [
@@ -236100,6 +236124,13 @@
    "brand": "Vivo",
    "name": "iQOO Neo7 竞速版",
    "device": "PD2232"
+  }
+ ],
+ "V2302A": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Neo8 Pro",
+   "device": "PD2302"
   }
  ],
  "I2018": [

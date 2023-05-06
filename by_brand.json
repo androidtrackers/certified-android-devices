@@ -102827,6 +102827,16 @@
    "model": "moto g power (XT2041DL)"
   },
   {
+   "device": "devonn",
+   "name": "moto g power 5G - 2023",
+   "model": "moto g power 5G - 2023"
+  },
+  {
+   "device": "devonn",
+   "name": "moto g power 5G - 2023",
+   "model": "moto g(50) 5G"
+  },
+  {
    "device": "sofiap_sprout",
    "name": "moto g pro",
    "model": "moto g pro"
@@ -103530,6 +103540,16 @@
    "device": "eqs",
    "name": "motorola edge 30 ultra",
    "model": "motorola edge 30 ultra"
+  },
+  {
+   "device": "lyriq",
+   "name": "motorola edge 40",
+   "model": "moto g 5G (2022)"
+  },
+  {
+   "device": "lyriq",
+   "name": "motorola edge 40",
+   "model": "motorola edge 40"
   },
   {
    "device": "rtwo",
@@ -179412,6 +179432,11 @@
    "device": "PD2232",
    "name": "iQOO Neo7 竞速版",
    "model": "V2232A"
+  },
+  {
+   "device": "PD2302",
+   "name": "iQOO Neo8 Pro",
+   "model": "V2302A"
   },
   {
    "device": "2018",
