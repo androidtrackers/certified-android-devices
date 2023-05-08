@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-05-07
+Last sync is 2023-05-08
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2633,6 +2633,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|BL51|Bmobile_BL51_MV12|BL51|
 |BMobile|BL51|Bmobile_BL51_MV12|BL51_MV12|
 |BMobile|BL52|Bmobile_BL52|BL52|
+|BMobile|BL52Pro|Bmobile_BL52Pro|BL52Pro|
 |BMobile|BL52_TG06|Bmobile_BL52_TG06|BL52|
 |BMobile|BL54Pro|Bmobile_BL54Pro|BL54Pro|
 |BMobile|BL54Pro_MV12|Bmobile_BL54Pro|BL54Pro|
@@ -9761,6 +9762,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Handheld Group|Nautiz X2 EEA|alta_EEA|Nautiz X2|
 |Handheld Group|Nautiz X41|albatross_GL|Nautiz X41|
 |Handheld Group|Nautiz X41 EEA|albatross_EEA|Nautiz X41|
+|Handheld Group|Nautiz X81|Nautiz_X81|Nautiz X81|
 |Handheld Group|Nautiz X9|Nautiz_X9P|Nautiz X9P|
 |Handheld Group|Nautiz_X2|NAUTIZ_X2|NAUTIZ_X2|
 |Handheld Group|Nautiz_X9|Nautiz_X9|Nautiz_X9|
@@ -32937,6 +32939,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO SA7S|TECNO-SA7S|TECNO SA7S|
 |Tecno|TECNO SPARK 10|TECNO-KI5n|TECNO KI5n|
 |Tecno|TECNO SPARK 10|TECNO-KI5q|TECNO KI5q|
+|Tecno|TECNO SPARK 10|TECNO-KI5qs|TECNO KI5qs|
 |Tecno|TECNO SPARK 10C|TECNO-KI5k|TECNO KI5k|
 |Tecno|TECNO SPARK 10C|TECNO-KI5m|TECNO KI5m|
 |Tecno|TECNO SPARK 4|TECNO-KC2|TECNO KC2|
@@ -33711,6 +33714,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umax|MediaTek|8Qa_3G|8Qa_3G|
 |Umax|T8_3G_eea|T8_3G|T8_3G|
 |Umax|U452TL|U452TL|U452TL|
+|Umax|UMAX|kaitak|Ultra 4K GTV|
 |Umax|UMAX|seocho|UMAX 4K Android TV|
 |Umax|UMAX|visionbook_P55_LTE|visionbook P55 LTE|
 |Umax|Umax|shilin|UMAX4KAndroidTV|
@@ -34968,6 +34972,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Z7 5G|I2207|I2207|
 |Vivo|iQOO Z7 5G|I2213|I2213|
 |Vivo|iQOO Z7i|PD2230|V2230EA|
+|Vivo|iQOO Z7s 5G|I2223|I2223|
 |Vivo|iQOO Z7x|PD2272|V2272A|
 |Vivo|iQOO Z7x (m)|PD2272|V2272A|
 |Vivo|iQOO Z7x 5G|I2216|I2216|

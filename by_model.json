@@ -21439,6 +21439,13 @@
    "device": "Bmobile_BL51_MV12"
   }
  ],
+ "BL52Pro": [
+  {
+   "brand": "BMobile",
+   "name": "BL52Pro",
+   "device": "Bmobile_BL52Pro"
+  }
+ ],
  "BL54Pro": [
   {
    "brand": "BMobile",
@@ -71647,6 +71654,13 @@
    "brand": "Handheld Group",
    "name": "Nautiz X41 EEA",
    "device": "albatross_EEA"
+  }
+ ],
+ "Nautiz X81": [
+  {
+   "brand": "Handheld Group",
+   "name": "Nautiz X81",
+   "device": "Nautiz_X81"
   }
  ],
  "Nautiz X9P": [
@@ -223462,6 +223476,13 @@
    "device": "TECNO-KI5q"
   }
  ],
+ "TECNO KI5qs": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 10",
+   "device": "TECNO-KI5qs"
+  }
+ ],
  "TECNO KI5k": [
   {
    "brand": "Tecno",
@@ -228311,6 +228332,13 @@
    "brand": "Umax",
    "name": "U452TL",
    "device": "U452TL"
+  }
+ ],
+ "Ultra 4K GTV": [
+  {
+   "brand": "Umax",
+   "name": "UMAX",
+   "device": "kaitak"
   }
  ],
  "UMAX 4K Android TV": [
@@ -236208,6 +236236,13 @@
    "brand": "Vivo",
    "name": "iQOO Z7i",
    "device": "PD2230"
+  }
+ ],
+ "I2223": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Z7s 5G",
+   "device": "I2223"
   }
  ],
  "V2272A": [

@@ -13603,6 +13603,11 @@
    "model": "BL52"
   },
   {
+   "device": "Bmobile_BL52Pro",
+   "name": "BL52Pro",
+   "model": "BL52Pro"
+  },
+  {
    "device": "Bmobile_BL52_TG06",
    "name": "BL52_TG06",
    "model": "BL52"
@@ -50585,6 +50590,11 @@
    "device": "albatross_EEA",
    "name": "Nautiz X41 EEA",
    "model": "Nautiz X41"
+  },
+  {
+   "device": "Nautiz_X81",
+   "name": "Nautiz X81",
+   "model": "Nautiz X81"
   },
   {
    "device": "Nautiz_X9P",
@@ -168915,6 +168925,11 @@
    "model": "TECNO KI5q"
   },
   {
+   "device": "TECNO-KI5qs",
+   "name": "TECNO SPARK 10",
+   "model": "TECNO KI5qs"
+  },
+  {
    "device": "TECNO-KI5k",
    "name": "TECNO SPARK 10C",
    "model": "TECNO KI5k"
@@ -173011,6 +173026,11 @@
    "device": "U452TL",
    "name": "U452TL",
    "model": "U452TL"
+  },
+  {
+   "device": "kaitak",
+   "name": "UMAX",
+   "model": "Ultra 4K GTV"
   },
   {
    "device": "seocho",
@@ -179492,6 +179512,11 @@
    "device": "PD2230",
    "name": "iQOO Z7i",
    "model": "V2230EA"
+  },
+  {
+   "device": "I2223",
+   "name": "iQOO Z7s 5G",
+   "model": "I2223"
   },
   {
    "device": "PD2272",

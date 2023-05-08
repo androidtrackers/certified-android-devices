@@ -24769,6 +24769,13 @@
    "model": "BL52"
   }
  ],
+ "Bmobile_BL52Pro": [
+  {
+   "brand": "BMobile",
+   "name": "BL52Pro",
+   "model": "BL52Pro"
+  }
+ ],
  "Bmobile_BL52_TG06": [
   {
    "brand": "BMobile",
@@ -74009,6 +74016,13 @@
    "model": "Nautiz X41"
   }
  ],
+ "Nautiz_X81": [
+  {
+   "brand": "Handheld Group",
+   "name": "Nautiz X81",
+   "model": "Nautiz X81"
+  }
+ ],
  "Nautiz_X9P": [
   {
    "brand": "Handheld Group",
@@ -99088,6 +99102,11 @@
    "brand": "JVC",
    "name": "JVC",
    "model": "JVCPA 4KAndroid TV"
+  },
+  {
+   "brand": "Umax",
+   "name": "UMAX",
+   "model": "Ultra 4K GTV"
   }
  ],
  "Cunda": [
@@ -215234,6 +215253,13 @@
    "model": "TECNO KI5q"
   }
  ],
+ "TECNO-KI5qs": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO SPARK 10",
+   "model": "TECNO KI5qs"
+  }
+ ],
  "TECNO-KI5k": [
   {
    "brand": "Tecno",
@@ -227384,6 +227410,13 @@
    "brand": "Vivo",
    "name": "iQOO Z7 5G",
    "model": "I2213"
+  }
+ ],
+ "I2223": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Z7s 5G",
+   "model": "I2223"
   }
  ],
  "PD2272": [
