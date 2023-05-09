@@ -161222,6 +161222,11 @@
    "brand": "Positivo",
    "name": "T2050C",
    "device": "T2050C"
+  },
+  {
+   "brand": "Positivo",
+   "name": "Tab Q10",
+   "device": "T2050M"
   }
  ],
  "Positivo Mini": [
@@ -235899,6 +235904,13 @@
    "brand": "Vivo",
    "name": "Y35A",
    "device": "PD1502A"
+  }
+ ],
+ "V2247": [
+  {
+   "brand": "Vivo",
+   "name": "Y36",
+   "device": "V2247"
   }
  ],
  "vivo Y51": [

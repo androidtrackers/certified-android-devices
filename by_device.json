@@ -158824,6 +158824,13 @@
    "model": "T810"
   }
  ],
+ "T2050M": [
+  {
+   "brand": "Positivo",
+   "name": "Tab Q10",
+   "model": "Tab Q10"
+  }
+ ],
  "S520": [
   {
    "brand": "Positivo",
@@ -227079,6 +227086,13 @@
    "brand": "Vivo",
    "name": "Y35A",
    "model": "vivo Y35A"
+  }
+ ],
+ "V2247": [
+  {
+   "brand": "Vivo",
+   "name": "Y36",
+   "model": "V2247"
   }
  ],
  "Y51": [

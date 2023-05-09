@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-05-08
+Last sync is 2023-05-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -23587,6 +23587,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|T810|T810|T810|
 |Positivo|T810|T810|Tab Q8 Lite|
 |Positivo|T810C|T810C|T810|
+|Positivo|Tab Q10|T2050M|Tab Q10|
 |Positivo|Twist|S520|Positivo Twist M|
 |Positivo|Twist|S520|Positivo Twist S|
 |Positivo|Twist 2|S512|Twist 2|
@@ -34916,6 +34917,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y35A|PD1502A|vivo Y35A|
 |Vivo|Y35m|PD2230|V2230A|
 |Vivo|Y35m+|PD2279|V2279A|
+|Vivo|Y36|V2247|V2247|
 |Vivo|Y51|Y51|vivo Y51|
 |Vivo|Y51A|PD1510|vivo Y51A|
 |Vivo|Y53|1606|vivo 1606|

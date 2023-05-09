@@ -158805,6 +158805,13 @@
    "model": "T810"
   }
  ],
+ "Tab Q10": [
+  {
+   "brand": "Positivo",
+   "device": "T2050M",
+   "model": "Tab Q10"
+  }
+ ],
  "Twist": [
   {
    "brand": "Positivo",
@@ -225081,6 +225088,13 @@
    "brand": "Vivo",
    "device": "PD2279",
    "model": "V2279A"
+  }
+ ],
+ "Y36": [
+  {
+   "brand": "Vivo",
+   "device": "V2247",
+   "model": "V2247"
   }
  ],
  "Y51": [
