@@ -34498,6 +34498,13 @@
    "model": "M10L"
   }
  ],
+ "M10L PLUS": [
+  {
+   "brand": "Blu",
+   "device": "M0223_ND",
+   "model": "M10L PLUS"
+  }
+ ],
  "M6": [
   {
    "brand": "Blu",
@@ -35400,6 +35407,11 @@
   },
   {
    "brand": "Doogee",
+   "device": "T5",
+   "model": "T5"
+  },
+  {
+   "brand": "IkuMobile",
    "device": "T5",
    "model": "T5"
   },
@@ -47604,6 +47616,13 @@
    "model": "TAB 20"
   }
  ],
+ "TAB KINGKONG": [
+  {
+   "brand": "Cubot",
+   "device": "TAB_KINGKONG",
+   "model": "TAB KINGKONG"
+  }
+ ],
  "X19": [
   {
    "brand": "Cubot",
@@ -47980,6 +47999,13 @@
    "brand": "DEED",
    "device": "DC-WT15",
    "model": "DC-WT15"
+  }
+ ],
+ "BS101_EEA": [
+  {
+   "brand": "DEPLAY",
+   "device": "BS101_EEA",
+   "model": "BS101_EEA"
   }
  ],
  "BS703_EEA": [
@@ -50223,6 +50249,13 @@
    "brand": "Danew",
    "device": "Dslide_809_EEA",
    "model": "Dslide_809"
+  }
+ ],
+ "Dslide_809Pro_EEA": [
+  {
+   "brand": "Danew",
+   "device": "Dslide_809Pro",
+   "model": "Dslide_809Pro"
   }
  ],
  "G27": [
@@ -66287,6 +66320,13 @@
    "brand": "GREATASIA",
    "device": "E10A133_EEA",
    "model": "E10A133_EEA"
+  }
+ ],
+ "E10_A133_EEA": [
+  {
+   "brand": "GREATASIA",
+   "device": "E10_A133_EEA",
+   "model": "E10_A133_EEA"
   }
  ],
  "E9863": [
@@ -115711,6 +115751,13 @@
    "model": "LTC1066"
   }
  ],
+ "LT_mobile_S22": [
+  {
+   "brand": "LT_Mobile",
+   "device": "LT_mobile_S22",
+   "model": "S22"
+  }
+ ],
  "LUCOMS": [
   {
    "brand": "LUCOMS",
@@ -116530,6 +116577,13 @@
    "brand": "Lanix",
    "device": "Ilium_L910",
    "model": "Ilium L910"
+  }
+ ],
+ "M1R": [
+  {
+   "brand": "Lanix",
+   "device": "M1R",
+   "model": "M1R"
   }
  ],
  "RX8": [
@@ -128503,6 +128557,13 @@
    "brand": "Maze_speed",
    "device": "SSB1001T",
    "model": "SSB1001T"
+  }
+ ],
+ "SSB10T323": [
+  {
+   "brand": "Maze_speed",
+   "device": "SSB10T323",
+   "model": "SSB10T323"
   }
  ],
  "SSB8T323": [
@@ -140887,6 +140948,13 @@
    "model": "NpadAir"
   }
  ],
+ "NpadS": [
+  {
+   "brand": "N-one",
+   "device": "NpadS",
+   "model": "NpadS"
+  }
+ ],
  "Allure_Plus": [
   {
    "brand": "NASCO",
@@ -144835,6 +144903,13 @@
    "model": "Nokia XR20"
   }
  ],
+ "Nokia XR21": [
+  {
+   "brand": "Nokia",
+   "device": "SNT_sprout",
+   "model": "Nokia XR21"
+  }
+ ],
  "CORSA 3 LTE": [
   {
    "brand": "Nomi",
@@ -145940,6 +146015,13 @@
    "brand": "OLAX",
    "device": "Magic_Q1",
    "model": "Magic Q1"
+  }
+ ],
+ "Magic_Q8": [
+  {
+   "brand": "OLAX",
+   "device": "Magic_Q8",
+   "model": "Magic Q8"
   }
  ],
  "Q101_EEA": [
@@ -151441,6 +151523,13 @@
    "model": "R8L5T"
   }
  ],
+ "RC10RLT-RW1": [
+  {
+   "brand": "Orbic",
+   "device": "VC_Device",
+   "model": "RC10RLT-RW"
+  }
+ ],
  "RC506LT": [
   {
    "brand": "Orbic",
@@ -151460,6 +151549,18 @@
    "brand": "Orbic",
    "device": "RC609L",
    "model": "RC609L"
+  }
+ ],
+ "RC609LP-RWANZ": [
+  {
+   "brand": "Orbic",
+   "device": "RC609LP",
+   "model": "RC609LP"
+  },
+  {
+   "brand": "Orbic",
+   "device": "RC609LP",
+   "model": "RC609LP-RW"
   }
  ],
  "RC609LSM": [
@@ -162153,6 +162254,13 @@
    "model": "M10_Air_EEA"
   }
  ],
+ "M10_B01": [
+  {
+   "brand": "Pritom",
+   "device": "M10",
+   "model": "M10"
+  }
+ ],
  "M10_B01_EEA": [
   {
    "brand": "Pritom",
@@ -171104,6 +171212,13 @@
    "brand": "SUNMAX",
    "device": "Model_6_Pro_Max",
    "model": "Model 6 Pro Max"
+  }
+ ],
+ "Model_One": [
+  {
+   "brand": "SUNMAX",
+   "device": "Model_One",
+   "model": "Model One"
   }
  ],
  "Model_S": [
@@ -211186,6 +211301,11 @@
    "brand": "Teclast",
    "device": "T30",
    "model": "T30_EEA"
+  },
+  {
+   "brand": "Veidoo",
+   "device": "T30_EEA",
+   "model": "T30"
   }
  ],
  "T30_ROW": [
@@ -217651,6 +217771,13 @@
    "model": "VisionBook_10Qa_3G"
   }
  ],
+ "11T-LTE-Pro_EEA": [
+  {
+   "brand": "Umax",
+   "device": "11T-LTE-Pro_EEA",
+   "model": "11T-LTE-Pro"
+  }
+ ],
  "7A_3G": [
   {
    "brand": "Umax",
@@ -218278,6 +218405,13 @@
   }
  ],
  "G3 Plus": [
+  {
+   "brand": "Umidigi",
+   "device": "G3_Plus",
+   "model": "MP25"
+  }
+ ],
+ "G3 Plus EEA": [
   {
    "brand": "Umidigi",
    "device": "G3_Plus",
@@ -226820,6 +226954,13 @@
    "model": "X100_EEA"
   }
  ],
+ "VK_740_12": [
+  {
+   "brand": "Volkano",
+   "device": "VK_740_12",
+   "model": "VK_740_12"
+  }
+ ],
  "VOLT_SV451_Vision": [
   {
    "brand": "Volt Mobile",
@@ -231854,6 +231995,13 @@
    "brand": "Xgody",
    "device": "T702Pro-EEA",
    "model": "T702Pro-EEA"
+  }
+ ],
+ "T702Pro_S": [
+  {
+   "brand": "Xgody",
+   "device": "T702Pro_S",
+   "model": "T702Pro_S"
   }
  ],
  "T702_EEA": [
