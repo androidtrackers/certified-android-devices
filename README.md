@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-05-10
+Last sync is 2023-05-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2158,6 +2158,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Atozee|CP30|CP30|CP30|
 |Atozee|P70W|P70W|P70W|
 |Atozee|P80W|P80W|P80W|
+|Atozee|YQ10S_Gold|YQ10S_Gold|YQ10S_Gold|
 |Atria Convergence Technologies|ACT|B860H_V1|B860H|
 |Attila|Magic_1|Magic_1|Magic_1|
 |Auchan|AUCHAN|Q7T9INK|Q7T9INK|
@@ -18156,6 +18157,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MIRAY|Android TV|R2|ATV R2|
 |MIRAY|MIDM_737|MIDM_737|MIDM_737|
 |MIRAY|MIDM_F10|MIDM_F10|MIDM_F10|
+|MIRAY|R3|R3|R3|
 |MIRAY|R4|R4|R4|
 |MIRAY|TPM4G_105|TPM4G_105|TPM4G_105|
 |MITSUSHIBA|MITSUSHIBA|TP-10-0232P3G|TP-10-0232P3G|
@@ -22904,6 +22906,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|FZ-X1|FZ-X1|FZ-X1|
 |Panasonic|FZ-X1|FZ-X1VU|FZ-X1|
 |Panasonic|FZ-X1|FZ-X1VUC|FZ-X1|
+|Panasonic|G4_GTV|R4_GTV|4KTV-3MUP|
 |Panasonic|GS655|shibuya|GS655|
 |Panasonic|GX600C|GX600C|GX600C|
 |Panasonic|GX655|SW3H_ATV|GX655|
@@ -22981,6 +22984,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|Panasonic TV|SW3H_ATV|GX655|
 |Panasonic|R3|R3|2KTV-2TH|
 |Panasonic|R4|R4|PANASONIC TV|
+|Panasonic|R4_GTV|R4_GTV|4KTV-3MUP|
 |Panasonic|RSE1708|RSE1708|RSE1708|
 |Panasonic|SDU|SDU|9 inch SDU|
 |Panasonic|SDU|SDU|SDU|
@@ -27193,6 +27197,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Q|SGH-T589W|SGH-T589W|
 |Samsung|Galaxy Quantum2|a82xq|SM-A826S|
 |Samsung|Galaxy Quantum3|m53x|SM-M536S|
+|Samsung|Galaxy Quantum4|a54x|SM-A546S|
 |Samsung|Galaxy R-Style|jaguark|SHV-E170K|
 |Samsung|Galaxy R-Style|jaguarl|SHV-E170L|
 |Samsung|Galaxy R-Style|jaguars|SHV-E170S|
@@ -30893,6 +30898,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB Disney Edition|Thor_8_4G_VZW|9050S|
 |TCL|TCL TAB Lite|Apollo84GBoostR|9132S|
 |TCL|TCL TAB kids|Thor_8_4G_VZW|9049L|
+|TCL|TCL stylus 5G|Challenger_TH|T779P|
 |TCL|TCL201|Macau|5133MP|
 |TCL|TKEE MAX|Aquaman_10_Smart_WIFI|8491XN|
 |TCL|TKEE MAX|Aquaman_10_Smart_WIFI|8491XN_EEA|
@@ -33860,10 +33866,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|UMIDIGI A13 Pro Max EEA|UMIDIGI_A13_Pro_Max|MP16|
 |Umidigi|UMIDIGI C1|UMIDIGI_C1|MP07|
 |Umidigi|UMIDIGI C1 EEA|UMIDIGI_C1|MP07|
+|Umidigi|UMIDIGI C2|UMIDIGI_C2|MP20|
 |Umidigi|UMIDIGI F3 Pro|UMIDIGI_F3_Pro|MP10|
 |Umidigi|UMIDIGI F3 Pro EEA|UMIDIGI_F3_Pro|MP10|
 |Umidigi|UMIDIGI G1|UMIDIGI_G1|MP08|
 |Umidigi|UMIDIGI G1 EEA|UMIDIGI_G1|MP08|
+|Umidigi|UMIDIGI G3 Max|G3_Max|MP26|
+|Umidigi|UMIDIGI G3 Max EEA|G3_Max|MP26|
 |Umidigi|UMIDIGI X|UMIDIGI_X|UMIDIGI X|
 |Umidigi|Z2|Z2|Z2|
 |Umidigi|Z2 Pro|Z2_PRO|Z2_PRO|
@@ -36313,10 +36322,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi Pad 5 Pro|dagu|22081281AC|
 |Xiaomi|Xiaomi Pad 5 Pro|elish|M2105K81AC|
 |Xiaomi|Xiaomi Pad 5 Pro 5G|enuma|M2105K81C|
+|Xiaomi|Xiaomi Pad 6|pipa|23043RP34C|
 |Xiaomi|Xiaomi TV Box S (2nd Gen)|jaws|MiTV-AFKR0|
 |Xiaomi|Xiaomi TV stick 4K|soul|MiTV-AYFR0|
 |Xiaomi|Xiaomi civi2|ziyi|2209129SC|
-|Xiaomi|Xiaomi pad 6|pipa|23043RP34C|
 |Xiaomi|Xiaomi pad 6 Pro|liuqin|23046RP50C|
 |Xiaomi|小米手表|baiji|Mi Watch|
 |Xinlian|HC750|HC750|HC750|

@@ -11144,6 +11144,11 @@
    "device": "P80W",
    "name": "P80W",
    "model": "P80W"
+  },
+  {
+   "device": "YQ10S_Gold",
+   "name": "YQ10S_Gold",
+   "model": "YQ10S_Gold"
   }
  ],
  "Atria Convergence Technologies": [
@@ -93334,6 +93339,11 @@
    "model": "MIDM_F10"
   },
   {
+   "device": "R3",
+   "name": "R3",
+   "model": "R3"
+  },
+  {
    "device": "R4",
    "name": "R4",
    "model": "R4"
@@ -117778,6 +117788,11 @@
    "model": "FZ-X1"
   },
   {
+   "device": "R4_GTV",
+   "name": "G4_GTV",
+   "model": "4KTV-3MUP"
+  },
+  {
    "device": "shibuya",
    "name": "GS655",
    "model": "GS655"
@@ -118161,6 +118176,11 @@
    "device": "R4",
    "name": "R4",
    "model": "PANASONIC TV"
+  },
+  {
+   "device": "R4_GTV",
+   "name": "R4_GTV",
+   "model": "4KTV-3MUP"
   },
   {
    "device": "RSE1708",
@@ -139713,6 +139733,11 @@
    "model": "SM-M536S"
   },
   {
+   "device": "a54x",
+   "name": "Galaxy Quantum4",
+   "model": "SM-A546S"
+  },
+  {
    "device": "jaguark",
    "name": "Galaxy R-Style",
    "model": "SHV-E170K"
@@ -158529,6 +158554,11 @@
    "model": "9049L"
   },
   {
+   "device": "Challenger_TH",
+   "name": "TCL stylus 5G",
+   "model": "T779P"
+  },
+  {
    "device": "Macau",
    "name": "TCL201",
    "model": "5133MP"
@@ -173762,6 +173792,11 @@
    "model": "MP07"
   },
   {
+   "device": "UMIDIGI_C2",
+   "name": "UMIDIGI C2",
+   "model": "MP20"
+  },
+  {
    "device": "UMIDIGI_F3_Pro",
    "name": "UMIDIGI F3 Pro",
    "model": "MP10"
@@ -173780,6 +173815,16 @@
    "device": "UMIDIGI_G1",
    "name": "UMIDIGI G1 EEA",
    "model": "MP08"
+  },
+  {
+   "device": "G3_Max",
+   "name": "UMIDIGI G3 Max",
+   "model": "MP26"
+  },
+  {
+   "device": "G3_Max",
+   "name": "UMIDIGI G3 Max EEA",
+   "model": "MP26"
   },
   {
    "device": "UMIDIGI_X",
@@ -186415,6 +186460,11 @@
    "model": "M2105K81C"
   },
   {
+   "device": "pipa",
+   "name": "Xiaomi Pad 6",
+   "model": "23043RP34C"
+  },
+  {
    "device": "jaws",
    "name": "Xiaomi TV Box S (2nd Gen)",
    "model": "MiTV-AFKR0"
@@ -186428,11 +186478,6 @@
    "device": "ziyi",
    "name": "Xiaomi civi2",
    "model": "2209129SC"
-  },
-  {
-   "device": "pipa",
-   "name": "Xiaomi pad 6",
-   "model": "23043RP34C"
   },
   {
    "device": "liuqin",

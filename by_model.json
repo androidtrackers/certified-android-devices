@@ -2764,6 +2764,11 @@
    "device": "R3"
   },
   {
+   "brand": "MIRAY",
+   "name": "R3",
+   "device": "R3"
+  },
+  {
    "brand": "Mobicell",
    "name": "R3",
    "device": "R3"
@@ -17965,6 +17970,13 @@
    "brand": "Atozee",
    "name": "P80W",
    "device": "P80W"
+  }
+ ],
+ "YQ10S_Gold": [
+  {
+   "brand": "Atozee",
+   "name": "YQ10S_Gold",
+   "device": "YQ10S_Gold"
   }
  ],
  "B860H": [
@@ -157178,6 +157190,18 @@
    "device": "FZ-X1VUC"
   }
  ],
+ "4KTV-3MUP": [
+  {
+   "brand": "Panasonic",
+   "name": "G4_GTV",
+   "device": "R4_GTV"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "R4_GTV",
+   "device": "R4_GTV"
+  }
+ ],
  "GS655": [
   {
    "brand": "Panasonic",
@@ -185614,6 +185638,13 @@
    "device": "m53x"
   }
  ],
+ "SM-A546S": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Quantum4",
+   "device": "a54x"
+  }
+ ],
  "SHV-E170K": [
   {
    "brand": "Samsung",
@@ -209812,6 +209843,13 @@
    "device": "Thor_8_4G_VZW"
   }
  ],
+ "T779P": [
+  {
+   "brand": "TCL",
+   "name": "TCL stylus 5G",
+   "device": "Challenger_TH"
+  }
+ ],
  "5133MP": [
   {
    "brand": "TCL",
@@ -229106,6 +229144,13 @@
    "device": "UMIDIGI_C1"
   }
  ],
+ "MP20": [
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI C2",
+   "device": "UMIDIGI_C2"
+  }
+ ],
  "MP10": [
   {
    "brand": "Umidigi",
@@ -229128,6 +229173,18 @@
    "brand": "Umidigi",
    "name": "UMIDIGI G1 EEA",
    "device": "UMIDIGI_G1"
+  }
+ ],
+ "MP26": [
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI G3 Max",
+   "device": "G3_Max"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI G3 Max EEA",
+   "device": "G3_Max"
   }
  ],
  "UMIDIGI X": [
@@ -244594,6 +244651,13 @@
    "device": "enuma"
   }
  ],
+ "23043RP34C": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Pad 6",
+   "device": "pipa"
+  }
+ ],
  "MiTV-AFKR0": [
   {
    "brand": "Xiaomi",
@@ -244613,13 +244677,6 @@
    "brand": "Xiaomi",
    "name": "Xiaomi civi2",
    "device": "ziyi"
-  }
- ],
- "23043RP34C": [
-  {
-   "brand": "Xiaomi",
-   "name": "Xiaomi pad 6",
-   "device": "pipa"
   }
  ],
  "23046RP50C": [

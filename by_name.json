@@ -8216,6 +8216,11 @@
    "model": "R3"
   },
   {
+   "brand": "MIRAY",
+   "device": "R3",
+   "model": "R3"
+  },
+  {
    "brand": "Mobicell",
    "device": "R3",
    "model": "R3"
@@ -23327,6 +23332,13 @@
    "brand": "Atozee",
    "device": "P80W",
    "model": "P80W"
+  }
+ ],
+ "YQ10S_Gold": [
+  {
+   "brand": "Atozee",
+   "device": "YQ10S_Gold",
+   "model": "YQ10S_Gold"
   }
  ],
  "ACT": [
@@ -154590,6 +154602,13 @@
    "model": "FZ-X1"
   }
  ],
+ "G4_GTV": [
+  {
+   "brand": "Panasonic",
+   "device": "R4_GTV",
+   "model": "4KTV-3MUP"
+  }
+ ],
  "GS655": [
   {
    "brand": "Panasonic",
@@ -155033,6 +155052,13 @@
    "brand": "Panasonic",
    "device": "SW3H_ATV",
    "model": "GX655"
+  }
+ ],
+ "R4_GTV": [
+  {
+   "brand": "Panasonic",
+   "device": "R4_GTV",
+   "model": "4KTV-3MUP"
   }
  ],
  "RSE1708": [
@@ -180084,6 +180110,13 @@
    "model": "SM-M536S"
   }
  ],
+ "Galaxy Quantum4": [
+  {
+   "brand": "Samsung",
+   "device": "a54x",
+   "model": "SM-A546S"
+  }
+ ],
  "Galaxy R-Style": [
   {
    "brand": "Samsung",
@@ -201656,6 +201689,13 @@
    "model": "9049L"
   }
  ],
+ "TCL stylus 5G": [
+  {
+   "brand": "TCL",
+   "device": "Challenger_TH",
+   "model": "T779P"
+  }
+ ],
  "TCL201": [
   {
    "brand": "TCL",
@@ -218600,6 +218640,13 @@
    "model": "MP07"
   }
  ],
+ "UMIDIGI C2": [
+  {
+   "brand": "Umidigi",
+   "device": "UMIDIGI_C2",
+   "model": "MP20"
+  }
+ ],
  "UMIDIGI F3 Pro": [
   {
    "brand": "Umidigi",
@@ -218626,6 +218673,20 @@
    "brand": "Umidigi",
    "device": "UMIDIGI_G1",
    "model": "MP08"
+  }
+ ],
+ "UMIDIGI G3 Max": [
+  {
+   "brand": "Umidigi",
+   "device": "G3_Max",
+   "model": "MP26"
+  }
+ ],
+ "UMIDIGI G3 Max EEA": [
+  {
+   "brand": "Umidigi",
+   "device": "G3_Max",
+   "model": "MP26"
   }
  ],
  "UMIDIGI X": [
@@ -233545,6 +233606,13 @@
    "model": "M2105K81C"
   }
  ],
+ "Xiaomi Pad 6": [
+  {
+   "brand": "Xiaomi",
+   "device": "pipa",
+   "model": "23043RP34C"
+  }
+ ],
  "Xiaomi TV Box S (2nd Gen)": [
   {
    "brand": "Xiaomi",
@@ -233564,13 +233632,6 @@
    "brand": "Xiaomi",
    "device": "ziyi",
    "model": "2209129SC"
-  }
- ],
- "Xiaomi pad 6": [
-  {
-   "brand": "Xiaomi",
-   "device": "pipa",
-   "model": "23043RP34C"
   }
  ],
  "Xiaomi pad 6 Pro": [

@@ -4173,6 +4173,11 @@
    "model": "R3"
   },
   {
+   "brand": "MIRAY",
+   "name": "R3",
+   "model": "R3"
+  },
+  {
    "brand": "Mobicell",
    "name": "R3",
    "model": "R3"
@@ -21317,6 +21322,13 @@
    "brand": "Atozee",
    "name": "P80W",
    "model": "P80W"
+  }
+ ],
+ "YQ10S_Gold": [
+  {
+   "brand": "Atozee",
+   "name": "YQ10S_Gold",
+   "model": "YQ10S_Gold"
   }
  ],
  "B860H_V1": [
@@ -154716,6 +154728,18 @@
    "model": "FZ-X1"
   }
  ],
+ "R4_GTV": [
+  {
+   "brand": "Panasonic",
+   "name": "G4_GTV",
+   "model": "4KTV-3MUP"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "R4_GTV",
+   "model": "4KTV-3MUP"
+  }
+ ],
  "GX600C": [
   {
    "brand": "Panasonic",
@@ -173411,6 +173435,11 @@
    "brand": "Samsung",
    "name": "Galaxy A54 5G",
    "model": "SM-S546VL"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Quantum4",
+   "model": "SM-A546S"
   }
  ],
  "a6elteaio": [
@@ -204945,6 +204974,13 @@
    "model": "9137W"
   }
  ],
+ "Challenger_TH": [
+  {
+   "brand": "TCL",
+   "name": "TCL stylus 5G",
+   "model": "T779P"
+  }
+ ],
  "Macau": [
   {
    "brand": "TCL",
@@ -220581,6 +220617,13 @@
    "model": "MP07"
   }
  ],
+ "UMIDIGI_C2": [
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI C2",
+   "model": "MP20"
+  }
+ ],
  "UMIDIGI_F3_Pro": [
   {
    "brand": "Umidigi",
@@ -220603,6 +220646,18 @@
    "brand": "Umidigi",
    "name": "UMIDIGI G1 EEA",
    "model": "MP08"
+  }
+ ],
+ "G3_Max": [
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI G3 Max",
+   "model": "MP26"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI G3 Max EEA",
+   "model": "MP26"
   }
  ],
  "UMIDIGI_X": [
@@ -235291,6 +235346,13 @@
    "model": "M2105K81C"
   }
  ],
+ "pipa": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Pad 6",
+   "model": "23043RP34C"
+  }
+ ],
  "jaws": [
   {
    "brand": "Xiaomi",
@@ -235303,13 +235365,6 @@
    "brand": "Xiaomi",
    "name": "Xiaomi TV stick 4K",
    "model": "MiTV-AYFR0"
-  }
- ],
- "pipa": [
-  {
-   "brand": "Xiaomi",
-   "name": "Xiaomi pad 6",
-   "model": "23043RP34C"
   }
  ],
  "liuqin": [
