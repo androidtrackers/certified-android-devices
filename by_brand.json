@@ -312,6 +312,11 @@
    "model": "BUZZ 1 Plus"
   },
   {
+   "device": "BUZZ_3E",
+   "name": "BUZZ_3E",
+   "model": "BUZZ 3"
+  },
+  {
    "device": "URBAN_1",
    "name": "URBAN 1",
    "model": "URBAN 1"
@@ -32566,6 +32571,11 @@
    "model": "T20"
   },
   {
+   "device": "P3Pro",
+   "name": "T30Pro",
+   "model": "T30Pro"
+  },
+  {
    "device": "T5",
    "name": "T5",
    "model": "T5"
@@ -44419,6 +44429,11 @@
    "device": "cheetah",
    "name": "Pixel 7 Pro",
    "model": "Pixel 7 Pro"
+  },
+  {
+   "device": "lynx",
+   "name": "Pixel 7a",
+   "model": "Pixel 7a"
   },
   {
    "device": "dragon",
@@ -127238,11 +127253,6 @@
    "model": "RMX3261"
   },
   {
-   "device": "RMX3261",
-   "name": "realme C21Y",
-   "model": "RMX3261"
-  },
-  {
    "device": "RMX3262",
    "name": "realme C21Y",
    "model": "RMX3262"
@@ -152111,6 +152121,11 @@
    "model": "J9150"
   },
   {
+   "device": "SO-51D",
+   "name": "Xperia 1 V",
+   "model": "SO-51D"
+  },
+  {
    "device": "I3113",
    "name": "Xperia 10",
    "model": "I3113"
@@ -152234,6 +152249,11 @@
    "device": "I4293",
    "name": "Xperia 10 Plus",
    "model": "I4293"
+  },
+  {
+   "device": "SO-52D",
+   "name": "Xperia 10 V",
+   "model": "SO-52D"
   },
   {
    "device": "901SO",
@@ -173630,6 +173650,11 @@
    "device": "UMIDIGI_G2",
    "name": "G2",
    "model": "MP21"
+  },
+  {
+   "device": "UMIDIGI_G3",
+   "name": "G3",
+   "model": "MP24"
   },
   {
    "device": "G3_Plus",
@@ -200577,6 +200602,11 @@
    "device": "RED8D1",
    "name": "realme C21-Y",
    "model": "RMX3263"
+  },
+  {
+   "device": "RMX3261",
+   "name": "realme C21Y",
+   "model": "RMX3261"
   },
   {
    "device": "RMX3191",

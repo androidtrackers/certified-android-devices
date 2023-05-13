@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-05-12
+Last sync is 2023-05-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -60,6 +60,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ACE France|BUZZ 3 Lite|BUZZ_3_Lite|BUZZ 3 Lite|
 |ACE France|BUZZ_1_Lite|BUZZ_1_Lite|BUZZ 1 Lite|
 |ACE France|BUZZ_1_Plus|BUZZ_1_Plus|BUZZ 1 Plus|
+|ACE France|BUZZ_3E|BUZZ_3E|BUZZ 3|
 |ACE France|URBAN 1|URBAN_1|URBAN 1|
 |ACE France|URBAN 2|URBAN_2|URBAN 2|
 |ACE France|URBAN 3|URBAN_3E|URBAN 3|
@@ -6290,6 +6291,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Doogee|T10|P1_2|T10|
 |Doogee|T20|P2|T20|
 |Doogee|T20|P2_2|T20|
+|Doogee|T30Pro|P3Pro|T30Pro|
 |Doogee|T5|T5|T5|
 |Doogee|T5S|T5S|T5S|
 |Doogee|V MAX|M23H|V Max|
@@ -8549,6 +8551,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel 6a|bluejay|Pixel 6a|
 |Google|Pixel 7|panther|Pixel 7|
 |Google|Pixel 7 Pro|cheetah|Pixel 7 Pro|
+|Google|Pixel 7a|lynx|Pixel 7a|
 |Google|Pixel C|dragon|Pixel C|
 |Google|Pixel Slate|nocturne_cheets|Google Pixel Slate|
 |Google|Pixel Slate|nocturne_cheets|Pixel Slate|
@@ -24744,7 +24747,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme C21|RMX3202|RMX3202|
 |Realme|realme C21|RMX3203L1|RMX3203|
 |Realme|realme C21 Y|RMX3261|RMX3261|
-|Realme|realme C21Y|RMX3261|RMX3261|
 |Realme|realme C21Y|RMX3262|RMX3262|
 |Realme|realme C25Y|RE54D1|RMX3265|
 |Realme|realme C3|RMX2020|RMX2020|
@@ -29639,6 +29641,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 1 IV|XQ-CT62|XQ-CT62|
 |Sony|Xperia 1 IV|XQ-CT72|XQ-CT72|
 |Sony|Xperia 1 Professional Edition|J9150|J9150|
+|Sony|Xperia 1 V|SO-51D|SO-51D|
 |Sony|Xperia 10|I3113|I3113|
 |Sony|Xperia 10|I3123|I3123|
 |Sony|Xperia 10|I4113|I4113|
@@ -29664,6 +29667,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 10 Plus|I3223|I3223|
 |Sony|Xperia 10 Plus|I4213|I4213|
 |Sony|Xperia 10 Plus|I4293|I4293|
+|Sony|Xperia 10 V|SO-52D|SO-52D|
 |Sony|Xperia 5|901SO|901SO|
 |Sony|Xperia 5|J8210|J8210|
 |Sony|Xperia 5|J8270|J8270|
@@ -33834,6 +33838,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|G1 Max EEA|G1_Max|MP18|
 |Umidigi|G1 Max RU|G1_Max|MP18|
 |Umidigi|G2|UMIDIGI_G2|MP21|
+|Umidigi|G3|UMIDIGI_G3|MP24|
 |Umidigi|G3 Plus|G3_Plus|MP25|
 |Umidigi|G3 Plus EEA|G3_Plus|MP25|
 |Umidigi|MT02_EEA|MT02_EEA|AblePad|
@@ -39073,6 +39078,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C20|RMX3063|RMX3063|
 |realme|realme C21 Y|RMX3261|RMX3261|
 |realme|realme C21-Y|RED8D1|RMX3263|
+|realme|realme C21Y|RMX3261|RMX3261|
 |realme|realme C25|RMX3191|RMX3191|
 |realme|realme C25|RMX3193|RMX3193|
 |realme|realme C25Y|RED8F6|RMX3269|

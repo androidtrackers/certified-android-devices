@@ -456,6 +456,11 @@
    "brand": "ACE (Global)",
    "name": "BUZZ 3",
    "device": "BUZZ_3"
+  },
+  {
+   "brand": "ACE France",
+   "name": "BUZZ_3E",
+   "device": "BUZZ_3E"
   }
  ],
  "BUZZ 3 Plus": [
@@ -47716,6 +47721,13 @@
    "device": "T20"
   }
  ],
+ "T30Pro": [
+  {
+   "brand": "Doogee",
+   "name": "T30Pro",
+   "device": "P3Pro"
+  }
+ ],
  "T5S": [
   {
    "brand": "Doogee",
@@ -63623,6 +63635,13 @@
    "brand": "Google",
    "name": "Pixel 7 Pro",
    "device": "cheetah"
+  }
+ ],
+ "Pixel 7a": [
+  {
+   "brand": "Google",
+   "name": "Pixel 7a",
+   "device": "lynx"
   }
  ],
  "Pixel C": [
@@ -169058,13 +169077,13 @@
    "device": "RMX3261"
   },
   {
-   "brand": "Realme",
-   "name": "realme C21Y",
+   "brand": "realme",
+   "name": "realme C21 Y",
    "device": "RMX3261"
   },
   {
    "brand": "realme",
-   "name": "realme C21 Y",
+   "name": "realme C21Y",
    "device": "RMX3261"
   }
  ],
@@ -201929,6 +201948,13 @@
    "device": "J9150"
   }
  ],
+ "SO-51D": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 1 V",
+   "device": "SO-51D"
+  }
+ ],
  "I3113": [
   {
    "brand": "Sony",
@@ -202102,6 +202128,13 @@
    "brand": "Sony",
    "name": "Xperia 10 Plus",
    "device": "I4293"
+  }
+ ],
+ "SO-52D": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 V",
+   "device": "SO-52D"
   }
  ],
  "901SO": [
@@ -228990,6 +229023,13 @@
    "brand": "Umidigi",
    "name": "G2",
    "device": "UMIDIGI_G2"
+  }
+ ],
+ "MP24": [
+  {
+   "brand": "Umidigi",
+   "name": "G3",
+   "device": "UMIDIGI_G3"
   }
  ],
  "MP25": [
