@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-05-14
+Last sync is 2023-05-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3557,6 +3557,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G52L|G0820|G52L|
 |Blu|G52L|G0820WW|G52L|
 |Blu|G52L|G0830WW|G52L|
+|Blu|G53|G0850|G53|
 |Blu|G6|G0210|G6|
 |Blu|G60|G0270WW|G60|
 |Blu|G61|G0450WW|G61|
@@ -18268,13 +18269,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MTC|Olive|shilin|Olive 4K Android TV|
 |MTC|Osmartphona|Osmartphona|Osmartphona|
 |MTC|Osmartphona Tablet|Osmartphona_Tablet|Osmartphona Tablet|
+|MTC|S4000-C0C10|S4000|S4000-C0C10|
 |MTC|SmartEver|seocho|SmartEver 4K Android TV|
 |MTC|SmartEver|shilin|SmartEver4KAndroidTV|
 |MTC|Smart_Light|Smart_Light|Smart_Light|
 |MTC|VINCENT|bruno|VINCENT 2K Android TV|
 |MTC|VINCENT|shilin|VINCENT 4K Android TV|
 |MTC|Vodafone Smart mini|Vodafone_875|MTC 970H|
-|MTC|canada|S4000|S4000-C0C10|
 |MTC|chile|S2000|S2000-Z0C11|
 |MTN Group|5982C3|MTN-TBW5982C3|MTN-TBW5982C3|
 |MTN Group|8978P|MTN-8978P|MTN-8978P|
@@ -30323,6 +30324,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Storex|MDDDI13310|MDDDI13310|FONDATION_ORANGE_2021|
 |Storex|MDDDI13310|MDDDI13310|FONDATION_ORANGE_2023|
 |Storex|MDDDI13311|MDDDI13311|FONDATION_ORANGEH_2021|
+|Storex|MDDDI13311|MDDDI13311|FONDATION_ORANGEH_2023|
 |Storex|eZee'Tab7Q11-M|Tab7Q11|Tab7Q11|
 |Storex|eZeeTab10D12-S|eZeeTab10D12-S|eZeeTab10D12-S|
 |Storex|eZeeTab7D15-M|eZeeTab7D15-M|eZeeTab7D15-M|
@@ -33674,6 +33676,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Note 13P|Note_13P|Note 13P|
 |Ulefone|Note 14|Note_14|Note 14|
 |Ulefone|Note 15|Note_15|Note 15|
+|Ulefone|Note 16 Pro|Note_16_Pro|Note 16 Pro|
 |Ulefone|Note 6|Note_6|Note 6|
 |Ulefone|Note 6P|Note_6P|Note 6P|
 |Ulefone|Note 6T|Note_6T|Note 6T|
@@ -33838,6 +33841,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|G1 Max EEA|G1_Max|MP18|
 |Umidigi|G1 Max RU|G1_Max|MP18|
 |Umidigi|G2|UMIDIGI_G2|MP21|
+|Umidigi|G2 EEA|UMIDIGI_G2|MP21|
 |Umidigi|G3|UMIDIGI_G3|MP24|
 |Umidigi|G3 Plus|G3_Plus|MP25|
 |Umidigi|G3 Plus EEA|G3_Plus|MP25|
@@ -37394,6 +37398,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|OWN FUN 5(4G)|VFD511|ZTE BLADE A321|
 |ZTE|OWN One Plus|ZTE_Blade_V580|OWN One Plus|
 |ZTE|Optimus Barcelona|blade2|Optimus Barcelona|
+|ZTE|Optus X Max|P606F05|Blade A72s|
 |ZTE|Orange Hi 4G|Orange_Hi_4G|Orange Hi 4G|
 |ZTE|Orange Hi 4G|msm8226|Orange Hi 4G|
 |ZTE|Orange Monte Carlo|skate|Orange Monte Carlo|
@@ -38074,6 +38079,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A52RU|P963F61|ZTE Blade A52RU|
 |ZTE|ZTE Blade A52RU|P963F61_A|ZTE Blade A52RU|
 |ZTE|ZTE Blade A53|P963F62|ZTE Blade A53|
+|ZTE|ZTE Blade A53+|P963F62|P630|
 |ZTE|ZTE Blade A53+|P963F62|ZTE Blade A53+|
 |ZTE|ZTE Blade A531|P932F10|ZTE Blade A531|
 |ZTE|ZTE Blade A7 2019|P963F02|ZTE Blade A7 2019|
@@ -39105,6 +39111,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme GT NEO 3T|RE54E4L1|RMX3371|
 |realme|realme GT Neo2 5G|RE879AL1|RMX3370|
 |realme|realme GT Neo2 5G|RE879AL1|RMX3370|
+|realme|realme GT3 240W|REE2B2L1|RMX3709|
 |realme|realme Narzo 30 Pro 5G|RMX2117L1|RMX2117|
 |realme|realme Pad X|RE5496|RMP2108|
 |realme|realme Pad X|RE54F2L1|RMP2107|
@@ -39121,6 +39128,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme V15 5G|RMX3093CN|RMX3093|
 |realme|realme V23|RE5487|RMX3571|
 |realme|realme V25|RE547D|RMX3475|
+|realme|realme V30|RE584B|RMX3618|
 |realme|realme V30|RE584B|RMX3619|
 |realme|realme V5 5G|RMX2111CN|RMX2111|
 |realme|realme V5 5G|RMX2112CN|RMX2112|
@@ -39149,6 +39157,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme  X7 Pro|RMX2121CN|RMX2121|
 |realme|realmeGT Neo5|RE5860|RMX3706|
 |realme|realmeGT Neo5 240W|RE5860|RMX3708|
+|realme|真我 10 Pro|RE5869|RMX3770|
+|realme|真我 11 Pro+|RE5865|RMX3740|
 |realme|真我 GT NEO  3  150W|RE5489|RMX3562|
 |realme|真我 GT NEO 3|RE5489|RMX3560|
 |realme|真我 GT2 大师探索版|RE5465|RMX3551|

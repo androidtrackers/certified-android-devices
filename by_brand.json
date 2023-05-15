@@ -18341,6 +18341,11 @@
    "model": "G52L"
   },
   {
+   "device": "G0850",
+   "name": "G53",
+   "model": "G53"
+  },
+  {
    "device": "G0210",
    "name": "G6",
    "model": "G6"
@@ -93932,6 +93937,11 @@
    "model": "Osmartphona Tablet"
   },
   {
+   "device": "S4000",
+   "name": "S4000-C0C10",
+   "model": "S4000-C0C10"
+  },
+  {
    "device": "seocho",
    "name": "SmartEver",
    "model": "SmartEver 4K Android TV"
@@ -93960,11 +93970,6 @@
    "device": "Vodafone_875",
    "name": "Vodafone Smart mini",
    "model": "MTC 970H"
-  },
-  {
-   "device": "S4000",
-   "name": "canada",
-   "model": "S4000-C0C10"
   },
   {
    "device": "S2000",
@@ -155585,6 +155590,11 @@
    "model": "FONDATION_ORANGEH_2021"
   },
   {
+   "device": "MDDDI13311",
+   "name": "MDDDI13311",
+   "model": "FONDATION_ORANGEH_2023"
+  },
+  {
    "device": "Tab7Q11",
    "name": "eZee'Tab7Q11-M",
    "model": "Tab7Q11"
@@ -172826,6 +172836,11 @@
    "model": "Note 15"
   },
   {
+   "device": "Note_16_Pro",
+   "name": "Note 16 Pro",
+   "model": "Note 16 Pro"
+  },
+  {
    "device": "Note_6",
    "name": "Note 6",
    "model": "Note 6"
@@ -173649,6 +173664,11 @@
   {
    "device": "UMIDIGI_G2",
    "name": "G2",
+   "model": "MP21"
+  },
+  {
+   "device": "UMIDIGI_G2",
+   "name": "G2 EEA",
    "model": "MP21"
   },
   {
@@ -191920,6 +191940,11 @@
    "model": "Optimus Barcelona"
   },
   {
+   "device": "P606F05",
+   "name": "Optus X Max",
+   "model": "Blade A72s"
+  },
+  {
    "device": "Orange_Hi_4G",
    "name": "Orange Hi 4G",
    "model": "Orange Hi 4G"
@@ -195318,6 +195343,11 @@
    "device": "P963F62",
    "name": "ZTE Blade A53",
    "model": "ZTE Blade A53"
+  },
+  {
+   "device": "P963F62",
+   "name": "ZTE Blade A53+",
+   "model": "P630"
   },
   {
    "device": "P963F62",
@@ -200739,6 +200769,11 @@
    "model": "RMX3370"
   },
   {
+   "device": "REE2B2L1",
+   "name": "realme GT3 240W",
+   "model": "RMX3709"
+  },
+  {
    "device": "RMX2117L1",
    "name": "realme Narzo 30 Pro 5G",
    "model": "RMX2117"
@@ -200817,6 +200852,11 @@
    "device": "RE547D",
    "name": "realme V25",
    "model": "RMX3475"
+  },
+  {
+   "device": "RE584B",
+   "name": "realme V30",
+   "model": "RMX3618"
   },
   {
    "device": "RE584B",
@@ -200957,6 +200997,16 @@
    "device": "RE5860",
    "name": "realmeGT Neo5 240W",
    "model": "RMX3708"
+  },
+  {
+   "device": "RE5869",
+   "name": "真我 10 Pro",
+   "model": "RMX3770"
+  },
+  {
+   "device": "RE5865",
+   "name": "真我 11 Pro+",
+   "model": "RMX3740"
   },
   {
    "device": "RE5489",

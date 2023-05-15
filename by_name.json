@@ -34042,6 +34042,13 @@
    "model": "G52L"
   }
  ],
+ "G53": [
+  {
+   "brand": "Blu",
+   "device": "G0850",
+   "model": "G53"
+  }
+ ],
  "G6": [
   {
    "brand": "Blu",
@@ -126714,6 +126721,13 @@
    "model": "Osmartphona Tablet"
   }
  ],
+ "S4000-C0C10": [
+  {
+   "brand": "MTC",
+   "device": "S4000",
+   "model": "S4000-C0C10"
+  }
+ ],
  "SmartEver": [
   {
    "brand": "MTC",
@@ -126755,13 +126769,6 @@
    "brand": "Vodafone",
    "device": "Vodafone_875",
    "model": "Vodafone 875"
-  }
- ],
- "canada": [
-  {
-   "brand": "MTC",
-   "device": "S4000",
-   "model": "S4000-C0C10"
   }
  ],
  "chile": [
@@ -198249,6 +198256,11 @@
    "brand": "Storex",
    "device": "MDDDI13311",
    "model": "FONDATION_ORANGEH_2021"
+  },
+  {
+   "brand": "Storex",
+   "device": "MDDDI13311",
+   "model": "FONDATION_ORANGEH_2023"
   }
  ],
  "eZee'Tab7Q11-M": [
@@ -217509,6 +217521,13 @@
    "model": "Note 15"
   }
  ],
+ "Note 16 Pro": [
+  {
+   "brand": "Ulefone",
+   "device": "Note_16_Pro",
+   "model": "Note 16 Pro"
+  }
+ ],
  "Note 6P": [
   {
    "brand": "Ulefone",
@@ -218482,6 +218501,13 @@
    "brand": "Umidigi",
    "device": "G1_Max",
    "model": "MP18"
+  }
+ ],
+ "G2 EEA": [
+  {
+   "brand": "Umidigi",
+   "device": "UMIDIGI_G2",
+   "model": "MP21"
   }
  ],
  "G3 Plus": [
@@ -238780,6 +238806,13 @@
    "model": "Optimus Barcelona"
   }
  ],
+ "Optus X Max": [
+  {
+   "brand": "ZTE",
+   "device": "P606F05",
+   "model": "Blade A72s"
+  }
+ ],
  "Orange Hi 4G": [
   {
    "brand": "ZTE",
@@ -242862,6 +242895,11 @@
   }
  ],
  "ZTE Blade A53+": [
+  {
+   "brand": "ZTE",
+   "device": "P963F62",
+   "model": "P630"
+  },
   {
    "brand": "ZTE",
    "device": "P963F62",
@@ -249024,6 +249062,13 @@
    "model": "RMX3371"
   }
  ],
+ "realme GT3 240W": [
+  {
+   "brand": "realme",
+   "device": "REE2B2L1",
+   "model": "RMX3709"
+  }
+ ],
  "realme Narzo 30 Pro 5G": [
   {
    "brand": "realme",
@@ -249129,6 +249174,11 @@
   }
  ],
  "realme V30": [
+  {
+   "brand": "realme",
+   "device": "RE584B",
+   "model": "RMX3618"
+  },
   {
    "brand": "realme",
    "device": "RE584B",
@@ -249262,6 +249312,20 @@
    "brand": "realme",
    "device": "RE5860",
    "model": "RMX3708"
+  }
+ ],
+ "真我 10 Pro": [
+  {
+   "brand": "realme",
+   "device": "RE5869",
+   "model": "RMX3770"
+  }
+ ],
+ "真我 11 Pro+": [
+  {
+   "brand": "realme",
+   "device": "RE5865",
+   "model": "RMX3740"
   }
  ],
  "真我 GT NEO  3  150W": [
