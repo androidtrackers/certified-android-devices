@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-05-15
+Last sync is 2023-05-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8721,6 +8721,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HKC Elec|Smart TV|mateo|2K PA Smart TV|
 |HKC Elec|Smart TV|mateo|2K US Smart TV|
 |HKC Elec|Smart TV|mateo|HKC 2K SA Smart TV|
+|HKC Elec|Smart TV|pioneer|4K PA Smart TV|
 |HKT|eye3|UY3-PCW|eye3|
 |HMR NETWORKS|HMR NETWORKS (PTY) LTD|HMR5012|HMR5012|
 |HOLO|USA|VE1983|VE1983|
