@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-05-17
+Last sync is 2023-05-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -725,6 +725,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Advantage Air|PIC7GS10-A|PIC7GS10-A|PIC7GS10-A|
 |Advantage Air|PIC7GS8|PIC7GS8|PIC7GS8|
 |Advantage Air|PIC8GS10|PIC8GS10|PIC8GS10|
+|Advantage Air|PIC8GS12|PIC8GS12|PIC8GS12|
 |Advantage Air|PIC8GS8|PIC8GS8|PIC8GS8|
 |Advantech|AIM75-LTE|AIM75-LTE|AIM75-LTE|
 |Advantech|AIM75-WIFI|AIM75-WIFI|AIM75-WIFI|
@@ -7243,6 +7244,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FACETEL|Q3_EEA|Q3_EEA|Q3_EEA|
 |FACETEL|Q3pro|Q3pro|Q3pro|
 |FACETEL|Q3pro_eea|Q3pro_eea|Q3pro_eea|
+|FACETEL|Q5_EEA|Q5_EEA|3W_EEA|
 |FACILOTAB|Facilotab_L_Rubis|Facilotab_L_Rubis|Facilotab L Rubis|
 |FAMIX|F10L|F10L|F10L|
 |FAMIX|F11|F11|F11|
@@ -8602,6 +8604,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Greatwall|W710|W710|W710|
 |Green House|4K Smart TV|pioneer|4K SA Smart TV|
 |Green House|GREEN HOUSE TV|SW6H|GREEN HOUSE TV|
+|Green House|Smart TV|mateo|2K SA Smart TV|
 |Greentel|A10_premium|A10_premium|A10_premium|
 |Greentel|A8|A8|A8|
 |Greentel|A9|A9|A9|
@@ -14371,8 +14374,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|VIZZION|stanford|F VIZZION TV|
 |KTCtv|VON|stanford|2K SMART TV|
 |KTCtv|VON|zhongshan|4K SMART TV|
-|KTCtv|XITRIX|stanford|SMART TV|
-|KTCtv|XITRIX|zhongshan|4K SMART TV|
 |KTCtv|Zitro|stanford|40DSA|
 |KTCtv|Zitro|zhongshan|43FSA|
 |KTS (JP)|IPN99_RTD1319_TOA|TMS-KR01P|TMS-KR01P|
@@ -22590,6 +22591,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PATTERS|P9|P9|P9|
 |PAWBO|Tab-T13|Tab-T13|Tab-T13|
 |PAWBO|Tab-T8|Tab-T8|Tab-T8|
+|PAWBO|Tab_M12|Tab_M12|Tab M12|
 |PAX (CN)|A50|A50|A50|
 |PAX (CN)|A650|A650|A650|
 |PAX (CN)|A6650|A6650|A6650|
@@ -23163,6 +23165,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philco|Philco|stanford|PHILCO SMART|
 |Philco|Philco Smart TV|sunnyvale|Philco Smart TV|
 |Philco|PhilcoTV|shinjuku|PhilcoTV|
+|Philco|TP10A332|TP10A332|TP10A332|
 |Philco|TP10A3N|TP10A3N|TP10A3N|
 |Philco|TP10F|TP10F|TP10F|
 |Philco|TP7A4BB|TP7A4BB|TP7A4BB|
@@ -24641,6 +24644,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|XLD Series|XLDRCAV1|XLDRCAV1|
 |RDP(in)|TP802|TP802|TP802|
 |REACH|Q882|Q882|Q882|
+|REBEOSOII|C11|C11|C11|
 |RECCO|Android TV|R1|ATV R1|
 |RECCO|Android TV|R2|ATV R2|
 |RED|HydrogenONE|HydrogenONE|H1A1000|
@@ -24749,8 +24753,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Realme|realme C21|RMX3202|RMX3202|
 |Realme|realme C21|RMX3203L1|RMX3203|
 |Realme|realme C21 Y|RMX3261|RMX3261|
-|Realme|realme C21Y|RMX3262|RMX3262|
-|Realme|realme C25Y|RE54D1|RMX3265|
 |Realme|realme C3|RMX2020|RMX2020|
 |Realme|realme C3|RMX2021|RMX2021|
 |Realme|realme C3|RMX2022|RMX2022|
@@ -25234,6 +25236,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SARL WISE TECHNOLOGIE|P1_Plus|P1_Plus|P1+|
 |SARL WISE TECHNOLOGIE|Wise_Tab|Wise_Tab|Wise_Tab|
 |SARL WISE TECHNOLOGIE|Wise_Tech_Wifi|Wise_Tech_Wifi|Wise Tech Wifi|
+|SATCO|SATCO_Y-20|Y-20|Y-20|
 |SAWINK|T10|T10|T10|
 |SBET|X7|X7|X7|
 |SCHNEIDER|Android TV|R1|ATV R1|
@@ -28917,6 +28920,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|Europe|guandu|SHARP 4K EU Android TV|
 |Sharp|Europe|martin|SHARP 2K EU Android TV|
 |Sharp|FS8014|SE3|FS8014|
+|Sharp|FV1|sandiego|AQUOS-TVX23A|
 |Sharp|GALAPAGOS SoftBank 003SH|SBM003SH|SBM003SH|
 |Sharp|GALAPAGOS SoftBank 005SH|SBM005SH|SBM005SH|
 |Sharp|HC-16TT1|HCTT1|HCTT1|
@@ -29359,6 +29363,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|Platinum View2_Plus|PLATINUM_VIEW2_PLUS|Platinum View2|
 |Sky Devices|Platinum_H5|Platinum_H5_PLUS|Platinum H5|
 |Sky Devices|Platinum_J5|Platinum_J5|Platinum J5|
+|Sky Devices|Platinum_J5US|Platinum_J5US|Platinum J5|
 |Sky Devices|Platinum_K5|Platinum_K5|Platinum K5|
 |Sky Devices|Platinum_P4|Platinum_P4|Platinum_P4|
 |Sky Devices|Platinum_UNO|Platinum_UNO|Platinum_UNO|
@@ -33844,6 +33849,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|G2|UMIDIGI_G2|MP21|
 |Umidigi|G2 EEA|UMIDIGI_G2|MP21|
 |Umidigi|G3|UMIDIGI_G3|MP24|
+|Umidigi|G3 EEA|UMIDIGI_G3|MP24|
 |Umidigi|G3 Plus|G3_Plus|MP25|
 |Umidigi|G3 Plus EEA|G3_Plus|MP25|
 |Umidigi|MT02_EEA|MT02_EEA|AblePad|
@@ -33877,6 +33883,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|UMIDIGI C1|UMIDIGI_C1|MP07|
 |Umidigi|UMIDIGI C1 EEA|UMIDIGI_C1|MP07|
 |Umidigi|UMIDIGI C2|UMIDIGI_C2|MP20|
+|Umidigi|UMIDIGI C2 EEA|UMIDIGI_C2|MP20|
 |Umidigi|UMIDIGI F3 Pro|UMIDIGI_F3_Pro|MP10|
 |Umidigi|UMIDIGI F3 Pro EEA|UMIDIGI_F3_Pro|MP10|
 |Umidigi|UMIDIGI G1|UMIDIGI_G1|MP08|
@@ -36339,6 +36346,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi pad 6 Pro|liuqin|23046RP50C|
 |Xiaomi|小米手表|baiji|Mi Watch|
 |Xinlian|HC750|HC750|HC750|
+|Xitrix|XITRIX|stanford|SMART TV|
+|Xitrix|XITRIX|zhongshan|4K SMART TV|
 |Xmobile|X1|X1|X1|
 |Xmobile|X10|XMOBILE|X10|
 |Xmobile|X3|Xmobile_X3|X3|
@@ -37901,6 +37910,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE 2050|P671F50_D|ZTE 2050|
 |ZTE|ZTE 2050|P671S50|ZTE 2050|
 |ZTE|ZTE 2050RU|P671F50_D|ZTE 2050RU|
+|ZTE|ZTE 7160N|P720F02|ZTE 7160N|
 |ZTE|ZTE 7530N|P633S07|ZTE 7530N|
 |ZTE|ZTE 7531N|P720S07|ZTE 7531N|
 |ZTE|ZTE 7532N|P633S08|ZTE 7532N|
@@ -38080,8 +38090,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A52RU|P963F61|ZTE Blade A52RU|
 |ZTE|ZTE Blade A52RU|P963F61_A|ZTE Blade A52RU|
 |ZTE|ZTE Blade A53|P963F62|ZTE Blade A53|
+|ZTE|ZTE Blade A53 Pro|P963F63|ZTE Blade A53 Pro|
 |ZTE|ZTE Blade A53+|P963F62|P630|
 |ZTE|ZTE Blade A53+|P963F62|ZTE Blade A53+|
+|ZTE|ZTE Blade A53+|P963F62_A|ZTE Blade A53+|
 |ZTE|ZTE Blade A531|P932F10|ZTE Blade A531|
 |ZTE|ZTE Blade A7 2019|P963F02|ZTE Blade A7 2019|
 |ZTE|ZTE Blade A7 2019RU|P963F02|ZTE Blade A7 2019RU|
@@ -39086,8 +39098,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C21 Y|RMX3261|RMX3261|
 |realme|realme C21-Y|RED8D1|RMX3263|
 |realme|realme C21Y|RMX3261|RMX3261|
+|realme|realme C21Y|RMX3262|RMX3262|
 |realme|realme C25|RMX3191|RMX3191|
 |realme|realme C25|RMX3193|RMX3193|
+|realme|realme C25Y|RE54D1|RMX3265|
 |realme|realme C25Y|RED8F6|RMX3269|
 |realme|realme C25s|RMX3195|RMX3195|
 |realme|realme C25s|RMX3197|RMX3197|

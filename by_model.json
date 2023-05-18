@@ -6499,11 +6499,6 @@
    "device": "zhongshan"
   },
   {
-   "brand": "KTCtv",
-   "name": "XITRIX",
-   "device": "zhongshan"
-  },
-  {
    "brand": "LUCOMS",
    "name": "LUCOMS",
    "device": "zhongshan"
@@ -6551,6 +6546,11 @@
   {
    "brand": "Vivax",
    "name": "VIVAX",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Xitrix",
+   "name": "XITRIX",
    "device": "zhongshan"
   }
  ],
@@ -7598,6 +7598,13 @@
    "device": "PIC8GS10"
   }
  ],
+ "PIC8GS12": [
+  {
+   "brand": "Advantage Air",
+   "name": "PIC8GS12",
+   "device": "PIC8GS12"
+  }
+ ],
  "PIC8GS8": [
   {
    "brand": "Advantage Air",
@@ -8046,11 +8053,6 @@
    "device": "stanford"
   },
   {
-   "brand": "KTCtv",
-   "name": "XITRIX",
-   "device": "stanford"
-  },
-  {
    "brand": "Siragon",
    "name": "SA",
    "device": "zhongshan"
@@ -8058,6 +8060,11 @@
   {
    "brand": "Siragon",
    "name": "SIRAGON",
+   "device": "stanford"
+  },
+  {
+   "brand": "Xitrix",
+   "name": "XITRIX",
    "device": "stanford"
   }
  ],
@@ -43390,6 +43397,11 @@
    "device": "mateo"
   },
   {
+   "brand": "Green House",
+   "name": "Smart TV",
+   "device": "mateo"
+  },
+  {
    "brand": "JVC",
    "name": "Smart TV",
    "device": "mateo"
@@ -54320,6 +54332,18 @@
    "brand": "FACETEL",
    "name": "Q3pro_eea",
    "device": "Q3pro_eea"
+  }
+ ],
+ "3W_EEA": [
+  {
+   "brand": "FACETEL",
+   "name": "Q5_EEA",
+   "device": "Q5_EEA"
+  },
+  {
+   "brand": "WOZIFAN",
+   "name": "3W_EEA",
+   "device": "W3_EEA"
   }
  ],
  "Facilotab L Rubis": [
@@ -154335,6 +154359,11 @@
    "brand": "Oukitel",
    "name": "C11",
    "device": "C11"
+  },
+  {
+   "brand": "REBEOSOII",
+   "name": "C11",
+   "device": "C11"
   }
  ],
  "C11_Pro": [
@@ -155158,6 +155187,13 @@
    "brand": "PAWBO",
    "name": "Tab-T8",
    "device": "Tab-T8"
+  }
+ ],
+ "Tab M12": [
+  {
+   "brand": "PAWBO",
+   "name": "Tab_M12",
+   "device": "Tab_M12"
   }
  ],
  "A650": [
@@ -158797,6 +158833,13 @@
    "brand": "Philco",
    "name": "PhilcoTV",
    "device": "shinjuku"
+  }
+ ],
+ "TP10A332": [
+  {
+   "brand": "Philco",
+   "name": "TP10A332",
+   "device": "TP10A332"
   }
  ],
  "TP10A3N": [
@@ -169099,20 +169142,6 @@
    "device": "RMX3261"
   }
  ],
- "RMX3262": [
-  {
-   "brand": "Realme",
-   "name": "realme C21Y",
-   "device": "RMX3262"
-  }
- ],
- "RMX3265": [
-  {
-   "brand": "Realme",
-   "name": "realme C25Y",
-   "device": "RE54D1"
-  }
- ],
  "RMX2021": [
   {
    "brand": "Realme",
@@ -172197,6 +172226,13 @@
    "brand": "SARL WISE TECHNOLOGIE",
    "name": "Wise_Tech_Wifi",
    "device": "Wise_Tech_Wifi"
+  }
+ ],
+ "Y-20": [
+  {
+   "brand": "SATCO",
+   "name": "SATCO_Y-20",
+   "device": "Y-20"
   }
  ],
  "Schneider 2K Android TV": [
@@ -197313,6 +197349,13 @@
    "device": "SE3_VN"
   }
  ],
+ "AQUOS-TVX23A": [
+  {
+   "brand": "Sharp",
+   "name": "FV1",
+   "device": "sandiego"
+  }
+ ],
  "SBM003SH": [
   {
    "brand": "Sharp",
@@ -200072,6 +200115,11 @@
    "brand": "Sky Devices",
    "name": "Platinum_J5",
    "device": "Platinum_J5"
+  },
+  {
+   "brand": "Sky Devices",
+   "name": "Platinum_J5US",
+   "device": "Platinum_J5US"
   }
  ],
  "Platinum K5": [
@@ -229061,6 +229109,11 @@
    "brand": "Umidigi",
    "name": "G3",
    "device": "UMIDIGI_G3"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "G3 EEA",
+   "device": "UMIDIGI_G3"
   }
  ],
  "MP25": [
@@ -229219,6 +229272,11 @@
   {
    "brand": "Umidigi",
    "name": "UMIDIGI C2",
+   "device": "UMIDIGI_C2"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI C2 EEA",
    "device": "UMIDIGI_C2"
   }
  ],
@@ -238913,13 +238971,6 @@
    "brand": "WOM",
    "name": "WOM",
    "device": "SEI500W"
-  }
- ],
- "3W_EEA": [
-  {
-   "brand": "WOZIFAN",
-   "name": "3W_EEA",
-   "device": "W3_EEA"
   }
  ],
  "3W_US": [
@@ -255179,6 +255230,13 @@
    "device": "P671F50_D"
   }
  ],
+ "ZTE 7160N": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE 7160N",
+   "device": "P720F02"
+  }
+ ],
  "ZTE 7530N": [
   {
    "brand": "ZTE",
@@ -256203,6 +256261,13 @@
    "device": "P963F62"
   }
  ],
+ "ZTE Blade A53 Pro": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A53 Pro",
+   "device": "P963F63"
+  }
+ ],
  "P630": [
   {
    "brand": "ZTE",
@@ -256215,6 +256280,11 @@
    "brand": "ZTE",
    "name": "ZTE Blade A53+",
    "device": "P963F62"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A53+",
+   "device": "P963F62_A"
   }
  ],
  "ZTE Blade A531": [
@@ -262111,6 +262181,13 @@
    "device": "RED8D1"
   }
  ],
+ "RMX3262": [
+  {
+   "brand": "realme",
+   "name": "realme C21Y",
+   "device": "RMX3262"
+  }
+ ],
  "RMX3191": [
   {
    "brand": "realme",
@@ -262123,6 +262200,13 @@
    "brand": "realme",
    "name": "realme C25",
    "device": "RMX3193"
+  }
+ ],
+ "RMX3265": [
+  {
+   "brand": "realme",
+   "name": "realme C25Y",
+   "device": "RE54D1"
   }
  ],
  "RMX3269": [
