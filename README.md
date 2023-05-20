@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-05-19
+Last sync is 2023-05-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1866,10 +1866,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ROG Phone 6D Ultimate|ASUS_AI2203|ASUS_AI2203_D|
 |Asus|ROG Phone 7 (AI2205)|ASUS_AI2205|ASUS_AI2205_A|
 |Asus|ROG Phone 7 (AI2205)|ASUS_AI2205|ASUS_AI2205_C|
-|Asus|ROG Phone ll|ASUS_I001_1|ASUS_I001D|
-|Asus|ROG Phone ll|ASUS_I001_1|ASUS_I001DC|
-|Asus|ROG Phone ll|ASUS_I001_1|ASUS_I001DE|
-|Asus|ROG Phone ll|ASUS_I001_1|ZS660KL|
+|Asus|ROG Phone II|ASUS_I001_1|ASUS_I001D|
+|Asus|ROG Phone II|ASUS_I001_1|ASUS_I001DC|
+|Asus|ROG Phone II|ASUS_I001_1|ASUS_I001DE|
+|Asus|ROG Phone II|ASUS_I001_1|ZS660KL|
 |Asus|RTC-700A|RTC-tablet|RTC-tablet|
 |Asus|Smartphone for Snapdragon Insiders|ASUS_I007_1|ASUS_I007D|
 |Asus|T101TA|T10xTA|T10xTA|
@@ -9227,6 +9227,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HTC|HTC Desire 22 5G|htc_botdugls|2QBK100|
 |HTC|HTC Desire 22 5G|htc_botdugls|2QBK10000|
 |HTC|HTC Desire 22 5G|htc_botdugls|HTC Desire 22 pro|
+|HTC|HTC Desire 23 Pro|htc_soodugls|2QC9100|
+|HTC|HTC Desire 23 Pro|htc_soodugls|HTC U23 pro|
 |HTC|HTC Desire 610|htc_a3ul|HTC Desire 610|
 |HTC|HTC Desire 628 dual sim|htc_v36bml_dugl|HTC 2PVG2|
 |HTC|HTC Desire 628 dual sim|htc_v36bml_dugl|HTC Desire 628 dual sim|
@@ -10569,6 +10571,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|U988E-2|U988E_2|HS-U988|
 |Hisense|U989|HS6580MT|Hisense U989|
 |Hisense|U989 Pro|HS6580MT|Hisense U989 Pro|
+|Hisense|ULED|hengshan|SmartTV 4K FFM|
 |Hisense|ULED|wuyishan|SmartTV 4K FFM|
 |Hisense|VH777|VH777|VH777|
 |Hisense|VIDAA_TV|Hi3751|VIDAA_TV|
@@ -10816,13 +10819,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honeywell|Thor VM1A|VM1A-L0-P|VM1A|
 |Honeywell|Thor VM3A|VM3A-L0-N|VM3A|
 |Honeywell|Thor VM3A|VM3A-L0-P|VM3A|
-|Honor|FRI|HNFRI|FRI-NX9|
 |Honor|HONOR 50|HNNTH|NTH-NX9|
 |Honor|HONOR 50 Lite|HNNTN|NTN-L22|
 |Honor|HONOR 50 Lite|HNNTN|NTN-LX1|
 |Honor|HONOR 50 Lite|HNNTN|NTN-LX3|
 |Honor|HONOR 70|HNFNE|FNE-NX9|
 |Honor|HONOR 70 Lite|HNRBN-Q|RBN-NX1|
+|Honor|HONOR Magic Vs|HNFRI|FRI-NX9|
 |Honor|HONOR Magic4 Lite|HNANY-Q1|ANY-LX1|
 |Honor|HONOR Magic4 Lite 5G|HNANY-Q|ANY-NX1|
 |Honor|HONOR Magic4 Pro|HNLGE|LGE-NX9|
@@ -20035,6 +20038,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g stylus (2021)|minsk|moto g stylus (XT2115DL)|
 |Motorola|moto g stylus (2022)|milan|moto g stylus (2022)|
 |Motorola|moto g stylus (2022)|milan|motorola|
+|Motorola|moto g stylus (2023)|gnevan|moto g 5G (2022)|
+|Motorola|moto g stylus (2023)|gnevan|moto g stylus (2023)|
 |Motorola|moto g stylus 5G|denver|moto g stylus (2021)|
 |Motorola|moto g stylus 5G|denver|moto g stylus 5G|
 |Motorola|moto g stylus 5G (2022)|milanf|moto g stylus 5G (2022)|
@@ -23614,6 +23619,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|T810|T810|T810|
 |Positivo|T810|T810|Tab Q8 Lite|
 |Positivo|T810C|T810C|T810|
+|Positivo|TL10|TL10|Vaio TL10|
 |Positivo|Tab Q10|T2050M|Tab Q10|
 |Positivo|Twist|S520|Positivo Twist M|
 |Positivo|Twist|S520|Positivo Twist S|
@@ -25052,6 +25058,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reeder|S19 Max|S19_Max|S19 Max|
 |Reeder|S19 Max 64GB|S19_Max_64GB|S19 Max 64GB|
 |Reeder|S19 Max Pro|S19_Max_Pro|S19 Max Pro|
+|Reeder|S23 Pro Max|S23_Pro_Max|S23 Pro Max|
 |Reeder|T8|reeder_T8|reeder_T8|
 |Reeder|Turkcell_T_Tablet|Turkcell_T_Tablet|Turkcell_T_Tablet|
 |Reeder|reeder M10 Plus|reeder_M10_Plus|reeder_M10 Plus|
@@ -35008,6 +35015,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Neo7|PD2231|V2231A|
 |Vivo|iQOO Neo7 SE|PD2238|V2238A|
 |Vivo|iQOO Neo7 竞速版|PD2232|V2232A|
+|Vivo|iQOO Neo8|PD2301|V2301A|
 |Vivo|iQOO Neo8 Pro|PD2302|V2302A|
 |Vivo|iQOO Z5|2018|I2018|
 |Vivo|iQOO Z5 6000mAh|PD2188|V2188A|
@@ -35121,6 +35129,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo X90|PD2241|V2241A|
 |Vivo|vivo X90 Pro|PD2242|V2242A|
 |Vivo|vivo X90 Pro+|PD2227|V2227A|
+|Vivo|vivo X90s|PD2241|V2241HA|
 |Vivo|vivo X9Plus|PD1619|vivo X9Plus|
 |Vivo|vivo X9s|PD1616B|vivo PD1616B|
 |Vivo|vivo X9s|PD1616B|vivo X9s|

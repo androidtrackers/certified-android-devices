@@ -21560,7 +21560,7 @@
    "model": "ASUS_AI2205_C"
   }
  ],
- "ROG Phone ll": [
+ "ROG Phone II": [
   {
    "brand": "Asus",
    "device": "ASUS_I001_1",
@@ -74713,6 +74713,18 @@
    "model": "HTC Desire 22 pro"
   }
  ],
+ "HTC Desire 23 Pro": [
+  {
+   "brand": "HTC",
+   "device": "htc_soodugls",
+   "model": "2QC9100"
+  },
+  {
+   "brand": "HTC",
+   "device": "htc_soodugls",
+   "model": "HTC U23 pro"
+  }
+ ],
  "HTC Desire 610": [
   {
    "brand": "HTC",
@@ -82954,6 +82966,11 @@
  "ULED": [
   {
    "brand": "Hisense",
+   "device": "hengshan",
+   "model": "SmartTV 4K FFM"
+  },
+  {
+   "brand": "Hisense",
    "device": "wuyishan",
    "model": "SmartTV 4K FFM"
   },
@@ -84380,13 +84397,6 @@
    "model": "VM3A"
   }
  ],
- "FRI": [
-  {
-   "brand": "Honor",
-   "device": "HNFRI",
-   "model": "FRI-NX9"
-  }
- ],
  "HONOR 50": [
   {
    "brand": "Honor",
@@ -84423,6 +84433,13 @@
    "brand": "Honor",
    "device": "HNRBN-Q",
    "model": "RBN-NX1"
+  }
+ ],
+ "HONOR Magic Vs": [
+  {
+   "brand": "Honor",
+   "device": "HNFRI",
+   "model": "FRI-NX9"
   }
  ],
  "HONOR Magic4 Lite": [
@@ -137102,6 +137119,18 @@
    "model": "motorola"
   }
  ],
+ "moto g stylus (2023)": [
+  {
+   "brand": "Motorola",
+   "device": "gnevan",
+   "model": "moto g 5G (2022)"
+  },
+  {
+   "brand": "Motorola",
+   "device": "gnevan",
+   "model": "moto g stylus (2023)"
+  }
+ ],
  "moto g stylus 5G": [
   {
    "brand": "Motorola",
@@ -158996,6 +159025,13 @@
    "model": "T810"
   }
  ],
+ "TL10": [
+  {
+   "brand": "Positivo",
+   "device": "TL10",
+   "model": "Vaio TL10"
+  }
+ ],
  "Tab Q10": [
   {
    "brand": "Positivo",
@@ -168146,6 +168182,13 @@
    "brand": "Reeder",
    "device": "S19_Max_Pro",
    "model": "S19 Max Pro"
+  }
+ ],
+ "S23 Pro Max": [
+  {
+   "brand": "Reeder",
+   "device": "S23_Pro_Max",
+   "model": "S23 Pro Max"
   }
  ],
  "Turkcell_T_Tablet": [
@@ -225690,6 +225733,13 @@
    "model": "V2232A"
   }
  ],
+ "iQOO Neo8": [
+  {
+   "brand": "Vivo",
+   "device": "PD2301",
+   "model": "V2301A"
+  }
+ ],
  "iQOO Neo8 Pro": [
   {
    "brand": "Vivo",
@@ -226453,6 +226503,13 @@
    "brand": "Vivo",
    "device": "PD2227",
    "model": "V2227A"
+  }
+ ],
+ "vivo X90s": [
+  {
+   "brand": "Vivo",
+   "device": "PD2241",
+   "model": "V2241HA"
   }
  ],
  "vivo X9Plus": [

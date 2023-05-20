@@ -19433,22 +19433,22 @@
  "ASUS_I001_1": [
   {
    "brand": "Asus",
-   "name": "ROG Phone ll",
+   "name": "ROG Phone II",
    "model": "ASUS_I001D"
   },
   {
    "brand": "Asus",
-   "name": "ROG Phone ll",
+   "name": "ROG Phone II",
    "model": "ASUS_I001DC"
   },
   {
    "brand": "Asus",
-   "name": "ROG Phone ll",
+   "name": "ROG Phone II",
    "model": "ASUS_I001DE"
   },
   {
    "brand": "Asus",
-   "name": "ROG Phone ll",
+   "name": "ROG Phone II",
    "model": "ZS660KL"
   }
  ],
@@ -71129,6 +71129,18 @@
    "model": "HTC Desire 22 pro"
   }
  ],
+ "htc_soodugls": [
+  {
+   "brand": "HTC",
+   "name": "HTC Desire 23 Pro",
+   "model": "2QC9100"
+  },
+  {
+   "brand": "HTC",
+   "name": "HTC Desire 23 Pro",
+   "model": "HTC U23 pro"
+  }
+ ],
  "htc_bre2pdugl": [
   {
    "brand": "HTC",
@@ -78599,6 +78611,13 @@
    "model": "HS-U988"
   }
  ],
+ "hengshan": [
+  {
+   "brand": "Hisense",
+   "name": "ULED",
+   "model": "SmartTV 4K FFM"
+  }
+ ],
  "VH777": [
   {
    "brand": "Hisense",
@@ -80015,13 +80034,6 @@
    "model": "VM3A"
   }
  ],
- "HNFRI": [
-  {
-   "brand": "Honor",
-   "name": "FRI",
-   "model": "FRI-NX9"
-  }
- ],
  "HNNTH": [
   {
    "brand": "Honor",
@@ -80068,6 +80080,13 @@
    "brand": "Honor",
    "name": "RBN-NX1",
    "model": "RBN-NX1"
+  }
+ ],
+ "HNFRI": [
+  {
+   "brand": "Honor",
+   "name": "HONOR Magic Vs",
+   "model": "FRI-NX9"
   }
  ],
  "HNANY-Q1": [
@@ -136845,6 +136864,18 @@
    "model": "motorola"
   }
  ],
+ "gnevan": [
+  {
+   "brand": "Motorola",
+   "name": "moto g stylus (2023)",
+   "model": "moto g 5G (2022)"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g stylus (2023)",
+   "model": "moto g stylus (2023)"
+  }
+ ],
  "denver": [
   {
    "brand": "Motorola",
@@ -159021,6 +159052,13 @@
    "model": "T810"
   }
  ],
+ "TL10": [
+  {
+   "brand": "Positivo",
+   "name": "TL10",
+   "model": "Vaio TL10"
+  }
+ ],
  "T2050M": [
   {
    "brand": "Positivo",
@@ -167690,6 +167728,13 @@
    "brand": "Reeder",
    "name": "S19 Max Pro",
    "model": "S19 Max Pro"
+  }
+ ],
+ "S23_Pro_Max": [
+  {
+   "brand": "Reeder",
+   "name": "S23 Pro Max",
+   "model": "S23 Pro Max"
   }
  ],
  "reeder_T8": [
@@ -227662,6 +227707,13 @@
    "model": "V2232A"
   }
  ],
+ "PD2301": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Neo8",
+   "model": "V2301A"
+  }
+ ],
  "PD2302": [
   {
    "brand": "Vivo",
@@ -228337,6 +228389,11 @@
    "brand": "Vivo",
    "name": "vivo X90",
    "model": "V2241A"
+  },
+  {
+   "brand": "Vivo",
+   "name": "vivo X90s",
+   "model": "V2241HA"
   }
  ],
  "PD2242": [

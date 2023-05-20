@@ -16178,28 +16178,28 @@
  "ASUS_I001D": [
   {
    "brand": "Asus",
-   "name": "ROG Phone ll",
+   "name": "ROG Phone II",
    "device": "ASUS_I001_1"
   }
  ],
  "ASUS_I001DC": [
   {
    "brand": "Asus",
-   "name": "ROG Phone ll",
+   "name": "ROG Phone II",
    "device": "ASUS_I001_1"
   }
  ],
  "ASUS_I001DE": [
   {
    "brand": "Asus",
-   "name": "ROG Phone ll",
+   "name": "ROG Phone II",
    "device": "ASUS_I001_1"
   }
  ],
  "ZS660KL": [
   {
    "brand": "Asus",
-   "name": "ROG Phone ll",
+   "name": "ROG Phone II",
    "device": "ASUS_I001_1"
   }
  ],
@@ -61140,6 +61140,11 @@
   {
    "brand": "Hisense",
    "name": "ULED",
+   "device": "hengshan"
+  },
+  {
+   "brand": "Hisense",
+   "name": "ULED",
    "device": "wuyishan"
   },
   {
@@ -68267,6 +68272,20 @@
    "brand": "HTC",
    "name": "HTC Desire 22 5G",
    "device": "htc_botdugls"
+  }
+ ],
+ "2QC9100": [
+  {
+   "brand": "HTC",
+   "name": "HTC Desire 23 Pro",
+   "device": "htc_soodugls"
+  }
+ ],
+ "HTC U23 pro": [
+  {
+   "brand": "HTC",
+   "name": "HTC Desire 23 Pro",
+   "device": "htc_soodugls"
   }
  ],
  "HTC 2PVG2": [
@@ -78321,13 +78340,6 @@
    "device": "VM3A-L0-P"
   }
  ],
- "FRI-NX9": [
-  {
-   "brand": "Honor",
-   "name": "FRI",
-   "device": "HNFRI"
-  }
- ],
  "NTH-NX9": [
   {
    "brand": "Honor",
@@ -78373,6 +78385,13 @@
    "brand": "Honor",
    "name": "RBN-NX1",
    "device": "HNRBN-Q"
+  }
+ ],
+ "FRI-NX9": [
+  {
+   "brand": "Honor",
+   "name": "HONOR Magic Vs",
+   "device": "HNFRI"
   }
  ],
  "ANY-LX1": [
@@ -138921,6 +138940,11 @@
   },
   {
    "brand": "Motorola",
+   "name": "moto g stylus (2023)",
+   "device": "gnevan"
+  },
+  {
+   "brand": "Motorola",
    "name": "motorola edge 40",
    "device": "lyriq"
   }
@@ -139117,6 +139141,13 @@
    "brand": "Motorola",
    "name": "motorola edge 20 lite",
    "device": "kyoto"
+  }
+ ],
+ "moto g stylus (2023)": [
+  {
+   "brand": "Motorola",
+   "name": "moto g stylus (2023)",
+   "device": "gnevan"
   }
  ],
  "moto g stylus 5G": [
@@ -161717,6 +161748,13 @@
    "device": "T810"
   }
  ],
+ "Vaio TL10": [
+  {
+   "brand": "Positivo",
+   "name": "TL10",
+   "device": "TL10"
+  }
+ ],
  "Positivo Twist M": [
   {
    "brand": "Positivo",
@@ -171168,6 +171206,13 @@
    "brand": "Reeder",
    "name": "S19 Max Pro",
    "device": "S19_Max_Pro"
+  }
+ ],
+ "S23 Pro Max": [
+  {
+   "brand": "Reeder",
+   "name": "S23 Pro Max",
+   "device": "S23_Pro_Max"
   }
  ],
  "reeder_T8": [
@@ -236478,6 +236523,13 @@
    "device": "PD2232"
   }
  ],
+ "V2301A": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Neo8",
+   "device": "PD2301"
+  }
+ ],
  "V2302A": [
   {
    "brand": "Vivo",
@@ -237218,6 +237270,13 @@
    "brand": "Vivo",
    "name": "vivo X90 Pro+",
    "device": "PD2227"
+  }
+ ],
+ "V2241HA": [
+  {
+   "brand": "Vivo",
+   "name": "vivo X90s",
+   "device": "PD2241"
   }
  ],
  "vivo X9Plus": [
