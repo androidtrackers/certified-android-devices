@@ -202636,6 +202636,13 @@
    "model": "Symphony Z45"
   }
  ],
+ "Z60_plus": [
+  {
+   "brand": "Symphony",
+   "name": "Z60 Plus",
+   "model": "Z60 plus"
+  }
+ ],
  "ZVII": [
   {
    "brand": "Symphony",
@@ -227449,6 +227456,13 @@
    "model": "V2247"
   }
  ],
+ "V2248": [
+  {
+   "brand": "Vivo",
+   "name": "Y36 5G",
+   "model": "V2248"
+  }
+ ],
  "Y51": [
   {
    "brand": "Vivo",
@@ -250922,6 +250936,11 @@
   {
    "brand": "realme",
    "name": "RMX3627",
+   "model": "RMX3627"
+  },
+  {
+   "brand": "realme",
+   "name": "realme C33 128GB",
    "model": "RMX3627"
   }
  ],

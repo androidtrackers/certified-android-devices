@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-05-21
+Last sync is 2023-05-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -30661,6 +30661,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Symphony|Z45|Z45|Symphony Z45|
 |Symphony|Z60|Z60|Symphony Z60|
 |Symphony|Z60|Z60|Z60|
+|Symphony|Z60 Plus|Z60_plus|Z60 plus|
 |Symphony|ZVII|ZVII|ZVII|
 |Symphony|ZVIII|ZVIII|ZVIII|
 |Symphony|i10|i10|i10|
@@ -34971,6 +34972,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y35m|PD2230|V2230A|
 |Vivo|Y35m+|PD2279|V2279A|
 |Vivo|Y36|V2247|V2247|
+|Vivo|Y36 5G|V2248|V2248|
 |Vivo|Y51|Y51|vivo Y51|
 |Vivo|Y51A|PD1510|vivo Y51A|
 |Vivo|Y53|1606|vivo 1606|
@@ -39121,6 +39123,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C31|RE549C|RMX3502|
 |realme|realme C31|RE549C|RMX3503|
 |realme|realme C33|RE5894|RMX3624|
+|realme|realme C33 128GB|RE58AF|RMX3627|
 |realme|realme C35|RE87BAL1|RMX3511|
 |realme|realme C35|RE87BAL1|RMX3512|
 |realme|realme C35|RE87BAL1|RMX3513|

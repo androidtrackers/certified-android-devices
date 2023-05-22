@@ -157353,6 +157353,11 @@
    "model": "Z60"
   },
   {
+   "device": "Z60_plus",
+   "name": "Z60 Plus",
+   "model": "Z60 plus"
+  },
+  {
    "device": "ZVII",
    "name": "ZVII",
    "model": "ZVII"
@@ -179515,6 +179520,11 @@
    "model": "V2247"
   },
   {
+   "device": "V2248",
+   "name": "Y36 5G",
+   "model": "V2248"
+  },
+  {
    "device": "Y51",
    "name": "Y51",
    "model": "vivo Y51"
@@ -200823,6 +200833,11 @@
    "device": "RE5894",
    "name": "realme C33",
    "model": "RMX3624"
+  },
+  {
+   "device": "RE58AF",
+   "name": "realme C33 128GB",
+   "model": "RMX3627"
   },
   {
    "device": "RE87BAL1",
