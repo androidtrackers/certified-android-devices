@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-05-23
+Last sync is 2023-05-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -9227,8 +9227,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HTC|HTC Desire 22 5G|htc_botdugls|2QBK100|
 |HTC|HTC Desire 22 5G|htc_botdugls|2QBK10000|
 |HTC|HTC Desire 22 5G|htc_botdugls|HTC Desire 22 pro|
-|HTC|HTC Desire 23 Pro|htc_soodugls|2QC9100|
-|HTC|HTC Desire 23 Pro|htc_soodugls|HTC U23 pro|
 |HTC|HTC Desire 610|htc_a3ul|HTC Desire 610|
 |HTC|HTC Desire 628 dual sim|htc_v36bml_dugl|HTC 2PVG2|
 |HTC|HTC Desire 628 dual sim|htc_v36bml_dugl|HTC Desire 628 dual sim|
@@ -9250,6 +9248,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HTC|HTC U11+|htc_ocmdugl|HTC U11 plus|
 |HTC|HTC U11+|htc_ocmdugl|HTC_2Q4D100|
 |HTC|HTC U19e|htc_tetdugl|HTC 2Q7A100|
+|HTC|HTC U23 Pro|htc_soodugls|2QC9100|
+|HTC|HTC U23 Pro|htc_soodugls|HTC U23 pro|
 |HTC|HTC Wildfire X|htc_h11dugl|HTC Wildfire X|
 |HTC|HTC6435LVW|dlx|HTC6435LVW|
 |HTC|HTC909d|dlpdwg|HTC 919d|
@@ -13053,6 +13053,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|HOT 3|INFINIX-X554|Infinix-X554|
 |Infinix|HOT 3 LTE|INFINIX-X553|Infinix HOT 3 LTE|
 |Infinix|HOT 3 LTE|INFINIX-X553-A1|Infinix HOT 3 LTE|
+|Infinix|HOT 30 5G|Infinix-X6832|Infinix X6832|
 |Infinix|HOT 4|Infinix-X5511|Infinix HOT 4|
 |Infinix|HOT 4|Infinix-X5511|Infinix HOT4 LTE|
 |Infinix|HOT 4|X557|Infinix HOT 4|
@@ -23429,6 +23430,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Point Mobile|PM85|pm85|PM85|
 |Point Mobile|PM85|pm85e|PM85E|
 |Point Mobile|PM85R|pm85r|PM85R|
+|Point Mobile|PM86|PM86|PM86|
 |Point Mobile|PM90|pm90|PM90|
 |Point of view|PVT-R78-3288|PVT-R78-3288|PVT-R78-3288|
 |Point of view|TAB-7232-3G|TAB_7232_3G_EEA|TAB-7232-3G-V2|
@@ -23437,7 +23439,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Point of view|TAB_7232_3G_A|TAB_7232_3G_A|TAB_7232_3G_A|
 |Point of view|TAB_ASR_7232_3G_SERIES|TABLET_PC|TAB_ASR_7232_3G_SERIES|
 |Point of view|TAB_TS101S_LTE|TAB_TS101S_LTE|TAB_TS101S_LTE|
-|PointMobile|PM86|PM86|PM86|
 |Pokini|K6|K6|K6|
 |Polar|M600|pike|Polar M600|
 |Polaris|Condroid_X7|polaris-Condroid_X7|Condroid_X7|
@@ -24180,6 +24181,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Proline|Proline FalconXL|Proline_FalconXL|Proline_FalconXL|
 |Proline|base10.3g silver|H1010|H1010|
 |Prolink|NeoSmart5|NeoSmart5|NeoSmart5|
+|Promethean|Promethean OPS-A1|XM3566D|OPS-A1|
 |Proscan|PELTDVD1029|mdt1008_mr_32|PELTDVD1029|
 |Proscan|PLT1065G|PLT1065G|PLT1065G|
 |Proscan|PLT1077G(1GB/8GB)|PLT1077G|PLT1077G|
@@ -26047,6 +26049,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A53 5G|a53x|SM-A536W|
 |Samsung|Galaxy A53 5G|a53x|SM-S536DL|
 |Samsung|Galaxy A53 5G UW|a53x|SM-A536V|
+|Samsung|Galaxy A54 5G|SC-53D|SC-53D|
 |Samsung|Galaxy A54 5G|a54x|SM-A5460|
 |Samsung|Galaxy A54 5G|a54x|SM-A546B|
 |Samsung|Galaxy A54 5G|a54x|SM-A546E|
@@ -28920,6 +28923,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|EG1|namba|AQUOS-TVH22A|
 |Sharp|EG1|namba|AQUOS-TVP22A|
 |Sharp|EG1|namba|AQUOS-TVX22A|
+|Sharp|EN3/EL3|banqiao|AQUOS-TVE21F|
 |Sharp|EQ3/DN5|banqiao|AQUOS-TVE21A|
 |Sharp|EU|sindang|AQUOS-TVE19C|
 |Sharp|EU|sindang|AQUOS-TVE21A2|
@@ -29656,6 +29660,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 1 IV|XQ-CT72|XQ-CT72|
 |Sony|Xperia 1 Professional Edition|J9150|J9150|
 |Sony|Xperia 1 V|SO-51D|SO-51D|
+|Sony|Xperia 1 V|XQ-DQ72|XQ-DQ72|
 |Sony|Xperia 10|I3113|I3113|
 |Sony|Xperia 10|I3123|I3123|
 |Sony|Xperia 10|I4113|I4113|
@@ -34262,6 +34267,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Verizon Wireless|Gizmo Tab|QTASUN2|QTASUN2|
 |Verizon Wireless|Gizo Tab|QTASUN2|QTASUN2|
 |Verizon Wireless|QTAQZ3KID|QTAQZ3KID|QTAQZ3KID|
+|Verizon Wireless|TCL TAB Pro 5G|Transformer_VZW|9198S|
 |Verizon Wireless|Wear24|dorado|Wear24|
 |Vernee|Active|V1|V1|
 |Vernee|M3|M3|M3|
@@ -34649,6 +34655,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|PD1612|PD1612|vivo PD1612|
 |Vivo|PD1612|PD1612|vivo Y67|
 |Vivo|PD1731D|PD1731D|vivo Y71A|
+|Vivo|S17 Pro|PD2284|V2284A|
 |Vivo|T1|V2154|V2153|
 |Vivo|T1|V2154|V2154|
 |Vivo|T1|V2154|V2168|
@@ -35019,6 +35026,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Neo7 竞速版|PD2232|V2232A|
 |Vivo|iQOO Neo8|PD2301|V2301A|
 |Vivo|iQOO Neo8 Pro|PD2302|V2302A|
+|Vivo|iQOO Pad|DPD2307|iPA2375|
 |Vivo|iQOO Z5|2018|I2018|
 |Vivo|iQOO Z5 6000mAh|PD2188|V2188A|
 |Vivo|iQOO Z6|I2203|I2203|
@@ -38149,6 +38157,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE E7LS|ZTE_E7LS|ZTE E7LS|
 |ZTE|ZTE Fanfare 3|kelly|Z852|
 |ZTE|ZTE Overture 3|jeff|Z851|
+|ZTE|ZTE PA01|P898P01|ZTE PA01|
 |ZTE|ZTE T0801|P876T01J|ZTE T0801|
 |ZTE|ZTE Tempo X|grayjoylite|N9137|
 |ZTE|ZTE U5|enterprise|ZTE U5|
@@ -38195,6 +38204,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|tmn smart a60|kiska|tmn smart a60|
 |ZTE|tmn smart a7|sailboat|tmn smart a7|
 |ZTE|zBox 1|YXE|zBox 1|
+|ZTE|中兴畅行40|P963S71|ZTE 1020L|
+|ZTE|中兴远航41|P720S11|ZTE 7541N|
 |ZUKU|A151|A155|A151|
 |ZUKU|DV8330-T2|DV8330-T2|DV8330-T2|
 |ZUOPU|JH105|JH105|ZER A10|
@@ -38276,6 +38287,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|TC73|TC73|TC73|
 |Zebra|TC75x|TC75x|TC75x|
 |Zebra|TC75xDF|TC75xDF|TC75x|
+|Zebra|TC78|TC78|TC78|
 |Zebra|TC8000|TC8000|TC8000|
 |Zebra|TN28|TN28|TN28|
 |Zebra|VC80x|VC80x|VC80x|

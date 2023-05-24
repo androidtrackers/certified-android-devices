@@ -74713,18 +74713,6 @@
    "model": "HTC Desire 22 pro"
   }
  ],
- "HTC Desire 23 Pro": [
-  {
-   "brand": "HTC",
-   "device": "htc_soodugls",
-   "model": "2QC9100"
-  },
-  {
-   "brand": "HTC",
-   "device": "htc_soodugls",
-   "model": "HTC U23 pro"
-  }
- ],
  "HTC Desire 610": [
   {
    "brand": "HTC",
@@ -74850,6 +74838,18 @@
    "brand": "HTC",
    "device": "htc_tetdugl",
    "model": "HTC 2Q7A100"
+  }
+ ],
+ "HTC U23 Pro": [
+  {
+   "brand": "HTC",
+   "device": "htc_soodugls",
+   "model": "2QC9100"
+  },
+  {
+   "brand": "HTC",
+   "device": "htc_soodugls",
+   "model": "HTC U23 pro"
   }
  ],
  "HTC Wildfire X": [
@@ -96015,6 +96015,13 @@
    "brand": "Infinix",
    "device": "INFINIX-X553-A1",
    "model": "Infinix HOT 3 LTE"
+  }
+ ],
+ "HOT 30 5G": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6832",
+   "model": "Infinix X6832"
   }
  ],
  "HOT 4": [
@@ -157861,6 +157868,13 @@
    "model": "PM85R"
   }
  ],
+ "PM86": [
+  {
+   "brand": "Point Mobile",
+   "device": "PM86",
+   "model": "PM86"
+  }
+ ],
  "PM90": [
   {
    "brand": "Point Mobile",
@@ -157915,13 +157929,6 @@
    "brand": "Point of view",
    "device": "TAB_TS101S_LTE",
    "model": "TAB_TS101S_LTE"
-  }
- ],
- "PM86": [
-  {
-   "brand": "PointMobile",
-   "device": "PM86",
-   "model": "PM86"
   }
  ],
  "M600": [
@@ -162633,6 +162640,13 @@
    "brand": "Prolink",
    "device": "NeoSmart5",
    "model": "NeoSmart5"
+  }
+ ],
+ "Promethean OPS-A1": [
+  {
+   "brand": "Promethean",
+   "device": "XM3566D",
+   "model": "OPS-A1"
   }
  ],
  "PELTDVD1029": [
@@ -173824,6 +173838,11 @@
   }
  ],
  "Galaxy A54 5G": [
+  {
+   "brand": "Samsung",
+   "device": "SC-53D",
+   "model": "SC-53D"
+  },
   {
    "brand": "Samsung",
    "device": "a54x",
@@ -189880,6 +189899,13 @@
    "model": "AQUOS-TVX22A"
   }
  ],
+ "EN3/EL3": [
+  {
+   "brand": "Sharp",
+   "device": "banqiao",
+   "model": "AQUOS-TVE21F"
+  }
+ ],
  "EQ3/DN5": [
   {
    "brand": "Sharp",
@@ -194428,6 +194454,11 @@
    "brand": "Sony",
    "device": "SO-51D",
    "model": "SO-51D"
+  },
+  {
+   "brand": "Sony",
+   "device": "XQ-DQ72",
+   "model": "XQ-DQ72"
   }
  ],
  "Xperia 10": [
@@ -220983,6 +221014,13 @@
    "model": "QTAQZ3KID"
   }
  ],
+ "TCL TAB Pro 5G": [
+  {
+   "brand": "Verizon Wireless",
+   "device": "Transformer_VZW",
+   "model": "9198S"
+  }
+ ],
  "Wear24": [
   {
    "brand": "Verizon Wireless",
@@ -223391,6 +223429,13 @@
    "model": "vivo Y71A"
   }
  ],
+ "S17 Pro": [
+  {
+   "brand": "Vivo",
+   "device": "PD2284",
+   "model": "V2284A"
+  }
+ ],
  "T1 5G": [
   {
    "brand": "Vivo",
@@ -225759,6 +225804,13 @@
    "brand": "Vivo",
    "device": "PD2302",
    "model": "V2302A"
+  }
+ ],
+ "iQOO Pad": [
+  {
+   "brand": "Vivo",
+   "device": "DPD2307",
+   "model": "iPA2375"
   }
  ],
  "iQOO Z5": [
@@ -243340,6 +243392,13 @@
    "model": "Z851"
   }
  ],
+ "ZTE PA01": [
+  {
+   "brand": "ZTE",
+   "device": "P898P01",
+   "model": "ZTE PA01"
+  }
+ ],
  "ZTE T0801": [
   {
    "brand": "ZTE",
@@ -243650,6 +243709,20 @@
    "brand": "ZTE",
    "device": "YXE",
    "model": "zBox 1"
+  }
+ ],
+ "中兴畅行40": [
+  {
+   "brand": "ZTE",
+   "device": "P963S71",
+   "model": "ZTE 1020L"
+  }
+ ],
+ "中兴远航41": [
+  {
+   "brand": "ZTE",
+   "device": "P720S11",
+   "model": "ZTE 7541N"
   }
  ],
  "A151": [
@@ -244184,6 +244257,13 @@
    "brand": "Zebra",
    "device": "TC75xDF",
    "model": "TC75x"
+  }
+ ],
+ "TC78": [
+  {
+   "brand": "Zebra",
+   "device": "TC78",
+   "model": "TC78"
   }
  ],
  "TC8000": [
