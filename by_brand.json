@@ -6029,7 +6029,7 @@
   },
   {
    "device": "marina",
-   "name": "Europe",
+   "name": "Altus UHD Pro TV",
    "model": "Altus UHD Pro TV"
   },
   {
@@ -47999,12 +47999,12 @@
   },
   {
    "device": "htc_soodugls",
-   "name": "HTC U23 Pro",
+   "name": "HTC U23 pro",
    "model": "2QC9100"
   },
   {
    "device": "htc_soodugls",
-   "name": "HTC U23 Pro",
+   "name": "HTC U23 pro",
    "model": "HTC U23 pro"
   },
   {
@@ -67142,6 +67142,11 @@
    "model": "Infinix AndroidTV"
   },
   {
+   "device": "barking",
+   "name": "50X3",
+   "model": "Infinix AndroidTV"
+  },
+  {
    "device": "samseong",
    "name": "55X1",
    "model": "AI PONT"
@@ -71656,6 +71661,11 @@
    "model": "itel S665L"
   },
   {
+   "device": "itel-S665LN",
+   "name": "itel S23",
+   "model": "itel S665LN"
+  },
+  {
    "device": "itel-S32LTE",
    "name": "itel S32LTE",
    "model": "itel S32LTE"
@@ -72177,6 +72187,11 @@
    "device": "komagome",
    "name": "JVC",
    "model": "EU 2K Android TV"
+  },
+  {
+   "device": "komagome",
+   "name": "JVC",
+   "model": "JVC 2K Android TV"
   },
   {
    "device": "komagome",
@@ -100375,6 +100390,11 @@
    "model": "TicWatch Pro 4G"
   },
   {
+   "device": "dace",
+   "name": "TicWatch Pro 5",
+   "model": "TicWatch Pro 5"
+  },
+  {
    "device": "catshark",
    "name": "Ticwatch Pro 4G",
    "model": "TicWatch Pro 4G"
@@ -111356,6 +111376,11 @@
    "device": "OP591BL1",
    "name": "OnePlus 11 5G 中国版",
    "model": "PHB110"
+  },
+  {
+   "device": "OP5961L1",
+   "name": "OnePlus 11R 5G",
+   "model": "CPH2487"
   },
   {
    "device": "OnePlus6",
@@ -134002,6 +134027,11 @@
    "model": "SC-53D"
   },
   {
+   "device": "SCG21",
+   "name": "Galaxy A54 5G",
+   "model": "SCG21"
+  },
+  {
    "device": "a54x",
    "name": "Galaxy A54 5G",
    "model": "SM-A5460"
@@ -140927,6 +140957,11 @@
    "model": "SC-51D"
   },
   {
+   "device": "SCG19",
+   "name": "Galaxy S23",
+   "model": "SCG19"
+  },
+  {
    "device": "dm1q",
    "name": "Galaxy S23",
    "model": "SM-S9110"
@@ -140965,6 +141000,11 @@
    "device": "SC-52D",
    "name": "Galaxy S23 Ultra",
    "model": "SC-52D"
+  },
+  {
+   "device": "SCG20",
+   "name": "Galaxy S23 Ultra",
+   "model": "SCG20"
   },
   {
    "device": "dm3q",
@@ -158671,6 +158711,11 @@
    "device": "Thor_8_4G_VZW",
    "name": "TCL TAB Disney Edition",
    "model": "9050S"
+  },
+  {
+   "device": "Luna_8_4G_VZW",
+   "name": "TCL TAB Disney Edition 2",
+   "model": "9150S"
   },
   {
    "device": "Apollo84GBoostR",
@@ -194201,6 +194246,11 @@
    "model": "Z667"
   },
   {
+   "device": "demi",
+   "name": "Z667G",
+   "model": "Z667G"
+  },
+  {
    "device": "bonnie",
    "name": "Z667T",
    "model": "Z667T"
@@ -195734,6 +195784,26 @@
    "device": "kelly",
    "name": "ZTE Fanfare 3",
    "model": "Z852"
+  },
+  {
+   "device": "zx55q05_64",
+   "name": "ZTE N939Sc",
+   "model": "LS-5504"
+  },
+  {
+   "device": "zx55q05_64",
+   "name": "ZTE N939Sc",
+   "model": "ZTE Blade X9"
+  },
+  {
+   "device": "zx55q05_64",
+   "name": "ZTE N939Sc",
+   "model": "ZTE N939Sc"
+  },
+  {
+   "device": "zx55q05_64",
+   "name": "ZTE N939Sc",
+   "model": "ZTE N939St"
   },
   {
    "device": "jeff",
@@ -201173,6 +201243,11 @@
    "device": "RE588E",
    "name": "realme narzo 50i Prime",
    "model": "RMX3506"
+  },
+  {
+   "device": "RE58C6",
+   "name": "realme narzo N53",
+   "model": "RMX3761"
   },
   {
    "device": "RE54C1L1",

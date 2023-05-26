@@ -16364,86 +16364,11 @@
    "model": "UHD Pro TV"
   }
  ],
- "Europe": [
+ "Altus UHD Pro TV": [
   {
    "brand": "Altus",
    "device": "marina",
    "model": "Altus UHD Pro TV"
-  },
-  {
-   "brand": "Blaupunkt",
-   "device": "guandu",
-   "model": "BLAUPUNKT EU 4K Android TV"
-  },
-  {
-   "brand": "Blaupunkt",
-   "device": "martin",
-   "model": "BLAUPUNKT EU 2K Android TV"
-  },
-  {
-   "brand": "Blaupunkt",
-   "device": "martin",
-   "model": "BLAUPUNKT EU 2K Android TV"
-  },
-  {
-   "brand": "CAIXUN",
-   "device": "martin",
-   "model": "Caixun Android TV"
-  },
-  {
-   "brand": "CAIXUN",
-   "device": "martin",
-   "model": "SE 2K Android Monitor"
-  },
-  {
-   "brand": "CAIXUN",
-   "device": "martin",
-   "model": "Smarttech Android Monitor"
-  },
-  {
-   "brand": "Qilive",
-   "device": "tamachi",
-   "model": "Qilive FHD Android TV"
-  },
-  {
-   "brand": "Qilive",
-   "device": "yeongdeungpo",
-   "model": "Qilive UHD Android TV"
-  },
-  {
-   "brand": "SWTV",
-   "device": "SW3H_ATV",
-   "model": "SWTV"
-  },
-  {
-   "brand": "Sharp",
-   "device": "guandu",
-   "model": "SHARP 4K EU Android TV"
-  },
-  {
-   "brand": "Sharp",
-   "device": "martin",
-   "model": "SHARP 2K EU Android TV"
-  },
-  {
-   "brand": "Skyworth",
-   "device": "globe_eu",
-   "model": "globe"
-  },
-  {
-   "brand": "Smart-Tech TV",
-   "device": "nagata",
-   "model": "Apollo Premium2K TV"
-  },
-  {
-   "brand": "Tesla",
-   "device": "guandu",
-   "model": "Tesla Android TV"
-  },
-  {
-   "brand": "Thomson",
-   "device": "martin",
-   "model": "Thomson TV"
   }
  ],
  "Turkey": [
@@ -32864,6 +32789,83 @@
    "brand": "Blaupunkt",
    "device": "Blaupunkt",
    "model": "Endeavour101"
+  }
+ ],
+ "Europe": [
+  {
+   "brand": "Blaupunkt",
+   "device": "guandu",
+   "model": "BLAUPUNKT EU 4K Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "device": "martin",
+   "model": "BLAUPUNKT EU 2K Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "device": "martin",
+   "model": "BLAUPUNKT EU 2K Android TV"
+  },
+  {
+   "brand": "CAIXUN",
+   "device": "martin",
+   "model": "Caixun Android TV"
+  },
+  {
+   "brand": "CAIXUN",
+   "device": "martin",
+   "model": "SE 2K Android Monitor"
+  },
+  {
+   "brand": "CAIXUN",
+   "device": "martin",
+   "model": "Smarttech Android Monitor"
+  },
+  {
+   "brand": "Qilive",
+   "device": "tamachi",
+   "model": "Qilive FHD Android TV"
+  },
+  {
+   "brand": "Qilive",
+   "device": "yeongdeungpo",
+   "model": "Qilive UHD Android TV"
+  },
+  {
+   "brand": "SWTV",
+   "device": "SW3H_ATV",
+   "model": "SWTV"
+  },
+  {
+   "brand": "Sharp",
+   "device": "guandu",
+   "model": "SHARP 4K EU Android TV"
+  },
+  {
+   "brand": "Sharp",
+   "device": "martin",
+   "model": "SHARP 2K EU Android TV"
+  },
+  {
+   "brand": "Skyworth",
+   "device": "globe_eu",
+   "model": "globe"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "device": "nagata",
+   "model": "Apollo Premium2K TV"
+  },
+  {
+   "brand": "Tesla",
+   "device": "guandu",
+   "model": "Tesla Android TV"
+  },
+  {
+   "brand": "Thomson",
+   "device": "martin",
+   "model": "Thomson TV"
   }
  ],
  "Guardian": [
@@ -56709,6 +56711,11 @@
   {
    "brand": "JVC",
    "device": "komagome",
+   "model": "JVC 2K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "device": "komagome",
    "model": "JVC EU 2K Android TV"
   },
   {
@@ -74840,7 +74847,7 @@
    "model": "HTC 2Q7A100"
   }
  ],
- "HTC U23 Pro": [
+ "HTC U23 pro": [
   {
    "brand": "HTC",
    "device": "htc_soodugls",
@@ -95850,6 +95857,13 @@
    "model": "Infinix AndroidTV"
   }
  ],
+ "50X3": [
+  {
+   "brand": "Infinix",
+   "device": "barking",
+   "model": "Infinix AndroidTV"
+  }
+ ],
  "55X1": [
   {
    "brand": "Infinix",
@@ -101438,6 +101452,11 @@
    "brand": "Itel",
    "device": "itel-S665L",
    "model": "itel S665L"
+  },
+  {
+   "brand": "Itel",
+   "device": "itel-S665LN",
+   "model": "itel S665LN"
   }
  ],
  "itel S32LTE": [
@@ -134486,6 +134505,13 @@
    "model": "TicWatch Pro 4G"
   }
  ],
+ "TicWatch Pro 5": [
+  {
+   "brand": "Mobvoi",
+   "device": "dace",
+   "model": "TicWatch Pro 5"
+  }
+ ],
  "Ticwatch Pro 4G": [
   {
    "brand": "Mobvoi",
@@ -146752,6 +146778,13 @@
    "brand": "OnePlus",
    "device": "OP591BL1",
    "model": "PHB110"
+  }
+ ],
+ "OnePlus 11R 5G": [
+  {
+   "brand": "OnePlus",
+   "device": "OP5961L1",
+   "model": "CPH2487"
   }
  ],
  "OnePlus 6": [
@@ -173845,6 +173878,11 @@
   },
   {
    "brand": "Samsung",
+   "device": "SCG21",
+   "model": "SCG21"
+  },
+  {
+   "brand": "Samsung",
    "device": "a54x",
    "model": "SM-A5460"
   },
@@ -181441,6 +181479,11 @@
   },
   {
    "brand": "Samsung",
+   "device": "SCG19",
+   "model": "SCG19"
+  },
+  {
+   "brand": "Samsung",
    "device": "dm1q",
    "model": "SM-S9110"
   },
@@ -181480,6 +181523,11 @@
    "brand": "Samsung",
    "device": "SC-52D",
    "model": "SC-52D"
+  },
+  {
+   "brand": "Samsung",
+   "device": "SCG20",
+   "model": "SCG20"
   },
   {
    "brand": "Samsung",
@@ -201834,6 +201882,13 @@
    "brand": "TCL",
    "device": "Thor_8_4G_VZW",
    "model": "9050S"
+  }
+ ],
+ "TCL TAB Disney Edition 2": [
+  {
+   "brand": "TCL",
+   "device": "Luna_8_4G_VZW",
+   "model": "9150S"
   }
  ],
  "TCL TAB Lite": [
@@ -241334,6 +241389,13 @@
    "model": "Z667"
   }
  ],
+ "Z667G": [
+  {
+   "brand": "ZTE",
+   "device": "demi",
+   "model": "Z667G"
+  }
+ ],
  "Z667T": [
   {
    "brand": "ZTE",
@@ -243383,6 +243445,28 @@
    "brand": "ZTE",
    "device": "kelly",
    "model": "Z852"
+  }
+ ],
+ "ZTE N939Sc": [
+  {
+   "brand": "ZTE",
+   "device": "zx55q05_64",
+   "model": "LS-5504"
+  },
+  {
+   "brand": "ZTE",
+   "device": "zx55q05_64",
+   "model": "ZTE Blade X9"
+  },
+  {
+   "brand": "ZTE",
+   "device": "zx55q05_64",
+   "model": "ZTE N939Sc"
+  },
+  {
+   "brand": "ZTE",
+   "device": "zx55q05_64",
+   "model": "ZTE N939St"
   }
  ],
  "ZTE Overture 3": [
@@ -249546,6 +249630,13 @@
    "brand": "realme",
    "device": "RE588E",
    "model": "RMX3506"
+  }
+ ],
+ "realme narzo N53": [
+  {
+   "brand": "realme",
+   "device": "RE58C6",
+   "model": "RMX3761"
   }
  ],
  "realme  X7 Pro": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-05-25
+Last sync is 2023-05-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1154,7 +1154,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Altus|Altus Android TV|shinagawa|Altus Android TV|
 |Altus|Altus Android TV|sinchon|4K Pro TV|
 |Altus|Altus UHD Android TV|kunyang|UHD Pro TV|
-|Altus|Europe|marina|Altus UHD Pro TV|
+|Altus|Altus UHD Pro TV|marina|Altus UHD Pro TV|
 |Altus|Turkey|martin|Altus Android TV|
 |Americamovil|KIREI A5Q PLUS|Azumi_KIREI_A5Q_PLUS_AC06|KIREI A5Q PLUS|
 |Amgoo|AM350|AM350|AM350|
@@ -9248,8 +9248,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HTC|HTC U11+|htc_ocmdugl|HTC U11 plus|
 |HTC|HTC U11+|htc_ocmdugl|HTC_2Q4D100|
 |HTC|HTC U19e|htc_tetdugl|HTC 2Q7A100|
-|HTC|HTC U23 Pro|htc_soodugls|2QC9100|
-|HTC|HTC U23 Pro|htc_soodugls|HTC U23 pro|
+|HTC|HTC U23 pro|htc_soodugls|2QC9100|
+|HTC|HTC U23 pro|htc_soodugls|HTC U23 pro|
 |HTC|HTC Wildfire X|htc_h11dugl|HTC Wildfire X|
 |HTC|HTC6435LVW|dlx|HTC6435LVW|
 |HTC|HTC909d|dlpdwg|HTC 919d|
@@ -13026,6 +13026,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinity|Infinity|Infinity|Infinity|
 |Infinix|32X1|ikebukuro|AI PONT|
 |Infinix|43X3|beaudry|Infinix AndroidTV|
+|Infinix|50X3|barking|Infinix AndroidTV|
 |Infinix|55X1|samseong|AI PONT|
 |Infinix|HOT|Infinix-X689F|Infinix X689F|
 |Infinix|HOT 10|Infinix-X682B|Infinix X682B|
@@ -13918,6 +13919,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel S18|itel-S663L|itel S663L|
 |Itel|itel S18 Pro|itel-S662L|itel S662L|
 |Itel|itel S23|itel-S665L|itel S665L|
+|Itel|itel S23|itel-S665LN|itel S665LN|
 |Itel|itel S32LTE|itel-S32LTE|itel S32LTE|
 |Itel|itel TV|shibuya|itel TV|
 |Itel|itel V41|itel-W4001S|itel W4001S|
@@ -14017,6 +14019,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JVC|JVC|expo|JVCUS 4K TV|
 |JVC|JVC|kaitak|JVCPA 4KAndroid TV|
 |JVC|JVC|komagome|EU 2K Android TV|
+|JVC|JVC|komagome|JVC 2K Android TV|
 |JVC|JVC|komagome|JVC EU 2K Android TV|
 |JVC|JVC|seocho|JVC 4K Android TV|
 |JVC|JVC|seocho|JVC SA 4K Android TV|
@@ -19521,6 +19524,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobvoi|TicWatch Pro 3 GPS; TicWatch Pro 3 Ultra GPS|rubyfish|TicWatch Pro 3 Ultra GPS|
 |Mobvoi|TicWatch Pro 3 GPS; TicWatch Pro 3 Ultra GPS|rubyfish|TicWatch Pro 3U|
 |Mobvoi|TicWatch Pro 4G|catshark|TicWatch Pro 4G|
+|Mobvoi|TicWatch Pro 5|dace|TicWatch Pro 5|
 |Mobvoi|Ticwatch Pro 4G|catshark|TicWatch Pro 4G|
 |Mobvoi|Ticwatch S Smartwatch; Ticwatch E Smartwatch|mooneye|Ticwatch E|
 |Mobvoi|Ticwatch S Smartwatch; Ticwatch E Smartwatch|mooneye|Ticwatch S|
@@ -21644,6 +21648,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 11 5G|OP594DL1|CPH2449|
 |OnePlus|OnePlus 11 5G|OP594DL1|CPH2451|
 |OnePlus|OnePlus 11 5G 中国版|OP591BL1|PHB110|
+|OnePlus|OnePlus 11R 5G|OP5961L1|CPH2487|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6000|
 |OnePlus|OnePlus 6|OnePlus6|ONEPLUS A6003|
 |OnePlus|OnePlus 7|OnePlus7|GM1900|
@@ -26050,6 +26055,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A53 5G|a53x|SM-S536DL|
 |Samsung|Galaxy A53 5G UW|a53x|SM-A536V|
 |Samsung|Galaxy A54 5G|SC-53D|SC-53D|
+|Samsung|Galaxy A54 5G|SCG21|SCG21|
 |Samsung|Galaxy A54 5G|a54x|SM-A5460|
 |Samsung|Galaxy A54 5G|a54x|SM-A546B|
 |Samsung|Galaxy A54 5G|a54x|SM-A546E|
@@ -27435,6 +27441,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S22+|g0q|SM-S906W|
 |Samsung|Galaxy S22+|g0s|SM-S906B|
 |Samsung|Galaxy S23|SC-51D|SC-51D|
+|Samsung|Galaxy S23|SCG19|SCG19|
 |Samsung|Galaxy S23|dm1q|SM-S9110|
 |Samsung|Galaxy S23|dm1q|SM-S911B|
 |Samsung|Galaxy S23|dm1q|SM-S911C|
@@ -27443,6 +27450,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy S23|dm1q|SM-S911U1|
 |Samsung|Galaxy S23|dm1q|SM-S911W|
 |Samsung|Galaxy S23 Ultra|SC-52D|SC-52D|
+|Samsung|Galaxy S23 Ultra|SCG20|SCG20|
 |Samsung|Galaxy S23 Ultra|dm3q|SM-S9180|
 |Samsung|Galaxy S23 Ultra|dm3q|SM-S918B|
 |Samsung|Galaxy S23 Ultra|dm3q|SM-S918N|
@@ -30921,6 +30929,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 8 LE|Luna_8_4G_TMO|9137W|
 |TCL|TCL TAB 8 Wi-Fi|Luna|9132X|
 |TCL|TCL TAB Disney Edition|Thor_8_4G_VZW|9050S|
+|TCL|TCL TAB Disney Edition 2|Luna_8_4G_VZW|9150S|
 |TCL|TCL TAB Lite|Apollo84GBoostR|9132S|
 |TCL|TCL TAB kids|Thor_8_4G_VZW|9049L|
 |TCL|TCL stylus 5G|Challenger_TH|T779P|
@@ -37849,6 +37858,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|Z6621O|Z6621O|Z6621O|
 |ZTE|Z665C|seanplus|Z665C|
 |ZTE|Z667|demi|Z667|
+|ZTE|Z667G|demi|Z667G|
 |ZTE|Z667T|bonnie|Z667T|
 |ZTE|Z669|demi|Z669|
 |ZTE|Z716BL|baffin|Z716BL|
@@ -38156,6 +38166,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE C2017|alice|ZTE C2017|
 |ZTE|ZTE E7LS|ZTE_E7LS|ZTE E7LS|
 |ZTE|ZTE Fanfare 3|kelly|Z852|
+|ZTE|ZTE N939Sc|zx55q05_64|LS-5504|
+|ZTE|ZTE N939Sc|zx55q05_64|ZTE Blade X9|
+|ZTE|ZTE N939Sc|zx55q05_64|ZTE N939Sc|
+|ZTE|ZTE N939Sc|zx55q05_64|ZTE N939St|
 |ZTE|ZTE Overture 3|jeff|Z851|
 |ZTE|ZTE PA01|P898P01|ZTE PA01|
 |ZTE|ZTE T0801|P876T01J|ZTE T0801|
@@ -39191,6 +39205,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme narzo 50A Prime|RE54D8L1|RMX3517|
 |realme|realme narzo 50i|RED8FA|RMX3235|
 |realme|realme narzo 50i Prime|RE588E|RMX3506|
+|realme|realme narzo N53|RE58C6|RMX3761|
 |realme|realme pad|RE54C1L1|RMP2102|
 |realme|realme pad|RE54C1L1|RMP2103|
 |realme|realme  X7 Pro|RMX2121CN|RMX2121|
