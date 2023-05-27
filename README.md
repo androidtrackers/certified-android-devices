@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-05-26
+Last sync is 2023-05-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -17383,6 +17383,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|Lenovo Tab E10|X104X|Lenovo TB-X104X|
 |Lenovo|Lenovo Tab E7|TB7104F|Lenovo TB-7104F|
 |Lenovo|Lenovo Tab E7|TB7104I|Lenovo TB-7104I|
+|Lenovo|Lenovo Tab Extreme|TB570FU|TB570FU|
 |Lenovo|Lenovo Tab K10|X6C6F|Lenovo TB-X6C6F|
 |Lenovo|Lenovo Tab K10|X6C6L|Lenovo TB-X6C6L|
 |Lenovo|Lenovo Tab K10|X6C6NBF|Lenovo TB-X6C6NBF|
@@ -30929,7 +30930,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 8 LE|Luna_8_4G_TMO|9137W|
 |TCL|TCL TAB 8 Wi-Fi|Luna|9132X|
 |TCL|TCL TAB Disney Edition|Thor_8_4G_VZW|9050S|
-|TCL|TCL TAB Disney Edition 2|Luna_8_4G_VZW|9150S|
 |TCL|TCL TAB Lite|Apollo84GBoostR|9132S|
 |TCL|TCL TAB kids|Thor_8_4G_VZW|9049L|
 |TCL|TCL stylus 5G|Challenger_TH|T779P|
@@ -34257,6 +34257,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VerD|E1|E1|E1|
 |VerD|E2|E2|E2|
 |Verizon|Stream TV|JS8V|Stream TV|
+|Verizon|Stream TV|SCSIP02|Stream TV|
 |Verizon|Stream TV|f354|Stream TV|
 |Verizon|Stream TV|sti6220d315|Stream TV|
 |Verizon|Stream TV Soundbar|sti6251d315|Stream TV Soundbar|

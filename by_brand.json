@@ -89349,6 +89349,11 @@
    "model": "Lenovo TB-7104I"
   },
   {
+   "device": "TB570FU",
+   "name": "Lenovo Tab Extreme",
+   "model": "TB570FU"
+  },
+  {
    "device": "X6C6F",
    "name": "Lenovo Tab K10",
    "model": "Lenovo TB-X6C6F"
@@ -158713,11 +158718,6 @@
    "model": "9050S"
   },
   {
-   "device": "Luna_8_4G_VZW",
-   "name": "TCL TAB Disney Edition 2",
-   "model": "9150S"
-  },
-  {
    "device": "Apollo84GBoostR",
    "name": "TCL TAB Lite",
    "model": "9132S"
@@ -175885,6 +175885,11 @@
  "Verizon": [
   {
    "device": "JS8V",
+   "name": "Stream TV",
+   "model": "Stream TV"
+  },
+  {
+   "device": "SCSIP02",
    "name": "Stream TV",
    "model": "Stream TV"
   },

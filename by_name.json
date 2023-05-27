@@ -121261,6 +121261,13 @@
    "model": "Lenovo TB-7104I"
   }
  ],
+ "Lenovo Tab Extreme": [
+  {
+   "brand": "Lenovo",
+   "device": "TB570FU",
+   "model": "TB570FU"
+  }
+ ],
  "Lenovo Tab K10": [
   {
    "brand": "Lenovo",
@@ -201884,13 +201891,6 @@
    "model": "9050S"
   }
  ],
- "TCL TAB Disney Edition 2": [
-  {
-   "brand": "TCL",
-   "device": "Luna_8_4G_VZW",
-   "model": "9150S"
-  }
- ],
  "TCL TAB Lite": [
   {
    "brand": "TCL",
@@ -220941,6 +220941,11 @@
   {
    "brand": "Verizon",
    "device": "JS8V",
+   "model": "Stream TV"
+  },
+  {
+   "brand": "Verizon",
+   "device": "SCSIP02",
    "model": "Stream TV"
   },
   {
