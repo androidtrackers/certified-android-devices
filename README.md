@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-05-27
+Last sync is 2023-05-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -28584,6 +28584,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Scanfrost|Nigeria|marina|Scanfrost TV|
 |Scanfrost|Nigeria|martin|Scanfrost 2K Android TV|
 |Sceptre|4K Smart TV|gangbyeon|4K Smart TV|
+|Sceptre|A557CV-UMRBX|barking|SCEPTRE AndroidTV|
 |Sceptre|Smart TV|kanda|2K Smart TV|
 |Schok|FreedomTurboXL|SFT57216|FreedomTurboXL|
 |Schok|SCHOK|SM7216H|SM7216H|
@@ -38954,6 +38955,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iRulu|Y57|iRULU_Y57|Y57|
 |iRulu|Y57P_EEA|Y57P|Y57P|
 |iRulu|iRULU_G36|iRULU_G36|G36|
+|iSTAR|S32WD02|beaudry|iSTAR AndroidTV|
+|iSTAR|S55WD01|barking|iSTAR AndroidTV|
 |iSWAG|ALPHA|Alpha|Alpha|
 |iSWAG|APOLLO|APOLLO|APOLLO|
 |iSWAG|BLINK|BLINK|BLINK|

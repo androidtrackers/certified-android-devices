@@ -35764,6 +35764,11 @@
    "brand": "Syinix",
    "name": "43A51",
    "model": "Syinix AndroidTV"
+  },
+  {
+   "brand": "iSTAR",
+   "name": "S32WD02",
+   "model": "iSTAR AndroidTV"
   }
  ],
  "barking": [
@@ -35783,9 +35788,19 @@
    "model": "itel Android TV"
   },
   {
+   "brand": "Sceptre",
+   "name": "A557CV-UMRBX",
+   "model": "SCEPTRE AndroidTV"
+  },
+  {
    "brand": "Syinix",
    "name": "55U51",
    "model": "Syinix AndroidTV"
+  },
+  {
+   "brand": "iSTAR",
+   "name": "S55WD01",
+   "model": "iSTAR AndroidTV"
   }
  ],
  "CASPER_L10_4_5G": [

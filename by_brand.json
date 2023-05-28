@@ -146698,6 +146698,11 @@
    "model": "4K Smart TV"
   },
   {
+   "device": "barking",
+   "name": "A557CV-UMRBX",
+   "model": "SCEPTRE AndroidTV"
+  },
+  {
    "device": "kanda",
    "name": "Smart TV",
    "model": "2K Smart TV"
@@ -199922,6 +199927,18 @@
    "device": "iRULU_G36",
    "name": "iRULU_G36",
    "model": "G36"
+  }
+ ],
+ "iSTAR": [
+  {
+   "device": "beaudry",
+   "name": "S32WD02",
+   "model": "iSTAR AndroidTV"
+  },
+  {
+   "device": "barking",
+   "name": "S55WD01",
+   "model": "iSTAR AndroidTV"
   }
  ],
  "iSWAG": [

@@ -187734,6 +187734,13 @@
    "model": "Scanfrost 2K Android TV"
   }
  ],
+ "A557CV-UMRBX": [
+  {
+   "brand": "Sceptre",
+   "device": "barking",
+   "model": "SCEPTRE AndroidTV"
+  }
+ ],
  "FreedomTurboXL": [
   {
    "brand": "Schok",
@@ -248286,6 +248293,20 @@
    "brand": "iRulu",
    "device": "iRULU_G36",
    "model": "G36"
+  }
+ ],
+ "S32WD02": [
+  {
+   "brand": "iSTAR",
+   "device": "beaudry",
+   "model": "iSTAR AndroidTV"
+  }
+ ],
+ "S55WD01": [
+  {
+   "brand": "iSTAR",
+   "device": "barking",
+   "model": "iSTAR AndroidTV"
   }
  ],
  "ALPHA": [

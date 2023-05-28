@@ -195061,6 +195061,13 @@
    "device": "martin"
   }
  ],
+ "SCEPTRE AndroidTV": [
+  {
+   "brand": "Sceptre",
+   "name": "A557CV-UMRBX",
+   "device": "barking"
+  }
+ ],
  "FreedomTurboXL": [
   {
    "brand": "Schok",
@@ -261479,6 +261486,18 @@
    "brand": "iRulu",
    "name": "iRULU_G36",
    "device": "iRULU_G36"
+  }
+ ],
+ "iSTAR AndroidTV": [
+  {
+   "brand": "iSTAR",
+   "name": "S32WD02",
+   "device": "beaudry"
+  },
+  {
+   "brand": "iSTAR",
+   "name": "S55WD01",
+   "device": "barking"
   }
  ],
  "APOLLO": [
