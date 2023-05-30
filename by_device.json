@@ -38963,6 +38963,18 @@
    "model": "S4KW3"
   }
  ],
+ "rk3588_t": [
+  {
+   "brand": "ClearTouch",
+   "name": "six_zero_XXAplus",
+   "model": "six_zero_XXAplus"
+  },
+  {
+   "brand": "Newline",
+   "name": "Q23",
+   "model": "Q23"
+  }
+ ],
  "CLEMPAD_2018": [
   {
    "brand": "Clementoni",
@@ -137200,6 +137212,16 @@
    "brand": "Motorola",
    "name": "moto g(7) supra",
    "model": "moto g(7) supra"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 12S",
+   "model": "2303CRA44A"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 12S",
+   "model": "2303ERA42L"
   }
  ],
  "lake": [
@@ -143449,13 +143471,6 @@
    "brand": "Newland",
    "name": "Newland NLS-N7",
    "model": "NLS-N7"
-  }
- ],
- "rk3588_t": [
-  {
-   "brand": "Newline",
-   "name": "Q23",
-   "model": "Q23"
   }
  ],
  "Newsday_A1": [
@@ -167332,6 +167347,13 @@
    "brand": "Redmi",
    "name": "Redmi Note 12 Pro+ 5G",
    "model": "22101316UG"
+  }
+ ],
+ "sea": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 12S",
+   "model": "23030RAC7Y"
   }
  ],
  "biloba": [
@@ -191837,6 +191859,11 @@
   }
  ],
  "sandiego": [
+  {
+   "brand": "Sharp",
+   "name": "FV1",
+   "model": "AQUOS-TVT23A"
+  },
   {
    "brand": "Sharp",
    "name": "FV1",
@@ -227478,6 +227505,18 @@
    "model": "vivo Y27"
   }
  ],
+ "V2248": [
+  {
+   "brand": "Vivo",
+   "name": "Y27 5G",
+   "model": "V2302"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y36 5G",
+   "model": "V2248"
+  }
+ ],
  "Y28": [
   {
    "brand": "Vivo",
@@ -227602,13 +227641,6 @@
    "brand": "Vivo",
    "name": "Y36",
    "model": "V2247"
-  }
- ],
- "V2248": [
-  {
-   "brand": "Vivo",
-   "name": "Y36 5G",
-   "model": "V2248"
   }
  ],
  "Y51": [

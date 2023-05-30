@@ -35976,6 +35976,13 @@
    "device": "m393_4l"
   }
  ],
+ "six_zero_XXAplus": [
+  {
+   "brand": "ClearTouch",
+   "name": "six_zero_XXAplus",
+   "device": "rk3588_t"
+  }
+ ],
  "CLEMPAD_2018": [
   {
    "brand": "Clementoni",
@@ -170768,6 +170775,27 @@
    "device": "rubypro"
   }
  ],
+ "2303CRA44A": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 12S",
+   "device": "ocean"
+  }
+ ],
+ "2303ERA42L": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 12S",
+   "device": "ocean"
+  }
+ ],
+ "23030RAC7Y": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 12S",
+   "device": "sea"
+  }
+ ],
  "M1908C3JGG": [
   {
    "brand": "Redmi",
@@ -197491,6 +197519,13 @@
    "brand": "Sharp",
    "name": "Sharp R1",
    "device": "SE3_VN"
+  }
+ ],
+ "AQUOS-TVT23A": [
+  {
+   "brand": "Sharp",
+   "name": "FV1",
+   "device": "sandiego"
   }
  ],
  "AQUOS-TVX23A": [
@@ -236279,6 +236314,13 @@
    "brand": "Vivo",
    "name": "Y27",
    "device": "Y27"
+  }
+ ],
+ "V2302": [
+  {
+   "brand": "Vivo",
+   "name": "Y27 5G",
+   "device": "V2248"
   }
  ],
  "vivo Y28": [

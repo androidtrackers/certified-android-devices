@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-05-29
+Last sync is 2023-05-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4654,6 +4654,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Classpro|EGS42FHD|ikebukuro|AI PONT|
 |Classpro|G7N|redwood|AI PONT|
 |Classpro|Smart TV|longshan|AI PONT|
+|ClearTouch|six_zero_XXAplus|rk3588_t|six_zero_XXAplus|
 |Clementoni|CLEMPAD_2018|CLEMPAD_2018|CLEMPAD_2018|
 |Clementoni|Clempad 4.4 Basic Special|Clempad2_special|Clempad2_special|
 |Clementoni|Clempad 4.4 Plus|Clempad2_plus|Clempad2_plus|
@@ -24989,6 +24990,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 12 Pro Speed|redwood|22101320C|
 |Redmi|Redmi Note 12 Pro+|rubypro|22101316UCP|
 |Redmi|Redmi Note 12 Pro+ 5G|rubypro|22101316UG|
+|Redmi|Redmi Note 12S|ocean|2303CRA44A|
+|Redmi|Redmi Note 12S|ocean|2303ERA42L|
+|Redmi|Redmi Note 12S|sea|23030RAC7Y|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Redmi|Redmi Note 8|biloba|M1908C3JGG|
 |Redmi|Redmi Note 8|ginkgo|GINKGO|
@@ -28941,6 +28945,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|Europe|guandu|SHARP 4K EU Android TV|
 |Sharp|Europe|martin|SHARP 2K EU Android TV|
 |Sharp|FS8014|SE3|FS8014|
+|Sharp|FV1|sandiego|AQUOS-TVT23A|
 |Sharp|FV1|sandiego|AQUOS-TVX23A|
 |Sharp|GALAPAGOS SoftBank 003SH|SBM003SH|SBM003SH|
 |Sharp|GALAPAGOS SoftBank 005SH|SBM005SH|SBM005SH|
@@ -34972,6 +34977,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y22|Y22|vivo Y22|
 |Vivo|Y22s|V2206|V2206|
 |Vivo|Y27|Y27|vivo Y27|
+|Vivo|Y27 5G|V2248|V2302|
 |Vivo|Y28|Y28|vivo Y28|
 |Vivo|Y30 5G|2160|V2160|
 |Vivo|Y31|PD1505|vivo Y31|
