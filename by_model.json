@@ -470,6 +470,13 @@
    "device": "BUZZ_3_Plus"
   }
  ],
+ "BUZZ 4": [
+  {
+   "brand": "ACE (Global)",
+   "name": "BUZZ 4",
+   "device": "BUZZ_4"
+  }
+ ],
  "CLEVER 3": [
   {
    "brand": "ACE (Global)",
@@ -536,6 +543,13 @@
    "brand": "ACE France",
    "name": "BUZZ 3 Lite",
    "device": "BUZZ_3_Lite"
+  }
+ ],
+ "BUZZ 4S": [
+  {
+   "brand": "ACE France",
+   "name": "BUZZ 4S",
+   "device": "BUZZ_4S"
   }
  ],
  "BUZZ 1 Lite": [
@@ -2184,6 +2198,13 @@
    "brand": "ALPHA_LING",
    "name": "A97GT",
    "device": "A97GT"
+  }
+ ],
+ "A97GT_Pro": [
+  {
+   "brand": "ALPHA_LING",
+   "name": "A97GT_Pro",
+   "device": "A97GT_Pro"
   }
  ],
  "AT-M120": [
@@ -8382,6 +8403,11 @@
   },
   {
    "brand": "TCL",
+   "name": "G03_4K_US_NF_DB",
+   "device": "BeyondTV4"
+  },
+  {
+   "brand": "TCL",
    "name": "G06_2K_GB",
    "device": "G06"
   },
@@ -8706,6 +8732,20 @@
    "brand": "Aligator",
    "name": "Aligator S5066",
    "device": "Aligator_S5066"
+  }
+ ],
+ "Aligator_S6100": [
+  {
+   "brand": "Aligator",
+   "name": "Aligator_S6100",
+   "device": "Aligator_S6100"
+  }
+ ],
+ "Aligator_S6550": [
+  {
+   "brand": "Aligator",
+   "name": "Aligator_S6550",
+   "device": "Aligator_S6550"
   }
  ],
  "RX460": [
@@ -35497,6 +35537,13 @@
    "device": "Hi9Air"
   }
  ],
+ "Hi10 XPro": [
+  {
+   "brand": "Chuwi",
+   "name": "Hi10_XPro",
+   "device": "Hi10_XPro"
+  }
+ ],
  "Hi9": [
   {
    "brand": "Chuwi",
@@ -53146,6 +53193,11 @@
    "device": "X8_3gb"
   },
   {
+   "brand": "IkuMobile",
+   "name": "X8",
+   "device": "X8"
+  },
+  {
    "brand": "Kenxinda",
    "name": "X8",
    "device": "X8"
@@ -54143,6 +54195,20 @@
    "brand": "F-Plus",
    "name": "SH60_23230",
    "device": "SH60_23230"
+  }
+ ],
+ "SH65 2GB/32GB 4800mAh GMS": [
+  {
+   "brand": "F-Plus",
+   "name": "SH65_23248",
+   "device": "SH65_23248"
+  }
+ ],
+ "SH65_23248": [
+  {
+   "brand": "F-Plus",
+   "name": "SH65_23248",
+   "device": "SH65_23248"
   }
  ],
  "Air1": [
@@ -75408,6 +75474,13 @@
    "device": "HLTE106E_02"
   }
  ],
+ "Hisense U60": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U964",
+   "device": "HLTE106E_01"
+  }
+ ],
  "Hisense U964": [
   {
    "brand": "Hisense",
@@ -92642,6 +92715,13 @@
    "device": "IK-1028"
   }
  ],
+ "A10s": [
+  {
+   "brand": "IkuMobile",
+   "name": "A10s",
+   "device": "A10s"
+  }
+ ],
  "A11": [
   {
    "brand": "IkuMobile",
@@ -92707,6 +92787,13 @@
    "brand": "IkuMobile",
    "name": "A70",
    "device": "A70"
+  }
+ ],
+ "A7 Plus": [
+  {
+   "brand": "IkuMobile",
+   "name": "A7_Plus",
+   "device": "A7_Plus"
   }
  ],
  "IKU i3": [
@@ -101408,6 +101495,13 @@
    "brand": "KONKA",
    "name": "sp6",
    "device": "SP6"
+  }
+ ],
+ "GEMINI": [
+  {
+   "brand": "KOOLMAAX",
+   "name": "GEMINI",
+   "device": "GEMINI"
   }
  ],
  "K1 Trio": [
@@ -162905,6 +162999,13 @@
    "device": "WBW5613QM"
   }
  ],
+ "X76": [
+  {
+   "brand": "Premio",
+   "name": "X76",
+   "device": "X76"
+  }
+ ],
  "X83": [
   {
    "brand": "Premio",
@@ -172684,6 +172785,13 @@
    "brand": "SILVER MAX",
    "name": "ST-710G",
    "device": "ST_710G"
+  }
+ ],
+ "SWA10E5LTE": [
+  {
+   "brand": "SILVERWIN",
+   "name": "SWA10E5LTE",
+   "device": "SWA10E5LTE"
   }
  ],
  "SITIH3455N": [
@@ -202376,11 +202484,46 @@
    "device": "I4293"
   }
  ],
+ "A302SO": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 V",
+   "device": "A302SO"
+  }
+ ],
  "SO-52D": [
   {
    "brand": "Sony",
    "name": "Xperia 10 V",
    "device": "SO-52D"
+  }
+ ],
+ "SOG11": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 V",
+   "device": "SOG11"
+  }
+ ],
+ "XQ-DC44": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 V",
+   "device": "XQ-DC44"
+  }
+ ],
+ "XQ-DC54": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 V",
+   "device": "XQ-DC54"
+  }
+ ],
+ "XQ-DC72": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 10 V",
+   "device": "XQ-DC72"
   }
  ],
  "901SO": [
@@ -206878,6 +207021,13 @@
    "brand": "Stylo",
    "name": "PRIME",
    "device": "PRIME"
+  }
+ ],
+ "Phoenix": [
+  {
+   "brand": "Stylo",
+   "name": "Phoenix",
+   "device": "Phoenix"
   }
  ],
  "S40 Vino": [
@@ -225626,6 +225776,13 @@
    "device": "HERO10RK"
   }
  ],
+ "Origin_679": [
+  {
+   "brand": "Thomson",
+   "name": "Origin_679",
+   "device": "Origin_679"
+  }
+ ],
  "PRIMO7": [
   {
    "brand": "Thomson",
@@ -236172,6 +236329,20 @@
    "device": "V2204"
   }
  ],
+ "V2252": [
+  {
+   "brand": "Vivo",
+   "name": "Y02t",
+   "device": "V2254"
+  }
+ ],
+ "V2254": [
+  {
+   "brand": "Vivo",
+   "name": "Y02t",
+   "device": "V2254"
+  }
+ ],
  "V2239": [
   {
    "brand": "Vivo",
@@ -237986,6 +238157,13 @@
    "device": "VFD321"
   }
  ],
+ "VODAFONE TV": [
+  {
+   "brand": "Vodafone",
+   "name": "VODAFONE TV",
+   "device": "m393gena_vf"
+  }
+ ],
  "VFD 100": [
   {
    "brand": "Vodafone",
@@ -238101,6 +238279,13 @@
    "brand": "Vodafone",
    "name": "Vodafone TV",
    "device": "uiw4030vha"
+  }
+ ],
+ "Vodafone TV 3": [
+  {
+   "brand": "Vodafone",
+   "name": "Vodafone TV 3",
+   "device": "m377_vf"
   }
  ],
  "X100_EEA": [
@@ -245937,6 +246122,13 @@
    "brand": "Yezz",
    "name": "LIV3_LTE",
    "device": "LIV3_LTE"
+  }
+ ],
+ "LIV_3S": [
+  {
+   "brand": "Yezz",
+   "name": "LIV_3S",
+   "device": "LIV_3S"
   }
  ],
  "MAX2": [
@@ -258938,6 +259130,13 @@
    "device": "P10SU_Plus"
   }
  ],
+ "P10SU_Pro": [
+  {
+   "brand": "amulet7",
+   "name": "P10SU_Pro",
+   "device": "P10SU_Pro"
+  }
+ ],
  "S6525 RU": [
   {
    "brand": "angel care",
@@ -259946,6 +260145,11 @@
    "brand": "i-PLUS",
    "name": "Nu70",
    "device": "Nu70"
+  },
+  {
+   "brand": "iPlus",
+   "name": "Nu70",
+   "device": "NU70"
   }
  ],
  "AF51": [
@@ -263431,6 +263635,13 @@
    "brand": "vatenick",
    "name": "v7-EEA",
    "device": "v7-EEA"
+  }
+ ],
+ "IX90_CQA1103": [
+  {
+   "brand": "verifone",
+   "name": "IX90_CQA1103",
+   "device": "IX90_CQA1103"
   }
  ],
  "IX90_CQA1103_EEA": [
