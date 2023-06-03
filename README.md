@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-06-02
+Last sync is 2023-06-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -20083,6 +20083,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g 5G|kiev|motorola edge|
 |Motorola|moto g 5G (2022)|austin|moto g 5G (2022)|
 |Motorola|moto g 5G (2022)|austin|moto g pure|
+|Motorola|moto g 5G - 2023|pnangn|moto g 5G - 2023|
+|Motorola|moto g 5G - 2023|pnangn|moto g stylus 5G (2022)|
 |Motorola|moto g 5G plus|nairo|moto g 5G plus|
 |Motorola|moto g fast|rav|moto g fast|
 |Motorola|moto g play (2021)|guamna|moto g play (2021)|
