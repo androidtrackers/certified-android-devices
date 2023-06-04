@@ -370,6 +370,11 @@
  ],
  "ADOC": [
   {
+   "device": "rk3588_t",
+   "name": "ADOC EX650",
+   "model": "ADOCEX650"
+  },
+  {
    "device": "D30",
    "name": "D30",
    "model": "D30"
@@ -21312,6 +21317,13 @@
    "device": "patrick",
    "name": "Argentina",
    "model": "Crown Mustang 4K Android TV"
+  }
+ ],
+ "CVTE": [
+  {
+   "device": "rk3588_t",
+   "name": "edu_v2",
+   "model": "edu_v2"
   }
  ],
  "CWELL": [
@@ -178565,6 +178577,11 @@
    "model": "V2253"
   },
   {
+   "device": "V2225",
+   "name": "T2x 5G",
+   "model": "V2312"
+  },
+  {
    "device": "PD2180",
    "name": "U5x",
    "model": "V2180GA"
@@ -180213,6 +180230,11 @@
    "device": "V2225",
    "name": "Y56 5G",
    "model": "V2225"
+  },
+  {
+   "device": "V2225",
+   "name": "Y56 5G",
+   "model": "V2311"
   },
   {
    "device": "PD1621",

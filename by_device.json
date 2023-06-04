@@ -585,6 +585,28 @@
    "model": "AC_934312"
   }
  ],
+ "rk3588_t": [
+  {
+   "brand": "ADOC",
+   "name": "ADOC EX650",
+   "model": "ADOCEX650"
+  },
+  {
+   "brand": "CVTE",
+   "name": "edu_v2",
+   "model": "edu_v2"
+  },
+  {
+   "brand": "ClearTouch",
+   "name": "six_zero_XXAplus",
+   "model": "six_zero_XXAplus"
+  },
+  {
+   "brand": "Newline",
+   "name": "Q23",
+   "model": "Q23"
+  }
+ ],
  "D30": [
   {
    "brand": "ADOC",
@@ -39071,18 +39093,6 @@
    "brand": "Claro",
    "name": "S4KW3",
    "model": "S4KW3"
-  }
- ],
- "rk3588_t": [
-  {
-   "brand": "ClearTouch",
-   "name": "six_zero_XXAplus",
-   "model": "six_zero_XXAplus"
-  },
-  {
-   "brand": "Newline",
-   "name": "Q23",
-   "model": "Q23"
   }
  ],
  "CLEMPAD_2018": [
@@ -226221,8 +226231,18 @@
   },
   {
    "brand": "Vivo",
+   "name": "T2x 5G",
+   "model": "V2312"
+  },
+  {
+   "brand": "Vivo",
    "name": "Y56 5G",
    "model": "V2225"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y56 5G",
+   "model": "V2311"
   }
  ],
  "PD2180": [

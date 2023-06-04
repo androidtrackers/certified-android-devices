@@ -6326,6 +6326,13 @@
    "model": "AC_934312"
   }
  ],
+ "ADOC EX650": [
+  {
+   "brand": "ADOC",
+   "device": "rk3588_t",
+   "model": "ADOCEX650"
+  }
+ ],
  "D30": [
   {
    "brand": "ADOC",
@@ -38580,6 +38587,13 @@
    "brand": "CROWN MUSTANG",
    "device": "patrick",
    "model": "Crown Mustang 4K Android TV"
+  }
+ ],
+ "edu_v2": [
+  {
+   "brand": "CVTE",
+   "device": "rk3588_t",
+   "model": "edu_v2"
   }
  ],
  "C10G": [
@@ -224218,6 +224232,11 @@
    "brand": "Vivo",
    "device": "V2225",
    "model": "V2253"
+  },
+  {
+   "brand": "Vivo",
+   "device": "V2225",
+   "model": "V2312"
   }
  ],
  "U5x": [
@@ -226351,6 +226370,11 @@
    "brand": "Vivo",
    "device": "V2225",
    "model": "V2225"
+  },
+  {
+   "brand": "Vivo",
+   "device": "V2225",
+   "model": "V2311"
   }
  ],
  "Y66": [

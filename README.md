@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-06-03
+Last sync is 2023-06-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -70,6 +70,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ACT|ACT4K1007|IPBox|ACT4K1007|
 |ACT|ACT4K2020|HP40A|ACT4K2020|
 |ACTECK|AC_934312|AC_934312|AC_934312|
+|ADOC|ADOC EX650|rk3588_t|ADOCEX650|
 |ADOC|D30|D30|D30|
 |ADOC|M3|M3|M3|
 |ADVAN|ADVANNASAPro|ADVANNASAPro|ADVANNASAPro|
@@ -4120,6 +4121,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CRONY|Smart TV|longshan|AI PONT|
 |CROWN MUSTANG|Argentina|martin|Crown Mustang 2K Android TV|
 |CROWN MUSTANG|Argentina|patrick|Crown Mustang 4K Android TV|
+|CVTE|edu_v2|rk3588_t|edu_v2|
 |CWELL|M10|M10|CWELL M10|
 |CWOWDEFU|C10G|C10G|C10G|
 |CWOWDEFU|C10W_EEA|C10W_EEA|C10W_EEA|
@@ -34779,6 +34781,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|T1x|2135|V2143|
 |Vivo|T2 5G|V2222|V2240|
 |Vivo|T2x 5G|V2225|V2253|
+|Vivo|T2x 5G|V2225|V2312|
 |Vivo|U5x|PD2180|V2180GA|
 |Vivo|V1|V1|vivo V1|
 |Vivo|V1730EA|PD1730E|V1730EA|
@@ -35109,6 +35112,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y55s|1610|vivo 1610|
 |Vivo|Y55s|PD2164|V2164A|
 |Vivo|Y56 5G|V2225|V2225|
+|Vivo|Y56 5G|V2225|V2311|
 |Vivo|Y66|PD1621|vivo Y66|
 |Vivo|Y67|PD1612|vivo Y67|
 |Vivo|Y71|1801|vivo 1801|

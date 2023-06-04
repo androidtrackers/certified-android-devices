@@ -608,6 +608,13 @@
    "device": "AC_934312"
   }
  ],
+ "ADOCEX650": [
+  {
+   "brand": "ADOC",
+   "name": "ADOC EX650",
+   "device": "rk3588_t"
+  }
+ ],
  "D30": [
   {
    "brand": "ADOC",
@@ -32230,6 +32237,13 @@
    "brand": "CROWN MUSTANG",
    "name": "Argentina",
    "device": "patrick"
+  }
+ ],
+ "edu_v2": [
+  {
+   "brand": "CVTE",
+   "name": "edu_v2",
+   "device": "rk3588_t"
   }
  ],
  "CWELL M10": [
@@ -234878,6 +234892,13 @@
    "device": "V2225"
   }
  ],
+ "V2312": [
+  {
+   "brand": "Vivo",
+   "name": "T2x 5G",
+   "device": "V2225"
+  }
+ ],
  "V2180GA": [
   {
    "brand": "Vivo",
@@ -237165,6 +237186,13 @@
   }
  ],
  "V2225": [
+  {
+   "brand": "Vivo",
+   "name": "Y56 5G",
+   "device": "V2225"
+  }
+ ],
+ "V2311": [
   {
    "brand": "Vivo",
    "name": "Y56 5G",
