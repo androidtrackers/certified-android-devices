@@ -31426,6 +31426,13 @@
    "model": "G61S"
   }
  ],
+ "G0870": [
+  {
+   "brand": "Blu",
+   "name": "G63",
+   "model": "G63"
+  }
+ ],
  "G0151WW": [
   {
    "brand": "Blu",
@@ -31777,6 +31784,13 @@
    "brand": "Blu",
    "name": "Life One X3",
    "model": "Life One X3"
+  }
+ ],
+ "M0178_ND": [
+  {
+   "brand": "Blu",
+   "name": "M10L",
+   "model": "M10L"
   }
  ],
  "M0190WW": [
@@ -137981,6 +137995,20 @@
    "model": "XT1941-2"
   }
  ],
+ "lynkco": [
+  {
+   "brand": "Motorola",
+   "name": "moto razr 40",
+   "model": "XT2323-3"
+  }
+ ],
+ "zeekr": [
+  {
+   "brand": "Motorola",
+   "name": "moto razr 40 Ultra",
+   "model": "XT2321-2"
+  }
+ ],
  "mototabg20": [
   {
    "brand": "Motorola",
@@ -204778,6 +204806,13 @@
    "brand": "TCT (Alcatel)",
    "name": "TCL 30E",
    "model": "6127A"
+  }
+ ],
+ "Encore_OM": [
+  {
+   "brand": "TCL",
+   "name": "TCL 40 X 5G",
+   "model": "T609M"
   }
  ],
  "Encore_CAN": [

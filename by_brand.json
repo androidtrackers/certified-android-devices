@@ -18451,6 +18451,11 @@
    "model": "G61S"
   },
   {
+   "device": "G0870",
+   "name": "G63",
+   "model": "G63"
+  },
+  {
    "device": "G0151WW",
    "name": "G70",
    "model": "G70"
@@ -18709,6 +18714,11 @@
    "device": "L0150WW",
    "name": "Life One X3",
    "model": "Life One X3"
+  },
+  {
+   "device": "M0178_ND",
+   "name": "M10L",
+   "model": "M10L"
   },
   {
    "device": "M0190WW",
@@ -103882,6 +103892,16 @@
    "model": "XT1941-2"
   },
   {
+   "device": "lynkco",
+   "name": "moto razr 40",
+   "model": "XT2323-3"
+  },
+  {
+   "device": "zeekr",
+   "name": "moto razr 40 Ultra",
+   "model": "XT2321-2"
+  },
+  {
    "device": "mototabg20",
    "name": "moto tab g20",
    "model": "moto tab g20"
@@ -158868,6 +158888,11 @@
    "device": "Model_3",
    "name": "TCL 40 SE",
    "model": "T610K"
+  },
+  {
+   "device": "Encore_OM",
+   "name": "TCL 40 X 5G",
+   "model": "T609M"
   },
   {
    "device": "Encore_CAN",

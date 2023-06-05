@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-06-04
+Last sync is 2023-06-05
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3579,6 +3579,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G61S|G0520WW|G61S|
 |Blu|G61S|G0530WW|G61S|
 |Blu|G61S|G0630WW|G61S|
+|Blu|G63|G0870|G63|
 |Blu|G70|G0151WW|G70|
 |Blu|G70|G0250WW|G70|
 |Blu|G70|G0251WW|G70|
@@ -3631,6 +3632,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Life Mark|BLU_LIFE_MARK|BLU LIFE MARK|
 |Blu|Life Max|Life_Max|Life Max|
 |Blu|Life One X3|L0150WW|Life One X3|
+|Blu|M10L|M0178_ND|M10L|
 |Blu|M10L|M0190WW|M10L|
 |Blu|M10L PLUS|M0223_ND|M10L PLUS|
 |Blu|M6|M0030TT|M6|
@@ -20214,6 +20216,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g82 5G|rhodep|moto g82 5G|
 |Motorola|moto p30|robusta|XT1943-1|
 |Motorola|moto p30 play|deen|XT1941-2|
+|Motorola|moto razr 40|lynkco|XT2323-3|
+|Motorola|moto razr 40 Ultra|zeekr|XT2321-2|
 |Motorola|moto tab g20|mototabg20|moto tab g20|
 |Motorola|moto z3 play|beckham|Moto Z3 Play|
 |Motorola|moto z4|foles|Moto Z3 Play|
@@ -30958,6 +30962,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 40 R 5G|Levin|T771H|
 |TCL|TCL 40 SE|Model_3|T610E|
 |TCL|TCL 40 SE|Model_3|T610K|
+|TCL|TCL 40 X 5G|Encore_OM|T609M|
 |TCL|TCL 40 XE 5G|Encore_CAN|T609J|
 |TCL|TCL 40XL|Sonata_Pro_OM|T608M|
 |TCL|TCL A3X|Delhi_TF|A600DL|

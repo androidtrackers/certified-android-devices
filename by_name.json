@@ -34234,6 +34234,13 @@
    "model": "G61S"
   }
  ],
+ "G63": [
+  {
+   "brand": "Blu",
+   "device": "G0870",
+   "model": "G63"
+  }
+ ],
  "G70": [
   {
    "brand": "Blu",
@@ -34652,6 +34659,11 @@
   }
  ],
  "M10L": [
+  {
+   "brand": "Blu",
+   "device": "M0178_ND",
+   "model": "M10L"
+  },
   {
    "brand": "Blu",
    "device": "M0190WW",
@@ -138247,6 +138259,20 @@
    "model": "XT1941-2"
   }
  ],
+ "moto razr 40": [
+  {
+   "brand": "Motorola",
+   "device": "lynkco",
+   "model": "XT2323-3"
+  }
+ ],
+ "moto razr 40 Ultra": [
+  {
+   "brand": "Motorola",
+   "device": "zeekr",
+   "model": "XT2321-2"
+  }
+ ],
  "moto tab g20": [
   {
    "brand": "Motorola",
@@ -202109,6 +202135,13 @@
    "brand": "TCL",
    "device": "Model_3",
    "model": "T610K"
+  }
+ ],
+ "TCL 40 X 5G": [
+  {
+   "brand": "TCL",
+   "device": "Encore_OM",
+   "model": "T609M"
   }
  ],
  "TCL 40 XE 5G": [
