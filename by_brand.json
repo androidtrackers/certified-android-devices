@@ -1096,6 +1096,18 @@
    "model": "ASTECH UHD Android TV"
   }
  ],
+ "ASTEX": [
+  {
+   "device": "capitolhill",
+   "name": "ASTEX 2K Google TV",
+   "model": "ASTEX 2K Google TV"
+  },
+  {
+   "device": "bandra",
+   "name": "ASTEX Google TV",
+   "model": "ASTEX Google TV"
+  }
+ ],
  "ASTON": [
   {
    "device": "IDEA",
@@ -17459,6 +17471,11 @@
    "model": "Blaupunkt 4K Android TV"
   },
   {
+   "device": "keoneae",
+   "name": "Blaupunkt 4K Google TV",
+   "model": "Blaupunkt 4K Google TV"
+  },
+  {
    "device": "Blaupunkt_SL_01",
    "name": "Blaupunkt SL 01",
    "model": "Blaupunkt SL 01"
@@ -30765,6 +30782,13 @@
    "model": "DIGIT INFINITY MAX"
   }
  ],
+ "DigiKing": [
+  {
+   "device": "keoneae",
+   "name": "Digiking 4K Google TV",
+   "model": "Digiking 4K Google TV"
+  }
+ ],
  "DigiLand": [
   {
    "device": "10542843",
@@ -33743,6 +33767,16 @@
  ],
  "Dyon": [
   {
+   "device": "capitolhill",
+   "name": "DYON 2K Google TV",
+   "model": "DYON 2K Google TV"
+  },
+  {
+   "device": "keoneae",
+   "name": "DYON 4K Google TV",
+   "model": "DYON 4K Google TV"
+  },
+  {
    "device": "bangbae",
    "name": "Dyon",
    "model": "Dyon 4K Android TV"
@@ -34191,6 +34225,11 @@
    "device": "zhongshan",
    "name": "EKO",
    "model": "EKO 4K Android TV"
+  },
+  {
+   "device": "keoneae",
+   "name": "EKO 4K Google TV",
+   "model": "EKO 4K Google TV"
   },
   {
    "device": "EKO_OMEGA_LTE_Q60",
@@ -44908,6 +44947,13 @@
    "device": "mateo",
    "name": "Smart TV",
    "model": "2K SA Smart TV"
+  }
+ ],
+ "GreenLion": [
+  {
+   "device": "G-10_ULTRA",
+   "name": "G-10_ULTRA",
+   "model": "G-10 ULTRA"
   }
  ],
  "Greentel": [
@@ -73719,6 +73765,16 @@
    "model": "Cygnus"
   },
   {
+   "device": "capitolhill",
+   "name": "HK 2K Google TV",
+   "model": "HK 2K Google TV"
+  },
+  {
+   "device": "keoneae",
+   "name": "HK 4K Google TV-A",
+   "model": "HK 4K Google TV-A"
+  },
+  {
    "device": "KC516",
    "name": "KC516",
    "model": "KC516"
@@ -73772,6 +73828,16 @@
    "device": "kenton",
    "name": "KONKA 4K Android TV-A",
    "model": "KONKA 4K Android TV-A"
+  },
+  {
+   "device": "keoneae",
+   "name": "KONKA 4K Google TV",
+   "model": "HK 4K Google TV"
+  },
+  {
+   "device": "bandra",
+   "name": "KONKA 4K OLED Google TV",
+   "model": "HK Google TV"
   },
   {
    "device": "hongik",
@@ -76096,6 +76162,11 @@
    "model": "Kogan Agora 6Plus"
   },
   {
+   "device": "samseong",
+   "name": "Android TV",
+   "model": "AI PONT"
+  },
+  {
    "device": "nippori",
    "name": "Australia",
    "model": "Kogan SmarterTV 2K"
@@ -76128,11 +76199,6 @@
   {
    "device": "ikebukuro",
    "name": "KALED32RH9210STA",
-   "model": "AI PONT"
-  },
-  {
-   "device": "samseong",
-   "name": "KALED50XU9210STA",
    "model": "AI PONT"
   },
   {
@@ -113659,6 +113725,11 @@
    "model": "CPH2473"
   },
   {
+   "device": "OP56E7L1",
+   "name": "CPH2527",
+   "model": "CPH2527"
+  },
+  {
    "device": "OP4883",
    "name": "F11",
    "model": "CPH1911"
@@ -120622,6 +120693,11 @@
    "device": "Kids_8",
    "name": "Kids_8",
    "model": "Kids_8"
+  },
+  {
+   "device": "P60Plus",
+   "name": "P60Plus",
+   "model": "P60Plus"
   },
   {
    "device": "P60_Pro",
@@ -128890,6 +128966,11 @@
    "device": "sea",
    "name": "Redmi Note 12S",
    "model": "23030RAC7Y"
+  },
+  {
+   "device": "pearl",
+   "name": "Redmi Note 12T Pro",
+   "model": "23054RA19C"
   },
   {
    "device": "lavender",
@@ -156335,6 +156416,16 @@
    "model": "SHARK"
   },
   {
+   "device": "capitolhill",
+   "name": "STREAM 2K Google TV",
+   "model": "STREAM 2K Google TV"
+  },
+  {
+   "device": "keoneae",
+   "name": "STREAM 4K Google TV",
+   "model": "STREAM 4K Google TV"
+  },
+  {
    "device": "DV8555-Altice",
    "name": "Stream",
    "model": "Stream"
@@ -169713,6 +169804,11 @@
    "model": "TECNO LE8"
   },
   {
+   "device": "TECNO-LH6n",
+   "name": "TECNO POVA Neo 3",
+   "model": "TECNO LH6n"
+  },
+  {
    "device": "TECNO-R6",
    "name": "TECNO R6S",
    "model": "TECNO R6S"
@@ -182260,6 +182356,11 @@
    "model": "VU TV FFM"
   },
   {
+   "device": "keoneae",
+   "name": "VU 4K Google TV",
+   "model": "VU 4K Google TV"
+  },
+  {
    "device": "hamamatsucho",
    "name": "fushan_vu",
    "model": "Smart 2K ATV4"
@@ -187326,6 +187427,11 @@
    "device": "soul",
    "name": "Xiaomi TV stick 4K",
    "model": "MiTV-AYFR0"
+  },
+  {
+   "device": "yuechu",
+   "name": "Xiaomi civi 3",
+   "model": "23046PNC9C"
   },
   {
    "device": "ziyi",
@@ -200855,6 +200961,16 @@
    "device": "bruno",
    "name": "innos",
    "model": "Innos2KAndroidTV"
+  },
+  {
+   "device": "capitolhill",
+   "name": "innos 2K Google TV",
+   "model": "innos 2K Google TV"
+  },
+  {
+   "device": "keoneae",
+   "name": "innos 4K Google TV",
+   "model": "innos 4K Google TV"
   }
  ],
  "intelkom": [

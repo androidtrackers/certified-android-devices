@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-06-05
+Last sync is 2023-06-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -202,6 +202,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ASTECH|R4|R4|R4|
 |ASTECH|Senegal|tamachi|ASTECH FHD Android TV|
 |ASTECH|Senegal|yeongdeungpo|ASTECH UHD Android TV|
+|ASTEX|ASTEX 2K Google TV|capitolhill|ASTEX 2K Google TV|
+|ASTEX|ASTEX Google TV|bandra|ASTEX Google TV|
 |ASTON|IDEA|IDEA|IDEA|
 |ASTON|NEO|NEO|NEO|
 |AT&T|9020A|tint8_att|9020A|
@@ -3381,6 +3383,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|Blaupunkt|shilin|BLAUPUNKT 4K Android TV|
 |Blaupunkt|Blaupunkt|sindang|BLAU-TVE19H|
 |Blaupunkt|Blaupunkt|zhongshan|Blaupunkt 4K Android TV|
+|Blaupunkt|Blaupunkt 4K Google TV|keoneae|Blaupunkt 4K Google TV|
 |Blaupunkt|Blaupunkt SL 01|Blaupunkt_SL_01|Blaupunkt SL 01|
 |Blaupunkt|Blaupunkt SL 02|Blaupunkt_SL_02|Blaupunkt SL 02|
 |Blaupunkt|Blaupunkt SL 04|Blaupunkt_SL_04|Blaupunkt SL 04|
@@ -5941,6 +5944,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Digi|Digi R2|Digi_R2|Digi R2|
 |Digi|Digi_K2_EEA|Digi_K2|Digi K2|
 |Digi|INFINITY MAX|DIGIT_INFINITY_MAX|DIGIT INFINITY MAX|
+|DigiKing|Digiking 4K Google TV|keoneae|Digiking 4K Google TV|
 |DigiLand|10542843|10542843|10542843|
 |DigiLand|206886-01|mdt9003|206886-01|
 |DigiLand|Compumax Blue|mid1016_ma|Compumax Blue|
@@ -6519,6 +6523,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Duubee|W1|W1|W1|
 |Duubee|W2|W2|W2|
 |Dynalink|STI6130-D350|sti6130d350|Dynalink TV Box|
+|Dyon|DYON 2K Google TV|capitolhill|DYON 2K Google TV|
+|Dyon|DYON 4K Google TV|keoneae|DYON 4K Google TV|
 |Dyon|Dyon|bangbae|Dyon 4K Android TV|
 |Dyon|Dyon|komagome|Dyon 2K Android TV|
 |Dyon|Dyon|stanford|2K SMART TV|
@@ -6601,6 +6607,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EKO|EKO|komagome|EKO 2K Android TV|
 |EKO|EKO|shilin|EKO 4K Android TV|
 |EKO|EKO|zhongshan|EKO 4K Android TV|
+|EKO|EKO 4K Google TV|keoneae|EKO 4K Google TV|
 |EKO|EKO OMEGA LTE Q60|EKO_OMEGA_LTE_Q60|EKO OMEGA LTE Q60|
 |EKO|EKO OMEGA Q55|EKO_OMEGA_Q55|EKO OMEGA Q55|
 |EKO|EKO Star LTE G60|EKO_Star_LTE_G60|EKO Star LTE G60|
@@ -8644,6 +8651,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Green House|4K Smart TV|pioneer|4K SA Smart TV|
 |Green House|GREEN HOUSE TV|SW6H|GREEN HOUSE TV|
 |Green House|Smart TV|mateo|2K SA Smart TV|
+|GreenLion|G-10_ULTRA|G-10_ULTRA|G-10 ULTRA|
 |Greentel|A10_premium|A10_premium|A10_premium|
 |Greentel|A8|A8|A8|
 |Greentel|A9|A9|A9|
@@ -14307,6 +14315,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KONDE|KIDS_FIVE|KIDS_FIVE|KIDS_FIVE|
 |KONKA|"Asia Pacific|Europe|MiddleEast，Africa"|
 |KONKA|Cygnus|Cygnus|Cygnus|
+|KONKA|HK 2K Google TV|capitolhill|HK 2K Google TV|
+|KONKA|HK 4K Google TV-A|keoneae|HK 4K Google TV-A|
 |KONKA|KC516|KC516|KC516|
 |KONKA|KC516_Pro|KC516_Pro|KC516 Pro|
 |KONKA|KM7012BK|KM7012BK|KM7012BK|
@@ -14318,6 +14328,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KONKA|KONKA 2K Android TV-A|lasalle|KONKA 2K Android TV-A|
 |KONKA|KONKA 4K Android TV|kenton|KONKA 4K Android TV|
 |KONKA|KONKA 4K Android TV-A|kenton|KONKA 4K Android TV-A|
+|KONKA|KONKA 4K Google TV|keoneae|HK 4K Google TV|
+|KONKA|KONKA 4K OLED Google TV|bandra|HK Google TV|
 |KONKA|KONKA Android TV|hongik|KONKA 4K Android TV|
 |KONKA|Konka Android TV|uguisudani|KONKA 2K Android TV|
 |KONKA|Konka android tv|hanyang|KONKA Android TV 4K|
@@ -14762,6 +14774,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kodak|SP4|SP4|SP4|
 |Kodak|Smartway_T1|Smartway_T1|Smartway_T1|
 |Kogan|Agora 6 Plus|Kogan_Agora_6Plus|Kogan Agora 6Plus|
+|Kogan|Android TV|samseong|AI PONT|
 |Kogan|Australia|nippori|Kogan SmarterTV 2K|
 |Kogan|Australia|shibuya|KoganTVAP|
 |Kogan|Australia|tamachi|Kogan TV|
@@ -14769,7 +14782,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kogan|Australia and New Zeeland|guandu|Kogan 4K TV|
 |Kogan|EU、UK、AP|martin|Kogan TV|
 |Kogan|KALED32RH9210STA|ikebukuro|AI PONT|
-|Kogan|KALED50XU9210STA|samseong|AI PONT|
 |Kogan|Kogan 4K Android TV|SW4H|Kogan 4K Android TV|
 |Kogan|Kogan 4K PRO Android TV|SW4H_FF|Kogan 4K PRO Android TV|
 |Kogan|Kogan Agora 8 Plus|Agora_8_Plus|Agora 8 Plus|
@@ -22099,6 +22111,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|CPH2457|OP56E1L1|CPH2457|
 |Oppo|CPH2461|OP533FL1|CPH2461|
 |Oppo|CPH2473|OP5637L1|CPH2473|
+|Oppo|CPH2527|OP56E7L1|CPH2527|
 |Oppo|F11|OP4883|CPH1911|
 |Oppo|F11|OP4883|CPH1913|
 |Oppo|F11|OP4883|CPH1915|
@@ -23460,6 +23473,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Plimpton|Kids_10|Kids_10|Kids_10|
 |Plimpton|Kids_10_ver13|Kids_10_ver13|Kids 10|
 |Plimpton|Kids_8|Kids_8|Kids_8|
+|Plimpton|P60Plus|P60Plus|P60Plus|
 |Plimpton|P60_Pro|P60_Pro|PlimPad_P60_Pro|
 |Plimpton|P8|P8|P8|
 |Plimpton|PlimPad_P3|PlimPad_P3|PlimPad P3|
@@ -25070,6 +25084,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 12S|ocean|2303CRA44A|
 |Redmi|Redmi Note 12S|ocean|2303ERA42L|
 |Redmi|Redmi Note 12S|sea|23030RAC7Y|
+|Redmi|Redmi Note 12T Pro|pearl|23054RA19C|
 |Redmi|Redmi Note 7|lavender|Redmi Note 7|
 |Redmi|Redmi Note 8|biloba|M1908C3JGG|
 |Redmi|Redmi Note 8|ginkgo|GINKGO|
@@ -30469,6 +30484,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stream|PERLA|PERLA|PERLA|
 |Stream|S7|MIRROR|S7|
 |Stream|SHARK|SHARK|SHARK|
+|Stream|STREAM 2K Google TV|capitolhill|STREAM 2K Google TV|
+|Stream|STREAM 4K Google TV|keoneae|STREAM 4K Google TV|
 |Stream|Stream|DV8555-Altice|Stream|
 |Stream System|Android TV|R1|ATV R1|
 |Stream System|Android TV|R2|ATV R2|
@@ -33093,6 +33110,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO POVA 4|TECNO-LG7n|TECNO LG7n|
 |Tecno|TECNO POVA 4 Pro|TECNO-LG8n|TECNO LG8n|
 |Tecno|TECNO POVA 5G|TECNO-LE8|TECNO LE8|
+|Tecno|TECNO POVA Neo 3|TECNO-LH6n|TECNO LH6n|
 |Tecno|TECNO R6S|TECNO-R6|TECNO R6S|
 |Tecno|TECNO R7+|TECNO-RC6|TECNO RC6|
 |Tecno|TECNO RB7S|TECNO-RB7S|TECNO RB7S|
@@ -35510,6 +35528,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vu Televisions|50CLED/55CLED/65CLED|songshan|VU TV FFM|
 |Vu Televisions|Android TV|longshan|AI PONT|
 |Vu Televisions|ULED|wuyishan|VU TV FFM|
+|Vu Televisions|VU 4K Google TV|keoneae|VU 4K Google TV|
 |Vu Televisions|fushan_vu|hamamatsucho|Smart 2K ATV4|
 |Vu Televisions|huangshan_emV|huangshan|VU TV|
 |Vu Televisions|xiaoyushan-vu|xiaoyushan|HiSmartTV A4|
@@ -36492,6 +36511,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi Pad 6|pipa|23043RP34C|
 |Xiaomi|Xiaomi TV Box S (2nd Gen)|jaws|MiTV-AFKR0|
 |Xiaomi|Xiaomi TV stick 4K|soul|MiTV-AYFR0|
+|Xiaomi|Xiaomi civi 3|yuechu|23046PNC9C|
 |Xiaomi|Xiaomi civi2|ziyi|2209129SC|
 |Xiaomi|Xiaomi pad 6 Pro|liuqin|23046RP50C|
 |Xiaomi|小米手表|baiji|Mi Watch|
@@ -39133,6 +39153,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |innos|Android TV|R2|ATV R2|
 |innos|Innos|shilin|Innos4KAndroidTV|
 |innos|innos|bruno|Innos2KAndroidTV|
+|innos|innos 2K Google TV|capitolhill|innos 2K Google TV|
+|innos|innos 4K Google TV|keoneae|innos 4K Google TV|
 |intelkom|meanIT_C1|meanIT_C1|meanIT_C1|
 |intelkom|meanIT_C2|meanIT_C2|meanIT_C2|
 |intelkom|meanIT_X2|meanIT_X2|meanIT_X2|
