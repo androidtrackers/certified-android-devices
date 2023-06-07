@@ -9509,6 +9509,18 @@
    "model": "TECNO-C5"
   }
  ],
+ "C5L PLUS": [
+  {
+   "brand": "Accent",
+   "device": "C5_PLUS",
+   "model": "C5 PLUS"
+  },
+  {
+   "brand": "Blu",
+   "device": "C0130UU",
+   "model": "C5L PLUS"
+  }
+ ],
  "CAMELEON C5": [
   {
    "brand": "Accent",
@@ -25782,6 +25794,11 @@
  "I10_Plus": [
   {
    "brand": "BMAX",
+   "device": "I10_Plus",
+   "model": "I10_Plus"
+  },
+  {
+   "brand": "BMAX",
    "device": "I10_Plus_EEA",
    "model": "I10_Plus_EEA"
   }
@@ -25791,6 +25808,13 @@
    "brand": "BMAX",
    "device": "I10_Pro_EEA",
    "model": "I10_Pro"
+  }
+ ],
+ "I10_Pro_LTE": [
+  {
+   "brand": "BMAX",
+   "device": "I10_Pro_LTE",
+   "model": "I10_Pro_LTE"
   }
  ],
  "I10_Pro_LTE_EEA": [
@@ -29890,6 +29914,13 @@
    "model": "M1037"
   }
  ],
+ "M51": [
+  {
+   "brand": "Beneve",
+   "device": "M51",
+   "model": "M51"
+  }
+ ],
  "M51_EEA": [
   {
    "brand": "Beneve",
@@ -29956,6 +29987,20 @@
    "brand": "Beneve",
    "device": "M7152D1_EEA",
    "model": "M7152D1_EEA"
+  }
+ ],
+ "M7152P": [
+  {
+   "brand": "Beneve",
+   "device": "M7152P",
+   "model": "M7152P"
+  }
+ ],
+ "M7152P_EEA": [
+  {
+   "brand": "Beneve",
+   "device": "M7152P_EEA",
+   "model": "M7152P_EEA"
   }
  ],
  "M755": [
@@ -32097,6 +32142,11 @@
  "Tab 8 WiFi": [
   {
    "brand": "Blackview",
+   "device": "Tab8_WiFi_EEA",
+   "model": "Tab 8 WiFi"
+  },
+  {
+   "brand": "Blackview",
    "device": "Tab8_WiFi_ROW",
    "model": "Tab 8 WiFi"
   }
@@ -32127,11 +32177,25 @@
    "model": "Tab 11 SE"
   }
  ],
+ "Tab11SE_RU": [
+  {
+   "brand": "Blackview",
+   "device": "Tab11SE_RU",
+   "model": "Tab 11 SE"
+  }
+ ],
  "Tab11WiFi_EEA": [
   {
    "brand": "Blackview",
    "device": "Tab11WiFi_EEA",
    "model": "Tab11WiFi_EEA"
+  }
+ ],
+ "Tab11WiFi_NEU": [
+  {
+   "brand": "Blackview",
+   "device": "Tab11WiFi_NEU",
+   "model": "Tab11WiFi_NEU"
   }
  ],
  "Tab11_EA": [
@@ -33654,13 +33718,6 @@
    "brand": "Blu",
    "device": "C0173WW",
    "model": "C5L Max"
-  }
- ],
- "C5L PLUS": [
-  {
-   "brand": "Blu",
-   "device": "C0130UU",
-   "model": "C5L PLUS"
   }
  ],
  "C5L+ 2021": [
@@ -38401,6 +38458,13 @@
    "model": "CORN X55"
   }
  ],
+ "G60_Pro_4G": [
+  {
+   "brand": "CORN",
+   "device": "G60_Pro_4G",
+   "model": "G60_Pro_4G"
+  }
+ ],
  "Note13": [
   {
    "brand": "CORN",
@@ -39589,6 +39653,13 @@
    "brand": "Casper",
    "device": "VIA_X20",
    "model": "VIA X20"
+  }
+ ],
+ "VIA X30": [
+  {
+   "brand": "Casper",
+   "device": "VIA_X30",
+   "model": "VIA X30"
   }
  ],
  "VIA_ G3": [
@@ -48014,6 +48085,11 @@
    "brand": "Custom",
    "device": "P-Ranger",
    "model": "P-Ranger_RU"
+  },
+  {
+   "brand": "Custom",
+   "device": "P_Ranger",
+   "model": "P-Ranger"
   }
  ],
  "Tab_4_M7078": [
@@ -48150,6 +48226,13 @@
    "brand": "D-Tech",
    "device": "LM_01",
    "model": "LM-01"
+  }
+ ],
+ "E13R_B65G": [
+  {
+   "brand": "DABLIU",
+   "device": "rk3588_E13R",
+   "model": "E13R"
   }
  ],
  "Vietnam": [
@@ -57856,6 +57939,13 @@
    "model": "D1221"
   }
  ],
+ "R10 Pro": [
+  {
+   "brand": "EUDORA",
+   "device": "R10_Pro",
+   "model": "R10 Pro"
+  }
+ ],
  "DC-1032": [
   {
    "brand": "EVEREST-EVERPAD",
@@ -62094,6 +62184,13 @@
    "brand": "Nanho",
    "device": "F101",
    "model": "F101"
+  }
+ ],
+ "T8C": [
+  {
+   "brand": "FOXX",
+   "device": "T8C",
+   "model": "T8C"
   }
  ],
  "A5Pro": [
@@ -74985,6 +75082,13 @@
    "model": "HTC A101"
   }
  ],
+ "HTC A102": [
+  {
+   "brand": "HTC",
+   "device": "HTC_A102",
+   "model": "HTC A102"
+  }
+ ],
  "HTC A103": [
   {
    "brand": "HTC",
@@ -83937,6 +84041,13 @@
    "brand": "Hometech",
    "device": "ALFA_10BS",
    "model": "ALFA_10BS"
+  }
+ ],
+ "ALFA_10BT": [
+  {
+   "brand": "Hometech",
+   "device": "ALFA_10BT",
+   "model": "ALFA_10BT"
   }
  ],
  "ALFA_10RX": [
@@ -103733,6 +103844,13 @@
    "model": "ZKEMPLER11"
   }
  ],
+ "ZKEMPLER_11": [
+  {
+   "brand": "KEMPLER STRAUSS",
+   "device": "ZKEMPLER_11",
+   "model": "ZKEMPLER_11"
+  }
+ ],
  "ZKEMPLER_PLUS": [
   {
    "brand": "KEMPLER STRAUSS",
@@ -116313,6 +116431,27 @@
    "model": "LTC1066"
   }
  ],
+ "LT_6217": [
+  {
+   "brand": "LT_Mobile",
+   "device": "LT_6217",
+   "model": "LT_6217"
+  }
+ ],
+ "LT_6509": [
+  {
+   "brand": "LT_Mobile",
+   "device": "LT_6509",
+   "model": "LT_6509"
+  }
+ ],
+ "LT_9701": [
+  {
+   "brand": "LT_Mobile",
+   "device": "LT_9701",
+   "model": "LT_9701"
+  }
+ ],
  "LT_mobile_S22": [
   {
    "brand": "LT_Mobile",
@@ -124281,6 +124420,13 @@
    "model": "L66"
   }
  ],
+ "L66 LITE": [
+  {
+   "brand": "Logic Mobility",
+   "device": "L66_LITE",
+   "model": "L66 LITE"
+  }
+ ],
  "L68": [
   {
    "brand": "Logic Mobility",
@@ -128732,6 +128878,11 @@
    "brand": "Maxwest",
    "device": "MX-A81RWW",
    "model": "MX-A8R"
+  },
+  {
+   "brand": "Maxwest",
+   "device": "MX-A82RWW",
+   "model": "MX-A8R"
   }
  ],
  "Astro 4 PRO": [
@@ -133138,6 +133289,13 @@
    "brand": "Mirage",
    "device": "MI-SO-81T",
    "model": "MI-SO-81T"
+  }
+ ],
+ "MF3D2211": [
+  {
+   "brand": "Miramage",
+   "device": "MF3D2211",
+   "model": "MF3D2211"
   }
  ],
  "A880": [
@@ -145223,6 +145381,18 @@
    "model": "Nokia C100"
   }
  ],
+ "Nokia C110": [
+  {
+   "brand": "Nokia",
+   "device": "DGC",
+   "model": "Nokia C110"
+  },
+  {
+   "brand": "Nokia",
+   "device": "DGF",
+   "model": "N156DL"
+  }
+ ],
  "Nokia C12": [
   {
    "brand": "Nokia",
@@ -145313,6 +145483,13 @@
    "model": "Nokia C21 Plus"
   }
  ],
+ "Nokia C22": [
+  {
+   "brand": "Nokia",
+   "device": "HKEA",
+   "model": "Nokia C22"
+  }
+ ],
  "Nokia C3": [
   {
    "brand": "Nokia",
@@ -145332,11 +145509,25 @@
    "model": "Nokia C30"
   }
  ],
+ "Nokia C300": [
+  {
+   "brand": "Nokia",
+   "device": "ORT",
+   "model": "N155DL"
+  }
+ ],
  "Nokia C31": [
   {
    "brand": "Nokia",
    "device": "VSI",
    "model": "Nokia C31"
+  }
+ ],
+ "Nokia C32": [
+  {
+   "brand": "Nokia",
+   "device": "MKDA",
+   "model": "Nokia C32"
   }
  ],
  "Nokia C5 Endi": [
@@ -146888,6 +147079,13 @@
    "model": "Pad 60"
   }
  ],
+ "Pad60_NEU": [
+  {
+   "brand": "OSCAL",
+   "device": "Pad60_NEU",
+   "model": "Pad 60"
+  }
+ ],
  "Pad_10_EEA": [
   {
    "brand": "OSCAL",
@@ -146970,6 +147168,13 @@
    "brand": "OWXMobile",
    "device": "W77",
    "model": "W77"
+  }
+ ],
+ "Ox-p010-2": [
+  {
+   "brand": "OX_TAB",
+   "device": "OX_TAB_10",
+   "model": "Ox-p010-2"
   }
  ],
  "T7Pro": [
@@ -168881,6 +169086,13 @@
    "brand": "Reeder",
    "device": "S19_Max",
    "model": "S19 Max"
+  }
+ ],
+ "S19 Max 32GB": [
+  {
+   "brand": "Reeder",
+   "device": "S19_Max_32GB",
+   "model": "S19 Max 32GB"
   }
  ],
  "S19 Max 64GB": [
@@ -199769,6 +199981,13 @@
    "model": "Telma_Titan_4G"
   }
  ],
+ "UNIVERSE": [
+  {
+   "brand": "Stylo",
+   "device": "UNIVERSE",
+   "model": "UNIVERSE"
+  }
+ ],
  "VS5502": [
   {
    "brand": "Stylo",
@@ -201299,6 +201518,13 @@
    "brand": "Symphony",
    "device": "roar_V150",
    "model": "roar_V150"
+  }
+ ],
+ "Synetech Elite Taurus": [
+  {
+   "brand": "Synetech",
+   "device": "rk3588_t",
+   "model": "Synetech_T35"
   }
  ],
  "REVVL 2": [
@@ -212245,6 +212471,13 @@
    "model": "P80T_ROW"
   }
  ],
+ "P80T_Y_EEA": [
+  {
+   "brand": "Teclast",
+   "device": "P80T_Y_EEA",
+   "model": "P80T_EEA"
+  }
+ ],
  "P80T_Y_ROW": [
   {
    "brand": "Teclast",
@@ -212333,6 +212566,13 @@
    "brand": "Teclast",
    "device": "P85Pro_EEA",
    "model": "P85Pro_EEA"
+  }
+ ],
+ "P85Pro_ROW": [
+  {
+   "brand": "Teclast",
+   "device": "P85Pro_ROW",
+   "model": "P85Pro_ROW"
   }
  ],
  "P85_EEA": [
@@ -218135,6 +218375,13 @@
    "brand": "Ulefone",
    "device": "Armor_20WT",
    "model": "Armor 20WT"
+  }
+ ],
+ "Armor 21": [
+  {
+   "brand": "Ulefone",
+   "device": "Armor_21",
+   "model": "Armor 21"
   }
  ],
  "Armor 2S": [
@@ -234870,6 +235117,13 @@
    "model": "HC750"
   }
  ],
+ "TravelPad A10": [
+  {
+   "brand": "Xitrix",
+   "device": "TravelPad_A10",
+   "model": "TravelPad A10"
+  }
+ ],
  "XITRIX": [
   {
    "brand": "Xitrix",
@@ -249640,6 +249894,13 @@
    "brand": "koobee",
    "device": "koobee_S12",
    "model": "S12"
+  }
+ ],
+ "S19_EEA": [
+  {
+   "brand": "leaderhub",
+   "device": "S19_EEA",
+   "model": "S19"
   }
  ],
  "mMax M55": [
