@@ -2625,6 +2625,13 @@
    "device": "GT78-VN"
   }
  ],
+ "HT10": [
+  {
+   "brand": "ARBOR",
+   "name": "HT10",
+   "device": "HT10"
+  }
+ ],
  "Listo22": [
   {
    "brand": "ARMADILOS",
@@ -6114,6 +6121,28 @@
    "brand": "Acer",
    "name": "TPA60W",
    "device": "maya"
+  }
+ ],
+ "R4G": [
+  {
+   "brand": "Acer",
+   "name": "R4_GTV",
+   "device": "R4_GTV"
+  },
+  {
+   "brand": "Alhafidh",
+   "name": "R4_GTV",
+   "device": "R4_GTV"
+  },
+  {
+   "brand": "Brandt",
+   "name": "R4_GTV",
+   "device": "R4_GTV"
+  },
+  {
+   "brand": "Stream System",
+   "name": "R4_GTV",
+   "device": "R4_GTV"
   }
  ],
  "TA272HUL": [
@@ -28187,6 +28216,11 @@
    "brand": "Blu",
    "name": "G53",
    "device": "G0850"
+  },
+  {
+   "brand": "Blu",
+   "name": "G53",
+   "device": "G0850_IW"
   }
  ],
  "G6": [
@@ -38339,6 +38373,11 @@
    "device": "V10"
   },
   {
+   "brand": "VIVIVIEW",
+   "name": "V10",
+   "device": "V10"
+  },
+  {
    "brand": "i5 (dza)",
    "name": "V10",
    "device": "V10"
@@ -43234,6 +43273,20 @@
    "brand": "DIADEM",
    "name": "CUTE_5",
    "device": "CUTE_5"
+  }
+ ],
+ "X8 PRO": [
+  {
+   "brand": "DIALN",
+   "name": "X8PRO",
+   "device": "X8PRO"
+  }
+ ],
+ "X8ULTRA": [
+  {
+   "brand": "DIALN",
+   "name": "X8ULTRA",
+   "device": "X8ULTRA"
   }
  ],
  "DIAMANT Android TV": [
@@ -93679,6 +93732,13 @@
    "device": "barking"
   }
  ],
+ "Infinix X6739": [
+  {
+   "brand": "Infinix",
+   "name": "GT 10 Pro",
+   "device": "Infinix-X6739"
+  }
+ ],
  "Infinix X689F": [
   {
    "brand": "Infinix",
@@ -99080,6 +99140,13 @@
    "brand": "Itel",
    "name": "itel 4K TV",
    "device": "SW4H"
+  }
+ ],
+ "itel A632WM": [
+  {
+   "brand": "Itel",
+   "name": "itel A04",
+   "device": "itel-A632WM"
   }
  ],
  "itel A14": [
@@ -116176,6 +116243,13 @@
    "brand": "LTC(LR)",
    "name": "LTC1066",
    "device": "LTC1066"
+  }
+ ],
+ "LT 2003": [
+  {
+   "brand": "LT_Mobile",
+   "name": "LT 2003",
+   "device": "LT_2003"
   }
  ],
  "LT_6217": [
@@ -140663,6 +140737,11 @@
    "brand": "Motorola",
    "name": "motorola edge plus (2022)",
    "device": "hiphi"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola edge+ (2023)",
+   "device": "rtwo"
   }
  ],
  "motorola edge plus 5G UW (2022)": [
@@ -140696,6 +140775,13 @@
    "brand": "Motorola",
    "name": "motorola edge 轻奢版",
    "device": "berlin"
+  }
+ ],
+ "motorola edge plus 2023": [
+  {
+   "brand": "Motorola",
+   "name": "motorola edge+ (2023)",
+   "device": "rtwo"
   }
  ],
  "motorola one 5G": [
@@ -140837,6 +140923,18 @@
    "brand": "Motorola",
    "name": "motorola razr 2022",
    "device": "oneli"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola razr 40 ultra",
+   "device": "zeekr"
+  }
+ ],
+ "motorola razr 40 ultra": [
+  {
+   "brand": "Motorola",
+   "name": "motorola razr 40 ultra",
+   "device": "zeekr"
   }
  ],
  "motorola razr 5G": [
@@ -158148,18 +158246,6 @@
    "device": "FZ-X1VUC"
   }
  ],
- "4KTV-3MUP": [
-  {
-   "brand": "Panasonic",
-   "name": "G4_GTV",
-   "device": "R4_GTV"
-  },
-  {
-   "brand": "Panasonic",
-   "name": "R4_GTV",
-   "device": "R4_GTV"
-  }
- ],
  "GS655": [
   {
    "brand": "Panasonic",
@@ -158603,6 +158689,13 @@
    "brand": "Panasonic",
    "name": "R3",
    "device": "R3"
+  }
+ ],
+ "4KTV-3MUP": [
+  {
+   "brand": "Panasonic",
+   "name": "R4_GTV",
+   "device": "R4_GTV"
   }
  ],
  "RSE1708": [
@@ -211025,6 +211118,13 @@
    "device": "Aquaman_10_Smart_WIFI"
   }
  ],
+ "8492A": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 10L Gen 2",
+   "device": "Freyr_10_1_WiFi"
+  }
+ ],
  "9061": [
   {
    "brand": "TCL",
@@ -235230,6 +235330,13 @@
    "device": "PD1731"
   }
  ],
+ "V2283A": [
+  {
+   "brand": "Vivo",
+   "name": "S17",
+   "device": "PD2283"
+  }
+ ],
  "V2284A": [
   {
    "brand": "Vivo",
@@ -236840,6 +236947,13 @@
    "brand": "Vivo",
    "name": "V2220A",
    "device": "PD2220"
+  }
+ ],
+ "V2282A": [
+  {
+   "brand": "Vivo",
+   "name": "V2282A",
+   "device": "PD2282"
   }
  ],
  "V2228": [
@@ -263416,6 +263530,23 @@
    "device": "REE2ADL1"
   }
  ],
+ "RMX3771": [
+  {
+   "brand": "realme",
+   "name": "RMX3771",
+   "device": "RE58B8L1"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 10 Pro 5G",
+   "device": "RE58B8L1"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 11 Pro 5G",
+   "device": "RE58B8L1"
+  }
+ ],
  "RMX3571": [
   {
    "brand": "realme",
@@ -263561,6 +263692,13 @@
    "brand": "realme",
    "name": "realme 10s",
    "device": "RE5851"
+  }
+ ],
+ "RMX3741": [
+  {
+   "brand": "realme",
+   "name": "realme 11 Pro+ 5G",
+   "device": "RE58B6L1"
   }
  ],
  "RMX2061": [

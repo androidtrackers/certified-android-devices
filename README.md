@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-06-08
+Last sync is 2023-06-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -190,6 +190,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ARATEK|Marshall-8|Marshall-8|Marshall-8|
 |ARBOR|G47|G47|G47|
 |ARBOR|GT78-VN|GT78-VN|GT78-VN|
+|ARBOR|HT10|HT10|HT10|
 |ARMADILOS|Listo22|Listo22|Listo22|
 |ARRQW|RO-55LCS|samseong|AI PONT|
 |ARRQW|Saudi Arabia|tamachi|ARRQW FHD Android TV|
@@ -557,6 +558,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Acer|Picasso|ventana|TPA60W|
 |Acer|R3|R3|R3|
 |Acer|R4|R4|R4|
+|Acer|R4_GTV|R4_GTV|R4G|
 |Acer|TA2|ta2|TA272HUL|
 |Acer|TA272HUL|ta2|TA272HUL|
 |Acer|TPA60W|maya|TPA60W|
@@ -853,6 +855,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Alhafidh|Android TV|R2|ATV R2|
 |Alhafidh|R3|R3|R3|
 |Alhafidh|R4|R4|R4|
+|Alhafidh|R4_GTV|R4_GTV|R4G|
 |Aligator|ALIGATOR RX800|ALIGATOR_RX800|ALIGATOR RX800|
 |Aligator|ALIGATOR S5070|ALIGATOR_S5070|ALIGATOR S5070|
 |Aligator|ALIGATOR S5520|ALIGATOR_S5520|ALIGATOR_S5520|
@@ -3585,6 +3588,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|G52L|G0820WW|G52L|
 |Blu|G52L|G0830WW|G52L|
 |Blu|G53|G0850|G53|
+|Blu|G53|G0850_IW|G53|
 |Blu|G6|G0210|G6|
 |Blu|G60|G0270WW|G60|
 |Blu|G61|G0450WW|G61|
@@ -3894,6 +3898,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Brandt|BRANDT UHD TV|OD0M_EA_T32|BRANDT UHD TV|
 |Brandt|BSTAR|BSTAR|BSTAR|
 |Brandt|BSTAR+|BSTAR_PLUS|BSTAR+|
+|Brandt|R4_GTV|R4_GTV|R4G|
 |Brantel|E-tel_i10|E-tel_i10|E-tel i10|
 |Brantel|Q30|Q30|Q30|
 |Brasiltec|B1|B1|B1|
@@ -5658,6 +5663,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DGTEC|Dg_1523|Dg_1523|Dg_1523|
 |DGTEC|Dg_1524|Dg_1524|Dg_1524|
 |DIADEM|CUTE_5|CUTE_5|CUTE 5|
+|DIALN|X8PRO|X8PRO|X8 PRO|
+|DIALN|X8ULTRA|X8ULTRA|X8ULTRA|
 |DIAMANT|EU|tamachi|DIAMANT Android TV|
 |DIAMANT|EU|yeongdeungpo|DIAMANT Android TV|
 |DIFRNCE|DIT702201|DIT702201|NID_7010|
@@ -13103,6 +13110,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Infinix|43X3|beaudry|Infinix AndroidTV|
 |Infinix|50X3|barking|Infinix AndroidTV|
 |Infinix|55X1|samseong|AI PONT|
+|Infinix|GT 10 Pro|Infinix-X6739|Infinix X6739|
 |Infinix|HOT|Infinix-X689F|Infinix X689F|
 |Infinix|HOT 10|Infinix-X682B|Infinix X682B|
 |Infinix|HOT 10|Infinix-X682C|Infinix X682C|
@@ -13910,6 +13918,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel  AC50|itel-A507LM|itel A507LM|
 |Itel|itel  V51 LTE|itel-A507LP|itel A507LP|
 |Itel|itel 4K TV|SW4H|itel 4K TV|
+|Itel|itel A04|itel-A632WM|itel A632WM|
 |Itel|itel A11|itel_A11|itel A11|
 |Itel|itel A14|itel-A14|itel A14|
 |Itel|itel A14|itel-A14|itel A14TZ|
@@ -16536,6 +16545,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LT Electronics|SPURT_K500|SPURT_K500|K500|
 |LT Electronics|SPURT_K600|SPURT_K600|K600|
 |LTC(LR)|LTC1066|LTC1066|LTC1066|
+|LT_Mobile|LT 2003|LT_2003|LT 2003|
 |LT_Mobile|LT_6217|LT_6217|LT_6217|
 |LT_Mobile|LT_6509|LT_6509|LT_6509|
 |LT_Mobile|LT_9701|LT_9701|LT_9701|
@@ -20294,6 +20304,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge s|nio|XT2125-4|
 |Motorola|motorola edge s pro|pstar|XT2153-1|
 |Motorola|motorola edge 轻奢版|berlin|XT2143-1|
+|Motorola|motorola edge+ (2023)|rtwo|motorola edge plus (2022)|
+|Motorola|motorola edge+ (2023)|rtwo|motorola edge plus 2023|
 |Motorola|motorola egde s|nio|XT2125-4|
 |Motorola|motorola one|deen_sprout|motorola one|
 |Motorola|motorola one 5G|nairo|moto g 5G plus|
@@ -20321,6 +20333,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola razr 2022|oneli|XT2251-1|
 |Motorola|motorola razr 2022|oneli|motorola edge 30 pro|
 |Motorola|motorola razr 2022|oneli|motorola razr 2022|
+|Motorola|motorola razr 40 ultra|zeekr|motorola razr 2022|
+|Motorola|motorola razr 40 ultra|zeekr|motorola razr 40 ultra|
 |Motorola|motorola razr 5G|smith|motorola razr 5G|
 |Motorola Solutions|EVOLVE|EVOLVE|EVOLVE|
 |Motorola Solutions|LEX F10|LEXF10|LEX F10|
@@ -23042,7 +23056,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|FZ-X1|FZ-X1|FZ-X1|
 |Panasonic|FZ-X1|FZ-X1VU|FZ-X1|
 |Panasonic|FZ-X1|FZ-X1VUC|FZ-X1|
-|Panasonic|G4_GTV|R4_GTV|4KTV-3MUP|
 |Panasonic|GS655|shibuya|GS655|
 |Panasonic|GX600C|GX600C|GX600C|
 |Panasonic|GX655|SW3H_ATV|GX655|
@@ -30523,6 +30536,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Stream System|Android TV|R2|ATV R2|
 |Stream System|R3|R3|R3|
 |Stream System|R4|R4|R4|
+|Stream System|R4_GTV|R4_GTV|R4G|
 |Strong|Android TV|R1|ATV R1|
 |Strong|Android TV|R2|ATV R2|
 |Strong|Android TV|redwood|AI PONT|
@@ -31069,6 +31083,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 10L|Aquaman_10_Smart_WIFI|8491X_EEA|
 |TCL|TCL TAB 10L|Aquaman_10_Smart_WIFI|8491X_RU|
 |TCL|TCL TAB 10L|Aquaman_10_Smart_WIFI|8491X_TR|
+|TCL|TCL TAB 10L Gen 2|Freyr_10_1_WiFi|8492A|
 |TCL|TCL TAB 10s|Aquaman_10_Pro|9061|
 |TCL|TCL TAB 10s|Odin|9081X|
 |TCL|TCL TAB 10s 4G|Odin|9080G|
@@ -34239,6 +34254,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VIVIMAGE|VIVIMAGE_E10|E10|E10|
 |VIVIMAGE|VIVIMAGE_E10_EEA|E10|E10_EEA|
 |VIVIMAGE|VIVIMAGE_E11|E11|VIVIMAGE_E11|
+|VIVIVIEW|V10|V10|V10|
 |VIVIVIEW|V5Pro|V5Pro|V5Pro|
 |VIVIVIEW|V8|V8|V8|
 |VIZZION|VIZZION 4K TV|SW4H|VIZZION 4K TV|
@@ -34832,6 +34848,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|PD1612|PD1612|vivo PD1612|
 |Vivo|PD1612|PD1612|vivo Y67|
 |Vivo|PD1731D|PD1731D|vivo Y71A|
+|Vivo|S17|PD2283|V2283A|
 |Vivo|S17 Pro|PD2284|V2284A|
 |Vivo|T1|V2154|V2153|
 |Vivo|T1|V2154|V2154|
@@ -35064,6 +35081,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2202A|PD2202|V2202A|
 |Vivo|V2203A|PD2203|V2203A|
 |Vivo|V2220A|PD2220|V2220A|
+|Vivo|V2282A|PD2282|V2282A|
 |Vivo|V25|V2202|V2202|
 |Vivo|V25|V2202|V2228|
 |Vivo|V25 Pro|V2158|V2158|
@@ -39272,6 +39290,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|RMX3612|RE588DL1|RMX3612|
 |realme|RMX3627|RE58AF|RMX3627|
 |realme|RMX3710|REE2ADL1|RMX3710|
+|realme|RMX3771|RE58B8L1|RMX3771|
 |realme|Smart TV|mateo|2K PA Smart TV|
 |realme|Smart TV|redwood|AI PONT|
 |realme|TV Stick|BOS|TV Stick|
@@ -39289,9 +39308,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 10 Pro|RE5849|RMX3663|
 |realme|realme 10 Pro 5G|RE588BL1|RMX3660|
 |realme|realme 10 Pro 5G|RE588BL1|RMX3661|
+|realme|realme 10 Pro 5G|RE58B8L1|RMX3771|
 |realme|realme 10 Pro+ 5G|RE58A5L1|RMX3686|
 |realme|realme 10 Pro+ 5G|RE58A6L1|RMX3686|
 |realme|realme 10s|RE5851|RMX3617|
+|realme|realme 11 Pro 5G|RE58B8L1|RMX3771|
+|realme|realme 11 Pro+ 5G|RE58B6L1|RMX3741|
 |realme|realme 6|RMX2001L1|RMX2001|
 |realme|realme 6|RMX2002L1|RMX2002|
 |realme|realme 6Pro|RMX2061L1|RMX2061|
