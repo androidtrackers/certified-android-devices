@@ -134442,6 +134442,13 @@
    "model": "VX20"
   }
  ],
+ "VX20 PRO": [
+  {
+   "brand": "Mobicell",
+   "device": "VX20_PRO",
+   "model": "VX20 PRO"
+  }
+ ],
  "VX_18": [
   {
    "brand": "Mobicell",
@@ -138819,6 +138826,18 @@
    "model": "motorola edge plus (2022)"
   }
  ],
+ "motorola edge plus 2023": [
+  {
+   "brand": "Motorola",
+   "device": "rtwo",
+   "model": "motorola edge plus (2022)"
+  },
+  {
+   "brand": "Motorola",
+   "device": "rtwo",
+   "model": "motorola edge plus 2023"
+  }
+ ],
  "motorola edge plus 5G UW (2022)": [
   {
    "brand": "Motorola",
@@ -138845,18 +138864,6 @@
    "brand": "Motorola",
    "device": "berlin",
    "model": "XT2143-1"
-  }
- ],
- "motorola edge+ (2023)": [
-  {
-   "brand": "Motorola",
-   "device": "rtwo",
-   "model": "motorola edge plus (2022)"
-  },
-  {
-   "brand": "Motorola",
-   "device": "rtwo",
-   "model": "motorola edge plus 2023"
   }
  ],
  "motorola egde s": [
@@ -139049,6 +139056,18 @@
    "brand": "Motorola",
    "device": "smith",
    "model": "motorola razr 5G"
+  }
+ ],
+ "motorola razr plus 2023": [
+  {
+   "brand": "Motorola",
+   "device": "zeekr",
+   "model": "motorola razr 2022"
+  },
+  {
+   "brand": "Motorola",
+   "device": "zeekr",
+   "model": "motorola razr plus 2023"
   }
  ],
  "LEX F10": [
@@ -221036,6 +221055,13 @@
    "model": "VIMOQ A507LD"
   }
  ],
+ "VIMOQ A40": [
+  {
+   "brand": "VIMOQ",
+   "device": "VIMOQ-A662LS",
+   "model": "VIMOQ A662LS"
+  }
+ ],
  "VIMOQ A507LT": [
   {
    "brand": "VIMOQ",
@@ -224090,6 +224116,13 @@
    "brand": "ViewSonic",
    "device": "VIEWPAD_AW7M_PLUS",
    "model": "VIEWPAD_AW7M_PLUS"
+  }
+ ],
+ "VPC-A31-O1": [
+  {
+   "brand": "ViewSonic",
+   "device": "VPC-A31-O1",
+   "model": "VPC-A31-O1"
   }
  ],
  "VSD221": [

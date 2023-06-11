@@ -133757,6 +133757,13 @@
    "model": "VX20"
   }
  ],
+ "VX20_PRO": [
+  {
+   "brand": "Mobicell",
+   "name": "VX20 PRO",
+   "model": "VX20 PRO"
+  }
+ ],
  "ZEN": [
   {
    "brand": "Mobicell",
@@ -137385,12 +137392,12 @@
   },
   {
    "brand": "Motorola",
-   "name": "motorola edge+ (2023)",
+   "name": "motorola edge plus 2023",
    "model": "motorola edge plus (2022)"
   },
   {
    "brand": "Motorola",
-   "name": "motorola edge+ (2023)",
+   "name": "motorola edge plus 2023",
    "model": "motorola edge plus 2023"
   }
  ],
@@ -138374,6 +138381,16 @@
    "brand": "Motorola",
    "name": "motorola razr 40 ultra",
    "model": "motorola razr 40 ultra"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola razr plus 2023",
+   "model": "motorola razr 2022"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola razr plus 2023",
+   "model": "motorola razr plus 2023"
   }
  ],
  "mototabg20": [
@@ -223076,6 +223093,13 @@
    "model": "VIMOQ A507LD"
   }
  ],
+ "VIMOQ-A662LS": [
+  {
+   "brand": "VIMOQ",
+   "name": "VIMOQ A40",
+   "model": "VIMOQ A662LS"
+  }
+ ],
  "VIMOQ-A507LT": [
   {
    "brand": "VIMOQ",
@@ -226102,6 +226126,13 @@
    "brand": "ViewSonic",
    "name": "VIEWSONIC",
    "model": "VIEWPAD_AW7M_PLUS"
+  }
+ ],
+ "VPC-A31-O1": [
+  {
+   "brand": "ViewSonic",
+   "name": "VPC-A31-O1",
+   "model": "VPC-A31-O1"
   }
  ],
  "VSD221": [

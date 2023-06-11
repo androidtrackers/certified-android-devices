@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-06-10
+Last sync is 2023-06-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -19502,6 +19502,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobicell|VX18_1|VX18_1|VX18_1|
 |Mobicell|VX19|VX19|VX19|
 |Mobicell|VX20|VX20|VX20|
+|Mobicell|VX20 PRO|VX20_PRO|VX20 PRO|
 |Mobicell|VX_18|VX18|VX18|
 |Mobicell|X1|X1|X1|
 |Mobicell|X4|X4|X4|
@@ -20300,12 +20301,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola edge S30|xpeng|XT2175-2|
 |Motorola|motorola edge plus|burton|motorola edge plus|
 |Motorola|motorola edge plus (2022)|hiphi|motorola edge plus (2022)|
+|Motorola|motorola edge plus 2023|rtwo|motorola edge plus (2022)|
+|Motorola|motorola edge plus 2023|rtwo|motorola edge plus 2023|
 |Motorola|motorola edge plus 5G UW (2022)|hiphi|motorola edge plus 5G UW (2022)|
 |Motorola|motorola edge s|nio|XT2125-4|
 |Motorola|motorola edge s pro|pstar|XT2153-1|
 |Motorola|motorola edge 轻奢版|berlin|XT2143-1|
-|Motorola|motorola edge+ (2023)|rtwo|motorola edge plus (2022)|
-|Motorola|motorola edge+ (2023)|rtwo|motorola edge plus 2023|
 |Motorola|motorola egde s|nio|XT2125-4|
 |Motorola|motorola one|deen_sprout|motorola one|
 |Motorola|motorola one 5G|nairo|moto g 5G plus|
@@ -20336,6 +20337,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola razr 40 ultra|zeekr|motorola razr 2022|
 |Motorola|motorola razr 40 ultra|zeekr|motorola razr 40 ultra|
 |Motorola|motorola razr 5G|smith|motorola razr 5G|
+|Motorola|motorola razr plus 2023|zeekr|motorola razr 2022|
+|Motorola|motorola razr plus 2023|zeekr|motorola razr plus 2023|
 |Motorola Solutions|EVOLVE|EVOLVE|EVOLVE|
 |Motorola Solutions|LEX F10|LEXF10|LEX F10|
 |Motorola Solutions|LEX L10g|lexl10g|LEX L10g|
@@ -34239,6 +34242,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VIKUSHA|V-Z40|V-Z40|V-Z40|
 |VIKUSHA|VZ-30|VZ-30|VZ-30|
 |VIMOQ|VIMOQ  AC50|VIMOQ-A507LD|VIMOQ A507LD|
+|VIMOQ|VIMOQ A40|VIMOQ-A662LS|VIMOQ A662LS|
 |VIMOQ|VIMOQ A507LT|VIMOQ-A507LT|VIMOQ A507LT|
 |VIMOQ|VIMOQ V51 LTE|VIMOQ-A507LE|VIMOQ A507LE|
 |VIMOQ|VIMOQ Vision 3|VIMOQ-S661LS|VIMOQ S661LS|
@@ -34750,6 +34754,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ViewSonic||viewpad7x|ViewPad7x|
 |ViewSonic|Q5|Q5|Viewphone Q5|
 |ViewSonic|VIEWSONIC|VIEWPAD_AW7M_PLUS|VIEWPAD_AW7M_PLUS|
+|ViewSonic|VPC-A31-O1|VPC-A31-O1|VPC-A31-O1|
 |ViewSonic|VSD221|VSD221|VSD221|
 |ViewSonic|VSD231|VSD231-VSA|VSD231|
 |ViewSonic|VSD241 Smart Display|VSD241|VSD241|
