@@ -51878,6 +51878,13 @@
    "model": "Digi K2"
   }
  ],
+ "Digiking 4K Google TV": [
+  {
+   "brand": "Digi",
+   "device": "keoneae",
+   "model": "Digiking 4K Google TV"
+  }
+ ],
  "INFINITY MAX": [
   {
    "brand": "Digi",
@@ -51885,11 +51892,11 @@
    "model": "DIGIT INFINITY MAX"
   }
  ],
- "Digiking 4K Google TV": [
+ "Digiking 2K Google TV": [
   {
    "brand": "DigiKing",
-   "device": "keoneae",
-   "model": "Digiking 4K Google TV"
+   "device": "capitolhill",
+   "model": "Digiking 2K Google TV"
   }
  ],
  "10542843": [
@@ -79292,6 +79299,28 @@
    "model": "A42"
   }
  ],
+ "A51": [
+  {
+   "brand": "Hiking",
+   "device": "A51",
+   "model": "A51"
+  },
+  {
+   "brand": "Itel",
+   "device": "itel_A51",
+   "model": "itel A51"
+  },
+  {
+   "brand": "Oppo",
+   "device": "A51",
+   "model": "A51"
+  },
+  {
+   "brand": "Oppo",
+   "device": "A51",
+   "model": "Lava A51"
+  }
+ ],
  "Fun5": [
   {
    "brand": "Hiking",
@@ -94144,11 +94173,25 @@
    "model": "HYUNDAI 2K Android TV"
   }
  ],
+ "HYUNDAI 2K Google TV": [
+  {
+   "brand": "Hyundai",
+   "device": "capitolhill",
+   "model": "HYUNDAI  2K Google TV"
+  }
+ ],
  "HYUNDAI 4K Android TV": [
   {
    "brand": "Hyundai",
    "device": "kenton",
    "model": "HYUNDAI 4K Android TV"
+  }
+ ],
+ "HYUNDAI 4K Google TV": [
+  {
+   "brand": "Hyundai",
+   "device": "keoneae",
+   "model": "HYUNDAI 4K Google TV"
   }
  ],
  "HYUNDAI SMART TV": [
@@ -100873,23 +100916,6 @@
    "brand": "Itel",
    "device": "itel-A661L",
    "model": "itel A661L"
-  }
- ],
- "A51": [
-  {
-   "brand": "Itel",
-   "device": "itel_A51",
-   "model": "itel A51"
-  },
-  {
-   "brand": "Oppo",
-   "device": "A51",
-   "model": "A51"
-  },
-  {
-   "brand": "Oppo",
-   "device": "A51",
-   "model": "Lava A51"
   }
  ],
  "A512W": [
@@ -172870,6 +172896,41 @@
    "model": "SLTDVD9220-C"
   }
  ],
+ "SYLVOX 2K Google TV": [
+  {
+   "brand": "SYLVOX",
+   "device": "capitolhill",
+   "model": "SYLVOX  2K Google TV"
+  }
+ ],
+ "SYLVOX 4K Google TV-A": [
+  {
+   "brand": "SYLVOX",
+   "device": "keoneae",
+   "model": "SYLVOX 4K Google TV-A"
+  }
+ ],
+ "SYLVOX 4K Google TV-B": [
+  {
+   "brand": "SYLVOX",
+   "device": "keoneae",
+   "model": "SYLVOX 4K Google TV-B"
+  }
+ ],
+ "SYLVOX 4K Google TV-D": [
+  {
+   "brand": "SYLVOX",
+   "device": "keoneae",
+   "model": "SYLVOX 4K Google TV-D"
+  }
+ ],
+ "SYLVOX 4K Google TV-E": [
+  {
+   "brand": "SYLVOX",
+   "device": "keoneae",
+   "model": "SYLVOX 4K Google TV-E"
+  }
+ ],
  "KIDS05-X5": [
   {
    "brand": "SZSUPER",
@@ -189384,14 +189445,14 @@
    "model": "AQUOS-TVJ21"
   }
  ],
- "4T-C**EN1/EQ1/ES1/EU1/EP1": [
+ "4T-C**EN1/EQ1/ES1/EU1/EP1/FN1": [
   {
    "brand": "Sharp",
    "device": "tcvenruj",
    "model": "AQUOS-4KTVJ22"
   }
  ],
- "4T-C**EN2/EL1/EQ2": [
+ "4T-C**EN2/EL1/EQ2/FN2/FL1": [
   {
    "brand": "Sharp",
    "device": "tcvenruj",
@@ -219885,6 +219946,13 @@
    "brand": "Umidigi",
    "device": "G1_Max",
    "model": "MP18"
+  }
+ ],
+ "G1 Plus": [
+  {
+   "brand": "Umidigi",
+   "device": "G1_Plus",
+   "model": "MP28"
   }
  ],
  "G2 EEA": [

@@ -4469,14 +4469,29 @@
    "model": "ASTEX 2K Google TV"
   },
   {
+   "brand": "DigiKing",
+   "name": "Digiking 2K Google TV",
+   "model": "Digiking 2K Google TV"
+  },
+  {
    "brand": "Dyon",
    "name": "DYON 2K Google TV",
    "model": "DYON 2K Google TV"
   },
   {
+   "brand": "Hyundai",
+   "name": "HYUNDAI 2K Google TV",
+   "model": "HYUNDAI  2K Google TV"
+  },
+  {
    "brand": "KONKA",
    "name": "HK 2K Google TV",
    "model": "HK 2K Google TV"
+  },
+  {
+   "brand": "SYLVOX",
+   "name": "SYLVOX 2K Google TV",
+   "model": "SYLVOX  2K Google TV"
   },
   {
    "brand": "Stream",
@@ -30220,7 +30235,7 @@
    "model": "Blaupunkt 4K Google TV"
   },
   {
-   "brand": "DigiKing",
+   "brand": "Digi",
    "name": "Digiking 4K Google TV",
    "model": "Digiking 4K Google TV"
   },
@@ -30235,6 +30250,11 @@
    "model": "EKO 4K Google TV"
   },
   {
+   "brand": "Hyundai",
+   "name": "HYUNDAI 4K Google TV",
+   "model": "HYUNDAI 4K Google TV"
+  },
+  {
    "brand": "KONKA",
    "name": "HK 4K Google TV-A",
    "model": "HK 4K Google TV-A"
@@ -30243,6 +30263,26 @@
    "brand": "KONKA",
    "name": "KONKA 4K Google TV",
    "model": "HK 4K Google TV"
+  },
+  {
+   "brand": "SYLVOX",
+   "name": "SYLVOX 4K Google TV-A",
+   "model": "SYLVOX 4K Google TV-A"
+  },
+  {
+   "brand": "SYLVOX",
+   "name": "SYLVOX 4K Google TV-B",
+   "model": "SYLVOX 4K Google TV-B"
+  },
+  {
+   "brand": "SYLVOX",
+   "name": "SYLVOX 4K Google TV-D",
+   "model": "SYLVOX 4K Google TV-D"
+  },
+  {
+   "brand": "SYLVOX",
+   "name": "SYLVOX 4K Google TV-E",
+   "model": "SYLVOX 4K Google TV-E"
   },
   {
    "brand": "Stream",
@@ -75367,6 +75407,38 @@
    "brand": "Hiking",
    "name": "A42",
    "model": "A42"
+  }
+ ],
+ "A51": [
+  {
+   "brand": "Hiking",
+   "name": "A51",
+   "model": "A51"
+  },
+  {
+   "brand": "Oppo",
+   "name": "A51",
+   "model": "A51"
+  },
+  {
+   "brand": "Oppo",
+   "name": "A51",
+   "model": "Lava A51"
+  },
+  {
+   "brand": "Oppo",
+   "name": "A51f",
+   "model": "A51f"
+  },
+  {
+   "brand": "Oppo",
+   "name": "A51fa",
+   "model": "A51f"
+  },
+  {
+   "brand": "Oppo",
+   "name": "A51w",
+   "model": "A51w"
   }
  ],
  "Fun5": [
@@ -148924,33 +148996,6 @@
    "model": "CPH1941"
   }
  ],
- "A51": [
-  {
-   "brand": "Oppo",
-   "name": "A51",
-   "model": "A51"
-  },
-  {
-   "brand": "Oppo",
-   "name": "A51",
-   "model": "Lava A51"
-  },
-  {
-   "brand": "Oppo",
-   "name": "A51f",
-   "model": "A51f"
-  },
-  {
-   "brand": "Oppo",
-   "name": "A51fa",
-   "model": "A51f"
-  },
-  {
-   "brand": "Oppo",
-   "name": "A51w",
-   "model": "A51w"
-  }
- ],
  "A51kc": [
   {
    "brand": "Oppo",
@@ -191225,12 +191270,12 @@
  "tcvenruj": [
   {
    "brand": "Sharp",
-   "name": "4T-C**EN1/EQ1/ES1/EU1/EP1",
+   "name": "4T-C**EN1/EQ1/ES1/EU1/EP1/FN1",
    "model": "AQUOS-4KTVJ22"
   },
   {
    "brand": "Sharp",
-   "name": "4T-C**EN2/EL1/EQ2",
+   "name": "4T-C**EN2/EL1/EQ2/FN2/FL1",
    "model": "AQUOS-4KTVJ22-2"
   }
  ],
@@ -221968,6 +222013,13 @@
    "brand": "Umidigi",
    "name": "G1 Max RU",
    "model": "MP18"
+  }
+ ],
+ "G1_Plus": [
+  {
+   "brand": "Umidigi",
+   "name": "G1 Plus",
+   "model": "MP28"
   }
  ],
  "UMIDIGI_G2": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-06-11
+Last sync is 2023-06-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5963,8 +5963,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Digi|Digi R1|Digi_R1|Digi R1|
 |Digi|Digi R2|Digi_R2|Digi R2|
 |Digi|Digi_K2_EEA|Digi_K2|Digi K2|
+|Digi|Digiking 4K Google TV|keoneae|Digiking 4K Google TV|
 |Digi|INFINITY MAX|DIGIT_INFINITY_MAX|DIGIT INFINITY MAX|
-|DigiKing|Digiking 4K Google TV|keoneae|Digiking 4K Google TV|
+|DigiKing|Digiking 2K Google TV|capitolhill|Digiking 2K Google TV|
 |DigiLand|10542843|10542843|10542843|
 |DigiLand|206886-01|mdt9003|206886-01|
 |DigiLand|Compumax Blue|mid1016_ma|Compumax Blue|
@@ -9946,6 +9947,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hiking|A28|A28|A28|
 |Hiking|A40|A40|A40|
 |Hiking|A42|A42|A42|
+|Hiking|A51|A51|A51|
 |Hiking|A55|A55|A55|
 |Hiking|Fun5|Fun5|Fun5|
 |Hiking|HIKING_A18|HIKING_A18|HIKING_A18|
@@ -12746,7 +12748,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HY1-5085|HY1_5085|HY1-5085|
 |Hyundai|HYLED5015A4KM|samseong|AI PONT|
 |Hyundai|HYUNDAI 2K Android TV|lasalle|HYUNDAI 2K Android TV|
+|Hyundai|HYUNDAI 2K Google TV|capitolhill|HYUNDAI  2K Google TV|
 |Hyundai|HYUNDAI 4K Android TV|kenton|HYUNDAI 4K Android TV|
+|Hyundai|HYUNDAI 4K Google TV|keoneae|HYUNDAI 4K Google TV|
 |Hyundai|HYUNDAI SMART TV|sunnyvale|HYUNDAI SMART TV|
 |Hyundai|HY_BDL163G_001|HY_BDL163G_001_EEA|HY-BDL163G-001|
 |Hyundai|HyTab_Plus_10LC2|HyTab_Plus_10LC2|HyTab Plus 10LC2|
@@ -25798,6 +25802,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SYLVANIA|SLTDVD1024_B|SLTDVD1024_B|SLTDVD1024_B|
 |SYLVANIA|SLTDVD9220_C|SLTDVD9220-C|SLTDVD9220-C|
 |SYLVANIA|Smart TV|kanda|2K Smart TV|
+|SYLVOX|SYLVOX 2K Google TV|capitolhill|SYLVOX  2K Google TV|
+|SYLVOX|SYLVOX 4K Google TV-A|keoneae|SYLVOX 4K Google TV-A|
+|SYLVOX|SYLVOX 4K Google TV-B|keoneae|SYLVOX 4K Google TV-B|
+|SYLVOX|SYLVOX 4K Google TV-D|keoneae|SYLVOX 4K Google TV-D|
+|SYLVOX|SYLVOX 4K Google TV-E|keoneae|SYLVOX 4K Google TV-E|
 |SZSUPER|KIDS05-X5|KIDS05-X5|KIDS05-X5|
 |Safaricom|NEON LITE|NEON_LITE|NEON LITE|
 |Safaricom|NEON PLUS|NEON_PLUS|NEON PLUS|
@@ -28841,8 +28850,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|4T-C**BN1H/BL1H|tcmeruj|AQUOS-TVJ20B|
 |Sharp|4T-C**DL1/DJ1/DQ1/DN2|tcve2uj|AQUOS-TVJ21-2|
 |Sharp|4T-C**DS1/DN1/DP1|tcvenuj|AQUOS-TVJ21|
-|Sharp|4T-C**EN1/EQ1/ES1/EU1/EP1|tcvenruj|AQUOS-4KTVJ22|
-|Sharp|4T-C**EN2/EL1/EQ2|tcvenruj|AQUOS-4KTVJ22-2|
+|Sharp|4T-C**EN1/EQ1/ES1/EU1/EP1/FN1|tcvenruj|AQUOS-4KTVJ22|
+|Sharp|4T-C**EN2/EL1/EQ2/FN2/FL1|tcvenruj|AQUOS-4KTVJ22-2|
 |Sharp|4T-C50AG1T|LCD_50FOCAG1T|LCD_50FOCAG1T|
 |Sharp|4T-C50BDXA;4T-C50BDKA;4T-C50BDMA;4T-C50BDCA;4T-C50BDZA|Lcd_50sumtcca_xa|LCD_50SUMTCCA_XA|
 |Sharp|4T-C50BJ8T|gangnam|TVX19B|
@@ -34051,6 +34060,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|G1 Max|G1_Max|MP18|
 |Umidigi|G1 Max EEA|G1_Max|MP18|
 |Umidigi|G1 Max RU|G1_Max|MP18|
+|Umidigi|G1 Plus|G1_Plus|MP28|
 |Umidigi|G2|UMIDIGI_G2|MP21|
 |Umidigi|G2 EEA|UMIDIGI_G2|MP21|
 |Umidigi|G3|UMIDIGI_G3|MP24|

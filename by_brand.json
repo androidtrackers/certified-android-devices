@@ -30881,6 +30881,11 @@
    "model": "Digi K2"
   },
   {
+   "device": "keoneae",
+   "name": "Digiking 4K Google TV",
+   "model": "Digiking 4K Google TV"
+  },
+  {
    "device": "DIGIT_INFINITY_MAX",
    "name": "INFINITY MAX",
    "model": "DIGIT INFINITY MAX"
@@ -30888,9 +30893,9 @@
  ],
  "DigiKing": [
   {
-   "device": "keoneae",
-   "name": "Digiking 4K Google TV",
-   "model": "Digiking 4K Google TV"
+   "device": "capitolhill",
+   "name": "Digiking 2K Google TV",
+   "model": "Digiking 2K Google TV"
   }
  ],
  "DigiLand": [
@@ -51578,6 +51583,11 @@
    "model": "A42"
   },
   {
+   "device": "A51",
+   "name": "A51",
+   "model": "A51"
+  },
+  {
    "device": "A55",
    "name": "A55",
    "model": "A55"
@@ -65646,9 +65656,19 @@
    "model": "HYUNDAI 2K Android TV"
   },
   {
+   "device": "capitolhill",
+   "name": "HYUNDAI 2K Google TV",
+   "model": "HYUNDAI  2K Google TV"
+  },
+  {
    "device": "kenton",
    "name": "HYUNDAI 4K Android TV",
    "model": "HYUNDAI 4K Android TV"
+  },
+  {
+   "device": "keoneae",
+   "name": "HYUNDAI 4K Google TV",
+   "model": "HYUNDAI 4K Google TV"
   },
   {
    "device": "sunnyvale",
@@ -132762,6 +132782,33 @@
    "model": "2K Smart TV"
   }
  ],
+ "SYLVOX": [
+  {
+   "device": "capitolhill",
+   "name": "SYLVOX 2K Google TV",
+   "model": "SYLVOX  2K Google TV"
+  },
+  {
+   "device": "keoneae",
+   "name": "SYLVOX 4K Google TV-A",
+   "model": "SYLVOX 4K Google TV-A"
+  },
+  {
+   "device": "keoneae",
+   "name": "SYLVOX 4K Google TV-B",
+   "model": "SYLVOX 4K Google TV-B"
+  },
+  {
+   "device": "keoneae",
+   "name": "SYLVOX 4K Google TV-D",
+   "model": "SYLVOX 4K Google TV-D"
+  },
+  {
+   "device": "keoneae",
+   "name": "SYLVOX 4K Google TV-E",
+   "model": "SYLVOX 4K Google TV-E"
+  }
+ ],
  "SZSUPER": [
   {
    "device": "KIDS05-X5",
@@ -148054,12 +148101,12 @@
   },
   {
    "device": "tcvenruj",
-   "name": "4T-C**EN1/EQ1/ES1/EU1/EP1",
+   "name": "4T-C**EN1/EQ1/ES1/EU1/EP1/FN1",
    "model": "AQUOS-4KTVJ22"
   },
   {
    "device": "tcvenruj",
-   "name": "4T-C**EN2/EL1/EQ2",
+   "name": "4T-C**EN2/EL1/EQ2/FN2/FL1",
    "model": "AQUOS-4KTVJ22-2"
   },
   {
@@ -174751,6 +174798,11 @@
    "device": "G1_Max",
    "name": "G1 Max RU",
    "model": "MP18"
+  },
+  {
+   "device": "G1_Plus",
+   "name": "G1 Plus",
+   "model": "MP28"
   },
   {
    "device": "UMIDIGI_G2",
