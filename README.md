@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-06-12
+Last sync is 2023-06-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1717,6 +1717,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asanzo|ASANZO A2|ASANZO_A2|ASANZO A2|
 |Asanzo|Asanzo|SW4H|ASG 4K TV|
 |Asanzo|E Series|umeda|E Series|
+|Asanzo|EX FF Series|SW6H|EX FF Series|
 |Asanzo|EX Series|SW6H|EX Series|
 |Asanzo|S3 Plus|ASANZO_S3_PLUS|ASANZO_S3_PLUS|
 |Asanzo|S6|S6|S6|
@@ -3929,6 +3930,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Brightstar|C8|C8|C8|
 |Brightstar|M8046IU|M8047IU|M8047IU|
 |Britania|Britania Smart TV|sunnyvale|Britania Smart TV|
+|Britania|Britania Smart plus TV|SW6H|Britania Smart plus TV|
 |British Telecom|BT Home SmartPhone III|BT_Home_SmartPhone_III|E81|
 |British Telecom|HomeSmartphone d800|d800|BT Home SmartPhone S II|
 |Brondi|620SZ|G223_JH|Brondi 620 SZ|
@@ -5732,6 +5734,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Daehap|DH-B301K|DH-B301K|DH-B301K|
 |Daewoo|4K Smart TV|pioneer|4K SA Smart TV|
 |Daewoo|4K Smart TV|pioneer|DAEWOO 4K SA Smart TV|
+|Daewoo|DAEWOO SMART TV|SW6H|DAEWOO SMART TV|
 |Daewoo|DAEWOO SMART TV|sunnyvale|DAEWOO SMART TV|
 |Daewoo|DW-TN7RK16|DW-TN7RK16|DW-TN7RK16|
 |Daewoo|Daewoo 4K TV|SW4H_FF|Daewoo 4K TV|
@@ -5819,6 +5822,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Datsun|D6000|D6000|D6000|
 |Datsun|Datsun_D5001|Datsun_D5001|Datsun_D5001|
 |Datsun|Datsun_D5500|D5500|DATSUN_D5500|
+|Dawlance|DAWLANCE GSMART 4KTV|SW6H|DAWLANCE GSMART 4KTV|
 |DayMark|IT119345|IT119345|IT119345|
 |DayMark|IT119411|IT119411|IT119411|
 |Dcode|Cypher|Dcode_Cypher|DS-CR1|
@@ -20349,6 +20353,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola Solutions|LEX L10ig|lexl10ig|LEX L10ig|
 |Motorola Solutions|LEX L11|lexl11g_64|LEX L11|
 |Motorola Solutions|LEX L11|lexl11g_64|LEX L11j|
+|Motorola Solutions|LEX L11|lexl11g_64|LEX L11l|
 |Motorola Solutions|MOTOTRBO ION|mkz_sdm660_64|MSLB-MKZ900|
 |Motorola Solutions|MOTOTRBO ION|mkz_sdm660_64|MSLB-MKZ900i|
 |Motorola Solutions|MOTOTRBO ION|mkz_sdm660_64|MSLB-MKZ920|
@@ -21217,6 +21222,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Newland|NLS-NFT10|NLS-NFT10-RU|NLS-NFT10|
 |Newland|Newland NLS-MT90|NLS-MT90-GL|NLS-MT90|
 |Newland|Newland NLS-N7|NLS-N7-GL|NLS-N7|
+|Newline|23QA|velvet|LGA311D2|
 |Newline|Q23|rk3588_t|Q23|
 |Newsday|A1|Newsday_A1|Newsday_A1|
 |Newsday|A2|Newsday_A2|Newsday_A2|
@@ -22914,6 +22920,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Panasonic|4KTV-0SU|SW4H|4KTV-0SU|
 |Panasonic|4KTV-0SUF|SW4H_FF|4KTV-0SUF|
 |Panasonic|4KTV-0SUW|SW4H|4KTV-0SUW|
+|Panasonic|4KTV-3SU|SW6H|4KTV-3SU|
+|Panasonic|4KTV-3SUF|SW6H|4KTV-3SUF|
 |Panasonic|55AX600C|mst918_4k2k|55AX600C|
 |Panasonic|55DX600C|DX600C|TH-55DX600C|
 |Panasonic|A-DA|balticaCA|MY21ADA|
@@ -25773,6 +25781,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SWTV|Europe|SW3H_ATV|SWTV|
 |SWTV|North America|SW3_ATV|SWTV|
 |SWTV|SW-22AE NF|SW6H|SW-22AE NF|
+|SWTV|SW-22HK NF|SW6H|SW-22HK NF|
 |SWTV|SW-22JP NF|SW6H|SW-22JP NF|
 |SWTV|SW-22NA|SW6H|SW-22NA|
 |SWTV|SW-22NA NF|SW6H|SW-22NA NF|
@@ -29368,6 +29377,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Singer|SINGER ANDROID TV|sunnyvale|SINGER ANDROID TV|
 |Singer|SINGER BD SMART TV|SW4H_FF|SINGER BD SMART TV|
 |Singer|SINGER SL SMART TV|SW4H|SINGER SL SMART TV|
+|Singer|Singer 4K GSMART TV|SW6H|Singer 4K GSMART TV|
 |Singer|Singer Android TV|kunyang|Singer Android UHD TV|
 |Singer|SingerTV|shibuya|SingerTV|
 |Singer|Smart TV|longshan|AI PONT|
@@ -35772,6 +35782,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Walton|WALPAD 8G|WALPAD8G_V2|WALPAD8G|
 |Walton|WALPAD 8G|WALPAD8G_V2|WALPAD_8G|
 |Walton|WALPAD 8G|WALPAD_8G|WALPAD_8G|
+|Walton|WALTON GSMART 4KTV FF|SW6H|WALTON GSMART 4KTV FF|
 |Walton|Walton Primo X5|Primo_X5|Walton Primo X5|
 |Wansa|Smart TV|longshan|AI PONT|
 |Wansa|Smart TV|redwood|AI PONT|
@@ -36628,6 +36639,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xtreme|XTREME 4K TV|SW4H|XTREME 4K TV|
 |Xtreme|XTREME AI TV|sunnyvale|XTREME AI TV|
 |Xtreme|XTREME TV|shinjuku|XTREME TV|
+|Xtreme|Xtreme 4K Smart TV|SW6H|Xtreme 4K Smart TV|
 |Xwave|Xpad|Xpad|Xpad_M9_3G|
 |YAYGO|SEI600YAY|HND|ATV-101|
 |YAYGO|SEI600YAY4|HND|ATV-101|
@@ -36691,6 +36703,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Yasin|YASIN 2K G Smart TV|umeda|YASIN 2K G Smart TV|
 |Yasin|YASIN 2K TV|shinagawa|YASIN 2K TV|
 |Yasin|YASIN 4K G Smart TV|SW6H|YASIN 4K G Smart TV|
+|Yasin|YASIN 4K G Smart TV FF|SW6H|YASIN 4K G Smart TV FF|
 |Yasin|Yasin|bangbae|YASIN 4K Android TV|
 |Yasin|Yasin Android TV|SW4H|Yasin Android TV|
 |Yekani|T3A  Trend|T3A_Trend|Trend|
@@ -36746,6 +36759,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Yokis|WS107_eea|WS107|WS107|
 |Yota Devices|C9660|yotaphone|C9660|
 |Yota Devices|YotaPhone2|yotaphone2|YD201|
+|YouSee|YouSee Streamer|VIP7020_YouSee|YouSee Streamer|
 |Youfone|Amigo7xYUF|Amigo7xYUF|Amigo7xYUF|
 |Yuho|Candy|Candy|Candy|
 |Yuho|Candy_Pro|Candy_Pro|Candy_Pro|
@@ -39329,6 +39343,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 10s|RE5851|RMX3617|
 |realme|realme 11 Pro 5G|RE58B8L1|RMX3771|
 |realme|realme 11 Pro+ 5G|RE58B6L1|RMX3741|
+|realme|realme 4K G Smart TV|SW6H|realme 4K G Smart TV|
+|realme|realme 4K G Smart TV FF|SW6H|realme 4K G Smart TV FF|
 |realme|realme 6|RMX2001L1|RMX2001|
 |realme|realme 6|RMX2002L1|RMX2002|
 |realme|realme 6Pro|RMX2061L1|RMX2061|

@@ -18124,8 +18124,18 @@
  "SW6H": [
   {
    "brand": "Asanzo",
+   "name": "EX FF Series",
+   "model": "EX FF Series"
+  },
+  {
+   "brand": "Asanzo",
    "name": "EX Series",
    "model": "EX Series"
+  },
+  {
+   "brand": "Britania",
+   "name": "Britania Smart plus TV",
+   "model": "Britania Smart plus TV"
   },
   {
    "brand": "COEX",
@@ -18146,6 +18156,16 @@
    "brand": "Casper",
    "name": "Casper Smart TV",
    "model": "Casper Smart TV"
+  },
+  {
+   "brand": "Daewoo",
+   "name": "DAEWOO SMART TV",
+   "model": "DAEWOO SMART TV"
+  },
+  {
+   "brand": "Dawlance",
+   "name": "DAWLANCE GSMART 4KTV",
+   "model": "DAWLANCE GSMART 4KTV"
   },
   {
    "brand": "Green House",
@@ -18183,9 +18203,24 @@
    "model": "PrismPlus P4KA"
   },
   {
+   "brand": "Panasonic",
+   "name": "4KTV-3SU",
+   "model": "4KTV-3SU"
+  },
+  {
+   "brand": "Panasonic",
+   "name": "4KTV-3SUF",
+   "model": "4KTV-3SUF"
+  },
+  {
    "brand": "SWTV",
    "name": "SW-22AE NF",
    "model": "SW-22AE NF"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SW-22HK NF",
+   "model": "SW-22HK NF"
   },
   {
    "brand": "SWTV",
@@ -18218,6 +18253,11 @@
    "model": "SWTV-22AE"
   },
   {
+   "brand": "Singer",
+   "name": "Singer 4K GSMART TV",
+   "model": "Singer 4K GSMART TV"
+  },
+  {
    "brand": "TORNADO",
    "name": "TORNADO 4K SmartTV",
    "model": "TORNADO 4K SmartTV"
@@ -18248,9 +18288,34 @@
    "model": "VEON 4K Smart TV"
   },
   {
+   "brand": "Walton",
+   "name": "WALTON GSMART 4KTV FF",
+   "model": "WALTON GSMART 4KTV FF"
+  },
+  {
+   "brand": "Xtreme",
+   "name": "Xtreme 4K Smart TV",
+   "model": "Xtreme 4K Smart TV"
+  },
+  {
    "brand": "Yasin",
    "name": "YASIN 4K G Smart TV",
    "model": "YASIN 4K G Smart TV"
+  },
+  {
+   "brand": "Yasin",
+   "name": "YASIN 4K G Smart TV FF",
+   "model": "YASIN 4K G Smart TV FF"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 4K G Smart TV",
+   "model": "realme 4K G Smart TV"
+  },
+  {
+   "brand": "realme",
+   "name": "realme 4K G Smart TV FF",
+   "model": "realme 4K G Smart TV FF"
   }
  ],
  "ASANZO_S3_PLUS": [
@@ -138812,6 +138877,11 @@
    "brand": "Motorola Solutions",
    "name": "LEX L11",
    "model": "LEX L11j"
+  },
+  {
+   "brand": "Motorola Solutions",
+   "name": "LEX L11",
+   "model": "LEX L11l"
   }
  ],
  "mkz_sdm660_64": [
@@ -144397,6 +144467,13 @@
    "brand": "Newland",
    "name": "Newland NLS-N7",
    "model": "NLS-N7"
+  }
+ ],
+ "velvet": [
+  {
+   "brand": "Newline",
+   "name": "23QA",
+   "model": "LGA311D2"
   }
  ],
  "Newsday_A1": [
@@ -237959,6 +238036,13 @@
    "brand": "Yota Devices",
    "name": "YotaPhone2",
    "model": "YD201"
+  }
+ ],
+ "VIP7020_YouSee": [
+  {
+   "brand": "YouSee",
+   "name": "YouSee Streamer",
+   "model": "YouSee Streamer"
   }
  ],
  "Amigo7xYUF": [

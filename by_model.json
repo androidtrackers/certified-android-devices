@@ -15014,6 +15014,13 @@
    "device": "umeda"
   }
  ],
+ "EX FF Series": [
+  {
+   "brand": "Asanzo",
+   "name": "EX FF Series",
+   "device": "SW6H"
+  }
+ ],
  "EX Series": [
   {
    "brand": "Asanzo",
@@ -30785,6 +30792,13 @@
    "device": "sunnyvale"
   }
  ],
+ "Britania Smart plus TV": [
+  {
+   "brand": "Britania",
+   "name": "Britania Smart plus TV",
+   "device": "SW6H"
+  }
+ ],
  "E81": [
   {
    "brand": "British Telecom",
@@ -43734,6 +43748,11 @@
   {
    "brand": "Daewoo",
    "name": "DAEWOO SMART TV",
+   "device": "SW6H"
+  },
+  {
+   "brand": "Daewoo",
+   "name": "DAEWOO SMART TV",
    "device": "sunnyvale"
   }
  ],
@@ -44438,6 +44457,13 @@
    "brand": "Datsun",
    "name": "Datsun_D5500",
    "device": "D5500"
+  }
+ ],
+ "DAWLANCE GSMART 4KTV": [
+  {
+   "brand": "Dawlance",
+   "name": "DAWLANCE GSMART 4KTV",
+   "device": "SW6H"
   }
  ],
  "IT119345": [
@@ -141038,6 +141064,13 @@
    "device": "lexl11g_64"
   }
  ],
+ "LEX L11l": [
+  {
+   "brand": "Motorola Solutions",
+   "name": "LEX L11",
+   "device": "lexl11g_64"
+  }
+ ],
  "MSLB-MKZ900": [
   {
    "brand": "Motorola Solutions",
@@ -146556,6 +146589,13 @@
    "brand": "Newland",
    "name": "Newland NLS-N7",
    "device": "NLS-N7-GL"
+  }
+ ],
+ "LGA311D2": [
+  {
+   "brand": "Newline",
+   "name": "23QA",
+   "device": "velvet"
   }
  ],
  "Q23": [
@@ -157314,6 +157354,20 @@
    "brand": "Panasonic",
    "name": "4KTV-0SUW",
    "device": "SW4H"
+  }
+ ],
+ "4KTV-3SU": [
+  {
+   "brand": "Panasonic",
+   "name": "4KTV-3SU",
+   "device": "SW6H"
+  }
+ ],
+ "4KTV-3SUF": [
+  {
+   "brand": "Panasonic",
+   "name": "4KTV-3SUF",
+   "device": "SW6H"
   }
  ],
  "55AX600C": [
@@ -175781,6 +175835,13 @@
   {
    "brand": "SWTV",
    "name": "SW-22AE NF",
+   "device": "SW6H"
+  }
+ ],
+ "SW-22HK NF": [
+  {
+   "brand": "SWTV",
+   "name": "SW-22HK NF",
    "device": "SW6H"
   }
  ],
@@ -200322,6 +200383,13 @@
    "brand": "Singer",
    "name": "SINGER SL SMART TV",
    "device": "SW4H"
+  }
+ ],
+ "Singer 4K GSMART TV": [
+  {
+   "brand": "Singer",
+   "name": "Singer 4K GSMART TV",
+   "device": "SW6H"
   }
  ],
  "Singer Android UHD TV": [
@@ -241390,6 +241458,13 @@
    "device": "WALPAD_8G"
   }
  ],
+ "WALTON GSMART 4KTV FF": [
+  {
+   "brand": "Walton",
+   "name": "WALTON GSMART 4KTV FF",
+   "device": "SW6H"
+  }
+ ],
  "Walton Primo X5": [
   {
    "brand": "Walton",
@@ -246625,6 +246700,13 @@
    "device": "shinjuku"
   }
  ],
+ "Xtreme 4K Smart TV": [
+  {
+   "brand": "Xtreme",
+   "name": "Xtreme 4K Smart TV",
+   "device": "SW6H"
+  }
+ ],
  "Xpad_M9_3G": [
   {
    "brand": "Xwave",
@@ -247009,6 +247091,13 @@
    "device": "SW6H"
   }
  ],
+ "YASIN 4K G Smart TV FF": [
+  {
+   "brand": "Yasin",
+   "name": "YASIN 4K G Smart TV FF",
+   "device": "SW6H"
+  }
+ ],
  "YASIN 4K Android TV": [
   {
    "brand": "Yasin",
@@ -247353,6 +247442,13 @@
    "brand": "Yota Devices",
    "name": "YotaPhone2",
    "device": "yotaphone2"
+  }
+ ],
+ "YouSee Streamer": [
+  {
+   "brand": "YouSee",
+   "name": "YouSee Streamer",
+   "device": "VIP7020_YouSee"
   }
  ],
  "Amigo7xYUF": [
@@ -263800,6 +263896,20 @@
    "brand": "realme",
    "name": "realme 11 Pro+ 5G",
    "device": "RE58B6L1"
+  }
+ ],
+ "realme 4K G Smart TV": [
+  {
+   "brand": "realme",
+   "name": "realme 4K G Smart TV",
+   "device": "SW6H"
+  }
+ ],
+ "realme 4K G Smart TV FF": [
+  {
+   "brand": "realme",
+   "name": "realme 4K G Smart TV FF",
+   "device": "SW6H"
   }
  ],
  "RMX2061": [
