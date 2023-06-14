@@ -1059,6 +1059,11 @@
    "model": "43FCOL"
   },
   {
+   "brand": "Compaq",
+   "name": "COMPAQ",
+   "model": "SMART TV"
+  },
+  {
    "brand": "EKO",
    "name": "EKO",
    "model": "EKO 4K Android TV"
@@ -1095,12 +1100,22 @@
   },
   {
    "brand": "KTCtv",
+   "name": "ACONATIC",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "AZATECH",
    "model": "4K SMART TV"
   },
   {
    "brand": "KTCtv",
    "name": "BAUF",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "BOTECH",
    "model": "4K SMART TV"
   },
   {
@@ -1120,8 +1135,33 @@
   },
   {
    "brand": "KTCtv",
+   "name": "CONTI",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "DAHUA",
+   "model": "43FCOL"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "DAHUA",
+   "model": "43FSA"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "DAHUA",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "DIGGIO",
    "model": "CSV4K"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "DYON",
+   "model": "4K SMART TV"
   },
   {
    "brand": "KTCtv",
@@ -1155,8 +1195,18 @@
   },
   {
    "brand": "KTCtv",
+   "name": "ICE",
+   "model": "Smart UHD TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "INNOVA",
    "model": "CSV4K"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "ITEL",
+   "model": "4K SMART TV"
   },
   {
    "brand": "KTCtv",
@@ -1200,8 +1250,28 @@
   },
   {
    "brand": "KTCtv",
+   "name": "QBELL",
+   "model": "QBELL 4K Android TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "ROSSO",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "SA",
    "model": "43FSA"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "SKY-ONE",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "SONEVIEW",
+   "model": "4K SMART TV"
   },
   {
    "brand": "KTCtv",
@@ -1222,6 +1292,11 @@
    "brand": "KTCtv",
    "name": "VON",
    "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "ZEPHIR",
+   "model": "ZEPHIR 4K Android TV"
   },
   {
    "brand": "KTCtv",
@@ -1427,6 +1502,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "BOTECH",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "Banana",
    "model": "2K SMART TV"
   },
@@ -1442,8 +1522,28 @@
   },
   {
    "brand": "KTCtv",
+   "name": "CONTI",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "DAHUA",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "DAHUA",
+   "model": "40DSA"
+  },
+  {
+   "brand": "KTCtv",
    "name": "DIGGIO",
    "model": "CSV2K"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "ELECTROMAN",
+   "model": "Smart FHD TV"
   },
   {
    "brand": "KTCtv",
@@ -1462,8 +1562,18 @@
   },
   {
    "brand": "KTCtv",
+   "name": "ICE",
+   "model": "SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "INNOVA",
    "model": "CSV2K"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "ITEL",
+   "model": "SMART TV"
   },
   {
    "brand": "KTCtv",
@@ -1512,6 +1622,16 @@
   },
   {
    "brand": "KTCtv",
+   "name": "QBELL",
+   "model": "QBELL 2K Android TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "ROYALRAHMANI",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "Rosso",
    "model": "40D"
   },
@@ -1527,6 +1647,16 @@
   },
   {
    "brand": "KTCtv",
+   "name": "SKY-ONE",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "SONEVIEW",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "VISTA",
    "model": "2K SMART TV"
   },
@@ -1539,6 +1669,11 @@
    "brand": "KTCtv",
    "name": "VON",
    "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "ZEPHIR",
+   "model": "ZEPHIR 2K Android TV"
   },
   {
    "brand": "KTCtv",
@@ -1619,6 +1754,11 @@
    "brand": "Xitrix",
    "name": "XITRIX",
    "model": "SMART TV"
+  },
+  {
+   "brand": "eNOVA",
+   "name": "ENOVA",
+   "model": "SA 2K SMART TV"
   }
  ],
  "tamachi": [
@@ -23290,6 +23430,13 @@
    "model": "Azumi_V51"
   }
  ],
+ "Azumi_V52B": [
+  {
+   "brand": "Azumi",
+   "name": "V52B",
+   "model": "V52"
+  }
+ ],
  "Azumi_V54_AC24": [
   {
    "brand": "Azumi",
@@ -23309,6 +23456,13 @@
    "brand": "Azumi",
    "name": "V55_AC04",
    "model": "V55"
+  }
+ ],
+ "Azumi_V56B": [
+  {
+   "brand": "Azumi",
+   "name": "V56B",
+   "model": "V56"
   }
  ],
  "Azumi_V5PLUS_AC25": [
@@ -23351,6 +23505,20 @@
    "brand": "Azumi",
    "name": "V60",
    "model": "V60"
+  }
+ ],
+ "Azumi_V61": [
+  {
+   "brand": "Azumi",
+   "name": "V61",
+   "model": "Azumi_V61"
+  }
+ ],
+ "AZUMI_V66": [
+  {
+   "brand": "Azumi",
+   "name": "V66",
+   "model": "Azumi_V66"
   }
  ],
  "M10_A03_EEA": [
@@ -26920,6 +27088,13 @@
    "brand": "BYYBUO",
    "name": "BYYBUO_SmartPad_T10",
    "model": "BYYBUO_SmartPad_T10"
+  }
+ ],
+ "SmartPad_A70W": [
+  {
+   "brand": "BYYBUO",
+   "name": "SmartPad_A70W",
+   "model": "SmartPad_A70W"
   }
  ],
  "SmartPad_K7": [
@@ -39332,6 +39507,11 @@
    "brand": "GOODTEL",
    "name": "G6",
    "model": "G6"
+  },
+  {
+   "brand": "LUNA",
+   "name": "LUNA_G6",
+   "model": "LUNA G6"
   }
  ],
  "S6Plus": [
@@ -45130,6 +45310,13 @@
    "brand": "Cyrus",
    "name": "CS45XA",
    "model": "CS45XA"
+  }
+ ],
+ "CS45XA2": [
+  {
+   "brand": "Cyrus",
+   "name": "CS45XA_EEA",
+   "model": "CS45XA_EEA"
   }
  ],
  "CS45XA_EEA": [
@@ -62132,6 +62319,13 @@
    "brand": "Funai Electric",
    "name": "Smart TV",
    "model": "FUNAI 4K TV"
+  }
+ ],
+ "focX2": [
+  {
+   "brand": "Funkwerk",
+   "name": "focX2_Row",
+   "model": "focX2_Row"
   }
  ],
  "F104Bv2": [
@@ -100086,6 +100280,13 @@
    "model": "Venus Z20"
   }
  ],
+ "tennoji": [
+  {
+   "brand": "JVC",
+   "name": "MTC",
+   "model": "JVCUS 2K Google TV"
+  }
+ ],
  "JVL070TAB812BLK": [
   {
    "brand": "JVL (Australia)",
@@ -114680,6 +114881,13 @@
    "model": "TP1005"
   }
  ],
+ "TPC1013": [
+  {
+   "brand": "LVILLE",
+   "name": "TPC1013",
+   "model": "TPC1013"
+  }
+ ],
  "LW688": [
   {
    "brand": "LW",
@@ -117590,6 +117798,11 @@
   {
    "brand": "LeiaInc",
    "name": "Lume Pad",
+   "model": "LPD-20W"
+  },
+  {
+   "brand": "ZTE",
+   "name": "nubia Pad 3D",
    "model": "LPD-20W"
   }
  ],
@@ -147238,6 +147451,11 @@
    "brand": "OSCAL",
    "name": "Pad13_NEU",
    "model": "Pad 13"
+  },
+  {
+   "brand": "OSCAL",
+   "name": "Pad13_RU",
+   "model": "Pad 13"
   }
  ],
  "Pad60_EEA": [
@@ -153560,6 +153778,20 @@
    "brand": "Oukitel",
    "name": "WP21_EEA",
    "model": "WP21"
+  }
+ ],
+ "S109": [
+  {
+   "brand": "Oukitel",
+   "name": "WP22",
+   "model": "WP22"
+  }
+ ],
+ "S111": [
+  {
+   "brand": "Oukitel",
+   "name": "WP23",
+   "model": "WP23"
   }
  ],
  "WP5": [
@@ -168934,6 +169166,13 @@
    "brand": "Reeder",
    "name": "S19 Max Pro",
    "model": "S19 Max Pro"
+  }
+ ],
+ "S19_Max_Pro_S": [
+  {
+   "brand": "Reeder",
+   "name": "S19 Max Pro S",
+   "model": "S19 Max Pro S"
   }
  ],
  "S23_Pro_Max": [
@@ -201414,6 +201653,13 @@
    "model": "NEO_6"
   }
  ],
+ "Neo_7_Ultra": [
+  {
+   "brand": "SparX",
+   "name": "Neo 7 Ultra",
+   "model": "Sparx Neo 7 Ultra"
+  }
+ ],
  "Neo_7": [
   {
    "brand": "SparX",
@@ -221310,6 +221556,11 @@
    "brand": "Ulefone",
    "name": "Power Armor 19T",
    "model": "Power Armor 19T"
+  },
+  {
+   "brand": "Ulefone",
+   "name": "Power_Armor_19T",
+   "model": "Power Armor 19T"
   }
  ],
  "PowerArmorX11Pro": [
@@ -231137,6 +231388,13 @@
    "brand": "Vortex",
    "name": "Sync",
    "model": "Sync"
+  }
+ ],
+ "T10U": [
+  {
+   "brand": "Vortex",
+   "name": "T10U",
+   "model": "T10"
   }
  ],
  "TAB8V": [
@@ -252295,6 +252553,13 @@
    "brand": "menfop",
    "name": "HaierP8B",
    "model": "HaierP8B"
+  }
+ ],
+ "mipo_M17": [
+  {
+   "brand": "mipo",
+   "name": "mipo_M17",
+   "model": "mipo_M17"
   }
  ],
  "TK807": [
