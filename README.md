@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-06-14
+Last sync is 2023-06-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -4987,6 +4987,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Contex|Egypt|yeongdeungpo|AiPlus4K|
 |Continental Edison|CE10402|CE10402|CE10402|
 |Continental Edison|Continental Edison|yeongdeungpo|B UHD Android TV|
+|Continental Edison|ContinentalEdison 4K Android TV|kenton|ContinentalEdison 4K Android TV|
 |Continental Edison|Continential_Edison|bangbae|Continental 4K Android TV|
 |Continental Edison|EU、UK、AP|martin|Continental Edison Android TV|
 |Continental Edison|France|guandu|Continental Edison Android TV|
@@ -6845,6 +6846,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Elecson|Meeplus_1|Meeplus_1|Meeplus_1|
 |Electroland Ghana|NASCO_Allure|NASCO_Allure|NASCO_Allure|
 |Electroneum|electroneumM1|electroneumM1|electroneumM1|
+|Element|Element|tennoji|ElementDeluxe2K|
 |Element|USA & CANADA|Tiger838|TU43GDX|
 |Elephone|A2|A2|A2|
 |Elephone|A3_Pro|A3_Pro|A3_Pro|
@@ -22919,6 +22921,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PRISMPLUS|Prismplus TV|shibuya|Prismplus TV|
 |PROGRACE|K726|K726|K726|
 |PROTON|PROTON 2K Android|lasalle|PROTON 2K Android|
+|PROTON|PROTON 4K Android|kenton|PROTON 4K Android|
 |PS_Mobile|Neo_Pro|Neo_Pro|Neo Pro|
 |PS_Mobile|neo|neo|neo|
 |PT mobile|P10|P10|P10|
@@ -29601,6 +29604,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sky Devices|Platinum_UNO|Platinum_UNO|Platinum_UNO|
 |Sky Devices|Premier|Premier|Premier|
 |Sky Devices|Premier5|Premier5_US|Premier5|
+|Sky Devices|Premier_Pro|Premier_Pro|Premier Pro|
 |Sky Devices|Prestige2|SKY_Prestige2_FP|SKY Prestige2|
 |Sky Devices|SKY 5.0LM|SKY_50LM|SKY 5.0LM|
 |Sky Devices|SKY 5.0Pro II|SKY_50Pro_II|SKY 5.0Pro II|
@@ -31093,6 +31097,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 40 SE|Model_3|T610K|
 |TCL|TCL 40 X 5G|Encore_OM|T609M|
 |TCL|TCL 40 XE 5G|Encore_CAN|T609J|
+|TCL|TCL 406|Civic_S|T506K|
 |TCL|TCL 40XL|Sonata_Pro_OM|T608M|
 |TCL|TCL A3X|Delhi_TF|A600DL|
 |TCL|TCL C5|A3A|5152D|
@@ -34020,6 +34025,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umax|U452TL|U452TL|U452TL|
 |Umax|UMAX|kaitak|Ultra 4K GTV|
 |Umax|UMAX|seocho|UMAX 4K Android TV|
+|Umax|UMAX|tennoji|Premium 2K GTV|
 |Umax|UMAX|visionbook_P55_LTE|visionbook P55 LTE|
 |Umax|Umax|shilin|UMAX4KAndroidTV|
 |Umax|VisionBook P50 Plus LTE|P50Plus_LTE|VisionBook_P50Plus_LTE|
@@ -34114,6 +34120,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|G1 Max EEA|G1_Max|MP18|
 |Umidigi|G1 Max RU|G1_Max|MP18|
 |Umidigi|G1 Plus|G1_Plus|MP28|
+|Umidigi|G1 Plus EEA|G1_Plus|MP28|
 |Umidigi|G2|UMIDIGI_G2|MP21|
 |Umidigi|G2 EEA|UMIDIGI_G2|MP21|
 |Umidigi|G3|UMIDIGI_G3|MP24|
@@ -35228,6 +35235,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y22s|V2206|V2206|
 |Vivo|Y27|Y27|vivo Y27|
 |Vivo|Y27 5G|V2248|V2302|
+|Vivo|Y27 5G|V2248G|V2302|
 |Vivo|Y28|Y28|vivo Y28|
 |Vivo|Y30 5G|2160|V2160|
 |Vivo|Y31|PD1505|vivo Y31|

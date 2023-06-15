@@ -38361,6 +38361,13 @@
    "device": "yeongdeungpo"
   }
  ],
+ "ContinentalEdison 4K Android TV": [
+  {
+   "brand": "Continental Edison",
+   "name": "ContinentalEdison 4K Android TV",
+   "device": "kenton"
+  }
+ ],
  "Continental 4K Android TV": [
   {
    "brand": "Continental Edison",
@@ -51584,6 +51591,13 @@
    "brand": "Electroneum",
    "name": "electroneumM1",
    "device": "electroneumM1"
+  }
+ ],
+ "ElementDeluxe2K": [
+  {
+   "brand": "Element",
+   "name": "Element",
+   "device": "tennoji"
   }
  ],
  "TU43GDX": [
@@ -157318,6 +157332,13 @@
    "device": "lasalle"
   }
  ],
+ "PROTON 4K Android": [
+  {
+   "brand": "PROTON",
+   "name": "PROTON 4K Android",
+   "device": "kenton"
+  }
+ ],
  "Neo Pro": [
   {
    "brand": "PS_Mobile",
@@ -201715,6 +201736,13 @@
    "device": "Premier5"
   }
  ],
+ "Premier Pro": [
+  {
+   "brand": "Sky Devices",
+   "name": "Premier_Pro",
+   "device": "Premier_Pro"
+  }
+ ],
  "SKY Prestige2": [
   {
    "brand": "Sky Devices",
@@ -211136,6 +211164,13 @@
    "brand": "TCL",
    "name": "TCL 40 XE 5G",
    "device": "Encore_CAN"
+  }
+ ],
+ "T506K": [
+  {
+   "brand": "TCL",
+   "name": "TCL 406",
+   "device": "Civic_S"
   }
  ],
  "T608M": [
@@ -230385,6 +230420,13 @@
    "device": "seocho"
   }
  ],
+ "Premium 2K GTV": [
+  {
+   "brand": "Umax",
+   "name": "UMAX",
+   "device": "tennoji"
+  }
+ ],
  "visionbook P55 LTE": [
   {
    "brand": "Umax",
@@ -230869,6 +230911,11 @@
   {
    "brand": "Umidigi",
    "name": "G1 Plus",
+   "device": "G1_Plus"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "G1 Plus EEA",
    "device": "G1_Plus"
   }
  ],
@@ -237964,6 +238011,11 @@
    "brand": "Vivo",
    "name": "Y27 5G",
    "device": "V2248"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y27 5G",
+   "device": "V2248G"
   }
  ],
  "vivo Y28": [

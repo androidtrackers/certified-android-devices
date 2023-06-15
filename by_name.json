@@ -44858,6 +44858,13 @@
    "model": "B UHD Android TV"
   }
  ],
+ "ContinentalEdison 4K Android TV": [
+  {
+   "brand": "Continental Edison",
+   "device": "kenton",
+   "model": "ContinentalEdison 4K Android TV"
+  }
+ ],
  "Continential_Edison": [
   {
    "brand": "Continental Edison",
@@ -58617,6 +58624,18 @@
    "brand": "Electroneum",
    "device": "electroneumM1",
    "model": "electroneumM1"
+  }
+ ],
+ "Element": [
+  {
+   "brand": "Element",
+   "device": "tennoji",
+   "model": "ElementDeluxe2K"
+  },
+  {
+   "brand": "Pantech",
+   "device": "pororo",
+   "model": "PantechP4100"
   }
  ],
  "USA & CANADA": [
@@ -154751,6 +154770,13 @@
    "model": "PROTON 2K Android"
   }
  ],
+ "PROTON 4K Android": [
+  {
+   "brand": "PROTON",
+   "device": "kenton",
+   "model": "PROTON 4K Android"
+  }
+ ],
  "Neo_Pro": [
   {
    "brand": "PS_Mobile",
@@ -156766,13 +156792,6 @@
    "brand": "Pantech",
    "device": "ef35l",
    "model": "IM-A780L"
-  }
- ],
- "Element": [
-  {
-   "brand": "Pantech",
-   "device": "pororo",
-   "model": "PantechP4100"
   }
  ],
  "IM-100GN": [
@@ -194244,6 +194263,13 @@
    "model": "Premier5"
   }
  ],
+ "Premier_Pro": [
+  {
+   "brand": "Sky Devices",
+   "device": "Premier_Pro",
+   "model": "Premier Pro"
+  }
+ ],
  "Prestige2": [
   {
    "brand": "Sky Devices",
@@ -202992,6 +203018,13 @@
    "brand": "TCL",
    "device": "Encore_CAN",
    "model": "T609J"
+  }
+ ],
+ "TCL 406": [
+  {
+   "brand": "TCL",
+   "device": "Civic_S",
+   "model": "T506K"
   }
  ],
  "TCL 40XL": [
@@ -219724,6 +219757,11 @@
   },
   {
    "brand": "Umax",
+   "device": "tennoji",
+   "model": "Premium 2K GTV"
+  },
+  {
+   "brand": "Umax",
    "device": "visionbook_P55_LTE",
    "model": "visionbook P55 LTE"
   }
@@ -220282,6 +220320,13 @@
   }
  ],
  "G1 Plus": [
+  {
+   "brand": "Umidigi",
+   "device": "G1_Plus",
+   "model": "MP28"
+  }
+ ],
+ "G1 Plus EEA": [
   {
    "brand": "Umidigi",
    "device": "G1_Plus",
@@ -227109,6 +227154,11 @@
   {
    "brand": "Vivo",
    "device": "V2248",
+   "model": "V2302"
+  },
+  {
+   "brand": "Vivo",
+   "device": "V2248G",
    "model": "V2302"
   }
  ],

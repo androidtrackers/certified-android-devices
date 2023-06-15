@@ -25829,6 +25829,11 @@
    "model": "B UHD Android TV"
   },
   {
+   "device": "kenton",
+   "name": "ContinentalEdison 4K Android TV",
+   "model": "ContinentalEdison 4K Android TV"
+  },
+  {
    "device": "bangbae",
    "name": "Continential_Edison",
    "model": "Continental 4K Android TV"
@@ -35504,6 +35509,11 @@
   }
  ],
  "Element": [
+  {
+   "device": "tennoji",
+   "name": "Element",
+   "model": "ElementDeluxe2K"
+  },
   {
    "device": "Tiger838",
    "name": "USA & CANADA",
@@ -117869,6 +117879,11 @@
    "device": "lasalle",
    "name": "PROTON 2K Android",
    "model": "PROTON 2K Android"
+  },
+  {
+   "device": "kenton",
+   "name": "PROTON 4K Android",
+   "model": "PROTON 4K Android"
   }
  ],
  "PS_Mobile": [
@@ -151899,6 +151914,11 @@
    "model": "Premier5"
   },
   {
+   "device": "Premier_Pro",
+   "name": "Premier_Pro",
+   "model": "Premier Pro"
+  },
+  {
    "device": "SKY_Prestige2_FP",
    "name": "Prestige2",
    "model": "SKY Prestige2"
@@ -159569,6 +159589,11 @@
    "device": "Encore_CAN",
    "name": "TCL 40 XE 5G",
    "model": "T609J"
+  },
+  {
+   "device": "Civic_S",
+   "name": "TCL 406",
+   "model": "T506K"
   },
   {
    "device": "Sonata_Pro_OM",
@@ -174602,6 +174627,11 @@
    "model": "UMAX 4K Android TV"
   },
   {
+   "device": "tennoji",
+   "name": "UMAX",
+   "model": "Premium 2K GTV"
+  },
+  {
    "device": "visionbook_P55_LTE",
    "name": "UMAX",
    "model": "visionbook P55 LTE"
@@ -175071,6 +175101,11 @@
   {
    "device": "G1_Plus",
    "name": "G1 Plus",
+   "model": "MP28"
+  },
+  {
+   "device": "G1_Plus",
+   "name": "G1 Plus EEA",
    "model": "MP28"
   },
   {
@@ -180834,6 +180869,11 @@
   },
   {
    "device": "V2248",
+   "name": "Y27 5G",
+   "model": "V2302"
+  },
+  {
+   "device": "V2248G",
    "name": "Y27 5G",
    "model": "V2302"
   },

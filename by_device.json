@@ -41485,6 +41485,48 @@
    "model": "CE10402"
   }
  ],
+ "kenton": [
+  {
+   "brand": "Continental Edison",
+   "name": "ContinentalEdison 4K Android TV",
+   "model": "ContinentalEdison 4K Android TV"
+  },
+  {
+   "brand": "Dual",
+   "name": "Dual 4K Android TV",
+   "model": "Dual 4K Android TV"
+  },
+  {
+   "brand": "EDENWOOD",
+   "name": "EDENWOOD 4K Android TV",
+   "model": "EDENWOOD 4K Android TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "HYUNDAI 4K Android TV",
+   "model": "HYUNDAI 4K Android TV"
+  },
+  {
+   "brand": "KONKA",
+   "name": "KONKA 4K Android TV",
+   "model": "KONKA 4K Android TV"
+  },
+  {
+   "brand": "KONKA",
+   "name": "KONKA 4K Android TV-A",
+   "model": "KONKA 4K Android TV-A"
+  },
+  {
+   "brand": "PROTON",
+   "name": "PROTON 4K Android",
+   "model": "PROTON 4K Android"
+  },
+  {
+   "brand": "Polaroid",
+   "name": "Polaroid 4K Android TV",
+   "model": "Polaroid 4K Android TV"
+  }
+ ],
  "CE10412": [
   {
    "brand": "Continential",
@@ -53292,38 +53334,6 @@
    "model": "Polaroid 2K Android TV"
   }
  ],
- "kenton": [
-  {
-   "brand": "Dual",
-   "name": "Dual 4K Android TV",
-   "model": "Dual 4K Android TV"
-  },
-  {
-   "brand": "EDENWOOD",
-   "name": "EDENWOOD 4K Android TV",
-   "model": "EDENWOOD 4K Android TV"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "HYUNDAI 4K Android TV",
-   "model": "HYUNDAI 4K Android TV"
-  },
-  {
-   "brand": "KONKA",
-   "name": "KONKA 4K Android TV",
-   "model": "KONKA 4K Android TV"
-  },
-  {
-   "brand": "KONKA",
-   "name": "KONKA 4K Android TV-A",
-   "model": "KONKA 4K Android TV-A"
-  },
-  {
-   "brand": "Polaroid",
-   "name": "Polaroid 4K Android TV",
-   "model": "Polaroid 4K Android TV"
-  }
- ],
  "DunnsSlinger": [
   {
    "brand": "Dunns",
@@ -55214,6 +55224,23 @@
    "brand": "Electroneum",
    "name": "electroneumM1",
    "model": "electroneumM1"
+  }
+ ],
+ "tennoji": [
+  {
+   "brand": "Element",
+   "name": "Element",
+   "model": "ElementDeluxe2K"
+  },
+  {
+   "brand": "JVC",
+   "name": "MTC",
+   "model": "JVCUS 2K Google TV"
+  },
+  {
+   "brand": "Umax",
+   "name": "UMAX",
+   "model": "Premium 2K GTV"
   }
  ],
  "Tiger838": [
@@ -100278,13 +100305,6 @@
    "brand": "Vestel",
    "name": "Vestel Z20",
    "model": "Venus Z20"
-  }
- ],
- "tennoji": [
-  {
-   "brand": "JVC",
-   "name": "MTC",
-   "model": "JVCUS 2K Google TV"
   }
  ],
  "JVL070TAB812BLK": [
@@ -196107,6 +196127,13 @@
    "model": "Premier5"
   }
  ],
+ "Premier_Pro": [
+  {
+   "brand": "Sky Devices",
+   "name": "Premier_Pro",
+   "model": "Premier Pro"
+  }
+ ],
  "SKY_Prestige2_FP": [
   {
    "brand": "Sky Devices",
@@ -205644,6 +205671,13 @@
    "brand": "TCL",
    "name": "TCL 40 XE 5G",
    "model": "T609J"
+  }
+ ],
+ "Civic_S": [
+  {
+   "brand": "TCL",
+   "name": "TCL 406",
+   "model": "T506K"
   }
  ],
  "Sonata_Pro_OM": [
@@ -222348,6 +222382,11 @@
    "brand": "Umidigi",
    "name": "G1 Plus",
    "model": "MP28"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "G1 Plus EEA",
+   "model": "MP28"
   }
  ],
  "UMIDIGI_G2": [
@@ -229138,6 +229177,13 @@
    "brand": "Vivo",
    "name": "Y36 5G",
    "model": "V2248"
+  }
+ ],
+ "V2248G": [
+  {
+   "brand": "Vivo",
+   "name": "Y27 5G",
+   "model": "V2302"
   }
  ],
  "Y28": [
