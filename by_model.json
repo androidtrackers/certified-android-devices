@@ -3015,11 +3015,25 @@
    "device": "yeongdeungpo"
   }
  ],
+ "ASTEX 2K Android": [
+  {
+   "brand": "ASTEX",
+   "name": "ASTEX 2K Android",
+   "device": "lasalle"
+  }
+ ],
  "ASTEX 2K Google TV": [
   {
    "brand": "ASTEX",
    "name": "ASTEX 2K Google TV",
    "device": "capitolhill"
+  }
+ ],
+ "ASTEX 4K Android": [
+  {
+   "brand": "ASTEX",
+   "name": "ASTEX 4K Android",
+   "device": "kenton"
   }
  ],
  "ASTEX Google TV": [
@@ -6801,6 +6815,13 @@
    "brand": "Adreamer (Shenzhen)",
    "name": "KidsPad_7",
    "device": "KidsPad_7"
+  }
+ ],
+ "LeoPad 10X": [
+  {
+   "brand": "Adreamer (Shenzhen)",
+   "name": "LeoPad 10X",
+   "device": "LeoPad_10X"
   }
  ],
  "TH10": [
@@ -20262,6 +20283,20 @@
    "brand": "BEISTA",
    "name": "X80-EEA",
    "device": "X80-EEA"
+  }
+ ],
+ "BGH 2K Android TV": [
+  {
+   "brand": "BGH S.A.",
+   "name": "BGH 2K Android TV",
+   "device": "lasalle"
+  }
+ ],
+ "BGH 4K Android TV": [
+  {
+   "brand": "BGH S.A.",
+   "name": "BGH 4K Android TV",
+   "device": "kenton"
   }
  ],
  "BGH Joy 303": [
@@ -45618,6 +45653,20 @@
    "device": "DIGIT_INFINITY_MAX"
   }
  ],
+ "DigiKing 2K Android TV": [
+  {
+   "brand": "DigiKing",
+   "name": "DigiKing 2K Android",
+   "device": "lasalle"
+  }
+ ],
+ "DigiKing 4K Android TV": [
+  {
+   "brand": "DigiKing",
+   "name": "DigiKing 4K Android",
+   "device": "kenton"
+  }
+ ],
  "Digiking 2K Google TV": [
   {
    "brand": "DigiKing",
@@ -48014,6 +48063,11 @@
   {
    "brand": "Doogee",
    "name": "S35_RU",
+   "device": "S35"
+  },
+  {
+   "brand": "Mobiwire",
+   "name": "ALTICE S35",
    "device": "S35"
   }
  ],
@@ -51113,6 +51167,13 @@
    "brand": "EVOFORCE1",
    "name": "USA",
    "device": "SEI800MOBI"
+  }
+ ],
+ "FRC1-Midco": [
+  {
+   "brand": "EVOFORCE1",
+   "name": "FRC1-Midco",
+   "device": "SEI800MC"
   }
  ],
  "FRC1-RCN": [
@@ -105286,6 +105347,13 @@
    "device": "shibuya"
   }
  ],
+ "KG4100": [
+  {
+   "brand": "Korea Telecom",
+   "name": "KG4100",
+   "device": "KG4100"
+  }
+ ],
  "KI1101": [
   {
    "brand": "Korea Telecom",
@@ -106937,6 +107005,20 @@
    "brand": "LBQ (UK)",
    "name": "LbQ_F8v2",
    "device": "LbQ_F8v2"
+  }
+ ],
+ "LEADER 2K Android TV": [
+  {
+   "brand": "LEADER",
+   "name": "LEADER 2K Android TV",
+   "device": "lasalle"
+  }
+ ],
+ "LEADER 4K Android TV": [
+  {
+   "brand": "LEADER",
+   "name": "LEADER 4K Android TV",
+   "device": "kenton"
   }
  ],
  "ACE_I": [
@@ -129069,6 +129151,20 @@
    "device": "JOE"
   }
  ],
+ "MAJESTIC 2K Android TV": [
+  {
+   "brand": "Majestic",
+   "name": "MAJESTIC 2K Android TV",
+   "device": "lasalle"
+  }
+ ],
+ "MAJESTIC 4K Android TV": [
+  {
+   "brand": "Majestic",
+   "name": "MAJESTIC 4K Android TV",
+   "device": "kenton"
+  }
+ ],
  "TAB 611 3G": [
   {
    "brand": "Majestic",
@@ -136406,6 +136502,13 @@
    "brand": "Mobiwire",
    "name": "Ahiga",
    "device": "Ahiga"
+  }
+ ],
+ "E55": [
+  {
+   "brand": "Mobiwire",
+   "name": "Altice E55",
+   "device": "E55"
   }
  ],
  "Chenoa": [
@@ -149564,6 +149667,20 @@
    "device": "Orca_Display_2"
   }
  ],
+ "ORCA 2K Android TV": [
+  {
+   "brand": "ORCA",
+   "name": "ORCA 2K Android TV",
+   "device": "lasalle"
+  }
+ ],
+ "ORCA 4K Android TV": [
+  {
+   "brand": "ORCA",
+   "name": "ORCA 4K Android TV",
+   "device": "kenton"
+  }
+ ],
  "C20 Pro": [
   {
    "brand": "OSCAL",
@@ -157267,6 +157384,20 @@
    "brand": "POSSAFE",
    "name": "OrderGo5_EEA",
    "device": "OrderGo5"
+  }
+ ],
+ "PRIMA 2K Android TV": [
+  {
+   "brand": "PRIMA",
+   "name": "PRIMA 2K Android TV",
+   "device": "lasalle"
+  }
+ ],
+ "PRIMA 4K Android TV": [
+  {
+   "brand": "PRIMA",
+   "name": "PRIMA 4K Android TV",
+   "device": "kenton"
   }
  ],
  "PrismPlus 2KA": [
@@ -169268,6 +169399,18 @@
    "brand": "RCA",
    "name": "RCA",
    "device": "seocho"
+  },
+  {
+   "brand": "RCA",
+   "name": "RCA 4K Android TV",
+   "device": "kenton"
+  }
+ ],
+ "RCA 2K Android TV": [
+  {
+   "brand": "RCA",
+   "name": "RCA 2K Android TV",
+   "device": "lasalle"
   }
  ],
  "DRP2091": [
@@ -176319,6 +176462,41 @@
    "brand": "SYLVOX",
    "name": "SYLVOX 4K Google TV-E",
    "device": "keoneae"
+  }
+ ],
+ "Smart TV 2K": [
+  {
+   "brand": "SYLVOX",
+   "name": "Smart TV 2K",
+   "device": "lasalle"
+  }
+ ],
+ "Smart TV 2K-A": [
+  {
+   "brand": "SYLVOX",
+   "name": "Smart TV 2K-A",
+   "device": "lasalle"
+  }
+ ],
+ "Smart TV 2K-B": [
+  {
+   "brand": "SYLVOX",
+   "name": "Smart TV 2K-B",
+   "device": "lasalle"
+  }
+ ],
+ "Smart TV 4K": [
+  {
+   "brand": "SYLVOX",
+   "name": "Smart TV 4K",
+   "device": "kenton"
+  }
+ ],
+ "Smart TV 4K-B": [
+  {
+   "brand": "SYLVOX",
+   "name": "Smart TV 4K-B",
+   "device": "kenton"
   }
  ],
  "KIDS05-X5": [
@@ -203591,11 +203769,25 @@
    "device": "J9150"
   }
  ],
+ "A301SO": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 1 V",
+   "device": "A301SO"
+  }
+ ],
  "SO-51D": [
   {
    "brand": "Sony",
    "name": "Xperia 1 V",
    "device": "SO-51D"
+  }
+ ],
+ "SOG10": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 1 V",
+   "device": "SOG10"
   }
  ],
  "XQ-DQ72": [
@@ -211164,6 +211356,13 @@
    "brand": "TCL",
    "name": "TCL 40 XE 5G",
    "device": "Encore_CAN"
+  }
+ ],
+ "T609L": [
+  {
+   "brand": "TCL",
+   "name": "TCL 40 XE 5G",
+   "device": "Encore_USCC"
   }
  ],
  "T506K": [
@@ -226062,6 +226261,13 @@
    "brand": "Tecno Mobile",
    "name": "PHANTOM X2 5G",
    "device": "TECNO-Mobile-AD8"
+  }
+ ],
+ "TECNO Mobile LH7n": [
+  {
+   "brand": "Tecno Mobile",
+   "name": "POVA 5",
+   "device": "TECNO-Mobile-LH7n"
   }
  ],
  "TECNO Mobile LG6n": [
@@ -247976,6 +248182,13 @@
    "device": "2QRK"
   }
  ],
+ "ZENOS 4K Android TV": [
+  {
+   "brand": "ZENOS",
+   "name": "ZENOS 4K Android TV",
+   "device": "kenton"
+  }
+ ],
  "C-601": [
   {
    "brand": "ZENTALITY",
@@ -261220,6 +261433,20 @@
    "device": "AIM-H1"
   }
  ],
+ "carp 2K Android TV": [
+  {
+   "brand": "carp(IN)",
+   "name": "carp 2K Android TV",
+   "device": "lasalle"
+  }
+ ],
+ "carp 4K Android TV": [
+  {
+   "brand": "carp(IN)",
+   "name": "carp 4K Android TV",
+   "device": "kenton"
+  }
+ ],
  "SDA-700TAB": [
   {
    "brand": "carrozzeria",
@@ -262266,6 +262493,13 @@
    "brand": "iData",
    "name": "iData_K1",
    "device": "iData_K1"
+  }
+ ],
+ "iData P1": [
+  {
+   "brand": "iData",
+   "name": "iData P1",
+   "device": "iData_P1"
   }
  ],
  "iData T1": [

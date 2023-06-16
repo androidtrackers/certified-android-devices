@@ -4602,6 +4602,98 @@
    "model": "R4"
   }
  ],
+ "lasalle": [
+  {
+   "brand": "ASTEX",
+   "name": "ASTEX 2K Android",
+   "model": "ASTEX 2K Android"
+  },
+  {
+   "brand": "BGH S.A.",
+   "name": "BGH 2K Android TV",
+   "model": "BGH 2K Android TV"
+  },
+  {
+   "brand": "DigiKing",
+   "name": "DigiKing 2K Android",
+   "model": "DigiKing 2K Android TV"
+  },
+  {
+   "brand": "Dual",
+   "name": "Dual 2K Android TV",
+   "model": "Dual 2K Android TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "HYUNDAI 2K Android TV",
+   "model": "HYUNDAI 2K Android TV"
+  },
+  {
+   "brand": "KONKA",
+   "name": "KONKA 2K Android TV",
+   "model": "KONKA 2K Android TV"
+  },
+  {
+   "brand": "KONKA",
+   "name": "KONKA 2K Android TV-A",
+   "model": "KONKA 2K Android TV-A"
+  },
+  {
+   "brand": "LEADER",
+   "name": "LEADER 2K Android TV",
+   "model": "LEADER 2K Android TV"
+  },
+  {
+   "brand": "Majestic",
+   "name": "MAJESTIC 2K Android TV",
+   "model": "MAJESTIC 2K Android TV"
+  },
+  {
+   "brand": "ORCA",
+   "name": "ORCA 2K Android TV",
+   "model": "ORCA 2K Android TV"
+  },
+  {
+   "brand": "PRIMA",
+   "name": "PRIMA 2K Android TV",
+   "model": "PRIMA 2K Android TV"
+  },
+  {
+   "brand": "PROTON",
+   "name": "PROTON 2K Android",
+   "model": "PROTON 2K Android"
+  },
+  {
+   "brand": "Polaroid",
+   "name": "Polaroid 2K Android TV",
+   "model": "Polaroid 2K Android TV"
+  },
+  {
+   "brand": "RCA",
+   "name": "RCA 2K Android TV",
+   "model": "RCA 2K Android TV"
+  },
+  {
+   "brand": "SYLVOX",
+   "name": "Smart TV 2K",
+   "model": "Smart TV 2K"
+  },
+  {
+   "brand": "SYLVOX",
+   "name": "Smart TV 2K-A",
+   "model": "Smart TV 2K-A"
+  },
+  {
+   "brand": "SYLVOX",
+   "name": "Smart TV 2K-B",
+   "model": "Smart TV 2K-B"
+  },
+  {
+   "brand": "carp(IN)",
+   "name": "carp 2K Android TV",
+   "model": "carp 2K Android TV"
+  }
+ ],
  "capitolhill": [
   {
    "brand": "ASTEX",
@@ -4642,6 +4734,108 @@
    "brand": "innos",
    "name": "innos 2K Google TV",
    "model": "innos 2K Google TV"
+  }
+ ],
+ "kenton": [
+  {
+   "brand": "ASTEX",
+   "name": "ASTEX 4K Android",
+   "model": "ASTEX 4K Android"
+  },
+  {
+   "brand": "BGH S.A.",
+   "name": "BGH 4K Android TV",
+   "model": "BGH 4K Android TV"
+  },
+  {
+   "brand": "Continental Edison",
+   "name": "ContinentalEdison 4K Android TV",
+   "model": "ContinentalEdison 4K Android TV"
+  },
+  {
+   "brand": "DigiKing",
+   "name": "DigiKing 4K Android",
+   "model": "DigiKing 4K Android TV"
+  },
+  {
+   "brand": "Dual",
+   "name": "Dual 4K Android TV",
+   "model": "Dual 4K Android TV"
+  },
+  {
+   "brand": "EDENWOOD",
+   "name": "EDENWOOD 4K Android TV",
+   "model": "EDENWOOD 4K Android TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "HYUNDAI 4K Android TV",
+   "model": "HYUNDAI 4K Android TV"
+  },
+  {
+   "brand": "KONKA",
+   "name": "KONKA 4K Android TV",
+   "model": "KONKA 4K Android TV"
+  },
+  {
+   "brand": "KONKA",
+   "name": "KONKA 4K Android TV-A",
+   "model": "KONKA 4K Android TV-A"
+  },
+  {
+   "brand": "LEADER",
+   "name": "LEADER 4K Android TV",
+   "model": "LEADER 4K Android TV"
+  },
+  {
+   "brand": "Majestic",
+   "name": "MAJESTIC 4K Android TV",
+   "model": "MAJESTIC 4K Android TV"
+  },
+  {
+   "brand": "ORCA",
+   "name": "ORCA 4K Android TV",
+   "model": "ORCA 4K Android TV"
+  },
+  {
+   "brand": "PRIMA",
+   "name": "PRIMA 4K Android TV",
+   "model": "PRIMA 4K Android TV"
+  },
+  {
+   "brand": "PROTON",
+   "name": "PROTON 4K Android",
+   "model": "PROTON 4K Android"
+  },
+  {
+   "brand": "Polaroid",
+   "name": "Polaroid 4K Android TV",
+   "model": "Polaroid 4K Android TV"
+  },
+  {
+   "brand": "RCA",
+   "name": "RCA 4K Android TV",
+   "model": "RCA 4K Android TV"
+  },
+  {
+   "brand": "SYLVOX",
+   "name": "Smart TV 4K",
+   "model": "Smart TV 4K"
+  },
+  {
+   "brand": "SYLVOX",
+   "name": "Smart TV 4K-B",
+   "model": "Smart TV 4K-B"
+  },
+  {
+   "brand": "ZENOS",
+   "name": "ZENOS 4K Android TV",
+   "model": "ZENOS 4K Android TV"
+  },
+  {
+   "brand": "carp(IN)",
+   "name": "carp 4K Android TV",
+   "model": "carp 4K Android TV"
   }
  ],
  "bandra": [
@@ -9239,6 +9433,13 @@
    "brand": "Adreamer (Shenzhen)",
    "name": "KidsPad_7",
    "model": "KidsPad_7"
+  }
+ ],
+ "LeoPad_10X": [
+  {
+   "brand": "Adreamer (Shenzhen)",
+   "name": "LeoPad 10X",
+   "model": "LeoPad 10X"
   }
  ],
  "TH10": [
@@ -41485,48 +41686,6 @@
    "model": "CE10402"
   }
  ],
- "kenton": [
-  {
-   "brand": "Continental Edison",
-   "name": "ContinentalEdison 4K Android TV",
-   "model": "ContinentalEdison 4K Android TV"
-  },
-  {
-   "brand": "Dual",
-   "name": "Dual 4K Android TV",
-   "model": "Dual 4K Android TV"
-  },
-  {
-   "brand": "EDENWOOD",
-   "name": "EDENWOOD 4K Android TV",
-   "model": "EDENWOOD 4K Android TV"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "HYUNDAI 4K Android TV",
-   "model": "HYUNDAI 4K Android TV"
-  },
-  {
-   "brand": "KONKA",
-   "name": "KONKA 4K Android TV",
-   "model": "KONKA 4K Android TV"
-  },
-  {
-   "brand": "KONKA",
-   "name": "KONKA 4K Android TV-A",
-   "model": "KONKA 4K Android TV-A"
-  },
-  {
-   "brand": "PROTON",
-   "name": "PROTON 4K Android",
-   "model": "PROTON 4K Android"
-  },
-  {
-   "brand": "Polaroid",
-   "name": "Polaroid 4K Android TV",
-   "model": "Polaroid 4K Android TV"
-  }
- ],
  "CE10412": [
   {
    "brand": "Continential",
@@ -51689,6 +51848,11 @@
    "brand": "Doogee",
    "name": "S35_RU",
    "model": "S35"
+  },
+  {
+   "brand": "Mobiwire",
+   "name": "ALTICE S35",
+   "model": "S35"
   }
  ],
  "S35H": [
@@ -53302,38 +53466,6 @@
    "model": "BDL0948"
   }
  ],
- "lasalle": [
-  {
-   "brand": "Dual",
-   "name": "Dual 2K Android TV",
-   "model": "Dual 2K Android TV"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "HYUNDAI 2K Android TV",
-   "model": "HYUNDAI 2K Android TV"
-  },
-  {
-   "brand": "KONKA",
-   "name": "KONKA 2K Android TV",
-   "model": "KONKA 2K Android TV"
-  },
-  {
-   "brand": "KONKA",
-   "name": "KONKA 2K Android TV-A",
-   "model": "KONKA 2K Android TV-A"
-  },
-  {
-   "brand": "PROTON",
-   "name": "PROTON 2K Android",
-   "model": "PROTON 2K Android"
-  },
-  {
-   "brand": "Polaroid",
-   "name": "Polaroid 2K Android TV",
-   "model": "Polaroid 2K Android TV"
-  }
- ],
  "DunnsSlinger": [
   {
    "brand": "Dunns",
@@ -54752,6 +54884,13 @@
    "brand": "EVOFORCE1",
    "name": "USA",
    "model": "MOBI-Buckeye"
+  }
+ ],
+ "SEI800MC": [
+  {
+   "brand": "EVOFORCE1",
+   "name": "FRC1-Midco",
+   "model": "FRC1-Midco"
   }
  ],
  "SEI800RCN": [
@@ -104562,6 +104701,13 @@
    "model": "Smartfive"
   }
  ],
+ "KG4100": [
+  {
+   "brand": "Korea Telecom",
+   "name": "KG4100",
+   "model": "KG4100"
+  }
+ ],
  "KI1101": [
   {
    "brand": "Korea Telecom",
@@ -134532,6 +134678,13 @@
    "brand": "Mobiwire",
    "name": "Ahiga",
    "model": "Ahiga"
+  }
+ ],
+ "E55": [
+  {
+   "brand": "Mobiwire",
+   "name": "Altice E55",
+   "model": "E55"
   }
  ],
  "Chenoa": [
@@ -197961,11 +198114,25 @@
    "model": "J9150"
   }
  ],
+ "A301SO": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 1 V",
+   "model": "A301SO"
+  }
+ ],
  "SO-51D": [
   {
    "brand": "Sony",
    "name": "Xperia 1 V",
    "model": "SO-51D"
+  }
+ ],
+ "SOG10": [
+  {
+   "brand": "Sony",
+   "name": "Xperia 1 V",
+   "model": "SOG10"
   }
  ],
  "XQ-DQ72": [
@@ -205671,6 +205838,13 @@
    "brand": "TCL",
    "name": "TCL 40 XE 5G",
    "model": "T609J"
+  }
+ ],
+ "Encore_USCC": [
+  {
+   "brand": "TCL",
+   "name": "TCL 40 XE 5G",
+   "model": "T609L"
   }
  ],
  "Civic_S": [
@@ -217814,6 +217988,13 @@
    "brand": "Tecno Mobile",
    "name": "PHANTOM X2 5G",
    "model": "TECNO Mobile AD8"
+  }
+ ],
+ "TECNO-Mobile-LH7n": [
+  {
+   "brand": "Tecno Mobile",
+   "name": "POVA 5",
+   "model": "TECNO Mobile LH7n"
   }
  ],
  "TECNO-Mobile-LG6n": [
@@ -251156,6 +251337,13 @@
    "brand": "iData",
    "name": "iData K1",
    "model": "iData K1"
+  }
+ ],
+ "iData_P1": [
+  {
+   "brand": "iData",
+   "name": "iData P1",
+   "model": "iData P1"
   }
  ],
  "iData_T2": [
