@@ -1696,6 +1696,11 @@
    "model": "2K SMART TV"
   },
   {
+   "brand": "Lanix",
+   "name": "NA",
+   "model": "2K SMART TV"
+  },
+  {
    "brand": "Motorola",
    "name": "MOTOROLA",
    "model": "2K SMART TV"
@@ -138887,6 +138892,16 @@
    "brand": "Motorola",
    "name": "moto razr 40",
    "model": "XT2323-3"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola razr 40",
+   "model": "motorola razr 2022"
+  },
+  {
+   "brand": "Motorola",
+   "name": "motorola razr 40",
+   "model": "motorola razr 40"
   }
  ],
  "zeekr": [

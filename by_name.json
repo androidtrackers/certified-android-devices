@@ -105061,6 +105061,11 @@
    "brand": "KTCtv",
    "device": "zhongshan",
    "model": "43FNA"
+  },
+  {
+   "brand": "Lanix",
+   "device": "stanford",
+   "model": "2K SMART TV"
   }
  ],
  "NAKAMICHI": [
@@ -139445,6 +139450,18 @@
    "brand": "Motorola",
    "device": "oneli",
    "model": "motorola razr 2022"
+  }
+ ],
+ "motorola razr 40": [
+  {
+   "brand": "Motorola",
+   "device": "lynkco",
+   "model": "motorola razr 2022"
+  },
+  {
+   "brand": "Motorola",
+   "device": "lynkco",
+   "model": "motorola razr 40"
   }
  ],
  "motorola razr 40 ultra": [

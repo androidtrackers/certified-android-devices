@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-06-16
+Last sync is 2023-06-17
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -16732,6 +16732,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lanix|LANIX_PAD_E7|ILIUM_PADE7V11|LANIX_PAD_E7|
 |Lanix|Llium L910|Ilium_L910|Ilium L910|
 |Lanix|M1R|M1R|M1R|
+|Lanix|NA|stanford|2K SMART TV|
 |Lanix|RX8|Ilium_PAD_RX8|Ilium_PAD_RX8v4|
 |Lanix|X100|ILIUM_X100|ILIUM_X100|
 |Lanix|X120C|X120C|X120C|
@@ -20396,6 +20397,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola razr 2022|oneli|XT2251-1|
 |Motorola|motorola razr 2022|oneli|motorola edge 30 pro|
 |Motorola|motorola razr 2022|oneli|motorola razr 2022|
+|Motorola|motorola razr 40|lynkco|motorola razr 2022|
+|Motorola|motorola razr 40|lynkco|motorola razr 40|
 |Motorola|motorola razr 40 ultra|zeekr|motorola razr 2022|
 |Motorola|motorola razr 40 ultra|zeekr|motorola razr 40 ultra|
 |Motorola|motorola razr 5G|smith|motorola razr 5G|

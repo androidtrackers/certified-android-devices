@@ -6372,6 +6372,11 @@
    "device": "stanford"
   },
   {
+   "brand": "Lanix",
+   "name": "NA",
+   "device": "stanford"
+  },
+  {
    "brand": "Motorola",
    "name": "MOTOROLA",
    "device": "stanford"
@@ -141335,6 +141340,11 @@
   },
   {
    "brand": "Motorola",
+   "name": "motorola razr 40",
+   "device": "lynkco"
+  },
+  {
+   "brand": "Motorola",
    "name": "motorola razr 40 ultra",
    "device": "zeekr"
   },
@@ -141342,6 +141352,13 @@
    "brand": "Motorola",
    "name": "motorola razr plus 2023",
    "device": "zeekr"
+  }
+ ],
+ "motorola razr 40": [
+  {
+   "brand": "Motorola",
+   "name": "motorola razr 40",
+   "device": "lynkco"
   }
  ],
  "motorola razr 40 ultra": [
