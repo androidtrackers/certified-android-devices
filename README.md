@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-06-19
+Last sync is 2023-06-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -6789,11 +6789,24 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EVEREST-EVERPAD|DC-1032|mid1032_mk|DC-1032|
 |EVEREST-EVERPAD|DC-8015|mid7015_mk|DC-8015|
 |EVEREST-EVERPAD|DC-M700|DC-M700|DC-M700|
+|EVOFORCE1|FRC1-ABB|SEI800ABB|FRC1-ABB|
+|EVOFORCE1|FRC1-Armstrong|SEI800AS|FRC1-Armstrong|
+|EVOFORCE1|FRC1-BlueRidge|SEI800BR|FRC1-BlueRidge|
+|EVOFORCE1|FRC1-BlueStream|SEI800BS|FRC1-BlueStream|
+|EVOFORCE1|FRC1-CBT|SEI800CB|FRC1-CBT|
+|EVOFORCE1|FRC1-CableCo|SEI800TV|FRC1-CableCo|
+|EVOFORCE1|FRC1-Eastlink|SEI800ESTL|FRC1-ESTL|
+|EVOFORCE1|FRC1-MDCOM|SEI800MDCOM|FRC1-MDCOM|
 |EVOFORCE1|FRC1-MOBI|SEI800MOBI|FRC1-MOBI|
 |EVOFORCE1|FRC1-Midco|SEI800MC|FRC1-Midco|
 |EVOFORCE1|FRC1-RCN|SEI800RCN|FRC1-RCN|
+|EVOFORCE1|FRC1-SECV|SEI800SECV|FRC1-SECV|
+|EVOFORCE1|FRC1-TDS|SEI800TDS|FRC1-TDS|
+|EVOFORCE1|"US|Canada|Mexico|
 |EVOFORCE1|USA|SEI800MOBI|FRC1-MOBI|
 |EVOFORCE1|USA|SEI800MOBI|MOBI-Buckeye|
+|EVOFORCE1|USA&Canada|SEI800MOBI|FRC1-MOBI|
+|EVOFORCE1|USA&Canada|SEI800MOBI|MOBI-SECTV|
 |EVVO|Android TV|R1|ATV R1|
 |EVVO|Android TV|R2|ATV R2|
 |EVVO|R3|R3|R3|
@@ -13988,6 +14001,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel A24|itel-A507LM|itel A507LM|
 |Itel|itel A24|itel-A507LS|itel A507LS|
 |Itel|itel A24|itel-L5007|itel L5007|
+|Itel|itel A24 2023|itel-A507LSP|itel A507LSP|
 |Itel|itel A24 Pro|itel-A511LP2|itel A511LP|
 |Itel|itel A25|itel-L5002R|itel L5002|
 |Itel|itel A27(P17 Pro 4G)|itel-A551L|itel A551L|
@@ -14019,6 +14033,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel A58 Lite|itel-A631W-R2|itel A631W|
 |Itel|itel A58 lite|itel-A631W|itel A631W|
 |Itel|itel A60|itel-A662L|itel A662L|
+|Itel|itel A60s|itel-A662LM|itel A662LM|
 |Itel|itel AC12|itel-A14|itel A14|
 |Itel|itel AC13|itel-W4001P|itel W4001P|
 |Itel|itel AC32|itel-A16S|itel A16S|
@@ -32919,6 +32934,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|M40SE_Y_EEA|M40SE_Y_EEA|M40SE|
 |Teclast|M40SE_Y_ROW|M40SE_Y_ROW|M40SE|
 |Teclast|M40_EEA|M40_EEA|M40_EEA|
+|Teclast|M40_Plus_EEA|M40_Plus_EEA|M40_Plus_EEA|
+|Teclast|M40_Plus_ROW|M40_Plus_ROW|M40_Plus_ROW|
 |Teclast|M40_ROW|M40_ROW|M40_ROW|
 |Teclast|P10HD_N5H6|P10S_ROW|P10S_ROW|
 |Teclast|P10SE_EEA|P10SE_EEA|P10SE_EEA|
@@ -32956,6 +32973,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|P30HD_RU|P30HD|P30HD|
 |Teclast|P30S_EEA|P30S_EEA|P30S_EEA|
 |Teclast|P30S_ROW|P30S_ROW|P30S_ROW|
+|Teclast|P30S_W_EEA|P30S_W_EEA|P30S_W_EEA|
+|Teclast|P30S_W_ROW|P30S_W_ROW|P30S_W_ROW|
 |Teclast|P40HD_EEA|P40HD_EEA|P40HD|
 |Teclast|P40HD_EEA|P40HD_T|P40HD_EEA|
 |Teclast|P40HD_ROW|P40HD_ROW|P40HD|
@@ -33012,6 +33031,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|T40_Plus_EEA|T40_Plus_EEA|T40_Plus_EEA|
 |Teclast|T40_Plus_ROW|T40_Plus_ROW|T40_Plus_ROW|
 |Teclast|T40_Plus_RUS|T40_Plus_RUS|T40_Plus_RUS|
+|Teclast|T40_Pro_W_EEA|T40_Pro_W_EEA|T40_Pro_W_EEA|
+|Teclast|T40_Pro_W_ROW|T40_Pro_W_ROW|T40_Pro_W_ROW|
 |Teclast|T40_ROW|T40|TLA001|
 |Teclast|T50|Teclast_T50_EEA|T50|
 |Teclast|T50|Teclast_T50_ROW|T50|
@@ -38990,6 +39011,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |eSTREAM 4K|Pyxis-Midco|SEI500MC|Pyxis-Midco|
 |eSTREAM 4K|Pyxis-RCN|SEI500RCN|Pyxis-RCN|
 |eSTREAM 4K|Pyxis-SECV|SEI500SECV|Pyxis-SECV|
+|eSTREAM 4K|Pyxis-TDS|SEI500TDS|Pyxis-TDS|
 |eSTREAM 4K|TiVo Stream 4K|SEI400TV|TiVo Stream 4K|
 |eTalk|KAZ-N20|KAZ-N20|KAZ-N20|
 |eTera|E980|E980U|E980U|
