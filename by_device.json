@@ -1302,6 +1302,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "WISMANN",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "ZEPHIR",
    "model": "ZEPHIR 4K Android TV"
   },
@@ -1451,6 +1456,11 @@
    "brand": "Ghia",
    "name": "GHIA",
    "model": "SMART TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "HYUNDAI",
+   "model": "2K SMART TV"
   },
   {
    "brand": "Hyundai",
@@ -1675,6 +1685,11 @@
   {
    "brand": "KTCtv",
    "name": "VON",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "WISMANN",
    "model": "2K SMART TV"
   },
   {
@@ -31575,6 +31590,13 @@
    "model": "C5L Max"
   }
  ],
+ "C0175": [
+  {
+   "brand": "Blu",
+   "name": "C5L Max",
+   "model": "C5L Max"
+  }
+ ],
  "C0130UU": [
   {
    "brand": "Blu",
@@ -45126,6 +45148,13 @@
    "model": "KINGKONG_MINI2_Pro"
   }
  ],
+ "KINGKONG_STAR": [
+  {
+   "brand": "Cubot",
+   "name": "KINGKONG STAR",
+   "model": "KINGKONG STAR"
+  }
+ ],
  "KINGKONG_MINI": [
   {
    "brand": "Cubot",
@@ -47214,6 +47243,13 @@
    "brand": "DIFRNCE",
    "name": "DIT702201",
    "model": "NID_7010"
+  }
+ ],
+ "DCT_90": [
+  {
+   "brand": "DIJITSU",
+   "name": "DCT 90",
+   "model": "DCT 90"
   }
  ],
  "Smart_A11s": [
@@ -68082,6 +68118,13 @@
    "model": "nocturne"
   }
  ],
+ "tangorpro": [
+  {
+   "brand": "Google",
+   "name": "Pixel Tablet",
+   "model": "Pixel Tablet"
+  }
+ ],
  "r11": [
   {
    "brand": "Google",
@@ -78734,6 +78777,11 @@
    "brand": "Hisense",
    "name": "Hisense U964",
    "model": "Hisense U60 Lite"
+  },
+  {
+   "brand": "Hisense",
+   "name": "Hisense U964",
+   "model": "Hisense U70"
   },
   {
    "brand": "Hisense",
@@ -219462,6 +219510,13 @@
    "model": "TEO84G"
   }
  ],
+ "TEO8M2BK32LTE": [
+  {
+   "brand": "Thomson",
+   "name": "TEO8M2BK32LTE",
+   "model": "TEO8M"
+  }
+ ],
  "TEOX102": [
   {
    "brand": "Thomson",
@@ -244811,6 +244866,11 @@
    "brand": "ZTE",
    "name": "ZTE A7050",
    "model": "ZTE A7050"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A72s",
+   "model": "ZTE A7050"
   }
  ],
  "Orange_Hi_4G": [
@@ -248103,6 +248163,13 @@
    "brand": "ZTE",
    "name": "ZTE Blade V2020 Vita",
    "model": "ZTE 8000"
+  }
+ ],
+ "P720F03": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade V50 Design 5G",
+   "model": "ZTE 8150N"
   }
  ],
  "P840V80": [

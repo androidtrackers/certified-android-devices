@@ -6296,6 +6296,11 @@
    "device": "stanford"
   },
   {
+   "brand": "Hyundai",
+   "name": "HYUNDAI",
+   "device": "stanford"
+  },
+  {
    "brand": "JVC",
    "name": "JVC",
    "device": "stanford"
@@ -6378,6 +6383,11 @@
   {
    "brand": "KTCtv",
    "name": "VON",
+   "device": "stanford"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "WISMANN",
    "device": "stanford"
   },
   {
@@ -6687,6 +6697,11 @@
   {
    "brand": "KTCtv",
    "name": "VON",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "WISMANN",
    "device": "zhongshan"
   },
   {
@@ -27859,6 +27874,11 @@
    "brand": "Blu",
    "name": "C5L Max",
    "device": "C0173WW"
+  },
+  {
+   "brand": "Blu",
+   "name": "C5L Max",
+   "device": "C0175"
   }
  ],
  "C5L MAX": [
@@ -41464,6 +41484,13 @@
    "device": "KINGKONG_MINI2_Pro"
   }
  ],
+ "KINGKONG STAR": [
+  {
+   "brand": "Cubot",
+   "name": "KINGKONG STAR",
+   "device": "KINGKONG_STAR"
+  }
+ ],
  "KINGKONG_MINI": [
   {
    "brand": "Cubot",
@@ -43583,6 +43610,13 @@
    "brand": "DIAMANT",
    "name": "EU",
    "device": "yeongdeungpo"
+  }
+ ],
+ "DCT 90": [
+  {
+   "brand": "DIJITSU",
+   "name": "DCT 90",
+   "device": "DCT_90"
   }
  ],
  "DIJITSU_Smart_A11s": [
@@ -64686,6 +64720,13 @@
    "device": "nocturne_cheets"
   }
  ],
+ "Pixel Tablet": [
+  {
+   "brand": "Google",
+   "name": "Pixel Tablet",
+   "device": "tangorpro"
+  }
+ ],
  "Google Pixel Watch": [
   {
    "brand": "Google",
@@ -76468,6 +76509,13 @@
   }
  ],
  "Hisense U60 Lite": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U964",
+   "device": "HS7731ESP"
+  }
+ ],
+ "Hisense U70": [
   {
    "brand": "Hisense",
    "name": "Hisense U964",
@@ -227880,6 +227928,13 @@
    "device": "TEO84G332"
   }
  ],
+ "TEO8M": [
+  {
+   "brand": "Thomson",
+   "name": "TEO8M2BK32LTE",
+   "device": "TEO8M2BK32LTE"
+  }
+ ],
  "TEOX102": [
   {
    "brand": "Thomson",
@@ -258307,6 +258362,11 @@
    "brand": "ZTE",
    "name": "ZTE A7050",
    "device": "P606F05"
+  },
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A72s",
+   "device": "P606F05"
   }
  ],
  "ZTE A71 5G": [
@@ -259148,6 +259208,13 @@
    "brand": "ZTE",
    "name": "ZTE Blade V2020 Vita",
    "device": "P671F70"
+  }
+ ],
+ "ZTE 8150N": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade V50 Design 5G",
+   "device": "P720F03"
   }
  ],
  "ZTE Blade V8 Arc": [

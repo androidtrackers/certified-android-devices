@@ -33886,6 +33886,11 @@
    "brand": "Blu",
    "device": "C0173WW",
    "model": "C5L Max"
+  },
+  {
+   "brand": "Blu",
+   "device": "C0175",
+   "model": "C5L Max"
   }
  ],
  "C5L+ 2021": [
@@ -47865,6 +47870,13 @@
    "model": "KINGKONG_MINI2_Pro"
   }
  ],
+ "KINGKONG STAR": [
+  {
+   "brand": "Cubot",
+   "device": "KINGKONG_STAR",
+   "model": "KINGKONG STAR"
+  }
+ ],
  "KINGKONG_MINI": [
   {
    "brand": "Cubot",
@@ -50067,6 +50079,13 @@
    "brand": "DIFRNCE",
    "device": "DIT702201",
    "model": "NID_7010"
+  }
+ ],
+ "DCT 90": [
+  {
+   "brand": "DIJITSU",
+   "device": "DCT_90",
+   "model": "DCT 90"
   }
  ],
  "Smart A11s": [
@@ -71441,6 +71460,13 @@
    "model": "nocturne"
   }
  ],
+ "Pixel Tablet": [
+  {
+   "brand": "Google",
+   "device": "tangorpro",
+   "model": "Pixel Tablet"
+  }
+ ],
  "Pixel Watch": [
   {
    "brand": "Google",
@@ -82263,6 +82289,11 @@
    "brand": "Hisense",
    "device": "HS7731ESP",
    "model": "Hisense U60 Lite"
+  },
+  {
+   "brand": "Hisense",
+   "device": "HS7731ESP",
+   "model": "Hisense U70"
   },
   {
    "brand": "Hisense",
@@ -94546,6 +94577,13 @@
    "model": "AI PONT"
   }
  ],
+ "HYUNDAI": [
+  {
+   "brand": "Hyundai",
+   "device": "stanford",
+   "model": "2K SMART TV"
+  }
+ ],
  "HYUNDAI 2K Android TV": [
   {
    "brand": "Hyundai",
@@ -105509,6 +105547,18 @@
   }
  ],
  "VON": [
+  {
+   "brand": "KTCtv",
+   "device": "stanford",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
+  }
+ ],
+ "WISMANN": [
   {
    "brand": "KTCtv",
    "device": "stanford",
@@ -217289,6 +217339,13 @@
    "model": "TEO84G"
   }
  ],
+ "TEO8M2BK32LTE": [
+  {
+   "brand": "Thomson",
+   "device": "TEO8M2BK32LTE",
+   "model": "TEO8M"
+  }
+ ],
  "TEOX102": [
   {
    "brand": "Thomson",
@@ -245643,6 +245700,13 @@
    "model": "ZTE Blade A7 2020RU"
   }
  ],
+ "ZTE Blade A72s": [
+  {
+   "brand": "ZTE",
+   "device": "P606F05",
+   "model": "ZTE A7050"
+  }
+ ],
  "ZTE Blade A7s": [
   {
    "brand": "ZTE",
@@ -245806,6 +245870,13 @@
    "brand": "ZTE",
    "device": "P671F70",
    "model": "ZTE 8000"
+  }
+ ],
+ "ZTE Blade V50 Design 5G": [
+  {
+   "brand": "ZTE",
+   "device": "P720F03",
+   "model": "ZTE 8150N"
   }
  ],
  "ZTE Blade V770": [

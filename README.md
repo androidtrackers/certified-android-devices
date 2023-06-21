@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-06-20
+Last sync is 2023-06-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3526,6 +3526,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|C5L Max|C0170WW|C5L MAX|
 |Blu|C5L Max|C0170WW|C5L Max|
 |Blu|C5L Max|C0173WW|C5L Max|
+|Blu|C5L Max|C0175|C5L Max|
 |Blu|C5L PLUS|C0130UU|C5L PLUS|
 |Blu|C5L+ 2021|C0130WW|C5L+ 2021|
 |Blu|C5L_2020|C0070WW|C5L 2020|
@@ -5404,6 +5405,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|KINGKONG MINI2|KINGKONG_MINI2|KINGKONG MINI2|
 |Cubot|KINGKONG MINI2 Pro|KINGKONG_MINI2_Pro|KINGKONG MINI2 Pro|
 |Cubot|KINGKONG MINI2 Pro|KINGKONG_MINI2_Pro|KINGKONG_MINI2_Pro|
+|Cubot|KINGKONG STAR|KINGKONG_STAR|KINGKONG STAR|
 |Cubot|KINGKONG_MINI|KINGKONG_MINI|KINGKONG_MINI|
 |Cubot|KING_KONG_3|KING_KONG_3|KING_KONG_3|
 |Cubot|MANITO|CUBOT_MANITO|CUBOT_MANITO|
@@ -5692,6 +5694,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DIAMANT|EU|tamachi|DIAMANT Android TV|
 |DIAMANT|EU|yeongdeungpo|DIAMANT Android TV|
 |DIFRNCE|DIT702201|DIT702201|NID_7010|
+|DIJITSU|DCT 90|DCT_90|DCT 90|
 |DIJITSU|Smart A11s|Smart_A11s|DIJITSU_Smart_A11s|
 |DIMENSIONS|DISHM7863|DISHM7863|DISHM7863|
 |DIRECTV|DIRECTV|c71kw400-4gb|AT&T TV|
@@ -8675,6 +8678,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel Slate|nocturne_cheets|Google Pixel Slate|
 |Google|Pixel Slate|nocturne_cheets|Pixel Slate|
 |Google|Pixel Slate|nocturne_cheets|nocturne|
+|Google|Pixel Tablet|tangorpro|Pixel Tablet|
 |Google|Pixel Watch|r11|Google Pixel Watch|
 |Google|Pixel Watch|r11btwifi|Google Pixel Watch|
 |Google|Pixel XL|marlin|Pixel XL|
@@ -10464,6 +10468,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|Hisense U964|HS7731ESP|Hisense U50 Lite|
 |Hisense|Hisense U964|HS7731ESP|Hisense U50 lite|
 |Hisense|Hisense U964|HS7731ESP|Hisense U60 Lite|
+|Hisense|Hisense U964|HS7731ESP|Hisense U70|
 |Hisense|Hisense U964|HS7731ESP|Hisense U964|
 |Hisense|Hisense U965|HS6580MT|Hisense Hi 1 PRO|
 |Hisense|Hisense U965|HS6580MT|Hisense U965|
@@ -12799,6 +12804,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HT8WB1RBK03|HT8WB1RBK03|HT8WB1RBK03|
 |Hyundai|HY1-5085|HY1_5085|HY1-5085|
 |Hyundai|HYLED5015A4KM|samseong|AI PONT|
+|Hyundai|HYUNDAI|stanford|2K SMART TV|
 |Hyundai|HYUNDAI 2K Android TV|lasalle|HYUNDAI 2K Android TV|
 |Hyundai|HYUNDAI 2K Google TV|capitolhill|HYUNDAI  2K Google TV|
 |Hyundai|HYUNDAI 4K Android TV|kenton|HYUNDAI 4K Android TV|
@@ -14560,6 +14566,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|VIZZION|stanford|F VIZZION TV|
 |KTCtv|VON|stanford|2K SMART TV|
 |KTCtv|VON|zhongshan|4K SMART TV|
+|KTCtv|WISMANN|stanford|2K SMART TV|
+|KTCtv|WISMANN|zhongshan|4K SMART TV|
 |KTCtv|ZEPHIR|stanford|ZEPHIR 2K Android TV|
 |KTCtv|ZEPHIR|zhongshan|ZEPHIR 4K Android TV|
 |KTCtv|Zitro|stanford|40DSA|
@@ -33607,6 +33615,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Thomson|TEO7RK|TEO7RK|TEO7RK|
 |Thomson|TEO8-A2BK32|TEO8-A2BK32|TEO8-A2BK32|
 |Thomson|TEO84G|TEO84G332|TEO84G|
+|Thomson|TEO8M2BK32LTE|TEO8M2BK32LTE|TEO8M|
 |Thomson|TEOX102|TEOX102|TEOX102|
 |Thomson|TEOX103|TEOX103|TEOX103|
 |Thomson|THOMSON SEREA500|L35_A|THOMSON SEREA500|
@@ -38503,6 +38512,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade A7 2020|P662F02_D2|ZTE Blade A7 2020|
 |ZTE|ZTE Blade A7 2020RU|P662F02D|ZTE Blade A7 2020RU|
 |ZTE|ZTE Blade A7 2020RU|P662F02_D1|ZTE Blade A7 2020RU|
+|ZTE|ZTE Blade A72s|P606F05|ZTE A7050|
 |ZTE|ZTE Blade A7s|P662F02|ZTE Blade A7s|
 |ZTE|ZTE Blade A7s 2020|P963F03|ZTE A7020|
 |ZTE|ZTE Blade A7s 2020|P963F03|ZTE A7020RU|
@@ -38528,6 +38538,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|ZTE Blade V1000|P671F20|ZTE Blade V1000|
 |ZTE|ZTE Blade V1000RU|P671F20D|ZTE Blade V1000RU|
 |ZTE|ZTE Blade V2020 Vita|P671F70|ZTE 8000|
+|ZTE|ZTE Blade V50 Design 5G|P720F03|ZTE 8150N|
 |ZTE|ZTE Blade V770|P852F52|ZTE Blade V770|
 |ZTE|ZTE Blade V8 Arc|P840V80|ZTE Blade V8 Arc|
 |ZTE|ZTE Blade V9|P450S10|ZTE V0900|
