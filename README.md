@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-06-21
+Last sync is 2023-06-22
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -14529,6 +14529,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|INNOVA|zhongshan|CSV4K|
 |KTCtv|ITEL|stanford|SMART TV|
 |KTCtv|ITEL|zhongshan|4K SMART TV|
+|KTCtv|KENSTAR|stanford|2K SMART TV|
 |KTCtv|KTC|stanford|2K SMART TV|
 |KTCtv|KTC|zhongshan|4K SMART TV|
 |KTCtv|LikeMe|zhongshan|4K SMART TV|
@@ -23497,6 +23498,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|Philips Android TV|PH9M_EA_5599|TPM191E|
 |Philips|Philips Android TV|PH9M_EA_5599|TPM191KN|
 |Philips|Philips Android TV|PH9M_EA_5599|TPM191L|
+|Philips|Philips Google TV TA1|PH1M_WW_9972|Philips Google TV TA1|
 |Philips|Philips Google TV TA6|kujo|Philips Google TV TA6|
 |Philips|Philips S257|S257|Philips S257|
 |Philips|Philips S260|Philips_S260|Philips_S260|

@@ -1594,6 +1594,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "KENSTAR",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "KTC",
    "model": "2K SMART TV"
   },
@@ -158561,6 +158566,13 @@
    "brand": "Philips",
    "name": "Philips Android TV",
    "model": "TPM191L"
+  }
+ ],
+ "PH1M_WW_9972": [
+  {
+   "brand": "Philips",
+   "name": "Philips Google TV TA1",
+   "model": "Philips Google TV TA1"
   }
  ],
  "kujo": [

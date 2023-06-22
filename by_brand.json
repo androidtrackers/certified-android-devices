@@ -74870,6 +74870,11 @@
   },
   {
    "device": "stanford",
+   "name": "KENSTAR",
+   "model": "2K SMART TV"
+  },
+  {
+   "device": "stanford",
    "name": "KTC",
    "model": "2K SMART TV"
   },
@@ -120809,6 +120814,11 @@
    "device": "PH9M_EA_5599",
    "name": "Philips Android TV",
    "model": "TPM191L"
+  },
+  {
+   "device": "PH1M_WW_9972",
+   "name": "Philips Google TV TA1",
+   "model": "Philips Google TV TA1"
   },
   {
    "device": "kujo",

@@ -6337,6 +6337,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "KENSTAR",
+   "device": "stanford"
+  },
+  {
+   "brand": "KTCtv",
    "name": "KTC",
    "device": "stanford"
   },
@@ -161083,6 +161088,13 @@
    "brand": "Philips",
    "name": "Philips Android TV",
    "device": "PH9M_EA_5599"
+  }
+ ],
+ "Philips Google TV TA1": [
+  {
+   "brand": "Philips",
+   "name": "Philips Google TV TA1",
+   "device": "PH1M_WW_9972"
   }
  ],
  "Philips Google TV TA6": [

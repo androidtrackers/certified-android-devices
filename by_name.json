@@ -105315,6 +105315,13 @@
    "model": "4K SMART TV"
   }
  ],
+ "KENSTAR": [
+  {
+   "brand": "KTCtv",
+   "device": "stanford",
+   "model": "2K SMART TV"
+  }
+ ],
  "KTC": [
   {
    "brand": "KTCtv",
@@ -158396,6 +158403,13 @@
    "brand": "Philips",
    "device": "PH9M_EA_5599",
    "model": "TPM191L"
+  }
+ ],
+ "Philips Google TV TA1": [
+  {
+   "brand": "Philips",
+   "device": "PH1M_WW_9972",
+   "model": "Philips Google TV TA1"
   }
  ],
  "Philips Google TV TA6": [
