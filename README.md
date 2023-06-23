@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-06-22
+Last sync is 2023-06-23
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -20447,6 +20447,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola razr 2022|oneli|XT2251-1|
 |Motorola|motorola razr 2022|oneli|motorola edge 30 pro|
 |Motorola|motorola razr 2022|oneli|motorola razr 2022|
+|Motorola|motorola razr 2023|lynkco|motorola razr 2022|
 |Motorola|motorola razr 40|lynkco|motorola razr 2022|
 |Motorola|motorola razr 40|lynkco|motorola razr 40|
 |Motorola|motorola razr 40 ultra|zeekr|motorola razr 2022|
