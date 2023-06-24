@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-06-23
+Last sync is 2023-06-24
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -20275,6 +20275,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g stylus 5G|denver|moto g stylus 5G|
 |Motorola|moto g stylus 5G (2022)|milanf|moto g stylus 5G (2022)|
 |Motorola|moto g stylus 5G (2022)|milanf|moto g(50)|
+|Motorola|moto g stylus 5G - 2023|genevn|moto g stylus 5G - 2023|
+|Motorola|moto g stylus 5G - 2023|genevn|moto g stylus 5g|
 |Motorola|moto g(10)|capri|moto e(7) plus|
 |Motorola|moto g(10)|capri|moto g(10)|
 |Motorola|moto g(100)|nio|moto g(100)|
