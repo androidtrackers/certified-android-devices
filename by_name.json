@@ -155015,6 +155015,18 @@
    "model": "21121210G"
   }
  ],
+ "POCO F5": [
+  {
+   "brand": "POCO",
+   "device": "marble",
+   "model": "23049PCD8G"
+  },
+  {
+   "brand": "Redmi",
+   "device": "marblein",
+   "model": "23049PCD8I"
+  }
+ ],
  "POCO M2": [
   {
    "brand": "POCO",
@@ -169572,6 +169584,13 @@
    "brand": "Redmi",
    "device": "rubypro",
    "model": "22101316UG"
+  }
+ ],
+ "Redmi Note 12 Turbo": [
+  {
+   "brand": "Redmi",
+   "device": "marble",
+   "model": "23049RAD8C"
   }
  ],
  "Redmi Note 12S": [
@@ -202887,6 +202906,13 @@
    "model": "T7K_PLUS"
   }
  ],
+ "TL1B_68": [
+  {
+   "brand": "TAIFA",
+   "device": "TL1B_68",
+   "model": "TL1B_68"
+  }
+ ],
  "TATV-8000": [
   {
    "brand": "TBC (TW)",
@@ -214693,7 +214719,7 @@
    "model": "TECNO P702AS"
   }
  ],
- "PHANTOM V  Fold": [
+ "PHANTOM V Fold": [
   {
    "brand": "Tecno",
    "device": "TECNO-AD10",
@@ -236282,6 +236308,11 @@
    "brand": "Xiaomi",
    "device": "ishtar",
    "model": "2304FPN6DC"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "ishtar",
+   "model": "2304FPN6DG"
   }
  ],
  "Xiaomi 13 pro": [
@@ -236355,6 +236386,11 @@
    "brand": "Xiaomi",
    "device": "pipa",
    "model": "23043RP34C"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "pipa",
+   "model": "23043RP34I"
   }
  ],
  "Xiaomi TV Box S (2nd Gen)": [
@@ -241003,6 +241039,13 @@
    "brand": "ZTE",
    "device": "P637F10",
    "model": "NOS NOVU III"
+  }
+ ],
+ "NP01J": [
+  {
+   "brand": "ZTE",
+   "device": "P898P02",
+   "model": "NP01J"
   }
  ],
  "NX402": [
@@ -247946,6 +247989,13 @@
    "brand": "Zuum",
    "device": "MAGNO_C",
    "model": "MAGNO C"
+  }
+ ],
+ "MAGNO C PLUS": [
+  {
+   "brand": "Zuum",
+   "device": "Magno_C_Plus",
+   "model": "Magno C Plus"
   }
  ],
  "MAGNO C1": [

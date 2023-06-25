@@ -157575,6 +157575,13 @@
    "device": "ingres"
   }
  ],
+ "23049PCD8G": [
+  {
+   "brand": "POCO",
+   "name": "POCO F5",
+   "device": "marble"
+  }
+ ],
  "M2004J19PI": [
   {
    "brand": "POCO",
@@ -171550,6 +171557,13 @@
    "device": "rango"
   }
  ],
+ "23049PCD8I": [
+  {
+   "brand": "Redmi",
+   "name": "POCO F5",
+   "device": "marblein"
+  }
+ ],
  "Redmi 7A": [
   {
    "brand": "Redmi",
@@ -172600,6 +172614,13 @@
    "brand": "Redmi",
    "name": "Redmi Note 12 Pro+ 5G",
    "device": "rubypro"
+  }
+ ],
+ "23049RAD8C": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 12 Turbo",
+   "device": "marble"
   }
  ],
  "2303CRA44A": [
@@ -211030,6 +211051,13 @@
    "device": "T7K-PLUS"
   }
  ],
+ "TL1B_68": [
+  {
+   "brand": "TAIFA",
+   "name": "TL1B_68",
+   "device": "TL1B_68"
+  }
+ ],
  "TATV-8000": [
   {
    "brand": "TBC (TW)",
@@ -225077,7 +225105,7 @@
  "TECNO AD10": [
   {
    "brand": "Tecno",
-   "name": "PHANTOM V  Fold",
+   "name": "PHANTOM V Fold",
    "device": "TECNO-AD10"
   },
   {
@@ -247383,6 +247411,13 @@
    "device": "ishtar"
   }
  ],
+ "2304FPN6DG": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 13 Ultra",
+   "device": "ishtar"
+  }
+ ],
  "2210132C": [
   {
    "brand": "Xiaomi",
@@ -247452,6 +247487,13 @@
   }
  ],
  "23043RP34C": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Pad 6",
+   "device": "pipa"
+  }
+ ],
+ "23043RP34I": [
   {
    "brand": "Xiaomi",
    "name": "Xiaomi Pad 6",
@@ -254226,6 +254268,13 @@
    "brand": "ZTE",
    "name": "NOS NOVU III",
    "device": "P637F10"
+  }
+ ],
+ "NP01J": [
+  {
+   "brand": "ZTE",
+   "name": "NP01J",
+   "device": "P898P02"
   }
  ],
  "NX402": [
@@ -261225,6 +261274,13 @@
    "brand": "Zuum",
    "name": "MAGNO C",
    "device": "MAGNO_C"
+  }
+ ],
+ "Magno C Plus": [
+  {
+   "brand": "Zuum",
+   "name": "MAGNO C PLUS",
+   "device": "Magno_C_Plus"
   }
  ],
  "MAGNO C1": [

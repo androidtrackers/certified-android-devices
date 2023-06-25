@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-06-24
+Last sync is 2023-06-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -22954,6 +22954,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO F4|munch|22021211RG|
 |POCO|POCO F4|munch|22021211RI|
 |POCO|POCO F4 GT|ingres|21121210G|
+|POCO|POCO F5|marble|23049PCD8G|
 |POCO|POCO M2|shiva|M2004J19PI|
 |POCO|POCO M2 Pro|gram|POCO M2 Pro|
 |POCO|POCO M3|citrus|M2010J19CG|
@@ -25112,6 +25113,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Mi  9T  Pro|raphaelin|Redmi K20 Pro|
 |Redmi|Mi 9T|davinci|Mi 9T|
 |Redmi|MiTV|rango|MiTV-AXFR0|
+|Redmi|POCO F5|marblein|23049PCD8I|
 |Redmi|Redmi  7A|pine|Redmi 7A|
 |Redmi|Redmi  7A|pine|pine|
 |Redmi|Redmi  Note  7|lavender|Redmi Note 7|
@@ -25263,6 +25265,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi Note 12 Pro Speed|redwood|22101320C|
 |Redmi|Redmi Note 12 Pro+|rubypro|22101316UCP|
 |Redmi|Redmi Note 12 Pro+ 5G|rubypro|22101316UG|
+|Redmi|Redmi Note 12 Turbo|marble|23049RAD8C|
 |Redmi|Redmi Note 12S|ocean|2303CRA44A|
 |Redmi|Redmi Note 12S|ocean|2303ERA42L|
 |Redmi|Redmi Note 12S|sea|23030RAC7Y|
@@ -31067,6 +31070,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TAG-TECH|Tagphone plus|Tagphone_plus|Tagphone plus|
 |TAGITAL|K88|K88|K88|
 |TAGITAL|T7K_PLUS|T7K-PLUS|T7K_PLUS|
+|TAIFA|TL1B_68|TL1B_68|TL1B_68|
 |TASKPHONE|T20|T20P|T20|
 |TBC (TW)|TATV-8000|TATV_8000|TATV-8000|
 |TBC (TW)|TATV_8000|TATV_8000|TATV-8000|
@@ -33177,7 +33181,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|NX|TECNO-R8|TECNO R8S|
 |Tecno|P5|up08_tecno_p5s|TECNO P5S|
 |Tecno|P702AS|TECNO-P702|TECNO P702AS|
-|Tecno|PHANTOM V  Fold|TECNO-AD10|TECNO AD10|
+|Tecno|PHANTOM V Fold|TECNO-AD10|TECNO AD10|
 |Tecno|PHANTOM X|TECNO-AC8|TECNO AC8|
 |Tecno|PHANTOM X2 5G|TECNO-AD8|TECNO AD8|
 |Tecno|PHANTOM X2 Pro 5G|TECNO-AD9|TECNO AD9|
@@ -36734,6 +36738,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi 13 Lite|ziyi|2210129SG|
 |Xiaomi|Xiaomi 13 Pro|nuwa|2210132G|
 |Xiaomi|Xiaomi 13 Ultra|ishtar|2304FPN6DC|
+|Xiaomi|Xiaomi 13 Ultra|ishtar|2304FPN6DG|
 |Xiaomi|Xiaomi 13 pro|nuwa|2210132C|
 |Xiaomi|Xiaomi Civi|mona|2109119BC|
 |Xiaomi|Xiaomi Civi 1S|zijin|2109119BC|
@@ -36745,6 +36750,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi Pad 5 Pro|elish|M2105K81AC|
 |Xiaomi|Xiaomi Pad 5 Pro 5G|enuma|M2105K81C|
 |Xiaomi|Xiaomi Pad 6|pipa|23043RP34C|
+|Xiaomi|Xiaomi Pad 6|pipa|23043RP34I|
 |Xiaomi|Xiaomi TV Box S (2nd Gen)|jaws|MiTV-AFKR0|
 |Xiaomi|Xiaomi TV stick 4K|soul|MiTV-AYFR0|
 |Xiaomi|Xiaomi civi 3|yuechu|23046PNC9C|
@@ -37737,6 +37743,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ZTE|NOS NEVA 80|P852F52|NOS NEVA 80|
 |ZTE|NOS NOVU II|P680A20|NOS NOVU II|
 |ZTE|NOS NOVU III|P637F10|NOS NOVU III|
+|ZTE|NP01J|P898P02|NP01J|
 |ZTE|NX402|NX40X|NX402|
 |ZTE|NX403A|NX403A|NX403A|
 |ZTE|NX404H|NX404H|NX404H|
@@ -38870,6 +38877,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zuum|MAGNO|ZUUM_MAGNO|MAGNO|
 |Zuum|MAGNO|ZUUM_MAGNO-S|MAGNO-S|
 |Zuum|MAGNO C|MAGNO_C|MAGNO C|
+|Zuum|MAGNO C PLUS|Magno_C_Plus|Magno C Plus|
 |Zuum|MAGNO C1|MAGNO_C1|MAGNO C1|
 |Zuum|MAGNO MINI|MAGNO_MINI|MAGNO MINI|
 |Zuum|ONIX|ONIX|ONIX|

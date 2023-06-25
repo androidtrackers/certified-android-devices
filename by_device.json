@@ -155155,6 +155155,18 @@
    "model": "21121210C"
   }
  ],
+ "marble": [
+  {
+   "brand": "POCO",
+   "name": "POCO F5",
+   "model": "23049PCD8G"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi Note 12 Turbo",
+   "model": "23049RAD8C"
+  }
+ ],
  "shiva": [
   {
    "brand": "POCO",
@@ -168549,6 +168561,13 @@
    "brand": "Xiaomi",
    "name": "MiTV",
    "model": "MiTV-AXFR1"
+  }
+ ],
+ "marblein": [
+  {
+   "brand": "Redmi",
+   "name": "POCO F5",
+   "model": "23049PCD8I"
   }
  ],
  "lavender": [
@@ -205265,6 +205284,13 @@
    "model": "T7K_PLUS"
   }
  ],
+ "TL1B_68": [
+  {
+   "brand": "TAIFA",
+   "name": "TL1B_68",
+   "model": "TL1B_68"
+  }
+ ],
  "T20P": [
   {
    "brand": "TASKPHONE",
@@ -216824,7 +216850,7 @@
  "TECNO-AD10": [
   {
    "brand": "Tecno",
-   "name": "PHANTOM V  Fold",
+   "name": "PHANTOM V Fold",
    "model": "TECNO AD10"
   },
   {
@@ -238025,6 +238051,11 @@
    "brand": "Xiaomi",
    "name": "Xiaomi 13 Ultra",
    "model": "2304FPN6DC"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi 13 Ultra",
+   "model": "2304FPN6DG"
   }
  ],
  "mona": [
@@ -238093,6 +238124,11 @@
    "brand": "Xiaomi",
    "name": "Xiaomi Pad 6",
    "model": "23043RP34C"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Pad 6",
+   "model": "23043RP34I"
   }
  ],
  "jaws": [
@@ -244313,6 +244349,13 @@
    "model": "ZTE_V5"
   }
  ],
+ "P898P02": [
+  {
+   "brand": "ZTE",
+   "name": "NP01J",
+   "model": "NP01J"
+  }
+ ],
  "NX403A": [
   {
    "brand": "ZTE",
@@ -250052,6 +250095,13 @@
    "brand": "Zuum",
    "name": "MAGNO C",
    "model": "MAGNO C"
+  }
+ ],
+ "Magno_C_Plus": [
+  {
+   "brand": "Zuum",
+   "name": "MAGNO C PLUS",
+   "model": "Magno C Plus"
   }
  ],
  "MAGNO_C1": [
