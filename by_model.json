@@ -161130,6 +161130,20 @@
    "device": "kujo"
   }
  ],
+ "Philips Google TV TA6 LT": [
+  {
+   "brand": "Philips",
+   "name": "Philips Google TV TA6",
+   "device": "kujo"
+  }
+ ],
+ "Philips Google TV TA7": [
+  {
+   "brand": "Philips",
+   "name": "Philips Google TV TA7",
+   "device": "PH3M_AL_T32"
+  }
+ ],
  "Philips S257": [
   {
    "brand": "Philips",
@@ -171785,6 +171799,34 @@
    "brand": "Redmi",
    "name": "Redmi 11 Prime 5G",
    "device": "light"
+  }
+ ],
+ "23053RN02A": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 12",
+   "device": "fire"
+  }
+ ],
+ "23053RN02I": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 12",
+   "device": "fire"
+  }
+ ],
+ "23053RN02L": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 12",
+   "device": "fire"
+  }
+ ],
+ "23053RN02Y": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 12",
+   "device": "heat"
   }
  ],
  "22126RN91Y": [
@@ -232575,6 +232617,13 @@
    "brand": "V2COM",
    "name": "T2",
    "device": "ROCKY_T2"
+  }
+ ],
+ "IFPO3V7PRO": [
+  {
+   "brand": "V7",
+   "name": "IFPXX03-V7PRO",
+   "device": "rk3588_t"
   }
  ],
  "V7 Zyro": [

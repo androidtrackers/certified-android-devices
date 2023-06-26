@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-06-25
+Last sync is 2023-06-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -23504,6 +23504,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Philips|Philips Android TV|PH9M_EA_5599|TPM191L|
 |Philips|Philips Google TV TA1|PH1M_WW_9972|Philips Google TV TA1|
 |Philips|Philips Google TV TA6|kujo|Philips Google TV TA6|
+|Philips|Philips Google TV TA6|kujo|Philips Google TV TA6 LT|
+|Philips|Philips Google TV TA7|PH3M_AL_T32|Philips Google TV TA7|
 |Philips|Philips S257|S257|Philips S257|
 |Philips|Philips S260|Philips_S260|Philips_S260|
 |Philips|Philips S310X|Philips_S310X|Philips S310X|
@@ -25144,6 +25146,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi 10X pro|bomb|bomb|
 |Redmi|Redmi 11 Prime|rock|22071219AI|
 |Redmi|Redmi 11 Prime 5G|light|22041219I|
+|Redmi|Redmi 12|fire|23053RN02A|
+|Redmi|Redmi 12|fire|23053RN02I|
+|Redmi|Redmi 12|fire|23053RN02L|
+|Redmi|Redmi 12|heat|23053RN02Y|
 |Redmi|Redmi 12C|aether|22126RN91Y|
 |Redmi|Redmi 12C|earth|22120RN86G|
 |Redmi|Redmi 12C|earth|22120RN86I|
@@ -34386,6 +34392,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Utopia|UH0342  UHTABLET10.1INCH|UH0342|UH0342|
 |V-MOCCS|VT-A9|VT-A9|VT-A9|
 |V2COM|T2|ROCKY_T2|ROCKY T2|
+|V7|IFPXX03-V7PRO|rk3588_t|IFPO3V7PRO|
 |V7|Zyro|zyro|V7 Zyro|
 |VAARAHI|TEO 8|T8LTE32G|TEO8LTE|
 |VAIO|VA-10J|VA-10J|JCI VA-10J|

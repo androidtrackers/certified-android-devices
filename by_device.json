@@ -610,6 +610,11 @@
    "brand": "Synetech",
    "name": "Synetech Elite Taurus",
    "model": "Synetech_T35"
+  },
+  {
+   "brand": "V7",
+   "name": "IFPXX03-V7PRO",
+   "model": "IFPO3V7PRO"
   }
  ],
  "ADOC_TCAT10": [
@@ -158609,6 +158614,18 @@
    "brand": "Philips",
    "name": "Philips Google TV TA6",
    "model": "Philips Google TV TA6"
+  },
+  {
+   "brand": "Philips",
+   "name": "Philips Google TV TA6",
+   "model": "Philips Google TV TA6 LT"
+  }
+ ],
+ "PH3M_AL_T32": [
+  {
+   "brand": "Philips",
+   "name": "Philips Google TV TA7",
+   "model": "Philips Google TV TA7"
   }
  ],
  "S257": [
@@ -168709,6 +168726,30 @@
    "brand": "Redmi",
    "name": "Redmi 10X pro",
    "model": "bomb"
+  }
+ ],
+ "fire": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 12",
+   "model": "23053RN02A"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 12",
+   "model": "23053RN02I"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 12",
+   "model": "23053RN02L"
+  }
+ ],
+ "heat": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi 12",
+   "model": "23053RN02Y"
   }
  ],
  "aether": [
