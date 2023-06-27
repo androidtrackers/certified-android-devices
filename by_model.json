@@ -79461,11 +79461,13 @@
    "brand": "Honor",
    "name": "HONOR 70 Lite",
    "device": "HNRBN-Q"
-  },
+  }
+ ],
+ "REA-NX9": [
   {
    "brand": "Honor",
-   "name": "RBN-NX1",
-   "device": "HNRBN-Q"
+   "name": "HONOR 90",
+   "device": "HNREA"
   }
  ],
  "FRI-NX9": [

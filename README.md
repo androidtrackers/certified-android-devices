@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-06-26
+Last sync is 2023-06-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10958,6 +10958,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR 50 Lite|HNNTN|NTN-LX3|
 |Honor|HONOR 70|HNFNE|FNE-NX9|
 |Honor|HONOR 70 Lite|HNRBN-Q|RBN-NX1|
+|Honor|HONOR 90|HNREA|REA-NX9|
 |Honor|HONOR Magic Vs|HNFRI|FRI-NX9|
 |Honor|HONOR Magic4 Lite|HNANY-Q1|ANY-LX1|
 |Honor|HONOR Magic4 Lite 5G|HNANY-Q|ANY-NX1|
@@ -10994,7 +10995,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X9|HNANY-Q1|ANY-LX3|
 |Honor|HONOR X9 5G|HNANY-Q|ANY-NX1|
 |Honor|HONOR X9a 5G|HNRMO-Q|RMO-NX1|
-|Honor|RBN-NX1|HNRBN-Q|RBN-NX1|
 |Hoozo|HZ0010|HZ0010|HZ0010|
 |Hoozo|HZ0010J|HZ0010J|HZ0010J|
 |Hoozo|HZ0011|HZ0011|HZ0011|

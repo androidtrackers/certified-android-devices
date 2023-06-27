@@ -81460,11 +81460,13 @@
    "brand": "Honor",
    "name": "HONOR X8a 5G",
    "model": "RBN-NX3"
-  },
+  }
+ ],
+ "HNREA": [
   {
    "brand": "Honor",
-   "name": "RBN-NX1",
-   "model": "RBN-NX1"
+   "name": "HONOR 90",
+   "model": "REA-NX9"
   }
  ],
  "HNFRI": [

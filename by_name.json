@@ -85424,6 +85424,13 @@
    "model": "RBN-NX1"
   }
  ],
+ "HONOR 90": [
+  {
+   "brand": "Honor",
+   "device": "HNREA",
+   "model": "REA-NX9"
+  }
+ ],
  "HONOR Magic Vs": [
   {
    "brand": "Honor",
@@ -85644,13 +85651,6 @@
    "brand": "Honor",
    "device": "HNRMO-Q",
    "model": "RMO-NX1"
-  }
- ],
- "RBN-NX1": [
-  {
-   "brand": "Honor",
-   "device": "HNRBN-Q",
-   "model": "RBN-NX1"
   }
  ],
  "HZ0010": [

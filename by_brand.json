@@ -56676,6 +56676,11 @@
    "model": "RBN-NX1"
   },
   {
+   "device": "HNREA",
+   "name": "HONOR 90",
+   "model": "REA-NX9"
+  },
+  {
    "device": "HNFRI",
    "name": "HONOR Magic Vs",
    "model": "FRI-NX9"
@@ -56854,11 +56859,6 @@
    "device": "HNRMO-Q",
    "name": "HONOR X9a 5G",
    "model": "RMO-NX1"
-  },
-  {
-   "device": "HNRBN-Q",
-   "name": "RBN-NX1",
-   "model": "RBN-NX1"
   }
  ],
  "Hoozo": [
