@@ -15430,6 +15430,13 @@
    "device": "A4G"
   }
  ],
+ "AS57": [
+  {
+   "brand": "Aspera",
+   "name": "AS57",
+   "device": "AS57"
+  }
+ ],
  "AS6": [
   {
    "brand": "Aspera",
@@ -51392,13 +51399,6 @@
    "device": "SEI800TDS"
   }
  ],
- "Mexico": [
-  {
-   "brand": "EVOFORCE1",
-   "name": "\"US",
-   "device": "Canada"
-  }
- ],
  "MOBI-Buckeye": [
   {
    "brand": "EVOFORCE1",
@@ -55929,6 +55929,13 @@
    "brand": "FUNKER",
    "name": "E500i",
    "device": "E500i"
+  }
+ ],
+ "FUSE 4K": [
+  {
+   "brand": "FUSE4K",
+   "name": "FUSE 4K",
+   "device": "SEI700TV"
   }
  ],
  "FV-FG6": [
@@ -64702,6 +64709,13 @@
    "brand": "Google",
    "name": "Pixel C",
    "device": "dragon"
+  }
+ ],
+ "Pixel Fold": [
+  {
+   "brand": "Google",
+   "name": "Pixel Fold",
+   "device": "felix"
   }
  ],
  "Google Pixel Slate": [
@@ -224293,6 +224307,13 @@
    "brand": "Teclast",
    "name": "T50Air_EEA",
    "device": "T50Air"
+  }
+ ],
+ "T50Pro_W_ROW": [
+  {
+   "brand": "Teclast",
+   "name": "T50Pro_W_ROW",
+   "device": "T50Pro_W_ROW"
   }
  ],
  "T50_EEA": [

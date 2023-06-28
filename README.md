@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-06-27
+Last sync is 2023-06-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1751,6 +1751,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aspera|A45|A45|A45|
 |Aspera|A45|A45_1|A45|
 |Aspera|A4G|A4G|A4G|
+|Aspera|AS57|AS57|AS57|
 |Aspera|AS6|AS6|AS6|
 |Aspera|AS7|AS7|AS7|
 |Aspera|AS9|AS9|AS9|
@@ -6805,7 +6806,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EVOFORCE1|FRC1-RCN|SEI800RCN|FRC1-RCN|
 |EVOFORCE1|FRC1-SECV|SEI800SECV|FRC1-SECV|
 |EVOFORCE1|FRC1-TDS|SEI800TDS|FRC1-TDS|
-|EVOFORCE1|"US|Canada|Mexico|
 |EVOFORCE1|USA|SEI800MOBI|FRC1-MOBI|
 |EVOFORCE1|USA|SEI800MOBI|MOBI-Buckeye|
 |EVOFORCE1|USA&Canada|SEI800MOBI|FRC1-MOBI|
@@ -7439,6 +7439,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FPT Trading|FPT_X50|FPT_X50|FPT X50|
 |FPT Trading|X50|FPT_X50|FPT X50|
 |FUNKER|E500i|E500i|E500i|
+|FUSE4K|FUSE 4K|SEI700TV|FUSE 4K|
 |FaceVsion|OC1020A|OC1020A|FV-FG6|
 |Facime|FLEET_7|FLEET_7|FLEET_7|
 |Fairphone|FP2|FP2|FP2|
@@ -8675,6 +8676,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel 7 Pro|cheetah|Pixel 7 Pro|
 |Google|Pixel 7a|lynx|Pixel 7a|
 |Google|Pixel C|dragon|Pixel C|
+|Google|Pixel Fold|felix|Pixel Fold|
 |Google|Pixel Slate|nocturne_cheets|Google Pixel Slate|
 |Google|Pixel Slate|nocturne_cheets|Pixel Slate|
 |Google|Pixel Slate|nocturne_cheets|nocturne|
@@ -33061,6 +33063,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|T50|Teclast_T50_ROW|T50|
 |Teclast|T50|Teclast_T50_RUS|T50|
 |Teclast|T50Air_EEA|T50Air|T50Air_EEA|
+|Teclast|T50Pro_W_ROW|T50Pro_W_ROW|T50Pro_W_ROW|
 |Teclast|T50_2022_EEA|T50_2022_EEA|T50_EEA|
 |Teclast|T50_2022_ROW|T50_2022_ROW|T50_ROW|
 |Teclast|T50_2022_RUS|T50_2022_RUS|T50_RUS|

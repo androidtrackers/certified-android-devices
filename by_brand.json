@@ -9089,6 +9089,11 @@
    "model": "A4G"
   },
   {
+   "device": "AS57",
+   "name": "AS57",
+   "model": "AS57"
+  },
+  {
    "device": "AS6",
    "name": "AS6",
    "model": "AS6"
@@ -35267,11 +35272,6 @@
    "model": "FRC1-TDS"
   },
   {
-   "device": "Canada",
-   "name": "\"US",
-   "model": "Mexico"
-  },
-  {
    "device": "SEI800MOBI",
    "name": "USA",
    "model": "FRC1-MOBI"
@@ -38637,6 +38637,13 @@
    "device": "E500i",
    "name": "E500i",
    "model": "E500i"
+  }
+ ],
+ "FUSE4K": [
+  {
+   "device": "SEI700TV",
+   "name": "FUSE 4K",
+   "model": "FUSE 4K"
   }
  ],
  "FaceVsion": [
@@ -45073,6 +45080,11 @@
    "device": "dragon",
    "name": "Pixel C",
    "model": "Pixel C"
+  },
+  {
+   "device": "felix",
+   "name": "Pixel Fold",
+   "model": "Pixel Fold"
   },
   {
    "device": "nocturne_cheets",
@@ -169583,6 +169595,11 @@
    "device": "T50Air",
    "name": "T50Air_EEA",
    "model": "T50Air_EEA"
+  },
+  {
+   "device": "T50Pro_W_ROW",
+   "name": "T50Pro_W_ROW",
+   "model": "T50Pro_W_ROW"
   },
   {
    "device": "T50_2022_EEA",

@@ -18949,6 +18949,13 @@
    "model": "A4G"
   }
  ],
+ "AS57": [
+  {
+   "brand": "Aspera",
+   "name": "AS57",
+   "model": "AS57"
+  }
+ ],
  "AS6": [
   {
    "brand": "Aspera",
@@ -55116,18 +55123,6 @@
    "model": "FRC1-TDS"
   }
  ],
- "Canada": [
-  {
-   "brand": "EVOFORCE1",
-   "name": "\"US",
-   "model": "Mexico"
-  },
-  {
-   "brand": "Sansui",
-   "name": "\"USA",
-   "model": "Mexico\""
-  }
- ],
  "OCTA-T700M": [
   {
    "brand": "EWIS",
@@ -59480,6 +59475,13 @@
    "brand": "FUNKER",
    "name": "E500i",
    "model": "E500i"
+  }
+ ],
+ "SEI700TV": [
+  {
+   "brand": "FUSE4K",
+   "name": "FUSE 4K",
+   "model": "FUSE 4K"
   }
  ],
  "FLEET_7": [
@@ -68109,6 +68111,13 @@
    "brand": "Google",
    "name": "Pixel C",
    "model": "Pixel C"
+  }
+ ],
+ "felix": [
+  {
+   "brand": "Google",
+   "name": "Pixel Fold",
+   "model": "Pixel Fold"
   }
  ],
  "nocturne_cheets": [
@@ -191398,6 +191407,13 @@
    "model": "ETAB_I7043G_VP3"
   }
  ],
+ "Canada": [
+  {
+   "brand": "Sansui",
+   "name": "\"USA",
+   "model": "Mexico\""
+  }
+ ],
  "CEM1": [
   {
    "brand": "Sanyo",
@@ -216054,6 +216070,13 @@
    "brand": "Teclast",
    "name": "T50Air_EEA",
    "model": "T50Air_EEA"
+  }
+ ],
+ "T50Pro_W_ROW": [
+  {
+   "brand": "Teclast",
+   "name": "T50Pro_W_ROW",
+   "model": "T50Pro_W_ROW"
   }
  ],
  "T50_2022_EEA": [
