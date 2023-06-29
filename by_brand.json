@@ -9089,6 +9089,11 @@
    "model": "A4G"
   },
   {
+   "device": "AS5",
+   "name": "AS5",
+   "model": "AS5"
+  },
+  {
    "device": "AS57",
    "name": "AS57",
    "model": "AS57"
@@ -9102,6 +9107,11 @@
    "device": "AS7",
    "name": "AS7",
    "model": "AS7"
+  },
+  {
+   "device": "AS8",
+   "name": "AS8",
+   "model": "AS8"
   },
   {
    "device": "AS9",
@@ -25156,6 +25166,11 @@
    "device": "QTab8_LTE",
    "name": "QTab8_LTE",
    "model": "QTab8_LTE"
+  },
+  {
+   "device": "Qtab10",
+   "name": "Qtab 10.1 with keyboard",
+   "model": "Qtab 10.1 with keyboard"
   }
  ],
  "Concord": [
@@ -50766,6 +50781,11 @@
    "device": "jordan",
    "name": "Haier MatrixTV BS",
    "model": "Haier MatrixTV BS"
+  },
+  {
+   "device": "irvine",
+   "name": "Haier OLED TV AE",
+   "model": "Haier OLED TV AE"
   },
   {
    "device": "Titan_T5",
@@ -133462,6 +133482,11 @@
    "model": "SWTV-22AE"
   },
   {
+   "device": "anaheim",
+   "name": "SWTV-22AE-4K",
+   "model": "SWTV-22AE-4K"
+  },
+  {
    "device": "umeda",
    "name": "SWTV-22AE-FHD",
    "model": "SWTV-22AE-FHD"
@@ -173557,6 +173582,11 @@
    "model": "A54"
   },
   {
+   "device": "A55",
+   "name": "A55",
+   "model": "A55"
+  },
+  {
    "device": "A75",
    "name": "A75 Pro Max",
    "model": "Trident A75 Pro Max"
@@ -175602,6 +175632,16 @@
    "device": "C1_Max",
    "name": "C1 Max EEA",
    "model": "MP17"
+  },
+  {
+   "device": "C1_Plus",
+   "name": "C1 Plus",
+   "model": "MP29"
+  },
+  {
+   "device": "C1_Plus",
+   "name": "C1 Plus EEA",
+   "model": "MP29"
   },
   {
    "device": "F1",

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-06-28
+Last sync is 2023-06-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1751,9 +1751,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aspera|A45|A45|A45|
 |Aspera|A45|A45_1|A45|
 |Aspera|A4G|A4G|A4G|
+|Aspera|AS5|AS5|AS5|
 |Aspera|AS57|AS57|AS57|
 |Aspera|AS6|AS6|AS6|
 |Aspera|AS7|AS7|AS7|
+|Aspera|AS8|AS8|AS8|
 |Aspera|AS9|AS9|AS9|
 |Aspera|ASPERA R9|R9|ASPERA_R9|
 |Aspera|Aspera Swift|Aspera_Swift|Swift|
@@ -4856,6 +4858,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Compaq|QTab10.1_LTE|QTab10_LTE|QTab10_LTE|
 |Compaq|QTab8|QTab8|QTab8|
 |Compaq|QTab8_LTE|QTab8_LTE|QTab8_LTE|
+|Compaq|Qtab 10.1 with keyboard|Qtab10|Qtab 10.1 with keyboard|
 |Concord|A10|A10|A10|
 |Concord|C-708|C-708|C-708|
 |Concord|Concord M15|Concord_M15|Concord M15|
@@ -9794,6 +9797,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|Haier MatrixTV BE|jordan|Haier MatrixTV BE|
 |Haier|Haier MatrixTV BN|jordan|Haier MatrixTV BN|
 |Haier|Haier MatrixTV BS|jordan|Haier MatrixTV BS|
+|Haier|Haier OLED TV AE|irvine|Haier OLED TV AE|
 |Haier|Haier Titan T5|Titan_T5|Titan_T5|
 |Haier|HaierG61|HM-G701-FL|HM-G701-FL|
 |Haier|Haitech android TV|hanyang|Haitech Android TV|
@@ -25936,6 +25940,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SWTV|SWTV-21AE|sunnyvale|SWTV-21AE|
 |SWTV|SWTV-21SA|sunnyvale|SWTV-21SA|
 |SWTV|SWTV-22AE|SW6H|SWTV-22AE|
+|SWTV|SWTV-22AE-4K|anaheim|SWTV-22AE-4K|
 |SWTV|SWTV-22AE-FHD|umeda|SWTV-22AE-FHD|
 |SWTV|SWTV-22NA-FHD|umeda|SWTV-22NA-FHD|
 |SWTV|SWTV-22SA-FHD|umeda|SWTV-22SA-FHD|
@@ -33825,6 +33830,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Trident|A43|A43|A43|
 |Trident|A53 PRO|A53_PRO|A53 PRO|
 |Trident|A54|A54|A54|
+|Trident|A55|A55|A55|
 |Trident|A75 Pro Max|A75|Trident A75 Pro Max|
 |Trifone|Passion-1S|Passion-1S|Passion-1S|
 |Trifone|Passion-Plus|Passion-Plus|Passion-Plus|
@@ -34218,6 +34224,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|BISON_X10_TR|BISON_X10|RP01|
 |Umidigi|C1 Max|C1_Max|MP17|
 |Umidigi|C1 Max EEA|C1_Max|MP17|
+|Umidigi|C1 Plus|C1_Plus|MP29|
+|Umidigi|C1 Plus EEA|C1_Plus|MP29|
 |Umidigi|F1|F1|F1|
 |Umidigi|F1_EEA|F1|F1|
 |Umidigi|F2|F2|F2|

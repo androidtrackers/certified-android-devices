@@ -15430,6 +15430,13 @@
    "device": "A4G"
   }
  ],
+ "AS5": [
+  {
+   "brand": "Aspera",
+   "name": "AS5",
+   "device": "AS5"
+  }
+ ],
  "AS57": [
   {
    "brand": "Aspera",
@@ -15449,6 +15456,13 @@
    "brand": "Aspera",
    "name": "AS7",
    "device": "AS7"
+  }
+ ],
+ "AS8": [
+  {
+   "brand": "Aspera",
+   "name": "AS8",
+   "device": "AS8"
   }
  ],
  "AS9": [
@@ -25758,6 +25772,11 @@
   },
   {
    "brand": "Lava",
+   "name": "A55",
+   "device": "A55"
+  },
+  {
+   "brand": "Trident",
    "name": "A55",
    "device": "A55"
   },
@@ -37544,6 +37563,13 @@
    "brand": "Compaq",
    "name": "QTab8_LTE",
    "device": "QTab8_LTE"
+  }
+ ],
+ "Qtab 10.1 with keyboard": [
+  {
+   "brand": "Compaq",
+   "name": "Qtab 10.1 with keyboard",
+   "device": "Qtab10"
   }
  ],
  "C-708": [
@@ -72088,6 +72114,13 @@
    "brand": "Haier",
    "name": "Haier MatrixTV BS",
    "device": "jordan"
+  }
+ ],
+ "Haier OLED TV AE": [
+  {
+   "brand": "Haier",
+   "name": "Haier OLED TV AE",
+   "device": "irvine"
   }
  ],
  "Titan_T5": [
@@ -176863,6 +176896,13 @@
    "device": "SW6H"
   }
  ],
+ "SWTV-22AE-4K": [
+  {
+   "brand": "SWTV",
+   "name": "SWTV-22AE-4K",
+   "device": "anaheim"
+  }
+ ],
  "SWTV-22AE-FHD": [
   {
    "brand": "SWTV",
@@ -231608,6 +231648,18 @@
    "brand": "Umidigi",
    "name": "C1 Max EEA",
    "device": "C1_Max"
+  }
+ ],
+ "MP29": [
+  {
+   "brand": "Umidigi",
+   "name": "C1 Plus",
+   "device": "C1_Plus"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "C1 Plus EEA",
+   "device": "C1_Plus"
   }
  ],
  "MP09": [

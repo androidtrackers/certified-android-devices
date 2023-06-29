@@ -15423,6 +15423,11 @@
    "brand": "Haier",
    "name": "Haier MatrixTV AS",
    "model": "Haier MatrixTV AS"
+  },
+  {
+   "brand": "Haier",
+   "name": "Haier OLED TV AE",
+   "model": "Haier OLED TV AE"
   }
  ],
  "jordan": [
@@ -18949,6 +18954,13 @@
    "model": "A4G"
   }
  ],
+ "AS5": [
+  {
+   "brand": "Aspera",
+   "name": "AS5",
+   "model": "AS5"
+  }
+ ],
  "AS57": [
   {
    "brand": "Aspera",
@@ -18968,6 +18980,13 @@
    "brand": "Aspera",
    "name": "AS7",
    "model": "AS7"
+  }
+ ],
+ "AS8": [
+  {
+   "brand": "Aspera",
+   "name": "AS8",
+   "model": "AS8"
   }
  ],
  "AS9": [
@@ -29339,6 +29358,11 @@
   },
   {
    "brand": "Lava",
+   "name": "A55",
+   "model": "A55"
+  },
+  {
+   "brand": "Trident",
    "name": "A55",
    "model": "A55"
   }
@@ -40907,6 +40931,13 @@
    "brand": "Compaq",
    "name": "QTab8_LTE",
    "model": "QTab8_LTE"
+  }
+ ],
+ "Qtab10": [
+  {
+   "brand": "Compaq",
+   "name": "Qtab 10.1 with keyboard",
+   "model": "Qtab 10.1 with keyboard"
   }
  ],
  "C-708": [
@@ -173182,6 +173213,13 @@
    "model": "S66"
   }
  ],
+ "anaheim": [
+  {
+   "brand": "SWTV",
+   "name": "SWTV-22AE-4K",
+   "model": "SWTV-22AE-4K"
+  }
+ ],
  "SLTDVD1024_B": [
   {
    "brand": "SYLVANIA",
@@ -223033,6 +223071,18 @@
    "brand": "Umidigi",
    "name": "C1 Max EEA",
    "model": "MP17"
+  }
+ ],
+ "C1_Plus": [
+  {
+   "brand": "Umidigi",
+   "name": "C1 Plus",
+   "model": "MP29"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "C1 Plus EEA",
+   "model": "MP29"
   }
  ],
  "UMIDIGI_F3": [
