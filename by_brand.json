@@ -4237,6 +4237,11 @@
    "model": "JA3-SMP0602"
   },
   {
+   "device": "JA3-TBA1005",
+   "name": "JA3-TBA1005",
+   "model": "JA3-TBA1005"
+  },
+  {
    "device": "R3",
    "name": "R3",
    "model": "R3"
@@ -8997,6 +9002,36 @@
    "device": "ADAA",
    "name": "Ascom Myco 3",
    "model": "Ascom Myco 3 DECT Wi-Fi"
+  },
+  {
+   "device": "SH4-1",
+   "name": "Myco 4 Cellular Wi-Fi",
+   "model": "Myco 4 Cellular Wi-Fi"
+  },
+  {
+   "device": "SH4-1",
+   "name": "Myco 4 Cellular Wi-Fi EEA",
+   "model": "Myco 4 Cellular Wi-Fi EEA"
+  },
+  {
+   "device": "SH4-2",
+   "name": "Myco 4 Slim",
+   "model": "Myco 4 Slim"
+  },
+  {
+   "device": "SH4-2",
+   "name": "Myco 4 Slim EEA",
+   "model": "Myco 4 Slim EEA"
+  },
+  {
+   "device": "SH4-2",
+   "name": "Myco 4 Wi-Fi",
+   "model": "Myco 4 Wi-Fi"
+  },
+  {
+   "device": "SH4-2",
+   "name": "Myco 4 Wi-Fi EEA",
+   "model": "Myco 4 Wi-Fi EEA"
   }
  ],
  "Ascom Wireless Solutions": [
@@ -24558,6 +24593,13 @@
    "device": "Neo_Clempad_2021",
    "name": "Neo_Clempad_2021",
    "model": "Neo_Clempad_2021"
+  }
+ ],
+ "Clevertouch": [
+  {
+   "device": "rk3588_t",
+   "name": "\"Clevertouch 65\"\" Impact LUX\"",
+   "model": "Impact_Lux_Display"
   }
  ],
  "Click": [
@@ -73813,6 +73855,13 @@
    "model": "KTB-168"
   }
  ],
+ "KAT(AF)": [
+  {
+   "device": "SM1_Tablet",
+   "name": "SM1_Tablet",
+   "model": "SM1"
+  }
+ ],
  "KAZAM": [
   {
    "device": "KAZAM",
@@ -104786,6 +104835,11 @@
    "device": "foles",
    "name": "moto z4",
    "model": "moto z4"
+  },
+  {
+   "device": "BM2S1E",
+   "name": "motorola defy x",
+   "model": "motorola defy x"
   },
   {
    "device": "racer",
@@ -170817,6 +170871,11 @@
    "device": "TECNO-CK6n",
    "name": "TECNO CAMON 20",
    "model": "TECNO CK6n"
+  },
+  {
+   "device": "TECNO-CK6ns",
+   "name": "TECNO CAMON 20",
+   "model": "TECNO CK6ns"
   },
   {
    "device": "TECNO-CK6n",

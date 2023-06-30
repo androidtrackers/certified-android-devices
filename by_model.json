@@ -8425,6 +8425,13 @@
    "device": "JA3-SMP0602"
   }
  ],
+ "JA3-TBA1005": [
+  {
+   "brand": "Aiwa",
+   "name": "JA3-TBA1005",
+   "device": "JA3-TBA1005"
+  }
+ ],
  "TA-07-232": [
   {
    "brand": "Aiwa",
@@ -15298,6 +15305,48 @@
    "brand": "Ascom",
    "name": "Ascom Myco 3",
    "device": "ADAA"
+  }
+ ],
+ "Myco 4 Cellular Wi-Fi": [
+  {
+   "brand": "Ascom",
+   "name": "Myco 4 Cellular Wi-Fi",
+   "device": "SH4-1"
+  }
+ ],
+ "Myco 4 Cellular Wi-Fi EEA": [
+  {
+   "brand": "Ascom",
+   "name": "Myco 4 Cellular Wi-Fi EEA",
+   "device": "SH4-1"
+  }
+ ],
+ "Myco 4 Slim": [
+  {
+   "brand": "Ascom",
+   "name": "Myco 4 Slim",
+   "device": "SH4-2"
+  }
+ ],
+ "Myco 4 Slim EEA": [
+  {
+   "brand": "Ascom",
+   "name": "Myco 4 Slim EEA",
+   "device": "SH4-2"
+  }
+ ],
+ "Myco 4 Wi-Fi": [
+  {
+   "brand": "Ascom",
+   "name": "Myco 4 Wi-Fi",
+   "device": "SH4-2"
+  }
+ ],
+ "Myco 4 Wi-Fi EEA": [
+  {
+   "brand": "Ascom",
+   "name": "Myco 4 Wi-Fi EEA",
+   "device": "SH4-2"
   }
  ],
  "SH1": [
@@ -36758,6 +36807,13 @@
    "brand": "Clementoni",
    "name": "Neo_Clempad_2021",
    "device": "Neo_Clempad_2021"
+  }
+ ],
+ "Impact_Lux_Display": [
+  {
+   "brand": "Clevertouch",
+   "name": "\"Clevertouch 65\"\" Impact LUX\"",
+   "device": "rk3588_t"
   }
  ],
  "M9021G": [
@@ -101821,6 +101877,13 @@
    "device": "KTB-168"
   }
  ],
+ "SM1": [
+  {
+   "brand": "KAT(AF)",
+   "name": "SM1_Tablet",
+   "device": "SM1_Tablet"
+  }
+ ],
  "Trooper_X35": [
   {
    "brand": "KAZAM",
@@ -141427,6 +141490,13 @@
    "brand": "Motorola",
    "name": "motorola one zoom",
    "device": "parker"
+  }
+ ],
+ "motorola defy x": [
+  {
+   "brand": "Motorola",
+   "name": "motorola defy x",
+   "device": "BM2S1E"
   }
  ],
  "motorola edge (2021)": [
@@ -225994,6 +226064,13 @@
    "brand": "Tecno",
    "name": "TECNO CAMON 20 PRO",
    "device": "TECNO-CK6n"
+  }
+ ],
+ "TECNO CK6ns": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO CAMON 20",
+   "device": "TECNO-CK6ns"
   }
  ],
  "TECNO CK9n": [

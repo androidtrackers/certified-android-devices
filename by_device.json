@@ -602,6 +602,11 @@
    "model": "six_zero_XXAplus"
   },
   {
+   "brand": "Clevertouch",
+   "name": "\"Clevertouch 65\"\" Impact LUX\"",
+   "model": "Impact_Lux_Display"
+  },
+  {
    "brand": "Newline",
    "name": "Q23",
    "model": "Q23"
@@ -11053,6 +11058,13 @@
    "model": "JA3-SMP0602"
   }
  ],
+ "JA3-TBA1005": [
+  {
+   "brand": "Aiwa",
+   "name": "JA3-TBA1005",
+   "model": "JA3-TBA1005"
+  }
+ ],
  "TA-07-232": [
   {
    "brand": "Aiwa",
@@ -18836,6 +18848,40 @@
    "brand": "Ascom Wireless Solutions",
    "name": "Ascom Myco Cellular",
    "model": "SH1"
+  }
+ ],
+ "SH4-1": [
+  {
+   "brand": "Ascom",
+   "name": "Myco 4 Cellular Wi-Fi",
+   "model": "Myco 4 Cellular Wi-Fi"
+  },
+  {
+   "brand": "Ascom",
+   "name": "Myco 4 Cellular Wi-Fi EEA",
+   "model": "Myco 4 Cellular Wi-Fi EEA"
+  }
+ ],
+ "SH4-2": [
+  {
+   "brand": "Ascom",
+   "name": "Myco 4 Slim",
+   "model": "Myco 4 Slim"
+  },
+  {
+   "brand": "Ascom",
+   "name": "Myco 4 Slim EEA",
+   "model": "Myco 4 Slim EEA"
+  },
+  {
+   "brand": "Ascom",
+   "name": "Myco 4 Wi-Fi",
+   "model": "Myco 4 Wi-Fi"
+  },
+  {
+   "brand": "Ascom",
+   "name": "Myco 4 Wi-Fi EEA",
+   "model": "Myco 4 Wi-Fi EEA"
   }
  ],
  "ACBB": [
@@ -101604,6 +101650,13 @@
    "model": "KTB-168"
   }
  ],
+ "SM1_Tablet": [
+  {
+   "brand": "KAT(AF)",
+   "name": "SM1_Tablet",
+   "model": "SM1"
+  }
+ ],
  "KAZAM": [
   {
    "brand": "KAZAM",
@@ -139355,6 +139408,13 @@
    "brand": "Motorola",
    "name": "moto z4",
    "model": "moto z4"
+  }
+ ],
+ "BM2S1E": [
+  {
+   "brand": "Motorola",
+   "name": "motorola defy x",
+   "model": "motorola defy x"
   }
  ],
  "racer": [
@@ -217718,6 +217778,13 @@
    "brand": "Tecno",
    "name": "TECNO CAMON 20 PRO",
    "model": "TECNO CK6n"
+  }
+ ],
+ "TECNO-CK6ns": [
+  {
+   "brand": "Tecno",
+   "name": "TECNO CAMON 20",
+   "model": "TECNO CK6ns"
   }
  ],
  "TECNO-CK9n": [

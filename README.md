@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-06-29
+Last sync is 2023-06-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -805,6 +805,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aiwa|JA2-TBA1001|JA2-TBA1001|JA2-TBA1001|
 |Aiwa|JA2-TBA1002|JA2-TBA1002|JA2-TBA1002|
 |Aiwa|JA3-SMP0602|JA3-SMP0602|JA3-SMP0602|
+|Aiwa|JA3-TBA1005|JA3-TBA1005|JA3-TBA1005|
 |Aiwa|R3|R3|R3|
 |Aiwa|R4|R4|R4|
 |Aiwa|Smart TV|longshan|AI PONT|
@@ -1735,6 +1736,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ascom|Ascom Myco 3|ACAA|Ascom Myco 3 Cellular Wi-Fi|
 |Ascom|Ascom Myco 3|ACBA|Ascom Myco 3 Cellular Wi-Fi EU|
 |Ascom|Ascom Myco 3|ADAA|Ascom Myco 3 DECT Wi-Fi|
+|Ascom|Myco 4 Cellular Wi-Fi|SH4-1|Myco 4 Cellular Wi-Fi|
+|Ascom|Myco 4 Cellular Wi-Fi EEA|SH4-1|Myco 4 Cellular Wi-Fi EEA|
+|Ascom|Myco 4 Slim|SH4-2|Myco 4 Slim|
+|Ascom|Myco 4 Slim EEA|SH4-2|Myco 4 Slim EEA|
+|Ascom|Myco 4 Wi-Fi|SH4-2|Myco 4 Wi-Fi|
+|Ascom|Myco 4 Wi-Fi EEA|SH4-2|Myco 4 Wi-Fi EEA|
 |Ascom Wireless Solutions|Ascom Myco 2 Cellular|ACBB|SH1|
 |Ascom Wireless Solutions|Ascom Myco 2 WiFi|ABBB|SH1|
 |Ascom Wireless Solutions|Ascom Myco 2 WiFi|ACBA|SH1|
@@ -4744,6 +4751,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Clementoni|My first Clempad 4.4 Basic Special|MFC2_Special|MFC2_Special|
 |Clementoni|My first Clempad 4.4 Plus|MFC2_Plus|MFC2_Plus|
 |Clementoni|Neo_Clempad_2021|Neo_Clempad_2021|Neo_Clempad_2021|
+|Clevertouch|"Clevertouch 65"" Impact LUX"|rk3588_t|Impact_Lux_Display|
 |Click|M9021G|M9021G|M9021G|
 |Click|S7043G|S7043G|S7043G|
 |Click|"Tab 7"""|I7043G|I7043G|
@@ -14327,6 +14335,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KAGIS|Australia|yeongdeungpo|KAGIS Android TV|
 |KAKTIN|D08|D08|D08|
 |KANSELIR|KTB-168|KTB-168|KTB-168|
+|KAT(AF)|SM1_Tablet|SM1_Tablet|SM1|
 |KAZAM|TROOPER X3.5|KAZAM|Trooper_X35|
 |KAZAM|TROOPER X4.0|KAZAM|Trooper_X40|
 |KAZAM|TROOPER X5.5|KAZAM|Trooper_X55|
@@ -20390,6 +20399,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto z3 play|beckham|Moto Z3 Play|
 |Motorola|moto z4|foles|Moto Z3 Play|
 |Motorola|moto z4|foles|moto z4|
+|Motorola|motorola defy x|BM2S1E|motorola defy x|
 |Motorola|motorola edge|racer|motorola edge|
 |Motorola|motorola edge (2021)|berlna|motorola edge (2021)|
 |Motorola|motorola edge (2021)|berlna|motorola edge plus|
@@ -33307,6 +33317,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|TECNO CAMON 19 Neo|TECNO-CH6i|TECNO CH6i|
 |Tecno|TECNO CAMON 20|TECNO-CK6|TECNO CK6|
 |Tecno|TECNO CAMON 20|TECNO-CK6n|TECNO CK6n|
+|Tecno|TECNO CAMON 20|TECNO-CK6ns|TECNO CK6ns|
 |Tecno|TECNO CAMON 20 PRO|TECNO-CK6n|TECNO CK6n|
 |Tecno|TECNO CAMON 20 Premier 5G|TECNO-CK9n|TECNO CK9n|
 |Tecno|TECNO CAMON iACE 2|TECNO-KB2|TECNO KB2|
