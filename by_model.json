@@ -18124,6 +18124,13 @@
    "device": "ASUS_ZENBO"
   }
  ],
+ "ASUS_AI2302": [
+  {
+   "brand": "Asus",
+   "name": "Zenfone 10 (VanGogh)",
+   "device": "ASUS_AI2302"
+  }
+ ],
  "ASUS_I006D": [
   {
    "brand": "Asus",
@@ -195657,6 +195664,34 @@
    "brand": "Samsung",
    "name": "Galaxy Watch5 Pro",
    "device": "projectxul"
+  }
+ ],
+ "SM-R940": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch6",
+   "device": "fresh6bl"
+  }
+ ],
+ "SM-R930": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch6",
+   "device": "fresh6bs"
+  }
+ ],
+ "SM-R960": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch6 Classic",
+   "device": "wise6bl"
+  }
+ ],
+ "SM-R950": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Watch6 Classic",
+   "device": "wise6bs"
   }
  ],
  "SM-G600S": [
