@@ -11141,7 +11141,7 @@
   },
   {
    "device": "ASUS_AI2302",
-   "name": "Zenfone 10 (VanGogh)",
+   "name": "Zenfone 10 (AI2302)",
    "model": "ASUS_AI2302"
   },
   {
@@ -56938,6 +56938,11 @@
    "device": "HNRMO-Q",
    "name": "HONOR X9a 5G",
    "model": "RMO-NX1"
+  },
+  {
+   "device": "HNRBN-Q",
+   "name": "RBN-NX1",
+   "model": "RBN-NX1"
   }
  ],
  "Hoozo": [
@@ -139535,6 +139540,26 @@
    "model": "SM-M336BU"
   },
   {
+   "device": "m34x",
+   "name": "Galaxy M34 5G",
+   "model": "SM-E346B"
+  },
+  {
+   "device": "m34x",
+   "name": "Galaxy M34 5G",
+   "model": "SM-M346B"
+  },
+  {
+   "device": "m34x",
+   "name": "Galaxy M34 5G",
+   "model": "SM-M346B1"
+  },
+  {
+   "device": "m34x",
+   "name": "Galaxy M34 5G",
+   "model": "SM-M346B2"
+  },
+  {
    "device": "m40",
    "name": "Galaxy M40",
    "model": "SM-M405F"
@@ -147123,26 +147148,6 @@
    "device": "projectxul",
    "name": "Galaxy Watch5 Pro",
    "model": "SM-R925U"
-  },
-  {
-   "device": "fresh6bl",
-   "name": "Galaxy Watch6",
-   "model": "SM-R940"
-  },
-  {
-   "device": "fresh6bs",
-   "name": "Galaxy Watch6",
-   "model": "SM-R930"
-  },
-  {
-   "device": "wise6bl",
-   "name": "Galaxy Watch6 Classic",
-   "model": "SM-R960"
-  },
-  {
-   "device": "wise6bs",
-   "name": "Galaxy Watch6 Classic",
-   "model": "SM-R950"
   },
   {
    "device": "on7nlteskt",

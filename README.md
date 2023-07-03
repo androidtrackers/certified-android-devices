@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-07-02
+Last sync is 2023-07-03
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2158,7 +2158,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Asus|ZenWatch 3|swift|ASUS ZenWatch 3|
 |Asus|Zenbo|ASUS_ZENBO|Zenbo|
 |Asus|Zenbo Qrobot|ASUS_ZENBO|Zenbo|
-|Asus|Zenfone 10 (VanGogh)|ASUS_AI2302|ASUS_AI2302|
+|Asus|Zenfone 10 (AI2302)|ASUS_AI2302|ASUS_AI2302|
 |Asus|Zenfone 8 / ASUS 8Z|ASUS_I006D|ASUS_I006D|
 |Asus|Zenfone 8 / ASUS 8Z|ASUS_I006D|ZS590KS|
 |Asus|Zenfone 8 Flip|ASUS_I004D|ASUS_I004D|
@@ -11010,6 +11010,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR X9|HNANY-Q1|ANY-LX3|
 |Honor|HONOR X9 5G|HNANY-Q|ANY-NX1|
 |Honor|HONOR X9a 5G|HNRMO-Q|RMO-NX1|
+|Honor|RBN-NX1|HNRBN-Q|RBN-NX1|
 |Hoozo|HZ0010|HZ0010|HZ0010|
 |Hoozo|HZ0010J|HZ0010J|HZ0010J|
 |Hoozo|HZ0011|HZ0011|HZ0011|
@@ -27147,6 +27148,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M32 5G|a32x|SM-M326B|
 |Samsung|Galaxy M33 5G|m33x|SM-M336B|
 |Samsung|Galaxy M33 5G|m33x|SM-M336BU|
+|Samsung|Galaxy M34 5G|m34x|SM-E346B|
+|Samsung|Galaxy M34 5G|m34x|SM-M346B|
+|Samsung|Galaxy M34 5G|m34x|SM-M346B1|
+|Samsung|Galaxy M34 5G|m34x|SM-M346B2|
 |Samsung|Galaxy M40|m40|SM-M405F|
 |Samsung|Galaxy M42 5G|a42xq|SM-M426B|
 |Samsung|Galaxy M51|m51|SM-M515F|
@@ -28665,10 +28670,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Watch5 Pro|projectxul|SM-R925F|
 |Samsung|Galaxy Watch5 Pro|projectxul|SM-R925N|
 |Samsung|Galaxy Watch5 Pro|projectxul|SM-R925U|
-|Samsung|Galaxy Watch6|fresh6bl|SM-R940|
-|Samsung|Galaxy Watch6|fresh6bs|SM-R930|
-|Samsung|Galaxy Watch6 Classic|wise6bl|SM-R960|
-|Samsung|Galaxy Watch6 Classic|wise6bs|SM-R950|
 |Samsung|Galaxy Wide|on7nlteskt|SM-G600S|
 |Samsung|Galaxy Wide2|j7popelteskt|SM-J727S|
 |Samsung|Galaxy Wide3|j7toplteskt|SM-J737S|

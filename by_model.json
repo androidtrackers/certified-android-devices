@@ -18127,7 +18127,7 @@
  "ASUS_AI2302": [
   {
    "brand": "Asus",
-   "name": "Zenfone 10 (VanGogh)",
+   "name": "Zenfone 10 (AI2302)",
    "device": "ASUS_AI2302"
   }
  ],
@@ -79570,6 +79570,11 @@
   {
    "brand": "Honor",
    "name": "HONOR 70 Lite",
+   "device": "HNRBN-Q"
+  },
+  {
+   "brand": "Honor",
+   "name": "RBN-NX1",
    "device": "HNRBN-Q"
   }
  ],
@@ -185306,6 +185311,34 @@
    "device": "m33x"
   }
  ],
+ "SM-E346B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M34 5G",
+   "device": "m34x"
+  }
+ ],
+ "SM-M346B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M34 5G",
+   "device": "m34x"
+  }
+ ],
+ "SM-M346B1": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M34 5G",
+   "device": "m34x"
+  }
+ ],
+ "SM-M346B2": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M34 5G",
+   "device": "m34x"
+  }
+ ],
  "SM-M405F": [
   {
    "brand": "Samsung",
@@ -195664,34 +195697,6 @@
    "brand": "Samsung",
    "name": "Galaxy Watch5 Pro",
    "device": "projectxul"
-  }
- ],
- "SM-R940": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Watch6",
-   "device": "fresh6bl"
-  }
- ],
- "SM-R930": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Watch6",
-   "device": "fresh6bs"
-  }
- ],
- "SM-R960": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Watch6 Classic",
-   "device": "wise6bl"
-  }
- ],
- "SM-R950": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy Watch6 Classic",
-   "device": "wise6bs"
   }
  ],
  "SM-G600S": [

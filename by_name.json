@@ -23318,7 +23318,7 @@
    "model": "Zenbo"
   }
  ],
- "Zenfone 10 (VanGogh)": [
+ "Zenfone 10 (AI2302)": [
   {
    "brand": "Asus",
    "device": "ASUS_AI2302",
@@ -85761,6 +85761,13 @@
    "brand": "Honor",
    "device": "HNRMO-Q",
    "model": "RMO-NX1"
+  }
+ ],
+ "RBN-NX1": [
+  {
+   "brand": "Honor",
+   "device": "HNRBN-Q",
+   "model": "RBN-NX1"
   }
  ],
  "HZ0010": [
@@ -180266,6 +180273,28 @@
    "model": "SM-M336BU"
   }
  ],
+ "Galaxy M34 5G": [
+  {
+   "brand": "Samsung",
+   "device": "m34x",
+   "model": "SM-E346B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "m34x",
+   "model": "SM-M346B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "m34x",
+   "model": "SM-M346B1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "m34x",
+   "model": "SM-M346B2"
+  }
+ ],
  "Galaxy M40": [
   {
    "brand": "Samsung",
@@ -188466,30 +188495,6 @@
    "brand": "Samsung",
    "device": "projectxul",
    "model": "SM-R925U"
-  }
- ],
- "Galaxy Watch6": [
-  {
-   "brand": "Samsung",
-   "device": "fresh6bl",
-   "model": "SM-R940"
-  },
-  {
-   "brand": "Samsung",
-   "device": "fresh6bs",
-   "model": "SM-R930"
-  }
- ],
- "Galaxy Watch6 Classic": [
-  {
-   "brand": "Samsung",
-   "device": "wise6bl",
-   "model": "SM-R960"
-  },
-  {
-   "brand": "Samsung",
-   "device": "wise6bs",
-   "model": "SM-R950"
   }
  ],
  "Galaxy Wide": [
