@@ -15536,11 +15536,6 @@
  ],
  "BenQ": [
   {
-   "device": "redwood",
-   "name": "730",
-   "model": "AI PONT"
-  },
-  {
    "device": "A3",
    "name": "A3",
    "model": "A3"
@@ -15737,6 +15732,11 @@
   },
   {
    "device": "longshan",
+   "name": "Smart TV",
+   "model": "AI PONT"
+  },
+  {
+   "device": "redwood",
    "name": "Smart TV",
    "model": "AI PONT"
   },
@@ -28076,6 +28076,11 @@
    "device": "NOTE_30",
    "name": "NOTE 30",
    "model": "NOTE 30"
+  },
+  {
+   "device": "NOTE_50",
+   "name": "NOTE 50",
+   "model": "NOTE 50"
   },
   {
    "device": "NOTE_7",
@@ -46051,6 +46056,11 @@
    "model": "4K PA Google TV"
   },
   {
+   "device": "lakeside",
+   "name": "Google TV",
+   "model": "4K US Google TV"
+  },
+  {
    "device": "nagai",
    "name": "Google TV",
    "model": "2K SA Google TV"
@@ -56760,6 +56770,16 @@
    "model": "REA-NX9"
   },
   {
+   "device": "HNCRT-M2",
+   "name": "HONOR 90 Lite",
+   "model": "CRT-NX1"
+  },
+  {
+   "device": "HNCRT-M2",
+   "name": "HONOR 90 Lite",
+   "model": "CRT-NX3"
+  },
+  {
    "device": "HNFRI",
    "name": "HONOR Magic Vs",
    "model": "FRI-NX9"
@@ -56818,6 +56838,11 @@
    "device": "HNAGM",
    "name": "HONOR Pad X8 Lite",
    "model": "AGM-W09HN"
+  },
+  {
+   "device": "HNELN-Q",
+   "name": "HONOR Pad X9",
+   "model": "ELN-W09"
   },
   {
    "device": "HNVNA-M",

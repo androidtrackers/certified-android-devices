@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-07-03
+Last sync is 2023-07-04
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3008,7 +3008,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Beko|Beko UHD Android TV|kunyang|Beko Android UHD TV|
 |Bell Canada|Bell Streamer|sti6130d324|Bell Streamer|
 |Bell Canada|FibeTV|vip7802_bell|FibeTV|
-|BenQ|730|redwood|AI PONT|
 |BenQ|A3|A3|A3|
 |BenQ|A3c|BenQ_A3c|BenQ A3c|
 |BenQ|Agora 4G|Agora_4G|Agora 4G|
@@ -3049,6 +3048,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|QS01|S905Y2|QS01|
 |BenQ|QS02|YUL|QS02|
 |BenQ|Smart TV|longshan|AI PONT|
+|BenQ|Smart TV|redwood|AI PONT|
 |BenQ|T3|T3|BenQ T3|
 |BenQ|T3|T3_17A|BenQ T3|
 |BenQ|T3_08|T3_17A|BenQ T3|
@@ -5428,6 +5428,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|NOTE 20|NOTE_20|NOTE 20|
 |Cubot|NOTE 20 PRO|NOTE_20_PRO|NOTE 20 PRO|
 |Cubot|NOTE 30|NOTE_30|NOTE 30|
+|Cubot|NOTE 50|NOTE_50|NOTE 50|
 |Cubot|NOTE 7|NOTE_7|NOTE 7|
 |Cubot|NOTE 8|NOTE_8|NOTE 8|
 |Cubot|NOTE 9|NOTE_9|NOTE 9|
@@ -8857,6 +8858,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HKC Elec|4K Smart TV|pioneer|4K SA Smart TV|
 |HKC Elec|4K Smart TV|pioneer|HKC 4K SA Smart TV|
 |HKC Elec|Google TV|lakeside|4K PA Google TV|
+|HKC Elec|Google TV|lakeside|4K US Google TV|
 |HKC Elec|Google TV|nagai|2K SA Google TV|
 |HKC Elec|Smart Monitor|mateo|2K Smart Monitor|
 |HKC Elec|Smart TV|mateo|2K PA Smart TV|
@@ -10974,6 +10976,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR 70|HNFNE|FNE-NX9|
 |Honor|HONOR 70 Lite|HNRBN-Q|RBN-NX1|
 |Honor|HONOR 90|HNREA|REA-NX9|
+|Honor|HONOR 90 Lite|HNCRT-M2|CRT-NX1|
+|Honor|HONOR 90 Lite|HNCRT-M2|CRT-NX3|
 |Honor|HONOR Magic Vs|HNFRI|FRI-NX9|
 |Honor|HONOR Magic4 Lite|HNANY-Q1|ANY-LX1|
 |Honor|HONOR Magic4 Lite 5G|HNANY-Q|ANY-NX1|
@@ -10986,6 +10990,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR Pad X8|HNAGM3|AGM3-AL09HN|
 |Honor|HONOR Pad X8|HNAGM3|AGM3-W09HN|
 |Honor|HONOR Pad X8 Lite|HNAGM|AGM-W09HN|
+|Honor|HONOR Pad X9|HNELN-Q|ELN-W09|
 |Honor|HONOR X5|HNVNA-M|VNA-LX2|
 |Honor|HONOR X5|HNVNA-M|VNA-LX3|
 |Honor|HONOR X6|HNVNE-M|VNE-LX1|

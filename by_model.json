@@ -1363,11 +1363,6 @@
   },
   {
    "brand": "BenQ",
-   "name": "730",
-   "device": "redwood"
-  },
-  {
-   "brand": "BenQ",
    "name": "E40-520",
    "device": "ikebukuro"
   },
@@ -1380,6 +1375,11 @@
    "brand": "BenQ",
    "name": "Smart TV",
    "device": "longshan"
+  },
+  {
+   "brand": "BenQ",
+   "name": "Smart TV",
+   "device": "redwood"
   },
   {
    "brand": "Blaupunkt",
@@ -41655,6 +41655,13 @@
    "device": "NOTE_30"
   }
  ],
+ "NOTE 50": [
+  {
+   "brand": "Cubot",
+   "name": "NOTE 50",
+   "device": "NOTE_50"
+  }
+ ],
  "NOTE 7": [
   {
    "brand": "Cubot",
@@ -65941,6 +65948,13 @@
    "device": "lakeside"
   }
  ],
+ "4K US Google TV": [
+  {
+   "brand": "HKC Elec",
+   "name": "Google TV",
+   "device": "lakeside"
+  }
+ ],
  "2K SA Google TV": [
   {
    "brand": "HKC Elec",
@@ -79585,6 +79599,20 @@
    "device": "HNREA"
   }
  ],
+ "CRT-NX1": [
+  {
+   "brand": "Honor",
+   "name": "HONOR 90 Lite",
+   "device": "HNCRT-M2"
+  }
+ ],
+ "CRT-NX3": [
+  {
+   "brand": "Honor",
+   "name": "HONOR 90 Lite",
+   "device": "HNCRT-M2"
+  }
+ ],
  "FRI-NX9": [
   {
    "brand": "Honor",
@@ -79682,6 +79710,13 @@
    "brand": "Honor",
    "name": "HONOR Pad X8 Lite",
    "device": "HNAGM"
+  }
+ ],
+ "ELN-W09": [
+  {
+   "brand": "Honor",
+   "name": "HONOR Pad X9",
+   "device": "HNELN-Q"
   }
  ],
  "VNA-LX2": [

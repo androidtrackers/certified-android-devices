@@ -7055,6 +7055,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "BenQ",
+   "device": "redwood",
+   "model": "AI PONT"
+  },
+  {
    "brand": "Blaupunkt",
    "device": "longshan",
    "model": "AI PONT"
@@ -29688,13 +29693,6 @@
    "model": "FibeTV"
   }
  ],
- "730": [
-  {
-   "brand": "BenQ",
-   "device": "redwood",
-   "model": "AI PONT"
-  }
- ],
  "A3": [
   {
    "brand": "BenQ",
@@ -48039,6 +48037,13 @@
    "brand": "Infinix",
    "device": "Infinix-X6716B",
    "model": "Infinix X6716B"
+  }
+ ],
+ "NOTE 50": [
+  {
+   "brand": "Cubot",
+   "device": "NOTE_50",
+   "model": "NOTE 50"
   }
  ],
  "NOTE 7": [
@@ -72682,6 +72687,11 @@
   },
   {
    "brand": "HKC Elec",
+   "device": "lakeside",
+   "model": "4K US Google TV"
+  },
+  {
+   "brand": "HKC Elec",
    "device": "nagai",
    "model": "2K SA Google TV"
   }
@@ -85541,6 +85551,18 @@
    "model": "REA-NX9"
   }
  ],
+ "HONOR 90 Lite": [
+  {
+   "brand": "Honor",
+   "device": "HNCRT-M2",
+   "model": "CRT-NX1"
+  },
+  {
+   "brand": "Honor",
+   "device": "HNCRT-M2",
+   "model": "CRT-NX3"
+  }
+ ],
  "HONOR Magic Vs": [
   {
    "brand": "Honor",
@@ -85619,6 +85641,13 @@
    "brand": "Honor",
    "device": "HNAGM",
    "model": "AGM-W09HN"
+  }
+ ],
+ "HONOR Pad X9": [
+  {
+   "brand": "Honor",
+   "device": "HNELN-Q",
+   "model": "ELN-W09"
   }
  ],
  "HONOR X5": [

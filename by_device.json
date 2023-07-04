@@ -3188,7 +3188,7 @@
   },
   {
    "brand": "BenQ",
-   "name": "730",
+   "name": "Smart TV",
    "model": "AI PONT"
   },
   {
@@ -45324,6 +45324,13 @@
    "model": "NOTE 30"
   }
  ],
+ "NOTE_50": [
+  {
+   "brand": "Cubot",
+   "name": "NOTE 50",
+   "model": "NOTE 50"
+  }
+ ],
  "NOTE_7": [
   {
    "brand": "Cubot",
@@ -69190,6 +69197,11 @@
    "brand": "HKC Elec",
    "name": "Google TV",
    "model": "4K PA Google TV"
+  },
+  {
+   "brand": "HKC Elec",
+   "name": "Google TV",
+   "model": "4K US Google TV"
   }
  ],
  "nagai": [
@@ -81567,6 +81579,18 @@
    "model": "REA-NX9"
   }
  ],
+ "HNCRT-M2": [
+  {
+   "brand": "Honor",
+   "name": "HONOR 90 Lite",
+   "model": "CRT-NX1"
+  },
+  {
+   "brand": "Honor",
+   "name": "HONOR 90 Lite",
+   "model": "CRT-NX3"
+  }
+ ],
  "HNFRI": [
   {
    "brand": "Honor",
@@ -81668,6 +81692,13 @@
    "brand": "Honor",
    "name": "HONOR Pad X8 Lite",
    "model": "AGM-W09HN"
+  }
+ ],
+ "HNELN-Q": [
+  {
+   "brand": "Honor",
+   "name": "HONOR Pad X9",
+   "model": "ELN-W09"
   }
  ],
  "HNVNA-M": [
