@@ -19923,6 +19923,13 @@
    "model": "A80RG11"
   }
  ],
+ "SPAT101FHDW_EEA": [
+  {
+   "brand": "Archos",
+   "device": "at101fhdw",
+   "model": "ARCHOS T101 FHD WiFi"
+  }
+ ],
  "Smart Home Tablet": [
   {
    "brand": "Archos",
@@ -27266,6 +27273,18 @@
    "brand": "BMobile",
    "device": "Bmobile_BL65_TG",
    "model": "BL65_TG"
+  }
+ ],
+ "BL65Plus_TG07": [
+  {
+   "brand": "BMobile",
+   "device": "Bmobile_BL65Plus_TG07",
+   "model": "BL65Plus"
+  },
+  {
+   "brand": "BMobile",
+   "device": "Bmobile_BL65Plus_TG07",
+   "model": "BL65Plus_TG07"
   }
  ],
  "BL70": [
@@ -35077,6 +35096,13 @@
    "brand": "Blu",
    "device": "M0223_ND",
    "model": "M10L PLUS"
+  }
+ ],
+ "M10L Pro": [
+  {
+   "brand": "Blu",
+   "device": "M0214_ND",
+   "model": "M10L Pro"
   }
  ],
  "M6": [
@@ -48311,6 +48337,13 @@
    "brand": "Cubot",
    "device": "TAB_20",
    "model": "TAB 20"
+  }
+ ],
+ "TAB 40": [
+  {
+   "brand": "Cubot",
+   "device": "TAB_40",
+   "model": "TAB 40"
   }
  ],
  "TAB KINGKONG": [
@@ -62574,6 +62607,13 @@
    "model": "X Pro"
   }
  ],
+ "D106_EEA": [
+  {
+   "brand": "FEONAL",
+   "device": "D106_EEA",
+   "model": "D106_EEA"
+  }
+ ],
  "K104": [
   {
    "brand": "FEONAL",
@@ -71048,6 +71088,13 @@
    "brand": "GoClever",
    "device": "TQ700",
    "model": "TQ700"
+  }
+ ],
+ "GoPlus 4k": [
+  {
+   "brand": "GoPlus",
+   "device": "SEI700STL",
+   "model": "GoPlus 4k"
   }
  ],
  "T2": [
@@ -102857,6 +102904,13 @@
    "model": "itel L5007S"
   }
  ],
+ "itel V52LTE": [
+  {
+   "brand": "Itel",
+   "device": "itel-A507LV",
+   "model": "itel A507LV"
+  }
+ ],
  "itel VISION 5 Plus": [
   {
    "brand": "Itel",
@@ -108557,6 +108611,13 @@
    "brand": "Krono",
    "device": "NET_ONE",
    "model": "NET_ONE"
+  }
+ ],
+ "NET_R7": [
+  {
+   "brand": "Krono",
+   "device": "NET_R7",
+   "model": "NET_R7"
   }
  ],
  "NET_TITAN": [
@@ -130187,6 +130248,13 @@
    "model": "MAX_TAB_7"
   }
  ],
+ "MX-A4R": [
+  {
+   "brand": "Maxwest",
+   "device": "MX-A4R",
+   "model": "MX-A4R"
+  }
+ ],
  "Nitro 4N LTE": [
   {
    "brand": "Maxwest",
@@ -149161,6 +149229,18 @@
    "brand": "OnePlus",
    "device": "OP557AL1",
    "model": "CPH2401"
+  }
+ ],
+ "OnePlus Nord 3 5G": [
+  {
+   "brand": "OnePlus",
+   "device": "OP556FL1",
+   "model": "CPH2491"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OP556FL1",
+   "model": "CPH2493"
   }
  ],
  "OnePlus Nord CE 2": [
@@ -215318,6 +215398,13 @@
    "model": "TECNO Mobile LH7n"
   }
  ],
+ "POVA 5 Pro 5G": [
+  {
+   "brand": "Tecno",
+   "device": "TECNO-LH8n",
+   "model": "TECNO LH8n"
+  }
+ ],
  "POVA Neo": [
   {
    "brand": "Tecno",
@@ -228739,6 +228826,11 @@
   }
  ],
  "iQOO Neo7 竞速版": [
+  {
+   "brand": "Vivo",
+   "device": "",
+   "model": "V2232A"
+  },
   {
    "brand": "Vivo",
    "device": "PD2232",
@@ -249826,6 +249918,13 @@
    "brand": "iPlus",
    "device": "NU70",
    "model": "Nu70"
+  }
+ ],
+ "TABLET_PC": [
+  {
+   "brand": "i5 (dza)",
+   "device": "10080",
+   "model": "10080"
   }
  ],
  "Alpha_Plus": [

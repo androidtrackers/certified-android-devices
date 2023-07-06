@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-07-05
+Last sync is 2023-07-06
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1656,6 +1656,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Archos|Qilive7V2|ql70v2|Qilive 70v2|
 |Archos|Quechua Phone 5|A50RG11|Quechua Phone 5|
 |Archos|Quechua Tablet 8|A80RG11|A80RG11|
+|Archos|SPAT101FHDW_EEA|at101fhdw|ARCHOS T101 FHD WiFi|
 |Archos|Smart Home Tablet|hometablet|Archos Smart Home Tablet|
 |Archos|Smarthome La Poste|hometablet|Archos Smart Home Tablet|
 |Archos|TV Connect|LUDO|ARCHOS LUDOG10|
@@ -2702,6 +2703,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BMobile|BL63|Bmobile_BL63|BL63_TG07|
 |BMobile|BL65|Bmobile_BL65_OM|BL65_OM|
 |BMobile|BL65|Bmobile_BL65_TG|BL65_TG|
+|BMobile|BL65Plus_TG07|Bmobile_BL65Plus_TG07|BL65Plus|
+|BMobile|BL65Plus_TG07|Bmobile_BL65Plus_TG07|BL65Plus_TG07|
 |BMobile|BL70|Bmobile_BL70|BL70|
 |BMobile|Bella|Bella|Bella|
 |BMobile|Bmbile AX687|Bmobile_AX687|AX687|
@@ -3688,6 +3691,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|M10L|M0178_ND|M10L|
 |Blu|M10L|M0190WW|M10L|
 |Blu|M10L PLUS|M0223_ND|M10L PLUS|
+|Blu|M10L Pro|M0214_ND|M10L Pro|
 |Blu|M6|M0030TT|M6|
 |Blu|M6|M030P|M6|
 |Blu|M6 2021|M0080WW|M6 2021|
@@ -5458,6 +5462,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|Rainbow|RAINBOW|RAINBOW|
 |Cubot|TAB 10|TAB_10|TAB 10|
 |Cubot|TAB 20|TAB_20|TAB 20|
+|Cubot|TAB 40|TAB_40|TAB 40|
 |Cubot|TAB KINGKONG|TAB_KINGKONG|TAB KINGKONG|
 |Cubot|X19|X19|X19|
 |Cubot|X19_S|X19_S|X19 S|
@@ -7410,6 +7415,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FEITIAN|F100_EEA|F100|F100|
 |FELUX|LUXE 3|LUXE_3|LUXE 3|
 |FELUX|X_Pro|X_Pro|X Pro|
+|FEONAL|D106_EEA|D106_EEA|D106_EEA|
 |FEONAL|K104|K104|K104|
 |FEONAL|K118_EEA|K118_EEA|K118_EEA|
 |FEONAL|K711_EEA|K711_EEA|K711_EEA|
@@ -8613,6 +8619,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GoClever|QUANTUM_700S/QUANTUM 700S|QUANTUM_700S|QUANTUM_700S|
 |GoClever|Quantum 500 STEEL|FQ_500R|Quantum_500_STEEL|
 |GoClever|TQ700/QUANTUM 700/TAB|TQ700|TQ700|
+|GoPlus|GoPlus 4k|SEI700STL|GoPlus 4k|
 |Gobox|T2|T2|T2|
 |Gol Mobile|F10|F10|F10|
 |Gol Mobile|F10_PRIME|F10_PRIME|F10_PRIME|
@@ -14113,6 +14120,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel TV|shibuya|itel TV|
 |Itel|itel V41|itel-W4001S|itel W4001S|
 |Itel|itel V51 LTE|itel-L5007S|itel L5007S|
+|Itel|itel V52LTE|itel-A507LV|itel A507LV|
 |Itel|itel VISION 5 Plus|itel-S662LCN|itel S662LCN|
 |Itel|itel Vision 3|itel-S661L|itel S661L|
 |Itel|itel Vision 3|itel-S661LN|itel S661LN|
@@ -15007,6 +15015,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Krono|NET_MATRIX|NET_MATRIX|NET_MATRIX|
 |Krono|NET_MAX|NET_MAX|NET_MAX|
 |Krono|NET_ONE|NET_ONE|NET_ONE|
+|Krono|NET_R7|NET_R7|NET_R7|
 |Krono|NET_TITAN|NET_TITAN|NET_TITAN|
 |Krono|NET_VOLT|NET_VOLT|NET_VOLT|
 |Krono|Net_Max_Go|Net_Max_Go|Net_Max_Go|
@@ -18792,6 +18801,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maxwest|Gravity_7P|Gravity_7P|Gravity_7P|
 |Maxwest|MAXWEST|Black765857703671|AstroPhablet7s|
 |Maxwest|MAX_TAB_7|MAX_TAB_7|MAX_TAB_7|
+|Maxwest|MX-A4R|MX-A4R|MX-A4R|
 |Maxwest|Nitro 4N LTE|Nitro_4N_LTE|Nitro 4N LTE|
 |Maxwest|Nitro 4X|Nitro_4X|Nitro_4X|
 |Maxwest|Nitro 5 GO|Nitro_5_GO|Nitro 5 GO|
@@ -22007,6 +22017,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus Nord|Nord|AC2003|
 |OnePlus|OnePlus Nord 2T 5G|OP557AL1|CPH2399|
 |OnePlus|OnePlus Nord 2T 5G|OP557AL1|CPH2401|
+|OnePlus|OnePlus Nord 3 5G|OP556FL1|CPH2491|
+|OnePlus|OnePlus Nord 3 5G|OP556FL1|CPH2493|
 |OnePlus|OnePlus Nord CE 2|OP555BL1|IV2201|
 |OnePlus|OnePlus Nord CE 2 Lite 5G|OP535DL1|CPH2381|
 |OnePlus|OnePlus Nord CE 2 Lite 5G|OP535DL1|CPH2409|
@@ -33271,6 +33283,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|POVA|TECNO-LD7j|TECNO LD7j|
 |Tecno|POVA 4|TECNO-LG7n|TECNO LG7n|
 |Tecno|POVA 5|TECNO-LH7n|TECNO LH7n|
+|Tecno|POVA 5 Pro 5G|TECNO-LH8n|TECNO LH8n|
 |Tecno|POVA Neo|TECNO-LE6|TECNO LE6|
 |Tecno|POVA Neo 2|TECNO-LG6n|TECNO LG6n|
 |Tecno|Phantom 9|TECNO-AB7|TECNO AB7|
@@ -35475,6 +35488,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Neo7|I2214|I2214|
 |Vivo|iQOO Neo7|PD2231|V2231A|
 |Vivo|iQOO Neo7 SE|PD2238|V2238A|
+|Vivo|iQOO Neo7 竞速版||V2232A|
 |Vivo|iQOO Neo7 竞速版|PD2232|V2232A|
 |Vivo|iQOO Neo8|PD2301|V2301A|
 |Vivo|iQOO Neo8 Pro|PD2302|V2302A|
@@ -39172,6 +39186,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |i-Mobile|iM319|iM319|iM319|
 |i-PLUS|Nu65|Nu65|Nu65|
 |i-PLUS|Nu70|Nu70|Nu70|
+|i5 (dza)|TABLET_PC|10080|10080|
 |i5 (dza)|V10|V10|V10|
 |iBRIT|Alpha|AF51|AF51|
 |iBRIT|Alpha_Plus|Alpha_Plus|Alpha_Plus|
