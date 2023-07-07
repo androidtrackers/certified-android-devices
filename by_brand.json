@@ -14125,12 +14125,12 @@
    "model": "AI PONT"
   },
   {
-   "device": "samseong",
-   "name": "A4310",
+   "device": "longshan",
+   "name": "Android TV",
    "model": "AI PONT"
   },
   {
-   "device": "longshan",
+   "device": "samseong",
    "name": "Android TV",
    "model": "AI PONT"
   },
@@ -50939,6 +50939,11 @@
    "model": "Haier MatrixTV AS"
   },
   {
+   "device": "irvine",
+   "name": "Haier MatrixTV AS",
+   "model": "Haier OLED TV AS"
+  },
+  {
    "device": "jordan",
    "name": "Haier MatrixTV BE",
    "model": "Haier MatrixTV BE"
@@ -52070,6 +52075,11 @@
    "device": "A42",
    "name": "A42",
    "model": "A42"
+  },
+  {
+   "device": "A42_A47",
+   "name": "A47",
+   "model": "A42_A47"
   },
   {
    "device": "A51",
@@ -93687,6 +93697,11 @@
    "device": "Logikids_6",
    "name": "Logikids_6",
    "model": "Logikids_6"
+  },
+  {
+   "device": "Lunar_Pro",
+   "name": "Lunar Pro",
+   "model": "Lunar Pro"
   },
   {
    "device": "Mbot51",
@@ -189089,6 +189104,11 @@
    "device": "pipa",
    "name": "Xiaomi Pad 6",
    "model": "23043RP34C"
+  },
+  {
+   "device": "pipa",
+   "name": "Xiaomi Pad 6",
+   "model": "23043RP34G"
   },
   {
    "device": "pipa",

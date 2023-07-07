@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-07-06
+Last sync is 2023-07-07
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2735,8 +2735,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BOTECH|Android TV|R2|ATV R2|
 |BOTECH|WZONE|HND|WZONE|
 |BPL|A4300|ikebukuro|AI PONT|
-|BPL|A4310|samseong|AI PONT|
 |BPL|Android TV|longshan|AI PONT|
+|BPL|Android TV|samseong|AI PONT|
 |BPL|BPL FHD TV|takao|BPL FHD TV|
 |BPL|BPL UHD TV|OD0M_EA_T32|BPL UHD TV|
 |BQru|5060|BQru-5060|BQru-5060|
@@ -9827,6 +9827,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Haier|Haier MatrixTV AE|irvine|Haier MatrixTV AE|
 |Haier|Haier MatrixTV AEL|irvine|Haier MatrixTV AEL|
 |Haier|Haier MatrixTV AS|irvine|Haier MatrixTV AS|
+|Haier|Haier MatrixTV AS|irvine|Haier OLED TV AS|
 |Haier|Haier MatrixTV BE|jordan|Haier MatrixTV BE|
 |Haier|Haier MatrixTV BN|jordan|Haier MatrixTV BN|
 |Haier|Haier MatrixTV BS|jordan|Haier MatrixTV BS|
@@ -10042,6 +10043,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hiking|A28|A28|A28|
 |Hiking|A40|A40|A40|
 |Hiking|A42|A42|A42|
+|Hiking|A47|A42_A47|A42_A47|
 |Hiking|A51|A51|A51|
 |Hiking|A55|A55|A55|
 |Hiking|Fun5|Fun5|Fun5|
@@ -18233,6 +18235,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Logicom|Logikids 4|logikids4|logikids4|
 |Logicom|Logikids_10|Logikids_10|Logikids_10|
 |Logicom|Logikids_6|Logikids_6|Logikids_6|
+|Logicom|Lunar Pro|Lunar_Pro|Lunar Pro|
 |Logicom|M bot 51|Mbot51|M bot 51|
 |Logicom|M bot 54|M_bot_54|M bot 54|
 |Logicom|M bot 551|M_BOT_551|M BOT 551|
@@ -36835,6 +36838,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi Pad 5 Pro|elish|M2105K81AC|
 |Xiaomi|Xiaomi Pad 5 Pro 5G|enuma|M2105K81C|
 |Xiaomi|Xiaomi Pad 6|pipa|23043RP34C|
+|Xiaomi|Xiaomi Pad 6|pipa|23043RP34G|
 |Xiaomi|Xiaomi Pad 6|pipa|23043RP34I|
 |Xiaomi|Xiaomi TV Box S (2nd Gen)|jaws|MiTV-AFKR0|
 |Xiaomi|Xiaomi TV stick 4K|soul|MiTV-AYFR0|

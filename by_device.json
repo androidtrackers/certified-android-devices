@@ -2474,7 +2474,7 @@
   },
   {
    "brand": "BPL",
-   "name": "A4310",
+   "name": "Android TV",
    "model": "AI PONT"
   },
   {
@@ -15442,6 +15442,11 @@
    "brand": "Haier",
    "name": "Haier MatrixTV AS",
    "model": "Haier MatrixTV AS"
+  },
+  {
+   "brand": "Haier",
+   "name": "Haier MatrixTV AS",
+   "model": "Haier OLED TV AS"
   },
   {
    "brand": "Haier",
@@ -76362,6 +76367,13 @@
    "model": "A42"
   }
  ],
+ "A42_A47": [
+  {
+   "brand": "Hiking",
+   "name": "A47",
+   "model": "A42_A47"
+  }
+ ],
  "A51": [
   {
    "brand": "Hiking",
@@ -125683,6 +125695,13 @@
    "brand": "Logicom",
    "name": "Logikids_6",
    "model": "Logikids_6"
+  }
+ ],
+ "Lunar_Pro": [
+  {
+   "brand": "Logicom",
+   "name": "Lunar Pro",
+   "model": "Lunar Pro"
   }
  ],
  "Mbot51": [
@@ -238671,6 +238690,11 @@
    "brand": "Xiaomi",
    "name": "Xiaomi Pad 6",
    "model": "23043RP34C"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Pad 6",
+   "model": "23043RP34G"
   },
   {
    "brand": "Xiaomi",

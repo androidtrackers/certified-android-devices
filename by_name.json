@@ -10208,6 +10208,11 @@
    "model": "AI PONT"
   },
   {
+   "brand": "BPL",
+   "device": "samseong",
+   "model": "AI PONT"
+  },
+  {
    "brand": "Blaupunkt",
    "device": "redwood",
    "model": "AI PONT"
@@ -27535,13 +27540,6 @@
   {
    "brand": "BPL",
    "device": "ikebukuro",
-   "model": "AI PONT"
-  }
- ],
- "A4310": [
-  {
-   "brand": "BPL",
-   "device": "samseong",
    "model": "AI PONT"
   }
  ],
@@ -78430,6 +78428,11 @@
    "brand": "Haier",
    "device": "irvine",
    "model": "Haier MatrixTV AS"
+  },
+  {
+   "brand": "Haier",
+   "device": "irvine",
+   "model": "Haier OLED TV AS"
   }
  ],
  "Haier MatrixTV BE": [
@@ -79981,6 +79984,13 @@
    "brand": "Hiking",
    "device": "A42",
    "model": "A42"
+  }
+ ],
+ "A47": [
+  {
+   "brand": "Hiking",
+   "device": "A42_A47",
+   "model": "A42_A47"
   }
  ],
  "A51": [
@@ -126689,6 +126699,13 @@
    "brand": "Logicom",
    "device": "Logikids_6",
    "model": "Logikids_6"
+  }
+ ],
+ "Lunar Pro": [
+  {
+   "brand": "Logicom",
+   "device": "Lunar_Pro",
+   "model": "Lunar Pro"
   }
  ],
  "M bot 51": [
@@ -236941,6 +236958,11 @@
    "brand": "Xiaomi",
    "device": "pipa",
    "model": "23043RP34C"
+  },
+  {
+   "brand": "Xiaomi",
+   "device": "pipa",
+   "model": "23043RP34G"
   },
   {
    "brand": "Xiaomi",
