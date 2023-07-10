@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-07-09
+Last sync is 2023-07-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10041,6 +10041,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hiking|A26|A26|A26|
 |Hiking|A27|A27|A27|
 |Hiking|A28|A28|A28|
+|Hiking|A30|A30|A30|
 |Hiking|A40|A40|A40|
 |Hiking|A42|A42|A42|
 |Hiking|A47|A42_A47|A42_A47|
@@ -26763,6 +26764,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy F14 5G|m14x|SM-E146B|
 |Samsung|Galaxy F22|f22|SM-E225F|
 |Samsung|Galaxy F23 5G|m23xq|SM-E236B|
+|Samsung|Galaxy F34 5G|m34x|SM-E346B|
 |Samsung|Galaxy F41|f41|SM-F415F|
 |Samsung|Galaxy F42 5G|f42x|SM-E426B|
 |Samsung|Galaxy F52 5G|f52x|SM-E5260|
@@ -27190,7 +27192,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M32 5G|a32x|SM-M326B|
 |Samsung|Galaxy M33 5G|m33x|SM-M336B|
 |Samsung|Galaxy M33 5G|m33x|SM-M336BU|
-|Samsung|Galaxy M34 5G|m34x|SM-E346B|
 |Samsung|Galaxy M34 5G|m34x|SM-M346B|
 |Samsung|Galaxy M34 5G|m34x|SM-M346B1|
 |Samsung|Galaxy M34 5G|m34x|SM-M346B2|
@@ -34546,6 +34547,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VORCOM|S8Pro|S8Pro|S8Pro|
 |VORCOM|SXPRO_classic|SXPRO_classic|SXPRO_classic|
 |VORCOM|SXPro-P40|SXPro-P40|SXPro-P40|
+|VOXelectronics|VOXelectronics 2K Android TV|lasalle|VOXelectronics 2K Android TV|
+|VOXelectronics|VOXelectronics 4K Android TV|kenton|VOXelectronics 4K Android TV|
 |VSN|V.35|up11_h1_vsn|V.35|
 |VT|MB300|MB300|SmartTV|
 |VTCNOWRINDO|VR-42AF6800|ikebukuro|AI PONT|

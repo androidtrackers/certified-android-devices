@@ -26532,6 +26532,11 @@
    "device": "A30"
   },
   {
+   "brand": "Hiking",
+   "name": "A30",
+   "device": "A30"
+  },
+  {
    "brand": "IkuMobile",
    "name": "A30",
    "device": "A30"
@@ -182613,6 +182618,13 @@
    "device": "m23xq"
   }
  ],
+ "SM-E346B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy F34 5G",
+   "device": "m34x"
+  }
+ ],
  "SM-F415F": [
   {
    "brand": "Samsung",
@@ -185598,13 +185610,6 @@
    "brand": "Samsung",
    "name": "Galaxy M33 5G",
    "device": "m33x"
-  }
- ],
- "SM-E346B": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy M34 5G",
-   "device": "m34x"
   }
  ],
  "SM-M346B": [
@@ -233562,6 +233567,20 @@
    "brand": "VORCOM",
    "name": "SXPro-P40",
    "device": "SXPro-P40"
+  }
+ ],
+ "VOXelectronics 2K Android TV": [
+  {
+   "brand": "VOXelectronics",
+   "name": "VOXelectronics 2K Android TV",
+   "device": "lasalle"
+  }
+ ],
+ "VOXelectronics 4K Android TV": [
+  {
+   "brand": "VOXelectronics",
+   "name": "VOXelectronics 4K Android TV",
+   "device": "kenton"
   }
  ],
  "V.35": [

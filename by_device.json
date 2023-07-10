@@ -4738,6 +4738,11 @@
    "model": "Smart TV 2K-B"
   },
   {
+   "brand": "VOXelectronics",
+   "name": "VOXelectronics 2K Android TV",
+   "model": "VOXelectronics 2K Android TV"
+  },
+  {
    "brand": "carp(IN)",
    "name": "carp 2K Android TV",
    "model": "carp 2K Android TV"
@@ -4875,6 +4880,11 @@
    "brand": "SYLVOX",
    "name": "Smart TV 4K-B",
    "model": "Smart TV 4K-B"
+  },
+  {
+   "brand": "VOXelectronics",
+   "name": "VOXelectronics 4K Android TV",
+   "model": "VOXelectronics 4K Android TV"
   },
   {
    "brand": "ZENOS",
@@ -30087,6 +30097,11 @@
   },
   {
    "brand": "Blu",
+   "name": "A30",
+   "model": "A30"
+  },
+  {
+   "brand": "Hiking",
    "name": "A30",
    "model": "A30"
   },
@@ -178223,6 +178238,28 @@
    "model": "SM-E225F"
   }
  ],
+ "m34x": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy F34 5G",
+   "model": "SM-E346B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M34 5G",
+   "model": "SM-M346B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M34 5G",
+   "model": "SM-M346B1"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M34 5G",
+   "model": "SM-M346B2"
+  }
+ ],
  "f41": [
   {
    "brand": "Samsung",
@@ -180875,28 +180912,6 @@
    "brand": "Samsung",
    "name": "Galaxy M32",
    "model": "SM-M325FV"
-  }
- ],
- "m34x": [
-  {
-   "brand": "Samsung",
-   "name": "Galaxy M34 5G",
-   "model": "SM-E346B"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy M34 5G",
-   "model": "SM-M346B"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy M34 5G",
-   "model": "SM-M346B1"
-  },
-  {
-   "brand": "Samsung",
-   "name": "Galaxy M34 5G",
-   "model": "SM-M346B2"
   }
  ],
  "m40": [
