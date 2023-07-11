@@ -10204,6 +10204,11 @@
   },
   {
    "brand": "BPL",
+   "device": "ikebukuro",
+   "model": "AI PONT"
+  },
+  {
+   "brand": "BPL",
    "device": "longshan",
    "model": "AI PONT"
   },
@@ -16738,6 +16743,13 @@
    "brand": "Amgoo",
    "device": "AM518",
    "model": "AM518"
+  }
+ ],
+ "DFN-Amigo7x": [
+  {
+   "brand": "Amino",
+   "device": "Amigo7x3",
+   "model": "DFN-Amigo7x"
   }
  ],
  "Amigo": [
@@ -27534,13 +27546,6 @@
    "brand": "BOTECH",
    "device": "HND",
    "model": "WZONE"
-  }
- ],
- "A4300": [
-  {
-   "brand": "BPL",
-   "device": "ikebukuro",
-   "model": "AI PONT"
   }
  ],
  "BPL FHD TV": [
@@ -171588,6 +171593,13 @@
    "model": "STS570"
   }
  ],
+ "STS571": [
+  {
+   "brand": "SAIET",
+   "device": "STS571",
+   "model": "STS571"
+  }
+ ],
  "STS600": [
   {
    "brand": "SAIET",
@@ -195810,6 +195822,13 @@
    "brand": "Smailo",
    "device": "Smailo_2GO",
    "model": "Smailo_2GO"
+  }
+ ],
+ "AM60 series": [
+  {
+   "brand": "Smart",
+   "device": "komodo",
+   "model": "AM60 series"
   }
  ],
  "ATV device": [

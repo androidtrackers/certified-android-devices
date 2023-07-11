@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-07-10
+Last sync is 2023-07-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1194,6 +1194,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Amgoo|AM535|AM535|AM535|
 |Amgoo|AMGOO|AM518|AM518|
 |Amgoo|Amgoo|AM518|AM518|
+|Amino|DFN-Amigo7x|Amigo7x3|DFN-Amigo7x|
 |Aminocom|Amigo|Amigo|Amigo7|
 |Aminocom|Amigo7x|Amigo7x|Amigo7x|
 |Aminocom|Amigo7x3SBC|Amigo7x3SBC|Amino SBCTV|
@@ -2734,7 +2735,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BOTECH|Android TV|R1|ATV R1|
 |BOTECH|Android TV|R2|ATV R2|
 |BOTECH|WZONE|HND|WZONE|
-|BPL|A4300|ikebukuro|AI PONT|
+|BPL|Android TV|ikebukuro|AI PONT|
 |BPL|Android TV|longshan|AI PONT|
 |BPL|Android TV|samseong|AI PONT|
 |BPL|BPL FHD TV|takao|BPL FHD TV|
@@ -25587,6 +25588,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SAIET|STS502|STS502|STS502|
 |SAIET|STS550|STS550|STS550|
 |SAIET|STS570|STS570|STS570|
+|SAIET|STS571|STS571|STS571|
 |SAIET|STS600|STS600|STS600|
 |SAKAISIO|FP-U320-711-WIFI|U320-WF|FP-U320-711-WIFI|
 |SAKAISIO|FP-U320-711-WWAN|U320-3G|FP-U320-711-WWAN|
@@ -29845,6 +29847,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smadl|Safari_ 2plus|Safari_2plus|Safari_2plus|
 |Smadl|Safari_2|Safari_2|Safari 2|
 |Smailo|Smailo 2GO|Smailo_2GO|Smailo_2GO|
+|Smart|AM60 series|komodo|AM60 series|
 |Smart|ATV device|tcl_eu|ATV|
 |Smart|Advance Pro|Advance_Pro|Advance Pro|
 |Smart|B790|B790|B790|

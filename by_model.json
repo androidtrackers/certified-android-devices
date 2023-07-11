@@ -1330,7 +1330,7 @@
   },
   {
    "brand": "BPL",
-   "name": "A4300",
+   "name": "Android TV",
    "device": "ikebukuro"
   },
   {
@@ -11428,6 +11428,13 @@
    "brand": "Amgoo",
    "name": "Amgoo",
    "device": "AM518"
+  }
+ ],
+ "DFN-Amigo7x": [
+  {
+   "brand": "Amino",
+   "name": "DFN-Amigo7x",
+   "device": "Amigo7x3"
   }
  ],
  "Amigo7": [
@@ -174633,6 +174640,13 @@
    "device": "STS570"
   }
  ],
+ "STS571": [
+  {
+   "brand": "SAIET",
+   "name": "STS571",
+   "device": "STS571"
+  }
+ ],
  "STS600": [
   {
    "brand": "SAIET",
@@ -203320,6 +203334,13 @@
    "brand": "Smailo",
    "name": "Smailo 2GO",
    "device": "Smailo_2GO"
+  }
+ ],
+ "AM60 series": [
+  {
+   "brand": "Smart",
+   "name": "AM60 series",
+   "device": "komodo"
   }
  ],
  "Advance Pro": [

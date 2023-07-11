@@ -6236,6 +6236,13 @@
    "model": "AM518"
   }
  ],
+ "Amino": [
+  {
+   "device": "Amigo7x3",
+   "name": "DFN-Amigo7x",
+   "model": "DFN-Amigo7x"
+  }
+ ],
  "Aminocom": [
   {
    "device": "Amigo",
@@ -14121,7 +14128,7 @@
  "BPL": [
   {
    "device": "ikebukuro",
-   "name": "A4300",
+   "name": "Android TV",
    "model": "AI PONT"
   },
   {
@@ -131595,6 +131602,11 @@
    "model": "STS570"
   },
   {
+   "device": "STS571",
+   "name": "STS571",
+   "model": "STS571"
+  },
+  {
    "device": "STS600",
    "name": "STS600",
    "model": "STS600"
@@ -153152,6 +153164,11 @@
   }
  ],
  "Smart": [
+  {
+   "device": "komodo",
+   "name": "AM60 series",
+   "model": "AM60 series"
+  },
   {
    "device": "tcl_eu",
    "name": "ATV device",
