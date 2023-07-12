@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-07-11
+Last sync is 2023-07-12
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5501,6 +5501,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |D-Tech|DT10-TAB4G|DT10-TAB4G|DT10-TAB4G|
 |D-Tech|H70_G|H70_G|H70_G|
 |D-Tech|LM-01|LM_01|LM-01|
+|DABLIU|E13R|E13R_B75G|E13R|
 |DABLIU|E13R_B65G|rk3588_E13R|E13R|
 |DAIICHI|Vietnam|tamachi|Daiichi FHD Android TV|
 |DAIICHI|Vietnam|yeongdeungpo|Daiichi UHD Android TV|
@@ -5855,6 +5856,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Dany|Signature-S8|Signature-S8|Signature-S8|
 |Datalogic|Datalogic MEMOR 10|dl35|MEMOR 10|
 |Datalogic|Joya Touch 22|jta11|Joya Touch 22|
+|Datalogic|Joya Touch 22|jta11f|Joya Touch 22|
 |Datalogic|MEMOR 1|M1_AOSP|Memor 1|
 |Datalogic|MEMOR 1|M1_HANDHELD|Memor 1|
 |Datalogic|MEMOR 1|M1_PISTOL|Memor 1|
@@ -22098,6 +22100,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OpelMobile|Opel Mobile_Smart_J2|Smart_J2|Smart_J2|
 |OpelMobile|SMARTKIDS|SMARTKIDS|SMARTKIDS|
 |OpelMobile|Smart X6|SmartX6|Opel Mobile SmartX6|
+|OpelMobile|Smart65Q|OMS65Q23B|Smart65Q|
 |OpelMobile|SmartJX|SmartJX|OpelMobile_SmartJX|
 |OpelMobile|SmartX1|SmartX1|OpelMobile_SmartX1|
 |OpelMobile|SmartZ6|SmartZ6|SmartZ6|
@@ -29257,6 +29260,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS wish2|ANK|SHG08|
 |Sharp|AQUOS wish2|SH-51C|SH-51C|
 |Sharp|AQUOS wish2|SXI|A204SH|
+|Sharp|AQUOS wish3|SX3|A302SH|
+|Sharp|AQUOS wish3|SX3|SH-M25|
 |Sharp|AQUOS zero|SG801SH|801SH|
 |Sharp|AQUOS zero|SH-Z10|SH-Z10|
 |Sharp|AQUOS zero|SH-Z10A|SH-Z10A|
@@ -33571,6 +33576,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Telego|F10|F10|F10|
 |Telego|F8|F8|F8|
 |Teleguard|TF_GZ5100|TF_GZ5100|TF_GZ5100|
+|TelekomTV|SmartBox|SEI800DT-Telekom|SmartBox|
 |TelekomTV|TelekomTV-STB|DV8519B-Telekom|TelekomTV-STB|
 |Telelynx|TP-MDM107|TP-MDM107|TP-MDM107|
 |Telemor|T8408|Telemor_T8408|T8408|
@@ -35587,6 +35593,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|vivo 2019|1938|vivo 2019|
 |Vivo|vivo NEX A|PD1806|vivo NEX A|
 |Vivo|vivo NEX S|PD1805|vivo NEX S|
+|Vivo|vivo Pad Air|DPD2305|PA2353|
 |Vivo|vivo Pad2|DPD2221|PA2373|
 |Vivo|vivo S1|PD1831|V1831A|
 |Vivo|vivo S15 Pro|PD2207|V2207A|
@@ -38778,6 +38785,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zebra|TC20|TC20RT|TC20|
 |Zebra|TC20KB|TC20KB|TC20|
 |Zebra|TC21|TC21|TC21|
+|Zebra|TC22|TC22|TC22|
 |Zebra|TC25|TC25FM|TC25|
 |Zebra|TC26|TC26|TC26|
 |Zebra|TC51|TC51|TC51|

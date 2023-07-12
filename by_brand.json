@@ -28457,6 +28457,11 @@
  ],
  "DABLIU": [
   {
+   "device": "E13R_B75G",
+   "name": "E13R",
+   "model": "E13R"
+  },
+  {
    "device": "rk3588_E13R",
    "name": "E13R_B65G",
    "model": "E13R"
@@ -30291,6 +30296,11 @@
   },
   {
    "device": "jta11",
+   "name": "Joya Touch 22",
+   "model": "Joya Touch 22"
+  },
+  {
+   "device": "jta11f",
    "name": "Joya Touch 22",
    "model": "Joya Touch 22"
   },
@@ -113688,6 +113698,11 @@
    "model": "Opel Mobile SmartX6"
   },
   {
+   "device": "OMS65Q23B",
+   "name": "Smart65Q",
+   "model": "Smart65Q"
+  },
+  {
    "device": "SmartJX",
    "name": "SmartJX",
    "model": "OpelMobile_SmartJX"
@@ -150159,6 +150174,16 @@
    "model": "A204SH"
   },
   {
+   "device": "SX3",
+   "name": "AQUOS wish3",
+   "model": "A302SH"
+  },
+  {
+   "device": "SX3",
+   "name": "AQUOS wish3",
+   "model": "SH-M25"
+  },
+  {
    "device": "SG801SH",
    "name": "AQUOS zero",
    "model": "801SH"
@@ -172189,6 +172214,11 @@
  ],
  "TelekomTV": [
   {
+   "device": "SEI800DT-Telekom",
+   "name": "SmartBox",
+   "model": "SmartBox"
+  },
+  {
    "device": "DV8519B-Telekom",
    "name": "TelekomTV-STB",
    "model": "TelekomTV-STB"
@@ -182655,6 +182685,11 @@
    "device": "PD1805",
    "name": "vivo NEX S",
    "model": "vivo NEX S"
+  },
+  {
+   "device": "DPD2305",
+   "name": "vivo Pad Air",
+   "model": "PA2353"
   },
   {
    "device": "DPD2221",
@@ -198930,6 +198965,11 @@
    "device": "TC21",
    "name": "TC21",
    "model": "TC21"
+  },
+  {
+   "device": "TC22",
+   "name": "TC22",
+   "model": "TC22"
   },
   {
    "device": "TC25FM",

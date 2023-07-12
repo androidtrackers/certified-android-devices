@@ -42265,6 +42265,11 @@
  "E13R": [
   {
    "brand": "DABLIU",
+   "name": "E13R",
+   "device": "E13R_B75G"
+  },
+  {
+   "brand": "DABLIU",
    "name": "E13R_B65G",
    "device": "rk3588_E13R"
   }
@@ -44853,6 +44858,11 @@
    "brand": "Datalogic",
    "name": "Joya Touch 22",
    "device": "jta11"
+  },
+  {
+   "brand": "Datalogic",
+   "name": "Joya Touch 22",
+   "device": "jta11f"
   }
  ],
  "Memor 1": [
@@ -151994,6 +152004,13 @@
    "device": "SmartX6"
   }
  ],
+ "Smart65Q": [
+  {
+   "brand": "OpelMobile",
+   "name": "Smart65Q",
+   "device": "OMS65Q23B"
+  }
+ ],
  "OpelMobile_SmartJX": [
   {
    "brand": "OpelMobile",
@@ -199651,6 +199668,20 @@
    "device": "SXI"
   }
  ],
+ "A302SH": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS wish3",
+   "device": "SX3"
+  }
+ ],
+ "SH-M25": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS wish3",
+   "device": "SX3"
+  }
+ ],
  "801SH": [
   {
    "brand": "Sharp",
@@ -227732,6 +227763,13 @@
    "device": "TF_GZ5100"
   }
  ],
+ "SmartBox": [
+  {
+   "brand": "TelekomTV",
+   "name": "SmartBox",
+   "device": "SEI800DT-Telekom"
+  }
+ ],
  "TelekomTV-STB": [
   {
    "brand": "TelekomTV",
@@ -240311,6 +240349,13 @@
    "brand": "Vivo",
    "name": "vivo NEX S",
    "device": "PD1805"
+  }
+ ],
+ "PA2353": [
+  {
+   "brand": "Vivo",
+   "name": "vivo Pad Air",
+   "device": "DPD2305"
   }
  ],
  "PA2373": [
@@ -260742,6 +260787,13 @@
    "brand": "Zebra",
    "name": "TC21",
    "device": "TC21"
+  }
+ ],
+ "TC22": [
+  {
+   "brand": "Zebra",
+   "name": "TC22",
+   "device": "TC22"
   }
  ],
  "TC25": [
