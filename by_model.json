@@ -29276,6 +29276,11 @@
   {
    "brand": "Blu",
    "name": "M8L",
+   "device": "M0176"
+  },
+  {
+   "brand": "Blu",
+   "name": "M8L",
    "device": "M0176_EX"
   },
   {
@@ -155556,6 +155561,20 @@
    "device": "OP46B1"
   }
  ],
+ "CPH2525": [
+  {
+   "brand": "Oppo",
+   "name": "Reno10 Pro 5G",
+   "device": "OP56DBL1"
+  }
+ ],
+ "CPH2541": [
+  {
+   "brand": "Oppo",
+   "name": "Reno10 Pro 5G",
+   "device": "OP56DBL1"
+  }
+ ],
  "CPH1945": [
   {
    "brand": "Oppo",
@@ -203423,6 +203442,13 @@
    "device": "SK3401"
   }
  ],
+ "SMART Board MX Series (V5)": [
+  {
+   "brand": "Smart",
+   "name": "SMART Board MX Series (V5)",
+   "device": "groundhog"
+  }
+ ],
  "Slide Lite": [
   {
    "brand": "Smart",
@@ -211747,6 +211773,13 @@
    "brand": "TCL",
    "name": "HotelTV",
    "device": "HotelTV"
+  }
+ ],
+ "T608G": [
+  {
+   "brand": "TCL",
+   "name": "Jitterbug Smart4",
+   "device": "Sonata_BBH"
   }
  ],
  "movo_la": [
@@ -239763,6 +239796,13 @@
    "brand": "Vivo",
    "name": "iQOO Neo7",
    "device": "PD2231"
+  }
+ ],
+ "I2217": [
+  {
+   "brand": "Vivo",
+   "name": "iQOO Neo7 Pro",
+   "device": "I2217"
   }
  ],
  "V2238A": [

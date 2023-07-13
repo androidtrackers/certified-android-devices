@@ -19102,6 +19102,11 @@
    "model": "M8L"
   },
   {
+   "device": "M0176",
+   "name": "M8L",
+   "model": "M8L"
+  },
+  {
    "device": "M0176_EX",
    "name": "M8L",
    "model": "M8L"
@@ -116314,6 +116319,16 @@
    "model": "PCAT00"
   },
   {
+   "device": "OP56DBL1",
+   "name": "Reno10 Pro 5G",
+   "model": "CPH2525"
+  },
+  {
+   "device": "OP56DBL1",
+   "name": "Reno10 Pro 5G",
+   "model": "CPH2541"
+  },
+  {
    "device": "OP4B65L1",
    "name": "Reno2 Z",
    "model": "CPH1945"
@@ -153255,6 +153270,11 @@
    "model": "SK3401"
   },
   {
+   "device": "groundhog",
+   "name": "SMART Board MX Series (V5)",
+   "model": "SMART Board MX Series (V5)"
+  },
+  {
    "device": "Slide_Lite",
    "name": "Slide Lite",
    "model": "Slide Lite"
@@ -160061,6 +160081,11 @@
    "device": "HotelTV",
    "name": "HotelTV",
    "model": "WelcomeTV"
+  },
+  {
+   "device": "Sonata_BBH",
+   "name": "Jitterbug Smart4",
+   "model": "T608G"
   },
   {
    "device": "movo_la",
@@ -182230,6 +182255,11 @@
    "device": "PD2231",
    "name": "iQOO Neo7",
    "model": "V2231A"
+  },
+  {
+   "device": "I2217",
+   "name": "iQOO Neo7 Pro",
+   "model": "I2217"
   },
   {
    "device": "PD2238",

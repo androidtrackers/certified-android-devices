@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-07-12
+Last sync is 2023-07-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3708,6 +3708,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|M8L|M0174WW|M8L|
 |Blu|M8L|M0174WW_ND|M8L|
 |Blu|M8L|M0175WW_ND|M8L|
+|Blu|M8L|M0176|M8L|
 |Blu|M8L|M0176_EX|M8L|
 |Blu|M8L|M0176_ND|M8L|
 |Blu|M8L 2022|M0220WW|M8L 2022|
@@ -22622,6 +22623,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno Z 中国版|OP4699|PCDT10|
 |Oppo|Reno 标准版|OP46B1|PCAM00|
 |Oppo|Reno 标准版|OP46B1|PCAT00|
+|Oppo|Reno10 Pro 5G|OP56DBL1|CPH2525|
+|Oppo|Reno10 Pro 5G|OP56DBL1|CPH2541|
 |Oppo|Reno2 Z|OP4B65L1|CPH1945|
 |Oppo|Reno2 Z|OP4B65L1|CPH1951|
 |Oppo|Reno2 Z 中国版|OP4A43|PCKM80|
@@ -29865,6 +29868,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Smart|Max|Max|Max|
 |Smart|Notrino|Notrino|Notrino|
 |Smart|SK3401|SK3401|SK3401|
+|Smart|SMART Board MX Series (V5)|groundhog|SMART Board MX Series (V5)|
 |Smart|Slide Lite|Slide_Lite|Slide Lite|
 |Smart|Smart PRIME II|Smart_PRIME_II|Smart PRIME II|
 |Smart|Smart_Hero_II|Smart_Hero_II|Smart_Hero_II|
@@ -31187,6 +31191,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|G07_4K_GB_NF|G07|Smart TV|
 |TCL|GO5c|U3A_PLUS_4G|5033E|
 |TCL|HotelTV|HotelTV|WelcomeTV|
+|TCL|Jitterbug Smart4|Sonata_BBH|T608G|
 |TCL|L55E6700UDS|movo_la|movo_la|
 |TCL|LE50UHDE5692G|movo|movo|
 |TCL|LT10|U3A_10_WIFI|8182|
@@ -35502,6 +35507,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|iQOO Neo6 SE|PD2199|V2199A|
 |Vivo|iQOO Neo7|I2214|I2214|
 |Vivo|iQOO Neo7|PD2231|V2231A|
+|Vivo|iQOO Neo7 Pro|I2217|I2217|
 |Vivo|iQOO Neo7 SE|PD2238|V2238A|
 |Vivo|iQOO Neo7 竞速版||V2232A|
 |Vivo|iQOO Neo7 竞速版|PD2232|V2232A|
