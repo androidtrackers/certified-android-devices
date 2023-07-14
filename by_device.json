@@ -15044,6 +15044,13 @@
    "model": "X500_US"
   }
  ],
+ "X700_EEA": [
+  {
+   "brand": "Aocwei",
+   "name": "X700_EEA",
+   "model": "X700_EEA"
+  }
+ ],
  "X900_EEA": [
   {
    "brand": "Aocwei",
@@ -106398,6 +106405,13 @@
    "model": "E6910"
   }
  ],
+ "KY22M-RG100": [
+  {
+   "brand": "Kyocera",
+   "name": "DuraForce PRO 3",
+   "model": "E7200"
+  }
+ ],
  "E6810": [
   {
    "brand": "Kyocera",
@@ -193487,6 +193501,20 @@
    "model": "SH-52C"
   }
  ],
+ "Kamille": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS R8 pro",
+   "model": "A301SH"
+  }
+ ],
+ "SH-51D": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS R8 pro",
+   "model": "SH-51D"
+  }
+ ],
  "SHL25": [
   {
    "brand": "Sharp",
@@ -194352,6 +194380,13 @@
    "brand": "Sharp",
    "name": "EG1",
    "model": "AQUOS-TVX22A"
+  }
+ ],
+ "mongkok": [
+  {
+   "brand": "Sharp",
+   "name": "FK1",
+   "model": "AQUOS-TVX23C"
   }
  ],
  "SE3": [
@@ -206226,13 +206261,6 @@
    "model": "WelcomeTV"
   }
  ],
- "Sonata_BBH": [
-  {
-   "brand": "TCL",
-   "name": "Jitterbug Smart4",
-   "model": "T608G"
-  }
- ],
  "movo_la": [
   {
    "brand": "TCL",
@@ -207066,6 +207094,13 @@
    "model": "5048Y_TR"
   }
  ],
+ "Bora_NA_OM": [
+  {
+   "brand": "TCL",
+   "name": "TCL ION V",
+   "model": "T430M"
+  }
+ ],
  "Bora_TMO": [
   {
    "brand": "TCL",
@@ -207845,6 +207880,13 @@
    "brand": "TCL",
    "name": "TCL TAB 10L Gen 2",
    "model": "8492A"
+  }
+ ],
+ "Freyr_10_1_4G": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 10L LTE Gen 2",
+   "model": "8192A"
   }
  ],
  "Odin": [
@@ -224759,6 +224801,13 @@
   {
    "brand": "VASOUN",
    "name": "TAB12",
+   "model": "L10"
+  }
+ ],
+ "TAB12_EEA": [
+  {
+   "brand": "VASOUN",
+   "name": "TAB12_EEA",
    "model": "L10"
   }
  ],

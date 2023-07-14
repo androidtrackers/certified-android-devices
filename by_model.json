@@ -12164,6 +12164,13 @@
    "device": "X500_US"
   }
  ],
+ "X700_EEA": [
+  {
+   "brand": "Aocwei",
+   "name": "X700_EEA",
+   "device": "X700_EEA"
+  }
+ ],
  "X900_EEA": [
   {
    "brand": "Aocwei",
@@ -20233,6 +20240,11 @@
    "brand": "VASOUN",
    "name": "TAB12",
    "device": "TAB12"
+  },
+  {
+   "brand": "VASOUN",
+   "name": "TAB12_EEA",
+   "device": "TAB12_EEA"
   }
  ],
  "M10": [
@@ -107024,6 +107036,13 @@
    "brand": "Kyocera",
    "name": "DuraForce PRO 2 with Sapphire shield",
    "device": "E6910"
+  }
+ ],
+ "E7200": [
+  {
+   "brand": "Kyocera",
+   "name": "DuraForce PRO 3",
+   "device": "KY22M-RG100"
   }
  ],
  "E6810": [
@@ -199115,6 +199134,20 @@
    "device": "SH-52C"
   }
  ],
+ "A301SH": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS R8 pro",
+   "device": "Kamille"
+  }
+ ],
+ "SH-51D": [
+  {
+   "brand": "Sharp",
+   "name": "AQUOS R8 pro",
+   "device": "SH-51D"
+  }
+ ],
  "SHL25": [
   {
    "brand": "Sharp",
@@ -200047,6 +200080,13 @@
    "brand": "Sharp",
    "name": "Europe",
    "device": "martin"
+  }
+ ],
+ "AQUOS-TVX23C": [
+  {
+   "brand": "Sharp",
+   "name": "FK1",
+   "device": "mongkok"
   }
  ],
  "FS8014": [
@@ -211775,13 +211815,6 @@
    "device": "HotelTV"
   }
  ],
- "T608G": [
-  {
-   "brand": "TCL",
-   "name": "Jitterbug Smart4",
-   "device": "Sonata_BBH"
-  }
- ],
  "movo_la": [
   {
    "brand": "TCL",
@@ -212443,6 +212476,13 @@
    "device": "Venice"
   }
  ],
+ "T430M": [
+  {
+   "brand": "TCL",
+   "name": "TCL ION V",
+   "device": "Bora_NA_OM"
+  }
+ ],
  "T430W": [
   {
    "brand": "TCL",
@@ -212786,6 +212826,13 @@
    "brand": "TCL",
    "name": "TCL TAB 10L Gen 2",
    "device": "Freyr_10_1_WiFi"
+  }
+ ],
+ "8192A": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 10L LTE Gen 2",
+   "device": "Freyr_10_1_4G"
   }
  ],
  "9061": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-07-13
+Last sync is 2023-07-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -1290,6 +1290,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aocwei|X300_EEA|X300_EEA|X300_EEA|
 |Aocwei|X500_EEA|X500_EEA|X500_EEA|
 |Aocwei|X500_US|X500_US|X500_US|
+|Aocwei|X700_EEA|X700_EEA|X700_EEA|
 |Aocwei|X900_EEA|X900_EEA|X900_EEA|
 |Aocwei|X900_US|X900_US|X900_US|
 |Apex|MT-734G|MT-734G|MT-734G|
@@ -15145,6 +15146,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kyocera|DuraForce PRO|E6830|E6830|
 |Kyocera|DuraForce PRO|E6833|E6833|
 |Kyocera|DuraForce PRO 2 with Sapphire shield|E6910|E6910|
+|Kyocera|DuraForce PRO 3|KY22M-RG100|E7200|
 |Kyocera|DuraForce PRO with Sapphire Shield|E6810|E6810|
 |Kyocera|DuraForce PRO with Sapphire Shield|E6810_3GB|E6810|
 |Kyocera|DuraForce Pro 2|E6920|E6921|
@@ -29182,6 +29184,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS R6|SH-51B|SH-51B|
 |Sharp|AQUOS R7|Mineva|A202SH|
 |Sharp|AQUOS R7|SH-52C|SH-52C|
+|Sharp|AQUOS R8 pro|Kamille|A301SH|
+|Sharp|AQUOS R8 pro|SH-51D|SH-51D|
 |Sharp|AQUOS SERIE SHL25|SHL25|SHL25|
 |Sharp|AQUOS SERIE SHV32|SHV32|SHV32|
 |Sharp|AQUOS SERIE SHV34|SHV34|SHV34|
@@ -29322,6 +29326,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|EU|sindang|AQUOS_TVE19A|
 |Sharp|Europe|guandu|SHARP 4K EU Android TV|
 |Sharp|Europe|martin|SHARP 2K EU Android TV|
+|Sharp|FK1|mongkok|AQUOS-TVX23C|
 |Sharp|FS8014|SE3|FS8014|
 |Sharp|FV1|sandiego|AQUOS-TVT23A|
 |Sharp|FV1|sandiego|AQUOS-TVX23A|
@@ -31191,7 +31196,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|G07_4K_GB_NF|G07|Smart TV|
 |TCL|GO5c|U3A_PLUS_4G|5033E|
 |TCL|HotelTV|HotelTV|WelcomeTV|
-|TCL|Jitterbug Smart4|Sonata_BBH|T608G|
 |TCL|L55E6700UDS|movo_la|movo_la|
 |TCL|LE50UHDE5692G|movo|movo|
 |TCL|LT10|U3A_10_WIFI|8182|
@@ -31285,6 +31289,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL C5|Gauss|5153K|
 |TCL|TCL C7|A3A_PLUS|5158A|
 |TCL|TCL C9 Plus|Venice|5148I|
+|TCL|TCL ION V|Bora_NA_OM|T430M|
 |TCL|TCL ION X|Bora_TMO|T430W|
 |TCL|TCL L10|Faraday|5124J|
 |TCL|TCL L10 Lite|Jakarta_Lite|4187M|
@@ -31333,6 +31338,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 10L|Aquaman_10_Smart_WIFI|8491X_RU|
 |TCL|TCL TAB 10L|Aquaman_10_Smart_WIFI|8491X_TR|
 |TCL|TCL TAB 10L Gen 2|Freyr_10_1_WiFi|8492A|
+|TCL|TCL TAB 10L LTE Gen 2|Freyr_10_1_4G|8192A|
 |TCL|TCL TAB 10s|Aquaman_10_Pro|9061|
 |TCL|TCL TAB 10s|Odin|9081X|
 |TCL|TCL TAB 10s 4G|Odin|9080G|
@@ -34505,6 +34511,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |VASOUN|M7|M7|M7|
 |VASOUN|M7_EEA|M7_EEA|M7_EEA|
 |VASOUN|TAB12|TAB12|L10|
+|VASOUN|TAB12_EEA|TAB12_EEA|L10|
 |VBox|XTi|DTP9539|XTi|
 |VENSTAR|VENSTAR2050|VENSTAR2050|VENSTAR2050|
 |VFONE|Mix|Mix|Mix|

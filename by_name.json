@@ -17395,6 +17395,13 @@
    "model": "X500_US"
   }
  ],
+ "X700_EEA": [
+  {
+   "brand": "Aocwei",
+   "device": "X700_EEA",
+   "model": "X700_EEA"
+  }
+ ],
  "X900_EEA": [
   {
    "brand": "Aocwei",
@@ -109451,6 +109458,13 @@
    "model": "E6910"
   }
  ],
+ "DuraForce PRO 3": [
+  {
+   "brand": "Kyocera",
+   "device": "KY22M-RG100",
+   "model": "E7200"
+  }
+ ],
  "DuraForce PRO with Sapphire Shield": [
   {
    "brand": "Kyocera",
@@ -191645,6 +191659,18 @@
    "model": "SH-52C"
   }
  ],
+ "AQUOS R8 pro": [
+  {
+   "brand": "Sharp",
+   "device": "Kamille",
+   "model": "A301SH"
+  },
+  {
+   "brand": "Sharp",
+   "device": "SH-51D",
+   "model": "SH-51D"
+  }
+ ],
  "AQUOS SERIE SHL25": [
   {
    "brand": "Sharp",
@@ -192501,6 +192527,13 @@
    "brand": "Sharp",
    "device": "banqiao",
    "model": "AQUOS-TVE21A"
+  }
+ ],
+ "FK1": [
+  {
+   "brand": "Sharp",
+   "device": "mongkok",
+   "model": "AQUOS-TVX23C"
   }
  ],
  "FS8014": [
@@ -203685,13 +203718,6 @@
    "model": "WelcomeTV"
   }
  ],
- "Jitterbug Smart4": [
-  {
-   "brand": "TCL",
-   "device": "Sonata_BBH",
-   "model": "T608G"
-  }
- ],
  "L55E6700UDS": [
   {
    "brand": "TCL",
@@ -204255,6 +204281,13 @@
    "model": "5148I"
   }
  ],
+ "TCL ION V": [
+  {
+   "brand": "TCL",
+   "device": "Bora_NA_OM",
+   "model": "T430M"
+  }
+ ],
  "TCL ION X": [
   {
    "brand": "TCL",
@@ -204543,6 +204576,13 @@
    "brand": "TCL",
    "device": "Freyr_10_1_WiFi",
    "model": "8492A"
+  }
+ ],
+ "TCL TAB 10L LTE Gen 2": [
+  {
+   "brand": "TCL",
+   "device": "Freyr_10_1_4G",
+   "model": "8192A"
   }
  ],
  "TCL TAB 10s": [
@@ -222780,6 +222820,13 @@
   {
    "brand": "VASOUN",
    "device": "TAB12",
+   "model": "L10"
+  }
+ ],
+ "TAB12_EEA": [
+  {
+   "brand": "VASOUN",
+   "device": "TAB12_EEA",
    "model": "L10"
   }
  ],

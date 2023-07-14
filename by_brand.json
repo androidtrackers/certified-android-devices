@@ -6740,6 +6740,11 @@
    "model": "X500_US"
   },
   {
+   "device": "X700_EEA",
+   "name": "X700_EEA",
+   "model": "X700_EEA"
+  },
+  {
    "device": "X900_EEA",
    "name": "X900_EEA",
    "model": "X900_EEA"
@@ -78075,6 +78080,11 @@
    "device": "E6910",
    "name": "DuraForce PRO 2 with Sapphire shield",
    "model": "E6910"
+  },
+  {
+   "device": "KY22M-RG100",
+   "name": "DuraForce PRO 3",
+   "model": "E7200"
   },
   {
    "device": "E6810",
@@ -149784,6 +149794,16 @@
    "model": "SH-52C"
   },
   {
+   "device": "Kamille",
+   "name": "AQUOS R8 pro",
+   "model": "A301SH"
+  },
+  {
+   "device": "SH-51D",
+   "name": "AQUOS R8 pro",
+   "model": "SH-51D"
+  },
+  {
    "device": "SHL25",
    "name": "AQUOS SERIE SHL25",
    "model": "SHL25"
@@ -150482,6 +150502,11 @@
    "device": "martin",
    "name": "Europe",
    "model": "SHARP 2K EU Android TV"
+  },
+  {
+   "device": "mongkok",
+   "name": "FK1",
+   "model": "AQUOS-TVX23C"
   },
   {
    "device": "SE3",
@@ -160083,11 +160108,6 @@
    "model": "WelcomeTV"
   },
   {
-   "device": "Sonata_BBH",
-   "name": "Jitterbug Smart4",
-   "model": "T608G"
-  },
-  {
    "device": "movo_la",
    "name": "L55E6700UDS",
    "model": "movo_la"
@@ -160553,6 +160573,11 @@
    "model": "5148I"
   },
   {
+   "device": "Bora_NA_OM",
+   "name": "TCL ION V",
+   "model": "T430M"
+  },
+  {
    "device": "Bora_TMO",
    "name": "TCL ION X",
    "model": "T430W"
@@ -160791,6 +160816,11 @@
    "device": "Freyr_10_1_WiFi",
    "name": "TCL TAB 10L Gen 2",
    "model": "8492A"
+  },
+  {
+   "device": "Freyr_10_1_4G",
+   "name": "TCL TAB 10L LTE Gen 2",
+   "model": "8192A"
   },
   {
    "device": "Aquaman_10_Pro",
@@ -177110,6 +177140,11 @@
   {
    "device": "TAB12",
    "name": "TAB12",
+   "model": "L10"
+  },
+  {
+   "device": "TAB12_EEA",
+   "name": "TAB12_EEA",
    "model": "L10"
   }
  ],
