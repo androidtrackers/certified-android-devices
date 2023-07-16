@@ -147393,8 +147393,20 @@
  "Spacewar": [
   {
    "brand": "Nothing",
-   "name": "Nothing phone (1)",
+   "name": "Nothing Phone (1)",
    "model": "A063"
+  }
+ ],
+ "Pong": [
+  {
+   "brand": "Nothing",
+   "name": "Nothing Phone (2)",
+   "model": "A065"
+  },
+  {
+   "brand": "Nothing",
+   "name": "Nothing Phone (2)",
+   "model": "AIN065"
   }
  ],
  "NS5005": [
@@ -149256,21 +149268,6 @@
    "brand": "OnePlus",
    "name": "OnePlus 9 Pro 5G",
    "model": "LE2125"
-  },
-  {
-   "brand": "OnePlus",
-   "name": "OnePlus 9Pro 5G",
-   "model": "LE2120"
-  },
-  {
-   "brand": "OnePlus",
-   "name": "OnePlus 9Pro 5G",
-   "model": "LE2123"
-  },
-  {
-   "brand": "OnePlus",
-   "name": "OnePlus 9Pro 5G",
-   "model": "LE2125"
   }
  ],
  "OnePlus9ProTMO": [
@@ -149288,12 +149285,7 @@
   },
   {
    "brand": "OnePlus",
-   "name": "OnePlus9R",
-   "model": "LE2100"
-  },
-  {
-   "brand": "OnePlus",
-   "name": "OnePlus9R",
+   "name": "OnePlus 9R",
    "model": "LE2101"
   }
  ],

@@ -149479,8 +149479,22 @@
  "A063": [
   {
    "brand": "Nothing",
-   "name": "Nothing phone (1)",
+   "name": "Nothing Phone (1)",
    "device": "Spacewar"
+  }
+ ],
+ "A065": [
+  {
+   "brand": "Nothing",
+   "name": "Nothing Phone (2)",
+   "device": "Pong"
+  }
+ ],
+ "AIN065": [
+  {
+   "brand": "Nothing",
+   "name": "Nothing Phone (2)",
+   "device": "Pong"
   }
  ],
  "NS5005": [
@@ -151428,11 +151442,6 @@
    "brand": "OnePlus",
    "name": "OnePlus 9 Pro 5G",
    "device": "OnePlus9Pro"
-  },
-  {
-   "brand": "OnePlus",
-   "name": "OnePlus 9Pro 5G",
-   "device": "OnePlus9Pro"
   }
  ],
  "LE2121": [
@@ -151447,22 +151456,12 @@
    "brand": "OnePlus",
    "name": "OnePlus 9 Pro 5G",
    "device": "OnePlus9Pro"
-  },
-  {
-   "brand": "OnePlus",
-   "name": "OnePlus 9Pro 5G",
-   "device": "OnePlus9Pro"
   }
  ],
  "LE2125": [
   {
    "brand": "OnePlus",
    "name": "OnePlus 9 Pro 5G",
-   "device": "OnePlus9Pro"
-  },
-  {
-   "brand": "OnePlus",
-   "name": "OnePlus 9Pro 5G",
    "device": "OnePlus9Pro"
   }
  ],
@@ -151478,10 +151477,12 @@
    "brand": "OnePlus",
    "name": "OnePlus 9R",
    "device": "OnePlus9R"
-  },
+  }
+ ],
+ "LE2101": [
   {
    "brand": "OnePlus",
-   "name": "OnePlus9R",
+   "name": "OnePlus 9R",
    "device": "OnePlus9R"
   }
  ],
@@ -151767,13 +151768,6 @@
    "brand": "OnePlus",
    "name": "OnePlus6T",
    "device": "OnePlus6TSingle"
-  }
- ],
- "LE2101": [
-  {
-   "brand": "OnePlus",
-   "name": "OnePlus9R",
-   "device": "OnePlus9R"
   }
  ],
  "Oneplus_Dosa_IN": [

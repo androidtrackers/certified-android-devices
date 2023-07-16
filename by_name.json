@@ -147432,11 +147432,23 @@
    "model": "NT-S10"
   }
  ],
- "Nothing phone (1)": [
+ "Nothing Phone (1)": [
   {
    "brand": "Nothing",
    "device": "Spacewar",
    "model": "A063"
+  }
+ ],
+ "Nothing Phone (2)": [
+  {
+   "brand": "Nothing",
+   "device": "Pong",
+   "model": "A065"
+  },
+  {
+   "brand": "Nothing",
+   "device": "Pong",
+   "model": "AIN065"
   }
  ],
  "Fabulous": [
@@ -149215,28 +149227,16 @@
    "model": "LE2127"
   }
  ],
- "OnePlus 9Pro 5G": [
-  {
-   "brand": "OnePlus",
-   "device": "OnePlus9Pro",
-   "model": "LE2120"
-  },
-  {
-   "brand": "OnePlus",
-   "device": "OnePlus9Pro",
-   "model": "LE2123"
-  },
-  {
-   "brand": "OnePlus",
-   "device": "OnePlus9Pro",
-   "model": "LE2125"
-  }
- ],
  "OnePlus 9R": [
   {
    "brand": "OnePlus",
    "device": "OnePlus9R",
    "model": "LE2100"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "OnePlus9R",
+   "model": "LE2101"
   }
  ],
  "OnePlus 9RT 5G": [
@@ -149506,18 +149506,6 @@
    "brand": "OnePlus",
    "device": "OnePlus6TSingle",
    "model": "ONEPLUS A6013"
-  }
- ],
- "OnePlus9R": [
-  {
-   "brand": "OnePlus",
-   "device": "OnePlus9R",
-   "model": "LE2100"
-  },
-  {
-   "brand": "OnePlus",
-   "device": "OnePlus9R",
-   "model": "LE2101"
   }
  ],
  "Oneplus_Dosa_IN": [

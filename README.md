@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-07-15
+Last sync is 2023-07-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -21677,7 +21677,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |NoonEast|Smart TV|longshan|AI PONT|
 |NorthTech|NT-P70|NT-P70|NT-P70|
 |NorthTech|NT-S10|NT-S10|NT-S10|
-|Nothing|Nothing phone (1)|Spacewar|A063|
+|Nothing|Nothing Phone (1)|Spacewar|A063|
+|Nothing|Nothing Phone (2)|Pong|A065|
+|Nothing|Nothing Phone (2)|Pong|AIN065|
 |Nous|Fabulous|NS5005|NS5005|
 |Nous|NS5002|NS5002|NS5002|
 |Nous|NS5502|NS5502|NS5502|
@@ -22015,10 +22017,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus 9 Pro 5G|OnePlus9Pro|LE2123|
 |OnePlus|OnePlus 9 Pro 5G|OnePlus9Pro|LE2125|
 |OnePlus|OnePlus 9 Pro 5G|OnePlus9ProTMO|LE2127|
-|OnePlus|OnePlus 9Pro 5G|OnePlus9Pro|LE2120|
-|OnePlus|OnePlus 9Pro 5G|OnePlus9Pro|LE2123|
-|OnePlus|OnePlus 9Pro 5G|OnePlus9Pro|LE2125|
 |OnePlus|OnePlus 9R|OnePlus9R|LE2100|
+|OnePlus|OnePlus 9R|OnePlus9R|LE2101|
 |OnePlus|OnePlus 9RT 5G|OP5154L1|MT2110|
 |OnePlus|OnePlus 9RT 5G|OP5155L1|MT2111|
 |OnePlus|OnePlus Ace|OP5565|PGKM10|
@@ -22064,8 +22064,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |OnePlus|OnePlus6T|OnePlus6T|ONEPLUS A6010|
 |OnePlus|OnePlus6T|OnePlus6T|ONEPLUS A6013|
 |OnePlus|OnePlus6T|OnePlus6TSingle|ONEPLUS A6013|
-|OnePlus|OnePlus9R|OnePlus9R|LE2100|
-|OnePlus|OnePlus9R|OnePlus9R|LE2101|
 |OnePlus|Oneplus_Dosa_IN|Oneplus_Dosa_IN|Oneplus_Dosa_IN|
 |OnePlus|X|OnePlus|ONE E1003|
 |OnePlus|Y Series|shibuya|Y Series|
