@@ -3076,6 +3076,11 @@
    "model": "2K SMART TV"
   },
   {
+   "device": "zhongshan",
+   "name": "ACONATIC",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "takao",
    "name": "ACONATIC FHD TV",
    "model": "ACONATIC FHD TV"
@@ -75063,11 +75068,6 @@
  ],
  "KTCtv": [
   {
-   "device": "zhongshan",
-   "name": "ACONATIC",
-   "model": "4K SMART TV"
-  },
-  {
    "device": "stanford",
    "name": "AP",
    "model": "40D"
@@ -92358,6 +92358,11 @@
    "device": "X804F",
    "name": "小新平板",
    "model": "Lenovo TB-X804F"
+  },
+  {
+   "device": "TB570FU",
+   "name": "拯救者平板Y900",
+   "model": "TB570FU"
   },
   {
    "device": "moba",
@@ -111207,6 +111212,11 @@
    "device": "STO",
    "name": "Nokia G400 5G",
    "model": "Nokia G400 5G"
+  },
+  {
+   "device": "SDW",
+   "name": "Nokia G42 5G",
+   "model": "Nokia G42 5G"
   },
   {
    "device": "PHR",

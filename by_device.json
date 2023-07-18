@@ -1065,6 +1065,11 @@
    "model": "43F"
   },
   {
+   "brand": "Aconatic",
+   "name": "ACONATIC",
+   "model": "4K SMART TV"
+  },
+  {
    "brand": "Admiral Overseas Corporation",
    "name": "ADMIRAL",
    "model": "4K SMART TV"
@@ -1128,11 +1133,6 @@
    "brand": "K-ELEC",
    "name": "KELEC",
    "model": "43F"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "ACONATIC",
-   "model": "4K SMART TV"
   },
   {
    "brand": "KTCtv",
@@ -122064,6 +122064,11 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab Extreme",
    "model": "TB570FU"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "拯救者平板Y900",
+   "model": "TB570FU"
   }
  ],
  "X6C6F": [
@@ -147127,6 +147132,13 @@
    "brand": "Nokia",
    "name": "Nokia G400 5G",
    "model": "Nokia G400 5G"
+  }
+ ],
+ "SDW": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia G42 5G",
+   "model": "Nokia G42 5G"
   }
  ],
  "PHR": [

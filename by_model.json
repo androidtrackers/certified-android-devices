@@ -6452,144 +6452,12 @@
    "device": "stanford"
   }
  ],
- "ACONATIC FHD TV": [
-  {
-   "brand": "Aconatic",
-   "name": "ACONATIC FHD TV",
-   "device": "takao"
-  }
- ],
- "ACONATIC UHD TV": [
-  {
-   "brand": "Aconatic",
-   "name": "ACONATIC UHD TV",
-   "device": "OD0M_EA_T32"
-  }
- ],
- "Aconatic 2K Android TV": [
-  {
-   "brand": "Aconatic",
-   "name": "Aconatic",
-   "device": "komagome"
-  }
- ],
- "DV6068Y": [
-  {
-   "brand": "Aconatic",
-   "name": "DV6068Y",
-   "device": "DV6068Y"
-  }
- ],
- "DV8547": [
-  {
-   "brand": "Aconatic",
-   "name": "DV8547",
-   "device": "DV8547"
-  },
-  {
-   "brand": "Antel",
-   "name": "DV8547",
-   "device": "DV8547"
-  }
- ],
- "ALIGATOR RX510": [
-  {
-   "brand": "Adart",
-   "name": "ALIGATOR RX510",
-   "device": "RX510"
-  }
- ],
- "ALIGATOR S4080": [
-  {
-   "brand": "Adart",
-   "name": "ALIGATOR S4080 Duo",
-   "device": "ALIGATOR_S4080"
-  }
- ],
- "S4082 Duo": [
-  {
-   "brand": "Adart",
-   "name": "ALIGATOR S4082 Duo",
-   "device": "S4082Duo"
-  }
- ],
- "S5062 Duo": [
-  {
-   "brand": "Adart",
-   "name": "ALIGATOR S5062 Duo",
-   "device": "S5062Duo"
-  }
- ],
- "Aligator S5510": [
-  {
-   "brand": "Adart",
-   "name": "ALIGATOR S5510 Duo",
-   "device": "Aligator_S5510"
-  }
- ],
- "RX550": [
-  {
-   "brand": "Adart",
-   "name": "RX550",
-   "device": "ALIGATOR_RX550"
-  }
- ],
- "S4090": [
-  {
-   "brand": "Adart",
-   "name": "S4090",
-   "device": "S4090"
-  },
-  {
-   "brand": "Aligator",
-   "name": "S4090",
-   "device": "S4090"
-  }
- ],
- "ALIGATOR S5060": [
-  {
-   "brand": "Adart",
-   "name": "S5060 Duo",
-   "device": "ALIGATOR_S5060"
-  }
- ],
- "G3SMNTA22": [
-  {
-   "brand": "Admiral Overseas Corporation",
-   "name": "A2272PW4T",
-   "device": "AOC_WW"
-  }
- ],
- "G3SMNTA24": [
-  {
-   "brand": "Admiral Overseas Corporation",
-   "name": "A2272PW4T",
-   "device": "AOC_WW"
-  },
-  {
-   "brand": "Admiral Overseas Corporation",
-   "name": "A2472PW4T",
-   "device": "G3SMNTA24"
-  }
- ],
- "G2SMNT": [
-  {
-   "brand": "Admiral Overseas Corporation",
-   "name": "A2272PWHT",
-   "device": "AOC_WW"
-  },
-  {
-   "brand": "Alphascan",
-   "name": "SAT2242 WorkTab",
-   "device": "ADP_WW"
-  },
-  {
-   "brand": "Philips",
-   "name": "S221C3A",
-   "device": "MMD_WW"
-  }
- ],
  "4K SMART TV": [
+  {
+   "brand": "Aconatic",
+   "name": "ACONATIC",
+   "device": "zhongshan"
+  },
   {
    "brand": "Admiral Overseas Corporation",
    "name": "ADMIRAL",
@@ -6603,11 +6471,6 @@
   {
    "brand": "JVC",
    "name": "JVC",
-   "device": "zhongshan"
-  },
-  {
-   "brand": "KTCtv",
-   "name": "ACONATIC",
    "device": "zhongshan"
   },
   {
@@ -6784,6 +6647,143 @@
    "brand": "Xitrix",
    "name": "XITRIX",
    "device": "zhongshan"
+  }
+ ],
+ "ACONATIC FHD TV": [
+  {
+   "brand": "Aconatic",
+   "name": "ACONATIC FHD TV",
+   "device": "takao"
+  }
+ ],
+ "ACONATIC UHD TV": [
+  {
+   "brand": "Aconatic",
+   "name": "ACONATIC UHD TV",
+   "device": "OD0M_EA_T32"
+  }
+ ],
+ "Aconatic 2K Android TV": [
+  {
+   "brand": "Aconatic",
+   "name": "Aconatic",
+   "device": "komagome"
+  }
+ ],
+ "DV6068Y": [
+  {
+   "brand": "Aconatic",
+   "name": "DV6068Y",
+   "device": "DV6068Y"
+  }
+ ],
+ "DV8547": [
+  {
+   "brand": "Aconatic",
+   "name": "DV8547",
+   "device": "DV8547"
+  },
+  {
+   "brand": "Antel",
+   "name": "DV8547",
+   "device": "DV8547"
+  }
+ ],
+ "ALIGATOR RX510": [
+  {
+   "brand": "Adart",
+   "name": "ALIGATOR RX510",
+   "device": "RX510"
+  }
+ ],
+ "ALIGATOR S4080": [
+  {
+   "brand": "Adart",
+   "name": "ALIGATOR S4080 Duo",
+   "device": "ALIGATOR_S4080"
+  }
+ ],
+ "S4082 Duo": [
+  {
+   "brand": "Adart",
+   "name": "ALIGATOR S4082 Duo",
+   "device": "S4082Duo"
+  }
+ ],
+ "S5062 Duo": [
+  {
+   "brand": "Adart",
+   "name": "ALIGATOR S5062 Duo",
+   "device": "S5062Duo"
+  }
+ ],
+ "Aligator S5510": [
+  {
+   "brand": "Adart",
+   "name": "ALIGATOR S5510 Duo",
+   "device": "Aligator_S5510"
+  }
+ ],
+ "RX550": [
+  {
+   "brand": "Adart",
+   "name": "RX550",
+   "device": "ALIGATOR_RX550"
+  }
+ ],
+ "S4090": [
+  {
+   "brand": "Adart",
+   "name": "S4090",
+   "device": "S4090"
+  },
+  {
+   "brand": "Aligator",
+   "name": "S4090",
+   "device": "S4090"
+  }
+ ],
+ "ALIGATOR S5060": [
+  {
+   "brand": "Adart",
+   "name": "S5060 Duo",
+   "device": "ALIGATOR_S5060"
+  }
+ ],
+ "G3SMNTA22": [
+  {
+   "brand": "Admiral Overseas Corporation",
+   "name": "A2272PW4T",
+   "device": "AOC_WW"
+  }
+ ],
+ "G3SMNTA24": [
+  {
+   "brand": "Admiral Overseas Corporation",
+   "name": "A2272PW4T",
+   "device": "AOC_WW"
+  },
+  {
+   "brand": "Admiral Overseas Corporation",
+   "name": "A2472PW4T",
+   "device": "G3SMNTA24"
+  }
+ ],
+ "G2SMNT": [
+  {
+   "brand": "Admiral Overseas Corporation",
+   "name": "A2272PWHT",
+   "device": "AOC_WW"
+  },
+  {
+   "brand": "Alphascan",
+   "name": "SAT2242 WorkTab",
+   "device": "ADP_WW"
+  },
+  {
+   "brand": "Philips",
+   "name": "S221C3A",
+   "device": "MMD_WW"
   }
  ],
  "ADMIRAL 4K TV": [
@@ -123838,6 +123838,11 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab Extreme",
    "device": "TB570FU"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "拯救者平板Y900",
+   "device": "TB570FU"
   }
  ],
  "Lenovo TB-X6C6F": [
@@ -149203,6 +149208,13 @@
    "brand": "Nokia",
    "name": "Nokia G400 5G",
    "device": "STO"
+  }
+ ],
+ "Nokia G42 5G": [
+  {
+   "brand": "Nokia",
+   "name": "Nokia G42 5G",
+   "device": "SDW"
   }
  ],
  "Nokia G50": [

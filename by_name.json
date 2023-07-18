@@ -11946,7 +11946,7 @@
    "model": "2K SMART TV"
   },
   {
-   "brand": "KTCtv",
+   "brand": "Aconatic",
    "device": "zhongshan",
    "model": "4K SMART TV"
   }
@@ -125034,6 +125034,13 @@
    "model": "Lenovo TB-X804F"
   }
  ],
+ "拯救者平板Y900": [
+  {
+   "brand": "Lenovo",
+   "device": "TB570FU",
+   "model": "TB570FU"
+  }
+ ],
  "拯救者电竞手机": [
   {
    "brand": "Lenovo",
@@ -147182,6 +147189,13 @@
    "brand": "Nokia",
    "device": "STO",
    "model": "Nokia G400 5G"
+  }
+ ],
+ "Nokia G42 5G": [
+  {
+   "brand": "Nokia",
+   "device": "SDW",
+   "model": "Nokia G42 5G"
   }
  ],
  "Nokia G50": [

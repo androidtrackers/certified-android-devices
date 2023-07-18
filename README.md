@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-07-17
+Last sync is 2023-07-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -582,6 +582,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Aconatic|ACONATIC|bruno|ACONATIC 2K Android TV|
 |Aconatic|ACONATIC|shilin|ACONATIC 4K Android TV|
 |Aconatic|ACONATIC|stanford|2K SMART TV|
+|Aconatic|ACONATIC|zhongshan|4K SMART TV|
 |Aconatic|ACONATIC FHD TV|takao|ACONATIC FHD TV|
 |Aconatic|ACONATIC UHD TV|OD0M_EA_T32|ACONATIC UHD TV|
 |Aconatic|Aconatic|komagome|Aconatic 2K Android TV|
@@ -14563,7 +14564,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KT Tech|TAKE SUIT|e100|KM-E100|
 |KTC (PD)|BLISS503|BLISS503|BLISS503|
 |KTC (PD)|BLISS_8|BLISS_8|BLISS_8|
-|KTCtv|ACONATIC|zhongshan|4K SMART TV|
 |KTCtv|AP|stanford|40D|
 |KTCtv|AZATECH|stanford|SMART TV|
 |KTCtv|AZATECH|zhongshan|4K SMART TV|
@@ -17974,6 +17974,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lenovo|小新Pad Pro 2022|olivine|TB138FC|
 |Lenovo|小新平板|TB-8804F|Lenovo TB-8804F|
 |Lenovo|小新平板|X804F|Lenovo TB-X804F|
+|Lenovo|拯救者平板Y900|TB570FU|TB570FU|
 |Lenovo|拯救者电竞手机|moba|Lenovo L79031|
 |Lenovo|拯救者电竞手机2 Pro|doom|Lenovo L70081|
 |Lenovo|拯救者电竞手机2Pro|doom|Lenovo L70081|
@@ -21627,6 +21628,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Nokia|Nokia G300|AKT|N1374DL|
 |Nokia|Nokia G400 5G|STM|Nokia G400 5G|
 |Nokia|Nokia G400 5G|STO|Nokia G400 5G|
+|Nokia|Nokia G42 5G|SDW|Nokia G42 5G|
 |Nokia|Nokia G50|PHR|Nokia G50|
 |Nokia|Nokia G50|PHR_sprout|Nokia G50|
 |Nokia|Nokia G60 5G|APO_sprout|Nokia G60 5G|
