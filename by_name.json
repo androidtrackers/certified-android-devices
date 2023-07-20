@@ -80539,6 +80539,13 @@
    "model": "HLTE700T"
   }
  ],
+ "75MR6DE": [
+  {
+   "brand": "Hisense",
+   "device": "changjiang",
+   "model": "HIDB 4K"
+  }
+ ],
  "9980": [
   {
    "brand": "Hisense",
@@ -101708,6 +101715,13 @@
    "brand": "Iskon",
    "device": "wh220_iskon",
    "model": "Iskon.TV"
+  }
+ ],
+ "A05S": [
+  {
+   "brand": "Itel",
+   "device": "itel-A663L",
+   "model": "itel A663L"
   }
  ],
  "A13": [
@@ -237508,6 +237522,13 @@
    "model": "2209129SC"
   }
  ],
+ "Xiaomi pad 6": [
+  {
+   "brand": "Xiaomi",
+   "device": "pipa",
+   "model": "23043RP34G"
+  }
+ ],
  "Xiaomi pad 6 Pro": [
   {
    "brand": "Xiaomi",
@@ -252954,6 +252975,13 @@
    "model": "RMX3617"
   }
  ],
+ "realme 11": [
+  {
+   "brand": "realme",
+   "device": "RE5852",
+   "model": "RMX3751"
+  }
+ ],
  "realme 11 Pro 5G": [
   {
    "brand": "realme",
@@ -253515,6 +253543,13 @@
    "brand": "realme",
    "device": "RE588E",
    "model": "RMX3506"
+  }
+ ],
+ "realme narzo 60 5G": [
+  {
+   "brand": "realme",
+   "device": "RE58B1L1",
+   "model": "RMX3750"
   }
  ],
  "realme narzo N53": [

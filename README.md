@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-07-19
+Last sync is 2023-07-20
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -10168,6 +10168,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hisense|4K TV|songshan|SmartTV 4K FFM|
 |Hisense|55H6SG|Vision|Vision|
 |Hisense|700T|HSSDM660QC|HLTE700T|
+|Hisense|75MR6DE|changjiang|HIDB 4K|
 |Hisense|9980|taishan|SmartTV 8K FFM|
 |Hisense|A2|HS8937QC|Hisense A2|
 |Hisense|A2M|HS8953QC|Hisense A2M|
@@ -13926,6 +13927,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Iskon|Iskon.Play TV|HY44G|Iskon.Play TV|
 |Iskon|Iskon.TV|wh220_iskon|Iskon.TV|
 |Iskon|wh220_iskon|wh220_iskon|Iskon.TV|
+|Itel|A05S|itel-A663L|itel A663L|
 |Itel|A11|itel_A11|itel A11|
 |Itel|A12|itel_A12|itel A12|
 |Itel|A13|itel_A13|itel A13|
@@ -36920,6 +36922,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi TV stick 4K|soul|MiTV-AYFR0|
 |Xiaomi|Xiaomi civi 3|yuechu|23046PNC9C|
 |Xiaomi|Xiaomi civi2|ziyi|2209129SC|
+|Xiaomi|Xiaomi pad 6|pipa|23043RP34G|
 |Xiaomi|Xiaomi pad 6 Pro|liuqin|23046RP50C|
 |Xiaomi|小米手表|baiji|Mi Watch|
 |Xinlian|HC750|HC750|HC750|
@@ -39689,6 +39692,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 10 Pro+ 5G|RE58A5L1|RMX3686|
 |realme|realme 10 Pro+ 5G|RE58A6L1|RMX3686|
 |realme|realme 10s|RE5851|RMX3617|
+|realme|realme 11|RE5852|RMX3751|
 |realme|realme 11 Pro 5G|RE58B8L1|RMX3771|
 |realme|realme 11 Pro+ 5G|RE58B6L1|RMX3741|
 |realme|realme 4K G Smart TV|SW6H|realme 4K G Smart TV|
@@ -39798,6 +39802,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme narzo 50A Prime|RE54D8L1|RMX3517|
 |realme|realme narzo 50i|RED8FA|RMX3235|
 |realme|realme narzo 50i Prime|RE588E|RMX3506|
+|realme|realme narzo 60 5G|RE58B1L1|RMX3750|
 |realme|realme narzo N53|RE58C6|RMX3761|
 |realme|realme pad|RE54C1L1|RMP2102|
 |realme|realme pad|RE54C1L1|RMP2103|

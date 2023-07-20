@@ -52720,6 +52720,11 @@
    "model": "HLTE700T"
   },
   {
+   "device": "changjiang",
+   "name": "75MR6DE",
+   "model": "HIDB 4K"
+  },
+  {
    "device": "taishan",
    "name": "9980",
    "model": "SmartTV 8K FFM"
@@ -71743,6 +71748,11 @@
   }
  ],
  "Itel": [
+  {
+   "device": "itel-A663L",
+   "name": "A05S",
+   "model": "itel A663L"
+  },
   {
    "device": "itel_A11",
    "name": "A11",
@@ -189544,6 +189554,11 @@
    "model": "2209129SC"
   },
   {
+   "device": "pipa",
+   "name": "Xiaomi pad 6",
+   "model": "23043RP34G"
+  },
+  {
    "device": "liuqin",
    "name": "Xiaomi pad 6 Pro",
    "model": "23046RP50C"
@@ -203771,6 +203786,11 @@
    "model": "RMX3617"
   },
   {
+   "device": "RE5852",
+   "name": "realme 11",
+   "model": "RMX3751"
+  },
+  {
    "device": "RE58B8L1",
    "name": "realme 11 Pro 5G",
    "model": "RMX3771"
@@ -204314,6 +204334,11 @@
    "device": "RE588E",
    "name": "realme narzo 50i Prime",
    "model": "RMX3506"
+  },
+  {
+   "device": "RE58B1L1",
+   "name": "realme narzo 60 5G",
+   "model": "RMX3750"
   },
   {
    "device": "RE58C6",

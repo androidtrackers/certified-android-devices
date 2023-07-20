@@ -74607,6 +74607,13 @@
    "device": "HSSDM660QC"
   }
  ],
+ "HIDB 4K": [
+  {
+   "brand": "Hisense",
+   "name": "75MR6DE",
+   "device": "changjiang"
+  }
+ ],
  "SmartTV 8K FFM": [
   {
    "brand": "Hisense",
@@ -99306,6 +99313,13 @@
    "brand": "Iskon",
    "name": "wh220_iskon",
    "device": "wh220_iskon"
+  }
+ ],
+ "itel A663L": [
+  {
+   "brand": "Itel",
+   "name": "A05S",
+   "device": "itel-A663L"
   }
  ],
  "itel A11": [
@@ -248598,6 +248612,11 @@
    "brand": "Xiaomi",
    "name": "Xiaomi Pad 6",
    "device": "pipa"
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi pad 6",
+   "device": "pipa"
   }
  ],
  "23043RP34I": [
@@ -266181,6 +266200,13 @@
    "device": "RE5851"
   }
  ],
+ "RMX3751": [
+  {
+   "brand": "realme",
+   "name": "realme 11",
+   "device": "RE5852"
+  }
+ ],
  "RMX3741": [
   {
    "brand": "realme",
@@ -266737,6 +266763,13 @@
    "brand": "realme",
    "name": "realme narzo 50i Prime",
    "device": "RE588E"
+  }
+ ],
+ "RMX3750": [
+  {
+   "brand": "realme",
+   "name": "realme narzo 60 5G",
+   "device": "RE58B1L1"
   }
  ],
  "RMX3761": [
