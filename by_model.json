@@ -6417,6 +6417,11 @@
    "device": "stanford"
   },
   {
+   "brand": "Kiowa",
+   "name": "KIOWA",
+   "device": "stanford"
+  },
+  {
    "brand": "LUCOMS",
    "name": "LUCOMS",
    "device": "stanford"
@@ -6591,6 +6596,11 @@
   {
    "brand": "KTCtv",
    "name": "WISMANN",
+   "device": "zhongshan"
+  },
+  {
+   "brand": "Kiowa",
+   "name": "KIOWA",
    "device": "zhongshan"
   },
   {
@@ -8321,6 +8331,11 @@
   {
    "brand": "KTCtv",
    "name": "PROMETHEUS",
+   "device": "stanford"
+  },
+  {
+   "brand": "Motorola",
+   "name": "MOTOROLA",
    "device": "stanford"
   },
   {
@@ -80369,6 +80384,13 @@
    "device": "HPPAP16"
   }
  ],
+ "Pulla": [
+  {
+   "brand": "Hot Pepper",
+   "name": "Pulla",
+   "device": "Pulla"
+  }
+ ],
  "HPP-L55": [
   {
    "brand": "Hot Pepper",
@@ -100615,6 +100637,11 @@
   {
    "brand": "Itel",
    "name": "itel A60",
+   "device": "itel-A662L"
+  },
+  {
+   "brand": "Itel",
+   "name": "itel A60E",
    "device": "itel-A662L"
   }
  ],
@@ -131692,6 +131719,13 @@
    "brand": "Maze_speed",
    "name": "MS5539G",
    "device": "MS5539G"
+  }
+ ],
+ "MS5614G": [
+  {
+   "brand": "Maze_speed",
+   "name": "MS5614G",
+   "device": "MS5614G"
   }
  ],
  "SSB1000T": [

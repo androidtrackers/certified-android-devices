@@ -57360,6 +57360,11 @@
    "model": "HPPAP16"
   },
   {
+   "device": "Pulla",
+   "name": "Pulla",
+   "model": "Pulla"
+  },
+  {
    "device": "HPP-L55",
    "name": "Serrano",
    "model": "HPP-L55"
@@ -72699,6 +72704,11 @@
    "model": "itel A662L"
   },
   {
+   "device": "itel-A662L",
+   "name": "itel A60E",
+   "model": "itel A662L"
+  },
+  {
    "device": "itel-A662LM",
    "name": "itel A60s",
    "model": "itel A662LM"
@@ -76675,6 +76685,16 @@
    "device": "A5_CRISTAL",
    "name": "A5_CRISTAL",
    "model": "A5_CRISTAL"
+  },
+  {
+   "device": "stanford",
+   "name": "KIOWA",
+   "model": "2K SMART TV"
+  },
+  {
+   "device": "zhongshan",
+   "name": "KIOWA",
+   "model": "4K SMART TV"
   },
   {
    "device": "S5_CRISTAL",
@@ -97101,6 +97121,11 @@
    "model": "MS5539G"
   },
   {
+   "device": "MS5614G",
+   "name": "MS5614G",
+   "model": "MS5614G"
+  },
+  {
    "device": "SSB1000T",
    "name": "SSB1000T",
    "model": "SSB1000T"
@@ -103077,6 +103102,11 @@
    "device": "stanford",
    "name": "MOTOROLA",
    "model": "2K SMART TV"
+  },
+  {
+   "device": "stanford",
+   "name": "MOTOROLA",
+   "model": "SMART TV"
   },
   {
    "device": "stanford",

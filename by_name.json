@@ -86301,6 +86301,13 @@
    "model": "HPPAP16"
   }
  ],
+ "Pulla": [
+  {
+   "brand": "Hot Pepper",
+   "device": "Pulla",
+   "model": "Pulla"
+  }
+ ],
  "Serrano": [
   {
    "brand": "Hot Pepper",
@@ -102883,6 +102890,13 @@
    "model": "itel A662L"
   }
  ],
+ "itel A60E": [
+  {
+   "brand": "Itel",
+   "device": "itel-A662L",
+   "model": "itel A662L"
+  }
+ ],
  "itel A60s": [
   {
    "brand": "Itel",
@@ -107640,6 +107654,18 @@
    "brand": "Kiowa",
    "device": "A5_CRISTAL",
    "model": "A5_CRISTAL"
+  }
+ ],
+ "KIOWA": [
+  {
+   "brand": "Kiowa",
+   "device": "stanford",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "Kiowa",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
   }
  ],
  "S5_CRISTAL": [
@@ -130766,6 +130792,13 @@
    "model": "MS5539G"
   }
  ],
+ "MS5614G": [
+  {
+   "brand": "Maze_speed",
+   "device": "MS5614G",
+   "model": "MS5614G"
+  }
+ ],
  "SSB1000T": [
   {
    "brand": "Maze_speed",
@@ -137524,6 +137557,11 @@
    "brand": "Motorola",
    "device": "stanford",
    "model": "2K SMART TV"
+  },
+  {
+   "brand": "Motorola",
+   "device": "stanford",
+   "model": "SMART TV"
   },
   {
    "brand": "Motorola",

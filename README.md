@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-07-20
+Last sync is 2023-07-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11090,6 +11090,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hot Pepper|Ghost|HPP-GS1|HPP-GS1|
 |Hot Pepper|H5|H5|H5|
 |Hot Pepper|HPPAP16|HPPAP16|HPPAP16|
+|Hot Pepper|Pulla|Pulla|Pulla|
 |Hot Pepper|Serrano|HPP-L55|HPP-L55|
 |Hot Pepper|Serrano|HPP-L55B|HPP-L55B|
 |Hot Pepper|VLE5|VLE5|VLE5|
@@ -14117,6 +14118,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Itel|itel A58 Lite|itel-A631W-R2|itel A631W|
 |Itel|itel A58 lite|itel-A631W|itel A631W|
 |Itel|itel A60|itel-A662L|itel A662L|
+|Itel|itel A60E|itel-A662L|itel A662L|
 |Itel|itel A60s|itel-A662LM|itel A662LM|
 |Itel|itel AC12|itel-A14|itel A14|
 |Itel|itel AC13|itel-W4001P|itel W4001P|
@@ -14871,6 +14873,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kioto|MID1028|MID1028|MID1028|
 |Kioto|MID1036|MID1036|MID1036|
 |Kiowa|A5_CRISTAL|A5_CRISTAL|A5_CRISTAL|
+|Kiowa|KIOWA|stanford|2K SMART TV|
+|Kiowa|KIOWA|zhongshan|4K SMART TV|
 |Kiowa|S5_CRISTAL|S5_CRISTAL|S5_CRISTAL|
 |Kiowa|X4 Plus|X4_Plus|X4_Plus|
 |Kiowa|X4_CRISTAL|X4_CRISTAL|X4_CRISTAL|
@@ -18875,6 +18879,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maze_speed|MS5524G|MS5524G|MS5524G|
 |Maze_speed|MS5528G|MS5528G|MS5528G|
 |Maze_speed|MS5539G|MS5539G|MS5539G|
+|Maze_speed|MS5614G|MS5614G|MS5614G|
 |Maze_speed|SSB1000T|SSB1000T|SSB1000T|
 |Maze_speed|SSB1001T|SSB1001T|SSB1001T|
 |Maze_speed|SSB10T323|SSB10T323|SSB10T323|
@@ -20043,6 +20048,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|Lenovo XT2081-4|guam|Lenovo XT2081-4|
 |Motorola|Lenovo XT2091-7|cebu|Lenovo XT2091-7|
 |Motorola|MOTOROLA|stanford|2K SMART TV|
+|Motorola|MOTOROLA|stanford|SMART TV|
 |Motorola|MOTOROLA|stanford|Smart FHD TV|
 |Motorola|MOTOROLA|zhongshan|4K SMART TV|
 |Motorola|MOTOROLA|zhongshan|Smart UHD TV|

@@ -1340,6 +1340,11 @@
    "model": "43FSA"
   },
   {
+   "brand": "Kiowa",
+   "name": "KIOWA",
+   "model": "4K SMART TV"
+  },
+  {
    "brand": "Kivi",
    "name": "KIVI",
    "model": "4K T31 Smart TV"
@@ -1737,6 +1742,11 @@
    "model": "40D"
   },
   {
+   "brand": "Kiowa",
+   "name": "KIOWA",
+   "model": "2K SMART TV"
+  },
+  {
    "brand": "Kivi",
    "name": "KIVI",
    "model": "2K T56 Smart TV"
@@ -1755,6 +1765,11 @@
    "brand": "Motorola",
    "name": "MOTOROLA",
    "model": "2K SMART TV"
+  },
+  {
+   "brand": "Motorola",
+   "name": "MOTOROLA",
+   "model": "SMART TV"
   },
   {
    "brand": "Motorola",
@@ -82373,6 +82388,13 @@
    "model": "HPPAP16"
   }
  ],
+ "Pulla": [
+  {
+   "brand": "Hot Pepper",
+   "name": "Pulla",
+   "model": "Pulla"
+  }
+ ],
  "HPP-L55": [
   {
    "brand": "Hot Pepper",
@@ -100598,6 +100620,11 @@
   {
    "brand": "Itel",
    "name": "itel A60",
+   "model": "itel A662L"
+  },
+  {
+   "brand": "Itel",
+   "name": "itel A60E",
    "model": "itel A662L"
   }
  ],
@@ -129852,6 +129879,13 @@
    "brand": "Maze_speed",
    "name": "MS5539G",
    "model": "MS5539G"
+  }
+ ],
+ "MS5614G": [
+  {
+   "brand": "Maze_speed",
+   "name": "MS5614G",
+   "model": "MS5614G"
   }
  ],
  "SSB1000T": [
