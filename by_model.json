@@ -41353,6 +41353,13 @@
    "device": "ODYSSEY3G"
   }
  ],
+ "Stellar-X5": [
+  {
+   "brand": "Crosscall",
+   "name": "Stellar-X5",
+   "device": "L780"
+  }
+ ],
  "TREKKER-X3": [
   {
    "brand": "Crosscall",
@@ -141938,9 +141945,19 @@
    "brand": "Motorola",
    "name": "moto g62 5G",
    "device": "rhodec"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g62 5G",
+   "device": "rhodei"
   }
  ],
  "moto g71 5G": [
+  {
+   "brand": "Motorola",
+   "name": "moto g62 5G",
+   "device": "rhodei"
+  },
   {
    "brand": "Motorola",
    "name": "moto g71 5G",
@@ -212056,6 +212073,11 @@
    "brand": "TCL",
    "name": "G05_4K_US",
    "device": "G05"
+  },
+  {
+   "brand": "TCL",
+   "name": "G08",
+   "device": "G08"
   }
  ],
  "BeyondTV5": [
@@ -222524,6 +222546,13 @@
    "brand": "TD Tech",
    "name": "TD Tech V800",
    "device": "V800"
+  }
+ ],
+ "V900": [
+  {
+   "brand": "TD Tech",
+   "name": "TD Tech V900",
+   "device": "V900"
   }
  ],
  "M103H": [
@@ -266523,6 +266552,13 @@
    "brand": "realme",
    "name": "realme C53",
    "device": "RE58C2"
+  }
+ ],
+ "RMX3762": [
+  {
+   "brand": "realme",
+   "name": "realme C53",
+   "device": "RE58CE"
   }
  ],
  "RMX3312": [

@@ -47671,6 +47671,13 @@
    "model": "ODYSSEY"
   }
  ],
+ "Stellar-X5": [
+  {
+   "brand": "Crosscall",
+   "device": "L780",
+   "model": "Stellar-X5"
+  }
+ ],
  "TREKKER- X3": [
   {
    "brand": "Crosscall",
@@ -139951,6 +139958,16 @@
    "brand": "Motorola",
    "device": "rhodec",
    "model": "moto g62 5G"
+  },
+  {
+   "brand": "Motorola",
+   "device": "rhodei",
+   "model": "moto g62 5G"
+  },
+  {
+   "brand": "Motorola",
+   "device": "rhodei",
+   "model": "moto g71 5G"
   }
  ],
  "moto g71 5G": [
@@ -203984,6 +204001,13 @@
    "model": "Smart TV"
   }
  ],
+ "G08": [
+  {
+   "brand": "TCL",
+   "device": "G08",
+   "model": "Smart TV Pro"
+  }
+ ],
  "GO5c": [
   {
    "brand": "TCL",
@@ -212228,6 +212252,13 @@
    "brand": "TD Tech",
    "device": "V800",
    "model": "V800"
+  }
+ ],
+ "TD Tech V900": [
+  {
+   "brand": "TD Tech",
+   "device": "V900",
+   "model": "V900"
   }
  ],
  "VIP6102W": [
@@ -253308,6 +253339,11 @@
    "brand": "realme",
    "device": "RE58C2",
    "model": "RMX3760"
+  },
+  {
+   "brand": "realme",
+   "device": "RE58CE",
+   "model": "RMX3762"
   }
  ],
  "realme C55": [

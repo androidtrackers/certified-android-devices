@@ -44875,6 +44875,13 @@
    "model": "ODYSSEY"
   }
  ],
+ "L780": [
+  {
+   "brand": "Crosscall",
+   "name": "Stellar-X5",
+   "model": "Stellar-X5"
+  }
+ ],
  "HS8952QC": [
   {
    "brand": "Crosscall",
@@ -139855,6 +139862,18 @@
    "model": "moto g62 5G"
   }
  ],
+ "rhodei": [
+  {
+   "brand": "Motorola",
+   "name": "moto g62 5G",
+   "model": "moto g62 5G"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g62 5G",
+   "model": "moto g71 5G"
+  }
+ ],
  "corfur": [
   {
    "brand": "Motorola",
@@ -206412,6 +206431,13 @@
    "model": "Smart TV"
   }
  ],
+ "G08": [
+  {
+   "brand": "TCL",
+   "name": "G08",
+   "model": "Smart TV Pro"
+  }
+ ],
  "U3A_PLUS_4G": [
   {
    "brand": "TCL",
@@ -214325,6 +214351,13 @@
    "brand": "TD Tech",
    "name": "TD Tech V800",
    "model": "V800"
+  }
+ ],
+ "V900": [
+  {
+   "brand": "TD Tech",
+   "name": "TD Tech V900",
+   "model": "V900"
   }
  ],
  "M103H": [
@@ -255290,6 +255323,13 @@
    "brand": "realme",
    "name": "realme C53",
    "model": "RMX3760"
+  }
+ ],
+ "RE58CE": [
+  {
+   "brand": "realme",
+   "name": "realme C53",
+   "model": "RMX3762"
   }
  ],
  "RE58B2L1": [

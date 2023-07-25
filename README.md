@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-07-24
+Last sync is 2023-07-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5385,6 +5385,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Crosscall|Core-Z5|L790|Core-Z5|
 |Crosscall|Core-Z5|L790_02|Core-Z5|
 |Crosscall|ODYSSEY|ODYSSEY3G|ODYSSEY|
+|Crosscall|Stellar-X5|L780|Stellar-X5|
 |Crosscall|TREKKER- X3|HS8952QC|TREKKER-X3|
 |Crosscall|TREKKER-M1 CORE|HS8909QC|TREKKER-M1 CORE|
 |Crosscall|Trekker- M1|HS8916QC|Trekker-M1|
@@ -20462,6 +20463,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g6 play|jeter|moto g(6) play|
 |Motorola|moto g62 5G|rhodec|moto g51 5G|
 |Motorola|moto g62 5G|rhodec|moto g62 5G|
+|Motorola|moto g62 5G|rhodei|moto g62 5G|
+|Motorola|moto g62 5G|rhodei|moto g71 5G|
 |Motorola|moto g71 5G|corfur|moto g(50)|
 |Motorola|moto g71 5G|corfur|moto g71 5G|
 |Motorola|moto g72|vicky|moto g(50) 5G|
@@ -31234,6 +31237,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|G06_2K_GB|G06|Smart TV|
 |TCL|G06_2K_US|G06|Smart TV|
 |TCL|G07_4K_GB_NF|G07|Smart TV|
+|TCL|G08|G08|Smart TV Pro|
 |TCL|GO5c|U3A_PLUS_4G|5033E|
 |TCL|HotelTV|HotelTV|WelcomeTV|
 |TCL|L55E6700UDS|movo_la|movo_la|
@@ -32760,6 +32764,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TD SYSTEMS|Android TV|yeongdeungpo|TD SYSTEMS Android TV|
 |TD SYSTEMS|EUROPE|guandu|TD SYSTEMS Android TV|
 |TD Tech|TD Tech V800|V800|V800|
+|TD Tech|TD Tech V900|V900|V900|
 |TDS|VIP6102W|vip6102w|VIP6102W|
 |TECHLIFE|Smart TV|redwood|AI PONT|
 |TECHNOLOGIA Y CRATIVIDAD|M103H|M103H|M103H|
@@ -39756,6 +39761,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme C35|RE87BAL1|RMX3512|
 |realme|realme C35|RE87BAL1|RMX3513|
 |realme|realme C53|RE58C2|RMX3760|
+|realme|realme C53|RE58CE|RMX3762|
 |realme|realme C55|REE2ADL1|RMX3710|
 |realme|realme GT 2|RE58B2L1|RMX3312|
 |realme|realme GT 2 Pro|RED8ACL1|RMX3301|
