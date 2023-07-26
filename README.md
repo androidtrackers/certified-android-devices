@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-07-25
+Last sync is 2023-07-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -209,6 +209,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ASTEX|ASTEX 2K Android|lasalle|ASTEX 2K Android|
 |ASTEX|ASTEX 2K Google TV|capitolhill|ASTEX 2K Google TV|
 |ASTEX|ASTEX 4K Android|kenton|ASTEX 4K Android|
+|ASTEX|ASTEX 4K Google TV|keoneae|ASTEX 4K Google TV|
 |ASTEX|ASTEX Google TV|bandra|ASTEX Google TV|
 |ASTON|IDEA|IDEA|IDEA|
 |ASTON|NEO|NEO|NEO|
@@ -19124,6 +19125,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Meizu|MEIZU 18X|meizu18X|MEIZU 18X|
 |Meizu|MEIZU 18s|meizu18s|MEIZU 18s|
 |Meizu|MEIZU 18s Pro|meizu18sPro|MEIZU 18s Pro|
+|Meizu|MEIZU 20 Inf|meizu20Inf|MEIZU 20 Inf|
 |Meizu|Meizu 6T|Meizu6T|Meizu 6T|
 |Meizu|Meizu S6|MeizuS6|M712C|
 |Meizu|Meizu S6|MeizuS6|Meizu S6|
@@ -19137,6 +19139,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Meizu|meizu 17|meizu17|meizu 17|
 |Meizu|meizu 17 Pro|meizu17Pro|meizu 17 Pro|
 |Meizu|meizu 18 Pro|meizu18Pro|MEIZU 18 Pro|
+|Meizu|meizu 20|meizu20|MEIZU 20|
+|Meizu|meizu 20 Pro|meizu20Pro|MEIZU 20 Pro|
 |Meizu|meizu C9|meizuC9|meizu C9|
 |Meizu|meizu C9 pro|meizuC9pro|meizu C9 pro|
 |Meizu|meizu M10|meizuM10|meizu M10|
@@ -26442,6 +26446,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A51|a51|SM-A515U|
 |Samsung|Galaxy A51|a51|SM-A515U1|
 |Samsung|Galaxy A51|a51|SM-A515W|
+|Samsung|Galaxy A51|a51|SM-A515X|
 |Samsung|Galaxy A51|a51|SM-S515DL|
 |Samsung|Galaxy A51 5G|SC-54A|SC-54A|
 |Samsung|Galaxy A51 5G|SCG07|SCG07|
@@ -26540,6 +26545,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A70s|a70s|SM-A707F|
 |Samsung|Galaxy A71|a71|SM-A715F|
 |Samsung|Galaxy A71|a71|SM-A715W|
+|Samsung|Galaxy A71|a71|SM-A715X|
 |Samsung|Galaxy A71 5G|a71x|SM-A7160|
 |Samsung|Galaxy A71 5G|a71x|SM-A716B|
 |Samsung|Galaxy A71 5G|a71xq|SM-A716U|
@@ -27252,6 +27258,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy M52 5G|m52xq|SM-M526B|
 |Samsung|Galaxy M52 5G|m52xq|SM-M526BR|
 |Samsung|Galaxy M53 5G|m53x|SM-M536B|
+|Samsung|Galaxy M54 5G|m54x|SM-M546B|
 |Samsung|Galaxy M62|m62|SM-M625F|
 |Samsung|Galaxy Mega 2|mega23g|SM-G750H|
 |Samsung|Galaxy Mega 5.8|crater|GT-I9152|
@@ -27391,6 +27398,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Note10|d1q|SM-N970W|
 |Samsung|Galaxy Note10 5G|d1x|SM-N971N|
 |Samsung|Galaxy Note10 Lite|r7|SM-N770F|
+|Samsung|Galaxy Note10 Lite|r7|SM-N770X|
 |Samsung|Galaxy Note10+|SC-01M|SC-01M|
 |Samsung|Galaxy Note10+|SCV45|SCV45|
 |Samsung|Galaxy Note10+|d2q|SM-N9750|
@@ -35439,6 +35447,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V27|V2231|V2246|
 |Vivo|V27 Pro|V2230|V2230|
 |Vivo|V27e|V2237|V2237|
+|Vivo|V29|V2250|V2250|
 |Vivo|V29 Lite 5G|V2244|V2244|
 |Vivo|V3|PD1524|vivo V3|
 |Vivo|V3|V3|vivo V3|

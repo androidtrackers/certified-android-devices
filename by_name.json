@@ -8534,6 +8534,13 @@
    "model": "ASTEX 4K Android"
   }
  ],
+ "ASTEX 4K Google TV": [
+  {
+   "brand": "ASTEX",
+   "device": "keoneae",
+   "model": "ASTEX 4K Google TV"
+  }
+ ],
  "ASTEX Google TV": [
   {
    "brand": "ASTEX",
@@ -132376,6 +132383,13 @@
    "model": "MEIZU 18s Pro"
   }
  ],
+ "MEIZU 20 Inf": [
+  {
+   "brand": "Meizu",
+   "device": "meizu20Inf",
+   "model": "MEIZU 20 Inf"
+  }
+ ],
  "Meizu 6T": [
   {
    "brand": "Meizu",
@@ -132459,6 +132473,20 @@
    "brand": "Meizu",
    "device": "meizu18Pro",
    "model": "MEIZU 18 Pro"
+  }
+ ],
+ "meizu 20": [
+  {
+   "brand": "Meizu",
+   "device": "meizu20",
+   "model": "MEIZU 20"
+  }
+ ],
+ "meizu 20 Pro": [
+  {
+   "brand": "Meizu",
+   "device": "meizu20Pro",
+   "model": "MEIZU 20 Pro"
   }
  ],
  "meizu C9": [
@@ -176496,6 +176524,11 @@
   {
    "brand": "Samsung",
    "device": "a51",
+   "model": "SM-A515X"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a51",
    "model": "SM-S515DL"
   }
  ],
@@ -176969,6 +177002,11 @@
    "brand": "Samsung",
    "device": "a71",
    "model": "SM-A715W"
+  },
+  {
+   "brand": "Samsung",
+   "device": "a71",
+   "model": "SM-A715X"
   }
  ],
  "Galaxy A71 5G": [
@@ -180961,6 +180999,13 @@
    "model": "SM-M536B"
   }
  ],
+ "Galaxy M54 5G": [
+  {
+   "brand": "Samsung",
+   "device": "m54x",
+   "model": "SM-M546B"
+  }
+ ],
  "Galaxy M62": [
   {
    "brand": "Samsung",
@@ -181704,6 +181749,11 @@
    "brand": "Samsung",
    "device": "r7",
    "model": "SM-N770F"
+  },
+  {
+   "brand": "Samsung",
+   "device": "r7",
+   "model": "SM-N770X"
   }
  ],
  "Galaxy Note10+": [
@@ -228601,6 +228651,13 @@
    "brand": "Vivo",
    "device": "V2237",
    "model": "V2237"
+  }
+ ],
+ "V29": [
+  {
+   "brand": "Vivo",
+   "device": "V2250",
+   "model": "V2250"
   }
  ],
  "V29 Lite 5G": [

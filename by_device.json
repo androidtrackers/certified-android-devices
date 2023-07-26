@@ -4959,6 +4959,103 @@
    "model": "simfer 4K Android TV"
   }
  ],
+ "keoneae": [
+  {
+   "brand": "ASTEX",
+   "name": "ASTEX 4K Google TV",
+   "model": "ASTEX 4K Google TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "Blaupunkt 4K Google TV",
+   "model": "Blaupunkt 4K Google TV"
+  },
+  {
+   "brand": "Decaview",
+   "name": "Decaview 4K Google TV",
+   "model": "Decaview 4K Google TV"
+  },
+  {
+   "brand": "Digi",
+   "name": "Digiking 4K Google TV",
+   "model": "Digiking 4K Google TV"
+  },
+  {
+   "brand": "Dyon",
+   "name": "DYON 4K Google TV",
+   "model": "DYON 4K Google TV"
+  },
+  {
+   "brand": "EKO",
+   "name": "EKO 4K Google TV",
+   "model": "EKO 4K Google TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "HYUNDAI 4K Google TV",
+   "model": "HYUNDAI 4K Google TV"
+  },
+  {
+   "brand": "IMARFLEX",
+   "name": "imarflex 4K Google TV",
+   "model": "imarflex 4K Google TV"
+  },
+  {
+   "brand": "KONKA",
+   "name": "HK 4K Google TV-A",
+   "model": "HK 4K Google TV-A"
+  },
+  {
+   "brand": "KONKA",
+   "name": "KONKA 4K Google TV",
+   "model": "HK 4K Google TV"
+  },
+  {
+   "brand": "SICON",
+   "name": "SICON 4K Google TV",
+   "model": "SICON 4K Google TV"
+  },
+  {
+   "brand": "SYLVOX",
+   "name": "SYLVOX 4K Google TV-A",
+   "model": "SYLVOX 4K Google TV-A"
+  },
+  {
+   "brand": "SYLVOX",
+   "name": "SYLVOX 4K Google TV-B",
+   "model": "SYLVOX 4K Google TV-B"
+  },
+  {
+   "brand": "SYLVOX",
+   "name": "SYLVOX 4K Google TV-D",
+   "model": "SYLVOX 4K Google TV-D"
+  },
+  {
+   "brand": "SYLVOX",
+   "name": "SYLVOX 4K Google TV-E",
+   "model": "SYLVOX 4K Google TV-E"
+  },
+  {
+   "brand": "Stream",
+   "name": "STREAM 4K Google TV",
+   "model": "STREAM 4K Google TV"
+  },
+  {
+   "brand": "TELSTAR",
+   "name": "TELSTAR 4K Google TV",
+   "model": "TELSTAR 4K Google TV"
+  },
+  {
+   "brand": "Vu Televisions",
+   "name": "VU 4K Google TV",
+   "model": "VU 4K Google TV"
+  },
+  {
+   "brand": "innos",
+   "name": "innos 4K Google TV",
+   "model": "innos 4K Google TV"
+  }
+ ],
  "bandra": [
   {
    "brand": "ASTEX",
@@ -31014,98 +31111,6 @@
    "brand": "Sharp",
    "name": "Sharp",
    "model": "AQUOS-TVE21C"
-  }
- ],
- "keoneae": [
-  {
-   "brand": "Blaupunkt",
-   "name": "Blaupunkt 4K Google TV",
-   "model": "Blaupunkt 4K Google TV"
-  },
-  {
-   "brand": "Decaview",
-   "name": "Decaview 4K Google TV",
-   "model": "Decaview 4K Google TV"
-  },
-  {
-   "brand": "Digi",
-   "name": "Digiking 4K Google TV",
-   "model": "Digiking 4K Google TV"
-  },
-  {
-   "brand": "Dyon",
-   "name": "DYON 4K Google TV",
-   "model": "DYON 4K Google TV"
-  },
-  {
-   "brand": "EKO",
-   "name": "EKO 4K Google TV",
-   "model": "EKO 4K Google TV"
-  },
-  {
-   "brand": "Hyundai",
-   "name": "HYUNDAI 4K Google TV",
-   "model": "HYUNDAI 4K Google TV"
-  },
-  {
-   "brand": "IMARFLEX",
-   "name": "imarflex 4K Google TV",
-   "model": "imarflex 4K Google TV"
-  },
-  {
-   "brand": "KONKA",
-   "name": "HK 4K Google TV-A",
-   "model": "HK 4K Google TV-A"
-  },
-  {
-   "brand": "KONKA",
-   "name": "KONKA 4K Google TV",
-   "model": "HK 4K Google TV"
-  },
-  {
-   "brand": "SICON",
-   "name": "SICON 4K Google TV",
-   "model": "SICON 4K Google TV"
-  },
-  {
-   "brand": "SYLVOX",
-   "name": "SYLVOX 4K Google TV-A",
-   "model": "SYLVOX 4K Google TV-A"
-  },
-  {
-   "brand": "SYLVOX",
-   "name": "SYLVOX 4K Google TV-B",
-   "model": "SYLVOX 4K Google TV-B"
-  },
-  {
-   "brand": "SYLVOX",
-   "name": "SYLVOX 4K Google TV-D",
-   "model": "SYLVOX 4K Google TV-D"
-  },
-  {
-   "brand": "SYLVOX",
-   "name": "SYLVOX 4K Google TV-E",
-   "model": "SYLVOX 4K Google TV-E"
-  },
-  {
-   "brand": "Stream",
-   "name": "STREAM 4K Google TV",
-   "model": "STREAM 4K Google TV"
-  },
-  {
-   "brand": "TELSTAR",
-   "name": "TELSTAR 4K Google TV",
-   "model": "TELSTAR 4K Google TV"
-  },
-  {
-   "brand": "Vu Televisions",
-   "name": "VU 4K Google TV",
-   "model": "VU 4K Google TV"
-  },
-  {
-   "brand": "innos",
-   "name": "innos 4K Google TV",
-   "model": "innos 4K Google TV"
   }
  ],
  "Blaupunkt_SL_01": [
@@ -131517,6 +131522,13 @@
    "model": "MEIZU 18s Pro"
   }
  ],
+ "meizu20Inf": [
+  {
+   "brand": "Meizu",
+   "name": "MEIZU 20 Inf",
+   "model": "MEIZU 20 Inf"
+  }
+ ],
  "Meizu6T": [
   {
    "brand": "Meizu",
@@ -131600,6 +131612,20 @@
    "brand": "Meizu",
    "name": "meizu 18 Pro",
    "model": "MEIZU 18 Pro"
+  }
+ ],
+ "meizu20": [
+  {
+   "brand": "Meizu",
+   "name": "meizu 20",
+   "model": "MEIZU 20"
+  }
+ ],
+ "meizu20Pro": [
+  {
+   "brand": "Meizu",
+   "name": "meizu 20 Pro",
+   "model": "MEIZU 20 Pro"
   }
  ],
  "meizuC9": [
@@ -176198,6 +176224,11 @@
   {
    "brand": "Samsung",
    "name": "Galaxy A51",
+   "model": "SM-A515X"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A51",
    "model": "SM-S515DL"
   }
  ],
@@ -176788,6 +176819,11 @@
    "brand": "Samsung",
    "name": "Galaxy A71",
    "model": "SM-A715W"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A71",
+   "model": "SM-A715X"
   }
  ],
  "a71xq": [
@@ -178646,6 +178682,11 @@
    "brand": "Samsung",
    "name": "Galaxy F54 5G",
    "model": "SM-E546B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy M54 5G",
+   "model": "SM-M546B"
   }
  ],
  "f62": [
@@ -182227,6 +182268,11 @@
    "brand": "Samsung",
    "name": "Galaxy Note10 Lite",
    "model": "SM-N770F"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Note10 Lite",
+   "model": "SM-N770X"
   }
  ],
  "SC-01M": [
@@ -230471,6 +230517,13 @@
    "brand": "Vivo",
    "name": "V27 Pro",
    "model": "V2230"
+  }
+ ],
+ "V2250": [
+  {
+   "brand": "Vivo",
+   "name": "V29",
+   "model": "V2250"
   }
  ],
  "V2244": [
