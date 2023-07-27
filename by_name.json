@@ -6148,6 +6148,11 @@
    "model": "X5-LG"
   },
   {
+   "brand": "MeanIT",
+   "device": "Smartphone_X5",
+   "model": "Smartphone_X5"
+  },
+  {
    "brand": "Nuu",
    "device": "NUU_X5",
    "model": "NUU_X5"
@@ -31396,6 +31401,11 @@
    "brand": "IkuMobile",
    "device": "A20",
    "model": "A20"
+  },
+  {
+   "brand": "TVB",
+   "device": "A20",
+   "model": "A20"
   }
  ],
  "A30-RU": [
@@ -48742,6 +48752,11 @@
   {
    "brand": "DABLIU",
    "device": "E13R_B75G",
+   "model": "E13R"
+  },
+  {
+   "brand": "DABLIU",
+   "device": "E13R_B86G",
    "model": "E13R"
   }
  ],
@@ -73037,6 +73052,11 @@
    "brand": "HKC Elec",
    "device": "nagai",
    "model": "2K SA Google TV"
+  },
+  {
+   "brand": "HKC Elec",
+   "device": "nagai",
+   "model": "2K US Google TV"
   }
  ],
  "Smart Monitor": [
@@ -118222,6 +118242,13 @@
    "model": "ilium PAD i8 v3"
   }
  ],
+ "ILIUM PAD RX10 Pro": [
+  {
+   "brand": "Lanix",
+   "device": "RX10ProV7",
+   "model": "RX10ProV7"
+  }
+ ],
  "ILIUM S670": [
   {
    "brand": "Lanix",
@@ -128194,6 +128221,13 @@
    "brand": "MIRAY",
    "device": "TPM4G_105",
    "model": "TPM4G_105"
+  }
+ ],
+ "TPM4G_E108_A": [
+  {
+   "brand": "MIRAY",
+   "device": "TPM4G_E108_A",
+   "model": "TPM4G_E108"
   }
  ],
  "MITSUSHIBA": [
@@ -140531,6 +140565,11 @@
    "brand": "Motorola",
    "device": "lynkco",
    "model": "motorola razr 2022"
+  },
+  {
+   "brand": "Motorola",
+   "device": "lynkco",
+   "model": "motorola razr 2023"
   }
  ],
  "motorola razr 40": [
@@ -155716,6 +155755,11 @@
    "brand": "POCO",
    "device": "water",
    "model": "2302EPCC4H"
+  },
+  {
+   "brand": "POCO",
+   "device": "water",
+   "model": "2305EPCC4G"
   }
  ],
  "POCO C55": [
@@ -188099,6 +188143,73 @@
    "model": "SM-X808U"
   }
  ],
+ "Galaxy Tab S9": [
+  {
+   "brand": "Samsung",
+   "device": "gts9wifi",
+   "model": "SM-X710"
+  }
+ ],
+ "Galaxy Tab S9 5G": [
+  {
+   "brand": "Samsung",
+   "device": "gts9",
+   "model": "SM-X716B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gts9",
+   "model": "SM-X716N"
+  }
+ ],
+ "Galaxy Tab S9 Ultra": [
+  {
+   "brand": "Samsung",
+   "device": "gts9uwifi",
+   "model": "SM-X910"
+  }
+ ],
+ "Galaxy Tab S9 Ultra 5G": [
+  {
+   "brand": "Samsung",
+   "device": "gts9u",
+   "model": "SM-X916B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gts9u",
+   "model": "SM-X916C"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gts9u",
+   "model": "SM-X916N"
+  }
+ ],
+ "Galaxy Tab S9+": [
+  {
+   "brand": "Samsung",
+   "device": "gts9pwifi",
+   "model": "SM-X810"
+  }
+ ],
+ "Galaxy Tab S9+ 5G": [
+  {
+   "brand": "Samsung",
+   "device": "gts9p",
+   "model": "SM-X816B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gts9p",
+   "model": "SM-X816N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "gts9p",
+   "model": "SM-X818U"
+  }
+ ],
  "Galaxy Tab2 10.1": [
   {
    "brand": "Samsung",
@@ -189173,6 +189284,30 @@
    "model": "SM-R925U"
   }
  ],
+ "Galaxy Watch6": [
+  {
+   "brand": "Samsung",
+   "device": "fresh6bl",
+   "model": "SM-R940"
+  },
+  {
+   "brand": "Samsung",
+   "device": "fresh6bs",
+   "model": "SM-R930"
+  }
+ ],
+ "Galaxy Watch6 Classic": [
+  {
+   "brand": "Samsung",
+   "device": "wise6bl",
+   "model": "SM-R960"
+  },
+  {
+   "brand": "Samsung",
+   "device": "wise6bs",
+   "model": "SM-R950"
+  }
+ ],
  "Galaxy Wide": [
   {
    "brand": "Samsung",
@@ -189781,6 +189916,38 @@
    "model": "SM-F721W"
   }
  ],
+ "Galaxy Z Flip5": [
+  {
+   "brand": "Samsung",
+   "device": "b5q",
+   "model": "SM-F7310"
+  },
+  {
+   "brand": "Samsung",
+   "device": "b5q",
+   "model": "SM-F731B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "b5q",
+   "model": "SM-F731N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "b5q",
+   "model": "SM-F731U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "b5q",
+   "model": "SM-F731U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "b5q",
+   "model": "SM-F731W"
+  }
+ ],
  "Galaxy Z Fold2 5G": [
   {
    "brand": "Samsung",
@@ -189900,6 +190067,38 @@
    "brand": "Samsung",
    "device": "q4q",
    "model": "SM-F936W"
+  }
+ ],
+ "Galaxy Z Fold5": [
+  {
+   "brand": "Samsung",
+   "device": "q5q",
+   "model": "SM-F9460"
+  },
+  {
+   "brand": "Samsung",
+   "device": "q5q",
+   "model": "SM-F946B"
+  },
+  {
+   "brand": "Samsung",
+   "device": "q5q",
+   "model": "SM-F946N"
+  },
+  {
+   "brand": "Samsung",
+   "device": "q5q",
+   "model": "SM-F946U"
+  },
+  {
+   "brand": "Samsung",
+   "device": "q5q",
+   "model": "SM-F946U1"
+  },
+  {
+   "brand": "Samsung",
+   "device": "q5q",
+   "model": "SM-F946W"
   }
  ],
  "Galaxy player 70 Plus": [
@@ -197493,6 +197692,11 @@
    "brand": "Sony",
    "device": "SOG10",
    "model": "SOG10"
+  },
+  {
+   "brand": "Sony",
+   "device": "XQ-DQ62",
+   "model": "XQ-DQ62"
   },
   {
    "brand": "Sony",
@@ -228496,6 +228700,11 @@
  "V2164PA": [
   {
    "brand": "Vivo",
+   "device": "PD2164",
+   "model": "V2164PA"
+  },
+  {
+   "brand": "Vivo",
    "device": "PD2164U",
    "model": "V2164PA"
   }
@@ -229255,6 +229464,13 @@
    "brand": "Vivo",
    "device": "1801",
    "model": "vivo 1801"
+  }
+ ],
+ "Y77t": [
+  {
+   "brand": "Vivo",
+   "device": "PD2278",
+   "model": "V2278A"
   }
  ],
  "Y78": [

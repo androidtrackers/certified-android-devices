@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-07-26
+Last sync is 2023-07-27
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5512,6 +5512,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |D-Tech|H70_G|H70_G|H70_G|
 |D-Tech|LM-01|LM_01|LM-01|
 |DABLIU|E13R|E13R_B75G|E13R|
+|DABLIU|E13R|E13R_B86G|E13R|
 |DABLIU|E13R_B65G|rk3588_E13R|E13R|
 |DAIICHI|Vietnam|tamachi|Daiichi FHD Android TV|
 |DAIICHI|Vietnam|yeongdeungpo|Daiichi UHD Android TV|
@@ -8908,6 +8909,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |HKC Elec|Google TV|lakeside|4K PA Google TV|
 |HKC Elec|Google TV|lakeside|4K US Google TV|
 |HKC Elec|Google TV|nagai|2K SA Google TV|
+|HKC Elec|Google TV|nagai|2K US Google TV|
 |HKC Elec|Smart Monitor|mateo|2K Smart Monitor|
 |HKC Elec|Smart TV|mateo|2K PA Smart TV|
 |HKC Elec|Smart TV|mateo|2K US Smart TV|
@@ -16795,6 +16797,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Lanix|ILIUM PAD E10Si|iLium_Pad_E10Si_1|ILIUM PAD E10Si|
 |Lanix|ILIUM PAD E8 V6|IliumPAD_E8v6|ILIUM PAD E8 V6|
 |Lanix|ILIUM PAD I8|Ilium_Padi8v3|ilium PAD i8 v3|
+|Lanix|ILIUM PAD RX10 Pro|RX10ProV7|RX10ProV7|
 |Lanix|ILIUM S670|Ilium_S670|ILIUM S670|
 |Lanix|ILIUM X110|ILIUM_X110|ILIUM X110|
 |Lanix|ILIUMPAD_RX10v5|ILIUMPAD_RX10v5|ILIUM_PAD_RX10v5|
@@ -18470,6 +18473,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MIRAY|R3|R3|R3|
 |MIRAY|R4|R4|R4|
 |MIRAY|TPM4G_105|TPM4G_105|TPM4G_105|
+|MIRAY|TPM4G_E108_A|TPM4G_E108_A|TPM4G_E108|
 |MITSUSHIBA|MITSUSHIBA|TP-10-0232P3G|TP-10-0232P3G|
 |MITSUSHIBA|TP-07-016|TP-07-016|TP-07-016|
 |MJS|T2702|T2702|T2702|
@@ -18892,6 +18896,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MeanIT|MeanIt_X30|MeanIt_X30_EEA|MeanIt_X30|
 |MeanIT|START_S5|START_S5|START_S5|
 |MeanIT|X3|X3|X3|
+|MeanIT|X5|Smartphone_X5|Smartphone_X5|
 |MeanIT|meanIT C80C81|meanIT_C80C81|meanIT_C80C81|
 |MeanIT|meanIT X4|meanIT_X4|meanIT X4|
 |MeanIT|meanIT-X10|meanIT-X10|meanIT X10|
@@ -20554,6 +20559,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|motorola razr 2022|oneli|motorola edge 30 pro|
 |Motorola|motorola razr 2022|oneli|motorola razr 2022|
 |Motorola|motorola razr 2023|lynkco|motorola razr 2022|
+|Motorola|motorola razr 2023|lynkco|motorola razr 2023|
 |Motorola|motorola razr 40|lynkco|motorola razr 2022|
 |Motorola|motorola razr 40|lynkco|motorola razr 40|
 |Motorola|motorola razr 40 ultra|zeekr|motorola razr 2022|
@@ -23057,6 +23063,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |POCO|POCO C31|angelicain|211033MI|
 |POCO|POCO C50|snow|220733SPI|
 |POCO|POCO C51|water|2302EPCC4H|
+|POCO|POCO C51|water|2305EPCC4G|
 |POCO|POCO C55|earth|22127PC95I|
 |POCO|POCO F2 Pro|lmi|POCO F2 Pro|
 |POCO|POCO F3|alioth|M2012K11AG|
@@ -28574,6 +28581,17 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S8+ 5G|gts8p|SM-X806E|
 |Samsung|Galaxy Tab S8+ 5G|gts8p|SM-X806N|
 |Samsung|Galaxy Tab S8+ 5G|gts8p|SM-X808U|
+|Samsung|Galaxy Tab S9|gts9wifi|SM-X710|
+|Samsung|Galaxy Tab S9 5G|gts9|SM-X716B|
+|Samsung|Galaxy Tab S9 5G|gts9|SM-X716N|
+|Samsung|Galaxy Tab S9 Ultra|gts9uwifi|SM-X910|
+|Samsung|Galaxy Tab S9 Ultra 5G|gts9u|SM-X916B|
+|Samsung|Galaxy Tab S9 Ultra 5G|gts9u|SM-X916C|
+|Samsung|Galaxy Tab S9 Ultra 5G|gts9u|SM-X916N|
+|Samsung|Galaxy Tab S9+|gts9pwifi|SM-X810|
+|Samsung|Galaxy Tab S9+ 5G|gts9p|SM-X816B|
+|Samsung|Galaxy Tab S9+ 5G|gts9p|SM-X816N|
+|Samsung|Galaxy Tab S9+ 5G|gts9p|SM-X818U|
 |Samsung|Galaxy Tab2 10.1|espresso10att|SAMSUNG-SGH-I497|
 |Samsung|Galaxy Tab2 10.1|espresso10can|SGH-I497|
 |Samsung|Galaxy Tab2 10.1|espresso10rf|GT-P5100|
@@ -28772,6 +28790,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Watch5 Pro|projectxul|SM-R925F|
 |Samsung|Galaxy Watch5 Pro|projectxul|SM-R925N|
 |Samsung|Galaxy Watch5 Pro|projectxul|SM-R925U|
+|Samsung|Galaxy Watch6|fresh6bl|SM-R940|
+|Samsung|Galaxy Watch6|fresh6bs|SM-R930|
+|Samsung|Galaxy Watch6 Classic|wise6bl|SM-R960|
+|Samsung|Galaxy Watch6 Classic|wise6bs|SM-R950|
 |Samsung|Galaxy Wide|on7nlteskt|SM-G600S|
 |Samsung|Galaxy Wide2|j7popelteskt|SM-J727S|
 |Samsung|Galaxy Wide3|j7toplteskt|SM-J737S|
@@ -28880,6 +28902,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Flip4|b4q|SM-F721U|
 |Samsung|Galaxy Z Flip4|b4q|SM-F721U1|
 |Samsung|Galaxy Z Flip4|b4q|SM-F721W|
+|Samsung|Galaxy Z Flip5|b5q|SM-F7310|
+|Samsung|Galaxy Z Flip5|b5q|SM-F731B|
+|Samsung|Galaxy Z Flip5|b5q|SM-F731N|
+|Samsung|Galaxy Z Flip5|b5q|SM-F731U|
+|Samsung|Galaxy Z Flip5|b5q|SM-F731U1|
+|Samsung|Galaxy Z Flip5|b5q|SM-F731W|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F9160|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F916B|
 |Samsung|Galaxy Z Fold2 5G|f2q|SM-F916N|
@@ -28903,6 +28931,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Z Fold4|q4q|SM-F936U|
 |Samsung|Galaxy Z Fold4|q4q|SM-F936U1|
 |Samsung|Galaxy Z Fold4|q4q|SM-F936W|
+|Samsung|Galaxy Z Fold5|q5q|SM-F9460|
+|Samsung|Galaxy Z Fold5|q5q|SM-F946B|
+|Samsung|Galaxy Z Fold5|q5q|SM-F946N|
+|Samsung|Galaxy Z Fold5|q5q|SM-F946U|
+|Samsung|Galaxy Z Fold5|q5q|SM-F946U1|
+|Samsung|Galaxy Z Fold5|q5q|SM-F946W|
 |Samsung|Galaxy player 70 Plus|YP-GB70D|YP-GB70D|
 |Samsung|Galaxy view|gvltektt|SM-T677NK|
 |Samsung|Galaxy view|gvltelgt|SM-T677NL|
@@ -30119,6 +30153,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sony|Xperia 1 V|A301SO|A301SO|
 |Sony|Xperia 1 V|SO-51D|SO-51D|
 |Sony|Xperia 1 V|SOG10|SOG10|
+|Sony|Xperia 1 V|XQ-DQ62|XQ-DQ62|
 |Sony|Xperia 1 V|XQ-DQ72|XQ-DQ72|
 |Sony|Xperia 10|I3113|I3113|
 |Sony|Xperia 10|I3123|I3123|
@@ -32937,6 +32972,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TUPAD|TU7_58212_18222|TU7_58212|TU7_18222|
 |TV Smart|TV Smart 4K BOX|DV8981-KPV|TV Smart 4K BOX|
 |TVB|A15|A151|A15|
+|TVB|A20|A20|A20|
 |TVCore|TV Stick|ts401|TV Stick|
 |TVCore|ts401l|ts401|TV StickL|
 |TVPLUS|TV PLUS 4K BOX|DV6069Y_TVPLUS|TV PLUS 4K BOX|
@@ -35423,6 +35459,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2162A|PD2162|V2162A|
 |Vivo|V2163A|PD2163|V2163A|
 |Vivo|V2164A|PD2164|V2164A|
+|Vivo|V2164PA|PD2164|V2164PA|
 |Vivo|V2164PA|PD2164U|V2164PA|
 |Vivo|V2165A|PD2165|V2165A|
 |Vivo|V2166A|PD2166|V2166A|
@@ -35552,6 +35589,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y66|PD1621|vivo Y66|
 |Vivo|Y67|PD1612|vivo Y67|
 |Vivo|Y71|1801|vivo 1801|
+|Vivo|Y77t|PD2278|V2278A|
 |Vivo|Y78|PD2278|V2278A|
 |Vivo|Y78 5G|V2244|V2244|
 |Vivo|Y78+|PD2271|V2271A|
