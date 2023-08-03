@@ -5810,6 +5810,11 @@
    "model": "iPlay50 Pro"
   },
   {
+   "device": "T1030M",
+   "name": "iPlay50 Pro",
+   "model": "iPlay50_Pro"
+  },
+  {
    "device": "iPlay50_SE",
    "name": "iPlay50_SE",
    "model": "iPlay50_SE"
@@ -12689,6 +12694,11 @@
   }
  ],
  "BAMtelecoms": [
+  {
+   "device": "N3",
+   "name": "N3",
+   "model": "N3"
+  },
   {
    "device": "T3",
    "name": "T3",
@@ -30432,11 +30442,6 @@
    "model": "Memor 11"
   },
   {
-   "device": "m11",
-   "name": "Memor 11",
-   "model": "Memor 11"
-  },
-  {
    "device": "Q10",
    "name": "Memor 20",
    "model": "Memor 20"
@@ -31724,6 +31729,11 @@
    "device": "DIGIT_INFINITY",
    "name": "DIGIT INFINITY",
    "model": "DIGIT INFINITY"
+  },
+  {
+   "device": "DigitPad10",
+   "name": "DigitPad10",
+   "model": "DigitPad10"
   },
   {
    "device": "Digit_Glory1",
@@ -34954,6 +34964,13 @@
    "device": "komagome",
    "name": "ELEXIA",
    "model": "ELEXIA 2K Android TV"
+  }
+ ],
+ "ELITESOFT": [
+  {
+   "device": "Tab101",
+   "name": "Tab101",
+   "model": "Tab101"
   }
  ],
  "ELO Touch": [
@@ -46255,6 +46272,11 @@
    "model": "F2"
   },
   {
+   "device": "Fpad1",
+   "name": "Fpad1",
+   "model": "F1"
+  },
+  {
    "device": "Fpad2",
    "name": "Fpad2",
    "model": "Fpad2"
@@ -52831,6 +52853,11 @@
   {
    "device": "changjiang",
    "name": "75MR6DE",
+   "model": "HIDB 4K"
+  },
+  {
+   "device": "huaihe",
+   "name": "86MR6DE",
    "model": "HIDB 4K"
   },
   {
@@ -72661,6 +72688,11 @@
    "device": "itel-L5007",
    "name": "itel A24",
    "model": "itel L5007"
+  },
+  {
+   "device": "itel-A507LC",
+   "name": "itel A24 2023",
+   "model": "itel A507LC"
   },
   {
    "device": "itel-A507LSP",
@@ -93283,6 +93315,11 @@
    "device": "LOGIC_X5A",
    "name": "X5A",
    "model": "LOGIC X5A"
+  },
+  {
+   "device": "LOGIC_L40",
+   "name": "l409",
+   "model": "LOGIC L40"
   }
  ],
  "Logicom": [
@@ -94992,6 +95029,11 @@
    "device": "TPM4G_105",
    "name": "TPM4G_105",
    "model": "TPM4G_105"
+  },
+  {
+   "device": "TPM4G_E108",
+   "name": "TPM4G_E108",
+   "model": "TPM4G_E108"
   },
   {
    "device": "TPM4G_E108_A",
@@ -104495,6 +104537,26 @@
    "model": "moto e20"
   },
   {
+   "device": "borag",
+   "name": "moto e22",
+   "model": "moto"
+  },
+  {
+   "device": "borag",
+   "name": "moto e22",
+   "model": "moto e22"
+  },
+  {
+   "device": "borago",
+   "name": "moto e22i",
+   "model": "moto"
+  },
+  {
+   "device": "borago",
+   "name": "moto e22i",
+   "model": "moto e22i"
+  },
+  {
    "device": "cyprus",
    "name": "moto e30",
    "model": "cyprus"
@@ -106364,6 +106426,11 @@
    "model": "M10_4G_NOVA"
   },
   {
+   "device": "ML_SO1C_M10_4G_NOVA",
+   "name": "M10 4G NOVA",
+   "model": "M10_4G_NOVA"
+  },
+  {
    "device": "ML_JI0B_M10_4G_PRO",
    "name": "M10 4G PRO",
    "model": "M10_4G_PRO"
@@ -107384,6 +107451,13 @@
    "device": "myPhone_Prime_2",
    "name": "myPhone_Prime_2",
    "model": "Prime 2"
+  }
+ ],
+ "MyTab_pro": [
+  {
+   "device": "MyTab_Pro_13",
+   "name": "My-10-13-1",
+   "model": "My-10-13-1"
   }
  ],
  "MyanmarNet": [
@@ -157745,6 +157819,11 @@
    "model": "S6"
   },
   {
+   "device": "Sparx_S7",
+   "name": "S7",
+   "model": "Sparx S7"
+  },
+  {
    "device": "S9",
    "name": "S9",
    "model": "S9"
@@ -170510,6 +170589,11 @@
    "device": "T40Air",
    "name": "T40Air_EEA",
    "model": "T40Air_EEA"
+  },
+  {
+   "device": "T40Air_ROW",
+   "name": "T40Air_ROW",
+   "model": "T40 Air"
   },
   {
    "device": "Teclast_T40Pro",
@@ -183444,6 +183528,11 @@
    "model": "V2245A"
   },
   {
+   "device": "PD2239",
+   "name": "vivo S16e",
+   "model": "V2239A"
+  },
+  {
    "device": "PD2285",
    "name": "vivo S17e",
    "model": "V2285A"
@@ -190344,6 +190433,13 @@
    "device": "HND",
    "name": "SEI600EN",
    "model": "YOU-BOX"
+  }
+ ],
+ "YOUNG": [
+  {
+   "device": "YETC_1123",
+   "name": "YETC_1123",
+   "model": "YETC 1123"
   }
  ],
  "YOUTAB": [
@@ -201042,6 +201138,11 @@
    "device": "AE9240",
    "name": "AE9240",
    "model": "AE9240"
+  },
+  {
+   "device": "AE9310",
+   "name": "AE9310",
+   "model": "AE9310"
   },
   {
    "device": "AE9950",

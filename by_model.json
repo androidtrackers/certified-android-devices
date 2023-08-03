@@ -10752,6 +10752,13 @@
    "device": "T1030M"
   }
  ],
+ "iPlay50_Pro": [
+  {
+   "brand": "Alldocube",
+   "name": "iPlay50 Pro",
+   "device": "T1030M"
+  }
+ ],
  "iPlay50_SE": [
   {
    "brand": "Alldocube",
@@ -20405,6 +20412,23 @@
    "brand": "BALMUDA",
    "name": "BALMUDA Phone",
    "device": "X01A"
+  }
+ ],
+ "N3": [
+  {
+   "brand": "BAMtelecoms",
+   "name": "N3",
+   "device": "N3"
+  },
+  {
+   "brand": "Next Learning",
+   "name": "Nexttab N3",
+   "device": "N3"
+  },
+  {
+   "brand": "iQandT",
+   "name": "N3",
+   "device": "N3"
   }
  ],
  "T3": [
@@ -45048,11 +45072,6 @@
    "brand": "Datalogic",
    "name": "MEMOR 11",
    "device": "m11"
-  },
-  {
-   "brand": "Datalogic",
-   "name": "Memor 11",
-   "device": "m11"
   }
  ],
  "Memor 20": [
@@ -46780,6 +46799,13 @@
    "brand": "Digit",
    "name": "DIGIT INFINITY",
    "device": "DIGIT_INFINITY"
+  }
+ ],
+ "DigitPad10": [
+  {
+   "brand": "Digit",
+   "name": "DigitPad10",
+   "device": "DigitPad10"
   }
  ],
  "Digit Glory1": [
@@ -50993,6 +51019,13 @@
    "brand": "ELEXIA",
    "name": "ELEXIA",
    "device": "komagome"
+  }
+ ],
+ "Tab101": [
+  {
+   "brand": "ELITESOFT",
+   "name": "Tab101",
+   "device": "Tab101"
   }
  ],
  "10in-I-Series-4": [
@@ -60145,6 +60178,11 @@
    "brand": "G-Tab",
    "name": "F1",
    "device": "F1"
+  },
+  {
+   "brand": "HEADWOLF",
+   "name": "Fpad1",
+   "device": "Fpad1"
   },
   {
    "brand": "Invens",
@@ -74745,6 +74783,11 @@
    "brand": "Hisense",
    "name": "75MR6DE",
    "device": "changjiang"
+  },
+  {
+   "brand": "Hisense",
+   "name": "86MR6DE",
+   "device": "huaihe"
   }
  ],
  "SmartTV 8K FFM": [
@@ -100571,6 +100614,13 @@
    "brand": "Itel",
    "name": "itel A24",
    "device": "itel-L5007"
+  }
+ ],
+ "itel A507LC": [
+  {
+   "brand": "Itel",
+   "name": "itel A24 2023",
+   "device": "itel-A507LC"
   }
  ],
  "itel A507LSP": [
@@ -126978,6 +127028,13 @@
    "device": "LOGIC_X5A"
   }
  ],
+ "LOGIC L40": [
+  {
+   "brand": "Logic Mobility",
+   "name": "l409",
+   "device": "LOGIC_L40"
+  }
+ ],
  "B BOT 50": [
   {
    "brand": "Logicom",
@@ -129085,6 +129142,11 @@
   }
  ],
  "TPM4G_E108": [
+  {
+   "brand": "MIRAY",
+   "name": "TPM4G_E108",
+   "device": "TPM4G_E108"
+  },
   {
    "brand": "MIRAY",
    "name": "TPM4G_E108_A",
@@ -141120,6 +141182,32 @@
    "device": "aruba"
   }
  ],
+ "moto": [
+  {
+   "brand": "Motorola",
+   "name": "moto e22",
+   "device": "borag"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto e22i",
+   "device": "borago"
+  }
+ ],
+ "moto e22": [
+  {
+   "brand": "Motorola",
+   "name": "moto e22",
+   "device": "borag"
+  }
+ ],
+ "moto e22i": [
+  {
+   "brand": "Motorola",
+   "name": "moto e22i",
+   "device": "borago"
+  }
+ ],
  "cyprus": [
   {
    "brand": "Motorola",
@@ -143338,6 +143426,11 @@
    "brand": "Multilaser",
    "name": "M10 4G NOVA",
    "device": "ML_SO0C_M10_4G_NOVA"
+  },
+  {
+   "brand": "Multilaser",
+   "name": "M10 4G NOVA",
+   "device": "ML_SO1C_M10_4G_NOVA"
   }
  ],
  "M10-4G-T3": [
@@ -144544,6 +144637,13 @@
    "brand": "MyPhone (PL)",
    "name": "myPhone_Prime_2",
    "device": "myPhone_Prime_2"
+  }
+ ],
+ "My-10-13-1": [
+  {
+   "brand": "MyTab_pro",
+   "name": "My-10-13-1",
+   "device": "MyTab_Pro_13"
   }
  ],
  "TVie 1B": [
@@ -148169,18 +148269,6 @@
    "brand": "Nexian",
    "name": "journey one",
    "device": "Mi438S_sprout"
-  }
- ],
- "N3": [
-  {
-   "brand": "Next Learning",
-   "name": "Nexttab N3",
-   "device": "N3"
-  },
-  {
-   "brand": "iQandT",
-   "name": "N3",
-   "device": "N3"
   }
  ],
  "GO7BSC": [
@@ -209204,6 +209292,13 @@
    "device": "Neo_7_Ultra"
   }
  ],
+ "Sparx S7": [
+  {
+   "brand": "SparX",
+   "name": "S7",
+   "device": "Sparx_S7"
+  }
+ ],
  "Sparx Neo 7": [
   {
    "brand": "SparX",
@@ -225531,6 +225626,13 @@
    "device": "T40Air"
   }
  ],
+ "T40 Air": [
+  {
+   "brand": "Teclast",
+   "name": "T40Air_ROW",
+   "device": "T40Air_ROW"
+  }
+ ],
  "T40 PRO_ROW": [
   {
    "brand": "Teclast",
@@ -241327,6 +241429,13 @@
    "device": "PD2245"
   }
  ],
+ "V2239A": [
+  {
+   "brand": "Vivo",
+   "name": "vivo S16e",
+   "device": "PD2239"
+  }
+ ],
  "V2285A": [
   {
    "brand": "Vivo",
@@ -249558,6 +249667,13 @@
    "brand": "YOUIN",
    "name": "SEI600EN",
    "device": "HND"
+  }
+ ],
+ "YETC 1123": [
+  {
+   "brand": "YOUNG",
+   "name": "YETC_1123",
+   "device": "YETC_1123"
   }
  ],
  "YOUTAB S7": [
@@ -263303,6 +263419,13 @@
    "brand": "benco",
    "name": "AE9240",
    "device": "AE9240"
+  }
+ ],
+ "AE9310": [
+  {
+   "brand": "benco",
+   "name": "AE9310",
+   "device": "AE9310"
   }
  ],
  "AE9950": [
