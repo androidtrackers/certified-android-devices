@@ -7266,6 +7266,11 @@
    "model": "2K Smart TV"
   },
   {
+   "brand": "KTCtv",
+   "device": "mountbaker",
+   "model": "EcoTV FHD"
+  },
+  {
    "brand": "KUNFT",
    "device": "redwood",
    "model": "AI PONT"
@@ -7754,6 +7759,11 @@
    "brand": "ANAM",
    "device": "seocho",
    "model": "ANAM 4K Android TV"
+  },
+  {
+   "brand": "MTC",
+   "device": "shilin",
+   "model": "ANAM4KAndroidTV"
   }
  ],
  "B7V1-STK": [
@@ -13855,6 +13865,16 @@
    "brand": "Aiwa",
    "device": "KSTB6043",
    "model": "KSTB6043"
+  },
+  {
+   "brand": "Aiwa",
+   "device": "hongkong",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Aiwa",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
   }
  ],
  "JA2-SMP0601": [
@@ -24473,6 +24493,18 @@
    "model": "SV11"
   }
  ],
+ "AZATECH": [
+  {
+   "brand": "Azatech",
+   "device": "stanford",
+   "model": "SMART TV"
+  },
+  {
+   "brand": "Azatech",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
+  }
+ ],
  "AT1011E": [
   {
    "brand": "Azeyou",
@@ -25859,6 +25891,13 @@
    "model": "X80-EEA"
   }
  ],
+ "H634_BLK": [
+  {
+   "brand": "BERGSTROM",
+   "device": "H634_BLK",
+   "model": "H634 BLK"
+  }
+ ],
  "BGH 2K Android TV": [
   {
    "brand": "BGH S.A.",
@@ -26002,6 +26041,11 @@
    "brand": "BLECK",
    "device": "ELEMENT",
    "model": "ELEMENT"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
   }
  ],
  "O2": [
@@ -29339,6 +29383,18 @@
    "brand": "Battcell",
    "device": "M7042F",
    "model": "M7042F"
+  }
+ ],
+ "BAUF": [
+  {
+   "brand": "Bauf",
+   "device": "stanford",
+   "model": "SMART TV"
+  },
+  {
+   "brand": "Bauf",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
   }
  ],
  "4K Smart TV": [
@@ -33020,6 +33076,11 @@
   },
   {
    "brand": "Blaupunkt",
+   "device": "hongkong",
+   "model": "BLAUPUNKT GOOGLE TV 4K"
+  },
+  {
+   "brand": "Blaupunkt",
    "device": "stanford",
    "model": "CSV2K"
   },
@@ -33098,8 +33159,33 @@
   },
   {
    "brand": "Blaupunkt",
+   "device": "expo",
+   "model": "4K Blaupunkt Google TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "device": "kaitak",
+   "model": "Blaupunkt Google TV"
+  },
+  {
+   "brand": "Blaupunkt",
    "device": "komagome",
    "model": "BLAUPUNKT 2K Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "device": "lavender",
+   "model": "BLAUPUNKT GOOGLE TV 4K"
+  },
+  {
+   "brand": "Blaupunkt",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "device": "mountbaker",
+   "model": "BLAUPUNKT GOOGLE TV"
   },
   {
    "brand": "Blaupunkt",
@@ -33110,6 +33196,11 @@
    "brand": "Blaupunkt",
    "device": "sindang",
    "model": "BLAU-TVE19H"
+  },
+  {
+   "brand": "Blaupunkt",
+   "device": "tennoji",
+   "model": "2K Blaupunkt Google TV"
   },
   {
    "brand": "Blaupunkt",
@@ -34568,6 +34659,11 @@
    "brand": "Blu",
    "device": "G0890",
    "model": "G33"
+  },
+  {
+   "brand": "Blu",
+   "device": "G0892",
+   "model": "G33"
   }
  ],
  "G40": [
@@ -34826,6 +34922,13 @@
    "brand": "Blu",
    "device": "G0560WW",
    "model": "G71 PLUS"
+  }
+ ],
+ "G72 MAX": [
+  {
+   "brand": "Blu",
+   "device": "G0770",
+   "model": "G72 MAX"
   }
  ],
  "G73": [
@@ -35224,12 +35327,22 @@
    "brand": "Blu",
    "device": "M0223_ND",
    "model": "M10L PLUS"
+  },
+  {
+   "brand": "Blu",
+   "device": "M0224_ND",
+   "model": "M10L PLUS"
   }
  ],
  "M10L Pro": [
   {
    "brand": "Blu",
    "device": "M0214_ND",
+   "model": "M10L Pro"
+  },
+  {
+   "brand": "Blu",
+   "device": "M0215_ND",
    "model": "M10L Pro"
   }
  ],
@@ -35703,6 +35816,11 @@
   {
    "brand": "Blu",
    "device": "S0690WW",
+   "model": "S91"
+  },
+  {
+   "brand": "Premio",
+   "device": "S91",
    "model": "S91"
   }
  ],
@@ -38715,6 +38833,13 @@
    "brand": "CMCC",
    "device": "m811hk",
    "model": "M811"
+  }
+ ],
+ "ENOS": [
+  {
+   "brand": "COCOMM",
+   "device": "ENOS",
+   "model": "ENOS"
   }
  ],
  "F900": [
@@ -42814,6 +42939,27 @@
    "model": "CM82"
   }
  ],
+ "CM826": [
+  {
+   "brand": "Cidea",
+   "device": "CM826",
+   "model": "CM826"
+  }
+ ],
+ "CM90": [
+  {
+   "brand": "Cidea",
+   "device": "CM90",
+   "model": "CM90"
+  }
+ ],
+ "CM91_EEA": [
+  {
+   "brand": "Cidea",
+   "device": "CM91_EEA",
+   "model": "CM91_EEA"
+  }
+ ],
  "CS20": [
   {
    "brand": "Ciontek",
@@ -45282,6 +45428,18 @@
    "brand": "Fresh",
    "device": "yeongdeungpo",
    "model": "Fresh UHD Android TV"
+  }
+ ],
+ "CONTI": [
+  {
+   "brand": "Conti",
+   "device": "stanford",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "Conti",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
   }
  ],
  "CE10402": [
@@ -51010,6 +51168,33 @@
    "model": "People_Plus"
   }
  ],
+ "DAHUA": [
+  {
+   "brand": "Dahua",
+   "device": "stanford",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "Dahua",
+   "device": "stanford",
+   "model": "40DSA"
+  },
+  {
+   "brand": "Dahua",
+   "device": "zhongshan",
+   "model": "43FCOL"
+  },
+  {
+   "brand": "Dahua",
+   "device": "zhongshan",
+   "model": "43FSA"
+  },
+  {
+   "brand": "Dahua",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
+  }
+ ],
  "A-DA": [
   {
    "brand": "Daihatsu",
@@ -55751,6 +55936,11 @@
    "brand": "Doogee",
    "device": "X20L",
    "model": "X20L"
+  },
+  {
+   "brand": "JTYPDA",
+   "device": "X20L",
+   "model": "X20L"
   }
  ],
  "X5  MAX": [
@@ -57683,6 +57873,16 @@
   },
   {
    "brand": "EKO",
+   "device": "expo",
+   "model": "4K EKO Google TV"
+  },
+  {
+   "brand": "EKO",
+   "device": "kaitak",
+   "model": "EKO Google TV"
+  },
+  {
+   "brand": "EKO",
    "device": "komagome",
    "model": "EKO 2K Android TV"
   },
@@ -57690,6 +57890,11 @@
    "brand": "EKO",
    "device": "shilin",
    "model": "EKO 4K Android TV"
+  },
+  {
+   "brand": "EKO",
+   "device": "tennoji",
+   "model": "2K EKO Google TV"
   },
   {
    "brand": "EKO",
@@ -57794,8 +57999,38 @@
   },
   {
    "brand": "JVC",
+   "device": "hongkong",
+   "model": "JVC 4K ATSC TV"
+  },
+  {
+   "brand": "JVC",
+   "device": "hongkong",
+   "model": "JVC 4K DVB TV"
+  },
+  {
+   "brand": "JVC",
+   "device": "hongkong",
+   "model": "JVC 4K ISDB TV"
+  },
+  {
+   "brand": "JVC",
+   "device": "kaitak",
+   "model": "4KGoogle TV"
+  },
+  {
+   "brand": "JVC",
    "device": "kaitak",
    "model": "JVCPA 4KAndroid TV"
+  },
+  {
+   "brand": "JVC",
+   "device": "kaitak",
+   "model": "JVCSA 4KGoogleTV"
+  },
+  {
+   "brand": "JVC",
+   "device": "kaitak",
+   "model": "Platinum Google TV"
   },
   {
    "brand": "JVC",
@@ -57811,6 +58046,31 @@
    "brand": "JVC",
    "device": "komagome",
    "model": "JVC EU 2K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "device": "lavender",
+   "model": "JVC 4K DVB TV"
+  },
+  {
+   "brand": "JVC",
+   "device": "lavender",
+   "model": "JVC 4K ISDB TV"
+  },
+  {
+   "brand": "JVC",
+   "device": "mountbaker",
+   "model": "JVC 2K ATSC TV"
+  },
+  {
+   "brand": "JVC",
+   "device": "mountbaker",
+   "model": "JVC 2K DVB TV"
+  },
+  {
+   "brand": "JVC",
+   "device": "mountbaker",
+   "model": "JVC 2K ISDB TV"
   },
   {
    "brand": "JVC",
@@ -57836,6 +58096,11 @@
    "brand": "JVC",
    "device": "shilin",
    "model": "JVC PA 4K Android TV"
+  },
+  {
+   "brand": "JVC",
+   "device": "shilin",
+   "model": "JVC UK 4K Android TV"
   },
   {
    "brand": "JVC",
@@ -57869,6 +58134,16 @@
   },
   {
    "brand": "JVC",
+   "device": "tennoji",
+   "model": "JVCPA 2KAndroid TV"
+  },
+  {
+   "brand": "JVC",
+   "device": "tennoji",
+   "model": "JVCSA 2KGoogle TV"
+  },
+  {
+   "brand": "JVC",
    "device": "zhongshan",
    "model": "4K SMART TV"
   },
@@ -57876,6 +58151,11 @@
    "brand": "JVC",
    "device": "zhongshan",
    "model": "COL 4K SMART TV"
+  },
+  {
+   "brand": "MTC",
+   "device": "shilin",
+   "model": "JVC US 4K Android TV"
   }
  ],
  "KATV10": [
@@ -58001,8 +58281,23 @@
   },
   {
    "brand": "ELEXIA",
+   "device": "bruno",
+   "model": "ELEXIA2KAndroidTV"
+  },
+  {
+   "brand": "ELEXIA",
+   "device": "expo",
+   "model": "4K ELEXIA Google TV"
+  },
+  {
+   "brand": "ELEXIA",
    "device": "komagome",
    "model": "ELEXIA 2K Android TV"
+  },
+  {
+   "brand": "ELEXIA",
+   "device": "tennoji",
+   "model": "2K ELEXIA Google TV"
   }
  ],
  "Tab101": [
@@ -58141,6 +58436,13 @@
    "brand": "ELO Touch",
    "device": "Elo-PP3-13",
    "model": "Elo-PP3-13"
+  }
+ ],
+ "ECQ-DAT01": [
+  {
+   "brand": "ELSONIC",
+   "device": "ECQ-DAT01",
+   "model": "ECQ-DAT01"
   }
  ],
  "ESD": [
@@ -59324,6 +59626,23 @@
    "model": "NASCO_Allure"
   }
  ],
+ "Electroman": [
+  {
+   "brand": "Electroman",
+   "device": "hongkong",
+   "model": "Smart UHD TV"
+  },
+  {
+   "brand": "Electroman",
+   "device": "stanford",
+   "model": "Smart FHD TV"
+  },
+  {
+   "brand": "Electroman",
+   "device": "zhongshan",
+   "model": "Smart UHD TV"
+  }
+ ],
  "electroneumM1": [
   {
    "brand": "Electroneum",
@@ -59332,6 +59651,21 @@
   }
  ],
  "Element": [
+  {
+   "brand": "Element",
+   "device": "bruno",
+   "model": "Element2KAndroidTV"
+  },
+  {
+   "brand": "Element",
+   "device": "kaitak",
+   "model": "ElementPlatiumTV"
+  },
+  {
+   "brand": "Element",
+   "device": "shilin",
+   "model": "Element4KAndroidTV"
+  },
   {
    "brand": "Element",
    "device": "tennoji",
@@ -60259,6 +60593,13 @@
    "brand": "Engel",
    "device": "bangbae",
    "model": "Engel 4K Android TV"
+  }
+ ],
+ "ENGLAON": [
+  {
+   "brand": "Englaon",
+   "device": "stanford",
+   "model": "2K SMART TV"
   }
  ],
  "CINK KING": [
@@ -62636,6 +62977,13 @@
    "model": "Q10_EEA"
   }
  ],
+ "Q3-EEA": [
+  {
+   "brand": "FACETEL",
+   "device": "Q3-EEA",
+   "model": "Q3-EEA"
+  }
+ ],
  "Q3-pro": [
   {
    "brand": "FACETEL",
@@ -62669,6 +63017,13 @@
    "brand": "FACETEL",
    "device": "Q5_EEA",
    "model": "3W_EEA"
+  }
+ ],
+ "Q5_US": [
+  {
+   "brand": "FACETEL",
+   "device": "Q5_US",
+   "model": "3W_US"
   }
  ],
  "Facilotab_L_Rubis": [
@@ -63531,6 +63886,13 @@
    "brand": "FarEasTone",
    "device": "Smart601",
    "model": "Smart601"
+  }
+ ],
+ "FASTLIFE": [
+  {
+   "brand": "Fastlife",
+   "device": "zhongshan",
+   "model": "SMART TV"
   }
  ],
  "FW-Plus Ultra 4K Box1": [
@@ -67504,6 +67866,13 @@
    "model": "G200"
   }
  ],
+ "GDL Xtreme6": [
+  {
+   "brand": "GDL(BD)",
+   "device": "Xtreme_6",
+   "model": "Xtreme 6"
+  }
+ ],
  "MB10": [
   {
    "brand": "GDM (es)",
@@ -68221,6 +68590,18 @@
    "brand": "Gateway",
    "device": "GWAT8_1",
    "model": "GWAT8_1"
+  }
+ ],
+ "GAZER": [
+  {
+   "brand": "Gazer",
+   "device": "stanford",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "Gazer",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
   }
  ],
  "ADP-503G": [
@@ -85126,6 +85507,21 @@
   },
   {
    "brand": "KTCtv",
+   "device": "hongkong",
+   "model": "GLOBAL GOOGLE TV 4K"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "lavender",
+   "model": "GLOBAL GOOGLE TV 4K"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "mountbaker",
+   "model": "GLOBAL GOOGLE TV"
+  },
+  {
+   "brand": "KTCtv",
    "device": "stanford",
    "model": "CSV2K"
   }
@@ -96110,6 +96506,11 @@
  "Infiniton": [
   {
    "brand": "INFINITON",
+   "device": "bruno",
+   "model": "Infiniton2KAndroidTV"
+  },
+  {
+   "brand": "INFINITON",
    "device": "shilin",
    "model": "Infiniton4KAndroidTV"
   },
@@ -96833,6 +97234,11 @@
    "brand": "Nokia",
    "device": "Nokia_N1",
    "model": "N1"
+  },
+  {
+   "brand": "OnePlus",
+   "device": "songni",
+   "model": "S70A"
   },
   {
    "brand": "Oppo",
@@ -97569,6 +97975,21 @@
   }
  ],
  "Indurama": [
+  {
+   "brand": "Indurama",
+   "device": "hongkong",
+   "model": "INDURAMA GOOGLE TV 4K"
+  },
+  {
+   "brand": "Indurama",
+   "device": "lavender",
+   "model": "INDURAMA GOOGLE TV 4K"
+  },
+  {
+   "brand": "Indurama",
+   "device": "mountbaker",
+   "model": "INDURAMA GOOGLE TV"
+  },
   {
    "brand": "Indurama",
    "device": "stanford",
@@ -99108,6 +99529,13 @@
    "brand": "OMIX",
    "device": "X600",
    "model": "X600"
+  }
+ ],
+ "ZERO 30 5G": [
+  {
+   "brand": "Infinix",
+   "device": "Infinix-X6731",
+   "model": "Infinix X6731"
   }
  ],
  "ZERO 5G": [
@@ -103995,6 +104423,18 @@
    "model": "S502"
   }
  ],
+ "JAM": [
+  {
+   "brand": "Jam",
+   "device": "hongkong",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Jam",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
+  }
+ ],
  "HT1": [
   {
    "brand": "Janam",
@@ -105844,6 +106284,27 @@
    "model": "KM-E100"
   }
  ],
+ "EcoTVCOL": [
+  {
+   "brand": "KTC",
+   "device": "lavender",
+   "model": "EcoTV C"
+  }
+ ],
+ "EcoTVDVB": [
+  {
+   "brand": "KTC",
+   "device": "lavender",
+   "model": "EcoTV D"
+  }
+ ],
+ "EcoTVISDB": [
+  {
+   "brand": "KTC",
+   "device": "lavender",
+   "model": "EcoTV"
+  }
+ ],
  "BLISS503": [
   {
    "brand": "KTC (PD)",
@@ -105870,30 +106331,6 @@
    "model": "2K SMART TV"
   }
  ],
- "AZATECH": [
-  {
-   "brand": "KTCtv",
-   "device": "stanford",
-   "model": "SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "device": "zhongshan",
-   "model": "4K SMART TV"
-  }
- ],
- "BAUF": [
-  {
-   "brand": "KTCtv",
-   "device": "stanford",
-   "model": "SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "device": "zhongshan",
-   "model": "4K SMART TV"
-  }
- ],
  "Banana": [
   {
    "brand": "KTCtv",
@@ -105913,46 +106350,34 @@
    "model": "4K SMART TV"
   }
  ],
- "CONTI": [
+ "DANILUX": [
   {
    "brand": "KTCtv",
-   "device": "stanford",
-   "model": "2K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "device": "zhongshan",
+   "device": "hongkong",
    "model": "4K SMART TV"
-  }
- ],
- "DAHUA": [
+  },
   {
    "brand": "KTCtv",
-   "device": "stanford",
+   "device": "mountbaker",
    "model": "2K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "device": "stanford",
-   "model": "40DSA"
-  },
-  {
-   "brand": "KTCtv",
-   "device": "zhongshan",
-   "model": "43FCOL"
-  },
-  {
-   "brand": "KTCtv",
-   "device": "zhongshan",
-   "model": "43FSA"
-  },
-  {
-   "brand": "KTCtv",
-   "device": "zhongshan",
-   "model": "4K SMART TV"
   }
  ],
  "DIGGIO": [
+  {
+   "brand": "KTCtv",
+   "device": "hongkong",
+   "model": "DIGGIO GOOGLE TV 4K"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "lavender",
+   "model": "DIGGIO GOOGLE TV 4K"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "mountbaker",
+   "model": "DIGGIO GOOGLE TV"
+  },
   {
    "brand": "KTCtv",
    "device": "stanford",
@@ -105964,17 +106389,15 @@
    "model": "CSV4K"
   }
  ],
- "ELECTROMAN": [
+ "ESLEY": [
   {
    "brand": "KTCtv",
-   "device": "stanford",
-   "model": "Smart FHD TV"
-  }
- ],
- "ENGLAON": [
+   "device": "lavender",
+   "model": "4K SMART TV"
+  },
   {
    "brand": "KTCtv",
-   "device": "stanford",
+   "device": "mountbaker",
    "model": "2K SMART TV"
   }
  ],
@@ -105997,32 +106420,6 @@
    "brand": "KTCtv",
    "device": "hongkong",
    "model": "EcoTV Plus D"
-  }
- ],
- "Electroman": [
-  {
-   "brand": "KTCtv",
-   "device": "zhongshan",
-   "model": "Smart UHD TV"
-  }
- ],
- "FASTLIFE": [
-  {
-   "brand": "KTCtv",
-   "device": "zhongshan",
-   "model": "SMART TV"
-  }
- ],
- "GAZER": [
-  {
-   "brand": "KTCtv",
-   "device": "stanford",
-   "model": "2K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "device": "zhongshan",
-   "model": "4K SMART TV"
   }
  ],
  "Golbal": [
@@ -106052,6 +106449,21 @@
  "INNOVA": [
   {
    "brand": "KTCtv",
+   "device": "hongkong",
+   "model": "INNOVA GOOGLE TV 4K"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "lavender",
+   "model": "INNOVA GOOGLE TV 4K"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "mountbaker",
+   "model": "INNOVA GOOGLE TV"
+  },
+  {
+   "brand": "KTCtv",
    "device": "stanford",
    "model": "CSV2K"
   },
@@ -106059,13 +106471,6 @@
    "brand": "KTCtv",
    "device": "zhongshan",
    "model": "CSV4K"
-  }
- ],
- "KENSTAR": [
-  {
-   "brand": "KTCtv",
-   "device": "stanford",
-   "model": "2K SMART TV"
   }
  ],
  "KTC": [
@@ -106081,18 +106486,6 @@
   }
  ],
  "LikeMe": [
-  {
-   "brand": "KTCtv",
-   "device": "zhongshan",
-   "model": "4K SMART TV"
-  }
- ],
- "MTEK": [
-  {
-   "brand": "KTCtv",
-   "device": "stanford",
-   "model": "2K SMART TV"
-  },
   {
    "brand": "KTCtv",
    "device": "zhongshan",
@@ -106119,6 +106512,21 @@
  "NAKAMICHI": [
   {
    "brand": "KTCtv",
+   "device": "hongkong",
+   "model": "NAKAMICHI GOOGLE TV 4K"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "lavender",
+   "model": "NAKAMICHI GOOGLE TV 4K"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "mountbaker",
+   "model": "NAKAMICHI GOOGLE TV"
+  },
+  {
+   "brand": "KTCtv",
    "device": "stanford",
    "model": "CSV2K"
   },
@@ -106128,23 +106536,11 @@
    "model": "CSV4K"
   }
  ],
- "NEXT_G": [
+ "PHIMARK": [
   {
    "brand": "KTCtv",
-   "device": "stanford",
-   "model": "2K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "device": "zhongshan",
+   "device": "lavender",
    "model": "4K SMART TV"
-  }
- ],
- "Nobrand": [
-  {
-   "brand": "KTCtv",
-   "device": "stanford",
-   "model": "Smart FHD TV"
   }
  ],
  "POWER GREEN": [
@@ -106161,32 +106557,18 @@
    "model": "2K SMART TV"
   }
  ],
- "PROMETHEUS": [
+ "RENYA": [
   {
    "brand": "KTCtv",
-   "device": "stanford",
-   "model": "SMART TV"
-  }
- ],
- "ROSSO": [
-  {
-   "brand": "KTCtv",
-   "device": "zhongshan",
-   "model": "4K SMART TV"
-  }
- ],
- "ROYALRAHMANI": [
-  {
-   "brand": "KTCtv",
-   "device": "stanford",
+   "device": "mountbaker",
    "model": "2K SMART TV"
   }
  ],
- "Rosso": [
+ "REYNA": [
   {
    "brand": "KTCtv",
-   "device": "stanford",
-   "model": "40D"
+   "device": "hongkong",
+   "model": "4K SMART TV"
   }
  ],
  "SA": [
@@ -106230,18 +106612,6 @@
    "model": "4K SMART TV"
   }
  ],
- "SONEVIEW": [
-  {
-   "brand": "KTCtv",
-   "device": "stanford",
-   "model": "2K SMART TV"
-  },
-  {
-   "brand": "KTCtv",
-   "device": "zhongshan",
-   "model": "4K SMART TV"
-  }
- ],
  "Siera": [
   {
    "brand": "KTCtv",
@@ -106273,16 +106643,28 @@
    "model": "4K SMART TV"
   }
  ],
- "WISMANN": [
+ "VOXELECTRONICS": [
   {
    "brand": "KTCtv",
-   "device": "stanford",
-   "model": "2K SMART TV"
+   "device": "hongkong",
+   "model": "4K SMART TV"
   },
   {
    "brand": "KTCtv",
-   "device": "zhongshan",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
+  }
+ ],
+ "XELL": [
+  {
+   "brand": "KTCtv",
+   "device": "hongkong",
    "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
   }
  ],
  "Zitro": [
@@ -107310,11 +107692,60 @@
    "model": "MD7053G"
   }
  ],
+ "KENSTAR": [
+  {
+   "brand": "Kenstar",
+   "device": "stanford",
+   "model": "2K SMART TV"
+  }
+ ],
  "KWSA80K": [
   {
    "brand": "Kenwood",
    "device": "XP8800",
    "model": "KWSA80K"
+  }
+ ],
+ "Kenwood": [
+  {
+   "brand": "Kenwood",
+   "device": "hongkong",
+   "model": "KENWOOD ATSC 4K TV"
+  },
+  {
+   "brand": "Kenwood",
+   "device": "hongkong",
+   "model": "KENWOOD DVB 4K TV"
+  },
+  {
+   "brand": "Kenwood",
+   "device": "hongkong",
+   "model": "KENWOOD ISDB 4K TV"
+  },
+  {
+   "brand": "Kenwood",
+   "device": "lavender",
+   "model": "KENWOOD DVB 4K TV"
+  },
+  {
+   "brand": "Kenwood",
+   "device": "lavender",
+   "model": "KENWOOD ISDB 4K TV"
+  },
+  {
+   "brand": "Kenwood",
+   "device": "mountbaker",
+   "model": "KENWOOD ATSC 2K TV"
+  },
+  {
+   "brand": "Kenwood",
+   "device": "mountbaker",
+   "model": "KENWOOD DVB 2K TV"
+  },
+  {
+   "brand": "Kenwood",
+   "device": "mountbaker",
+   "model": "KENWOOD ISDB 2K TV"
   }
  ],
  "6Cb": [
@@ -108405,6 +108836,13 @@
    "brand": "Kodak",
    "device": "IM5",
    "model": "IM5"
+  }
+ ],
+ "KODAK": [
+  {
+   "brand": "Kodak",
+   "device": "shilin",
+   "model": "KODAK4KAndroidTV"
   }
  ],
  "KODAK SMARTWAY L1 PRO": [
@@ -117977,6 +118415,13 @@
    "brand": "LT_Mobile",
    "device": "LT_mobile_S22",
    "model": "S22"
+  }
+ ],
+ "LUCMOS": [
+  {
+   "brand": "LUCOMS",
+   "device": "hongkong",
+   "model": "4K SMART TV"
   }
  ],
  "LUCOMS": [
@@ -128225,6 +128670,11 @@
   },
   {
    "brand": "MGS",
+   "device": "bruno",
+   "model": "MGS2KAndroidTV"
+  },
+  {
+   "brand": "MGS",
    "device": "expo",
    "model": "4K MGS Google TV"
   },
@@ -128232,6 +128682,11 @@
    "brand": "MGS",
    "device": "komagome",
    "model": "MGS 2K Android TV"
+  },
+  {
+   "brand": "MGS",
+   "device": "tennoji",
+   "model": "2K MGS Google TV"
   }
  ],
  "TRECFONE_A21S": [
@@ -128926,6 +129381,20 @@
    "model": "MTC 982"
   }
  ],
+ "ANDRINO": [
+  {
+   "brand": "MTC",
+   "device": "shilin",
+   "model": "andrino 4K Android TV"
+  }
+ ],
+ "DWSUMMUS": [
+  {
+   "brand": "MTC",
+   "device": "shilin",
+   "model": "DWSUMMUS4KAndroidTV"
+  }
+ ],
  "ENTV": [
   {
    "brand": "MTC",
@@ -128938,11 +129407,30 @@
    "model": "ENTV4KAndroidTV"
   }
  ],
+ "GRANZ": [
+  {
+   "brand": "MTC",
+   "device": "shilin",
+   "model": "GRANZ4KAndroidTV"
+  }
+ ],
  "Hansung": [
   {
    "brand": "MTC",
    "device": "seocho",
    "model": "Hansung 4K Android TV"
+  },
+  {
+   "brand": "MTC",
+   "device": "shilin",
+   "model": "Hansung4KAndroidTV"
+  }
+ ],
+ "KLEINZ": [
+  {
+   "brand": "MTC",
+   "device": "shilin",
+   "model": "KLEINZ4KAndroidTV"
   }
  ],
  "Monex": [
@@ -128985,6 +129473,13 @@
    "model": "S4000-C0C10"
   }
  ],
+ "Sansui": [
+  {
+   "brand": "MTC",
+   "device": "shilin",
+   "model": "SANSUI4KAndroidTV"
+  }
+ ],
  "SmartEver": [
   {
    "brand": "MTC",
@@ -129002,6 +129497,13 @@
    "brand": "MTC",
    "device": "Smart_Light",
    "model": "Smart_Light"
+  }
+ ],
+ "Tesla": [
+  {
+   "brand": "MTC",
+   "device": "shilin",
+   "model": "Tesla4KAndroidTV"
   }
  ],
  "VINCENT": [
@@ -129026,6 +129528,13 @@
    "brand": "Vodafone",
    "device": "Vodafone_875",
    "model": "Vodafone 875"
+  }
+ ],
+ "WasabiMango": [
+  {
+   "brand": "MTC",
+   "device": "shilin",
+   "model": "WasabiMango4KAndroidTV"
   }
  ],
  "chile": [
@@ -129663,6 +130172,20 @@
    "model": "UV350"
   }
  ],
+ "MANGO": [
+  {
+   "brand": "Mango",
+   "device": "hongkong",
+   "model": "4K SMART TV"
+  }
+ ],
+ "Mango": [
+  {
+   "brand": "Mango",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
+  }
+ ],
  "Mango_S5": [
   {
    "brand": "Mango",
@@ -130222,6 +130745,18 @@
    "model": "Peru\""
   }
  ],
+ "Master-G": [
+  {
+   "brand": "Master-G",
+   "device": "hongkong",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Master-G",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
+  }
+ ],
  "HE2704": [
   {
    "brand": "MauritiusTelcom",
@@ -130524,6 +131059,13 @@
    "brand": "Maxwest",
    "device": "Astro_4R",
    "model": "Astro 4R"
+  }
+ ],
+ "Astro 4T": [
+  {
+   "brand": "Maxwest",
+   "device": "Astro_4T",
+   "model": "Astro 4T"
   }
  ],
  "Astro 5 Go LTE": [
@@ -137053,6 +137595,13 @@
    "model": "TB_MONDIAL_KID"
   }
  ],
+ "MONSTER": [
+  {
+   "brand": "Monster",
+   "device": "shilin",
+   "model": "MONSTER4KAndroidTV"
+  }
+ ],
  "Monsterpad7": [
   {
    "brand": "Monsterpad",
@@ -138773,6 +139322,26 @@
  "Motorola": [
   {
    "brand": "Motorola",
+   "device": "hongkong",
+   "model": "MOTOROLA GOOGLE TV 4K"
+  },
+  {
+   "brand": "Motorola",
+   "device": "hongkong",
+   "model": "MOTOROLA GOOGLE TV 4K ATSC"
+  },
+  {
+   "brand": "Motorola",
+   "device": "lavender",
+   "model": "MOTOROLA GOOGLE TV 4K"
+  },
+  {
+   "brand": "Motorola",
+   "device": "mountbaker",
+   "model": "MOTOROLA GOOGLE TV"
+  },
+  {
+   "brand": "Motorola",
    "device": "stanford",
    "model": "CSV2K"
   },
@@ -140148,6 +140717,13 @@
    "model": "moto g53j 5G"
   }
  ],
+ "moto g53y 5G": [
+  {
+   "brand": "Motorola",
+   "device": "penang",
+   "model": "moto g53y 5G"
+  }
+ ],
  "moto g6 play": [
   {
    "brand": "Motorola",
@@ -141328,6 +141904,18 @@
    "brand": "Mswipe",
    "device": "L200",
    "model": "L200"
+  }
+ ],
+ "MTEK": [
+  {
+   "brand": "Mtek",
+   "device": "stanford",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "Mtek",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
   }
  ],
  "F Max 2": [
@@ -146316,6 +146904,18 @@
    "model": "N7526"
   }
  ],
+ "NEXT_G": [
+  {
+   "brand": "Next-G",
+   "device": "stanford",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "Next-G",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
+  }
+ ],
  "Smart_Study_1": [
   {
    "brand": "Nexta",
@@ -146714,6 +147314,13 @@
    "brand": "Noblex",
    "device": "songshan",
    "model": "SmartTV 4K FFM"
+  }
+ ],
+ "Nobrand": [
+  {
+   "brand": "Nobrand",
+   "device": "stanford",
+   "model": "Smart FHD TV"
   }
  ],
  "DVN2KA01": [
@@ -149366,6 +149973,20 @@
    "brand": "OnePlus",
    "device": "Edinburgh",
    "model": "E00"
+  }
+ ],
+ "H93A": [
+  {
+   "brand": "OnePlus",
+   "device": "songni",
+   "model": "H93A"
+  }
+ ],
+ "N1 Pro": [
+  {
+   "brand": "OnePlus",
+   "device": "songni",
+   "model": "H80A"
   }
  ],
  "OnePlus": [
@@ -165485,6 +166106,13 @@
    "model": "OPS-A1"
   }
  ],
+ "PROMETHEUS": [
+  {
+   "brand": "Prometheus",
+   "device": "stanford",
+   "model": "SMART TV"
+  }
+ ],
  "PELTDVD1029": [
   {
    "brand": "Proscan",
@@ -168599,6 +169227,23 @@
    "model": "P780"
   }
  ],
+ "RANGS": [
+  {
+   "brand": "Rangs",
+   "device": "hongkong",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Rangs",
+   "device": "lavender",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Rangs",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
+  }
+ ],
  "Cell": [
   {
    "brand": "Ratel",
@@ -171050,6 +171695,13 @@
    "model": "P13 Blue Max Lite 2022"
   }
  ],
+ "P13_Blue_MaxL_2021": [
+  {
+   "brand": "Reeder",
+   "device": "P13_Blue_MaxL_2021",
+   "model": "P13 Blue MaxL 2021"
+  }
+ ],
  "P13_Blue_Plus_2022": [
   {
    "brand": "Reeder",
@@ -171678,6 +172330,32 @@
    "model": "myPhone Jet"
   }
  ],
+ "ROSSO": [
+  {
+   "brand": "Rosso",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
+  }
+ ],
+ "Rosso": [
+  {
+   "brand": "Rosso",
+   "device": "stanford",
+   "model": "40D"
+  }
+ ],
+ "ROYALRAHMANI": [
+  {
+   "brand": "Royal-rahmani",
+   "device": "hongkong",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Royal-rahmani",
+   "device": "stanford",
+   "model": "2K SMART TV"
+  }
+ ],
  "FGAD": [
   {
    "brand": "Royaltek",
@@ -172279,6 +172957,13 @@
    "brand": "SEBBE",
    "device": "S23_EEA",
    "model": "S23_EEA"
+  }
+ ],
+ "S23_EEA_A": [
+  {
+   "brand": "SEBBE",
+   "device": "S23_EEA_A",
+   "model": "S23_EEA_A"
   }
  ],
  "S23_M_US": [
@@ -192383,6 +193068,13 @@
    "model": "SH-52C"
   }
  ],
+ "AQUOS R8": [
+  {
+   "brand": "Sharp",
+   "device": "SH-52D",
+   "model": "SH-52D"
+  }
+ ],
  "AQUOS R8 pro": [
   {
    "brand": "Sharp",
@@ -194815,6 +195507,18 @@
    "model": "Blackphone 2"
   }
  ],
+ "SILO": [
+  {
+   "brand": "Silo",
+   "device": "hongkong",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Silo",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
+  }
+ ],
  "SL1021": [
   {
    "brand": "Silver line",
@@ -195191,6 +195895,18 @@
    "brand": "Siragon",
    "device": "SP-7100",
    "model": "SP-7100"
+  }
+ ],
+ "Siragon": [
+  {
+   "brand": "Siragon",
+   "device": "hongkong",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Siragon",
+   "device": "mountbaker",
+   "model": "2K SMART TV"
   }
  ],
  "Siragon_SP_7200": [
@@ -197275,6 +197991,18 @@
    "brand": "Solone",
    "device": "W1452",
    "model": "W1452"
+  }
+ ],
+ "SONEVIEW": [
+  {
+   "brand": "Soneview",
+   "device": "stanford",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "Soneview",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
   }
  ],
  "Ex-Handy 09": [
@@ -212745,6 +213473,13 @@
    "model": "F102-T610-EEA"
   }
  ],
+ "TEC-M1310": [
+  {
+   "brand": "TECHcomputer",
+   "device": "TEC-M1310",
+   "model": "TEC-M1310"
+  }
+ ],
  "K5T": [
   {
    "brand": "TECO",
@@ -212893,6 +213628,11 @@
   }
  ],
  "THEHAM": [
+  {
+   "brand": "THEHAM",
+   "device": "hongkong",
+   "model": "Smart UHD TV"
+  },
   {
    "brand": "THEHAM",
    "device": "stanford",
@@ -222562,6 +223302,13 @@
    "model": "MP21"
   }
  ],
+ "G2_Tab_Kids": [
+  {
+   "brand": "Umidigi",
+   "device": "G2_Tab_Kids",
+   "model": "MT11"
+  }
+ ],
  "G3 EEA": [
   {
    "brand": "Umidigi",
@@ -224893,6 +225640,11 @@
    "brand": "Veon",
    "device": "bruno",
    "model": "VEON 2K Android TV"
+  },
+  {
+   "brand": "Veon",
+   "device": "shilin",
+   "model": "VEON 4K Android TV"
   }
  ],
  "VEON 4K Smart TV": [
@@ -232023,6 +232775,13 @@
    "model": "Z22"
   }
  ],
+ "Vortex Z23": [
+  {
+   "brand": "Vortex",
+   "device": "Z23",
+   "model": "Z23"
+  }
+ ],
  "VortexV20": [
   {
    "brand": "Vortex",
@@ -235564,6 +236323,18 @@
    "model": "IRA_S2"
   }
  ],
+ "WISMANN": [
+  {
+   "brand": "Wismann",
+   "device": "stanford",
+   "model": "2K SMART TV"
+  },
+  {
+   "brand": "Wismann",
+   "device": "zhongshan",
+   "model": "4K SMART TV"
+  }
+ ],
  "DW-21(A)": [
   {
    "brand": "Wistron",
@@ -238387,6 +239158,13 @@
    "model": "ATV-101"
   }
  ],
+ "YCQ_Q88": [
+  {
+   "brand": "YCQ_SZ",
+   "device": "YCQ_Q88",
+   "model": "YCQ_Q88"
+  }
+ ],
  "TAB_101": [
   {
    "brand": "YELLYOUTH",
@@ -238591,6 +239369,13 @@
    "brand": "YSFEN",
    "device": "B9000",
    "model": "B9000"
+  }
+ ],
+ "Rugged tablet": [
+  {
+   "brand": "YSFPHONE",
+   "device": "Rugged_tablet",
+   "model": "Rugged_tablet"
   }
  ],
  "YUNICORN": [
@@ -238845,6 +239630,20 @@
    "brand": "YesTeL",
    "device": "Note_30_pro",
    "model": "Note 30 pro"
+  }
+ ],
+ "T13_EEA": [
+  {
+   "brand": "YesTeL",
+   "device": "T13_EEA",
+   "model": "T13_EEA"
+  }
+ ],
+ "T13_US": [
+  {
+   "brand": "YesTeL",
+   "device": "T13_US",
+   "model": "T13_US"
   }
  ],
  "T5-plus": [
@@ -249335,6 +250134,13 @@
    "model": "AWM533"
   }
  ],
+ "D106": [
+  {
+   "brand": "Zonko",
+   "device": "D106",
+   "model": "D106"
+  }
+ ],
  "D118": [
   {
    "brand": "Zonko",
@@ -253317,6 +254123,13 @@
    "brand": "onn.",
    "device": "mid8011",
    "model": "100003561"
+  }
+ ],
+ "10.4“ Tablet Pro": [
+  {
+   "brand": "onn.",
+   "device": "100110603",
+   "model": "100110603"
   }
  ],
  "100003562": [
