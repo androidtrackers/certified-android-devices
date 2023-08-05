@@ -6076,6 +6076,11 @@
    "model": "Nano Android TV"
   },
   {
+   "brand": "Profilo",
+   "name": "Turkey",
+   "model": "Profilo 4K Android TV"
+  },
+  {
    "brand": "QBell",
    "name": "Italy",
    "model": "Qbell 4K Android TV"
@@ -6104,6 +6109,11 @@
    "brand": "Tesla",
    "name": "Europe",
    "model": "Tesla Android TV"
+  },
+  {
+   "brand": "Thomson",
+   "name": "Europe",
+   "model": "Thomson TV"
   },
   {
    "brand": "Turbo-X",
@@ -6380,6 +6390,16 @@
   {
    "brand": "Tesla",
    "name": "EU、UK、AP",
+   "model": "Tesla Android TV"
+  },
+  {
+   "brand": "Tesla",
+   "name": "Venezuela",
+   "model": "Tesla 2K Android TV"
+  },
+  {
+   "brand": "Tesla",
+   "name": "Venezuela",
    "model": "Tesla Android TV"
   },
   {
@@ -8848,6 +8868,11 @@
   },
   {
    "brand": "Alhafidh",
+   "name": "R4_GTV",
+   "model": "R4G"
+  },
+  {
+   "brand": "Artel",
    "name": "R4_GTV",
    "model": "R4G"
   },
@@ -14836,9 +14861,94 @@
    "model": "Altus UHD Pro TV"
   },
   {
+   "brand": "Blaupunkt",
+   "name": "Europe",
+   "model": "Blaupunkt Smart TV"
+  },
+  {
+   "brand": "CAIXUN",
+   "name": "Columbia",
+   "model": "Apollo Premium4K TV"
+  },
+  {
    "brand": "CAIXUN",
    "name": "EXPRESS",
    "model": "Apollo Premium4K TV"
+  },
+  {
+   "brand": "CAIXUN",
+   "name": "Europe",
+   "model": "Fobem 4K SMART TV"
+  },
+  {
+   "brand": "CAIXUN",
+   "name": "Korea",
+   "model": "DWsummus 4K SMART TV"
+  },
+  {
+   "brand": "CAIXUN",
+   "name": "South of America",
+   "model": "Apollo Pro4K TV"
+  },
+  {
+   "brand": "Continental Edison",
+   "name": "CDI SMART TV",
+   "model": "CDI SMART TV"
+  },
+  {
+   "brand": "Exclusiv",
+   "name": "Columbia",
+   "model": "Apollo Premium4K TV"
+  },
+  {
+   "brand": "Hyundai",
+   "name": "BOLIVIA",
+   "model": "HYUNDAI SMART 4K TV"
+  },
+  {
+   "brand": "IMPEX",
+   "name": "IMPEX evoQ 4K",
+   "model": "IMPEX evoQ 4K"
+  },
+  {
+   "brand": "Inves",
+   "name": "Europe",
+   "model": "INVES SMART TV"
+  },
+  {
+   "brand": "Kodak",
+   "name": "Panama",
+   "model": "KODAK 4K Smart TV"
+  },
+  {
+   "brand": "Kodak",
+   "name": "South America",
+   "model": "KODAK Smart TV"
+  },
+  {
+   "brand": "Kogan",
+   "name": "Kogan G5",
+   "model": "Kogan G5"
+  },
+  {
+   "brand": "MULTYNET",
+   "name": "Pakistan",
+   "model": "MULTYNET 4K SMART TV"
+  },
+  {
+   "brand": "Nano",
+   "name": "Thailand",
+   "model": "Nano 4K SMART TV"
+  },
+  {
+   "brand": "Profilo",
+   "name": "Profilo Smart TV",
+   "model": "Profilo Smart TV"
+  },
+  {
+   "brand": "RCA",
+   "name": "US",
+   "model": "RCA 4K SMART TV"
   },
   {
    "brand": "Sansui",
@@ -14849,6 +14959,31 @@
    "brand": "Scanfrost",
    "name": "Nigeria",
    "model": "Scanfrost TV"
+  },
+  {
+   "brand": "Star-X",
+   "name": "Europe",
+   "model": "STAR-X 4K SMART TV"
+  },
+  {
+   "brand": "Thomson",
+   "name": "Thomson TV",
+   "model": "Thomson TV"
+  },
+  {
+   "brand": "Vega",
+   "name": "Europe",
+   "model": "VEGA Smart TV"
+  },
+  {
+   "brand": "Vision",
+   "name": "VISION 4K SMART TV",
+   "model": "VISION 4K SMART TV"
+  },
+  {
+   "brand": "XENON",
+   "name": "PHILIPPINES",
+   "model": "XENON ANDROID TV"
   }
  ],
  "Azumi_KIREI_A5Q_PLUS_AC06": [
@@ -18969,6 +19104,13 @@
    "brand": "Artel",
    "name": "GAPYOQ",
    "model": "GAP"
+  }
+ ],
+ "R3_GTV": [
+  {
+   "brand": "Artel",
+   "name": "R3_GTV",
+   "model": "R3G"
   }
  ],
  "Starpad": [
@@ -31881,6 +32023,83 @@
    "model": "Endeavour101"
   }
  ],
+ "nagata": [
+  {
+   "brand": "Blaupunkt",
+   "name": "Europe",
+   "model": "Blaupunkt Smart TV"
+  },
+  {
+   "brand": "CAIXUN",
+   "name": "Europe",
+   "model": "Fobem 2K SMART TV"
+  },
+  {
+   "brand": "Grunkel",
+   "name": "Europe",
+   "model": "GRUNKEL SMART TV"
+  },
+  {
+   "brand": "IMPEX",
+   "name": "IMPEX evoQ 2K",
+   "model": "IMPEX evoQ 2K"
+  },
+  {
+   "brand": "Invens",
+   "name": "Spain",
+   "model": "INVES SMART TV"
+  },
+  {
+   "brand": "MULTYNET",
+   "name": "Pakistan",
+   "model": "MULTYNET 2K SMART TV"
+  },
+  {
+   "brand": "Nano",
+   "name": "Thailand",
+   "model": "Nano 2K SMART TV"
+  },
+  {
+   "brand": "Profilo",
+   "name": "Turkey",
+   "model": "Profilo Smart TV"
+  },
+  {
+   "brand": "Sansui",
+   "name": "Apollo Premium2K TV",
+   "model": "Apollo Premium2K TV"
+  },
+  {
+   "brand": "Scanfrost",
+   "name": "Scanfrost TV",
+   "model": "Scanfrost TV"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "name": "Europe",
+   "model": "Apollo Premium2K TV"
+  },
+  {
+   "brand": "Star-X",
+   "name": "STAR-X 2K SMART TV",
+   "model": "STAR-X 2K SMART TV"
+  },
+  {
+   "brand": "Thomson",
+   "name": "Thomson TV",
+   "model": "Thomson TV"
+  },
+  {
+   "brand": "Vega",
+   "name": "VEGA Smart TV",
+   "model": "VEGA Smart TV"
+  },
+  {
+   "brand": "Vision",
+   "name": "VISION 2K SMART TV",
+   "model": "VISION 2K SMART TV"
+  }
+ ],
  "Guardian": [
   {
    "brand": "Blaupunkt",
@@ -35916,9 +36135,26 @@
    "model": "KANJI 4K Android TV"
   },
   {
+   "brand": "Kioto",
+   "name": "CHILE",
+   "model": "KIOTO 4K Android TV"
+  },
+  {
    "brand": "Tesla",
    "name": "South American",
    "model": "Tesla 4K Android TV"
+  },
+  {
+   "brand": "Tesla",
+   "name": "Venezuela",
+   "model": "Tesla Android TV"
+  }
+ ],
+ "cottongreen": [
+  {
+   "brand": "CAIXUN",
+   "name": "Sgamer",
+   "model": "Sgamer"
   }
  ],
  "LT5": [
@@ -99019,18 +99255,6 @@
    "model": "S1"
   }
  ],
- "nagata": [
-  {
-   "brand": "Invens",
-   "name": "Spain",
-   "model": "INVES SMART TV"
-  },
-  {
-   "brand": "Smart-Tech TV",
-   "name": "Europe",
-   "model": "Apollo Premium2K TV"
-  }
- ],
  "UNO": [
   {
    "brand": "Invens",
@@ -156883,6 +157107,11 @@
    "model": "23049PCD8G"
   },
   {
+   "brand": "POCO",
+   "name": "POCO F5",
+   "model": "23049PCD8I"
+  },
+  {
    "brand": "Redmi",
    "name": "Redmi Note 12 Turbo",
    "model": "23049RAD8C"
@@ -168029,6 +168258,13 @@
    "brand": "Quantum",
    "name": "Q-Test",
    "model": "Q-test"
+  }
+ ],
+ "Q03": [
+  {
+   "brand": "Quantum",
+   "name": "Q03",
+   "model": "Quantum Q03"
   }
  ],
  "QF3A": [
@@ -240760,6 +240996,18 @@
    "model": "BRIO_X31"
   }
  ],
+ "Ecuador\"": [
+  {
+   "brand": "Xtratech",
+   "name": "\"South America",
+   "model": "martin"
+  },
+  {
+   "brand": "Xtratech",
+   "name": "\"South America",
+   "model": "patrick"
+  }
+ ],
  "X10MT16": [
   {
    "brand": "Xtratech",
@@ -249809,6 +250057,13 @@
    "model": "ZTE V1050"
   }
  ],
+ "P606F07": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE 7060",
+   "model": "ZTE 7060"
+  }
+ ],
  "P720F02": [
   {
    "brand": "ZTE",
@@ -250491,6 +250746,13 @@
    "model": "ZTE Blade A33+ Core"
   }
  ],
+ "P963F93": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A33s",
+   "model": "ZTE Blade A33s"
+  }
+ ],
  "Z5157": [
   {
    "brand": "ZTE",
@@ -250987,6 +251249,13 @@
    "brand": "ZTE",
    "name": "nubia Z50 Ultra",
    "model": "NX712J"
+  }
+ ],
+ "PQ82A02": [
+  {
+   "brand": "ZTE",
+   "name": "nubia Z50S Pro",
+   "model": "NX713J"
   }
  ],
  "sapphire4g": [

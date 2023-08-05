@@ -6208,6 +6208,11 @@
    "device": "R4_GTV"
   },
   {
+   "brand": "Artel",
+   "name": "R4_GTV",
+   "device": "R4_GTV"
+  },
+  {
    "brand": "Brandt",
    "name": "R4_GTV",
    "device": "R4_GTV"
@@ -15294,6 +15299,13 @@
    "brand": "Artel",
    "name": "GAPYOQ",
    "device": "GAPYOQ"
+  }
+ ],
+ "R3G": [
+  {
+   "brand": "Artel",
+   "name": "R3_GTV",
+   "device": "R3_GTV"
   }
  ],
  "Starpad_T-181": [
@@ -27767,6 +27779,18 @@
    "device": "guandu"
   }
  ],
+ "Blaupunkt Smart TV": [
+  {
+   "brand": "Blaupunkt",
+   "name": "Europe",
+   "device": "marina"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "Europe",
+   "device": "nagata"
+  }
+ ],
  "BLAUPUNKT EU 2K Android TV": [
   {
    "brand": "Blaupunkt",
@@ -32119,6 +32143,28 @@
    "device": "yeongdeungpo"
   }
  ],
+ "Apollo Premium4K TV": [
+  {
+   "brand": "CAIXUN",
+   "name": "Columbia",
+   "device": "marina"
+  },
+  {
+   "brand": "CAIXUN",
+   "name": "EXPRESS",
+   "device": "marina"
+  },
+  {
+   "brand": "Exclusiv",
+   "name": "Columbia",
+   "device": "marina"
+  },
+  {
+   "brand": "Sansui",
+   "name": "North American",
+   "device": "marina"
+  }
+ ],
  "Aiplus4K": [
   {
    "brand": "CAIXUN",
@@ -32131,15 +32177,10 @@
    "device": "guandu"
   }
  ],
- "Apollo Premium4K TV": [
+ "Fobem 4K SMART TV": [
   {
    "brand": "CAIXUN",
-   "name": "EXPRESS",
-   "device": "marina"
-  },
-  {
-   "brand": "Sansui",
-   "name": "North American",
+   "name": "Europe",
    "device": "marina"
   }
  ],
@@ -32164,11 +32205,39 @@
    "device": "martin"
   }
  ],
+ "Fobem 2K SMART TV": [
+  {
+   "brand": "CAIXUN",
+   "name": "Europe",
+   "device": "nagata"
+  }
+ ],
+ "DWsummus 4K SMART TV": [
+  {
+   "brand": "CAIXUN",
+   "name": "Korea",
+   "device": "marina"
+  }
+ ],
  "AiPlus4KMY": [
   {
    "brand": "CAIXUN",
    "name": "Malaysia",
    "device": "yeongdeungpo"
+  }
+ ],
+ "Sgamer": [
+  {
+   "brand": "CAIXUN",
+   "name": "Sgamer",
+   "device": "cottongreen"
+  }
+ ],
+ "Apollo Pro4K TV": [
+  {
+   "brand": "CAIXUN",
+   "name": "South of America",
+   "device": "marina"
   }
  ],
  "Aipro4K": [
@@ -39088,6 +39157,13 @@
    "brand": "Conquest",
    "name": "conquest_S20_EEA",
    "device": "conquest_S20"
+  }
+ ],
+ "CDI SMART TV": [
+  {
+   "brand": "Continental Edison",
+   "name": "CDI SMART TV",
+   "device": "marina"
   }
  ],
  "CE10402": [
@@ -66237,6 +66313,13 @@
    "device": "martin"
   }
  ],
+ "GRUNKEL SMART TV": [
+  {
+   "brand": "Grunkel",
+   "name": "Europe",
+   "device": "nagata"
+  }
+ ],
  "GRUNKEL FHD Android TV": [
   {
    "brand": "Grunkel",
@@ -92666,6 +92749,13 @@
    "device": "redwood"
   }
  ],
+ "HYUNDAI SMART 4K TV": [
+  {
+   "brand": "Hyundai",
+   "name": "BOLIVIA",
+   "device": "marina"
+  }
+ ],
  "Blade_C5": [
   {
    "brand": "Hyundai",
@@ -93939,6 +94029,20 @@
    "brand": "IMPEX",
    "name": "Grande FHD TV",
    "device": "takao"
+  }
+ ],
+ "IMPEX evoQ 2K": [
+  {
+   "brand": "IMPEX",
+   "name": "IMPEX evoQ 2K",
+   "device": "nagata"
+  }
+ ],
+ "IMPEX evoQ 4K": [
+  {
+   "brand": "IMPEX",
+   "name": "IMPEX evoQ 4K",
+   "device": "marina"
   }
  ],
  "GKL089": [
@@ -98720,6 +98824,11 @@
    "brand": "Invens",
    "name": "Spain",
    "device": "nagata"
+  },
+  {
+   "brand": "Inves",
+   "name": "Europe",
+   "device": "marina"
   }
  ],
  "UNO": [
@@ -105903,6 +106012,13 @@
    "device": "Kinstone_SA070"
   }
  ],
+ "KIOTO 4K Android TV": [
+  {
+   "brand": "Kioto",
+   "name": "CHILE",
+   "device": "patrick"
+  }
+ ],
  "KIOTO 2K Android TV": [
   {
    "brand": "Kioto",
@@ -106678,6 +106794,13 @@
    "device": "Kodak_KD50"
   }
  ],
+ "KODAK 4K Smart TV": [
+  {
+   "brand": "Kodak",
+   "name": "Panama",
+   "device": "marina"
+  }
+ ],
  "SMARTWAY L2": [
   {
    "brand": "Kodak",
@@ -106711,6 +106834,13 @@
    "brand": "Kodak",
    "name": "Smartway_T1",
    "device": "Smartway_T1"
+  }
+ ],
+ "KODAK Smart TV": [
+  {
+   "brand": "Kodak",
+   "name": "South America",
+   "device": "marina"
   }
  ],
  "Kogan Agora 6Plus": [
@@ -106805,6 +106935,13 @@
    "brand": "Kogan",
    "name": "Kogan Agora XS",
    "device": "Kogan_Agora_XS"
+  }
+ ],
+ "Kogan G5": [
+  {
+   "brand": "Kogan",
+   "name": "Kogan G5",
+   "device": "marina"
   }
  ],
  "Kogan SmarterTV": [
@@ -130849,6 +130986,20 @@
    "device": "mu6"
   }
  ],
+ "MULTYNET 4K SMART TV": [
+  {
+   "brand": "MULTYNET",
+   "name": "Pakistan",
+   "device": "marina"
+  }
+ ],
+ "MULTYNET 2K SMART TV": [
+  {
+   "brand": "MULTYNET",
+   "name": "Pakistan",
+   "device": "nagata"
+  }
+ ],
  "MULTYNET FHD Android TV": [
   {
    "brand": "MULTYNET",
@@ -147913,6 +148064,20 @@
    "device": "osaki"
   }
  ],
+ "Nano 4K SMART TV": [
+  {
+   "brand": "Nano",
+   "name": "Thailand",
+   "device": "marina"
+  }
+ ],
+ "Nano 2K SMART TV": [
+  {
+   "brand": "Nano",
+   "name": "Thailand",
+   "device": "nagata"
+  }
+ ],
  "Nano FHD Android TV": [
   {
    "brand": "Nano",
@@ -159333,6 +159498,18 @@
    "device": "marble"
   }
  ],
+ "23049PCD8I": [
+  {
+   "brand": "POCO",
+   "name": "POCO F5",
+   "device": "marble"
+  },
+  {
+   "brand": "Redmi",
+   "name": "POCO F5",
+   "device": "marblein"
+  }
+ ],
  "M2004J19PI": [
   {
    "brand": "POCO",
@@ -168961,6 +169138,30 @@
    "device": "Pro_V5"
   }
  ],
+ "Profilo Smart TV": [
+  {
+   "brand": "Profilo",
+   "name": "Profilo Smart TV",
+   "device": "marina"
+  },
+  {
+   "brand": "Profilo",
+   "name": "Turkey",
+   "device": "nagata"
+  }
+ ],
+ "Profilo 4K Android TV": [
+  {
+   "brand": "Profilo",
+   "name": "Turkey",
+   "device": "guandu"
+  },
+  {
+   "brand": "Profilo",
+   "name": "Turkey",
+   "device": "yeongdeungpo"
+  }
+ ],
  "Profilo 2K Android TV": [
   {
    "brand": "Profilo",
@@ -168971,13 +169172,6 @@
    "brand": "Profilo",
    "name": "Turkey",
    "device": "tamachi"
-  }
- ],
- "Profilo 4K Android TV": [
-  {
-   "brand": "Profilo",
-   "name": "Turkey",
-   "device": "yeongdeungpo"
   }
  ],
  "H10885M": [
@@ -171051,6 +171245,13 @@
    "device": "S518AR"
   }
  ],
+ "Quantum Q03": [
+  {
+   "brand": "Quantum",
+   "name": "Q03",
+   "device": "Q03"
+  }
+ ],
  "QT-195W-aa2": [
   {
    "brand": "Quantum",
@@ -172042,6 +172243,13 @@
    "brand": "RCA",
    "name": "Smart TV",
    "device": "osaki"
+  }
+ ],
+ "RCA 4K SMART TV": [
+  {
+   "brand": "RCA",
+   "name": "US",
+   "device": "marina"
   }
  ],
  "RCT6873W42BMF8": [
@@ -173348,13 +173556,6 @@
    "brand": "Redmi",
    "name": "MiTV",
    "device": "rango"
-  }
- ],
- "23049PCD8I": [
-  {
-   "brand": "Redmi",
-   "name": "POCO F5",
-   "device": "marblein"
   }
  ],
  "Redmi 7A": [
@@ -198975,6 +199176,18 @@
    "device": "TS7K"
   }
  ],
+ "Apollo Premium2K TV": [
+  {
+   "brand": "Sansui",
+   "name": "Apollo Premium2K TV",
+   "device": "nagata"
+  },
+  {
+   "brand": "Smart-Tech TV",
+   "name": "Europe",
+   "device": "nagata"
+  }
+ ],
  "ETAB_M9021G": [
   {
    "brand": "Sansui",
@@ -199188,6 +199401,11 @@
    "brand": "Scanfrost",
    "name": "Nigeria",
    "device": "marina"
+  },
+  {
+   "brand": "Scanfrost",
+   "name": "Scanfrost TV",
+   "device": "nagata"
   }
  ],
  "Scanfrost 2K Android TV": [
@@ -205144,13 +205362,6 @@
    "device": "guandu"
   }
  ],
- "Apollo Premium2K TV": [
-  {
-   "brand": "Smart-Tech TV",
-   "name": "Europe",
-   "device": "nagata"
-  }
- ],
  "SML-5442TW": [
   {
    "brand": "SmartLabs",
@@ -210474,6 +210685,13 @@
    "device": "DV8040"
   }
  ],
+ "STAR-X 4K SMART TV": [
+  {
+   "brand": "Star-X",
+   "name": "Europe",
+   "device": "marina"
+  }
+ ],
  "STAR-X FHD Android TV": [
   {
    "brand": "Star-X",
@@ -210486,6 +210704,13 @@
    "brand": "Star-X",
    "name": "Middle East",
    "device": "yeongdeungpo"
+  }
+ ],
+ "STAR-X 2K SMART TV": [
+  {
+   "brand": "Star-X",
+   "name": "STAR-X 2K SMART TV",
+   "device": "nagata"
   }
  ],
  "STAR-X 2K Android TV": [
@@ -230034,6 +230259,11 @@
    "brand": "Tesla",
    "name": "EU",
    "device": "tamachi"
+  },
+  {
+   "brand": "Tesla",
+   "name": "Venezuela",
+   "device": "martin"
   }
  ],
  "Tesla 4K Android TV": [
@@ -230063,6 +230293,16 @@
    "brand": "Tesla",
    "name": "Europe",
    "device": "guandu"
+  },
+  {
+   "brand": "Tesla",
+   "name": "Venezuela",
+   "device": "martin"
+  },
+  {
+   "brand": "Tesla",
+   "name": "Venezuela",
+   "device": "patrick"
   }
  ],
  "Explr 9": [
@@ -230261,7 +230501,22 @@
   {
    "brand": "Thomson",
    "name": "Europe",
+   "device": "guandu"
+  },
+  {
+   "brand": "Thomson",
+   "name": "Europe",
    "device": "martin"
+  },
+  {
+   "brand": "Thomson",
+   "name": "Thomson TV",
+   "device": "marina"
+  },
+  {
+   "brand": "Thomson",
+   "name": "Thomson TV",
+   "device": "nagata"
   }
  ],
  "Friendly_TH101": [
@@ -235949,6 +236204,18 @@
    "device": "D2140-Cosmos"
   }
  ],
+ "VEGA Smart TV": [
+  {
+   "brand": "Vega",
+   "name": "Europe",
+   "device": "marina"
+  },
+  {
+   "brand": "Vega",
+   "name": "VEGA Smart TV",
+   "device": "nagata"
+  }
+ ],
  "VEGA 4K Android TV": [
   {
    "brand": "Vega",
@@ -238554,6 +238821,20 @@
    "brand": "Vision",
    "name": "Bangladesh",
    "device": "tamachi"
+  }
+ ],
+ "VISION 2K SMART TV": [
+  {
+   "brand": "Vision",
+   "name": "VISION 2K SMART TV",
+   "device": "nagata"
+  }
+ ],
+ "VISION 4K SMART TV": [
+  {
+   "brand": "Vision",
+   "name": "VISION 4K SMART TV",
+   "device": "marina"
   }
  ],
  "VISION SMART TV": [
@@ -248156,6 +248437,13 @@
    "device": "martin"
   }
  ],
+ "XENON ANDROID TV": [
+  {
+   "brand": "XENON",
+   "name": "PHILIPPINES",
+   "device": "marina"
+  }
+ ],
  "Halo": [
   {
    "brand": "XGIMI",
@@ -250302,6 +250590,20 @@
    "brand": "Xtratech",
    "name": "BRIO_X31",
    "device": "BRIO_X31"
+  }
+ ],
+ "martin": [
+  {
+   "brand": "Xtratech",
+   "name": "\"South America",
+   "device": "Ecuador\""
+  }
+ ],
+ "patrick": [
+  {
+   "brand": "Xtratech",
+   "name": "\"South America",
+   "device": "Ecuador\""
   }
  ],
  "X10MT16": [
@@ -260691,6 +260993,13 @@
    "device": "P671F50_D"
   }
  ],
+ "ZTE 7060": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE 7060",
+   "device": "P606F07"
+  }
+ ],
  "ZTE 7160N": [
   {
    "brand": "ZTE",
@@ -261597,6 +261906,13 @@
    "device": "P963F92"
   }
  ],
+ "ZTE Blade A33s": [
+  {
+   "brand": "ZTE",
+   "name": "ZTE Blade A33s",
+   "device": "P963F93"
+  }
+ ],
  "Z5157V": [
   {
    "brand": "ZTE",
@@ -262286,6 +262602,13 @@
    "brand": "ZTE",
    "name": "nubia Z50 Ultra",
    "device": "PQ82A11"
+  }
+ ],
+ "NX713J": [
+  {
+   "brand": "ZTE",
+   "name": "nubia Z50S Pro",
+   "device": "PQ82A02"
   }
  ],
  "Z3001S": [
