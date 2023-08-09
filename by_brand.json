@@ -57756,6 +57756,21 @@
    "model": "VNA-LX3"
   },
   {
+   "device": "HNWDY-M",
+   "name": "HONOR X5 Plus",
+   "model": "WOD-LX1"
+  },
+  {
+   "device": "HNWDY-M",
+   "name": "HONOR X5 Plus",
+   "model": "WOD-LX2"
+  },
+  {
+   "device": "HNWDY-M",
+   "name": "HONOR X5 Plus",
+   "model": "WOD-LX3"
+  },
+  {
    "device": "HNVNE-M",
    "name": "HONOR X6",
    "model": "VNE-LX1"
@@ -57769,6 +57784,21 @@
    "device": "HNVNE-M",
    "name": "HONOR X6",
    "model": "VNE-LX3"
+  },
+  {
+   "device": "HNWDY-M",
+   "name": "HONOR X6a",
+   "model": "WDY-LX1"
+  },
+  {
+   "device": "HNWDY-M",
+   "name": "HONOR X6a",
+   "model": "WDY-LX2"
+  },
+  {
+   "device": "HNWDY-M",
+   "name": "HONOR X6a",
+   "model": "WDY-LX3"
   },
   {
    "device": "HNCMA-Q",
@@ -73792,6 +73822,13 @@
    "model": "TPC-G109"
   }
  ],
+ "JCB_UK": [
+  {
+   "device": "JCB_TP231",
+   "name": "JCB_TP231",
+   "model": "JCB TP231"
+  }
+ ],
  "JEEMAK": [
   {
    "device": "M70",
@@ -75442,8 +75479,18 @@
    "model": "DX-A400"
   },
   {
+   "device": "DX-A400",
+   "name": "DX-A400_",
+   "model": "DX-A400"
+  },
+  {
    "device": "DX-A600",
    "name": "DX-A600",
+   "model": "DX-A600"
+  },
+  {
+   "device": "DX-A600",
+   "name": "DX-A600_",
    "model": "DX-A600"
   }
  ],
@@ -77953,6 +78000,11 @@
    "device": "IM5",
    "name": "IM5",
    "model": "IM5"
+  },
+  {
+   "device": "bruno",
+   "name": "KODAK",
+   "model": "KODAK2KAndroidTV"
   },
   {
    "device": "shilin",
@@ -96586,6 +96638,16 @@
    "model": "DV8304-C"
   },
   {
+   "device": "DV9157-C-KRM",
+   "name": "DV9157-C",
+   "model": "DV9157-C"
+  },
+  {
+   "device": "DV9135-KRM",
+   "name": "IPTVSTB",
+   "model": "DV9135"
+  },
+  {
    "device": "Smart_Bit",
    "name": "Smart_Bit",
    "model": "Smart Bit"
@@ -107068,6 +107130,11 @@
    "device": "MT-T8B22",
    "name": "MT-T8B22",
    "model": "MT-T8B22"
+  },
+  {
+   "device": "T2310",
+   "name": "Moxee_T2310",
+   "model": "T2310"
   },
   {
    "device": "X10",
@@ -118882,6 +118949,11 @@
    "model": "WP26"
   },
   {
+   "device": "S118",
+   "name": "S118_EEA",
+   "model": "WP28"
+  },
+  {
    "device": "U11_Plus",
    "name": "U11_Plus",
    "model": "U11_Plus"
@@ -122902,6 +122974,11 @@
  ],
  "Phone Max": [
   {
+   "device": "M3PRO",
+   "name": "M3PRO",
+   "model": "M3PRO"
+  },
+  {
    "device": "P1000",
    "name": "P1000",
    "model": "P1000"
@@ -122925,6 +123002,11 @@
    "device": "X1",
    "name": "X1",
    "model": "X1"
+  },
+  {
+   "device": "X1_Pro",
+   "name": "X1_Pro",
+   "model": "X1 Pro"
   }
  ],
  "Pioneer": [
@@ -151961,6 +152043,11 @@
   {
    "device": "SX3",
    "name": "AQUOS wish3",
+   "model": "A303SH"
+  },
+  {
+   "device": "SX3",
+   "name": "AQUOS wish3",
    "model": "SH-M25"
   },
   {
@@ -153183,6 +153270,11 @@
    "device": "adt2",
    "name": "ADT-2",
    "model": "ADT-2"
+  },
+  {
+   "device": "planck",
+   "name": "AMLogic Ref",
+   "model": "planck"
   },
   {
    "device": "SEI103",
@@ -178990,6 +179082,11 @@
   {
    "device": "DT40",
    "name": "DT40",
+   "model": "DT40"
+  },
+  {
+   "device": "DT40",
+   "name": "DT40_EEA",
    "model": "DT40"
   },
   {
@@ -205804,6 +205901,11 @@
    "device": "RE5852",
    "name": "realme 11",
    "model": "RMX3751"
+  },
+  {
+   "device": "RE5C7CL1",
+   "name": "realme 11",
+   "model": "RMX3636"
   },
   {
    "device": "RE58B8L1",

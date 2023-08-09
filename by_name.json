@@ -86952,6 +86952,23 @@
    "model": "VNA-LX3"
   }
  ],
+ "HONOR X5 Plus": [
+  {
+   "brand": "Honor",
+   "device": "HNWDY-M",
+   "model": "WOD-LX1"
+  },
+  {
+   "brand": "Honor",
+   "device": "HNWDY-M",
+   "model": "WOD-LX2"
+  },
+  {
+   "brand": "Honor",
+   "device": "HNWDY-M",
+   "model": "WOD-LX3"
+  }
+ ],
  "HONOR X6": [
   {
    "brand": "Honor",
@@ -86967,6 +86984,23 @@
    "brand": "Honor",
    "device": "HNVNE-M",
    "model": "VNE-LX3"
+  }
+ ],
+ "HONOR X6a": [
+  {
+   "brand": "Honor",
+   "device": "HNWDY-M",
+   "model": "WDY-LX1"
+  },
+  {
+   "brand": "Honor",
+   "device": "HNWDY-M",
+   "model": "WDY-LX2"
+  },
+  {
+   "brand": "Honor",
+   "device": "HNWDY-M",
+   "model": "WDY-LX3"
   }
  ],
  "HONOR X7": [
@@ -104431,6 +104465,13 @@
    "model": "TPC-G109"
   }
  ],
+ "JCB_TP231": [
+  {
+   "brand": "JCB_UK",
+   "device": "JCB_TP231",
+   "model": "JCB TP231"
+  }
+ ],
  "M70E": [
   {
    "brand": "JEEMAK",
@@ -106116,7 +106157,21 @@
    "model": "DX-A400"
   }
  ],
+ "DX-A400_": [
+  {
+   "brand": "KEYENCE",
+   "device": "DX-A400",
+   "model": "DX-A400"
+  }
+ ],
  "DX-A600": [
+  {
+   "brand": "KEYENCE",
+   "device": "DX-A600",
+   "model": "DX-A600"
+  }
+ ],
+ "DX-A600_": [
   {
    "brand": "KEYENCE",
    "device": "DX-A600",
@@ -109300,6 +109355,11 @@
   }
  ],
  "KODAK": [
+  {
+   "brand": "Kodak",
+   "device": "bruno",
+   "model": "KODAK2KAndroidTV"
+  },
   {
    "brand": "Kodak",
    "device": "shilin",
@@ -130204,6 +130264,20 @@
    "model": "DV8304-C"
   }
  ],
+ "DV9157-C": [
+  {
+   "brand": "MTS (RU)",
+   "device": "DV9157-C-KRM",
+   "model": "DV9157-C"
+  }
+ ],
+ "IPTVSTB": [
+  {
+   "brand": "MTS (RU)",
+   "device": "DV9135-KRM",
+   "model": "DV9135"
+  }
+ ],
  "Smart_Bit": [
   {
    "brand": "MTS (RU)",
@@ -142281,6 +142355,13 @@
    "brand": "Moxee Technologies",
    "device": "MT-T8B22",
    "model": "MT-T8B22"
+  }
+ ],
+ "Moxee_T2310": [
+  {
+   "brand": "Moxee Technologies",
+   "device": "T2310",
+   "model": "T2310"
   }
  ],
  "MTN_E1": [
@@ -156085,6 +156166,13 @@
    "model": "WP26"
   }
  ],
+ "S118_EEA": [
+  {
+   "brand": "Oukitel",
+   "device": "S118",
+   "model": "WP28"
+  }
+ ],
  "U11_Plus": [
   {
    "brand": "Oukitel",
@@ -160981,6 +161069,13 @@
    "model": "PPS2022-P156"
   }
  ],
+ "M3PRO": [
+  {
+   "brand": "Phone Max",
+   "device": "M3PRO",
+   "model": "M3PRO"
+  }
+ ],
  "P1000": [
   {
    "brand": "Phone Max",
@@ -161012,6 +161107,13 @@
    "brand": "Phone Max",
    "device": "S4G",
    "model": "S4G"
+  }
+ ],
+ "X1_Pro": [
+  {
+   "brand": "Phone Max",
+   "device": "X1_Pro",
+   "model": "X1 Pro"
   }
  ],
  "AV Receiver": [
@@ -194263,6 +194365,11 @@
   {
    "brand": "Sharp",
    "device": "SX3",
+   "model": "A303SH"
+  },
+  {
+   "brand": "Sharp",
+   "device": "SX3",
    "model": "SH-M25"
   }
  ],
@@ -195806,6 +195913,13 @@
    "brand": "Shenzhen SEI Robotics",
    "device": "adt2",
    "model": "ADT-2"
+  }
+ ],
+ "AMLogic Ref": [
+  {
+   "brand": "Shenzhen SEI Robotics",
+   "device": "planck",
+   "model": "planck"
   }
  ],
  "SEI103V": [
@@ -225013,6 +225127,13 @@
   }
  ],
  "DT40": [
+  {
+   "brand": "Urovo",
+   "device": "DT40",
+   "model": "DT40"
+  }
+ ],
+ "DT40_EEA": [
   {
    "brand": "Urovo",
    "device": "DT40",
@@ -255319,6 +255440,11 @@
    "brand": "realme",
    "device": "RE5852",
    "model": "RMX3751"
+  },
+  {
+   "brand": "realme",
+   "device": "RE5C7CL1",
+   "model": "RMX3636"
   }
  ],
  "realme 11 Pro 5G": [

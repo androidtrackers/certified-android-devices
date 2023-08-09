@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-08-08
+Last sync is 2023-08-09
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -11164,9 +11164,15 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR Pad X9|HNELN-Q|ELN-W09|
 |Honor|HONOR X5|HNVNA-M|VNA-LX2|
 |Honor|HONOR X5|HNVNA-M|VNA-LX3|
+|Honor|HONOR X5 Plus|HNWDY-M|WOD-LX1|
+|Honor|HONOR X5 Plus|HNWDY-M|WOD-LX2|
+|Honor|HONOR X5 Plus|HNWDY-M|WOD-LX3|
 |Honor|HONOR X6|HNVNE-M|VNE-LX1|
 |Honor|HONOR X6|HNVNE-M|VNE-LX2|
 |Honor|HONOR X6|HNVNE-M|VNE-LX3|
+|Honor|HONOR X6a|HNWDY-M|WDY-LX1|
+|Honor|HONOR X6a|HNWDY-M|WDY-LX2|
+|Honor|HONOR X6a|HNWDY-M|WDY-LX3|
 |Honor|HONOR X7|HNCMA-Q|CMA-LX1|
 |Honor|HONOR X7|HNCMA-Q|CMA-LX2|
 |Honor|HONOR X7|HNCMA-Q|CMA-LX3|
@@ -14328,6 +14334,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |JAY-TECH|TPC-G1010|TPC-G1010_EEA|TPC-G1010|
 |JAY-TECH|TPC-G1011LTE|TPC-G1011LTE|TPC-G1011LTE|
 |JAY-TECH|TPC-G109_EEA|TPC-G109|TPC-G109|
+|JCB_UK|JCB_TP231|JCB_TP231|JCB TP231|
 |JEEMAK|M70|M70|M70|
 |JEEMAK|M70E|M70E|M70E|
 |JHZL|J101|J101|J101|
@@ -14638,7 +14645,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KEYENCE|BT-A500GA|BTA500|BTA500|
 |KEYENCE|BTA700|BTA700|BTA700|
 |KEYENCE|DX-A400|DX-A400|DX-A400|
+|KEYENCE|DX-A400_|DX-A400|DX-A400|
 |KEYENCE|DX-A600|DX-A600|DX-A600|
+|KEYENCE|DX-A600_|DX-A600|DX-A600|
 |KGTEL|A56|A56|A56|
 |KGTEL|Better10|Better10|Better10|
 |KGTEL|R10|R10A|R10|
@@ -15117,6 +15126,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kodak|D50PRO|Kodak_D50PRO|D50PRO|
 |Kodak|Ektra|KodakEktra|Ektra|
 |Kodak|IM5|IM5|IM5|
+|Kodak|KODAK|bruno|KODAK2KAndroidTV|
 |Kodak|KODAK|shilin|KODAK4KAndroidTV|
 |Kodak|KODAK SMARTWAY L1 PRO|L1_PRO|KODAK SMARTWAY L1 PRO|
 |Kodak|KODAK SMARTWAY T3|SMARTWAY_T3|KODAK SMARTWAY T3|
@@ -18778,6 +18788,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MTS (RU)|B866|B866_MTS_IPTV|B866|
 |MTS (RU)|B866|B866_MTS_OTT|B866|
 |MTS (RU)|DV8304-C|DV8304C|DV8304-C|
+|MTS (RU)|DV9157-C|DV9157-C-KRM|DV9157-C|
+|MTS (RU)|IPTVSTB|DV9135-KRM|DV9135|
 |MTS (RU)|Smart_Bit|Smart_Bit|Smart Bit|
 |MTT|Master|Master|M.T.T. Master|
 |MTT|Smart Fun|SmartFun|M.T.T. Smart Fun|
@@ -20828,6 +20840,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Moxee Technologies|MH-T6000|MH-T6000|MH-T6000|
 |Moxee Technologies|MT-T800|MT-T800|MT-T800|
 |Moxee Technologies|MT-T8B22|MT-T8B22|MT-T8B22|
+|Moxee Technologies|Moxee_T2310|T2310|T2310|
 |Moxee Technologies|X10|X10|X10|
 |Moxee Technologies|X100|X100|X100|
 |MozaTab|MTN_E1|MTN_E1|TU10MK1|
@@ -23118,6 +23131,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oukitel|RT5_EEA|RT5|RT5|
 |Oukitel|RT6_EEA|RT6|RT6|
 |Oukitel|S115_EEA|S115|WP26|
+|Oukitel|S118_EEA|S118|WP28|
 |Oukitel|U11_Plus|U11_Plus|U11_Plus|
 |Oukitel|U16 Max|U16_Max|U16 Max|
 |Oukitel|U17|U17|U17|
@@ -23898,11 +23912,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Phoenix|PHONETABPRO|PHONETABPRO|PHONETABPRO|
 |Phoenix Note|M701A|M701A|M701A|
 |Phoenix Note|PPS2022-P156|PPS2022-P156|PPS2022-P156|
+|Phone Max|M3PRO|M3PRO|M3PRO|
 |Phone Max|P1000|P1000|P1000|
 |Phone Max|Rocky 2|Rocky_2|Rocky 2|
 |Phone Max|Rocky_1|Rocky_1|Rocky_1|
 |Phone Max|S4G|S4G|S4G|
 |Phone Max|X1|X1|X1|
+|Phone Max|X1_Pro|X1_Pro|X1 Pro|
 |Pioneer|AV Receiver|AVH_W4400NEX|Jupiter|
 |Pioneer|Android TV|R2|ATV R2|
 |Pioneer|B.PROカーナビ|AVIC_BX500|jupiter|
@@ -29601,6 +29617,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Sharp|AQUOS wish2|SH-51C|SH-51C|
 |Sharp|AQUOS wish2|SXI|A204SH|
 |Sharp|AQUOS wish3|SX3|A302SH|
+|Sharp|AQUOS wish3|SX3|A303SH|
 |Sharp|AQUOS wish3|SX3|SH-M25|
 |Sharp|AQUOS zero|SG801SH|801SH|
 |Sharp|AQUOS zero|SH-Z10|SH-Z10|
@@ -29845,6 +29862,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Shenzhen Jiuzhou|DTP9503|DTP9503|DTP9503|
 |Shenzhen Jiuzhou|DTP9710|DTP9710|DTP9710|
 |Shenzhen SEI Robotics|ADT-2|adt2|ADT-2|
+|Shenzhen SEI Robotics|AMLogic Ref|planck|planck|
 |Shenzhen SEI Robotics|SEI103V|SEI103|ANDROID TV MEDIA BOX|
 |Shuttle|PNT-7045|PNT-7045|PNT-7045|
 |SiAL|Bic camera|Si01BB|Si01BB|
@@ -34867,6 +34885,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Urovo|DT20_EEA|SQ57|DT20|
 |Urovo|DT20_RU|SQ57|DT20|
 |Urovo|DT40|DT40|DT40|
+|Urovo|DT40_EEA|DT40|DT40|
 |Urovo|DT50|DT50|DT50|
 |Urovo|DT50|DT50S|DT50|
 |Urovo|DT50 5G|DT50_5G|DT50_5G|
@@ -40080,6 +40099,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme 10 Pro+ 5G|RE58A6L1|RMX3686|
 |realme|realme 10s|RE5851|RMX3617|
 |realme|realme 11|RE5852|RMX3751|
+|realme|realme 11|RE5C7CL1|RMX3636|
 |realme|realme 11 Pro 5G|RE58B8L1|RMX3771|
 |realme|realme 11 Pro+ 5G|RE58B6L1|RMX3741|
 |realme|realme 4K G Smart TV|SW6H|realme 4K G Smart TV|
