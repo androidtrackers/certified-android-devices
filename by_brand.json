@@ -39102,6 +39102,11 @@
    "model": "LUXE 3"
   },
   {
+   "device": "X-ONE",
+   "name": "X-ONE",
+   "model": "X-ONE"
+  },
+  {
    "device": "X_Pro",
    "name": "X_Pro",
    "model": "X Pro"
@@ -43014,6 +43019,13 @@
    "device": "Shockwave",
    "name": "Shockwave",
    "model": "Shockwave"
+  }
+ ],
+ "GTX(A)": [
+  {
+   "device": "GTX_JACULUS",
+   "name": "GTX_JACULUS",
+   "model": "GTX_JACULUS"
   }
  ],
  "GYRO": [
@@ -78072,6 +78084,11 @@
    "model": "D60LX"
   },
   {
+   "device": "Kodak_D61L",
+   "name": "Kodak_D61L",
+   "model": "D61L"
+  },
+  {
    "device": "Kodak_D65L",
    "name": "Kodak_D65L",
    "model": "D65L"
@@ -97811,6 +97828,11 @@
    "device": "MX-A10RWW",
    "name": "ASTRO 10R",
    "model": "MX-A10R"
+  },
+  {
+   "device": "MX-A10WW",
+   "name": "ASTRO_10",
+   "model": "MX-A10"
   },
   {
    "device": "MX-A80RWW",
@@ -125590,6 +125612,11 @@
    "model": "X75"
   },
   {
+   "device": "X75-2021",
+   "name": "X750-2021",
+   "model": "X75-2021"
+  },
+  {
    "device": "X76",
    "name": "X76",
    "model": "X76"
@@ -135068,9 +135095,19 @@
  ],
  "SUNMAX": [
   {
+   "device": "Model_6_Pro_Max_4G",
+   "name": "Model 6 Pro Max 4G",
+   "model": "Model_6_Pro_Max_4G"
+  },
+  {
    "device": "Model_D",
    "name": "Model D",
    "model": "Model D"
+  },
+  {
+   "device": "Model_E",
+   "name": "Model E",
+   "model": "Model E"
   },
   {
    "device": "Model_K",
@@ -135081,6 +135118,11 @@
    "device": "Model_K_4G",
    "name": "Model K  4G",
    "model": "Model K 4G"
+  },
+  {
+   "device": "Model_X_4G_A",
+   "name": "Model X 4G",
+   "model": "Model_X_4G_A"
   },
   {
    "device": "Model_3",
@@ -135587,6 +135629,16 @@
    "device": "NEON_PLUS",
    "name": "NEON PLUS",
    "model": "NEON PLUS"
+  },
+  {
+   "device": "NEON-RAY-2",
+   "name": "NEON RAY 2",
+   "model": "NEON RAY 2"
+  },
+  {
+   "device": "NEON_SKY",
+   "name": "NEON SKY",
+   "model": "NEON_SKY"
   },
   {
    "device": "NEON_VISION",
@@ -206885,6 +206937,11 @@
    "device": "shilin",
    "name": "Truvii",
    "model": "Truvii4KAndroidTV"
+  },
+  {
+   "device": "sugamo",
+   "name": "Truvii",
+   "model": "Truvii 2K Android TV"
   }
  ],
  "uLesson": [

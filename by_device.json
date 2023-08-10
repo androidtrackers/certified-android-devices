@@ -42109,6 +42109,11 @@
    "brand": "Tecnomaster",
    "name": "Tecnomaster",
    "model": "Tecnomaster 2K Android TV"
+  },
+  {
+   "brand": "truvii",
+   "name": "Truvii",
+   "model": "Truvii 2K Android TV"
   }
  ],
  "CTB761": [
@@ -60803,6 +60808,13 @@
    "model": "LUXE 3"
   }
  ],
+ "X-ONE": [
+  {
+   "brand": "FELUX",
+   "name": "X-ONE",
+   "model": "X-ONE"
+  }
+ ],
  "D106_EEA": [
   {
    "brand": "FEONAL",
@@ -66193,6 +66205,13 @@
    "brand": "GTPL",
    "name": "Shockwave",
    "model": "Shockwave"
+  }
+ ],
+ "GTX_JACULUS": [
+  {
+   "brand": "GTX(A)",
+   "name": "GTX_JACULUS",
+   "model": "GTX_JACULUS"
   }
  ],
  "S6001": [
@@ -106822,6 +106841,13 @@
    "model": "D60LX"
   }
  ],
+ "Kodak_D61L": [
+  {
+   "brand": "Kodak",
+   "name": "Kodak_D61L",
+   "model": "D61L"
+  }
+ ],
  "Kodak_D65L": [
   {
    "brand": "Kodak",
@@ -130979,6 +131005,13 @@
    "brand": "Maxwest",
    "name": "ASTRO 10R",
    "model": "MX-A10R"
+  }
+ ],
+ "MX-A10WW": [
+  {
+   "brand": "Maxwest",
+   "name": "ASTRO_10",
+   "model": "MX-A10"
   }
  ],
  "MX-A80RWW": [
@@ -164540,6 +164573,13 @@
    "model": "X75"
   }
  ],
+ "X75-2021": [
+  {
+   "brand": "Premio",
+   "name": "X750-2021",
+   "model": "X75-2021"
+  }
+ ],
  "X76": [
   {
    "brand": "Premio",
@@ -175344,11 +175384,25 @@
    "model": "STK Ace"
   }
  ],
+ "Model_6_Pro_Max_4G": [
+  {
+   "brand": "SUNMAX",
+   "name": "Model 6 Pro Max 4G",
+   "model": "Model_6_Pro_Max_4G"
+  }
+ ],
  "Model_D": [
   {
    "brand": "SUNMAX",
    "name": "Model D",
    "model": "Model D"
+  }
+ ],
+ "Model_E": [
+  {
+   "brand": "SUNMAX",
+   "name": "Model E",
+   "model": "Model E"
   }
  ],
  "Model_K": [
@@ -175363,6 +175417,13 @@
    "brand": "SUNMAX",
    "name": "Model K  4G",
    "model": "Model K 4G"
+  }
+ ],
+ "Model_X_4G_A": [
+  {
+   "brand": "SUNMAX",
+   "name": "Model X 4G",
+   "model": "Model_X_4G_A"
   }
  ],
  "Model_3": [
@@ -175745,18 +175806,30 @@
    "model": "NEON PLUS"
   }
  ],
+ "NEON-RAY-2": [
+  {
+   "brand": "Safaricom",
+   "name": "NEON RAY 2",
+   "model": "NEON RAY 2"
+  },
+  {
+   "brand": "Safaricom",
+   "name": "NEON-RAY-2",
+   "model": "NEON RAY 2"
+  }
+ ],
+ "NEON_SKY": [
+  {
+   "brand": "Safaricom",
+   "name": "NEON SKY",
+   "model": "NEON_SKY"
+  }
+ ],
  "NEON_VISION": [
   {
    "brand": "Safaricom",
    "name": "NEON VISION",
    "model": "NEON_VISION"
-  }
- ],
- "NEON-RAY-2": [
-  {
-   "brand": "Safaricom",
-   "name": "NEON-RAY-2",
-   "model": "NEON RAY 2"
   }
  ],
  "NEON_NOVA": [

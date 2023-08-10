@@ -56636,6 +56636,13 @@
    "device": "LUXE_3"
   }
  ],
+ "X-ONE": [
+  {
+   "brand": "FELUX",
+   "name": "X-ONE",
+   "device": "X-ONE"
+  }
+ ],
  "D106_EEA": [
   {
    "brand": "FEONAL",
@@ -62024,6 +62031,13 @@
    "brand": "GTPL",
    "name": "Shockwave",
    "device": "Shockwave"
+  }
+ ],
+ "GTX_JACULUS": [
+  {
+   "brand": "GTX(A)",
+   "name": "GTX_JACULUS",
+   "device": "GTX_JACULUS"
   }
  ],
  "GYRO S6001": [
@@ -107163,6 +107177,13 @@
    "device": "Kodak_D60LX"
   }
  ],
+ "D61L": [
+  {
+   "brand": "Kodak",
+   "name": "Kodak_D61L",
+   "device": "Kodak_D61L"
+  }
+ ],
  "D65L": [
   {
    "brand": "Kodak",
@@ -132700,6 +132721,13 @@
    "brand": "Maxwest",
    "name": "ASTRO 10R",
    "device": "MX-A10RWW"
+  }
+ ],
+ "MX-A10": [
+  {
+   "brand": "Maxwest",
+   "name": "ASTRO_10",
+   "device": "MX-A10WW"
   }
  ],
  "MX-A8R": [
@@ -167157,6 +167185,13 @@
    "device": "WBW5613QM"
   }
  ],
+ "X75-2021": [
+  {
+   "brand": "Premio",
+   "name": "X750-2021",
+   "device": "X75-2021"
+  }
+ ],
  "X76": [
   {
    "brand": "Premio",
@@ -178872,11 +178907,25 @@
    "device": "cayenne"
   }
  ],
+ "Model_6_Pro_Max_4G": [
+  {
+   "brand": "SUNMAX",
+   "name": "Model 6 Pro Max 4G",
+   "device": "Model_6_Pro_Max_4G"
+  }
+ ],
  "Model D": [
   {
    "brand": "SUNMAX",
    "name": "Model D",
    "device": "Model_D"
+  }
+ ],
+ "Model E": [
+  {
+   "brand": "SUNMAX",
+   "name": "Model E",
+   "device": "Model_E"
   }
  ],
  "Model K": [
@@ -178891,6 +178940,13 @@
    "brand": "SUNMAX",
    "name": "Model K  4G",
    "device": "Model_K_4G"
+  }
+ ],
+ "Model_X_4G_A": [
+  {
+   "brand": "SUNMAX",
+   "name": "Model X 4G",
+   "device": "Model_X_4G_A"
   }
  ],
  "Model 6": [
@@ -179544,14 +179600,12 @@
    "device": "NEON_PLUS"
   }
  ],
- "NEON_VISION": [
+ "NEON RAY 2": [
   {
    "brand": "Safaricom",
-   "name": "NEON VISION",
-   "device": "NEON_VISION"
-  }
- ],
- "NEON RAY 2": [
+   "name": "NEON RAY 2",
+   "device": "NEON-RAY-2"
+  },
   {
    "brand": "Safaricom",
    "name": "NEON-RAY-2",
@@ -179561,6 +179615,20 @@
    "brand": "Safaricom",
    "name": "NEON_RAY_2",
    "device": "NEON_RAY_2"
+  }
+ ],
+ "NEON_SKY": [
+  {
+   "brand": "Safaricom",
+   "name": "NEON SKY",
+   "device": "NEON_SKY"
+  }
+ ],
+ "NEON_VISION": [
+  {
+   "brand": "Safaricom",
+   "name": "NEON VISION",
+   "device": "NEON_VISION"
   }
  ],
  "NEON_NOVA": [
@@ -269893,6 +269961,13 @@
    "brand": "truvii",
    "name": "Truvii",
    "device": "shilin"
+  }
+ ],
+ "Truvii 2K Android TV": [
+  {
+   "brand": "truvii",
+   "name": "Truvii",
+   "device": "sugamo"
   }
  ],
  "uLesson_Education_Tab": [

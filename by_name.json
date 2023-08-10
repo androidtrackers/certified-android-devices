@@ -63519,6 +63519,13 @@
    "model": "LUXE 3"
   }
  ],
+ "X-ONE": [
+  {
+   "brand": "FELUX",
+   "device": "X-ONE",
+   "model": "X-ONE"
+  }
+ ],
  "X_Pro": [
   {
    "brand": "FELUX",
@@ -68773,6 +68780,13 @@
    "brand": "GTPL",
    "device": "Shockwave",
    "model": "Shockwave"
+  }
+ ],
+ "GTX_JACULUS": [
+  {
+   "brand": "GTX(A)",
+   "device": "GTX_JACULUS",
+   "model": "GTX_JACULUS"
   }
  ],
  "S6001": [
@@ -109450,6 +109464,13 @@
    "model": "D60LX"
   }
  ],
+ "Kodak_D61L": [
+  {
+   "brand": "Kodak",
+   "device": "Kodak_D61L",
+   "model": "D61L"
+  }
+ ],
  "Kodak_D65L": [
   {
    "brand": "Kodak",
@@ -129270,6 +129291,11 @@
    "brand": "MIFONE",
    "device": "Model-6-Pro-Max-4G",
    "model": "Model-6-Pro-Max-4G"
+  },
+  {
+   "brand": "SUNMAX",
+   "device": "Model_6_Pro_Max_4G",
+   "model": "Model_6_Pro_Max_4G"
   }
  ],
  "TAB63A": [
@@ -131612,6 +131638,13 @@
    "brand": "Maxwest",
    "device": "MX-A10RWW",
    "model": "MX-A10R"
+  }
+ ],
+ "ASTRO_10": [
+  {
+   "brand": "Maxwest",
+   "device": "MX-A10WW",
+   "model": "MX-A10"
   }
  ],
  "ASTRO_8R": [
@@ -164232,6 +164265,13 @@
    "model": "X75"
   }
  ],
+ "X750-2021": [
+  {
+   "brand": "Premio",
+   "device": "X75-2021",
+   "model": "X75-2021"
+  }
+ ],
  "X76": [
   {
    "brand": "Premio",
@@ -175675,6 +175715,13 @@
    "model": "Model D"
   }
  ],
+ "Model E": [
+  {
+   "brand": "SUNMAX",
+   "device": "Model_E",
+   "model": "Model E"
+  }
+ ],
  "Model K": [
   {
    "brand": "SUNMAX",
@@ -175687,6 +175734,13 @@
    "brand": "SUNMAX",
    "device": "Model_K_4G",
    "model": "Model K 4G"
+  }
+ ],
+ "Model X 4G": [
+  {
+   "brand": "SUNMAX",
+   "device": "Model_X_4G_A",
+   "model": "Model_X_4G_A"
   }
  ],
  "Model_3": [
@@ -176321,6 +176375,20 @@
    "brand": "Safaricom",
    "device": "NEON_PLUS",
    "model": "NEON PLUS"
+  }
+ ],
+ "NEON RAY 2": [
+  {
+   "brand": "Safaricom",
+   "device": "NEON-RAY-2",
+   "model": "NEON RAY 2"
+  }
+ ],
+ "NEON SKY": [
+  {
+   "brand": "Safaricom",
+   "device": "NEON_SKY",
+   "model": "NEON_SKY"
   }
  ],
  "NEON VISION": [
@@ -256524,6 +256592,11 @@
    "brand": "truvii",
    "device": "shilin",
    "model": "Truvii4KAndroidTV"
+  },
+  {
+   "brand": "truvii",
+   "device": "sugamo",
+   "model": "Truvii 2K Android TV"
   }
  ],
  "uLesson_Education_Tab": [

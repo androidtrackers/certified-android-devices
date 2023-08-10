@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-08-09
+Last sync is 2023-08-10
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -7530,6 +7530,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |FEITIAN|F100|F100|F100|
 |FEITIAN|F100_EEA|F100|F100|
 |FELUX|LUXE 3|LUXE_3|LUXE 3|
+|FELUX|X-ONE|X-ONE|X-ONE|
 |FELUX|X_Pro|X_Pro|X Pro|
 |FEONAL|D106_EEA|D106_EEA|D106_EEA|
 |FEONAL|K104|K104|K104|
@@ -8276,6 +8277,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |GSmart|Tuku T2|Tuku_T2|GSmart Tuku T2|
 |GTPL|Inspire 4.0|Inspire_4|Inspire_4|
 |GTPL|Shockwave|Shockwave|Shockwave|
+|GTX(A)|GTX_JACULUS|GTX_JACULUS|GTX_JACULUS|
 |GYRO|S6001|S6001|GYRO S6001|
 |Galactic|ETAB_M7043G|ETAB_M7043G|ETAB_M7043G|
 |Galactic|Galactic_Astro|Galactic_Astro|Galactic_Astro|
@@ -15140,6 +15142,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kodak|Kodak_D55L|Kodak_D55L|D55L|
 |Kodak|Kodak_D55L_R|Kodak_D55L|D55L|
 |Kodak|Kodak_D60LX|Kodak_D60LX|D60LX|
+|Kodak|Kodak_D61L|Kodak_D61L|D61L|
 |Kodak|Kodak_D65L|Kodak_D65L|D65L|
 |Kodak|Kodak_D65LX|Kodak_D65LX|D65LX|
 |Kodak|Kodak_D9PRO|Kodak_D9PRO|D9PRO|
@@ -19009,6 +19012,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Maxwest|ASTRO 10R|MX-A10R1WW|MX-A10R|
 |Maxwest|ASTRO 10R|MX-A10R2WW|MX-A10R|
 |Maxwest|ASTRO 10R|MX-A10RWW|MX-A10R|
+|Maxwest|ASTRO_10|MX-A10WW|MX-A10|
 |Maxwest|ASTRO_8R|MX-A80RWW|MX-A8R|
 |Maxwest|ASTRO 8R|MX-A81RWW|MX-A8R|
 |Maxwest|ASTRO 8R|MX-A82RWW|MX-A8R|
@@ -24422,6 +24426,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Premio|X1|186HS2080531|186HS2080531|
 |Premio|X70-2021|X70-2021|X70-2021|
 |Premio|X75|X75|X75|
+|Premio|X750-2021|X75-2021|X75-2021|
 |Premio|X76|X76|X76|
 |Premio|X80|X80|X80|
 |Premio|X81|X81|X81|
@@ -26240,9 +26245,12 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |STK(Santok)|Transporter 1|STK_Transporter_1|STK_Transporter_1|
 |STK(Santok)|X3|X3|X3|
 |STK(Santok)|cayenne|cayenne|STK Ace|
+|SUNMAX|Model 6 Pro Max 4G|Model_6_Pro_Max_4G|Model_6_Pro_Max_4G|
 |SUNMAX|Model D|Model_D|Model D|
+|SUNMAX|Model E|Model_E|Model E|
 |SUNMAX|Model K|Model_K|Model K|
 |SUNMAX|Model K  4G|Model_K_4G|Model K 4G|
+|SUNMAX|Model X 4G|Model_X_4G_A|Model_X_4G_A|
 |SUNMAX|Model_3|Model_3|Model 3|
 |SUNMAX|Model_6|Model_6|Model 6|
 |SUNMAX|Model_6_Pro|Model_6_Pro|Model 6 Pro|
@@ -26341,6 +26349,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SZSUPER|KIDS05-X5|KIDS05-X5|KIDS05-X5|
 |Safaricom|NEON LITE|NEON_LITE|NEON LITE|
 |Safaricom|NEON PLUS|NEON_PLUS|NEON PLUS|
+|Safaricom|NEON RAY 2|NEON-RAY-2|NEON RAY 2|
+|Safaricom|NEON SKY|NEON_SKY|NEON_SKY|
 |Safaricom|NEON VISION|NEON_VISION|NEON_VISION|
 |Safaricom|NEON-RAY-2|NEON-RAY-2|NEON RAY 2|
 |Safaricom|NEON_NOVA|NEON_NOVA|NEON_NOVA|
@@ -40289,6 +40299,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |truvii|Truvii|bruno|Truvii2KAndroidTV|
 |truvii|Truvii|seocho|Truvii 4K Android TV|
 |truvii|Truvii|shilin|Truvii4KAndroidTV|
+|truvii|Truvii|sugamo|Truvii 2K Android TV|
 |uLesson|uLesson_Education_Tab|uLesson_Education_Tab|uLesson_Education_Tab|
 |uLesson|uLesson_Education_Tab_V2|uLesson_Tab_V2|uLesson_Education_Tab_V2|
 |ucall|EASY1|EASY1|EASY1|
