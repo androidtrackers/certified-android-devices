@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-08-10
+Last sync is 2023-08-11
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5577,6 +5577,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DAIICHI|Vietnam|tamachi|Daiichi FHD Android TV|
 |DAIICHI|Vietnam|yeongdeungpo|Daiichi UHD Android TV|
 |DAIKO|DAIKO UHD TV|OD0M_EA_T32|DAIKO UHD TV|
+|DAIYU|MBTWDY01|Mediabox|MBTWDY01|
 |DBM Maroc|ACCENT SURF 1000|SURF1000|SURF1000|
 |DBM Maroc|Accent Speed Y2|Speed-Y2|Speed-Y2|
 |DBM Maroc|Accent Speed Y3|Speed-Y3|Speed-Y3|
@@ -6811,6 +6812,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EL (Africa)|X60 Pro|X60_PRO|X60 Pro|
 |EL (Africa)|X70|X70|X70|
 |EL (Africa)|X80|X80|X80|
+|EL (Africa)|X90|X90a|X90|
 |ELC(cn)|M108|M108|M108|
 |ELDMandate|10BIZ332|10BIZ332|10BIZ332|
 |ELEXIA|ELEXIA|bangbae|ELEXIA 4K Android TV|
@@ -6905,6 +6907,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |EPIKONE|X618|X618|X618|
 |EPIKONE|X620|X620|X620|
 |EPIKONE|X650|X650|X650|
+|EPIKONE|X650_tigo|X650|X650|
 |EPIKONE|X655|X655|X655|
 |EPIKONE|k503|K503|K503|
 |ER-Telecom|Movix Pro Voice|SEI700ER|Movix Pro Voice|
@@ -7676,6 +7679,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Flnet|BandOTT|ba101|ba101|
 |Flow|FlowBox-F1|HP40A2|FlowBox-F1|
 |Flow|FlowBox-F2|HP44H|FlowBox-F2|
+|Flow|FlowBox-S2|m250_t|FlowBox-S2|
 |Flow|FlowSoundBox|m393gena_teco|FlowSoundBox|
 |Flow|Flowbox-F1|HP40A2|FlowBox-F1|
 |Fluo|F|F|F|
@@ -10140,6 +10144,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hi TFG|Boost Max|Boost_Max|Boost_Max|
 |Hi TFG|Crusader|Crusader|Crusader|
 |Hi TFG|Spitfire|Spitfire|Spitfire|
+|Hi(HMR)|Boost Hypa|Boost_Hypa|Boost Hypa|
 |Hi-online|Boost Ultra|Boost_Ultra|Boost Ultra|
 |Hi-online|HMR5450|HMR5450|HMR5450|
 |HiMedia|S500|HiBox|S500|
@@ -13172,9 +13177,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |INOI|INOI A151|A151|A151|
 |INOI|INOI A52 Lite 32GB|A150|A150|
 |INOI|INOI A62 64GB|A161|A161|
+|INOI|INOI A62 64GB|A161_Plus|A161_Plus|
 |INOI|INOI A72|A170|A170|
 |INOI|INOI A72|A170|A170_Plus|
 |INOI|INOI A72|A171|A171|
+|INOI|INOI A72|A171|A171_Plus|
 |INOI|INOI Note 12|A180|A180|
 |INOI|INOI Note 12|A180|A180_Plus|
 |INOI|INOI _7i_Lite|INOI_7i_Lite|INOI_7i_Lite|
@@ -14998,6 +15005,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kenxinda|X7g|X7g|X7g|
 |Kenxinda|X7s|X7s|X7s|
 |Kenxinda|X8|X8|X8|
+|Kenxinda|X85|X85|X85|
 |Kenxinda|X8a|X8a|X8a|
 |Kenxinda|X8g|X8g|X8g|
 |Kenxinda|Y10|Y10|Y10|
@@ -23355,6 +23363,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Packard Bell|A5000|A5000|A5000|
 |Packard Bell|A5700|A5700|A5700|
 |Packard Bell|DAYTONA-G12|DAYTONA-G12|DAYTONA-G12|
+|Packard Bell|DAYTONA-G6|DAYTONA-G6|DAYTONA-G6|
 |Packard Bell|INTERLAGOS-T32|INTERLAGOS-T32|INTERLAGOS-T32|
 |Packard Bell|M10400|M10400|M10400|
 |Packard Bell|M10500|M10500|M10500|
@@ -24599,6 +24608,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prestigio|PMT4511_4G_EEA|HP10A17L|PMT4511_4G_EEA|
 |Prestigio|PMT4511_4G_RU|HP10A17L|PMT4511_4G_RU|
 |Prestigio|PMT4518_4G_E_RU|HP80A20L|PMT4518_4G_E_RU|
+|Prestigio|PMT4528_4G_E_RU|TL80A17L|PMT4528_4G_E_RU|
+|Prestigio|PMT4541_4G_E_RU|TL10A16L|PMT4541_4G_E_RU|
 |Prestigio|PMT4667_3G_RU|HP70A7G|PMT4667_3G_RU|
 |Prestigio|PMT4881_4G_F_EEA|HP10A19L|PMT4881_4G_F_EEA|
 |Prestigio|PMT5001_3G|PMT5001_3G|PMT5001_3G|
@@ -24802,6 +24813,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Prixton|T1800Q＿Plus|T1800Q_Plus|T1800Q Plus|
 |Prixton|T7014Q_Plus|T7014Q_Plus|T7014Q_Plus|
 |Prixton|T9120_EEA|T9120|T9120|
+|ProDVX|APPC-10SLBe|rk3399_Android11|APPC-10SLBe|
 |Prodigi Connect12|Prodigi Connect 12|connect|Prodigi Connect 12|
 |Professional Mobile|Pro V5|Pro_V5|Pro V5|
 |Profilo|Profilo Smart TV|marina|Profilo Smart TV|
@@ -25708,6 +25720,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Reeder|P13 Blue Max Pro 2021|P13_Blue_Max_Pro_2021|P13 Blue Max Pro 2021|
 |Reeder|P13 Blue Max Pro 256 GB|P13_Blue_Max_Pro_256_GB|P13 Blue Max Pro 256 GB|
 |Reeder|P13 Blue MaxL 2022|P13_Blue_MaxL_2022|P13 Blue MaxL 2022|
+|Reeder|P13 Blue MaxL 2022s|P13_Blue_MaxL_2022|P13 Blue MaxL 2022|
 |Reeder|P13 Blue Plus|P13_Blue_Plus|P13_Blue_Plus|
 |Reeder|P13 Blue Pro Lite|P13_Blue_Max_PL|P13 Blue Max PL|
 |Reeder|P13 Max Blue|P13_Max_Blue|P13_Max_Blue|
@@ -25961,6 +25974,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SFR|Star Trail III|mobiwire_startrail3|StarTrail III|
 |SFR.fr|Connect TV de SFR|DV8555-SFR|Connect TV de SFR|
 |SFR.fr|Connect TV de SFR|DV8945-KFS|Connect TV de SFR|
+|SFR.fr|Connect V3|DIW377_ALT_FR|Connect TV de SFR|
 |SFR.fr|DV8219_SFR|DV8219|DV8219_SFR|
 |SFR.fr|FR|DV8219|DV8219_SFR|
 |SGIN|A10|A10|A10|
@@ -26253,6 +26267,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SUNMAX|Model X 4G|Model_X_4G_A|Model_X_4G_A|
 |SUNMAX|Model_3|Model_3|Model 3|
 |SUNMAX|Model_6|Model_6|Model 6|
+|SUNMAX|Model_6_4G|Model_6_4G|Model_6_4G|
 |SUNMAX|Model_6_Pro|Model_6_Pro|Model 6 Pro|
 |SUNMAX|Model_6_Pro_4G|Model_6_pro_4G|Model_6_pro_4G|
 |SUNMAX|Model_6_Pro_Max|Model_6_Pro_Max|Model 6 Pro Max|
@@ -26351,6 +26366,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Safaricom|NEON PLUS|NEON_PLUS|NEON PLUS|
 |Safaricom|NEON RAY 2|NEON-RAY-2|NEON RAY 2|
 |Safaricom|NEON SKY|NEON_SKY|NEON_SKY|
+|Safaricom|NEON STREAM|NEON_STREAM|NEON_STREAM|
 |Safaricom|NEON VISION|NEON_VISION|NEON_VISION|
 |Safaricom|NEON-RAY-2|NEON-RAY-2|NEON RAY 2|
 |Safaricom|NEON_NOVA|NEON_NOVA|NEON_NOVA|
@@ -31659,8 +31675,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 40 R 5G|Levin|T771H|
 |TCL|TCL 40 SE|Model_3|T610E|
 |TCL|TCL 40 SE|Model_3|T610K|
+|TCL|TCL 40 SE|Model_3|T610P|
 |TCL|TCL 40 X 5G|Encore_OM|T609M|
 |TCL|TCL 40 XE 5G|Encore_CAN|T609J|
+|TCL|TCL 40 XE 5G|Encore_Spectrum|T609V|
+|TCL|TCL 403|Rio|T431A|
+|TCL|TCL 403|Rio|T431E|
+|TCL|TCL 403|Rio|T431P|
+|TCL|TCL 403|Rio|T431Q|
 |TCL|TCL 405|Civic|T506A|
 |TCL|TCL 406|Civic_S|T506G|
 |TCL|TCL 406|Civic_S|T506K|
@@ -31734,10 +31756,14 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL TAB 7 Lite|U3A_7_WIFI_Refresh|9309X|
 |TCL|TCL TAB 7 Lite|U3A_7_WIFI_Refresh|9309X2|
 |TCL|TCL TAB 8|Luna|9132G|
+|TCL|TCL TAB 8|Luna|9132X|
 |TCL|TCL TAB 8 4G|Apollo_8_4G|9032X|
 |TCL|TCL TAB 8 LE|Luna_8_4G_TMO|9137W|
+|TCL|TCL TAB 8 Plus|Luna_8_4G_VZW|9138S|
+|TCL|TCL TAB 8 V|Luna|9132X|
 |TCL|TCL TAB 8 Wi-Fi|Luna|9132X|
 |TCL|TCL TAB Disney Edition|Thor_8_4G_VZW|9050S|
+|TCL|TCL TAB Disney Edition 2|Luna_8_4G_VZW|9150S|
 |TCL|TCL TAB Lite|Apollo84GBoostR|9132S|
 |TCL|TCL TAB kids|Thor_8_4G_VZW|9049L|
 |TCL|TCL TAB10 Gen2|Gaia|8496G|
@@ -34751,6 +34777,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|G3 EEA|UMIDIGI_G3|MP24|
 |Umidigi|G3 Plus|G3_Plus|MP25|
 |Umidigi|G3 Plus EEA|G3_Plus|MP25|
+|Umidigi|G5 Mecha|G5_Mecha|RP08|
 |Umidigi|MT02_EEA|MT02_EEA|AblePad|
 |Umidigi|MT02_ROW|MT02_ROW|AblePad|
 |Umidigi|One|One|One|
@@ -34779,6 +34806,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|S5_Pro_EEA|S5_Pro|S5 Pro|
 |Umidigi|UMIDIGI A13 Pro Max|UMIDIGI_A13_Pro_Max|MP16|
 |Umidigi|UMIDIGI A13 Pro Max EEA|UMIDIGI_A13_Pro_Max|MP16|
+|Umidigi|UMIDIGI A15|UMIDIGI_A15|MP33|
+|Umidigi|UMIDIGI A15C|UMIDIGI_A15C|MP34|
 |Umidigi|UMIDIGI C1|UMIDIGI_C1|MP07|
 |Umidigi|UMIDIGI C1 EEA|UMIDIGI_C1|MP07|
 |Umidigi|UMIDIGI C2|UMIDIGI_C2|MP20|
@@ -34789,6 +34818,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|UMIDIGI G1 EEA|UMIDIGI_G1|MP08|
 |Umidigi|UMIDIGI G3 Max|G3_Max|MP26|
 |Umidigi|UMIDIGI G3 Max EEA|G3_Max|MP26|
+|Umidigi|UMIDIGI G5|UMIDIGI_G5|MP27|
 |Umidigi|UMIDIGI X|UMIDIGI_X|UMIDIGI X|
 |Umidigi|Z2|Z2|Z2|
 |Umidigi|Z2 Pro|Z2_PRO|Z2_PRO|

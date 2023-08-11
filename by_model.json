@@ -42970,6 +42970,13 @@
    "device": "OD0M_EA_T32"
   }
  ],
+ "MBTWDY01": [
+  {
+   "brand": "DAIYU",
+   "name": "MBTWDY01",
+   "device": "Mediabox"
+  }
+ ],
  "SURF1000": [
   {
    "brand": "DBM Maroc",
@@ -49755,6 +49762,11 @@
    "device": "X90"
   },
   {
+   "brand": "EL (Africa)",
+   "name": "X90",
+   "device": "X90a"
+  },
+  {
    "brand": "Premio",
    "name": "X90",
    "device": "X90"
@@ -52267,6 +52279,11 @@
   {
    "brand": "EPIKONE",
    "name": "X650",
+   "device": "X650"
+  },
+  {
+   "brand": "EPIKONE",
+   "name": "X650_tigo",
    "device": "X650"
   }
  ],
@@ -57778,6 +57795,13 @@
    "brand": "Flow",
    "name": "FlowBox-F2",
    "device": "HP44H"
+  }
+ ],
+ "FlowBox-S2": [
+  {
+   "brand": "Flow",
+   "name": "FlowBox-S2",
+   "device": "m250_t"
   }
  ],
  "FlowSoundBox": [
@@ -74531,6 +74555,13 @@
    "brand": "Hi TFG",
    "name": "Spitfire",
    "device": "Spitfire"
+  }
+ ],
+ "Boost Hypa": [
+  {
+   "brand": "Hi(HMR)",
+   "name": "Boost Hypa",
+   "device": "Boost_Hypa"
   }
  ],
  "Boost Ultra": [
@@ -94560,6 +94591,13 @@
    "device": "A161"
   }
  ],
+ "A161_Plus": [
+  {
+   "brand": "INOI",
+   "name": "INOI A62 64GB",
+   "device": "A161_Plus"
+  }
+ ],
  "A170": [
   {
    "brand": "INOI",
@@ -94575,6 +94613,13 @@
   }
  ],
  "A171": [
+  {
+   "brand": "INOI",
+   "name": "INOI A72",
+   "device": "A171"
+  }
+ ],
+ "A171_Plus": [
   {
    "brand": "INOI",
    "name": "INOI A72",
@@ -106175,6 +106220,18 @@
    "brand": "Kenxinda",
    "name": "X7s",
    "device": "X7s"
+  }
+ ],
+ "X85": [
+  {
+   "brand": "Kenxinda",
+   "name": "X85",
+   "device": "X85"
+  },
+  {
+   "brand": "Premio",
+   "name": "X85",
+   "device": "X85"
   }
  ],
  "X8a": [
@@ -160323,6 +160380,13 @@
    "device": "DAYTONA-G12"
   }
  ],
+ "DAYTONA-G6": [
+  {
+   "brand": "Packard Bell",
+   "name": "DAYTONA-G6",
+   "device": "DAYTONA-G6"
+  }
+ ],
  "INTERLAGOS-T32": [
   {
    "brand": "Packard Bell",
@@ -167213,13 +167277,6 @@
    "device": "X84"
   }
  ],
- "X85": [
-  {
-   "brand": "Premio",
-   "name": "X85",
-   "device": "X85"
-  }
- ],
  "X85 PRO": [
   {
    "brand": "Premio",
@@ -168378,6 +168435,20 @@
    "brand": "Prestigio",
    "name": "PMT4518_4G_E_RU",
    "device": "HP80A20L"
+  }
+ ],
+ "PMT4528_4G_E_RU": [
+  {
+   "brand": "Prestigio",
+   "name": "PMT4528_4G_E_RU",
+   "device": "TL80A17L"
+  }
+ ],
+ "PMT4541_4G_E_RU": [
+  {
+   "brand": "Prestigio",
+   "name": "PMT4541_4G_E_RU",
+   "device": "TL10A16L"
   }
  ],
  "PMT4667_3G_RU": [
@@ -169643,6 +169714,13 @@
    "brand": "Prixton",
    "name": "T9120_EEA",
    "device": "T9120"
+  }
+ ],
+ "APPC-10SLBe": [
+  {
+   "brand": "ProDVX",
+   "name": "APPC-10SLBe",
+   "device": "rk3399_Android11"
   }
  ],
  "Prodigi Connect 12": [
@@ -175605,6 +175683,11 @@
    "brand": "Reeder",
    "name": "P13 Blue MaxL 2022",
    "device": "P13_Blue_MaxL_2022"
+  },
+  {
+   "brand": "Reeder",
+   "name": "P13 Blue MaxL 2022s",
+   "device": "P13_Blue_MaxL_2022"
   }
  ],
  "P13_Blue_Plus": [
@@ -177049,6 +177132,11 @@
    "brand": "SFR.fr",
    "name": "Connect TV de SFR",
    "device": "DV8945-KFS"
+  },
+  {
+   "brand": "SFR.fr",
+   "name": "Connect V3",
+   "device": "DIW377_ALT_FR"
   }
  ],
  "DV8219_SFR": [
@@ -178956,6 +179044,13 @@
    "device": "Model_6"
   }
  ],
+ "Model_6_4G": [
+  {
+   "brand": "SUNMAX",
+   "name": "Model_6_4G",
+   "device": "Model_6_4G"
+  }
+ ],
  "Model 6 Pro": [
   {
    "brand": "SUNMAX",
@@ -179622,6 +179717,13 @@
    "brand": "Safaricom",
    "name": "NEON SKY",
    "device": "NEON_SKY"
+  }
+ ],
+ "NEON_STREAM": [
+  {
+   "brand": "Safaricom",
+   "name": "NEON STREAM",
+   "device": "NEON_STREAM"
   }
  ],
  "NEON_VISION": [
@@ -214905,6 +215007,13 @@
    "device": "Model_3"
   }
  ],
+ "T610P": [
+  {
+   "brand": "TCL",
+   "name": "TCL 40 SE",
+   "device": "Model_3"
+  }
+ ],
  "T609M": [
   {
    "brand": "TCL",
@@ -214917,6 +215026,41 @@
    "brand": "TCL",
    "name": "TCL 40 XE 5G",
    "device": "Encore_CAN"
+  }
+ ],
+ "T609V": [
+  {
+   "brand": "TCL",
+   "name": "TCL 40 XE 5G",
+   "device": "Encore_Spectrum"
+  }
+ ],
+ "T431A": [
+  {
+   "brand": "TCL",
+   "name": "TCL 403",
+   "device": "Rio"
+  }
+ ],
+ "T431E": [
+  {
+   "brand": "TCL",
+   "name": "TCL 403",
+   "device": "Rio"
+  }
+ ],
+ "T431P": [
+  {
+   "brand": "TCL",
+   "name": "TCL 403",
+   "device": "Rio"
+  }
+ ],
+ "T431Q": [
+  {
+   "brand": "TCL",
+   "name": "TCL 403",
+   "device": "Rio"
   }
  ],
  "T506A": [
@@ -215433,6 +215577,23 @@
    "device": "Luna"
   }
  ],
+ "9132X": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 8",
+   "device": "Luna"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 8 V",
+   "device": "Luna"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL TAB 8 Wi-Fi",
+   "device": "Luna"
+  }
+ ],
  "9032X": [
   {
    "brand": "TCL",
@@ -215452,11 +215613,11 @@
    "device": "Luna_8_4G_TMO"
   }
  ],
- "9132X": [
+ "9138S": [
   {
    "brand": "TCL",
-   "name": "TCL TAB 8 Wi-Fi",
-   "device": "Luna"
+   "name": "TCL TAB 8 Plus",
+   "device": "Luna_8_4G_VZW"
   }
  ],
  "9050S": [
@@ -215464,6 +215625,13 @@
    "brand": "TCL",
    "name": "TCL TAB Disney Edition",
    "device": "Thor_8_4G_VZW"
+  }
+ ],
+ "9150S": [
+  {
+   "brand": "TCL",
+   "name": "TCL TAB Disney Edition 2",
+   "device": "Luna_8_4G_VZW"
   }
  ],
  "9049L": [
@@ -235086,6 +235254,13 @@
    "device": "G3_Plus"
   }
  ],
+ "RP08": [
+  {
+   "brand": "Umidigi",
+   "name": "G5 Mecha",
+   "device": "G5_Mecha"
+  }
+ ],
  "AblePad": [
   {
    "brand": "Umidigi",
@@ -235214,6 +235389,20 @@
    "device": "UMIDIGI_A13_Pro_Max"
   }
  ],
+ "MP33": [
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI A15",
+   "device": "UMIDIGI_A15"
+  }
+ ],
+ "MP34": [
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI A15C",
+   "device": "UMIDIGI_A15C"
+  }
+ ],
  "MP07": [
   {
    "brand": "Umidigi",
@@ -235272,6 +235461,13 @@
    "brand": "Umidigi",
    "name": "UMIDIGI G3 Max EEA",
    "device": "G3_Max"
+  }
+ ],
+ "MP27": [
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI G5",
+   "device": "UMIDIGI_G5"
   }
  ],
  "UMIDIGI X": [

@@ -49300,6 +49300,13 @@
    "model": "DAIKO UHD TV"
   }
  ],
+ "MBTWDY01": [
+  {
+   "brand": "DAIYU",
+   "device": "Mediabox",
+   "model": "MBTWDY01"
+  }
+ ],
  "ACCENT SURF 1000": [
   {
    "brand": "DBM Maroc",
@@ -56351,6 +56358,11 @@
    "model": "X90"
   },
   {
+   "brand": "EL (Africa)",
+   "device": "X90a",
+   "model": "X90"
+  },
+  {
    "brand": "Premio",
    "device": "X90",
    "model": "X90"
@@ -59204,6 +59216,13 @@
   }
  ],
  "X650": [
+  {
+   "brand": "EPIKONE",
+   "device": "X650",
+   "model": "X650"
+  }
+ ],
+ "X650_tigo": [
   {
    "brand": "EPIKONE",
    "device": "X650",
@@ -64640,6 +64659,13 @@
    "brand": "Flow",
    "device": "HP44H",
    "model": "FlowBox-F2"
+  }
+ ],
+ "FlowBox-S2": [
+  {
+   "brand": "Flow",
+   "device": "m250_t",
+   "model": "FlowBox-S2"
   }
  ],
  "FlowSoundBox": [
@@ -80729,6 +80755,13 @@
    "brand": "Hi TFG",
    "device": "Spitfire",
    "model": "Spitfire"
+  }
+ ],
+ "Boost Hypa": [
+  {
+   "brand": "Hi(HMR)",
+   "device": "Boost_Hypa",
+   "model": "Boost Hypa"
   }
  ],
  "Boost Ultra": [
@@ -97098,6 +97131,11 @@
    "brand": "INOI",
    "device": "A161",
    "model": "A161"
+  },
+  {
+   "brand": "INOI",
+   "device": "A161_Plus",
+   "model": "A161_Plus"
   }
  ],
  "INOI A72": [
@@ -97115,6 +97153,11 @@
    "brand": "INOI",
    "device": "A171",
    "model": "A171"
+  },
+  {
+   "brand": "INOI",
+   "device": "A171",
+   "model": "A171_Plus"
   }
  ],
  "INOI Note 12": [
@@ -108412,6 +108455,18 @@
    "brand": "Kenxinda",
    "device": "X7s",
    "model": "X7s"
+  }
+ ],
+ "X85": [
+  {
+   "brand": "Kenxinda",
+   "device": "X85",
+   "model": "X85"
+  },
+  {
+   "brand": "Premio",
+   "device": "X85",
+   "model": "X85"
   }
  ],
  "X8a": [
@@ -157586,6 +157641,13 @@
    "model": "DAYTONA-G12"
   }
  ],
+ "DAYTONA-G6": [
+  {
+   "brand": "Packard Bell",
+   "device": "DAYTONA-G6",
+   "model": "DAYTONA-G6"
+  }
+ ],
  "INTERLAGOS-T32": [
   {
    "brand": "Packard Bell",
@@ -164293,13 +164355,6 @@
    "model": "X84"
   }
  ],
- "X85": [
-  {
-   "brand": "Premio",
-   "device": "X85",
-   "model": "X85"
-  }
- ],
  "X85 PRO": [
   {
    "brand": "Premio",
@@ -165445,6 +165500,20 @@
    "brand": "Prestigio",
    "device": "HP80A20L",
    "model": "PMT4518_4G_E_RU"
+  }
+ ],
+ "PMT4528_4G_E_RU": [
+  {
+   "brand": "Prestigio",
+   "device": "TL80A17L",
+   "model": "PMT4528_4G_E_RU"
+  }
+ ],
+ "PMT4541_4G_E_RU": [
+  {
+   "brand": "Prestigio",
+   "device": "TL10A16L",
+   "model": "PMT4541_4G_E_RU"
   }
  ],
  "PMT4667_3G_RU": [
@@ -166748,6 +166817,13 @@
    "brand": "Prixton",
    "device": "T9120",
    "model": "T9120"
+  }
+ ],
+ "APPC-10SLBe": [
+  {
+   "brand": "ProDVX",
+   "device": "rk3399_Android11",
+   "model": "APPC-10SLBe"
   }
  ],
  "Prodigi Connect 12": [
@@ -172410,6 +172486,13 @@
    "model": "P13 Blue MaxL 2022"
   }
  ],
+ "P13 Blue MaxL 2022s": [
+  {
+   "brand": "Reeder",
+   "device": "P13_Blue_MaxL_2022",
+   "model": "P13 Blue MaxL 2022"
+  }
+ ],
  "P13 Blue Plus": [
   {
    "brand": "Reeder",
@@ -173893,6 +173976,13 @@
   {
    "brand": "SFR.fr",
    "device": "DV8945-KFS",
+   "model": "Connect TV de SFR"
+  }
+ ],
+ "Connect V3": [
+  {
+   "brand": "SFR.fr",
+   "device": "DIW377_ALT_FR",
    "model": "Connect TV de SFR"
   }
  ],
@@ -175757,6 +175847,13 @@
    "model": "Model 6"
   }
  ],
+ "Model_6_4G": [
+  {
+   "brand": "SUNMAX",
+   "device": "Model_6_4G",
+   "model": "Model_6_4G"
+  }
+ ],
  "Model_6_Pro": [
   {
    "brand": "SUNMAX",
@@ -176389,6 +176486,13 @@
    "brand": "Safaricom",
    "device": "NEON_SKY",
    "model": "NEON_SKY"
+  }
+ ],
+ "NEON STREAM": [
+  {
+   "brand": "Safaricom",
+   "device": "NEON_STREAM",
+   "model": "NEON_STREAM"
   }
  ],
  "NEON VISION": [
@@ -206556,6 +206660,11 @@
    "brand": "TCL",
    "device": "Model_3",
    "model": "T610K"
+  },
+  {
+   "brand": "TCL",
+   "device": "Model_3",
+   "model": "T610P"
   }
  ],
  "TCL 40 X 5G": [
@@ -206570,6 +206679,33 @@
    "brand": "TCL",
    "device": "Encore_CAN",
    "model": "T609J"
+  },
+  {
+   "brand": "TCL",
+   "device": "Encore_Spectrum",
+   "model": "T609V"
+  }
+ ],
+ "TCL 403": [
+  {
+   "brand": "TCL",
+   "device": "Rio",
+   "model": "T431A"
+  },
+  {
+   "brand": "TCL",
+   "device": "Rio",
+   "model": "T431E"
+  },
+  {
+   "brand": "TCL",
+   "device": "Rio",
+   "model": "T431P"
+  },
+  {
+   "brand": "TCL",
+   "device": "Rio",
+   "model": "T431Q"
   }
  ],
  "TCL 405": [
@@ -207019,6 +207155,11 @@
    "brand": "TCL",
    "device": "Luna",
    "model": "9132G"
+  },
+  {
+   "brand": "TCL",
+   "device": "Luna",
+   "model": "9132X"
   }
  ],
  "TCL TAB 8 4G": [
@@ -207035,6 +207176,20 @@
    "model": "9137W"
   }
  ],
+ "TCL TAB 8 Plus": [
+  {
+   "brand": "TCL",
+   "device": "Luna_8_4G_VZW",
+   "model": "9138S"
+  }
+ ],
+ "TCL TAB 8 V": [
+  {
+   "brand": "TCL",
+   "device": "Luna",
+   "model": "9132X"
+  }
+ ],
  "TCL TAB 8 Wi-Fi": [
   {
    "brand": "TCL",
@@ -207047,6 +207202,13 @@
    "brand": "TCL",
    "device": "Thor_8_4G_VZW",
    "model": "9050S"
+  }
+ ],
+ "TCL TAB Disney Edition 2": [
+  {
+   "brand": "TCL",
+   "device": "Luna_8_4G_VZW",
+   "model": "9150S"
   }
  ],
  "TCL TAB Lite": [
@@ -224281,6 +224443,13 @@
    "model": "MP25"
   }
  ],
+ "G5 Mecha": [
+  {
+   "brand": "Umidigi",
+   "device": "G5_Mecha",
+   "model": "RP08"
+  }
+ ],
  "MT02_EEA": [
   {
    "brand": "Umidigi",
@@ -224449,6 +224618,20 @@
    "model": "MP16"
   }
  ],
+ "UMIDIGI A15": [
+  {
+   "brand": "Umidigi",
+   "device": "UMIDIGI_A15",
+   "model": "MP33"
+  }
+ ],
+ "UMIDIGI A15C": [
+  {
+   "brand": "Umidigi",
+   "device": "UMIDIGI_A15C",
+   "model": "MP34"
+  }
+ ],
  "UMIDIGI C1": [
   {
    "brand": "Umidigi",
@@ -224517,6 +224700,13 @@
    "brand": "Umidigi",
    "device": "G3_Max",
    "model": "MP26"
+  }
+ ],
+ "UMIDIGI G5": [
+  {
+   "brand": "Umidigi",
+   "device": "UMIDIGI_G5",
+   "model": "MP27"
   }
  ],
  "UMIDIGI X": [
