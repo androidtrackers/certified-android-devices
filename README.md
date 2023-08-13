@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-08-12
+Last sync is 2023-08-13
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -24295,6 +24295,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Positivo|Twist Tab|T770G|Twist Tab|
 |Positivo|Twist Tab|T770G|Twist Tab +|
 |Positivo|Twist Tab|T770G|Twist Tab Minions +|
+|Positivo|Twist Tab|T770G|Twist Tab SPIDEY +|
 |Positivo|Twist Tab Kids|T770|Twist Tab|
 |Positivo|Twist Tab Kids|T770|Twist Tab Kids|
 |Positivo|Twist XL|S555|Twist XL|
