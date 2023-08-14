@@ -1192,6 +1192,13 @@
    "device": "AGM_PAD_P1"
   }
  ],
+ "Hybrid_8600": [
+  {
+   "brand": "AHA(A)",
+   "name": "IFPD",
+   "device": "AHA_ULTRA_RK3588"
+  }
+ ],
  "ADT1012L": [
   {
    "brand": "AIDATA",
@@ -152382,6 +152389,20 @@
    "device": "MPC80T"
   }
  ],
+ "ONIDA 2K Android TV": [
+  {
+   "brand": "ONIDA",
+   "name": "ONIDA 2K Android TV",
+   "device": "lasalle"
+  }
+ ],
+ "ONIDA 4K Android TV": [
+  {
+   "brand": "ONIDA",
+   "name": "ONIDA 4K Android TV",
+   "device": "kenton"
+  }
+ ],
  "Model A": [
   {
    "brand": "ONYX",
@@ -176507,6 +176528,18 @@
    "device": "RG740B"
   }
  ],
+ "RG750": [
+  {
+   "brand": "Ruggear",
+   "name": "RG750",
+   "device": "RG750_EEA"
+  },
+  {
+   "brand": "Ruggear",
+   "name": "RG750",
+   "device": "RG750_ROW"
+  }
+ ],
  "RG760": [
   {
    "brand": "Ruggear",
@@ -178540,6 +178573,13 @@
    "brand": "STARK_FUTURE",
    "name": "VARG",
    "device": "VARG"
+  }
+ ],
+ "STARSHINE  2K Google TV": [
+  {
+   "brand": "STARSHINE",
+   "name": "STARSHINE 2K Google TV",
+   "device": "capitolhill"
   }
  ],
  "AERIAL": [
@@ -235266,6 +235306,11 @@
    "brand": "Umidigi",
    "name": "G5 Mecha",
    "device": "G5_Mecha"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "G5 Mecha EEA",
+   "device": "G5_Mecha"
   }
  ],
  "AblePad": [
@@ -235408,6 +235453,11 @@
    "brand": "Umidigi",
    "name": "UMIDIGI A15C",
    "device": "UMIDIGI_A15C"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI A15C EEA",
+   "device": "UMIDIGI_A15C"
   }
  ],
  "MP07": [
@@ -235474,6 +235524,11 @@
   {
    "brand": "Umidigi",
    "name": "UMIDIGI G5",
+   "device": "UMIDIGI_G5"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI G5 EEA",
    "device": "UMIDIGI_G5"
   }
  ],
@@ -267240,6 +267295,13 @@
    "brand": "iGet",
    "name": "SMART_L30",
    "device": "SMART_L30"
+  }
+ ],
+ "SMART L31": [
+  {
+   "brand": "iGet",
+   "name": "SMART_L31",
+   "device": "SMART_L31"
   }
  ],
  "SMART_L31": [

@@ -2429,6 +2429,13 @@
    "model": "AGM_PAD_P1"
   }
  ],
+ "AHA_ULTRA_RK3588": [
+  {
+   "brand": "AHA(A)",
+   "name": "IFPD",
+   "model": "Hybrid_8600"
+  }
+ ],
  "ADT1012L": [
   {
    "brand": "AIDATA",
@@ -4784,6 +4791,11 @@
    "model": "MAJESTIC 2K Android TV"
   },
   {
+   "brand": "ONIDA",
+   "name": "ONIDA 2K Android TV",
+   "model": "ONIDA 2K Android TV"
+  },
+  {
    "brand": "ORCA",
    "name": "ORCA 2K Android TV",
    "model": "ORCA 2K Android TV"
@@ -4891,6 +4903,11 @@
    "model": "SICON 2K Google TV"
   },
   {
+   "brand": "STARSHINE",
+   "name": "STARSHINE 2K Google TV",
+   "model": "STARSHINE  2K Google TV"
+  },
+  {
    "brand": "SYLVOX",
    "name": "SYLVOX 2K Google TV",
    "model": "SYLVOX  2K Google TV"
@@ -4971,6 +4988,11 @@
    "brand": "Majestic",
    "name": "MAJESTIC 4K Android TV",
    "model": "MAJESTIC 4K Android TV"
+  },
+  {
+   "brand": "ONIDA",
+   "name": "ONIDA 4K Android TV",
+   "model": "ONIDA 4K Android TV"
   },
   {
    "brand": "ORCA",
@@ -173126,6 +173148,20 @@
    "model": "RG740B"
   }
  ],
+ "RG750_EEA": [
+  {
+   "brand": "Ruggear",
+   "name": "RG750",
+   "model": "RG750"
+  }
+ ],
+ "RG750_ROW": [
+  {
+   "brand": "Ruggear",
+   "name": "RG750",
+   "model": "RG750"
+  }
+ ],
  "RG760": [
   {
    "brand": "Ruggear",
@@ -226490,6 +226526,11 @@
    "brand": "Umidigi",
    "name": "G5 Mecha",
    "model": "RP08"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "G5 Mecha EEA",
+   "model": "RP08"
   }
  ],
  "MT02_EEA": [
@@ -226616,6 +226657,11 @@
    "brand": "Umidigi",
    "name": "UMIDIGI A15C",
    "model": "MP34"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI A15C EEA",
+   "model": "MP34"
   }
  ],
  "UMIDIGI_C1": [
@@ -226682,6 +226728,11 @@
   {
    "brand": "Umidigi",
    "name": "UMIDIGI G5",
+   "model": "MP27"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI G5 EEA",
    "model": "MP27"
   }
  ],
@@ -255754,6 +255805,11 @@
   }
  ],
  "SMART_L31": [
+  {
+   "brand": "iGet",
+   "name": "SMART_L31",
+   "model": "SMART L31"
+  },
   {
    "brand": "iGet",
    "name": "SMART_L31",

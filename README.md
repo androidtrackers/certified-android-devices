@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-08-13
+Last sync is 2023-08-14
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -135,6 +135,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AGM Mobile|AGM_H5_PRO|AGM_H5_PRO|AGM_H5_PRO|
 |AGM Mobile|AGM_Note_N1|AGM_Note_N1|AGM_Note_N1|
 |AGM Mobile|AGM_PAD_P1|AGM_PAD_P1|AGM_PAD_P1|
+|AHA(A)|IFPD|AHA_ULTRA_RK3588|Hybrid_8600|
 |AIDATA|ADT1012L|ADT1012L|ADT1012L|
 |AIDATA|ADT1061|ADT1061|ADT1061|
 |AIDATA|ADT1061_1|ADT1061_1|ADT1061_1|
@@ -22114,6 +22115,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |ONDA TLC|T9 S|T9S|T9S|
 |ONERugged|MPC10T|MPC10T|MPC10T|
 |ONERugged|MPC80T|MPC80T|MPC80T|
+|ONIDA|ONIDA 2K Android TV|lasalle|ONIDA 2K Android TV|
+|ONIDA|ONIDA 4K Android TV|kenton|ONIDA 4K Android TV|
 |ONYX|AKA Model A|Model_A|Model A|
 |ONYX|BOOX|BOOX|BOOX|
 |ONYX|BOOX Tab|BOOX_Tab|BOOX Tab|
@@ -25861,6 +25864,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ruggear|RG725_Q_US|RG725|RG725|
 |Ruggear|RG730|rg730|RugGear RG730|
 |Ruggear|RG740B|RG740B|RG740B|
+|Ruggear|RG750|RG750_EEA|RG750|
+|Ruggear|RG750|RG750_ROW|RG750|
 |Ruggear|RG760|RG760|RG760|
 |Ruggear|RG850|RG850|RG850|
 |Ruggear|RG910|RG910|RG910|
@@ -26190,6 +26195,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SSmooth|Vision|Vision|Vision|
 |SSmooth|Vision Plus|Vision_Plus|Vision Plus|
 |STARK_FUTURE|VARG|VARG|VARG|
+|STARSHINE|STARSHINE 2K Google TV|capitolhill|STARSHINE  2K Google TV|
 |STF Mobile|AERIAL|STFAERIAL|AERIAL|
 |STF Mobile|AERIAL PLUS|AERIAL|AERIAL PLUS|
 |STF Mobile|AURA|AURA|AURA|
@@ -34779,6 +34785,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|G3 Plus|G3_Plus|MP25|
 |Umidigi|G3 Plus EEA|G3_Plus|MP25|
 |Umidigi|G5 Mecha|G5_Mecha|RP08|
+|Umidigi|G5 Mecha EEA|G5_Mecha|RP08|
 |Umidigi|MT02_EEA|MT02_EEA|AblePad|
 |Umidigi|MT02_ROW|MT02_ROW|AblePad|
 |Umidigi|One|One|One|
@@ -34809,6 +34816,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|UMIDIGI A13 Pro Max EEA|UMIDIGI_A13_Pro_Max|MP16|
 |Umidigi|UMIDIGI A15|UMIDIGI_A15|MP33|
 |Umidigi|UMIDIGI A15C|UMIDIGI_A15C|MP34|
+|Umidigi|UMIDIGI A15C EEA|UMIDIGI_A15C|MP34|
 |Umidigi|UMIDIGI C1|UMIDIGI_C1|MP07|
 |Umidigi|UMIDIGI C1 EEA|UMIDIGI_C1|MP07|
 |Umidigi|UMIDIGI C2|UMIDIGI_C2|MP20|
@@ -34820,6 +34828,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|UMIDIGI G3 Max|G3_Max|MP26|
 |Umidigi|UMIDIGI G3 Max EEA|G3_Max|MP26|
 |Umidigi|UMIDIGI G5|UMIDIGI_G5|MP27|
+|Umidigi|UMIDIGI G5 EEA|UMIDIGI_G5|MP27|
 |Umidigi|UMIDIGI X|UMIDIGI_X|UMIDIGI X|
 |Umidigi|Z2|Z2|Z2|
 |Umidigi|Z2 Pro|Z2_PRO|Z2_PRO|
@@ -39822,6 +39831,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |iGet|SMART_L206|SMART_L206|SMART_L206|
 |iGet|SMART_L20X|SMART_L20X|SMART_L20X|
 |iGet|SMART_L30|SMART_L30|SMART L30|
+|iGet|SMART_L31|SMART_L31|SMART L31|
 |iGet|SMART_L31|SMART_L31|SMART_L31|
 |iGet|SMART_L32|SMART_L32|SMART L32|
 |iGet|SMART_W101|SMART_W101|SMART_W101|

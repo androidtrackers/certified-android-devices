@@ -707,6 +707,13 @@
    "model": "AGM_PAD_P1"
   }
  ],
+ "AHA(A)": [
+  {
+   "device": "AHA_ULTRA_RK3588",
+   "name": "IFPD",
+   "model": "Hybrid_8600"
+  }
+ ],
  "AIDATA": [
   {
    "device": "ADT1012L",
@@ -113762,6 +113769,18 @@
    "model": "MPC80T"
   }
  ],
+ "ONIDA": [
+  {
+   "device": "lasalle",
+   "name": "ONIDA 2K Android TV",
+   "model": "ONIDA 2K Android TV"
+  },
+  {
+   "device": "kenton",
+   "name": "ONIDA 4K Android TV",
+   "model": "ONIDA 4K Android TV"
+  }
+ ],
  "ONYX": [
   {
    "device": "Model_A",
@@ -133031,6 +133050,16 @@
    "model": "RG740B"
   },
   {
+   "device": "RG750_EEA",
+   "name": "RG750",
+   "model": "RG750"
+  },
+  {
+   "device": "RG750_ROW",
+   "name": "RG750",
+   "model": "RG750"
+  },
+  {
    "device": "RG760",
    "name": "RG760",
    "model": "RG760"
@@ -134814,6 +134843,13 @@
    "device": "VARG",
    "name": "VARG",
    "model": "VARG"
+  }
+ ],
+ "STARSHINE": [
+  {
+   "device": "capitolhill",
+   "name": "STARSHINE 2K Google TV",
+   "model": "STARSHINE  2K Google TV"
   }
  ],
  "STF Mobile": [
@@ -178523,6 +178559,11 @@
    "model": "RP08"
   },
   {
+   "device": "G5_Mecha",
+   "name": "G5 Mecha EEA",
+   "model": "RP08"
+  },
+  {
    "device": "MT02_EEA",
    "name": "MT02_EEA",
    "model": "AblePad"
@@ -178673,6 +178714,11 @@
    "model": "MP34"
   },
   {
+   "device": "UMIDIGI_A15C",
+   "name": "UMIDIGI A15C EEA",
+   "model": "MP34"
+  },
+  {
    "device": "UMIDIGI_C1",
    "name": "UMIDIGI C1",
    "model": "MP07"
@@ -178725,6 +178771,11 @@
   {
    "device": "UMIDIGI_G5",
    "name": "UMIDIGI G5",
+   "model": "MP27"
+  },
+  {
+   "device": "UMIDIGI_G5",
+   "name": "UMIDIGI G5 EEA",
    "model": "MP27"
   },
   {
@@ -204412,6 +204463,11 @@
    "device": "SMART_L30",
    "name": "SMART_L30",
    "model": "SMART L30"
+  },
+  {
+   "device": "SMART_L31",
+   "name": "SMART_L31",
+   "model": "SMART L31"
   },
   {
    "device": "SMART_L31",
