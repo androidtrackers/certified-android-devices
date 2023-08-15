@@ -4133,6 +4133,18 @@
    "model": "Philips UHD Android TV"
   }
  ],
+ "PH3M_AL_T32": [
+  {
+   "brand": "AOC",
+   "name": "AOC Google TV TA7",
+   "model": "AOC Google TV TA7"
+  },
+  {
+   "brand": "Philips",
+   "name": "Philips Google TV TA7",
+   "model": "Philips Google TV TA7"
+  }
+ ],
  "Q10107L-ME": [
   {
    "brand": "AOC",
@@ -4938,11 +4950,6 @@
    "brand": "BGH S.A.",
    "name": "BGH 4K Android TV",
    "model": "BGH 4K Android TV"
-  },
-  {
-   "brand": "Continental Edison",
-   "name": "ContinentalEdison 4K Android TV",
-   "model": "ContinentalEdison 4K Android TV"
   },
   {
    "brand": "DigiKing",
@@ -32328,8 +32335,18 @@
   },
   {
    "brand": "CAIXUN",
+   "name": "Apollo Premium TV",
+   "model": "Apollo Premium TV"
+  },
+  {
+   "brand": "CAIXUN",
    "name": "Europe",
    "model": "Fobem 2K SMART TV"
+  },
+  {
+   "brand": "Continental Edison",
+   "name": "CDI SMART TV",
+   "model": "CDI SMART TV"
   },
   {
    "brand": "Grunkel",
@@ -32360,6 +32377,11 @@
    "brand": "Profilo",
    "name": "Turkey",
    "model": "Profilo Smart TV"
+  },
+  {
+   "brand": "RCA",
+   "name": "RCA 2K SMART TV",
+   "model": "RCA 2K SMART TV"
   },
   {
    "brand": "Sansui",
@@ -32395,6 +32417,11 @@
    "brand": "Vision",
    "name": "VISION 2K SMART TV",
    "model": "VISION 2K SMART TV"
+  },
+  {
+   "brand": "XENON",
+   "name": "XENON ANDROID TV",
+   "model": "XENON ANDROID TV"
   }
  ],
  "Guardian": [
@@ -109029,6 +109056,11 @@
    "brand": "LG HelloVision",
    "name": "K1100UA",
    "model": "K1100UA"
+  },
+  {
+   "brand": "sky HCN",
+   "name": "KSTB1157",
+   "model": "KSTB1157"
   }
  ],
  "uce4027cjh": [
@@ -152522,6 +152554,13 @@
    "model": "CPH2385"
   }
  ],
+ "OP574FL1": [
+  {
+   "brand": "Oppo",
+   "name": "A58",
+   "model": "CPH2577"
+  }
+ ],
  "A59": [
   {
    "brand": "Oppo",
@@ -153759,13 +153798,6 @@
    "model": "CPH2321"
   }
  ],
- "OP574FL1": [
-  {
-   "brand": "Oppo",
-   "name": "OPPO A58",
-   "model": "CPH2577"
-  }
- ],
  "OP4EB7": [
   {
    "brand": "Oppo",
@@ -153819,6 +153851,11 @@
    "brand": "Oppo",
    "name": "OPPO Reno5 A",
    "model": "CPH2199"
+  },
+  {
+   "brand": "Oppo",
+   "name": "Reno5 A (eSIM)",
+   "model": "A103OP"
   }
  ],
  "OP4EA7": [
@@ -155053,6 +155090,18 @@
    "brand": "Oppo",
    "name": "Reno8 T 5G",
    "model": "CPH2505"
+  }
+ ],
+ "OP5701L1": [
+  {
+   "brand": "Oppo",
+   "name": "Reno9 A",
+   "model": "A301OP"
+  },
+  {
+   "brand": "Oppo",
+   "name": "Reno9 A",
+   "model": "CPH2523"
   }
  ],
  "U707": [
@@ -161199,13 +161248,6 @@
    "brand": "Philips",
    "name": "Philips Google TV TA6",
    "model": "Philips Google TV TA6 LT"
-  }
- ],
- "PH3M_AL_T32": [
-  {
-   "brand": "Philips",
-   "name": "Philips Google TV TA7",
-   "model": "Philips Google TV TA7"
   }
  ],
  "S257": [
@@ -232846,6 +232888,13 @@
    "brand": "Vivo",
    "name": "V2282A",
    "model": "V2282A"
+  }
+ ],
+ "PD2314": [
+  {
+   "brand": "Vivo",
+   "name": "V2314A",
+   "model": "V2314A"
   }
  ],
  "V2158": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-08-14
+Last sync is 2023-08-15
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -178,6 +178,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |AOC|AOC|A732G|A732G|
 |AOC|AOC|AOC_A831L-D|A831L-D|
 |AOC|AOC Android TV|PH0M_EA_T32|AOC Android TV|
+|AOC|AOC Google TV TA7|PH3M_AL_T32|AOC Google TV TA7|
 |AOC|Q10107L-ME|Q10107L-ME|Q10107L-ME|
 |AOC|Q10107LW-ME|Q10107LW-ME|Q10107LW-ME|
 |AOC|Q8108L-ME|Q8108L-ME|Q8108L-ME|
@@ -4072,6 +4073,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |C5 Mobile|noa X2 Plus|noa_x2_Plus|noa X2 Plus|
 |C5 Mobile|noa_G1|noa_G1|noa_G1|
 |CAIXUN|APAC|tamachi|AiPlus2K|
+|CAIXUN|Apollo Premium TV|nagata|Apollo Premium TV|
 |CAIXUN|Australian/EU|yeongdeungpo|AiPlus4K|
 |CAIXUN|Canada|yeongdeungpo|AiPlus4K|
 |CAIXUN|Columbia|marina|Apollo Premium4K TV|
@@ -5087,9 +5089,9 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Conti|CONTI|stanford|2K SMART TV|
 |Conti|CONTI|zhongshan|4K SMART TV|
 |Continental Edison|CDI SMART TV|marina|CDI SMART TV|
+|Continental Edison|CDI SMART TV|nagata|CDI SMART TV|
 |Continental Edison|CE10402|CE10402|CE10402|
 |Continental Edison|Continental Edison|yeongdeungpo|B UHD Android TV|
-|Continental Edison|ContinentalEdison 4K Android TV|kenton|ContinentalEdison 4K Android TV|
 |Continental Edison|Continential_Edison|bangbae|Continental 4K Android TV|
 |Continental Edison|EU、UK、AP|martin|Continental Edison Android TV|
 |Continental Edison|France|guandu|Continental Edison Android TV|
@@ -22495,6 +22497,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A57|OP5355|CPH2407|
 |Oppo|A57s/A77|OP5353L1|CPH2385|
 |Oppo|A57t|A57|OPPO A57t|
+|Oppo|A58|OP574FL1|CPH2577|
 |Oppo|A59|A59|OPPO A59|
 |Oppo|A59|A59|OPPO A59m|
 |Oppo|A59|A59|OPPO A59s|
@@ -22702,7 +22705,6 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO A53s 5G|OP4F53L1|CPH2321|
 |Oppo|OPPO A54|OP4E7B|PEZM00|
 |Oppo|OPPO A57s|OP5353L1|CPH2385|
-|Oppo|OPPO A58|OP574FL1|CPH2577|
 |Oppo|OPPO A74 5G|OP4F39L1|CPH2197|
 |Oppo|OPPO A95 5G|OP4EB7|PELM00|
 |Oppo|OPPO F21 Pro 5G|OP532FL1|CPH2341|
@@ -22934,6 +22936,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno4 中国版|OP4A47|PDPM00|
 |Oppo|Reno4 中国版|OP4A47|PDPT00|
 |Oppo|Reno5|OP4F25L1|CPH2159|
+|Oppo|Reno5 A (eSIM)|OP4F2BL1|A103OP|
 |Oppo|Reno5 F|OP4F43L1|CPH2217|
 |Oppo|Reno5 Lite|OP4F43L1|CPH2205|
 |Oppo|Reno5 Pro 5G|OP4EA3|PDSM00|
@@ -22941,6 +22944,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno7 Z 5G/Reno7 Lite 5G/Reno8 Lite 5G|OP532FL1|CPH2343|
 |Oppo|Reno7 中国版|OP5227|PFJM10|
 |Oppo|Reno8 T 5G|OP56EDL1|CPH2505|
+|Oppo|Reno9 A|OP5701L1|A301OP|
+|Oppo|Reno9 A|OP5701L1|CPH2523|
 |Oppo|U3|U3|U3|
 |Oppo|U707|U707|U707|
 |Oppo|U707T|U707T|U707T|
@@ -25237,6 +25242,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |RCA|RCA|mountbaker|2K SMART TV|
 |RCA|RCA|seocho|RCA 4K Android TV|
 |RCA|RCA 2K Android TV|lasalle|RCA 2K Android TV|
+|RCA|RCA 2K SMART TV|nagata|RCA 2K SMART TV|
 |RCA|RCA 4K Android TV|kenton|RCA 4K Android TV|
 |RCA|RCA 4K Google TV|keoneae|RCA 4K Google TV|
 |RCA|RCA DRP2091|DRP2091|DRP2091|
@@ -35842,6 +35848,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|V2203A|PD2203|V2203A|
 |Vivo|V2220A|PD2220|V2220A|
 |Vivo|V2282A|PD2282|V2282A|
+|Vivo|V2314A|PD2314|V2314A|
 |Vivo|V25|V2202|V2202|
 |Vivo|V25|V2202|V2228|
 |Vivo|V25 Pro|V2158|V2158|
@@ -37055,6 +37062,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |XD-DML|ITALY|guandu|XD 4K Andriod TV|
 |XD-DML|XD|martin|XD 2K Andriod TV|
 |XENON|PHILIPPINES|marina|XENON ANDROID TV|
+|XENON|XENON ANDROID TV|nagata|XENON ANDROID TV|
 |XGIMI|Halo|xgimiapollo|Halo|
 |XGIMI|MoGo|xgimiapollo|MoGo|
 |XGIMI|MoGo Pro|xgimiapollo|MoGo Pro|
@@ -40308,6 +40316,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |simpliTV|Strong-SRT4150|HY43X|Strong-SRT4150|
 |simpliTV|Strong-SRT4250|HY43X|Strong-SRT4250|
 |sincoole|ST11-A5|ST11-A5|ST11-A5|
+|sky HCN|KSTB1157|K1100UA|KSTB1157|
 |sky HCN|skyhcn Android UHD STB|IMT-H6300|IMT-H6300|
 |stc myhome|myHome|SEI560STC|myHome|
 |sugar_aums|QPOINT|QPI-1|QPI-1|

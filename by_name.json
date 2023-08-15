@@ -7950,6 +7950,13 @@
    "model": "AOC Android TV"
   }
  ],
+ "AOC Google TV TA7": [
+  {
+   "brand": "AOC",
+   "device": "PH3M_AL_T32",
+   "model": "AOC Google TV TA7"
+  }
+ ],
  "Q10107L-ME": [
   {
    "brand": "AOC",
@@ -38259,6 +38266,13 @@
    "model": "noa_G1"
   }
  ],
+ "Apollo Premium TV": [
+  {
+   "brand": "CAIXUN",
+   "device": "nagata",
+   "model": "Apollo Premium TV"
+  }
+ ],
  "Australian/EU": [
   {
    "brand": "CAIXUN",
@@ -45665,6 +45679,11 @@
    "brand": "Continental Edison",
    "device": "marina",
    "model": "CDI SMART TV"
+  },
+  {
+   "brand": "Continental Edison",
+   "device": "nagata",
+   "model": "CDI SMART TV"
   }
  ],
  "CE10402": [
@@ -45679,13 +45698,6 @@
    "brand": "Continental Edison",
    "device": "yeongdeungpo",
    "model": "B UHD Android TV"
-  }
- ],
- "ContinentalEdison 4K Android TV": [
-  {
-   "brand": "Continental Edison",
-   "device": "kenton",
-   "model": "ContinentalEdison 4K Android TV"
   }
  ],
  "Continential_Edison": [
@@ -103064,6 +103076,11 @@
    "brand": "Itel",
    "device": "itel-A661W",
    "model": "itel A661W"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP574FL1",
+   "model": "CPH2577"
   }
  ],
  "A58 Lite": [
@@ -153401,13 +153418,6 @@
    "model": "CPH2385"
   }
  ],
- "OPPO A58": [
-  {
-   "brand": "Oppo",
-   "device": "OP574FL1",
-   "model": "CPH2577"
-  }
- ],
  "OPPO A74 5G": [
   {
    "brand": "Oppo",
@@ -154891,6 +154901,13 @@
    "model": "CPH2159"
   }
  ],
+ "Reno5 A (eSIM)": [
+  {
+   "brand": "Oppo",
+   "device": "OP4F2BL1",
+   "model": "A103OP"
+  }
+ ],
  "Reno5 F": [
   {
    "brand": "Oppo",
@@ -154938,6 +154955,18 @@
    "brand": "Oppo",
    "device": "OP56EDL1",
    "model": "CPH2505"
+  }
+ ],
+ "Reno9 A": [
+  {
+   "brand": "Oppo",
+   "device": "OP5701L1",
+   "model": "A301OP"
+  },
+  {
+   "brand": "Oppo",
+   "device": "OP5701L1",
+   "model": "CPH2523"
   }
  ],
  "U707": [
@@ -169326,6 +169355,13 @@
    "brand": "RCA",
    "device": "lasalle",
    "model": "RCA 2K Android TV"
+  }
+ ],
+ "RCA 2K SMART TV": [
+  {
+   "brand": "RCA",
+   "device": "nagata",
+   "model": "RCA 2K SMART TV"
   }
  ],
  "RCA 4K Android TV": [
@@ -231045,6 +231081,13 @@
    "model": "V2282A"
   }
  ],
+ "V2314A": [
+  {
+   "brand": "Vivo",
+   "device": "PD2314",
+   "model": "V2314A"
+  }
+ ],
  "V25": [
   {
    "brand": "Vivo",
@@ -238393,6 +238436,13 @@
   {
    "brand": "XENON",
    "device": "marina",
+   "model": "XENON ANDROID TV"
+  }
+ ],
+ "XENON ANDROID TV": [
+  {
+   "brand": "XENON",
+   "device": "nagata",
    "model": "XENON ANDROID TV"
   }
  ],
@@ -256640,6 +256690,13 @@
    "brand": "sincoole",
    "device": "ST11-A5",
    "model": "ST11-A5"
+  }
+ ],
+ "KSTB1157": [
+  {
+   "brand": "sky HCN",
+   "device": "K1100UA",
+   "model": "KSTB1157"
   }
  ],
  "skyhcn Android UHD STB": [
