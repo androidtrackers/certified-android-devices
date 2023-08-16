@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-08-15
+Last sync is 2023-08-16
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -13123,6 +13123,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |I-Bridge|South Korea|IBT02H|IBT02H|
 |I-Scream|E1012T|ET1012T|ET1012T|
 |I-Scream|i-Screamedu|HL106|HL106|
+|I3-TECHNOLOGIES|GOOGLE EDLA CERTIFIED SLOT-IN OPS|i3COMPUTER-A01-OPS|i3COMPUTER-A01-OPS|
 |IAIWAI|A103|A103|A103|
 |ICL-KME CS OJSC|TR10CD1|TR10CD1_7|TR10CD1|
 |ICOM|CTGED01|CTGED01|CTGED01|
@@ -20005,6 +20006,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|Kicka 5|Kicka_5|Kicka 5|
 |Mobiwire|Kicka 5|Kicka_5_U|Kicka 5|
 |Mobiwire|Kicka 5 Plus|Kicka_5_Plus|Kicka 5 Plus|
+|Mobiwire|Kicka 5 Plus 4G|H5032U|Kicka 5 Plus 4G|
 |Mobiwire|Kicka 5 Plus 4G|K5P_4G|Kicka 5 Plus 4G|
 |Mobiwire|Kicka 5 Plus 4G|K5P_4G_U|Kicka 5 Plus 4G|
 |Mobiwire|Kicka 6 Plus 4G|H5032U|Kicka 6 Plus 4G|
@@ -25606,6 +25608,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Redmi|Redmi K50i|xagain|22041216I|
 |Redmi|Redmi K60|mondrian|23013RK75C|
 |Redmi|Redmi K60 Pro|socrates|22127RK46C|
+|Redmi|Redmi K60 Ultra|corot|23078RKD5C|
 |Redmi|Redmi K60E|rembrandt|22122RK93C|
 |Redmi|Redmi Note 10|camellia|M2103K19C|
 |Redmi|Redmi Note 10|sunny|M2101K7AG|
@@ -34821,6 +34824,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|UMIDIGI A13 Pro Max|UMIDIGI_A13_Pro_Max|MP16|
 |Umidigi|UMIDIGI A13 Pro Max EEA|UMIDIGI_A13_Pro_Max|MP16|
 |Umidigi|UMIDIGI A15|UMIDIGI_A15|MP33|
+|Umidigi|UMIDIGI A15 EEA|UMIDIGI_A15|MP33|
 |Umidigi|UMIDIGI A15C|UMIDIGI_A15C|MP34|
 |Umidigi|UMIDIGI A15C EEA|UMIDIGI_A15C|MP34|
 |Umidigi|UMIDIGI C1|UMIDIGI_C1|MP07|
@@ -37352,6 +37356,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi Civi 1S|zijin|2109119BC|
 |Xiaomi|Xiaomi MIX Fold|cetus|M2011J18C|
 |Xiaomi|Xiaomi MIX Fold 2|zizhan|22061218C|
+|Xiaomi|Xiaomi MIX Fold 3|babylon|2308CPXD0C|
 |Xiaomi|Xiaomi Pad 5|nabu|21051182C|
 |Xiaomi|Xiaomi Pad 5|nabu|21051182G|
 |Xiaomi|Xiaomi Pad 5 Pro|dagu|22081281AC|
@@ -37360,6 +37365,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Xiaomi|Xiaomi Pad 6|pipa|23043RP34C|
 |Xiaomi|Xiaomi Pad 6|pipa|23043RP34G|
 |Xiaomi|Xiaomi Pad 6|pipa|23043RP34I|
+|Xiaomi|Xiaomi Pad 6 Max 14|yudi|2307BRPDCC|
 |Xiaomi|Xiaomi TV Box S (2nd Gen)|jaws|MiTV-AFKR0|
 |Xiaomi|Xiaomi TV stick 4K|soul|MiTV-AYFR0|
 |Xiaomi|Xiaomi civi 3|yuechu|23046PNC9C|

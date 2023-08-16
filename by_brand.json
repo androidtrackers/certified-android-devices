@@ -67601,6 +67601,13 @@
    "model": "HL106"
   }
  ],
+ "I3-TECHNOLOGIES": [
+  {
+   "device": "i3COMPUTER-A01-OPS",
+   "name": "GOOGLE EDLA CERTIFIED SLOT-IN OPS",
+   "model": "i3COMPUTER-A01-OPS"
+  }
+ ],
  "IAIWAI": [
   {
    "device": "A103",
@@ -102903,6 +102910,11 @@
    "model": "Kicka 5 Plus"
   },
   {
+   "device": "H5032U",
+   "name": "Kicka 5 Plus 4G",
+   "model": "Kicka 5 Plus 4G"
+  },
+  {
    "device": "K5P_4G",
    "name": "Kicka 5 Plus 4G",
    "model": "Kicka 5 Plus 4G"
@@ -131696,6 +131708,11 @@
    "device": "socrates",
    "name": "Redmi K60 Pro",
    "model": "22127RK46C"
+  },
+  {
+   "device": "corot",
+   "name": "Redmi K60 Ultra",
+   "model": "23078RKD5C"
   },
   {
    "device": "rembrandt",
@@ -178739,6 +178756,11 @@
    "model": "MP33"
   },
   {
+   "device": "UMIDIGI_A15",
+   "name": "UMIDIGI A15 EEA",
+   "model": "MP33"
+  },
+  {
    "device": "UMIDIGI_A15C",
    "name": "UMIDIGI A15C",
    "model": "MP34"
@@ -191794,6 +191816,11 @@
    "model": "22061218C"
   },
   {
+   "device": "babylon",
+   "name": "Xiaomi MIX Fold 3",
+   "model": "2308CPXD0C"
+  },
+  {
    "device": "nabu",
    "name": "Xiaomi Pad 5",
    "model": "21051182C"
@@ -191832,6 +191859,11 @@
    "device": "pipa",
    "name": "Xiaomi Pad 6",
    "model": "23043RP34I"
+  },
+  {
+   "device": "yudi",
+   "name": "Xiaomi Pad 6 Max 14",
+   "model": "2307BRPDCC"
   },
   {
    "device": "jaws",

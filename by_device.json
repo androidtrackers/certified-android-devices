@@ -94970,6 +94970,13 @@
    "model": "HL106"
   }
  ],
+ "i3COMPUTER-A01-OPS": [
+  {
+   "brand": "I3-TECHNOLOGIES",
+   "name": "GOOGLE EDLA CERTIFIED SLOT-IN OPS",
+   "model": "i3COMPUTER-A01-OPS"
+  }
+ ],
  "A103": [
   {
    "brand": "IAIWAI",
@@ -137604,6 +137611,18 @@
    "model": "Kicka 5 Plus"
   }
  ],
+ "H5032U": [
+  {
+   "brand": "Mobiwire",
+   "name": "Kicka 5 Plus 4G",
+   "model": "Kicka 5 Plus 4G"
+  },
+  {
+   "brand": "Mobiwire",
+   "name": "Kicka 6 Plus 4G",
+   "model": "Kicka 6 Plus 4G"
+  }
+ ],
  "K5P_4G": [
   {
    "brand": "Mobiwire",
@@ -137616,13 +137635,6 @@
    "brand": "Mobiwire",
    "name": "Kicka 5 Plus 4G",
    "model": "Kicka 5 Plus 4G"
-  }
- ],
- "H5032U": [
-  {
-   "brand": "Mobiwire",
-   "name": "Kicka 6 Plus 4G",
-   "model": "Kicka 6 Plus 4G"
   }
  ],
  "Kicka_Zoom": [
@@ -171725,6 +171737,13 @@
    "brand": "Redmi",
    "name": "Redmi K60 Pro",
    "model": "22127RK46C"
+  }
+ ],
+ "corot": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi K60 Ultra",
+   "model": "23078RKD5C"
   }
  ],
  "rembrandt": [
@@ -226692,6 +226711,11 @@
    "brand": "Umidigi",
    "name": "UMIDIGI A15",
    "model": "MP33"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI A15 EEA",
+   "model": "MP33"
   }
  ],
  "UMIDIGI_A15C": [
@@ -241742,6 +241766,13 @@
    "model": "22061218C"
   }
  ],
+ "babylon": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi MIX Fold 3",
+   "model": "2308CPXD0C"
+  }
+ ],
  "nabu": [
   {
    "brand": "Xiaomi",
@@ -241795,6 +241826,13 @@
    "brand": "Xiaomi",
    "name": "Xiaomi pad 6",
    "model": "23043RP34G"
+  }
+ ],
+ "yudi": [
+  {
+   "brand": "Xiaomi",
+   "name": "Xiaomi Pad 6 Max 14",
+   "model": "2307BRPDCC"
   }
  ],
  "jaws": [

@@ -96813,6 +96813,13 @@
    "model": "HL106"
   }
  ],
+ "GOOGLE EDLA CERTIFIED SLOT-IN OPS": [
+  {
+   "brand": "I3-TECHNOLOGIES",
+   "device": "i3COMPUTER-A01-OPS",
+   "model": "i3COMPUTER-A01-OPS"
+  }
+ ],
  "CTGED01": [
   {
    "brand": "ICOM",
@@ -137777,6 +137784,11 @@
  "Kicka 5 Plus 4G": [
   {
    "brand": "Mobiwire",
+   "device": "H5032U",
+   "model": "Kicka 5 Plus 4G"
+  },
+  {
+   "brand": "Mobiwire",
    "device": "K5P_4G",
    "model": "Kicka 5 Plus 4G"
   },
@@ -171770,6 +171782,13 @@
    "brand": "Redmi",
    "device": "socrates",
    "model": "22127RK46C"
+  }
+ ],
+ "Redmi K60 Ultra": [
+  {
+   "brand": "Redmi",
+   "device": "corot",
+   "model": "23078RKD5C"
   }
  ],
  "Redmi K60E": [
@@ -224713,6 +224732,13 @@
    "model": "MP33"
   }
  ],
+ "UMIDIGI A15 EEA": [
+  {
+   "brand": "Umidigi",
+   "device": "UMIDIGI_A15",
+   "model": "MP33"
+  }
+ ],
  "UMIDIGI A15C": [
   {
    "brand": "Umidigi",
@@ -240130,6 +240156,13 @@
    "model": "22061218C"
   }
  ],
+ "Xiaomi MIX Fold 3": [
+  {
+   "brand": "Xiaomi",
+   "device": "babylon",
+   "model": "2308CPXD0C"
+  }
+ ],
  "Xiaomi Pad 5": [
   {
    "brand": "Xiaomi",
@@ -240176,6 +240209,13 @@
    "brand": "Xiaomi",
    "device": "pipa",
    "model": "23043RP34I"
+  }
+ ],
+ "Xiaomi Pad 6 Max 14": [
+  {
+   "brand": "Xiaomi",
+   "device": "yudi",
+   "model": "2307BRPDCC"
   }
  ],
  "Xiaomi TV Box S (2nd Gen)": [
