@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-08-17
+Last sync is 2023-08-18
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3720,6 +3720,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blu|Grand_M2|G190|Grand M2|
 |Blu|Grand_M2_LTE|G0050|Grand M2 LTE|
 |Blu|Grand_X|Grand_X|Grand X|
+|Blu|J10L|J0150|J10L|
 |Blu|J6L|J0110|J6L|
 |Blu|J6S|J210EQ|J6S|
 |Blu|J7|J0000LL_ATT_MX|J7|
@@ -14947,6 +14948,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Karvy|KA7Q3|KA7Q3|KA7Q3|
 |Kbro|A0_S905X2|sti6160d19|A0_S905X2|
 |Kbro|A25751P|A2_5751P|A25751P|
+|Kbro|A2S905X4|A2_S905X4|A2S905X4|
 |Kbro|N97_A1B_72115|A1B_72115|N97_A1B_72115|
 |Kbro|N97_A1_3796|A1_3796|N97_A1_3796|
 |Keian|KI-R10|KI-R10|KI-R10|
@@ -33565,6 +33567,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Teclast|T40 Pro_ROW|T40Pro_T|T40 Pro_ROW|
 |Teclast|T40 Pro_RUS|T40Pro_A|T40 Pro_RUS|
 |Teclast|T40Air_EEA|T40Air|T40Air_EEA|
+|Teclast|T40Air_EEA|T40Air_EEA|T40 Air|
 |Teclast|T40Air_EEA|T40Air_EEA|T40 Air_EEA|
 |Teclast|T40Air_ROW|T40Air_ROW|T40 Air|
 |Teclast|T40Pro|Teclast_T40Pro|T40 PRO_ROW|

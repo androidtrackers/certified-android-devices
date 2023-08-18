@@ -34019,6 +34019,13 @@
    "model": "Grand M2 LTE"
   }
  ],
+ "J0150": [
+  {
+   "brand": "Blu",
+   "name": "J10L",
+   "model": "J10L"
+  }
+ ],
  "J0110": [
   {
    "brand": "Blu",
@@ -105698,6 +105705,13 @@
    "brand": "Kbro",
    "name": "A25751P",
    "model": "A25751P"
+  }
+ ],
+ "A2_S905X4": [
+  {
+   "brand": "Kbro",
+   "name": "A2S905X4",
+   "model": "A2S905X4"
   }
  ],
  "A1B_72115": [
@@ -219238,6 +219252,11 @@
   }
  ],
  "T40Air_EEA": [
+  {
+   "brand": "Teclast",
+   "name": "T40Air_EEA",
+   "model": "T40 Air"
+  },
   {
    "brand": "Teclast",
    "name": "T40Air_EEA",

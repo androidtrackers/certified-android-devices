@@ -19170,6 +19170,11 @@
    "model": "Grand X"
   },
   {
+   "device": "J0150",
+   "name": "J10L",
+   "model": "J10L"
+  },
+  {
    "device": "J0110",
    "name": "J6L",
    "model": "J6L"
@@ -77069,6 +77074,11 @@
    "device": "A2_5751P",
    "name": "A25751P",
    "model": "A25751P"
+  },
+  {
+   "device": "A2_S905X4",
+   "name": "A2S905X4",
+   "model": "A2S905X4"
   },
   {
    "device": "A1B_72115",
@@ -172223,6 +172233,11 @@
    "device": "T40Air",
    "name": "T40Air_EEA",
    "model": "T40Air_EEA"
+  },
+  {
+   "device": "T40Air_EEA",
+   "name": "T40Air_EEA",
+   "model": "T40 Air"
   },
   {
    "device": "T40Air_EEA",

@@ -35384,6 +35384,13 @@
    "model": "Grand X"
   }
  ],
+ "J10L": [
+  {
+   "brand": "Blu",
+   "device": "J0150",
+   "model": "J10L"
+  }
+ ],
  "J6L": [
   {
    "brand": "Blu",
@@ -108112,6 +108119,13 @@
    "brand": "Kbro",
    "device": "A2_5751P",
    "model": "A25751P"
+  }
+ ],
+ "A2S905X4": [
+  {
+   "brand": "Kbro",
+   "device": "A2_S905X4",
+   "model": "A2S905X4"
   }
  ],
  "N97_A1B_72115": [
@@ -217193,6 +217207,11 @@
    "brand": "Teclast",
    "device": "T40Air",
    "model": "T40Air_EEA"
+  },
+  {
+   "brand": "Teclast",
+   "device": "T40Air_EEA",
+   "model": "T40 Air"
   },
   {
    "brand": "Teclast",
