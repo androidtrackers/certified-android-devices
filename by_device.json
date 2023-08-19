@@ -4778,9 +4778,19 @@
    "model": "HYUNDAI 2K Android TV"
   },
   {
+   "brand": "Hyundai",
+   "name": "HYUNDAI 2K Android TV-A",
+   "model": "HYUNDAI 2K Android TV-A"
+  },
+  {
    "brand": "IMARFLEX",
    "name": "IMARFLEX 2K Android TV",
    "model": "IMARFLEX 2K Android TV"
+  },
+  {
+   "brand": "INNOVA",
+   "name": "INNOVA 2K Android TV",
+   "model": "INNOVA 2K Android TV"
   },
   {
    "brand": "KONKA",
@@ -4791,6 +4801,11 @@
    "brand": "KONKA",
    "name": "KONKA 2K Android TV-A",
    "model": "KONKA 2K Android TV-A"
+  },
+  {
+   "brand": "KONKA",
+   "name": "KONKA 2K Android TV-B",
+   "model": "KONKA 2K Android TV-B"
   },
   {
    "brand": "LEADER",
@@ -4977,6 +4992,11 @@
    "model": "IMARFLEX 4K Android TV"
   },
   {
+   "brand": "INNOVA",
+   "name": "INNOVA 4K Android TV",
+   "model": "INNOVA 4K Android TV"
+  },
+  {
    "brand": "KONKA",
    "name": "KONKA 4K Android TV",
    "model": "KONKA 4K Android TV"
@@ -4985,6 +5005,16 @@
    "brand": "KONKA",
    "name": "KONKA 4K Android TV-A",
    "model": "KONKA 4K Android TV-A"
+  },
+  {
+   "brand": "KONKA",
+   "name": "KONKA 4K Android TV-B",
+   "model": "KONKA 4K Android TV-B"
+  },
+  {
+   "brand": "Konchris",
+   "name": "Konchris 4K Android TV",
+   "model": "Konchris 4K Android TV"
   },
   {
    "brand": "LEADER",
@@ -5030,6 +5060,11 @@
    "brand": "SYLVOX",
    "name": "Smart TV 4K",
    "model": "Smart TV 4K"
+  },
+  {
+   "brand": "SYLVOX",
+   "name": "Smart TV 4K-A",
+   "model": "Smart TV 4K-A"
   },
   {
    "brand": "SYLVOX",
@@ -70195,6 +70230,38 @@
    "model": "Google Pixel Watch"
   }
  ],
+ "eos": [
+  {
+   "brand": "Google",
+   "name": "Pixel Watch 2",
+   "model": "Google Pixel Watch 2"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10",
+   "model": "21061119DG"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10",
+   "model": "22011119UY"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10 2022",
+   "model": "21061119DG"
+  },
+  {
+   "brand": "Redmi",
+   "name": "Redmi 10 2022",
+   "model": "22011119UY"
+  },
+  {
+   "brand": "ZTE",
+   "name": "V72M",
+   "model": "V72M"
+  }
+ ],
  "marlin": [
   {
    "brand": "Google",
@@ -82466,6 +82533,13 @@
    "model": "HOFFMANN X-Prime"
   }
  ],
+ "YYJ": [
+  {
+   "brand": "Homatics",
+   "name": "Box R 4K Plus",
+   "model": "Box R 4K Plus"
+  }
+ ],
  "HCA6010": [
   {
    "brand": "Homeplustv",
@@ -83728,6 +83802,11 @@
   }
  ],
  "HNELN-Q": [
+  {
+   "brand": "Honor",
+   "name": "HONOR Pad X9",
+   "model": "ELN-L09"
+  },
   {
    "brand": "Honor",
    "name": "HONOR Pad X9",
@@ -136163,6 +136242,13 @@
    "model": "MobiGo2P"
   }
  ],
+ "MobiGo2PQV": [
+  {
+   "brand": "MobiIoT",
+   "name": "MobiGo 2+",
+   "model": "MobiGo2P"
+  }
+ ],
  "MobiGo2PP": [
   {
    "brand": "MobiIoT",
@@ -171306,33 +171392,6 @@
    "brand": "Redmi",
    "name": "POCO F5",
    "model": "23049PCD8I"
-  }
- ],
- "eos": [
-  {
-   "brand": "Redmi",
-   "name": "Redmi 10",
-   "model": "21061119DG"
-  },
-  {
-   "brand": "Redmi",
-   "name": "Redmi 10",
-   "model": "22011119UY"
-  },
-  {
-   "brand": "Redmi",
-   "name": "Redmi 10 2022",
-   "model": "21061119DG"
-  },
-  {
-   "brand": "Redmi",
-   "name": "Redmi 10 2022",
-   "model": "22011119UY"
-  },
-  {
-   "brand": "ZTE",
-   "name": "V72M",
-   "model": "V72M"
   }
  ],
  "dandelion": [

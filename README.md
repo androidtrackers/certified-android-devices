@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-08-18
+Last sync is 2023-08-19
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -8861,6 +8861,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Google|Pixel Tablet|tangorpro|Pixel Tablet|
 |Google|Pixel Watch|r11|Google Pixel Watch|
 |Google|Pixel Watch|r11btwifi|Google Pixel Watch|
+|Google|Pixel Watch 2|eos|Google Pixel Watch 2|
 |Google|Pixel XL|marlin|Pixel XL|
 |Google|Pixelbook|atlas_cheets|Google Pixelbook Go|
 |Google|Pixelbook|atlas_cheets|atlas|
@@ -10985,6 +10986,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hoffmann|X-Ultra|X_Ultra|X_Ultra|
 |Hoffmann|X_Prime|X_Prime|HOFFMANN X-Prime|
 |Homatics|Box Q|HND|Box Q|
+|Homatics|Box R 4K Plus|YYJ|Box R 4K Plus|
 |Homatics|Dongle Q|ICN|Dongle Q|
 |Homatics|Dongle R 4K|YQB|Dongle R 4K|
 |Homatics|Global|YQB|Dongle R 4K|
@@ -11172,6 +11174,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Honor|HONOR Pad X8|HNAGM3|AGM3-AL09HN|
 |Honor|HONOR Pad X8|HNAGM3|AGM3-W09HN|
 |Honor|HONOR Pad X8 Lite|HNAGM|AGM-W09HN|
+|Honor|HONOR Pad X9|HNELN-Q|ELN-L09|
 |Honor|HONOR Pad X9|HNELN-Q|ELN-W09|
 |Honor|HONOR X5|HNVNA-M|VNA-LX2|
 |Honor|HONOR X5|HNVNA-M|VNA-LX3|
@@ -13023,6 +13026,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Hyundai|HYLED5015A4KM|samseong|AI PONT|
 |Hyundai|HYUNDAI|stanford|2K SMART TV|
 |Hyundai|HYUNDAI 2K Android TV|lasalle|HYUNDAI 2K Android TV|
+|Hyundai|HYUNDAI 2K Android TV-A|lasalle|HYUNDAI 2K Android TV-A|
 |Hyundai|HYUNDAI 2K Google TV|capitolhill|HYUNDAI  2K Google TV|
 |Hyundai|HYUNDAI 2K Google TV-E|capitolhill|HYUNDAI 2K Google TV-E|
 |Hyundai|HYUNDAI 4K Android TV|kenton|HYUNDAI 4K Android TV|
@@ -13168,6 +13172,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |INFINITON|"SPAIN|MOROCCO|PORTUGAL"|
 |INNOCN|32S1U Pro|32S1U_Pro|32S1U_Pro|
 |INNOCN|S1|YUL|S1|
+|INNOVA|INNOVA 2K Android TV|lasalle|INNOVA 2K Android TV|
+|INNOVA|INNOVA 4K Android TV|kenton|INNOVA 4K Android TV|
 |INOI|A126|A126|A126|
 |INOI|A150|A150|A150|
 |INOI|A160|A160|A160|
@@ -14688,8 +14694,10 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KONKA|KONKA  Y109|Y109|KONKA-Y109|
 |KONKA|KONKA 2K Android TV|lasalle|KONKA 2K Android TV|
 |KONKA|KONKA 2K Android TV-A|lasalle|KONKA 2K Android TV-A|
+|KONKA|KONKA 2K Android TV-B|lasalle|KONKA 2K Android TV-B|
 |KONKA|KONKA 4K Android TV|kenton|KONKA 4K Android TV|
 |KONKA|KONKA 4K Android TV-A|kenton|KONKA 4K Android TV-A|
+|KONKA|KONKA 4K Android TV-B|kenton|KONKA 4K Android TV-B|
 |KONKA|KONKA 4K Google TV|keoneae|HK 4K Google TV|
 |KONKA|KONKA 4K OLED Google TV|bandra|HK Google TV|
 |KONKA|KONKA Android TV|hongik|KONKA 4K Android TV|
@@ -15190,6 +15198,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kogan|Smart TV|longshan|AI PONT|
 |Kolin|Smart TV|longshan|AI PONT|
 |Komu|K22|K22|K22|
+|Konchris|Konchris 4K Android TV|kenton|Konchris 4K Android TV|
 |Konrow|CITY|CITY|CITY|
 |Konrow|CITY4_EEA|CITY4|CITY4|
 |Konrow|CITY5|CITY5|CITY5|
@@ -19795,6 +19804,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |MobiIoT|Hotah|HotahOTG_N|HotahOTG|
 |MobiIoT|Hotah|HotahOTG_V|HotahOTG|
 |MobiIoT|MobiGo 2+|MobiGo2P|MobiGo2P|
+|MobiIoT|MobiGo 2+|MobiGo2PQV|MobiGo2P|
 |MobiIoT|MobiGo 2+ Pro|MobiGo2PP|MobiGo2PP|
 |MobiIoT|MobiPrint4_Plus|MobiPrint4_Plus|MobiPrint4_Plus|
 |MobiIoT|Mobigo2|MobiGo2|MobiGo2|
@@ -26378,6 +26388,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SYLVOX|Smart TV 2K-A|lasalle|Smart TV 2K-A|
 |SYLVOX|Smart TV 2K-B|lasalle|Smart TV 2K-B|
 |SYLVOX|Smart TV 4K|kenton|Smart TV 4K|
+|SYLVOX|Smart TV 4K-A|kenton|Smart TV 4K-A|
 |SYLVOX|Smart TV 4K-B|kenton|Smart TV 4K-B|
 |SZSUPER|KIDS05-X5|KIDS05-X5|KIDS05-X5|
 |Safaricom|NEON LITE|NEON_LITE|NEON LITE|

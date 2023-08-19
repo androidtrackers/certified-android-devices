@@ -72853,6 +72853,13 @@
    "model": "Google Pixel Watch"
   }
  ],
+ "Pixel Watch 2": [
+  {
+   "brand": "Google",
+   "device": "eos",
+   "model": "Google Pixel Watch 2"
+  }
+ ],
  "Pixel XL": [
   {
    "brand": "Google",
@@ -85913,6 +85920,13 @@
    "model": "Box Q"
   }
  ],
+ "Box R 4K Plus": [
+  {
+   "brand": "Homatics",
+   "device": "YYJ",
+   "model": "Box R 4K Plus"
+  }
+ ],
  "Dongle Q": [
   {
    "brand": "Homatics",
@@ -87007,6 +87021,11 @@
   }
  ],
  "HONOR Pad X9": [
+  {
+   "brand": "Honor",
+   "device": "HNELN-Q",
+   "model": "ELN-L09"
+  },
   {
    "brand": "Honor",
    "device": "HNELN-Q",
@@ -96195,6 +96214,13 @@
    "model": "HYUNDAI 2K Android TV"
   }
  ],
+ "HYUNDAI 2K Android TV-A": [
+  {
+   "brand": "Hyundai",
+   "device": "lasalle",
+   "model": "HYUNDAI 2K Android TV-A"
+  }
+ ],
  "HYUNDAI 2K Google TV": [
   {
    "brand": "Hyundai",
@@ -97082,6 +97108,20 @@
    "brand": "INNOCN",
    "device": "32S1U_Pro",
    "model": "32S1U_Pro"
+  }
+ ],
+ "INNOVA 2K Android TV": [
+  {
+   "brand": "INNOVA",
+   "device": "lasalle",
+   "model": "INNOVA 2K Android TV"
+  }
+ ],
+ "INNOVA 4K Android TV": [
+  {
+   "brand": "INNOVA",
+   "device": "kenton",
+   "model": "INNOVA 4K Android TV"
   }
  ],
  "A126": [
@@ -106459,6 +106499,13 @@
    "model": "KONKA 2K Android TV-A"
   }
  ],
+ "KONKA 2K Android TV-B": [
+  {
+   "brand": "KONKA",
+   "device": "lasalle",
+   "model": "KONKA 2K Android TV-B"
+  }
+ ],
  "KONKA 4K Android TV": [
   {
    "brand": "KONKA",
@@ -106471,6 +106518,13 @@
    "brand": "KONKA",
    "device": "kenton",
    "model": "KONKA 4K Android TV-A"
+  }
+ ],
+ "KONKA 4K Android TV-B": [
+  {
+   "brand": "KONKA",
+   "device": "kenton",
+   "model": "KONKA 4K Android TV-B"
   }
  ],
  "KONKA 4K Google TV": [
@@ -109769,6 +109823,13 @@
    "brand": "LGE",
    "device": "dh0lm",
    "model": "LM-K200"
+  }
+ ],
+ "Konchris 4K Android TV": [
+  {
+   "brand": "Konchris",
+   "device": "kenton",
+   "model": "Konchris 4K Android TV"
   }
  ],
  "CITY": [
@@ -136409,6 +136470,11 @@
   {
    "brand": "MobiIoT",
    "device": "MobiGo2P",
+   "model": "MobiGo2P"
+  },
+  {
+   "brand": "MobiIoT",
+   "device": "MobiGo2PQV",
    "model": "MobiGo2P"
   }
  ],
@@ -176558,6 +176624,13 @@
    "brand": "SYLVOX",
    "device": "lasalle",
    "model": "Smart TV 2K-B"
+  }
+ ],
+ "Smart TV 4K-A": [
+  {
+   "brand": "SYLVOX",
+   "device": "kenton",
+   "model": "Smart TV 4K-A"
   }
  ],
  "Smart TV 4K-B": [
