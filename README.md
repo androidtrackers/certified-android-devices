@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-08-20
+Last sync is 2023-08-21
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -16969,7 +16969,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Land Rover|Land Rover Explore R|LRExploreR|Land Rover Explore R|
 |Landbyte|LT5030|LT5030|LT5030|
 |Landbyte|Lt6248|Lt6248|Lt6248|
-|Lango Tech|LANGO OPS8195|OPS-8195A|OPS-8195A-3-V0|
+|Lango|LANGO OPS8195|OPS-8195A|OPS-8195A-3-V0|
 |Lanix|Alpha 1R|Alpha_1R|Alpha 1R|
 |Lanix|Alpha 1V|Alpha_1V|Alpha 1V|
 |Lanix|Alpha 3R|ALPHA_3R|Alpha 3R|
@@ -20032,6 +20032,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mobiwire|MobiWire Kanuna|Kanuna_MobiWire|KANUNA|
 |Mobiwire|MobiWire Kaya|Kaya_EU_SKU1|KAYA|
 |Mobiwire|MobiWire Kosumi|Kosumi|Kosumi|
+|Mobiwire|ONE|H5032U|ONE|
 |Mobiwire|Pegasus|Pegasus|Pegasus|
 |Mobiwire|S4040|S4040|S4040|
 |Mobiwire|STARSHINE 5|Cygnus_mini|STARSHINE5|
@@ -34579,6 +34580,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor X|Armor_X|Armor_X|
 |Ulefone|Armor X10|Armor_X10|Armor X10|
 |Ulefone|Armor X10 Pro|Armor_X10_Pro|Armor X10 Pro|
+|Ulefone|Armor X13|Armor_X13|Armor X13|
 |Ulefone|Armor X2|Armor_X2|Armor_X2|
 |Ulefone|Armor X5|Armor_X5_Q|Armor X5|
 |Ulefone|Armor X5 Pro|Armor_X5_Pro|Armor X5 Pro|
@@ -34606,6 +34608,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Ulefone|Armor_7E|Armor_7E|Armor 7E|
 |Ulefone|Armor_7E|Armor_7E_Q|Armor 7E|
 |Ulefone|Armor_9E|Armor_9E|Armor 9E|
+|Ulefone|Armor_X13|Armor_X13|Armor X13|
 |Ulefone|Armor_X2|Armor_X2|Armor_X2|
 |Ulefone|Armor_X3|Armor_X3|Armor_X3|
 |Ulefone|Armor_X5|Armor_X5|Armor X5|

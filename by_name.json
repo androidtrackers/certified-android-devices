@@ -77478,6 +77478,11 @@
    "brand": "HTC",
    "device": "m7cdug",
    "model": "HTC One dual sim"
+  },
+  {
+   "brand": "Mobiwire",
+   "device": "H5032U",
+   "model": "ONE"
   }
  ],
  "ONE M8s": [
@@ -119383,7 +119388,7 @@
  ],
  "LANGO OPS8195": [
   {
-   "brand": "Lango Tech",
+   "brand": "Lango",
    "device": "OPS-8195A",
    "model": "OPS-8195A-3-V0"
   }
@@ -223238,6 +223243,13 @@
    "model": "Armor X10 Pro"
   }
  ],
+ "Armor X13": [
+  {
+   "brand": "Ulefone",
+   "device": "Armor_X13",
+   "model": "Armor X13"
+  }
+ ],
  "Armor X2": [
   {
    "brand": "Ulefone",
@@ -223424,6 +223436,13 @@
    "brand": "Ulefone",
    "device": "Armor_9E",
    "model": "Armor 9E"
+  }
+ ],
+ "Armor_X13": [
+  {
+   "brand": "Ulefone",
+   "device": "Armor_X13",
+   "model": "Armor X13"
   }
  ],
  "Armor_X2": [

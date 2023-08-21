@@ -117834,7 +117834,7 @@
  ],
  "OPS-8195A": [
   {
-   "brand": "Lango Tech",
+   "brand": "Lango",
    "name": "LANGO OPS8195",
    "model": "OPS-8195A-3-V0"
   }
@@ -137721,6 +137721,11 @@
    "brand": "Mobiwire",
    "name": "Kicka 6 Plus 4G",
    "model": "Kicka 6 Plus 4G"
+  },
+  {
+   "brand": "Mobiwire",
+   "name": "ONE",
+   "model": "ONE"
   }
  ],
  "K5P_4G": [
@@ -225354,6 +225359,18 @@
    "brand": "Ulefone",
    "name": "Armor X10 Pro",
    "model": "Armor X10 Pro"
+  }
+ ],
+ "Armor_X13": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor X13",
+   "model": "Armor X13"
+  },
+  {
+   "brand": "Ulefone",
+   "name": "Armor_X13",
+   "model": "Armor X13"
   }
  ],
  "Armor_X2": [

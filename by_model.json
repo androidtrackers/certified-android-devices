@@ -119250,7 +119250,7 @@
  ],
  "OPS-8195A-3-V0": [
   {
-   "brand": "Lango Tech",
+   "brand": "Lango",
    "name": "LANGO OPS8195",
    "device": "OPS-8195A"
   }
@@ -139365,6 +139365,13 @@
    "brand": "Mobiwire",
    "name": "MobiWire Kaya",
    "device": "Kaya_EU_SKU1"
+  }
+ ],
+ "ONE": [
+  {
+   "brand": "Mobiwire",
+   "name": "ONE",
+   "device": "H5032U"
   }
  ],
  "Pegasus": [
@@ -234156,6 +234163,18 @@
    "brand": "Ulefone",
    "name": "Armor X10 Pro",
    "device": "Armor_X10_Pro"
+  }
+ ],
+ "Armor X13": [
+  {
+   "brand": "Ulefone",
+   "name": "Armor X13",
+   "device": "Armor_X13"
+  },
+  {
+   "brand": "Ulefone",
+   "name": "Armor_X13",
+   "device": "Armor_X13"
   }
  ],
  "Armor_X2": [
