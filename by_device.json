@@ -1608,6 +1608,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "CONTINUUS",
+   "model": "SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "DIGGIO",
    "model": "CSV2K"
   },
@@ -4965,6 +4970,11 @@
    "brand": "BGH S.A.",
    "name": "BGH 4K Android TV",
    "model": "BGH 4K Android TV"
+  },
+  {
+   "brand": "Continental Edison",
+   "name": "ContinentalEdison 4K Android TV",
+   "model": "ContinentalEdison 4K Android TV"
   },
   {
    "brand": "DigiKing",
@@ -11430,12 +11440,22 @@
   {
    "brand": "Blaupunkt",
    "name": "BLAUPUNKT",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "BLAUPUNKT",
    "model": "BLAUPUNKT GOOGLE TV 4K"
   },
   {
    "brand": "Electroman",
    "name": "Electroman",
    "model": "Smart UHD TV"
+  },
+  {
+   "brand": "Element",
+   "name": "ELEMENT",
+   "model": "4K SMART TV"
   },
   {
    "brand": "Indurama",
@@ -15094,6 +15114,11 @@
    "brand": "Exclusiv",
    "name": "Columbia",
    "model": "Apollo Premium4K TV"
+  },
+  {
+   "brand": "Grunkel",
+   "name": "GRUNKEL SMART TV",
+   "model": "GRUNKEL SMART TV"
   },
   {
    "brand": "Hyundai",
@@ -19512,6 +19537,11 @@
    "model": "DAWLANCE GSMART 2KTV"
   },
   {
+   "brand": "Haier",
+   "name": "2K Haier TV",
+   "model": "2K Haier TV"
+  },
+  {
    "brand": "Iris",
    "name": "IRIS 2K SmartTV",
    "model": "IRIS 2K SmartTV"
@@ -19520,6 +19550,11 @@
    "brand": "LLOYD",
    "name": "LLOYD 2K SMART TV",
    "model": "LLOYD 2K SMART TV"
+  },
+  {
+   "brand": "NobleSkiodo",
+   "name": "2K NSTV",
+   "model": "2K NSTV"
   },
   {
    "brand": "Noblex",
@@ -19921,34 +19956,34 @@
  "SH4-1": [
   {
    "brand": "Ascom",
-   "name": "Myco 4 Cellular Wi-Fi",
+   "name": "Ascom Myco 4",
    "model": "Myco 4 Cellular Wi-Fi"
   },
   {
    "brand": "Ascom",
-   "name": "Myco 4 Cellular Wi-Fi EEA",
+   "name": "Ascom Myco 4",
    "model": "Myco 4 Cellular Wi-Fi EEA"
   }
  ],
  "SH4-2": [
   {
    "brand": "Ascom",
-   "name": "Myco 4 Slim",
+   "name": "Ascom Myco 4",
    "model": "Myco 4 Slim"
   },
   {
    "brand": "Ascom",
-   "name": "Myco 4 Slim EEA",
+   "name": "Ascom Myco 4",
    "model": "Myco 4 Slim EEA"
   },
   {
    "brand": "Ascom",
-   "name": "Myco 4 Wi-Fi",
+   "name": "Ascom Myco 4",
    "model": "Myco 4 Wi-Fi"
   },
   {
    "brand": "Ascom",
-   "name": "Myco 4 Wi-Fi EEA",
+   "name": "Ascom Myco 4",
    "model": "Myco 4 Wi-Fi EEA"
   }
  ],
@@ -20175,6 +20210,13 @@
    "brand": "Oppo",
    "name": "R9tm",
    "model": "OPPO R9tm"
+  }
+ ],
+ "ASPERA_R10": [
+  {
+   "brand": "Aspera",
+   "name": "ASPERA_R10",
+   "model": "ASPERA_R10"
   }
  ],
  "Aspera_Swift": [
@@ -32107,6 +32149,11 @@
    "model": "Platinum Google TV"
   },
   {
+   "brand": "OK (Mediamark)",
+   "name": "OK",
+   "model": "OK Google TV"
+  },
+  {
    "brand": "Umax",
    "name": "UMAX",
    "model": "Ultra 4K GTV"
@@ -38359,6 +38406,11 @@
    "brand": "iSTAR",
    "name": "S32WD02",
    "model": "iSTAR AndroidTV"
+  },
+  {
+   "brand": "jAC-EG",
+   "name": "43JB822",
+   "model": "jAC AndroidTV"
   }
  ],
  "barking": [
@@ -38391,6 +38443,11 @@
    "brand": "iSTAR",
    "name": "S55WD01",
    "model": "iSTAR AndroidTV"
+  },
+  {
+   "brand": "jAC-EG",
+   "name": "55JB832",
+   "model": "jAC AndroidTV"
   }
  ],
  "CASPER_L10_4_5G": [
@@ -81006,6 +81063,13 @@
    "model": "Hisense U605"
   }
  ],
+ "HLTE109E": [
+  {
+   "brand": "Hisense",
+   "name": "Hisense U70 Pro",
+   "model": "Hisense U70 Pro"
+  }
+ ],
  "HLTE100E_11": [
   {
    "brand": "Hisense",
@@ -102625,6 +102689,13 @@
    "model": "itel S665LN"
   }
  ],
+ "itel-S681LN": [
+  {
+   "brand": "Itel",
+   "name": "itel S23+",
+   "model": "itel S681LN"
+  }
+ ],
  "itel-S32LTE": [
   {
    "brand": "Itel",
@@ -121682,6 +121753,13 @@
    "model": "Lenovo A300t"
   }
  ],
+ "A301LV": [
+  {
+   "brand": "Lenovo",
+   "name": "A301LV",
+   "model": "A301LV"
+  }
+ ],
  "A305e": [
   {
    "brand": "Lenovo",
@@ -123040,6 +123118,13 @@
    "model": "LIFETAB_E7312"
   }
  ],
+ "TB320FC": [
+  {
+   "brand": "Lenovo",
+   "name": "Legion Tab Y700",
+   "model": "TB320FC"
+  }
+ ],
  "halo": [
   {
    "brand": "Lenovo",
@@ -123895,6 +123980,18 @@
    "model": "TB570FU"
   }
  ],
+ "TB570ZU": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab Extreme",
+   "model": "TB570ZU"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "拯救者平板Y900",
+   "model": "TB570ZU"
+  }
+ ],
  "X6C6F": [
   {
    "brand": "Lenovo",
@@ -124083,6 +124180,18 @@
    "brand": "Lenovo",
    "name": "Lenovo Tab M10 (HD)",
    "model": "Lenovo TB-X505X"
+  }
+ ],
+ "TB360ZU": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M10 5G",
+   "model": "TB360ZU"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "TB360ZU",
+   "model": "TB360ZU"
   }
  ],
  "X606F": [
@@ -124300,6 +124409,20 @@
    "model": "Lenovo TB-8506X"
   }
  ],
+ "TB301FU": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M8 (4th Gen) 2024",
+   "model": "TB301FU"
+  }
+ ],
+ "TB301XU": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab M8 (4th Gen) 2024",
+   "model": "TB301XU"
+  }
+ ],
  "TB300FU": [
   {
    "brand": "Lenovo",
@@ -124440,6 +124563,18 @@
    "brand": "Lenovo",
    "name": "小新Pad Pro 2022",
    "model": "TB132FU"
+  }
+ ],
+ "TB370FU": [
+  {
+   "brand": "Lenovo",
+   "name": "Lenovo Tab P12",
+   "model": "TB370FU"
+  },
+  {
+   "brand": "Lenovo",
+   "name": "小新Pad Pro 12.7 (天玑版）",
+   "model": "TB370FU"
   }
  ],
  "Q706F": [
@@ -125327,6 +125462,13 @@
    "model": "Lenovo TB3-X70I"
   }
  ],
+ "TB360ZJ": [
+  {
+   "brand": "Lenovo",
+   "name": "TB360ZJ",
+   "model": "TB360ZJ"
+  }
+ ],
  "kunlun2": [
   {
    "brand": "Lenovo",
@@ -125847,6 +125989,13 @@
    "model": "XT2261-2"
   }
  ],
+ "TB371FC": [
+  {
+   "brand": "Lenovo",
+   "name": "xiaoxin pad Pro 12.7",
+   "model": "TB371FC"
+  }
+ ],
  "TB128XC": [
   {
    "brand": "Lenovo",
@@ -125887,6 +126036,13 @@
    "brand": "Lenovo",
    "name": "小新Pad Pro 2022",
    "model": "TB138FC"
+  }
+ ],
+ "TB372FC": [
+  {
+   "brand": "Lenovo",
+   "name": "小新学习平板",
+   "model": "TB372FC"
   }
  ],
  "TB-8804F": [
@@ -125939,6 +126095,13 @@
    "brand": "Lenovo",
    "name": "联想平板电脑 启天K11 Gen2",
    "model": "TB230XC"
+  }
+ ],
+ "TB240FC": [
+  {
+   "brand": "Lenovo",
+   "name": "联想平板电脑 启天K12",
+   "model": "TB240FC"
   }
  ],
  "LETAB731": [
@@ -151789,6 +151952,13 @@
    "model": "Oneplus_Dosa_IN"
   }
  ],
+ "OP5927": [
+  {
+   "brand": "OnePlus",
+   "name": "PHP110",
+   "model": "PHP110"
+  }
+ ],
  "AT101-1118": [
   {
    "brand": "Onix",
@@ -159971,6 +160141,13 @@
    "model": "SMLK2A"
   }
  ],
+ "SPU-A05-SWG": [
+  {
+   "brand": "Panasonic",
+   "name": "SPU-A05-SWG",
+   "model": "SPU-A05-SWG"
+  }
+ ],
  "T31": [
   {
    "brand": "Panasonic",
@@ -160061,6 +160238,13 @@
    "brand": "Panasonic",
    "name": "TAB-A05-SA",
    "model": "TAB-A05"
+  }
+ ],
+ "TAB-A05-SA2": [
+  {
+   "brand": "Panasonic",
+   "name": "TAB-A05-SA2",
+   "model": "TAB-A05-SA2"
   }
  ],
  "Panasonic_848": [
@@ -176071,6 +176255,11 @@
    "brand": "SWTV",
    "name": "SWTV-22HK-4K NF",
    "model": "SWTV-22HK-4K NF"
+  },
+  {
+   "brand": "SWTV",
+   "name": "SWTV-22NA-4K",
+   "model": "SWTV-22NA-4K"
   },
   {
    "brand": "SWTV",
@@ -193808,6 +193997,20 @@
    "model": "SM-F721W"
   }
  ],
+ "SC-54D": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Flip5",
+   "model": "SC-54D"
+  }
+ ],
+ "SCG23": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Flip5",
+   "model": "SCG23"
+  }
+ ],
  "b5q": [
   {
    "brand": "Samsung",
@@ -193967,6 +194170,20 @@
    "brand": "Samsung",
    "name": "Galaxy Z Fold4",
    "model": "SM-F936W"
+  }
+ ],
+ "SC-55D": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold5",
+   "model": "SC-55D"
+  }
+ ],
+ "SCG22": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Z Fold5",
+   "model": "SCG22"
   }
  ],
  "q5q": [
@@ -231517,6 +231734,23 @@
    "model": "V2146"
   }
  ],
+ "V2237": [
+  {
+   "brand": "Vivo",
+   "name": "T2",
+   "model": "V2320"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V25e",
+   "model": "V2242"
+  },
+  {
+   "brand": "Vivo",
+   "name": "V27e",
+   "model": "V2237"
+  }
+ ],
  "V2222": [
   {
    "brand": "Vivo",
@@ -233033,18 +233267,6 @@
    "brand": "Vivo",
    "name": "V25e",
    "model": "V2209"
-  }
- ],
- "V2237": [
-  {
-   "brand": "Vivo",
-   "name": "V25e",
-   "model": "V2242"
-  },
-  {
-   "brand": "Vivo",
-   "name": "V27e",
-   "model": "V2237"
   }
  ],
  "V2231": [
@@ -235819,13 +236041,6 @@
    "brand": "Vortex",
    "name": "HD60",
    "model": "HD60"
-  }
- ],
- "HD60L": [
-  {
-   "brand": "Vortex",
-   "name": "HD60L",
-   "model": "HD60L"
   }
  ],
  "HD60i": [

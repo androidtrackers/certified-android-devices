@@ -20853,42 +20853,32 @@
    "model": "Ascom Myco 3 DECT Wi-Fi"
   }
  ],
- "Myco 4 Cellular Wi-Fi": [
+ "Ascom Myco 4": [
   {
    "brand": "Ascom",
    "device": "SH4-1",
    "model": "Myco 4 Cellular Wi-Fi"
-  }
- ],
- "Myco 4 Cellular Wi-Fi EEA": [
+  },
   {
    "brand": "Ascom",
    "device": "SH4-1",
    "model": "Myco 4 Cellular Wi-Fi EEA"
-  }
- ],
- "Myco 4 Slim": [
+  },
   {
    "brand": "Ascom",
    "device": "SH4-2",
    "model": "Myco 4 Slim"
-  }
- ],
- "Myco 4 Slim EEA": [
+  },
   {
    "brand": "Ascom",
    "device": "SH4-2",
    "model": "Myco 4 Slim EEA"
-  }
- ],
- "Myco 4 Wi-Fi": [
+  },
   {
    "brand": "Ascom",
    "device": "SH4-2",
    "model": "Myco 4 Wi-Fi"
-  }
- ],
- "Myco 4 Wi-Fi EEA": [
+  },
   {
    "brand": "Ascom",
    "device": "SH4-2",
@@ -21068,6 +21058,13 @@
    "brand": "Aspera",
    "device": "R9",
    "model": "ASPERA_R9"
+  }
+ ],
+ "ASPERA_R10": [
+  {
+   "brand": "Aspera",
+   "device": "ASPERA_R10",
+   "model": "ASPERA_R10"
   }
  ],
  "Aspera Swift": [
@@ -26140,6 +26137,11 @@
    "brand": "BLECK",
    "device": "ELEMENT",
    "model": "ELEMENT"
+  },
+  {
+   "brand": "Element",
+   "device": "hongkong",
+   "model": "4K SMART TV"
   },
   {
    "brand": "KTCtv",
@@ -33219,6 +33221,11 @@
    "brand": "Blaupunkt",
    "device": "bruno",
    "model": "BLAUPUNKT 2K Android TV"
+  },
+  {
+   "brand": "Blaupunkt",
+   "device": "hongkong",
+   "model": "4K SMART TV"
   },
   {
    "brand": "Blaupunkt",
@@ -45705,6 +45712,13 @@
    "brand": "Continental Edison",
    "device": "yeongdeungpo",
    "model": "B UHD Android TV"
+  }
+ ],
+ "ContinentalEdison 4K Android TV": [
+  {
+   "brand": "Continental Edison",
+   "device": "kenton",
+   "model": "ContinentalEdison 4K Android TV"
   }
  ],
  "Continential_Edison": [
@@ -72223,6 +72237,11 @@
    "brand": "V2COM",
    "device": "ROCKY_T2",
    "model": "ROCKY T2"
+  },
+  {
+   "brand": "Vivo",
+   "device": "V2237",
+   "model": "V2320"
   }
  ],
  "F10_PRIME": [
@@ -73316,6 +73335,13 @@
    "brand": "Grunhelm",
    "device": "samseong",
    "model": "AI PONT"
+  }
+ ],
+ "GRUNKEL SMART TV": [
+  {
+   "brand": "Grunkel",
+   "device": "marina",
+   "model": "GRUNKEL SMART TV"
   }
  ],
  "Veil": [
@@ -79015,6 +79041,13 @@
    "model": "NOTE 10"
   }
  ],
+ "2K Haier TV": [
+  {
+   "brand": "Haier",
+   "device": "umeda",
+   "model": "2K Haier TV"
+  }
+ ],
  "A-TT00": [
   {
    "brand": "Haier",
@@ -83680,6 +83713,13 @@
    "brand": "Hisense",
    "device": "Hisense",
    "model": "Hisense U605"
+  }
+ ],
+ "Hisense U70 Pro": [
+  {
+   "brand": "Hisense",
+   "device": "HLTE109E",
+   "model": "Hisense U70 Pro"
   }
  ],
  "Hisense U963": [
@@ -104341,6 +104381,13 @@
    "model": "itel S665LN"
   }
  ],
+ "itel S23+": [
+  {
+   "brand": "Itel",
+   "device": "itel-S681LN",
+   "model": "itel S681LN"
+  }
+ ],
  "itel S32LTE": [
   {
    "brand": "Itel",
@@ -107006,6 +107053,13 @@
    "brand": "KTCtv",
    "device": "zhongshan",
    "model": "4K SMART TV"
+  }
+ ],
+ "CONTINUUS": [
+  {
+   "brand": "KTCtv",
+   "device": "stanford",
+   "model": "SMART TV"
   }
  ],
  "DANILUX": [
@@ -122562,6 +122616,13 @@
    "model": "Lenovo A300t"
   }
  ],
+ "A301LV": [
+  {
+   "brand": "Lenovo",
+   "device": "A301LV",
+   "model": "A301LV"
+  }
+ ],
  "A305E": [
   {
    "brand": "Lenovo",
@@ -123880,6 +123941,13 @@
    "model": "LIFETAB_E7312"
   }
  ],
+ "Legion Tab Y700": [
+  {
+   "brand": "Lenovo",
+   "device": "TB320FC",
+   "model": "TB320FC"
+  }
+ ],
  "Legion Y70": [
   {
    "brand": "Lenovo",
@@ -124609,6 +124677,11 @@
    "brand": "Lenovo",
    "device": "TB570FU",
    "model": "TB570FU"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "TB570ZU",
+   "model": "TB570ZU"
   }
  ],
  "Lenovo Tab K10": [
@@ -124733,6 +124806,13 @@
    "brand": "Lenovo",
    "device": "TB-X505X",
    "model": "Lenovo TB-X505X"
+  }
+ ],
+ "Lenovo Tab M10 5G": [
+  {
+   "brand": "Lenovo",
+   "device": "TB360ZU",
+   "model": "TB360ZU"
   }
  ],
  "Lenovo Tab M10 FHD Plus": [
@@ -124927,6 +125007,18 @@
    "model": "Lenovo TB-8506X"
   }
  ],
+ "Lenovo Tab M8 (4th Gen) 2024": [
+  {
+   "brand": "Lenovo",
+   "device": "TB301FU",
+   "model": "TB301FU"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "TB301XU",
+   "model": "TB301XU"
+  }
+ ],
  "Lenovo Tab M8 (4th gen)": [
   {
    "brand": "Lenovo",
@@ -125028,6 +125120,13 @@
    "brand": "Lenovo",
    "device": "TB132FU",
    "model": "TB132FU"
+  }
+ ],
+ "Lenovo Tab P12": [
+  {
+   "brand": "Lenovo",
+   "device": "TB370FU",
+   "model": "TB370FU"
   }
  ],
  "Lenovo Tab P12 Pro": [
@@ -125809,6 +125908,20 @@
    "model": "Lenovo TB3-X70I"
   }
  ],
+ "TB360ZJ": [
+  {
+   "brand": "Lenovo",
+   "device": "TB360ZJ",
+   "model": "TB360ZJ"
+  }
+ ],
+ "TB360ZU": [
+  {
+   "brand": "Lenovo",
+   "device": "TB360ZU",
+   "model": "TB360ZU"
+  }
+ ],
  "Tab 7 Essential": [
   {
    "brand": "Lenovo",
@@ -126316,6 +126429,13 @@
    "model": "XT2261-2"
   }
  ],
+ "xiaoxin pad Pro 12.7": [
+  {
+   "brand": "Lenovo",
+   "device": "TB371FC",
+   "model": "TB371FC"
+  }
+ ],
  "启天K10 Pro": [
   {
    "brand": "Lenovo",
@@ -126364,6 +126484,13 @@
    "model": "Lenovo TB-Q706F"
   }
  ],
+ "小新Pad Pro 12.7 (天玑版）": [
+  {
+   "brand": "Lenovo",
+   "device": "TB370FU",
+   "model": "TB370FU"
+  }
+ ],
  "小新Pad Pro 2021": [
   {
    "brand": "Lenovo",
@@ -126383,6 +126510,13 @@
    "model": "TB138FC"
   }
  ],
+ "小新学习平板": [
+  {
+   "brand": "Lenovo",
+   "device": "TB372FC",
+   "model": "TB372FC"
+  }
+ ],
  "小新平板": [
   {
    "brand": "Lenovo",
@@ -126400,6 +126534,11 @@
    "brand": "Lenovo",
    "device": "TB570FU",
    "model": "TB570FU"
+  },
+  {
+   "brand": "Lenovo",
+   "device": "TB570ZU",
+   "model": "TB570ZU"
   }
  ],
  "拯救者电竞手机": [
@@ -126452,6 +126591,13 @@
    "brand": "Lenovo",
    "device": "TB230XC",
    "model": "TB230XC"
+  }
+ ],
+ "联想平板电脑 启天K12": [
+  {
+   "brand": "Lenovo",
+   "device": "TB240FC",
+   "model": "TB240FC"
   }
  ],
  "联想平板电脑K10 5G": [
@@ -148009,6 +148155,13 @@
    "model": "NB7850S"
   }
  ],
+ "2K NSTV": [
+  {
+   "brand": "NobleSkiodo",
+   "device": "umeda",
+   "model": "2K NSTV"
+  }
+ ],
  "32VRCHG5SP": [
   {
    "brand": "NobleSkiodo",
@@ -150084,6 +150237,11 @@
    "brand": "OK (Mediamark)",
    "device": "bangbae",
    "model": "OK 4K Android TV"
+  },
+  {
+   "brand": "OK (Mediamark)",
+   "device": "kaitak",
+   "model": "OK Google TV"
   }
  ],
  "OK 2K TV": [
@@ -151494,6 +151652,13 @@
    "brand": "OnePlus",
    "device": "Oneplus_Dosa_IN",
    "model": "Oneplus_Dosa_IN"
+  }
+ ],
+ "PHP110": [
+  {
+   "brand": "OnePlus",
+   "device": "OP5927",
+   "model": "PHP110"
   }
  ],
  "X": [
@@ -159485,6 +159650,13 @@
    "model": "SMLK2A"
   }
  ],
+ "SPU-A05-SWG": [
+  {
+   "brand": "Panasonic",
+   "device": "SPU-A05-SWG",
+   "model": "SPU-A05-SWG"
+  }
+ ],
  "SV-ME1000": [
   {
    "brand": "Panasonic",
@@ -159579,6 +159751,13 @@
    "brand": "Panasonic",
    "device": "TAB-A05",
    "model": "TAB-A05"
+  }
+ ],
+ "TAB-A05-SA2": [
+  {
+   "brand": "Panasonic",
+   "device": "TAB-A05-SA2",
+   "model": "TAB-A05-SA2"
   }
  ],
  "TH-43JX580C": [
@@ -176519,6 +176698,13 @@
    "model": "SWTV-22HK-4K NF"
   }
  ],
+ "SWTV-22NA-4K": [
+  {
+   "brand": "SWTV",
+   "device": "anaheim",
+   "model": "SWTV-22NA-4K"
+  }
+ ],
  "SWTV-22NA-FHD": [
   {
    "brand": "SWTV",
@@ -191869,6 +192055,16 @@
  "Galaxy Z Flip5": [
   {
    "brand": "Samsung",
+   "device": "SC-54D",
+   "model": "SC-54D"
+  },
+  {
+   "brand": "Samsung",
+   "device": "SCG23",
+   "model": "SCG23"
+  },
+  {
+   "brand": "Samsung",
    "device": "b5q",
    "model": "SM-F7310"
   },
@@ -192020,6 +192216,16 @@
   }
  ],
  "Galaxy Z Fold5": [
+  {
+   "brand": "Samsung",
+   "device": "SC-55D",
+   "model": "SC-55D"
+  },
+  {
+   "brand": "Samsung",
+   "device": "SCG22",
+   "model": "SCG22"
+  },
   {
    "brand": "Samsung",
    "device": "q5q",
@@ -234127,13 +234333,6 @@
    "model": "HD60"
   }
  ],
- "HD60L": [
-  {
-   "brand": "Vortex",
-   "device": "HD60L",
-   "model": "HD60L"
-  }
- ],
  "HD60i": [
   {
    "brand": "Vortex",
@@ -255422,6 +255621,20 @@
    "brand": "ioutdoor",
    "device": "Polar3",
    "model": "Polar3"
+  }
+ ],
+ "43JB822": [
+  {
+   "brand": "jAC-EG",
+   "device": "beaudry",
+   "model": "jAC AndroidTV"
+  }
+ ],
+ "55JB832": [
+  {
+   "brand": "jAC-EG",
+   "device": "barking",
+   "model": "jAC AndroidTV"
   }
  ],
  "KB101": [
