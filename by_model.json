@@ -2813,12 +2813,22 @@
    "device": "R3"
   },
   {
+   "brand": "Amstrad",
+   "name": "R3",
+   "device": "R3"
+  },
+  {
    "brand": "Artel",
    "name": "R3",
    "device": "R3"
   },
   {
    "brand": "BLACKLINE",
+   "name": "R3",
+   "device": "R3"
+  },
+  {
+   "brand": "Brandt",
    "name": "R3",
    "device": "R3"
   },
@@ -2868,6 +2878,11 @@
    "device": "R3"
   },
   {
+   "brand": "JVC",
+   "name": "R3",
+   "device": "R3"
+  },
+  {
    "brand": "Kalley",
    "name": "R3",
    "device": "R3"
@@ -2908,6 +2923,11 @@
    "device": "R3"
   },
   {
+   "brand": "SPJtv",
+   "name": "R3",
+   "device": "R3"
+  },
+  {
    "brand": "Singer",
    "name": "R3",
    "device": "R3"
@@ -2923,7 +2943,17 @@
    "device": "R3"
   },
   {
+   "brand": "Vise",
+   "name": "R3",
+   "device": "R3"
+  },
+  {
    "brand": "Vision Technology",
+   "name": "R3",
+   "device": "R3"
+  },
+  {
+   "brand": "elactron",
    "name": "R3",
    "device": "R3"
   }
@@ -2970,6 +3000,16 @@
    "device": "R4"
   },
   {
+   "brand": "Brandt",
+   "name": "R4",
+   "device": "R4"
+  },
+  {
+   "brand": "CG Inspiring Life",
+   "name": "R4",
+   "device": "R4"
+  },
+  {
    "brand": "Casper",
    "name": "R4",
    "device": "R4"
@@ -2980,7 +3020,17 @@
    "device": "R4"
   },
   {
+   "brand": "Condor",
+   "name": "R4",
+   "device": "R4"
+  },
+  {
    "brand": "EVVO",
+   "name": "R4",
+   "device": "R4"
+  },
+  {
+   "brand": "EssentielB",
    "name": "R4",
    "device": "R4"
   },
@@ -3060,7 +3110,17 @@
    "device": "R4"
   },
   {
+   "brand": "ROWA",
+   "name": "R4",
+   "device": "R4"
+  },
+  {
    "brand": "SAMPO",
+   "name": "R4",
+   "device": "R4"
+  },
+  {
+   "brand": "SPJtv",
    "name": "R4",
    "device": "R4"
   },
@@ -3070,12 +3130,27 @@
    "device": "R4"
   },
   {
+   "brand": "THE UHD",
+   "name": "R4",
+   "device": "R4"
+  },
+  {
    "brand": "Thomson",
    "name": "R4",
    "device": "R4"
   },
   {
+   "brand": "Vise",
+   "name": "R4",
+   "device": "R4"
+  },
+  {
    "brand": "Vision Technology",
+   "name": "R4",
+   "device": "R4"
+  },
+  {
+   "brand": "elactron",
    "name": "R4",
    "device": "R4"
   }
@@ -32349,7 +32424,7 @@
   },
   {
    "brand": "Sansui",
-   "name": "North American",
+   "name": "Apollo Premium4K TV",
    "device": "marina"
   }
  ],
@@ -42468,6 +42543,13 @@
    "brand": "Cubot",
    "name": "NOTE 30",
    "device": "NOTE_30"
+  }
+ ],
+ "NOTE 40": [
+  {
+   "brand": "Cubot",
+   "name": "NOTE 40",
+   "device": "NOTE_40"
   }
  ],
  "NOTE 50": [
@@ -59664,6 +59746,13 @@
    "brand": "Freebox",
    "name": "Mini 4K",
    "device": "fbx6lcv2"
+  }
+ ],
+ "FS500": [
+  {
+   "brand": "Freemobile",
+   "name": "FS500",
+   "device": "FS500"
   }
  ],
  "FTU18A00": [
@@ -139323,6 +139412,13 @@
    "device": "Ahiga"
   }
  ],
+ "Airtel Imagine": [
+  {
+   "brand": "Mobiwire",
+   "name": "Airtel Imagine",
+   "device": "H5032U"
+  }
+ ],
  "E55": [
   {
    "brand": "Mobiwire",
@@ -175791,6 +175887,13 @@
    "brand": "Redmi",
    "name": "Redmi Pad",
    "device": "yunluo"
+  }
+ ],
+ "23073RPBFG": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Pad SE",
+   "device": "xun"
   }
  ],
  "MiTV-MOOQ3": [
@@ -213830,6 +213933,13 @@
    "device": "Roar_V78"
   }
  ],
+ "SYMTAB_80": [
+  {
+   "brand": "Symphony",
+   "name": "SYMTAB 80",
+   "device": "SYMTAB_80"
+  }
+ ],
  "SYMTAB25": [
   {
    "brand": "Symphony",
@@ -234934,6 +235044,11 @@
   }
  ],
  "Tab A8": [
+  {
+   "brand": "Ulefone",
+   "name": "Tab A8",
+   "device": "GQ3286"
+  },
   {
    "brand": "Ulefone",
    "name": "Tab A8",

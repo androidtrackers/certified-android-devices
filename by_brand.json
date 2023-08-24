@@ -6437,6 +6437,11 @@
    "model": "ATV R2"
   },
   {
+   "device": "R3",
+   "name": "R3",
+   "model": "R3"
+  },
+  {
    "device": "R4",
    "name": "R4",
    "model": "R4"
@@ -20562,6 +20567,16 @@
    "model": "BSTAR+"
   },
   {
+   "device": "R3",
+   "name": "R3",
+   "model": "R3"
+  },
+  {
+   "device": "R4",
+   "name": "R4",
+   "model": "R4"
+  },
+  {
    "device": "R4_GTV",
    "name": "R4_GTV",
    "model": "R4G"
@@ -21243,6 +21258,11 @@
    "device": "R3",
    "name": "R3",
    "model": "R3"
+  },
+  {
+   "device": "R4",
+   "name": "R4",
+   "model": "R4"
   }
  ],
  "CG Mobile": [
@@ -26128,6 +26148,11 @@
    "model": "Plume L5 Pro"
   },
   {
+   "device": "R4",
+   "name": "R4",
+   "model": "R4"
+  },
+  {
    "device": "SP530",
    "name": "SP530",
    "model": "Griffe T2"
@@ -28527,6 +28552,11 @@
    "device": "NOTE_30",
    "name": "NOTE 30",
    "model": "NOTE 30"
+  },
+  {
+   "device": "NOTE_40",
+   "name": "NOTE 40",
+   "model": "NOTE 40"
   },
   {
    "device": "NOTE_50",
@@ -37620,6 +37650,11 @@
    "model": "R3"
   },
   {
+   "device": "R4",
+   "name": "R4",
+   "model": "R4"
+  },
+  {
    "device": "ST7001",
    "name": "ST7001 Tablet",
    "model": "ST7001"
@@ -41223,6 +41258,13 @@
    "device": "fbx6lcv2",
    "name": "Mini 4K",
    "model": "Freebox Player Mini v2"
+  }
+ ],
+ "Freemobile": [
+  {
+   "device": "FS500",
+   "name": "FS500",
+   "model": "FS500"
   }
  ],
  "Freetel": [
@@ -74503,6 +74545,11 @@
    "model": "JVCUS 2K Google TV"
   },
   {
+   "device": "R3",
+   "name": "R3",
+   "model": "R3"
+  },
+  {
    "device": "R4",
    "name": "R4",
    "model": "R4"
@@ -103009,6 +103056,11 @@
    "model": "Ahiga"
   },
   {
+   "device": "H5032U",
+   "name": "Airtel Imagine",
+   "model": "Airtel Imagine"
+  },
+  {
    "device": "E55",
    "name": "Altice E55",
    "model": "E55"
@@ -130572,6 +130624,13 @@
    "model": "R8"
   }
  ],
+ "ROWA": [
+  {
+   "device": "R4",
+   "name": "R4",
+   "model": "R4"
+  }
+ ],
  "RSEA": [
   {
    "device": "RSE_E1",
@@ -132362,6 +132421,11 @@
    "device": "yunluo",
    "name": "Redmi Pad",
    "model": "22081283G"
+  },
+  {
+   "device": "xun",
+   "name": "Redmi Pad SE",
+   "model": "23073RPBFG"
   },
   {
    "device": "tarzan",
@@ -134892,6 +134956,16 @@
    "device": "R2",
    "name": "Android TV",
    "model": "ATV R2"
+  },
+  {
+   "device": "R3",
+   "name": "R3",
+   "model": "R3"
+  },
+  {
+   "device": "R4",
+   "name": "R4",
+   "model": "R4"
   }
  ],
  "SPURT": [
@@ -150702,6 +150776,11 @@
    "model": "Apollo Premium2K TV"
   },
   {
+   "device": "marina",
+   "name": "Apollo Premium4K TV",
+   "model": "Apollo Premium4K TV"
+  },
+  {
    "device": "ETAB_M9021G",
    "name": "ETAB M9021G",
    "model": "ETAB_M9021G"
@@ -150740,11 +150819,6 @@
    "device": "Nitro",
    "name": "Nitro",
    "model": "Nitro"
-  },
-  {
-   "device": "marina",
-   "name": "North American",
-   "model": "Apollo Premium4K TV"
   },
   {
    "device": "sunnyvale",
@@ -161665,6 +161739,11 @@
    "model": "S501"
   },
   {
+   "device": "SYMTAB_80",
+   "name": "SYMTAB 80",
+   "model": "SYMTAB_80"
+  },
+  {
    "device": "SYMTAB25",
    "name": "SYMTAB25",
    "model": "SYMTAB25"
@@ -170405,6 +170484,11 @@
    "device": "R2",
    "name": "Android TV",
    "model": "ATV R2"
+  },
+  {
+   "device": "R4",
+   "name": "R4",
+   "model": "R4"
   }
  ],
  "THEHAM": [
@@ -178159,6 +178243,11 @@
    "model": "Ulefone Tab A7"
   },
   {
+   "device": "GQ3286",
+   "name": "Tab A8",
+   "model": "Tab A8"
+  },
+  {
    "device": "Tab_A8",
    "name": "Tab A8",
    "model": "Tab A8"
@@ -182748,6 +182837,16 @@
    "device": "ikebukuro",
    "name": "32VRCHG5SP",
    "model": "AI PONT"
+  },
+  {
+   "device": "R3",
+   "name": "R3",
+   "model": "R3"
+  },
+  {
+   "device": "R4",
+   "name": "R4",
+   "model": "R4"
   }
  ],
  "Vision": [
@@ -203933,6 +204032,18 @@
    "device": "efiootabn7a",
    "name": "efiootabn7a",
    "model": "Tab N7a"
+  }
+ ],
+ "elactron": [
+  {
+   "device": "R3",
+   "name": "R3",
+   "model": "R3"
+  },
+  {
+   "device": "R4",
+   "name": "R4",
+   "model": "R4"
   }
  ],
  "elevn": [

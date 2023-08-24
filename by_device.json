@@ -4464,12 +4464,22 @@
    "model": "R3"
   },
   {
+   "brand": "Amstrad",
+   "name": "R3",
+   "model": "R3"
+  },
+  {
    "brand": "Artel",
    "name": "R3",
    "model": "R3"
   },
   {
    "brand": "BLACKLINE",
+   "name": "R3",
+   "model": "R3"
+  },
+  {
+   "brand": "Brandt",
    "name": "R3",
    "model": "R3"
   },
@@ -4515,6 +4525,11 @@
   },
   {
    "brand": "Hyundai",
+   "name": "R3",
+   "model": "R3"
+  },
+  {
+   "brand": "JVC",
    "name": "R3",
    "model": "R3"
   },
@@ -4574,6 +4589,11 @@
    "model": "2KTV-2TH"
   },
   {
+   "brand": "SPJtv",
+   "name": "R3",
+   "model": "R3"
+  },
+  {
    "brand": "Singer",
    "name": "R3",
    "model": "R3"
@@ -4589,7 +4609,17 @@
    "model": "R3"
   },
   {
+   "brand": "Vise",
+   "name": "R3",
+   "model": "R3"
+  },
+  {
    "brand": "Vision Technology",
+   "name": "R3",
+   "model": "R3"
+  },
+  {
+   "brand": "elactron",
    "name": "R3",
    "model": "R3"
   }
@@ -4636,6 +4666,16 @@
    "model": "R4"
   },
   {
+   "brand": "Brandt",
+   "name": "R4",
+   "model": "R4"
+  },
+  {
+   "brand": "CG Inspiring Life",
+   "name": "R4",
+   "model": "R4"
+  },
+  {
    "brand": "Casper",
    "name": "R4",
    "model": "R4"
@@ -4646,7 +4686,17 @@
    "model": "R4"
   },
   {
+   "brand": "Condor",
+   "name": "R4",
+   "model": "R4"
+  },
+  {
    "brand": "EVVO",
+   "name": "R4",
+   "model": "R4"
+  },
+  {
+   "brand": "EssentielB",
    "name": "R4",
    "model": "R4"
   },
@@ -4731,7 +4781,17 @@
    "model": "PANASONIC TV"
   },
   {
+   "brand": "ROWA",
+   "name": "R4",
+   "model": "R4"
+  },
+  {
    "brand": "SAMPO",
+   "name": "R4",
+   "model": "R4"
+  },
+  {
+   "brand": "SPJtv",
    "name": "R4",
    "model": "R4"
   },
@@ -4746,12 +4806,27 @@
    "model": "R4"
   },
   {
+   "brand": "THE UHD",
+   "name": "R4",
+   "model": "R4"
+  },
+  {
    "brand": "Thomson",
    "name": "R4",
    "model": "R4"
   },
   {
+   "brand": "Vise",
+   "name": "R4",
+   "model": "R4"
+  },
+  {
    "brand": "Vision Technology",
+   "name": "R4",
+   "model": "R4"
+  },
+  {
+   "brand": "elactron",
    "name": "R4",
    "model": "R4"
   }
@@ -15172,7 +15247,7 @@
   },
   {
    "brand": "Sansui",
-   "name": "North American",
+   "name": "Apollo Premium4K TV",
    "model": "Apollo Premium4K TV"
   },
   {
@@ -47048,6 +47123,13 @@
    "model": "NOTE 30"
   }
  ],
+ "NOTE_40": [
+  {
+   "brand": "Cubot",
+   "name": "NOTE 40",
+   "model": "NOTE 40"
+  }
+ ],
  "NOTE_50": [
   {
    "brand": "Cubot",
@@ -63910,6 +63992,13 @@
    "brand": "Freebox",
    "name": "Mini 4K",
    "model": "Freebox Player Mini v2"
+  }
+ ],
+ "FS500": [
+  {
+   "brand": "Freemobile",
+   "name": "FS500",
+   "model": "FS500"
   }
  ],
  "Cricket_Wave": [
@@ -137743,6 +137832,28 @@
    "model": "Ahiga"
   }
  ],
+ "H5032U": [
+  {
+   "brand": "Mobiwire",
+   "name": "Airtel Imagine",
+   "model": "Airtel Imagine"
+  },
+  {
+   "brand": "Mobiwire",
+   "name": "Kicka 5 Plus 4G",
+   "model": "Kicka 5 Plus 4G"
+  },
+  {
+   "brand": "Mobiwire",
+   "name": "Kicka 6 Plus 4G",
+   "model": "Kicka 6 Plus 4G"
+  },
+  {
+   "brand": "Mobiwire",
+   "name": "ONE",
+   "model": "ONE"
+  }
+ ],
  "E55": [
   {
    "brand": "Mobiwire",
@@ -137872,23 +137983,6 @@
    "brand": "Mobiwire",
    "name": "Kicka 5 Plus",
    "model": "Kicka 5 Plus"
-  }
- ],
- "H5032U": [
-  {
-   "brand": "Mobiwire",
-   "name": "Kicka 5 Plus 4G",
-   "model": "Kicka 5 Plus 4G"
-  },
-  {
-   "brand": "Mobiwire",
-   "name": "Kicka 6 Plus 4G",
-   "model": "Kicka 6 Plus 4G"
-  },
-  {
-   "brand": "Mobiwire",
-   "name": "ONE",
-   "model": "ONE"
   }
  ],
  "K5P_4G": [
@@ -172398,6 +172492,13 @@
    "brand": "Redmi",
    "name": "Redmi Pad",
    "model": "22081283G"
+  }
+ ],
+ "xun": [
+  {
+   "brand": "Redmi",
+   "name": "Redmi Pad SE",
+   "model": "23073RPBFG"
   }
  ],
  "tarzan": [
@@ -208040,6 +208141,13 @@
    "model": "S501"
   }
  ],
+ "SYMTAB_80": [
+  {
+   "brand": "Symphony",
+   "name": "SYMTAB 80",
+   "model": "SYMTAB_80"
+  }
+ ],
  "SYMTAB25": [
   {
    "brand": "Symphony",
@@ -226125,6 +226233,13 @@
    "brand": "Ulefone",
    "name": "Ulefone Tab A7",
    "model": "Ulefone Tab A7"
+  }
+ ],
+ "GQ3286": [
+  {
+   "brand": "Ulefone",
+   "name": "Tab A8",
+   "model": "Tab A8"
   }
  ],
  "Tab_A8": [
