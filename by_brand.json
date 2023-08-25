@@ -15983,6 +15983,11 @@
    "model": "T55"
   },
   {
+   "device": "TEY1A",
+   "name": "TEY1A",
+   "model": "TEY1A"
+  },
+  {
    "device": "laoshan",
    "name": "laoshan_BenQ",
    "model": "BENQANDROIDTV"

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-08-24
+Last sync is 2023-08-25
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3095,6 +3095,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|T47|T47|T47_05|
 |BenQ|T47_09|T47|T47_09|
 |BenQ|T55|T55|T55|
+|BenQ|TEY1A|TEY1A|TEY1A|
 |BenQ|laoshan_BenQ|laoshan|BENQANDROIDTV|
 |Benesse|TAB-A03-BR|TAB-A03-BR|TAB-A03-BR|
 |Benesse|TAB-A03-BS|TAB-A03-BS|TAB-A03-BS|
