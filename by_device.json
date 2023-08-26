@@ -5306,6 +5306,11 @@
    "model": "ASTEX Google TV"
   },
   {
+   "brand": "Blaupunkt",
+   "name": "Blaupunkt Google TV",
+   "model": "Blaupunkt Google TV"
+  },
+  {
    "brand": "KONKA",
    "name": "KONKA 4K OLED Google TV",
    "model": "HK Google TV"
@@ -47020,6 +47025,13 @@
    "brand": "Cubot",
    "name": "KINGKONG 7",
    "model": "KINGKONG 7"
+  }
+ ],
+ "KINGKONG_8": [
+  {
+   "brand": "Cubot",
+   "name": "KINGKONG 8",
+   "model": "KINGKONG 8"
   }
  ],
  "KINGKONG_9": [
@@ -209939,6 +209951,13 @@
    "brand": "TCL",
    "name": "TCL 40 XE 5G",
    "model": "T609V"
+  }
+ ],
+ "Encore_Visible": [
+  {
+   "brand": "TCL",
+   "name": "TCL 40 XE 5G",
+   "model": "T609B"
   }
  ],
  "Civic_S": [

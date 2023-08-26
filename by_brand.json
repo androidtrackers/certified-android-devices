@@ -17973,6 +17973,11 @@
    "model": "Blaupunkt 4K Google TV"
   },
   {
+   "device": "bandra",
+   "name": "Blaupunkt Google TV",
+   "model": "Blaupunkt Google TV"
+  },
+  {
    "device": "Blaupunkt_SL_01",
    "name": "Blaupunkt SL 01",
    "model": "Blaupunkt SL 01"
@@ -28477,6 +28482,11 @@
    "device": "KINGKONG_7",
    "name": "KINGKONG 7",
    "model": "KINGKONG 7"
+  },
+  {
+   "device": "KINGKONG_8",
+   "name": "KINGKONG 8",
+   "model": "KINGKONG 8"
   },
   {
    "device": "KINGKONG_9",
@@ -163026,6 +163036,11 @@
    "device": "Encore_Spectrum",
    "name": "TCL 40 XE 5G",
    "model": "T609V"
+  },
+  {
+   "device": "Encore_Visible",
+   "name": "TCL 40 XE 5G",
+   "model": "T609B"
   },
   {
    "device": "Rio",

@@ -27897,6 +27897,11 @@
    "brand": "Blaupunkt",
    "name": "Blaupunkt",
    "device": "kaitak"
+  },
+  {
+   "brand": "Blaupunkt",
+   "name": "Blaupunkt Google TV",
+   "device": "bandra"
   }
  ],
  "BLAUPUNKT GOOGLE TV": [
@@ -42445,6 +42450,13 @@
    "brand": "Cubot",
    "name": "KINGKONG 7",
    "device": "KINGKONG_7"
+  }
+ ],
+ "KINGKONG 8": [
+  {
+   "brand": "Cubot",
+   "name": "KINGKONG 8",
+   "device": "KINGKONG_8"
   }
  ],
  "KINGKONG 9": [
@@ -215565,6 +215577,13 @@
    "brand": "TCL",
    "name": "TCL 40 XE 5G",
    "device": "Encore_Spectrum"
+  }
+ ],
+ "T609B": [
+  {
+   "brand": "TCL",
+   "name": "TCL 40 XE 5G",
+   "device": "Encore_Visible"
   }
  ],
  "T431A": [

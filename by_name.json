@@ -33450,6 +33450,13 @@
    "model": "Blaupunkt 4K Google TV"
   }
  ],
+ "Blaupunkt Google TV": [
+  {
+   "brand": "Blaupunkt",
+   "device": "bandra",
+   "model": "Blaupunkt Google TV"
+  }
+ ],
  "Blaupunkt SL 01": [
   {
    "brand": "Blaupunkt",
@@ -48695,6 +48702,13 @@
    "brand": "Cubot",
    "device": "KINGKONG_7",
    "model": "KINGKONG 7"
+  }
+ ],
+ "KINGKONG 8": [
+  {
+   "brand": "Cubot",
+   "device": "KINGKONG_8",
+   "model": "KINGKONG 8"
   }
  ],
  "KINGKONG 9": [
@@ -207199,6 +207213,11 @@
    "brand": "TCL",
    "device": "Encore_Spectrum",
    "model": "T609V"
+  },
+  {
+   "brand": "TCL",
+   "device": "Encore_Visible",
+   "model": "T609B"
   }
  ],
  "TCL 403": [

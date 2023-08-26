@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-08-25
+Last sync is 2023-08-26
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3481,6 +3481,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Blaupunkt|Blaupunkt|tennoji|2K Blaupunkt Google TV|
 |Blaupunkt|Blaupunkt|zhongshan|Blaupunkt 4K Android TV|
 |Blaupunkt|Blaupunkt 4K Google TV|keoneae|Blaupunkt 4K Google TV|
+|Blaupunkt|Blaupunkt Google TV|bandra|Blaupunkt Google TV|
 |Blaupunkt|Blaupunkt SL 01|Blaupunkt_SL_01|Blaupunkt SL 01|
 |Blaupunkt|Blaupunkt SL 02|Blaupunkt_SL_02|Blaupunkt SL 02|
 |Blaupunkt|Blaupunkt SL 04|Blaupunkt_SL_04|Blaupunkt SL 04|
@@ -5505,6 +5506,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Cubot|KINGKONG 5 Pro|KINGKONG_5_Pro|KINGKONG 5 Pro|
 |Cubot|KINGKONG 6|KINGKONG_6|KINGKONG 6|
 |Cubot|KINGKONG 7|KINGKONG_7|KINGKONG 7|
+|Cubot|KINGKONG 8|KINGKONG_8|KINGKONG 8|
 |Cubot|KINGKONG 9|KINGKONG_9|KINGKONG 9|
 |Cubot|KINGKONG CS|KING_KONG_CS|KING KONG CS|
 |Cubot|KINGKONG MINI 3|KINGKONGMINI3|KINGKONG MINI 3|
@@ -31758,6 +31760,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 40 X 5G|Encore_OM|T609M|
 |TCL|TCL 40 XE 5G|Encore_CAN|T609J|
 |TCL|TCL 40 XE 5G|Encore_Spectrum|T609V|
+|TCL|TCL 40 XE 5G|Encore_Visible|T609B|
 |TCL|TCL 403|Rio|T431A|
 |TCL|TCL 403|Rio|T431E|
 |TCL|TCL 403|Rio|T431P|
