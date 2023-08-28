@@ -118108,6 +118108,16 @@
    "model": "PCAT00"
   },
   {
+   "device": "OP5705L1",
+   "name": "Reno10 5G",
+   "model": "CPH2531"
+  },
+  {
+   "device": "OP56DBL1",
+   "name": "Reno10 Pro 5G",
+   "model": "A302OP"
+  },
+  {
    "device": "OP56DBL1",
    "name": "Reno10 Pro 5G",
    "model": "CPH2525"
@@ -118116,6 +118126,11 @@
    "device": "OP56DBL1",
    "name": "Reno10 Pro 5G",
    "model": "CPH2541"
+  },
+  {
+   "device": "OP56D3L1",
+   "name": "Reno10 Pro+ 5G",
+   "model": "CPH2521"
   },
   {
    "device": "OP4B65L1",
@@ -134554,6 +134569,11 @@
   }
  ],
  "SPC": [
+  {
+   "device": "Discovery_Pro",
+   "name": "Discovery Pro",
+   "model": "Discovery Pro"
+  },
   {
    "device": "martin",
    "name": "EU、UK、AP",
@@ -154276,6 +154296,11 @@
    "device": "R3",
    "name": "R3",
    "model": "R3"
+  },
+  {
+   "device": "R4",
+   "name": "R4",
+   "model": "R4"
   },
   {
    "device": "sunnyvale",

@@ -4801,6 +4801,11 @@
    "model": "R4-SH"
   },
   {
+   "brand": "Singer",
+   "name": "R4",
+   "model": "R4"
+  },
+  {
    "brand": "Stream System",
    "name": "R4",
    "model": "R4"
@@ -155354,7 +155359,19 @@
    "model": "PCAT00"
   }
  ],
+ "OP5705L1": [
+  {
+   "brand": "Oppo",
+   "name": "Reno10 5G",
+   "model": "CPH2531"
+  }
+ ],
  "OP56DBL1": [
+  {
+   "brand": "Oppo",
+   "name": "Reno10 Pro 5G",
+   "model": "A302OP"
+  },
   {
    "brand": "Oppo",
    "name": "Reno10 Pro 5G",
@@ -155364,6 +155381,13 @@
    "brand": "Oppo",
    "name": "Reno10 Pro 5G",
    "model": "CPH2541"
+  }
+ ],
+ "OP56D3L1": [
+  {
+   "brand": "Oppo",
+   "name": "Reno10 Pro+ 5G",
+   "model": "CPH2521"
   }
  ],
  "OP4B65L1": [
@@ -174742,6 +174766,13 @@
    "brand": "SOWLY",
    "name": "AG_1088_A133",
    "model": "AG_1088_A133"
+  }
+ ],
+ "Discovery_Pro": [
+  {
+   "brand": "SPC",
+   "name": "Discovery Pro",
+   "model": "Discovery Pro"
   }
  ],
  "GRAVITY-2": [

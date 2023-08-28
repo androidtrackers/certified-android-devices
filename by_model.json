@@ -3125,6 +3125,11 @@
    "device": "R4"
   },
   {
+   "brand": "Singer",
+   "name": "R4",
+   "device": "R4"
+  },
+  {
    "brand": "Stream System",
    "name": "R4",
    "device": "R4"
@@ -157958,6 +157963,20 @@
    "device": "OP46B1"
   }
  ],
+ "CPH2531": [
+  {
+   "brand": "Oppo",
+   "name": "Reno10 5G",
+   "device": "OP5705L1"
+  }
+ ],
+ "A302OP": [
+  {
+   "brand": "Oppo",
+   "name": "Reno10 Pro 5G",
+   "device": "OP56DBL1"
+  }
+ ],
  "CPH2525": [
   {
    "brand": "Oppo",
@@ -157970,6 +157989,13 @@
    "brand": "Oppo",
    "name": "Reno10 Pro 5G",
    "device": "OP56DBL1"
+  }
+ ],
+ "CPH2521": [
+  {
+   "brand": "Oppo",
+   "name": "Reno10 Pro+ 5G",
+   "device": "OP56D3L1"
   }
  ],
  "CPH1945": [
@@ -178246,6 +178272,13 @@
    "brand": "SOWLY",
    "name": "AG_1088_A133",
    "device": "AG_1088_A133"
+  }
+ ],
+ "Discovery Pro": [
+  {
+   "brand": "SPC",
+   "name": "Discovery Pro",
+   "device": "Discovery_Pro"
   }
  ],
  "SPC Android TV": [

@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-08-27
+Last sync is 2023-08-28
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -22964,8 +22964,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|Reno Z 中国版|OP4699|PCDT10|
 |Oppo|Reno 标准版|OP46B1|PCAM00|
 |Oppo|Reno 标准版|OP46B1|PCAT00|
+|Oppo|Reno10 5G|OP5705L1|CPH2531|
+|Oppo|Reno10 Pro 5G|OP56DBL1|A302OP|
 |Oppo|Reno10 Pro 5G|OP56DBL1|CPH2525|
 |Oppo|Reno10 Pro 5G|OP56DBL1|CPH2541|
+|Oppo|Reno10 Pro+ 5G|OP56D3L1|CPH2521|
 |Oppo|Reno2 Z|OP4B65L1|CPH1945|
 |Oppo|Reno2 Z|OP4B65L1|CPH1951|
 |Oppo|Reno2 Z 中国版|OP4A43|PCKM80|
@@ -26139,6 +26142,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |SOSMART|T5|SOSMART_T5|SOSMART_T5|
 |SOUTH|H6LM|H6LM|H6LM|
 |SOWLY|AG_1088_A133|AG_1088_A133|AG_1088_A133|
+|SPC|Discovery Pro|Discovery_Pro|Discovery Pro|
 |SPC|EU、UK、AP|martin|SPC Android TV|
 |SPC|GRAVITY-2|GRAVITY-2|GRAVITY 2|
 |SPC|GRAVITY-PRO-2|GRAVITY-PRO-2|GRAVITY PRO 2|
@@ -30054,6 +30058,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Singer|Android TV|R1|ATV R1|
 |Singer|Android TV|R2|ATV R2|
 |Singer|R3|R3|R3|
+|Singer|R4|R4|R4|
 |Singer|SINGER ANDROID TV|sunnyvale|SINGER ANDROID TV|
 |Singer|SINGER BD SMART TV|SW4H_FF|SINGER BD SMART TV|
 |Singer|SINGER SL SMART TV|SW4H|SINGER SL SMART TV|
