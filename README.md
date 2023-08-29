@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-08-28
+Last sync is 2023-08-29
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -2533,6 +2533,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BLOW|PlatinumTAB10_4G_V1|PlatinumTAB10_4G_V1|PlatinumTAB10_4G_V1|
 |BLOW|PlatinumTAB10_4G_V2|PlatinumTAB10_4G_V2|PlatinumTAB10_4G_V2|
 |BLOW|PlatinumTAB10_4G_V3|PlatinumTAB10_4G_V3|PlatinumTAB10_4G_V3|
+|BLOW|PlatinumTAB11_4G|PlatinumTAB11_4G|PlatinumTAB11_4G|
 |BLOW|PlatinumTAB8_4G|PlatinumTAB8_4G|PlatinumTAB8_4G|
 |BLUE|G6SG|ikebukuro|AI PONT|
 |BLUEING|M1867G|M1867G|M1867G|
@@ -4093,6 +4094,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |CAIXUN|Europe|martin|Smarttech Android Monitor|
 |CAIXUN|Europe|nagata|Fobem 2K SMART TV|
 |CAIXUN|Korea|marina|DWsummus 4K SMART TV|
+|CAIXUN|MAXWELL SMART TV|marina|MAXWELL SMART TV|
+|CAIXUN|MAXWELL SMART TV|nagata|MAXWELL SMART TV|
 |CAIXUN|Malaysia|yeongdeungpo|AiPlus4KMY|
 |CAIXUN|Mexico|yeongdeungpo|AiPlus4K|
 |CAIXUN|Sgamer|cottongreen|Sgamer|
@@ -15214,6 +15217,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Kogan|Kogan Agora XI|AGORA_XI|AGORA XI|
 |Kogan|Kogan Agora XS|Kogan_Agora_XS|Agora XS|
 |Kogan|Kogan G5|marina|Kogan G5|
+|Kogan|Kogan G5|nagata|Kogan G5|
 |Kogan|Kogan SmarterTV|hanyang|Kogan SmarterTV|
 |Kogan|RF9220|redwood|AI PONT|
 |Kogan|Smart TV|longshan|AI PONT|
@@ -19802,6 +19806,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mirage|82S|MI-CH-82S|MI-CH-82S|
 |Mirage|MI-SO-81T|MI-SO-81T|MI-SO-81T|
 |Miramage|MF3D2211|MF3D2211|MF3D2211|
+|Miramage|TV3223HDA11SMARTG|beaudry|Miramage AndroidTV|
 |Mito|4K Smart TV|pioneer|4K PA Smart TV|
 |Mito|A10|A10_sprout|MITO A10|
 |Mito|A10|A10_sprout|MITO_A10|
@@ -20710,6 +20715,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Motorola|moto g10 power|capri|moto g(10) power|
 |Motorola|moto g13|penangf|moto g13|
 |Motorola|moto g13|penangf|penangf|
+|Motorola|moto g14|cancun|cancun|
+|Motorola|moto g14|cancun|moto g14|
 |Motorola|moto g200 5G|xpeng|moto g200 5G|
 |Motorola|moto g200 5G|xpeng|motorola edge 20 pro|
 |Motorola|moto g22|hawaiip|Lenovo K15 Plus|
@@ -22595,6 +22602,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|A93 5G|OP4E99|PEHM00|
 |Oppo|A94|OP4F43L1|CPH2203|
 |Oppo|A96 5G|OP5267|PFUM10|
+|Oppo|A98 5G|OP56E8L1|CPH2529|
 |Oppo|A9x|OP46F3|PCEM00|
 |Oppo|A9x|OP46F3|PCET00|
 |Oppo|AX5s|CPH1920|CPH1920|
@@ -23421,6 +23429,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PROGRACE|K726|K726|K726|
 |PROTON|PROTON 2K Android|lasalle|PROTON 2K Android|
 |PROTON|PROTON 4K Android|kenton|PROTON 4K Android|
+|PROTON|PROTON 4K Google TV|keoneae|PROTON 4K Google TV|
 |PS_Mobile|Neo_Pro|Neo_Pro|Neo Pro|
 |PS_Mobile|neo|neo|neo|
 |PT mobile|P10|P10|P10|
@@ -25144,6 +25153,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Qilive|QT2108BP|QT2108BP|QT2108BP|
 |Qilive|QT2110BP|QT2110BP|QT2110BP|
 |Qilive|QT22101B|QT22101B|QT22101B|
+|Qilive|Qilive SMART TV|marina|Qilive SMART TV|
+|Qilive|Qilive SMART TV|nagata|Qilive SMART TV|
 |Qilive|W55|W55|W55|
 |Qisur|R106|R106|R106|
 |Qisur|X72|X72|X72|
@@ -31784,6 +31795,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL C7|A3A_PLUS|5158A|
 |TCL|TCL C9 Plus|Venice|5148I|
 |TCL|TCL ION V|Bora_NA_OM|T430M|
+|TCL|TCL ION X|Bora_NA_OM|T430WS|
 |TCL|TCL ION X|Bora_TMO|T430W|
 |TCL|TCL L10|Faraday|5124J|
 |TCL|TCL L10 Lite|Jakarta_Lite|4187M|
@@ -34871,6 +34883,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|G3 Plus EEA|G3_Plus|MP25|
 |Umidigi|G5 Mecha|G5_Mecha|RP08|
 |Umidigi|G5 Mecha EEA|G5_Mecha|RP08|
+|Umidigi|G5 Mecha RU|G5_Mecha|RP08|
 |Umidigi|MT02_EEA|MT02_EEA|AblePad|
 |Umidigi|MT02_ROW|MT02_ROW|AblePad|
 |Umidigi|One|One|One|
@@ -40317,6 +40330,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |realme|realme GT NEO 3T|RE54E4L1|RMX3371|
 |realme|realme GT Neo2 5G|RE879AL1|RMX3370|
 |realme|realme GT Neo2 5G|RE879AL1|RMX3370|
+|realme|realme GT Neo5|RE5C33|RMX3820|
+|realme|realme GT Neo5 240W|RE5C33|RMX3823|
 |realme|realme GT3 240W|REE2B2L1|RMX3709|
 |realme|realme Narzo 30 Pro 5G|RMX2117L1|RMX2117|
 |realme|realme Pad X|RE5496|RMP2108|

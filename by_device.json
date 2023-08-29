@@ -5254,6 +5254,11 @@
    "model": "HK 4K Google TV"
   },
   {
+   "brand": "PROTON",
+   "name": "PROTON 4K Google TV",
+   "model": "PROTON 4K Google TV"
+  },
+  {
    "brand": "RCA",
    "name": "RCA 4K Google TV",
    "model": "RCA 4K Google TV"
@@ -15187,6 +15192,11 @@
   },
   {
    "brand": "CAIXUN",
+   "name": "MAXWELL SMART TV",
+   "model": "MAXWELL SMART TV"
+  },
+  {
+   "brand": "CAIXUN",
    "name": "South of America",
    "model": "Apollo Pro4K TV"
   },
@@ -15249,6 +15259,11 @@
    "brand": "Profilo",
    "name": "Profilo Smart TV",
    "model": "Profilo Smart TV"
+  },
+  {
+   "brand": "Qilive",
+   "name": "Qilive SMART TV",
+   "model": "Qilive SMART TV"
   },
   {
    "brand": "RCA",
@@ -25602,6 +25617,13 @@
    "model": "PlatinumTAB10_4G_V3"
   }
  ],
+ "PlatinumTAB11_4G": [
+  {
+   "brand": "BLOW",
+   "name": "PlatinumTAB11_4G",
+   "model": "PlatinumTAB11_4G"
+  }
+ ],
  "PlatinumTAB8_4G": [
   {
    "brand": "BLOW",
@@ -32518,6 +32540,11 @@
    "model": "Fobem 2K SMART TV"
   },
   {
+   "brand": "CAIXUN",
+   "name": "MAXWELL SMART TV",
+   "model": "MAXWELL SMART TV"
+  },
+  {
    "brand": "Continental Edison",
    "name": "CDI SMART TV",
    "model": "CDI SMART TV"
@@ -32538,6 +32565,11 @@
    "model": "INVES SMART TV"
   },
   {
+   "brand": "Kogan",
+   "name": "Kogan G5",
+   "model": "Kogan G5"
+  },
+  {
    "brand": "MULTYNET",
    "name": "Pakistan",
    "model": "MULTYNET 2K SMART TV"
@@ -32551,6 +32583,11 @@
    "brand": "Profilo",
    "name": "Turkey",
    "model": "Profilo Smart TV"
+  },
+  {
+   "brand": "Qilive",
+   "name": "Qilive SMART TV",
+   "model": "Qilive SMART TV"
   },
   {
    "brand": "RCA",
@@ -38488,6 +38525,11 @@
    "brand": "Itel",
    "name": "G4350",
    "model": "itel AndroidTV"
+  },
+  {
+   "brand": "Miramage",
+   "name": "TV3223HDA11SMARTG",
+   "model": "Miramage AndroidTV"
   },
   {
    "brand": "Syinix",
@@ -141926,6 +141968,18 @@
    "model": "moto g23"
   }
  ],
+ "cancun": [
+  {
+   "brand": "Motorola",
+   "name": "moto g14",
+   "model": "cancun"
+  },
+  {
+   "brand": "Motorola",
+   "name": "moto g14",
+   "model": "moto g14"
+  }
+ ],
  "xpeng": [
   {
    "brand": "Motorola",
@@ -153230,6 +153284,13 @@
    "brand": "Oppo",
    "name": "A96 5G",
    "model": "PFUM10"
+  }
+ ],
+ "OP56E8L1": [
+  {
+   "brand": "Oppo",
+   "name": "A98 5G",
+   "model": "CPH2529"
   }
  ],
  "OP46F3": [
@@ -210232,6 +210293,11 @@
    "brand": "TCL",
    "name": "TCL ION V",
    "model": "T430M"
+  },
+  {
+   "brand": "TCL",
+   "name": "TCL ION X",
+   "model": "T430WS"
   }
  ],
  "Bora_TMO": [
@@ -227075,6 +227141,11 @@
   {
    "brand": "Umidigi",
    "name": "G5 Mecha EEA",
+   "model": "RP08"
+  },
+  {
+   "brand": "Umidigi",
+   "name": "G5 Mecha RU",
    "model": "RP08"
   }
  ],
@@ -258545,6 +258616,18 @@
    "brand": "realme",
    "name": "realme GT NEO 3T",
    "model": "RMX3371"
+  }
+ ],
+ "RE5C33": [
+  {
+   "brand": "realme",
+   "name": "realme GT Neo5",
+   "model": "RMX3820"
+  },
+  {
+   "brand": "realme",
+   "name": "realme GT Neo5 240W",
+   "model": "RMX3823"
   }
  ],
  "REE2B2L1": [
