@@ -2759,6 +2759,11 @@
    "device": "songshan"
   },
   {
+   "brand": "Leica",
+   "name": "Leica Laser",
+   "device": "wuyishan"
+  },
+  {
    "brand": "Noblex",
    "name": "X7500",
    "device": "songshan"
@@ -6761,6 +6766,11 @@
    "device": "zhongshan"
   },
   {
+   "brand": "DIJITSU",
+   "name": "DIJITSU",
+   "device": "hongkong"
+  },
+  {
    "brand": "Dahua",
    "name": "DAHUA",
    "device": "zhongshan"
@@ -6803,6 +6813,11 @@
   {
    "brand": "KTCtv",
    "name": "ASAANO",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "ASAANO",
    "device": "lavender"
   },
   {
@@ -6827,6 +6842,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "FPS",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
    "name": "KTC",
    "device": "zhongshan"
   },
@@ -6838,12 +6858,22 @@
   {
    "brand": "KTCtv",
    "name": "PHIMARK",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "PHIMARK",
    "device": "lavender"
   },
   {
    "brand": "KTCtv",
    "name": "POWER GREEN",
    "device": "zhongshan"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "POWEROLOGY",
+   "device": "hongkong"
   },
   {
    "brand": "KTCtv",
@@ -6873,6 +6903,11 @@
   {
    "brand": "KTCtv",
    "name": "XELL",
+   "device": "hongkong"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "YARA",
    "device": "hongkong"
   },
   {
@@ -6969,6 +7004,11 @@
    "brand": "S Vision",
    "name": "SVISION",
    "device": "zhongshan"
+  },
+  {
+   "brand": "Samview",
+   "name": "SAMVIEW",
+   "device": "hongkong"
   },
   {
    "brand": "Sharp",
@@ -24975,6 +25015,13 @@
    "device": "YUL"
   }
  ],
+ "RM7504": [
+  {
+   "brand": "BenQ",
+   "name": "RM7504",
+   "device": "RM7504"
+  }
+ ],
  "BenQ T3": [
   {
    "brand": "BenQ",
@@ -39487,7 +39534,7 @@
  "ContinentalEdison 4K Android TV": [
   {
    "brand": "Continental Edison",
-   "name": "ContinentalEdison 4K Android TV",
+   "name": "ContinentalEdison 4K Android",
    "device": "kenton"
   }
  ],
@@ -137983,6 +138030,11 @@
    "brand": "Miramage",
    "name": "TV3223HDA11SMARTG",
    "device": "beaudry"
+  },
+  {
+   "brand": "Miramage",
+   "name": "TV5023UHDA11SMARTG",
+   "device": "barking"
   }
  ],
  "MITO A10": [
@@ -156678,6 +156730,13 @@
    "device": "OP5223"
   }
  ],
+ "OPD2201": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO Pad 2",
+   "device": "OP5989"
+  }
+ ],
  "OPD2102": [
   {
    "brand": "Oppo",
@@ -160325,6 +160384,13 @@
   }
  ],
  "PET 101-H232E": [
+  {
+   "brand": "PEAQ",
+   "name": "PET-101-H232E",
+   "device": "PET-101-H232E"
+  }
+ ],
+ "PET 101-H232E-13": [
   {
    "brand": "PEAQ",
    "name": "PET-101-H232E",
@@ -181303,6 +181369,20 @@
    "device": "a04s"
   }
  ],
+ "SM-A055F": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A05",
+   "device": "a05m"
+  }
+ ],
+ "SM-A055M": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A05",
+   "device": "a05m"
+  }
+ ],
  "SM-A105F": [
   {
    "brand": "Samsung",
@@ -197684,6 +197764,55 @@
    "brand": "Samsung",
    "name": "Galaxy Tab S9 5G",
    "device": "gts9"
+  }
+ ],
+ "SM-X516B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S9 FE 5G",
+   "device": "gts9fe"
+  }
+ ],
+ "SM-X516C": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S9 FE 5G",
+   "device": "gts9fe"
+  }
+ ],
+ "SM-X516N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S9 FE 5G",
+   "device": "gts9fe"
+  }
+ ],
+ "SM-X518U": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S9 FE 5G",
+   "device": "gts9fe"
+  }
+ ],
+ "SM-X616B": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S9 FE+ 5G",
+   "device": "gts9fep"
+  }
+ ],
+ "SM-X616C": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S9 FE+ 5G",
+   "device": "gts9fep"
+  }
+ ],
+ "SM-X616N": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S9 FE+ 5G",
+   "device": "gts9fep"
   }
  ],
  "SM-X910": [
@@ -229225,6 +229354,13 @@
    "device": "TECNO-P702"
   }
  ],
+ "TECNO AD11": [
+  {
+   "brand": "Tecno",
+   "name": "PHANTOM V Flip 5G",
+   "device": "TECNO-AD11"
+  }
+ ],
  "TECNO AD10": [
   {
    "brand": "Tecno",
@@ -236177,6 +236313,13 @@
    "brand": "Umidigi",
    "name": "UMIDIGI G5 EEA",
    "device": "UMIDIGI_G5"
+  }
+ ],
+ "MP38": [
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI G5A",
+   "device": "UMIDIGI_G5A"
   }
  ],
  "UMIDIGI X": [
@@ -266025,6 +266168,13 @@
    "brand": "Zuum",
    "name": "MAGNO MINI",
    "device": "MAGNO_MINI"
+  }
+ ],
+ "Magno Pro": [
+  {
+   "brand": "Zuum",
+   "name": "Magno Pro",
+   "device": "Magno_Pro"
   }
  ],
  "ONIX": [

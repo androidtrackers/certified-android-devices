@@ -15943,6 +15943,11 @@
    "model": "QS02"
   },
   {
+   "device": "RM7504",
+   "name": "RM7504",
+   "model": "RM7504"
+  },
+  {
    "device": "longshan",
    "name": "Smart TV",
    "model": "AI PONT"
@@ -26438,7 +26443,7 @@
   },
   {
    "device": "kenton",
-   "name": "ContinentalEdison 4K Android TV",
+   "name": "ContinentalEdison 4K Android",
    "model": "ContinentalEdison 4K Android TV"
   },
   {
@@ -30074,6 +30079,11 @@
    "device": "DCT_90",
    "name": "DCT 90",
    "model": "DCT 90"
+  },
+  {
+   "device": "hongkong",
+   "name": "DIJITSU",
+   "model": "4K SMART TV"
   },
   {
    "device": "mountbaker",
@@ -76237,6 +76247,11 @@
    "model": "40D"
   },
   {
+   "device": "hongkong",
+   "name": "ASAANO",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "lavender",
    "name": "ASAANO",
    "model": "4K SMART TV"
@@ -76340,6 +76355,11 @@
    "device": "hongkong",
    "name": "EcoTV Plus D",
    "model": "EcoTV Plus D"
+  },
+  {
+   "device": "hongkong",
+   "name": "FPS",
+   "model": "4K SMART TV"
   },
   {
    "device": "hongkong",
@@ -76452,6 +76472,11 @@
    "model": "CSV4K"
   },
   {
+   "device": "hongkong",
+   "name": "PHIMARK",
+   "model": "4K SMART TV"
+  },
+  {
    "device": "lavender",
    "name": "PHIMARK",
    "model": "4K SMART TV"
@@ -76464,6 +76489,11 @@
   {
    "device": "zhongshan",
    "name": "POWER GREEN",
+   "model": "4K SMART TV"
+  },
+  {
+   "device": "hongkong",
+   "name": "POWEROLOGY",
    "model": "4K SMART TV"
   },
   {
@@ -76560,6 +76590,11 @@
    "device": "mountbaker",
    "name": "XELL",
    "model": "2K SMART TV"
+  },
+  {
+   "device": "hongkong",
+   "name": "YARA",
+   "model": "4K SMART TV"
   },
   {
    "device": "stanford",
@@ -89632,6 +89667,11 @@
    "device": "CSX8",
    "name": "Leica CSX8",
    "model": "LGT-08QA-2301"
+  },
+  {
+   "device": "wuyishan",
+   "name": "Leica Laser",
+   "model": "SmartTV 4K"
   }
  ],
  "Lenco": [
@@ -101890,6 +101930,11 @@
   {
    "device": "beaudry",
    "name": "TV3223HDA11SMARTG",
+   "model": "Miramage AndroidTV"
+  },
+  {
+   "device": "barking",
+   "name": "TV5023UHDA11SMARTG",
    "model": "Miramage AndroidTV"
   }
  ],
@@ -117143,6 +117188,11 @@
    "model": "OPD2101"
   },
   {
+   "device": "OP5989",
+   "name": "OPPO Pad 2",
+   "model": "OPD2201"
+  },
+  {
    "device": "OP5225",
    "name": "OPPO Pad Air",
    "model": "OPD2102"
@@ -120075,6 +120125,11 @@
    "device": "PET-101-H232E",
    "name": "PET-101-H232E",
    "model": "PET 101-H232E"
+  },
+  {
+   "device": "PET-101-H232E",
+   "name": "PET-101-H232E",
+   "model": "PET 101-H232E-13"
   },
   {
    "device": "PET-101-H332S-W",
@@ -136874,6 +136929,16 @@
    "model": "SM-A047M"
   },
   {
+   "device": "a05m",
+   "name": "Galaxy A05",
+   "model": "SM-A055F"
+  },
+  {
+   "device": "a05m",
+   "name": "Galaxy A05",
+   "model": "SM-A055M"
+  },
+  {
    "device": "a10",
    "name": "Galaxy A10",
    "model": "SM-A105F"
@@ -148719,6 +148784,41 @@
    "model": "SM-X716N"
   },
   {
+   "device": "gts9fe",
+   "name": "Galaxy Tab S9 FE 5G",
+   "model": "SM-X516B"
+  },
+  {
+   "device": "gts9fe",
+   "name": "Galaxy Tab S9 FE 5G",
+   "model": "SM-X516C"
+  },
+  {
+   "device": "gts9fe",
+   "name": "Galaxy Tab S9 FE 5G",
+   "model": "SM-X516N"
+  },
+  {
+   "device": "gts9fe",
+   "name": "Galaxy Tab S9 FE 5G",
+   "model": "SM-X518U"
+  },
+  {
+   "device": "gts9fep",
+   "name": "Galaxy Tab S9 FE+ 5G",
+   "model": "SM-X616B"
+  },
+  {
+   "device": "gts9fep",
+   "name": "Galaxy Tab S9 FE+ 5G",
+   "model": "SM-X616C"
+  },
+  {
+   "device": "gts9fep",
+   "name": "Galaxy Tab S9 FE+ 5G",
+   "model": "SM-X616N"
+  },
+  {
    "device": "gts9uwifi",
    "name": "Galaxy Tab S9 Ultra",
    "model": "SM-X910"
@@ -150799,6 +150899,13 @@
    "device": "TWIFI_Q07",
    "name": "TWIFI_Q07",
    "model": "TWIFI_Q07"
+  }
+ ],
+ "Samview": [
+  {
+   "device": "hongkong",
+   "name": "SAMVIEW",
+   "model": "4K SMART TV"
   }
  ],
  "Sanaeko": [
@@ -173435,6 +173542,11 @@
    "model": "TECNO P702AS"
   },
   {
+   "device": "TECNO-AD11",
+   "name": "PHANTOM V Flip 5G",
+   "model": "TECNO AD11"
+  },
+  {
    "device": "TECNO-AD10",
    "name": "PHANTOM V Fold",
    "model": "TECNO AD10"
@@ -179282,6 +179394,11 @@
    "device": "UMIDIGI_G5",
    "name": "UMIDIGI G5 EEA",
    "model": "MP27"
+  },
+  {
+   "device": "UMIDIGI_G5A",
+   "name": "UMIDIGI G5A",
+   "model": "MP38"
   },
   {
    "device": "UMIDIGI_X",
@@ -203249,6 +203366,11 @@
    "device": "MAGNO_MINI",
    "name": "MAGNO MINI",
    "model": "MAGNO MINI"
+  },
+  {
+   "device": "Magno_Pro",
+   "name": "Magno Pro",
+   "model": "Magno Pro"
   },
   {
    "device": "ONIX",

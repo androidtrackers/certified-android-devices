@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-08-29
+Last sync is 2023-08-30
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -3087,6 +3087,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |BenQ|Q Stick|S905Y2|QS01|
 |BenQ|QS01|S905Y2|QS01|
 |BenQ|QS02|YUL|QS02|
+|BenQ|RM7504|RM7504|RM7504|
 |BenQ|Smart TV|longshan|AI PONT|
 |BenQ|Smart TV|redwood|AI PONT|
 |BenQ|T3|T3|BenQ T3|
@@ -5105,7 +5106,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Continental Edison|CDI SMART TV|nagata|CDI SMART TV|
 |Continental Edison|CE10402|CE10402|CE10402|
 |Continental Edison|Continental Edison|yeongdeungpo|B UHD Android TV|
-|Continental Edison|ContinentalEdison 4K Android TV|kenton|ContinentalEdison 4K Android TV|
+|Continental Edison|ContinentalEdison 4K Android|kenton|ContinentalEdison 4K Android TV|
 |Continental Edison|Continential_Edison|bangbae|Continental 4K Android TV|
 |Continental Edison|EU、UK、AP|martin|Continental Edison Android TV|
 |Continental Edison|France|guandu|Continental Edison Android TV|
@@ -5816,6 +5817,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |DIAMANT|EU|yeongdeungpo|DIAMANT Android TV|
 |DIFRNCE|DIT702201|DIT702201|NID_7010|
 |DIJITSU|DCT 90|DCT_90|DCT 90|
+|DIJITSU|DIJITSU|hongkong|4K SMART TV|
 |DIJITSU|DIJITSU|mountbaker|2K SMART TV|
 |DIJITSU|Smart A11s|Smart_A11s|DIJITSU_Smart_A11s|
 |DIMENSIONS|DISHM7863|DISHM7863|DISHM7863|
@@ -14787,6 +14789,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTC (PD)|BLISS503|BLISS503|BLISS503|
 |KTC (PD)|BLISS_8|BLISS_8|BLISS_8|
 |KTCtv|AP|stanford|40D|
+|KTCtv|ASAANO|hongkong|4K SMART TV|
 |KTCtv|ASAANO|lavender|4K SMART TV|
 |KTCtv|ASAANO|mountbaker|2K SMART TV|
 |KTCtv|Banana|stanford|2K SMART TV|
@@ -14808,6 +14811,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|EcoTV Plus A|hongkong|EcoTV Plus A|
 |KTCtv|EcoTV Plus C|hongkong|EcoTV Plus C|
 |KTCtv|EcoTV Plus D|hongkong|EcoTV Plus D|
+|KTCtv|FPS|hongkong|4K SMART TV|
 |KTCtv|Global|hongkong|GLOBAL GOOGLE TV 4K|
 |KTCtv|Global|lavender|GLOBAL GOOGLE TV 4K|
 |KTCtv|Global|mountbaker|GLOBAL GOOGLE TV|
@@ -14830,9 +14834,11 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|NAKAMICHI|mountbaker|NAKAMICHI GOOGLE TV|
 |KTCtv|NAKAMICHI|stanford|CSV2K|
 |KTCtv|NAKAMICHI|zhongshan|CSV4K|
+|KTCtv|PHIMARK|hongkong|4K SMART TV|
 |KTCtv|PHIMARK|lavender|4K SMART TV|
 |KTCtv|PHIMARK|mountbaker|2K SMART TV|
 |KTCtv|POWER GREEN|zhongshan|4K SMART TV|
+|KTCtv|POWEROLOGY|hongkong|4K SMART TV|
 |KTCtv|POWER_GREEN|stanford|2K SMART TV|
 |KTCtv|RENYA|mountbaker|2K SMART TV|
 |KTCtv|REYNA|hongkong|4K SMART TV|
@@ -14852,6 +14858,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |KTCtv|VOXELECTRONICS|mountbaker|2K SMART TV|
 |KTCtv|XELL|hongkong|4K SMART TV|
 |KTCtv|XELL|mountbaker|2K SMART TV|
+|KTCtv|YARA|hongkong|4K SMART TV|
 |KTCtv|Zitro|stanford|40DSA|
 |KTCtv|Zitro|zhongshan|43FSA|
 |KTS (JP)|IPN99_RTD1319_TOA|TMS-KR01P|TMS-KR01P|
@@ -17418,6 +17425,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |LegendComfortable|SEP011037|SEP011037|SEP011037|
 |LeiaInc|Lume Pad|LumePad|LPD-20W|
 |Leica|Leica CSX8|CSX8|LGT-08QA-2301|
+|Leica|Leica Laser|wuyishan|SmartTV 4K|
 |Lenco|Lenovo Tab K8|TB-8506N|Lenovo TB-8506N|
 |Lenovo||18382AU|ThinkPad Tablet|
 |Lenovo||A1_07|A1_07|
@@ -19807,6 +19815,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Mirage|MI-SO-81T|MI-SO-81T|MI-SO-81T|
 |Miramage|MF3D2211|MF3D2211|MF3D2211|
 |Miramage|TV3223HDA11SMARTG|beaudry|Miramage AndroidTV|
+|Miramage|TV5023UHDA11SMARTG|barking|Miramage AndroidTV|
 |Mito|4K Smart TV|pioneer|4K PA Smart TV|
 |Mito|A10|A10_sprout|MITO A10|
 |Mito|A10|A10_sprout|MITO_A10|
@@ -22771,6 +22780,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Oppo|OPPO A95 5G|OP4EB7|PELM00|
 |Oppo|OPPO F21 Pro 5G|OP532FL1|CPH2341|
 |Oppo|OPPO Pad|OP5223|OPD2101|
+|Oppo|OPPO Pad 2|OP5989|OPD2201|
 |Oppo|OPPO Pad Air|OP5225|OPD2102|
 |Oppo|OPPO Reno5 A|OP4F2BL1|A101OP|
 |Oppo|OPPO Reno5 A|OP4F2BL1|CPH2199|
@@ -23347,6 +23357,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |PEAQ|PET-1008-H332E|PET-1008-H332E|PET 1008-H332E|
 |PEAQ|PET-101-F464S|PET-101-F464S|PET-101-F464S|
 |PEAQ|PET-101-H232E|PET-101-H232E|PET 101-H232E|
+|PEAQ|PET-101-H232E|PET-101-H232E|PET 101-H232E-13|
 |PEAQ|PET-101-H332S-W|PET-101-H332S-W|PET 101-H332S-W|
 |PEAQ|PET-102-H232S|PET-102-H232S|PET-102-H232S|
 |PEAQ|PET-1081-H232S|PET-1081-H232S|PET 1081-H232S|
@@ -26592,6 +26603,8 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy A04e|a04e|SM-A042M|
 |Samsung|Galaxy A04s|a04s|SM-A047F|
 |Samsung|Galaxy A04s|a04s|SM-A047M|
+|Samsung|Galaxy A05|a05m|SM-A055F|
+|Samsung|Galaxy A05|a05m|SM-A055M|
 |Samsung|Galaxy A10|a10|SM-A105F|
 |Samsung|Galaxy A10|a10|SM-A105FN|
 |Samsung|Galaxy A10|a10|SM-A105G|
@@ -28961,6 +28974,13 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samsung|Galaxy Tab S9|gts9wifi|SM-X710|
 |Samsung|Galaxy Tab S9 5G|gts9|SM-X716B|
 |Samsung|Galaxy Tab S9 5G|gts9|SM-X716N|
+|Samsung|Galaxy Tab S9 FE 5G|gts9fe|SM-X516B|
+|Samsung|Galaxy Tab S9 FE 5G|gts9fe|SM-X516C|
+|Samsung|Galaxy Tab S9 FE 5G|gts9fe|SM-X516N|
+|Samsung|Galaxy Tab S9 FE 5G|gts9fe|SM-X518U|
+|Samsung|Galaxy Tab S9 FE+ 5G|gts9fep|SM-X616B|
+|Samsung|Galaxy Tab S9 FE+ 5G|gts9fep|SM-X616C|
+|Samsung|Galaxy Tab S9 FE+ 5G|gts9fep|SM-X616N|
 |Samsung|Galaxy Tab S9 Ultra|gts9uwifi|SM-X910|
 |Samsung|Galaxy Tab S9 Ultra 5G|gts9u|SM-X916B|
 |Samsung|Galaxy Tab S9 Ultra 5G|gts9u|SM-X916C|
@@ -29377,6 +29397,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Samtech|TWIFI-06|TWIFI-06|TWIFI-06|
 |Samtech|TWIFI_07|TWIFI-07|TWIFI-07|
 |Samtech|TWIFI_Q07|TWIFI_Q07|TWIFI_Q07|
+|Samview|SAMVIEW|hongkong|4K SMART TV|
 |Sanaeko|FX9|SANAEKO|FX9|
 |Sandata|Sandata|Sandata_T5|T5|
 |Sandata|Sandata_T5|Sandata_T5|T5|
@@ -33805,6 +33826,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Tecno|NX|TECNO-R8|TECNO R8S|
 |Tecno|P5|up08_tecno_p5s|TECNO P5S|
 |Tecno|P702AS|TECNO-P702|TECNO P702AS|
+|Tecno|PHANTOM V Flip 5G|TECNO-AD11|TECNO AD11|
 |Tecno|PHANTOM V Fold|TECNO-AD10|TECNO AD10|
 |Tecno|PHANTOM X|TECNO-AC8|TECNO AC8|
 |Tecno|PHANTOM X2 5G|TECNO-AD8|TECNO AD8|
@@ -34928,6 +34950,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Umidigi|UMIDIGI G3 Max EEA|G3_Max|MP26|
 |Umidigi|UMIDIGI G5|UMIDIGI_G5|MP27|
 |Umidigi|UMIDIGI G5 EEA|UMIDIGI_G5|MP27|
+|Umidigi|UMIDIGI G5A|UMIDIGI_G5A|MP38|
 |Umidigi|UMIDIGI X|UMIDIGI_X|UMIDIGI X|
 |Umidigi|Z2|Z2|Z2|
 |Umidigi|Z2 Pro|Z2_PRO|Z2_PRO|
@@ -39607,6 +39630,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Zuum|MAGNO C PLUS|Magno_C_Plus|Magno C Plus|
 |Zuum|MAGNO C1|MAGNO_C1|MAGNO C1|
 |Zuum|MAGNO MINI|MAGNO_MINI|MAGNO MINI|
+|Zuum|Magno Pro|Magno_Pro|Magno Pro|
 |Zuum|ONIX|ONIX|ONIX|
 |Zuum|ONIX S|ONIX_S|ONIX S|
 |Zuum|ROCKET II|ROCKET_II|ROCKET II|

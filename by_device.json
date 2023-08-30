@@ -5053,7 +5053,7 @@
   },
   {
    "brand": "Continental Edison",
-   "name": "ContinentalEdison 4K Android TV",
+   "name": "ContinentalEdison 4K Android",
    "model": "ContinentalEdison 4K Android TV"
   },
   {
@@ -11538,6 +11538,11 @@
    "model": "BLAUPUNKT GOOGLE TV 4K"
   },
   {
+   "brand": "DIJITSU",
+   "name": "DIJITSU",
+   "model": "4K SMART TV"
+  },
+  {
    "brand": "Electroman",
    "name": "Electroman",
    "model": "Smart UHD TV"
@@ -11574,6 +11579,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "ASAANO",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "DANILUX",
    "model": "4K SMART TV"
   },
@@ -11599,6 +11609,11 @@
   },
   {
    "brand": "KTCtv",
+   "name": "FPS",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
    "name": "Global",
    "model": "GLOBAL GOOGLE TV 4K"
   },
@@ -11611,6 +11626,16 @@
    "brand": "KTCtv",
    "name": "NAKAMICHI",
    "model": "NAKAMICHI GOOGLE TV 4K"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "PHIMARK",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "POWEROLOGY",
+   "model": "4K SMART TV"
   },
   {
    "brand": "KTCtv",
@@ -11630,6 +11655,11 @@
   {
    "brand": "KTCtv",
    "name": "XELL",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "KTCtv",
+   "name": "YARA",
    "model": "4K SMART TV"
   },
   {
@@ -11680,6 +11710,11 @@
   {
    "brand": "Royal-rahmani",
    "name": "ROYALRAHMANI",
+   "model": "4K SMART TV"
+  },
+  {
+   "brand": "Samview",
+   "name": "SAMVIEW",
    "model": "4K SMART TV"
   },
   {
@@ -29478,6 +29513,13 @@
    "model": "i-217D1"
   }
  ],
+ "RM7504": [
+  {
+   "brand": "BenQ",
+   "name": "RM7504",
+   "model": "RM7504"
+  }
+ ],
  "T3_17A": [
   {
    "brand": "BenQ",
@@ -38562,6 +38604,11 @@
    "brand": "Itel",
    "name": "G5550",
    "model": "itel Android TV"
+  },
+  {
+   "brand": "Miramage",
+   "name": "TV5023UHDA11SMARTG",
+   "model": "Miramage AndroidTV"
   },
   {
    "brand": "Sceptre",
@@ -82000,6 +82047,11 @@
    "brand": "Hisense",
    "name": "ULED",
    "model": "SmartTV 4K FFM"
+  },
+  {
+   "brand": "Leica",
+   "name": "Leica Laser",
+   "model": "SmartTV 4K"
   },
   {
    "brand": "Vu Televisions",
@@ -154300,6 +154352,13 @@
    "model": "OPD2101"
   }
  ],
+ "OP5989": [
+  {
+   "brand": "Oppo",
+   "name": "OPPO Pad 2",
+   "model": "OPD2201"
+  }
+ ],
  "OP5225": [
   {
    "brand": "Oppo",
@@ -158003,6 +158062,11 @@
    "brand": "PEAQ",
    "name": "PET-101-H232E",
    "model": "PET 101-H232E"
+  },
+  {
+   "brand": "PEAQ",
+   "name": "PET-101-H232E",
+   "model": "PET 101-H232E-13"
   }
  ],
  "PET-101-H332S-W": [
@@ -177456,6 +177520,18 @@
    "model": "SM-A047M"
   }
  ],
+ "a05m": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A05",
+   "model": "SM-A055F"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy A05",
+   "model": "SM-A055M"
+  }
+ ],
  "a10e": [
   {
    "brand": "Samsung",
@@ -192353,6 +192429,45 @@
    "brand": "Samsung",
    "name": "Galaxy Tab S9 5G",
    "model": "SM-X716N"
+  }
+ ],
+ "gts9fe": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S9 FE 5G",
+   "model": "SM-X516B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S9 FE 5G",
+   "model": "SM-X516C"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S9 FE 5G",
+   "model": "SM-X516N"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S9 FE 5G",
+   "model": "SM-X518U"
+  }
+ ],
+ "gts9fep": [
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S9 FE+ 5G",
+   "model": "SM-X616B"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S9 FE+ 5G",
+   "model": "SM-X616C"
+  },
+  {
+   "brand": "Samsung",
+   "name": "Galaxy Tab S9 FE+ 5G",
+   "model": "SM-X616N"
   }
  ],
  "gts9uwifi": [
@@ -220796,6 +220911,13 @@
    "model": "TECNO P5S"
   }
  ],
+ "TECNO-AD11": [
+  {
+   "brand": "Tecno",
+   "name": "PHANTOM V Flip 5G",
+   "model": "TECNO AD11"
+  }
+ ],
  "TECNO-AD10": [
   {
    "brand": "Tecno",
@@ -227355,6 +227477,13 @@
    "brand": "Umidigi",
    "name": "UMIDIGI G5 EEA",
    "model": "MP27"
+  }
+ ],
+ "UMIDIGI_G5A": [
+  {
+   "brand": "Umidigi",
+   "name": "UMIDIGI G5A",
+   "model": "MP38"
   }
  ],
  "UMIDIGI_X": [
@@ -254490,6 +254619,13 @@
    "brand": "Zuum",
    "name": "MAGNO MINI",
    "model": "MAGNO MINI"
+  }
+ ],
+ "Magno_Pro": [
+  {
+   "brand": "Zuum",
+   "name": "Magno Pro",
+   "model": "Magno Pro"
   }
  ],
  "ONIX": [
