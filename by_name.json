@@ -45838,6 +45838,11 @@
   {
    "brand": "Continental Edison",
    "device": "kenton",
+   "model": "ContinentalEdison 4K Android"
+  },
+  {
+   "brand": "Continental Edison",
+   "device": "kenton",
    "model": "ContinentalEdison 4K Android TV"
   }
  ],
@@ -207505,6 +207510,13 @@
    "model": "T507U"
   }
  ],
+ "TCL 40T": [
+  {
+   "brand": "TCL",
+   "device": "Sonata_TF",
+   "model": "T608DL"
+  }
+ ],
  "TCL 40XL": [
   {
    "brand": "TCL",
@@ -232373,6 +232385,11 @@
    "brand": "Vivo",
    "device": "V2247",
    "model": "V2247"
+  },
+  {
+   "brand": "Vivo",
+   "device": "V2247",
+   "model": "V2324"
   }
  ],
  "Y36 5G": [

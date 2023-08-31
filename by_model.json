@@ -39531,6 +39531,13 @@
    "device": "yeongdeungpo"
   }
  ],
+ "ContinentalEdison 4K Android": [
+  {
+   "brand": "Continental Edison",
+   "name": "ContinentalEdison 4K Android",
+   "device": "kenton"
+  }
+ ],
  "ContinentalEdison 4K Android TV": [
   {
    "brand": "Continental Edison",
@@ -215889,6 +215896,13 @@
    "device": "Civic_Plus"
   }
  ],
+ "T608DL": [
+  {
+   "brand": "TCL",
+   "name": "TCL 40T",
+   "device": "Sonata_TF"
+  }
+ ],
  "T608M": [
   {
    "brand": "TCL",
@@ -243449,6 +243463,13 @@
   }
  ],
  "V2247": [
+  {
+   "brand": "Vivo",
+   "name": "Y36",
+   "device": "V2247"
+  }
+ ],
+ "V2324": [
   {
    "brand": "Vivo",
    "name": "Y36",

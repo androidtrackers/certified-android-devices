@@ -1,5 +1,5 @@
 # Google Play Certified Android devices
-Last sync is 2023-08-30
+Last sync is 2023-08-31
 
 https://support.google.com/googleplay/answer/1727131?hl=en
 
@@ -5106,6 +5106,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Continental Edison|CDI SMART TV|nagata|CDI SMART TV|
 |Continental Edison|CE10402|CE10402|CE10402|
 |Continental Edison|Continental Edison|yeongdeungpo|B UHD Android TV|
+|Continental Edison|ContinentalEdison 4K Android|kenton|ContinentalEdison 4K Android|
 |Continental Edison|ContinentalEdison 4K Android|kenton|ContinentalEdison 4K Android TV|
 |Continental Edison|Continential_Edison|bangbae|Continental 4K Android TV|
 |Continental Edison|EU、UK、AP|martin|Continental Edison Android TV|
@@ -31808,6 +31809,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |TCL|TCL 408|Civic_Plus|T507F|
 |TCL|TCL 408|Civic_Plus|T507J|
 |TCL|TCL 408|Civic_Plus|T507U|
+|TCL|TCL 40T|Sonata_TF|T608DL|
 |TCL|TCL 40XL|Sonata_Pro_OM|T608M|
 |TCL|TCL A3X|Delhi_TF|A600DL|
 |TCL|TCL C5|A3A|5152D|
@@ -36067,6 +36069,7 @@ https://support.google.com/googleplay/answer/1727131?hl=en
 |Vivo|Y35m|PD2230|V2230A|
 |Vivo|Y35m+|PD2279|V2279A|
 |Vivo|Y36|V2247|V2247|
+|Vivo|Y36|V2247|V2324|
 |Vivo|Y36 5G|V2248|V2248|
 |Vivo|Y51|Y51|vivo Y51|
 |Vivo|Y51A|PD1510|vivo Y51A|

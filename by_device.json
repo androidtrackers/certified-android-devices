@@ -5054,6 +5054,11 @@
   {
    "brand": "Continental Edison",
    "name": "ContinentalEdison 4K Android",
+   "model": "ContinentalEdison 4K Android"
+  },
+  {
+   "brand": "Continental Edison",
+   "name": "ContinentalEdison 4K Android",
    "model": "ContinentalEdison 4K Android TV"
   },
   {
@@ -210196,6 +210201,13 @@
    "model": "T507U"
   }
  ],
+ "Sonata_TF": [
+  {
+   "brand": "TCL",
+   "name": "TCL 40T",
+   "model": "T608DL"
+  }
+ ],
  "Sonata_Pro_OM": [
   {
    "brand": "TCL",
@@ -234270,6 +234282,11 @@
    "brand": "Vivo",
    "name": "Y36",
    "model": "V2247"
+  },
+  {
+   "brand": "Vivo",
+   "name": "Y36",
+   "model": "V2324"
   }
  ],
  "Y51": [

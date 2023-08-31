@@ -26444,6 +26444,11 @@
   {
    "device": "kenton",
    "name": "ContinentalEdison 4K Android",
+   "model": "ContinentalEdison 4K Android"
+  },
+  {
+   "device": "kenton",
+   "name": "ContinentalEdison 4K Android",
    "model": "ContinentalEdison 4K Android TV"
   },
   {
@@ -163280,6 +163285,11 @@
    "model": "T507U"
   },
   {
+   "device": "Sonata_TF",
+   "name": "TCL 40T",
+   "model": "T608DL"
+  },
+  {
    "device": "Sonata_Pro_OM",
    "name": "TCL 40XL",
    "model": "T608M"
@@ -185177,6 +185187,11 @@
    "device": "V2247",
    "name": "Y36",
    "model": "V2247"
+  },
+  {
+   "device": "V2247",
+   "name": "Y36",
+   "model": "V2324"
   },
   {
    "device": "V2248",
